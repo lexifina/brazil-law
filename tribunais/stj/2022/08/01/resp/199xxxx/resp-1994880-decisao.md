@@ -1,0 +1,54 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interpostopeloMUNICÍPIO DE SALVADORcontra acórdão prolatado, por unanimidade, pela 2ª Câmara cÍVEL DO Tribunal de Justiça do Estado da Bahiano julgamento de apelação, assim ementado (fls. 143/169e):
+APELAÇÃO E REMESSA NECESSÁRIA. DIREITO CONSTITUCIONAL ADMINISTRATIVO E PROCESSUAL CIVIL. AÇÃO DE OBRIGAÇÃO DE FAZER. PASSE LIVRE. PRELIMINARES DE NULIDADE DO JULGADO REJEITADAS. MÉRITO. CONCESSÃO DO BENEFÍCIO DE GRATUIDADE EM TRANSPORTE PÚBLICO MUNICIPAL. AUTORA PORTADORA DE DEFICIÊNCIA MENTAL (RETARDO MENTAL LEVE) CID 10F70 E PSICOSE ORGÂNICA NÃO ESPECIFICADA (CID 10 F29). DOCUMENTO QUE CONFIRMAM A DEFICIÊNCIA MENTAL É DEPOIS DOS 18 ANOS DE IDADE DA AUTORA. NÃO VERIFICAÇÃO DO MOMENTO EXATO EM QUE TEVE INÍCIO A DOENÇA. PREENCHIMENTO DOS REQUISITOS PREVISTOS NA LEI MUNICIPAL N 7.201/2001 PARA A CONCESSÃO DO PASSE LIVRE NO TRANSPORTE COLETIVO URBANO. IMPOSSIBILIDADE DE INTERPRETAÇÃO RESTRITIVA DE NORMA QUE DÁ CONCRETUDE A DIREITO SOCIAÇ, SOB PENA DE VIOLAÇÃO AOS PRINCÍPIOS CONSTITUCIONAIS DA ISONOMIA E DA DIGNIDADE DA PESSOA HUMANA. MAJORAÇÃO DOS HONORÁRIOS SUCUMBENCIAIS. SETENÇA A QUO MANTIDA. RECURSO DE APELAÇÃO CONHECIDO E NÃO PROVIDO.
+Opostos embargos de declaração, foram rejeitados (fls. 181/195e).
+Com amparo no art. 105, III, a e c, da Constituição da República, além de divergência jurisprudencial, aponta-se ofensa aos dispositivos a seguir relacionados, alegando-se, em síntese, que:
+i. art. 1.026, § 2º, do Código de Processo Civil- "embargos de declaração manifestados com notório propósito de prequestionamento não tem caráter protelatório"; e
+ii. art. 85, § 11, do Código de Processo Civil - "houve nova majoração de honorários, efetivada em sede de embargos de declaração, para além daquela já outrora promovida no bojo do acórdão que rejeitar a apelação da Municipalidade" (fl. 205e).
+Comcontrarrazões (fls. 216/234e), o recurso foi admitido (fls. 235/237e).
+O Ministério Público Federal manifestou-se às fls. 260/267e.
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Nos termos do art. 932, V, do Código de Processo Civil de 2015, combinado com os arts. 34, XVIII, c, e 255, III, do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a dar provimento a recurso se o acórdão recorrido for contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ:
+O Relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.
+Não possuindo caráter protelatório, a oposição de embargos de declaração com nítido fim de prequestionamento, não enseja a aplicação da multa prevista no art. 1.026, § 2º, do Código de Processo Civil de 2015, a teor do disposto na Súmula 98 desta Corte Superior.
+Nesse sentido:
+RECURSO FUNDADO NO NOVO CPC/2015. TRIBUTÁRIO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 1.022 DO NOVO CPC/2015.
+1. O Plenário do STJ, na sessão de 09.03.2016, definiu que o regime recursal será determinado pela data da publicação da decisão impugnada (Enunciado Administrativo n. 2/STJ). Logo, no caso, aplica-se o Novo CPC/2015.
+2. De acordo com a norma prevista no artigo 1.022 do Novo CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão da decisão recorrida ou erro material.
+3. No caso, não se verifica a existência de quaisquer das deficiências em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+4. Considerando que os embargos declaratórios vertentes são os primeiros opostos pela ora embargante, não há se falar em intuito manifestamente protelatório a ensejar a multa prevista no § 2º do art. 1.026 do Novo CPC/2015.
+5. Embargos de declaração rejeitados.
+(EDcl nos EDcl no AgRg no AgRg no REsp 1.087.921/DF, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 02/08/2016, DJe 12/08/2016).
+PROCESSUAL CIVIL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015 NÃO CONFIGURADA. REAJUSTE DE BENEFÍCIO PREVIDENCIÁRIO. EMENDAS CONSTITUCIONAIS 20/1998 E 41/2003. ACÓRDÃO RECORRIDO QUE DECIDE COM FUNDAMENTO EXCLUSIVAMENTE CONSTITUCIONAL. COMPETÊNCIA DO STF. EMBARGOS PROTELATÓRIOS. VIOLAÇÃO AO ART. 1.026, § 2º, DO CPC/2015. MULTA AFASTADA.
+1. Inicialmente, quanto à alegação de violação ao artigo 1.022 do CPC/2015, cumpre asseverar que o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em Embargos de Declaração apenas pelo fato de a Corte ter decidido de forma contrária à pretensão do recorrente.
+2. Quanto à questão de fundo, isto é, a revisão do benefício previdenciário observando os valores dos tetos estabelecidos nas Emendas Constitucionais 20/1998 e 41/2003, o recurso não merece que dela se conheça. Com efeito, verifica-se que o acórdão recorrido negou provimento à apelação com fundamento em precedentes do Supremo Tribunal Federal. Dessa forma, dada a natureza estritamente constitucional do decidido pelo Tribunal de origem, refoge à competência desta Corte Superior de Justiça a análise da questão, sob pena de usurpação da competência do Supremo Tribunal Federal.
+3. A irresignação merece acolhida em relação à alegada ofensa ao art. 1.026, § 2º, do CPC/2015 nos termos da Súmula 98 do STJ, in verbis: "Embargos de declaração manifestados com notório propósito de prequestionamento não têm caráter protelatório". No caso dos autos, os Embargos de Declaração ofertados na origem tiverem tal propósito, de maneira que deve ser excluída a multa fixada com base no supracitado dispositivo legal.
+4. Recurso Especial parcialmente provido.
+(REsp 1.669.867/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 27/06/2017, DJe 30/06/2017).
+No caso, verifico que o acórdão recorrido está em confronto com orientação desta Corte segundo a qual não é possível majorar os honorários advocatícios na hipótese de interposição de recurso no mesmo grau de jurisdição.
+Nesse sentido:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. VÍCIO NÃO CONFIGURADO. HONORÁRIOS. NOVA MAJORAÇÃO. DESCABIMENTO. VERBA HONORÁRIA JÁ MAJORADA NA DECISÃO MONOCRÁTICA.
+1. Os embargos de declaração, conforme dispõe o art. 1.022 do CPC, destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material.
+2. Não se identifica, no recurso, vício algum capaz de ensejar o acolhimento dos declaratórios, mas apenas a discordância da parte com a solução apresentada no julgamento e o propósito de modificação.
+3. No caso, o pronunciamento monocrático já determinou a majoração da verba honorária, conforme disposições do § 11 do artigo 85 do CPC, sendo descabido mais um aumento em virtude da interposição e desprovimento do agravo interno, pois não inaugurado novo grau de jurisdição. Precedentes.
+4. Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp n. 1.733.047/RS, relator Ministro Og Fernandes, Segunda Turma, julgado em 15/3/2022, DJe de 5/4/2022.)
+PROCESSUAL CIVIL. EMBARGOS DECLARATÓRIOS NO AGRAVO INTERNO NO RECURSO ESPECIAL. INEXISTÊNCIA DE VÍCIOS. EMBARGOS DE DECLARAÇÃO ACOLHIDOS, SEM EFEITOS MODIFICATIVOS, PARA FINS DE ESCLARECIMENTOS QUANTO AOS HONORÁRIOS.
+1. De início, impõe-se ressaltar que os presentes Embargos de Declaração foram opostos contra acórdão publicado já na vigência do novo Código de Processo Civil, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista (Enunciado Administrativo 3/STJ).
+2. Nestes Aclaratórios, as embargantes sustentam que o acórdão embargado "omitiu-se, no entanto, no tocante à fixação dos honorários recursais, previstos no art. 85, § 3º, do Código de Processo Civil." (fl. 1288, e-STJ).
+3. Na verdade, não verifico na espécie os pressupostos necessários e exigidos pelo art. 1.022 do CPC/2015 para o acolhimento dos Aclaratórios, visto que nenhuma omissão, obscuridade, contradição ou erro material existe, no corpo do decisum, que justifique o oferecimento desse recurso.
+4. Contudo, para evitar novos questionamentos, acolhem-se os Embargos Declaratórios para prestar esclarecimentos, sem, no entanto, atribuir-lhes efeitos infringentes.
+5. O pedido de arbitramento/majoração dos honorários de sucumbência no Agravo Interno, formulado pelas embargantes, deve ser rejeitado, em razão do entendimento da Escola Nacional de Formação e Aperfeiçoamento de Magistrados Ministro Sálvio de Figueiredo Teixeira  Enfam  adotado no seminário "O Poder Judiciário e o Novo CPC", no qual se editou o enunciado 16, com o seguinte teor: "Não é possível majorar os honorários na hipótese de interposição de recurso no mesmo grau de jurisdição (art. 85, § 11, do CPC/2015)."
+6. Dito de outro modo, como o Agravo Interno é recurso que apenas prorroga, no mesmo grau de jurisdição, a discussão travada no Recurso Especial, o caso concreto não comporta a aplicação do art. 85, § 11, do CPC/2015.
+7. Embargos de Declaração acolhidos, sem efeito modificativo, apenas para prestar esclarecimentos.
+(EDcl no AgInt no AREsp n. 1.625.889/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 24/2/2021, DJe de 1/3/2021.)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OMISSÃO. OCORRÊNCIA.
+1. Os embargos de declaração, nos termos do art. 1.022 do CPC/2015, têm ensejo quando há obscuridade, contradição, omissão ou erro material no julgado.
+2. Hipótese em que, em relação aos honorários recursais estabelecidos no art. 85, § 11, do CPC/2015, cabe o acréscimo de fundamentação ao acórdão.
+3. "Não é possível majorar os honorários na hipótese de interposição de recurso no mesmo grau de jurisdição (art. 85, § 11, do CPC/2015)" (Enunciado n. 16 da ENFAM).
+4. Embargos de declaração acolhidos, sem efeitos infringentes, para agregar fundamento ao voto.
+(EDcl no AgInt no REsp n. 1.638.863/RS, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 1/4/2019, DJe de 4/4/2019.)
+Posto isso, com fundamento nos arts. 932, V, do Código de Processo Civil de 2015 e 34, XVIII, c, e 255, III, ambos do RISTJ, DOU PROVIMENTO ao Recurso Especial, para afastar a multa e a majoração dos honorários advocatícios nos termos da fundamentação.
+Publique-se e intimem-se.
