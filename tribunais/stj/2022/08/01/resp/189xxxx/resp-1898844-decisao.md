@@ -1,0 +1,27 @@
+DECISÃO
+LUCIENE APARECIDA CRICOinterpõe recurso especial, fundado no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulona Apelação Criminal n. 0005639-64.2014.8.26.0242.
+Consta dos autos que a recorrente foi condenadaàs penas de 13 anos e 5 mesesde reclusão, no regime inicialmente fechado, e de 53 dias-multa, pela prática dos delitos do art. 312, caput, e do art. 297, § 1º , ambos do Código Penal(fls. 1.254-1.273).
+O Tribunal de origem, por sua vez, deu parcial provimentoà apelação defensiva para reconhecer a subsunção dos delitos de falsidade aos de peculato, reduzindo as reprimendas para 5 anos de reclusão, no regime inicialsemiaberto, e 25 dias-multa, pela prática do delito do art. 312, caput,por 44 vezes na forma do art. 71, ambos do Código Penal.
+Nas razões do recurso especial, a defesa sustenta violação doart.65, inciso III, alínea "d", do Código Penal, alegando que a confissão realizada perante a autoridade policial foi utilizada para formar o juízo condenatório e, ainda que não renovada em juízo, deve ser considerada para atenuar a pena.
+Requer o provimento do recurso para aplicar a atenuante da confissão espontânea e reduzir as reprimendas impostas à ré.
+As contrarrazões foram apresentadas às fls. 1.457-1.461. O recurso foi admitido na origem (fls. 1.464-1.465) e o Ministério Público Federal manifestou-se pelo seu provimento (fls. 1.475-1.477).
+Decido.
+I. Admissibilidade
+O recurso especial suplanta o juízo de prelibação, haja vista a ocorrência do necessário prequestionamento, além de estarem presentes os demais pressupostos de admissibilidade (cabimento, legitimidade, interesse, inexistência de fato impeditivo, tempestividade e regularidade formal), razão pela qual passo ao exame da quaestio iuris.
+II. Atenuante da confissão
+Sobre a autoria delitiva, assim discorreu o Juiz sentenciante (fls. 1.261-1.262, grifei):
+A acusada, por sua vez, durante a investigação, confessou a prática das condutas a ela imputadas. Afirmou ter se apropriado dos valores bem como ter falsificado, adulterado ou omitido as aludidas guias de depósito para fins de dissimulação.
+Importante destacar que a acusada, por ocasião de sua oitiva perante a Autoridade Policial, detalhou ter se apropriado do valor que lhefora entregue a titulo de pagamento de fiança no dia 11 de outubro de 2011, relativo ao registro de fiança que consta à fl. 148 do "Livro de Registro de Fianças Criminais Arbitradas pela AutoridadePolicial da DelPolMun Igarapava" aberto no dia 26/05/2000, mediante o arquivamento de comprovante que não correspondia à verdade. Nessa mesma oportunidade, destacou que desse caso em diante, em todos os demais flagrantes nos quaisfuncionou como escrivã apropriou-se dos valores que lhe foram entregues em pagamento de fiança, o que perdurou até o momento que em suas práticas foram descobertas por seus superiores hierárquicos, ou seja, até meados do ano de 2014.
+Importante registrar que a confissão apresentada na fase policial é rica em detalhes, tendo a acusada descrito, inclusive, a data em que se deu a primeira das sucessivas e reiteradas apropriações de valores que lhe foram entregues a título de pagamento de fiança (11/10/2011), bem como o meio pelo qual e utilizou para dissimular essa primeira apropriação (arquivamento de comprovante que não correspondia à verdade).
+Portanto, diante desse contexto, é legítimo afirmar que a confissão extrajudicial levada a cabo pela acusada é dotada de destacada credibilidade e elevado valor probatório, notadamente pelo fato de não ter sido infirmada em nenhuma medida na fase judicial, pois ela optou por fazer uso do direito constitucionalao silêncio por ocasião do interrogatório em Juízo.
+O Tribunal estadualrechaçou a possibilidade de reconhecimento da confissão espontânea, tendo em vista que"não renovada em juízo" (fl. 1.377).
+No entanto, esta Corte Superior possui o entendimento de que, se a confissão do acusado foi utilizada para corroborar o acervo probatório e fundamentar a condenação, deve incidir a atenuante, sendo irrelevante o fato de a confissão ter sido espontânea ou não, total ou parcial, ou mesmo que tenha havido posterior retratação.
+Dessa forma, verifico a procedência das alegações defensivas, haja vista que a confissão daré, ainda que não confirmada em juízo, foi utilizada para corroborar o acervo probatório e fundamentar a condenação, devendo incidir a atenuante prevista no art. 65, III, "d", do Código Penal.
+Nesse sentido foi editada a Súmula n. 545 do STJ, in litteris: "Quando aconfissão for utilizada para a formação do convencimento do julgador, o réu fará jus à atenuante prevista no art. 65, III, d, do Código Penal".
+III. Readequação da dosimetria
+Na primeira fase a pena-base ficou estabelecida em 3 anos de reclusão e 15 dias-multa.
+Na segunda etapa, faz-se incidir a atenuante da confissão, razão pela qual reduzo a pena em 1/6, o que perfaz 2 anos e 6 meses de reclusão e 12 dias-multa.
+Na última etapa, mantido o aumento de 2/3 pela continuidade delitiva, ficaareprimenda definitivamente fixadaem4 anos e 2 meses de reclusão, mais 20 dias-multa.
+IV. Dispositivo
+À vista do exposto, com fundamento no art. 932, VIII, do CPC, c/c o art. 34, XVIII, "c", parte final, do RISTJ, dou provimento ao recurso especial, para, reconhecida a incidência da atenuante do art. 65, III, "d", do Código Penal, redimensionar areprimendaimpostaà recorrente para 4 anos e 2 meses de reclusão, mais 20 dias-multa, mantidos os demais termos do acórdão recorrido.
+Publique-se e intimem-se.
