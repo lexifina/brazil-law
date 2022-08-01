@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso especial interposto pela AGÊNCIA NACIONAL DE TRANSPORTES TERRESTRES - ANTT, com fundamento no art. 105, inciso III, alínea "a", da CF/1988, contra acórdão do TRF da 4ª Região assim ementado (e-STJ fl. 35):
+AGRAVO DE INSTRUMENTO. RENAJUD. RESTRIÇÃO DE CIRCULAÇÃO DE VEÍCULO.
+Não cabe a anotação no sistema Renajud de restrição à circulação de veículo quando não houver justificativa para tanto, como no caso em que nem sequer há penhora sobre o veículo.
+No especial, a parte alega, em síntese, violação:
+a) do art. 1.022, II, do CPC, pois entende que, apesar dos embargos de declaração, o Tribunal de origem foi omisso na análise da legislação aplicável ao caso concreto;
+b) dos arts. 10 e 11 da Lei n. 6.830/80; 139, 154 e 797do CPC, ao argumento de que deve ser deferida a restrição de circulação do veículo, a fim de assegurar o resultado útil ao processo executivo(e-STJ fls. 63/70).
+Sem contrarrazões.
+O recurso especial foi admitido na origem (e-STJ fl. 74).
+Passo a decidir.
+De início, constata-se que o recurso especial não merece ser conhecido quanto à suposta violação do art. 1.022 do CPC/2015, porquanto esta Corte de Justiça tem decidido, reiteradamente, que a referida alegação deve estar acompanhada de causa de pedir suficiente à compreensão da controvérsia, com indicação precisa dos vícios de que padeceria o acórdão impugnado.
+No caso, a recorrente limita-se a afirmar que a Corte a quo não teria analisado a legislação aplicável ao caso concreto, sem indicar em que aspectos residiriam as omissões. Tal circunstância impede o conhecimento do recurso especial, à luz da Súmula 284 do Supremo Tribunal Federal.
+A propósito, cito os seguintes precedentes AgInt no AREsp 1245152/PE, Relator Ministro Francisco Falcão, Segunda Turma, DJe 08/10/2018, REsp 1627076/SP, Relator Ministra Regina Helena Costa, Primeira Turma, DJe 14/08/2018, AgInt no AREsp 1134984/MG, Relator Ministro Sérgio Kukina, Primeira Turma, DJe 06/03/2018 e AgInt no REsp 1720264/MG, Relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe 21/09/2018.
+No mérito, os autos versam sobreexecução fiscal proposta pela ANTT, na qual omagistrado singularindeferiu o pedido de inclusão de restrição de circulação de veículos no Sistema RENAJUD.
+O Regional manteve a decisão, sob o fundamento de que "a restrição total sobre veículos resulta em medida extrema, devendo ser determinada, por ora, apenas a restrição de transferência do bem junto ao órgão de trânsito, esta suficiente ao fim pretendido"(e-STJ fl. 38):
+O sistema RENAJUD instrumentaliza comunicação informatizada entre o Poder Judiciário e o DENATRAN (Departamento Nacional de Trânsito), facilitando o registro de ordens judiciais de restrição à propriedade, à detenção, ou ao uso de veículos automotores na base de dados do Registro Nacional de Veículos Automotores (RENAVAM).
+Conforme previsão do Regulamento do RENAJUD, a restrições ali previstas restam assim:
+Art. 7º - A restrição de transferência impede o registro da mudança da propriedade do veículo no sistema RENAVAM.
+Art. 8º - A restrição de licenciamento impede o registro da mudança da propriedade, bem como um novo licenciamento do veículo no sistema RENAVAM.
+Art. 9º - A restrição de circulação (restrição total) impede o registro da mudança da propriedade do veículo, um novo licenciamento no sistema RENAVAM e também sua circulação em território nacional, autorizando o recolhimento do bem a depósito.
+Na linha da decisão agravada, tem-se que a restrição total sobre veículos resulta em medida extrema, devendo ser determinada, por ora, apenas a restrição de transferência do bem junto ao órgão de trânsito, esta suficiente ao fim pretendido.
+O entendimento firmado pelo Tribunal de origem, no sentido de afastar a restrição de circulação do veículo por considerá-la "medida extrema", contrariaa jurisprudência desta Corte Superior sobre o tema.
+Confiram -se:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO FISCAL. RESTRIÇÃO DE CIRCULAÇÃO DE VEÍCULO. RENAJUD. POSSIBILIDADE.
+1. O Superior Tribunal de Justiça possui precedentes favoráveis à possibilidade de restrição de circulação de veículo, por via do sistema RENAJUD, para viabilizar a localização e apreensão do bem, a fim de que seja realizada a penhora e a consequente satisfação do crédito exequendo.Nesse sentido, as seguintes decisões monocráticas: REsp 1.669.427/RS, Rel.Ministro Mauro Campbell Marques, DJe 9/6/2017; AREsp 1.165.070/MG, Rel. Ministro Marco Aurélio Bellizze, DJe 7/11/2017; AREsp 1.076.857/MG, Rel. Ministro Luis Felipe Salomão, DJe 5/5/2017; AREsp 1.071.742/MG, Rel.Ministra Isabel Gallotti, DJe 18/4/2017; AREsp 1.062.167/MG, Rel. Ministro Antonio Carlos Ferreira, DJe 5/9/2017; e AREsp 1.155.900/MG, Rel. Ministro Moura Ribeiro, DJe 2/10/2017.
+2. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.678.675/RS, Rel. Ministro OG FERNANDES, Segunda Turma, julgado em 06/03/2018, DJe 13/03/2018).
+PROCESSUAL CIVIL. EXECUÇÃO FISCAL. DECRETO DE INDISPONIBILIDADE DE VEÍCULO AUTOMOTOR REGISTRADO EM NOME DO EXECUTADO. POSSIBILIDADE. NÃO-LOCALIZAÇÃO DO VEÍCULO PARA FINS DE PENHORA OU ARRESTO. IRRELEVÂNCIA.
+1. Em conformidade com o art. 185-A do Código Tributário Nacional, é possível que seja ordenado ao órgão de trânsito competente o bloqueio de automóvel de propriedade do executado para prevenir eventual fraude à execução, mesmo que ainda não tenha havido a formalização da penhora do veículo automotor. Com efeito, é possível o decreto de indisponibilidade de veículo automotor registrado em nome do executado, mesmo que o veículo ainda não tenha sido encontrado e, justamente por sua não-localização, esteja inviabilizada a penhora ou arresto. De modo a viabilizar futura garantia da execução, bem como sua efetividade perante terceiros, determina-se a indisponibilidade do veículo junto ao DETRAN.
+2 . O Sistema RENAJUD é uma ferramenta eletrônica que interliga o Poder Judiciário e o Departamento Nacional de Trânsito - DENATRAN, possibilitando consultas e o envio, em tempo real, de ordens judiciais eletrônicas de restrição e de retirada de restrição de veículos automotores na Base Índice Nacional (BIN) do Registro Nacional de Veículos Automotores - RENAVAM. O sistema RENAJUD permite o envio de ordens judiciais eletrônicas de restrição de transferência, de licenciamento e de circulação, bem como a averbação de registro de penhora de veículos automotores cadastrados na Base Índice Nacional (BIN) do Registro Nacional de Veículos Automotores - RENAVAM.
+3. No caso concreto, o Estado de Mato Grosso do Sul requereu a expedição de ofício ao Detran local, requisitando o imediato bloqueio na transferência do veículo registrado em nome da executada, ora recorrida.
+4. Recurso especial provido.
+(REsp 1.151.626/MS, Rel. Ministro MAURO CAMPBELL MARQUES, Segunda Turma, julgado em 17/2/2011, DJe 10/3/2011).
+Ante o exposto, com base no art. 255, § 4º, I e III, do RISTJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, DOU-LHE PROVIMENTO,para determinar a restrição de circulação sobre o veículo descrito nos autos, nos termos da fundamentação.
+Publique-se. Intimem-se.
