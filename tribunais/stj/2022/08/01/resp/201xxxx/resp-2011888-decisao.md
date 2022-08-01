@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de Recurso Especial interposto, com fundamento no art. 105, III, "a", da Constituição da República, contra acórdão assim ementado (fls. 213-219, e-STJ):
+PREVIDENCIÁRIO. AUXÍLIO-RECLUSÃO. REQUISITOS. LEGISLAÇÃO VIGENTE À ÉPOCA DO ENCARCERAMENTO. RENDA SUPERIOR AO LIMITE LEGAL. HONORÁRIOS ADVOCATÍCIOS.
+1. A concessão de auxílio-reclusão rege-se pela legislação vigente à época do encarceramento, a qual, no caso, previa que o benefício era devido aos dependentes do segurado recolhido à prisão que não recebesse remuneração da empresa, nem estivesse em gozo de auxílio-doença, aposentadoria por invalidez ou de abono de permanência em serviço, e tivesse renda bruta mensal igual ou inferior ao limite legal estipulado.
+2. Hipótese em que a renda auferida pelo segurado no momento de sua prisão ultrapassava o limite estabelecido na legislação de regência.
+3. Não preenchido um dos requisitos necessários à percepção de auxílio-reclusão, não tem a parte autora direito à concessão do benefício.
+4. Invertidos os ônus sucumbenciais, impõe-se a condenação da parte autora ao pagamento de honorários advocatícios, fixados em 10% (dez por cento) sobre o valor da causa, cuja exigibilidade fica suspensa em face da concessão de gratuidade da justiça.
+Os Embargos de Declaração do INSS foram rejeitados(fls. 249-254, e-STJ).
+A parte recorrente afirma que houve, além de divergência jurisprudencial, ofensa aos arts. 80 da Lei 8.213/1991 e 116, § 1º, do Decreto 3.048/1999. Sustenta que "o r. Tribunal Federal da 4ª Região ao invés de considerar o último salário de contribuição percebido pelo Segurado instituidor, utiliza como critério para aferição de renda o último salário de contribuição integral percebido pelo instituidor".
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 15 de julho de 2022.
+Preliminarmente, o Relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema (Súmula 568/STJ).
+Constata-se que a Ação foi interposta em 8 de abril de 2020, e o segurado, genitor da postulante, ficou recluso de 9.2.2015 até 1º.7.2020. Vigia, à época do recolhimento à Prisão, a portaria MPS/MF 13/2015, que estabelecia o teto de R$ 1.089,72. Na sentença, decidiu-se apontar, como ultimo rendimento,o valor de janeiro (R$ 728,43), e foi acolhido o pedido formulado.
+O acórdão reformou a sentença e consignou:
+A consulta ao CNIS, por sua vez, revela que, no mês de novembro de 2014, Maike percebeu a quantia de R$ 1.040,60, elevando para R$ 1.190,90 no mês seguinte. Em janeiro de 2015, sua remuneração proporcional aos dias trabalhados foi de R$ 728,43 (Evento 1, PROCADM14,
+(..)
+Nesse passo, não é possível flexibilizar os critérios previstos na legislação de regência, na medida em que o valor da remuneração percebida ao tempo do encarceramento superava o limite fixado na portaria em importância considerável (mais de 16%).
+E, mesmo considerando o teto de R$ 1.089,72, vigente a partir de 01/01/2015 (Portaria MPS/MF nº 13/2015), ainda assim a remuneração integral o ultrapassa de forma significativa (quase 10%).
+O Estado, através do Regime Geral de Previdência Social, entendeu por bem amparar os que dependem do segurado preso e definiu como critério para a concessão do benefício a "baixa renda". A Portaria MPS/MF 13/2015 estipulou como teto o valor de R$ 1.089,72 a partir de 1º de janeiro de 2015.
+Em que pese a tardia promoção da Ação, constato que o benefício, na via administrativa, foi requerido em 5 de maio de 2016 e indeferido. A sentença e o acórdão divergiram apenas a respeito do quantum recebido pelo segurado no momento imediatamente anterior à prisão, declarando preenchidos os demais requisitos para a concessão do auxílio reclusão.
+Ilustrativamente, cito:
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. RECURSO ESPECIAL. DEPENDENTE ABSOLUTAMENTE INCAPAZ. MENOR IMPÚBERE. TERMO INICIAL DO BENEFÍCIO: DATA DA RECLUSÃO. O PRAZO PRESCRICIONAL NÃO CORRE CONTRA O INCAPAZ. INTELIGÊNCIA DOS ARTS. 198, I, DO CÓDIGO CIVIL C/C OS ARTS. 79 E 103, PARÁG. ÚNICO DA LEI 8.213/1991. RECURSO ESPECIAL DO PARTICULAR PROVIDO.
+1. O termo inicial do benefício de auxílio-reclusão, quando devido a dependente absolutamente incapaz, é a data da prisão do segurado.
+2. É firme o entendimento desta Corte de que os prazos decadenciais e prescricionais não correm em desfavor do absolutamente incapaz.
+Ademais, não se poderia admitir que o direito do menor fosse prejudicado pela inércia de seu representante legal.
+3. Recurso Especial do particular provido.
+(REsp 1.393.771/PE, Rel. Min. Napoleão Nunes Maia Filho, Primeira Turma, DJe 6.12.2017)
+A jurisprudência do Superior Tribunal de Justiça determinaque os requisitos para a concessão do benefício devem ser verificados no momento do recolhimento à prisão. Nesse sentido: AgRg no REsp 831.251/RS, Rel. Ministro Celso Limongi (Desembargador convocado do TJ/SP), Sexta Turma, DJe 23.5.2011; REsp 760.767/SC, Rel. Ministro Gilson Dipp, Quinta Turma, DJ 24.10.2005, p. 377; e REsp 395.816/SP, Rel. Ministro Fernando Gonçalves, Sexta Turma, DJ 2.9.2002, p. 260. A questão foi pacificada após o julgamento do REsp 1.485.416/SP, submetido à sistemática dos Recursos Especiais Repetitivos, em observância ao princípio tempus regit actum.
+Para apurar se a parte autora enquadra-se na condição de segurado de baixa renda e alterar as conclusões adotadas pela Corte de origem, énecessário examinar o acervo fático-probatório dos autos.Não obstante, o Superior Tribunal de Justiça entende ser cabível a flexibilização do critério econômico para deferimento do benefício de auxílio-reclusão, ainda que o salário de contribuição do segurado supere o valor legalmente fixado como critério de baixa renda, quando for necessária a proteção social dos dependentes do segurado. Neste sentido: AREsp 589.121/SP, Rel. Ministra Assusete Magalhães, DJe 28.4.2015; REsp 1.694.029/SP, Rel. Ministro Mauro Campbell Marques, DJe 12.9.2017; REsp 1.754.722/PR, Rel. Ministro Mauro Campbell Marques, DJe 24.8.2018; REsp 1.742.998/RS, Rel. Ministro Sérgio Kukina, 13.6.2018; REsp 1.656.708/SP, Rel. Ministro Mauro Campbell Marques, 7.4.2017; AREsp 585.428/SP, Rel. Ministra Regina Helena Costa, 17.9.2015; e AREsp 590.864/SP, Rel. Ministro Sérgio Kukina, 14.8.2015.
+Para a concessão de auxílio-reclusão (artigo 80 da Lei 8.213/1991), o critério para aferir a renda do segurado que não exerce atividade laboral remunerada no momento do recolhimento à prisão é a ausência de renda, e não o último salário de contribuição(REsp 1.485.417/MS, Rel. Ministro Herman Benjamin, Primeira Seção, DJe 2.2.2018).
+Assim, constato que a sentença melhor reflete a orientaçãodeste Superior Tribunal de Justiça, uma vez que não há comprovação de que o segurado tenha recebido valores superiores ao teto estipulado pela portaria em vigor no momento do seu encarceramento.
+Com essas considerações, dou provimento ao Recurso Especialpara que seja restabelecida a sentença.
+Publique-se.
+Intimem-se.
