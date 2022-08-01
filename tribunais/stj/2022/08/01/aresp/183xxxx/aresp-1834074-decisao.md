@@ -1,0 +1,74 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu o recurso especial interposto por GB Gabriel Bacelar Construções S.A., com base no art. 105, III, a, da Constituição Federal, desafiando acórdão do Tribunal de Justiça do Estado de Pernambuco assim ementado (e-STJ, fl. 269):
+Apelação cível em sede de Ação de Obrigação de fazer c/c Perdas e Danos. Compra de apartamento. Posterior descoberta de que a área da garagem não é suficiente para o automóvel da demandante. Constatação de que na promessa de compra e venda há a previsão de que as garagens comportam veículo de médio porte. Informação que está em desarmonia com outros documentos onde há a previsão de que a garagem suporta automóvel de pequeno porte. Sentença que julgou procedentes os pedidos firmados na inicial. Dano material a ser arbitrado em liquidação de sentença. Danos morais fixados em R$ 25.000,00 (vinte e cinco mil reais)
+1. Preliminar de decadência. Inaplicabilidade da regra do art. 26 do CDC. Constatação de que a autora pleiteia indenização por perdas e danos. Observância do prazo de 05 (cinco) anos estabelecido no art. 27 da Norma Consumerista. Rejeição da preliminar.
+2. Mérito. Constatação de que na promessa de compra e venda firmada pelas partes há, de fato, a informação de que as vagas de garagens da autora comportam veículo de médio porte. Existência no local de uma parede e de uma pilastra (outro lado) que impede a abertura da porta do veículo suficiente para uma pessoa ingressar ou sair do automóvel. Demandada/apelante que reconheceu ter havido "erro material" no aludido documento. Promessa de compra e venda que constitui o documento que reflete qualquer negociação firmada pelas partes. Existência de outros documentos contendo a informação de que a garagem comporta veículo de pequeno porte que se mostra incapaz de afastar a responsabilidade da apelante. Dano material. Configuração. Área de garagem que não serve ao que se destina. Situação que, no caso presente, implica em verdadeira desvalorização do imóvel. Dano moral. Indenização que se mostra compatível com os princípios da razoabilidade e da proporcionalidade.
+3. Perda de objeto das preliminares suscitadas pela apelada em contrarrazões objetivando o não conhecimento do apelo da ré por ausência de impugnação específica quanto à matéria e os fundamentos da sentença.
+4. Recurso a que se nega provimento. Decisão unânime.
+Os embargos de declaração foram rejeitados, conforme se verifica da seguinte ementa (e-STJ, fl. 292):
+Embargos de declaração em sede de apelação. Compra de apartamento. Posterior descoberta de que a área da garagem não é suficiente para comportar o automóvel da demandante/embargada. Divergência entre as informações da promessa de compra e venda e outros documentos onde consta que a garagem suporta automóvel de pequeno porte. Sentença que julgou procedentes os pedidos firmados na inicial.
+Contradição que, em sede de declaratórios, exige verdadeira incoerência/ incompatibilidade entre a fundamentação e a parte dispositiva do julgado. Inocorrência na espécie. Precedentes do Superior Tribunal de Justiça.
+Pretensão que reflete indevida renovação do mérito da lide. Impossibilidade. Prazo decadencial para o ajuizamento da ação que foi devidamente apreciado e debatido por este órgão jurisdicional. Rejeição dos aclaratórios. Decisão unânime.
+Em suas razões de recurso especial (e-STJ, fls. 300-307), a agravante alegou violação ao art. 26, II, do Código de Defesa do Consumidor de 1990.
+Sustentou, em síntese, que o prazo decadencial de 90 (noventa) dias é aplicável ao caso em questão, tendo em vista que a consumidora reclama de vícios de produto ou do serviço.
+Apresentadas as contrarrazões (e-STJ, fls. 316-319).
+O processamento do apelo especial não foi admitido pela Corte local (e-STJ, fls. 322-326), levando a insurgente a interpor o presente agravo.
+Contraminuta também apresentada (e-STJ, fls. 339-342).
+Brevemente relatado, decido.
+De plano, vale pontuar que o recurso em análise foi interposto na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo n. 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Cinge-se a controvérsia acerca da aplicação, ou não, do prazo de decadência do art. 26, II, do CDC/1990 ao caso em comento.
+Ao analisar a questão, o Colegiado estadual rechaçou a tese de decadência por entender que a pretensão da autora na ação ordinária ajuizada era a indenização pelo descumprimento contratual, e não o simples abatimento de preço do imóvel.
+Confira-se (e-STJ, fls. 254-258, sem grifos no original):
+Pugna a recorrente pela aplicação ao caso da regra do art. 26, II, do Código de Defesa do Consumidor, que assim estabelece:
+Art. 26. O direito de reclamar pelos vícios aparentes ou de fácil constatação caduca em:
+II - noventa dias, tratando-se de fornecimento de serviço e de produtos duráveis.
+Tal entendimento não merece prosperar, pois os prazos do art. 26 do CDC estão relacionados às garantias legais, conforme leciona Fabrício Bolzan, em sua obra Direito do Consumidor Esquematizado (coordenada pelo renomado doutrinador Pedro Lenza), 2a edição, pg. 392:
+"Os prazos decadenciais revistos no art. 26 do Código de defesa do Consumidor referem-se ao período de tempo que terá o consumidor para reclamar os vícios do produto ou do serviço, insto é para reclamar o descumprimento da garantia legal"
+No caso em tela, a lide versa sobre a reparação de um dano sofrido, ou seja, há de se aplicar ao caso em comento o prazo prescricional de 05 (cinco) anos estabelecidos no art. 27 do CDC, que assim disciplina:
+Art. 27. Prescreve em cinco anos a pretensão à reparação pelos danos causados por fato do produto ou do serviço prevista na Seção II deste Capítulo, iniciando-se a contagem do prazo a partir do conhecimento do dano e de sua autoria.
+Este, inclusive, foi o entendimento do magistrado singular quando rejeitou esta mesma preliminar suscitada pela demandada, a saber:
+Rejeito, também, a prejudicial de mérito de decadência do direito da autora, tendo em vista que, tratando-se de relação de consumo, a decadência alegada pela ré albergada no artigo 26 do CDC não obsta a busca pela reparação do dano sofrido em juízo, na forma do artigo 27 do CDC, já que o pedido versa sobre reparação dos danos causados. Neste caso, o prazo conta-se da vistoria realizada no imóvel, pois só a partir de então tem o consumidor como aferir o tamanho real de sua vaga de garagem, não tendo sido efetivada, por conseguinte, a decadência, motivo pelo qual, a prejudicial de mérito deve ser rejeitada.
+Observe-se que a promessa de compra e venda foi assinada em: 01.07.2009 (fls. 315/39), contudo, não há nos autos prova da data efetiva da entrega do imóvel, porém, a presente ação foi ajuizada em 08.07.2014, ou seja, pouco mais de 05 (cinco) anos da assinatura do contrato de um empreendimento que ainda não estava pronto, razão pela qual resta evidente que não transcorreu o prazo de 05 (cinco) anos acima referido em desfavor da autora.
+Isto posto, voto no sentido de rejeitar a preliminar suscitada pela recorrente.
+MÉRITO:
+No mérito, tenho que não merece guarida a alegação de que sempre foram oferecidas para a autora 02 (duas) vagas para veículo de pequeno porte, conforme descrito "planta baixa do pavimento térreo", no contrato de financiamento e na escritura pública de compra e venda.
+Neste aspecto, registro que a própria apelante reconhece em sua petição recursal que houve um "erro material" quando da assinatura do contrato de promessa de compra e venda com a apelada quando constou no aludido documento a informação de que as vagas de garagem eram destinadas a veículo de médio porte.
+Note-se que o vício em questão ocorreu justamente no contrato de promessa de compra e venda, documento este que deve refletir todas as negociações formuladas pelas partes.
+(..)
+Reconheço a previsão contratual de que alguns locais do empreendimento possuem algum inconveniente de acesso à vaga de garagem, o que não reflete a hipótese dos autos, pois a autora/apelada acostou ao feito diversas fotografias onde mostram, claramente, que a vaga não comporta o seu veículo já que a abertura das portas fica bastante restrita em razão da parede e de uma pilastra existente no local, o que torna o espaço insuficiente para uma pessoa adentrar no automóvel.
+De qualquer forma, tratando-se de evidente contrato de adesão as cláusulas restritivas devem ser interpretadas de modo mais favorável ao consumidor.
+Portanto, a alegação de que as vagas eram predeterminadas e, por isso, nunca foram oferecidas outras vagas à recorrida quando da contratação não tem o condão de alterar qualquer entendimento deste relator já que a discussão nos autos está adstrita ao fato de constar uma informação num documento e a realidade corresponder a situação diversa.
+(..)
+Indubitável, portanto, que a situação em tela representa dano material a ser indenizado, pois além de a área da garagem não se prestar, efetivamente, ao que se destina (comportar um carro médio), há uma evidente desvalorização do imóvel da apelada, já que a garagem representa muitas vezes um fator determinante na escolha da unidade imobiliária, o que, no caso dos autos, configura um verdadeiro prejuízo à autora/apelada.
+(..)
+Ademais, observo que a autora/apelada não está na presente lide pleiteando outra vaga para si ou um outro local para sua vaga, mas, apenas, a compensação pelos prejuízos que sofre em razão do infortúnio acima narrado.
+Por fim, registro que a apelante pugna pela reforma da condenação em danos morais na medida em que não teria havido qualquer abalo psíquico sério a justificar tal condenação.
+Tenho que a recorrente não merece melhor sorte.
+Ora, a casa própria é algo tão desejado pelos cidadãos do nosso país que se chegou até mesmo a alcunhar a matéria como "o sonho da casa própria".
+Acrescente-se, ainda, que a compra de um apartamento é um investimento de alto capital e que muitas vezes a pessoa compra um único imóvel por toda vida.
+Destarte, o fato de a garagem não comportar o veículo da apelada representa, sem sombra de dúvidas, aborrecimento que transcende meros dissabores até porque todo dia a demandante revive sua angústia quando vai estacionar seu carro no local.
+No que tange ao valor da indenização arbitrada pelo Juízo a quo (R$ 25.000,00 - vinte e cinco mil reais) tenho que a mesma se encontra associada com os princípios da razoabilidade e da proporcionalidade, razão pela qual não merece qualquer alteração.
+Isto, posto, ficando, voto no sentido de negar provimento preliminares ao recurso da demandada , ficando portanto, prejudicadas as preliminares suscitadas pela autora/apelada, em contrarrazões, de falta de requisitos na interposição do apelo por ausência de impugnação específica quanto à matéria e fundamentos da sentença.
+De fato, ao analisar o inteiro teor da exordial (e-STJ, fls. 249-269), constata-se que toda a fundamentação está centrada, conforme destacado no acórdão recorrido, na condenação da empresa demandada pelos danos materiais e morais suportados pela agravada, tratando-se de uma pretensão indenizatória, submetida, portanto, a prazo prescricional.
+Assim, verifica-se que o acórdão recorrido está em sintonia com a jurisprudência desta Corte Superior, no sentido de afastar a tese de decadência na hipótese dos autos,e aplicaro prazo prescricionalpara obter, do construtor, indenização em virtude dos vícios constatados.
+Na mesma linha de cognição:
+AGRAVO INTERNO NO RECURSO ESPECIAL. COMPRA E VENDA. IMÓVEL COM DEFEITO. METRAGEM A MENOR. PRAZO DECADENCIAL. INAPLICABILIDADE. PRETENSÃO INDENIZATÓRIA. PRESCRIÇÃO. PRAZO DECENAL. ART. 205 DO CÓDIGO CIVIL.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A orientação do Superior Tribunal de Justiça é firme no sentido de se aplicar o prazo prescricional disposto no art. 205 do Código Civil à pretensão indenizatória decorrente do vício construtivo.
+3. O abatimento de preço ante a diferença de metragem em vaga de garagem não foi objeto de discussão no acórdão recorrido.
+Precedentes que não retratam a mesma situação fática dos autos.
+4. Agravo interno não provido.
+(AgInt no REsp n. 1.889.229/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 15/6/2021, DJe de 21/6/2021.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REPARAÇÃO DE DANOS MATERIAIS E MORAIS. CONTRATO DE PRESTAÇÃO DE SERVIÇOS. PROJETO ARQUITETÔNICO, ASSESSORIA E ACOMPANHAMENTO TÉCNICO DE CONSTRUÇÃO.OFENSA AOS ARTS. 489, § 1º, E 1.022 DO CPC. OMISSÃO. INEXISTÊNCIA.VÍCIOS CONSTRUTIVOS. PRETENSÃO INDENIZATÓRIA. PRAZO DECADENCIAL (CDC, ART. 26). INAPLICABILIDADE. PRESCRIÇÃO DECENAL (CC/2002, ART.205). AGRAVO NÃO PROVIDO.
+1. Não há que se falar em ofensa aos arts. 489, § 1º, e 1.022, II, do CPC/2015, uma vez que o acórdão recorrido adotou fundamentação suficiente, decidindo integralmente a controvérsia. É indevido conjecturar-se a existência de omissão, obscuridade ou contradição no julgado apenas porque decidido em desconformidade com os interesses da parte.
+2. A pretensão de natureza indenizatória do consumidor pelos prejuízos decorrente dos vícios do imóvel não se submete à incidência de prazo decadencial, mas sim de prazo prescricional.
+Precedentes.
+3. Esta Corte Superior entende que "o prazo prescricional da ação para obter, do construtor, indenização por defeito da obra na vigência do Código Civil de 2002 é de 10 anos" (AgRg no AREsp 661.548/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, DJe 10/6/2015).
+4. Agravo interno não provido.
+(AgInt no AREsp 1711018/PR, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 12/04/2021, DJe 12/05/2021)
+Dessa forma, inviável o recurso especial se o acórdão recorrido se alinha com o posicionamento sedimentado na jurisprudência desta Corte Superior, conforme dispõe a Súmula 83/STJ.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C PERDAS E DANOS. COMPRA E VENDA DE IMÓVEL. DANOS MATERIAIS E MORAIS. DEFEITO NA OBRA. APLICAÇÃO DE PRAZO PRESCRICIONAL. INCIDÊNCIA DA SÚMULA 83/STJ. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
