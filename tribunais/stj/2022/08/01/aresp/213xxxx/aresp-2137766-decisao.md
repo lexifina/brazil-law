@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de Agravo com vistas à admissão deRecurso Especial (art. 105, III, "a" e "c", da CF) interposto contra acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXECUTIVO JUDICIAL. LIQUIDAÇÃO DESENTENÇA. ADVOGADO SEM PODERES. MANDATO EXTINTO. ILEGITIMIDADE. DECISÃOMANTIDA. Correta a decisão que reconhece a ilegitimidade de procurador, cujo mandato inclusive está extinto, para, em nome próprio, promover o cumprimento da obrigação de pagar quantia registrada em título executivo em favor de antiga constituinte. O mandato apresentado nos autos principais foi extinto em 2015 e ele não possui poderes para promover a liquidação do julgado, aspecto que não se confunde com a titularidade de verba advocatícia. Art. 5º da Lei n.º 8.609/94. Agravo de instrumento desprovido.
+No Recurso Especial (fls. 59-71),o agravante alega, além de dissídio jurisprudencial, ofensa aos arts. 23 e 24da Lei8.906/1994e aos arts. 85 e 509do CPC/2015.
+Contrarrazões apresentadas às fls. 79-81.
+Inadmitiu-se o intento (fls. 88-89).
+O agravante ataca os motivos que ensejaram a inadmissão do recurso excepcional e, no mais, repisa-se os argumentos nele deduzidos. Pleiteia, em suma:
+A invocação da Sumula 7, do STJ, e de outros dispositivos do Regimento Interno daquela Corte, não pode servir para cometer denegação de justiça, pois não é possível aferir violação de lei sem examinar os fatos, pois deles é que resultam as decisões judiciais. 21 - Diante do exposto, percebe-se que a decisão agravada não pode prosperar, razão pela qual espera seja o presente agravo provido para determinar a subida do REsp, cujo cabimento é indiscutível.
+Contraminuta às fls. 111-114.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 14.7.2022.
+Cuida-se de inconformismo contra o não seguimento doRecurso Especial embasado naincidência da Súmula 7/STJ.
+A irresignação não merece prosperar.
+Incide na Súmula 7/STJa tentativa de alterar o quadro fático-probatório.
+O caso dos autos envolve o debate, em liquidação de sentença, acerca da concreta configuração, ou não, da ilegitimidade ativa do recorrente.A Corte regional, à luz dos elementos factuais dos autos e da legislação de regência da matéria, concluiu que "em suma, a falta de legitimidade diz respeito ao que se queria executar e, nos termos do art. 5º da Lei 8.609/1994, é correta a decisão que reconhece a ilegitimidade do procurador para postular o cumprimento da obrigação de fazer ou de pagar quantia registrada no título executivo, uma vez que este não possui mais poderes para representação das partes".
+Ressaltou o órgão julgador, ainda, que "omandato apresentado nos autos principais foi extinto em 2015 e o agravante não possui poderes para promover a liquidação do julgado em favor do espólio de MARIA EDELMIRAVIVACQUA PEIXOTO", e que "(..) o agravante se equivoca, data vênia, ao assinalar a violação aos artigos 23 e 24 da Lei n.º 8.609/94 e 509 do CPC. Por força de acórdão exarado nos autos do Agravo de Instrumento, em tema precluso, foi reconhecido o prosseguimento do feito contra o agravante, para fins de ressarcimento da União Federal quanto ao valor pago a maior a título de honorários advocatícios".
+Como se vê, tal matéria exige, no caso específico, o percuciente e necessário estudo de provas, de documentos e dos atos processuais praticados nos autos de origem, como destacado no decisumimpugnado,situação de todo inviável nesse âmbito recursal.
+Nessa linha: AgInt no AREsp 904.791/MG, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 7.10.2016.
+Os fatos são aqui recebidos como estabelecidos pelo Tribunal a quo, senhor da análise probatória. E, se a afronta ao dispositivo legal invocado perpassa pela necessidade de fixar premissa diversa da que consta do aresto combatido, inviável o apelo nobre.
+Igualmente inadmissível o Recurso Especial pelo dissídio jurisprudencial, na medida em que apurar a similitude entre os paradigmas apresentados e a fundamentaçãodo acórdão recorrido exige reexame dos fatos e das provas constantesdos autos. Incidência da Súmula 7/STJ.
+Confiram-se:
+AGRAVO INTERNO EM RECURSO ESPECIAL - AÇÃO DE USUCAPIÃO EXTRAORDINÁRIO - DECISÃO MONOCRÁTICA NEGANDO PROVIMENTO AO RECLAMO - INSURGÊNCIA RECURSAL DA DEMANDADA.
+1. A revisão das conclusões da Corte de origem acerca da presença dos requisitos legais necessários para a aquisição da propriedade pela usucapião extraordinária demandaria a reapreciação do contexto fático e probatório dos autos, prática vedada pela Súmula 7 do STJ. Precedentes.
+2. Esta Corte de Justiça tem entendimento no sentido de que a incidência da Súmula 7 do STJ impede o exame de dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução a causa a Corte de origem.
+3. Agravo interno desprovido.
+(AgInt no REsp 1.638.052/RO, Ministro MARCO BUZZI, QUARTA TURMA, DJe 1º/6/2017)
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. RESPONSABILIDADE CIVIL. ACIDENTE DE TRÂNSITO. MORTE DA CONVIVENTE DO AUTOR. CONDIÇÃO DE COMPANHEIRA. DANO MORAL. VALOR FIXADO. RAZOABILIDADE. REEXAME DE PROVA. SÚMULA Nº 7 DO STJ. PRESCRIÇÃO. SÚMULA Nº 282 DO STF. FUNDAMENTO INATACADO. DESCUMPRIMENTO DO ART. 1.021, § 1º, DO NCPC E INCIDÊNCIA DA SÚMULA Nº 182 DO STJ. DISSÍDIO JURISPRUDENCIAL NÃO CONFIGURADO. AGRAVO INTERNO PARCIALMENTE CONHECIDO E NÃO PROVIDO COM APLICAÇÃO DE MULTA.
+1. Aplicabilidade do NCPC a este recurso ante os termos no Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A legitimidade ativa do recorrido e o valor indenizatório moral fixado em razão da morte de sua companheira foram aferidos pelo acórdão recorrido com base nas perícias coligidas aos autos e nas circunstâncias fáticas da lide, de forma que a sua revisão na via especial está impedida pela Súmula nº 7 do STJ.
+3. A decisão agravada não conheceu da alegação de prescrição com apoio na Súmula nº 282 do STF, em razão da ausência de prequestionamento, e esse fundamento não foi impugnado na petição de agravo interno, o que impede, no ponto, o conhecimento do inconformismo recursal nos termos da Súmula nº 182 do STJ e do art. 1.021, § 1º, do NCPC.
+4. A incidência da Súmula 7 do STJ impede o exame de dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual a Corte de origem deu solução à causa.
+5. Em virtude do parcial conhecimento e não provimento do presente recurso, e da anterior advertência em relação à aplicabilidade do NCPC, incide ao caso a multa prevista no art. 1.021, § 4º, do NCPC, no percentual de 3% sobre o valor atualizado da causa, ficando a interposição de qualquer outro recurso condicionada ao depósito da respectiva quantia, nos termos do § 5º daquele artigo de lei.
+6. Agravo interno parcialmente conhecido e, nessa parte, não provido, com aplicação de multa.
+(AgInt no AREsp 1.004.634/SP, Ministro MOURA RIBEIRO, TERCEIRA TURMA, DJe 5/6/2017)
+Diante do exposto, conheço do Agravo para não conhecer do Recurso Especial.
+Consubstanciado o previsto na Súmula Administrativa 7/STJ, condeno a parte recorrente ao pagamento de honorários advocatícios correspondentes a 10% (dez por cento) sobre o valor total da verba sucumbencial fixada nas instâncias ordinárias, com base no § 11 do art. 85 do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se.
+Intimem-se.
