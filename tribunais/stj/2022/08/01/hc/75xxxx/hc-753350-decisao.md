@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus,com pedido liminar,impetrado em favor de THIAGO RODRIGUES LEITE COUTOcontra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (Apelaçãon. 1500906-22.2021.8.26.0537).
+Consta do relatório dee-STJ fls. 23/24queo paciente foi condenado, em primeiro grau de jurisdição,àspenas de 5 anos e 10 meses de reclusão, em regime inicial fechado, e 583dias-multa, pela prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006.
+Irresignada, a defesa interpôs recurso de apelação, o qual foi desprovido (e-STJ fls. 22/35), em acórdão assim ementado:
+TRÁFICO DE DROGAS - RECURSO DEFENSIVO:REDUÇÃO DA PENA PLEITEADA - APLICAÇÃO DABENESSE DO § 4ºr DO ART. 33, DA LEI 11.343 06 -INADMISSIBILIDADE - QUANTIDADE ELEVADADE DROGAS E DEMAIS CIRCUNSTÂNCIASDEMONSTRAM DEDICAÇÃO A ATIVIDADESCRIMINOSAS OU COOPERAÇÃO COM ELA -REQUISITOS LEGAIS NÃO PREENCHIDOS -RECURSO NÃO PROVIDO.
+TRÁFICO DE DROGAS - RECURSO DEFENSIVO:RESTITUIÇÃO DE VEÍCULO - APREENSÃO PORENVOLVIMENTO NA PRÁTICA DE TRÁFICO DEDROGAS - INADMISSIBILIDADE - DECRETAÇÃODE PERDIMENTO ACERTADA E BEMFUNDAMENTADA - VEÍCULO UTILIZADO PARATRANSPORTE DE DROGA - RECURSO IMPROVIDO.
+No presentemandamus(e-STJ fls. 3/20), osimpetrantes sustentamque o paciente sofre constrangimento ilegal, na medida em que o redutor previsto no § 4º do art. 33 da Lei 11.343/2006 não foi aplicado, embora elepreencha os requisitos legais para a incidência do benefício. Alegam não ser possível exasperar a pena-base e afastar o redutor com base na quantidade das drogas apreendidas, pois tal procedimento configura indevidobis in idem, além de a quantidade das drogas apreendidas não ser fundamento idôneo e suficiente para a não aplicação da causa de diminuição.
+Além disso, apontam queo regime inicial fechado não possui base em fundamentação idônea, sendo cabível o regime semiaberto ou, em caso de redução da pena privativa de liberdade, o regimeaberto.
+Ao final, formulam pedido liminar para que seja expedido alvará de soltura em favor do paciente e, no mérito, pedem a aplicação da minorante prevista no§ 4º do art. 33 da Lei n. 11.343/2006 em seu patamar máximo e o abrandamento do regimeprisional.
+É o relatório. Decido.
+Não obstante as razões constantes da petição inicial, os impetrantes, advogados, não instruíramo habeas corpuscomcópia da sentença condenatória, documento que, junto do acórdão proferido em sede de apelação, é imprescindível para o exame das aventadas ilegalidades.
+Ressalta-se que o rito do habeas corpus pressupõe prova pré-constituída do direito alegado, devendo a parte demonstrar, de maneira inequívoca, por meio de documentos, a existência de constrangimento ilegal imposto ao paciente. Nesse sentido, segue a jurisprudência desta Corte:
+PROCESSO PENAL. HABEAS CORPUS. SENTENÇA CONDENATÓRIA E NEGATIVA DO DIREITO DE RECORRER EM LIBERDADE. EXCESSO DE PRAZO PARA JULGAMENTO DO RECURSO DE APELAÇÃO. INOCORRÊNCIA. PRISÃO PREVENTIVA. SUPRESSÃO DE INSTÂNCIA E DEFICIÊNCIA NA INSTRUÇÃO. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO. ORDEM PARCIALMENTE CONHECIDA E, NESSA EXTENSÃO, DENEGADA.
+ ..
+4. Em sede de habeas corpus, a prova deve ser pré-constituída e incontroversa, cabendo ao impetrante apresentar documentos suficientes à análise de eventual ilegalidade flagrante no ato atacado. Na espécie, o processo não foi instruído com a sentença condenatória, peça processual imprescindível para exame da aventada ilegalidade da prisão preventiva.
+5. Ordem parcialmente conhecida e, nessa extensão, denegada, com recomendação.(HC 521.587/RS, Rel. Ministro RIBEIRO DANTAS, Quinta Turma, DJe 20/8/2019)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. AUSÊNCIA DE PEÇA ESSENCIAL À COMPREENSÃO DA CONTROVÉRSIA. DEFICIÊNCIA NA INSTRUÇÃO QUE IMPOSSIBILITA A ANÁLISE DO PEDIDO. AGRAVO NÃO PROVIDO.
+1. Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente exige prova pré-constituída das alegações e não comporta dilação probatória.
+2. Não instruída a impetração com documento essencial ao deslinde da controvérsia, mostra-se inviável o exame do sustentado constrangimento ilegal.
+3. Agravo regimental não provido.(AgRg no HC 456.701/ES, Rel. Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, DJe 25/10/2018)
+Ante o exposto, com base no art. 34, inciso XX, do Regimento Interno do STJ, indefiro liminarmente a petição inicial do habeas corpus.
+Intimem-se.
