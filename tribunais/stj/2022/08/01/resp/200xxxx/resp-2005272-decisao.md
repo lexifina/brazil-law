@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto por ESTADO DE MINAS GERAIS, em face de acórdão do Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+"JUIZO DE RETRATAÇÃO - EXECUÇÃO FISCAL- PRESCRIÇÃO INTERCORRENTE - TERMO A QUO - SUSPENSÃO AUTOMÁTICA INDEPENTENTE DE ATO JUDICIAL - CIÊNCIA A RESPEITO DA NÃO LOCALIZAÇÃO DO DEVEDOR OU DA INEXISTÊNCIA DE BENS PENHORÁVEIS - PRESCRIÇÃO VERIFICADA - ACÓRDÃO REFORMADO" (fl. 367e).
+Opostos Embargos de Declaração, foram eles julgados, nos seguintes termos:
+"EMBARGOS DE DECLARAÇÃO - OMISSÃO CONTRADIÇÃO OU OBSCURIDADE - EXECUÇÃO FISCAL - EXCEÇÃO DE PRÉ EXECUTIVIDADE - HONORÁRIOS ADVOCATÍCIOS - PRINCIPIO DA CAUSALIDADE - EMBARGOS REJEITADOS" (fl. 403e).
+ORecorrentealega violação aoart. 85, § 3º, do CPC, sustentando, em síntese, que não cabe a condenação daFazenda Públicaao pagamento dos honorários sucumbenciais, no caso dos autos, em que a execução fiscal foi extinta em razão da prescrição intercorrente, a qual, "declarada de ofício ou por meio de defesa, jamais atrairia a sucumbência em desfavor do Estado, salvo ofensa ao princípio da causalidade, pois o processo só foi extinto por falta de localização do devedor e não por cobrança ilegítima" (fls. 412/421e).
+Apresentadas as contrarrazões (fls. 426/434e), o Recurso Especial foi admitido (fls. 436/438e).
+O Recurso Especial merece prosperar.
+Com efeito,o entendimento da jurisprudência do Superior Tribunal de Justiça é firme no sentido de que a extinção da execução fiscalcom base na prescrição intercorrente, por ausência de localização de bens penhoráveis, não atrai a sucumbência para a parte exequente.
+Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. PRESCRIÇÃO INTERCORRENTE. CAUSALIDADE. HONORÁRIOS SUCUMBENCIAIS DO ADVOGADO. ÔNUS DA PARTE EXECUTADA.
+1. O reconhecimento da ocorrência de prescrição intercorrente não autoriza a condenação da Fazenda Pública ao pagamento de honorários sucumbenciais do advogado, ainda que oferecida exceção de pré-executividade, pois, nessa hipótese, não foi a Fazenda exequente a responsável pelo ajuizamento da ação executiva nem pela não localização do devedor ou de seus bens. Precedentes.
+2. No caso dos autos, o recurso da Fazenda foi provido porque o acórdão do TRF da 4ª Região decidiu condená-la ao pagamento dos honorários sucumbenciais do advogado em razão de a parte executada ter oferecido exceção de pré-executividade.
+3. Agravo interno não provido"(STJ, AgInt no REsp 1.929.415/SC, Rel.Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 22/09/2021).
+"PROCESSUAL CIVIL. EXECUÇÃO FISCAL. PRESCRIÇÃO INTERCORRENTE. DECRETAÇÃO. HONORÁRIOS EM FAVOR DO DEVEDOR. DESCABIMENTO. RECONHECIMENTO DO PEDIDO. INOCORRÊNCIA.
+1. O reconhecimento da prescrição intercorrente não infirma a existência das premissas que autorizavam o ajuizamento da execução, relacionadas com a presunção de certeza e liquidez do título executivo e com a inadimplência do devedor, de modo que é inviável atribuir ao credor os ônus sucumbenciais com fundamento no princípio da causalidade, sob pena de indevidamente beneficiar a parte que não cumpriu oportunamente com a sua obrigação. Precedentes.
+2. Hipótese em que, extinta a execução fiscal com base na prescrição intercorrente, sem resistência da exequente, não é possível reconhecer que a parte devedora sagrou-se vencedora na demanda e, por conseguinte, que obteve algum proveito econômico da Fazenda Pública credora, a justificar que essa venha a pagar honorários advocatícios.
+3. Inocorrência de reconhecimento do pedido pela Fazenda Pública, nos termos do que dispõe o art. 90 do CPC, pois o ente fazendário apenas concordou com fato que ocorreu no curso processual (prescrição intercorrente).
+4. Agravo interno desprovido" (STJ, AgInt no REsp 1.849.437/SC, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe de 28/10/2020).
+"DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. PRESCRIÇÃO INTERCORRENTE. DECRETAÇÃO. HONORÁRIOS ADVOCATÍCIOS EM FAVOR DO EXECUTADO. DESCABIMENTO. PRINCÍPIO DA PROIBIÇÃO DA REFORMA PARA PIOR.
+1. Cuida-se de agravo interno por meio do qual o executado, em razão da decretação da prescrição intercorrente, postula a fixação de honorários advocatícios com base no "proveito econômico obtido", isto é, o montante que deveria adimplir se a execução chegasse ao seu termo natural.
+2. Consoante a jurisprudência de ambas as Turmas que compõem esta 2ª Seção, a decretação da prescrição intercorrente por ausência de localização de bens penhoráveis não afasta o princípio da causalidade em desfavor do devedor, nem atrai a sucumbência para a parte exequente. Precedentes.
+3. Hipótese dos autos em que, contudo, mostra-se inviável a imputação das verbas de sucumbência à parte executada, ante o princípio da vedação da reforma para pior (non reformatio in pejus).
+4. Agravo interno não provido" (STJ, AgInt nos EDcl nos EAREsp 957.460/PR, Rel. Ministra NANCY ANDRIGHI, SEGUNDA SEÇÃO, DJe de 20/02/2020).
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao Recurso Especial, para afastar a condenação do ESTADO DE MINAS GERAISao pagamento dos honorários advocatícios.
+I.
