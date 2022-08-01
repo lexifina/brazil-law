@@ -1,0 +1,74 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, impetrado em favor de LUIS CLAUDIO ABRAHAO DE LIMA, contra acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios.
+Consta dos autos que o paciente foi condenado à pena de 3 anos e 4 meses de reclusão, em regime inicial semiaberto, mais o pagamento de 40 dias-multa, pela prática do delito descrito no art. 155, § 1º e § 4º, I, do Código Penal (e-STJ, fls. 19-24).
+Interposta apelação, a Corte Estadual deu parcial provimento ao recurso da defesa, para reduzir a pena de multa para 16 dias-multa e determinar que o réu fosse transferido para estabelecimento prisional compatível com o regime semiaberto. O aresto restou assim ementado:
+"Furto qualificado: rompimento de obstáculo. Provas. Repouso noturno. Pena. Multa. Regime prisional.
+1 - A destruição ou rompimento de obstáculo à subtração da coisa, porque infração que deixa vestígios, deve ser provada por exame de corpo de delito (CPP, art. 158). Não obstante, o exame pericial pode ser substituído por outras provas.
+2 - Os depoimentos da vítima e de testemunhas no sentido de que o acusado utilizou faca e manivela para romper obstáculo (abertura e corte de toldos de restaurante), corroborados pela confissão do acusado, são provas suficientes de que houve o rompimento de obstáculo.
+3 - Consoante entendimento pacífico dos tribunais superiores, a causa de aumento do § 1º pode ser reconhecida tanto para furto simples quanto qualificado. São circunstâncias diversas, que incidem em momentos diferentes da aplicação da pena.
+4 - O e. STJ tem admitido, para aumento da pena-base, por circunstância judicial desfavorável, adotar as frações de 1/8 entre o mínimo e o máximo da pena em abstrato, e 1/6 da pena mínima em abstrato, assim como não adotar nenhum critério matemático, desde que haja fundamentação idônea e concreta, baseada na discricionariedade vinculada do julgador. Proporcional a fração adotada, não se reduz a pena-base.
+5 - A quantidade de dias-multa deve guardar proporcionalidade com o aumento da pena privativa de liberdade.
+6 - Estipulado na sentença o regime prisional semiaberto, deve o condenado - preso cautelarmente - ser transferido para estabelecimento prisional compatível com o regime estipulado, se por outro motivo não estiver preso.
+7 - Apelação provida em parte." (e-STJ, fls. 36-37).
+Neste writ, a defesa sustenta a ocorrência de constrangimento ilegal, uma vez que não foi realizada a devida perícia, tampouco justificada a impossibilidade de fazê-lo, apesar da conduta ter deixado vestígios.
+Alternativamente, aduz que, mantida a qualificadora do rompimento de obstáculo, deve ser aplicado o entendimento assentado pela Terceira Seção no tema 1.087, segundo o qual a causa de aumento de pena do repouso noturno não incide na forma qualificada do delito de furto.
+Pleiteia, assim, que seja concedida a ordem para afastar a qualificadora do rompimento de obstáculo e, alternativamente, que seja retirada a causa de aumento de pena do repouso noturno, redimensionando a reprimenda imposta ao paciente.
+O Ministério Público Federal opinou pela concessão da ordem, de ofício (e-STJ, fls. 52-58).
+É o relatório.
+Decido.
+Esta Corte - HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+Para permitir a análise dos critérios utilizados na dosimetria da pena, faz-se necessário expor excertos da sentença condenatória e do acórdão da apelação, respectivamente:
+" ..  O acusado confessou a autoria do furto a ele imputado, durante o interrogatório, explicando que furtou as barras de alumínio porque queria vender. Para tanto, utilizou-se de uma faca pequena tipo canivete.
+Asseverou que os fatos não ocorreram meia noite e meia, pois era bem mais cedo.
+(..)
+De fato, a faca aprendida nos autos reveste-se de um instrumento de natureza perfurocortante, ao passo que o segmento de barra de metal apreendido é semelhante a uma manivela para abertura/fechamento de todos, nos termos do laudo de exame de eficiência, ID 106955332.
+Por todo o exposto, não há dúvida alguma de que o acusado realmente praticou o furto a ele imputado, pois sua confissão encontra-se em perfeita sintonia com as provas carreadas aos autos, especialmente porque foi prontamente reconhecido pela testemunha que o visualizou cortando os toldos, sendo que foi abordado pela autoridade policial ainda em poder dos instrumentos utilizados durante a ação delitiva, restando inequívoca, também, a incidência da qualificadora de arrombamento.
+(..)
+Ante o exposto, JULGO PROCEDENTE A PRETENSÃO PUNITIVA DEDUZIDA NA DENÚNCIA, para condenar LUIS CLAUDIO ABRAHÃO DE LIMA nas penas do artigo 155, §§ 1º e 4º, inciso I, do Código Penal. Passo à dosimetria da pena.
+A culpabilidade foi normal a essa espécie de crime. O réu ostenta mais de uma condenação criminal, de forma que, além de seus maus antecedentes, também é reincidente, ID 104702510. Nada foi apurado quanto à conduta social e personalidade. As circunstâncias foram as comuns. Quanto às consequências, registro que a vítima arcou com prejuízo financeiro no importe de R$ 1.200,00 (mil e duzentos reais), uma vez que os toldos foram recortados, mas ainda lhe foi possível realizar alguns reparos. A vítima em nada contribuiu para a eclosão do crime.
+Com base nos motivos acima citados e, em razão da valoração negativa dos antecedentes, recrudesço a pena em 6 meses, fixando a pena base em 2 anos e 6 meses de reclusão e pagamento de 30 dias multa, à razão de 1/30 do salário mínimo vigente ao tempo dos fatos, devidamente corrigido.
+Na segunda fase de aplicação da pena, procedo à compensação da atenuante da confissão com a agravante da reincidência.
+Não há causas de diminuição da pena, mas presente a causa de aumento prevista no § 1º do artigo 155, do Código Penal, razão pela qual majoro as penas em 1/3, para fixa-las definitivamente em definitivo, em 3 (três) anos e 4 (quatro) meses de reclusão e pagamento de 40 (quarenta) dias multa, cada um calculado à razão de 1/30 do salário mínimo vigente ao tempo dos fatos, devidamente corrigido.
+O regime inicial será o semiaberto, em razão da reincidência (Súmula 269/STJ)." (e-STJ, fls. 20-23).
+" ..  O furto é qualificado se cometido com destruição ou rompimento de obstáculo à subtração da coisa (CP, art. 155, § 4º).
+É pacífica a jurisprudência do e. STJ no sentido de que a perícia para caracterizar o rompimento de obstáculo pode ser substituída por outras provas na hipótese em que não for possível a realização da perícia.
+Confira-se:
+(..)
+Segundo a denúncia, o acusado, aproveitando-se do repouso noturno, mediante rompimento de obstáculo - corte de objeto com faca e uso de manivela -, subtraiu, para si, várias barras de alumínio do rodapé do toldo de um restaurante (ID 32941062, p. 1/2).
+Não foi realizada perícia para constatar o rompimento de obstáculo.
+Entretanto, havendo outros elementos que tornem indubitável a destruição ou arrombamento de obstáculo, essa se torna dispensável.
+Na hipótese, as testemunhas e a vítima, em juízo, foram uníssonas ao afirmar que o réu destruiu parte do toldo com uma faca para subtrair as barras de alumínio.
+A testemunha Maria de Fátima Alves de Sousa disse que trabalhava no período da noite, ao lado do restaurante onde ocorrido o furto, quando viu uma pessoa cortando o toldo do restaurante. Informou a polícia e, quando as viaturas chegaram, declinou a direção que o acusado havia tomado.
+Cerca de dez minutos depois, ele foi localizado nas proximidades da Casa do Ceará. Viu a pessoa detida e a reconheceu sem dúvida alguma. Não conhecia o acusado anteriormente (IDs 32941093/4, mídias).
+O policial relatou, em juízo, que foram acionados pelo 190 acerca de uma pessoa que estava cortando os toldos de um restaurante. Prenderam em flagrante a pessoa quando essa desmontava a parte de alumínio.
+Ela disse que iria vender.
+As peças foram restituídas ao dono, mas não sabe o valor do prejuízo, pois o toldo foi cortado. A faca utilizada foi apreendida. O crime ocorreu entre 00h e uma hora da madrugada (IDs 32941091/2, mídias).
+Segundo a vítima, em juízo, foram cortadas as partes debaixo de sete toldos. O acusado conseguiu baixar os toldos com uma manivela. Teve R$ 1.200,00 de prejuízo, pois conseguiu fazer uns "remendos" nos toldos.
+O valor total do toldo seria de cerca de R$ 8.000,00 (ID 32941095, mídia).
+A faca foi aprendida, além de segmento de barra de metal apreendido semelhante a manivela utilizada para abertura/fechamento de toldos (IDs 32940634 - AAA n. 422/2021; e 32941072 - laudo de exame de eficiência).
+Não bastasse, o acusado confessou que furtou as barras de alumínio porque queria vendê-las. E, para tanto, utilizou faca pequena tipo canivete (ID 32941096, mídia).
+A apreensão dos instrumentos utilizados e as declarações da vítima e das testemunhas, em juízo, informando o rompimento de obstáculo, corroboradas pela confissão do acusado, são provas suficientes de que houve o rompimento de obstáculo.
+Provado, assim, que o réu subtraiu para si coisas alheias, mediante rompimento de obstáculo.
+Incide, pois, a qualificadora.
+(..)
+Individualização da pena.
+Na primeira fase, valorados negativamente os antecedentes (ID 32941066, p. 20/1, 22/8, 28/30), a pena- base foi aumentada para 2 anos e 6 meses e 30 dias-multa (ID 32941104, p. 4/5).
+Para se fixar a pena-base não há critérios puramente matemáticos. Não previstas em lei as frações de aumento, o quantum a ser estipulado fica adstrito à prudente discricionariedade do juiz, desde que devidamente fundamentado.
+O e. STJ tem admitido, para aumento da pena-base, por circunstância judicial desfavorável, adotar as frações de 1/8 entre o mínimo e o máximo da pena em abstrato, e 1/6 da pena mínima em abstrato, assim como não adotar nenhum critério matemático, desde que haja fundamentação idônea e concreta, baseada na discricionariedade vinculada do julgador.
+(..)
+O aumento em 6 meses de reclusão - inferior a 1/8 do intervalo entre as penas mínima e máxima em abstrato -, proporcional à quantidade de condenações transitadas em julgado - ao menos três -, deve ser mantido.
+A pena de multa, contudo, fixada em 30 dias-multa foi excessiva - desproporcional ao aumento da pena privativa de liberdade -, pelo que a reduzo para 12 (doze) dias-multa, à razão do mínimo legal.
+Na segunda fase, foi compensada a atenuante da confissão espontânea com a agravante da reincidência (ID 32941066, p. 31/4 e 36/6).
+Na terceira fase, sem causas de diminuição e presente a causa de aumento do repouso noturno, o aumento em 1/3 resulta na pena definitiva de 3 (três) anos e 4 (quatro) meses de reclusão, e 16 (dezesseis) dias- multa, à razão do mínimo legal.
+Considerando a reincidência e maus antecedentes, mantém-se o regime prisional semiaberto (CP, art. 33, § 2º, "a" e "b")." (e-STJ, fls. 38-42).
+A individualização da pena é submetida aos elementos de convicção judiciais das circunstâncias do crime, cabendo às Cortes Superiores apenas o controle da legalidade e da constitucionalidade dos critérios empregados, a fim de evitar eventuais arbitrariedades. Dessarte, salvo flagrante ilegalidade, o reexame das circunstâncias judiciais e os critérios concretos de individualização da pena mostram-se inadequados à estreita via do habeas corpus, pois exigiriam revolvimento probatório.
+Inicialmente, cumpre destacar que a jurisprudência do Superior Tribunal de Justiça é assente no sentido de que a incidência da qualificadora prevista no art. 155, § 4º, inciso II, do Código Penal, exige exame pericial para a comprovação do rompimento de obstáculo, somente admitindo-se prova indireta quando justificada a impossibilidade de realização do laudo direto, o que não restou explicitado nos autos. Nesse sentido: AgRg no REsp 1.513.004/RS, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 1/10/2015, Dje 7/10/2015; AgRg no HC 300.808/TO, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 17/3/2015, DJe 26/3/2015
+Na hipótese dos autos, verifica-se que as instâncias ordinárias não lograram justificar a impossibilidade de realização da perícia, tendo a Corte Estadual ressaltado que "não foi realizada perícia para constatar o rompimento de obstáculo. Entretanto, havendo outros elementos que tornem indubitável a destruição ou arrombamento de obstáculo, essa se torna dispensável" (e-STJ, fl. 38).
+Assim,tendo a qualificadora sido aplicada apenas com base em prova testemunhal, deve ser afastado o rompimento de obstáculo e reconhecida a prática de furto simples, pois, além de não ter sido demonstrada a impossibilidade de realização da perícia técnica, tais provas não suprem a necessidade de sua efetivação.
+Neste contexto, decotada a qualificadora do rompimento de obstáculo, resta prejudicado o pleito de afastamento da causa de aumento de pena do repouso noturno.
+Assim, evidenciada flagrante ilegalidade na dosimetria da pena imposta ao paciente, passa-se à nova análise da reprimenda.
+Afastada a qualificadora do rompimento de obstáculo, resta configurado o delito de furto simples. Assim, mantidos como desfavoráveis os antecedentes do réu, bem como o patamar de aumento utilizado pelas instâncias ordinárias, a pena-base deve ser fixada em 1 ano e 3 meses de reclusão. Na segunda fase da dosimetria, compensadas a agravante da reincidência com a atenuante da confissão espontânea, mantém-se a pena inalterada. Na terceira fase, em razão do delito ter sido praticado durante o repouso noturno, a pena é aumentada de 1/3, restando definitivamente estabelecida em 1 ano e 8 meses de reclusão.
+Por fim, deve ser mantido o regime prisional imposto ao paciente, pois, em que pese tenha sido imposta reprimenda inferior a 4 anos de reclusão, tratando-se de réu reincidente e com circunstância judicial desfavoravelmente valorada, não há que se falar em fixação do regime prisional aberto, por não restarem preenchidos os requisitos do art. 33, § 2º, "c", do Código Penal.
+Ante o exposto, não conheço do writ, mas concedo habeas corpus, de ofício, a fim de afastar a qualificadora do rompimento de obstáculo e, portanto, condenar o paciente pelo delito de furto simples, e reduzir a reprimenda a ele imposta, fixando-a em 1 ano e 8 meses de reclusão, mantido regime prisional semiaberto para o desconto da pena.
+Publique-se. Intimem-se.
