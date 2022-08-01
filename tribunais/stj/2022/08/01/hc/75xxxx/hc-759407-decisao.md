@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de habeas corpus com pedido liminar impetrado em favor de CAIQUE FERNANDO APARECIDO DO NASCIMENTO CARIDADE em que se aponta como autoridade coatora oTRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Habeas Corpusn. 2166155-90.2022.8.26.0000).
+O paciente foi preso em flagrante e denunciado pela prática, em tese, do crime previsto no art. 155, §§ 1º e 4º, II e IV, c/c o art. 14, II, do Código Penal. A prisão em flagrante foi convertida em preventiva para a garantia da ordem pública.
+Os impetrantes sustentam a inidoneidade dos motivos apresentados para justificar a custódia cautelar do paciente.
+Alegam que o decreto prisional funda-se na gravidade abstrata do crime e na reincidência do custodiado, o que consideram insuficiente.
+Requerem, liminarmente e no mérito, a concessão de liberdade provisória ao paciente, ainda que mediante a aplicação de medidas cautelares diversas da prisão.
+É, no essencial, o relatório. Decido.
+A matéria não pode ser apreciada pelo Superior Tribunal de Justiça, pois não foi examinada pelo Tribunal de origem, que ainda não julgou o mérito do writ originário.
+A jurisprudência do STJ firmou-se no sentido de que não cabe habeas corpus contra indeferimento de pedido de liminar em outro writ, salvo no caso de flagrante ilegalidade, conforme demonstra o seguinte precedente:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. SUPOSTO EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. IMPOSSIBILIDADE DE SUPERAÇÃO DA SÚMULA N. 691 DA SUPREMA CORTE. AUSÊNCIA DE TERATOLOGIA. HABEAS CORPUS INDEFERIDO LIMINARMENTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não se admite habeas corpus contra decisão negativa de liminar proferida em outro writ na instância de origem, sob pena de indevida supressão de instância. Súmula n. 691/STF.
+2. Não há ilegalidade flagrante ou teratologia no caso em apreço. Os prazos indicados para a consecução da instrução criminal servem apenas como parâmetro geral, tendo em vista que variam conforme as peculiaridades de cada processo, razão pela qual a jurisprudência uníssona os tem mitigado, à luz do Princípio da Razoabilidade. Na hipótese, verifica-se, em juízo preliminar, que o feito é complexo, tendo em vista a pluralidade de réus - cinco -, que foram surpreendidos transportando elevada quantidade de entorpecente, o que afasta, em princípio, o excesso de prazo sustentado pela Defesa.
+3. Também não se pode desconsiderar as penas em abstrato atribuídas aos delitos imputados na denúncia (tráfico e associação para o tráfico de drogas), o que demonstra que a prisão cautelar não é, em tese, desproporcional.
+4. Ademais, não se verifica a ocorrência de flagrante ilegalidade na decisão proferida pelo Desembargador Relator que, ao indeferir o pedido liminar, entendeu adequada a prévia solicitação de informações ao Juízo singular, antes da análise, de maneira definitiva, da alegada desídia estatal na condução do feito.
+5. Agravo regimental desprovido.
+(AgRg no HC 705.588/RJ, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 14/12/2021, DJe 17/12/2021)
+Confira-se também a Súmula n. 691 do STF: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar."
+No caso, não visualizo, em juízo sumário, manifesta ilegalidade que autorize o afastamento da aplicação do mencionado verbete, porquanto foram declinados os fundamentos para indeferir a liminar requerida na origem, consoante se extrai da seguinte passagem (fl. 26):
+Entretanto, em que pesem os argumentos do impetrante, o que se tem, nos limites desta fase processual, é que a decisão impugnada trouxe os fundamentos e argumentos que levaram o Magistrado de origem a determinara manutenção da segregação cautelar do paciente, principalmente ao destacar a sua reincidência pelos delitos de tráfico de drogas e roubo, bem como que não há demonstração nos autos de que sua presença é essencial aos cuidados com o filho menor (cf. decisão de fls.19/25, repetida a fls. 111/117 e certidão de fls. 87/89), de sorte que não se mostra possível, nesta oportunidade de cognição sumária, afirmar sobre a ilegalidade manifesta do ato.
+Ante o exposto, com fundamento no art. 21, XIII, c, c/c o art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
