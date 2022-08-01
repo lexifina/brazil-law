@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo interposto por GUSTAVO LANNER PEREIRA, desafiando decisão da Vice-Presidência do Tribunal Regional Federal da 4ª Região, que não admitiu o recurso especial sob os seguintes fundamentos: (I) despiciendo o examede violação doart. 1.022do CPC;(II) inviável o trânsito de recurso especial na parte que aponta ofensa a dispositivo constitucional; e(III)incidência da Súmula 7/STJ.
+Neste agravo, alega o agravante que "da leitura das razões do recurso especial demonstra que a matéria recursal cinge-se ao pedido de reforma do acórdão, para que seja reconhecido o cerceamento de defesa e, consequentemente, a violação do princípio constitucional do devido processo legal e da ampla defesa, em razão do indeferimento das provas requeridas no processo, eis que causou grande prejuízo ao autor na busca do bem tutelado uma vez que resultou na aplicação de documento incongruente" (fl. 604).
+Aduz que, "tendo em vista a divergência entre os documentos, resta clara a necessidade de prova pericial para que sejam auferidos os reais agentes nocivos a que a parte autora se expunha, quando do seu labor, haja vista que a mesma não pode ficar prejudicada pelas informações imprecisas e omissas apresentadas na documentação fornecida pela empresa, as quais, não demonstram efetivamente a realidade do seu ambiente laboral" (fl. 606).
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+Verifica-se que o recurso não ultrapassa a barreira do conhecimento, poisa parte recorrente furtou-sea impugnar os fundamentos adotados pelaVice-Presidência do Tribunal Regional Federal da 4ª Região, ao não admitir o recurso especial.
+Em outras palavras, o agravo deixou de rebater, de modo específico, os seguintes fundamentos:(I) despiciendo o exame de de violação do art. 1.022 do CPC; (II) inviável o trânsito de recurso especial na parte que aponta ofensa a dispositivo constitucional; e (III) incidência da Súmula 7/STJ. Essa circunstânciaatrai a incidência, por analogia, da súmula 182 desta Corte ("É inviável o agravo do artigo 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida").
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL.AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA NO AGRAVO EM RECURSO ESPECIAL. SÚMULA182/STJ. EXAME DE MÉRITO DO RECURSO ESPECIAL PELA CORTE DE ORIGEM.POSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Para viabilizar o prosseguimento do agravo, a irresignação recursal há de ser completa, especifica e objetiva. Não basta a impugnação genérica (Súmula 182/STJ).
+2. A jurisprudência desta Corte pacificou o entendimento segundo o qual a emissão de juízo sobre o mérito do recurso especial, pelo tribunal de origem, por ocasião do exame provisório de admissibilidade, não implica usurpação da competência do Superior Tribunal de Justiça.
+3. Agravo regimental desprovido.
+(AgRg no AREsp 621.634/SP, Rel. Ministro OLINDO MENEZES (DESEMBARGADORCONVOCADO DO TRF 1ª REGIÃO), PRIMEIRA TURMA, julgado em 13/10/2015, DJe26/10/2015)
+Assim,o agravo deixou de rebater, de modo específico, os fundamentos adotados pela decisão agravada, o que atrai a incidência, por analogia, da súmula 182 desta Corte ("É inviável o agravo do artigo 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida").
+ANTE O EXPOSTO, não conheço do agravo.
+Publique-se.
