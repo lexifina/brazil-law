@@ -1,0 +1,22 @@
+DECISÃO
+Na origem trata-se de mandado de segurança, objetivando fosse determinado que as autoridades apontadas como coatoras se abstivessemde efetuar quaisquer descontos na remuneração da impetrante, e, assim, fosseafastadaa determinação de ressarcimento dos valores recebidos de boa fé. Na sentença julgou-se procedente o pedido e concedeu-se a segurança. No Tribunal a quo a sentença foi reformada, denegando a segurança. O valor da causa foi fixado em R$ 3.500,00.
+O recurso especial foi interposto no TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO, contra acórdão com o seguinte resumo de ementa:
+ADMINISTRATIVO - SERVIDORA PÚBLICA - PAGAMENTO INDEVIDO EFETUADO NOS VENCIMENTOS DA SERVIDORA POR ERRO DA ADMINISTRAÇÃO - INEXISTÊNCIA DE DÚVIDA PLAUSÍVEL SOBRE A INTERPRETAÇÃO VALIDADE OU INCIDÊNCIA DA NORMA INFRINGIDA - POSSIBILIDADE DE REPOSIÇÃO AO ERÁRIO DOS VALORES PAGOS A MAIOR AINDA QUE TENHA HAVIDO BOA-FÉ - COMUNICAÇÃO PRÉVIA DO DESCONTO - NECESSIDADE - REMESSA NECESSÁRIA E RECURSO PROVIDOS
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+Inicialmente, cumpre ressaltar que a Administração tem o poder-dever de anular os atos administrativos quando eivados de vício de legalidade, em virtude do princípio da autotutela administrativa, reconhecido pela jurisprudência, a teor das Súmulas nº346 e 473 do STF e, também, expressos no art. 53 da Lei nº 9.784/991.
+ ..
+Ademais, não se pode admitir que a Administração seja tolhida. Adie seu dever de rever atos eivados de ilegalidade, conforme determina o art. 114 da Lei nº 8.112/901"i, sob pena de ofensa aos princípios constitucionais da moralidade e da legalidade, que devem pautar a atuação da Administração.
+ ..
+No que concerne à devolução dos valores, convém consignar que, nos termos da jurisprudência do E. STJ, descabe a reposição de valores recebidos de boa -fé por servidor público, quando decorrentes de errônea interpretação ou má aplicação da lei pela Administração. Nesse sentido, transcrevo o precedente a seguir, dentre outros:
+ ..
+Convém analisar essa questão à luz do entendimento do STF, que reconheceu que a reposição, ao erário, dos valores percebidos apenas não se impõe quando presentes, de modo concomitante, os seguintes requisitos: 1) presença de boa -fé do servidor ou beneficiário; 2) ausência, por parte do servidor, de influência ou interferência para a concessão da vantagem impugnada; 3) existência de dúvida plausível sobre a interpretação, validade ou incidência da norma infringida, no momento da edição do ato que autorizou o pagamento da vantagem impugnada; 4) interpretação razoável, embora errônea, da lei pela Administração.
+ ..
+Quanto à legalidade dos descontos em folha de pagamento, para fins de reposição de valores ao erário, o art. 46 da Lei nº 8.112/90 exige, apenas, a prévia comunicação ao servidor da realização dos descontos, o que não significa a necessidade de autorização do servidor ou de instauração de um prévio procedimento administrativo.
+Não há, portanto, violação do 535 do CPC/1973 (art. 1.022 do CPC/2015) quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a fundamentadamente (art. 165 do CPC/73 e do art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+Ademais, verifica-se que o Tribunal de origem decidiu a matéria em conformidade com a jurisprudência desta Corte. Incide, portanto, o disposto no enunciado n. 83 da Súmula do STJ, segundo o qual: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 1% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
