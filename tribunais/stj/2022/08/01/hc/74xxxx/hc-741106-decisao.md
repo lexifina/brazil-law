@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se dehabeas corpuscom pedido liminar impetrado em favor de MAYCON RODRIGO BERNARDO RAMOS no qual se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (Agravo em Execução Penal n. 0008536-83.2020.8.26.0071).
+Depreende-se dos autos que o Juízo da 2ª Vara de Execuções Criminais da Comarca de Bauru/SP concedeu ao paciente a progressão ao regime aberto, mediante o cumprimento de determinadas condições (e-STJ fls. 50/51).
+Interposto agravo em execução penal pelo Ministério Público estadual, o Tribunal local deu provimento ao recurso, a fim de determinar o retorno dele ao regime semiaberto, para a realização do exame criminológico(e-STJ fls. 12/19).
+Recebeu o acórdão esta ementa (e-STJ fl. 13):
+Agravo em execução. Deferimento de progressão ao regime aberto. Necessidade de realização do exame criminológico para análise do preenchimento ou não do requisito subjetivo. Provimento ao recurso.
+Nestewrit, a Defensoria Pública aponta constrangimento ilegal decorrente do retorno do paciente ao regime intermediário para fins de realização do exame criminológico.
+Sustenta que, no caso, encontram-se presentesos requisitos objetivo esubjetivopara a progressão de regime, nos termos do art. 112 da Lei de Execuções Penais.
+Assere que a gravidade abstrata dos delitos e oquantumda sanção a ser cumprida não constituem fundamentos aptos a justificar a realização do citado exame e o recrudescimento do regime de cumprimento da pena.
+Dessa forma, requer (e-STJ fl. 10):
+a concessão liminar da ordem de habeas corpus, para que seja concedido o regime aberto ao Paciente.
+Outrossim, requer-se que em caso de manutenção da decisão de submissão do Paciente ao exame criminológico, que este seja autorizado a se manter em regime aberto enquanto aguarda a sua realização.
+Indeferida a liminar (e-STJ fls. 64/65), e prestadas as informações (e-STJ fls. 70/81 e 91/113), manifestou-se o Ministério Público Federal pela denegação da ordem (e-STJ fls. 115/118).
+É o relatório.
+Decido.
+A questão posta a deslinde refere-se à necessidade de realização do exame criminológico para o deferimento do livramento condicional.
+Com a nova redação dada ao art. 112 da Lei n. 7.210/1984pela Lei n. 10.792/2003, suprimiu-se a realização de exame criminológico como expediente obrigatório, mantendo-se apenas como requisitos legais o cumprimento de determinada fração da pena aplicada e o bom comportamento carcerário, a ser comprovado pelo diretor do estabelecimento.
+Confira-se:
+Art. 112. A pena privativa de liberdade será executada em forma progressiva com a transferência para regime menos rigoroso, a ser determinada pelo juiz, quando o preso tiver cumprido ao menos 1/6 (um sexto) da pena no regime anterior e ostentar bom comportamento carcerário, comprovado pelo diretor do estabelecimento, respeitadas as normas que vedam a progressão.
+Adespeito de o exame não ser requisito obrigatório para a progressão do regime prisional/livramento condicional, em hipóteses excepcionais, contudo, os tribunais superiores vêm admitindo a sua realização para a aferição do mérito do apenado.
+Segundo esse entendimento, o magistrado de primeiro grau, ou mesmo o tribunal, diante das circunstâncias do caso concreto, pode determinar a realização da referida prova técnica para a formação de seu convencimento.
+Tal entendimento foi consolidado no enunciado da Súmula n. 439 desta Corte:
+Admite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada.
+O tema também foi objeto da Súmula Vinculante n. 26do Supremo Tribunal Federal:
+Para efeito de progressão de regime no cumprimento de pena por crime hediondo, ou equiparado, o juízo da execução observará a inconstitucionalidade do art. 2º da Lei n. 8.072, de 25 de julho de 1990, sem prejuízo de avaliar se o condenado preenche, ou não, os requisitos objetivos e subjetivos do benefício, podendo determinar, para tal fim, de modo fundamentado, a realização de exame criminológico.
+No caso, o Juízodas Execuçõesconcedeu ao ora paciente a progressão ao regime intermediário, consignando, para tanto, que (e-STJ fls. 50/51):
+O sentenciado preenche os requisitos previstos no artigo 112 da Lei de Execução Penal.
+Preencheu o requisito objetivo exigido para a progressão.
+No aspecto subjetivo também faz jus ao benefício, contando com informações favoráveis da Penitenciária à concessão do benefício, inclusive com bom comportamento carcerário.
+Registra faltas disciplinares reabilitadas.
+Possui anotações de trabalho e estudo no cárcere.
+Ante o exposto, promovo o sentenciado MAYCON RODRIGO BERNARDO RAMOS para o REGIME ABERTO (..).
+OTribunal de Justiça do Estado de São Paulo, por sua vez, deu provimento ao agravo em execução interposto pelo Ministério Público para "determinar a realização de exame criminológico para aferir o mérito do Agravado"(e-STJ fl. 12), em acórdão assim fundamentado (e-STJ fls. 14/19):
+Assim, quanto ao mérito, e ainda que o Atestado da Secretaria da AdministraçãoPenitenciária tenha certificado o "bom" comportamento carcerário do Agravado (fls.18), é de se considerar que: 1. trata-se de agente reincidente, com personalidade violenta e que foi condenado pela prática de crimes graves(homicídios qualificados e roubo majorado praticados com violência ou grave ameaça à pessoa) e que causam intranquilidade social, especialmente porque agridem a paz pública, exigindo-se redobrada e minuciosa análise do requisito subjetivo; 2. possui histórico prisional conturbado (fls.23), com registro de faltas disciplinares (três de natureza grave, e uma de natureza leve), evidenciando não só falta de autodisciplina, mas também que não absorveu a terapêutica penal; 3. o término de cumprimento de pena está previsto para 10.12.2023 (fls.19).
+A avaliação do mérito deve ser feita de forma global e não por meio de uma mera declaração de funcionário administrativo, restrita, aliás, que é à expressão "bom comportamento", mesmo porque este conceito não abrange a aferição da perigosidade do agente.
+(..).
+Em se tratando de condenado por crimes extremamente violentos (homicídios qualificados e roubo majorado), reveladores de especiais censurabilidade e perversidade, aaferição do mérito deve se dar do modo mais completo possível, assegurando se as perspectivas do sentenciado no sentido de sua regeneração e recuperação são consistentes, bem como se houve eliminação, ou ao menos diminuição, da perigosidade do agente.
+Como se vê dos trechos do acórdão acima colacionados, a determinação de que fosse realizado o exame criminológico não foi devidamente fundamentada, uma vez que o Tribunal de origemlevouem conta a gravidade dos delitos cometidos e, de forma genérica, a necessidade de ter respaldo técnicoque propicie uma análise mais cuidadosa sobre o comportamento e a personalidade do ora sentenciado, para avaliar a viabilidade de seu retorno ao convívio em sociedade.
+Dessa forma, não havendo demonstraçãoefetivada necessidade de realização de exame criminológico, deve ser reconhecida a ilegalidade da sua exigência.
+A propósito, confiram-se os seguintes precedentes:
+HABEAS CORPUS.EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. LIVRAMENTO CONDICIONAL. INCIDÊNCIA DA SÚMULA 439/STJ. REQUISITO SUBJETIVO. AUSÊNCIA DE MOTIVAÇÃO. PRECEDENTES. ORDEM NÃO CONHECIDA. WRIT CONCEDIDO DE OFÍCIO.
+1. O Supremo Tribunal Federal, por sua Primeira Turma, e a Terceira Seção do Superior Tribunal de Justiça, diante da utilização crescente e sucessiva do habeas corpus, passaram a restringir a sua admissibilidade quando o ato ilegal for passível de impugnação pela via recursal própria, sem olvidar a possibilidade de concessão da ordem, de ofício, nos casos de flagrante ilegalidade. Esse entendimento objetivou preservar a utilidade e a eficácia do mandamus, que é o instrumento constitucional mais importante de proteção à liberdade individual do cidadão ameaçada por ato ilegal ou abuso de poder, garantindo a celeridade que o seu julgamento requer.
+2. A Lei n. 10.792/2003 deu nova redação ao art. 112 da Lei n. 7.210/1984, para suprimir a realização de exame criminológico como expediente obrigatório para a progressão de regime.
+3. "Admite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada" (Súmula 439/STJ).
+4.No caso, o Tribunal de origem ao indeferir o livramento condicional não logrou fundamentar a necessidade do referido exame, deixando de invocar elementos concretos dos autos que pudessem afastar a decisão do magistrado, levando em conta apenas a gravidade dos delitos e a longa pena a cumprir, desconsiderando, ainda, a boa conduta carcerária atestada pelo diretor do estabelecimento prisional.
+5. Ordem não conhecida. Concessão de habeas corpus de ofício para restabelecer a decisão de Primeiro Grau que deferiu ao paciente o livramento condicional(HC 366.253/SP, de minha relatoria, Sexta Turma,DJe de 21/9/2016, grifei).
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CONHECIMENTO DO WRIT.EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL DEFERIDO. BENEFÍCIO CASSADO PELO TRIBUNAL A QUO, SEM QUALQUER FUNDAMENTO CONCRETO. CONSTRANGIMENTO ILEGAL EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+1. Ressalvada pessoal compreensão diversa, uniformizou o Superior Tribunal de Justiça ser inadequado o writ em substituição a recursos especial e ordinário, ou de revisão criminal, admitindo-se, de ofício, a concessão da ordem ante a constatação de ilegalidade flagrante, abuso de poder ou teratologia.
+2.Nos termos da jurisprudência desta Corte, desde a Lei n. 10.792/2003, que conferiu nova redação ao art. 112 da Lei de Execução Penal, aboliu-se a obrigatoriedade do exame criminológico como requisito para a concessão da progressão de regime, cumprindo ao julgador verificar, em cada caso, acerca da necessidade, ou não, de sua realização, podendo dispensá-lo ou, ao contrário, determinar sua realização, desde que mediante decisão concretamente fundamentada na conduta do apenado no decorrer da execução. Precedentes.
+3.In casu, foi cassado o benefício do livramento condicional, determinando-se a realização de exame criminológico, sem qualquer fundamento concreto.
+4.Fatores relacionados ao crime praticado são determinantes da pena aplicada, mas não justificam diferenciado tratamento para a progressão de regime, de modo que o exame criminológico somente poderá fundar-se em fatos ocorridos no curso da própria execução penal.
+5. Habeas corpus não conhecido. Ordem concedida, de ofício, para restabelecer a decisão de 1º Grau, que havia deferido o livramento condicional(HC 323.553/SP, relator o Ministro Nefi Cordeiro, Sexta Turma,DJe de 3/9/2015, grifei).
+Ante o exposto,concedo a ordem,para cassar oacórdão proferido no Agravo de Execução Penal n. 0008536-81.2020.826.0071, e restabelecer a decisão do Juízo de primeiro grau que concedeu a progressão de regime ao paciente.
+Publique-se. Intimem-se.
