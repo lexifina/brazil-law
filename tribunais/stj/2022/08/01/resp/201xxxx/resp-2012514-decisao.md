@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de Recurso Especial interposto (art. 105, III, "a", da Constituição da República) contra acórdão assim ementado (fl. 322, e-STJ):
+TRIBUTÁRIO. APELAÇÃO. APREENSÃO DE VEÍCULO. EMPRESA LOCADORA. PENA DE PERDIMENTO.
+Não havendo prova de que a locadora tenha atuado conjuntamente com o locatário para a prática da conduta infratora, deve ser tutelada a livre iniciativa, a liberdade econômica, a boa fé e o respeito ao contrato, indispensáveis ao crescimento econômico do País, afastando-se a imposição da pena de perdimento.
+Os Embargos de Declaração foram rejeitados (fl. 368, e-STJ).
+A parte recorrente aponta violação, em preliminar, dos arts. 489 e 1.022 do CPC; e, no mérito, dos arts. 187, 421, 422 do Código Civil; 123 e 136 do CTN; 94 e 95, I, do Decreto-Lei 37/1966; e 673, 674, I, 675, II, e 688, V, do Decreto 6.759/2009 (Regulamento Aduaneiro). Defende:
+(..) no caso, a materialidade da infração praticada (transporte de mercadorias de origem estrangeira de forma irregular) foi devidamente comprovada, restando evidente a destinação comercial das mercadorias apreendidas, tendo em vista a quantidade e as características destas.
+Assim, evidenciado no caso em tela que o demandante concorreu para o ilícito fiscal, porquanto disponibilizou o meio necessário para sua concreção, qual seja, o transporte. E, ao fazê-lo, assumiu a responsabilidade por eventual conduta lesiva decorrente - culpa "in eligendo" e "in vigilando".
+Por outro lado, com o devido respeito, não há amparo legal para afastar-se a pena de perdimento ao fundamento da boa fé do demandante. Isto porque, dos dispositivos legais não analisados e ora apontados pela UNIÃO exsurge que a aplicação da pena de perdimento independe da boa ou má-fé do proprietário, bastando que reste comprovado o fato de que o veículo foi utilizado para o transporte de mercadorias irregularmente internadas no país, o que é incontroverso no presente caso.
+A aplicação da pena de perdimento do veículo guarda nexo causal com o dano ao erário, pressuposto fático da imputabilidade dessa punição.
+Contrarrazões às fls. 399-422, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 19 de julho de 2022.
+Preliminarmente, constata-se que não se configurou a ofensa ao art. 1.022 do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia. Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+Na hipótese dos autos, a parte insurgente busca a reforma do aresto impugnado, asseverando que o Colegiado a quo não se pronunciou sobre o tema ventilado no recurso de Embargos de Declaração. Todavia, verifica-se que o acórdão controvertido está bem fundamentado, inexistindo omissão ou contradição.
+Vale destacar que o simples descontentamento da parte com o julgado não tem o condão de tornar cabíveis os Aclaratórios, que servem ao aprimoramento da decisão, mas não à sua modificação, que só muito excepcionalmente é admitida.Registre-se, ademais, que Corte regional examinoue decidiu, fundamentadamente, todas as questões postas ao seu crivo, não cabendo falar em negativa de prestação jurisdicional.
+Observo que o TRF4 não emitiu juízo de valor sobre as questões jurídicas levantadas em torno dos dispositivos mencionados.O Superior Tribunal de Justiça entende ser inadmissível o conhecimento do Recurso Especial quando os artigos tidos por violados não foram apreciados pela instância a quo, ainda que se trate de matéria de ordem pública, como a prescrição, a despeito da oposição de Embargos de Declaração, haja vista a ausência do requisito do prequestionamento. Incide, na espécie, a Súmula 211/STJ.
+Além disso, apenas para esclarecer eventuais dúvidas, ressalto que, mesmo nos casos em que a instância ordinária acolhe os Embargos de Declaração "para efeito de prequestionamento", não é satisfeita tal exigência. Isso porque, para que se tenha por atendido esse requisito, não basta que sedê por prequestionado o dispositivo, é indispensável também a emissão de juízo de valor sobre a matéria.
+No mérito, para melhor compreensão da controvérsia, transcrevo os fundamentos do decisum recorrido (e-STJ, fl. 310):
+Não havendo prova de que a locadora tenha atuado conjuntamente com o locatário para a prática da conduta infratora, deve ser tutelada a livre iniciativa, a liberdade econômica, a boa fé e o respeito ao contrato, indispensáveis ao crescimento econômico do País.
+Nota-se que a questão foi decidida com base no suporte fático-probatório dos autos, cujo reexame é inviável pela atual via, ante o óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial".Assim, afasta-se de ideia de simples valoração da prova.
+Por tudo isso, conheço parcialmente do Recurso Especial, apenas com relação à violação do art. 1.022 do CPC, e, nessa parte, não o provejo.
+Publique-se.
+Intimem-se.
