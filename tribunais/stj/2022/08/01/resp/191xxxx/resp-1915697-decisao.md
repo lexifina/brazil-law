@@ -1,0 +1,30 @@
+DECISÃO
+Vistos.
+BANCO SANTANDER S/A interpõe recurso especial, com base nas alíneas "a" e "c" do art. 105 da CRFB,em face do acórdão exarado pelo Tribunal de Justiça do Estado do Rio Grande do Sul no curso de ação revisional de contrato bancário em seu desfavor ajuizada por CELICIA CONCEIÇÃO MACHADO, cuja ementa transcreve-se:
+APELAÇÃO CÍVEL. NEGÓCIOS JURÍDICOS BANCÁRIOS. CONTRATOS DE CARTÃO DE CRÉDITO. AÇÃO REVISIONAL. JUROS REMUNERATÓRIOS. A limitação dos juros remuneratórios nos contratos Nacional submetidos ao da Sistema Financeiro depende comprovação da abusividade, verificada caso a caso a partir da taxa média de mercado registrada pelo BACEN à época da contratação e conforme a natureza do crédito alcançado, não se caracterizando somente pelo fato da pactuação ser em percentual superior a 12% ao ano. Verificado que os encargos praticados no contrato ultrapassam a taxa média de mercado divulgada pelo Banco Central, cabível a sua limitação ao percentual registrado no período. DESCARACTERIZAÇÃO DA MORA. Constatada abusividade contratual encargos da normalidade, descaracterizada a mora. REPETIÇÃO DO INDÉBITO.Na forma simples ou pela correspondente compensação é admitida, ainda que ausente prova de erro no pagamento. Procedendo a revisão, cabível a repetição simples do indébito. APELO PROVIDO.
+Em suas razões, sustenta o recorrente a decisão recorrida nega vigência ao art. 4º, IX, da Lei 4.595/64. Aduz que a limitação dos juros à taxa média bancária divulgada pelo BACEN deixa de observar a referida legislação de regência bancária, devendo ser mantidos os juros remuneratórios contratados. Aponta dissídio jurisprudencial, pois a média de mercado não pode ser considerada limite para fins de verificação da abusividade contratual. Salienta que os juros remuneratórios na espécie não superam uma vez e meia a média prevista pelo BACEN. Objeta não ter restado descaracterizada a mora. Requer o provimento do recurso.
+Não foram apresentadas contrarrazões.
+O recurso especial foi admitido pela Presidência da Corte de origem.
+É o relatório.
+Decido.
+No mérito, a Corte local reconheceu a abusividade da taxa de juros remuneratórios do contrato de cartão de crédito objeto do pedido de revisão sob o fundamento de que, "em consulta as ferramentas disponibilizadas peio BACEN, verifica-se que os encargos praticados no contrato revisando excedem a taxa média de mercado divulgada pelo Banco Central, sendo, portanto, abusivos os juros, que deverão ser revistos (e-STJ, fl. 134)".
+Referiu-se, ainda,que: "inobstante não se desconheça de entendimento em sentido contrário, a posição majoritária desta Câmara, no exame da abusividade, é a da impossibilidade de existência de "margem de tolerância" entre os referidos parâmetros, bastando que, para tanto, as taxas estipuladas nos contratos revisandos extrapolem a taxa média de mercado divulgada pelo Banco Central." (e-STJ fl. 134).
+Consignou-sequea taxa média respectiva, divulgada pelo BACEN, variouem torno de 7% ao mês, enquantoa taxa contratada oscilouentre 10% e 11%.No entanto, não houve a indicação deabuso no valor efetivamente cobrado, senão registrou-se o fato de a taxa contratada estar acima da taxa média de mercado.
+Tal constatação, contudo,não ésuficiente a evidenciar a abusividade alegada, especialmente quando a diferença entre a taxa contratada e a taxa média, considerada pelo acórdão, não é significativa.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REVISÃO CONTRATUAL. CARTÃO DE CRÉDITO. ART. 535 DO CPC DE 1973. OFENSA AFASTADA. ALEGAÇÃO DE AUSÊNCIA DA CIÊNCIA PRÉVIA DAS CLÁUSULAS CONTRATUAIS. INCIDÊNCIA DA SÚMULA 7/STJ. JUROS REMUNERATÓRIOS. COBRANÇA ABUSIVA. LIMITAÇÃO. NÃO COMPROVAÇÃO. SÚMULA 83/STJ. CAPITALIZAÇÃO MENSAL DE JUROS. REQUISITOS PREENCHIDOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 5/STJ. PROIBIÇÃO DE INSCRIÇÃO DO DEVEDOR NOS CADASTROS DE INADIMPLENTES. ANTECIPAÇÃO DOS EFEITOS DA TUTELA. IMPOSSIBILIDADE. NÃO PREENCHIMENTO DOS REQUISITOS. CARACTERIZAÇÃO DA MORA. AGRAVO NÃO PROVIDO.
+(..)
+3. A circunstância de a taxa de juros remuneratórios praticada pela instituição financeira exceder a taxa média do mercado não induz, por si só, a conclusão de cobrança abusiva, consistindo a referida taxa em um referencial a ser considerado, e não em um limite que deva ser necessariamente observado pelas instituições financeiras. Precedentes.
+(..)
+8. Agravo interno a que se nega provimento.(AgInt no AREsp 447.560/RS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 27/04/2017, DJe 19/05/2017)
+A conclusão não se coaduna com a orientação deste Tribunal Superior, devendo, assim, ser reformada de modo a manter-se a taxa dos juros prevista contratualmente, porque não evidenciada a necessária abusividade, não bastando, certamente, a mera superação da taxa média de mercado.
+Afastada a revisão sobre os juros, não há falar em abusividade no período de normalidade contratual, impondo-se manter os encargos de mora, inclusive a possibilidade de cadastramento do devedor nos órgãos de proteção ao crédito.
+Ante o exposto, conheço e dou provimento ao recurso especial.
+Em face do resultado destejulgamento, invertem-se os ônus de sucumbência, e majoram-se para R$ 2.500 os honorários advocatícios fixados na origem, observada a suspensão daexigibilidade da verba, em razão da gratuidade judiciária deferida.
+Intimem-se.
+EMENTA
+RECURSO ESPECIAL. DIREITO CIVIL E CONSUMIDOR. CONTRATO BANCÁRIO. AÇÃOREVISIONAL. JUROS REMUNERATÓRIOS. INEXISTÊNCIA DE ABUSIVIDADE PELA TÃO
+SÓ SUPERAÇÃO DA MÉDIA DE MERCADO. MANUTENÇÃO DA MORA.
+1. A tão só superação da taxa média de mercado em operações da espécie nãoevidencia abusividade a permitir a revisão do contrato celebrado,notadamente quando se revela diminuta a diferença entre o montante cobradoe a taxa média adotada pelo setor.
+2. Afastada a revisão sobre os juros, não há falar em abusividade noperíodo de normalidade contratual, impondo-se manter os encargos de mora,inclusive a possibilidade de cadastramento do devedor nos órgãos deproteção ao crédito.
+3. RECURSO ESPECIAL CONHECIDO E PROVIDO.
