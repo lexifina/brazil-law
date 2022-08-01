@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo contra a decisão que inadmitiu o recurso especial interposto por JULIANO HENRIQUE DE OLIVEIRA, com fundamento na alínea "a" do permissivo constitucional, em oposição a acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS, assim ementado (e-STJ, fls. 1.104-1.111):
+"AGRAVO EM EXECUÇÃO PENAL. COMUTAÇÃO DAS PENAS. DECRETO Nº 9.246/2017. NÃO CABIMENTO. Não preenchido o requisito temporal e em se tratando de reincidente, o agravante não faz jus à comutação, pelo que é inviável a reforma da decisão que indeferiu o pedido. AGRAVO CONHECIDO E DESPROVIDO.
+Em suas razões recursais, a parte recorrente aponta violação do art. 619 do Código de Processo Penal. Aduz para tanto, em síntese, que o acórdão recorrido, a despeito da oposição dos embargos de declaração, foi omisso sobre a alegação de "falha na indicação do Sistema de Execução Unificado - SEEU, resultado de um lapso do próprio sistema, o qual só passa a descontar o tempo de pena cumprida dos crimes comuns após o término integral da pena do crime hediondo" (e-STJ, fl. 1.148).
+Com contrarrazões (e-STJ, fls. 1.160-1.164), o recurso especial foi inadmitido na origem (e-STJ, fls. 1.168-1.169), ao que se seguiu a interposição de agravo.
+Remetidos os autos a esta Corte Superior, o MPF manifestou-se pelo não provimento do recurso (e-STJ, fls. 1.197-1.201).
+É o relatório.
+Decido.
+O agravo impugna adequadamente os fundamentos da decisão agravada, devendo ser conhecido. Passo, portanto, ao exame do recurso especial propriamente dito.
+No mérito, a prejudicial prospera.
+Com efeito, o recurso especial imputa omissão ao acórdão recorrido, referente ao argumento de que existe "falha na indicação do Sistema de Execução Unificado - SEEU, resultado de um lapso do próprio sistema, o qual só passa a descontar o tempo de pena cumprida dos crimes comuns após o término integral da pena do crime hediondo" (e-STJ, fl. 1.148 - sem destaque no original). Todavia, esse tema não foi apreciado pelo TJ/GO, o qual se limitou a destacar o não cumprimento do lapso temporal necessário à comutação, sem enfrentar o ponto apresentado pela defesa, conforme se pode observar do seguinte trecho do acórdão:
+"Assim é que, para ter direito ao beneplácito, o agravante, por tratar-se de réu reincidente, deverá ter cumprido, até 25 de dezembro de 2017, pelo menos 1/3 (um terço) da pena para os crimes comuns e 2/3 (dois terços) para o delito hediondo, sendo que no caso em exame, este cálculo corresponde a 03 (três) anos, 09 (nove) meses e 20 (vinte) dias para a primeira modalidade de infrações e de 01 (um) ano, 11 (onze) meses e 10 (dez) dias para o crime impeditivo.
+ .. .
+Em consulta ao sítio do Sistema de Execução Unificado - SEEU (Mov, 53), verifica-se que JULIANO cumpriu mais de 02 (dois) anos da reprimenda do crime hediondo. Quanto à sanção dos crimes comuns, aproximadamente 03 (três) anos e 03 (três) meses, não implementando, portanto, o requisito temporal exigido pelo Decreto nº 9.246/2017" (e-STJ, fl. 1.108).
+Configurada, assim, a ofensa ao art. 619 do CPP, os autos devem voltar aoTJ/GO, para que este se pronuncie de maneira fundamentada sobre asquestões suscitadas nos embargos de declaração.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, "c", doRISTJ,conheçodo agravo paradar provimentoao recurso especial, a fim deanular o acórdão recorrido e determinar o retorno dos autos ao Tribunalde origem, para que este julgue novamente os embargos de declaração, sanando as omissões apontadas.
+Publique-se. Intimem-se.
