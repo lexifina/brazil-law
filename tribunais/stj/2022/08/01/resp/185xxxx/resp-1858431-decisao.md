@@ -1,0 +1,50 @@
+DECISÃO
+GUSTAVO DA SILVA OLIVEIRA interpõe recurso especial, fundado no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação Criminal n. 0000054-75.2014.8.26.0583.
+Consta dos autos que o réu foi condenado a 1 ano de reclusão, em regime aberto, mais multa, pela prática de tentativa de furto qualificado - art. 155, § 4º, I e II, c/c o art. 14, II, ambos do Código Penal (fls. 210-215). Na oportunidade, a reprimenda foi substituída por prestação de serviços à comunidade.
+Irresignada, a defesa apelou. A Corte de origem negou provimento ao recurso (fls. 283-291).
+Nas razões do especial, a defesa apontou a violação do art. 155, § 2º, do Código Penal e da Súmula n. 511 do STJ (fls. 150-162).
+Alegou, em síntese, a aplicação do princípio da insignificância, por atipicidade da conduta, diante da inexpressividade do valor da res furtiva, que foi restituída à vítima.
+Subsidiariamente, impugnou a não aplicação da forma privilegiada prevista no § 2º do art. 155 do CP.
+Requereu o provimento do recurso, com fim de absolver o réu e, alternativamente, a revisão da dosimetria imposta.
+Admitido o especial pelo Tribunal local (fls. 354), o Ministério Público Federal manifestou-se, às fls. 393-404, pelo seu parcial provimento.
+Decido.
+O recurso interposto é tempestivo e preencheu os demais requisitos de admissibilidade, razão pela qual conheço do especial e passo à análise das impugnações.
+I. Contextualização
+O réu foi condenado porque "tentou subtrair, para si, mediante o rompimento de obstáculo e escalada, produtos alimentícios pertencentes ao estabelecimento comercial "Andrea Eventos", consistentes em 01 (uma) peça de paleta suína cozida/defumada de aproximadamente 500 gramas da marca "Rio Sul", 04 (quatro) refrigerantes (guaraná) de dois litros da marca "Antarctica"; 01 (uma) peça de presunto de aproximadamente 2,5 kg da marca "Paulcicia", 02 (duas) peças de salame de aproximadamente 500 gramas cada da marca "Rio Sul" e 01 kg de peito de frango da marca "Pioneira", de propriedade da vítima V.G.E.J." (fl. 210).
+O Juiz de primeira instância assim refutou a absolvição do réu pela atipicidade da conduta (fls. 213-214, grifei):
+ ..
+Na hipótese dos autos, o pequeno valor dos bens não é o elemento preponderante, porque para a tentativa de subtração houve violação de obstáculos, o que importa em prejuízos à vítima e evidencia maior ofensividade da conduta, periculosidade social, alto grau de reprovabilidade e lesão aos bens jurídicos tutelados pelo Direito Penal. Assim é que, o mesmo não sendo crime praticado com violência ou grave ameaça à pessoa, caso a tese defensiva fosse acolhida, haveria incentivo à impunidade e desassossego social. A vítima certamente não pode ficar desamparada e ter ofendidos seus direitos fundamentais à mercê da vontade de meliantes.
+O Tribunal estadual, ao rechaçar o pleito absolutório pela insignificância da conduta, assentou (fl. 288, destaquei):
+ ..
+Com a devida vênia, não há como aplicar aqui o princípio da insignificância, para fins de absolvição. A norma principiológica tem a finalidade única de servir como instrumento orientador do Poder Legislativo no momento de valoração das condutas que serão consideradas relevantes para o Direito Penal, o que se dará com base no grau de lesividade ao bem jurídico tutelado.
+O princípio da insignificância, logo, não encontra assento em nossa legislação, daí que a sua aplicação pelo Poder Judiciário para fins de afastamento da tipicidade material implicaria em ofensa ao princípio da reserva legal, bem como ao princípio da independência dos poderes, porquanto o Judiciário estaria usurpando função inerente ao Legislativo.
+Para que o fato seja considerado criminalmente relevante, não basta a mera subsunção formal a um tipo penal. Deve ser avaliado o desvalor representado pela conduta humana, bem como a extensão da lesão causada ao bem jurídico tutelado, com o intuito de aferir se há necessidade e merecimento da sanção, à luz dos princípios da fragmentariedade e da subsidiariedade.
+As hipóteses de aplicação do princípio da insignificância se revelam com mais clareza no exame da punibilidade concreta - possibilidade jurídica de incidência da pena -, que atribui conteúdo material e sentido social a um conceito integral de delito como fato típico, ilícito, culpável e punível, em contraste com a estrutura tripartite (formal) tradicionalmente adotada, conforme expus de maneira mais aprofundada no julgamento do REsp n. 1.864.600/MG, ocorrido em 15/9/2020.
+Por oportuno, ressalto que, por se tratar de categorias de conteúdo absoluto, a tipicidade e a ilicitude não comportam dimensionamento do grau de ofensa ao bem jurídico tutelado, compreendido a partir da apreciação dos contornos fáticos da conduta delitiva e dos condicionamentos sociais em que se inserem o agente e a vítima.
+Nesse contexto, o diálogo entre a política criminal e a dogmática na jurisprudência sobre a bagatela deve também ser informado pelos elementos subjacentes ao crime, que se compõem do valor dos bens subtraídos e do comportamento social do acusado nos últimos anos.
+Assim, os registros de vida pregressa devem ser entendidos como elementos objetivos, e não subjetivos. Isso porque não se avalia a pessoa do agente, mas, sim, o seu histórico penal - que pode ser incompatível com a exclusão da punibilidade - e a perspectiva de recidiva do comportamento avesso ao direito.
+O exame desses dados alinha-se com o princípio da isonomia, pois o indivíduo que furta uma vez não pode ser igualado ao que furta habitualmente, escorando-se este, conscientemente, na impunidade.
+Com efeito, o próprio legislador penal confere importância aos registros na folha de antecedentes para o cômputo da reprimenda, como ocorre na privilegiadora do furto, bem assim em vários outros crimes patrimoniais que preveem benesses para agentes primários (v.g., 171, § 1º, 168, § 3º, 180, § 5º, e 337-A, § 2º) com a finalidade de individualizar a pena.
+Na hipótese em análise, o recorrente foi condenado a 1 ano de reclusão, mais multa, pela prática de tentativa furto qualificado contra estabelecimento comercial.
+A res furtiva foi avaliada em R$ 110,00 (fls. 18-19), o que corresponde a 15,2 % do valor do salário-mínimo vigente à data do fato (R$ 724,00), e o bem restituído à vítima.
+A Corte estadual negou a incidência do princípio da insignificância por ausência de previsão legal (fl. 288).
+Embora o réu seja tecnicamente primário, existem duas outras anotações na F.A.P. do acusado. Tal circunstância, além do valor apurado da res furtiva e a incidência de duas qualificadoras - rompimento de obstáculo e escalada - justificam a manutenção da condenação.
+Por fim, destaco que, "a restituição dos bens subtraídos não conduz, necessariamente, à incidência do princípio da insignificância" (AgRg no HC n. 696.351/SC, Rel. Ministro Joel Ilan Paciornik, 5ª T., DJe 18/2/2022).
+Logo, inviável o acolhimento do pleito absolutório.
+II. Furto privilegiado
+O recorrente pleiteia, ainda, seja reconhecido o furto privilegiado e aplicada exclusivamente a multa, haja vista a compatibilidade do art. 155, § 2º, do CP com as formas qualificadas do crime.
+A instância anterior considerou indevida a aplicação do benefício previsto no § 2º do art. 155 do Código Penal, com base no fato de o crime ter sido qualificado (fl. 290).
+Sobre a possibilidade de reconhecimento do privilégio, nas hipóteses em que o furto é qualificado, menciono que a Terceira Seção deste Superior Tribunal, por ocasião do julgamento do REsp n. 1.193.194/MG, submetido ao rito do art. 543-C do CPC, de relatoria da Ministra Maria Thereza de Assis Moura (DJe de 28/8/2012), decidiu que "consoante entendimento pacificado pelo julgamento do EREsp. 842.425/RS, de que relator o eminente Ministro Og Fernandes, afigura-se absolutamente "possível o reconhecimento do privilégio previsto no § 2º do art. 155 do Código Penal nos casos de furto qualificado (CP, art. 155, § 4º)", máxime se presente qualificadora de ordem objetiva, a primariedade do réu e, também, o pequeno valor da res furtiva".
+Nesse sentido, foi editada a Súmula n. 511, que assim dispõe: "É possível o reconhecimento do privilégio previsto no § 2º do art. 155 do CP nos casos de crimes de furto qualificado, se estiverem presentes a primariedade do agente, o pequeno valor da coisa e a qualificadora for de ordem objetiva".
+Na hipótese dos autos, tanto o Juiz sentenciante quanto a Corte estadual indeferiram a aplicação do privilégio porque o furto foi qualificado pelo rompimento de obstáculo (fls. 214-290).
+Dessa forma, procede a irresignação recursal neste ponto, pois a conclusão exarada pelas instâncias antecedentes está em desacordo com o posicionamento adotado por este Superior Tribunal, devendo incidir, na espécie, a forma privilegiada do § 2º do art. 155 do Código Penal.
+III. Nova dosimetria
+Uma vez constatada a aplicabilidade da referida causa de diminuição, passo ao redimensionamento da pena, observados os parâmetros fixados no acórdão recorrido.
+Na primeira etapa da dosimetria, ausentes circunstâncias judiciais negativas, a pena-base é fixada no mínimo legal, em 2 anos de reclusão.
+Na segunda fase, embora incida a atenuante da confissão, a reprimenda é mantida no mesmo patamar, nos termos da Súmula n. 231 do STJ.
+Na terceira etapa, a sanção é diminuída em 1/2 pela tentativa, o que resulta em 1 ano de reclusão.
+Por fim, reconhecido o privilégio do § 2º do art. 155 do CP, a reprimenda é atenuada em 2/3 e totaliza 4 meses de reclusão.
+Preenchidos os requisitos do art. 44 do CP, a pena é substituída por prestação de serviços à comunidade, por igual período, a ser viabilizada pela Vara de Execuções Penais.
+IV. Dispositivo
+À vista do exposto, com fundamento no art. 932, VIII, do CPC, c/c o art. 34, XVIII, "c", parte final, do RISTJ, dou parcial provimento ao recurso especial, para o fruto privilegiado e reduzir a pena imposta ao réu ao patamar de 4 meses de reclusão, em regime aberto, e substituí-la por prestação de serviços à comunidade, por igual período.
+Publique-se e intimem-se.
