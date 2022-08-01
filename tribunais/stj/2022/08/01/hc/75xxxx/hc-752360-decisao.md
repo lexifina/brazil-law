@@ -1,0 +1,12 @@
+DECISÃO
+ALESSANDRO MENDES FRADES alega sofrer coação ilegal em face de acórdão do Tribunal a quo. O paciente, condenado a cumprir 1 ano, 4 meses e 15 dias de reclusão, além a 43 dias-multa, por furto simples, considera desproporcional a fixação do regime semiaberto em face de seus maus antecedentes e da reincidência.
+Pede a fixação do regime inicial aberto.
+Decido.
+O writ comporta pronta solução, por decisão monocrática do relator, pois existeentendimento do colegiadosobre acontrovérsiae oacórdão recorrido está conforme a jurisprudência desta Corte.
+O regime semiaberto foi benéfico ao apenado, consideradas precisamente as circunstâncias do crime(furto de bens avaliado em R$ 638,00, em agosto de 2017), por agente "useiro e vezeiro na prática de crimes, condenado pelo menos 04 vezes pelo crime de furto e respondendo a 10 outros processos pelo mesmo delito" (fl. 27),enão é possível seu abrandamento, pois:
+ ..  em que pesem a reduzida lesividade da conduta praticada e o fato de o patamar de pena privativa de liberdade facultar a fixação do regime aberto, nota-se que o apelante, além de portador de maus antecedentes, é reincidente em crime doloso" (fl. 373).
+Em razão do princípio da proporcionalidade referido ao legislador, em sua feição abstrata, admite-se o regime prisional mais severo do que a pena aplicadaaos reincidentes e/ou aos que possuem circunstâncias judiciais analisadas desfavoravelmente.Assim, não há falar em fixação do regime aberto.
+Aplica-se ao caso o entendimento de que "embora oquantumda pena aplicada permita a adoção do regime inicial mais brando, os critérios estabelecidos no art. 59 do Código Penal (maus antecedentes), além da presença dareincidência,recomendam que seja adotado regime mais gravoso  .. ".(STJ, AgRg no REsp1.899.462/DF, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 09/02/2021, DJe 12/02/2021)"(AgRg no HC n. 590.722/SC, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 19/4/2022, DJe de 25/4/2022).
+Deveras: "No que se refere ao regime prisional, não se infere qualquer desproporcionalidade na imposição do meio inicialmente mais gravoso para o desconto da reprimenda, pois, nada obstante ser a pena inferior a 4 anos de reclusão, os maus antecedentes do acusado implicaram majoração da pena-base, tendo, ainda, sido reconhecida a sua reincidência" (HC n. 576.876/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 18/8/2020, DJe de 24/8/2020).
+À vista do exposto, denego o habeas corpus, in limine.
+Publique-se e intime-se.
