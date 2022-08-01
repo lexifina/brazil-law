@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em favor de ANDRE DA LUZ OLIVEIRA contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul.
+Consta dos autos que o paciente foi condenado a 3 anos de reclusão, em regime prisional aberto, mais pagamento de 10 dias-multa, como incurso nas sanções do art. 16, parágrafo único, IV, da Lei n. 10.826/2003, tendo a pena privativa de liberdade sido convertida em restritivas de direitos (e-STJ, fls. 274-281).
+Irresignada, a defesa apelou ao Colegiado de origem, que desproveu o recurso, nos moldes da seguinte ementa:
+"APELAÇÃO CRIMINAL. PORTE ILEGAL DE ARMA DE FOGO. ART. 16, §1º, IV, DA LEI 10.826/03. RÉU A.L.O. CRIME DE PERIGO ABSTRATO. PROVAS DA AUTORIA E MATERIALIDADE. PALAVRA DOS POLICIAIS. VALIDADE. DESCLASSIFICAÇÃO. IMPOSSIBILIDADE. NUMERAÇÃO DE SÉRIE SUPRIMIDA POR PROCESSOS ABRASIVOS. CONDENAÇÃO MANTIDA.
+1. O porte ilegal de arma de fogo é crime de perigo abstrato e de mera conduta, mostrando-se prescindível a demonstração de perigo concreto. Precedentes. Na esteira do entendimento dos Tribunais, em especial o Supremo Tribunal Federal, não são inconstitucionais os crimes de perigo abstrato, a exemplo daqueles previstos na Lei 10.826/03, que teve sua constitucionalidade assentada na ADI 3.112/DF. Ademais, o laudo pericial da arma apreendida confirma que esta se encontrava em condições de uso e de funcionamento, mesmo que com desajustes. Não há falar, assim, em ausência de ofensividade na conduta.
+2. Pratica o crime do art. 16, §1º, IV, da Lei 10.826/03, quem porta arma de fogo com numeração suprimida, em desacordo com determinação legal ou regulamentar. A partir das provas produzidas, não houve dúvida de que o revólver estava na posse do recorrente. Os policiais estavam em patrulhamento na região e abordaram dois indivíduos que estavam em uma motocicleta, os quais empreenderam fuga, mas foram alcançados logo em seguida, sendo apreendida na cintura do réu A.L.O. uma arma de fogo, municiada. Os relatos dos agentes que participaram da prisão foram firmes e se amoldam ao restante do conteúdo produzido em sede inquisitorial e judicial, a justificar a manutenção da condenação.
+3. A perícia indicou a existência de arma com numeração suprimida por processos abrasivos, fazendo incidir no tipo do art. 16, §1º, IV, da Lei 10.826/03. Descabida, portanto, a desclassificação para o tipo do art. 14 do Estatuto do Desarmamento.
+APELAÇÃO NÃO PROVIDA."(e-STJ, fls. 8-9)
+Neste writ, a Defensoria Pública estadual sustenta, em síntese, a atipicidade da conduta imputada ao paciente, uma vez que a perícia constatou que a arma de fogo apreendida não estava em condições de produzir disparos, sendo clara a ausência de ofensividade.
+Pugna, assim, pela concessão da ordem a fim de reconhecer a atipicidade da conduta, com a absolvição do paciente.
+Indeferido o pedido de liminar (e-STJ, fl. 392), a Subprocuradoria-Geral da República manifestou-se pelo não conhecimento da impetração (e-STJ, fls. 398-403).
+É o relatório.
+Decido.
+Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+O Colegiado de origem, ao rechaçar o pleito de reconhecimento da atipicidade do delito, assim se posicionou:
+"A conduta de André se amolda ao porte ilegal de arma de fogo, delito que prescinde da demonstração do risco de dano. As Cortes Superiores, sobretudo o STF, guardião da Constituição Federal, afirmam não haver inconstitucionalidade na definição de crimes de perigo abstrato, tendo sido reconhecida, inclusive, a adequação da Lei nº 10.826/03 ao ordenamento pátrio por meio da ADI 3112/DF.
+Nesse sentido, paradigmático precedente daquele Tribunal (HC 104410/RS - Min.
+Gilmar Mendes - Segunda Turma - Julgamento 06/03/2012). É prescindível, na hipótese, a demonstração de perigo de dano. Também é o entendimento do STJ.
+Por conta disso, inclusive, levando-se em conta o bem jurídico tutelado (incolumidade pública, inexiste violação ao princípio da lesividade, matéria pacificada junto à 3ª Seção do STJ, pouco importando, também para o STF, se a arma estava desmuniciada ou desmontada.
+Não há falar, assim, em atipicidade por ausência de ofensividade na conduta.
+Não é caso, também, de insuficiência probatória.
+Quanto à materialidade, esta é demonstrada pelo boletim de ocorrência (fls. 02/05, pgs. 34/37 do arquivo evento 3, PROCJUDIC1), pelo auto de prisão em flagrante (fls. 14/15, pgs. 46/47 do arquivo evento 3, PROCJUDIC1), pelo auto de apreensão (fl. 06, pg. 38 do arquivo evento 3, PROCJUDIC1) e pelo laudo pericial da arma de fogo (fl. 91, pg. 40 do arquivo evento 3, PROCJUDIC3), bem como pela prova oral produzida em juízo.
+No que se refere especificamente à funcionalidade do artefato, o laudo pericial nº 136245/2018 atestou o funcionamento da arma de fogo e comprovou a supressão da numeração por abrasão mecânica, nos seguintes termos:
+Testando a arma com cartuchos de calibre compatível, incluindo os questionados, obtivemos a produção de tiros apenas em ação simples mediante alinhamento manual do tambor com o percutor, porém devido ao desalinhamento com o cano, os projéteis ficam dentro do cano após os disparos. Os cartuchos foram eficazes.
+Verificamos que o número de série de AQ foi suprimido por abrasão mecânica. Não constatamos vestígios de alteração de calibre, mecanismo ou marca.
+Embora com desajustes, a arma possui funcionalidade e exerce a função a que se destina, que é expelir as cargas das munições, não havendo falar em atipicidade ou ausência de materialidade."(e-STJ, fls. 12-13)
+Conforme se observa, a Corte de origem afastou a atipicidade da conduta por entender que a arma periciada demonstrou aptidão para exercer a função a que se destina, qual seja, expelir as cargas de munição.
+Da leitura do teor do laudo pericial transcrito no acórdão impugnado extrai-se que não foi atestada a total inaptidão do artefato a produzir disparos, ressaltando que, devido ao desalinhamento, os projéteis ficam dentro do cano após o disparo.
+Desse modo, não há como se acolher a tese de atipicidade por ausência de ofensividade, uma vez que não foi atestada a total ineficácia da arma de fogo para efetuar disparos.
+Outrossim, inverter a conclusão adotada na instância ordinária nesse sentido é providência que não se coaduna com a estreita via do mandamus, pela inegável necessidade de incursão no acervo fático e probatório dos autos.
+Ante o exposto, não conheço do writ.
+Publique-se. Intimem-se.
