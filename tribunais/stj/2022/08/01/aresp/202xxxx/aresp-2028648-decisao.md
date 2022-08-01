@@ -1,0 +1,81 @@
+DECISÃO
+Trata-se de Agravo interposto contra decisão que inadmitiu Recurso Especial (art. 105, III, "a", da CF/1988) no qual se impugna acórdão do Tribunal Regional Federal da 3ª Região assim ementado:
+AÇÃO ANULATÓRIA - ADUANEIRO E ADMINISTRATIVO - ANULAÇÃO DE AUTO DE INFRAÇÃO - APLICAÇÃO DO ARTIGO 107, IV, E, DO DECRETO-LEI Nº 37/66 - DENÚNCIA ESPONTÂNEA: INAPLICABILIDADE ÀS OBRIGAÇÕES ACESSÓRIAS - RECURSO DESPROVIDO. HONORÁRIOS ADVOCATÍCIOS.
+1. O auto de infração não padece de vício formal. Ademais, os fatos estão descritos com clareza e as normas aplicáveis, citadas com exatidão. Presentes os elementos essenciais, portanto (artigo 10, do Decreto n.º 70.235/72).
+2. O pedido é de anulação do Auto de Infração e multa, por infração ao artigo 107, inciso IV, alínea "e", do Decreto-lei nº 37/66.4.
+3. A denúncia espontânea é inaplicável às obrigações tributárias acessórias. Precedentes do Superior Tribunal de Justiça. Não há violação ao artigo 102, § 2º, do Decreto-lei n.º 37/66, com a redação dada pela Lei Federal n.º 12.350/2010.
+4. A alegada violação ao princípio da razoabilidade não tem pertinência. Trata-se de sanção, sem natureza tributária, destinada a reprimir e inibir ações prejudiciais à atividade fiscalizatória no âmbito do controle aduaneiro. Deve ser aplicada nos exatos termos da lei.
+5. Em relação aos honorários advocatícios, nos termos do § 11 do artigo 85 do Código de Processo Civil vigente, a majoração dos honorários é uma imposição na hipótese de se negar provimento ou rejeitar recurso interposto de decisão que já havia fixado honorários advocatícios sucumbenciais, respeitando-se os limites do § 2º. Para tanto, deve-se levar em conta a atividade do advogado na fase recursal, bem como a demonstração do trabalho adicional apresentado pelo advogado. Assim, a verba honorária será majorada em 2%.
+6 . Apelação não provida.
+Os Embargos de Declaração foram rejeitados.
+Nas razões do Recurso Especial, a agravante alega ofensa aos arts. 489, § 1º, IV, e 1.022, II, do CPC/2015 e aduz:
+Ocorre que a Recorrente, desde a inicial, vem apontando que o caso em testilha refere-se à autuação oriunda de PEDIDO DE RETIFICAÇÃO DE INFORMAÇÕES. Não fosse isso, a Recorrente também abordou o tema expressamente em sede de embargos de declaração ao trazer à baila a solução de consulta interna nº. 02, que conclui no sentido de que alterações ou retificações de informações já prestadas não se caracterizam como prestação de informação intempestiva.
+Em que pese a Recorrente tenha mencionado tal fato nas razões de apelação, o Tribunal de origem nada se manifestou a respeito quando do julgamento do recurso, mesmo após a oposição dos embargos de declaração, nos quais a matéria foi novamente suscitada.(fl. 429, e-STJ).
+Sustenta que houve violação aos arts. 107, IV, "e", do Decreto-Lei 37/1966e 31 do Decreto 6.759/2009.Assevera, em suma:
+(..), extrai-se da hipótese de incidência contida nos referidos artigos que será aplicada multa de R$ 5.000,00 (cinco mil reais) àquele que deixar de prestar informação sobre veículo ou carga nele transportada, ou sobre as operações que execute, no prazo de quarenta e oito horas antes da chegada da embarcação no porto de destino do conhecimento genérico.
+Ou seja, a obrigação só nasce no momento em que o agente de cargas deixa de prestar as informações relativas às cargas transportadas no prazo de 48 horas.
+OCORRE, NO ENTANTO, QUE A AUTUAÇÃO IMPUGNADA NÃO SE ENQUADRA NA HIPÓTESE DE INCIDÊNCIA DESCRITA NO ARTIGO 107, INCISO IV, ALÍNEA "E", DO DECRETO-LEI Nº. 37/66, TAMPOUCO NAQUELA PREVISTA NO ART. 31 DO REGULAMENTO ADUANEIRO, POIS O AUTO DE INFRAÇÃO DESCREVE COMO FATO GERADOR DA MULTA A "RETIFICAÇÃO DE INFORMAÇÃO JÁ PRESTADA DENTRO DO PRAZO".
+A hipótese de incidência descrita no indigitado artigo não consagra a retificação de informações já prestada, não sendo cabível, portanto, a aplicação da multa.(fl. 432, e-STJ).
+Aponta também contrariedade ao art. 102, § 2º, do Decreto-Lei 37/1966, com redação dada pela Lei 12.350/2010, e justifica:
+(..), na espécie, a denúncia espontânea não se aplicaria por se tratar de descumprimento de obrigação acessória, o que de fato não se verifica nos autos.
+Em relação à especificidade do tema, cabe esclarecer que a infração consubstanciada no Auto de Infração em combate é de NATUREZA ADMINISTRATIVA PURA (ADUANEIRA), e não tributária, uma vez que não há uma obrigação derivada da falta de recolhimento de um tributo.
+Trata-se, in casu, de obrigação de prestar informação à Receita Federal acerca das cargas transportadas pelo navio no sistema SISCOMEX-CARGA, cuja natureza é aduaneira administrativa, pois prevista no artigo 107, IV, alínea "e" do Decreto-lei nº. 37/66 (legislação aduaneira).
+Não haverá que falar assim em obrigação acessória, já que aquelas são as decorrentes de legislação tributária, conforme determina o art. 113, §2º do Código Tributário Nacional.
+As infrações de caráter administrativo, isto é, as meramente formais, como é o caso das infrações oriundas do descumprimento de prazo para prestar informações no SISCOMEX-CARGA, foram alcançadas pelo instituto da denúncia espontânea a partir da conversão da Medida Provisória nº. 497/2010 na Lei nº. 12.350/2010, que alterou o §2º do artigo 102 do Decreto- lei nº. 37/66, reproduzido no artigo 683, §2º, do Regulamento Aduaneiro (Decreto nº. 6759/2009).(fls. 434-435, e-STJ).
+Defende ainda:
+Ao contrário do aduzido no V. Acórdão, o valor da multa aplicado no montante de R$ 10.000,00 (Dez mil) não está de acordo com os parâmetros definitivos no texto do artigo 107, IV, alínea "e", do Decreto-lei nº. 37/66.
+Além disso, observa-se um evidente desequilíbrio entre a multa punitiva imposta pela suposta infração e o valor do frete pago como contraprestação do transporte das mercadorias. A multa apenada no valor de R$ 5.000,00 por infração, frise-se, é o dobro do valor pago a título de frete!
+Como já trazido à baila, a Recorrente é agente de cargas, e depende única e exclusivamente dos valores pagos a título de frete para manutenção de suas atividades.
+Nesse prisma, imperioso se faz ressaltar a notável diferença entre os valores pagos pelos clientes a título de frete para realização do transporte e o valor da penalidade imposta. Com efeito, o agente de cargas, ora Recorrente, recebe como contraprestação ao serviço de agenciamento, em torno de US$ 300,00 (Trezentos dólares) por embarque, ao passo que a multa pela suposta infração ao artigo 107, inciso IV, alínea "e", do Decreto-lei nº. 37/66, é apenada no exorbitante valor de R$ 5.000,00 (cinco mil reais).
+Revela-se inquestionável, dessa maneira, que o "quantum" da multa fixado compromete o patrimônio da Recorrente e ultrapassa o limite de sua capacidade contributiva, devendo incidir in casu a limitação constitucional, expressa no artigo 150, IV, da Constituição Federal, que veda a utilização de prestações tributárias com efeito confiscatório.
+Percebe-se, portanto, que a multa punitiva imposta pela suposta infração ao artigo 107, inciso IV, alínea "e", do Decreto-lei nº. 37/66 não se mostra razoável, configurando, na espécie, o caráter confiscatório da penalidade pecuniária, por comprometer o exercício do direito a uma existência digna, a prática de atividade profissional lícita e a regular satisfação das necessidades vitais da empresa Recorrente.(fls. 438-439, e-STJ).
+Contrarrazões às fls. 446-454, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 29 de junho de 2022.
+De plano, afasto a apontada afronta aos arts. 489 e 1.022 do CPC/2015, pois não se constata omissão, obscuridade, contradição ou erro material nos acórdãos recorridos capazes de torná-los nulos.O Tribunal a quo apreciou a demanda de forma clara e precisa, deixando bem delineados os motivos e fundamentos que embasaram o decisum.
+Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar o conflito, observando as questões relevantes e imprescindíveis à sua resolução. Não se pode confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Para melhor elucidação da controvérsia, transcrevo trechos do aresto proferido ne origem:
+In casu, a parte Autora pretende a nulidade do Auto de Infração nº 0927700/00149/13 lavrado em 26.03.2013, com consequente anulação da multa de r$ 10.000,00 (dez mil reais), imposta pela Alfândega do Porto de São Francisco do Sul - SC no âmbito do Processo Administrativo Fiscal nº 10921.720247/2013-31.
+(..)
+O Auto de Infração impugnado pela autora foi lavrado com fulcro no artigo 107, inciso IV, alínea "e", do Decreto-Lei nº 37/66, que assim dispõe:
+"Art. 107. Aplicam-se ainda as seguintes multas:(Redação dada pela Lei nº 10.833, de 29.12.2003 ) ..
+IV - de R$ 5.000,00 (cinco mil reais): (Redação dada pela Lei nº 10.833, de 29.12.2003 ) ..
+e) por deixar de prestar informação sobre veículo ou carga nele transportada, ou sobre as operações que execute, na forma e no prazo estabelecido pela Secretaria da Receita Federal, aplicada à empresa de transporte internacional, inclusive a prestadora de serviços de transporte internacional expresso porta-a-porta, ou ao agente de carga."
+Dessa forma, conforme consta do Auto de Infração, houve um suposto desatendimento às normas legais bem como a "não prestação de informação sobre veículo ou carga transportada, ou sobre operações que executar", com fundamento ainda na IN RFB nº 800/2007, arts. 22 e 50.
+Primeiramente não há que se falar em nulidade no Auto de Infração, uma vez que constou de todos os requisitos necessários pela qual a empresa foi autuada. A parte Autora não prestou informações sobre os transportes internacionais, concernentes às cargas amparadas nas Declarações de Importação. Ademais, houve infringência a diversos dispositivos legais, entre eles o Decreto nº 4.543/02, art. 107, IV, "e" do DL nº 37/66 com a redação pelo art. 77, bem como a IN nº 800/07, art. 22, IV e art. 50.
+De acordo com a IN/RFB nº 800/2007 a empresa tem um prazo para prestar informações. Destaco que o agente de carga, corresponde a um intermediário, que atua entre o embarcador e o transportador, captando carga, arrendando espaços em embarcações e oferecendo serviços agregados aos seus clientes, tais como consolidação da carga, unitização, o controle de embarque, operações de contingência etc.
+Destarte, o agente de carga foi equiparado ao transportador para fins de prestação de informações, pois, nessa qualidade é responsável pela desconsolidação, informações uma vez que possui os dados relativos aos responsáveis pelas cargas transportadas.
+Além disso, a objeção de que a norma determina a prestação de informações apenas sobre a carga e não sobre a desconsolidação do conhecimento não merece acolhimento.
+Com efeito, o próprio ato normativo dispôs que a informação sobre a desconsolidação está inserida no dever de informar sobre a carga transportada.
+Nesse sentido, o artigo 10 da IN 800/2007 assim prescreve:
+"Art. 10. A informação da carga transportada no veículo compreende:
+I - a informação do manifesto eletrônico;
+II - a vinculação do manifesto eletrônico a escala;
+III - a informação dos conhecimentos eletrônicos;
+IV - a informação da desconsolidação; e
+V - a associação do CE a novo manifesto, no caso de transbordo ou baldeação da carga."
+Cumpre observar o teor do artigo 22 da mencionada instrução normativa, a fim de que não paire dúvida sobre a legalidade e tipicidade da autuação.
+Observo que o prazo de 48 horas de antecedência é mínimo, de modo que a autora poderia ter concluído a desconsolidação, cumprindo com a obrigação, logo após a inclusão dos conhecimentos eletrônicos no sistema.
+Forçoso concluir, portanto, que a parte autora deixou de prestar as informações devidas no prazo instituído pela IN/RFB nº 800/07, incorrendo em infração que justifica a pretensão punitiva do Estado.
+Por consequência, resta demonstrada a ocorrência de tipicidade e justa causa para a lavratura do auto de infração.
+Presume-se, assim, a legalidade do ato infralegal (IN/RFB nº 800/2007) e a regularidade do ato administrativo sancionador (auto de infração), sendo irrelevante, no caso, a notícia da ulterior alteração pela IN SRF nº 1473/2014, vez que as infrações em comento foram aplicadas com fulcro no artigo 107, inciso IV, alínea "e", do Decreto-Lei nº 37/66, com a redação dada pela Lei nº 10.833, de 29.12.2003.
+Anoto que a previsão de prazo para prestação de tais informações não exige, para a aplicação da multa, depois de constatado o descumprimento da obrigação, a prova de dano (dolo) específico, mas apenas da prática da conduta formal lesiva às normas de fiscalização e controle aduaneiro, não violando a segurança jurídica, tampouco o princípio da legalidade, a conduta administrativa de aplicar a multa prevista na legislação.
+No que tange ao alegado pela parte autora de que não se aplica o comando legal ao caso em si, em virtude das alterações ocorridas acerca do prazo, não merece prosperar, uma vez que não obstante as alterações introduzidas no que se refere a matéria (Lei nº 10.833/2003, IN SRFB 899/08 e Lei nº 12.350/2010), o art. 50 da IN RFB dispõe que o transportador não está isento das obrigações de prestar informações. Da mesma forma, o art. 107, IV"e" do DL 37/66 expressamente determinam a aplicação de multa em caso de mero atraso na prestação da informação à empresa de transporte internacional.
+No tocante à denúncia espontânea, se mostra incabível o pleito (art. 138 do CTN e art. 102, §§1º e 2º do DL 37/66), na medida em que na espécie houve aplicação de multa por descumprimento de obrigação de prestação de informação de carga aduaneira a destempo.
+Trata-se de dever administrativo acessório e autônomo em relação ao despacho aduaneiro, consistindo em verdadeira condição para a gestão dos instrumentos de controle aduaneiro por parte da fiscalização.
+(..)
+Por fim, entendo que não há que se falar em ausência de razoabilidade ou proporcionalidade no valor da multa aplicada, devendo ser mantida.(fls. 365-369, e-STJ).
+Nota-se que a Corte regionaldecidiu a questão com base no suporte fático-probatório dos autos, e não é permitido reapreciá-la diante do óbice na Súmula 7/STJ.Tampouco se pode examinar a norma infralegal IN 800/2007, visto que não se enquadra no conceito de lei federal para fins de abertura da via especial.
+Haja vista que o dever de prestar informações à Receita Federal (art. 37 do Decreto-Lei 37/1966) é obrigação tributária acessória autônoma, à qual não corresponde o pagamento de tributo, não é possível aplicar oinstituto da denúncia espontânea, de acordo com a jurisprudência do STJ e precedentes da Corte regional.
+Logo, o julgado está em consonância com a orientação do STJno sentido de que, não obstante a alteração promovida pela Lei 12.350/2010, a denúncia espontânea não se aplica aos casos de descumprimento de obrigação acessória autônoma.
+Nessa linha:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. OBRIGAÇÃO ACESSÓRIA. DENÚNCIA ESPONTÂNEA. INAPLICABILIDADE. AGRAVO INTERNO DA EMPRESA A QUE SE NEGA PROVIMENTO.
+1. Esta Corte possui entendimento de que não se aplica a denúncia espontânea em caso de descumprimento de obrigação acessória autônoma.
+2. Outrossim, tal como consignado no julgado impugnado, e em observância à orientação desta Corte, o referido entendimento manteve-se íntegro mesmo após a alteração promovida pela Lei 12.350/2010 (AgInt no AREsp. 1.418.993/RJ, Rel. Min. FRANCISCO FALCÃO, DJe 10.2.2020).
+3. Agravo Interno da Empresa a que se nega provimento.
+(AgInt no REsp 1.867.756/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, DJe 23/10/2020)
+Ante o exposto, conheço do Agravo para conhecer em parte do Recurso Especiale, nessa extensão, negar-lhe provimento.
+Caso existam nos autos honorários de advogado previamente fixados pelas instâncias de origem, determino sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se.
+Intimem-se.
