@@ -1,0 +1,52 @@
+DECISÃO
+MAYCON PEREIRA CARNEIRO BARBOSA alega ser vítima de coação ilegal perpetrada pelo Tribunal de Justiça do Estado do Rio de Janeiro no acórdão do Agravo Interno na Apelação n. 0000925-21.2017.8.19.0058.
+No presente writ, o impetrante alega, em síntese, que há excesso de prazo para o julgamento da apelação interposta pela defesa.
+Requer, liminarmente e no mérito, a concessão de liberdade, para que o paciente possa aguardar em liberdade até o final julgamento da ação penal.
+Indeferida a liminar (fls. 760-761) e prestadas as informações (fls. 749-758), os autos foram remetidos ao Ministério Público Federal, que opinou pela denegação da ordem (fls. 766-771).
+Decido.
+Consta dos autos que o paciente teve sua prisão preventiva decretada em 7/11/2017.
+Após o recebimento da denúncia e de regular instrução processual, o acusado foi condenado a 17 anos, 3 meses e 1 dia de reclusão, em regime fechado, mais multa, pela prática dos crimes previstos nos arts. 33 e 35, c/c o 40, III, IV e VI, todos da Lei n. 11.343/2006, na forma do art. 69 do Código Penal, juntamente com outros 34 corréus, em 6/1/2020 (fls. 520-659).
+Na ocasião, foi mantida a prisão cautelar do insurgente nos seguintes termos (fl. 653-655, grifei):
+ ..
+Por derradeiro, presentes os requisitos normativos insculpidos no art. 313 do CPP e os pressupostos fáticos preconizados no art. 312 do mesmo diploma, determino a manutenção da prisão preventiva de DIEGO TEIXEIRA MARTINI DE CASTRO FERREIRA, MAYCON PEREIRA CARNEIRO BARBOSA,  ..  para garantir a ordem pública e assegurar a aplicação da lei penal, salientando que responderam a todo o processo segregados cautelarmente e inexistem alterações fáticas ou jurídicas ulteriores a justificarem, após a condenação, que seja concedida liberdade para interposição de eventual recurso.
+ ..
+Além disso, se as circunstâncias concretas da prática do crime revelam risco de reiteração delitiva e a periculosidade do agente, justificada está a decretação ou a manutenção da prisão cautelar para resguardar a ordem pública, desde que igualmente presentes boas provas da materialidade e da autoria, o que agora resta evidente ante a condenação.
+Com efeito, a dimensão em concreta dos fatos delitivos  jamais a gravidade em abstrato  pode ser invocada como fundamento para a manutenção da prisão preventiva para garantia da ordem pública.
+A Corte estadual, ao negar provimento ao agravo interno defensivo, assentou (fls. 196-198, destaquei):
+ ..
+Ocorre, entretanto, que, especialmente diante da recente condenação, persistem os motivos para o encarceramento cautelar; os crimes praticados são graves, sendo o tráfico de drogas, equiparado aos hediondos, fazendo-se a custódia premente para resguardo da ordem pública e da aplicação da lei penal, além de evitar a reiteração criminosa.
+Dessa forma, ao contrário do que entende a defesa, a prisão do paciente está suficientemente justificada, não havendo qualquer ilegalidade na decisão impugnada, na forma do art. 93, IX, da Constituição da República, e do art. 312 do Código de Processo Penal, não havendo o que se modificar.
+Ressalte-se que, embora proferida sentença condenatória recorrível, permanece inalterada a natureza cautelar da custódia imposta ao réu, sendo reforçada, contudo, pela comprovação da autoria e da materialidade reconhecidas pela condenação.
+Mencione-se que é improsperável a alegação de excesso de prazo, pois como bem destacado, trata-se de feito complexo, com 35 réus, distintas apelações, havendo enorme confluência na apresentação de recursos de apelação e contrarrazões, sendo todos os atrasos evidenciados exclusivamente pelos próprios condenados que são irrelevantes como excesso de prazo.
+Neste aspecto, a própria defesa do agravante opôs embargos declaratórios, requereu vista dos autos por duas vezes e pugnou pelo oferecimento das razões recursais em 2.ª instancia, razão pela qual não pode alegar morosidade.
+Por fim, como bem pontuado na decisão recorrida, o acusado se encontra preso, também, por sentença penal condenatória desde 2015 (Execução n.º 0265581-77.2017.8.19.0001).
+Sobre o alegado excesso de prazo para o julgamento da apelação, faço lembrar que a jurisprudência desta Corte Superior é firme ao asseverar que "o excesso de prazo em caso de demora no julgamento de apelação não se afere com base na soma aritmética dos prazos processuais, devendo ser examinadas as peculiaridades da causa, em especial o quantum da pena aplicada na sentença e a complexidade do feito" (AgRg no HC n. 626.530/CE, Rel. Ministro João Otávio de Noronha, 5ª T., DJe 13/8/2021, grifei).
+No mesmo sentido: AgRg no HC n. 634.368/RS (Rel. Ministro Antônio Saldanha Palheiro, 6ª T., DJe 16/8/2021), HC n. 653.177/RJ (Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 9/8/2021) e AgRg no HC n. 654.855/MG (Rel. Ministro Rogerio Schietti, 6ª T., DJe 13/8/2021).
+No caso, considerando a pena total aplicada - 17 anos, 3 meses e 1 dia de reclusão -, não verifico, à primeira vista, flagrante excesso de prazo, considerada a complexidade da causa - que envolve outros trinta e quatro corréus - e a demora provocada pelas defesas dos acusados, consoante externado pela autoridade apontada como coatora.
+Nessa perspectiva, a jurisprudência do Superior Tribunal de Justiça é firme em assinalar que a elevada reprimenda estabelecida na sentença condenatória deve ser considerada para fins de análise de suposto excesso de prazo no julgamento da apelação.
+Ilustrativamente:
+ ..
+2. Eventual excesso de prazo no julgamento da apelação deve ser aferido em face da quantidade de pena imposta na sentença condenatória. No caso, o paciente foi condenado a elevada pena de 84 anos, 1 mês e 8 dias de reclusão em regime inicial fechado e 6 anos, 9 meses e 8 dias de detenção, em regime inicial semiaberto, não restando desarrazoado o prazo para julgamento do recurso defensivo.
+3. Habeas corpus não conhecido. Recomende-se ao Tribunal Federal da 4ª Região que imprima maior celeridade no julgamento do recurso de apelação n. 5005355-04.2017.4.04.7002.
+(HC n. 641.306/PR, Rel. Ministro Joel Ilan Paciornik, 5ª T., DJe 30/4/2021, grifei)
+ ..
+2. Embora haja decorrido cerca de um ano e três meses desde o recebimento do apelo defensivo em segunda instância, as particularidades do caso - pluralidade de recursos interpostos (15 apelos defensivos, mais o pleito do Ministério Público), diversidade de defensores, necessidade de intimação dos apelantes para apresentação de razões recursais e de apreciação de pedidos incidentais - justificam maior lapso temporal para o julgamento das irresignações apresentadas.
+3. A alta reprimenda imposta ao recorrente - mais de 57 anos de reclusão - mitiga a alegação de excesso de prazo no caso.
+3. Recurso não provido.
+(RHC n. 111.398/RJ, Rel. Ministro Rogerio Schietti, 6ª T., DJe 1º/7/2019, destaquei)
+Ressalte-se, ainda, que o insurgente cumpria pena por outro crime quando foi preso pelos delitos em análise nestes autos (fl. 198).
+Por fim, a Corte de origem destacou a real periculosidade do acusado - integrante da organização criminosa Comando Vermelho, praticou os delitos dentro da penitenciária onde cumpria pena por outro crime -, fundamento suficiente a justificar a manutenção da cautela extrema (fl. 711).
+Na mesma linha de raciocínio, o Supremo Tribunal Federal afirmou que "a necessidade de interromper a atuação de organização criminosa e o risco concreto de reiteração delitiva justificam a decretação da custódia cautelar para a garantia da ordem pública" (AgR no HC n. 138.522/DF, Rel. Ministro Roberto Barroso, 1ª T., DJe 19/6/2017).
+Nessa mesma perspectiva:
+ ..
+2. No caso, as instâncias ordinárias destacaram os indícios de contumácia delitiva, consistente nas notícias de inquéritos policiais relatando outros golpes praticados segundo mesmo modus operandi e em aliança com os mesmos corréus, de forma, portanto, organizada e profissional. Trata-se de fundamento idôneo, diante da necessidade de obstar o cometimento de novos delitos e preservar a ordem pública.
+3. Com efeito, a perseverança do agente na senda delitiva, comprovada pelos registros de crimes graves anteriores, enseja a decretação da prisão cautelar para a garantia da ordem pública como forma de conter a reiteração, resguardando, assim, o princípio da prevenção geral e o resultado útil do processo.
+4. Mencione-se que embora inquéritos policiais e ações penais em andamento não possam ser considerados para recrudescer a pena, nos termos do enunciado n. 444 da Súmula desta Corte, consistem em elementos indicadores da propensão do acusado ao cometimento de novos delitos, caso permaneça em liberdade.
+5. Além disso, foi ressaltada a especial reprovação da conduta, praticada, em tese, contra vítima idosa, de 75 anos de idade, em sua própria residência, sendo que o recorrente a teria abordado momentos antes, fingindo oferecer cursos, para certificar-se de que não havia nenhum jovem no local. Evidente, portanto, que as fraudes eram praticadas prevalecendo-se da fragilidade dos anciões, circunstância que revela a falta de escrúpulos que justifica a prisão cautelar.
+10. Recurso desprovido. Recomendação de reexame, de ofício, pelo Juízo oficiante, da segregação cautelar, tendo em vista o tempo decorrido e o disposto na Lei 13.964/19. (RHC n. 122.115/RJ, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 28/02/2020, destaquei)
+ ..
+2. O decreto exarado pelo Juiz de primeiro grau preenche os requisitos formais para a prisão preventiva e invoca suficientes razões para embasar a cautela extrema, porquanto contextualizou, em dados concretos dos autos e em juízo de proporcionalidade, sua necessidade como única providência idônea para atender ao dever de proteção da ordem pública, ao ressaltar a participação do recorrente em estruturada organização criminosa voltada para a prática reiterada de estelionatos, inclusive contra pessoas idosas.
+3. O STJ entende que a participação de agente em organização criminosa sofisticada - a revelar a habitualidade delitiva - pode justificar idoneamente a prisão preventiva, bem como desautorizar sua substituição pelas medidas cautelares previstas no art. 319 do CPP.
+4. Habeas corpus denegado. (RHC n. 87.192/RS, Rel. Ministro Sebastião Reis Júnior, Rel. p/ Acórdão Ministro Rogerio Schietti, 6ª T., DJe 13/10/2017, grifei)
+À vista do exposto, denego a ordem, com recomendação de urgência à Corte de origem, no que tange ao julgamento da Apelação n. 0000925-21.2017.8.19.0058.
+Publique-se e intimem-se.
