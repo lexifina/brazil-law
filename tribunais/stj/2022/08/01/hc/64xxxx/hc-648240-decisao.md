@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de Renato Pereira Bispo e Gleidston Batista Machado, apontando-se como órgão coator o Tribunal de Justiça de São Paulo (Apelação Criminal n.0000121-98.2015.8.26.0617 - fls. 49/57).
+Narram os autos que os pacientes foram condenados à pena de 5 anos e 10 meses de reclusão, em regime inicial fechado, e 583 dias-multa, como incursos no art. 33, caput, da Lei n. 11.343/2006, facultado o recurso em liberdade (Processo n. 0000121-98.2015.8.26.0617 - fls. 18/27).
+À apelação criminal interposta pela defesa, o Tribunal a quo, por unanimidade, deu parcial provimento a fim de reduzir as penas de cada um para 5 anos de reclusão, além do pagamento de500 dias-multa (fls. 49/57).
+Daí o presente writ, em que a Defensoria Pública alega ilegalidade na dosimetria da pena.
+Aduz que, na terceira fase de aplicação da reprimenda, a autoridade coatora afastou a aplicação da minorante prevista no art. 33, § 4º, da Lei de Drogas, utilizando- se como argumento impeditivo considerando a quantidade de entorpecentes apreendida com os pacientes; no entanto, máxima vênia, tal argumento não merece prosperar (fls. 5/6).
+Defende, ainda, que eventual quantidade de drogas, por si só, não éargumento idôneo para concluir pela dedicação do defendido à atividade criminosa, ou mesmo o seu pertencimento à associação criminosa, apto ao afastamento da minorante prevista no art. 33, § 4º, da Lei de Drogas (fl. 8).
+Requer, inclusive em liminar, a concessão da ordem para que sejam procedidos ajustes na dosimetria da pena (sanção definitiva seja reduzida em 2/3 - fl.11), e, em seguida, que seja fixado o regime inicial aberto (na pior das hipóteses, o semiaberto) e substituída a pena corporal por duas restritivas de direitos (fl. 13).
+Liminar indeferida (fls. 61/62) e informações prestadas(fls. 66/97), o Ministério Público Federal opinou pelo não conhecimento do writ(fls. 102/106).
+É o relatório.
+Verifico a existência deflagrante ilegalidade no afastamento do tráfico privilegiado,com base na quantidade do material entorpecente apreendido (974,56 g de maconha - fl. 52).
+Com efeito, seguindo farta orientação do Supremo Tribunal Federal, recentemente, a Terceira Seção do Superior Tribunal de Justiça reafirmou o entendimento de que o tráfico privilegiado é instituto criado para beneficiar aquele que ainda não se encontra mergulhado nessa atividade ilícita, independentemente do tipo ou do volume de drogas apreendidas, para implementação de política criminal que favoreça o traficante eventual e, ainda, de que a utilização concomitante da natureza e da quantidade da droga apreendida na primeira e na terceira fases da dosimetria, nesta última para descaracterizar o tráfico privilegiado ou modular a fração de diminuição de pena, configura bis in idem, expressamente rechaçado no julgamento do Recurso Extraordinário n. 666.334/AM, submetido ao regime de repercussão geral pelo Supremo Tribunal Federal (Tese de Repercussão Geral n. 712) - (REsp n.1.887.511/SP, Ministro João Otávio de Noronha, Terceira Seção, DJe 1º/7/2021 - grifo nosso).
+Fixadas essas premissas e obedecidas as demais diretrizes estabelecidas pelas instâncias ordinárias, passo ao redimensionamento da reprimenda.
+Mantenho a pena, até a segunda fase, no quantum fixado pelo acórdão impugnado, qual seja, em 5 anos de reclusão, além do pagamento de 500 dias-multa (fl. 52).
+Naterceira fase, reduzo a reprimenda em 1/6, pois se trata do tráfico de quase 1kg de maconha, totalizando4 anos e2 meses de reclusão, além do pagamento de 416 dias-multa.
+Com efeito, atese firmada no REsp n. 1.887.511/SP foi flexibilizada para admitir a modulação da fração de redução do § 4º do art. 33 da Lei n. 11.343/2006 na terceira fase da dosimetria, com base na quantidade e natureza das drogas apreendidas, desde que não tenham sido consideradas na fixação da pena-base (HC n. 725.534, Terceira Seção do STJ)-(AgRg no HC n. 690.866/MG, Ministro João Otávio de Noronha, Quinta Turma, DJe 30/5/2022).
+Por fim, tratando-se de réus primários, com penas-baseestabelecidas no mínimo legal, e a definitiva em 4 anos e 2 meses de reclusão, fixo o regime semiaberto para o início de seu cumprimento.
+Ante o exposto, concedo parcialmentea ordem a fim de fixar a pena do pacienteem4 anos e 2 meses de reclusão, a ser inicialmente cumprida em regime semiaberto, além do pagamento de 416 dias-multa.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA DA PENA. TERCEIRA FASE. ART. 33, 4º, DA LEI N. 11.343/2006. MINORANTE AFASTADAEM RAZÃO DA QUANTIDADE DADROGA. FUNDAMENTAÇÃO INIDÔNEA. PRECEDENTES. MINORANTE. INCIDÊNCIA. NECESSIDADE. REGIME SEMIABERTO. FIXAÇÃO.
+Ordem parcialmente concedidanos termos do dispositivo.
