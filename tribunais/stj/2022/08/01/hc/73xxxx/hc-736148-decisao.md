@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de TAILAN JUNIOR SAMPAIO PINTOem que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo(Apelação Criminal n. 1500682-52.2020.8.26.0559).
+Em primeiro grau, o paciente foi condenado às penas de 10anos de reclusão no regime fechado e de 1.000dias-multa, pela prática do crime tipificado no art. 33, caput, da Lei n. 11.343/2006, bem comode 3 anos e 6 meses de reclusão no regime fechado e de 816 dias-multa, pela prática do delito previsto no art. 35, caput, da Lei n. 11.343/2006.
+O Tribunal de origem deu parcial provimento ao apelo defensivo a fim de absolver o paciente da prática do delito de associação para o tráfico de drogas..
+A pena-base foi exasperada para 7 anos e 6 meses de reclusão, com fundamento na quantidade de droga apreendida - 80tijolos de maconha, pesando 11,815kg. Nasegunda fase da dosimetria da pena, foi reconhecida a agravante da reincidência na fração de 1/3.Foi afastado o tráfico privilegiado.
+Nas razões do presente writ, a defesa pleiteia a absolvição do paciente do crime de tráfico de drogas, ante a ausência de prova suficiente para a condenação. Subsidiariamente, requera desclassificação da conduta para o tipo penal descrito no art. 28 da Lei n. 11.343/2006.
+A liminar foi indeferida (fls. 63-64).
+O Tribunal de Justiça do Estado de São Pauloapresentou informações às fls. 68-100.
+O Ministério Público Federal opinou pela denegação da ordem (fls. 104-108).
+É o relatório. Decido.
+Com efeito, mesmo que inadequada a impetração de habeas corpus em substituição arecurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o STJ considera passível de correção de ofício o flagrante constrangimento ilegal.
+Não se constataa existência de flagrante constrangimento ilegal que autorize a atuação ex officio.
+No caso, o Tribunal de origem manteve a sentença, que condenara o paciente pelo crime de tráfico de drogas, afastando a desclassificação do delito para o de uso de entorpecentes por considerar os elementos analisados nos autos. Destacou que o paciente, ao perceber a aproximação da guarnição, apresentou visível nervosismoe que, além das drogas apreendidas, ele estava na posse de apetrechos relacionados ao tráfico.Confira-se trecho do acórdão (fls. 25-26):
+O conjunto probatório, dessa maneira, afigurou-se claro no sentido de que os acusados, em conjunto, tinham relação material com as drogas apreendidas, sendo os responsáveis por elas.
+Embora tivessem negado a prévia relação que os unia, a prova acusatória permitiu, ao contrário, vinculá-los entre si para um objetivo comum (venda de drogas).
+A inicial delação ofertada pelo acusado TAILAN, preso em flagrante na posse de entorpecente, possibilitou o avanço das investigações e a posterior identificação do acusado GUILHERME, o qual, ressalte-se, não foi responsabilizado apenas porque o comparsa o delatou, mas também porque guardava em sua residência expressiva quantidade de drogas, fato este, aliás, que ele mesmo admitiu em juízo. Ademais, a natureza das drogas, maconha, assim como o formato retangular ("tijolos"), que foram apreendidas na residência de ambos os réus, eram semelhantes em claro indicativo de que estavam juntos na busca de um mesmo objetivo ilícito (venda de drogas).
+A elemento subjetivo igualmente é indubitável tendo em vista a expressiva quantidade de drogas e a apreensão na posse de ambos os réus de balança de precisão (apreendida nos autos) e fitas adesivas, instrumentos estes usualmente destinados ao preparo e separação das drogas.
+Por natural consequência, porquanto provado o ânimo mercantil que os orientava, afasta-se o pleito desclassificatório apresentado pelo acusado TAILAN.
+Sendo suficientes as provas produzidas que embasaram a fundamentada decisão de piso, mantém-se a condenação de ambos os réus pelo crime de tráfico de drogas.
+Consoante entendimento firmado pelo STJ, os estreitos limites do habeas corpus não admitem dilação probatória (AgRg no HC n. 691.609/SP, relator Ministro Jesuíno Rissato, Quinta Turma, DJe de 25/11/2021), o que inviabiliza o acolhimento das alegações referentes à absolvição da prática do crime de tráfico de entorpecentes e ao pedido de desclassificação da conduta do paciente para o tipo penal descrito no art. 28 da Lei n. 11.343/2006 (AgRg no HC n. 587.282/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 8/9/2020), pois as instâncias ordinárias consideraram incontroversas a materialidade e a autoria do delito com base na análise do acervo probatório e, de modo fundamentado, decidiram pela condenação, porquanto presentes as elementares do tipo penal, especialmente a apreensão de drogas.
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo
