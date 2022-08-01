@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por ANTONIO FERREIRA FREIRE, contra decisão de minha lavra (fls. 122/132), na qual neguei provimento ao recurso ordinário em habeas corpus.
+A defesa alega que não foi analisada a falência do exame de perícia local, prova essencial tendo em vista o exame de local e a declaração testemunhal, de modo a possibilitar a revogação da prisão preventiva, como requerida na inicial.
+Pretende, assim, o acolhimento dos embargos, para que seja reconhecida a contradição e cassado o decreto de prisão preventiva, expedindo-se o alvará de soltura.
+É o relatório.
+Decido.
+Os embargos de declaração são cabíveis quando houver ambiguidade, obscuridade, contradição ou omissão na decisão, nos termos do art. 619 do Código de Processo Penal - CPP, e erro material, conforme o art. 1.022, inc. III, do Código de Processo Civil - CPC.
+Sem razão a embargante.
+Com efeito,o Desembargador relatorasseveroua impossibilidade de analisar o mérito da prova testemunhal, providência cabível na ação penal, afastando a alegada omissão arguida no Tribunal de origem.
+Do mesmo modo, negou a existência de contradição no acórdão recorrido, no qual a defesa alegava modificação de situação fática que possibilitaria a desclassificação do crime de homicídio qualificado tentado para lesão corporal leve, o que permitiria o ora embargante responder ao processo em liberdade.
+Conforme destacado na decisão desta Corte Superior de Justiça,é inadmissível, na via estreita do recurso emhabeas corpus, o enfrentamento datesede desclassificação do delito, tendo em vista a necessária incursão probatória, que deverá ser realizada pelo Juízo competente para a instrução e julgamento da causa.
+Acertadamente,o Tribunal a quo asseverou que a condição de foragido do embargante não permite a revogação da custódia cautelar, que também se faz necessária em razão das circunstâncias do delito e para resguardar a vítima, estando fundamentada para garantia da ordem pública e para assegurar a aplicação da lei penal.
+Ressalte-se, ainda, que, a matéria apresentada na presente petição de embargos de declaração- falência do exame de perícia local-,não foi aventada na inicial do recurso emhabeas corpus, de modo que resta configurada a hipótese de inovação recursal, o que impede a análise em sede de embargos de declaração.
+Desse modo, não há falar emcontradição nafundamentação do julgado ora embargado, pois a contradição que autoriza a utilização dosaclaratórios é aquela interna ao próprio voto/decisão e não em relação a fatos externos,normas ou entendimentos proferidos em outras decisões. Assim, eventualcontradição do entendimento assentado na decisãoembargada, em relação a decisõesdesta Corte ou mesmo do Supremo Tribunal Federal, não autoriza a oposição deaclaratórios, devendo ser manejado o recurso próprio (EDcl no RHC 87.061/SC, Rel.Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 21/9/2018).
+Cito outros precedentes:
+AGRAVO REGIMENTAL RECEBIDO COMO EMBARGOS DE DECLARAÇÃO. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE NO JULGADO. EMBARGOS REJEITADOS.
+1. Agravo Regimental recebido como embargos de declaração em homenagem ao princípio da fungibilidade recursal.
+2. Por meio dos aclaratórios, é nítida a pretensão da parte embargante em provocar o rejulgamento da causa, situação que, na inexistência das hipóteses previstas no art. 619 do CPP, não é compatível com o recurso protocolado.
+2. A contradição que autoriza o manejo dos embargos de declaração é a contradição interna, verificada entre os elementos que compõem a estrutura da decisão judicial, e não entre a solução alcançada e a solução que almejava o jurisdicionado.
+3. Embargos declaratórios rejeitados.
+(AgRg no AgRg no AREsp 1608004/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 13/08/2020).
+AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO.CONTRADIÇÃO EXTERNA AO ACÓRDÃO EMBARGADO. INTUITO DE REJULGAMENTO DAS QUESTÕES DECIDIDAS. IMPOSSIBILIDADE. OBSCURIDADE INEXISTENTE.
+1. Os embargos de declaração destinam-se a suprir omissão, afastar obscuridade, bem como eliminar contradição ou ambiguidade eventualmente existentes no julgado impugnado. Não servem, por outro lado, como recurso de revisão, isto é, são inadmissíveis quando forem pautados exclusivamente pela pretensão de rediscutir a matéria decidida e quando ausentes os vícios que autorizam sua oposição.Precedente.
+2. É assente nesta Corte Superior o entendimento de que a "contradição que autoriza o conhecimento dos embargos declaratórios é a contradição interna ao julgado, caracterizada por proposições inconciliáveis entre si" (EDcl no AgRg no AREsp 246.939/SP, Rel.Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 04/08/2015, DJe 12/08/2015). Precedente.
+3. O acórdão recorrido está amparado em fundamentação suficiente, não havendo razão para taxá-lo de obscuro.
+ ..
+3. Agravo regimental desprovido.
+(AgRg no AgRg nos EDcl no AREsp 1619066/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 28/05/2020).
+EMBARGOS DE DECLARAÇÃO NO RECURSO EM HABEAS CORPUS. CONTRADIÇÃO.VÍCIO INEXISTENTE. EVIDENTE PRETENSÃO DE REEXAME DO JULGADO.ACLARATÓRIOS REJEITADOS.
+1. Os embargos de declaração, nos termos do art. 619 do Código de Processo Penal, supõem defeitos na mensagem do julgado, em termos de ambiguidade, omissão, contradição ou obscuridade, isolada ou cumulativamente, vícios esses inexistentes no caso. Aliás, o órgão colegiado examinou minuciosamente a inteireza do caso em questão, de modo que a contradição que dá ensejo à oposição de embargos de declaração é a que se estabelece no âmbito interno do julgado embargado, afetando-lhe a coerência e a racionalidade, e não, como pretende o embargante, eventual dissonância entre as conclusões alcançadas com base nos elementos constantes dos autos e um posterior laudo juntado pela defesa por ocasião da oposição dos aclaratórios.
+2. Ademais, a Sexta Turma desta Casa concluiu pela idoneidade da motivação declinada no decreto de prisão, pois amparado não apenas na gravidade concreta da conduta, evidenciada pela quantidade de entorpecentes apreendidos, a saber, cerca de 250g (duzentos e cinquenta gramas) de cocaína e de 210g (duzentos e dez gramas) de maconha, mas também na reiteração delitiva do recorrente, o qual ostenta condenação anterior pelo crime de tráfico de drogas.
+2. Embargos de declaração rejeitados.
+(EDcl no RHC 117.285/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, DJe 17/03/2020).
+Desse modo, o que se verifica é a nítida intenção doembargante, inconformadocom o resultado do julgamento, em rediscutir a matéria apreciada e já decidida por este Tribunal Superior, providência para a qual os aclaratórios não se prestam.
+Nesse sentido:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. ARGUMENTOS DEVIDAMENTE RECHAÇADOS. OMISSÃO. AUSÊNCIA. EMBARGOS REJEITADOS.
+1. Os embargos de declaração exigem, para que sejam acolhidos, que o embargante demonstre, de forma clara e inequívoca, a existência de omissão, contradição, obscuridade ou ambiguidade (art. 619 do Código de Processo Penal).
+2. No caso, inexistentes as alegadas omissão e contradição, porquanto enfrentadas e afastadas todas as questões suscitadas no apelo extraordinário, verifica-se o manejo dos embargos de declaração com o único propósito de rediscutir os fundamentos da decisão combatida, para o que não se prestam.
+3. Ante a possibilidade de apresentação de memorais escritos pelas partes interessadas, não há que se falar que a circunstância de o agravo regimental não permitir sustentação oral em plenário ofende a garantia constitucional da ampla defesa.
+4. Embargos rejeitados.
+(EDcl no AgRg no AREsp 1196635/PE, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 12/09/2018).
+EMBARGOS DE DECLARAÇÃO NO RECURSO ORDINÁRIO EM HABEAS CORPUS. ART. 619 DO CÓDIGO DE PROCESSO PENAL. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. SOBREVINDA DE PRONÚNCIA. NEGATIVA DO APELO EM LIBERDADE. FUNDAMENTAÇÃO. DECLINAÇÃO DE ELEMENTOS CONCRETOS. INEXISTÊNCIA. GRAVIDADE ABSTRATA DO DELITO. MOTIVAÇÃO INIDÔNEA. OCORRÊNCIA. FLAGRANTE ILEGALIDADE. EXISTÊNCIA. ARBITRAMENTO DE HONORÁRIOS. NÃO CABIMENTO. NÃO OCORRÊNCIA DE QUALQUER VÍCIO. PRETENSÃO DE NOVO EXAME. IMPOSSIBILIDADE.
+1. Os embargos de declaração têm âmbito de cognição restrito às hipóteses do artigo 619 do Código de Processo Penal, quais sejam, a ambiguidade, a contradição, a omissão e/ou a obscuridade da decisão atacada.
+2. Se o acórdão resolveu a controvérsia trazida, exaurindo a prestação jurisdicional com suporte na reiterada jurisprudência desta Sexta Turma e decidindo a causa nos limites do pedido, não se pode conceber a existência de vícios ensejadores da oposição de embargos, sendo nítida a pretensão de rediscutir matéria já suficientemente apreciada e solvida.
+3. Em relação ao pedido de arbitramento dos honorários para o defensor dativo, de se notar que nem mesmo o acórdão oriundo do Tribunal de origem abordou o ponto, e nem se exigiria o contrário daquela Corte, pois o o entendimento consolidado nesta Corte Superior, à luz da essência do instituto do writ, apregoa que não cabe o habeas corpus, nem o recurso ordinário dele derivado, quando a situação em foco não revela a possibilidade de afetação do jus deambulandi, especialmente diante do provimento recursal ordinário, que possibilitou ao acusado que aguardasse solto a prolação de sentença
+4. Não bastasse, quando não resulta da própria discussão da causa, isto é, do ato jurisdicional decorrente da competência desta Corte, mas sim de feito incidental em ação penal em curso perante o primeiro grau de jurisdição, a decisão de estabelecimento de honorários advocatícios deve caber a quem tem vinculação com o Poder de designação e liberação orçamentária dos valores arbitrados, porquanto não é possível ao Superior Tribunal de Justiça impor despesa a qualquer ente da federação.
+5. A atuação do ilustre patrono é resultado da defesa dativa indicada na ação penal ainda em curso, sendo a questão dos honorários merecedora de análise da instância local, que irá avaliar os contornos do pedido a fim de fixar o quantum devido, e se devido.
+6. Embargos de declaração rejeitados.
+(EDcl no RHC 88.880/MG, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA,DJe 02/08/2018).
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se.
+Intimações necessárias.
