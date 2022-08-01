@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso em mandado de segurança interposto por Geraldo Reimão dos Reis contra acórdão da Seção Cível de Direito Público do Tribunal de Justiça da Bahia que, às fls. 89-98, denegou a segurança, por ausência de prova pré-constituída, onde se objetivaassegurar o direito à conversão em pecúnia da licença sabática não usufruída referente ao período de 19/02/2012 a 19/02/2019.
+O recorrente em suas razões sustenta, em síntese, que (fl. 114):
+ ..  alcançando-se a aposentadoria por invalidez, não há como o servidor gozar da licença sabática adquirida, configurando-se plenamente a possibilidade de conversão do direito à mencionada licença em pecúnia de natureza indenizatória, conforme tem decidido os tribunais superiores em relação à licença-prêmio e ás licenças especiais, reconhecendo este direito que foi incorporado ao patrimônio do servidor.
+Requer, ao final, o provimento do recurso, a fim de conceder a segurança "conforme pedido na inicial" (fl. 120).
+O Ministério Público Federal oficia pelo não conhecimento do recurso (fls. 130-134).
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Registre-se também que é possível ao Relator dar ou negar provimento ao recurso em decisão monocrática, nas hipóteses em que há jurisprudência dominante quanto ao tema, como autorizado pelo art. 34, XVIII, do RISTJ e pela Súmula 568/STJ.
+No caso dos autos, o objeto do mandado de segurança na origem visaassegurar o direito à conversão em pecúnia da licença sabática, prevista no artigo 33, VI e 35 da Lei Estadual n. 8.352/2002 - Estatuto do Magistério Público das Universidades do Estado da Bahia -não usufruída referente ao período de 19/02/2012 a 19/02/2019.
+O acórdão recorrido denegou a segurança, por ausência de prova pré-constituída. Confira-se
+Os documentos colacionados pelo impetrante não revelam o alegado , direito líquido e certo não restando demonstrado o suposto ato coator, até mesmo porque não foi comprovado o cumprimento dos requisitos condicionantes para concessão da multicitada , na licença sabática forma da lei que trata da matéria, inexistindo, assim, a possibilidade de conversão da mesma em pecúnia, conforme requerido.
+Registre-se, ainda, que a Lei 13.471/2015 extinguiu o direito à referida licença, não havendo de se computar qualquer período após a vigência da mesma.
+Na situação concreta, de que ora se cuida, indubitavelmente não assiste razão ao impetrante.
+Da análise da prova pré-constituída, não restou demonstrado o ato coator propriamente dito, impondo-se, desse modo, o indeferimento do pleito.
+Diante do exposto, rejeita-se a preliminar de impugnação à gratuidade da justiça e, no . mérito, denega-se a segurança
+Todavia, o recorrente em suas razões limita-se a sustenta, "na passagem para a inatividade, o servidor deve receber em pecúnia os benefícios que poderiam ser gozados na atividade".Assim, não houve impugnação específica aos fundamentos do acórdão que denegou a segurança.
+Com efeito, oprincípio da dialeticidade está previsto no art. 932, III, parte final, do CPC, segundo o qual incumbe ao relator não conhecer de recurso que  ..  "não tenha impugnado especificamente os fundamentos da decisão recorrida".
+Consoante jurisprudência desta Corte, "no recurso ordinário interposto contra acórdão denegatório de mandado de segurança também se impõe à parte recorrente o ônus de impugnar especificadamente os fundamentos adotados no acórdão, pena de não conhecimento por descumprimento da dialeticidade" (AgInt nos EDcl no RMS 29.098/MG, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe de 02/05/2017). No mesmo sentido:"A Súmula nº 283 do STF prestigia o princípio da dialeticidade, por isso não se limita ao recurso extraordinário, também incidindo, por analogia, no recurso ordinário, quando o interessado não impugna, especificamente, fundamento suficiente para a manutenção do acórdão recorrido" (AgRg no RMS 30.555/MG, Rel. Ministro Og Fernandes, Sexta Turma, DJe de 01/08/2012).
+Com idêntica temática dos autos, destaca-se também a seguinte decisão:RMS n. 67.293, Ministro Sérgio Kukina, DJe de 20/9/2021.
+Ante o exposto, não conheço do recurso em mandado de segurança.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO.SERVIDOR PÚBLICO. PROFESSOR ASSIS- TENTE APOSENTADO. CONVERSÃO EM PE- CÚNIA DA LICENÇA SABÁTICA NÃO USU- FRUÍDA EM ATIVIDADE, RELATIVA AO PERÍODO DE 19/02/2012 A 19/02/2019. ACÓRDÃO FUNDAMENTADO NA EXTINÇÃO DO DIREITO PELA LEI Nº 13.471/2015, NÃO SENDO POSSÍVEL COMPUTAR TEMPO POSTERIOR À SUA VIGÊNCIA. RAZÕES RECURSAIS QUE NÃO ATACAM FUNDAMENTO RELE- VANTE DO ACÓRDÃO RECORRIDO. OFENSA AO PRINCÍPIO DA DIALETICIDADE.INCIDÊNCIA DA SÚMULA 283/STF. PRECEDENTES. RECURSO NÃO CONHECIDO.
