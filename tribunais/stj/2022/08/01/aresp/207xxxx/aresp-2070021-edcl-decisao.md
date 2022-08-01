@@ -1,0 +1,13 @@
+DECISÃO
+Tratam-se de Embargos de Declaração opostos por Nutrition & Sante do Brasil Ltda, contra decisão por mim proferida, cuja ementa assim estabelece,in verbis:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL.OFENSA AOS ARTIGOS 489 E 1.022, AMBOS DO CPC/2015. NÃO CARACTERIZAÇÃO. CONTRIBUIÇÃO AO PIS E COFINS. DIREITO DE CREDITAMENTO. DESPESAS. ACÓRDÃO CUJA CONCLUSÃO DEPENDE DO EXAME DE PROVA PARA EVENTUAL ALTERAÇÃO. INADMISSIBILIDADE.SÚMULA 7/STJ. AGRAVO CONHECIDO PARA SE CONHECER PARCIALMENTE DO RECURSO ESPECIAL E NESSA EXTENSÃO NEGO-LHE PROVIMENTO.
+Nas razões dos aclaratórios, a recorrente alega existir omissão na decisão recorrida, na medida em que o entendimento exarado no Recurso Especial n.º 1.221.170/PR deve ser utilizado para embasar a presente prestação jurisdicional, sobretudo para conferir o creditamento da PIS/COFINS em relações a despesas que sejam imposições legais.
+Não houve a apresentação de impugnação aos aclaratórios.
+É o relatório. Passo a decidir.
+De acordo com o artigo 1.022 do CPC/2015, os embargos declaratórios sãocabíveis quando houver, na decisão judicial, obscuridade ou contradição, quando for omitido ponto sobre o qual deveria se pronunciar o juiz ou tribunal ou quando vislumbrada a existência de erro material.
+O decisum embargado contém fundamentação suficiente para demonstrar que as despesas relativas com a alimentação, segurança e vigilância, não foram enquadradas como insumos de modo a serem creditadas na apuração da PIS/CONFIS. Deste modo, derruir as conclusões do Tribunal de origem para se concluir em sentido oposto, requer inegável incursão no conjunto fático e probatório dos autos, o que é inviável, nos termos da Súmula 7/STJ.
+Desse modo, a questão foi apreciada de modo adequado, e o mero inconformismo com a conclusão do julgado não enseja a utilização da via de embargos de declaração, que é limitada às hipóteses elencadas no art. 1.022 do CPC/2015. Ademais, conforme entendimento pacífico desta Corte, "não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram.Assim, não havendo omissão, obscuridade, contradição ou erro material, merecem ser rejeitados os embargos de declaração opostos, sobretudo quando contêm elementos meramente impugnativos. Nesse sentido: EDcl no AgRg no Ag 1.218.989/SP, 2ª Turma, Rel. Min. Humberto Martins, DJe de 7.5.2010; EDcl no REsp 1.118.103/SP, 1ª Turma, Rel. Min. Teori Albino Zavascki, DJe de 20.4.2010.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. TRIBUTÁRIO. AUSÊNCIA DE OMISSÃO, OBSCURIDADE, CONTRADIÇÃO OU ERRO MATERIAL. EMBARGOS REJEITADOS.
