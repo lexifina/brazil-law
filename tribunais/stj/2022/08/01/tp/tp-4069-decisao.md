@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de pedido de tutela provisória formulado por SRM SERVICOS ADMINISTRATIVOS EIRELI, em que se pretende a atribuição de efeito suspensivo a recurso especial interposto na origem eque foi inadmitido pela instância a quo.
+Afirma que os julgados do Tribunal e da primeira instância, ao considerarem correta a rejeição da consignação e a falta de impugnação à insuficiência do depósito, resultaram em ofensa ao disposto noart.334 do Código Civil, sob o argumento de que constaria dosautos elementos que comprovariam que o valor depositado é suficiente, a título de consignação,para o fim almejado.
+Defenda a presença de risco de grave dano, decorrente do fato de que, após a conclusão do julgamento na origem, a Corte a quo teria exposto "o bem em risco da execução extrajudicial, fato que por si só, resvala em grande prejuízo a parte tendo em vista as pedidas coercitiva de desocupação do bem que podem ser adotadas, assim como, prejuízo a terceiros adquirentes de boa-fé" (e-STJ fl. 8).
+Pede a atribuição de efeito suspensivo ao agravo no recurso especial.
+É o relatório. Decido.
+O deferimento do pedido de urgência pressupõe a presença simultânea de dois requisitos autorizadores: o fumus boni iuris, caracterizado pela relevância jurídica dos argumentos apresentados, e o periculum in mora, consubstanciado na possibilidade de perecimento do bem jurídico objeto da pretensão resistida.
+Na espécie, não restou demonstrada, ao menos nesse juízo sumário, ínsito à análise de medidas urgentes no plantão judiciário, a caracterização do plausibilidade de êxito da pretensão.
+Com efeito, a partir das razões deduzidas pela parte, o recurso especial encontra óbice na Súmula n. 7/STJ, pois o aresto regional assim decidiu acerca do suposto pagamento efetuado na ação em trâmite na origem (e-STJ fls. 288-289):
+De outra parte, está suspenso o julgamento das ações que versam sobre a possibilidade de purgação da mora pelo devedor fiduciário após a consolidação da propriedade do imóvel pelo credor fiduciante, até a data da assinatura do auto de arrematação, em razão da determinação contida no IRDR Sob o tema 26 deste E. TJSP, devendo-se aguardar o trânsito em julgado.
+Não obstante, ainda que posteriormente superada essa questão em favor do devedor, o valor depositado pela autora foi considerado insuficientepela r. sentença e isso, por si só, é motivo bastante para a manutenção da improcedência do pedido inicial, vez que não impugnado nas razões recursais.
+Ademais, também não restou caracterizada a iminência de nenhum ato expropriatório ou outra constrição patrimonial de caráter irreversível ou de difícil reparação, a reclamar a atuação desta Presidência em período de plantão judiciário.
+Conforme afirmado pela parte, a decorrência do julgamento seria a suposta exposição do bem a risco de execução extrajudicial, fase procedimental que deve, nos termos do Código de Processo Civil, respeitar as fases e prazos a ela inerentes.
+Não caracterizados os requisitos autorizadores, não é caso de atuação desta Presidência, sobretudo na hipótese, em substituição ao Relator natural do feito.
+Ante o exposto, indefiro o pedido, sem prejuízo de ulterior deliberação pelo Ministro Relator.
+Publique-se. Intimem-se.
