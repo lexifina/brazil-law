@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor deVANESSA DA SILVAapontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO(Apelaçãon. 1500774-73.2018.8.26.0535).
+Depreende-se dos autos que a ré foi condenada à pena de 1 ano, 11 meses e 10 dias de reclusão, em regime inicial fechado, mais 194 dias-multa, pela prática do delito previsto no art. 33,caput, c.c o art. 40, III, ambos da Lei n. 11.343/2006.
+A defesa interpôs recurso de apelação perante a Corte de origem, a qual lhe negou provimento. Eis a ementa do acórdão (e-STJ fl. 107):
+APELAÇÃO CRIMINAL Tráfico de entorpecentes - penas e regime bem aplicados recurso da defesa não provido.
+A defesa opôs ainda embargos de declaração, os quais foram acolhidos apenas para "tornar sem efeito a determinação para que seja expedido mandado de prisão em face de Vanessa da Silva" (e-STJ fl. 116).
+Daí o presente writ, no qual sustenta a defesa que deveria ser oferecida à paciente o acordo de não persecução penal (ANPP), previsto no art. 28-A do Código de Processo Penal.
+Aduz, ainda, que o regime inicial deveria ser abrandado e a pena privativa de liberdade substituída por restritiva de direitos.
+Requer que seja determinado o retorno dos autos à origem para oferecimento do ANPP. Subsidiariamente, pede pela fixação do regime inicial aberto e substituição da pena privativa de liberdade por restritiva de direitos.
+Informações prestadas.
+O Ministério Público Federal manifestou-se pela denegação da ordem.
+É o relatório.
+Decido.
+Inicialmente, com relação ao pedido de oferecimento do ANPP, tem-se que tal pleito não foi feito perante as instâncias de origem, de modo queo debate diretamente por esta Corte superior incorreria em indevida supressão de instância.
+No tocante aos pedidos relacionados ao regime inicial e à substituição da pena privativa de liberdade por restritiva de direitos, tem-se que a Corte de origem manteve o modo inicial fechado e negou a conversão destacando que (e-STJ fls. 108/110):
+Apela a defesa apenas quanto apenas quanto ao regime prisional e a possibilidade de substituição da pena privativa de liberdade por restritiva de direitos.
+As penas foram fixadas, na r. sentença, em montante adequado para a reprovação e prevenção do crime cometido pela apelante, nos termos do artigo 42 da Lei nº 11.343/06, não merecendo reparo em seu quantum.
+A pena-base foi fixada acima do mínimo legal corretamente considerando a natureza da droga apreendida.
+Na segunda fase, com o reconhecimento da atenuante relativa a confissão, a pena voltou ao patamar mínimo legal.
+Na terceira fase, presente a causa de aumento prevista no inciso III, do art. 40 da lei 11.343/06, correto o aumento de 1/6.
+Ainda na terceira fase, pelo § 4º do art. 33 da Lei n. 11.343/06 a pena foi reduzida em 2/3.
+Assim, não há nenhuma modificação a ser feita na dosimetria da pena.
+Por fim, o regime inicial fechado também deve ser mantido, ante a gravidade e nocividade concreta daconduta e também evidenciada pela natureza da droga apreendida, com fundamento no § 3º do artigo 33 do Código Penal, sendo inviável substituir a pena privativa de liberdade por restritivas de direitos.
+Não há, pois, como acolher as teses defensivas, motivo pelo qual é mantida a sentença recorrida por seus próprios e jurídicos fundamentos, conforme previsão no art.252, do Regimento Interno deste Egrégio Tribunal de Justiça.
+Assim sendo, nega-se provimento ao recurso defensivo, mantendo-se a r. sentença em seus integrais termos.
+Conforme observa-se, o Tribunal de origem apresentou fundamento concreto para justificar a escolha do regime inicial mais gravoso e a negativa de substituição da pena privativa de liberdade por restritiva de direitos, qual seja, a existência de circunstância judicial desfavorável, tendo em vista que a reprimenda básica foi fixada acima do mínimo legal pela natureza do entorpecente apreendido (cocaína).
+Contudo, constata-se ilegalidade flagrante ensejadora de concessão dehabeas corpusde ofício, porquanto, ainda que tenha sido apreendida droga de natureza nefasta, a quantidade encontrada -16g (dezesseis gramas), não justifica o incremento.
+Nesse sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DE ADMISSIBILIDADE. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS. SÚMULA 182 DO STJ. AGRAVO NÃO CONHECIDO. PENA-BASE ACIMA DO MÍNIMO LEGAL. NATUREZA DAS DROGAS. PEQUENA QUANTIDADE. FLAGRANTE ILEGALIDADE. CONCESSÃO DE HABEAS CORPUS DE OFÍCIO.
+ ..
+4. Na hipótese, observa-se que a pena-base foi majorada em 2 anos de reclusão, tendo como fundamento a quantidade e a natureza das drogas apreendidas (7,20 g de maconha, 3,60 g de LSD, 5,20 g de cocaína e 4,50 g de "ecstasy"). Todavia, não sendo significativo o quantum de entorpecente e tendo em vista a análise favorável das demais circunstâncias judiciais, não se mostra adequado o aumento operado pela instância ordinária.
+5. Agravo regimental não conhecido. Concessão de habeas corpus, de ofício, para fixar a pena-base em seu mínimo legal, redimensionando a pena do recorrente para 5 anos de reclusão, no regime inicial semiaberto, e pagamento de 500 dias-multa, mantidos os demais termos da condenação.(AgRg no AREsp n. 2.021.971/MS, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 7/6/2022, DJe de 14/6/2022.)
+Dessa forma, a reprimenda básica deve ser reduzida ao mínimo legal, qual seja, 5 anos de reclusão, e multa. Na segunda fase da dosimetria, não obstante o reconhecimento da atenuante da confissão espontânea, a reprimenda permanece inalterada pela aplicação da Súmula n. 231/STJ. Por fim, aumenta-se em 1/6 pela causa de aumento do art. 40, III, da Lei de Drogas, e reduz-se em 2/3 pela minorante prevista no art. 33, § 4º, do mesmo diploma legal, restando a reprimenda final em 1 ano, 11 meses e 10 dias de reclusão, e multa.
+Por fim, reduzida a pena-base ao mínimo legal, de rigor a alteração do regime inicial para o aberto e a substituição da pena privativa de liberdade por restritiva de direitos, ante o preenchimento dos requisitos legais previstos nos arts. 33 e parágrafos e 44, ambos do Código Penal.
+Nesse sentido:
+HABEAS CORPUS. TRÁFICO DE DROGAS. MINORANTE PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006. FRAÇÃO DO REDUTOR. AUSÊNCIA DE FUNDAMENTAÇÃO CONCRETA. REGIME INICIAL ABERTO E SUBSTITUIÇÃO DA PENA. POSSIBILIDADE. ORDEM CONCEDIDA.
+ ..
+5. Uma vez que o paciente era tecnicamente primário ao tempo do delito, teve a pena-base fixada no mínimo legal, foi condenado a reprimenda inferior a 4 anos de reclusão e foi agraciado com a minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006 - a qual visa, justamente, a beneficiar o "traficante ocasional" -, o regime aberto é o que se mostra o mais adequado para a prevenção e a repressão do delito perpetrado, nos termos do art. 33, § 2º, "c", e § 3º, do Código Penal, com observância também ao disposto no art. 42 da Lei n. 11.343/2006. A favorabilidade de todas essas circunstâncias também evidencia que a substituição da pena se mostra, no caso, medida socialmente recomendável, nos termos do art. 44, III, do Código Penal.
+6. Ordem concedida para: a) aplicar em 2/3 a causa especial de diminuição prevista no § 4º do art. 33 da Lei n. 11.343/2006 e, por conseguinte, reduzir a reprimenda do paciente para 1 ano e 8 meses de reclusão e pagamento de 166 dias-multa; b) fixar o regime aberto; c) determinar a substituição da pena privativa de liberdade por restritiva de direitos.(HC n. 387.244/SP, relator Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 7/3/2017, DJe 14/3/2017.)
+HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. CONDENAÇÃO. CAUSA ESPECIAL DE DIMINUIÇÃO. QUANTUM DE INCIDÊNCIA. AUSÊNCIA DE FUNDAMENTAÇÃO IDÔNEA. ILEGALIDADE. OCORRÊNCIA. REGIME INICIAL ABERTO. SUBSTITUIÇÃO DA PENA. POSSIBILIDADE. NÃO CONHECIMENTO. CONCESSÃO, DE OFÍCIO.
+ ..
+2. Fixada a pena-base no mínimo legal, ante a ausência de motivos para a sua exasperação, e aplicada a causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei n.º 11.343/06 em patamar máximo, sendo a reprimenda final 1 ano e 8 meses de reclusão, é possível o estabelecimento do regime inicial aberto e a substituição da pena privativa de liberdade por restritivas de direitos, a teor do disposto no art. 33, § 2º, c, e 44 e incisos, ambos do Código Penal.
+3. Writ não conhecido. Ordem concedida, de ofício, a fim de reduzir a pena do paciente para 1 ano e 8 meses de reclusão e 166 dias-multa, bem como fixar o regime inicial aberto, possibilitando, ainda, a substituição da pena privativa de liberdade por restritivas de direitos, a serem fixadas pelo Juízo das Execuções.(HC n. 373.561/RS, relatora Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, DJe 10/2/2017.)
+À vista de tais pressupostos, conheço em parte dohabeas corpuse, nessa extensão,concedo a ordem para reduzir a pena-base ao mínimo legal, sem alteraçãona pena final,fixar o regime inicial aberto de cumprimento de pena e determinar a substituição da sanção privativa de liberdade por duas medidas restritivas de direitos, a serem estipuladas pelo Juízo da Execução Penal.
+Publique-se. Intimem-se.
