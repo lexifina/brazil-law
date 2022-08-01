@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de agravo interno interposto contra decisão da Presidência do Superior Tribunal de Justiça, que não conheceu do agravo em recurso especial, mediante os seguintes fundamentos (fls. 1053-1054):
+Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: ausência de afronta ao art. 1.022 do CPC, ausência de afronta a dispositivo legal, Súmula 7/STJ e ausência de similitude fática.
+Entretanto, a parte agravante deixou de impugnar especificamente: ausência de afronta ao art. 1.022 do CPC.
+Nos termos do art. 932, inciso III, do CPC e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, não admitiu o recurso especial. A propósito:
+ ..
+Ressalte-se que, em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182 do STJ.
+Ante o exposto, com base no art. 21-E, inciso V, c/c o art. 253, parágrafo único, inciso I, ambos do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+A parte agravante sustenta, em síntese,não há porque falar em ausência de impugnação específica do fundamento referente ao art. 1.022 do Código de Processo Civil, visto que "o agravo não conhecido, em sua essência, trata da nulidade do acórdão e da própria decisão de indeferimento, ambos por terem violado o artigo 1022, uma vez que não foi enfrentada a matéria efetivamente posta para julgamento em apelação, como também o indeferimento pelo tribunal a quo deu-se por razões genéricas, o que não é admitido pela lei processual em vigor" (fl. 1063).
+Quanto ao mérito, sustenta que "o venerando acórdão deixou de apontar os critérios para acatar a compensação de comissões pagas a maior, diante do conteúdo da apelação",visto que (fl. 971):
+(i) os Recorridos não foram parte na transação, o que faz incidir a regra do artigo 844 do CC. Logo, não poderiam compensar o que não lhes pertencia, pois as comissões foram ajustadas com a empresa e não com eles e pela transação quitaram-se contas expressamente nominadas em anexos contratuais;
+(ii) não há a menor referência, nos fundamentos do julgado, baseada em fatos ou no próprio direito, à luz do artigo 843 do CC, sobre as razões pelas quais presumiu-se que as quitações de comissões a maior não se realizaram entre as empresas e permanecem em aberto, a serem aproveitadas pelos Recorridos.
+A parte agravada apresentou impugnação.
+Assim delimitada a controvérsia, passo a decidir.
+Inicialmente, verifico que os fundamentos da decisão que não admitiu o recurso especial foram efetivamente impugnados pela agravante, especificamente, no tocante àausência de omissão no acórdão recorrido, motivo pelo qual reconsidero a decisão agravada e passo à nova análise do agravo em recurso especial.
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (fl. 933):
+AÇÃO MONITÓRIA - Antecipações de participação financeira na venda futura de lotes - Embargos monitóriosjulgados parcialmente procedentes - Nulidade da sentença não reconhecida - Prova pericial apontando o crédito da embargada em menor extensão do que pretendido na ação monitória -Inconvincente a Impugnação apresentada pela credora embargada - Apelação não provida.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, a agravante aponta violação dos arts. 10, 489, § 1º, incisos II e IV, e 1.022, parágrafo único, inciso II,do Código de Processo Civil; e dos arts. 843 e 844 do Código Civil; além de divergência jurisprudencial.
+Alega, preliminarmente, "aausência de fundamentação, tanto no acórdão que julgou a apelação, como no sequente que rejeitou os embargos de declaração, quanto à matéria apontada como decisão-surpresa, como também relativa à extensão dos efeitos de transação em face de terceiros que dela não participaram" (fl. 973).
+Quanto ao mérito, a recorrente sustenta as teses jurídicas abaixo descritas, formulando os seguintes pedidos(fl. 972):
+a) A anulação do processo para que a parte ré pudesse provar o fato extintivo do direito do autor, sobrevindo sentença, confirmada por acórdão, que acolheu parcialmente pretensão de cobrança do mútuo, pois o autor não teria provado a existência do total da obrigação, o que alterou a direção da lide, em razão do advento de evidentes decisões-surpresa, em manifesta afronta ao artigo 10 do Código de Processo Civil;
+b) O acolhimento da tese de que o acordo entre empresas extinguiu parte do débito entre empresa e pessoa física, estranha à transação, com violação aos artigos 843 e 844 do Código Civil;
+Contrarrazões apresentadas.
+Presentes os pressupostos de admissibilidade e ultrapassado o limite do conhecimento do presente agravo, verifico que este não merece provimento.
+Anoto, preliminarmente, que a causa foi decidida de modo fundamentado, pois o Tribunal de origem enfrentou coerentemente as questões postas a julgamento, no que foi pertinente e necessário, explicitando motivação concreta e suficiente para o deslinde da controvérsia, razão pela qual o julgado não merece reparo algum.
+Com efeito, nos termos da pacífica jurisprudência desta Corte Superior, não se exige do julgador a análise de todos os argumentos apresentados pelas partes, a fim de expressar o seu convencimento. Na espécie, o pronunciamento acerca dos fatos controvertidos, a que o magistrado está obrigado, encontra-se objetivamente fixado nas razões do acórdão recorrido, motivo pelo qual rejeito a alegação de ofensa ao art. 1.022 do Código de Processo Civil.
+Exemplificativamente:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. ART. 1.022 DO CPC. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE, ERRO MATERIAL. AUSÊNCIA.
+1. Os embargos de declaração, conforme dispõe o art. 1.022 do CPC, destinam-se a suprir omissão, afastar obscuridade, eliminar contradição ou corrigir erro material existente no julgado, o que não ocorre na hipótese em apreço.
+ ..
+3. O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida.
+4. Embargos de declaração rejeitados.
+(EDcl no AgRg nos EREsp 1.483.155/BA, Rel. Ministro OG FERNANDES, CORTE ESPECIAL, julgado em 15/06/2016, DJe 03/08/2016).
+Ademais, verifico que o Tribunal de origem, ao decidir a controvérsia, amparou seu entendimento em cláusulas contratuais e circunstâncias fático-probatórias inerentes à causa, exarando os seguintes fundamentos (fls. 936-939):
+Pois bem, a preliminar de nulidade da sentença não comporta acolhimento, pois a perícia, corretamente, se pautou na apuração daquilo que foi determinado no venerando acórdão, em função do qual foi anulada a primeira sentença, em face do reconhecimento do cerceamento dadefesa dos aqui apelados.
+O apontamento de trás cenários possíveis para o desate da lide pela perita teve como propósito auxiliar o juiz na decisão final, sem implicar avanço na função jurisdicional, até porque cabe ao julgador definir qual a solução adequada ao caso.
+A insistência da apelante neste ponto não merece guarida, quer porque a perícia atendeu satisfatoriamente a tarefa que lhe foi cometida, quer porque a questão controvertida, sobre ter existido mútuo ou antecipação de receita na venda dos lotes, foi dirimida com inequívoca precisão na r. sentença, merecendo ser endossada aqui a conclusão de que de mútuo não se cuidou, masde antecipação da receita pela venda dos lotes.
+Veja-se que um dos motivos da anulação da primeira sentença se deu pelo fato da contabilidade do negócio tendo por objeto o loteamento era de responsabilidade da apelante, fato agravado pela morte de RAPHAEL CHACUR. Bem por isso, não há cogitar de que os apelados não impugnaram os recibos apresentados como representativos do crédito da apelante, licito concluir que todo o crédito foi objeto da impugnação, realçando-se que, na óptica dos apelados, nada era devido, pois já havia sido pago com a venda dos lotes.
+Nada, de resto, do que foi alegado nas razões de apelação, infirma a conclusão adotada na r. sentença, solução a ser confirmada neste julgamento pelos seus próprios e bem deduzidos fundamentos, os quais ficam inteiramente adotados como razão de decidir pelo não provimento do recurso, nos termos do disposto do artigo 252, do Regimento Interno deste Egrégio Tribunal de Justiça. Confira-se:
+ ..
+A análise da controvérsia entre as partes e a conclusão pericial adotada na sentença é de todo coerente com a tese deduzida nos embargos, no sentido de que não se cuidou de mútuo, mas de antecipação da participação da receita pela venda dos lotes, aliás, como constou dos recibos confeccionados pela apelante, bem assim que parte do crédito reclamado já havia sido paga pela diferença de comissões descontadas acima de 6%, como demonstrado no anexo 1, do laudo, em conta o ajustado no contrato firmado entre as empresas.
+Dal porque o apelo não merece provimento.
+A desconstituição de tais premissas, portanto, a fim de alterar a conclusão adotada no acórdão recorrido, tal como pretende a parte recorrente, demandaria, inevitavelmente, reinterpretação de cláusulas contratuais e reexame de fatos e provas, ponderações que encontram óbice nos enunciados das Súmulas 5 e 7 do STJ.
+Exemplificativamente:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. DECISÃO DE ADMISSIBILIDADE. ACÓRDÃO EM HARMONIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. SÚMULA 83 DO STJ. REINTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E REEXAME DE FATOS E PROVAS. INVIABILIDADE. SÚMULAS 5 E 7 DO STJ.
+ ..
+2. Inviável, em recurso especial, a reinterpretação de cláusulas contratuais e o reexame de matéria fático-probatória. Incidência das Súmulas 5 e 7 do Superior Tribunal de Justiça.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.732.668/DF, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 27/09/2021, DJe 30/09/2021.)
+Outrossim, os óbices das Súmulas 5 e 7 do STJ impedem, por semelhantes motivos, a análise da apontada divergência jurisprudencial.
+Em face do exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observando-se os limites previstos nos §§ 2º e 3º do referido dispositivo legal.
+Intimem-se.
