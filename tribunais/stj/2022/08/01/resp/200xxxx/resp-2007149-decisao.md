@@ -1,0 +1,43 @@
+DECISÃO
+Cuida-se de recurso especial interposto por SERENA REDDIN e GUSTAVO REDDIN, com fundamento nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do TRF da 4ª Região.
+Recurso especial interposto em:17/11/2021.
+Concluso ao gabinete em:14/03/2022.
+Ação: civil pública nº 2003.72.00.004511-8 ajuizada pelo Instituto Pró-Justiça Tributária (PROJUST) em face da Caixa Econômica Federal (CEF).
+Cumprimento de sentença: individual proposto pelosora recorrentesem face da Caixa Econômica Federal (CEF) para a cobrança de crédito fundamentado em título executivo judicial fruto da ação civil pública nº 2003.72.00.004511-8/SC, que tramitou perante a 2ª Vara Federal de Florianópolis.
+Sentença: extinguiu o cumprimento de sentença por reconhecer a existência de litispendência com o cumprimento de sentença nº 5022941-44.2014.4.04.7201, fundado na sentença proferida na ação civil pública nº 2003.72.01.002068-4.
+Acórdão: negou provimento à apelação interposta pelosrecorrentes, nos termos da seguinte ementa:
+ADMINISTRATIVO. PROCESSO CIVIL. CUMPRIMENTO DE SENTENÇA. AÇÃO CIVIL PÚBLICA. POUPANÇA. DIFERENÇAS DE REAJUSTES DOSDEPÓSITOS. COISA JULGADA MATERIAL. EXTINÇÃO DO FEITO SEMJULGAMENTO DO MÉRITO. LITISPENDÊNCIA.
+1. Tendo em vista da execução do título formado na ACP nº2003.72.00.002068-4 nos autos do Cumprimento de Sentença Nº 5022941-44.2014.4.04.7201/SC, e havendo naquele processo sentença extintiva da execução ante o pagamento do débito, resta configurada a coisa julgada impeditiva de nova execução de diferenças pendentes na ACP nº2003.72.00.004511-8, inclusive quanto aos juros remuneratórios.
+2. Ademais, verificada a identidade de partes, pedido e causa de pedir, é de se determinar a extinção da ação ajuizada mais recentemente, por litispendência, a fim de evitar a prolação de sentenças contraditórias, conforme precedentes da Terceira e Quarta Turmas.
+Embargos de declaração: opostos pelosrecorrentes, foram rejeitados.
+Recurso especial: alega ofensa ao art. 5º, XXXVI, da CF, ao art. 502, do CPC/2015 e aos arts. 103, § 2º e 104 do CDC, ao argumento de que é lícito aos poupadores que já obtiveram em título judicial coletivo o direito aos expurgos inflacionários, pleitearem, na execução de outro título judicial coletivo, apenas os juros remuneratórios não contemplados no primeiro.
+Decisão de admissibilidade: o Tribunal de origem não admitiu o recurso especial, ensejando a interposição do recurso cabível, o qual foi reautuado para melhor exame da matéria.
+É o relatório. Decide-se.
+Os recorrentes promoveramo cumprimento individual de sentença nº 5022941-44.2014.4.04.7201 fundado no título executivo judicial coletivo formado na ação civil pública nº 2003.72.01.002068-4 ajuizada pelo Instituto Brasileiro de Defesa do Cidadão (IBDCI) para a cobrança de expurgos inflacionários. E que tramitou perante a 2ª Vara Federal de Joinville/SC.
+Nesta ação, por sua vez, pretendem os recorrentes a execução de outra sentença coletiva, agora exarada na ação civil pública nº 2003.72.00.004511-8, ajuizada pelo Instituto Pró-Justiça Tributária (PROJUST) e que tramitou perante a 2ª Vara Federal de Florianópolis/SC, visando à cobrança, única e exclusivamente, dos juros remuneratórios que não haviam sido incluídos no primeiro título executivo.
+O juízo de primeiro grau e o Tribunal de origem, todavia, reconheceram a existência de litispendência entre a presente demanda e a ação nº 5023919-21.2014.4.04.7201, extinguindo o processo sem resolução do mérito.
+Tal entendimento, todavia, está em dissonância com a orientação consolidada no âmbito da Segunda Seção desta Corte, segundo a qual o beneficiário de expurgos inflacionários pode promover cumprimento individual de nova sentença coletiva apenas para a cobrança dos juros remuneratórios não contemplados no anterior título executivo judicial coletivo já executado pelo mesmo beneficiário.
+Nesse sentido, confiram-se os seguintes precedentes:
+PROCESSO CIVIL. RECURSO ESPECIAL. AÇÕES CIVIS PÚBLICAS PROPOSTAS POR ASSOCIAÇÕES DISTINTAS. EXPURGOS INFLACIONÁRIOS. CUMPRIMENTO INDIVIDUAL DE SENTENÇA. JUROS REMUNERATÓRIOS NÃO ABRANGIDOS EM SENTENÇA COLETIVA ANTERIOR. COISA JULGADA MATERIAL. INEXISTÊNCIA. EFEITOS PRECLUSIVOS DA COISA JULGADA NO ÂMBITO DE DEMANDA COLETIVA. REGRAMENTO DIVERSO. RECURSO ESPECIAL PROVIDO.
+1.No caso em análise, o credor de expurgos inflacionários relativos aos Planos Bresser e Verão, após ajuizar o cumprimento individual da sentença proferida na ACP n. 2003.72.01.002068-4, propôs nova execução, lastreada em sentença coletiva diversa (ACP n. 2003.72.00.004511-8-SC), visando exclusivamente à percepção dos juros remuneratórios não contemplados na primeira ação, por ausência de pedido expresso - fato incontroverso nos autos.
+2.Segundo tese repetitiva firmada no âmbito desta Corte, o reconhecimento dos juros remuneratórios decorrentes de expurgos inflacionários depende de pedido expresso, somente podendo ser objeto de liquidação ou execução individual quando previstos no respectivo título judicial (REsp n. 1.391.198/RS, de minha relatoria, Segunda Seção, julgado em 13/08/2014, DJe 02/09/2014).
+3.Tendo em vista o regime próprio das ações coletivas envolvendo direitos individuais homogêneos, sobressai na hipótese que a ausência de pedido em relação aos juros remuneratórios não conduz à proibição do manejo da execução individual para a cobrança exclusiva da referida verba.
+4.Diante da regra da res iudicata secundum eventum litis, não há como se afirmar que o trânsito em julgado da primeira ação civil pública - cuja execução individual estava adstrita aos exatos termos do título judicial nesta formado - tenha o condão de espraiar os efeitos preclusivos da coisa julgada em relação a pedido não deduzido, não se podendo concluir pela formação de "coisas julgadas conflitantes" conforme consignado pelas instâncias ordinárias.
+5. Recurso Especial conhecido e provido.
+(REsp n. 1.934.637/SC, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 8/6/2021, DJe de 1/7/2021.)  g.n.
+RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÕES CIVIS PÚBLICAS. EXPURGOS INFLACIONÁRIOS. JUROS REMUNERATÓRIOS NÃO PREVISTOS EM SENTEÇA COLETIVA ANTERIOR. CUMPRIMENTO INDIVIDUAL DE SENTENÇA. POSSIBILIDADE. COISA JULGADA. INEXISTÊNCIA.
+1- Recurso especial interposto em 31/8/2020 e concluso ao gabinete em 14/4/2021.
+2- O propósito recursal consiste em dizer se o beneficiário de expurgos inflacionários pode promover cumprimento individual de nova sentença coletiva apenas para a cobrança dos juros remuneratórios não contemplados no anterior título executivo judicial coletivo já executado pelo mesmo beneficiário.
+3- A Segunda Seção desta Corte Superior fixou o entendimento de que, na execução individual de sentença proferida em ação civil pública que reconhece o direito de poupadores aos expurgos inflacionários, descabe a inclusão de juros remuneratórios nos cálculos de liquidação, se inexistir condenação expressa.
+4- Na hipótese dos autos, é incontroverso que, na ação civil pública ajuizada pelo IBDCI, objeto do primeiro cumprimento individual de sentença, não houve pedido expresso de pagamento de juros remuneratórios, o que só ocorreu na ação coletiva ajuizada pelo PROJUST.
+5- No regime próprio das demandas coletivas envolvendo direitos individuais homogêneos, é lícito aos poupadores promoverem cumprimento individual de sentença coletiva apenas para a cobrança dos juros remuneratórios, ainda que já executado anterior título executivo formado em ação civil pública diversa referente a expurgos inflacionários coincidentes, mas que não contemplava os referidos juros.
+6- Recurso especial provido.
+(REsp n. 1.932.243/RS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 5/10/2021, DJe de 8/10/2021.)  g.n.
+Desse modo, impõe-se o acolhimento da irresignação.
+Forte nessas razões, CONHEÇO do recurso especial e DOU-LHE PROVIMENTO, para que seja dado prosseguimento ao cumprimento de sentença.
+Previno as partes que a interposição de recurso contra esta decisão, declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º e 1.026, § 2º do CPC/2015.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL.CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA.AÇÕES CIVIS PÚBLICAS. JUROS REMUNERATÓRIOS NÃO ABRANGIDOS EM SENTENÇA COLETIVA ANTERIOR. LITISPENDÊNCIA. INEXISTÊNCIA.
+1.O beneficiário de expurgos inflacionários pode promover cumprimento individual de nova sentença coletiva apenas para a cobrança dos juros remuneratórios não contemplados no anterior título executivo judicial coletivo já executado pelo mesmo beneficiário. Precedentes.
+2. Recurso especial conhecido e provido.
