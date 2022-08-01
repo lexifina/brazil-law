@@ -1,0 +1,23 @@
+DECISÃO
+Maria dos Santos Andrade e outros ajuizaram ação em desfavor da Sul América Companhia Nacional de Seguros Gerais S/A, perante o Juízo de Direito da 1ª Vara Cível da Comarca de Umuarama/PR, buscando a condenação da parte ré apagar indenização securitária, em virtude de supostos vícios verificados em imóveis cuja aquisição fora financiada.
+Em petição apresentada na Justiça Estadual, a Caixa Econômica Federal manifestou interesse jurídico quanto às pretensões dos autores cujos contratos estão vinculados à apólices públicas.
+O Juízo de primeira instância reconheceu a legitimidade passiva da CEF, fixando a competência da Justiça Federal para o julgamento da lide.
+O Tribunal Regional Federal da 4ª Região manteve a decisão, nos termos assim ementados:
+AGRAVO. DECISÃO MONOCRÁTICA. SFH. SEGURO. FCVS. APÓLICE PÚBLICA. 1. Nas ações envolvendo seguro de mútuo habitacional no âmbito do Sistema Financeiro da Habitacional - SFH, a Caixa Econômica Federal - CEF - detém interessejurídico para ingressar na lide nas hipóteses em que o instrumento estiver vinculado ao Fundo de Compensação de Variações Salariais - FCVS (apólices públicas, ramo 66).
+Maria dos Santos Andrade e outros interpuseram recurso especial, com fundamento no art. 105, III, a, da Constituição Federal, apontando, além de dissídio jurisprudencial, a violação do art. 50 do CPC/1973, sustentando, em resumo, que não há óbice ao reconhecimento da incompetência da Justiça Federal a qualquer tempo, dada a inexistência de interesse da Caixa Econômica Federal em demandas que discutem a apólice do Ramo 66.
+Foram apresentadas contrarrazões e o Tribunal de origem negou seguimento ao recurso especial.
+Posteriormente, adveio a notícia de que o Juízo Federal de primeira instância reconheceu a ilegitimidade ativa da parte autora (José Xavier Moreno, Maria de Lourdes Milan Valerio, Mariados Santos Andrade, Marili Eudoxia Ometo de Oliveira, Mario Feles dos Santos e Neusa Vieira Marques) (fls. 1.418-1.423).
+Os autos foram devolvidos para análise do recurso como agravo interno pelo Tribunal de origem, que veio a inadmitir o recurso especial, em razão da superveniência da sentença no processo principal.
+É o relatório. Decido.
+Considerando que a parte agravante impugnou a fundamentação apresentada na decisão agravada, e atendidos os demais pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Como relatado, houve a superveniência de sentença (cópia a fls. 1.418-1.423), decidindo integralmente a controvérsia relacionada com a legitimidade passiva da Caixa Econômica Federal e, por conseguinte, a competência federal.
+Assim, está prejudicado o recurso especial interposto contra acórdão que examinou agravo de instrumento, diante da prolação de sentença de mérito no processo principal.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. SFH. COBERTURASECURITÁRIA. APÓLICE PÚBLICA. COMPETÊNCIA. JUSTIÇA FEDERAL. SUPERVENIÊNCIA DA SENTENÇA NA AÇÃO PRINCIPAL COM TRÂNSITOEM JULGADO. PERDA DE OBJETO DO RECURSO ESPECIAL.
+I - Na origem, trata-se de agravo de instrumento interposto contra decisão que reconheceu a competência absoluta da Justiça Federal para julgar o feito. No Tribunal a quo a decisão foi mantida.
+II - A superveniência da sentença, proferida no feito principal, enseja a perda de objeto de recursos anteriores que versem sobre questões resolvidas por decisão interlocutória combatida via agravo de instrumento.
+III - O acórdão recorrido foi prolatado em agravo de instrumento, nos autos de ação relativa à discussão acerca de reparação de danos em imóvel financiado pelo Sistema Financeiro da Habitação, nos quais foi determinada a remessa ao Juízo federal em razão do interesse da CEF.
+IV - Conforme se extrai-se no decisum, em consulta ao sítio oficial do Tribunal a quo, confirma-se a informação de que a ação originária já teve desfecho de mérito, proferida em 10/8/2018, julgando improcedente a ação, decisão modificada em via recursal, extinguindo-se o feito sem resolução de mérito, em razão de o contrato de financiamento em discussão já ter sido encerrado. Nesse sentido: AgInt no REsp n. 1.712.508/SP, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 20/5/2019, DJe 22/5/2019 e EDcl no AgInt no AREsp n. 1.344.445/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 4/6/2019, DJe 10/6/2019.
+V - Agravo interno improvido. (AgInt no REsp 1632216/RS, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 19/8/2021).
+Ante o exposto, com fundamento no art. 34, XI, do RISTJ, julgo prejudicado o presente recurso, em razão da perda superveniente de seu objeto.
+Publique-se. Intimem-se.
