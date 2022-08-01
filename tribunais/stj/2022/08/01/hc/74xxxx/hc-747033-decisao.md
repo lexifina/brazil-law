@@ -1,0 +1,65 @@
+DECISÃO
+Trata-se de habeas corpus sempedido de liminarimpetrado em favor de WARMSTRONG IBIAPINA CRUZem que se aponta como autoridade coatora o Tribunal de Justiça doDistrito Federal e dos Territórios (Agravo em Execução n. 0706966-97.2022.8.07.0000).
+O Juízo das execuções indeferiu o pleito de remição pelo estudo adistância, formulado pelo sentenciado.
+Interposto agravo em execução pela defesa, o Tribunal de origem negou provimento ao recurso em acórdão assim ementado (fl. 14):
+RECURSO DE AGRAVO. EXECUÇÃO PENAL. REMIÇÃO DE PENA PELO ESTUDO. REALIZAÇÃO DE CURSO À DISTÂNCIA EM INSTITUIÇÃO DE ENSINO NÃO CREDENCIADA PELA ADMINISTRAÇÃO PENITENCIÁRIA. AUSÊNCIA DE PRÉVIA AUTORIZAÇÃO JUDICIAL PARA REALIZAÇÃO DO CURSO EM INSTITUIÇÃO EDUCACIONAL SEM CREDENCIAMENTO. NÃO ACOLHIMENTO. PORTARIA Nº 010/2016 - VEP/DF. EXIGÊNCIA DE PRÉVIA AUTORIZAÇÃO JUDICIAL. RECURSO CONHECIDO E NÃO PROVIDO.
+1. A realização de curso à distância ofertado por instituição de ensino sem credenciamento junto à Administração Penitenciária somente servirá para remição de pena se houver autorização prévia da Vara de Execuções Penais, ouvido o Ministério Público.
+2. Não se verifica qualquer ilegalidade na exigência de credenciamento junto à Administração Penitenciária da instituição de ensino que oferecerá cursos à distância aos reeducandos ou de autorização judicial prévia caso o apenado pretenda fazer curso em instituição não credenciada, uma vez que tais providências buscam possibilitar a fiscalização pelo sistema penitenciário.
+3. Recurso conhecido e não provido para manter a decisão que deixou de determinar a remessa dos autos ao estabelecimento prisional para elaboração de certidão de dias remidos pelo estudo.
+Alega a defesa que a remição pelo estudo a distância tem fundamento no art. 126, § 2º, da Lei de Execuções Penaise é admitidapela Recomendação CNJ n. 44/2013como estímulo aoprocesso de ressocialização.
+Defende que os requisitos estabelecidos na Portaria VEP/DF n. 10/2016extrapolam os limites legais, enfatizando o seguinte (fl. 6):
+O§ 2º do art. 126 da LEP prevê claramente que as atividades de estudo a que se refere o §1º do mesmo artigo poderão ser desenvolvidas de forma presencial ou por metodologia de ensino a distância e deverão ser certificadas pelas autoridades educacionais competentes dos cursos frequentados.
+Cita que, naResolução CNJn. 391/2021, não há exigência deprévia autorização pelo juízo da execução, tampouco de realização de avaliações presenciais acompanhadas de servidor do estabelecimento prisional.
+Sustenta que a conclusão do curso e sua carga horária foram certificadas pela autoridade educacional competente dos cursos frequentados.
+Requer a concessão da ordem para que seja declarada aremiçãode pena em decorrência da realização de estudos a distância do curso de bacharelado em engenharia civil.
+As informações foram prestadas às fls. 640-653 e 654-660.
+O Ministério Público Federal manifestou-se pelo não conhecimento do writ (fls. 665-671).
+É o relatório. Decido.
+Ainda que inadequada a impetração de habeas corpus em substituição à revisão criminal ou ao recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o Superior Tribunal de Justiça considera passível de correção de ofício o flagrante constrangimento ilegal.
+Não se constata a existência de flagrante constrangimento ilegal que autorize a atuação ex officio.
+É direito do apenado a remição de penas pelo estudo, desde que as atividades, que poderão ser desenvolvidas de forma presencial ou a distância, sejam certificadas pelas autoridades educacionais competentes dos cursos frequentados, conforme os requisitos previstos na Recomendação CNJ n. 44/2013.
+Exige-se tambéma fiscalização e autenticação do cumprimento dos requisitos pelo estabelecimento em que estiver custodiado o reeducando, que deverá encaminhar "mensalmente ao juízo da execução cópia do registro de todos os condenados que estejam trabalhando ou estudando, com informação dos dias de trabalho ou das horas de frequência escolar ou de atividades de ensino de cada um deles" (art. 129da LEP).
+Acerca da questão, inclusive citando a decisão recorrida, oTribunal de origem a manteve,adotando os seguintes fundamentos (fls. 16-19):
+De início, é de se registrar a relevância da prestação educacional, por qualquer de suas modalidades, para que o cumprimento da pena alcance a sua finalidade.
+Consta da Lei nº 7.210/1984 a possibilidade de remição da pena por intermédio do estudo, seja realizado na modalidade presencial, seja por metodologia virtual, senão vejamos:
+ ..
+Nesse contexto, para o fim de esclarecer o modo como deve se dar o estudo pelos internos do sistema penitenciário, o Juízo da Vara de Execuções Penais do Distrito Federal expediu a Portaria nº 010/2016 - VEP/DF, cujo conteúdo pretende regulamentar "as modalidades de remição de pena pelas atividades de ensino presencial, pela realização de cursos a distância e pela leitura de obras literárias no âmbito do sistema penitenciário do Distrito Federal".
+E, no bojo da aludida Portaria, fica estabelecido o modo de oferta dos cursos profissionalizantes em meio não presencial. Extrai-se do artigo 6º da Portaria nº 010/2016 - VEP/DF:
+"Art. 6º. A instituição de ensino interessada em oferecer cursos na modalidade de educação a distância aos reeducandos dos estabelecimentos prisionais do Distrito Federal deverá realizar credenciamento junto à SESIPE.
+§1º. Ao requerer o credenciamento, a instituição deverá manifestar ciência quanto ao teor da presente Portaria.
+§2º. Após o credenciamento, a instituição deverá remeter à Vara de Execuções Penais relação contendo o nome e a carga horária dos cursos que pretende oferecer.
+§3º. A realização de curso a distância oferecido por instituição não credenciada nos termos do caput deste artigo somente surtirá efeitos para fins de remição mediante prévia autorização da Vara de Execuções Penais, ouvido o Ministério Público.
+§4º. Somente poderão ser aproveitados para fins de remição os cursos na modalidade a distância realizados no interior do estabelecimento prisional relacionados no Anexo I da presente Portaria.
+§5º. A relação dos cursos mencionada no parágrafo anterior poderá ser alterada pela Vara de Execuções Penais mediante requerimento da parte interessada." (grifei)
+Veja-se, pois, que, ao contrário do quanto alegado pela Defesa, a catalogação de cursos a distância passíveis de oferta obedece a um procedimento administrativo específico, em que a parte interessada - leia-se, a instituição de ensino credenciada junto à SESIPE - informa a relação de cursos que pretende oferecer.
+A esse respeito, assim se manifestou o Juízo da Vara de Execuções Penais (ID 33278555 - Pág. 506):
+ ..  Deixo de determinar a remessa dos autos ao estabelecimento prisional para elaboração de certidão de dias remidos pelo estudo, conforme pedido de Mov. 355.1, visto que não consta dos autos a necessária autorização judicial para o exercício da atividade, visto que se trata de pessoa em cumprimento de pena  .. "
+Registre-se que o artigo 126 da Lei de Execuções Penais somente prevê a possibilidade de remição da pena,por trabalho ou estudo, aos apenados que se encontram em regime carcerário fechado ou semiaberto. Confira-se:
+ ..
+Disso resulta que o usufruto da benesse referente ao estudo externo é uma concessão judicial para aqueles que cumprem reprimenda, de forma que deverá passar pela supervisão judicial, não podendo o sentenciado praticar livremente quaisquer atividades como se livre fosse.
+E mais, tratando-se de cursos a serem realizados no curso da execução penal, é de ser mantida a decisão do Juízo a quo no sentido de que deve haver a prévia autorização em procedimento próprio, vez que os cursos devem visar não apenas configurar um mero benefício dentro do Processo de Execução, mas também alcançar os objetivos pedagógicos e educacionais inerentes aos objetivos previstos na Lei de Execução Penal, de modo que, no curso do procedimento administrativo próprio, avalia-se também a necessidade e a conveniência dos cursos para os fins da execução da pena, em relação a toda a massa carcerária e não apenas ao agravante.
+Logo, demonstrada, nos termos da Portaria nº 010/2016 - VEP/DF, a necessidade de procedimento próprio, de iniciativa da instituição de ensino credenciada junto ao SESIPE, para o oferecimento de cursos no âmbito do sistema prisional, não cabe a este Tribunal determinar cursos a serem oferecidos e nem mesmo que se dê início ao procedimento da inclusão de novos cursos, de modo que acertada está a decisão que negou o pedido de remessa ao estabelecimento prisional para elaboração de certidão de dias remidos pelo estudo.
+Indo além, a decisão está em harmonia com a jurisprudência desta Corte:
+ ..
+Nesse contexto, consoante critérios de razoabilidade, não se verifica qualquer ilegalidade na exigência de credenciamento junto à Administração Penitenciária da instituição de ensino que oferecerá cursos à distância aos reeducandos ou de autorização judicial prévia caso o apenado pretenda fazer curso em instituição não credenciada, uma vez que tais providências buscam possibilitar a fiscalização pelo sistema penitenciário.
+Diante do exposto, conheço do recurso e nego-lhe provimento para manter a decisão que deixou de determinar a remessa dos autos ao estabelecimento prisional para elaboração de certidão de dias remidos pelo estudo.
+Vê-se, assim, que as instâncias ordinárias, soberanas na análise dos fatos e das provas dos autos, concluíram que o paciente não demonstrarao cumprimento dos requisitos exigidos para fazer jus à remição.
+Para alterar o entendimento das instâncias ordináriasnos moldes em que pleiteia o impetrante, seria imprescindível adentrar o conjunto fático-probatório dos autos, procedimento incompatível com a estreita via do habeas corpus.
+A propósito, confiram-se os seguintes julgados:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. REMIÇÃO POR ESTUDO A DISTÂNCIA. REQUISITOS NÃO PREENCHIDOS. FALTA DE CONTROLE SOBRE AS HORAS EFETIVAMENTE ESTUDADAS. AGRAVO DESPROVIDO.
+1. Não sendo aptos os argumentos trazidos na insurgência para desconstituir a decisão agravada, deve ela ser mantida pelos seus próprios fundamentos.
+2. A orientação jurisprudencial desta Corte é no sentido de que a realização de estudo na modalidade à distância, para fins de remição da pena, deve atender a critérios mínimos, inclusive convênio prévio entre a unidade prisional e o poder público, a fim de demonstrar a sua sintonia e adequação aos propósitos da Lei de Execução Penal, sendo indispensável, ainda, a supervisão pela Unidade Prisional, o acompanhamento pelo Juiz da execução e a fiscalização pelo Ministério Público. Precedentes.
+3. No caso, o executado não jus ao deferimento do pedido de remição por estudo, uma vez que ausente qualquer validação por parte de Autoridade Educacional, bem como controle ou fiscalização realizada pela Autoridade Penitenciária.
+4. Agravo regimental desprovido.(AgRg no HC n. 739.518/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 14/6/2022.)
+HABEAS CORPUS. EXECUÇÃO PENAL. REMIÇÃO PELO ESTUDO. EXIGÊNCIA LEGAL DE QUE A INSTITUIÇÃO MINISTRANTE SEJA CONVENIADA COM O PODER PÚBLICO. ORDEM DENEGADA.
+1. Na hipótese, o Paciente postula a remição por estudo, apresentando certificados de cursos realizados na modalidade de ensino à distância.
+2. Nos termos do art. 126, § 2.º, da Lei de Execução Penal, a remição de pena pelo estudo somente é possível quando o curso for oferecido por instituição devidamente autorizada ou conveniada com o Poder Público para esse fim, o que não ocorreu espécie.
+3. Ordem denegada.(HC n. 724.388/SP, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 31/5/2022.)
+EXECUÇÃO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. REMIÇÃO PELO ESTUDO. INVIABILIDADE. CURSO PROFISSIONALIZANTE À DISTÂNCIA. CERTIFICADO COM DADOS INSUFICIENTES. CARGA HORÁRIA TOTAL. AUSÊNCIA DE ILEGALIDADE MANIFESTA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A decisão agravada deve ser mantida por seus próprios fundamentos.
+2. A defesa não se desincumbiu de demonstrar a carga horária de efetivo estudo realizado pelo executado, a forma como os cursos foram ministrados e o método de avaliação, de forma que não restaram atendidos os requisitos legais para concessão do benefício. Cabe destacar, ainda, que a desconstituição das conclusões das instâncias ordinárias depende do exame aprofundado do conjunto fático-probatório, providencia incompatível com os estreitos limites da via eleita. Precedentes.
+3. Agravo regimental desprovido.(AgRg no HC n. 722.145/SC, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 4/4/2022.)
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do presente habeas corpus.  Contudo, recomendoao Juízo da execução penal que avalie a possibilidade de conversão do pedido inicial de remição por estudo adistância em remição por leitura.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
