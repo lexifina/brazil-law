@@ -1,0 +1,73 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "a", da Constituição da República) interposto contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região cuja ementa é a seguinte:
+PREVIDENCIÁRIO. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. REAFIRMAÇÃO DA DER. POSSIBILIDADE. TEMA 995/STJ. CONCESSÃO. IMPLANTAÇÃO DO BENEFÍCIO.
+É garantido ao segurado o direito à concessão do benefício de aposentadoria por tempo de contribuição, computando-se período após a DER e ao próprio ajuizamento da ação (tema 995 do STJ), a contar da data da DER reafirmada.
+Determinada a imediata implantação do benefício, valendo-se da tutela específica da obrigação de fazer prevista no artigo 461 do código de processo civil de 1973, bem como nos artigos 497, 536 e parágrafos e 537, do Código de Processo Civil de 2015, independentemente de requerimento expresso por parte do segurado ou beneficiário.
+Os Embargos de Declaração não foram providos.
+O recorrente aponta ofensa, em preliminar, ao art. 1.022 do CPC/2015; no mérito, aos arts. 240 do CPC/2015 e 49, I, "b", e II, e 54 da Lei 8.213/1991.
+A parte aduz:
+Trata-se de de pedido de reafirmação da DER para o momento em que o segurado implementou os requisitos para concessão do benefício, antes do ajuizamento da ação judicial.
+No caso dos autos foi fixada a data de início do benefício (termo inicial dos efeitos financeiros) na data da implementação dos requisitos (ocorrida antes do ajuizamento da ação).
+Todavia, somente após a citação o INSS teve ciência da pretensão do segurado para reafirmação da DER, eis que na data da conclusão do processo administrativo, de fato, ele não preenchia os requisitos para concessão da aposentadoria.
+Assim, nos termos do art. 240 do CPC,o INSS somente foi constituído em mora a partir da citação, razão pela qual deve ser fixado nesta data o termo inicial do benefício do segurado:
+(..)
+Tal afirmação também encontra supedâneo na Lei de Benefícios que prevê expressamente que o benefício é devido a partir da data do requerimento do benefício (art. 49, I, "b" e II e art. 54). Infere-se que não havendo requerimento o ato judicial que comunica o INSS da pretensão do segurado fará as vezes do ato para fins de incidência da norma e perfectibilização do direito, fixando nele o termo inicial do benefício.
+Contrarrazões não apresentadas.
+É o relatório.
+Decido.
+Os autos ingressaram neste Gabinete em 18.7.2022.
+No enfrentamento da matéria, o Tribunal a quo consignou:
+(..)
+Com efeito, a implementação dos requisitos para recebimento do benefício após a entrada do requerimento administrativo pode ser considerada como fato superveniente, nos termos do artigo 493 do Código de Processo Civil de 2015:
+(..)
+De fato, se ainda não implementadas as condições suficientes para a concessão do benefício na data do requerimento administrativo, inexiste óbice para considerar-se a satisfação dos requisitos por esta Corte, por imperativo da economia processual, desde que observado o necessário contraditório.
+Como visto, a r. sentença reconheceu em favor da parte autora 32 anos, 06 meses e 18 dias de tempo de contribuição até a DER, em 05.06.2014.
+Todavia, consoante elemento probatório existente nos autos (evento 1, CNIS5, fl. 06), corroborado por consulta ao site do Cadastro Nacional de Informações Sociais - CNIS, verifica-se que o autor laborou como empregado na empresa Usina Alto Alegre S/A Açúcar e Álcool de 03.06.2014 ao menos até 30.07.2018.
+(..)
+Outrossim, sendo necessário o cômputo de tempo de serviço posterior ao ajuizamento da ação, incide a tese representativa da controvérsia fixada pelo disposto no Tema 995, considerando-se o decidido pelo Superior Tribunal de Justiça nos REsp 1.727.063, REsp 1.727.064 e REsp 1.727.069, Rel. Min. Mauro Campbell Marques, Dj 02.12.2019:
+(..)
+Por conseguinte, considerado o comprovado tempo de serviço exercido após a DER de 03.06.2014 a 14.11.2016, alcança a parte autora 35 anos, 00 meses e 00 dias de tempo de contribuição, fazendo jus à concessão do benefício de aposentadoria por tempo de contribuição integral, ajustada a DER para a data de 14.11.2016.
+Ademais, como mencionado, cabe ao INSS, para fins de dar o correto cumprimento à decisão judicial, aplicar o art. 690 da Instrução Normativa nº 77/2015 do Instituto Nacional do Seguro Social, devendo ser concedido o benefício de aposentadoria por tempo de contribuição integral, ajustada a DER para 14.11.2016.
+Portanto, em 14/11/2016 (reafirmação da DER), a parte autora tinha direito à aposentadoria integral por tempo de contribuição (CF/88, art. 201, § 7º, inc. I, com redação dada pela EC 20/98).
+De plano, afasto a apontada violação do art. 1.022 do CPC/2015, pois não se constata omissão, obscuridade, contradição ou erro material nos acórdãos recorridos capazes de torná-los nulos, especialmente porque a Corte Regional apreciou a demanda de forma clara e precisa, deixando bem delineados os motivos e fundamentos que a embasaram.
+Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução. Não se pode confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+No mais, a questão de direito submetida a julgamento atrela-se ao conteúdo decisório do Recurso Especial Repetitivo 1.727.063/SP - Tema 995/STJ, notadamente quanto ao termo inicial nas hipóteses para reafirmação da DER.
+Confira-se:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. RECURSO ESPECIAL REPETITIVO. ENUNCIADO ADMINISTRATIVO 3/STJ. REAFIRMAÇÃO DA DER (DATA DE ENTRADA DO REQUERIMENTO). CABIMENTO. RECURSO ESPECIAL PROVIDO.
+1. O comando do artigo 493 do CPC/2015 autoriza a compreensão de que a autoridade judicial deve resolver a lide conforme o estado em que ela se encontra. Consiste em um dever do julgador considerar o fato superveniente que interfira na relação jurídica e que contenha um liame com a causa de pedir.
+2. O fato superveniente a ser considerado pelo julgador deve guardar pertinência com a causa de pedir e pedido constantes na petição inicial, não servindo de fundamento para alterar os limites da demanda fixados após a estabilização da relação jurídico-processual.
+3. A reafirmação da DER (data de entrada do requerimento administrativo), objeto do presente recurso, é um fenômeno típico do direito previdenciário e também do direito processual civil previdenciário. Ocorre quando se reconhece o benefício por fato superveniente ao requerimento, fixando-se a data de início do benefício para o momento do adimplemento dos requisitos legais do benefício previdenciário.
+4. Tese representativa da controvérsia fixada nos seguintes termos: É possível a reafirmação da DER (Data de Entrada do Requerimento) para o momento em que implementados os requisitos para a concessão do benefício, mesmo que isso se dê no interstício entre o ajuizamento da ação e a entrega da prestação jurisdicional nas instâncias ordinárias, nos termos dos arts. 493 e 933 do CPC/2015, observada a causa de pedir.
+5. No tocante aos honorários de advogado sucumbenciais, descabe sua fixação, quando o INSS reconhecer a procedência do pedido à luz do fato novo.
+6. Recurso especial conhecido e provido, para anular o acórdão proferido em embargos de declaração, determinando ao Tribunal a quo um novo julgamento do recurso, admitindo-se a reafirmação da DER. Julgamento submetido ao rito dos recursos especiais repetitivos.
+(REsp 1.727.063/SP, Rel. Min. MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, DJe 2/12/2019)
+Contra esse decisumopuseram-se Embargos de Declaração, que foram acolhidos para esclarecer que, "quanto aos valores retroativos, não se pode considerar razoável o pagamento de parcelas pretéritas, pois o direito é reconhecido no curso do processo, após o ajuizamento da ação, devendo ser fixado o termo inicial do benefício pela decisão que reconhecer o direito, na data em que preenchidos os requisitos para concessão do benefício, em diante, sem pagamento de valores pretéritos".
+A propósito, cito a ementa dos aclaratórios:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL REPETITIVO. ENUNCIADO ADMINISTRATIVO 3/STJ. REAFIRMAÇÃO DA DER (DATA DE ENTRADA DO REQUERIMENTO). CABIMENTO. RECURSO ESPECIAL PROVIDO. EMBARGOS DE DECLARAÇÃO ACOLHIDOS, SEM EFEITO MODIFICATIVO.
+1. Embargos de declaração opostos pelo INSS, em que aponta obscuridade e contradição quanto ao termo inicial do benefício reconhecido após reafirmada a data de entrada do requerimento.
+2. É possível a reafirmação da DER (Data de Entrada do Requerimento) para o momento em que implementados os requisitos para a concessão do benefício, mesmo que isso se dê no interstício entre o ajuizamento da ação e a entrega da prestação jurisdicional nas instâncias ordinárias, nos termos dos arts. 493 e 933 do CPC/2015, observada a causa de pedir.
+3. Conforme delimitado no acórdão embargado, quanto aos valores retroativos, não se pode considerar razoável o pagamento de parcelas pretéritas, pois o direito é reconhecido no curso do processo, após o ajuizamento da ação, devendo ser fixado o termo inicial do benefício pela decisão que reconhecer o direito, na data em que preenchidos os requisitos para concessão do benefício, em diante, sem pagamento de valores pretéritos.
+4. O prévio requerimento administrativo já foi tema decidido pelo Supremo Tribunal Federal, julgamento do RE 641.240/MG. Assim, mister o prévio requerimento administrativo, para posterior ajuizamento da ação, nas hipóteses ali delimitadas, o que não corresponde à tese sustentada de que a reafirmação da DER implica na burla do novel requerimento.
+5. Quanto à mora, é sabido que a execução contra o INSS possui dois tipos de obrigações: a primeira consiste na implantação do benefício, a segunda, no pagamento de parcelas vencidas a serem liquidadas e quitadas pela via do precatório ou do RPV. No caso de o INSS não efetivar a implantação do benefício, primeira obrigação oriunda de sua condenação, no prazo razoável de até quarenta e cinco dias, surgirão, a partir daí, parcelas vencidas oriundas de sua mora. Nessa hipótese deve haver a fixação dos juros, embutidos no requisitório de pequeno valor.
+6. Quanto à obscuridade apontada, referente ao momento processual oportuno para se reafirmar a DER, afirma-se que o julgamento do recurso de apelação pode ser convertido em diligência para o fim de produção da prova.
+7. Embargos de declaração acolhidos, sem efeito modificativo.
+(EDcl no REsp 1.727.063/SP, Rel. Min. MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, DJe 21/5/2020).
+Verifica-se que a reafirmação da DER foi admitida em momento anterior ao ajuizamento da Ação, eo termo inicial do benefício foi estabelecido a partir de quando implementados os requisitos para a sua concessão. Desse modo, não há que se falar em falta de interesse do segurado para postular a aludida reafirmação.
+Contudo, assiste razão ao INSS quando postula a fixação do termo inicial na data da citação, visto que a instância origináriaaplicou a reafirmação da DER diante do preenchimento dos requisitos em período posterior ao indeferimento administrativo e anterior ao ajuizamento da presente Ação, em desacordo com a orientação da Primeira Seçãono julgamento dos EDcl nos EDcl no REsp 1.727.063/SP, DJe 4/9/2020.
+Veja-se:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL REPETITIVO. ENUNCIADO ADMINISTRATIVO 3/STJ. REAFIRMAÇÃO DA DER (DATA DE ENTRADA DO REQUERIMENTO). CABIMENTO. RECURSO ESPECIAL PROVIDO. PRIMEIROS EMBARGOS DE DECLARAÇÃO ACOLHIDOS, SEM EFEITO MODIFICATIVO. SEGUNDOS EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. É possível a reafirmação da DER (Data de Entrada do Requerimento) para o momento em que implementados os requisitos para a concessão do benefício, mesmo que isso se dê no interstício entre o ajuizamento da ação e a entrega da prestação jurisdicional nas instâncias ordinárias, nos termos dos arts. 493 e 933 do CPC/2015, observada a causa de pedir. Tese firmada em recurso especial repetitivo.
+2. A assertiva de que não são devidas parcelas anteriores ao ajuizamento da ação reforça o entendimento firmado de que o termo inicial para pagamento do benefício corresponde ao momento processual em que reconhecidos os requisitos do benefício. Se preenchidos os requisitos antes do ajuizamento da ação, não ocorrerá a reafirmação da DER, fenômeno que instrumentaliza o processo previdenciário de modo a garantir sua duração razoável, tratando-se de prestação jurisdicional de natureza fundamental.
+3. Tema referente ao surgimento da mora devidamente esclarecido no acórdão embargado.
+4. Embargos de declaração de Antonio Carlos Bressam rejeitados.
+(EDcl nos EDcl no REsp 1.727.063/SP, Rel. Min. MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, DJe 4/9/2020)
+Com a mesma orientação:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. APOSENTADORIA ESPECIAL. CÔMPUTO DE TEMPO ESPECIAL. REAFIRMAÇÃO DA DER. EFEITOS FINANCEIROS. AGRAVO INTERNO NÃO PROVIDO.
+1. Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo 3/STJ, o qual dispõe in verbis: aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. No caso de reafirmação da DER para momento anterior ao ajuizamento da ação, não há que se falar em pagamento de valores retroativos ao ajuizamento da ação.
+3. Agravo interno não provido.
+(AgInt no REsp 1.865.542/PR, Rel. Min. MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 11/12/2020)
+Nesse sentido, recentes decisões monocráticas: REsp 2.009.914/RS, Rel. Ministro Herman Benjamin, DJe 1º.7.2022; REsp 2.004.126/SC, Rel. Ministro Herman Benjamin, DJe 28/06/2022; REsp 1.995.730/RS, Rel. Ministro Herman Benjamin, DJe 13.6.2022; REsp 1.996.604/RS, Rel. Ministro Sérgio Kukina, DJe 22.6.2022; REsp 2.004.293/RS, Rel. Ministro Francisco Falcão, DJe 21.6.2022; REsp 1.994.798/RS, Rel. Ministro Francisco Falcão, DJe 28.6.2022; REsp 2.001.789/RS, Rel. Ministro Mauro Campbell Marques, DJe 13.6.2022; REsp 1.980.167/RS, Rel. Ministro Gurgel de Faria, DJe 3.3.2022; REsp 1.981.701/RS, Rel. Ministro Herman Benjamin, DJe de 22.2.2022; e AgInt no REsp 1.973.941/RS, Rel. Ministro Sérgio Kukina, DJ de 17.3.2022.
+Ante o exposto, dou parcial provimento ao Recurso Especiala fim de estabelecer a data de citação do INSS como termo inicial dos efeitos financeiros do benefício concedido.
+Publique-se.
+Intimem-se.
