@@ -1,0 +1,30 @@
+DECISÃO
+Vistos, etc.
+Trata-se de conflito de competência em que figuram, comosuscitante, oJuízo Federal da 20ª Vara Cível de Belo Horizonte - SJ/MG,e, como suscitado,o Juízo de Direito da 35ª Vara Cível de Belo Horizonte, relativamente aojulgamento de cumprimento de sentença proposto por Antônio Carlos Louredo contra RFFSA - Rede Ferroviária Federal S/A, sucedida pela União.
+OJuízo estadual declinou da competência ao argumento de que aRede Ferroviária Federal, sociedade de economia mista integrante daAdministração Indireta Federal, foi oficialmente extinta por força da MPn. 353, de 22 de janeiro de 2007, convertida na Lei federal n. 11.483, de31 de maio de 2007. Sendo a União ré/executada na presente ação,atraída está a competência da Justiça Federal, nos termos do art. 109, I, caput, da Constituição Federal.
+O Juízo federal, por sua vez, suscitou o presente conflito de competência.
+O Ministério Público Federal manifestou-se pela competência do Juízofederal.
+É o relatório.
+De acordo com o art. 109, I, da Carta Magna:
+Art. 109. Aos juízes federais compete processar e julgar:
+I - as causas em que a União, entidade autárquica ou empresa públicafederal forem interessadas na condição de autoras, rés, assistentes ouoponentes, exceto as de falência, as de acidentes de trabalho e assujeitas à Justiça Eleitoral e à Justiça do Trabalho.
+Esta Corte firmou o entendimento de que cabe à Justiça Federal processar ejulgar os feitos que tenham como parte a extinta RFFSA, conforme dispõe aSúmula n. 365/STJ: "A intervenção da União como sucessora da Rede Ferroviária Federal S/A(RFFSA) desloca a competência para a Justiça Federalainda que a sentençatenha sido proferida por Juízo estadual.".
+Nesse sentido:
+CONFLITO NEGATIVO DE COMPETÊNCIA. REVISÃO DE BENEFÍCIOPREVIDENCIÁRIO.REDE FERROVIÁRIA FEDERAL. RFFSA. JUSTIÇA ESTADUAL E FEDERAL. COMPETÊNCIADA JUSTIÇA FEDERAL EM DECORRÊNCIA DA SUCESSÃO DA EMPRESA ESTATAL PELAUNIÃO. SÚMULA 365/STJ.
+1. A Primeira Seção desta Corte consolidou entendimento no sentido de quea competência da Justiça Federal tem como critério definidor, em regra, anatureza das pessoas envolvidas no processo, diante da sucessão legal daRFFSA pela UNIÃO, inarredável o deslocamento da competência para a JustiçaFederal.
+2. Incide, à espécie, a Súmula 365/STJ: A intervenção da União comosucessora da Rede Ferroviária federal S/A (RFFSA) desloca a competênciapara a Justiça Federal ainda que a sentença tenha sido proferida por JuízoEstadual.
+3. Conflito de Competência conhecido para declararcompetente a JustiçaFederal.
+(CC n. 162.863/RS, relator Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRASEÇÃO, julgado em 13/2/2019, DJe de 20/2/2019).
+PROCESSUAL CIVIL. CONFLITO NEGATIVO DE COMPETÊNCIA.INGRESSO DA UNIÃO NOPOLO ATIVO DA LIDE, COMO SUCESSORA DA EXTINTA REDE FERROVIÁRIA FEDERALS/A. COMPETÊNCIA RATIONAE PERSONAE. ART. 109, I, DA CF/88. COMPETÊNCIAABSOLUTA DO JUÍZO FEDERAL. INCIDÊNCIA DA SÚMULA 365/STJ. PRECEDENTES.
+I. Cuida-se de Ação Reivindicatória, inicialmente proposta pela FazendaPública do Estado de São Paulo contra Palestra Futebol Clube, que teriapor objeto terreno estadual, anteriormente desapropriado de particular esupostamente esbulhado pelo réu.
+II. Ingressando no feito, como autora, a Ferrovia Paulista S/A - FEPASA,incorporada pela extinta RFFSA, que foi sucedida pela União, consoante odisposto no art. 2º da Lei 11.483, de 31/05/2007, a competência paraprocessar e julgar o feito é da Justiça Federal, a teor do art. 109, I, daCF/88.
+III. No enfrentamento entre a competência funcional, prevista no art.575, II, do Código de Processo Civil, e a competência rationae personae,consubstanciada no art. 109, I, da Constituição Federal, prevalece aestabelecida em sede constitucional, de natureza absoluta. Precedentes doSTJ.
+IV. Conforme a jurisprudência, "o ingresso da União no feito, na qualidadede sucessora da RFFS A - Rede Ferroviária Federal S/A, desloca acompetência para a Justiça Federal, nos termos do art. 109, I, da,Constituição Federal (súmula 365/STJ). No confronto da competênciafuncional estabelecida pelo art. 575, II, do Código de Processo Civil, quedetermina a competência do juízo prolator da decisão em primeiro grau dejurisdição para a execução de seus julgados, e a competência rationepersonae da Justiça Federal, prevista no art. 109, I, da ConstituiçãoFederal, deve prevalecer esta última, pois inserida em normahierarquicamente superior" (STJ, EDcl no CC 83.326/SP, Rel. Ministra MARIATHEREZA DE ASSIS MOURA, TERCEIRA SEÇÃO, DJe de 04/06/2010).
+No mesmo sentido: STJ, CC 33.111/RJ, Rel. Ministro SÁLVIO DE FIGUEIREDOTEIXEIRA, SEGUNDA SEÇÃO, DJU de 23/06/2003.
+V. Incide, ainda, na espécie, o enunciado da Súmula 365 do SuperiorTribunal de Justiça: "A intervenção da União como sucessora da RedeFerroviária Federal S/A (RFFSA) desloca a competênciapara a JustiçaFederal ainda que a sentença tenha sido proferida por Juízo estadual".
+VI. Conflito conhecido, para declarar competente o Juízo Federal da 4ª
+Vara de São José do Rio Preto/SP, o suscitante.
+(CC n. 129.766/SP, relatora Ministra ASSUSETE MAGALHÃES, PRIMEIRA SEÇÃO,julgado em 11/6/2014, DJe de 20/6/2014).
+Em idêntica direção, destaco, ainda, os seguintes pronunciamentosmonocráticos de integrantes da Primeira Seção desta Corte Superior: Conflito de Competêncian.175.444, relator MinistroFrancisco Falcão, DJe de 8/10/2021; Conflito de Competência n.178.915, relatora MinistraRegina Helena Costa, DJe de 11/6/2021;Conflito de Competência n.178.441, relator Ministro Manoel Erhardt, DJe de 9/4/2021; Conflito de Competência n. 175.753e Conflito de Competência n. 175.741, relatora Ministra Assusete Magalhães, DJe de 28/10/2020;Conflito de Competência n. 175.734; Conflito de Competêncian. 175.731, relator Ministro Francisco Falcão, DJe de28/10/2020; Conflito de Competência n. 175.441; e Conflito de Competência n. 175.347, relator Ministro Gurgel deFaria, DJe de 20/10/2020.
+Ante o exposto, conheço do conflito para declarar a competência do Juízo Federal da 20ª Vara Cível de Belo Horizonte - SJ/MG.
+Publique-se. Intimem-se.
