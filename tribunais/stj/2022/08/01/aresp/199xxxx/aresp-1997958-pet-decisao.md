@@ -1,0 +1,7 @@
+DECISÃO
+A Requerente, às fls. 602-674, informa que "por força de sentença proferida nestes autos, havia sido precariamente nomeada e empossada, culminando no Decreto nº 40.779, de 09 de junho de 2015 (anexo). Posteriormente, nos autos de outra demanda (ação civil pública nº 0054761-06.2007.8.02.0001), a mesma foi beneficiada por decisão transitada em julgado para que sua nomeação se desse em caráter definitivo.A nomeação foi efetivada por meio do Decreto nº 82.317, de 31 de março de 2022". "Sendo assim, o fato constitutivo do direito da agravante em questão implicou na perda superveniente do objeto da ação, na medida em que não há mais utilidade na obtenção do provimento judicial ora vindicado" (fls. 603-604).
+Afirma, ainda, que "pelo princípio da causalidade, deve o agravado ser compelido ao pagamento dos honorários advocatícios sucumbenciais e nas custas processuais, na medida em que deu causa injustamente ao ajuizamento da ação, incidindo à hipótese dos autos o comando normativo prescrito no art. 85, § 10º do CPC" (fl. 604).
+Requer, assim, a extinção do processo,por perda superveniente de seu objeto (CPC, artigo485, VI, do CPC/2015),condenando-se o agravado ao pagamento das custas processuais e honorários de sucumbência.
+É o relatório.
+Conforme requerido, julgo extinto o feito, sem julgamento de mérito, com fundamento no artigo 34, XI, do RISTJ, invertendo-se os ônus sucumbenciais fixados na origem, em desfavor do agravado, em atenção ao princípio da causalidade.
+Publique-se. Intimem-se.
