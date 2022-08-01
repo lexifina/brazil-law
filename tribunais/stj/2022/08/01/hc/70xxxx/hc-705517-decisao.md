@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de KLEBERLANDES GOMES DA SILVA, contra acórdão doTribunal de Justiça do Espírito Santoque negou provimento à apelação defensiva e manteve acondenaçãonos termos da seguinte ementa (fl. 2.666):
+APELAÇÃO CRIMINAL. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O TRÁFICO. ABSOLVIÇÃO. IMPOSSIBILIDADE. DOSIMETRIA. PENA-BASE NO MÍNIMO LEGAL. IMPOSSIBILIDADE. CAUSA DE DIMINUIÇÃO DO ART. 33, §4 0 DA LEI 11.343/2006. NÃO INCIDÊNCIA. RECURSOS IMPROVIDOS. 1. Não há que se falar em ausência de provas, quando o lastro probatório se mostrou suficiente a ensejar uma condenação. 2. Incabível a fixação da pena-base no mínimo legal, quando há circunstâncias judicias desfavoráveis, bem como pela natureza e quantidade da droga apreendida, nos termos do art. 59 do CP e art. 42 da Lei 11.343/2006. 3. Incabível o reconhecimento da causa de diminuição do art. 33, §4 0 da Lei 11.343/2006, eis que diante da condenação dos acusados pela prática do crime de associação para o tráfico de drogas, resta evidente a dedicação dos mesmos às atividades criminosas. Recursos improvidos.
+Inadmitido o recurso especial, a condenação transitou em julgado.
+Neste writ, a defesa insiste na nulidade das interceptaçõestelefônicas, pois teriamextrapoladoo limite de15 dias previstos em lei, bem como que os períodos em questão estariam descobertos de autorização judicial.
+Assevera que "as renovações realizadas em 16/08/2016, 04/10/2016 e 08/11/2016 são extemporâneas,intempestivas, donde deveriam vir na forma de novo pedido de interceptação, o que não foi feito, sendo requeridas apenas a renovação, sem devidafundamentação" (fl. 6).
+Defende que "a interceptação telefônica utilizadacomo base para a condenação  .. se torna nula a partir do vício da renovação de 28/07/2016" (fl. 10).
+Requer a concessão da ordem para se "declararviolado o artigo 5º da Lei de interceptação telefônica, com consequente aplicação do artigo 564 do Código de Processo Penal, declarando -se  nula por derivação a prova mencionada, a contar da data de 28/07/2016, o que inclui a interceptação utilizada como base de condenação  .. ,declarando a mesma nula"(fl. 14).
+É o relatório. Decido.
+Em consulta ao sistema processual do TJES, constata-se que a Ação Penal n. 0000892-74.2018.8.08.0002 játransitou em julgado.
+É cediço que o STJ não admite a impetração de habeas corpus comosucedâneo de revisão criminal, salvo se configurada flagrante ilegalidade a ensejar a concessão da ordem de ofício (HC n. 467.004/RS, Ministro Ribeiro Dantas, Quinta Turma, DJe 22/11/2018).
+Ainda que superado esse óbice, não se verifica de plano ilegalidade flagrante ou teratologiaque justifique a concessão da ordem de ofício.
+Conforme o art. 5º da Lei n. 9.296/1996, o afastamento do sigilo das comunicações telefônicas, garantido pelo art. 5º, XII, da Constituição Federal, "não poderá exceder o prazo de quinze dias, renovável por igual tempo uma vez comprovada a indispensabilidade do meio de prova".
+Não há dúvida deque eventual equívoco na contagem do prazo de 15 dias acarreta a ilicitude das provas obtidas no período que extrapole os limites da decisão judicial, nos termos do art. 157 do CPP, porém não é o que se verifica na espécie.
+No caso, ao rejeitar a alegação de nulidade das interceptações telefônicas, consignou o Tribunal de origem (fl. 2.670, destaquei):
+ ..
+Sustenta que as escutas que ocorreram no lapso temporal suso mencionado são ilegais, na medida em que extrapolam o limite de quinze dias, sendo realizadas, portanto, sem decisão judicial autorizativa. Portanto, pugna a decretação de nulidade de tais interceptações.
+Verifico, contudo, que a defesa tem por marco inicial da contagem do prazo quinzenal a data em que foi prolatada decisão autorizativa.
+No entanto, conforme jurisprudência pacifica do Superior Tribunal de Justiça, o prazo de quinze dias estabelecido pela Lei 9.296/1996 tem início no primeiro dia de cumprimento da medida.  ..
+Desta maneira, em que pese os esforços da defesa, não se verifica na hipótese a extrapolação do prazo visto em lei.
+Vê-se que o entendimento assentado pelo Tribunal antecedente está em harmonia com aorientação do STJdeque os 15 dias contam-se da efetiva implementação da medida. Nesse sentido:
+O prazo de quinze dias de validade das interceptações telefônicas previsto no art. 5º da Lei n.9.296/1996 conta-se a partir da primeira interceptação efetivamente realizada, e não da data dodecisumautorizativo (Precedentes). (HC n. 422.198/RJ, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 3/12/2018.)
+RECURSO EMHABEAS CORPUS. HOMICÍDIO QUALIFICADO. TRANCAMENTO DA AÇÃO PENAL. FALTA DE JUSTA CAUSA. INEVIDÊNCIA. ILICITUDE DAS PROVAS NÃO CONFIGURADA. QUEBRA DO SIGILO TELEFÔNICO. DECISÃO FUNDAMENTADA. PRORROGAÇÕES. POSSIBILIDADE.CONTAGEM DO PRAZO A PARTIR DO EFETIVO INÍCIO DA ESCUTA.JUNTADA TARDIA DA ÍNTEGRA DO PROCEDIMENTO. QUESTÃO NÃO ENFRENTADA PELO TRIBUNAL ESTADUAL. PREJUÍZO NÃO DEMONSTRADO. RECONHECIMENTO FOTOGRÁFICO. INOBSERVÂNCIA DO ART. 226 DO CPP. NULIDADE. AUSÊNCIA. PARECER ACOLHIDO.
+1. Não sendo possível atestar, de plano, a falta de justa causa para a ação penal, incabível, nesta via, o seu trancamento.
+2. Estão devidamente fundamentadas as decisões que autorizaram a quebra do sigilo telefônico e respectivas prorrogações, uma vez que adequadamente justificada a necessidade das medidas, com o esclarecimento de serem imprescindíveis às investigações.
+3. Não há mais dúvida de que o disposto no art. 5º da Lei n. 9.296/1996 não limita a prorrogação da interceptação telefônica a um único período, podendo haver sucessivas renovações, e de que o prazo de 15 dias ali previsto começa a correr da data em que a escuta é efetivamente iniciada, e não do despacho judicial.
+4. A propósito da alegada juntada tardia das decisões autorizadoras do procedimento de quebra de sigilo ao processo, não há manifesta ilegalidade a ser reparada, pois, além de não ter sido enfrentada a questão pelo Tribunal a quo, não ficou demonstrado o prejuízo.
+5. Segundo a jurisprudência desta Corte Superior, as disposições constantes do art. 226 do Código de Processo Penal configuram recomendação legal, e não uma exigência, não se configurando nulidade quando o ato processual é praticado de modo diverso.
+6. Recurso emhabeas corpusimprovido. (RHC n. 72.706/MT, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 25/10/2016.)
+Assim, não há falar em flagrante ilegalidade na condenação imposta ao paciente, não estando comprovadas as nulidades processuais suscitadas pela defesa.
+Além disso, considerando que a condenação está fundamentada em elementos concretos e provas presentes nos autos da ação penal, paradivergir do entendimento firmado pelo Tribunal antecedente, seria necessária ampla dilação probatória, inviável na via estreita do habeas corpus.
+Ante o exposto, não conheço do presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
