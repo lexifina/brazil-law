@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso emhabeas corpusinterposto por ODAIR MARTINS DE PAULAcontra acórdão do Tribunal de Justiça do Estado de Minas Gerais(HC n. 1.0000.22.123430-5/000).
+O recorrente teve sua prisão preventiva decretada em razão da suposta prática do crime previsto no art. 33 da Lei n. 11.343/2006.
+Sustenta ausência dos requisitos ensejadores da segregação cautelar.
+Aduz que, ao presente caso, a revogação da prisão preventiva com imposição de medidas cautelares mostra-se suficiente.
+Pondera que se tratade pessoa tecnicamente primária, cujos antecedentes criminais são extremamente antigos, que possui trabalho lícito, família constituída e residência fixa.
+Assevera que a quantidade de droga apreendida é ínfima.
+Argumenta acerca da desproporcionalidade da medida, pois em caso de eventual condenação poderáser beneficiado com a fixação de regime aberto e substituição da pena privativa de liberdade por restritiva de direitos.
+Requer a concessão da ordem a fim de revogar a custódia preventiva imposta ao recorrente,concedendo-lhe o benefício da liberdade provisória, sem imputação de fiança, fixando, senecessário, medidas cautelares diversas da prisão.
+O pedido de liminar foi indeferido às fls. 133-134.
+O Ministério Público Federal manifestou-se pelo não provimento do recurso em habeas corpus (fls. 137-138).
+É o relatório. Decido.
+A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que comprovem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 2/9/2020).
+No caso, está justificada a manutenção da prisão preventiva, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP, não sendo recomendável a aplicação de medida cautelar referida no art. 319 do CPP. A propósito, assim se manifestou o Tribunal a quo (fls. 106-108):
+Ora, diferentemente do alegado pelo digno impetrante, verifico que a decisão questionada encontra-se satisfatoriamente fundamentada, não se afigurando viável, ao menos no presente momento, a restituição da liberdade do paciente.
+Cediço que o paciente ostenta primariedade técnica e a quantidade de entorpecentes localizada em sua posse não se mostra exorbitante, tratando-se de 42 pedras de substância semelhante a crack, 02 invólucros de substância semelhante à cocaína e 01 bucha de substância semelhante à maconha.
+Ocorre que as circunstâncias da abordagem do paciente sugerem que ele esteja mais profundamente envolvido na criminalidade e pratique a comercialização de drogas de forma profissional. Isso porque, conforme se extrai do APFD, a prisão do investigado se deu em sede de cumprimento de mandado de busca e apreensão, após a Polícia Militar receber diversas denúncias dando conta de que ele pratica reiteradamente o tráfico de drogas em seu estabelecimento comercial, denominado "Lavador do Gato".
+Ademais, verifico que o MM Juiz a quo, ao motivar a imposição da prisão preventiva ao paciente, apontou que, ao que tudo indica, ele é voltado à prática delitiva. Nessa esteira, extrai-se dasCertidões de Antecedentes Criminais acostadas à impetração que o paciente, embora tecnicamente primário, ostenta diversas outras passagens pelo juízo criminal, inclusive uma condenação remota por crime previsto na antiga lei de drogas.
+Assim, em liberdade, ele provavelmente voltará a delinquir e perturbar a ordem pública e a tranquilidade social, o que não se pode admitir.
+ ..
+Assim, no presente caso, julga-se que a manutenção da prisão preventiva do paciente é medida que se impõe, tendo em vista a probabilidade de reiteração delitiva.
+ ..
+A meu sentir, as medidas cautelares alternativas previstas no artigo 319 do Código de Processo Penal, diante do contexto ora descrito, não se mostram suficientes para garantir a ordem pública, sendo imperiosa, portanto, a manutenção da prisão preventiva, devidamente justificada com base nas hipóteses elencadas no artigo 312 do Código de Processo Penal.
+O entendimento acima está em consonância com a jurisprudência do STJ de que, tendo a necessidade da prisão cautelar sido exposta de forma fundamentada e concreta, é incabível a substituição por medidas cautelares mais brandas (RHC n. 133.153/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 21/9/2020).
+Note-seque a prisão cautelar foi decretada com fundamentação idônea, diante da garantia da ordem pública, haja vista a gravidade concreta do fato delitivo e o fato de o recorrente, embora tecnicamente primário, possuirdiversaspassagens pelo juízo criminal, inclusive uma condenaçãopor crime previsto na antiga lei de drogas.
+Além disso,a prisão do recorrente se deu em razão de cumprimento de mandado de busca e apreensão, após diversas denúncias que o recorrente pratica reiteradamente o tráfico de drogas em seu estabelecimento comercial.Dessa forma, a manutenção da custódia preventiva mostra-se necessária, não sendo suficiente ao casoconceder liberdade provisória ou impor quaisquer outra medida cautelar diversa da prisão.
+Outrossim, eventuais condições subjetivas favoráveis do paciente, como residência fixa e trabalho lícito, não impedem a prisão preventiva quando preenchidos os requisitos legais para sua decretação. Vejam-se os seguintes precedentes: AgRg no HC n. 585.571/GO, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 8/9/2020; e RHC n. 127.843/MG, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 2/9/2020.
+Ademais, conforme orientação jurisprudencial desta Corte, a existência de maus antecedentes e a reincidência justificam a imposição de prisão preventiva como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública (AgRg no HC n. 591.246/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 22/9/2020; e AgRg no HC n. 602.616/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 3/9/2020).
+Por fim, a desproporcionalidade da medida cautelar extrema em relação àeventual condenação somente poderá ser aferida após a prolação da sentença condenatória, não podendo ser objeto de pedido liminar em habeas corpus ou em recurso que antecede o juízo de valor do órgão competente. Nesse sentido, o RHC n. 67.461/MS, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 30/3/2016.
+Inviáveis, portanto, as teses recursais suscitadas.
+Ante o exposto,com base no art. 34, XVIII,b, do RISTJ,nego provimento ao recurso ordinário emhabeas corpus.
+Publique-se. Intimem-se.
