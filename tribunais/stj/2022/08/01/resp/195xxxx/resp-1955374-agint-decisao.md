@@ -1,0 +1,9 @@
+DECISÃO
+Cuida-se de agravo interno interposto pelo Estado do Amazonascontra decisão assim ementada (fl. 376):
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. SERVIDOR APOSENTADO. REQUERIMENTO AMINISTRATIVO. ISENÇÃO DO IMPOSTO DE RENDA. SUSPENSÃO DA EXIGIBILIDADE DO CRÉDITO TRIBUTÁRIO. ART. 151, III, DO CTN. RECURSO ESPECIAL NÃO PROVIDO.
+Nas razões do agravo interno, a recorrente sustenta, em síntese, que: (i) "o caso dos autos não trata de um processo administrativo que deu causa a suspensão da exigibilidade. Não se pode confundir suspensão de exigibilidade de tributo com caso de interrupção de prazo prescricional de ação de repetição de indébito. Não há que se falar em suspensão da exigibilidade de um tributo satisfeito pelo pagamento" (fl.384); (ii) a "controvérsia de direito veiculada pelo presente recurso reside no entendimento de que o pedido administrativo de compensação ou de restituição de imposto não interrompe o prazo prescricional para a ação de repetição de indébito tributário de que trata o art. 168 do CTN. Essa é a adequada aplicação do referido dispositivo de lei federal. Tal entendimento, no entanto, foi afastado pelo TJ/AM, que alegou haver distinção entre os precedentes alegados pela Fazenda Pública em sede de apelação (RE 566.621 e REsp 1.269.57). Ocorre que pedido administrativo não tem o condão de alterar o marco prescricional, na medida em que tal ato não goza deste efeito, na esteira do que decidiram Supremo Tribunal Federal e Superior Tribunal de Justiça em julgamentos submetidos à sistemática da repercussão geral e recursos repetitivos" (fl. 385).
+Com impugnação (fls. 391/399).
+É o relatório. Decido.
+Diante dos argumentos aqui trazidos, exerço o juízo de retratação, facultado pelo art. 259 do Regimento Interno desta Corte, para tornar sem efeito as decisões de fls. 376/379.
+Após, volte-me os autos conclusos para nova análise da demanda.
+Publique-se. Intimem-se.
