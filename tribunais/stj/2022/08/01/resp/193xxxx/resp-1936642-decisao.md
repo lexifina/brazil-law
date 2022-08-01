@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de recurso especial interposto por ANA CLÁUDIA SIMÃO NEVES, fundamentado na alínea "c" do permissivo constitucional.
+Recurso especial interposto em: 22/10/2020.
+Concluso ao gabinete em: 12/05/20221.
+Ação: de obrigação de fazer c/c compensação por danos materiais ajuizada pela recorrente em face de BRADESCO SAÚDE S.A., visando a cobertura de terapias prescritas para tratamento de grave Acidente Vascular Cerebral.
+Sentença: julgou parcialmente procedente a demanda para determinar o custeio das terapias prescritas, a exceção da equoterapia.
+Acórdão: negou provimento à apelação de ambas as partes, nos termos da seguinte ementa:
+AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COMINDENIZAÇÃO POR DANOS MATERIAIS, COM PEDIDO DETUTELA ANTECIPADA. Plano de saúde. Autora que sofreu gravíssimo AVC e que necessita de um tratamento terapêutico multidisciplinar especializado que corresponde à sessões de fisioterapia, terapia ocupacional, hidroterapia, neuropsicologia, deslizamento miofacial, acupuntura, equoterapia, dentre outros. Negativa de cobertura. Sentença de parcial procedência que excluiu a indenização por danos morais e a equoterapia. Recursos de ambas as partes. A autora pleiteando a cobertura das sessões de equoterapia bem como a fixação de valor a título de indenização pelos danos morais. Ré sustentando que não fora encontrado no sistema da seguradora nenhuma solicitação de autorização administrativa para o tratamento reclamado, tendo sido encontrado apenas trocas de e-mails entre a seguradora e o segurado a fim de obter informações acerca da cobertura do tratamento. Frisa ainda que a seguradora não recepcionou relatório médico com pedido de autorização. Ademais sustenta que o tratamento fisioterápico, fonoaudiólogo e a terapia ocupacional são pagos pela patologia e não pela técnica utilizada (desde que coberta), fazendo com que a opção de utilizar determinadas técnicas ou métodos é de prerrogativa do profissional, após a análise do quadro clínico de cada paciente, e se a técnica ou método não constarem no rol da ANS, não será de cobertura obrigatória pelas seguradoras. Sustenta ainda que o número de sessões deverá respeitar o limite contratual. Inadmissibilidade. Exclusão invocada pela operadora do plano de saúde que contraria a finalidade do contrato. Cobertura integral devida. Rol da ANS que é apenas exemplificativo. Pleito que não envolve excesso de tratamento, tampouco tratamentos exorbitantes, com exceção da equoterapia. Indenização, todavia, que não é cabível em casos que tais. Sentença que merece manutenção. Aplicação do art. 252 do Regimento Interno deste Egrégio Tribunal de Justiça. Recursos não providos.
+Embargos de Declaração: opostos pela recorrente, foram rejeitados.
+Recurso especial: alega dissídio jurisprudencial a respeito do art. 2º da Lei 13.830/2019, relacionada à necessidade de cobertura da equoterapia prescrita.
+RELATADO O PROCESSO, DECIDE-SE.
+Julgamento: aplicação do CPC/2015.
+- Da divergência jurisprudencial
+Entre os acórdãos trazidos à colação, não há o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência. Assim, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 1029, §1º do CPC/2015 e 255, § 1º, do RISTJ.
+Ademais, a ausência de prequestionamento do tema que se supõe divergente, qual seja, oart. 2º da Lei 13.830/2019, impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República. Nesse sentido: AgRg no AREsp 353947/SC, 3ª Turma, DJe de 31/03/2014 e EDcl no Ag 1162355/MG, 4ª Turma, DJe de 03/09/2013.
+Forte nessas razões, NÃO CONHEÇO do recurso especial, com fundamento no art. 932, III, do CPC/15.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte recorrida em virtude da interposição deste recurso, majoro os honorários fixados anteriormente (fl. 343, e-STJ) em 2%.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. AVC. TERAPIAS MULTIDISCIPLINARES. EQUOTERAPIA.DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO DO TEMA. INVIABILIDADE.
+1. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+2. A ausência de prequestionamento do tema que se supõe divergente impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República.
+3. Recurso especial não conhecido.
