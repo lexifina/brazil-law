@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de Embargos de Declaração opostos contra decisão que declaroua incompetência do Superior Tribunal de Justiça para apreciar o Mandado de Segurança e extinguiuo feito, nos termos do art. 6º, § 5º, da Lei 12.016/2009.
+A parte embargante alega:
+Ocorre que, como aduzido em sede de inicial, o responsável por emitir autorização referentes a distribuição gratuita de prêmios regidas pela Lei nº 5.768/71, de 20 de dezembro de 1971, é a Secretaria de Avaliação, Planejamento, Energia e Loteria - SECAP, sucessora da Secretaria de Acompanhamento Econômico - SEAE/SEFEL - Secretaria de Acompanhamento Fiscal, Energia e Loteria, todas estas que respondem diretamente ao Ministério da Economia.
+(..)
+É o relatório.
+Decido.
+A própriaparte embargante confirma que a autoridade coatora não é nenhuma das previstas no art.105, I, "b", da CF.
+O fato de a Secretaria de Avaliação, Planejamento, Energia e Loteria responder diretamente ao Ministério da Economia não é suficiente para atrair a competência do STJ, já que se trata de mera competência administrativa genérica superior.Nesse sentido:
+PROCESSUAL E ADMINISTRATIVO. AGRAVO INTERNO NO MANDADO DE SEGURANÇA. PLEITO DE INCORPORAÇÃO A PROVENTOS DE APOSENTADORIA E PENSÃO DE VALORES CORRESPONDENTES ÀS URPs DE ABRIL E MAIO DE 1988. DECRETO-LEI 2425/1988. ILEGITIMIDADE PASSIVA DO MINISTRO DE ESTADO DO PLANEJAMENTO, ORÇAMENTO E GESTÃO. AGRAVO INTERNO DOS PARTICULARES A QUE SE NEGA PROVIMENTO.
+1. Verifica-se que o ato supostamente omissivo capaz de produzir efeitos imediatos com relação aos impetrantes, lesando supostamente seu direito líquido e certo, foi o não atendimento, pelo setor responsável, de sua pretensão de pagamento dos valores aos quais afirmam terem direito, de forma que esta deveria ser a omissão impugnada pelo presente writ, o que leva à conclusão de que não está sob a tutela jurisdicional originária desta Corte Superior via Mandado de Segurança.
+2. É parte ilegítima o MINISTRO DO PLANEJAMENTO, ORÇAMENTO E GESTÃO, uma vez que este possui competência administrativa genérica e superior, de supervisão e gestão do sistema de pessoal civil. Neste sentido (AgInt no MS 24.019/DF, Rel. Min. BENEDITO GONÇALVES, DJe 29.5.2018).
+3. Os ora agravantes não fizeram prova de que eventual indeferimento do pagamento imediato da verba por eles pleiteada se deu por ato ou omissão de Ministro de Estado, razão por que não se deve reconhecer a legitimidade dessa autoridade para figurar no polo passivo deste mandamus.
+4. Agravo Interno dos Particulares a que se nega provimento.
+(AgInt no MS n. 23.730/DF, relator Ministro Napoleão Nunes Maia Filho, Primeira Seção, DJe de 1/12/2020.)
+PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. PROJETO MAIS MÉDICOS. MINISTRO DE ESTADO DA SAÚDE. ILEGITIMIDADE.
+1. Conforme estatui a Súmula 510 do STF, praticado "o ato por autoridade no exercício de competência delegada, contra ela cabe o mandado de segurança ou a medida judicial".
+2. Hipótese em que o ato apontado como coator, juntado pela própria parte impetrante, foi emanado da Secretaria de Atenção Primária à Saúde, sendo inconteste a ilegitimidade do Ministro de Estado da Saúde para figurar no polo passivo do mandado de segurança e, por conseguinte, a incompetência desta Corte para processar e julgar o presente writ.
+3. Agravo interno desprovido.(AgInt no MS n. 25.885/DF, relator Ministro Gurgel de Faria, Primeira Seção, DJe de 22/5/2020.)
+ADMINISTRATIVO. ANISTIA. MANDADO DE SEGURANÇA. EXTINÇÃO SEM EXAME DO MÉRITO.
+I - Trata-se de mandado de segurança impetrado contra ato omissivo supostamente coator, praticado pelo Ministro de Estado da Justiça e Segurança Pública.
+II - Alega a parte impetrante que é servidor público federal aposentado e que, na condição de anistiado político, situação já declarada nos termos da Lei nº 10.559/02, exerceu seu direito de petição e postulou o reconhecimento do direito a reparação civil mediante indenização preconizada no Art. 1º, II da referida lei, efetivando requerimento administrativo em 2013, acerca do qual até momento não teria havido qualquer decisão.
+III - O pedido de tutela provisória de urgência visando fosse concedida inaudita altera parte a medida liminar ora pleiteada, para que o Impetrado seja compelido a responder o processo administrativo 2013.01.72129, visto que preenchidos os requisitos autorizadores da concessão da medida e em razão do evidente ato coator praticado, foi indeferido, conforme decisão às fls. 95-96. A União manifestou interesse em ingressar no feito.
+III - Informações da autoridade apontada, às fls. 110-236, dando conta de que o processo encontra-se na Comissão de Anistia, para devida instrução e emissão de parecer. Não estando na esfera de atribuição do Ministro de Estado da Justiça e Segurança Pública.
+IV - Parecer do d. Ministério Público Federal, às fls. 238-241, aponta ilegitimidade ativa do Ministro de Estado, pela extinção do feito.
+V - O mandado de segurança, de acordo com o que preceitua a lei nº 12.016/09, deve ser impetrado contra ato de agente público que possua a atribuição legal tanto para praticar, quanto para sanar eventuais vícios do ato que se impugna.
+VI - Ao compulsar os autos, mormente o ato apontado como coator, infere-se que, ao contrário do alegado, não houve a declaração de anistiado do impetrante, estando a análise do processo de anistia ainda a cargo da Comissão de Anistia, a quem compete a instrução e emissão de parecer prévio à tomada de decisão do Ministro de Estado.
+VII - No caso dos autos em análise, o impetrante não logrou êxito em demonstrar qualquer ato que dependa do poder decisório direto do Ministro de Estado apontado na exordial, uma vez que a referida análise e emissão de parecer são requisitos indispensáveis, de atribuição exclusiva da Comissão de Anistia. Neste sentido, não há como conferir legitimidade para que o Ministro da Justiça e Segurança Pública figure como autoridade impetrada no presente mandado de segurança.
+VIII - Esta Corte Superior possui precedente análogo neste mesmo sentido, reconhecendo a ilegitimidade passiva do Ministro de Estado do Transporte em relação à pretensão de concessão de pensão por morte. Confira-se: MS 20.937/DF, Rei. Ministro OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF Ia REGIÃO), PRIMEIRA SEÇÃO, julgado em 24/02/2016, DJe 02/03/2016).
+IX - Por outro lado, a aplicação da teoria da encampação em sede de mandado de segurança, de acordo com o entendimento sedimentado neste Superior Tribunal, só seria permitida quando preenchidos, cumulativamente, três requisitos: (a) vínculo hierárquico entre a autoridade que prestou as informações e aquela que determinou a prática do ato; (b) manifestação sobre o mérito nas informações prestadas, e; (c) ausência de modificação na competência constitucionalmente estabelecida. Neste sentido: EDcl no RMS 53710/ GO, Rel. Min. Assusete Magalhães, SEGUNDA TURMA, julgado em 03/04/2018, DJe 10/04/2018.
+X - No caso, portanto, é incabível a aplicação da teoria da encampação. Nesse sentido: REsp 1703947 /PR, Rel. Min. Herman Benjamin, SEGUNDA TURMA, julgado em 28/11/2017, DJe 19/12/2017;
+AgInt nos EDcl no MS 23399 / DF, Rel. Min. Regina Helena Costa, PRIMEIRA SEÇÃO, julgado em 11/10/2017, DJe 19/10/2017.
+XI - Agravo interno improvido.
+(AgInt no AgInt no MS n. 24.696/DF, relator Ministro Francisco Falcão, Primeira Seção, DJe de 16/3/2020.)
+Ante o exposto, rejeito os Embargos de Declaração.
+Publique-se.
+Intimem-se.
