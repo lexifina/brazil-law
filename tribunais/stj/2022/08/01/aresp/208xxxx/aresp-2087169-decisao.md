@@ -1,0 +1,24 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto por Maria Simões Nogueira contra decisão que não admitiu o recurso especial ao fundamento de óbice da Súmula n. 7/STJ no tocante à limitação do benefício ao maior valor teto instituído pelas EC n. 20/1998 e 41/2003 e pela ausência de demonstração, de forma analítica, de eventual dissenso jurisprudencial (e-STJ, fl. 326).
+Impugnada especificamente a decisão, conheço do agravo e passo à análise do recurso especial.
+O recurso especial foi manejado com amparo nas alíneas "a" e "c" do permissivo constitucional contra acórdão do Tribunal Regional Federal da 5ª Regiãoassim ementado (e-STJ, fl. 130):
+CONSTITUCIONAL E PREVIDENCIÁRIO. REVISÃO DA RENDA MENSAL. EMENDAS 20/1998 E 41/2003.
+I - Apelação interposta em face de Sentença proferida pelo MM. Juiz Federal da 8ª Vara Federal da Seção Judiciária Ceará, que julgou Improcedente o pedido de readequação/atualização da Renda Mensal do Benefício Previdenciário que percebe a parte Autora, considerando os efeitos imediatos dos novos tetos fixados pelas Emendas Constitucionais n.ºs 20/98 e 41/03 aos benefícios em manutenção.
+II - REVISÃO. O Supremo Tribunal Federal orienta-se no sentido da aplicação dos Tetos previstos nas Emendas Constitucionais nºs 20/1998 e 41/2003 aos Benefícios concedidos, anteriormente, àquelas Emendas, readequando-se os valores percebidos aos novos Tetos, sem que, com isso, haja ofensa ao Ato Jurídico Perfeito.
+III - LIMITAÇÃO DO SALÁRIO DE BENEFÍCIO AO TETO E REVISÃO. Os Benefícios que sofreram limitação no Salário de Benefício fazem jus à readequação aos novos Tetos Constitucionais No caso em exame, a Aposentadoria possui data de início fixada antes da vigência das Emendas Constitucionais nºs 20/1998 e 41/2003, porém a RMI não foi limitada ao Teto Previdenciário, de modo que o Benefício não é alcançado pelos efeitos do julgamento do Recurso Extraordinário 564.354/SE.
+IV - DECADÊNCIA. PRESCRIÇÃO. Não há que se falar em Prazo Decadencial tendo em vista o entendimento consolidado pelo Supremo Tribunal Federal, no sentido de que a aplicação das Emendas Constitucionais 20/1998 e 41/2003, aos Benefícios concedidos anteriormente, não se trata de aumento ou reajuste, mas readequação de valores. A hipótese de que se cuida é de Prescrição das parcelas anteriores ao Quinquênio do ajuizamento da Ação.
+V - HONORÁRIOS RECURSAIS. Quanto aos Honorários Recursais, ante o não provimento da apelação, majora-se a condenação em Honorários Advocatícios, a título de Honorários Recursais, em 2%.
+VI - Desprovimento da Apelação.
+Os embargos de declaração (e-STJ, fls. 167/168) tiveram provimento negado, nos termos da decisão de e-STJ, fl. 185.
+Novos embargos declaratórios (e-STJ, fls. 207/208) também tiveram provimento negado, nos termos da decisão de e-STJ, fls. 224/224.
+A recorrente alega, além de divergência jurisprudencial, violação dos arts. 3º e 5º da Lei n. 5.890/1973; 28 do Decreto n. 77.077/1976; e 23 do Decreto n. 89.312/1984.
+Defende a revisão da renda mensal do benefício concedido antes da Constituição Federal de 1988 limitada pelos tetos estabelecidos nas EC n. 23/1998 e 41/2003.
+Contrarrazões apresentadas (e-STJ, fls. 315-319).
+É o relatório.
+A questão jurídica referente à forma de cálculo da renda mensal do benefício em face da aplicação, ou não, dos limitadores vigentes à época de sua concessão foi submetida ao regime dos precedentes qualificados vinculantes pelo Superior Tribunal de Justiça nos seguintes termos:
+Tema 1.140/STJ: Definir, para efeito de adequação dos benefícios concedidos antes da Constituição Federal aos tetos das Emendas Constitucionais n. 20/1998 e 41/2003, a forma de cálculo da renda mensal do benefício em face da aplicação, ou não, dos limitadores vigentes à época de sua concessão (menor e maior valor-teto).
+Nesse contexto, por medida de economia processual e para evitar decisões dissonantes entre Cortes integrantes do mesmo sistema de Justiça, os recursos que tratam da mesma controvérsia devem retornar à origem, para aguardar ou aplicar a solução alcançada no feito afetado, viabilizando, assim, a observação uniforme da tese vinculante.
+Cumpre esclarecer que, somente depois de realizada essa providência, com o exaurimento da instância ordinária, os recursos excepcionais deverão ser encaminhados para os Tribunais Superiores, a fim de que possam ser analisadas as questões jurídicas neles suscitadas, desde que não prejudicados pelo novo pronunciamento da Corte local.
+Ante o exposto, determino a devolução dos autos ao Tribunal de origem, para observação da disciplina processual dos arts. 1.039 e 1.040 do CPC/2015, de modo que se: i) negue seguimento ao recurso, se o acórdão recorrido coincidir com a tese vinculante do Tribunal Superior; ou ii) proceda ao juízo de retratação, na hipótese de ter o Colegiado local divergido da interpretação fixada no precedente qualificado.
+Publique-se. Intimem-se.
