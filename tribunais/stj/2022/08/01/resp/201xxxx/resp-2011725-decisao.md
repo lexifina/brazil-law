@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "a" e "c", da Constituição Federal) interposto de acórdão do Tribunal Regional Federal da 5ª Região (TRF-5) assim ementado (fls. 359-360, e-STJ):
+ADMINISTRATIVO E PROCESSO CIVIL. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. INCORPORAÇÃO DA GAT AO VENCIMENTO BÁSICO. POSSIBILIDADE.PRECEDENTES. AGRAVO IMPROVIDO.
+1. Agravo de Instrumento interposto pela UNIÃO, contra decisão que, nos autos do cumprimento de sentença de origem, rejeitou a impugnação da União, tendo acolhido apenas a questão acerca do índice dos juros de mora.
+2. A imprecisão do comando proferido na ação coletiva de nº 0000423-33.2007.4.01.3400 que reconheceu a natureza vencimental da GAT em razão do seu caráter genérico, motivou o presente recurso, cujo objeto consiste no questionamento sobre a extensão da coisa julgada, especificamente sobre a suposta extrapolação do dispositivo.
+3. A delimitação do objeto do processo de conhecimento, e por consequência do título executivo, é o pedido feito na inicial da ação, que no presente caso consistiu em incorporar a GAT - Gratificação de Desempenho da Atividade Tributária incidindo sobre ela as demais parcelas remuneratórias, com reflexos em todas as verbas recebidas no período, a partir da data da edição da Lei nº 10.910, de 15 de julho de 2004.
+4. Sobre a natureza da GAT, o Ministro Relator foi explícito ao consignar que embora a rubrica seja denominada gratificação, inafastável o reconhecimento de seu caráter genérico, a partir do momento que passou a ser concedida a todos os Servidores, e não especificamente aos Servidores que exerciam determinada função, cujo desempenho era perfeitamente computável, o que torna possível o (STJ - AgInt no REsp 1.585.353/DF, Relator: reconhecimento da sua natureza jurídica de vencimento Ministro Napoleão Nunes Maia Filho, Data de Publicação: DJ 24/04/2017).
+5. Com efeito, enquanto não concluído o julgamento da Ação Rescisória n.º 6.436/DF para desconstituir o título exequendo, outro não deve ser o entendimento que o de considerar o caráter vencimental da GAT.
+6. A imperfeição do dispositivo não deve resultar na restrição de direitos expressamentereconhecidos na fundamentação. Precedentes.
+7. Não obstante a decisão exarada na Ação Rescisória nº 6.436/DF (2019/0093684-0), esta Quarta Turma tem dado prosseguimento aos processos que versem sobre a matéria, tendo em vista que a tutela de urgência daquela rescisória determinou a suspensão do levantamento ou pagamento de eventuais precatórios ou RPVs já expedidos em razão da referida matéria, não impondo qualquer obstáculo ao prosseguimento das execuções.
+8. Agravo de instrumento improvido.
+A União aduz:
+A UNIÃO, por intermédio da Procuradoria-Geral da União (PGU) ajuizou, perante o Superior Tribunal de Justiça (STJ), a Ação Rescisória nº 6.436 - DF (2019/0093684-0), em face do SINDIFISCO NACIONAL - SIND. NAC. DOS AUD. FISCAIS DA RECEITA FEDERAL DO BRASIL, com o escopo de rescindir acórdão lavrado nos autos do Recurso Especial nº 1.585.353/DF (2016/0041706-8), o qual deu provimento a Recurso Especial para reconhecer devido o pagamento da GAT, desde sua criação pela Lei nº 10.910/2004, até sua extinção pela Lei 11.890/2008, decisão essa que nestes autos é objeto de cumprimento.
+(..)
+Note-se que não há qualquer determinação ou mesmo declaração de que a GAT deve compor a base de cálculo de outras verbas remuneratórias, a exemplo da GIFA, anuênios e adicionais. Entrementes, as execuções vêm sendo manejadas justamente para cobrança das diferenças dessas diversas verbas, as quais foram pagas sobre o vencimento básico, sob o fundamento de que o título lhes garante o pagamento também sobre a GAT.
+(..)
+Ora, Excelências, em nenhum momento, o acórdão do STJ dá a entender que se estaria acolhendo a tese do exequente de que a real intenção do legislador ao criar a GAT era de "incrementar o vencimento , de modo que as diferenças deveriam ser calculadas e pagas com base no básico" "vencimento básico . acrescido a GAT" Repita-se, o título executivo não diz isso.
+(..)
+Portanto, diante dos limites objetivos traçados no DISPOSITIVO da decisão proferida pelo STJ no AgInt no REsp nº 1.585.353/DF, as execuções movidas em desfavor da União com vistas ao pagamento de qualquer verba remuneratória sobre a GAT devem ser julgadas improcedentes e, consequentemente, extintas, haja vista a inexigibilidade de tal obrigação.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 15.7.2022.
+A controvérsia sob exame  relativa à exequibilidade do título formado no REsp 1.585.353/DF, relacionado à GAT  está pendente de solução definitiva pelo Superior Tribunal de Justiça na Ação Rescisória 6.436/DF, no âmbito da qual foi deferida medida liminar para suspender todos os pagamentos de execuções decorrentes desse título.
+Dessa forma, por medida de cautela, já que a demanda envolve pagamento de vultosa quantia (milionária) contra a Fazenda Pública, convém que este relator suspenda a presente execução, até o julgamento de mérito da Ação Rescisória, consoante previsão contida no art. 969 do Código de Processo Civil.
+É fato que, julgada procedente ou improcedente a mencionada Ação Rescisória, ela vinculará todas as demandas iniciadas  cumprimento de sentença  ao definir se a GAT incide apenas sobre o vencimento básico ou demais verbas remuneratórias. Evidencia-se ser contraproducente e infringente aos princípios da eficiência e da economia processual permitir que prossiga a presente demanda em vista da Ação Rescisória proposta.
+Ante o exposto, determina-se a retirada do feito de pauta e a suspensão da execução, nos termos do art. 969 do Código de Processo Civil, até o julgamento em definitivo da Ação Rescisória 6.436/DF.
+À Coordenação para que acompanhe o julgamento da AR 6.436, devolvendo o presente feito a este subscritor tão logo aquela causa seja julgada.
+Publique-se.
+Intimem-se.
