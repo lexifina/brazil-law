@@ -1,0 +1,20 @@
+DECISÃO
+Na origem trata-se de ação para concessão de benefício previdenciário, em que se pretende à concessão do auxílio-doença e a aposentadoria por invalidez,alegando encontrar-se incapacitado para desenvolver atividade laborativa que garanta seu sustento. Na sentença julgou-se o pedido procedente. No Tribunal a quo a sentença foi reformada, dando-se provimento à apelação, restando prejudicada a parte autora. O valor da causa foi fixado em R$ 9.456,00.
+O recurso especial foi interposto no TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, contra acórdão com o seguinte resumo de ementa:
+PREVIDENCIÁRIO. APOSENTADORIA POR INCAPACIDADE PERMANENTE. INCAPACIDADE PREEXISTENTE. QUALIDADE DE SEGURADO NÃO DEMONSTRADA. REQUISITOS LEGAIS NÃO PREENCHIDOS.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+No caso vertente, conforme extrato do CNIS (ID 151981372), extrai-se que a parte autora verteu contribuições ao INSS, como contribuinte individual nos períodos de 01/06/2015 a 31/01/2016 e no período de 01/10/2019 a 31/01/2020.
+No tocante à incapacidade, o sr. perito atestou: "A perícia em questão se caracteriza pela ausência de documentação acerca do quadro clínico referido pelo autor. Não há, ao único dado citado nos autos, elementos para definirmos uma situação de incapacidade laboral. Caso o periciado opte por fazer exames adicionais (critério dele e do assistente) sugiro anexação tanto do laudo como da imagem obtida (no processo)(ID 151981300).
+ ..
+Verifica-se que, embora o especialista nomeado pelo juízo não tenha fixado a data de início da incapacidade, ressalto que o sr. perito informou que houve incapacidade desde01.01.2018, conforme documento médico apresentado pela parte autora.
+Neste aspecto, observa-se que a incapacidade ocorreu em momento anterior à refiliação ao RGPS, tendo em vista que após o último recolhimento em 31/01/2016, o segurado reingressou ao sistema previdenciário somente em 01/10/2019, tratando-se de hipótese de incapacidade preexistente ao ingresso ao RGPS.
+Outrossim, não há qualquer elemento de prova de que o quadro clínico tenha se agravado ou se alterado desde então.
+Desta forma, cumpre-nos observar que a autora não preencheu os requisitos da Lei nº 8.213/91, não fazendo jus aos benefícios pretendidos, por se tratar de doença preexistente à filiação ao RGPS, nos termos do § 2º do artigo 42 da mencionada lei. Note-se que esse é o entendimento pacífico deste Egrégio Tribunal:
+Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Relativamente às demais alegações de violação, esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 1% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
