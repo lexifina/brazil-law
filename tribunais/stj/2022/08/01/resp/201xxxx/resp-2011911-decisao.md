@@ -1,0 +1,64 @@
+DECISÃO
+Cuida-se de recurso especial interposto por BANCO BRADESCO S/A fundamentado na alínea "a" e "c" do permissivo constitucional.
+Recurso especial interposto em: 13/4/2022.
+Concluso ao gabinete em: 5/7/2022.
+Ação: indenização para compensação de danos morais e materiais ajuizada por RITA MARIA SOARES BRAGA contra BRADESCO S/A.
+Sentença: julgou procedente o pedido, com fundamento no artigo 487, inciso I, do CPC/2015, para: a) condenar o requerido ao pagamento de indenização por dano moral, no valor de R$ 5.000,00 (cinco mil reais), com correção monetária desde a data da publicação da sentença e juros de mora de 1% ao mês desde a citação ; b) condenar o requerido ao pagamento de danos materiais, no valor de R$ 880,00 (oitocentos e oitenta reais), com juros de 1% ao mês e correção monetária, desde 25/02/2016 (data do evento danoso). Ante a sucumbência, condenado o requerido ao pagamento de custas e honorários advocatícios, fixados em 10% sobre o valor da condenação (fls. 97/100).
+Acórdão: negou provimento à apelação interposta pelo requerido, nos termos da seguinte ementa (fls. 204/216):
+APELAÇÃO CÍVEL. DIREITO DO CONSUMIDOR. AÇÃO DE REPARAÇÃO DE DANOS MATERIAIS E MORAIS. SENTENÇA QUE JULGOU PROCEDENTE A INICIAL. ILEGITIMIDADE PASSIVA. PRELIMINAR RECURSAL QUE SE CONFUNDE COM O PRÓPRIO MÉRITO DA AÇÃO. AFASTADA. BENEFÍCIO PREVIDENCIÁRIO. SAQUE REALIZADO POR TERCEIRO. FALHA NA PRESTAÇÃO DO SERVIÇO. RESPONSABILIDADE OBJETIVA DA INSTITUIÇÃO FINANCEIRA. RISCO INERENTE À ATIVIDADE. SÚMULA 479 DO STJ. DEVER DE INDENIZAR. DANO MORAL CONFIGURADO. QUANTUM INDENIZATÓRIO FIXADO DE ACORDO COM OS PRINCÍPIOS DA RAZOABILIDADE E PROPORCIONALIDADE. PRECEDENTES DO STJ E DOS TRIBUNAIS PÁTRIOS. RECURSO CONHECIDO E IMPROVIDO. SENTENÇA MANTIDA.
+1. Cuida-se de ação em que a parte autora, ora apelada, pleiteia a condenação da instituição financeira apelante (Banco Bradesco S. A) ao pagamento de indenização por danos morais na quantia entendida como razoável e justa, bem como ao ressarcimento do dano material, alusivo a um saque indevido referente a seu benefício previdenciário.
+2. A matéria arguida para justificar a preliminar de ilegitimidade passiva se confunde com o próprio mérito da ação, posto que questiona a responsabilidade da instituição financeira demandada por dano decorrente de saque indevido realizado em conta bancária da autora dentro da agência bancária da promovida. Preliminar, portanto, rejeitada.
+3. Às instituições financeiras compete adotar formas de identificação da pessoa que realiza as transações bancárias em suas agências ou caixas eletrônicos e ainda empregar os meios necessários para evitar o ilícito, tendo em vista que a elas pertence o risco da atividade desenvolvida, consoante enunciado sumular n.º 479 do STJ: "As instituições financeiras respondem objetivamente pelos danos gerados por fortuito interno relativo a fraudes e delitos praticados por terceiros no âmbito de operações bancárias."
+4. Dessa forma, demonstrada a irregularidade na realização do saque e inconteste o prejuízo material da autora, diante da subtração indevida do seu benefício previdenciário, deve o demandado restituir-lhe o valor indevidamente sacado de sua conta bancária.
+5. Quanto ao dano moral, é inegável que os fatos trouxeram prejuízos à demandante que ultrapassam a esfera do mero aborrecimento, considerando os transtornos por ela experimentados ao se deparar com o desfalque da totalidade de seu benefício previdenciário, situação que ultrapassa o limite do razoável e a esfera do mero dissabor, trazendo perturbação além daquela cotidianamente suportável.
+6. Em relação ao valor, temos que a quantificação do dano moral deve ser arbitrada de modo a evitar enriquecimento sem causa e para que sirva de lição pedagógica, evitando que o ilícito se repita, bem como para prestar à vítima uma satisfação pelos sofrimentos e abalos suportados. Nesse sentido, entendo que se mostra justo e razoável o valor fixado na sentença, posto que pautado pela razoabilidade e proporcionalidade e em consonância com os parâmetros fixados por esta Corte de Justiça.
+7. Recurso de apelação conhecido e improvido. Sentença mantida.
+Embargos de declaração: opostos pelo requerido, foram rejeitados (fls. 246/254).
+Recurso especial: alega, além de dissídio jurisprudencial, violação aos art. 373, inciso I, art. 374, inciso III e art. 1.022, inciso II, todos do CPC/2015; art. 14, do CDC; art. 927, caput e parágrafo único, do Código Civil, ao argumento de que:
+a) haveria omissão do Tribunal local quanto às seguintes questões: i- o saque em conta corrente teria sido feito mediante uso de cartão magnético e senha pessoal; ii- seria da autora o ônus de provar que o saque não teria sido feito por meio de senha pessoal; iii- a autora não teria comprovado os fatos constitutivos do seu direito; iv- saques teriam sido realizados pela própria correntista ou por pessoa que tivesse acesso ao seu cartão e senha;
+b) ausência de responsabilidade do fornecedor, tendo em vista se tratar de culpa exclusiva do consumidor;
+c) a recorrida não teria comprovado os fatos constitutivos de seu direito, nem tampouco o impugnado, razão pela qual as teses de defesa do requerido seriam incontroversas.
+Juízo de admissibilidade: o TJCE admitiu o recurso especial interposto pelo requerido.
+É O RELATÓRIO.
+DECIDO.
+Julgamento: aplicação do CPC/2015.
+1. DA NEGATIVA DE PRESTAÇÃO JURISDICIONAL
+1. Da análise do acórdão recorrido, integrado pelo decisum proferido em sede de embargos de declaração, constata-se que o artigo 1.022, do Código de Processo Civil, não foi violado, não contendo, portanto, omissão, contradição ou obscuridade.
+2. Nota-se, nesse passo, que o Tribunal de origem tratou de todos os temas suscitados pelas partes, proferindo, a decisão ora guerreada.
+3. Imperioso ressaltar que houve manifestação expressa sobre o saque e ter sido fruto de fraude, decorrendo deste fato a responsabilidade do recorrente:
+"Analisando-se o conjunto probatório dos autos, verifica-se que restou demonstrado que o saque não foi de fato realizado pela autora, sendo, portanto, indevido, restando amplamente evidenciada nos autos a existência de fraude perpetrada por terceiro no âmbito da agência bancária de responsabilidade do promovido.
+Assim sendo, é inconteste a responsabilidade do promovido, pois compete às instituições financeiras adotar formas de identificação da pessoa que realiza as transações bancárias em suas agências ou caixas eletrônicos e ainda empregar os meios necessários para evitar o ilícito, tendo em vista que a elas pertence o risco da atividade desenvolvida.
+Destaca-se que, em virtude de sua responsabilidade objetiva, prevista no art. 14 do Código de Defesa do Consumidor, o banco apelante responde, independentemente de culpa, por todos os danos causados em razão da má prestação de serviços, cabendo-lhe a devida fiscalização e controle dos atos praticados.
+ ..  Evidenciada pois a ocorrência de fraude, assume a parte promovida o risco do negócio, posto que inerente a atividade que desempenha, respondendo de forma objetiva pelos prejuízos causados à consumidora."
+(fls. 209/210)
+4. As demais omissões, alegadas pela parte, diante da posição tomada pelo acórdão, acaba por afastar as demais linhas argumentativas, razão pela qual não há que se falar em ausência de prestação jurisdicional.
+5. Assim sendo, analisadas e discutidas as questões de mérito, e fundamentado suficientemente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 1022 do CPC/2015.
+2. DA ORIENTAÇÃO DO STJ
+6. A jurisprudência do STJ, a respeito da matéria impugnada pelo recorrente, firmou-se no sentido de que:
+a) a instituição financeira é objetivamente responsável pelos danos gerados por fraude praticada por terceiro no âmbito de operação bancária, conforme enuncia a Súmula 479/STJ;
+b) "a responsabilidade da instituição financeira deve ser afastada quando o evento danoso decorre de transações que, embora contestadas, são realizadas com a apresentação física do cartão original e mediante uso de senha pessoal do correntista" (REsp 1.633.785/SP, TERCEIRA TURMA, DJe 30/10/2017)
+3. DO REEXAME DE FATOS E PROVAS
+7. No caso, quanto à responsabilidade da instituição financeira, o TJCE assim concluiu:
+"Registre-se inicialmente que se trata de ação baseada em uma relação de consumo e, portanto, aplica-se a Lei 8.078/90, sendo a responsabilidade civil da parte promovida objetiva, baseada na teoria do risco, independentemente de culpa.
+Analisando-se o conjunto probatório dos autos, verifica-se que restou demonstrado que o saque não foi de fato realizado pela autora, sendo portanto indevido, restando amplamente evidenciada nos autos a existência de fraude perpetrada por terceiro no âmbito da agência bancária de responsabilidade do promovido.
+Assim sendo, é inconteste a responsabilidade do promovido, pois compete às instituições financeiras adotar formas de identificação da pessoa que realiza as transações bancárias em suas agências ou caixas eletrônicos e ainda empregar os meios necessários para evitar o ilícito, tendo em vista que a elas pertence o risco da atividade desenvolvida.
+Destaca-se que, em virtude de sua responsabilidade objetiva, prevista no art. 14 do Código de Defesa do Consumidor, o banco apelante responde, independentemente de culpa, por todos os danos causados em razão da má prestação de serviços, cabendo-lhe a devida fiscalização e controle dos atos praticados.
+Assim, não merece guarida a tese de ilegitimidade do banco para figurar no polo passivo da presente ação e, por conseguinte, de sua ausência de responsabilidade, considerando que a instituição financeira demandada, enquanto prestadora do serviço, é quem mais está apta a impedir os efeitos das ações fraudulentas, pois é a parte que controla tecnicamente o acesso ao referido serviço, podendo prevenir ataques de forma mais eficaz que o consumidor e dessa forma, pela teoria do risco do empreendimento, responde independentemente de culpa por transações realizadas mediante fraude, ainda mais por não tomar os cuidados necessários no sentido de garantir a segurança esperada, mostrando-se assim a falha na prestação do serviço."
+(fls. 209/210)  g.n.
+8. Assim, alterar o decidido no acórdão impugnado, para reconhecer a responsabilidade da instituição financeira, na hipótese, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+4. DO ÔNUS DA PROVA
+9. Nos termos do art. 373 e seus incisos, do CPC/2015, tem-se que o ônus da prova incumbe ao autor, quanto ao fato constitutivo de seu direito e, doutro vértice ao réu, quanto à existência de fato impeditivo, modificativo ou extintivo do direito do autor.
+10. Na hipótese em tela, o recorrente inverteu tais premissas, razão pela qual não deve ser acolhida.
+5. DA DIVERGÊNCIA JURISPRUDENCIAL
+11. Por fim, a incidência da Súmula 7 desta Corte acerca do tema que se supõe divergente impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República. Nesse sentido: AgInt no AREsp 821337/SP, 3ª Turma, DJe de 13/03/2017 e AgInt no AREsp 1215736/SP, 4ª Turma, DJe de 15/10/2018.
+Forte nessas razões, com fundamento no art. 932, III e IV, alínea a, do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Majoro os honorários advocatícios para 15% sobre o valor da condenação, nos termos do art. 85, § 11, do CPC/2015.
+EMENTA
+RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. AÇÃO PARA COMPENSAÇÃO DE DANOS MORAIS E MATERIAIS. INSTITUIÇÃO FINANCEIRA. DANOS CAUSADOS POR ATO DE TERCEIRO. USO DE CARTÃO E SENHA PESSOAL. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO.
+1- Ação para compensação de danos materiais e morais.
+2- Não se pode conhecer da apontada violação ao art. 1.022, pois analisadas e discutidas as questões de mérito, fundamentado suficientemente o acórdão recorrido, de modo a esgotar a prestação jurisdicional.
+3- Conforme entendimento deste Superior Tribunal, "a responsabilidade da instituição financeira deve ser afastada quando o evento danoso decorre de transações que, embora contestadas, são realizadas com a apresentação física do cartão original e mediante uso de senha pessoal do correntista" (REsp 1.633.785/SP, TERCEIRA TURMA, DJe 30/10/2017).
+4- Alterar o decidido no acórdão impugnado, no que se refere a responsabilidade da instituição financeira, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+5- A incidência da Súmula 7 do STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+6- Recurso especial conhecido em parte e, nessa extensão, não provido.
+7- Agravo conhecido. Recurso especial não conhecido.
