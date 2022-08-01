@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo interposto por Alam José Mathusalem e outros, contra decisão que inadmitiu o recurso especial fundado no art. 105, III, a, da Constituição Federal
+Na origem, Alam José Mathusalem e outros ajuizaram ação ordinária contra o a Fazenda do Estado de São Paulo, objetivandoo recálculo de seus vencimentos integrais, nos termosda Constituição Estadual.
+Deu-se a causa o valor deR$ 53.000, 00 (cinquenta e três mil reais)em agosto de 2016.
+A sentença julgou improcedente o pedido.
+Interposta apelação, oTribunal de Justiça do Estado de São Paulodeu provimento ao recurso, conforme a ementa a seguir (fl. 304):
+APELAÇÃO. Servidores Públicos Estaduais ativos. Sexta-parte. Pleito de incidência sobre a totalidade dos vencimentos. Sentença de improcedência.
+1. Julgado inequivocadamente "extra petita". Sentença que se pronunciou a respeito do adicional por tempo de serviço (quinquênio) e deixou de analisar a matéria sob o enfoque do pedido inicial. Anulação que se impõe. Causa madura que admite o pronto julgamento, com fulcro no § 3º, do artigo 1.013 do CPC.
+2. Pretensão ao recálculo da sexta-parte sobre os vencimentos integrais. Admissibilidade. Inteligência do artigo 3º, inciso II e III, da Lei Complementar nº 731/93. Correção monetária e juros de mora. Sentido do que é "repique" ou "efeito cascata" vedado pela Constituição. Correção monetária pelos índices da Tabela Prática do Egrégio Tribunal de Justiça, acrescido de juros de mora de 6% ao ano.
+3. Recurso provido.
+Opostosembargos de declaração, foram estes rejeitados, no teor da seguinte ementa (fl. 322):
+EMBARGOS DE DECLARAÇÃO. Apelação Cível. Servidores Públicos Estaduais ativos. Sexta-parte. Pretensão de recálculo da sexta-parte sobre os vencimentos integrais. V. acórdão que deu provimento ao recurso dos autores para reformar a sentença e julgar procedente o pedido inicial.
+1. Alegação de omissão no aresto com relação ao pagamento das parcelas atrasadas e apostilamento. Inocorrência. Consequência lógica do julgado, uma vez que havendo condenação ao recálculo da sexta-parte, inegável a necessidade de apostilamento e o pagamento das parcelas a partir de quando deveriam ser pagas.
+2. Insurgência com relação à fixação dos honorários advocatícios, que foram arbitrados sobre o valor dado à causa. Alegação de omissão ou erro material, sob o argumento de que é possível mensurar o proveito econômico pretendido. Inviabilidade. Verba honorária fixada de forma correta e que remunera adequadamente o causídico. Impossibilidade de aferir o proveito econômico obtido pelas partes na fase de conhecimento, razão pela qual, há de ser adotado como parâmetro o valor atribuído à causa, que deveria espelhar ao menos por estimativa o proveito econômico almejado.
+3. Acórdão que abordou com clareza todas as questões tratadas nos autos. Inexistência de obscuridade, contradição, omissão ou erro material, à luz do artigo 1.022 do NCPC/2015.
+4. Embargos de declaração rejeitados.
+Foi interposto recurso especialsustentandoviolação doart. 1.022CPC/2015, sob argumento de omissão no julgado, além de violação doart. 85, §§ 3 º e 4 º, II e III, do CPC/2015,uma vez que o acórdão recorrido, ao fixarhonorários advocatícios em percentual sobre o valor da causa, onde a Fazenda Pública aparece como parte e a sentença/acórdão é ilíquida, violou os artigos em tela, uma vez que deveria ter sido observado o valor da condenação ou o proveito econômico.
+Após decisum que inadmitiu o recurso especial, foi interposto o presente agravo, tendo osrecorrentes apresentado argumentos visando rebater os fundamentos da decisão agravada.
+É o relatório. Decido.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n.3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Considerando que osagravantes, além de atenderem aos demais pressupostos de admissibilidade deste agravo, lograram impugnar a fundamentação da decisão agravada, passo ao exame do recurso especial interposto.
+Da análise do acórdão, no que tange a indicada violação doart. 1.022do CPC/2015, não se vislumbra a alegação de que o acórdão recorrido não se manifestou acerca de pontos tidos como essenciais para o julgamento da lide.
+De acordo com a orientação deste Superior Tribunal de Justiça, os embargos de declaração destinam-se a suprir eventual omissão, obscuridade ou contradição, não tendo o Órgão Julgador a obrigação de se manifestar expressamente acerca de todos as disposições legais que as partes entendam ser aplicáveis, devendo, é claro, motivar suas decisões, de maneira fundamentada.
+Neste sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. PRESCRIÇÃO INTERCORRENTE. APLICAÇÃO DA SÚMULA 106/STJ. REEXAME PROBATÓRIO. SÚMULA 7/STJ. ART. 1.022 DO CPC/2015. ERRO MATERIAL, OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU CARÊNCIA DE FUNDAMENTAÇÃO. AUSÊNCIA.
+1. Os embargos declaratórios, nos termos do art. 1.022, e seus incisos, do CPC/2015, são cabíveis quando houver: a) obscuridade; b) contradição; c) omissão no julgado, incluindo-se nesta última as condutas descritas no art. 489, § 1º, que configurariam a carência de fundamentação válida; ou d) o erro material. No caso dos autos, tais hipóteses não estão presentes.
+2. Não há vício de fundamentação quando o aresto recorrido decide integralmente a controvérsia de maneira sólida e fundamentada, tal qual se constata no caso concreto.
+3. A análise da tese recursal que busca afastar a aplicação da Súmula 106/STJ demanda incursão na seara probatória, o que não é cabível na via especial. Incidência da Súmula 7/STJ.
+4. Esta Corte Superior possui entendimento de que a existência de penhora no rosto dos autos do processo falimentar impõe à Fazenda Pública a paralisação do executivo fiscal até que se verifique a possibilidade de satisfação do crédito, sem que essa paralisação seja imputada à inércia do ente público.
+5. Embargos de declaração rejeitados."(EDcl no AgInt no AREsp 600.416/MG, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 21/03/2017, DJe 27/03/2017.)
+Nesse panorama, a oposição dos embargos declaratórios caracterizou, tão somente, a irresignação dosembargantes diante de decisão contrária a seus interesses, o que não viabiliza o referido recurso.
+No mais, na hipótese dos autos, verifica-se que a irresignação dosrecorrentes vai de encontro às convicções do julgador a quo, que com lastro no conjunto probatório constante dos autos, concluiu que (fl. 325):
+(..)
+No que se refere aos honorários advocatícios, a fixação com base no valor dado à causa foi arbitrada de forma correta no acórdão, que, inclusive, remunera dignamente o causídico. Além disso, presume-se que o valor atribuído à causa pelo procurador (R$ 53.000,00 fls. 14) reflete uma estimativa do benefício econômico pretendido pelos autores, razão pela qual, deve ser adotado para fins de arbitramento da verba honorária, ainda que o julgado seja ilíquido.
+(..)
+Nesse diapasão, para rever tal posição e interpretar os dispositivolegaisindicados como violado, seria necessário o reexame desses mesmos elementos fático-probatórios, o que é vedado no âmbito estreito do recurso especial. Incide na hipótese o enunciado da Súmula n. 7/STJ.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a e b, do RISTJ, conheço do agravo para conhecer parcialmente do recurso especial e, nessa parte, negar-lhe provimento.
+Publique-se. Intimem-se.
