@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido liminar, impetrado em favor de MATEUS VIEIRA AMANCIO, apontando como ato coator o excesso de prazo, pelo Tribunal de Justiça do Estado de Minas Gerais,para o julgamento da admissibilidade de Recurso Especial interposto em face do acórdão de apelação n.1.0144.18.006459-0/001.
+Narra o Impetrante que o Paciente -preso preventivamente desde o dia 31/10/2018 - foi condenado, em 25/11/2019, às penas de 16 (dezesseis) anos de reclusão, em regime inicial fechado, e 16 (dezesseis) dias-multa, como incurso nos arts. 159, § 1º, 157, § 2º, inciso VI, e § 2º-A, inciso I, e 157, § 2º-A, inciso I, c.c. o art. 14, inciso II, todos do Código Penal, em continuidade delitiva.
+O Sentenciado interpôs recurso de apelação, que, em 28/07/2020,foi parcialmenteprovido pelo Tribunal estadual a fim de absolver o acusado da prática dos crimes previstos nos arts.157, § 2º, inciso VI, e § 2º-A, inciso I, e 157, § 2º-A, inciso I, c.c. o art. 14, inciso II, ambos do Código Penal, tendo sidomantida a condenação, às penas de 12 (doze) anos e 6 (seis) meses de reclusão, em regime inicial fechado, pelo cometimento do crime de extorsão mediante sequestro(fls. 16-35).
+O Condenado interpôs recurso especial em 20/10/2020, cuja admissibilidade estava pendente de julgamento pela Presidência do Tribunal de Justiça.
+Nestewrit, sustenta-se, em suma, que há excesso de prazo parao julgamento da admissibilidade do recurso especial e, consequentemente, da prisão cautelar.
+Requer-se, em liminar e no mérito, seja revogada a prisão preventiva, diante do alegado excesso de prazo.
+O pedido liminar foi indeferido (fls. 52-53).
+Foram prestadas informações às fls. 56-86 e 102-108.
+O Ministério Público Federal opinoupela denegação da ordem (fls. 127-130).
+A Parte Impetrante juntou aos autos andamento processual atualizado do Recurso Especial, no qual consta que foi publicado, no dia 03/06/2022, decisãonão admitindoa referida insurgência (fls. 121-122).
+É o relatório. Decido.
+Conforme relatado,já foi proferida decisãode inadmissibilidade do Recurso Especial interposto pela Defesa - já agravado -, de modo que houve asuperveniente perda do objeto do presentewrit, cuja tese é justamente o excesso de prazo para a apreciação da admissibilidade da referida insurgência.
+A propósito, cito o seguinte precedente desta Corte Superior de Justiça:
+" ..
+2. No caso, houve a perda supervenientedo interesse processual no writ, na parte em que se alegava excesso de prazo na tramitação do recurso especial, em razão de decisão proferida inadmitindo o recurso especial. .. "(EDcl no HC n. 645.934/BA, relatora Ministra LAURITA VAZ, Sexta Turma, julgado em 3/8/2021, DJe de 18/8/2021; sem grifos no original.)
+Cumpre registrar, ademais, que não há que se falar em excesso de prazo da custódia cautelar, pois já foi encerrada a instrução criminal ordinária, estando apenas pendentea apreciação de tesesde direito, considerando que o Recurso Especiale eventual Recurso Extraordinário não se prestam à apreciação de fatos e de provas.
+A título argumentativo, registre-se que sequer houve excesso de prazo durante a instrução, tendo em vista que a prisão do Paciente ocorreu no dia 31/10/2018, a sentença condenatória foi proferida no dia 25/11/2019 e o acórdão de apelação foi prolatado em 28/07/2020, circunstâncias que revelam a ausência de desídia estatal na condução do processo criminal.
+No mesmo sentido entendeu o Ministério Público Federal na judiciosa manifestação que instruiuo presentewrit, in verbis (fls. 128-129; sem grifos no original):
+"Ademais, quanto excesso de prazo do Tribunal de Justiça de Minas Gerais na tramitação do recurso especial, houve perda superveniente do objeto do writ, uma vez que o tribunal já proferiu decisão inadmitindo o recurso especial interposto por MATEUS VIEIRA AMANCIO, conforme se vê do andamento processual juntado a fls. 121/122. Nesse sentido:  ..
+Por fim, releva notar que a ação penal foi sentenciada, a apelação julgada e a admissibilidade do recurso especial já foi apreciado Tribunal de Justiça de Minas Gerais, sendo que defesa já interpôs agravo em recurso especial, conforme se verifica a fls. 119/120.
+No mais, segundo consulta realizada no sítio do Tribunal de Justiça de Minas Gerais, em 23/7/2021, consta expedição do ofício 760/21 prestando informações a esse STJ, afim de instruir o julgamento do HC 677.553/MG, no qual o impetrante sustenta "que a imputação do delito previsto no art. 159, § 1º, do Código Penal (extorsão mediante sequestro) deve ser desclassificada para o delito previsto no art 158, § 1.º, do Código Penal (extorsão com restrição de liberdade)", cujos autos foram conclusos 31/8/2021 para a ministra relatora. Portanto, tendo em vista que o tribunal tem diligenciado no sentido de dar andamento às ações nas quais o paciente MATEUS VIEIRA AMANCIO pretende rever os termos da sua condenação, não há excesso de prazo a justificar a concessão do writ:  .. "
+Ante o exposto, com fundamento no art. 34, inciso XX, do RISTJ, JULGO PREJUDICADO o pedido de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. ALEGAÇÃO DE EXCESSO DE PRAZO PARA O JULGAMENTO DA ADMISSIBILIDADE DO RECURSO ESPECIAL. SUPERVENIÊNCIA DE DECISÃOQUE INADMITIU A INSURGÊNCIA. PREJUDICIALIDADE. AUSÊNCIA DEEXCESSO DE PRAZO DA CUSTÓDIA CAUTELAR.WRITPREJUDICADO.
