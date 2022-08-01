@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de Recurso Especial interposto, com fundamento no art. 105, III, "a", da Constituição da República, contra acórdão assim ementado:
+ADMINISTRATIVO E PROCESSUAL CIVIL. SINDICATO NACIONAL DOS ANALISTAS TRIBUTÁRIOS DA RECEITA FEDERAL DO BRASIL. SERVIDOR PÚBLICO. INDENIZAÇÃO DO ADICIONAL DE FRONTEIRA. AÇÃO ANTERIOR TRANSITADA EM JULGADO. COISA JULGADA. EXTINÇÃO DO PROCESSO SEM RESOLUÇÃO DO MÉRITO. ART. 301, § 3º, DO CPC/73. SENTENÇA MANTIDA.
+1. Nos termos do art. 301, § 3º, do CPC de 1973, há coisa julgada quando se repete ação que já foi decidida por sentença, de que não caiba recurso.
+2. Da análise dos autos, verifica-se que a parte autora já havia ajuizado ação idêntica anteriormente, tombada sob o nº 009043-53.2015.4.01.3400, na qual pleiteou o pagamento de indenização (adicional de fronteira) para os seus substituídos, tendo a sentença sido improcedente, já com trânsito em julgado, inclusive. Na presente ação, o SINDIRECEITA requer o pagamento de "danos materiais" aos seus substituídos, com base na mesma legislação (Lei n. 12.855/2013), pelos mesmos motivos e no mesmo valor.
+3. Assim, confirmada a ocorrência da coisa julgada, deve ser mantida a sentença que extinguiu o processo sem resolução do mérito.
+4. Apelação da parte autora desprovida, nos termos do voto.
+A parte recorrente afirma que houve ofensa aos arts. 486 e 502 do CPC/2015. Alega:
+A decisão recorrida viola os art. 486 e art. 502, ambos do CPC, posto que, como de conhecimento, a coisa julgada definida no código deprocesso civil é apenas a material, sendo conceituada no artigo 502 do referido diploma como sendo a "coisa julgada material a autoridade que toma imutável e indiscutível a decisão de mérito não mais sujeita a recurso", ou seja, a coisa julgada material ocorre quando há decisão de mérito não sujeita a recurso, não havendo decisão de mérito, resolução da lide, estar-se-á diante de decisão formal, que pode existir sozinha, "como ocorrem nas sentenças meramente terminativas, que apenas extinguem o processo sem julgar a lide".
+(..)
+A sentença do processo 9043-53.2015.4.01.3400/DF que extinguiu o processo sem resolução de mérito, atraiu para o caso a chamada coisa julgada formal, que seria a regra em que o magistrado estaria impedido de reapreciar, dentro do mesmo processo as questões ou pontos já decididos, mas não impede de apreciá-los em outro processo, como ocorre no caso emtela, uma vez que foi ajuizada nova ação, a ação objeto do presente recurso especial.
+Contrarrazões às fls. 330-337, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 1º.7.2022.
+Observo que o Tribunal a quo não emitiu juízo de valor sobre as questões jurídicas levantadas em torno dos arts. 486 e 502 do CPC/2015.
+O Superior Tribunal de Justiça entende ser inviável o conhecimento do Apelo Nobre quando os artigos tidos por violados não foram apreciados pelo Colegiado de origem, a despeito da oposição de Embargos de Declaração, haja vista a ausência do requisito do prequestionamento. Incide, na espécie, a Súmula 211/STJ.Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. INFRAÇÃO ADMINISTRATIVA. AUSÊNCIA DE NULIDADE DE AUTO DE INFRAÇÃO. COMPETÊNCIA DO DNIT PARA APLICAR MULTAS DE TRÂNSITO.AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. ALEGAÇÃO DE VIOLAÇÃO DO ART. 535 DO CPC. INEXISTÊNCIA.
+1. Não se conhece da violação a dispositivos infraconstitucionais quando a questão não foi enfrentada pelo acórdão recorrido, carecendo o recurso especial do necessário prequestionamento (Súmula 211/STJ).
+2. Ao persistir a omissão no acórdão recorrido, após o julgamento dos embargos de declaração, imprescindível a alegação de violação do art. 535 do Código de Processo Civil por ocasião da interposição do recurso especial, sob pena de incidir no intransponível óbice da ausência de prequestionamento.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.596.787/RS, Rel. Ministro Og Fernandes, Segunda Turma, DJe 23/9/2016.)
+Em conformidade com a orientação remansosa desta Corte, caberia à parte, nas razões recursais, alegar violação do artigo 1.022 do CPC/2015, a fim de que o STJ pudesse averiguar a existência de possível omissão no julgado, o que não foi feito.Cito precedente:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. EMBARGOS DE TERCEIRO. AFASTAMENTO DE PENHORA SOBRE 50% DO IMÓVEL EXECUTADO. FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA. BASE DE CÁLCULO.PROVEITO ECONÔMICO. AUSÊNCIA DE PREQUESTIONAMENTO. PREQUESTIONAMENTO FICTO. NÃO OCORRÊNCIA. SÚMULA Nº 211/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Nos termos da jurisprudência consolidada no âmbito do STJ, para que se configure o prequestionamento não basta que o recorrente devolva a questão controvertida ao Tribunal, é necessário que a causa tenha sido decidida à luz da legislação federal indicada, bem como tenha sido exercido juízo de valor sobre o dispositivo legal apontado e a tese recursal a ele vinculada, avaliando-se a sua aplicação ou não ao caso concreto. Precedentes.
+3. Da mesma forma, este Tribunal Superior firmou o entendimento de que não basta a oposição de embargos de declaração para a configuração do prequestionamento ficto, sendo imprescindível que a parte aponte, nas razões do recurso especial, a violação do art.1.022 do NCPC, para que o Tribunal esteja autorizado a examinar eventual ocorrência de omissão no acórdão recorrido, a qual, se constatada, dará ensejo à supressão de grau facultada pelo art.1.025 do NCPC. Precedentes.
+4. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+5. Agravo interno não provido.
+(AgInt no AREsp 1.549.171/MS, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe 18/12/2019.)
+Ademais, é evidente que, para modificar o entendimento firmado no aresto recorrido, seria necessário exceder as razões nele colacionadas, o que demanda incursão no contexto fático-probatório dos autos, vedada pela via especial, conforme Súmula 7 desta Corte: "A pretensão de simples reexame de prova não enseja Recurso Especial".
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Por tudo isso, não conheço do Recurso Especial.
+Publique-se.
+Intimem-se.
