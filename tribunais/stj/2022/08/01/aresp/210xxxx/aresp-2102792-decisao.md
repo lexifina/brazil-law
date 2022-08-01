@@ -1,0 +1,16 @@
+DECISÃO
+Na origem trata-se de ação declaratória de inexistência de débito previdenciário, objetivando fosse declaradaainexistência do débito que lhe é imputado relativo à aposentadoria por tempo de contribuição; a devolução dos valores descontados desde julho/2015; e a condenação do Réu ao pagamento de indenização, a título de danos morais. Na sentença julgou-se parcialmente procedente o pedido, condenando o INSS a) cessar os descontos relacionados aos valores pagos com base no NB 42/108.269.102-7, incidentes sobre o NB42/132.253.961-5, b) devolver à parte autora os montantes já descontados, corrigidos monetariamente pela variação do IPCA/E, a contar de cada desconto indevido. No Tribunal a quo a sentença foi reformada, julgando improcedenteo pedido do autor. O valor da causa foi fixado em R$ 58.000,00.
+O recurso especial foi interposto no TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO, contra acórdão com o seguinte resumo de ementa:
+APELAÇÃO. ADMINISTRATIVO. CONCESSÃO DE BENEFÍCIO PREVIDENCIÁRIO AUTORIZADOMEDIANTE FRAUDE. COMPROVAÇÃO. PRINCÍPIOS DA LEGALIDADE E MORALIDADEADMINISTRATIVA. PRESUNÇÃO DE LEGITMIDADE E VERACIDADE DOS ATOSADMINISTRATIVOS. ÔNUS DA PARTE DEMANDANTE. RESSARCIMENTO AO ERÁRIO. SENTENÇA REFORMADA.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+Como mencionado pelo INSS, o benefício previdenciário foi concedido mediante cartão magnético, o qual não precisa de vínculo com os bancos pagadores, uma vez que em tal modalidade o beneficiário deve sacar o benefício na instituição bancária indicada pela autarquia, a partir da data de pagamento do seu benefício, isto é, não é o segurado que escolhe o banco no qual pretende receber.
+Logo, nota-se que o demandante não se desincumbiu de seu ônus de apresentar documentos e provas que infirmassem as conclusões da Administração Pública.
+ ..
+Diante da comprovação da prática dos atos configuradores da fraude no recebimento do benefício, por motivo lógico, não há que se falar em indenização por danos morais.
+Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 1% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
