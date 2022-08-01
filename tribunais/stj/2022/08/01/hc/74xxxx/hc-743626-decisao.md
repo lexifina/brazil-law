@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor deADAIR RONCHI NETOapontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO(Apelaçãon. 1501141-78.2020.8.26.0648).
+Depreende-se dos autos que o paciente foi condenado a 9 anos e 2 mesesde reclusão, no regime inicialmente fechado, pelo crime de tráfico de drogas (art. 33 da Lei n. 11.343/2006), em razão da posse de aproximadamente 102g (cento e dois gramas) de cocaína.
+Interposta apelação, o Tribunal de origem deu parcialprovimento ao recurso para reduzir a pena para 6 anos, 9 meses e 20 dias de reclusão. Eis a ementa (e-STJ fl. 24):
+Tráfico ilícito de entorpecentes - Inépcia da denúncia não caracterizada - Peça que atende aos requisitos legais - Autoria e materialidade delitiva comprovadas pelos elementos constantes dos autos - Absolvição descabida - Pedido de desclassificação para o artigo 28 da Lei nº 11.343/06 afastado - Pena que demanda pequeno reparo - Inaplicabilidade do redutor estabelecido pelo artigo 33, § 4º da Lei nº 11.343/06 - Réu portador de maus antecedentes e reincidente - Regime fechado que melhor se ajusta ao início do cumprimento da pena - Recurso parcialmente provido.
+Daí o presente writ, no quala defesa sustenta a necessidade de afastamento da agravantede calamidade pública (art. 61, II, j, do CP), requerendo a concessão da ordem para redimensionar a pena do paciente.
+A liminar foi indeferida (e-STJ fls. 36/37).
+Informações prestadas (e-STJ fls. 41/43 e 46/72).
+O Ministério Público Federal manifestou-se pela concessão da ordem (e-STJ fls. 74/76).
+É o relatório.
+Decido.
+Preliminarmente cumpre ressaltar que, na esteira da orientação jurisprudencial desta Corte, por se tratar de questão afeta a certa discricionariedade do magistrado, a dosimetria da pena é passível de revisão em habeas corpus apenas em hipóteses excepcionais, quando ficar evidenciada flagrante ilegalidade, constatada de plano, sem a necessidade de maior aprofundamento no acervo fático-probatório.
+No caso em tela, assim foi fundamentada a dosimetria da pena pelo Tribunal local, ipsis litteris (e-STJ fls. 30/32):
+A dosimetria penal, por sua vez, inspira retoques.
+Na primeira etapa, a basal foi fixada em  (metade) acima do piso legal, com fundamento nos maus antecedentes (fls. 36) e na quantidade e natureza do narcótico.
+Contudo, as circunstâncias e consequências do crime são ordinárias à espécie e a quantidade constrita junto ao acusado, pelos nortes deste juízo, não se revelou vultosa ou extraordinária, a justificar implemento com fundamento nos artigos 42 e 43 da Lei de Drogas. E isso vem orientado pelo costumeiramente havidoem hipóteses tais, de varejo específico.
+Desta feita, devido o incremento da basal tão somente em 1/6 (um sexto), pelos maus antecedentes, a culminar em 05 (cinco) anos e 10 (dez) meses de reclusão e 583 (quinhentos e oitenta e três) dias-multa.
+Na segunda etapa, devida a compensação da agravante da reincidência (fls. 35) com a atenuante de confissão espontânea, na esteira do entendimento já consolidado pelo C. STJ, em sede de recurso repetitivo, inclusive. Confira-se:
+ ..
+Já a agravante prevista no artigo 61, inciso II, alínea "j" do Código Penal, autoriza o incremento da pena no percentual de 1/6 (um sexto), a culminar em 06 (seis) anos, 09 (nove) meses e 20 (vinte) dias de reclusão, mais 680 (seiscentos e oitenta) dias-multa.
+Nesse particular, ressalta-se que a dita agravante (do art. 61, inc. II, alínea "j", do Código Penal) deve permanecer, pois a falta foi praticada durante a vigência do estado de calamidade pública decorrente da pandemia da COVID-19, reconhecida por meio do Decreto nº 64.879/2020, o que torna ainda mais reprovável a conduta do réu. Justifica-se, ademais, a aplicação da agravante mencionada, vez que o cometimento do crime em tempos de pandemia, demonstra insensibilidade moral do agente para com a solidariedade social. Nem se perde de vista que é um período em que a vigilância estatal está mais defasada, sobretudo diante da redução do número de policiais nas ruas e das operações por eles realizadas.
+E à vista dos maus antecedentes e da recidiva, não se haveria cogitar da redução trazida pelo § 4º do artigo 33 da Lei de Drogas.
+A pena, então, fica definitivamente assentada em 06 (seis) anos, 09 (nove) meses e 20 (vinte) dias de reclusão, mais 680 (seiscentos e oitenta) dias- multa, no piso legal.(Grifei.)
+Pois bem.
+Do exame do excerto acima transcrito, verifica-se que deve ser decotada a agravante de calamidade pública, pois o entendimento esposado no acórdão destoa da jurisprudência desta Corte, segundo a qual "a incidência da agravante da calamidade pública pressupõe a existência de situação concreta dando conta de que o paciente se prevaleceu da pandemia para a prática delitiva" (HC n. 625.645/SP, relatorMinistro FELIX FISCHER, DJe 4/12/2020), o que não ocorreu na espécie.
+Nesse mesmo sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. IRRESIGNAÇÃO MINISTERIAL. ROUBO SIMPLES. AGRAVANTE DO CRIME PRATICADO EM ESTADO DE CALAMIDADE PÚBLICA. NÃO DEMONSTRAÇÃO DE QUE O AGENTE SE PREVALECEU DESSA CIRCUNSTÂNCIA PARA A PRÁTICA DO DELITO. AGRAVANTE AFASTADA, COM A CONSEQUENTE REDUÇÃO DA PENA E ABRANDAMENTO DO REGIME INICIAL.DECISÃO MANTIDA. AGRAVO NÃO PROVIDO.
+1. A incidência da agravante da calamidade pública pressupõe a existência de situação concreta dando conta de que o paciente se prevaleceu da pandemia para a prática delitiva(HC 625.645/SP, Rel.Ministro FELIX FISCHER, DJe 04/12/2020). No mesmo sentido, dentre outros: HC 632.019/SP, Rel. Ministro FELIX FISCHER, DJe 10/2/2021;HC 629/981/SP, Rel. Ministro JOEL ILAN PACIORNIK, DJe 9/2/2021; HC 620.531/SP, Ministro SEBASTIÃO REIS JÚNIOR, DJe 3/2/2021.
+2. Hipótese em que a agravante prevista no art. 61, inciso II, alínea j, do Código Penal foi aplicada apenas pelo fato de o delito ter sido praticado na vigência do Decreto Estadual nº 64.879 e do Decreto Legislativo nº 06/2020, ambos de 20.03.2020, que reconhecem estado de calamidade pública no Estado de São Paulo em razão da pandemia da COVID-19, sem a demonstração de que o agente se aproveitou do estado de calamidade pública para praticar o crime em exame, o que ensejou o respectivo afastamento, com o redimensionamento da pena e o abrandamento do regime inicial.
+3. Agravo regimental não provido.
+(AgRg no HC n. 655.339/SP, relator Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 13/4/2021, DJe 19/4/2021.)
+Como visto, a agravante prevista no art. 61, inciso II, alíneaj, do Código Penal foi aplicada apenas pelo fato de o delito ter sido praticado na vigência de decreto legislativo que reconheceu a situação de calamidade pública resultante da pandemia da covid-19.
+Contudo,não foi demonstradoque o agente se aproveitou do estado de calamidade pública para a prática do crime apurado nos autos, o que corrobora o respectivo afastamento, com o redimensionamento da pena.
+Assim, mantidos os demais parâmetros dosimétricos e afastada a referida agravante, fica a pena do paciente consolidada em 5 anos e 10 meses de reclusão, mais 583 dias-multa.
+Ante o exposto, concedo a ordem para redimensionar a pena do paciente para5 anos e 10 meses de reclusão, mais 583 dias-multa, mantidos os demais termos da condenação.
+Publique-se. Intimem-se.
