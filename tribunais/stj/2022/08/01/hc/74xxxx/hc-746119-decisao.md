@@ -1,0 +1,21 @@
+DESPACHO
+Trata-se de habeas corpus impetrado em favor de EDER SANTOS DA SILVAcontra acórdão doTribunal Regional Federal da 3ª Região, assim ementado (Apelação Criminal n.0000334-69.2019.4.03.6104) (fl. 616):
+PENAL. PROCESSO PENAL. APELAÇÃO CRIMINAL. ARTS. 33 E 35 C.C. ART. 40, I DA LEI 11.343/06. INCOMPETÊNCIA DO JUÍZO. INÉPCIA DA DENÚNCIA. VIOLAÇÃO À CADEIA DE CUSTÓDIA. PRELIMINARES AFASTADAS. MATERIALIDADE DEMONSTRADA. DROGA NÃO APREENDIDA. COMPROVAÇÃO POR OUTROS MEIOS DE PROVA. POSSIBILIDADE. AUTORIA COMPROVADA. ANÁLISE DE IMAGENS. DEPOIMENTOS TESTEMUNHAIS. PROVA DOCUMENTAL. DOSIMETRIA DAS PENAS. PENA-BASE. MAUS ANTECEDENTES. REINCIDÊNCIA. CONSTITUCIONALIDADE. CAUSA DE AUMENTO. TRANSNACIONALIDADE. REGIME INICIAL FECHADO. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITO. REQUISITOS NÃO PREENCHIDOS.
+Apelação não provida.
+Opaciente foi condenadoàs penas de 13anos, 1 mês e 26 dias de reclusão em regime fechado e de 1.858 dias-multa, pela prática dos crimes descritos nos arts. 33, caput, c/c o art. 40, I, (por 2 vezes); e 35, caput,c/c o art. 40, I -todos da Lei n. 11.343/2006 -,investigadonaOperação Alba Vírus.
+Neste habeas corpus, a defesa aponta estar o paciente sofrendo constrangimento ilegal decorrente de condenação pelo delito do art. 33 da Lei n.11.343/2006, sem a apreensão de qualquer entorpecente,e dabusca e apreensão motivada em denúncia anônima "desamparada de qualquer elemento corroborativo" (fl. 7).
+Defende que o acórdão recorrido incorreu em violação dos princípios da ampla defesa, do contraditório e do devido processo legal.
+Salienta que o paciente tem contra si mandado de prisão preventivapendente de cumprimento, o que justifica a impetração deste writ.
+Requer, liminarmente, a suspensão da eficácia do mandado de prisão expedido contra o paciente. Nomérito, pleiteiaa concessão da ordem para determinar o trancamento da ação penal relativa àscondenações pela prática do art. 33, caput, da Lei n.11.343/2006, por ausência de materialidade,e declarar a nulidade da decisão de busca e apreensão e demais provas dela decorrentes.
+Liminar indeferida.
+Prestadas informações, o Ministério Público Federal manifestou-se pelo não conhecimento da impetração.
+É o relatório. Decido.
+O writ não merece prosperar.
+O Superior Tribunal de Justiça consolidou entendimento no sentido de que fica prejudicado o pedido de trancamento da ação penal pela superveniência da sentença penal condenatória, independentemente da ocorrência ou não do trânsito em julgado, pois, conforme o enunciado da Súmula n. 648 do STJ, "a superveniência da sentença condenatória prejudica o pedido de trancamento da ação penal por falta de justa causa feito em habeas corpus".
+Isso porque, durante o trâmite da persecução penal, a questão foi apreciada a fundo, não sendo viável, na estreita via do habeas corpus, desconstituir a condenação. (EDcl no HC n. 627.508/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 14/5/2021; e, AgRg no HC n. 656.638/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 25/6/2021.)
+Por outro lado, como informado às fls. 789-841, em 12/4/2022, a defesa do paciente interpôs recurso especial e extraordinário contra o acórdão impugnado, ainda pendentes de admissibilidade no TRF 3ª Região.
+A Terceira Seção do Superior Tribunal de Justiça, no julgamento do HC n. 482.549/SP, assentou que "a interposição do recurso cabível contra o ato impugnado e a contemporânea impetração de habeas corpus para igual pretensão somente permitirá o exame do writ se for este destinado à tutela direta da liberdade de locomoção ou se traduzir pedido diverso em relação ao que é objeto do recurso próprio e que reflita mediatamente na liberdade do paciente. Nas demais hipóteses, o habeas corpus não deve ser admitido e o exame das questões idênticas deve ser reservado ao recurso previsto para a hipótese, ainda que a matéria discutida resvale, por via transversa, na liberdade individual"(relator Ministro Rogerio Schietti Cruz, julgado em 11/3/2020, DJe de 3/4/2020, destaquei.)
+Portanto, não deve ser admitido o habeas corpus substitutivo de recurso próprio, sobretudo quando se trata de reiteração de recurso especial já interposto pendente de julgamento.
+Ante o exposto, não conheço do habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
