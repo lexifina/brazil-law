@@ -1,0 +1,29 @@
+DECISÃO
+LUIZ FELIPE NASCIMENTO SILVA agrava da decisão que não admitiu o seu recurso especial, interposto com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais(Apelação Criminal n. 1.0567.19.007207-2/001).
+Consta dos autos que o ora agravantefoi condenado pela prática dos crimes previstos nos arts. 33, caput, da Lei n. 11.343/2006, e 14 da Lei n. 10.826/2003, em concurso material.
+Nas razões do recurso especial, a defesa apontaviolação dos arts. 40, IV, da Lei n. 11.343/2006 e 14, caput, da Lei n. 10.826/2003, sob o argumento de queo uso da arma de fogo estava diretamente ligada ao tráfico de drogas, razão pela qual deveria ser afastada a condenação em relação ao crime previsto no art. 14 da Lei n. 10.826/2003, aplicando-se, no lugar, a majorante descrita no art. 40, IV, da Lei n. 11.343/2006.
+O recurso especial foi inadmitido durante o juízo prévio de admissibilidade realizado pelo Tribunal de origem, o que ensejou a interposição deste agravo.
+O Ministério Público Federal manifestou-se pelo conhecimento do agravo, para não se conhecer do recurso especial.
+Decido.
+O agravo é tempestivo e infirmou os fundamentos da decisão agravada, motivo pelo qual passo à análise do recurso especial.
+No que se refere à pretendida condenação do recorrente pela prática do crime descrito no art. 33, caput, com a aplicação da causa especial de aumento de pena prevista no art. 40, IV, da Lei n. 11.343/2006, e não pela prática do delito de tráfico de drogas em concurso material com o ilícito do art. 14 da Lei n. 10.826/2003, como estabelecido pela instânciade origem, necessário se faz, para melhor análise da questão sub examine, transcrever o disposto no art. 14 do Estatuto do Desarmamento:
+Porte ilegal de arma de fogo de uso permitido
+Art. 14. Portar, deter, adquirir, fornecer, receber, ter em depósito, transportar, ceder, ainda que gratuitamente, emprestar, remeter, empregar, manter sob guarda ou ocultar arma de fogo, acessório ou munição, de uso permitido, sem autorização e em desacordo com determinação legal ou regulamentar:
+Pena - reclusão, de 2 (dois) a 4 (quatro) anos, e multa.
+ ..
+Já o inciso IV do art. 40 da Lei n. 11.343/2006, por sua vez, prevê causa especial de aumento de pena relativa ao crime de tráfico de drogas cometido com o emprego de arma de fogo:
+Art. 40. As penas previstas nos arts. 33 a 37 desta Lei são aumentadas de um sexto a dois terços, se:
+ ..
+IV - o crime tiver sido praticado com violência, grave ameaça, emprego de arma de fogo, ou qualquer processo de intimidação difusa ou coletiva;
+Conforme visto, a Lei n. 11.343/2006 prevê como causa especial de aumento, para os crimes previstos nos arts. 33 a 37, efetivo emprego de arma de fogo, em que o agente porta ilegalmente a arma para viabilizar o cometimento do delito de narcotráfico, e não o fato de possuir ou de portar concomitantemente arma de fogo de uso restrito ou permitido.
+Isso significa que "A absorção do crime de porte ou posse ilegal de arma pelo delito de tráfico de drogas, em detrimento do concurso material, deve ocorrer quando o uso da arma está ligado diretamente ao comércio ilícito de entorpecentes, ou seja, para assegurar o sucesso da mercancia ilícita. Nesse caso, trata-se de crime meio para se atingir o crime fim que é o tráfico de drogas, exige-se o nexo finalístico entre as condutas de portar ou possuir arma de fogo e aquelas relativas ao tráfico." (HC n. 182.359/RJ, Rel. Ministro Marco Aurélio Bellizze, 5ª T., DJe 4/12/2012).
+Assim, havendo conflito aparente de normas entre o crime previsto no art. 14 do Estatuto do Desarmamento e a majorante descrita no art. 40, IV, da Lei n. 11.343/2006, deve prevalecer a condição especial de a arma pertencer ou estar sendo empregada para assegurar o sucesso do tráfico de drogas.
+Sobre a matéria posta em discussão, verifico que a Corte estadual salientou que "Apesar de ter sido apreendida no mesmo local em que foram encontradas as drogas, não há nada nos autos indicando que a arma teria sido utilizada para a intimidação de terceiros para viabilizar a nefasta mercancia ilícita de entorpecentes" (fl. 334, grifei).
+Portanto, não ficou evidenteque o delito de tráfico de drogas foi perpetrado com o emprego de arma de fogo (caso em que incidiria a majorante em questão), visto que não está incontroverso que a arma apreendida estava sendo utilizada como processo de intimidação difusa ou coletiva para viabilizar exclusivamente a prática do narcotráfico.
+Ou seja, segundo entendeu a Corte estadual, após a minudente análise doconjunto fático-probatório amealhado aos autos, houve desígnios autônomos e condutas diversas quando da prática dos crimes de tráfico de drogas e porte ilegal de arma de fogo de uso permitido, motivo pelo qual não há como acolher o pretendido reconhecimento da majorante descrita no inciso IV do art. 40 da Lei de Drogas.
+De mais a mais, é inequívoca a conclusão de que,para concluir-se que a arma de fogo estava sendo utilizada como meio de intimidação difusa para assegurar o sucesso da mercancia ilícita de drogas, seria necessário o revolvimento de matéria fático-probatória, providência, conforme cediço, vedada em recurso especial, a teor do que enunciado na Súmula n. 7 do STJ.
+Essa, aliás, também foi a conclusão do Ministério Público Federal, que, em seu parecer, assim se manifestou, no que interessa (fl. 417):
+ ..
+Ora, em tendo a Corte de origem consignado inexistir prova nos autos indicando que a arma de fogo estaria sendo utilizada como intimidação difusa ou coletiva para viabilizar a prática do narcotráfico, não é possível falar na aplicação da majorante em questão, sendo certo que conclusão diversa demandaria o indevido revolvimento fático-probatório dos autos, o que é inviável diante do óbice do enunciado da Súmula n. 7 do STJ.
+À vista do exposto, conheço do agravo e nego provimento ao recurso especial.
+Publique-se e intimem-se.
