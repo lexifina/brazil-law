@@ -1,0 +1,25 @@
+DECISÃO
+JOSÉ MARKSULIVAN VIRGOLINO BATISTAalega sofrer coação ilegal diante de acórdão proferido pelo Tribunal de Justiça do Estado de Mato Grosso do Sul no HC n. 1406833-73.2022.8.12.0000.
+Nesta Corte, a defesa postula a concessão de liberdade provisória ao réu, por considerar insuficientes os fundamentos exarados para converter a prisão em flagrante, pela suposta prática de crime de tráfico de drogas, em custódia preventiva. Afirma que o acusado foi contratado como "mula" para transporte de entorpecente, sem nenhuma vinculação com organização criminosa.
+De plano, não vejo como dar seguimento ao recurso,por não identificar situação que afronte a jurisprudência desta Corte Superior.
+A decisão proferida pelo Juízo singular ressalta que (fl. 14, grifei):
+O laudo preliminar de constatação apontou resultado positivo para maconha, pesando 600 kg, e 12kg de skunk ao ser realizado exame nas substâncias apreendidas e atribuídas ao flagrado para fins de entrega a terceiras pessoas, o que inclusive foi previamente confirmado pelo autuado, pois durante o interrogatório ele admitiu ter sido contratado para realizar o tranporte mediante promessa de pagamento de R$ 10.000,00, o que também está preliminarmente de acordo com o relato das testemunhas.
+Com efeito, a reunião de tais elementos informativos não deixa dúvida de que existem fundados indícios de autoria da prática do delito imputado ao averiguado, portanto o fumus comissi delicti está presente.
+Nesse contexto, não há de se perder de vista que a comercialização de droga com alto potencial destrutivo evidencia a extrema gravidade concreta do delito, pois a distribuição deste nefasto e poderoso entorpecente teria o condão de devastar a saúde pública dos munícipes, destruindo a vida de crianças, jovens, adultos, idosos e famílias inteiras expostos à droga, que a reboque ainda ajuda no incremento da criminalidade, vez que o usuário não raramente comete delitos patrimoniais para sustentar o vício.
+Isso sem contar que a grande quantidade, bem como a variedade do entorpecente reflete diretamente na gravidade concreta da infração, sobretudo porque os elementos preliminares também apontam o envolvimento de organização criminosa voltada para o tráfico de drogas interestadual, o que certamente também repercute na periculosidade do agente, logo é óbvio o risco que sua liberdade representa nesse momento, de modo que periculum libertatis é evidente.
+Além do mais, entendo que a gravidade concreta do fato sub examine aponta que nenhuma outra cautelar menos severa que a prisão terá o efeito garantir a ordem pública, de modo que a medida extrema é insubstituível, apresentando-se necessária e adequada na forma preconizada pelo art. 282 do Código de Processo Penal.
+A prisão preventiva possui natureza excepcional, sempre sujeita a reavaliação, de modo que a decisão judicial que a impõe ou a mantém, para compatibilizar-se com a presunção de não culpabilidade e com o Estado Democrático de Direito - o qual se ocupa de proteger tanto a liberdade individual quanto a segurança e a paz públicas -, deve ser suficientemente motivada, com indicação concreta das razões fáticas e jurídicas que justificam a cautela, nos termos dos arts. 312, 313, 315 e 282, I e II, do Código de Processo Penal, com as alterações dispostas pela Lei n. 13.964/2019.
+Na hipótese, a moldura fática delineada pelo Juízo singular não permite verificar que se trata de pessoa que atuou unicamente na função de "mula", tampouco que desconhecia a elevada quantidade de entorpecente recebida para transporte.
+Ademais, observo que o decisum combatido, ao considerar que as circunstâncias que permeiam a supsota prática ilícita-transporte interestadual de cerca de 600 kg de maconha, mais 12 kg de skunk-são indicativas da gravidade concreta da conduta e, por conseguinte, justificam a imposição da cautela extrema, está em consonância com a jurisprudência desta Corte Superior. A propósito:
+ ..
+2. No caso, a custódia cautelar está suficientemente fundamentada na garantia da ordem pública, haja vista a gravidade concreta da conduta delitiva, pois o recorrente foi surpreendido transportando, no interior das portas de um veículo, 32,267 kg de cocaína, o que indica a especial gravidade do fato, recomendando, assim, a manutenção do encarceramento.
+3. Agravo regimental desprovido.
+(AgRg no RHC n. 161.900/MT, Rel. Ministro Ribeiro Dantas, 5ª T., DJe de 17/6/2022, destaquei)
+ ..
+2. No caso, a prisão preventiva está justificada, pois a decisão que a impôs fez referência ao fato de o paciente integrar organização criminosa especializada na prática de tráfico interestadual e intermunicipal de drogas, com a apreensão de mais de 500kg (quinhentos quilogramas) de maconha. Assim, a prisão se faz necessária para garantir a ordem pública, evitando o prosseguimento das atividades criminosas desenvolvidas.
+ ..
+6. Ordem denegada.
+(HC n. 698.360/MA, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe de 14/3/2022, grifei)
+Logo, não constato flagrante ilegalidade na espécie.
+À vista do exposto, indefiro liminarmente o recurso em habeas corpus.
+Publique-se e intimem-se.
