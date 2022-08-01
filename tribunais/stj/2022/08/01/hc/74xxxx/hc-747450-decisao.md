@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de LUAN HENRIQUE GUILHERME BARBINO contra v. acórdão proferido pelo eg. Tribunal de Justiça do Estado de São Paulo, nos autos da apelação criminal n. 1500329-75.2021.8.26.0559.
+Depreende-se dos autos que o paciente foi condenado, em primeira instância, às penas de 08 (oito) anos de reclusão, em regime inicial fechado, mais o pagamento de 520 (quinhentos e vinte) dias-multa, como incurso nas iras do art. 33, caput, da Lei n. 11.343/2006; 14 da Lei n. 10826/2003; e 180, caput, do Código Penal (fls. 31-36).
+Inconformada, a defesa interpôs apelação perante o eg. Tribunal de origem, que, por unanimidade, negou provimento ao recurso, consoante voto condutor do v. acórdão de fls. 15-30.
+Daí o presente writ, no qual a defesa alega, em síntese, a ocorrência de constrangimento ilegal, pois o paciente faz jus à aplicação do tráfico privilegiado.
+Argumenta que "a ausência de ocupação lícita não constitui motivação idônea para afastar a minorante (AgRg no AREsp 1863528/SP), e a quantidade de drogas deveria ser utilizada com preponderância na primeira fase da dosimetria, não sendo um requisito idôneo para o afastamento da minorante, tendo em vista que não há nos autos quaisquer provas de que o paciente se dedicava a atividade criminosa" (fl. 7).
+Afirma que "a quantidade e a natureza da droga não são aptas, por si sós, a comprovar o envolvimento com o crime organizado ou a dedicação à atividade criminosa" (fl. 11).
+Requer, assim, a concessão da ordem.
+A liminar foi indeferida (fls. 49-50).
+Informações prestadas às fls. 53-78.
+O Ministério Público Federal, às fls. 82-84, manifestou-se pela denegação da ordem, em parecer assim ementado:
+"PENAL. PROCESSO PENAL. TRÁFICO DE DROGAS. INCIDÊNCIA DO ART. 33-§4º DA LEI Nº 11.343/2006. IMPOSSIBILIDADE.
+1. O pedido de redução da pena do paciente, em razão da aplicação do art. 33-§4º da Lei nº 11.343/2006, não deve ser provido. Segundo a lei penal vigente, a culpabilidade do paciente é definida por aspectos subjetivos e objetivos de sua conduta, influindo na quantificação de pena que lhe será aplicada. Ademais, as circunstâncias judiciais do crime também devem ser levadas em consideração.
+2. O paciente, além de ter sido apreendido com crack e balança de precisão, também possuía em seu poder arma de fogo, a qual ele sabia ser objeto do crime de furto. Os fatos narrados nos autos indicam que o paciente se dedicava a atividades criminosas e impedem a aplicação do benefício previsto no art. 33-§4º da Lei nº 11.343/2006.
+-Parecer pela denegação da ordem de habeas corpus" (fl. 82).
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+Dessarte, passo ao exame das razões veiculadas no mandamus.
+Conforme relatado, busca-se na presente impetração a aplicação do tráfico privilegiado.
+Inicialmente, cumpre asseverar que a via do writ somente se mostra adequada para a análise da dosimetria da pena se não for necessária uma análise aprofundada do conjunto probatório e caso se trate de flagrante ilegalidade. Vale dizer, o entendimento deste Tribunal firmou-se no sentido de que a "dosimetria da pena insere-se dentro de um juízo de discricionariedade do julgador, atrelado às particularidades fáticas do caso concreto e subjetivas do agente, somente passível de revisão por esta Corte no caso de inobservância dos parâmetros legais ou de flagrante desproporcionalidade" (HC n. 400.119/RJ, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 1º/8/2017).
+Transcrevo, a fim de delimitar a quaestio, os seguintes trechos do v. acórdão impugnado:
+"Corretamente afastada a incidência da causa de diminuição prevista no artigo 33, §4º, da Lei nº 11343/06. As circunstâncias em que se deram a prisão em flagrante do réu, com grande quantidade de entorpecente de alto poder viciante (crack),além de uma balança com resquícios de cocaína e maconha (laudo pericial de fls. 135/137), certa quantia em dinheiro sem comprovação inequívoca da origem lícita, e da pluralidade de crimes, indicam rotina de proceder, fato este impeditivo da aplicação do referido benefício" (fls. 24-25).
+Em relação ao tráfico privilegiado, esta Corte Superior assentou o entendimento de que "a criação da referida causa especial de diminuição de pena tem suas raízes em questões de política criminal, surgindo como um favor legislativo ao pequeno traficante, ainda não envolvido em maior profundidade com o mundo criminoso, de forma a propiciar-lhe uma oportunidade mais rápida de ressocialização" (REsp n. 1329088/RS, Terceira, Seção, Rel. Min. Sebastião Reis Júnior, DJe de 26/4/2013).
+A despeito da quantidade de droga apreendida - 123,18g de crack -, há outros elementos aptos a afastar o tráfico privilegiado.
+Conforme exposto pelas instâncias ordinárias, a paciente, por ocasião da prisão em flagrante, portava revólver calibre 38 "Rossi" sem autorização legal, delito pelo qual o pacinte restou condenado.
+Assim, a dedicação do paciente à atividade delitiva está evidenciada. A propósito: AgRg no AREsp n. 1923643/AL, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 21/02/2022; AgRg no HC n. 559.054/MS, Quinta Turma, Rel. Min. Felix Fischer, DJe de 03/06/2020; e HC n. 474.965/RJ, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 07/03/2019.
+Ademais, o paciente nesses autos fora condenado, também, pelo crime de receptação da referida arma.
+De mais a mais,o Tribunal local consignou que foi encontradocom o paciente petrechoutilizadocomumente no comércio espúrio de drogas: uma balança de precisão.
+Portanto, a Corte originária se convenceu de que o paciente se dedicava, efetivamente, às atividades criminosas, porque não se tratava de traficante ocasional.
+Ademais, rever o entendimento das instâncias ordinárias para fazer incidir a causa especial de diminuição demandaria, necessariamente, amplo revolvimento da matéria fático-probatória, procedimento que, a toda evidência, é incompatível com a estreita via do mandamus. Nessa linha: HC n. 479.453/MS, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 23/05/2019; AgRg no HC n. 457.335/MS, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 1º/03/2019; e HC n. 372.973/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 23/2/2017.
+Diante de tais considerações, portanto, não se vislumbra a existência de qualquer flagrante ilegalidade passível de ser sanada pela concessão da ordem de ofício.
+Ante o exposto, não conheço do habeas corpus.
+P. e I.
