@@ -1,0 +1,24 @@
+DECISÃO
+JAIME SOUZA GUIMARAESagravada decisão que inadmitiu seu recurso especial, interposto com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão proferido peloTribunal de Justiça do Estado de São Paulona Apelação Criminal n. 000072-36.2020.8.26.0535.
+Nas razões do recurso especial, a defesa aponta violação ao art. 59 do Código Penal e requer, em síntese, a redução da pena-base ao mínimo legal.
+O recurso foi inadmitido na origem durante o juízo prévio de admissibiliadde, o que ensejou a interposição deste agravo.
+Instado a se manifestar, o Ministério Público Federal opinou pelo não provimento do recurso.
+Decido.
+O agravo é tempestivo e preencheu os demais requisitos de admissibilidade, razões pelas quais comporta conhecimento.
+O recurso especial também foi interposto no prazo legal e suplanta ojuízo de prelibação, conforme se constatará adiante.
+I. Pena-base
+No que tange à pretendida redução da pena-base, cumpre salientar que a fixação da pena é regulada por princípios e regras constitucionais e legais previstos, respectivamente, nos arts. 5º, XLVI, da Constituição Federal, 59 do Código Penal e 387 do Código de Processo Penal. Todos esses dispositivos remetem o aplicador do direito à individualização da medida concreta para que, então, seja eleito oquantumde pena a ser aplicada ao condenado criminalmente, visando à prevenção e à repressão do delito perpetrado.
+Assim, para chegar a uma aplicação justa da lei penal, o sentenciante, dentro dessa discricionariedade juridicamente vinculada, deve atentar-se para as singularidades do caso concreto e, na primeira etapa do procedimento trifásico, guiar-se pelas circunstâncias relacionadas nocaputdo art. 59 do Código Penal, as quais não se deve furtar de analisar individualmente. São elas: culpabilidade; antecedentes; conduta social; personalidade do agente; motivos, circunstâncias e consequências do crime; comportamento da vítima.
+Contudo, não se pode olvidar que, tratando-se de crime previsto na Lei de Drogas - como ocorre na espécie -, o juiz deve considerar, ainda, com preponderância sobre o previsto no art. 59 do Código Penal, a natureza e a quantidade da substância ou do produto, bem como a personalidade e a conduta social do agente, a teor do estabelecido no art. 42 da Lei n. 11.343/2006.
+No caso, o Tribunal de origem preservou a pena-base acima do mínimo legal por entender desfavoráveisas circunstâncias do crime, em razão da quantidade e natureza da droga apreendida; salientou, para tanto, o seguinte:
+O juízo sentenciante atendeu devidamente os ditames previstos nos artigos 42 da Lei de Tóxicos e 59 e 60 do Código Penal, de modo que a pena não comporta reparos.
+Fixada 1/6 acima do mínimo legal, na primeira fase, de forma fundamentada, em razão da quantidade e nocividade da droga apreendida com o recorrente (370 porções de cocaína, com massa líquida de 75,6 gramas). (fl. 290)
+No entanto, apesar de a natureza das substâncias apreendidas constituir, de fato, elemento preponderante a ser considerados na dosimetria da reprimenda, julgo que nãofoi exacerbada a quantidade apreendida com os réus - 75,6 g de cocaína. Mostra-se, portanto, manifestamente desproporcional sopesar, no caso ora analisado, taiscircunstâncias para justificar a exasperação da pena-base.
+Entendo, na verdade, que a apreensão de certa quantidade de drogas, em contexto como o dos autos, é inerente ao próprio crime previsto no art. 33, caput, da Lei n. 11.343/2006, até porque o delito em questão exige, para fins de comprovação da sua materialidade, a apreensão de droga e a realização de laudo toxicológico definitivo, conforme entendimento externado no AgRg no REsp n. 1.448.529/RJ, de relatoria da Ministra Maria Thereza de Assis Moura (DJe 23/4/2015).
+Nessa situação, deve o recurso ser provido nesse ponto, a fim de afastar a majoração da reprimenda pela qualidade e quantidade das drogas apreendidas. Fixo, portanto, a pena-base no mínimo legal para todos os réus: em 5 anos de reclusão e pagamento de 500 dias-multa.
+II. Nova dosimetria
+Procedendo-se, pois, à nova dosimetria da pena, fixo a reprimenda-base no mínimo legal, ou seja, em 5 anos de reclusão e pagamento de 500 dias-multa. Na segunda fase, compensa-seintegralmente a agravante da reincidência com a atenuante da confissão. Na terceira etapa, ausente causas de aumento ou diminuição. Assim, torno a pena do acusadodefinitivamente estabelecida em5 anos de reclusão e pagamento de 500 dias-multa.
+III. Dispositivo
+À vista do exposto,conheço do agravo para dar provimento ao recurso especial,a fim dereduzir a pena-base ao mínimo legal e, por conseguinte,fixar a reprimenda doagravanteem5 anos de reclusão e pagamento de 500 dias-multa.
+Comunique-se, com urgência, aos Juízos da condenação e da execução criminal, bem como àautoridade apontada como coatora, o inteiro teor destedecisum.
+Publique-se e intimem-se.
