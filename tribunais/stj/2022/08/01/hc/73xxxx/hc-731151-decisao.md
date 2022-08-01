@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpusimpetrado em favor de LUCAS HENRIQUECARVALHO DE OLIVEIRA, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO RIO DE JANEIRO, que negou provimento à insurgência da defesa(Apelação Criminal n. 0349584-91.2019.8.19.0001).
+Consta dos autos que o paciente foi condenado àpenade 10anos e 4 meses de reclusão, noregime inicial fechado, e 1.410dias-multa, pela prática dos delitos previstos no art. 33, caput, e 35, caput, na forma do art.40, IV, todos da Lei n. 11.343/2006, e art. 180 do Código Penal (fls. 20/29).
+Aqui, em síntese, a defesarequersejaconcedida a ordem, a fim de absolver o paciente da prática do crime de associação para o tráfico de drogas, aplicadoo redutor do art. 33, § 4º, da Lei de Drogas.
+Prestadas informações de praxe (fls. 64/65), o Ministério Público Federal opinou pelo não conhecimento do writ(fls. 72/78).
+É o relatório.
+De início, registra-sequea pretensão de absolvição esbarra na necessidade de ampla incursão no acervo fático-probatório, providência descabida na via eleita dohabeas corpus.
+Sobre o tema, confiram-se os seguintes precedentes: AgRg no HC n. 636.980/RJ, Ministro Ribeiro Dantas, Quinta Turma, DJe 17/2/2021; AgRg no HC n. 650.766/SP, de minha relatoria, Sexta Turma, DJe 17/9/2021; e AgRg no HC n. 718.028/PA, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 21/2/2022.
+Quanto àpossibilidade de incidência da minorante do tráfico privilegiado, não vislumbro elementos nos autos que autorizem a sua aplicação.
+Ao vedar a incidência do redutor especial da pena (art. 33, § 4º, da Lei n. 11.343/2006), a instância ordinária considerouas circunstâncias do flagrante, que, na perspectiva do órgão julgador, é evidente que o mesmo integra organização criminosa e não é merecedor de tal benesse(fl. 42).
+Nesse aspecto, não há ilegalidade no acórdão; ao contrário, a jurisprudência desta Corte tem admitido que tais aspectos (as circunstâncias da prisão em flagrante ou o modus operandi do delito, além da quantidade de drogas e comprovação da estabilidade e permanência do vínculo associativo) sejam sopesados na análise dos requisitos previstos no dispositivo em comento.
+Confiram-se: AgRg no HC n. 699.047/MG, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 21/2/2022; HC n. 680.988/SP, Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Quinta Turma, DJe 15/12/2021; AgRg no HC n. 687.814/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 30/8/2021; AgRg no HC n. 654.991/SP, de minha relatoria, Sexta Turma, DJe 29/6/2021; HC n. 663.613/SP, Ministra Laurita Vaz, Sexta Turma, DJe 16/6/2021; AgRg no AREsp n. 1.747.367/SP, Ministro Nefi Cordeiro, Sexta Turma, DJe 12/3/2021; e AgRg no HC n. 601.765/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 14/12/2020.
+Logo, uma vez afastado o redutor, ao argumento de que opaciente se dedicava a atividades criminosas, não se mostra possível rever tal entendimento para fazer incidir a causa especial de diminuição, porquanto demandaria revolvimento da matéria fático-probatória, procedimento que, a toda evidência, é incompatível com a estreita via do mandamus (HC n. 683.182/SP, Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Quinta Turma, DJe 5/10/2021).
+Ante o exposto, com base nos precedentes,denegoa ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O MESMO FIM. RECEPTAÇÃO. PLEITO DE ABSOLVIÇÃO EM RELAÇÃO AO CRIME DE ASSOCIAÇÃO PARA O TRÁFICO. IMPOSSIBILIDADE. APLICAÇÃO DA MINORANTE DO ART. 33, § 4º, DA LEI N. 11.343/2006. INVIABILIDADE. MOTIVAÇÃO IDÔNEA. PRECEDENTES. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. PARECER ACOLHIDO.
+Ordem denegada.
