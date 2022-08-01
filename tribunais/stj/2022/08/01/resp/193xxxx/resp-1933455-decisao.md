@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial interposto por JOEL VENANCIO ALVES, com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+APELAÇÃO CÍVEL -SERVIDOR ESTADUAL -CONTRATAÇÃO EM CARÁTER TEMPORÁRIO -AGENTE DE SEGURANÇA PENITENCIÁRIO -CONTRATOS TEMPORÁRIOS EM OBSERVÂNCIA AO PRAZO ESTIPULADO PELA LEGISLAÇÃO ESTADUAL -VALIDADE -LEI ESTADUAL N.º 18.185/2009 -ADI N.º 1.0000.16.074933-9/000 -TJMG -MODULAÇÃO DOS EFEITOS -JULGAMENTO DO RE N.º 596.478/RR E DO RE N.º 705.140/RS PELO STF -TEMA 916 -STF NO LEADING CASERE N.º 765.320 -INAPLICABILIDADE -FGTS PELO PERÍODO DA CONTRATAÇÃO-VERBA INDEVIDA -IMPROCEDÊNCIA -MANUTENÇÃO.
+-Embora a ADI n.º 1.0000.16.074933-9/000 tenha reconhecido a inconstitucionalidade de dispositivos da Lei estadual n. 18.185/2009, o egrégio Órgão Especial deste Tribunal de Justiça conferiu eficácia prospectiva à sua decisão, modulando os seus efeitos por três anos, a contar da publicação do julgamento proferido nos Embargos de Declaração, realizada em 01/02/2018.
+-Nos termos da tese firmada no Tema 916 STF: "A contratação por tempo determinado para atendimento de necessidade temporária de excepcional interesse público realizada em desconformidade com os preceitos do art. 37, IX, da Constituição Federal não gera quaisquer efeitos jurídicos válidos em relação aos servidores contratados, com exceção do direito à percepção dos salários referentes ao período trabalhado e, nos termos do art. 19-A da Lei 8.036/1990, ao levantamento dos depósitos efetuados no Fundo de Garantia do Tempo de Serviço -FGTS" (RE nº 765.320 MG).
+-Constatado que a contratação temporária da parte autora observou os prazos previstos na legislação estadual de regência, não há que falar em nulidade do contrato, tampouco em direito ao recebimento de FGTS pelo período da contratação válida.
+Na origem, o ora recorrente ajuizou ação ordinária contra o MUNICÍPIO DE BELO HORIZONTE, objetivando, resumidamente, "pagamento dos valores devidos referente ao Fundo de Garantia Tempo de Serviço (FGTS) de todo o período trabalhado nos últimos anos".
+Valor dado à causa: R$ 3.000,00 (três mil reais), em janeiro de 2015.
+No presente recurso especial, aponta-se, em síntese, além de dissídio jurisprudencial, "violação da Constituição Federal e da Lei Estadual 18.185/09, em virtude da contratação da parte Recorrente por período superior a legalmente previsto" (..).
+Foram apresentadas contrarrazões pelo não conhecimento, ou, caso conhecido, pelo desprovimento do recurso.
+É o relatório. Decido.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo nº 3/STJ: aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+O Tribunal a quo, para decidir a controvérsia, interpretou legislação local, in casu, a Lei Estadual n. 18.185/09, o que implica a inviabilidade do recurso especial, aplicando-se, por analogia, o teor do Enunciado n. 280 da Súmula do STF, que assim dispõe: Por ofensa a direito local não cabe recurso extraordinário.
+Nesse diapasão, confiram-se:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. LEGISLAÇÃO LOCAL. DISPOSITIVO DA CONSTITUIÇÃO FEDERAL. VIOLAÇÃO. ANÁLISE. INVIABILIDADE. REVOLVIMENTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. ART. 85 DO CPC/2015. VIOLAÇÃO. ARGUIÇÃO GENÉRICA. DIVERGÊNCIA JURISPRUDENCIAL. REQUISITOS. INEXISTÊNCIA.
+1. Conforme estabelecido pelo Plenário do STJ, aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma nele prevista (Enunciado Administrativo 3).
+2. Nos termos da Súmula 280 do STF, é defeso o exame de lei local em sede de recurso especial.
+3. O recurso especial não é remédio processual adequado para conhecer de irresignação fundada em suposta afronta a preceito constitucional, sendo essa atribuição da Suprema Corte, em sede de recurso extraordinário (art. 102, III, da CF).
+4. Infirmar as razões do apelo nobre, a fim de acolher a tese de ofensa do art 2º da Lei 9.784/1999, encontra óbice na Súmula 7 do STJ.
+5. É deficiente de fundamentação alegação de tese recursal genérica e deficiente. Incidência da Súmula 284 do STF.
+6. Esta Corte tem o entendimento de que é inadmissível o recurso especial que, a despeito de fundamentar-se em dissídio jurisprudencial, deixa de atender os requisitos necessários para sua comprovação.
+7. Agravo interno desprovido
+(AgInt no REsp 1690029/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 08/09/2020, DJe 16/09/2020)
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO AO AGRAVO EM RECURSO ESPECIAL. OFENSA AOS ARTIGOS 489, § 1º, INCISOS IV E VI, E 1.022, INCISOS I E III, TODOS DO CPC/2015. IPTU. BASE DE CÁLCULO. PRINCÍPIO DA LEGALIDADE. ART. 97 DO CTN. REPRODUÇÃO DE NORMA CONSTITUCIONAL. LEI ESTADUAL. LEI LOCAL. SÚMULA 280/STF.
+1. Deveras, não há falar, na hipótese, em violação aos arts. 489, § 1º, IV e VI, e 1.022, I e II, do CPC/2015, porquanto a prestação jurisdicional foi dada na medida da pretensão deduzida, de vez que os votos condutores do acórdão recorrido e do acórdão proferido em sede de Embargos de Declaração apreciaram fundamentadamente, de modo c oerente e completo, as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida.
+2. Ademais, verifica-se que o Tribunal de origem, ao julgar o recurso de Apelação, solucionou a questão com base em legislação local (Lei Complementar n. 2.572/2012), Assim, o exame da matéria demanda análise de Direito local, razão por que incide, por analogia, a Súmula 280 do STF: "por ofensa a direito local não cabe recurso extraordinário".
+3. Agravo interno não provido.
+(AgInt no AREsp 1304409/DF, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 31/08/2020, DJe 04/09/2020)
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Publique-se. Intimem-se.
