@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso especial manejado por Luiz de Albuquerque Maranhão com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 5ª Região, assim ementado (fls. 313/314):
+PROCESSUAL CIVIL. TRIBUTÁRIO. EMBARGOS DO DEVEDOR. CONTRIBUIÇÃO PREVIDENCIÁRIA. NOME DO SÓCIO NA CDA. DISSOLUÇÃO IRREGULAR DA SOCIEDADE. REDIRECIONAMENTO DA EXECUÇÃO FISCAL. NÃO OCORRÊNCIA DA PRESCRIÇÃO. CITAÇÃO. MORA DO JUDICIÁRIO. MULTA MORATÓRIA DE 20%. JUROS DE MORA. TAXA SELIC. LEGALIDADE.
+1. Apelação interposta por Luiz de Albuquerque Maranhão contra sentença que julgou improcedentes embargos à execução fiscal de contribuição previdenciária, sem condenar o embargante em honorários advocatícios em virtude da previsão do encargo legal de 20% na CDA (Decreto-lei nº 1.025/69).
+2. Alega o apelante a nulidade da penhora eletrônica, pela inobservância do beneficio de ordem, conforme o art. 596 do CPC/73 combinado com o art. 1.024 do CC; a prescrição do redirecionamento da execução fiscal para o sócio; a impossibilidade do redirecionamento com base no art. 135 do CTN, quando se trata de cobrança de contribuição para o FGTS; a multa confiscatória em afronta ao art. 150, IV, da CF e os juros de mora acima de 1% ao mês, taxa legal estipulada para créditos tributários.
+3. Verifica-se que, na hipótese em tela, foram cobradas pelo INSS contribuições previdenciárias e não FGTS, portanto são aplicáveis as disposições do CTN.
+2. O nome do sócio, ora embargante e apelante, consta na CDA como corresponsável pelo débito tributário,portanto cabe a ele comprovar que não agiu na forma do art. 135, III, do CTN.
+3. A dissolução irregular da sociedade permite o redirecionamento da execução fiscal para o sócio, que responde com seus bens particulares em tais casos.
+4. A jurisprudência já firmou o entendimento de que o quinquênio prescricional é contado da ciência da exequente da dissolução irregular da sociedade e não da citação da pessoa jurídica.
+5. Na espécie, a demora na citação do sócio se deu por motivos inerentes ao mecanismo judiciário, atraindo a aplicação da Súmula nº 106 do STJ, para afastar a prescrição.
+6. É pacífico o entendimento no sentido de ser legítima a multa moratória de 20%, porque visa a coibir o atraso no pagamento da dívida ativa federal, não se caracterizando como confisco (art. 150, IV, da CF).
+7. Os juros de mora de 1% ao mês, na forma do art. 161,§ 1", do CTN somente seriam utilizados se não houvesse outra previsão legal, mas existe a Lei nº 9.065/95 que instituiu a taxa SELIC para incidir sobre os débitos tributários pagos em atraso.
+5. Apelação não provida.
+Opostos embargos declaratórios, foram rejeitados (fls. 326/332).
+A parte recorrente sustenta, em síntese, que"só se deve penhorar os bens dos sócios se antes frustrar a tentativa ou se for para complementar a quantia da execução sobre os bens da empresa" (fl. 338); a prescrição dos créditos tributários (cf. fl. 340); a impossibilidade de redirecionamento da execução para o sócio, por não se tratar de dívida tributária (cf. fl. 341); o caráter confiscatório da multa aplicada (cf. fl. 343).
+Contrarrazões às fls. 352/355.
+A Presidência da Corte a quonegou seguimentoao recurso especialem relação às questões relativas à possibilidade do redirecionamento da execução fiscal no caso dos autos, com base no art. 1.030, I, b, tendo em vista o acórdão recorrido estar em consonância com as teses firmadas nos temas 444 e 630 do STJ; e, no mais, admitiu o apelo especial.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+De início, ressalte-se estar prejudicada a análise das questões relativas à possibilidade de redirecionamento da execução fiscal dos autos, tendo em vista já ter sido realizado o juízo de adequação do acórdão recorrido com oentendimentofirmadopelo STJno Tema 444/STJ e no Tema 630/STJ.
+No mais, apretensão não merece trânsito.
+No que diz respeito às alegações do ora recorrente, cumpre observar que referida parte não amparou seu inconformismo na violação de qualquer lei federal. Destarte, a ausência de indicação do dispositivo legal tido por violado implica deficiência de fundamentação do recurso especial, atraindo a incidência da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."). Nesse diapasão: AgInt no AgInt no AREsp 793.132/RJ, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe 12/3/2021; AgRg no REsp 1.915.496/SP, Rel. Ministro Joel Ilan Paciornik, Quinta Turma, DJe 8/3/2021; e AgInt no REsp 1.884.715/CE, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 1º/3/2021.
+ANTE O EXPOSTO, não conheço do recurso especial.
+Publique-se.
