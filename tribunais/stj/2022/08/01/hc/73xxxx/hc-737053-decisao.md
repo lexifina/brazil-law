@@ -1,0 +1,28 @@
+DECISÃO
+ELIANA DE OLIVEIRA, acusada de tráfico de drogas e associação para o tráfico, alega sofrer coação ilegal no seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Rondônia no HC n. 0811743-53.2021.8.22.0000, que manteve sua prisão preventiva.
+A defesa busca a revogação da custódia cautelar daré, ao argumento de que a decisão que a decretou carece de fundamentação válida.
+A liminar foi deferida, às fls. 114-116.
+Prestadas as informações (fls. 120-122), o Ministério Público Federal, em parecer de fls. 126-133, opinou pelo não conhecimento do writ.
+Decido.
+O Magistrado de origem converteu a prisão em flagrante dapaciente em preventiva nos seguintes termos (fls. 53-54):
+1. DA PRISÃO PREVENTIVA
+A autoridade apresentou cópias do inquérito policial dispondo elementos fortes de que os representados estão envolvidos com o flagranteado Rodrigo. Ainda, apresentou o auto de apresentação e apreensão dos materiais ilícitos apreendidos com drogas apetrechos e celulares.
+Há, portanto, fortes indícios de autoria do crime de tráfico de drogas e associação para o tráfico, conforme bem relatado pela autoridade policial e robustecido pelos documentos anexados à representação. Desse modo, verifica-se que os requisitos da prisão preventiva estão preenchidos. Com efeito, trata-se de apuração de crime grave, cuja penamáxima supera quatro anos de reclusão, de modo que a custódia cautelar se faz necessária para garantia da ordem pública.
+O aumento considerável do tráfico de drogas em nossa comunidade é gritante, e exige do Estado um posicionamento enérgico no combate a este tipo de delito. Não é demais dizer que o tráfico de drogas e o consumo de entorpecentes são delitos precursores de muitos outros ilícitos que afligem a sociedade em geral, principalmente crimes contra o patrimônio e crimes contra a vida.
+Resta afetada, portanto, a ordem pública em razão da liberdade dos ora representados, posto a gravidade do delito de tráfico e a necessidade de se garantir a tranquilidade no meio social. Resta claro o fundamento constante no ordenamento Jurídico Criminal pátrio da aplicação da lei penal e da garantia da ordem pública dando ensejo ao decreto cautelar.
+Tratam-se de indivíduos com reais indícios de infringência ao artigo 33, caput, da lei 11.343/2006, além de outros crimes.
+Assim, os elementos constantes nos autos são suficientes para ensejar o decreto preventivo.
+O Tribunal a quo denegou a ordem de prévio writ e manteve a custódia cautelar do acusado.
+A prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, da natureza abstrata do crime ou do ato processual praticado (art. 313, § 2º, CPP). Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+Apoiado nessa premissa, observo que não se mostram suficientes as causas invocadas pelo Juízo singular para embasar a ordem de prisão daaveriguada, porquanto deixou de contextualizar, em dados concretos dos autos, o periculum libertatis.
+Na espécie, verifico que o Magistrado singular se limitou a afirmar que "oaumento considerável do tráfico de drogas em nossa comunidade é gritante, e exige do Estado um posicionamento enérgico no combate a este tipo de delito", além de salientar que "o tráfico de drogas e o consumo de entorpecentes são delitos precursores de muitos outros ilícitos que afligem a sociedade em geral, principalmente crimes contra o patrimônio e crimes contra a vida".
+Ninguém dissente de que o tráfico de drogas é crime gravíssimo e de que é notória a desagregação social que a mercancia de entorpecentes acarreta atualmente na sociedade. Esses fatores, certamente, são a razão pela qual a reprimenda por tal ilicitude penal - equiparada a crime hediondo - é elevada, mas não são bastantes para implicar, necessariamente, a manutenção, sob custódia cautelar, de seus eventuais autores, sob pena de transformar em regra o que é exceção e malferir o princípio da presunção de inocência, que alcança a todos os imputados em processo penal.
+Concluo, assim, ter havido restrição à liberdade daacusadasem a devida fundamentação que demonstrasse a exigência cautelar justificadora da custódia, de sorte a impor a concessão da ordem, sob pena de essa prisão perder sua natureza excepcional e se transformar em mera resposta punitiva antecipada.
+Nesse sentido:
+ ..
+2. No caso, o Juízo de primeiro grau limitou-se a mencionar a existência de indícios de materialidade e autoria do crime e a tecer considerações genéricas acerca da gravidade abstrata do delito de tráfico de drogas. Não foram apontados dados concretos a justificar a segregação provisória, nos termos do que dispõe o art. 312 do CPP.
+ ..
+3. Habeas corpus não conhecido. Ordem concedida, de ofício, para revogar a prisão preventiva do paciente, mediante a aplicação das medidas cautelares previstas no art. 319 do CPP, a critério do Juízo de primeiro grau.
+(HC n. 419.965/SP, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 16/2/2018)
+À vista do exposto, concedo a ordem de habeas corpus, confirmada a liminar, para ordenar a soltura dapaciente, sem prejuízo de nova decretação da prisão preventiva, se efetivamente demonstrada sua concreta necessidade, ou de imposição de medida cautelar alternativa também suficientemente fundamentada, nos termos dos arts. 282 e 319 do CPP.
+Publique-se e intimem-se.
