@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de conflito positivo de competência suscitado pelo Juízo de Direito da Vara de Execuções Penais da Região Metropolitana de Belém/PA em face do Juízo Federal da 7ª Vara Criminal de Rondônia/SJRO, versando sobre a inclusão de custodiado no Sistema Penitenciário Federal.
+Divergem os Juízos suscitante e suscitado sobre a adequação do perfil do custodiado para fins de inclusão no Sistema Penitenciário Federal.
+O Juízo suscitante, apoiando-se em manifestação da Secretaria de Administração Penitenciária do Estado do Pará, considera que a necessidade da medida se apóia na circunstância de se tratar de preso de alta periculosidade, no âmbito regional, apontado como membro do "Comando Vermelho Rogério Lemgruber no Pará" (CVRL-PA), organização na qual exerce posição de liderança no cargo de "Conselheiro".
+O Juízo suscitado, apoiando-se em manifestação daCoordenação Geral de Inteligência do Sistema Penitenciário Federal, considera não terem sido demonstrados elementos que confirmem que o custodiado possua o perfil adequado para a transferência para presídio federal.
+O Ministério Público Federal considera assistir razão ao juízo suscitante, opinando pela transferência do custodiado para o presídio federal.
+É o relatório.
+Conheço do conflito, uma vez que os juízos que suscitam a incompetência estão vinculados a Tribunais diversos, o que atrai a competência originária do Superior Tribunal de Justiça, consoante o disposto no art. 105, inciso I, alínea "d", da Constituição Federal.
+Na hipótese de divergência de autoridades judiciárias, cumpre reconhecer a legitimidade do pedido de inclusão formulado pelo Juízo suscitante, que detém todos os elementos necessários à análise preliminar da necessidade de inclusão do custodiado no Sistema Penitenciário Federal. Ao Juízo Federal, que exerce a função de Corregedor dos estabelecimentos prisionais federais, compete apenas o exame da legalidade estrita do pedido, sem possibilidade de contestação do quanto alegado pela autoridade solicitante.
+Com razão, portanto, o Ministério Público Federal, que na linha de inúmeros precedentes desta Corte manifestou-se pelo reconhecimento da legitimidade da transferência requisitada (Cf. AgRg nos EDcl no CC n. 181.682/RS, relator Ministro Jesuíno Rissato, Terceira Seção, DJe de 12/11/2021;CC n. 168.159/MS, relator Ministro Sebastião Reis Júnior, Terceira Seção, DJe de 16/10/2019).
+Com essas considerações, acolhendo o parecer ministerial, conheço do conflito para determinar ao Juízo suscitado que providencie a inclusão do custodiado no Sistema Penitenciário Federal, devendo ser promovida a sua imediata transferência para o presídio federal.
+Dê-se ciência aos Juízos suscitante e suscitado.
+Estando a decisão em consonância com o entendimento do Ministério Público Federal, nada mais havendo, ao arquivo.
+EMENTA
+CONFLITO POSITIVO DE COMPETÊNCIA. JUÍZOS VINCULADOS A TRIBUNAIS DIVERSOS. COMPETÊNCIA DO STJ PARA SOLUÇÃO DO CONFLITO. TRANSFERÊNCIA DE CUSTODIADO PARA PRESÍDIO FEDERAL. DIVERGÊNCIA ENTRE AUTORIDADES JUDICIÁRIAS QUANTO AO PERFIL DO CUSTODIADO. CONFLITO CONHECIDO PARA RECONHECIMENTO DA NECESSIDADE DE INCLUSÃO DO CUSTODIADO NO SISTEMA PENITENCIÁRIO FEDERAL.
+1. O Superior Tribunal de Justiça é competente para o julgamento de conflito entre Juízos vinculados a Tribunais diversos, a teor do disposto no art. 105, inciso I, alínea "d", da Constituição Federal.
+2. A rejeição do pedido deinclusãode custodiado em presídio federal autoriza seja suscitado conflito de competência (art. 10, §5º, da Lei n. 11.671/2008).
+3. Prevalece no Superior Tribunal de Justiça o entendimento de que não cabe ao magistrado federal exercer juízo de valor sobre a fundamentação que justifica a inclusão do custodiado em presídio federal, competindo-lhe apenas aferir a legalidade estrita da medida.
+4. Conflito conhecido para reconhecer a necessidade de inclusão do custodiado no Sistema Penitenciário Federal.
