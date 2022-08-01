@@ -1,0 +1,28 @@
+DECISÃO
+Contra o acórdão do Tribunal Regional Federal da 1ª Região, que denegou a ordem no HC n. 1016316-42.2019.4.01.0000 (fls. 2.951/2.958), preservando a custódia cautelar, interpõe recurso ordinário Douglas Henrique da Costa - preso desde 22/8/2017 e denunciado pela prática, em tese, dos crimes descritos nos arts. 33, 35 e 40, I e IV, todos da Lei n. 11.343/2006, e art. 14 da Lei n. 10.826/2003 (Ação Penal n. 0000098-36.2018.4.01.3606).
+O acórdão recebeu a seguinte ementa (fl. 2.956):
+PROCESSUAL PENAL. HABEAS CORPUS. PRISÃO PREVENTIVA. LEGALIDADE. CONSTRANGIMENTO ILEGAL DECORRENTE DE EXCESSO DE PRAZO PARA A FORMAÇÃO DA CULPA. NÃO CONFIGURADO. CONDIÇÕES SUBJETIVAS DO PACIENTE. MANUTENÇÃO DA PRISÃO CAUTELAR.
+I - Efetivada a prisão em flagrante no dia 22/08/2017 e realizada a audiência de custódia no dia 25/08/2017, não há de se falar em nulidade decorrente da prisão preventiva decretada em 29/08/2017, ou seja, fora do prazo de 24 horas estabelecido no art. 1º da Resolução nº 213 do Conselho Nacional de Justiça, quando observados os direitos e garantias previstos na Constituição Federal e no ordenamento jurídico infraconstitucional. Precedente deste TRF da 1ª Região.
+II - Na linha de entendimento adotada pelo Superior Tribunal de Justiça, "Os prazos processuais não são peremptórios e o constrangimento ilegal por excesso de prazo só pode ser aferido em consonância com o critério da razoabilidade, haja vista as peculiaridades de cada caso e a gravidade do crime" (AgRg no HC 420.136/SP). Assim, somente configura o constrangimento ilegal decorrente de excesso de prazo na formação da culpa apto a ensejar o relaxamento da custódia cautelar, a mora decorrente de "(i) evidente desídia do órgão judicial; (ii) exclusiva atuação da parte acusadora; ou (iii) situação incompatível com o rpincípio da razoável duração do processo, nos termos do que previsto no art. 5º, LXXVIII, da Constituição Federal" (STF: HC 137.768).
+III - Não configura constrangimento ilegal por excesso de prazo a hipótese como a dos autos em que estão presentes sérias dificuldades para a conclusão da instrução processual, inclusive por conta da substituição da defesa técnica do paciente, chamamento da defensoria pública, atraso na entrega da resposta à acusação, restituição de prazo e realização de diligências em diversas comarcas para oitiva de testemunhas, com e sem, equipamento de videoconferência, além do desmembramento do processo que teria interferido na realização de audiências, por vezes redesignadas por impossibilidade de comparecimento da defesa.
+IV - A jurisprudência do Supremo Tribunal Federal consolidou o entendimento de que "a custódia cautelar visando à garantia da ordem pública legitima-se quando evidenciada a necessidade de se interromper ou diminuir a atuação de integrantes de organização criminosa" (HC nº 118.340/SP, 1ª Turma, Rel. Ministro LUIZ FUX, DJe de 23/4/16), sendo certo, ainda, que "As condições subjetivas favoráveis do paciente, tais como primariedade, bons antecedentes e residência fixa, por si sós, não obstam a segregação cautelar, quando presentes os requisitos legais para a decretação da prisão preventiva" (HC 506.050/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, 5ª TURMA, DJe 03/06/2019).
+V - Ordem de habeas corpus denegada.
+Alega-se, em resumo, desrespeito e inobservância aos direitos e garantias constitucionais, visto que o ora recorrente permaneceu 10 dias preso em flagrante (fl. 2.978), sem ser encaminhado à presença da autoridade judiciária, consoante determinam os arts. 1º e 13 da Resolução n. 213/2015 do Conselho Nacional de Justiça.
+Argumenta-se, ainda, o excesso de prazo na formação da culpa, umavez que se encontra preso há mais de 729 dias, sem previsão para a conclusão da instrução criminal (fl. 2.988).
+Requer-se, (a) a concessão de liminar à ordem, para suspender os efeitos do decreto de prisão preventiva imposto ao recorrente, com ou sem a aplicação de outras medidas cautelares ou substituindo-os por prisões domiciliares (sic), expedindo-se o competente alvará de soltura; (b) no mérito, a concessão da ordem de habeas corpus, para relaxar a prisão preventiva arbitrária, sem prejuízo de que, observada a estrita legalidade, nova medida seja posteriormente decretada, caso necessária (fls. 3.004/3.005 - grifo nosso).
+Despacho requisitando informações, antes da análise do pleito liminar, fl. 3.037, com atendimento às fls. 3.040/3.043.
+Estes autos foram a mim distribuídos por prevenção (HC n. 433.865/MT).
+Liminar indeferida (fls. 3.163/3.171).
+A indigitada autoridade prestou informações (fls. 3.175 e 3.178/3.192).
+O Ministério Público Federal opinou pelo desprovimento do recurso (fls. 3.196/3.202).
+Informações complementares (fls. 3.208/3.212 e 3.246/3.260).
+Ofício do Supremo Tribunal Federal requisitando informações (fl. 3.265), com atendimento às fls. 3.290/3.291.
+Novo pronunciamento do Ministério Público Federal pelo desprovimento do recurso (fls. 3.294/3.301).
+Sentença judicial acostada às fls. 3.303/3.330.
+É o relatório.
+De acordo com a documentação acostada aos autos (fls. 3.303/3.330), verifico que foi proferida sentença condenatória em desfavor do ora recorrente.Assim, está superada a alegação de constrangimento ilegal por excessode prazo.
+À vista, pois, da nova realidade fática, perdeu o objeto o recurso. Julgo-o,em consequência, prejudicado.
+Publique-se.
+EMENTA
+RECURSO EM HABEAS CORPUS. CRIMES DESCRITOS NOS ARTS. 33, 35 E 40, I E IV, TODOS DA LEI N. 11.343/2006, E ART. 14 DA LEI N. 10.826/2003. EXCESSO DE PRAZO. SUPERVENIENTE SENTENÇA CONDENATÓRIA. ALTERAÇÃO DO PANORAMA FÁTICO-PROCESSUAL. PERDA DE OBJETO.
+Recursoprejudicado.
