@@ -1,0 +1,7 @@
+DECISÃO
+Estando pendente o julgamento dos recursos especiaisinterpostos por Boa Vista Empreendimento Imobiliário SPE Ltda e por Pelegrini Consultoria Imobiliária Ltda., foi juntada aos autos a Petição n. 447.852/2022 (e-STJ, fl. 933), por meio da qual informado que a autora/recorrida, Josemara Alves, e a corré/recorrente Boa Vista Empreendimento Imobiliário SPE Ltda celebraram acordo para encerrar o litígio entre ambas, tendo sido solicitada a homologação a esta relatoria.
+Instada a se manifestar se, diante do acordo celebrado com Boa Vista, persistiria o interesse no prosseguimento do feito em relação à corré/recorrente Pelegrini, a autora/recorrida Josemara protocolizou a Petição n. 531.000/2022 (e-STJ, fl. 950), tendo expressamente afirmado "que não se opõe a extensão dos efeitos do acordo também com relação a esta".
+Nesse contexto, e comamparo na redação conferida ao art. 34, IX, do RISTJ pela Emenda Regimental n. 24/2016, homologo o acordo celebrado pelas partes, na forma do instrumento de fls. 934-935(e-STJ), a fim de que surta seus jurídicos e legais efeitos.
+Em consequência, julgo extinto o processo com resolução de mérito, nos termos do art. 487, III, "b", do CPC/2015.
+Por não haver necessidade de se aguardar o decurso do prazo recursal, cuide a Coordenadoria de, tão logo publicada esta decisão, certificar o trânsito em julgado e providenciar a baixa dos autos à origem.
+Publique-se.
