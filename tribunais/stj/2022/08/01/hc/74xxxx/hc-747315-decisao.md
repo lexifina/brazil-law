@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se dehabeas corpuscom pedido liminar impetrado em favor deMARCOS DE LIMA ROCHA apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Agravo em Execução n. 0016759-29.2021.826.0996).
+Depreende-se dos autos que o Juízo das Execuções concedeu ao paciente livramento condicional.
+Interposto agravo em execução peloParquetna origem, o Tribunala quodeu provimento ao recurso para cassar a decisão anterior e determinar o retorno do sentenciado ao regime fechado até a realização do exame criminológico.
+AGRAVO EM EXECUÇÃO - Livramento condicional - Exame criminológico -Necessidade - Sentenciado que cumpre longa pena pela prática de crimes graves e registra anotação de faltas disciplinares de natureza grave - Agravo provido.
+Daí o presentewrit, no qual alega a defesa fazer jus o paciente ao livramento condicional, por haver preenchido os requisitos objetivo e subjetivo para tanto.
+Assere ser desnecessário o exame criminológico para a concessão da benesse, sobretudo quando considerada quea última falta praticada por eleocorreu em 31/8/2017.
+Pondera que ele é portador de enfermidade pancreática e que aguardar em regime fechado a realização de exame criminológico pode agravar seu quadro de saúde.
+Requer, liminarmente e no mérito, o restabelecimento da decisão que concedeu livramento condicional, independentemente de realização de exame criminológico.
+Indeferida a liminar (e-STJ fls. 146/147); manifestou-se o Ministério Público Federal pelo não conhecimento dohabeas corpus(e-STJ fls. 152/157).
+É o relatório.
+Decido.
+A questão posta a deslinde refere-se à necessidade de realização do exame criminológico para o deferimento do livramento condicional.
+Com a nova redação dada ao art. 112 da Lei n. 7.210/1984, pela Lei n. 10.792/2003, suprimiu-se a realização de exame criminológico como expediente obrigatório, mantendo-se apenas como requisitos legais o cumprimento de determinada fração da pena aplicada e o bom comportamento carcerário, a ser comprovado pelo diretor do estabelecimento.
+Confira-se:
+Art. 112. A pena privativa de liberdade será executada em forma progressiva com a transferência para regime menos rigoroso, a ser determinada pelo juiz, quando o preso tiver cumprido ao menos 1/6 (um sexto) da pena no regime anterior e ostentar bom comportamento carcerário, comprovado pelo diretor do estabelecimento, respeitadas as normas que vedam a progressão.
+Adespeito de o exame não ser requisito obrigatório para a progressão do regime prisional/livramento condicional, em hipóteses excepcionais, contudo, os tribunais superiores vêm admitindo a sua realização para a aferição do mérito do apenado.
+Segundo esse entendimento, o magistrado de primeiro grau, ou mesmo o tribunal, diante das circunstâncias do caso concreto, pode determinar a realização da referida prova técnica para a formação de seu convencimento.
+Tal entendimento foi consolidado no enunciado da Súmula n. 439 desta Corte:
+Admite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada.
+O tema também foi objeto da Súmula Vinculante n. 26do Supremo Tribunal Federal:
+Para efeito de progressão de regime no cumprimento de pena por crime hediondo, ou equiparado, o juízo da execução observará a inconstitucionalidade do art. 2º da Lei n. 8.072, de 25 de julho de 1990, sem prejuízo de avaliar se o condenado preenche, ou não, os requisitos objetivos e subjetivos do benefício, podendo determinar, para tal fim, de modo fundamentado, a realização de exame criminológico.
+No caso, o Juízodas Execuçõesconcedeu ao ora paciente a progressão ao regime intermediário, consignando, para tanto, que (e-STJ fls. 93/94):
+O pedido de livramento é procedente.
+O requisito temporal foi cumprido, conforme cálculo de liquidação de penas e há notícia nos autos de boa conduta carcerária atual e inexistência de falta disciplinar recente. Além disso, o boletim informativo não foi impugnado pelo Ministério Público.
+Entendo que a gravidade abstrata do delito e o total de pena aplicada, por si sós, igualmente não são fatores a impedir a concessão da progressão de regime prisional e sequer do livramento condicional.
+(..).
+Dessa forma, mostra-se evidente que a concessão do benefício será estímulo a sua recuperação.
+Ressalta-se que os requisitos previstos no artigo 131, da LEP c.c. o artigo 83 do Código Penal foram preenchidos.
+Não há notícias de prisão cautelar por outro processo.
+Desta forma, não vejo argumentos para o indeferimento do pleito.
+OTribunal de Justiça do Estado de São Paulo, por sua vez, deu provimento ao agravo em execução interposto pelo Ministério Público para determinar"que o agravado seja submetido, no regime fechado, a exame criminológico para fins de concessão do livramento condicional"(e-STJ fl. 135), em acórdão assim fundamentado (e-STJ fls. 137/138):
+Na hipótese presente, conforme consta do Boletim Informativo de fls. 27/38, vê-se que o sentenciado cumpre longa pena pela prática de roubo majorado e porte ilegal de arma de fogo, com término de cumprimento previsto para 08.01.2027. Ademais, registra a prática de diversas faltasdisciplinares de natureza grave durante o curso de execução de sua reprimenda.
+Trata-se de indivíduo que demonstra periculosidade. Assim, não se mostra razoável, com base num simples atestado de bomcomportamento carcerário, extrair um prognóstico favorável para concluir que está apto para a concessão do livramento condicional.
+Com efeito, o exame criminológico, que é elaborado pela equipe de profissionais (no mínimo um psicólogo, assistente social e psiquiatra) tem muito mais condições de aferir se o preso está em condições de receber o benefício.
+Prudente, pois, que o agravado seja submetido a exame criminológico, para melhor avaliação do requisito subjetivo.
+Como se vê dos trechos do acórdão acima colacionados, a determinação de que fosse realizado o exame criminológico não foi devidamente fundamentada, uma vez que o Tribunal de origemlevouem conta a gravidade dos delitos cometidos, faltas disciplinares antigas(a última em 2017) e, de forma genérica, a necessidade de ter respaldo técnicoque propicie uma análise mais cuidadosa sobre o comportamento e a personalidade do ora sentenciado, para avaliar a viabilidade de seu retorno ao convívio em sociedade.
+Dessa forma, não havendo demonstraçãoefetivada necessidade de realização de exame criminológico, deve ser reconhecida a ilegalidade da sua exigência.
+A propósito, confiram-se os seguintes precedentes:
+HABEAS CORPUS.EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. LIVRAMENTO CONDICIONAL. INCIDÊNCIA DA SÚMULA 439/STJ. REQUISITO SUBJETIVO. AUSÊNCIA DE MOTIVAÇÃO. PRECEDENTES. ORDEM NÃO CONHECIDA. WRIT CONCEDIDO DE OFÍCIO.
+1. O Supremo Tribunal Federal, por sua Primeira Turma, e a Terceira Seção do Superior Tribunal de Justiça, diante da utilização crescente e sucessiva do habeas corpus, passaram a restringir a sua admissibilidade quando o ato ilegal for passível de impugnação pela via recursal própria, sem olvidar a possibilidade de concessão da ordem, de ofício, nos casos de flagrante ilegalidade. Esse entendimento objetivou preservar a utilidade e a eficácia do mandamus, que é o instrumento constitucional mais importante de proteção à liberdade individual do cidadão ameaçada por ato ilegal ou abuso de poder, garantindo a celeridade que o seu julgamento requer.
+2. A Lei n. 10.792/2003 deu nova redação ao art. 112 da Lei n. 7.210/1984, para suprimir a realização de exame criminológico como expediente obrigatório para a progressão de regime.
+3. "Admite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada" (Súmula 439/STJ).
+4.No caso, o Tribunal de origem ao indeferir o livramento condicional não logrou fundamentar a necessidade do referido exame, deixando de invocar elementos concretos dos autos que pudessem afastar a decisão do magistrado, levando em conta apenas a gravidade dos delitos e a longa pena a cumprir, desconsiderando, ainda, a boa conduta carcerária atestada pelo diretor do estabelecimento prisional.
+5. Ordem não conhecida. Concessão de habeas corpus de ofício para restabelecer a decisão de Primeiro Grau que deferiu ao paciente o livramento condicional(HC 366.253/SP, de minha relatoria, Sexta Turma,DJe de 21/9/2016, grifei).
+EXECUÇÃO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. LIVRAMENTO CONDICIONAL. EXIGÊNCIA DE EXAME CRIMINOLÓGICO. REQUISITO SUBJETIVO EVIDENCIADO. CONSTRANGIMENTO ILEGAL.
+1. A jurisprudência do Superior Tribunal de Justiça, acompanhando a orientação da Primeira Turma do Supremo Tribunal Federal, firmou-se no sentido de que o habeas corpus não pode ser utilizado como substituto de recurso próprio, sob pena de desvirtuar a finalidade dessa garantia constitucional, exceto quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício.
+2. A Lei n. 10.792/2003, ao alterar a redação do art. 112 da Lei de Execução Penal, afastou a exigência do exame criminológico para fins de progressão de regime. Contudo, o Superior Tribunal de Justiça firmou compreensão de que o magistrado de primeiro grau, ou mesmo a Corte estadual, diante das circunstâncias do caso concreto e adequada motivação, pode determinar a realização da referida prova técnica para a formação de seu convencimento.
+3. Esse entendimento acabou se consolidando no enunciado da Súmula 439 desta Corte: "Admite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada."
+4. A Corte estadual, ao revogar o livramento condicional e determinar que o paciente fosse submetido a exame criminológico para aferição do seu mérito subjetivo, utilizou como fundamento a gravidade abstrata do crime praticado e a falta grave cometida dois anos antes, o que diverge da orientação desta Corte. Precedentes.
+5. Embora a falta grave possa justificar a submissão ao exame criminológico para a concessão do benefício executório penal, há peculiaridades no caso concreto que devem ser consideradas, quais sejam: o longo prazo verificado entre a falta grave (mais de dois anos antes) e a concessão do livramento condicional; o fato de o reeducando demonstrar, em princípio, sua ressocialização, apresentar residência e emprego fixos, além da inexistência de registro de transgressão no gozo do aludido benefício.
+6. Habeas corpus não conhecido. Ordem concedida, de ofício, para cassar o acórdão hostilizado e restabelecer a decisão de primeiro grau, que deferiu ao paciente o livramento condicional(HC n. 331.268/SP, relator Ministro Gurgel de Faria, Quinta Turma, julgado em 22/9/2015, DJe de 13/10/2015, grifei)
+Ante o exposto,concedo a ordem,para cassar oacórdão proferido no Agravo de Execução Penal n.0016759-29.2021.826.0996, e restabelecer a decisão do Juízo de primeiro grau que concedeu livramento condicional ao paciente.
+Publique-se. Intimem-se.
