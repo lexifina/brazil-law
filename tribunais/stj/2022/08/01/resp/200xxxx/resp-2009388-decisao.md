@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso especial interposto porMARCELO HENRIQUE SEGOVIA PEREIRA, fundado naalínea"a" do permissivo constitucional, contra acórdãodo Tribunal de Justiça do Estado de Minas Gerais, cuja ementa é a seguinte(e-STJ fls. 349):
+APELAÇÃO CRIMINAL - TRÁFICO DE DROGAS - QUANTIDADE E NATUREZA DOS ENTORPECENTES - ARGUMENTO IDÕNEO AO INDEFERIMENTO DA SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE PELA RESTRITIVA DE DIREITOS - RECURSO CONHECIDO E NÃO PROVIDO.
+Interpostos embargos de declaração, esses não foram conhecido, pela intempestividade (e-STJ fls. 367/370).
+Nas razões do recurso especial (e-STJ fls. 373/389), fundado naalínea"a"do permissivo constitucional, alega a parte recorrenteviolação doartigo 44do CP. Sustentaa possibilidade da substituição da pena privativa de liberdade por restritivas de direitos.
+Apresentadas contrarrazões (e-STJ fls. 397/399), o recurso foi admitido (e-STJ fls. 406/408), tendo o Ministério Público Federal opinado pelo não provimento dorecurso especial (e-STJ fls. 418/421).
+É o relatório.Decido.
+O recurso não merece conhecimento.
+A jurisprudência desta Corte Superior é no sentido de que aoposição de embargos de declaração intempestivos não interrompe o prazo para a interposição de outros recursos. Precedentes:AgInt nos EDcl no CC n. 181.567/GO, relator Ministro LUIS FELIPE SALOMÃO, Segunda Seção, julgado em 27/4/2022, DJe de 3/5/2022;AgInt nos EDcl no RMS n. 66.718/PR, relator Ministro HERMAN BENJAMIN, Segunda Turma, julgado em 21/3/2022, DJe de 25/3/2022;AgRg nos EDcl no AREsp n. 1.998.322/PB, relatora Ministra LAURITA VAZ, Sexta Turma, julgado em 8/2/2022, DJe de 15/2/2022;AgRg no AREsp n. 1.926.238/MG, relator Ministro OLINDO MENEZES (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 14/12/2021, DJe de 17/12/2021;EDcl nos EDcl no AgRg no AREsp n. 1.827.026/MG, relator Ministro JOEL ILAN PACIORNIK, Quinta Turma, julgado em 13/12/2021, DJe de 16/12/2021.
+Na espécie, colhe-se dos autos que o acórdão recorrido foi publicado em 20/4/2021(e-STJ fls. 352). Irresignado, o recorrente opôs embargos de declaração (e-STJ fls. 354/362), os quais não foram conhecidos em razão de sua manifesta intempestividade (e-STJ fls. 367/370).
+Desse modo, revela-se manifestamente intempestivo o recurso especial interposto somente em 8/6/2021(e-STJ fl. 373/389), quando já ultrapassado o prazo de 15 dias corridos da publicação do acórdão recorrido (20/4/2021).
+Ademais, mesmo que assim não fosse, orecursoestariaprejudicado.
+É que oora recorrenteimpetrouHC n. 668.932/MG, no qual foisuscitadaa mesmaquestãoexpostano presente recurso, que, em decisão monocrática, não fora conhecido, decisão confirmada no julgamento do agravo regimental apresentado, cuja ementa é a seguinte:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PLEITO DE SUBSTITUIÇÃO DA PRISÃO POR RESTRITIVAS DE DIREITOS. REQUISITO SUBJETIVO DO ART. 44, INCISO III, DO CÓDIGO PENAL NÃO ATENDIDO. MEDIDA QUE NÃO É SOCIALMENTE RECOMENDÁVEL. QUANTIDADE E QUALIDADE DOS ENTORPECENTES APREENDIDOS. FUNDAMENTAÇÃO IDÔNEA. AGRAVO REGIMENTAL DESPROVIDO.
+- As instâncias ordinárias deixaram de substituir a pena reclusiva do agravante por medidas restritivas de direitos, considerando a quantidade e a qualidade do material entorpecente apreendido: 157,41 gramas de maconha e 110,06 gramas de cocaína (fl. 14).
+- A motivação é idônea para o indeferimento da benesse, pelo inatendimento do seu requisito subjetivo, previsto no art. 44, inciso III, do Código Penal, a despeito de a pena-base ter sido fixada no mínimo legal.
+- Agravo regimental desprovido.(AgRg no HC n. 668.932/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 8/6/2021, DJe de 14/6/2021.)
+Ante o exposto, com fundamento no art. 932, inciso III, do CPC eno art. 255, § 4º, inciso I, do RISTJ,não conheçodo recurso especial.
+Intimem-se.
