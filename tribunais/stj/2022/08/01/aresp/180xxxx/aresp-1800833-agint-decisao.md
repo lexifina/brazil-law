@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo interno, contra decisão monocrática de minha lavra, que não conheceu do recurso especial, ante a incidência da Súmula 7/STJ e ausência de violação ao art. 535 do CPC/73 (art. 1.022 do CPC/2015).
+Nas razões do agravo interno, a parte sustenta, em síntese, os seguintes argumentos:
+ ..
+Data maxima venia, há que ser reconsiderada pelo digníssimo Ministro-Relator, ou reformada pelo órgão colegiado competente, a r. decisão que deixou de fixar os honorários recursais devidos. Senão vejamos.
+Com efeito, este MM. Juízo, embora não tenha conhecido do recurso da Fazenda Pública, deixou de majorar os honorários advocatícios sucumbenciais fixados pela instância regional, tal como disposto na regra do § 11 do art. 85 do CPC:
+ ..
+Na origem, trata-se de ação de rito comum ajuizada por servidores públicos federais inativos do Ministério da Saúde, objetivando a percepção de diferenças salariais, por força de averbação de tempo de serviço especial, devidas entre a data da inativação e a efetiva implantação da vantagem remuneratória em folha, ou, sucessivamente, devidas no quinquênio que precede o requerimento administrativo. Na Sentença julgou-se procedente o pedido, para condenar a UNIÃO a efetuar o pagamento das diferenças remuneratórias decorrentes da revisão administrativa das aposentadorias, compensando as importâncias pagas na via administrativa, o que perfaz, em julho de 2017, R$ 251.701,79, para o autor Epaminondas Rosa da Silva,R$ 250.431,33, para o Autor José Frederico de Lara Palmeiro, R$ 117.079,57, para a Autora Lezi Bittencourt de Menezes e R$ 58.120,43, para o Autor Neomar Nery Prauchner. No Tribunal de origem a sentença foi mantida.
+É o relatório. Decido.
+Recebo o presente agravo interno como embargos de declaração e passo à elucidar a ausência de fixação de honorários recursais.
+Com razão a parte embargante/agravante, pois é devido o reconhecimento da omissão na decisão ora embargada, tendo em vista que, ao não conhecer o recurso especial interposto pela parte adversa, deve-se atentar para o comando ditado pela norma extraída do art. 85, § 11, do CPC/15.
+Com relação à possibilidade de fixação de honorários recursais, a jurisprudência do Superior Tribunal de Justiça é pacífica ao afirmar que a fixação de honorários recursais somente é devida quando, dentre outros requisitos, houver o desprovimento, ou o não conhecimento do recurso interposto, como ocorreu no caso.
+Anote-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. HONORÁRIOS RECURSAIS. ART. 85, § 11 DO CPC/2015. CABIMENTO.
+1. Em relação aos honorários recursais, esta Corte entende que "é devida a majoração da verba honorária sucumbencial, na forma do artigo 85, parágrafo 11, do CPC/2015, quando estiverem presentes os seguintes requisitos, simultaneamente: (a) decisão recorrida publicada a partir de 18/3/2016, quando entrou em vigor o novo CPC;
+(b) recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente; (c) condenação em honorários advocatícios desde a origem, no feito em que interposto o recurso" (EDcl no AgInt nos EDcl no AREsp 1.365.095/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 17/9/2019, DJe 24/9/2019).
+2. No caso dos autos, o acórdão recorrido, proferido pelo TRF3, foi publicado em 13/5/2016, portanto, quando já vigente o CPC/2015; a decisão de fls. 329-330 não conheceu do agravo em recurso especial; por fim, há condenação de honorários na origem (sentença de fls. 173-177)
+3. Agravo interno não provido. (AgInt nos EDcl no AREsp 1126486/SP, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 09/03/2020, DJe 11/03/2020)
+Ante o exposto, dou provimento ao recurso para, com fundamento no art. 85, § 11, do CPC/2015, majorar a condenação da verba honorária fixada pelo Tribunal de origem em 1 ponto percentual, sopesado, para a definição doquantumora aplicado, o trabalho adicional realizado pelos advogados, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Publique-se. Intimem-se.
