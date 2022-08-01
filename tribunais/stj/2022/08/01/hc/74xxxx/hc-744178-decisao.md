@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de KLISMMAN NAZARÉ DA SILVA em que se aponta como autoridade coatora o Tribunal de Justiça do Estado da Bahia (HC n. 8020484-16.2022.8.05.0000).
+O paciente foi preso em flagrante,em 20/5/2022, em razão da suposta prática do delito descrito no art. 33,caput, da Lei n. 11.343/2006. O Ministério Público opinou pela concessão da liberdade provisóriacom imposiçãode medidas cautelares.A prisão em flagrante foi convertida em preventiva (fls. 14-16).
+O decreto prisional fundou-se na quantidade deentorpecentes apreendida-139,80g de cocaína e 106,40g de maconha - e no fato de o paciente ter confessado a prática de mercancia ilícita (fl. 15).
+O desembargador relator indeferiu o pedido de liminar no habeas corpus impetrado na origem, por concluir que estariam presentes os requisitos da prisão preventiva (fls. 10-13).
+A defesa sustenta que a situação dos autos retrata teratologia apta a ensejar o afastamento do doóbice da Súmula n. 691 do STF, visto que não houve representação por parte da autoridade policial nem requerimento do Ministério Público para a decretação da prisão preventiva, de maneira que a prisão cautelar deve ser revogada.
+Requer, liminarmente e no mérito, a expedição de alvará de soltura em favor do paciente.
+O pedido de liminar foi deferido na decisão de fls. 53-55.
+As informações foram prestadas às fls. 60-72 e 73-78.
+O Ministério Público Federal manifestou-se pela superação da Súmula n. 691 do STF para que seja concedida a ordem de ofício, nos termos da liminar deferida, com a imposição de medidas cautelares alternativas à prisão (319 do CPP)(fls. 80-89).
+É o relatório. Decido.
+Ainda que inadequada a impetração de habeas corpus em substituição à revisão criminal ou ao recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o STJ considera passível de correção de ofício o flagrante constrangimento ilegal.
+O pleito formulado no presente writ é dotado de plausibilidade jurídica, circunstância que autoriza a atuação ex officio.
+Conforme descrito na decisão que deferiu o pedido de liminar,o Ministério Público estadualopinou pela concessão da liberdade comimposição de medidas cautelares diversas da prisão e não houve representação da autoridade policial para aplicação de medidascautelares restritivas de liberdade;todavia, o Juízo de primeiro grau converteu a prisão em flagrante em preventiva.
+Portanto, o entendimento adotado pelo Tribunal de origem para negar o pedido desuspenderos efeitos da decisão que decretou a prisão preventiva do paciente diverge da jurisprudência firmada pelo STF de que "a Lei n. 13.964/2019, ao suprimir a expressão "de ofício" constante na redação anterior dos arts. 282, § § 2º e 4º, e 311, ambos do Código de Processo Penal, veda, de forma expressa, a imposição de medidas cautelares restritivas de liberdade pelo magistrado sem que haja anterior representação da autoridade policial ou requerimento das partes" (AgRg no HC n. 198.774/SP, relator MinistroEdson Fachin, Segunda Turma, DJe de 16/9/2021).
+Assim, é imperiosa a concessão da ordem de ofício paraconfirmação da liminar já concedida, a fim de que sejam suspensos os efeitos da decisão que decretou a prisão preventiva do paciente, sem prejuízo da fixação de medidas cautelares alternativas previstas no art. 319 do CPP.
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do presente habeas corpus, mas concedo a ordem de ofício, nos termos do art. 654, § 2º, do Código de Processo Penal, para confirmar a decisão de fls. 53-55 e assegurar ao paciente o direito de aguardar em liberdade o julgamento da ação penal, ressalvada a hipótese de estar cumprindo pena por outro processo ou de haver contra ele mandado de prisão cautelar. A medida cautelar substitutiva fixada pelo Juízo de primeiro grau fica mantida sem prejuízo da fixação de outras cautelares alternativas que julgue necessárias.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
