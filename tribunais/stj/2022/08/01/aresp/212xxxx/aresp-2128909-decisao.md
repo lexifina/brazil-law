@@ -1,0 +1,61 @@
+DECISÃO
+Trata-se de agravo de ALLAN DA ROSAem face de decisão proferida noTRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINAque inadmitiu seu recurso especial interposto com fundamento no art. 105, III, alínea "a", da Constituição Federal - CF, contra acórdão proferido no julgamento de apelação criminal n. 0011342-84.2019.8.24.0038/SC.
+Consta dos autos que o agravante foi condenado pela prática do delito tipificado no art. 155, §§ 1º e 4º, I, c/c art. 14, II,do Código Penal - CP(tentativa de furto qualificado), à pena de1 (um) ano e 4 (quatro) meses de reclusão, em regime aberto, e ao pagamento de 6 (seis)dias-multa (fls. 337/351).
+Recurso de apelação interposto pela Defesa foi desprovido.O acórdão ficou assim ementado:
+"APELAÇÃO CRIMINAL. CRIME CONTRA O PATRIMÔNIO. FURTO MAJORADO PELO REPOUSO NOTURNO E QUALIFICADO PELO ROMPIMENTO DE OBSTÁCULO, NA FORMA TENTADA (ART. 155, §§ 1º E 4º, I, C/C ART. 14, II, DO CP). SENTENÇA CONDENATÓRIA.
+RECURSO DA DEFESA.AFASTAMENTO DA QUALIFICADORA DO ARROMBAMENTO. DESCABIMENTO. LAUDO PERICIAL CONCLUSIVO ACERCA DO DANO PRATICADO ALIADO, AINDA, À VASTA PROVA TESTEMUNHAL.
+APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA. TESE RECHAÇADA.
+DELITO QUALIFICADO E RÉU POSSUIDOR DE MAUS ANTECEDENTES. ESPECIAL REPROVABILIDADE DA CONDUTA.
+RECONHECIMENTO DO FURTO PRIVILEGIADO. PLEITO NÃO FORMULADO NO JUÍZO DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. NÃO CONHECIMENTO NO PONTO.
+FIXAÇÃO DA PENA PROVISÓRIA AQUÉM DO MÍNIMO LEGAL.
+INCIDÊNCIA DE ATENUANTE QUE NÃO PODE CONDUZIR À REDUÇÃO ABAIXO DO PATAMAR MÍNIMO. INTELIGÊNCIA DA SÚMULA N. 231 DO SUPERIOR TRIBUNAL DE JUSTIÇA. ENTENDIMENTO CONFIRMADO PELO SUPREMO TRIBUNAL FEDERAL EM TEMA DE REPERCUSSÃO GERAL. PROVIDÊNCIA DESCABIDA.
+REDUÇÃO DA PENA PELA TENTATIVA NA FRAÇÃO MÁXIMA (2/3).
+INVIABILIDADE. RÉU FLAGRADO NO INTERIOR DO ESTABELECIMENTO SEPARANDO ALGUNS PERTENCES PARA SUBTRAIR. ITER CRIMINIS PERCORRIDO PELA METADE. FRAÇÃO DE 1/2 (UM MEIO) MANTIDA.
+RECURSO PARCIALMENTE CONHECIDO E DESPROVIDO." (fl. 444).
+Em sede de recurso especial (fls. 457/467), a Defesa apontou violação aos arts.1.013, §1º, do Código de Processo Civil - CPC, 599 e 617 do Código de Processo Penal - CPP, porque o TJ não reconheceu o furto privilegiado.
+Sustenta que a apelação tem efeito devolutivo amplo e não se restringe às matérias apreciadas em primeiro grau, e "o ato do TJSC, de dar prevalência a uma formalidade processual em detrimento de direitos fundamentais do Recorrente, revela-se absolutamente ilegal, razão pela qual o pleito preliminar relativo à aplicação da privilegiadora no crime de furto deve ser conhecido" (fl. 463).
+Em seguida, a Defesa apontou violação ao art. 155 do Código Penal,porque o TJ manteve a condenação, sem aplicar o princípio de bagatela.
+Alega que os bens foram avaliados em R$ 81,00 (oitenta e um reais), a conduta certamente é inconveniente, "mas de forma alguma é criminosa, pois não possui potencial para ofender o patrimônio da vítima.Ademais, conforme orientação deste STJ em harmonia com o STF, a reincidência, por si só, não é suficiente para afastar o princípio da insignificância. Devem-se levar em conta as circunstâncias do caso: apenas quando houver um alto número de reincidências é que será possível afirmar a tipicidade material da conduta." (fl. 465).
+Requer a absolvição ou o reconhecimento do furto privilegiado.
+Contrarrazões doMINISTÉRIO PÚBLICO DO ESTADO DE SANTA CATARINA (fls. 477/484).
+O recurso especial foi inadmitido no TJ em razão de: a) ausência de prequestionamento -Súmulas 282 e 356 do STF; b) óbice da Súmula n. 7 do SUPERIOR TRIBUNAL DE JUSTIÇA - STJ; e c) óbice da Súmula n. 83 do STJ (fls. 488/492).
+Em agravo em recurso especial, a Defesa impugnou os referidos óbices (fls. 499/517).
+Contraminuta do MP (fls. 522/528).
+Os autos vieram a esta Corte, sendo protocolados e distribuídos. Aberta vista ao MINISTÉRIO PÚBLICO FEDERAL - MPF, este opinou pelo desprovimento do agravo em recurso especial (fls. 553/557).
+É o relatório.
+Decido.
+Atendidos os pressupostos de admissibilidade do agravo em recurso especial, passa-se à análise do recurso especial.
+Sobre a violação ao art. 155do CP, oTRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINAmanteve a condenação nos seguintes termos do voto do relator:
+"Desse modo, não há que falar no decote da qualificadora referente ao rompimento de obstáculo.
+Sobre o princípio da insignificância, também é inviável sua aplicação. Isso porque deve-se considerar que o furto foi cometido mediante rompimento de obstáculo e durante o repouso noturno, o que indica maior grau de reprovabilidade do comportamento do apelante, sendo que ostenta ainda maus antecedentes.
+Logo, não há como reconhecer a bagatela no presente caso, porquanto a jurisprudência do STJ é firme no sentido de que "a prática de furto qualificado por escalada, arrombamento ou rompimento de obstáculo, em concurso de pessoas e durante o repouso noturno, indica a especial reprovabilidade da conduta, razão suficiente para afastar a aplicação do princípio da insignificância". (STJ, AgRg no HC 622.118/MG, Rel.Ministro João Otávio de Noronha, Quinta Turma, julgado em 15/06/2021).
+Nessa linha, esta Corte comunga do entendimento de que " inviável se mostra a aplicação do princípio da insignificância nos casos de furto qualificado, que indica especial reprovabilidade do comportamento do agente, mormente quando o agente ostenta ainda maus antecedentes criminais". (TJSC, Apelação Criminal n. 0001537- 73.2019.8.24.0017, rel. Luiz Antônio Zanini Fornerolli, Quarta Câmara Criminal, j. 24-09- 2020).
+Assim, mantenho a condenação nos exatos termos da sentença."(fl. 447).
+Consoante entendimento da Suprema Corte, são requisitos para aplicação do princípio da insignificância: a mínima ofensividade da conduta, a ausência de periculosidade social na ação, o reduzido grau de reprovabilidade do comportamento e a inexpressividade da lesão jurídica provocada.
+No caso, o acórdão não reconheceu a insignificância da conduta, por tratar-se de crime cometido com rompimento de obstáculo e em horário derepouso noturno.
+Tal entendimento encontra amparo na jurisprudência desta Corte, poisa prática do delito de furto qualificado pelo rompimento do obstáculo e durante repouso noturno, caso dos autos, indica a especial reprovabilidade do comportamento e afasta a aplicação do princípio da insignificância.
+No mesmo sentido, citam-se precedentes (grifos nossos):
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME DE FURTO. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. MULTIRREINCIDÊNCIA ESPECÍFICA EM CRIMES CONTRA O PATRIMÔNIO. DELITO PRATICADO DURANTE O REPOUSO NOTURNO. JURISPRUDÊNCIA DO STJ. SÚMULA N. 83 DO STJ. DECISÃO MANTIDA.
+1. A aplicação do princípio da insignificância, segundo a orientação do Supremo Tribunal Federal, demanda a verificação da lesividade mínima da conduta, apta a torná-la atípica, considerando-se: a) a mínima ofensividade da conduta do agente; b) a inexistência de periculosidade social na ação; c) o reduzido grau de reprovabilidade do comportamento; e d) a inexpressividade da lesão jurídica provocada. O Direito Penal não deve ocupar-se de condutas que, diante do desvalor do resultado produzido, não representem prejuízo relevante para o titular do bem jurídico tutelado ou para a integridade da própria ordem social.
+2. Incabível a aplicação do princípio da insignificância quando constatada a multirreincidência específica na prática de crimes contra o patrimônio, o que evidencia a acentuada reprovabilidade do comportamento.
+3. A prática de furto qualificado por escalada, arrombamento ou rompimento de obstáculo, em concurso de pessoas e durante o repouso noturno, indica a especial reprovabilidade da conduta, razão suficiente para afastar a aplicação do princípio da insignificância.
+4. Mantém-se integralmente a decisão agravada cujos fundamentos estão em conformidade com o entendimento do STJ sobre a matéria suscitada.
+5. Agravo regimental desprovido.
+(AgRg no AREsp n. 1.991.173/DF, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 24/5/2022, DJe de 26/5/2022.)
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PRINCÍPIO DA INSIGNIFICÂNCIA.INAPLICABILIDADE. FURTO QUALIFICADO.CONCURSO DE AGENTES. CONTINUIDADE DELITIVA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. "A jurisprudência pacífica desta Corte é no sentido de que a prática do delito de furto qualificado por escalada, arrombamento ou rompimento de obstáculo ou concurso de agentes, caso dos autos, indica a especial reprovabilidade do comportamento e afasta a aplicação do princípio da insignificância" (HC 351.207/RS, Rel.Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 28/6/2016, DJe 1/8/2016).
+2. Além disso, a prática dos crimes se deu na forma do art. 71 do Código Penal, o que também impede a aplicação do referido benefício. Precedentes.
+3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 1272319/PR, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 10/10/2018).
+Sobre a violação aos arts. 1.013, §1º, do CPC, 599 e 617 do CPP,o recurso carece de prequestionamento, pois o TJ não analisou expressamente a tese de furto privilegiado. Assim, o recurso não deve ser conhecido em razão da ausência de prequestionamento, motivo pelo qual incidentes, por analogia, as Súmulas ns. 282 e 356/STF. No mesmo sentido, cita-se precedente (grifo nosso):
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME CONTRA A ORDEM TRIBUTÁRIA. SONEGAÇÃO FISCAL. ART. 1º, I E III, DA LEI N. 8.137/90 E ART. 337-A, DO CÓDIGO PENAL. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. INOCORRÊNCIA. DOSIMETRIA. CONSEQUÊNCIAS DO DELITO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356, AMBAS DO STF. DUPLO JUÍZO DE ADMISSIBILIDADE NO RECURSO ESPECIAL. AGRAVO REGIMENTAL DESPROVIDO.
+I - O Novo Código de Processo Civil e o Regimento Interno desta Corte (art. 932, inciso III, do CPC/2015 e arts. 34, inciso VII, e 255, § 4.º, ambos do RISTJ) permitem ao relator julgar monocraticamente recurso inadmissível, prejudicado, ou que não tiver impugnado especificamente todos os fundamentos da decisão recorrida, e ainda, dar ou negar provimento nas hipóteses em que houve entendimento firmado em precedente vinculante, súmula ou jurisprudência consolidada do Supremo Tribunal Federal ou do Superior Tribunal de Justiça, a respeito da matéria debatida no recurso, não importando essa decisão em cerceamento de defesa ou violação ao princípio da colegialidade.
+II - A controvérsia suscitada no recurso especial não foi objeto de análise no acórdão reprochado. In casu, verifica-se a manifesta ausência de prequestionamento, atraindo, portanto, a aplicação da Súmula 282 do STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada".
+E, igualmente, da Súmula 356 do STF.
+III - Ressalto que para que se configure o prequestionamento, há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos como violados, indicadas no recurso analisado, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal (AgRg no AREsp n. 454.427/SP, Quinta Turma, Rel. Min. Luís Felipe Salomão, DJe de 19/2/2015), situação esta inocorrente in casu.
+IV - "O recurso especial é submetido a duplo juízo de admissibilidade, não estando esta Corte Superior vinculada às manifestações do Tribunal a quo acerca dos pressupostos recursais.
+Assim, o reconhecimento da tempestividade pelo Tribunal de origem não vincula este Superior Tribunal de Justiça, Corte competente para analisar, em definitivo, o preenchimento dos requisitos de admissibilidade do recurso especial. Precedentes  (AgRg no AREsp n. 1.774.256/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 28/06/2021).
+Agravo regimental desprovido.
+(AgRg no AREsp n. 2.050.963/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do Tjdft), Quinta Turma, julgado em 7/6/2022, DJe de 15/6/2022.).
+Ante o exposto,conheço do agravo para conhecer em partedo recurso especial e, com fundamento na Súmula n. 568 do STJ, negar-lhe provimento.
+Publique-se. Intimem-se.
