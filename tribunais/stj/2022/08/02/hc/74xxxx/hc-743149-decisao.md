@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de Gilmar Henrique Conceição Santana, apontando-se como órgão coatoro Tribunal de Justiça de Minas Gerais, que denegou o HC n. 1.0000.22.101603-3/000 (fls. 193/201).
+Narram os autos que o paciente está preso preventivamente pela prática, em tese, do delito previsto no art. 12, caput, da Lei n. 10.826/2003.
+Neste writ, afirma-se, inicialmente, que o paciente não tem relação com o crime a ele imputado. Sustenta-se a ausência de fundamentação idônea para a decretação da constrição cautelar, além de destacar a existência de condições pessoais favoráveis.
+Requer-se, em liminar e no mérito, a revogação da prisão preventiva ou, subsidiariamente, aplicação de medidas cautelares alternativas.
+Liminar indeferida (fls. 204/205) e informações prestadas (fls. 207/284), o Ministério Público Federal opinou pelo não conhecimento do writ (fls. 289/294).
+É o relatório.
+Inicialmente, ressalto que, para que fosse possível a discussão a respeito da autoria delitiva, seria imprescindível o exame dos elementos fáticos da lide, circunstância inviável na estreitavia do habeas corpus, que possui rito célere e cognição sumária.
+Depois, de acordo com reiteradas decisões desta Corte Superior, as prisões cautelares são medidas de índole excepcional, somente podendo ser decretadas ou mantidas caso demonstrada, com base em elementos concretos dos autos, a efetiva imprescindibilidade de restrição ao direito constitucional à liberdade de locomoção.
+No caso, o Juízo singular decretou a prisão preventiva, asseverando ser o autuado reincidente, encontrando-se, inclusive, em cumprimento de pena, ou seja, reitera na quebra de confiança em si depositada pelos juízos pelos quais passou, colocando em evidente risco a ordem pública.Portanto, os requisitos subjetivos do autuado são extremamente desfavoráveis, sendo inequívoco o fato de que se dedicar, com habitualidade, à prática de crimes, vulnerabilizando a ordem pública e a sociedade, sobretudo contemporaneamente, em que se denota grande instabilidade social e econômica(fl. 182 - grifo nosso).
+O Tribunal de origem, por sua vez, afastou qualquer ilegalidade na custódia, entendendo-a corretamente motivada, nestes termos (fls. 198/200):
+Resulta também demonstrada a necessidade da segregação, pois, conforme se extrai dos autos, na data dos fatos, a Polícia foi informada sobre uma briga generalizada em via pública, com notícias da ocorrência de disparos de arma de fogo. Ato contínuo, realizadas diligências no local indicado, a guarnição se deparou com um suspeito evadindo-se, o qual foi posteriormente identificado como Gilmar Henrique Conceição (ora paciente).
+Segundo consta, durante a fuga, os militares visualizaram o momento em que Gilmar sacou da cintura uma arma de fogo e a arremessou por cima de um muro. Feita a contenção do suspeito e o recolhimento do material dispensado, foram arrecadados três pinos contendo cocaína e determinada quantia monetária, ambos na posse do agente, assim como uma arma de fogo municiada.
+Não bastasse a gravidade do fato, no que tange à vida pregressa do paciente, nota-se que o caso em comento não é um episódio isolado. Afinal, consoante versam as cópias reprográficas dasFAC/CAC (anexo n.º 08), Gilmar é reincidente, encontrando-se, inclusive, em plena execução de pena pela prática de tráfico de drogas; e, não obstante, voltou a delinquir.
+Logo, todos esses elementos coadunam de forma a evidenciar a periculosidade do agente e autorizam a prisão processual, a bem da garantia da ordem pública (periculum libertatis).
+O fato de o paciente praticar nova conduta delituosa em plena execução de pena reclama atuação mais forte do Estado, impondo-lhe a segregação cautelar. Óbvio, a nova prática delituosa indica que não consegue conter seus impulsos transgressores, o que faz concluir que a paz pública é sempre arranhada com suas posturas. Logo, afetada a ordem pública. (CPP, art. 312 e art. 313, II).
+ ..
+Ressalte-se: a reincidência é condição objetiva que autoriza a prisão preventiva conforme determina o artigo 313, II, do Código de Processo Penal.
+Como se vê, a segregação cautelar está idoneamente justificada nareincidência do paciente, que se encontrava,inclusive, cumprindo pena, quando do suposto envolvimento no crime de que tratam os presentes autos.
+Ora, a existência de inquéritos, ações penais em curso ou condenações definitivas denotam o risco de reiteração delitiva e, assim, constituem também fundamentação idônea a justificar a segregação cautelar (RHC n. 76.929/MG, Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 17/11/2016, DJe 29/11/2016) - (HC n.415.653/RJ, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 9/8/2018).
+Ademais, nos termos da jurisprudência desta Corte, eventuais condições pessoais favoráveis não possuem o condão de, isoladamente, conduzir à revogação da prisão preventiva, sendo certo que, concretamente demonstrada pelas instâncias ordinárias sua necessidade, não se afigura suficiente a fixação de medidas cautelares alternativas.
+Ante o exposto, denego a ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS. PORTE ILEGAL DE ARMA DE FOGO. PRISÃO PREVENTIVA. REINCIDÊNCIA. FUNDAMENTAÇÃO IDÔNEA. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Ordem denegada.
