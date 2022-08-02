@@ -1,0 +1,110 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo ESTADO DE MINAS GERAIS contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS assim ementado (fl.646 e-STJ):
+AÇÃO RESCISÓRIA - AÇÃO DE RESSARCIMENTO POR DANOS MATERIAIS - PRESCRIÇÃO - OCORRÊNCIA - EXTINÇÃO PROCEDÊNCIA DO PEDIDO
+Sabe-se que a ação rescisória tem por escopo desconstituir decisão exauriente, de mérito, transitada em julgado e que seu cabimento está adstrito às hipóteses excepcionais e taxativas, as quais se encontram arroladas no art. 966 do CPC.
+A prescrição prevista no art. 1º do Decreto nº20.910/32 não se aplica apenas a questões pecuniárias, mas sim em todo e qualquer direito ou ação contra a Fazenda federal, estadual ou municipal, seja qual for a natureza.
+O procedimento interno da Administração Pública, com finalidade e apurar responsabilidade, não tem o condão de suspender o prazo prescricional.
+Considerando-se que o ajuizamento da ação de ressarcimento se deu em 2016, ou seja, mais de cinco anos após a ocorrência do evento danoso (2004), é de se reconhecer a prescrição da pretensão ressarcitória, razão pela qual o pedido rescisório também há de ser acolhido.
+Opostos os embargos de declaração,foram rejeitados (fls.686/693e-STJ).
+No recurso especial, fundamentado na alínea "a" do permissivo constitucional, o recorrente sustenta violação aos artigos 508, 966, V e 1.022, II, do Código de Processo Civil/2015,asseverando: a) a negativa de prestação jurisdicional, sob o argumento de que houve omissão doTribunal "com relação ao entendimento deste Tribunal Superior, cuja jurisprudência é sentido de que a prescrição é matéria limitada ao direito material das partes, restrita à esfera de sua disponibilidade, não sendo cabível o ajuizamento de ação rescisória fundada em violação literal de lei (violar manifestamente norma jurídica), sem que a questão afeta à prescrição tenha sido objeto de deliberação na ação originária". (fl.708 e-STJ); b) a preclusão do reconhecimento da prescrição, uma vez que a matériateria sido alegada apenas em ação rescisória.
+Contrarrazões ao recurso especial às fls. 718/729e-STJ.
+Decisão de admissibilidade às fls. 733/736 e-STJ.
+O Ministério Público Federalse manifestou pelo não conhecimento do recurso especial às fls. 757/762 e-STJ.
+É o relatório. Decido.
+Na hipótese dos autos, conforme se extrai do acórdão recorrido, cuida-se de ação rescisória para desconstituirsentença proferida nos autos da ação ordinária de ressarcimento por danos materiaisque julgou procedente o pedido inicial condenando o requerido a pagar ao Estado de Minas Gerais a quantia de R$2.220,00,em virtude do furto de um revólver de uso do então requerente, pertencente ao patrimônio público.
+No tocante à indicada violação aoartigo1.022 do CPC/2015, verifica-se que o Tribunal de origem apreciou a integralidade da controvérsia de modo a entender quea ação rescisória é instrumento hábil para arguir a prescrição da pretensão autoral da ação originária, nos termos do art. 966, V e VIII do Código de Processo Civil, reconhecendo que no caso, ocorreu a prescrição.
+A propósito, o seguinte excerto do acórdão recorrido (fl. 650/351 e-STJ):
+Sabe-se que a ação rescisória tem por escopo desconstituir decisão exauriente, de mérito, transitada em julgado e que seu cabimento está adstrito às hipóteses excepcionais e taxativas, as quais se encontram arroladas no art. 966 do CPC, in verbis:
+"Art. 966. A decisão de mérito, transitada em julgado, pode ser rescindida quando:
+I -se verificar que foi proferida por força de prevaricação, concussão ou corrupção do juiz;
+II -for proferida por juiz impedido ou por juízo absolutamente incompetente;
+III -resultar de dolo ou coação da parte vencedora em detrimento da parte vencida ou, ainda, de simulação ou colusão entre as partes, a fim de fraudar a lei;
+IV -ofender a coisa julgada;
+V -violar manifestamente norma jurídica;
+VI -for fundada em prova cuja falsidade tenha sido apurada em processo criminal ou venha a ser demonstrada na própria ação rescisória;
+VII -obtiver o autor, posteriormente ao trânsito em julgado, prova nova cuja existência ignorava ou de que não pôde fazer uso, capaz, por si só, de lhe assegurar pronunciamento favorável;
+VIII -for fundada em erro de fato verificável do exame dos autos."
+In casu, percebe-se que o autor busca a rescisão da sentença pautando nos incisos V e VIII do artigo 966, do Código de Processo Civil, afirmando que a sentença violou manifestamente a norma jurídica e por ter fundado em erro de fato verificável do exame dos autos.
+No caso versado, merece amparo a irresignação do autor, conforme a seguir exposto.
+(..)
+Sobre o tema, o Decreto nº20.910/32 que regula a prescrição quinquenal prevê em seu artigo 1º que:
+"Art. 1ºAs dívidas passivas da União, dos Estados e dos Municípios, bem assim todo e qualquer direito ou ação contra a Fazenda federal, estadual ou municipal, seja qual for a sua natureza, prescrevem em cinco anos contados da data do ato ou fato do qual se originarem".
+A finalidade do instituto da prescrição é impedir que demandas para reconhecimento de supostos direitos possam ser postuladas a qualquer tempo. Assim, a segurança jurídica impõe um limite temporal para que a parte requeira o direito que entende possuir, impedindo que situações controversas se estendam indefinidamente no tempo.
+Destaca-se que a solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa aos arts. 489 e 1.022 do CPC/2015, pois não há que se confundir entre decisão contrária aos interesses da parte e negativa de prestação jurisdicional.
+No mesmo sentido:
+PROCESSUAL CIVIL. ADMINISTRATIVO. CONCURSO PÚBLICO PARA O CARGO DE PROCURADOR DE CONTAS DO MINISTÉRIO PÚBLICO ESPECIAL JUNTO AO TRIBUNAL DE CONTAS DO ESTADO DO CEARÁ. ALEGAÇÃO DE AFRONTA AO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. DIREITO LOCAL. IMPOSSIBILIDADE DE REVISÃO. SÚMULA 280/STF. PROVA DE TÍTULOS. DIPLOMA DE DOUTORADO OBTIDO NO EXTERIOR. AUSÊNCIA DE REVALIDAÇÃO POR UNIVERSIDADE BRASILEIRA QUANDO DE SUA APRESENTAÇÃO À COMISSÃO DE CONCURSO. RECONHECIMENTO E CÔMPUTO DA PONTUAÇÃO. IMPOSSIBILIDADE. OBSERVÂNCIA AOS PRINCÍPIOS DA LEGALIDADE E DE VINCULAÇÃO AO EDITAL.
+ ..
+2. Na hipótese, não há falar em ofensa ao art. 1.022 do CPC, na medida em que o Tribunal a quo dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos, não se podendo, de acordo com a jurisprudência do Superior Tribunal de Justiça, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+ ..
+9. Recurso especial parcialmente conhecido e, nessa parte, desprovido.
+(REsp n. 1.985.602/CE, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 21/6/2022, DJe de 24/6/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MALFERIMENTO DO ART. 489 DO CPC/2015. INEXISTÊNCIA. IMPROBIDADE ADMINISTRATIVA. ELEMENTO SUBJETIVO. REVISÃO. INCIDÊNCIA DA SÚMULA 7 DO STJ. DEMAIS ALEGAÇÕES. AUSÊNCIA DE PREQUESTIONAMENTO.
+1. Não prospera a tese de violação do art. 489 do Código de Processo Civil de 2015, porquanto o acórdão recorrido fundamentou, claramente, o posicionamento por ele assumido, de modo a prestar a jurisdição que lhe foi postulada. Sendo assim, não há que se falar em carência de fundamentação do aresto.
+2. Sendo assim, não há que se falar em omissão do aresto. O fato de o Tribunal a quo haver decidido a lide de forma contrária à defendida pelo agravante, elegendo fundamentos diversos daqueles por ele propostos, não configura omissão nem outra causa passível de exame mediante a oposição de embargos de declaração.
+ ..
+7. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.708.423/RS, relator Ministro Og Fernandes, Segunda Turma, julgado em 25/5/2021, DJe de 9/6/2021)
+O Tribunal local, julgou procedente o pedido formulado emação rescisória,sob os seguintes fundamentos(fls.649/655 e-STJ):
+Revelam os autos tratar-se de Ação Rescisória movida por Wilton Ribeiro Caldeira objetivando a rescisão da sentença proferida pelo Juízo da 2ª Vara Cível da Comarca de Itabira, que julgou procedente o pedido inicial, para condenar o ora autor a pagar ao Estado de Minas Gerais a quantia de R$2.220,00, corrigida monetariamente e acrescida de juros de mora, ambos pela taxa SELIC e desde o evento danoso (20.10.2004), nos autos da Ação Ordinária de Ressarcimento por Danos Materiais.
+Depreende-se do conjunto probatório que a Ação de Ressarcimento por Danos Materiais foi ajuizada pelo Estado de Minas Gerais, buscando o ressarcimento da quantia de R$2.220,00, relativa a um revólver da marca TAURUS, nºRA611523, de patrimônio do ente público, furtado na residência do autor no dia 20 de outubro de 2004.
+Verifica-se que o ora autor foi revel na demanda de ressarcitória, tendo ocorrido o trânsito em julgado, conforme certidão de pág. 185-doc. único, oportunidade em que ajuizou a presente Ação Rescisória, pelos motivos acima indicados.
+Pois bem.
+Sabe-se que a ação rescisória tem por escopo desconstituir decisão exauriente, de mérito, transitada em julgado e que seu cabimento está adstrito às hipóteses excepcionais e taxativas, as quais se encontram arroladas no art. 966 do CPC, in verbis:
+"Art. 966. A decisão de mérito, transitada em julgado, pode ser rescindida quando:
+I -se verificar que foi proferida por força de prevaricação, concussão ou corrupção do juiz;
+II -for proferida por juiz impedido ou por juízo absolutamente incompetente;
+III -resultar de dolo ou coação da parte vencedora em detrimento da parte vencida ou, ainda, de simulação ou colusão entre as partes, a fim de fraudar a lei;
+IV -ofender a coisa julgada;
+V -violar manifestamente norma jurídica;
+VI -for fundada em prova cuja falsidade tenha sido apurada em processo criminal ou venha a ser demonstrada na própria ação rescisória;
+VII -obtiver o autor, posteriormente ao trânsito em julgado, prova nova cuja existência ignorava ou de que não pôde fazer uso, capaz, por si só, de lhe assegurar pronunciamento favorável;
+VIII -for fundada em erro de fato verificável do exame dos autos."
+In casu, percebe-se que o autor busca a rescisão da sentença pautando nos incisos V e VIII do artigo 966, do Código de Processo Civil, afirmando que a sentença violou manifestamente a norma jurídica e por ter fundado em erro de fato verificável do exame dos autos.
+No caso versado, merece amparo a irresignação do autor, conforme a seguir exposto.
+A parte autora alega que o processo administrativo disciplinar restou finalizado em 28/11/2006, enquanto a Portaria nº120.303/2014-SAD/26º para ressarcimento do dano material foi iniciada em 2014 e o ajuizamento da ação ocorrido em 2016, pelo que evidenciada a prescrição.
+Por outro lado, o Estado de Minas Gerais alega que a Portaria nº120.303/2014 que instaurou a Sindicância Administrativa Disciplinar é de 17/11/2014, sendo a ação de ressarcimento ao erário proposta em 20/01/2016, ou seja, dentro do quinquênio legal.
+Sobre o tema, o Decreto nº20.910/32 que regula a prescrição quinquenal prevê em seu artigo 1º que:
+"Art. 1ºAs dívidas passivas da União, dos Estados e dos Municípios, bem assim todo e qualquer direito ou ação contra a Fazenda federal, estadual ou municipal, seja qual for a sua natureza, prescrevem em cinco anos contados da data do ato ou fato do qual se originarem".
+A finalidade do instituto da prescrição é impedir que demandas para reconhecimento de supostos direitos possam ser postuladas a qualquer tempo. Assim, a segurança jurídica impõe um limite temporal para que a parte requeira o direito que entende possuir, impedindo que situações controversas se estendam indefinidamente no tempo.
+Necessário pontuar, também, que o Supremo Tribunal Federal, no julgamento do RE 669.069/MG, em repercussão geral, firmou entendimento segundo o qual é prescritível em cinco anos a ação de reparação de danos à Fazenda Pública decorrente de ilícito civil.
+In casu, observa-se que o furto do revólver na residência do autor ocorreu em 20/10/2004, enquanto a demanda ressarcitória foi ajuizada na data de 20/01/2016, pelo que se conclui pela ocorrência da prescrição da pretensão indenizatória, vez que ultrapassou o período de cinco anos.
+Ressalte-se, ainda, que o prazo prescricional começa a fluir da data do sinistro, fato gerador dos danos reclamados pelo ente estatal, e não do encerramento de eventual procedimento interno da Administração Pública.
+Assim, diferentemente do alegado pelo réu, o fato da Sindicância Administrativa ter sido iniciada em 2014 não tem o condão de interromper o prazo prescricional.
+(..)
+Sendo assim, considerando-se que o ajuizamento da ação de ressarcimento se deu em 2016, ou seja, mais de cinco anos após a ocorrência do evento danoso (2004), é de se reconhecer a prescrição da pretensão ressarcitória, razão pela qual o pedido rescisório também há de ser acolhido. Em situação semelhante, em voto de minha Relatoria, foi esse o entendimento desta c. 8ª Câmara Cível:
+"EMENTA:APELAÇÃO CÍVEL. AÇÃO DE INDENIZAÇÃO PROPOSTA PELO ESTADO DE MINAS GERAIS. ACIDENTE DE TRÂNSITO COM VIATURA DE PROPRIEDADE DO AUTOR. PRAZO PRESCRICINAL. 5 ANOS. ARTIGO 1º DO DECRETO Nº. 20.910/32. RECONHECIMENTO. PROCEDIMENTO INTERNO. SUSPENSÃO DA PRESCRIÇÃO. IMPOSSIBILIDADE. SENTENÇA MANTIDA.
+Em se tratando de ação indenizatória com pretensão de reparação de danos à Fazenda Pública, por ilícito civil, acidente de veículo envolvendo viatura policial, e não de ação de ressarcimento ao erário em face de improbidade administrativa, deve ser aplicado o art. 1º do Decreto n. 20.190/32, com a prescrição quinquenal.
+Se o sinistro com a viatura policial ocorreu na data de 29/03/2009 e a presente ação de indenização foi ajuizada na data de 09/02/2015, conclui-se pela ocorrência da prescrição da pretensão indenizatória, vez que ultrapassou o período de cinco anos.
+O procedimento interno da Administração Pública, com finalidade e apurar responsabilidades, não tem o condão de suspender o prazo prescricional. Recurso conhecido e não provido. (TJMG-Apelação Cível 1.0686.15.001921-0/001, Relator(a): Des.(a) Fábio Torres de Sousa (JD Convocado) , 8ª CÂMARACÍVEL, julgamento em 01/08/2019, publicação da súmula em 12/08/2019)
+Mutatis mutandis, sobre o tema já se manifestou a jurisprudência:
+"AÇÃO RESCISÓRIA -CUMPRIMENTO DE SENTENÇA -PRESCRIÇÃO INTERCORRENTE -CONSTATAÇÃO -EXTINÇÃO DO PROCESSO COM RESOLUÇÃO DE MÉRITO. É de se reconhecer a ocorrência de prescrição intercorrente quando o processo fica paralisado por inércia da parte exequente, que não pratica qualquer ato processual na fase de cumprimento de sentença por tempo superior ao prazo para o ajuizamento da ação. O prazo prescricional iniciado na vigência do CPC/73 conta-se do fim do prazo judicial de suspensão do processo ou, inexistindo prazo fixado, pelo transcurso de um ano (aplicação analógica do art. 40, § 2º, da Lei n. 6.830, de 1980). Constatada a prescrição intercorrente, declara-se extinto o processo em fase de cumprimento de sentença. (TJMG-Ação Rescisória 1.0000.08.468612-0/000, Relator(a): Des.(a) Manoel dos Reis Morais , 10ª CÂMARA CÍVEL, julgamento em 22/10/2019, publicação da súmula em 01/11/2019)"
+Por fim, considerando-se o acolhimento da alegação relativa à prescrição, resta prejudicada a análise do argumento relativo à nulidade por ausência de intimação e, consequentemente, da ausência de documento essencial.
+À luz de tais considerações, JULGO PROCEDENTE O PEDIDO DEDUZIDO NA PRESENTE AÇÃO, para rescindir a sentença proferida pelo Juízo da 2ª Vara Cível da Comarca de Itabira, nos autos da Ação de Ressarcimento por Danos Materiais nº0003370-13.2016.8.13.0317 e, na forma do art. 974do CPC, reconhecer a prescrição da pretensão inicial.
+Verifica-se, portanto, que o Tribunal de origem reconheceu a ocorrência da prescrição nos termos doart. 1º do Decreto nº20.910/32 e da Jurisprudência do Tribunal de Justiça do Estado de Minas Gerais, além de ter fundamento apossibilidade da ação rescisória para a análise do instituto da prescriçãono art. 966, V e VIII do Código de Processo Civil.
+No recurso especial, por sua vez, a parte recorrente não impugnou tais fundamentos, limitando-se a reiterar genericamente a sua tese de insurgência no sentido de que estaria preclusa a tese de prescrição, motivo pelo qual não poderia ser reconhecida na ação rescisória.
+Dessa forma, verifica-se que o recurso especial não impugnou de maneira específica e suficiente os fundamentos do acórdão recorrido, de modo que incide na espécie o óbice da Súmula 283/STF: É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+A propósito:
+DIREITO PROCESSUAL E CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FRANQUIA. AÇÃO DE RESCISÃO. RESPONSABILIDADE CONTRATUAL CARACTERIZADA. LIVRE CONVENCIMENTO MOTIVADO. REEXAME DE PROVAS E DO CONTRATO FIRMADO. SÚMULAS 5 E 7/STJ. FUNDAMENTOS DO ACÓRDÃO NÃO IMPUGNADOS NO RECURSO ESPECIAL. SÚMULA 283/STF. AGRAVO INTERNO DESPROVIDO.
+ ..
+3. A ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do acórdão recorrido atrai o óbice da Súmula 283 do STF, segundo a qual: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 1.954.803/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 27/6/2022, DJe de 29/6/2022.)
+Por fim, verifica-se que o Tribunal de origem, soberano na análise do conjunto fático probatório dos autos e com base nas particularidades do caso concreto, concluiu pela procedência da ação rescisória à consideração de que "asentença violou manifestamente a norma jurídica e por ter fundado em erro de fato verificável do exame dos autos" (fl.650 e-STJ)
+Assim, o acolhimento da pretensão recursal demandaria o revolvimento do conjunto fático probatório dos autos, esbarrando no óbice da Súmula 7/STJ.
+Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO EM PETIÇÃO DE PEDIDO DE ATRIBUIÇÃO DE EFEITO SUSPENSIVO A RECURSO ESPECIAL. ALEGAÇÃO DE OMISSÃO AO ART. 1.022 DO CPC/15. PEÇAS PROCESSUAIS NÃO JUNTADAS PELO REQUERENTE. IMPOSSIBILIDADE DE AFERIÇÃO DA OMISSÃO. REDIRECIONAMENTO DA EXECUÇÃO FISCAL PARA OS SÓCIOS GERENTES. ALEGAÇÃO DE PRESCRIÇÃO. ANÁLISE DA INÉRCIA DA FAZENDA PÚBLICA. SÚMULA 7 DO STJ. AUSÊNCIA DE FUMUS BONI JURIS. EFEITO SUSPENSIVO AO RECURSO ESPECIAL NÃO DEFERIDO.
+1. O requerente, aduz que nas razões do seu Recurso Especial alegou violação ao art. 1.022 do CPC/2015, pois a Corte não teria apreciado integralmente as razões dos seus Embargos de Declaração e que teria ocorrido a prescrição intercorrente.
+2. Entretanto, não é possível avaliar suas alegações de violação ao art. 1.022 do CPC/2015, uma vez que o requerente não instruiu os autos com: i) os seus Embargos de Declaração; ii) o acórdão que julgou seus Embargos de Declaração e iii) sua petição do Recurso Especial. As citadas peças processuais são essenciais para se averiguar a regularidade das alegações do requerente. Note-se que, por se tratar de Petição com Pedido de Efeito Suspensivo a Recurso Especial, cabe ao requerente fazer a correta instrução processual.
+3. Em relação ao seu argumento de que teria ocorrido a prescrição para o redirecionamento da Execução aos sócios-gerentes, o STJ entende que a decretação da prescrição para o redirecionamento impõe que seja demonstrada a inércia da Fazenda Nacional. Porém, a análise da inércia ou não da Fazenda Pública apenas é verificada com o reexame do acervo fático-probatório, o que encontra óbice na Súmula 7 do STJ. Nesse sentido: AgInt no REsp 1.921.203/RS, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 19.10.2021; e AgInt no REsp 1.964.029/RJ, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 16.2.2022.
+4. Assim, não existe fumus boni juris, haja vista que, em juízo sumário, não há probabilidade de provimento do seu Recurso Especial, o que impossibilita o deferimento de efeito suspensivo ao Recurso Especial do requerente.
+5. Agravo Interno não provido.
+(AgInt na Pet n. 14.813/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 21/6/2022, DJe de 27/6/2022.)
+PROCESSUAL CIVIL E TRIBUTÁRIO. VÍCIOS DE INTEGRAÇÃO. ALEGAÇÃO GENÉRICA. FUNDAMENTAÇÃO. DEFICIÊNCIA. PRESCRIÇÃO. TERMO INICIAL. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE.
+1. Aplica-se o óbice da Súmula 284 do STF quando a alegação de vício de integração se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro.
+2. O conhecimento do recurso especial igualmente encontra óbice nas Súmulas 7 e 83 do STJ, pois Tribunal a quo, atento ao conjunto fático-probatório, decidiu que o despacho de citação do executado fora proferido antes da vigência da Lei Complementar n. 118/2005, interrompendo o prazo prescricional com a citação por edital, não podendo ser imputado ao exequente a culpa pela demora excessiva na satisfação de seu crédito, uma vez que fora diligente na tentativa de citação e penhora de bens, o que está em conformidade com pacífico entendimento jurisprudencial deste Tribunal Superior.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 1.833.775/GO, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 28/3/2022, DJe de 1/4/2022.)
+Ante o exposto, com fulcro no art. 932, III e V, do CPC/2015, c/c o art. 255, § 4º, I e III, do RISTJ, conheço em parte do recurso especial e, nessa extensão, nego-lhe provimento, nos termos da fundamentação.
+Publique-se. Intimem-se
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. AÇÃO RESCISÓRIA. DESCONSTITUIÇÃO DO DEVER DE INDENIZAR OESTADO. VIOLAÇÃO DOART 1.022 DO CPC. AUSÊNCIA DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. PRESCRIÇÃO. FUNDAMENTOS AUTÔNOMOS NÃO ATACADOS. SÚMULA 283/STF.REVOLVIMENTO DO CONJUNTO FÁTICO PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. RECURSO ESPECIALCONHECIDO EM PARTE E NESSA EXTENSÃO, NEGADO PROVIMENTO.
