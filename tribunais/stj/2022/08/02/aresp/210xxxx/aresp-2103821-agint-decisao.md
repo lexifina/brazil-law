@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por AMIL ASSISTÊNCIA MÉDICA INTERNACIONAL (AMIL)contra decisão que negou seguimento ao seu apelo nobre manejado, por sua vez, contra acórdão do TJSP, de relatoria do Des. GALDINO TOLEDO JÚNIOR, assim ementado:
+PLANO DE SAÚDE - Ação revisional, cumulada com restituição de valores -Improcedência decretada - Descabimento - Imposição de reajuste por sinistralidade - Abusividade reconhecida - Relação de consumo que não permite que o fornecedor obtenha vantagem exagerada em detrimento dos interesses dos consumidores - Ajuste celebrado em que devem prevalecer os postulados da cooperação, solidariedade, confiança e boa-fé objetiva - Ausência de demonstração da forma utilizada para o cálculo dos reajustes - Possibilidade apenas dos reajustes anuais, que visa recompor a elevação dos custos - Restituição de valores de forma simples, a partir de dezembro de 2016, observada a prescrição trienal - Apelo parcialmente provido. (e-STJ, fl. 648)
+Os embargos de declaração opostos pela AMIL foram rejeitados.
+Irresignada, AMIL interpôsrecurso especial com base no art. 105, III, alíneaa, da CF, apontando a violação aos arts. 1.022 do NCPC, 35-E, §2º da Lei nº 9.656/98 e art. 478 do Código Civil.
+O recurso não foi admitido pelo TJSP em virtude da incidência da Súmula nº 7 do STJ e da falta de cotejo analítico na demonstração do dissídio jurisprudencial.
+O agravo em recurso especial interposto pela AMILnão foi conhecido em decisão monocrática doMinistroPresidentedo STJ,com amparo no art. 21-E, V, c/c 253, parágrafo único, I, do RISTJ, porque não foram atacados especificamente todos os fundamentos da decisão agravada.
+Nas razões do presente agravo interno, repisando os argumentos trazidos nas razões do apelo nobre, AMIL alegou inaplicabilidade da Súmula nº 182do STJ em virtude de ter infirmado a incidência da Súmula nº 7 do STJ e a falta de cotejo analítico na demonstração do dissídio jurisprudencialno bojo do agravo em recurso especial.
+É o relatório.
+Tendo em vista as alegações trazidas no agravo interno,RECONSIDEROa decisão agravada e,para melhor exame da controvérsia,CONVERTOo agravo emrecurso especial.
+Publique-se. Intimem-se.
