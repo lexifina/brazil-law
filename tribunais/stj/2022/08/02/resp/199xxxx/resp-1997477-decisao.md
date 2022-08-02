@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido peloTRF da 5ªRegião, assim ementado (fl. 130):
+Tributário. Apelação contra sentença que julgou procedentes os embargos à execução fiscal(cobrança de TLP e IPTU), diante da ilegitimidade passiva da executada, extinguindo o feitocom resolução do mérito, e condenou a parte embargada no pagamento dos honorários advocatícios fixados em 10% (dez por cento) sobre o valor atualizado da execução; sem custas processuais.
+Objetiva o Município do Recife o reconhecimento da legitimidade passiva da Caixa, com base na tese 122 do Superior Tribunal de Justiça (REsp 1111202-SP), na Execução Fiscal ajuizada para a cobrança de tributos imobiliários referentes ao imóvel registrado no cadastro imobiliário reforçando que municipal e devido cartório de imóveis em nome da Caixa Econômica Federal,não há dúvida quanto à possibilidade de cobrança do IPTU ao proprietário, na qualidade depromitente vendedor, na qual se coloca a Caixa.
+No caso dos autos, os documentos informam que o imóvel, sobre o qual recai a taxa, foi vendido por exaurimento do contrato de promessa de compra e venda a um particular realizado em 29 de outubro de 1959, e atualmente se encontra inventariado no processo n.001.2004.002229-4/00, em curso na Quarta Vara de Sucessões e Registros Públicos daCapital.
+Noutra perspectiva, a jurisprudência deste Tribunal posiciona-se no sentido de que a não atualização do cadastro perante o Fisco Municipal (arts. 35 e 36, do Código Tributário Municipal do Recife) não gera o dever de pagar o tributo, constituindo-se em mero descumprimento de obrigação acessória, ensejando a aplicação de sanção, a exemplo da multa, mas não o pagamento do tributo. Precedentes: Pje 0009730-29.2016.4.05.8300, des. Fernando Braga,DJE de 05 de outubro de 2017, p. 106; Pje 08063107520194058300, AC des. Cid Marconi,julgamento em 21 de fevereiro de 2020.
+Nessas circunstâncias, evidencia-se que o imóvel pertence a terceiros, já que desde 29 deoutubro de 1.959, foi objeto de promessa de compra e venda, de modo que a Caixa não podeser responsabilizada tributariamente pelo débito da taxa de coleta de resíduos sólidos (antigaTLP) e do IPTU da competência de 2012 e de 2013, ante a sua ilegitimidade passiva. Apelação improvida.
+Majoração dos honorários advocatícios sucumbenciais fixados na sentença apelada em 1%,nos termos do art. 85, § 11, do Código de Processo Civil.
+Embargos de declaração rejeitados às fls. 170-173.
+O recorrente alega violação do art.1.245 do Código Civil, alegando quea Caixa era, sim, proprietária do imóvel. Isso significa dizer que a Caixa era proprietária do imóvel à época dos fatos geradores, segundo cadastro desta Edilidade e considerando ainda a ausência de escritura pública registrada no respectivo cartório de imóveis, pelo que não se observa a existência de qualquer vício.(fl. 182)
+Comcontrarrazões.
+Juízo positivo de admissibilidade àfl. 197.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+O acórdão recorrido afirmou, à fl. 127, queno caso dos autos, os documentos informam que o imóvel, sobre o qual recai a taxa, foi vendido por exaurimento do contrato de promessa de compra e venda a um particular realizado em 29 de outubro de 1.959, e atualmente se encontra inventariado no processo n. 001.2004.002229-4/00, em curso na Quarta Vara de Sucessões e Reg Públicos da Capital.
+Assim, o alegado pelo recorrentenão tem em si correspondência com os fundamentos aplicados pelo acórdão recorrido, situação que impede a exata compreensão da controvérsia deduzida.Aplica-se à hipótese a Súmula 284/STF.
+Ante o exposto, nãoconheço o recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ARGUMENTAÇÃO DISSOCIADA. SÚMULA 284/STF. RECURSO ESPECIAL NÃO CONHECIDO.
