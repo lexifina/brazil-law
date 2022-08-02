@@ -1,0 +1,90 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+RELATÓRIO
+JACKSON DIAS RODRIGUES FILHOinterpõeagravo regimental contra a decisão monocráticaque não conheceu do habeas corpuse julgou prejudicado o pedido de liminar.
+O agravante alega o seguinte (fls. 66-68):
+Os fatos ensejadores do presente procedimento vêm narrados no PAD 131/2021, por fatos supostamente ocorridos em 23/12/2017, ou seja, no curso da execução da pena.
+Em 30/08/2021 fora instaurado em desfavor do paciente o PAD 131/2021.
+Terminada a instrução administrativa, a juíza a quo da Vara de Execuções Penais da Comarca de Itajaí/SC homologou o procedimento administrativo em 02/12/2021, ou seja, quase 04 anos após.
+Todavia, razão não lhe assiste! O que se passa a demonstrar:
+A Jurisprudência já regulamentou a questão, pacificando o entendimento de que o prazo prescricional das faltas disciplinares é de 03 anos a contar de sua prática.
+ ..
+Nos autos n. 00029023620188240135 a denúncia narra fatos ocorridos entre início de 2017 a final de 2018. Desta maneira, os fatos dos quais o Paciente foi acusado encontram-se delimitados no tempo, e, embora se trate de crime permanente, houve delimitação do período em que teriam ocorrido.
+No caso do paciente, a polícia durante as investigações tomou conhecimento de um bilhete do ano de 2017, realizado o termo de apreensão somente em 14/11/2018.
+Veja-se, levando-se em consideração a DATA DO FATO (31/12/2017), como não se tem certeza qual seria esta, devemos levar em consideração a quer for mais benéfica ao reeducando, adotando por analogia a retroatividade da lei penal benéfica.
+Nesta senda, levando-se em consideração a data de 31/12/2017 até a data da homologação do PAD transcorreu lapso superior a três anos.
+Da mesma forma, se adotarmos o Termo de Apreensão do suposto bilhete, 14/11/2018, também estaremos diante da prescrição do PAD.
+Observa-se inclusive no Relatório de Diligência anexo, datado de 22/11/2018, o suposto bilhete lá já se encontrava, podendo-se da mesma forma ser tomado como marco inicial, todavia mais prejudicial ao paciente.
+Vejam Excelências, HC 490.653/SP, o qual estabelece tal prazo prescricional de 03 anos, fala em 03 anos, contados a partir do cometimento da falta grave. DE SEU COMETIMENTO!
+Demais a mais, a partir do advento da Lei 13.964/2019 que previu prazo para reabilitação disciplinar de 01 (um) ano para fins de livramento condicional e progressão de regime, surgiu entendimento de que diante da omissão legislativa, o prazo prescricional regula-se por analogia aos dispositivos do artigo 112 da LEP e artigo 83 do CP (TJMG -Agravo em Execução Penal nº. 1.0079.18.006091-9/001, Rel.: Des. Alexandre Victor de Carvalho, 5ª Câm. Crim., j 18.05.2021).
+Diante da omissão legislativa acerca da prescrição da falta grave, em respeito ao princípio da legalidade e ao postulado do favor rei, a orientação mais favorável ao apenado se mostra mais acertada.
+Portanto, a prescrição da falta grave de fato doloso deve ter como marco inicial a data da infração penal, requerendo assim o reconhecimento da prescrição do PAD, de modo que os direitos do Paciente devem ser restabelecidos.
+Requer a reconsideração da decisão agravada.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NOHABEAS CORPUS. FALTA DISCIPLINAR GRAVE. PRESCRIÇÃO. ART. 109 DO CP. APLICAÇÃO. CRIME PERMANENTE. DATA DA PRISÃO. MARCO INICIAL DA CONTAGEM DO PRAZO PRESCRICIONAL.ENTENDIMENTO DO STJ. DECISÃO MANTIDA.
+1. É inadmissívelhabeas corpus em substituição ao recurso próprio, também à revisão criminal, impondo-se o não conhecimento da impetração, salvo se verificada flagrante ilegalidade no ato judicial impugnado apta a ensejar a concessão da ordem de ofício.
+2. O prazoprescricional para reconhecimento de falta disciplinar grave é de 3 anos, nos termos do art. 109 do Código Penal, com a redação dada pela Lei n. 12.234/2010, aplicado por analogia, ante a ausência de legislação específica sobre a questão.
+3. Nos casos de crime permanente, a data da prisão será o marco inicial da contagem do prazo prescricional, visto que é a data em que cessa a atividade criminosa.
+4. Agravo regimental desprovido.
+VOTO
+O recurso não reúne condições de êxito.
+Segundo a jurisprudência do Superior Tribunal de Justiça, é inadmissível habeas corpus em substituição ao recurso próprio, também à revisão criminal, impondo-se o não conhecimento da impetração, salvo se evidenciada flagrante ilegalidade no ato judicial impugnado apta a ensejar a concessão da ordem de ofício.
+O agravante não apresenta razões aptas para infirmar a decisão ora questionada, que deve ser mantida por seus próprios fundamentos, assim expressos (fls. 59-62):
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de JACKSON DIAS RODRIGUES FILHO, contra acórdão do Tribunal de Justiça do Estado de Santa Catarina (Agravo em Execução n. 5032417-41.2021.8.24.0033) assim ementado (fl. 12):
+AGRAVO EM EXECUÇÃO PENAL. DECISÃO DE ORIGEM QUE HOMOLOGOU PAD. RECONHECIDA A PRÁTICA DE FALTA GRAVE, CONSISTENTE NA PERPETRAÇÃO DE NOVO DELITO. FIXAÇÃO DA DATA-BASE NO DIA EM QUE PRATICADA A INFRAÇÃO. INSURGÊNCIA DEFENSIVA. PLEITO PARA FIXAR A DATA DO COMETIMENTO DA FALTA NO MARCO INICIAL ESTABELECIDO PELO MINISTÉRIO PÚBLICO QUANDO DO OFERECIMENTO DA EXORDIAL ACUSATÓRIA, COM OCONSEQUENTE RECONHECIMENTO DA PRESCRIÇÃO DA PRETENSÃO DISCIPLINAR. IMPOSSIBILIDADE. PRÁTICA DE DELITO PERMANENTE (ORGANIZAÇÃO CRIMINOSA). DATA DA ÚLTIMA PRISÃO QUE DEVE SER CONSIDERADA COMO DA PRÁTICA DA FALTA GRAVE. PRECEDENTES. LAPSO QUE NÃO ULTRAPASSOU O TRIÊNIO LEGAL. RECURSO CONHECIDO E DESPROVIDO.
+O Juízo da execução homologou o procedimento administrativo disciplinar instaurado para apurar falta grave cometida pelo paciente. O Tribunal de origem manteve tal decisão.
+A impetrante sustenta o seguinte (fls. 7-9):
+Excelência, em 30/08/2021 fora instaurado em desfavor do reeducando PAD sob o número 131/2021, por fatos supostamente ocorridos em 23/12/2017, ou seja, cometimento de crime no curso da execução.
+Terminada a instrução administrativa, a juíza a quo da Vara de Execuções Penais da Comarca de Itajaí/SC homologou o procedimento administrativo em 02/12/2021, ou seja, quase 04 anos após.
+Interposto Agravo em Execução Penal, este restou desprovido sob alegação de que não teria transcorrido o prazo de 03 anos entre a prisão e a data da homologação. Todavia, razão não lhe assiste!
+O que se passa a demonstrar: Embora a Lei de Execuções Penais discipline as formas de falta grave e suas consequências, não há menção a prazo limite para instauração do Procedimento Administrativo e sua homologação pelo juízo competente, assim, coube a Jurisprudência regulamentar a questão, pacificando o entendimento de que o prazo prescricional das faltas disciplinares é de 03 anos a contar de sua prática.
+ ..
+Nos autos n. 00029023620188240135 a denúncia narra fatos ocorridos entre início de 2017 a final de 2018. Desta maneira, os fatos dos quais o Paciente foi acusado encontram-se delimitados no tempo, e, embora se trate de crime permanente, houve delimitação do período em que teriam ocorrido.
+No caso do paciente, a polícia durante as investigações tomou conhecimento de um bilhete do ano de 2017, realizado o termo de apreensão somente em 14/11/2018. Veja-se Excelência, levando-se em consideração a DATA DO FATO (31/12/2017), como não se tem certeza qual seria esta, devemos levar em consideração a quer for mais benéfica ao reeducando, adotando por analogia a retroatividade da lei penal benéfica.
+Nesta senda, levando-se em consideração a data de 31/12/2017 até a data da homologação do PAD transcorreu lapso superior a três anos.
+Da mesma forma, se adotarmos o Termo de Apreensão do suposto bilhete, 14/11/2018, também estaremos diante da prescrição do PAD.
+Ademais, observa-se inclusive no Relatório de Diligência (anexo), datado de 22/11/2018, o suposto bilhete lá jáse encontrava, podendo-se da mesma forma ser tomado como marco inicial, todavia mais prejudicial ao paciente.
+Vejam Excelências, HC 490.653/SP,o qual estabelece tal prazo prescricional de 03 anos, fala em 03 anos, contados a partir do cometimento da falta grave. DE SEU COMETIMENTO!
+Requer, liminarmente e no mérito, o reconhecimento da prescrição da falta grave.
+É o relatório. Decido.
+Ainda que inadequada a impetração de habeas corpus em substituição à revisão criminal ou ao recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o Superior Tribunal de Justiça considera passível de correção de ofício o flagrante constrangimento ilegal.
+Nos casos em que a pretensão esteja em conformidade ou em contrariedade com súmula ou jurisprudência pacificada dos tribunais superiores, a Terceira Seção desta Corte admite o julgamento monocrático da impetração antes da abertura de vista ao Ministério Público Federal, em atenção aos princípios da celeridade e da efetividade das decisões judiciais, sem que haja ofensa às prerrogativas institucionais do parquet ou mesmo nulidade processual (AgRg no HC n. 674.472/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 10/8/2021; AgRg no HC n. 530.261/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 7/10/2019).
+Sendo essa a hipótese dos autos, passo ao exame do mérito da impetração.
+Não se constata a existência de flagrante constrangimento ilegal que autorize a atuação ex officio.
+A arguição de prescrição foi afastada e foi homologada a falta grave pelo Juízo da execução em decisão assim fundamentada (fl. 19):
+Na sequência, em que pese arguida a prescrição pela defesa, em análise ao feito observa-se que não deve prosperar.
+Isso porque conforme descrito na denúncia da ação penal n. 0002902-36.2018.8.24.0135, o apenado cometeu o crime de forma permanente entre o início de 2017 e final de 2018, tanto que assim foi condenado.
+Sobre a contagem do prazo prescricional, tendo a denúncia e a sentença reconhecido o cometimento do crime até o final de 2018, entende-se que o fato perpetuou até o último dia do referido ano, ou seja, 31/12/2018, sendo certo que é deste ponto que deve ocorrer a contagem da prescrição, da cessação da conduta.
+Sendo assim, sabendo que a prescrição do PAD regula-se pelo art. 109, VI, do Código Penal, em 3 anos, vislumbra-se que não decorreu o lapso necessário pelo que INDEFIRO o pedido de prescrição.
+ ..
+Portanto, inexistindo qualquer mácula no PAD, sua homologação é medida que se impõe,reconhecendo o cometimento da falta grave nos termos do art. 118, I da LEP.
+Tribunal a quo manifestou-se nestes termos (fls. 15-16, destaquei):
+Assim sendo, diante da constatação de que mesmo segregado o apenado continuava a integrar organização criminosa, na qual, imbuída do seu caráter permanente, foi perpetrada até a data em que cumprido o mandado de prisão expedido nos autos n. 0002902-36.2018.8.24.0135, dia 26 de dezembro de 2018, fato que encerrou a prática delitiva, devendo, assim, incidir esta como a data da prática da falta grave.
+ ..
+Dessa maneira, com a fixação da prática da falta grave no dia em que cumprido o mandado de prisão, não há de se falar em prescrição do Procedimento Administrativo Disciplinar, visto que não ultrapassado o triênio legal para a sua validação, porquanto a decisão que homologou e reconheceu a prática da falta grave foi exarada em2 de dezembro de 2021.
+A jurisprudência do STJ firmou-se no sentido de que "a prescrição das faltas disciplinares de natureza grave, diante da ausência de legislação específica, observa, por analogia, o menor dos prazos previstos no art. 109 do Código Penal, que é de 3 (três) anos, conforme redação trazida pela Lei n. 12.234/2010" (HC n. 365.150/SP, relator Ministro Felix Fischer, Quinta Turma, DJe de 15/3/2017).
+Conforme disposto no voto condutor do acórdão de origem, nas hipóteses de crime permanente, como na espécie (integrar organização criminosa), a data da prisão (26/12/2018) deverá ser o marco inicial da contagem do prazo prescricional, tendo em vista que é a data em que cessa a atividade criminosa. Portanto, da data fixada pela prática da falta grave (26/12/2018) até a data da decisão que a homologou (2/12/2021), não ocorreu a prescrição da pretensão disciplinar.
+Nesse sentido, confiram-se precedentes:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO. DESCABIMENTO. EXECUÇÃO PENAL. FUGA. FALTA GRAVE. APURAÇÃO. PRAZO PRESCRICIONAL. APLICAÇÃO DAS NORMAS PREVISTAS NO CÓDIGO PENAL. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. WRIT NÃO CONHECIDO.
+1. Em consonância com a orientação jurisprudencial da Primeira Turma do Supremo Tribunal Federal - STF, esta Corte não admite habeas corpus substitutivo de recurso próprio, sem prejuízo da concessão da ordem, de ofício, se existir flagrante ilegalidade na liberdade de locomoção do paciente.
+2. O Superior Tribunal de Justiça reconhece a aplicação, por analogia, do prazo prescricional previsto no art.109, inciso VI, do Código Penal, para apuração das faltas graves praticadas no curso da execução penal. Desde a publicação da Lei n. 12.234, de 5/5/10, o prazo para que a infração disciplinar seja apurada e homologada em Juízo é de 3 anos, a contar do cometimento da referida falta disciplinar.
+3. Consoante entendimento desta Corte, o marco inicial da prescrição para apuração da falta grave, no caso de fuga, é o dia da recaptura do foragido, uma vez que se trata de infração permanente. Precedente. Habeas corpus não conhecido. (HC n. 403.398/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 12/3/2018.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. FALTA GRAVE. PRESCRIÇÃO DISCIPLINAR. INOCORRÊNCIA. NULIDADE NÃO EVIDENCIADA. OITIVA JUDICIAL DO APENADO DO REGIME FECHADO. DESNECESSIDADE. INEXISTÊNCIA DE SANÇÃO DE CARÁTER COLETIVO. ABSOLVIÇÃO E DESCLASSIFICAÇÃO. IMPOSSIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A prescrição das faltas disciplinares, diante da lacuna legislativa, observa, por analogia, o menor dos prazos previstos no art. 109 do Código Penal, que é de 3 anos. Normas penitenciárias não têm o condão de regular a perda do direito disciplinar, pois compete privativamente à União legislar sobre o assunto.
+2. A teor dos julgados desta Corte, a inquirição de testemunha em sindicância sem a presença do sentenciado não configura nulidade se defensor técnico acompanhou o ato e o apenado foi ouvido durante o procedimento administrativo disciplinar. É desnecessária nova oitiva em juízo para homologação da falta grave, pois já foram assegurados o contraditório e a ampla defesa.
+3. A palavra dos agentes penitenciários é prova idônea para o convencimento do magistrado acerca da incitação à subversão da ordem e da disciplina. O habeas corpusé ação de rito célere e de cognição sumária e não se presta a analisar alegações relativas à absolvição e à desclassificação da conduta, uma vez que não é possível, em seu bojo, o revolvimento de provas e a nova reconstrução histórica dos fatos.
+4. Não há falar em aplicação de sanção de caráter coletivo ou por ato de terceiro se foi possível precisar a responsabilidade do agravante, punido por autoria coletiva de falta grave.
+5. Agravo regimental não provido. (AgRg no HC n. 610.073/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 18/12/2020.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. FALTA GRAVE. APURAÇÃO. APLICAÇÃO DO PRAZO DO ART.109 DO CP. PRECEDENTES.
+1. A prescrição das faltas disciplinares de natureza grave, em virtude da inexistência de legislação específica, regula-se, por analogia, pelo menor dos prazos previstos no art. 109 do Código Penal, qual seja, 3 anos, nos termos do disposto na Lei n. 12.234/2010 (AgRg no REsp 1.702.078/SP, Ministro Nefi Cordeiro, Sexta Turma, DJe 25/9/2018).
+2. Agravo regimental improvido. (AgRg no HC n. 458.645/DF, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 4/2/2019.)
+Portanto, não se constata a existência de flagrante constrangimento ilegal que autorize a atuação ex officio.
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do presente habeas corpus.
+Fica prejudicado o pedido de liminar.
+Reitere-se que o entendimento do STJ é no sentido de que"a prescrição das faltas disciplinares de natureza grave, diante da ausência de legislação específica, observa, por analogia, o menor dos prazos previstos no art. 109 do Código Penal, que é de 3 (três) anos, conforme redação trazida pela Lei n. 12.234/2010" (HC n. 365.150/SP, relator Ministro Felix Fischer, Quinta Turma, DJe de 15/3/2017).
+Ademais, nos casos de crime permanente, como na espécie (integrar organização criminosa), a data da prisão (26/12/2018) será o marco inicial da contagem do prazo prescricional, vistoque é a data em que cessa a atividade criminosa.
+Portanto, da data da prática da falta grave (26/12/2018) até a data da decisão que a homologou (2/12/2021), não ocorreu a prescrição da pretensão disciplinar.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
