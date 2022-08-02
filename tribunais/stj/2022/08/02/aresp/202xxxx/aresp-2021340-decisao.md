@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que inadmitiu recurso especial, porquanto incidentes as Súmulas 7/STJ e, por analogia, 283/STF.
+A agravante foi condenada a 6 anos e 5 meses de reclusão, em regime inicial fechado, e ao pagamento de 13dias-multa, nos termos do art. 157, § 2º, I e II(por duas vezes), na forma do art. 71, ambos do Código Penal.
+Nas razões do recurso especial, interposto com fundamento na alínea "a" do permissivo constitucional, apontou a recorrente, ora agravante, violação dos arts. 33, §§ 2º, "b", e 3º, do Código Penal e 387, § 2º, do Código de Processo Penal, pugnando, ao final, pela alteração do regime prisional.
+Apresentada contraminuta, manifestou-se o Ministério Público Federal pelo provimento deste agravo.
+O recurso é tempestivo e ataca os fundamentos da decisão agravada, razão pela qual passo ao exame do mérito.
+De início, em relação ao tema da detração, assim se posicionou o Tribunal local (fls. 588-589):
+ .. em relação ao pleito de detração de pena, frise-se ser impossível distinguir, com clareza, por meio dos elementos contidos nos autos, o quantum de pena jácumprido provisoriamente pelo embargante, se houve alguma interrupção na execução da pena ou qualquer outro elemento de valia para a correta valoração da matéria neste momento processual, sem qualquer dúvida.
+De tal sorte, melhor análise caberá ao juízo das execuções criminais, nos termos do art. 66, incisos II e III, alínea "c", da Lei de Execução Penal, possibilitando o exame do tema por este E. Tribunal pela via recursal adequada. ..
+O Tribunal de origem não aplicou o instituto em apreço, em razão da falta de informações necessárias naquele momento processual, recomendandoa sua análise ao juízo das execuções, conclusão essa que não contraria a jurisprudência desta Corte.
+"Adetração,quando não aplicada pelo juiz sentenciante, deverá ser pleiteada e analisada pelo juiz da execução, conforme autorização prevista no art. 66, inciso III, alínea "c", da Lei de Execução Penal, pois ele terá mais elementos para computar o tempo efetivamente cumprido pelo condenado em prisão provisória e avaliar se o desconto desse tempo do total da pena fixada modificará o regime prisional inicial recomendado pela lei"(AgRg no HC n. 659.738/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 27/4/2021, DJe de 3/5/2021).
+Acerca do regime prisional, extrai-se do acórdão recorrido (fls. 549-550):
+ .. Em vista da quantidade de pena e da gravidade dos delitos de roubo praticados, com emprego de armade fogo, sopesando as peculiaridades do caso concreto, o regime inicial prisional deve ser o fechado para todos os réus, como bem delineado na sentença guerreada. ..
+Como visto, o TJSP fixou o regime fechado diante "da quantidade de pena e da gravidade dos delitos de roubo praticados, com emprego de arma de fogo".
+No entanto, em relação à ora recorrente, além de a pena-base ter sido arbitrada no mínimo legal e da primariedade constatada (fls. 548-549), entende esta Corte que " a gravidade do delito deroubocircunstanciado em razão do concurso de pessoas e/ou do emprego dearma de fogonão constitui motivação suficiente, por si só, para justificar a imposição de regime prisional mais gravoso, na medida em que tais circunstâncias são comuns à espécie"(AgRg no HC n. 693.553/SP, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 26/4/2022, DJe de 29/4/2022). No mesmo sentido:AgRg no AREsp n. 1.938.343/CE, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 15/2/2022, DJe de 24/2/2022.
+Logo, diante da fundamentação acima e da pena final aplicada - 6 anos e 5 meses de reclusão-, faz jus a recorrente iniciar a execução da reprimenda no regime intermediário.
+Ante o exposto, conheço do agravo para dar parcial provimento ao recurso especial para alterar o regime prisional inicial para o semiaberto, nos termos do art. 33, § 2º, "b", do Código Penal.
+Publique-se.
+Intimem-se.
