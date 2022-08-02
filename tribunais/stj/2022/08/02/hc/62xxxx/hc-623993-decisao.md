@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de Edilson Junio Gomes Ribeiro - presoem 18/2/2020e condenado pela prática de tráfico de entorpecentes, art. 33 da Lei n. 11.343/2006 (220,80 g de cocaína, 30,4 g de crack), sendo que, após a determinação de sua prisão domiciliar, o paciente, até 11/8/2020, não havia comparecido em nenhumas das centrais de monitoramento eletrônico. Diante desse cenário e da análise da decisão atacada, verifica-se a necessidade da manutenção da prisão preventiva, consubstanciada, especialmente, na conveniência da instrução criminal e para assegurar a aplicação da lei penal-, em que se aponta como autoridade coatora o Tribunal de Justiça do Rio de Janeiro, que denegou a ordem lá impetrada (Habeas Corpus n. 0013436-26.2020.8.19.0000).
+Esta, a ementa do acórdão impugnado (fls. 114/115):
+HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO CAUTELAR. DEFERIMENTO DA LIMINAR, PELO RELATOR ORIGINAL, ATÉ O JULGAMENTO DO MÉRITO DO WRIT. CUMPRIMENTO DO ALVARÁ DE SOLTURA. DETERMINAÇÃO DE COMPARECIMENTO DO PACIENTE AO PATRONATO PARA INSTALAÇÃO DE TORNOZELEIRA ELETRÔNICA. NÃO COMPARECIMENTO DO PACIENTE. NECESSIDADE DA MANUTENÇÃO DA PRISÃO CAUTELAR. CONVENIÊNCIA DA INSTRUÇÃO CRIMINAL E GARANTIA DA APLICAÇÃO A LEI PENAL. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. CASSAÇÃO DA LIMINAR.
+Diante do cenário trazido e da análise da decisão atacada, verifica-se a necessidade da manutenção da prisão preventiva, consubstanciada, especialmente, na conveniência da instrução criminal e para assegurar a aplicação da lei penal, o que, aliado à prova da existência do crime e aos indícios suficientes de autoria, revelam a inviabilidade da concessão do writ.
+Não se duvida que a prisão processual consista em exceção no ordenamento constitucional e, assim, sua incidência deve vir alicerçada em elementos que demonstrem a sua efetiva necessidade, uma vez analisado o quadro retratado,cada qual com as suas particularidades.
+Todavia, presentes os requisitos da prisão preventiva, não há que se falar em constrangimento ilegal.
+Faz-se necessário registrar, ainda, que a prisão processual não é incompatível com a presunção de inocência e nem impõe ao paciente uma pena antecipada, porque não deriva do reconhecimento da culpabilidade, mas, sim, de sua periculosidade, seja para a garantia da ordem pública, seja para a futura aplicação da lei penal, razão pela qual não há de se cogitar em violação do mencionado princípio constitucional.
+Outro não é o posicionamento do Supremo Tribunal Federal sobre o tema, senão vejamos: Inexiste incompatibilidade entre o princípio da presunção de inocência e o instituto da prisão preventiva, podendo esta ser decretada quando presentes os requisitos autorizadores, estando caracterizada, portanto, sua necessidade (HC 70.486, Rel. Min. Moreira Alves; HC 80.830, Rel. Min. Maurício Corrêa; HC 84.639, Rel. Min. Joaquim Barbosa).. (STF - HC 88362 - SE - 2ª T. - Rel. Min. Joaquim Barbosa - DJU 24.11.2006 - p. 89) JCPP.580 JCPP. 499.
+Destaca-se que, sendo deferida prisão domiciliar ao paciente pelo relator original, o mesmo não compareceu ao Patronato para que lhe fosse instalado o dispositivo de monitoramento, conforme decido do juízo de piso.
+Assim, deve a prisão cautelar ser mantida em razão de todo o exposto, da conveniência da instrução criminal e para assegurar a aplicação da lei penal, pois não há segurança de que, solto, ele comparecerá ao juízo quando chamado.
+Desta feita, não se verifica qualquer constrangimento ilegal sanável pela estreita via do Habeas Corpus, devendo ser mantida, portando, a custódia cautelar do paciente, cassando-se a liminar antes deferida pelo relator original.
+ORDEM QUE SE DENEGA. CASSAÇÃO DA LIMINAR.
+Alega a parte impetrante, em síntese, que o constrangimento ilegal decorre de decisão que, mediante fundamentação inidônea - pois apoiada somente na gravidade abstrata dos delitos -, decretou a prisão do paciente (fls. 3/17).
+Postula, em liminar e no mérito, a expedição do competente alvará de soltura, a fim de que seja o paciente posto em liberdade até o trânsito em julgado de sua condenação (fls. 3/17).
+Em 12/11/2021, indeferi o pedido liminar (fls. 136/139).
+O Ministério Público Federal opinou pelo não conhecimentoda ordem (fl. 162).
+É o relatório.
+Da atenta leitura dos autos,afigura-se inviável acolher-se a pretensão, porquanto o alegado constrangimento não se apresenta com a nitidez imprimida na inicial, sobretudo porque as instâncias de origem mencionaram que, quando beneficiado pela prisão domiciliar, o réu não cumpriu determinação da autoridade judiciária - o paciente foi colocado em prisão domiciliar com determinação de que se apresentasse em 48 h ao patronato a fim de se instalar o dispositivo de monitoramento, sob pena de retorno ao cárcere, conforme consta da ação originária  .. . Ofício da autoridade apontada coatora informando que o paciente não se apresentou ao Patronato para instalação de tornozeleira e que foi expedido mandado de notificação em 14/8/2020(fls. 117/118) -, sendo suficiente para atrair o periculum libertatis e o fumus commici delicti.
+Ilustrativamente: RHC n. 108.354/PR, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 10/4/2019.
+Diante disso, não merece reforma o acórdão impugnado.
+A corroborar, oportuna a transcrição, no que interessa, do parecer da Procuradoria-Geral da República (fl. 162):
+ ..
+O Ministério Público Federal vem, nos autos do processo em epígrafe, manifestar-se pelo não conhecimento do presente habeas corpus, por se tratar de substitutivo de recurso próprio. Ademais, não vislumbra a concessão da ordem de ofício, uma vez que o paciente responde pela prática do crime previsto no artigo33, caput, da Lei n. 11.343/06, sendo beneficiado com prisão domiciliar, deixou de comparecer ao patronato, no prazo estipulado para a instalação do equipamento de monitoração eletrônica, bem como não justificou o não comparecimento.
+ ..
+Igualmente: HC n. 470.455/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 19/2/2019; e RHC n. 95.408/RJ, Ministro Joel Ilan Paciornik, QuintaTurma, DJe 14/2/2019.
+Em face do exposto, denego a ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS. DIREITO PENAL. TRÁFICO DE ENTORPECENTES.PRISÃO CAUTELAR. PRISÃO DOMICILIAR. FUNDAMENTAÇÃO SUFICIENTE.CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Ordem denegada.
