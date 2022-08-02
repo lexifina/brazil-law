@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em face de acórdão, assim ementado (fl. 442):
+APELAÇÃO CRIMINAL - TRÁFICO DE DROGAS - AUTORIA E MATERIALIDADE COMPROVADAS - CONDENAÇÃO CONFIRMADA. REDUÇÃO DA PENA - INVIABILIDADE. PRIVILÉGIO - RECONHECIMENTO IMPOSSÍVEL. REGIME PRISIONAL - ABRANDAMENTO INVIÁVEL - RECURSOS NÃO PROVIDOS.
+I - É de rigor a condenação nas iras do art. 33 da Lei 11.343/06,quando as provas constantes dos autos demonstram que os réus guardavam e vendiam drogas, sem autorização e em desacordo com determinação legal ou regulamentar.
+II - A quantidade de droga apreendida na posse dos acusados deve ser levada em consideração no momento de fixação das penas.
+III - A dedicação do réu a atividades criminosas Impede a concessão do benefício previsto no art. 33, §4º, da Lei 11.343/06.
+IV - Sendo a pena privativa de liberdade superior a quatro anos, não se admite a adoção do regime prisional inicial aberto, ainda que o acusado seja primário.
+Consta dos autos condenação às penas de 4 anos e 2 meses de reclusão, em regime semiaberto, e 416 dias-multa, pela prática do crime do art. 33, § 4º, da Lei de drogas.
+Sustenta o impetrante que o caso dos autos autoriza maior diminuição pela minorante do tráfico, bem como a modificação do regime.
+Requer, liminarmente, a suspensão dos efeitos do acórdão impetrado e, no mérito, que seja reduzida a pena e modificado o regime.
+Indeferida a liminar e prestadas as informações, o Ministério Público manifestou-se pelo não conhecimento ou denegação.
+Às fls. 647-651, o impetrante informa que "a paciente é genitora de dois filhos menores.  .. , ambos são menores de 12 (doze) anos, necessitando totalmente dos cuidados de sua genitora. Ademais, a menor Marcelly, faz tratamento psiquiátrico e multidisciplinar para transtornos Autismo,  .. ".
+Acerca da redução pela minorante do tráfico, consta do acórdão (fls. 445/446):
+ ..  - Apelo da ré Barbara
+Como relatado alhures, a defesa da acusada Bárbara não se insurge contra a sua condenação pela prática do crime de tráfico de drogas, mas apenas contra a reprimenda que lhe foi imposta, o que era de se esperar, uma vez que a autoria foi confessada pela ré, que foi presa em flagrante delito na posse de drogas e de uma balança de precisão.
+E, em relação à pena imposta na sentença, razão não socorre à defesa em seu pedido de redução.
+A pena-base e a pena provisória devem ser conservadas no patamar adotado na r. sentença, especialmente porque se encontram no quantum mínimo, não se admitindo nenhum abrandamento..
+Na terceira fase, o MM. Juiz, ao fazer incidir a causa de diminuição de pena prevista no § 4º do art. 33 da Lei 11.343/06, reduziu a sanção, na fração mínima de 1/6 (um sexto), em razão da grande quantidade de droga apreendida nestes autos (fls. 153v/154).
+E, a meu modo de ver, a quantidade de substância entorpecente arrecadada, de fato, é elevada e justifica a escolha do patamar redutor menos benéfico à ré, pois trata-se de 01 (uma) pedra bruta de crack, com massa de 41,64g (quarenta e um gramas e sessenta e quatro centigramas), 48 (quarenta e oito) porções menores desta mesma substância, com massa de 14,31g (quatorze gramas e trinta e um centigramas), e 01 (uma) bucha de maconha, com massa de 5,44g (cinco gramas e quarenta e quatro centigramas).
+Consoante é cediço, a quantidade de droga, assim como a sua natureza, deve ser levada em consideração no momento de fixação das penas, tal como disposto no art. 42 da Lei 11.343/06.
+Portanto, considerando que a ré estava na posse de mais de 55g (cinqüenta e cinco gramas) de crack, o patamar redutor de 1/6 (um sexto) deve ser mantido, pois escolhido com estrita observância aos critérios legais.
+Frise-se, neste ponto, não haver restrição ao exame da quantidade de droga na terceira fase da dosimetria penal em detrimento da sua análise da primeira fase, ainda que a defesa considere ser mais favorável a elevação da pena-base, haja vista que as circunstâncias previstas no art. 42 do CP devem nortear o magistrado em todo o processo de dosimetria penal.
+Além disso, a acusada já foi beneficiada com a benevolência do magistrado singular, que deixou de sopesar a natureza do entorpecente apreendido em seu poder, tendo em vista que o crack é altamente lesivo e forte indutor de dependência.
+Diante da pena aplicada à ré Bárbara, que é superior a 04 (quatro) anos, não se mostra possível a adoção do regime prisional inicial aberto, a despeito da primariedade da acusada, por respeito aos ditames estabelecidos no art. 33, §2º, b, do CP.  ..
+O entendimento adotado corrobora a orientação jurisprudencial desta Corte de que, "considerando que o legislador não estabeleceu especificamente os parâmetros para a escolha da fração de redução de pena prevista no § 4º do art. 33 da Lei n. 11.343/2006, devem ser consideradas, para orientar o cálculo da minorante, as circunstâncias judiciais previstas no art. 59 do Código Penal, especialmente o disposto no art. 42 da Lei de Drogas" (AgRg no HC 349.355/MS, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 11/05/2021, DJe 18/05/2021).
+Entretanto, apesar da natureza da droga - crack -, a quantidade total da apreensão (55 gramas) não se mostra relevante, somada à ausência de circunstâncias adicionais desfavoráveis, como a inserção em grupo criminoso de maior risco social, atuação armada, envolvendo menores ou com instrumentos de refino da droga, entre outras, não justificando, portanto, a minorante do tráfico em quantum diverso do máximo de 2/3. Nesse sentido: AgRg no AREsp 1679878/MG, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 04/08/2020, DJe 14/08/2 020; AgRg no HC 554.893/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 05/05/2020, DJe 15/05/2020.
+Assim, deve ser provido o recurso para estabelecer a fração máxima de redução de pena.
+Procede-se, assim, à dosimetria da pena. Fixada a pena-base em 5 anos de reclusão e 500 dias-multa e inalterada na segunda fase, reconhecida a causa de diminuição de pena do tráfico privilegiado, reduz-se a pena em 2/3, resultando em 1 ano e 8 meses de reclusão e 166 dias-multa.
+Cabível, ainda, considerando-se o quantum final de pena e das circunstância judiciais favoráveis, a fixação do regime aberto e a substituição da pena privativa de liberdade por restritiva de direitos.
+Ante o exposto, concedo o habeas corpus para reduzir a pena da paciente a 1 ano e 8 meses de reclusão, em regime aberto, e 166 dias-multa, substituída a pena privativa de liberdade por restritiva de direitos, a ser definida pelo Juízo das Execuções.
+Comunique-se.
+Publique-se.
+Intimem-se.
