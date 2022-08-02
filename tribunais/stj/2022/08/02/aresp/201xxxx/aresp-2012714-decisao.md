@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+AÇÃO DE EXTINÇÃO DE CONDOMÍNIO, CUMULADA COM FIXAÇÃO DE ALUGUERES. Sentença de extinção. Irresignação da autora. Não acolhimento. Imóvel permanece em nome do testador. Ausência de partilha judicial do bem até o momento, a fim de verificar com a segurança necessária a cota parte do condômino. Aplicação do art. 252 do Regimento Interno do Tribunal de Justiça. Sentença mantida pelos próprios fundamentos. RECURSO IMPROVIDO.
+Nas razões de recurso especial, alega a parte agravante violação dos arts. 1022 do Código de Processo Civil de 2015; 884, 1319, 1320, 1784 e 1923 do Código Civil, além de divergência jurisprudencial.
+Assim posta a questão, observo que o acórdão recorrido se manifestou de forma suficiente e motivada sobre o tema em discussão nos autos. Ademais, não está o órgão julgador obrigado a se pronunciar sobre todos os argumentos apontados pelas partes, a fim de expressar o seu convencimento. No caso em exame, o pronunciamento acerca dos fatos controvertidos, a que está o magistrado obrigado, encontra-se objetivamente fixado nas razões do acórdão recorrido. Afasto, pois, a alegada violação do art. 1022 do CPC.
+Quanto ao mais,verifico que o recurso especial não dispensa o reexame de prova. A parte agravante afirma ser incontroversa a cota-parte dos condôminos. A respeito dessa premissa fática, porém, confira-se o seguinte trecho do acórdão recorrido (e-STJ fl. 106):
+De fato, em que pese a irresignação da recorrente, ante a ausência da partilha do bem, a extinção de condomínio do imóvel mostra-se inviável. Isto porque, há necessidade de partilha judicial do bem a fim de que não reste qualquer dúvida sobre a cota parte dos condôminos. Ademais, eventual pedido de fixação de alugueres poderá ser realizado no Juízo do inventário.
+Não há como afastar essas conclusões em recurso especial, consoante dispõe a Súmula 7 do STJ.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Intimem-se.
