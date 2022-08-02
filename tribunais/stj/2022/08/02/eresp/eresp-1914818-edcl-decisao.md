@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por Associação Policial de Assistência à Saúde - APAS à decisão que indeferiu liminarmente os embargos de divergência, nos termos da seguinte ementa:
+EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA NOS TERMOS LEGAIS E REGIMENTAIS. MERA TRANSCRIÇÃO DE EMENTAS. INDEFERIMENTO LIMINAR.
+A embargante sustenta, em síntese, a existência de omissão no referido decisum, pois deve ser "reconhecido o direito à preservação da vida ao caso em discussão, fazendo-o para julgar abusiva a rescisão contratual de plano de saúde, por parte da operadora embargada, durante o período em os associados vinculados à embargante estiverem submetidos a tratamento médico garantidor da sua sobrevivência e/ou incolumidade física" (e-STJ, fl. 1034).
+Brevemente relatado, decido.
+Os embargos não merecem acolhimento.
+Com efeito, constata-se que os embargos de divergência não ultrapassaram nem sequer a barreira do conhecimento, poisa embargante se limitou a transcrever a tese inserida na ementa do aresto paradigma, oriundo da Terceira Turma, sem realizar o indispensável cotejo analítico dos arestos confrontados, a fim de demonstrar a similitude de situações fáticas com soluções jurídicas diversas, o que impede o processamento dos embargos.
+Ademais, consignou-se não haver qualquersimilitude fática entre os acórdãos confrontados, tendo em vista que a Quarta Turma do STJ não reformou o decisum proferido na origem para determinar a rescisão do contrato de plano de saúde coletivo.
+Na verdade, apenas determinou-se a devolução dos autos para novo julgamento da questão, tomando como base os requisitos considerados pela jurisprudência do STJ sobre o assunto, quais sejam: i) previsão contratual; ii) vigência mínima de 12 (doze) meses; iii) prévia notificação dos usuários com antecedência mínima de 60 (sessenta) dias; iv) impossibilidade da rescisão em casos de pequenos grupos de beneficiários (menos de trinta usuários) - em que o convênio coletivo seria equiparado aos planos individuais; e v) impossibilidade de rescisão para os beneficiários que se encontram em estado de saúde grave - hipótese na qual se deve aguardar a conclusão do tratamento médico para se pôr fim à avença.
+Em outras palavras, em nenhum momento a Quarta Turma determinou a rescisão do contrato firmado pelas partes, mas apenas nova decisão por parte do Tribunal de origem, a fim de analisar o caso de acordo com a jurisprudência pacífica do Superior Tribunal de Justiça, não havendo, portanto, qualquer omissão a ser sanada.
+Ante o exposto, rejeito os embargos de declaração.
+Fique a parte cientificada de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. AUSÊNCIA DAS HIPÓTESES DO ART. 1.022 DO CPC/2015. MERO INCONFORMISMO COM A DECISÃO EMBARGADA. EMBARGOS REJEITADOS.
