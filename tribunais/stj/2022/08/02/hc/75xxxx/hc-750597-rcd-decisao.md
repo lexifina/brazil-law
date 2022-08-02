@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de pedido de reconsideração da decisão de fls. 26/27, mediante a qual indeferi liminarmente o habeas corpus impetrado em benefício de Alessandro dos Santos Germano, nos termos da seguinte ementa (fl. 26):
+HABEAS CORPUS. PLEITO DE EXPEDIÇÃO DE GUIA DE EXECUÇÃO DEFINITIVA SEM RECOLHIMENTO DO SENTENCIADO. WRIT IMPETRADO CONTRA A DECISÃO MONOCRÁTICA DO RELATOR, QUE INDEFERIU MEDIDA DE URGÊNCIA EM MANDAMUS ORIGINÁRIO. TERATOLOGIA OU ILEGALIDADE. AUSÊNCIA. COMPROVAÇÃO DE SITUAÇÃO EXCEPCIONAL A AFASTAR OS ARTS. 105 DA LEI N. 7.210/1984 E 674 DO CPP. CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA.
+Inicial indeferida liminarmente.
+A defesa alega, em síntese, ter demonstrado que o ora requerente já alcançou o lapso temporal exigido para obter os benefícios da execução penal, em especial, a detração penal (fls. 31/32).
+Requer, assim, a reconsideração da decisão, para o fim de deferir o pleito de expedição da competente guia de recolhimento definitivo em favor do ora requerente (fl. 33).
+É o relatório.
+De início, é importante ressaltar que, embora o pedido de reconsideração não esteja previsto na legislação pertinente para fins de revisão de decisões monocráticas de relatores nos tribunais, ele tem sido aceito pela jurisprudência e recebido como agravo regimental, desde que interposto dentro do prazo do recurso adequado. Nesse sentido: AgRg no HC n. 410.918/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 1º/12/2017.
+Outrossim, como o pedido de reconsideração de decisões monocráticas legalmente previsto é o agravo regimental, o prazo para sua apresentação é de 5 dias, contados da publicação da decisão agravada. Veja-se o AgRg no HC n. 366.734/SP, Ministro Nefi Cordeiro, Sexta Turma, DJe 16/3/2017.
+Vale lembrar que o prazo para o agravo regimental nos processos criminais continua sendo aquele do art. 38 da Lei 8.038/1990, de 5 dias, não tendo sido alterado pela entrada em vigor do Código de Processo Civil de 2015.
+A propósito: AgRg no HC n. 648.168/AC, Ministra Laurita Vaz, Sexta Turma, DJe 29/4/2021 e AgRg no AREsp n. 1.002.527/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 25/10/2018.
+Além disso, nos termos da jurisprudência do Superior Tribunal de Justiça, Após a entrada em vigor da Lei n. 13.105/2015, a Terceira Seção desta Corte Superior assentou entendimento no sentido de que, nos processos e recursos que tratam de matéria penal, o prazo continua a ser contado em dias corridos, não se interrompendo ou suspendendo durante as férias, domingos ou feriados, em razão de disposição específica do art. 798 do Código de Processo Penal (AgRg no AREsp n. 1.591.773/MG, Ministro Jorge Mussi, Quinta Turma, DJe 25/8/2020).
+Confiram-se também: AgRg no AREsp n. 2.121.505/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 27/6/2022; AgRg no AREsp n. 1.767.425/RJ, Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Quinta Turma, DJe 2/12/2021; e AgRg no REsp n. 1.924.037/PE, de minha relatoria, Sexta Turma, DJe 19/11/2021.
+Na espécie, consoante a certidão de fl. 29, a decisão impugnada foi disponibilizada no DJe de 24/6/2022 e considerada publicada no dia 27/6/2022.Assim, o pedido de reconsideração ora apresentado, protocolado em 6/7/2022 (fl. 31), é manifestamente intempestivo.
+Acrescento, como fundamento subsidiário, que, não obstante a argumentação desenvolvida pela defesa, os fundamentos da decisão impugnada não foram rebatidos na petição de fls. 31/33, especialmente o de descabimento da impetração de habeas corpus contra decisão de relator indeferindo medida liminar em ação ajuizada nos Tribunais de segundo grau (Súmula 691/STF), e o de que, a teor dos arts. 105 da Lei n. 7.210/1984 e 674 do Código de Processo Penal, transitada em julgado a sentença, é necessária a prisão do réu para a expedição da guia de execução (fls. 27/28).
+Ante o exposto, não conheço do pedido de reconsideração, em virtude de sua intempestividade (art. 34, XVIII, do RISTJ).
+Publique-se.
+EMENTA
+PEDIDO DE RECONSIDERAÇÃO EM HABEAS CORPUS LIMINARMENTE INDEFERIDO. DESCABIMENTO. IMPOSSIBILIDADE DO RECEBIMENTO DO PLEITO COMO AGRAVO REGIMENTAL. INTEMPESTIVIDADE.
+Pedido de reconsideração não conhecido.
