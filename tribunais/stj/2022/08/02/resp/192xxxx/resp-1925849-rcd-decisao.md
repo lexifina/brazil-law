@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de pedido de reconsideração apresentado por MARIA DE LOURDES SILVA COLARES contra acórdão proferidopela Segunda Turma deste Tribunal que restou assim ementado (e-STJ fl. 296):
+PROCESSUAL CIVIL E ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. OMISSÃO E OBSCURDIDADE. INOCORRÊNCIA. REJULGAMENTO DA CAUSA. PRÉVIA CERTIFICAÇÃO DA TEMPESTIVIDADE DO RECURSO PERANTE O TRIBUNAL DE ORIGEM. IRRELEVÂNCIA. DUPLO JUÍZO DE ADMISSIBILIDADE DO RECURSO ESPECIAL. EMBARGOS REJEITADOS.
+1. Os embargos de declaração representam recurso de fundamentação vinculada ao saneamento de omissão, contradição, obscuridade ou erro material, não se prestando, contudo, ao mero reexame da causa.
+2. No presente caso, a embargante, a pretexto de suposta omissão e obscuridade, pretende o rejulgamento da causa, procedimento vedado na via eleita.
+3. O Superior Tribunal de Justiça possui orientação no sentido de que a existência de certidão do Tribunal a quo informando a tempestividade do recurso não é suficiente para vincular esta Corte Superior que possui a competência definitiva para analisar os requisitos de admissibilidade do apelo nobre
+4. Embargos de declaração rejeitados.
+A requerente alega, em síntese, que o recurso especial seria tempestivo, conforme certidão lavrada pelo próprio Tribunal de origem, documento oficial que goza de presunção de veracidade.
+Ademais, sustenta que deveria ter sido determinada sua intimação para juntada do documento com o feriado local, nos termos do art. 932, parágrafo único, do CPC/2015, bem como em obediência ao princípio da cooperação previsto no art. 6º do CPC/2015.
+Por fim, aduz que a jurisprudência desta Corte admite a correção de vício em sede de agravo interno, inclusive a juntada de documento para comprovar feriado local, como ocorre no presente caso.
+Requer, assim, "a reconsideração da r. decisão, para reconhecer que a certidão do Tribunal de origem é de caráter oficial e presume veracidade, não sendo admissível que se passe pelo crivo diferenciado de tempestividade adotado por sistemas de tribunais diferentes, evitando que a parte evidentemente prejudicada precise desenvolver instrumento a fim de proteger seu direito líquido e certo - tanto de apresentar REsp como de fazer valer a norma do artigo 932, Parágrafo único, do CPC" (e-STJ fls. 312/313).
+É o relatório. Decido.
+O pedido não comporta conhecimento, em razão de falta de previsão legal ou regimental.
+Com efeito, o art. 1021 do CPC/2015 e o art. 259 do RISTJ somente estabelece o exercício de retratação em sede de agravo interno interposto em face de decisão monocrática do Relator.
+Logo, inexiste qualquer previsão no Código de Processo Civil ou no Regimento Interno deste Tribunal a amparar o pedido de reconsideração formulado contra acórdão proferido por órgão colegiado,
+Nesse sentido os seguintes julgados desta Corte:
+ADMINISTRATIVO E PROCESSUAL CIVIL. PEDIDO DE RECONSIDERAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. PEDIDO DE RECONSIDERAÇÃO DE ACÓRDÃO. DESCABIMENTO. INAPLICABILIDADE DO PRINCÍPIO DA FUNGIBILIDADE RECURSAL. ERRO GROSSEIRO. PRECEDENTES DO STJ. PEDIDO DE RECONSIDERAÇÃO NÃO CONHECIDO.
+I. Pedido de Reconsideração formulado contra acórdão prolatado pela Segunda Turma do Superior Tribunal de Justiça, em sede de Embargos de Declaração, publicado na vigência do CPC/2015.
+II. Nos termos da jurisprudência do Superior Tribunal de Justiça no sentido de que "revela-se manifestamente incabível o pedido de reconsideração contra decisão colegiada, ante a ausência de previsão legal e regimental" (STJ, RCD na Pet 11.775/MG, Rel. Ministra NANCY ANDRIGHI, CORTE ESPECIAL, DJe de 22/08/2017). Nesse sentido: STJ, RCD no AgInt nos EDcl nos EDcl no AgInt nos EREsp 1.637.876/SP, Rel. Ministro HERMAN BENJAMIN, CORTE ESPECIAL, DJe de 08/05/2020; RCD no AgInt no RE nos EDcl no AgInt no AREsp 601.207/RS, Rel. Ministro HUMBERTO MARTINS, CORTE ESPECIAL, DJe de 04/04/2018.
+III. Pedido de Reconsideração não conhecido.
+(RCD nos EDcl no AgInt no REsp n. 1.822.101/MG, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 10/5/2021, DJe de 18/5/2021)
+TRIBUTÁRIO. IPVA. ISENÇÃO. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DE INADMISSÃO DO RECURSO ESPECIAL NA ORIGEM.
+I - Na origem trata-se de mandado de segurança contra ato que negou a concessão de benefício fiscal de isenção de IPVA. Na sentença concedeu-se a ordem. No Tribunal a quo a sentença foi reformada para denegar a segurança. Nesta Corte não se conheceu do agravo em recurso especial diante da falta de impugnação dos fundamentos de inadmissibilidade do recurso especial na origem. A decisão foi mantida no julgamento do agravo interno. Interposto novo agravo interno, não se conheceu do recurso diante do seu não cabimento contra decisão colegiada. Apresentado então, pedido de reconsideração.
+II - O pedido de reconsideração não merece ser conhecido por falta de previsão legal. Inaplicável o princípio da fungibilidade recursal para fins de recebimento do pedido de reconsideração como embargos de declaração ou agravo interno, pois o recurso não atende a previsão legal de nenhuma das duas espécies recursais (AgInt no RCD no AREsp 1274055/RJ, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 17/06/2019, DJe 25/06/2019).
+III - Ademais, não é cabível pedido de reconsideração contra acórdão proferido por órgão colegiado desta Corte. Nos termos da jurisprudência deste Superior Tribunal de Justiça, o recebimento do pedido de reconsideração como embargos de declaração não se afigura possível, por se tratar de erro grosseiro (RCD no AgInt no AREsp 1114753/SC, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 26/06/2018, DJe 03/08/2018).
+IV - Determina-se a imediata baixa dos autos, independentemente do transcurso do trânsito em julgado.
+V - Pedido de reconsideração não conhecido.
+(RCD no AgInt no AgInt no AREsp n. 1.591.412/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 24/11/2020, DJe de 1/12/2020)
+Ante o exposto, com fulcro no art. 34, XVIII, "a", do RISTJ, não conheço do pedido de reconsideração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. SERVIDOR PÚBLICO. PEDIDO DE RECONSIDERAÇÃO EM FACE DE ACÓRDÃO PROFERIDO POR ÓRGÃO COLEGIADO. INVIABILIDADE. AUSÊNCIA DE PREVISÃO LEGAL OU REGIMENTAL. PEDIDO NÃO CONHECIDO.
