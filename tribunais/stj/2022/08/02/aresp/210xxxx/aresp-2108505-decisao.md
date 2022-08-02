@@ -1,0 +1,27 @@
+DECISÃO
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ISS. DENÚNCIA ESPONTÂNEA. EXCLUSÃO DA MULTA MORATÓRIA. PRETENSÃO QUE DEMANDA REEXAME DE PREMISSA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+1. Agrava-se dadecisão que inadmitiu o recurso especial interposto peloMUNICÍPIO DE SÃO PAULO, com fundamento no art. 105, inciso III, alíneaa, da CF/1988, no qual se insurgira contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+Ação de consignação em pagamento. ISS. Denúncia espontânea. Autoras impedidas de realizar o recolhimento do imposto sem a incidência da multa moratória. Recusa do credor caracterizada. Denúncia espontânea que exclui a multa moratória. Precedentes. Ausência de impugnação do Município quanto ao valor do débito principal. Sentença de parcial procedência. Recurso das autoras provido. Recurso adesivo do Município prejudicado (fl. 311).
+2. Os embargos de declaração opostos foram rejeitados (fls. 324/326).
+3. Nasrazões do seurecurso especial (fls. 330/338), a parte agravante sustentaviolação do art. 138 do CTN ao defender a inviabilidade da denúncia espontânea sem a verificação dos seus requisitos específicos.
+4. Devidamente intimada, a parte agravada apresentou as contrarrazões (fls. 341/352).
+5. Sobreveio o juízo de admissibilidade negativo(fls. 458/459),razão pela qual se interpôs o presente agravo em recurso especial, ora em análise.
+6. É o relatório.
+7. A irresignação não merece prosperar.
+8. Inicialmente, é importante ressaltar que o presente recurso atrai a incidência do Enunciado Administrativo 3 do STJ, segundo o qual aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+9.Nos  exatos  termos  do  acórdão  recorrido,  o  Tribunal  de  origem  assim  se  manifestou  sobre  o cerne da  insurgência:
+Prevê o Código Tributário Nacional, art. 138, que a responsabilidade é excluída pela denúncia espontânea da infração, acompanhada, se for o caso, do pagamento do tributo devido e dos juros de mora, ou do depósito da importância arbitrada pela autoridade administrativa, quando o montante do tributo depender de apuração.
+Nos impostos sujeitos a lançamento por homologação, como no caso do ISS, a denúncia espontânea se dá com a retificação da anterior declaração do débito pelo contribuinte, acompanhada do recolhimento doimposto devido, independentemente de qualquer procedimento administrativo adotado pelo Fisco, excluindo as penalidades pecuniárias, ou seja, as multas de caráter eminentemente punitivo, bem como as multas moratórias.
+(..)
+Portanto, caracterizada a hipótese de denúncia espontânea realizada pelas autoras, é indevida a cobrança da multa moratória.
+Não havendo impugnação do Município quanto ao valor depositado pelas autoras relativamente ao débito principal, o crédito tributário foi integralmente satisfeito pelo depósito realizado nestes autos (fls. 312/313 e 315 - sem destaques no original).
+10. Nesse contexto, dissentir das conclusões adotadas demandaria, a toda evidência, o reexame de premissas fático-probatórias dos autos, o que é vedado em recurso especial ante o teor da Súmula 7/STJ.
+11. A propósito, cita-se:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO AO ART. 535 DO CPC/1973. NÃO OCORRÊNCIA. DENÚNCIA ESPONTÂNEA. NÃO CARACTERIZAÇÃO. TRIBUTO REGULARMENTE DECLARADO E PAGO A DESTEMPO. MATÉRIA SUBMETIDA AO RITO DO ART. 543-C DO CPC/1973. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. PRECEDENTES.
+1. Afasta-se a alegada violação do art. 535 do CPC/1973, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo que se confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional.
+2. O Tribunal de origem decidiu conforme a jurisprudência desta Corte no sentido de que não se configura o benefício da denúncia espontânea no caso em que o tributo, sujeito a lançamento por homologação, é regularmente declarado pelo contribuinte e o pagamento efetuado a destempo. Precedentes: AgRg no AREsp 256.212/SP, Rel. Min. Benedito Gonçalves, Primeira Turma, DJe 22/06/2016; AgRg no REsp 1.303.233/MG, Rel. Min. Sergio Kukina, Primeira Turma, DJe 25/11/2014.
+3. Na hipótese, a alteração do entendimento do Tribunal a quo, na forma pretendida pela agravante, demandaria o reexame de matéria fático-probatória, o que encontra óbice na Súmula 7 desta Corte de Justiça conforme os precedentes acima citados.
+4. Agravo interno não provido.(AgInt no REsp n. 1.633.836/MG, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 11/5/2020, DJe de 13/5/2020.)
+12. Ante o exposto, conheço do agravo para não conhecer do recurso especial doMUNICÍPIO DE SÃO PAULO.
+13.Por fim, caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+14. Publique-se. Intimações necessárias.
