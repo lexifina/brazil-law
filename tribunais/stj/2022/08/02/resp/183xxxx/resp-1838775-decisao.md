@@ -1,0 +1,55 @@
+DECISÃO
+Vistos  etc.
+Trata-se  de  recurso  especial  interposto  por  VALTER CARNIATO E OUTROS  com  fundamento  no  art.  105,  inciso  III,  alínea  "a" ,  da  Constituição  da  República  contra  acórdão  proferido  pelo  Tribunal  de  Justiça  do  Estado  de São Paulo  (fls.  424/433 ):
+PREVIDÊNCIA PRIVADA - RECÁLCULO DE BENEFÍCIO COM BASE NO REGULAMENTO VIGENTE NO MOMENTO DA ADESÃO AO PLANO DE PREVIDÊNCIA - IMPOSSIBILIDADE - DIREITO ADQUIRIDO - INEXISTÊNCIA - APLICAÇÃO DOARTIGO 17, PARÁGRAFO ÚNICO, DA LEI COMPLEMENTAR 109/2001 - SENTENÇA DE IMPROCEDÊNCIA MANTIDA, POR FUNDAMENTO DIVERSO - RECURSO NÃO PROVIDO.
+Não pode ser acolhido o pedido de revisão da aposentadoria complementar com a aplicação das regras vigentes no momento da contratação do plano de previdência privada, inexistindo direito adquirido a ser preservado, uma vez que o benefício deve ser apurado com base no regulamento vigente no momento do preenchimento dos requisitos para a concessão da aposentadoria, nos termos do artigo 17, parágrafo único, da Lei Complementar109, de 29 de maio de 2001, sendo de rigor, portanto, a improcedência da ação.
+Cuida-se  na  origem  de  ação  ordináriaajuizada por VALTER CARNIATO E OUTROS ajuizaram em desfavor doBANCO SANTANDER (BRASIL) S. A.
+O  juízo  de  primeiro  grau reconheceu a prescrição dapretensão autoral de recebimento das diferenças de complementação de aposentadoriae julgou improcedentesos demais pedidos autorais.
+Os  requerentes  interpuseram  recurso  de  apelação.  O  Tribunal  de  Justiça  de  origem  negou  provimento  ao  apelo  conforme  a  ementa  acima  transcrita.
+Opostos embargos de declaração, esses restaram rejeitados(fls. 445/449).
+Em  suas  razões  de  recurso  especial,  a  recorrente  alegou  violação  ao art. 489, do Código de Processo Civil. No mérito, aduziu violação ao art. 468, da Consolidação das Leis do Trabalho.Acenou  pela  ocorrência  de  divergência  jurisprudencial.  Requereu  o  provimento  do  recurso  especial.
+Houve  apresentação  de  contrarrazões.
+É  o  relatório.
+Passo  a  decidir.
+O  recurso  especial  não  merece  provimento.
+A matéria controvertida diz respeito ao direito dos autores ao cálculo da complementação de aposentadoria de acordo com as normas vigentes quando de sua admissão como empregados.
+1. Da violação ao art. 489, do CPC:
+Consoante a jurisprudência do Superior Tribunal de Justiça, não há falar em omissão, falta de fundamentação e/ou negativa de prestação jurisdicional, quando o o Tribunal de Justiça de origemdirimiu, fundamentadamente, a questão que lhe foi submetida, apreciando a controvérsia posta nos autos.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE REPARAÇÃO POR DANOS MATERIAIS E MORAIS. FUNDAMENTAÇÃO DEFICIENTE. ILAÇÕES GENÉRICAS. APLICAÇÃO DA SÚMULA Nº 284 DO STF, POR ANALOGIA. ARTS. 489 E 1.022 DO NCPC. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. JULGADO FUNDAMENTADO. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016)serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A alegada afronta a lei federal não foi demonstrada com clareza, caracterizando, dessa maneira, a ausência de fundamentação jurídica e legal, conforme previsto na Súmula nº 284 do STF.
+3. Não há falar em omissão, falta de fundamentação e/ou negativa de prestação jurisdicional, na medida em que o Tribunal de Justiça de São Paulo dirimiu, fundamentadamente, a questão que lhe foi submetida, apreciando a controvérsia posta nos autos.
+5. Agravo interno não provido.(AgInt no AREsp n. 1.976.876/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 1/6/2022.)
+2. Da violação à CLT:
+A simples indicação de dispositivos e diplomas legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor dos Enunciadosn.º 282 e 356 do STF.
+A propósito:
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO DE EMPREITADA. AUSÊNCIA DE ALCANCE NORMATIVO DO ARTIGO INDICADO. SÚMULA N. 284/STF. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. ACÓRDÃO RECORRIDO E DECISÃO AGRAVADA. FUNDAMENTOS. IMPUGNAÇÃO. INEXISTÊNCIA. SÚMULAS N. 283 DO STF E 182 DO STJ. REEXAME DO CONTRATO E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. DECISÃO MANTIDA.
+1. Considera-se deficiente, a teor da Súmula n. 284 do STF, a fundamentação recursal que alega violação de dispositivos legais cujo conteúdo jurídico não tem alcance normativo para amparar a tese defendida no recurso especial.
+2. A simples indicação de dispositivos e diplomas legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor das Súmulas n. 282 e 356 do STF.
+3. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF.
+4. É inviável o agravo previsto no art. 1.021 do CPC/2015 que deixa de atacar especificamente os fundamentos da decisão agravada (Súmula n. 182/STJ).
+5. O recurso especial não comporta o exame de questões que impliquem interpretação de cláusula contratual ou revolvimento do contexto fático-probatório dos autos, a teor do que dispõem as Súmulas n. 5 e 7 do STJ.
+6. No caso, a Corte de origem assentou que inexistiram excludentes para isentar a agravante de indenizar o recorrido pelos serviços de empreitada, uma vez que ele sempre esteve à disposição da empresa nas obras, não executando integralmente a avença por obstáculos criados unicamente pela recorrente. Para rever tal entendimento, acolhendo a pretensão de afastar a condenação pecuniária imposta à empresa agravante, seria imprescindível nova análise da matéria fática, inviável em recurso especial. Do mesmo modo, sem incorrer nos referidos óbices, é inviável, em recurso especial, averiguar:(i) a questão da desincumbência do ônus probatório pelo recorrido e (ii) a desproporcionalidade da indenização do art. 623 do CC/2002.
+7. Agravo interno a que se nega provimento.(AgInt no AgInt nos EDcl no AREsp n. 1.603.061/MG, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 2/6/2022.)
+3. Do dissídio jurisprudencial:
+Consoante a jurisprudência do STJ, odissídio jurisprudencial não merece conhecimento quando não foi realizado o necessário cotejo analítico entre os julgados trazidos a confronto. A mera transcrição de ementas ou de passagens dos arestos indicados como paradigma não atende aos requisitos dos arts. 1.029 do CPC/2015 e 255, §§ 1º e 2º, do RISTJ.
+A propósito:
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. CONTRATOS BANCÁRIOS. DECISÃO DE ADMISSIBILIDADE IMPUGNADA, AINDA QUE SUCINTAMENTE. NOVA ANÁLISE DO AGRAVO. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015 NÃO CONFIGURADA. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. COTEJO ANALÍTICO NÃO REALIZADO. AUSÊNCIA DE INDICAÇÃO DOS ARTIGOS DE LEI TIDOS POR VULNERADOS. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECLAMO. SÚMULA 284/STF. REVISÃO DAS CONCLUSÕES DO TRIBUNAL DE ORIGEM. IMPOSSIBILIDADE. NECESSIDADE DE INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E DO REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULAS 5 E 7/STJ. VIOLAÇÃO A SÚMULA. DESCABIMENTO. SÚMULA 518/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Da análise do acórdão recorrido, verifica-se que todas as questões suficientes ao deslinde da controvérsia foram efetivamente analisadas pelo Tribunal de origem, não havendo que se falar em violação aos arts. 489 e 1.022 do Código de Processo Civil de 2015.
+2. O dissídio jurisprudencial não merece conhecimento, porque não foi realizado o necessário cotejo analítico entre os julgados trazidos a confronto. A mera transcrição de ementas ou de passagens dos arestos indicados como paradigma não atende aos requisitos dos arts. 1.029 do CPC/2015 e 255, §§ 1º e 2º, do RISTJ.
+3. A falta de indicação, de forma clara e precisa, dos dispositivos legais que teriam sido eventualmente violados faz incidir à hipótese, em relação a quaisquer das alíneas do permissivo constitucional, o teor da Súmula 284/STF, por analogia: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+4. Reverter a conclusão do Colegiado originário, para acolher a pretensão recursal, demandaria o revolvimento de cláusulas contratuais e do acervo fático-probatório dos autos, o que se mostra impossível ante a natureza excepcional da via eleita, consoante enunciado das Súmulas n. 5 e 7 do Superior Tribunal de Justiça.
+5. Não cabe ao Superior Tribunal de Justiça apreciar a violação a enunciado de súmula em recurso especial, visto que o referido normativo não se insere no conceito de lei federal, previsto no art. 105, III, a, da Constituição Federal, consoante dispõe a Súmula 518 desta Corte.
+6. Razões recursais insuficientes para a revisão do julgado.
+7. Agravo interno desprovido.(AgInt no AgInt no AREsp n. 1.982.305/RS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 2/6/2022.)
+Ante o exposto, com arrimo no art. 932, inciso IV, do Código de Processo Civil, conheço e nego provimento ao recurso especial.
+Com fundamento no art. 85, § 11, do CPC, majoro os honorários sucumbenciais a que condenados os recorrentes na origem em R$ 500,00, observada a eventual e anterior concessão da gratuidade judiciária.
+Advirto as partes que a oposição de incidentes manifestamente improcedentes e protelatórios dará azo à aplicação das penalidades legalmente previstas.
+Intimem-se.
+EMENTA
+RECURSO ESPECIAL. PROCESSUAL CIVIL.AÇÃO DE REVISÃO. PREVIDÊNCIA PRIVADA. NEGATIVA/FALTA DE FUNDAMENTAÇÃO. NÃO OCORRÊNCIA. PREQUESTIONAMENTO. AUSENTE. INCIDÊNCIA DOS ENUNCIADOS N.º 282 E 356/STF. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO.
+1. Consoante a jurisprudência do Superior Tribunal de Justiça, não há falar em omissão, falta de fundamentação e/ou negativa de prestação jurisdicional, quando o o Tribunal de Justiça de origem dirimiu, fundamentadamente, a questão que lhe foi submetida, apreciando a controvérsia posta nos autos.
+2. A simples indicação de dispositivolegaltidopor violado, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor dos Enunciadosn.º 282 e 356 do STF.
+3. Consoante a jurisprudência do STJ, o dissídio jurisprudencial não merece conhecimento quando não foi realizado o necessário cotejo analítico entre os julgados trazidos a confronto. A mera transcrição de ementas ou de passagens dos arestos indicados como paradigma não atende aos requisitos dos arts. 1.029 do CPC/2015 e 255, §§ 1º e 2º, do RISTJ.
+4. RECURSO ESPECIAL CONHECIDO E DESPROVIDO.
