@@ -1,0 +1,7 @@
+DECISÃO
+Trata-se de agravo interno interposto contra decisão da Presidência deste Tribunal (fls. 466) que conheceu do agravo em recurso especial para não conhecer do recurso especial, pelas seguintes razões:a) o recurso especial foi interposto contra acórdão com fundamento eminentemente constitucional; b) não é cabível a interposição de recurso especial fundado na violação ou interpretação divergente de resolução.
+O agravante alega queo STF, no Recurso Extraordinário 657.871-RG/SP (Tema 734), em caso análogo ao presente, definiu "que a questão de aplicação de lei posterior mais benéfica quanto a sanção de natureza administrativa, aplicada em decorrência de prática de infração de trânsito, não tem repercussão geral, pois o tema é infraconstitucional" (fl. 475); alega que, por consequência, é cabível o recurso especial para conhecimento das violações à legislação infraconstitucional apontada como violada, no caso os artigos 22, inciso IV, 44, inciso IV, e 26, inciso IV, todos da Lei n. 10.233/01, e artigos 1º, 2º e 6º, §1º, da Lei de Introdução ao Código Civil (Decreto-lei n. 4.657/42). Por fim, sustenta ser desnecessária a análise de normas infralegais, pois a questão se resolve com a análise dos dispositivos da LINDB.
+É o relatório. Decido.
+Nos termos do art. 259, §6º, do RISTJ, reconsidero a decisão de fls. 466.
+Após publicação e intimação, façam-me novamente conclusos os autos.
+Publique-se. Intimem-se.
