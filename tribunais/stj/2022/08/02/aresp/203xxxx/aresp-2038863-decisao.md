@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que julgou prejudicado o recurso especial no que toca à fixação da pena-base, ao afastamento das qualificadoras da escala e de rompimento de obstáculo como circunstâncias agravantes, à forma consumada do delito, à causa de aumento do repouso noturno e à detração, e, no tocante ao reconhecimento da confissão espontânea,inadmitiu o recurso especial com fundamento na Súmula 7/STJ.
+Sustenta o agravante que, "ainda que mantido o entendimento de preclusão quanto às questões atinentes à a redução da pena base, afastamento das qualificadoras da escalada e rompimento de obstáculos como circunstâncias agravantes, a forma consumada do crime, repouso noturno e detração, deve ser analisada a matéria atinente ao pedido de reconhecimento da confissão espontânea, eis que não consta tenha sido enfrentada em habeas corpus pelo STJ".
+Requer, assim, o conhecimento e o provimento do presente agravo, a fim de se admitir e determinar o processamento do recurso especial.
+Apresentada contraminuta, manifestou-se o Ministério Público Federal pelo não conhecimento do agravo e, se admitido, pela inadmissão do recurso especial e, subsidiariamente, pelo seu desprovimento.
+A despeito das razões apresentadas, o agravante deixou de rebater, especificamente, o fundamento da decisão agravada referente à incidência da Súmula 7/STJ no tocante à aplicação da confissão espontânea.
+Quanto ao ponto, a defesa limitou-se a afirmar que"não se requer com o Recurso Especial a análise de fatos, o que violaria a súmula 07 do STJ, mas sim de questão exclusivamente de direito: violação a literal dispositivo legal e interpretação de norma legal. A discussão permanece apenas em questões jurídicas (reconhecimento da confissão)".
+Relativamente à Súmula 7/STJ, mostra-se insuficiente "sustentar genericamente que a matéria seria apenas jurídica, sem explicitar, à luz da tese recursal trazida no recurso especial, de que maneira a análise não dependeria do reexame de provas" (AgRg no AREsp n. 1.677.886/MS, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 3/6/2020).
+Vale lembrar que, ao recorrente, incumbe demonstrar o equívoco da decisão agravada, sendo imprescindível que impugne todos os óbices por ela apontados de maneira específica e suficientemente demonstrada, nos termos do art. 932, III, do CPC, c/c art. 3º do CPP.
+Incide, no caso e por analogia, a Súmula 182/STJ, segundo a qual "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se.
+Intimem-se.
