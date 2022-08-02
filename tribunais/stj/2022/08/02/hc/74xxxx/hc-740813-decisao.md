@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedidodeliminar, impetrado em benefício de THIAGO DE SOUZA CASSARO, em que apontacomoautoridade coatora o Tribunal de Justiça do Estado de Minas Gerais(Apelaçãon. 0004972-87.2016.8.13.0398).
+Consta dos autos que o paciente foi condenado à pena de 18anos e 1mês de reclusão, em regime inicial fechado, por infração ao dispostono art.121, § 2º, I e IV c/c os arts. 29 e 31, todos do Código Penal.
+Interposto recurso de apelação pela defesa, este foi desprovido nos termosde acórdão que recebeu a seguinte ementa:
+"APELAÇÃO CRIMINAL. HOMICÍDIO DUPLAMENTEQUALIFICADO. PRELIMINAR SUSCITADA EM SEDE DE CONTRARRAZÕESPELO MINISTÉRIO PÚBLICO E ASSISTENTE DA ACUSAÇÃO. AUSÊNCIA DEINDICAÇÃO DE ALÍNEA DO ARTIGO 593, III, DO CÓDIGO DE PROCESSOPENAL NO RECURSO DA DEFESA. MERA IRREGULARIDADE. PRELIMINARREJEITADA. DOSIMETRIA. QUALIFICADORAS MANIFESTAMENTEIMPROCEDENTES. INOCORRÊNCIA. RECONHECIMENTO DAPARTICIPAÇÃO DE MENOR IMPORTÂNCIA. IMPOSSIBILIDADE. PENA-BASE. ALTERAÇÃO. INVIABILIDADE. REPRIMENDA FIXADA EM PATAMAR JUSTOE PROPORCIONAL.
+- A não indicação do art. 593, III, do CPP, no termo de interposição do apelo, ou mesmo a menção das suas alíneas, constitui mera irregularidade, desde que seja possível extrair as teses invocadas pela Defesa em suas razões recursais.
+- Não há se falar em designação de novo júri quando demonstrado o acerto no reconhecimento, pelo Conselho de Sentença, das qualificadoras contidas no artigo 121, §2º, I e IV, do Código Penal, com amparo nas provas colhidas nos autos.
+-Não há como reconhecer a participação de menor importância quando a causa de diminuição de pena não foi debatida em plenário e submetida à análise do Conselho de Sentença, sob pena de ofensa ao princípio da soberania dos veredictos. Precedentes.
+-Descabidas a redução ou aumento da pena-base quando a sanção provisória estabelecida na sentença mostra-se justa e proporcional, sopesando, de forma adequada, todas as circunstâncias judiciais previstas no artigo 59 do Código Penal." (fls. 13-14, e-STJ)
+Neste writ, a defesa sustenta a existência de ilegalidade pois, tendo sido o paciente condenado como mandante do crime, não pode ter reconhecida contra si a circunstância qualificadora prevista no inciso IV do § 2º do art. 121 do Código Penal, a qual só pode ser atribuída aos executores do crime.
+Pugna, assim, pela concessão da ordem, a fim de que seja excluída a circunstância.
+A Subprocuradoria-Geral da República se manifestou pelo não conhecimento do writ.
+É o relatório.
+Decido.
+Em sede de habeas corpus, a prova deve serpré-constituídaeincontroversa, cabendo à parte apresentar documentossuficientes àanálisede eventual ilegalidade flagrante no ato atacado.
+In casu, verifica-se que os autos não foram instruídos comcópiasdointeiro teor da sentença e do acórdão de apelação criminal, tendo sidojuntadasomente a ementa. Cabe a ressalva no sentido de que, como oacórdão proferido em sede de apelaçãoéo ato coator,talpeça, na suaintegralidade,éimprescindívelà análise deste habeas corpus, e asuaausênciainviabiliza o conhecimento da impetração.Nesse sentido:
+"PROCESSUAL PENAL. GESTÃO FRAUDULENTA. APROPRIAÇÃO DERECURSOS.CONDENAÇÃOCONFIRMADA EM SEGUNDO GRAU. RECURSO ESPECIAL PENDENTEDEJULGAMENTO.PRISÃO PREVENTIVA SUBSTITUÍDA POR LIBERDADE COMMONITORAMENTOELETRÔNICO.PRETENSÃO DE REVOGAÇÃO DA MEDIDA CAUTELAR.DEFICIÊNCIAINSTRUTÓRIA.AUSÊNCIA DE CÓPIA DO ATO COATOR E DA ÍNTEGRA DASENTENÇA EACÓRDÃO CONDENATÓRIOS. DILAÇÃO PROBATÓRIA INVIÁVEL. HABEASCORPUS NÃOCONHECIDO.
+1. O habeas corpus, porquanto vinculado à demonstração deplanodeilegalidade, não se presta a dilação probatória,exigindoprovapré-constituída das alegações, sendo ônus do impetrantetrazê-lanomomento da impetração, máxime quando se tratar de advogadoconstituído(HCn. 317.882/RJ, Relator Ministro NEFI CORDEIRO, Sexta
+Turma,DJe31/8/2015).
+2. Caso em que a defesa busca que seja afastada a aplicaçãodamedidacautelar de uso de tornozeleira eletrônica. Contudo, oimpetrantenãojuntou cópia das peças essenciais para a compreensão dacontrovérsia,taiscomo o ato inquinado supostamente coator quedeterminara a medidacautelarora combatida, de modo a permitir exame deseus fundamentos, alémdesentença, acórdão e recurso especial pendente dejulgamento, para queseconheça das razões e termos da condenação e necessidade e/ouviabilidadeda medida cautelar imposta.
+3. Habeas corpus não conhecido."(HC 621.314/PR, Rel. Ministro REYNALDOSOARES DA FONSECA, QUINTA TURMA,julgado em 09/02/2021, DJe 11/02/2021,grifou-se).
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO E ASSOCIAÇÃO PARAOTRÁFICODE ENTORPECENTES. REVOGAÇÃO DA PRISÃO PREVENTIVA.INSTRUÇÃODEFICIENTE.IMPOSSIBILIDADE DE ANÁLISE DA PRETENSÃO DEDUZIDA.SÚMULA N.691 DO SUPREMOTRIBUNAL FEDERAL - STF. AUSÊNCIA DE ILEGALIDADEPATENTE.AGRAVODESPROVIDO.
+ ..
+2. O rito célere do habeas corpus demanda, para que sejaanalisadaaocorrência de constrangimento ilegal, prova pré-constituída,sendoderesponsabilidade exclusiva do impetrante a instrução do writ.
+3. A transcrição do teor da decisão no corpo da inicial daimpetraçãonãose mostra suficiente para sanar o vício e possibilitar oexame damatérianesta Corte.
+4. Ainda que fosse considerada a mera transcrição do decisum nocorpodapetição inicial, não se constataria constrangimento ilegalpatente,apto ajustificar a superação do enunciado n. 691 da Súmula doSTF.
+5. Agravo regimental desprovido."(AgRg no HC 484.988/SP, Rel. MinistroJOEL ILAN PACIORNIK, QUINTA TURMA,julgado em 5/2/2019, DJe 14/2/2019).
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. PROCESSUAL PENAL.INSTRUÇÃOENARRATIVA DEFICIENTE. AUSÊNCIA DE DOCUMENTAÇÃOEESCLARECIMENTOSESSENCIAIS À ANÁLISE DA CONTROVÉRSIA. MANUTENÇÃODADECISÃO DEINDEFERIMENTO LIMINAR DA PETIÇÃO INICIAL QUE SE IMPÕE.AGRAVODESPROVIDO.
+1. Compete à Defesa narrar e instruir completa e adequadamenteoremédioconstitucional do habeas corpus (ou seu respectivo recurso),porcuidar-sede procedimento que "pressupõe prova pré-constituída dodireitoalegado"(STJ, HC 437.808/RJ, Rel. Min. JORGE MUSSI, Quinta Turma,DJede28/06/2018). Assim, ao não se desincumbir do ônus de formarenarraradequadamente os autos quando da impetração do writ, aParteImpetranteimpede a apreciação do mérito do writ.
+2. Agravo regimental desprovido."(AgRg no HC 526.388/SP, Rel. MinistraLAURITA VAZ, SEXTA TURMA, julgado em5/9/2019, DJe 17/9/2019).
+Ante o exposto, indefiro liminarmente o habeas corpus, nos termos doart.210 do RISTJ.
+Publique-se. Intimem-se.
