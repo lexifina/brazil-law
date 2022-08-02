@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de recurso especial interposto contra Acórdão proferido no TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, sob a seguinte ementa:
+APELAÇÃO. HABEAS DATA. MILITAR. CASO EM QUE É DEVIDA A RETIFICAÇÃO DE DADOS DO HISTÓRICO FUNCIONAL DO IMPETRANTE, POIS: A) ESTEVE REINTEGRADO JUDICIALMENTE POR MOLÉSTIA DECORRENTE DA FUNÇÃO MILITAR, E B) O ART.139 DA LEI 6.880/80 PREVÊ QUE O TEMPO QUE O MILITAR PASSOUOU VIER A PASSAR AFASTADO DO EXERCÍCIO DE SUAS FUNÇÕES,EM CONSEQUÊNCIA DE FERIMENTOS RECEBIDOS EM ACIDENTE QUANDO EM SERVIÇO, COMBATE, NA DEFESA DA PÁTRIA E NA GARANTIA DOS PODERES CONSTITUÍDOS, DA LEI E DA ORDEM, OU DE MOLÉSTIA ADQUIRIDA NO EXERCÍCIO DE QUALQUER FUNÇÃO MILITAR, SERÁ COMPUTADO COMO SE O TIVESSE PASSADO NO EXERCÍCIO EFETIVO DAQUELAS FUNÇÕES. ALTERAÇÃO DO COMPORTAMENTO MILITAR DO IMPETRANTE QUE FICA CONDICIONADA AO CUMPRIMENTO DO DISPOSTO NO ART.51, § 1º, E INCISOS, DO DECRETO Nº 4.346/2002, E NÃO UNICAMENTE AO TEMPO DE SERVIÇO MILITAR. APELAÇÃO PARCIALMENTE PROVIDA.
+O recurso foi admitido na origem e vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2.016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Com razão a recorrente.
+A jurisprudência desta Corte Superior é no sentido de que não é suficiente o simples transcurso de tempo superior à uma década, conforme previsto na alínea "a" do inciso IV do art. 50, IV, a, da Lei 6.880/80, independentemente de amparo em decisão judicial.
+Ora, o período em que o militar reintegrado fica sob o status de adido, para tratamento de saúde, não se enquadra ao insculpido na norma legal, portanto não pode entrar para o cômputo. E a situação retorna ao status quo ante, uma vez cassada a liminar que concede, provisoriamente, a reintegração, valendo, então, a primeira data de licenciamento.
+Nesse sentido: AgInt no AgRg no AREsp 437.004/RS, Rel. Ministra Assusete Magalhães, Segunda Turma, julgado em 18/4/2017, DJe 26/4/2017; AgRg no AREsp 825.561/RS, Rel. Ministro Humberto Martins, Segunda Turma, julgado em 10/3/2016, DJe 17/3/2016.
+Ante o exposto, com esteio no art. 255, § 4º, III, do RISTJ, conheço do recurso especial para dar-lhe provimento.
+Publique-se. Intimem-se.
