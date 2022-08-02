@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo interposto por ISRAEL FAGUNDES DE SANTANA, JANDERSON DOS SANTOS SILVA eANDERSON MIRANDA DE LIMA, contra decisão do Tribunal de Justiça do Estado da Bahia, que não admitiu o recurso especial manejado com apoio no art. 105, III, "a", da Constituição Federal, em oposição a acórdão que deu parcial provimento às apelaçõesministerial e defensiva.
+Sustenta a defesa violação dos arts. 42 do CP e 387, § 2º, do CPP. Aduz, em síntese, inidoneidade na decisão que não considerou o tempo que os agravantes estiverampresos cautelarmente quando da fixação do regime inicial.
+Apresentadas contrarrazões (e-STJ, fls. 920-927).
+O Ministério Público Federal manifestou-se pelo desprovimento do recurso (e-STJ, fls. 984-988).
+É o relatório.
+Decido.
+O Tribunal, ao analisar a matéria, asseverou:
+"Por outro lado, não se verifica a possibilidade de aplicar a detração prevista no $ 2º, do art. 387, do Código de Processo Penal, considerando que não se prestará a modificar o regime inicial de cumprimento da pena privativa de liberdade." (e-STJ, fl. 898).
+Com efeito, o que o texto legal determina que o período que o réu passou em prisão preventiva seja descontado da pena privativa de liberdade imposta, com a finalidade de aferir se o tempo de pena restante a cumprir enquadra-se em regime mais brando segundo os patamares do art. 33, § 2º, do CP. Em outras palavras, essa operação não segue as mesmas regras da progressão de regime, como já se pronunciou diversas vezes este STJ:
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ALEGAÇÃO DE USURPAÇÃO DE COMPETÊNCIA DO COLEGIADO. INOCORRÊNCIA. DECISÃO MONOCRÁTICA PROFERIDA NOS TERMOS LEGAIS. POSSIBILIDADE DE REAPRECIAÇÃO PELO ÓRGÃO COLEGIADO. ROUBO MAJORADO. DETRAÇÃO PENAL. ART. 387, § 2º, DO CPP. REGIME INICIAL SEMIABERTO FIXADO EM RAZÃO DA GRAVIDADE CONCRETA DO DELITO. POSSIBILIDADE. IRRELEVÂNCIA DO DESCONTO DO PERÍODO DE PRISÃO CAUTELAR. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..  2. O preceito normativo inserido no art. 387, § 2º, do CPP não se refere à verificação dos requisitos para a progressão de regime prisional, instituto próprio da execução penal, mas à possibilidade de o Juízo de primeiro grau, no momento oportuno da prolação da sentença, estabelecer regime inicial mais brando, em razão da detração, o que demanda análise objetiva sobre a eventual redução da pena para patamar menos gravoso, observadas as balizas previstas no art. 33, § 2º, do CP. Precedentes.
+ ..  4. Agravo regimental não provido".(AgRg no AREsp 1930103/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 19/10/2021, DJe 25/10/2021)
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO.REPRIMENDA INFERIOR A 4 ANOS DE RECLUSÃO. CIRCUNSTÂNCIAS JUDICIAIS FAVORÁVEIS. REINCIDÊNCIA. REGIME INICIAL SEMIABERTO.ADEQUAÇÃO. PLEITO DE APLICAÇÃO DO ART. 387, § 2º, DO CPP.CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO.
+ ..  2. "A previsão inserida no § 2º do art. 387 do Código de Processo Penal não se refere à verificação dos requisitos para a progressão de regime, instituto que se restringe à execução penal, mas da possibilidade de o Juízo de 1º grau, no momento oportuno da prolação da sentença, estabelecer regime inicial mais brando, em razão da detração" (HC n. 540.742/SP, relator Ministro LEOPOLDO DE ARRUDA RAPOSO, Desembargador convocado do TJPE, QUINTA TURMA, julgado em 17/12/2019, DJe 19/12/2019).
+3. Agravo regimental desprovido".(AgRg no AREsp 1617068/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 12/05/2020, DJe 18/05/2020)
+No presente caso, verifica-se na sentença condenatória, que a pena dos recorrentes, descontando esse período da reprimenda total, é superior a 12 anosde reclusão, de modo que os réus não fazemjus ao regime semiaberto.
+Ante o exposto, com fundamento no art. 932, III, do CPC c/c art. 253, parágrafo único, II, "b", do RISTJ, conheço do agravo para negar provimento aorecurso especial.
+Publique-se. Intimem-se.
