@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que inadmitiu o recurso especial, com fundamento na Súmula 7/STJ.
+Nas razões do recurso especial, aponta a defesa violação dos arts. 13 e 33, § 2º, do CP.
+Sustenta aausência de provada autoria delitiva, uma vez que "reconhecido, por meio fotográfico em solo policial, não foi reconhecido pela vítima em juízo" (fl. 144).
+Aduz, outrossim, ausência de fundamentação idônea para a fixação de regime inicial de cumprimento de pena mais gravoso que o legalmente previsto.
+Requer o provimento do recurso especial, a fim de absolver o recorrente ou, subsidiariamente, fixar regime prisional menos gravoso.
+Apresentada contraminuta, manifestou-se o Ministério Público Federal pelo não conhecimento do recurso.
+A sentença absolveu o recorrente da acusação de ter praticado o delito previsto no art. 157, § 2º, II, do CP.
+Interposto recurso de apelação pelo Ministério Público do Estado de São Paulo, o Tribunal de origem deu-lhe provimento, para condená-lo, como incurso no art. 157, § 2º, II, do CP, a 7 anos, 1 mês e 10 dias de reclusão, em regime inicial fechado, e 17 dias-multa, com base na seguinte fundamentação (fls. 125):
+"Do conjunto probatórioproduzido, verifica-se que assiste razão ao Ministério Público quando pleiteia a condenação de Luiz Felipe pelo crime de roubo.
+Em juízo, o ofendido descreveu a dinâmica dos fatos de modo firme, abordagem efetuada por dois indivíduos, sendo que um deles possuía uma tatuagem de flor em uma das mãos, sinal identificador ostentado por Luiz Felipe e que foi reconhecido pela vítima em audiência.
+Ressalta-se que, já na fase inquisitiva, o ofendido relatou perante a Autoridade Policial que um dos autores do delito tinha uma flor tatuada na mão (fls. 06), o que foi confirmado em juízo, razão pela qual não há que se duvidar da narrativa ofertada sob o crivo do contraditório.
+É certo que a vítima não conseguiu identificar o apelado sem sombra de dúvidas durante a instrução criminal, apenas a tatuagem, sinal identificador marcante, e sua compleição física, circunstância que se mostra perfeitamente plausível, considerado o tempo decorrido entre a data dos fatos e a realização da audiência, aproximadamente um ano, período que fatalmente leva a alterações físicas que podem influenciar na percepção da vítima.
+Contudo, não se pode ignorar que pouco tempo após os fatos, o ofendido reconheceu Luiz Felipe no distrito policial, dentre quatro fotografias, nas quais pode visualizar de forma clara a feição dos indivíduos apresentados (fls. 08).
+Ademais, há que se ressaltar que a fundamentação do decreto condenatório não está alicerçada exclusivamente no reconhecimento fotográfico efetivado na delegacia, que não pode ser completamente desconsiderado, mas sim nas provas produzidas durante a instrução criminal, notadamente a identificação, por parte da vítima em audiência, da tatuagem ostentada pelo apelado, a mesma reconhecida na mão do roubador por ocasião dos fatos e apontada pelo ofendido em sede policial, de modo que não se vislumbra qualquer ilegalidade, nos termos do julgamento proferido pelo E. Superior Tribunal de Justiça (HC 598.886/SC).
+A sentença, e tendo em vista a necessidade de contextualização, registra (fls. 90-91):
+O réu, interrogado em juízo, negou a prática delitiva (arquivo digital).
+A vítima ANDRE LUIZ GONZAGA SIQUEIRA narrou a ocorrência do roubo tal qual descrição fática da inicial, apontando haver feito reconhecimento fotográfico na etapa policial. Nesta audiência, reconheceu o réu com 80% de segurança como um dos roubadores, apontando que a flor tatuada em sua mão, afora compleição física, são compatíveis com a de um dos assaltantes (arquivo digital).
+O investigador de polícia CRISTIANO DA CONCEIÇÃO asseverou deu conta das investigações que culminaram com a elucidação da autoria delitiva, sendo o acusado reconhecido fotograficamente pelo ofendido (arquivo digital).
+O relatório policial concluiu que a conta utilizada para solicitar viagem com o motorista de aplicativo era falsa, em razão da incongruência de dados (fls. 19/26).
+Compulsando os autos e sopesando as provas a ele angariadas, verifico que na fase extrajudicial houve reconhecimento fotográfico, meio precário de prova e insuficiente a forjar um édito condenatório.
+Em juízo, porém, o reconhecimento feito pelo ofendido não foi estreme de dúvidas. Ao contrário, ele titubeou ao fazê-lo e, indagado com qual segurança poderia apontar o réu como um dos assaltantes, em uma escala de zero a dez, indicou o número 8, ou seja, reconheceu o réu com 80% de segurança.
+Ora, nada mais há nos autos a corroborar este reconhecimento.
+O réu negou a prática delitiva, não houve prisão em flagrante e nada foi apreendido em seu poder, seja produto, proveito ou instrumento do crime.
+Não se desconhece o valor probatório do reconhecimento da vítima em crimes deste jaez, mas para forjar de modo exclusivo uma condenação criminal deve efetuado com total segurança, o que não ocorreu in casu.
+Diante desse panorama, e a despeito de demonstrada a existência do crime, ausente prova judicializada apta a comprovar a autoria e a ilidir o estado de inocência constitucionalmente consagrado (Constituição Federal, art. 5º, LVII), a absolvição por insuficiência de provas é medida impositiva.
+Registro, por fim, que a sentença criminal não é um ato de fé, mas sim um juízo seguro prolatado à evidência de provas que demonstrem, de modo cabal, a existência e autoria delitivas.
+Quanto à alegada violação do 13 do CP, verifica-se a impossibilidade de sua análise nesta Corte Superior, pois, conforme se infere doacórdãorecorrido, não foi a matéria discutida no Tribunal de origem. Carece o tema do indispensável prequestionamento viabilizador do recurso especial, razão pela qual não deve ser apreciado, a teor dos Enunciados 282 e 356 do Supremo Tribunal Federal.
+Ademais, o art. 13 do CPnão tem comando normativo para amparara tese de ausência de reconhecimento do acusado pela vítima em juízo, uma vez que tal dispositivo legal cuida de tema diverso, referente à relação de causalidade, evidenciando-se, assim, a deficiência na fundamentação da irresignaçãorecursal a ensejar a aplicação da Súmula 284 do STF.
+A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. ARGUIDA VIOLAÇÃO DO ART. 158 DO CPP. AUSÊNCIA DE COMANDO NORMATIVO SUFICIENTE. SÚMULA N. 284 DO STF. TESE DE QUE A DECISÃO DOS JURADOS FOI MANIFESTAMENTE CONTRÁRIA À PROVA DOS AUTOS. SÚMULA N. 7 DO STJ. EXECUÇÃO PROVISÓRIA DA PENA. POSSIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É deficiente a fundamentação recursal quando o preceito legal invocado não contém comando normativo suficiente para amparar a tese desenvolvida nas razões do recurso especial. Aplicação da Súmula n. 284 do STF.
+ ..
+5. Agravo regimental não provido.(AgRg no AREsp n. 996.041/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 21/6/2018, DJe de 1/8/2018.)
+Por outro lado, constata-se a ocorrência de ilegalidade flagrante apta a subsidiar a concessão de habeas corpus de ofício.
+O Tribunal de origem consigna que "É certo que a vítima não conseguiu identificar o apelado sem sombra de dúvidas durante a instrução criminal, apenas a tatuagem, sinal identificador marcante, e sua compleição física, circunstância que se mostra perfeitamente plausível, considerado o tempo decorrido entre a data dos fatos e a realização da audiência, aproximadamente um ano, período que fatalmente leva a alterações físicas que podem influenciar na percepção da vítima" e que "o ofendido reconheceu Luiz Felipe no distrito policial, dentre quatro fotografias".
+O Juízo de primeiro grau não se convenceu da autoria delitiva, porquanto verificou que o reconhecimento fotográfico realizado na fase extrajudicialmostrou-se um meio precário de prova, insuficiente a sustentar a condenação, sendo que "nada há nos autos a corroborar este reconhecimento", não havendo prova judicializada apta a comprovar a autoria.
+"O reconhecimento de pessoa, presencialmente ou por fotografia, realizado na fase do inquérito policial, apenas é apto, para identificar o réu e fixar a autoria delitiva, quando observadas as formalidades previstas no art. 226 do Código de Processo Penal e quando corroborado por outras provas colhidas na fase judicial, sob o crivo do contraditório e da ampla defesa" (HC n. 598.886/SC, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 18/12/2020).
+A propósito:
+PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. ROUBO. PLEITO DE ABSOLVIÇÃO. RECONHECIMENTO FOTOGRÁFICO. PROCEDIMENTO PREVISTO NO ART. 226 DO CPP. INOBSERVÂNCIA. MUDANÇA DE ENTENDIMENTO JURISPRUDENCIAL. INVALIDADE DA PROVA. AUTORIA ESTABELECIDA COM BASE EM OUTROS ELEMENTOS PROBATÓRIOS. ABSOLVIÇÃO INVIÁVEL. AGRAVO REGIMENTAL NÃO PROVIDO.
+1.  ..
+2. Esta Corte Superior inicialmente entendia que "a validade do reconhecimento do autor de infração não está obrigatoriamente vinculada à regra contida no art. 226 do Código de Processo Penal, porquanto tal dispositivo veicula meras recomendações à realização do procedimento, mormente na hipótese em que a condenação se amparou em outras provas colhidas sob o crivo do contraditório".
+3. Em julgados recentes, ambas as Turmas que compõe a Terceira Seção deste Superior Tribunal de Justiça alinharam a compreensão de que "o reconhecimento de pessoa, presencialmente ou por fotografia, realizado na fase do inquérito policial, apenas é apto, para identificar o réu e fixar a autoria delitiva, quando observadas as formalidades previstas no art. 226 do Código de Processo Penal e quando corroborado por outras provas colhidas na fase judicial, sob o crivo do contraditório e da ampla defesa".
+4.  ..
+5. Agravo regimental não provido.
+(AgRg no HC n. 745.822/GO, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 14/6/2022, DJe de 20/6/2022.)
+No particular, deve ser concedida ordem de habeas corpus, de ofício, para restabelecer a sentença absolutória, restandoprejudicada a análise do pedido referente ao regime inicial de cumprimento de pena.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial, masconcedo habeas corpus, de ofício, para restabelecer a sentença absolutória, nos seus exatos termos.
+Comunique-se.
+Publique-se.
+Intimem-se.
