@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, sem pedido liminar, impetrado em favorde DIEGO FERREIRA DE PAULA contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO, proferido na Apelaçãon.0002649-23.2020.8.08.000.
+Consta dos autos que o Juízo da 1ª Vara Criminal de Aracruz-ES condenou o pacientepela prática do delito de tráfico de drogas (art. 33, caput, da Lei n. 11.343/06), à pena de10 anos de reclusão no regime inicial fechado, mais 1.000 dias-multa.
+Emapelação da defesa, o Tribunal de origem reduziu a pena-base e afastou a agravante prevista no art. 61, II, "j", do Código Penal, fixando a pena em 7 anos de reclusão no regime inicial fechado, mais 800 dias-multa.
+A impetrante alega quea confissão espontânea foi aplicada em fração inferior a 1/6 sem fundamentação idônea. Também sustenta que estão presentes os requisitos para a incidência do § 4º do art. 33 da Lei de Drogas.
+Requer a concessão da ordem nesse sentido.
+O Ministério Público Federal manifestou-se pela concessão parcial da ordem (fls. 33/36).
+É o relatório.
+Decido.
+O presente habeas corpus não merece ser conhecido, pois foi impetrado em substituição a recurso próprio. Contudo, passo à análise dos autos para verificar a possível existência de ofensa à liberdade de locomoção do paciente, capaz de justificar a concessão da ordem de ofício.
+No caso, o juízo de primeiro grau compensou a agravante do art. 61, II, "j", do Código Penal com a confissão espontânea. O Tribunal a quo afastou aagravante e reduziu a pena em 1/8, pela atenuante, sem apresentar fundamentação concreta e idônea, mostrando-se cabível a incidência da fração de 1/6.
+Nesse sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DE ADMISSIBILIDADE. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS. SÚMULA N. 182 DO STJ. AGRAVO NÃO CONHECIDO. ATENUANTE DA CONFISSÃO ESPONTÂNEA. REDUÇÃO INFERIOR A 1/6. AUSÊNCIA DE FUNDAMENTAÇÃO. FLAGRANTE ILEGALIDADE. CONCESSÃO DE HABEAS CORPUS DE OFÍCIO.
+1. Conforme jurisprudência pacífica desta Corte, " ..  não havendo impugnação específica de todos os fundamentos da decisão que deixou de admitir o recurso especial, deve ser aplicado, por analogia, o teor da Súmula n. 182 deste Tribunal Superior" (AgRg no AREsp 491.244/MG, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 23/3/2021, DJe 30/3/2021).
+2. Todavia, impõe-se a concessão de habeas corpus de ofício diante da ilegalidade do acórdão impugnado no que tange à fração de redução das penas, diante da confissão espontânea, em relação aos delitos de tráfico de entorpecentes e posse ilegal de arma de fogo de uso permitido.
+3. O Código Penal olvidou-se de estabelecer limites mínimo e máximo de aumento ou redução de pena a serem aplicados em razão das agravantes e das atenuantes genéricas. Assim, a jurisprudência reconhece que compete ao julgador, dentro do seu livre convencimento e de acordo com as peculiaridades do caso, escolher a fração de aumento ou redução de pena, em observância aos princípios da razoabilidade e da proporcionalidade. Todavia, a aplicação de fração inferior a 1/6 exige motivação concreta e idônea, o que não ocorreu no caso.
+4. Agravo regimental não conhecido. Concessão de habeas corpus, de ofício, a fim de determinar a devolução dos autos ao Tribunal de origem para que proceda a nova dosimetria das penas do agravante, considerando a fração ideal de 1/6 para a redução em decorrência da confissão espontânea, quanto aos delitos de tráfico de entorpecentes e posse ilegal de arma de fogo de uso permitido.
+(AgRg no AREsp n. 1.986.808/ES, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 15/2/2022, DJe de 21/2/2022.)
+No que diz respeito ao § 4º do art. 33 da Lei de Drogas, o Tribunal quo afirmou, com base nas circunstâncias do delito (local dos fatos, forma de acondicionamento e quantidade de drogas etc), que o paciente se dedicava ao tráfico. Nesse contexto, para se acolher a tese da defesa, é necessário o reexame fático-probatório, inviável na via do habeas corpus.
+Confira-se, a propósito, o seguinte trecho do acórdão:
+"entendo que reú não faz jus à aplicação do benefício, pois a forma de acondicionamento da droga ondeo réu estava (em via que pública) e em horário comercial evidenciam que o agente dedicava-se à atividade de traficância. Não menos importante, a região em que foi abordada já é conhecida pelo intenso tráfico de drogas, de maneira que se conclui que o réu as aproveitava-se da "fama" do ponto para vender substâncias entorpecentes e dela fazer a sua principal atividade, não estando presentes, assim, os requisitos do art. 33, §4ºda Lei de Drogas."(fls. 24/25)
+Nesse sentido:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO. DESCABIMENTO. TRÁFICO DE DROGAS. APLICAÇÃO DO § 4º DO ART. 33 DA LEI N. 11.343/06. QUANTIDADE E NATUREZA DA DROGA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. WRIT NÃO CONHECIDO.
+1. Em consonância com a orientação jurisprudencial da Primeira Turma do Supremo Tribunal Federal - STF, esta Corte não admite habeas corpus substitutivo de recurso próprio, sem prejuízo da concessão da ordem de ofício se existir flagrante ilegalidade na liberdade de locomoção do paciente..
+2. A aplicação da causa especial de redução da pena prevista no art. 33, § 4º, da Lei n. 11.343/06 depende do convencimento do Magistrado de que o apenado, primário e de bons antecedentes, não se dedique a atividades delituosas, tampouco integre organização criminosa.
+In casu, assentou-se a inaplicabilidade do dispositivo, ante o entendimento de que o paciente se dedicava à atividade criminosa, tendo em vista a quantidade, variedade, natureza altamente nociva da maior parte do entorpecente (cocaína e crack), forma de acondicionamento (em porções individuais) e demais circunstâncias da prisão, em notório ponto de tráfico.
+3. O art. 42 da Lei n.º 11.343/2006 é expresso ao afirmar: "o juiz, na fixação das penas, considerará, com preponderância sobre o previsto no art. 59 do Código Penal, a natureza e a quantidade da substância ou do produto."
+Habeas corpus não conhecido.
+(HC n. 362.758/SP, de minha relatoria, Quinta Turma, julgado em 20/9/2016, DJe de 29/9/2016.)
+Ante o exposto, não conheço do habeas corpus, mas concedo a ordem, deofício, para aplicar a atenuante da confissão espontânea em 1/6, fixando a pena do orapaciente em 6 anos e 8 meses de reclusão, no regime inicial semiaberto, mais 750 dias-multa.
+Publique-se.
+Intimem-se.
