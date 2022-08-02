@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de Guilherme Lopes Damásio, em que se aponta como autoridade coatora a Segunda Câmara Criminal do Tribunal de Justiça do Rio de Janeiro.
+Consta dos autos que o paciente foi condenado como incurso no art. 158, § 1º, do Código Penal,extorsão majorada pelo emprego de arma de fogo, à pena de7 anos de reclusão, em regime fechado, e 16 dias-multa (fls. 40/45).
+Em sede de apelação, a defesa apontou ausência de provas para a condenaçãoe requereu também a redução da pena. ASegunda Câmara Criminal do Tribunal de Justiça do Rio de Janeiro negou provimento ao recurso (fls. 66/77). Esta, a ementa do julgado (fl. 66):
+APELAÇÃO CRIMINAL. CONDENAÇÃO PELO DELITO DE EXTORSÃO CIRCUNSTANCIADA PELO EMPREGO DE ARMA DE FOGO (ART. 158, § 1º, DO CP). INSURGÊNCIA DEFENSIVA. PLEITO DE ABSOLVIÇÃO EM VIRTUDE DE COAÇÃO MORAL IRRESISTÍVEL. IMPROVIMENTO.
+A exculpante caracteriza-se quando estão presentes a ameaça - dirigida contra o coato ou a pessoa intimamente a ele ligada - de dano grave, injusto e atual, a inevitabilidade do perigo concreto e a irresistibilidade da intimidação.
+In casu, a defesa não se desincumbiu de demonstrar tais circunstâncias (art. 156 do CPP). Ademais, depreende-se, da FAC do Réu,que ele se dedica a atividades criminosas, eis que há duas condenações definitivas por roubo circunstanciado. Note-se que o mero fato de o acusado ostentar anotação relativa ao crime de associação ao tráfico não conduz, por si só, à conclusão de que ele praticou a extorsão sob coação moral irresistível. A propósito, é consabido que a subordinação hierárquica típica das organizações criminosas voltadas para o tráfico deve-se à estruturação do empreendimento espúrio por meio da divisão de tarefas.
+De outra sorte, odelito de extorsão consumou-se quando houve o efetivo constrangimento da vítima, sendo desinfluente a obtenção da vantagem indevida. Súmula nº 96 do STJ. Dosimetria idoneamente aquilatada.
+Da mesma forma, descabe a atenuante da confissão parcial espontânea, porquanto esta não foi utilizada como fundamento da condenação. Inaplicabilidade da Súmula nº 545 do STJ. Regime inicial fechado que se mantém em virtude da reincidência e das circunstâncias desfavoráveis, sendo certo que o "modus operandi" do Réu evidencia sua periculosidade social.
+APELO DESPROVIDO.
+No presente writ, a defesa aponta ilegalidade pelo não reconhecimento da atenuante da confissão espontânea do paciente, por ter sido valorada pelo julgador quando da condenação.
+Parecer ministerialopinando pelo não conhecimento do writ (fls. 90/93).
+É o relatório.
+A insurgência da defesa diz respeito à não utilização da atenuante de confissão espontânea na segunda fase da dosimetria. Na sentença, estes foram os fundamentos do julgador quando fixada a pena (fl. 45):
+ ..
+Atento às circunstâncias judiciais traçadas pelo art. 59 do Código Penal, a fim de atender ao seu caráter de prevenção geral e especial, verifica-se que a pena base deve ser fixada acima do mínimo legal, diante das consequências do crime, haja vista os danos sofridos pelo patrimônio da vítima, em razão dos disparos de arma de fogo, como forma de concretização da ação extorsiva, o que aumenta em 1/8 o grau de censura sobre o atuar típico do condenado. Assim, fixo a pena base em uma pena privativa de liberdade de 04(quatro) anos e 06 (seis) meses de reclusão e 11 dias-multa, com pena base.
+Continuando no processo estabelecido no art. 68, verifico, também, a presença de uma circunstância agravante relativa à reincidência, na forma do art. 61, I do Código Penal, ante a anotação 2 de fls. 105, pelo que agravo a pena em 1/6, de modo a fixar a pena intermediária em 05 (cinco) anos, 03 (três) meses de reclusão e 12 dias-multa.
+Na terceira fase, se encontra a causa de aumento prevista no § 1º da infração em destaque, pelo que aumento no percentual mínimo de 1/3. Desse modo a pena final é estabelecida em pena privativa de liberdade de 07(SETE) ANOS DE RECLUSÃO E 16DIAS-MULTA,que torno definitiva à míngua da existência de outras causas de aumento e/ou diminuição.
+ ..
+Não há ilegalidade na fixação da pena-base em 1/8 acima do piso mínimo, em razão da vetorial consequências do crime. Vê-se que o Magistrado apresentou concreta fundamentação, e o aumento foi feito com razoabilidade.
+Na segunda fase, considerada tão somente a agravante de reincidência para a negativa da atenuante de confissão espontânea, o Magistrado entendeu que a confissão parcial apenas teria ratificado a prova testemunhal já apresentada no arcabouço de provas trazidos aos autos e que desnecessária para a formação do juízo de reprovação sobre o réua utilização da parcial confissão.
+Confira-se a sentença (fl. 42):
+ ..
+A testemunha Ronan, mototaxista que prestou o serviço de transporte para o acusado, não havendo prova de prévia ciência quanto ao obrar injusto do réu, confirmou ter o mesmo efetuado os disparos de arma de fogo determinando que o depoente procedesse à retirada do local.
+Por ocasião do interrogatório o réu reconheceu parcialmente o fato imputado. Disse que não exigiu qualquer quantia pecuniária da vítima, tendo procedido ao local apenas para deixar o contato, já que a "boca" estava pedindo uma contribuição em dinheiro. Confirma, no entanto, que procedeu ao local com um granada e que efetuou o disparo de arma de fogo, a mando dos demais traficantes, já que funciona como "vapor" do tráfico. Por sua vez, não merecem acolhidas as teses levantadas pela operosa defesa. Inexiste qualquer traço de coação moral irresistível ou mesmo resistível, como prova excludente da culpabilidade do acusado ou atenuação da pena.
+ ..
+Nesse ponto, razão assiste à defesa, pois o presente caso diz respeito à confissão parcial que, ainda que não tenhasido usada de forma plena para firmar a convicção do Magistrado, confirmou a prova testemunhal quanto a ter sido efetuado o disparo de arma de fogo.Sabe-se que a atenuante da confissão espontânea deve ser reconhecida, ainda que tenha sido parcial ou qualificada, seja ela judicial ou extrajudicial, e mesmo que o réu venhadela se retratar, quando a manifestação for utilizada para fundamentar a sua condenação (AgRg no HC n. 733.879/SP, Relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 24/5/2022, DJe de 31/5/2022).
+Assim, deve ser feita a compensação da agravante de reincidência com a atenuante de confissão, e a penamantém-se no mesmo patamar de4 anos e 6meses de reclusão e 11 dias-multa.
+Na terceira fase, fica mantida a elevação da pena na fração de 1/3, e essa torna-se definitiva em6anos de reclusão e 14dias-multa. O regime de cumprimento da pena deve permanecer o fechado, em razão da reincidência.
+Ante o exposto, concedo a ordem de habeas corpus, para redimensionar a pena do paciente para 6 anos de reclusão, em regime fechado, e 14 dias-multa.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS.EXTORSÃO MAJORADA PELO EMPREGO DE ARMA DE FOGO. DOSIMETRIA. PEDIDO DE RECONHECIMENTO DA CONFISSÃO ESPONTÂNEA. POSSIBILIDADE. REDIMENSIONAMENTO DA PENA.
+Ordem concedidanos termos do dispositivo.
