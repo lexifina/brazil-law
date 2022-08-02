@@ -1,0 +1,30 @@
+DECISÃO
+Vistos etc.
+Trata-se de agravo manejado por EGA - ADMINISTRACAO, PARTICIPACOES E SERVICOS LTDA,em face da decisão que negou seguimento a recurso especial, interposto com fundamento no art. 105, III, alínea"a", e, "c" da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (e-STJ Fls. 47/48, gn):
+"AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO JUDICIAL. DECISÃO QUE HOMOLOGA CÁLCULOS DO PERITO. CAPITALIZAÇÃO DE JUROS. INOCORRÊNCIA. APLICAÇÃO DO ART. 354 DO CÓDIGO CIVIL. CUSTAS A RESSARCIR E HONORÁRIOS DA FASE DE CONHECIMENTO QUE DEVEM INTEGRAR A BASE DE CÁLCULO DOS HONORÁRIOS DE EXECUÇÃO E DA MULTA DE 10%, NOS TERMOS DO ART. 475-J DO CPC/73. 1. Havendo capital e juros, a imputação do pagamento, decorrente dos depóstios realizados, presumem-se feitos primeiramente aos juros e após ao capital. 2. Os juros acumulados no período calculado eram menores que o valor depositado, ou seja, o valor depositado era capaz de quitar os juros e ainda parte do capital, de maneira que não restava valor remanescente de juros a serem atualizados no penado subsequente, não havendo que se falar em sobreposição de juros. 3. Cabe destacar que sobre as custas judiciais não incidiram juros mensais quando da realização do cálculo pela perícia, o que se depreende pela mera leitura da planilha. 4. As custas a ressarcir não formaram a base de cálculo do valor da multa e dos honorários que foram fixados na fase de conhecimento. Por outro lado, as custas e os honorários advocatícios fixados no título judicial devem fazer parte da base de cálculo dos honorários advocatícios da execução,bem como da multa prevista no art. 475-J do CPC/73 (atual art. 523, §1º do CPC/15), uma vez que fazem parte do montante da condenação. 5. Decisão mantida. NEGATIVA DE PROVIMENTO AO RECURSO".
+Os embargos de declaração opostos foram providos(e-STJ Fls. 71/75).
+Nas razões do recurso especial apartealegouofensa aos artigos 354, e, 884 do Código Civil, e, 524, § 2º, do Código de Processo Civil/2015.
+Defendeu, em síntese, que "(..) Ocorre que, essa forma de se abater os depósitos não é correta, pois ocasiona a superposição de juros, pela atualização de um valor que já comtempla juros. Ora, a fim de evitar tal superposição, os depósitos devem sempre abater o valor dos juros, porque estas devem incidir apenas correção" (e-STJ Fl. 88).
+Assim,o pagamento importar-se-á primeiro nos juros vencidos, para evitar a incidência de juros sobre juros.
+Pediuo provimento do recurso.
+É o relatório.
+Passo a decidir.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à analise do recurso especial.
+Inicialmente, registro que o acórdão recorrido foi publicado já sob a vigência da Lei 13.105/2015, razão por que o juízo de admissibilidade é realizado na forma deste novo édito, conforme Enunciado Administrativo nº 3/STJ.
+A pretensão recursal não merece prosperar.
+Quanto à alegação de violação aos artigos apontados no especial, consta do acórdão recorrido que (e-STJ Fls. 49/50, gn):
+"(..)
+No mértio, alega o Agravante que a atualização dos valores foi realizada de maneira a ocasionar a sobreposição de juros, uma vez que o valor encontrado proveniente de uma atualização, que já conntempla juros, é novamente atualizado e acrescido de juros.
+Pois bem, segundo a regra estampada no art. 354 do Código Civil, "havendo capital e juros, o pagamento imputar-se-á primeiro nos jurosvencidos, e depois no capital, salvo estipulação em contrário, ou se o credor passar a quitação por conta do capital.
+Assim, havendo capital e juros, a imputação do pagamento, decorrente dos depóstiso realizados, presumem-se feitos primeiramente aos juros e após ao capital.
+Analisando a planilha de cáuculo do perito (fls. 1712/1717 - indexador 001402) depreende-se que o saldo devedor era atualizado por determinado período, acrescido dos juros devidos e posteriormente abatido o valor depositado. Os juros acumulados no período calculado eram menores que o valor depositado, ou seja, o valor depositado era capaz de quitar os juros e ainda parte do capital, de maneira que não restava valor remanescente de juros a serem atualizados no penado subsequente, não havendo que se falar em sobreposição de juros.
+Assim, o valor remanescente, após o abatimento do depósito, que era capaz de realizar o pagamento dos juros mais parte do capital, era atualizado e usado para o cálculo dos juros até a data do 2ºdepósito, quando ocorria o devido abatimento e assim por diante, não havendo que se falar, portanto, em capitalização dos juros".
+Com efeito,elidir as conclusõesdo aresto recorrido nosentidode que"o valor remanescente, após o abatimento do depósito, que era capaz de realizar o pagamento dos juros mais parte do capital, era atualizado e usado para o cálculo dos juros até a data do 2º depósito, quando ocorria o devido abatimento e assim por diante, não havendo que se falar, portanto, em capitalização dos juros",nopresente momento processual,demandaria, o reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor daSúmulan. 7/STJ.
+Cumpre asseverar que, referido óbice aplica-se ao recurso especial interposto por ambas as alíneas do permissivo constitucional.
+Advirta-se que eventual recurso interposto contra este decisum estará sujeito às normas do CPC/2015 (cf. Enunciado Administrativo n. 3/STJ).
+Por fim, deixo de majorar os honorários nos termos do art. 85, § 11, do Código de Processo Civil, tendo em vista que o recurso especial foi interposto nos autos de agravo de instrumento que ataca decisão interlocutória, na qual não houve prévia fixação de honorários.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL.AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO JUDICIAL. DECISÃO QUE HOMOLOGA CÁLCULOS DO PERITO. CAPITALIZAÇÃO DE JUROS. INOCORRÊNCIA. APLICAÇÃO DO ART. 354 DO CÓDIGO CIVIL.REVISÃO DESTEENTENDIMENTO. IMPOSSIBILIDADE. APLICAÇÃO DASÚMULA7/STJ.
+AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
