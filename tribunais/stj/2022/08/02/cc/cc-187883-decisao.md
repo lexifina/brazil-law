@@ -1,0 +1,15 @@
+DECISÃO
+Cuida-se de conflito positivo de competência, com pedido de liminar, instaurado por REAL AUTO ÔNIBUS LTDA - EM RECUPERAÇÃO JUDICIAL, envolvendo o r. Juízo de Direito da 1ª Vara Empresarial do Rio de Janeiro/RJ, no qual se processa a recuperação judicial da suscitante (Processo nº 0087802- 67.2019.8.19.0001), e a 9ª Turma do TRT da 1ª Região, onde tramita o agravo em petição nº 011226-76.2015.5.01.0081, movido por LAERTE PEREIRA DE MORAES.
+Aduz a suscitante, em síntese, que o Juízo Trabalhista determinou a manutenção de atos executórios - destinação de recursos financeiros depositados no bojo da execução trabalhista - nos autos da mencionada ação trabalhista, na qual figura como reclamada, invadindo, assim, competência exclusiva do Juízo da Recuperação Judicial, o qual, conforme alega, é o foro competente para tratar de atos que afetem seu patrimônio. Cita, em favor de sua tese, julgados deste STJ.
+Requer a concessão de liminar objetivando sobrestar o ato executório determinado pelo r. Juízo laboral.
+No mérito, pede a declaração de competência do r. juízo da recuperação judicial.
+Às fls. 199/201, este signatário deferiu, em parte, o pedido liminar.
+Prestadas as informações (fls. 206/209 e 210/217), o MPF ofertou parecer no sentido da declaração de competência do r. juízo universal. (fls. 219/222)
+É o relatório.
+Decisão.
+1. De início, vale destacar a competência deste Superior Tribunal de Justiça para o exame do presente conflito, uma vez que envolve juízos vinculados a Tribunais diversos, nos termos do que dispõe o artigo 105, inciso I, alínea "d", da Constituição Federal.
+2. Em conflitos similares, envolvendo, de um lado, o Juízo da Recuperação Judicial e, de outro, o Juízo Laboral, no qual tramita execução trabalhista movida contra sociedade recuperanda, o Superior Tribunal de Justiça tem reconhecido a competência do primeiro para efetivar atos de constrição e/ou expropriação que, de alguma forma, afetem o patrimônio envolvido no processo de soerguimento.
+Após o deferimento do processamento da recuperação judicial, é do juízo da recuperação a competência para analisar o prosseguimento dos atos de execução relacionados a reclamações trabalhistas movidas contra a empresa recuperanda.
+Nesse sentido, confiram-se:AgInt no CC n. 147.032/RJ, Relator Ministro RICARDO VILLAS BÔAS CUEVA, SEGUNDA SEÇÃO, julgado em 13/9/2017, DJe 19/9/2017; AgRg no CC n. 125.697/SP, Relator Ministro PAULO DE TARSO SANSEVERINO, SEGUNDA SEÇÃO, julgado em 4/2/2013, DJe 15/2/2013; AgInt nos EDcl no CC 166544/MG, Rel. Min. Antonio Carlos Ferreira, DJe de 24/03/2020.
+3. Do exposto, com fundamento no art. 955, parágrafo único, do NCPC c/c Súmula 568/STJ, conheço do presente conflito e, por conseguinte, declaro a competência do r. juízo da1ª Vara Empresarial do Rio de Janeiro/RJ, no qual se processa a recuperação judicial da suscitante. (Processo nº 0087802- 67.2019.8.19.0001)
+Publique-se. Intimem-se. Oficie-se.
