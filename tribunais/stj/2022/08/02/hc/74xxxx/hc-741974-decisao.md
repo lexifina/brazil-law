@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido liminar, impetrado em benefício deJonathan de Alencar Ceará- preso preventivamente pela suposta prática dodelitode associação para o tráfico (Autos n. 1502586-76.2021.8.26.0073, da 1ª Vara Criminalda comarca de Avaré/SP) -contra acórdão do Tribunal de Justiça de São Paulo, que denegou a ordem noHabeas Corpus Criminal n.2072394-05.2022.8.26.0000.
+Alega a defesa, em síntese:1) excesso de prazo na formação da culpa; 2)inidoneidade dos fundamentos lançados para a decretação daprisão cautelar; e, 3) ausência de indícios suficientes da autoria.
+Postula, então, o conhecimento e o provimento do writ, a fim deque seja revogada a prisão preventiva imposta.
+Liminar indeferida às fls. 61/62.
+Informações prestadaspelo Juízo de primeiro grau às fls. 67/71.
+Parecer do Ministério Público Federal, às fls. 97/102,pelo não conhecimento do writ, ou, caso conhecido, pela denegação da ordem, nos termos da seguinte ementa:
+Habeas corpus impetrado como sucedâneo de recurso próprio. Associação para o tráfico de drogas.
+I - Negativa de autoria. Necessidade de dilação probatória, inviável na via mandamental.
+Perspectiva de supressão de instância II - Prisão preventiva. Alegada ausência dos requisitos do artigo 312 do CPP. Matéria não analisada pelo Tribunal de origem: supressão de instância.
+III - Excesso de prazo na formação da culpa:
+inocorrência. Pluralidade de réus e complexidade do feito. Ausência de desídia do Poder Judiciário.
+Constrangimento ilegal não constatado.
+- Promoção pelo não conhecimento do writ, ou, caso conhecido, pela denegação da ordem.
+É o relatório.
+Inicialmente, quanto à alegação de ilegalidade flagrante nos fundamentos lançados para a manutenção da prisão cautelar, vê-se que o Tribunal a quo não analisou tal pleito;sendo assim, sua análise diretamente por esta Corte constitui indevida supressão de instância.
+No que se refere àausência de indícios suficientes da autoria, verifica-se que tal pleito também não foi discutido na origem e, ainda, que sua análise demanda o revolvimento dos fatos e das provas do processo, circunstância incabível na via estreita do mandamus.
+É certo que, conforme reiterada jurisprudência do Superior Tribunal de Justiça, o prévio exame das alegações pelas instâncias ordinárias constitui requisito indispensável para sua apreciação nesta instância, ainda quando se cuide de questão de ordem pública (AgRg no HC n. 616.994/PR, Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 2/2/2021, DJe 8/2/2021) - (AgRg no HC n. 643.905/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 1º/3/2021).
+Portanto, não conheço dos pleitos acima referidos.
+Quanto ao excesso de prazo,assim se manifestou o Tribunal de origem (fls. 22/24 - grifo nosso):
+ ..
+A derradeira deliberação mencionada pelo digno Julgador - "a intimação da advogada do corréu Adilson, Dra. Jamille Godoy de Oliveira Almeida, OAB/SP nº 363.581" para apresentação dedefesa preliminar (fls. 1.020 dos autos originários) -, datada de 15 de março de 2022, apenas veio a ser cumprida pela zelosa Serventia aos 05 de abril p.p. (fls. 1.055, idem).
+Antes disso, a intimação foi equivocadamente lançada em nome da patrona do co-réu LÁZARO GABRIEL DE LIMA SILVA, Dra. Cintia Lima Martins de Paula (fls. 1.021/2, ibidem). A incorreção se estendeu à certidão de fls.1.045, na qual se afirmou que "até a presente data (Obs. do Relator:13.03.2022) a advogada do corréu Adilson, Dra. Jamille Godoy de Oliveira Almeida, não apresentou defesa preliminar apesar de devidamente intimada". Em razão do que foi certificado, expediu-se mandado de intimação ao co-acusado ADILSON MARCELO LEONEL CAMPOS para que constituísse "novo defensor no prazo de 10 dias, devendo ser advertido de que se assim não fizer, os autos serão remetidos à Defensoria Pública do Estado de São Paulo" (fls. 1.047, ibidem).
+Vê-se, pois, que a marcha procedimental ainda se insere em parâmetros de normalidade - considerando sobretudo que são processados dez réus no feito correlato a este writ, assistidos por causídicos distintos -, encontrando-se os autos na iminência de designação de audiência de instrução e julgamento. Não se verifica, pois, desídia do E. Juízo.
+Inobstante, tendo em vista o inequívoco escoamento do prazo para apresentação de peça defensiva por parte da digna advogada constituída por ADILSON MARCELO, imperioso que se recomende ao I. Juízo de origem que: i) em no máximo 5 (cinco) dias, cobre o cumprimento do mandado referente à intimação desse co-réu para nomear novo mandatário (a despeito de ter sido expedido anteriormente à notificaçãoda defensora, em homenagem à instrumentalidade das formas); ii) esvaído o lapso de dez dias então fixado, seja a Defensoria Pública instada a atuar na defesa desse réu; iii) com o encarte da resposta defensiva de ADILSON MARCELO (se houver), também no prazo máximo de 5 (cinco) dias, agende audiência instrutória.
+ ..
+Registre-se que o constrangimento ilegal por excesso de prazo não resulta de um critério aritmético, mas de uma aferição realizada pelo julgador, à luz dos princípios da razoabilidade e da proporcionalidade, levando em conta as peculiaridades do caso concreto
+No caso, o paciente encontra-se preso preventivamente, desde 19/8/2021, em razão da prática do crime de associação para o tráfico.
+Da análise dos autos, verifica-se que são processados 10 réus, todos assistidos por causídicos distintos,a denotar a complexidade do feito.
+Alie-se a issoa falta de desídia do Judiciário no impulsionamento da açãopenal, estando o feito tramitando regularmente, tanto que o Juiz informou que, em 3/6/2022, os autos foram encaminhados para apresentação de resposta à acusação pela Defensoria Pública em relação ao correu faltante, e, após sua manifestação, já seria designada audiência de instrução, debates e julgamento (fl. 69).
+Assim, imperiosa, por ora, a observância do princípio da razoabilidade.
+A propósito:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PRISÃOPREVENTIVA.HOMICÍDIOQUALIFICADO. GARANTIA DA ORDEM PÚBLICA. ALEGAÇÃODEEXCESSODEPRAZOPARA A FORMAÇÃO DA CULPA. PACIENTE PRESO DESDE1º/10/2021. PRINCÍPIO DA RAZOABILIDADE. FEITO COMPLEXO. PROCESSO SUJEITOAO RITO ESPECIAL DO TRIBUNAL DO JÚRI E COM DIVERSIDADE DE CONDUTASDELITIVAS (HOMICÍDIOQUALIFICADO TENTADO E FRAUDE PROCESSUAL). DENÚNCIARECEBIDA EM 22/10/2021. ENCERRADA A INSTRUÇÃO PROCESSUAL.TRÂMITEREGULAR.AUSÊNCIA DE DESÍDIA OU INÉRCIA PELO MAGISTRADO SINGULAR. ALEGAÇÃODE DEFICIÊNCIA DE FUNDAMENTAÇÃO. INOCORRÊNCIA. GRAVIDADE CONCRETA. FORMADE EXECUÇÃO E MOTIVAÇÃO. REITERAÇÃO DELITIVA. POSSIBILIDADE. PRECEDENTES.CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. WRIT INDEFERIDO LIMINARMENTE.ILEGALIDADE. MANIFESTA. AUSÊNCIA.
+1. Inicialmente, registre-se que o constrangimento ilegalporexcessodeprazonão resulta de um critério aritmético, mas de umaaferição realizada pelo julgador, à luz dos princípios da razoabilidade eda proporcionalidade, levando em conta as peculiaridades do caso concreto(AgRg no RHC n. 157.071/RS, Ministro Reynaldo Soares da Fonseca, QuintaTurma, DJe 13/12/2021).Precedentes.
+2. No caso, a decisão agravada deve ser mantida, pois, a despeitodoprazode custódia cautelar, agravante preso desde 1º/10/2021, trata-sede feito complexo - processo sujeito ao rito especial do Tribunal do Júrie com diversidade de condutas delitivas (homicídioqualificado tentado efraude processual) - e inexiste culpa do Judiciário na eventual moraprocessual - uma vez a denúncia foi recebida em 22/10/2021, tendo sidoencerrada a instrução processual e iniciada a fase de alegações finais em11/3/2022 -, porquanto oprazodetramitaçãonão traduz de plano violaçãodos princípios da razoabilidade e da proporcionalidade, balizas deaferição da razoável duração do processo.
+ ..
+5. Isso porque em situações similares à dos presentes autos, esta CorteSuperior entendeu suficiente a fundamentação baseada na gravidade concretado delito e no risco de reiteração delitiva.Confiram-se julgados nesse sentido: AgRg no HC n. 704.584/RS, MinistroRogerio Schietti Cruz, Sexta Turma, DJe 16/3/2022; e AgRg no RHC n.157.491/PR, Ministra Laurita Vaz, Sexta Turma, DJe 17/12/2021.
+6. Agravo regimental improvido.
+(AgRg no HC n. 731.880/GO, da minha relatoria, Sexta Turma,DJe 13/5/2022)
+Sendo assim, diante da complexa marcha processual, em razão da existência de 10 corréus, todos com causídicos diversos, não visualizoexcesso de prazo a justificar a soltura do paciente, uma vez que essa é inerente à inércia do órgão judiciário, o que, como anteriormente explanado, não se verifica no caso dos autos.
+Ante o exposto, conheço parcialmente do writ e, na parte conhecida, denego a ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS. ASSOCIAÇÃO PARA O TRÁFICO. PRISÃO PREVENTIVA. FUNDAMENTOS DA PRISÃO E AUSÊNCIA DE INDÍCIOS SUFICIENTES DA AUTORIA DELITIVA. MATÉRIAS NÃO ANALISADAS NA ORIGEM. SUPRESSÃO DE INSTÂNCIA. EXCESSO DEPRAZO. FEITO COMPLEXO. 10 RÉUS COM CAUSÍDICOS DISTINTOS. DESÍDIA DO JUDICIÁRIO. AUSÊNCIA. TRÂMITE REGULAR. RAZOABILIDADE. OBSERVÂNCIA. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Writparcialmente conhecido e, na parte conhecida, ordem denegada.
