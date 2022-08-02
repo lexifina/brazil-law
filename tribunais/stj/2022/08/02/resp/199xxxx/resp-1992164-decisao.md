@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de recurso especialinterposto por ANTÔNIO SILVESTRE DA SILVA contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ, fls. 112-116):
+APELAÇÃO CÍVEL - SEGURO OBRIGATÓRIO (DPVAT) - Interposição contra sentença que indeferiu a inicial e julgou extinta ação de cobrança, com fundamento no artigo 485, I, do Código de Processo Civil. Cerceamento de defesa não configurado. Autor que não provou a realização de requerimento administrativo antes do ajuizamento da ação. Providência necessária para as ações aforadas após a data do julgamento do Recurso Extraordinário n.º 631.240/MG. Demanda proposta depois do referido julgado, e desacompanhada da prova do requerimento administrativo. Ausência de interesse processual. Imposição de honorários advocatícios nos termos do artigo 85, § 1º, do Código de Processo Civil. Sentença mantida. Apelação não provida.
+Os embargos de declaração opostos contra o acórdão foram rejeitados (e-STJ, fls. 123-129).
+Nas razões de recurso especial, interposto com fundamento no art. 105, inciso III, alíneasa e c, da Constituição Federal, orecorrente alega, além do dissídio jurisprudencial,a violação ao art. 5º da Lei 6.194/1974.
+Sustenta a ocorrência de cerceamento de defesa, diante da extinção prematura do feito sem a realização da perícia técnica requerida pelo recorrente.
+Assevera que, ao contrário do entendimento esposado no acórdão recorrido, há nos autos a comprovação tanto do requerimento quanto do pagamento realizados no âmbito administrativo.
+Aduz que a lei determina expressamente que o pagamento da indenização será realizado mediante simples prova do acidente e as lesões dele decorrentes, sem qualquer exigência acerca do requerimento administrativo.
+Aponta divergência jurisprudencial entre o acórdão recorrido e julgado proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul.
+Foram apresentadas contrarrazões (e-STJ, fls. 146-152).
+O recurso especial foi admitido na origem (e-STJ, fls. 153-155).
+É o relatório. Decido.
+Sobre a matéria, o Tribunal de Justiça assim se manifestou (e-STJ, fl. 115):
+No caso concreto, sequer houve a apresentação de contestação, em vista do indeferimento da inicial. Logo, não se pode considerar como caracterizado o interesse de agir pela resistência à pretensão.
+Por tais razões, para o caso específico exige-se o prévio requerimento administrativo, tendo em vista que a ação foi ajuizada em 05/02/2021, posteriormente ao julgamento do Recurso Extraordinário n.º 631.240/MG, motivo pelo qual falta o interesse processual ao autor.
+Note-se, ainda que o autor sustente a ocorrência de cerceamento de defesa, não há condições de prosseguimento da demanda em decorrência da falta do interesse processual, o que implica na sua extinção.
+É certo que o indeferimento da inicial foi decretado por razão diversa ausência de consolidação da invalidez permanente, porém, não há sequer possibilidade de se adentrar ao campo do cerceamento de defesa, já que o autor não provou a realização do pedido administrativo, falta que já se mostra suficiente para impedir o prosseguimento do feito.
+Quanto à alegada violação aoart. 5º da Lei 6.194/1974, percebe-se que a matéria não foi devidamente analisada pelo Tribunal de origem, faltando, assim, o requisito indispensável do prequestionamento.
+No caso, o Tribunal de Justiça considerou ausente o interesse de agir, em virtude da ausência de prévio requerimento administrativo, ou seja, não houve enfrentamento do mérito.Inclusive, registra que não cabe a análise da tese do cerceamento de defesa, justamente pela ausência do interesse de agir.
+Para que se configure o prequestionamento da matéria, há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos por vulnerados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal.
+Importante assinalar, ainda, que o prequestionamento ficto, previsto no art. 1.025 do CPC/2015, só é admissível quando, após a oposição de embargos de declaração na origem, a parte recorrente suscitar a violação ao art. 1.022 do mesmo diploma, porquanto somente dessa forma é que o órgão julgador poderá verificar a existência do vício e proceder à supressão de grau.
+Contudo, na hipótese dos autos, a despeito da oposição de embargos de declaração, a matéria não foi analisada pelo colegiado estadual, tampouco houve a alegação de violação do art. 1.022 do CPC/2015 nas razões de recurso especial, o que faz incidir a Súmula 211/STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO INDENIZATÓRIA. DOIS AGRAVOS INTERPOSTOS. APLICAÇÃO DO PRINCÍPIO DA UNIRRECORRIBILIDADE RECURSAL. ANÁLISE DO PRIMEIRO QUE FOI INTERPOSTO. PRECLUSÃO CONSUMATIVA. TEMA NÃO DEBATIDO. PREQUESTIONAMENTO. AUSÊNCIA. INCIDÊNCIA DA SÚMULA Nº 211 DO STJ. DANO MORAL NÃO CONFIGURADO. PRETENSÃO RECURSAL QUE ENVOLVE O REEXAME DE PROVAS. INVIABILIDADE. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Em razão do princípio da unirrecorribilidade recursal, que estabelece que para cada provimento judicial admite-se apenas um recurso, deve ser reconhecida a preclusão consumativa daquele que foi deduzido por último, porque electa una via non datur regressus ad alteram.
+3. O recurso especial não deve ser conhecido quando ausente o prequestionamento da questão federal nele ventilada, por incidência da Súmula nº 211 do STJ.
+4. A alteração das conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula nº 7 do STJ.
+5. Agravo interno não provido.
+(AgInt no AREsp 1894894/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 06/12/2021, DJe 10/12/2021) (sem grifo no original)
+Com relação a eventual cerceamento de defesa, o recorrente não indicou, nas razões recursais, de forma clara e expressa, o suposto dispositivo legal violado, o que torna a fundamentação deficiente e autoriza a aplicação da Súmula 284/STF.
+A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA. DANO MORAL. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO LEGAL. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA N. 284 DO STF. INDENIZAÇÃO. REDUÇÃO. SÚMULA 7 DO STJ. LITISCONSÓRCIO DA CAIXA ECONÔMICA FEDERAL. SÚMULA 7/STJ. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 182/STJ.
+1.Atrai a incidência analógica do enunciado sumular nº 284 do STF, quando não há a clara indicação do dispositivo de lei federal supostamente violado.
+2. Consolidou-se no Superior Tribunal de Justiça o entendimento de que, em âmbito de recurso especial, os valores fixados a título de indenização por danos morais, porque arbitrados com fundamento nas peculiaridades fáticas de cada caso concreto, só podem ser alterados em hipóteses excepcionais, quando constatada nítida ofensa aos princípios da razoabilidade e da proporcionalidade, situação inexistente no caso concreto, de modo que a sua revisão encontra óbice na Súmula 7 do STJ.
+3. Nos termos do art. 1.021, § 1º, do Código de Processo Civil/2015 e da Súmula 182/STJ, é inviável o conhecimento do agravo interno que deixa de atacar especificamente todos os fundamentos da decisão agravada.
+4. Agravo interno parcialmente conhecido e, nessa extensão desprovido.
+(AgInt no REsp n. 1.926.096/RJ, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 20/6/2022, DJe de 22/6/2022.) (sem grifo no original)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários advocatícios em R$ 300,00 (trezentos reais), em favor doadvogadoda parte recorrida, suspensa a exigibilidade em razão da gratuidade de justiça deferida aorecorrente.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. DPVAT. FALTA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. CERCEAMENTO DE DEFESA. NÃO INDICAÇÃO DOS DISPOSITIVOS LEGAIS VIOLADOS. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STJ.AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
