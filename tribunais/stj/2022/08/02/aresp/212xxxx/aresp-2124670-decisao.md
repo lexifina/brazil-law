@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que inadmitiu recurso especial, porquanto incidente a Súmula nº 7/STJ.
+O agravante foi condenado a 5 anos de reclusão, em regime inicial semiaberto, e ao pagamento de 500 dias-multa, nos termos do art. 33, caput, da Lei nº 11.343/2006.
+Nas razões do recurso especial, interposto com fundamento na alínea "a" do permissivo constitucional, apontou o recorrente, ora agravante, violação do art. 33, § 4º, da Lei nº 11.343/2006, pugnando, ao final, pela aplicação da respectiva minorante no seu patamar máximo.
+Apresentada contraminuta, manifestou-se o Ministério Público Federal pelo desprovimento recursal.
+O recurso é tempestivo e ataca os fundamentos da decisão agravada, razão pela qual passo ao exame do mérito.
+Sobre a pretensão aqui trazida, assim se posicionou o Tribunal local (fl. 215):
+ .. No que tange ao pedido de aplicação da causa de redução de pena prevista no art. 33, § 4º, da Lei 11.343/06, não assiste razão ao apelante, uma vez que o fato de o sentenciado responder a outra ação penal, consoante fora sustentado pelo juiz sentenciante, indica que o acionado se dedica às atividades criminosas, não atendendo, por conseguinte, os requisitos para a aplicação da referida minorante. ..
+Dasentença, extrai-se (fl. 116):
+ .. No que tange à possibilidade de aplicação da causa de diminuição de pena prevista no § 4º, do art. 33, da Lei 11.343/06, verifico que, in casu, esta é incabível, considerando que o réu responde a outra ação penal por suposto crime de homicídio (autos nº 0000132-51.2017.805.0065). ..
+No caso corrente, foram apreendidos com o réu, ora recorrente, 12,24 gramas de crack e 139,84 gramas de maconha, conforme especificado na denúncia de fls. 4-7.
+No entanto, não se aplicou o tráfico privilegiado, "uma vez que o fato de o sentenciado responder a outra ação penal, consoante fora sustentado pelo juiz sentenciante, indica que o acionado se dedica às atividades criminosas", ressaltando-se na sentença que "o réu responde a outra ação penal por suposto crime de homicídio".
+"Contudo, deixaram de apresentar elementos concretos, além das ilações, que comprovassem, de fato, referida dedicação à atividades criminosas, devendo ser aplicado o redutor do tráfico privilegiado. Ademais, condenações não transitadas em julgado não podem servir de fundamento para o afastamento do privilégio" (AgRg no HC n. 726.115/SP, da minha relatoria, Sexta Turma, julgado em 28/6/2022, DJe de 1/7/2022).
+Logo, em consequência da primariedade e dos bons antecedentes (fls. 115-116), além da não relevante quantidade de drogas apreendidas, faz jus o recorrente ao redutor em apreço.
+Fixada a pena final em 5 anos de reclusão e 500 dias multa (fl. 116), porém aplicada a minorante pleiteada no seu patamar máximo (2/3), chega-se ao total definitivo de 1 ano e 8 meses de reclusão, e 166 dias-multa.
+Por fim, diante das circunstâncias mencionadas, de rigor o provimento do recurso para alterar o regime inicial para o aberto e determinar a conversão da pena privativa de liberdade em pena restritiva de direitos, em conformidade com os arts. 33 e 44, ambos do código repressivo. Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. DOSIMETRIA. REGIME FECHADO. PENA INFERIOR A QUATRO ANOS. GRAVIDADE ABSTRATA DO DELITO. CONSTRANGIMENTO ILEGAL EVIDENCIADO. AGRAVO DESPROVIDO.
+ ..
+IV - Na hipótese, o regime fechado foi mantido com base em considerações vagas e genéricas relativas à gravidade abstrata do crime, em clara violação aos enunciados das Súmulas n. 718 e n. 719 do Supremo Tribunal Federal e Súmula n. 440 desta Corte Superior, configurando-se, assim, o constrangimento ilegal.
+V - In casu, os pacientes, além de primários e da pouca quantidade de entorpecentes apreendidos, tiveram a pena fixada no mínimo legal e fizeram jus à minorante inserta no parágrafo 4º do art. 33 da Lei de Drogas, mostrando-se plausível, destarte, a readequação do regime prisional. Dessarte, conclui-se que os pacientes que fazem jus ao regime aberto, para início de cumprimento das penas, ex vi do art. 33, parágrafo 2º, alínea c, e parágrafo 3º, do Estatuto Penal.
+VI - Preenchidos os requisitos do art. 44 do Código Penal, quais sejam, pena não superior à 4 (quatro) anos, o crime não foi cometido com violência ou grave ameaça à pessoa, réus não reincidentes e circunstâncias judiciais favoráveis, os pacientes fazem jus à substituição da pena privativa de liberdade por restritivas de direitos, em moldes a serem especificados pelo Juízo da Execução Penal.
+Agravo regimental desprovido. (AgRg no HC 598.994/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 03/11/2020, DJe 18/11/2020.)
+Ante o exposto, conheço o agravo para darprovimento ao recurso especial para (re)fixar a pena final do recorrente ao total de 1 ano e 8 meses de reclusão, e 166 dias-multa, determinar o regime inicial aberto e substituir a pena corporal por pena restritiva de direitos, a ser estabelecida pelo juízo da execução.
+Publique-se.
+Intimem-se.
