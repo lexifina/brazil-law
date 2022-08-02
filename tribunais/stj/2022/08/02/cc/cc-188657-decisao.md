@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de conflito negativo de competência entre o Juízo de Direito da 3ª Vara Criminal de Passo Fundo/RS, suscitante, e o Juízo de Direito da 2ª Vara Criminal de Naviraí/MS, suscitado.
+O juízo suscitado, considerando o que prescreve o art. 70 do CPP, redistribuiu o feito para uma das varas criminais da Comarca de Passo Fundo/RS, declinando da sua competência.
+Por sua vez, o juízo suscitante, citando o mesmo dispositivo, no seu § 4º, sustentou que, nos termos do entendimento firmado pela Terceira Seção do STJ,a Lei 14.155/2021, que definiu que competência para processar e julgar o delito de estelionato é estabelecida pelo domicílio da vítima, "aplica-se aos inquéritos que já estavam em curso antes da vigência da Lei 14.122/2021", como é o caso dos autos,suscitando, assim, o presente conflito.
+As informações foram prestadas, encontrando-se os autos do inquérito policial na Comarca de Passo Fundo/RS.
+Instado a se manifestar, o Ministério Público Federal opinou pela declaração de competência do juízo suscitado.
+Como visto, trata o presente feito daprática do crime de estelionato efetivado por transferência bancária, possuindo as vítimas domicílio Naviraí/MS e Caarapo/MS.
+Diante da alteração legislativa promovida pela Lei nº 14.155, de 27/5/2021, a qual criou hipótese específica de competência nos casos de crimes de estelionato praticados mediante depósitos e transferência de valores, não mais subsiste o entendimento de fixação da competência do local da agência beneficiária do respectivo depósito, devendo ser reconhecida a competência do juízo do domicílio das vítimas, sendo diversos, define-se por prevenção. A propósito:
+CONFLITO NEGATIVO DE COMPETÊNCIA. PENAL E PROCESSUAL PENAL. ESTELIONATO. CRIME PRATICADO MEDIANTE CHEQUE FRAUDULENTO. HIPÓTESE NÃO PREVISTA NA LEI N. 14.155/2021. CONSUMAÇÃO DO CRIME NO LOCAL ONDE A VÍTIMA POSSUI CONTA BANCÁRIA. CONFLITO CONHECIDO PARA DECLARAR COMPETENTE O JUÍZO SUSCITADO.
+1. O delito de estelionato, tipificado no art. 171,caput, do Código Penal, consuma-se no lugar onde aconteceu o efetivo prejuízo à vítima. Por essa razão, a Terceira Seção do Superior Tribunal de Justiça, no caso específico de estelionato praticado por meio de depósito em dinheiro ou transferência de valores, firmara a compreensão de que a competência seria do Juízo onde se auferiu a vantagem ilícita em prejuízo da vítima, ou seja, o local onde se situava a conta que recebeu os valores depositados.
+2. A Lei n. 14.155, de 27 de maio de 2021, que incluiu o § 4.º no art. 70 do Código de Processo Penal, criou hipótese específica de competência no caso de crime de estelionato praticado mediante depósito, transferência de valores ou cheque sem provisão de fundos em poder do sacado ou com o pagamento frustrado. Diante da modificação legislativa, não mais subsiste o entendimento firmado por esta Corte Superior, devendo ser reconhecida a competência do Juízo do domicílio da vítima.
+ ..
+4. Conflito conhecido para declarar competente o JUÍZO DE DIREITO DA VARA ÚNICA DE URUPÊS/SP, o Suscitado. (CC n. 182.977/PR, relatora Ministra Laurita Vaz, Terceira Seção, julgado em 9/3/2022, DJe de 14/3/2022.)
+Ante o exposto, conheço do conflito para declarar competente o Juízo de Direito da 2ª Vara Criminal de Naviraí/MS, ora suscitado.
+Publique-se.
+Intimem-se.
