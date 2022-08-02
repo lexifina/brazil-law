@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo interposto por BANCO BRADESCO S.A. contra decisão que negou seguimento a recurso especial, fundamentado naalínea"a" do inciso III do artigo 105 da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+AÇÃO DECLARATÓRIA CUMULADA COM RESTITUIÇÃO DE VALORES - CONTRATO BANCÁRIO - "ACORDO DE MANUTENÇÃO DE DOMICÍLIO BANCÁRIO/ANTECIPAÇÃO DE CRÉDITO (CARTÃO DE CRÉDITO)" - AUTORA - INSURGÊNCIA CONTRA OS INÚMEROS LANÇAMENTOS DE DÉBITOS NA CONTA, SEM O RESPECTIVO CRÉDITO DE CADA OPERAÇÃO - PRETENSÃO - RESSARCIMENTO DAS QUANTIAS - RÉU - ARGUIÇÃO - ILEGITIMIDADE PASSIVA - ALEGAÇÃO - RESPONSABILIDADE DA EMPRESA ADMINISTRADORA DO CARTÃO (CIELO) - REGULARIDADE DOS DESCONTOS - AUSÊNCIA DE PROVA - NÃO DEMONSTRAÇÃO DO FATO IMPEDITIVO DO DIREITO - INTELIGÊNCIA DO ART. 373, II, DO CPC - PEDIDO INICIAL - PROCEDÊNCIA - SENTENÇA - MANUTENÇÃO. APELO DO RÉU NÃO PROVIDO.
+O Banco agravante sustenta, nas razões de recurso especial, a ocorrência de negativa de prestação jurisdicional por insuficiência de fundamentação, uma vez que o acórdão recorridonão se pronunciou sobre o contrato celebrado entre as partes e os efeitos e implicações decorrentes.
+Assim posta a questão, passo ao exame do recurso.
+Verifico que o acórdão recorrido considerou abusiva a taxa de juros remuneratórios cobrados em períodos posteriores, sem discriminação, com o percentual previstona data da contratação.
+Ocorre que as alegações da ora agravante sobre sua obrigação contratual de apenas atuar como domicílio bancário, permitindoao correntista o recebimento dos valores de antecipação de créditolançadospelas administradoras de cartão decrédito.
+O ponto érelevantepara que esteja completa a prestação jurisdicional, na medida em que esclarece a relação jurídica celebrada entre as partes.
+É certo que ojulgador não está obrigado a responder a todos os questionamentos das partes, todavia, deve resolver o litígio de forma suficientemente fundamentada, explicitando às partes as motivações do seu convencimento.
+Assim, foramsuscitadas questõesimportantes para o deslinde da controvérsia, sem, contudo, obter pronunciamento jurisdicional a respeito, o que caracteriza ofensa ao artigo 489do CPC.
+Em face do exposto, conheço do agravo e dou provimento ao recurso especial, a fim de determinar o retorno dos autos para que o Tribunal de origem supra ovícioapontado.
+Intimem-se.
