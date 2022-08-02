@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso especial interposto por POLIANA FERNANDES MAGALHAES PRADO com respaldonas alíneas "a" e "c" do permissivo constitucional contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE RONDÔNIAassim ementado (e-STJ fls. 2.464):
+Apelação cível. Ação de indenização por danos materiais e morais. Cheia do Rio Madeira. Cerceamento de defesa. Não ocorrência. Preliminar rejeitada. Usina Hidroelétrica de Santo Antônio. Construção. Funcionamento. Nexo de causalidade com a enchente do rio.
+Ausência de comprovação. Recurso desprovido.
+A matéria tratada nos autos, embora decorrente de circunstâncias fáticas - construção de barragem no rio Madeira, cheia do rio e suas consequências -, acabou se tornando meramente de direito em razão das inúmeras ações que tramitaram por esta Corte, tendo como causa de pedir a cheia do rio Madeira de 2014, e se buscou, com base em perícias e estudos, fixar tese se há ou não nexo de causalidade entre a atividade da apelada e os danos decorrentes da cheia do rio ocorrida em 2014.
+Uma vez fixada a tese e convencido o juízo, a abordagem das minucias trazidas pelas partes se mostra contraproducente e contrária ao princípio da celeridade.
+Certificado que o alagamento resultante de enchente fora motivado por fenômeno natural, impõe-se assentir a ausência de nexo de causalidade entre os danos sofridos pelos moradores da região afetada e o empreendimento relativo à construção da Usina Hidrelétrica, assim incabível a responsabilização civil da empresa com o intuito de reparação.
+Embargos de declaração rejeitados (e-STJ fls. 2.508/2.510).
+Em suas razões, a parte recorrente aponta,além de dissídio jurisprudencial, violaçãodos arts. 489 e 1.022, I e II,do CPC/2015, por negativa de prestação jurisdicional, e, no mérito, alega vulneração dos arts. 186 e 927 do CC e14, §1º, da Lei 6.938/91,argumentando, em suma,que há nexo de causalidade a ensejar a indenização postulada.
+Contrarrazões às e-STJ fls. 2.596/2.626.
+Juízo positivo de admissibilidade pelo Tribunal de origem às e-STJ fls. 2631/2634.
+Redistribuição do feito às e-STJ fls. 2650/2651.
+Passo a decidir.
+Verifico que a pretensão recursal nãomerece prosperar.
+Em relação à alegada ofensa dos arts.489 e 1.022 do CPC/2015, cumpre destacar que, ainda que o recorrente considere insubsistente ou incorreta a fundamentação utilizada pelo Tribunal nos julgamentos realizados, não há necessariamente ausência de manifestação. Não há como confundir o resultado desfavorável ao litigante com a falta de fundamentação, motivo pelo qual não se constata violação dos preceitos apontados.
+Consoante entendimento desta Corte, o magistrado não está obrigado a responder a todas as alegações das partes,tampouco a rebater um a um de todos os seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie.
+Nesse sentido:
+IPVA. NÃO CONFIGURADA VIOLAÇÃO DO ART. 1.022 DO CPC/2015. CERCEAMENTO DE DEFESA. INCIDÊNCIA DA SÚMULA 283 DO STF. ALIENAÇÃO FIDUCIÁRIA DE VEÍCULO. ILEGITIMIDADE PASSIVA DO CREDOR FIDUCIÁRIO. CONTROVÉRSIA DIRIMIDA COM ANÁLISE DE LEGISLAÇÃO DISTRITAL. INCIDÊNCIA DA SÚMULA 280/STF. LEI LOCAL. ILEGITIMIDADE ATIVA DO DISTRITO FEDERAL. REEXAME DO CONJUNTO PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7 DO STJ. MULTA DO ART. 1026 DO CPC/2015.
+1. Inicialmente, em relação aos arts. 141 e 1022 do CPC, deve-se ressaltar que o acórdão recorrido não incorreu em omissão, uma vez que o voto condutor do julgado apreciou, fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte recorrente. Vale destacar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional.
+ ..
+(REsp 1.671.609/DF, Rel. Ministro HERMAN BENJAMIN, Segunda Turma, DJe 30/06/2017).
+No mérito, o Tribunal de origem assentou serincabível a responsabilização civil ambientalda recorrida pela ausência de nexo de causalidade "entre os danos no imóvel e o empreendimento da apelada na construção da Usina Hidrelétrica de Santo Antônio" (e-STJ fl. 2.463).
+Nesse passo, a modificação do julgado, nos moldes pretendidos, não depende de simples análise do critério de valoração da prova, mas do reexame dos elementos de convicção postos no processo, providência incompatível com a via estreita do recurso especial, nos termos da Súmula 7 do STJ.
+Por fim, "este Tribunal tem entendimento no sentido de que a incidência do enunciado n. 7 desta Corte impede o exame de dissídio jurisprudencial, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual a Corte de origem deu solução à causa" (AgInt no AREsp 398.256/RJ, rel. Ministro Francisco Falcão, Segunda Turma, DJe 10/03/2017).
+Ante o exposto, com base no art. 255, § 4º, I e II, do RISTJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10%o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
