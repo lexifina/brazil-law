@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de habeas corpus ajuizado em nome de Atila Eduardo dos Santos, apontando-se como autoridade coatora o Tribunal de Justiça de Minas Gerais (Apelação Criminal n. 1.0024.19.126668-3/001).
+Narram os autos que o Juízo da 2ª Vara de Tóxicos da comarca de Belo Horizonte/MG condenou o paciente pela prática do delito descrito no art. 33, caput, c/c o art. 40, VI, ambos da Lei n. 11.343/2006, à pena de 5 anos e 10 meses de reclusão.
+O Tribunal estadual negou provimentoaos recursos interpostos pelo Ministério Público e pela defesa.
+Com o presente writ, aduz-se, de início, que a Corte de origem negou a aplicação do redutor previsto no art.33, § 4º, da Lei de Drogas, sob o fundamento exclusivo na existência de registros infracionais (fl. 5).
+Sustenta-se a manifesta ilegalidade de tal entendimento que ignora por completo os princípios reitores do direito penal juvenil, a situação do adolescente como peculiar pessoa em desenvolvimento e, sobretudo, mostra-se violadora das normas federais que regem o caso (fl. 8).
+Requer-se, então, a concessão da ordem para aplicar o redutor previsto no art. 33, § 4º, da Lei n. 11.343/2006, estabelecer o regime inicial aberto e substituir a pena privativa de liberdade por restritiva de direitos.
+A liminar foi indeferida (fls. 92/93).
+As informações foram prestadas às fls. 96/120.
+O Ministério Público Federal opinou nos termos desta ementa (fl. 122):
+HABEAS CORPUS. TRÁFICO DE DROGAS. - TRÁFICO PRIVILEGIADO. CAUSA ESPECIAL DE DIMINUIÇÃO DA PENA PREVISTA NO §4º DO ART. 33 DA LEI 11.343/2006. DIREITO SUBJETIVO DO RÉU QUANDO PREENCHIDOS OS REQUISITOS LEGAIS. - DOSIMETRIA. VALORAÇÃO DA QUANTIDADE E DA QUALIDADE DA DROGA EM DUAS FASES DO DIMENSIONAMENTO DA PENA. PRECEDENTES DO SUPREMO TRIBUNAL FEDERAL. - REGIME PRISIONAL. INÍCIO DO CUMPRIMENTO DA PENA EM REGIME FECHADO COM BASE NA EQUIPARAÇÃO LEGAL DO DELITO DE TRÁFICO DE DROGAS A CRIME HEDIONDO. IMPOSSIBILIDADE. DECLARAÇÃO INCIDENTAL DE INCONSTITUCIONALIDADE DO §1º DO ART. 2º DA LEI 8.072/90 (LEI CRIMES HEDIONDOS) NO HC 111.840/ES. NÃO HEDIONDEZ DO TRÁFICO PRIVILEGIADO RECONHECIDA PELO STF NO HC 118.553/MS - PARECER PELA CONCESSÃO DA ORDEM.
+É o relatório.
+O presente writ comporta acolhimento.
+No caso, ao justificar anão incidência do mencionado benefício, a Corte de origem sopesou somente a existência deregistros de atos infracionais(fls. 82/83 - grifo nosso):
+Pois bem, para a aplicação do referido privilégio é preciso que o agente seja primário, de bons antecedentes, não se dedique ás atividades criminosas nem integre organização criminosa, sendo certo que a ausência de qualquer um desses requisitos obsta o reconhecimento do chamado tráfico privilegiado. Confira-se:
+ ..
+No caso em tela, em que pese a primariedade e os bons antecedentes do apelante, conforme se depreende da Certidão de Antecedentes Criminais de fl. 59, entendo que restou comprovado nos autos que ele, no mínimo se dedicava a atividades criminosas.
+O próprio apelante, em juízo, afirmou que já foi apreendido pela prática de atos infracionais durante a menoridade, fato confirmado pela Certidão de Antecedentes do Menor de fls. 69/70 e 109/110v, em que é possível constatar registros por atos infracionais análogos aos crimes de roubo, receptação e lesão corporal.
+É sabido que a prática de atos infracionais pelo agente não enseja o reconhecimento de seus maus antecedentes ou de sua reincidência, todavia são aptos a demonstrar que ele se dedicava à atividade criminosa, obstando, assim, a aplicação da minorante do art. 33, § 4º, da Lei n. 11.343/2006.
+No entanto,a Terceira Seção desta Corte Superior, para fins de consolidação jurisprudencial, firmouentendimento intermediário no sentido de que o histórico infracional pode ser considerado para afastar a minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006, por meio de fundamentação idônea que aponte a existência de circunstâncias excepcionais, nas quais se verifique a gravidade de atos pretéritos, devidamente documentados nos autos, bem como a razoável proximidade temporal de tais atos com o crime em apuração(EREsp n. 1.916.596/SP,Ministro Joel Ilan Paciornik, relatorapara acórdão Ministra Laurita Vaz, Terceira Seção, julgado em 8/9/2021, DJe 4/10/2021).
+No caso, a fundamentação utilizada pela instância de origem é inidônea, pois não demonstrou a existência de circunstâncias excepcionais. Com efeito,é genérico o apontamentodos fatos pretéritos, sem indicação, ainda, da razoável proximidade dos atos infracionais com o delito em apuração.
+Não foi outra a opinião do Subprocurador-Geral da RepúblicaDomingos Sávio Dresch da Silveira em seu parecer (fls. 124/126):
+A causa especial de diminuição da pena para o chamado tráfico privilegiado prevista no § 4º do art.33 da Lei n. 11.343/2006 objetiva oferecer sanção penal mais branda ao agente envolvido em situação de pequena e/ou eventual traficância. É medida de política criminal que estabelece um discrimen entre a resposta estatal, na forma de sanção penal, destinada ao agente dedicado à traficância de entorpecente de forma contumaz e reiterada e àquele que se vê envolvido na prática do delito de forma episódica e casual.
+ ..
+A respeito da aplicação da fração redutora prevista para o tráfico privilegiado e acerca da necessidade de fundamentação específica em caso de concessão em patamar inferior ao máximo legal, transcrevo ementa de precedente do Superior Tribunal de Justiça, cujas considerações sobre o tema mostram-se adequadas e aplicáveis ao caso em análise:
+ ..
+Assim, uma vez presentes os requisitos do §4º do artigo 33 da Lei11.343/2006, a diminuição da pena não pode ser negada ao réu, em respeito à opção legislativa de oferecer resposta penal menos grave aos agentes que não se dedicam reiteradamente ao delito. Ainda, é de se sublinhar que o aludido dispositivo legal exige tão somente primariedade, bons antecedentes, não participação de organização criminosa e não dedicação a atividades ilícitas, nada se referindo qualquer outro elemento condicionante.
+Com essas considerações, passo a redimensionar a pena do paciente.
+Fica mantida a pena aplicadana primeira e segunda fases da dosimetria, bem como a causa de aumento aplicada pela instância ordinária. Na terceira fase do cálculo, diante da incidência da redutora do tráfico privilegiado na fração de 2/3, diminuo a pena do paciente para 1 ano, 11 meses e 10 dias de reclusão, e 194 dias-multa, a qual torno definitiva.
+Quanto ao regime prisional, tendo em vista o redimensionamento da pena do paciente, a primariedade e os bons antecedentes, cabível a imposição do regime aberto (art. 33, §§ 2º e 3º, do Código Penal) e a substituição da pena privativa de liberdade por restritiva de direitos.
+Ante o exposto, em consonância com o parecer ministerial, concedoa ordem a fim de redimensionar a pena do paciente para 1 ano, 11meses e 10 dias de reclusão, em regime aberto, e 194 dias-multa, substituída a pena privativa de liberdade por duas restritivas de direitos a serem fixadas pelo Juízo da execução.
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS.TRÁFICO DE DROGAS. DOSIMETRIA DA PENA. PLEITO PELAAPLICAÇÃO DO REDUTOR DO TRÁFICO PRIVILEGIADO (ART. 33, § 4º, DA LEI N.11.343/2006). POSSIBILIDADE.ATOS INFRACIONAIS PRETÉRITOS. ESPECIAL GRAVIDADE NÃO DEMONSTRADA.REDIMENSIONAMENTO DA PENA QUE SE IMPÕE.REGIMEABERTO E SUBSTITUIÇÃO DA PENA. PARECER MINISTERIAL FAVORÁVEL.
+Ordem concedida nos termos do dispositivo.
