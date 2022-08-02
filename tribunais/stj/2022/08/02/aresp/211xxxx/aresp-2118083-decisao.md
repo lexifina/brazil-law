@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (e-STJ, fl. 447):
+Ação revisional denominada "ação constitutiva-negativa cumulada com ação declaratória e consignação em pagamento". Cédula de crédito bancário. Financiamento de veículo com garantia de alienação fiduciária. Apelação 1 (instituição financeira ré). Taxas de juros.Pactuação expressa. Abusividade inexistente. Manutenção das taxas contratadas. Limitação afastada. Tarifa de avaliação do bem. Ilegalidade.Cobrança em desacordo com os parâmetros estipulados pelo Superior Tribunal de Justiça no julgamento do Recurso Especial Repetitivo nº 1.578.553/SP. Ausência de laudo de avaliação ou outro documento apto a demonstrar a efetiva prestação de avaliação do veículo. Tarifa de registro de contrato. Validade. Abusividade não demonstrada. Serviço prestado de forma efetiva em valor que não se mostra excessivo. Seguro. Aplicação de tese firmada no REsp 1.639.320/SP. Apelação 2 (autora). Capitalização de juros. Pactuação expressa. Artigo 28, § 1º, da Lei 10.931/2004.Legalidade. IOF. Devolução do IOF incidente sobre tarifa afastada.Inoponibilidade de encargos moratórios. Afastamento de encargos acessórios que não tem o condão de desconfigurar a mora (REsp 1.639.320/SP).
+Apelação 1 conhecida e provida em parte.
+Apelação 2 conhecida e provida em parte.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, a parte agravante aponta violação aos arts.6, V,51,IV, do Código de Defesa do Consumidor; bem como divergência jurisprudencial.
+Alega que não houve expressa pactuação da capitalização mensal de juros, e defende o reconhecimento da abusividade na cobrança dos encargos moratórios, bem como a impossibilidade de cumulação da comissão de permanência com os juros remuneratórios.
+Afirma que "a manutenção da suposta legalidade da cobrança da capitalização mensal de juros, da incidência dos encargos moratórios e dos juros remuneratórios ou comissão de permanência de forma cumulada com os demais encargos de mora, faz com que o negócio jurídico pactuado, enseja em onerosidade excessiva à parte contratante, ora Recorrente" (e-STJ, fl.498).
+Argumenta, ainda, que a cobrança indevida da capitalização mensal dos juros e dos encargos abusivos acarreta a descaracterização da mora.
+Contrarrazões apresentadas.
+O Tribunal de origem, ao realizar o juízo de admissibilidade, negouseguimento a parte dorecurso, com fundamento no fato de que o acórdão está em conformidade com atese firmada nos recursos especiais repetitivos nº 973.827/RS e 1.061.530/RS, e não o admitiu em relação às demais questões (e-STJ, fls. 229/235).
+Às fls. 896/905, a recorrente interpõe agravo em recurso especialcontraacórdão proferido na origem, que negou provimento ao Agravo Interno.
+Assim delimitada a controvérsia, passo a decidir.
+Ao proferir o juízo de admissibilidade, o Tribunal de origem negou seguimento ao recurso especial, com relação aos juros remuneratórios, à capitalização mensal de juros e à descaracterização da mora, pois considerou que o acórdão recorrido está em harmonia com a tese firmada nos recursos especiais repetitivos nº 973.827/RS e 1.061.530/RS.
+Nesse contexto, impende esclarecer que a Corte local, ao exercer o juízo de conformidade e aplicar a tese repetitiva ao caso concreto, o faz em caráter exclusivo e definitivo, de modo que se torna inviável a interposição de qualquer outro recurso com a finalidade de rediscussão das referidas matérias.
+Com efeito, a decisão agravada foi publicada já na vigência do atual Código de Processo Civil, o qual prevê, em seu art. 1.030, inciso I, alínea "b", e § 2º, que caberá agravo interno contra a decisão que negar seguimento a recurso especial interposto em desfavor deacórdão proferido em conformidade com entendimento do STJ, firmado em julgamento de recurso repetitivo. Confiram-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC.  .. . RECURSO ESPECIAL. NEGATIVA DE SEGUIMENTO. RECURSO REPETITIVO. AGRAVO EM RECURSO ESPECIAL. NÃO CABIMENTO.  .. . AGRAVO INTERNO NÃO PROVIDO.
+ ..
+4. É incabível agravo em recurso especial contra decisão que nega seguimento a apelo nobre na hipótese em que a matéria tenha sido julgada em harmonia com tese definida em recurso repetitivo.
+ ..
+7. Agravo interno não provido.
+(AgInt no REsp 1.869.871/RS, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 29/06/2020, DJe 01/07/2020.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO MONITÓRIA - DECISÃO MONOCRÁTICA QUE NÃO CONHECEU DO RECLAMO. INSURGÊNCIA DA DEMANDADA.
+1. A Corte Especial do STJ, no julgamento da Questão de Ordem no Ag 1.154.599/SP, de relatoria do Ministro Cesar Asfor Rocha, adotou o entendimento de que é incabível o agravo interno contra a decisão que nega seguimento a recurso especial interposto contra acórdão que esteja em conformidade com o entendimento do STJ sob o rito dos recursos repetitivos. 1.1. Na forma do art. 1030, § 2º, do NCPC, o recurso cabível contra a decisão que nega seguimento a recurso especial com base no art. 1.030, I, b, do CPC/15, é o agravo interno. Precedentes. 1.2. Nos termos da jurisprudência desta Corte Superior, configura erro grosseiro a interposição do agravo previsto no art. 1.042, caput, do CPC/15, sendo inviável, na hipótese, a aplicação do princípio da fungibilidade recursal. Precedentes.
+2. Agravo interno desprovido.
+(AgInt no AREsp 1.455.076/MS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 24/06/2019, DJe 01/07/2019.)
+Desse modo, certa ou não tal conclusão do juízo negativo de admissibilidade, oforo adequado para a discussão seria o agravo interno contra a decisão que negouseguimento ao recurso especial com fundamento no artigo 1.030, I, do CPC, de modoque, sobre essa questão, não é cabível agravo em recurso especial.
+De outro lado, no tocante à tese de impossibilidade de cumulação da comissão de permanência com outros encargos, o acórdão recorrido concluiu ser incabível tal alegação,eis que não houve pactuação de tal encargo, nem foi demonstrada a cobrança" (e-STJ, fl.455).
+Assim, rever as conclusões a que chegou a instância ordinária acerca da ausência de cobrançacumulativa da comissão de permanência com outros encargos, encontra óbice nas Súmulas 5 e 7/STJ.
+Em face do exposto,conheço parcialmente do agravoe, nessa extensão, a ele negoprovimento.
+Nada a provercom relação à petição de agravo em recurso especial defls. 896/905, ante a natureza irrecorrível do acórdão de fls.677/684.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão dos benefícios da justiça gratuita.
+Intimem-se.
