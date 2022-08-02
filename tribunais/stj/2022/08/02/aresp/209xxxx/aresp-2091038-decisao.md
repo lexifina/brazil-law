@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo em recurso especial desafiando decisão que não admitiu recurso especial interposto porLUZINETE MARIA DA CONCEIÇÃO e pelo ESPÓLIO de JUVENAL RODRIGUES BIZERRA comfundamento no art. 105, III, a, da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+PROCESSUAL CIVIL. AÇÃO DE EXECUÇÃO. CONTRATO DE MÚTUO. CESSÃO DE CRÉDITO PELA CEF. EMGEA. LEGITIMIDADE ATIVA. SENTENÇA REFORMADA.
+- Consoante disciplina dos artigos 290 e 292 do Código Civil, a cessão de crédito não depende do consentimento do devedor, sua notificação tendo exclusivamente o efeito de liberá-lo da obrigação na hipótese de pagamento ao credor primitivo, o que não ocorreu no caso, a ausência de notificação não tendo o condão de tornar a dívida inexigível ou de suprimir a legitimidade da empresa cessionária para cobrar a dívida. Precedentes do STJ.
+- Recurso provido.
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial, sustentam os recorrentes, ora agravantes, que o Tribunal a quo negou vigência aos arts. 778, 783, 784, I, II, do CPC/2015, na medida em que a execução se mostra desprovida de título executivo.
+Defendem, ainda, que a cessão de crédito é ineficaz, na melhor interpretação do art. 290 do Código Civil.
+O prazo para apresentação de contrarrazões ao recurso especial decorreu in albis.
+O referido recurso não foi admitido, por se entender, essencialmente, incidente, na espécie, a Súmula 282/STF.
+Daí porque foi interposto o presente agravo.
+A seguir, vieram os autos conclusos a este Relator.
+É o relatório. Passo a decidir.
+O recurso especial é oriundode ação de execução proposta pela Empresa Gestora de Ativos - EMGEA -, ora agravada,em face de Luzinete Maria da Conceição e Outro, ora agravantes,objetivando a cobrança de dívida oriunda de cessão de créditos da Caixa Econômica Federal.
+Consta dos autos que, apresentada exceção de preeexecutividade pela parte executada, a sentençajulgou parcialmente procedente a exceção para declarar extinta a execução nos termos do art. 267, VI, do CPC/1973.
+Apeloua EMGEA pleiteando o reconhecimento de sua legitimidade ativa, aduzindo, em síntese, que é prescindível a notificação a teor do art. 293 do Código Civil, e não tendo havido notificação anterior, esta restou suprida pela citação, além do que houve notificação, nos termos do art. 290 do Código Civil.
+O Tribunal a quo deu provimento ao recursopara reformar a sentença, determinando o retornodos autos ao primeiro grau para o regular prosseguimento do feito, nos termos da ementa supratranscrita.
+A questão do recurso especial está em saber se a ausência de notificação do devedor, acerca da cessão de crédito, tem o condão de exonerá-lo do pagamento da dívida.
+No caso, o Tribunal a quo, ao interpretar os arts. 290 e 292 do Código Civil, assim concluiu, in verbis:
+Consoante disciplina dos artigos 290 e 292 do Código Civil, a cessão de crédito não depende do consentimento do devedor, sua notificação tendo exclusivamente o efeito de liberá-lo da obrigação na hipótese de pagamento ao credor primitivo, o que não ocorreu no caso.
+(..)
+Assim, a ausência de notificação apenas teria o efeito de validar eventual pagamento feito pelo devedor à instituição financeira cedente do crédito, não tendo o condão de torna-lo inexigível ou de suprimir a legitimidade da empresa cessionária para cobrar a dívida.
+Com efeito, ajurisprudência desta Corte Superior se firmou na mesma linha de orientação do Tribunal a quo, no sentidodeque a ausênciade notificaçãodo devedor acerca dacessãodocrédito não torna a dívida inexigível, tampouco impede o novo credordepraticar os atos necessários à preservação dos direitos cedidos, bem como não exime o devedor da obrigaçãodearcar com a dívida contraída.
+Colacionam-se os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO. CONCLUSÃO NO SENTIDO DA EXISTÊNCIADETÍTULO LÍQUIDO, CERTO E EXIGÍVEL. CONTRATODEPRESTAÇÃODESERVIÇOS ADVOCATÍCIOS. SÚMULAS 5 E 7/STJ. CESSÃO DE CRÉDITOSQUE NÃO ESTARIA MACULADA PELA AUSÊNCIADE NOTIFICAÇÃODO DEVEDOR ORIGINÁRIO. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. O acórdão concluiu pela viabilidade da ação baseada em contratodeprestaçãodeserviços advocatícios, que se qualificaria como título executivo extrajudicial, ostentando, por conseguinte, os requisitosdecerteza, liquidez e exigibilidade. Essas ponderações foram extraídasdebase fático-probatória edetermos contratuais, a ensejar a aplicação das Súmulas 5 e 7/STJ, que incidem sobre ambas as alíneas do permissivo constitucional.
+2. A jurisprudência desta Corte Superior se firmou no sentidodeque a ausênciade notificaçãodo devedor acerca dacessãodocrédito(art. 290 do CC) não torna a dívida inexigível, tampouco impede o novo credordepraticar os atos necessários à preservação dos direitos cedidos, bem como não exime o devedor da obrigaçãodearcar com a dívida contraída. Dessa forma, a conclusão no sentido da viabilidade dacessãodocréditoperseguido, sob o fundamentodeque a faltade notificaçãodo devedor originário não macularia a transmissão do direito, não destoa da jurisprudência desta Corte Superior  Súmula 83/STJ.
+3. Agravo interno desprovido.
+(AgInt no AREsp 2024672/DF, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 16/5/2022, DJe de 18/5/2022)
+EMBARGOSDEDIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. ELETROBRÁS. EMPRÉSTIMO COMPULSÓRIO.CESSÃO DE CRÉDITO.NECESSIDADEDE NOTIFICAÇÃODO DEVEDOR. AJUIZAMENTODEAÇÃODECOBRANÇA PELO CREDOR-CESSIONÁRIO. CITAÇÃO. ART. 290 DO CÓDIGO CIVIL. REQUISITO CUMPRIDO. EMBARGOSDEDIVERGÊNCIA ACOLHIDOS.
+1. Por ocasião do julgamento do REsp n.º 1.119.558/SC, PRIMEIRA SEÇÃO, em 09/05/2012, DJede01/08/2012, sob a sistemática do art. 543-C do CPC, ficou consignado que "oscréditosdecorrentes da obrigaçãodedevolução do empréstimo compulsório, incidente sobre o consumodeenergia elétrica, podem ser cedidos a terceiros, uma vez inexistente impedimento legal expresso à transferência ou àcessãodos aludidoscréditos,nada inibindo a incidência das normasdedireito privado à espécie, notadamente do art. 286 do Código Civil".
+E, outrossim, que "o art. 286 do Código Civil autoriza acessão de crédito,condicionada ànotificaçãodo devedor".
+2. A ausênciade notificaçãodo devedor sobre acessãodocréditonão torna a dívida inexigível, ressalvada a hipótese em que tenha havido a quitação ao credor originário. Precedentes desta Corte Superior.
+3. Se a faltadecomunicação dacessãodocréditonão afasta a exigibilidade da dívida, basta a citação do devedor na açãodecobrança ajuizada pelo credor-cessionário para atender ao comando do art. 290 do Código Civil, que é ade"dar ciência" ao devedor do negócio, por meiode"escrito público ou particular."
+4. A partir da citação, o devedor toma ciência inequívoca dacessão de créditoe, por conseguinte, a quem deve pagar. Assim, a citação revela-se suficiente para cumprir a exigênciadecientificar o devedor da transferência docrédito.
+5. Embargosdedivergência acolhidos para, reformando o acórdão embargado e a decisão monocrática respectiva, CONHECER DO AGRAVO E DAR PROVIMENTO AO RECURSO ESPECIAL, a fimdecassar o acórdão proferido no agravodeinstrumento e determinar ao juízodeprimeiro grau quedêprosseguimento à ação ordinária n.º 5008197-07.2010.4.04.7000.
+(EAREsp 1125139/PR, Rel. Ministra LAURITA VAZ, CORTE ESPECIAL, julgado em 6/10/2021, DJe de 17/12/2021)
+Deveras, a ausênciade notificaçãodo devedor acerca dacessãodocrédito não torna a dívida inexigível, tampouco impede o novo credordepraticar os atos necessários à preservação dos direitos cedidos, conforme decidido pelo Tribunal a quo, devendo o acórdão recorrido ser confirmado pelos seus próprios fundamentos.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial. E, quanto ao ônus da sucumbência, em observância ao art. 85, §11, do CPC/2015, deixo de majorar os honorários de advogado, posto que não fixados pelas instâncias ordinárias.
+Publique-se.
