@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto por JOSÉ HILDO DA SILVA em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de Alagoas.
+Colhe-se dos autos no 0000593-34.2019.8.02.0001, em trâmite perante a 16 a Vara Criminal da Comarca de Maceió/AL, que o reeducando progrediu de regime de pena para o regime semiaberto.
+Dentre as obrigações fixadas no novo regime, determinou o comparecimento mensal do reeducando àquela Vara para informar e justificar suas atividades. Por residir em Arapiraca e haver o processo criminal tramitado na referida cidade - peticionou junto à autoridade coatora solicitando a expedição de carta precatória para a Comarca de Arapiraca, a fim de que fosse determinado o cumprimento das condições referentes ao regime semiaberto na aludida localidade, no que foi atendido.
+Todavia, posteriormente, o apenado passou a residir na cidade de Igaci/AL, motivo pelo qual formulou novo pleito no sentido de que fosse expedida carta precatória no novo endereço, para o cumprimento das obrigações impostas no regime semiaberto.
+Alega que até o presente momento não há resposta acerca do pedido da defesa do paciente. Assim, faz-se necessária a remessa da carta precatória para o Juízo Criminal do local da residência do réu (Igaci/AL) para cumprimento das condições impostas para cumprimento de pena em regime semiaberto.
+Sustenta a incompetência da 16ª Vara Criminal da Capital para a execução da pena, tendo em vista que o recorrente respondeu ao processo criminal na cidade de Arapiraca/AL e, atualmente, reside na Comarca de Igaci/AL.
+Requer o provimento do recurso com a finalidade de permitir ao paciente o cumprimento de sua pena na comarca de Igaci/AL.
+O pedido de liminar foi indeferido.
+O Ministério Público Federal opinou pelo desprovimento do recurso.
+É o relatório.
+Decido.
+Na espécie, a Defesa pleiteia seja declarada a incompetência da 16" Vara Criminal da Capital para determinar a remessa da carta precatória para a Comarca de Igaci, para o cumprimento das condições do regime semiaberto.
+O Tribunal de origem negou provimento ao recurso defensivo, mantendo a decisão agravada. Para tanto, adotou os seguintes fundamentos (e-STJ, fl. 136-137):
+"13 - Apesar de a Defensoria Pública Estadual afirmar que a autoridade apontada coatora é competente apenas para processamento de feitos relacionados ao cumprimento de pena de regime semiaberto e aberto dos processos oriundos da Capital, em razão do disposto no art. 2º da Lei Estadual 8.069/2018, verifica-se que a referida lei, conforme informado pelo magistrado impetrado, foi alterada pela Lei Estadual 8.150/2019.
+14  Com efeito, em seu preâmbulo, verifica-se que a Lei nº 8.150, de 28 de agosto de 2019 alterou a Lei Estadual nº 8.069, de 21 de dezembro de 2018, atribuindo competência à 16a Vara Criminal da Capital para processar e julgar as demandas de cumprimento de pena em regime semiaberto.
+15 - A propósito, vejamos o seu novo conteúdo:
+Art. 1º A Lei Estadual nº 8.069, de 21 de dezembro de2018, passa a vigorar com as seguintes alterações:
+"Art. 2º A 16ª Vara Criminal, observadas as regras concebidas e definidas em Resoluções do Tribunal de Justiça do Estado de Alagoas e na Lei Estadual nº 6.877, de 17 de outubro de 2007, não contrárias aos dispositivos previstos nesta Lei, terá competência plena, ratione materiae:
+I  para o processamento de execuções penais relativamente ao cumprimento da pena em regime fechado e semiaberto, com jurisdição em todo território do Estado de Alagoas; (NR)
+II  para o processamento de execuções penais, relativamente ao cumprimento da pena no regime aberto na Comarca da Capital; (NR)
+(..)
+Art. 3º Nas demais comarcas, permanece a competência ratione materiae para tratar sobre o cumprimento da pena no regime aberto". (NR)
+16 - Como se nota, a legislação vigente fixa a competência da 16ª Vara Criminal da Capital para processamento de execuções penais relativamente ao cumprimento de pena em regime fechado e semiaberto em todo o Estado de Alagoas e regime aberto apenas para a Capital, razão pela qual não merece prosperar o argumento da impetrante, uma vez que o paciente progrediu para o regime semiaberto, competindo, pois, a autoridade apontada coatora a fiscalização e o cumprimento das condições fixadas no destacado regime, podendo delegar tal atribuição ao Juízo de Igaci, como já o fez com relação ao Juízo de Arapiraca."
+No caso, ao contrário do alegado pela defesa, a 16ª Vara Criminal da Capital/AL possui competência para a execução da pena em regime semiaberto em todo o Estado de Alagoas, sendo que a competência é do Juízo indicado na lei local de organização judiciária, nos termos do art. 65 da LEP, podendo ser expedida carta precatória ao Juízo de Igaci/AL, local de residência do acusado, para fiscalização da pena.
+No mesmo sentido:
+"PROCESSO PENAL. CONFLITO NEGATIVO DE COMPETÊNCIA. EXECUÇÃO PENAL. MANDADO DE PRISÃO CUMPRIDO EM LOCALIDADE DIVERSA DO JUÍZO DA CONDENAÇÃO. COMPETÊNCIA PERMANECE COM O JUÍZO CONDENATÓRIO.POSSIBILIDADE DE FISCALIZAÇÃO PELO JUÍZO DO NOVO DOMICÍLIO POR MEIO DE CARTA PRECATÓRIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. "A Terceira Seção desta Corte Superior orienta-se no sentido de que o cumprimento do mandado de prisão do Apenado em Estado da Federação diverso daquele onde foi processado não implica deslocamento da competência, sendo aplicável o disposto no art. 65 da Lei de Execuções Penais, que consagra ser competente o Juiz indicado na lei local de organização judiciária ou, na sua ausência, o que proferiu a sentença condenatória. (CC 161.783/DF, Rel. Ministra LAURITA VAZ, TERCEIRA SEÇÃO, julgado em 28/11/2018, DJe 14/12/2018).
+2. Assim, " .. o simples fato de o condenado estar preso em Comarca diversa daquela competente para a execução da sentença, em cumprimento de mandado de prisão preventiva expedido por um terceiro Juízo, não constitui causa legal de deslocamento da competência originária para a execução da pena." (CC 148.926/RS, Rel. Ministro REYNALDO SOARES DA FONSECA, TERCEIRA SEÇÃO, julgado em 28/09/2016, DJe 27/10/2016).
+3. Nada impede, porém, que, não obstante a competência do processo de execução permaneça sendo do juízo condenatório, seja expedida carta precatória à nova localidade em que o apenado está preso e possui laços familiares consolidados, para fins de fiscalização e supervisão do desconto da reprimenda, como ocorre no caso em apreço.
+Precedentes nesse sentido.
+4. Agravo regimental não provido.
+(AgRg no CC 166.472/RO, deste Relator, TERCEIRA SEÇÃO, julgado em 09/10/2019, DJe 15/10/2019)"
+"CONFLITO NEGATIVO DE COMPETÊNCIA. EXECUÇÃO PENAL. PROGRESSÃO AO REGIME ABERTO. APENADO COM RESIDÊNCIA EM COMARCA DIVERSA. MODIFICAÇÃO DA COMPETÊNCIA DO JUÍZO DA EXECUÇÃO PENAL. NÃO OCORRÊNCIA. COMPETÊNCIA DO JUÍZO SUSCITADO.
+1. Conquanto seja possível alterar a competência do juízo para a execução e fiscalização da pena, nas hipóteses em que houver a transferência legal do preso, o simples fato o apenado ter informado que possui residência em comarca diversa, não constitui causa legal de deslocamento da competência do Juízo da Execução Penal. Nada obsta, outrossim, que o Juízo determine a expedição de carta precatória àquela localidade para supervisão do desconto da reprimenda.
+2. Conflito conhecido para declarar a competência do Juízo de Direito da 2ª Vara Criminal de Colatina/ES, o suscitado" (CC n. 129.420/MG, Terceira Seção, Rel. Min. Ericson Maranho - Desemb.convocado do TJ/SP, Rel. p/ Acórdão Min. Walter de Almeida Guilherme - Desemb. convocado do TJ/SP, DJe de 05/02/2015).
+Ante o exposto, nego provimento ao recurso emhabeas corpus.
+Publique-se. Intime-se.
