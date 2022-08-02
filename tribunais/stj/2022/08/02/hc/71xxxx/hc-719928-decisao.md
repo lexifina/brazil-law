@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de habeas corpusimpetrado em favor de JESUALDO OPLINIO ALVES CORREA, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DE SÃO PAULO (Apelação Criminal n.1501267-28.2020.8.26.0358).
+Consta dos autos que o paciente foicondenado à pena de 8 meses de detenção, a ser cumprido em regime inicial semiaberto, e de 1 mês e 10 dias de detenção, a ser cumprido em regime inicial semiaberto, pela prática dos crimes previstos nos arts. 331 e 268 do Código Penal,poisinfringiu o Decreto Municipal n.5.649, de 30 de abril de 2020, destinado a impedir a propagação de doença contagiosa (COVID-19), e desacatou os policiais militares Marcos Vinícius Berti e Matheus Neves Gregório, funcionários públicos que estavam no exercício de suas funções.
+Irresignada, a defesa interpôs apelação, improvida pelo Tribunal local, em acórdão assim ementado (fl. 160):
+APELAÇÃO CRIMINAL DESACATO E INFRAÇÃO DE MEDIDA SANITÁRIA PREVENTIVA - ABSOLVIÇÃO ATIPICIDADE FALSO TESTEMUNHO - IMPOSSIBILIDADE - REGIME - AUTORIA E MATERIALIDADE COMPROVADAS - ROBUSTO CONJUNTO PROBATÓRIO - PENA E REGIME MANTIDOS RECURSO DESPROVIDO.
+Postula-se, então, a concessão da ordem para que seja: a) absolvidoo pacienteda imputação relativa ao crime de desacato, por ser incompatível com o art.13 do Pacto de São José da Costa Rica; e b)fixado o regime mais brando.
+Instado a se manifestar, oMinistério Público Federal opinoupelo não conhecimento do writ(fls. 233/329).
+É o relatório.
+De início, registra-sequea pretensão de absolvição esbarra na necessidade de ampla incursão no acervo fático-probatório, providência descabida na via eleita dohabeas corpus.
+Sobre o tema, confiram-se os seguintes precedentes: AgRg no HC n. 636.980/RJ, Ministro Ribeiro Dantas, Quinta Turma, DJe 17/2/2021; AgRg no HC n. 650.766/SP, de minha relatoria, Sexta Turma, DJe 17/9/2021; e AgRg no HC n. 718.028/PA, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 21/2/2022.
+Ainda que assim não fosse, registra-se, por oportuno, que  a Terceira Seção, órgão responsável pelo julgamento dos feitos criminais neste Superior Tribunal de Justiça, pacificou o entendimento de que a previsão normativa do crime de desacato - art. 331 do CP - no Brasil compatibiliza-se perfeitamente com o Direito à Liberdade de Expressão, previsto no art. 13 da Convenção Americana de Direitos Humanos - CADH (HC 379.269/MS, Ministro Reynaldo Soares daFoseca, Rel. p/ Acórdão Ministro AntônioSaldanhaPalheiro, TerceiraSeção, julgado em 24/5/2017, DJe 30/6/2017) -(HC 462.665/SP, Ministro RibeiroDantas, QuintaTurma, DJe 25/9/2018).
+Nesse sentido, os seguintes julgados:RHC n. 102.202/PA, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 24/4/2019 eAgRg no AREsp n. 1.764.739/RJ, Ministro João Otávio deNoronha, Quinta Turma,DJe 19/03/2021.
+No que tange ao regime de cumprimento de pena, embora estabelecida a pena definitiva do acusado em 8 meses de detenção pelo crime previsto no art.331 e 1 mês e 10 dias de detenção pelo crime previsto no art.268, ambos do Código Penal,o Magistrado singular destacou que o ora paciente épossuidor de outros antecedentes e condenações por posse de entorpecentes(fls. 102).
+Nesse aspecto, não há ilegalidade no acórdão; ao contrário, a jurisprudência desta Corte tem admitido que,embora o quantum da pena aplicada permita a adoção do regime inicial mais brando, os critérios estabelecidos no art. 59 do Código Penal (maus antecedentes), além da presença da reincidência, recomendam que seja adotado regime mais gravoso, sendo inadequada, in casu, a fixação de regime diverso do fechado(AgRg no REsp n. 1.899.462/DF, Quinta Turma, Min. Reynaldo Soares da Fonseca, DJe de 12/2/2021).
+Ante o exposto,denegoa ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS. DESACATO. COMPATIBILIDADE COM O PACTO DE SAN JOSÉ DA COSTA RICA. REGIME PENALMAIS GRAVOSO. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. POSSIBILIDADE. PRECEDENTES.AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. PARECER ACOLHIDO.
+Ordem denegada.
