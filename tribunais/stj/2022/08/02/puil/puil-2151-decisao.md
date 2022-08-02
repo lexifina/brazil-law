@@ -1,0 +1,29 @@
+DECISÃO
+Alcides Inácio formulou o presente Pedido de Uniformização de Interpretação de Lei, com fundamento no art. 14 da Lei n. 10.259/2001, com o objetivo de reformar sentença monocrática proferida pelo Juizado Especial Cível da Comarca de Rolândia que julgou improcedente o pedido indenizatório por ele movido contra a Companhia de Saneamento do Paraná - SANEPAR (fls. 610-625).
+Ao analisar o Pedido, o Juiz da 3ª Turma Recursal proferiu a seguinte decisão monocrática (fl.(fl. 818):
+INCIDENTE DE UNIFORMIZAÇÃO DE JURISPRUDÊNCIA. AUSÊNCIA DE PREVISÃO REGIMENTAL E AUSÊNCIA DE COMPATIBILIDADE COM A LEI PROCESSUAL VIGENTE. PRECEDENTES DESTE E. TRIBUNAL DE JUSTIÇA. IMPOSSIBILIDADE DE CONHECIMENTO DE INCIDENTE DE UNIFORMIZAÇÃO COMO SUCEDÂNEO RECURSAL. PRECEDENTES DO STJ. DECISÃO MONOCRÁTICA PELA INTELIGÊNCIA DO ART. 932, III, DO CÓDIGO DE PROCESSO CIVIL. INCIDENTE DE UNIFORMIZAÇÃO NÃO CONHECIDO.
+O requerente alega a existência de divergência jurisprudencial entre o decisum e os julgados dos Tribunais de Justiça do Estado do Espírito Santo, de Minas Gerais, do Rio Grande do Sul, de São Paulo e do Ceará, no sentido de que a interrupção do fornecimento de água por prazo superior ao razoável, desde que comprovada, configura ilícito passível de indenização, independentemente de demonstração da culpa da concessionária.
+Requer, por fim: i) seja recebido o pedido de uniformização de intepretação de lei e remetido ao Superior Tribunal de Justiça para julgamento, nos termos do art. 18, §3º, da Lei 12.153/2009 e, ii) seja provido o pleito de uniformização de lei para reformar a decisão recorrida e deferido o pedido de indenização por danos morais, no valor a ser arbitrado por esta Corte.
+O Presidente da Turma Recursal Reunida do Estado do Paraná determinou a remessa dos autos a esta Corte Superior, na forma do art. 18, §3º, da Lei 12.153/2009 (fl. 845).
+Não foram ofertadas contrarrazões ao Pedido de Uniformização de Interpretação de Lei.
+É o relatório. Decido.
+Preliminarmente, convém trazer à colação o disposto no art. 14 da Lei n. 10.259/2001:
+Art. 14. Caberá pedido de uniformização de interpretação de lei federal quando houver divergência entre decisões sobre questões de direito material proferidas por Turmas Recursais na interpretação da lei.
+ ..
+§ 4o Quando a orientação acolhida pela Turma de Uniformização, em questões de direito material, contrariar súmula ou jurisprudência dominante no Superior Tribunal de Justiça -STJ, a parte interessada poderá provocar a manifestação deste, que dirimirá a divergência.
+No caso em análise, constata-se que não houve decisão colegiada, mas, apenas, decisão monocrática do Juiz Relator, que não conheceu do Pedido de Uniformização de Jurisprudência e manteve a sentença de improcedência da pretensão indenizatória do requerente (fls. 818-821).
+Desse modo, considerando que o pedido de uniformização de jurisprudência somente é cabível de decisão do colegiado da Turma Nacional que tenha analisado o direito material, não há como conhecer do incidente, eis que se insurge contra decisão monocrática, pautada em questão de direito processual.
+Nesse sentido, os seguintes julgados:
+PROCESSUAL CIVIL. INCIDENTE DE UNIFORMIZAÇÃO MANEJADO CONTRA DECISÃO MONOCRÁTICA DA PRESIDÊNCIA. NÃO CABIMENTO.
+1. O que postula a requerente é a percepção do percentual de 13,23% em seus vencimentos, com fundamento no direito previsto no art. 37, X, da Constituição de 1988.
+2. Ocorre que a impugnação se volta contra decisão da Presidência da Turma Nacional de Uniformização, e, nos termos do art. 14, § 4º, da Lei 10.259/2001, o Incidente de Uniformização dirigido ao STJ só pode ser manejado contra decisão colegiada.
+3. Nesse sentido: "Considerando que o pedido de uniformização de jurisprudência somente é cabível de decisão do colegiado da Turma Nacional que tenha analisado o direito material, não há como conhecer do incidente, eis que se insurge contra decisão monocrática, pautada em questão de direito processual" (AgInt no PUIL 1056/DF, Relator Min. Francisco Falcão, Primeira Seção, DJe 2.9.2019). Na mesma direção: AgRg na Pet 9.586/RS, Rel. Ministro Arnaldo Esteves Lima, Primeira Seção, DJe 25.4.2014; Aglnt no PUIL 72/PR, Rel. Ministro Gurgel de Faria, Primeira Seção, DJe 9.10.2017; AgInt no PUIL 1.046/TO, Rel. Ministro Herman Benjamin, Primeira Seção, DJe 29.5.2019.
+4. Agravo Interno não provido (AgInt no PUIL n. 1.794/DF, relator Ministro Herman Benjamin, Primeira Seção, DJe de 17/11/2020).
+PROCESSUAL CIVIL. SERVIDOR PÚBLICO. AGRAVO INTERNO NO PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. DECISÃO MONOCRÁTICA DO PRESIDENTE DA TNU. NÃO CABIMENTO. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - Inadmissível o Pedido de Uniformização de Interpretação de Lei quando manejado contra decisão monocrática do Presidente da Turma Nacional de Uniformização.
+III - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+IV - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo Interno improvido (AgInt no PUIL n. 1.148/DF, relatora Ministra Regina Helena Costa, Primeira Seção, DJe de 5/5/2022).
+Ante o exposto, com fundamento no art. 34, XVIII, a, do RISTJ, não conheço do Pedido de Uniformização de Interpretação de Lei.
+Publique-se. Intimem-se.
