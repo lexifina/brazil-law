@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso especial interposto por ELIANE BARBOSA DE FREITAS MELOem face de acórdão prolatadopelo Tribunal de Justiça do Estado de São Pauloassim ementado:
+PROCESSUAL CIVIL E ADMINISTRATIVO. PROCEDIMENTO COMUM. OBRIGAÇÃO DE FAZER. FORNECIMENTO DE MEDICAMENTOS - PEDIDO PROCEDENTE. SUCUMBÊNCIA. HONORÁRIOS ADVOCATÍCIOS MAJORAÇÃO. ADMISSIBILIDADE.
+1. Assim como é cabível o arbitramento por equidade nas causas em que for inestimável ou irrisório o proveito econômico ou, ainda, quando o valor da causa for muito baixo (art. 85, § 8º), pela mesma razão há de se adotar o arbitramento por equidade nas hipóteses em que o elevado valor do proveito econômico resultarem honorários incompatíveis com o trabalho desenvolvido no processo. Aplicação dos princípios da moralidade administrativa e razoabilidade.
+2. Honorários advocatícios fixados em valor que não atende ao juízo de equidade exigido pelo art. 85, § 8º, CPC, pois não remunera de forma adequada e justa o trabalho do advogado. Majoração devida. Recurso provido, em parte.
+Nas razões do recurso especial, interposto com fulcro nas alíneas "a" e "c" do permissivo constitucional, aduz arecorrente a violação doartigo 85, §3, II, do CPC, ao argumento de que os honorários sucumbenciais não poderiam ter sido fixados por equidade, mas sim de acordo com os critérios objetivos previstos em lei.
+Foram apresentadas contrarrazões.
+É o relatório. Passo a decidir.
+Assiste razão àrecorrente.
+Em sede de recursos especiais submetidos ao regime dos recursosrepetitivos (REsp 1.850.512/SP, REsp 1.877.883/SP, REsp 1.906.623/SP e1.906.618/SP - Relator Min. Og Fernandes), a Corte Especial/STJ firmou asseguintes teses jurídicas: i) A fixação dos honorários por apreciação equitativa não é permitidaquando os valores da condenação, da causa ou o proveito econômico dademanda forem elevados. É obrigatória nesses casos a observância dospercentuais previstos nos §§ 2º ou 3º do art. 85 do CPC - a depender dapresença da Fazenda Pública na lide -, os quais serão subsequentementecalculados sobre o valor: (a) da condenação; ou (b) do proveito econômicoobtido; ou (c) do valor atualizado da causa. ii) Apenas se admitearbitramento de honorários por equidade quando, havendo ou não condenação:(a) o proveito econômico obtido pelo vencedor for inestimável ouirrisório; ou (b) o valor da causa for muito baixo (Tema 1076/STJ).
+No caso concreto, o valor da causa é de R$ 216.496,80e o Tribunal de origem fixou os honorários advocatícios em R$ 4.000,00.
+Desta feita, verifica-se que o acórdão recorrido está em desconformidade com as teses supra, razão pela qual se impõe o provimento do recursoespecial, com o retorno dos autos ao Tribunal de origem para que, com base na análise do trabalho desempenhado pelo causídico, fixe os honorários advocatícios, em consonância com o art. 85, §3, do CPC..
+Ante o exposto, com fulcro no art. 932, IV, do CPC/2015, dou provimento ao recurso especial,nos termos da fundamentação.
+Publique-se. Intimem-se
+EMENTA
+ADMINISTRATIVO. RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. MEDICAMENTOS.HONORÁRIOS ADVOCATÍCIOS. FIXAÇÃO POR EQUIDADE. IMPOSSIBILIDADE. LIMITES E CRITÉRIOS DOS § 2º E §3º, DO ART. 85 DO CPC/2015. TEMA 1.076/STJ. RECURSO ESPECIALPROVIDO.
