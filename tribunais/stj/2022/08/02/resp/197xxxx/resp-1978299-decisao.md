@@ -1,0 +1,6 @@
+DECISÃO
+Estando pendentes de julgamento o recurso especial interposto por Usina Barralcool S/A e o agravo em recurso especial apresentado por Cooperfrente - Cooperativa de Profissionais Atuantes em Consultoria, Instrutoria e Educação, foi juntada aos autos a Petição n. 612.923/2022(e-STJ, fls. 1.351-1.354), protocolada, conjuntamente, pelosautores da demanda (Maria Neves da Costa e outros)e pelacorréUsina Barralcool SAe subscrita pelos respectivos advogados,por intermédio da qual noticiam a celebração de acordo para encerrar a demanda, tendo solicitado a sua homologação.
+Com amparo na redação conferida ao art. 34, IX, do RISTJ pela Emenda Regimental n. 24/2016, homologo o acordo celebrado pelas referidas partes, na forma do instrumento de fls. 1.351-1.354 (e-STJ), a fim de que surta seus jurídicos e legais efeitos.
+Em consequência, julgo extinto o processo com resolução de mérito exclusivamente em relação à corré Usina Barralcool S/A, nos termos do art. 487, III, "b", do CPC/2015.
+Por não haver necessidade de se aguardar o decurso do prazo recursal, cuide a Coordenadoria de, tão logo publicada esta decisão, devolver os autos conclusos a esta relatoria para prosseguimento da análise do agravo em recurso especial dacorréCooperfrente.
+Publique-se.
