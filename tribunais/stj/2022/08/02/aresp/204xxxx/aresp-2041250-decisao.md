@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por JOSÉ LUIZ DOS SANTOS (JOSÉ LUIZ) contra decisão que negou seguimento ao seu apelo nobre manejado, por sua vez, contra acórdão do Tribunal de Justiça do Estado de São Paulo, de relatoria da Desª. MARIELLA FERRAZ DE ARRUDA POLLICE NOGUEIRA, assim ementado:
+AGRAVO DE INSTRUMENTO. AÇÃO DE EXTINÇÃO DE CONDOMÍNIO C/C ARBITRAMENTO DE ALUGUÉIS. Decisão que determinou a emenda da inicial em razão da impossibilidade de cumulação de pedidos, uma vez que o procedimento de jurisdição voluntária é especial e não redutível ao ordinário, sob pena de extinção. Hipótese que deve ser refutada. Inexistência de incompatibilidade na adoção do rito ordinário para ambas as pretensões. Aplicação do art. 327, §2º, do CPC, que permite ao magistrado adoção de técnicas especiais para compatibilização dos ritos. Princípios de economia e celeridade processuais. Precedentes diversos. Decisão reformada para prosseguimento do feito sob rito ordinário. RECURSO PROVIDO (e-STJ, fl. 127).
+Irresignado, JOSÉ LUIZ interpôs recurso especial, com fundamento no art. 105, III, alínea a, da CF, alegando a violação dos arts. 321, 327, § 2º, 721, 730 do CPC, 1.322 do CC, ao sustentar que não há viabilidade processual de cumulação do procedimento de jurisdição voluntária para alienação de coisa comum com a pretensão indenizatória(e-STJ, fls. 133/144).
+Não foram apresentadas contrarrazões (e-STJ, fl. 150).
+O recurso não foi admitido pelo TJSP (e-STJ, fls. 151/152).
+Nas razões do presente agravo, JOSÉ LUIZ alegou que não incidem os óbices apontados na decisão de inadmissibilidade (e-STJ, fls. 155/165).
+Foi apresentada contraminuta (e-STJ, fls. 168/170).
+É o relatório.
+DECIDO.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que não merece prosperar.
+JOSÉ LUIZ, nas razões do apelo nobre, sustentouque não há viabilidade processual de cumulação do procedimento de jurisdição voluntária para alienação de coisa comum com a pretensão indenizatória.
+O Tribunal Bandeirante, soberano na análise do conteúdo fático-probatório, concluiu que, ainda queuma das pretensões apresente rito específico, a cumulação mostra se possível, caso possa haversubstituiçãopelo rito ordinário, em prol dos princípios da economia e celeridade processuais, como se pode ver dos trechos extraídos do acórdão impugnado, a seguir transcritos:
+Respeitado o entendimento adotado pelo juízo "a quo", não há óbice à cumulação dos pedidos de extinção de condomínio e arbitramento de aluguel.Conforme estabelece o § 2º do artigo 327, do Código de Processo Civil, possível a cumulação dos pedidos sempre que possível a adoção do rito ordinário para todos eles  .. E ainda que uma das pretensões apresente rito específico, se puder ser substituído pelo rito ordinário, a cumulação é admitida, em prol dos princípios de economia e celeridade processuais, o que se dá na hipótese dos autos, conforme reiterados precedentes desta Corte Paulista, pois o que se pretende, apenas, é que haja compensação financeira pelo exercício exclusivo da posse enquanto não extinto o condomínio, com sua alienação(e-STJ, fls.128/129)
+Ora, oart. 327, § 1º, II, do CPC estabelececomo requisito de admissibilidade para a cumulação de pedidos, em uma única demanda, a compatibilidade dos pedidos, os ritos específicos e que o mesmo juízo seja competente para conhecer de todos eles. Do mesmo modo, a competência é também limite para a reunião de causas conexas (nesse sentido: CC n. 118.533/SP, Rel. Min. NANCY ANDRIGHI, Segunda Seção, julgado em 28/11/2012; AgRg no CC n. 117.259/SC, Rel. Min. CESAR ASFOR ROCHA, Primeira Seção, julgado em 27/6/2012).
+Assim, rever as conclusões quanto à caracterização dos requisitos que autorizam acumulação dospedidosem testilhademandaria, necessariamente, reexame do conjunto fático-probatório dos autos, o que é vedado em razão do óbice da Súmula nº7 do STJ.
+O recurso, portanto, não mereceser conhecido.
+Nessas condições, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Por oportuno, previno as partes que a interposição de recurso contra essa decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação das penalidades fixadas nos arts. 1.021, § 4º ou 1.026, §2º, ambos do CPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. CUMULAÇÃO DE PEDIDOS. AÇÃO DE EXTINÇÃO DE CONDOMÍNIO C.C. ARBITRAMENTO DE ALUGUÉIS.VIABILIDADE. REFORMA. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ.AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
