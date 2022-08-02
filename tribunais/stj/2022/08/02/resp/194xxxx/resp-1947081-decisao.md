@@ -1,0 +1,43 @@
+DECISÃO
+Solomon Etoen, nacional da Namíbia, representado pela Defensoria Pública, impetrou mandado de segurança contra ato coator praticado pelo Delegado de Polícia Federal de Controle de Imigração em São Paulo, objetivando assegurar o processamento de seu pedido de refúgio.
+O Juízo de primeira instância denegou a ordem, considerando que houve contradição no próprio desejo do impetrante de permanecer no Brasil, na condição de refugiado, porque no processo de expulsão há manifestação em sentido contrário, tendo sido externada a vontade de retornar ao seu país de origem (fls. 192-195).
+Interposta apelação, o Tribunal Regional Federal da 3ª Região negou provimento ao recurso de Solomon Etoen, nos termos assim ementados (fl. 263):
+MANDADO DE SEGURANÇA - PROCESSAMENTO DO PEDIDO DE REFÚGIO - INTERESSADO PRESO - AUSÊNCIA DO REQUERIMENTO PERTINENTE - INEXISTÊNCIA DE DIREITO LÍQUIDO E CERTO.
+1. O mandado de segurança exige prova documental, pré-constituída.
+2. O apelante não providenciou o requerimento pertinente, a tempo e modo.
+3. A norma brasileira não destoa dos padrões internacionais.
+4. E oportuno lembrar que o Brasil é reconhecido internacionalmente, delonga data, como País defensor e praticante de uma das mais generosas políticas de imigração do mundo.
+5. Política de Estado. A cargo do Poder Executivo.
+6. Não há prova de qualquer irregularidade no procedimento.
+7. Apelação improvida.
+Os embargos de declaração opostos foram rejeitados (fls. 295-300).
+O Ministério Público Federal, na qualidade de custos iuris, interpôs recurso especial, com fundamento no art. 105, III, a, da Constituição Federal. Apontou a ofensa ao art. 7º da Lei n. 9474/1997, sustentando, em síntese, que o impetrante foi impedido de manifestar sua vontade de solicitar o reconhecimento como refugiado. Seu pedido, apresentado mediante procuração outorgada à DPU, nem mesmo fora recebido pela autoridade policial, que decidiu que solicitante de refúgio deveria comparecer pessoalmente para processamento de seu pedido e trazer os documentos originais e estar presente para a colheita de seus dados biométricos. Assim, foram criados óbices não previstos em lei para que o interessado estrangeiro ingresse no território nacional na condição de pleiteante do refúgio.
+Solomon Etoen também interpôs recurso especial, com fundamento no art. 105, III, a, da Constituição Federal. Indicou a violação dos arts. 1º, caput e parágrafo único, 7º, caput, 9º, 10º, caput, e 12, I e II, da Lei n. 9.474/1997. Aduziu sobre a possibilidade de ser representado, sendo incabível o óbice criado pelas instâncias ordinárias. Afirma, ainda, que o Judiciário não pode invadir a esfera de atribuições do Executivo, antecipando-se à análise do CONARE.
+Foram apresentadas contrarrazões (fls. 370-384).
+O Ministério Público Federal opinou pelo provimento do recurso do particular, com o retorno dos autos à origem, prejudicado o recurso do Parquet (fls. 447-453).
+É o relatório. Decido.
+Analiso os recursos de forma conjunta, pois coincidentes em suas razões.
+Consta dos autos que o impetrante Solomon Etoen, estrangeiro, solicitou à autoridade coatora - Delegado de Polícia Federal de Controle de Imigração em São Paulo - o recebimento e processamento de seu pedido de refúgio, formulado por meio de procuração à Defensoria Pública da União.
+Os fatos que envolvem o caso já foram apresentados pelo Tribunal de origem, ao transcrever as informações prestadas pela autoridade coatora, que assim se manifestou (fls. 260-261):
+ ..
+A possível interpretação que podemos dar ao termo seria da apresentação de algum documento realizado anteriormente pelo identificado que contenha aqueles dados biométricos mencionados, feito por órgãos competentes e oficialmente reconhecidos, que tenham padrões de qualidade e que permitam a inquestionável individualização da pessoa (podemos citar como exemplo o IIRGD).Havendo tais cuidados na colheita desses dados, o que é uma segurança para o próprio interessado, entendemos que poderia ser dispensada a identificação feita pelo DPF.
+No entanto, como afirmado pela própria Defensoria, o solicitante foi preso. Esqueceu de mencionar o douto defensor que a prisão do impetrante se deu no ano de 2011 pela prática de crime de tráfico de entorpecentes, pesquisa em anexo, encontrando-se desde então preso na Penitenciária de Itaí/SP.
+Em relação aos solicitantes de refúgio que se encontram presos, observamos que se o requerente se encontrar custodiado nesta SR/DFP/SP, é possível fazer a colheita de seus dados biométricos escoltando-o ao Núcleo de identificação responsável.
+No caso em tela, o solicitante se encontra na prisão de Itaí, a qual faz parte da circunscrição da Delegacia de Polícia Federal de Bauru/SP, a qual seria, desta forma, responsável por eventual diligência à prisão e colheita dos dados biométricos do preso.
+Esclarecemos que nas duas solicitações anteriores feitas pela DPU (em ofícios nº 04/2015 e 22/2015, de abril e maio de 2015, respectivamente com texto idêntico em ambos), em nenhuma dessas ocasiões nos foi informado que o estrangeiro se encontrava preso na Penitenciária de Itaí.A DPU apenas solicitou a emissão do protocolo de refúgio, sem esclarecer a situação do estrangeiro, bem como sem se atentar para o procedimento adotado pelo órgão, que nesse caso envolve questões de ordem pessoal, material e de segurança para sua realização.
+ ..
+O Tribunal de origem ratificou a decisão monocrática, da qual se extraem os seguintes trechos:
+Apesar de a presente ação mandamental objetivar o recebimento e processamento de Pedido de Refúgio, formulado por intermédio e representação de Defensor Público da União, verifica-se por meio da documentação colacionada aosautos clara contradição no que tange ao próprio desejo do impetrante de permanecer no Brasil, na condição de refugiado, ou regressar ao exterior.
+As informações prestadas pelo Delegado de Polícia Federal de Imigração a fls. 88/92 dão conta de que, em procedimento de expulsão do impetrante levantou-se dúvida acerca de sua nacionalidade, não confirmada pela Embaixada da Namíbia, diante da ausência de qualquer documento oficial que comprovasse o seu pais de origem, razão pela qual foi confrontado.
+Em Termo de Declarações prestadas pelo impetrante no bojo de tal procedimento há clara manifestação no sentido de que deseja regressar para Namibia ou, caso não seja possível, deseja regressar para Lesotho, em que pese ter requerido processamento de pedido de refúgio por intermédio da Defensoria Pública da União, realizado na Penitenciária de ltaí/SP, quando esteve recolhido naquela unidade em março/2015. (f Is. 91/92).
+Diante do objeto do Mandado de Segurança impetrado, de fato, não caberia a este Juízo qualquer menção quanto ao mérito do Pedido de Refúgio, porém, não há como desconsiderar as contradições relativas à própria vontade do impetrante em relação ao processamento de tal pedido.
+Conforme se verifica dos trechos acima transcritos, as instâncias ordinárias entenderam pela denegação da ordem, em razão da especificidade da matéria, relativamente ao fato de o refugiado encontrar-se preso sem que essa informação fosse repassada à Administração, assim como pelas suas anteriores declarações que demonstravam contradição com o pedido de refúgio. Em razão disso, foi afastada, in casu, a possibilidade de protocolar pedido mediante procurador.
+Segundo se verifica do trecho transcrito no acórdão recorrido, a autoridade migratória entendeu legítima a recusa sob o fundamento de que não teria sido informado pela DPU que o estrangeiro se encontrava preso na Penitenciária de Itaí. E a autoridade migratória apontou que a DPU teria deixado "de se atentar para o procedimento adotado pelo órgão, que nesse caso envolve questões de ordem pessoal, material e de segurança para sua realização" (fl. 261).
+O reexame do acórdão recorrido, em confronto com as razões do recurso especial, revela que o referido fundamento,utilizado de forma suficiente para manter a decisão proferida no Tribunal a quo, não foi rebatido no apelo nobre, o que atrai os óbices das Súmulas n. 283 e 284, ambas do STF, in verbis:
+Súmula n. 283
+É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+Súmula n. 284
+É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+Ainda que eventualmente se pudesse ultrapassar tal óbice, a análise da controvérsia esbarraria na vedação constante na Súmula n. 7/STJ.
+Ante o exposto, com fundamento no art. 255,§4º, I, do RISTJ, não conheço de ambos os recursos especiais.
+Publique-se. Intimem-se.
