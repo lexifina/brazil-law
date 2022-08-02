@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso especial interposto pela FAZENDA NACIONAL contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, no qual alega violação dos arts. 489, 509, 535, 783 e 1.022 do CPC/2015 e sustenta a inadequação da execução dos honorários advocatícios de sucumbência antes da homologação da compensação a ser pleiteada pelo contribuinte, no âmbito administrativo.
+Aduz, em síntese:
+Não há nos autos elementos que permitam concluir que a base de cálculo da verba de sucumbência postulada seja, de fato, o valor apontado pela requerente como o devido. Somente após a compensação administrativa do principal é que se poderá chegar à correta base de cálculo dos honorários, até porque o título executivo judicial é expresso ao afirmar que a verba de sucumbência incidirá sobre o valor da condenação (o que efetivamente será restituído pela via do precatório ou a compensado administrativamente). Optando a parte autora pela compensação, e não querendo realizar nos próprios autos judiciais a liquidação, não resta alternativa a não ser aguardar que seja efetivada e homologada a compensação, expressa ou tacitamente, para então utilizar o montante como base de cálculo da sucumbência.
+Contrarrazões apresentadas pela parte agravada.
+É o relatório. Decido.
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC (Enunciado n. 3 do Plenário do STJ).
+Vejamos, no que interessa, o que está consignado no voto condutor do acórdão recorrido (fls. 86/89):
+Trata-se de cumprimento de sentença de honorários advocatícios sucumbenciais valorado em R$ 383.185,15 (evento 32).
+A União opôs impugnação e pugnou pela suspensão do feito até a homologação administrativa da compensação tributária dos valores principais, base do cálculo dos honorários executados no cumprimento de sentença. Subsidiariamente, alegou erro na metodologia de cálculo e a falta de documentos necessários ao cálculo dos valores e, por fim, requereu extinção do cumprimento de sentença.
+ ..
+Com efeito, esta Corte registra precedentes no sentido de que a execução judicial dos honorários advocatícios independe da execução administrativa do valor principal. Por tal razão, desnecessário o aguardo do término do procedimento administrativo de compensação.
+Por ocasião do julgamento dos embargos de declaração, nada foi acrescido à fundamentação.
+Pois bem.
+"A admissibilidade do recurso especial exige a clara indicação dos dispositivos supostamente violados, bem como em que medida teria o acórdão recorrido afrontado cada um dos artigos atacados ou a eles dado interpretação divergente da adotada por outro tribunal" (REsp 1.114.407/SP, Rel. Ministro Mauro Campbell Marques, Primeira Seção, DJe 18/12/2009). No mesmo sentido, entre outros: AgRg nos EAREsp 75.689/RJ, Rel. Ministro Humberto Martins, Corte Especial, DJe 04/08/2015).
+Por isso, é pacífico o entendimento jurisprudencial segundo o qual não se pode conhecer do recurso especial, quanto à tese de violação à lei ou de divergência jurisprudencial referente à sua interpretação, quando as razões recursais não contiverem, expressamente, a causa de pedir correlata, a qual deve ser específica e suficiente à compreensão da forma como o acórdão recorrido estaria ofendendo a norma legal. Observância da Súmula 284 do STF.
+Nessa linha, esta Corte tem, reiteradamente, decidido que a alegação de violação dos arts. 489e 1.022 do CPC/2015 deve estar acompanhada de causa de pedir suficiente à compreensão da controvérsia, com indicação precisa dos vícios de que padeceria o acórdão impugnado, sob pena de não conhecimento, à luz da Súmula 284 do STF. Nesse sentido: AgInt no AREsp 1.129.996/RJ, Rel. Ministro Luís Felipe Salomão, Quarta Turma, DJe 01/12/2017; AgInt no REsp 1.681.138/MS, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 28/11/2017; REsp 1.371.750/PE, Rel. Ministro Og Fernandes, Primeira Seção, DJe 10/04/2015; AgRg no REsp 1.182.912/RS, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 29/04/2016.
+No caso, a tese de violação dos referidos dispositivos é genérica e o recurso, de consquência, não pode ser conhecido, na parte.
+Com relação aos arts. 509, 535 e 783 do CPC/2015, o conhecimento do recurso encontra óbice nas Súmulas 282 e 284 do STF, pois, além de não terem comando normativo apto a ensejar eventual alteração do acórdão recorrido, não estão prequestionados.
+Cumpre assinalar, aliás, que o procedimento de liquidação da obrigação definida no título executivo sequer se assemelha ao procedimento de compensação tributária, razão pela qual os precedentes jurisprudenciais apontados pela parte recorrente não servem à pretensão.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. REQUISITOS DE ADMISSIBILIDADE. NÃO PREENCHIMENTO. RECURSO NÃO CONHECIDO.
