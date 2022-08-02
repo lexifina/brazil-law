@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto por COMPANHIA DE SEGUROS ALIANÇA DO BRASIL, com fundamento no art. 105, III, a e c, da Constituição Federal, para impugnar acórdão assim ementado (e-STJ, fl. 335):
+DIREITO CIVIL E DO CONSUMIDOR. APELAÇÕES CÍVEIS. ALEGAÇÃO DE PRESCRIÇÃO. INOCORRÊNCIA AUSÊNCIA DE APRESENTAÇÃO DE APÓLICE. SEGURO RENOVADO ANUALMENTE. RESPONSABILIDADE CIVIL. DIVIDA CONTRAÍDA MEDIANTE FRAUDE. INOBSERVÂNCIA DE CAUTELA NA CONTRATAÇÃO E COBRANÇA DE SEUS CRÉDITOS POR PARTE DAS DEMANDADAS. SITUAÇÃO VEXATÓRIA A QUE SE SUJEITOU O CONSUMIDOR. DANO MORAL CONFIGURADO. NEXO DE CAUSALIDADE PATENTE. DEVER DE INDENIZAR PRESENTE. RESPONSABILIDADE OBJETIVA. SÚMULA Nº 479 DO SUPERIOR TRIBUNAL DE JUSTIÇA. PRECEDENTES DESTA CORTE ESTADUAL DE JUSTIÇA. QUANTUM FIXADO EM OBEDIÊNCIA AOS CRITÉRIOS DE RAZOABILIDADE E PROPORCIONALIDADE. PRECEDENTES DESTA CORTE DE JUSTIÇA. APELOS CONHECIDOS E DESPROVIDOS.
+Nas razões do recurso especial, a ora agravante apontouviolação do art. 206, § 1º, II, b, e § 3º, V, do Código Civil.
+Afirmou a ocorrência de prescrição.
+Salientou, ademais,que o segurado tinha ciência dos valores cobrados desde o ano de 2004, tendo ajuizado a presente ação somente no ano de 2018. Sustentou, assim, "a impossibilidade de devolução de todo o valor descontado no decorrer de anos de prestação de serviços contratuais, de modo que inegável que todas as parcelas que antecederam o prazo anual restam prescritas" (e-STJ, fl. 365).
+Subsidiariamente, defendeu a necessidade de serdeclarado, ao menos, a prescrição do direito de reclamar as parcelas pagas anteriormente aos três anos do ajuizamento da ação.
+Contrarrazões às fls. 391-404 (e-STJ), em que a parte requer o desprovimento do recurso e a aplicação de multa por litigância de má-fé.
+O recurso especial não foi admitido na origem, o que ensejou a interposição do presente agravo.
+Contraminuta apresentada às fls. 416-432 (e-STJ).
+Brevemente relatado, decido.
+No caso dos autos, o Colegiado estadual, em caráter preliminar, analisou o tema acerca da prescrição, ainda que não apreciado pelo juízo de primeiro grau, por se tratar de matéria de ordem pública, momento em que afastou a sua concorrência,e, no mérito, manteve a sentença que responsabilizou os réus pela cobrança indevida de apólice de seguro ante a existência de suposta fraude cometida por terceiro.
+A propósito, confiram-se os seguintes excertos do acórdão recorrido (e-STJ, fls. 338-339, sem grifos no original):
+Inicialmente, cumpre averiguar a alegação de nulidade da sentença suscitada pela recorrente Companhia de Seguros Aliança do Brasil por não ter a decisão de primeiro grau se manifestado a respeito da prescrição.
+Validamente, tem-se na situação dos autos que a recorrida em sua peça contestatória suscitou, preliminarmente, a ocorrência da prescrição da pretensão autoral, sendo tal matéria de ordem pública e ,tendo sido a recorrida devidamente intimada para se manifestar a respeito, a mesma é passível de ser analisada por esta Corte de Justiça, descabendo a alegação de nulidade da sentença.
+Cinge-se o mérito recursal em perquirir acerca prescrição e da validade do negócio jurídico firmado entre as partes e do alegado dano moral reclamado pela parte autora.
+Alega o recorrido que a sua pretensão não se encontra prescrita, uma vez que sua pretensão se renova, por possuir natureza de trato sucessivo.
+Compulsando os documentos que guarnecem o caderno processual, constata-se que não assiste razão à Companhia de Seguros.
+Denota-se que o seguro em questão é renovado anualmente e inexiste nos autos apólice do mesmo, para que seja efetivamente comprovado o ano de sua contratação, não havendo que se falar em prescrição, sobretudo considerando que a cobrança ainda persiste.
+(..)
+Cumpre, pois, examinar a existência dos caracteres identificadores da responsabilidade civil na espécie, analisando se houve realmente o ato lesivo, identificando-se a parte responsável pelo ato, e, por fim, o nexo de causalidade entre a conduta e o possível dano experimentado.
+É inquestionável o fato de que as apelantes, conforme relatado e demonstrado nos autos, deforma negligente, permitiram a contratação de um seguro em nome da parte autora sem a sua anuência.
+Com efeito, não se constata nos autos qualquer prova da existência de vínculo contratual entre as partes referentes ao seguro de prestação cujo valor é R$ 357,15 (trezentos e cinquenta e sete reais e quinze centavos), de forma que não se revela legítimo o débito, cuja desconstituição apenas ocorreu por ordem judicial.
+Assim, constata-se que as recorrentes causaram diversos constrangimentos a parte autora, lhe imputando um débito ilegítimo, através de um contrato não firmado pela mesma, sendo-lhe, portanto, devida a indenização correspondente à situação vexatória pela qual foi submetido.
+Com efeito, a assertiva da recorrente de ser incabível o pleito indenizatório pela ocorrência da prescrição, tendo em vista a regularidade da referida contratação vigente por 14 (quatorze) anos, nos termos em que postas, atrai o óbice do enunciado n. 7 da Súmula desta Corte, pois o tribunal estadual entendeu, diante das peculiaridades do caso, que a contratação do seguro em nome da parte autora se deu sem a anuência desta, além do fato de não constar nos autos apólice do mesmo para que seja efetivamente comprovado o ano de sua contratação.
+Por outro lado, embora tenha sido analisada a questão da prescrição do fundo do direito, não foi objeto de prequestionamento a tese relativa ao alcance do referido instituto em relação à restituição das parcelas pagas. Portanto, incide no ponto a Súmula 282 e 236 do STF.
+Diante do exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do advogado da parte recorrida em 2% sobre o valor da condenação.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. SEGURO. PARCELAS COBRADAS INDEVIDAMENTE. RELAÇÃO JURÍDICA DE TRATO SUCESSIVO. PRESCRIÇÃO. NÃO OCORRÊNCIA. ALCANCE DA RESTITUIÇÃO DOS VALORES PAGOS. MATÉRIA NÃO PRESQUESTIONADA. SÚMULAS 282 E 356/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
