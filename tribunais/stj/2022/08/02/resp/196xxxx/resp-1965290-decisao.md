@@ -1,0 +1,34 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto pelo Município de Paraibano, com amparo nas alíneas "a" e "c" do permissivo constitucional, em oposição aacórdão do TRF da 1ª Região assim ementado (e-STJ, fl. 764):
+PROCESSUAL CIVIL. PERDA SUPERVENIENTE DO OBJETO. ALTERAÇÃO LEGISLATIVA.HONORÁRIOS ADVOCATÍCIOS. CABIMENTO.
+1. A presente ação foi ajuizada em 6/12/2016, dias antes da edição da Medida Provisória n. 753, de 19/12/2016, que satisfez integralmente a pretensão do autor.
+2. Esta colenda Sétima Turma considerava que, extinto o processo por perda superveniente do objeto, em razão de alteração legislativa, era indevida a condenação da União ao pagamento de honorários advocatícios.
+3. Esse entendimento foi revisto em face do princípio da causalidade, segundo o qual o ônus da sucumbência deve ser suportado por quem deu causa ao ajuizamento da ação, nos termos do § 10 do art. 85 do Código de Processo Civil.
+4. O conceito de proveito econômico não está expressamente previsto em nosso sistema legislativo. Mas, na totalidade do sistema jurídico, supõe a existência de acréscimo patrimonial. No entanto, entender proveito econômico como sinônimo de acréscimo patrimonial não se mostra razoável para que se proceda à melhor interpretação para fins de fixação de honorários de sucumbência, vez que ocorrem situações em que a parte vencedora da demanda não experimentará efetivo ganho em seu patrimônio.
+5. Inexistevinculação direta e obrigatória entre o proveito econômico e o valor atribuído à causa, pois esta (vinculação) poderá ou não ocorrer. Nesse sentido, o art. 291 do CPC assim prescreve:"A toda causa será atribuído um valor certo, ainda que não tenha conteúdo econômico imediato".
+6. Na espécie, o proveito econômico é irrisório, na medida em que a extinção do feito em razão da perda superveniente do objeto mitiga o impacto patrimonial direto e efetivo, tanto para o recorrente quanto para o recorrido, o que atrai a incidência da norma prevista no art. 85, § 8º, do CPC.
+7. Ademais, os honorários advocatícios de sucumbência têm natureza remuneratória e não podem servir como instrumento de penalidade pecuniária aplicada ao vencido na demanda, sob pena de imposição de ônus excessivo.
+8. Apelação parcialmente provida.
+Os embargos de declaração opostos pela edilidade foram rejeitados.
+Em suas razões, a interessada aponta violação do art. 85, §§ 2º, 3º, 4º, 5º e 8º, do CPC/2015.
+Sustenta, em síntese, que a fixação dos honorários advocatícios deve observar o percentual previsto em lei.
+Contrarrazões recursais apresentadas às e-STJ, fls. 1.392-1.396.
+Admitido o recurso especial na origem (e-STJ, fl. 1.598), subiram os autos a esta Corte.
+É o relatório.
+Verifica-se que a questão tratada no presente recurso - relativa à definição do alcance da norma inserta no § 8º do art. 85 do Código de Processo Civil nas causas em que o valor da causa ou o proveito econômico da demanda forem elevados - foi afetada pela Corte Especial para julgamento sob o rito dos recursos especiais repetitivos (Tema n. 1.076).
+O entendimento do STJ é de que qualquer irresignação que tenha por objeto matéria tratada em recurso representativo da controvérsia deve ser devolvida ao tribunal de origem, a fim de que exerça o juízo de retratação antes da apreciação do respectivo recurso especial por esta Corte Superior.
+Nesse toar:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ADMINISTRATIVO. SERVIDOR PÚBLICO. RESTITUIÇÃO AO ERÁRIO. ERRO DA ADMINISTRAÇÃO. TEMA AFETADO AO RITO DOS REPETITIVOS (RESP 1.769.306/AL E RESP 1.769.209/AL). EXEGESE DOS ARTS. 1.040 e 1.041 DO CPC/2015. DEVOLUÇÃO E SOBRESTAMENTO DO ESPECIAL NA CORTE DE ORIGEM. ACLARATÓRIOS ACOLHIDOS, COM EFEITOS INFRINGENTES.
+1. A matéria referente à devolução ao Erário de valores recebidos de boa-fé pelo servidor público, quando pagos indevidamente por erro operacional da Administração Pública, foi afetada pela Primeira Seção do STJ ao rito dos recursos especiais repetitivos (REsp 1.769.306/AL e REsp 1.769.209/AL, Rel. Ministro Benedito Gonçalves, DJE 02/05/2019 - TEMA 1.099/STJ).
+2. Mostra-se conveniente, em observância ao princípio da economia processual e à própria finalidade do CPC/2015, determinar o retorno dos autos à origem, onde ficarão sobrestados até a publicação do acórdão a ser proferido nos autos dos recursos representativos da controvérsia.
+3. Embargos de declaração acolhidos, com efeitos infringentes, para tornar sem efeito as decisões anteriores, com a restituição dos autos ao Tribunal de origem, para que lá se observe oiterdelineado nos arts. 1.040 e 1.041 do CPC/2015.
+(EDcl no AgInt no AREsp n. 1.445.132/MG, relator Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 19/9/2019, DJe de 23/9/2019).
+PROCESSUAL CIVIL E TRIBUTÁRIO. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO FISCAL. EMPRESA EM RECUPERAÇÃO JUDICIAL. MEDIDAS CONSTRITIVAS. TEMA AFETADO AO RITO DOS REPETITIVOS EM PROCESSOS DIVERSOS (REsp 1.694.261/SP, REsp 1.694.316 e REsp 1.712.484/SP). EXEGESE DOS ARTS. 1.040 e 1.041 DO CPC/2015. DEVOLUÇÃO E SOBRESTAMENTO DO ESPECIAL NA CORTE DE ORIGEM. ACLARATÓRIOS ACOLHIDOS, COM EFEITOS INFRINGENTES.
+1. No caso, quanto à matéria de fundo, qual seja, a "Possibilidade da prática de atos constritivos, em face de empresa em recuperação judicial, em sede de execução fiscal", ressalta-se a recente afetação ao rito dos repetitivos, tendo por representativos da controvérsia o REsp 1.694.261/SP, REsp 1.694.316 e REsp 1.712.484/SP - Tema 987 dos Recursos Repetitivos (Primeira Seção, Rel. Min. Mauro Campbell Marques, DJe 20/02/2018).
+2. Em razão da afetação do tema em discussão ao rito dos recursos especiais repetitivos, de rigor o retorno dos autos à origem, onde ficarão sobrestados até a publicação dos acórdãos a serem proferidos no julgamento dos noticiados recursos representativos da controvérsia.
+3. Embargos de declaração acolhidos, com efeitos infringentes, para determinar o cancelamento das decisões anteriores e a restituição dos autos ao Tribunal Regional Federal da 4ª Região.
+(EDcl no AgInt no REsp n. 1.478.016/SP, relator Ministro BENEDITO GONÇALVES, PRIIMEIRA TURMA, julgado em 20/3/2018, DJe de 6/4/2018).
+Por fim, cumpre esclarecer que, somente depois de realizada essa providência, a qual representa o exaurimento da instância ordinária, o recurso especial deverá ser encaminhado, em sua totalidade, para este Tribunal Superior, a fim de que possam ser analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento da Corte
+Ante o exposto, determino a devolução dos autos ao Tribunal de origem, com a devida baixa nesta Corte, para que, após a publicação do acórdão representativo da controvérsia, realize um novo juízo de admissibilidade, nos termos do art. 1.040 do CPC/2015.
+Publique-se. Intimem-se.
