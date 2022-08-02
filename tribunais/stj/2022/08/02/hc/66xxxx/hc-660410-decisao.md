@@ -1,0 +1,53 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido de liminar, impetrado em benefício de SONIA MARIA DE ANDRADE SANTOS contra acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios, proferido no julgamento do Agravo de Execução Penal 0740533-90.2020.8.07.0000.
+Consta dos autos que o Juízo das Execuções indeferiu pedido de indulto e recolhimento da carta de guia referente à ação penal n. 2005.01.1.058350-7 (0066718-34.2005.8.07.0001), ao fundamento de que a decisão concessiva do indulto não alcançou essa execução.
+Inconformada sua defesa agravou da decisão perante a Corte Distrital, que negou provimento ao recurso em acórdão assim ementado (fl. 29):
+"Execução penal. Dec. 9.246/17. Indulto. Pena não objeto da execução unificada.
+1 - O art. 11 do Dec. 9.426/17 autoriza a concessão de indulto e a comutação de pena às ações penais, cuja sentença tenha transitado em julgado para acusação, mas aguarda exame de recurso da defesa em instância superior; quando haja recurso da acusação após condenação em segunda instância; o apenado responda a outro processo criminal sem condenação em segunda instância e a guia de recolhimento não tenha sido expedida.
+2 - Se a condenação, objeto do pedido de indulto, não fazia parte da execução unificada - em que concedido o benefício -, e a pena não foi considerada para cálculo do benefício, não se reconhece que houve indulto, prosseguindo-se com a execução.
+3 - O tempo de pena que foi executado de forma antecipada, antes do trânsito em julgado da sentença condenatória, poderá ser considerado para fins de indulto, desde que o apenado tenha cumprido o período exigido no decreto.
+4 - Agravo não provido."
+No presente writ, a defesa sustenta que acondenaçãoreferente a ação penal n. 2005.01.1.058350-7 foi abarcada pelo Decreto que indultou as penas da paciente, pois, à época, tinha iniciado execução provisória da pena após condenação em segunda instância.
+Requer, em sede liminar, a concessão de liminar para suspender temporariamente o cumprimento da pena, na pendência de julgamento desta ordem. No mérito, a "confirmação da liminar para reconhecer a extinção de punibilidade decorrente da Ação Penal n. 58350-7, do Juízo da 3ª Vara Criminal da Circunscrição Judiciária de Brasília/DF" (fl. 10).
+Liminar indeferida às fls. 37/38.
+As informações foram prestadas às fls. 42/83 e 84/172.
+O Ministério Público Federal opinou pelo não conhecimento dohabeas corpus,conforme parecer de fls. 176/177.
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça. Contudo, considerando as alegações expostas na inicial, razoável verificar a existência de eventual constrangimento ilegal.
+O Tribunal de origem assim se manifestou a respeito da controvérsia:
+"A agravante - auditora tributária do Distrito Federal, que foi condenada por crimes contra a ordem tributária -requereu, em 13.5.19, indulto natalino referente às condenações na execução unificada n. 0005570- 91.2016.8.07.0015, com fundamento no Dec. 9.246/17.
+O Conselho Penitenciário do DF, em 9.7.19, aprovou o Parecer n. 291/2019, favorável à concessão, à agravante, de indulto pleno, referente à execução n. 0005570-91.2016.8.07.0015.
+E, em 22.7.19, o juiz da Vepera, nos autos da execução, concedeu indulto pleno e declarou extintas as penasprivativas de liberdade e as penas de multa, nos termos do art. 107, II, do CP (ID 19745015, p. 10).
+Em consulta ao Sistema Eletrônico de Execução Unificado - SEEU -, verifica-se no documento elaborado pelo Conselho Penitenciário do DF, que a agravante contava 11 condenações, que somavam 48 anos e 6 meses de reclusão, incluindo as penas com execução suspensa. E, conforme conta de liquidação, as penas totalizavam 10 anos e 5 meses de reclusão. Até 25.12.17, a agravante havia cumprido 1 ano, 8 meses e 24 dias da pena (exec. 0005570-91.2016.8.07.0015).
+Ocorre que, na conta de liquidação, datada de 11.2.19, constavam apenas as ações penais ns.2005.01.1.058324-2, 2006.01.1.044756-2 e 2006.01.1.044756-2, que totalizavam pena de 10 anos e 5 meses de reclusão, no regime semiaberto.
+A ação penal n. 2005.01.1.058350-7 (0066718-34.2005.8.07.0001), em que a agravante foi condenada à pena de 8 anos de reclusão, no regime semiaberto, não estava incluída na execução unificada n. 0005570- 91.2016.8.07.0015, à época em que concedido o indulto, em 22.7.19.
+Tanto que no relatório do Conselho Penitenciário do DF constou que a execução provisória da pena na ação penal n. 2005.01.1.058350-7, estava suspensa, em cumprimento do HC 152.728/DF, do c. STF.
+E a decisão que concedeu o indulto faz referência apenas à execução unificada n. 0005570- 91.2016.8.07.0015, sem discriminar quais ações penais foram alcançadas pelo indulto.
+Registre-se que a carta de guia definitiva referente à ação penal n. 2005.01.1.058350-7 (0066718- 34.2005.8.07.0001) foi expedida somente em 24.1.20. E a condenação foi incluída no relatório da situação processual executória em 19.2.20, após o trânsito em julgado definitivo, ocorrido em 10.12.19, e após a concessão do indulto, em 22.7.19.
+Conforme dispõe o art. 11 do Dec. 9.246/17:
+ ..
+Conquanto fosse possível conceder indulto às condenações ainda não transitadas em julgado, a ação penal n. 2005.01.1.058350-7 (0066718-34.2005.8.07.0001) não fazia parte da execução unificada n. 0005570- 91.2016.8.07.0015 à época em que concedido o indulto.
+Ressalte-se que a pena referente a essa condenação - 8 anos de reclusão no regime semiaberto - não foi somada à pena de 10 anos e 5 meses, considerada para concessão do indulto. E caso tivesse sido considerada, a agravante não teria cumprido o período exigido para concessão do indulto.
+O tempo que a agravante permaneceu presa, antes do trânsito em julgado da sentença condenatória, poderá ser considerado para fins de progressão de regime, livramento condicional, indulto ou comutação de penas.
+ ..
+E ainda que a agravante tenha, em 29.5.16, iniciado execução provisória da pena (8 anos de reclusão) após condenação em segunda instância, conforme alega a defesa, fato é que não se provou que ela cumpriu o período exigido no decreto para a concessão do indulto (art. 1º).
+Dessa forma, se a condenação na ação penal n. 2005.01.1.058350-7 (0066718-34.2005.8.07.0001) não fazia parte da execução n. 0005570-91.2016.8.07.0015, à época em que concedido o indulto, e a pena não foi considerada para cálculo do benefício, é de se manter a decisão da VEP que não reconheceu o indulto, bem como indeferiu o recolhimento da carta de guia"(fls. 30/32).
+Da análise dos trechos colacionados, verifica-se que o Tribunal de origem manteve o indeferimento do pedido de indulto não só porquea condenação na ação penal n. 2005.01.1.058350-7não fazia parte da execução n. 0005570-91.2016.8.07.0015à época em que concedido o indulto, mas também sob o fundamento de que,ainda que a agravante tenha, em 29/5/16, iniciado execução provisória da penaapós condenação em segunda instância,não comprovou que cumpriu o período exigido no decreto para a concessão do indulto.
+A revisão do julgado a fim de se concluir de forma diversa da que chegou ainstânciaorigináriademandaria aprofundado revolvimento fático-processual, procedimento vedado na via estreita do habeas corpus.
+Exemplificativamente:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. INDULTO. DECRETO N. 8.172/2013. INDEFERIMENTO. NÃO PREENCHIMENTO DO REQUISITO TEMPORAL. 1/3 (UM TERÇO) DA PENA ATÉ 25/12/2013. ALEGAÇÃO DE INCORREÇÃO NO CÁLCULO DE PENA. TESE REFUTADA PELAS INSTÂNCIAS ORDINÁRIAS. AFASTAR A CONCLUSÃO. REVOLVIMENTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. DECISÃO MANTIDA. INSURGÊNCIA DESPROVIDA.
+1. A despeito da alegação da defesa de que o apenado teria cumprido mais de 1/3 (um terço) de sua pena até a data da publicação do Decreto n. 8.172/2013, ou seja, 25/12/2013, tal informação foi refutada pelas instâncias ordinárias, que atestaram o não preenchimento do requisito objetivo exigido pelo decreto concessivo.
+2. O cálculo de pena do sentenciado não foi impugnado no momento de sua homologação, de forma que a discussão acerca de sua correção refoge ao âmbito da ação constitucional de habeas corpus, que não admite o revolvimento de matéria fático-probatória.
+3. Mantém-se a decisão singular que não conheceu do habeas corpus, por se afigurar manifestamente incabível, e não concedeu a ordem de ofício, em razão da ausência de constrangimento ilegal a ser sanado.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 505.032/SP, relator Ministro Jorge Mussi, Quinta Turma, julgado em 17/9/2019, DJe de 30/9/2019.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. CRIME DE ASSOCIAÇÃO CRIMINOSA. PENA DE 4 (QUATRO) ANOS E 2 (DOIS) MESES DE RECLUSÃO, EM REGIME INICIAL SEMIABERTO. PLEITO DE RECONHECIMENTO DO INDULTO COM BASE NO DECRETO PRESIDENCIAL N.º 8.940/2016. REQUISITO OBJETIVO NÃO COMPROVADO NA ORIGEM. INVERSÃO DO ENTENDIMENTO DEMANDA REEXAME PROBATÓRIO. AGRAVO REGIMENTAL DESPROVIDO.
+1. A Magistrada de primeira instância consignou que, para aplicação do indulto nos termos do Decreto Presidencial n.º 8.940/2016, "é imprescindível que o sentenciado tenha cumprido parte da pena, no caso 1/6, no regime semiaberto e frequentando curso ou trabalhado, o que não ficou demonstrado nos autos" e, neste aspecto, o Tribunal estadual não vislumbrou "ilegalidade flagrante".
+2. No caso, inverter o decidido pelas instâncias ordinárias, como defende o Agravante, com o reexame dos documentos que supostamente comprovam o trabalhado realizado no lapso temporal exigido pelo Decreto Presidencial n.º 8.940/2016, é inviável no âmbito de cognição sumária do habeas corpus.
+3. Na expressão da jurisprudência, o habeas corpus "não se mostra juridicamente adequado quando utilizado com o objetivo (a) de promover a análise da prova penal, (b) de efetuar o reexame do conjunto probatório regularmente produzido, (c) de provocar a reapreciação da matéria de fato e (d) de proceder à revalorização dos elementos instrutórios coligidos no processo penal de conhecimento" (HC 124.693 AgR, Rel. Minintro CELSO DE MELLO, Segunda Turma, julgado em 03/03/2015, DJe-077 de 27/04/2015).
+4. Agravo regimental desprovido.
+(AgRg no HC n. 448.507/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 15/8/2019, DJe de 9/9/2019.)
+Ausente, portanto, qualquer constrangimento que justifique a concessão da ordem de ofício.
+Ante o exposto, com fundamento no art. 34, inciso XX, do Regimento Interno do Superior Tribunal de Justiça, não conheço da presente impetração.
+Publique-se.
