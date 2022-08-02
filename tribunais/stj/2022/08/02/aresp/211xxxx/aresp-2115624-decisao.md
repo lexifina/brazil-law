@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo interposto por LUCIANO MASSIERO em adversidade à decisão que inadmitiu recurso especial manejado contra acórdão do Tribunal Regional Federal da 4ª Região, cuja ementa, na parte que interessa, é a seguinte(e-STJ fls. 1262/1264):
+PENAL. OPERAÇÃO COMBOIO. ORGANIZAÇÃO CRIMINOSA. CONTRABANDO CIGARROS. CRIME CONTRA AS TELECOMUNICAÇÕES. CRIME DE DANO QUALIFICADO. NULIDADE. CERCEAMENTO DE DEFESA. TIPICIDADE. INSUFICIÊNCIA PROBATÓRIA. DOSIMETRIA DA PENA.
+ ..
+13. O detalhado planejamento da conduta, o êxito na internalização de cigarros, o uso de batedores e de rádios não são circunstâncias que destoam de organização criminosa voltada à prática de delitos de contrabando.
+14. Aplicável a causa de aumento prevista no art. 2º, § 4º, V, da Lei 12.850/13, quando restar demonstrado deslocamento do agente à região de fronteira com o Paraguai para a aquisição de cigarros de origem estrangeira, por configurar a transnacionalidade delitiva.
+15. O detalhado planejamento da conduta, assim como o uso de batedores e rádios no cometimento do delito de contrabando são circunstâncias hábeis a elevar a pena-base.
+Nas razões do recurso especial (e-STJ fls. 1435/1444), fundado naalínea"a"do permissivo constitucional,alega a parte recorrente violação doartigo59 do CP. Sustentaa redução da pena-base para o delito de contrabando, tendo em vista a ausência de fundamentação idônea a justificaro alegado planejamento detalhado da conduta e o uso de batedores e rádios para o cometimento do delito.
+Apresentadas contrarrazões (e-STJ fls. 1512/1543), o Tribunalaquonão admitiu o recurso especial (e-STJ fls. 1558/1562), tendo sido interposto o presente agravo. O Ministério Público Federal, instado a se manifestar, opinou pelo não conhecimento do recurso(e-STJ fls. 1712/1717).
+É o relatório.Decido.
+Preenchidos os requisitos formais e impugnado o fundamento da decisão agravada, conheço do agravo.
+O recurso não merece acolhida.
+ACorte de origem, ao manter o desvalor das circunstâncias do crime para o delito de contrabando, consignou(e-STJ fls. 1343):
+A pena-base do delito de contrabando foi elevada em razão da negativação das circunstâncias do crime.
+E aqui, diferentemente do crime de organização criminosa, o detalhado planejamento da conduta, assim como o uso de batedores e rádios no cometimento do delito são circunstâncias hábeis a elevar a pena.
+Mantenho a elevação da pena-base em 3 (três) meses de reclusão.
+No tocante à fixação da pena-base acima do mínimo legal, cumpre registrar que a dosimetria da pena está inserida no âmbito de discricionariedade do julgador, estando atrelada às particularidades fáticas do caso concreto e subjetivas dos agentes, elementos que somente podem ser revistos por esta Corte em situações excepcionais, quando malferida alguma regra de direito.
+A jurisprudência desta Corte Superiorde Justiça é no sentido de que a pena-base não pode ser fixada acima do mínimo legal com fundamento em elementos constitutivos do crime ou com base em referências vagas, genéricas, desprovidas de fundamentação objetiva para justificar a sua exasperação. Precedentes: HC n. 272.126/MG, Relator Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 8/3/2016, DJe 17/3/2016; REsp n. 1.383.921/RN, Relatora Ministra MARIA THEREZA DE ASSIS MOURA, Sexta Turma, julgado em 16/6/2015, DJe 25/6/2015; eHC n. 297.450/RS, Relator Ministro JORGE MUSSI, Quinta Turma, julgado em 21/10/2014, DJe 29/10/2014.
+As circunstâncias do crime como circunstância judicial refere-se à maior ou menor gravidade do crime em razão domodus operandi. Constata-se, assim, a existência de fundamentação concreta e idônea, a qual efetivamente evidenciou aspectos mais reprováveis domodus operandidelitivo e que não se afiguram inerentes ao próprio tipo penal, a justificar a majoração da pena, uma vez que houve a premeditação da conduta, como detalhado planejamento,assim como o uso de batedores e rádios na ação delitiva, o que aumenta a gravidade, merecendo uma resposta penal maior.
+Ademais, rever os fundamentos utilizados pelo Tribunalde Justiça, para concluir que não houveo detalhado planejamento da conduta, assim como o uso de batedores e rádios na ação delitiva,como requer a defesa, importa revolvimento de matéria fático-probatória, vedado em recurso especial, segundo óbice da Súmula7/STJ.
+Dessa forma, deve ser mantido o desvalor das circunstâncias do crime para a exasperação da pena-base.
+Ante o exposto,com fundamento no art. 932, inciso VIII, do Código de Processo Civil, c/c o art. 253, parágrafo único, inciso II, alínea "b", do RISTJ e na Súmula568/STJ,conheçodo agravo paranegar provimentoao recurso especial.
+Intimem-se
