@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo interposto por NURY SALIM BILEL RAAD em adversidade à decisão que inadmitiu recurso especial manejado contra acórdão do Tribunal de Justiça do Distrito Federal e Territórios, cuja ementa é a seguinte (e-STJ fl. 699):
+DIREITO PENAL E PROCESSUAL PENAL. APELAÇÃO CRIMINAL DEFENSIVA. FURTO MEDIANTE FRAUDE. RÉU REVEL. PLEITO ABSOLUTÓRIO. IMPROCEDÊNCIA. AUTORIA E MATERIALIDADE COMPROVADAS. CONDENAÇÃO MANTIDA. DOSIMETRIA. PENA DOSADA DE FORMA FAVORÁVEL AO RÉU. NEGADO PROVIMENTO AO RECURSO.
+1. Nos termos do artigo 367 do Código de Processo Penal, se o acusado, citado pessoalmente da imputação, não comparece aos atos processuais a que intimado e/ou muda de endereço sem comunicar ao juízo, o processo seguirá sem a sua presença, declarando-o revel.
+2. Mantém-se a condenação do apelante quando comprovado, tanto pela prova documental quanto pela prova oral judicializada, que ele foi um dos beneficiários da fraude perpetrada na conta bancária da vítima, mormente porque demonstrado nos autos que o boleto do tributo de seu veículo foi pago de seu próprio aparelho celular, utilizando-se de valores furtados da conta bancária da vítima, que foi invadida mediante fraude.
+3. Se o juiz fixou pena mais favorável ao apelante que a prevista de acordo com os critérios jurisprudenciais dosimétricos, tratando-se de recurso exclusivo da defesa, em homenagem ao princípio da ne reformatio in pejus, mantém-se a pena fixada na sentença.
+4. Recurso conhecido e desprovido.
+Nas razões do recurso especial (e-STJ, fls. 719/722), fundado na alínea "a" do permissivo constitucional, alega a parte recorrente violação dos arts. 59 a 68, 155, §4º, II todos do CP, e 367 do CPP.
+Apresentadas contrarrazões (e-STJ, fls. 731/732), o Tribunal a quo não admitiu o recurso especial (e-STJ, fls. 735/736), ensejando a interposição do presente agravo. O Ministério Público Federal manifestou-se pelo não conhecimento do recurso (e-STJ, fls. 788/794).
+É o relatório. Decido.
+A decisão agravada inadmitiu o recurso especial pela incidência da Súmula 284/STF (e-STJ fls. 2015/2017).
+Não obstante, nas razões do agravo (e-STJ, fls. 742/756), a parte agravante não apresentou impugnação específica ao referido fundamento, limitando-se a reproduzir o mérito da controvérsia. Como tem reiteradamente decidido esta Corte, os recursos devem impugnar, de maneira específica e pormenorizada, os fundamentos da decisão contra a qual se insurgem, sob pena de vê-los mantidos. Não são suficientes meras alegações genéricas sobre as razões que levaram à inadmissão do agravo ou do recurso especial, tampouco a insistência no mérito da controvérsia.
+Nesses casos, a ausência de efetiva impugnação aos fundamentos da decisão que inadmitiu o recurso especial, ônus da parte recorrente, obsta o conhecimento do agravo, nos termos dos arts. 932, III, do CPC, e 253, parágrafo único, I, do RISTJ, e da Súmula 182 do STJ, aplicável por analogia.
+Ante o exposto, com fundamento no art. 932, inciso III, do CPC, c/c o art. 253, parágrafo único, inciso I, do RISTJ, não conheço do agravo em recurso especial.
+Intimem-se.
