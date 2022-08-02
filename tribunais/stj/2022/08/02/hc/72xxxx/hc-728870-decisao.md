@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra acórdão assim ementado (fls. 99/100):
+APELAÇÃO CRIMINAL - DECISÃO QUE CONDENOU O RÉU PELA PRÁTICA DO CRIME TIPIFICADO NO ART. 33, CAPUT, DA LEI  11.343/2006 IRRESIGNAÇÃO - RAZÕES RECURSAIS QUE PUGNARAM PELA ABSOLVIÇÃO EM RAZÃO DA INEXISTÊNCIA DE PROVAS E DA NULIDADE DAS PROVAS OBTIDAS PELA INVASÃO DOMICILIAR E, SUBSIDIARIAM ENTE, OAFASTAMENTO DA AGRAVANTE DE REINCIDÊNCIA E O RECONHECIMENTO DO TRÁFICO PRIVILEGIADO - MATERIALIDADE E AUTORIA DELITIVAS SOBEJAMENTE COMPROVADAS VERACIDADE NO DEPOIMENTO DOS POLICIAIS MILITARES QUE PARTICIPARAM DA AÇÃO QUE CULMINOU NA PRISÃO DO RÉU MATERIAL APREENDIDO QUE REVELA FINALIDADE DE COMERCIALIZAÇÃO DO ENTORPECENTE - ESTADO DE FLAGRÂNCIA AUTORIZAÇÃO DO RÉU PARA INGRESSO NO DOMICÍLIO - VIOLAÇÃO AO DOMICÍLIO NÃO CONFIGURADA - CRIME PFRMANFNTF - PRESENÇA DO FLAGRANTE QUE DISPENSA PRÉVIO MANDADO JUDICIAL - VALIDADE DAS PROVAS COLHIDAS PRECEDENTES MANUTENÇÃO DA AGRAVANTE DE REINCIDÊNCIA IMPOSSIBILIDADE DE APLICAÇÃO DO BENEFÍCIO DO TRÁFICO PRIVILEGIADO PREVISTO NO ART. 33, §4º, DA LEI  11343/2006 - RÉU DEDICADO ÀS ATIVIDADES CRIMINOSAS - AUTO DE APREENSÃO QUE DEMONSTRA QUANTIDADE SIGNIFICATIVA DE ENTORPECENTE APREENDIDO ALÉM DE MATERIAIS PRÓPRIOS DE TRAFICÂNCIA MANUTENÇÃO DA SENTENÇA - RECURSO CONHECIDO E DESPROVIDO.
+Consta dos autos que o paciente foi condenado às penas de 5 anos e 10 meses de reclusão, em regime fechado, e 583 dias-multa pela prática do crime de tráfico de drogas. Interposto recurso de apelação, não houve provimento.
+No presente writ, alega a defesa a falta de provas suficientes para condenar o paciente por tráfico, não tendo nenhuma relação com o imóvel em que encontrados os entorpecentes, bem como nulidade por invasão ao domicílio do terceiro, no qual houve a apreensão.
+Sustenta, ainda, a falta de fundamentação para indeferir o direito de recorrer em liberdade.
+Requer a revogação da prisão preventiva e a absolvição.
+Indeferida a liminar e prestadas as informações, manifestou-se o Ministério Público pela prejudicialidade.
+Conforme apontado no parecer do Ministério Público Federal, em consulta ao sistema processual eletrônico desta Corte Superior, verificou-se a concessão do HC 698686/SE, na sessão de julgamento de 5/4/2022, em favor do paciente para o absolver do crime de tráfico de drogas referente à ação penal n. 0001296-62.2020.8.25.0009. Dessa forma, encontra-se superada a discussão proposta.
+Ante o exposto, julgo prejudicado ohabeas corpus.
+Publique-se.
+Intimem-se.
