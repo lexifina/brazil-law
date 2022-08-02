@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo Ministério Público de Minas Gerais, com fundamento na alínea a do permissivo constitucional, contra o acórdão proferido pelo Tribunal de Justiça local na Apelação Criminal n. 1.0024.19.077357-2/001 (fls. 260/273).
+APELAÇÃO CRIMINAL - TRÁFICO ILÍCITO DE DROGAS - ARTIGO 33, § 4º, DA LEI 11.343/06 - INAPLICABILIDADE - FIXAÇÃO DO REGIME ABERTO E SUBSTITUIÇÃO DA PENA - INVIABILIDADE - ISENÇÃO DAS CUSTAS PROCESSUAIS - MATÉRIA AFETA AO JUÍZO DA EXECUÇÃO - REINCIDÊNCIA - DECOTE - FIXAÇÃO DO REGIME INICIAL SEMIABERTO - POSSIBILIDADE. Os antecedentes maculados impedem a aplicação da minorante do § 4º do artigo 33 da Lei 11.343/06. O quantum da pena privativa de liberdade inviabiliza a fixação do regime aberto e sua substituição por penas alternativas. As custas processuais são efeito da condenação, nos termos do artigo 804 do Código de Processo Penal, e a isenção do pagamento delas ou a suspensão de sua exigibilidade devem ser analisadas pelo juízo da execução. Não configura a agravante da reincidência se ao tempo do tato não havia condenação definitiva. Deve-se fixar o regime inicial semiaberto diante das particularidades do caso. V. V. E de rigor a fixação do regime fechado 1º para inicial cumprimento da pena se as circunstâncias do caso indicam ser eficiente à prevenção e reprovação da conduta criminosa. Assim, totalizada a pena corporal em patamar superior a 04 (quatro) anos, bem como se tratando de agente possuidor de maus antecedentes, não há como abrandar o regime inicialmente fechado aplicado em primeiro grau.
+No presente recurso especial, é indicada a violação dos arts. 33, § 3º, e 59, caput e III, ambos do Código Penal, porque abrandado o regime prisional ao semiaberto.
+Assevera o recorrente que,ao fixar o regime inicial semiaberto, atentando exclusivamente para o quantum da pena definitiva (5 anos de reclusão), a Corte mineira afrontou os dispositivos legais apontados como violados.  ..  Com efeito, o 3º, do artigo 33, do Código Penal, determina que a fixação do regime inicial far-se-á com observância dos critérios previstos no artigo 59 do Estatuto Repressivo (caput e inciso III), cabendo destacar que o Tribunal a quo, após decotar a agravante da reincidência, reconheceu ser o réu possuidor de maus antecedentes, possuindo, pois, circunstância judicial desfavorável (fl. 286).
+Reforça que a circunstância fática incontroversa no julgado deixa patente que o regime de cumprimento de pena adequado ao recorrido é o fechado, posto que, logo após recuperar a sua liberdade, voltou a delinquir, havendo necessidade de uma atuação mais contundente do Estado para buscar recuperar o indivíduo.  ..  Esse colendo Superior Tribunal de Justiça possui firme entendimento de que possuindo o agente circunstâncias judiciais negativas, como in casu - maus antecedentes -, é justificável a fixação do regime fechado no crime de tráfico de drogas, ainda que a pena seja inferior a 8 anos (fls. 286/287).
+Aponta, ainda, que a Câmara Julgadora não atentou para a gravidade concreta do delito perpetrado pelo increpado, posto que embora a quantidade de drogas apreendida não seja exorbitante, é expressiva, tratando-se de 108,70 gramas de maconha (acórdão - fl. 164) e o réu mal havia saído do cárcere quando retomou às atividades ilícitas (fl. 289).
+Ao final da peça recursal, pugna o Ministério Público pelo conhecimento e provimento do presente RECURSO ESPECIAL para que seja fixado o regime inicial fechado para o cumprimento da reprimenda, com fulcro nos artigos 33, § 3º, e 59, caput, e inciso III, do Código Penal, considerando-se não apenas a gravidade concreta do delito perpetrado, mas também o fato de que houve circunstância judicial valorada negativamente pelo Tribunal a quo, restabelecendo-se, destarte, os termos da r. sentença monocrática, neste ponto (fls. 292/293).
+Oferecidas contrarrazões (fls. 391/393) o recurso especial foi admitido na origem (fls. 395/397).
+O Ministério Público Federal opina pelo desprovimento da insurgência (fls. 408/409):
+TRÁFICO DE DROGAS. CONDENAÇÃO. RECURSO ESPECIAL. MODIFICAÇÃO DO REGIME PRISIONAL. NÃO CABIMENTO. AUSÊNCIA DE CONTRARIEDADE A DISPOSITIVOS INFRACONSTITUCIONAIS.
+- Pelo não provimento do recurso.
+É o relatório.
+Para elucidação do quanto requerido, extrai-se do voto condutor do acórdão da apelação o seguinte trecho (fl. 268 - grifo nosso):
+ ..
+Isso porque a pena-base foi fixada no mínimo legal, de modo que a atenuante da confissão espontânea não pode conduzir a reprimenda aquém do menor patamar (Súmulas 231 do STJ e 42 deste Tribunal).
+REGIME E SUBSTITUIÇÃO.
+O quantum da pena privativa de liberdade (cinco anos de reclusão) impede a fixação do regime aberto e sua substituição por penas alternativas.
+Noutro vértice, entendo viável abrandar o regime para o semiaberto diante das particularidades do caso.
+Ora, a quantidade da droga não é exorbitante e sua natureza é a menos nociva à saúde. E mais, o acusado confessou a prática delituosa desde o inquérito e seus antecedentes não se referem ao tráfico de entorpecentes.
+Assim, nos termos do artigo 33, § 2º, b", do CP, fixo o regime semiaberto para inicio do cumprimento da reprimenda corporal.
+ ..
+Da leitura dos fundamentos acima, tem-se que razão não assiste ao recorrente.
+Destaca-se, a princípio, que todas as circunstâncias judiciais foram consideradas favoráveis ao recorrido, sendo fixada no mínimo a pena-base do crime de tráfico de drogas por ele perpetrado (fl. 206).
+Sendo assim, não há fundamento para dar lastro à imposição de regime prisional mais severo do que permitido pelo quantum da pena, ex vi da Súmula 440/STJ.
+Nesse sentido:
+HABEAS CORPUS. ART. 157, § 2º, INCISOS I E II, DO CÓDIGO PENAL. WRIT SUBSTITUTIVO DE RECURSO ESPECIAL. VIA INADEQUADA. PENA SUPERIOR A 4 E INFERIOR A 8 ANOS DE RECLUSÃO. CIRCUNSTÂNCIAS JUDICIAIS FAVORÁVEIS. REGIME PRISIONAL. GRAVIDADE GENÉRICA DO CRIME. MOTIVAÇÃO INIDÔNEA. SÚMULAS 718 E 719 DO STF. SÚMULA 440 DO STJ. NÃO CONHECIMENTO. ORDEM DE OFÍCIO.
+1. Tratando-se de habeas corpus substitutivo de recurso especial, inviável o seu conhecimento.
+2. Para a exasperação do regime fixado em lei é necessária motivação idônea. Súmulas n.º 718 e n.º 719 do Supremo Tribunal Federal e Súmula n.º 440 deste Superior Tribunal de Justiça.
+3. Hipótese em que o Juiz de primeiro grau considerou, para fins de regime prisional, favoráveis as circunstâncias judiciais, fixando o intermediário. Contudo, o Tribunal de origem estabeleceu o regime fechado sem apresentar motivação idônea. Assentou a gravidade genérica do delito, bem como o entendimento, reiteradamente rechaçado por esta Corte, de que em casos de crime de roubo deve sempre ser imposto o regime fechado.
+4. Habeas corpus não conhecido. Ordem concedida de ofício a fim de garantir o início do cumprimento da pena em regime semiaberto.
+(HC n. 331.754/SP, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 13/11/2015 - grifo nosso).
+Dessa forma, fixada a pena-base no mínimo legal (5 anos - art. 33, caput, da Lei n. 11.343/2006), é descabida a fixação de regime mais gravoso sem a existência de fundamentação idônea, nos termos das referidas súmulas.
+Por conseguinte, levando-se em consideração a pena privativa de liberdade final cominada ao recorrido (5 anos de reclusão), é possibilitada a imposição do regime semiaberto, nos termos do art. 33, § 2º, b, do Código Penal.
+Ante o exposto, com fundamento no art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. PENAL. TRÁFICO DE DROGAS (108,7 G DE MACONHA). VIOLAÇÃO DOS ARTS. 33, § 3º, E59, CAPUT E III, AMBOS DO CP. PLEITO DE EXASPERAÇÃO DO REGIME PRISIONAL. AUSÊNCIA DE CIRCUNSTÂNCIAS JUDICIAIS NEGATIVAS. PENAS-BASE ESTIPULADAS NO MÍNIMO LEGAL. PENA DEFINITIVA ENTRE 4 E 8 ANOS DE RECLUSÃO. REGIME SEMIABERTO BEM APLICADO. MANUTENÇÃO DOS TERMOS DO ACÓRDÃO DA APELAÇÃO CRIMINAL QUE SE IMPÕE.
+Recurso especial desprovido.
