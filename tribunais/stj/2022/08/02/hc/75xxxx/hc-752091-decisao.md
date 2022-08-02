@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de Habeas Corpus, impetrado em favor de William Freitas Rosa e Leonardo Guimarães da Silva, em que se aponta como autoridade coatora a Sétima Câmara Criminal do Tribunal de Justiça do Rio Grande do Sul.
+Consta dos autos que os pacientes foram condenados à pena de 6 anos e 9 meses de reclusão, em regime fechado, e 10 dias-multa, por terem sido incursos no art. 157, § 2º, II e VII, do Código Penal (fls. 242/246).
+Em sede de apelação (n. 5103600-55.2021.8.21.0001), a Sétima Câmara Criminal do Tribunal de Justiça do Rio Grande do Sul negou provimento ao recurso (fls. 331/344). Esta, a ementa do julgado (fls. 331/332):
+APELAÇÃO CRIME. ROUBO MAJORADO. SENTENÇA CONDENATÓRIA. IRRESIGNAÇÃO DEFENSIVA. PRELIMINAR. RECONHECIMENTO. A controvérsia sobre a validade do reconhecimento do autor do fato, sem a observância do disposto no artigo 226 do CP, não afasta a possibilidade de impor a condenação com base em outras provas colhidas sob o contraditório em juízo, na linha do entendimento do STJ a respeito da questão. SUFICIÊNCIA PROBATÓRIA. A prova dos autos, consubstanciada no relato da vítima e na prisão em flagrante dos réus na posse da res e da faca, é suficiente para sustentar a condenação. CONCURSO DE AGENTES. Demonstrado o liame subjetivo dos réus, que atuaram de forma conjunta para praticar o roubo. ARMA BRANCA. Desnecessária a submissão da faca apreendida à exame pericial, bastando a palavra da vítima para comprovar o uso do objeto na ação delitiva. REINCIDÊNCIA. A constitucionalidade da agravante já foi reconhecida pelo STF. Precedente. ISENÇÃO. Pena de multa prevista em lei, sendo inviável deixar de aplicar ou isentar do recolhimento apenas pelas precárias condições financeiras de qualquer acusado. Possibilidade de a matéria ser analisada pelo juízo executório. INDENIZAÇÃO. Mantida a obrigação de reparação do dano, por APELO DESPROVIDO, POR MAIORIA
+No presente writ, a defesa alega que houve excesso na terceira fase da dosimetria, ao elevar a pena na fração de 1/2 (fls. 3/7).
+Decisão deste Relator, indeferindo a liminar (fls. 348/349).
+Parecer ministerialopinando pela denegação da ordem (fls. 400/404).
+É o relatório.
+Não há ilegalidade na dosimetria, pois o Magistrado apresentou justificativa para o aumento da pena-base em 1/2, de que o emprego de arma branca torna o roubo mais grave, com o risco de morte ou lesão da vítima. Esta Corte deve intervir apenas quando flagrante alguma ilegalidade, no entanto, não há como entender que a análise feita pelo Magistrado está inidônea, pois apresentada concreta motivação na dosimetria, na terceira fase. A propósito:
+ ..
+8. O Superior Tribunal de Justiça consagrou o entendimento de que "o aumento naterceira fasede aplicação da pena no crime de roubo circunstanciado exigefundamentaçãoconcreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes" (Súmula n. 443/STJ).
+9. Na hipótese, o acréscimo está devidamente ancorado em circunstâncias concretas atinentes às próprias causas de aumento e com indicação da maior reprovabilidade da conduta dos agentes, de modo que tal exasperação não se deu meramente pelo número de majorantes presentes, mas pelas peculiaridades do caso. Na hipótese, demonstrou-se que os agentes, invadindo a residência das vítimas, as mantiveram sob a mira constante dearmade fogo e de facões, tendo agredido fisicamente um dos ofendidos com uma faca, além de terem apontado aarmade fogo para a cabeça de uma criança menor de um ano de idade e amordaçado e prendido as vítimas. Tais circunstâncias do caso concreto notadamente demonstram maior reprovabilidade da conduta dos agravantes e autorizam a aplicação da fração eleita (5/12) para aterceira faseda pena, quantum que há de se considerar proporcional à gravidade do crime.
+10. Agravo regimental desprovido.
+ ..
+(AgRg no HC 720369 / SC, Ministro Antonio Saldanha Palheiro, Sexta Turma,DJe 27/5/22)
+No caso, constou na sentença (fl. 242):
+ ..
+Na ocasião, a vítima caminhava pela via pública supramencionada, indo em direção a sua casa, quando foi abordada pelos denunciados, os quais, inicialmente, pediram para a vítima lhe emprestar um isqueiro. Tendo a vítima respondido que não possuía isqueiro, os acusados dela se aproximaram, e, sob ameaça de uma faca, portada pelo denunciado WILLIAM, exigiram que o ofendido lhes entregasse seu telefone celular e dinheiro. A vítima tentou argumentar, dizendo que não tinha dinheiro, ao que o denunciado WILLIAM pegou o carregador de telefone celular que vítima trazia em suas mãos e, juntamente com seu comparsa, saíram correndo, empreendendo fuga.
+ ..
+E, quando feita a dosimetria, o Magistrado relevou o fato de que a vítima poderia ter sofrido lesão ou morrido, de modo que não há como esse entendimento ser reexaminado, em sede de habeas corpus, para redução da fração de aumento da pena, até porque a fração de 1/2 não se mostra desproporcional.
+Ante o exposto, denego a ordem de habeas corpus.
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. DOSIMETRIA. TERCEIRA FASE. PEDIDO DE REDUÇÃO NA FRAÇÃO DE AUMENTO, QUE FOI FIXADA EM 1/2. CONCRETA FUNDAMENTAÇÃO PARA A FIXAÇÃO DA PENA NA SENTENÇA. RISCO DE LESÃO OU MORTE PELO USO DE ARMA BRANCA.
+Ordem denegada.
