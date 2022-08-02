@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+RELATÓRIO
+JEFFERSON DE CAMPOS VALIM interpõe agravo regimental contra a decisão de fls. 277-279, que não conheceu do habeas corpusimpetrado em seu favor - no qual fora apontado como autoridade coatora o Tribunal de Justiça do Estado de São Paulo(HC n. 2302636-94.2021.8.26.0000). - e julgou prejudicado o pedido de liminar.
+O paciente teve a prisão em flagranteconvertida em preventiva a pedido do Ministério Público e foi denunciado por suposta prática dos delitos descritos nos arts. 157, §§ 2º, II, V, e 2º-A, I , do Código Penal; 33, caput, e 35da Lei n, 11.343/2006; e16, §1º, IV, da Lei n. 10.826/2003, c/co art. 29 do Código Penal; todos em concurso material de crimes (art. 69 do Código Penal).
+O decreto prisional fundou-se na gravidade da conduta (crime de roubo anterior e com posterior monitoramento), naquantidade e variedade dos entorpecentes apreendidos (2.062gdecracke 80g de maconha), na associaçãopara aprática da traficância e no fato deo crime ter sidopraticado com violência contra a vítima e de o agravante manter, sob sua guarda, arma de fogo e munições.
+O agravante afirma que não houve justificativa para suaprisão, somente para a dos integrantes do roubo. Aduz que não estão preenchidos os requisitos da custódia cautelar.
+Em decisão monocrática, foi mantida a prisão preventiva, uma vez que fora exposta, de forma fundamentada e concreta, sua necessidade, considerando-se aquantidade deentorpecentes apreendida, agravidade concreta do crime, omodus operandida ação delituosa e a periculosidade do agente.
+O agravante requer a reconsideração da decisão monocráticaa fim de que seja concedida a ordem e revogada a prisão preventiva.
+O Ministério Público manifestou-sepelo desprovimento do agravo regimental (fls. 302-310).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS.TRÁFICO ILÍCITO DE ENTORPECENTES.PRISÃO PREVENTIVA. REVOGAÇÃO. IMPOSSIBILIDADE. PREENCHIMENTO DOS REQUISITOS LEGAIS. APREENSÃO DE EXPRESSIVA QUANTIDADEDE DROGAS. ROUBO. CRIME COMETIDO COM VIOLÊNCIA OU GRAVE AMEAÇA.PRISÃO PREVENTIVADEVIDAMENTE FUNDAMENTADA. AGRAVO REGIMENTAL DESPROVIDO.
+1.A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal.
+2. São fundamentos idôneos para a decretação da segregação cautelar no caso de tráfico ilícito de entorpecentes a quantidade, a variedade ou a natureza das drogas apreendidas, bem como a gravidade concreta do delito, omodus operandida ação delituosa e a periculosidade do agente.
+3. O cometimento de crime com emprego de violência ou grave ameaçaconjugada com os requisitos previstos nos arts. 312, 313 e 315 do Código de Processo Penalpermite a prisão cautelar.
+4. Agravo regimental desprovido.
+VOTO
+A decisão agravada deve ser mantida.
+A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 2/9/2020).
+No caso, está justificada a manutenção dapreventiva, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP, não sendo recomendável a aplicação de medida cautelar referida no art. 319 do CPP.É o que se extrai do seguinte excerto da decisão agravada (fls. 277-279):
+A propósito, assim se manifestou o Tribunal a quo (fl. 15, destaquei):
+Também não há ilegalidade evidente que demande saneamento, porquanto consta que:
+a) no dia, hora e local descritos na denúncia, o Paciente, acompanhado de outros indivíduos ali indicados e de uma mulher ainda não identificada, com unidade de desígnios,subtraíram os bens móveis ali indicados.
+b)aliado a tais sujeitos, mantinha, para fins de comercialização, 2.062 gramas de "crack" e 80g de "maconha".
+c)se associou aos demais para, juntos, praticarem a traficância.
+d)mantinha sob sua guarda arma de fogo e munições, sem autorização legal (fls 182/186 dos autos originários).
+Confira-se ainda  excerto da decisa o que decretou a segregaça o cautelar (fl. 18, destaquei):
+A vítima informou que estava em sua residência, que foi invadida por quatro indivíduos, sendo uma mulher entre eles, todos armados. Que a renderam, juntamente com as filhas menores, arrecadando e subtraindo diversos bens.
+Os policiais inquiridos informaram que após receberem a comunicação do roubo, passaram e diligenciar. Como o veículo da vítima havia sido subtraído, passou a ser monitorado. Localizaram o automóvel defronte a uma residência, e visualizaram o acusado Jefferson ingressando no local, na posse de uma bolsa. Visualizaram quando um veículo deixou o imóvel, perseguiram-no e abordaram. No interior estavam César e Josiane. Concomitantemente, Jefferson deixou o imóvel e foi abordado. No imóvel ainda foram localizados Lucas e Elaine, sendo que, enquanto os indagavam, perceberam a tentativa de fuga, através de um muro lateral, de Ricardo e João Carlos, tendo estes dispensado uma bolsa que, após recuperada, constatou-se em seu interior 2 tijolos de crack, porções de maconha, além de duas armas municiadas, bem como um simulacro de arma de fogo. Uma outra bolsa foi recuperada na residência, além de inúmeros outros objetos posteriormente reconhecidos pela vítima.
+ ..
+A ação encetada no presente caso, envolvendo considerável número de pessoas, todas armadas, com violência empregada contra a vítima, autoriza a conversão da prisão em preventiva como mecanismo de garantia e proteção da ordem pública.
+Tendo a necessidade de prisão cautelar sido exposta de forma fundamentada e concreta, é incabível a substituição por medidas cautelares mais brandas (RHC n. 133.153/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 21/9/2020).
+Ademais,a gravidade concreta do delito (crime de roubo anterior e com posteriormonitoramento, a partir do queforam encontrados2.062gcracke 80g de maconha),a associação para o tráfico,o emprego deviolênciacontraa vítimaeo fato de o agravante manter, sob sua guarda, arma de fogo e muniçõesforam considerados pelo Juízode primeiro grau e pelo Tribunal de origem para a decretação e manutenção da prisão preventiva.
+Conformea orientaçãoda Quinta Turma,aquantidade, a variedade ou a natureza das drogasservem de fundamento para adecretação da prisão preventiva (AgRg no RHC n. 131.420/MS, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 30/9/2020; e AgRg no HC n. 590.807/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 28/9/2020).
+Também o Supremo Tribunal Federal assentou que "a gravidade concreta do crime, o modus operandi da ação delituosa e a periculosidade do agente, evidenciados pela expressivaquantidadee pluralidade de entorpecentes apreendidos, respaldam a prisão preventiva para a garantia da ordem pública" (HC n. 130.708/SP, relatora Ministra Cármen Lúcia, Segunda Turma, DJe de 6/4/2016).
+Registre-se que o delito foi praticado mediante o emprego de violência contra pessoa, situação que, conjugada com os requisitos previstos nos arts. 312, 313 e 315 do Código de Processo Penal, permite a prisão cautelar como solução idônea para assegurar o acautelamento da ordem pública (RHC n. 92.308/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 27/3/2018).
+Por fim, "a gravidade concreta do crime como fundamento para a decretação ou manutenção da prisão preventiva deve ser aferida, como no caso, a partir de dados colhidos da conduta delituosa praticada pelo agente, que revelem uma periculosidade acentuada a ensejar uma atuação do Estado cerceando sua liberdade para garantia da ordem pública, nos termos do art. 312 do Código de Processo Penal" (HC n. 596.566/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 4/9/2020).
+Portanto, o agravante não apresentou argumentos capazes de infirmar a decisão recorrida, que deve ser mantida por seus próprios fundamentos.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
