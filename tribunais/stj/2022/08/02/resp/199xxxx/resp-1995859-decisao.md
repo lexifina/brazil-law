@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso especial interposto peloESTADO DO PARANÁ contra acórdão proferido peloTRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁassim ementado:
+AGRAVO DE INSTRUMENTO - EXECUÇÃO FISCAL - FALÊNCIA - JUROS APÓS DECRETAÇÃO DA FALÊNCIA - EXIGIBILIDADE CONDICIONADA À SUFICIÊNCIA DO ATIVO DA MASSA, APÓS O PAGAMENTO DOS CREDORES SUBORDINADOS - AUSÊNCIA DE INTERESSE RECURSAL - IMPOSSIBILIDADE DE COBRANÇA DE MULTA TRIBUTÁRIA EM EXECUÇÃO FISCAL CONTRA MASSA FALIDA - NATUREZA ADMINISTRATIVA - RECURSO PARCIALMENTE CONHECIDO E NÃO PROVIDO.
+Os embargos de declaração foram rejeitados.
+No recurso especial, fundamentado na alínea "a" do permissivo constitucional, o recorrente sustenta violação aos artigos83, III e VII, Lei 11.101/2005, 187 do CTN , e 29 da Lei 6.830/1980.
+Defende que a cobrança da multa tributária da massa falida não está sujeita à habilitação do crédito, sendo possível usa exigência no âmbito do executivo fiscal.
+Contrarrazões ao recurso especial às fls. 86/90.
+Decisão de admissibilidade à fls. 95/96.
+É o relatório. Decido.
+A pretensão não merece acolhimento.
+Consta do v. acórdão de origem:
+Em relação a multa tributária, observa-se que a Lei Falimentar a excetua dos créditos tributários quando da classificação dos créditos, o que torna inviável a sua cobrança por meio de execução fiscal. É o que se infere, também, dos enunciados das Súmulas 192 e 565, ambos do Supremo Tribunal Federal, verbis (..) Irretocável, assim a conclusão do douto juízo de origem, no seguinte sentido: "ante a disparidade na ordem de preferência no recebimento (incisos III e IV), não se afigura viável a cobrança das multas tributárias nos autos de execução fiscal. Assim, deve o Exequente requerer a habilitação dos valores referentes às multas nos autos de falência, a fim de exigi-los, em razão do caráter administrativo e não tributário".
+Com efeito, nos termos do art. 192 da Lei 11.101/2005 ficou determinado que a mencionada lei "não se aplica aos processo de falência ou de concordata ajuizados anteriormente ao início de sua vigência, que serão concluídos nos termos do Decreto-Lei n. 7.661, de 21 de junho de 1945".Nesse prumo,a contrario sensu, a Lei 11.101/2005 é aplicável às falências decretadas após a sua vigência.
+Por outro lado, no regime do Decreto-Lei 7.661/45, impedia-se a cobrança da multa moratória da massa falida, tendo em vista a regra prevista em seu art. 23, parágrafo único, III, bem com o entendimento consolidado nas Súmulas 192 e 565 do STF.
+Contudo, com a vigência da Lei 11.101/2005, tornou-se possível a cobrança da multamoratória de natureza tributária da massa falida, tendo em vista a determinação do art. 83, VII, no sentido de que "as multas contratuais e as penas pecuniárias por infração das leis penais ou administrativas, inclusive as multas tributárias" sejam incluídas na classificação dos créditos na falência.
+No presente caso, observa-se que não restou consignado no aresto impugnado em que data ocorreu a decretação da falência, situação que oportunizariaa essa Corte Superior o exame de qual regime legal está vinculada a questão da possibilidade ou não de cobrança da multa de natureza tributária da massa falida.
+Nesse contexto, verifica-se que, para se adotar qualquer conclusão em sentido contrário ao que ficou expressamente consignado no acórdão atacado  e se reconhecer a possibilidade de cobrança da multa tributária da massa falida no executivo fiscal  , é necessário o reexame de matéria de fato, inclusive com o cotejamento de peças processuais,o que é inviável em sede de recurso especial, tendo em vista o disposto na Súmula 7/STJ.
+Na forma da jurisprudência, "o cotejo de peças processuais não envolve qualquer análise jurídica, mas sim puramente fática, o que é vedado em sede de recurso especial, nos termos da Súmula 7/STJ" (STJ, AgRg no AREsp 682.099/AM, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, DJe de 25/10/2016). Em igual sentido: STJ, AgInt no AREsp 1.160.527/SP, Rel. Min. MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 07/03/2018; AgInt no REsp 1.506.498/PR, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 28/08/2018.
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. EXECUÇÃO FISCAL. MULTA TRIBUTÁRIA. COBRANÇA. FALÊNCIA.QUESTÃO ATRELADA AO REEXAME DA MATÉRIA DE FATO. ÓBICE DA SÚMULA 07/STJ. RECURSO ESPECIAL NÃO CONHECIDO.
