@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de recurso interposto por ADRIANO RODRIGUES DOS SANTOS e JOHNNY LIMA SANTOS NULHIA contra o acórdão do TRIBUNAL DE JUSTIÇADE MINAS GERAIS no HC n. 1.0000.22.005076-9/000, lavrado nos termos desta ementa (fl. 482):
+HABEAS CORPUS - HOMICÍDIO QUALIFICADO TENTADO - NEGATIVA DE AUTORIA - VIA INADEQUADA - TRANCAMENTO DA AÇÃO PENAL -IMPOSSIBILIDADE - HIPÓTESES NÃO DEMONSTRADAS DE PLANO - ORDEM DENEGADA.
+- A tese de negativa de autoria é incompatível com o habeas corpus, já que importa em dilação probatória, devendo ser reservada ao processo crime.
+- O trancamento da ação penal é medida excepcional e requer comprovação, de plano, da atipicidade da conduta, da existência de causa extintiva de punibilidade ou da completa ausência de indícios mínimos de autoria, o que não ser verificou.
+Os recorrentes repisam as argumentações feitas na inicial do writ, sustentando que faltam os pressupostos necessários para a manutenção da segregação preventiva e, ainda, que não foram obedecidos os preceitos do art. 226 do Código de Processo Penal, acerca do reconhecimento dos réus.
+Requerem a imediata expedição de alvará de soltura e, ao final, a reforma do acórdão e o provimento do recurso, reconhecendo-se a ilegalidade da prisão cautelar.
+Admitido, o recurso subiu a esta Corte.
+Liminar indeferida(fls. 519/520).
+Informações prestadas (fls. 579/661).
+O Ministério Público Federal se manifestou pelo desprovimento do recurso (fls. 669/678).
+É o relatório.
+De início, destaco que o acórdão aqui impugnado não enfrentou os fundamentos da prisão cautelar. Assim, a análise por esta Corte implicaria supressão de instância.
+No mais,ausente o fumus boni iuris.
+Acerca do descumprimento do art. 226 do Código de Processo Penal, disse o Tribunal de Justiça que, neste particular, impõe destacar que o apontamento feito por Naiara decorreu porque, em tese, conhecia de vista o suplicante Adriano, então a possível falha no reconhecimento é sobremaneira diminuída. Não bastasse, o denunciado Wederson supostamente afirmou que quem seguiu até a casa da vítima foram os ora pacientes Adriano e Johnny, alinhando-se às declarações da pretensa vítima e de sua companheira. Então, se o procedimento foi maculado e a sua força probante foi sobremaneira reduzida, somente a instrução e a decisão de pronúncia revelarão, existindo, neste momento processual, elementos de convicção suficientes à deflagração da denúncia (fl. 486).
+Por conseguinte, não merece reforma o acórdão impugnado.
+Nesse sentido:AgRg no RHC n. 153.351/SP, Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 1º/4/2022, eRHC n. 108.354/PR, Ministro ROGERIO SCHIETTI CRUZ, SextaTurma, DJe 10/4/2019.
+A corroborar, manifestação oportuna da Procuradoria-Geral da República, in verbis (fls. 670/678):
+ ..
+O presente recurso em habeas corpus não merece ser conhecido.
+Isso porque é possível verificar, do julgamento do Habeas Corpus n.º1.0000.22.005076-9/000, que o Tribunal de Justiça do Estado de Minas Gerais não analisou a tese de insuficiência de provas de autoria, tampouco a alegação de nulidade do reconhecimento pessoal e de ausência dos requisitos da prisão preventiva, como se pode conferir do seguinte excerto:
+ ..
+Assim sendo, não tendo sido apreciadas pelo Tribunal local as questões ora aventadas, o exame da pretensão recursal nesse Tribunal Superior implicaria indevida supressão de instância, com o consequente desprezo das normas constitucionais delimitadoras da competência entre os órgãos do Poder Judiciário.
+E, se é certo que o habeas corpus é uma ação constitucional vocacionada à importante função de garantia da liberdade de locomoção do cidadão, não menos exato é que a sua utilização deve observar os necessários pressupostos processuais de natureza constitucional - como é o caso da competência -, sob pena de total desprestígio dos órgãos jurisdicionais inferiores, além de grave risco de paralisação das atividades das Cortes Superiores, em razão do elevado número de writ impetrado per saltum. Nesse sentido, trazem-se à colação os seguintes precedentes dessa Corte Superior:
+ ..
+Ademais, como bem assentado pela Corte de origem, é inviável a apreciação da tese de insuficiência de provas de autoria e materialidade na via estreita do habeas corpus, por demandar profunda incursão no conjunto de fatos e provas dos autos, providência incompatível com o rito célere desse instrumento processual, desprovido de dilação probatória. Nessa linha, leciona-se que, quando as instâncias ordinárias entenderam haver indícios suficientes de autoria e materialidade para a decretação da prisão preventiva, uma conclusão de juízo superior "em sentido contrário demandaria extenso revolvimento fático-probatório, procedimento de todo vedado na via estreita do habeas corpus e de seu recurso ordinário. Precedentes do STF e do STJ" (AgRg no HC 618.482/RS, Rel. Ministro FÉLIX FISCHER, QUINTA TURMA, julgado em 09/12/2020, DJe 16/12/2020 - grifou-se).
+Além disso, "o habeas corpus não se presta para a apreciação de alegações que buscam a absolvição do paciente, em virtude da necessidade de revolvimento do conjunto fático-probatório, o que é inviável na via eleita" (STJ - AgRg no HC 574814/SC, Rel. Ministro RIBEIRO DANTAS, julgado em 09/06/2020, DJe 17/06/2020 - grifou-se). Sobre o impugnado reconhecimento pessoal, afigura-se válido também destacar que não se desconhece que a Sexta Turma dessa Corte Superior, no julgamento do HC n.º598886/SC, sinalizou mudança no entendimento jurisprudencial a respeito do procedimento previsto no art. 226 do CPP, passando a entender que o "reconhecimento de pessoa, presencialmente ou por fotografia, realizado na fase do inquérito policial, apenas é apto, para identificar o réu e fixar a autoria delitiva, quando observadas as formalidades previstas no art. 226 do Código de Processo Penal e quando corroborado por outras provas colhidas na fase judicial, sob o crivo do contraditório e da ampla defesa". Eis a ementa do referido julgado:
+ ..
+Embora o citado precedente não seja formalmente vinculante, vez que o julgado não se enquadra nas hipóteses previstas no art. 927, I a V, do CPC, importa realçar que, segundo o novo entendimento, o reconhecimento pessoal realizado sem a observância do procedimento previsto no art. 226 do CPP é considerado como prova inválida para sustentar a condenação. Todavia, no presente caso, ainda não há condenação.
+Com efeito, segundo informação extraída dos autos n.º 0006826-05.2021.8.13.0540, disponível no site do TJ/MG, a ação penal encontra-se em fase de instrução, momento processual no qual é possível a realização de novo ato de reconhecimento formal, bem como ainda podem ser produzidas outras provas a corroborar (ou não) a autoria delitiva. Constata-se, dessa forma, que, no caso dos autos, a validade dos reconhecimentos ora questionados constitui matéria de mérito que depende tanto da profunda análise de provas - medida inviável na estreita via do habeas corpus -, que estão sendo produzidas, quanto do indispensável exame da questão pelas instâncias de origem.
+Forçoso convir, portanto, que o recurso sob exame sequer deve ser conhecido.
+ ..
+Ante o exposto,nego provimentoao recurso emhabeas corpus.
+Publique-se.
+EMENTA
+RECURSO EMHABEAS CORPUS. DIREITO PENAL. HOMICÍDIO QUALIFICADO TENTADO. ALEGAÇÃO DE NULIDADE DO RECONHECIMENTO PESSOAL. INSUFICIÊNCIA DE PROVAS DE AUTORIA E AUSÊNCIA DE FUNDAMENTAÇÃO IDÔNEA PARA A PRISÃO PREVENTIVA. SUPRESSÃO DE INSTÂNCIA.CONSTRANGIMENTO ILEGAL. NÃO OCORRÊNCIA.
+Recurso emhabeas corpusimprovido.
