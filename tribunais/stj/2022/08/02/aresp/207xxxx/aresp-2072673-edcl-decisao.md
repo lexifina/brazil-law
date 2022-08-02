@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de embargos de declaração opostos porMOEMA DE JESUS FACURE NEVES contra decisão de minha lavra em que conheci do agravo para conhecer parcialmente do recurso especial e negar-lhe provimento(e-STJ fls. 1.021-1.027).
+A embargante alegaomissão nodecisum atacado, pois nãohouve pronunciamento no que se refere ao julgado paradigma eà Súmula 343.
+Aduz ainda que "a decisão aqui alvejada ofendeu uma decisão transitada em julgado, posto usa de fundamento questões preclusas no processo" (e-STJ fl. 1.030).
+Requer seja dado efeitos infringentes aos presentes embargos para dar provimento ao recurso especial.
+Impugnação apresentada às e-STJ fls. 1.036-1.038.
+Passo a decidir.
+O art. 1.024, § 2º, do CPC/2015 prescreve que os embargos de declaração opostos contra decisão de relator ou outra decisão unipessoal proferida em tribunal serão decididos monocraticamente pelo órgão prolator da decisão embargada e, nos termos do art. 1.022 do mesmo diploma, serão admitidos quando houver obscuridade, contradição, omissão ou erro material na decisão.
+Após nova análise processual, provocada pela oposição dos embargos declaratórios, observo nãohaver vício de integração a ser sanado.
+Verifica-se que a decisão embargada posicionou-se de formaclara,adequada e suficiente acerca dos temas controvertidos.
+Com efeito, em relaçãoà alegada violação do art. 927, IV, do CPC, porquanto o acórdão recorrido não teria seguidoo enunciado da Súmula 343 do STF, constatou-se na decisão embargadaa ausência de prequestionamento, tendo em vista que o Tribunal de origem não se manifestou sobre amatériaobjeto de irresignação, aplicando-se, na hipótese, a Súmula 211 do STJ.
+No que se refere à indicadaofensa ao art. 485, V, do CPC/73, e à apontada divergência jurisprudencial, foi decidido na decisão embargada que estando o entendimento do Tribunal de origem em harmonia com a jurisprudência deste Tribunal Superior sobre o tema em questão, inafastável a incidência da Súmula 83 do STJ, que dispõe: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida."
+No mais, ressalte-se que os embargos de declaração limitam-se à verificação da omissão, da contradição, da obscuridade, ou do erro material. Não há previsão legal para a análise de eventualofensa auma decisão transitada em julgado nesta via processual.
+Ademais, ovício que autoriza os embargos de declaração é a contradição interna do julgado, "não a contradição entre este e o entendimento da parte, nem menos entre este e o que ficara decidido na instânciaa quo, ou entre ele e outras decisões do STJ". (EDcl no AgRg nos EAREsp 252.613/MG, rel. Ministro MAURO CAMPBELL MARQUES, CORTE ESPECIAL, julgado em 05/08/2015, DJe 14/08/2015).
+O recursode embargos de declaraçãonão é via adequada para corrigir supostoerro de julgamento,ainda que demonstrado, não lhes sendo atribuível eficácia infringente se ausentes os vícios elencados no art. 1.022 do CPC/2015.
+Ressalte-se que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, os EDcl no AgRg nos EREsp 1.315.507/SP, rel. Ministro Luis Felipe Salomão, Corte Especial, DJe de 28/08/2014.
+Assim, não há nenhuma irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, REJEITO os embargos de declaração e ADVIRTO a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se. Intimem-se.
