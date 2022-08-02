@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento arecurso especial, no qual se alega violação doart. 85, § 2º do Código de Processo Civil, além de dissídio jurisprudencial.O acórdão recorrido estáretratado na seguinte ementa (fl. 690):
+Previdência privada. Pedido de suplementação do benefício com base em decisão da Justiçado Trabalho que reconheceu direito do autor ao recebimento de horas extras não pagas pela sua empregadora/patrocinadora do plano previdenciário complementar. Sentença que reconheceu a ilegitimidade da patrocinadora e condenou a gestora do plano a revisar o benefício mediante o aporte de reserva matemática a ser feita pelo autor com base na sua cota-parte de contribuição. Apelo da patrocinadora voltado ao reconhecimento de sua ilegitimidade passiva. Falta de interesse processual evidente, considerando que a sua pretensão já estava acolhida na sentença. Recurso não conhecido.
+Apelo do autor voltado ao reconhecimento da legitimidade da patrocinadora e da sua condenação à realização do aporte da reserva matemática. Preliminares de nulidade da sentença afastadas. Legitimidade reconhecida com base no REsp repetitivo nº 1.370.191/RJ. Dever de a patrocinadora aportar a reserva matemática estabelecido no REsp repetitivo nº 1.312.736/RS. Condenação das rés no pagamento das diferenças de suplementação vencidas a serem apuradas em fase de liquidação de sentença (art. 510 CPC). Determinação de inclusão da diferença suplementar em folha de pagamento assim que houve sua definição. Apelo parcialmente provido. Afastadas as preliminares.
+Foram opostos embargos de declaração, que foram rejeitados (fls. 797/800).
+Sustenta "queas verbas reconhecidas judicialmente ao recorrente, inclusive seus reflexos, foram recebidas durante a contratualidade, mas em valor inferior ao realmente devido" (fl. 824).
+Alega que todos os reflexos das verbas salariais deferidas na reclamação trabalhista pretérita devem integrar o cálculo da revisão do benefício e das diferenças deferidas.
+Afirma que as parcelas vincendas compõem a base de cálculo dos honorários sucumbenciais.
+Assim posta a questão, passo a decidir.
+Inicialmente, não conheço do recurso no tocante à questão da inclusão das verbas salariais deferidas em reclamação trabalhista no cálculo da revisão do benefício e das diferenças deferidas,pois o recorrente nãoassinalou nenhum dispositivo de lei federal que teria sido violado peloacórdão recorrido, bem como não indicou divergência jurisprudencial válida arespeito do assunto, o que faz incidir, quanto ao ponto, o enunciado n.284 da Súmula do STF.
+No tocante à inclusão das parcelas vincendas na base de cálculo dos honorários advocatícios, assim discorreu a Corte local (fl. 799):
+(..)
+Os honorários de sucumbência foram arbitrados corretamente: 10% sobre o valor das parcelas vencidas devidas pelas rés, cujo montante será apurado na fase de cumprimento de sentença. Descabida a utilização das parcelas vincendas como parâmetro para a verba honorária, justamente porque não se sabe por quanto tempo perdurará o pagamento do benefício previdenciário privado.
+(..) (grifei)
+Com efeito, registro que o agravante não impugnou, de forma específica, o fundamento doacórdão recorrido de que "Descabida a utilização das parcelas vincendas como parâmetro para a verba honorária, justamente porque não se sabe por quanto tempo perdurará o pagamento do benefício previdenciário privado", oque faz incidir o óbice doenunciadon. 283 da Súmula doSTF.
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
