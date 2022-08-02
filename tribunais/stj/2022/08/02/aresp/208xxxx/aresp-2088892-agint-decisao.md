@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de agravo interno interposto por Erbe Incorporadora 001 S.A.contra decisão monocrática da Presidência desta Corte (e-STJ, fls. 671-675) que não conheceu do seu recurso especial, concluindo pela incidência da Súmula 7/STJ.
+Nas razões do agravo interno (e-STJ, fls. 678-742), sustenta a insurgente a não incidência da Súmula 7/STJ.
+Pede, assim, a reconsideração do decisum.
+Sem impugnações(e-STJ, fl. 745-746).
+Brevemente relatado, decido.
+De fato, verifica-se que o acolhimento da tese recursal não demanda nova incursão no conjunto probatório dos autos, bastando para tanto a análise dodireito (se o simples descumprimento contratual, atraso de 4 (quatro)meses para a entrega do imóvel, é apto a gerar danos morais).
+Portanto, em juízo de retratação, nos termos do § 6º do art. 259 do RISTJ, reconsidero a decisão de fls. 671-675 (e-STJ) e passo a nova análise do recurso.
+Da acurada análise do acórdão recorrido, verifica-se que o único fundamento para o acolhimento da tese de ocorrência de danos morais foi a frustração dos adquirentes com o atraso na entrega do bem, não apontado o Tribunal de origem nenhuma circunstância especial que levasse àdemonstração do abalo psíquico.
+Veja-se às fls. 550 e553 (e-STJ):
+De acordo com o aludido contrato, cuja cópia se encontra às fls. 36/44,a data prevista para a entrega das chaves seria até outubro de 2015, a qual, somada à cláusula de tolerância de 180 (cento e oitenta) dias, teria, como prazo final abril de 2016. Todavia, restou incontroverso que a ré não efetuou a entrega do citado bem na data pactuada, tendo a entrega das chaves ocorrido em agosto de 2016.
+No que concerne ao dano moral, tem-se que o mesmo restou configurado, não se tratando de simples descumprimento contratual, considerando que o inadimplemento da ré frustrou legítima expectativa dos autores, que esperavam receber um apartamento em plenas condições de uso, na data combinada, o que, evidentemente, gera aflição e frustração no consumidor. Portanto, evidenciada a lesão imaterial, passa-se, por oportuno, à sua quantificação.
+Ocorre que a jurisprudência desta Corte é no sentido de que o atraso na entrega de imóvel não gera danos moraisin re ipsa, devendo o abalo moralser demonstrado através de uma circunstância especial.
+Nesse sentido:
+PROCESSUAL CIVIL E CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. PROMESSA DE COMPRA E VENDA. ATRASO NA ENTREGA DE IMÓVEL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ART. 1.022 CPC/15. INEXISTÊNCIA. ATRASO NA ENTREGA DAS CHAVES. MORA DO PROMITENTE VENDEDOR. REEXAME DE PROVAS. INTERPRETAÇÃO DE CLÁUSULA CONTRATUAL. SÚMULAS 5 E 7/STJ. RESTITUIÇÃO INTEGRAL. LUCROS CESSANTES. PREJUÍZO PRESUMIDO. DANO MORAL NÃO CONFIGURADO. INEXISTÊNCIA DE CIRCUNSTÂNCIA EXCEPCIONAL. AGRAVO INTERNO PROVIDO PARA DAR PARCIAL PROVIMENTO AO RECURSO ESPECIAL.
+1. Não prospera a alegada ofensa ao artigo 1.022 do Código de Processo Civil de 2015, tendo em vista que o v. acórdão recorrido adotou fundamentação suficiente, decidindo integralmente a controvérsia. É indevido conjecturar-se a existência de omissão, obscuridade ou contradição no julgado, apenas porque decidido em desconformidade com os interesses da parte. Precedentes.
+2. De acordo com o entendimento sumulado desta Corte, "na hipótese de resolução de contrato de promessa de compra e venda de imóvel submetido ao Código de Defesa do Consumidor, deve ocorrer a imediata restituição das parcelas pagas pelo promitente comprador - integralmente, em caso de culpa exclusiva do promitente vendedor/construtor" (Súmula 543/STJ).
+3. O atraso na entrega do imóvel enseja pagamento de indenização por lucros cessantes durante o período de mora do promitente-vendedor, sendo presumido o prejuízo do promitente-comprador. Precedentes.
+4. O simples inadimplemento contratual, em razão do atraso na entrega do imóvel, não é capaz, por si só, de gerar dano moral indenizável, sendo necessária a comprovação de circunstâncias específicas que podem configurar a lesão extrapatrimonial, o que não ocorreu no caso dos autos 5. Agravo interno provido para dar parcial provimento ao recurso especial, a fim de afastar o pagamento de indenização por danos morais.
+(AgInt no REsp n. 1.767.876/RJ, relator Ministro Raul Araújo, Quarta Turma, julgado em 27/6/2022, DJe de 29/6/2022.)
+Dessa forma, a decisão recorrida não refletiu o entendimento deste Tribunal, razão pela qual merece reforma.
+A análise da tese recursal de necessidade de revisão do valor arbitrado para a indenização por danos morais se mostra prejudicada.
+Ante o exposto, em juízo de retratação da decisão de fls. 671-675 (e-STJ), conheço do agravo para conhecer parcialmente do recurso especiale, nessa extensão, dar-lhe provimento para afastar a condenação imposta à recorrente de pagamento de indenização por danos morais.
+Mantenho o percentual de cálculo dos honorárias advocatícios de sucumbência, já que esta decisão altera a sua base (valor da condenação).
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECONSIDERAÇÃO DA DECISÃO ANTERIOR. NOVA ANÁLISE DO RECURSO. MERO DESCUMPRIMENTO CONTRATUAL. NÃO OCORRÊNCIA DE DANOS MORAIS. REVISÃO DO VALOR DA INDENIZAÇÃO. ANÁLISE PREJUDICADA. EM JUÍZO DE RETRATAÇÃO, AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, DAR-LHE PROVIMENTO.
