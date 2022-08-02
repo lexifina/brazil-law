@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de recurso especial interposto por APARECIDA CARLOS DE CAMARGO DE ASSIS, com respaldona alínea "a"do permissivo constitucional, contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃOassim ementado (e-STJ fl. 163):
+PREVIDENCIÁRIO. APOSENTADORIA POR IDADE RURAL. CONCESSÃO DO BENEFÍCIO. AUSÊNCIA DE COMPROVAÇÃO DAATIVIDADE RURAL. EXTINTO O FEITO SEM JULGAMENTO DOMÉRITO.
+- Requisito etário adimplido.- Cabe aqui a aplicação do Tema 629 do Superior Tribunal de Justiça: a ausência de conteúdo probatório eficaz a instruir a inicial, conforme determina o art. 283 do CPC, implica a carência de pressuposto de constituição e desenvolvimento válido do processo, impondo sua extinção sem o julgamento do mérito (art. 267, IV do CPC) e a consequente possibilidade de o autor intentar novamente a ação (art. 268 do CPC), caso reúna os elementos necessários à tal iniciativa.
+- Extinto o feito sem julgamento do mérito. Apelação prejudicada.
+Embargos de declaração rejeitados (e-STJ fls. 203/213).
+Em suas razões, a parte recorrente apontaviolação doart. 212, III, do CC/2002 e dos arts.369 e 442 do CPC/2015, ao argumento de que o depoimento das testemunhas deve ser considerado para fins de comprovação da sua atividade rural.
+Sem contrarrazões.
+Em juízo de retratação, o acórdão foi mantido, nos seguintes termos (e-STJ fl. 273):
+PREVIDENCIÁRIO. APOSENTADORIA POR IDADE RURAL. ART. 1040,II, DO NCPC. JUÍZO DE RETRATAÇÃO. RESP 1.348.633/SP. DECISÃOIMPUGNADA MANTIDA.- Apreciação adstrita a mensurar se a decisão anterior se sustenta no ponto especificamente tratado no leading case mencionado pela e. Vice-Presidência.
+- Não se trata, pois, de rejulgamento da causa, nem tampouco de averiguar de maneira ampla, a justiça da decisão e se o melhor direito foi, de fato, aplicado.
+- Acórdão impugnado que não se acha em descompasso com o paradigma em referência. Não se elidiu a possibilidade de comprovação, por testemunhas coesas, da labuta campesina desenvolvida em período posterior ao veiculado na prova material trazida. Sucedeu, sim, o descarte da documentação coligida e, nessas condições, à míngua de eficaz início de prova documental, afigurou-se imperiosa a extinção do feito, sem exame de mérito.
+- Decisão impugnada mantida.
+Juízo positivo de admissibilidade pelo Tribunal de origem às e-STJ fls. 283/285.
+Passo a decidir.
+Verifico que a pretensão recursal nãomerece prosperar.
+Na esteira do REsp 1.348.633/SP, sob o rito do art. 543-C do CPC/1973, a Primeira Seção reafirmou a orientação de ser possível o reconhecimento do tempo de serviço rural mediante a apresentação de início de prova material, desde que corroborado por testemunhos idôneos.
+Colhe-se dos autos que o Tribunal de origem modificoua sentença de improcedência do pedido, por entender que a parte autora não havia preenchido os requisitos legais para a concessão da aposentadoria por idade rural, a saber (e-STJ fl. 172):
+Postas as balizas, passa-se ao exame do caso dos autos.
+De pronto, verifica-se o cumprimento pelo autor do requisito etário em25/10/2010, incumbindo-lhe, pois, demonstrar atividade campestre, como rurícola, por174 meses.
+A título de início de prova material, a parte autora colacionou certidão de casamento, celebrado em 1977, em que seu marido acha-se qualificado como lavrador; certidão de imóvel adquirido pelo genitor da autora no ano de 1980; e comprovante de recebimento de benefício rural em nome da genitora, a partir de 1985.
+Os documentos apresentados, datados das décadas de 1970 e 1980, guardam significativa distância do termo em que a autora completou a idade necessária à obtenção do benefício, no ano de 2010.
+Há, portanto, um lapso temporal de vinte e cinco anos de vida laboral, sem qualquer início de prova material, malferindo o enunciado da Súmula 149 do Colendo Superior Tribunal de Justiça, que veda a comprovação da atividade rurícola, tão somente, por prova testemunhal.
+Destarte, ausente vestígio de prova documental quanto ao labor campesino da proponente, despicienda a verificação da prova testemunhal, por si só insuficiente a amparar a concessão do benefício perseguido. Aplicável, à espécie, o julgado proferido pelo C. Superior Tribunal de Justiça no REsp nº 1.352.721/SP, no qual se assentou, em sede de recurso repetitivo, que a falta de eficaz início de prova material apta à comprovação da atividade rurícola traduz-se em ausência de pressuposto de constituição e desenvolvimento válido do processo, dando ensejo à extinção do processo sem resolução de mérito..
+Dessa forma, verifica-se que o Tribunal de origem decidiu a questão ora ventilada com base na realidade delineada à luz do suporte fático-probatório dos autos, cuja revisão é inviável no âmbito do recurso especial diante do óbice estampado na Súmula 7 do STJ.
+Nesse sentido:
+PREVIDENCIÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.APOSENTADORIA RURAL. AUSÊNCIA DE COMPROVAÇÃO DO EXERCÍCIO DA ATIVIDADE RURAL. REAVALIAÇÃO PROBATÓRIA QUE CONFIRMA ESSA CONCLUSÃO.PROVA MATERIAL INCONSISTENTE E CONTRADITÓRIA. TESTEMUNHAS QUE NÃO CONFEREM AMPLITUDE AO INÍCIO DA PROVA MATERIAL. VÁRIOS LAPSOS DE ATIVIDADE URBANA NOS REGISTROS DO CNIS. DESCARACTERIZAÇÃO DA CONDIÇÃO DE SEGURADO ESPECIAL. CONJUNTO FÁTICO-PROBATÓRIO DESARMÔNICO. RECURSO DO PARTICULAR A QUE SE NEGA PROVIMENTO.
+1. O acórdão recorrido não destoa da jurisprudência do STJ ao afirmar que o exercício de atividade urbana, por si só, não descaracteriza a condição de Segurado especial, vez que se admite a descontinuidade no exercício da atividade rural.
+2. No caso dos autos, contudo, as provas materiais apresentadas estão em confronto com os registros do CNIS do autor, que apontam diversos vínculos de atividade urbana, suficientes a descaracterizar a sua condição de Trabalhador Rural.
+3. Neste caso, verifica-se que o acervo testemunhal produzido apresenta-se inadequado, por ser contraditório, para evidenciar a pretendida situação de Trabalhador Rural da parte autora.
+4. Agravo Interno do Particular a que se nega provimento. (AgInt no AREsp 1.372.614/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 26/10/2020, DJe 29/10/2020) .
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. ATIVIDADE RURAL. EFICÁCIA AMPLIATIVA DA PROVA TESTEMUNHAL. TEMPO DE SERVIÇO ANTERIOR À DATA DO DOCUMENTO MAIS ANTIGO TIDO POR DEMONSTRADO PELO TRIBUNAL A QUO.COMPROVAÇÃO DE TODO O PERÍODO CONTROVERTIDO. NÃO RECONHECIMENTO.REVISÃO DA CONCLUSÃO A QUE CHEGOU A CORTE DE ORIGEM. ÓBICE DA SÚMULA 7/STJ.
+1. O labor campesino, para fins de percepção de aposentadoria rural, deve ser demonstrado por início de prova material e ampliado por prova testemunhal, ainda que de maneira descontínua, no período imediatamente anterior ao requerimento, pelo número de meses idêntico à carência.
+2. No caso, a Corte de origem, após minucioso exame dos elementos fáticos contidos nos autos, consignou que, conquanto a prova testemunhal tenha sido suficiente para fins de reconhecimento do exercício de labor rural em período anterior à data do documento mais antigo, não teve o condão de ampliar a eficácia do início de prova material para todo o período controvertido.
+3. A alteração dessas conclusões, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático probatório constante dos autos, providência vedada em recurso especial, a teor do óbice previsto na Súmula 7/STJ.
+4. Agravo interno a que se nega provimento. (AgInt no AREsp 859.244/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 25/04/2019, DJe 29/04/2019).
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO EM RECURSO ESPECIAL.
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. APOSENTADORIA POR IDADE RURAL. REQUISITOS.
+SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. A decisão agravada, que deve ser mantida pelos seus próprios fundamentos, aplicou ao recurso especial o óbice da Súmula 7/STJ, pois rever a duração e o impacto dos vínculos trabalhistas urbanos na condição de segurada especial da agravante exigiria sim o revolvimento de fatos e provas, na medida que o Tribunal a quo não foi específico quanto ao ponto, não tendo sido opostos embargos de declaração para esclarecimentos pormenorizados dos acontecimentos no período da carência do benefício pleiteado.
+2. Agravo interno não provido. (AgInt no AREsp 1.077.269/SP, Rel. Ministro MAURO CAMPBELL MARQUES, Segunda Turma, DJe de 25/09/2017).
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
