@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso especial interposto pela GEAP AUTOGESTÃO EM SAÚDE (GEAP), com fundamento no art. 105, III, alíneas a e c, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina, assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. NEGATIVA DE COBERTURA. CIRURGIA DE IMPLANTE VALVAR TRANSCATETER (TAVI). SENTENÇA DE PROCEDÊNCIA.
+RECURSO DA RÉ.
+ADMISSIBILIDADE. EXISTÊNCIA DE ATO ILÍCITO, APLICABILIDADE DO CÓDIGO DE DEFESA DO CONSUMIDOR E A CONSEQUENTE INVERSÃO DO ÔNUS PROBATÓRIO QUE NÃO FIZERAM PARTE DA SENTENÇA. OFENSA AO PRINCÍPIO DA DIALETICIDADE RECURSAL. RECURSO NÃO CONHECIDO NOS PONTOS.
+MÉRITO. PLEITO DE REFORMA DA SENTENÇA AO ARGUMENTO DE QUE INEXISTE COBERTURA CONTRATUAL PARA O PROCEDIMENTO REQUISITADO. INSUBSISTÊNCIA. IMPRESCINDIBILIDADE DO PROCEDIMENTO CIRÚRGICO ATESTADA POR MÉDICO ESPECIALISTA. AUTORA COM DIAGNÓSTICO DE ESTENOSE AÓRTICA GRAVE. MOLÉSTIA ELENCADA NA CLASSIFICAÇÃO ESTATÍSTICA INTERNACIONAL DE DOENÇAS (CID). COBERTURA DEVIDA. EXEGESE DO ART. 10, CAPUT , DA LEI 9.656/98. ENTENDIMENTO JURISPRUDENCIAL MAJORITÁRIO NO SENTIDO DE QUE O ROL DA ANS É MERAMENTE EXEMPLIFICATIVO E QUE CONSISTE EM REFERÊNCIA BÁSICA PARA COBERTURA MÍNIMA OBRIGATÓRIA PARA OS PLANOS DE SAÚDE. OBRIGAÇÃO DE CUSTEIO MANTIDA.
+RECURSO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO (e-STJ, fl. 756).
+Irresignada, GEAP interpôs recurso especial, com base no art. 105, III, a e c, da CF, sustentando violação, além do dissídio jurisprudencial, dos arts. 1º, § 1º e 12, da Lei nº 9.656/1998, 4º, VII da Lei nº 9.961/00 e 186, 187 e 927 do CC/02. Alegou, em síntese, que (1)não estaria legal e contratualmente obrigado a custear o tratamento pleiteado, sobretudo ante a taxatividade do rol de procedimentos da ANS; e (2) inexiste ato ilícito da GEAP apto a ensejar indenização por dano moral.
+O apelo nobre foi admitido pelo TJSC (e-STJ, fls. 842/844).
+No âmbito do STJ, o recurso especial foi improvido em decisão monocrática de minha lavra nestes termos sintetizada:
+CIVIL. PROCESSUAL CIVIL. RECURSO ESPECIAL.RECURSO INTERPOSTO SOB A ÉGIDE DO NCPC.AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. CIRURGIA DE IMPLANTE VALVAR TRANSCATETER (TAVI). RECUSA. ROL DE PROCEDIMENTOS DA ANS. EXEMPLIFICATIVO. ENTENDIMENTO DA TERCEIRA TURMA. DANOS EXTRAPATRIMONIAIS.FALTA DE PREQUESTIONAMENTO. SÚMULASNºS282 E 356, DO STF.RECURSO ESPECIAL CONHECIDO E NÃO PROVIDO.
+Nas razões do presente agravo interno, aGEAP sustentouque não está legal e contratualmente obrigada ao custeio de tratamento que não consta no rol da ANS, que entende ser de natureza taxativa.
+É o relatório.
+DECIDO.
+A irresignação merece prosperar.
+De plano vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Do dever de cobertura
+Nas razões do presente agravo interno, a GEAP sustentou que não está legal e contratualmente obrigada ao custeio de tratamento que não consta no rol da ANS, que entende ser de natureza taxativa.
+Pois bem.
+ Em julgamento finalizado no dia 8 de junho de 2022, a Segunda Seção desta Corte Superior entendeu ser taxativo, em regra, o rol de procedimentos e eventos estabelecido pela Agência Nacional de Saúde (ANS), não estando as operadoras de saúde obrigadas a cobrirem tratamentos não previstos na lista. Contudo, o colegiado fixou parâmetros para que, em situações excepcionais, os planos custeiem procedimentos não previstos na lista, a exemplo de terapias com recomendação médica, sem substituto terapêutico no rol, e que tenham comprovação de órgãos técnicos e aprovação de instituições que regulam o setor.
+Por maioria de votos, a Seção definiu as seguintes teses:
+1. O rol de procedimentos e eventos em saúde suplementar é, em regra, taxativo;
+2. A operadora de plano ou seguro de saúde não é obrigada a arcar com tratamento não constante do rol da ANS se existe, para a cura do paciente, outro procedimento eficaz, efetivo e seguro já incorporado ao rol;
+3. É possível a contratação de cobertura ampliada ou a negociação de aditivo contratual para a cobertura de procedimento extra rol;
+4. Não havendo substituto terapêutico ou esgotados os procedimentos do rol da ANS, pode haver, a título excepcional, a cobertura do tratamento indicado pelo médico ou odontólogo assistente, desde que (i) não tenha sido indeferido expressamente, pela ANS, a incorporação do procedimento ao rol da saúde suplementar; (ii) haja comprovação da eficácia do tratamento à luz da medicina baseada em evidências; (iii) haja recomendações de órgãos técnicos de renome nacionais (como Conitec e Natjus) e estrangeiros; e (iv) seja realizado, quando possível, o diálogo interinstitucional do magistrado com entes ou pessoas com expertise técnica na área da saúde, incluída a Comissão de Atualização do Rol de Procedimentos e Eventos em Saúde Suplementar, sem deslocamento da competência do julgamento do feito para a Justiça Federal, ante a ilegitimidade passivaad causamda ANS.
+No caso dos autos, o TJSCalbergou tese no sentido da natureza meramente exemplificativa do rol da ANS, em dissonância com o novel entendimento adotado pelo STJ.
+Considerando que o Tribunal de Justiça de origem não se pronunciou sobre as peculiaridades do caso concreto,é forçoso o retorno dos autos para que a Corte Estadualaverigue se o caso em testilha se enquadra ou não nas exceçõessusotranscritas, que obrigam a operadora do plano de saúde ao custeio de tratamento independentemente de constar ou não no rol da ANS.
+Nessas condições, RECONSIDERO a decisão monocrática à e-STJ fls. 859/869 e, em nova análise,DOU PARCIAL PROVIMENTOao recurso especial para determinar o retorno dos autos ao TJSP, nos termos da fundamentação supra.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO EMRECURSO ESPECIAL.AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. TRATAMENTO QUE NÃO CONSTA NO ROL DA ANS. DEVER DE COBERTURA AFASTADO, EM REGRA. EXCEÇÕES. AVERIGUAÇÃO DAS PECULIARIDADES DO CASO CONCRETO.RETORNO DOS AUTOS AO TRIBUNAL DE JUSTIÇA DE ORIGEM PARA APLICAÇÃO DO NOVEL ENTENDIMENTO DO STJ SOBRE A MATÉRIA. DECISÃO RECONSIDERADA. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
