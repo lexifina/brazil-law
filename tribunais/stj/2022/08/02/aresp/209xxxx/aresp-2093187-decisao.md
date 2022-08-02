@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ADM ADMINISTRADORA DE BENEFÍCIOS EIRELI (ADM)contra decisão que negou seguimento ao seu apelo nobre manejado, por sua vez, contra acórdão do TJSP, de relatoria do Des. RÔMOLO RUSSO, assim ementado:
+Plano de saúde coletivo empresarial. Pequena e micro empresa (PME). Pleito de abusividade da cláusula contratual. Contrato celebrado em benefício de pequeno grupo familiar (dois beneficiários). Ausência de elemento essencial para caracterizar apólice coletiva (população de beneficiários). Aplicação excepcional da proteção conferida aos planos de saúde individuais. Tratamento legal e regulamentar análogo ao dispensado para apólice individuais. Reajuste por sinistralidade. Índices aplicados e custos dos serviços de assistência não explicitados.Cláusula contratual imprecisa. Dever de informação adequada e clara desatendido.Apelada que não se desincumbiu do ônus de comprovar as razões justificadoras do aumento expressivo das mensalidades (art.373, II, CPC/2015). Descumprimento, ademais, do que impõe a Resolução Normativa nº 389/2015 (art. 14). Evidenciado o desequilíbrio contratual no exercício abusivo do direito por força da desigualdade material de poder.Quebra do dever de lealdade e violação à boa- fé objetiva e à função social do contrato (arts.421 e 422 do Cód. Civil). Abusividade manifesta. Aplicação do índice de reajuste divulgado pela ANS para planos individuais.Sentença mantida. Recurso desprovido (e-STJ, fl. 418)
+Irresignada, ADM interpôs recurso especial com base no art. 105, III, alíneas a e c, da CF, apontando a violação aos arts. 940, 942 e 1022 do NCPC, além de dissídio jurisprudencial,ao sustentar que (1) ocorreu o prequestionamento implícito da matériapelo simples julgamento da tese jurídica; (2) o recurso não encontra óbice nas Súmulas nºs 5 e 7 do STJ, mas busca a revaloração do conjunto fático-probatório dos autos; (3) inexiste ilegalidade no reajuste praticado; (4) o valor da condenação extrapola o pedido autoral e é ultra petita.
+O recurso não foi admitido na origem (e-STJ, fls. 529/533)
+Nas razões do presente agravo, ADM alegou que não incidem os óbices apontados na decisão de inadmissibilidade.
+Foiapresentada contraminuta.
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que não merece prosperar.
+(1)Do art. 1022 do NCPC
+Nas razões do seu recurso, alegou a violação do art. 1.022, do NCPCsem indicar qualquer fundamentação a sustentar sua irresignação.
+Não houve a indicação das teses omitidas, em evidente alegação genérica de contrariedade ao referido dispositivo, aliás, a recorrente não opôs embargos de declaração.
+Os embargos de declaração foram opostos pelo BRADESCO.
+Nestes casos, ante a deficiente fundamentação do recurso, incide a Súmula nº284 do STF, por analogia: É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+Esse é o entendimento desta Corte, confira-se:
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ATRASO NA ENTREGA DE OBRA. MATÉRIA CONSTITUCIONAL. APRECIAÇÃO PELO STJ. IMPOSSIBILIDADE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA N. 284 DO STF. CITAÇÃO DE ARTIGOS. SÚMULA N. 284/STF. AUSÊNCIA DE INDICAÇÃO DOS DISPOSITIVOS VIOLADOS. SÚMULA N. 284/STF. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF e 211 DO STJ. MORA CONTRATUAL. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO DO ACÓRDÃO RECORRIDO. SÚMULA N. 283/STF. INADIMPLEMENTO. DESCARACTERIZAÇÃO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7/STJ. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83/STJ. DECISÃO MANTIDA.
+1. Ao Superior Tribunal de Justiça não cabe se manifestar sobre supostas violações de dispositivos constitucionais, sob pena de usurpação da competência do Supremo Tribunal Federal.
+2. Considera-se deficiente a fundamentação recursal que alega negativa de prestação jurisdicional, mas não demonstra, clara e objetivamente, qual o ponto omisso, contraditório ou obscuro da decisão agravada.
+(..)
+(AgInt no REsp n. 1.836.510/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 19/4/2021, DJe de 23/4/2021.)
+Não se conhece, portanto, da violação ao art. 1.022, do NCPC
+(2)Dos arts.940 e942 do NCPC
+No ponto, verifica-se que os citados preceitos não foram objeto de debate pelo acórdão recorrido se ressentindo do necessário prequestionamento.
+É exigência contida na própria previsão constitucional de interposição do recurso especial que a matéria federal tenha sido decidida em única ou última a instância.
+Não basta à parte discorrer sobre o dispositivo legal que entende infringido. É absolutamente necessário que a Corte recorrida tenha emitido juízo de valor sobre o referido preceito, o que não ocorreu na hipótese examinada.
+No caso, se aplicam as Súmulas nºs 282 e 356 do STF.
+Confira-se a jurisprudência:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA RECONSIDERAÇÃO. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. ART. 344 DO CPC. AUSÊNCIA DE PREQUESTIONAMENTO. INDEFERIMENTO DE PROVA TESTEMUNHAL.CERCEAMENTO DE DEFESA NÃO CONFIGURADO. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO E NEGAR PROVIMENTO AO RECURSO ESPECIAL. 1. Agravo interno contra decisão da Presidência que não conheceu do agravo em recurso especial, em razão da falta de impugnação específica de fundamentos decisórios. Reconsideração. 2. Fica inviabilizado o conhecimento de tema trazido na petição de recurso especial, mas não debatido e decidido nas instâncias ordinárias, porquanto ausente o indispensável prequestionamento. Aplicação das Súmulas 282 e 356 do STF. 3. Não há cerceamento de defesa quando o julgador, ao constatar nos autos a existência de provas suficientes para o seu convencimento, indefere pedido de produção de prova. Cabe ao juiz decidir, motivadamente, sobre os elementos necessários à formação de seu entendimento, pois, como destinatário da prova, é livre para determinar as provas necessárias ou indeferir as inúteis ou protelatórias. 4. Agravo interno provido para conhecer do agravo e negar provimento ao recurso especial. (AgInt no AREsp 1.896.553/SP, Rel. Ministro RAUL ARAÚJO, Quarta Turma, julgado em 20/09/2021, DJe 15/10/2021) .
+Nessas condições, CONHEÇO do agravo paraNÃO CONHECERdo recurso especial.
+MAJORO em 5% o valor dos honorários advocatícios anteriormente fixados em favor da recorrida, limitados a 20%, nos termos do art. 85, § 11, do NCPC.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PLANO DE SAÚDE. AGRAVO EM RECURSO ESPECIAL NO NCPC. VIOLAÇÃO DO ART. 1022 DO NCPC. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA Nº 284 DO STF. AUSÊNCIA DE PREQUESTIONAMENTO DOS PRECEITOS LEGAIS ARROLADOS. SÚMULAS N S 282 E 356 DO STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
