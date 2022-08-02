@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de conflito negativo decompetênciainstaurado entre o Tribunal de Justiçado Estado do Paraná (TJ/PR), suscitante, eo Juízo Federal e Juizado Especial de Guarapuava -SJ/PR.
+Consta, nos autos, quea Corte local declarou a incompetência da Justiça Estadual para julgar a apelação defensiva interpostacontra a sentença que condenou os réus Israel Hitner e Joel Vidal dos Santos como incursos no artigo 184, § 2º, do Código Penal, em razão de terem sido apreendidos transportando mídias digitais (CDs/DVDs) reproduzidas com violação de direito autoral, adquiridas no Paraguaie destinadas à comercialização no Brasil.
+O Ministério Público Federal manifestou-se pela competência federal.
+É o relatório.
+Decido.
+Cumpre registrar, inicialmente, que este conflito negativo de competência deve ser conhecido, porquanto se trata de incidente estabelecido entre juízes vinculados a tribunais diversos, nos termos do art. 105, I, "d", da Constituição Federal, razão pela qual passo ao seu exame.
+No caso dos autos, é possível observar que a ação iniciou-se no Juízo Federal. Porém, após acolher promoção ministerial, o Magistrado declinou da competência para a Justiça Comum Estadual, a qual, em 1º grau de jurisdição, proferiu sentença condenatória.Apenas, na segunda instância, reconheceu-se a incompetência da Justiça estadual e suscitou-se o presente conflito(e-STJ, fl. 658).
+Note-se que o TJPR anota a existência de tratados internacionais, bem como a transnacionalidade da conduta:
+Portanto, em se tratando de crime cujo bem jurídico tutelado são os direitos autorais, o Brasil ratificou a Convenção de Berna de 1886 (internalizada pelo Decreto nº 75.699/1975), a Convenção Interamericana de 1946 (internalizada pelo Decreto nº 21.713.699/1946) e a Convenção Universal dos Direitos do Autor de 1952 (internalizada pelo Decreto nº 48.458/1960).
+De igual modo, provado está o requisito da transnacionalidade da conduta, de modo que não há dúvidas de que o objeto material do delito fora adquirido no Paraguai, inclusive porque assim fora descrito na denúncia. (e-STJ, fl. 659)
+Portanto, na hipótese, estão preenchidos os requisitosdo art. 109, V, da CRFB. Logo, há de se reconhecer a competência da Justiça Federal. A propósito:
+CONFLITO NEGATIVO DE COMPETÊNCIA. INQUÉRITO POLICIAL. CD"S E DVD"S ADQUIRIDOS NO PARAGUAI E INTRODUZIDOS CLANDESTINAMENTE NO PAÍS. VIOLAÇÃO DE DIREITO AUTORAL (ART. 184, § 2º, DO CP). TRANSNACIONALIDADE DA CONDUTA. COMPETÊNCIA DA JUSTIÇA FEDERAL (ART. 109, V, DA CF/88).
+1. O art. 109, V, da CF/88 estabelece dois requisitos concomitantes e necessários para que se afete à Justiça Federal a competência para o julgamento do delito: a) a existência de tratado ou convenção internacional à qual o Brasil tenha aderido, que proteja o bem jurídico em questão; e b) a transnacionalidade da conduta, que se configura quando a execução do delito tenha se iniciado no país e o resultado ocorrido (ou que devesse ocorrer, na hipótese de tentativa) no estrangeiro, ou reciprocamente.
+2. Em se tratando de direitos autorais, o Brasil é signatário da Convenção de Berna/1886, da Convenção Interamericana/1946 e da Convenção Universal dos Direitos do Autor/1952.
+3. Comprovado nos autos que o investigado transportava CD"s e DVD"s gravados, falsificados, adquiridos no Paraguai e introduzidos irregularmente no País, configura-se a transnacionalidade da conduta.
+4. A despeito de o crime de violação de direito autoral infringir, em regra, apenas o interesse particular, presente a nota de transnacionalidade na conduta, é de se reconhecer a competência da Justiça Federal para o processamento e julgamento do crime, com base no art. 109, V, da CF/88.
+5. Conflito conhecido, para declarar competente para a condução do presente inquérito policial o Juízo Federal da 2ª Vara de Cascavel, Seção Judiciária do Paraná, o suscitado.
+(CC n. 144.072/PR, relator Ministro Reynaldo Soares da Fonseca, Terceira Seção, julgado em 25/11/2015, DJe de 1/12/2015.)
+PENAL. CONFLITO DE COMPETÊNCIA. CRIME DE VIOLAÇÃO DE DIREITO AUTORAL. CDS E DVDS. PRODUTOS APREENDIDOS NA ALFÂNDEGA BRASILEIRA NA PONTE INTERNACIONAL DA AMIZADE. TRANSNACIONALIDADE DO DELITO. CARACTERIZAÇÃO. COMPETÊNCIA DA JUSTIÇA FEDERAL.
+1. A apreensão de DVDs e CDs falsificados, com violação de direitos autorais (CP, art. 184, § 2º), se ocorrente em Posto de Fiscalização Aduaneira localizada na divisa entre Brasil e Paraguai, confere à conduta delituosa a característica de "crime transnacional", circunstância determinante da competência da Justiça Federal para processar e julgar a ação penal a ele correspondente (STJ, Terceira Seção, CC 119.105/PR, Rel. Ministro Walter de Almeida Guilherme  Desembargador convocado do TJ/SP , julgado em 08/10/2014;
+AgRg no REsp 1.376.680/PR, Rel. Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 22/04/2014).
+2. Conflito conhecido para declarar a competência do Juízo Federal da 2ª Vara Criminal de Foz do Iguaçu da Seção Judiciária do Estado do Paraná, ora suscitado.
+(CC n. 121.941/PR, relator Ministro Newton Trisotto (Desembargador Convocado do Tj/sc), Terceira Seção, julgado em 8/4/2015, DJe de 16/4/2015.)
+Ante o exposto, conheço do conflito, para declarar acompetênciado Juízo Federal e Juizado Especial de Guarapuava -SJ/PR.
+Publique-se. Intimem-se.
