@@ -1,0 +1,30 @@
+DECISÃO
+Vistos etc.
+Trata-se de embargos de declaração opostos por APARECIDO SANTAROZA e OUTROS contra decisão assim ementada (e-STJ Fl. 1466):
+AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. RECONHECIMENTO DA PRESCRIÇÃO INTERCORRENTE NA ORIGEM. HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA EM FAVOR DO ADVOGADO DA PARTE EXECUTADA. DESCABIMENTO. APLICAÇÃO DO PRINCÍPIO DA CAUSALIDADE. ACÓRDÃO RECORRIDO EM CONFORMIDADE COM O ENTENDIMENTO DESTA CORTE SUPERIOR. AGRAVO CONHECIDO PARA CONHECER DO RECURSO ESPECIAL E NEGAR-LHE PROVIMENTO.
+A parte embargante alega, em síntese: (i) omissão em relação ao procedimento adotado pelo Embargado com a penhora, mas sem que tivesse havido intimação dos ora Embargantes para a impugnação ao cumprimento de sentença; (ii) obscuridade a respedito da ausência de equivalência dos casos suscitados no acórdão com a própria decisão, pois não se trataria de ausência de bens penhoráveis e; (iii) omissão em relação à sucumbência ou mesmo do ônus da causalidade da entidade bancária que co-promoveu os recursos, haja vista que o Embargado recorre ativamente para buscar a reversão da prescrição intercorrente (e-STJ Fl. 1475).
+Impugnação à e-STJ Fls. 1.493-1.500
+É o breve relatório.
+Passo a decidir.
+Nos rígidos limites estabelecidos pelo art. 1.022 do Código de Processo Civil de 2015, os embargos de declaração destinam-se apenas a suprir omissão, afastar obscuridade, eliminar contradição ou sanar erro material eventualmente existentes no julgado e, excepcionalmente, atribuir-lhe efeitos infringentes quando algum desses vícios for reconhecido.
+Nesse sentido:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL - AGRAVO DE INSTRUMENTO NA ORIGEM - INTEMPESTIVIDADE - ACÓRDÃO DESTE ÓRGÃO FRACIONÁRIO QUE NEGOU PROVIMENTO AO RECLAMO. IRRESIGNAÇÃO DO EMBARGANTE.
+1. Os embargos de declaração somente são cabíveis quando houver, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material, consoante dispõe o artigo 1.022 do NCPC (art. 535 do CPC/73), o que não se configura na hipótese em tela, porquanto o aresto deste órgão fracionário encontra-se devida e suficientemente fundamentado. Inexistindo quaisquer das máculas previstas nos aludidos dispositivos, não há razão para modificar a decisão impugnada. Precedentes.
+2. Hipótese em que a negativa de provimento ao agravo regimental amparou-se na compreensão de que aplicável ao caso dos autos o enunciado da Súmula 83/STJ, porquanto os embargos de declaração foram acolhidos na origem com a consequente modificação da decisão agravada, motivo pelo qual era imprescindível a ratificação do recurso de agravo de instrumento interposto. Precedentes: AgRg no AREsp 160.361/PA, Rel. Min. LUIS FELIPE SALOMÃO, DJe 16/10/2012;REsp 1344256/SC, Rel. Min. SIDNEI BENETI, DJe 10/06/2013. Desse modo, os argumentos relativos ao mérito da pretensão recursal, além de dissociados das razões do acórdão embargado, traduzem manifesto intuito infringente, pretensão inviável em sede de aclaratórios.
+3.Embargos de declaração rejeitados. (EDcl no AgRg no REsp 1.535.085/GO, Rel. Ministro MARCO BUZZI, QUARTA TURMA, DJe 03/04/2017 g.n.)
+No caso sob apreciação, não há a configuração, no aresto ora embargado, de qualquer omissão, contradição, obscuridade ou erro material que permita a oposição dos aclaratórios.
+Na espécie, o decisum embargado decidiu a controvérsia de forma exauriente efundamentada, sem proposições inconciliáveis entre si, expondo os motivos que justificaram o não provimento do recurso.
+Conforme assentado na decisão embargada, o princípio da causalidade incide em desfavor do executado, pois é ele quem dá causa ao pedido executório ao não efetuar o pagamento ou não cumprir a obrigação de forma espontânea.
+Como se vê, busca o embargante o rejulgamento da causa, o que, na via estreita dos declaratórios, mostrava-se inadequado.
+Ademais, vale lembrar que, consoante jurisprudência desta Corte, "se os fundamentos do acórdão recorrido não se mostram suficientes ou corretos na opinião do recorrente, não quer dizer que eles não existam. Não se pode confundir ausência de motivação com fundamentação contrária aos interesses da parte, como ocorreu na espécie" (AgInt no REsp 1.584.831/CE, Rel. Ministro Humberto Martins, Segunda Turma, julgado em 14/6/2016, DJe 21/6/2016).
+Além disso, os embargos de declaração não se prestam a perquirições acerca do julgado, não cabendo à Turma julgadora, que não é órgão de consulta, responder a "questionários" postos pelo embargante, que não aponta, de forma concreta, nenhuma obscuridade, omissão ou contradição no acórdão.
+Com efeito, os embargos de declaração não podem ser utilizados ao "acréscimo de razões que para a parte pareçam significativas, mas que, para o julgador, se não irrelevantes, constituem questões superadas pelas razões de julgar" (EDcl nos EDcl no AgRg no AgRg no REsp 792.547/DF, Rel. Min. ALDERITA RAMOS DE OLIVEIRA (Desembargadora Convocada do TJ/PE), SEXTA TURMA, DJe de 19.8.2013).
+Ante o exposto, rejeito os embargos de declaração.
+Advirto novamente que a apresentação de incidentes protelatórios poderá dar azo à aplicação de multa.
+Intimem-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/2015). INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 1.022 DO CPC/2015.
+1. Consoante estabelecido pelo art. 1.022 do CPC, os embargos de declaração destinam-se apenas a suprir omissão, afastar obscuridade, eliminar contradição ou sanar erro material eventualmente existentes no julgado e, excepcionalmente, atribuir-lhes efeitos infringentes quando algum desses vícios for reconhecido.
+2. No caso dos autos, não há qualquer vício a ensejar esclarecimento ou a integração do que decidido no julgado.
+3. Ademais, os embargos de declaração não se prestam a perquirições acerca do julgado, não cabendo à Turma julgadora, que não é órgão de consulta, responder a "questionários" postos pelo embargante, que não aponta, de forma concreta, nenhuma obscuridade, omissão ou contradição no acórdão.
+4. EMBARGOS DE DECLARAÇÃO REJEITADOS.
