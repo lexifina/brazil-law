@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de Mateus Henrique Lopes Cruz- presopreventivamente pela suposta prática dodelitode tráfico de drogas -, em que se aponta como autoridade coatora o Tribunal de Justiça de Minas Gerais, que denegou a ordem no writ ali impetrado, mantendoa prisão preventiva decretada pelo Juízo de Direito da Central de Recepção de Flagrantesda comarca de Belo Horizonte/MG (Autos n. 5085955-33.2022.8.13.0024).
+Aqui, alega a defesa constrangimento ilegalna decretação e manutenção da prisão preventiva do paciente.
+Aduz que, no caso em apreço, inexistem indícios suficientes de autoria para imputar ao paciente a prática do delito tipificado no art. 33 da Lei 11343/06, na medida em que ao volver às declarações da policial condutora, resta confirmado que em busca pessoal ao mesmo nada de ilícito foi encontrado, uma vez que a sacola contendo substâncias entorpecentes foi localizado ao solo (fl. 6).
+Salienta queregistros de Inquéritos Policiais, Ações Penais e Atos Infracionais em curso não são fundamentos idôneos a embasar decretação de prisão preventiva, sendo incapazes de comprovar a alta periculosidade do paciente (fl. 9).
+Postula, ao final, a concessão da ordem,reformando-se o v. acórdão combatido e determinando-se a expedição do competente alvará de soltura para que responda ao processo em liberdade. Subsidiariamente, requer a aplicação de cautelar diversa da prisão preventiva, elencadas no art. 319 do Código de Processo Penal, tendo em vista que se mostra suficiente e proporcional ao presente caso (fl. 10).
+Liminar indeferida (fls. 137/138).
+Informações prestadas (fls. 140/141 e 144/147).
+O Ministério Público Federal ofereceu parecer pela denegação da ordem (fls. 152/155).
+É o relatório.
+De pronto,"Não cabe, em sede de habeas corpus, proceder ao exame da veracidade do suporte probatório que embasou o decreto deprisãopreventiva. Isso, porque, além de demandar o reexame de fatos, é suficiente para o juízo cautelar a verossimilhança das alegações, e não o juízo de certeza, próprio da sentença condenatória" (STF, Segunda Turma, RHC n. 123.812/DF, relator Ministro TEORI ZAVASCKI, DJe de 17/10/2014).(AgRg no HC n. 738.986/SP, Relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 14/6/2022, DJe de 20/6/2022).
+Quanto aos fundamentos da prisão preventiva o Tribunal a quo assim decidiu (fls. 131/132):
+ ..
+Analisando-se detidamente os autos, constata-se que a decisão constritiva de liberdade restou suficientemente fundamentada, presentes nos autos os requisitos do art. 312 do CPP, salientando a Il. Magistrada a reiteração delitiva do paciente, fazendo-se necessária a custódia para garantia da ordem pública. Confira-se trecho do decisum:
+"(..) A gravidade concreta dos fatos corrobora a necessidade da conversão da prisão em flagrante em preventiva, para a garantia da ordem pública e da instrução criminal, sobretudo diante da reiteração delitiva do autuado Mateus Henrique Lopes Cruz que, apesar de primário, foi beneficiado com o deferimento de liberdade provisória por este Juízo muito recentemente, em 16/04/2022, ocasião em que fora preso em flagrante pela prática anterior de idênticodelito de tráfico ilícito de entorpecentes, oportunidade em que foram impostas medidas cautelares diversas da prisão, dentre elas a monitoração eletrônica, que se mostrou absolutamente inócua para afastá-lo da prática delitiva.
+Diante do exposto, CONVERTO A PRISÃO EM FLAGRANTE EM PRISÃO PREVENTIVA DOAUTUADO MATEUS HENRIQUE LOPES CRUZ, nascido em 16/06/2003, nos termos do artigo 312,c/c artigo 313, I do CPP" (ordem 07)
+Conforme bem salientado pela d. autoridade coatora e em consulta a FAC constante às fls. 58/63 do documento de ordem 02, verifica-se que o paciente fora recentemente beneficiado por alvará de soltura (16/04/2022), voltando, contudo, a reiterar em práticas delitivas, circunstância a demonstrar a insuficiência das medidas cautelares alternativas do art. 319 do CPP.
+Ora, a reiteração do acusado em práticas delituosas causa, indubitavelmente, instabilidade social, justificando-se, assim, a necessidade da custódia cautelar para a garantia da ordem pública, nos termos do art. 312 do CPP. ..
+Pois bem, não obstante a ausência de violência ou grave ameaça,verifica-se, dos excertos transcritos, que há risco concretodereiteraçãodelitiva, poiso paciente foi preso em flagrante quando estava em liberdade provisória,como monitoramento eletrônico, por anterior prisão em flagrante pelo delito de tráfico de drogas,não havendo assim qualquer ilegalidade a ser sanada.
+Com efeito, a jurisprudência desta Corte de Justiça é firme ao asseverarque a existência de inquéritos, ações penais em curso ou condenaçõesdefinitivas denotam o risco de reiteração delitiva e, assim, constituemtambém fundamentação idônea a justificar a segregação cautelar (RHC n.76.929/MG, Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em17/11/2016, DJe 29/11/2016) - (HC n. 415.653/RJ, Ministro Antonio SaldanhaPalheiro, Sexta Turma, DJe 9/8/2018).
+Ainda nesse sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS.PRISÃO PREVENTIVA. REITERAÇÃO DELITIVA. FUNDAMENTAÇÃO VÁLIDA. RECURSODESPROVIDO.
+1. De acordo com o art. 312 do Código de Processo Penal, a prisãopreventiva poderá ser decretada para garantia da ordem pública, da ordemeconômica, por conveniência da instrução criminal ou para assegurar aaplicação da lei penal, desde que presentes prova da existência do crime eindícios suficientes de autoria.
+2. Na hipótese, a custódia cautelar está suficientemente fundamentada nagarantia da ordem pública, diante do risco de reiteração delitiva doagente, pois o réu registra outro processo em andamento pela prática dodelito de tráfico de drogas, no qual lhe fora concedida liberdadeprovisória meses antes, e voltou a delinquir, sendo preso em flagrante com7 porções de cocaína, 12 porções de maconha e 30 pedras de crack.
+3. Agravo desprovido.(AgRg no HC n. 731.975/SP, relator Ribeiro Dantas, Quinta Turma, DJe de20/5/2022.)
+Cumpre salientar que se mostra indevida a aplicação de medidas cautelares
+diversas da prisãoquando evidenciada a sua insuficiência para acautelara ordem pública (HC n. 446.504/SP, Ministro Reynaldo Soares da Fonseca,Quinta Turma, DJe 12/6/2018).
+Ante o exposto, denego a ordem de habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS (145 G DE MACONHA E 61 G DE COCAÍNA). PRISÃO PREVENTIVA. REITERAÇÃO DELITIVA. FUNDAMENTAÇÃO VÁLIDA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO.
+Ordem denegada.
