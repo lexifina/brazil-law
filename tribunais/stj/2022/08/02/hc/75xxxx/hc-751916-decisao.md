@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se dehabeas corpusimpetrado em benefício de TIAGO SANTOS SILVA, apontando-se como autoridade coatora o Tribunal de Justiça do Distrito Federal e dos Territórios, que negou provimento ao Agravo em Execução n. 0706442-03.2022.8.07.0000, nos termos da seguinte ementa (fls. 15/16):
+AGRAVO EM EXECUÇÃO. LIVRAMENTO CONDICIONAL. REQUISITO SUBJETIVO. ART. 83 DO CP. FALTA GRAVE. ALTERAÇÃO LEGISLATIVA. LEI Nº 13.964/2019. COMPORTAMENTO SATISFATÓRIO. DURANTE A EXECUÇÃO DA PENA. INOBSERVÂNCIA.
+I - Nos termos do art. 83 do CP, a concessão do livramento condicional exige o preenchimento de requisitos objetivos e subjetivos, notadamente o "comprovado comportamento satisfatório durante a execução da pena".
+II - A Lei nº 13.964/2019 estabeleceu como requisito objetivo a ausência de falta grave nos últimos doze meses. Tal critério somente impede a concessão, mas não interrompe o prazo para o livramento condicional, nos termos da Súmula 441/STJ.
+III - A prática de falta grave, no entanto, afasta o merecimento e a presunção de que o apenado não voltará a delinquir, porquanto não observado o comportamento satisfatório durante a expiação, requisito mantido pela nova lei.
+IV - Não há que se falar em limitação temporal para a observação do requisito subjetivo, devendo ser analisado o comportamento do apenado durante todo o período do cumprimento da pena, excetuando-se faltas disciplinares muito antigas.
+V - Não se verifica afronta à individualização da pena, proporcionalidade ou bis in idem, mas observação do proceder recalcitrante do apenado que não demonstra aptidão para retornar ao convívio social, em razão de falta grave, cujos efeitos refletem em vários aspectos da expiação.
+VI - Tratando-se de exigência estabelecida no Código Penal, os prazos dispostos no Código Penitenciário ou em decretos presidenciais concessivos de indulto, estes últimos com requisitos da competência privativa do Presidente da República, não são aplicáveis.
+VII - Recurso conhecido e desprovido.
+Aqui, a defesa alega que a última falta grave cometida pelo paciente refere-se ao cometimento de crime doloso em 11/02/2016, ou seja, há mais de 6 anos! (fl. 5) e queA atribuição de efeitos eternos às faltas graves realizadas na execução penal, segundo decidiu o acórdão, representa violação aos princípios da razoabilidade, proporcionalidade e ressocialização (fl. 6).
+Requer, assim, a concessão da ordem para que seja deferido o livramento condicional (fl. 13).
+Informações prestadas (fls. 535/541).
+O Ministério Público Federal ofereceu parecer pelo não conhecimento do habeas corpus (fls. 535/541).
+É o relatório.
+No caso, o Juízo da execução indeferiu o pedido de livramento condicional, afirmando que o requisito subjetivo não está adimplido, uma vez que, conquanto não haja notícia da prática de falta grave nos últimos 12 meses, o sentenciado, que já cumpria pena por roubo circunstanciado, praticou 03 (três) crimes dolosos durante o cumprimento da reprimenda, quais sejam, receptação, porte ilegal de arma de fogo de uso, não permitido e tráfico ilícito de entorpecentes (IPs 208/13 - 8ªDP, 18/14 - 8ªDP e 97/16 - DPF) não preenchendo, portanto, a exigência do art. 83, III, "a", do CP (fl. 415).
+O Tribunal a quo manteve o indeferimento, asseverando quenão há que se falar, outrossim, em perpetuação da falta grave, mas na consideração de que o apenado não apresenta o comportamento que se espera quando beneficiado com o cumprimento da pena em meio diverso do fechado. (fl. 21).
+Assim, não diviso constrangimento ilegal a ser reparado por esta Corte Superior, uma vez que o benefício foi indeferido com fundamento no histórico prisional conturbado, do qual consta a prática de novos delitos durante o cumprimento da pena,o que justifica o indeferimento do pleito.
+Segundo o entendimento desta Corte,não obstante a inclusão da alínea b no inciso III do art. 83 do Código Penal pela Lei n. 13.964/2019 - introduzido com o objetivo de impedir a concessão do livramento condicional quando há falta grave nos últimos 12 meses - a ausência de falta grave no mencionado período não é suficiente para satisfazer o requisito subjetivo exigido para a concessão do livramento condicional, nem sequer que eventuais faltas disciplinares ocorridas anteriormente não possam ser consideradas pelo Juízo das Execuções Penais para aferir fundamentadamente o mérito do Apenado. (AgRg no HC n. 725.280/SP, Ministra Laurita Vaz, Sexta Turma, julgado em 15/3/2022, DJe 22/3/2022).
+Firmada essa premissa, urge ressaltar que a estreita via dohabeas corpusnão se presta a contrariar o entendimento firmado pelas instâncias ordinárias acerca do preenchimento ou não do requisito subjetivo, dada a necessidade de incursão na seara fático-probatória, insuscetível nesta sede.
+Nesse sentido:
+EXECUÇÃO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS.LIVRAMENTO CONDICIONAL. REQUISITO SUBJETIVO NÃO PREENCHIDO. INEXISTÊNCIADE ILEGALIDADE. ORDEM DENEGADA. AGRAVO DESPROVIDO.
+1. A Corte de origem logrou fundamentar o indeferimento do livramento condicional pela ausência de preenchimento do requisito subjetivo, considerando, para tanto, o histórico prisional desfavorável do agravante, no qual consta, além de falta grave, o cometimento de crimes durante o cumprimento de pena em prisão domiciliar, o que evidencia a idoneidade da fundamentação utilizada e a inexistência de ilegalidade que justifique a concessão da ordem.
+2. É firme o posicionamento desta Corte Superior de ser inviável, em habeas corpus, desconstituir a conclusão a que chegaram as instâncias ordinárias sobre o não preenchimento do requisito subjetivo, uma vez que tal providência implica o reexame do conjunto fático-probatório, procedimento incompatível com os estreitos limites da via eleita.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 656.999/SP, Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 22/6/2021, DJe 30/6/2021)
+Ante o exposto,denegoa ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. INDEFERIMENTO. DECISÃO FUNDAMENTADA. AUSÊNCIA DO REQUISITO SUBJETIVO. PARTICULARIDADES DO CASO CONCRETO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE NA VIA ELEITA. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Ordem denegada.
