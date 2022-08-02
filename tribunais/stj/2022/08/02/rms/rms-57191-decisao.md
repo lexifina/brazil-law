@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso ordinário em mandado de segurança interposto por JOSÉ FRANCISCO RODRIGUES DA SILVA contra acórdão do Tribunal de Justiça do Rio Grande do Sulassim ementado (e-STJ fl. 344):
+Mandado de segurança. Ato judicial da Central de Conciliação e Pagamento de Precatórios do Tribunal de Justiça. Indeferimento do pedido de preferência de recebimento de honorários sucumbenciais em precatório expedido em nome da parte. O Órgão Especial tem jurisprudência de que inexiste direito líquido e certo à pretensão de individualização dos honorários advocatícios da condenação representada em precatório contra a Fazenda Pública, justificando o indeferimento da petição inicial do mandado de segurança. Os honorários advocatícios sucumbenciais possuem natureza alimentar e direito a pagamento preferencial, mas é vedado o fracionamento ou a repartição do valor da execução, o que difere de postular de forma autônoma, em execução autônoma ou em litisconsórcio ativo facultativo, cuja prova não demonstra. Executando-se os honorários juntamente com o crédito da parte, inexiste direto à preferência em favor do advogado. Mandado de segurança denegado, por maioria.
+Narra o recorrente, em resumo, que: (a) o valor foi executado conjuntamente, em litisconsórcio ativo com a credora principal; (b) devem prevalecer aSúmula85/STJ e a vinculante n. 47/STF; (c) se a verba é independente e alimentar, o credor dos honorários advocatícios não se confunde com o credor principal.
+Contrarrazões (e-STJ fls. 425/430).
+Parecer do MPF em e-STJ fls. 448/454, opinando pelo não provimento do recurso.
+É o que importava relatar.
+Dito isso, entendo que o recurso não merece guarida.
+Muito embora o impetrante sustente que a execução, no particular, operou-se em litisconsório entre ele e a credora principal,e-STJ fl. 60, verifica-se que, na realidade, não houve a execução em nome de ambosou de maneira autônoma pelo advogado.
+Tanto é que o recorrente foi intimado por três vezes para demonstrar ter promovido execução em nome próprio ou de maneira autônoma (e-STJ fls. 207, 213 e 220), sem sucesso.
+Não se desconhece a autonomia entre o crédito do advogado (honorários sucumbenciais) e da parte. Para essa autonomia se materializar em expedição de requisitórios independentes, compete à parte interessada (o advogado) requerer isso desde o início, o que não aconteceu na espécie.
+No caso, é inaplicável o entendimento sufragado no julgamento do REsp 1.347.736/RS (sob o rito do art. 543-C do CPC/1973), porquanto a execução apenas foi ajuizada em nome da credora principal, sem que o advogado credor também constasse do polo ativo, razão pela qual é defeso o fracionamento da execução (EDcl no AgInt no RMS n. 51.980/RS, rel. Ministro Benedito Gonçalves, Primeira Turma, julgado em 16/5/2022, DJe de 19/5/2022).
+O acórdão a seguir bem resume a solução a ser dada ao particular:
+PROCESSUAL CIVIL. RECURSO EM MANDADO DE SEGURANÇA. EXECUÇÃO. HONORÁRIOS ADVOCATÍCIOS. CRÉDITO AUTÔNOMO. POSSIBILIDADE DE COBRANÇA MEDIANTE RPV, NO REGIME DE LITISCONSÓRCIO ATIVO, ANTES DA EXPEDIÇÃO DO PRECATÓRIO.
+1. A Primeira Seção do STJ, no julgamento do REsp 1.347.736/RS, na forma do art. 543-C do CPC/1973, admitiu a execução autônoma dos honorários de sucumbência mediante requisição de pequeno valor mesmo quando o valor principal siga a sistemática dos precatórios. Estabeleceu que, em se tratando de crédito autônomo do causídico, inexiste fracionamento do montante executado, podendo o profissional promover a sua execução nos autos em regime de litisconsórcio ativo voluntário.
+2. O Plenário do STF, no exame do RE 564.132/RS, também admitiu o direito do advogado à execução autônoma, destacando, porém, que a separação dos valores deve ocorrer antes da expedição do ofício requisitório.
+3. No caso, foi ajuizada uma única execução pela parte e expedido apenas um precatório, ficando desconfigurado o alegado direito. A decisão ora impugnada, portanto, está consonante com a jurisprudência do STJ e a do STF.
+4. Recurso em mandado de segurança a que se nega provimento.
+(RMS n. 41.561/RS, relator Ministro Og Fernandes, Segunda Turma, julgado em 20/3/2018, DJe de 23/3/2018.)
+Ante o exposto, nos termos do art. 34, XVIII, "b", do RISTJ, NEGO PROVIMENTO ao recurso.
+Publique-se. Intimem-se.
