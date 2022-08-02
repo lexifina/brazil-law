@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso interposto porMARCOS CEZAR DO NASCIMENTOcontra o acórdão doTRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃOno HC n. 5015164-96.2022.4.04.0000, lavrado nos termos desta ementa (fl. 151):
+HABEAS CORPUS. PENAL. PROCESSUAL PENAL. OPERAÇÃO CARGUEIRO. PRISÃO PREVENTIVA. PRESSUPOSTOS PRESENTES E REFORÇADOS PELA SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. MANUTENÇÃO. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. EXCESSO DE PRAZO. NÃO DEMONSTRADO.
+1. Presentes os pressupostos da prisão preventiva do paciente. Necessidade de manutenção da medida, porquanto permanecem as hipóteses ensejadoras da segregação cautelar, decretada para garantir a aplicação da lei penal.
+2. As condições pessoais favoráveis não ensejam a automática revogação da constrição quando presentes as premissas legais a sua decretação.
+3. O constrangimento ilegal por excesso de prazo da prisão só pode ser reconhecido quando a demora for injustificada, impondo-se a adoção de critério de razoabilidade no exame da ocorrência de constrangimento ilegal.
+4. Presentes os pressupostos para a decretação da prisão preventiva, não há falar em conversão desta para outra medida cautelar elencada no art. 319 do CPP, uma vez que tais não seriam suficientes para resguardar a ordem pública e obstar o agir delituoso do paciente.
+5. As alegações do impetrante não afastaram os anteriores fundamentos fáticos e jurídicos que motivaram a prisão preventiva do paciente.
+6. Ordem de habeas corpus denegada.
+O recorrente repisa a argumentação feita na inicial dowrit, sustentando que faltam os pressupostos necessários para a manutenção da segregação cautelar, destacando que não estava foragido,visto que não havia contra si um édito condenatório e, somente é foragido aquele que, possui sentença condenatória transitada em julgado, se esconde para não cumprir a pena. Totalmente diverso da situação do paciente, que se ocultou da prisão que considerava ilegal. Há grande diferença entre oculto e foragido(fl. 162).
+Requer aimediataexpedição de alvará de soltura mediante medidas cautelares diversas da prisão com uso de tornozeleira eletrônica e, ao final, a reforma do acórdão e o provimento do recurso, reconhecendo-se a ilegalidade da prisão cautelar.
+Indeferida a liminar, prestadas as informações de praxe, foi noticiado que, após o julgamento da apelação, a defesa opôs embargos de declaração, não acolhidos. Interpostos novos embargos de declaração pela defesa, encontram-se pendentes de julgamento(fl. 193).
+O Ministério Público Federal opinou, pelas palavras do Subprocurador-Geral da República Luciano Mariz Maia, pelo desprovimento do recurso (fls. 203/206).
+É o relatório.
+In casu, o recurso não comporta provimento.
+Ao manter a prisão cautelar do recorrente, na sentença condenatória, disse a Magistrada de piso que, considerando a confirmação em sentença de todas as imputações lançadas em desfavor de MARCOS CEZAR DO NASCIMENTO neste processo criminal, e os fundamentos apresentados no item 6 da fundamentação desta sentença acerca dos 07 (sete) anos que o ora condenado deliberadamente permaneceu foragido da Justiça, bem como decisões anteriores proferidas neste processo, mantenho a prisão preventiva de MARCOS CEZAR DO NASCIMENTO para assegurar a aplicação da lei penal(fl. 103 - grifo nosso).
+O Tribunal de Justiça, por sua vez, deixou consignado, no acórdão, que, em que pese os argumentos da defesa, os fundamentos que embasaram a manutenção da prisão preventiva em face do ora paciente permanecem hígidos, inexistindo nenhum motivo ou elemento probatório novo que torne insubsistente a fundamentação do decreto prisional(fl. 148).
+Pois bem. Conforme reiterada jurisprudência deste Superior Tribunal, a prisão que antecede a condenação transitada em julgado só pode ser imposta ou mantida quando evidenciada, com explícita e concreta fundamentação, a necessidade da rigorosa providência, como no caso dos autos, pois não se pode fechar os olhos ao fato de que o recorrente se evadiu dodistrito da culpa por longos sete anos.
+Tal circunstância representa elemento concreto que justifica a prisão para garantia da ordem pública.
+Nesse sentido:HC n. 520.659/BA, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 6/8/2021; e AgRg no HC n. 629.342/SC, Ministro Nefi Cordeiro, Sexta Turma, DJe 8/2/2021.
+Com razão o nobre Subprocurador-Geral da República quando destacou, em seu parecer, queo juiz processante, respaldado pelo Tribunal a quo, manteve a custódia cautelar à vista de circunstância concreta indicativa da efetiva necessidade da medida, como forma de assegurar a aplicação da lei penal, qual seja o longo período em que o paciente permaneceu foragido - cerca de sete anos -, deliberadamente ocultando-se da Justiça, tanto que sua prisão somente foi efetivada em 23/06/2021, em outro estado da Federação(fl. 205).
+Ante o exposto, à vista dos precedentes e do parecer,nego provimentoao recurso em habeas corpus.
+Publique-se.
+EMENTA
+RECURSO EM HABEAS CORPUS. LATROCÍNIO TENTADO, ROUBO QUALIFICADO E FORMAÇÃO DE QUADRILHA (OPERAÇÃO CARGUEIRO).DIREITO DE RECORRER EM LIBERDADE. FUNDAMENTAÇÃO IDÔNEA. EVASÃO DO DISTRITO DA CULPA POR LONGOS SETE ANOS. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. PARECER ACOLHIDO.
+Recurso improvido.
