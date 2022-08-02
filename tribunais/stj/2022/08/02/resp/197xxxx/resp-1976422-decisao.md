@@ -1,0 +1,57 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão do Tribunal Regional Federal da 4ª Região cuja ementa é a seguinte:
+ADMINISTRATIVO. SERVIDOR PÚBLICO. AÇÃO CIVIL PÚBLICA. SINDICATO. ADICIONAL DE INSALUBRIDADE OU PERICULOSIDADE. LEI Nº 8.112/90 E LEI Nº 8.270/91. ORIENTAÇÃO NORMATIVA ON-SEGEP/MPOG Nº 04, DE 14-02-2017 E Nº 06/2013/SRH/MPOG. PODER REGULAMENTAR. LIMITES.
+Os embargos de declaração opostos foram rejeitados.
+No recurso especial, interposto com base na alínea a do permissivo constitucional, a recorrente aponta ofensa ao art. 1.022, II, do CPC/2015, arguindo ausência de manifestação do órgão julgador acerca das questões suscitadas, "especificamente, o Tribunal a quo se negou a analisar os arts. 61, IV e 68 da Lei 8.112/90 e art. 195 da CLT, normas que determinam que o adicional de insalubridade só é devido no caso de permanência habitual em área de risco e em situação de exposição contínua, sendo, portanto, devida essa verba tão somente em pagamento ao trabalho executado em condições consideradas anormais, mediante comprovação de laudo técnico elaborado por Médico do Trabalho ou Engenheiro do Trabalho".
+No mérito, alega violação aos arts. 61, IV, 68, 70, da Lei 8.112/90; 189,190, 195 da CLT; 12 da Lei 8.270/91; 2º-A da Lei 9.494/97; 16, 17 e 18 da Lei 7.347/85, porquanto, em síntese, "não pode existir interpretação em contrariedade ao interesse público, especialmente em face do princípio da legalidade, que tem assento constitucional e na legislação atinente", (..) "em verdade, é o acórdão recorrido que extrapola a Lei, violando o art. 68 da Lei 8.112/90 art. 195 da CLT, ao determinar, genericamente, e sem prova técnica, que os servidores podem receber adicional de insalubridade sem estarem expostos com habitualidade a agente nocivo biológicos".
+Em suas contrarrazões, o recorrido pugna pelo não conhecimento do recurso ou, alternativamente, pelo seu não provimento.
+O recurso foi admitido pela decisão de fls. 890/891.
+É o relatório. Passo a decidir.
+O Tribunal de origem decidiu que:
+As leis nº 8.112/90 e nº 8.270/91 preveem a percepção dos adicionais de insalubridade e periculosidade, pelos servidores públicos federais, nos termos das normas legais e regulamentares pertinentes aos trabalhadores em geral.
+Não há controvérsia quanto à possibilidade do Ministério do Planejamento, Orçamento e Gestão expedir atos normativos sobre a concessão de adicionais ocupacionais em favor dos servidores públicos federais. Contudo, o poder regulamentar encontra limites na legislação aplicável a matéria, de modo que é conferido à Administração a possibilidade de editar normas para complementar a lei reguladora, não podendo alterar os critérios já estabelecidos.
+As Orientações Normativas nº 06/2013/SRH/MPOG e ON-SEGEP/MPOG nº 04, de 14/02/2017 extrapolaram o seu poder regulamentar ao criar a necessidade de "contato táctil" para reconhecimento do adicional de insalubridade por risco biológico, não previstos na legislação trabalhista, gerando vedações ao direito do servidor inexistentes nas normas que regemos institutos em discussão, em flagrante inovação legislativa.
+Depreende-se dos autos que o Tribunal de origem, de modo fundamentado, tratou das questões suscitadas, resolvendo de modo integral a controvérsia posta.
+Na linha da jurisprudência desta Corte, não há falar em negativa de prestação jurisdicional nem em vício quando o acórdão impugnado aplica tese jurídica devidamente fundamentada, promovendo a integral solução da controvérsia, ainda que de forma contrária aos interesses da parte.
+Assim, não havendo no acórdão recorrido omissão, obscuridade, contradição ou erro material, não fica caracterizada ofensa ao art. 1.022 do CPC/2015.
+No mérito, não é possível o conhecimento do recurso especial, porquanto circulares, resoluções, portarias, súmulas, bem como dispositivos inseridos em regimentos internos não se enquadram no conceito de lei federal previsto no art. 105, inciso III, alínea a, da Constituição Federal. Ademais, no caso, constata-se que a verificação da violação de lei federal implicaria necessariamente a análise de orientação normativa ministerial
+Confiram-se:
+PROCESSUAL CIVIL. ADMINISTRATIVO. RESOLUÇÃO N. 289/83 DO CONFEA. INDICAÇÃO DE REPRESENTANTE PARA OS CONSELHOS REGIONAIS. EQUIPARAÇÃO ENTRE FACULDADE E UNIVERSIDADE.
+INTERPRETAÇÃO DA RESOLUÇÃO. IMPOSSIBILIDADE.
+1. A controvérsia dos autos foi decidida pela origem com base no entendimento de que a Resolução n. 289/83, editada pelo CONFEA, extrapolou os limites previstos nas Leis 4024/61, 5540/68 e 9394/96, ao indicar para a composição dos conselhos regionais um representante para cada instituição de ensino superior, equiparando as faculdades às universidades.
+2. Conferir a interpretação que se quer dar ao presente recurso, de que a Resolução 389/03 do CONFEA tem respaldo legal e está compatível com o disposto nas referidas leis, demandaria interpretação de ato normativo secundário, o que é vedado nesta via, por não se enquadrar no conceito de "tratado ou lei federal" de que cuida o art. 105, III, "a", da CF. Agravo regimental improvido.
+(AgRg no REsp n. 1.478.626/SP, Relator Ministro Humberto Martins, Segunda turma, julgado em 4/11/2014, DJe 14/11/2014).
+PROCESSUAL CIVIL. ADMINISTRATIVO. AÇÃO INDENIZATÓRIA. FORNECIMENTO DE ENERGIA ELÉTRICA. MANUTENÇÃO DE CABOS SUBMARINOS. ALEGAÇÃO DE VIOLAÇÃO DO ART. 1.022 DO CPC/2015 (ART. 535 DO CPC/73).
+INEXISTÊNCIA. ALEGAÇÃO DE DEFEITO NA PRESTAÇÃO DO SERVIÇO. PRETENSÃO DE REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DO ENUNCIADO N. 7 DA SÚMULA DO STJ. EXISTÊNCIA DE FUNDAMENTAÇÃO SUFICIENTE E NÃO REBATIDA. SÚMULAS N. 283 E 284 DO STF. ALEGAÇÃO DE DIVERGÊNCIA JURISPRUDENCIAL. NÃO COMPROVAÇÃO.
+ ..
+IX - Por fim, no que concerne à indicada violação do art. 176, II, da Resolução ANEEL n. 414/2010, é forçoso destacar da impossibilidade desta Corte analisar a pretensa ofensa ao citado ato administrativo, considerado norma de caráter infralegal cuja violação não pode ser aferida por meio de recurso especial, pois assim como portarias, convênios, regimentos internos e regulamentos, resoluções não se enquadram no conceito de Lei Federal ou tratado.
+X - Agravo interno improvido.
+(AgInt no AREsp 1551771/RJ, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 22/04/2020, DJe 24/04/2020)
+ADMINISTRATIVO. SERVIDOR PÚBLICO. ORIENTAÇÃO NORMATIVA ACERCA DA CONCESSÃO DOS ADICIONAIS E DA GRATIFICAÇÃO DE RAIOS X. IMPOSSIBILIDADE DE ANÁLISE. NÃO ENQUADRAMENTO NO CONCEITO DE LEI FEDERAL. RECURSO ESPECIAL NÃO CONHECIDO.
+I - Não se conhece do recurso especial, quando a verificação da violação de lei federal implica necessariamente a análise de orientação normativa ministerial, ato regulamentar que não se enquadra no conceito de lei federal, nos termos do art. 105, III, da Constituição Federal.
+II - Agravo interno improvido.
+(AgInt no AREsp n. 953.259/SC, relator Ministro Francisco Falcão, Segunda Turma, julgado em 7/3/2017, DJe de 10/3/2017)
+Por fim, quanto as demais teses trazidas à baila pelo recorrente, verifica-se que dizem respeito a fundamento de cunho constitucional, transbordando os lindes específicos de cabimento do recurso especial. Assim, eventual ofensa, caso existente, ocorre no plano constitucional, motivo pelo qual é inviável a rediscussão do tema pela via especial.
+Ressalte-se que não compete a este Superior Tribunal de Justiça, em sede de recurso especial, analisar eventual contrariedade a preceito contido na Constituição Federal, nem tampouco uniformizar a interpretação de matéria constitucional.
+A corroborar esse entendimento, destacam-se:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRIBUTÁRIO. FUNRURAL. DISCUSSÃO SOBRE A COMPROVAÇÃO ACERCA DA CONDIÇÃO DE PRODUTOR RURAL (PESSOA FÍSICA) EMPREGADOR. QUESTÃO ATRELADA AO REEXAME DE MATÉRIA DE FATO. ÓBICE DA SÚMULA 7/STJ. ACÓRDÃO RECORRIDO FULCRADO NOS LIMITES DO ARESTO PROFERIDO NO RE 363.852/MG. ENFOQUE CONSTITUCIONAL DA MATÉRIA.
+1. O reexame de matéria de prova é inviável em sede de recurso especial (Súmula 7/STJ).
+2. Não compete ao Superior Tribunal de Justiça, em sede de recurso especial, analisar eventual contrariedade a preceito contido na CF/88, nem tampouco uniformizar a interpretação de matéria constitucional.
+3. Agravo regimental não provido.
+(AgRg no REsp 1424470/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 27/03/2014, DJe 02/04/2014)
+TRIBUTÁRIO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CONTRIBUIÇÃO PREVIDENCIÁRIA. EMPREGADOR RURAL PESSOA FÍSICA. CONTROVÉRSIA SOLUCIONADA À LUZ DO TEXTO CONSTITUCIONAL PELO ACÓRDÃO RECORRIDO. AGRAVO NÃO PROVIDO.
+1. O acórdão recorrido solucionou a controvérsia posta nos autos, relacionada à contribuição previdenciária devida por empregador rural pessoa física, sob o enfoque eminentemente constitucional, o que não enseja abertura da via especial.
+2. Agravo regimental não provido.
+(AgRg no AREsp 74.601/RS, Rel. Ministro ARNALDO ESTEVES LIMA, PRIMEIRA TURMA, julgado em 06/08/2013, DJe 15/08/2013)
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AÇÃO DECLARATÓRIA. CONTRIBUIÇÃO INCIDENTE SOBRE A COMERCIALIZAÇÃO DOS PRODUTOS RURAIS. EMPREGADOR PESSOA FÍSICA. LEI 8.212/1991, ART. 25. ACÓRDÃO ASSENTADO NA DECLARAÇÃO DE INCONSTITUCIONALIDADE PROFERIDA NO RE 363.852/MG. REVISÃO NA VIA ELEITA. DESCABIMENTO.
+1. No acórdão proferido pelo TRF da 4ª Região restou consagrado o entendimento de que a contribuição previdenciária prevista no art. 25 da Lei 8.212/1991, em relação aos empregadores rurais pessoas físicas, foi declarada inconstitucional pelo STF, por ocasião do julgamento do RE 363.852/MG, razão pela qual foi reconhecida indevida a sua exigibilidade, ainda que sob a égide da Lei 10.256/2001.
+2. É inadmissível o recurso especial interposto contra acórdão que se assenta em fundamentação constitucional.
+3. Agravo regimental não provido.
+(AgRg no REsp 1340469/RS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 07/05/2013, DJe 13/05/2013)
+PREVIDENCIÁRIO. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ERRO MATERIAL. EXISTÊNCIA. ISENÇÃO DE CUSTAS. PREQUESTIONAMENTO DE MATÉRIA CONSTITUCIONAL. REPERCUSSÃO GERAL RECONHECIDA PELO STF. SOBRESTAMENTO DO FEITO NO STJ. DESNECESSIDADE. EMBARGOS ACOLHIDOS EM PARTE.
+ ..
+3. Não compete ao Superior Tribunal de Justiça, na via do recurso especial, o exame de suposta afronta a dispositivos constitucionais, ainda que para efeito de prequestionamento, por se tratar de matéria reservada à competência do Supremo Tribunal Federal, nos termos do art. 102, III, da Constituição da República.  ..  6. Embargos de declaração acolhidos para corrigir o erro material e, atribuindo-lhes efeitos infringentes, reconhecer a isenção do INSS quanto ao pagamento das custas processuais. (EDcl no AgRg no REsp 1329053/RS, Rel. Ministro ARNALDO ESTEVES LIMA, PRIMEIRA TURMA, julgado em 17/12/2013, DJe 07/02/2014)
+Diante do exposto, com base no art. 932, III e V, do CPC/2015, c/c o art. 255, § 4º, I e II, do RISTJ e Súmula 568/STJ, conheço parcialmente do recurso especial e, nessa parte, nego-lhe provimento, nos termos da fundamentação.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. SUPOSTA OFENSA AO ART. 1.022 DO CPC/2015. INEXISTÊNCIA DE VÍCIO NO ACÓRDÃO RECORRIDO. SERVIDOR PÚBLICO. NECESSIDADE DE ANÁLISE DE ORIENTAÇÃO NORMATIVA. NÃO CABIMENTO. NORMA QUE ESCAPA AO CONCEITO DE LEI FEDERAL. DEMAIS TESES. ENFOQUE CONSTITUCIONAL DA MATÉRIA. RECURSO PARCIALMENTE CONHECIDO E, NESSA PARTE, NÃO PROVIDO.
