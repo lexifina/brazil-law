@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se de Recurso Especial interposto pelo Instituto Nacional do Seguro Social - INSS, com fundamento no art. 105, III, "a", da CF/1988, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 286):
+AÇÃO ACIDENTÁRIA - ACIDENTE TÍPICO E CONDIÇÕES AGRESSIVAS - LESÕES EM COLUNAS E MEMBROS SUPERIORES - SENTENÇA DE PROCEDÊNCIA - APELAÇÃO DO INSS E REEXAME NECESSÁRIO - LAUDO MÉDICO PERICIAL CONCLUSIVO - CONSTATAÇÃO DA REDUÇÃO DA CAPACIDADE LABORATIVA E NEXO CAUSAL/CONCAUSAL COMPROVADOS - PLEITO DE ALTERAÇÃO NO TERMO INICIAL DO BENEFÍCIO - INADMISSIBILIDADE NA HIPÓTESE DOS AUTOS - AUXÍLIO-ACIDENTE DEVIDO A PARTIR DO DIA SEGUINTE AO DA ALTA MÉDICA - PLEITO DE APLICAÇÃO DA TR PARA CORREÇÃO MONETÁRIA - IMPROCEDÊNCIA.
+Recurso do réu improvido e sentença de procedência mantida em sede de reexame necessário, com observações.
+Em suas razões, a parte recorrente sustenta ofensa aos arts.41-A da Lei n. 8.213/91, com redação dada pela Lei n. 11.430/06, 5º da Lei n. 11.960/2009, que deu nova redação ao art. 1º-F da Lei n. 9.494/1997, argumentando, em suma, que: (a) "não há fundamento legal para o v. acórdão recorrido determinar que, a partir de 30.06.2009, a correção das parcelas em atraso na presente ação será apurada pela aplicação do IGP-DI, até a data da elaboração da conta, e, após pelo IPCA-E, tendo em vista que deve incidir o disposto na Lei nº 11.960/2009 para a atualização da condenação, sendo inconstitucional o índice ali colocado apenas para a atualização do precatório e, ainda, assim, a partir de 25/03/2015" (fl. 319); (b) requer, ao final, "a reforma do v. aresto recorrido para determinar a aplicação, para fins de correção monetária do débito, o índice INPC a partir do advento da Lei 11.430/2006, bem como a TR como índice de atualização das parcelas em atraso a partir da Lei nº 11.960/2009, excluindo-se a aplicação do IGP-DI e do IPCA-E nos moldes determinados pelo v. acórdão recorrido" (fl. 322).
+Com contrarrazões.
+Juízo positivo de admissibilidade às fls. 190-191.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo 3/2016/STJ.
+Registre-se também que é possível ao Relator dar ou negar provimento ao recurso em decisão monocrática, nas hipóteses em que há jurisprudência dominante quanto ao tema, como autorizado pelo art. 34, XVIII, do RISTJ e pela Súmula 568/STJ.
+Acerca dos juros e correção monetária, o Supremo Tribunal Federal, no julgamento do RE 870.947/SE, Rel. Min. Luiz Fux, Tribunal Pleno, Dje de 20/11/2017), em sede de repercussão geral, decidiu que o art. 1º-F da Lei n. 9.494/1997 (redação dada pela Lei n. 11.960/2009) é constitucional quanto aos juros moratórios incidentes sobre condenações oriundas de relação jurídica não-tributária, devendo ser observados os critérios fixados pela legislação infraconstitucional, notadamente os índices oficiais de remuneração básica e juros aplicados à caderneta de poupança.
+Com efeito, a Primeira Seção desta Corte, no julgamento do REsp 1.495.144/RS, representativo da controvérsia, assentou as seguintes diretrizes quanto à aplicabilidade do art. 1º-F da Lei n. 9.494/1997, com redação dada pela Lei n. 11.960/2009, em relação às condenações de natureza previdenciárias impostas à Fazenda Pública:
+ ..
+PROCESSUAL CIVIL. RECURSO ESPECIAL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 02/STJ. DISCUSSÃO SOBRE A APLICAÇÃO DO ART. 1º-F DA LEI 9.494/97 (COM REDAÇÃO DADA PELA LEI 11.960/2009) ÀS CONDENAÇÕES IMPOSTAS À FAZENDA PÚBLICA. CASO CONCRETO QUE É RELATIVO A CONDENAÇÃO JUDICIAL DE NATUREZA ADMINISTRATIVA EM GERAL (RESPONSABILIDADE CIVIL DO ESTADO).
+ ..
+TESES JURÍDICAS FIXADAS.
+1. Correção monetária: o art. 1º-F da Lei 9.494/97 (com redação dada pela Lei 11.960/2009), para fins de correção monetária, não é aplicável nas condenações judiciais impostas à Fazenda Pública, independentemente de sua natureza.
+ ..
+3.2 Condenações judiciais de natureza previdenciária.
+As condenações impostas à Fazenda Pública de natureza previdenciária sujeitam-se à incidência do INPC, para fins de correção monetária, no que se refere ao período posterior à vigência da Lei 11.430/2006, que incluiu o art. 41-A na Lei 8.213/91.
+Quanto aos juros de mora, incidem segundo a remuneração oficial da caderneta de poupança (art.1º-F da Lei 9.494/97, com redação dada pela Lei n. 11.960/2009).
+ ..
+(REsp 1.495.144/RS, Rel. Ministro Mauro Campbell Marques, Primeira Seção, DJe 20/03/2018, grifos nossos)
+Nesse mesmo sentido, confira-se o seguinte julgado:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. RECURSO ESPECIAL. OMISSÃO. INEXISTÊNCIA. DISCUSSÃO SOBRE A APLICAÇÃO DO ART. 1º-F DA LEI 9.494/1997, COM REDAÇÃO DADA PELA LEI 11.960/2009 ÀS CONDENAÇÕES IMPOSTAS À FAZENDA PÚBLICA. DECISÃO DO STF NOS EMBARGOS DE DECLARAÇÃO NO RE 870.947/SE. MODULAÇÃO REJEITADA. QUESTÕES DECIDIDAS PELA TESE FIRMADA NO TEMA 905/STJ.
+ ..
+6. Dessume-se que o acórdão recorrido não está em sintonia com o atual entendimento do STJ, razão pela qual merece prosperar parcialmente a irresignação.
+7. Na hipótese, por se tratar de condenação judicial de natureza previdenciária, incide o INPC, para fins de correção monetária, no que se refere ao período posterior à vigência da Lei 11.430/2006, que incluiu o artigo 41-A na Lei 8.213/1991. No período anterior à vigência da Lei 11.430/2006, devem ser aplicados os índices previstos no Manual de Cálculos da Justiça Federal.
+8. No tocante aos juros de mora, incidem segundo a remuneração oficial da caderneta de poupança, consoante artigo 1º-F da Lei 9.494/1997, com redação dada pela Lei 11.960/2009.
+9. Recurso Especial parcialmente conhecido, apenas em relação à preliminar de violação do art. 535 do CPC/1973, e, nessa parte, parcialmente provido.
+(REsp 1.900.726/SP, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 24/11/2020, DJe 18/12/2020)
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. EMBARGOS DE DECLARAÇÃO. REQUISITOS. OCORRÊNCIA. AÇÃO ACIDENTÁRIA. CORREÇÃO MONETÁRIA E JUROS. INPC E REMUNERAÇÃO OFICIAL DA CADERNETA DE POUPANÇA. APLICAÇÃO.
+ ..
+3. A Primeira Seção do STJ, no julgamento do Tema 905/STJ, firmou a compreensão de que, em se tratando de causas previdenciárias, as condenações impostas à Fazenda Pública, para efeito de correção monetária, sujeitam-se à incidência do INPC a partir da vigência do art. 41-A da Lei n. 8.213/1991, com a redação incluída pela Lei n. 11.430/2006.
+4. O INPC aplica-se na atualização monetária nas condenações de natureza previdenciária sem a limitação temporal dada pelo Tribunal de origem, ou seja, deve incidir inclusive no período posterior à entrada em vigor da Lei n. 11.960/2009, sendo certo que, para os períodos anteriores à entrada em vigor da Lei n. 11.430/2006, incidem os índices previstos no Manual de Cálculos da Justiça Federal.
+5. Quanto aos juros de mora, incidem segundo a remuneração oficial da caderneta de poupança (art. 1º-F da Lei n. 9.494/1997, com redação dada pela Lei n. 11.960/2009), independentemente de quais sejam os períodos a que se referirem os débitos de natureza previdenciária, conforme decisão no Tema 810/STF.
+6. In casu, a autarquia interpôs recurso especial em que postulou que a correção monetária observasse o INPC, a contar da Lei n. 10.741/2003, e a Taxa Referencial - TR, após a Lei n. 11.960/2009, circunstância que enseja o seu parcial acolhimento.
+7. Embargos de declaração acolhidos, com efeitos modificativos, para dar parcial provimento ao recurso especial.
+(EDcl no AgInt no REsp 1892293/SP, Rel. Ministro Gurgel de Faria, Primeira Turma, julgado em 10/05/2021, DJe 25/05/2021)
+Contudo, na hipótese dos autos, a Corte de origem adotou o seguinte entendimento ao decidir a controvérsia (fl. 291):
+ ..
+Os valores em atraso, decorrentes do benefício ora concedido, serão corrigidos monetariamente pelo IGP-DI, afastada a aplicação da Taxa Referencial - TR por força do julgamento da ADI nº4.357 pelo C. Supremo Tribunal Federal, na qual expressamente se declarou a inconstitucionalidade da adoção do índice como fator de correção dos débitos a serem adimplidos pela Fazenda Pública. Afasta-se, assim, o apelo autárquico neste particular.
+Do que se observa no excerto do acórdão recorrido, a instância ordinária decidiu a controvérsia parcialmente contraria ao entendimento desta Corte, segundo a qual as condenações impostas à Fazenda Pública de natureza previdenciária sujeitam-se à incidência do INPC, para fins de correção monetária, no que se refere ao período posterior à vigência da Lei 11.430/2006, que incluiu o art. 41-A na Lei 8.213/1991, assim como, no período posterior à vigência da Lei 11.960/2009.
+A propósito, confira:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. EMBARGOS DE DECLARAÇÃO. REQUISITOS. OCORRÊNCIA. AÇÃO ACIDENTÁRIA. CORREÇÃO MONETÁRIA E JUROS. INPC E REMUNERAÇÃO OFICIAL DA CADERNETA DE POUPANÇA. APLICAÇÃO.
+ ..
+3. A Primeira Seção do STJ, no julgamento do Tema 905/STJ, firmou a compreensão de que, em se tratando de causas previdenciárias, as condenações impostas à Fazenda Pública, para efeito de correção monetária, sujeitam-se à incidência do INPC a partir da vigência do art. 41-A da Lei n. 8.213/1991, com a redação incluída pela Lei n. 11.430/2006.
+4. O INPC aplica-se na atualização monetária nas condenações de natureza previdenciária sem a limitação temporal dada pelo Tribunal de origem, ou seja, deve incidir inclusive no período posterior à entrada em vigor da Lei n. 11.960/2009, sendo certo que, para os períodos anteriores à entrada em vigor da Lei n. 11.430/2006, incidem os índices previstos no Manual de Cálculos da Justiça Federal.
+5. Quanto aos juros de mora, incidem segundo a remuneração oficial da caderneta de poupança (art. 1º-F da Lei n. 9.494/1997, com redação dada pela Lei n. 11.960/2009), independentemente de quais sejam os períodos a que se referirem os débitos de natureza previdenciária, conforme decisão no Tema 810/STF.
+6. In casu, a autarquia interpôs recurso especial em que postulou que a correção monetária observasse o INPC, a contar da Lei n. 10.741/2003, e a Taxa Referencial - TR, após a Lei n. 11.960/2009, circunstância que enseja o seu parcial acolhimento.
+7. Embargos de declaração acolhidos, com efeitos modificativos, para dar parcial provimento ao recurso especial.
+(EDcl no AgInt no REsp 1892293/SP, Rel. Ministro Gurgel de Faria, Primeira Turma, julgado em 10/05/2021, DJe 25/05/2021)
+Ante o exposto, dou parcial provimento ao recurso especial, para determinar a incidência dos índices de correção previstos no Manual de Cálculos da Justiça Federal para períodos anteriores à entrada em vigor da Lei n. 11.430/2006 e a incidência do INPC, para fins de correção monetária, no que se refere ao período posterior à vigência da Lei n. 11.430/2006, assim como no período posterior à vigência da Lei 11.960/2009.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. RECURSO ESPECIAL. AÇÃO DE NATUREZA PREVIDENCIÁRIA. APLICABILIDADE DO CPC/1973. AUXÍLIO-DOENÇA. PRESTAÇÕES. CORREÇÃO MONETÁRIA. INPC. ADEQUAÇÃO RESP N. 1.495.146/MG (TEMA 905), JULGADO SOB O RITO DOS RECURSOS REPETITIVOS. RECURSO PARCIALMENTE PROVIDO.
