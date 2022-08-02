@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido liminar, impetrado contra acórdão assim relatado (fls. 211-212):
+BENEDITO APARECIDO LEME JÚNIOR foi denunciado por receptação dolosa.
+Regularmenteprocessado, acabou sendo condenado ao desconto de 2 anos de reclusão, em regime inicial semiaberto, mais o pagamento de 20 dias-multa, no piso, por infração ao artigo 180, caput, do Código Penal (fls. 142/152).
+Descontente com tal desfecho, apela o réu. Alega que as provas coligidas ao processo não são suficientes para alicerçar a condenação que lhe foi imposta, destacando que a sua conduta é atípica. Por qualquer dessas duas razões, quer ser absolvido. Se assim não for, pleiteia a fixação da pena básica no patamar mínimo legal, a substituição da sanção carcerária por restritiva de direitos, o abrandamento do regime prisional e os benefícios da Justiça Gratuita (fls. 153/165).
+Consta dos autos que o paciente foi condenado como incurso nas sanções do art. 180,caput, do Código Penal, à pena de 2 anos de reclusão, em regime semiaberto.
+Interposta apelação, foi improvida.
+No presentewrit, o impetrante alega a ocorrência debis in idem, uma vez que os motivos que levaram o magistrado a aumentar a pena-base fazem parte da elementar do tipo penal.
+Requer, assim, liminarmente e no mérito, a redução da pena-base para o mínimo legale a alteração do regime prisional para oaberto.
+Indeferida a liminar eprestadas as informações, o Ministério Público Federal manifestou-se pelo não conhecimento do writ e, caso conhecido, pela denegação da ordem.
+Quanto à dosimetria da pena e a fixação do regime prisional, constou da sentença (fl. 18):
+Passo a aplicar a pena.
+Atento às condições do art. 59 do CP observo que a culpabilidade é acima do normal. O acusado recebeu e ocultava diversos bens pessoais da vítima como pares de tênis, perfumes e camiseta, todos produtos usados, e ainda anunciou um dos produtos subtraídos (videogame) em um sítio para revenda a terceiros (visando obter vantagem financeira após o delito de receptação). Ademais, o réu ostenta maus antecedentes criminais (sistema da perpetuidade - conforme certidão do apenso). O motivo que norteou o agir, de igual turno, não desfoca da normalidade, vale dizer, o desejo de adquirir produto que sabia ser produto de crime, com a finalidade de obter vantagem econômica. As circunstâncias do crime foram normais. As consequências excedem à normalidade, considerando o elevado prejuízo sofrido pela vítima. O comportamento da vítima não concorreu para a prática do delito. Não há elementos nos autos que permitam avaliar a personalidade do acusado bem como de sua conduta social. Fixo a pena-base em 2 anos.
+Na segunda fase, não incidem atenuantes ou agravantes a serem reconhecidas.
+Na terceira fase, não incidem causas de aumento ou diminuição de pena.
+Cada dia-multa é fixado no valor mínimo previsto em lei.
+Excepcionalmente, considerando os maus antecedentes criminais do acusado, fixo o regime semiaberto para o início do cumprimento da pena, o que faço com fundamento no art. 33 do Código Penal.
+Incabível a suspensão ou substituição da pena privativa de liberdade em virtude dos maus antecedentes do acusado.
+Por sua vez, quanto aos temas, constou do acórdão da apelação(fl. 214):
+Quanto à reprimenda, verifico que a pena-base foi assentada acima do mínimo legal, ou seja, em 2 anos de reclusão, mais o pagamento de 20 dias-multa, no piso, quantum que restou definitivo, à míngua de causas modificadoras, e assim deve permanecer, porquanto o Juiz sentenciante explicitou as razões pelas quais decidiu estabelecê-la dessa forma, em estrita obediência aos ditames do artigo 59 do Estatuto Repressivo, especialmente os péssimos antecedentes criminais ostentados pelo réu (fls. 36/42). De minha parte, por idênticas razões, ratifico tal entendimento, não havendo se falar em redução da pena básica.
+Registro ser incabível a substituição dessa pena privativa de liberdade por restritiva de direitos, exatamente porque BENEDITO - repito - ostenta péssimos antecedentes criminais.
+De resto, levando-se em conta que BENEDITO é assistido por Advogado constituído (fl. 165), consigno que não faz jus aos benefícios da Lei nº 1.060/50 (Lei da Assistência Judiciária Gratuita), uma vez que não provou ser pobre, no sentido jurídico do termo.
+Por fim, anoto que o regime prisional foi fixado com brandura, o que contou com o aval do Promotor, de modo que, na verdade, BENEDITO não tem do que reclamar.
+No caso, ao contrário do que afirma o impetrante, não se verifica bis in idem na fixação da pena-base pela utilização de elementos inerentes do tipo penal, pois o fato de o réuanunciar"um dos produtos subtraídos (videogame) em um sítio para revenda a terceiros (visando obter vantagem financeira após o delito de receptação)" desborda do tipo penal de receptação simples.
+Com efeito, o delito do art. 180, caput, do CP, não inclui entre as suas elementares a venda do bem receptado, ao contrário do que ocorre com o crime de receptação qualificada, de modo que o fato de o réu vender o bem receptado excede as elementares do tipo penal de receptação simples, não configurando bis in idem sua valoração na primeira fase da dosimetria da pena.
+Por outro lado, valeu-se o magistrado de fundamentação válida para o aumento da pena-base também quanto aos maus antecedentes, pois verifica-se que o réu registra condenação anterior pelo crime de roubo (fls. 61/67).
+Quanto à valoração negativa das consequências do crime, em razão do "elevado prejuízo sofrido pela vítima", tal fundamento pode ser utilizado para agravar a pena-base, sendo que no caso o valor dos bens receptados foram avaliados em R$ 4.550,00 (quatro mil e quinhentos e cinquentareais), de modo que deve ser mantida essa vetorial. Nesse sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. RECEPTAÇÃO QUALIFICADA. DOSIMETRIA. EXASPERAÇÃO DA PENA-BASE. CULPABILIDADE E CONSEQUÊNCIAS. DESFAVORECIMENTO DA CULPABILIDADE. FUNDAMENTAÇÃO IDÔNEA. CONSEQUÊNCIAS. FUNDAMENTO JÁ UTILIZADO PARA DESVALOR DA CULPABILIDADE. BIS IN IDEM. REDIMENSIONAMENTO DA PENA. AGRAVO DESPROVIDO.
+ ..
+3. No tocante à culpabilidade, para fins de individualização da pena, tal vetorial deve ser compreendida como o juízo de reprovabilidade da conduta, ou seja, a maior ou menor censura do comportamento do réu, não se tratando de verificação da ocorrência dos elementos da culpabilidade, para que se possa concluir pela prática ou não de delito (AgRg no AREsp 1162158/TO, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 13/11/2018, DJe 22/11/2018).
+4. No caso, foi considerado como negativa a culpabilidade em razão do alto valor do bem irregularmente adquirido. Sendo essa fundamentação idônea para justificar a exasperar a pena-base, não há ilegalidade a ser sanada.
+5. Em relação às consequências do crime, o fundamento utilizado deve ser afastado, sob pena de ocorrência de bis in idem uma vez que o prejuízo significativo sofrido pela vítima já foi considerado na culpabilidade.
+6. Agravo desprovido.
+(AgRg no HC n. 688.892/ES, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 21/9/2021, DJe de 27/9/2021.)
+Outrossim, nos termos da jurisprudência desta Corte "oaumentoideal de 1/6 por vetorial desfavorável pode ser superado, desde que seja declinada motivação idônea, em atendimento aos princípios da individualização da pena e da proporcionalidade (AgRg no AgRg no AREsp n. 1.846.668/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 3/5/2022, DJe de 10/5/2022.).
+No caso, não houve fundamentação paraoaumento superior a 1/6 para cada vetorial, de modo que deve ser o acórdão revisto nesse ponto.
+Na primeira fase da dosimetria, mantenho a valoração negativa das consequências do crime, culpabilidade e os maus antecedentes, aumentando a pena-base em 1/6 para cada vetorial, resultando em 1 ano, 7 meses e 1 mês de reclusão e 15 dias-multa, que torna-se definitiva pela ausência de agravantes, atenuantes, causas de aumento ou de diminuição da pena.
+Por fim, correto o estabelecimento do regime semiaberto para o cumprimento da pena e a negativa de substituição da pena privativa de liberdade por restritivas de direitos pela presença de maus antecedentes, na forma do art. 33, §3º, e art. 44, III, do CP.
+Ante o exposto, concedo o habeas corpus para reduzir a pena do paciente para 1 ano, 7 meses e 1 mês de reclusão e 15dias-multa, mantido o regime semiaberto para o cumprimento da pena.
+Comunique-se.
+Publique-se.
+Intimem-se.
