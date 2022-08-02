@@ -1,0 +1,19 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo em recurso especialmanejado peloINSTITUTO NACIONAL DO SEGURO SOCIAL - INSScontra acórdão do TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO assimementado (e-STJ, fl. 155):
+PREVIDENCIÁRIO. DIREITO PROCESSUAL CIVIL. REVISÃO DE BENEFÍCIO. EMENDAS CONSTITUCIONAIS NºS. 20/1998 E 41/2003. BENEFÍCIO CONCEDIDO ANTES DA CONSTITUIÇÃO DE 1988. MENOR VALOR TETO. DESCABIMENTO.
+- Ação proposta em face do INSS, pretendendo seja condenada a Autarquia à revisão do benefício previdenciário, mediante a aplicação do novo teto estabelecido nas Emendas Constitucionais nº 20/1998 e 41/2003, com o pagamento das diferenças encontradas.
+- O aposentado que teve seu benefício limitado ao teto vigente à época de sua concessão, com o advento das Emendas Constitucionais nº 20/98 e 41/03, que elevou o teto dos benefícios previdenciários para R$ 1.200,00 (hum mil e duzentos reais) e R$ 2.400,00 (dois mil e quatrocentos reais), respectivamente, teria direito à aplicação do novo teto e reajuste do valor percebido.
+- Outro argumento a corroborar a não aplicação da ratio decidendi contida no RE no. 564.354 aos benefícios concedidos anteriormente à Constituição está na percepção de que o único elemento extrínseco ao cálculo dos benefícios era o limite máximo de pagamento mensal (art. 25, parágrafo único, Decreto no. 89.312/84).
+- Os assim chamados menor valor-teto do salário de benefício e maior valor-teto do salário de benefício nada mais eram do que variáveis intrínsecas ao cálculo da renda mensal inicial (art. 23, Decreto n. 89.312/84).
+- A parte Autora é titular de um benefício de aposentadoria concedido antes da Constituição Federal de 1988 (DIB em 11/10/1978), cuja RMI teve RMI em valor inferior ao teto do salário de contribuição à época da concessão.
+- Honorários recursais fixados em 1% (um por cento), nos termos do art. 85, § 11, do CPC de 2015, considerando os parâmetros do § 2º do mesmo artigo, observado, no entanto, o disposto no art. 98, parágrafo 3º, do mesmo diploma legal.
+- Apelação improvida.
+É o relatório.
+A questão jurídica referente à forma de cálculo da renda mensal do benefício,para efeito de adequação dos benefícios concedidos antes da Constituição Federal aos tetos das Emendas Constitucionais n. 20/1998 e 41/2003,foi submetida ao regime dosprecedentes qualificados vinculantes pelo Superior Tribunal de Justiçanos seguintes termos:
+Tema 1.140/STJ:
+Definir, para efeito de adequação dos benefícios concedidos antes da Constituição Federal aos tetos das Emendas Constitucionais ns. 20/1998 e 41/2003, a forma de cálculo da renda mensal do benefício em face da aplicação, ou não, dos limitadores vigentes à época de sua concessão (menor e maior valor-teto).
+Nesse contexto, por medida de economia processual e para evitar decisões dissonantes entre Cortes integrantes do mesmo sistema de Justiça, os recursos que tratam da mesma controvérsia devem retornar à origem, para aguardar ou aplicar a solução alcançada no feito afetado, viabilizando, assim, a observação uniformeda tese vinculante.
+Cumpre esclarecer que, somente depois de realizada essa providência, com o exaurimento da instância ordinária, os recursos excepcionais deverãoser encaminhados para os TribunaisSuperiores, a fim de que possam ser analisadas as questões jurídicas neles suscitadas, desde que não prejudicados pelo novo pronunciamento da Corte local.
+Ante o exposto, determino a devolução dos autos ao Tribunal de origem, para observação da disciplina processual dos arts. 1.039 e 1.040 do CPC/2015, de modo a que se: i) negue seguimento ao recurso, se o acórdão recorridocoincidir com a tese vinculante do Tribunal Superior; ou ii) proceda ao juízo de retratação, na hipótese de ter o colegiado local divergidoda interpretação fixada no precedente qualificado.
+Publique-se. Intimem-se.
