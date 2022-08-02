@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se dehabeas corpus,com pedido liminar, impetrado em favor deLucas Vargas Lopez, apontando-se como autoridade coatora o Tribunal de Justiça do Rio Grande do Sul (Apelação Criminal n.5002941-16.2021.8.21.0073).
+Narram os autos que o paciente foi condenado a 5 anos de reclusão, em regime inicial semiaberto, e 500 dias-multa, pela prática do crime de tráfico de drogas.
+Nestemandamus, a Defensoria Pública alega ilegalidade na dosimetria, destacando que,diante da inércia do órgão ministerial em apresentar recurso, a manutenção da pena base como operada na sentença no modo em que fundamentado pelo Tribunal coator, implica a configuração da repudiada reformatio in pejus, eis que negativada vetorial NEUTRA em primeiro grau, trazendo no acórdão fundamentação não utilizada em sentença, sem recurso do MPRS(fl. 8).
+Menciona, ainda,a existência deconstrangimento ilegal decorrente do não reconhecimento da causa especial de redução de pena pelo tráfico privilegiado - art. 33, § 4º, da Lei n. 11.343/2006 - na fração máxima(fl. 11).
+Requer, em liminar, acolocação do paciente em regime compatível com a pena estabelecida(fl. 16). No mérito, pugna pela revisão da pena-baseem razão da neutralização da vetorial negativada na sentença, bem como reconhecer o privilégio ao delito de tráfico(fl. 17).
+A liminar foi deferida paraadequar a prisão cautelar ao regime prisional imposto na sentença, a saber, o regime semiaberto, assegurando ao paciente o direito de aguardar o julgamento de eventual recurso em estabelecimento prisional compatível.
+Prestadas as informações de praxe, foi noticiado que não há notícias do trânsito em julgado da condenação.
+O Ministério Público Federal opinou, pelas palavras do Subprocurador-Geral da República Mário Pimentel de Albuquerque, pela concessão parcial da ordem.
+É o relatório.
+A ordem comporta concessão.
+Confira-se, no que interessa, a fundamentação utilizada pelo Tribunal de Justiçaao analisar adosimetria da pena imposta ao paciente (fls.26/28):
+ ..
+A Juíza de Direito fixou a pena-base em 06 (seis) anos de reclusão, considerando desfavoráveis as consequências do delito.
+As consequências são desconhecidas e inerentes ao tipo penal imputado. Entretanto, ainda que consideradas neutras as consequências do delito, a natureza e a quantidade de droga apreendida, ou seja, 218 gramas de crack, justificam, por si só, a manutenção da pena-base imposta na sentença, porque, como se sabe, o crack é das drogas mais prejudiciais à saúde pública, dotadas de alto potencial de vício e degradação, sendo, ainda, a quantidade considerável, eis que poderia gerar até mais de 2.180 porções para a comercialização.
+Logo, mantenho a pena-base fixada na sentença.
+A defesa postula o afastamento da circunstância agravante prevista na alínea "j", do inciso II, do artigo 61, do Código Penal. Com razão.
+Embora a situação declarada por meio do decreto estadual nº 55.128/2020 e reiterada nas edições seguintes, a pandemia causada pelo coronavírus (covid-19) não revela situação de calamidade pontual a fazer incidir a agravante em questão, eis que trata de uma crise sanitária que já perdura por mais de um ano, sem previsão de término.
+A incidência da agravante em questão é reservada para hipóteses trágicas específicas e delimitadas, em que a insensibilidade do agente, que demonstra total descaso pela solidariedade e fraternidade com o momento, justifica o aumento de pena, não sendo essa a hipótese da crise sanitária vivida atualmente, sem qualquer relação com o fato imputado.
+Em vista disso, a pena corporal é tornada provisória em 06 (seis) anos de reclusão.
+Na terceira fase, o julgador reconheceu, equivocadamente, ao meu sentir, a privilegidora.
+Note-se, a respeito, que a minorante referida é uma benesse e, portanto, exceção à regra; destarte, não deve ser objetiva e indiscriminadamente aplicada, mas reservada a casos excepcionais em que a pena mínima do tráfico (que, sabidamente, por si só, é um crime grave e usualmente merece a mais severa repressão) se mostre desproporcional.
+Digo isso porque não concordo com o critério de que a primariedade do réu basta para que mereça o benefício; entendo sempre necessária a análise do caso concreto, para garantir que a minorante seja reservada unicamente a traficantes realmente eventuais, que não fazem do tráfico sua "profissão".
+E a figura do traficante eventual é admissível, ao menos no meu entendimento, apenas com relação àqueles indivíduos chamados "aviõezinhos", que ficam em uma esquina, com pouca quantidade de droga, com a tarefa de vender e repassar o produto da venda ao seu "superior", em troca de uma contraprestação (geralmente dinheiro ou drogas). Afora tais hipóteses, o tráfico sempre exige dedicação.
+Seguindo essa premissa, não vejo como afirmar que o réu ora julgado é um traficante eventual (embora a primariedade seja incontestável), pois ele não comprovou qualquer atividade lícita e tinha em seu poder 218 gramas de "crack", sabendo-se que o crack é uma das drogas mais prejudiciais à saúde pública, dotada de alto potencial de vício e degradação, e a quantidade apreendida seria suficiente para fracionar o montante em até 2.180 porções da droga, não sendo crível que um traficante iniciante ou eventual estivesse em poder de uma quantidade tão relevantede crack.
+Dito isto, verifica-se que o réu já foi sobremaneira beneficiado com a incidência da redutora, essa aplicada em 1/6 (um sexto). No entanto, mantém-se a redutora na fração aplicada na sentença, pois se trata de recurso exclusivo da defesa, evitando-se, assim, a reformatio in pejus.
+Em vista disso, a pena corporal é tornada definitiva em 05 (cinco) anos de reclusão.
+A multa é reduzida para 500 (quinhentos) dias-multa à razão unitária mínima, a fim de que seja observada a proporcionalidade com relação à sanção carcerária.
+ ..
+Quanto à fixação da pena-base, em que pese as alegações da impetrante, com razão o Ministério Público Federal quando destacou, em seu parecer, que,embora o tribunal a quo, em sua fundamentação, tenha considerado como negativa circunstância judicial não mencionada na sentença (natureza e quantidadeda droga apreendida), a pena-base anteriormente fixada pelo magistrado permaneceu inalterada, de modo que não há falar em reformatio in pejus na espécie(fl. 368).
+Contudo, acerca da incidência da causa de diminuição do tráfico de drogas,da leitura dos trechos acima, tem-se que, de fato, o Tribunal de Justiça gaúcho lançou mão da quantidade e variedade das drogas apreendidas na primeira etapa da dosimetria, assim como na terceira etapa, para manter o percentual de 1/6 estipulado pelo Juízo sentenciante,configurando o vedadonon bis in idem.
+A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. QUANTIDADE E NATUREZA DO ENTORPECENTE APREENDIDO.UTILIZAÇÃO PARA EXASPERAÇÃO DA PENA-BASE E AFASTAMENTO DA MINORANTE. BIS IN IDEM. OCORRÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1.Valorada a quantidade e natureza da droga na primeira etapa da dosimetria, inviável sua utilização na terceira etapa para negar ou mesmo modular o fator de diminuição da pena pelo privilégio do tráfico de drogas, evitando indevido bis in idem(AgRg no HC n.445.769/SP, relator Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em2/10/2018, DJe 16/10/2018).
+2. Agravo regimental desprovido. (AgRg nos EDcl no HC n. 582.914/SP, Ministro Antonio Saldanha Palheiro, DJe 13/10/2020 - grifo nosso)
+Mais uma vez, reporto-me ao parecer ministerial, que diz expressamente queo pleito de aplicação da fração máxima da minorante da Lei de Drogas encontra guarida na mais recente jurisprudência do STJ sobre a questão, haja vista que, in casu, o tribunal de origem utilizou a natureza e quantidade da droga apreendia tanto para exasperar a pena-base quanto para modular a fração de diminuição referente ao tráfico privilegiado(fl. 368 - grifo nosso).
+Com essas considerações, passo a redimensionar a pena do paciente.
+Na primeira etapa da dosimetria, fica a pena-base mantida em 6 anos de reclusão, e 600 dias-multa. Na segunda etapa, ante a ausência de circunstâncias agravantes e atenuantes, fica a pena intermediária fixada em 6 anos de reclusão, e 600 dias-multa. Na terceira etapa, incide a causa de diminuição do tráfico de drogas privilegiado, na fração máxima de 2/3, ficando a pena fixada em 2 anos de reclusão, e 200 dias-multa, a qual torno definitiva.
+Diante do quantumda pena aplicada, tendo em vista a primariedade e os bons antecedentes do paciente, cabível a fixação do regime inicial aberto e a substituição da pena privativa de liberdade por restritiva de direitos.
+Ante o exposto, à vista do parecer,concedoa ordem a fim de redimensionar a pena do paciente para 2 anos de reclusão, e 200 dias-multa, fixar o regime inicial aberto e substituir a pena privativa de liberdade por duas restritivas de direitos, a serem fixadas pelo Juízo competente.
+Tendo em vista que esta decisão é mais favorável ao paciente, fica sem efeito a liminar anteriormente concedida.
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS(218 G DE CRACK). DOSIMETRIA. EXASPERAÇÃO DA PENA-BASE EMODULAÇÃO DA CAUSA DE DIMINUIÇÃO DO ART. 33, § 4º, DA LEI N. 11.343/2006, COM BASE NO MESMO FUNDAMENTO. QUANTIDADE DE DROGA.BIS IN IDEMCONFIGURADO.NECESSIDADE. REDIMENSIONAMENTO DA PENA. CONSTRANGIMENTO ILEGAL EVIDENCIADO.PARECER ACOLHIDO.
+Ordem concedida nos termos do dispositivo. Sem efeitos a medida liminar anteriormente concedida.
