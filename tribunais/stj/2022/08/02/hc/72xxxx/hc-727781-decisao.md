@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em face de acórdão assim ementado (fl. 9):
+APELAÇÃO. ART. 29, § 1º, III, E 69, AMBOS DA LEI.9605/98. ART. 28-A, DO CPP. AUSÊNCIA DE REQUISITOS AUTORIZADORES. MATERIALIDADE E AUTORIA. COMPROVADAS.
+I- O recebimento da denúncia se constituiu em óbice para a oferta de Acordo de Não PersecuçãoPenal.
+II - O conteúdo probatório, em especial a confissão do acusado, não deixa dúvida de que ele manteve em cativeiro dezenove pássaros da fauna silvestre , sem a devida licença ou autorização, configurando o delito do art. 29, § Io, III, da Lei. 9605/98. De igual modo, restou demonstrado que o réu tentou impedir aação policial na fiscalização ambiental, conforme relataram os policiais militares, configurando o delito do art. 69, da Lei 9.605/98, devendo ser mantida a condenação como posta na sentença. APELO DESPROVIDO
+Consta dos autos condenação às penas de 1 ano e 6 meses de detenção, em regime aberto, e 20 dias-multa pela prática do crime tipificado no art. 29, III, e 69, ambos da Lei 9605/98.
+Apontaaimpetrante, em suma, que o paciente faz jus à aplicação de acordo de não persecução penal, tendo cumprido todos os requisitos.
+Requer, liminarmente e no mérito, a reforma do acórdão impugnado, para que o Ministério Público ofereça do acordo.
+Indeferida a liminar e prestadas as informações, o Ministério Público manifestou-se pelo não conhecimento ou denegação.
+A Sexta Turma, ao concluir o julgamento do HC 628.647/SC, em 9/3/2021, por maioria de votos, firmou compreensão de que, diante do princípio tempus regit actum em conformação com a retroatividade penal benéfica, o acordo de não persecução penal incide aos fatos ocorridos antes da entrada em vigor da Lei 13.964/2019, desde que ainda não se tenha sido recebida a denúncia.
+Na mesma linha, esta Corte sufragou o entendimento de que "a retroatividade do art. 28-A, do CPP, introduzido pela Lei n. 13.964/2019, se revela incompatível com o propósito do instituto, quando já recebida a denúncia e já encerrada a prestação jurisdicional nas instâncias ordinárias, estando o feito sentenciado, inclusive com condenação confirmada em sede de apelação criminal, como na espécie" (EDcl no AgRg no AREsp 1807393/SP, Relator Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, DJe 13/4/2021).
+A propósito, vale ainda destacar o entendimento recente da 1ª Turma do Supremo Tribunal Federal na apreciação do HC 191.464/SC, da relatoria do Ministro Luís Roberto Barroso, cujo acórdão encontra-se assim ementado:
+EMENTA: Direito penal e processual penal. Agravo regimental em habeas corpus. Acordo de não persecução penal (art. 28-A do CPP). Retroatividade até o recebimento da denúncia.
+1. A Lei nº 13.964/2019, no ponto em que institui o acordo de não persecução penal (ANPP), é considerada lei penal de natureza híbrida, admitindo conformação entre a retroatividade penal benéfica e o tempus regit actum.
+2. O ANPP se esgota na etapa pré-processual, sobretudo porque a consequência da sua recusa, sua não homologação ou seu descumprimento é inaugurar a fase de oferecimento e de recebimento da denúncia.
+3. O recebimento da denúncia encerra a etapa pré-processual, devendo ser considerados válidos os atos praticados em conformidade com a lei então vigente. Dessa forma, a retroatividade penal benéfica incide para permitir que o ANPP seja viabilizado a fatos anteriores à Lei nº 13.964/2019, desde que não recebida a denúncia.
+4. Na hipótese concreta, ao tempo da entrada em vigor da Lei nº 13.964/2019, havia sentença penal condenatória e sua confirmação em sede recursal, o que inviabiliza restaurar fase da persecução penal já encerrada para admitir-se o ANPP.
+5. Agravo regimental a que se nega provimento com a fixação da seguinte tese: "o acordo de não persecução penal (ANPP) aplica-se a fatos ocorridos antes da Lei nº 13.964/2019, desde que não recebida a denúncia" (HC 191464 AgR, Relator(a): ROBERTO BARROSO, Primeira Turma, julgado em 11/11/2020, PROCESSO ELETRÔNICO DJe-280 DIVULG 25-11-2020 PUBLIC 26-11-2020).
+No caso, verifica-se que os fatos forampraticados em 30/5/2018 (fl. 23), sendo que a denúncia foi recebida em 21/11/2018 (fl. 61) e proferida sentença condenatória em 27/4/2020 (fl. 120). O acórdão impugnado, portanto, encontra-se em consonância com a orientação jurisprudencial desta Corte de que, uma vez recebida a denúncia, inclusive com a prolação de sentença condenatória, incabível a retroatividade do art. 28-A do CPP.
+Ante o exposto, denego ohabeas corpus.
+Publique-se.
+Intimem-se.
