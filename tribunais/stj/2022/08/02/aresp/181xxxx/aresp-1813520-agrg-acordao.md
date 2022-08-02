@@ -1,0 +1,52 @@
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL. TRÁFICO DE DROGAS. ART. 33, § 4.º, DA LEI N. 11.343/2006. DEDICAÇÃO ÀS ATIVIDADES CRIMINOSAS. INVERSÃO DO JULGADO. INVIABILIDADE. REEXAME DE FATOS E PROVAS. SÚMULA N. 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. No caso, a Corte estadual, soberana na análise da matéria fática, ao apreciar as circunstâncias do caso concreto, entendeu haver razão para aplicar a causa de diminuição do art. 33, § 4.º, da Lei n. 11.343/2006, ao repelir a tese ministerial de afastamento do benefício com base na quantidade de cocaína. Logo, não teria sido demonstrada a dedicação do Recorrido às atividades criminosas ou que integrasse organização dessa natureza.
+2. Com efeito, a Terceira Seção do Superior Tribunal de Justiça, em 27/04/2022, no julgamento do HC n. 725.534/SP, de relatoria do Ministro RIBEIRO DANTAS, reafirmou o entendimento exposto no REsp n. 1.887.511/SP, no sentido de que a quantidade e a natureza da droga apreendida não permitem, por si sós, afastar a aplicação do redutor especial.
+3. Nesse contexto, para rever a conclusão, no sentido de que haveria dedicação às atividades criminosas, seria necessário o reexame de fatos e provas, o que não é possível em recurso especial, nos termos da Súmula n. 7/STJ.
+4. Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo regimental, nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Olindo Menezes (Desembargador Convocado do TRF 1ª Região) votaram com a Sra. Ministra Relatora.
+RELATÓRIO
+A EXMA. SRA. MINISTRA LAURITA VAZ:
+Trata-se de agravo regimental interposto pelo MINISTÉRIO PÚBLICO FEDERAL contra decisão da minha lavra que conheceu do anterior agravo para não conhecer do recurso especial, nos termos da seguinte ementa (fl. 1370; sem grifos no original):
+"AGRAVO EM RECURSO ESPECIAL. PENAL. TRÁFICO DE DROGAS. ART. 33, § 4.º, DA LEI N. 11.343/2006. DEDICAÇÃO ÀS ATIVIDADES CRIMINOSAS. INVERSÃO DO JULGADO. INVIABILIDADE. REEXAME DE FATOS E PROVAS. SÚMULA N. 7/STJ. RESTABELECIMENTO DA FRAÇÃO APLICADA PELO JUÍZO SENTENCIANTE (1/3). ENUNCIADO 283/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL."
+Nas razões do presente agravo, segundo o Parquet, "exsurge do quanto narrado pelas instâncias ordinárias outras circunstâncias do caso concreto que, unidas com a elevada quantidade de drogas apreendidas, caracterizam a dedicação do agente a atividade criminosa ou à integração a organização criminosa" (fl. 1387).
+Pondera que "salta aos olhos os reflexos negativos decorrentes da conduta atribuída ao réu, que foi surpreendido manuseando/prensando grande quantidade de droga, não se tratando de dezenas ou centenas de gramas, mas de 23,2 kg de cocaína, circunstância que, inafastavelmente, foge do padrão do traficante iniciante ou amador" (fl. 1394).
+Pede a reconsideração da decisão agravada, ou a submissão do regimental ao Colegiado.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL. TRÁFICO DE DROGAS. ART. 33, § 4.º, DA LEI N. 11.343/2006. DEDICAÇÃO ÀS ATIVIDADES CRIMINOSAS. INVERSÃO DO JULGADO. INVIABILIDADE. REEXAME DE FATOS E PROVAS. SÚMULA N. 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. No caso, a Corte estadual, soberana na análise da matéria fática, ao apreciar as circunstâncias do caso concreto, entendeu haver razão para aplicar a causa de diminuição do art. 33, § 4.º, da Lei n. 11.343/2006, ao repelir a tese ministerial de afastamento do benefício com base na quantidade de cocaína. Logo, não teria sido demonstrada a dedicação do Recorrido às atividades criminosas ou que integrasse organização dessa natureza.
+2. Com efeito, a Terceira Seção do Superior Tribunal de Justiça, em 27/04/2022, no julgamento do HC n. 725.534/SP, de relatoria do Ministro RIBEIRO DANTAS, reafirmou o entendimento exposto no REsp n. 1.887.511/SP, no sentido de que a quantidade e a natureza da droga apreendida não permitem, por si sós, afastar a aplicação do redutor especial.
+3. Nesse contexto, para rever a conclusão, no sentido de que haveria dedicação às atividades criminosas, seria necessário o reexame de fatos e provas, o que não é possível em recurso especial, nos termos da Súmula n. 7/STJ.
+4. Agravo regimental desprovido.
+VOTO
+A EXMA. SRA. MINISTRA LAURITA VAZ (RELATORA):
+Mantenho a convicção formada em juízo singular.
+Consta dos autos que o Juízo de primeiro grau condenou o Agravado LUCIANO DA SILVA como incurso no art. 33, caput, c.c. o § 4.º, da Lei n. 11.343/2006, às penas de 3 (três) anos e 8 (oito) meses de reclusão, em regime inicial aberto, e 500 (quinhentos) dias-multa (fls. 734-735), pela apreensão de 23,200kg de cocaína (fl. 4).
+Acusação e Defesa interpuseram recursos de apelação, tendo a Corte local, de ofício, aplicado a fração de 2/3 (dois terços) relativa à minorante e, assim, reduzido a reprimenda para 1 (um) ano e 8 (oito) meses de reclusão, mais 180 (cento e oitenta) dias-multa, no mais, mantida a sentença (fl. 949).
+Opostos embargos de declaração, foram rejeitados (fls. 988-997).
+No recurso especial, alegou o Agravante ofensa ao art. 33, § 4.º, da Lei de Drogas, sob o argumento de que "a apreensão de grande quantidade e a natureza da droga apreendida na posse do réu e a presença de petrechos para o tráfico - circunstâncias reconhecida no acórdão - são fatores que permitem concluir pela dedicação do agente à atividade criminosa" (fl. 1019).
+Alternativamente, sustentou o restabelecimento da fração de 1/3 (um terço) relativa à minorante aplicada pelo Juízo Sentenciante (fls. 1024-1026).
+Foram apresentadas contrarrazões (fls. 1063-1069). Inadmitido o recurso especial (fls. 1103-1107), interpôs-se o respectivo agravo (fls. 1256-1265).
+Conforme já relatado, conheci do anterior agravo para não conhecer do recurso especial, com base nos seguintes fundamentos: a) Verbete Sumular n. 7/STJ; e b) Verbete Sumular n. 283/STF.
+Daí a interposição do presente agravo regimental (fls. 1379-1395).
+Feito esse breve escorço histórico, passo ao novo exame do recurso especial, apenas no ponto impugnado (reconhecimento da dedicação do Recorrido à atividade criminosa, com afastamento da minorante prevista no art. 33, § 4.º, da Lei de Drogas).
+No que interessa ao feito, o Tribunal de origem assim consignou:
+"Na terceira fase, relativamente ao crime de tráfico de drogas, incomportável o afastamento da aplicação da minorante, descrita no art. 33, § 4º, da Lei 11.343/06, sob o fundamento de que o acusado Luciano se dedica as atividades criminosas, tendo em vista a quantidade de cocaína apreendida, aproximadamente 23 kg (insurgência ministerial).
+Prescreve o art. 33, § 4º da Lei de Drogas, in verbis: "Nos delitos definidos no caput e no § 1º deste artigo, as penas poderão ser reduzidas de um sexto a dois terços, vedada a conversão em penas restritivas de direitos, desde que o agente seja primário, de bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa".
+Dos autos, constata-se que o réu Luciano preenche os requisitos do art. 33, § 4º da Lei de Entorpecentes. Quanto ao argumento de que se dedica as atividades criminosas, com base na quantidade de substâncias ilícitas apreendidas, referido argumento não pode ser usado para excluir tal benesse, eis que já utilizado para majorar a pena base, no tópico das circunstâncias do delito.
+E mais, de ofício, reduzo a fração adotada pelo magistrado de 1/3 para 2/3, mínimo legal, eis que o juiz de 1º grau deixou de fundamentar o percentual escolhido e, conforme os elementos insertos nos autos, o acusado preenche os requisitos do art. 33, § 3º, ausente um "plus" para não aplicar o patamar mais favorável" (fls. 948-949; sem grifos no original).
+No caso, a Corte estadual, soberana na análise da matéria fática, ao apreciar as circunstâncias do caso concreto, entendeu haver razão para aplicar a causa de diminuição do art. 33, § 4.º, da Lei n. 11.343/2006, ao repelir a tese ministerial de afastamento do benefício com base na quantidade de cocaína. Logo, não teria sido demonstrada a dedicação do Agravado (LUCIANO DA SILVA) às atividades criminosas ou que integrasse organização dessa natureza.
+Com efeito, a Terceira Seção do Superior Tribunal de Justiça, em 27/04/2022, no julgamento do HC n. 725.534/SP, de relatoria do Ministro RIBEIRO DANTAS, reafirmou o entendimento exposto no REsp n. 1.887.511/SP, no sentido de que a quantidade e a natureza da droga apreendida não permitem, por si sós, afastar a aplicação do redutor especial.
+Nesse contexto, para rever a conclusão, no sentido de que haveria dedicação às atividades criminosas, seria necessário o reexame de fatos e provas, o que não é possível em recurso especial, nos termos da Súmula n. 7/STJ.
+Nesse sentido:
+" ..
+2. No caso dos autos, o colegiado estadual, respeitando os critérios legais estabelecidos pelo art. 33, § 4º, da Lei n. 11.343/2006 e, ainda, com observância aos pormenores da situação concreta, entendeu que inexistiam nos autos provas que demonstrassem a dedicação do agravado às atividades criminosas ou de que integrasse organização criminosa, embora tenha sido apreendida grande quantidade de entorpecente, qual seja, mais de 32kg (trinta e dois quilos) de maconha.
+3. Nesse contexto, para que fosse possível a análise da pretensão recursal de decote dessa minorante, seria imprescindível o reexame dos elementos fático-probatórios dos autos, o que é defeso em âmbito de recurso especial, em virtude do disposto na Súmula n. 7 desta Corte. Precedentes.
+4. Agravo regimental desprovido." (AgRg no AREsp 1.532.159/MT, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 18/02/2020, DJe 27/02/2020; sem grifos no original.)
+" ..
+3. Na hipóteses dos autos, o Tribunal de origem, com arrimo no conteúdo fático dos autos, concluiu inexistir prova da dedicação do recorrido em atividades criminosas, de modo que a modificação dessa conclusão demanda o revolvimento do conteúdo probatório, inadmissível em recurso especial (Súmula 7/STJ).
+4. Agravo regimental não provido." (AgRg no AREsp 1.554.118/RN, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 04/02/2020, DJe 12/02/2020; sem grifos no original.)
+Ante o exposto, NEGO PROVIMENTO ao agravo regimental.
+É o voto.
