@@ -1,0 +1,59 @@
+DECISÃO
+Trata-se de agravo interposto por VIAÇÃO RIO DOCE LTDA. contra decisão que não admitiu o recurso especial, fundado na alínea a do inciso III do art. 105 da Constituição Federal, que desafiou acórdão prolatado pelo Tribunal de Justiça do Estado de Minas Gerais assim ementado (e-STJ, fl. 592):
+APELAÇÕES CÍVEIS. AÇÃO DE REPARAÇÃO DE DANOS. RECONVENÇÃO. ACIDENTE DE TRÂNSITO. CULPA. ÔNUS DA PROVA.
+- Para o julgamento procedente de ação de indenização decorrente de acidente de trânsito, é essencial restar demonstrada a culpa pela ocorrência do evento danoso, sendo insuficientes simples alegações.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 619-625).
+Nas razões do recurso especial (e-STJ, fls. 628-643), a recorrente apontou violação aos arts. 489, § 1º, IV e VI, 494, II, 994, IV, e 1.022, I e III, do CPC/2015.
+Sustentou, em síntese, negativa de prestação jurisdicional ante a omissão do Colegiado estadual em analisar questões relevantes para o deslinde da controvérsia, notadamente quanto ao conjunto probatório produzido, a confirmar a culpa exclusiva do motorista da motocicleta pelo acidente de trânsito.
+Sem contrarrazões (e-STJ, fl. 650).
+O recurso especial não foi admitido na origem, o que ensejou a interposição do presente agravo.
+Brevemente relatado, decido.
+De início, no que tange à suposta negativa de prestação jurisdicional, é preciso deixar claro que o acórdão recorrido resolveu satisfatoriamente as questões deduzidas no processo, sem incorrer nos vícios de obscuridade, contradição, erro material ou omissão com relação a ponto controvertido relevante, cujo exame pudesse levar a um diferente resultado na prestação de tutela jurisdicional.
+Assinala-se que as instâncias ordinárias expressamente enfrentaram todas as questões suscitadas pela recorrente, notadamente quanto ao conjunto probatório relacionado ao acidente de trânsito, tratando-se, na verdade, de pretensão de novo julgamento das matérias.
+Ademais, o órgão julgador não está obrigado a responder a questionamentos das partes, mas apenas a declinar as razões de seu convencimento motivado, como de fato ocorre nos autos.
+A propósito:
+PROCESSUAL CIVIL. CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AÇÃO DE PRESTAÇÃO DE CONTAS. LEGITIMIDADE ATIVA. HERDEIROS. SÚMULA N. 83 DO STJ. SUPRESSIO. NÃO OCORRÊNCIA. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283/STF. DECISÃO MANTIDA.
+1. Inexiste negativa de prestação jurisdicional quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. De acordo com a jurisprudência desta Corte, é "transmissível aos herdeiros do outorgante da procuração falecido o direito de exigir a prestação de contas do outorgado" (AgInt no REsp 1848799/RJ, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 30/03/2020, DJe 01/04/2020).
+3. A Súmula n. 83 do STJ aplica-se aos recursos especiais interpostos com fundamento tanto na alínea "c" quanto na alínea "a" do permissivo constitucional.
+4. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.411.897/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 7/12/2021, DJe 9/2/2022)
+O Tribunal de origem, ao julgar o recurso de apelação, consignou o seguinte (e-STJ, fls. 594-598, sem grifo no original):
+Viação Rio Doce Ltda. ajuizou Ação de Reparação de Danos em face de José Carlos Coelho, alegando que no dia 2410812013 se envolveu em um acidente de trânsito com uma motocicleta de propriedade do requerido e dirigida por Antônio Bragança de Oliveira, acidente que teria sido causado pelo motociclista. Já José Carlos Coelho apresentou reconvenção contra a empresa de transporte, alegando culpa do motorista da empresa de transporte.
+O MM. Juiz de primeiro grau julgou improcedentes os pedidos inicial e o reconvencional, ao fundamento de ausência de comprovação de quem seria o real causador do acidente.
+Inicialmente, registre-se que ambos os recursos serão analisados conjuntamente, em virtude de as matérias discutidas estarem interligadas.
+Como é sabido, duas são as espécies de responsabilidade civil: a objetiva e a subjetiva. A objetiva é admitida no direito pátrio nos casos especiais previstos em lei. Não havendo norma estabelecendo a responsabilidade objetiva, será subjetiva, hipótese em que a obrigação de indenizar pressupõe a demonstração de culpa do causador do dano.
+Trata-se, no caso, de responsabilidade subjetiva.
+O pressuposto básico da responsabilidade civil subjetiva, em acidente de veículos, é a culpa. Assim, o autor, ao propor a ação, deve bem descrever os fatos, devendo também produzir prova da culpa.
+Conforme Boletim de Ocorrência de fl. 10-17, vê-se que a motocicleta Yamaha, placa OOW-2915, conduzida por Antônio Bragança de Oliveira, e o ônibus da empresa Viação Rio Doce, placa GWI-7050, conduzida por Francisco Bandeira Matos, se envolveram em um acidente de trânsito no dia 2410812013, por volta das 3 (três) horas da madrugada.
+Consta no Boletim de Ocorrências apenas a versão do motorista do ônibus, pois o motorista da motocicleta veio a falecer no local do acidente, in verbis (f. 13):
+"O condutor informou que transitava no sentido decrescente da BR-1 16, em sua mão de direção, quando percebeu que uma motocicleta havia saído da via lateral, do outro lado da pista, e transitava na contramão, no mesmo sentido do ônibus, na BR-1 16. Entretanto, após avistar um veículo que seguia em sua direção, no sentido contrário, o motociclista voltou para a sua mão de direção, em baixa velocidade e na frente do ônibus, momento em que o ônibus colidiu contra a motocicleta."
+Foi juntado aos autos às ff. 289-291 um laudo pericial, confeccionado pela Polícia Civil do Estado de Minas Gerais (l Delegacia Regional de Polícia Civil, Seção Técnica Regional de Criminalística), por policial que esteve no local e dia do acidente, que concluiu:
+"Os elementos de ordem técnica colhidos no local e veículos demonstram que o condutor do ônibus realizou uma manobra à direita, considerando seu deslocamento, face a presença da motocicleta na rodovia, corroborado pela marca de frenagem e atritamento na pista, ocorrendo a colisão da frontal esquerda do ônibus contra a traseira da motocicleta, onde os veículos permaneceram com suas regiões conflitantes em permanente contato por cerca de 31 metros até a posição . acinética de ambos e o condutor da motocicleta também ficou a frente do ônibus por instantes até que teve seu corpo de encontro ao piso ficando sob o ônibus e a frente da roda dianteira esquerda. Os elementos constatados apontam para duas situações possíveis, uma colisão traseira onde a culpabilidade seria do condutor do ônibus por não guardar distância frontal do veículo à frente, e outra situação poderia condutor da motocicleta ter adentrado de inopino dando causa ao acidente. Portanto, a ausência de outros elementos de ordem técnica impossibilita de emitir um parecer conclusivo quanto a culpabilidade dos condutores do acidente, ficando a cargo de testemunhas oculares, caso existentes."
+Como se vê, a prova pericial é clara e objetiva, apontando duas possibilidades quanto à culpabilidade pelo acidente, devendo a  culpabilidade ser aferida através de prova testemunhal.
+A distribuição do ônus probatório vem fixada no Código de Processo Civil segundo requisitos claros e objetivos, previstos no artigo 373, do novo CPC, que dispõe:
+( )
+Em análise dos autos, verifica-se que todas as testemunhas ouvidas em Juízo não presenciaram o acidente, in verbis:
+Depoimento de Paulo Sérgio Fialho Júnior (ff. 254-254verso):
+"(..) não presenciou o acidente narrado na petição inicial; o fato ocorreu cerca de 500 metros de distância do posto da PRF; compareceu no local logo após o acidente (..)."
+A testemunha Nilson Nogueira foi ouvida pelo sistema audiovisual, tendo seu depoimento sido gravado em CD, não sendo transcrito para os autos. Consta às ff. 323 que o CD foi desentranhado dos autos e guardado em cofre da Secretaria do Juízo, ficando à disposição das partes. No entanto, na r. sentença, assim manifestou-se o Magistrado de primeiro grau quanto ao conteúdo do depoimento da testemunha:
+"Esclareço, por oportuno, que a testemunha Nilson Nogueira, ouvida por sistema audiovisual (ff. 322/323), igualmente declarou não haver presenciado o acidente e não saber de quaisquer informações sobre o ocorrido."
+Portanto, conforme as provas produzidas nos autos, não é possível apontar o real culpado pelo acidente. É certo que quem colide com a traseira de outro veículo, a princípio, teria agido com culpa. Do mesmo modo, aquele que adentra em via preferencial sem observar o tráfego de veículos também age com culpa. No entanto, a culpa de ambas as versões não é presumida, necessitando de prova da conduta dos condutores dos veículos.
+Portanto, é ônus de cada apelante comprovar sua versão, o que não ocorreu nos autos.
+O fato de o ônibus estar em velocidade acima do permitido para o local, por si só, não é suficiente para que seja sua a culpa pelo acidente. São necessários outros elementos de prova para configurar a sua culpa pelo acidente.
+Portanto, como não é possível averiguar qual versão seria a verdadeira, se da primeira ou do segundo apelantes, não há motivos para a reforma da r. sentença.
+Destarte, as instâncias ordinárias concluíram, com base no conjunto fático-probatório, especialmente pelas provas pericial e testemunhal produzidas, não ser possível apontar o real culpado pelo acidente de trânsito.
+Logo, não há como desconstituir o entendimento delineado no acórdão impugnado, sem que se proceda ao reexame dos fatos e das provas dos autos, o que não se admite nesta instância extraordinária, em decorrência do disposto na Súmula 7/STJ.
+Ilustrativamente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. DANOS MATERIAIS E MORAIS. ACIDENTE DE TRÂNSITO. CULPA. NÃO COMPROVAÇÃO. REEXAME DE MATÉRIA PROBATÓRIA. INVIABILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+1. O eg. Tribunal de origem, com fundamento nas provas documentais trazidas aos autos e depoimento de testemunhas, reconheceu a falta de comprovação da culpa dos recorridos pelo acidente de trânsito, sendo indevida a reparação por danos materiais e morais pleiteada pelo recorrente.
+2. A modificação de tal entendimento demandaria o revolvimento de suporte fático-probatório dos autos, medida inviável em sede de recurso especial, a teor da Súmula 7 deste Pretório.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.871.178/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 4/10/2021, DJe de 8/11/2021.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários recursais em favor dos advogados da parte recorrida para 15% (quinze por cento) sobre o valor do débito atualizado.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO DE DANOS. ACIDENTE DE TRÂNSITO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL E FUNDAMENTAÇÃO DEFICIENTE. NÃO OCORRÊNCIA. CULPA PELO EVENTO DANOSO. AUSÊNCIA DE DEMONSTRAÇÃO DO REAL CAUSADOR DO ACIDENTE. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
