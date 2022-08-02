@@ -1,0 +1,37 @@
+DECISÃO
+Cuida-se dehabeas corpuscom pedido liminar impetrado em favor de MARIA DA SILVA DOS SANTOSem que se aponta como autoridade coatora Desembargadora do Tribunal de Justiça do Estado do Maranhão (HC n. 0812368-86.2022.8.10.0000).
+A paciente foi presa em flagrante por suposta prática dos delitos descritos nos arts.33 e 35 da Lei n.11.343/2006, sendo a prisão em flagrante convertida em preventiva.
+Impetradohabeas corpusperante a Corte de origem, o pedido liminar foi indeferido pela desembargadora relatora.
+O impetrantesustenta a necessidade de afastamento do enunciado n. 691 da Súmula da Suprema Corte, em razão dacarência de motivação idônea para a decretação e a manutenção da prisão preventiva do paciente, ante a ausência dos requisitos autorizadores da medida extrema, previstos no art. 312 do Código de Processo Penal.
+Afirma que o mandado de busca e apreensão que culminou naprisão teria como alvo pessoas diversas dapaciente, quesequer era investigada pela polícia e só acabou presa em flagrante pelo fato de ter sido encontrado droga nos fundos de sua residência.
+Alega, ainda, que a paciente tem estado de saúde debilitado.
+Requer, liminarmente e no mérito, a soltura da paciente, ainda que mediante a aplicação de medidas cautelares diversas da prisão.
+É, no essencial, o relatório. Decido.
+A matéria não pode ser apreciada pelo Superior Tribunal de Justiça, pois não foi examinada pelo Tribunal de origem, que ainda não julgou o mérito do recurso originário.
+A jurisprudência do STJ firmou-se no sentido de que não cabe habeas corpus contra indeferimento de pedido de liminar em outra insurgência, salvo no caso de flagrante ilegalidade, conforme demonstra o seguinte precedente:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. SUPOSTO EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. IMPOSSIBILIDADE DE SUPERAÇÃO DA SÚMULA N. 691 DA SUPREMA CORTE. AUSÊNCIA DE TERATOLOGIA. HABEAS CORPUS INDEFERIDO LIMINARMENTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não se admite habeas corpus contra decisão negativa de liminar proferida em outro writ na instância de origem, sob pena de indevida supressão de instância. Súmula n. 691/STF.
+2. Não há ilegalidade flagrante ou teratologia no caso em apreço. Os prazos indicados para a consecução da instrução criminal servem apenas como parâmetro geral, tendo em vista que variam conforme as peculiaridades de cada processo, razão pela qual a jurisprudência uníssona os tem mitigado, à luz do Princípio da Razoabilidade. Na hipótese, verifica-se, em juízo preliminar, que o feito é complexo, tendo em vista a pluralidade de réus - cinco -, que foram surpreendidos transportando elevada quantidade de entorpecente, o que afasta, em princípio, o excesso de prazo sustentado pela Defesa.
+3. Também não se pode desconsiderar as penas em abstrato atribuídas aos delitos imputados na denúncia (tráfico e associação para o tráfico de drogas), o que demonstra que a prisão cautelar não é, em tese, desproporcional.
+4. Ademais, não se verifica a ocorrência de flagrante ilegalidade na decisão proferida pelo Desembargador Relator que, ao indeferir o pedido liminar, entendeu adequada a prévia solicitação de informações ao Juízo singular, antes da análise, de maneira definitiva, da alegada desídia estatal na condução do feito.
+5. Agravo regimental desprovido.
+(AgRg no HC 705.588/RJ, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 14/12/2021, DJe 17/12/2021)
+Confira-se também, por analogia, a Súmula n. 691 do STF: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar."
+No caso, não visualizo, em juízo sumário, manifesta ilegalidade que autorize o afastamento da aplicação do mencionado verbete, porquantoforam declinados os fundamentos para o indeferimento do pedido liminarformulado perante o Tribunal a quo, consoante se extrai das seguintes passagens (fls. 22/24):
+2.1 Sobre os requisitos para a decretação da custódia cautelar
+Inicialmente, constato que os crimes pelos quais a paciente é investigada (arts. 33 e35 da Lei nº 11.343/06) possuem pena máxima superior a 4 (quatro) anos, atendendo, assim, ao requisito insculpido no art. 313, I, do CPP.
+Em perspectiva outra, observo que, como consta dos autos do processo de origem, foram encontrados na residência da paciente uma grande quantidade de substâncias entorpecentes, além de dinheiro em espécie e outros objetos que indicam a prática habitual d traficância, corroborando com as informações colhidas em sede de investigação policial.
+Dessa forma, diante do risco concreto à ordem pública, dada a grande possibilidade de reiteração delitiva, é necessária a manutenção da prisão preventiva da paciente, na formado Art. 312 do CPP.
+E, finalmente, pelos motivos expostos, não há que se cogitar de ausência desproporcionalidadeda prisão preventiva, então decretada, diante da sua indispensabilidade no caso concreto, não sendo suficientes medidas cautelares diversas da prisão, nem para a repressão do delito, nem para a manutenção da ordem social.
+De outra perspectiva, não se deslindou qualquer interveniência fática apta a afastara prova da materialidade delitiva, os indícios de autoria ou o risco à ordem pública.
+2.2 Acerca do cumprimento do mandado de busca e apreensão e da negativa de autoria
+De outro lado, entendo que não há ilegalidade a ser reparada no tocante ao cumprimento do mandado de busca e apreensão, expedido nos autos do processo nº0800282-51.2022.8.10.0140.
+Isso porque, embora o referido mandado fosse dirigido a pessoa diversa, observo que o alvo da busca convive com uma filha da paciente, como consta da própria petição inicial. Ademais, a ordem judicial foi cumprida no imóvel corretamente indicado na representação da Autoridade Policial, em que se pratica efetivamente a traficância, conforme apurado até o momento no bojo do inquérito policial.
+Noutro giro, os indícios apontam que a paciente comercializa drogas em seu imóvel, onde foram encontradas substâncias entorpecentes e objetos ligados ao delito de tráfico, quando do cumprimento da ordem judicial retromencionada.
+Desta feita, estando presentes os indícios de autoria, não há que se falar em revogação da prisão preventiva. Ressalte-se que eventual discussão acerca da negativa de autoria será feita apenas no momento processual oportuno, ou seja, durante a instrução processual, conforme apontado pelo próprio impetrante, sendo inviável tal análise na via estreita do habeas corpus.
+2.3 Quanto ao estado de saúde da paciente
+Por fim, deve ser indeferido o pedido de conversão da prisão preventiva em prisão domiciliar, sob a alegação de fragilidade do seu estado de saúde, já que as provas coligidas aos autos não são suficientes para comprovar o alegado. Frise-se que não há prova de que a alegada condição de saúde da paciente não possa ser tratada na própria Unidade Prisional; ao contrário, o documento ID 18008010 indica que o estado de saúde da paciente é estável, tendo passado inclusive por atendimento médico no dia 06/06/2022.
+Assim, não tendo a paciente comprovado o preenchimento de nenhum dos requisitos previstos no art. 318 do CPP, não há que se falar em substituição da prisão preventiva pela domiciliar.
+Ante o exposto, com fundamento no art. 21, XIII, c, c/c o art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
