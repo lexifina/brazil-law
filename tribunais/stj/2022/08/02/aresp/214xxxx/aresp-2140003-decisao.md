@@ -1,0 +1,55 @@
+DECISÃO
+Cuida-se de agravo interposto por Warley Inácio de Assis desafiando decisão do Tribunal de Justiça do Estado de Minas Geraisque não admitiu o processamento do recurso especial, com fundamento no art. 105, inciso III, alíneaa, da Constituição Federal, manejado, por sua vez, contraacórdão assim ementado (e-STJ, fl. 239):
+APELAÇÃO CÍVEL - AÇÃO DE REVISÃO CONTRATUAL - JUROS REMUNERATÓRIOS - CALCULADORA DO CIDADÃO - MEIO INIDÔNEO PARA APONTAR A DISCREPÂNCIA DA TAXA EFETIVAMENTE APLICADA - CAPITALIZAÇÃO MENSAL DE JUROS - LEGALIDADE - TARIFA REGISTRO DE CONTRATO - CUSTO DE RESPONSABILIDADE DO CREDOR - TARIFA DE AVALIAÇÃO - INEXISTÊNCIA DE EFETIVA PRESTAÇÃO DO SERVIÇO CORRESPONDENTE - ABUSIVIDADE CONFIRMADA.
+- As instituições financeiras não estão sujeitas às taxas de juros previstas no Decreto nº. 22.626133, mas àquelas fixadas pelo Conselho Monetário Nacional, a teor do disposto no art. 40, VI e IX, da Lei nº. 4.595/64.
+- A calculadora do cidadão, mecanismo utilizado pelo segundo apelante para afirmar que a taxa de juros efetivamente aplicada é diversa daquela prevista no contrato, não é meio idôneo para comprovar tal alegação, na medida em que realiza cálculos simples, nos quais não são considerados os encargos administrativos e tributos que integram a base de cálculo do montante financiado.
+- Em relação à capitalização de juros, no julgamento do REsp nº 973.827/RS, submetido à sistemática dos recursos repetitivos, restou decidido que nos contratos firmados após 31/3/2000, data da publicação da Medida Provisória nº1.963-17, admite-se a capitalização dos juros em periodicidade inferior a um ano, desde que pactuada de forma clara e expressa, assim considerada quando prevista a taxa de juros anual em percentual doze vezes maior do que a mensal
+- As despesas de responsabilidade do prestador de serviço, como registro de contrato, são custos que não podem ser repassados ao consumidor, diante da inexistência de embasamento normativo para tanto.
+- Não demonstrada a efetiva avaliação do bem, é ilegal a cobrança da tarifa relativa a aludido serviço.
+Os aclaratórios opostos foram rejeitados (e-STJ, fls. 296-304).
+Nas razões do recurso especial, o recorrente versou sobre alimitação dos juros remuneratórios, capitalização de juros, e distribuição do ônus da sucumbência.
+Pleiteou queseja o recorrido condenado a arcar com o pagamento da custas do processo em maior parte, além de pagar honorários de sucumbência em favor do recorrente, em obediência ao princípio da causalidade.
+Não foram apresentadas contrarrazões (e-STJ, fl. 331).
+O Tribunal de origem, em juízo bipartido,negou seguimentoao recursoquanto à questão dos juros moratórios e capitalização de juros tendo em vista o entendimento firmado pelo STJ nos Recursos Especiais n. 1.061.530/RS e 973.827/RS(Temas 24 a 27, 246 e 247 do STJ), enão admitiu o recurso, em relação a distribuição do ônus de sucumbência pela incidência da Súmula n. 7 do STJ.
+Irresignado, o recorrenteinterpõeagravo refutando os óbices apontados pela Corte estadual.
+Contraminuta às fls. 430-433 (e-STJ).
+Brevemente relatado, decido.
+De início,conforme acima salientado, foi negado seguimento ao recurso especial, nos termos do art. 1.030,b, do CPC/2015, haja vista que a questão relativa à controvérsia envolvendo osjuros moratórios e capitalização de juros (Temas 24 a 27 e 246 e 247 do STJ) foram decididas na Corte estadual em conformidade com precedentes firmados pelo Superior Tribunal de Justiça em recursos especiais repetitivos.
+Assim, não merece conhecimento o presente agravo nospontos. Isso porque se trata de recurso incabível, tendo em vista que, conformedispõe o art. 1.030, § 2º, do CPC/2015, uma vez negado seguimento ao recurso especial na instânciaa quo, considerandoa conformidade do entendimento exarado pelo acórdão recorrido com o firmado em julgamento repetitivo por este Tribunal Superior, a irresignação da parte com a decisão de admissibilidade proferida pela Corte de origem deve se dar por meio de agravo interno, nos termos do art. 1.021 do CPC/2015.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - EMBARGOS À EXECUÇÃO - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO (ART. 1.042, DO CPC/15) PARA NÃO CONHECER DO RECLAMO. INSURGÊNCIA DA PARTE EMBARGANTE.
+1. Nos termos do art. 1.030, I, "b", do CPC/15, não cabe a interposição de recurso ao STJ para impugnar ato decisório que denega seguimento ao recurso especial, sob o fundamento de estar o acórdão recorrido em consonância com o entendimento firmado em julgamento processado pelo regime de recursos repetitivos.
+2. A ausência de enfrentamento da matéria pelo Tribunal de origem impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento. Incidência da Súmula 211 do STJ.
+3. Agravo interno desprovido.
+(AgInt no AREsp 1.917.218/SP, RelatorMinistro Marco Buzzi, Quarta Turma, julgado em 25/10/2021, DJe 28/10/2021).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE CONSIGNAÇÃO EM PAGAMENTO CUMULADA COM REVISIONAL. VIOLAÇÃO DE DISPOSITIVO CONSTITUCIONAL. DESCABIMENTO. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. IMPUGNAÇÃO POR MEIO DE AGRAVO INTERNO. AUSÊNCIA. REEXAME DE FATOS E PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE.
+1. Ação de consignação em pagamento cumulada com revisional.
+2. A interposição de recurso especial não é cabível quando ocorre violação de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+3. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+4. De acordo com o disposto no art. 1.030 do CPC, com a redação dada pela Lei 13.256/2016, a decisão que inviabiliza a subida do recurso especial, quando apresenta duplo fundamento para negar seguimento e também inadmitir o apelo, comporta, quanto à parte inadmitida, a interposição de agravo nos próprios autos (art. 1.030, V, § 1º, c/c o art. 1.042 do CPC/15) e, quanto à parte a qual se negou seguimento, agravo interno dirigido à Corte local (art. 1.030, I,b, § 2º, c/c o art. 1.021 do CPC/15).
+5. O reexame de fatos e provas e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+6. Agravo interno não provido.
+(AgInt no AREsp 1.895.566/RJ, RelatoraMinistra Nancy Andrighi,TerceiraTurma, julgado em 25/10/2021, DJe 28/10/2021).
+No que se refere ao redimensionamento do ônus sucumbencial, o Tribunal de origem consignou o seguinte (e-STJ, fl. 251):
+Por fim, insurge-se o segundo apelante contra a distribuição do ônus da sucumbência, alegando que a instituição financeira deve ser condenada em proporção maior.
+Nenhum reparo merece a sentença neste ponto, considerando que as despesas do processo foram distribuídas, segundo a sucumbência de cada parte.
+Ao contrário do que defende o segundo apelante, não é o princípio da causalidade que deve nortear a distribuição das despesas processuais no caso sob exame, mas sim o princípio da sucumbência, que estabelece a divisão do ônus sucumbencial de forma proporcional, a teor do disposto no ad. 21 do CPC/1973.
+Constata-se que o Tribunal originário entendeu que, diante da sucumbência recíproca constatada nos autos em 50% (cinquenta por cento) para cada litigante, a distribuição da verba honorária sucumbencial deveria ser fixada nos termos da proporção em que ambas as partes sucumbiram no julgamento da ação.
+Dessa forma, verifica-se que a referida compreensão está em conformidade com a orientação jurisprudencial para o tema, consoante os seguintes julgados:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. MULTA PREVISTA NO ART. 1.021, § 4º, DO CPC. NÃO INCIDÊNCIA. HONORÁRIOS ADVOCATÍCIOS. ART. 85, § 11, DO CPC/2015. SUCUMBÊNCIA RECÍPROCA. FIXAÇÃO NA ORIGEM. AUSÊNCIA. MAJORAÇÃO. IMPOSSIBILIDADE. OMISSÕES NÃO CONFIGURADAS. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Em consonância com a jurisprudência pacífica desta Corte Superior, a simples interposição de agravo contra decisão do relator não implica a imposição de multa.
+2. No caso concreto, não é possível inferir que o agravo interno padecia de manifesta inadmissibilidade nem que o desprovimento se revestia de notória evidência, a justificar a cristalização de conduta abusiva ou protelatória, em virtude da mera interposição do recurso. Não cabível, portanto, a incidência do art. 1.021, § 4º, do CPC.
+3. Por outro lado, "registra-se que a Segunda Seção dessa Corte, por ocasião do julgamento do AgInt nos EREsp n. 1539725/DF, firmou entendimento de que a majoração da verba honorária, na forma do art. 85, § 11, do CPC/15, somente é devida quando, dentre outros requisitos, houver condenação desde a origem no feito em que interposto o recurso - o que não ocorre no caso, visto que não foram anteriormente fixados honorários de advogado, em face da sucumbência recíproca".(AgInt no AREsp 1351087/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 27/05/2019, DJe 03/06/2019).
+4. Embargos de declaração rejeitados.
+(EDcl no AgInt no REsp 1.794.551/SP, RelatorMinistro Luis Felipe Salomão,Quarta Turma, julgado em 29/10/2019, DJe 18/11/2019).
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. ART. 85, § 11, DO CPC/2015. SUCUMBÊNCIA RECÍPROCA. FIXAÇÃO NA ORIGEM. AUSÊNCIA. MAJORAÇÃO. IMPOSSIBILIDADE.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, é possível o arbitramento de honorários sucumbenciais recursais, na forma do artigo 85, § 11, do Código de Processo Civil de 2015.
+3. Havendo sucumbência recíproca, em que cada parte se responsabiliza pela remuneração do seu respectivo patrono, sem a fixação expressa de valores, é incabível a majoração dos honorários advocatícios com base no art. 85, § 11, do Código de Processo Civil de 2015.
+4. Agravo interno não provido.
+(AgInt no AREsp 1.340.890/PE, RelatorMinistro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 13/05/2019, DJe 21/05/2019).
+Diante do exposto, conheço parcialmente do agravo para conhecer parcialmente do recurso especial e, nessa extensão negar-lhe provimento.
+Fiquem as partes cientificadas de que ainsistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO.1.RECURSO ESPECIAL PARCIALMENTE INADMITIDO NA ORIGEM COM FULCRO NA APLICAÇÃO DE TESE FIRMADA EM REPETITIVO - TEMAS 24 A 27, 246 E 247/STJ. IMPOSSIBILIDADE DE O STJ CONHECER DO AGRAVO EM RECURSO ESPECIAL NA PARTE EM QUE SE DISCUTE TAIS QUESTÕES.2. DISTRIBUIÇÃO DOS ÔNUS SUCUMBENCIAIS. SÚMULA N. 83 DO STJ. 3.AGRAVO PARCIALMENTE CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
