@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo interposto por Henrique Wesley Miranda Gomescontra a decisão do Tribunal de Justiça de São Paulo que, em juízo de admissibilidade, inadmitiu o recurso especial por ele apresentado contra o acórdão proferido na Apelação Criminal n. 1502569-77.2019.8.26.0536 (fls. 242/245).
+Opostos embargos de declaração (fls. 253/255), foram rejeitados (fls. 257/259).
+No recurso especial, o agravante indica a violação do art. 33, § 4º, da Lei n. 11.343/2006, sob a tese da inidoneidade da fração de redução de pena adotada pelas instâncias ordinárias, requerendo a sua aplicação no patamar máximo permitido.
+Apresentadas contrarrazões (fls. 279/284), o Tribunal de origem não admitiu o recurso com suporte na Súmula 283/STF (fls. 287/288).
+Contra essa decisão, a defesa interpõe o presente agravo (fls. 294/297).
+Instado a se manifestar, o Ministério Público Federal opinou pelo NÃO CONHECIMENTO do Agravo em Recurso Especial, em razão da ausência de impugnação específica da Decisão agravada, aplicando-se a Súmula182/STJ, e, consequentemente, pelo NÃO CONHECIMENTO do Recurso Especial uma vez que o pleito de aplicação da redutora descrita no art. 33, § 4º, da Lei nº 11.434/2006, em seu grau máximo, não guarda amparo na jurisprudência firmada por essa Colenda Corte Superior, atraindo ao presente caso, por conseguinte, a incidência da Súmula 83 do STJ, bem como pela deficiência de fundamentação, fazendo incidir a Súmula 284/STF (fl. 363).
+É o relatório.
+O pleito encontra-se prejudicado, haja vista o pedido contido no presente recurso especial ter sido apreciado no Habeas Corpus n. 717.342/SP, de minha relatoria, no qual o recorrente figurou como paciente.
+Essa foi a fundamentação lançada na decisão proferida do mencionado writ:
+ ..
+Não assiste razão à impetrante.
+Com efeito, o Tribunal a quo, ao manter a modulação do redutor do § 4º do art. 33 da Lei n. 11.343/2006 no patamar de 1/3, asseverou (fl. 44 - grifo nosso):
+Não procedem, porém, os apelos.
+Com efeito. Restou positivado que o apelante guardava e trazia consigo, para fins de entrega à consumo de terceiros, 45 gramas, em forma de pó, de cocaína, 355 gramas, da substância entorpecente vulgarmente conhecida como MACONHA, 10 gramas, em forma de pedra, do vulgarmente conhecido como Crack, e 200 gramas, em estado líquido, de solvente químico inalante, conhecido como lança perfume ou "loló".
+Na dosimetria das penas, as básicas foram corretamente fixadas nos patamares mínimos previstos para a espécie, ou seja, cinco anos de reclusão e quinhentos dias-multa, em consideração à primariedade do acusado, confitente espontâneo da infração. Na segunda fase, a despeito da confissão, tais reprimendas foram mantidas, uma vez que inviável a redução aquém do mínimo legal (Súmula 231, do STJ).
+De outra parte, na terceira fase do cálculo, tem-se que foi bem concedido o benefício do artigo 33, § 4º, da Lei de Drogas, uma vez que o apelante é primário, não se prestando a variedade e quantidade de drogas apreendidas, -- que, aliás, embora não desprezível, não se revela excessiva, -- só por si, à comprovação de dedicação ao tráfico; apenas revelam envolvimento mais acentuado (não necessariamente dedicação), devendo, pois, influenciar, como, no caso, influenciaram, no percentual de redução, que no caso, foi estabelecido em 1/3, percentual que se mostra adequado e que é igualmente preservado.
+Do exposto, verifica-se que o acórdão recorrido se encontra em consonância com a jurisprudência desta Corte, firmada no sentido de que, embora a quantidade e a natureza das drogas apreendidas não permitam, por si sós, afastar a aplicação do redutor especial, tais elementos podem ser utilizados para justificar a modulação do quantum de diminuição da minorante, consoante entendimento reafirmado pela Terceira Seção, em 27/04/2022, no julgamento do HC n. 725.534/SP, da relatoria do Ministro RIBEIRO DANTAS (AgRg no HC n. 742.162/SP, Ministra Laurita Vaz, Sexta Turma, DJe de 13/6/2022).
+Assim, considerando que a revisão da pena imposta pelas instâncias ordinárias pela via do habeas corpus é possível, mas somente em situações excepcionais, de manifesta ilegalidade ou abuso de poder, reconhecíveis de plano, sem que haja necessidade de incursões em aspectos circunstanciais ou fáticos e probatórios, bem como atendendo ao princípio do livre convencimento motivado, considero proporcional e suficiente a fração de 1/3 aplicada, tendo em consideração a quantidade e variedade de drogas apreendidas (45 gramas, em forma de pó, de cocaína, 355 gramas, da substância entorpecente vulgarmente conhecida como MACONHA, 10 gramas, em forma de pedra, do vulgarmente conhecido como Crack, e 200 gramas, em estado líquido, de solvente químico inalante, conhecido como lança perfume ou "loló" - fl. 44).
+Ante o exposto, denego a ordem.
+ ..
+O trânsito em julgado do referido Habeas Corpus deu-se em 1º/7/2022.
+Ante o exposto, com fundamento no art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO PENAL. VIOLAÇÃO DO ART. 33, § 4º, DA LEI N. 11.343/2006. TESE DE INIDONEIDADE NA FRAÇÃO DE REDUÇÃO DE PENA ADOTADA PELAS INSTÂNCIAS ORDINÁRIAS. CONSIDERAÇÃO DA QUANTIDADE E VARIEDADE DE ENTORPECENTE APREENDIDO (45 G DE COCAÍNA; 355 G DE MACONHA; 10 G DE CRACK E 200 G DE LANÇA PERFUME). PREJUDICIALIDADE CONSTATADA. FUNDAMENTOS CONTIDOS NA DECISÃO PROFERIDA NO HC N. 717.342/SP, TRANSITADO EM JULGADO EM 1º/7/2022.
+Agravo em recurso especial não conhecido.
