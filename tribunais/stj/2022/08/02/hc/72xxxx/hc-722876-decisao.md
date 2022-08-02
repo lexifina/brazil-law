@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em favor de MARCOS ANDRE OLIVEIRA, contra acórdão do Tribunal de Justiça do Estado de Minas Gerais, que denegou a ordem originária e manteve a prisão preventiva do paciente, decretadapela suposta prática do delito tipificado no art. 33, caput, da Lei 11.343/06.
+Nesta Corte, a defesa sustenta que a) não foi observado o prazo legal para a audiência de custódia, tendo sido estarealizada quase 72 horas após a prisão em flagrante; b) não foi possível o acompanhamento do réu pelo advogado constituído, por falha da secretaria de primeiro grau que não juntou a procuração devida aos autos e não viabilizou o link de acesso a referida audiência ao patrono nomeado.
+Argumenta, também, que aprisão cautelar foi decretada de ofício e não houve a indicação de motivação válida.
+Requer o relaxamento da custódia provisória ou sua substituição por outras medidas cautelares.
+O pedido liminar foi indeferido.
+As informações prestada pelo Juízo de primeiro grau noticiam a superveniência de sentença que condenou o paciente à pena de
+O Ministério Público Federal opinou pelo não conhecimento do writ.
+É o relatório.
+Decido.
+Esta Corte - HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+Inicialmente, vale registrar que eventuais irregularidades ou ilegalidades ocorridas durante a prisão em flagrante estão superadas com a existência de novo título judicial a respaldar a custódia provisória do paciente - decreto preventivo mantido no éditocondenatório(AgRg no RHC n. 163.274/MT, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 26/4/2022, DJe de 29/4/2022;RHC n. 120.018/MT, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 23/6/2020, DJe de 1/7/2020.)
+Anote-se, ainda, que as informações colacionadas ao feito não deixam dúvida de que a prisão preventiva foi determinadaapós requerimento do Parquet (e-STJ, fls. 311; 349), o que afasta, de pronto, a tese de decretação de ofício sustentada pela defesa.
+No mais, consta do decreto preventivo:
+Consta que durante patrulhamento em local descampado, conhecido como ponto de uso e venda de drogas, policiais realizaram a abordagem de alguns indivíduos, dentre eles o autuado, que estava agachado atrás de um veículo estacionado.
+Em busca pessoal, localizaram em seu bolso 02 buchas de maconha e a importância de R$444,00(quatrocentos e quarenta e quatro reais) em cédulas diversas, enquanto no local em que estava agachado, encontraram mais 20 buchas de maconha.
+Em que pese a negativa de autoria, a narrativa dos policiais é coerente e descreve com clareza a empreitada criminosa que ora se apresenta. E, de acordo com o laudo toxicológico preliminar, constatou-se que o material apreendido comportou-se como maconha (28,20 g).
+A forma como acondicionada os entorpecentes, em diferentes porções, demonstra, em linha de princípio, que as substâncias se destinariam a venda.
+Assim, há indícios de autoria e materialidade do crime em apuração.
+ ..
+Verifico que o autuado possui condenação pelo crime de tráfico de drogas, em cumprimento de pena em regime aberto, além de responder por outro processo pelo mesmo crime, demonstrando a reiteração delitiva.
+Tais circunstâncias demonstram sua postura altamente subversiva ao ordenamento jurídico, atraindo a necessidade de uma resposta mais efetiva do Poder Judiciário, como forma de acautelamento da ordem pública, eis que o autuado já deu nítidas mostras de que, solto, tende a reiterar na prática de delitos, principalmente aqueles previstos na Lei 11.343/06.
+Conforme vem entendendo a doutrina e a jurisprudência, a reiteração de condutas delituosas por parte do agente é motivo suficiente para gerar abalo da ordem pública, de modo a revelar a necessidade do decreto preventivo.
+Como se verifica, embora a quantidade de droga apreendida seja pequena 22 buchas de maconha, a custódia cautelar está motivada na garantia da ordem pública, haja vista a reiterada conduta delitiva do paciente, pois "o autuado possui condenação pelo crime de tráfico de drogas, em cumprimento de pena em regime aberto, além de responder por outro processo pelo mesmo crime".
+Dessarte, segundo jurisprudência desta Corte, "a persistência do agente na prática criminosa justifica, a priori, a interferência estatal com a decretação da prisão preventiva, nos termos do art. 312 do CPP, porquanto esse comportamento revela uma periculosidade social e compromete a ordem pública" (RHC 118.027/AL, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 08/10/2019, DJe 14/10/2019).
+No mesmo sentido:
+"HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. ART. 312 DO CPP. PERICULUM LIBERTATIS. MOTIVAÇÃO IDÔNEA. SUBSTITUIÇÃO POR CAUTELARES DIVERSAS. INSUFICIÊNCIA E INADEQUAÇÃO. DENEGADA A ORDEM.
+1. A prisão preventiva possui natureza excepcional, sempre sujeita a reavaliação, de modo que a decisão judicial que a impõe ou a mantém, para compatibilizar-se com a presunção de não culpabilidade e com o Estado Democrático de Direito - o qual se ocupa de proteger tanto a liberdade individual quanto a segurança e a paz públicas -, deve ser suficientemente motivada, com indicação concreta das razões fáticas e jurídicas que justificam a cautela, nos termos dos arts. 312, 313 e 282, I e II, do Código de Processo Penal.
+2. Conquanto não seja elevada a quantidade de droga apreendida, são idôneos os motivos apontados para justificar a prisão preventiva do paciente, por evidenciarem o risco de reiteração delitiva, visto que, cerca de trinta dias após haver sido beneficiado com a concessão de liberdade provisória, o acusado foi novamente preso em flagrante, pela suposta prática de delito de mesma natureza, e já registra condenação criminal na ação penal relativa a tais fatos, circunstância suficiente, nos termos da jurisprudência desta Corte Superior, para a imposição da custódia provisória.
+3. Por idênticas razões, a adoção de medidas cautelares diversas não se prestaria a evitar o cometimento de novas infrações penais (art. 282, I, do Código de Processo Penal). 4. Denegada a ordem."
+(HC 511.692/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 24/09/2019, DJe 01/10/2019).
+Nesse contexto, de fato, mostra-se inviável a concessão de liberdade provisória ou de substituição da prisão preventiva por prisão domiciliar, como posto pelas instâncias ordinárias
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
