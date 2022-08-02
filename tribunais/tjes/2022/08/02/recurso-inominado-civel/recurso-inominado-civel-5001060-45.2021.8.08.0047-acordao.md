@@ -1,0 +1,61 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº
+5001060-45.2021.8.08.0047
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: TATIARA SILVEIRA SALUSTIANO
+RECORRIDO: PICPAY SERVICOS S.A e outros
+RELATOR(A
+):THAITA CAMPOS TREVIZAN
+
+_______________________________________________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+NOTAS ORAIS
+VOTOS COM DOCUMENTO
+(EXCETO VOTO VENCEDOR)
+VOTO VENCEDOR
+EMENTA. CONSUMIDOR E PROCESSUAL CIVIL. RECURSO INOMINADO. COBRANÇA INDEVIDA. DANOS MORAIS NÃO DEMONSTRADO. SENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS.
+
+VOTO
+
+Relatório dispensado na forma do artigo 46 da Lei 9.099/95.
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+Defiro o pedido de Assistência Judiciária Gratuita à parte recorrente.
+
+EMENTA. JUIZADO ESPECIAL CÍVEL. DIREITO DO CONSUMIDOR.
+AÇÃO DE REPETIÇÃO DE INDÉBITO C/C INDENIZAÇÃO POR DANOS MORAIS.
+NARRA A AUTORA QUE FOI COBRADA INDEVIDAMENTE EM SEU CARTÃO NO VALOR DE R$ 150,00, PELO QUE REQUEREU A DEVOLUÇÃO EM DOBRO DO VALOR PAGO INDEVIDAMENTE E REPARAÇÃO POR DANOS MORAIS.
+SENTENÇA JULGOU PARCIALMENTE PROCEDENTE
+O PLEITO AUTORAL, CONDENANDO AS REQUERIDAS APENAS À RESTITUIÇÃO EM DOBRO DO VALOR COBRADO NO CARTÃO DE CRÉDITO DA AUTORA.
+RECURSO INOMINADO
+INTERPOSTO PELA PARTE REQUERENTE, PRETENDENDO A REFORMA DA SENTENÇA, PARA QUE AS REQUERIDAS SEJAM CONDENADAS AO PAGAMENTO DE INDENIZAÇÃO POR DANOS MORAIS.
+RECURSO CONHECIDO E IMPROVIDO.
+AUSÊNCIA DE DEMONSTRAÇÃO DE OUTROS FATORES EXTERNOS A JUSTIFICAR O DANO EXTRAPATRIMONIAL.
+DANO MORAL NÃO CONFIGURADO
+.
+SENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS
+,
+NOS TERMOS DO ART. 46 DA LEI Nº 9.099/95. CONDENAÇÃO DA PARTE RECORRENTE AO PAGAMENTO DAS CUSTAS PROCESSUAIS E HONORÁRIOS ADVOCATÍCIOS FIXADOS EM R$300,00 (TREZENTOS REAIS), NA FORMA DO ART. 85, §8º, DO CPC/15, FICANDO SUSPENSA, TODAVIA, A EXIGIBILIDADE DE TAL VERBA SUCUMBENCIAL (CUSTAS E HONORÁRIOS) ANTE A CONCESSÃO DO BENEFÍCIO DA JUSTIÇA GRATUITA, CONFORME PRELEÇÃO DO § 3º, DO ART. 98, DO CPC/15.
+
+DISPOSITIVO
+
+Ante o exposto,
+CONHEÇO DO RECURSO
+interposto e, no mérito,
+NEGO-LHE PROVIMENTO
+, mantendo a sentença incólume por seus próprios fundamentos. Condeno a recorrente ao pagamento de custas processuais e honorários advocatícios, os quais fixo em R$ 300,00 (trezentos reais), na forma do art. 85, §8º, do CPC/15, ficando suspensa, todavia, a exigibilidade de tal verba sucumbencial (custas e honorários), ante a concessão do benefício da justiça gratuita, conforme preleção do §3º, do art. 98 do CPC/15.
+
+É como voto.
+
+THAITA CAMPOS TREVIZAN
+
+Juíza Relatora
+
+EMENTA
+Voto servindo como ementa.
+DECISÃO
+À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto da Relatora.
