@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de NAIR CORDEIRO DO NASCIMENTO eEDNALDO RUFINO DA SILVA, apontando-se como autoridade coatora o Tribunal Regional Federal da 1ª Região.
+Na presente oportunidade, oimpetrante relata que os pacientes cumprem pena de 8 anos e 9 meses pelo crime constante nos artigos 33, caput, c/c 40, inciso I, ambos da Lei 11.343/06. Foi requerida a revisão criminal, distribuída em setembro de 2021, com base no disposto na repercussãogeral (Tema 712 e ARE 666.334/MG) do STF.
+Ocorre que "Após parecer pela procedência em 19 de outubro de 2021, os autos ficaram conclusos, todavia, passados 06 meses, não há qualquer prestação jurisdicional na forma da Lei, não há qualquer movimentação no processo" (e-STJ fl. 5).Além disso, "os Pacientes estão injustificadamente presos a 1(um) ano e 5 (cinco) mesescuja pena quando retificada na forma da decisão colegiada em sede de repercussão geral acima mencionada resultará na pena justa que nos piores dos cenários resultará em regime semiaberto e nos melhores em pena restritiva de direito." (e-STJ fl. 6). Conclui, portanto, que tais fatos evidenciam o excesso de prazo para julgamento do recurso e violação ao princípio da duração razoável do processo.
+Diante disso, requer, em liminar e no mérito, a expedição dealvará de soltura ou então "que seja determinado à Autoridade Coatora o prosseguimento do feito revisional (Revisão Criminal n.1033864-12.2021.4.01.0000) seguido da sua inclusão em pauta em caráter excepcional de urgência" (e-STJ fl. 14).
+O pleito urgente foi indeferido (e-STJ fls.73/74).
+Prestadas as informações (e-STJ fls. 94/103), o Ministério Público Federal manifestou-se pela denegação da ordem, com recomendação(e-STJ fls. 108/113).
+É o relatório. Decido.
+Consoante consulta ao andamento processual no site do Tribunal de origem(processo n. 1033864-12.2021.4.01.0000), após juntada do parecer ministerial e retorno dos autos ao gabinete do Desembargador Relator, registro de 12/7/2022 informa a "Intimação de pauta em 12/07/2022", o que indica, portanto, a inclusão do processo em pauta de julgamento e, por conseguinte, a proximidade do desfecho da lide.
+Assim, fica sem objeto o pedido contido na inicial, não havendo mais interesse processual no prosseguimento deste feito.
+Ante o exposto, com base no art. 34, inciso XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente habeas corpus.
+Intimem-se.
