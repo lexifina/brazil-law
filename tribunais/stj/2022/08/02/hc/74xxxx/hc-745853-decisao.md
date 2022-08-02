@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de Venâncio Rodrigues da Silva, apontando-se como autoridade coatora o Tribunal de Justiça do Espírito Santo (Apelação Criminal n. 0051385-92.2014.8.08.0035).
+Narram os autos que o paciente foi condenado a 27 anos de reclusão, em regime inicial fechado, pela prática de crimes de homicídio (um tentado e dois consumados). Em grau de apelação criminal, o Tribunal estadual alterou a pena do paciente para 41 anos de reclusão, mantendo, no mais, a sentença condenatória.
+Neste mandamus, alega-se, de início, que as teses admitidas no presente remédio heroico ainda não foram enfrentadas por esta Corte, não havendo o que se falar em habeas corpus substitutivo de recurso próprio, eis que apesar da tentativa de exaurimento pela via eleita adequada, o AREsp não passou sob o crivo jurisdicional do STJ em razão de vício de formalidade (fl. 4).
+Aduz-se que a autoridade coatora alterou a Decisão Soberana dos Jurados sobre matéria devidamente quesitada (fl. 9), pois o v. Acórdão combatido conheceu e deu provimento ao apelo ministerial, de maneira a retificar as penas finais definitivas do Paciente, reconhecendo o concurso formal segunda parte, ao entender que houve, no modus operandi do delito, pluralidade de desígnios (fl. 7).
+Menciona-se que não há recurso cabível contra decisão absolutória dos jurados, com fundamento no quesito genérico (fl. 9).
+Requer-se, inclusive em liminar, a anulação do acórdão para restabelecer o concurso de crimes (concurso formal próprio), reconhecido em quesito pelos jurados e não impugnado tempestivamente pelo Ministério Público, de maneira a cessar a coação ilegal a qual vem açodando o Paciente, restabelecendo a eficácia do édito condenatório proferido pelo D. Conselho de Sentença (fl. 12).
+Indeferida a liminar, prestadas as informações de praxe, oMinistério Público Federal opinou, pelas palavras do Subprocurador-Geral da República Paulo Eduardo Bueno, pela denegação da ordem.
+É o relatório.
+De início, as informações prestadas pelo Juízo processante dão conta de que a condenação já transitou em julgado (fl. 550).
+Com o trânsito em julgado, este writ é sucedâneo de revisão criminal. Ocorre que, como não existe, neste Tribunal, julgamento de mérito passível de revisão em relação à condenação sofrida pelo paciente, forçoso reconhecer a incompetência desta Corte Superior para o processamento do presente habeas corpus.
+Nesse sentido, confira-se:
+AGRAVO REGIMENTAL EM HABEASCORPUS. WRIT IMPETRADO CONTRA ACÓRDÃO TRANSITADO EM JULGADO, SUBSTITUTIVO DE REVISÃO CRIMINAL. NÃO INAUGURADA A COMPETÊNCIA DO STJ. SUPRESSÃO. INADMISSIBILIDADE. PEDIDO DE CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. DESCABIMENTO. INICIATIVA DO ÓRGÃO JULGADOR.
+Agravo regimental improvido.
+(AgRg no HC n. 494.794/MA, da minha relatoria, Sexta Turma, DJe 11/4/2019).
+De mais a mais,alterar a conclusão a que chegaram as instâncias ordinárias e analisar a ocorrência de concurso formal próprio ou impróprio, se houve unidade de desígnios ou não,demandaria, necessariamente, o revolvimentodo acervofático-probatório delineado nos autos, inviável na via estreita dohabeas corpus.
+Assim, como bem destacou o nobre Subprocurador-Geral da República, em seu parecer,tratando-se de matéria exclusivamente de direito, que sequer deveria ter sido objeto de quesitação, não ofendeu a Corte de origem a Soberania do Veredito dos jurados ao apreciá-la e, pari passu, concluir de modo diverso(fl. 556).
+Em caso semelhante, já decidiu esta Corte Superior de Justiça quea anulação da decisão absolutória do Conselho de Sentença, manifestamente contrária à prova dos autos, peloTribunalde Justiça, por ocasião do exame do recurso de apelação interposto pelo Ministério Público (art. 593, III, "d", do Código de Processo Penal), não viola a soberania dos veredictos. III - Negar ao Ministério Público odireitoao recurso nas hipóteses de manifesto descompasso entre o veredicto popular e a prova dos autos implicaria violação à garantia do devido processo legal, que contempla, dentre outros elementos indispensáveis a sua configuração, odireitoà igualdade entre as partes. (STF - HC 111207, Segunda Turma, Relª. Ministra Cármen Lúcia, SJe 17/12/2012).IV - Inviável, na esfera do habeas corpus, o reexame damatériafático-probatória (HC n. 323.409/RJ, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 8/3/2018 - grifo nosso).
+Ante o exposto,não conheçodo writ.
+Publique-se.
+EMENTA
+HABEAS CORPUS.HOMICÍDIOS CONSUMADO E TENTADO. ALEGAÇÃO DE OFENSA AO PRINCÍPIO DA SOBERANIA DOS VEREDITOS.CONDENAÇÃO TRANSITADA EM JULGADO. SUCEDÂNEO DE REVISÃO CRIMINAL.
+Habeas corpusnão conhecido.
