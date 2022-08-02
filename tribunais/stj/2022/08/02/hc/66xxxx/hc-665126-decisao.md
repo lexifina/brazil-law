@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de habeas corpus, sem pedido liminar, impetrado em favor de CARLOS ROBERTO DA SILVA contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiroproferido na Apelação Criminal n. 0144114-97.2018.8.19.0001.
+Consta nos autos que o Paciente foi denunciado como incurso nas penas doart. 157, § 2º, incisos I (antiga redação), II e V, do Código Penal.
+O Juízo de primeiro grau de jurisdiçãoabsolveuo Réu com fulcro no inciso V do art. 386 do Código de Processo Penal (fls. 31-41).
+O Ministério Público estadualinterpôs recurso de apelação, o qual foi provido pela Corte estadual a fim de condenar o Paciente às penas de 6 (seis) anos, 6 (seis) meses e 12 (doze) dias de reclusão, e 15 (quinze)dias-multa, pela prática do crime previsto no art. 157, § 2º, incisos II e V, do Código Penal (fls. 51-55).
+Em consulta ao sítio eletrônico do Tribunal estadual, consta informaçãoque o "feito colocado em mesa para complementação da certidão de julgamento quanto ao regime de cumprimento da pena, sendo fixado o regime fechado".
+Neste writ, a Impetrante sustenta, em suma, que a "Colenda Câmara Criminal, ao realizar a dosimetria penal, na terceira fase de aplicação da pena, adotou o critério matemático - exclusivamente numérico - para exasperar o roubo majorado acima do mínimo de 1/3, ao arrepio da lei e do entendimento jurisprudencial do Tribunais Superiores" (fl. 4).
+Requer a incidência da "fração de 1/3 (um terço) para exasperar a pena em razão das duas causas especiais de aumento reconhecidas" (fl. 9).
+Não foi formulado pleito liminar.
+Foram prestadas informações às fls. 62-71.
+O Ministério Público Federal opinou pelo não conhecimento dowritou, caso conhecido, pela denegação da ordem (fls. 76-80).
+É o relatório. Decido.
+No que interessa à solução da controvérsia, tem-se que oColegiado estadual declinouas seguintes razões (fl. 55):
+"Na terceira e última fase, presentes as causas de aumento da pena consistentes no concurso de agentes e restrição da liberdade da vítima, previstas nos incisos II e V do artigo 157 do CP, pelo que majoro a pena em 2/5, alcançando-se uma pena final e definitiva de 06 (seis) anos,06 (seis) meses e 12(doze) dias de reclusão e 15dias-multa, esses no valor mínimo legal"
+O pleito defensivo deve ser acolhido.
+Com efeito, o Colegiado estadual, ao elegerfração superior a 1/3 (um terço) para exasperar a pena, apenas fez referência ao concurso de agentes e à restrição da liberdade da vítima, não tendo declinado circunstâncias concretas. Assim, houve violação do entendimento sedimentado na Súmula n. 443 desta Corte Superior de Justiça, a qual dispõe que " o  aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes".
+A propósito:
+" .. 7. Ademais, o acórdão, ao reconhecer as majorantes do emprego de arma de fogo e do concurso de agentes, aplicou a fração de 3/8 para majorar as penas tão somente em razão das duas causas de aumento, sem apoio em elementos concretos dos delitos. Incide, portanto, à espécie o disposto na Súmula 443 desta Corte: "O aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes."
+8. Agravo regimental desprovido. Concessão de habeas corpus, de ofício, a fim de determinar a devolução dos autos ao Tribunal de origem para que proceda a nova dosimetria das penas do agravante, em relação aos três delitos de roubo, afastando, na primeira fase da dosimetria das penas, a circunstância judicial das consequências dos delitos, por ausência de fundamentação, bem como estabelecendo a fração de 1/3 de aumento de pena, na terceira fase da dosimetria (Súmula 443/STJ). Decisão estendida aos corréus, nos termos do art. 580 do CPP." (STJ, AgRg no AREsp 1.638.257/ES, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 22/09/2020, DJe 30/09/2020; sem grifos no original.)
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIME DE ROUBO. DOSIMETRIA DA PENA. CONSTRANGIMENTO ILEGAL CONSTATADO. CAUSAS DE AUMENTO NA TERCEIRA FASE DA DOSIMETRIA. AUSÊNCIA DE FUNDAMENTAÇÃO CONCRETA. SÚMULA N. 443 DO STJ. JURISPRUDÊNCIA DO STJ. DECISÃO MANTIDA.
+1. Ainda que inadequada a impetração de habeas corpus em substituição à revisão criminal ou ao recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o STJ considera passível de correção de ofício o flagrante constrangimento ilegal.
+2. "O aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes" (Súmula n. 443 do STJ).
+3. Inexistindo fundamentação concreta a respeito dos elementos de fato do caso que justifique a majoração da pena do crime de roubo na fração de 3/8, devido ao uso de arma e ao concurso de agentes, é cabível proceder-se a causa de aumento na fração de 1/3, conforme enunciado da Súmula n. 443 do STJ e do disposto no art. 68, parágrafo único, do CP.
+4. Mantém-se a decisão agravada cujos fundamentos estão em conformidade com o entendimento do STJ sobre a matéria suscitada.
+5. Agravo regimental desprovido." (STJ, AgRg no HC 662.196/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUINTA TURMA, julgado em 15/02/2022, DJe 21/02/2022; sem grifos no original.)
+" .. 4. Nos termos do entendimento cristalizado na Súmula 443/STJ: O aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes.
+5. Hipótese em que o estabelecimento da fração de 3/8, na terceira fase da pena, foi fundamentado apenas na quantidade de majorantes - emprego de arma e concurso de agentes -, o que não se mostra suficiente para a exasperação da pena.
+6. Agravo regimental improvido." (STJ, AgRg no HC 545.617/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 05/03/2020, DJe 10/03/2020; sem grifos no original.)
+Passo ao redimensionamento dapena.
+1.ª fase da dosimetria: a pena-base foi fixada em 4 (quatro) anos e 8 (oito) meses de reclusão, e 11 (onze) dias-multa, em razão da presençade circunstância judicial desfavorável.
+2.ª fase: inexistem circunstâncias agravantes e atenuantes.
+3.ª fase: aplico o patamar mínimo de 1/3 (um terço) pela presença das causas de aumento de pena previstas no art. 157, § 2.º, incisos II e V, do Código Penal, de modo que a sanção penal definitiva corresponde a 6(seis) anos, 2 (dois) meses e 20 (vinte) dias de reclusão, e 14 (quatorze) dias-multa.
+De acordo com a literalidade do art. 33, § § 2.º e 3.º do Código Penal, mantenhoo regime fechado para o início de cumprimento da reprimenda, porquanto a pena foi estabelecida acima de 4 (quatro) anos de reclusão e há circunstância judicial negativa.
+Ante o exposto, CONCEDO a ordem de habeas corpus a fim de diminuir a penapara 6 (seis) anos, 2 (dois) meses e 20 (vinte) dias de reclusão, em regime inicial fechado, e 14 (quatorze) dias-multa, mantido, no mais, o acórdão impugnado.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. DIREITO PENAL. ROUBO. DOSIMETRIA. EXASPERAÇÃO DA PENA NA TERCEIRA FASE DE DOSIMETRIA COM BASE NA QUANTIDADE DE MAJORANTES. VIOLAÇÃO AO ENUNCIADO DA SÚMULA N. 443 DO SUPERIOR TRIBUNAL DE JUSTIÇA. ORDEM DE HABEAS CORPUS CONCEDIDA.
