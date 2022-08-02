@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo interposto por Regina Bachtold Pereira e Jaime Geraldo Pereira, contra decisão em que não foi admitido recurso especial fundamentado no art. 105, III, a e c, da Constituição Federal, visando à reforma de acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina, assim ementado:
+APELAÇÃO CÍVEL . AGRAVO RETIDO E REMESSA NECESSÁRIA. AÇÃO DECLARATÓRIA DE NULIDADE DE ATO ADMINISTRATIVO C/C PEDIDO DE INDENIZAÇÃO. TOMBAMENTO DE EDIFÍCIO HISTÓRICO. PARCIAL PROCEDÊNCIA NA ORIGEM PARA CONDENAR O ESTADO AO PAGAMENTO DE INDENIZAÇÃO. INSURGÊNCIA DO ESTADO DE SANTA CATARINA. AGRAVO RETIDO. ILEGITIMIDADE PASSIVA AFASTADA. ATO DE HOMOLOGAÇÃO DE TOMBAMENTO PRATICADO PELO GOVERNADOR DO ESTADO. PRESCRIÇÃO QUINQUENAL. PRECEDENTES NESTA CORTE. PRAZO NÃO EXTRAPOLADO PELO AUTOR. RECURSO CONHECIDO E DESPROVIDO. APELAÇÃO CÍVEL. INDENIZAÇÃO. PERÍCIA QUE ATESTA A POSSIBILIDADE DE APROVEITAMENTO ECONÔMICO DO IMÓVEL. INDENIZAÇÃO INDEVIDA. PRECEDENTES NESTA CORTE. SENTENÇA REFORMADA. IMPROCEDÊNCIA TOTAL. INVERSÃO DO ÔNUS SUCUMBENCIAL. RECURSO CONHECIDO E PROVIDO. REMESSA PREJUDICADA
+Os declaratórios opostos foram rejeitados.
+Nas razões do recurso especial, a parte recorrente apontou a ofensa aos arts. 11, 489, §1º, IV, V e VI, e 1.022, do CPC/2015, sustentando, em síntese, quenão obstante a oposição dos declaratórios, o Tribunal de origem incorreu em contradições e não apreciou a prova dos autos, que demonstrou a desvalorização e esvaziamento econômico parcial do imóvel em razão do tombamento.
+No mérito, indicou, além de dissídio jurisprudencial, a violação dos arts. 371 do CPC/2015 e 1.228 do CC/2002, considerando que a prova pericial produzida concluiu que houve grande desvalorização do imóvel em razão da intervenção estatal restritiva pelo tombamento.
+O Tribunal de origem inadmitiu o recurso especial tendo sido interposto o presente agravo.
+É o relatório. Decido.
+Considerando que a parte agravante impugnou a fundamentação apresentada na decisão agravada, e atendidos os demais pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Não há que se falar em negativa de prestação jurisdicional.
+De um lado, sustentou a parte recorrente, em suma, que houve efetivo esvaziamento econômico da propriedade, tendo "a perita avaliado o bem sem o tombamento em R$ 5.431.898,095 e em R$ 2.509.820,61 com o tombamento, apontando ainda uma desvalorização de 53,79%" (fl. 1.484).
+De outro lado, o Tribunal de origem apreciou a prova técnica produzida, para concluir que não houve esvaziamento econômico do imóvel, nos seguintes termos constantes do acórdão recorrido (fl. 1.460):
+ ..
+No entanto, a fundamentação do voto foi no sentido de que não há direito à indenização, pois não houve o esvaziamento econômico do imóvel. (evento 133,PROCJUDIC5, p. 41).
+A questão foi posta ao crivo de perito judicial, e o julgamento alicerçou-se na prova técnica pertinente. Ademais, ficou estampado no voto que "a limitação construtiva não se confunde com impedimento de lucro (exploração econômica do bem)".
+Logo, inexiste qualquer mácula; fui extremamente pontual quanto à matéria debatida. O que se vê, na verdade, é que a embargante, por via oblíqua, força a aplicação do seu entendimento pessoal para que o processo siga o rumo por si planejado; todavia, o debate da matéria não comporta a via seleta dos aclaratórios. Há inadequação da via eleita.
+A convicção do relator além de clara e objetiva; qualquer insatisfação meritória em relação àquela decisão colegiada deve ser atacada a tempo e a modo, mas nunca por meio de embargos de declaração.
+Quanto à petição de evento 145, ainda que haja a possibilidade de a petição de evento 136 ter sido juntada de forma tardia no processo, seu conteúdo não seria de análise obrigatória, uma vez que a oportunidade de levantamento de qualquer insurgência a fim de modificar o acórdão deve ser feita a temo e modo corretos que não condiz com mera petição nos autos.
+Ad argumentadum tantum, friza-se que ainda que possível o enfrentamento da questão ela não impressiona, uma vez que a razão de decidir do órgão colegiado não fica vinculada à precedentes jurisprudenciais aleatórios, exceto os que devem ser seguidos por determinação legal.
+ ..
+A alegação de omissão e contradição consistiu, pois, em mero descontentamento com as conclusões a que chegou o Tribunal de origem.
+No mérito, o recurso não comporta seguimento.
+O Tribunal de origem fundamentou o acórdão recorrido no conjunto das provas e fatos, conforme trecho acima transcrito, e a pretensão recursal encontra-se fundada exatamente em fatos e análise probatória.
+Assim, o recurso especial encontra óbice no Enunciado Sumular n. 7/STJ.
+Por fim, no que tange ao dissídio jurisprudencial, a necessidade do reexame da matéria fática impede a admissão do recurso especial tanto pela alínea a quanto pela alínea c do permissivo constitucional. Nesse sentido: AgInt no AREsp 1696430/SP, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe 29/4/2021; AgInt no REsp 1846451/RO, Rel. Ministro Raul Araújo, Quarta Turma, DJe 29/4/2021.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a e b, do RISTJ, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento; majorando, com fundamento no art. 85, § 11, do CPC/2015, os honorários sucumbenciais para R$ 3.300,00 (três mil e trezentos reais), respeitados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Publique-se. Intimem-se.
