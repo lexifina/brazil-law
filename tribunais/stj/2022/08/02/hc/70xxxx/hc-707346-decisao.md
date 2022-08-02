@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de ANTÔNIO CARLOS CEZÁRIO contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim ementado:
+"HABEAS CORPUS - HOMICÍDIO TRIPLAMENTE QUALIFICADO E ORGANIZAÇÃO CRIMINOSA -NULIDADE DO INTERROGATÓRIO - VIOLAÇÃO AO DIREITO À AUTODEFESA - NÃO VERIFICAÇÃO.
+1. Não há o que se falar em nulidade do interrogatório, por encerramento precoce do ato, quando o Juiz a quo o fez de forma justificada, após o paciente informar que só responderia às perguntas formuladas por seu advogado.
+2. Feito dessa forma (perguntas e respostas somente entre Defesa e acusado),o objetivo passaria a ser o de uma entrevista reservada, o que poderia ser materializado por outros meios (como áudio e/ou vídeo, por escrito, etc.) e analisado como todas as demais provas.
+3. Foi oportunizada ao paciente a apresentação espontânea de sua versão dos fatos, independentemente do questionamento de quaisquer das partes ou do juízo, o que foi expressamente dispensado por ele, que optou por permanecer em silêncio, não havendo o que se falar em violação ao direito à autodefesa.
+4. Ordem denegada."(fl. 12)
+O impetrante aduzque o encerramento do interrogatório após o paciente afirmar que iria responderapenas as perguntar do seu advogado impediu o exercício da autodefesa, configurando, assim, constrangimento ilegal. Ressalta que, no interrogatório, "pode oréu mentir, não se lembrar, se furtar as respostas, manter o silêncio e escolher a quem responder" (fl. 4).
+Requer, em liminar e no mérito, a nulidade do ato.
+Indeferida a liminar, o Ministério Público Federal manifestou-se nos seguintes termos:
+" ..  O TJMG assim rechaçou a tese suscitada pelo impetrante (f. 15-16):
+No que se refere à nova argumentação trazida neste writ de nulidade do interrogatório do paciente, não há como acolhê-la.
+Isso porque, embora o impetrante tenha demonstrado a sua irresignação em primeira instância quanto ao encerramento precoce do interrogatório de Antônio Carlos, é certo que o Juiz a quo justificou a medida (tomada após o paciente informar que só responderia às perguntas formuladas pelo seu advogado, e não às dos demais personagens do processo - juiz, promotor e outros defensores).
+Entendeu o Magistrado primevo que o ato - privativo do juiz - não comporta esse tipo de dialética processual, tendo salientado que, feito dessa forma (perguntas e respostas somente entre Defesa e acusado), o objetivo passaria a ser o de uma entrevista reservada, o que poderia ser materializado por outros meios (como áudio e/ou vídeo, por escrito, etc.) e analisado como todas as demais provas.
+Evidenciou, ainda, que em eventual entrevista gravada entre o advogado e o ora paciente a ser juntada ao processo, poderiam ser formuladas todas as perguntas necessárias, inclusive sem restrição formal ou temporal (o que não seria possível em audiência) - garantindo plenamente o direito à ampla defesa e até mesmo o expandindo.
+Nesses termos, nas informações prestadas, o Juiz monocrático bem destacou que não foi negado a Antônio Carlos a possibilidade de responder somente as perguntas de seu advogado" ..  mas apenas lhe foi oportunizado fazê-lo de outra forma, em atenção ao disposto no manifestar perante os Jurados  .. " (fls.64/69, do doc. único).
+Também não se pode olvidar que foi oportunizado a Antônio Carlos apresentar espontaneamente sua versão dos fatos, independentemente do questionamento de quaisquer das partes ou do juízo, o que foi expressamente dispensado pelo paciente, o qual optou por permanecer em silêncio - não havendo o que se falar em qualquer violação ao direito à autodefesa.
+É de se ressaltar, por fim, as informações de que o feito está em fase de alegações finais e a Defesa de Antônio Carlos, até o momento, não formulou nenhum requerimento de juntada de declarações do paciente ou de mídia de entrevista reservada com ele, conforme lhe fora expressamente autorizado (fls. 64/69, do doc. único). (grifou-se)
+Com efeito, irretocável a fundamentação adotada pela Corte a quo para denegar a ordem, ficando demonstrado que os fatos não se deram da forma como narrados pelo impetrante, não havendo falar-se em violação ao direito do acusado de permanecer em silêncio na audiência ou de exercer a plenitude de defesa.
+Assim, diante da ausência do alegado constrangimento ilegal não há possibilidade de acolhimento do pedido.
+III. Ante o exposto, o MINISTÉRIO PÚBLICO FEDERAL manifesta-se pelo não conhecimento da impetração ou pela denegação da ordem."(fls. 60/62)
+É o relatório.
+Decido.
+O presente habeas corpus não merece ser conhecido, pois foi impetrado em substituição a recurso próprio. Contudo, passo à análise dos autos para verificar a possível existência de ofensa à liberdade de locomoção do paciente, capaz de justificar a concessão da ordem de ofício.
+No caso, iniciado o interrogatório do paciente, por videoconferência, este afirmou que responderia somente as perguntas de seu advogado. Assim, o Magistrado encerrou o ato efacultou à defesa a juntada de entrevista reservada, por qualquer meio disponível, bem comopermitiu que o ora paciente apresentasse sua versão dos fatos, o que foi dispensado. Dada a palavra à Defesa, esta requereu, somente, a revogação da prisão cautelar, conforme se extrai do seguinte trecho:
+" ..  O MM. Juiz determinou que se registrasse que, durante os interrogatórios dos acusados Antônio Carlos Cezário e Leandro Felix Viçoso, diante da informação de que responderia tão somente às indagações de seus advogados, foi determinado o encerramento do interrogatório, porém, facultando às Defesas a juntada de entrevista reservada ou declaração dos referidos denunciados, por qualquer meio disponível (audio e/ou vídeo, por escrito, etc.), tendo em vista que o referido ato processual, de acordo com a sistemática estabelecida pelo Código de Processo Penal, se tornaria dispensável diante de tal requerimento. Na ocasião, foi também facultado aos réus apresentarem espontaneamente sua versão dos fatos, independentemente do questionamento de quaisquer das partes ou deste juizo,o que foi dispensado pelos réus. As razões da decisão constam da gravação da audiência.
+ ..
+Pediu a palavra as Defesas dos acusados Antônio Carlos Cezário e Fernando Saliba Araújo, que se manifestou:
+ ..
+Ante exposto, requer a revogação das prisões preventivas dos acusados Antônio Carlos Cezário e Fernando Aranjo Saliba com aplicação de medida cautelar diversa da prisão com monitoramento eletrônico. .. " (fl. 36)
+Nas circunstâncias acima delineadas, ao contrário do que afirma o impetrante, não se verifica a existência de prejuízo ao exercício da autodefesa,visto que foi dada a palavra ao paciente para apresentar sua versão dos fatos.
+Importante ressaltar que,"tanto nos casos de nulidade relativa quanto nos casos de nulidade absoluta, o reconhecimento de vício que enseje a anulação de ato processual exige a efetiva demonstração de prejuízo"(AgRg no HC n. 624.368/SE, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 24/5/2022, DJe de 31/5/2022.)
+Ademais, a nulidade decorrente do encerramento prematuro do interrogatório deveria ter sido alegada pela defesa na própria audiência, sob pena de preclusão. À propósito, mutatis mutandis, confiram-se os seguintes julgados:
+PROCESSO PENAL. RECURSO EM HABEAS CORPUS. NULIDADE. INTERROGATÓRIO. ABALO EMOCIONAL. PRECLUSÃO. AUSÊNCIA DE PREJUÍZO. PAS DE NULLITÉ SANS GRIEF. RECURSO A QUE SE NEGA PROVIMENTO.
+1. A eventual nulidade do interrogatório, decorrente do suposto abalo emocional ocasionado pelo óbito da esposa do recorrente, deveria ter sido objeto de impugnação pela defesa e constar da ata da audiência, sob pena de preclusão.
+2. Nenhuma das partes poderá arguir nulidade a que haja dado causa, ou para que tenha concorrido (art. 565 do CPP).
+3. Segundo a legislação penal em vigor, é imprescindível quando se trata de alegação de nulidade de ato processual a demonstração do prejuízo sofrido, em consonância com o princípio pas de nullité sans grief, consagrado pelo legislador no art. 563 do CPP, o que não ocorreu, in casu.
+4. Recurso a que se nega provimento.
+(RHC n. 53.365/SP, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 25/11/2014, DJe de 15/12/2014.)
+PROCESSO PENAL. TRÁFICO DE DROGAS. CONDENAÇÃO. ARGUIÇÃO DE NULIDADE. INVERSÃO DA ORDEM DE INTERROGATÓRIO. APLICAÇÃO DO ART. 400 DO CPP. NECESSIDADE DE DEMONSTRAÇÃO DO PREJUÍZO. PAS DE NULLITÉ SANS GRIEF. VÍCIO NÃO ALEGADO OPORTUNAMENTE. PRECLUSÃO. PRINCÍPIO DA BOA-FÉ OBJETIVA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O reconhecimento de nulidade por inversão da ordem do interrogatório do réu, prevista no art. 400 do CPP, exige a demonstração de prejuízo, que não se confunde com a própria condenação. Além disso, o inconformismo da defesa deve ser manifestado na própria audiência em que ocorrido o alegado vício, com o registro na ata respectiva, sob pena de preclusão.
+2. Se ao término da instrução foi conferida ao acusado nova possibilidade de manifestação em segundo interrogatório e ele se recusou, observa-se a contradição entre o direito arguido e a anterior conduta processual, o que ofende a boa-fé objetiva.
+3. Agravo regimental a que se nega provimento.
+(AgRg no REsp n. 1.973.052/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 21/6/2022, DJe de 29/6/2022.)
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intimações necessárias.
