@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado entre o Juízo da 3ª Vara do Trabalho de Rio Verde - GO, suscitante, e o Juízo de Direito da 3ª Juízo de Direito da 3ª Vara Cível de Rio Verde-GO, suscitado, nos autos da Execução de Título Extrajudicial (Processo n. 5506301-68.2020.8.09.0137), ajuizada por Kenned Alves Pereira em face de Clube Campestre de Rio Verde.
+A ação foi inicialmente distribuída ao Juízo de Direito da 3ª Vara Cível de Rio Verde - GO o qual declinou da competência para a Justiça Laboral, sob o fundamento de que "a exordial está alicerçada em contrato trabalhista", a atrair a competência da correlata Justiça especializada (e-STJ, fl. 6).
+Recebidos os autos, o Juízo da 3ª Vara do Trabalho de Rio Verde - GO suscitou o presente conflito, aduzindo, para tanto, o seguinte (e-STJ, fl. 44-45):
+KENNED ALVES PEREIRA ME ajuizou Ação de Execução em face do CLUBE CAMPESTRE DE RIO VERDE, nos termos da petição inicial de ID.3dae487.
+Argumenta que "Em 02 de Janeiro de 2018, as partes entabularam, contrato particular de prestação de serviços em manutenção elétrica, com prazo de vigência de 60 (sessenta meses), isto é, de 02/01/2018 à 01/01/2022.". Afirma que "Como o vínculo laboral existente entre as partes não se adequada ao conceito de trabalho, que se tem na CLT, fora necessária a formalização das obrigações através de Contrato "Particular de Prestação de Serviços.
+Assim, pleiteia a execução do valor rescisório proveniente de lei, bem como da multa arbitrada no termo.
+Pois bem. Considerando-se que o que determinada competência material do órgão jurisdicional é o pedido e a causa de pedir incertos no bojo da petição inicial, tenho que esta especializada não é competente para conhecimento da questão, haja vista que a causa de pedir remonta a um contrato de natureza cível e não há se quer, pleito declaratório de nulidade deste, bem como pedido de reconhecimento de relação de emprego.
+Nessas condições, em face da 3ª Vara SUSCITO O CONFLITO NEGATIVO DE COMPETÊNCIA Cível de Rio Verde-GO, motivo pelo qual determino, com base no parágrafo único do art. 66, II, do NCPC/2015, o imediato envio dos autos à superior apreciação do Superior Tribunal de Justiça, conforme prevê o art. 105, I, d da CF.
+Instado a se manifestar, o Ministério Público Federal opinou pela competência do Juízo suscitado, em parecer assim resumido (e-STJ, fl. 65):
+CONFLITO DE COMPETÊNCIA. JUSTIÇA DO TRABALHO EJUSTIÇA COMUM. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CONTRATO DE PRESTAÇÃO DE SERVIÇOS. CAUSA DE PEDIR EPEDIDOS EMINENTEMENTE CÍVEIS. COMPETÊNCIA DA JUSTIÇACOMUM ESTADUAL.
+1. A competência em razão da matéria é fixada a partir da causa de pedir e do pedido aduzidos na petição inicial, devendo-se observar a natureza da relação jurídica discutida no feito.
+2. Pode-se concluir, nesse contexto, que a demanda cuja causa de pedir e pedidos não envolvem relação de trabalho e se fundamentam em vínculo regido pela legislação cível não se insere no âmbito de competência da Justiça do Trabalho, prevista no art.114, incisos I a IX, da Constituição Federal.
+3. Parecer pela competência da justiça comum estadual
+Brevemente relatado, decido.
+A fixação da competência em razão da matéria decorre da análise da natureza jurídica da questão controvertida, delimitada pelo pedido e pela causa de pedir.
+No caso em tela, a controvérsia consiste em definir qual o Juízo competente para processar e julgar ação de Execução de Título Extrajudicial (Processo n. 5506301-68.2020.8.09.0137), ajuizada por Kenned Alves Pereira em face de Clube Campestre de Rio Verde,na qual se postula o pagamento de valores decorrentes de prestação de serviços de manutenção elétricapara o Clube demandado, tendo a parte exequente, inclusive, expressamente, consignado inexistir relação empregatícia entre as partes.
+Como se observa, os fatos alegados na inicial não se relacionam sequer reflexamente com qualquer relação de trabalho, tratando-se de típico contrato de prestação de serviço.
+Com efeito, conforme muito bem consignado no parecer ministerial, "a pretensão está fundada no compromisso firmado entre as partes e visa tão somente a quitação de valores devidos ao exequente, em razão de a ré ter rescindido o contrato sem qualquer justificativa válida" (e-STJ, fl. 66), a ensejar a inarredável conclusão de inexistir, no particular,qualquer relação trabalhista em discussão, limitando-se a causa de pedir à violação de obrigação contratual
+Assim, não configurada discussão acerca de relação de trabalho, mas simples obrigação de natureza civil,há de se reconhecer a competência da Justiça Comum estadual.
+Nesse sentido:
+CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA DO TRABALHO E JUSTIÇA COMUM ESTADUAL. AÇÃO DE COBRANÇA. ALEGADO INADIMPLEMENTO DE CONTRATO DE PRESTAÇÃO DE SERVIÇOS. AUSÊNCIA DE PESSOALIDADE NO CUMPRIMENTO DAS OBRIGAÇÕES. DESCARACTERIZAÇÃO DA RELAÇÃO DE TRABALHO. LIDE DE ÍNDOLE EMINENTEMENTE CIVIL. COMPETÊNCIA DA JUSTIÇA COMUM ESTADUAL.
+1. Compete à Justiça Comum processar e julgar ação de cobrança decorrente de contrato de prestação de serviços, quando patente a ausência de relação trabalhista.
+2. Na hipótese, o autor da ação de cobrança e prestador dos serviços dispunha, na realização das obrigações contratadas, da assistência de corpo próprio de empregados, o que descarateriza a existência da relação de trabalho, pois ausente ao menos um de seus requisitos, o da pessoalidade. 3. Conflito conhecido para declarar competente a Justiça Comum Estadual. CC n. 135.775/SP, Relator o Ministro Raul Araújo, DJe de 6/5/2016 - sem grifo no original)
+Ante o exposto, conheço do conflito para declarar a competência do Juízo de Direito da 3ª Juízo de Direito da 3ª Vara Cível de Rio Verde-GO, o suscitado.
+Dê ciência ao Juízo suscitante.
+Publique-se
+EMENTA
+CONFLITO NEGATIVO DE COMPETÊNCIA. AÇÃO DE COBRANÇA. PRESTAÇÃO DE SERVIÇOS. AUSÊNCIA DE VÍNCULO TRABALHISTA. COMPETÊNCIA DA JUSTIÇA COMUM.
