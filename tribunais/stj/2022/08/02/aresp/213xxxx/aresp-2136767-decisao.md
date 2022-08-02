@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu recurso especial interposto por Antonio Ferreira da Silva, com fundamento nas alíneas a e c do permissivo constitucional, no qual se insurgiu contra acórdão do Tribunal de Justiça do Maranhão assim ementado (e-STJ, fls. 155):
+DIREITO CIVIL E PROCESSUAL CIVIL. APELAÇÃO. AÇÃO DE REINTEGRAÇÃO DE POSSE. NÃO COMPROVAÇÃO DO FATO CONSTITUTIVO DO DIREITO, QUAIS SEJAM: POSSE, ESBULHO, DATA DOESBULHO E PERDA DA POSSE, NOS TERMOS DO ART. 373, I, DO CPC. SENTENÇA MANTIDA. APELAÇÃOCONHECIDA E DESPROVIDA. UNANIMIDADE.
+I. Ação de reintegração de posse.
+II. No caso em apreço, embora plausíveis as alegações do recorrente, necessário seria que o apelante demonstrasse o cenário fático por ela desenhado, em especial a sua posse anterior, o esbulho perpetrado pelo apelado e a perda da posse, desincumbindo-se do ônus de prova do fato constitutivo de seu direito o que não ocorreu, com a inicial o apelante juntou apenas certidão de ocorrência policial que necessita de posterior inquérito policial para averiguação dos fatos articulados pelo noticiante, o que não ocorreu.
+III. Na verdade, o apelante pretende a reintegração de posse de um imóvel que alega fazer jus em razão de suposta doação há mais de trinta anos, mas não há elementos probatórios nesse sentido, a produção de prova testemunhal e depoimento pessoal do réu, ainda que fossem deferidos, não se mostraram pertinentes e relevantes após a oportunização de contestação, logo não prospera pleito de anulação da sentença por cerceamento de defesa.
+IV. Necessário que o apelante trouxesse a juízo o mínimo de prova de seus argumentos, ainda com a inicial, o que não ocorreu.
+V. Por outro lado, o apelado apresentou em juízo Termo de aforamento do imóvel lavrado em 16.11.1989 pela Prefeitura Municipal suficiente a demonstrar que desde essa época adquiriu o bem de forma legítima, o que afasta a narrativa fática trazida na petição inicial.
+VI. Sentença mantida.
+VII. Apelação conhecida e desprovida. Unanimidade.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 192-212).
+No recurso especial (e-STJ, fls. 437-454), orecorrenteapontou a violação doart. 355 do Código de Processo Civil de 2015.
+Sustentou, em síntese, a ocorrência de cerceamento de defesa, tendo em vista o julgamento antecipado da lide sem a oportunizar a produção de provas postuladas e necessárias ao deslinde do litígio. Aduziu que embora tenha "requerido a oitiva de testemunhas, vez que não possuía arcabouço documental suficiente, o juízo a quo não designou uma audiência de justificação para o fim desejado pelo recorrente e, ainda, julgou antecipadamente a lide, que resultou em indeferimento da ação possessória por suposta ausência de provas".
+Foram apresentadas contrarrazões (e-STJ, fls. 225-230).
+O Tribunala quonão admitiu o processamento do recurso especial ante a incidência daSúmulan. 7/STJ (e-STJ, fls. 232-239).
+Brevemente relatado, decido.
+O Tribunal de origem, ao julgar a apelação, consignou o seguinte (e-STJ, fls. 159-162):
+O cerne da demanda cumpre em avaliar se deve ser mantida ou não sentença de improcedência do pedido de reintegração de posse formulado pelo recorrente.
+Na origem, o apelante ingressou com ação de reintegração de posse em face do apelado, momento em que aduz ter adquirido do Sr. Silva Neto há mais de trinta anos, em forma de doação, o imóvel adquirido na Rua Sargento Maurício, nº 78, bairro da Areia, Bacabal/MA, com as seguintes dimensões: 4.5 m (quatro metros e cinquenta centímetros) de frente, limitando-se com a Rua Sargento Maurício; lateral direita com 37m (trinta e sete metros) limitando-se com a Dona Eloide; lateral esquerda com com 37m (trinta e sete metros) limitando-se com o Sr. Adriano e fundo com 4m (quatro metros).
+Assevera que após adquirir o lote, construiu uma casa, mas o negócio não foi formalizado por escrito, sendo que o antigo proprietário ainda pediu para fazer o aforamento, porém o autor, ora apelante, teve de viajar e deixou de fazê-lo, passando o recorrente a residirem Centro Novo do Maranhão. Acrescenta que pouco tempo depois teve notícias que havia um idoso morando no imóvel, sendo que não buscou mais informações, pois achava que se tratava do seu irmão Raimundo Ferreira Silva.
+Destaca que em 2010 foi até a sua casa e encontrou o Sr. Adriano Bezerra Costa morando na aludida residência, bem como se apossando dos bens e documentos pessoais que lá estavam e a partir de então tenta reaver a posse do bem, sem êxito, uma vez que o requerido, ora apelado, sempre se encontra em estado de embriaguez. Após regular instrução processual, sobreveio sentença contra a qual se insurge o recorrente.
+(..)
+No caso em apreço, embora plausíveis as alegações do recorrente, necessário seria que o apelante demonstrasse o cenário fático por ela desenhado, em especial a sua posse anterior, o esbulho perpetrado pelo apelado e a perda da posse, desincumbindo-se do ônus de prova do fato constitutivo de seu direito o que não ocorreu, com a inicial o apelante juntou apenas certidão de ocorrência policial que necessita de posterior inquérito policial para averiguação dos fatos articulados pelo noticiante, o que não ocorreu.
+Na verdade, o apelante pretende a reintegração de posse de um imóvel que alega fazer jus em razão de suposta doação há mais de trinta anos, mas não há elementos probatórios nesse sentido, a produção de prova testemunhal e depoimento pessoal do réu, ainda que fossem deferidos, não se mostraram pertinentes e relevantes após a oportunização de contestação, logo não prospera pleito de anulação da sentença por cerceamento de defesa.
+Necessário que o apelante trouxesse a juízo o mínimo de prova de seus argumentos, ainda coma inicial, o que não ocorreu.
+Alegações vazias sem comprovação por qualquer meio de prova legítimo impedem a procedência da pretensão autoral, tal como concluiu a magistrada a quo.
+Por outro lado, o apelado apresentou em juízo Termo de aforamento do imóvel lavrado em16.11.1989 pela Prefeitura Municipal suficiente a demonstrar que desde essa época adquiriu o bem de forma legítima (id 12158168), o que afasta a narrativa fática trazida na petição inicial. Em verdade, o apelante não se desincumbiu de comprovar o fato constitutivo do seu direito (CPC, art. 373, I), ou seja, não conseguiu demonstrar os requisitos para deferimento de sua pretensão, quais sejam: a posse, o esbulho, a data da ocorrência do esbulho, bem como a perda da posse.
+Assim, escorreito o entendimento do juízo de 1º grau em julgar improcedente o pedido constante na inicial. Por oportuno, cito trechos da decisão recorrida:
+(..)
+Em face de tais argumentos, entendo que a sentença recorrida não merece censura, eis que está devidamente fundamentada e em consonância com a legislação atinente à matéria.
+Verifica-se quereverter a conclusão do Colegiado originário, para acolher a pretensão recursal, demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra impossível ante a natureza excepcional da via eleita, consoante enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+A propósito:
+AGRAVO INTERNO. EMBARGOS DE DECLARAÇÃO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. CERCEAMENTO DE DEFESA. SÚMULA 7 DO STJ. REINTEGRAÇÃO DE POSSE. REQUISITOS. ACÓRDÃO DO TRIBUNAL DE ORIGEM EM CONSONÂNCIA COM O ENTENDIMENTO FIRMADO NO STJ. SÚMULA 568 DO STJ. EXAME DE MATÉRIA CONSTITUCIONAL. NÃO CABIMENTO. DECISÃO MANTIDA. RECURSO NÃO PROVIDO.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula 7 do STJ).
+2. O recurso especial não é a sede própria para a discussão de matéria de índole constitucional, sob pena de usurpação da competência exclusiva do STF.
+3. A fungibilidade prevista no art. 1.032 do Código de Processo Civil/2015 tem lugar apenas quando o fundamento do acórdão recorrido ostenta cunho exclusivamente constitucional. Precedentes.
+4. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AgInt no AREsp n. 1.852.255/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 11/4/2022, DJe de 18/4/2022).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. AÇÃO DE REINTEGRAÇÃO DE POSSE. NÃO COMPROVAÇÃO DO FATO CONSTITUTIVO DO DIREITO. CERCEAMENTO DE DEFESA. REEXAME. SÚMULA 7/STJ.AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
