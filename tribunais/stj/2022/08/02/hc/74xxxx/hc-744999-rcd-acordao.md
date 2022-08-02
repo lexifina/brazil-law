@@ -1,0 +1,26 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, recebero pedido de reconsideração como agravo regimental, ao qual negar provimento, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+BRUNO EDUARDO MARIA DA SILVA pugna pela reconsideração da decisão de fls. 80-81, em que indeferi liminarmente o habeas corpus para manter a natureza hedionda do delito de tráfico de drogas.
+Para tanto, assere que " s egue em anexo Decisão de Vossa Relatoria, como paradigma, em que, utilizando-se do mesmo modo de pensar da inicial, estabeleceu percentual inferior, por se tratar de cálculo mais benéfico, diante da revogação do artigo 2º, parágrafo 2º da Lei de Crimes Hediondos" (fl. 84).
+EMENTA
+PEDIDO DE RECONSIDERAÇÃO NO HABEAS CORPUS. EXECUÇÃO PENAL. NATUREZA DO DELITO DE TRÁFICO DE DROGAS. LEI N. 13.964/2019. EQUIPARAÇÃO A DELITOS HEDIONDOS. MAIOR GRAVIDADE APONTADA PELA PRÓPRIA CONSTITUIÇÃO DA REPÚBLICA DE 1988. PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO REGIMENTAL. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É possível receber o pedido de reconsideração como agravo regimental, dada a identidade do prazo recursal.
+2. Diferentemente da conjuntura relativa ao tráfico privilegiado, a própria Constituição Federal, em seu art. 5º, XLIII, rotulou como mais graves, tal qual os crimes hediondos (a serem definidos por lei ordinária), os delitos de tortura, o tráfico ilícito de entorpecentes e o terrorismo. Tal equiparação foi realizada pelo próprio constituinte originário, de modo que não se cogita a hipótese de que o Pacote Anticrime tenha afastado o caráter equiparado a hediondo do crime de tráfico de drogas.
+3. Pedido de reconsideração recebido como agravo regimental. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Preliminarmente, saliento que, tendo em vista a identidade do prazo recursal e a inexistência de erro grosseiro, recebo este pedido de reconsideração como agravo regimental.
+Ilustrativamente:
+ .. .
+1. Pedido de reconsideração, apresentado dentro do quinquídio legal, deve ser recebido como agravo regimental, em homenagem ao princípio da fungibilidade (RCD no HC n. 349.107/BA, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 1º/6/2016).
+Já em relação ao mérito da impetração, conforme já apontado na decisão vergastada, asseriu a defesa que "o Poder Judiciário não poderá fazer uma interpretação extensiva ou por analogia, uma vez que as previsões contidas na nova redação do artigo 112 da Lei 7.210/84 dos delitos equiparados a hediondos restaram esvaziadas, ante a ausência de previsão legal expressa acerca do seu conteúdo" (fl.6).
+Na hipótese, o Juízo singular ressaltou que "o caráter hediondo do crime de tráfico de drogas decorre da eficácia normativa da Constituição, (art. 5º, XLIII)" (fl. 42).
+De fato, em sessão realizada em 23/6/2016, o Plenário do Supremo Tribunal Federal, por ocasião do julgamento do HC n. 118.533/MS, decidiu que o chamado "tráfico privilegiado" - aquele em que há a redução de pena prevista no art. 33, § 4º, da da Lei n. 11.343/2006 - não deve ser considerado crime de natureza hedionda. Segundo a relatora, Ministra Cármen Lúcia, tal crime não se harmoniza com a qualificação de hediondez dos delitos previstos no caput e no § 1º do art. 33 da Lei n. 11.343/2006.
+Em virtude da nova compreensão do Pretório Excelso acerca da matéria, a Terceira Seção desta Corte Superior de Justiça, no julgamento da Pet n. 11.796/DF, ocorrido em 23/11/2016, revisou o teor do supracitada Súmula n. 512 e, ao acolher a tese segundo a qual o tráfico ilícito de drogas na sua forma privilegiada (art. 33, § 4º, da Lei n. 11.343/2006) não é crime equiparado a hediondo, cancelou o enunciado.
+Todavia, diferentemente da conjuntura relativa ao tráfico privilegiado, a própria Constituição Federal, em seu art. 5º, XLIII, rotulou como mais graves, tal qual os crimes hediondos (a serem definidos por lei ordinária), os delitos de tortura, o tráfico ilícito de entorpecentes e o terrorismo. Tal equiparação foi realizada pelo próprio constituinte originário, de modo que não se cogita a hipótese de que o Pacote Anticrime afastou o caráter equiparado a hediondo do crime de tráfico de drogas.
+No mesmo sentido, segundo previsto no art. 112, § 5º, da Lei de Execução Penal, afasta-se a natureza hedionda tão-somente do tráfico privilegiado, dado que, nos termos da redução do referido dispositivo legal, " n ão se considera hediondo ou equiparado, para os fins deste artigo, o crime de tráfico de drogas previsto no § 4º do art. 33 da Lei nº 11.343, de 23 de agosto de 2006"
+Ademais, urge consignar também que, consoante exposto no art. 44 da Lei n. 11.343/2006, " o s crimes previstos nos arts. 33, caput e § 1º, e 34 a 37 desta Lei são inafiançáveis e insuscetíveis de sursis, graça, indulto, anistia e liberdade provisória, vedada a conversão de suas penas em restritivas de direitos" (destaquei).
+À vista do exposto, nego provimento ao recurso.
