@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso especial interposto por TIM CELULAR S/A(TIM), com fundamento no art. 105, III, alíneas "a", da CF, contra acórdão proferido pelo Tribunal de Justiça de Santa Catarina, assim ementado:
+APELAÇÕES CÍVEIS. AÇÃO ORDINÁRIA OBJETIVANDO O PAGAMENTO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS EM RAZÃO DE ILÍCITOS ILEGAIS E CONTRATUAIS. RESILIÇÃO UNILATERAL PELAREQUERIDA TIM CELULAR S/A. SENTENÇA DE PARCIAL PROCEDÊNCIA. INSURGÊNCIA DE AMBAS AS PARTES. PRELIMINARES AVENTADAS POR AMBAS AS PARTES. PELA REQUERIDA/APELANTE, SOB ALEGAÇÃODE QUE O JULGAMENTO FOI EXTRA PETITA. PELA AUTORA/APELANTE, AO ARGUMENTO DE CERCEAMENTO DE DEFESA. NULIDADES NÃO CONFIGURADAS. PRELIMINARES AFASTADAS. MÉRITO. RECURSO DA REQUERIDA/APELANTE. CONTRATO DE COMPRA E VENDA DE RECARGA DE TELEFONIA DO SERVIÇO MÓVEL PESSOAL PRÉ -PAGO. CONTRATO DE DISTRIBUIÇÃO ATÍPICO CARACTERIZADO. NATUREZA JURÍDICA QUE NÃO LHE PERMITE A SUBSUNÇÃO AO REGULAMENTO CIVIL. APLICAÇÃO DAS CLÁUSULAS PACTUADAS NO CONTRATO. REQUERIDA QUE OBSERVOU OS TERMOS FIRMADOS ENTRE AS PARTES. BOA -FÉ CONTRATUAL VERIFICADA. PRAZO DE 30 (TRINTA) DIAS COMPATÍVE LCOM A NATUREZA DO CONTRATO E O VULTO DOS INVESTIMENTOS. RELAÇÃO CONTRATUAL QUE PERDUROU CERCA DE 11 (ONZE) ANOS. AUSÊNCIA DE DEVER DE INDENIZAR. SENTENÇA REFORMADA. PLEITO EXORDIAL JULGADO IMPROCEDENTE. RECURSO DA AUTORA/APELANTE. PLEITOS PREJUDICADOS. REDISTRIBUIÇÃO DOS ÔNUS SUCUMBENCIAIS. PREQUESTIONAMENTO. DESNECESSIDADE DEMANIFESTAÇÃO EXPRESSA ACERCA DE TODOS OS DISPOSITIVOS LEGAIS SUSCITADOS PELAS PARTES. RECURSO DA REQUERIDA/APELANTE CONHECIDO E PROVIDO, PREJUDICADO O RECURSO DA AUTORA/APELANTE(e-STJ, fl. 536).
+Os embargos de declaração opostos por TIM foram rejeitados (e-STJ, fls. 611/622).
+Nas razões do presente recurso, TIM alegou a violação aos arts. 85, §§ 2º e 8º, e 1.008do NCPC, ao sustentar que (1) não é possível a fixação da verba honorária por equidade no caso em julgamento, mas sim em no mínimo 10% sobre o valor da causa ou, sucessivamente, que seja majorado o valor, adequando-se pelo menos ao que havia sido deferido em sentença.
+Não foram apresentadas contrarrazões.
+É o relatório.
+Decido.
+O recurso não merece prosperar.
+(1)Dos honorários
+TIM defende quenão é possível a fixação da verba honorária por equidade no caso em julgamento, mas sim em no mínimo 10% sobre o valor da causa ou, sucessivamente, que seja majorado o valor, adequando-se pelo menos ao que havia sido deferido em sentença.
+Ocorre, contudo, que, na hipótese, a sentença foi proferida em 2013, quando ainda não estava vigente o regramento previsto no artigo 85 do NCPC. Assim, não é aplicável ao caso o referido normativo legal, conforme entendimento desta Corte em relação ao tema:
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA. PROCESSUAL CIVIL. HONORÁRIOS SUCUMBENCIAIS. SENTENÇA PROFERIDA NA VIGÊNCIA DO CPC/1973. PRETENSÃO DE APLICAÇÃO DO REGIME DE HONORÁRIOS DO CÓDIGO FUX. DESCABIMENTO, CONFORME A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. AGRAVO INTERNO DO PARTICULAR DESPROVIDO.
+1. Quanto aos honorários advocatícios sucumbenciais, este STJ firmou o entendimento de que o regime processual aplicável ao tema será aquele vigente à época da sentença que os fixou.
+2. No presente caso, tendo a sentença sido proferida em 10.7.2015 (fls. 116/121), é o art. 20 do CPC/1973 que incide ao caso, e não o art. 85 do Código Fux. Por essa razão, não procede o pleito recursal de fixação dos honorários com base no regime da nova legislação.
+3. Agravo Interno do Particular desprovido.
+(AgInt nos EREsp n. 1.630.609/DF, relator Ministro Napoleão Nunes Maia Filho, Corte Especial, julgado em 9/6/2020, DJe de 17/6/2020.)
+EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA. DIREITO INTERTEMPORAL: ART. 20 DO CPC/1973 VS. ART. 85 DO CPC/2015. NATUREZA JURÍDICA HÍBRIDA, PROCESSUAL E MATERIAL. MARCO TEMPORAL PARA A INCIDÊNCIA DO CPC/2015. PROLAÇÃO DA SENTENÇA. PRESERVAÇÃO DO DIREITO ADQUIRIDO PROCESSUAL.
+1. Em homenagem à natureza processual material e com o escopo de preservar os princípios do direito adquirido, da segurança jurídica e da não surpresa, as normas sobre honorários advocatícios de sucumbência não devem ser alcançadas pela lei processual nova. 2. A sentença (ou o ato jurisdicional equivalente, na competência originária dos tribunais), como ato processual que qualifica o nascedouro do direito à percepção dos honorários advocatícios, deve ser considerada o marco temporal para a aplicação das regras fixadas pelo CPC/2015.
+3. Assim, se o capítulo acessório da sentença, referente aos honorários sucumbenciais, foi prolatado em consonância com o CPC/1973, serão aplicadas essas regras até o trânsito em julgado.
+Por outro lado, nos casos de sentença proferida a partir do dia 18.3.2016, as normas do novel diploma processual relativas a honorários sucumbenciais é que serão utilizadas.
+4. No caso concreto, a sentença fixou os honorários em consonância com o CPC/1973. Dessa forma, não obstante o fato de o Tribunal de origem ter reformado a sentença já sob a égide do CPC/2015, incidem, quanto aos honorários, as regras do diploma processual anterior.
+5. Embargos de divergência não providos.
+(EAREsp n. 1.255.986/PR, relator Ministro Luis Felipe Salomão, Corte Especial, julgado em 20/3/2019, DJe de 6/5/2019.)
+Nessas condições,NEGO PROVIMENTOao recurso especial.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL.RECURSO ESPECIAL INTERPOSTO SOB A ÉGIDE DO NCPC. AÇÃO DE REPARAÇÃO DE DANOS. HONORÁRIOS. SENTENÇA PROFERIDA ANTES DO NCPC. NÃO APLICABILIDADE DO SEU ART. 85.RECURSO ESPECIAL CONHECIDO E NÃO PROVIDO.
