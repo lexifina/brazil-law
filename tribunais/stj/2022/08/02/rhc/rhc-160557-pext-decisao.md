@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de pedido formulado pela defesa de MAX FELIPE DOS SANTOS para estender ao requerenteos efeitos da decisão que deu provimento ao recurso de MARCOS FELICÍSSIMO GONÇALVES (e-STJ fls. 692/701).
+Nas razões do pedido, a defesa alega que o requerente vem cumprindo desde 20/11/20218, há 3 anos e 5 meses, as medidas cautelares diversas da prisão, imposta em cumprimento à determinação do Tribunal estadual. Afirma que, assim como o recorrente, o requente também foi pronunciado e que a condição de Marcos Felicíssimo seria inclusive mais delicada. No mais, argumenta que a decisão que impôs as medidas cautelares levou em consideração apenas aspectos de natureza objetiva, o que assegura ao requerente o benefício, nos termos do art. 580 do CPP.
+Diante disso, pede seja deferido o pedido de extensão.
+É o relatório, decido.
+Nos termos do art. 580 do CPP, no caso de concurso de agentes (Código Penal, art. 25), "a decisão do recurso interposto por um dos réus, se fundado em motivos que não sejam de caráter exclusivamente pessoal, aproveitará aos outros".
+Assim, "a extensão do julgado referente a um réu não se opera automaticamente aos demais. Urge reunir dois requisitos: objetivo (identidade fática) e subjetivo (circunstâncias pessoais)" (RHC n. 7.439/SP, Relator Ministro LUIZ VICENTE CERNICCHIARO, Sexta Turma, julgado em 18/8/1998).
+Em outras palavras, o deferimento do pedido de extensão exige que o corréu esteja na mesma condição fático-processual daquele já beneficiado, a teor do artigo 580 do Código de Processo Penal.
+No caso dos autos, embora o requerente também tenha sido pronunciado pelo crime de homicídio, e mantida as cautelares, é certo que não juntou aos autos a decisão que impôs as referidas medidas,especificandoas que estão em vigor. Ainda, é possível constatar que a pronúncia manteve expressamente o afastamento do requerente das funções do policial militar, condição pessoal diversa da do recorrente, valendo ressaltar que a defesa não submeteu previamente ao crivo do Tribunal estadual sua alegação de excessiva demora na manutenção das medidas cautelares.
+Nesse contexto, não é possível realizar o cotejo para verifica da possibilidade de estender o benefício.
+Por essas razões, não conheço do pedido de extensão.Recomendo, entretanto, de ofício, ao Juízo processante que reexamine à luz dos critérios de necessidade e adequação a efetiva necessidade das medidascautelares em vigor, tendo em vista o tempo decorrido.
+Intimem-se.
