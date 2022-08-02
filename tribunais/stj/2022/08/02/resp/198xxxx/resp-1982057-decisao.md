@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial interposto pela UNIÃO, com respaldo nopermissivo constitucional, contra acórdão do TRF-5ªassim ementado (e-STJ fls. 458/459):
+ADMINISTRATIVO. AÇÃO DE ANULAÇÃO DE COBRANÇA. RESSARCIMENTO AO ERÁRIO. DESCUMPRIMENTO PARCIAL DE CONVÊNIO. ATO ILÍCITO CIVIL. PRESCRIÇÃO QUINQUENAL. OCORRÊNCIA. PRECEDENTES. APELAÇÃO PROVIDA.
+1. O STF, quando do julgamento do RE 852.475, firmou o entendimento de que mesmo nas ações de improbidade, a (i) mprescritibilidade da pretensão punitiva deve ser restrita às hipóteses em que haja o dolo do agente, ou seja, quando do ato ímprobo decorrer enriquecimento ilícito, favorecimento ilícito de terceiros ou causar dano intencional à administração pública.
+2. O presente pedido de ressarcimento se lastreia em possíveis irregularidades na prestação de contas do Convênio 1510/2003 (Siafi 504347), cujos recursos foram movimentados no período 2003. Segundo restou assentado nos autos da Tomada de Contas Especial, a cobrança foi fundada na irregularidade da aplicação de recursos federais transferidos por meio do referido Convênio, que teriam sido sacados, em espécie. Sendo dois cheques nos valores respectivos de R$ 32.825,28 e R$ 44.644,75, usados para pagamento das Notas Fiscais 1528 e 1569-1577 da empresa Severino Ramos Guedes Material para Escritório, registrada em nome do autor.
+3. Não há nos autos informação acerca da existência de ação de improbidade administrativa voltada à punição do ora apelante, nos termos da Lei nº 8.429/92.
+4. "A cobrança de valores aos cofres públicos pelo descumprimento parcial do objeto deconvênio - objeto da presente ação de ressarcimento - não sugere a prática de ato ímprobo, mas mero ilícito civil". (PROCESSO: 08132866020174058400, AC - Apelação Cível - , DESEMBARGADOR FEDERAL EDÍLSON NOBRE, 4ª Turma, JULGAMENTO:17/05/2019, PUBLICAÇÃO).
+5. Precedentes: PROCESSO: 00010006820194059999, AC - Apelação Civel - 601426, DESEMBARGADOR FEDERAL EDÍLSON NOBRE, Quarta Turma, JULGAMENTO: 10/09/2019, PUBLICAÇÃO: DJE - Data: 13/09/2019 - Página: 61; PROCESSO: 00018396520134058201, AC - Apelação Cível - 582979, DESEMBARGADOR FEDERAL RUBENS DE MENDONÇA CANUTO, Quarta Turma, JULGAMENTO: 18/02/2020, PUBLICAÇÃO: DJE - Data: 13/03/2020 - Página: 30;
+6. Tendo em vista que os fatos ocorreram em 2003, já houve o transcurso de mais de 5 (cinco) anos entre os supostos atos ilícitos e a interposição da Tomada de Contas (2015), configurada, portanto, a prescrição.
+7. Apelação provida.
+Embargos de declaração rejeitados (e-STJ fl. 794).
+Nas suas razões, o recorrente sustenta a violação doart.1.022 doCPC/2015e do art. 2º da Lei n. 9.873/1999,sustentando, em síntese, que não houve o exame das causas interruptivas da prescrição, sendo certo que não houve o transcurso do prazo prescricional reconhecido no acórdão.
+Admissão do apelo nobre (e-STJ fl. 835).
+Passo a decidir.
+Compulsando os autos, impõe-se afastar, desde logo, a indigitada ofensa ao art. 1.022 do CPC/1973, visto que o acórdão impugnado apreciou fundamentadamente a controvérsia, apontando as razões de seu convencimento, não se vislumbrando, na espécie, nenhumacontrariedade danorma invocada.
+Ademais, consoante entendimento jurisprudencial pacífico, o órgão julgador não está obrigado a se manifestar sobre todos os argumentos levantados pelas partes para expressar a sua convicção, notadamente quando encontrar motivação suficiente ao deslinde da causa.
+Sobre a hipótese: AgRg no AREsp 750.650/RJ, Relator Ministro HUMBERTO MARTINS, Segunda Turma, DJe 30/9/2015;e AgRg no AREsp 493.652/RJ, Relator Ministro SÉRGIO KUKINA, Primeira Turma, DJe 20/6/2014.
+No que toca à alegada violação do art.2º da Lei n. 9.873/1999, verifico que o apelo nobre não comporta conhecimento.
+Conquanto não seja exigida a menção expressa ao dispositivo de lei federal, a admissibilidade do recurso na instância excepcional pressupõe que a Corte de origem tenha se manifestado sobre a tese jurídica apontada pelo recorrente. Esse é o entendimento pretoriano consagrado na edição da Súmula 282 do STF, in verbis: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada."
+Note-se que o principal fundamento trazido pela UNIÃO, a respeito da existência de marcos interruptivos da prescrição, somente foi trazido em sede de embargos de declaração,constituindo inovação recursal.
+Dessarte, o exame dessepreceptivolegalfica inviabilizado, uma vez que o Tribunal a quo não analisou a questão apontada no apelo nobre.
+Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. VIOLAÇÃO DO ART. 535 DO CPC NÃO CONFIGURADA. INCIDÊNCIA DO IPI SOBRE IMPORTAÇÃO. EQUIPAMENTO MÉDICO. ESTABELECIMENTO IMPORTADOR NÃO INDUSTRIAL. POSSIBILIDADE. PIS E COFINS-IMPORTAÇÃO. ENTRADA DE BENS ESTRANGEIROS SOB O REGIME DE LEASING. ALÍQUOTA ZERO. LEI 10.865/2004. INCIDÊNCIA. VIOLAÇÃO AOS ARTS. 98 E 100 DO CTN. INOVAÇÃO RECURSAL.
+1.  ..
+4. No tocante à alegada violação dos arts. 98 e 100 do CTN, sob o argumento da ilegalidade de base de cálculo do PIS/PASEP-Importação e da COFINS-Importação, não se pode conhecer da irresignação, pois tal tese não foi levantada perante o Tribunal de origem, caracterizando-se, portanto, indevida inovação recursal em Recurso Especial. Não cabe ao Superior Tribunal de Justiça manifestar-se sobre matéria não apreciada pela instância ordinária, já que nem sequer fora objeto das razões de Apelação ou dos Embargos de Declaração.
+5. Recurso Especial parcialmente conhecido e, nessa parte, não provido.
+(REsp 1.661.888/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 18/05/2017, DJe 19/06/2017). (Grifos acrescidos).
+É bem verdade que a parte recorrente manejou os aclaratórios no TRF-5ª, o que poderia gerar a dúvida a respeito prequestionamento ficto.
+Ocorre que a incidência do art. 1.025 do CPC/2015 exige o reconhecimento nesta instância da negativa de prestação jurisdicional, arguida no recurso especial, o que não ocorreu no presente caso. Nesse sentido: AgInt no AREsp 1.690.610/SC, rel. Min. MARCO AURÉLIO BELLIZZE, Terceira Turma, DJe 11/11/2020.
+Pelo exposto, com base no art. 255, § 4º, I, do RISTJ, CONHEÇO PARCIALMENTE do recurso especial para, na extensão, NEGAR-LHE PROVIMENTO.
+Publique-se. Intimem-se.
