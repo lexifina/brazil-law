@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de recurso especial interposto por CARLOS MEIRELES APOLINÁRIO DOS SANTOS com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça local (Apelação n. 0000477-62.2016.8.26.0616), assim ementado (fl. 197):
+RECEPTAÇÃO - PRETENDIDA A ABSOLVIÇÃO POR INSUFICIÊNCIA DE PROVAS - NÃO ACOLHIMENTO - CONJUNTO PROBATÓRIO SEGURO EM DEMONSTRAR QUE O APELANTE TINHA CONHECIMENTO DA ORIGEM ILÍCITA DO BEM - DOLO EVIDENCIADO - RECURSO NÃO PROVIDO.
+Opostos embargos de declaração, os quais foram rejeitados.
+Nas razões do recurso especial (fls. 224-247), orecorrenteapontaviolação do art. 180, § 5º, do Código Penal.
+Defende o direito ao reconhecimento daforma privilegiada.
+Requera aplicação, exclusivamente, da pena de multa.
+Há contrarrazões do Ministério Público do Estado (fls. 289-293).
+O Ministério Público Federal opinoupelo desprovimento do recurso especial (fls. 304-306).
+É o relatório. Decido.
+O recurso merece prosperar em parte.
+A sentença condenou o recorrente, pelo crime descrito no art. 180, caput,do Código Penal, às penas de1 ano de reclusãoe de 10 dias-multa (fls. 154-156).
+O Tribunal de origem negou provimentoà apelação e reafirmou o reconhecimento da materialidade e autoria, bem comoa dosagem das penassem tratar da questão. Observe (fls. 201-202):
+A certeza de que o acusado agiu dolosamente é reforçada pelo fato de ele não ter apresentado justificativa plausível sobre as circunstâncias da aquisição do objeto, adquirido, ademais, na "feira do rolo", local em que a comercialização de bens obtidos por meio criminoso é de conhecimento amplo.
+Assim, de rigor a sua condenação pela receptação em sua modalidade dolosa, sendo inviável a desclassificação pretendida pela defesa.
+Passo, então, à análise da dosimetria das penas.
+Na primeira fase, sopesadas as diretrizes do artigo 59 do Código Penal, a pena-base foi fixada no patamar mínimo legal, ou seja, em 01 ano de reclusão e pagamento de 10dias-multa, no valor unitário mínimo.
+Na segunda fase, ausentes circunstâncias atenuantes e agravantes, ficaram as penas definidas no mesmo patamar.
+Na terceira fase, não há causas de aumento ou diminuição.
+Mantenho a fixação do regime aberto para o início do cumprimento da pena, em atenção ao disposto no artigo 33, §2º, alínea "c", do Código Penal.
+Por fim, preenchidos os requisitos previstos no artigo 44 do Código Penal, mantenho a substituição a pena privativa de liberdade, por uma restritiva de direitos, consistente em prestação de serviços, a ser definida perante o Juízo da execução, sem prejuízo da pena pecuniária acima imposta.
+Todavia, ao julgar os embargos de declaração, teceu a seguinte consideração sobre o tema (fl. 275):
+Desse modo, o V. Acórdão de fls. 196/202 não padece de omissão, uma vez que enfrentou as alegações efetivamente formuladas pela defesa, expondo com clareza as razões para a manutenção da condenação pelo crime de receptação em sua modalidade dolosa.
+De qualquer forma, o bem adquirido pelo réu, celular avaliado em R$ 800,00, evidentemente não pode ser considerado de pequeno valor, razão pela qual era mesmo inviável o reconhecimento do privilégio.
+Considerando o teor dos trechos do acórdão, ora transcritos, observa-se que o recorrente é primário e o valor subtraído é inferior ao salário mínimo vigente à época dos fatos -critério estabelecido para considerar de pequeno valor a coisa furtada pelo STJ.
+Assim, nos termos do que estabelece o § 5º do artigo 180 do Código Penal, é impositivoo reconhecimento do privilégio previsto no § 2º do art. 155 do CP ao presente caso, se estiverem presentes a primariedade do agente e o pequeno valor da coisa, o que torna inidôneo o fundamento da Corte de origem, uma vez que não encontra amparo na jurisprudência desta Corte Superior de Justiça.
+Dessa forma, por se tratar de réu primário, condenado pelo crime de receptação de bem de pequeno valor, deve ser reconhecido o privilégio por se tratar de direito subjetivo do réu, diante do imperativo legal de que na "receptação dolosa aplica-se o disposto no § 2º do art. 155".
+Nesse sentido, cito a seguinte jurisprudência sobre oentendimento do Superior Tribunal de Justiça aos crimes de furto:
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. FURTO QUALIFICADO. TRANCAMENTO DA AÇÃO PENAL. VALOR DA RES FURTIVAE SUPERIOR A 10% DO SALÁRIO MÍNIMO. RELEVANTE LESÃO AO BEM JURÍDICO. REITERAÇÃO DELITIVA. ATIPICIDADE MATERIAL DA CONDUTA NÃO EVIDENCIADA. ROMPIMENTO DE OBSTÁCULO. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. RECONHECIMENTO DA FORMA PRIVILEGIADA. POSSIBILIDADE. BEM DE PEQUENO VALOR E PRIMARIEDADE DO RÉU. QUALIFICADORA DE NATUREZA OBJETIVA. SÚMULA 511/STJ. REGIME PRISIONAL SEMIABERTO. PENA-BASE ACIMA DO MÍNIMO LEGAL. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. PENA INFERIOR A 4 ANOS. ART. 33, § 3º, DO CÓDIGO PENAL. WRIT NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+1. Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+2. O "princípio da insignificância - que deve ser analisado em conexão com os postulados da fragmentariedade e da intervenção mínima do Estado em matéria penal - tem o sentido de excluir ou de afastar a própria tipicidade penal, examinada na perspectiva de seu caráter material.  ..  Tal postulado - que considera necessária, na aferição do relevo material da tipicidade penal, a presença de certos vetores, tais como: (a) a mínima ofensividade da conduta do agente; (b) nenhuma periculosidade social da ação; (c) o reduzidíssimo grau de reprovabilidade do comportamento; (d) a inexpressividade da lesão jurídica provocada - apoiou-se, em seu processo de formulação teórica, no reconhecimento de que o caráter subsidiário do sistema penal reclama e impõe, em função dos próprios objetivos por ele visados, a intervenção mínima do Poder Público." (HC n. 84.412-0/SP, STF, Rel. Ministro CELSO DE MELLO, DJU 19/11/2004).
+3. A jurisprudência desta Corte, dentre outros critérios, aponta o parâmetro da décima parte do salário mínimo vigente ao tempo da infração penal, para aferição da relevância da lesão patrimonial. Precedentes.
+4. A Quinta Turma reconhece que o princípio da insignificância não tem aplicabilidade em casos de reiteração da conduta delitiva, salvo excepcionalmente, quando demonstrado ser tal medida recomendável diante das circunstâncias concretas.
+5. Tendo o furto sido praticado mediante o rompimento de obstáculo, resta demonstrada maior reprovabilidade da conduta, o que torna incompatível a aplicação do Princípio da Insignificância. Precedentes.
+6. No que se refere à figura do furto privilegiado, o art. 155, § 2º, do Código Penal impõe a aplicação do benefício penal na hipótese de adimplemento dos requisitos legais da primariedade e do pequeno valor do bem furtado, assim considerado aquele inferior ao salário mínimo ao tempo do fato. Trata-se, em verdade, de direito subjetivo do réu, não configurando mera faculdade do julgador a sua concessão, embora o dispositivo legal empregue o verbo "poder".
+7. Nos termos da pacífica jurisprudência desta Corte, consolidada na Súmula 511/STJ, é viável a incidência do privilégio na hipótese de furto qualificado, desde que a qualificadora seja de caráter objetivo. Decerto, a única qualificadora que inviabiliza o benefício penal é a de abuso de confiança (CP, art. 155, § 4º, II, primeira parte).
+8. Tratando-se de réu primário, condenado pelo furto de bem de pequeno valor e tendo incidido a qualificadora objetiva do rompimento de obstáculo, deve ser reconhecido o privilégio.
+9. Estabelecida a pena-base acima do mínimo legal, por terem sido desfavoravelmente valoradas circunstâncias do art. 59 do Código Penal, é possível a fixação de regime prisional mais gravoso do que o indicado pelo quantum de reprimenda imposta ao réu, a teor do disposto no art. 33, § 3º, do CP.
+10. Writ não conhecido. Ordem concedida, de ofício, para determinar que o Juízo das Execuções proceda à nova dosimetria da pena, reconhecendo a incidência do privilégio do art. 155, § 2º, do Código Penal, mantendo-se, no mais, o teor do decreto condenatório. (HC n. 424.745/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 20/3/2018.)
+Passo à dosimetria da pena.
+Na primeira fase, ausentes circunstâncias judiciais negativas, fixo a pena-base em 1 anode reclusão e em 10dias-multa.
+Na segunda fase, verifico a ausência de agravantes e atenuantes, razão pela qual mantenho a penano mesmo patamar fixado.
+Na terceira fase, reconhecida afigura do privilégio, opto pela redução de 2/3, uma vez que não há parâmetros para verificar a capacidade econômica do réu ea aplicação de apenas pena de multacontraria o disposto no caput do art. 60 do Código Penal, que estabelece que, na "fixação da pena de multa, o juiz deve atender, principalmente, à situação econômica do réu";portanto, diminuo a pena para4 meses de reclusão e 3dias-multa, a qual torno definitiva.
+Mantenho os demais tópicos da sentença e do acórdão.
+Ante o exposto, dou provimento ao recurso especialpara aplicar a figura do privilégio, diminuindo a pena aplicada para 4 meses de reclusão e 3 dias-multa.
+Publique-se. Intimem-se.
