@@ -1,0 +1,40 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido liminar, impetrado em benefício de LUIZ GUILHERME DUTRA TOPPAM, contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, no julgamento da Apelação Criminal n. 5001292-39.2020.4.03.6005.
+Extrai-se dos autos que o paciente foi condenado à pena de 7 anos e 6 meses de reclusão, em regime inicial fechado, e ao pagamento de 24 dias-multa, pela prática do delito previsto no art. 2º, §§ 2º e 4º, inciso V, da Lei n. 12.850/2013 (organização criminosa armada e transnacional), tendo sido mantida a prisão preventiva.
+Irresignada, a defesa interpôs recurso de apelação perante o Tribunal de origem, que ainda está pendente de julgamento.
+No presente writ, alega excesso de prazo para o julgamento do recurso de apelação, porquanto está concluso ao relator há mais de 9 meses sem nenhuma movimentação. Ressalta as circunstâncias pessoais favoráveis do paciente.
+Requer, assim, em liminar e no mérito, a expedição de alvará de soltura e que seja determinada a inclusão do recurso em pauta para julgamento.
+É o relatório.
+Decido.
+Conforme relatado, busca-se, no presente writ, o relaxamento da segregação cautelar.
+Com efeito, esta Corte Superior tem o entendimento de que, somente configura constrangimento ilegal por excesso de prazo no julgamento da apelação, apto a ensejar o relaxamento da prisão cautelar, a mora que decorra de ofensa ao princípio da razoabilidade, consubstanciada em desídia do Poder Judiciário ou da acusação, jamais sendo aferível apenas a partir da mera soma aritmética dos prazos processuais.
+Na hipótese, a meu ver, não restou caracterizada a existência de mora na tramitação do recurso que justifique o relaxamento da prisão preventiva, porquanto este tem seguido seu trâmite regular. Verifica-se, das informações prestadas pelaCorte de origem, que a apelação defensiva foi distribuída ao relator em 04/08/2021 (fl.56) e, após colhido parecer ministerial,os estão conclusos para julgamento, com previsão deser realizado ainda neste ano.
+Impende consignar, outrossim, que, consoante destacado nas citadasinformações, o Tribunal de origem sinalizou que, em "em cumprimento ao quanto determinado pelo CNJ, pela Corregedoria-Geral do CJF e pelas disposições do CPC, o julgamento dos processos tem sido realizado por ordem de preferência legal e atendendo à data da distribuição dos feitos" (fl. 56), observando-se, ainda, a prioridade de processos criminais com réus presos, bem como os prazos prescricionais.
+Outrossim, é cediço que eventual excesso de prazo no julgamento da apelação deve ser aferido em face da quantidade de pena imposta na sentença condenatória.No caso, o paciente foi condenado à pena de 7anos e 6 meses de reclusão, em regime inicial fechado,e, recebido o recurso de apelação, foi remetido ao Tribunal de origem em 4/8/2021, não restando desarrazoado o prazo para julgamento do recurso defensivo.
+A propósito, colaciono os seguintes precedentes:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PRISÃO PREVENTIVA. TRÁFICO E ASSOCIAÇÃO PARA PARA O TRÁFICO INTERNACIONAL DE DROGAS. CONDENADO A 22 ANOS, 7 MESES E 10 DIAS DE RECLUSÃO. EXCESSO DE PRAZO PARA O JULGAMENTO DE APELAÇÃO. INOCORRÊNCIA. PRINCÍPIO DA RAZOABILIDADE. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. AGRAVO REGIMENTAL DESPROVIDO.
+1. O excesso de prazo para o julgamento da apelação não pode ser medido apenas em razão do tempo decorrido para o julgamento do recurso, devendo ser apreciado, também, a partir do princípio da razoabilidade e da proporcionalidade, tendo em vista a complexidade da causa em julgamento, bem como a pena imposta na sentença condenatória.
+2.  .. .
+3. Das informações prestadas pela Corte de origem a Procuradoria Regional da República, ofereceu parecer em 11/1/2022, manifestou-se pelo não provimento da Apelação defensiva e provimento da Apelação ministerial para alteração da dosimetria da pena; os autos encontram-se conclusos para oportuna inclusão em pauta, com previsão de julgamento da apelação criminal para este primeiro semestre de 2022. Depreende-se dos autos que para viabilizar o processamento da apelação houve a necessidade de digitalização e inserção de 18 volumes de interceptações telefônicas.
+ .. .
+(AgRg no HC n. 723.899/MS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 19/4/2022, DJe de 25/4/2022).
+PROCESSO PENAL. HABEAS CORPUS. ASSOCIAÇÃO CRIMINOSA, COMÉRCIO E TRÁFICO INTERNACIONAL DE ARMAS DE FOGO. CONDENAÇÃO À PENA DE MAIS DE 20 ANOS DE RECLUSÃO. EXCESSO DE PRAZO PARA JULGAMENTO DO RECURSO DE APELAÇÃO. INOCORRÊNCIA. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. GARANTIA DA ORDEM PÚBLICA. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO.ORDEM DENEGADA.
+1. A lei processual não estabelece um prazo para o julgamento do recurso de apelação criminal, que deve ser analisado à luz do princípio da razoabilidade, a fim de se verificar a ocorrência ou não de constrangimento ilegal. Sabe-se que eventual atraso no andamento do feito, por si só, não caracteriza excesso de prazo.
+2. No caso, os autos foram distribuídos por sorteio em 22/7/2016, de modo que, desta data até o atual estágio do processo, não há falar em desídia por parte do Poder Judiciário ou em demora injustificada no andamento do feito, estando, inclusive, concluso ao revisor.
+3. "É cediço que eventual excesso de prazo no julgamento da apelação deve ser aferido em face da quantidade de pena imposta na sentença condenatória" (HC 407.415/CE, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 19/3/2019, DJe 28/3/2019).
+4.Havendo prova da existência do crime e indícios suficientes de autoria, a prisão preventiva, nos termos do art. 312 do Código de Processo Penal, poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal.
+5. No caso dos autos, a prisão cautelar foi devidamente fundamentada na necessidade de se resguardar a ordem pública, diante da periculosidade social da agente, integrante de organização criminosa atuante em comércio e tráfico internacional de armas de fogo, fazendo do crime o seu meio de vida.
+6. O Supremo Tribunal Federal já se manifestou no sentido de que "a custódia cautelar visando a garantia da ordem pública legitima-se quando evidenciada a necessidade de se interromper ou diminuir a atuação de integrantes de organização criminosa" (RHC 122.182, Rel. Ministro LUIZ FUX, PRIMEIRA TURMA, julgado em 19/8/2014).
+7. Habeas corpus denegado, com recomendação.
+(HC n. 511.102/AP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 13/8/2019, DJe de 20/8/2019).
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO CONCRETA. APREENSÃO DE GRANDE QUANTIDADE DE DROGAS. RECORRENTE INTEGRANTE DE ORGANIZAÇÃO CRIMINOSA. REITERAÇÃO DELITIVA. ILEGALIDADE. AUSÊNCIA. EXCESSO DE PRAZO PARA JULGAMENTO DE APELAÇÃO. NÃO CONFIGURAÇÃO AGRAVO IMPROVIDO.
+1. Apresentada fundamentação concreta, evidenciada na apreensão de grande quantidade e diversidade de drogas, além da participação do recorrente em complexa organização criminosa, bem como na reiteração delitiva, não há ilegalidade no decreto prisional.
+2. Uníssona é a jurisprudência no sentido de que o constrangimento ilegal por excesso de prazo só pode ser reconhecido quando a demora for injustificada, impondo-se adoção de critérios de razoabilidade no exame da ocorrência de constrangimento ilegal.
+3. Na hipótese, o apelo foi distribuído ao TJGO em 24/4/2019 e, após o processamento de praxe, os autos foram enviados à digitalização e recebidos pela Câmara em 11/2/2020, sendo recomendável apenas o destaque de celeridade no julgamento.
+ .. .
+5. Agravo regimental improvido.
+(AgRg no HC 604.476/GO, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 26/10/2020).
+Nesse contexto, não verifico a presença de constrangimento ilegal capaz de justificar a revogação da custódia cautelar do paciente.
+Ante o exposto, denego o presente habeas corpus, apenas recomendando-se ao Tribunal de origem que imprima celeridade no julgamento da Apelação n.5001292-39.2020.4.03.6005.
+Publique-se.
+Intimem-se.
