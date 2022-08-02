@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em favor de ALEXANDRE CAMPOS DOS SANTOS contra acórdão do Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o paciente o paciente foi condenado à pena de 2 anos, 2 meses e 20 dias de reclusão em regime inicial fechado, mais o pagamento de 10 dias-multa, pela prática do crime descrito no art. 304, c/c o art. 297, ambos do Código Penal (e-STJ, fls. 81-84).
+Interposta apelação, o Tribunal de origem deu parcial provimento ao recurso defensivo, a fim de fixar o regime inicial semiaberto para o cumprimento da pena privativa de liberdade imposta ao paciente, subsistindo, quanto ao mais, a sentença de primeiro grau. O aresto restou assim ementado:
+"APELAÇÃO. Uso de documento falso. Recurso defensivo. Pleito de absolvição por atipicidade da conduta. Não cabimento, Intenção de ocultar a qualidade de foragido que não afasta a tipicidade. Condenação mantida. Dosimetria penal que não comporta reparos. Regime inicial fechado fixado pelo d. juízo a quo. Viável a fixação do regime inicial semiaberto para o cumprimento da reprimenda, em face do quantum de pena c da reincidência do agente. Recurso parcialmente provido." (e-STJ, fl. 85).
+Ajuizada revisão criminal, pretendendo a defesa a mitigação da pena imposta, com a compensação integral da circunstância agravante da reincidência com a atenuante da confissão espontânea, bem como a aplicação automática da detração penal, o Tribunal a quo não conheceu do pedido revisional (e-STJ, fls. 15-21).
+Neste writ, a defesa aponta que o paciente está sendo vítima de constrangimento ilegal, porquanto na dosimetria da pena não foi levada em consideração o que determina o art. 67 do Código Penal.
+Sustenta que, concorrendo a agravante da reincidência e da confissão, não deveria ocorrer aumento da pena, tão somente a compensação entre elas, sendo necessária a condenação do paciente no mínimo legal - 2 anos -, com a revisão do decreto condenatório.
+Afirma que o paciente permaneceu preso por 1 ano, 3 meses e 2 dias, não sendo esse tempo descontado da sentença, a merecer a aplicação da detração no decreto condenatório.
+Requer, liminarmente e no mérito, a compensação entre a agravante da reincidência e a da confissão, devendo a condenação do paciente ser no mínimo legal - 2 anos -, com a revisão do decreto condenatório. Pleiteia também seja aplicada a detração a fim de reformar o decreto condenatório do paciente para 8 meses e 28 dias.
+Indeferida a liminar (e-STJ, fls. 123-1241), o Ministério Público Federal opinou pela denegação da ordem (e-STJ, fls. 196-200).
+É o relatório.
+Decido.
+Em consulta à base de dados processuais desta Corte, verifica-se que este habeas corpus traz pedido em relação à dosimetria da pena aplicada ao paciente igual ao deduzido no REsp 1.823.621/SP e se insurge contra o mesmo acórdão do Tribunal de Justiça do Estado de São Paulo (Apelação Criminal 0011755-03.2016.8.26.0635).
+O referido recurso, inclusive, já foi julgado, em 20/8/2019, tendo sido negado provimento ao apelo.
+No tocante à detração, em que pesem os esforços da defesa, verifica-se que a questão não foi objeto de cognição pela Corte de origem, o que obsta o exame da matéria por este Superior Tribunal de Justiça, sob pena de incidir em indevida supressão de instância e em violação da competência constitucionalmente definida para esta Corte.
+Desse modo, tratando-se de reiteração de processo anteriormente impetrado perante esta Corte, bem como estando configurada supressão de instância, não conheço do habeas corpus.
+Publique-se. Intimem-se.
