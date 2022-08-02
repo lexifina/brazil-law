@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de ação rescisória ajuizada por JOSE EDUARDO FONTOURA BINI (JOSÉ) em face de ARIVALDO LOPES (ARIVALDO), na qual pretende a rescisão da sentença e acórdão proferidos nos autos nº 0002074-96.2006.8.16.0001 (ação de indenização por danos morais).
+O Tribunal de Justiça do Paranáindeferiu o pedido da justiça gratuita econdenou JOSÉ a efetuar, no prazo de 05 (cinco) dias, o pagamento de custas processuais, inclusive do depósito de 5% exigido pelo art. 968, II do NCPC, sob pena de indeferimento da petição inicial. Além de que, opedido da tutela antecipada restouprejudicado enquanto não for pago o valor do depósito naAção Rescisória, uma vez que não foi deferido o pedido da justiça gratuita.
+Após, o Tribunal de origem negou provimento ao agravo interno interposto e aplicou multa aJOSÉ, no montante de 1% do valor atualizado da causa, nos termos do art. 1021, §4º, do CPC. Confira-se:
+AGRAVO INTERNO. AÇÃO RESCISÓRIA. DECISÃO QUE INDEFERE OS BENEFÍCIOS DA JUSTIÇA GRATUITA. RECURSO INTERPOSTO PELO AUTOR.1. DECLARAÇÃO DE INSUFICIÊNCIA FINANCEIRA QUE GOZA DE PRESUNÇÃO "JURIS TANTUM" DE VERACIDADE. DOCUMENTOS JUNTADOS AOS AUTOS QUECOMPROVAM A POSSIBILIDADE DE O DEMANDANTE ARCAR COM AS DESPESAS PROCESSUAIS SEM PREJUÍZO DE SEU PRÓPRIO SUSTENTO OU DE SUA FAMÍLIA. DECISÃO MANTIDA. 2. NECESSIDADE DE REALIZAÇÃO DO PAGAMENTO DAS CUSTAS PROCESSUAIS, INCLUSIVE DO DEPÓSITO DO ART. 968, II, DO CPC/2015 PARAO PROSSEGUIMENTO E ANÁLISE DA DEMANDA AJUIZADA. 3. AGRAVO INTERNO QUE NÃO APRESENTA ARGUMENTOS PARA IMPUGNAR OS FUNDAMENTOS UTILIZADOS NA DECISÃO MONOCRÁTICA. REITERAÇÃO DE PETIÇÕES ANTERIORMENTE APRESENTADAS. MANIFESTA IMPROCEDÊNCIA. APLICAÇÃO DA MULTA PREVISTA NO ART. 1.021, §4º, DOCPC/2015. 4. PEDIDO DE PREQUESTIONAMENTO DA MATÉRIA RECURSAL. DESNECESSIDADE. ART. 1.025 DO CPC/2015. AGRAVO INTERNO CONHECIDO E DESPROVIDO (e-STJ Fl.1377).
+Após, JOSÉ interpôs recurso especial, com fundamento no art. 105, III, a, da CF, que foi inadmitido. Sendo, portanto, interposto agravo interno por JOSÉ.
+A Presidência desta Corte, por meio dedecisão monocrática, nãoconheceu deste agravo, pois não foramrecolhidos os valores correspondentesà penalidade damulta aplicada pelo Tribunal de origem (e-Fls. 1761/1762).
+Em seguida,por meio de agravo interno, JOSÉ alega que tendo em vista a discussão sobre a Assistência Judiciária Gratuita ainda estar em voga, não é crível a exigência do pagamento de multa para o fim de recorrer, pois com o provimento e concessão da AJG, não haverá cabimento de multa (e-STJ Fls. 1781/1797).
+É o relatório.
+Decido.
+Inicialmente o presente recurso atrai a incidência do Enunciado Administrativo nº 03/STJ:
+"Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+As razões de insurgência não merecem prosperar.
+Com efeito, verifica-se que a decisão agravada foi acertada ao entender pela aplicação do disposto no art. 21-E, V, do RISTJ, na espécie, uma vez que a parte agravante não recolheu os valores correspondentes à penalidade de multa aplicada pelo Tribunal de origem.
+Assim, é de se manter a decisão agravada, pois não se conhece do recurso especial quando interposto sem o recolhimento da multa prevista no art. 1.021, §4º, do CPC/2015. Tal entendimento é consolidado nesta Corte, confira-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. SEGURO OBRIGATÓRIO. MULTA PROCESSUAL. APLICAÇÃO. RECOLHIMENTO PRÉVIO. AUSÊNCIA. PRESSUPOSTO RECURSAL OBJETIVO DE ADMISSIBILIDADE.
+1. O prévio recolhimento da multa prevista no art. 1.021, §4º, do CPC/15 constitui pressuposto recursal objetivo de admissibilidade. A ausência do comprovante do depósito da mencionada multa implica o não conhecimento do recurso. Precedentes.
+2. Agravo interno no recurso especial não provido.
+(AgInt no AREsp n. 1.951.880/MT, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 13/12/2021, DJe de 15/12/2021.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. INDEFERIMENTO DA GRATUIDADE JUDICIÁRIA. AGRAVO INTERNO NA ORIGEM COM REITERAÇÃO DAS RAZÕES RECURSAIS. DESATENDIMENTO DO ÔNUS DA DIALETICIDADE. APLICAÇÃO DE MULTAS PROCESSUAIS. RECOLHIMENTO PRÉVIO INEXISTENTE. PRESSUPOSTO RECURSAL NÃO OBSERVADO. AGRAVO INTERNO NÃO PROVIDO.
+1. A multa aludida no art. 1.021, §4.º, do CPC/2015, não se aplica em qualquer hipótese de inadmissibilidade ou de improcedência, mas apenas em situações que, como a presente, se revelam qualificadas como de manifesta inviabilidade de conhecimento do agravo interno ou de impossibilidade de acolhimento das razões recursais porque inexoravelmente infundadas.
+2. A não comprovação, no momento da interposição do recurso especial, do prévio recolhimento da multa do § 4º do art. 1.021 do CPC, imposta pelo Tribunal de origem, implica o seu não conhecimento, por se tratar de pressuposto de admissibilidade do apelo nobre. Precedentes.
+3. Considerando o caráter inibitório do exercício irresponsável de recorrer inerente às multas processuais, a Lei 1.060/50 não isentou nem mesmo os beneficiários da assistência judiciária gratuita de seu pagamento, devendo este ocorrer ao final do processo nos termos do § 5º do artigo 121 do CPC/2015.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.173.359/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 6/3/2018, DJe de 12/3/2018.)
+Ademais, ressalto que ainda os beneficiários da justiça gratuita nos termos da Lei nº 1.060/50, não estãoisentos do pagamento de multa processual para interposição de recurso, porquanto, nos termos do art. 1.021, §5º do NCPC, o pagamento deverá ocorrer ao final do processo.
+Com essas considerações, a decisão agravada merece ser mantida.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. INDEFERIMENTO DA GRATUIDADE JUDICIÁRIA. AGRAVO INTERNO NA ORIGEM COM REITERAÇÃO DAS RAZÕES RECURSAIS. APLICAÇÃO DE MULTA PROCESSUAL. RECOLHIMENTO PRÉVIO INEXISTENTE. PRESSUPOSTO RECURSAL NÃO OBSERVADO. AGRAVO INTERNO NÃO PROVIDO
