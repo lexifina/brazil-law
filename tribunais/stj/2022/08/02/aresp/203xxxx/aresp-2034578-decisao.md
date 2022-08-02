@@ -1,0 +1,71 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por BANCO ITAULEASING (BANCO ITAULEASING) contra decisão que negou seguimento ao seu apelo nobre manejado, por sua vez, contra acórdão do Tribunal de Justiça do Estado da Pernambuco, assim ementado:
+DIREITO PROCESSUAL CIVIL. OBRIGAÇÃO DE FAZER. DESCUMPRIMENTO DO DECISUM.ASTREINTES. VALOR MANTIDO. LITIGÂNCIA DE MÁ-FÉ NÃO CONFIGURADA. AGRAVO PARCIALMENTE PROVIDO. DECISÃO UNÂNIME. 1. O art. 537, § 1º, do CPC, é expresso ao conferir ao Juiz poder para modificar, de ofício, ou a requerimentos da parte, o valor ou a periodicidade da multa vincenda ou excluí-la, caso tenha se tornado excessiva ou insuficiente ou, ainda, em caso de parcial cumprimento da obrigação ou de existência de justa causa para o descumprimento. Essa redução, todavia, como claramente exposto no dispositivo, não pode ter efeitos retroativos, atingindo valores já pré-definidos e vencidos; qualquer modificação no curso do processo e, em qualquer fase, seja de conhecimento ou de execução, só produz efeitos para frente, ou seja, somente se admite redução das multas vincendas. 2. Quanto à litigância de má-fé, a Câmara entendeu não transparecer demonstrada. A tese de defesa do impugnante, ora agravante, não configura temeridade processual, nem ato atentatório à dignidade e à administração da justiça. 3. Agravo parcialmente provido, apenas para excluir a condenação da parte impugnante, ora agravante, à pena por litigância de má-fé. Decisão unânime(e-STJ, fl. 287).
+Os embargos de declaração opostos por BANCO ITAULEASING foram rejeitados (e-STJ, fls. 407/409).
+Inconformado, BANCO ITAULEASING manejou recurso especial, com base no art. 105, III, a e c, da CFalegando, a par de divergência jurisprudencial, a violação dos arts. (1) 1.022, II, do NCPC, por omissão do acórdão recorrido acerca da possibilidade de redução das astreintes e pelo fato da impossibilidade de cumprimento da obrigação ter sido comunicada muito antes da própria imposição de multa; e (2)537,§ 2º, do NCPC, o objetivo da multa é impulsionar o devedor a assumir um comportamento tendente à satisfação da sua obrigação frente ao credor, não devendo jamais se prestar a compensar este pela inadimplência; e (3) 884 do CC/02 o pagamento de qualquer valor ao recorrido acarreta o enriquecimento sem causa.
+O recurso não foi admitido pelo Tribunal Pernambucano(e-STJ, fls. 445/447).
+Nas razões do presente agravo, BANCO ITAULEASING alegou que seu recurso merece seguimento, uma vez que, devem ser afastados os óbices sumulares aplicados.
+Foi apresentada contraminuta (e-STJ, fls. 465/467).
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial, que não merece prosperar.
+(1) Da violação do art. 1.022 do NCPC.
+Nas razões do presente recurso, BANCO ITAULEASINGsustentou que o TJPEnão teria apreciado a alegação acercada possibilidade de redução das astreintes e pelo fato da impossibilidade de cumprimento da obrigação ter sido comunicada muito antes da própria imposição de multa
+Contudo, sem razão.
+OTribunal pernambucanoassim se pronunciou:
+De logo, cabe examinar o teor do art. 537, § 1º, do CPC, que é expresso ao conferir ao Juiz poder para modificar, de ofício, ou a requerimentos da parte, o valor ou a periodicidade da multa vincenda ou excluí-la, caso tenha se tornado excessiva ou insuficiente ou, ainda, em caso de parcial cumprimento da obrigação ou de existência de justa causa para o descumprimento.
+Todavia, essa redução, como claramente exposto no dispositivo, não pode ter efeitos retroativos, atingindo valores já pré-definidos e vencidos; qualquer modificação no curso do processo e, em qualquer fase, seja de conhecimento ou de execução, só produz efeitos para frente, ou seja, somente se admite redução das multas vincendas. Percebe-se que o aludido dispositivo demonstra caráter futuro, de maneira que o Magistrado somente pode alterar ou excluir a multa vincenda, inexistindo efeito retroativo quanto à multa já vencida.
+ ..
+Sendo assim, considerando que a multa cominatória arbitrada - que, quando de sua execução, já atingia o montante de R$ 420.000,00 - se encontra vencida, não existindo qualquer parcela vincenda, descabida a revisão pretendida.
+Finalmente, quanto à litigância de má-fé, entendo não transparecer demonstrada.
+O MM Juiz afirmou que "a tese da necessidade de se reduzir o valor das multas diárias incidentes também se caracteriza insubsistente e contraditória", aplicando a referida pena, portanto, à parte impugnante.
+Todavia, a tese de defesa do impugnante, ora agravante, a meu ver, não configura temeridade processual, nem ato atentatório à dignidade e à administração da justiça.
+Ela suscitou uma linha de argumentação, que, por sua vez, não restou acolhida.
+Afirmou que a obrigação estava cumprida (no item 4.1 da peça de embargos) para defender a inexigibilidade das astreintes. E alegou, no item 4.2, que existiam pendências administrativas não sanadas pela parte autora, que o teriam impedido de providenciar a transferência e tornaram necessária a expedição de ofício ao DETRAN para a realização (ID 7079609).
+Não há contradição, como afirmou o Juízo, na decisão agravada. A parte simplesmente não teria provado que estava impossibilitada de cumprir a decisão; como destacado pelo Magistrado, não acostou "aos autos a comprovação da existência de débitos em nome da parte impugnada". Mas isso justificaria apenas a rejeição de sua pretensão, e não sua condenação à litigância de má-fé, que, como antecipado, não entendo configurada(e-STJ, fls. 285/286).
+Não há falar, portanto, em negativa de prestação jurisdicional, pois, a pretexto da alegação de ofensa ao art. 1.022, II,do NCPC, o que busca BANCO ITAULEASINGé apenas manifestar o seu inconformismo com o resultado do julgamento que lhe foi desfavorável, não se prestando a estreita via dos embargos de declaração a promover o rejulgamento da causa, já que inexistentes quaisquer dos vícios elencados no referido dispositivo da lei adjetiva civil.
+A jurisprudência desta Corte é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. PROCESSO CIVIL. RESPONSABILIDADE CIVIL. ACIDENTE DE VEÍCULO. AÇÃO DE INDENIZAÇÃO. AUSÊNCIA DE VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. DANOS MORAIS. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULAS 283 E 284 DO STF. LIMITAÇÃO DE COBERTURA. REEXAME. SÚMULAS 5 E 7 DO STJ. AGRAVO IMPROVIDO.
+1. Não há ofensa ao art. 1.022 do CPC/2015, porquanto o Tribunal de origem decidiu a matéria de forma fundamentada. O julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, quando tiver encontrado motivação satisfatória para dirimir o litígio.
+2. Verifica-se que o Tribunal estadual analisou todas as questões relevantes para a solução da lide, de forma fundamentada, não havendo que se falar em negativa de prestação jurisdicional.
+3. A falta de impugnação de argumento suficiente para manter, por si só, o acórdão impugnado, a argumentação dissociada bem como a ausência de demonstração da suposta violação à legislação federal impedem o conhecimento do recurso, na esteira dos enunciados n.
+283 e 284 da Súmula do Supremo Tribunal Federal.
+4. A revisão das conclusões estaduais demandaria, necessariamente, o revolvimento das cláusulas contratuais e do acervo fático-probatório dos autos, providência vedada na via estreita do recurso especial, ante o óbice disposto nas Súmulas 5 e 7 do STJ.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.500.162/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 25/11/2019, DJe 29/11/2019 - sem destaque no original)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL EM AGRAVO (ART. 544 DO CPC/73) - AÇÃO CONDENATÓRIA - ACÓRDÃO DESTE ÓRGÃO FRACIONÁRIO NEGANDO PROVIMENTO AO RECLAMO, MANTIDA A DELIBERAÇÃO UNIPESSOAL QUE CONHECERA DO AGRAVO (ART. 544 DO CPC/73) PARA, DE PLANO, NEGAR SEGUIMENTO AO RECURSO ESPECIAL. INSURGÊNCIA DA RÉ.
+1. Não compete ao STJ o exame de preceitos constitucionais, ainda que para fins de prequestionamento, sob pena de usurpar a competência do Supremo Tribunal Federal. Precedentes.
+2. Nos termos do artigo 1.022 do CPC/15, os embargos de declaração são cabíveis apenas para esclarecer obscuridade ou eliminar contradição; suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento; ou corrigir erro material.
+3. Na hipótese dos autos, o acórdão proferido por este órgão fracionário encontra-se devida e suficientemente fundamentado, tendo enfrentado todos os pontos aventados pela parte nas razões do agravo regimental, apenas decidindo de forma contrária aos interesses da embargante, o que, à evidência, não consubstancia vício passível de correção por meio de embargos de declaração, mas sim pretensão meramente infringente.
+4. Embargos de declaração rejeitados.
+(EDcl no AgRg no AREsp 469.306/SP, Rel. Ministro MARCO BUZZI, Quarta Turma, julgado em 1º/12/2016, DJe 7/12/2016 - sem destaque no original)
+Afasta-se, portanto, a alegação de omissão do acórdão recorrido.
+(2) Da alegada violação dos arts. 537, § 2º, do NCPC, e 884 do CC/02.
+Nas razões do recurso especial, BANCO ITAULEASING sustentou que o objetivo da multa é impulsionar o devedor a assumir um comportamento tendente à satisfação da sua obrigação frente ao credor, não devendo jamais se prestar a compensar este pela inadimplência; e que o pagamento de qualquer valor ao recorrido acarreta o enriquecimento sem causa.
+O TJPE consignou expressamente quanto ao caso concreto:
+De logo, cabe examinar o teor do art. 537, § 1º, do CPC, que é expresso ao conferir ao Juiz poder para modificar, de ofício, ou a requerimentos da parte, o valor ou a periodicidade da multa vincenda ou excluí-la, caso tenha se tornado excessiva ou insuficiente ou, ainda, em caso de parcial cumprimento da obrigação ou de existência de justa causa para o descumprimento.
+Todavia, essa redução, como claramente exposto no dispositivo, não pode ter efeitos retroativos, atingindo valores já pré-definidos e vencidos; qualquer modificação no curso do processo e, em qualquer fase, seja de conhecimento ou de execução, só produz efeitos para frente, ou seja, somente se admite redução das multas vincendas. Percebe-se que o aludido dispositivo demonstra caráter futuro, de maneira que o Magistrado somente pode alterar ou excluir a multa vincenda, inexistindo efeito retroativo quanto à multa já vencida (e-STJ, fl. 285)
+Da análise das razões do presente recurso verifica-se que o referido fundamento não foi impugnado, o que atrai a incidência da Súmula nº 283 do STF, por analogia.
+Confira-se o seguinte precedente:
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DOAÇÃO. ARROLAMENTO. REEXAME DO CONTRATO E DE PROVAS. INADMISSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. FUNDAMENTO NÃO ATACADO. SÚMULA N. 283 DO STF. DECISÃO MANTIDA.
+1. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmulas n. 5 e 7 do STJ).
+2. No caso concreto, a análise da pretensão do recorrente, que alega que a doação não poderia ser cindida e que teria havido aceitação tácita por parte de uma das doadoras, exigiria o reexame das provas, sobretudo do contrato firmado entre as partes, o que não se admite em recurso especial.
+3. As razões recursais que não impugnam fundamento do acórdão recorrido suficiente para mantê-lo não devem ser admitidas, a teor da Súmula n. 283/STF.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.626.816/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, DJe 23/9/2021)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM DEVOLUÇÃO DE QUANTIAS PAGAS E COMPENSAÇÃO POR DANOS MORAIS. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC/15. INOCORRÊNCIA. NÃO INDICAÇÃO DO DISPOSITIVO LEGAL COM INTERPRETAÇÃO DIVERGENTE. SÚMULA 284/STF. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. DISSÍDIO JURISPRUDENCIAL PREJUDICADO.
+1. Ação de rescisão contratual cumulada com devolução de quantias pagas e compensação por danos morais.
+2. Ausentes os vícios do art. 1.022 do CPC/15, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/15.
+4. Não se conhece do recurso especial quando ausente a indicação expressa do dispositivo legal a que se teria dado interpretação divergente (Súmula 284/STF).
+5. A existência de fundamento do acórdão recorrido não impugnado quando suficiente para a manutenção de suas conclusões impede a apreciação do recurso especial (Súmula 283/STF).
+6. A incidência das Súmulas 283 e 284 do STF prejudicam a análise do dissídio jurisprudencial pretendido.
+7. Agravo interno não provido.
+(AgInt na PET no REsp 1.930.298/AM, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, DJe 22/9/2021)
+Nessas condições, com fundamento no art. 1.042, § 5º, do NCPC c/c o art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/3/2016, DJe 18/3/2016), CONHEÇO do agravo para CONHEÇER EM PARTE o recurso especial e, nesta extensão, NEGAR-LHE PROVIMENTO.
+Por oportuno, previno que a interposição de recurso contra essa decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação das penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. OBRIGAÇÃO DE FAZER.VIOLAÇÃO DO ART. 1.022 DO NCPC QUE NÃO SE VERIFICA.. ASTREINTES. MULTA VENCIDA. INEXISTÊNCIA DE EFEITO RETROATIVO. FUNDAMENTO DO ARESTO COMBATIDO NÃO IMPUGNADO. SÚMULA Nº 283 DO STF, POR ANALOGIA. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO EM PARTE E, NESSA EXTENSÃO, NÃO PROVIDO.
