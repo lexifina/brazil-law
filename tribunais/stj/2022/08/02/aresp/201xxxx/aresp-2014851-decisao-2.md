@@ -1,0 +1,21 @@
+DECISÃO
+RODRIGO MAIA SANTOS agrava de decisão que negou seguimento ao recurso especial, fundamentado no art. 105, III, alínea "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+APELAÇÃO CRIMINAL Artigo 92, caput, da Lei nº.8.666/1993 Preliminares: a) Reconhecimento da prescrição da pretensão punitiva Inocorrência Fato é posterior à edição da Lei 12.234/10, que trouxe alteração no artigo 110, § 1o , do CP, sendo certo ainda que da data do recebimento da denúncia até a publicação da sentença condenatória e desta até hoje, não transcorreu o prazo de quatro anos exigível à espécie - b) Inépcia da inicial - Inadmissibilidade - Tendo a denúncia descrito, em tese, fato tipificado como crime, e preenchendo todos os requisitos enumerados no artigo 41 do CPP, inadmissível a alegação de inépcia da denúncia- Preliminares rejeitadas.
+Mérito - Absolvição por ausência probatória - Inadmissibilidade Conjunto probatório suficiente à condenação - Ausência de dolo - Atipicidade da conduta - Inocorrência - Fato típico, antijurídico e culpável - Penas e regime prisional adequados à espécie Recurso não provido. (e-STJ fl. 390)
+O agravante aponta ofensa aos arts. 13, § 1º e18, I, do CP e 387, IV do CPP alegando, em síntese que o nexocausale o dolo específico não ficaram comprovados e quenão foi demonstrado o prejuízo ao erário que deve ser reparado.
+Contrarrazões às e-STJ fls. 548/557.
+Manifestação do Ministério Público Federal pelo desprovimento do recurso às e-STJ fls. 640/647.
+É o relatório. Decido.
+A irresignação não merece prosperar.
+Os elementos existentes nos autos informam que o recorrente foi condenado à pena de 2 anos de detenção, em regime aberto, pela prática do delito do art. 92 da Lei n. 8.666/1993.
+O recorrente alega, primeiramente, a atipicidade da conduta diante da não comprovação do dolo específico.
+Ocorre que ao contrário do alegado, consta do acórdão recorrido à e-STJ fl. 397 que o dolo ficou devidamente demonstrado, não sendo possível em recurso especial a modificação desse entendimento. Incidência da Súmula n. 7 do STJ. Nessa linha:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME DO ART. 92 DA LEI N. 8.666/93. DOLO ESPECÍFICO DE CAUSAR PREJUÍZO E DANO AO ERÁRIO CONSTATADOS NO ACÓRDÃO PROFERIDO PELA INSTÂNCIA ORDINÁRIA. PLEITO ABSOLUTÓRIO. REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. CRIME PRATICADO POR PRESIDENTE DE AUTARQUIA. MAIOR REPROVABILIDADE DA CONDUTA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça - STJ firmou o entendimento de que, "para a configuração do delito tipificado no art. 92 da Lei n. 8.666/93, deve-se demonstrar, ao menos em tese, o dolo específico de causar dano ao erário, bem como o efetivo prejuízo causado à administração pública" (AgRg no AREsp 1265657/MT, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 14/5/2019, DJe 20/5/2019).
+2. No caso dos autos, o Tribunal de origem, com base nas provas colhidas nos autos, concluiu que o agravante prorrogou contrato irregular, mesmo ciente da necessidade da realização de licitação, agindo, assim, com dolo e em claro prejuízo ao erário. Para rever a conclusão da Corte de origem seria necessário o reexame do acervo fático-probatório dos autos, providência vedada pela Súmula n. 7/STJ.
+3. O fato do agravante ocupar o cargo de Presidente de uma autarquia ao cometer crime contra a lei de licitações revela maior reprovabilidade de sua conduta.
+4. Agravo regimental desprovido. (AgRg no AREsp n. 1.279.151/RS, Relator Ministro JOEL ILAN PACIORNIK, Quinta Turma, DJe de 16/9/2019.)
+Verifica-se, também, que o conteúdo do art. 13, § 1º, do CP não foi objeto de debate pelo acórdão recorrido, ressentindo-se o recurso especial, no ponto, do necessário prequestionamento. Incidência da Súmula n. 211/STJ.
+Por fim, não há que se falar em ofensa ao art. 387, IV, do CPP, isso porque na inicial acusatória consta expressamente o valor do prejuízo causado ao erário. Nesse sentido: AgRg no AREsp n. 2.039.493/TO, Relator Ministro SEBASTIÃO REIS JÚNIOR, Sexta Turma, DJe de 8/4/2022.
+Ante o exposto, com fundamento no art. 932, III, do CPC, c/c o art. 253, parágrafo único, II, "a", do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
