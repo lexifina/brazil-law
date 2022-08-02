@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por LUIZ ANTONIO MARTINS DE FREITAS HORTA (LUIZ ANTONIO) contra decisão que negou seguimento ao seu apelo nobre manejado, por sua vez, contra acórdão do Tribunal de Justiça de São Paulo da relatoria do Desembargador GRAVA BRAZIL, assim ementado:
+Julgamento parcial - Ação indenizatória ajuizada por sociedade anônima em face de ex-diretor presidente - Extinção, sem exame de mérito, com relação à parte do pedido - Inconformismo - Acolhimento em parte - Ausência de ação penal que inviabiliza aplicação do art. 288, da Lei n. 6.404/64 - Superveniente instauração de inquérito policial que não altera a conclusão - Responsabilização civil decorre da prática de ato ilícito - Assembleia Geral que pode revogar suas próprias decisões - Despicienda a anulação prévia da prestação de contas, à vista das deliberações aprovadas em face do agravado-Aplicável a prescrição trienal prevista pelo art. 287, II, b, 2, da Lei de S/A - Decisão reformada, para reduzir a extensão da improcedência, permitindo o prosseguimento da demanda com relação aos exercícios de 2013 e 2014 - Recurso provido em parte (e-STJ, fl. 482).
+Os embargos de declaração opostos por GLOCK DO BRASIL S.A. (GLOCK) foram rejeitados (e-STJ, fls. 826/830).
+Irresignado, LUIZ ANTONIO interpôs recurso especial com base no art. 105, III, alíneas a e c, da CF, apontando além de dissídio jurisprudencial a violação aos arts. 101 do Decreto-lei nº 2.627/40;134, §3º,159 e286 da Lei 6.404/76; e1.078, § 4º, do CC/02, ao sustentar que,(1) após a aprovação das contas, não bastaria a prévia deliberação da assembleia geral para a propositura da ação de responsabilidade civil, mas, simantes ou concomitantemente, o ajuizamento da ação de anulação da assembleia que aprovou as contas; e(2) o prazo prescricional para o ajuizamento da ação seria de2 (dois) anos(e-STJ, fls. 786/812).
+O recurso não foi admitido pelo TJSP (e-STJ, fls. 922/924).
+Nas razões do presente agravo, LUIZ ANTONIO alegou que não incidem os óbices apontados na decisão de inadmissibilidade (e-STJ, fls. 930/954).
+É o relatório.
+Decido.
+De plano vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+O agravo em recurso especial de LUIZ ANTONIOencontra-se prejudicado, diante do provimento do especial deGLOCK, no qual determinei o retorno dos autos ao Tribunal Estadual para que analisasse as questões trazidas em seus embargos de declaração.
+Nessas condições, JULGO PREJUDICADO o agravo em recurso especial de LUIZ ANTONIO.
+Por oportuno, previno as partes que a interposição de recurso contra essa decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação das penalidades fixadas nos arts. 1.021, §4º ou 1.026, §2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. LUIZ ANTONIO.AÇÃO DE INDENIZAÇÃO. NECESSIDADE DE RETORNO DOS AUTOS PARA SUPRIR OMISSÃOE CONTRADIÇÃOCONFIGURADAS. AGRAVO EM RECURSO ESPECIAL PREJUDICADO.
