@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de Cintia Lo Monaco Ferreira, apontando-se como autoridade coatora o Tribunal de Justiça de São Paulo, que indeferiu a Revisão Criminal n. 2015948-79.2022.8.26.0000 (fl. 17):
+REVISÃO CRIMINAL. TRÁFICO DE DROGAS. Pedido de incidência da atenuante da confissão espontânea. Impossibilidade. Confissão extrajudicial que não corroborou o acervo probatório. Pedido de redimensionamento da fração aplicada relativa à causa de diminuição do art. 33, §4º, Lei 11.343/06. Impossibilidade. Fração aplicada devidamente motivada, não havendo contrariedade à lei. Revisão criminal indeferida.
+Aqui, busca a defesa, inclusive em caráter liminar, seja reformada a sanção imposta à paciente nos autos da Ação Penal n. 1500292-71.2019.8.26.0574, que tramitou na 2ª Vara Criminal da comarca de Avaré/SP (pena de 3 anos, 10 meses e 20 dias de reclusão, e pagamento de 388 dias-multa, substituída a privativa de liberdade por prestação de serviços à comunidade e prestação pecuniária, pela prática do crime previsto no art. 33, caput, c/c o art. 40, III, ambos da Lei n. 11.343/2006).
+Alega, para tanto, que, diante da natureza e da pequena quantidade da droga apreendida (100,35 g de maconha), possível a aplicação da causa especial de redução da pena (art. 33, § 4º, da Lei de Drogas), em sua fração máxima; e aduz ser necessária a aplicação da atenuante da confissão ao caso.
+Pleito liminar indeferido às fls. 37/38.
+Informações prestadas pela Corte paulista, noticiando, inclusive, o trânsito em julgado do acórdão ora hostilizado (fls. 41/42).
+Parecer do Ministério Público Federal opinando conforme os fundamentos sintetizados nesta ementa (fl. 59):
+HABEAS CORPUS. PENAL E PROCESSUAL PENAL.MANEJO DO WRIT COMO SUCEDÂNEO RECURSAL. INADEQUAÇÃO. TRÁFICO DE DROGAS. RECONHECIMENTO DA CONFISSÃO.CIRCUNSTÂNCIA NÃO UTILIZADA PARA FUNDAMENTAR A CONDENAÇÃO. PENA-BASE FIXADA NO MÍNIMO LEGAL. SÚMULA 231/STJ.PLEITO DE APLICAÇÃO DA FRAÇÃO MÁXIMA DA MINORANTE DO ART. 33, § 4º, DA LEI 11.343/06.POSSIBILIDADE. PARECER PELA EXTINÇÃO DO FEITO SEM RESOLUÇÃO DE MÉRITO, MAS COM A CONCESSÃO PARCIAL DA ORDEM, DE OFÍCIO.
+É o relatório.
+A despeito da pretensão de reconhecimento da confissão extrajudicial, como bem analisou aSubprocuradora-Geral da RepúblicaElizeta Maria de Paiva Ramos, a admissão da conduta delitiva pela acusada não foi utilizada e momento algum para embasar a sua condenação, dado suficiente paraafastar a incidência da circunstância atenuante do art. 65, III, "d" do Código Penal(fl. 61).
+De qualquer modo, a pena, na primeira fase da dosimetria, foi estabelecida em seu mínimo legal, de forma que o reconhecimento da confissão não teria influência no cálculo, em observância ao enunciado n. 231 da Súmula do Superior Tribunal de Justiça.
+No que diz respeito àaplicação da causa especial de redução da pena, art. 33, § 4º, da Lei n. 11.343/2006, embora a quantidade e a variedade de drogas apreendidas constituam elementos concretos e idôneos a justificar a eleição do quantum do redutor, entendo que a quantidade de substânciatrazida pela acusada não foi elevada (100,35 g de maconha), de maneira que se mostra manifestamente desproporcional sopesar, no caso ora analisado, apenas essa circunstânciapara justificar a incidência da minorante no patamar de 1/6.
+Com efeito, na falta de parâmetros idôneos que justifiquem o maior rigor punitivo, deve a redutora ser aplicada na fração máxima, de 2/3 (HC n. 475.678/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 19/2/2019).
+Fixa-se, assim, a pena final em 1 ano, 11 meses e 10 dias de reclusãoe 194 dias-multa;mantém-se, no mais, os termos da condenação.
+Em razão disso, concedo parcialmente a ordem para aplicar o redutor do art. 33, § 4º, da Lei n. 11.343/2006, na fração de 2/3, ficando a pena da paciente estabelecida em 1 ano, 11 meses e 10 dias de reclusãoe 194 dias-multa, no regime inicial aberto.
+Intime-se o Ministério Público estadual desta decisão.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. CONFISSÃO. AUSÊNCIA DE UTILIZAÇÃO PARA FUNDAMENTAR A CONDENAÇÃO.PENA-BASE FIXADA NO MÍNIMO LEGAL. SÚMULA 231/STJ.REDUTORA DO ART. 33, § 4º, DA LEI N. 11.343/2006. INCIDÊNCIA DA FRAÇÃO DE 2/3. VIABILIDADE. PARECER ACOLHIDO.
+Ordem concedida parcialmente concedidanos termos do dispositivo.
