@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se dehabeas corpussubstitutivo de recurso especial,com pedido liminar impetrado, impetrado em favor de YVEIS SOUSA MEIRELLES, contra acórdão proferido pelo Tribunal de Justiça do Estado do Espírito Santo, no julgamento da Apelação Criminal n. 0001620-11.2017.8.08.0048.
+Consta dos autos que o pacientefoi condenado, em primeiro grau de jurisdição, às penas de 5 anos de reclusão, e 500 dias-multa,e a1 ano de detenção, e 10 dias-multa, em regime inicial semiaberto,pela prática dos delitos tipificados no art. 33,caput,da Lei n. 11.343/2006, e no art. 12, da Lei n. 10.826/2003, n/f do art. 69, do Código Penal(e-STJfls. 9/14).
+Irresignada, a defesa apelou e oTribunal estadual negou provimento ao recurso (e-STJfls. 15/24).
+No presentewrit(e-STJfls. 3/8), a impetrante afirma que o pacientesofreconstrangimento ilegal na terceira fase da dosimetria de suapena. Para tanto, alega que tal diminuiçãonão foi legalmente analisada, posto ser negada ao paciente sob a justificativa de que as circunstâncias do caso demonstram que ele se dedicava a atividades criminosas(e-STJfl. 4); ademais, assere que os argumentos utilizados não encontram guarida na lei, tampouco na jurisprudência de nossos tribunais(e-STJfl. 5).
+Diante disso, requer, liminarmente e no mérito a concessão da ordempara que seja aplicada a redutora do tráfico privilegiado ao paciente, inclusive na fração máxima de 2/3.
+O pedido liminar foi indeferido pelo Ministro Humberto Martins- Presidente do STJ-, às e-STJfls. 27/28, e as informações foram prestadas, às e-STJfls. 32/44.
+O Ministério Público Federal, em parecer exarado às e-STJfls. 46/50, opinou pelo não conhecimento do mandamus e, caso conhecido, pela denegação da ordem.
+É o relatório. Decido.
+De início, o presente habeas corpus não comporta conhecimento, pois impetrado em substituição a recurso próprio. Entretanto, nada impede que, de ofício, seja constatada a existência de ilegalidade que importe em ofensa à liberdade de locomoção do paciente.
+Conforme relatado, busca-se o redimensionamento das sanções do paciente, antea aplicação da redutora do tráfico privilegiado.
+Inicialmente, cabe observar que, nos termos do art. 33, § 4º da Lei n. 11.343/2006, os condenados pelo crime de tráfico de drogas terão a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrarem organização criminosa.
+Sob essas diretrizes, ao rechaçar a incidência da referida minorante, o Relator do voto condutor do acórdão recorrido consignou que (e-STJfls. 17/21, destaquei):
+ ..
+Consta da exordial acusatória que:
+"(..) no dia 22 de janeiro de 2017, por volta de 00h46min, na escadaria próxima à Rua Projetada, Bairro Taquara II, Serra, o ora denunciado foi preso por estar no local praticando o comércio de drogas e, ao ser avistado pelos policiais militares que realizavam patrulhamento na região, empreendeu fuga, porém, logo após, foi alcançado.
+Informam os autos que, procedida à abordagem e revista pessoal, foi encontrado na posse do denunciado uma bucha de maconha, embalada e pronta para comercialização, tendo o mesmo dito aos PM"s que em sua casa, no bairro Cidade Continental, Serra, haveria um simulacro de arma de fogo, munições e que em um mato em frente à sua casa haveria mais entorpecentes.
+Diante da informação, os agentes prosseguiram até o local, onde lograram êxito em encontrar próximo a caixa d"agua, simulacro de arma de fogo, duas munições ogivais ponta plana e, em frente ao matagal, 191 buchas de maconha prontas para o comércio, bem como uma balança. (..)".
+ ..
+Reconhecida a prática do delito previsto no artigo 33 da Lei 11.343/06, pugna a defesa pela aplicação da causa de diminuição de pena prevista no § 4º do referido artigo, com o consequente redimensionamento da reprimenda.
+Neste ponto, entendo que razão não lhe assiste, porquanto demonstrada a dedicação de YVEIS ao narcotráfico.
+A quantidade de drogas encontrada por ocasião da abordagem policial foi bastante considerável - 192 (cento e noventa e duas) buchas de maconha equivalentes a 235,7g (duzentos e trinta e cinco gramas e sete decigramas) -, sugerindo, por si só, que o agente envolvido em sua comercialização não se trata de traficante eventual, de "primeira viagem".
+Não se pode ignorar, também, que, na frente da morada ocupada pelo acusado - em um mato -, foi localizada uma balança de precisão, petrecho usualmente empregado por traficantes na pesagem de narcóticos, o que reforça a crença de que habitualmente perpetrada a conduta em questão.
+Esses elementos indicam que o réu adotava o comércio ilícito como modus vivendi, dedicando-se à prática criminosa em questão.
+O arcabouço probatório evidencia que o acusado em apreço, longe de se tratar de traficante ocasional, empreendeu o narcotráfico com habitualidade, como verdadeira atividade laboral cotidiana.
+Pela leitura do recorte acima, verifica-se que a incidência da minorante do tráfico privilegiado foi denegada porque as instâncias de origem reconheceram expressamente que o pacientese dedicava à narcotraficânciahaja vista não apenas a quantidade de entorpecenteapreendido- 192 buchas de maconha, embaladas individualmente e prontas para o comércio, pesando cerca de 235,7 gramas (e-STJfl. 17)-, mas principalmente, devido à apreensão de petrechos de mercancia, tais como, uma balança de precisão, circunstância essa incompatível com a captura de um traficante eventual.
+Ademais, desconstituir tal assertiva, como pretendido, demandaria, necessariamente, a imersão vertical na moldura fática e probatória delineada nos autos, inviável na via estreita do habeas corpus.
+Ao ensejo:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. IMPOSSIBILIDADE. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O TRÁFICO. ABSOLVIÇÃO. IMPOSSIBILIDADE. REVISÃO FÁTICO-PROBATÓRIA. ELEMENTOS DE PROVA A DEMONSTRAR A NÃO EVENTUALIDADE DO CRIME. RECONHECIMENTO DO TRÁFICO PRIVILEGIADO. DESCONSTITUIÇÃO DAS CONCLUSÕES DAS INSTÂNCIAS ORDINÁRIAS. IMPOSSIBILIDADE. REEXAME PROVAS. WRIT NÃO CONHECIDO.
+ ..
+3. Os fundamentos utilizados pelas instâncias ordinárias para não aplicar a minorante do § 4º do art. 33 da Lei de Drogas ao caso concreto, em razão da dedicação dos pacientes à atividade criminosa, evidenciada sobretudo pela quantidade de drogas apreendida - 61kg de maconha -, aliada às circunstâncias do delito, está em consonância com o entendimento desta Corte Superior de Justiça. Ademais, acolher a tese de que os pacientes não se dedicam à atividade criminosa, é necessário o reexame aprofundado das provas, providência inviável em sede de habeas corpus.
+ ..
+5. Habeas corpus não conhecido(HC n. 508.559 2019.01.26898-8, JOEL ILAN PACIORNIK, Quinta Turma, DJE 19/8/2019, grifei).
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXPRESSIVA QUANTIDADE DE DROGAS. DEDICAÇÃO À ATIVIDADE CRIMINOSA. TRÁFICO PRIVILEGIADO AFASTADO. REVISÃO. SÚMULA 7/STJ. AGRAVO IMPROVIDO.
+1. O modus operandi do delito, em especial o transporte interestadual de aproximadamente 12 kg de maconha, denota a dedicação à atividade criminosa.
+2. A desconstituição das premissas fáticas do acórdão demanda o reexame de fatos e provas dos autos, o que é vedado pela Súmula 7/STJ. 3. Agravo regimental improvido(Ag no AREsp n.1.280.063 2018.00.91740-0, NEFI CORDEIRO, Sexta Turma, DJE 25/3/2019, grifei).
+PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS IMPETRADO EM SUBSTITUIÇÃO A RECURSO PRÓPRIO. TRÁFICO DE DROGAS. DOSIMETRIA. PRIMEIRA FASE. EXASPERAÇÃO NA FRAÇÃO DE 3/5 SOBRE O MÍNIMO LEGAL. ELEVADA QUANTIDADE DA DROGA APREENDIDA E MODUS OPERANDI DO DELITO. FUNDAMENTAÇÃO IDÔNEA. QUANTUM PROPORCIONAL. TERCEIRA FASE. TRÁFICO PRIVILEGIADO. INAPLICABILIDADE. PROVA DA DEDICAÇÃO À ATIVIDADE CRIMINOSA. INVIÁVEL O REEXAME FÁTICO-PROBATÓRIO. AGRAVO DESPROVIDO.
+ ..
+- Nos termos do art. 33, § 4º, da Lei n. 11.343/2006, os condenados pelo crime de tráfico de drogas terão a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrarem organização criminosa.
+- Na hipótese, não foram atendidas as diretrizes previstas para o reconhecimento do privilégio, uma vez que as instâncias de origem destacaram, expressamente, que os agravantes se dedicavam, ao menos esporadicamente, a atividades criminosas. Ademais, o benefício foi recusado também em virtude do modus operandi adotado na prática do delito denotar que tiveram contanto, no mínimo eventual, com organização criminosa voltada ao tráfico interestadual de drogas. Desconstituir tal assertiva demandaria, necessariamente, a imersão vertical na moldura fática e probatória delineada nos autos, inviável na via estreita do habeas corpus.
+ ..
+- Agravo regimental desprovido(AgRgno RHC n.457.335 2018.01.62559-4, REYNALDO SOARES DA FONSECA, Quinta Turma, DJE 1º/3/2019, grifei).
+Desse modo, não verifico nenhuma ilegalidade a ser sanada na negativa de incidência da benesse ao paciente.
+Nesses termos, apretensão formuladapela impetrante encontraóbice na jurisprudência desta Corte de Justiça, sendo, portanto, manifestamente improcedente.
+Ante o exposto, com fulcro no art. 34, XX, do RISTJ, não conheço do habeas corpus.
+Intimem-se.
