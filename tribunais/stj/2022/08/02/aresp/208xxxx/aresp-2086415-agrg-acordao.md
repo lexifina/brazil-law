@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Trata-se de agravo regimental interposto por RÔMULO ROCHA NETO contra a decisão de fls. 725-729, por meio da qual o Ministro Presidente do Superior Tribunal de Justiça conheceu do agravo para não conhecer do recurso especial por aplicação da Súmula n. 7 do STJ.
+Sustenta o agravante que não há pretensão dereexame de provas, massim de correta valoração da prova produzida nos autos.
+Afirma que foicomprovado nos autos que agiuem legítima defesa própria e de terceiro e que o acórdão recorrido, ao deixar de reconhecer esse fato, teria contrariado os arts. 23 e 25 do Código Penal e 413 e 415, IV, do Código de Processo Penal.
+O Ministério Público Federal opina pelo desprovimento do recurso.
+É o relatório.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO SIMPLES. LEGÍTIMA DEFESA NÃO COMPROVADA. PRONÚNCIA. MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA N. 7 DO STJ. INCIDÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A sentença de pronúncia encerra mero juízo de admissibilidade da acusação, de modo que, havendo certeza da materialidade do crime e indícios de suaautoria, deve o acusado ser submetido ajulgamento pelo tribunal do júri.
+2. A alteraçãodas conclusões do acórdão estadual de que não foi comprovada de plano a excludente de ilicitude da legítima defesa demanda a incursão no arcabouço fático-probatório dos autos, o que não é possível na via do recurso especial, em razão do óbice da Súmula n. 7 do STJ.
+3. Agravo regimental desprovido.
+VOTO
+A irresignação recursal não merece acolhimento.
+Conforme se vê dos autos, o agravante foi pronunciado pela prática do delito previsto no art. 121, caput, do Código Penal.
+O Tribunal de Justiça goiano negou provimento ao recurso em sentido estrito por meio de acórdão assim ementado (fl. 627):
+RECURSO EM SENTIDO ESTRITO. HOMICÍDIO SIMPLES. ABSOLVIÇÃO SUMÁRIA. LEGÍTIMA DEFESA.
+1. Na fase da pronúncia, para o reconhecimento da legítima defesa (art. 25, do CP), deve o processado comprovar a configuração da causa justificadora, de modo incontroverso, prevalecendo a remessa, em caso de dúvida, ao Tribunal do Júri, com competência reservada para a deliberação.
+2. Recurso conhecido e desprovido.
+No recurso especial, interposto com fundamento na alínea ado permissivo constitucional, o ora agravante alegaviolação dos arts. 23 e 25 do Código Penal e 413 e 415, IV, do Código de Processo Penal.
+Para tanto, afirma ter agido sob o amparo da excludente de ilicitude da legítima defesa própria e de sua namorada, uma vez que apenas reagiuàs agressões perpetradas pela vítima.
+A esse respeito, veja-se excerto do voto proferido pelo relator do acórdão estadual após transcrever fragmentos dos depoimentos prestados durante a instrução criminal (fls. 624-626):
+Em cotejo aos citados depoimentos testemunhais, incabível precisar, de forma segura, que a vítima tenha iniciado a agressão injustamente contra o processado. Tampouco que a reação deste tenha sido moderada ou mesmo que ele tenha utilizado os meios de que dispunha no momento do fato, devendo a questão ser examinada pelo Conselho de Sentença.
+Consta versão nos autos de que o acusado teria iniciado o entrevero com os amigos da vítima, dando origem a uma briga e, a despeito de ter sido mais agredido por aqueles e por Bruno, a contenda já havia acabado quando resolveu ir até o seu veículo pegar a arma de fogo e retornou ao local, momento em que efetuou o disparo na cabeça da vítima, matando-a, e atirou mais uma vez para cima, com o intuito de que ninguém se aproximasse dele.
+Ademais, o fato de que Bruno teria dado um murro na namorada do processado, fazendo-a desmaiar, não ressai das provas de modo evidente.
+Como é cediço, na fase da pronúncia, para que o magistrado reconheça a excludente de ilicitude da legítima defesa prevista no artigo 25, do Código Penal Pátrio, resultando na absolvição sumária, deve o acusado comprovar, de forma incontestável, a configuração da causa justificadora, reclamando a certeza absoluta, que não se confunde com simples alegação, desprovida de elementos de convicção, prevalecendo a remessa da causa, em caso de dúvida, ao Tribunal do Júri, com competência reservada para a deliberação.
+ ..
+Por essas razões, não comprovada, de modo incontroverso, a aventada legítima defesa, própria ou de terceiro, impositiva a manutenção da decisão de pronúncia.
+Como se vê, diferentemente do que afirma o agravante nas razões do regimental, não foi provada, de forma inconteste, a ocorrência de legítima defesa que desse ensejo à absolvição sumária.
+O que sobressaiu dos autos foi a dúvida a respeito de quem teria iniciado as agressões, bem assim sobre se o agravante teria agido moderadamente ou se utilizara dos meios de que dispunha no momento dos fatos.
+Nessas circunstâncias, mostra-se inviável, em recuso especial, alterar as conclusões do acórdão estadual sem proceder a profunda imersão no arcabouço fático-probatório dos autos, providência vedada pela Súmula n. 7 do STJ, tal como consignado no decisumagravado.
+Registre-se, por oportuno, presentes as premissas estabelecidas no acórdão, que o entendimento adotado pelo Tribunal de origem encontra-se em harmonia com a orientação do Superior Tribunal de Justiça a respeito da questão submetida a julgamento.
+Vejam-se precedentes:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. JUÍZO DE ADMISSIBILIDADE. DUPLO CONTROLE. HOMICÍDIO SIMPLES TENTADO. PRONÚNCIA. PLEITO DE ABSOLVIÇÃO SUMÁRIA. ART. 415, IV, DO CPP. INVIABILIDADE. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE. REEXAME DA MATÉRIA FÁTICO-PROBATÓRIA DOS AUTOS. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AUSÊNCIA DE COMPROVAÇÃO DA EXISTÊNCIA DE SIMILITUDE FÁTICA.
+1. O juízo de admissibilidade do recurso especial é um procedimento bifásico, de modo que o Superior Tribunal de Justiça não se encontra vinculado ao exame de prelibação realizadopela Corte de origem.
+2. Adverte a jurisprudência desta Corte que a pronúncia encerra simples juízo de admissibilidade da acusação, exigindo, apenas, a certeza da materialidade e indícios suficientes da autoria (art. 413 do CPP). Ou seja, havendo indícios suficientes de autoria ou de participação, deve-se submeter o acusado a julgamento pelo Tribunal popular, sob pena de afronta à soberania do Júri. Precedentes.
+3. Na hipótese, para rever a conclusão da instância de origem e decidir pela absolvição sumária do ora recorrente, seria necessário o reexame do conjunto probatório dos autos, providência descabida nessa via recursal, em face do óbice contido na Súmula 7/STJ.
+4. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos quer versem sobre situações fáticas idênticas. Além disso, a incidência da Súmula 7/STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes.
+5. Agravo regimental improvido. (AgRg no AREsp n. 1.843.262/SE, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 9/5/2022.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DECISÃO AGRAVADA. IMPUGNAÇÃO SUFICIENTE. CONHECIMENTO. HOMICÍDIO QUALIFICADO TENTADO. SENTENÇA DE PRONÚNCIA. TESE DE CONFIGURAÇÃO DA LEGÍTIMA DEFESA. PLEITO DE EXCLUSÃO DAS QUALIFICADORAS. PRESENÇA DE INDÍCIOS DE AUTORIA E MATERIALIDADE. LEGÍTIMA DEFESA NÃO EVIDENCIADA DE PLANO. QUALIFICADORAS NÃO MANIFESTAMENTE IMPROCEDENTES. SÚMULA 83/STJ. REVISÃO. SÚMULA 7/STJ.
+1. Impugnada suficientemente a decisão de inadmissão do recurso especial, é de ser conhecido o recurso.
+2.Nos termos da jurisprudência desta Corte, uma vez não evidenciada, de plano, a ocorrência da excludente de ilicitude da legítima defesa, mister seja o réu pronunciado, inexistindo ilegalidade a ser sanada, sendo, de todo modo, imprópria a via do especial à revisão do entendimento, nos termos da Súmula 7/STJ. Precedentes.
+3. Na decisão de pronúncia, mero juízo de admissibilidade da acusação, somente se admite a exclusão de qualificadoras quando manifestamente improcedentes ou descabidas, sob pena de afronta à soberania do Júri. Precedentes.
+4. Agravo provido para conhecer do recurso especial e negar-lhe provimento. (AgRg no AREsp n. 1.949.308/SP, relator Ministro Olindo Menezes,Sexta Turma, DJe de 2/3/2022.)
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OFENSA AO ART. 25 DO CPP. LEGÍTIMA DEFESA. NECESSIDADE DE REEXAME DO ACERVO FÁTICO E PROBATÓRIO. SÚMULA 7/STJ. COMPETÊNCIA DO CONSELHO DE SENTENÇA. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM O ENTENDIMENTO DESTA CORTE. NEGATIVA DE VIGÊNCIA A DISPOSITIVO DA CF/88. COMPETÊNCIA DO STF. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A Corte de origem, soberana na análise dos elementos fáticos e probatórios dos autos, não vislumbrou indícios suficientes de que a agravante tenha efetivamente agido em legítima defesa. Nesse contexto, a alteração do julgado, no sentido de reconhecer que a ré agiu amparada pela referida excludente de ilicitude, nesta instância especial, demandaria a incursão no acervo fático-probatório dos autos, o que não é possível em razão do óbice previsto na Súmula 7/STJ.
+2. Ademais, "a jurisprudência desta Corte é firme no sentido de que a decisão de pronúncia encerra mero juízo de admissibilidade da acusação, sendo exigido tão somente a certeza da materialidade do crime e indícios suficientes de sua autoria. Nesta fase processual, de acordo com o art. 413 do Código de Processo Penal, qualquer dúvida razoável deve ser resolvida em favor da sociedade, remetendo-se o caso à apreciação do seu juiz natural, o Tribunal do Júri" (HC 223.973/RS, Rel. Ministra MARILZA MAYNARD (DESEMBARGADORA CONVOCADA DO TJ/SE), SEXTA TURMA, julgado em 27/6/2014, DJe 26/8/2014).
+3. Por fim, quanto à suscitada negativa de vigência a dispositivo da Constituição Federal, convém ressaltar que não cabe a este Superior Tribunal de Justiça a manifestação acerca de eventual ofensa a preceitos constitucionais, tampouco para efeito de prequestionamento, sob pena de usurpar a competência atribuída ao Supremo Tribunal Federal.
+4. Agravo regimental não provido. (AgRg no AREsp n. 1.695.513/TO, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 3/9/2020.)
+Ante o exposto, tendo em vista que o agravante não apresentou argumentos suficientes para alterar a decisão impugnada, nego provimento ao agravo regimental.
+É como voto.
