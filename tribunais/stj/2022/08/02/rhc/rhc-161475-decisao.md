@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de recurso emhabeas corpus,com pedido de liminar, interpostoem face de acórdão assim ementado(fl. 122):
+EMENTA: PENAL E PROCESSO PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. QUANTIDADE DE DROGA. PERICULOSIDADE. FUNDAMENTAÇÃO IDÔNEA. CONDIÇÕES PESSOAIS. IRRELEVANTES. NÃO REALIZAÇÃO DE AUDIÊNCIA DE CUSTÓDIA. RESOLUÇÃO Nº 62 DO CNJ. PANDEMIA. SUSPENSÃO DO ATOS PRESENCIAIS. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. ORDEM CONHECIDA E DENEGADA.
+1. Aponta o impetrante constrangimento ilegal, sob os argumentos de ausência de fundamentação para a prisão preventiva, bem como requer a concessão de prisão domiciliar por ser mãe de filhos menores.
+2. No que tange a irresignação do impetrante pela não realização da audiência de custódia, tem-se que não há ilegalidade na dispensa de realização de audiência de custódia com base no art. 8º da Recomendação nº 62/2020 CNJ, regulamentada por ato normativo do tribunal de origem, como medida de prevenção contra a pandemia de covid-19, como ocorreu no caso em comento. Cabe ainda destacar quanto ao risco de contaminação pela Covid-19, que o sistema prisional tem adotado protocolos sanitários visando conter a proliferação do vírus, bem como toda a população carcerária está sendo vacinada o que reduz bastante os casos de contaminação.
+3. Quanto ao argumento de ausência de fundamentação extrai-se do decreto preventivo que o ergástulo foi decretado sob a égide da garantia da ordem pública, em razão da periculosidade dos pacientes, manifestada pela considerável quantidade de entorpecente apreendida em seu poder dos pacientes, ou seja 44(quarenta e quatro) kg de maconha, a qual estava sendo transportada entre os Estados de Pernambuco e Ceará, havendo indícios da prática da traficância interestadual, circunstância que demonstra risco ao meio social sendo este fundamento idôneo para a decretação e manutenção da prisão cautelar. Precedente.
+4. Importante salientar que as suscitadas condições pessoais favoráveis dos pacientes, por si só, não obstam sua segregação provisória, desde que essa se manifeste necessária nos termos do art. 312 do Código de Processo Penal, o que se visualiza no caso em análise, onde as circunstâncias concretas, apontam a necessidade de se resguardar a ordem pública.
+5. ORDEM CONHECIDA E DENEGADA.
+Consta dos autos que os recorrentes foram presos em flagrante, que posteriormente foi convertidaem prisão preventiva, pela prática dos delitos previstos nos artigos33, caput, e 35 da Lei n. 11.343/06.
+Sustenta a defesa que a prisão deve ser relaxada, diante da não realização da audiência de custódia dos recorrentes. Destaca que cada recorrente é pai de quatro filhos que passam por extrema dificuldade financeira.
+Afirma que ausentes os requisitos ensejadores da prisão preventiva, que se baseia apenas na gravidade abstrata do delito. Ademais, que aplicável ao caso o teor da Resolução n. 62 do CNJ, especificamente no que concerne ao risco de infecção pelo novo coronavírus, bem como H3N2.
+Requer, liminarmente e no mérito, seja relaxada a prisão dos recorrentes.
+A liminar foi indeferida. As informações foram prestadas.
+O Ministério Público Federal manifestou-se pelo desprovimento do recurso.
+Em consulta ao sítio eletrônico do Tribunal de origem, verifica-se que foi proferida sentença em 11/7/2022, que julgou procedente a pretensão punitiva para condenar os recorrentes como incursos nas penas do artigo33da Lei nº 11.343/06, e absolvê-los em relação à conduta tipificada no art. 35da Lei nº 11.343/06. Na ocasião, foi concedido, ainda, o direitode recorrer em liberdade, sendo expedidos os respectivos alvarás de soltura.
+Ante o exposto, julgo prejudicado o recurso em habeas corpus.
+Publique-se.
+Intimem-se.
