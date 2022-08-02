@@ -1,0 +1,11 @@
+DECISÃO
+ADMINISTRATIVO.  EMBARGOS  DE  DECLARAÇÃO  NO  RECURSO  ESPECIAL  NO  MANDADO  DE  SEGURANÇA.  SEGURO  DESEMPREGO.  FUNDAMENTO  DO  ACÓRDÃO  QUE  NÃO  É  SUFICIENTE  PARA  MANTER  A  DECISÃO.  SÚMULA  283/STF.  INAPLICABILIDADE.  EMBARGOS  REJEITADOS.
+1.  Cuida-se  de  embargos  de  declaração  opostos  por  ELIANE  CRISTINA  FLOSS  contra  decisão  que  deu  provimento  ao  recurso  especial  da  União,  nos  termos  da  seguinte  ementa:
+ADMINISTRATIVO  E  PROCESSUAL  CIVIL.  RECURSO  ESPECIAL.  PEDIDO  DE  SEGURO  DESEMPREGO.  PRAZO  DE  120  DIAS.  FIXAÇÃO  POR  MEIO  DE  RESOLUÇÃO.  LEGALIDADE.RECURSO  ESPECIAL  DA  UNIÃO  A  QUE  SE  DÁ  PROVIMENTO.
+2.  Em  suas  razões,  a  embargante  pugna  pela  alteração  da  decisão,  a  fim  de  que  seja  negado  provimento  ao  Recurso  Especial  da  União,  por  ter  a  embargada/UNIÃO  deixado  de  impugnar  o  fundamento  do  acórdão  recorrido  segundo  o  qual  "1  -  A  jurisprudência  tem  consolidado  entendimento  de  que  o  contrato  de  trabalho  temporário  não  pode  ser  considerado  como  forma  de  reintegração  do  mercado  do  trabalho."
+3.  É  o  relatório.
+4.  No  caso  presente,  reputo  ausentes  quaisquer  das  hipóteses  que  legitimam  o  acolhimento  dos  Embargos  de  Declaração,  uma  vez  que  o  acórdão  embargado  encontra-se  devidamente  fundamentado  ao  consignar  que  não  ferem  o  Princípio  da  Legalidade  as  disposições  presentes  na  citada  Resolução  CODEFAT,  que  disciplina  o  prazo  de  120  dias,  a  partir  da  rescisão  do  contrato  de  trabalho,  para  requerer  o  seguro-desemprego.
+5.  O  Fundamento  referente  ao  contrato  de  trabalho  temporário  não  é  autônomo  e  suficiente  para  manter  a  decisão  do  julgado,  o  que  afasta  a  incidência  da  Súmula  283/STF  à  hipótese.
+6.  Logo,  a  prestação  jurisdicional  se  exauriu  satisfatoriamente,  não  se  constatando  a  presença  de  quaisquer  dos  vícios  elencados  no  art.  1.022  do  Código  Fux,  mas  apenas  a  discordância  da  parte  quanto  ao  conteúdo  da  decisão  embargada,  o  que  não  autoriza  o  pedido  de  declaração,  que  tem  pressupostos  específicos,  os  quais  não  podem  ser  ampliados.
+7.  Sendo  assim,  rejeito  os  embargos  de  declaração.
+8.  Publique-se.  Intimações  necessárias.
