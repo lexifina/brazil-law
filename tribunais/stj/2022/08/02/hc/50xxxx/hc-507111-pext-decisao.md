@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de petição apresentada por THIAGO MAIA GONÇALVES, em que se pleiteia a extensão dos efeitos de habeas corpus concedido aos pacientes originários GABRIEL SANTIAGO DE SOUZA e JOÃO LUCAS PEREIRA RODRIGUES.
+Aduz o requerente que foi condenado à pena de 5 anos de reclusão e 500 dias-multa, em regime inicial fechado, ao lado daqueles corréus e quese encontra na mesma situação processual de ambos os beneficiados com o regime semiaberto, uma vez que foram sentenciados conjuntamente.
+As informações requeridas foram prestadas pelo Juízo a quo (fls. 175/176), dando notícia de que semelhante pedido foraformulado na origem e indeferido e de que houve a expedição das guias de execução (a do requerente é 0010115.88.2022.8.26.0041).
+Encaminhados os autos à Presidência do Superior Tribunal de Justiça, o Ministro Humberto Martins entendeu quea matéria objeto do pedido não se enquadra nas hipóteses justificadoras da atuação excepcional dele, durante o período de plantão judiciário.
+É o relatório.
+Findo o mês de julho, passo então a decidir.
+É caso de estender a ordem a THIAGO MAIA GONÇALVES, por aplicável o art. 580 do Código de Processo Penal.
+De fato, o requerente e corréus/pacientes estão na mesma situação fático-processual. A Corte estadual não levou em conta nenhum fator de caráter subjetivo para aplicar o regime fechado a todos os réus da Ação Penal n.0001620-04.2017.8.26.0535.
+Assim como aconteceu com os pacientes, também em relação ao requerenteo Tribunal paulista não apresentou fundamentação idônea para a imposição desseregime para início do cumprimento da pena de 5 anos de reclusão.
+Oregime fechado foi estabelecido com suporte apenas na gravidade abstrata do crime de tráfico de drogas e na repercussão social do delito;não foram consideradas as particularidades do caso em si, nem as objetivas, muito menos as subjetivas. Foi completa a inobservância das Súmulas440/STJ, 718 e 719/STF, o que configura constrangimento ilegal.
+Confira-se,a propósito,este excerto do acórdãolocal (fl. 44):
+Quanto ao regime inicial de cumprimento das penas, deve ser fixado o fechado, como pleiteado pelo Ministério Público, pois o crime cometido, além de atingir o bem jurídico tutelado pelo legislador, contribui para a prática de inúmeros outros ilícitos penais, tão ou mais graves que o agora imputado, como é notório. Aliás, o tráfico permite que marginais dados à prática de crimes contra o patrimônio, pelo uso de drogas ilícitas, adquiram "coragem" para as empreitadas criminosas. Também o espúrio comércio faz campear a corrupção de agentes públicos, para permitir a continuidade dessas práticas delituosas. Não há como olvidar, ainda, das consequências dessa danosa conduta, a formar multidões de dependentes de drogas ilícitas, que causam a desagregação familiar.Igualmente como consequência do tráfico, tem-se a queda da produtividade do cidadão e a dependência do sistema público de saúde, já tão deficiente. E ninguém deve almejar um planeta de viciados.Frise-se que a imposição de regime mais brando acaba gerando um incentivo à prática do comércio ilegal, causando na sociedade a sensação de impunidade daquele que do tráfico faz seu meio de vida.Por todos esses motivos, de rigor a fixação do regime prisional fechado.
+Pelo exposto, defiro o pedido de extensão formulado por THIAGO MAIA GONÇALVES, a fim de estabelecer o regime inicial semiaberto para o cumprimento da pena aplicada na Ação Penal n. 0001620-04.2017.8.26.0535 (PEC n. 0010115.88.2022.8.26.0041).
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+PEDIDO DE EXTENSÃO EM HABEAS CORPUS. TRÁFICO DE DROGAS. PENA DE 5 ANOS DE RECLUSÃO. REGIME PRISIONAL FECHADO. GRAVIDADE ABSTRATA DO DELITO E REPERCUSSÃO SOCIAL DO CRIME. FUNDAMENTAÇÃO INIDÔNEA TAMBÉM EM RELAÇÃO AO REQUERENTE. APLICAÇÃO DO ART. 580 DO CPP.
+Pedido de extensão deferido.
