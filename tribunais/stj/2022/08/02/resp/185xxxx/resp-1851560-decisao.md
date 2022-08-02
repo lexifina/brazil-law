@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo ESTADO DO PARANÁ com fundamento no art. 105, III, a, da Constituição Federal.
+Na origem, o contribuinte interpôs agravo de instrumento em face de decisão proferida em sede de execução fiscal promovida pelo Estado do Paraná com valor da causa atribuído em R$ 41.734,69 (quarenta e um mil e setecentos e trinta e quatro reais e sessenta e nove centavos), em fevereiro de 2008.
+Após decisão que determinou a redução a termo dos créditos de precatório oferecidos à penhora e, posteriormente, a alienação judicial, foi interposto agravo de instrumento, o qual foi provido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ em acórdão assim ementado:
+TRIBUTÁRIO E PROCESSO CIVIL - EXECUÇÃO FISCAL - CESSÃO DE CRÉDITO OFERECIDA COMO GARANTIA - PRECATÓRIO - EXEQUENTE QUE É O PRÓPRIO DEVEDOR - FACULDADE CONFERIDA NO ART. 673, § 1º, DO CPC - INAPLICABILIDADE - INTERPRETAÇÃO CONFORME A CONSTITUIÇÃO - SUB-ROGAÇÃO - RECURSO PROVIDO.
+O intérprete necessita procurar as recíprocas implicações de preceitos e princípios, até alcançar uma vontade unitária e harmônica da Constituição.
+O método teleológico de interpretação é realizado com vistas à intenção da lei, a finalidade para a qual a norma foi editada, desconsiderando sua literalidade, utilizando-se para tanto de elementos extra -textuais.
+A previsão da faculdade inserta no art. 673, § 1º,do CPC, neste cenário, não se aplica ao caso em tela, pois caso contrário estaria sendo privado de efeito o disposto em norma constitucional (art. 78 do ADCT), quanto ao poder liberatório dos precatórios.
+No referido acórdão, restou consignado que a possibilidade de escolha da alienação judicial do crédito decorrente de precatório somente é possível quanto o precatório tiver como devedor terceira pessoa. Como o crédito provém do próprio ente público exequente, a sub-rogação é medida que se impõe.
+No presente recurso especial, o ESTADO DO PARANÁ, aponta violação aos arts. 620 e 673, § 1º, do CPC.Sustenta, em síntese, que tem o direito de optar pela alienação judicial do crédito decorrente de precatório em detrimento da sub-rogação.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+É o relatório. Decido.
+A questão central do recurso versa sobre a possibilidade ou não de alienação judicial do crédito decorrente de precatório oferecido como garantia da execução fiscal.
+Consoante a jurisprudência do Superior Tribunal de Justiça, cabe ao exequente optar pela sub-rogação ou pela alienação judicial do crédito decorrente de precatório penhorado, nos termos do art. 673, § 1º, do CPC.
+Nesse sentido:
+PROCESSUAL CIVIL. TRIBUTÁRIO. EXECUÇÃO FISCAL. CRÉDITO DE PRECATÓRIO. ALIENAÇÃO DO CRÉDITO. OPÇÃO DA EXEQUENTE. ART. 673, § 1º, DO CPC. PRAZO DE DEZ DIAS.
+1. A jurisprudência do STJ é firme no sentido de que, com a penhora do crédito, cabe ao exequente optar pela sub-rogação ou pela alienação judicial do direito penhorado, conforme estabelece no artigo 673, § 1º, do CPC. O credor pode preferir, em vez da sub-rogação, a alienação judicial do direito penhorado, caso em que declarará sua vontade no prazo de 10 dias, contados da realização da penhora.
+2. Recurso Especial provido.
+(REsp n. 1.856.123/PR, relator Ministro Herman Benjamin, Segunda Turma, julgado em 3/3/2020, DJe de 13/5/2020.)
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. CRÉDITO DE PRECATÓRIO. PENHORA. OPÇÃO PELA ALIENAÇÃO. PRAZO DE DEZ DIAS. ART. 673, § 1º, DO CPC/73. MANIFESTAÇÃO INTEMPESTIVA. INEFICÁCIA. SUB-ROGAÇÃO EFETIVADA. ORIENTAÇÃO CONSOLIDADA NO ÂMBITO DA PRIMEIRA SEÇÃO DO STJ. AGRAVO REGIMENTAL IMPROVIDO.
+I. Nos termos da jurisprudência, "o STJ é firme no sentido de que, com a penhora do crédito, cabe ao exequente optar pela sub-rogação ou pela alienação judicial do direito penhorado, conforme estabelece no indigitado normativo. O credor pode preferir, em vez da sub-rogação, a alienação judicial do direito penhorado, caso em que declarará sua vontade no prazo de 10 dias, contados da realização da penhora. Extemporânea a manifestação da Fazenda Pública, é de reconhecer que ocorreu a sub-rogação do bem penhorado, consoante concluído pelo Tribunal de origem. Nesse sentido: REsp 1.414.987/PR, Rel. Ministro Humberto Martins, Segunda Turma, DJe 13.4.2015; AgRg no AREsp 233.359/PR, Rel. Ministra Eliana Calmon, Segunda Turma, DJe 24.10.2013; REsp 1.293.506/PR, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 9.3.2012; AgRg no Ag 1.373.022/RS, Rel. Min. Arnaldo Esteves Lima, Primeira Turma, DJe 2.2.2012; AgRg no Ag 1.245.632/PR, Rel. Min. Benedito Gonçalves, Primeira Turma, DJe 16.3.2011; AgRg no REsp 1.229.550/PR, Rel. Min. Castro Meira, Segunda Turma, DJe 1º.7.2011" (STJ, AgRg no REsp 1.576.927/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 25/05/2016).
+II. Impossível sindicar a afirmação, contida no acórdão recorrido, acerca da falta de manifestação da Fazenda Pública, no tempo devido, pela alienação do crédito penhorado, dada a vedação estatuída na Súmula 7/STJ.
+III. Agravo Regimental improvido.
+(AgRg no AREsp n. 373.977/PR, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 23/8/2016, DJe de 1/2/2017.)
+Assim, tendo o entendimento do acórdão recorrido destoadoda jurisprudência desta Corte Superior,o provimento do recurso se impõe.
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial.
+Publique-se. Intimem-se.
