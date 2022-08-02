@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Trata-se de agravo regimental interposto porADRIEL GONCALVES MACHADO contra a decisão de fls. 285-288, quenão conheceu dohabeas corpusimpetrado em seu favor, em que fora apontado como autoridade coatora o Tribunal de Justiça do Estado de Santa Catarina (HC n. 5017387-31.2022.8.24.0000).
+Oagravante teve a prisão em flagrante - ocorrida em 25/3/2022 - convertida em preventiva a pedido do Ministério Público (fl. 65) e foi denunciado por suposta prática do delito descrito no art. 155, §§ 1º e 2º, I e II, do Código Penal
+Em suas razões, sustenta a existência de constrangimento ilegal consubstanciado na ausência dos requisitos insculpidos no art. 312 do Código de Processo Penal.
+Afirma que o fato de o paciente figurar no polo passivo de outro processo criminal, mesmo que crime patrimonial, não permite inferir sua periculosidade ou uma inclinação à reiteração delitiva. E que seriam suficientes cautelares diversas da prisão.
+Aduz que "o delito pelo qual se encontra acusado (furto qualificado) não envolve violência ou ameaça à pessoa, se mostrando absolutamente inadequada a manutenção daprisão preventiva" (fls. 297-298).
+Requer seja o presente agravo recebido e provido,a fim de que seja conhecido o writ e concedida a ordem.
+Contrarrazões apresentadas às fls. 304-311.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NOHABEAS CORPUS. FURTO QUALIFICADO PELO REPOUSO NOTURNO, ROMPIMENTO DE OBSTÁCULO E ESCALADA.PRISÃO PREVENTIVA.AUSÊNCIA DE ILEGALIDADE MANIFESTA. IMPRESCINDIBILIDADE DA PRISÃO PREVENTIVA FUNDAMENTADA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A imprescindibilidade da prisão preventiva justificada no preenchimento dos requisitos dos arts. 312, 313 e 315 do CPPimpede a aplicação dasmedidas cautelares alternativas previstas no art. 319 do CPP.
+2. Agravo regimental desprovido.
+VOTO
+O recurso não reúne condições de êxito.
+O Supremo Tribunal Federal e o Superior Tribunal de Justiça não admitem a impetração dehabeas corpusem substituição ao recurso ordinário próprio, uma vez que a competência do STF e a do STJ estão relacionadas com a análise de matéria de direito estrito prevista taxativamente na Constituição Federal. Esse entendimento tem sido adotado sem prejuízo de eventual deferimento da ordem de ofício em caso de flagrante ilegalidade, o que não se verifica no caso em apreço.
+A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que comprovema necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Co"digo de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastia o Reis Júnior, Sexta Turma, DJe de 2/9/2020).
+No caso, está justificada a manutenção da preventiva, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP, não sendo recomendável a aplicação de medida cautelar referida no art. 319 do CPP. A propo"sito, assim se manifestou o Tribunal a quo(fl. 149, destaquei):
+Ao converter a prisão em flagrante em preventiva, acolhendo manifestação ministerial, assim decidiu o Magistrado oficiante:
+ .. Em relação ao periculum liberatis, entendo que a medida segregatória se faz necessária para a garantia da ordem pública em razão do perigo concreto de reiteração criminosa e do risco gerado pelo estado de liberdade do flagrado, uma vez que,conforme certidão de antecedentes criminais, o conduzido responde pela prática, em tese, dos crimes de furto qualificado (autos n. 5000238-30.2020.8.24.0020) e de invasão de domicilio (autos n. 5002011-76.2021.8.24.0020), tendo sido beneficiado com a liberdade provisória recentemente. O modus operandi também não permite conclusão diversa, pois o furto foi praticado no período noturno e mediante escalada e arrombamento (modus operandi semelhante àquele empregado no outro delito de furto acima referido). O conduzido ainda descumpriu a medida cautelar de recolhimento noturno imposta nos autos n. 5000238-30.2020.8.24.0020, o que justifica igualmente o decreto de prisão preventiva. .. .
+ ..
+À luz das normas e preceitos citados, denota-se que a decisão proferida pelo Magistrado a quo, indiciou claramente as razões do seu convencimento e o amparo aos requisitos legais necessários, diante da gravidade concreta do fato e do perigo gerado pelo estado de liberdade do paciente, que,embora primário, responde a pelo menos uma ação penal por furto e teria, em tese, praticado os fatos durante o repouso noturno, mediante escalada e rompimento de obstáculo, a caracterizar o risco de reiteração delitiva.
+Tais circunstâncias persistem, ainda que o paciente não estivesse em cumprimento de medidas cautelares alternativas. E mesmo que o valor da res não seja elevado e tenha sido restituída à vítima, não se pode desconsiderar os danos ocasionados no local como parte do efetivo prejuízo sofrido.
+ ..
+Assim, ao menos por ora, a medida se mostra fundamentada e adequada para garantir a ordem pública.
+Tendo a necessidade de prisa o cautelar sido exposta de forma fundamentada e concreta, é incabível a substituiça o por medidas cautelares mais brandas (RHC n. 133.153/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 21/9/2020).
+Observa-se queagarantia da ordem pública em razão do perigo concreto de reiteração criminosa,omodus operandi-furto praticadono período noturno e mediante escalada e arrombamento,bem comoestar respondendo pela práticados crimes de furto qualificado (n.5000238-30.2020.8.24.0020) e de invasão de domicilio (n. 5002011-76.2021.8.24.0020)-e o fato dopaciente ter sidobeneficiado com a liberdade provisória recentemente, além de ter descumprido medida cautelar,foram considerados pelo Juízo de primeiro grau para a decretação da prisão preventiva.
+Conforme a orientação jurisprudencial do STJ, inquéritos policiais ou ações penais em curso justificam a imposição de prisão preventiva como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública (AgRg no HC n. 603.774/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 28/9/2020; e HC n. 602.698/RS, relator Ministro Felix Fischer, Quinta Turma, DJe de 6/10/2020).
+Ademais, justifica-se a prisão preventiva para garantia da ordem pública quandoopaciente, beneficiadopor liberdade provisória em ação penal diversa, comete nova infração, hipótese em que está evidente o risco de reiteração delitiva (AgRg no HC 613.145/GO, relator Ministro Felix Fischer, Quinta Turma, DJe de 18/11/2020).
+Além disso,demonstrado, de forma concreta, o incontroverso descumprimento de medida cautelar alternativa, é evidente a intenção do acusado de furtar-se à aplicação da lei penal, o que justifica a decretação da preventiva (HC n. 612.101/SE, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 20/11/2020).
+Registre-se também, como salientado pelo Tribunal a quo,que a gravidade concreta da conduta, evidenciada pelo modus operandi, é circunstância apta a indicar a periculosidade do agente e constitui fundamentação idônea para o decreto preventivo (RHC n. 119.549/RS, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 26/2/2020.).
+Inviáveis, portanto, as teses recursais suscitadas.
+Ante o exposto,nego provimento ao agravo regimental.
+É o voto.
