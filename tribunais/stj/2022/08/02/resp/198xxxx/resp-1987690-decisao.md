@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de Recurso Especial interposto por Irene Maria de Oliveira Carrão, com fundamento no art. 105, III, "a" e "c", da CF/1988, contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (fl. 146):
+AGRAVO DE INSTRUMENTO. DIREITO PREVIDENCIÁRIO. EXECUÇÃO DE SENTENÇA. RPV COMPLEMENTAR. ARTIGO 2º DA LEI ESTADUAL Nº 13.756/2011. ADIMPLEMENTO NO PRAZO. JUROS MORATÓRIOS. DESCABIMENTO. ATUALIZAÇÃO MONETÁRIA.
+JUROS MORATÓRIOS. De acordo com o art. 2º da Lei Estadual nº 13.756/2011, vigente à época, os créditos de pequeno valor deveriam ser pagos até 180 dias a contar da data do protocolo da requisição expedida pelo juízo da execução.
+Houve depósito antes de seu vencimento, não havendo juros a computar.
+ATUALIZAÇÃO MONETÁRIA. A partir de 30/06/2009, vigência da Lei nº 11.960/2009, os débitos não tributários da Fazenda Pública passaram a ser atualizados com base nos índices oficiais de remuneração básica e juros aplicados à caderneta de poupança.
+Após 25/03/2015, em razão da decisão de modulação dos efeitos das ADIS 4357 e 4425 pelo STF, a atualização monetária passou a ocorrer pelo índice de Preços ao Consumidor Amplo Especial (IPCA-E).
+AGRAVO DE INSTRUMENTO DESPROVIDO.
+Embargos de Declaração não acolhidos.
+Em suas razões, a parte ora recorrente alega, além de divergência jurisprudencial,que "deve ser respeitada a decisão transitada em julgado, restando inalterado o índice de correção e juros.Entretanto, apenas por excesso de zelo, devemos adentar na Lei 11.960/09 (que versa sobre correção e juros), eis que não merece ser aplicada no caso em concreto.Em julgamento da ADI 4357, o STF fulminou a regra prevista na Emenda Constitucional nº 62, de 2009 no que concerne a aplicação da TR.Portanto, resta cristalino que o índice de correção aplicado nesse feito estava equivocado, devendo ser aplicado o IGPM ou, caso não seja esse o entendimento desse Nobre Juízo, seja aplicado o IPCA, além dos juros previstos na ordem judicial transitada em julgado ou, caso ali inexista previsão, merecem ser aplicados os juros legais.Existindo decisão transitada em julgado no sentido da aplicação do IGPM, somente tal decisum poderia ser alterado através de ação rescisória, o que o não ocorreu no caso em concreto." (fl. 191).
+Ao final, requer o "conhecido e provido, com a total reforma do v. decisum, para que o índice de correção monetária seja o IGPM ou, sucessivamente, o 1PCA."(fl. 194).
+Com contrarrazões.
+Devolvidos os autos para eventual juízo de retratação, a 21ª Câmara Civel, manteve a integralidade do acórdão recorrido, nos termos da seguinte ementa (fl. 236):
+AGRAVO DE INSTRUMENTO. RETRATAÇÃO.ÍNDICES DE PRECLUSÃO.REQUISIÇÃO DE PEQUENO VALOR.CORREÇÃO MONETÁRIA E JUROS.NÃO CONFIGURAÇÃO. ADINS ns4.357 E 4.425.
+A definição de juros e correção monetária incidentes sobre os valores devidos não está sujeita à preclusão. Matéria que pode ser conhecida de ofício pelo julgador, conforme art.1 2 -E da Lei nº 9.494/97.Paga a RPV em atraso, a correção monetária deve incidir desde a data dos cálculos, e juros a contar da data em que configurada a mora do ente público, até os dias atuais.
+Conforme decidido nas ADIn"s Os 4.357 e 4.425 pelo STF, com posterior modulação de efeitos, a atualização dos débitos da Fazenda Pública contidos em requisitórios deve ocorrer conforme índices de remuneração básica e juros aplicados à caderneta de poupança até 25/03/2015, data a partir da qual a correção monetária se dá pelo índice de Preços ao Consumidor Amplo Especial (IPCA-E), mantidos os juros.
+Inaplicáveis ao caso o julgamento do Recurso Extraordinário nº 870.947/SE (Tema n 2810 do STF) e do REsp nº 1.492.221/PR (Tema nº 905 do STJ), referentes a condenações da Fazenda Pública e respectivas liquidações, momentos anteriores à expedição dos requisitórios.
+AGRAVO DE INSTRUMENTO DESPROVIDO.JULGAMENTO MANTIDO EM JUÍZO DE RETRATAÇÃO.
+Juízo positivo de admissibilidade às fls. 289-296.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Registre-se também que é possível ao Relator dar ou negar provimento ao recurso em decisão monocrática, nas hipóteses em que há jurisprudência dominante quanto ao tema, como autorizado pelo art. 34, XVIII, do RISTJ e pela Súmula 568/STJ.
+A irresignação não merece prosperar.
+De acordo com a jurisprudência do STJ, a via estreita do recurso especial exige a demonstração inequívoca da ofensa ao dispositivo mencionado nas razões do recurso, bem como a sua particularização, a fim de possibilitar exame em conjunto com o decidido nos autos, sendo certo que a argumentação genérica caracteriza deficiência de fundamentação, fazendo incidir, por analogia, o disposto no enunciado n. 284 da Súmula do STF.A propósito, nesse sentido, confiram os seguintes julgados: AgInt no REsp 1.604.668/RS, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 26/6/2019; AgInt no REsp 1.530.047/SC, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 02/5/2019; AgInt no REsp 1.909.855/RS, Rel. Ministro Og Fernandes, Segunda Turma, DJe 02/08/2021.
+Ante o exposto, não conheço do recurso especial, com fundamento no artigo 932, III, do CPC/2015, combinado com os artigos 34, XVIII, a, e 255, I, do RISTJ.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. SERVIDOR PÚBLICO.EXECUÇÃO DE SENTENÇA. JUROS E CORREÇÃO MONETÁRIA. VIOLAÇÃO DE DISPOSITIVO LEGAL. NÃO PARTICULARIZAÇÃO. ALEGAÇÃO GENÉRICA. SÚMULA 284 DO STF. RECURSO NÃO CONHECIDO.
