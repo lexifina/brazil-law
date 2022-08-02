@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por ALEXANDER BENJAMIN COL GUTHER, em causa própria, à decisão de fls. 13/14, que não conheceu do recurso.
+O embargante sustenta a existência de erro material "a ser retificado no decisum combatido, haja vista a presente medida questiona decisão proveniente da 30ª Câmara de Direito Privado do Tribunal de Justiça de São Paulo/SP." (fl. 18)
+Argumenta ainda sobre o cabimento no agravo de instrumento na espécie, considerando que "Esta Egrégia Corte já decidiu pela mitigação do rol elencado pelo art. 1.015 do CPC, permitindo a interposição quando exsurgir urgência decorrente da inutilidade do julgamento da questão no recurso de apelação." (fl. 18)
+Requer, ao fim, o conhecimento e acolhimento dos embargos declaratórios.
+A parte embargada foi devidamente intimada para contrarrazoar estes aclaratórios, tendo deixado de apresentar impugnação no prazo estabelecido. (fl. 27)
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+De início, observa-se que o embargante aponta equívoco no decisum, porém não se desincumbe do mister de, ao menos, anexar as decisões proferidas pelas instâncias ordinárias, de forma a comprovar o quanto alegado.
+Porém, ainda que o embargante tenha pretendido combater, por meio deste agravo de instrumento, o trecho retratado nas razões dos presentes embargos (fl. 18), observa-se que o inconformismo se volta contra despacho proferido por relator de mandado de segurança que determinou o recolhimento das custas iniciais.
+Dessa forma, o recurso, se cabível, seria o previsto no art. 1.021 do CPC, que preceitua que "contra decisão proferida pelo relator caberá agravo interno para o respectivo órgão colegiado".
+A interposição equivocada de recurso quando há expressa disposição legal e inexiste dúvida objetiva constitui manifesto erro grosseiro.
+Portanto, é inaplicável ao caso o princípio da fungibilidade, que pressupõe dúvida objetiva a respeito do recurso a ser interposto, inexistência de erro grosseiro e observância do prazo do recurso correto, o que não ocorre na espécie. Nesse sentido: AgInt nos EDcl no REsp 1857915/PR, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 04/05/2020.
+Registre-se, mais uma vez, que as hipóteses de agravo para o Superior Tribunal de Justiça são apenas aquelas previstas nos arts. 1.027, § 1º, e 1.042 do CPC.
+Por fim, não prospera o argumento de que o rol do art. 1.015 é de taxatividade mitigada, pois esse entendimento, conquanto acertado, foi fixado, sob a sistemática dos recursos repetitivos, apenas para esclarecer que o agravo de instrumento poderá ser manejado em situações outras que não àquelas estampadas no citado artigo, quando se vislumbrar inutilidade do julgamento da questão em grau de apelação, o que, inclusive, ratifica o cabimento dessa espécie recursal para atacar decisões proferidas por juízes de primeiro grau de jurisdição.
+Portanto, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
