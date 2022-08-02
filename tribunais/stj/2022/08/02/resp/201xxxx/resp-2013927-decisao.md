@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de recurso especial interposto peloINSTITUTO NACIONAL DO SEGURO SOCIAL com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim ementado:
+APELAÇÃO CÍVEL. AÇÃO PREVIDENCIÁRIA. CONCESSÃO DEAPOSENTADORIA POR INVALIDEZ, RESTABELECIMENTO DEAUXÍLIO-DOENÇA, COM SUA CONVERSÃO EM ACIDENTÁRIO,OU DE CONCESSÃO DE AUXÍLIO-ACIDENTE. SENTENÇA DEIMPROCEDÊNCIA. CONSTATADA INCAPACIDADE PARA OTRABALHO POR MEIO DE PERÍCIA JUDICIAL. NEXO CAUSALENTRE A INCAPACIDADE E A ATIVIDADE LABORAL NÃOCOMPROVADO. IMPERATIVA A REMESSA DOS AUTOS ÀJUSTIÇA FEDERAL, ANTE A INCOMPETÊNCIA DA ESFERAESTADUAL. PRINCÍPIOS DA CELERIDADE E ECONOMIAPROCESSUAL. PRECEDENTES DA CÂMARA. REMESSA, DEOFÍCIO, DOS AUTOS AO JUÍZO COMPETENTE.
+Os embargos de declaração opostos foram rejeitados.
+No presente recurso especial, o recorrente aponta como violadooart. 19 e 20 da Lei n. 8.213/1991. Sustenta, em síntese, que a parte autora não comprovou a ocorrência de acidente de trabalho, razão pela qual a ação deveria ser julgada improcedente, ao invés de remeter os autos para a Justiça Federal.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+Com relação ao art. 19 e 20 da Lei n. 8.213/91, apontado nas razões do recurso especial como violado, tenho que ele possui conteúdo normativo que não possui relação com a fundamentação exposta no recurso. Assim porque o dispositivo indicado dispõe sobre o conceito de acidente de trabalho. Na fundamentação do recurso especial, contudo, o recorrente pretende a improcedência da ação.
+Desta forma, a indicação de artigo de lei federal tido por violado que não guarda pertinência temática com as razões recursais caracteriza a deficiência da fundamentação, fato obsta o conhecimento do recurso especial, a teor da Súmula 284 do STF, segundo a qual: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Ademais, a leitura atenta da decisão recorrida revela que na verdade, ela foi proferida com base no art. 109, I, da Constituição Federal.
+Conclui-se que o acórdão recorrido, ao dispor sobre a matéria, cingiu-se à interpretação de regramentos e princípios constitucionais, notadamente o 109, I, da Constituição Federal. Desta forma se tem inviabilizada a apreciação da questão por este Tribunal, estando a competência de tal exame jungida à Excelsa Corte, ex vi do disposto no art. 102 da Constituição Federal, sob pena de usurpação daquela competência.
+Nesse panorama, verificado que a matéria veiculada no recurso especial é própria de recurso extraordinário, apresenta-se evidente a incompetência do Superior Tribunal de Justiça para analisar a questão, sob pena de usurpação da competência do Supremo Tribunal Federal.
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Publique-se. Intimem-se.
