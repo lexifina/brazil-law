@@ -1,0 +1,17 @@
+DECISÃO
+MARIA LUZIA DE JUSUS,JOELMA PEREIRA VIEIRA, ADEILTON DIAS SOARES,DANIEL RICARDO DE OLIVEIRA,RONALDO PAULO DE FARIAS, GENIVALDO DE SOUZA VIEIRA eWARLLEM XAVIER MATOSO (MARIA e outros) ajuizaram ação declaratória de nulidade de cobrança de taxas condominiais cumulada com restituição de valorescontra CONDOMÍNIO RURAL E RESIDENCIAL RK (CONDOMÍNIO).
+Em primeira instância, indeferiu a petição inicial, nos termos do art. 321 doNCPC.
+A apelação interposta por MARIA e outrosnão foi provida pelo Tribunal estadual nos termos do acórdão assim ementado:
+PROCESSUAL CIVIL. APELAÇÃO CÍVEL. EMENDA À INICIAL. AÇÃO DE ANULAÇÃO DE TAXAS DE CONDOMÍNIO C/C REPETIÇAÕ DE INDÉBITO. PRELIMINAR DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. EMENDA À INICIAL INSATISFATÓRIA. INDEFERIMENTO DA INICIAL. EXTINÇÃO DOS AUTOS SEM JULGAMENTO DO MÉRITO. SENTENÇA MANTIDA.1. Não se verifica a alegada negativa de prestação jurisdicional, porquanto a magistrada sentenciante teceu fundamentos lógicos e aptos a rebaterem os argumentos declinados nos aclaratórios, de forma a dar a devida fundamentação para rejeitá-los.2. Apresentada petição inicial irregular ou defeituosa, deve o magistrado, antes de extinguir o feito, oportunizar à parte a emenda da petição inicial. Apenas não cumprida tal determinação é que deve o juiz, com fundamento em texto expresso de lei, julgar extinto o processo nos termos do artigo 485, inciso I, do Código de Processo Civil.3. Consideram-se pertinentes ao julgamento do mérito, para a declaração de nulidade de taxas condominiais e consequente repetição do indébito, a comprovação da titularidade das unidades no condomínio; a comprovação de pagamentos, individualizados, de cada autor ao condomínio, nos últimos 5 anos, e a indicação do valor devido à cada autor em planilha.
+4. Correto o indeferimento da petição inicial com fulcro no art. 321, parágrafo único, do CPC e, por conseguinte, a extinção do processo com fundamento no inciso I do art. 485 do CPC, quando a parte autora, embora devidamente intimada, deixa de observar a determinação de emenda à inicial.5. Apelação conhecida. Preliminar rejeitada e recurso improvido.
+Os embargos de declaração opostos pelos autores foram rejeitados e os aclaratórios opostos pela requerida foram acolhidos paracondenar os autores em honorários advocatícios no valor de R$ 3.000,00 (três mil reais).
+Os segundos embargos de declaração opostos por MARIA e outros foram rejeitados.
+Inconformados, MARIA e outrosmanejaramrecurso especial com fundamento no art. 105, III, a e c, da CF, alegando dissídio jurisprudencial ea violação dos arts. 85, 188, 283, 489 e 1.022 do NCPC.
+O apelo nobre não foi admitido pelo Tribunal estadual em virtude da incidência da Súmula nº 7 do STJ eda aplicação da Súmula nº 83 do STJ.
+Seguiu-se o agravo em recurso especial interposto por MARIA e outrosque, em decisão proferida pelo Ministro Presidente desta Corte, não foi conhecido em virtude da falta de impugnação de todos os fundamentos da decisão agravada.
+Os embargos de declaração opostos por MARIA e outros foram rejeitados.
+Nas razões do presente agravo interno, MARIA e outros sustentaram ainaplicabilidade da Súmula nº182do STJ em virtude de terem infirmado a incidênciadas Súmulas nº 7 e 83 do STJ no bojo do agravo em recurso especial.
+É o relatório.
+DECIDO.
+Tendo em vista as alegações trazidas no agravo interno,RECONSIDEROa decisão agravada e,para melhor exame da controvérsia,CONVERTOo agravo emrecurso especial.
+Publique-se. Intimem-se.
