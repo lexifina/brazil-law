@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento na alínea "a" do permissivo constitucional.
+O recorrente foi condenado a 5 anos de reclusão, no regime semiaberto, e ao pagamento de 500 dias-multa, nos termos do art. 33, caput, da Lei nº 11.343/2006.
+Nas razões de seu recurso, pugna, ao final, "para que seja aplicada a causa especial de diminuição de pena prevista no art. 33, § 4º, da lei 11.343/06, com consequente redução da reprimenda no patamar de 2/3, substituição da pena corporal por restritivas de direitos e abrandamento do regime prisional, do semiaberto para o aberto" (fl. 409).
+Apresentadas as contrarrazões, manifestou-se o Ministério Público Federal pelo não conhecimento recursal.
+Sobre a pretensão aqui trazida, assim se pronunciou o Tribunal local (fls. 389-390):
+ .. Em que pese a primariedade e os bons antecedentes, o apelante possui duas condenações por tráfico de drogas, em grau de recurso, conforme se depreende da CAC de fls. 277/280, o que evidencia sua dedicação às atividades criminosas.
+ ..
+Logo, evidenciada a dedicação a atividades criminosas, ratifico a inaplicabilidade da pretendida minorante. ..
+Da sentença, extrai-se (fl. 298):
+ .. Não se mostra possível a aplicação do § 4º do art. 33 da Lei 11.343/06, uma vez que a referida minorante só é aplicável aos réus primários, possuidores de bons antecedentes, que não se dediquem a atividades criminosas nem integre organização criminosa. No caso em apreço, o acusado possui duas condenações em grau recursal pelo delito do tráfico de drogas, conforme constante em sua CAC alocada em ID 6494618003, o que demonstra que o acusado se dedica a atividades criminosas, motivo que obsta a aplicação da causa especial de diminuição de pena por ora analisada. ..
+No presente feito, o recorrente foi denunciado, pois "trazia consigo, mais precisamente no interior de sua bolsa 11 (onze) pinos plásticos contendo cocaína, 08 (oito) invólucros plásticos contendo maconha e a importância de R$ 10,00 (dez reais) em moeda corrente" (fl. 6),com peso bruto de 7,90 gramas de maconha e 7,20 gramas de cocaína (fl. 26).
+Como se vê, não se aplicou o tráfico privilegiado, uma vez que "o acusado possui duas condenações em grau recursal pelo delito do tráfico de drogas, conforme constante em sua CAC alocada em ID 6494618003, o que demonstra que o acusado se dedica a atividades criminosas".
+"Contudo, deixaram de apresentar elementos concretos, além das ilações, que comprovassem, de fato, referidadedicaçãoà atividades criminosas, devendo ser aplicado o redutor dotráficoprivilegiado.Ademais,condenaçõesnão transitadas em julgado não podem servir de fundamento para o afastamento do privilégio"(AgRg no HC n. 726.115/SP, da minha relatoria, Sexta Turma, julgado em 28/6/2022, DJe de 1/7/2022).
+Logo, diante da primariedade e dos bons antecedentes, além da não relevante quantidade de drogas apreendidas, fazjus o recorrente ao redutor em apreço.
+Fixada a pena definitiva em 5 anos de reclusão e 500 dias multa (fl. 298), porém aplicada a minorante pleiteada no seu patamar máximo (2/3), chega-se ao total definitivo de 1 ano e 8 meses de reclusão, e 166 dias-multa.
+Por fim, diante das circunstâncias mencionadas, derigor o provimento do recurso para alterar o regime inicial para o aberto e determinar a conversão da pena privativa de liberdade em pena restritiva de direitos, em conformidade com os arts. 33 e 44, ambos do código repressivo. Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. DOSIMETRIA. REGIME FECHADO. PENA INFERIOR A QUATRO ANOS. GRAVIDADE ABSTRATA DO DELITO. CONSTRANGIMENTO ILEGAL EVIDENCIADO. AGRAVO DESPROVIDO.
+ ..
+IV - Na hipótese, o regime fechado foi mantido com base em considerações vagas e genéricas relativas à gravidade abstrata do crime, em clara violação aos enunciados das Súmulas n. 718 e n. 719 do Supremo Tribunal Federal e Súmula n. 440 desta Corte Superior, configurando-se, assim, o constrangimento ilegal.
+V - In casu, os pacientes, além de primários e da pouca quantidade de entorpecentes apreendidos, tiveram a pena fixada no mínimo legal e fizeram jus à minorante inserta no parágrafo 4º do art. 33 da Lei de Drogas, mostrando-se plausível, destarte, a readequação do regime prisional. Dessarte, conclui-se que os pacientes que fazem jus ao regime aberto, para início de cumprimento das penas, ex vi do art. 33, parágrafo 2º, alínea c, e parágrafo 3º, do Estatuto Penal.
+VI - Preenchidos os requisitos do art. 44 do Código Penal, quais sejam, pena não superior à 4 (quatro) anos, o crime não foi cometido com violência ou grave ameaça à pessoa, réus não reincidentes e circunstâncias judiciais favoráveis, os pacientes fazem jus à substituição da pena privativa de liberdade por restritivas de direitos, em moldes a serem especificados pelo Juízo da Execução Penal.
+Agravo regimental desprovido. (AgRg no HC 598.994/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 03/11/2020, DJe 18/11/2020.)
+Ante o exposto, dou provimento ao recurso especial para (re)fixar a pena final do recorrente ao total de 1 ano e 8 meses de reclusão, e 166 dias-multa, determinar o regime inicial aberto e substituir a pena corporal por penarestritivade direitos, a serestabelecidapelo juízo da execução.
+Publique-se.
+Intimem-se.
