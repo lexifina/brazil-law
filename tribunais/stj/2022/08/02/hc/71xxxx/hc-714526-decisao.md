@@ -1,0 +1,46 @@
+DECISÃO
+Cuida-se de habeas corpus,com pedido de liminar, impetrado em favor de LINDOLFOPAMPLONA, em que se aponta como autoridade coatora o TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO (Revisão Criminal n. 5027845- 69.2020.4.04.0000/SC).
+O paciente foi condenado àpenade 12 anos e 3 meses de reclusão, a ser cumprida em regime inicialmente fechado, e de 405 dias-multa, no valor unitário de 1/10 do salário mínimo vigente na data dos fatos, pela prática dos crimes dos arts. 33, c/c o art.40, I, e 35, todos da Lei n. 11.343/2006.
+A impetrante sustenta que: (a) houve a indevida condenação do paciente nos delitos de tráfico de drogas e de associação, pois as drogas apreendidas não foram encontradas em sua posse ou mesmo no veículo em que se encontra, não havendo nos autos prova da prática pelo paciente de tais condutas; (b) deve ser afastada a causa de aumento de pena aplicada (reincidência), uma vez que já transcorridos mais de 5 anos entre a sentença que decretou a extinção da punibilidade do crime anterior, não havendo que se falar que o marco a ser considerado é o do adimplemento da pena de multa.
+Requer, liminarmente, que o paciente seja absolvido pela prática dos delitos dos arts. 33 e 35 da Lei n. 11.343/2006 e, subsidiariamente, que a absolvição se dê pelo menos quanto ao crime do art. 35 da Lei de Drogas.
+Pede, ainda quealternativamente, seja concedida a liminar para afastar a circunstância de reincidência do cálculo da pena total. No mérito, pugna pela concessão da ordem para que seja confirmada a liminar deferida.
+Liminar indeferida às fls. 3.077/3.078.
+Informações prestadas às fls. 3.084/3.087.
+Parecer do Ministério Público Federal, às fls. 3.089/3.096, pelo não conhecimento do habeas corpus ou pela denegação da ordem.
+É o relatório.
+A suposta ausência de provas para a condenação pelos delitos de tráfico de drogas e associação para o tráfico e a necessidade de afastamento da reincidência, pois ultrapassado o período depurador de 5 anos, não foramdebatidasno acórdão exarado no julgamento da revisão criminal, tampouco cuidou a defesa de suscitar o tema em sede de aclaratórios, circunstância que, por si só, obsta o exame do tema, ante a supressão de instância verificada.
+Nesse toar, importante ressaltar que a Corte deorigem, ao analisar a revisão criminal,não debateua tese do afastamento da reincidência sob o enfoque veiculado na presente impetração, qualseja,de que atingido o período depurador de 5 anos contado da data em que transitou em julgado a extinção de punibilidade pelo cumprimento da pena.
+Com efeito, a ausência de debate da ilegalidade aventada na Corte deorigem, sob o enfoque suscitado na presente impetração, indica supressãode instância, circunstância que obsta a análise da presenteimpetração nesta Corte.
+No mérito, não diviso nenhuma ilegalidade no acórdão revisional.
+Ora, a Corte de origem concluiu que as teses veiculadasnão guardam correspondência com nenhuma das hipóteses previstas, criteriosamente, no art. 621 do CPP, consubstanciando mera rediscussão de matéria já decidida nos autos(fl. 1.212/1.213):
+ ..
+Com efeito, é consabido que a revisão criminal é ação penal de natureza constitutiva e sui generis, de competência originária dos tribunais, destinada a rever decisão condenatória, com trânsito em julgado, quando ocorre erro judiciário.
+Três são as hipóteses de revisão criminal, de acordo com o art. 621 do CPP:
+I - quando a sentença condenatória for contrária ao texto expresso da lei penal ou à evidência dos autos;
+II - quando a sentença condenatória se fundar em depoimentos, exames ou documentos comprovadamente falsos;
+III - quando, após a sentença, se descobrirem novas provas de inocência do condenado ou de circunstância que determine ou autorize diminuiçãoDessa forma, essa limitação tem raiz constitucional, porquanto, em respeito à coisa julgada, constitui garantia individual da pessoa, inserta, expressamente, no art. 5º, XXXVI, da CF.
+Contudo, a revisão criminal é, também, uma garantia constitucional de correção de eventuais erros judiciais, devendo ser harmonizada com a coisa julgada, uma vez inexistente hierarquia entre direitos e garantias individuais, na medida em que o bem comum é o almejado.
+Assim, via de regra, a coisa julgada prevalece, mas em situações excepcionais, é permitida a utilização da revisão criminal para sanar eventual erro judiciário.
+Ora, a revisão criminal com fulcro no inc. I do art. 621 do CPP exige demonstração clara e direta da contrariedade do julgado à letra da lei e aos elementos probatórios existentes nos autos, mister do qual não se desincumbiu o requerente, restando evidenciada a pretensão de rediscussão da matéria já decidida nos autos, com trânsito em julgado.
+Por fim, cabe frisar que somente é possível o reexame da dosimetria das penas em sede de revisão criminal, nas hipóteses em que reconhecida flagrante injustiça e/ou ilegalidade (TRF4, REVISÃO CRIMINAL Nº 0004922- 52.2011.404.0000, 4ª Seção, Des. Federal PAULO AFONSO BRUM VAZ, POR UNANIMIDADE, D.E. 28/06/2011).
+In casu, verifica-se que o ora requerente Lindolfo é reincidente, ao contrário das razões de revisão, conforme antecedente registrado por tráfico de entorpecentes (e. 251, CERTANTCRIM7 da ação penal), que restou devidamente considerado como agravante, nos termos do art. 61, I, Código Penal, razão pela qual foi aumentada, corretamente, a pena provisória.
+Desse modo, também nesse ponto não há nada a reparar no julgado.
+ ..
+Em tais casos, a jurisprudência desta Corte tem orientado pelo absoluto descabimento do pleito revisional:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO, ASSOCIAÇÃO PARA O TRÁFICO E RECEPTAÇÃO. REVISÃO CRIMINAL INDEFERIDA. PEDIDOS DE ABSOLVIÇÃO, DESCLASSIFICAÇÃO E DOSIMETRIA DA PENA. INCIDÊNCIA DO ÓBICE DA SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA -STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. "A revisão criminal não deve ser adotada como um segundo recurso de apelação, pois o acolhimento da pretensão revisional reveste-se de excepcionalidade, cingindo-se às hipóteses em que a contradição à evidência dos autos seja manifesta, induvidosa, dispensando a interpretação ou análise subjetiva das provas produzidas.  ..  Nessa senda, este "Superior Tribunal de Justiça já pacificou o entendimento no sentido do não cabimento da revisão criminal quando utilizada como nova apelação, com vistas ao mero reexame de fatos e provas, não se verificando hipótese de contrariedade ao texto expresso da lei penal ou à evidência dos autos, consoante previsão do art. 621, I, do CPP" (HC 206.847/SP, Rel. Ministro Nefi Cordeiro, Sexta Turma, julgado em 16/2/2016, DJe 25/2/2016).
+2. O Tribunal a quo considerou, para a manutenção da condenação, o conjunto fático probatório dos autos, não só no tocante ao reconhecimento da culpa do recorrente, como também no que diz respeito à dosimetria da pena. Assim, inviável sua desconstituição pela via do recurso especial, ante a incidência da Súmula n. 7/STJ.
+3. Agravo regimental desprovido.
+(AgRg no AREsp n. 1.807.887/RJ, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 4/10/2021)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. REVISÃO CRIMINAL. SEGUNDA APELAÇÃO. NÃO CABIMENTO.PRECEDENTES. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILILIDADE.INCIDÊNCIA DA SÚMULA 83/STJ.
+1. O Tribunal de origem concluiu pela improcedência do pedido revisional ao fundamento de que a alteração do depoimento de uma das testemunhas não tinha o condão de desconstituir a decisão condenatória já transitada em julgado, sobretudo porque a condenação do recorrente pelo crime de homicídio não estava alicerçada unicamente no relato dessa testemunha, senão em todo o farto acervo probatório produzido nos autos, devidamente sopesado pelo Conselho de Sentença, não havendo violação ao art. 621, II, do CPP.
+2. O acórdão recorrido está em consonância com o entendimento consolidado desta Corte, de que não cabe revisão criminal quando utilizada como nova apelação, com vistas ao mero reexame de fatos e provas, quando não verificados os pressupostos previstos no art. 621 do CPP, incidindo o óbice da Súmula 83/STJ.
+3. Tendo a Corte de origem concluído pela existência de prova apta a amparar o édito condenatório, a (eventual) revisão do julgado, para acolher o inconformismo da parte recorrente, importaria revolvimento de matéria fático-probatória, vedado em recurso especial, segundo óbice da Súmula n. 7/STJ. Precedentes.
+4. Agravo regimental improvido.
+(AgRg no AREsp n. 1.781.796/DF, Ministro Olindo Menezes, Desembargador convocado do TRF/1ª Região, Sexta Turma, DJe 27/9/2021)
+Logo, no mérito, o acórdão atacado guarda perfeita harmonia com a orientação jurisprudencial desta Corte.
+Ante o exposto, conheço em parte dowrite, nessa extensão, denego a ordem (art. 34, XVIII,aeb, do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO. WRIT IMPETRADO CONTRA ACÓRDÃO QUE JULGOU A REVISÃO CRIMINAL. PLEITO PELA ABSOLVIÇÃO POR AUSÊNCIA DE PROVAS E, SUBSIDIARIAMENTE, PELO AFASTAMENTO DA REINCIDÊNCIA. INADMISSIBILIDADE. SUPRESSÃO DE INSTÂNCIA. MÉRITO. TESES QUE DESTOAM DA PREVISÃO CONTIDA NO ART. 621 DO CPP. REDISCUSSÃO. SEGUNDA APELAÇÃO. DESCABIMENTO. PRECEDENTES DESTA CORTE.
+Writ conhecido em parte e, nessa extensão, denegada a ordem.
