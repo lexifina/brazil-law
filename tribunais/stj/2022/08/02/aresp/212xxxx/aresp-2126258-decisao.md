@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por OTACÍLIO RAMALHO DOS SANTOS FILHO (OTACILIO), contra decisão que negou seguimento ao seu apelo nobre manejado, por sua vez, contra acórdão do Tribunal de Justiça de Goiás,assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA. TAXAS CONDOMINIAIS. DÉBITO DECLARADO INEXISTENTE POR MEIO DE SENTENÇA PROFERIDA EMAÇÃO JUDICIAL DIVERSA. AFASTAMENTO DA CONDENAÇÃO. CONSIDERAÇÃO DE VALORES EVENTUALMENTE PAGOS NO CÁLCULO PARAABATIMENTO DO DÉBITO. POSSIBILIDADE. SENTENÇA REFORMADA EMPARTE. 1. Comporta acolhida o pedido de afastamento da condenação da parte ré, ora recorrente, ao pagamento de taxas condominiais referentes a débito declarado inexistente por meio de sentença proferida em ação judicial diversa. 2. A jurisprudência do Superior Tribunal de Justiça orienta-se no sentido da admissão da juntada de documentos novos no âmbito da apelação cível, desde que observado o contraditório e ausente a má-fé do recorrente, conforme verificado no caso em apreço. 3. É possível a comprovação, por ocasião do cumprimento de sentença, do eventual pagamento de parcelas condominiais durante a fase de conhecimento, para fins de abatimento no cálculo do quantum debeatur. RECURSO CONHECIDO E PROVIDO(e-STJ, fl. 363).
+Os embargos de declaração opostos por OTACILIOforam acolhidos parcialmente, sem efeito infringente (e-STJ, fls. 382/388).
+Irresignado,OTACILIOinterpôsrecurso especial com base no art. 105, III, alíneasa e c, da CF, apontando a violação aos arts. 85 e 86 do NCPC, ao sustentarque(1)não houve a devida distribuição dos honorários sucumbenciais, pois dado provimento à apelação,inexistindo sucumbência mínima.
+O recurso não foi admitido peloTribunal de Justiça de Goiás (e-STJ, fls. 415/417).
+Nas razões do presente agravo, OTACILIOalegouque os fundamentos da decisão de inadmissibilidade não se sustentam.
+Foiapresentada contraminuta.
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que não merece prosperar.
+(1) Da sucumbência
+OTACILIO assevera quenão houve a devida distribuição dos honorários sucumbenciais, pois dado provimento à apelação, inexistindo sucumbência mínima.
+A questão foi assim examinada pelo Tribunal estadual:
+Depreende-se dos autos que a parte autora ingressou em juízo com a finalidade de obter o adimplemento de taxas condominiais, vencidas e vincendas, referentes às salas comerciais 51-B (período de 15 de março de 2013 a 15 de agosto de 2014), 52-B(período de 15 de abril de 2013 a 15 de agosto de 2014) e 53-B (período de 15 de dezembro de 2009 a 15 de agosto de 2014) do Edifício New Business Style.
+À sentença proferida no primeiro grau de jurisdição (mov. 45), os pedidos iniciais foram julgados procedentes.
+Por ocasião do julgamento da apelação cível (mov. 103), acordaram os componentes da quarta Turma Julgadora da Primeira Câmara Cível deste Tribunal, à unanimidade de votos, em dar provimento ao recurso tão somente para afastar a condenação da parte ré, ora recorrente, ao pagamento das taxas de condomínio referentes à sala B-53 do Edifício Ney Business Style até o mês de julho de 2020, bem como para autorizar a comprovação, por ocasião do cumprimento de sentença, do eventual pagamento de parcelas condominiais durante a fase de conhecimento, para fins de abatimento no cálculo do valor devido (mov. 103).
+Ao realizar um juízo de proporcionalidade entre a amplitude do pedido inicial e a extensão do que foi concedido ao final da lide, verifica-se que a parte autora sucumbiu em mínima parte, razão pela qual a parte ré deve responder, por inteiro, pelas despesas e pelos honorários advocatícios, nos termos do art. 86, parágrafo único, do Código de Processo Civil. Logo, malgrado o provimento do apelo, mantém-se a distribuição dos ônussucumbenciais conforme estabelecido no juízo singular(e-STJ, fls. 384/385).
+O Superior Tribunal de Justiça tem jurisprudência firme no sentido denão se admitir, em sede de recurso especial, a aferição do quantitativo em que autor eréu saíram vencidos na demanda ou a verificação de sucumbência mínima ourecíproca para efeito de fixação de honorários advocatícios. Tais questões nãoprescindem do revolvimento de matéria fático-probatória. Incidência da Súmula nº 7, doSTJ.
+Nesse sentido, anotem-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL.CPC/15. AÇÃO DE RESCISÃO CONTRATUAL. COMPRA E VENDA DE IMÓVEL.NEGATIVA DE PRESTAÇÃO JURISDICIONAL E CONTRADIÇÃO. FUNDAMENTAÇÃO RECURSAL DEFICIENTE. ALEGAÇÕES GENÉRICAS. SÚMULA 284/STF. PRETENSÃO DE AFASTAMENTO DA MULTA APLICADA PELA INTERPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO. IMPOSSIBILIDADE DE EXAME. SÚMULA 7/STJ. SÚMULA 98/STJ AFASTADA. ART. 942 DO CPC. TÉCNICA DE JULGAMENTO AMPLIADO.CERCEAMENTO DE DEFESA. INOCORRÊNCIA. REVISÃO. VEDAÇÃO. SÚMULA 7/STJ.ART. 86 DO CPC. AFERIÇÃO DO GRAU DE SUCUMBÊNCIA DE CADA PARTE.REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. INVIABILIDADE. SÚMULA 7/STJ. DECISÃO AGRAVADA MANTIDA.AGRAVO INTERNO DESPROVIDO.
+(AgInt no AREsp n. 1.925.218/MG, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 30/5/2022, DJe de 2/6/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO
+CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DAS DEMANDADAS.
+ ..
+3. Segundo a jurisprudência desta Corte, a aferição do percentual em que cada litigante foi vencedor ou vencido ou a conclusão pela existência de sucumbência mínima ou recíproca das partes é questão que não comporta exame em recurso especial, por envolver aspectos fáticos e probatórios, aplicando-se à hipótese a Súmula 7/STJ.
+4. Revela-se defesa a oposição simultânea de dois recursos contra o mesmo ato judicial, ante o princípio da unirrecorribilidade e a ocorrência da preclusão consumativa, o que demanda o não conhecimento da segunda insurgência.
+5. Primeiro agravo interno desprovido. Segundo agravo interno não conhecido por violação ao princípio da unirrecorribilidade recursal e ocorrência da preclusão consumativa.
+(AgInt no AREsp 866.420/MS, Rel. Ministro MARCO BUZZI, Quarta Turma, j. em 20/02/2020, DJe 03/03/2020.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃOORDINÁRIA CUMULADA COM INDENIZATÓRIA. 1. VIOLAÇÃO ADISPOSITIVO DA CONSTITUIÇÃO. IMPOSSIBILIDADE. 2.CERCEAMENTO DE DEFESA. SUFICIÊNCIA DE PROVASATESTADA PELAS INSTÂNCIAS ORDINÁRIAS. LIVRECONVENCIMENTO MOTIVADO DO JULGADOR. INVERSÃO DOJULGADO. IMPOSSIBILIDADE. REEXAME DE PROVAS. SÚMULA7/STJ. 3. CONDENAÇÃO AO PAGAMENTO DE LUCROSCESSANTES. IMPOSSIBILIDADE. INCIDÊNCIA DAS SÚMULAS 5 E7 DO STJ. 4.QUANTUM INDENIZATÓRIO. OBSERVÂNCIA DOSPRINCÍPIOS DA RAZOABILIDADE E DA PROPORCIONALIDADE.SÚMULA 7/STJ. 5. DISTRIBUIÇÃO DOSHONORÁRIOS.SUCUMBÊNCIA RECÍPROCA. REVISÃO. ÓBICE DASÚMULA 7/STJ. 6. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. 7.AGRAVO IMPROVIDO.
+ ..
+5. De acordo com a jurisprudência do STJ, a aferição dopercentual em que cada litigante foi vencedor ou vencido, ou aconclusão pela existência de sucumbência mínima ou recíprocadas partes, é questão que não comporta exame em recursoespecial, por envolver aspectos fáticos e probatórios, aplicando-se à hipótese o enunciado sumular n. 7/STJ.
+6. A aplicação do enunciado n. 7 da Súmula do STJ à insurgênciafulcrada na alínea a do permissivo constitucional também impede oconhecimento do recurso baseado na divergência jurisprudencial,porquanto as conclusões dissonantes decorreriam das circunstânciasespecíficas de cada processo, e não do entendimento diverso sobreuma mesma questão jurídica.
+7. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1378591/BA, Rel. Ministro MARCO AURÉLIOBELLIZZE, Terceira Turma, j.em 09/12/2019, DJe 12/12/2019.)
+O recurso, portanto, não mereceser conhecido quanto ao ponto.
+Nessas condições, CONHEÇOdo agravo para NÃOCONHECERdo recurso especial.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL.AGRAVO EM RECURSO ESPECIAL INTERPOSTO NA ÉGIDE DO NCPC.AÇÃO DE COBRANÇA. TAXAS CONDOMINIAIS. SUCUMBÊNCIA. GRAU DE DECAIMENTO DE CADA PARTE. NECESSIDADE DE ANÁLISE DE PROVAS. IMPOSSSIBILIDADE. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ.AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO E NÃO PROVIDO.
