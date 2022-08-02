@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se dehabeas corpus,com pedido liminar, impetrado em favor deFrancisca Alves dos Passos, apontando-se como autoridade coatora o Tribunal de Justiça de São Paulo (Agravo em Execução n.0002764-64.2022.8.26.0041).
+Nestemandamus, alega-se que o Juízode primeiro grau indeferiu o pedido de remição da pena pelo estudo em favor da paciente, em razão da aprovação em quatrodas cincomatériasdo ENCCEJAno ano de 2019.
+Sustenta-se que,no caso em tela, a paciente obteve aprovação em 4, das 5 áreas, fazendo jus à remição de 104 dias(fl. 8).
+Requer-se, inclusive liminarmente, a revogação dadecisão que não concedeu as remições parciais à paciente, sendo considerado o atestado apresentado pela paciente, considerando a remição nas 4 competências em que obteve aprovação, remindo de sua pena 104 dias, aplicando o art.126, inciso I e § 5º, da Lei de Execução Penal, além do art.3º, Parágrafo Único, Resolução n. 391/2021, do Conselho Nacional de Justiça, conforme entendimento do Superior Tribunal de Justiça(fl. 10).
+Indeferida a liminar, prestadas informações de praxe, o Ministério Público Federal opinou pela concessão da ordem.
+É o relatório.
+A jurisprudência desta Corte Superior tem se posicionado pelainterpretação extensiva do art. 126 da Lei de Execuções Penais, de modo acompatibilizá-lo com as disposições da Recomendação n.44/2013 do Conselho Nacional de Justiça (revogada pela Resolução n.391/2021 do mesmo Conselho), com claro intuito de estimular a ressocialização de condenados que busquem a elevação de sua escolaridade.
+Em outras palavras,esta Corte Superior de Justiça firmou entendimento e tem admitido a possibilidade de abreviação da reprimenda em razão de atividades que não estejam expressas no texto legal, como resultado de uma interpretação analógica in bonam partem da norma inserta no art. 126 da LEP. De outro lado, a Recomendação n. 44/2013 do CNJ indica aos Tribunais a possibilidade de remição por aprovação nos exames nacionais que certificam a conclusão do ensino fundamental - Exame Nacional para Certificação de Competências de Jovens e Adultos (ENCCEJA) - ou médio - Exame Nacional do Ensino Médio (ENEM). Verifica-se, portanto, que o objetivo deste conjunto de regras acerca da remição da pena por aproveitamento dos estudos é o de incentivar os apenados aos estudos, bem como sua readaptação ao convívio social(AgRg no HC n. 559.981/PR, Ministro Ribeiro Dantas, Quinta Turma,DJe 2/3/2020)
+Nesse passo,não há dúvida de que o benefício da remição deve ser aplicado no caso dos autos, tendo em vista que a aprovação parcial dapaciente no ENEM configura aproveitamento dos estudos realizados durante a execução da pena, conforme acima mencionado.
+Assim, mister reconhecer o esforço da apenada, que logrou a aprovação nos exames reconhecidos pelo Ministério da Educação(REsp n.1.854.391/DF,Ministra Laurita Vaz, Sexta Turma, DJe 6/10/2020)
+Portanto,diante da possibilidade de interpretação extensiva in bonam partem, entende-se que cabe a remição até mesmo para presos que estudam por conta própria, não havendo falar em afastamento da possibilidade da concessão da benesse aos apenados que estejam vinculados a atividades regulares de ensino no interior do estabelecimento(HC n. 361.462/DF, Ministro Ribeiro Dantas, Quinta Turma,DJe 25/5/2017).
+Com efeito, quanto ao número de dias remidos, a Terceira Seção do Superior Tribunal de Justiça pacificou a questão no julgamento do HC n. 602.425/SC, estabelecendo que a base de cálculo para remição toma critério a carga horária prevista na Lei de Diretrizes e Bases da Educação (Lei n. 9.394/1996). Assim, quando a Resolução 44/2013 do Conselho Nacional de Justiça menciona as cargas horárias de 1.600h para o ensino fundamental e 1.200h para o ensino médio, já está considerando o percentual de 50%.
+No caso, a reeducandafoi aprovadaem quatro das cinco áreas de conhecimento do ENCCEJA, razão pela qual, conforme a jurisprudência dominante nesta Corte Superior, tem direito à remição de 104 dias de pena.
+Nesse sentido, a propósito, o HC n. 625.383/SC, Ministro Felix Fisher, Quinta Turma, DJe 15/12/2020.
+Ante o exposto,concedoa ordema fim de reconhecer o direito dapacienteà remição de 104 dias de pena, pela aprovação em quatro das cinco áreas de conhecimento do ENCCEJA.
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO. REMIÇÃO DA PENA. APROVAÇÃO PARCIAL NO ENCCEJA. INTERPRETAÇÃO EXTENSIVA IN BONAM PARTEM. POSSIBILIDADE. MANIFESTA ILEGALIDADE VERIFICADA.
+Ordem concedida nos termos do dispositivo.
