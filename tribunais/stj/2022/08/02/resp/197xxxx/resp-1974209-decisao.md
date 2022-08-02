@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se derecurso especial interposto em face de acórdão assim ementado (fl. 164):
+PLANO DE SAÚDE - AÇÃO DE OBRIGAÇÃO DE FAZER - Demanda que busca a cobertura de tratamento quimioterápico do autor (mediante o fornecimento dos medicamentos IPILIMUMABE e NIVOLUMABE) - Decreto de procedência - Inocorrência de cerceamento de defesa - Desnecessária dilação probatória para deslinde da controvérsia - Necessidade do autor demonstrada (portador de melanoma maligno, com recidiva inoperável), sendo expressamente recomendado o tratamento mediante o uso das drogas acima referidas, pelo profissional que o assiste - Não cabe ao plano de saúde questionar a eficácia do tratamento prescrito pelo médico. Inteligência das Súmulas 95, 96 e 102 deste E. Tribunal de Justiça. Agência reguladora que não pode limitar a cobertura de forma a tornar inócuo o tratamento do paciente - Cobertura devida - Súmulas 95, 96 e 102 deste E. Tribunal de Justiça - Sentença mantida - Recurso improvido.
+Opostos embargos de declaração, foram rejeitados.
+A parte recorrente aponta violação dos arts. 7º,369, 489, § 4º, inciso I, e 1.022 do Código de Processo Civil; do art. 4º da Lei nº 9.661/2000; e de dispositivos, não indicados, da Lei nº 9.656/1998.
+Alega queo acórdão recorrido padece de omissão, pois não se manifestou acerca da necessidade de realização de junta médica para comprovar o alegado erro na prescrição do medicamento.
+Sustenta que o julgamento antecipado do feito, em primeira instância, impediu a realização de provas imprescindíveis ao julgamento da causa, o que teria prejudicado o exercício do contraditória e da ampla defesa da recorrente.
+Defende alegalidade e necessidade derealização de junta médicapara dirimir divergência técnica existente sobre a prescrição do medicamento ao paciente, nos termos da RN nº 424/2017,da Agência Nacional de Saúde Suplementar - ANS, e da Resolução nº 8/1998, do Conselho de Saúde Suplementar do Ministério da Saúde.
+A parte recorrida apresentou contrarrazões.
+Assim delimitada a controvérsia, passo a decidir.
+A propósito, anoto que a Súmula 568 desta Corte Superior dispõe que: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Anoto, preliminarmente, que a causa foi decidida de modo fundamentado, pois o Tribunal de origem enfrentou coerentemente as questões postas a julgamento, no que foi pertinente e necessário, explicitando motivação concreta e suficiente para o deslinde da controvérsia e concluindo pela "desnecessidade de dilação probatória para deslinde da controvérsia" (fl. 165), razão pela qual o julgado não merece reparo algum.
+Com efeito, nos termos da pacífica jurisprudência desta Corte Superior, não se exige do julgador a análise de todos os argumentos apresentados pelas partes, a fim de expressar o seu convencimento. Na espécie, o pronunciamento acerca dos fatos controvertidos, a que o magistrado está obrigado, encontra-se objetivamente fixado nas razões do acórdão recorrido, motivo pelo qual rejeito a alegação de ofensa aos arts. 489 e 1.022 do Código de Processo Civil.
+Exemplificativamente:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. ART. 1.022 DO CPC. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE, ERRO MATERIAL. AUSÊNCIA.
+1. Os embargos de declaração, conforme dispõe o art. 1.022 do CPC, destinam-se a suprir omissão, afastar obscuridade, eliminar contradição ou corrigir erro material existente no julgado, o que não ocorre na hipótese em apreço.
+ ..
+3. O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida.
+4. Embargos de declaração rejeitados.
+(EDcl no AgRg nos EREsp 1.483.155/BA, Rel. Ministro OG FERNANDES, CORTE ESPECIAL, julgado em 15/06/2016, DJe 03/08/2016).
+Por outro lado,observo que o acórdão recorrido não discorreu sobre o conteúdo normativo dos arts. 7º e369do CPC e 4º da Lei nº 9.661/2000, apontados como violados, nema recorrentepediu que o Tribunal de origem se manifestasse sobre os referidos dispositivos legais, revelando-se inviável, portanto, a análise de eventual afronta à legislação indicada no recurso, ante a ausência de prequestionamento da matéria. Assim, não obstante a oposição de embargos de declaração na origem, incide à espécie o verbete da Súmula 211 do STJ.
+A propósito, confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM INDENIZAÇÃO. CUMPRIMENTO DE SENTENÇA. DECISÃO QUE INDEFERIU A PENHORA DE IMÓVEL DO EXECUTADO. IMPENHORABILIDADE DO BEM DE FAMÍLIA. EXTINÇÃO PROCESSUAL. FALTA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. FUNDAMENTOS DO ACÓRDÃO RECORRIDO NÃO IMPUGNADOS. INCIDÊNCIA DA SÚMULA 283/STF. AGRAVO INTERNO NÃO PROVIDO.
+1. Fica inviabilizado o conhecimento de tema trazido no recurso especial, mas não debatido e decidido nas instâncias ordinárias, não obstante a oposição de embargos declaratórios, porquanto ausente o indispensável prequestionamento. Incidência da Súmula 211 do STJ.
+ ..
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.675.087/SP, Rel. Ministro Raul Araújo, Quarta Turma, DJe 22/03/2021.)
+Por fim, anoto que os argumentos apresentados pela parte recorrente estão dissociados dos fundamentos do acórdão recorrido. Assim, a deficiência das razões do recurso especial inviabiliza a sua admissão, ante a incidência, por analogia, da Súmula 284 do Supremo Tribunal Federal.
+Com efeito, "é deficiente a fundamentação do recurso especial quando traz dispositivo legal impertinente ao tema suscitado em suas razões e dissociado dos fundamentos do acórdão recorrido, a atrair as disposições do verbete n. 284 da Súmula do Supremo Tribunal Federal" (AgInt no AREsp n. 1.551.305/GO, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 1/6/2020, DJe de 5/6/2020.)
+Em face do exposto, nego provimento ao recurso.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites previstos nos §§ 2º e 3º do referido dispositivo legal.
+Intimem-se.
