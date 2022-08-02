@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de recurso especial interposto pela UNIVERSIDADE FEDERAL DE PERNAMBUCO contra acórdão proferido peloTRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃOassim ementado:
+PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. JUROS E CORREÇÃO MONETÁRIA DE ACORDO COM O MANUAL DE CÁLCULOS DA JUSTIÇA FEDERAL. PRESCRIÇÃO. INOCORRÊNCIA. CORREÇÃO MONETÁRIA. UFIR. AÇÕES CIVIS FAZENDÁRIAS. PREVISÃO NO MANUAL DE CÁLCULOS. JUROS DE MORA. INCIDÊNCIA DE JUROS SOBRE PARCELAS PAGAS ADMINISTRATIVAMENTE. POSSIBILIDADE. JUSTIÇA GRATUITA. PESSOA JURÍDICA. AUSÊNCIA DE COMPROVAÇÃO DA IMPOSSIBILIDADE DE ARCAR COM AS DESPESAS PROCESSUAIS. SÚMULA 418 DO STJ.
+Os embargos de declaração foram rejeitados.
+No recurso especial, fundamentado na alínea "a" do permissivo constitucional, o recorrente sustenta violação aos art. 1.º do Decreto-Lei n.º 20.910/32 c/c o art. 2.º do Decreto-Lei n.º 4.597/42; arts. 219 e 617 do CPC/73, atuais 240, caput e §1.º e 802 do CPC/15, além dos arts. 726 e 727 do CPC/15.
+Aduz que ocorreu o escoamento do lustro prescricional da execução, tendo em vista a ausência de causas de interrupção da prescrição, bem como que o termo inicial para a execução é a do trânsito em julgado do título executivo.
+Contrarrazões ao recurso especial às fls. 1294/1299.
+Decisão de admissibilidade à fls. 1687/1688.
+É o relatório. Decido.
+A pretensão não merece acolhimento.
+Consta do v. acórdão de origem:
+Extrai-se dos documentos acostados aos autos que a sentença condenatória transitou em julgado em 02.03.2007, bem como que a parte embargada apenas em 01.08.2014 veio a juízo requerer a execução das diferenças. Ocorre que antes de expirado o prazo quinquenal para ajuizamento da execução pelos substituídos, o Sindicato da categoria ajuizou medida cautelar de protesto, tendo a prazo prescricional sido interrompido em 07.02.2012, razão pela qual não há que se cogitar de ocorrência da prescrição. O Superior Tribunal de Justiça já decidiu no sentido de que, "ajuizado pelo Sindicato da categoria o protesto interruptivo dentro do prazo prescricional para o ajuizamento das execuções pelos substituídos, verifica-se a interrupção da prescrição, que recomeça a correr pela metade do prazo (STJ, AgRg no REsp1.065.311/RS, Rel. Ministra LAURITA VAZ, QUINTA TURMA, DJe de 03/11/2008)." (AGRESP200901977561, ASSUSETE MAGALHÃES, STJ - SEXTA TURMA, DJE DATA:28/02/2014.)
+Com efeito, a orientação jurisprudencial deste Superior Tribunal de Justiça está no sentido de que uma vez ajuizado o protesto interruptivo pelo respectivo sindicado da classeno período do prazo prescricional da propositura dasexecuções pelos substituídos, há a interrupção da prescrição, reiniciando-se a contagem considerando a metade do prazo.
+Senão vejamos:
+ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. EXECUÇÃO DE SENTENÇA PROFERIDA EM AÇÃO COLETIVA. PRAZO PRESCRICIONAL. TERMO INICIAL. TRÂNSITO EM JULGADO DA SENTENÇA CONDENATÓRIA. SÚMULAS 150 E 383 DO STF. PROTESTO INTERRUPTIVO AJUIZADO PELO SINDICATO DA CATEGORIA. AGRAVO REGIMENTAL IMPROVIDO.
+I. Nos termos da jurisprudência do Superior Tribunal de Justiça (a) "o prazo prescricional da pretensão executória contra a Fazenda Pública é de cinco anos, contados a partir do trânsito em julgado da sentença condenatória no processo coletivo, em conformidade com a Súmula 150/STF" (STJ, AgRg no AgRg no REsp 1.347.713/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 04/06/2013);
+e (b) "ajuizado pelo Sindicato da categoria o protesto interruptivo dentro do prazo prescricional para o ajuizamento das execuções pelos substituídos, verifica-se a interrupção da prescrição, que recomeça a correr pela metade do prazo" (STJ, AgRg no REsp 1.065.311/RS, Rel.
+Ministra LAURITA VAZ, QUINTA TURMA, DJe de 03/11/2008).
+II. No caso, a ação coletiva transitou em julgado em 08/09/1999, em 30/08/2004 foi ajuizado protesto interruptivo da prescrição e a execução de sentença foi ajuizada, pelos recorrentes, em 24/04/2006, pelo que não há falar em prescrição, à luz das Súmulas 150 e 383 do STF.
+III. Agravo Regimental improvido.
+(AgRg no REsp n. 1.161.355/RS, relatora Ministra Assusete Magalhães, Sexta Turma, julgado em 6/2/2014, DJe de 28/2/2014.)
+PROCESSUAL CIVIL. EXECUÇÃO DE TÍTULO EXECUTIVO JUDICIAL OBTIDO EM AÇÃO COLETIVA. PRESCRIÇÃO. PROTESTO. INTERRUPÇÃO.
+1. Nos termos da Súmula 150/STF, os prazos prescricionais para ação de conhecimento e de execução são idênticos.
+2. O prazo prescricional para a propositura da ação executiva contra a Fazenda Pública é de cinco anos, a partir do trânsito em julgado da sentença condenatória.
+3. O lapso prescricional é interrompido na data em que protocolado protesto, recomeçando a correr pela metade.
+4. O Tribunal de origem não reconheceu a existência da prescrição com base nos seguintes fundamentos: ".. o Sindicato ajuizou Protesto Interruptivo de prescrição, em 27/05/2005 (fls.58), há menos de 05 (cinco) anos da data em que foi determinado que as execuções deveriam ser individuais. Sendo que a execução foi ajuizada em 06/06/2007 (fl.44), não há que falar-se em prescrição, uma vez que o lapso temporal transcorrido, foi inferior a dois anos e meio da interrupção da prescrição" (e-STJ fls. 8-9). Desse modo, proposta a execução antes do transcurso do novo prazo (dois anos e meio), deve ser afastada a alegação de prescrição. Precedentes.
+5. Agravo regimental não provido.
+(AgRg no Ag n. 1.316.594/PR, relator Ministro Castro Meira, Segunda Turma, julgado em 5/10/2010, DJe de 19/10/2010.)
+ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. SERVIDOR PÚBLICO CIVIL. REAJUSTE DE 28,86%. EXECUÇÃO. PRESCRIÇÃO. PROTESTO INTERRUPTIVO. PRECEDENTES DO STJ. AGRAVO IMPROVIDO.
+1. "Ajuizado pelo Sindicato da categoria o protesto interruptivo dentro do prazo prescricional para o ajuizamento das execuções pelos substituídos, verifica-se a interrupção da prescrição, que recomeça a correr pela metade do prazo. Propostas as ações judiciais antes do fim do novo interregno, é de ser afastada a alegação de prescrição" (AgRg no REsp 106.5311/RS, Rel. Min. LAURITA VAZ, Quinta Turma, DJ 3/11/08).
+2. A renúncia decorrente da edição da MP 1.704/98 refere-se ao prazo para ajuizamento da ação de conhecimento, na qual se postula o direito subjetivo ao reajuste de 28,86%. Não guarda relação de pertinência com o prazo para propositura da execução, para o qual deve ser observada a Súmula 150/STF. Por conseguinte, não há falar, na hipótese, em ocorrência de dupla interrupção de prazo prescricional.
+3. Agravo regimental improvido.
+(AgRg no REsp n. 1.097.291/RS, relator Ministro Arnaldo Esteves Lima, Quinta Turma, julgado em 16/3/2010, DJe de 19/4/2010.)
+Nesse contexto, verifica-se que, para se adotar qualquer conclusão em sentido contrário ao que ficou expressamente consignado no acórdão atacado  e se reconhecer a ocorrência da prescrição , é necessário o reexame de matéria de fato, inclusive com o cotejamento de peças processuais,o que é inviável em sede de recurso especial, tendo em vista o disposto na Súmula 7/STJ.
+Na forma da jurisprudência, "o cotejo de peças processuais não envolve qualquer análise jurídica, mas sim puramente fática, o que é vedado em sede de recurso especial, nos termos da Súmula 7/STJ" (STJ, AgRg no AREsp 682.099/AM, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, DJe de 25/10/2016). Em igual sentido: STJ, AgInt no AREsp 1.160.527/SP, Rel. Min. MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 07/03/2018; AgInt no REsp 1.506.498/PR, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 28/08/2018.
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. EXECUÇÃO. PRESRIÇÃO. PROTESTO INTERRUPTIVO. SINDICATO. QUESTÃO ATRELADA AO REEXAME DA MATÉRIA DE FATO. ÓBICE DA SÚMULA 07/STJ. RECURSO ESPECIAL NÃO CONHECIDO.
