@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo interposto porIvan VerdugoMacielcontra a decisão proferida pelo Tribunal de Justiça de Mato Grosso do Sul, que inadmitiu o recurso especial por eleapresentado, com fundamento no art. 105, III,a, da Constituição Federal, contra o acórdão prolatado na Apelação Criminal n. 0009567-02.2011.8.12.0021.
+Nas razões do recurso especial (fls. 406/415), a defesa aponta como violados os arts.5º, LV, LIV e LVII, e 93, IX, da Constituição Federal,386, VII, do Código de Processo Penal e 33 e 59 do Código Penal.
+Apresentadas contrarrazões (fls. 422/425), orecurso especial foi inadmitido pela Corte de origem (fls. 427/434). Contra tal decisãofoi interposto o agravo em análise (fls. 440/445), com contraminuta ofertada às fls. 462/464.
+O Ministério Público Federal emitiu parecer opinando pelo conhecimento do agravo para negar seguimento ao recurso especial (fls. 477/485).
+É o relatório.
+De plano, registro que o recurso especial é meio destinado a averiguar violação de texto de legislação infraconstitucional. Com efeito, não é possível a esta Corte analisar pretensa violação a dispositivos constitucionais, que é matéria afeta ao Supremo Tribunal Federal (AgRg na PET no AREsp n. 1.647.441/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 12/11/2020).
+Quanto ao mais, anoto que a pretendida absolvição por insuficiência de provas foi afastada considerando que a tese de negativa de autoria está amparada em elementos inconsistentes de convencimento, os relatos dos policiais que atuaram no momento da apreensão da droga são coesos e convincentes no sentido de que o apelante residia no imóvel e era o proprietário das 90 porções de crack escondidas no interior de um tênis que estava no quarto que ocupava (fl. 396).
+E, nesse contexto, a reversão da conclusão alcançada é pleito que exige revolvimento fático-probatório, incabível na via eleita.Nesse sentido: AgRg no AREsp n. 1.074.107/MG, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 30/5/2017; e HC n. 392.152/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 10/5/2017.
+Por fim, no tocante ao pedido de abrandamento do regime inicial, observo o desencontro das razões recursais com os termos adotados no acórdão combatido.
+Com efeito, o regime mais gravoso fora fixado, não em razão da quantidade de droga apreendida como argumenta o recorrente, mas, sim, tendo em vistaos maus antecedentes do apelante, representados por condenações definitivas por delitos praticados antes e depois dos fatos aqui analisados(fl. 398).
+Logo, no ponto, tenho que as razões recursais se encontram dissociadas dos termos do acórdão guerreado, o que atrai o óbice da Súmula 284/STF. A propósito: AgRg no Ag n. 1.429.415/MG, Ministro Marco Aurélio Bellizze, Quinta Turma, DJe 4/10/2012;RMS n. 16.290/GO, Ministro José Delgado, Primeira Turma, DJ 15/9/2003; e REsp n. 956.037/RN, Ministro Teori Albino Zavascki, Primeira Turma, DJe 26/3/2009.
+Ante o exposto, com base no art. 253, II,a, do RISTJ,conheçodo agravo paranão conhecer do recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. CRIME DE TRÁFICO DE DROGAS. APREENSÃO DE 19,69 G DE CRACK. VIOLAÇÃO DE DISPOSITIVO CONSTITUCIONAL. IMPOSSIBILIDADE DE ANÁLISE PELA VIA ELEITA. PLEITO DE ABSOLVIÇÃO POR INSUFICIÊNCIA PROBATÓRIA. ANÁLISE QUE EXIGE REVOLVIMENTO FÁTICO. SÚMULA 7/STJ. PEDIDO DE ABRANDAMENTO DO REGIME INICIAL. RAZÕES DISSOCIADAS DOS TERMOS DECIDIDOS. INCIDÊNCIA DA SÚMULA 284/STF.
+Agravo conhecido para não conhecer do recurso especial.
