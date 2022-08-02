@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de petição na qual oGRUPO DE ATUAÇÃO ESTRATÉGICA DAS DEFENSORIAS PÚBLICAS ESTADUAIS E DISTRITAL NOS TRIBUNAIS SUPERIORES - GAETSpostula sua admissão no feito como amicus curiae.
+Nas razões do pedido, o Peticionante destaca que possui representatividade adequada e pode contribuir com informações importantes para o debate, pois "a incidência da Lei Antidrogas (Lei 11.343/06) se traduz em 29,41% do aprisionamento em celas físicas de nosso país" (fl. 1.355), constituindo-se a maior parte dessa população carcerária em pessoas assistidas pelas Defensorias Públicas estaduais e distrital.
+Assim, argumenta queas Defensorias Públicas dos Estados e do Distrito Federal poderão contribuir com o debate processual, trazendo dados e informações a partir de sua vasta atuação na área da defesa criminal.
+Em caso de admissão, o Peticionante apresenta, desde já, sua manifestação quanto ao mérito da controvérsia, defendendo "a fixação da tese que afaste a possibilidadede, por si só, a existênciade inquéritos e açõespenaisem curso ser empregada para negar a aplicaçãodo art.33, § 4.º, da Lei n. 11.343/2006" (fl. 1.367).
+É o relatório Decido.
+Nos termos do art. 138 do Código de Processo Civil, o Relator poderá admitir, como amicus curiae,pessoa natural ou jurídica, órgão ou entidade especializada, com representatividade adequada,definindoos seus poderesna decisão de admissão.
+No caso, observo que o Peticionante, entidade especializada instituída peloColégio de Defensores Públicos-Gerais, possui representatividade adequada, uma vez que a aplicaçãoda tese repetitiva relativa à interpretação da da Lei de Drogasterá relevanteimpactosobre a atuação institucional das defensorias públicas estaduais e distrital por ele representadas.
+Ressalte-se que a atuação do Peticionante tem sido admitida pela Terceira Seção desta Corte Superior em julgamentos relativos à aplicação da lei penal com especial incidência sobre a população juridicamentevulnerável, como ocorre na espécie. Nesse sentido:REsp 1.708.301 (Relator Min. Sebastião Reis Júnior),REsp 1.959.697 (Relator Min. Ribeiro Dantas) eRHC 131.263/GO (Relator Min. Sebastião Reis Júnior).
+Por fim, quanto à definição doslimites da atuação do amicus curiae, esclareço que o Peticionante poderá manifestar-se por escrito, admitindo-se as razões de mérito já apresentadas com a petição de ingresso, bem como realizar sustentaçãooral, observando-se que apautade julgamento já foi publicada (fl. 1.351) e não haverá nova publicação.
+Ante o exposto, DEFIRO o pedido de ingresso como amicus curiae, nos termos acima explicitados.
+Publique-se. Intimem-se.
+EMENTA
+PEDIDO DE INGRESSO DE AMICUS CURIAE.GRUPO DE ATUAÇÃO ESTRATÉGICA DAS DEFENSORIAS PÚBLICAS ESTADUAIS E DISTRITAL NOS TRIBUNAIS SUPERIORES - GAET. REPRESENTATIVIDADE ADEQUADA. PERTINÊNCIA TEMÁTICA.PEDIDO DEFERIDO.
