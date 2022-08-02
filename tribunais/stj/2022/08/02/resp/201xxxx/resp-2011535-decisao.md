@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso especial interposto por FÁBIO SILVA,com fundamento no art. 105, inciso III, alíneas"a" e "c", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+TRÁFICO DE DROGAS - AUTORIA E MATERIALIDADE COMPROVADAS - DEPOIMENTOS PRESTADOS EM JUÍZO POR POLICIAIS - VALIDADE - ABSOLVIÇÃO - IMPOSSIBILIDADE - IMPOSSIBILIDADE - REDUÇÃO DA FRAÇÃO DA AGRAVANTE DA REINCIDÊNCIA - DISCRICIONARIEDADE DO MAGISTRADO SINGULAR - PENA DOSADA SOB OS PRINCIPIOS DA RAZOABILIDADE E PROPORCIONALIDADE - IMPOSSIBILIDADE - DECOTE DA CAUSA DE AUMENTO PREVISTA NO ARTIGO 40, VI, DA LEI 11.343/06 - INVIABILIDADE - ISENÇÃO DO PAGAMENTO DAS ÇUSTAS PROCESSUAIS - INDEFERIMENTO.
+- Comprovadas a materialidade e a autoria delitivas, e inexistindo causas de exclusão da Ilicitude ou da culpabilidade, mister seja mantida a condenação do apelante pela prática do delito de tráfico ilícito de entorpecentes.
+- Os depoimentos prestados por policiais possuem validade como se quaisquer outras testemunhas fossem, sendo, ademais, profissionais preparados para informar os fatos de que participaram.
+- Apoiado na discricionariedade e nas circunstancias que amparam o caso concreto, o julgador deve dosar a pena apoiado nos princípios da proporcionalidade e da razoabilidade.
+- Tendo em vista a existência de documento hábil a comprovar a menoridade do adolescente envolvido na prática delituosa, inviável proceder ao decote da causa de aumento prevista no art. 40, inciso VI, da Lei nº 11.343106.
+- A concessão da Justiça gratuita e a suspensão da exigibilidade de sua cobrança deverão ser examinadas pelo Juízo da Execução, por não ser este o momento apropriado. (e-STJ fl. 456)
+Aponta a defesa a violação do artigo 61, IdoCódigo Penal, alegando, em síntese, que o aumento da pena em razão da reincidência na fração de 1/5 (um quinto) se revela desproporcional, devendo ser utilizada a fração de 1/6 (um sexto).
+Apresentadas contrarrazões às e-STJ fls. 480/484.
+O Tribunal a quo admitiu o recurso especial.
+Manifestação do Ministério Público Federal pelo provimentodo recurso especial às e-STJ fls. 498/501.
+É o relatório. Decido.
+O recurso merece acolhida.
+No que tange ao patamar de aumento das agravantes, a lei não estabelece os percentuais de fração de diminuição e de aumento que devem ser utilizados. Em decorrência, a jurisprudência desta Corte Superior firmou-se no sentido de que a fração de 1/6, mínima prevista para as majorantes e minorantes, deve guiar o julgador no momento da dosimetria da pena, de modo que, em situações específicas, é permitido o aumento superior a 1/6, desde que haja fundamentação concreta.
+Nessa linha, os seguintes julgados:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DECISÃO AGRAVADA. RECONSIDERAÇÃO. FUNDAMENTOS IMPUGNADOS. CONHECIMENTO. ART. 180 DO CP E ART. 309 DO CTB. DELITO DE RECEPTAÇÃO. PENA-BASE. CONSEQUÊNCIAS DO CRIME. AUSÊNCIA DE MAIOR REPROVABILIDADE DA CONDUTA. REINCIDÊNCIA. AUMENTO SUPERIOR A 1/6. AUSÊNCIA DE FUNDAMENTAÇÃO IDÔNEA.
+1. Devidamente impugnados os fundamentos da decisão de inadmissão do recurso especial, é de ser reconsiderada a decisão que não conheceu do agravo, em ordem a que se evolua para o mérito..
+2. Constitui ilegalidade flagrante a valoração negativa de circunstância judicial baseada em fundamento que não resulta em maior gravidade da conduta. Nos termos da jurisprudência desta Corte, o agravamento da pena pela reincidência, em patamar diverso de 1/6, necessita de fundamento concreto, o que não ficou demonstrado.
+3. Agravo regimental provido. Agravo conhecido para prover o recurso especial para fixar a fração de 1/6 pela agravante da reincidência.
+Concessão de habeas corpus de ofício para afastar a vetorial negativa das consequências do delito. Condenação estabilizada em 1 ano e 8 meses de detenção e 11 dias-multa, no regime semiaberto.(AgRg no AREsp n. 1.955.982/GO, Relator Ministro OLINDO MENEZES - Desembargador Convocado do TRF 1ª Região -, Sexta Turma, DJe de 21/3/2022)
+ ..  ROUBO CIRCUNSTANCIADO (ARTIGO 157, § 2º, INCISOS I E II, DO CÓDIGO PENAL). DOSIMETRIA. AGRAVANTE DA REINCIDÊNCIA. QUANTUM DE AUMENTO NÃO ESPECIFICADO NO CÓDIGO PENAL. DISCRICIONARIEDADE VINCULADA. FUNDAMENTAÇÃO. NECESSIDADE. EXISTÊNCIA. DESPROPORCIONALIDADE ENTRE A FRAÇÃO ESCOLHIDA E A MOTIVAÇÃO APRESENTADA. CONDENAÇÃO ANTERIOR PELA PRÁTICA DE TRÁFICO DE DROGAS. REDUÇÃO DA FRAÇÃO PARA 1/6 (UM SEXTO). ILEGALIDADE DEMONSTRADA.
+1. O quantum de aumento pela agravante da reincidência não está estipulado no Código Penal, devendo ser observados os princípios da proporcionalidade, da razoabilidade, da necessidade e da suficiência à reprovação e à prevenção do crime, informadores do processo de aplicação da pena.
+2. Verificando-se a existência de única condenação anterior transitada em julgado, mostra-se inidônea a motivação apresentada para a manutenção do aumento da pena em patamar superior a 1/6 (um sexto), na segunda etapa da dosimetria, pelo reconhecimento da agravante do art. 61, I, do CP. Precedentes do STJ.
+ ..
+3. Habeas corpus não conhecido. Ordem concedida de ofício a fim de reduzir a pena para 5 (cinco) anos e 4 (quatro) meses de reclusão, e multa. (HC 398.613/RJ, Rel. Ministro JORGE MUSSI, Quinta Turma, DJe 28/6/2017)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. DOSIMETRIA. SEGUNDA FASE. AGRAVANTE DE REINCIDÊNCIA. FRAÇÃO SUPERIOR A 1/6. FUNDAMENTAÇÃO CONCRETA APRESENTADA PELAS INSTÂNCIAS ORDINÁRIAS. CIRCUNSTÂNCIAS DO DELITO E GRAVIDADE DA CONDUTA. AGRAVO REGIMENTAL DESPROVIDO.
+1. O cálculo da pena é questão afeta ao livre convencimento do juiz, passível de revisão pelo STJ somente nos casos de notória ilegalidade, para resguardar a observância da adequação, da proporcionalidade e da individualização da pena.
+2. A aplicação de patamar superior a 1/6 em razão da incidência de circunstância agravante exige que o julgador apresente fundamentação idônea, não bastando para tanto que se trate de hipótese de reincidência específica.
+3. A valoração das circunstâncias do delito e da gravidade da conduta a que se refere a condenação transitada em julgado constitui fundamentação concreta apta a autorizar o agravamento da pena, na segunda fase da dosimetria, em fração maior ao mínimo legal.
+4. Agravo regimental desprovido.(AgRg no REsp n. 1.952.201/TO, Relator Ministro JOÃO OTÁVIO DE NORONHA, Quinta Turma, DJe de 21/2/2022)
+Na espécie, na segunda fase da dosimetria, a pena foi aumentada em 1/5 (um quinto), sem qualquer fundamentação concreta. Sendo assim, seguindo a orientação jurisprudencial desta Corte, deve-se aplicar o aumento em 1/6 (um sexto), resultando a pena em 6 anos, 9 meses e 20 diasde reclusão.
+Ante o exposto, com fundamento no art. 932, inciso V, alínea "a", do CPC, e no art. 255, § 4º, inciso III, do RISTJ, e na Súmula n. 568/STJ, dou provimento ao recurso especial para reduzir a pena do recorrente para6 anos, 9 meses e 20 dias de reclusão.
+Intimem-se.
