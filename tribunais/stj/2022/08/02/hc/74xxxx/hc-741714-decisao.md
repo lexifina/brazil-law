@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido liminar, impetrado em favor dePauloHenrique Mendes dos SantoseCláudio Karino Silva do Nascimento, apontando-se como autoridade coatora o Tribunal de Justiça do Rio de Janeiro (Apelação Criminaln. 0256746-66.2018.8.19.0001).
+Infere-se dos autos que o Juízo de Direito da 2ª Vara Criminalda comarca de Cabo Frio/RJ condenou os pacientes como incursos no arts. 33,caput, e 35,caput, ambos da Lei n. 11.343/2006, àspenasde 8 anos de reclusão, em regime fechado, e 1.200 dias-multa (paciente Paulo Henrique), e de 8 anos e 6 meses de reclusão, em regime fechado, e 1.316 dias-multa (pacienteCláudio Karino) -fls. 33/45.
+À apelação defensiva o Tribunal de origem deu parcial provimento para,mantido o juízo de reprovação tão somente quanto ao crime de tráfico ilícito de entorpecentes,condenar ambos os acusados às penas de 04 anos e 02 meses de reclusão, em regime semiaberto, e 416 dias-multa(fl. 65).
+Nestewrit, a defesa alega, em síntese, constrangimento ilegal na dosimetria da pena e pede, ao final, a concessão liminar da ordempara que os pacientesaguardem em liberdade o julgamento do writ e, ao final, concedido definitivamente para aplicar a causa de diminuição de pena do art. 33, § 4º da Lei n.11.343/06, em sua fração máxima, com a consequente extinção da punibilidade pelo cumprimento da pena(fl. 12).
+O pedido de liminar foi indeferido (fls. 89/90).
+Prestadas informações (fls. 94/95), o Ministério Público Federal manifestou-se pelapela concessão da ordem de ofício, apenas para aplicar a causa de diminuição de pena do art. 33, § 4º da Lei n. 11.343/06, em sua fração máxima (2/3) - fls. 123/134.
+É o relatório.
+No caso, existe constrangimento ilegal passível de ser reparado pela via eleita.
+Assim,acolho a manifestação do parecerista, deste teor (fls. 125/133- grifo nosso):
+ ..
+Inicialmente, cumpre analisar a existência de ilegalidade flagrante no acórdão impugnado a ensejar a concessão da ordem ofício, mas sem perder de perspectiva a impossibilidade de aprofundado reexame de prova no âmbito restrito do habeas corpus.
+No que tange ao reconhecimento da benesse do tráfico privilegiado, a teor do disposto no §4º do art. 33 da Lei n. 11.343/2006, os condenados pelo crime de tráfico de drogas terão a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrarem organizações criminosas.
+Na origem, o Juízo de primeira instância, ao julgar parcialmente procedente a ação penal, condenou os pacientes Paulo Henrique e Claudio Karino, respectivamente, às penas de 08 anos de reclusão, em regime fechado e pagamento de 1.200 dias-multa, e 08 anos e 06 meses de reclusão, em regime fechado, e pagamento de 1.316 dias-multa, como incursos nos crimes previstos nos artigos 33 e 35, ambos da Lei 11.343/2006, na forma do artigo 69 do Código Penal.
+Na dosimetria, eis o que consignou o Juízo de primeira instância:
+ ..
+A Corte local, a seu turno, deu parcial provimento às apelações defensivas para absolver os pacientes da imputação referente ao crime de associação e fixar a pena definitiva em 04 anos e 02 meses de reclusão, em regime semiaberto, e ao pagamento de 416 dias- multa, modulando a fração de diminuição pelo tráfico privilegiado, nos seguinte termos:
+ ..
+Destarte, o crime associativo não restou provado e não poderá ser óbice para o reconhecimento da circunstância privilegiadora do crime de tráfico ilícito de entorpecentes, considerando que a quantidade apreendida já foi utilizada na fixação das penas base.
+Muito embora esta Relatoria entenda que a sentença foi até tímida no aumento das penas base, não houve recurso do Parquet.
+Não é só. O aumento de 1/6 não levou em conta apenas a quantidade de drogas, mas outras circunstâncias que são inerentes ao tipo penal ou se fizeram inidôneas, no ponto.
+Portanto, as penas base de ambos os réus são fixadas, para o crime do art. 33 da Lei Antidrogas, em 05 anos e 05 meses de reclusão e 541 dias-multa.
+Como os acusados confessaram o crime, ambos têm em seu favor a atenuante da confissão, sendo que o Recorrente Paulo Henrique também deve ter a pena atenuada em razão da menoridade relativa em sede penal.
+Assim, ambos passam a ter, na segunda fase do processo dosimétrico, a pena de 05 anos de reclusão e 500 dias-multa.
+O privilégio não pode ser negado seja porque absolvidos do delito associativo e, também, porque foi valorada a quantidade de drogas na fixação das penas base, o que se traduziria em bis in idem vedado pelos Tribunais Superiores.
+Resta a fração de redução a ser adotada, e este Relator, conforme critério estabelecido, que, evidentemente, não é absoluto, entende de se aplicar a menor fração.
+Explico. Em noventa por cento das prisões em flagrante por tráfico ilícito de entorpecentes, as respectivas apreensões de drogas não ultrapassam 500g.
+Diante disso, a fração de 2/3 é adotada para quantidades de até 500g de entorpecentes. Entre 500g e 1000g, adota-se a fração de metade. Até 1.500g de droga, adota-se a fração de 1/3, e superando-se 1.500g de entorpecente, adota-se a menor fração, qual seja, de 1/6.
+Diante disso, restam os acusados condenados às penas de 04 anos e 02 meses de reclusão, em regime semiaberto, e 416 dias-multa, negando-se, pelo quantitativo de pena, a substituição da privação da liberdade por restrição de direitos.
+Ante o exposto, voto pelo provimento parcial do apelo defensivo para, mantido o juízo de reprovação tão somente quanto ao crime de tráfico ilícito de entorpecentes, condenar ambos os acusados às penas de 04 anos e 02 meses de reclusão, em regime semiaberto, e 416 dias-multa.
+Como visto, a Corte estadual, ao modular a fração redutora referente ao tráfico privilegiado, considerou a quantidade de drogas apreendidas, não obstante a utilização do mesmo critério para o aumento operado na primeira fase da dosimetria.
+A conclusão do acórdão, contudo, diverge de entendimento sufragado nessa egrégia Corte, segundo o qual "A Terceira Seção deste Superior Tribunal de Justiça, na apreciação do HC n. 725.534/SP, Rel. Ministro RIBEIRO DANTAS, julgado em 27/4/2022, revisando as diretrizes estabelecidas nos itens 1 e 2 do EREsp n. 1.887.511/SP, especificamente em relação à aferição supletiva da quantidade e da natureza da droga na terceira fase da dosimetria, pacificou o entendimento de que é possível a utilização do critério da natureza e quantidade da droga apreendida tanto para a fixação da pena-base quanto para a modulação da causa de diminuição prevista no art. 33, § 4º, da Lei n.11.343/2006, isto é, para a definição da fração de redução decorrente da aplicação da minorante, nesse último caso ainda que sejam os únicos elementos aferidos, desde que considerados em apenas uma das fases da dosimetria da pena" (AgRg no REsp n. 1.989.982/SP, AGRAVO REGIMENTAL NO RECURSO ESPECIAL, RELATOR Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DATA DO JULGAMENTO: 17/05/2022, DATA DA PUBLICAÇÃO / FONTE: DJe 20/05/2022).
+ ..
+Redimensionando-se a reprimenda imposta aos réus, quanto a delito de tráfico de drogas, temos:
+Na primeira fase da dosimetria,mantida a fixação da pena-base em 5anos e 5 mesesde reclusão, mais 542dias-multa, como realizado pelas instâncias ordinárias.
+Como os acusados confessaram o crime, ambos têm em seu favor a atenuante da confissão, sendo que o pacientePaulo Henrique também deve ter a pena atenuada em razão da menoridade relativa em sede penal. Assim, na segunda etapa, a pena de ambos os pacientes ficam estabelecidas em 5 anos e 500 dias-multa.
+Na terceira fase, reduzo em 2/3, em razão da minorante (art. 33, § 4º, da Lei n. 11.343/2006), resultando a reprimenda em1ano e 8 mesesde reclusão, e 166dias-multa.
+O regime inicial deve ser osemiaberto, diante da exasperação da pena-base, nos termos doart.33, § 3º, c/c o art. 59, ambos do CP.
+Por derradeiro, quanto ao pedido de extinção da punibilidade pelo cumprimento da pena, verifica-se que o tema não foi objeto de debate na Corte estadual, fator que inviabiliza sua análise por essa Corte Superior, sob pena de se incorrer em supressão de instância, devendo a matéria ser analisadapelo Juízo das Execuções Criminais, à luz das peculiaridades do caso concreto.
+Ante o exposto, com base no parecer ministerial, conheço em parte do habeas corpuse, nessa extensão, concedo a ordempara reconhecer a minorante(art. 33, § 4º, da Lei n. 11.343/2006) e aplicá-la em percentual máximo, resultando a reprimenda definitiva, quanto ao delito de tráfico de drogas, em 1ano e 8 mesesde reclusão, e 166dias-multa, no regime inicial semiaberto.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS.TRÁFICO DE DROGAS. DOSIMETRIA. PEDIDO DE FIXAÇÃO DA FRAÇÃO RELATIVA À CAUSA DE DIMINUIÇÃO DE PENA NO PATAMAR DE 2/3. DESPROPORCIONALIDADE FLAGRANTE. AUSÊNCIA DE PARÂMETROS IDÔNEOS PARA JUSTIFICAR TAL RIGOR PUNITIVO. PARECER ACOLHIDO.
+Habeas corpusconhecido em parte e, nessa extensão, ordemconcedida nos termosdo dispositivo.
