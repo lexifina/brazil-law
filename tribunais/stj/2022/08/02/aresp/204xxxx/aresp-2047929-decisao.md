@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo interposto por Augusta de Castro contra inadmissão, na origem, de recurso especial que ataca acórdão do Tribunal Regional Federal da 3ª Região assim ementado:
+PROCESSO CIVIL. PREVIDENCIÁRIO. APELAÇÃO INTERPOSTA CONTRA DECISÃO INTERLOCUTÓRIA. APELO NÃO CONHECIDO.
+1. O pronunciamento judicial contra o qual foi interposta a apelação tem natureza jurídica de decisão interlocutória, pois não extinguiu o processo, razão pela qual se amolda ao comando do artigo 203, § 2º, do CPC de 2015.
+2. Nos termos do parágrafo único do artigo 1.015 do CPC/2015, a impugnabilidade das decisões interlocutórias, proferidas em fase de liquidação ou cumprimento de sentença, far-se-á por meio de recurso de. agravo de instrumento.
+3. A decisão recorrida julgou acolheu parcialmente a impugnação para determinar que o devedor, ora impugnante, faça adequação dos seus cálculos aos termos da fundamentação da sentença, para o prosseguimento da execução. Assim, é de rigor que seja desafiada por recurso de agravo
+de instrumento, em atenção à sistemática estabelecida pelo artigo 1.015 do CPC/2015, que incluiu essa circunstância dentro do rol taxativo de cabimento do recurso.
+4. Desde a reforma processual no âmbito CPC de 1973, realizada pela Lei nº 11.232, de 22/12/2005, os artigos 475-H e 475-M, § 3º, passaram a prever que em face de decisão interlocutória na liquidação de sentença caberia o recurso de agravo. Assim, caracteriza-se, na espécie, erro grosseiro.
+5. A apelação, muito embora recebida no tribunal, na forma do artigo 1.011 do CPC/2015, deve ser interposta perante o juízo de primeiro grau, enquanto o agravo diretamente na segunda instância.
+6. Não conhecida a apelação.
+Em razões de recurso fundamento na alínea "a" do permissivo constitucional, a recorrente aponta violação aos arts.389, 1.009 e 1.015, caput, do CPC/2015.
+Argumenta que " decisão lançada pelo r. Juízo singular EXTINGUIU A FASE EXECUTIVA, pois, acolhendo o valor tido como correto, o que se admite apenas para argumentar, e no mesmo decisum, entende por indevida a diferença - visto que há condenação em honorários advocatícios sobre a diferença dos cálculos - reconhecendo desta forma o excesso de execução arguído pelo Recorrido, IMPEDIU a efetivação de qualquer ato executivo. Logicamente, extinguiu a referida fase processual. (..) NÃO RESTA DÚVIDA de que a decisão proferida pelo r. Juízo singular TRATA-SE DE SENTENÇA E NÃO DE DECISÃO INTERLOCUTÓRIA."
+Não foram apresentadas contrarrazões.
+O recurso foi inadmitido com fundamento na Súmula 7/STJ.
+Contra tal compreensão sobreveio o presente agravo.
+É o relatório. Decido.
+Presentes os pressupostos de admissibilidade do agravo, passo à análise do especial.
+O acórdão recorrido consignou que:
+Com efeito, nos termos do parágrafo único do artigo 1.015 do CPC/2015, a impugnabilidade das decisões interlocutórias, proferidas em fase de liquidação ou cumprimento de sentença, far-se-á por meio de recurso de. agravo de instrumento.
+A decisão recorrida julgou acolheu parcialmente a impugnação para determinar que o devedor, ora impugnante, faça adequação dos seus cálculos aos termos da fundamentação da sentença, para o prosseguimento da execução. Assim, é de rigor que seja desafiada por recurso deagravo de instrumento, ematenção à sistemática estabelecida pelo artigo 1.015 do CPC/2015, que incluiu essa circunstância dentro do rol taxativo de cabimento do recurso.
+Assim, não se cuidando de sentença o ato judicial recorrido, porque não decretou o fim da fase executiva, na forma dos artigos 924 e 925 do CPC/2015, não há que se falar em impugnação por meio de apelação, tendo em vista que esse recurso é reservado somente às sentenças, conforme artigo 1.009 do CPC/2015.
+O acórdão recorrido está em harmonia com a orientação jurisprudencial deste Superior Tribunal, firme no sentido de que a decisão que resolve Impugnação ao Cumprimento de Sentença e extingue a execução deve ser atacada apor meio de Apelação, enquanto aquela que julga o mesmo incidente, mas sem extinguir a fase executiva, por meio de Agravo de Instrumento.
+No caso dos autos, a decisão atacadatem natureza interlocutória, pois o acolhimento da impugnação não importou na extinção da execução, condiçãopara que o pronunciamento judicial seja qualificado como sentença. Destaque-se que embora tenha sido reconhecido o excesso, a decisão não teve o condão de suprimir totalmente a divida existente, ou mesmo reconhecer a sua inexistência, ao passo que a execução prosseguirá pela quantia homologado pelo juízo a quo, com base nos artigos 1.015, parágrafo único, do CPC.
+ilustrativamente:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. RECURSOS EM CUMPRIMENTO DE SENTENÇA. CPC/2015. DECISÃO QUE NÃO ENCERRA FASE PROCESSUAL. AGRAVO DE INSTRUMENTO. IMPOSSIBILIDADE DE APLICAÇÃO DA FUNGIBILIDADE RECURSAL. PRECEDENTES.
+1. O acórdão recorrido encontra-se em harmonia com a orientação firmada por esta Corte Superior de que, "no sistema regido pelo NCPC, o recurso cabível da decisão que acolhe impugnação ao cumprimento de sentença e extingue a execução é a apelação. As decisões que acolherem parcialmente a impugnação ou a ela negarem provimento, por não acarretarem a extinção da fase executiva em andamento, tem natureza jurídica de decisão interlocutória, sendo o agravo de instrumento o recurso adequado ao seu enfrentamento" (REsp 1.698.344/MG, Rel. Min. Luis Felipe Salomão, Quarta Turma, DJe 1º/8/2018).
+2. Impossibilidade de aplicação do princípio da fungibilidade recursal, em face da existência de erro grosseiro na interposição do recurso de apelação, notadamente pela denominação do ato judicial recorrido na origem como "decisão".
+3. Recurso especial a que se nega provimento.(REsp 1882469/MA, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 20/10/2020, DJe 23/11/2020)
+AGRAVO INTERNO EM RECURSO ESPECIAL. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. IMPROCEDÊNCIA. INTERPOSIÇÃO DE APELAÇÃO EM 2008. NÃO CONHECIMENTO. APLICABILIDADE DA LEI Nº 11.232/2005. PRINCÍPIO DO TEMPUS REGIT ACTUM. PRETENSÃO RECURSAL. NULIDADE POR NEGATIVA DE PRESTAÇÃO JURIDICIONAL. OMISSÃO NÃO SANADA EM SEDE DE EMBARGOS DE DECLARAÇÃO. PEDIDO DE PREQUESTIONAMENTO. SEM RAZÃO. VIOLAÇÃO DE LEI FEDERAL PELO ACÓRDÃO RECORRIDO. INOCORRÊNCIA. INCIDÊNCIA DO PRINCÍPIO DA FUNGIBILIDADE RECURSAL. NÃO PREENCHIMENTO DOS REQUISITOS. ERRO GROSSEIRO. RECURSO NÃO PROVIDO. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há que falar em violação ao art. 535 Código de Processo Civil/73 quando a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido diverso à pretensão da parte recorrente.
+2. O princípio da fungibilidade recursal não tem aplicação quando verificado erro grosseiro, como na hipótese de apelação interposta contra decisão que julga improcedente impugnação ao cumprimento de sentença na vigência da Lei 11.232/2005.
+3. Agravo interno não provido.(AgInt no REsp 1737941/CE, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 27/10/2020, DJe 19/11/2020)
+Ante o exposto, com fulcro no artigo 932, III e IV, do CPC/2015 c/c o artigo 253, parágrafo único, II, b, do RISTJ, bem como na Súmula 568/STJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
+PROCESSUAL CIVIL.CUMPRIMENTO DE SENTENÇA. DECISÃO QUE NÃO DECRETOU O FIM DA FASE EXECUTIVA. NATUREZA INTERLECUTÓRIA. RECURSO CABÍVEL. AGRAVO DE INSTRUMENTO.ERRO GROSSEIRO. INAPLICABILIDADE DO PRINCÍPIO DA FUNGIBILIDADE. AGRAVOCONHECIDO. RECURSO ESPECIAL NÃO PROVIDO.
