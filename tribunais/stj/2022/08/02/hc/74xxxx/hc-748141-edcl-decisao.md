@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por JONATAS DE OLIVEIRA contra decisão de minha relatoria que não conheceu do habeas corpus (e-STJ fls. 191/196).
+Nos aclaratórios, sustenta a defesa omissão do julgado, uma vez que"não atentou-se para o fato de haver uma investigação prévia referente ao investigado, existir a informação do endereço do investigado, haver a confirmação dos policiais um dia antes da invasão, a certeza de que se tratava do imóvel invadido, e por não haver nenhum ato de traficância a vista da residência, ou seja, a informação que a polícia investigativa tinha era de depósito da droga, não comércio, ou seja, não foi constato nenhum ato de venda ou outro que levantasse fundada suspeita referente ao imóvel invadido, fazendo assim imperioso o requerimento de mandado judicial para busca e apreensão no imóvel." (e-STJ fl. 204)
+Requer, ao final, sejam acolhidos os embargos de declaração, concedendo-se a ordem pleiteada.
+É o relatório. Decido.
+Sabe-se que os embargos de declaração têm a finalidade simples e única de completar, aclarar ou corrigir uma decisão ambígua, omissa, obscura ou contraditória, conforme dispõe o art. 619 do CPP.
+No caso, verifica-se que esta Corte Superior posicionou-se de forma clara, adequada e suficiente ao manter a legalidade da invasão domiciliar, independentemente da inexistência do mandado de busca e apreensão para o ato, uma vez que apontada a justa causa para ação policial (indício da prática de crime permanente no interior do domicílio). Veja-se (e-STJ fl. 194):
+Na hipótese dos autos, verifica-se que o Tribunal de origem, em sede de habeas corpus, validou a ação policial, diante da demonstração de justa causa (fundadas razões), em especial pela prévia atividade policial, oportunidade na qual o paciente foi investigado por fazer parte de um grupo criminoso ligado à narcotraficância. Assim, antes da entrada no imóvel, o paciente foi devidamente monitorado, inexistindo o apontado constrangimento ilegal.
+Dessa forma, por meio dos aclaratórios, é nítida a pretensão da parte embargante em provocar o rejulgamento da causa, situação que, na inexistência das hipóteses previstas no art. 619 do CPP, não é compatível com o recurso protocolado.
+Com essas considerações, rejeito os embargos de declaração.
+Intimem-se.
