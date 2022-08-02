@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo regimental interposto porDiogo de Lima Silvacontra a decisão da Presidência desta Corte, que conheceu do agravo por ele interposto para não conhecer de seu recurso especial,em razão da incidência da Súmula 284/STF.
+Em suas razões, o agravante sustenta que, napetição de recurso especial se traz, expressa e explicitamente, os dispositivos de lei federal violados e a interpretação deferida por esta C. Tribunal, manifestamente divergente do acórdão da origem. (fl. 369).
+O Ministério Publico Federal emitiu parecer pugnando pelo provimento do agravo (fls. 384/388).
+É o relatório.
+Concordo com o parecer ministerial ao afirmar que é plausível considerar-se que o recurso especial restou devidamente fundamentado, tendo sido a norma expressamente citada, não incidindo o óbice do enunciado 284/STF à espécie (fl. 385).
+Desse modo,dou provimento ao agravo regimental para reconsiderar a decisão agravada, passando à análise do agravo em recurso especial.
+Segundo consta do acórdão, a compensação integral entre a atenuante de confissão espontânea e a reincidência foi negada, exclusivamente, em razão da agravante ser de natureza específica.
+Todavia, segundo o mais recente entendimento desta Corte, areincidência, ainda que específica, deve ser compensada integralmente com a atenuante da confissão, demonstrando, assim, que não deve ser ofertado maior desvalor à conduta do réu que ostente outra condenação pelo mesmo delito.
+Tal entendimento, inclusive, foi exarado em sede de repetitivo, que readequou a Tese n. 585/STJ nos seguintes termos:É possível, na segunda fase da dosimetria da pena, a compensação integral da atenuante da confissão espontânea com a agravante da reincidência, seja ela específica ou não. Todavia, nos casos de multirreincidência, deve ser reconhecida a preponderância da agravante prevista no art. 61, I, do Código Penal, sendo admissível a sua compensação proporcional com a atenuante da confissão espontânea, em estrito atendimento aos princípios da individualização da pena e da proporcionalidade(REsp n. 1.947.845/SP, de minha relatoria, Terceira Seção, DJe 24/6/2022).
+Assim, com razão o recorrente, impondo-se a compensação integral entre a confissão e a reincidência, de modo a redimensionar a reprimenda final para 2 anos de reclusão e 10 dias-multa.
+Ante o exposto, dou provimentoao agravo regimentalparareconsiderara decisão da Presidência desta Corte e, com base no art. 253, II, c, do RISTJ, conhecerdo agravo para dar provimento ao recurso especial, de modo a compensar integralmente a agravante da reincidência específica com a atenuante da confissão espontânea, ficando a pena do agravante redimensionada nos termos da presente decisão.
+Publique-se.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. DECISÃO AGRAVADA.SÚMULA 284/STF. NÃO INCIDÊNCIA. RECONSIDERAÇÃO.CONDENAÇÃO. CONFISSÃO ESPONTÂNEA E REINCIDÊNCIA ESPECÍFICA. COMPENSAÇÃO INTEGRAL. POSSIBILIDADE. ATUAL ORIENTAÇÃO JURISPRUDENCIAL DESTA CORTE. REDIMENSIONAMENTO DA REPRIMENDA.
+Agravo regimental provido para reconsiderar a decisão da Presidência desta Corte e conhecer do agravo para dar provimento ao recurso especial, de modo a compensar integralmente a agravante da reincidência específica com a atenuante da confissão espontânea, ficando a pena do agravante redimensionada nos termos da presente decisão.
