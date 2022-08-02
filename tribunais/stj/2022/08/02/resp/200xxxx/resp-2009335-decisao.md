@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de recurso especial e agravo interpostos contra acórdão assim ementado (fls.205):
+APELAÇÃO. AMEAÇA. DESACATO CONTRAPOLICIAL. TRANSAÇÃO PENAL. RECURSO DEFENSIVO IMPROVIDO. DANO AO PATRIMÔNIO PÚBLICO. CONDENAÇÃO.
+Não estão presentes os requisitos necessários ao oferecimento da transação penal, pois conforme se verifica na Certidão de Antecedentes acostada às fls. 15 e16, o acusadoestá sendo processado por crime diverso não preenchendo os requisitos objetivos previstos nos artigo 76 e 89, da Lei 9.099/96.
+O delito de ameaça se perfectibiliza quando o agente profere a outrem um mal injusto e grave, causando à vítima medo ou insegurança. Mantida a condenação por desacato, diante da comprovação que o réu proferiu as palavras com dolo de desacatar.
+A materialidade e a autoria do crime do delito de dano estão comprovadas no boletim de ocorrência (fl. 06), auto de constatação do dano (fl. 23), fotografias (fls. 24-25) e pela prova oral colhida durante a instrução.
+Não preenchido os requisitos legais para fins de substituir da pena privativa de liberdade por multa ou restritiva de direito.
+RECURSO DEFENSIVO IMPROVIDO.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do primeiro recurso especial (fls. 239-246), sustenta a defesa violação do art. 76 da Lei 9.099/95, uma vez que o Tribunal de origem afastou sua aplicação, mesmo "sendo plenamente aplicável ao caso em exame" (fl. 243); e 159 do CPP, porquanto o laudo de constatação não atende os requisitos exigidos quanto à escolaridade dos peritos e quantidade de peritos não oficiais". Requer o provimento do recurso especial para conceder ao recorrente o benefício da transação penal; ou a invalidação do auto de constatação de dano ao patrimônio público, com a absolvição do recorrente quanto ao delito de dano ao patrimônio.
+Apresentadas contrarrazões, o recurso especial de fls. 239-246 foi admitido e o segundo (fls. 248-253) inadmitido, com fundamento no princípio daunirrecorribilidade.Interposto agravo em recurso especiale contraminutado, manifestou-se o Ministério Público Federal pelo não conhecimento do recurso especial.
+Quanto ao agravo em recurso especial que inadmitiu o segundo recurso especial, com efeito, a jurisprudência esta Corte Superior é de que interpostos dois recursos pela mesma parte contra a mesma decisão, não se conhece daquele apresentado posteriormente, por força dos princípios da unirrecorribilidade e da preclusão consumativa.
+A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DELITO DE CORRUPÇÃO ATIVA. DECISÃO DA PRESIDÊNCIA DO STJ. INTEMPESTIVIDADE PATENTE DO AGRAVO EM RECURSO ESPECIAL. ÓBICE DA PRECLUSÃO CONSUMATIVA QUANTO AO SEGUNDO AGRAVO REGIMENTAL. PRIMEIRO AGRAVO REGIMENTAL DESPROVIDO.
+1. A decisão de inadmissão do recurso especial foi considerada publicada em 20/08/2021; o prazo recursal teve início em 23/08/2021 e findou-se em 06/09/2021, mas o agravo em recurso especial só foi interposto em 12/11/2021, fora, portanto, do prazo recursal de 15 dias, que deve ser contado de forma contínua.
+2. Quanto ao alegado equívoco da certificação de trânsito em julgado de fls. 746, cabia à Defesa tê-lo arguido junto ao Tribunal de Justiça de origem, sob pena de preclusão.
+3. Sem êxito o requerimento para que esta Corte requisite informações do Tribunal de origem acerca da data da efetiva intimação do Agravante sobre a decisão de inadmissibilidade do recurso especial, pois cabia à Parte trazer essas informações de forma cabal por ocasião da interposição do agravo em recurso especial.
+4. Havendo a interposição de dois recursos, pela mesma parte e contra a mesma decisão, o segundo deles tem o conhecimento obstado pelo princípio da unirrecorribilidade e pela ocorrência de preclusão consumativa.
+5. Agravo regimental de fls. 793-804 desprovido e não conhecido o de fls. 805-816.(AgRg no AREsp n. 2.078.015/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 10/5/2022, DJe de 16/5/2022.)
+Dessarte,deve ser negado provimento ao agravo em recurso especial.
+Passa-se à análise do recurso especial de fls.239-246.
+Consta dos autos que o recorrente foi condenado, como incurso nos arts. 147, caput (na forma do art. 71, por duas vezes), 331, caput, e 163, parágrafo único, III, todos do CP, na forma do art. 69, caput, também do CP, a 1 ano, 1 mês e 5 dias de detenção, em regime inicial aberto, suspendendo, nos termos do art. 77 do CP,a execução da pena privativa de liberdade pelo prazo de 2 anos.
+Interposto recurso de apelação pela defesa, o Tribunal de origem negou-lhe provimento, com base na seguinte fundamentação, no que interessa ao deslinde da controvérsia (fls. 210-217):
+No caso em exame, não estão presentes os requisitos necessários ao oferecimento da transação penal, pois conforme se verifica na Certidão de Antecedentes acostada às fls. 19/20, o acusado está sendo processado por crime diverso, não preenchendo os requisitos objetivos previstos nos artigos 76 e 89, da Lei 9.099/96, in verbis:
+ ..
+Ademais, a soma das penas máximas cominadas aos delitos denunciados ultrapassa os dois anos de reclusão, de forma que não há que se falar em transação penal no presente caso.
+ ..
+Do dano ao patrimônio público:
+A materialidade e a autoria do crime estão comprovadas no boletim de ocorrência (fl. 06), auto de constatação do dano (fl. 23), fotografias (fls. 24-25) e pela prova oral colhida durante a instrução.
+Não há motivos pra se duvidar das palavras dos policiais, uma vez que foram coesas e coerentes, não havendo qualquer indício ou prova no sentido de que estivessem falsamente incriminando o acusado.
+Em relação à validade do auto de constatação de dano de fl. 23, prepondera na jurisprudência que, em perícias de natureza singela, é desnecessária a elaboração de laudo pericial por perito com formação específica.
+ ..
+Portanto, a prova realizada é suficiente e, sendo assim, não há que se falar em insuficiência probatória, de modo que mantenho a condenação do acusado.
+Como se vê, o Tribunal de origem afastou a possibilidade de transação penal e suspensão do processo, uma vez que "não estão presentes os requisitos necessários ao oferecimento da transação penal, pois conforme se verifica na Certidão de Antecedentes acostada às fls. 19/20, o acusado está sendo processado por crime diverso" e pelo fato de que "a soma das penas máximas cominadas aos delitos denunciados ultrapassa os dois anos de reclusão".
+Com efeito, o entendimento destaCorte Superior é de que " .. no caso de concurso de crimes, a pena considerada para fins de apresentação da proposta de transação penal (Lei nº 9.099, art. 76), será o resultado da soma, no caso de concurso material, ou a exasperação, na hipótese de concurso formal ou crime continuado, das penas máximas cominadas ao delitos. Com efeito, se desse somatório resultar um período de apenamento superior a 2 (dois) anos, fica afastada a possibilidade de aplicação do benefício da transação penal. (HC 29.001/SC, Rel. Ministro FELIX FISCHER, Quinta Turma, DJ 24/11/03)"(EDcl no REsp n. 1.853.351/RO, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 25/8/2020, DJe de 4/9/2020.)
+A propósito:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. FAVORECIMENTO À PROSTITUIÇÃO E ADVOCACIA ADMINISTRATIVA QUALIFICADA. INCOMPETÊNCIA. REITERAÇÃO DE MATÉRIA JÁ ANALISADA. TRANSAÇÃO PENAL. INVIABILIDADE. CONVENIÊNCIA DO CONCURSO MATERIAL. SUPRESSÃO DE INSTÂNCIAS. AGRAVO DESPROVIDO.
+ .. 2. Conforme jurisprudência desta Corte, " a  proposta de transação penal deve observar o resultado da soma das penas máximas cominadas, no caso de concurso de crimes, sendo incabível quando o resultado superar 2 anos."(AgRg no AREsp 759.307/PR, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 4/8/2020, DJe 10/8/2020).
+ ..
+4. Agravo regimental desprovido.
+(AgRg no HC n. 676.005/ES, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 14/9/2021, DJe de 20/9/2021.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DESCAMINHO E INSTALAÇÃO DE RÁDIO TRANSCEPTOR EM VEÍCULO SEM AUTORIZAÇÃO LEGAL. ART. 334, § 1º, "B", DO CÓDIGO PENAL E ART. 70 DA LEI N. 4.117/1962, C/C O ART. 69 DO CÓDIGO PENAL. TRANSAÇÃO PENAL. SOMA DAS PENAS.
+ ..
+3. De acordo com o entendimento do Superior Tribunal de Justiça, a proposta de transação penal deve observar o resultado da soma das penas máximas cominadas, no caso de concurso de crimes, sendo incabível quando o resultado superar 2 anos.
+4. Agravo regimental desprovido.(AgRg no AREsp n. 759.307/PR, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 4/8/2020, DJe de 10/8/2020.)
+Quanto ao crime de dano ao patrimônio público, o Tribunal de origem entendeu pela "validade do auto de constatação de dano de fl. 23", consignando que "prepondera na jurisprudência que, em perícias de natureza singela, é desnecessária a elaboração de laudo pericial por perito com formação específica". Destacou-se que a materialidade e a autoria restaram comprovadas por meio de "boletim de ocorrência (fl. 06), auto de constatação do dano (fl. 23), fotografias (fls. 24-25) e pela prova oral colhida durante a instrução", de forma que"a prova realizada é suficiente e, sendo assim, não há que se falar em insuficiência probatória".
+De fato, "A teor dos julgados desta Corte, não é imprescindível a perícia para averiguação do dano ao patrimônio público e a falta grave pode ser reconhecida com fundamento em outras provas produzidas durante a sindicância  .. "(AgRg no HC n. 654.281/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 15/6/2021, DJe de 23/6/2021.)No mesmo sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. IMPUGNAÇÃO DEFENSIVA. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. INOCORRÊNCIA. PREVISÃO DE JULGAMENTO EM DECISÃO MONOCRÁTICA NO ORDENAMENTO JURÍDICO. FALTA DISCIPLINAR GRAVE. CORTE NA FIAÇÃO. DANO AO PATRIMÔNIO PÚBLICO. PERÍCIA PARA COMPROVAÇÃO DO DANO. DESNECESSIDADE. ABSOLVIÇÃO. IMPOSSIBILIDADE. RECURSO IMPROVIDO.
+ .. 2-  ..  A teor dos julgados desta Corte, não é imprescindível a perícia para averiguação do dano ao patrimônio público e a falta grave pode ser reconhecida com fundamento em outras provas produzidas durante a sindicância.  ..  (AgRg no HC 654.281/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, julgado em 15/6/2021, DJe 23/6/2021).
+3- No caso, o dano foi devidamente comprovado pelo depoimento unânime dos agentes, o qual se reveste de presunção relativa de veracidade, e pela justificativa não aceita do agravante (ele deveria ter pedido autorização para fazer o corte na fiação, se sua intenção fosse realmente boa).
+ .. 5- Agravo Regimental não provido.(AgRg no HC n. 736.752/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 3/5/2022, DJe de 6/5/2022.)
+Estando o acórdão recorrido em consonância com a jurisprudência desta Corte Superior, a pretensão do recorrente esbarra no óbice previsto na Súmula 83/STJ, também aplicável ao recurso especial interposto com fundamento na alínea a do permissivo constitucional.
+Ante o exposto conheço do agravo e do recurso especial e nego-lhes provimento.
+Publique-se.
+Intimem-se.
