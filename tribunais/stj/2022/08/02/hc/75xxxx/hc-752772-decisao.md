@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido liminar, impetrado em benefício de Frank Udes Dias-presopreventivamentepela prática, em tese, dodelitode tráfico de drogas (Autos n. 0005311-94.2022.8.19.0066)-contra oacórdão proferido pelo TribunaldeJustiça do Rio de Janeiro, que denegou a ordem noHabeas Corpus Criminal n.0023700-34.2022.8.19.0000, mantendo a prisão preventiva decretada pela 2ª Vara da comarca de Barra do Piraí/RJ.
+Alega-se, em síntese, constrangimento ilegal decorrente: 1) da ilicitude das provas colhidas em razão da ausência de fundada suspeita para a abordagem policial; 2) da violação ao sistema acusatório, uma vez que o Ministério Público teria pugnado pela aplicação de medidas cautelares diversas, e, ainda assim, o Juiz teria mantido a prisão do réu; e, 3) da ausência de fundamentação idônea que justifique a segregação cautelar imposta, considerando, inclusive, o respeito ao princípio da homogeneidade.
+Defende-se queo próprio titular da ação penal informou que o Paciente certamente fará jus à causa de diminuição de pena prevista no art. 33, § 4º, da Lei de Drogas, caso venha a ser condenado.  .. Ou seja, não há por quese manter a prisão do Paciente, impondo-se a ele tratamento diverso ao que receberá em hipótese de condenação (fl. 15).
+Por fim, traz-se pedido nos seguintes termos (fl. 17):
+ ..
+Isto posto, espera a Impetrante a concessão da liminar, para que o Paciente aguarde solto o julgamento do presente writ; e, no mérito, seja CONCEDIDA A ORDEM a fim reconhecer a ilegalidade da prisão do Paciente e, reconhecer a nulidade do processo ante a flagrante violação dos ditames do Código de Processo Penal, levada a efeito pelos policiais, que culminou com a ilicitude das provas obtidas, com o consequente TRANCAMENTO DA AÇÃO PENAL e RELAXAMENTO DA PRISÃO, determinando-se a expedição do competente ALVARÁ DE SOLTURA em favor do Paciente.
+A título subsidiário, pugna pela concessão da ordem de habeas corpus, no sentido de que seja revogada a prisão preventiva, posto subsistir debilidade no fumus comissi deliciti e INEXISTIR o periculum libertati.
+ ..
+Liminar deferida às fls. 80/83.
+Informações prestadas às fls. 88/92 e 93/100.
+Parecer do Ministério Público Federal, às fls. 102/105,pelo não conhecimento do writ e, se conhecido, pela denegação da ordem.
+É o relatório.
+Busca a impetraçãoa revogação da prisão preventiva pela possível prática do delito de tráfico de drogas.
+A prisão preventiva pode ser decretada, desde que haja prova da existênciado crime e indício suficiente de autoria, como garantia da ordem pública,da ordem econômica, por conveniência da instrução criminal ou paraassegurar a aplicação da lei penal, em decisão motivada e fundamentadaacerca do receio de perigo gerado pelo estado de liberdade do imputado eda contemporaneidade da necessidade da medida extrema (arts. 311 a 316 doCPP).
+Ab initio, verifica-se que as teses de ilicitude das provas colhidas em razão da ausência de fundada suspeita para a abordagem policial e de violação do sistema acusatório, uma vez que o Ministério Público teria pugnado pela aplicação de medidas cautelares diversas, não foram debatidas na Corte de origem. Ao que parece, inclusive, sequer foram arguidas perante o Tribunal carioca. Sendo assim, incabível sua análise diretamente nesta Corte, sob pena de supressão de instância.
+Da análise dos autos, tem-se que o decreto preventivo foi fundamentado nos
+seguintes termos (fl. 28 - grifo nosso):
+ ..
+No mais, mostra-se imperiosa a decretação da prisão preventiva do flagranteado, uma vez que estão presentes os pressupostos da prisão preventiva previstos no artigo 312, do Código de Processo Penal.
+Com efeito a prisão preventiva se justifica para garantir a ordem pública, para a conveniência da instrução criminal e para assegurar a aplicação da Lei Penal, havendo elementos informativos que demonstram a existência do delito descrito nos autos e indícios suficientes de autoria por parte do flagranteado (vide depoimentos colhidos em sede policial).
+Apesar de ser a primeira passagem criminal do flagranteado, foi encontrado consigo considerável quantidade de entorpecente - mais de 1kg de substância entorpecente, entre cocaína e maconha -, o que denota uma maior reprovabilidade de sua conduta e distância de eventual aplicação da minorante prevista no artigo 33, §4º, da Lei 11.343/06.
+Ainda, a prisão do flagranteado merece ser mantida para a conveniência da instrução criminal, diante do fato que as testemunhas/vítimas, por certo, sentir-se-ão amedrontadas em prestar depoimento estando este em liberdade. Ademais, é necessário para a conveniência de todo processo, que a instrução criminal seja realizada de maneira lisa, equilibrada e imparcial, na busca da verdade real, interesse maior não somente da acusação, mas, sobretudo, do flagranteado. Por fim, a segregação preventiva também se justifica pelo fato de não haver qualquer comprovação de que o flagranteado exerça atividade laborativa lícita e que possua residência fixa, o que demonstra que a concessão da liberdade provisória em favor deste, neste momento, irá cabalmente de encontro à segurança de aplicação da Lei Penal e à própria efetividade da ação penal a ser deflagrada. Há que se garantir a finalidade útil do processo penal, que é proporcionar ao Estado o exercício do seu direito de punir, aplicando a sanção devida a quem é considerado autor de infração penal. Registre-se, ainda, que as medidas cautelares previstas no artigo 319, do Código de Processo Penal não se mostram adequadas e suficientes no caso em exame.
+ ..
+O Tribunal a quo, por sua vez, delineou que(fls. 63/65 - grifo nosso):
+ ..
+Assim, verifica-se que estão presentes condições para a preventiva, uma vez que o recorrido responde por crime doloso, com pena privativa de liberdade máxima superior a 4 (quatro) anos (artigo 313, I, do CPP).
+Também estão presentes os requisitos para a prisão, uma vez que está devidamente demonstrada a materialidade da conduta e os indícios de autoria (fumus commissi delicti).
+Há, ainda, fundamentos para a preventiva (periculum libertatis).
+Como destacado na decisão combatida, a grande quantidade deentorpecentes justifica a custódia, consoante a jurisprudência do Superior Tribunal de Justiça:
+ ..
+Com efeito, a expressiva quantidade de drogas apreendida é indicativa do tráfico de drogas de grande intensidade, justificando a prisão preventiva com fundamento na garantia da ordem pública.
+Como afirmei na decisão que deferiu o pedido liminar, entendo devidaaconcessão da liberdade provisóriacom medidas cautelares diversas,uma vez que o crime foi cometidosem violência e grave ameaça, não consta dos autos que o paciente é reincidente,não há indicativo de que eleparticipe de organização criminosa e as circunstâncias do flagrante nãodenotam grande periculosidade do réu, já que foi flagrado por policiaisque estavam em ronda no local.
+Vê-se, ainda, que o Juiz justificou a prisão também para a conveniência da instrução criminal, diante do fato que as testemunhas/vítimas iriam se sentir amedrontadas em prestar depoimento estando o réu em liberdade. Contudo, percebe-se que não foi descrito nenhum fato concreto capaz de justificar tal receio.
+Ademais, sabe-se que a inexistência de comprovação de trabalho lícito e de residência fixa não constitui fundamentação idônea para a prisão.
+Corroborando os argumentos acima,verifica-se que o Promotor de Justiça, na origem, apesar de inicialmente requerer a conversão do flagrante em preventiva, quando do recebimento da denúncia, deliberou pela substituição da prisão por medidas cautelares diversas(fl. 34).
+No mais, diante das circunstâncias descritas acima, entendoque aquantidade de droga apreendida (817,3 g de maconha e 362,5 g de cocaína), apesar de expressiva, não é suficiente, por si só, para justificar aprisãocautelar.
+Importante salientar que, com o advento da Lei n. 12.403/2011, a prisão cautelar passou a ser, mais ainda, a mais excepcional das medidas, devendo ser aplicada somente quando comprovada a inequívoca necessidade, devendo-se sempre verificar se existem medidas alternativas à prisão adequadas ao caso concreto. A propósito: HC n. 255.834/MG, Ministro Jorge Mussi, Quinta Turma, DJe 15/9/2014.
+Sendo assim, parece-meexcessiva, no caso concreto, a prisão preventiva, sendo recomendável a aplicação de outras medidas cautelares.
+Em face do exposto, concedoa ordem,confirmando a liminar anteriormente deferida, para substituir a prisãocautelar imposta aopaciente por medidas alternativas à prisão a seremestabelecidas e fiscalizadas pelo Magistrado singular, salvo prisão poroutro motivo, podendo o Juízo de primeiro grau decretar novamente asegregação cautelar, desde que fundamentadamente.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. 817,3 G DE MACONHA E 362,5 G DE COCAÍNA. PRISÃO PREVENTIVA. FUNDAMENTOS INSUFICIENTES. QUANTIDADE DE ENTORPECENTES INSUFICIENTE PARA JUSTIFICAR A PRISÃO. RÉU SEM APONTAMENTOS NA FICHA CRIMINAL. ILEGALIDADE MANIFESTA. LIMINAR CONFIRMADA.
+Ordem concedida nos termos do dispositivo.
