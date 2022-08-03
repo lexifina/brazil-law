@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de agravo apresentado por DIRCEU LUIZ PEDROSO JUNIOR contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+AGRAVO DE INSTRUMENTO. BLOQUEIO DE ATIVOS FINANCEIROS. ALEGAÇÃO DE IMPENHORABILIDADE NOS TERMOS DO ART. 833. IV, CPC. AUSÊNCIA DE COMPROVAÇÃO DA ORIGEM DOS RECURSOS PENHORADOS. ÔNUS DA PROVA QUE INCUMBE AO DEVEDOR. RECURSO DESPROVIDO.
+Quanto à controvérsia recursal, pela alínea "a" do permissivo constitucional, alega violação do art. 833, IV, do CPC, no que concerne à impenhorabilidade do valor bloqueado na conta bancária do recorrente, por possuir natureza salarial, trazendo os seguintes argumentos:
+Conforme informado acima, em decorrência da falta de atribuição de efeito suspensivo aos embargos opostos pelo ora Recorrente, foi realizado bloqueio de valor em conta bancária do Recorrente, porém referidos valores são impenhoráveis, visto que advém de remuneração de seu trabalho.
+O valor bloqueado na conta bancária do Recorrente, trata-se de fonte de seu sustento e de sua família, sendo evidente que se mantido o bloqueio sua situação financeira do será comprometida, comprometendo, inclusive seu sustento e de sua família, o que não é permitido pela legislação processual vigente.
+A proibição de bloqueio de valores dessa natureza, encontra-se expressa no art. 833, IV do Código de Processo Civil, prevendo expressamente a impenhorabilidade desse tipo de remuneração, a fim de garantir o mínimo para o Recorrente manter a si e sua família. (fl. 42).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+Foi bloqueada a quantia de R$3.389,87 de titularidade do agravante (fls. 105/107) e ele pediu seu desbloqueio, alegando que se tratava de quantia impenhorável, por ser produto de seu trabalho (fls. 113/115).
+O pedido foi indeferido sob o fundamento de que não foi comprovada a natureza salarial do montante bloqueado (fls. 116) e, em que pese o inconformismo manifestado, a respeitável decisão recorrida não comporta reparos.
+O agravante requereu o desbloqueio do valor sob o fundamento de que a verba seria impenhorável, com fundamento no artigo 833, IV, Código de Processo Civil, todavia, não apresentou qualquer documento que respalde a alegação de que referida quantia tem natureza salarial.
+Dessa forma, não é possível o reconhecimento da impenhorabilidade alegada, pois compete ao devedor o ônus de comprovar a impenhorabilidade das verbas bloqueadas, o que não foi observado.
+ ..
+Destarte, não havendo provas de que os valores bloqueados são provenientes do recebimento de salário, remuneração ou vencimentos atuais do agravante, não pode ser reconhecida a impenhorabilidade alegada, com fundamento no artigo 833, IV, do Código de Processo Civil. (fls. 32-34).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
