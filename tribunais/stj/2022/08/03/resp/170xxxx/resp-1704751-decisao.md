@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de recurso especial interposto pela Fazenda Nacional, com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 341):
+TRIBUTÁRIO. CONTRIBUIÇÃO AO SENAR. REGIME DE SUBSTITUIÇÃO TRIBUTÁRIA. DECRETO Nº 556/1992.
+A contribuição ao SENAR continua exigível com base no inciso I do art. 3º da Lei nº 8.315/1991.
+O regime de substituição tributária fixado pelo artigo 11, §5º, a, do Decreto nº 566/1992 é ilegal e, por conseguinte, inconstitucional, já que ofende o princípio da legalidade.
+Opostos embargos declaratórios pela Fazenda Nacional e pelo Serviço Nacional de Aprendizagem Rural - SENAR AR/RS, foram ambos desprovidos (fls. 379/383).
+Recurso extraordinário interposto às fls. 409/423.
+Nas razões de recurso especial, a Fazenda Nacional, ora recorrente, sustenta, em síntese, a legalidade da sub-rogação tributária referente à contribuição devida pelo SENAR, porquanto "Em relação aos substituídos tributários (i) segurado especial e (ii) empregador rural, a contribuição ao SENAR é recolhida pela adquirente de sua produção ou por consumidora ou consignatária ou pela cooperativa a que pertence, na condição de responsável por substituição, uma vez que a sujeição passiva do substituto tributário é concomitante ao aparecimento do fato gerador e exclui a sujeição tributária do contribuinte (substituído), que é aquele que possui relação pessoal e direta com o fato gerador. Impende observar que o Decreto nº 566/92, em sua redação vigente, nada mais fez do que regular a previsão de substituição tributária que preexistia no art. 30, IV, da Lei nº 8.212/91 (..). Dessa forma, a previsão constante do artigo 30, IV, da Lei nº 8.212/91 cabe igualmente para instituir substituição tributária à contribuição ao SENAR." (fls. 429/430).
+Decisão desta Corte às fls. 475/478, determinando o envio dos autos à Corte de origem, a fim de que se procedesse a eventual juízo de conformação (art. 543-B e seguintes do CPC/73), frente ao quanto decidido pelo Supremo Tribunal Federal nos autos do RE nº 816.830 RG/SC - Tema nº 801.
+Refutado o juízo de retratação (fls. 529/530), subiram os autos, então, ao Superior Tribunal de Justiça.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Verifica-se que, na data de hoje, considerando o recurso especial interposto por Serviço Nacional de Aprendizagem Rural - SENAR AR/RS no bojo dos presentes autos, proferi decisão em que determinei o retorno dos autos à instância ordinária, para que a ilustre Corte de origem proceda a novo julgamento dos aludidos embargos de declaração, a fim de suprir omissão no tocante à alegação de ilegitimidade da parte recorrida para pleitear a restituição dos valores recolhidos a título de contribuição ao SENAR.
+Nesse contexto, tendo em vista a impossibilidade de cisão do julgamento, bem como a própria devolução do feito à origem, é o caso de se ter por prejudicado o exame da presente irresignação no momento.
+ANTE O EXPOSTO, julgo prejudicado o exame do recurso especial interposto pela Fazenda Nacional no presente momento processual.
+Publique-se.
