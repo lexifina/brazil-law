@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo manejado pelo Instituto Nacional de Metrologia, Qualidade e Tecnologia (INMETRO)contra decisão que não admitiu recurso especial,este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 46):
+AGRAVO INTERNO. ATIVOS FINANCEIROS DE PESSOA FÍSICA. 40 SALÁRIOS MÍNIMOS. IMPENHORABILIDADE. AGRAVO DE INSTRUMENTO EM CONTRASTE COM A SÚMULA 108 DO TRF4. DECISÃO MONOCRÁTICA QUE NEGA PROVIMENTO.
+Opostos embargos declaratórios, foram rejeitados (fls. 64/66).
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 789, 797, 835, I, 854, §§ 3º, I, e 5º, e 1.022, todos do CPC;7º, II, 9º, 10 e 11, I, da Lei n. 6.830/90. Sustenta que: (I)a Corte Regional não se manifestou sobre os dispositivos de lei aplicáveis à espécie; (II)o dinheiro depositado em conta bancária não está sob o pálio da impenhorabilidade absoluta, porquantocabe ao executado demonstrar a impossibilidade de ser realizada a constrição, com a prova da causa da impenhorabilidade.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Verifica-se, inicialmente, não ter ocorrido ofensa aoart. 1.022 do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos; não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Quanto ao tema de fundo, a jurisprudência desta Corte é firme no sentido de que, nos termos do disposto no art. 833, X, do CPC, é impenhorável o montante de até quarenta salários mínimos depositado em instituição financeira, não apenas em cadernetas de poupança mas, também, em conta-corrente ou em fundos de investimento, ou, ainda, guardados em papel-moeda.
+Nessa esteira, confiram-se os precedentes:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. VALORES BLOQUEADOS EM CONTA POUPANÇA. IMPENHORABILIDADE. LIMITE DE ATÉ 40 SALÁRIOS MÍNIMOS. AGRAVO INTERNO DA FAZENDA NACIONAL NÃO PROVIDO.
+1. É entendimento desta Corte Superior que são impenhoráveis os saldos inferiores a 40 salários-mínimos depositados não só em caderneta de poupança mas, também, a mantida em fundo de investimento, em conta-corrente ou guardada em papel-moeda, ressalvado eventual abuso, má-fé ou fraude. (AgInt no REsp 1.858.456/RO, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 15/6/2020, DJe 18/6/2020).
+2. Agravo Interno da FAZENDA NACIONAL não provido.
+(AgInt no AREsp 1853515/RS, Rel. Ministro MANOEL ERHARDT (DESEMBARGADOR CONVOCADO DO TRF5), PRIMEIRA TURMA, julgado em 04/10/2021, DJe 07/10/2021)
+PROCESSUAL CIVIL. EXECUÇÃO FISCAL. CONTA-CORREMNTE. 40 (QUARENTA) SALÁRIOS MÍNIMOS. IMPENHORABILIDADE.
+1. De acordo com a jurisprudência firme desta Corte Superior, é impenhorável a quantia de até quarenta salários mínimos depositada em conta-corrente, aplicada em caderneta de poupança ou outras modalidades de investimento, exceto quando comprovado abuso, má-fé ou fraude. Precedentes.
+2. Hipótese em que se reconheceu a impenhorabilidade dos valores em conta-corrente do executado até o limite de 40 (quarenta) salários mínimos.
+3. Agravo interno desprovido.
+(AgInt no AREsp 1721805/DF, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 27/09/2021, DJe 07/10/2021)
+No caso, o Órgão regional, ao examinar a controvérsia, consignou que (fls. 47/48):
+O agravo de instrumento foi interposto contra decisão que estabeleceu a liberação de ativos financeiros inferiores a 40 salários mínimos nas contas de pessoa física, por conta da manifesta impenhorabilidade.
+Ora, conforme entende esta Segunda Turma, pode o juiz deixar de bloquear os ativos financeiros caso seja aferido que os valores sujeitos ao bloqueio são inferiores a 40 salários-mínimos (cf. TRF4, AG nº 5006254- 90.2016.404.0000, 2ª Turma, juntado aos autos em 20-05-2016; AG nº 5048090-38.2019.4.04.0000/RS, 2ª Turma, julgado em 18-02-2020).
+Nesse contexto, e levando em consideração que o Superior Tribunal de Justiça firmou entendimento de que é impenhorável a quantia de até quarenta salários-mínimos poupada, ainda que mantida em conta corrente, salvo se demonstrado abuso, má-fé ou fraude praticadas pela parte executada (cf. STJ, REsp 1230060/PR, Segunda Seção, julgado em 13/08/2014, DJe 29/08/2014), orientação sintetizada no enunciado 108 da Súmula deste Tribunal, agiu acertadamente o magistrado de primeiro grau ao determinar a liberação de valores localizados nas contas bancárias do executado caso inferiores a 40 salários-mínimos.
+Acresce que a impenhorabilidade é situação que pode ser aferida de plano por ocasião da consulta ao extrato do próprio Bacenjud/Sisbajud, pois o bloqueio foi inferior ao valor total da execução, sendo evidente que o executado não possui saldo em depósitos superior a 40 salários mínimos.
+Nesse contexto, denota-se que a Corte regional decidiu em consonância com o entendimento deste Superior Tribunal de Justiça sobre o tema, razão pela qual o acórdão não merece reparos.
+ANTE O EXPOSTO, nego provimento ao agravo.
