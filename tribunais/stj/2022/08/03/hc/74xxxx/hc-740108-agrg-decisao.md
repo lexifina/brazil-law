@@ -1,0 +1,6 @@
+DECISÃO
+LUCAS FERREIRA SCHULMANN interpõe agravo regimental contra decisão de fls. 129-130, proferida pela Presidência desta Corte, que indeferiu liminarmente o habeas corpus, em razão do enunciado na Súmula n. 691 do STF.
+A defesa pretende, em síntese, seja revogada a custódia preventiva do acusado, com ou sem a imposição de medidas cautelares alternativas à prisão.
+Em consulta processual realizada na página eletrônica do TJRS, verifico que, 29/6/2022, sobreveio o julgamento do mérito do habeas corpus impetrado na origem (HC n. 5077790-96.2022.8.21.7000), cuja ordem foi parcialmente concedida, "ao efeito de substituir a prisão preventiva dopacientepelas seguinte medidas cautelar, dasquais deveráser cientificadoe compromissado: (i) manterendereçoe telefoneatualizados em juízo; (ii) comparecera todos atos processuais a que forintimadopelo juízo; (iii) recolhimento domiciliar noturno, no período compreendido entre 19h e 7h, nos dias úteis; e, em horário integral, nos finais de semana, feriados, férias, dias de folga e recesso; (iv)não se ausentarda Comarca onde residesem prévia autorização judicial; e (v) não se envolverem novas ocorrências policiais".
+À vista do exposto, com fundamento nos art. 34, XI, do RISTJ, julgo prejudicado o agravo regimental interposto às fls. 133-140.
+Publique-se e intime-se.
