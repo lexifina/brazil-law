@@ -1,0 +1,14 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por ANDRE GIVAGO SCHAEDLER PACHECO à decisão de fls. 109/110, que não conheceu do recurso.
+Sustenta a parte embargante que:
+Por isso mesmo, apesar de o Código referir-se apenas aos acórdãos proferidos pelos tribunais de apelação (art. 619 CPP) e às sentenças de primeiro grau (art. 382 CPP), o certo é que os embargos de declaração podem ser interpostos contra qualquer decisão judicial. É inconcebível que fique sem remédio a obscuridade, a ambiguidade, a contradição ou a omissão existentes no pronunciamento, que podem chegar a comprometer a possibilidade de cumpri-lo.
+Sentenças e decisões interlocutórias(inclusive as que o Código de- nomina de interlocutórias mistas: ver, supra, n.28), perante qualquer juízo ou tribunal, são passiveis de embargos de declaração, quer se trate de processo de declaração, condenatório ou cautelar, de procedimento de consumo, ou de procedimentos especiais (fl. 214).
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a retirar ambiguidade, esclarecer obscuridade, eliminar contradição e suprir omissão existentes no julgado, o que não se verifica na hipótese.
+A parte embargante não discutiu os vícios previstos no art. 1.022 do CPC. Após apresentar argumentos genéricos sobre a competência para análise da admissibilidade do recurso na origem, limitou-se a argumentar sobre o cabimento dos embargos de declaração, sem estabelecer conexão entre os fundamentos da decisão de não conhecimento de seu agravo e os destes aclaratórios, em total afronta ao princípio da dialeticidade.
+A parte embargante não discutiu os vícios previstos no art. 619 do CPP. Após apresentar alegações sobre o cabimento dos embargos de declaração, nada argumenta acerca do não conhecimento de seu agravo no Superior Tribunal de Justiça em razão da aplicação da Súmula n. 281/STF. Portanto, sem estabelecer a necessária conexão dialética entre a decisão de não conhecimento do seu agravo e estes aclaratórios, em total afronta ao princípio da dialeticidade.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
