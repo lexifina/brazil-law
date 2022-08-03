@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se derecurso especialinterposto pelo Estado de Mato Grosso do Sul,com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado deMato Grosso do Sul, assim ementado (fl. 232):
+APELAÇÃO CÍVEL - AÇÃO DE OBRIGAÇÃO DE FAZER C/C COBRANÇA - POLICIAL MILITAR - INDENIZAÇÃO DE RETRIBUIÇÃO - LC Nº 127/2008 - EXERCÍCIO DA FUNÇÃO DE COMANDANTE DE EQUIPE DE SERVIÇO - DECRETO ESTADUAL Nº 12.560/08 - DESIGNAÇÃO PELO GOVERNADOR - REQUISITO NÃO PREVISTO NA NORMA - EXCESSO DO PODER REGULAMENTAR - SENTENÇA MANTIDA - RECURSO CONHECIDO E DESPROVIDO.
+01. Faz jus à indenização decorrente do exercício das funções previstas no inciso V do art. 23 da LC nº 127/2008, o policial militar que comprova o preenchimento dos requisitos legais para tanto, tratando-se de excesso do poder regulamentar a disposição contida no Decreto Estadual nº 12.560/08, que condiciona a obtenção da verba à designação da função diretamente pelo Governador do Estado.
+02. Recurso conhecido e desprovido.
+Opostos embargos declaratórios, foram rejeitados (fls. 272/276).
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 1.022, 240 e 405 do CPC. Sustenta, em síntese, a ocorrência de negativa de prestação jurisdicional e que a fixação do termo inicial dos juros moratórios seja feita na citação, com espeque nos ditames legais insculpidos no art. 405 do CC e art. 240, do CPC, bem como no que restou decidido no Recurso Especial Representativo de Controvérsia nº 1.356.120-RS.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A pretensão recursal merece acolhida pelo art. 1.022 do CPC, pois a parte recorrente, nas razões dos embargos de declaração e do recurso especial, alega que não houve emissão de juízo de valor acerca da tese defixação da data inicial dos juros moratórios nacitação, conforme supradescrito.
+Contudo, o Tribunal de origem quedou silente sobre tal argumentação, limitando-se a manter os fundamentos do acórdão e rejeitando os pertinentes aclaratórios do ora recorrente, em franca violação ao art. 1.022 do CPC, porquanto não prestada a jurisdição de forma integral.
+ANTE O EXPOSTO, dou provimento ao recurso especial, para anular o aresto proferido em embargos de declaração. Retornem os autos à Corte de origem, para que esta possa, por meio de seu órgão colegiado, proferir novo acórdão, sanando a omissão apontada nesta decisão.
+Publique-se.
