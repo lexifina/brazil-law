@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo manejado por NEIDE APARECIDA VIEIRA RIBEIROcontra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, "a" e "c", da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 3ª Região, assim ementado (fl. 391):
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO. DECISÃOMONOCRÁTICA. ARTIGO 1.021 E §§ DO CPC. APELAÇÃO. CUMPRIMENTO DE SENTENÇA. DECISÃO DE HOMOLOGAÇÃO DE CÁLCULO. INTERLOCUTÓRIA. NÃO EXTINGUIU A EXECUÇÃO.
+- A agravante não apresenta qualquer subsídio capaz de viabilizar a alteração dos fundamentos da decisão recorrida.
+- O recurso não foi conhecido porque a decisão recorrida não pôs fim a execução, tendo, portanto, natureza interlocutória.
+- A apelação interposta não constitui o meio processual adequado para impugnação do ato judicial nele atacado.
+- A decisão agravada está suficientemente fundamentada e abordou todas as questões suscitadas, pretende a agravante rediscutir argumentos já enfrentados.
+- Não se aplica o princípio da fungibilidade recursal, na medida em que a conversão do recurso pressupõe ao menos a escusabilidade do erro, o que não ocorre na hipótese vertente.
+- Agravo interno desprovido.
+Nas razões do recurso especial, a parte agravante apontaviolação aos arts. 485, 487, 489, 203, §§ 1º e 2º, 724, e 1.009, todos do Código de Processo Civil.Sustenta, em síntese,que "A sentença proferida julgou parcialmente procedente o pedido da recorrente, extinguindo a fase de liquidação, sendo, pois, cabível o recurso de apelação, jamais agravo de instrumento" (fl. 397)
+Aduz que "não demanda grande esforço hermenêutico o caso em apreço, de qualquer prisma que se observe, conclusão outra não resta, a decisão foi proferida sob a nomenclatura de sentença" (fl. 397)
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+O inconformismo não comporta acolhida.
+Observa-se que o Tribunal de origem não conheceu do recurso de apelação interposto, por ter sido aforado contra decisão que não extinguiu o feito, tendodeterminado o prosseguimento do cumprimento de sentença.
+Colhe-se do julgado estadual a seguinte fundamentação (fl. 388):
+A decisão monocrática não conheceu o recurso de apelação porque a decisão recorrida rejeitou a impugnação apresentada pelo Instituto Nacional do Seguro Social (INSS) e determinou o prosseguimento da execução pelo valor de R$49.874,46, -sem pôr fim à execução - tem natureza, portanto, interlocutória.
+Nesse contexto, o acórdão recorrido está em harmonia com a orientação jurisprudencial deste Superior Tribunal, firme no sentido de que a decisão que resolve Impugnação ao Cumprimento de Sentença e extingue a execução deve ser atacada apor meio de Apelação, enquanto aquela que julga o mesmo incidente, mas sem extinguir a fase executiva, por meio de Agravo de Instrumento. É firme, também, o entendimento de que, em ambas as hipóteses, não é aplicável o princípio da fungibilidade recursal (AREsp 1567607/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 22/10/2019, DJe 05/11/2019).
+A propósito:
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. VIOLAÇÃO AO ART. 535 DO CPC. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. DECISÃO HOMOLOGATÓRIA DE CÁLCULOS EM EXECUÇÃO. AGRAVO DE INSTRUMENTO. CABIMENTO. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - A jurisprudência desta Corte considera que quando a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se, por analogia, o entendimento da Súmula n. 284, do Supremo Tribunal Federal.
+III - Esta Corte orienta-se no sentido de que, "no sistema regido pelo NCPC, o recurso cabível da decisão que acolhe impugnação ao cumprimento de sentença e extingue a execução é a apelação. As decisões que acolherem parcialmente a impugnação ou a ela negarem provimento, por não acarretarem a extinção da fase executiva em andamento, têm natureza jurídica de decisão interlocutória, sendo o agravo de instrumento o recurso adequado ao seu enfrentamento" (REsp 1.698.344/MG, 4ª T., Rel. Min. Luis Felipe Salomão, DJe 1º.08.2018).
+IV - No caso, trata-se de decisão de natureza interlocutória homologatória de cálculos em execução elaborados pela parte autora, a qual deveria ter sido impugnada por meio de Agravo de Instrumento, não merecendo reparos o acórdão recorrido.
+V - O Agravante não apresenta, no agravo, argumentos suficientes para desconstituir a decisão recorrida.
+VI - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VII - Agravo Interno improvido.
+(AgInt no REsp n. 1.957.616/MG, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 23/5/2022, DJe de 25/5/2022.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. DECISÃO INTERLOCUTÓRIA HOMOLOGATÓRIA DE CÁLCULOS. CUMPRIMENTO DE SENTENÇA. RECURSO CABÍVEL. AGRAVO DE INSTRUMENTO. ART. 475-H DO CPC/73. INTERPOSIÇÃO DE APELAÇÃO. ERRO GROSSEIRO. PRINCÍPIO DA FUNGIBILIDADE. NÃO APLICAÇÃO. ALEGADA VIOLAÇÃO AO ART. 1.022 DO CPC/2015. INEXISTÊNCIA DE VÍCIOS, NO ACÓRDÃO RECORRIDO. INCONFORMISMO. FALTA DE IMPUGNAÇÃO, NO RECURSO ESPECIAL, DE FUNDAMENTO DO ACÓRDÃO COMBATIDO, SUFICIENTE PARA A SUA MANUTENÇÃO. INCIDÊNCIA DA SÚMULA 283/STF. AGRAVO INTERNO NÃO PROVIDO.
+I. Agravo interno aviado contra decisão que julgou recurso interposto contra decisum publicado na vigência do CPC/2015.
+II. O acórdão do Tribunal de origem não conheceu da Apelação, interposta contra decisão interlocutória que homologara os cálculos de liquidação de sentença, uma vez que tal decisum desafia o recurso de agravo de instrumento, nos termos do art. 475-H do CPC/73.
+III. Não há falar, na hipótese, em violação ao art. 1.022 do CPC/2015, porquanto a prestação jurisdicional foi dada na medida da pretensão deduzida, de vez que os votos condutores do acórdão recorrido e do acórdão proferido em sede de Embargos de Declaração apreciaram fundamentadamente, de modo coerente e completo, as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida.
+IV. Não merece prosperar o Recurso Especial, quando a peça recursal não refuta determinado fundamento do acórdão recorrido, suficiente para a sua manutenção, em face da incidência da Súmula 283/STF ("É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles").
+V. Agravo interno improvido.
+(AgInt no REsp n. 1.807.588/PR, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 20/8/2019, DJe de 23/8/2019.)
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
