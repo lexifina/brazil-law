@@ -1,0 +1,7 @@
+DECISÃO
+Trata-se de agravo interno interposto por Natalia de Cássia Lima Torrescontra decisão que deu provimento ao recurso especial do Município de Vargem Grande do Sul, a fim de considerar o laudo pericial como termo inicial do pagamento do adicional de insalubridade (fls. 224/230).
+Inconformada, a parte agravante sustenta que "Da forma como lançada, a decisão monocrática altera a sentença/acordão transitado em julgado, que, nos termos do devido processo legal, após perícia técnica realizada nos autos, condenou a agravada ao pagamento do adicional de insalubridade a partir do quinquênio anterior a distribuição da ação.O laudo técnico produzido nesta ação, deu conta de que a agravante sempre esteve exposta aos agentes nocivos fazendo jus a insalubridade.A agravada sempre teve conhecimento do pedido da recorrida em sua totalidade, jamais resistindo ser devido os pagamentos no quinquênio anterior ao ajuizamento da ação.A decisão de mérito, base do cumprimento de sentença, está transitada em julgado, sendo que da forma como lançada a decisão monocrática altera a coisa julgada, o que não é possível, nesta fase processual." (fls. 234/235).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Melhor compulsando os autos, exercendo o juízo de retratação facultado pelo art. 1.021, § 2º, 2ª parte, do CPC e 259 do RISTJ, reconsidero a decisão agravada (fls. 224/230), tornando-a sem efeito.
+Após, voltem-me os autos conclusos para nova apreciação do recurso especial.
+Publique-se.
