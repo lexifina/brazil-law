@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por MARIA DO CARMO DE ARAUJO PINHEIRO (MARIA DO CARMO) contra decisão que negou seguimento ao seu apelo nobre manejado, por sua vez, contra acórdão do Tribunal de Justiça do Estado do Ceará, assim ementado:
+PROCESSO CIVIL. AGRAVO INTERNO EM RECURSO DE APELAÇÃO.AÇÃO DECLARATÓRIA DE NULIDADE/INEXISTÊNCIA CONTRATUAL C/C PEDIDO DE REPETIÇÃO DO INDÉBITO E INDENIZAÇÃO POR DANOS MORAIS.JULGAMENTO ANTECIPADO DA LIDE. AUSÊNCIA DE PROVAS.CERCEAMENTO DE DEFESA. MATÉRIA DE ORDEM PÚBLICA. SENTENÇA ANULADA DE OFÍCIO POR DECISÃO MONOCRÁTICA. AGRAVO INTERNO CONHECIDO, TODAVIA, DESPROVIDO, DECISÃO AGRAVADA MANTIDA.
+1. Nas ações que versam sobre empréstimo consignado mediante descontos em benefício previdenciário, a prova da existência do contrato e do proveito econômico do consumidor, diante da operação bancária/transferência/depósito do valor contratado, é elemento essencial ao deslinde dos fatos e à procedência ou improcedência da demanda.
+2. De acordo com o inc. II do Art. 355 do CPC, um dos requisitos autorizadores do julgamento antecipado de mérito, é quando não houver requerimento de prova, o que não é o caso dos autos, mormente quando a parte promovida requereu a produção de provas na contestação.
+3. Neste contexto, evidenciada a necessidade de produção de provas requeridas pela ré, a tempo oportuno, constitui cerceamento de defesa o julgamento antecipado da lide, com infração aos princípios constitucionais do contraditório, ampla defesa e devido processo legal e, por fim, a cooperação entre as partes, sendo, pois, matéria de ordem pública, conhecível de ofício, portanto.
+4. Desta forma, a antecipação do julgamento da ação sem anterior comunicação às partes demonstra o error in procedendo, sobretudo porque a sentença de procedência teve como fundamento a ausência de produção de prova pela instituição bancária, razão pela qual é necessária a anulação da sentença, e
+consequente remessa dos autos à origem para saneamento do feito e regular processamento, restando prejudicada a análise do mérito das apelações interpostas. Precedentes da jurisprudência pátria.
+5. Destaca-se que este entendimento também é adotado pelo Enunciado n. 297 do Fórum Permanente de Processualistas Civis: (art. 355) O juiz que promove julgamento antecipado do mérito por desnecessidade de outras provas não pode proferir sentença de improcedência por insuficiência de provas.
+6. AGRAVO CONHECIDO, TODAVIA, NÃO PROVIDO. DECISÃO AGRAVADA MANTIDA, NA ÍNTEGRA(e-STJ, fls.230/231).
+Inconformada, MARIA DO CARMO manejou recurso especial, com amparo no art. 105, III, alíneasa e c, da CF, alegando violação dos arts. 2º, 4º, 6º, 8º, 141, 355, I, 356, 371, 373, II, 434, 435, § único, 489, § 1º, V, 507 e 932, IV e V, do NCPC,sustentando, em síntese, que o não houvecerceamento de defesa com o julgamento antecipado da lide.
+O recurso não foi admitido pelo TJCE (e-STJ, fls. 312/315).
+Nas razões do presente agravo, MARIA DO CARMOalegou que seu recurso merece seguimento, uma vez que, deve ser afastadooóbicesumular aplicado.
+Não foi apresentada contraminuta (e-STJ, fl. 353).
+É o relatório.
+DECIDO.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial, que não merece prosperar.
+Da alegada violação dos arts.2º, 4º, 6º, 8º, 141, 355, I, 356, 371, 373, II, 434, 435, § único, 507 e 932, IV e V, do NCPC
+MARIA DO CARMO sustentou quenão houve cerceamento de defesa com o julgamento antecipado da lide.
+Quanto ao ponto, o TJCE, soberano na análise do contexto fático-probatório, levou em consideração, no caso concreto, as seguintes particularidades:
+Ademais, no caso em comento, a controvérsia cinge-se em analisar a existência, ou não, de contratação de empréstimo junto à instituição financeira promovida.
+Dito isto, cumpre salientar que, nas ações que versam sobre empréstimo consignado mediante descontos em benefício previdenciário, a prova da existência do contrato e do proveito econômico do consumidor, diante da operação bancária/transferência/depósito do valor contratado, é elemento essencial ao deslinde dos fatos e à procedência ou improcedência da demanda.
+Prosseguindo, de acordo com o inc. II do Art. 355 do CPC, um dos requisitos autorizadores do julgamento antecipado de mérito, é quando não houver requerimento de prova, o que não é o caso dos autos, mormente quando a parte promovida requereu a produção de provas na contestação (pág. 83), veja-se:
+ ..
+Conforme precedentes do STJ 2 , o requerimento de produção de provas divide-se em dois momentos. O primeiro, consistente em protesto genérico na petição inicial  e contestação , e o segundo, após eventual contestação, quando intimada a parte para especificação das provas.
+Todavia, no caso dos autos o Magistrado de primeiro grau julgou antecipadamente a lide, com anúncio, apenas, em sentença, mesmo com requerimento expresso para produção de provas.
+Neste contexto, evidenciada a necessidade de produção de provas requeridas pela ré, a tempo oportuno, constitui cerceamento de defesa ojulgamento antecipado da lide, com infração aos princípios constitucionais do contraditório, ampla defesa e devido processo legal e, por fim, a cooperação entre as partes, sendo, pois, matéria de ordem pública, conhecivel de ofício, portanto.
+ ..
+Desta forma, como já bem destacado na decisão monocrática de págs.180/187, reitero que a antecipação do julgamento da ação sem anterior comunicação às partes demonstra o error in procedendo, sobretudo porque a sentença de procedência teve como fundamento a ausência de produção de prova pela instituição bancária, razão pela qual é necessária a anulação da sentença, e consequente remessa dos autos à origem para saneamento do feito e regular processamento, restando prejudicada a análise do mérito das apelações interpostas (e-STJ, fls. 233/239,sem destaque no original)
+Nesse sentido, o Tribunal de Justiça do Estado do Ceará, concluiu que ficou demonstrada a configuração do cerceamento de defesa.
+Assim, deve-se considerar inviável a alteração da conclusão a que chegou o TJCEquanto ao tema, pois, para tanto, seria necessário reexaminar fatos e provas quanto ao ônus probatório, providência vedada a esta Corte, de acordo com a Súmula nº 7 do STJ.
+Sobre o tema, confiram-se os precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. CERCEAMENTO DE DEFESA. PROVA. INDEFERIMENTO. SÚMULA Nº 7/STJ. RESCISÃO CONTRATUAL. ANÁLISE. IMPOSSIBILIDADE. SÚMULAS NºS 5 E 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Modificar a conclusão do tribunal de origem, soberano quanto à análise da necessidade ou não de se produzir outras provas além daquelas já produzidas, demandaria o reexame do contexto fático-probatório dos autos, providência vedada em recurso especial tendo em vista o óbice da Súmula nº 7/STJ.
+3. Na hipótese, acolher a tese acerca da possibilidade de rescisão contratual exigiria exceder os fundamentos do acórdão impugnado e adentrar no exame das provas e cláusulas contratuais, procedimentos vedados em recurso especial, a teor das Súmulas nºs 5 e 7/STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.795.106/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 6/6/2022, DJe de 10/6/2022)
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AOS ARTS. 489 E 1.022 DO CPC/2015. REEXAME DO CONTRATO E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. DEFICIÊNCIA DE FUNDAMENTAÇÃO DO RECURSO. SÚMULA N. 284 DO STF. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283/STF. DECISÃO MANTIDA.
+1. Inexiste afronta aos arts. 489 e 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. O recurso especial não comporta o exame de questões que impliquem interpretação de cláusula contratual ou revolvimento do contexto fático-probatório dos autos, a teor do que dispõem as Súmulas n. 5 e 7 do STJ.
+3. No caso concreto, a análise das razões apresentadas pela parte recorrente, quanto à existência de cerceamento de defesa e à propriedade da produção sequestrada, demandaria o reexame da matéria fática, o que é vedado em sede de recurso especial.
+4. Considera-se deficiente, a teor da Súmula n. 284 do STF, a fundamentação recursal que alega violação de dispositivo legal cujo conteúdo jurídico é dissociado da tese defendida no recurso especial.
+5. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF.
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.894.779/PR, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 30/5/2022, DJe de 2/6/2022)
+Em relação a alegada violação doart. 489, § 1º, V, NCPC, observa-se das razões recursais que MARIA DO CARMO se limitou a alegar a violação do referido artigo, porém, não detalhou e demonstrou, de forma clara, precisa e fundamentada, como e em que medida o acórdão recorrido teria afrontado o dispositivo legal, o que caracteriza a deficiência na fundamentação. Portanto, incide no caso, por analogia, a Súmula nº 284 do STF, in verbis: É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+Nessas condições, com fundamento no art. 1.042, § 5º, do NCPC, c/c o art. 253 do RISTJ (com a nova redação que lhe foi dada pela Emenda nº 22 de 16/3/2016, DJe 18/3/2016), CONHEÇO do agravo para não NÃO CONHECER do recurso especial.
+Por oportuno, previnoque a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO INTERPOSTO SOB A ÉGIDE DO NCPC. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA CONTRATUAL CUMULADA COM REPETIÇÃO DE INDÉBITO E INDENIZAÇÃO POR DANOS MORAIS. CERCEAMENTO DE DEFESA. CONFIGURAÇÃO.REFORMA DA PRETENSÃO. INVIABILIDADE. APLICAÇÃODA SÚMULA Nº 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
