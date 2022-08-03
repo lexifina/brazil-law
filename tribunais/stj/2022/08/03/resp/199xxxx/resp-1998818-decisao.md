@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de recurso especial, manejado pela FAZENDA NACIONAL, com base no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 423):
+TRIBUTÁRIO. APELAÇÃO. APREENSÃO DE VEÍCULO. EMPRESA LOCADORA. PENA DE PERDIMENTO.
+Não havendo prova de que a locadora tenha atuado conjuntamente com o locatário para a prática da conduta infratora, deve ser tutelada a livre iniciativa, a liberdade econômica, a boa fé e o respeito ao contrato, indispensáveis ao crescimento econômico do País, afastando-se a imposição da pena de perdimento.
+Os embargos declaratórios opostos foram rejeitados, nos termos do acórdão de fls. 454/459.
+A parte recorrente aponta violação aos arts. 489, II, e 1.022, II, do CPC; 23, 24 e 25 do Decreto-Lei 1.455/76; 136 do CTN; 602, 603 e 617 do Decreto 4.543/2002 (Regulamento Aduaneiro); 94, 95, 104 e 105 do Decreto-Lei 37/66. Sustenta, em resumo, que: (I) a despeito dos embargos de declaração, o Tribunala quoremanesceu omisso acerca das questões neles suscitadas; e (II) "a aplicação da pena de perdimento independe da boa ou má-fé do proprietário, bastando que reste comprovado o fato de que o veículo foi utilizado para o transporte de mercadorias irregularmente internadas no país" (fl. 480).
+Contrarrazões apresentadas às fls. 489/502.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Verifica-se, inicialmente, não ter ocorrido ofensa aos arts. 489 e 1.022 do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos; não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Lado outro, quanto ao mérito, verifica-se o seguinte trecho do acórdão (fl. 406):
+Não havendo prova de que a locadora tenha atuado conjuntamente com o locatário para a prática da conduta infratora, deve ser tutelada a livre iniciativa, a liberdade econômica, a boa fé e o respeito ao contrato, indispensáveis ao crescimento econômico do País.
+Assim, verifica-se que o Tribunal de origem amparou-se em fundamentos constitucional e infraconstitucional, qualquer um deles apto a manter inalterado o acórdão recorrido. Portanto, a ausência de interposição de recurso extraordinário atrai a incidência da Súmula 126/STJ ("É inadmissível recurso especial, quando o acórdão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário."). Nesse mesmo sentido: AgInt no AREsp 1.702.175/GO, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe 4/12/2020; AgInt no AREsp 1.642.570/SP, Rel. Ministro Og Fernandes, Segunda Turma, DJe 27/11/2020.
+De igual modo, exsurge que a desconstituição das premissas lançadas pela instância ordinária, na forma pretendida, demandaria o reexame de matéria de fato, procedimento que, em sede especial, encontra óbice na Súmula 7/STJ.
+ANTE O EXPOSTO, conheço em parte do recurso especial e, na parte conhecida, nego provimento.
+Publique-se.
