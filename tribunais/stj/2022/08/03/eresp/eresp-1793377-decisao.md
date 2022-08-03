@@ -1,0 +1,10 @@
+DECISÃO
+1. Determino que a Coordenadoria proceda a correta identificação do embargante nestes embargos de divergência (Petição n. 00470249/2022).
+2. JOÃO PROCÓPIO JUNQUEIRA PACHECO DE ALMEIDA PRADO opõe embargos de divergência, às fls. 22.388-22.412,contra acórdão proferido pela Quinta Turma desta Corte, que negou provimento ao agravo regimental interposto contra decisão conheceu parcialmente do recurso especial e, na parte conhecida, negou-lhe provimento.
+Em suas razões, afirma o embargante, com o objetivo de ver reformado o acórdão impugnado, que a divergência com o aresto proferido pela Sexta Turma no REsp n. 1.691.901/RS está configurada, na medida em que no caso vertente, a colaboração do réu não foi suficiente para a incidência da causa de diminuição prevista no art. 1º, § 5º, da Lei n. 9.613/1998, situação diversa do que ocorreu com o paradigma.
+Decido.
+Diversamente do sustentado pelo insurgente, não verifico a existência de similitude fática entre os casos confrontados. Deveras, compulsando os autos, observo que o acórdão embargado destacou que "as informações prestadas pelo ora agravante, embora tenha a participação na localização de valores existentes em contas offshore controladas pelo próprio réu, não foi tão efetiva a sua participação na identificação de outros valores" (fl. 22.313, grifei).
+Já no paradigma, a incidência da causa de diminuição prevista no art. 1º, § 5º, da Lei n. 9.613/1998 somente foi possível porque "ao menos um dos efeitos exigidos pela lei, na redação atual, foi alcançado, qual seja, a apuração das infrações penais", vale dizer, "prestou esclarecimentos substanciais à apuração do delito antecedente (peculato) e subsequente (lavagem)" (fl. 22.409, ambas as citações, destaquei).
+Como se observa, no acórdão embargado ficou evidenciado que as informações prestadas pelo embargante não foram tão efetivas, ao passo que no paradigma, foram suficientes para a completa apuração das infrações penais.
+À vista do exposto, com fundamento no art. 266-C do RISTJ, indefiro liminarmente os embargos de divergência.
+Publique-se e intimem-se.
