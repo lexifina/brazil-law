@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de JOAO ILIDIO DA SILVA apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (HC n.2007268-08.2022.8.26.0000).
+Foi o paciente preso em flagrante pela suposta prática do crime de homicídio qualificado na forma tentada.
+Segundo o apurado,a vítima estava trabalhando na residênciado paciente como pedreiro e, em dado momento, o paciente começou a golpeá-lo com um podão, sob a alegação de que "sentia que a vítima estaria fazendo macumba para o paciente e para sua esposa" (e-STJ fl. 265). Após os fatos, o paciente compareceu perante a autoridade policial, sendo autuado em flagrante.
+A prisão em flagrante foi convertida em preventiva.
+Contra essa decisão insurgiu-se a defesa.
+Osdesembargadores integrantes da Segunda Câmara de Direito Criminal concederama ordem de habeas corpus para substituir a prisão preventiva de João Ilídio da Silvapela medida cautelar de internação provisória, com fundamento nos artigos 312, 313 e 319, inciso VII, todos do Código de Processo Penal.
+No Superior Tribunal de Justiça, "a defesa entende ser possível o tratamento ambulatorial em razão dos princípios da adequação, da razoabilidade e da proporcionalidade".Destaca que o acusado "estava em tratamento há mais de 04 anos e nunca houve surto. Trata-se de pessoa tranquila e não voltada a violência, sendo o ocorrido um fato isolado em sua vida" (e-STJ fl. 6).
+Ressalta "que a internação foi aplicada ao paciente em razão da gravidade do delito praticado e do fato de a pena corporal a ele imposta ser de reclusão sem que nada de concreto tenha sido explicitado acerca de sua eventual periculosidade social, sendo certo que se trata de agente primário, sem qualquer envolvimento anterior com a prática delitiva, ou notícia de que tenha reiterado no crime, é cabível oabrandamento da medida de segurança" (e-STJ fl. 7).
+Diante dessas considerações, pede seja substituída a medida cautelar de internação pelo tratamento ambulatorial.
+Não houve pedido liminar.
+Ouvido, o Ministério Público Federal manifestou-se pela denegação da ordem (e-STJ fls. 319/323).
+É o relatório.
+Decido.
+Como vimos do relatório, busca a defesa a substituição da internação do paciente por tratamento ambulatorial.
+Com feito, ainternação provisóriaconstitui medida cautelardiversa daprisãoe é cabível nas hipóteses de delitosperpetrados com violência ou grave ameaça, sendo imperiosa a conclusão dos peritos acerca da inimputabilidadeou semi-imputabilidade do réu(art. 26 do Código Penal) e aexistência de risco de reiteração, nos moldes do art. 319, inciso VII, do Código de Processo Penal.
+Sobre o tema, assim se manifestou o colegiado local (e-STJ fls. 45/49):
+No mais, há prova da materialidade, são promissores os indícios de autoria e razões de ordem pública recomendam que o Paciente seja afastado do corpo social, pois a sociedade deve ser privada do convívio de pessoal que tenta tirar a vida de outra por motivo tão estapafúrdio. E a pena máxima cominada ao delito ultrapassa a quatro (4) anos (CPP, art. 313, I).
+Inobstante, foi juntado aos autos parecer técnico subscrito por psiquiatra atestando que o Paciente é inimputável em razão da esquizofrenia. O juízo de origem já instaurou incidente para que perito oficial verifique a imputabilidade do Paciente.
+O Paciente tem 73 anos, fazia tratamento psiquiátrico há cerca de quatro anos, com prescrição de medicamentos para controle dos sintomas, tudo conforme demonstrado pelos documentos de fls. 10/31. E, convenhamos, pessoa no pleno gozo de suas faculdades mentais não sai por aí investindo contra a integridade física e a vida de outrem por acreditar que esteja fazendo "macumba" para a sua família, valendo pontuar que o Paciente é confesso.
+O Paciente representa risco para si e para a sociedade e deve mesmo ser retirado do convívio social, pois presentes os requisitos dos artigos 312 e 313, do CPP, mas não por intermédio de prisão provisória.
+Não se cogita de tratamento ambulatorial, providência que somente pode ser adotada com a superveniência de sentença absolutória imprópria ou condenatória na qual se reconheça a semi-imputabilidade. Mas é possível a internação provisória, nos termos do artigo 319, inciso VII, do Código de Processo Penal, medida que vai ao encontro das diretrizes estabelecidas pela Lei nº 10.216/01, como tem decidido o Colendo Superior Tribunal de Justiça:
+ ..
+Ante o exposto, pelo meu voto concede-se a ordem para substituir a prisão preventiva de João Ilídio da Silva, R.G. nº 13.800.839-SP, pela medida cautelar de internação provisória, com fundamento nos artigos 312, 313 e 319, inciso VII, todos do Código de Processo Penal, devendo o magistrado "aquo" adotar as providências necessárias para a inserção do Paciente em estabelecimento psiquiátrico oficial ou conveniado.
+No caso em desfile, destacaram as instâncias de origem representar o pacienterisco para si e para a sociedade, sendo imperiosa a sua retiradado convívio social. Destacaram as instâncias de origem a gravidade concreta da conduta perpetrada, pois "por motivo fútil e torpe, sob a justificativa de a vítima estar fazendo "macumba",o autuado desferiu os golpes de "podão" em detrimento de quem ali se fazia presente na condição de pedreiro prestando serviços na residência, o que pressupõe risco à ordem pública, dada a impessoalidade do ataque e contra quem sequer havia qualquer desentendimento prévio" (e-STJ fl. 14).
+Diante desse cenário, entendo que, para alterar as conclusões alcançadas pelo Tribunal de Justiça, imperiososeria o reexame de fatos e provas, providência incompatível com os estritos limites do remédio constitucional.
+No mesmo caminhar:
+PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FURTO QUALIFICADO E CORRUPÇÃO DE MENORES. PLEITO DE SUBSTITUIÇÃO DA MEDIDA DE SEGURANÇA DE INTERNAÇÃO POR TRATAMENTO AMBULATORIAL EM MEIO ABERTO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. INCIDÊNCIA.
+1. No caso, para que fosse possível a análise da pretensão recursal, sobre qual a melhor forma de cumprimento da medida de segurança pelo agravante, se internação ou tratamento ambulatorial, seria imprescindível o reexame dos elementos fático-probatórios dos autos, o que é defeso em âmbito de recurso especial, em virtude do disposto na Súmula n. 7 desta Corte.
+2. Agravo regimental desprovido.
+(AgRg no REsp n. 1.422.477/SP, de minha relatoria, julgado em 3/4/2018, DJe de 9/4/2018.)
+PENAL E PROCESSUAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. HOMICÍDIO QUALIFICADO. INCIDENTE DE INSANIDADE MENTAL. INTERNAÇÃO PROVISÓRIA. CONVERSÃO EM TRATAMENTO AMBULATORIAL. VIA ELEITA INADEQUADA. NECESSIDADE DE DILAÇÃO PROBATÓRIA.
+1. A jurisprudência do Superior Tribunal de Justiça, acompanhando a orientação da Primeira Turma do Supremo Tribunal Federal, firmou-se no sentido de que o habeas corpus não pode ser utilizado como substituto de recurso próprio, sob pena de desvirtuar a finalidade dessa garantia constitucional, exceto quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício.
+2. Periculosidade da paciente e risco de reiteração delituosa reconhecidos pelas instâncias ordinárias, que, baseadas em laudo psiquiátrico, entenderam ser a internação provisória a medida cautelar mais adequada ao caso.
+3. Esta Corte Superior entende que a via estreita do habeas corpus não se presta à substituição da medida de internação pela de tratamento ambulatorial, visto que, para tanto, far-se-ia necessário alterar o entendimento firmado pelos juízos de 1º e 2º grau, o que demandaria dilação probatória. Precedentes.
+4. Habeas corpus não conhecido.
+(HC n. 316.629/DF, relator Ministro Gurgel de Faria, Quinta Turma, julgado em 28/4/2015, DJe de 15/5/2015.)
+Ante o exposto, denego a ordem de habeas corpus.
+Publique-se. Intimem-se.
