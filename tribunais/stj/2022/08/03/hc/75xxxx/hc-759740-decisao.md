@@ -1,0 +1,9 @@
+DECISÃO
+O presente habeas corpus impetrado em nome de Alexsander Soares Santos Costa - condenado a 5 anos de reclusão e 500 dias-multa pela prática do crime de tráfico de drogas, atacando-se acórdão proferido pelo Tribunal de Justiça de São Paulo (fls. 28/37), que alterou sentença condenatória prolatada na Ação Penal n. 1501466-98.2020.8.26.0536 (fls. 15/18), da 1ª Vara Criminal da comarca de Praia Grande/SP, requerendo-se a aplicação da redução máxima de pena a teor do art. 33, § 4º, da Lei n.11.343/2006, regime aberto e conversão da pena privativa de liberdade em restritiva de direitos (fl. 6) - não deve ser conhecido.
+Isso porque, após consulta ao Sistema Integrado da Atividade Judiciária deste Superior Tribunal, verifica-se que foi interposto o REsp n. 1.973.558/SPpelo ora paciente, com o mesmo objeto e em face do mesmo ato coator (Apelação Criminal n. 1501466-98.2020.8.26.0536).
+Assim, o fato de este writ constituir mera reiteração de pedidos já apreciados por esta Corte Superior impede o seu conhecimento. Se os pedidos veiculados neste habeas corpus foram efetivamente apreciados por esta Corte em outro processo, resta configurada a reiteração (AgRg no HC n. 469.846/PE, Ministro Ribeiro Dantas, Quinta Turma, DJe 13/8/2019). Confiram-se julgados no mesmo sentido: AgRg no RHC n. 156.181/MS, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 24/2/2022; EDcl nos EDcl no AgRg no RHC n. 137.734/PR, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 11/3/2022; e AgRg na RvCr n. 4.101/RJ, Ministro Felix Fischer, Terceira Seção, DJe 1º/8/2018.
+Em razão disso, não conheço do presente writ.
+Publique-se.
+EMENTA
+HABEAS CORPUS. SENTENÇA. TRÁFICO DE DROGAS. DOSIMETRIA. TERCEIRA FASE. CAUSA DE DIMINUIÇÃO DA PENA DO TRÁFICO PRIVILEGIADO (ART. 33, § 4º, DA LEI N. 11.343/2006). REGIME INICIAL. SUBSTITUIÇÃO DA PENA. ANTERIOR INTERPOSIÇÃO DO RESP N. 1.973.558/SP. REITERAÇÃO DE PEDIDOS.
+Writ não conhecido.
