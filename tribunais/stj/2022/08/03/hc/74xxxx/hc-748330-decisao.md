@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se  de  habeas  corpus  com  pedido  liminar  impetrado  em  favor  de  CARLOS FERNANDO DALLANORA apontando  como  autoridade  coatora  o  Tribunal  de  Justiça  do  Estado  do  Rio Grande do Sul(Habeas  Corpus  n.  5055343-17.2022.8.21.7000).
+Os  autos  dão  conta  de  que  o  ora  paciente  foi  preso  em  flagrante em 27/2/2022, pela  suposta  prática  do  crime  previsto  no  art.  33,  caput , da Lei n. 11.343/2006 (tráfico de drogas), pois, "conforme relato dos Policiais, o Acusado foi abordado quando se deslocava de automóvel em um bairro da cidade, sendo encontrado com ele o material apreendido, correspondente a uma porção de 100 gramas de cocaína em pedra, que, segundo a Autoridade Policial, fracionada implica em cerca de 100 unidades" (e-STJ fl. 185, grifei).
+Após manifestação do órgão ministerial, o Juízo de primeiro grau converteu a prisão em flagrante em preventiva (e-STJ fls. 185/186).
+Irresignada,  a  defesa  impetrou  habeas  corpus  no  Tribunal  de  origem,  que  denegou  a  ordem  nos  termos  do  acórdão  assim  ementado  (e-STJ  fls.  18/19):
+HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA JUSTIFICADA.
+Preliminar. Alegação de nulidade da revista pessoal e veicular realizada, em razão de não haver motivação idônea da autoridade policial para realizar a busca. Entretanto, o que se depreende dos autos é que o automóvel tripulado pelo réu foi parado em atitude considerada como suspeita pelos policiais, que declararam na Delegacia de Polícia que o ora paciente "quase deixou o carro apagar ao deparar com a viatura da BM". Ademais, o veículo não estava registrado em nome do paciente e este não possuía carteira de habilitação.Tais condições geraram suspeita a autorizar a busca pessoal, nos termos do § 2º do artigo 240 do Código de Processo Penal. Preliminar rejeitada.
+Mérito.Presentes prova da materialidade e indícios suficientes da autoria do agente em delito grave, tráfico de drogas, que causa enorme intranquilidade social.Apreensão com o paciente de 100g de cocaína e dinheiro em espécie. Logo, justificada a prisão preventiva para a garantia da ordem pública, ausente constrangimento ilegal. Prisão cautelar que tem requisitos próprios, não violando os princípios da presunção de inocência e da proporcionalidade. O fato de o paciente ser tecnicamente primário não impede a prisão preventiva quando presentes os requisitos para sua decretação, sendo incabível, eis queinsuficiente, a substituição por qualquer das medidas cautelares alternativas previstas no art. 319 do CPP. Incabível neste momento processual a proposta de acordo de não persecução penal, já que se trata de crime com pena mínima cominada de 05 (cinco) anos de reclusão (art. 28-A, caput, do CPP).
+
+No  presente  writ,  a  impetrante,  além  de  exaltar  os  predicados  pessoais  do  paciente,  alega  que  não  estão  presentes  os  requisitos  autorizadores  da  prisão  preventiva , e  que  não  há  fundamentos  idôneos  para  justificar  a  sua  decretação/manutenção.
+Afirma que o decreto prisional restringiu-se a mencionar fundamentos genéricos, como a "garantia da ordem pública",inaptos a justificar a prisão preventiva do réu, que, além de primário, supostamente cometeu crime sem violência ou grave ameaça à pessoa, estando ausentes os requisitos legais ao encarceramento cautelar.
+Sustenta que, "ao fundamentar a prisão preventiva na garantia da ordem pública, o decreto prisional coloca sobre os ombros do Poder Judiciário a função de resguardar a segurança pública" (e-STJ fl. 8).
+Acrescenta  que a gravidade do delito, por si só, não se mostra fundamento idôneo para a decretação do enclausuramento preventivo, que deve ser a última medida a ser tomada conforme atual ordenamento judicial, que prevê a prévia aplicação de medidas cautelares alternativas.
+Afirma que, "ademais, o delito supostamente praticado não envolveu qualquer violência ou grave ameaça a pessoas, eis que se trata de tráfico de drogas, tendo sido apreendida quantidade pequena de entorpecentes: 100 gramas de cocaína" (e-STJ fl. 13).
+Assim,  requer,  em  liminar  e  no  mérito,  a revogação da prisão preventiva do  paciente.
+Liminar indeferida.
+O Ministério Público Federal manifestou-se pela prejudicialidade dowrit.
+É,  o  relatório.
+O presente writ está prejudicado.
+Isso, porqueinformações prestadas pela instância ordinária dão conta de que foi revogada a prisão preventiva em comento (e-STJ fl. 340).
+Assim, patente que o presente writ está prejudicadohaja vista a perda superveniente de objeto.
+Diante do exposto, com base no art. 34, XX, do Regimento Interno desta Corte, julgo prejudicado o presente habeas corpus.
+Publique-se. Intimem-se.
