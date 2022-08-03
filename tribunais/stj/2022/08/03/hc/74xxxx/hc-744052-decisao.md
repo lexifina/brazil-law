@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido liminar, impetrado em favor deLuan Medeiros,no qual se aponta como autoridade coatora o Tribunal de Justiça doRio Grande do Sul, que deu parcial provimento ao recurso de Apelação n. 5003818-14.2021.8.21.0086/RSpara fixar a pena de multa em 500 dias-multa, mantendo o paciente condenado no art.33, caput, da Lei n.11.343/2006, à pena de 5 anos de reclusão, em regime inicial semiaberto.
+Aqui, a defesa alegaconstrangimento ilegal decorrente do afastamento da causa especial de redução de pena pelo tráfico privilegiado - art. 33, § 4º, da Lei 11.343/2006 (fl. 5).
+Aduz que o paciente é primário e que a quantidade de droga apreendida não justifica o afastamento da minorante.
+Salienta que,após a aplicação do redutor referido, atenta-se à necessidade de adequação do regime prisional estabelecido, nos termos do disposto no art. 33, § 2º, alíneas "b" e "c", do Código Penal, bem como à análise da possibilidade de substituição da pena privativa de liberdade por restritiva de direitos (fl. 12).
+Requer, ao final, a concessão da ordempara o fim de reconhecer o privilégio ao delito de tráfico (fl. 13).
+Liminar indeferida (fls. 270/271).
+Informações prestadas (fls. 275/318), o Ministério Público Federal ofereceu parecer pela denegação da ordem (fls. 320/325).
+É o relatório.
+O Tribunal a quo, manteve o afastamento da minorante do tráfico privilegiado nos seguintes termos (fl. 27):
+ ..
+Como bem analisado pelo juízo sentenciante, para o reconhecimento da privilegiadora é necessário o agente ser primário, possuir bons antecedentes, não se dedicar a atividades criminosas, nem integrar organização criminosa, visando atenuar a pena daquele indivíduo que não tem avida voltada ao ilícito.
+Ocorre que, no caso, o acusado responde a outros processos criminais (evento 43, CERTANTCRIM1), pelo mesmo delito de tráfico de entorpecentes. Assim, não preenchidos os requisitos legais, não há falarem reconhecimento da privilegiadora.
+Por oportuno, colaciono trecho da bem lançada sentença:
+Da mesma forma, entendo que não merece acolhimento o pedido defensivo subsidiário de incidência do § 4º do art. 33 da Lei n.º11.343/06, uma vez que, no presente caso, há indicativos claros de que o réu possui envolvimento habitual com atividades de traficância.
+Impende destacar, nesse contexto, queao possibilitar a redução do apenamento em certas condutas, pretende a lei, por motivos de política criminal, distinguir o traficante eventual e não integrante de organização criminosa daquele profissional dedicado às atividades criminosas e integrante desse tipo de organização.
+No caso dos autos, verifica-se que o réu responde a outros processos por crimes da mesma natureza (tráfico de drogas), o que evidencia a dedicação a atividades criminosas. Cabe destacar, por oportuno, que a utilização de processos penais em curso como fundamento para afastamento da privilegiadora é plenamente aceita pelo Superior Tribunal de Justiça, conforme se verifica ..
+Pois bem. Verifica-se que as instâncias ordinárias afastaram a minorante em razão de o paciente responder a outros processos criminais.
+Atérecentemente, a jurisprudência do Superior Tribunal de Justiça admitia como prova da dedicação a atividades criminosas a existência de ações penais em curso (AgRg no HC n. 638.848/MT, Ministro Felix Fischer, Quinta Turma, DJe 26/4/2021).No entanto, em recentes julgados, a Sexta Turma desta Corte Superior, seguindo orientação do Supremo Tribunal Federal, passou a não admitir ações penais em andamento como fundamento da dedicação a atividades criminosas, tendo em conta o princípio da presunção de inocência.
+Dito de outra forma, inquéritos policiais e/ou ações penais ainda sem acertificação do trânsito em julgado não constituem fundamento idôneo a justificar o afastamento do redutor descrito no § 4º do art. 33 da Lei de Drogas, em observância ao princípio constitucional da presunção de não culpabilidade (AgRg no HC n. 648.079/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 22/4/2021).
+A propósito:
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. PENAL. TRÁFICO DE DROGAS PRIVILEGIADO. DISSÍDIO JURISPRUDENCIAL. PLEITO DE DECOTE DO RECONHECIMENTO DA CAUSA DE DIMINUIÇÃO DE PENA. AÇÃO PENAL EM CURSO DESCRITA NO ACÓRDÃO DA APELAÇÃO. FUNDAMENTO INSUFICIENTE A JUSTIFICAR A EXCLUSÃO DA MINORANTE. NOVO POSICIONAMENTO DA SEXTA TURMA (HC N. 559.880/RS, DJE 2/3/2021).
+1. Colhe-se de recentes julgados da Sexta Turma que a Suprema Corte, em recentes precedentes, consignou que, na ausência das demais situações impeditivas da causa de diminuição da pena, tão-somente a existência de ações penais sem trânsito em julgado não pode justificar a negativa de minorante, na esteira do entendimento, firmado sob a sistemática da repercussão geral de que, "ante o princípio constitucional da não culpabilidade, inquéritos e processos criminais em curso são neutros na definição dos antecedentes criminais." (RE 591.054, Tema 129, Relator Marco Aurélio, Pleno, DJe 26/02/2015) (AgRg no AREsp n. 1.801.313/SP, Ministra Laurita Vaz, Sexta Turma, DJe 19/3/2021).
+2. O Supremo Tribunal Federal, por ambas as Turmas, possui o entendimento de que inquéritos policiais e/ou ações penais ainda sem a certificação do trânsito em julgado não constituem fundamento idôneo a justificar o afastamento do redutor descrito no § 4º do art. 33 da Lei de Drogas, em observância ao princípio constitucional da presunção de não culpabilidade. Ressalva deste relator (AgRg no HC n. 648.079/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 22/4/2021).
+3. Agravo regimental improvido.
+(AgRg no REsp n. 1.912.740/SP, de minha relatoria, Sexta Turma, DJe 21/6/2021)
+Nesse mesmo sentido o AgRg no AREsp n. 1.801.313/SP, Ministra Laurita Vaz, Sexta Turma, DJe 19/3/2021; e o HC n. 602.611/DF, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 24/11/2020.
+Além disso, a quantidade do material entorpecente apreendido(158 g de maconha e 42 g de cocaína)não pode ser considerada elevada a ponto de, isoladamente, levar à conclusão de dedicação a atividades criminosas.
+Dessa forma, tratando-se de réu primário enão havendo, pelas instâncias ordinárias, menção a elementos aptos a demonstrar, com segurança, a dedicação a atividades criminosas ou a integração em organização da mesma natureza, deve ser reconhecido seu direito à causa especial de diminuição da pena prevista no art. 33, § 4º, da Lei n. 11.343/2006, no seu patamar máximo.
+Assim, partindo-se doquantumde 5 anos de reclusão e 500 dias-multa, reduzo a reprimenda em 2/3 (art. 33, § 4º, da Lei n. 11.343/2006), fixando-a definitivamente em1 ano e 8 meses de reclusão, além do pagamento de 166 dias-multa.
+Negativada a vetorial preponderante, prevista no art. 42 da Lein.11.343/2006, referente à quantidade e à natureza das drogas apreendidas, deve ser mantidoregimeinicial semiaberto.
+Com efeito,não obstante a formulação da nova dosimetria tenha levado à fixação de reprimenda corporal inferior a 4 anos de reclusão, verifica-se que a pena-base foi fixada acima do mínimo legal, em razão da quantidade e natureza das drogas apreendidas, o que justifica o estabelecimento do regime inicialsemiaberto e não recomenda a substituição por sanções restritivasde direitos.Precedentes(AgRg no HC n. 723.259/SP, Ministra Laurita Vaz, Sexta Turma, julgado em 8/3/2022, DJe 14/3/2022).
+Ante o exposto, concedo parcialmentea ordem para fixar a pena do paciente em 1 anoe 8 meses de reclusão, e pagamento de 166 dias-multa, a ser cumprida em regime semiaberto.
+Comunique-se.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA DA PENA. TERCEIRA FASE. ART. 33, § 4º, DA LEI N. 11.343/2006. AÇÃO PENAL SEM TRÂNSITO EM JULGADO.MUDANÇA DE ENTENDIMENTO.MINORANTE.APLICAÇÃO. NECESSIDADE.
+Ordem parcialmente concedida nos termos do dispositivo.
