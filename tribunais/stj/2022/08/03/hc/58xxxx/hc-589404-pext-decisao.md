@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de pedido de extensão,apresentado em favor de JONATHAN WILLIAM MIGUEL DE SOUZA, da decisão que reconheceu a nulidade da prova obtida mediante violação de domicílio.
+Em suas razões, alega a defesa do peticionário que ele se encontranamesma situação fático-jurídica do paciente e que, por tal motivo, merece a extensão dos efeitos da decisão de e-STJ fls. 252/264.
+O Ministério Público Federal manifestou-se pelo indeferimento do pedido.
+É o relatório.
+Decido.
+O art. 580 do Código de Processo Penal prescreve que, "no caso de concurso de agentes  .. , a decisão do recurso interposto por um dos réus, se fundado em motivos que não sejam de caráter exclusivamente pessoal, aproveitará aos outros".
+Assim, a extensão dos efeitos de benefício concedido a um réu depende da demonstração de que não houve particularização dos fundamentos que não se apliquem aos demais.
+Nesse contexto, diferentemente do sustentado pelo Parquet, depreende-se da denúncia, de e-STJ fls. 104/108, que os agentes se encontravam no mesmo contexto fático, razão por que deve ser aplicado o entendimento exarado nadecisão de e-STJ fls. 252/264, que reconheceu a ilicitude da prova obtida mediante invasão forçada do domicílio dos agentes, da qual transcrevo o seguinte trecho (e-STJ fl. 258):
+No caso em exame, observo que o ingresso forçado na casa onde foram apreendidas as drogas não se sustenta em fundadas razões extraídas da leitura dos documentos dos autos. Isso, porque a diligência apoiou-se no comportamento suspeito dos acusados e na confissão no momento da abordagem de "que estavam indo pagar seu fornecedor de drogas, dispondo de R$ 100,00, bem como informaram que guardavam entorpecentes em suas residências" (e-STJ fl. 105), circunstâncias que não justificam, por si sós, a dispensa de investigações prévias ou do mandado judicial.
+Assim, entendo sero caso de se deferir o pleito de extensão dos efeitos para absolver o requerente, haja vista que, antes da decisão que se pretende beneficiar, já havia sidoproferida sentença condenatóriae dado parcial provimento ao recurso de apelação, fixando pena de 1 ano e 8 meses de reclusão, substituída por duas penas restritivas de direitos,conforme consulta ao processo de origem n. 1500334-51.2020.8.26.0618.
+No mesmo sentido, o seguinte julgado:
+HABEAS CORPUS. TRÁFICO DE DROGAS. SENTENÇA. NULIDADE. INGRESSO DE POLICIAIS NO DOMICÍLIO DO ACUSADO. AUSÊNCIA DE JUSTA CAUSA OU DE AUTORIZAÇÃO JUDICIAL. COMPROMETIMENTO DA MATERIALIDADE DELITIVA. APREENSÃO DE GRANDE QUANTIDADE DE DROGA (21 KG DE MACONHA). ÔNUS DA PROVA. ESTADO ACUSADOR. PROVAS OBTIDAS EIVADAS DE VÍCIO. CONSTRANGIMENTO ILEGAL MANIFESTO.
+1. Esta Corte Superior tem entendido, quanto ao ingresso forçado em domicílio, que não é suficiente apenas a ocorrência de crime permanente, sendo necessárias fundadas razões de que um delito está sendo cometido, para assim justificar a entrada na residência do agente, ou, ainda, autorização para que os policiais entrem no domicílio.
+2. Segundo a nova orientação jurisprudencial, o ônus de comprovar a higidez dessa autorização, com prova da voluntariedade do consentimento, recai sobre o estado acusador.
+3. Ordem concedida para reconhecer a nulidade do flagrante em razão da invasão de domicílio e, por conseguinte, das provas obtidas em decorrência do ato e absolver o paciente da imputação delituosa (art. 386, II, do CPP) referente à Ação Penal n.1500041-98.2020.8.26.0580, da 1ª Vara Criminal da comarca de Assis/SP. Os efeitos desta decisão deverão ser estendidos à corré.
+(HC 685.593/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 14/10/2021, DJe 19/10/2021.)
+Ante todo o exposto, defiro o pedido de extensão para anular a prova decorrente da invasão forçada de domicílio e absolver o peticionante JONATHAN WILLIAM MIGUEL DE SOUZA da imputaçãodelituosa referente à ação penaln. 1500334-51.2020.8.26.0618, da Comarcade Taubaté/SP.
+Publique-se. Intimem-se.
