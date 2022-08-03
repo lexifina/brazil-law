@@ -1,0 +1,70 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto por BANCO PAN S.A. E OUTRAS, contra acórdão prolatado, por unanimidade, pelo Tribunal Regional Federal da 3ª Região, assim ementado (fl. 799e):
+TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA. FÉRIAS GOZADAS.
+1 - Ilegitimidade de Panamericano Adm. de Consórcio Ltda. para o feito.
+2 - Há incidência da contribuição previdenciária patronal sobre valores pagos a título de férias gozadas.
+3 - Apelação não provida.
+Opostos embargos de declaração, foram rejeitados (fls. 814/820e).
+Com amparo no art. 105, III, a, da Constituição da República, a Recorrente aponta ofensa a dispositivos legais, alegando, em síntese:
+- Arts. 11, 489, § 1º e 1.022, II, do CPC/2015 - o tribunal de origem não enfrentou as questões cruciais levantadas em sede de embargos de declaração;
+Art. 1º, I, da Lei n. 7.492/1986 - " ..  as administradoras de consórcio são legalmente equiparadas às instituições financeiras.  ..  por esta razão que a jurisdição da Panamericano Administradora de Consórcio não é em São Bernardo do Campo, mas sim em São Paulo" (fl. 859e).
+Arts. 22, I, 28, § 9º da Lei n. 8.212/1991, 130, 138, 153, 457, § 1º e 458 da CLT - os valores pagos a título de férias gozadas têm natureza indenizatória, razão pela qual não incide contribuição previdenciária, cota patronal, sobre tais rubricas.
+Com contrarrazões, o recurso foi admitido.
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Nos termos do art. 932, III, IV e V, do Código de Processo Civil de 2015, combinados com os arts. 34, XVIII, b e c, e 255, I e II, do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, respectivamente, a:
+i) não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida;
+ii) negar provimento a recurso ou pedido contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ; e
+iii) dar provimento a recurso se o acórdão recorrido for contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ:
+"O Relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Inicialmente, verifico a ausência de demonstração precisa de como a alegada violação aos arts. 11, 489, § 1º e 1.022 do CPC/2015 teria ocorrido, o que impede o conhecimento do recurso especial, nesse ponto.
+Em consonância com o entendimento desta Corte, nos casos em que a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se ao recurso especial, por analogia, o entendimento da Súmula 284, do Colendo Supremo Tribunal Federal, in verbis: É inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia.
+Nesse sentido, os seguintes precedentes:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ENERGIA ELÉTRICA. ALEGAÇÕES GENÉRICAS DE VIOLAÇÃO AOS DISPOSITIVOS LEGAIS. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. AÇÃO DE COBRANÇA. DÉBITO DE TERCEIRO. OBRIGAÇÃO DE NATUREZA PESSOAL. RESPONSABILIDADE DO CONSUMIDOR QUE EFETIVAMENTE UTILIZOU O SERVIÇO.
+1. O recurso especial não pode ser conhecido no tocante à alegada ofensa à Resolução ANEEL 456/00. Isso porque o referido ato normativo não se enquadra no conceito de "tratado ou lei federal" de que cuida o art. 105, III, a, da CF.
+2. A mera indicação dos dispositivos legais tidos por violados, sem que haja demonstração clara e objetiva de como o acórdão recorrido teria malferido a legislação federal, não enseja a abertura da via especial, devendo a parte recorrente demonstrar os motivos de sua insurgência, o que não ocorreu no caso em exame. Hipótese em que incide a Súmula 284/STF, por deficiência na fundamentação.
+(..)
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 401.883/PE, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 11/02/2014, DJe 18/02/2014).
+PROCESSUAL CIVIL. OFENSA AO ART. 535 DO CPC NÃO CONFIGURADA. ACÓRDÃO ASSENTADO EM FUNDAMENTO CONSTITUCIONAL E INFRACONSTITUCIONAL. NÃO COMPROVAÇÃO DE QUE FOI INTERPOSTO RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF.
+(..)
+3. No que tange à apontada violação do art. 292 do Código de Processo Civil, a insurgente restringe-se a alegar genericamente ofensa à citada norma sem, contudo, demonstrar de forma clara e fundamentada como o aresto recorrido teria violado a legislação federal apontada.
+4. Agravo Regimental não provido.
+(AgRg no AREsp 441.462/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 18/02/2014, DJe 07/03/2014).
+Acerca da ilegitimidade ativa o tribunal de origem assentou (fl. 796e):
+ ..  reafirmo a ilegitimidade de Pan-americano Adm.
+de Consórcio Ltda para o feito, porquanto esta tem domicílio fiscal na Cidade de São Bernardo do Campo, de sorte que se encontra fora da "jurisdição fiscal" do Delegado da Receita Federal do Brasil em São Paulo/SP.
+O fato de administradoras de consórcio serem equiparadas a instituições financeiras para os fins da Lei dos Crimes contra o Sistema Financeira Nacional (art. 1º, I, da Lei no 7.492/86), não importa em alteração da "competência" administrativo -tributária.
+Nesse viés, a Delegacia Especial de Instituições Financeiras de São Paulo - DEINF/SP - informou que sua jurisdição fiscal se restringe a instituições financeiras e assemelhadas com sede no Estado de São Paulo, cujas atividades estão elencadas no anexo IV da Portaria RFB nº 2.466 de 28.12.2010, com a redação dada pela Portaria RFB nº 543 de 17.04.2015, e que tal não abrangeria Pan-americano Ltda (fl. 442 v.o.).
+Deveras, observo que não consta no Anexo 1V supracitado (Contribuintes jurisdicionados pela Deinf) a categoria "administradoras de consórcio".
+Por sua vez, a Delegacia Especial da Receita federal do Brasil de Administração Tributária em São Paulo (DERAT-SPO) informou que a Panamericano Ltda. está sob a jurisdição da Delegacia da Receita Federal do Brasil em Osasco - DRF-Osasco (11. 410).
+Nas razões recursais, tal fundamentação não foi efetivamente refutada, limitando-se as Recorrentes a apontarem violação ao Art. 1º, I, da Lei n. 7.492/1986, que dispõe:
+"Art. 1º Considera-se instituição financeira, para efeito desta lei, a pessoa jurídica de direito público ou privado, que tenha como atividade principal ou acessória, cumulativamente ou não, a captação, intermediação ou aplicação de recursos financeiros (Vetado) de terceiros, em moeda nacional ou estrangeira, ou a custódia, emissão, distribuição, negociação, intermediação ou administração de valores mobiliários.
+Parágrafo único. Equipara-se à instituição financeira:
+I - a pessoa jurídica que capte ou administre seguros, câmbio, consórcio, capitalização ou qualquer tipo de poupança, ou recursos de terceiros;"
+Consoante se observa, a pretensão recursal não é extraída de tal dispositivo.
+É firme o posicionamento desta Corte segundo o qual se revela incabível conhecer do recurso especial quando o dispositivo de lei federal tido por violado não possui comando normativo capaz de impugnar os fundamentos do acórdão recorrido, incidindo, por analogia, a orientação contida na Súmula n. 284, do Supremo Tribunal Federal, segundo a qual "É inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, os seguintes precedentes:
+PROCESSUAL CIVIL E TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA. PESSOA JURÍDICA. QUALIFICAÇÃO COMO AGROINDÚSTRIA. ART. 489 DO CPC/2015. VIOLAÇÃO. INEXISTÊNCIA. REENQUADRAMENTO DA EMPRESA. EXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. CONSULTA. FISCALIZAÇÃO IN LOCO. SITUAÇÃO FÁTICA DIVERSA. SÚMULA 284 DO STF. INCIDÊNCIA. LANÇAMENTO FISCAL. MULTA ISOLADA E DE OFÍCIO. RETROATIVIDADE DA LEGISLAÇÃO MAIS BENÉFICA. SÚMULA 283 DO STF. CARÁTER CONFISCATÓRIO. DIVERGÊNCIA NÃO DEMONSTRADA. SIMILITUDE FÁTICA ENTRE OS JULGADOS CONFRONTADOS. AUSÊNCIA. HONORÁRIOS RECURSAIS. CABIMENTO.
+ ..
+4. O art. 100 do CTN não possui comando normativo suficiente para infirmar o entendimento da Corte Regional de que as soluções de consulta não vinculam o Fisco na hipótese da ocorrência de fiscalização tributária in loco, na qual se verifica situação fática diversa daquela apresentada pelo consulente, incidindo no ponto o óbice da Súmula 284 do STF.
+ ..
+(AgInt nos EDcl no AREsp 1.343.527/RS, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 19/11/2019, DJe 03/12/2019).
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MANDADO DE SEGURANÇA VISANDO A EXCLUSÃO DO ICMS DA BASE DE CÁLCULO DO PIS E DA COFINS. SEGURANÇA CONCEDIDA, COM LIMITAÇÃO TEMPORAL DOS EFEITOS DO JULGADO A 31/12/2014, EM FACE DA LEI 12.973/2014. ALEGADA VIOLAÇÃO AOS ARTS. 1.039, CAPUT, E 1.040, III, DO CPC/2015. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. ART. 1.025 DO CPC/2015. INAPLICABILIDADE, NO CASO. DISPOSITIVOS PROCESSUAIS APONTADOS QUE, ADEMAIS, NÃO POSSUEM COMANDO NORMATIVO APTO A SUSTENTAR A TESE DA RECORRENTE. INCIDÊNCIA DA SÚMULA 284/STF, POR ANALOGIA. IMPOSSIBILIDADE, AINDA, DE ANÁLISE, EM RECURSO ESPECIAL, DA ADEQUAÇÃO DA DECISÃO PROFERIDA PELO TRIBUNAL DE ORIGEM, EM JUÍZO DE RETRATAÇÃO, COM A TESE FIRMADA PELO SUPREMO TRIBUNAL FEDERAL, EM RECURSO EXTRAORDINÁRIO COM REPERCUSSÃO GERAL RECONHECIDA, SOB PENA DE ANÁLISE, POR VIA REFLEXA, DE QUESTÃO CONSTITUCIONAL. PRECEDENTES. AGRAVO INTERNO IMPROVIDO.
+ ..
+VII. De todo modo, em relação à alegada violação aos arts. 1.039, caput, e 1.040, III, do CPC/2015, os referidos dispositivos legais não possuem comando normativo apto a infirmar a conclusão, tal como posta no acórdão recorrido, em relação à limitação temporal dos efeitos do julgado a 31/12/2014, de forma a atrair, no ponto, a aplicação analógica da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia").
+ ..
+(AgInt no AREsp 1.510.210/SC, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 21/11/2019, DJe 29/11/2019).
+No mais, verifico que o posicionamento do tribunal de origem está em sintonia com a orientação desta Corte segundo a qual revela-se legítima a incidência da contribuição previdenciária, cota patronal, sobre os valores pagos a título de férias gozadas.
+Nessa linha:
+TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA. FÉRIAS USUFRUÍDAS. FALTAS JUSTIFICADAS. ADICIONAL DE TRANSFERÊNCIA. INCIDÊNCIA. PRECEDENTES DE AMBAS AS TURMAS DA PRIMEIRA SEÇÃO.
+1. Nos termos da jurisprudência desta Corte, a verba concernente às férias gozadas possui natureza remuneratória, razão pela qual incide a contribuição previdenciária. Precedentes: REsp 1.770.170/RS, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 15/9/2020, DJe 30/9/2020; AgInt no REsp 1.833.891/RS, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 10/2/2020, DJe 12/2/2020; AgInt no REsp 1.644.637/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 16/11/2017, DJe 21/11/2017; AgRg nos EREsp 1.456.440/RS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA SEÇÃO, julgado em 10/12/2014, DJe 16/12/2014; AgRg no REsp 1.466.424/RS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe 5/11/2014; AgRg no REsp 1.485.692/RS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe 21/11/2014; e AgRg no AREsp 93.046/CE, Rel. Ministra MARGA TESSLER (JUÍZA FEDERAL CONVOCADA DO TRF 4ª REGIÃO), PRIMEIRA TURMA, julgado em 7/4/2015, DJe 13/4/2015. ..
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.659.058/RJ, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 2/5/2022, DJe de 5/5/2022.)
+Por fim, no que tange aos honorários advocatícios, da conjugação dos enunciados administrativos ns. 3 e 7, editados em 09.03.2016 pelo Plenário desta Corte, depreende-se que as novas regras relativas ao tema, previstas no art. 85 do Código de Processo Civil de 2015, serão aplicadas apenas aos recursos sujeitos à novel legislação, tanto nas hipóteses em que o novo julgamento da lide gerar a necessidade de fixação ou modificação dos ônus da sucumbência anteriormente distribuídos, quanto em relação aos honorários recursais (§ 11).
+Ademais, vislumbrando o nítido propósito de desestimular a interposição de recurso infundado pela parte vencida, entendo que a fixação de honorários recursais, em favor do patrono da parte recorrida, está adstrita às hipóteses de não conhecimento ou improvimento do recurso.
+Quanto ao momento em que deva ocorrer o arbitramento dos honorários recursais (art. 85, § 11, do CPC/15), afigura-se-me acertado o entendimento segundo o qual incidem apenas quando esta Corte julga, pela vez primeira, o recurso, sujeito ao Código de Processo Civil de 2015, que inaugure o grau recursal, revelando-se indevida sua fixação em agravo interno e embargos de declaração.
+Registre-se que a possibilidade de fixação de honorários recursais está condicionada à existência de imposição de verba honorária pelas instâncias ordinárias, revelando-se vedada aquela quando esta não houver sido imposta.
+Posto isso, com fundamento no art. 932, III, IV, do Código de Processo Civil e art. 34, XVIII, a e b, do Regimento Interno desta Corte, CONHEÇO EM PARTE E NEGO PROVIMENTO ao Recurso Especial.
+Publique-se e intimem-se.
