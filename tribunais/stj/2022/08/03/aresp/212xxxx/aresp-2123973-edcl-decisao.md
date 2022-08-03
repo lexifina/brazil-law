@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por ISAAC NEWTON VIANA PEREIRA e OUTRO à decisão de fls. 302/304, que não conheceu do recurso.
+Sustenta a parte embargante que:
+Quando a referida decisão aduz que "o recurso não foi devida e oportunamente preparado, incidindo, na espécie, o disposto na Súmula n. 187 do STJ, o que leva à deserção do recurso", é sabido que ao deixar de conhecer o recurso, o Exmo. Julgador deixou de dar vigência a ordenamento legal expresso, pois deixou de conceder prazo para complementação de custas, conforme clara disposição da Lei 13.105/2015, que regulamenta o Código de Processo Civil: ..  (fl. 309).
+Afinal, em clara redação, a lei estabelece que a deserção será declarada SE E SOMENTE SE não for suprida a comprovação do preparo, após regular intimação.
+Acontece que, o Embargante juntou nos autos do processo o COMPROVANTE DE PAGAMENTO DAS CUSTAS RECURSAIS. Embora, em um primeiro momento, por equívoco, o Embargante juntou somente o Comprovante de Agendamento, após a intimação, o mesmo juntou o Comprovante de Pagamento na mesma data da guia de custas, com o mesmo código de barras.
+O comprovante de pagamento anexado (fl. 298), como se pode ver, é um COMPROVANTE DE TRANSAÇÃO BANCÁRIA feita no dia 01/11/2021, com o mesmo código de barra da guia de custas. Vale ressaltar que o referido comprovante possui um código de autenticação onde ser averiguada a transação bancária:
+ ..
+Como se pode observar, o código de barras do comprovante de pagamento é mesmo código do da guia das custas: (fls. 309/310).
+ ..
+Assim, Nobre Julgador, de acordo com a redação do Código busca dar aplicabilidade ao o PRINCÍPIO DA EFETIVIDADE DO PROCESSO, que além de se fundar nos princípios do aproveitamento do processo e da economia processual, busca efetivar o PRINCÍPIO DA COOPERAÇÃO em detrimento ao excesso de formalismo repugnado pela doutrina e entendimento dos Tribunais Superiores: (fl. 311).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Consta da decisão embargada que, no ato da interposição do recurso especial, foi colacionado aos autos apenas o comprovante de agendamento do preparo, não tendo sido juntado o comprovante do efetivo pagamento.
+O recurso encontra-se deserto, pois "a jurisprudência desta Corte Superior firmou-se no sentido de que a juntada de comprovante de agendamento bancário não é documento apto a comprovar que o preparo foi devidamente recolhido".(AgInt no AREsp 1806437/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 23/06/2021.)
+Percebida, no STJ, a irregularidade, a parte foi intimada para sanar o vício, contudo, não regularizou, uma vez que limitou-se a trazer à fl. 298 o comprovante de pagamento referente ao agendamento anteriormente apresentado (fl. 228), sem, contudo, realizar a complementação do preparo, que era devido em dobro, nos termos do art. 1.007, § 4º do CPC.
+Portanto, correta a aplicação da Súmula n. 187 deste Tribunal, julgando deserto o recurso.
+É cediço, também, que o julgador não fica obrigado a manifestar-se sobre todas as alegações das partes, nem a ater-se aos fundamentos indicados por elas ou a responder, um a um, a todos os seus argumentos, quando já encontrou motivo suficiente para fundamentar a decisão, o que de fato ocorreu. (AREsp 1592147/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 31/08/2020; AgInt no AREsp 1639930/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 03/08/2020; AgInt nos EDcl no AREsp 1342656/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 07/05/2020.)
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
