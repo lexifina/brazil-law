@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso especial da UNIÃOfundado na alínea "a" do permissivo constitucional interposto contra acórdão do Tribunal Regional da 5ª Região,assim ementado:
+Processual Civil e Administrativo. Servidor Público. Civil. Reajuste geral da remuneração. Reajuste de 28,86%. IVIP 1704/1998. Transação judicial. Pagamento de diferenças não implantadas. Aplicabilidade da Súmula , 85 do STJ. Juros de mora e correção monetária nos moldes em que vinham sendo antes do julgamento das ADI"s 4357 e 4425. Apelação do particular, parcialmente provida. Apelação da União, prejudicada.
+No recurso especial, a parte recorrente alega, em síntese,omissão quanto à limitação temporal decorrente da completa absorção do resíduo pelas reestruturações da carreira; e ausência de manifestação quanto à aplicabilidade imediata da Lei n. 9.494/97.
+Houve contrarrazões.
+É o relatório. Passo a decidir.
+A irresignação não merece prosperar.
+O Tribunal de origem, ao analisar a controvérsia, assentou que:
+Desta forma, os servidores públicos civis que não tiveram o reajuste em suas remunerações ou seus proventos de 28,86% têm direito à respectiva diferença, ressalvando-se a prescrição das parcelas anteriores ao qüinqüênio que antecede o ajuizamento da demanda e a compensação das parcelas pagas na via administrativa.
+Os juros de mora e a correção monetária devem ser aplicados nos moldes em que vinham sendo antes do julgamento das ADI"s 4357 e 4425, ou seja:
+a) Os juros de mora, rio período que antecede à data da publicação da MP n. 2.180-35, de 24/08/2,001, que acresceu o art. 1º - F à Lei n. 9.494/1997, devem ser de 1% ao mês, nos termos do art. 3º do Decreto n. 2.322/1987, e, posteriormente à edição da referida medida provisória, devem ser de 0,5% ao má.
+b) A correção monetária deve" ser calculada de acordo com os índices recomendados pelo Manual de Orientação de Procedimentos para os Cálculos na Justiça Federal.
+Orecurso especial, de natureza extraordinária, não é conhecido quando não demonstrados os pressupostos constitucionais.Exige-se para a admissão do apelo clareza na indicação dos artigos de lei federal alegadamente violados, bem como a explanação coerente, clara e precisa da medida em que o aresto objurgado teria afrontado cada um desses dispositivos, ou a eles tenha dado interpretação divergente da adotada por este ou por outro Tribunal, o que não foi observado na espécie.
+Esse é o teor da jurisprudência cristalizada pelo Supremo Tribunal Federal na Súmula nº 284/STF:"é inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia", também aplicada ao especial. Incide, portanto, a aplicação da Súmula 284/STF.
+A propósito, cito o seguinte precedente:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SEGURO PROAGRO. AUSÊNCIA DE INDICAÇÃO, NAS RAZÕES DO RECURSO ESPECIAL, DO DISPOSITIVO LEGAL QUE, EM TESE, TERIA SIDO VIOLADO, PELO TRIBUNAL DE ORIGEM. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF, APLICADA POR ANALOGIA. DISCUSSÃO ACERCA DO VALOR DA COBERTURA. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS E DO CONTRATO DE SEGURO. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. SÚMULAS 5 E 7 DO STJ. AGRAVO INTERNO IMPROVIDO.
+ ..
+III. A falta de particularização dos dispositivos de lei federal que o acórdão recorrido teria contrariado, no que respeita à alegação de omissão e contradição do julgado impugnado, ou a ausência de fundamentos para demonstrar de que modo os dispositivos legais teriam sido violados - arts. 186, 187 e 927 do Código Civil - consubstancia deficiência bastante a inviabilizar o conhecimento do apelo especial, atraindo, na espécie, a incidência da Súmula 284 do Supremo Tribunal Federal ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia"). (AgInt no AREsp 1076685 / SC AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL 2017/0072381-3, Relatora Ministra Assusete Magalhães, Segunda Turma, DJe 28/9/2017)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. RECURSO ESPECIAL. SERVIDOR PÚBLICO. REAJUSTE DE 28,86%. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO VIOLADO. FUNDAMENTAÇÃO DEFICIENTE. INCIDÊNCIA DA SÚMULA284/STF. RECURSO ESPECIAL NÃO CONHECIDO.
