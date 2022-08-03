@@ -1,0 +1,9 @@
+DECISÃO
+MARCELO LOPES DE FARIAalega sofrer constrangimento ilegal no seu direito de locomoção, em decorrência de acórdão prolatado peloTribunal de Justiça do Estado de São Paulono HC n.2137504-48.2022.8.26.0000.
+Verifico que o habeas corpusnão veio acompanhadodo decreto primevo da prisão preventiva,documentoimprescindívelparaa análise do pleito de revisão da dosimetria, ainviabilizar, assim, o exame do alegado constrangimento ilegal de que estaria sendo vítima o paciente.
+Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente exige prova pré-constituída das alegações e não comporta dilação probatória.
+É cogente ao paciente - sobretudo quando estiver assistido por advogado constituído - apresentar elementos documentais suficientes para se permitir aferir a suscitada existência de constrangimento ilegal no ato atacado naimpetração.
+Ademais, ainda que assim não fosse, verifico que a idoneidade dos fundamentos que ensejaram a constrição cautelar já foi examinada previamente por esta Corte Superior no HC n. 731.570/SP, ocasião em que se conclui que as instâncias de origem "indicaram motivação concreta para decretar a prisão preventiva, ao salientarem a periculosidade do agente, verificada pelas circunstâncias do crime - "Marcelo sacou uma arma de fogo e efetuou disparos contra a vítima que tentou fugir, correndo em direção oposta à do paciente, mas este passou a persegui-la com a arma em punho e efetuando novos disparos, sem lhe dar chance de defesa"".
+Dessa forma, não se pode processar este writ por consubstanciar mera reiteração de pedido, uma vez que tem as mesmas partes e idêntico objeto ao habeas corpus citado.
+À vista do exposto, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
