@@ -1,0 +1,47 @@
+DECISÃO
+IAGO DA SILVA alega sofrer coação ilegal, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grandedo Sul, na Apelação n. 5015144-49.2017.8.21.0073.
+Neste writ, a defesa pretende seja afastado o reconhecimento dacontinuidade delitiva, por entender que "não restou minimamente comprovado pelas provas produzidas em juízo que o agente praticou mais de uma ação"(fl. 5). Sucessivamente, requer seja reduzida a fração de aumento de pena na terceira fase da dosimetria.
+A liminar foi indeferida e oMinistério Público Federal opinou pela denegação da ordem.
+Decido.
+I. Contextualização
+Opacientefoi condenado em primeiro grau a 5 anos de reclusão, em regime inicialmente semiaberto, pela prática do delito descrito no art. 1º, II, da Lei n. 9.455/1997, na forma do art. 71 do Código Penal.
+Inconformada, a defesa interpôs apelação perantea Corte estadual que, à unanimidade, deu parcial provimento ao recurso, para fixar a reprimenda em 3 anos,10 meses e 20 dias de reclusão em regime inicialmente aberto,conforme acórdão assim ementado (fl. 11, destaquei):
+ ..
+3. APENAMENTO. Redimensionado o apenamento, restando afastada a negativação das vetoriais "culpabilidade" e "motivos". Mantida a incidência da agravante do art. 61, inciso II, alínea h, do Código Penal.
+4. CONTINUIDADE DELITIVA. Os relatos da vítima, das testemunhas e do acusado vão no sentido deque as agressões eram praticadas há certo tempo, em diversas oportunidades, sempre que o denunciado desejava submeter sua filha ao tratamento degradante já descrito alhures. A inviabilidade da obtenção do número exato de infrações cometidas pelo apelante não enseja o afastamento da agravante, desde que comprovada a prática de mais de um delito, como ocorre no caso em testilha.
+5. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE. Inviável a substituição da pena privativa de liberdade por restritiva de direitos, ante à vedação expressa do art.44, inciso I, do Código Penal, tendo sido o delito praticado mediante violência contra pessoa.
+6. REGIME INICIAL. Alterado o regime inicial para o aberto, tendo em vista o montante da pena aplicada. Provido o recurso quanto ao ponto.
+ ..
+II. Continuidade delitiva
+De acordo com orientação consolidada neste Superior Tribunal, para se caracterizar a continuidade delitiva (art. 71 do Código Penal), é necessário que estejam preenchidos, cumulativamente, os requisitos de ordem objetiva (pluralidade de ações e mesmas condições de tempo, lugar e modo de execução) e os de ordem subjetiva, assim entendidos como a unidade de desígnios ou o vínculo subjetivo havido entre os eventos delituosos. Vale dizer, adotou-se a Teoria Mista ou Objetivo-subjetiva. Nesse sentido:
+ ..
+5. Pacífico é o entendimento jurisprudencial desta Corte no sentido de que, para o reconhecimento da continuidade delitiva, é necessário que se observe a unidade de desígnios ou o vínculo subjetivo entre os crimes, além dos requisitos de ordem objetiva (ut, AgRg no HC 478.796/SP, Relator Ministro NEFI CORDEIRO, Sexta Turma, DJe 30/05/2019).
+6. Maiores digressões acerca do tema demandariam reexame minucioso do conjunto fático-probatório, o que é defeso em sede de recurso especial ante o óbice do enunciado n. 7 da Súmula do STJ.
+ ..
+(AgRg no AREsp n. 1.859.174/PR, Rel. MinistroReynaldo Soares da Fonseca, 5ª T., DJe 14/6/2021)
+ ..
+3. Para o reconhecimento e a aplicação do instituto do crime continuado, exige-se a concomitância de exigências deordem objetiva, considerando as mesmas condições de tempo, espaço emodus operandi,e de ordem subjetiva, configurada na unidade de desígnios.
+ ..
+(REsp n. 1.546.149/DF, Rel. MinistroRogerio Schietti, 6ª T., DJe 20/4/2016, destaquei)
+ ..
+1. A ocorrência do crime continuado deve ser apurada conforme a teoria objetivo-subjetiva. Precedentes.
+2. O reconhecimento da continuidade delitiva demandaria o reexame fático-probatório, providência vedada pelo enunciado n. 7 da Súmula do Superior Tribunal de Justiça - STJ, pois as instâncias ordinárias, com base na provados autos, apresentaram fundamentação concreta para concluir que os crimes de roubo foram realizados com desígnios autônomos.
+3. Agravo regimental desprovido. (AgRg no AREsp n. 1.221.050/SP, Rel. Ministro Joel Ilan Paciornik, 5ª T., DJe 14/12/2018, destaquei)  ..  4. O crime continuado é benefício penal, modalidade de concurso de crimes, que, por ficção legal, consagra unidade incindível entre os crimes parcelares que o formam, para fins específicos de aplicação da pena. Para a sua aplicação, a norma extraída do art. 71, caput, do Código Penal exige, concomitantemente, três requisitos objetivos: I) pluralidade de condutas; II) pluralidade de crime da mesma espécie; III) condições semelhantes de tempo, lugar, maneira de execução e outras semelhantes (conexão temporal, espacial, modal e ocasional); IV) e, por fim,adotando a teoria objetivo-subjetiva ou mista, a doutrina e jurisprudência inferiram implicitamente da norma um requisito da unidade de desígnios na prática dos crimes em continuidade delitiva, exigindo-se, pois, que haja um liame entre os crimes, apto a evidenciar de imediato terem sido esses delitos subsequentes continuação do primeiro, isto é, os crimes parcelares devem resultar de um plano previamente elaborado pelo agente.
+ ..
+(HC n. 490.707/SC, Rel. MinistroRibeiro Dantas, 5ª T., DJe 1º/3/2019, grifei)
+No presente caso, a Corte local asseverou que "os relatos da vítima, das testemunhas e do acusado vão no sentido de que as agressões eram praticadas há certo tempo, em diversas oportunidades, sempre que o denunciado desejava submeter sua filha ao tratamento degradante já descrito alhures" (fl. 11).
+Com efeito, a vítima narrou que "sempre que fazia "alguma coisa errada" o pai pegava essa vara; que apanhou diversas vezes por urinar na cama e por não querer comer" (fl. 304).
+No mesmo sentido, informaram os Conselheiros Tutelares que: "as lesões eram bem avermelhadas, como se fossem agressões constantes" (Pedro Roberto Goulart Gonçalves, fl. 304); "em conversa com a vítima, ela disse que apanhava de chinelo, cinta e uma "madeirinha" porque fazia xixi na cama; que apanhava do pai todos os dias" (Marinês Silva de Oliveira, fl. 304).
+Assim, assentado pelas instâncias ordinárias, com fulcro nos elementos probatórios presentes nos autos, que o delito foi "perpetrado em diversas oportunidades" (fl. 306), não há que se falar em crime único. Neste ponto, destaco que a inexistência de discriminação pormenorizada do quantitativo de agressões não afasta o reconhecimento da continuidade delitiva, notadamente porque o art. 71 do Código Penal exige apenas a prática de "mais de uma ação ou omissão".
+A respeito da fração de aumento aplicável,esta Corte Superior orienta a utilização do quantum de 1/6 para a prática de duas infrações; 1/5, para três infrações; 1/4, para quatro infrações; 1/3, para cinco infrações; 1/2, para seis infrações, e 2/3, para sete ou mais infrações :
+A propósito do patamar de exasperação da pena pelo reconhecimento do crime continuado, esta Corte Superior de Justiça compreende que se aplica a fração de aumento de1/6 (um sexto) pela prática de 2 infrações; 1/5 (umquinto), para 3 infrações; 1/4 (um quarto), para 4 infrações; 1/3 (um terço), para 5 infrações; 1/2 (metade), para 6 infrações, e 2/3 (dois terços), para 7 ou mais infrações, motivo pelo qual as frações aplicadas pela Corte a quo - 1/5 e 2/3 - são adequadas e condizentes ao número de infrações praticadas (3 e 48 infrações, respectivamente).
+(AgRg no REsp n. 1.902.209/PR, Rel. Min. Laurita Vaz, 6ª T., DJe 3/8/2021).
+Infere-se dos depoimentos acimatranscritos que o aumento da pena em 2/3 está adequado à jurisprudência do STJ:"nas hipóteses em que há imprecisão acerca do número exato de eventos delituosos, esta Corte tem considerado adequada a fixação da fração de aumento, referente à continuidade delitiva, em patamar superior ao mínimo legal, com base na longa duração dos sucessivos eventos delituosos" (AgRg no AREsp n. 455.218/MG, Rel. Ministro Sebastião Reis Júnior, 6ªT., DJe 5/2/2015).
+Nesse mesmo sentido: AgRg no REsp n. 1.907.620/PR, Rel. Ministro Felix Fischer, 5ª T., DJe 9/2/2021; AgRg no AREsp n. 547.028/RS, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 10/8/2018; AgRg no REsp n. 1.933.229/RN, Rel. Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), 6ª T., DJe 2/3/2022.
+O Supremo Tribunal Federal, ao fixar tese jurídica aplicável ao caso concreto, firmou similar entendimento no HC n. 127.158: "A imprecisão quanto ao número de crimes praticados não obsta a aplicação da causa de aumento de pena da continuidade delitiva no patamar máximo de 2/3, desde que haja elementos seguros que demonstrem que vários foram os delitos perpetrados ao longo de dilatado lapso temporal" (Rel. Min. Dias Toffoli, 2ª T., DJe 23/6/2015).
+Releva enfatizar, por fim, que,ao contrário do narrado no writ, não foi empregada a norma prevista no parágrafo único do art. 71, que autoriza o excepcional aumento da pena em até o triplo em crimes dolosos com violência ou grave ameaça contra vítimas diferentes.
+Em verdade, foi aplicado precisamente o postulado pelo impetrante quando sustentou "que a pena cominada ao réu deveria ser aumentada em fração compreendida entre um sexto a dois terços, por força do artigo 71, caput, do Código Penal".
+Diante dessas premissas, não identifico as apontadas ilegalidades.
+III. Dispositivo
+À vista do exposto, denego a ordem.
+Publique-se e intimem-se.
