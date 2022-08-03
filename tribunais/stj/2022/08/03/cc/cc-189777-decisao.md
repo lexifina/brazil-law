@@ -1,0 +1,21 @@
+DECISÃO
+Vistos.
+Trata-se de Conflito Negativo de Competência instaurado entre o JUÍZO DE DIREITO DO JUIZADO ESPECIAL CÍVEL E CRIMINAL DE CERQUEIRA CÉSAR/SPe o JUÍZO DA VARA DO TRABALHO DE AVARÉ/SP, em ação anulatória, cumulada com reclamação trabalhista, movida por ex-empregado público municipalem desfavor do MUNICÍPIO DE IARAS, objetivando a reintegração no cargo e o recebimento de verbas trabalhistas.
+O Ministério Público Federal opinou pelo reconhecimento da competência do Juízo estadual.
+Feito breve relato, decido.
+Inicialmente, acentuo que o conflito comporta conhecimento, porquanto se trata de controvérsia instaurada entre Juízes vinculados a Tribunais distintos, consoante o disposto no art. 105, I, d, da Constituição da República.
+A Emenda Constitucional n. 45/2004 estabeleceu competir à Justiça do Trabalho conhecer das ações oriundas da relação de trabalho, abrangidos os entes de Direito Público externo e da Administração Pública Direta e Indireta da União, dos Estados, do Distrito Federal e dos Municípios.
+O Supremo Tribunal Federal, nos autos da ADI n. 3.395/DF, referendou liminar anteriormente concedida a qual, interpretando o inciso I do art. 114 da Constituição da República, alterado pela EC n. 45/2004, excluiu da expressão "relação de trabalho" qualquer interpretação que atribuísse à Justiça do Trabalho competência para apreciar causas envolvendo a Administração Pública e seus servidores, vinculados por típica relação de ordem estatutária ou de caráter jurídico-administrativo.
+Em sintonia com a jurisprudência do Supremo Tribunal Federal, a 1ª Seção desta Corte tem acolhido o entendimento segundo o qual "a competência para processar e julgar os litígios instaurados entre os agentes públicos e os entes estatais a que servem depende da natureza jurídica do vínculo entre as partes, cabendo à justiça trabalhista o exame das relações fundadas na CLT e à justiça comum, federal ou estadual, aquelas sujeitas a regime estatutário ou jurídico-administrativo" (CC 129.447/RN, 1ª S., Rel. Min. Sérgio Kukina, DJe de 30.09.2015).
+No caso em exame, o Reclamante busca a anulação do seu ato de demissão, objetivando a reintegração ao cargo e pagamento de verbas trabalhistas.
+Nessas hipóteses, o Supremo Tribunal Federal, no julgamento do Tema 606, fixou orientação segundo a quala natureza do ato de demissão de empregado público é constitucional-administrativa e não trabalhista, o que atrai a competência da Justiça comum para julgar a questão.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. DIREITO PROCESSUAL. DISPENSA DE EMPREGADO PÚBLICO POR NÃO APROVAÇÃO EM ESTÁGIO PROBATÓRIO. CONSOLIDAÇÃO DAS LEIS TRABALHISTAS. AÇÃO JUDICIAL PARA A DISCUSSÃO DE VERBAS TRABALHISTAS E DO PROCESSO DE DESLIGAMENTO. COMPETÊNCIA. TEMA 606/STF. SOBRESTAMENTO DO FEITO. RECURSO NÃO PROVIDO.
+1. Nos autos do RE n. 655.283 RG/DF, o Supremo Tribunal Federal fixou a tese de que a natureza do ato de demissão de empregado público é constitucional-administrativa e não trabalhista, o que atrai a competência da Justiça comum para julgar a questão(Tema 606/STF).
+2. Nas razões do recurso extraordinário, o agravado alega o acórdão recorrido, ao estabelecer a competência da Justiça do Trabalho para processar e julgar a ação proposta pela agravante, via da qual discute a regularidade do processo que resultou a sua dispensa pela não aprovação no estágio probatório e as verbas rescisórias a que tem direito, além de ofender os arts. 5º, XXXV, LIII, LIV e LV, 39, caput, e 109 da Constituição Federal, contrariou a tese estabelecida pela Suprema Corte.
+3. Ocorre que o Pleno do Supremo Tribunal Federal ainda não finalizou o julgamento do recurso extraordinário, o que impõe a manutenção do sobrestamento deste recurso, a teor do contido no art. 1.030, III, do Código de Processo Civil.
+4. Agravo interno não provido.
+(AgInt nos EDcl no RE nos EDcl no AgInt no CC n. 171.813/ES, relator Ministro Jorge Mussi, Corte Especial, julgado em 7/6/2022, DJe de 9/6/2022.)
+Posto isso, nos termos do art. 955, parágrafo único, do Código de Processo Civil, combinado com art. 34, XVIII, do Regimento Interno desta Corte, conheço do conflito e declaro competente o JUÍZO DE DIREITO DO JUIZADO ESPECIAL CÍVEL E CRIMINAL DE CERQUEIRA CÉSAR/SP.
+Comunique-se, com urgência, ao Juízo Suscitante e ao Juízo Suscitado.
+Publique-se. Intimem-se.
