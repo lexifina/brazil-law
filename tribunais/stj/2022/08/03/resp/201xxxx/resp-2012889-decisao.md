@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso especial, manejado por BETTAMIO VIVONE E PACE ADVOGADOS ASSOCIADOS, com base no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Norte, assim ementado (fl. 44):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE REJEITADA. NECESSIDADE DE REFORMA. CONSTATAÇÃO DE ILEGITIMIDADE PASSIVA DOS AGRAVANTES PARA CONSTAR NO FEITO EXECUTIVO. INCLUSÃO INDEVIDA DOS RECORRENTES NA CDA. PROCESSO ADMINISTRATIVO TRIBUTÁRIO (PAT) QUE NÃO RESPONSABILIZA OS RECORRENTES PELO DÉBITO FISCAL. PRECEDENTES. RECURSO CONHECIDO E PROVIDO.
+Os embargos declaratórios opostos foram rejeitados, nos termos do acórdão de fls. 70/73.
+A parte recorrente aponta violação aos arts. 85, §§ 3º e 5º, 489, § 1º, e 1.022, II, parágrafo único, II, do CPC. Sustenta, em resumo, que: (I) a despeito dos embargos de declaração, o Tribunala quoremanesceu omisso acerca das questões neles suscitadas; e (II) "a fixação dos honorários advocatícios ocorra nos patamares e critérios delimitados no art. 85, §§ 3º e 5º, do CPC, com a observação da faixa inicial (inciso I, do § 3º, do art. 85, do CPC) e, naquilo que a exceder, da faixa subsequente (inciso II, do § 3º, do art. 85, do CPC), e assim sucessivamente" (fl. 95).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A pretensão recursal merece acolhida pelos arts. 489 e 1.022 do CPC.
+Com efeito, a parte agravante, nas razões dos embargos de declaração e do recurso especial, alega "não ter  sido  observado o § 5º, do art. 85, do CPC, segundo o qual a fixação dos percentuais previstos nos incisos I a V, do § 3º, do referido dispositivo legal deve "observar a faixa inicial e, naquilo que exceder, a faixa subsequente, e assim sucessivamente"" (fls. 62 e 90) .
+Contudo, o Tribunal de origem quedou-se silente sobre tal argumentação e rejeitou os pertinentes aclaratórios da parte (fls. 61/63), em franca violação aos arts. 489 e 1.022 do CPC, porquanto não prestada a jurisdição de forma integral.
+Na forma da jurisprudência desta Corte, "a existência de omissão e/ou contradição relevante à solução da controvérsia, não sanada pelo Tribunal local, caracteriza violação do art. 1.022 do NCPC" (AgInt no REsp 1.857.281/MG, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe 19/8/2021).
+Nesse mesmo sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OMISSÃO. OCORRÊNCIA. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015 CONFIGURADA. MATÉRIA RELEVANTE. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM.
+1. O embargante, ao opor os Embargos de Declaração de fls. 247-249, e-STJ, contra decisão que negou provimento ao Agravo de Instrumento, alegou que o Tribunal de origem deixou de analisar o fato de que é aposentado desde 30/8/2017, conforme Portaria de Aposentação de ID 6336636, homologada pelo TCE, para fins de isenção do IRPF sobre proventos de aposentadoria de portador de doença grave.
+2. Contudo, em vez de apreciar o ponto alegado como omisso pelo órgão embargante, o Tribunal a quo preferiu se esquivar do assunto, sob o argumento genérico de que se teria esgotado a prestação jurisdicional. Entretanto, era imprescindível que a Corte Julgadora se pronunciasse sobre tal tema, haja vista que é questão essencial para a solução da controvérsia.
+3. Assim, faz-se necessário o provimento do Recurso Especial por ofensa aos artigos 489 e 1022 do Código de Processo Civil, para fazer que a matéria volte ao Tribunal de origem a fim de se manifestar adequadamente sobre o ponto omisso.
+4. Embargos de Declaração acolhidos, com efeitos infringentes, para dar provimento ao Recurso Especial.
+(EDcl no AgInt nos EDcl no REsp 1.869.445/PE, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 1º/7/2021)
+ANTE O EXPOSTO, dou provimento ao recurso especial por violação aos arts. 489 e 1.022 do CPC, determinando novo julgamento dos aludidos embargos de declaração.
+Publique-se.
