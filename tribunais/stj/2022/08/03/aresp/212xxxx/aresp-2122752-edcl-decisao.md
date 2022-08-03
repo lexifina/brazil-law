@@ -1,0 +1,37 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por CEREALISTA PASI LTDA., à decisão de fls. 869/870, que não conheceu do recurso.
+Sustenta a parte embargante que:
+Entretanto, a r. decisão não atentou para o fato de que houve, em verdade, o protocolo da peça recursal dentro do prazo legalmente previsto, na data de 7.02.2022, conforme inclusive atestam os documentos em anexo, sendo, assim, proferida em erro e omissão.
+Aqui é importante esclarecer que os autos de origem, até o envio para este Colendo Superior Tribunal de Justiça eram físicos, comportando, portanto, o protocolo das petições através do correio, especialmente pelo sistema de protocolo postal integrado, o qual considera a data de protocolo o dia de postagem (art. 1003, §4 º, CPC).
+E, nesse sentido é que o recurso em questão foi protocolado, via sistema de correios (protocolo postal integrado) na data de 17/02/2022, cumprindo o prazo legal para tanto (A r. decisão foi publicada em 27.01.2022 - quinta-feira- , iniciando-se o prazo de 15 dias úteis em 28.01.2022 - sexta-feira- para findar-se em 17.03.3022 - quinta-feira-), o que não foi sequer considerado na r. decisão.
+Inclusive, a peça encontra-se devidamente anexada aos autos, com o registro do protocolo e o recebimento pelo Tribunal de Origem em 21.02.2022, como se vê de fls. 816 dos autos digitais (fl. 874).
+ ..
+Entretanto, por equívoco na juntada aos autos de forma digital, foi apresentado recurso de apelação já constante dos autos, o que foi devidamente esclarecido pela embargante, na data de 10.03.2022, com a reiteração do recurso apresentado via Protocolo Postal de forma tempestiva.
+Assim é que ao contrário do exposto na r. decisão, não houve o protocolo do recurso apenas em 10.03.2022, mas sim em 17.02.2022, cumprindo o prazo legal para tanto, sendo este reiterado, por intimação e equívoco do Tribunal de origem, na data de 10.03.2022.
+E, sendo o recurso apresentado na data de 17.02.2022, por meio legalmente previsto e aceito para tanto, outro não pode ser o entendimento a não ser o de sua tempestividade e necessário processamento, o que não foi observado na decisão embargada, que assim resta proferida em erro e omissa (fl. 876).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Quanto à tempestividade do recurso, impende esclarecer que o marco temporal de aplicação do Código de Processo Civil de 2015 é a intimação do decisum recorrido que, no presente caso, foi realizada sob a égide do novo codex Processual.
+Assim, nos termos do Enunciado Administrativo n. 3 do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC", em observância ao princípio do tempus regit actum, ou seja, no presente caso aplicam-se as regras do Código de Processo Civil de 2015.
+Observe-se que houve a disponibilização da decisão de admissibilidade do recurso especial em 26/1/2022, considerando-se publicada em 27/1/2022 (fl. 773). Excluindo-se o dia 27/1/2022 (primeiro dia), inicia-se a contagem no dia 28/1/2022, finalizando no dia 17/2/2022, devendo ser comprovada a suspensão do expediente forense, acaso existente.
+Dessa forma, o prazo recursal de 15 (quinze) dias úteis, nos termos art. 994, VIII, c/c os arts. 1.003, § 5º, 1.042, caput, e 219, caput, todos do Código de Processo Civil, terminou no dia 17/2/2022 , sendo que o agravo em recurso especial foi interposto somente em 10/3/2022 , fora do prazo.
+No caso, contra a decisão da admissibilidade do recurso especial, a parte ao invés de interpor o agravo em recurso especial, único recurso cabível, interpôs o recurso de apelação no dia 17/2/2022 (fls. 775/793).
+Posteriormente, foi verificado pelo Tribunal de origem que a parte recorrente, embora tenha especificado o tipo de recurso (agravo em recurso especial), protocolou o recurso de apelação (fl. 795).
+Em seguida, a parte, após intimação (fls. 795/797), informou que, "por equívoco, ao realizar a digitalização, da peça para protocolo eletrônico foi efetuada a transformação em arquivo digital equivocado, apresentando-se as razões recursais originárias, o que, no presente momento se - retifica, juntando aos autos as devidas razões recursais." E assim, juntou o agravo em recurso especial na data de 10/3/2022.
+Ocorre que, conforme entendimento deste Superior Tribunal de Justiça, a interposição equivocada de recurso quando há expressa disposição legal e ausente dúvida objetiva, constitui manifesto erro grosseiro.
+Desta forma, inaplicável o princípio da fungibilidade, que "pressupõe dúvida objetiva a respeito do recurso a ser interposto, inexistência de erro grosseiro e observância do prazo do recurso correto, o que não ocorre na espécie". (AgRg nos EREsp 1.357.016/RS, relator Ministro Ari Pargendler, Primeira Seção, DJe de 2/8/2013.)
+A propósito, confira-se o precedente desta Corte:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DE ADMISSIBILIDADE. AGRAVO DO ART. 1.042 DO CPC/2015. EQUÍVOCO. TRIBUNAL ESTADUAL. FUNGIBILIDADE. CONFIGURAÇÃO. AUSÊNCIA. ERRO GROSSEIRO.
+1.Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2.Ainterposição equivocada de recurso diverso daquele expressamente previsto em lei, quando ausente dúvida objetiva, constitui manifesto erro grosseiro, que inviabiliza a aplicação do princípio da fungibilidade.
+Precedente.
+3. Na hipótese, correta a decisãoda Presidência desta Corte, que não recebeu o agravo interno como agravo em recurso especial e determinou a baixa destes autos ao tribunal de origempara as providências que entender cabíveis, tendo em vistavista ser competência daquelea análise e o julgamento das razões apresentadas em agravo interno.
+4.Agravo interno não provido.
+(AgInt no AREsp 1904574/DF, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe 05/05/2022.)
+Registre-se que é responsabilidade da parte observar o correto procedimento para apresentação de recursos e petições perante os tribunais.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
