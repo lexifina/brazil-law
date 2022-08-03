@@ -1,0 +1,38 @@
+DECISÃO
+HENRIQUE TEBALDI COMUNALLE alega sofrer coação ilegal em seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no Agravo em Execução n. 0000147-79.2022.8.26.0996.
+O impetrante busca o restabelecimento da decisão que deferiu ao paciente o livramento condicional. Para tanto, argumenta, em síntese, que a gravidade dos crimes cometidos ea longevidade da pena não seriam fundamentos idôneos para cassar o referido benefício.
+Indeferida a liminar (fls. 108-109) e prestadas as informações (fls. 114-116 e 117-132), os autos foram ao Ministério Público Federal, que opinou pelo não conhecimento dowrite, subsidiariamente,pela denegação da ordem (fls. 136-142).
+Decido.
+O paciente cumpre pena total de 10anos, 11meses e 4 dias de reclusão, em razão de condenações por roubo circunstanciado, corrupção de menores e tráfico ilícito de entorpecentes, com término da reprimenda previsto para 20/4/2026 (fl. 72).
+O Juízo da execução, em 17/12/2021, deferiu ao paciente a progressão ao regime intermediário, em decisão assim fundamentada (fls. 77-78):
+O pedido de livramento é procedente.
+O requisito temporal foi cumprido, conforme cálculo de liquidação de penas e há notícia nos autos de boa conduta carcerária atual e inexistência de falta disciplinar recente. Além disso, o "boletim informativo" não foi impugnado pelo Ministério Público.
+De outra banda, sem argumentos concretos autorizantes de um Juízo objetivo de necessidade, não se sustenta eventual submissão do reeducando a exame criminológico, eis que não bastam alegações subjetivas amparadas somente na gravidade abstrata do delito e no tempo de prisão a cumprir.
+E, por fim, a gravidade abstrata do delito e total de pena aplicada, igualmente não são fatores a impedir a concessão da progressão de regime prisional e sequer do livramento condicional.
+ ..
+Desta forma, mostra-se evidente que a concessão do benefício será estímulo a sua recuperação.
+Ressalta-se que os requisitos previstos no artigo 131, da LEP c. c. o artigo 83 do Código Penal foram preenchidos.
+Não há notícias de prisão cautelar por outro processo.
+Desta forma, não vejo argumentos para o indeferimento do pleito.
+Posto isso, defiro o pedido formulado em favor de HENRIQUE TEBALDI COMUNALLE,  ..  e, concedo o benefício do livramento condicional, impondo as condições constantes no Termo de Advertência.
+O Tribunal a quo cassou a benesse e determinou a submissão do reeducando a exame criminológico, sob os seguintes fundamentos (fls. 103-105):
+No caso vertente, verifica-se que o reeducando, reincidente, encontra-se atualmente recolhido em penitenciária deste Estado condenado a cumprir a pena privativa de liberdade de dez anos, onze meses e quatro dias de reclusão (fls. 84), em regime inicial fechado, pela prática de roubo agravado, corrupção de menores e tráfico de entorpecentes, crimes graves a demandarem indagações e respostas adequadas para a verificação sobre se o sentenciado reúne, efetivamente, condições do ponto-de-vista subjetivo para a concessão do livramento condicional. O término do cumprimento da reprimenda deverá ocorrer apenas em 20/04/2026, se nada de anormal ocorrer até lá, destacando-se que os tipos de crimes e o "quantum" das reprimendas corporais servem também, "data venia", para demonstrara periculosidade do reeducando.
+E, "in casu", em que pese o fato de a sentença afirmar que o agravado ostenta boa conduta disciplinar, não há qualquer documentação que, eventualmente, possa comprovar tal assertiva.
+Assim, no caso vertente, razão assiste ao douto Promotor de Justiça oficiante, vez que se insurgiu contra o deferimento do livramento condicional ao ora agravado, por constatar que, se por um lado, preenchido o requisito objetivo (de ordem temporal), por outro,ausente o subjetivo, que é caracterizado por elementos de ordem social capazes de demonstrar ser ele merecedor do benefício.
+Assim é que, não se constata, pelas peças do presente agravo, a existência de dados seguros quanto aos requisitos de ordem subjetiva relativos ao sentenciado para que este seja agraciado com o livramento condicional.
+Em que pese estar atendido o requisito de caráter objetivo, de ordem temporal, ausente, porém, o subjetivo, que é caracterizado por elementos de ordem social e comportamental capazes de demonstrar ser o agravante merecedor do benefício pleiteado.
+Neste ponto, inegável que a longa pena a cumprir, demonstra que o tal "bom"" comportamento carcerário deve ser tido com reservas.
+Não basta apenas o atestado. O teor do que se atesta deve vir comprovado.
+Contudo, oportunamente, poderá ser determinada a realização de exame criminológico no sentenciado para se aquilatar se ostenta ele condições pessoais para a concessão da benesse pretendida.
+O tipo de crime praticado e a longa pena a cumpriraconselham a realização de exame para a verificação das condições subjetivas do agravado. Portanto, somente depois de atendidos os requisitos de ordem objetiva e subjetiva é que seria possível o livramento condicional.
+Observa-se, a propósito, que o sentenciado foi condenado por roubo agravado, crime que envolve violência e/ou grave ameaça.
+Oportuno salientar que em sede de execução de pena vigora o princípio "in dubio pro societate". Se há dúvida, decide-se contra o sentenciado e a favor da sociedade.
+Ante o exposto, rejeitada, por maioria, a matéria preliminar, vencido o Relator sorteado, no mérito, dá-se provimento ao agravo ministerial para revogar o livramento condicional concedido ao sentenciado, oficiando-se com urgência.
+A respeito da matéria suscitada, esta Corte Superior possui o entendimento de que "com as alterações trazidas pela Lei n. 10.792/2003, o exame criminológico deixa de ser requisito obrigatório para a progressão de regime, podendo, todavia, ser determinado de maneira fundamentada pelo Juízo da execução penal, de acordo com as peculiaridades do caso" (HC n. 122.486/MT, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 4/4/2011).
+Vale dizer, embora não mais se exija, de plano, a realização de exame criminológico, o Juízo da execução penal ou mesmo o Tribunal de Justiça estadual podem, de forma devidamente fundamentada e diante das peculiaridades do caso concreto, determinar a realização do referido exame para a formação do seu convencimento acerca do implemento do requisito subjetivo.
+Nesse sentido, foi editada a Súmula n. 439 do STJ: "Admite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada".
+Dessa forma, o que se verifica é que foi determinada a elaboração de laudo pericial sem a devida fundamentação, com fulcro apenas em considerações abstratas acerca dos delitos cometidos pelo reeducando, a impor-lhe patente constrangimento ilegal, sem a demonstração de prática de falta grave. A propósito, de acordo com a guia de execução do paciente, não há registro de nenhuma falta disciplinar de natureza grave (fls. 73-74).
+Sobre a matéria suscitada, o entendimento desta Corte Superior é firme no sentido de que " a  decisão proferida pelo Tribunal a quo destoa do entendimento sedimentado na Súmula n. 439/STJ, cuja inteligência exige, para a determinação de exame criminológico, a precedência de fundamentação idônea e concreta relacionada a fatos ocorridos na execução da pena." (AgRg no HC n. 703.699/SP, Rel. Ministra Laurita Vaz, 6ª T., DJe 16/12/2021, sublinhei).
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, concedo, in limine, a ordem postulada, a fim restabelecer a decisão proferida pelo Juízo das execuções, que deferiu ao apenado o livramento condicional.
+Comunique-se, com urgência.
+Publique-se e intimem-se.
