@@ -1,0 +1,7 @@
+DECISÃO
+LETÍCIA APARECIDA DA COSTA E SILVA opõe embargos de declaração contra a decisão que concedeu a ordem às fls. 195-198.
+A defesa aponta que na"decisão prolatada em 03 de junho de 2022 (e-STJ fls. 195/198), a qual confirmou a liminar e concedeu a ordem para ordenar a soltura da recorrente LETÍCIA até o julgamento deste writ, não há expressa confirmação da liminar e concessão da ordem, em extensão, para ordenar a soltura de LARISSA MORAIS DE BARROS".
+Constatado o equívoco, é caso de acolhimento dos embargos, a demandar a correção do dispositivo da decisão embargada.
+À vista do exposto, acolho os embargos declaratórios, a fim de corrigir a redação do dispositivo da decisão de fls. 195-198, que passa a ter o seguinte teor: "À vista do exposto, confirmada a liminar, concedo a ordem para ordenar a soltura da paciente, se por outro motivo não estiver preso, ressalvada a possibilidade de nova decretação da custódia cautelar, caso efetivamente demonstrada a superveniência de fatos novos que indiquem a sua necessidade, ou de imposição de medida cautelar alternativa, também suficientemente fundamentada, nos termos do art. 319 do CPP.Com base no art. 580 do CPP, estendo os efeitos desta decisão em favor de Larissa Morais de Barros, já que teve deferido o direito de recorrer em liberdade, bem como decretada a prisão preventiva nas mesmas circunstâncias".
+Encaminhe-se cópia deste decisum ao Tribunal de origem.
+Publique-se e intimem-se.
