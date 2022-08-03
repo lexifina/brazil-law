@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de terceiros embargos de declaração opostos por ALEX APARECIDO DA COSTA.
+Os primeiros e segundos embargos foram rejeitados, por não existir nenhum vício na decisão que não conheceu do agravo em recurso especial.
+Agora, nestes novos aclaratórios, o embargante insiste em repisar os mesmos argumentos já rechaçados nas decisões anteriores.
+É o relatório. Decido.
+Os embargos não comportam conhecimento.
+Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a retirar ambiguidade, esclarecer obscuridade, eliminar contradição e suprir omissão existentes no julgado.
+Entretanto, o embargante reitera as mesmas razões já rechaçadas nos anteriores embargos, relativo à não impugnação específica dos fundamentos de inadmissão de seu recurso especial.
+Desta forma, a mera reiteração dos mesmos argumentos já rechaçados anteriormente não se enquadra nas hipóteses de cabimento dos embargos, revelando mero intuito protelatório do embargante com propósito de impedir o trânsito em julgado do feito.
+O Superior Tribunal de Justiça não é uma Corte revisora. Na verdade, o seu funcionamento visa a unificar a interpretação dada à questão federal suscitada nos tribunais estaduais. Logo, é necessário que se indique, expressamente, o dispositivo legal que se entende violado, esclarecendo como, por que e de que forma conflita com o entendimento exarado da decisão recorrida de modo a configurar negativa de vigência à lei federal apta a ensejar o cabimento do recurso especial, nos termos do permissivo constitucional.
+Portanto, deficiente a fundamentação trazida nas razões recursais, aplica-se à espécie o disposto na Súmula 284 do Supremo Tribunal Federal ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia").
+Assim, não há omissão. A jurisprudência do STJ é no seguinte sentido:
+A falta de particularização, no Recurso Especial - interposto, no caso, com fundamento no art. 105, III, a, da CF/88 -, dos dispositivos de lei federal que teriam sido contrariados ou que tenham sido objeto de interpretação divergente, pelo acórdão recorrido, consubstancia deficiência bastante a inviabilizar o conhecimento do apelo especial, atraindo, na espécie, a incidência da Súmula 284 do Supremo Tribunal Federal ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia"). Nesse sentido: STJ, AIREsp 1.988.019/RN, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe de 01/07/2022; AgRg no REsp 1.346.588/DF, Rel. Ministro ARNALDO ESTEVES LIMA, CORTE ESPECIAL, DJe de 17/03/2014; AgInt no AREsp 1.656.469/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe de 26/10/2020; AgInt no AREsp 1.664.525/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 14/12/2020; AgInt no AREsp 1.632.513/RS, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe de 20/10/2020.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
