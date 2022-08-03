@@ -1,0 +1,11 @@
+DECISÃO
+TRIBUTÁRIO. RECURSO ESPECIAL.PIS. COFINS. BASE DE CÁLCULO. ICMS-ST. SUBSTITUIÇÃO TRIBUTÁRIA PROGRESSIVA. EXCLUSÃO. (IM)POSSIBILIDADE.MATÉRIA AFETADA À SISTEMÁTICA DOS RECURSOS REPETITIVOS. RECURSOS ESPECIAIS1.958.265/SP E 1.896.678/RS (TEMA 1.125/STJ).RETORNO DOS AUTOS DO PROCESSO, SOBRESTANDO-O NO TRIBUNAL DE ORIGEM. APÓS, PROSSEGUIR COM O FEITO NOS TERMOS DOS ARTS. 1.040 E 1.041 DO CPC/2015.
+1. Trata-se de recursoespecialinterpostopor GUAÍBACAR VEÍCULOS E PEÇAS LTDAcontra acórdão proferido pelo TRF da 4ª Região, assim ementado:
+TRIBUTÁRIO. INCLUSÃO DO ICMS-ST PARA APURAR CRÉDITOS DO PIS/COFINS. INADMISSIBILIDADE. O contribuinte substituído tributário não tem o direito de apurar créditos de PIS/COFINS sobre o ICMS-ST incidente na aquisição de mercadorias para revenda.(fls. 434).
+2.Nas razões do recurso especial de fls. 451/459, a parte recorrente requer, em síntese, que "seja reconhecida a possibilidade de apuração e aproveitamento dos créditos de PIS/Cofins sobre as despesas suportadas com o ICMS-ST destacado nas notas fiscais de aquisição de mercadorias para revenda".
+3.Devidamente intimada, a parte recorridaapresentou as contrarrazões (fls. 480/498).O recurso especial foi admitido na origem(fl.514).
+4.É o relatório.
+5. A questão debatida nos autos, qual seja, a possibilidade de exclusão do valor correspondente ao ICMS-ST da base de cálculo da contribuição ao PIS e da COFINS devidas pelo contribuinte substituído, encontra-se afetada à Primeira Seção desta Corte Superior, aguardando o julgamento dos REsps 1.958.265/SP e 1.896.678/RS (Tema 1.125), da relatoria do Ministro GURGEL DE FARIA, sob o rito dos recursos repetitivos.
+6. A admissão de recurso especialcomo representativo da controvérsiaimpõe o sobrestamento dosprocessos em que forem interpostosrecursos na origemcuja matéria se identifique com o tema afetado, paraque, concluído o julgamento noSuperior Tribunal de Justiça,seja o inconformismo apreciado na forma dos arts. 1.040 e 1.041 doCPC/2015.
+7.Pelo exposto, determina-se adevolução dos autos,com a devida baixa nesta Corte Superior, para que, em observânciaaosarts. 1.039 a 1.041 do CPC/2015, após a publicação do acórdão doscitados recursos excepcionais representativos da controvérsia, o Tribunal de origem proceda nos termos dos arts. 1.040 e seguintesdoCPC/2015.
+8.Publique-se. Intimações necessárias.
