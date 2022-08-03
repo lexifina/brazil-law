@@ -1,0 +1,7 @@
+DECISÃO
+Trata-se de agravo interno interposto por Lucélia Frisso Muscarelli Bastos contra decisão da Presidência desta Corte Superior que conheceu do agravo para não conhecer do recurso especial, ante a incidência da Súmula 284/STF (fls. 396/399).
+Inconformada, a parte agravante sustenta inaplicabilidade do referido óbice, sob o argumento de que "a controvérsia veiculada no Recurso Especial interposto, ao discutir a negativa de aplicação da lei federal, volta-se também, e por óbvio, para o exame da hipótese contida no inciso V, do art. 966, CPC - violação manifesta de norma jurídica, in casu, Lei Federal nº 12.153/2009  ..  Outrossim, o entendimento reafirmado pela Corte Especial deste Superior Tribunal de Justiça no julgamento do EREsp nº. 1.434.604/PR firmou-se pela viabilidade do Recurso Especial interposto contra Acórdão proferido em Ação Rescisória insurgir-se diretamente contra os fundamentos do aresto rescindendo, não se limitando aos pressupostos de admissibilidade da Ação Rescisória, nomeadamente quando o pressuposto da Ação Rescisória se cingir à violação manifesta de norma jurídica (atual inciso V, do art. 966, do CPC/15)" (fls. 407/408).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Melhor compulsando os autos, exercendo o juízo de retratação facultado pelo art. 1.021, § 2º, 2ª parte, do CPC e 259 do RISTJ, reconsidero a decisão agravada (fls. 396/399), tornando-a sem efeito.
+Após, voltem-me os autos conclusos para nova apreciação do agravo em recurso especial.
+Publique-se.
