@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de agravo apresentado por MONTREAL PARTICIPACOES - EIRELI contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim resumido:
+APELAÇÃO CÍVEL. RESCISÃO CONTRATUAL. COMPRA E VENDA DE LOTE. INDENIZAÇÃO PELO USO DO IMÓVEL INDEVIDA. MULTA COMPENSATÓRIA SUFICIENTE. IMPOSSIBILIDADE DE CUMULAÇÃO COM PERDAS E DANOS, SOB PENA DE . TERRENO SEM BIS IN IDEM EDIFICAÇÃO. USO E FRUIÇÃO DO BEM NÃO COMPROVADOS. HONORÁRIOS RECURSAIS FIXADOS.
+Quanto à controvérsia, alega violação do art. 884 do CC, no que concerne ao enriquecimento ilícito se o devedor vier a receber as parcelas pagas sem proceder à indenização por todo o tempo em que ficara na posse do imóvel após o período de inadimplência, trazendo os seguintes argumentos:
+Ocorre Excelências, que data máxima vênia , o r. acórdão NÃO INTERPRA A SITUAÇÃO de cobrança de indenização pela fruição do imóvel APÓS o inadimplemento da parte compradora, tendo em vista esta possuir natureza diferente da indenização decorrente da rescisão em si. Senão vejamos.
+Em se tratando de promessa de compra e venda de imóvel, a jurisprudência do STJ afasta qualquer ilação no sentido da caraterização de bis in idem na hipótese de condenação do promissário comprador ao pagamento cumulativo da cláusula penal compensatória e de indenização a título de fruição do bem APÓS o inadimplemento.
+Isso porque, enquanto a cláusula penal é sanção pelo descumprimento de obrigação contratualmente assumida, a indenização pela fruição tem por fim ressarcir a ocupação indevida do imóvel após o inadimplemento do contraente
+ ..
+Por outro lado, caso o promissário comprador continue na posse do bem após a mora, será devida, ao credor, indenização por perdas e danos, a título de aluguéis, o que não se confunde com a pena convencional.
+Nesse sentido, configura-se enriquecimento sem causa (art. 884 do CC) se o devedor vier a receber as parcelas pagas sem proceder à indenização por todo o tempo em que ficara na posse do imóvel após o período de inadimplência (fls. 310).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+Analisando-se o Contrato celebrado entre as partes, observa-se que foi estipulada  5  Cláusula Penal em caso de resolução contratual por inadimplemento ou mora do compromissário comprador, no qual, a parte compradora ficaria obrigada a pagar multa convencional de natureza compensatória. Observe-se trecho da Cláusula Quarta do Contrato:
+ ..
+Na hipótese, considerando que o Contrato previu multa compensatória no caso de rescisão, escorreito o entendimento do Magistrado de Primeiro Grau ao afastar a condenação de quaisquer outros valores a título de lucros cessantes (aluguel), porquanto inviável a fixação cumulada de ambos.
+Por fim, é incontroverso nos autos que sobre o referido lote de terra inexiste construção edificada , bem como não ficou provado que o bem foi usufruído e gozado durante a  11  vigência do contrato.
+Desse modo, mais um motivo para ser indevida a pretensão de condenar o comprador no pagamento de aluguéis..(fls. 240-242).
+Assim, incidem os óbices das Súmulas n. 5 e 7 do STJ, uma vez que a pretensão recursal demanda reexame de cláusulas contratuais e reexame do acervo fático-probatório juntado aos autos.
+Portanto, "a pretensão de alterar tal entendimento, considerando as circunstâncias do caso concreto, demandaria o revolvimento de matéria fático-probatória e reanálise de cláusulas contratuais, o que é inviável em sede de recurso especial, conforme dispõem as Súmulas 5 e 7, ambas do STJ". (AgInt no AREsp 1.227.134/SP, relator Ministro Raul Araújo, Quarta Turma, DJe de 9/10/2019.)
+Confiram-se ainda os seguintes julgados: AgInt no REsp 1.716.876/SP, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 3/10/2019; AgInt no AREsp 1.165.518/DF, relator Ministro Marco Buzzi, Quarta Turma, DJe de 4/10/2019; AgInt no AREsp 481.971/DF, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 25/9/2019; AgInt no REsp 1.815.585/DF, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 23/9/2019; e AgInt no AREsp 1.480.197/MG, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 25/9/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
