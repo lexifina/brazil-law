@@ -1,0 +1,37 @@
+DECISÃO
+Cuida-se de agravo apresentado por ÉDSON JÚNIOR GIFFONI DE SOUZA e OUTRO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, assim resumido:
+CIVIL E PROCESSUAL. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. AÇÃO CONDENATÓRIA ACIDENTE DE TRÂNSITO. RITO SUMÁRIO IMPROVIMENTO.
+Quanto à controvérsia, alega violação dos arts. 277 e 388 do CC, no que concerne à existência de quitação tão somente parcial do objeto da transação firmada entre os corréus, trazendo os seguintes argumentos:
+O objeto do inconformismo se deu em virtude do prosseguimento do processo em relação aos demais corréus.
+Em suas contrarrazões os Recorrentes ponderaram ao E. Tribunal que a Recorrida NÃO participou da transação homologada pelo Juízo de primeiro grau, e, além de não ter participado, o pedido de extinção se restringiu a corré Dallas, que efetuou o pagamento do valor total que lhe cabia, ou seja, o valor se referia tão somente a parte da 1ª Ré, e não dos demais.
+Os Recorrentes manifestaram ao Tribunal de origem que a intenção não foi extinguir a integralidade dos pedidos, por meio da transação celebrada junto a 1ª Ré, mas somente da parcela que lhe cabia.
+ ..
+O acordo entabulado deixa claro e evidente que a parte Recorrente não inseriu como objeto desta transação toda a obrigação, mas tão somente a cotaparte relativa à Ré Dallas Rent a Car Ltda, TANTO QUE O REQUERIMENTO DE HOMOLOGAÇÃO E EXTINÇÃO FOI EXPRESSO E RESTRITO TÃO SOMENTE EM RELAÇÃO RÉ DALLAS.
+Pode-se então concluir que o ajuste referente ao pagamento da obrigação celebrado com a corré Dallas não tem o condão de exonerar a Recorrida, que detinha uma responsabilidade solidária, ante a ausência de manifestação expressa dos Recorrentes no sentido de remirem integralmente a obrigação.
+Pelo contrário, restou evidente que os Recorrentes não pretendiam, com o prefalado acordo, dar quitação aos demais corréus, inclusive a Recorrida. O próprio Superior Tribunal de Justiça já enfrentou casos semelhantes, e entendeu que a transação efetivada entre um dos devedores solidários e seu credor só irá extinguir a dívida em relação aos demais codevedores somente na hipótese em que o credor, manifestamente, pretende ofertar quitação à dívida integral e não parcial, como é o caso dos autos, in verbis:
+ ..
+Assim, deve-se reconhecer que o acordo judicial firmado entre os Recorrentes e a corré Dallas não afeta a Recorrida e dos demais corréus, posto que a sua cota-parte não foi objeto da transação, razão pela qual deve o acórdão ser reformado com a manutenção da sentença de e-fl. 733.
+Desta forma, imprescindível a reforma do julgado, haja vista o evidente direito dos Recorrentes na manutenção da sentença prolatada em primeira instância. (fls. 873-877).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+Em seu recurso, o apelante afirma que as partes firmaram acordo de fls. e-doc 693, e por tratar-se de obrigação solidária, o feito deveria ser extinto em relação aos demais corréus, nos termos do artigo 844 § 3º do Código Civil.
+Desse modo, o presente recurso cinge-se a saber se o decisum foi acertado quanto ao prosseguimento do presente feito no que tange aos demais réus.
+Compulsando-se os autos, verifica-se que a demanda foi proposta em face dos réus: DALLAS RENT A CAR LTDA (AVIS RENT A CAR), J.A.E. TELECOMUNICAÇÕES LTDA e I  TELEMAR NORTE LESTE S.A.
+O acordo de fls.e-doc. 673 foi celebrado exclusivamente com a ré Dallas Rent a Car, a qual se responsabilizou pelo "pagamento integral" do crédito no valor de R$70.000,00 (setenta mil reais). Confira-se:
+ ..
+Analisando-se os termos do acordo celebrado entre as partes, observa-se que consta no segundo parágrafo da avença, que acordo se destina "para adimplir o crédito integral dos autores, a ré irá proceder com o pagamento de R$70.000,00 (setenta mil reais)." - os grifos não são do original.
+Assim, se o acordo estabelece que se trata do valor "integral", não há que se falar em eventuais valores a serem perseguidos com relação aos demais litisconsortes, já que foi acordado o pagamento integral à parte autora.
+Ademais, por terem as partes contratantes se referido ao crédito integral dos autores, caberia constar expressamente na avença que aquele termo não pusesse obstáculos ao prosseguimento da ação com relação aos demais litisconsorte (ou cláusula que o valha). Mas isso não foi feito!
+Oportuno destacar, ainda, que se o acordo não tivesse mencionado crédito integral e se o valor fosse irrisório, não restaria dúvidas de que caberia o prosseguimento com relação aos demais.
+Contudo, grife-se, consta do acordo expressamente "adimplir o crédito integral dos autores".
+Por outro lado, observa-se na exordial que foi atribuído à causa um valor mais elevado por mera estimativa - R$177.651,43 (cento e setenta e sete mil seiscentos e cinquenta e um reais e quarenta e três centavos), sendo o montante acordado em R$70.000,00 bastante substancial para indenizar as partes dos danos alegados, posto que embora o acidente envolvendo os veículos das partes tenha causado lesões graves aos terceiro autor, não houve óbito, tampouco incapacidade permanente comprovada; o que também permite se deduzir que se trata da satisfação do crédito em sua totalidade.
+Com efeito, como se depreende do disposto no artigo 844, §3º, do Código Civil, a transação realizada entre um dos devedores solidários e seu credor, extingue a dívida em relação aos codevedores, verbis:
+ ..
+Nesse passo, é importante frisar que a solidariedade mantém íntegra a obrigação com respeito aos devedores, tanto que o credor pode exigi-la apenas de um ou de todos, entretanto, sendo satisfeita integralmente a obrigação, como no presente caso, liberam-se os demais devedores.
+Assim, tendo sido celebrado acordo com um dos devedores solidários, para pagamento integral, conforme escrito no acordo, sem evidências de vício de vontade, este aproveitou aos outros réus, nos termos do art. 844 §3º do CC, por tratar-se de obrigação solidária (fls. 857-860, grifos meus).
+Assim, incidem os óbices das Súmulas n. 5 e 7 do STJ, uma vez que a pretensão recursal demanda reexame de cláusulas contratuais e reexame do acervo fático-probatório juntado aos autos.
+Portanto, "a pretensão de alterar tal entendimento, considerando as circunstâncias do caso concreto, demandaria o revolvimento de matéria fático-probatória e reanálise de cláusulas contratuais, o que é inviável em sede de recurso especial, conforme dispõem as Súmulas 5 e 7, ambas do STJ". (AgInt no AREsp 1.227.134/SP, relator Ministro Raul Araújo, Quarta Turma, DJe de 9/10/2019.)
+Confiram-se ainda os seguintes julgados: AgInt no REsp 1.716.876/SP, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 3/10/2019; AgInt no AREsp 1.165.518/DF, relator Ministro Marco Buzzi, Quarta Turma, DJe de 4/10/2019; AgInt no AREsp 481.971/DF, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 25/9/2019; AgInt no REsp 1.815.585/DF, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 23/9/2019; e AgInt no AREsp 1.480.197/MG, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 25/9/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
