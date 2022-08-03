@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de Recurso Especial interposto pela Fazenda Nacional, contra acórdão proferido pelo Tribunal Regional da 4º Região, cuja ementa assim estabelece, in verbis:
+TRIBUTÁRIO. EMBARGOS À EXECUÇÃO DE SENTENÇA.PRESCRIÇÃO DA PRETENSÃO EXECUTIVA. INOCORRÊNCIA.SEMESTRALIDADE DO PIS. AUSÊNCIA DE CRÉDITO. HONORÁRIOS DE ADVOGADO.
+1. Nos termos da Súmula 150 do Supremo Tribunal Federal, prescreve a execução no mesmo prazo de prescrição da ação.
+2. O prazo prescricional para postular a restituição/compensação de créditos tributários é de 5 anos, começando a fluir somente após a sua extinção definitiva (art. 168, I, do CTN). Nos tributos sujeitos ao lançamento por homologação, a referida extinção se dá pela homologação fiscal - expressa ou tácita - do recolhimento antecipado pelo contribuinte. Se não houver manifestação expressa, presume-se tacitamente homologado o pagamento (e, portanto, extinto o crédito tributário) após cinco anos "a contar da ocorrência do fato gerador" (art. 150, § 4º, CTN).
+3. Uma vez declarada que a base de cálculo do PIS deve observar a disposição da LC 07/70, e considerando que a sentença não previu o reconhecimento da semestralidade, é aceitável presumir que o título judicial incorporou a tese da semestralidade, de forma que existe sim crédito a favor da exequente.
+4. Os honorários de advogado devem ser fixados no percentual mínimo de 10% sobre o valor da causa ou da condenação, afastando-se desse critério somente quando tal valor for exorbitante ou quando restar muito aquém daquilo que efetivamente deveria receber o advogado (EIAC nº 2000.04.01.107276-3/PR, Rel. Des. Federal Wellington Mendes de Almeida, DJU 10out.2001 e AC nº 2004.70.00.034874-7, Rel. Des. Federal Dirceu de Almeida Soares, DJU 02ago.2005).
+5. Considerando o disposto no art. 20, §4º, do CPC vigente à época da prolação da sentença, atento ao zelo profissional, a natureza e a importância da causa quando da sua propositura, o trabalho e o tempo
+Os embargos de declaração foram rejeitados.
+Nas razões do recurso especial fundamentado no artigo 105, inciso III, alínea "a", do permissivo constitucional, o recorrente alega a ofensa aos artigos 1.022, inciso II e 489, §1º, inciso IV,502, 503, 505, 506, 507 e 508,todos, do CPC/2015,168, I e 169 do CTN, para sustentar em síntese: (i) a nulidade do acórdão recorrido, ante a rejeição dos embargos de declaração; (ii) a prescrição do pedido de compensação reconhecido judicialmente.
+Contrarrazões ao recurso especial às fls. 159/176 (e-STJ).
+O Tribunal de origem admitiu o processamento do recurso especial.
+É o relatório. Passo a decidir.
+Preliminarmente, o contribuinte pugna pela nulidade do acórdão recorrido, ante a omissão do Tribunal de origem ao não analisar a controvérsia do caso em tela, sob a perspectiva da exegese dos artigos502, 503, 505, 506, 507 e 508, todos do Código de Processo Civil - Lei nº 13.105/2015.
+Em que pese as razões da preliminar invocada, não se verifica a alegada violação aos arts. 489 e 1.022 do CPC/2015, na medida em que a eg. Corte de origem dirimiu, fundamentadamente, a questão que lhe foi submetida, não sendo possível confundir julgamento desfavorável, como no caso, com negativa de prestação jurisdicional ou ausência de fundamentação.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. PLANO DE SAÚDE. NEGATIVA DE COBERTURA. RECUSA INDEVIDA. REEMBOLSO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. SISTEMA UNIMED. COOPERATIVAS DE TRABALHO MÉDICO. REDE INTERLIGADA. MARCA ÚNICA. ABRANGÊNCIA NACIONAL. TEORIA DA APARÊNCIA. SÚMULA Nº 568/STJ. HOSPITAL CREDENCIADO. CONJUNTO FÁTICO-PROBATÓRIO E CLÁUSULAS CONTRATUAIS. REEXAME. IMPOSSIBILIDADE. SÚMULAS NºS 5 E 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não viola os arts. 489, § 1º, IV, e 1.022, II, parágrafo único, I e II, do Código de Processo Civil de 2015 nem importa em negativa de prestação jurisdicional o acórdão que adota fundamentação suficiente para a resolução da causa, porém diversa da pretendida pelo recorrente, decidindo de modo integral a controvérsia posta.
+3. Há responsabilidade solidária entre as cooperativas de trabalho médico que integram a mesma rede de intercâmbio, ainda que possuam personalidades jurídicas e bases geográficas distintas.
+4. Na hipótese, acolher a tese pleiteada pela agravante exigiria exceder os fundamentos do acórdão impugnado e adentrar no exame das provas e cláusulas contratuais, procedimentos vedados em recurso especial, a teor das Súmulas nºs 5 e 7/STJ.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 1.944.194/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 27/6/2022, DJe de 30/6/2022.)
+Quanto ao mérito, a Fazenda Nacional defende a prescrição do pedido de compensação fiscal encetado pelo recorrido, sob a justificativa do surgimento da prescrição da pretensão compensatória.
+O Tribunal de origem rejeitou a tese fazendária, ao afirmar que o prazo da prescrição do crédito fiscal reconhecido judicialmente, obedece ao artigo 4º do Decreto 20.910/1932 (fls. 135, e-STJ).
+Nesse sentido, não obstante o órgão fazendário tenha balizado as razões recursais sob a perspectiva dos artigos502, 503, 505, 506, 507 e 508, todos do Código de Processo Civil - Lei nº 13.105/2015, não impugnou especificamente o fundamento autônomo consubstanciado na exegese do artigo 20.910/1932. Logo, recai sobre o apelo especialo teor da Súmula 283/STF, porquanto a falta de impugnação aosfundamentoscentrais do acórdão recorrido atraem a aplicação da Súmula 283/STF" (AgRg no AREsp 1902147/DF, Rel. Ministro Ribeiro Dantas, Quinta Turma, julgado em 19/10/2021, DJe 27/10/2021 - g.m.).
+Ante o exposto, com fundamento no art. 255, § 4º, II, do RISTJ, conheço parcialmente do recurso especial para nessa extensão, negar-lhe provimento.
+Publique-se.
+Intimem-se.
+EMENTA
+PROCESSO CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. OFENSA AOS ARTIGOS 489 E 1.022, AMBOS, DO CPC/2015. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF. RECURSO ESPECIAL PARCIALMENTE CONHECIDO PARA NESSA EXTENSÃO NEGAR-LHE PROVIMENTO.
