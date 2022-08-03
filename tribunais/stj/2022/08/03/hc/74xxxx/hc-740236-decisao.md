@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se dehabeas corpusimpetrado em benefício de ALICIA SANTANA PEREIRA apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (Apelação Criminal n.1508687-52.2021.8.26.0228).
+Depreende-se dos autos que a paciente foi condenada à pena de 2 anos e 6 meses de reclusão, em regime aberto,pela prática do delito tipificado no art. 33,caput, da Lei n. 11.343/2006 (tráfico de drogas), sendo a pena privativa de liberdade substituída por duas restritivas de direitos.
+Segundo o apurado, a acusada e outros corréus foram surpreendidos na posse deum "tijolo" de maconha, pesando praticamente 890g (oitocentos e noventa gramas).
+Interposta apelação pelas partes, o Tribunal local negou provimento ao recurso defensivo e proveu parcialmente a insurgência do Ministério Público estadual, a fim de afastar o redutor do art. 33, § 4º, da Lei n. 11.343/2006 e redimensionar a pena da ré para 5 anos de reclusão no regime inicialmente fechado (e-STJ fls. 66/79).
+No Superior Tribunal de Justiça, sustenta a defesa estarem presentes na espécie todos os requisitos necessários à incidência da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006.
+Pondera que a quantidade de drogas apreendida não justifica o afastamento do benefício.
+Reduzida a reprimenda, assere a possibilidade de alteração do regime inicial de cumprimento da sanção. Invoca, sobre o tema, o teor dos enunciados n. 718 e 719 da Súmula do Supremo Tribunal Federal.
+Por fim, sublinha também estarem preenchidos os requisitos legais necessários à substituição da pena privativa de liberdade por restritiva de direitos.
+Diante dessas considerações, pede (e-STJ fl. 10):
+A. a concessão da liminar para a aplicação da causa de diminuição do artigo 33, §4º e a imediata colocação da paciente em regime aberto e substituição da pena privativa de liberdade por pena restritiva de direitos;
+a) a requisição das informações que deverão ser fornecidas pela autoridade coatora;
+a) a concessão definitiva da ordem.
+Liminar indeferida.
+Informações prestadas.
+Instado a se manifestar, o Ministério Público Federal opinou pelo não conhecimento do writ(e-STJ fls. 677/690).
+É o relatório.
+Decido.
+De acordo com o art. 33, § 4º, da Lei n. 11.343/2006, o agente poderá ser beneficiado com a redução de 1/6 (um sexto) a 2/3 (dois terços) da pena, desde que seja primário, portador de bons antecedentes, não se dedique a atividades criminosas nem integre organização criminosa.
+Digno de nota que, no julgamento do REsp n. 1.887.511/SP, de relatoria do Ministro João Otávio de Noronha, concluiu a Terceira Seção desta Casa que a quantidade de substância entorpecente e a sua natureza hão de ser consideradas na fixação da pena-base, nos termos do art. 42 da Lei n. 11.343/2006, não sendo, portanto, pressuposto para a incidência da causa especial de diminuição de pena descrita no art. 33, § 4º, da Lei n. 11.343/2006.
+Recebeu o julgado esta ementa:
+PENAL, PROCESSO PENAL E CONSTITUCIONAL. DOSIMETRIA DE PENA. PECULIARIDADES DO TRÁFICO ILÍCITO DE ENTORPECENTES. ART. 42 DA LEI N. 11.343/2006. NATUREZA E QUANTIDADE DA DROGA APREENDIDA. CIRCUNSTÂNCIA PREPONDERANTE A SER OBSERVADA NA PRIMEIRA FASE DA DOSIMETRIA. UTILIZAÇÃO PARA AFASTAMENTO DO TRÁFICO PRIVILEGIADO OU MODULAÇÃO DA FRAÇÃO DE DIMINUIÇÃO DE PENA DO § 4º DO ART. 33 DA LEI N. 11.343/2006. IMPOSSIBILIDADE. CARACTERIZAÇÃO DE BIS IN IDEM. NÃO TOLERÂNCIA NA ORDEM CONSTITUCIONAL. RECURSO PROVIDO PARA RESTAURAÇÃO DA SENTENÇA DE PRIMEIRA INSTÂNCIA.
+1. A dosimetria da reprimenda penal, atividade jurisdicional caracterizada pelo exercício de discricionariedade vinculada, realiza-se dentro das balizas fixadas pelo legislador.
+2. Em regra, abre-se espaço, em sua primeira fase, à atuação da discricionariedade ampla do julgador para identificação dos mais variados aspectos que cercam a prática delituosa; os elementos negativos devem ser identificados e calibrados, provocando a elevação da pena mínima dentro do intervalo legal, com motivação a ser necessariamente guiada pelos princípios da razoabilidade e da proporcionalidade.
+3. Na estrutura delineada pelo legislador, somente são utilizados para a fixação da pena-base elementos pertencentes a seus vetores genéricos que não tenham sido previstos, de maneira específica, para utilização nas etapas posteriores. Trata-se da aplicação do princípio da especialidade, que impede a ocorrência de bis in idem, intolerável na ordem constitucional brasileira.
+4. O tratamento legal conferido ao tráfico de drogas traz, no entanto, peculiaridades a serem observadas nas condenações respectivas; a natureza desse crime de perigo abstrato, que tutela o bem jurídico saúde pública, fez com que o legislador elegesse dois elementos específicos necessariamente presentes no quadro jurídico-probatório que cerca aquela prática delituosa, a saber, a natureza e a quantidade das drogas para utilização obrigatória na primeira fase da dosimetria.
+5. Não há margem, na redação do art. 42 da Lei n. 11.343/2006, para utilização de suposta discricionariedade judicial que redunde na transferência da análise desses elementos para etapas posteriores, já que erigidos ao status de circunstâncias judiciais preponderantes, sem natureza residual.
+6. O tráfico privilegiado é instituto criado par a beneficiar aquele que ainda não se encontra mergulhado nessa atividade ilícita, independentemente do tipo ou do volume de drogas apreendidas, para implementação de política criminal que favoreça o traficante eventual.
+7. A utilização concomitante da natureza e da quantidade da droga apreendida na primeira e na terceira fases da dosimetria, nesta última para descaracterizar o tráfico privilegiado ou modular a fração de diminuição de pena, configura bis in idem, expressamente rechaçado no julgamento do Recurso Extraordinário n. 666.334/AM, submetido ao regime de repercussão geral pelo Supremo Tribunal Federal (Tese de Repercussão Geral n. 712).
+8. A utilização supletiva desses elementos para afastamento do tráfico privilegiado somente pode ocorrer quando esse vetor seja conjugado com outras circunstâncias do caso concreto que, unidas, caracterizem a dedicação do agente à atividade criminosa ou à integração a organização criminosa.
+9. Na modulação da causa de diminuição de pena prevista no § 4º do art. 33 da Lei n. 11.343/2006, podem ser utilizadas circunstâncias judiciais não preponderantes, previstas no art. 59 do Código Penal, desde que não utilizadas de maneira expressa na fixação da pena-base.
+10. Recurso provido para restabelecimento da sentença.
+(REsp n. 1.887.511/SP, relator Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA SEÇÃO, julgado em 9/6/2021, DJe 1/7/2021)
+Na espécie, acerca da dosimetria da pena, o Tribunal de origem decidiu nos seguintes termos (e-STJ fls. 73/74):
+As penas-base foram fixadas em seus patamares mínimos de 05 anos de reclusão e 500 dias-multa em seu mínimo unitário, tendo havido a insurgência do representante do Ministério Público.
+E a meu ver, embora a exasperação da pena-base fosse recomendável, à luz do disposto no artigo 42 da Lei n. 11.343 de 2006, a quantidade da droga apreendida será valorada na terceira etapa da dosimetria, a tornar inviável a pleiteada elevação, sob pena de "bis idem".
+Na segunda etapa da dosimetria, reconhecida a circunstância agravante da reincidência, a pena de Jhonatan foi elevada em 1/6, resultando em 05 anos e 10 meses de reclusão e 583 dias-multa em seu mínimo unitário, enquanto as penas dos demais acusados permaneceram inalteradas.
+Consigno que era de rigor o reconhecimento da circunstância agravante da calamidade pública para todos os réus, contudo, houve o conformismo do representante do Ministério Público, neste aspecto.
+Por derradeiro, as penas foram reduzidas em 1/2, a teor do artigo 33, § 4º, da Lei nº 11.343/2006, com a exceção da aplicada a Jhonatan, cuja vida pregressa obstou a concessão da benesse.
+Todavia, o representante do Ministério Público pleiteou o afastamento da mencionada causa de redução de pena, e a meu sentir, com razão, pois a quantidade de entorpecente apreendida bem indica adedicação efetiva e não eventual à venda de drogas, não parecendo crível que eles estivessem de posse destas drogas sem que a tanto não estivessem ligados a outros indivíduos versados na mesma criminalidade, ou ao menos que já atuassem há bom tempo no comércio ilegal de drogas.
+Por óbvio, os requisitos previstos pelo legislador no artigo 33, § 4º, da Lei nº. 11.343/2006 devem ser analisados separadamente.
+Do contrário, bastaria que a norma exigisse o preenchimento do requisito da primariedade para que o agente fosse agraciado com a redução da pena.
+Ademais, a norma buscou dar ao Juiz a possibilidade de no caso concreto aplicar pena menos rigorosa ao réu primário, de bons antecedentes, que não se dedicasse a atividades criminosas e não integrasse organização criminosa, e a intenção do legislador é clara: dispensar tratamento diferenciado ao "traficante menor", em detrimento do "traficante organizado".
+A previsão está assentada no princípio da individualização da pena e, assim, não afronta a ordem constitucional. Trata-se de regra não obrigatória, facultando ao Magistrado sua aplicação ou não, de acordo com o caso em exame, de forma fundamentada.
+Tais circunstâncias são o bastante para o afastamento da causa especial de redução da pena, que é direcionada àqueles indivíduos que não fazem da narcotraficância o meio de vida.
+Deste modo, acolho a pretensão do representante do Ministério Público e afasto o redutor previsto no artigo 33, § 4º, da Lei nº 11.343/2006, resultando as penas de Patrícia, Osvaldo e Alícia em 05 anos de reclusão e 500 dias-multa em seu mínimo unitário.
+Da leitura dos trechos supratranscritos, concluo que assiste razão à defesa,tendo em vista que adedicação à atividade criminosa foi assentada exclusivamentena quantidade e natureza domaterial tóxico apreendido.
+Evidente, portando, o constrangimento ilegal.
+À vista do exposto, concedo a ordem para reestabelecer a sentença condenatória.
+Tendo em vista que os corréus PATRÍCIA CUSTÓDIO DA SILVA e OSVALDO DA SILVA PEREIRAencontram-se na mesma situação fático-processual dapaciente, estendo-lhesos efeitos desta decisão,com fulcro no art. 580 do Código Processo Penal.
+Publique-se. Intimem-se.
