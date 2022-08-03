@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de agravo interposto por IGOR SANTOS MIRANDA contra decisão, proferida pela Vice-Presidência do Tribunal de Justiça do Estado da Bahia, que negou seguimento ao recurso especial por ele aviado.
+Depreende-se dos autos que o agravante foi condenado, como incurso nos arts. 157, § 2º, I e II, e 180, ambos do Código Penal, à pena de 10 anos, 6 meses e 15 dias de reclusão, no regime inicial fechado.
+Após o trânsito em julgado, a defesa ajuizou revisão criminal, que foi julgada extinta sem apreciação do mérito. O acórdão está assim ementado (e-STJ fls. 77/79):
+DIREITO PROCESSUAL PENAL. REVISÃO CRIMINAL.ROUBO QUALIFICADO. PEDIDO DE ABSOLVIÇÃO, DESCLASSIFICAÇÃO DA CONDUTA E REDIMENSIONAMENTO DA PENA. REEXAME DO CONJUNTO PROBATÓRIO. IMPOSSIBILIDADE. EXTINÇÃO DA AÇÃO SEM JULGAMENTO DE MÉRITO.
+I. De proêmio, observa-se que a presente ação de revisão criminal não tem como prosseguir.
+Nessa senda, a ação autônoma em análise, como sabido, é cabível somente nas hipóteses taxativas arroladas no artigo 621, incisos I, II e III, da Lei Adjetiva Penal, é dizer, se a sentença condenatória for contrária à lei ou aos elementos constantes dos autos, quando se fundar em provas falsas, ou, ainda, quando descobertos novos elementos ou circunstâncias que autorizem a modificação daquela decisão.
+No caso em tela, não obstante juridicamente o requerente fundamente sua pretensão nos incisos I e II, do artigo acima citado, é de insofismável contundência o interesse do requerente em, apenas, reexaminar provas e em rediscutir questões já definitivamente apreciadas, o que não se encontra na linha passível de argumentação do presente instrumento processual.
+Nesse trilhar, "insta destacar que a presente ação impugnativa é uma medida excepcional, criada para solver a tensão existente entre os valores da segurança jurídica e da justiça, desconstituindo-se a coisa julgada para a correção de erros judiciários, não se constituindo mais uma esfera recursal, para reavaliação da prova." (TJ-RS - Revisão Criminal: RVCR 70065689978 RS).
+Cediço que o remédio jurídico eleito pelo autor não se presta à renovação do exame da prova, detidamente analisadas peloilustre juiz a quo e pela 2a Câmara Criminal deste Egrégio Tribunal de Justiça, com base na mera inconformidade do condenado.
+Desse modo, indubitavelmente que, para o conhecimento da presente ação impugnativa, era necessária a demonstração da presença invencível de uma das hipóteses de vício elencadas no art. 621 do CPP, o que não ocorreu in casu.
+Com efeito, o objetivo da revisão criminal não é permitir uma terceira instância de julgamento, garantindo ao acusado mais uma oportunidade de ser absolvido ou ter reduzida sua pena, mas sim assegurar-lhe a correção de um erro judiciário e não mais uma rediscussão da prova.
+II. Até porque, conforme já salientado, o exame dos autos convence de que a matéria já devidamente analisada e decidida em sede de Apelação, concluindo o eminente Relator, Mario Alberto Simões Hirs, pela necessidade de condenação do ora demandante. Salienta-se, ainda, que o acórdão foi proferido, à unanimidade, pela 2a Câmara Criminal, devendo, portanto, respeitar a soberania da coisa julgada.
+III. Por outro vértice, no que pertine ao pleito de redimensionamento da pena, não se verifica qualquer ilegalidade na sua dosimetria a ensejar modificação. É de bom alvitre ressaltar que cabe ao juiz, dentro dos limites da legislação, valendo-se do seu livre convencimento, estabelecer a quantidade suficiente para reprovação e prevenção do crime, o que foi feito.
+Ademais, esta ação autônoma não tem o condão de alterar o quantum da pena aplicada, excepcionalmente cabível apenas quando contrária ao texto expresso da lei penal ou à evidência dos autos. À saciedade, não é o que ocorre no caso em tela.
+IV. Procuradoria de Justiça manifestou-se pelo não conhecimento da ação.
+V. Revisão Criminal extinta sem julgamento do mérito.
+Foi então interposto recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, no qual se aduziu que "a pretensão nesta ação, portanto, é a reforma do Acórdão proferido pelo Tribunal de Justiça do Estado da Bahia nesta revisional, para que se aprecie m  as questões de fundo suscitadas pela defesa e, ao fim, se alcance um provimento judicial de excelência" (e-STJ fl. 98).
+Pretende a defesa a desclassificação da conduta para o crime de furto. Aduz que o crime não se consumou.
+Assevera ser atípica a conduta referente ao crime de receptação.
+Por fim, aponta ser indevido o aumento imposto à pena-base e que seria possível sua redução abaixo do mínimo legal na segunda fase.
+Contrarrazões às e-STJ fls. 124/136.
+O MPF manifestou-se pelo improvimento do agravo, e pela concessão da ordem de ofício para a readequação da pena (e-STJ fls. 185/189).
+É, em síntese, o relatório.
+No caso, o Tribunal de origem, por entender não estarpresentenenhuma das hipóteses que autorizam o ajuizamento da revisão criminal, julgou extinto o processo sem a resolução do mérito, mediante a invocação dos seguintes fundamentos (e-STJ fls. 83/85):
+Nessa senda, a ação autônoma em análise, como sabido, é cabível somente nas hipóteses taxativas arroladas no artigo 621, incisos I, II e III, da Lei Adjetiva Penal, é dizer, se a sentença condenatória for contrária à lei ou aos elementos constantes dos autos, quando se fundar em provas falsas, ou, ainda, quando descobertos novos elementos ou circunstâncias que autorizem a modificação daquela decisão, in verbis:
+"Art. 621. A revisão dos processos findos será admitida:
+I - quando a sentença condenatória for contrária ao texto expresso da lei penal ou à evidência dos autos;
+11 - quando a sentença condenatória se fundar em depoimentos, exames ou documentos comprovadamente falsos;
+111 - quando, após a sentença, se descobrirem novas provas de inocência do condenado ou de circunstância que determine ou autorize diminuição especial da pena."
+No caso em tela, não obstante juridicamente o requerente fundamente sua pretensão nos incisos I e II, do artigo acima citado, é de insofismável contundência o interesse do requerente em, apenas, reexaminar provas e em rediscutir questões já definitivamente apreciadas, o que não se encontra na linha passível de argumentação do presente instrumento processual.
+Nesse trilhar, "insta destacar que a presente ação impugnativa é uma medida excepcional, criada para solver a tensão existente entre os valores da segurança jurídica e da justiça, desconstituindo-se a coisa julgada para a correção de erros judiciários, não se constituindo mais uma esfera recursal, para reavaliação da prova." (TJ-RS - Revisão Criminal: RVCR 70065689978 RS).
+Cediço que o remédio jurídico eleito pelo autor não se presta à renovação do exame da prova, detidamente analisadas pelo ilustre juiz a quo e pela 2aCâmara Criminal deste Egrégio Tribunal de Justiça, com base na mera inconformidade do condenado.
+Desse modo, indubitavelmente que, para o conhecimento da presente ação impugnativa, era necessária a demonstração da presença invencível de uma das hipóteses de vício elencadas no art. 621 do CPP, o que não ocorreu in casu.
+Sobre o tema, de fundamental importância a lição de Ada Pelegrini Grinover:
+"A coisa julgada representa instituto que obedece a razões políticas, de natureza prática, voltadas a garantir a certeza do direito que assegura a paz social.
+Exigência essencial à segurança jurídica, a coisa julgada tem, entre nós, assento constitucional (art. 5º, XXXVI, CF), exatamente porque a relevância da imutabilidade e da indiscutibilidade da sentença concretiza o anseio de segurança do direito presente nas relações sociais.
+Só em casos excepcionais, taxativamente arrolados pelo legislador, prevê o ordenamento jurídico a possibilidade de desconstituir-se a coisa julgada por intermédio da ação de revisão criminal  ..1. Isto ocorre quando a sentença se reveste de vícios extremamente graves, que aconselham a prevalência do valor "justiça" sobre o valor "certeza"." 1 (grifo meu).
+No mesmo pensar, colaciono as seguintes jurisprudências:
+(..)
+Com efeito, o objetivo da revisão criminal não é permitir uma terceira instância de julgamento, garantindo ao acusado mais uma oportunidade de ser absolvido ou ter reduzida sua pena, mas sim assegurar-lhe a correção de um erro judiciário e não mais uma rediscussão da prova.
+Até porque, conforme já salientado, o exame dos autos convence de que a matéria já foi devidamente analisada e decidida em sede de Apelação, concluindo o eminente Relator Mario Alberto Simões Hirs, pela necessidade de condenação do ora demandante. Salienta-se, ainda, que o acórdão foi proferido, à unanimidade, pela 2a Câmara Criminal deste E. Tribunal, se, portanto, respeitar a soberania da coisa julgada.
+Por outro vértice, no que pertine ao pleito de redimensionamento da pena, não se verifica qualquer ilegalidade na sua dosimetria a ensejar modificação.
+É de bom alvitre ressaltar que cabe ao juiz, dentro dos limites da legislação, valendo- se do seu livre convencimento, estabelecer a quantidade suficiente para reprovação e prevenção do crime, o que foi feito.
+Ademais, esta ação autônoma não tem o condão de alterar o quantum da pena aplicada, excepcionalmente cabível apenas quando contrária ao texto expresso da lei penal ou à evidência dos autos. À saciedade, não é o que ocorre no caso em tela.
+Vê-se, portanto, que os pedidos formulados para o Tribunal a quo nem sequer foram examinados, por ter se reputado inadequada a utilização da revisão criminal.
+Assim, não tendo sido enfrentadas as alegações formuladas pela defesa, e renovadas no recurso especial a que se refere o presente agravo, é necessário reconhecer que o requisito do prequestionamento não foi satisfeito, circunstância que impede o conhecimento da irresignação.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
