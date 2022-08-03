@@ -1,0 +1,25 @@
+DECISÃO
+NILSON JOSE FOGAÇA alega sofrer coação ilegal em seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Distrito Federal e Territórios no Agravo em Execução n. 0714597-92.2022.8.07.0000.
+A defesa busca a detração do período em que o paciente ficou preso cautelarmente sobre o tempo mínimo da medida de segurança aplicada, "para o efeito de contar o tempo para a realização obrigatória do exame de averiguação de periculosidade ao termo do prazo mínimo" (fl. 6).
+O Ministério Público Federal, em parecer de fls. 392-399, opinou pelo não conhecimento dowrite, subsidiariamente, pela denegação da ordem.
+Decido.
+Infere-se dos autos que o paciente, denunciado como incurso no art. 121, § 2º, I e IV, do CP, em razão do reconhecimento de sua inimputabilidade, foi absolvido impropriamente, oportunidade na qual lhe foi imposta medida de segurança de internação em hospital de custódia e tratamento psiquiátrico, estabelecido o prazo mínimo de 3 anos e máximo de 30, nos termos da Súmula n. 527 do STJ.
+O sentenciado foi preso no dia 10/7/2018 e a medida de segurança de internação imposta em 31/7/2020.
+A defesa formulou pedido de desinternação condicional do segurado, o que foi indeferido pelo Magistrado de primeiro grau, em decisão assim fundamentada (fls. 174-175):
+Dos autos se extrai que foi expedida guia de internação para o segurado, oriundo destes autos, no dia 27/10/2020 (mov. 18.1), passando, assim, a cumprir a medida de segurança.
+Portanto, o segurado está recolhido e cumprindo a medida de segurança que lhe foi imposta há apenas oito meses e neste período ele foi submetido a exame pela equipe multidisciplinar da Ala de Tratamento Psiquiátrico (mov. 45.1) e teve também sua situação avaliada pela Seção Psicossocial (mov. 59.1), oportunidade em que restou recomendada nos respectivos laudos/relatórios a desinternação condicional.
+Contudo, mostra-se temerário, como bem ressaltou o Ministério Público, que em tão pouco tempo de avaliação do segurado seja este desinternado condicionalmente, ainda mais considerando-se que o prazo mínimo da medida de segurança, imposta em sentença de absolvição imprópria, sequer foi cumprido.
+Portanto, incabível por ora o deferimento da desinternação condicional do segurado.
+Noutro vértice, objetivando uma melhor observação do segurado, considero viável a concessão de saídas especiais, conforme pedido do Ministério Público e recomendação subsidiária da Seção Psicossocial, como forma de manutenção e estreitamento dos vínculos do segurado, contribuindo para a manutenção da estabilização de seu estado de saúde mental.
+Assim, pelas razões expostas, INDEFIRO a DESINTERNAÇÃO CONDICIONAL do segurado e AUTORIZO as SAÍDAS ESPECIAIS, sem escolta, para as quais estabeleço a PERIODICIDADE MENSAL, sob os cuidados e responsabilidade da Sra. Elza Ferreira da Silva (irmã do segurado), sujeitando-se às seguintes condições:
+ ..
+O Tribunal a quoratificou o decisumsupra, sob os seguintes fundamentos (fls. 373-374, destaquei):
+Consta dos autos que, após regular trâmite processual, o Juízo do Tribunal do Júri de Taguatinga absolveu impropriamente o agravante e aplicou-lhe a medida de segurança de internação em hospital de custódia e tratamento psiquiátrico pelo período mínimo de 3 (três) anos.
+Em suas razões, a defesa sustenta que o tempo em que o agravante esteve preso cautelarmente deve ser computado na contagem do período mínimo de internação de 3 (três) anos imposto na sentença condenatória.
+Contudo, conforme entendimento recente desta Turma, a detração do período em que o agente ficou preso cautelarmente se aplica, para efeito de contagem, apenas ao tempo máximo de duração da medida de segurança, não podendo ser computado para atingir o período mínimo de internação. Vejamos:
+ ..
+Ante o exposto, NEGO PROVIMENTO ao recurso, mantendo íntegra a decisão atacada.
+Da análise do acórdão impugnado, verifica-se que este vai de encontro à jurisprudência desta Corte Superior, de que " e m casos de aplicação de medida de segurança, deve ser descontada desta, para fins de cômputo do tempo de duração máxima da medida ou para fins de desinternação progressiva, o tempo em que o agente esteve cumprindo prisão cautelar ou internação, conforme determinação do artigo 387, § 2º, do Código de Processo Penal, o qual, aplica-se também às medidas de segurança"(HC n. 298.252/SP, relator Ministro Reynaldo Soares da Fonseca, 5ª T., DJe de 28/4/2016, grifei).
+No mesmo sentido, cito as seguintes decisões monocráticas: AREsp n. 1.923.481/SP, relator Ministro Reynaldo Soares da Fonseca, DJe 11/10/2021, eHC n. 510.215/SC, Rel. MinistroSebastião Reis Júnior, DJe 20/5/2019.
+À vista do exposto,concedo a ordemde habeas corpus, para determinar ao Magistrado da execução que proceda à detração do período de prisão provisória ou internação cautelar a que tenha se submetido o paciente parafins de observância do limite máximo damedida de segurançaou para fins de desinternação progressiva.
+Publique-se e intimem-se.
