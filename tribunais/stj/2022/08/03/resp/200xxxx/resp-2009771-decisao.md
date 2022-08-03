@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo Instituto Nacional do Seguro Social - INSS com fundamento naalínea ado permissivo constitucional, contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado (fls. 240/241):
+PREVIDENCIÁRIO. TEMPO DE SERVIÇO ESPECIAL. HIDROCARBONETOS. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. REAFIRMAÇÃO DA DER. POSSIBILIDADE. REQUISITOS PREENCHIDOS.
+1. Uma vez exercida atividade enquadrável como especial, sob a égide da legislação que a ampara, o segurado adquire o direito ao reconhecimento como tal e ao acréscimo decorrente da sua conversão em tempo de serviço comum no âmbito do Regime Geral de Previdência Social.
+2. Até 28/04/1995 é admissível o reconhecimento da especialidade por categoria profissional ou por sujeição a agentes nocivos, aceitando-se qualquer meio de prova (exceto para ruído); a partir de 29/04/1995 não mais é possível o enquadramento por categoria profissional, devendo existir comprovação da sujeição a agentes nocivos por qualquer meio de prova até05/03/1997 e, a partir de então, por meio de formulário embasado em laudo técnico, ou por meio de perícia técnica.
+3. Os hidrocarbonetos são componentes dos óleos minerais, encontrando previsão no código 1.2.11 do Decreto nº 53.831/64, nos códigos1.0.7 dos Anexos IV dos Decretos nº 2.172/97 e nº 3.048/99, assim como no Anexo nº 13 da NR nº 15 do MTE.
+4. O Ministério do Trabalho e Emprego editou a Portaria Interministerial nº 9, de 07 de outubro de 2014, publicando a Lista Nacional de Agentes Cancerígenos para Humanos, encontrando-se os "óleos minerais", arrolados no Grupo 1 - Agentes confirmados como carcinogênicos para humanos.
+5. Viável a verificação de reafirmação da DER, de ofício, consoante definido no julgamento do Tema 995 do STJ.
+6. O segurado implementou todas as condições para a concessão dobenefício após a conclusão do processo administrativo, admitindo-se cômputo do tempo de contribuição, inclusive quanto ao período posterior ao ajuizamento da ação, de modo que tem direito à concessão do benefício de aposentadoria por tempo de contribuição na data de reafirmação da DER.
+Não foram opostos embargos de declaração.
+Sustenta a parte violação dos arts. 85,caput, 927, III, e 1.022 do CPC; 389, 394, 395 e 396 do CC.
+Argumenta, em síntese, que: (I) "No caso dos autos, a c. Turma julgadora, em que pese adotar a tese firmada pelo E. STJ para reconhecer a possibilidade de reafirmação da DER, não seguiu os parâmetros da Corte Superior no que se refere aos juros de mora e aos honorários advocatícios, uma vez que determinou o pagamento das parcelas vencidas, acrescidas de juros de mora e honorários advocatícios sobre o valor da condenação." (fl. 264); (II) ".. o STJ, ao reconhecer a possibilidade de reafirmação da DER, fixou os parâmetros a serem observados, os quais foram desatendidos pelo acórdão regional, violando, dessa forma, a norma acima mencionada que determina a observância pelos Tribunas dos julgados proferidos em sede de recursos repetitivos." (fl. 264).
+Aduz, também, que: (III) ".. tratando-se o pedido de "reafirmação da DER" da pretensão de utilização de fato superveniente para reconhecimento do direito do autor, afasta-se a relação de causa entre o indeferimento administrativo e o ajuizamento da demanda." (fl. 264) e que (IV) "No caso dos autos, o INSS não se insurgiu quanto a possibilidade de reafirmação da DER, nem tampouco houve descumprimento da obrigação reconhecida pelo d. juízo, razão pela qual não são devidos honorários ao patrono do autor." (fl. 265).
+Defende, por fim, que: (V) ".. o termo inicial dos juros de mora deve ser fixado a partir da data do reconhecimento do direito, tendo em vista o disposto nos artigos 389 e 394 do Código Civil." (fl. 266).
+Sem contrarrazões.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+O recurso não comporta conhecimento.
+O Tribunal de origem não se manifestou sobre nenhuma das teses defendidas no apelo nobre, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, à falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+ANTE O EXPOSTO, não conheçodo recurso especial.
+Publique-se.
