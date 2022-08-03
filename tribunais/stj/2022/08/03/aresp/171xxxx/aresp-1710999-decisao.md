@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo manejado por DANIEL MALAQUIAS DOS REIS e outros contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado Estado, assim ementado (fl. 1.743):
+APELAÇÃO CÍVEL. INDENIZAÇÃO. SUPOSTA PRISÃO ILEGAL. RESPONSABILIDADE CIVIL SUBJETIVA. NORMA ESPECÍFICA. ART. 5º, LXXV DA CF. PRECEDENTES DA CÂMARA. PRISÃO TEMPORÁRIA DECRETADA POR JUIZ SUSPEITO. INDIFERENÇA. DECISÃO MANTIDA POR COLEGIADO DESTE TRIBUNAL DE JUSTIÇA EM JULGAMENTO DE HABEAS CORPUS. RÉUS QUE POSTERIORMENTE FORAM CONDENADOS NA AÇÃO PENAL. DANOS MORAISINEXISTENTES. HONORÁRIOS RECURSAIS FIXADOS. RECURSO NÃO PROVIDO.
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 15, 159, 1.521, III e 1.522 do CCB/1916. Afirma a existência de "dolo no ato ilícito praticado por Juiz que antecipadamente sabe de sua condição de suspeito por amizade íntima com interessados no resultado da ação e se vale da presidência do processo criminal para auxiliar e aconselhar os amigos, infligindo sofrimento ao jurisdicionado acusado" (fl. 1.842). Defende aexistência de "evidente nexo de causalidade entre as ações (por DOLO) do servidor público (Juiz) e o resultado danoso aos Recorrentes. Quantum sacis para o dever de indenizar" (fl. 1.848).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+O inconformismo não prospera.
+De início, registre-se que em razão do princípio da unirecorribilidade e da preclusão consumativa, não se conhece do segundo recurso especial, interposto às fls. 2.126/2.140.
+O Tribunal de origem manteve a sentença de improcedência do pedido inicialà indenização por danos morais.
+Colhe-se do aresto estadual a seguinte fundamentação (fl. 1.744):
+Trata-se de pretensão indenizatória em razão da suposta prisão ilegal de CLAUDEMIR ARRIEIRO DE CARVALHO e DANIEL MALAQUIAS DOS REIS, por 124 dias, durante o período de 23/06/2001 a 24/10/2001.
+Os apelantes defendem, em síntese, que a prisão preventiva ocorrida na Ação Penal nº 54/2001 foi ilegal, tendo em vista que o magistrado que a decretou possuía amizade íntima com a vítima, sendo que tal fato restou reconhecido no habeas corpus nº 111729-9 (mov. 1.28).
+Primeiramente, cumpre informar que para que haja responsabilização do Estado por ato praticado por magistrado no exercício da função jurisdicional, é imprescindível a demonstração que este atuou com dolo ou fraude.
+Pois bem, apesar da prisão ter sido decretada por magistrado, posteriormente declarado suspeito, não restou observada qualquer ilicitude no ato praticado, pois a decisão foi devidamente fundamentada e atendeu todos os requisitos legais, sendo mantida pela 1ª Câmara Criminal deste Tribunal de Justiça, no julgamento do Habeas Corpus nº 110.882-7.
+Assim, pode-se concluir que a relação de amizade do magistrado, em primeira instância, com a parte, não foi determinante para o encarceramento dos apelantes, já que esta foi mantida em deliberação colegiada.
+Além disso, com a retomada da ação penal, os réus foram condenados pela prática do crime de extorsão (art. 158, CP), sentença que também foi confirmada por este Tribunal de Justiça no julgamento da Apelação Criminal nº 1.033.181-2 (mov. 76.2).
+Portanto, não há o que se falar em qualquer ilegalidade, vez que por mais que o ato tenha sido tomado por magistrado suspeito, este foi devidamente confirmado por este Tribunal de Justiça, sendo que posteriormente os réus foram condenados pelo crime imputado.
+Assim, inexistindo erro por parte do judiciário, resta prejudicada a pretensão de responsabilizar todos os apelados.
+Consta do provimento jurisdicional de 1º grau (fl. 1.559):
+A par da divergência doutrinária e jurisprudencial sobre a responsabilidade civil do Estado por ato jurisdicional típico, tratando-se de ato praticado na esfera criminal, que coloca em risco a liberdade de indivíduos, é inquestionável que o Estado deve responder por decisões judiciais que privem indevidamente o particular de sua liberdade.
+Não obstante, na situação em apreço não se verifica ilicitude nem na prisão em flagrante dos autores, nem na decisão que decretou sua prisão preventiva.
+Com efeito tal decisum foi devidamente fundamentado e atendeu a todos os requisitos legais.
+Corroborando esse entendimento, vale salientar que no julgamento do habeas corpus n.º110.882-7, o Tribunal de Justiça do Estado do Paraná negou a liminar, mantendo os Autores presos.
+Somente após a declaração de suspeição do então Juiz Titular da Vara Criminal de Porecatu que os Autores foram colocados em liberdade, dada a anulação desde o início da ação penal correspondente (vide habeas corpus n.º 111.729-9/TJPR).
+Embora a declaração de suspeição tenha sido motivada, em tese, pela revelação na imprensa de suposta relação de amizade entre o Juiz Evandro Luiz Camparoto e representantes legais da UCP, a legitimidade das prisões dos Autores decorre do fato de que, com a retomada da ação penal, foram condenados pelos fatos que ensejaram a decretação da custódia cautelar.
+Ademais, essa condenação foi confirmada pelo TJPR (vide seq. 76.2, p. 51).
+Portanto, apesar da anulação da decisão que decretou a prisão preventiva dos autores, no plano substancial restou demonstrada a ausência de irregularidade dessa decisão, o que infirma a pretensão indenizatória dos autores.
+Logo, a relação de amizade do juiz não foi a causa determinante do encarceramento dos Autores, já que outros magistrados, inclusive em deliberação colegiada, reconheceram a existência do crime.
+Desse modo, não restando demonstrada a ilegalidade da prisão dos Autores, não há que se falar em indenização por dano moral.
+Nesse contexto, a desconstituição das premissas lançadas pelas instâncias ordinárias, na forma pretendida, demandaria o reexame de matéria de fato, procedimento que, em sede especial, encontra óbice na Súmula 7/STJ, bem anotada pelo decisório agravado.
+ANTE O EXPOSTO, nego provimento ao agravo. Levando-se em conta o trabalho adicional realizado em grau recursal, impõe-se à parte recorrente o pagamento de honorários advocatícios equivalentes a 20% (vinte por cento) do valor a esse título já fixado no processo (art. 85, § 11, do CPC), observando-se, contudo, o disposto no art. 98, § 3º, do CPC, em razão da concessão do benefício da assistência judiciária gratuita.
+Publique-se.
