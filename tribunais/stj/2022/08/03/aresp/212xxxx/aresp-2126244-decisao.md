@@ -1,0 +1,14 @@
+DECISÃO
+Cuida-se de agravo apresentado por MARIA JOSE PEREIRA RODRIGUES contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, assim resumido:
+CIVIL E PROCESSUAL. SISTEMA FINANCEIRO DA HABITAÇÃO. AÇÃO REVISIONAL. CDC. INCIDÊNCIA. TR. APLICABILIDADE. "AMORTIZAÇÃO EM SÉRIE GRADIENTE". LEGITIMIDADE. SÚMULA N. 7-STJ. ATUALIZAÇÃO, PRIMEIRO, DO SALDO DEVEDOR, E, APÓS, AMORTIZAÇÃO DO VALOR DA PRESTAÇÃO. JUROS. LIMITAÇÃO A 10% ANUAIS AFASTADA.
+Quanto à controvérsia, alega violação do art. 39, I, do CDC, no que concerne ao reconhecimento de venda casada na hipótese de imposição da contração de seguro diretamente com o agente financeiro, trazendo os seguintes argumentos:
+A jurisprudência atual do Superior Tribunal de Justiça posiciona-se no sentido contrário do venerando acórdão, reconhecendo a configuração de venda casada na hipótese de imposição da contração de seguro diretamente com o agente financeiro, o que é vedado pelo Código de Defesa do Consumidor, no seu artigo 39, I, que assim prevê..(fls. 483).
+É, no essencial, o relatório. Decido.
+Na espécie, o acórdão recorrido assim decidiu:
+Primeiramente, consigno descaber a apreciação de alegações versando sobre ilegalidade da utilização da Tabela Price, aplicação do Programa de Equivalência Salarial - PES, ilegalidade da contratação de seguro a caracterizar venda casada e ilegalidade da inscrição de nome em cadastro de restrição ao crédito, por inovarem nesta sede recursal (fls. 432-433).
+Aplicável, portanto, o óbice da Súmula n. 284/STF, uma vez que as razões recursais delineadas no especial estão dissociadas dos fundamentos utilizados no aresto impugnado, o que atrai, por conseguinte, o referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido: "Verifica-se que o recurso encontra-se deficientemente fundamentado, uma vez que as razões insertas no recurso não permitem a exata compreensão da controvérsia, na medida em que se encontram dissociadas dos fundamentos da decisão agravada, aplicando-se, ao caso, por analogia, o enunciado da Súmula 284/STF". (AgRg no AREsp 1.394.624/RJ, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 19/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgRg no AREsp 7.458.831/RJ, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 9/3/2018; AgInt nos EAREsp 1371200/SP, relator Ministro OG Fernandes, Corte Especial, DJe de 13/9/2019; e REsp 1.722.691/SP, relator Ministro Paulo De Tarso Sanseverino, Terceira Turma, DJe de 15/3/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
