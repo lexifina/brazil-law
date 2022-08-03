@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por ECCIO FALCUCI JUNIOR à decisão de fls. 426/427, que não conheceu do recurso.
+Sustenta a parte embargante que :
+Constou na veneranda decisão que o embargante foi intimado do acórdão recorrido em 05/06/2020, sendo o recurso interposto em 11/09/2020, por tal motivo o aludido recurso não foi conhecido ante a intempestividade. Consignou ainda que o recorrente deveria comprovar o feriado local no ato da interposição do recurso.
+ ..
+Conforme se vê das Portarias do Egrégio Tribunal de Justiça de Minas Gerais, inclusas ao recurso especial interposto, que devido à pandemia da COVID-19, os prazos dos processos físicos foram suspensos em primeira e segunda instâncias mineiras.
+Vejamos:
+1) Portaria Conjunta n. 1001/PR/2020 ( e-STJ. fl.308), publicada em 10/06/2020, prorrogou-se até o dia 22/06/2020 a suspensão dos prazos em primeira e segunda instâncias mineiras, vide artigos 1º e 2º da aludida Portaria.
+2) Portaria Conjunta n. 1005/PR/2020 ( e-STJ. fl.306), publicada em 17/06/2020, prorrogou-se até o dia 15/07/2020 a suspensão dos prazos em primeira e segunda instâncias mineiras, vide art. 1º da aludida Portaria.
+3) Portaria Conjunta n. 1025/PR/2020 ( e-STJ. fl.280), publicada em 14/07/2020, suspendeu dos prazos em primeira e segunda instâncias mineiras, vide artigos 1º e ss. da aludida Portaria.
+4) Por derradeiro, a Portaria Conjunta n. 1031/PR/2020 ( e-STJ fl.269), publicada em 31/07/2020/Retificações em 04/08/2020 e 07/08/2020, respectivamente, suspendeu os prazos em primeira e segunda instâncias mineiras, vide artigos 1º e ss. da aludida Portaria.
+Portanto, em razão da pandemia ocasionada pela Covid- 19, os prazos processuais dos processos físicos, como no caso em voga, foram suspensos, inclusive, perdurou-se durante os meses de junho a setembro de 2020, motivo pelo qual, s.m.j., o recurso especial interposto é tempestivo (fls. 429/430).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial. o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Cumpre esclarecer, pois se encontra pacificado nesta Corte, que a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada por documento idôneo, no ato da apresentação do recurso. (AgInt nos EDcl no AREsp 1419338/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 3/10/2019; AgRg nos EDcl no REsp 1819067/SC, relator Ministro Herman Benjamin, Segunda Turma, DJe de 5/9/2019.)
+Ressalte-se que, em razão da pandemia relativa à COVID-19, os prazos processuais foram suspensos no período de 19/3/2020 a 14/6/2020, conforme Resoluções do CNJ n. 313/2020 e 322/2020, voltando a fluírem, para os processos físicos, em 15/6/2020.
+Desse modo, a suspensão dos prazos, no Tribunal de origem, fora do período mencionado, deveria ter sido comprovada no momento da interposição do recurso, o que de fato não ocorreu, uma vez que os documentos juntados às fl. 269/369 são insuficientes para comprovar a tempestividade do recurso.
+A propósito: AgRg no AREsp 1774897/PB, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 28/06/2021; AgInt no AREsp 1724837/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, Dje de 16/06/2021; AgInt no AREsp 1756715/SP, relator Ministro Marco Buzzi, Quarta Turma, DJe de 04/06/2021; AgInt no AREsp 1757717/RJ, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 13/05/2021.
+No caso, observe-se que a Portaria Conjunta n. 1031/PR/2020, de 6/8/2020, juntada às fls. 269/279, somente comprova a manutenção da suspensão dos prazos dos processos físicos até a referida data, não restando comprovado que a suspensão perdurou até o momento da interposição do recurso, ou seja, até 11/9/2020.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
