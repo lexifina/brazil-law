@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso em mandado de segurança interposto por CONTTEX - ENGENHARIA E DISTRIBUIDORA LTDA - EPP, com fundamento no art. 105, II, b, da CF/1988, contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul.
+Narram os autos que a parte ora recorrente impetrou o subjacente mandado de segurança contra suposto ato ilegal atribuído aoSECRETÁRIO DE EDUCAÇÃO DO ESTADO DO RIO GRANDE DO SUL, consubstanciado na decisão administrativa quesuspendeu o pagamento do saldo do preço correspondente aos serviços prestados na obra contratada com a impetrante para reforma do prédio da Escola Luiz Alves de Lima e Silva em Pelotas/RS.
+A segurança foi denegada nos termos da ementa que segue (fl.160):
+MANDADO DE SEGURANÇA. CONTRATO DE PRESTAÇÃO DE SERVIÇOS DE OBRA. RETENÇÃO DE PAGAMENTO. EXIGÊNCIA DE REGULARIDADE FISCAL. DESCABIMENTO. VIABILIDADE DO MANDADO DE SEGURANÇA.
+A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que a ausência de comprovação de regularidade fiscal não autoriza a Administração Pública a proceder à retenção do pagamento dos serviços efetivamente comprovados, porquanto tal providência caracteriza enriquecimento ilícito e violação do princípio da legalidade. Ilegalidade que pode ser reparada via mandado de segurança.
+Nada obstante, a espécie não ostenta a necessária liquidez do direito já que o saldo do preço oriundo do contrato celebrado com a autoridade impetrada encontra-se gravado junto à Justiça do Trabalho para pagamento de débito trabalhista.
+Ordem denegada.
+Sustenta a parte recorrente que a segurança deveria ter sido concedida, ao menos, de forma parcial para determinar"o afastamento do óbice imposto pelo credor para o pagamento, pois não há dúvida quanto ao crédito da impetrante, nesta situação, deveria ter sido reconhecido pelo direito a não oponibilidade do óbice ensejador da retenção do crédito" (fl. 185), como requerido na petição inicial.
+Nessa linha de ideias, defende que (fl. 187):
+ ..  os documentos acostados aos autos, bem como a própria confissão e declaração da Administração, não deixam sequer, dúvidas quanto sua existência e exatidão do quantum devido.
+Com isso, o fato de a impetrante ter indicado o crédito a Justiça do Trabalho, em nada altera o direito líquido e certo, até porque, se busca a anulação da decisão administrativa que negou o pagamento, mesmo que não seja determinado o pagamento, por se confundir, conforme julgado, com outra espécie.
+Destarte, no mérito, deve ser concedida a segurança, pois há comprovação da prestação dos serviços, da pendência de numerário em favor do impetrante, e ainda, do não pagamento decorrente de pendência junto ao CADIN, informações que, inclusive, são confirmadas pela impetrada.
+Portanto, tendo em vista já estar pacificado na jurisprudência do STJ a não oponibilidade da inscrição no CADIN para o pagamento dos serviços prestados, não pode a cláusula contratual prevalecer, nem tão pouco não ser declarado por este juízo, posto que, iria contra o que já está mitigado pelos Tribunais.
+Logo, é incabível o impedimento que vem sendo oposto pela Administração, fato este, deve ser concedida a segurança, mesmo que de forma parcial.
+Requer, assim, o seguinte (fl. 188):
+a) tendo em vista a (i) comprovação do direito líquido e certo, (ii) demanda já pacificada e confirmada por este Tribunal e, ainda, por (iii) haver pedido nos exatos termos ora apresentado neste recurso, requer-se que seja o presente recurso conhecido e, quando do seu julgamento, lhe seja dado integral provimento para a reforma da sentença recorrida para acolher o pedido (b. ii) constante na inicial no sentido de ser deferida a segurança para anular a decisão administrativa que negou o pagamento opondo a existência de pendência junto ao CADIN.
+Contrarrazões às fls. 206/211.
+O Ministério Público Federal, em parecer do ilustre Subprocurador-Geral da República FLÁVIO GIRON, opinou pelo não conhecimento do recurso em mandado de segurança ou, acaso conhecido, pelo seu desprovimento (fls. 231/234).
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+O Tribunal a quo denegou a segurança sob o fundamento de que inexiste prova pré-constituída do eventual direito líquido e certo da parte impetrante aosaldo do preço correspondente aos serviços prestados à Administração, referente à reformado prédio da Escola Luiz Alves de Lima e Silva em Pelotas/RS, tendo em vista que (fl. 164):
+No caso dos autos, ainda que o impetrado não negue a execução dos serviços contratados, um documento juntado pela autora revela que o valor pretendido (R$ 19.250,00) foi objeto de decisão do juízo trabalhista, na reclamatória n. 0021169-20.2018.5.04.0020, determinando depósito junto ao Banco do Brasil ou da Caixa Econômica Federal, para garantia de direito do reclamante.
+Não se tem notícia se houve ou não tal depósito, porém, existe tal gravame, o que torna, no mínimo, controverso o direito da impetrante ao saldo do preço do contrato mantido com a Secretaria da Educação.
+(Grifo nosso)
+De se ver, portanto, que a denegação da segurança não se amparou em eventuais dúvidas quanto à efetiva prestação, pelaimpetrante, ora recorrente, do serviço contratado pela Administração, ou ainda a respeito de eventual existência de inscrição daquelajunto aoCadastro Informativo dos Créditos não Quitados de Órgãos e Entidades Estaduais - CADIN.
+Com efeito, o fundamento do acórdão é outro: existência de determinação judicial trabalhista que determinou que os valores em tela fossem depositados para assegurar o crédito perseguido pela parte reclamante nos autos da Reclamatória Trabalhista n.0021169-20.2018.5.04.0020.
+Sucede que a parte recorrente não impugnou especificamente tal fundamento, o que atrai a incidência da Súmula 283/STF.
+ANTE O EXPOSTO, não conheço do recurso em mandado de segurança.
+Publique-se.
