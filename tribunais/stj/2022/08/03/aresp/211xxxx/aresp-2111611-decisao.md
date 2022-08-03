@@ -1,0 +1,46 @@
+DECISÃO
+Cuida-se de agravo apresentado por ANDRÉ LUIZ DE SÁ contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+ACIDENTE DO TRABALHO - LER EM OMBROS E PUNHOS  INCAPACIDADE LABORATIVA NÃO COMPROVADA  IMPROCEDÊNCIA DO PEDIDO DECRETADA.
+Quanto à primeira controvérsia, alega violação dos arts. 489, inciso II, § 1º e incisos, e 1.022 do Código de Processo Civil. Aduz a ocorrência de negativa de prestação jurisdicional.
+Quanto à segunda controvérsia, alega violação do art. 59 da Lei n. 8.213/1991. Sustenta a existência de incapacidade laboral a justificar a concessão do benefício de auxílio-doença, trazendo os seguintes argumentos:
+O v. Acórdão afrontou diretamente o artigo 59 da lei 8213/91, que assim dispõe:
+Art. 59. O auxílio-doença será devido ao segurado que, havendo cumprido, quando for o caso, o período de carência exigido nesta Lei, ficar incapacitado para o seu trabalho ou para a sua atividade habitual por mais de 15 (quinze) dias consecutivos.
+O V. Acórdão reformou a R. Sentença que havia homologado o laudo pericial, este que havia entendido pela existência de incapacidade do recorrente para as funções habituais em decorrência de padecer de LER NOS MEMBROS SUPERIORES.
+O laudo foi conclusivo com relação à enfermidade e seu grau incapacitante, assim, não havendo espaço para a reforma da R. Sentença.
+No entanto, em que pese os argumentos que constaram no julgado, com relação ás conclusões periciais, no tocante á lesão constou também a seguinte conclusão no laudo de fls. 62/68:
+Caracterização da lesão: Neste caso a ressonância magnética de ombros mostra tendinose com ruptura parcial de algumas fibras e a eletroneuromiografia mostra sinais de síndrome do túnel do carpo leve. O exame clínico mostrou sinais de inflamação. Esses dois elementos (alterações nos exames subsidiários e no exame físico) são suficientes para caracterizar lesões em atividade.
+(..)
+Neste caso, as lesões são moderadas (com algumas rupturas de tendão) e o tratamento feito por tempo insuficiente. Um tratamento adequado, com afastamento do trabalho, muito provavelmente conseguirá a regressão das lesões. Não se caracteriza melhor estado clínico possível,o que impede avaliação de incapacidade definitiva. Conclui-se pela existência de incapacidade total e temporária.
+Do exposto, apesar de o V. Acórdão ter interpretado, com base no exame clínico, que não haveria efetiva redução da capacidade laborativa decorrente das lesões nos ombros, quando o senhor perito discorreu sobre a lesão destacou a existência de ruptura parcial de algumas fibras, dando a classificação de lesão moderada.
+Ou seja, a presença de ruptura que enseja o quadro de lesão moderada é uma situação de séria enfermidade, que fez com que o senhor perito entendesse que o recorrido estivesse incapacitado de forma total para a atividade habitual, dessa forma a R. Sentença não poderia ter sido reformada.
+O recorrente trabalhou na empresa Bridgestone do Brasil Indústria e Comércio Ltda e as atividades exercidas sempre foram extremamente penosas, sendo que trabalhava como auxiliar de movimentação de materiais, nas máquinas calandras e engomadeiras.
+Assim sendo, acometido de ruptura parcial de ombro, entendeu o senhor que não apenas ao mais usual de incapacidade no sentido de estar impossibilitado de realizar a atividade habitual por um determinado momento.
+A incapacidade também deve ser considerada quando há uma situação que engloba o "não dever" realizar certa função quando se está acometido de certa enfermidade, que poderá ter uma piora ou se agravar em decorrência da exposição às condições prejudiciais, conforme acima já se destacou.
+Dessa forma, sofrer de lesão moderada de ombro ocasionada por ruptura parcial gera no recorrente a incapacidade total para sua função habitual acima descrita, não só pelo fato de não conseguir exercer a função, mas também em decorrência da real possibilidade de agravamento do quadro de saúde, restando preenchidos os requisitos do artigo 59 da lei 8213/91, este afrontado pelo V. Acórdão (fls. 187-189).
+É, no essencial, o relatório. Decido.
+Quanto à primeira controvérsia, no que diz respeito à alegação de violação do art. 489, inciso II, § 1º e incisos, do Código de Processo Civil, incidem os óbices das Súmulas n. 282/STF e 356/STF, uma vez que a questão, a teor desses dispositivos, não foi examinada pela Corte de origem, tampouco foram opostos embargos de declaração para tal fim. Dessa forma, ausente o indispensável requisito do prequestionamento.
+Nesse sentido: "O requisito do prequestionamento é indispensável, por isso que inviável a apreciação, em sede de recurso especial, de matéria sobre a qual não se pronunciou o Tribunal de origem, incidindo, por analogia, o óbice das Súmulas 282 e 356 do STF. 9. In casu, o art. 17, do Decreto 3.342/00, não foi objeto de análise pelo acórdão recorrido, nem sequer foram opostos embargos declaratórios com a finalidade de prequestioná-lo, razão pela qual impõe-se óbice instransponível ao conhecimento do recurso quanto ao aludido dispositivo". (REsp 963.528/PR, relator Ministro Luiz Fux, Corte Especial, DJe de 4/2/2010.)
+Confiram-se ainda os seguintes julgados: REsp n. 1.160.435/PE, relator Ministro Benedito Gonçalves, Corte Especial, DJe de 28/4/2011; REsp 1.730.826/MG, relator Ministro Herman Benjamin, Segunda Turma, DJe de 12/2/2019; AgInt no AREsp 1.339.926/PR, relator Ministro Raul Araújo, Quarta Turma, DJe de 15/2/2019; e AgRg no REsp 1.849.115/SC, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 23/6/2020.
+Ademais, incide o óbice da Súmula n. 284/STF, uma vez que a parte recorrente aponta violação do art. 1.022 do Código de Processo Civil de 2015 (art. 535 do Código de Processo Civil de 1973), sem especificar, todavia, quais incisos foram contrariados, a despeito da indicação de omissão, contradição, obscuridade ou erro material.
+Nesse sentido: "É deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 1.022 do CPC/2015 se faz de forma genérica, sem especificar quais foram os incisos violados. Aplica-se, na hipótese, o óbice da Súmula 284 do STF". (AgInt no AREsp n. 1.530.183/RS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 19/12/2019.)
+Confira-se também o seguinte julgado: AgInt no AREsp n. 1.559.920/SE, relator Ministro Francisco Falcão, Segunda Turma, DJe de 22/10/2020.
+Quanto à segunda controvérsia, por sua vez, o Tribunal de origem se manifestou nos seguintes termos:
+Passo à análise do mérito.
+Não obstante o laudo pericial tenha concluído pela incapacidade total e temporária, verifico que o exame físico dos membros superiores não aponta para alterações capazes de justificar o alegado déficit laboral.
+Por oportuno, transcrevo anotações do referido exame:
+Membros:
+Ombros:
+Sem dificuldades de manter ombro em 90 graus.
+Sem dor à palpação e movimentação Neer e Jobe positivos, Apley e Patte negativo Cotovelos: sem edemas
+Sem dor à palpação de epicôndilos.
+Punhos e antebraço:
+Sem dor à palpação de musculatura; sem empastamento Tinel esboçado, Phalen e Finkelstein negativos bilateralmente Sem diminuição de força muscular Sem edemas Sem hipotrofias musculares (fl. 118).
+A avaliação física descreveu apenas queixa de ordem subjetiva (Testes de Neer, Jobe e Tinel), não sendo constadas atrofias, perda de mobilidade, da força, da sensibilidade ou quaisquer outros dados indicativos de desuso.
+Ora, o exame clínico é soberano na análise da efetiva redução da capacidade laborativa, sendo certo que, no presente caso, não há repercussão funcional a ensejar o benefício acidentário.
+Frise-se que, consoante a legislação acidentária, não basta a existência da patologia, sendo de rigor que estas promovam objetiva e atual incapacidade para o trabalho, de forma que, no caso em análise, não há sinais de déficit laboral (fls. 173-174).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
