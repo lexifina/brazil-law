@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIALcontra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, conforme a seguinte ementa:
+ADMINISTRATIVO. CIVIL. DOAÇÃO COM ENCARGO DE IMÓVEL PELO MUNICÍPIO AO INSS. ENCARGO NÃO CUMPRIDO NO PRAZO -RETORNO DO IMÓVEL À MUNICIPALIDADE. DISCUSSÃO ACERCA DO CUMPRIMENTO DAS CONDIÇÕES DA DOAÇÃO - APÓS TRINTA ANOS DO PRAZO - PRESCRIÇÃO.
+1. Na hipótese, o Município de Tenente Portela doou um imóvel ao INSS na condição de aproveitamento do imóvel em dois anos. O INSS apenas ergueu um edifício sem nunca ocupá-lo.
+2. O prazo prescricional para a reversão da doação, sendo o INSS o donatário, é o do Decreto nº 20.910/32.
+3. O termo inicial para a prescrição é o descumprimento do encargo que, no caso concreto, se configura na a data do documento liberatório para a ocupação do imóvel construído, qual seja, em 06/01/81.
+Os embargos de declaração foram rejeitados.
+Interposto recurso especial, foi-lhe dado provimento para reconhecimento de ofensa ao art. 1.022 do CPC/2015, por negativa de prestação jurisdicional.
+Submetidos a uma nova análise, os embargos declaratórios receberam a seguinte ementa:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. ANULAÇÃO DO JULGAMENTO PELO STJ. OMISSÃO. OCORRÊNCIA. EFEITOS INFRINGENTES. PRESCRIÇÃO. DOAÇÃO COM ENCARGO DE IMÓVEL PELO MUNICÍPIO AO INSS. INOCORRÊNCIA. ENCARGO NÃO CUMPRIDO. DESCABIMENTO DO REGISTRO DO IMÓVEL. CONSTRUÇÃO DE PRÉDIO. RESSARCIMENTO DE VALORES DISPENDIDOS. CORREÇÃO MONETÁRIA. TERMO INICIAL.
+1. São cabíveis embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade ou eliminar contradição; suprir omissão ou corrigir erro material, consoante dispõe o artigo 1.022 do CPC.
+2. Anulado o julgamento dos embargos declaratórios pelo Egrégio Superior Tribunal de Justiça com determinação de nova apreciação pelo Tribunal a quo das teses jurídicas levantadas pelo INSS.
+3. Os embargos de declaração têm o propósito de aperfeiçoar ojulgado, não de modificá-lo, o que se admite apenas em casos excepcionais,quando é possível atribuir-lhes efeitos infringentes, após o devido contraditório(artigo 1.023, § 2º, do CPC).
+4. Como durante todo o período o INSS intentou obter solução na via administrativa para regularização patrimonial do imóvel, não houve inércia,de modo que inocorreu a prescrição.
+5. Não tendo o INSS instalado a referida agência em momento algum, limitando-se a realizar uma construção no imóvel de um prédio de 942 m2, de alvenaria, não há como reconhecer o efetivo aproveitamento do terreno cedido pela Prefeitura, sendo descabida a pretensão de registro do imóvel na matrícula nº 6.463 do Ofício de Registro de Imóveis da Comarca de Tenente Portela, em face do não cumprimento do encargo legal.
+6. Incontroverso nos autos que houve a construção do prédio de alvenaria no terreno de propriedade do Município réu, com recursos provenientes da Autarquia Previdenciária, a qual foi averbada com a avaliação arbitrada em R$ 618.948,00 (seiscentos e dezoito reais e noventa e cinco centavos), faz jus o autor ao ressarcimento desse valor, corrigido monetariamente e acrescido de juros moratórios a contar da citação. Juros moratórios e correção monetária fixados em conformidade com o Tema 810 do STF.
+Os embargos de declaração postos na sequência foram rejeitados.
+No recurso especial, o recorrente aponta violação do art. 1.022 do CPC/2015, por omissão do acórdão recorrido quanto aos arts. 884, 885, 1.248, V,1.253 e 1.259 do CC/2002, Súmula n. 445/STJ e Tema n. 178/STJ, a respeito do termo inicial da correção monetária, que deve ser considerado desde a data em que aferido/avaliado o valor da edificação mediante averbação na matrículae não desde a data da citação, sob pena de enriquecimento sem causa.
+Alega ainda ofensa aos arts. 884, 885 do CC/2002 e a inobservância da jurisprudência do STJ quanto ao termo inicial da correção monetária.
+Houve contrarrazões.
+É o relatório.
+Passo a decidir.
+O recurso não merece prosperar.
+Ao afastar estabelecer o termo inicial da correção monetária, o Tribunal de origem assim se pronunciou (e-STJ, fls. 442/444):
+a) Da omissão quanto ao enriquecimento sem causa do Município de Tenente Portela
+Refere o INSS que a avaliação do imóvel, que embasou o valor estipulado para a indenização, data de novembro de 2011, devendo a correção monetária correspondente remontar a tal data, a fim de recompor adequadamente o patrimônio da autarquia.
+Inicialmente, destaco que no ev. 1, PROCADM2, p. 62, dos autos de origem (fl. 54 do procedimento administrativo do INSS), consta na matrícula do imóvel a averbação de construção de alvenaria (AV.4/6463), prenotada em 04/11/2013, e avaliada em R$ 618.984,00 (seiscentos e dezoito mil, novecentos e oitenta e quatro reais).
+Como se vê, a avaliação do bem objeto de indenização acostada nos autos de origem data de novembro de 2013 e não de novembro de 2011, como afirma o INSS.
+De qualquer sorte, tenho que não assiste razão à autarquia no ponto em análise. Acerca do ponto em questão, assim constou do voto condutor d oacórdão:
+No que tange à correção monetária e juros de mora, desmerece reforma a sentença que entendeu razoável que tenham como marco inicial a data da citação, considerando que o INSS possui responsabilidade na situação por ter promovido processo administrativo para a instalação de uma Agência da Previdência Social no Município - objetivo ainda visado pela Administração Municipal - e construção do prédio, bem como considerando que durante o lapso temporal em que o imóvel foi utilizado pelo Município o mesmo arcou com custos de manutenção e, até mesmo, limpeza e conservação do local.
+Como se observa, o acórdão manteve a sentença que fixou como termo inicial da correção monetária a data da citação, pelas razões então expostas, dentre as quais o fato de que o Município vem arcando com os custos de manutenção do imóvel, e, acrescenta-se, graças à conservação do bem é que o valor da avaliação alcançou a cifra de R$ 618.984,00, considerando que a construção original data de 1983.
+Assim, não há que se falar em enriquecimento ilícito da parte ré, devendo ser negado provimento aos embargos de declaração neste aspecto.
+b) Da reformatio in pejus
+De início, esclareço que a correção monetária e os juros de mora,sendo consectários da condenação principal, possuem natureza de ordem pública e podem ser analisados até mesmo de ofício. Assim, sua alteração não implica falar em reformatio in pejus.
+Assim, colaciono excerto do decisum atacado, quanto ao ponto:
+Em 03/10/2019, o STF concluiu o julgamento dos Embargos de Declaração no Recurso Extraordinário nº 870.947 (Tema nº 810), em regime de repercussão geral, rejeitando-os e não modulando os efeitos do julgamento proferido em 20/09/2017.
+Com isso, ficou mantido o seguinte entendimento:
+1. No tocante às condenações oriundas de relação jurídica não-tributária, a fixação dos juros moratórios idênticos aos juros aplicados à caderneta de poupança é constitucional, permanecendo hígido, nesta extensão, o disposto no artigo 1º-F da Lei 9.494/1997 com a redação dada pela Lei 11.960/2009.2.
+O artigo 1º-F da Lei 9.494/1997, com a redação dada pela Lei 11.960/2009, na parte em que disciplina a atualização monetária das condenações impostas à Fazenda Pública segundo a remuneração oficial da caderneta de poupança, revela-se inconstitucional ao impor restrição desproporcional ao direito de propriedade (CRFB, art. 5º, XXII), uma vez que não se qualifica como medida adequada a capturar a variação de preços da economia, sendo inidônea a promover os fins a que se destina, devendo incidir o IPCA-E, considerado mais adequado para recompor a perda do poder de compra.
+Por fim, saliente-se que a modulação dos efeitos da declaração de inconstitucionalidade da Emenda nº 62/2009 nas ADIs nºs 4.357 e 4.425 aplica-se exclusivamente aos precatórios expedidos ou pagos até a data da mencionada manifestação judicial, não sendo o caso dos autos, em que se trata de fase anterior à atualização dos precatórios.
+Destarte, os juros moratórios deverão observar os juros aplicados à caderneta de poupança e a correção monetária, o IPCA-E.
+Como se vê, o que pretende o INSS é a rediscussão da matéria, o que não se admite no restrito âmbito dos embargos de declaração.
+Nocaso, bem ou mal, certo ou errado, a Corte de origem decidiu a controvérsia de modo integral e suficiente ao reconhecer a adequação da correção monetária e do respectivo termo inicial, a partir do reconhecimento de que o Município teria arcado com custos de manutenção do prédio, cuja conservação teria contribuído para a adequada avaliação do imóvel.
+Em suma, as questões apresentadas pelo recorrentes foram examinadas demodo suficiente e fundamentado, por isso não é caso de acolher as alegações de que houve negativa de prestação jurisdicional ou vício de fundamentação.
+Nesse cenário, a modificação das conclusões do acórdão recorrido acerca da inexistência de enriquecimento sem causa do agravado, com a fixação do termo inicial dos juros e da correção monetária a partir da citação, tendo em vista que que a manutenção e conservação do imóvel teria corroborado para seu melhor valor de avaliação, demandaria o revolvimento do acervo fático-probatório dos autos,o que é vedado em recurso especial, a teor da Súmula n. 7/STJ.
+Ante o exposto,com fulcro no art. 932, III e IV, do CPC/2015 c/c o art. 255, § 4º, I e II, do RISTJ, conheço em parte do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se e intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. DOAÇÃO. CORREÇÃO MONETÁRIA. TERMO INICIAL.QUESTÃO ESSENCIAL NÃO EXAMINADA NO JULGAMENTO DOS EMBARGOS DE DECLARAÇÃO. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. CONFIGURAÇÃO. RECURSO ESPECIAL CONHECIDO EM PARTE E, NA EXTENSÃO CONHECIDA, DESPROVIDO.
