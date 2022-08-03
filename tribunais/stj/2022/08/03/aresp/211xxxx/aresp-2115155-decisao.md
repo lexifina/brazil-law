@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de agravo apresentado por GUARUJÁ EQUIPAMENTOS PARA SANEAMENTO LTDA e OUTRO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+CUMPRIMENTO DE SENTENÇA - ALEGAÇÃO DE BEM DE FAMÍLIA - INDEFERIMENTO - AGRAVO DE INSTRUMENTO - ALEGAÇÃO DE QUE O IMÓVEL PENHORADO É BEM DE FAMÍLIA - CASO EM QUE O AGRAVANTE NÃO COMPROVOU QUE RESIDE NO IMÓVEL PENHORADO, LOCALIZADO EM SÃO PAULO/SP - A PROVA DOCUMENTAL DEMONSTRA QUE O AGRAVANTE RECEBE O BOLETO DO CONDOMÍNIO DE REFERIDO IMÓVEL EM VALINHOS/SP - DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. RECURSO NÃO PROVIDO.
+Quanto à controvérsia, alega violação do art. 1º da Lei n. 8.009/1990, no que concerne à impenhorabilidade de bem imóvel habitado pelo recorrente, trazendo os seguintes argumentos:
+Entendeu o Egrégio Tribunal Regional Federal através do acórdão atacado (fls. 29/32) pelo não reconhecimento da impenhorabilidade do bem penhorado  imóvel de matrícula nº 210.374 do 15º CRI/SP. Conforme mencionado, houve, dessa maneira, afronta ao disposto no artigo 1º da Lei nº 8.009/90  lei da impenhorabilidade do bem de família, o qual dispõe, in verbis:
+ ..
+O imóvel em questão, nesse sentido, é habitado pelo recorrente Sr. Alexandre e sua esposa. A respeito da alegação de ausência de provas, não deve prosperar. Fato que prova o aduzido é que o recorrente está sendo, inclusive, executado por dívidas de condomínio ao qual pertence o imóvel em questão (Ação de Execução nº 1037628-73.2018.8.26.0002  6ª Vara Cível do Foro Regional II de Santo Amaro  Comarca de São Paulo/SP
+ ..
+Portanto, faz-se necessário o reconhecimento da impenhorabilidade do bem imóvel sobre o qual recaiu a penhora, uma vez que habitado pelo recorrente Alexandre e sua esposa e, portanto, deve ser garantido o direito à moradia como desdobramento do princípio maior da dignidade da pessoa humana. (fls. 40-42).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+No caso em exame, observa-se que o Juízo a quo analisou detidamente os elementos constantes dos autos, corretamente concluindo pela manutenção da penhora do imóvel.
+Isso porque, na espécie, o agravante poderia ao menos ter exibido correspondências (água, luz, telefone, cartão de crédito etc.) em seu nome encaminhadas ao endereço do imóvel penhorado, fotos, rol de testemunhas que frequentam a residência, declaração de imposto de renda, caso estivesse lá residindo.
+Nada trouxe aos autos nesse sentido, a não ser um demonstrativo de despesas condominiais, datado de 10.10.2019, que não indica, minimamente, ser o agravante domiciliado no local. Tanto é verdade, que o agravante não recebeu referido boleto no endereço do bem penhorado descrito acima, pelo contrário, recebeu no endereço Estrada do Jequitibá, nº 1.750, casa 245 Pinheiro Valinhos/SP, CEP:
+13274-610.
+Portanto, à evidência não se pode reconhecer como bem de família o imóvel situado em São Paulo se o embargante reside, aparentemente, em Valinhos (fls. 31-32, grifos meus).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
