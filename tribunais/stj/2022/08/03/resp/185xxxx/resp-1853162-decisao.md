@@ -1,0 +1,27 @@
+DECISÃO
+Vistos etc.
+Trata-se de recurso especial interposto por BANCO DO BRASIL SA em face de acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul assim ementado:
+APELAÇÃO CÍVEL. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO REVISIONAL. CONTRATOS DE EMPRÉSTIMO.
+1. Juros remuneratórios. Incidem os juros remuneratórios contratados desde que não excedentes à taxa média de mercado aferida pelo Banco Central do Brasil. Caso em que se limita a taxa dos juros remuneratórios à taxa média de mercado divulgada pelo BACEN, para operações de mesma espécie e em igual período, por mais benéfica ao consumidor, à exceção do contrato "BB Crédito Pronto", firmado em 03/09/2009.
+2. Capitalização de juros: É possível a cobrança da capitalização dos juros em periodicidade inferior a anual, consoante entendimento consolidado do STJ (Resp. nº 1.388.972/SC). No caso dos autos, em virtude da ausência de previsão expressa da incidência do encargo, em qualquer periodicidade, deve ser mantida a vedação de sua cobrança.
+3. Comissão de permanência. Permitida desde que expressamente prevista e não cumulada com correção monetária e demais encargos moratórios e remuneratórios. Súmulas nº. 30,294 e 296 do STJ. No caso, em virtude da ausência de expressa previsão da incidência do encargo, mantém-se a vedação de sua cobrança, para o período de inadimplemento.
+4. Descaracterização da mora. Devidamente descaracterizada a mora da parte autora, em virtude da alteração de encargos previstos para o período da normalidade contratual, segundo orientação nº. 02 do STJ. APELO DDA AUTORA PROVIDO EM PARTE. UNÂNIME.
+No recurso especial, o recorrente sustenta que (a)sendo o contrato o principal exemplo do ato jurídico perfeito guardando quando da sua execução probidade e boa fé, o direito à manutenção das regras pactuadas é medida que se impõe, (b) "oentendimento jurisprudencial consolidado é pacífico a respeito da inaplicabilidade da fixação anual de juros (supostamente remuneratórios) de 12% (doze por cento), já que o artigo 192, § 32, da Carta Magna ainda não foi regulamentado, aplicando-se à matéria o disposto no artigo 42, IX, da Lei 4.595/64", (c)as instituições financeiras não estão sujeitas a limitação legal para estabelecimento de taxas de juros remuneratórios, dessa forma, lícitas as taxas de juros incidentes nos contratos tratados nos autos, não havendo que se falar em juros usurários, (d) os juros de mora são mera consequência, ou seja, meros acessórios que,embutidos na comissão de permanência, dela são expurgados, com a aplicação da limitação legal, e (e)nenhum ato ilícito fora praticado pelo banco, muito pelo contrário, todas as suas atitudes se deram em estrita observância aos normativos que regem o sistema financeiro.
+Sem contrarrazões.
+É o relatório.
+Passo a decidir.
+O recurso especial não pode ser conhecido.
+Como se sabe, o recurso especial possui fundamentação vinculada, com forma e conteúdo próprios, e se destina a atribuir a adequada interpretação e uniformização da lei federal, e não ao rejulgamento da causa.
+Assim, exsurge deficiente a fundamentação recursal, pois o recorrente não indicou os dispositivos da legislação infraconstitucional que amparariam toda a linha argumentativa desenvolvida nas razões recursais, dando azo à aplicação, por analogia, do óbice da Súmula 284/STF.
+Vale lembrar que "apresenta-se impositiva a indicação do dispositivo legal que teria sido contrariado pelo Tribunal a quo, sendo necessária a delimitação da violação do tema insculpido no regramento indicado, viabilizando assim o necessário confronto interpretativo e o cumprimento da incumbência constitucional revelada com a uniformização do direito infraconstitucional sob exame" (AgInt no REsp 1706765/ES, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 26/10/2020, DJe 28/10/2020).
+Com efeito, não se pode impor aos membros desta Corte a identificação, de ofício, da norma jurídica supostamente contrariada pelo acórdão recorrido
+Ademais, "A citação de passagem de artigos de lei não é suficiente para caracterizar e demonstrar a contrariedade a lei federal, já que impossível identificar se o foram citados meramente a título argumentativo ou invocados como núcleo do recurso especial interposto." (AgInt no REsp 1615830/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 05/06/2018, DJe 11/06/2018).
+Além disso, consta da fundamentação do acórdão recorrido a mençãode diversos precedentes desta Corte sobre a controvérsia dos autos (REsp 1.061.530/RS, REsp 420.211/RS, REsp 973.827/RS, REsp 1.388.972/SC, AgRg no REsp 735.777/RS), alguns, inclusive, julgados sob oregime do art. 543-C do CPC/73.
+Logo, competia ao recorrente demonstrar (a) a inaplicabilidade dos precedentes citados ao caso concreto ou (b) a superação do entendimento, com a indicação de outros julgados desta Corte, o que não foi feito, o que viola o princípio da dialeticidade.
+Diante do exposto, não conheço do recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários advocatícios devidos ao(s) advogado(s) da parte recorrida de R$ 2.000,00 para R$ 3.000.00.
+Advirto que a apresentação de incidentes protelatórios poderá dar azo à aplicação de multa.
+Intime-se.
+EMENTA
+RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. AÇÃO REVISIONAL. CONTRATO BANCÁRIO DE EMPRÉSTIMO. FUNDAMENTAÇÃO RECURSAL DEFICIENTE. AUSÊNCIA DE INDICAÇÃO DOS DISPOSITIVOS DE LEI FEDERAL VIOLADOS. SÚMULA 284/STF.VIOLAÇÃO AO PRINCÍPIO DA DIALETICIDADE RECURSAL.
+RECURSO ESPECIAL NÃO CONHECIDO.
