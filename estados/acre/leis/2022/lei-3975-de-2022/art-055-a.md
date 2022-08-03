@@ -1,0 +1,3 @@
+Art. 55-A. A Secretaria de Estado da Fazenda - SEFAZ, fica autorizada a realizar os procedimentos e os ajustes necessários no sistema de planejamento, execução orçamentária, financeira, patrimonial e contábil do Estado do Acre, visando atender a padronização de fontes ou destinações de recursos, nos termos da Portaria Conjunta STN/SOF nº 20, de 23 de fevereiro de 2021, e da portaria STN nº 710, de 25 de fevereiro de 2021 e suas alterações.
+
+Parágrafo único. Os órgãos e as entidades da administração pública do Estado do Acre deverão realizar os estudos e os ajustes nos demais sistemas informatizados de gestão administrativa para padronização a que se refere o caput deste artigo.
