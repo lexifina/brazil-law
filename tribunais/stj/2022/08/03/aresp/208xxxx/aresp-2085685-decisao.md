@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por ANA CAROLINA DOS SANTOS, contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 03/02/2022.
+Concluso ao gabinete em: 03/05/2022.
+Ação: de manutenção de posse movida pela agravante, contra MARIA LÚCIA ROSA MOREIRA PESSANHA.
+Decisão interlocutória: indeferiu a liminarinaudita altera parsde reintegração de posse.
+Acórdão: negou provimento ao agravo de instrumento manejado pela agravante, nos termos da ementa:
+AGRAVO DE INSTRUMENTO. AÇÃO DE MANUTENÇÃO DE POSSE. ALEGA A AUTORA, ORA AGRAVANTE, QUE O IMÓVEL OBJETO DA LIDE TERIA SIDO DOADO PELA RÉ, AGRAVADA, MEDIANTE REFORMAS A SEREM FEITAS PELA AUTORA. ADUZ QUE, MESES APÓS, FOI PROPOSTO CONTRATO DE ALUGUEL, QUE NÃO FOI ACEITO PELA AUTORA. ALEGA, AINDA, QUE FOI AGREDIDA PELA RÉ E TEVE OBJETOS DA CASA QUEBRADOS POR ELA; REQUERENDO, ASSIM, COM A PRESENTE DEMANDA, A MANUTENÇÃO DA POSSE. DECISÃO PROFERIDA PELO MAGISTRADO A QUO QUE QUE INDEFERIU, POR ORA, O PEDIDO LIMINAR POR ENTENDER, A PRIORI, NECESSÁRIA MAIOR DILAÇÃO PROBATÓRIA PARA A CONCESSÃO DA MEDIDA E, ANTE A NOTÍCIA DE PERICULUM IN MORA, FIXOU A OBRIGAÇÃO DE NÃO FAZER AOS POSSUIDORES, ABSTENDO-OS A EFETUAR QUALQUER CONSTRUÇÃO NO IMÓVEL DISCUTIDO, SOB PENA DE MULTA DIÁRIA, E FACULTANDO A APRESENTAÇÃO DOS IPTUS PAGOS AO MENOS DOS ÚLTIMOS 3 ANOS, BEM COMO TARIFAS INERENTES AO IMÓVEL (ENERGIA ELÉTRICA E ÁGUA) RECENTES. RAZÕES RECURSAIS QUE BUSCAM A CONCESSÃO DA LIMINAR. DECISÃO QUE NÃO SE MOSTRA TERATOLÓGICA OU CONTRÁRIA À PROVA DOS AUTOS -INCIDÊNCIA DO VERBETE Nº 59 DO TJRJ. PEDIDO FORMULADO, EM SEDE DE COGNIÇÃO SUMÁRIA, QUE SE CONFUNDE COM O PRÓPRIO MÉRITO. RECURSO A QUE SE NEGA PROVIMENTO. (e-STJ fl. 38)
+Embargos de Declaração: opostos pela agravante, foram rejeitados, nos termos da seguinte ementa:
+EMBARGOS DE DECLARAÇÃO OPOSTOS PELA PARTE AUTORA CONTRA ACÓRDÃO, O QUAL, POR UNANIMIDADE DE VOTOS, NEGOU PROVIMENTO AO SEU RECURSO DE AGRAVO DE INSTRUMENTO. OS EMBARGOS DECLARATÓRIOS DESTINAM-SE A ACLARAR OMISSÕES, CONTRADIÇÕES E OBSCURIDADES QUE MACULEM A DECISÃO IMPUGNADA, MASNÃO A ADEQUÁ-LA A TESE DO EMBARGANTE. EFEITOS NITIDAMENTE INFRINGENTES DEVEM SER PERSEGUIDOS ATRAVÉS DE OUTRA ESPÉCIE RECURSAL. OUTROSSIM, COMO MEIO DE INTEGRAÇÃO, IGUALMENTE, NÃO SE DESTINAM AO PREQUESTIONAMENTO DE MATÉRIA CONSTITUCIONAL. PRECEDENTES DO STJ. EMBARGOS DE DECLARAÇÃO QUE SE REJEITAM.(e-STJ fl. 82)
+Recurso especial: alega violação dos arts. 489, 562 e 1022 do CPC15. Além de negativa de prestação jurisdicional, no sentido de que o TJ/RJ não teria se manifestado acerca dos julgados arrolados pela recorrente por meio dedistinção ou superação dos precedentes. Alega que, não sento possível o deferimento da liminar possessória sem ouvir o réu, deve o juiz designar audiência de justificação, conforme prevê o art. 562 do CPC/15.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da Súmula 568/STJ
+A jurisprudência do STJ é no sentido de que se a petição inicial não traz provas suficientes para justificar a expedição de mandado liminar de posse, deve o juiz determinar a realização deaudiência de justificação prévia,com a finalidade de permitir ao autor a oportunidade de comprovar suas alegações.
+Nesse sentido:
+AgInt no REsp n. 1.741.898/PR, Terceira Turma, DJe de 29/3/2019;REsp n. 1.668.360/MG, Terceira Turma, DJe de 15/12/2017;REsp n. 900.534/RS, Quarta Turma,DJe de 14/12/2009 eAgInt no AREsp n. 986.891/SC, Terceira Turma, DJe de 31/3/2017.
+Conquanto não haja negativa de prestação jurisdicional acerca da obrigação do juiz de demonstrar distinção ou superação do entendimento invocado pela parte, uma vez que não se trata de precedente vinculante ou de súmula; o TJ/RJ deixou de se manifestar acerca da aplicabilidade do art. 562 do CPC/15, fazendo incidir a regra do art. 1.025 do CPC/15.
+Desse modo, encontrando-se o entendimento da Corte de origem em divergência com a jurisprudência deste Tribunal, o recurso deve ser provido para que se determine a realização da audiência de justificação prévia prevista no art. 562 do CPC/15, com fundamento da Súmula 568/STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, V, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO do recurso especial e DOU-LHE PROVIMENTO, para que se determine a realização da audiência de justificação prévia prevista no art. 562 do CPC/15.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO POSSESSÓRIA. INDEFERIMENTO DE LIMINAR DE REINTEGRAÇÃO DE POSSE. AUDIÊNCIA DE JUSTIFICAÇÃO PRÉVIA. NECESSIDADE DE REALIZAÇÃO. SUMULA 568/STJ.
+1. Ação possessória.
+2. A jurisprudência do STJ é no sentido de que se a petição inicial não traz provas suficientes para justificar a expedição de mandado liminar de posse, deve o juiz determinar a realização de audiência de justificação prévia, com a finalidade de permitir ao autor a oportunidade de comprovar suas alegações.. Precedentes do STJ.
+3. Agravo conhecido. Recurso especial conhecido e provido.
