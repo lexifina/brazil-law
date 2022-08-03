@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de agravo apresentado por GRAÚNA CONSTRUÇÕES CIVIS EIRELI contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "c" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim resumido:
+PROCESSO CIVIL. AGRAVO DE INSTRUMENTO. AÇÃO DE OBRIGAÇÃO DE FAZER. SUBSTITUIÇÃO DO PERITO. INDEFERIMENTO. HIPÓTESE NÃO PREVISTA. AUSÊNCIA DE PRESSUPOSTO DE ADMISSIBILIDADE. ROL TAXATIVO (ART. 1.015/CPC). RESP 1.704.520-MT. MITIGAÇÃO DA TAXATIVIDADE. AUSÊNCIA DO CARÁTER DE URGÊNCIA E DE IMPOSSIBILIDADE DE ESPERA NO JULGAMENTO. NÃO CONHECIMENTO.
+Quanto à controvérsia, sustenta divergência jurisprudencial na interpretação do art. 1.015 do CPC, atinente ao não conhecimento do recurso de agravo de instrumento interposto na origem. Indica como paradigma aresto oriundo do TJ/SP.
+É, no essencial, o relatório. Decido.
+Na espécie, o TJ/PR consignou que:
+Data vênia ao ventilado nas razões recursais, as decisões bem elucidaram acerca da impossibilidade de conhecimento da insurgência recursal do agravo de instrumento interposto.
+Verifica-se que a insurgência se refere especificamente à substituição de perito para produção de laudo técnico sobre pontos controvertidos nos autos de reparação de danos materiais, não se enquadrando nas hipóteses expressamente previstas no art. 1.015 do Código de Processo Civil, e nem de caso excepcional de cabimento, já que inexistente urgência e inutilidade de exame em eventual recurso de apelação
+ ..
+Nota-se, pois, que a situação dos autos não se encaixa em nenhuma das hipóteses legais, bem como, não é suficiente para mitigar o rol taxativo do referido dispositivo, segundo entendimento do STJ, vez que não preenchido o requisito objetivo (urgência) capaz de possibilitar o conhecimento do recurso de agravo de instrumento.
+Não obstante, vale a pena destacar que, em que pese a tese de celeridade processual levantada pelo agravante, destaca-se que não passa de mera presunção.
+Considerando que não há efetivas evidências da nulidade do laudo pericial confeccionado, não há o que justifique, a priore, o entendimento que eventual preliminar seja acolhida no momento de julgamento do feito, seja em sentença ou apelação. Logo, realmente, não se vislumbra razões que motivem o conhecimento do agravo de instrumento (fls. 120-121, grifos meus).
+Logo, não foi demonstrado o dissídio jurisprudencial, pois inexistente a necessária similitude fática entre o acórdão recorrido e aquele apontado como paradigma, tendo em vista que são diversas as circunstâncias concretas neles delineadas e o direito aplicado.
+Nesse sentido, o STJ decidiu: "Quanto à apontada divergência jurisprudencial, observa-se que os acórdãos confrontados não possuem a mesma similitude fática e jurídica, uma vez que, enquanto o acórdão recorrido trata da prescrição quanto à indenização pela demora injustificada na concessão de aposentadoria, os acórdãos paradigmas cuidam do termo inicial da prescrição para requerer a conversão de licença-prêmio não gozada em pecúnia". (AgInt no REsp 1.659.721/SC, relator Ministro Francisco Falcão, Segunda Turma, DJe de 29/5/2020.)
+Confiram-se ainda os seguintes precedentes: AREsp 1.241.527/RS, relator Ministro Francisco Falcão, Segunda Turma, DJe de 26/3/2019; AgInt no AREsp 1.385.820/RS, relator Ministro Raul Araújo, Quarta Turma, DJe de 2/4/2019; AgInt no AREsp 1.625.775/RS, relator Ministro Raul Araújo, Quarta Turma, DJe de 25/6/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
