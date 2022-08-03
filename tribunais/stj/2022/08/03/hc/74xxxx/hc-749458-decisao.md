@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de MAIKY ROMAO SANTANA apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelação n. 1521774-75.2021.8.26.0228).
+Depreende-se dos autos que o réu foi condenado à pena de 6 anos e 8 meses de reclusão, em regime inicialmente fechado, pela prática do crime de roubo circunstanciado (art. 157, § 2º, inciso II, c/c o art. 70, ambos do Código Penal).
+Segundo a acusação, o paciente e o corréu, "utilizando-se de simulacro de arma de fogo, praticaram o roubo contra quatro vítimas que estavam retornando do trabalho, durante a madrugada" (e-STJ fls. 22/23).
+Interposta apelação pela defesa, o Tribunal de origem negou provimento ao recurso, nos termos da ementa de e-STJ fl. 38:
+ROUBO MAJORADO - Regime - Imposição do regime mais gravoso devidamente fundamentado - Prática de quatro crimes em concurso formal - Gravidade concreta da conduta. Apelos desprovidos.
+Daí o presente writ, no qual sustenta a defesa ilegalidade na imposição do regime inicial fechado, tendo em vista a sanção definitiva cominada ao paciente, a primariedade e a inexistência de circunstâncias judiciais desfavoráveis. Invoca o teor das Súmulas n. 440/STJ e 718 e 719/STF.
+Requer, liminarmente e no mérito, a fixação de regime inicial semiaberto.
+Liminar indeferida.
+Informações prestadas.
+Instado a se manifestar, o Ministério Público Federal opinou pelo não conhecimento do writ (e-STJ fls. 76/79).
+É o relatório.
+Decido.
+Preliminarmente cumpre ressaltar que, na esteira da orientação jurisprudencial desta Corte, por se tratar de questão afeta a certa discricionariedade do magistrado, a dosimetria da pena é passível de revisão nesta instância extraordinária apenas em hipóteses excepcionais, quando ficar evidenciada flagrante ilegalidade, constatada de plano, sem a necessidade de aprofundamento no acervo fático-probatório.
+No caso, acerca da controvérsia, consta da sentença condenatória o seguinte (e-STJ fls. 22/23):
+Fixo o regime inicial fechado como o inicial para o cumprimento da reprimenda corporal, eis que os réus, em concurso de agentes, utilizando-se de simulacro de arma de fogo, praticaram roubo contra quatro vítimas que estavam retornando do trabalho, durante a madrugada, conduta extremamente grave que indica que apenas tal regime se mostra suficiente para a repressão e prevenção da conduta, o que não seria alcançado com a fixação de regime intermediário (art. 33, do Código Penal).
+No ponto, o Tribunal de origem consignou que(e-STJ fls. 42/43):
+No mais, o regime inicial fechado é o conveniente e deve prevalecer, conforme entendimento pacificado nesta c. Câmara, sobretudo diante da gravidade concreta da conduta dos acusados.
+Destaque-se que as circunstâncias que envolveram o cometimento do delito roubo de quatro vítimas, mediante concurso de agentes, com emprego de simulacro de arma de fogo estão a indicar a necessidade de resposta penal mais rígida.
+E nem se diga que a adoção de tais argumentos é inválida.
+Como a "fixação do regime inicial de cumprimento da pena não está atrelada, de modo absoluto, ao quantum da sanção corporal aplicada. Desde que o faça em decisão motivada, o magistrado sentenciante está autorizado a impor ao condenado regime mais gravoso do que o recomendado nas alíneas do § 2º do art. 33 do Código Penal" (STF, HC 191.147, Rel. Min. Alexandre de Moraes, 1ª Turma, j. 09.10.2020).
+Delineada a situação fática, passo ao exame da questão trazida pela defesa.
+Regime inicial de cumprimento da pena
+Da leitura dos trechos acima transcritos, constata-se que, diante da quantidade de pena imposta ao paciente, caberia a fixação do regime inicialmente semiaberto; no entanto, o regime mais gravoso foi devidamente fundamentado, levando-se em consideração a gravidade concreta dodelito, que foi praticado mediante concurso de agentes e contra quatro vítimas que estavam retornando do trabalhodurante a madrugada, o que demonstra uma maior reprovabilidade da conduta dos réus ante o bem juridicamente tutelado.
+Nesse sentido:
+PENAL. HABEAS CORPUS. ART. 157, § 2.º, I, DO CÓDIGO PENAL. CAUSA DE AUMENTO DE PENA PREVISTA NO ART. 157, § 2º, I, DO CP. LAUDO PERICIAL. SIMULACRO DE ARMA DE FOGO. AUSÊNCIA DE POTENCIALIDADE LESIVA. RECONHECIMENTO DA MAJORANTE. IMPOSSIBILIDADE. REGIME INICIAL FECHADO. PENA DEFINITIVA SUPERIOR A 4 ANOS. ELEMENTO CONCRETO. ADEQUAÇÃO. ORDEM CONCEDIDA EM PARTE.
+1. A utilização de arma inidônea, como forma de intimidar a vítima do delito de roubo, caracteriza a elementar grave ameaça, porém, não permite o reconhecimento da majorante de pena, que se vincula ao potencial lesivo do instrumento, pericialmente comprovado como ausente no caso em apreço.
+2. Não obstante a estipulação da reprimenda final em patamar inferior a 8 (oito) anos de reclusão, encontra-se motivada a sujeição a regime mais gravoso quando alicerçado em elemento concreto (crime de roubo praticado por dois agentes, sendo um deles adolescente, contra três vítimas), a despeito desse não ter sido empregado na fixação da pena-base.
+3. Ordem concedida, em parte, a fim de reduzir a pena do paciente para 6 (seis) anos, 2 (dois) meses e 20 (vinte) dias de reclusão, mais 15 (quinze) dias-multa, mantidos os demais termos da condenação.
+(HC n. 375.198/SP, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 9/3/2017, DJe de 16/3/2017, grifei.)
+HABEAS CORPUS. WRIT SUBSTITUTIVO. ROUBO CIRCUNSTANCIADO. ABSOLVIÇÃO. IMPOSSIBILIDADE. DILAÇÃO PROBATÓRIA. PENA-BASE. MAUS ANTECEDENTES. SÚMULA N. 444 DO STJ. REDUÇÃO DA REPRIMENDA AQUÉM DO MÍNIMO. VEDAÇÃO. SÚMULA N. 231 DO STJ. MAJORAÇÃO ACIMA DO MÍNIMO LEGAL. CRITÉRIO QUANTITATIVO. CONSTRANGIMENTO ILEGAL EVIDENCIADO. SÚMULA N. 443 DO STJ. DIVERSIDADE DE VÍTIMAS. CONCURSO FORMAL. RECONHECIMENTO DA PARTICIPAÇÃO DE MENOR IMPORTÂNCIA. IMPOSSIBILIDADE. REGIME. FUNDAMENTAÇÃO CONCRETA. ORDEM CONCEDIDA DE OFÍCIO.
+1. A tese absolutória, quando demandar a análise de conteúdo fático-probatório dos autos, como na hipótese, não pode ser analisada na via estreita e célere do habeas corpus. Precedentes.
+2. Inquéritos e ações penais em curso não podem evidenciar os maus antecedentes ou a personalidade desfavorável do agente, sob pena de malferimento ao princípio da não culpabilidade. Súmula n. 444 do STJ.
+3. O juiz sentenciante não fez sequer menção à folha de antecedentes criminais do agente e muito menos indicou condenação com trânsito em julgado capaz de justificar a exasperação da pena-base.
+4. As circunstâncias atenuantes não podem acarretar redução da pena em patamar inferior ao mínimo legal previsto, em respeito à vedação contida na Súmula n. 231 do STJ.
+5. O aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes.Súmula n. 443 do STJ.
+6. O Juízo singular - no que foi corroborado pelo Tribunal a quo, aplicou o critério quantitativo e não apontou nenhum elemento dos autos (modus operandi, por exemplo) que, efetivamente, evidenciasse real necessidade de exasperação da pena, na terceira fase da dosimetria, no patamar estabelecido.
+7. Praticado o crime de roubo em um mesmo contexto fático, mediante uma só ação, contra vítimas diferentes, tem-se configurado o concurso formal de crimes, e não a ocorrência de crime único, visto que violados patrimônios distintos. Precedentes.
+8. O paciente, mediante uma só ação, subtraiu bens pertencentes a vítimas diversas, o que evidencia a multiplicidade de resultados e, consequentemente, a ocorrência de concurso formal de crimes.
+9. Constatada a regularidade da decisão proferida pelas instâncias antecedentes, não é cabível a apreciação do pedido de reconhecimento da participação de menor importância, pois a alteração da convicção motivada da instância ordinária demandaria reexame aprofundado do quadro fático-probatório, inviável no rito de cognição sumária da ação constitucional.
+10. Não há ilegalidade no estabelecimento do regime inicial fechado quando apontados dados fáticos suficientes a indicar a gravidade concreta do crime - na espécie, o roubo a agência bancária e várias vítimas.
+11. Habeas corpus não conhecido. Ordem concedida, de ofício, a fim de reduzir ao mínimo legal a pena-base e o aumento da reprimenda procedido na terceira etapa da dosimetria.
+(HC n. 216.676/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 23/2/2016, DJe de 2/3/2016, grifei.)
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. DESCABIMENTO. ROUBO MAJORADO. TERCEIRA ETAPA DA DOSIMETRIA. FRAÇÃO DE 3/8. FUNDAMENTAÇÃO CONCRETA. 3 AGENTES ENVOLVIDOS NA EMPREITADA CRIMINOSA. INAPLICABILIDADE DA SÚMULA N. 443 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. REGIME PRISIONAL. GRAVIDADE CONCRETA DO DELITO. NÃO INCIDÊNCIA DA SÚMULA N. 440 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. WRIT NÃO CONHECIDO.
+ ..
+3. O enunciado n. 440 da Súmula do STJ afirma que, "fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito". No caso dos autos, embora a pena não tenha ultrapassado 8 anos, o regime fechado foi devidamente fundamentado pelas instâncias ordinárias, tendo em vista a maior gravidade do delito, evidenciada pelo modus operandi, visto que o paciente praticou o crime em plena via pública, em concurso com mais dois agentes, atingiu mais de uma vítima e, especialmente, com o emprego de arma de fogo, artefato que possui grande potencial lesivo.
+Habeas corpus não conhecido.
+(HC 523.790/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 03/09/2019, DJe 12/09/2019, grifei.)
+Desse modo, não vislumbro a ilegalidade sustentada pela defesa.
+Ante o exposto, denego a ordem.
+Publique-se. Intimem-se.
