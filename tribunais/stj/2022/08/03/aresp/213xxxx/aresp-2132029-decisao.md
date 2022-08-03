@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de agravo apresentado por MUNICÍPIO DA SERRA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO, assim resumido:
+APELAÇÃO. AÇÃO INDENIZATÓRIA. DESAPROPRIAÇÃO INDIRETA. PARTICIPAÇÃO DO MINISTÉRIO PÚBLICO. AUSÊNCIA DE NULIDADE. DOAÇÃO. UTILIDADE PÚBLICA. VALOR DA INDENIZAÇÃO. HONORÁRIOS SUCUMBENCIAIS. RECURSO CONHECIDO E DESPROVIDO. SENTENÇA REFORMADA EM SEDE DE REMESSA NECESSÁRIA.
+Quanto à primeira controvérsia, pela alínea "a" do permissivo constitucional, alega violação dos arts. 1.022, II e parágrafo único, II c/c o art. 489, § 1º, do CPC, pois a omissão se manteve mesmo após a oposição de todos os aclaratórios.
+Quanto à segunda controvérsia, pela alínea "a" do permissivo constitucional, alega violação do art. 2º, VI, "d", e IX, da Lei n. 10.257/2001, no que concerne à inexistência de esbulho, requisito necessário para que se configure a desapropriação, além de que a legislação municipal estaria em consonância com o que estabelece o Estatuto da Cidade, de modo que é cabível a imposição de condicionantes, in casu direcionada ao trânsito, razão pela qual fica claro a necessidade de reforma do acórdão recorrido.
+É, no essencial, o relatório. Decido.
+Na espécie, incide o óbice da Súmula n. 281/STF. Isso porque o STJ, com base na referida súmula, aplicável também aos recursos especiais, pacificou o entendimento de que é necessário que a parte interponha todos os recursos ordinários no Tribunal de origem antes de buscar a instância especial, ou seja, de que a apresentação de recurso especial pressupõe o julgamento da questão controvertida pelo órgão colegiado de origem, o que não ocorreu no caso.
+In casu, foi interposto recurso especial contra decisão monocrática que rejeitou embargos de declaração opostos contra acórdão proferido em recurso de apelação.
+Nesse sentido:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DESTA CORTE. DECISÃO COLEGIADA. EMBARGOS DE DECLARAÇÃO. JULGAMENTO MONOCRÁTICO. EXAURIMENTO DE INSTÂNCIA NÃO VERIFICADO. SÚMULA N. 281/STF. DECISÃO MANTIDA.
+1. O julgamento monocrático dos embargos de declaração opostos contra decisão colegiada não é suficiente para caracterizar o esgotamento das instâncias ordinárias, para fins de interposição de recurso especial (Súmula n. 281/STF). Precedentes.
+2. Agravo interno a que se nega provimento. (AgInt no AREsp n. 2.039.784/BA, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 30/5/2022, DJe de 2/6/2022.)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO PELO RECURSO QUE DIFICULTOU A DEFESA DA VÍTIMA, MOTIVO FÚTIL E FEMINICÍDIO NA FORMA TENTADA. INTERPOSIÇÃO DE RECURSO ESPECIAL CONTRA DECISÃO MONOCRÁTICA. INCIDÊNCIA DA SÚMULA N. 281 DO SUPREMO TRIBUNAL FEDERAL - STF. MANTIDA. HABEAS CORPUS DE OFÍCIO. DESCABIMENTO. AGRAVO REGIMENTAL DESPROVIDO.
+1. É incabível a interposição de recurso especial contra decisão monocrática que julga embargos de declaração, opostos na origem, porquanto necessário o exaurimento de instância. Incidência da Súmula n. 281/STF. O julgamento monocrático dos embargos de declaração opostos contra decisão colegiada não é suficiente para caracterizar o esgotamento das instâncias ordinárias para fins de interposição de recurso especial. Precedentes.
+ ..
+3. Agravo regimental desprovido. (AgRg no REsp n. 1.979.534/MT, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 17/5/2022, DJe de 19/5/2022.)
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
