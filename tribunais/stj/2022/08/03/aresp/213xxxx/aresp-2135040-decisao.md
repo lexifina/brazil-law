@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de agravo apresentado por AFONSO FERREIRA DA SILVA e OUTROS contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DA PARAÍBA, assim resumido:
+APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO COM INDENIZAÇÃO POR DANOS MORAIS. EMPRÉSTIMO CONSIGNADO. CONTRATO PACTUADO PELAS PARTES. INOCORRÊNCIA DE ATO ILÍCITO. AUSÊNCIA DO DEVER DE INDENIZAR. SENTENÇA MANTIDA. DESPROVIMENTO DO RECURSO.
+Quanto à controvérsia recursal, pela alínea "a" do permissivo constitucional, alega violação dos arts. 927 e 932, III, do CC e art. 14 do CDC, no que concerne à necessidade de reconhecer a responsabilidade solidária da parte recorrida pelos danos ocasionados pelo suposto correspondente bancário, trazendo o(s) seguinte(s) argumento(s):
+25. A decisão impugnada neste especial, viola claramente o disposto no art. 927 do Código Civil, quando nega o dever de indenizar os danos causados pelo correspondente bancário que nesta condição assume a condição de comitente e exerce em nome da instituição financeira as obrigações contidas nos instrumentos de contrato que celebrar.
+ ..
+28. Assim, constata-se que as razões de decidir expostas no acórdão impugnado, retiram do promovido o dever de indenizar de corrente da responsabilidade civil por entender que o correspondente bancário é um terceiro, alheio a relação jurídica, quando na verdade não o é.
+29. Conforme narra a inicial a autora foi vítima de um crime de estelionato prati- cado por um correspondente bancário do promovido que induziu a falecida autora a celebrar contrato de empréstimo consignado aplicando-lhe em seguida a conduta descrita no art. 171 do CP, conforme restou demonstrado nos documentos que estão colacionados nos autos, de modo que não há como negar que o mesmo agiu em nome da instituição bancária promovida.
+ ..
+34. Vê-se, pois que o correspondente bancário age em nome do banco que é por ele credenciado, sendo assim, por ele responsável. (fls. 446).
+35. Tendo sido a conduta criminosa perpetrada contra a autora, pessoa idosa e com baixo grau de discernimento, por correspondente bancário, este fato atrai para recorrida a aplicação do disposto no art. 932, inciso III do Código Civil, que diz:
+ ..
+36. Verifica-se, pois, que a manutenção do que foi decidido pelo tribunal recor- rido, viola claramente o disposto no art. 927 do Código Civil, por negar o reconhecimento da responsabilidade objetiva e solidária do correspondente bancário.
+ ..
+38. A controvérsia no presente recurso portanto, é a correta aplicação dos dispositivos que tratam do dever de indenizar contido no art. 927 e a aplicação da responsabilidade solidária do banco em razão da conduta do correspondente bancário con- tida no art. 932, III do Código Civil e do art. 14 do CDC (fls. 443-453).
+É, no essencial, o relatório. Decido.
+Na espécie, incidem os óbices das Súmulas n. 282/STF e 356/STF, uma vez que a questão não foi examinada pela Corte de origem, tampouco foram opostos embargos de declaração para tal fim. Dessa forma, ausente o indispensável requisito do prequestionamento.
+Nesse sentido: "O requisito do prequestionamento é indispensável, por isso que inviável a apreciação, em sede de recurso especial, de matéria sobre a qual não se pronunciou o Tribunal de origem, incidindo, por analogia, o óbice das Súmulas 282 e 356 do STF. 9. In casu, o art. 17, do Decreto 3.342/00, não foi objeto de análise pelo acórdão recorrido, nem sequer foram opostos embargos declaratórios com a finalidade de prequestioná-lo, razão pela qual impõe-se óbice instransponível ao conhecimento do recurso quanto ao aludido dispositivo". (REsp 963.528/PR, relator Ministro Luiz Fux, Corte Especial, DJe de 4/2/2010.)
+Confiram-se ainda os seguintes julgados: REsp n. 1.160.435/PE, relator Ministro Benedito Gonçalves, Corte Especial, DJe de 28/4/2011; REsp n. 1.730.826/MG, relator Ministro Herman Benjamin, Segunda Turma, DJe de 12/2/2019; AgInt no AREsp n. 1.339.926/PR, relator Ministro Raul Araújo, Quarta Turma, DJe de 15/2/2019; e AgRg no REsp n. 1.849.115/SC, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 23/6/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
