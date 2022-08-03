@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por BRUNO LADEIRA JUNQUEIRA à decisão de fls. 368/369, que não conheceu do recurso.
+Sustenta a parte embargante que:
+No entanto, o período de transcurso inicial do prazo não ocorreu em 30 de setembro de 2021, mas sim em 06 de outubro de 2022. O sistema registrou ciência em da decisão em 04/10/2021 às 23:59:59, portanto, intimação ocorreu em 05/10/2021, sendo assim, o prazo começou a fluir em 06/10/2021, logo, o prazo fatal para interposição do recurso especial foi em 20/10/2021 às 23:59:59. Peço vênia para colacionar os expedientes do processo em apreço que tramitou no Tribunal Regional Federal da 1ª Região:
+ ..
+O expediente acima tinha com a finalidade a intimação em anexo (doc. 01).
+Portanto, salta aos olhos que o recurso é tempestivo, tendo em vista que foi devidamente protocolizado em 19/10/2021 (o referido prazo de interposição do recurso consta na decisão do Ilustre Ministro), ou seja, o recurso foi interposto um dia antes de findar o prazo.
+Desta forma, devidamente provado, por meio dos expedientes constantes no PJE do ReSE 1001188-34.2019.4.01.3507 que tramitou no Tribunal Regional Federal da 1ª Região, requer seja o recurso especial recebido tendo em vista que é tempestivo (fl. 378).
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a retirar ambiguidade, esclarecer obscuridade, eliminar contradição e suprir omissão existentes no julgado, o que não se verifica na hipótese.
+Consta dos autos (fl. 293) que a expedição de intimação eletrônica ocorreu em 20/9/2021. Nos termos do § 3º do art. 5º da Lei n. 11.419/2006, o prazo para a efetivação da intimação eletrônica ficta é de 10 dias corridos (essa contagem não se dá em dias úteis). Contado a partir do dia 21/9/2021, o prazo expirou em 30/9/2021, considerando-se a parte intimada nesse dia. Exclui-se o dia 30/9/2021, primeiro dia do prazo (art. 224 do CPC), prosseguindo-se na contagem de 15 dias corridos a partir de 1º/10/2021, primeiro dia da efetiva contagem do prazo.
+Dessa forma, o prazo recursal de 15 (quinze) dias corridos, nos termos do art. 994, VI, c/c os arts. 1.003, § 5º, e 1.029, todos do Código de Processo Civil, bem como do art. 798 do Código de Processo Penal, terminou em 15/10/2021, mas o recurso foi interposto somente em 19/10/2021.
+Registre-se que apesar do entendimento firmado nesta Corte de que "o equívoco na indicação do término do prazo recursal contido no sistema eletrônico mantido exclusivamente pelo Tribunal não pode ser imputado ao recorrente" (EREsp 1805589/MT, relator Ministro Mauro Campbell Marques, Corte Especial, Dje de 25/11/2020), não há como aplicá-lo ao caso dos autos, uma vez que a parte não comprovou essa contagem equivocada do sistema do tribunal a quo.
+Cabe ressaltar que o print colacionado à fl. 378 não é documento apto para essa finalidade, uma vez que não há como vinculá-lo ao processo, por sequer possui número de origem, assim como não é possível aferir de onde o mesmo foi extraído, não tendo assim, o condão de afastar a intempestividade do recurso. A comprovação deve ser feita com documento extraído do próprio sistema eletrônico mantido exclusivamente pelo Tribunal.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Deixo de apreciar os embargos de declaração de fls. 371/376, em razão da preclusão consumativa.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
