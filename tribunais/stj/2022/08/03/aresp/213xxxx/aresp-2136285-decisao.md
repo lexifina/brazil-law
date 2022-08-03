@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de agravo, manejado por CARUANA S/A SOCIEDADE DE CRÉDITO FINANCIAMENTO E INVESTIMENTO, desafiando decisão do Tribunal Regional Federal da 3ª Região, que negou seguimento ao recurso especial quanto à ocorrência de fraude à execução fiscal e não admitiu recurso especial com base nos seguintes fundamentos: (I) incidência da Súmula 211/STJ; (II) aplicação da Súmula 283/STF; (III) incidência da Súmula 7/STJ.
+Nas razões do agravo, a parte sustenta que: (I) "houve prequestionamento da questão aforada no Recurso Especial, bem como que a decisão que considerou que as alienações fiduciárias ocorreram em fraude é totalmente equivocada e, por isso, deve ser reformada " (fl. 603); e (II) "havendo ofensa direta a dispositivo de lei federal, não há que se falar em aplicação da Súmula 7 do STJ " (fl. 603).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Verifica-se que o inconformismo não ultrapassa a barreira do conhecimento, pois a parte agravante deixou de impugnar a totalidade dos motivos adotados pelo Tribunal de origem para negar trânsito ao apelo especial.
+No caso,diante do fundamento de ausência de prequestionamento (súmula 211/STJ) do art. 7º-A do Decreto-Lei 911/1969, a parte se limitou a alegar a existência de prequestionamento do art. 185 do CTN, sem proceder a qualquer digressão acerca do art. 7º-A do Decreto-Lei 911/1969. Tal argumentação, é certo, não se presta a contestar o entendimento adotado no decisum ora agravado nesse ponto.
+Além disso, a parte agravante deixou de rebater, de modo específico, o seguinte fundamento: "a ausência de impugnação específica às razões de decidir que se pretende ver anulado ou reformado adotadas pelo acórdão obsta a admissão do Recurso Especial interposto, por atrair a incidência, por analogia, da Súmula n.º 283 do STF" (fl. 589).
+Incide, desse modo, por analogia, a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida.").
+ANTE O EXPOSTO, não conheço do agravo.
+Publique-se.
