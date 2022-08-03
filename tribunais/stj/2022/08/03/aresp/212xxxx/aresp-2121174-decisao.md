@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo manejado pela Companhia Estadual de Águas e Esgotos - CEDAEcontra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (fl. 37):
+Agravo de Instrumento. Fase de cumprimento de sentença. Decisão que que homologou a planilha apresentada pelo credor. Inconformismo da devedora. Impugnação sobre questões decididas. Matéria referente à forma de elaboração dos cálculos que havia sido resolvida em momento anterior. Não se admite, no sistema processual pátrio, o retorno a etapas processuais já ultrapassadas e alcançadas pelo instituto da preclusão. Manutenção do decisum impugnado.
+Recurso não conhecido, revogando-se a decisão de concessão de efeito suspensivo.
+Opostos embargos declaratórios, foram rejeitados ante a inexistência dos vícios elencados no art. 1022do CPC.
+Nas razões do recurso especial, a parte agravante aponta violação ao art. 1022, II, do CPC; 4º do Decreto-Lei n. 22.626/33; e 884 do CC.Sustenta que: (I) o Tribunal de origem não se manifestou sobre questões relevantes para o deslinde da controvérsia; (II) os cálculos da execução contemplam a incidência de juros sobre juros, caracterizando vedado anatocismo; e (III) a manutenção dos cálculos apresentados pela parte exequente implica enriquecimento sem causa.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não prospera.
+Quanto à suposta ofensa ao art. 1022, II, do CPC, nota-se que a rejeição dos embargos de declaração foi assim fundamentada pelo Tribunal a quo (fls. 63/64):
+Na espécie, o acórdão impugnado deixou de conhecer do agravo de instrumento interposto pelo ora embargante, por estar a matéria devolvida a este Órgão Julgador preclusa, conforme se infere da ementa do aludido julgado, que ora se transcreve:
+(..)
+Assim, como se percebe, não houve o enfrentamento das teses arguidas pela recorrente, em razão do não conhecimento da irresignação interposta.
+No presente caso, o recurso especial não impugnou fundamento basilar que ampara o acórdão recorrido, qual seja, "não houve o enfrentamento das teses arguidas pela recorrente, em razão do não conhecimento da irresignação interposta." (fl. 64), esbarrando, pois, no obstáculo da Súmula 283/STF, que assim dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".A respeito do tema:AgInt no REsp 1711262/SE, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 17/2/2021; AgInt no AREsp 1679006/SP, Rel. Ministro Raul Araújo, Quarta Turma, DJe 23/2/2021.
+Nesse passo, constata-se a ausência de prequestionamento dos arts.4º do Decreto-Lei n. 22.626/33e 884 do CC, poiso Tribunal de origem não se pronunciou sobre a matéria versada nos referidos dispositivos de lei,apesar de instado a fazê-lo por meio dos competentes embargos de declaração. Nesse contexto, pois, incide o óbice da Súmula 211/STJ ("Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo").
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
