@@ -1,0 +1,6 @@
+DECISÃO
+O recorrente alega sofrer constrangimento ilegal em decorrência de acórdão prolatado pelo Tribunal a quo no Habeas Corpus n. 0009769-50.2019.8.16.0000, em que foi mantido o prosseguimento da ação penal, bem como os termos aventados na suspensão condicional do processo.
+Todavia, em consulta ao sítio eletrônico da Corte de origem, verifiquei que, em 23/2/2022, foi prolatada sentença condenatória. A esse respeito, urge consignar que " o  pleito de trancamento da ação penal perde força argumentativa após a prolação de sentença condenatória, já que se pressupõe o estudo aprofundado e exauriente dos fatos narrados na inicial acusatória, induzindo-se, com isso, à perda do objeto do habeas corpus por meio do qual se pretenda trancar a ação penal. Nesse sentido, o Superior Tribunal de Justiça editou o Enunciado sumular n. 648, in verbis: A superveniência da sentença condenatória prejudica o pedido de trancamento da ação penal por falta de justa causa feito em habeas corpus" (HC n. 679.045/SC, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 20/8/2021, grifei).
+Assim, evidencia-se a prejudicialidade deste writ, em que se pugna pelo trancamento da ação penal.
+À vista do exposto, com fundamento no art. 34, XX, c/c o art. 246, ambos do RISTJ, julgo prejudicado o recurso em habeas corpus, pela perda superveniente de seu objeto.
+Publique-se e intimem-se.
