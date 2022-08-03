@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus com pedido liminar interposto por MARCOS SOARES DA SILVA contra acórdão prolatado pelo Tribunal de Justiça do Estado de Minas Gerais no julgamento do HC n. 1.0000.22.039542-0/000.
+Depreende-se dos autos que em 15/2/2022 o recorrente foi preso em flagrante pela suposta prática dos delitos de posse de arma com numeração suprimida e de tráfico de entorpecentes, com a apreensão de aproximadamente 5kg (cinco quilogramas) de maconha, cerca de 2kg (dois quilogramas) de crack e cerca de 700g (setecentos gramas) de cocaína (e-STJ fls. 144/147).
+A defesa impetrou habeas corpus perante o Tribunal de origem alegando não constar no processo de primeiro grau o decreto de prisão preventiva e invocando os princípios da publicidade dos atos processuais e do devido processo legal. Postulou o cancelamento do mandado de prisão, com a colocação do acusado em liberdade.
+Contudo, em sessão de julgamento realizada em 29/3/2022, a Terceira Câmara Criminal denegou a ordem, conforme evidencia a seguinte ementa (e-STJ fl. 185):
+"HABEAS CORPUS" - TRÁFICO DE DROGAS - PRISÃO PREVENTIVA - AUSÊNCIA DE DECISÃO NOS AUTOS - PROVA PRÉ- CONSTITUÍDA - ÔNUS DA IMPETRAÇÃO - DEMONSTRAÇÃO INEQUÍVOCA - INOCORRÊNCIA - PRESSUPOSTOS DELINEADOS NO CASO CONCRETO - DECISÃO FUNDAMENTADA - CONSTRANGIMENTO ILEGAL NÃO VERIFICADO. O rito concebido pelo "habeas corpus" submete- se a limites estreitos, não admitindo dilação probatória, razão pela qual incumbe à parte impetrante, demonstrar de forma inequívoca, ao iniciar a ação de impugnação, a existência do constrangimento ilegal suscitado, o que, no caso, não ocorreu. Considera-se devidamente fundamentada a decisão em que se decreta a prisão preventiva se delineada, concretamente, a presença dos pressupostos autorizadores da medida cautelar mais gravosa.
+Daí o presente recurso ordinário (e-STJ fls. 200/203), no qual a defesa reitera a alegação de que continua sem acesso à decisão que decretou a prisão preventiva do recorrente, em afronta ao art. 5º, LXVIII, da Constituição Federal.
+Requer, liminarmente e no mérito, o cancelamento do mandado de prisão e a colocação do recorrente em liberdade.
+Liminar indeferida às e-STJ fls. 210/211.
+Prestadas as informações, o Ministério Público Federal opinou pelo desprovimento do recurso (e-STJ fls. 369/370).
+É o relatório.
+Decido.
+Não vislumbro a ilegalidade suscitada.
+É que, consoante se extrai dos autos, não foi vedado o acesso da defesa ao requerimento de prisão, tampouco à decisão que a decretou, já que consta do acórdão impugnado que foi registrada na ata daaudiência de custódia a "presença do advogado Dr. Adolpho Martins da Costa, ora impetrante" (e-STJ fl. 189), tendo o Tribunal de origem asseverado, ainda, que, "em que pese à captura de tela juntada pelo impetrante (ordem 19), noto que, em consulta pública ao Portal Judicial Eletrônico, também foi possível acessar a decisão de decretação da prisão preventiva, certidão criminal, decisão liminar referente a este "habeas corpus"e despacho" (e-STJ fl. 189).
+Ademais, verifico que as alegações formuladas neste recurso não foram capazes de infirmar as conclusões alcançadas pela Cortea quo acima transcritas.
+Sendo assim, não há falar em cerceamento de defesa.
+Por fim, recupero a afirmativa da origem no sentido de que, "no caso em exame, embora a impetração alegue a ausência de decreto prisional em desfavor do paciente e falta de requerimento da custódia cautelar por autoridade policial ou pelo Ministério Público, foi juntada, pela autoridade indicada como coautora, a decisão de conversão da prisão em flagrante em preventiva de Marcos Soares da Silva (ordem 15) e a ata de audiência de custódia contendo o requerimento da conversão feito pelo representante do Ministério Público" (e-STJ fl. 189).
+O entendimento exarado pelo Ministério Público Federal vai ao encontro da conclusão ora alcançada. Eis a ementa do aludido parecer (e-STJ fl. 369):
+Recurso em habeas corpus. Tráfico de drogas. Prisão preventiva. Alegação de violação ao princípio da publicidade e devido processo legal, por não disponibilização da decisão que decretou a custódia cautelar.Constrangimento ilegal não evidenciado. Parecer pelo improvimento do recurso.
+À vista do exposto, nego provimento ao recurso em habeas corpus.
+Publique-se. Intimem-se.
