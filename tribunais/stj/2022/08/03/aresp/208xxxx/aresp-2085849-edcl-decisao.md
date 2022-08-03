@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por JOAQUIM JOSE GURGEL GUERRA, à decisão de fls. 174/175, que não conheceu do recurso.
+Sustenta a parte embargante que:
+O ora Embargante ao interpor o Recurso do Agravo de Instrumento requereu : "Finalmente, requer a juntada da cópia integral do Processo n 0803136-58-2021, eis que necessária à instrução do presente recurso, declarada autêntica pelo seu patrono.
+ ..
+Inobstante tal Requerimento e declaração de autenticada da inicial , foi o Embargante surpreendido com a Decisao de Indeferimento . do Recurso por falta de juntada da cadeia de documento procuratório, pois além de REQUERER A JUNTADA DE TODO O PROCESSO DE ORIGEM, o que nosso NCPC permite em processo eletrônico, tal cadeia procuratória não se deu, o que seria impossível , pois só há por parte do Embargante a Causídica que requereu a juntada de TODO O PROCESSO 0803136-58-2021, POR SER NECESSÁRIA A INSTRUÇAO DO PRESENTE RECURSO , DECLARADA AUTÊNTICA PELO SEU PATRONO, e do outro lado a Fazenda NACIONAL.
+Ademais, temos que o Recurso de Agravo de Instrumento tramita de foram eletrônica , assim como todo o processo de origem:
+"Lei nº 13.105 de 16 de Março de 2015
+ ..
+Por conseguinte, tal juntada é facultativa pelo nosso NCPC, entretanto embora a legalidade da facultatividade da juntada, ainda assim REQUEREU O EMBARGANE A REFERIDA JUNTADA que se não ocorreu não se deu por desinteresse ou falta de agir do Embargante,, mas unicamente pelo não cumprimento do Requerimento pelo EGRÉGIO TRIBUNAL FEDERAL DA 5 REGIÃO, que não procedeu a devida e referida juntada de todo o processo de origem (fls. 178/179).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Esclareça-se que o marco temporal de aplicação do Código de Processo Civil de 2015 é a intimação do decisum recorrido que, no presente caso, foi realizada após 18/3/2016, já sob a égide do novo codex processual.
+Assim, nos termos do Enunciado Administrativo n. 3 do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC", em observância ao princípio do tempus regit actum, ou seja, no presente caso aplicam-se as regras do Código de Processo Civil de 2015.
+No caso, o recorrente, no momento da interposição dos recursos, não procedeu à juntada da cadeia completa de procuração e/ou substabelecimento conferindo poderes à subscritora do agravo e do recurso especial, Dra. Márcia Regina Marques dos Santos.
+Mesmo diante da intimação da parte para sanear o vício, não houve a devida regularização, uma vez que se quedou inerte (fl. 172).
+Registre-se que a dispensa prevista no art. 1017, § 5º, do CPC se aplica à interposição do agravo de instrumento para o Tribunal de Justiça, ou seja, a dispensa está voltada ao primeiro e ao segundo graus de jurisdição, tendo em vista que, a princípio, compartilhariam o mesmo sistema eletrônico. Nesse sentido, o AgInt no REsp 1869850/SP, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 17/02/2021; AgInt no AREsp 1691791/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 20/11/2020; AgInt no AREsp 1504387/RJ, relator Ministro Og Fernandes, Segunda Turma, Dje de 27/02/2020.
+Portanto, conclui-se que, a referida dispensa não se estende ao STJ, cabendo à parte providenciar a juntada de cópia ou novo instrumento aos autos quando da interposição de recurso a esta Corte.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgRg nos EREsp n. 1.315.507/SP, relator Ministro Luis Felipe Salomão, Corte Especial, DJe de 28/8/2014.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
