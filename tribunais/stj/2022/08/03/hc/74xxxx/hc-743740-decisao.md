@@ -1,0 +1,42 @@
+DECISÃO
+LUCAS BARCELOS GUIMARAES alega sofrer coação ilegal pelo Tribunal de Justiça do Estado do Rio Grande do Sul (HC n. 5046399-26.2022.8.21.7000).
+Nesta Corte, sustenta a defesa a falta de indícios suficientes da autoria do acusado, quanto aos crimes previstos nos arts. 33 e 35, c/c o art. 40, III e VI, todos da Lei n. 11.343/2006. Alega a ausência de fundamentação idônea para a mantença da prisão processual do réu. Aduz que não há comprovação do animus associativo entre os custodiados.
+Requer, liminarmente e no mérito, a expedição de alvará de soltura ou a fixação de providências alternativas.
+Indeferida a liminar e prestadas as informações, opinou o Parquet Federal pelo não conhecimento do writ (fls. 155-156; 159-172; 177-187).
+Decido.
+Expõem os autos que, em 16/2/2022, o Magistrado da Comarca de Cerro Largo converteu em constrição preventiva o flagrante do paciente e de outros investigados, sob estes motivos (fls. 118-120, destaquei):
+ ..  da análise do depoimento prestado pelo adolescente A., verifica-se que este e JAILSON foram abordados por LUCAS para que fizessem uma entrega, mediante arremesso de entorpecentes e telefones celulares para o interior do Presídio Estadual de Cerro Largo/RS, pois possuíam dívidas decorrentes da compra de drogas.
+Consta, além disso, que JAILSON e A. estariam sendo ameaçados para que efetuassem a entrega, sendo certo que receberiam, em troca do serviço, o valor de R$ 200,00  ..  para cada um ou 10 (dez) gramas de cocaína. A referida encomenda, ao que se vê, seria recebida pelos presos Adilson e Ailton.
+Nessa toada, A. referiu que comprava entorpecentes de LUCAS e de sua esposa, ANDRESSA, sendo que ambos efetuavam o comércio de drogas na residência na qual residem com as filhas menores. Consta do Boletim de Ocorrência que "já vinham sendo acompanhados, tendo em vista inúmeras denúncias por tráfico de drogas", sendo que na residência foi encontrada grande quantidade de entorpecentes, de variados tipos (crack, cocaína e maconha), celulares, dinheiro e um drone  .. .
+Com efeito, a gravidade concreta dos delitos em tese praticados por LUCAS e ANDRESSA, mediante suposta ameaça a adolescente e ao flagrado Jailson, a fim de que entregassem drogas no Presídio Estadual de Cerro Largo/RS, com a apreensão de considerável quantia de drogas e drone em sua residência, enseja a decretação de sua prisão cautelar para a garantia da ordem pública, resguardando, assim, o princípio da prevenção geral e o resultado útil do processo.
+ ..
+Além disso, as circunstâncias que envolvem o fato demonstram que outras medidas cautelares diversas previstas no art. 319 do CPP são insuficientes para a consecução do efeito preterido em relação a LUCAS e ANDRESSA. Estando a decisão devidamente fundamentada pela necessidade da prisão, revela-se incabível a substituição por outras medidas mais brandas.
+ ..
+a) CONVERTO a prisão em flagrante de LUCAS BARCELOS GUIMARÃES e ANDRESSA MARTINS ÁVILA DA SILVA em prisão preventiva, com base nos arts. 310, inciso II, c/c o art. 312 do CPP, para a garantia da ordem pública. Conforme fundamentação supra, SUBSTITUO a prisão preventiva de ANDRESSA MARTINS ÁVILA DA SILVA por prisão domiciliar, com monitoração eletrônica  .. .
+O Tribunal a quo denegou o mandamus originário.
+Em pesquisa no sítio eletrônico da Corte estadual, verificou o gabinete que a instrução se encerrou no dia 5/7/2022, embora, até o momento, a ata de audiência não esteja disponível para consulta. Em 25/7/2022, o Juízo singular indeferiu o pedido de revogação da custódia provisória do acusado.
+Feitos esses registros, passo ao exame da impetração.
+De início, ressalto que, conforme orientação deste Superior Tribunal, "O exame da suposta ausência de indícios suficientes da autoria delitiva demandaria ampla dilação probatória, incompatível com a via estreita do habeas corpus" (HC n. 554.114/SP, Rel. Ministro Rogerio Schietti, 6ª T., DJe 17/3/2020, grifei).
+Ainda preliminarmente, conquanto não estejam em discussão neste writ, não olvido que os atos das forças do Estado decorreram de denúncia anônima e que o ingresso na morada do réu pelos agentes policiais merece ser avaliado com cuidado, em impetração que aborde especificamente tais temas. A versão policial de que a coautuada Andressa, esposa do paciente, teria franqueado a entrada no domicílio, mesmo ciente do entorpecente escondido e da possível prisão que dela decorreria, sugere análise posterior mais acurada, mormente porque, em princípio, os acontecimentos prévios ao flagrante não fugiram à normalidade, a ponto de justificar, por si sós, eventual busca residencial forçada.
+Ao que consta dos autos, observo que são bastantes os fundamentos invocados pelas instâncias ordinárias para embasar a ordem de encarceramento provisório do acusado, porquanto contextualizaram, em dados concretos, o periculum libertatis.
+Nesse sentido, conforme iterativa jurisprudência desta Corte Superior, legitima-se a manutenção da cautela pessoal mais severa do paciente. Adespeito da sua primariedade, vislumbro gravidade concretana conduta perpetrada, sobretudo diante da variedade de substâncias ilícitas apreendidas (mais de 1.1 kg de maconha, 20g de crack e 65g de cocaína), além de um drone, um veículo, R$ 1.221 em espécie e vários aparelhos de telefone celular. Ademais, sublinho a participação de adolescente na empreitada criminosa e a suposta ameaça a coinvestigados para que efetivassem a entrega de drogas a presidiários, em razão de dívidas do tráfico.
+Confira-se:
+ ..  2. Na hipótese, a decretação da prisão preventiva do Agravante não se mostra desarrazoada ou ilegal, pois o Juízo singular ressaltou a gravidade concreta da conduta, evidenciada pela considerável quantidade e variedade de drogas apreendidas, o que justifica a segregação cautelar como garantia da ordem pública.
+3. A existência de condições pessoais favoráveis - tais como primariedade, bons antecedentes, ocupação lícita e residência fixa - não tem o condão de, por si sós, desconstituir a custódia antecipada, caso estejam presentes outros requisitos que autorizem a decretação da medida extrema, como ocorre na hipótese em tela.
+4. Consideradas, no caso, a gravidade concreta da conduta, não se mostra suficiente a imposição de medidas cautelares diversas da prisão.
+5. Agravo regimental desprovido.
+(AgRg no HC n. 735.366/SC, Rel. Ministra Laurita Vaz, 6ª T., DJe 6/5/2022, destaquei.)
+ ..  4. Caso em que a prisão preventiva foi mantida pelo Tribunal, para garantia da ordem pública em razão da periculosidade social do paciente, evidenciada pelas circunstâncias concretas extraídas do crime - foram apreendidos, no momento do flagrante, 84,7g de crack, 64,4g de cocaína e 172,1g de maconha, quantidade e variedade que não podem ser consideradas como inexpressivas.
+5. As condições subjetivas favoráveis do paciente, tais como primariedade, bons antecedentes, residência fixa e ocupação lícita, por si sós, não obstam a segregação cautelar, quando presentes os requisitos legais para a decretação da prisão preventiva.
+6. Mostra-se indevida a aplicação de medidas cautelares diversas da prisão, quando evidenciada a sua insuficiência para acautelar a ordem pública.
+7. A prisão do paciente não ofende os princípios da proporcionalidade ou da homogeneidade, pois o fato de ser primário não lhe garante a aplicação da pena mínima cominada aos delitos a ele imputados. Além disso, a garantia à ordem pública não pode ser abalada diante de mera suposição referente ao regime prisional a ser eventualmente aplicado.
+ ..
+10. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 696.334/SP, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 13/10/2021, grifei.)
+ ..  2. No caso, a prisão preventiva está justificada nas circunstâncias em que foi efetuada a custódia da recorrente, notadamente na grande quantidade de droga apreendida em seu poder - 1kg (um quilograma) de cocaína.
+3. Os fundamentos adotados para a decretação da prisão preventiva indicam, no caso, que as medidas alternativas seriam insuficientes para acautelar a ordem pública e evitar a prática de novos crimes.
+4. Recurso desprovido.
+(RHC n. 117.702/CE, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 28/11/2019, destaquei.)
+Tais as circunstâncias do fato, não se mostra adequada e suficiente, ao menos por ora, a fixação de medidas alternativas (art. 282 c/c art. 319 do CPP).
+À vista do exposto, denego a ordem.
+Publique-se e intimem-se.
