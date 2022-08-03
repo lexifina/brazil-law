@@ -1,0 +1,8 @@
+DECISÃO
+Por meio de expediente avulso (Pet 00599420/2022), MARCIO ARAUJO requer a reconsideração da decisão que determinou a devolução dos autos ao Tribunal de origem, com a devida baixa nesta Corte Superior, para que permaneça suspenso o recurso até a publicação do acórdão paradigma referente ao Tema 1.046, nos termos do art. 256-L, I, do RISTJ (e-STJ, fls. 342/343).
+É O RELATÓRIO.
+Inicialmente urge frisar que a impugnação em relação à decisão citada se encontra intempestiva, tendo em vista que foi protocolada em 18/07/2022 (e-STJ, fl. 03 do Expediente avulso) e o "decisum" transitou em julgado em 25/06/2021, nos termos da certidão de fls. 346 (e-STJ).
+Nesse sentir, inviável a análise do expediente avulso, pois foi apresentado após a data do trânsito em julgado.
+Ademais, ainda que fosse tempestiva a impugnação apresentada em face decisão de fls. 342/343 (e-STJ), o entendimento do STJ se encontra consolidado no sentido de que não é cabível a interposição de agravo interno contra decisão que determina o sobrestamento do recurso especial e a devolução dos autos ao Tribunal de origem para aguardar o julgamento da questão submetida à sistemática dos recursos repetitivos, visto que tal decisão não constitui juízo de admissibilidade do recurso especial, não havendo, portanto, sucumbência nem prejuízo às partes do processo. A esse propósito: AgInt no REsp 1.577.710/PR (2ª Turma, DJe 07/06/2019); AgInt no REsp 1.696.122/RS (2ª Turma, DJe 11/12/2018); AgInt no REsp 1.594.317/SC (3ª Turma, DJe 20/09/2018) e AgInt no REsp 1.549.779/SE (4ª Turma, DJe 3/4/2018).
+Forte nessas razões, NADA A DEFERIR.
+Publique-se. Intimem-se.
