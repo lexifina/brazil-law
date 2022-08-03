@@ -1,0 +1,6 @@
+DECISÃO
+Trata-se de revisão criminal com pedido liminar ajuizada por NILSON CLEI FERNANDES GOUVEIA, com fundamento no art. 621, I, do Código de Processo Penal, na qual alega que a condenação por ele sofrida contrariou a evidência dos autos e o ordenamento jurídico brasileiro.
+No despacho de e-STJ fl. 861, "considerando o tempo decorrido desde o ajuizamento da presente revisão criminal, a data de julgamento da decisão rescindenda, o quantum da pena imposta ao réu, e diante da possibilidade de se ter alterado o quadro fático apresentado nos autos", determinei a intimação do requerente para que se manifestasse, "justificadamente, em 5 dias, acerca do interesse no prosseguimento da análise do presente feito, sob pena de extinção".
+Àe-STJ fl. 877, o requerente informa que "oTribunal de Justiça de São Paulo/SP extinguiu a punibilidade do autor desta Revisão Criminal pela prescrição da pretensão punitiva estatal, como se vê da Decisão e da sua Certidão de Trânsito em julgado anexas".
+Desse modo,diante da perda do objeto, o feito deve ser extinto, por perda superveniente de interesse no seu prosseguimento.
+Ante o exposto, com base no art. 485, VI, do CPC, julgo extinta a presente revisão criminal, sem resolução de mérito.
