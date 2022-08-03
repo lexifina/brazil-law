@@ -1,0 +1,34 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por AÇÃO - ADMINISTRADORA DE IMÓVEIS E CONDOMÍNIOS LTDA à decisão de fls. 356/357, que não conheceu do recurso.
+Sustenta a parte embargante que:
+A certidão de publicação de tais decisões está acostada às fls. 261, informando que a disponibilização se deu em 16 de agosto de 2021: (fl. 362).
+ ..
+Desta forma, considerando os termos do art. 1.070 c/c o art. 219, ambos do CPC, o último dia para interposição dos Agravos em Recurso Especial e Recurso Extraordinário dar-se-ia em 07 de setembro de 2021.
+Ocorre que em função do feriado nacional do dia da Independência (Lei Federal nº 662/49, cuja redação foi alterada pela Lei 10.607/02, porém, sem modificação quanto à data de 07/09), e não feriado local como mencionado na decisão, o prazo fora prorrogado para o primeiro dia útil seguinte, qual seja, 08 de setembro de 2021 (fl. 363).
+ ..
+Diferentemente do que foi dito na decisão ora impugnada, foi sim comprovado nos autos, fls. 264/265, no tópico da tempestividade do recurso de Agravo que ora foi considerado intempestivo, seja com relação à postergação legal do prazo para o primeiro dia útil seguinte em face do feriado nacional devidamente previsto na lei consoante demonstrado acima, seja em relação à indisponibilidade do sistema jurídico processual.
+Impende ressaltar que o Tribunal de Justiça também certificou nos autos que o dia 07/09 é feriado nacional, nos termos da Portaria 426/21, ora anexada (fl. 364).
+ ..
+Desta maneira, não há como consentir o argumento de que não pode ser aceita regularização posterior, quando houve demonstração oportuna acerca do cabimento e tempestividade do recurso cuja decisão o considerou intempestivo no segundo juízo de admissibilidade.
+Já em relação à postergação do prazo em decorrência de instabilidade no sistema de processo eletrônico do Tribunal de Justiça do Estado do Ceará (E-saj), esta ocorrência foi, igualmente, comprovada na ocasião adequada, às fls. 265 (fl. 365).
+Em razão da indisponibilidade do E-saj, restou impossível o protocolo dos recursos de Agravo no prazo legal, qual seja, 08/09/2021, conforme se observou no histórico de indisponibilidade extraído do próprio sítio eletrônico do TJCE, fato este, frise-se, devidamente explanado e comprovado documentalmente nos autos quando do respectivo protocolo.
+ ..
+Constata-se que a indisponibilidade se deu das 13:08h até às 21:00h, estando, pois, albergada pela prorrogação do prazo previsto na Portaria nº 18/2020, em seu art. 17, I, a saber: (fl. 366).
+ ..
+Cumpre mencionar que tal fato foi reconhecido pelo C. Tribunal de Justiça do Estado do Ceará quando admitiu, posteriormente, às fls. 332/334, que ambos os recursos de agravo eram tempestivos, encaminhando-os para os respectivos Tribunais inerentes (fl. 369).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Cumpre esclarecer, pois se encontra pacificado nesta Corte, que a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada, no ato da interposição do recurso que pretende seja conhecido por este Tribunal, por documento oficial ou certidão expedida pelo Tribunal de origem, não bastando a mera menção ao feriado local nas razões recursais, tampouco a apresentação de documento não dotado de fé pública.
+Nesse sentido, AgInt no AREsp 1542214/SP, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 9/6/2020; AgInt nos EDcl no AREsp 1553768/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 27/4/2020; e AgInt nos EDcl no AREsp 1379051/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 3/10/2019.
+Do mesmo modo, a jurisprudência entende que a mera transcrição do texto de artigo de resolução local no corpo da petição não elide a necessidade da apresentação do documento original para a comprovação da suspensão de prazo na Instância de origem. Nesse sentido, AgInt no AREsp 1158537/SP, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 8/8/2018; AgInt nos EDcl no AREsp 1421854/RJ, relator Ministro Marco Buzzi, Quarta Turma, DJe de 3/6/2019.
+Registre-se que o feriado nacional de 7/9/2021 não precisa ser comprovado. Porém, a indisponibilidade do sistema ocorrida no dia 8/9/2021, deveria ter sido comprovada no momento da apresentação do recurso, o que não ocorreu.
+Esclareça-se, ainda, nos termos do art. 1.042, §§ 2º e 4º, do Código de Processo Civil, a competência do Tribunal a quo, na análise do agravo em recurso especial, restringe-se apenas à possibilidade de eventual retratação.
+A competência para o julgamento do referido agravo é deste Superior Tribunal de Justiça, conforme estabelecido nos §§ 3º e 4º do mencionado dispositivo, os quais prevêem que logo após o oferecimento da resposta do agravado, os autos devem ser remetidos a esta instância superior (Rcl 39.515/PE, relator Ministro Gurgel de Faria, Primeira Seção, DJe de 29/06/2020).
+Correta assim, a decisão que não conheceu do agravo.
+É cediço, também, que o julgador não fica obrigado a manifestar-se sobre todas as alegações das partes, nem a ater-se aos fundamentos indicados por elas ou a responder, um a um, a todos os seus argumentos, quando já encontrou motivo suficiente para fundamentar a decisão, o que de fato ocorreu. (AREsp 1592147/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 31/08/2020; AgInt no AREsp 1639930/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 03/08/2020; AgInt nos EDcl no AREsp 1342656/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 07/05/2020.)
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
