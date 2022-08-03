@@ -1,0 +1,63 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por ADILSON LUIZ HINTZ à decisão de minha lavra, que conheceu parcialmente de seu recurso especial e, nessa parte, negou-lhe provimento.
+Sustenta o embargante a existência de omissão no julgado, na medida em que"o principal capítulo do Recurso Especial -relativo ao termo inicial correto da indenização à luz dos dispositivos infraconstitucionais pertinentes (arts. 43, 186, 189 e 927 do CC) - não foi analisado pela r. decisão embargada" (fl. 1.419).
+Requer, assim, o acolhimento dos aclaratórios para (fl. 1.420):
+14.1. Suprir a aparente omissão quanto ao segundo capítulo do Recurso Especial, relativo ao termo inicial correto para a indenização dos danos materiais sofridos pelo Embargante, à luz dos arts. 43, 186, 189 e 927 do CC; e
+14.2. Como mera consequência lógica dessa supressão, atribuir-lhes efeitos modificativos para, reconhecendo-se a violação aos dispositivos legais referidos, dar provimento ao Recurso Especial nessa parte.
+Impugnação às fls. 1.428/1.434.
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+Não prospera a irresignação da parte embargante.
+De acordo com o previsto no artigo 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+Entretanto, no caso dos autos, não se verifica a existência de nenhum desses vícios, pois o decisumembargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+Com efeito, com fulcro na tese de contrariedade aosarts. 43, 186, 189 e 927 do Código Civil e art. 37, caput, § 6º, da Constituição da República, busca o ora agravante em seu apelo especial rediscutir o momento em que a violação ao seu direito restaria caracterizado e, via de consequência, o termo inicial da indenização devida.
+Nesse contexto, defendeu que (fl. 1.178):
+27.  ..  o termo inicial da indenização do Recorrente deve ser a data da preterição administrativamente feita pela União ao ilicitamente não nomeá-lo (como se defende aqui e como dispõe o art. 189 do CC/02) ou deve mesmo ser a data da publicação da liminar recursal por meio da qual oe. TRF4 determinou provisoriamente a sua nomeação (como decidiu o v. acórdão recorrido)
+Daí a assertiva consignada no apelo nobre, de que a tese acolhida pelo Tribunal de origem - no sentido de que a UNIÃO somente deveria ter procedido a nomeação "depois que o e. TRF4 concedeu tutela recursal antecipatória, mais de seis anos depois da aprovação do Recorrente" (fl. 1.178) - seria incompatível com o que dispõe o art. 189 do Código Civil, uma vez que este (fls. 1.178/1.179):
+30.  ..  estabelece que a pretensão surge " uma vez ou assim que " violado o direito, não se vê como se possa concluir, à luz deste dispositivo, que a pretensão do Recorrente só se constituiu no momento em que, em segundo grau de jurisdição, o e. TRF4 lhe concedeu tutela provisória recursal justamente para afastar o ilícito a que estava dando causa a União - momento esse que, data venia, é aleatório e arbitrário, pois o Recorrente já contava com liminar que lhe havia sido concedida em primeiro grau, como visto.
+31. Portanto, a lei federal não poderia ser mais clara: desde que o direito de alguém é violado e já a partir de quando este passa a sofrer os respectivos danos, deflagra-se incontinenti o termo inicial da respectiva indenização. Prorrogar este marco inicial para o momento em que eventualmente - e às vezes muitos anos depois - o Poder Judiciário lhe concede alguma liminar, precisamente para afastar provisoriamente os danos que está a sofrer, parece solução incompatível com o direito federal, cuja guarda e interpretação uniforme constituem as missões constitucionalmente atribuídas a essa e. Corte Superior.
+Ao contrário do que aduz a parte agravante, a não apreciação dessa questão não implica omissão no julgado, uma vez que no decisum embargado restou expresso que o deslinde da controvérsia passaria pelo reexame de matéria fático-probatória, hipótese que inviabiliza a abertura da via especialem virtude do óbice da Súmula 7/STJ. Senão vejamos (fls. 1.411/1.415):
+De outro lado, rever as conclusões adotadas no acórdão recorrido no sentido de que a procrastinação da posse do ora recorrente decorreu, em um primeiro momento, da responsabilidade imputável a ele mesmo e à UNIÃO, rever tal conclusão de mandaria o reexame de matéria fático-probatória, o que esbarra no óbice da Súmula 7/STJ.
+A propósito, cito os seguintes julgados:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. RESPONSABILIDADE CIVIL DO ESTADO. NEXO CAUSAL. CULPA EXCLUSIVA OU CONCORRENTE DA VÍTIMA. VALOR DO DANO MORAL. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. No caso dos autos, conforme se extrai do acórdão recorrido, cuida-se de ação de indenização por danos morais em face de Supervia - Concessionaria de Transporte Ferroviária S. A, em decorrência de acidente sofrido pelo autor, que ficou com a mão presa na porta da composição férrea. Em primeira instância, o pedido foi julgado procedente e, interposta apelação, o Tribunal local negou provimento ao recurso.
+2. O Tribunal de origem, soberano na análise do conjunto fático probatório dos autos, concluiu pela existência de nexo de causalidade entre o acidente ocorrido e as lesões sofridas pelo autor, bem como que "a ré não se desincumbiu de seu ônus da prova acerca da tese de culpa exclusiva da vítima, inexistindo qualquer indício de que a vítima inobservou os cuidados necessários a sua própria segurança ao embarcar, sendo, pois, a responsável pelo acidente, sem qualquer interferência do apelado, ou mesmo que tenha contribuído com o acidente, por não ter agido corretamente ao embarcar, a despeito da possibilidade de fazê-lo".
+Assim, o acolhimento da pretensão recursal, com o reconhecimento de que não foi comprovado o nexo de causalidade, de que houve culpa exclusiva da vítima, ou, ao menos, culpa concorrente desta, demandaria, inequivocamente, o revolvimento do conjunto fático probatório dos autos, o que não é cabível em sede de recurso especial, nos termos da Súmula 7/STJ.
+3. Não é possível acolher a pretensão recursal no sentido de que o valor arbitrado a título de danos morais se revela desproporcional e desarrazoado. Frise-se que o Superior Tribunal de Justiça só pode rever o quantum indenizatório fixado a títulos de danos morais em ações de responsabilidade civil quando irrisórios ou exorbitantes, o que não ocorreu na espécie.
+4. Agravo interno não provido.
+(AgInt no AREsp 1.914.191/RJ, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 11/11/2021) - Grifo nosso
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. ATROPELAMENTO EM VIA FÉRREA. AÇÃO INDENIZATÓRIA. VIOLAÇÃO AO ART. 1.022 DO CPC. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. CULPA CONCORRENTE. NEXO DE CAUSALIDADE. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 07/STJ. INCIDÊNCIA. DANO MORAL. REVISÃO DO VALOR ARBITRADO. IMPOSSIBILIDADE. SÚMULA N. 07/STJ. INCIDÊNCIA. NÃO INDICAÇÃO DO DISPOSITIVO DE LEI FEDERAL VIOLADO QUANTO A INCIDÊNICA DO JURO DE MORA. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - A jurisprudência desta Corte considera deficiente a fundamentação do recurso que não aponta o dispositivo de lei federal violado pelo acórdão recorrido, circunstância que atrai, por analogia, a incidência do entendimento da Súmula n. 284 do Supremo Tribunal Federal.
+III - Rever o entendimento do Tribunal de origem, que reconheceu a culpa concorrente e o nexo de causalidade, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7/STJ.
+IV - Esta Corte admite a revisão do quantum indenizatório fixado a títulos de danos morais em ações de responsabilidade civil quando irrisório ou exorbitante o valor arbitrado.
+V - Caso em que o tribunal de origem considerou adequado o valor fixado. O reexame de tal entendimento demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 07/STJ.
+VI - O recurso especial não pode ser conhecido com fundamento na alínea c do permissivo constitucional, porquanto o óbice da Súmula n. 7/STJ impede o exame do dissídio jurisprudencial quando, para a comprovação da similitude fática entre os julgados confrontados, é necessário o reexame de fatos e provas.
+VII - O Superior Tribunal de Justiça considera deficiente a fundamentação do recurso que não aponta o dispositivo de lei federal violado pelo acórdão recorrido, circunstância que atrai, por analogia, a incidência do entendimento da Súmula n. 284 do Supremo Tribunal Federal.
+VIII - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+IX - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+X - Agravo Interno improvido.
+(AgInt no AREsp 1.742.900/CE, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe 12/8/2021) - Grifo nosso
+Por fim, a incidência dos supracitados óbices sumulares também inviabilizam o conhecimento do apelo nobre quanto à tese de dissídio jurisprudencial. Confira-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7 DO STJ. NOVA INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. SÚMULA 5/STJ. DISSÍDIO JURISPRUDENCIAL. SÚMULAS 5 E 7 DO STJ. PREJUDICADO. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF.
+1. Ação Revisional de Saldo em Contrato de Financiamento c/c Reconhecimento de Direito de Recebimento de Seguro e Apuração de Saldo Final.
+2. A existência de fundamento do acórdão recorrido não impugnado
+quando suficiente para a manutenção de suas conclusões  impede a apreciação do recurso especial.
+3. Alterar o deci dido no acórdão impugnado, no que se refere à tese atinente à ausência de responsabilidade no pagamento indenizatório, bem como da própria existência do seguro contratual, haja vista a recusa da seguradora da proposta formulada pelo segurado, envolve o reexame de fatos e provas e a renovada interpretação de cláusulas contratuais, o que é vedado em recurso especial pelas Súmulas 5 e 7/STJ.
+4. A incidência das Súmulas 5 e 7 do STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+5. A ausência de decisão acerca dos argumentos invocados pela recorrente em suas razões recursais, impede o conhecimento do recurso especial.
+6. Agravo interno no agravo em recurso especial não provido.
+(AgInt no AREsp 1.974.202/PR, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe 27/4/2022) - Grifo nosso
+Dessa forma, não podem ser acolhidos embargos de declaração que, a pretexto de alegada omissão no julgado, traduzem, na verdade, o inconformismo da parte com a decisão tomada, buscando rediscutir o que decidido já foi.A propósito:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. CONTRADIÇÃO E OMISSÃO. VÍCIOS NÃO CONFIGURADOS. PROPÓSITO DE MODIFICAÇÃO DO JULGAMENTO. MEIO IMPRÓPRIO.
+1. Os embargos de declaração, conforme dispõe o art. 1.022 do CPC/2015,
+destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material.
+2. Não se identifica, no recurso, qualquer ponto sobre o qual era necessária
+manifestação, mas apenas a discordância da parte com a solução apresentada no julgamento e seu propósito de modificação.
+3. Por contradição entende-se coexistência de afirmações em desacordo no
+mesmo julgado, gerando ilogicidade ao texto. Mas desse problema não se
+ressente o julgado.
+4. Embargos de declaração rejeitados, com aplicação de multa de 1% (um por cento) sobre o valor atualizado da causa.
+(EDcl no AgInt nos EAREsp n. 666.334/RS, Rel. Ministro OG FERNANDES,
+PRIMEIRA SEÇÃO, DJe de 28/8/2018)
+ANTE O EXPOSTO, rejeito os embargos de declaração.
+Publique-se.
