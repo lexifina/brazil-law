@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo Instituto Nacional doSeguro Social - INSS com fundamento naalínea"a" do permissivoconstitucional, contra acórdão do Tribunal Regional Federal da 4ª Região,assim ementado (fls.401/401):
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. REEXAME NECESSÁRIO. AGRAVO RETIDO. ATIVIDADE ESPECIAL. CONVERSÃO DO TEMPO ESPECIAL EM COMUM. POSSIBILIDADE. APOSENTADORIA POR TEMPO DE SERVIÇO/CONTRIBUIÇÃO. IMPLANTAÇÃO IMEDIATA DO BENEFÍCIO. SISTEMÁTICA DE ATUALIZAÇÃO DO PASSIVO. TEMA Nº 810 DO STF. HONORÁRIOS SUCUMBENCIAIS. CUSTAS JUDICIAIS.
+1. O reexame necessário previsto no art. 475 do CPC/73 é regra nos casos de processos com sentença proferida até 18-03-2016.
+2. Ausente o pedido de apreciação na forma preconizada pelo art. 523 e §1º, do CP/1973, não cabe o exame do agravo retido.
+3. O reconhecimento da especialidade e o enquadramento da atividade exercida sob condições nocivas são disciplinados pela Lei em vigor à época em que efetivamente exercidos, passando a integrar, como direito adquirido, o patrimônio jurídico do trabalhador.
+4. É tida por especial a atividade exercida com exposição a ruídos superiores a 80 decibéis até a edição do Decreto 2.171/1997. Após essa data, o nível de ruído considerado prejudicial é o superior a 90 decibéis. Com a entrada em vigor do Decreto 4.882, em 18.11.2003, o limite de tolerância ao agente físico ruído foi reduzido para 85 decibéis
+5. A exposição habitual, rotineira a agentes de natureza química são suficientes para caracterizar a atividade prejudicial à saúde ou à integridade física.
+6. São admitidas perícias por similaridade ou por aferição indireta das condições de trabalho nos casos em que a coleta de dados in loco se mostrar impossível para a análise da atividade especial.
+7. Comprovado o exercício de atividade especial, conforme os critérios estabelecidos na lei vigente à época do exercício, o segurado tem direito adquirido ao cômputo do tempo de serviço como tal, e ao acréscimo decorrente da sua conversão em tempo comum, utilizado o fator de conversão previsto na legislação aplicada na data da concessão do benefício.
+8. A implementação dos requisitos para recebimento do benefício após a entrada do requerimento administrativo podeser considerada como fato superveniente, desde que ocorrida até o momento da decisão.
+9. Deve ser concedido o benefício com à renda calculadana reafirmação da DER, data na qual a parte autora implementava os requisitos para a aposentadoria proporcional.
+10. Determinada a imediata implantação do benefício, a ser efetivada em 45 dias, considerada a eficácia mandamental dos provimentos.
+11. Sistemática de atualização do passivo observará a decisãodo STF consubstanciada no seu Tema nº 810. Procedimento que não implica reformatio in pejus ou ofensa à coisa julgada material.
+12. São devidos honorários pelo INSS no percentual de 10% sobre as parcelas vencidas até a sentença, nos termos da Súmula 76 deste TRF e 111 do STJ.
+13. O INSS é isento do pagamento de custas no Foro Federal (art. 4º, I, da Lei nº 9.289/96) e na Justiça Estadual do Rio Grande do Sul (art. 11 da Lei nº 8.121/85, com a redação dada pela Lei nº 13.471/2010).
+Opostos embargos de declaração, foram acolhidos (fls. 450/451 e 481/487).
+Aponta o recorrente violação dos arts. 85, caput, 927, III, 1022, II,do CPC e 389 do CC, sustentando, além de negativa de prestação jurisdicional, que"a c. Turma julgadora, em que pese adotar a tese firmada pelo E. STJ para reconhecer a possibilidade de reafirmação da DER, não seguiu os parâmetros da Corte Superior no que se refere à condenação em honorários advocatícios, uma vez que condenou o INSS ao pagamento de honorários advocatícios sobre as parcelas vencidas, ainda que não tenha havido insurgência quanto à reafirmação da DER" (fl. 498).
+Aduz que "somente se o INSS opuser-se ao pedido de reafirmação da DER, resistindo a pretensão, dando causa a demanda, haverá condenação a verba honorária. Caso contrário sequer há que se falar em sucumbência" (fl. 499).
+Ao final, pugna pela reforma do acórdão "para afastar a a condenação em honorários advocatícios" (fl. 499).
+Sem contrarrazões ao recurso especial.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+No caso em questão, inexistem omissão, contradição, obscuridade ou erro material, uma vez que, pela leitura do inteiro teor do acórdão embargado, depreende-se que este apreciou devidamente a matéria em debate e analisou de forma exaustiva, clara e objetiva as questões relevantes para o deslinde da controvérsia.
+A questão dos autos diz respeito ao juízo de adequação quanto ao entendimento firmado por este Superior Tribunal no julgamento do Recurso Especial 1.727.063/SP - Tema 995/STJ, processado pelo rito dos feitos repetitivos.
+O cerne da controvérsia instalada está na necessidade de observância aosparâmetros fixados por esta Corte, no caso de reafirmação da DER,relativamente aos honorários advocatícios, os quais restaram elucidados nocurso do julgamento doreferidorecursorepetitivo.
+O Tribunal de origem, ao decidir a questão,assim manifestou, verbis (fl. 487):
+A condenação ao pagamento de honorários de advogado mantém estrita relação à aplicação das normas previstas no Código de Processo Civil.
+No presente caso, o INSS foi vencido quanto ao pedido de reconhecimento do tempo de serviço em condições especiais nos períodos de11/12/1985 a 29/12/1989, 15/01/1990 a 25/07/1995, 08/04/1996 a 10/09/1996, 25/12/1999 a 02/07/2000 e 28/08/2000 a 31/10/2000.
+Logo, a sucumbência da autarquia não decorreu unicamente da reafirmação da DER.
+No presente caso, o recurso especial não impugnou fundamento basilar queampara o acórdão recorrido, qual seja, "a sucumbência da autarquia não decorreu unicamente da reafirmação da DER".O apelo nobre esbarra, pois, no obstáculo daSúmula 283/STF, que assim dispõe: "É inadmissível o recursoextraordinário, quando a decisão recorrida assenta em mais de umfundamento suficiente e o recurso não abrange todos eles".A respeito dotema:AgInt no REsp 1711262/SE, Rel. Ministro Gurgel de Faria, PrimeiraTurma, DJe 17/02/2021; AgInt no AREsp 1679006/SP, Rel. Ministro RaulAraújo, Quarta Turma, DJe 23/02/2021.
+ANTE O EXPOSTO, não conheço do recurso especial. Levando-se em conta otrabalho adicional realizado em grau recursal, impõe-se à parte recorrenteo pagamento de honorários advocatícios equivalentes a 20% (vinte porcento) do valor a esse título já fixado no processo (art. 85, § 11, doCPC).
+Publique-se.
