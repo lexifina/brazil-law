@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de conflito negativo de competência entre o Juízo de Direito da 2ª Vara Criminal de Jaraguá do Sul/SC, suscitante, e o Juízo de Direito da Vara de Execução Penal de Colombo - PR, suscitado.
+O Juízo suscitado declinou da competência, determinando a remessa dos autos ao Juízo da Comarca de Jaraguá do Sul/SC, por se tratar do local em que realizada a prisão do ora interessado.
+O Juízo suscitante, por sua vez, acolheu a manifestação do Ministério Público e suscitou o presente conflitopor entender que, estando o interessado no cumprimento de pena parente o Juízo suscitado, não há que se falar em deslocamento de competênciaapenas em razão da prisão na comarca de Jaraguá do Sul/SC.
+Informações prestadas.Manifestação do Ministério Público Federal pela competência do Juízo suscitado.
+Às fls. 62/75 o interessado protocolou pedido de liberdade em razão da morosidade do judiciário. No entanto, o pedido resta prejudicado em razão do julgamento do mérito do presente conflito de competência.
+Em se tratando de conflito negativo de competência entre juízos submetidos a tribunais diversos, impõe-se o seu conhecimento nos termos do art. 105, I, "d", da Constituição.
+Consta dos autos que o interessado foi condenado perante o Juízo de Colombo/PR, tendo sido a pena substituída por restritiva de direitos.No curso da execução penal foi presoem razão do cometimento, em tese, de novo crime na comarca deJaraguá do Sul/SC.
+OJuízo de Colombo/PR, então, promoveu a reversãodas penas restritivas de direitos, estabelecendoa pena privativa de liberdade, a ser cumprida em regime fechado, declinando, na mesma oportunidade, da sua competência, determinando a remessa dos autos ao juízo do local da prisão, qual seja,Jaraguá do Sul/SC.
+Das informações dos autos, verifica-se que com razão o Juízo suscitante.
+Nos termos do art. 65 da LEP, aexecução penal compete ao Juízo da condenação, sendo que o fato do apenado ter sido preso em outra Unidade da Federação não constitui causa de deslocamento de competência, notadamente quando o reeducando não apresentar condenação no Juízo suscitante.
+Sobre a controvérsia, é firme o entendimento de que "O simples fato de o condenado ter sido preso em Comarca diversa em cumprimento de mandado de prisão expedido pelo Juiz prolator da sentença penal condenatória não constitui causa legal de deslocamento da competência originária para a execução da pena" (CC 156.747/BA, Rel. Ministro JOEL ILAN PACIORNIK, TERCEIRA SEÇÃO, julgado em 25/04/2018, DJe 11/05/2018).
+No mesmo sentido, destaca-se:
+PROCESSO PENAL. CONFLITO NEGATIVO DE COMPETÊNCIA. EXECUÇÃO PENAL. MANDADO DE PRISÃO CUMPRIDO EM LOCALIDADE DIVERSA DO JUÍZO DA CONDENAÇÃO. COMPETÊNCIA PERMANECE COM O JUÍZO CONDENATÓRIO. POSSIBILIDADE DE FISCALIZAÇÃO PELO JUÍZO DO NOVO DOMICÍLIO POR MEIO DE CARTA PRECATÓRIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1."A Terceira Seção desta Corte Superior orienta-se no sentido de que o cumprimento do mandado de prisão do Apenado em Estado da Federação diverso daquele onde foi processado não implica deslocamento da competência, sendo aplicável o disposto no art. 65 da Lei de Execuções Penais, que consagra ser competente o Juiz indicado na lei local de organização judiciária ou, na sua ausência, o que proferiu a sentença condenatória.(CC 161.783/DF, Rel. Ministra LAURITA VAZ, TERCEIRA SEÇÃO, julgado em 28/11/2018, DJe 14/12/2018).
+2. Assim, " ..o simples fato de o condenado estar preso em Comarca diversa daquela competente para a execução da sentença, em cumprimento de mandado de prisão preventiva expedido por um terceiro Juízo, não constitui causa legal de deslocamento da competência originária para a execução da pena." (CC 148.926/RS, Rel. Ministro REYNALDO SOARES DA FONSECA, TERCEIRA SEÇÃO, julgado em 28/09/2016, DJe 27/10/2016).
+3. Nada impede, porém, que, não obstante a competência do processo de execução permaneça sendo do juízo condenatório, seja expedida carta precatória à nova localidade em que o apenado está preso e possui laços familiares consolidados, para fins de fiscalização e supervisão do desconto da reprimenda, como ocorre no caso em apreço. Precedentes nesse sentido.
+4. Agravo regimental não provido.
+(AgRg no CC 166.472/RO, Rel. Ministro RIBEIRO DANTAS, TERCEIRA SEÇÃO, julgado em 09/10/2019, DJe 15/10/2019)
+Ante o exposto, conheço do conflito para declarar a competência do Juízo de Direito da Vara de Execução Penal de Colombo - PR, ora suscitado.
+Publique-se.
+Intimem-se.
