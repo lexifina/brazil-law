@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de Recurso Especial interposto pela Fazenda Nacional, contra acórdão proferido pelo Tribunal Regional Federal da 3ª Região, cuja ementa assim estabelece, in verbis:
+TRIBUTÁRIO. ADUANEIRO. IMPORTAÇÃO DE AERONAVE. CLASSIFICAÇÃO. TABELA TIPI. MOTOR TURBOFRAN. INTERPRETAÇÃO RESTRITIVA. HONORÁRIOS ADVOCATÍCIOS. MAJORAÇÃO.
+1. A tabela do IPI classifica as aeronaves, segundo o modo de propulsão, em hélice, turboélice e turbojato, reservando a classificação "outros" aos modelos que não se inserem em nenhuma das especificações. A TIPI não contém descrição específica de aviões movidos a "turbofan".
+2. As Regras Gerais para a Interpretação do Sistema Harmonizado de classificação de mercadorias, que integram o texto da TIPI, pressupõem a prevalência da posição específica sobre a genérica, em caso de dúvidas quanto à classificação.
+3. , trata-se de aeronave importada que possui sistema de propulsão denominado In casu "turbofan", de modo que esta é a característica principal a permitir a classificação do produto.
+4. O perito afirma que a aeronave importada pelo autor não é equipada com motores turbojato, bem como não há na tabela uma referência explícita aos motores turbofan.
+5. A classificação adotada pelo autor na Declaração de Importação mostra-se correta, porquanto a aeronave importada não se enquadra em nenhuma das posições específicas da tabela e também seu motor não se equipara ao motor turbojato.
+6. O Parecer Normativo COSIT nº 03/1992, utilizado pelo Fisco para fundamentar a nova classificação da aeronave, não adotou posição mais específica na classificação da TIPI, conforme determina as Regras Gerais para a Interpretação do Sistema Harmonizado de classificação de mercadorias, o que afastou as especificações próprias dos equipamentos, incluindo sob a mesma categoria produtos que não guardam as mesmas características.
+7. Considerando o zelo do patrono do autor, a natureza da demanda e o valor da ação (R$ 200.000,00 em 1999), honorários advocatícios majorados para 10% sobre o valor atualizado da causa.
+8. Apelo da União desprovido. Apelo do autor provido.
+Os embargos de declaração foram rejeitados.
+Nas razões do recurso especial, fundamentado sob o artigo 105, inciso III, alínea "a", do permissivo constitucional, o recorrente alegou a violação aos artigos 1022, II, do CPC/2015, bem como os artigo 20, §§3º e 4º do CPC/1973, para sustentar em síntese: (i) a nulidade do acórdão recorrido, em razão da rejeição dos embargos de declaração; (ii) que os honorários sucumbenciais fixados pelo Tribunal de origem é exorbitante e desproporcional, nos termos da exegese do artigo 20, § 4º, do Código de Processo Civil.
+Contrarrazões ao recurso especial às fls. 1.023/1.024 (e-STJ).
+Em decisão interlocutória, o Tribunal de origem admitiu o processamento do recurso especial.
+É o relatório. Passo a decidir.
+Preliminarmente, a nulidade aludida pelo recorrente, por suposta ofensa ao artigo 1.022, inciso II, do CPC/2015, não se prospera, eis que o Tribunal de origem se manifestou de forma clara e fundamentada sobre a fixação dos honorários sucumbenciais. Nesse sentido, remanesce o princípio do livre convencimento motivado, não estando obrigado a rebater, um a um, os argumentos apresentados pela parte quando já encontrou fundamento suficiente para decidir a controvérsia (EDcl no AgRg no AREsp 195.246/BA, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, DJe 04/02/2014).
+No mérito, a Fazenda Nacional alega a exorbitância dos honorários sucumbenciais, asseverando que a fixação superou o percentual de 10% (dez por cento) sobre o valor atualizado da causa, razão pela qual ofende a exegese do art. 20, § 4º, do Código de Processo Civil.
+Sobre a questão, o Tribunal de origem arrematou, in verbis:
+Conforme o disposto no v. acórdão, em relação aos honorários advocatícios, entendo que merece reparo a r. sentença, em atenção ao disposto no artigo 20, §§ 3º e 4º, do Código de Processo Civil de 1973, vigente ao tempo da prolação da r. sentença.
+É bem de ver que os honorários advocatícios devem remunerar dignamente o trabalho do advogado, com a necessária proporcionalidade entre a remuneração e o trabalho visível feito pelo advogado.
+É o caso de majoração dos honorários advocatícios, visto que o valor fixado na r. sentença demonstra-se irrisório para remuneração do trabalho observado no processo. Assim, considerando o zelo do patrono do autor, a natureza da demanda e o valor da ação (R$ 200.000,00 em 1999), majoro os honorários 10% sobre o valor atualizado da causa.
+No caso concreto, oshonoráriosadvocatícios de sucumbência foram arbitrados nos termos da exegese do artigo20,§ 4º, do CPC/1973, de acordo com o esmero processual diante do deslinde do processo pelas partes. Nesse sentido, observa-se que o reexame dos critérios fáticos, levados em consideração para fixar oshonoráriosadvocatícios é inviável em sede de recurso especial, nos termos da jurisprudência dominante desta Corte. Somente em hipóteses excepcionais, de valor, manifestamente, exagerado ou ínfimo, é que esta Corte revisa a fixação da verbahonorária,o que não ocorre neste caso. Assim, a discussão acerca do quantum da verbahonoráriaencontra-se no contexto fático-probatório dos autos, o que obsta o revolvimento do valor arbitrado nas instâncias ordinárias pelo Superior Tribunal de Justiça, consoante entendimento da Súmula 7 desta Corte, que impede a revisão dos critérios de equidade utilizados pelas instâncias de origem para a fixação doshonoráriosadvocatícios é vedada no âmbito do recurso especial.
+A propósito:
+PROCESSUAL CIVIL. HONORÁRIOS DE ADVOGADO. CPC/1973. MAJORAÇÃO. REVISÃO DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. PRECEDENTES DO STJ.
+1. É pacífico o entendimento desta Corte no sentido de que deve ser conhecido e provido recurso especial para rever a fixação de verba honorária em valor irrisório ou excessivo, pois nesses casos não há observância do juízo de equidade preconizado na legislação processual civil. Nesse sentido: REsp 526.508/SP, 2ª Turma, Rel. Min. João Otávio de Noronha, DJ de 21.2.2005; REsp 606.375/MS, 5ª Turma, Rel. Min. Laurita Vaz, DJ de 29.11.2004.
+2. A fixação de percentual de honorários advocatícios não é possível em sede especial, por quaisquer das alíneas do permissivo constitucional, porquanto implica incursão ao suporte fático-probatório carreado aos autos, o que é vedado pela Súmula 7/STJ.
+3. Agravo interno não provido.
+(AgInt no REsp n. 1.989.727/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 20/6/2022, DJe de 22/6/2022.).
+Ante o exposto, com fundamento no art. 255, § 4º, II, do RISTJ, conheço parcialmente do recurso especial para lhe negar provimento.
+Publique-se.
+Intimem-se
+EMENTA
+PROCESSO CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. OFENSA AO ARTIGO 1.022, INCISO II, DO CPC/2015. NÃO CARACTERIZAÇÃO. FIXAÇÃO DE HONORÁRIOS SUCUMBENCIAIS. SÚMULA 7/STJ. RECURSO ESPECIAL PARCIALMENTE CONHECIDO PARA LHE NEGAR PROVIMENTO.
