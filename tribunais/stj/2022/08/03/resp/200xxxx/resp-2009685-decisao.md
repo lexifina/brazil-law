@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso especial manejado pelo Instituto Federal de Educação, Ciência e Tecnologia de Santa Catarinacom fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 342):
+ADMINISTRATIVO. SERVIDORA PÚBLICA. RECONHECIMENTO ADMINISTRATIVO. VALORES EM ATRASO. CORREÇÃO MONETÁRIA.JUROS DE MORA. SENTENÇA REFORMADA. APELAÇÃO PARCIALMENTE PROVIDA.
+Opostos embargos declaratórios, foram rejeitados (fls. 377/383).
+A parte recorrente aponta violação aos arts. 85, § 2º, 86, caput,e 1.022, I e II do CPC. Sustenta, em síntese, negativa de prestação jurisdicional eque "patente ser a parte autora sucumbente na maior parte do pedido deduzido na presente demanda, o que não justifica a condenação do ente público em honorários sucumbenciais no importe de 10% sobre o valor da causa (R$ 87.103,93), com base no art. 85, § 2º, do CPC.A hipótese dos autos é de sucumbência parcial, a incidir a regra da sucumbência prevista no art. 86, do CPC (..)." (fl. 392)
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não merece acolhida.
+Verifica-se, inicialmente, não ter ocorrido ofensa aoart. 1.022, I e II, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos; não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Quanto ao mais, ajurisprudência desta Corte orienta-se no sentido de que, em regra, não se mostra possível em recurso especial a revisão do valor fixado a título de honorários advocatícios, pois tal providência exigiria, também, novo exame do contexto fático-probatório constante dos autos, o que é vedado pela Súmula 7/STJ.
+Todavia, o óbice da referida súmula pode ser afastado em situações excepcionais, quando for verificado excesso ou insignificância da importância arbitrada, ficando evidenciada ofensa aos princípios da razoabilidade e da proporcionalidade, hipóteses não configuradas nos autos.
+No caso, o Tribunal de origem, considerando as peculiaridades fáticas do feito, entendeu que "diante da sucumbência recíproca, condeno a parte ré e a parte autora ao pagamento de custas ex lege e honorários de sucumbência, os quais fixo em 10% (dez por cento) sobre o valor da causa (R$ 87.103,93), nos termos do art. 85, § 2º, do CPC. Esse valor remunera adequadamente os advogados, quanto ao trabalho exercido, considerando o grau de zelo do profissional, o lugar de prestação do serviço, a natureza e a importância da causa, bem como o trabalho realizado e o tempo exigido para o seu serviço, tudo conforme o art. 85, caput e §§ 2º, do CPC." (fl. 346)
+Dessarte, a alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+A propósito, confira-se:
+PROCESSUAL CIVIL E ADMINISTRATIVO. FALHA NO FORNECIMENTO DE ÁGUA. DANO MORAL. VALOR. REVISÃO. SUCUMBÊNCIA RECÍPROCA. AFERIÇÃO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ.
+1. É firme o entendimento deste Tribunal Superior de não admitir, em sede de recurso especial, a revisão do montante fixado pela instância de origem a título de danos morais, salvo em situações excepcionais, em que o quantum indenizatório seja induvidosamente irrisório ou exorbitante.
+2. Hipótese em que o valor fixado no acórdão impugnado (R$ 2.000,00 para cada autor), levou em consideração as circunstâncias gerais e específicas do caso concreto, a gravidade do dano e a repercussão do fato, não desbordando dos princípios da razoabilidade e da proporcionalidade.
+3. A aferição do grau de sucumbência entre as partes, para fins de distribuição dos honorários advocatícios, é matéria afeta aos juízos das instâncias ordinárias, por envolver a análise do contexto fático-probatório da demanda, providência igualmente defesa em sede especial, em virtude do óbice contido na Súmula 7 do STJ.
+4. Agravo interno desprovido.
+(AgInt no AREsp 899.426/RJ, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 12/09/2017, DJe 23/10/2017)
+ANTE O EXPOSTO, conheço em parte do recurso especial e, na parte conhecida, nego-lhe provimento.
+Publique-se.
