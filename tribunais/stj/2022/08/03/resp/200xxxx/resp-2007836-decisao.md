@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MUNICÍPIO DE BELÉM contra acórdão proferido peloTRIBUNAL DE JUSTIÇA DO ESTADO DO PARÁassim ementado:
+PROCESSO CIVIL. EXECUÇÃO FISCAL. APELAÇÃO CÍVEL. DECISÃO MONOCRÁTICA PROVENDO PARCIALMENTE O APELO. IPTU. PRESCRIÇÃO. MANTIDA A PRESCRIÇÃO ORIGINÁRIA DECRETADA NA SENTENÇA. TERMO INICIAL DO PRAZO PRESCRICIONAL. PARCELAMENTO DE OFÍCIO. MORATÓRIA COMO CAUSA DE SUSPENSÃO DA EXIGIBILIDADE DO CRÉDITO TRIBUTÁRIO. AGRAVO INTERNO.
+1. Atacada decisão monocrática que, na ausência de comprovação diversa nos autos, estabelece a data de 05.02.2004 como início da contagem do prazo prescricional e convalida decretação de ofício da prescrição originária para cobrança do IPTU, referente ao exercício de 2004, em razão da ação de execução fiscal ter sido intentada em 10.02.2009.
+2. A faculdade de pagamento do IPTU em parcelas, ofertada de ofício pela municipalidade, não caracteriza suspensão ou interrupção do prazo prescricional, a teor do art. 151, do CTN, visto que, in casu, não houve requerimento do devedor, nem convenção entre as partes com vistas ao adiamento ou parcelamento do vencimento da dívida tributária. Precedentes jurisprudenciais.
+3. Agravo Interno conhecido e improvido.
+Não foram opostosembargos de declaração.
+No recurso especial, fundamentado na alínea "a" do permissivo constitucional, o recorrente sustenta violação dos arts. 151, VI, 152, I, "a", 153, III, "b", e155-A, §2º, do Código Tributário Nacional. A municipalidade pleiteia o reconhecimento de suspensão da exigibilidade do crédito tributário, argumentando que foi concedida a moratória,independentemente de suavontade ou anuência.
+Não houve contrarrazões.
+É o relatório. Decido.
+Cuida-se, na origem, de execução fiscal proposta pelo ora recorrente para a cobrança do IPTU referente aos anos de 2004 a 2008. A Corte local reconheceu a prescrição originária do exercício de 2004 e a prescrição intercorrente dos exercícios de 2005 a 2008.
+No presente, a municipalidade aduz que foi concedida moratória, o que teria suspendido a exigibilidade do crédito.
+A insurgência não comporta acolhida.
+Isso porquanto, ao solucionar a controvérsia, o aresto combatido assim fundamentou (e-STJ fl. 76):
+Note-se que no caso dos autos não se configura exatamente como hipótese de moratória. Não há a dilação do prazo para pagamento da dívida, cuja primeira prestação continua estipulada na mesma data de vencimento integral do tributo, nem sequer qualquer ato do contribuinte que manifeste convenção sua com a administração. O que ocorre, em verdade, é apenas uma opção proposta pela municipalidade de que o montante da dívida seja pago, alternativamente, de forma parcelada, configurando a possibilidade de suspensão descrita no item 6 do mesmo artigo 151 do CTN.
+Contudo, não se vislumbra nos autos qualquer comprovação de que o contribuinte tenha requerido tal parcelamento ou, sequer, anuído com o mesmo, e a jurisprudência do Superior Tribunal de Justiça já entendeu como sendo imprescindível tal requerimento ou anuência do devedor, devidamente homologado pela autoridade fiscal, para que se configure a possibilidade de suspensão da exigibilidade do crédito tributário.
+Do excerto depreende-se que, não apenas não houve moratória, como também não há, nos autos, comprovação do requerimento ou anuência do contribuinte com relação ao parcelamento.
+Dito isso, alterar a conclusão a que chegou o Tribunal de origem a fim de acolher a pretensão recursal exigiria, necessariamente, o reexame do acervo fático-probatório dos autos, providência que esbarra no óbice da Súmula n. 7/STJ.
+Exemplificativamente:
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. ISS. SERVIÇOS BANCÁRIOS. DECRETO-LEI N. 406/1968. LISTA ANEXA. ROL TAXATIVO. INTERPRETAÇÃO EXTENSIVA. POSSIBILIDADE. NECESSIDADE DE REEXAME DE FATOS E PROVAS. SÚMULA 7/STF. ALEGAÇÃO GENÉRICA DE OFENSA A DISPOSITIVO DE LEI FEDERAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Aplica-se, no caso, o Código de Processo Civil de 2015.
+II - Este Superior Tribunal de Justiça, em julgamento de recurso repetitivo, fixou a tese no sentido de que a lista anexa ao Decreto-lei n. 406/1968 tem natureza taxativa, não obstante a interpretação extensiva possa ser utilizada para classificar serviços congêneres com nomenclatura distinta daquelas presentes na norma supracitada.
+III - In casu, rever o entendimento da Corte local, com o objetivo de acolher a pretensão recursal, para verificar o enquadramento dos serviços bancários para fins de incidência do ISS, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7 desta Corte, assim enunciada: a pretensão de simples reexame de prova não enseja recurso especial
+IV - A jurisprudência desta Corte considera que quando a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se, por analogia, o entendimento da Súmula n. 284, do Supremo Tribunal Federal.
+V - O recurso especial não pode ser conhecido com fundamento na alínea c do permissivo constitucional, porquanto o óbice da Súmula n. 7/STJ impede o exame do dissídio jurisprudencial quando, para a comprovação da similitude fática entre os julgados confrontados, é necessário o reexame de fatos e provas.
+VI - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VII - Agravo Interno desprovido.
+(AgInt no REsp n. 1.975.133/PR, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 16/5/2022, DJe de 19/5/2022.)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+TRIBUTÁRIO. RECURSO ESPECIAL. IPTU. PRESCRIÇÃO. SUSPENSÃO DA EXIGIBILIDADE DO CRÉDITO TRIBUTÁRIO PELA MORATÓRIA. MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA N. 7/STJ. RECURSO ESPECIAL NÃO CONHECIDO.
