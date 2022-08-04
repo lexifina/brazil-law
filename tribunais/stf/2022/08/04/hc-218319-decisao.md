@@ -1,0 +1,81 @@
+Decisão:
+
+    Trata-se de habeas corpus impetrado contra decisão monocrática, proferida no âmbito do Superior Tribunal de Justiça, que, no HC 754.903/MG indeferiu o pedido liminar em habeas corpus (eDOC.11).
+
+    Busca-se, em suma, a revogação da prisão preventiva, em razão de sua incompatibilidade com a pena privativa de liberdade em regime semiaberto, estabelecida em sede de sentença condenatória.
+
+    Subsidiariamente, pleiteia-se a substituição da prisão preventiva por medidas cautelares diversas da prisão.
+
+    É o relatório. Decido.
+
+    1. Cabimento do habeas corpus:
+
+    Inicialmente, destaco que esta Corte tem posição firme pela impossibilidade de admissão de habeas corpus impetrado contra decisão proferida por membro de Tribunal Superior, visto que, a teor do art. 102, I, “i”, da Constituição da República, sob o prisma da autoridade coatora, a competência originária do Supremo Tribunal Federal somente se perfectibiliza na hipótese em que Tribunal Superior, por meio de órgão colegiado, atue em tal condição. Nessa linha, cito o seguinte precedente:
+
+    “É certo que a previsão constitucional do habeas corpus no artigo 5º, LXVIII, tem como escopo a proteção da liberdade. Contudo, não se há de vislumbrar antinomia na Constituição Federal, que restringiu a competência desta Corte às hipóteses nas quais o ato imputado tenha sido proferido por Tribunal Superior. Entender de outro modo, para alcançar os atos praticados por membros de Tribunais Superiores, seria atribuir à Corte competência que não lhe foi outorgada pela Constituição. Assim, a pretexto de dar efetividade ao que se contém no inciso LXVIII do artigo 5º da mesma Carta, ter-se-ia, ao fim e ao cabo, o descumprimento do que previsto no artigo 102, I, i, da Constituição como regra de competência, estabelecendo antinomia entre normas constitucionais.
+
+    Ademais, com respaldo no disposto no artigo 34, inciso XVIII, do Regimento Interno do Superior Tribunal de Justiça, pode o relator negar seguimento a pedido improcedente e incabível, fazendo-o como porta-voz do colegiado. Entretanto, há de ser observado que a competência do Supremo Tribunal Federal apenas exsurge se coator for o Tribunal Superior (CF, artigo 102, inciso I, alínea i), e não a autoridade que subscreveu o ato impugnado. Assim, impunha-se a interposição de agravo regimental”. (HC 114.557 AgR, Rel. Min. LUIZ FUX, Primeira Turma, julgado em 12.08.2014, grifei)
+
+    Não se inaugura a competência deste Supremo nas hipóteses em que não esgotada a jurisdição antecedente, visto que tal proceder acarretaria indevida supressão de instância, dado o cabimento de agravo regimental. Precedentes:
+
+    “Há óbice ao conhecimento de habeas corpus impetrado contra decisão monocrática do Superior Tribunal de Justiça, cuja jurisdição, à falta de manejo de agravo regimental ao Colegiado, não se esgotou.” (HC 123926, Relator(a): Min. ROSA WEBER, Primeira Turma, julgado em 14.04.2015, grifei)
+
+    “Inexistindo deliberação colegiada do Superior Tribunal de Justiça a respeito da questão de fundo suscitada pelo impetrante, não compete ao Supremo Tribunal Federal analisá-la originariamente, sob pena de indevida supressão de instância.” (HC 124561 AgR, Relator(a): Min. ROBERTO BARROSO, Primeira Turma, julgado em 10.02.2015, grifei)
+
+    No caso concreto, por contrariar frontalmente a jurisprudência do Supremo Tribunal Federal, o habeas corpus não merece conhecimento, na medida em que ataca decisão monocrática do STJ.
+
+    2. Possibilidade de concessão da ordem de ofício:
+
+    Ainda que ausentes hipóteses de conhecimento, a Corte tem admitido, excepcionalmente, a concessão da ordem de ofício.
+
+    Calha enfatizar que tal providência tem sido tomada tão somente em casos absolutamente aberrantes e teratológicos, em que “a) seja premente a necessidade de concessão do provimento cautelar para evitar flagrante constrangimento ilegal; ou b) a negativa de decisão concessiva de medida liminar pelo tribunal superior importe na caracterização ou na manutenção de situação que seja manifestamente contrária à jurisprudência do STF” (HC 95.009, Rel. Min. EROS GRAU, Tribunal Pleno, julgado em 06.11.2008, grifei).
+
+    Devido ao caráter excepcional da superação da jurisprudência da Corte, a ilegalidade deve ser cognoscível de plano, sem a necessidade de produção de quaisquer provas ou colheita de informações. Nesse sentido, não pode ser atribuída a pecha de flagrante à ilegalidade cujo reconhecimento demande dispendioso cotejamento dos autos ou, pior, que desafie a complementação do caderno processual por meio da coleta de elementos externos.
+
+    Como reforço, cumpre assinalar que o Código de Processo Penal, ao permitir que as autoridades judiciárias concedam a ordem de ofício em habeas corpus, apenas o fez quanto aos processos que já lhes são submetidos à apreciação:
+
+    “Art. 654. (…)
+
+    (…)
+
+    § 2º Os juízes e os tribunais têm competência para expedir de ofício ordem de habeas corpus, quando no curso de processo verificarem que alguém sofre ou está na iminência de sofrer coação ilegal.”
+
+    De tal modo, ao meu sentir, não se admite que o processo tenha como nascedouro, pura e simplesmente, a alegada pretensão de atuação ex officio de Juiz ou Tribunal, mormente quando tal proceder se encontra em desconformidade com as regras de competência delineadas na Constituição da República. Em outras palavras: somente se cogita da expedição da ordem de ofício nas hipóteses em que não se desbordar da competência do órgão, de modo que essa não pode ser a finalidade precípua da impetração.
+
+    3. Análise da possibilidade de concessão da ordem de ofício no caso concreto:
+
+    Nada obstante, no caso dos autos, denota-se a existência de ilegalidade aferível de pronto a autorizar a concessão da ordem de ofício, nos termos do art. 654, § 2º, do CPP.
+
+    O TJMG, ao reformar a dosimetria da pena estabelecida em 1° grau de jurisdição, embora tenha fixado o regime semiaberto para o início de cumprimento da pena, negou ao paciente o direito de recorrer em liberdade, valendo-se do seguinte fundamento (eDOC 04, p. 7):
+
+    “O regime inicial de cumprimento da pena, nos termos do art. 33 do Código Penal, deve ser o semiaberto.
+
+    Inviável é a substituição da pena por restritivas de direitos, pelo não preenchimento dos requisitos legais.
+
+    Confirma-se a manutenção da prisão preventiva do réu, visto que devidamente justificada, nos termos da r. sentença.
+
+    Diante do exposto, com respaldo nos princípios do livre convencimento motivado e da fundamentação dos atos jurisdicionais, REJEITAM-SE AS PRELIMINARES SUSCITADAS, NEGA-SE PROVIMENTO AO RECURSO MINISTERIAL E DÁ-SE PARCIAL PROVIMENTO AO RECURSO DEFENSIVO, para absolver o réu do delito de receptação previsto no art. 180 do Código Penal e alterar o regime inicial de cumprimento da pena para o sistema semiaberto, mantendo-se a r. sentença nos seus demais termos” (grifei).
+
+    A fundamentação exarada, a toda evidência, não se compatibiliza com a jurisprudência desta Corte, na medida em que, consoante entendimento perfilhado pela 2ª Turma, excetuadas específicas exceções inocorrentes no caso em apreço, não há como conciliar a manutenção da prisão preventiva com a imposição de regime penal menos gravoso que o fechado:
+
+    “Penal e processual penal. Habeas corpus. Incompatibilidade entre a prisão preventiva e o regime semiaberto fixado na sentença condenatória. Precedentes. Somente em casos excepcionais, desde que respeitada a proporcionalidade, admite-se a manutenção da prisão preventiva, como em situações de reiteração delitiva ou, por exemplo, violência de gênero. Descabimento neste caso concreto. Ordem concedida.” (HC 205179 AgR, Relator(a): RICARDO LEWANDOWSKI, Relator(a) p/ Acórdão: GILMAR MENDES, Segunda Turma, julgado em 08/09/2021, PROCESSO ELETRÔNICO DJe-186 DIVULG 16-09-2021 PUBLIC 17-09-2021)
+
+    Assim, na linha do que decidido pela 2ª Turma, a manutenção da prisão preventiva, própria das cautelares, representaria, em última análise, a legitimação da execução provisória da pena em regime mais gravoso do que o fixado no próprio título penal condenatório.
+
+    Por isso, “em respeito à proporcionalidade, à presunção de inocência, que determina a provisoriedade das medidas cautelares, e à realidade fática, que torna infactível a execução da prisão provisória em estabelecimento compatível com o regime determinado na sentença, (...) a manutenção da prisão preventiva é incompatível com a fixação de regime inicial semiaberto ou aberto na sentença condenatória.” (HC 205179 AgR, Relator(a): RICARDO LEWANDOWSKI, Relator(a) p/ Acórdão: GILMAR MENDES, Segunda Turma, julgado em 08/09/2021.
+
+    Destarte, a violação direta e imediata ao direito de ir e vir do paciente por ilegalidade flagrante, ante a manifesta incompatibilidade entre o instituto da prisão preventiva e o regime estabelecido na acórdão emanado pelo TJMG (semiaberto), autoriza a concessão da ordem, de pronto.
+
+    4. Isso posto, não conheço do habeas corpus, mas concedo a ordem, de ofício, a fim de revogar a prisão preventiva imposta ao paciente, à vista dos argumentos suso expendidos, determinando que aguarde o julgamento do recurso em liberdade, salvo se preso por outro motivo.
+
+    Comunique-se, com urgência e pelo meio mais expedito (inclusive com utilização de fax, se necessário), ao Juiz da causa, a quem incumbirá o implemento desta decisão.
+
+    Publique-se. Intime-se.
+
+    Brasília, 04 de agosto de 2022.
+
+Ministro Edson Fachin
+
+Relator
+
+Documento assinado digitalmente
