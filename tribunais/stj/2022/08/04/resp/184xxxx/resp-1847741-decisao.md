@@ -1,0 +1,46 @@
+DECISÃO
+Vistos etc.
+Trata-se de recurso especial interposto por MARIO SERGIO DE AZEVEDO E OUTROS com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição da República contra acórdão proferido pelo Tribunal de Justiça do Estado de Mato Grosso do Sul(fls. 2.027/2.028):
+APELAÇÃO CÍVEL - REANÁLISE ART. 1.040, II DO CPC - COBRANÇA DE CAPITALIZAÇÃO EM CONTRATOS DE CÉDULA RURAL FIRMADOS ANTES DA EDIÇÃO DA MP 2170/2000 - RECURSO REPETITIVO RESP 1.388.972/SC (TEMA953) - NECESSIDADE DE CONTRATAÇÃO EXPRESSA - JULGAMENTO RETIFICADO EM PARTE PARA O FIM DE EXCLUIR DAS CÉDULAS RURAIS, QUE NÃO CONTRATARAM EXPRESSAMENTE A CAPITALIZAÇÃ O SUA COBRANÇA, FICANDO MANTIDA A APLICAÇÃO DO REFERIDO ENCARGO EM RELAÇÃO ÀS DEMAIS CÉDULAS NA FORMA SEMESTRAL. MANUTENÇÃO DA DECISÃO QUE CONHECEU EM PARTE E, NA PARTE CONHECIDA, DEU PARCIAL PROVIMENTO AO APELO DOS AUTORES, PASSANDO A SER PARCIALPROVIMENTO EM MAIOR EXTENSÃO.
+1. Interposto Recurso Especial, em virtude da matéria nele aventada(contratação expressa da capitalização) ter sido objeto de decisão pelo Superior Tribunal de Justiça nos recursos repetitivos n. REsp 1.388.972/SC, tema 953, com resultado aparentemente divergente do acórdão ora recorrido, o Vice-Presidente deste Tribunal de Justiça devolveu os autos à esta Câmara Cível, a fim de que fosse novamente examinados, nos termos do art. 1.040, II, do CPC.
+2. Com efeito, verificando-se que ao menos em relação a 05 (cinco) cédulas rurais não houve a comprovação da pactuação de capitalização em qualquer periodicidade, inexistindo, pois, expressa manifestação de vontade das partes nesse sentido, o caso é de não cobrança do referido encargo, devendo, pois, ser aplicado o Tema 953 do REsp 1.388.792/SC.
+3. Já no que se refere às 02 (duas) cédulas restantes, por não ser possível a capitalização mensal contratada antes da edição da MP 2170/2000, deve ser aplicada a capitalização semestral, como já determinado no voto anteriormente proferido, restando, pois, atendida a exigência de contratação expressa contida no REsp 1388972/SC, a limitação imposta pela MP2170/2000, e a boa-fé contratual.
+4. Assim, após o reexame da matéria objeto do REsp1.388.792/SC, tema 953, observado o artigo 1.040, do Código de Processo Civil, exerço o juízo de retratação, ao menos em parte, ficando, pois, retificado em parte o voto anteriormente proferido, sem alteração do resultado final daquele julgamento.
+Em suas razões de recurso especial, os recorrentes alegaramofensa ao art. 927, inciso III, do Código de Processo Civil, ao argumento de que o Tribunal de Justiça não aplicou o entendimento firmado no Recurso Especial n.º 1.388.972, julgado sob o rito dos repetitivos.Aduziramque não é cabível a cobrança de capitalização semestral de juros em relação às cédulasde crédito rural n.º89/0910-X e n. 93/00051-0.Requereramo provimento do recurso especial.
+Houve apresentação de contrarrazões.
+É o relatório.
+Passo a decidir.
+O recurso especial não merece provimento.
+Na hipótese dos autos, o Tribunal de Justiça do Estado de Mato Grosso do Sul deu parcial provimento ao recurso de apelação apenas para afastara capitalização de juros em relação às cédulas de crédito rural sem expressa pactuação do encargo (fl. 2.031):
+(..)
+Note-se que no que se refere a capitalização esta é permitida, porém, não obrigatória, uma vez que o financiador poderá cobrá-la, o que necessariamente não implica em imposição legal.
+Dito isso, em relação às cédulas rurais - n. 89/0910-X e n. 93/00051-0, apesar de equivocadamente convencionada a capitalização mensal, não se pode negar que as partes manifestaram a vontade de contratar a capitalização propriamente dita, nos termos da súmula 93 do STJ:
+"A legislação sobre cédulas de crédito rural, comercial e industrial admite o pacto de capitalização de juros."
+Daí que, especificamente em relação às cédulas rurais - n. 89/0910-X e n. 93/00051-0, por não ser possível a capitalização mensal, deve ser aplicada a capitalização semestral, como já determinado no voto proferido à f.2087-2089, o que a rigor atende a exigência de contratação expressa contida no REsp 1388972/SC, e também a MP 2170/2000, além de se observar a boa-fé contratual.
+Já no que se refere ás cédulas rurais 89/00194-X, n. 88/02212-9, n. 92/00356-7, n. 91/01438-7, n. 92/00319-2 e n. 90/01638-6, por não haver sido comprovada a pactuação de capitalização em qualquer periodicidade, inexistindo, pois, expressa manifestação de vontade das partes nesse sentido, o caso é de não cobrança do referido encargo, devendo, pois, ser aplicado o Tema 953 do REsp 1.388.792/SC. (g.n.)
+Nesse contexto, verifica-se que o Tribunal de Justiça reconheceu a possibilidade de capitalização nas cédulas em que houve a efetiva contratação do encargo.Dessa forma, o entendimento do Tribunal de Justiça não destoa da jurisprudência do Superior Tribunal de Justiça no sentidode que a cobrança de juros capitalizados é permitida quando houver expressa pactuação.
+A propósito:
+RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA - ARTIGO 1036 E SEGUINTES DO CPC/2015 - AÇÃO REVISIONAL DE CONTRATOS BANCÁRIOS - PROCEDÊNCIA DA DEMANDA ANTE A ABUSIVIDADE DE COBRANÇA DE ENCARGOS - INSURGÊNCIA DA CASA BANCÁRIA VOLTADA À PRETENSÃO DE COBRANÇA DA CAPITALIZAÇÃO DE JUROS 1. Para fins dos arts. 1036 e seguintes do CPC/2015.
+1.1 A cobrança de juros capitalizados nos contratos de mútuo é permitida quando houver expressa pactuação.
+2. Caso concreto: 2.1 Quanto aos contratos exibidos, a inversão da premissa firmada no acórdão atacado acerca da ausência de pactuação do encargo capitalização de juros em qualquer periodicidade demandaria a reanálise de matéria fática e dos termos dos contratos, providências vedadas nesta esfera recursal extraordinária, em virtude dos óbices contidos nos Enunciados 5 e 7 da Súmula do Superior Tribunal de Justiça.
+2.2 Relativamente aos pactos não exibidos, verifica-se ter o Tribunal a quo determinado a sua apresentação, tendo o banco-réu, ora insurgente, deixado de colacionar aos autos os contratos, motivo pelo qual lhe foi aplicada a penalidade constante do artigo 359 do CPC/73 (atual 400 do NCPC), sendo tido como verdadeiros os fatos que a autora pretendia provar com a referida documentação, qual seja, não pactuação dos encargos cobrados.
+2.3 Segundo a jurisprudência do Superior Tribunal de Justiça, é possível tanto a compensação de créditos quanto a devolução da quantia paga indevidamente, independentemente de comprovação de erro no pagamento, em obediência ao princípio que veda o enriquecimento ilícito. Inteligência da Súmula 322/STJ.
+2.4 Embargos de declaração manifestados com notório propósito de prequestionamento não tem caráter protelatório. Inteligência da súmula 98/STJ.
+2.5 Recurso especial parcialmente provido apenas ara afastar a multa imposta pelo Tribunal a quo.(REsp n. 1.388.972/SC, relator Ministro Marco Buzzi, Segunda Seção, julgado em 8/2/2017, DJe de 13/3/2017.)
+Ademais, ajurisprudência do Superior Tribunal de Justiça é firme no sentido de que em se tratando de cédulas de crédito rural, admite-se o pacto de capitalização de juros até mesmoem periodicidade inferior à semestral.
+A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CÉDULA DE CRÉDITO RURAL. CAPITALIZAÇÃO. POSSIBILIDADE. HONORÁRIOS. VALOR. MAJORAÇÃO. SÚMULA Nº 7/STJ.
+1. A jurisprudência desta Corte firmou entendimento de que, em se tratando de cédulas de crédito rural, admite-se o pacto de capitalização de juros em periodicidade inferior à semestral.
+2. O Superior Tribunal de Justiça, afastando a incidência da Súmula nº 7/STJ, tem reexaminado o montante fixado pelas instâncias ordinárias a título de honorários advocatícios quando irrisório ou abusivo.
+3. Agravo regimental não provido.(AgRg no AREsp n. 737.986/MS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 3/3/2016, DJe de 9/3/2016.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REVISÃO DE CÉDULA DE CRÉDITO RURAL. JUROS. CAPITALIZAÇÃO MENSAL. POSSIBILIDADE. APLICAÇÃO DA SÚMULA 83/STJ.
+1. "A legislação sobre cédulas de crédito rural admite o pacto de capitalização de juros em periodicidade inferior à semestral" (2ª Seção, REsp 1.333.977/MT, Rel. Min. MARIA ISABEL GALLOTTI, DJe 12.3.2014).
+2. Agravo regimental a que se nega provimento.(AgRg no AREsp n. 521.933/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 14/10/2014, DJe de 28/10/2014.)
+Ante o exposto, com base no art. 932, inciso IV, do CPC/2015, conheço e nego provimento ao recurso especial.
+Advirta-se que eventual recurso interposto contra este decisum estará sujeito às normas do CPC/2015, inclusive no que tange ao cabimento de multa processual.
+Intimem-se.
+EMENTA
+RECURSO ESPECIAL. DIREITO CIVIL. AÇÃO DE COBRANÇA. CAPITALIZAÇÃO EM CONTRATOS DE CÉDULA RURAL. NECESSIDADE DE EXPRESSA CONTRATAÇÃO. PERIODICIDADE. SEMESTRAL. CABIMENTO.
+1. Oentendimento do Tribunal de Justiça não destoa da jurisprudência do Superior Tribunal de Justiça no sentido de que a cobrança de juros capitalizados é permitida quando houver expressa pactuação.
+2.A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que, em se tratando de cédulas de crédito rural, admite-se o pacto de capitalização de juros em periodicidade inferior à semestral.
+3. RECURSO ESPECIAL CONHECIDO E DESPROVIDO.
