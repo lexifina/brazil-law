@@ -1,0 +1,6 @@
+DECISÃO
+Trata-se de Agravo interno, interposto pelo MUNICIPIO DE LAGES, contra decisão de minha lavra, a qual não conhecera do Conflito de Competência.
+Aduz que "quando se tratar de procedimentos, medicamentos e cirurgias não padronizada pelo Sistema Único de Saúde, é imprescindível que a União ocupe o polo passivo da ação, em razão do previsto no art. 19-Q, da Lei nº 12.401/2011. Ora, se a incorporação, a exclusão e a alteração de da lista padronizada pelo SUS é atribuição do Ministério da Saúde, não há como se admitir quequaisquer entes federados ocupem o polo passivo da ação e sejam, eventualmente, condenados a arcar com o custo financeiro de medicamentos que sequer foram validados pela autoridade competente no Brasil. Assim, nestes casos, a competência é sempre da Justiça Federal, tendo em vista o inegável interesse jurídico da Administração Pública Federal Direta".
+Por fim, "requer o provimento do agravo interno, para que, reconsiderada a r. decisão impugnada, seja declarado competente o Juízo Federal da 1ª Vara de Lages - SJ/SC.
+Contudo, considerando que a decisão ora atacada, de fls. 660/662e fora reconsiderada, para conhecerdo Conflito edeclarar competente oJUÍZO DE DIREITO DA VARA DA FAZENDA PÚBLICA ACIDENTES DE TRABALHO E REGISTROS PÚBLICOS DE LAGES - SC(suscitado), julgo prejudicado o presente Agravo interno.
+I.
