@@ -1,0 +1,5 @@
+DECISÃO
+Às e-STJ fls. 7.383/7.397,MARIO JOSE POLONI alega que, "desde o nascedouro do presente feito, o Suplicante teve sua empresa totalmente indisponibilizada, ou seja, contas bloqueadas e respectivamente valores. Assim, em outras palavras, o Suplicante está VEDADO e IMPOSSIBILITADO de exercer seu labor, fazendo com que, evidentemente, prejudique sua vida financeira e de seus familiares que dependem do mesmo", motivo pelo qual requer a revogação da medida cautelar.
+Ocorre que o conflito de competência não é o instrumento adequado para a apreciação do pedido formulado na presente petição, o qual deverá ser dirigido aoJUÍZO DE DIREITO DA 5ª VARA CRIMINAL DE VITÓRIA-ES, o competentepara decidir acerca das medidas urgentes até o julgamento final do presente incidente, conforme decisões de e-STJ fls. 4.247/7.248 e e-STJ fls. 7.300/7.305.
+Diante disso, indefiro o pedido.
+Publique-se. Intime-se. Após, voltem-me os autos conclusos para a apreciação do Agravo Regimental de e-STJ fls. 7.310/7.376.
