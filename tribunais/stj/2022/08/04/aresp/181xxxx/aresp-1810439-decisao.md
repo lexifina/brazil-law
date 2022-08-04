@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ASSOCIAÇÃO DE CABOS E SOLDADOS DA POLICIA MILITAR E BOMBEIRO MILITAR DO ESTADO DE MATO GROSSO DO SUL (ASSOCIAÇÃO), contra decisão que negou seguimento ao seu apelo nobre manejado, por sua vez, contra acórdão do Tribunal de Justiça do Mato Grosso do Sul (TJMS), assim ementado:
+APELAÇÃO CÍVEL - AÇÃO DE COBRANÇA CUMULADA COM DANOS MORAIS E PEDIDO DE ANTECIPAÇÃO DE TUTELA - PRESCRIÇÃO - PRELIMINAR REJEITADA - MÉRITO - AFASTAMENTO DOS DANOS MORAIS - MERO ABORRECIMENTO - SENTENÇA PARCIALMENTE MODIFICADA - RECURSO CONHECIDO E PROVIDO.
+Afasta-se a preliminar de prescrição, porque a a contagem do prazo prescricional só tem início quando nasce a pretensão da ação, o que ocorreu a partir da data em que o requerente soube que seu nome não estava incluído na listagem de beneficiados na ação coletiva ajuizada pela ré (01/02/16) e não a partir do ajuizamento daquela demanda.
+O mero dissabor não pode ser alcançado ao patamar de dano moral, mas somente aquela agressão que exacerbada, que causa fundadas aflições ou angústias no espírito de quem ela se dirige, o que não restou minimamente demonstrado nos autos, ônus que incumbia ao demandante. (e-STJ, fl. 321)
+Os embargos de declaração opostos por ASSOCIAÇÃO foram rejeitados (e-STJ, fls. 358/365).
+Irresignada, a ASSOCIAÇÃO interpôs recurso especial, com base no art. 105, III, alínea a, da CF, apontando a violação dos arts. 489 do NCPC, 205, 206, §§ 1º a 5º do CC/02.
+Afirmou que (1)haveria deficiência de fundamentação, porque o TJMS decidiu contrariamente à orientação adotada anteriormente em outro julgado daquela própria Corte sem fazer nenhum tipo de distinção; e(2) estariaprescrita a pretensão do autor, pois o termo inicial para contagem do prazo seria a data da propositura da ação, em maio de 2004.
+O recurso não foi admitido pelo TJMS (e-STJ, fls. 388/394).
+Nas razões do presente agravo, a ASSOCIAÇÃO alegou que não incidem os óbices apontados na decisão de inadmissibilidade.
+Foi apresentada contraminuta.
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que não merece prosperar.
+(1) Negativa de prestação jurisdicional
+O TJMS não estava obrigado a se manifestar sobre o acórdão indicado, quesupostamente adota entendimento contrário àquele albergado no própriorecorrido, porque referido acórdão não constituia precedentevinculante.
+Com efeito, o art. 489, § 1º, do NCPC, nos termos do qual o julgador estáobrigado a realizar o distinguishing para deixar de seguir orientaçãofixada em precedente invocado pela parte deve ser interpretadoconjuntamente com oart. 927, III,do NCPC que impõe aos juízes etribunais observarem os acórdãos em incidente de assunção de competênciaou de resolução de demandas repetitivas e em julgamento de recursosextraordinário e especial repetitivos.
+A propósito:
+CIVIL. PROCESSUAL CIVIL. AÇÃO DECLARATÓRIA DE EXISTÊNCIA DE RELAÇÃO DEPARENTESCO ENTRE IRMÃOS. DEVER DE FUNDAMENTAÇÃO. ART. 489, §1º, VI, DOCPC/15. INOBSERVÂNCIA DE SÚMULA, JURISPRUDÊNCIA OU PRECEDENTE CONDICIONADAÀ DEMONSTRAÇÃO DE DISTINÇÃO OU SUPERAÇÃO.APLICABILIDADES ÀS SÚMULAS E
+PRECEDENTES VINCULANTES, MAS NÃO ÀS SÚMULAS E PRECEDENTES PERSUASIVOS.LEGITIMIDADE ATIVA. EXISTÊNCIA.PRETENSÃO PRÓPRIA E AUTÔNOMA DEDUZIDA PORQUEM AFIRMA SER IRMÃO DA FALECIDA E PRETENDE EXERCER O DIREITOPERSONALÍSSIMO DE INVESTIGAR A SUA ORIGEM GENÉTICA E ANCESTRALIDADE, BEMCOMO EXERCER DIREITO SUCESSÓRIO. REVELAÇÃO DE OUTROS VÍNCULOS BIOLÓGICOSNÃO INVESTIGADOS EM VIDA. IRRELEVÂNCIA. QUESTÃO QUE NÃO SERÁ EXAMINADA EMCARÁTER PRINCIPAL. INTERESSE PROCESSUAL. EXISTÊNCIA. MEDIDA NECESSÁRIAPARA O RECONHECIMENTO DO VÍNCULO DE IRMANDADE E PARA CONCORRER NA SUCESSÃODA IRMÃ PRÉ-MORTA. AÇÃO DECLARATÓRIA ADEQUADA.INVIABILIDADE DE EXAME DAQUESTÃO NO BOJO DO PRÓPRIO INVENTÁRIO.IMPOSSIBILIDADE JURÍDICA DO PEDIDO.CONDIÇÃO DA AÇÃO NO CPC/73.QUESTÃO DE MÉRITO NO CPC/15. INEXISTÊNCIA DEVEDAÇÃO EXPRESSA OU IMPLÍCITA DA PRETENSÃO NO ORDENAMENTO JURÍDICOBRASILEIRO.INAPLICABILIDADE DA REGRA DO ART. 1.614 DO CC/2002. DISSÍDIOJURISPRUDENCIAL. DESSEMELHANÇA DAS QUESTÕES FÁTICAS.
+ ..
+3- A regra do art. 489, §1º, VI, do CPC/15, segundo a qual o juiz, para
+deixar de aplicar enunciado de súmula, jurisprudência ou precedente
+invocado pela parte, deve demonstrar a existência de distinção ou de
+superação, somente se aplica às súmulas ou precedentes vinculantes, masnão às súmulas e aos precedentes apenas persuasivos. Precedente.
+(REsp 1.892.941/SP, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, DJe 8/6/2021)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. ART. 489, §1º, VI, DO CPC. OBRIGATORIEDADE RELACIONADA A SÚMULAS E PRECEDENTES VINCULANTES.
+1. A alegada negativa de prestação jurisdicional não se efetivou no caso dos autos, uma vez que não se vislumbra omissão, obscuridade ou contradição no acórdão recorrido capaz de tornar nula a decisão impugnada no especial, porquanto a Corte de origem apreciou a demanda de modo suficiente, havendo se pronunciado acerca de todas as questões suscitadas nos embargos, apenas adotando entendimento contrário aos interesses da parte recorrente.
+2. O "art. 489, §1º, VI, do CPC/15, possui, em sua essência, uma indissociável relação com o sistema de precedentes tonificado pela nova legislação processual, razão pela qual a interpretação sobre o conteúdo e a abrangência daquele dispositivo deve levar em consideração que o dever de fundamentação analítica do julgador, no que se refere à obrigatoriedade de demonstrar a existência de distinção ou de superação, limita-se às súmulas e aos precedentes de natureza vinculante, mas não às súmulas e aos precedentes apenas persuasivos" (AgInt no AREsp 1843196/RJ, Rel. Min. Nancy Andrighi, Terceira Turma, DJe 22/09/2021).
+3. "Com exceção dos precedentes vinculantes previstos no rol do art. 927 do CPC, inexiste obrigação do julgador em analisar e afastar todos os precedentes, acórdãos e sentenças, suscitados pelas partes" (AgInt no AREsp 1427771/SP, Rel. Min. Luis Felipe Salomão, Quarta Turma, DJe 27/06/2019).
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.907.813/MS, relator Ministro LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 13/12/2021, DJe de 15/12/2021.)
+(2) Prescrição
+O Tribunal estadual, ao julgar a apelação, entendeu que não estava prescrita a pretensão, aplicando a teoria da actio nata. Confira-se:
+Colhe-se dos autos que Tôni Fabiano Vacchiano, ajuizou a presente demanda em face do apelante, aduzindo, em síntese, que associou-se à requerida em 21.10.2003 e, em 2016, tomou conhecimento de que no ano de 2004 a requerida havia ajuizado uma ação declaratória de nº 001.04.121255-0 em que que pleiteou a correção monetária da verba denominada Etapa de Alimentação, sem que seu nome fosse incluído na referida demanda. Relata que a sentença não favorável de 1º grau foi reformada em segunda instância e que os cálculos do valor devido a cada representado foi de R$ 13.047,95 (treze mil, quarenta e sete reais e noventa e cinco centavos), mas que não receberá tal correção ante a omissão da requerida em relação à inclusão do seu nome naquele feito. Assim, requereu a condenação da ré a lhe ressarcir o montante de R$ 13.047,95, além de danos morais a serem arbitrados em R$ 13.000,00.
+ ..
+Ora, no caso versado, a contagem do prazo prescricional só tem início quando nasce a pretensão da ação e, no caso, isto não se deu a partir do ajuizamento da ação coletiva, mas sim, da data em que o requerente soube que seu nome não estava incluído na listagem de beneficiados (01/02/16), até porque antes disso, se mostraria incerta a cobrança processada no presente feito.
+Assim, considerando que a ciência do autor deu-se em 01/02/16, o que não é impugnado pela ré, não há que falar em prescrição, já que a ação fora ajuizada em 03/04/17. (e-STJ, fls. 322/323).
+A conclusão adotada na origem encontra-se em consonância com a jurisprudência deste Superior Tribunal de Justiça, no sentido de que, o prazo prescricional tem início quando o titular do direito subjetivo violado obtém plena ciência da lesão e de toda a sua extensão.
+Nessa direção:
+RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. AÇÃO DE COBRANÇA. PRESCRIÇÃO. TEORIA DA "ACTIO NATA". PRAZO PRESCRICIONAL QUINQUENAL.
+1. Controvérsia: Recurso especial da demandada impugnando o acórdão proferido na apelação cível interposta pelo demandante, que reformou a sentença proferida em ação de cobrança em que o juízo de primeiro grau reconhecera a prescrição, extinguindo o processo, com resolução do mérito, com fundamento na teoria da "actio nata".
+2. Ausência de preparo: Consoante a jurisprudência do Superior Tribunal de Justiça, a parte que não comprova o pagamento do preparo a tempo e modo, sem o amparo de justa causa, nem efetua o recolhimento em dobro quando intimado, sofre a pena da deserção. Na hipótese dos autos, verificada a ausência de recolhimento tempestivo do preparo, mas tendo sido providenciado o seu pagamento em dobro, não incide o Enunciado n.º 187, da Súmula de Jurisprudência do Superior Tribunal de Justiça.
+3. Termo inicial da prescrição: Segundo a teoria da "actio nata", conforme destacado pelo juízo de primeiro grau e reconhecido pela jurisprudência do Superior Tribunal de Justiça, a pretensão de cobrança do credor nasce com a ciência inequívoca da lesão e de sua extensão pelo titular do direito violado.
+4. Prazo de prescrição: Tratando-se de dívida líquida constante de instrumento particular, a pretensão de cobrança prescreve no prazo de 5 (cinco) anos, nos termos do art. 206, § 5º, inciso I, do Código Civil.
+5. RECURSO ESPECIAL CONHECIDO E PROVIDO .
+(REsp n. 1.919.523/DF, relator Ministro PAULO DE TARSO SANSEVERINO, Terceira Turma, julgado em 21/6/2022, DJe de 23/6/2022.)
+Nessas condições, CONHEÇO do agravo para CONHECER PARCIALMENTE do recurso especial e NEGAR-LHE provimento.
+MAJORO em 5% o valor dos honorários advocatícios anteriormente fixados em favor de TONI FABIANO VACCHIANO, limitados a 20%, nos termos do art. 85, § 11, do NCPC.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL. AÇÃO DE COBRANÇA CUMULADA COM DANOS MORAIS E ANTECIPAÇÃO DE TUTELA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO VERIFICADA. PRESCRIÇÃO. NÃO CONFIGURAÇÃO. NECESSIDADE. ACTIO NATA. CIÊNCIA INEQUÍVOCA. LESÃO E SEUS EFEITOS.HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO EM PARTE NÃO PROVIDO.
