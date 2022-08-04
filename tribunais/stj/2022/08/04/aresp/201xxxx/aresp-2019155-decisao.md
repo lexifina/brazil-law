@@ -1,0 +1,59 @@
+DECISÃO
+Trata-se de agravo interposto porGEAP AUTOGESTÃO EM SAÚDE contra decisão de inadmissibilidade do recurso especial, fundamentada na deserção do recurso especial, pela ausência de comprovação do recolhimento em dobro das custas, mesmo após prévia intimação para tal finalidade.
+Em suas razões de agravo, a parte agravante alega o pagamento das custas em 23/6/2021, "eis que juntado comprovante emitido pelo banco com o mesmo código de barras da Guia de Recurso juntada, não havendo motivo para a negativa de processamento do mesmo".
+Contraminuta não apresentada (e-STJ, fl. 627).
+É o relatório. Decido.
+Nos termos da jurisprudência desta Corte, sob a vigência do Código de Processo Civil de 2015, o recurso é deserto quando a parte, mesmo após prévia intimação para regularização do preparo, não comprovar o deferimento da gratuidade de justiça, não recolher em dobro ou não complementar o valor devido, conforme o caso.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. PREPARO. COMPROVAÇÃO. AUSÊNCIA. INTIMAÇÃO. ART. 1.007, § 4º, DO CPC/2015. JUNTADA DE COMPROVANTE ILEGÍVEL. DESERÇÃO. DECISÃO MANTIDA.
+1. "A jurisprudência desta Corte é no sentido de que se configura deserção se, após a intimação, nos termos do § 4º do art. 1.007 do Código de Processo Civil de 2015, a parte recorrente não comprovar o pagamento ou não o efetuar em dobro" (AgInt nos EAREsp 719.811/RJ, Rel. Ministro HUMBERTO MARTINS, CORTE ESPECIAL, julgado em 18/10/2017, DJe 27/10/2017).
+2. No caso, apesar de os agravantes terem sido intimados para juntar a comprovação do preparo (guia faltante) e efetuar o recolhimento em dobro (art. 1.007, § 4º, do CPC/2015), anexaram comprovante ilegível, o que obsta o conhecimento do recurso, tendo em vista a impossibilidade de uma segunda intimação para correção do novo defeito.
+3. Agravo interno a que se nega provimento.
+(AgInt nos EREsp n. 1.710.524/SP, relator Ministro Antonio Carlos Ferreira, Segunda Seção, julgado em 18/5/2021, DJe de 24/5/2021.)
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EMRECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. PREPARO INCOMPLETO. INTIMAÇÃO. ART. 1.007, § 2º, DO CPC. JUNTADA DE COMPROVANTE ILEGÍVEL. DESERÇÃO. DECISÃO MANTIDA.
+1. O recurso especial deve ser reconhecido deserto se, depois da intimação nos termos do art. 1.007, § 2º, do CPC, a parte não comprovar ser beneficiária da gratuidade da justiça, ter pago o preparo no momento da interposição ou o recolhimento determinado no prazo assinalado pelo Juízo.
+2. Apesar de intimada, na forma do § 2º do art. 1.007 do CPC, para completar o preparo, a parte anexou comprovante ilegível, o que obsta o conhecimento do recurso, tendo em vista a impossibilidade de uma segunda intimação para correção do novo defeito.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.030.990/PR, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 23/5/2022, DJe de 26/5/2022.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PREPARO. NÃO COMPROVAÇÃO NO ATO DE INTERPOSIÇÃO. INTIMAÇÃO PARA RECOLHIMENTO EM DOBRO. NÃO OBSERVÂNCIA DO PRAZO ASSINALADO. APLICAÇÃO DA PENA DE DESERÇÃO. IRREGULARIDADE NA REPRESENTAÇÃO PROCESSUAL. INTIMAÇÃO PARA REGULARIZAÇÃO DO VÍCIO. NÃO SANEAMENTO NO PRAZO LEGAL. AGRAVO NÃO PROVIDO.
+1. Na égide do CPC/2015, não havendo a comprovação do recolhimento do preparo no ato da interposição do recurso, após intimado, o recorrente deverá realizar o recolhimento em dobro, sob pena de deserção (art. 1004, caput e § 4º, do CPC).
+2. O CPC/2015 é expresso em afirmar que, caso o recolhimento não seja comprovado no momento de interposição do recurso, ele deve ser realizado em dobro.
+3. A apresentação de comprovante de pagamento após a decurso do prazo do art. 1.007, § 4º, do CPC/2015, leva à deserção do recurso. Incidência da Súmula 187 do STJ. Precedentes.
+4. Descumprindo a norma no sentido de comprovar o respectivo preparo no ato de interposição do recurso e não atendendo a determinação legal de, após intimado, efetuar o recolhimento em dobro no prazo assinalado, é de rigor que à parte recorrente seja imposta a pena de deserção do recurso.
+5. O entendimento do STJ é no sentido de que a ausência da procuração e/ou da cadeia completa dos substabelecimentos impossibilita o conhecimento do recurso, nos termos da Súmula 115 do STJ.
+6. A parte recorrente, embora devidamente intimada para a regularização da representação processual, não procedeu à juntada tempestiva da procuração e/ou da cadeia completa dos substabelecimentos conferindo poderes ao subscritor do recurso especial.
+7. Agravo interno não provido.
+(AgInt no REsp n. 1.949.693/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 25/4/2022, DJe de 27/4/2022.)
+Além disso, "a jurisprudência do Superior Tribunal de Justiça é firme no sentido de ser essencial à comprovação do preparo a juntada da guia de recolhimento com o respectivo comprovante de pagamento, no ato da interposição do especial, sob pena de deserção" (AgInt nos EDcl no AREsp n. 1.590.568/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 13/6/2022, DJe de 17/6/2022.).
+No mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. ASSINATURA DIGITALIZADA OU ESCANEADA. IMPOSSIBILIDADE DE AFERIÇÃO DA AUTENTICIDADE. SÚMULA 115/STJ. INCIDÊNCIA. AUSÊNCIA DA GUIA DE RECOLHIMENTO DO PREPARO. IRREGULARIDADE. DESERÇÃO. NÃO PROVIMENTO.
+1. A assinatura digitalizada ou escaneada não permite a aferição de sua autenticidade, por se tratar de inserção de imagem em documento que não pode ser confundida com a assinatura digital que se ampara em certificado digital emitido por Autoridade Certificadora credenciada, a qual possui previsão legal.
+2. A jurisprudência do STJ entende que é essencial a guia de recolhimento para comprovação do preparo efetuado. Quando não apresentada ou apresentada em branco, dificultando a vinculação do recolhimento com o recurso apresentado, opera-se a deserção.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.606.689/PA, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 15/3/2021, DJe de 19/3/2021.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREPARO. COMPROVAÇÃO. AGENDAMENTO BANCÁRIO. INTIMAÇÃO PARA SANEAMENTO DO VÍCIO. JUNTADA APENAS DO COMPROVANTE DE PAGAMENTO, SEM A GUIA DE RECOLHIMENTO. DESERÇÃO. AGRAVO INTERNO NÃO PROVIDO.
+1. O comprovante de agendamento bancário é insuficiente para demonstrar o recolhimento do preparo. Dessa forma, o recorrente será intimado para sanar o vício apontado (art. 1004, caput e § 7º, do CPC/15).
+2. De acordo com entendimento do STJ, "(..) A comprovação do preparo do recurso especial deve ser feita mediante a juntada, no ato da interposição do recurso, das guias de recolhimento devidamente preenchidas, além dos respectivos comprovantes de pagamento. A juntada apenas do comprovante de pagamento das custas processuais, desacompanhado da respectiva guia de recolhimento, é insuficiente à comprovação do preparo. (..)". (AgInt no REsp 1622574/RS, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 20/04/2017, DJe 27/04/2017).
+3. Inarredável, pois, a incidência do óbice da Súmula 187/STJ: "É deserto o recurso interposto para o Superior Tribunal de Justiça, quando o recorrente não recolhe, na origem, a importância das despesas de remessa e retorno dos autos".
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.631.204/PE, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 15/12/2020, DJe de 2/2/2021.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AUSÊNCIA DA GUIA DE RECOLHIMENTO DAS CUSTAS. DESERÇÃO. SÚMULA 187/STJ.
+1. Na decisão monocrática da Presidência do STJ ficou consignado:
+"No caso, não foram recolhidas as custas devidas ao Superior Tribunal de Justiça. Ademais, percebeu-se, no Tribunal de origem, haver irregularidade no recolhimento do preparo. A parte, embora regularmente intimada para sanar referido vício, não regularizou, limitando-se a informar que "(..) ao tentar emitir a guia no site do STJ, consta a informação de que não há custas"(fl. 1.080).
+Ressalte-se que, em consulta ao sítio do STJ, não há certificação de indisponibilidade no sistema de emissão da GRU cobrança no período em que a parte deveria efetuar o recolhimento. Dessa forma, o recurso especial não foi devida e oportunamente preparado, incidindo, na espécie, o disposto na Súmula n. 187 do STJ, o que leva à deserção do recurso" (fls. 1.172-1.173, e-STJ).
+2. Assim, no caso, não foram recolhidas as custas devidas ao Superior Tribunal de Justiça, o que atrai a incidência, na espécie, o disposto na Súmula 187 do STJ e leva à deserção do recurso em virtude da não comprovação do recolhimento integral do preparo.
+3. A jurisprudência assente no STJ dispõe que o comprovante de pagamento das custas processuais deve estar acompanhado da guia de recolhimento do preparo, ambos de forma visível e legível, sob pena de deserção, e não é possível sua comprovação posterior.
+4. Agravo Interno não provido.
+(AgInt no AREsp n. 2.052.094/MG, relator Ministro Herman Benjamin, Segunda Turma, julgado em 27/6/2022, DJe de 29/6/2022.)
+No caso dos autos, oTribunal de origem fundamentou a deserção do recurso especial interposto pela ora agravante, GEAP, nos seguintes termos, sem grifos no original(e-STJ, fls. 598-599):
+II. Os recursos não devem ser admitidos.
+As partes recorrentes foram instadas a suprir a ausência do preparo recursal, mediante o pagamento em dobro das custas judiciais dos recursos especiais, nos termos do artigo 1.007, § 4º, do NCPC.
+Entretanto, não desempenharam tal ônus, na medida em que, cada uma das recorrentes, comprovou apenas o preparo na forma simples, no valor de R$ 202,89.
+Isso porque, consoante se verifica dos documentos acostados ao Evento 37, a recorrente GISELE DOS SANTOS NOGUEIRA, em que pese tenha juntado, além do comprovante referente à guia de custas trazida junto com a petição recursal, um segundo comprovante de pagamento, não foi juntada a guia correspondente a este último, não sendo possível, portanto, aferir a regularidade do referido pagamento.
+Do mesmo modo, a recorrente GEAP - FUNDAÇÃO SEGURIDADE SOCIAL, conforme se denota da petição do Evento 38, acostou somente o comprovante de pagamento referente à guia de custas juntada quando da interposição do recurso especial, deixando decomprovar novo recolhimento simples.
+Revela-se, assim, desatendida a regra contida no artigo 1.007 do CPC/15, de modo que, conforme a jurisprudência do Superior Tribunal de Justiça, o reconhecimento da deserção do recurso é medida se impõe.
+Com efeito,mesmo após a intimação para recolhimento em dobro,pelo descumprimento da regular comprovação do preparo na ocasião da interposição do recurso especial (art. 1.007, § 4º, do CPC/2015), houve apenas a comprovação do recolhimento simples do preparo efetuado naquela oportunidade, conforme admitido pela própria parte agravante. Portanto, não foi efetuado novopagamentosimples do valor das custas, para cumprimento da imposição legalde pagamentodobrado em saneamento do preparo recursal.
+Desse modo, é evidente a deserção do recurso especial, motivo pelo qual dele não se pode conhecer.
+Diante do exposto, conheço do agravo para não conhecer do recurso especial.
+Com supedâneo no art. 85, § 11, do CPC/2015, majoro os honorários advocatícios devidos pela parte agravante de R$ 3.600,00 (três mil e seiscentos reais) para R$ 3.960,00 (três mil, novecentos e sessenta reais).
+Publique-se.
