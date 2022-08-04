@@ -1,0 +1,14 @@
+DECISÃO
+DWANE KENYATTA ANDRE DANIELS interpõe recurso especial, com base no art. 105, III, "a", da Constituição Federal de 1988, contra acórdão proferido pelo Tribunal Regional Federal da 1 ª Região, nos autos da Apelação n. 002176-74.2012.4.01.4200.
+Consta dos autos que, após julgamento em segunda instância, o recorrente foi condenado a 2 anos e 8 meses de reclusão, como incurso no art. 338 do Código Penal.
+Neste recurso especial, a defesa sustenta a violação dos arts. 59, 65, III, "d"; 67 e 68, todos do Código Penal, ao afirmar que a fixação da pena-base acima do mínimo legal foi lastreada em elementos inerentes ao tipo penal, bem como a possibilidade de compensação da confissão espontânea com a reincidência.
+A defesa requer "seja conhecido e provido o presente Recurso Especial para que seja reformado o v. acórdão, de modo a reduzir a pena -base fixada para o recorrente para o mínimo legal, com os devidos reajustes nas demais fases, em respeito aos artigos 59 e 68 do CP  bem como  seja compensada a atenuante da confissão coma circunstância agravante da reincidência".
+O Parquet Federal oficiou pelo parcial provimento do recurso, in verbis:
+PENAL. RECURSO ESPECIAL. REINGRESSO DE ESTRANGEIRO EXPULSO EM TERRITÓRIO NACIONAL. DOSIMETRIA. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. PERSONALIDADE E CONDUTA SOCIAL. MOTIVAÇÃO INIDÔNEA. ALEGAÇÃO DE CONTRARIEDADE AO ART. 67 DO CP. ATENUANTE DA CONFISSÃO ESPONTÂNEA. AGRAVANTE DA REINCIDÊNCIA. COMPENSAÇÃO. IMPOSSIBILIDADE. CONCURSODE CIRCUNSTÂNCIAS AGRAVANTES E ATENUANTES. FIXAÇÃO DA PENA PAUTADA DENTRO DOS LIMITES INDICADOS PELAS CIRCUNSTÂNCIAS PREPONDERANTES. PRECEDENTES DO STF. PARECER PELO CONHECIMENTO E PROVIMENTO PARCIAL DO RECURSO ESPECIAL, PARA QUE SEJA RETIFICADA A DOSIMETRIA DA PENA EFETUADA PELAS INSTÂNCIAS ORDINÁRIAS. (fl. 381)
+Após regular trâmite, dei parcial provimento ao recurso especial, a fim de reduzir a pena-base e compensar parcialmente a reincidência com a confissão espontânea e, por conseguinte, tornar a reprimenda definitiva em de 1 ano, 5 meses e 15 dias de reclusão, mantidos os demais termos do acórdão recorrido.
+A Defensoria Pública da União, nesta petição, pleiteou o reconhecimento da extinção da punibilidade ante a superveniência da prescrição da pretensão punitiva.
+Decido.
+Com razão a DPU, visto que a denúncia foi recebida em 05/03/2012, a sentença condenatória restou publicada em 03/12/2012 e o acórdão, que confirmou a sentença, foi julgado em 22/07/2014.
+Assim, verifico terem transcorridos mais de 4 anos entre o último marco interruptivo e a presente data, nos termos do art. 109, V, do Código Penal, segundo o qual "a pretensão punitiva prescreve em quatro anos, se o máximo da pena é igual a um ano ou, sendo superior, não excede a dois".
+À vista do exposto, reconheço ocorrência da prescrição da pretensão punitiva estatal e declaro, por consequência, extinta a punibilidade do ora agravante.
+Publique-se e intimem-se.
