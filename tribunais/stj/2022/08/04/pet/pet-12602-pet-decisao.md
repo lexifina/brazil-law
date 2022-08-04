@@ -1,0 +1,7 @@
+DECISÃO
+Às fls. 7-10, e-STJ, aINVESTVALE -CLUBE DE INVESTIMENTO DOS EMPREGADOS DA VALE requer "que a presente questão de ordem seja processada de forma incidental nos autos do EREsp nº 1280825/RJ, com a suspensão do referido recurso até que se defina a validade e os limites da tese repetitiva" , alegando, para tanto, "ter o pedido de revisão de tese repetitiva se originado no julgamento do recurso acima destacado, no qual figura como Embargante a ora Requerente, sendo evidente que a conclusão da presente questão de ordem afetará diretamente o resultado daquele julgado"(fl. 8, e-STJ).
+É O BREVE RELATO. DECIDO.
+De acordo com o § 1º do art. 256-S do RISTJ, "arevisão ocorrerá nos próprios autos do processo julgado sob o rito dos recursos repetitivos, caso ainda esteja em tramitação, ou será objeto de questão de ordem, independentemente de processo a ela vinculado".
+Na espécie, tanto o REsp 1.360.969/RS, como o REsp 1.361.182/RS, que foram julgados sob o rito dos recursos repetitivos, vinculados ao tema 610/STJ, transitaram em julgado e já estão, inclusive,com baixa definitiva ao Tribunal de origem.
+Diante disso, segundo o disposto na norma regimental, a revisão proposta deve ser objeto de questão de ordem, independentemente de processo a ela vinculado-como o foi-, não havendo falar em processamento incidental em recurso não vinculado ao tema a ser revisado.
+Forte nessas razões, indefiro o pedido.
