@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de recurso especial interposto peloESTADO DA PARAÍBA, com fundamento no art. 105, III, alínea a, da Constituição Federal, contra o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DA PARAÍBA.
+Na instância de origem, a parte ora recorrenteinterpôs apelação contra sentença que extinguiu o processo, sem resolução do mérito. Oautor buscava aexecução forçada de acórdão do Tribunal de Contas do Estado da Paraíba.
+Valor da execução: R$ 5.000,00 (cinco mil reais), em agosto/2017.
+Segundo a sentença (fl. 31),
+Não sendo pessoal, a citação postal apresenta-se falha, na medida em que fragiliza a concretização de seus fins: formação da relação processual válida, direito de preferência de nomeação de bens a penhora pelo devedor ou pagamento, tornando-se, além de deficiente, também nula.
+Na hipótese dos autos, indeferida a citação postal e concedido prazo para pagamento das despesas com a diligência do oficial de justiça o exequente não o fez, inviabilizando o desenvolvimento válido e regular do processo.
+O Tribunal a quo negou provimento ao recurso, em acórdão assim ementado (fl. 88):
+AGRAVO INTERNO - APELAÇÃO CÍVEL NÃO CONHECIDA - AÇÃO DE EXECUÇÃOFORÇADA - SENTENÇA QUE EXTINGUIU O FEITO, SEM RESOLUÇÃO DO MÉRITO, POR AUSÊNCIA DE PAGAMENTO DAS DILIGÊNCIAS DE OFICIAL DE JUSTIÇA - ALEGAÇÃO DE DESNECESSIDADE DE RECOLHIMENTO DAS CUSTAS E DE POSSIBILIDADE DE CITAÇÃO POSTAL - MATÉRIA JÁ ANALISADA EM DECISÃO ANTERIOR - PRECLUSÃO - AUSÊNCIA DE RAZÕES SUFICIENTES PARA INFIRMAR AS CONCLUSÕES ADOTADAS. DESPROVIMENTO.
+Verificando-se que a matéria discutida no apelo já foi abordada em decisão anterior, transitada em julgado, resta inadmissível o conhecimento do recurso, face aos efeitos da preclusão. Deve ser desprovido o Agravo Interno quando a parte apenas objetiva rediscutir a decisão que lhe foi desfavorável, não apresentando argumentos novos capazes de infirmar os fundamentos da decisão agravada.
+Nas razões do recurso especial, o Estado alega violação dos arts. 247, 249, 489, § 1º, IV, 1.022, II, parágrafo único, II, e art. 1.013. §§ 1º e 2º, do CPC/2015.
+Afirma que "não houve preclusão do tema, porque a controvérsia foi decidida na sentença, enfrentada pelo juiz e impugnada na apelação, devendo ser conhecida e reexaminada por esta Corte Estadual" (fl. 105).
+Aduz ainda que, embora opostos embargos de declaração, o acórdão recorrido manteve-se omisso quanto à controvérsia sobre a citação e o âmbito de devolutividade da apelação.
+Sem contrarrazões.
+É o relatório. Decido.
+Não conheço do recurso especial no tocante à alegação de ofensa aosarts. 489 e 1.022 do CPC/2015, visto que não há nos autos registro de que foram opostos embargos de declaração na instância de origem.
+Conforme o acórdão recorrido:
+Como se vê, o Estado/exequente traz à tona, neste recurso, matéria (relativa ao requerimento de citação postal e de prescindibilidade do recolhimento das custas de Oficial de Justiça) já preclusa, porque resolvida em manifestação judicial anterior à sentença, contra a qual a parte não apresentou recurso.
+Em se tratando de Ação de Execução, a decisão que indeferiu a citação postal e determinou o recolhimento das custas de Oficial de Justiça seria recorrível através de Agravo de Instrumento, na forma do parágrafo único do art. 1.015 do CPC.
+Não tendo a parte interposto o recurso adequado, no momento oportuno, há de ser ter como preclusa a matéria, o que impede o conhecimento do apelo, consoante proclamado por esta Corte, em casos idênticos:  ..
+Segundo ajurisprudência desta Corte, sujeitam-se à preclusão consumativa as questões decididas no processo, inclusive as de ordem pública, que não tenham sido objeto de impugnação recursal no momento próprio. Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO FISCAL. INDEFERIMENTO DA REALIZAÇÃO DE PERÍCIA TÉCNICA REQUERIDA PELO CONTRIBUINTE PELO JUÍZO SINGULAR. AUSÊNCIA DE IMPUGNAÇÃO RECURSAL. PRECLUSÃO. INEXISTÊNCIA DE CERCEAMENTO DE DEFESA.
+I - Na origem, o contribuinte apresentou embargos à execução fiscal, requerendo a realização de perícia técnica, pedido que foi indeferido pelo juízo monocrático por meio de decisão interlocutória que não restou impugnada. O Tribunal de origem, ao apreciar a apelação interposta pelo contribuinte, determinou a anulação da sentença, tendo em vista que a negativa de realização de perícia técnica resultaria em cerceamento de defesa.
+II - A jurisprudência do Superior Tribunal de Justiça é pacífica no sentido de que a matéria apreciada pelo juízo singular em decisão interlocutória, que não tenha sido impugnada por meio de recurso próprio, encontra-se acobertada pela preclusão, não sendo possível ao Tribunal de origem analisar novamente a questão. Precedentes: REsp 1276048/SP, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 16/12/2014, DJe 12/02/2015 e AgRg no REsp 1013225/SC, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 16/12/2008, DJe 04/02/2009.
+III - Recurso Especial provido para (i) restabelecer a sentença proferida pelo juízo monocrático, ante a preclusão da questão referente à ausência de necessidade de realização de perícia técnica, (ii) anular o v. acórdão recorrido e (iii) determinar o retorno dos autos ao Tribunal de origem para que as apelações interpostas pela Fazenda Nacional e pelo contribuinte sejam novamente apreciadas pelo julgador a quo.
+(REsp 1754328/RS, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 05/03/2020, DJe 17/03/2020).
+PROCESSUAL CIVIL E ADMINISTRATIVO. VIOLAÇÃO AOS ARTS. 458 E 535 DO CPC. AUSÊNCIA. MANDADO DE SEGURANÇA. DECADÊNCIA. DECISÃO ANTERIOR NÃO IMPUGNADA. PRECLUSÃO.
+1. Sobre a aludida afronta ao art. 535, incs. I e II, do CPC, nota-se que houve manifestação expressa da corte de origem acerca da alegação de decadência formulada pela Fazenda Pública, bem como sobre a aplicação do art. 18 da Lei n. 1.533/51.
+2. Quanto à aventada ofensa ao art. 301, § 4º, do CPC, bem como ao art. 18 da Lei 1.533/51, em razão do entendimento segundo o qual houve a preclusão em relação à matéria de decadência, não merece prosperar a arguição do recorrente. De fato, esta Corte pacificou-se no sentido de que, decidida a questão relativa à decadência quando do saneamento da causa, a ausência de impugnação recursal pela parte sucumbente acarreta a preclusão, não podendo assim a matéria ser renovada e examinada no recurso de apelação. Precedentes.
+3. Recurso especial parcialmente conhecido e, nessa parte, não provido.
+(REsp 1256371/MS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 16/08/2011, DJe 24/08/2011).
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL  AÇÃO DE OBRIGAÇÃO DE FAZER  DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO RECLAMO  INSURGÊNCIA RECURSAL DA REQUERENTE.
+1. A parte agravante refutou, nas razões do agravo em recurso especial, a aplicação da Súmula 7/STJ, não incidindo, portanto, o óbice da Súmula 182/STJ. Necessidade de conhecimento do agravo em recurso especial e julgamento de plano.
+2. Consoante iterativa jurisprudência desta Corte, sujeitam-se à preclusão consumativa as questões decididas no processo, inclusive as de ordem pública, que não tenham sido objeto de impugnação recursal no momento próprio. Inafastável o óbice da Súmula 83/STJ.
+2.1. A ausência de enfrentamento da matéria objeto da controvérsia pelo Tribunal de origem impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento. Incidência da Súmula 282/STF.
+3. A conclusão a que chegou o Tribunal de origem, relativa à ausência de prova da celebração do contrato de compra e venda, fundamenta-se nas particularidades do contexto que permeia a controvérsia. Incidência das Súmulas 5 e 7 do STJ.
+3. Agravo interno provido para reconsiderar a decisão da Presidência desta corte (fls. 591-593). Agravo em recurso especial desprovido.
+(AgInt no AREsp 1764458/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 24/05/2021, DJe 28/05/2021).
+Ante o exposto, com esteio no art. 255, § 4º, I e II, do RISTJ, conheço parcialmente do recurso especial para, nessa parte, negar-lhe provimento.
+Não houve fixação de honorários advocatícios nas instâncias de origem,por isso não se aplica a majoração do art. 85, § 11, CPC/2015.
+Publique-se. Intimem-se.
