@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo interposto por MAIS PVC INDÚSTRIA E COMÉRCIO LTDA. e OUTRAS contra decisão de inadmissibilidade do recurso especial apresentado em desafio a acórdão proferido pelo Tribunal de Justiça do Estado de Goiás assim ementado:
+AGRAVO DE INSTRUMENTO. RECUPERAÇÃO JUDICIAL. IMPUGNAÇÃO AO CRÉDITO. CESSÃO FIDUCIÁRIA. GARANTIA LIQUIDADA. EXCLUSÃO.QUESTÃO NÃO REFUTADA. Inadmissível ao Agravante invocar a exceção prevista no art. 49, § 3º, da Lei nº 11.101/05, se os créditos garantidores dos contratos foram liquidados anteriormente ao ajuizamento da ação de recuperação judicial, cuja questão não foi, especificamente, refutada. AGRAVO DE INSTRUMENTO CONHECIDO E DESPROVIDO. DECISÃO MANTIDA.
+Os embargos de declaração opostos foram acolhidos, apenas para fixar honorários advocatícios recursais em desfavor da parte então agravante (e-STJ, fls. 391-401 e 604-610).
+Em suas razões de recurso especial, a parte agravante alegou violação dos arts. 85, §§ 2º e 8º, do CPC/2015, defendendo a fixação de honorários advocatícios sucumbenciais com base nos limites entre 10% e 20% sobre o proveito econômico obtido, consistente no crédito submetido à recuperação judicial multiplicado pelo deságio estabelecido na classificação creditória correspondente.
+Asseverou a inexistência de inovação recursal, porque o precedente que estabeleceu a forma de cálculo dos honorários advocatícios, REsp 1.746.789/RS, foi publicado 2 (dois) meses após a interposição do agravo de instrumento.
+Contrarrazões não apresentadas (e-STJ, fl. 1.095).
+É o relatório. Decido.
+Do recurso especial não se pode conhecer, por ausência de prequestionamento, óbice da Súmula 211/STJ, porque, mesmo após a oposição de embargos de declaração,o Tribunal de origem não analisou oscritérios e base de cálculo para afixaçãodos honorários advocatícios sucumbenciais, mas apenas da majoração dos honorários em grau recursal ou dos honorários recursais, com fundamento na preclusão da questão.
+Conforme fundamentação do acórdão recorrido, não houve impugnação ao arbitramento da aludida verba pelo Juízo de primeiro grau, a qual somente foideduzida por ocasião da oposição de embargos de declaração ao agravo de instrumento, na instância recursal (e-STJ, fl. 607).
+Cumpre destacar que não se trata unicamente da aplicabilidade de precedente sobre o assunto, mas da ausência de impugnação sobre a fixação da verba honorária quando ela foi efetuada em primeira instância, notadamenteporque o recurso de agravo de instrumento originário foi interposto pela parte ora agravada, discutindo apenas a exclusão deseu crédito darecuperação judicial.
+Diante do exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
