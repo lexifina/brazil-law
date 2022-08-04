@@ -9,7 +9,7 @@ VII - desconto, ato de descontar na folha de pagamento ou em momento anterior ao
 VIII - remuneração disponível, os vencimentos, subsídios, soldos, salários ou remunerações, descontadas as consignações compulsórias.
 § 1º Para os fins desta Lei, são consideradas consignações voluntárias as autorizadas pelo empregado.
 § 2º No momento da contratação da operação, a autorização para a efetivação dos descontos permitidos nesta Lei observará, para cada mutuário, os seguintes limites:
-I - a soma dos descontos referidos no art. 1º não poderá exceder a 35% (trinta e cinco por cento) da remuneração disponível, conforme definido em regulamento, sendo 5% (cinco por cento) destinados exclusivamente para:
-a) a amortização de despesas contraídas por meio de cartão de crédito; ou
-b) a utilização com a finalidade de saque por meio do cartão de crédito; e
+I - a soma dos descontos referidos no art. 1º desta Lei não poderá exceder a 40% (quarenta por cento) da remuneração disponível, conforme definido em regulamento;
+a) (revogada);
+b) (revogada);
 II - o total das consignações voluntárias, incluindo as referidas no art. 1º, não poderá exceder a quarenta por cento da remuneração disponível, conforme definida em regulamento.
