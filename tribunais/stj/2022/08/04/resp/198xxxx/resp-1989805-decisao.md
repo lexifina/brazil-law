@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo Tribunal Regional Federal da 2ª Região,assim ementado (fl. 68):
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. PEDIDO DE ATRIBUIÇÃO DE EFEITOSUSPENSIVO INDEFERIDO. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PEDIDO DELEVANTAMENTO DE BLOQUEIO JUDICIAL INDEFERIDO. AUSÊNCIA DE PROVAS QUECOMPROVEM AS ALEGAÇÕES. AGRAVO INTERNO. PERDA SUPERVENIENTE DO OBJETO. DECISÃO NÃO RESTA TERATOLÓGICA. AGRAVO INTERNO PREJUDICADO E RECURSODESPROVIDO.
+1. Trata-se de AGRAVO DE INSTRUMENTO, interposto por JOSÉ TASSO OLIVEIRA DE ANDRADE, com pedido de atribuição de efeito suspensivo, alvejando decisão que, nos autos de execução de título extrajudicial, indeferiu o pleito de liberação de numerário penhorado por meio do Sistema BACENJUD, no valor de R$ 611,31 (Evento 257, dos autos do processo principal).
+2. Agravo Interno prejudicado, por perda superveniente do objeto, em virtude do julgamento do presente recurso.
+3. Na hipótese, infere-se do escorreito entendimento da Nobre Magistrada de primeiro grau que não restou demonstrada a alegada natureza de impenhorabilidade do valor bloqueado, e que, "não há dispositivo legal que justifique a liberação do valor bloqueado por meio do sistema BACENJUD apenas porque é considerado baixo pela parte interessada no desbloqueio". Logo, o mero inconformismo da parte, sem provas robustas para justificar o pedido vislumbrado, nada mais é que exposição de contrariedade à decisão agravada, com questões meramente subjetivas, tendo sido o tema bem tratado e decidido pela Nobre Julgadora monocrática.
+4. Conforme entendimento desta Egrégia Corte, apenas em casos de decisão teratológica, com abuso de poder ou em flagrante descompasso com a Constituição, a Lei ou com a orientação consolidada de Tribunal Superior ou deste Tribunal, seria justificável sua reforma pelo órgão ad quem, em agravo de instrumento (AG 2010.02.01.017607-0, Sexta Turma Especializada, Rel. Des. Fed. Guilherme Couto,EDJF2R 14/02/2011; AG 2010.02.01.007779-1, Sétima Turma Especializada, Rel. Des. Fed. José Antonio Lisboa Neiva, E-DJF2R 01/02/2011).
+5. Agravo Interno prejudicado, por perda de objeto, e Agravo de Instrumento desprovido.
+Embargos de declaração rejeitados (fls. 119/120).
+O recorrente alega violação doart. 489, § 1º, I, e art. 1.022, II, e par. único, II, do CPCao argumento de que a Corte de origem não se manifestou a respeito de pontos importantes ao deslinde da controvérsia.
+Quanto àquestão de fundo, sustenta ofensa ao art. 833, X, do CPC/2015 por defender que o valor penhorado não poderia ter sido bloqueado ante a comprovação de se tratarem de proventos de aposentadoria, enquadrado nas hipóteses de impenhorabilidade.
+Com contrarrazões (fls. 170/172).
+Juízo positivo de admissibilidade às fls. 179/180.
+É o relatório. Passo a decidir.
+Consigne-se que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+De início, não se conhece da suposta afronta aosarts. 489, § 1º, e 1.022, II, do CPC/2015, pois o recorrente não apresentou qualquer argumento a ensejar a apreciação da ofensa aos referidos normativos. Incide à hipótese a Súmula 284/STF.
+No que se refere à impenhorabilidade, o Tribunal de origem fundamenta que (fl. 66):
+(..) Para o reconhecimento de impenhorabilidade, não basta a mera alegação, presunção e/ou suposição de seremos valores provenientes de proventos. O fato deve ser robustamente comprovado nos autos para análise pelo Juízo, mediante a demonstração da correlação direta entre o provento percebido e o montante constrito, o que não ocorreu.
+Assim, tem-se que a revisão da conclusão a que chegou o Tribunal de origem sobre a questão demanda o reexame dos fatos e provas constantes nos autos, o que é vedado no âmbito do recurso especial. Incide ao caso a Súmula 7/STJ.
+Além disso, oalegado dissídio jurisprudencial não foi comprovado nos moldes estabelecidos nos artigos 1.029, § 1º, do CPC/2015 e 255, § 1º do RISTJ, tendo em vista que não foi realizado o devido cotejo analítico, com a demonstração clara do dissídio entre os casos confrontados, identificando os trechos que os assemelhem, não se oferecendo, como bastante, a simples transcrição de ementas ou votos.
+Ante o exposto, não conheço do recurso especial.Caso tenham sido fixados honorários sucumbenciais anteriormente pelas instâncias ordinárias, majoro-os em 10%, observados os limites e parâmetros dos §§ 2º, 3º e 11 do artigo 85 do CPC/2015 e eventual Gratuidade da Justiça (§ 3º do artigo 98 do CPC/2015).
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. SÚMULA 284/STF. IMPENHORABILIDADE.REVISÃO. SÚMULA 7/STJ.DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO.RECURSO ESPECIAL NÃO CONHECIDO.
