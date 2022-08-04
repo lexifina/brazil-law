@@ -1,0 +1,26 @@
+DECISÃO
+Vistos etc.
+Trata-se de recurso especial interposto por GERD FREHSE - ESPOLIO em face de acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+EMENTA: AGRAVO DE INSTRUMENTO Cumprimento de Sentença Penhora Incidência sobre crédito do executado - Precatório relativo a crédito salarial devido há mais de 20 anos, estando o credor já falecido, de maneira quenão subsiste a justificativa para impenhorabilidade, por não se destinar a manutenção do executado e atendimento as suas necessidades mínimas - Recurso desprovido.
+Os embargos de declaração foram rejeitados.
+No recurso especial, o recorrente aponta ofensa aos arts. 832 e 833, IV e § 2º, do CPC, alegando que (a) a constrição determinada sobre oscréditos do executado,de natureza alimentar e objeto de mandado de segurança impetrado pelo Sindicato dos Médicos do Estado de São Paulo, consiste em evidente violação de garantia legal de impenhorabilidade, além de configurar excesso de penhora, (b) a impenhorabilidade salarial não visa proteger apenas o devedor, já falecido, mas também sua famíliaque continua viva, (c) ofato do referido valor não haver sido pago na época própria não afasta a proteção legal, e (d) noplano subsidiário, ainda que seja reconhecida a penhorabilidade dos vencimentos em questão, o Tribunal não observoua reserva legal de 50 (cinquenta) salários-mínimos mensais, que deve ser estabelecido por herdeiro.
+Sem contrarrazões.
+É o relatório.
+Passo a decidir.
+O recurso especial não merece prosperar.
+O recorrente, ora executado,busca olevantamento da penhora lançada no rosto dos autos de mandado de segurança em que figura como credor de verbas salariais pretéritas, a serem recebidas por meio de precatório.
+O Tribunal de origem negou provimento ao agravo de instrumento, consignando o que se segue:
+O precatório em questão é relativo a crédito salarial devido há mais de 20 anos, estando o credor já falecido, de maneira que não subsiste a justificativa para impenhorabilidade que, segundo Daniel Amorim Assumpção Neves1, visa obstar "indevida invasão em direitos mínimos da dignidade do executado, interferindo diretamente em sua manutenção, no que tange às necessidades mínimas de habitação, transporte, alimentação, vestuário, educação, saúde, etc", não se excepcionando nas hipóteses do inciso IV do art. 833 do CPC/2015.
+O disposto na parte final do § 2º do art. 833 do CPC/2015 refere-se a possibilidade de penhora de vencimentos, subsídios, soldos, etc, sobre o que excede a 50 salários mínimos mensais, o que não é o caso, nadahavendo a reclamar sobre o piso de 40 salários mínimos, o que não pode ser considerado em relação a cada herdeiro, uma vez que o devedor é o Espólio.
+Ainda que por outros fundamentos, a conclusão do acórdão recorrido não merece reparos.
+Inobstante a existência de precedentes do STJ, no sentido de que a natureza do crédito alimentar não se altera com o mero decurso do tempo(AgInt noAREsp 1519579/RS, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em17/02/2020, DJe 19/02/2020 e AgInt no AREsp 1748314/RS, Rel. MinistraNANCY ANDRIGHI, TERCEIRA TURMA, julgado em 18/05/2021, DJe 20/05/2021), esta Corte também perfilha o entendimento de que"Em situações excepcionais, admite-se a relativização da regra de impenhorabilidade das verbas salariais prevista no art. 833, IV, do CPC/2015, a fim de alcançar parte da remuneração do devedor para a satisfação do crédito não alimentar, preservando-se o suficiente para garantir a sua subsistência digna e a de sua família" (AgInt nos EREsp n. 1.701.828/MG, Relatora Ministra NANCY ANDRIGHI, SEGUNDA SEÇÃO, julgado em 16/6/2020, DJ e 18/6/2020).
+No caso, admitida a possibilidade de relativização da regra de impenhorabilidade efixadoo "piso de 40 salários mínimos", ao fim e ao cabo, perfilhou-se o entendimento desta Corte sobre o tema, preservando-se, por outro lado, o suficiente para a garantia da subsistência da família remanescente.
+Ademais, o acolhimento do pedido deampliação da quantia impenhorávelexigiria exceder os fundamentos do acórdão impugnado e adentrar no reexame das provas, procedimentos vedados em recurso especial, a teor da Súmula 7/STJ.
+Em derradeiro, o pedido para que o critério de impenhorabilidade seja aplicado "por herdeiro"carece da mínima plausibilidade jurídica, pois significaria ampliar, sem previsão legal, os limites de impenhorabilidade, reconhecendo-se aos herdeiros mais garantias do que seria deferido eventualmente ao próprio devedor originário.
+Ademais, por vias transversas, estar-se-ia colocando em risco eventual satisfação de crédito de terceiros, uma vez que, a teor do art. 769 do CPC, oespólio responde pelas dívidas do falecido.
+Diante do exposto, nego provimento ao recurso especial.
+Advirto que a apresentação de incidentes protelatórios poderá dar azo àaplicação de multa.
+Intime-se.
+EMENTA
+RECURSO ESPECIAL. PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. PENHORA SOBRE CRÉDITO DO EXECUTADO, JA FALECIDO.PRECATÓRIO RELATIVO A DIFERENÇASSALARIAISDEVIDAS HÁ MAIS DE VINTE ANOS.NATUREZA SALARIAL DO CRÉDITO.IMPENHORABILIDADE.MITIGAÇÃO. POSSIBILIDADE. PRESERVAÇÃO DO MÍNIMO EXISTENCIALDA FAMÍLIA DO EXECUTADO. PRECEDENTEDA CORTE ESPECIAL.
+RECURSO ESPECIAL DESPROVIDO.
