@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por MARCELLINO MARTINS IMOBILIÁRIA S.A. (MARCELLINO IMOBILIÁRIA) contra decisão que negou seguimento ao seu apelo nobre manejado, por sua vez, contra acórdão do Tribunal de Justiça do Rio de Janeiro assim ementado:
+Apelações cíveis. Ação renovatória e ação revisional. Locação não residencial. Julgamento conjunto. Sentença que decreta a renovação contratual reajustando o valor dos alugueis. Inexistência de julgamento extra petita ou de nulidade por cerceamento de defesa. Questão deduzida na inicial da demanda renovatória sobre a qual as partes tiveram ampla possibilidade de se manifestarem. Questão remanescente que se resumiu ao preço da locação. Laudo pericial produzido nos autos devidamente fundamentado. Ausência de impugnação idônea capaz de afastar a conclusão do perito, que deve ser prestigiada diante de sua equidistância dos interesses das partes. Apelos manejados na ação renovatória parcialmente providos para se considerar o valor da causa como base de cálculo para fixação dos honorários advocatícios. Redistribuição dos ônus sucumbenciais na ação revisional em razão de ter sido evidenciada a sucumbência recíproca. Sentença parcialmente reformada. Provimento parcial dos recursos (e-STJ, fl. 1.014).
+Os embargos de declaração opostos por SWEET CROSS e por MARCELLINO MARTINS IMOBILIÁRIA S.A. (MARCELLINO IMOBILIÁRIA) foram rejeitados (e-STJ, fls. 1.051/1.055).
+Irresignada, MARCELLINO IMOBILIÁRIA interpôs recurso especial com base no art. 105, III, alínea a, da CF, apontando a violação aos arts. 54, 69 e71 da Lei nº 8.245/91;112 e 113 da Lei nº 10.406/02; e 9, 10, 86, 141 e 492 do NCPC, ao sustentar (1) a validade da cláusula décima do contrato de locação; e (2)a necessidade deretorno dos autos à primeirainstância para a realização de prova pericial contábil a fim de averiguar o descumprimento contratual(e-STJ, fls. 1.077/1.093).
+O recurso não foi admitido pelo TJRJ (e-STJ, fls. 1.148/1.156).
+Nas razões do presente agravo, MARCELLINO IMOBILIÁRIA alegou que não incidem os óbices apontados na decisão de inadmissibilidade (e-STJ, fls. 1.199/1.203).
+É o relatório.
+Decido.
+De plano vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+O agravo em recurso especial de MARCELLINO IMOBILIÁRIAencontra-se prejudicado, diante do provimento do especial deSWEET CROSS, no qual determinei o retorno dos autos ao Tribunal Estadual para que analisasse as questões trazidas em seus embargos de declaração.
+Nessas condições, JULGO PREJUDICADO o agravo em recurso especial de MARCELLINO IMOBILIÁRIA.
+Por oportuno, previno as partes que a interposição de recurso contra essa decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação das penalidades fixadas nos arts. 1.021, §4º ou 1.026, §2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. MARCELLINO IMOBILIÁRIA.AÇÕES RENOVATÓRIA E REVISIONAL.NECESSIDADE DE RETORNO DOS AUTOS PARA SUPRIR OMISSÕESCONFIGURADAS. AGRAVO EM RECURSO ESPECIAL PREJUDICADO.
