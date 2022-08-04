@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de recurso especial interposto por RUAN LACERDA MARTINS (RUAN), com fundamento no art. 105, III, alínea c, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+APELAÇÃO CÍVEL. ALIENAÇÃO FIDUCIÁRIA. REVISÃO DE CONTRATO. DA APLICAÇÃO DO CDC E DOS CONTRATOS DE ADESÃO. RELAÇÃO CONSUMERISTA CONFIGURADA. PRESENÇA DE CONSUMIDOR E FORNECEDOR; ARTS. 2º E 3º DA LEI 8009/90. SÚMULA 297, STJ. LEI PROTETIVA APLICÁVEL AO CASO CONCRETO. CAPITALIZAÇÃO DE JUROS. A INCIDÊNCIA DA CAPITALIZAÇÃO DE JUROS É PERMITIDA, MAS DESDE QUE CONSTE SUA PACTUAÇÃO DE FORMA EXPRESSA NO INSTRUMENTO CONTRATUAL, NOS TERMOS DO RESP Nº 973.827-RS, DE RELATORIA DA MIN. MARIA ISABEL GALLOTTI. COMO ESTE É O CASO DOS AUTOS, A CAPITALIZAÇÃO É MANTIDA. SEGURO DE PROTEÇÃO FINANCEIRA. APLICAÇÃO DO ENTENDIMENTO EXARADO NOS RESP N. 1.639.259/SP E RESP N. 1.639.320/SP - TEMA 972/STJ. "NOS CONTRATOS BANCÁRIOS EM GERAL, O CONSUMIDOR NÃO PODE SER COMPELIDO A CONTRATAR SEGURO COM A INSTITUIÇÃO FINANCEIRA OU COM SEGURADORA POR ELA INDICADA." VENDA CASADA CONFIGURADA, AFASTADA SUA PACTUAÇÃO. CABIMENTO DA MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS. APELO PARCIALMENTE PROVIDO(e-STJ, fl. 135)
+Irresignado, RUANinterpôs recurso especial, com fundamento no art. 105, III, alínea c, da CF, alegando que o Tribunal de origem interpretou de forma diversa os arts. 6º, 46, 47,52, I a III, da Lei nº 8.078/90, 28, § 1º, I, da Lei nº 10.931/2004,insurgindo-se contra a cobrança da capitalização diária dos juros, por ausência de expressa previsão contratual.
+O apelo nobre foi admitido na origem (e-STJ, fls. 213/218).
+É o relatório.
+DECIDO.
+O recurso não merece provimento.
+Da capitalização diária de juros.
+É assente nesta Corte Superior o entendimento segundo o qual é permitida a capitalização dos juros com periodicidade inferior a um ano, desde que pactuada de forma expressa e clara, em contratos bancários celebrados a partir de 31/3/2000, data da publicação da Medida Provisória nº 1.963-17/2000 (em vigor como MP 2.17036/2001), abrangendo a possibilidade da capitalização diária de juros.
+Nesse sentido, confiram-se os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO. CAPITALIZAÇÃO DIÁRIA. MP 2.17036/2001. APLICAÇÃO DA SÚMULA 83 DO STJ. CARACTERIZAÇÃO DA MORA. RECURSO A QUE SE NEGA PROVIMENTO.
+1. A eg. Segunda Seção do STJ, em sede de julgamento de recurso especial representativo da controvérsia, firmou tese no sentido de que: (a) "É permitida a capitalização de juros com periodicidade inferior a um ano em contratos celebrados após 31.3.2000, data da publicação da Medida Provisória n. 1.963-17/2000 (em vigor como MP 2.17036/2001), desde que expressamente pactuada"; e (b) "A capitalização dos juros em periodicidade inferior à anual deve vir pactuada de forma expressa e clara. A previsão no contrato bancário de taxa de juros anual superior ao duodécuplo da mensal é suficiente para permitir a cobrança da taxa efetiva anual contratada" (REsp 973.827/RS, Ministra MARIA ISABEL GALLOTTI, Rel. p/ acórdão SEGUNDA SEÇÃO, julgado em 08/08/2012, DJe de 24/09/2012).
+2. Na hipótese, o acórdão recorrido consignou a existência de pactuação de capitalização diária, razão pela qual não está a merecer reforma. Precedentes do STJ.
+3. O reconhecimento da validade dos encargos exigidos no período da normalidade contratual (juros remuneratórios e capitalização) implica a caracterização da mora.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp nº 1.004.751/MS, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), Quarta Turma, DJe de 25/10/2017, sem destaque no original)
+AGRAVO INTERNO NO RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. CÉDULA DE CRÉDITO BANCÁRIO. CAPITALIZAÇÃO
+DIÁRIA. MP 2.170-36/2001. APLICAÇÃO DA SÚMULA 83 DO STJ. RECURSO A QUE SE NEGA PROVIMENTO.
+1. A eg. Segunda Seção do STJ, em sede de julgamento de recurso especial representativo da controvérsia, firmou tese no sentido de que: (a) "É permitida a capitalização de juros com periodicidade inferior a um ano em contratos celebrados após 31.3.2000, data da publicação da Medida Provisória n. 1.963-17/2000 (em vigor como MP 2.17036/2001), desde que expressamente pactuada"; e (b) "A capitalização dos juros em periodicidade inferior à anual deve vir pactuada de forma expressa e clara. A previsão no contrato bancário de taxa de juros anual superior ao duodécuplo da mensal é suficiente para permitir a cobrança da taxa efetiva anual contratada" (REsp 973.827/RS, Rel. p/ acórdão Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, julgado em 08/08/2012, DJe de 24/09/2012).
+2. Na hipótese, o acórdão recorrido consignou a existência de pactuação de capitalização diária, razão pela qual não está a merecer reforma. Precedentes do STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp nº 1.670.119/SC, Rel. Ministro RAUL ARAÚJO, Quarta Turma, julgado aos 29/8/2017, DJe de 21/9/2017, sem destaque no original)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. DUPLICIDADE DE PETIÇÕES. PRECLUSÃO CONSUMATIVA. CONTRATO BANCÁRIO. CAPITALIZAÇÃO MENSAL DE JUROS. PACTUAÇÃO EXPRESSA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A duplicidade de recursos interpostos pela mesma parte litigante, ante a incidência da preclusão consumativa, resulta no não conhecimento daquele que foi protocolizado por último.
+3. No julgamento do REsp nº 973.827/RS, submetido à sistemática dos recursos repetitivos, restou decidido que nos contratos firmados após 31/3/2000, data da publicação da Medida Provisória nº 1.963-17, admite-se a capitalização dos juros em periodicidade inferior a 1 (um) ano, desde que pactuada de forma clara e expressa, assim considerada quando prevista a taxa de juros anual em percentual pelo menos 12 (doze) vezes maior do que a mensal.
+4. Agravo interno de fls. 614/932 e-STJ não provido. Agravo interno de fls. 718/736 e-STJ não conhecido.
+(AgInt nos EDcl no AREsp 1.179.653/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, DJe 7/8/2018)
+Na hipótese dos autos, TJRS consignou que:
+No caso em comento, verifico tratar-se de contrato de Cédula de Crédito Bancário em que a capitalização foi expressamente pactuada na periodicidade diária (cláusula M). Logo, é perfeitamente legal a sua pactuação nesta periodicidade, devendo ser mantida nestes termos (e-STJ, fl. 132).
+Assim, rever as referidas conclusões demandaria a apreciação do conjunto fático-probatório dos autos e de cláusulas contratuais, o que encontra óbice nas Súmulas nºs 5 e 7/STJ.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO REVISIONAL. 1. CAPITALIZAÇÃO DE JUROS. ILEGALIDADE. AUSÊNCIA DE PACTUAÇÃO. FUNDAMENTO DO ACÓRDÃO RECORRIDO NÃO IMPUGNADO NAS RAZÕES DO RECURSO ESPECIAL. INCIDÊNCIA DA SÚMULA 283/STF, POR ANALOGIA. 2. AINDA QUE SUPERADO ESSE ÓBICE, INCIDIRIA A SÚMULA 7/STJ. 3. CAPITALIZAÇÃO DIÁRIA. INOVAÇÃO RECURSAL. PRECLUSÃO CONSUMATIVA. 4. AGRAVO INTERNO DESPROVIDO.
+1. Considerando que nem todos os fundamentos do acórdão recorrido foram objeto de impugnação específica nas razões do recurso especial, é imperiosa a incidência, à hipótese, do óbice da Súmula n. 283 do Supremo Tribunal Federal.
+2. A alteração do entendimento firmado no aresto impugnado - acerca da ausência de pactuação da capitalização de juros - só seria possível mediante o revolvimento do acervo fático-probatório do respectivo processo, providência vedada nesta instância extraordinária em decorrência do disposto na Súmula 7 do STJ.
+3. Constatado que o agravante se utiliza do presente recurso para inaugurar o debate de questão não arguida por ocasião da interposição do recurso especial, é caso de incidência do instituto da preclusão consumativa, ante a evidente inovação recursal.
+4. Agravo interno desprovido.
+(AgInt no REsp n. 1.641.471/SC, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 27/6/2017, DJe de 2/8/2017.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO REVISIONAL DE CONTRATO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DOS DEMANDADOS.
+1. Conforme já decidiu esta Corte Superior, será presumido o benefício gerado à entidade familiar nas hipóteses em que a dívida for contraída por empresa cujos únicos sócios são marido e mulher, ou quando se tratar de firma individual, salvo nos casos em que o proprietário do bem objeto da constrição comprovar que o benefício não foi revertido para a família. Incidência da Súmula 83/STJ.
+1.1. Rever questão decidida com base no exame das circunstâncias fáticas da causa esbarra no óbice da Súmula 7 do Superior Tribunal de Justiça.
+2. A previsão no contrato bancário de taxa de juros anual superior ao duodécuplo da mensal é suficiente para caracterizar a expressa pactuação e permitir a cobrança da taxa efetiva anual contratada.
+2.1 Para o acolhimento da tese dos insurgentes no sentido de que não estaria em questão a capitalização mensal de juros, mas sim a cobrança de capitalização diária, seria imprescindível revisitar os termos do contrato estabelecido entre as partes, providência inviável em sede de recurso especial ante os óbices das Súmulas 5 e 7/STJ.
+3. Muito embora a alienação fiduciária de imóveis tenha sido introduzida no ordenamento jurídico pela Lei nº 9.514/1997, que dispõe sobre o Sistema Financiamento Imobiliário, seu alcance ultrapassa os limites das transações relacionadas à aquisição de imóvel. A lei não exige que o contrato de alienação fiduciária de imóvel se vincule ao financiamento do próprio bem, de modo que é legítima a sua formalização como garantia de toda e qualquer obrigação pecuniária. Precedentes.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 1.307.645/MS, relator Ministro Marco Buzzi, Quarta Turma, julgado em 23/4/2019, DJe de 26/4/2019.)
+Nessas condições, CONHEÇO do recurso especial e NEGO-LHE PROVIMENTO.
+MAJORO em 5% o valor dos honorários advocatícios anteriormente fixados em desfavor de RUAN, limitados a 20%, nos termos do art. 85, § 11, do NCPC, devendo ser observada a concessão da justiça gratuita.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL. RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO REVISIONAL. ALIENAÇÃO FIDUCIÁRIA. CAPITALIZAÇÃO DIÁRIA DE JUROS. CONTRATAÇÃO. INSURGÊNCIA. SÚMULAS NºS 5 E 7 DO STJ.RECURSO ESPECIAL CONHECIDO E NÃO PROVIDO.
