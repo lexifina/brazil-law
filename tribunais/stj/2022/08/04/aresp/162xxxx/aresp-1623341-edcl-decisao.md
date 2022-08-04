@@ -1,0 +1,12 @@
+DECISÃO
+TRIBUTÁRIO. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PIS. COFINS. BASEDE CÁLCULO. ICMS-ST. SUBSTITUIÇÃO TRIBUTÁRIA. EXCLUSÃO.MATÉRIA AFETADA À SISTEMÁTICA DOS RECURSOS REPETITIVOS. RECURSOS ESPECIAIS 1.958.265/SP E 1.896.678/RS (TEMA 1.125/STJ). EMBARGOS DE DECLARAÇÃOACOLHIDOS PARA TORNAR SEM EFEITO A DECISÃO EMBARGADA. RETORNO DOS AUTOS DOPROCESSO, SOBRESTANDO-O NO TRIBUNAL DE ORIGEM. APÓS, PROSSEGUIR COM OFEITO NOS TERMOS DOS ARTS. 1.040 E 1.041 DO CPC/2015.
+1. Cuida-se de embargos de declaração no agravo em recurso especial opostos por WENDLAND FARMACIA LTDA., à decisão de fls. 634/638, de relatoria do Ministro Napoleão Nunes Maia Filho, assimementada:
+TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. ICMS. BASE DE CÁLCULO. PIS E COFINS. NÃO INCIDÊNCIA. ACÓRDÃO RECORRIDO FUNDADO EM PRECEDENTE DO SUPREMO TRIBUNAL FEDERAL EM REPERCUSSÃO GERAL. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL DA FAZENDA NACIONAL (fl. 634).
+2. Sustenta a parte embargante omissãono julgado quanto à"exclusão do ICMS-ST sobre a base de cálculo do PIS e da COFINS" (fl. 645).
+3. Requer, por fim, o acolhimento dos embargos de declaração para o fim de sanar a omissãoapontada.
+4. Não houve impugnação ao recurso apresentado (fl. 653).
+5. É o relatório.
+6. A questão debatida nos autos, qual seja, a possibilidade de exclusão do valor correspondente ao ICMS-ST da base de cálculo da contribuição ao PIS e da COFINS devidas pelo contribuinte substituído, encontra-se afetada à Primeira Seção desta Corte Superior, aguardando o julgamento dos REsps1.958.265/SP e 1.896.678/RS (Tema 1.125), da relatoria do Ministro GURGEL DE FARIA, sob o rito dos recursos repetitivos.
+7. A admissão de recurso especial como representativo da controvérsiaimpõe o sobrestamento dos processos em que forem interpostos recursos naorigem, cuja matéria se identifique com o tema afetado, para que, tão logo concluído o julgamento no Superior Tribunal de Justiça, seja oinconformismo apreciado na forma dos arts. 1.040 e 1.041 do CPC/2015.
+8. Pelo exposto, acolhem-se os embargos de declaração para tornar sem efeito a decisão de fls. 634/638, ao passo que se determina a devoluçãodos autos ao Tribunal de origem, com a devida baixa nesta Corte Superior,a fim de que, em observância aos arts. 1.039 a 1.041 do CPC/2015, após apublicação do acórdão dos citados recursos excepcionais representativos dacontrovérsia, o Tribunal de origem proceda nos termos do art. 1.040 eseguinte do CPC/2015.
+9. Publique-se. Intimações necessárias.
