@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo interposto por CIRILO FLAVIO DOS SANTOS contra decisão que negou seguimento ao recurso especial interposto, com fundamento na alínea "a" do permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado de Minas Gerais.
+Consta dos autos que oTribunal de Justiça deu provimento ao recurso do Ministério Público do Estado de Minas Gerais para condenar o ora agravante, como incurso noart. 1º, IIc/c §3º, da Lei 9.455/1997,àpenade 4 anos de reclusão em regime inicial fechado,nos termos da seguinte ementa (e-STJ fls. 581):
+APELAÇÃO CRIMINAL. TORTURA QUALIFICADA PELA LESÃO CORPORAL GRAVE. RECURSO MINISTERIAL. PLEITO CONDENATÓRIO. POSSIBILIDADE. MATERIALIDADE E AUTORIA DELITIVA DEVIDAMENTE COMPROVADA. PALAVRA DA VÍTIMA CORROBORADA PELAS FIRMES DECLARAÇÕES DE TESTEMUNHAS. CONJUNTO PROBATÓRIO QUE EVIDENCIA A OCORRÊNCIA DE SOFRIMENTO FÍSICO E MENTAL COM A FINALIDADE DE CASTIGAR O OFENDIDO. LAUDO PERICIAL QUE DEMONSTRA A INEQUÍVOCA LESÃO CORPORAL DE NATUREZA GRAVE. RECURSO PROVIDO.
+- Se o conjunto probatório demonstra de forma inequívoca a intenção dos réus de impor castigo à vitima, causando-lhe intenso sofrimento físico e mental, resta caracterizado o crime de tortura.
+- Comprovado que a tortura resultou em lesão corporal de natureza grave, tendo em vista que a vítima ficou incapaz de exercer suas ocupações habituais por mais de 30 (trinta) dias, deve ser mantida a qualificadora prevista no art. no art. 1º, II, c/c §3º da Lei 9.455/97.
+- Recurso provido.
+Os embargos de declaração opostos pela defesa foram rejeitados (e-STJ fls. 888/896).
+A acusação opôs embargos de declaração, os quais foram acolhidos paradeterminar, como efeito da condenação, a perda do cargo público pelos réus (e-STJ fls. 964/969).
+No recurso especial, a defesa aponta violação dosarts. 41, 386, VII, e 619 do Código de Processo Penal. Argumenta, em suma, que os embargos de declaração opostos pela acusação são manifestamente incabíveis, porquanto intempestivos. Sustenta que a condenação deriva de peça acusatória inepta por não especificar devidamente as circunstâncias e as condutas imputadas de forma individualizada. Alega, ainda, que não há provas hábeis há sustentar a condenação.
+Requer o conhecimento e provimento do recurso.
+Contrarrazões apresentadas pelo recorrido às fls. e-STJ 1.081/1.086.
+Negou-se seguimento ao recurso especialcom base na Súmula 7/STJ (e-STJ fls. 1.105/1.107).
+No agravo, orecorrenteinsiste na presença dos pressupostos de admissibilidade dorecurso especial.
+O Ministério Público Federal se manifestou, às e-STJ fls. 1.172/1.175, pelo desprovimento do recurso.
+É o relatório. Decido.
+O agravo é cabível, tempestivo e foram devidamente impugnados os fundamentos da decisão agravada, motivo pelo qual conheço do recurso.
+Primeiramente, em que pese o esforço argumentativo da defesa, atesede violação do art. 41 do Código de Processo Penal, não foi objeto de debate pela instância ordinária, mesmo com a apresentação de embargos de declaração, o que inviabiliza o conhecimento do recurso especial, no ponto, por ausência de prequestionamento, a teor das Súmulas n. 211/STJ e 282/STF.
+No que diz respeito à aventada intempestividadedos embargos de declaração opostos peloMinistério Público do Estado de Minas Gerais, a Corte de origem expressamente consignou, in verbis (e-STJ fl. 967):
+Primeiramente, registre-se que os Embargos de Declaração são tempestivos, uma vez que a primeira vista ao Ministério Público após o acórdão condenatório somente foi dada em 0611212019 (f. 772v), sendo que a interposição dos Embargos data de 0911212019 (f. 777), portanto, dentro do prazo legal.
+Assim, conheço dos embargos, presentes os pressupostos de sua admissibilidade.
+A respeito cumpre lembrar que aintimação dos atos processuais tem por objetivo dar conhecimento ao interessado sobre o ato praticado, permitindo-lhe, eventualmente, a ele reagir, em autêntica expressão procedimental do princípio do contraditório, o qual se efetiva no plano concreto com a participação das partes no desenvolvimento do processo e na formação das decisões judiciais. No caso do Ministério Público, a intimação, com o início da contagem do prazo para impugnar decisão judicial, efetiva-se com a entrega dos autos na repartição administrativa do órgão, sendo irrelevante que a intimação pessoal tenha se dado em audiência, em cartório ou por mandado, conforme entendimento consolidado em recurso repetitivo (REsp n. 1.349.935/SE, Rel. Ministro Rogerio Schietti, DJe 14/9/2017) -(REsp n. 1.594.250/RN, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 14/12/2021, DJe de 1/2/2022.)
+Assimsendo, não se falar, in casu, em desatenção ao prazo legal ou consequente ou ofensa ao dispostono art. 619 do Código de Processo Penal.
+Além disso, verifica-se que o Tribunal a quo reconheceu a robustez das provas obtidas no curso da instrução, concluindo que haviasubsídios suficientes para a condenação. Adesconstituição da conclusão do julgado, tal como pretende a defesa, não pode ser realizada sem nova incursão no conjunto fático-probatório, providência incabível em sede de recurso especial, ante o óbice contido na Súmula 7/STJ.
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Intimem-se.
