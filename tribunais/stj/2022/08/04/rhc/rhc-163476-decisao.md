@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto contra acórdão assim ementado (fl. 210):
+HABEAS CORPUS. Inquérito policial. Crime contra ordem tributária. Incidência de ISS. Contrato de franquia. Trancamento. Inviabilidade. Medida excepcional possível somente quando demonstrado, de forma inequívoca, manifesto descabimento do procedimento investigatório, evidente atipicidade da conduta, presença de causa de extinção da punibilidade ou ausência de indícios mínimos de autoria e materialidade. ORDEM DENEGADA, CASSANDO-SE A LIMINAR ANTERIORMENTE DEFERIDA.
+Consta dos autos que foi instaurado inquérito policial para apuração de crime contra a ordem tributária.
+Em síntese, a defesa argumenta que a abertura de inquérito jamais poderia ter ocorrido, pois a sociedade limitada não era contribuinte de ISS à época das fiscalizações e autuações. Assim, entende que não há justa causa para o início da persecução penal por ausência manifesta de dolo ou culpa (fl. 245).
+Liminarmente, busca a suspensão do inquérito; no mérito, seu trancamento.
+Indeferida a liminar e prestadas informações, o Ministério Público Federal manifestou-se pelo improvimento do recurso.
+Sobre a controvérsia, assim dispôs o Tribunal de origem (fls. 212-213):
+Como é cediço, as leis são dotadas de presunção de constitucionalidade. E, no caso em análise, o STF confirmou que a legislação é válida e eficaz.
+Logo, não cabe o pretendido trancamento do inquérito policial, medida excepcional, reservado aos casos em que há comprovação, de plano, de ausência de justa causa, caracterizada pela atipicidade da conduta supostamente praticada, falta de indícios de autoria e materialidade ou incidência de causa de extinção da punibilidade, o que não ocorre, mormente considerando o julgamento de Recurso Extraordinário, ressaltando que a obrigatoriedade da decisão ocorre a partir da publicação da ata de sessão de julgamento (16/6/20).
+A instauração do inquérito, justamente, é a busca de indícios, elementos necessários para subsidiar eventual ação penal, em cujo bojo poderá a Autoridade Judiciária,se assim entender pertinente, aplicar o disposto no CPP, art. 92 e seguintes, que trata das questões prejudiciais.
+Em face de tais motivos, não se pode acolher a pretensão de trancamento, inexistindo, ictu oculi, qualquer constrangimento ilegal a ser sanado.
+Diante do exposto, pelo meu voto, denega-se a ordem, cassando-se a liminar anteriormente deferida.
+Como se vê, o Tribunal de Justiça destacou a constitucionalidade da incidência doImposto sobre Serviços de Qualquer Natureza (ISS) sobre contratos de franquia, entendimento firmado pela Suprema Corte no RE 603.136/RJ, "o que afastaa tese veiculada na impetração, no que diz respeito à ausência da qualidade de sujeito passivo da exação", como bem resumiu o Ministério Público (fl. 285). Apontou, ainda, que não seria o caso de trancamento do inquérito policial, uma vez que não houve comprovação, de plano, de ausência de justa causa.
+Com efeito, "O trancamento prematuro de persecução penal, sobretudo em fase embrionária como a do inquérito policial e pela via estreita do writ, é medida excepcional, admissível somente quando emergem dos autos, de plano e sem necessidade de análise probatória, a absoluta falta de justa causa, a atipicidade da conduta ou a extinção da punibilidade" (RHC 150.509/MG, Relator Ministro Rogerio Schietti Cruz, 6ªTurma, DJe 27/6/2022).
+Este não é o caso dos autos, uma vez que a controvérsia acerca da incidência do referido imposto não pode ser dirimida semimersão em matéria fático-processual. Como se sabe, não pode ser no writ enfrentada argumentação dependente de revisão interpretativa dos elementos probatórios dos autos, mas, apenas, a verificação, de plano, de grave violação de direitos do recorrente, o que, na espécie, não ocorreu.
+Assim, as alegações defensivas deverão ser apreciadas pelas instâncias ordinárias no curso da instrução processual.
+Ante o exposto, nego provimento ao recurso emhabeas corpus.
+Publique-se.
+Intimem-se.
