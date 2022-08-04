@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em favor LUIZ GUSTAVO DOS SANTOS OLIVEIRA, no qual aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo, que negou provimento ao agravo, nos termos do acórdão assim ementado:
+"Agravo em execução. Cálculo de penas Decisão correta Sentenciado solto e recapturado dois anos mais tarde não pode ser considerado como pena cumprida. Livramento condicional Benefício indeferido pelo não preenchimento do requisito subjetivo Ausência de méritos do sentenciado Sentenciado que não possui valores éticos e morais necessários ao bom convívio social Prematura e temerária a concessão do benefício Em matéria de execução criminal vigora o princípio "in dubio pro societate". Decisão mantida Recurso desprovido." (e-STJ, fl. 932)
+Consta dos autos que o juízo da execução indeferiu o pedido de livramento condicional do paciente, pois ausente o requisito subjetivo, além de ter indeferido o pedido de retificação dos cálculos da pena. Irresignada, a defesa interpôs agravo em execução, ao qual foi negado provimento.
+Neste writ, alega o impetrante que o paciente está sofrendo constrangimento ilegal, pois, apesar de preencher os requisitos para a concessão do benefício do livramento condicional, o pedido foi indeferido pelas Instâncias Ordinárias.
+Aduz que "pelo cumprimento de mais da metade (1/2) da reprimenda corporal, e a legislação anterior, mais benéfica ao paciente, não dispora ausência de cometimento de falta grave nos últimos doze (12) meses como requisito para obtenção do livramento condicional" (e-STJ, fl. 19)
+Sustenta ainda que, considerando que foi posto em liberdade por equívoco dos agentes penitenciários, o período em que esteve em liberdade deveria ser computado como pena cumprida.
+Pleiteia a concessão da ordem para que o paciente seja deferido ao paciente o livramento condicional.
+O pedido liminar foi indeferido.
+O Ministério Público Federal opinou pela denegação da ordem.
+É o relatório.
+Decido.
+Esta Corte - HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus de ofício.
+Ao manter o indeferimento do pedido de livramento condicional, o Tribunal de origem explicitou as razões de seu convencimento:
+"extrai-se dos autos que o agravante possui histórico prisional conturbado, eis que praticou infração disciplinar de natureza grave, praticada recentemente, em 19/10/2020 (fl. 120 e ss.).
+Agiu com seu costumeiro acerto o Juízo "a quo" ao indeferiro pedido de concessão do livramento condicional, pelo não preenchimento do requisito subjetivo.
+Realmente, pelo conjunto de fatores levados em consideração na r. decisão recorrida, constata-se que o sentenciado não possui méritos para ser beneficiado.
+Como é cediço, para se obter o benefício do livramento condicional, é necessário que o reeducando dê seguras mostras - no curso da execução - de que ele pode ser promovido para um regime mais ameno no qual a vigilância é menos rigorosa.
+Ressalte-se ainda que, bom comportamento carcerário não se confunde com aptidão ou adaptação do condenado e muito menos serve como fator indicativo de sua readaptação social. Portanto, o deferimento de sua pretensão, nesse momento, é bastante prematura e tal atitude se revelaria temerária, uma vez que representa sério risco à sociedade.
+Assim, como em matéria de execução criminal vigora não o princípio in dubio pro reo, mas sim in dubio pro societate, é necessário que o reeducando permaneça por mais um período no regime fechado." (e-STJ, fls. 934-935)
+Na espécie, não obstante esteja presente o requisito objetivo para concessão do benefício, diferentemente do que foi alegado pelo impetrante, o paciente não possui o requisito subjetivo, uma vez que praticou falta grave em 19/10/2020.
+Nesse contexto, é forçoso concluir que o Paciente, ao tempo da decisão proferida pelo Magistrado de primeiro grau, não ostentava o "bom comportamento durante a execução da pena" exigido pelo art. 83, inciso III, alínea a, do Código Penal.
+Registro, por oportuno, que não desconheço a inclusão da alínea b no inciso III do art. 83 do Código Penal pela Lei n. 13.964/2019, introduzido com o objetivo de impedir a concessão do livramento condicional quando há falta grave nos últimos 12 (doze) meses. Todavia, isso não significa que a ausência de falta grave no mencionado período seja suficiente para satisfazer o requisito subjetivo exigido para a concessão do livramento condicional, tampouco que eventuais faltas disciplinares ocorridas anteriormente não possam ser consideradas pelo Juízo das Execuções Penais para aferir fundamentadamente o mérito do Apenado.
+"Art. 83 - O juiz poderá conceder livramento condicional ao condenado a pena privativa de liberdade igual ou superior a 2 (dois) anos, desde que:
+I - cumprida mais de um terço da pena se o condenado não for reincidente em crime doloso e tiver bons antecedentes;
+II - cumprida mais da metade se o condenado for reincidente em crime doloso;
+III - comprovado:
+a) bom comportamento durante a execução da pena;
+b) não cometimento de falta grave nos últimos 12 (doze) meses;
+c) bom desempenho no trabalho que lhe foi atribuído; e
+d) aptidão para prover a própria subsistência mediante trabalho honesto;
+IV - tenha reparado, salvo efetiva impossibilidade de fazê-lo, o dano causado pela infração;
+V - cumpridos mais de dois terços da pena, nos casos de condenação por crime hediondo, prática de tortura, tráfico ilícito de entorpecentes e drogas afins, tráfico de pessoas e terrorismo, se o apenado não for reincidente específico em crimes dessa natureza.
+Parágrafo único - Para o condenado por crime doloso, cometido com violência ou grave ameaça à pessoa, a concessão do livramento ficará também subordinada à constatação de condições pessoais que façam presumir que o liberado não voltará a delinquir."
+Assim, diante das ponderações acima expostas e considerando que o requisito disciplinado no art. 83, inciso III, alínea a, do Código Penal (bom comportamento durante a execução da pena), verifico que o indeferimento do benefício foi devidamente fundamentado pela Corte de origem.
+Nesse sentido:
+"EXECUÇÃO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. LIVRAMENTO CONDICIONAL. INDEFERIMENTO. DECISÃO FUNDAMENTADA EM ELEMENTOS CONCRETOS DA EXECUÇÃO DA PENA. PRÁTICA DE FALTAS DISCIPLINARES DE NATUREZA MÉDIA E GRAVE. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+II - Para a concessão do benefício do livramento condicional, nos termos do art. 83, do Código Penal, c.c. o art. 131 da Lei de Execução Penal, deve o reeducando preencher os requisitos de natureza objetiva (lapso temporal) e subjetiva (comprovado comportamento satisfatório durante a execução da pena, bom desempenho no trabalho que lhe foi atribuído e aptidão para prover à própria subsistência mediante trabalho honesto).
+III - In casu, segundo se pode aferir das decisões das instâncias ordinárias, a apenada cometeu, no curso da execução da pena, 1 (uma) falta disciplinar de natureza média, em 5/8/2016, e 1 (uma) falta disciplinar de natureza grave, em 6/1/2019, enquanto gozava de benefício do benefício de progressão ao regime semiaberto, o que afasta o preenchimento do requisito de natureza subjetiva, para fins de obtenção do livramento condicional.
+IV - Não se vislumbra qualquer ilegalidade no v. acórdão combatido tendo em vista as peculiaridades do caso concreto que justificam o indeferimento do benefício. Precedentes.
+Habeas corpus não conhecido." (HC 613.757/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 03/11/2020, DJe 18/11/2020.)
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. EXECUÇÃO PENAL. LATROCÍNIO. LIVRAMENTO CONDICIONAL. ART. 83 DO CP. NOVA REDAÇÃO DADA PELA LEI ANTICRIME. REQUISITO SUBJETIVO. FALTA DISCIPLINAR DE NATUREZA GRAVE. LIMITAÇÃO TEMPORAL. TRANSCURSO DE MAIS DE 12 MESES DA OCORRÊNCIA. INVIABILIDADE. NECESSIDADE DE COMPORTAMENTO SATISFATÓRIO DURANTE A EXECUÇÃO DA PENA. PARECER ACOLHIDO.
+1. O requisito previsto no art. 83, III, b, do Código Penal, inserido pela Lei n. 13.964/2019, consistente no fato de o sentenciado não ter cometido falta grave nos últimos 12 meses, é pressuposto objetivo para a concessão do livramento condicional, e não limita a valoração do requisito subjetivo necessário ao deferimento do benefício, inclusive quanto a fatos ocorridos antes da entrada em vigor da Lei Anticrime.
+2. A norma anterior já previa a necessidade de comportamento satisfatório durante a execução da pena para o deferimento do livramento condicional. E não se pode negar que a prática de falta disciplinar de natureza grave acarreta comportamento insatisfatório do reeducando. Precedentes.
+3. No caso, a fuga do paciente, no curso da execução da pena privativa de liberdade, ocorrida em 16/4/2019, serviu, nas instâncias ordinárias, como fator para considerar a ausência do pressuposto subjetivo necessário para o livramento condicional, negado em 28/4/2020.
+4. Ordem denegada." (HC 612.296/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 20/10/2020, DJe 26/10/2020.)
+No tocante à retificação dos cálculos da pena, destacou o Tribunal de origem:
+"não há de se falar em cumprimento de pena quando esta restou efetivamente interrompida, visto que o agravante se encontrou em liberdade por mais de dois anos. Assim, o sentenciado permaneceu indevidamente solto por mais de dois anos, sem que estivesse cumprindo qualquer tipo de pena, seja em regime aberto ou sujeito às condições do período de prova de livramento condicional. Inaceitável, nessa senda, que ele se beneficie ainda mais de tal fato, independentemente de equívoco do Estado. Desse modo, agiu com seu costumeiro acerto o Juízo das Execuções ao determinar a interrupção do cumprimento da pena em 1º de novembro de 2017 a º de abril de 2020, não havendo-o contabilizado com pena cumprida" (e-STJ, fl. 922).
+A solução colegiada está ancorada no argumento de que a evolução penitenciária exige a existência de custódia e da execução penal em curso, não sendo possível ao condenado que esteve em liberdade, devendo o período ser abatido da sanção aflitiva.
+Sobre a matéria, o julgado desta Corte:
+"(..) O período de liberdade não pode ser computado para fins de obtenção de benefícios na execução penal se o agravante não estava no efetivo cumprimento de sua reprimenda e nem sob a fiscalização do Estado (..)." (Agravo em Execução Penal nº 87170-20.2018.8.09.0174, DJE nº 2636, de 28/11/18).
+Nesse contexto, não verifico a ocorrência de flagrante ilegalidade no acórdão impugnado.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intime-se.
