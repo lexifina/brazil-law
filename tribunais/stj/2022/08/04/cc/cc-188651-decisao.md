@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de conflito positivo de competência, com pedido liminar, em que é suscitante VERDE TRANSPORTES LTDA. - EM RECUPERAÇÃO JUDICIAL e suscitados o JUÍZO DE DIREITO DA 1ª VARA CÍVEL DE CUIABÁ - MT e o JUÍZO DE DIREITO DA 1ª VARA DE EXECUÇÕES FISCAIS DE PORTO VELHO - RO.
+Ação em trâmite no Juízo de Cuiabá: recuperação judicial da suscitante.
+Ação em trâmite no Juízo de Porto Velho: execução fiscal, movida pelo ESTADO DE RONDÔNIA.
+Conflito de competência: alega, em síntese, que, nos termos da jurisprudência do STJ, o juízo onde tramita o processo recuperacional é o único competente para dirimir questões que afetem o patrimônio da sociedade empresária devedora, ainda que se trate de execução fiscal, sob pena de violação do princípio da preservação da empresa.
+Tutela antecipada: indeferida às fls. 114/115, e-STJ.
+Parecer do MPF: manifestou-se pelo não conhecimento do conflito de competência.
+RELATADO O PROCESSO, DECIDE-SE.
+O STJ, recentemente, assentou o entendimento de que "a caracterização de conflito de competência perante esta Corte de Justiça pressupõe a materialização da oposição concreta do Juízo da execução fiscal à efetiva deliberação do Juízo da recuperação judicial a respeito do ato constritivo" (CC 181.190, Segunda Seção, DJe 7/12/2021).
+Consoante se extrai do referido aresto, somente se verifica a configuração de conflito a ensejar a intervenção desta Corte, "se o Juízo da execução fiscal vier, concretamente, a se opor à deliberação do Juízo da recuperação judicial a respeito da constrição do bem, substituindo-o ou tornando-a sem efeito, ou acerca da essencialidade do bem de capital constrito".
+É dizer: para que haja a indevida usurpação de competência pelo Juízo da execução fiscal em detrimento do Juízo da recuperação judicial/falência da empresa devedora é necessária a coexistência de dois pressupostos: (i) existência de efetiva constrição de algum bem ou valor da recuperanda/falida pelo juízo da execução; e (ii) inobservância ou desrespeito, pelo juízo da execução, de decisão do juízo da recuperação judicial/falência que tenha reconhecido a essencialidade de bem ou valor constrito para a manutenção da atividade empresarial e determinado a sua substituição.
+No caso, extrai-se dos autos queo Juízo da execução fiscal apenas determinou o prosseguimento da cobrança, inclusive salientando que o respectivo proveito deverá ser noticiado ao juízo da recuperação para deliberações, situação que não caracteriza o conflito de competência, uma vez que não demonstrada a existência de decisõesconflitantes entre o Juízo da execução fiscal e o Juízo universal.
+Forte nessas razões, NÃO CONHEÇO do conflito de competência.
+Publique-se. Intimem-se. Oficiem-se.
+EMENTA
+CONFLITO  DE  COMPETÊNCIA.  EXECUÇÃO FISCALE RECUPERAÇÃO JUDICIAL. PROSSEGUIMENTO DA EXECUÇÃO FISCAL. AUSÊNCIA  DE DECISÕES CONFLITANTES ENTRE JUÍZOS DISTINTOS.  CONFLITO  NÃO  CONHECIDO.
+1 . A teor das alterações introduzidas na Lei de Falências,para que haja a indevida usurpação de competência pelo Juízo da execução fiscal em detrimento do Juízo da recuperação judicial/falência da empresa devedora é necessária a coexistência de dois pressupostos: (i) existência de efetiva constrição de algum bem ou valor da recuperanda/falida pelo juízo da execução; e (ii) inobservância ou desrespeito, pelo juízo da execução, de decisão do juízo da recuperação judicial/falência que tenha reconhecido a essencialidade de bem ou valor constrito para a manutenção da atividade empresarial e determinado a sua substituição. Pressupostos não preenchidos.
+2 .  Conflito  de  competência  não  conhecido.
