@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de DANIEL RODRIGUES DOS SANTOS no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Consta dos autos que o paciente "foi condenado, por incurso no artigo 16, parágrafo único, inciso IV, da Lei nº 10.826/03, no artigo 147, por duas vezes, do Código Penal, e ainda, no artigo 21 do Decreto-lei 3.688/41, todos na forma do artigo 69 do Código Penal, às penas de 3 (três) anos de reclusão e 10 (dez) dias multa, 2 (dois) meses e 10 (dez) dias de detenção, no regime inicial semiaberto, além de cumprir 17 (dezessete) dias de prisão simples, denegando- se a ele o direito de recorrer solto" (e-STJ fl. 55).
+Irresignada, a defesa interpôs recurso de apelação, desprovido nos termos da ementa ora transcrita (e-STJ fl. 55):
+SENTENÇA CONDENATÓRIA DO RÉU PELA PRÁTICA DE CONTRAVENÇÃO PENAL DE VIAS DE FATO, NO ÂMBITO DOMÉSTICO (DEC.-LEI 3.688/41, ART. 21), POSSE ILEGAL DE ARMA DE FOGO SEM NUMERAÇÃO (ART. 16, PARÁGRAFO ÚNICO, DA LEI Nº 10.826/2003) E AMEAÇA (ART. 147, CAPUT, DO CP). APELO DA DEFESA POSTULANDO A ABSOLVIÇÃO COM ARRIMO EM ALEGADA FRAGILIDADE DA PROVA, ARGUMENTANDO-SE COM ATIPICIDADE DO FATO E ADEQUAÇÃO SOCIAL NO TOCANTE AO DELITO DA LEI DE ARMAS PLEITOS DE REDUÇÃO DAS PENAS E DE DEFERIMENTO DA BENESSE DA SUBSTITUIÇÃO DA PENA CORPORAL, COM APLICAÇÃO DA DETRAÇÃO. DESCABIMENTO MATERIALIDADE E AUTORIA DELITIVAS QUE RESTARAM DEMONSTRADAS PALAVRAS DA VÍTIMA CONSIDERADAS COM PRIMAZIA, CORROBORADAS NO CASO POR DEPOIMENTOS INSUSPEITOS, ANOTADA A ADMISSÃO PARCIAL DOS FATOS PELO RÉU CONDENAÇÃO MANTIDA, NÃO SE VISLUMBRANDO EXCLUDENTES DOSAGEM DAS PENAS CORRETA QUE NÃO MERECE REPAROS, INADMISSÍVEL A CONCESSÃO DE BENESSES RECURSO DESPROVIDO.
+Na presente impetração, a defesa assere que deve ser substituída a pena privativa de liberdade, que deve ser alterado o regime inicial para o cumprimento da pena bem como que deve ser detraído o período de prisão provisória. O pedido liminar foi indeferido.
+Informações prestadas.
+Parecer ministerial "pela prejudicialidade da impetração" (e-STJ fl. 127).
+É o relatório. Decido.
+A presente impetração encontra-se prejudicada, pois, como destacado no parecer ministerial, "com a superveniência da decisão Juízo de primeiro grau que, em 23/4/2020, deferiu a progressão do paciente para o regime aberto, sendo ele colocado em liberdade aos 24/4/2020" (e-STJ fl. 127).
+Ante o exposto, com base no art. 34, XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente habeas corpus pela perda superveniente do seu objeto.
+Dê-se ciência desta decisão ao Ministério Público Federal.
+Publique-se. Intimem-se.
