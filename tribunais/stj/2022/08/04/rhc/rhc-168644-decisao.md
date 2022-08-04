@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto por VALDIR CRISPIN DE ALMEIDA, contra acórdão do Tribunal de Justiça do Estado de Minas Gerais.
+Colhe-se dos autos que o recorrente teve a prisão em flagrante convertida em preventiva pela suposta prática do delito tipificado no art. 33, caput, da Lei n. 11.343/2006.
+Neste recurso, a defesa sustenta ausência de fundamento idôneo para a prisão cautelar.
+Destaca que é primário, de bons antecedentes, não integra organização criminosa e não exerce o tráfico de drogas de forma habitual.
+Argumenta que, caso seja condenado, será fixado regime diverso do fechado ou terá a pena privativa de liberdade substituída por restritivas de direitos.
+Aponta que são suficientes medidas cautelares diversas.
+Pleiteia a revogação da prisão preventiva.
+É o relatório.
+Decido.
+O recurso não comporta provimento.
+A prisão preventiva foi decretada nos seguintes termos:
+No caso dos autos, entendo estarem satisfeitos os requisitos legais para a decretação da prisão cautelar do autuado. Isso porque a conduta praticada pelo acusado demonstra a sua periculosidade e o risco à ordem pública caso seja mantido em liberdade.
+Consta dos elementos de informação do auto de prisão em flagrante que, a polícia militar, após receber notitia anônima, dirigiu-se ao local indicado pela testemunha e no local encontraram pessoa com a mesma descrição indicada criminis pela testemunha e após a realização de busca pessoal foram encontradas 8 (oito) barras grandes de substância semelhante a maconha, 2 (duas) barras médias de substância semelhante à maconha e R$ 57,00 (cinquenta e sete) reais em dinheiro.
+O laudo preliminar indicou que o material apreendido comportou-se como maconha.
+Foi apreendida a quantidade total de 9, 449g (nove quilos, quatrocentos e quarenta e nove gramas).
+Portanto, a materialidade e a autoria do delito estão suficientemente demonstradas para fins de decretação da prisão cautelar, conforme se extrai das declarações do condutor e das testemunhas.
+Nesse contexto, conclui-se que há indícios suficientes de autoria e prova da materialidade no caso, a consubstanciar o fumus comissi delicti.
+Quanto ao para fins de decretação da custódia cautelar, verifica-se que apesar de tratar-se de periculum libertatis autuado primário, diante da expressiva quantidade de droga, fato que denota o envolvimento do autuado com traficantes habituais, caso seja colocado imediatamente em liberdade voltará a se dedicar ao comércio ilícito de entorpecentes.
+Assim, os elementos concretos do caso indicam que caso o autuado permaneça em liberdade voltará a fazer do tráfico de entorpecentes meio de vida.
+Ante o exposto, visando garantir a ordem pública, com fulcro nos artigos 310, II e 312 do Código de Processo Penal, converto a prisão em flagrante de VALDIR CRISPIN DE ALMEIDA em preventiva, restando indeferido o pedido . de liberdade provisória de contido na petição de ID Num 9482060806. (e-STJ, fl. 56)
+O Tribunal de origem denegou a ordem nos seguintes termos:
+A prisão preventiva se encontra fundamentada em dados concretos do processo, considerando que no dia 03 de junho de 2022, a polícia militar recebeu informação de que o paciente estaria traficando grande quantidade de drogas, de Uberlândia para a Comarca de Araguari.
+Ciente das informações, os policiais militares abordaram o paciente, que portava uma bolsa grande. Diante da fundada suspeita, os policiais militares realizaram busca pessoal no impetrante e encontraram dentro da referida bolsa 8  oito  barras grandes e 2  duas  barras médias de substância constatada como maconha pelo exame preliminar, pesando 8,449kg  oito quilogramas e quatrocentos e quarenta e nove gramas  da substância em comento e R$ 57,00  cinquenta e sete reais .  doc. 08
+As circunstâncias do presente caso, a grande quantidade de drogas, e a suposta prestação de serviço ao tráfico, levando a droga de umacidade para outra, revelam a gravidade da infração, a periculosidade e a potencialidade delitiva do paciente.
+Portanto, diante do manancial delituoso mister se faz a prisão sobre os auspícios da ordem pública.
+A prisão antes da sentença definitiva tem natureza cautelar, tendo o impetrado demonstrado a presença dos pressupostos de decretação da prisão preventiva - garantia da ordem pública - sendo a manutenção da custódia cautelar a medida que se impõe.
+É o quanto basta para a manutenção da ordem pública. (e-STJ, fls. 118-119)
+De acordo com o art. 312 do Código de Processo Penal, a prisão preventiva poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, desde que presentes prova da existência do crime e indícios suficientes de autoria.
+No caso, segundo se infere, a custódia cautelar está suficientemente fundamentada na garantia da ordem pública, haja vista a gravidade concreta da conduta delitiva, pois o recorrente foi surpreendido na posse de 9,449 kg de maconha.
+Esta Corte, inclusive, possui entendimento reiterado de que a quantidade e a diversidade dos entorpecentes encontrados com o agente, quando evidenciarem a maior reprovabilidade do fato, podem servir de fundamento para a prisão preventiva.
+A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. IMPUGNAÇÃO QUANTO À MANUTENÇÃO DA CUSTÓDIA CAUTELAR. FUNDAMENTAÇÃO CONCRETA. NATUREZA, DIVERSIDADE E QUANTIDADE DAS DROGAS APREENDIDAS. CIRCUNSTÂNCIAS DO DELITO. REITERAÇÃO DELITIVA. GARANTIA DA ORDEM PÚBLICA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÊNCIA. INSUFICIÊNCIA DE MEDIDAS CAUTELARES ALTERNATIVAS. DESPROPORCIONALIDADE ENTRE A SEGREGAÇÃO PREVENTIVA E PENA PROVÁVEL. INVIABILIDADE DE EXAME NA VIA ELEITA. RECURSO DESPROVIDO.
+1. Presentes elementos concretos para justificar a manutenção da prisão preventiva, para a garantia da ordem pública. Como visto, as instâncias ordinárias afirmaram que, em liberdade, o agravante representava risco concreto ao meio social em razão de sua periculosidade e da gravidade concreta da conduta, evidenciadas pela natureza, diversidade e quantidade das drogas apreendidas - 56,36g de maconha, 63,16g de cocaína, 23,4g de MDMA e 41 micropontos de LSD - o que, somado à localização de balança de precisão, ao fato de parte dos entorpecentes estarem enterrados nos fundos de um condomínio, bem como pela circunstância de o agente possuir outro registro criminal, sendo, inclusive, reincidente específico, revela o maior envolvimento com o narcotráfico e a necessidade da custódia cautelar para garantia da ordem pública.
+2. É entendimento do Superior Tribunal de Justiça que as condições favoráveis do paciente, por si sós, não impedem a manutenção da prisão cautelar quando devidamente fundamentada.
+3. O entendimento deste Superior Tribunal de Justiça é no sentido de ser inaplicável medida cautelar alternativa quando as circunstâncias evidenciam que as providências menos gravosas seriam insuficientes para manutenção da ordem pública.
+4. Não há falar em desproporcionalidade entre o decreto prisional preventivo e eventual condenação, tendo em vista ser inadmissível, em habeas corpus, a antecipação da quantidade de pena que eventualmente poderá ser imposta, menos ainda se iniciará o cumprimento da reprimenda em regime diverso do fechado.
+5. Agravo regimental desprovido.
+(AgRg no HC 711.616/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 22/02/2022, DJe 02/03/2022)
+"HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO Documento: 110596149 Página 2 de 3 Superior Tribunal de Justiça PREVENTIVA. FUNDAMENTOS. GRAVIDADE CONCRETA. GARANTIA DA ORDEM PÚBLICA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. PARECER ACOLHIDO.
+1. A prisão preventiva constitui medida excepcional ao princípio da não culpabilidade, cabível, mediante decisão devidamente fundamentada e com base em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos do art. 312 e seguintes do Código de Processo Penal.
+2. No caso, a prisão cautelar foi decretada para a garantia da ordem pública, com base na gravidade concreta do delito, evidenciada pela quantidade e natureza da droga apreendida (170 invólucros plásticos, contendo cocaína, pesando 68,1 g e 20 invólucros plásticos contendo maconha, pesando 40,5 g), aliada às circunstâncias em que se deu a prisão em flagrante.
+3. É consabido que eventuais condições subjetivas favorável ao paciente não são impeditivas à decretação da prisão cautelar, caso estejam presentes, como na hipótese, os requisitos autorizadores da referida segregação.
+4. Ordem denegada."
+(HC 425.704/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 27/2/2018, DJe 8/3/2018).
+Ademais, consigne-se que é inviável a substituição da prisão preventiva por medidas cautelares diversas, pois a gravidade concreta da conduta delituosa indica que a ordem pública não estaria acautelada com a soltura do recorrente. Sobre o tema: RHC 81.745/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 01/06/2017, DJe 09/06/2017; RHC 82.978/MT, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 01/06/2017, DJe 09/06/2017; HC 394.432/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 01/06/2017, DJe 09/06/2017.
+Além disso, o argumento de desproporcionalidade da custódia cautelar à provável futura pena do réu não comporta acolhimento, pois apenas a conclusão do processo será capaz de revelar se o acusado será beneficiado com a fixação de regime prisional diverso do fechado, sendo inviável essa discussão neste momento processual. Nessa linha: RHC 94.204/MG, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 10/4/2018, DJe 16/4/2018; e RHC 91.635/MG, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 20/3/2018, DJe 5/4/2018.
+Ante o exposto, nego provimento ao recurso em habeas corpus.
+Publique-se. Intimem-se
