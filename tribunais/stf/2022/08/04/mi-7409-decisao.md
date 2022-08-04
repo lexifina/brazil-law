@@ -1,0 +1,45 @@
+Decisão: Trata-se de pedido mandado de injunção com pedido de liminar, impetrado por Cintia Tais Borges Furtado, em razão de suposta omissão em editar lei complementar para regulamentar o exercício do direito previsto no art. 40, § 4º, I, da Constituição da República.
+
+    A impetrante, servidora pública do Município de Lages investida no cargo de fiscal de serviços públicos (eDOC 5, p. 1), afirma que já possui o tempo de serviço necessário para o gozo do benefício da aposentadoria especial, mas que o exercício desse direito se mostra inviabilizado pela ausência de norma regulamentadora referente à aposentadoria especial de pessoas com deficiência (eDOC 1).
+
+    Assevera, ainda, que embora esteja em trâmite um projeto de lei complementar federal para a regulamentação da aposentadoria especial dos servidores públicos desde o ano de 2005, o legislativo está em mora.
+
+    Nesse sentido, pleiteia, liminarmente, a suspensão dos descontos em folha relativos à contribuição previdenciária e, quanto ao mérito, requer a declaração da mora legislativa com a aplicação ao caso das regras de aposentadoria especial do projeto de lei complementar n° 250/2005, ainda em trâmite no legislativo federal. Alternativamente, postula a aplicação da legislação que regulamenta a aposentadoria especial dos trabalhadores do setor privado, a exemplo do artigo 57 da Lei 8.213/1991.
+
+    Requer, ainda, a concessão do benefício da assistência judiciária gratuita. (eDOC 4)
+
+    Decido.
+
+    O art. 102, inciso I, alínea “q”, da Constituição da República, dispõe ser competente este Supremo Tribunal Federal para conhecer e julgar mandado de injunção no seguinte caso:
+
+    “Art. 102. Compete ao Supremo Tribunal Federal, precipuamente, a guarda da Constituição, cabendo-lhe:
+
+    I - processar e julgar, originariamente:
+
+    (...)
+
+    q) o mandado de injunção, quando a elaboração da norma regulamentadora for atribuição do Presidente da República, do Congresso Nacional, da Câmara dos Deputados, do Senado Federal, das Mesas de uma dessas Casas Legislativas, do Tribunal de Contas da União, de um dos Tribunais Superiores, ou do próprio Supremo Tribunal Federal”.
+
+    Nesses termos, verifica-se que a competência do Supremo Tribunal Federal encontra-se enumerada no referido dispositivo e a jurisprudência desta Corte tem historicamente se mantido fiel ao entendimento de que sua competência é de direito estrito, e de forma reiterada tem enfatizado o seu caráter de absoluta excepcionalidade, na dicção do eminente Ministro Celso de Mello (ACO 359 QO/SP, Rel. Min. Celso de Mello, Tribunal Pleno, DJe 11.3.1994). Confira-se, ainda, a seguinte ementa de julgado no mesmo sentido:
+
+    “SUPREMO TRIBUNAL FEDERAL – COMPETÊNCIA ORIGINÁRIA (CF, ART. 102, I, N) - NORMA DE DIREITO ESTRITO - MAGISTRADO QUE PRETENDE A PERCEPÇÃO DE BENEFÍCIO PREVISTO NA LEI ORGÂNICA DO MINISTÉRIO PÚBLICO FEDERAL - VANTAGEM QUE NÃO É EXCLUSIVA DA MAGISTRATURA - AÇÃO AJUIZÁVEL EM PRIMEIRA INSTÂNCIA - INCOMPETÊNCIA ABSOLUTA DO STF DEVOLUÇÃO DOS AUTOS À ORIGEM - AGRAVO AO QUAL SE NEGA PROVIMENTO. I – O STF firmou entendimento no sentido de que não se aplica o disposto no art. 102, I, n, da Constituição Federal aos casos nos quais o objeto da demanda não envolva direitos, interesses ou vantagens que digam respeito exclusivamente à Magistratura. II Na hipótese dos autos pretende-se, em síntese, a extensão do benefício previsto no art. 227, I, a, da Lei Orgânica do Ministério Público da União para o autor, magistrado federal. Assim, a demanda não está dirigida a todos os membros da Magistratura, mas apenas à parte dos juízes federais; tampouco não envolve vantagem que diga respeito exclusivamente à Magistratura, não competindo a esta Corte julgar a causa. III - Agravo regimental a que se nega provimento”. (AO 1840 AgR, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 25.2.2014)
+
+    Registre-se que, com a entrada em vigor da Emenda Constitucional n. 103/2019, o art. 40, § 4º-A, passou a prever que compete a cada ente político estabelecer, em relação a seus próprios agentes estatais, por meio de leis complementares a serem editadas no âmbito de cada uma das unidades federadas, o respectivo regime especial de aposentadoria dos servidores portadores de deficiência.
+
+    Desse modo, após a alteração promovida pela EC 103/2019, não vislumbro a competência do Supremo Tribunal Federal para apreciação do presente Mandado de Injunção, uma vez que a omissão legislativa é atribuível ao ente municipal. Nesse sentido, confira-se entendimento do Pleno do STF sobre o tema:
+
+    “AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO MANDADO DE INJUNÇÃO. APOSENTADORIA ESPECIAL DE SERVIDOR PÚBLICO PORTADOR DE DEFICIÊNCIA. ALTERAÇÃO SUPERVENIENTE DO QUADRO NORMATIVO. EMENDA CONSTITUCIONAL 103, DE 12 DE NOVEMBRO DE 2019. SERVIDORES PÚBLICOS FEDERAIS. ART. 22 DA EMENDA CONSTITUCIONAL 103/2019. PERDA SUPERVENIENTE DO INTERESSE DE AGIR. SERVIDORES PÚBLICOS ESTADUAIS, MUNICIPAIS E DISTRITAIS. COMPETÊNCIA LEGISLATIVA DE CADA ENTE FEDERATIVO, NA FORMA DO ART. 40, § 4º-A, DA CONSTITUIÇÃO DA REPÚBLICA. MANDADO DE INJUNÇÃO JULGADO PREJUDICADO. 1. O mandado de injunção surge com a função precípua de viabilizar o exercício de direitos, de liberdades e de prerrogativas diretamente outorgados pelo constituinte, no afã de impedir que a inércia do legislador frustre a eficácia de hipóteses tuteladas pela Lei Fundamental. 2. A aposentadoria especial de servidor público portador de deficiência está consagrada como direito previsto no art. 40, § 4º-A, da Constituição da República (antigo art. 40, § 4º, I), incluído pela Emenda Constitucional 103/2019. 3. A Emenda Constitucional 103/2019 predica, em seu art. 22, caput, que a aposentadoria especial de servidor público federal portador de deficiência é assegurada mediante o preenchimento dos requisitos previstos na Lei Complementar 142/2013, que deve ser aplicada inclusive nos períodos de prestação de serviço anteriores à sua vigência, até que seja editada a lei complementar exigida pelo art. 40, § 4º-A, da Constituição da República. 4. O art. 57 da Lei 8.213/1991 não é aplicável para fins de verificação dos requisitos para a aposentadoria especial de servidor público portador de deficiência, porquanto o diploma legislativo não rege, em nenhum aspecto, os critérios necessários à apreciação administrativa desse modelo de aposentadoria especial. 5. In casu, houve a perda superveniente do interesse de agir da entidade impetrante. Isso porque, desde o início da vigência da Emenda Constitucional 103/2019, a autoridade administrativa responsável pela apreciação do pleito de aposentadoria não mais pode negar-se a fazê-lo com fundamento na ausência de norma regulamentadora do art. 40, § 4º-A, da Constituição da República. Deveras, embora subsista a ausência de lei complementar específica, o vácuo normativo não mais representa inviabilidade do gozo do direito à aposentadoria em regime especial dos servidores públicos federais portadores de deficiência, na forma do art. 22, caput, da Emenda Constitucional 103/2019. 6. O art. 40, § 4º-A, da Carta da República, incluído pela Emenda Constitucional 103/2019, predica que cada ente político da Federação deverá estabelecer, em relação a seus próprios agentes estatais, por meio de leis complementares a serem editadas no âmbito de cada uma das unidades federadas, o respectivo regime especial de aposentadoria dos servidores portadores de deficiência. 7. A colmatação de eventual lacuna legislativa existente na regulamentação da aposentadoria especial de servidores públicos estaduais, municipais ou distritais portadores de deficiência deverá ser realizada por meio da legislação complementar a ser editada pela correspondente unidade da Federação, de sorte que a União Federal não mais possui competência legislativa para dispor sobre a aposentadoria especial desses servidores, nos termos do art. 40, § 4º-A, da Constituição Federal, incluído pela EC 103/2019. 8. A ausência de competência legislativa da União Federal para regulamentar a aposentadoria especial de servidores públicos estaduais, municipais ou distritais portadores de deficiência implica a ilegitimidade passiva do Presidente da República ou do Congresso Nacional para figurarem como autoridades ou órgãos estatais coatores, o que, por conseguinte, afasta a competência desta Corte para a apreciação do mandamus, na forma do art. 102, I, “q”, da Constituição da República. 9. Ex positis, reajusto o voto para declarar o mandado de injunção PREJUDICADO, diante da superveniência da Emenda Constitucional 103/2019. Prejudicado o agravo interno interposto pela União.” (MI 1613AgR-AgR, Rel. Min. Luiz Fux, Tribunal Pleno, DJe 9.9.2020, grifo nosso)
+
+    No mesmo sentido: MI 7.297, Rel. Min. Cármen Lúcia, DJe 7.4.2021; MI 7.173, Rel. Min. Celso de Mello, DJe 21.2.2020; MI 7.272, Rel. Min. Luís Roberto Barroso, DJe 22.4.2020; MI 7.252, Rel. Min. Rosa Weber, DJe 12.12.2019.
+
+    Ante o exposto, não conheço do presente mandado de injunção (art. 21, §1º, do RISTF).
+
+    Publique-se.
+
+    Brasília, 4 de agosto de 2022.
+
+Ministro Gilmar Mendes
+
+Relator
+
+Documento assinado digitalmente
