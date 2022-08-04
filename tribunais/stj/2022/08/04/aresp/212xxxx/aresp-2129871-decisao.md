@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de recurso especial interposto por AGOSTINHO VILAR SALDANHA, contra decisão que inadmitiu recurso especial, fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em:25/11/2021.
+Concluso ao gabinete em:18/07/2022.
+Ação:indenizatória c/c obrigação de não fazer ajuizadapor AGOSTINHO VILAR SALDANHA em desfavor do BANCO BRADESCO S/A.
+Sentença:julgou improcedentes os pedidos iniciais.
+Acórdão:negou provimento àapelação interpostas pelo agravante, nos termos da seguinte ementa:
+"DIREITO DO CONSUMIDOR, CIVIL E PROCESSUAL CIVIL. EMENTA APELAÇÃO CÍVEL. SENTENÇA ÚNICA QUE ENCERRA FEITOS CONEXOS. POSSIBILIDADE. PRETENSÃO INICIAL QUE BUSCA A REVISÃO DO CONTRATO FORMULADO EM AÇÃO PRÓPRIA E PLEITO PARA CONDENAÇÃO DA INSTITUIÇÃO FINANCEIRA POR DANOS MORAIS IGUALMENTE DEDUZIDO EM PROCEDIMENTO JUDICIAL AUTÔNOMO. MATÉRIAS QUE APRESENTAM VÍNCULO DE PREJUDICIALIDADE. AÇÃO REVISIONAL DE CLÁUSULAS CONTRATUAIS. PRÁTICA DE ANATOCISMO. EXPRESSA PREVISÃO NO INSTRUMENTO. FORMALIZAÇÃO APÓS 2001. APLICAÇÃO DAS SÚMULAS N 539 E 541 DO SUPERIOR TRIBUNAL DE JUSTIÇA E 27 E OS 28 DESTA CORTE ESTADUAL DE JUSTIÇA. NÃO DEMONSTRAÇÃO DA INCLUSÃO NO PACTO DE ENCARGOS INDEVIDOS E REALIZAÇÃO DE COBRANÇA ILEGÍTIMA. MANUTENÇÃO DA SENTENÇA NESTE PONTO. SITUAÇÃO DE INADIMPLÊNCIA REVELADA DE MANEIRA SATISFATÓRIA. CONTRATO COM ESTIPULAÇÃO DE GARANTIA FIDUCIÁRIA. POSSIBILIDADE DE EXECUÇÃO PELO CREDOR. DECISÃO JUDICIAL QUE SE LIMITOU A AUTORIZAR A CONSIGNAÇÃO DE PARCELAS PELO AUTOR E OBSTAR A TRANSCRIÇÃO NOTARIAL DA PROPRIEDADE. ALIENAÇÃO ADMINISTRATIVA REGULAR. NÃO DEMONSTRAÇÃO DE QUALQUER ATO ILÍCITO PRATICADO PELA INSTITUIÇÃO FINANCEIRA DEMANDADA. RESPONSABILIDADE CIVIL NÃO EVIDENCIADA. SENTENÇA IGUALMENTE COERENTE NESTE SENTIDO. APELO CONHECIDO E DESPROVIDO. " (e-STJ, fl. 350)
+Embargos de declaração: opostos pelo agravante, foram rejeitados.
+Recurso especial: alega ofensa aos arts. 380, II, e 489, IV, §1ºCPC/2015; e 5º,LV da Constituição da Federal.Sustentou: ofensa ao princípio do processo legal, da ampla defesa e do contraditório, em não determinar a realização da perícia requerida na inicial; que não há dívida com o agravado, pois já quitada; o cerceamento de defesa; requer a anulação do julgado para determinar o retornodos autos ao magistrado de primeiro grau para a realização da Perícia.
+RELATADO O PROCESSO, DECIDE-SE.
+Julgamento: aplicação do CPC/2015.
+Da análise da decisão agravada, constata-se que o recursoespecialinterposto pelo agravante foi inadmitido com base na ausênciadedemonstração de ofensa aos dispositivos tidos por violados, ausênciadeprequestionamento e incidência da Súmula 7 do STJ.
+No entanto, no agravo em recurso especial, a parte agravante nãoimpugnouadequadamente, de forma clara e específica, os óbices aplicados,apenasrepisando os mesmos argumentos já expendidos no recurso especial emdefesade sua tese.
+Ressalte-se que não basta a mera alegação de que a hipótese prescindedereexame de provas, alegando genericamente sobre a questão ser dedireitoou de que se requer a revaloração ou a correta aplicação dalegislação queentende violada.
+Deve também ser demonstrada a efetiva desnecessidadedoreexame, na hipótese em que o Tribunal de origem declara que "reavaliar a questão acerca da instrução probatória, sobre a necessidade/possibilidade de prova pericial, implica, necessariamente, incursão no suporte fático-probatório, contrapondo-se, assim, ao óbice da Súmula "(e-STJ fl. 422), o que não foi feito.
+Consoante o entendimento desta Corte, firmado à luz do princípio dadialeticidade, cumpre à parte recorrente o ônus de evidenciar, nasrazõesdo agravo em recurso especial, o desacerto da decisão agravada.
+Descumprido esse ônus, ou seja, se ausente a impugnação pontualeconsistente do fundamento da decisão agravada, o conhecimento do agravoéinadmissível, a teor do disposto na Súmula 182 deste Tribunal e nosarts.932, III do CPC/2015.
+Nesses termos, não havendo a impugnação dos fundamentos dadecisãoagravada da forma exigida, aplicável o óbice da Súmula 182 do STJ.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial,comfundamento no art. 932, III, do CPC/2015.
+Previno as partes que a interposição de recurso contra esta decisão,sedeclarado manifestamente inadmissível, protelatório ou improcedente,poderá acarretar na condenação ao pagamento das penalidades fixadasnosarts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
