@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento na alínea "a" do permissivo constitucional.
+Os recorrentes foram condenados a 2 anos e 6 meses de reclusão, em regime inicial fechado, e ao pagamento de 250 dias-multa, nos termos do art. 33, caput, da Lei nº 11.343/2006.
+Nas razões de seu recurso, alegam que "a decisão recorrida contrariou as normas previstas nos arts. 33, § 4º e 42, ambos da Lei de Drogas; nos artigos 33, §§ 2º e 3º; 44, "caput"; e 59, "caput"e inciso III, todos do Código Penal; além do artigo 387, § 2º do Código de Processo Penal" (fl. 328), pugnando, ao final, pela aplicação da minorante prevista na Lei nº 11.343/2006 no seu patamar máximo, alteração do regime prisional para o aberto, incidência da detração penal em relação ao recorrente Daniloe substituição da pena corporal por pena restritiva de direitos.
+Apresentadas as contrarrazões, manifestou-se o Ministério Público Federal pelo desprovimento recursal.
+Acerca da aplicaçãoda minorante prevista na Lei nº 11.343/2006, assim se posicionou o Tribunal local (fl. 310):
+ .. por serem os réus primários e de bons antecedentes, não havendo provas de que eles se dediquem às atividades criminosas ou que integram organização criminosa, fazem jus ao benefício previsto no § 4º, do artigo 33 da Lei nº 11.343/06. E ante a considerável quantidade de drogas apreendidas, aplica-se em seu patamar intermediário, ou seja, metade (1/2). ..
+Como se vê, o Tribunal estadual aplicou a fração de 1/2 ao benefício em apreço, "ante a considerável quantidade de drogas apreendidas".
+No entanto, fazem jus os recorrentes ao patamar máximo (2/3), como aqui pleiteado, diante da não expressiva quantidade de entorpecentes apreendidos, consoante delimitadana sentença: "44 (quarenta e quatro) porções de cocaína, com peso líquido de 20,2g, 64 (sessenta e quatro) porções de maconha, com peso líquido de 27,7g, e 16 (dezesseis) pedras de crack, com peso líquido de 7,8g" (fl. 168).
+Passa-se, assim, ao redimensionamento das penas (fls. 309-310).
+O preceito secundário do art. 33, caput, da Lei nº 11.343/2006 prevê pena de reclusão de 5 a 15 anos e pagamento de 500 a 1.500 dias-multa.
+Mantida a sanção no seu mínimo legal na segunda etapa da dosimetria, e incidente a fração de 2/3 referente à minorante em apreço no seu último estágio, chega-se ao total definitivo de 1 ano e 8 meses de reclusão, e 166 dias-multa.
+No mais, haja vista serem os recorrentes tecnicamente primários, não possuírem antecedentes criminais e não ficar comprovado que integravam organização criminosa, além da não relevante quantidade de drogas apreendidas, de rigor a alteração do regime inicial para o aberto e a conversão da pena privativa de liberdade em pena restritiva de direitos, em conformidade com os arts. 33 e 44, ambos do código repressivo. Nesse sentido: AgRg no HC 598.994/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 03/11/2020, DJe 18/11/2020.
+Por fim, " c oncedido o regime mais brando para início da execução penal, o pleito de aplicação do instituto dadetraçãoestáprejudicado"(HC n. 438.845/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 26/6/2018, DJe de 1/8/2018).
+Ante o exposto, dou provimento ao recurso especialpara (re)fixar as penas privativas de liberdade impostas aos recorrentes ao total de 1 ano e 8 meses de reclusão, além do pagamento de 166 dias-multa, determinar os regimes iniciaisaberto e substituir as penas corporaispor penas restritivas de direitos, a serestabelecidas pelo juízo da execução.
+Publique-se.
+Intimem-se.
