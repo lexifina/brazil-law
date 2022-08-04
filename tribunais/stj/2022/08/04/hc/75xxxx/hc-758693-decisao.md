@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso especial,com pedido liminar, impetrado em favor de ERIC ALEXANDRE OLIVEIRA DE SOUZA, em que aponta como autoridade coatora o eg.TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO(Correição Parcial n. 2111732-83.2022.8.26.0000).
+Verbis, o v. acórdão (fls. 144-147):
+"O MINISTÉRIO PÚBLICO interpôs CORREIÇÃO PARCIAL contra a r. decisão proferida às fls. decisão de fls.42, proferida pela MMª. Juíza de Direito DA 24ª Criminal da Capital, Dra. Sonia Nazaré Fernandes Fraga, nos autos principais nº 0037480-03.2016.8.26.0050.
+Alega que a Douta Magistrada praticou inversão tumultuária do processo, ao converter o julgamento em diligência para a oitiva da testemunha Vera Lúcia de Oliveira Varges, porquanto se trata de questão preclusa no feito (fls.01/07). Processado o recurso. A d. Procuradoria Geral de Justiça opinou pelo provimento do recurso interposto nos termos pugnado pelo corrigente (fls.48/51).
+É O RELATÓRIO.
+Trata-se de feito para apuração do crime previsto no artigo 180,caput, do Código Penal figurando como réu Eric Alexandre Oliveira. A denúncia foi recebida a fls.120 e o réu foi citado a fls. 128,apresentando resposta à acusação a fls.132. Na audiência realizada em 19de abril de 2022 foram ouvidas as testemunhas, sendo o acusado interrogado ao final.
+O Ministério Público, então, apresentou suas alegações finais, cujos fundamentos foram transcritos no termo de audiência de fls.198/202.
+A defesa, por sua vez, requereu prazo para se manifestar em memoriais escritos, tendo os apresentado às fls. 208/224, insistindo na oitiva da genitora do acusado, Vera Lúcia de Oliveira Varges, cujo pedido já havia sido indeferido na audiência realizada em 10 de fevereiro de 2022 (fls.180/181), bem como na audiência realizada em 19 de abril de 2022 (fls.198/203).
+Ocorre que mesmo estando preclusa a questão, a magistrada a quo incorreu em error in procedendo, convertendo o julgamento em diligência, determinando a oitiva da testemunha Vera Lúcia de Oliveira Varges, acarretando assim, em tumulto processual.
+(..)
+Contudo, no caso em tela, verifica-se que a magistrada a quo, em clara violação ao devido processo legal, decidiu converter o julgamento em diligência para oitiva de testemunha. Frise-se que in casu, não houve superveniência de nenhum elemento novo aos autos hábil a justificar referida decisão, a qual, diga-se, encontra-se preclusa.
+Ainda, denota-se que a juíza prolatora da decisão foi a mesma responsável pelos indeferimentos anteriores.
+Destarte, dada a necessidade do andamento escorreito do feito e em virtude da prevalência do princípio do impulso oficial, merece acolhida o pleito Ministerial.
+Diante do exposto, DOU PROVIMENTO (..)" (grifei)
+Tem-se aqui que opaciente foi denunciado pela prática, em tese, do crime previsto no art. 180,caput, do Código Penal.
+Daí o presente writ, no qual o d. Impetranteinsurge-se contra o v. acórdão impetrado, porquanto teria contrariado os princípios do devido processo legal, do contraditório e da ampla defesa, haja vista a ausência de deferimento de prévia manifestação pelo paciente.
+Entende, ademais, que não havia se falar em preclusão do direito de ouvir a testemunha indicada pela defesa, haja vista o fato da questão ter sido levantada nas alegações finais e, ainda, asregrasdispostas nos arts. 209 e 404 do Código de Processo Penal.
+Requer, inclusive LIMINARMENTE, a suspensão da Ação Penal n. 00037480-03.2016.8.26.0050. No mérito, pugna pela concessão da ordem para que seja restabelecida a decisão do Juízo de primeiro grauque havia deferido a prova oral requerida pela defesa.
+Liminar indeferida pela Presidência (fls. 157-158).
+Recurso de agravo regimental (fls. 161-176).
+É o relatório.
+Decido.
+Em juízo de retratação, verifica-se que, prima facie,existe sim flagrante ilegalidade que justifique o deferimento do pleito in limine.
+Com efeito, da leitura do v. acórdão impugnado, depreende-se que não foram indicados fundamentos concretos para dar provimento à correição parcial, consoante se extrai de seu inteiro teor, acima transcrito.
+Além disso, justificou a d. Defesa (fl. 22):
+"O prejuízo é evidente. Simplesmente, a despeito de ser Vera genitora do acusado/paciente, sua ouvida era, e é, imprescindível não só à defesa como para a instrução processual, uma vez que os fatos dão conta de que Vera teria franqueado a entrada dos policiais em sua casa e, ainda, que teria feito declarações que levavam a crer ser o réu, seu filho, autor da obra criminosa narrada na denúncia. Os militares ouvidos em audiência centraram suas informações no que haveria ter sido dito por Vera no momento. Ou seja a versão acusatória acerca da autoria do réu gira em torno de atos praticados por Vera: teria deixado os policias adentrarem sua casa e também teria lhes dito que as motos "pertenceriam" ao seu filho, muito embora em sede de IP menciona ela que sua casa é contígua a de parentes e que estes também frequentam o quintal (fls. 13 e 95 ) Assim sendo, ainda que como informante, sendo não só possível, mas requisitado pela defesa, e ainda levando-se em conta a total viabilidade de sua ouvida diante da designação de outra audiência, esta que acabou servindo apenas para o interrogatório do acusado, resta totalmente injustificada a recusa peremptória em ouvir importante personagem no contexto dos fatos para que desse sua versão em contraditório. Ora, não se enxerga o motivo para não se ouvir Vera em instrução que ainda não estava encerrada, onde a defesa pediu seu comparecimento e oitiva independentemente de intimação! Não há razão lógica para tanto."
+Na mesma toada, a d. Defesa não foi ouvida na correição parcial.
+Veja-se julgado sobre o tema:
+"PROCESSO PENAL. HABEAS CORPUS. RECEPTAÇÃO. SUSPENSÃO CONDICIONAL DO PROCESSO DEFERIDO PELO JUIZ SINGULAR. INTERPOSIÇÃO DE CORREIÇÃO PARCIAL. AUSÊNCIA DE INTIMAÇÃO DA DEFENSORIA PÚBLICA PARA APRESENTAR RESPOSTA. CERCEAMENTO DE DEFESA. NULIDADE. CONSTRANGIMENTO ILEGAL EVIDENCIADO. ORDEM CONCEDIDA.
+1. A República Federativa do Brasil, fundada, entre outros, na dignidade da pessoa humana e na cidadania, consagra como garantia "aos litigantes, em processo judicial ou administrativo, e aos acusados em geral, (..) o contraditório e ampla defesa, com os meios e recursos a ela inerentes" (art. 5º, LV, da Constituição Federal). Refletindo em seu conteúdo os ditames constitucionais, o art. 261 do Código de Processo Penal estabelece que "nenhum acusado, ainda que ausente ou foragido, será processado ou julgado sem defensor".
+2. "O devido processo legal, amparado pelos princípios da ampla defesa e do contraditório, é corolário do Estado Democrático de Direito e da dignidade da pessoa humana, pois permite o legítimo exercício da persecução penal e eventualmente a imposição de uma justa pena em face do decreto condenatório proferido", assim, "compete aos operadores do direito, no exercício das atribuições e/ou competência conferida, o dever de consagrar em cada ato processual os princípios basilares que permitem a conclusão justa e legítima de um processo, ainda que para condenar o réu" (HC 91.474/RJ, Rel. Ministro ARNALDO ESTEVES LIMA, QUINTA TURMA, DJe 2/8/2010).
+3. Segundo entendimento pacífico desta Corte Superior, a vigência, no campo das nulidades, do princípio pas de nullité sans grief impõe a manutenção do ato impugnado que, embora praticado em desacordo com a formalidade legal, atinge a sua finalidade, restando à parte demonstrar a ocorrência de efetivo prejuízo.
+4. No caso em exame, evidenciada está o cerceamento de defesa, por ausência de intimação da defesa técnica para apresentar resposta à correição manejada pelo Ministério Público, bem como o prejuízo suportado pelo paciente.
+5. Ordem concedida para anular o julgamento da Correição Parcial n. 213785-14.2014.8.26.0000 e os demais atos processuais posteriores, a fim de que outro seja proferido pelo Tribunal de Justiça de São Paulo, com a prévia e regular intimação da Defensoria Pública." (HC n. 388.061/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 2/5/2017).
+Também,conforme explicado pela d. Defesa, o seu pedido foi reiterado em segunda audiência (fls. 62-63) e em sede de alegações finais, à fl. 88 (o que afasta a preclusão).
+Ademais, as datas dos últimos andamentos são recentes, de forma que não se constata a inércia defensiva ou o tumulto processual que se buscava afastar no v. acórdão de correição parcial.
+Vale destacar que há nos autos de origem até um pedido de "re-oitiva" da mesma testemunha pelo d. Parquet (fl. 31).
+Além disso, ela é citada em trechos da denúncia (fls. 41-43).
+Ainda, a r. decisão do d. Juízo,de 13/5/2022:
+"Atenta às ponderações consignadas em matéria preliminar pela Defesa, converto o julgamento em diligência para oitiva da testemunha Vera Lúcia de Oliveira Varges.
+Venham os autos à conclusão para acomodá-la à pauta on line.
+Ciência ao Ministério Público e à Defesa."
+Assim sendo, em sede de juízo de retratação da decisão liminar da Presidência desta Corte Superior, concedo a ordem, parcialmente, de ofício, para anular o v. acórdão n.2111732-83.2022.8.26.0000 edeterminar que seja dada a oportunidade, à d. Defesa, de se manifestar no julgamento da correição parcial, em obediência ao devidocontraditório e ampla defesa. Como consequência, determino igualmentea suspensão ação penal n. 00037480-03.2016.8.26.0050, até que o eg. Tribunal de origem se manifeste, da maneira que entender de direito.
+Decisão no recurso de agravo regimental em apartado.
+Intime-se, com urgência, a origem.
+P. I. C.
