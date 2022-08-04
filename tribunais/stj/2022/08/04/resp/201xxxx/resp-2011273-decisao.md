@@ -1,0 +1,14 @@
+DECISÃO
+ADMINISTRATIVO E PROCESSUAL CIVIL. RECURSO. ESPECIAL. OMISSÃO NO JULGADO. NÃO OCORRÊNCIA. RECEBIMENTO INDEVIDO DE BENEFÍCIO PREVIDENCIÁRIO. ARTS. 37-A DA LEI 10.522/2002 E 61 DA LEI 9.430/1996.FUNDAMENTO AUTÔNOMO DO ACÓRDÃO NÃO IMPUGNADO NAS RAZÕES DORECURSO. SÚMULA 283/STF. RECURSO ESPECIAL DO INSS PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO.
+1. Trata-se de recurso especial do INSS, fundado naalíneaa do art. 105, III da Constituição Federal, interposto contra acórdão do Tribunal Regional Federal da 4ªRegião, assim ementado:
+PREVIDENCIÁRIO. DEVOLUÇÃO DE VALORES RECEBIDOS INDEVIDAMENTE. SELIC. DESCABIMENTO. Considerando que não se trata de débito de natureza tributária, não se aplica a SELIC na atualização dos valores a serem restituídos ao INSS em decorrência da percepção indevida de benefício previdenciário.
+2. Opostos embargos de declaração, foram rejeitados.
+3. O recorrente, em suas razões recursais, sustenta ocorrência de violação do art. 1.022 do CPC/2015ao argumento de que o acórdão recorrido, a despeito da oposição de embargos de declaração, permaneceu omisso. No mérito, aponta quedevem incidir sobre o montante principal devido pela parte requerida em razão do recebimento além do devido de benefício previdenciário, taxa SELIC, e multa de mora nos moldes impostos pela Lei nº 9.430, de 1996 (fl. 306).
+4. Com as contrarrazões, o recurso foi admitido (fls. 321/322).
+5. É o relatório.
+6. De início, inexiste a alegada violação do art. 1.022 do CPC/2015, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, conforme se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de nenhum erro, omissão, contradição ou obscuridade. Observe-se, ademais, que julgamento diverso do pretendido, como na espécie, não implica ofensa ao dispositivo de lei invocado.
+8. No mais, pugna a autarquia pela aplicação do disposto nos arts. 37-A da Lei 10.522/2002 e 61 da Lei 9.430/1996, a fim de que incidam sobre os valores a serem devolvidos a taxa Selic e a multadamoraa partir do dia seguinte ao do vencimento da cobrança administrativa.
+9. No entanto, oTribunal de origem entendeu que, por não terem as parcelas em cobrançanatureza de crédito tributário,não cabiaa incidência da SELIC e dos juros na forma requerida.
+10. Observo que o recurso especial não combateu talfundamento suficiente doaresto recorrido, pelo que é inafastávela incidência da Súmula283/STF, por analogia, segundo a qual é inadmissível o recursoextraordinário, quando a decisão recorrida assenta em mais de umfundamento suficiente e o recurso não abrange todos eles.
+11. Ante o exposto, conheço parcialmente dorecurso especial do INSS e, nessa extensão, nego-lhe provimento.
+12. Publique-se. Intimações necessárias.
