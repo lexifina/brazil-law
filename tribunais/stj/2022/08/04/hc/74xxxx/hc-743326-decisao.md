@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso ordinário, com pedido liminar, impetrado em favor de PAULA GABRIELA VIEIRA DA SILVA, contra v. acórdão proferido pelo eg. TRIBUNAL DE JUSTIÇA DO RIO GRANDE DO NORTE no HC n. 0800871-96.2022.820.0000.
+Depreende-se dos autos que o d. Juízo das execuções determinou a realização de exame criminológico antes da análise do pleito de progressão de regime (fls. 18-19).
+Inconformada, a Defesa impetrou prévio writ perante o eg. Tribunal de origem, que denegou a ordem, conforme v. acórdão de fls. 21-25, assim ementado:
+"CONSTITUCIONAL E PROCESSUAL PENAL. EXECUÇÃO DA PENA. HABEAS CORPUS. PLEITO DE PROGRESSÃO DE REGIME. NÃO ACOLHIMENTO. NECESSIDADE DE REALIZAÇÃO DE EXAME CRIMINOLOGICO. DECISÃO DEVIDAMENTE FUNDAMENTADA. RECOMENDAÇÃO DE PROVIDÊNCIAS, NO PRAZODE 30 DIAS, PARA A REALIZAÇÃO DA REFERIDA PROVA TÉCNICA. ORDEM CONHECIDA EDENEGADA"
+No presente writ, a defesa sustenta, em apertada síntese, que o paciente está submetido a constrangimento ilegal, porquanto preenche os requisitos legais para deferimento da progressão ao regime intermediário, sendo inidôneos os fundamentos invocados pelas instâncias ordinárias para determinar a realização do exame criminológico, lastreado unicamente na gravidade abstrata do delito e na longevidade dapena a cumprir.
+Requer, ao final, a concessão da ordem, inclusive liminarmente, para, in verbis (fl. 7):
+"a) IN LIMINE, porque presentes os requisitos basilares do periculum in mora e o fumus boni iuris, aguardam o acolhimento do pleito, ainda em sede de liminar, sem audição da autoridade apontada como coatora, para que, de pronto, seja PROGREDIDO O REGIME DO PACIENTE PARA O SEMIABERTO, e restabelecido o direito constitucional do paciente da livre locomoção, impedindo, finalmente, que sua família seja vilipendiada com a execração na comunidade em que vivem, além de se restabelecer o império da Justiça e do Direito pátrios, enviando-o ao estabelecimento penal adequado até o julgamento do presente writ e/ou julgamento pelo MM. Juízo da Execução com a avaliação psiquiátrica, s. m. j., a ser efetivada, como ato reparatório do constrangimento já causado, expedindo-se o necessário para tanto;
+b) No "meritum causae" seja julgado PROCEDENTE o pleito para que essa Excelsa Tribuna conceda o writ ao Paciente, desnecessitando-se do fazimento do exame criminológico ou o fazimento de tal exame no regime semiaberto, caso for notificando-se a DD. autoridade coatora a prestar as informações de estilo, ouvindo-se ao depois o DD. Parquet bandeirante, como medida de JUSTIÇA"
+Pedido de liminar indeferido às fls. 24-26.
+Informações prestadas às fls. 31-43, 44-46 e 59-60.
+O Ministério Púbico Federal manifestou-se, às fls. 49-54, pelo não conhecimento do habeas corpus, em parecer com a seguinte emenda:
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. EXECUÇÃO PENAL. DETERMINAÇÃO DE EXAME CRIMINOLÓGICO. FUNDAMENTAÇÃO IDÔNEA. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO.
+1. O posicionamento firmado pelo Tribunal de origem está em sintonia com a orientação dessa Corte Superior, segundo a qual, nos termos da Súmula 439/STJ, " A dmite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada"
+.2. O Ministério Público Federal requer o enfrentamento da preliminar de não cabimento de habeas corpus substitutivo de recurso ordinário à luz do art. 5º, incisos LV e LXVIII, e do art.105, inciso I, alínea "c", e inciso II, alínea "a", da CF/88, para fins de viabilizar o prequestionamento da matéria. No mérito, para não perder a oportunidade de manifestação, pronuncia-se pela inexistência de ilegalidade no acórdão estadual".
+É o relatório.
+Decido.
+O presente habeas corpus está prejudicado.
+Com efeito, consta das informações prestadas pelo Juiz de primeiro grau que"em razão da excessiva demora do Núcleo de Perícias do Tribunal de Justiça do Rio Grande do Norte na realização do exame criminológico, que ainda não tinha data prevista, entendi dispensá-lo e, após manifestação ministerial e juntada de atestado de conduta carcerária, concedi progressão de regime à paciente Paula Gabriela Vieira da Silva"(fl. 59).
+Ante o exposto, julgo prejudicado este habeas corpus.
+P. e I.
