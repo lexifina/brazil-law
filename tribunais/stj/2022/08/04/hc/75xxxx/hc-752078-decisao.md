@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso ordinário, com pedido de liminar, impetrado em benefício de ROBERTA NORDARI DE SOUZA, apontando como autoridade coatora o eg. Tribunal de Justiça do Estado de São Paulo.
+Depreende-se dos autos que a ora pacienteteve a prisão preventiva decretada pela suposta prática do delito previstosnos artigos 157, § 2.º, inciso II, do Código Penal Brasileiro.
+Irresignada, a Defesa impetrou habeas corpus perante o eg. Tribunal a quo, pleiteando a revogação da prisão preventiva da paciente. O Tribunal de origem denegou a ordem, conforme a seguinte ementa, in verbis:
+"HABEAS CORPUS. Suposta prática de roubo majoradopelo concurso de agentes. Pleito de revogação daprisão preventiva. Alegação de ausência defundamentação Idônea para a custódia cautelar, dedesproporcionalidade da prisão e de adequação dasmedidas cautelares diversas da prisão e da necessidadede substituição pela prisão domiciliar. Gravidadeconcreta do crime, praticado mediante grave ameaça eviolência contra as vitimas. Presentes os requisitos dosartigos 312 o 313 do CPP. A presença de atributospessoais favoráveis não autoriza, por si só, aconcessão da ordem. Medidas cautelares alternativas àprisão, previstas no art. 319, do CPP, não se mostramsuficientes no caso em análise. Impossibilidade dasubstituição da prisão preventiva pela domiciliar. Crimecom violência ou grave ameaça à pessoa. Ausência dosrequisitos previstos no artigo 318-A, I, do CPP.Constrangimento ilegal não configurado. Ordemdenegada" (fl. 12).
+Daí o presente writ, no qual pleiteia "o direito da paciente de responder o processoem liberdade ou em prisão domiciliar, considerando que é primária, a conduta foitentada e, caso condenada, a paciente poderá descontar eventual pena em regimeprisional diverso do fechado, o que caracteriza o fumus boni iuris exigido" (fl. 10).
+Requer, ao final, a revogação da prisão preventiva ou, subsidiariamente, a substituição pela prisão domiciliar.
+Liminar indeferida às fls. 44-45.
+Informações prestadas às fls. 49-82, 84-92 e 93-101.
+O Ministério Público Federal, às fls. 102-104, manifestou-se pela denegação da ordem, em parecer que restou assim ementado:
+"PENAL. ROUBO. INCIDÊNCIA DA VEDAÇÃO PREVISTANO ART. 318-A. INCISO I. DO CPP. CRIME OCORRIDOCOM VIOLÊNCIA E GRAVE AMEAÇA.IMPOSSIBILIDADE DE DECRETAÇÃO DA PRISÃODOMICILIAR. PRECEDENTES PELA DENEGAÇÃO DAORDEM" (fl. 102).
+É o relatório.
+Decido.
+Inicialmente, cumpre esclarecer que o Regimento Interno deste Superior Tribunal de Justiça,em seu art.34, inciso XX, permite ao relator"decidir ohabeas corpusquando for inadmissível, prejudicado ou quando a decisão impugnada se conformar com tese fixada em julgamento de recurso repetitivo ou de repercussão geral, a entendimento firmado em incidente de assunção de competência, a súmula do Superior Tribunal de Justiça ou do Supremo Tribunal Federal,a jurisprudência dominante acerca do temaou as confrontar".
+Não por outro motivo, a Corte Especial deste Superior Tribunal de Justiça, em 16/3/2016, editou a Súmula n. 568, segundo a qual "o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema", aplicável à presente hipótese que trata dehabeas corpus substitutivo de recurso próprio.
+O pedido encontra-se prejudicado.
+Conforme informações do Juízo a quo (fls. 93-101), foi proferida sentença nos autos do processo n. 1501326-93.2022.8.26.0536, em 08/07/2022 em que o juízo a quo julgou "IMPROCEDENTE a acusação contra ERICK ALEXANDRE AMORIMCARVALHO. RG 36.205.331. nascido em 19.10.1995. e ROBERTA NÓDARI DESOUSA, RG 43.750.532, nascida em 04.2.1994, e os absolvo da imputado de estaremincursos sanções do artigo 157, § 2o, inciso II. Código Penal, com fundamento no artigo386, inciso VII, do Código de Processo Penal", e determinou a expedição do alvará de soltura.
+Nesse contexto, verifico que o presente writ perdeu o objeto, uma vez que já atendida a pretensão nele requerida.
+Ante o exposto, julgo o presente habeas corpus prejudicado.
+P. e I.
