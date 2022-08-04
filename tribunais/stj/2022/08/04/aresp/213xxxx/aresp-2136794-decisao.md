@@ -1,0 +1,39 @@
+DECISÃO
+Cuida-se de agravo apresentado por RODOVIAS DAS COLINAS S/A contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+LOCAÇÃO DE SALAS COMERCIAIS. AÇÃO DE COBRANÇA REFERENTE À REPARAÇÃO DE DANOS CAUSADOS EM IMÓVEIS LOCADOS E ALUGUERES REFERENTES AO PERÍODO EM QUE AS SALAS PERMANECERAM EM OBRAS PARA RECOMPOSIÇÃO, APÓS A DESOCUPAÇÃO. JULGADA PARCIALMENTE PROCEDENTE.
+Quanto à controvérsia dos autos, pela alínea "a" do permissivo constitucional, alega violação do art. 447, § 2º, III do CPC, no que concerne à necessidade de se anular decisão lastreada em prova testemunhal ilícita, trazendo o seguinte argumento:
+A presente ação de cobrança foi proposta pela recorrida e julgada parcialmente procedente em 1ª Instância.
+ ..
+Ao apreciar o referido recurso, o i. Desembargador relator proferiu o v. acórdão, negando provimento ao recurso.
+ ..
+No v. acórdão ora recorrido, no que tange ao vicio comprovadamente demonstrado que lastreou a condenação imposta, entendeu que a decisão proferida pelo d. Juízo a quo teria sido lastreada não apenas no depoimento, mas, em todo o conteúdo probatório, com o que não se pode concordar.
+ ..
+A testemunha cujo depoimento foi considerado para justificar a condenação imposta era coordenadora administrativa da Recorrida quando interveio nos autos como parte, representando aquela como sua preposta na audiência para oitiva de testemunha da Recorrente, ocorrida na cidade de São Paulo, após ser ouvida como testemunha na comarca de origem.
+Assim, é claro que o depoimento outrora prestado por ela está eivado de vício e não merece ser recebido como meio apto de prova, em face da evidente falta de isenção de ânimo dela quando atuou como testemunha.
+Seu depoimento, ademais, deixou claro a sua total falta de isenção de ânimo, tanto que a MM. Juíza sentenciante afastou 90% dos absurdos pedidos feitos pela Recorrida, os quais essa testemunha tentou validar em seu depoimento.
+Logo, como se vê, o depoimento usado pela i. Juíza para condenar a Recorrente ao pagamento do piso, não pode jamais servir de parâmetro a qualquer condenação.
+Equivoca-se o E. Tribunal ao afirmar que o julgamento proferido em 1ª. Instância teria sido lastreado não só em depoimentos, mas, nas demais provas produzidas, entendimento esse evidentemente desconexo, já que sequer apontou quais seriam essas demais provas, sequer citadas no referido julgamento.
+Assim, a partir do momento em que a condenação foi lastreada em uma prova eivada de ilicitude, todos os atos posteriores à realização dessa prova, isto é, a partir do depoimento colhido, deverá ser desconsiderada.
+A doutrina dos frutos da árvore envenenada é uma metáfora que faz comunicar o vício da ilicitude da prova obtida com violação à regra de direito material a todas as demais provas produzidas a partir daquela. Aqui tais provas são tidas como ilícitas por derivação, o que se observa no caso em tela.
+Assim, requer-se seja reconhecida a ilicitude da prova produzida, e ato continuo seja afastada a condenação imposta lastreada na mesma, pelas razões expostas (fls. 442-445).
+É, no essencial, o relatório. Decido.
+Na espécie, o acórdão recorrido assim decidiu:
+Alega a empresa Ré que a testemunha Samira representava a empresa Autora (fls. 301) e estaria impedida, portanto, de testemunhar, de acordo com o Art. 447, §2º, III do CPC.
+Correta a alegação, entretanto, ainda que assim o fosse a testemunha impedida poderia ser ouvida na condição de informante, em conformidade com o artigo 447, §§4º e 5º.
+Ainda, o MM. Juiz a quo não baseou seu julgamento apenas no testemunho de Samira, mas em todo o conjunto probatório juntado aos autos pelas partes.
+Vale destacar o que foi exposto pelo Magistrado na r. Sentença:
+"Em relação ao valor do piso, a requerente consignou um custo de R$86.400,00 (oitenta e seis mil e quatrocentos reais), conforme se verifica às fls. 34 da planilha de cálculos.
+Embora a requerente não tenha apresentado documento com o orçamento respectivo, não houve impugnação pela requerida a respeito do quantum pretendido.
+Segundo depoimento da testemunha Samira, na época em que estavam em negociação (outubro/2012), o custo da substituição do piso era de R$63.000,00, evoluindo para R$86.400,00, na época do ajuizamento da ação (três anos após)." (fls. 337).
+Logo, é de se analisar que o MM. Juiz a quo fundamentou a condenação da empresa Ré ao pagamento do concerto do piso, com base em planilha de cálculos às fls. 34, bem como ao fato que a empresa Ré não impugnou o quantum pretendido.
+Evidente, portanto, que tal decisão não se baseou apenas no depoimento da testemunha Samira (fls. 434-435).
+Aplicável, portanto, o óbice da Súmula n. 284/STF, uma vez que as razões recursais delineadas no especial estão dissociadas dos fundamentos utilizados no aresto impugnado, tendo em vista que a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, esta Corte Superior de Justiça já se manifestou na linha de que, "não atacado o fundamento do aresto recorrido, evidente deficiência nas razões do apelo nobre, o que inviabiliza a sua análise por este Sodalício, ante o óbice do Enunciado n. 284 da Súmula do Supremo Tribunal Federal". (AgRg no AREsp n. 1.200.796/PE, relator Ministro Jorge Mussi, Quinta Turma, DJe de 24/8/2018.)
+Confiram-se ainda os seguintes julgados: AgInt no REsp n. 1.811.491/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 19/11/2019; AgInt no AREsp n. 1.637.445/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 13/8/2020; AgInt no AREsp n. 1.647.046/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 27/8/2020; e AgRg nos EDcl no REsp n. 1.477.669/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 2/5/2018.
+Ademais, considerando o trecho do acórdão recorrido acima transcrito, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
