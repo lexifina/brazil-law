@@ -1,0 +1,4 @@
+INSTRUÇÃO NORMATIVA BCB Nº 292, DE 1º DE AGOSTO DE 2022
+Divulga procedimentos, documentos e informações necessários à instrução dos pedidos de autorização para que instrumentos componham o Capital Principal, o Capital Complementar e o Nível II do Patrimônio de Referência (PR), de recompra e de resgate dos referidos instrumentos e de aditamento, alteração e revogação de seus núcleos de subordinação, de que trata a Resolução CMN nº 4.955, de 21 de outubro de 2021.
+O Chefe do Departamento de Organização do Sistema Financeiro (Deorf), substituto, no uso da atribuição que lhe conferem os arts. 23, inciso I, alínea “a”, e 96, inciso XII, do Regimento Interno do Banco Central do Brasil, anexo à Portaria nº 84.287, de 27 de fevereiro de 2015, com base nos arts. 25 e 33, inciso I, da Resolução CMN nº 4.955, de 21 de outubro de 2021,
+R E S O L V E :
