@@ -17,10 +17,10 @@ II - no caso de empresas de seguros privados, o valor referente às indenizaçõ
 III - no caso de entidades de previdência privada, abertas e fechadas, os rendimentos auferidos nas aplicações financeiras destinadas ao pagamento de benefícios de aposentadoria, pensão, pecúlio e de resgates;
 IV - no caso de empresas de capitalização, os rendimentos auferidos nas aplicações financeiras destinadas ao pagamento de resgate de títulos.
 § 7º As exclusões previstas nos incisos III e IV do § 6º restringem-se aos rendimentos de aplicações financeiras proporcionados pelos ativos garantidores das provisões técnicas, limitados esses ativos ao montante das referidas provisões.
-§ 8º Na determinação da base de cálculo da contribuição para o PIS/PASEP e COFINS, poderão ser deduzidas as despesas de captação de recursos incorridas pelas pessoas jurídicas que tenham por objeto a securitização de créditos:
-I - imobiliários, nos termos da Lei nº 9.514, de 20 de novembro de 1997;
-II - financeiros, observada regulamentação editada pelo Conselho Monetário Nacional.
-III - agrícolas, conforme ato do Conselho Monetário Nacional.
+§ 8º Na determinação da base de cálculo da Contribuição para o PIS/Pasep e a Cofins, poderão ser deduzidas as despesas de captação de recursos incorridas pelas pessoas jurídicas que tenham por objeto a securitização de créditos.
+I - (revogado);
+II - (revogado);
+III - (revogado).
 § 9º Na determinação da base de cálculo da contribuição para o PIS/PASEP e COFINS, as operadoras de planos de assistência à saúde poderão deduzir:
 I - co-responsabilidades cedidas;
 II - a parcela das contraprestações pecuniárias destinada à constituição de provisões técnicas;
