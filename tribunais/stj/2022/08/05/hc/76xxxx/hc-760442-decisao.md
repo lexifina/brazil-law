@@ -1,0 +1,57 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado contra decisão que indeferiu a liminar no writ de origem.
+Consta dos autos que a paciente foi presa preventivamente pela prática do crime tipificado no art. 33 da Lei 11.343/2006.
+No presente writ, oimpetrante sustenta que não estão presentes os requisitos autorizadores da prisão preventiva, bem como que faz jus à prisão domiciliar, por ser a pacientegenitora de filho menor de 12 anos de idade.
+Nos termos da Súmula 691 do Supremo Tribunal Federal, não se admite a utilização de habeas corpus contra decisão que indeferiu a liminar em writ impetrado no Tribunal de origem, sob pena de indevida supressão de instância.
+Admite-se, entretanto, sua mitigação quando evidenciada a presença de decisão teratológica ou desprovida de fundamentação.
+Na origem, a liminar foi indeferida pelo Desembargador Relator sob a seguinte fundamentação (fls. 68-71)
+Vistos.
+Cuida-se de "habeas corpus", com pedido liminar, impetrado em favor de Gizelia de Oliveira Carminate, sob a alegação de que estaria sofrendo constrangimento ilegal por parte da MM.ª Juíza de Direito da 1ª Vara Criminal e de Execuções Criminais da Comarca de Barbacena, ora apontada como autoridade coatora.
+Relata a impetração, em síntese, que a paciente foi presa em flagrante pela prática, em tese, do delito descrito no art. 33, "caput", da Lei nº 11.343/06, havendo, posteriormente, a conversão em prisão preventiva.
+Sustenta que a decisão em que foi convertida a custódia carece de fundamentação idônea, uma vez que teria apenas feito menção abstrata a dispositivos legais e à gravidade do crime.
+Alega que, no caso, não estão preenchidos os requisitos do art.
+312 do Código de Processo Penal e que são aplicáveis medidas cautelares diversas da prisão, considerando a excepcionalidade desta e as políticas instituídas pelo CNJ em alternativa à privação de liberdade.
+Referenciando o "Habeas Corpus" Coletivo nº 143.641 do STF e a Recomendação nº 62 do CNJ, afirma que a paciente faz jus à substituição da custódia pela prisão domiciliar, em razão de ter umafilha menor, pela qual é responsável.
+Requer a concessão da ordem, liminarmente e no mérito, para que seja a prisão preventiva da paciente revogada, mediante aaplicação de outras medidas cautelares, ou, subsidiariamente, seja ela substituída por prisão domiciliar.
+A inicial foi instruída com documentos (ordem 2-11).
+É, no essencial, o relatório.
+Passo à análise do pedido liminar.
+Nos termos do inciso LXVIII do artigo 5º da Constituição Federal, "conceder-se-á "habeas-corpus" sempre que alguém sofrer ou se achar ameaçado de sofrer violência ou coação em sua liberdade de locomoção, por ilegalidade ou abuso de poder".
+Cumpre ressaltar que, apesar da ausência de previsão legal, é pacífico o entendimento sobre a possibilidade de concessão da medida liminar em "habeas corpus", desde que presentes os requisitos das medidas cautelares em geral, quais sejam, "fumus boni iuris" e "periculum in mora".
+No caso em tela, verifico que a decisão na qual a prisão em flagrante da paciente foi convertida em preventiva (ordem 8) apresenta fundamentos suficientes para justificar, ao menos por ora, a manutenção da medida.
+A autoridade apontada como coatora, além de registrar, com base em documentos dos autos, a presença de indícios de autoria da paciente e de prova da materialidade do crime, enfatizou a gravidade dos fatos concretamente, indicando a apreensão de 600 kg demaconha bem como de armas e munições de uso restrito e destacando ter havido união de pessoas para a prática.
+Na ocasião, apontou-se ainda que as medidas cautelares diversas da prisão seriam insuficientes no caso, tendo em vista, principalmente, a expressiva quantidade de substâncias entorpecentes apreendidas.
+Ressalto, pelo que se colhe dos autos neste momento, que a fundamentação de referida decisão, a presença dos pressupostos para a prisão preventiva e a proporcionalidade da medida já foram avaliadasquando do julgamento do "Habeas Corpus" nº 1.0000.22.105970- 2/000, cuja ordem foi denegada na parte conhecida.
+No que tange ao pedido de substituição por prisão domiciliar (ordem 11), também entendo, neste exame inicial, que a decisão de indeferimento, proferida em primeiro grau de jurisdição, encontra-se devidamente fundamentada.
+Nesse contexto, a magistrada de primeiro grau, ao entender não ser recomendada a substituição, considerou, principalmente, a gravidade do crime, o risco de reiteração delitiva, a inexistência nos autos de "elementos a comprovar que esteja a menor em situação de violação de seus direitos desde a data da prisão" da paciente bem como o fato de que esta estaria em gozo de liberdade provisória concedida no Mato Grosso do Sul por ser mãe de criança de seis anos.
+Diante do exposto, não identifico, nesta primeira análise, situação de risco atual ou iminente à liberdade de locomoção da paciente decorrente de flagrante ilegalidade, razão pela qual entendo ser necessário requisitar informações ao juízo de origem para que esclareça a situação do processo e elucide as características do caso concreto.
+Portanto, não vislumbrando elementos que permitam uma decisão concessiva da liminar pleiteada, caberá à Turma Julgadora, oportunamente, a análise definitiva do "writ".
+Posto isso, INDEFIRO a liminar requerida.
+Ressalte-se, de início quea questão dos requisitos da decisão que decretou a prisão preventiva da paciente já foi analisada por esta Corte nos autos do HC 749.853/MG, que indeferiu liminarmente o writ por decisão proferida em 17/6/2022.
+Desse modo, passa-se apenas ao exame do pedido de prisão domiciliar, sob o fundamento de que a paciente é genitora de filho menor de 12 anos de idade, cujo pedido foi indeferido pelo juízo de primeiro grau sob a seguinte fundamentação (fl. 40):
+NOUTRO GIRO, NO ID 9521004852 requer GIZELIA DE OLIVEIRA CARMINATE, qualificada alhures, a concessão de prisão domiciliar pois, segundo alega, é mãe de filho menor pelo qual é responsável.
+NO ID 9523800619 manifestação pelo Ministério Público.
+Pois bem.
+CONSIDERANDO tratar-se um dos crimes, em tese, cometidos pela autuada, de tráfico de drogas, crime de extrema gravidade e causador de inúmeros males para a sociedade, e que são os indivíduos ligados à traficância responsáveis pelo aumento do consumo de drogas;
+CONSIDERANDO noticiar os autos que presa em flagrante delito no estado do Mato Grosso do Sul, oportunidade em que concedida liberdade justamente por ser mãe de uma criança de seis anos;
+CONSIDERANDO que há, em tese, risco concreto de reiteração criminosa;
+CONSIDERANDO a possibilidade de manutenção da prisão preventiva de mulheres mães de crianças menores, dentre outras situações, quando se tratar de situação excepcional, desde que devidamente fundamentada, conforme decidido pelo STF no HC coletivo n 2 143.641;
+CONSIDERANDO não conter os autos elementos a comprovar que esteja a menor em situação de violação de seus direitos desde a data da prisão da autuada, ou que imprescindível seu recolhimento domiciliar.
+CONSIDERANDO lição de Renato Brasileiro no sentido de que "a presença de um dos pressupostos do artigo 318 do CPP funciona como requisito mínimo, mas não o suficiente, de per si, para a substituição, cabendo ao magistrado verificar se, no caso concreto, a prisão domiciliar seria suficiente para neutralizar o periculum libertatis que deu ensejo à decretação da prisão preventiva do acusado" (Manual de Direito Processual Penal, Juspodvium, 2020, p. 1125);
+COM fulcro no §6 2 do artigo 282 do Código de Processo Penal, INDEFIRO o pedido ID, mantendo a prisão preventiva de GIZELIA DE OLIVEIRA CARMINATE, qualificada alhures, pelas razões acima expostas.
+PROSSEGUINDO:
+CONSIDERANDO o disposto na Portaria Conjunta 19/PR-TJMG/2020, Recomendação 62/CNJ/2020 e no parágrafo único do art.316 do Estatuto Processual Penal, com alteração pela Lei 3.964/19 (Pacote Anticrime), que determinam a necessidade da revisão da manutenção das prisões a cada 90 (noventa) dias;
+VERIFICO que atualmente presos os acusados há 115 dias, pelas razões lançadas nas decisões ID e ID dos autos em apenso _r3. 2 5003123- 41.2022.8.13.0056.
+CONSIDERANDO indicarem as circunstâncias do caso concreto o perigo gerado com a liberdade dos denunciados, bem como a gravidade das infrações a eles imputadas.
+MANTENHOA PRISÃO PREVENTIVA DE GIZELIA DE OLIVEIRA CARMINATE, MICHELL PEREIRA DE ARAÚJO, ÂNGELO JÚNIOR DA SILVA VIEIRA E LESLEY WOXITOM RODRIGUES, QUALIFICADOS ALHURES.
+Como se vê, a decisão que indeferiu o pedido de prisão domiciliar apresenta fundamentação válida, evidenciada no fato de que anteriormente já havia sido concedida prisão domiciliar à paciente pelo mesmo fato, sendo que voltou a reiterar na mesma prática criminosa, ou seja, o tráfico de drogas.
+"No que concerne à possibilidade de substituição da segregação cautelar porprisão domiciliar,cumpre consignar que o Supremo Tribunal Federal, no julgamento do habeas corpus coletivo n. 143.641/SP, sob relatoria do em. Ministro Ricardo Lewandowiski, entendeu ser possível a substituição da segregação cautelar pelaprisão domiciliar,sem prejuízo da aplicação concomitante das medidas cautelares previstas no artigo 319 do CPP, para mulheres presas, gestantes, puérperas ou mães de crianças sob sua guarda, enquanto perdurar tal condição, excetuados os casos de crimes praticados por elas mediante violência ou grave ameaça, contra seus descendentes ou, ainda, emsituaçõesexcepcionalíssimas" (AgRg no HC n. 645.434/CE, relator Ministro Felix Fischer, Quinta Turma, julgado em 16/3/2021, DJe de 22/3/2021.).
+No caso, é certo que dasituaçãoevidenciada nos autos verifica-se excepcionalidade apta a revelar a inadequação daprisão domiciliar,considerando as circunstâncias do caso concreto,tendo em vista a ineficácia da prisão domiciliar outrora concedida para conter a reiteração criminosa, o que justifica o indeferimento daprisão domiciliar. Nesse sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS IMPETRADO EM SUBSTITUIÇÃO AO RECURSO PRÓPRIO. TRÁFICO DE DROGAS. NULIDADE DO FLAGRANTE EM RAZÃO DA NÃO REALIZAÇÃO DA AUDIÊNCIA DE CUSTÓDIA. NÃO OCORRÊNCIA. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. APREENSÃO DE GRANDE QUANTIDADE DE DROGA. RISCO DE REITERAÇÃO. PRISÃO DOMICILIAR. SITUAÇÃO EXCEPCIONAL. CORONAVÍRUS. PACIENTE QUE NÃO INTEGRA O GRUPO DE RISCO. AGRAVO DESPROVIDO.
+ ..
+5. Acerca do pleito de prisão domiciliar, conforme consignado no decreto prisional, a própria paciente teria afirmado em seu interrogatório não ser responsável pelos cuidados da criança, e sim sua genitora, além de ser garota de programa e não ter residência fixa, inclusive já teria morado em Dourados/MS, Ribeirão Preto/SP, Campinas/SP, Rio de Janeiro/RJ, sem paradeiro certo, não realizando os cuidados da criança, o que denota que sua eventual soltura, não assegurará o melhor interesse de seu filho. Ainda, considerando ainda a grande quantidade de droga apreendida, dado indicativo de envolvimento mais profundo com organização criminosa, bem ainda o risco de reiteração delitiva, fica evidente um contexto excepcional que impede o benefício postulado.
+6. Agravo regimental desprovido.(AgRg no HC n. 634.333/MS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 9/2/2021, DJe de 11/2/2021.)
+Desse modo, não se verifica flagrante ilegalidade a ensejar a mitigação do enunciado daSúmula 691 do STF.
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+Intimem-se.
