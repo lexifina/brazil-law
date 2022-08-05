@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo Instituto Nacional do Seguro Socialcontra acórdão do Tribunal Regional Federal da 4ª Regiãoassim ementado:
+AGRAVO DE INSTRUMENTO. PREVIDENCIÁRIO. CUMPRIMENTO DESENTENÇA. EMISSÃO DE CERTIDÃO DE TEMPO DE CONTRIBUIÇÃO. DIREITO DE CERTIDÃO.1. O INSS, por dever de informação, quando requerido, deve fornecer certidão do que consta em seus bancos de dados. Trata-se de mera decorrência do que dispõe a Constituição, no art. 5º, inciso XXXIV, segundo o qual, são a todos assegurados, independentemente do pagamento de taxas: a)o direito de petição aos Poderes Públicos em defesa de direitos ou contra ilegalidade ou abuso de poder; b) a obtenção de certidões em repartições públicas, para defesa de direitos e esclarecimento de situações de interesse pessoal. 2. É a Certidão de Tempo de Contribuição o documento apto a comprovar, no futuro, o tempo reconhecido na via judicial. O mero extrato do lançamento, ainda que atualizado, é algo que pode ser facilmente alterado, se em algum momento, um outro servidor for reconstituí-lo nos sistemas e deixar de lançar, à luz de interpretação pessoal, o período reconhecido em juízo ou qualquer outro. É comum que um mesmo período seja reconhecido pelo INSS de diferentes formas nos seus extratos, a depender da interpretação atribuída pelo servidor ao tempo de serviço.
+Nasrazões de recurso especial fundamentado naalínea"a"do permissivo constitucional o recorrente aponta violaçãoaos artigos 1022, II, do CPC/2015; 96, II e III, da Lei 8.213/91.
+Aponta negativa de prestação jurisdicional.
+Assevera que o acórdão "não esclareceu obscuridade, pois conforme estabelecido acima, a CTC destina-se a órgão de Regime Próprio de Previdência Social, não podendo haver contagem em duplicidade do mesmo tempo de contribuição, nos termos do Art. 96, III, Lei 8213/1991, bem como não foi esclarecido o interesse e a necessidade de, passados mais de 9 anos do falecimento da parte autora, e estando efetivada a conta de liquidação, e estando claramente estabelecidos os reflexos da condenação nos interesses da pensionista sucessora, a possibilidade e a necessidade de expedição de CTC, se é outro o modo de solução dos possíveis reflexos no benefício mensal da pensão legada".
+Contrarrazões ao recurso especial apresentadas às e-STJ fls. 153/158.
+É o relatório.
+Decido.
+De início, verifica-se que o recorrente não opôs Embargos de Declaração, mostrando-se deficiente a fundamentação recursal, de vez que a alegação de ofensa ao art. 1022 do CPC/2015 pressupõe a oposição do recurso integrativo. Incidência, na espécie, da Súmula 284/STF, segundo a qual "é inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Ademais, o acórdão recorridoconsignou:
+Não vejo razão, agora, para modificar tal entendimento. A emissão de certidão de tempo de serviço, ainda que possa ser requerida com vistas à utilização em regime próprio de previdência social, não é medida que a isso se restringe. O INSS, por dever de informação, quando requerido, deve fornecer certidão do que consta em seus bancos de dados. Trata-se de mera decorrência do que dispõe a Constituição, no art. 5º, inciso XXXIV, segundo o qual, são a todos assegurados, independentemente do pagamento de taxas: a)o direito de petição aos Poderes Públicos em defesa de direitos ou contra ilegalidade ou abuso de poder; b) a obtenção de certidões em repartições públicas, para defesa de direitos e esclarecimento de situações de interesse pessoal.
+É assente que orecurso especial possui fundamentação vinculada, destinando-se a garantir a autoridade da lei federal e a sua aplicação uniforme, não constituindo, portanto, instrumento processual destinado a examinar a questão constitucional, sob pena de usurpação da competência do Supremo Tribunal Federal, conforme dispõe o art. 102, III, da Constituição Federal.
+Nota-se que o acórdão recorrido apoiou-se em fundamentação eminentemente constitucional para dirimir a controvérsia, o que afasta a possibilidade de revisão de suas premissas pelo Superior Tribunal de Justiça.
+Sobre o tema:
+ADMINISTRATIVO. PROCESSUAL CIVIL. AÇÃO CIVIL PÚBLICA. OBRIGAÇÃO DE FAZER. OBRAS DE ACESSIBILIDADE EM CENTROS DE SAÚDE DO MUNICÍPIO. PRETENSÃO JULGADA IMPROCEDENTE. PRINCÍPIO DA SEPARAÇÃO DOS PODERES. FUNDAMENTO EMINENTEMENTE CONSTITUCIONAL. ESTREITA VIA DO RECURSO ESPECIAL EXTRAPOLADA.
+1. Na hipótese, o Tribunal de origem decidiu a controvérsia com base em fundamento eminentemente constitucional, escapando sua revisão, assim, à competência desta Corte no âmbito do recurso especial.
+2. Agravo regimental a que se nega provimento. (AgRg no REsp 1275358/MG, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 02/12/2014, DJe 10/12/2014)
+TRIBUTÁRIO. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. PIS/COFINS-IMPORTAÇÃO. ACÓRDÃO QUE DECIDIU A MATÉRIA SOB FUNDAMENTO EMINENTEMENTE CONSTITUCIONAL. ANÁLISE VEDADA, EM SEDE DE RECURSO ESPECIAL. AGRAVO REGIMENTAL NÃO PROVIDO.
+I. Inviável o Recurso Especial interposto contra acórdão que decidiu a controvérsia sob enfoque eminentemente constitucional. Precedentes do STJ.
+(..)
+V. Agravo Regimental não provido. (AgRg no AREsp 189.566/MG, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 25/11/2014, DJe 03/12/2014)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. REQUERIMENTO DE BENEFICIÁRIOS DIFERENTES. AGENDAMENTO. ART. 3º DA LEI N. 10.741/03. AUSÊNCIA DE PREQUESTIONAMENTO. ACÓRDÃO COM FUNDAMENTOS CONSTITUCIONAIS. ANÁLISE. INVIABILIDADE. USURPAÇÃO DE COMPETÊNCIA DO STF.
+(..)
+4. O Tribunal de origem dirimiu a controvérsia com enfoque constitucional. Em sede de recurso especial não se analisa suposta afronta a dispositivo constitucional, sob pena de usurpação da competência atribuída ao eg. Supremo Tribunal Federal.
+5. Agravo regimental a que se nega provimento. (AgRg no AREsp 634.479/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 14/4/2015, DJe 27/4/2015)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, nãoconheçodo recurso especial.
+Intimem-se.
+Publique-se.
+EMENTA
+PROCESSUAL CIVIL. ART. 1022, II, DO CPC. SÚMULA 284/STF. ACÓRDÃO RECORRIDO QUE ADOTA FUNDAMENTAÇÃO EMINENTEMENTE CONSTITUCIONAL. DIREITO DE CERTIDÃO (ART. 5º, XXIV, CF). RECURSO ESPECIAL NÃO CONHECIDO.
