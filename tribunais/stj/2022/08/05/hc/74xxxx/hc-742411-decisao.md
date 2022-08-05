@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, sem pedido liminar, impetrado em favor de CLAUDIO BRUNO DE OLIVEIRA contra v. acórdão proferido pelo eg. Tribunal de Justiça do Estado de São Paulo, nos autos da apelação criminal n. 1500734-85.2020.8.26.0094.
+Depreende-se dos autos que o paciente foi condenado, em primeira instância, às penas de 05 (cinco) anos e 04 (quatro) meses de reclusão, em regime inicial fechado, mais o pagamento de 26 (vinte e seis) dias-multa, como incurso nas iras do art. 155, § § 1º e 4º, I e II, do Código Penal (e-STJ 73-77).
+Inconformada, a defesa interpôs apelação perante o eg. Tribunal de origem, que, por unanimidade, deu parcial provimento ao recurso, a fim de redimensionar a pena do paciente em 03 (três) anos, 01 (um) mês e 10 (dez) dias de reclusão, em regime inicial fechado, mais o pagamento de 14 (quatorze) dias-multa, consoante voto condutor do v. acórdão de e-STJ fls. 78-87.
+Daí o presente writ, no qual a defesa alega, em síntese, a ocorrência de constrangimento ilegal na negativa de fixação do regime aberto e substituição da pena corporal por restritiva de direitos.
+Pugna pela fixação do regime inicial mais brando e substituição da pena.
+Requer, assim, a concessão da ordem.
+Não houve pedido liminar.
+Informações prestadas às fls. 71-72.
+O Ministério Público Federal, às fls. 103-104,manifestou-se pela prejudicialidade dowrit, em parecer assim ementado:
+"HABEAS CORPUS. FURTO QUALIFICADO. REGIME INICIAL MAIS BRANDO. ORDEM CONCEDIDA DE OFÍCIO PELO SUPERIOR TRIBUNAL DE JUSTIÇA NO HC Nº 696.275/SP.MANIFESTAÇÃO PELA PREJUDICIALIDADE DO WRIT." (fl. 103).
+É o relatório.
+Decido.
+O presente habeas corpus trata-se, na verdade, de mera reiteração de pedido, uma vez que a suposta ilegalidade emanada do v. acórdão proferido na apelação n. 1500734-85.2020.8.26.0094 já foi apreciada por esta Corte Superior no Habeas Corpus n. 696.275/SP, que concedeua ordem de ofício, a fim de, tão somente, para fixar o regime inicial semiaberto e conceder a substituição da pena privativa de liberdade por restritiva de direitos a ser estipulada pelo Juízo de Direito da Vara de Execuções Penais, conforme se extrai da decisão monocráticapublicada em 03/02/2022. Vejamos:
+"A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração dehabeas corpusem substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+Dessarte, passo ao exame das razões veiculadas nomandamus.
+Conforme relatado, busca-se na presente impetração: i) a substituição da pena privativa de liberdade por restritiva de direitos; e ii) a fixação de regime inicial mais brando.
+Inicialmente, cumpre asseverar que a via dowritsomente se mostra adequada para a análise da dosimetria da pena se não for necessária uma análise aprofundada do conjunto probatório e caso se trate de flagrante ilegalidade. Vale dizer, o entendimento deste Tribunal firmou-se no sentido de que a"dosimetria da pena insere-se dentro de um juízo de discricionariedade do julgador, atrelado às particularidades fáticas do caso concreto e subjetivas do agente, somente passível de revisão por esta Corte no caso de inobservância dos parâmetros legais ou de flagrante desproporcionalidade"(HC n. 400.119/RJ,Quinta Turma, Rel. Min.Reynaldo Soares da Fonseca, DJe de 1º/8/2017).
+Transcrevo, a fim de delimitar aquaestio, os seguintes trechos do v. acórdão impugnado:
+"Regime Prisional. Adequado o regime inicial fechado, como medida necessária e suficiente para a prevenção e reprovação do delito, levando em consideração a reincidência do réu que demonstra sua personalidade voltada ao crime, exigindo maior rigor na penalização, atendendo o disposto nos §§ 2º e 3º, do art. 33, do Código Penal.
+Incabível a substituição da pena privativa de liberdade por restritivas de direitos, por expressa vedação legal, nos termos do inc. II, do art. 44, do Estatuto Repressivo"(fls. 26-27).
+Com efeito,"é admissível a adoção do regime prisional semi-aberto aos reincidentes condenados a pena igual ou inferior a quatro anos se favoráveis as circunstâncias judiciais"(Súmula n. 269,Terceira Seção, DJ de 29/05/2002, p. 135).
+Ademais,"em recente decisum, nos autos do AREsp n. 1.716.664/SP, de relatoria do Ministro Ribeiro Dantas, julgado em 23/8/2021, DJe 31/8/2021, ambas as Turmas desta Corte de Justiça superaram a tese de que a reincidência em crimes da mesma espécie impede a substituição da pena privativa de liberdade por restritivas de direitos, salientando que somente a reincidência no mesmo crime (aquele constante no mesmo tipo penal) é capaz de fazê-lo, nos termos do art. 44, § 3º, do CP, sendo que nos demais casos de reincidência, cabe ao Judiciário avaliar se a substituição é ou não recomendável, em face da condenação anterior"(AgRg no HC n. 704.019/SP,Quinta Turma, Rel. Min.Reynaldo Soares da Fonseca, DJe de 29/11/2021).
+Nesse contexto, fixo o regime inicial semiaberto e concedo a substituição da pena privativa de liberdade por restritiva de direitos a ser estipulada pelo Juízo de Direito da Vara de Execuções Penais.
+Ante o exposto, não conheço dohabeas corpus.
+Contudo,concedo a ordem de ofício, a fim de, tão somente,fixar o regime inicial semiaberto e conceder a substituição da pena privativa de liberdade por restritiva de direitos a ser estipulada pelo Juízo de Direito da Vara de Execuções Penais, no mais mantidos os demais termos da condenação.P. e I."
+Ante o exposto, não conheço do presentehabeas corpus.
+P. e I.
