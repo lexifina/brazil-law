@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão do Tribunal Regional Federal da 5ª Região cuja ementa é a seguinte:
+CIVIL. AGRAVO DE INSTRUMENTO. HABILITAÇÃO. PENSÃO RATEADA ENTREDUAS BENEFICIÁRIAS. REQUISITÓRIO EXPEDIDO NA PROPORÇÃO DE CADACOTA-PARTE. POSSIBILIDADE. CONDIÇÃO DE BENEFICIÁRIAS RECONHECIDA PELA PRÓPRIA AGRAVANTE. AUSÊNCIA DE DOCUMENTOS QUE REVELEMPRESCRIÇÃO. IMPROVIMENTO.
+Os embargos de declaração opostos foram rejeitados.
+No recurso especial, interposto com base na alínea a do permissivo constitucional, a recorrente aponta ofensa aos arts. 489, 1.022, II, do CPC/2015, arguindo ausência de manifestação do órgão julgador acerca das questões suscitadas.
+No mérito, alega violação aos arts. 313, I, 485, II, do CPC/15; 196, 199 do CC/02; 1º do Decreto 20910/32; 2º do Decreto 4597/42, porquanto, "embora seja inconteste que a parte exequente faleceu há mais de 5 anos, a Colenda Terceira Turma do Eg. TRF5, entendeu que não ocorreu a prescrição intercorrente".
+Aduz, em síntese, que:
+Conforme se verifica do acórdão recorrido, o ex-servidor, JOAO LEITE NETO faleceu em 03/04/2007. Entretanto, a habilitação do herdeiro apenas foi promovida em 13/11/2020.
+ ..
+Os herdeiros do falecido, entretanto, demoraram mais de cinco anos para regularizar o polo ativo da demanda o que demonstra sua negligência, devendo, assim, serem responsabilizados por sua mora com a decretação da prescrição.
+Em suas contrarrazões, a recorrida pugna pelo não conhecimento do recurso ou, alternativamente, pelo seu não provimento.
+O recurso foi admitido pela decisão de fl. 174.
+É o relatório. Passo a decidir.
+O Tribunal de origem decidiu que:
+Entretanto, no caso de que ora se cuida, a ora agravante - que pretende o reconhecimento da prescrição e, portanto, possui o ônus de comprovar a veracidade de suas alegações - não colacionou aos autos deste agravo elementos suficientes para comprovar a data do trânsito em julgado da sentença proferida na ação de conhecimento, de modo que não se afigura possível, neste instante processual, reconhecer-se de pronto a prescrição da pretensão executória suscita dano presente recurso.
+Registro, porque oportuno, que na petição inicial do Processo de n.º 0824835-26.2019.4.05.810 4ª Habilitação0, que tramita perante a Vara Federal/CE, verifica-se que a companheira do falecido, Sra. Maria Heliane Alves de Melo, requereu sua habilitação para receber apenas o valor correspondente à sua cota parte, e não a sua integralidade, como afirma a FUNASA.
+Depreende-se dos autos que o Tribunal de origem, de modo fundamentado, tratou das questões suscitadas, resolvendo de modo integral a controvérsia posta.
+Na linha da jurisprudência desta Corte, não há falar em negativa de prestação jurisdicional nem em vício quando o acórdão impugnado aplica tese jurídica devidamente fundamentada, promovendo a integral solução da controvérsia, ainda que de forma contrária aos interesses da parte.
+Assim, não havendo no acórdão recorrido omissão, obscuridade, contradição ou erro material, não fica caracterizada ofensa aos arts. 489, 1.022 do CPC/2015.
+No mérito, constou o seguinte no acórdão recorrido:
+Entretanto, no caso de que ora se cuida, a ora agravante - que pretende o reconhecimento da prescrição e, portanto, possui o ônus de comprovar a veracidade de suas alegações - não colacionou aos autos deste agravo elementos suficientes para comprovar a data do trânsito em julgado da sentença proferida na ação de conhecimento, de modo que não se afigura possível, neste instante processual, reconhecer-se de pronto a prescrição da pretensão executória suscita dano presente recurso.
+Da leitura da petição do recurso especial, percebe-se que tal fundamento, hábil à manutenção do julgado, não restou infirmado pela recorrente, o que atrai o óbice da Súmula 283/STF, aplicável por analogia, que dispõe, in verbis: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Vale destacar que o princípio da dialeticidade recursal impõe ao recorrente o ônus de evidenciar os motivos de fato e de direito suficientes à reforma do acórdão recorrido, trazendo à baila novas argumentações capazes de infirmar todos os fundamentos do decisum que se pretende modificar, sob pena de vê-lo mantido por seus próprios fundamentos.
+Confiram-se os seguintes precedentes:
+ADMINISTRATIVO. PROCESSUAL CIVIL. PEDIDO GENÉRICO. AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTOS SUFICIENTES. INCIDÊNCIA DA SÚMULA 283/STF. PEDIDO GENÉRICO. PECULIARIDADES DO CASO. REEXAME. SÚMULA 7/STJ. VERIFICAÇÃO DO INTERESSE DE AGIR. REALIZAÇÃO DE OBRAS. SÚMULA 7/STJ.
+1. No caso dos autos, os argumentos do acórdão recorrido não enfrentados são suficientes para manter o decisum recorrido, o que atrai na espécie, por analogia, o óbice da Súmula 283 do STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.".
+2. O Tribunal de origem, soberano na análise das circunstâncias fáticas e probatórias da causa, ao negar provimento às apelações, entendeu por manter a sentença de extinção do feito tendo em vista que o pedido constante da inicial é genérico, o que conduz à inépcia da inicial. Modificar o acórdão recorrido demandaria a incursão na seara fático-probatória constante dos autos, o que é vedado a teor do disposto na Súmula 7/STJ.
+3. Por fim, quanto à alegação da parte recorrente de que foi "constatado - com demonstram os documentos de fls. 13/29 - que a UFRJ não tem realizado qualquer obra de conservação no referido imóvel, tendo em vista o estado de conservação em que se constatou estar o imóvel", a Corte de origem asseverou que tais obras ocorreram. Dessa forma, averiguar se de fato foi realizada alguma obra demandaria a análise dos fatos e provas trazidas aos autos, o que novamente encontra óbice na Súmula 7/STJ.
+Agravo regimental improvido. (AgRg no REsp 1376352/RJ, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe 13/05/2015)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. INDEFERIMENTO DA INICIAL. AUSÊNCIA DE DOCUMENTAÇÃO INDISPENSÁVEIS. REVISÃO. SÚMULA 7/STJ. FUNDAMENTO DO ACÓRDÃO DE QUE FORAM CONCEDIDAS MAIS DE UMA OPORTUNIDADE PARA SUPRESSÃO DA IRREGULARIDADE NÃO IMPUGNADO. APLICAÇÃO DA SÚMULA 283/STF.
+I - In casu, rever o entendimento do Tribunal de origem, quanto à documentação indispensável à propositura da ação, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7/STJ.
+II - A falta de combate a fundamento suficiente para manter o acórdão recorrido - de foram concedidas mais de uma oportunidade para a supressão da irregularidade, antes do indeferimento da inicial - justifica a aplicação, por analogia, da Súmula n. 283 do Supremo Tribunal Federal.
+III - A Agravante não apresenta, no regimental, argumentos suficientes para desconstituir a decisão agravada.
+IV - Agravo Regimental improvido. (AgRg no AREsp 607.618/PR, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe 11/05/2015)
+RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. DIREITO DAS SUCESSÕES. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. INCIDÊNCIA DA SÚMULA Nº 283 DO STF. IMPOSSIBILIDADE DE INVERSÃO DO JULGADO. NECESSIDADE DE AMPLA DILAÇÃO PROBATÓRIA. SÚMULA Nº 7 DO STJ. RECURSO A QUE SE NEGA PROVIMENTO.
+1. Os recorrentes deixaram de impugnar fundamentos suficientes, por si sós, para manter o acórdão recorrido, o que atrai o óbice da Súmula nº 283 do STF.
+2. Se a análise da alegação recursal demanda o reexame do conjunto fático-probatório, não pode este Tribunal apreciar o inconformismo a teor da sua Súmula nº 7.
+3. Recurso especial a que se nega provimento. (REsp 1488870/MG, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, DJe 12/05/2015)
+Diante do exposto, com base no art. 932, III e V, do CPC/2015, c/c o art. 255, § 4º, I e II, do RISTJ e Súmula 568/STJ, conheço parcialmente do recurso especial e, nessa parte, nego-lhe provimento, nos termos da fundamentação.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. SUPOSTA OFENSA AO ART. 1.022 DO CPC/2015. INEXISTÊNCIA DE VÍCIO NO ACÓRDÃO RECORRIDO. EXECUÇÃO. EXISTÊNCIA DE FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO NAS RAZÕES RECURSAIS. ÓBICE DA SÚMULA 283/STF (POR ANALOGIA). RECURSO PARCIALMENTE CONHECIDO E, NESSA PARTE, NÃO PROVIDO.
