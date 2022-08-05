@@ -1,0 +1,29 @@
+DECISÃO
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. RECURSO ESPECIAL. AÇÃO ACIDENTÁRIA. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. CONSECTÁRIOS LEGAIS DA CONDENAÇÃO. AFASTAMENTO DA TR COMO ÍNDICE DE CORREÇÃO MONETÁRIA. PRETENSÃO ACOLHIDA. FALTA DE INTERESSE RECURSAL. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO.
+1.  Trata-se  de  recurso  especial  interposto  por  ODAIR FRANCO,  com  fundamento  no  art.  105,  inciso  III,  alíneas  a  e  c,  da  CF/1988,  contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado:
+Acidente  do  trabalho  Redução  parcial  e  permanente  da  capacidade  laborativa  e  nexo  de  causalidade  Comprovação  Auxílio-acidente  devido.
+Acidente  do  trabalho  Auxílio-acidente  Equiparação  ao  valor  do  salário  mínimo,  com  fundamento  no  artigo  201,  §  2º,  da  Constituição  Federal  Inadmissibilidade.
+Acidente  do  trabalho  Pedido  de  diferenças  do  auxílio-doença  em  razão  da  aplicação  de  índices  negativos  na  atualização  dos  salários-de-contribuição  Documento  juntado  aos  autos  que  demonstra  a  não  adoção  de  índices  negativos  pela  autarquia  Requerimento  desacolhido.
+Honorários  advocatícios  Autor  parcialmente  vencido.  Redução  da  verba  honorária  de  15%  para  8%  Necessidade.
+Atualização  monetária  Juros  de  mora  Necessidade  de  se  aguardar  a  modulação  dos  efeitos  nas  ADIS  nºs  4.357,  4.372,  4.400  e  4.425,  julgadas  pelo  Colendo  Supremo  Tribunal  Federal.  Recurso  do  autor  desprovido.  Reexame  necessário  parcialmente  provido,  com  observações  (fl.  128).
+2.  Os  embargos  de  declaração  opostos  foram  rejeitados  (fls. 153/157).
+3. Nas razões do seu recurso especial (fls. 161/177), a parte recorrente sustenta, além de divergência jurisprudencial, violação doart. 1.022 do CPC/2015 e dos arts. 27 e 28 da Lei 9.868/1999, argumentando, para tanto, que: (a) houve negativa de prestação jurisdicional; (b) a aplicação dos juros de mora e da correção monetária dependerá da modulação dos efeitos a ser realizada pelo STF no julgamento das ADIs 4.357 e 4.425; (c) deve ser afastada a incidência da TR para atualização do débito.
+4. Devidamente intimada (fl. 186), a parte recorrida deixou de apresentar contrarrazões conforme certidão de fl. 187.
+5. Os autos foram devolvidos à Turma julgadora para eventual juízo de retratação, considerando o entendimento do Superior Tribunal de Justiça no julgamento dos Recursos Especiais 1.495.144/RS, 1.495.146/MG e 1.492.221/PR, de relatoria do Ministro MAURO CAMPBELL MARQUES, submetidos ao regime de recursos repetitivos - Tema 905/STJ.
+6. O acórdão foi parcialmente reformado nos termos da seguinte ementa:
+Acidente do Trabalho - Acidente do Trabalho - Reexame da matéria, nos termos do art. 1.040, inciso II, do Código de Processo Civil - Reapreciação da aplicação da Lei nº 11.960/09 em razão do julgamento do mérito do REsp nº 1.492.221/PR (Tema nº 905 do STJ) e do RE nº 870.947/SE (Tema nº 810 do STF) - Provimento parcialmente alterado(fl. 193).
+7.  O  recurso  especial  foi  admitido  na  origem  (fls.  201/202).
+8.  É  o  relatório.
+9.  A  irresignação  não  merece  prosperar.
+10.  Inicialmente, é importante ressaltar que o presente recurso atrai a incidência do Enunciado Administrativo 3 do STJ, segundo o qual aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+11. Inexiste a alegada violação do art. 1.022 do CPC/2015, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, conforme se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de nenhum erro, omissão, contradição ou obscuridade. Observe-se, ademais, que julgamento diverso do pretendido, como na espécie, não implica ofensa ao dispositivo de lei invocado.
+12. Quanto aos consectários legais da condenação, o Tribunal de origem assim se manifestou sobre o tema:
+Neste ponto, ressalte-se que esta Turma a Julgadora adota o índice de correção monetária o que ficou deliberado pelo Supremo Tribunal Federal a partir da vigência da Lei no 11.960/09.
+Por conseguinte, em razão dos julgamentos dos temas nos 905 do STJ e 810 do STF, alterando entendimento anterior, passa-se a delinear a aplicação da Lei nº11.960/09, nos seguintes termos:
+Acerca da adequação das parcelas em atraso, caberá a Lei nº8.213/91 e suas posteriores alterações.
+Relativamente à aplicação da Lei nº 11.960/09, registre-se que no julgamento dos embargos de declaração opostos pelos entes federativos estaduais foi decidido: "O Tribunal, por maioria, rejeitou todos os embargos de declaração e não modulou os efeitos da decisão anteriormente proferida, nos termos do voto do Ministro Alexandre de Moraes, Redator para o acórdão, vencidos os Ministros Luiz Fux (Relator), Roberto Barroso, Gilmar Mendes e Dias Toffoli (Presidente). Não participou, justificadamente, deste julgamento, a Ministra Cármen Lúcia. Ausentes, justificadamente, os Ministros Celso de Mello e Ricardo Lewandowski, que votaram em assentada anterior. Plenário, 03.10.2019" (Fonte: www.stf.jus.br).
+Por esta razão, prevalecem as teses firmadas no Tema no 810 do STF (Leading Case - RE. 870.947), com a aplicação do IPCA-E em substituição à TR(fls. 195/196).
+
+13. Verifico, portanto, ausência de interesse recursal, consubstanciado no binômio necessidade utilidade, visto que o objeto da irresignação tratada no recurso especial se refere ao afastamento da TR como índice para correção monetária do débito e o Tribunal de origem atendeu ao pleito quando do juízo de conformação.
+14. Ante o exposto, conheço parcialmente recurso especial de ODAIR FRANCOe, nessa extensão, nego-lhe provimento.
+15.  Publique-se.  Intimações  necessárias.
