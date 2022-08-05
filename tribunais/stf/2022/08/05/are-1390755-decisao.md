@@ -1,0 +1,65 @@
+DECISÃO
+
+RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. CONTROLE ABSTRATO DE CONSTITUCIONALIDADE PELO TRIBUNAL DE JUSTIÇA. LEI ESTADUAL. IMPOSTO SOBRE CIRCULAÇÃO DE MERCADORIAS E SERVIÇOS – ICMS. PARCELAMENTO. REMISSÃO E ANISTIA. AUSÊNCIA DE PRÉVIO CONVÊNIO INTERESTADUAL. CONCESSÃO DE BENEFÍCIO FISCAL. IMPOSSIBILIDADE. RECURSO EXTRAORDINÁRIO COM AGRAVO DESPROVIDO.
+
+Relatório
+
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República contra o seguinte julgado do Tribunal de Justiça do Rio de Janeiro:
+
+    “REPRESENTAÇÃO POR INCONSTITUCIONALIDADE – LEI Nº 8.502, DE 30 DE AGOSTO DE 2019, DO ESTADO DO RIO DE JANEIRO, QUE DISPÕE SOBRE A TRANSAÇÃO E O PARCELAMENTO DE DÉBITOS FISCAIS DOS DEVEDORES EM RECUPERAÇÃO JUDICIAL E DÁ OUTRAS PROVIDÊNCIAS – DIPLOMA LEGAL QUE OUTORGA BENEFÍCIOS FISCAIS DE REMISSÃO, ANISTIA E PARCELAMENTO SEM A PRECEDENTE EDIÇÃO DE CONVÊNIO ICMS CELEBRADO PELOS ESTADOS DA FEDERAÇÃO E PELO DISTRITO FEDERAL E SEM O PRÉVIO ESTUDO DO IMPACTO ORÇAMENTÁRIO-FINANCEIRO DECORRENTE DA RENÚNCIA DE RECEITA TRIBUTÁRIA, USURPANDO A COMPETÊNCIA DO PODER EXECUTIVO NO QUE CONCERNE À EXECUÇÃO DO ORÇAMENTO, INFRINGINDO, EM CONSEQUÊNCIA, A INDEPENDÊNCIA ENTRE OS PODERES – PROCEDÊNCIA DO PEDIDO” (fls. 1-2, e-doc. 2).
+
+    2. No recurso extraordinário, a agravante alega ter o Tribunal de origem contrariado o art. 2º, a al. b do inc. II do § 2º do art. 61 e a al. g do inc. XII do § 2º do art. 155 da Constituição da República.
+
+    Argumenta que “o venerando Acórdão violou o disposto no art. 2º e no art. 61, § 2º, II, b, ao apontar vício de iniciativa na Lei fluminense nº 8.502/2019” (fl. 5, e-doc. 4).
+
+    Assevera que “o Pretório Excelso entende que transação e parcelamento tributários não são favores fiscais e, por isso, não estão abrangidos pelas normas do art. 155, § 2º, XII, g, da Constituição da República” (fls. 6-7, e-doc. 4).
+
+    3. O recurso extraordinário foi inadmitido pela aplicação da sistemática da repercussão geral, pela incidência da Súmula n. 280 deste Supremo Tribunal e por estar o acórdão recorrido em harmonia com a jurisprudência do Supremo Tribunal Federal (e-doc. 6).
+
+    4. No agravo interposto contra a inadmissibilidade do recurso extraordinário, a agravante assinala que “este Agravo em Recurso Extraordinário não se refere à parte do Recurso Extraordinário interposto com fundamento na contrariedade ao art. 2º da Constituição da República porque, quanto à tal questão, houve negativa de seguimento” (fl. 1, e-doc. 8).
+
+    Salienta que “o venerando Acórdão ora extraordinariamente recorrido afirmou ocorrer parcelamento de ICMS como se vê e com a máxima vênia, o precedente consubstanciado no ARE nº 1.359.040-RJ é completamente impertinente. No precedente invocado pela respeitável Decisão ora agravada, o egrégio Tribunal de origem afirmou haver isenção. Neste caso, o colendo Tribunal de origem detectou parcelamento de ICMS” (fl. 3, e-doc. 8).
+
+    Pede, “com fundamento no art. 1.042 do Código de Processo Civil, o conhecimento e provimento deste Agravo em Recurso Extraordinário, interposto com fulcro no art. 102, caput, III, a, da Constituição da República e por contrariedade ao disposto no art. 61, § 2º, II, b, e no art. 155, § 2º, XII, g, ambos da Constituição da República, a fim de que, conhecido e provido o correspondente Recurso Extraordinário, seja declarada a constitucionalidade da Lei fluminense nº 8.502/2019” (fl. 4, e-doc. 8).
+
+    Examinados os elementos havidos nos autos, DECIDO.
+
+    5. Razão jurídica não assiste à agravante.
+
+    6. Quanto a alegada ofensa ao princípio da separação dos Poderes, o Terceiro Vice-Presidente do Tribunal de Justiça do Rio de Janeiro aplicou o Tema 868 de repercussão geral para negar seguimento ao recurso extraordinário, nestes termos:
+
+    “O Supremo Tribunal Federal já decidiu não haver repercussão geral no que se refere a eventual agressão ao Princípio da Separação de Poderes, sob o argumento de estar o Poder Judiciário a definir políticas públicas, na forma do julgado a seguir: ‘Tema nº 868 - Recurso Extraordinário com agravo. Assistência Médica Hospitalar. Militares do Rio de Janeiro. Prestação dos serviços independentemente de contribuição. Causa decidida com base na legislação estadual local. Princípio da Separação dos Poderes. Afronta reflexa. Aplicação dos efeitos da ausência d repercussão geral.’ (ARE nº 842.214RG/RJ – Rel. Min. Dias Toffoli – Tribunal Pleno – julg. 12/11/2015)” (fl. 2, e-doc. 8).
+
+    É de se anotar que a agravante não recorreu desse item da decisão de inadmissibilidade, pela qual aplicado o Tema 868 de repercussão geral, para negar seguimento ao recurso extraordinário, nos termos do inc. I do art. 1.030 do Código de Processo Civil.
+
+    Assim, não há o que decidir na controvérsia referente à alegada ofensa ao princípio da separação dos Poderes.
+
+    7. Quanto à questão remanescente relacionada à legitimidade do parcelamento de débitos de ICMS disciplinado pela “Lei fluminense nº 8.502/2019” (fl. 8, e-doc. 4), no voto condutor do acórdão recorrido, o Desembargador relator assentou:
+
+    “A representação merece prosperar. Saliente-se, de início, que a Constituição Estadual, em seu artigo 199, I, b e parágrafo 11º, VII, repetindo dispositivo da Carta Federal, determinou caber à lei complementar federal regular a forma como, mediante deliberação dos Estados e do Distrito Federal, isenções, incentivos e benefícios fiscais relativos ao ICMS seriam concedidos e revogados, sendo que o diploma regulamentador, a Lei Complementar nº 24/1975, estabeleceu que o instrumento a ser utilizado para tanto seria o Convênio, tendo o Convênio ICMS nº 190/2017 considerado benefício fiscal, para fins de incidência da exigência de prévia celebração de convênio, a remissão – redução de multa e juros sobre créditos tributários já constituídos -, a anistia – redução de multa e juros de créditos tributários não constituídos -, a transação, o parcelamento em prazo superior ao estabelecido no Convênio ICM 24/1975 – sessenta meses – e em outros acordos celebrados no âmbito do CONFAZ e qualquer outro benefício ou incentivo, sob qualquer forma, condição ou denominação, do qual resulte, direta ou indiretamente, a exoneração, dispensa, redução, eliminação, total ou parcial, do ônus do imposto devido na respectiva operação ou prestação, mesmo que o cumprimento da obrigação vincule-se à realização de operação ou prestação posterior ou, ainda, a qualquer outro evento futuro. Dentro deste quadro, revela-se evidente que a impugnada Lei nº 8.502/2019, ao possibilitar o parcelamento dos créditos tributários, para as empresas em recuperação judicial, em cento e vinte ou até mesmo em cento e oitenta prestações – na hipótese de contribuinte de grande relevância social -, e ao conferir os benefícios fiscais da remissão e da anistia, inobserva a obrigação da prévia existência de Convênio dispondo no referido sentido, na medida em que o Convênio ICMS nº 59/2012, que disciplina a concessão do parcelamento de débitos tributários e não tributários para as empresas em processo de recuperação judicial, limita o referido benefício em oitenta e quatro prestações e sequer prevê a possibilidade de remissão ou de anistia, em nítida afronta ao disposto no artigo 199, I, b e parágrafo 11º, VII, da Constituição Estadual, que obriga a existência de prévio Convênio ICMS para a concessão de benefícios fiscais, nos termos da Lei Complementar nº 24/1975” (fls.3-4, e-doc. 2 – grifos nossos).
+
+    A jurisprudência deste Supremo Tribunal é firme no sentido de que a concessão unilateral de benefício ou incentivo fiscal sobre o ICMS pelo ente federado somente é permitida com a prévia celebração de convênio pelo Conselho Nacional de Política Fazendária – CONFAZ. Nesse entendimento se inclui o parcelamento, quando há possibilidade de anistia fiscal ou remissão do crédito tributário.
+
+    No julgamento da Ação Direta de Inconstitucionalidade n. 3.796/PR, o Ministro Gilmar Mendes, Relator, ao mencionar precedentes deste Supremo Tribunal sobre a matéria, ressaltou que “o descumprimento do procedimento a que se refere o art. 155, § 2º, XII, ‘g’, da Constituição implica a inconstitucionalidade da lei concessiva do benefício fiscal. Em outras palavras, não podem ser concedidos benefícios fiscais em matéria de ICMS sem prévia anuência dos demais estados e do Distrito Federal”. Assentou, ainda, que “a Lei Complementar 24/75 deixa claro, no art. 1º, que a exigência de prévia celebração de convênio no CONFAZ aplica-se a ‘quaisquer outros incentivos ou favores fiscais ou financeiro-fiscais, concedidos com base no Imposto de Circulação de Mercadorias, dos quais resulte redução ou eliminação, direta ou indireta, do respectivo ônus’” (DJe 1º.8.2017).
+
+    Confiram-se também os seguintes julgados:
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. IMPOSTO SOBRE CIRCULAÇÃO DE MERCADORIAS E SERVIÇOS – ICMS. IMPOSSIBILIDADE DE CONCESSÃO DE BENEFÍCIO FISCAL UNILATERAL SEM PRÉVIA AUTORIZAÇÃO POR CONVÊNIO INTERESTADUAL. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE n. 669.013-AgR, de minha relatoria, Segunda Turma, DJe 13.3.2014).
+
+    “AÇÃO DIRETA DE INCONSTITUCIONALIDADE. REFERENDO MEDIDA CAUTELAR. CAUSA MADURA. MÉRITO. PROCESSO LEGISLATIVO ESTADUAL. DIREITO TRIBUTÁRIO. MEDIDA PROVISÓRIA. PROGRAMA CATARINENSE DE RECUPERAÇÃO FISCAL (PREFIS-SC). LEI ESTADUAL 17.302/2017 (Art. 6º e art. 13). TRAMITAÇÃO LEGISLATIVA. EMENDA PARLAMENTAR ADITIVA. PERTINENCIA TEMÁTICA. BENEFÍCIO FISCAL ICMS. AUTORIZAÇÃO CONFAZ. COMPETÊNCIA LEGISLATIVA. DIREITO COMERCIAL. NECESSIDADE. ESTIMATIVA DE IMPACTO ORÇAMENTÁRIO. 1. Reafirmação das razões para anterior concessão de medida cautelar. 2. O poder de emenda parlamentar na tramitação de medida provisória há de respeitar a pertinência temática da proposição do Poder Executivo. Precedentes. 3. Tem-se por inconstitucional a concessão de incentivos fiscais de forma unilateral, sem convênio no CONFAZ, portanto, em desacordo com os requisitos previstos na Lei Complementar 24/1975. 4. A circularidade e a transferibilidade de valores mobiliários são características dos valores mobiliários, encontrando na União a sua competência legislativa (Art. 22, I da CF/88). 5. A renúncia de receitas exige uma necessária quantificação, a ser expressa em imperiosa estimativa de impacto fiscal e financeiro (Art. 113 do ADCT). Precedentes. 6. Ação Direta de Inconstitucionalidade julgada procedente” (ADI n. 5.882, Relator o Ministro Gilmar Mendes, Plenário, DJe 2.6.2022).
+
+    “AÇÃO DIRETA DE INCONSTITUCIONALIDADE – SUPERVENIÊNCIA DE DECRETO ESTADUAL QUE REVOGOU, PARCIALMENTE, OS PRECEITOS NORMATIVOS IMPUGNADOS – CONSEQUENTE PREJUDICIALIDADE PARCIAL DA AÇÃO DIRETA – PRECEDENTES – ICMS – ‘GUERRA FISCAL’ – CONCESSÃO UNILATERAL DE ISENÇÕES, INCENTIVOS E BENEFÍCIOS FISCAIS – NECESSÁRIA OBSERVÂNCIA DA RESERVA CONSTITUCIONAL DE CONVÊNIO COMO PRESSUPOSTO LEGITIMADOR DA OUTORGA, PELO ESTADO-MEMBRO OU PELO DISTRITO FEDERAL, DE TAIS EXONERAÇÕES TRIBUTÁRIAS – MEDIDA CAUTELAR ANTERIORMENTE DEFERIDA PELO PLENÁRIO DESTA SUPREMA CORTE – REAFIRMAÇÃO DA JURISPRUDÊNCIA CONSOLIDADA PELO SUPREMO TRIBUNAL FEDERAL NO TEMA – PRECEDENTES – AÇÃO DIRETA CONHECIDA EM PARTE E, NESSA EXTENSÃO, JULGADA PROCEDENTE, CONFIRMANDO OS TERMOS DA MEDIDA CAUTELAR ANTERIORMENTE CONCEDIDA” (ADI n. 4.635, Relator o Ministro Celso de Mello, Plenário, DJe 17.9.2020).
+
+    “AÇÃO DIRETA DE INCONSTITUCIONALIDADE. DIREITO TRIBUTÁRIO. LEI ESTADUAL. CONCESSÃO DE BENEFÍCIOS DE CRÉDITO PRESUMIDO. INSTITUIÇÃO UNILATERAL DE BENEFÍCIOS FISCAIS RELATIVOS AO ICMS. EXIGÊNCIA CONSTITUCIONAL DE CONVÊNIO INTERESTADUAL (ARTIGO 155, § 2º, XII, g, da CRFB/88). DESCUMPRIMENTO. RISCO DE DESEQUILÍBRIO DO PACTO FEDERATIVO. GUERRA FISCAL. PROCEDÊNCIA DO PEDIDO. 1. O pacto federativo reclama, para a preservação do equilíbrio horizontal na tributação, a prévia deliberação dos Estados-membros para a concessão de benefícios fiscais relativamente ao ICMS, na forma prevista no artigo 155, § 2º, XII, g, da Constituição e como disciplinado pela Lei Complementar 24/75, recepcionada pela atual ordem constitucional. 2. In casu, padecem de inconstitucionalidade os dispositivos impugnados da Lei 10.259/2015 do Estado do Maranhão, porquanto concessivos de benefícios fiscais de ICMS sem atendimento à exigência constitucional (artigo 155, § 2º, XII, g). 3. Pedido de declaração de inconstitucionalidade julgado procedente, conferindo à decisão efeitos ex nunc, a partir da data do deferimento da medida cautelar ora confirmada (artigo 27 da Lei 9.868/99)” (ADI n. 5.467, Relator o Ministro Luiz Fux, Plenário, DJe 16.9.2019).
+
+    O julgado recorrido harmoniza-se com a jurisprudência deste Supremo Tribunal.
+
+    8. Pelo exposto, nego provimento ao recurso extraordinário com agravo (al. b do inc. IV do art. 932 do Código de Processo Civil e § 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal).
+
+    Publique-se.
+
+    Brasília, 5 de agosto de 2022.
+
+Ministra CÁRMEN LÚCIA
+
+Relatora
