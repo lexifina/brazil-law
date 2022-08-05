@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO FEDERAL, com fulcro no art. 105, III,a, da Constituição Federal.
+Consta dos autos que o recorrido foi condenado à pena de 2 anos de reclusão, e multa, pela prática do delito previsto no art. 297 do Código Penal.
+A defesa impetrouhabeas corpusperante a Corte de origem, a qual lhe concedeu a ordem para reconhecer a prescrição da pretensão executória. O acórdão foi assim ementado (e-STJ fl. 75):
+PROCESSUAL PENAL. HABEAS CORPUS. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA.
+EXTINÇÃO DA PUNIBILIDADE. ACÓRDÃO QUE CONFIRMA A SENTENÇA CONDENATÓRIA. INTERRUPÇÃO DA PRESCRIÇÃO. INOCORRÊNCIA. PRECEDENTES.
+CONCESSÃO DA ORDEM.
+I - O acórdão confirmatório da sentença condenatória não tem aptidão para interromper o prazo prescricional. Precedentes.
+II - Concedida a ordem.
+Daí o presente recurso especial, no qual alega violação aos arts. 107, IV, 110,capute117, IV, todos do Código Penal.
+Afirma que "o acórdão recorrido negou vigência/afrontou aos/os art. 107, inc. IV, art. 110, caput, e art. 117, inc. IV, todos do CP, ao não reconhecer que o acórdão que confirma a condenação proferida em primeira instância também interrompe o curso do prazo prescricional" (e-STJ fl. 97).
+Aduz que "o fato criminoso ocorreu em 17/11/2009 (fl. 19), a denúncia foi recebida em 20/03/2012 (fl. 22), a sentença foi proferida no dia 02/08/2013 (fl. 29) e o acórdão que julgou a apelação foi proferido na sessão de julgamento do dia 24/07/2017 (fl. 39), ou seja, antes do advento do prazo prescricional de 04 (quatro) anos, não há que se falar em prescrição da pretensão punitiva estatal, pelo que se pode dizer que o TRF 1ªRegião cumpriu com sua função de julgar antes do decurso do período fixado em lei" (e-STJ fl. 118).
+Requer, assim, o provimento do recurso para que seja afastadoo reconhecimento da prescrição do recorrido.
+Contrarrazões apresentadas (e-STJ fl. 122/130).
+O Ministério Público Federal manifestou-se pelo provimento do recurso.
+É o relatório.
+Decido.
+No tocante ao pedido de afastamento da decisão que reconheceu a prescrição do recorrido, tem-se que a Corte de origem, ao prover ohabeas corpusdefensivo, destacou que (e-STJ fls. 79/81):
+Conforme relatado, pretende a impetrante o reconhecimento da ocorrência da prescrição da pretensão executória do crime a que foi condenado o paciente.
+Em sede de informações, o MM. Juiz Federal da 4ª Vara da SJMG, disse o seguinte:
+"Rejeitei a pretensão da defesa em decisão assim fundamentada (fls.290290v):
+"RONALDO RODRIGUES foi condenado a uma pena de 02 (dois) anos de reclusão e ao pagamento de 10 (dez) dias multa pela prática do delito descrito no art. 297 do Código Penal (fl. 191/194verso), pena esta que prescreve em 4 (quatro) anos, a teor do disposto no artigo 109,V do Código Penal.
+A sentença transitou em julgado para a acusação aos 12/08/2013, conforme certificado a fls. 199verso.
+Compulsando os autos verifica-se que o fato em apuração data de 17/11/2009 (fls. 2-A), a denúncia foi recebida aos 20/03/2012 (fls. 99/100); a sentença foi publicada em cartório aos 06/08/2013 (fl. 195) e o acórdão que manteve a sentença condenatória foi publicado aos 24/07/2017 (fls.237).
+A Jurisprudência do Supremo Tribunal Federal é no sentido de que o acórdão confirmatório de sentença condenatória interrompe o curso do prazo prescricional, justamente por revelar pleno exercício da jurisdição penal. A interrupção da prescrição dar-se-á pela simples condenação em segundo grau, seja confirmando integralmente a decisão monocrática, seja reduzindo ou aumentando a pena anteriormente imposta (HC 138.086/RJ)
+Já no julgamento do Recurso Ordinário em Habeas Corpus 125.078, o STF reafirma que "o marco interruptivo do prazo prescricional previsto no artigo 117, IV, do Código Penal, mesmo com a redação que lhe conferiu a Lei 11.596/2007, é a data da sessão de julgamento".
+Diante do exposto, forçoso reconhecer que não ocorreu a prescrição da pretensão punitiva, eis que entre os marcos interruptivos quais sejam:data do fato (17/11/2009), recebimento da denúncia (20/03/2012), publicação da sentença em cartório (06/08/2013) e a data da sessão de julgamento do TRF1 (24/07/2017), não houve transcurso superior ou igual a 04 (quatro) anos. Com essas considerações, indefiro o pedido da DPU a fls. 280/287."
+Evidencia-se, portanto, que desde o trânsito em julgado para a acusação (em 12/08/2013, conforme certificado a fls. 199verso) houve o transcurso de prazo superior a 04 (quatro) anos, sem a ocorrência de qualquer causa interruptiva do prazo prescricional, razão pela qual impõe-se o reconhecimento da extinção da pretensão executória estatal.
+Nesse sentido, reconhecendo que " a pretensão punitiva estatal está extinta pela prescrição conforme os elementos de prova coligidos aos autos, o Ministério Público Federal, pelo seu representante infra-assinado, nada tem a opor ao deferimento da ordem de "habeas corpus" requerida." (Parecer ministerial - ID n. 9528459).
+Ante o exposto, concedo a ordem para declarar extinta a pretensão executória da sentença condenatória proferida nos autos da Ação Penal n. 14902-192012.4.01.3800 contra o paciente RONALDO RODRIGUES, em razão da ocorrência da prescrição.
+É como voto. (Grifei.)
+Quanto ao tema, destaco que, na sessão realizada no dia 21/6/2022, a Sexta Turma desta Corte Superior de Justiça, ao apreciar o AgRg no RHC n.163.758/SC, derelatoria da Ministra Laurita Vaz, alterou seu entendimento acerca dotermo inicial para aferição da prescrição da pretensão executória, decidindo que referido termo se inicia com o trânsito em julgado para ambas as partes, e não a partir do trânsito em julgado para a acusação, como fixado na decisão ora agravada.
+A propósito, confira-se a ementa do citado julgado:
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS.EXECUÇÃO PENAL. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. TERMO INICIAL. TRÂNSITO EM JULGADO PARA A PARTES. ORIENTAÇÃO DO PLENÁRIO DO SUPREMO TRIBUNAL FEDERAL (AI 794.971-AgR/RJ, REL. PARA ACÓRDÃO MINISTRO MARCO AURÉLIO, DJE 25/06/2021). AGRAVO REGIMENTAL PROVIDO.
+1.O Plenário do Supremo Tribunal Federal, no julgamento do AI 794971-AgR/RJ (Rel. para acórdão Ministro MARCO AURÉLIO, DJe 25/06/2021),definiu que o dies a quo para a contagem da prescrição da pretensão executória é o trânsito em julgado para ambas as partes.Assim, por já ter havido manifestação do Plenário da Suprema Corte sobre a controvérsia e em razão desse entendimento estar sendo adotado pelos Ministros de ambas as turmas do STF, essa orientação deve passar a ser aplicada nos julgamentos do Superior Tribunal de Justiça, já que não há mais divergência interna naquela Corte sobre o assunto.
+2. Na espécie, o Agravado foi definitivamente condenado às penas de 2 (dois) anos de reclusão, no regime aberto, e 11 (onze) dias-multa, pelo cometimento do crime previsto no art. 14, caput, da Lei n. 10.826/2003; e de 6 (seis) meses de detenção, no regime aberto, e 11 (onze) dias-multa, pela prática do delito tipificado no art. 306 do Código de Trânsito Brasileiro. As penas privativas de liberdade foram substituídas por duas restritivas de direitos, consistentes em prestação de serviços à comunidade e prestação pecuniária.
+3.O acórdão condenatório transitou em julgado para a Defesa em 04/02/2020 (fl. 339). Dessa forma, considerado, respectivamente, o prazo prescricional de 4 (quatro) anos (art. 109, inciso V, do Código Penal) e de 3 (três) anos (art. 109, inciso VI, do Código Penal), a pretensão executória não está abarcada pela prescrição; nem sequer a pretensão punitiva, diante dos seguintes marcos interruptivos: fatos (30/11/2016), recebimento da denúncia (22/02/2017); sentença condenatória (16/11/2017); publicação do acórdão proferido na apelação (01/04/2019) e trânsito em julgado para a Defesa (04/02/2020).
+4. Agravo regimental provido para afastar a prescrição da pretensão executória(DJe de 27/6/2022, grifei).
+Assim, a decisão do Tribunal de origem encontra-se em dissonância com a jurisprudência desta Corte superior, devendo ser afastada adecisão do Tribunala quoque reconheceu a prescrição da pretensão executória.
+Ante o exposto, dou provimento ao recurso especial para afastar o reconhecimento da prescrição da pretensão executória.
+Publique-se. Intimem-se.
