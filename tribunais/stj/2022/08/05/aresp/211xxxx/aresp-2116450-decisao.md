@@ -1,0 +1,36 @@
+DECISÃO
+Cuida-se de agravo apresentado por MUNICÍPIO DE SÃO MIGUEL DO ARAGUAIA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS, assim resumido:
+AGRAVO INTERNO EM APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA C/C COBRANÇA. SERVIDOR PÚBLICO MUNICIPAL. DIFERENÇA REMUNERATÓRIA DECORRENTE DA CONVERSÃO DO CRUZEIRO REAL EM URV. LEI FEDERAL 8.088/94. AUSÊNCIA DE FUNDAMENTO NOVO. AGRAVO INTERNO CONHECIDO E DESPROVIDO.
+Quanto à controvérsia recursal, alega violação do art. 373, I, do CPC, no que concerne ao reconhecimento da equivocada inversão do ônus da prova, tendo em vista que cabe à recorrida comprovar a redução remuneratória em razão de uma conversão ocorrida há mais de 25 anos, e não ao município, que não tem a obrigação legal de conservar documentos por tempo indeterminado, trazendo os seguintes argumentos:
+A parte Recorrida ajuizou Ação Declaratória c/c Cobrança, alegando que é servidor(a) público(a) Municipal, e buscou cobrar a diferença de 11.98% (onze vírgula noventa e oito por cento) sobre a remuneração relativa aos últimos cinco anos e as que vencerem no decorrer do processo.
+Alegou que a Medida Provisória n.º 434/94, reeditada pelas MP"s n.º 457/94 e 482/94, posteriormente convertida na Lei n.º 8.880/94 (Lei do Plano Real), previu método de conversão para a nova moeda brasileira, e essa conversão deveria observar as regras estabelecidas na Lei nº 8.880/94, em especial acerca da utilização da data do pagamento. O(a) Recorrido(a) alegou que a regra de conversão não teria sido cumprida, indicando que o valor utilizado teria sido o referente ao último dia do mês anterior.
+Ao final, pleiteou o pagamento da diferença remuneratória de 11,98% (onze vírgula noventa e oito por cento) sobre a remuneração do(a) Recorrido(a), relativos aos últimos cinco anos, mais o tempo decorrido do presente processo, a ser apurado em liquidação de sentença.
+ ..
+De primeiro esclarecemos que os atos praticados pela administração e seus servidores gozam de fé pública, e são considerados legais até prova em contrário.
+Em que pese o respeito que merece o r. acórdão recorrido, data máxima vênia, mas caberia sim à parte recorrida (autora da ação) demonstrar o fato constitutivo do seu direito (art. 373, I, CPC)  irregularidade na conversão do vencimento, por se tratar de fato ocorrido há mais de 25 anos, razão pela qual o Município não detém os meios de prova exigidos pelo Tribunal Goiano.
+Caberia à parte aqui recorrida instruir a petição inicial com os documentos essenciais a propositura da ação e comprovar suas alegações.
+Assim, não é demais lembrar que o artigo 373, I, do CPC, determina que o ônus da prova incumbe ao autor, quanto ao fato constitutivo de seu direito, e tal dispositivo legal foi violado pelo Acórdão Recorrido.
+Não se mostra razoável a inversão do ônus da prova (ou aplicação do art. 373, II, do CPC), exigindo que o Município Recorrente comprove a regularidade de um pagamento feito há mais de 25 (vinte cinco) anos.
+Ninguém é legalmente obrigado a guardar documentos tão antigos.
+E até que se prove o contrário, os atos administrativos gozam da presunção de legalidade, cabendo à parte Recorrida demonstrar eventual ilegalidade.
+Ora, se a parte Recorrida alega redução remuneratória de uma conversão ocorrida a mais de 25 anos, a ela cabe provar tal assertiva constitutiva do seu direito, e não o Município, que não possui a documentação referente aos pagamentos realizados no longínquo ano de 1994.
+É muito cômodo para a parte recorrida ajuizar uma ação alegando suposto direito que ela mesmo não pode comprovar, e exigir que o Município comprove um fato ocorrido há mais de 25 anos, sem que tenha a obrigação legal de conservar tais documentos por tempo indeterminado (fls. 173-177).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia alegada, na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+Pois bem. Sabe-se que a prova ocupa um papel determinante no processo de conhecimento, uma vez que as meras alegações,desprovidas de elementos capazes de demonstrá-las, pouca ou nenhuma utilidade trarão à parte interessada, pois serão tidas por inexistentes.
+Assim, à medida do grau de interesse das partes em comprovar seus fundamentos fáticos, o Código de Processo Civil dividiu o ônus probatório, competindo ao autor o ônus de provar o fato constitutivo de seu direito e, ao réu, o ônus de comprovar os fatos impeditivos, modificativos e extintivos.
+Contudo, o art. 373 do Código de Processo Civil, em seu § 1º, registra regra ampla de distribuição dinâmica do ônus da prova pelo juiz, senão, vejamos:
+ ..
+Dessa forma, constata-se que a norma processual autoriza a inversão do ônus da prova nos casos previstos em lei ou diante de peculiaridades da causa, relacionadas à impossibilidade ou à excessiva dificuldade de cumprir o encargo ou à maior facilidade de obtenção da prova do fato contrário.
+ ..
+Da análise dos autos, resta evidente que o município apelado possui maior facilidade de acesso aos contracheques ou comprovantes de pagamento de salários da autora/apelante.
+Ademais, mostra-se inviável exigir da recorrente que comprove o valor percebido a menor, pois, seguramente, não guarda consigo os contracheques do período.
+Contudo, quando as provas dos autos se revelarem insuficientes ao deslinde da controvérsia, competirá ao magistrado determinar a produção das provas que entender pertinentes, de ofício ou a requerimento das partes.
+ ..
+Desta feita, analisando o caso concreto, verifico que a documentação acostada aos autos pela parte autora/apelante até o momento é insuficiente para a decretação de procedência da demanda, contudo, reputo que pertence ao município apelado o ônus de provar que efetuou corretamente a conversão do vencimento da recorrente, até porque temo dever de demonstrar que o fez na forma lícita, porquanto sua conduta deve estar amparada pelo princípio da legalidade (fls. 158-160).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o reexame da premissa fixada pela Corte de origem quanto à distribuição do ônus probatório das partes exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em sede de recurso especial.
+Nesse sentido, o STJ já decidiu que "a alteração das conclusões adotadas pela instância ordinária, no que diz respeito ao ônus da prova, demandaria, necessariamente, novo exame do acervo fático-probatório, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ". (AgInt no AREsp 1.190.608/PI, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 24/4/2018.)
+Confiram-se ainda os seguintes julgados: AgInt no AREsp 1.606.233/SC, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 13/8/2020; AgInt no AREsp 1.060.371/RS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 17/8/2020; e REsp 1.812.278/CE, relator Ministro Herman Benjamin, Segunda Turma, DJe de 29/10/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
