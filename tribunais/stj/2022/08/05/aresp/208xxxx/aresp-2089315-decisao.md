@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo interposto por Marta Berilany Ferreira Gusmãocontra a decisão que inadmitiu recurso especial. O apelo extremo, com fundamento no artigo 105, III, "a" e "c", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado de Alagoas, assim ementado:
+"DIREITO CIVIL E PROCESSUAL CIVIL. APELAÇÃO CÍVEL. AÇÃO DE IMISSÃO NA POSSE. SENTENÇA DE PARCIAL PROCEDÊNCIA. INSURGÊNCIA RECURSAL DA RÉ. AJUIZAMENTO DE AÇÃO DE ANULAÇÃO DE LEILÃO EXTRAJUDICIAL. POSSIBILIDADE DE DESFAZIMENTO DO ATO DE AQUISIÇÃO DA PROPRIEDADE. DEFERIMENTO DO BENEFÍCIO DA ASSISTÊNCIA JUDICIÁRIA GRATUITA. IMPUGNAÇÃO À BENESSE CONCEDIDA À PARTE ADVERSA. NÃO ACOLHIDA. NÃO COMPROVAÇÃO DA ALTERAÇÃO SUPERVENIENTE DA SITUAÇÃO ECONÔMICA DOS AUTORES. REJEIÇÃO DO PEDIDO DE REFORMA DA SENTENÇA. AUSÊNCIA DE PREJUDICIALIDADE ENTRE AÇÃO DE IMISSÃO NA POSSE E ANULAÇÃODE LEILÃO. TEMÁTICA JÁ DISCUTIDA EM SEDE DE AGRAVO DE INSTRUMENTO. CONSONÂNCIA COM O ENTENDIMENTO DO STJ. AUSÊNCIA DE PROBABILIDADE DE ÊXITO NA AÇÃO ANULATÓRIA. SENTENÇA DE EXTINÇÃO SEM RESOLUÇÃO DE MÉRITO POR ILEGITIMIDADE ATIVA DA APELANTE. RECURSO CONHECIDO E NÃO PROVIDO" (fl. 1.236e-STJ).
+Os embargos de declaração opostos foram acolhidos e receberam a a seguinte ementa:
+"EMBARGOS DE DECLARAÇÃO. ALEGAÇÃO DE OMISSÃO. AUSÊNCIA DE APRECIAÇÃO DA TESE RECURSAL DE NÃO CABIMENTO DA TAXA DE OCUPAÇÃO. VÍCIO CONSTATADO. APRECIAÇÃO DA REFERIDA TESE PARA REJEITÁ-LA. AUSÊNCIA DE COMPROVAÇÃO DE QUE A POSSE EXERCIDA PELA EMBARGANTE ERA JUSTA. TAXA DE OCUPAÇÃO NÃO SE CONFUNDE COM REPARAÇÃO POR DANOS MATERIAIS. VALOR DEVIDO EM VIRTUDE DA PRIVAÇÃO INJUSTA DA POSSE. RECURSO CONHECIDO E ACOLHIDO SEM EFEITOS INFRINGENTES" (e-STJ fl. 1.273).
+No especial, arecorrente aponta, além de divergência jurisprudencial,violação dos arts. 489, § 1º, IV, 1.022, II, do Código de Processo Civil de 2015, 26 e 27 da Lei 9.514/1997, argumentando, em síntese, anegativa de prestação jurisdicional, por haver omissão no acórdão recorrido e existência dediscussão processual sobre o processo de purgação de mora e o leilão extrajudicial.
+O Presidente do tribunal de origem inadmitiu o recurso especial, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+De início, no tocante à violação dos arts. 489, § 1º, IV e1.022, II, do Código de Processo Civil de 2015, verifica-se que o tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese. Não há falar, portanto, em existência de omissão ou de deficiência de fundamentação apenas pelo fato de o julgado recorrido ter decidido em sentido contrário à pretensão da parte.
+Quanto à alegação de violação dos artigos26 e 27 da Lei 9.514/1997da análise dos autos, verifica-se que a pretensão recursal esbarra inarredavelmente no óbice da Súmula nº 283 do Supremo Tribunal Federal, pois há fundamento autônomo inatacado no especial, a saber: inexistência de prejudicialidade.
+A Corte local consignou, no voto condutor da apelaçãoque
+"Em seu favor, a apelante argumentou que ajuizou, perante a justiça federal, uma ação própria com vistas a anular o leilão extrajudicial através do qual os apelados adquiriram a propriedade do imóvel objeto do litígio, e que o eventual julgamento favorável dessa ação prejudica o direito desses à imissão na posse.
+17. A meu ver, carece de razão a apelante. Explico.
+18. A discussão acerca do ajuizamento de ação perante a justiça federal pleiteando a anulação do leilão extrajudicial já foi oportunamente apreciada por esta Corte Estadual de Justiça, por ocasião do julgamento de agravo de instrumento interposto pela ora apelante, no qual decidiu-se pela inexistência de prejudicialidade.
+(..)
+19. Como mencionado na ementa acima reproduzida, a questão da suposta prejudicialidade da ação de imissão na posse pelo ajuizamento de ação de anulação de leilão extrajudicial foi levada, pela apelante, ao conhecimento do Superior Tribunal, o qual pronunciou-se em consonância com o entendimento propagado pela Corte Estadual, ou seja, no sentido de inexistência de prejudicialidade.
+(..)
+De mais a mais, outro ponto relevante a se observar é que, não obstante a apelante argumente que a ação de anulação de leilão extrajudicial ainda se encontra pendente de julgamento, é bastante improvável que seu resultado vá lhe ser favorável. Isso porque, cotejando o caderno processual, evidencia-se que naquela demanda foi proferida sentença de extinção sem resolução de mérito, em virtude de ter sido reconhecida a ilegitimidade ativa da aqui apelante"(e-STJ fls. 1.245/1.248).
+Assim, é notório que a recorrente não infirma especificamente os fundamentos do acórdão impugnado.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO EM RECURSO ESPECIAL. EMBARGOS À ARREMATAÇÃO. 1. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA 283/STF. 2. INEXISTÊNCIA DE VÍCIOS CAPAZES DE ANULAR A ARREMATAÇÃO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. 3. PREÇO VIL NÃO CARACTERIZADO. ARREMATAÇÃO POR VALOR SUPERIOR A 50% DA AVALIAÇÃO. SÚMULA 83/STJ. 4. AGRAVO IMPROVIDO.
+1. A manutenção de argumento que, por si só, sustenta o acórdão recorrido torna inviável o conhecimento do apelo especial, atraindo a aplicação do enunciado n. 283 da Súmula do Supremo Tribunal Federal.
+2. Tendo o Colegiado estadual, com apoio nos elementos de fato e de prova dos autos, ratificado a conclusão de inexistência de vícios capazes de desconstituir a arrematação, não se revela possível modificar a referida premissa, em face da necessidade de reexame do conjunto fático-probatório,
+a atrair o óbice da Súmula n. 7 desta Corte.
+3. A jurisprudência desta Corte tem adotado como parâmetro para a aferição
+da configuração de preço vil o valor de 50% (cinquenta por cento) da avaliação do bem. Tendo em vista que o bem foi arrematado, na espécie, por valor superior, não há que falar em preço vil. Acórdão em harmonia com a jurisprudência desta Corte Superior. Súmula 83/STJ.
+4. Agravo interno a que se nega provimento" (AgInt no AREsp 1.344.246/DF, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 25/3/2019, DJe 28/3/2019).
+Além disso, o recurso também não prospera quanto ao dissídio alegado.
+Nos termos dos artigos 1.029, § 1º, do CPC/2015 e 255, § 1º, do RISTJ, a divergência jurisprudencial com fundamento na alínea "c" do permissivo constitucional requisita comprovação e demonstração, esta, em qualquer caso, com a transcrição dos trechos dos acórdãos que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, não se oferecendo como bastante a simples transcrição de ementas sem realizar o necessário cotejo analítico a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em R$ 2.200,00 (dois mil e duzentos reais), os quais devem ser majorados para R$ 2.500,00 (dois mil e quinhentosreais) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
