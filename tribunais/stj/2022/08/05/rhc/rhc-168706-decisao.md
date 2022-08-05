@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de recurso emhabeas corpus, com pedido liminar, interposto contra acórdão assim ementado (fl. 154):
+EMENTA: HABEAS CORPUS -ESTELIONATO E ASSOCIAÇÃO CRIMINOSA -PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA -PRESENÇA DOS REQUISITOS DOS ARTIGOS 312 E 313, INCISO I, DO CÓDIGO DE PROCESSO PENAL -CONSTRANGIMENTO ILEGAL NÃO VERIFICADO -SUBSTITUIÇÃO POR OUTRA MEDIDA CAUTELAR -IMPOSSIBILIDADE -RESIDÊNCIA FORA DO DISTRITO DA CULPA E TENTATIVA DE DESVENCILHAR DA PRISÃO -RISCO À ORDEM PÚBLICA E À APLICAÇÃO DA LEI PENAL -MANUTENÇÃO DO ACAUTELAMENTO -CONDIÇÕES PESSOAIS FAVORÁVEIS QUE, POR SI SÓS, NÃO IMPEDEM A SEGREGAÇÃO -AFRONTA AO PRINCÍPIO DA PRESUNÇÃO DE INOCÊNCIA -INOCORRÊNCIA -DENEGAÇÃO DA ORDEM. Restando demonstrados os indícios de autoria, a prova da materialidade e o risco concreto à ordem pública e à aplicação da lei penal, imperiosa é a manutenção da prisão preventiva, inviabilizando a aplicação das medidas cautelares previstas no artigo 319 do Código de Processo Penal. Eventuais condições pessoais favoráveis não podem ser analisadas em descompasso com o contexto dos autos, não sendo capaz de obstar, por si só, a custódia preventiva, caso preenchidos os requisitos legais. O princípio da presunção de inocência, que encontra fundamento no artigo 5º, inciso LVII, da Constituição da República, não é incompatível com a prisão processual.
+A recorrente foi presa em flagrante, convertido em preventiva, pelos delitos de associação criminosa e estelionato.
+Em síntese,alega inexistência defumus comissi delictie dopericulum libertatis, reputando inidôneos os fundamentos utilizados para a decretação da custódia cautelar.
+Busca, inclusive liminarmente, a revogação da custódia.
+Em consulta ao sistema processual desta Corte superior, verifica-se que o presente recurso é mera reiteração doHC 758.626/MG. O referido mandamus encontra-se em estágio processual mais avançado, autoscom vista ao Ministério Público Federal para parecer, após indeferimento do pedido liminar em 27/7/2022.
+Ante o exposto, indefiro liminarmente o recurso emhabeas corpus.
+Publique-se.
+Intimem-se.
