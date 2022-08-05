@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto por Max Gomes de Almeidacontra o acórdão proferido pelo Tribunal de Justiça de Minas Gerais(HC n.1.0000.22.148159-1/000- fls. 133/139), que manteve sua prisão preventiva decretada pelo Juízo de primeiro grau, em virtude da suposta prática do crime de tráfico de drogas (Processo n.5002917-98.2022.8.13.0194- fls. 107/113).
+O recorrente alega existência de constrangimento ilegalconsistente na falta de fundamentação idônea no decreto prisional, que teria sido baseado apenas na gravidade abstrata do delito.Nesses termos, requer a revogação da custódia, com ou sem aaplicação de medidas cautelares alternativas.
+Liminar indeferida (fls. 169/170),o Ministério Público Federal opinou não provimento do recurso(fls. 173/178).
+É o relatório.
+De acordo com reiteradas decisões desta Corte Superior, as prisões cautelares são medidas de índole excepcional, somente podendo ser decretadas ou mantidas caso demonstrada, com base em elementos concretos dos autos, a efetiva imprescindibilidade de restrição ao direito constitucional à liberdade de locomoção.
+No caso, o Juízo singular decretou a segregação, sob os seguintes fundamentos (fls. 111/112 - grifo nosso):
+Durante cumprimento de mandado de busca e apreensão expedido em desfavor do autuado, foi apreendida dentro de sua residência, vultuosa quantidade de drogas (mais de 13kg de maconha), tendo o autuado confessado a propriedade dos entorpecentes. Além disso, ainda foi localizada uma porção de crack e comprimidos de ecstasy, bem como duas balanças de precisão.
+Assim, a quantidade da droga apreendida, demonstra que o réu têm se dedicado ao tráfico, sendo encontrada objetos utilizados na prática do tráfico (balanças de precisão).
+Da análise dos antecedentes criminais do autuado, verifica-se que ele possui diversas condenações transitadas em julgado, e mesmo estando em cumprimento de pena, voltou a delinquir, estando preenchido o requisito previsto no art. 313, II do CPP.
+O acórdão impugnado, por sua vez, afastou qualquer ilegalidade na custódia, entendendo-a idoneamente fundamentada, nestes termos (fls. 136/137 - grifo nosso):
+Sendo o tráfico de drogas, hodiernamente, o crime de maior preocupação das políticas de segurança pública, existindo nos autos fortes indícios de autoria e estando comprovada a materialidade delitiva, a segregação preventiva, medida de exceção, se faznecessária para garantia da ordem e da saúde públicas, mormente diante das circunstâncias em que se deu o flagrante, com a apreensão de balanças de precisão e considerável quantidade e variedade de entorpecentes (aproximadamente, 13 kg de maconha, além de uma porção de crack e comprimidos de ecstasy), tudo a evidenciar certa habitualidade e a periculosidade da conduta do paciente, que declarou ter adquirido aquela primeira substância pelo valor de R$ 8.700,00.
+Além disso, não se pode olvidar o fato de o autuado ter, em tese, durante sua fuga, invadido a residência da vítima A. C. O. D. e a constrangido, mediante violência, a permitir que ele se homiziasse no local, o que confere maior gravidade à empreitada criminosa e reforça a convicção quanto à necessidade da segregação preventiva.
+Não se trata, porém, de manter o agente preso apenas em decorrência da gravidade abstrata dos delitos, mas de tratar com cautela os acusados de crimes responsáveis por consequências intensamente negativas na sociedade.
+Ademais, conforme CAC"s acostadas aos autos (docs. 5/11), Max é reincidente e possuidor de maus antecedentes, ostentando inúmeras condenações definitivas, mostrando-se pessoa inserida no mundo do crime e a ele dedicada, o que demonstra seu descaso com a justiça e paz social.
+Ora, sendo o acusado contumaz na vida criminosa, há fortes indícios de que, se solto, poderá voltar a delinquir, sendo necessário mantê-lo segregado para resguardar a segurança e a ordem públicas.
+Como se vê, a custódia preventiva está motivada, principalmente,na apreensão de mais de 13kgde maconha, bem como no fato de o recorrente ser multirreincidente, ou seja, fundamentação idônea e harmônica com o entendimento desta Casa sobre o tema.
+Com efeito, a jurisprudência desta Corte de Justiça é firme ao asseverar que a existência de inquéritos, ações penais em curso ou condenações definitivas denotam o risco de reiteração delitiva e, assim, constituem também fundamentação idônea a justificar a segregação cautelar" (RHC n. 76.929/MG, Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 17/11/2016, DJe 29/11/2016) - (HC n. 415.653/RJ, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 9/8/2018).
+Da mesma forma, a quantidade do material entorpecente apreendido também constitui motivação válida para a decretação da prisão preventiva, como no caso.
+A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. SÚMULA 691/STF. INDEFERIMENTO LIMINAR DO WRIT. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. INEXISTÊNCIA.TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA.REAVALIAÇÃO. RECOMENDAÇÃO N. 62/2020 DO CNJ. REQUISITOS NÃO PREENCHIDOS. DECISÃO MANTIDA. AGRAVO IMPROVIDO.
+1. Não viola o princípio da colegialidade a decisão monocrática do relator calcada em jurisprudência dominante do Superior Tribunal de Justiça, tendo em vista a possibilidade de submissão do julgado ao exame do órgão colegiado, mediante a interposição de agravo regimental.
+2. Válida é a prisão preventiva, quando apresentada fundamentação idônea no decreto, consubstanciada em circunstância fática que demonstra a gravidade concreta do crime, em face da expressiva quantidade de drogas apreendidas, tratando-se de aproximadamente cinco quilos de maconha, bem como o próprio concurso de agentes, demonstra a periculosidade dos mesmos, e na reiteração delitiva, pois os indiciados masculinos têm condenações por crime de roubo, reforçando ainda mais sua periculosidade.
+ ..
+5. Agravo regimental improvido.
+(AgRg no HC n. 572.576/SP,Ministro Nefi Cordeiro, Sexta Turma, DJe 16/6/2020 - grifo nosso).
+Ademais,eventuais condições pessoais favoráveis não possuem o condão de, isoladamente, conduzir à revogação da prisão preventiva, sendo certo que,concretamente demonstrada pelas instâncias ordinárias suanecessidade, não se afigura suficiente a fixação de medidas cautelares alternativas.
+Ante o exposto, nego provimento ao recurso em habeas corpus.
+Publique-se.
+EMENTA
+RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. RÉU MULTIRREINCIDENTE. QUANTIDADE DE ENTORPECENTES (13 KG DE MACONHA). FUNDAMENTAÇÃO IDÔNEA. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Recurso improvido.
