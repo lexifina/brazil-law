@@ -1,0 +1,27 @@
+DECISÃO
+Trata-sede embargos de declaração opostos por MATHEUS RAMOS, contra r. decisão que denegou a ordem dehabeas corpus.
+Daí os presentesembargos, no qual o embargante destaca omissão, contradição e obscuridadedo r.decisum, sem efetivamente delineá-los, reiterando, contudo, as razões da insurgência quanto à ausência de fundamentação idônea e de tempestividade.
+Requer, aofinal, o acolhimento dos embargos para que sejam sanados os vícios apontados.
+É o relatório.
+Decido.
+Os embargos padecem de intempestividade.
+Isso porqueo r. decisum embargadofoi considerado publicadoem19/5/2022(fl. 91).
+No caso, oprazo para a oposição dos embargos declaratóriosiniciou-seem 20/5/2022 e se encerrou em 23/5/2022, em virtude do final de semana. Contudo,a petição eletrônica dos embargos declaratórios foi protocolizadasomenteem 9/6/2022(fls. 117), quando já escoado o prazo de 2 (dois) dias previsto no art. 619 do Código de Processo Penal.
+Portanto, intempestivos os embargos declaratórios.
+Neste sentido:
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL. INTEMPESTIVIDADE. JUNTADA DE ATESTADO MÉDICO. INSUFICIÊNCIA. NÃO COMPROVAÇÃO DE JUSTA CAUSA. EMBARGOS NÃO CONHECIDOS.
+1. São intempestivos os embargos de declaração opostos fora do prazo de 2 dias previsto no art. 619 do Código de Processo Penal c/c o art. 263 do Regimento Interno do Superior Tribunal de Justiça.
+2. A simples juntada de atestado médico, sem a comprovação de absoluta impossibilidade do exercício da profissão ou de substabelecimento de mandato, não configura justa causa para a devolução do prazo recursal.
+3. Embargos de declaração não conhecidos."(EDcl no AgRg no AREsp n. 2.030.489/SP,Quinta Turma,Rel. Min.João Otávio de Noronha, DJe de 3/5/2022-grifei)
+PENAL E PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NA TUTELA PROVISÓRIA. 1.ACLARATÓRIOS INTEMPESTIVOS. PRAZO DE 2 DIAS NÃO OBSERVADO.ART. 263 RISTJ C/C O ART. 619 DO CPP. 2. NULIDADE DO ACÓRDÃO EMBARGADO. AUSÊNCIA DE INTIMAÇÃO PARA CONTRA-ARRAZOAR. NÃO INDICAÇÃO DE PREJUÍZO. 3. ENCERRAMENTO DOS TRABALHOS DA CPI. PREJUDICIALIDADE DO FEITO. NÃO VERIFICAÇÃO. REPERCUSSÃO DA CPI. EXAME A SER REALIZADO NO RMS 68.517/MG 4. EMBARGOS DE DECLARAÇÃO NÃO CONHECIDOS.
+1. Não é possível conhecer dos presentes embargos de declaração, porquanto intempestivos. Com efeito, o acórdão embargado foi disponibilizado no Diário da Justiça Eletrônico/STJ em 30/3/2022 (quarta-feira), considerando-se publicado em 31/3/2022 (quinta-feira), nos termos do artigo 4º, § 3º, da Lei 11.419/2006.
+Dessa forma, o prazo de 2 dias para oposição dos aclaratórios, previsto no art. 263 do Regimento Interno desta Corte c/c o art. 619 do Código de Processo Penal, se iniciou no dia 1º/4/2022 (sexta-feira) e findou no dia 4/4/2022 (segunda-feira), tendo os presentes embargos sido opostos apenas em 7/4/2022 (quinta-feira).
+Dessarte, se mostram manifestamente intempestivos 2. Nada obstante a intempestividade dos aclaratórios, importante esclarecer, com relação à apontada nulidade, que os embargantes nem ao menos indicam qualquer tipo de prejuízo acarretado em virtude da ausência de intimação para contra-arrazoar o agravo regimental. Como é de conhecimento, no processo penal não se declara a nulidade de um ato que não tenha causado prejuízo às partes. Dessarte, considerando que o próprio embargante, após pugnar pela nulidade do acórdão, afirma que o objeto do pleito encontra-se esvaído, tem-se manifesta a ausência de indicação de prejuízo na hipótese.
+3. Ademais, diferentemente da alegação do embargante, o encerramento dos trabalhos da CPI, por si só, não faz o mandado de segurança perder seu objeto, pois suas conclusões podem repercutir na seara cível, administrativa e penal. Nessa linha de intelecção, a não ser que o embargado tenha sido excluído das conclusões da CPI, não há se falar que seu encerramento, por si só, acarrete o prejuízo da tutela requerida. Por fim, considerando que a hipótese trata de mera tutela provisória, constato que um melhor exame a respeito das conclusões da CPI da CEMIG deverá ocorrer por ocasião do julgamento do RMS 68.517/MG.
+4. Embargos de declaração não conhecidos."(EDcl no AgRg no TP n. 3.743/MG,Quinta Turma, Rel. Min.Reynaldo Soares da Fonseca, DJe de 25/4/2022-grifei.)
+PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INTERPOSIÇÃO FORA DO PRAZO LEGAL DE DOIS DIAS (ART. 619 DO CPP). INTEMPESTIVIDADE. EMBARGOS NÃO CONHECIDOS.
+1. Em matéria penal, o prazo para oposição de embargos de declaração é o previsto no art. 619 do Código de Processo Penal, qual seja, 2 (dois) dias, conforme dispõe o art. 263 do Regimento Interno do Superior Tribunal de Justiça. A entrada em vigor do novo Código de Processo Civil não repercutiu no prazo dos embargos em processo penal, que possui disciplina própria.
+2. Na hipótese, o acórdão embargado foi disponibilizado no Diário da Justiça Eletrônico/STJ em 30/3/2022 (quarta-feira) e considerado publicado em 31/3/2022 (quinta-feira), conforme certidão à e-STJ fl. 456. O prazo para oposição dos aclaratórios iniciou-se em 1/4/2022 (sexta-feira) e terminou em 4/4/2022 (segunda-feira), sendo que os presentes embargos foram opostos apenas em 5/4/2022 (terça-feira), portanto, fora do prazo legal de 2 (dois) dias, sendo intempestivos.
+3. Embargos de declaração não conhecidos."(EDcl nos EDcl no AgRg no AREsp n. 2.043.644/AP,Quinta Turma,Rel. Min.Reynaldo Soares da Fonseca, DJe de 25/4/2022-grifei)
+Ante o exposto,não conheço dos embargos de declaração.
+P.e I.
