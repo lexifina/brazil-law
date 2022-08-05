@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso ordinário, com pedido liminar, impetrado em benefício de JOSÉ DA CONCEIÇÃO, contra v. acórdão proferido pelo eg. Tribunal de Justiça do Distrito Federal e Territórios.
+Depreende-se dos autos que o ora paciente foi condenadopela prática do crime previsto no art. 33, caput, daLei 11.343/2006, à pena de 05 (cinco) anos c 03 (três) meses de reclusãoemregime inicial fechado (fl. 457).
+Irresignada a a Defesa manejou o recurso de apelaçãoperante o Tribunal de origem pleiteando a absolvição do paciente. O Tribunal a quonegou provimento ao recurso, em acórdãoque restou assim ementado:
+"APELAÇÃO CRIMINAL. TRÁFICO DE DROGAS. ABSOLVIÇÃO POR INSUFICIÊNCIA DEPROVAS. INVIABILIDADE. AUTORIA E MATERIALIDADE COMPROVADAS.
+1. Apelação contra a sentença que condenou o apelante pela prática do crime previsto no art. 33, caput, daLei 11.343/2006, à pena de 05 (cinco) anos c 03 (três) meses de reclusão mais 530 (quinhentos e trinta), emregime inicial fechado.
+2. Incabível a absolvição do crime de tráfico de drogas se o conjunto probatório acostado aos autos,composto por elementos coerentes e harmônicos evidenciam a prática da conduta descrita no artigo 33 daLei 11.343/2006.
+3. Apelação criminal conhecida e desprovida."(fl. 32).
+Daí o presente writ, no qual sustenta a Defesa, em linhas gerais, que o paciente estaria sofrendo constrangimento ilegal em razão da execução antecipada da pena.
+Aduzausênciados requisitos ensejadores da prisão preventiva.
+Argumenta a inobservância do art. 316, parágrafo único do Código de Processo Penal.
+Requer, ao final, a revogação da prisão preventiva ou subsidiariamente, a aplicação das medidas cautelares diversas da prisão ou prisão domiciliar.
+A liminar foi indeferida às fls. 544-546.
+As informações foram prestadas às fls. 550-556 e 575-581.
+O d. Ministério Público Federal, às fls. 585-589, manifestou pelo não conhecimento da ordem, conforme parecer que restou assim ementado:
+"HABEAS CORPUS. TRÁFICO DE DROGAS.PRISÃO PREVENTIVA. WRITSUBSTITUTIVO.
+1. O habeas corpus, quando utilizado comosubstituto de recursos próprios, não deve serconhecido, somente se justificando a concessão daordem de oficio quando flagrante a ilegalidadeapontada.
+2. Comprovada a materialidade, havendo indíciosde autoria e restando demonstrada, com elementosconcretos, a necessidade da prisão preventiva paragarantia da ordem pública e aplicação da lei penal,afasta-se a alegação de constrangimento ilegal.
+3. Inviável a análise de inobservância do art. 316do Código de Processo Penal, sob pena de indevidasupressão de instância.
+4. Parecer pelo não conhecimento do writ".
+É o relatório.
+Decido.
+Inicialmente, cumpre esclarecer que o Regimento Interno deste Superior Tribunal de Justiça,em seu art.34, inciso XX, permite ao relator"decidir ohabeas corpusquando for inadmissível, prejudicado ou quando a decisão impugnada se conformar com tese fixada em julgamento de recurso repetitivo ou de repercussão geral, a entendimento firmado em incidente de assunção de competência, a súmula do Superior Tribunal de Justiça ou do Supremo Tribunal Federal,a jurisprudência dominante acerca do temaou as confrontar".
+Não por outro motivo, a Corte Especial deste Superior Tribunal de Justiça, em 16/3/2016, editou a Súmula n. 568, segundo a qual "o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema", aplicável à presente hipótese que trata dehabeas corpus substitutivo de recurso próprio.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não-conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+Dessarte, passo ao exame das razões veiculadas no mandamus.
+Quanto as alegações deque o paciente estaria sofrendo constrangimento ilegal em razão da execução antecipada da pena,a ausência dos requisitos ensejadores da prisão preventiva, bem comoa inobservância do art. 316, parágrafo único do Código de Processo Penal, da leitura do acórdão objurgado, verifica-se que tais matérias não foram alvo de deliberação pelo Tribunal de origem, circunstância que impede qualquer manifestação desta Corte Superior de Justiça sobre o tópico, sob pena de se configurar a prestação jurisdicional em indevida supressão de instância.
+Ilustrativamente:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. PRISÃO PREVENTIVA. REVOGAÇÃO. REITERAÇÃO DE HABEAS CORPUS. MÉRITO NÃO ANALISADO PELO STJ. PRETENSÃO DE RECORRER EM LIBERDADE. SUPRESSÃO DE INSTÂNCIA. CONSTRANGIMENTO ILEGAL. NÃO OCORRÊNCIA. RECURSO DESPROVIDO.
+1. Não há se falar em coisa julgada em impetração de novo habeas corpus com matéria idêntica à de writ anterior cujo mérito não foi analisado por óbice processual.
+2. O exame pelo Superior Tribunal de Justiça de matéria que não foi apreciada pelas instâncias ordinárias enseja indevida supressão de instância, com explícita violação da competência originária para o julgamento de habeas corpus (art. 105, I, c, da Constituição Federal).
+3. Agravo regimental desprovido."(AgRg no HC 725.396/SP, Quinta Turma, Rel. Ministro João Otávio de Noronha, DJe 06/04/2022-grifei)
+"RECURSO ORDINÁRIO EM HABEAS CORPUS. CRIMES CONTRA A ORDEM TRIBUTÁRIA. TRANCAMENTO DA AÇÃO PENAL. INÉPCIA DA DENÚNCIA. ART. 41 DO CPP. ATIPICIDADE. NÃO AFASTADA DE PLANO. APROFUNDADO REEXAME DO ACERVO FÁTICO E PROBATÓRIO. INVIABILIDADE NESTA VIA ESTREITA. MEDIDAS CAUTELARES DIVERSAS DA PRISÃO PREVENTIVA. SUPRESSÃO DE INSTÂNCIA. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. RECURSO ORDINÁRIO DESPROVIDO.
+I - O trancamento da ação penal constitui medida de exceção, justificada apenas quando comprovadas, de plano, sem necessidade de análise aprofundada de fatos e provas, inépcia da inicial acusatória, atipicidade da conduta, presença de causa de extinção de punibilidade ou ausência de prova da materialidade ou de indícios mínimos de autoria.
+II - Nos termos do art. 41 do CPP, a denúncia conterá a "exposição do fato criminoso, com todas as suas circunstâncias, a qualificação do acusado ou esclarecimentos pelos quais se possa identificá-lo, a classificação do crime e, quando necessário, o rol das testemunhas".
+III - No caso, a exordial acusatória descreveu os fatos criminosos, em tese, praticados, individualizando as condutas dos recorrentes de forma até mesmo exaustiva para a complexidade da causa, assim, compatível com a fase processual, além de adequada a garantir o exercício da ampla defesa e do contraditório.
+IV - Segundo pacífica jurisprudência desta Corte Superior, a propositura da ação penal exige tão somente a prova da materialidade e a presença de indícios mínimos de autoria. Prevalece, na fase de oferecimento da denúncia, o princípio do in dubio pro societate.
+V - No presente caso, é possível verificar a presença dos indícios mínimos necessários para a persecução penal, sendo certo que o acolhimento da tese defensiva - atipicidade das condutas - demandaria necessariamente amplo reexame da matéria fático-probatória, procedimento, a toda evidência, incompatível com a via do habeas corpus e do seu recurso ordinário. Precedentes.
+VI - A decisão que recebe a denúncia (CPP, art. 396) e aquela que rejeita o pedido de absolvição sumária (CPP, art. 397), não demandam motivação profunda ou exauriente, considerando a natureza interlocutória de tais manifestações judiciais, sob pena de indevida antecipação do juízo de mérito, que somente poderá ser proferido após o desfecho da instrução criminal, com a devida observância das regras processuais e das garantias da ampla defesa e do contraditório. Precedentes.
+VII - No caso concreto, não tendo se manifestado o eg. Tribunal a quo acerca das medidas cautelares diversas da prisão preventiva, não compete a esta Corte Superior analisar a matéria em supressão de instância, nos termos do entendimento consolidado neste Tribunal Superior, verbis: "No seio de habeas corpus, não é possível conhecer de temas não tratados na origem, sob pena de supressão de instância" (AgRg no HC n. 400.382/RS, Sexta Turma, Relª. Minª. Maria Thereza de Assis Moura, DJe de 23/06/2017).
+Recurso ordinário em habeas corpus desprovido." (RHC 109.737/PR, Quinta turma, Rel. min. Felix Fischer, DJe 04/06/2019-grifei.)
+Diante de tais considerações, portanto, não se vislumbra a existência de qualquer flagrante ilegalidade passível de ser sanada pela concessão da ordem de habeas corpus.
+Ante o exposto, com fulcro no art. 34,inciso XX, do RISTJ,não conheço dohabeas corpus.
+P. e I.
