@@ -1,0 +1,33 @@
+DECISÃO
+Cuida-se de agravo (art. 1042 do CPC/2015 - fls. 949-959 e-STJ), interposto por CAMPAGNOLLI & CIA. LTDA, em face da decisão de inadmissibilidade do recurso especial (fls. 942-944 e-STJ), esse, de sua vez, manejado contra acórdão proferido em apelação cível pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+APELAÇÃO - Ação de indenização por danos materiais  Alegação de pagamento de cheques com falsificação de assinaturas e com irregularidades no endosso, parte depositados em conta bancária de funcionária da administradora Alegação de má prestação de serviço de administração condominial -Procedência parcial contra o Banco  Improcedência contra a administradora e contra a funcionária denunciada  Instituição financeira que não apresentou cartão de assinaturas da conta-corrente ou cópia microfilmada  Impossibilidade de perícia mediante comparação entre as assinaturas apostas nas cártulas com as do cartão de assinaturas  Comparação visual entre as assinaturas apostas nos cheques que apontam divergências da assinatura do segundo assinante  Não reconhecimento da excludente da responsabilidade civil (fato praticado por terceiro)  Responsabilidade e obrigação do banco de compor o prejuízo desses cheques - Cheques pagos no caixa e compensados pela instituição financeira sacada com endossos regulares  Responsabilidade pela regularidade do endosso da instituição financeira apresentante à compensação  Banco sacado que não responde pela repetição de valores desses cheques  Cheques emitidos em favor de terceiros que foram endossados e depositados na conta bancária da funcionária da administradora, e outros nominais a terceiros, todos sem provas de que se referiam a pagamento de reais obrigações do condomínio e que os reais credores receberam o valor  Provas de ônus da administradora condominial (NCPC, art. 373, II)  Administradora que responde pelos atos de seus prepostos (CC/16, art. 1521, 111, atual CC, art. 921, Ill)  Responsabilidade e obrigação da administradora de compor o prejuízo no valor total pedido pelo Condomínio  Denunciação à lide da funcionária, acolhida  Adequação dos ónus do decaimento e dos honorários advocatícios  Sentença parcialmente modificada  Recurso do Banco parcialmente provido; recurso do Condomínio provido; e, recurso da "Campagnolli", provido.
+Opostos embargos de declaração (fls. 861-865 e-STJ), foram esses desprovidos pelo acórdão de fls. 867-872 e-STJ.
+Nas razões de recurso especial (fls. 884-894e-STJ), alegou ainsurgente que o acórdão recorrido violou os seguintes dispositivos de lei federal: (i)artigo 1022 do CPC/15, porquanto não sanados os vícios apontados nos aclaratórios; (ii)artigos 355 e 373 do CPC/15, sustentando a inexistência de provas de sua responsabilidade pelos prejuízos alegados pela parte adversa.
+Contrarrazões às fls. 917-921 e 929-935e-STJ.
+Em juízo prévio de admissibilidade, a Corte de origem inadmitiu o apelo nobre, ensejando ainterposição do presente agravo (art. 1.042 do CPC/15), cuja minuta está acostada às fls. 949-959e-STJ, por meio do qual pretende ver admitido o recurso especial.
+Contraminuta às fls. 970-974 e-STJ.
+É o relatório.
+Decide-se.
+A pretensão recursal não merece prosperar.
+1.No que diz respeito à alegada violação ao art. 1.022 do CPC/15, observa-se que a parte recorrente alegou genericamente que o acórdão hostilizado o teria afrontado, sem, contudo, demonstrar de forma clara como o decisum teria incorrido em omissão, contradição ou obscuridade, o que atrai, por analogia, o óbice da Súmula 284 do STF.
+Dentre os vários precedentes a respeito, destaca-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO DE DANOS MORAIS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA DE INDICAÇÃO DA FORMA COMO FOI VIOLADO. SÚMULA 284/STF. FUNDAMENTO NÃO ATACADO. INCIDÊNCIA DA SÚMULA 283/STF. CERCEAMENTO DE DEFESA. ILEGITIMIDADE ATIVA. AUSÊNCIA DE ATO ILÍCITO. REDUÇÃO DO QUANTUM FIXADO. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. É deficiente a fundamentação do recurso especial em que a alegação de ofensa aos arts. 489 e 1.022 do CPC/2015 se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Aplica-se, na hipótese, o óbice da Súmula 284 do STF.
+ ..
+5. Agravo interno desprovido.
+(AgInt no AREsp 1795928/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 25/05/2021, DJe 28/05/2021)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE NÃO FAZER. DECISÃO DA PRESIDÊNCIA DO STJ. SÚMULA N. 182 DO STJ. RECONSIDERAÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA DE DEMONSTRAÇÃO DE OFENSA AOS DISPOSITIVOS LEGAIS INVOCADOS. SÚMULA N. 284/STF. CONTRAFAÇÃO. CARACTERIZAÇÃO. REEXAME DO CONTRATO E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULAS N. 5 E 7 DO STJ. AGRAVO INTERNO PROVIDO. AGRAVO EM RECURSO ESPECIAL DESPROVIDO.
+1. Considera-se deficiente, a teor da Súmula n. 284 do STF, a fundamentação do recurso especial que alega negativa de prestação jurisdicional, mas não demonstra, clara e objetivamente, qual o ponto omisso, contraditório ou obscuro do acórdão recorrido que não teria sido sanado no julgamento dos embargos de declaração.
+ ..
+3. Agravo interno a que se dá provimento para reconsiderar a decisão da Presidência desta Corte e negar provimento ao agravo nos próprios autos.
+(AgInt no AREsp 1751124/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 10/05/2021, DJe 17/05/2021)
+Gize-se que não basta a mera indicação dedispositivos legais que, em tese, não foram apreciados pela Corte local, sendo necessário demonstrar quais as teses não apreciadas, bem como sua relevância para o desdobramento da causa.
+Incidente, portanto, o óbice da Súmula 284/STF.
+2. No mais, a parte limita-se a alegar, também genericamente, a inexistência de comprovação de sua responsabilidadepelos prejuízos alegados pela parte adversa.
+As razões recursais são insuficientes para infirmar, sequer em tese, os fundamentos do acórdão recorrido, no sentido da demonstração de responsabilidade da codemandada Paula, preposta da ora insurgente, responsável solidária.
+Incidentes, portanto, os óbices das Súmulas 283 e 284/STF.
+No mais, derruir as conclusões da Corte de origem acerca dos atos praticados pela preposta da insurgente encontra óbice na Súmula 7/STJ.
+3.Do exposto, com amparo no artigo 932 do CPC/15 c/c a Súmula 568/STJ, nega-se provimento ao agravo em recurso especial. Em atenção ao disposto no art. 85, §11, do CPC/15, deixa-se de majorar os honorários, eis que já fixados no patamar máximo pela origem.
+Prejudicado o pedido de efeito suspensivo.
+Publique-se.
+Intimem-se.
