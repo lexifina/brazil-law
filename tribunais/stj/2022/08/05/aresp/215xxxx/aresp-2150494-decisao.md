@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de agravo apresentado pelo ESTADO DO AMAPÁ contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO AMAPÁ, assim resumido:
+CIVIL E PROCESSUAL CIVIL - APELAÇÃO CÍVEL - AÇÃO DE INDENIZAÇÃO POR DANO MORAL E MATERIAL - DIREITO À SAÚDE - ADMINISTRAÇÃO PÚBLICA - RESPONSABILIDADE CIVIL OBJETIVA (CF, ART. 37, § 6º) - MORTE DE RECÉM-NASCIDO - FALHA NA PRESTAÇÃO DO SERVIÇO MÉDICO - NEXO CAUSAL CARACTERIZADO - DANOS COMPROVADOS - VALORES DAS INDENIZAÇÕES FIXADOS ADEQUADAMENTE, INCLUSIVE QUANTO AO PENSIONAMENTO - RECURSO DESPROVIDO.
+Quanto à controvérsia, alega violação dos arts. 373, I, do CPC; e 186 e 927 do CC, no que concerne à inexistência de responsabilidade civil estatal por morte de recém-nascido decorrente de negligência médica, tendo em vista a ausência de comprovação do nexo causal referente ao dano suportado pelos recorridos, trazendo os seguintes argumentos:
+A responsabilidade do Poder Público por atos de seus agentes é objetiva e pautada pelo risco administrativo, não há que se falar em risco integral. Ora, se houve conduta estatal, mas não houve prova do nexo causal entre a conduta e o dano; ausente um dos requisitos para imputação de responsabilidade do ESTADO DO AMAPÁ por erro médico.
+ ..
+Com efeito, o Estado do Amapá não procedeu com qualquer dolo/culpa no evento danoso, não podendo ser responsabilizado por suposto equívoco no procedimento médico utilizado para com a paciente. A prova do dano e do nexo causal é imprescindível, sem elas não há responsabilidade a ser imputada ao ente estatal.
+ ..
+A recorrida não deixou de se desincumbir do ônus de provar o direito pretendido em juízo, art.373, I do CPC/2015. Não há qualquer prova de dano sofrido pelo recorrido por omissão do ente estatal, não havendo elementos aptos a ensejar a responsabilidade do Estado.
+ ..
+Na apuração das provas carreadas na instrução processual ficou clara a ausência de nexo causal entre a conduta do ente federativo, por meio de seu agente público, e o dano sofrido pela parte. O Tribunal a quo presumiu a existência da conduta ilícita do agente público, pois não se sabe se o atendimento foi fora dos padrões recomendados pelos técnicos na área. Isto que só pode ser comprovado com prova técnica pericial.
+ ..
+Verifica-se que a ausência do nexo de causalidade é motivo para retirar a responsabilidade do Estado à condenação dos danos morais. O nexo causal inexiste por inexistir dano sofrido pelo Recorrido (fls. 372-376).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+Nesse sentido, percebe-se que a controvérsia reside quanto a eventual negligência dos profissionais da área de saúde do Estado do Amapá, por não terem prestado o atendimento adequado e com a urgência que o caso exigia em decorrência da gravidez da apelada, cujo resultado foi o óbito de seu filho recém-nascido.
+Assim, após analisar todo o caderno probatório, sem dúvida que também é relevante para o deslinde do caso o relatório médico emitido pela coordenação de obstetrícia do Hospital da Mulher "Mãe Luzia", datado de 21/03/2019 e assinado pela médica Brenda Freire Ferreira de Andrade, ginecologista-obstetra (CRM 930/AP), juntado por ocasião da contestação (ordem nº 11).
+E por esse relatório aparentemente todos os procedimentos hospitalares foram efetuados pelos profissionais responsáveis pelo atendimento da apelante e do recém-nascido na época, estando ali descrito, em linhas gerais, o seguinte:
+ ..
+No entanto, esse mesmo relatório e as demais provas produzidas demostraram que, apesar da prática desses procedimentos no hospital, não foram adotadas as cautelas devidas e necessárias para oferecer à apelada e ao infante o melhor e mais adequado atendimento médico possível.
+ ..
+Por isso, não há como afastar o nexo de causalidade e o dever de indenizar, dado que houve sim negligência hospitalar dos agentes estatais quanto ao dia/horário para o nascimento da criança, cuja falha do serviço público sem dúvida contribuiu para o óbito, pois não foi empregando de imediato todos os artifícios possíveis a fim de preservar a sua saúde e sua vida (fls. 256-259).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o reexame da premissa fixada pela Corte de origem quanto à presença ou não dos elementos que configuram o dano moral indenizável exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em recurso especial.
+Confiram-se os seguintes julgados: AgRg no REsp 1.365.794/RS, relator Ministro Herman Benjamin, Corte Especial, DJe de 9/12/2013; AgInt no AREsp 1.534.079/ES, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 26/8/2020; AgInt nos EDcl no AREsp 1.341.969/DF, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 26/8/2020; AgInt no AREsp 1.581.658/PB, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 18/8/2020; e AgInt no AREsp 1.528.011/RJ, relator Ministro Francisco Falcão, Segunda Turma, DJe de 1º/7/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
