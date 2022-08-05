@@ -1,2 +1,2 @@
 Art. 28. A microgeração e a minigeração distribuídas caracterizam-se como produção de energia elétrica para consumo próprio.
-Parágrafo único. (VETADO).
+Parágrafo único. Para fins desta Lei, os projetos de minigeração distribuída serão considerados projetos de infraestrutura de geração de energia elétrica, para o enquadramento no § 1º do art. 1º da Lei nº 11.478, de 29 de maio de 2007, e no art. 2º da Lei nº 11.488, de 15 de junho de 2007, e no art. 2º da Lei nº 12.431, de 24 de junho de 2011, observado que, nesse último caso, serão considerados projetos prioritários e que proporcionam benefícios ambientais e sociais relevantes.
