@@ -1,0 +1,72 @@
+DECISÃO
+Trata-se de agravo interposto por JOSÉ JAILSON DE SOUSA contra a decisão que inadmitiu recurso especial. O apelo extremo, com fundamento no art. 105, III, "a", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementado:
+"DIREITO CIVIL. AÇÃO DE RESCISÃO CONTRATUAL C/C LUCROS CESSANTES. APELAÇÃO CÍVEL. PRELIMINAR. CERCEAMENTO DE DEFESA. SUSPENSÃO DO PROCESSO. PRELIMINARES REJEITADAS. PREJUDICIAL DE MÉRITO. PEDIDO DE RESCISÃO CONTRATUAL. PRESCRIÇÃO. OCORRÊNCIA. PRAZO DECADENCIAL. PRESCRIÇÃO INDIRETA DO DIREITO POTESTATIVO. MÉRITO. LUCROS CESSANTES. CABIMENTO. DEVER DE MITIGAR O PRÓPRIO PREJUÍZO. TERMO INICIAL. VENCIMENTO DA ÚLTIMA PARCELA. TERMO FINAL. DATA DE AJUIZAMENTO DA AÇÃO. SENTENÇA REFORMADA.
+1. O julgamento antecipado da lide não viola princípios de observância obrigatória pelo julgador quando não houver necessidade de produção de outras provas, possibilidade que consubstancia previsão constante do artigo 355, I, do Código de Processo Civil.
+2. Não podem os autos serem suspensos para garantir situação futura e hipotética, descabendo a determinação de suspensão contra ação de declaração de simulação que ainda não existe nos autos.
+3. Com relação aos lucros cessantes pretendidos pelo autor, decidiu o c. Superior Tribunal de Justiça que o dano decorrente de descumprimento contratual dispõe de prazo prescricional de dez anos, a contar da ciência do dano, com respaldo no art. 205 do Código Civil, em razão da ausência de previsão específica no Código Civil quanto ao prazo prescricional em tal hipótese.
+4. O direito de rescindir o contrato de compra e venda que foi inadimplido pelo comprador constitui direito potestativo, submetido, portanto, à decadência, cujo prazo não tem previsão em lei.
+5. Ocorre que, para não configurar a sujeição perpétua do devedor a arcar com os prejuízos da inadimplência, a doutrina e a jurisprudência vêm entendendo que, se prescrita a ação creditícia, não podendo o credor mais cobrar aquilo que foi inadimplido, não pode também pedir a resolução, já que este direito de extinção da relação jurídica está atrelado ao direito de crédito do vendedor, vale dizer, não cabe a resolução ou resilição por inadimplemento, quando o comprador não mais tem obrigação de prestar, embora deva. É o que a doutrina chama de prescrição indireta do direito potestativo de resolver o contrato.
+6. A pretensão creditícia extingue-se em cinco anos, nos termos do art. 206, §5º, inciso I, do Código Civil (pretensão de cobrar dívidas líquidas constantes de instrumento público ou particular), atentando-se que, na hipótese de contrato em que se prevê pagamento em parcelas sucessivas, a contagem do prazo prescricional quinquenal somente se inicia após o vencimento da última parcela. Pedido de rescisão contratual prescrito na hipótese.
+7. Estando o autor privado de obter lucros econômicos pelo período em que poderia ter usufruído do bem, mas não o fez em razão de este estar em poder do réu inadimplente, tem direito ao recebimento dos lucros cessantes.
+8. Não obstante, os termos inicial e final da indenização a que faz jus o autor devem ser modificadas, em razão da teoria denominada (ou ), tendo em vista que o doctrine of mitigation duty mitigate the loss vendedor violou o princípio da boa-fé objetiva ao demorar nove anos para intentar medidas para ser reintegrado na posse do fundo de comércio, quando deveria mitigar os próprios prejuízos, devendo a indenização ser reduzida como pena por sua desídia.
+9. O termo inicial para o recebimento de lucros cessantes deve ser considerado a partir da data em que venceu a última das 40 (quarenta) parcelas pactuadas no contrato, e o termo final, a data de ajuizamento da ação, momento em que o autor demonstrou a vontade de descontinuidade do negócio.
+10. Negou-se provimento ao recurso do autor. Deu-se parcial provimento ao recurso do réu" (fl. 626/627, e-STJ).
+Os embargos de declaração opostos pelo agravante foram rejeitados (fls. 697/705, e-STJ).
+No especial, o recorrente aponta violação dos arts. 1.022, I e II, e 489, § 1º, IV, do Código de Processo Civil de 2015; 219 do Código de Processo Civil de 1973, e 206, § 3º, inciso V do Código Civil de 2002, argumentando, em síntese:
+(i) haver omissão no acórdão recorrido;
+(ii) que a citação efetuada após o prazo de 90 dias previsto no Código de Processo Civil de 1973, vigente à época, não produz o efeito interruptivo retroativo e, no caso dos autos, a citação válida ocorreu quando já consumado o prazo prescricional decenal;
+(iii) que o prejuízo decorreu da mora do próprio recorrido, porquanto deixou transcorrer o período de quase 10 anos para o ajuizamento da demanda; e
+(iv) a necessidade de aplicação do prazo prescricional trienal à pretensão de indenização pelos lucros cessantes.
+Contrarrazões às fls. 798/806, e-STJ.
+O Presidente do tribunal de origem inadmitiu o recurso especial, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+Cuida-se, na origem, de ação de rescisão de contrato de compra e venda de ponto comercial por inadimplemento do comprador, com pedido de devolução do imóvel e indenização pelos lucros cessantes.
+O tribunal local concluiu pela prescrição da pretensão de rescisão do contrato, porquanto ultrapassado o prazo quinquenal, e adotou o prazo decenal para a pretensão de recebimento dos lucros cessantes, aos seguintes fundamentos:
+"(..)
+Na origem, cuida-se de ação de rescisão contratual movida por AUTO POSTO ISRAEL LTDA em desfavor de AUTO POSTO 107 SUL, JOSÉ JAILSON DE SOUSA, KÁTIA MARIA PINTO ROCHA, LUANA BARROS ROCHA e WAGNER BARROS ROCHA, na qual pretende o autor a rescisão do contrato entabulado com o segundo réu em razão de inadimplemento, o retorno ao status a quo, bem como a indenização, a título de lucros cessantes, do lucro que obteria se estivesse na posse do imóvel desde o momento da inadimplência.
+(..)
+O cerne da questão cinge-se à resolução do contrato entabulado entre o autor e o réu JOSÉ JAILSON DE SOUSA em 2005, e a obtenção de indenização correspondente ao lucro que poderia ter adquirido se estivesse na posse do posto de combustível a partir do momento em que houve inadimplemento contratual.
+Nesse esteio, com relação aos lucros cessantes pretendidos pelo autor, decidiu o c. Superior Tribunal de Justiça que o dano decorrente de descumprimento contratual dispõe de prazo prescricional de dez anos, a contar da ciência do dano, com respaldo no art. 205 do Código Civil, em razão da ausência de previsão específica no Código Civil quanto ao prazo prescricional em tal hipótese.
+(..)
+É cediço que o prazo prescricional se inicia com a ciência do dano, a qual ocorreu em agosto de 2005, momento que, segundo o autor, passou a ocorrer o inadimplemento contratual.
+Considerando que a ação foi ingressada em 25/03/2015, ou seja, menos de dez anos após o termo inicial do prazo prescricional, não há que se falar na existência da prejudicial de mérito quanto ao ponto" (fls. 631/635, e-STJ - grifou-se).
+No exame dos aclaratórios opostos pelo recorrente, a Corte local acrescentou que:
+"(..).
+O embargante JOSÉ JAILSON DE SOUSA pugna para que seja sanada omissão, pois não se manifestou sobre o pedido de reconhecimento da nova prescrição vislumbrada no caso em comento, de acordo com as regras do Código de Processo Civil de 1973, pois inexistiu causa interruptiva da prescrição, de modo que quando o correu a citação, já estava consumado o referido instituto.
+Não obstante, restou devidamente fundamentado no acórdão que, com relação ao pedido do autor de obtenção de lucros cessantes, o prazo prescricional decenal se iniciou com a ciência do dano, em agosto de 2005, sendo a demanda ajuizada em março de 2015, afastando o instituto da prescrição.
+O art. 219, § 4º, do Código de Processo Civil de 1973 não se aplica à espécie, porquanto, embora a citação válida somente tenha ocorrido em momento posterior o marco interruptivo da prescrição retroage à data da propositura da demanda, conforme previsto nos artigos 202, I, do Código Civil e 219, § § 1º, 2º e 3º do Código de Processo Civil de 1973, quando a demora na concretização do ato não decorrer de desídia ou inércia atribuível ao demandante.
+No caso em comento, descaracterizada a desídia ou a inércia do demandante, não há que se falar em incidência da prescrição" (fls. 701/702, e-STJ - grifou-se).
+De início, no tocante à violação dos arts. 1.022, I e II, e 489, § 1º, IV, do Código de Processo Civil de 2015, verifica-se que o tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese. Não há falar, portanto, em existência de omissão ou de deficiência de fundamentação apenas pelo fato de o julgado recorrido ter decidido em sentido contrário à pretensão da parte.
+A respeito da alegada ofensa ao art. 219 do Código de Processo Civil de 1973, o tribunal de origem, soberano na análise do conjunto fático-probatório dos autos, consignou que não restou caracterizada a desídia ou a inércia do demandante.
+Portanto, diante das premissas fáticas estabelecidas no acórdão, incide na espécie a Súmula nº 106/STJ: "Proposta a ação no prazo fixado para o seu exercício, a demora na citação, por motivos inerentes ao mecanismo da justiça, não justifica o acolhimento da arguição de prescrição ou decadência".
+Ademais, a reforma do aresto demandaria o reexame de matéria fático-probatória, providência inviável em recurso especial, haja vista o óbice da Súmula nº 7/STJ.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. INTERRUPÇÃO DO PRAZO PRESCRICIONAL. RETROAÇÃO À DATA DE PROPOSITURA DA AÇÃO. ATRASO NA CITAÇÃO QUE NÃO PODE SER IMPUTADO AO EXEQUENTE. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. MULTA DO ART. 1.021, § 4º, DO CPC/2015. INAPLICABILIDADE. HONORÁRIOS RECURSAIS. DESCABIMENTO. AGRAVO DESPROVIDO.
+1. Nos termos do enunciado n. 106 da Súmula do Superior Tribunal de Justiça, "proposta a ação no prazo fixado para o seu exercício, a demora na citação, por motivos inerentes ao mecanismo da justiça, não justifica o acolhimento da arguição de prescrição ou decadência".
+2. A reforma do entendimento estadual, para concluir que a demora na citação seria imputável à parte exequente, é providência que demanda o reexame de fatos e provas, o que é vedado na via extraordinária, em razão do óbice contido no verbete sumular n. 7 desta Corte.
+(..)
+5. Agravo interno desprovido" (AgInt no AREsp n. 1.893.942/MT, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 14/2/2022, DJe de 21/2/2022).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO. PRESCRIÇÃO INTERCORRENTE. NÃO OCORRÊNCIA DE DESÍDIA POR PARTE DO EXEQUENTE. SÚMULA 7 DO STJ. SÚMULA 106 DO STJ. RECURSO NÃO PROVIDO.
+1. Avaliar se houve desídia do exequente capaz de permitir a ocorrência de prescrição intercorrente demanda o revolvimento de matéria fático-probatória. Vedação da Súmula n. 7/STJ.
+2. Ademais, é firme o entendimento do STJ no sentido de que somente a inércia injustificada do credor caracteriza a prescrição intercorrente na execução, o que não se verifica no caso concreto, já que a demora no andamento do feito se deu por motivos inerentes ao próprio mecanismo judiciário (Súmula 106/STJ).
+3. Agravo interno não provido" (AgInt no AREsp n. 1.169.279/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 17/5/2018, DJe de 23/5/2018).
+Por fim, quanto à prescrição do pedido de indenização pelos lucros cessantes, verifica-se que a Corte estadual decidiu em conformidade com a jurisprudência deste Superior Tribunal de Justiça, atraindo a incidência da Súmula nº 568/STJ.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZATÓRIA. 1. OFENSA AOS ARTS. 489 E 1.022 DO CPC/2015 NÃO CONFIGURADA. 2. CONTRATO DE PROMESSA DE COMPRA E VENDA. ATRASO NA ENTREGA DO IMÓVEL. DESCUMPRIMENTO CONTRATUAL. PRESCRIÇÃO DECENAL. SÚMULA 83/STJ. PRAZO NÃO IMPLEMENTADO. REVISÃO. SÚMULA 7/STJ. 3. RESPONSABILIDADE DA CONSTRUTORA E PAGAMENTO PELOS LUCROS CESSANTES. REEXAME. SÚMULA 7/STJ. 4. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. 5. DANO MORAL. ATRASO EXCESSIVO. RECONHECIMENTO. SÚMULAS 7 E 83/STJ. 6. AGRAVO INTERNO DESPROVIDO.
+(..)
+2. De fato, segundo a jurisprudência do Superior Tribunal de Justiça, as ações envolvendo responsabilidade contratual observam o prazo prescricional decenal. Além disso, no caso, insta salientar que, concluindo a Corte estadual pela inexistência de implementação do prazo prescricional, descabe a este Tribunal Superior rever o fundamento adotado, uma vez que seria necessário o revolvimento de fatos e provas, o que é vedado pela Súmula 7/STJ.
+(..)
+6. Agravo interno desprovido" (AgInt no AgInt no AREsp n. 1.972.677/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 9/5/2022, DJe de 11/5/2022).
+"CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. AÇÃO DE INDENIZAÇÃO. ATRASO NA ENTREGA DA OBRA. PRESCRIÇÃO. PRAZO DECENAL. LUCROS CESSANTES. CABIMENTO. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DESTA CORTE (SÚMULA 83/STJ). AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO E NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+(..)
+2. Nas pretensões relacionadas à responsabilidade contratual, aplica-se a regra geral de prescrição decenal (CC/2002, art. 205). Precedentes (EREsp 1.280.825/RJ, Rel. Ministra NANCY ANDRIGHI, Segunda Seção, j. em 27.6.2018, DJe de 2.8.2018; e EREsp 1.281.594/SP, Rel. p/ acórdão Ministro FELIX FISCHER, Corte Especial, j. em 15.5.2019, DJe de 23.5.2019).
+(..)
+5. Agravo interno provido para reconsiderar a decisão agravada e, em nova análise, conhecer do agravo para negar provimento ao recurso especial" (AgInt no AREsp n. 1.910.592/RJ, relator Ministro Raul Araújo, Quarta Turma, julgado em 25/4/2022, DJe de 23/5/2022).
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Em virtude do provimento do recurso especial do recorrido AUTO POSTO ISRAEL LTDA., determinando o retorno dos autos, não são cabíveis honorários recursais, porquanto haverá novo exame da sucumbência na origem.
+Publique-se.
+Intimem-se.
