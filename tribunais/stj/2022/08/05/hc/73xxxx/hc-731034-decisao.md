@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de habeas corpus, sem pedido liminar, impetrado em favor de LEONARDO CANDIDO DE SOUSAcontra acórdão proferido pelo Tribunal de Justiça do Estado de Mato Grosso na Revisão Criminal n. 1003608-74.2021.8.11.0000.
+Consta dos autos que o Paciente foi definitivamente condenadoà pena de 5 (cinco) anos de reclusão, em regime inicial semiaberto, além do pagamento de 500 (quinhentos) dias-multa, pela prática do crime previsto no art. 33,caput, da Lei n. 11.343/2006, em razão da apreensão de 6 (seis) porções de pasta base de cocaína, pesando 4,318g.
+A revisão criminal ajuizada pela Defesa foi julgada improcedente (fls. 10-15).
+Os embargos de declaração opostos foram acolhidos para sanar a omissão suscitada pela Defesa (fls. 315-318).
+Nestewrit, a Impetrante alega que não foi apresentada fundamentação idônea para negar a aplicação da minorante do tráfico privilegiado.
+Aduz que as instâncias ordinárias mencionaram a "existência de ação penal distribuída posteriormente ao caso em tela" (fl. 4).
+Afirma que "o argumento trazido pelo Tribunal sobre o elemento de informação colhido em fase investigativa (depoimento de um suposto usuário), destaca-se que tal elemento de informação não foi ratificado em juízo, não merecendo, portanto, ser validado para o fito de afastar o direito do paciente" (fl. 8).
+Requer a aplicação da causa de diminuição de pena prevista no art. 33, § 4.º, da Lei de Drogas, com a fixação do regime aberto e substituição da pena privativa de liberdade por restritivas de direitos.
+As informações foram prestadas às fls. 307-319.
+O Ministério Público Federal opinou pelo não conhecimento dowrit(fls. 324-332).
+É o relatório.Decido.
+São condições para que o condenado faça jus à diminuição da pena prevista no § 4.º do art. 33 da Lei n. 11.343/2006:ser primário, ter bons antecedentes e não se dedicar a atividades criminosas ou integrar organizações criminosas. Esses requisitos precisam ser preenchidos conjuntamente.
+No caso, o Tribunal de origem utilizou os seguintes fundamentos para negar a aplicação da minorante do tráfico privilegiado (fl. 317; sem grifos no original):
+"Contudo, apesar da omissão, é evidente que deve ser mantido o afastamento do benefício previsto no § 4º do art. 33 da Lei n. 11.343/06.
+In casu, a testemunha em questão, Sérgio Lucas Farias, ouvida extrajudicialmente, afirmou ter adquirido cocaína do apelante em torno de 4 vezes durante o mês, contudo, judicialmente (Id. 78461468, pp. 87-89), negou ter adquirido entorpecentes do requerente, mas relatou que entregou R$ 20,00 a Leonardo para que ele comprasse drogas a fim de que ambos consumissem, pois era ele quem fazia o "corre", como se infere da sentença, nos seguintes termos:
+"(..) Igualmente, não há de se falar em fornecimento esporádico de droga, sem objetivo de lucro, a pessoa de seu relacionamento, visto que, para configurar a prática do § 3º do art. 33 da Lei n. 11.343/06, é necessário o fornecimento eventual, o que não é o caso, já que, como demonstrado, o réu buscava droga para que Sérgio consumisse, por diversas vezes, bem como para outras pessoas, notando-se a habitualidade na conduta.
+Ainda, concomitantemente, é necessário que a prática não vise objetivo de lucro, imediato ou não, ou qualquer vantagem, demonstrando-se o contrário no caso, pois conforme se depreende do depoimento de Sérgio Lucas Farias, o réu praticava a conduta de fornecer com outros usuários o chamado "corre", motivo pelo qual havia grande frequência de usuários em sua residência. (..)" (Id. 78461468).
+Conforme se observa, a mencionada testemunha, em juízo, modificou seu depoimento apenas no ponto em que negou ter adquirido drogas "diretamente" do requerente, mas confirmou que lhe entregou o dinheiro para que ele adquirisse o entorpecente que seria consumido por todos.
+Além disso, a habitualidade da conduta foi confirmada em juízo por outro usuário de drogas, Douglas Nogueira Fernandes, que afirmou que já havia várias vezes adquirido drogas com o acusado, além de que os policiais militares que participaram da prisão em flagrante do requerente, confirmaram em juízo as suas versões."
+A despeito da alegação defensiva de que foi mencionado fato criminoso supostamente praticado após o cometimento do delito em análise, verifica-se que a Corte local indicou fundamento autônomo, que autoriza a não aplicação da causa de diminuição de pena do art. 33, § 4.º, da Lei de Drogas: em depoimentos prestados na fase judicial e extrajudicial, usuários de drogas ressaltaram que já adquiriram, em várias oportunidades, entorpecentes com o Acusado, o que demonstra seu envolvimento habitual com a prática delituosa.
+Uma vez constatada pela instância ordinária a ausência dos requisitos para a aplicação da causa de diminuição de pena prevista no art. 33, § 4.º, da Lei n. 11.343/2006, sobretudo ante a conclusão de que o Paciente se dedicava a atividades criminosas, a modificação deste entendimento exigiria aprofundado reexame probatório, o que não é possível na via do habeas corpus.
+Nesse sentido:
+"PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. CAUSA DE DIMINUIÇÃO DO ART. 33, § 4º, DA LEI N. 11.343/2006. HABITUALIDADE DELITIVA EVIDENCIADA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. AGRAVO NÃO PROVIDO.
+ ..
+2. Hipótese em que a instância antecedente negou o redutor do tráfico privilegiado com fundamento nos depoimentos dos policiais e de usuários de droga que confirmaram a traficância realizada habitualmente pelo agente no "Beco do Tuca". Foi destacada, ainda, a apreensão de variada quantidade de entorpecente na residência do acusado (aproximadamente 33,1 g de maconha e 15 g de crack), de dinheiro em espécie (R$ 255,00) e de um rádio comunicador, o que indicaria não ser ele pessoa iniciante no comércio de drogas.
+3. Concluído pelo Tribunal de origem que o paciente se dedica a atividade criminosa, com fundamento em elementos colhidos nos autos, a modificação desse entendimento - a fim de fazer incidir a minorante da Lei de Drogas - enseja o reexame do conteúdo probatório dos autos, o que é inadmissível em sede de habeas corpus.
+4. Agravo regimental não provido." (AgRg no HC n. 705.771/SC, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 14/12/2021, DJe 17/12/2021; sem grifos no original.)
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. CAUSA DE DIMINUIÇÃO DA PENA PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006. INAPLICABILIDADE. ACUSADO QUE SE DEDICA À TIVIDADE CRIMINOSA. AFERIÇÃO. REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. INVIABILIDADE. MANUTENÇÃO DO REGIME PRISIONAL FECHADO. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+2. A Corte local deixou de aplicar a minorante, respeitando os critérios legais estabelecidos pelo art. 33, § 4º, da Lei n. 11.343/2006 e, ainda, observando os pormenores da situação concreta, que demonstraram que o acusado dedica-se à atividade criminosa.
+3. Desconstituir os fundamentos adotados pelas instâncias ordinárias demanda ampla incursão no acervo fático-probatório dos autos, tarefa para a qual não se presta o habeas corpus.
+ ..
+5. Agravo regimental desprovido." (AgRg no HC 584.904/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 08/02/2022, DJe 15/02/2022; sem grifos no original.)
+Mantida a pena imposta pela Corte local, fica prejudicada a análise dos pedidos de abrandamento do regime inicial e substituição da pena privativa de liberdade por restritivas de direitos.
+Ante o exposto, DENEGO a ordem de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS.DOSIMETRIA. CAUSA DE DIMINUIÇÃO PREVISTA NO ART. 33, § 4.º, DA LEI DE DROGAS. FUNDAMENTAÇÃO IDÔNEA PARA O AFASTAMENTO DA MINORANTE. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO.INVERSÃO DO JULGADO. REVOLVIMENTO DA MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE NESTA VIA. ORDEM DEHABEAS CORPUSDENEGADA.
