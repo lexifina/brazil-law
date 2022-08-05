@@ -1,0 +1,62 @@
+DECISÃO
+Trata-se de agravo interposto por OI S.A. - em Recuperação Judicial - contra decisão que inadmitiu o recurso especial. O apelo extremo, com fundamento no art. 105, inciso III, alínea"a", da Constituição Federal, insurge-se contra acórdão proferido pelo Tribunal de Justiça do Estado do Paraná assim ementado:
+"AGRAVO INTERNO. PROCESSO CIVIL. AÇÃO DE ADIMPLEMENTO CONTRATUAL. TELEFONIA, EM FASE DE CUMPRIMENTO DE SENTENÇA. DECISÃO QUE INDEFERIU O PEDIDO DE TUTELA ANTECIPADA E DETERMINOU O PROSSEGUIMENTO DO FEITO. PENHORA EFETIVADA EM 2014  DETERMINAÇÃO DE EXPEDIÇÃO DE ALVARÁ DESDE 2015  DECISÕES ANTERIORES AO DEFERIMENTO DA RECUPERAÇÃO JUDICIAL (21/06/2016)  NÃO HÁ AFRONTA A DECISÃO JUDICIAL DO JUÍZO DA 7. VARA EMPRENSARIAL DO RIO DE JANEIRO/RJ. RECURSO DESPROVIDO"(e-STJ fl. 1227)
+Os embargos declaratórios opostos foram rejeitados (fls. 1367/1387,e-STJ).
+No especial (fls. 1394/1413e-STJ), a recorrente alega violação dos arts. 6, §2º, 10, 47, 49, 59 e 61 da Lei nº 11.101/2005 e arts. 1022 e 1026, §§ 2º e 3º, do Código de Processo Civil de 2015. Aduz, em síntese, que
+"(..) o v. acórdão recorrido não teceu uma linha sequer sobre as hipóteses de liberação de valores previstas pelo Juizo Universal e sobre o trânsito em julgado do incidente de impugnação apresentado pela Oi ter se dado após 21.6.2016.
+(..) não se atentou o Tribunal local que nao houve valor depositado com a expressa finalidade de pagamento, mas sim constrição na conta da empresa, e que o trânsito da impugnação se deu após o deferimento da RJ, não cumprindo, assim, os requisitos para liberação de valores em autos proprios exigidos pelo Juizo Universal.
+(..)Certo é que a hipótese dos autos não está abarcada pelas exceções acolhidas pelo Juizo da Recuperação Judicial, visto que o depósito não foi feito com a finalidade de pagamento e que o trânsito da impugnação, como visto, se deu após o deferimento da RJ".
+Ao final, pede o afastamento da multa oposta nos embargos de declaração.
+Após o decurso do prazo para a apresentação das contrarrazões, o recurso foi inadmitido na origem, sobrevindo daí o presente agravo.
+Por decisão de fls. 1529/1531, e-STJ, de minha relatoria, o apelo nobre foi suspenso, por se tratar de controvérsia afetada à Segunda Seção para julgamento sob o rito dos recursos especiais repetitivos.
+Da referida decisão, a recorrente peticionou requerendo o prosseguimento do processo, considerando o julgamento do Tema 1.051 por este Superior Tribunal de Justiça.
+Retornaram os autos para o reexame do agravo interposto.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+Inicialmente, no tocante à alegada negativa de prestação jurisdicional, agiu corretamente o Tribunal de origem ao desacolher os embargos declaratórios, por inexistir omissão, contradição ou obscuridade no acórdão embargado, ficando patente, em verdade, o intuito infringente da irresignação, que objetivava a reforma do julgado por via inadequada. A propósito, os seguintes julgados:
+"ADMINISTRATIVO E PROCESSO CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. IMPROBIDADE ADMINISTRATIVA. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. INEXISTÊNCIA. (..)
+1. Não merece prosperar a tese de violação do art. 1.022 do CPC/2015, porquanto o acórdão recorrido fundamentou, claramente, o posicionamento por ele assumido, de modo a prestar a jurisdição que lhe foi postulada.
+2. Sendo assim, não há que se falar em omissão do aresto. O fato de o Tribunal a quo haver decidido a lide de forma contrária à defendida pela recorrente, elegendo fundamentos diversos daqueles por ela propostos, não configura omissão ou qualquer outra causa passível de exame mediante a oposição de embargos de declaração.
+(..)
+5. Agravo interno a que se nega provimento" (AgInt no REsp1.624.885/RS, Rel. Ministro OG FERNANDES, Segunda Turma, julgado em 16/3/2017, DJe24/3/2017).
+"RECURSO ESPECIAL - NEGATIVA DE PRESTAÇÃO JURISDICIONAL - INOCORRÊNCIA - PRECLUSÃO - AUSÊNCIA DE IMPUGNAÇÃO AO FUNDAMENTO DO ACÓRDÃO RECORRIDO - INCIDÊNCIA DA SÚMULA 283/STF - TRANSAÇÃO E PRESCRIÇÃO - AUSÊNCIA DE PREQUESTIONAMENTO - INCIDÊNCIA DA SÚMULA 211/STJ - PRODUÇÃO DE PROVAS - CRITÉRIO DO MAGISTRADO - JULGAMENTO ANTECIPADO DA LIDE - CERCEAMENTO DE DEFESA - OCORRÊNCIA, NA ESPÉCIE - RECURSO IMPROVIDO.
+1. Os embargos de declaração consubstanciam-se no instrumento processual destinado à eliminação, do julgado embargado, de contradição, obscuridade ou omissão sobre tema cujo pronunciamento se impunha pelo Tribunal, não se prestando para promover a reapreciação do julgado.
+(..)
+6. Recurso improvido" (REsp 1.134.690/PR, Rel. Ministro MASSAMI UYEDA, Terceira Turma, julgado em 15/2/2011, DJe 24/2/2011).
+Quanto ao mais, importante considerar que o tribunal de origem, soberano na análise do conjunto fático-probatório dos autos, concluiu que restou indubitável o preenchimento dos requisitos para levantamento do valor depositado em juizo pelo embargado.
+Eis o excerto do voto condutor do acórdão, na parte que interessa:
+"Note-se que a decisão agravada deste relator foi proferida dentro de um juízo de cognição sumária.
+Da analise dos autos verifica-se que a ordemjudicial de bloqueio de valores foi assinada em 14/11/2014 (seq 183.2) e o registro do depósito no valor de R$ R$ 93.770,19 (noventa e três, setecentos e setenta reais e dezenove centavos), conforme certidão à seq 194.1, datado de 04/12/2014.
+E conforme informado pela agravante o agravado já efetuou o levantamento do depósito judicial.
+Constata-se assim, que a decisão que determinou a expedição de alvará e foi a que prevaleceu no caso é a de seq. 205.1, proferida em 21/01/2015, muito antes do deferimento da recuperação judicial da agravante determinada pelo juizo da 7ª Vara Empresarial do Rio de Janeiro/RJ em 21/06/2016.
+Portanto, devidamente demonstrado a constrição ocorreu em data anterior a recuperação judicial.
+Nota-se que aquele deposito judicial efetuado em 2014, já foi levantado"(e-STJ fls. 1229/1230).
+Rever tal entendimento demandaria o reexame de matéria fático-probatória, o que é inviável em sede de recurso especial, nos termos da Súmula nº 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. BRASIL TELECOM.CUMPRIMENTO DE SENTENÇA. EMPRESA EM RECUPERAÇÃO JUDICIAL. OMISSÃO OU CONTRADIÇÃO. INEXISTÊNCIA. ACÓRDÃO DEVIDAMENTE FUNDAMENTADO.ENTENDIMENTO ESTADUAL NO SENTIDO DA POSSIBILIDADE DE LIBERAÇÃO DOS VALORES PRETENDIDOS. AUSÊNCIA DE OFENSA AO PLANO DE RECUPERAÇÃO.SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Não há nenhuma omissão ou mesmo contradição a serem sanadas no julgamento de origem, portanto inexistentes os requisitos para reconhecimento de ofensa ao art. 1.022 do CPC/2015. O acórdão dirimiu a controvérsia com base em fundamentação sólida, sem tais vícios, o que não se confunde com omissão ou contradição, tendo em vista que apenas resolveu a celeuma em sentido contrário ao postulado pela parte insurgente.
+(..)
+3. A conclusão no sentido da inexistência de óbice à liberação dos valores, pois respeitados os termos de decisão proferida pelo juízo em que se processava a recuperação judicial, foi feita com suporte fático-probatório, o que atrai a aplicação da Súmula 7/STJ.
+4. Agravo interno desprovido" (AgInt no AREsp 1.643.803/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 19/10/2020, DJe 26/10/2020 - grifou-se).
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.DECISÃO DA PRESIDÊNCIA DO STJ. RECONSIDERAÇÃO. NOVO EXAME DO AGRAVO NOS PRÓPRIOS AUTOS. RECUPERAÇÃO JUDICIAL. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. LIBERAÇÃO DE VALORES. REEXAME DO PLANO RECUPERACIONAL E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE.INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. AGRAVO INTERNO PROVIDO.AGRAVO NOS PRÓPRIOS AUTOS DESPROVIDO.
+1. O recurso especial não comporta o exame de questões que impliquem interpretação de cláusula contratual ou revolvimento do contexto fático-probatório dos autos, a teor do que dispõem as Súmulas n. 5 e 7 do STJ.
+2. No caso concreto, a análise das razões apresentadas pela recorrente, quanto à não observância dos critérios fixados no plano de recuperação judicial para a liberação de valores em favor da empresa de telefonia, demandaria o reexame da matéria fática, o que é vedado em sede de recurso especial.
+3. Agravo interno a que se dá provimento para reconsiderar a decisão da Presidência desta Corte e negar provimento ao agravo nos próprios autos"(AgInt no AREsp 1.571.409/RS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 28/09/2020, DJe 01/10/2020).
+Impõe-se ressaltar que não cabe ao Superior Tribunal de Justiça reexaminar as premissas de fato que levaram o Tribunal de origem a tal conclusão, sob pena de usurpar a competência das instâncias ordinárias, a quem compete amplo juízo de cognição da lide.
+Por fim, no tocante à apontada afronta ao art. 1.026 do CPC/2015, não há reparo a fazer ao entendimento exarado na origem, pois "Segundo a jurisprudência desta Corte, é correta a aplicação da multa prevista no art. 1.026, § 2º, do CPC/2015, quando as questões tratadas foram devidamente fundamentadas na decisão embargada e ficou evidenciado o caráter manifestamente protelatório dos embargos de declaração" (AgInt no REsp 1.795.960/PR, Relator Ministro LUIS FELIPE SALOMÃO, DJe 4/10/2021).
+No mesmo sentido:
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZATÓRIA. PLANO DE SAÚDE. DANO MORAL NÃO CONFIGURADO. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA NOS MOLDES LEGAIS. FUNDAMENTAÇÃO DEFICIENTE. NÃO INDICAÇÃO DE DISPOSITIVOS DE LEI FEDERAL. INCIDÊNCIA DA SÚMULA Nº 284 DO STF, POR ANALOGIA. VÍCIOS DO ACÓRDÃO EMBARGADO. INEXISTÊNCIA. CONTRADIÇÃO EXTERNA QUE NÃO AUTORIZA A OPOSIÇÃO DOS EMBARGOS. RECURSO PROTELATÓRIO. APLICAÇÃO DE MULTA. ART. 1.026, § 2º, DO NCPC. INTEGRATIVO REJEITADO.
+1. O presente recurso foi interposto contra acórdão publicado na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. O acórdão embargado não contém contradição, tampouco foi omisso e, com clareza e coerência, concluiu fundamentadamente que o dissídio jurisprudencial não foi demonstrado nos termos exigidos pela legislação e pelas normas regimentais, porque não foi sequer indicado nas razões recursais o dispositivo infraconstitucional tido por violado ou que teria sido objeto de divergência, exigência essa que deve ser cumprida tanto para o recurso especial interposto com base na alínea a quanto para o manejado com fulcro na alínea c do permissivo constitucional, sendo, portanto, imperiosa a incidência da Súmula nº 284 do STF.
+3. Inexistentes as hipóteses do art. 1.022 do NCPC, não merecem acolhida os embargos de declaração, que têm nítido caráter infringente.
+4. A contradição que autoriza os aclaratórios é a inerente ao próprio acórdão.
+5. Os embargos de declaração não se prestam à manifestação de inconformismo ou à rediscussão do julgado.
+6. Diante da manifesta improcedência dos embargos, que buscaram, tão somente, o reexame dos argumentos anteriormente formulados e devidamente analisados por esta eg. Terceira Turma, está caraterizado o caráter manifestamente procrastinatório do recurso integrativo, razão pela qual se aplica ao embargante a multa do art. 1.026, § 2º, do NCPC, fixada em 2% sobre o valor atualizado da causa.
+7. Embargos de declaração rejeitados, com aplicação de multa" (EDcl no AgInt no REsp 1927096/SE, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 22/06/2021, DJe 25/06/2021).
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e negar-lhe provimento.
+Deixo de fixar honorários recursais, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, tendo em vista que não foram arbitrados na origem.
+Publique-se.
+Intimem-se.
