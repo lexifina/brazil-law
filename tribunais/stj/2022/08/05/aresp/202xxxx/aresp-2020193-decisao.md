@@ -1,0 +1,57 @@
+DECISÃO
+Trata-se de agravo interposto por ELIANA LESSA DA SILVA,contra a decisão que inadmitiu o recurso especial. O apelo extremo fundamentado no art. 105, inciso III, alínea"a", da Constituição Federal desafia o acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro assim ementado:
+"APELAÇÃO CÍVEL. AÇÃO DE REINTEGRAÇÃO DE POSSE. COMODATO GRATUITO. TAXA DE OCUPAÇÃO. TERMO INICIAL. RECONVENÇÃO. DESPESAS INERENTES AO IMÓVEL. CUSTEIO. ART. 184 DO CÓDIGO CIVIL. 1) Na hipótese de comodato por prazo indeterminado, a retomada do bem pelo comodante reclama a prévia notificação do comodatário, com a estipulação de prazo razoável para a restituição, cuja inobservância enseja a caracterização do esbulho. 2) Sucede que, na vertente espécie, a notificação extrajudicial da parte ré para desocupação do imóvel no prazo de trinta dias, datada de 07 de janeiro de 2010, encontra -se desacompanhada do comprovante de sua respectiva entrega, sem o que não se pode compreender pela sua efetivação. 3) Nesse contexto, deve prevalecer como termo inicial para o cômputo do prazo de trinta dias para desocupação voluntária a data da citação da ré para responder à presente ação judicial, ocorrida em 27/04/2012, a partir da qual se considera a comodatária notificada, merecendo, neste aspecto, acolhimento o recurso. 4) Descabe à ré pretender recobrar do Espólio autor os valores despendidos com o pagamento pelo consumo de serviços prestados ao imóvel ao longo do período da sua ocupação, tais como água, luz e impostos, mesmo a despeito do teor da clausula segunda do contrato de comodato firmado nos idos de 1995, através da qual a inventarianda, à época, havia assumido a responsabilidade por tal custeio, vez que o caráter gratuito do contrato constitui óbice à pretensão de ressarcimento das despesas feitas com o uso e o gozo da coisa emprestada, ex vi do disposto no art. 584 do Código Civil. 5) Recurso ao qual se dá parcial provimento"(fl. 302, e-STJ).
+Os embargos de declaração opostos foram rejeitados.
+No especial, a recorrente apontaviolação dos arts. 489, § 1º, II, do Código de Processo Civil de 2015, aduzindo a nulidade do acórdão proferido em embargos declaratórios por negativa de prestação jurisdicional, pois o Tribunal de origem deixou de se manifestar acerca de aspectos relevantes da demanda suscitados na petição recursal.
+Alega ainda,ofensa aos arts. 305,421 e 584, do Código Civil de 2002, defendendo a possibilidade de ressarcimento dos valores despendidos com o pagamento de serviços de água e luz do imovel. Afirmaque ocontrato previu de forma expressa a responsabilidade da comodante pelo pagamento dessesserviços.
+Ressalta que"o contrato faz lei entre as partes, não podendo estas se eximirem do que haja pactuado".Aduz que,"princípio da pacta sunt servanda obriga os contratantes a se submeterem e cumprirem com o que acordaram"(fl. 341, e-STJ).
+Postula ao final, a reforma do acórdão impugnado para condenar o recorrido a restituir à recorrente os valores pretendidos.
+Com as contrarrazões e inadmitido o recurso na origem, sobreveio o presente agravo, no qual se busca o processamento do apelo nobre.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+No que toca à alegada negativa de prestação jurisdicional - violação do artigo 1.022 do CPC de 2015 -, agiu corretamente o Tribunal de origem ao rejeitar os embargos declaratórios por inexistir omissão, contradição, obscuridade ou erro material no acórdão embargado, ficando patente, em verdade, o intuito infringente da irresignação, que objetivava a reforma do julgado por via inadequada.
+A propósito:
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE E ERRO MATERIAL NÃO VERIFICADOS. CONTRATO DE COMPRA E VENDA. PRESCRIÇÃO. CADEIA DE PRESTADORES DE SERVIÇOS. CORRÉS. RESPONSABILIDADE SOLIDÁRIA. MATÉRIA DE FATO. INADIMPLEMENTO. CONTRATO. RESOLUÇÃO. VALORES. RESTITUIÇÃO. COMISSÃO DE CORRETAGEM. SÚMULAS NºS 5 E 7/STJ. DANOS MORAIS. OCORRÊNCIA. REVISÃO. SÚMULA Nº 7/STJ. ART. 1.022 DO CPC/2015. OMISSÕES. AUSÊNCIA.
+1. Ausentes quaisquer dos vícios ensejadores dos aclaratórios, afigura-se patente o intuito infringente da presente irresignação, que objetiva não suprimir a omissão, afastar a obscuridade, eliminar a contradição ou corrigir o erro material, mas, sim, reformar o julgado por via inadequada.
+2. (..)
+3. (..)
+4. (..)
+5. Na espécie, cabível a restituição integral das parcelas pagas, incluindo a comissão de corretagem.
+6. Na hipótese, rever a conclusão do tribunal de origem, para afastar a ocorrência dos danos morais a partir da tese de que teria havido mero inadimplemento contratual, exigiria o reexame de matéria fática, procedimento inviável em recurso especial em virtude das disposições da Súmula nº 7/STJ.
+7. Embargos de declaração rejeitados" (EDcl no AgInt no REsp 1.853.761/ SP, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCERIA TURMA, Seção, julgado em 22/11/2021, DJe de 30/11/2021).
+Registra-se que, mesmo à luz do novel art. 489 do CPC de 2015, o órgão julgador não estaria obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pelas partes, mas apenas sobre aqueles capazes de, em tese, de algum modo, infirmar a conclusão adotada pelo órgão julgador (inciso IV).
+A motivação contrária ao interesse da parte ou mesmo omissa em relação a pontos considerados irrelevantes pelo julgador não autoriza o acolhimento dos embargos declaratórios.
+Por outro lado, o acórdão afastou a pretensão da recorrente de ressarcimento das despesasde água e energia elétrica, amparado na seguinte fundamentação:
+"(..). descabe à ré pretender recobrar do Espólio autor os valores despendidos com o pagamento pelo consumo de serviços prestados ao imóvel ao longo do período da sua ocupação, tais como água, luz e impostos, mesmo a despeito do teor da clausula segunda do contrato de comodato firmado nos idos de 1995, através da qual a inventarianda, à época, havia assumido a responsabilidade por tal custeio.
+(..)
+Ao que se percebe, a falecida comodante, por cortesia, pretendeu amparar a comodatária, cedendo-lhe o imóvel em comodato e assumindo à época o compromisso de arcar com as despesas inerentes ao imóvel .
+Contudo, o caráter gratuito do contrato constitui óbice à pretensão da comodatária de se ressarcir das despesas feitas com o uso e o gozo da coisa emprestada, ex vi do disposto no art. 584 do Código Civil:
+Art. 584. O comodatário não poderá jamais recobrar do comodante as despesas feitas com o uso e gozo da coisa emprestada.
+Com efeito, repugna ao Direito, sobretudo sob a ótica do principio que veda o enriquecimento sem causa, a pretensão do comodatário, o qual já usufrui graciosamente de um bem, de exigir do comodante o custeio das despesas de sua utilização, ainda que este, por um ato de liberalidade, tenha assumido tal compromisso no momento da celebração do pacto, nos idos de 1995" (fls. 310-311, e-STJ).
+Todavia, nota-se que os recorrentes não rebateram de forma adequada, a todos os fundamentos do acórdão estadual como seria de rigor. Ou seja, conforme disposição do art. 584 do CC/2002, "o caráter gratuito do contrato constitui óbice à pretensão da comodatária de se ressarcir das despesas feitas com o uso e o gozo da coisa emprestada".
+Assim, havendo fundamento suficiente no julgado que não foi objeto de impugnação pelos recorrentes, aplica-se, no ponto, o óbice da Súmula nº 283/STF, por analogia: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Nesse sentido:
+"CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO CUMULADA COM REPETIÇÃO DE INDÉBITO E DANO MORAIS. CONTRATO DE EMPRÉSTIMO CONSIGNADO COM DESCONTO EM BENEFÍCIO PREVIDENCIÁRIO. QUANTUM INDENIZATÓRIO. ENRIQUECIMENTO ILÍCITO. FUNDAMENTO NÃO IMPUGNADO. SÚMULA Nº 283 DO STF, POR ANALOGIA. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. O recurso especial que não impugna fundamento do acórdão recorrido sufi ciente para mantê-lo não deve ser admitido, a teor da Súmula nº 283 do STF. Precedentes.
+3. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+4. Agravo interno não provido" (AgInt no AREsp 1.701.796/MS, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 23/11/2020, DJe 27/11/2020).
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. DANOS MORAIS. AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283 DO STF. FALHA NA PRESTAÇÃO DE SERVIÇO DE DESPACHANTE. DISPONIBILIZAÇÃO DO PRODUTO PELO FABRICANTE. DANO SOFRIDO PELO CONSUMIDOR. AUSÊNCIA DE NEXO DE CAUSALIDADE. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA.
+1. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF.
+(..)
+3. Agravo interno a que se nega provimento" (AgInt no REsp 1.528.136/RR, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 16/11/2020, DJe 20/11/2020).
+Além disso, as conclusões da Corte de origem acerca do mérito da demanda decorreram inquestionavelmente da análise das cláusulas contratuais e do conjunto fático-probatório carreado aos autos. Rever os fundamentos do acórdão recorrido mosra-se inviável ante a natureza excepcional da via eleita, a teor dos enunciados das Súmulas nºs 5 e 7/STJ.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. DOAÇÃO. REINTEGRAÇÃO DE POSSE. FUNDAMENTOS DO ACÓRDÃO RECORRIDO. NÃO IMPUGNAÇÃO. SÚMULA Nº 283/STF. REEXAME. CONJUNTO FÁTICO-PROBATÓRIO E CLÁUSULAS CONTRATUAIS. SÚMULAS NºS 5 E 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A ausência de impugnação de um fundamento suficiente do acórdão recorrido enseja o não conhecimento do recurso, incidindo a Súmula nº 283/STF.
+3. Acolher a tese pleiteada pela agravante exigiria exceder os fundamentos do acórdão impugnado e adentrar no exame das provas e cláusulas contratuais, procedimentos vedados em recurso especial, a teor das Súmulas nºs 5 e 7/STJ.
+4. Agravo interno não provido"
+(AgInt no AREsp 1.509.609/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 28/10/2019, DJe 7/11/2019).
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Deixa-se de majorar os honorários sucumbenciais, nos termos do artigo 85, § 11, do CPC/2015, tendo em vista que não foram arbitrados na origem.
+Publique-se.
+Intimem-se.
