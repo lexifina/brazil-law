@@ -1,0 +1,6 @@
+DECISÃO
+ABR TRANSPORTES EIRELIajuízareclamação contra acórdão proferido pela 4ª Câmara de Direito Criminal do Tribunal de Justiça do Estado de São Paulo, que negou provimento ao agravo regimental interposto e, com isso, manteve onão recebimento do recurso de apelação, proposto em autos de pedido de restituição de bem apreendido.
+Entretanto, areclamação, de previsão constitucional (art. 105, I, "f", CF), é o instrumento hábil para preservar a competência ou garantir a autoridade das decisões proferidas por esta Corte.Não se destina, nessa perspectiva, a impugnar, como se recurso fosse (sucedâneo recursal), eventual decisão que manteve o não recebimento de recurso de apelação, por mais discutível que seja.
+De fato, conforme pacífica orientação desta Corte, "éabsolutamente descabida a utilização da reclamação como sucedâneo recursal, como na hipótese em que visa atacar acórdão proferido pelo Tribunal de origem em sede de execução, impugnável por de recursos especial e extraordinário (Edcl na Rcl n. 6.885/DF, Rel. Ministra Laurita Vaz, DJe 21/11/2011).
+À vista do exposto, com fundamento no art. 34, XVIII, "a", do RISTJ, não conheço,in limine, desta reclamação, porquanto incabível na hipótese.
+Publique-se e intimem-se.
