@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso extraordinário interposto por INSTITUTO NACIONAL DO SEGURO SOCIAL, com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão deste Superior Tribunal de Justiça, assim ementado (fl. 658):
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. APOSENTADORIA ESPECIAL DO SEGURADO CONTRIBUINTE INDIVIDUAL. CABIMENTO. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+2. A jurisprudência do Superior Tribunal de Justiça tem admitido o reconhecimento da especialidade de atividade exercida pelo segurado contribuinte individual, bem como da concessão de aposentadoria especial.
+3. Agravo interno não provido.
+Sustenta o recorrente a existência de repercussão geral da matéria debatida, bem como a ocorrência de afronta ao art. 195, caput e § 5º, da Constituição Federal, ao argumento de que o acórdão impugnado teria admitido a contagem de tempo de serviço diferenciada (tempo especial) a segurado que não prestou a respectiva contribuição, concedendo benefício previdenciário, sem prévia fonte de custeio, de modo a incorrer em afronta ao princípio da contrapartida.
+Pondera que esta Corte, aose pronunciarno sentido de estender o direito a determinado benefício previdenciário para contribuintes individuais, afastando o requisito do pagamento de contribuição, por suposta aplicação do princípio da solidariedade, teria violado expressamente o disposto no art. 195, § 5º, da Constituição Federal(regra da contrapartida), desrespeitando o preceito constitucional de que nenhum benefício ou serviço da seguridade social poderá ser criado, majorado ou estendido sem a correspondente fonte de custeio total.
+Requer, ao final, a admissão do recurso e sua remessa ao Supremo Tribunal Federal.
+Não foram apresentadas as contrarrazões (fl. 688).
+O recurso não foi admitido, em 20.8.2021 (fls. 690/692)e, interposto agravo em recurso extraordinário, os autos foram remetidos ao Supremo Tribunal Federal, em 9.12.2021 (fl. 719).
+A Suprema Corte proferiu decisão determinando o retorno dos autos a esteSodalício, para fins de aplicação do art. 1.030, I a III, do Código de Processo Civil, em razão do decidido no Tema 852/STF.
+É o relatório.
+Em atenção à determinaçãodo Supremo Tribunal Federal, realiza-senovo juízo de admissibilidade deste apelo extremo.
+O Supremo Tribunal Federal, ao julgar o ARE n. 906.569,sob a sistemática da repercussão geral, firmou o entendimento de que "aquestão da validade do reconhecimento judicial de trabalho em condições especiais, pela efetiva exposição aos agentes nocivos à saúde ou integridade física, para fins de concessão ou revisão de aposentadoria especial ou para converter tempo de serviço, nos termos dos arts. 57 e 58 da Lei n. 8.213/1991, tem natureza infraconstitucional, e a ela se atribuem os efeitos da ausência de repercussão geral, nos termos do precedente fixado no RE n. 584.608, rel. a Ministra Ellen Gracie, DJe 13/03/2009".
+Confira-se, por oportuno, a ementa do julgado em questão:
+RECURSO EXTRAORDINÁRIO COM REPERCUSSÃO GERAL. DIREITO PREVIDENCIÁRIO. APOSENTADORIA ESPECIAL. CONVERSÃO DO TEMPO DE SERVIÇO. CARACTERIZAÇÃO DA ESPECIALIDADE DO LABOR. ARTIGOS 57 E 58 DA LEI 8.213/91.
+1. A avaliação judicial de critérios para a caracterização da especialidade do labor, para fins de reconhecimento de aposentadoria especial ou de conversão de tempo de serviço, conforme previsão dos artigos 57 e 58 da Lei 8.213/91, é controvérsia que não apresenta repercussão geral, o que inviabiliza o processamento do recurso extraordinário, nos termos do art. 543-A, §5º, do Código de Processo Civil.
+2. O juízo acerca da especialidade do labor depende necessariamente da análise fático-probatória, em concreto, de diversos fatores, tais como o reconhecimento de atividades e agentes nocivos à saúde ou à integridade física do segurado; a comprovação de efetiva exposição aos referidos agentes e atividades; apreciação jurisdicional de laudos periciais e demais elementos probatórios; e a permanência, não ocasional nem intermitente, do exercício de trabalho em condições especiais. Logo, eventual divergência ao entendimento adotado pelo Tribunal de origem, em relação à caracterização da especialidade do trabalho, demandaria o reexame de fatos e provas e o da legislação infraconstitucional aplicável à espécie.
+INEXISTÊNCIA DE REPERCUSSÃO GERAL.
+(ARE 906569 RG, Relator(a): EDSON FACHIN, Tribunal Pleno, julgado em 17/09/2015, PROCESSO ELETRÔNICO DJe-192 DIVULG 24-09-2015 PUBLIC 25-09-2015)
+No caso dos autos, o acórdão impugnado destacou que "a jurisprudência do Superior Tribunal de Justiça tem admitido a possibilidade do reconhecimento da especialidade de atividade exercida pelo segurado contribuinte individual, bem como da concessão de aposentadoria especial" (e-STJ fl. 661), razão pela qual incide o Tema852/STF.
+Ante o exposto, com fundamento no art. 1.030, I, a,do Código de Processo Civil, nega-se seguimento ao recurso extraordinário.
+Publique-se.
+Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO.DIREITO PREVIDENCIÁRIO. SEGURADO CONTRIBUINTE INDIVIDUAL.APOSENTADORIA ESPECIAL. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL.TEMA 852/STF. SEGUIMENTO NEGADO.
