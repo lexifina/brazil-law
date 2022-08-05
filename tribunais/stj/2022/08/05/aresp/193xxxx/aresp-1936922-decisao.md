@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por PIVOT EQUIPAMENTOS AGRÍCOLAS E IRRIGAÇÃO LTDA.contra decisão que negou seguimento ao seu apelo nobre manejado, por sua vez, contra acórdão do Tribunal de Justiça deSãoPaulo, de relatoria do Desembargador THIAGO DE SIQUEIRA, assim ementado:
+Ação de rescisão contratual, cumulada com restituição de valores - Consórcio Contrato não cumprido pela administradora, cuja liquidação extrajudicial veio a ser decretada Ação visando a rescisão contratual e a restituição das parcelas pagas Procedência Ação que também deve ser julgada procedente com relação à corré Pivot, que comercializou o plano de consórcio ao demandante - Responsabilidade solidária pelos danos causados ao adquirente da cota, de acordo com as regras do artigo 7º, parágrafo único, do CDC Dedução da taxa de administração, fundo comum do grupo, multa, juros e seguro de vida Inadmissibilidade desta dedução, face ao inadimplemento da administradora, não se cuidando aqui de restituição postulada por consorciado desistente ou excluído do grupo Afastamento dos juros de mora em razão da liquidação extrajudicial Descabimento Norma legal que, tão somente, condiciona a sua quitação à existência de ativo suficiente para pagamento do passivo Recurso do autor provido em parte e improvido o da corré Agraben.
+Os embargos declaratórios opostos pela ora recorrida foram rejeitados, conforme ementa a seguir transcrita:
+Embargos de declaração  Acórdão  Omissão e contradição  Prequestionamento - Efeito infringente - Limites traçados pelo art. 1.022 do novo CPC não observados  Caráter infringente evidenciado  Ocorrência de omissão configurada unicamente em relação ao arbitramento de honorários recursais ao patrono do autor  Pretensão de majoração  Admissibilidade  Art. 85, § 11 do novo CPC  Embargos do autor acolhidos em parte para tanto e rejeitados os embargos opostos pela corre Pivot Equipamentos Agrícolas e Irrigação Ltda.
+Irresignado, PIVOT EQUIPAMENTOS AGRÍCOLAS E IRRIGAÇÃO LTDA. interpôsrecurso especial com base no art. 105, III,a, da CF, apontando violação dos arts. 186 e 927 do CC, 10 e 26 da Lei nº 11.795/08 e 489 e 1.022 do CPC, sob o argumento de omissão por parte do acórdão recorrido, que não se pronunciou acerca da hipótese de não aplicação do CDCno presente caso, tendo em vista o recorrido ser produtor rural e, nessa condição, teriaadquirido oconsórcio para compra de insumo para utilização na atividade econômica e ausência de conduta ilícita decorrente da inexistência de responsabilidade solidária.
+O recurso não foi admitido pelo Tribunal de Justiça de São Paulo, por considerar não configuradas omissão e negativa de prestação jurisdicional e por incidir, no caso, o teor da Súmula nº 7do STJ(e-STJ, fls. 477/480).
+Nas razões do presente agravo, PIVOT EQUIPAMENTOS AGRÍCOLAS E IRRIGAÇÃO LTDA.refutaos referidos óbices de prelibação (e-STJ, fls. 483/495).
+Foiapresentada contraminuta (e-STJ, fls. 501/515).
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial, que merece trânsito pela alegada omissão e negativa de prestação jurisdicional, ficando a análise de outras questões, por hora, prejudicada.
+Vejamos:
+Da omissão e negativa de prestação jurisdicional
+No presente recurso, PIVOT EQUIPAMENTOS AGRÍCOLAS E IRRIGAÇÃO LTDA.alegou a violação dos arts. 489 e 1.022do NCPC em virtude da omissão por parte do acórdão recorrido, que não se pronunciou acerca da hipótese de não aplicação do CDCno presente caso, tendo em vista o recorrido ser produtor rural e, nessa condição, teria adquirido o consórcio para compra de insumo para utilização na atividade econômica.
+O Tribunal estadual, por sua vez, instado a se manifestar por meio de embargos declaratórios sobre o temaproposto, apenas se limitou a consignar que:
+Ressalta-se que, ao contrário do que afirma a embargante Pivot, a relação estabelecida entre as partes é de consumo, consoante explicitado no § 2º do art. 3º do CDC (Serviço é qualquer atividade fornecida no mercado de consumo, mediante remuneração, inclusive as de natureza bancária, financeira, de crédito e securitária, salvo as decorrentes das relações de caráter trabalhista) e no § 2º do art. 53 do mesmo Código (Nos contratos do sistema de consórcio de produtos duráveis, a compensação ou a restituição das parcelas quitadas, na forma deste artigo, terá descontada, além da vantagem econômica auferida com a fruição, os prejuízos que o desistente ou inadimplente causar ao grupo) (e-STJ, fl. 448).
+Conforme se pode constatar, o TJSP não se manifestou quanto à alegada inaplicabilidade do CDC em razão do art. 2º daquele diploma legal, que trata da definição de consumidor.
+Cumpria-lhe, com efeito, examinar se CDC seria aplicável à hipótese diante da alegação de que MARTILHO ROBERTO MINETTO era produtor rural e celebrou o contrato de consórcio com o objetivo de incrementar sua atividade econômica.
+É condição sine qua non ao conhecimento do recurso especial que a questão de direito ventilada nas suas razõestenha sido analisada pelo acórdão objurgado.
+Assim, recusando-se a se manifestar sobre a questão federal, terminou por negar prestação jurisdicional.
+A propósito, veja-se o precedente abaixo:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. IMPUGNAÇÃO AO VALOR DA CAUSA. EMBARGOS DE DECLARAÇÃO. VIOLAÇÃO DO ART. 535 DO CPC/73. CONFIGURADA. RECURSO PROVIDO. RETORNO DOS AUTOS À ORIGEM. NOVO JULGAMENTO.
+1. Impugnação ao valor da causa.
+2. A existência de omissão relevante à solução da controvérsia, não sanada pelo acórdão recorrido, caracteriza violação do art. 535 do CPC/73.
+3. Agravo interno no recurso especial não provido.
+(AgInt nos EDcl nos EDcl no REsp n. 1.401.737/RJ, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 1º/4/2019, DJe de 3/4/2019)
+É medida de rigor, portanto, o retorno dos autos à instância ordinária para que sane o referido vício.
+E, conforme dito alhures, ficaprejudicada a análise das demais violações apontadas.
+Nessas condições, com fundamento no art. 1.042, § 5º, do NCPC, c/c o art. 253 do RISTJ (com a nova redação que lhe foi dada pela Emenda nº 22 de 16/3/2016, DJe 18/3/2016), DOU PARCIAL PROVIMENTO ao recurso especial determinando o retorno dos autos ao TJSP para que renove o julgamento dosembargos de declaração, com suprimento da omissão destacada.
+Publique-se. Intimem-se
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO INTERPOSTO SOB A ÉGIDE DO NCPC. RESCISÃO CONTRATUAL. CONSÓRCIO. SOLIDARIEDADE. RECONHECIMENTO. IRRESIGNAÇÃO. CDC. NÃO APLICAÇÃO. DESTINATÁRIO FINAL. CONTROVÉRSIA NÃO DIRIMIDA. OMISSÃO E NEGATIVA DE PRESTAÇÃO JURISDICIONAL. CONFIGURAÇÃO. AGRAVO CONHECIDO. RECURSO ESPECIAL PROVIDO.
