@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado pela Defensoria Pública estadual em favor de ANDERSON DA SILVA SARAFIM contra v. acórdão proferido pelo eg. Tribunal de Justiça do Estado de São Paulo, nos autos da apelação criminal n. 1501265-89.2022.8.26.0228.
+Depreende-se dos autos que o paciente foi condenado, em primeira instância, às penas de 01 (um) ano e 06 (seis) meses de reclusão, em regime inicial semiaberto, mais o pagamento de 07 (sete) dias-multa, como incurso nas iras do art. 155, § § 1º e 4º, II, do Código Penal (fls. 15-21).
+Inconformada, a defesa interpôs apelação perante o eg. Tribunal de origem, que, por unanimidade, negou provimento ao recurso, mas, de ofício, determinou a correção da imputação penal - art. 155, §§ 1º e 4º, inciso II, c/c art. 14, II, ambos do Código Penal, consoante voto condutor do v. acórdão de fls. 22-38.
+Daí o presente writ, no qual a defesa alega, em síntese, a ocorrência de constrangimento ilegal, pois inexiste laudo pericial a confirmar a incidência da qualificadora relativa à escalada.
+Argumenta que "restou incontroverso que não havia qualquer obstáculo para a requisição do exame pericial, posto que os vestígios em nenhum momento desapareceram e esta providência foi solicitada pela autoridade policial" (fl. 6).
+Defende que a causa de aumento de pena relativa ao repouso noturno só é aplicável em casa habitada, cujos habitantes estejam dormindo.
+Afirma que a referida majorante não é aplicada ao furto qualificado.
+Requer, assim, a concessão da ordem.
+A liminar foi indeferida (fls. 42-43).
+Informações prestadas às fls. 47-73.
+O Ministério Público Federal, às fls. 77-82, manifestou-se pelo não conhecimento do writ e, subsidiariamente, pela concessão da ordem, em parecer assim ementado:
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSOESPECIAL. NÃO CABIMENTO. FURTO QUALIFICADO. ESCALADA. INEXISTÊNCIA DE SITUAÇÃO EXCEPCIONAL QUE DISPENSASSE A CONFECÇÃO DO LAUDO PERICIAL. QUALIFICADORA AFASTADA. AUMENTO DE PENA DECORRENTE DO REPOUSO NOTURNO. CABIMENTO. PERÍODO DE MAIOR VULNERABILIDADE. ILEGALIDADE EVIDENCIADA.
+1. O não cabimento de habeas corpus substitutivo de recurso especial se apoia na ausência de competência originária do Superior Tribunal de Justiça para processar e julgar o writ, e, em decorrência da ausência de competência, revela a impossibilidade jurídica de conceder, de ofício, a ordem indicada.
+2. Na hipótese, não foi apresentada qualquer justificativa para a ausência de elaboração do exame pericial, tendo as instâncias anteriores reconhecido a qualificadora da escalada tão somente com apoio na prova oral e na confissão do réu, nada mencionando acerca da existência de situação excepcional que dispensasse a confecção do laudo pericial, o que não é admitido pela jurisprudência dessa Corte Superior.
+3. Ainda, segundo a jurisprudência dessa Corte Superior, " o repouso noturno não é aplicado apenas em residência, quando a vítima estaria efetivamente repousando. Para a incidência da causa especial de aumento de pena é suficiente que a infração ocorra durante o repouso noturno, período de maior vulnerabilidade para as residências, lojas e veículos" (AgRgno HC n. 549.703/MS, Relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 26/5/2020, DJe de 4/6/2020).
+4. Parecer pelo não conhecimento do habeas corpus e pelo reconhecimento de ilegalidade, nos termos da fundamentação." (fls. 77-78).
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+Dessarte, passo ao exame das razões veiculadas no mandamus.
+Conforme relatado, busca-se na presente impetração o afastamento da qualificadora e da causa de aumento de pena relativa ao repouso noturno.
+Transcrevo, a fim de delimitar a quaestio, os seguintes trechos do v. acórdão impugnado:
+"Interrogado em juízo, o réu Anderson admitiu a prática delituosa. Realmente tentou subtrair os bens narrados. Encontrava-se há dois dias usando drogas. Subiu no imóvel pelo poste e muro da casa. A janela estava aberta. Assim que entrou, separou alguns objetos. Logo na sequência os policiais chegaram. Não tentou fugir. Estava sob o efeito de drogas. Está arrependido. Já cumpriu pena. Encontrava em situação de rua (mídia fls. 160).
+ ..
+Bem demonstrada, ainda, a qualificadora da escalada, o que se denota da prova oral amealhada aos autos. Em razão de todos esses elementos, entendo que a conduta do acusado se amolda perfeitamente ao tipo previsto no artigo155, § 4º, inciso II, do Código Penal.
+E não há que se falar no afastamento da referida qualificadora sob o argumento de que não houve prova pericial acerca da altura e de eventual dificuldade de superação das paredes da residência da vítima, ou de que inexistiu testemunha presencial.
+Isso porque, no presente no caso, a segura prova oral colhida, inclusive, com a confissão do acusado, demonstrou, de forma inconteste, que o furto foi cometido mediante escalada.
+ ..
+No mais, considerando que o delito de furto foi cometido durante o repouso noturno, a causa de aumento de pena prevista no §1º,do art. 155 do Código Penal foi bem reconhecida.
+Destaco, apesar do inconformismo da Defesa, ser plenamente possível a incidência da referida majorante quando o delito é praticado contra estabelecimentos comerciais ou em local desabitado, ou mesmo na forma qualificada do delito" (fls. 26-33).
+Assinale-se que, "consoante orientação jurisprudencial desta Corte, o reconhecimento da qualificadora da escalada, prevista no art. 155, § 4º, II, do Código Penal, exige a realização de exame pericial, o qual somente pode ser substituído por outros meios probatórios quando inexistirem vestígios, o corpo de delito houver desaparecido ou as circunstâncias do crime não permitirem a confecção do laudo.  ..  Não tendo sido mencionada nenhuma das situações que dispensam a confecção do laudo pericial, a qualificadora da escalada deve ser afastada" (HC n. 557.197/MS, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 27/2/2020).
+Na hipótese em foco, não há menção no aresto impugnado dos motivos pelo qual o laudo pericial não fora realizado.
+No mais, o Superior Tribunal de Justiça, no âmbito de recurso repetitivo, definiu que "o repouso noturno compreende o período em que a população se recolhe para descansar, devendo o julgador atentar-se às características do caso concreto.  ..  A situação de repouso está configurada quando presente a condição de sossego/tranquilidade do período da noite, caso em que, em razão da diminuição ou precariedade de vigilância dos bens, ou, ainda, da menor capacidade de resistência da vítima, facilita-se a concretização do crime.  ..  São irrelevantes os fatos das vítimas estarem, ou não, dormindo no momento do crime, ou o local de sua ocorrência, em estabelecimento comercial, via pública, residência desabitada ou em veículos, bastando que o furto ocorra, obrigatoriamente, à noite e em situação de repouso" (REsp n. 1.979.989/RS, Terceira Seção, Rel. Min. Joel Ilan Paciornik, REPDJe de 30/06/2022, DJe de 27/6/2022).
+Portanto, não há se falar em ilegalidade nesse ponto.
+Nesse contexto, mantidos os critérios dosimétricos empregados pelas instâncias ordinárias, passo ao recálculo da pena.
+1ª Fase: exaspero a reprimenda em 1/6 (um sexto), de modo a elevar a sanção para 01 (um) ano e 02 (dois) meses de reclusão, mais o pagamento de 11 (onze) dias-multa.
+2ª Etapa: promovo a compensação da agravante da reincidência com a atenuante da confissão espontânea.
+3º Estágio: majoro a pena em 1/3 (um terço), haja vista a causa de aumento relativa ao repouso noturno, razão pela qual a sanção atinge 01 (um) ano, 06 (seis) meses e 20 (vinte) dias de reclusão, mais o pagamento de 14 (quatorze) dias-multa; diminuo a reprimenda em pela metade, em face da tentativa, motivo pelo qual a pena perfaz o total de 09 (nove) meses e 10 (dez) dias de reclusão, mais o pagamento de 07 (sete) dias-multa.
+Ante o exposto, não conheço do habeas corpus.
+Contudo, concedo a ordem de ofício, a fim de, tão somente, redimensionar a pena do paciente em 09 (nove) meses e 10 (dez) dias de reclusão, mais o pagamento de 07 (sete) dias-multa, mantidos os demais termos da condenação.
+P. e I.
