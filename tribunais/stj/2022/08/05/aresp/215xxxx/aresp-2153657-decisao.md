@@ -1,0 +1,20 @@
+DECISÃO
+ADMINISTRATIVO E CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. RECUSA DE REGISTRO DE DIPLOMA. NEGATIVA DE SEGUIMENTO DO RECURSO COM BASE NO TEMA 928/STJ. ANÁLISE DO SUPOSTO VÍNCULO LABORAL. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO CONHECIDO. RECURSO PARCIALMENTE CONHECIDO PARA NEGAR-LHE PROVIMENTO.
+1. Agrava-se de decisão que inadmitiu e negou seguimento ao recurso especial interposto por CENTRO PASTORAL EDUCACIONAL E ASSISTÊNCIA DOM CARLOS contra acórdão proferido pelo Tribunal Regional Federal da4ª Região, assim ementado:
+ADMINISTRATIVO E CIVIL. RESPONSABILIDADE CIVIL. VIZIVALI. RECUSA DE REGISTRO DE DIPLOMA. INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. RECURSOS REPETITIVOS. TESES FIRMADAS.
+1- Conforme REsp 1.487.139/PR e REsp 1.498.719/PR, julgados soba sistemática dos recursos repetitivos, nos casos em que a parte autora for estagiária, não cabe a condenação da União e do Estado do Paraná. Assim, a condenação pelos danos sofridos pela parte autora deve recair sobre Faculdade VIZIVALI.
+2- Apelação da Faculdade VIZIVALI provida em parte, para que a incidência dos juros de mora seja a partir da citação.
+2. Opostos embargos de declaração, foram eles rejeitados.
+3. Nas razões do apelo nobre, a parte ora agravante alega ofensa aos arts.1.022, III, do CPC/2015 e876 e 884 do Código Civil, sustentando, preliminarmente, omissão do julgado recorrido, não obstante a oposição dos aclaratórios, e, no mérito, a legitimidade passiva da IESDE Brasil S.A.
+4. Em juízo prévio de admissibilidade, a Corte de origem negou seguimento ao recurso com esteio no Tema 928/STJ e o inadmitiu em relação ao reconhecimento do vínculo laboral com fundamento na Súmula 7/STJ.
+5. É o relatório.
+6. Inicialmente, é importante ressaltar que o presente recurso atrai a incidência do Enunciado Administrativo 3 do STJ, segundo o qual aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+7.De início, registre-se que somente o tema relativo à natureza do vínculo laboral pode ser objeto de conhecimento, uma vez que, quanto aos demais temas, ao recurso especial foi negado seguimento, no Tribunal de origem, na sistemática dos recursos repetitivos.
+8. Inexiste a alegada violação do art. 1.022 do CPC/2015, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, conforme se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de nenhum erro, omissão, contradição ou obscuridade. Observe-se, ademais, que julgamento diverso do pretendido, como na espécie, não implica ofensa ao dispositivo de lei invocado.
+9. No mais,o Tribunal de origem, com base no exame dos elementos fáticos dos autos, consignou o seguinte:
+Consoante a declaração constante no evento evento 1 (OUT31, fl.752), a parte autora era estagiária.
+Assim, na linha do acima exposto, a condenação ao pagamento de indenização pelos danos morais e materiais sofridos pela parte autora deve recair apenas sobre a Faculdade VIZIVALI (fls. 1.342).
+10.Nesse contexto, considerando a fundamentação do acórdão objeto do recurso especial, os argumentos utilizados pela parte recorrente somente poderiam ter sua procedência verificada mediante o necessário reexame de matéria fática, não cabendo a esta Corte, a fim de alcançar conclusão diversa, reavaliar o conjunto probatório dos autos, em conformidade com a Súmula 7/STJ.
+11. Ante o exposto, conheço do agravo para, conhecendo em parte do recurso especial, negar-lhe provimento.
+12. Por fim, caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+13. Publique-se. Intimações necessárias.
