@@ -1,0 +1,15 @@
+DECISÃO
+Vistos.
+Trata-se de Conflito Negativo de Competência instaurado entre oJUÍZO DA 11A VARA DO TRABALHO DE BELO HORIZONTE - MG e oJUÍZO FEDERAL DA 15A VARA CÍVEL DE BELO HORIZONTE - SJ/MG,em ação trabalhista com pedido de tutela de urgência,ajuizada por SMENIA RODRIGUES DA CRUZ em face da CAIXA ECONÔMICA FEDERAL, objetivando a nomeação no concurso público.
+O Juízo suscitante, com base no entendimento do Tema n. 992 - RE 960.429 fixado pelo STF,declinou da competência por entender que os autos deveriam tramitar perante a Justiça Comum.
+O Juízo suscitado, às 1.247/1.336e, argumenta queo presente feito é de competência da Justiça do Trabalho já que a sentença foi proferida nos autos em 02 de junho de 2016, data anterior à fixadapelo STF ao modular os efeitos do Tema n. 992.
+ACAIXA ECONÔMICA FEDERAL manifestou-se às fls. 1.204/1.205e.
+O Ministério Público Federal manifestou-se às fls. 1.338/1.340e, opinando pelacompetência do Juízo suscitante.
+Feito breve relato, decido.
+Inicialmente, acentuo que o Conflito comporta conhecimento, porquanto se trata de controvérsia instaurada entre Juízes vinculados a Tribunais distintos, consoante o disposto no art. 105, I, d, da Magna Carta.
+No caso, verifico que a matéria foi examinada pelo Supremo Tribunal Federal no julgamento do RE 960.429/RN (Tema992), com repercussão geral reconhecida, tendo sido firmada a tese segundo a qual "Compete à Justiça Comum processar e julgar controvérsias relacionadas à fase pré-contratual de seleção e de admissão de pessoal e eventual nulidade do certame em face da Administração Pública, direta e indireta, nas hipóteses em que adotado o regime celetista de contratação de pessoas, salvo quando a sentença de mérito tiver sido proferida antes de 6 de junho de 2018, situação em que, até o trânsito em julgado e a sua execução, a competência continuará a ser da Justiça do Trabalho".
+In casu, como bem assinalou o Ministério Público Federal, a sentença de mérito foi proferida em 02/06/2016, razão pela qual a competência para o julgamento da demanda permanece com a Justiça do Trabalho, nos termos da orientação vinculante
+Nesse sentido, as seguintes decisões monocráticas:CC n. 187.572, Ministro Francisco Falcão, DJe de 08/06/2022;CC n. 188.035, Ministro Mauro Campbell Marques, DJe de 26/05/2022; CC n. 187.417, Ministro Benedito Gonçalves, DJe de 05/05/2022; CC n. 187.698, Ministro Gurgel de Faria, DJe de 03/05/2022;CC n. 183.514, Ministro Luis Felipe Salomão, DJe de 29/03/2022; CC n. 184.130, Ministra Regina Helena Costa, DJe de 22/02/2022;CC n. 184.339, Ministro Manoel Erhardt (Desembargador Convocado do Trf5), DJe de 10/12/2021; e CC n. 180.180, Ministro Og Fernandes, DJe de 02/08/2021.
+Isto posto, nos termos do art. 955, parágrafo único, do Código de Processo Civil, combinado com art. 34, XVIII, do Regimento Interno desta Corte, conheço do conflito e declaro competente o JUÍZO DA 11A VARA DO TRABALHO DE BELO HORIZONTE - MG.
+Comunique-se, comurgência, ao Juízo Suscitante e ao Juízo Suscitado.
+Publique-se e intimem-se.
