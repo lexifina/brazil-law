@@ -1,0 +1,19 @@
+DECISÃO
+PROCESSUAL  CIVIL  E  ADMINISTRATIVO.  RECURSO  ESPECIAL.  ALEGAÇÃO DE COISA JULGADA.EM  QUE  PESE  À  OPOSIÇÃO  DOS  EMBARGOS  DE  DECLARAÇÃO,  AUSENTE  O  CUMPRIMENTO  DO  REQUISITO  DO  PREQUESTIONAMENTO.  SÚMULA  211/STJ.  RECURSO  ESPECIAL  NÃO CONHECIDO.
+1.  Trata-se  de  recurso  especial  interposto  pelo  ESTADO DO PARANÁ,  com  fundamento  no  art.  105,  inciso  III,  alínea  a,  da  CF/1988,  no  qual  se  insurge  contra  acórdão  proferido  pelo  TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ,  assim  ementado:
+AGRAVO DE INSTRUMENTO - AÇÃO DE NULIDADE DE COBRANÇA EM FASE DE CUMPRIMENTO DE SENTENÇA - ACÓRDÃO PROFERIDO EM JUÍZO DE RETRATAÇÃO - NÃO APRECIAÇÃO DOS PEDIDOS CONDENATÓRIOS - DECISÃO - NULIDADE CITRA PETITA RECONHECIDA - RECURSO CONHECIDO E PROVIDO (fl.  89).
+2.  Os  embargos  de  declaração  opostos  foram  rejeitados  (fls.  125/129).
+3.  Nas  razões  do  seu  recurso  especial  (fls.  132/140),  a  parte  recorrente  sustenta  violação  dos  arts.  502, 503, 505 e 508 do CPC.  Aduz  que foramopostos embargos de declaração arguindo que já houve o trânsito em julgado por duas vezes da matéria debatida nos autos (ausência de comando condenatório no título executivo), não podendo mais o tema ser rediscutido ante o teor do disposto nos arts. 502, 503, 505 e 508 do CPC que veda ao magistrado rediscutir tema já transitado em julgado (fl. 135).
+4.  Devidamente  intimada , a parte adversa apresentou as  contrarrazões  (fls.  144/149).  O  recurso  especial  foi  admitido  na  origem  (fls.  150/154).
+5.  É  o  relatório.
+6.  A  irresignação  não  merece  prosperar.
+7.  Inicialmente,  é  importante  ressaltar  que  o  presente  recurso  atrai  a  incidência  do  Enunciado  Administrativo  3  do  STJ,  segundo  o  qual  aos  recursos  interpostos  com  fundamento  no  CPC/2015  (relativos  a  decisões  publicadas  a  partir  de  18  de  março  de  2016)  serão  exigidos  os  requisitos  de  admissibilidade  recursal  na  forma  do  novo  CPC.
+8. Na origem, trata-se de demanda proposta pelo Estado do Paraná com o fito de preservar o instituto da coisa julgada.
+9. Verifica-se que a Corte local não examinou a controvérsia sob o enfoque dos dispositivos legais apontados como violados, apesar de instado a fazê-lo por meio dos embargos de declaração opostos. Nesse contexto,caberiaà parte recorrentealegar,nas razões do recurso especial, afronta ao art.1.022do CPC/2015, providência da qual não se cercou. Assim, fica inviabilizado o acesso à instância especial, porquanto não preenchido o requisito constitucional doprequestionamento.Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. PROCESSO ADMINISTRATIVO. NULIDADE.DISPOSITIVOS DA LEI Nº 9.784/99. AUSÊNCIA DEPREQUESTIONAMENTO.AUSÊNCIA DE ALEGAÇÃO DE VIOLAÇÃO DO ART.1022DO CPC/2015. SÚMULA 211/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. O STJ não considera suficiente, para fins de prequestionamentoque a matéria tenha sido suscitada pelas partes ou apenas citada no acórdão, mas sim que a respeito tenha havido efetivo debate no acórdão recorrido.
+2. Ocorrendo omissão no julgamento dos embargos de declaração pelo Tribunal local sob ponto relevante da demanda, cabe ao recorrente, nas razões do recurso especial, suscitar preliminar de violação do artigo1.022do CPC/2015, e não insistir no mérito.
+3. Somente se poderá entender peloprequestionamentoimplícito quando a matéria tratada no dispositivo legal for apreciada e solucionada pelo Tribunal de origem, de forma que se possa reconhecer qual norma direcionou o decisum objurgado.
+4. Agravo interno não provido (AgInt no AREsp 1589171/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 22/04/2020, DJe 27/04/2020).
+10. Do exposto, não conheço do recurso especial doESTADO DO PARANÁ.
+11.  Publique-se. Intimações necessárias.
