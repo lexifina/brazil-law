@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu recurso especial tirado contra acórdão do TJSP assim ementado (e-STJ, fl. 455):
+Embargos à execução. Execução de título extrajudicial. Confissão de dívida, decorrente de contrato escrito de prestação de serviços advocatícios.R. sentença de improcedência, com apelo só da executada/embargante.
+Conjunto probatório desfavorável à tese da embargante executada. Ação executiva embasada em instrumento particular de confissão de dívida.Ausente provas de que o pacto não tenha se dado de forma livre ou que tenha havido vício de consentimento. Prevalência da confissão de dívida sobre o contrato anteriormente pactuado. Título que retrata obrigação certa, líquida e exigível. Intelecção do art. 784, III, do CPC. Excesso de execução genericamente alegado e não demonstrado.Aplicação do princípio pacta sunt servanda. Nega-se provimento ao apelo da embargante/executada/constituinte, não se olvidando do art. 252 do Regimento Interno deste Tribunal.
+Nas razões do especial (e-STJ, fls. 454/469), a recorrente aponta violação do art. 783 do CPC/2015. Impugna o valor do título executivo extrajudicial que embasa a execução promovida por sua contraparte, afirmando que oquantumexigido não corresponde àquele previsto naavença que ensejou sua assinatura (prestação de serviços advocatícios com remuneração pelo êxito), pretendendo a revisão dos termos do contrato entabulado.
+Contrarrazões às fls. 487/497 (e-STJ).
+Decisão pela inadmissibilidade do recurso às fls. 498/501 (e-STJ).
+Razões do agravo às fls. 504/518 (e-STJ).
+Contraminuta às fls. 521/527 (e-STJ).
+É o relatório.
+Decido.
+A irresignação da recorrente centra-se no valor exigido por sua contraparte em sede execução de título extrajudicial, amparada por instrumento particular de confissão de dívida no qual reconheceu dever a quantia de R$ 19.600,00 (dezenove mil e seiscentos reais), a serem pagos em 28 (vinte e oito) parcelas de R$ 700,00 (setecentos reais).
+A partir do exame soberano dos elementos fático-probatórios dos autos, o TJ local concluiu pela inexistência de qualquer vício que pudesse macular a manifestação de vontade expressa no título executivo, mantendo a sentença de primeiro grau que julgou improcedentes os pedidos formulados na ação incidental. Destaco (e-STJ, fls. 463/465):
+Ao contrário do que pretende fazer crer a embargante/executada, funcionária pública da área da saúde (nascida em 1970), não há nos autos sequer indícios de que não possuía noção exata ou falsa sobre aquilo a que se obrigara quando firmou a confissão de dívida. Se houve coação ou fraude, isso poderia ter sido comunicado às autoridades policiais.
+Como ponderado pela MMª. Juíza a quo, doconteúdo das correspondências eletrônicas mantidas entre as partes, fls. 298 e seguintes, se infere que a executada, em verdade, é pessoa esclarecida, tinha ciência da situação e é articulada.
+Ademais, o e-mail colacionado a fl. 298, remetido à recorrente pelo recorrido, indica que o valor do débito com o Banco, discutido na execução hipotecária, em fevereiro/12, era de R$ 199.147.00, revelando o de fl. 305, datado de março/13, que a dívida perfazia o total de R$ 239.523,08.
+Veja-se, ainda, que a memória de cálculo, fl.307/308, de 07.07.14, que usou como base o montante indicado na correspondência eletrônica supramencionada, de fl. 298, dá conta de que o quantum executado era de R$ 296.203,80, fl. 305.
+Adotando-se tal valor, tem-se que, uma vez que o acordo firmado naqueles autos reduziu a dívida da recorrente a R$ 65.000,00, o proveito econômico por ela auferido fora de R$ 231.203,80. A Douta Juíza monocrática bem entendeu assim, e esse posicionamento não foi enfraquecido pela ex-constituinte.
+Aplicando-se o que pactuado pelas partes no contrato de fls. 124/127, cláusula segunda, item "b", apura-se que os devidos honorários contratuais ad exitum seriam de R$ 23.120,38 (10% de R$ 231.203,80), ou seja, valor superior ao inserido na confissão de dívida (R$ 19.600,00, em 28 parcelas iguais, mensais e sucessivas de R$ 700,00 cada uma).
+Tem-se, pois, que não se provou que a importância inserida na confissão de dívida apresentava disparidade com o livremente pactuado entre as partes na avença de prestação de serviços advocatícios.
+De se salientar, ainda, que os documentos de fls. 236/238 demonstram que a recorrente fora representada também pelo escritório exequente nos autos da ação federal, Proc. 0002403-2004.4.03.6100.
+Nesses termos, o acolhimento da pretensão recursal exige incursão sobre o acervo fático-probatório dos autos, bem assim os instrumentos contratuais e de confissão de dívida firmados pela recorrente, o que é vedado na instância excepcional a teor do que orientam as notas n. 5 e 7 da Súmula de Jurisprudência do STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Na forma prevista pelo art. 85, § 11, do CPC/2015, MAJORO em 20% (vinte por cento) os honorários advocatícios arbitrados nas instâncias de origem, observados os limites previstos no § 2º do referido dispositivo.
+Publique-se. Intimem-se.
