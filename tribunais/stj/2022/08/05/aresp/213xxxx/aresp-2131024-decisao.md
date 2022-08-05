@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por PRINT E GO GRAFICA EXPRESSA LTDA e OUTROS, contra decisão que negou seguimento a recurso especial fundamentado na alínea "a" do permissivo constitucional.
+Agravo em Recurso Especial interposto em: 16/03/2022.
+Concluso ao gabinete em: 11/07/2022.
+Ação: monitória, ajuizada por CAIXA ECONÔMICA FEDERAL, em face dos agravantes, na qual objetiva o recebimento da quantia de R$ 62.174,26, referente a Contrato de Concessão/Empréstimo, firmado entre as partes.
+Sentença: acolheu parcialmente os embargos à ação monitória, opostos pelos agravantes, para apenas determinar que a agravada recalcule o débito dos agravantes, de modo a excluir a Tarifa de Abertura e Renovação de Crédito - TARC ou Tarifa de Abertura de Crédito, constituindo, assim, de pleno direito, o título executivo judicial.
+Acórdão: não conheceu da apelação interposta pelos agravantes, nos termos da seguinte ementa:
+Processual civil. Ação monitória. Contratos bancários. Julgamento "citra petita" e cerceamento de defesa não caracterizados. Prova pericial desnecessária. Razões de mérito dissociadas.
+- É possível a análise pelo próprio Tribunal, de ponto sobre o qual a sentença tenha sido omissa ("citra petita"), conforme autoriza o art. 1.013, do CPC, sendo desnecessária a devolução dos autos à primeira instância. No caso dos autos, porém, os pontos indicados pela apelante não foram ignorados pela sentença, tendo sido abordados no contexto da boa-fé objetiva e na aferição da legalidade das cláusulas pactuadas.
+- O problema posto nos autos diz respeito ao inadimplemento de obrigações assumidas por cliente da Caixa Econômica Federal em Contrato de Relacionamento - Abertura e Movimentação de Conta, Contratação de Produtos e Serviços - Pessoa Jurídica, assinado pelas partes e duas testemunhas. Acompanharam a inicial, ainda, demonstrativos de débito, além de planilhas de evolução da dívida, com especificação dos encargos, índices e percentuais utilizados na apuração do saldo devedor, de onde se extrai a existência da "prova escrita" necessária ao manejo da ação monitória.
+- Compete ao juiz a avaliação da necessidade das provas requeridas pelas partes para o julgamento do mérito, determinando a realização daquelas que se mostrarem indispensáveis à solução da lide e, de outro lado, indeferindo as que importem diligências inúteis ou protelatórias, não se caracterizando cerceamento de defesa o indeferimento de prova pericial considerada desnecessária.
+- No mérito, os apelantes questionam a capitalização diária de juros e a cumulação de encargos da mora com a comissão de permanência, alegando que a cobrança de encargos indevidos pelo credor afasta a mora do devedor. Todavia, o Juízo "a quo" afastou a cobrança dos encargos remuneratórios e moratórios e determinou a incidência, exclusivamente, de juros Selic, desde a data da inadimplência até a data do efetivo pagamento, de modo que as razões de mérito são dissociadas do que a sentença decidiu e não serão apreciadas.
+- Preliminares rejeitadas. Mérito do recurso não conhecido. (e-STJ, fl. 370) (grifo nosso)
+Embargos de declaração: opostos pelos agravantes, foram rejeitados.
+Recurso especial: alega a violação do art. 1.022 do CPC/15 e 39, V, do CDC. Além da negativa de prestação jurisdicional, sustenta ser prática abusiva exigir do consumidor vantagem manifestamente abusiva, fazendo alusão à existência de abusividade da previsão de capitalização diária de juros.
+RELATADO O PROCESSO, DECIDE-SE.
+- Julgamento: aplicação do CPC/15
+- Da violação do art. 1.022 do CPC/15
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese, soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte. A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente, acerca da ausência de cláusulas contratuais abusivas ou lesivas que levem a um desequilíbrio das relações jurídicas estabelecidas entre as partes, de maneira que os embargos de declaração opostos pela parte agravante, de fato, não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC/2015, incidindo, quanto ao ponto, a Súmula 568/STJ.
+- Do reexame de fatos e provas e da interpretação de cláusula contratual
+Alterar o decidido no acórdão impugnado, no que se refere à ausência de cláusulas contratuais abusivas ou lesivas que levem a um desequilíbrio das relações jurídicas estabelecidas entre as partes, exige o reexame de fatos e provas e a interpretação de cláusulas contratuais, procedimentos que são vedados pelas Súmulas 5 e 7, ambas do STJ.
+A esse propósito, é o teor do acórdão recorrido:
+Análise detida nos termos do contrato celebrado entre as partes permite concluir pela inexistência de ofensa aos dispositivos previstos na legislação consumerista, notadamente às garantias da transparência, da boa-fé e do equilíbrio contratuais. Isso porque a redação das cláusulas pactuadas, além de respeitar as disposições legais que regem a matéria, propiciou ao devedor (quando da obtenção dos empréstimos junto à instituição financeira) o entendimento exato do alcance das obrigações assumidas, não se vislumbrando regras abusivas ou lesivas que levassem a um desequilíbrio das relações jurídicas estabelecidas entre as partes. (e-STJ, fl. 376)
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC/15, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Deixo de majorar os honorários fixados anteriormente, porquanto já atingido o limite máximo previsto no art. 85, § 2º, do CPC/2015.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, ambos do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. REEXAME DE FATOS, PROVAS E CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE.
+1. Ação monitória.
+2. Ausentes os vícios do art. 1.022 do CPC/15, rejeitam-se os embargos de declaração.
+3. Alterar o decidido no acórdão impugnado, no que se refere à ausência de cláusulas contratuais abusivas ou lesivas que levem a um desequilíbrio das relações jurídicas estabelecidas entre as partes, exige o reexame de fatos e provas e a interpretação de cláusulas contratuais, procedimentos que são vedados pelas Súmulas 5 e 7, ambas do STJ.
+4. Agravo conhecido. Recurso especial parcialmente conhecido e, nessa parte, não provido.
