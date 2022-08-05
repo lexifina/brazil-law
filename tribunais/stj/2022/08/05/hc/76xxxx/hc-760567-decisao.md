@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra acórdão assim ementado (fls. 129-130):
+EMENTA: APELAÇÃO CRIMINAL. TRÁFICO DE DROGAS.MATERIALIDADE E AUTORIA DELITIVA COMPROVADAS.CONDENAÇÃO MANTIDA. DOSIMETRIA. PENA BASE. CONDUTA SOCIAL. NEUTRA.L AGRAVANTE DA REINCIDÊNCIA. FRAÇÃO DE UM SEXTO. REDUÇÃO DA PENA. ISENÇÃO DA PENA DE MULTA. PREVISÃO NO TIPO PENAL. INVIABILIDADE. DIMINUIÇÃO DA PENA DE MULTA. PROPORCIONALMENTE Á PENA PRIVATIVA DE LIBERDADE. ISENÇÃO DO PAGAMENTO DE CUSTAS PROCESSUAIS. PETIÇÃO JUNTO AO JUÍZO DA EXECUÇÃO PENAL. MANUTENÇÃO DA PRISÃO. REGIME FECHADO E REINCIDENTE.
+1. Improcede o pleito de absolvição por insuficiência probatória, quando a autoria e a materialidade do crime de tráfico de drogas encontram-se devidamente comprovadas nos elementos de provas colacionados aos autos.
+2. Deve ser considerada neutra a conduta social do acusado na primeira fase da dosimetria, pois esta não pode ser tida como inadequada se ausentes elementos fiáveis e concretos para aferir-lhe desvalor, o que impõe a redução da pena base, bem como, o patamar de aumento da pena referente a agravante da reincidência, correspondendo a 1/6 (um sexto) da pena base.
+3. Não procede o pedido de exclusão da pena de multa, pois esta sanção pecuniária está inserida no tipo penal violado, não se tratando de pena alternativa, mas sim cumulativa, mas deve ser reduzida proporcionalmente à pena privativa de liberdade, em conformidade com o novo entendimento consolidado pela 2ª Câmara Criminal de ste egrégio Tribunal de Justiça.
+4. O pedido de isenção do pagamento de custas processuais, embora o acusado tenha advogado constituído nos autos, deve ser submetido ao crivo do Juízo da execução.
+5. Mantém-se a prisão do acusado, considerando o regime fixado para cumprimento da pena - fechado e a própria reincidência. APELO CONHECIDO E PARCIALMENTE PROVIDO.
+Consta dos autos que o paciente foi condenado, em sede de apelação, como incurso no artigo 33, caput, da Lei n. 11.343/2006, às penas de 5 anos e 10 meses de reclusão, no regime inicial de cumprimento de pena fechado, em razão da reincidência, e ao pagamento de 580 dias-multa.
+Sustenta a defesa que o paciente "jamais se envolveu com prática de crimes que tenha organização criminosa e muito menos tráfico de drogas". Aduz nulidade das provas por invasão de domicílio, realçando a necessidade de trancamento do processo, por total ausência de indícios de autoria e prova da materialidade delitiva.
+Assevera que: "Em relação à droga encontrada o mesmo informou que os policias colocaram em seu poder tendo em vista que, pelo fato de possuir passagens os policias da famosa PM2 que fizeram abordagem inicial queria que o mesmo falasse onde poderia encontrar uma pessoa que trafica ou até mesmo que tem arma" (fl. 4).
+Afirma que após a sentença condenatória a defesa recorreu e o Tribunal de Justiça do Estado de Goiás deu parcial provimento para reduzir a pena para 5 anos e 10 meses de reclusãoe pagamento de 580 dias-multa (fl. 6).
+Entende que devem ser declaradas nulas as provas em razão da invasão de domicílio.
+Requer, liminarmente, a concessão da ordem de habeas corpus, com o relaxamento da prisão preventiva; seja declarada a nulidade do processo por cerceamento de defesa e declarada nula a busca e apreensão realizada no domicílio do ora paciente. No mérito, requer a absolvição e o trancamento da ação penal.
+Em consulta ao sistema processual desta Corte Superior, verificou-se que a pretensão aduzida já foi apreciada por esta Corte nos autos do HC729526-GO (2022/0073386-4), cuja decisão foi publicada em 22/3/2022, tratando-se, portanto, de mera reiteração de pedido.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
