@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por TALLES HENRIQUE SILVA SANTOScontra a decisão proferida pelo Tribunal de Justiça do Estado de Sergipe que não admitiu seu recurso especial fundado no art. 105, inciso III, alíneasa e c, da Constituição Federal.
+A controvérsia tratada nos autos foi bem relatada no parecer ministerial às e-STJ fls. 1520/1525, in verbis:
+Trata-se de agravo em recurso especial interposto por TALLES HENRIQUE SILVA SANTOS (e-STJ fls. 1478/1493), visando desconstituir a decisão proferida pelo Desembargador do Egrégio Tribunal de Justiça do Estado de Sergipe, que inadmitiu o recurso especial defensivo (e-STJ fls. 1466/1469).
+No presente caso, o ora Agravante interpusera recurso especial, fundado no art. 105, inc. Ill, alíneas a e c, da Constituição Federal (e-STJ fls. 1434/1452), em face do acórdão proferido pela Câmara Criminal do TJ/SE (e-STJ fls. 1404/1426), que não conheceu da apelação defensiva e do apelo do Órgão Ministerial, considerando os recursos intempestivos, nos termos da ementa seguinte:
+ ..
+No dito recurso especial, o ora Agravante sustentou haver, no acórdão vergastado, violação ao artigo 370 do CPP, além de divergênciajurisprudencial, afirmando que o apelo defensivo seria tempestivo, e que teria havido "equívoco, ao não conhecer da Apelação Criminal interposta pela Defensoria Pública sob o argumento de que essa estaria intempestiva, pois teria se passado mais de 02 meses do prazo qüinqüídio, ignorando o fato de que, tratando-se da Defensoria Pública, a intimação será pessoal e só se efetivará com a remessa dos autos eletrônicos ao defensor público constituído, violando assim o art. 370, do CPP e entendimento jurisprudencial assente" (e-STJ fl. 1440). Afirmou que, "a sessão do Júri ocorreu na data 08/02/2019, no entanto, o defensor público somente fora intimado tão somente em 29/03/2019 (sexta-feira), data em que expirado o prazo de ciência, após o envio eletrônico dos autos. Nessa senda, o prazo recursal somente teve início em 01/04/2019. O defensor público veio interpor a apelação no dia 08/04/2019, portanto, dentro do prazo, dado que, através da prerrogativa do prazo em dobro, o último dia seria apenas em 10/04/2019. Portanto, observa-se a tempestividade da Apelação interposta pela Defensoria Pública" (e-STJ fl. 1448). Requereu o provimento do recurso, "reformando o acórdão vergastado para reconhecer a violação ao art. 370, §2º, do CPP e entendimento jurisprudencial assente, com a devida cassação do acórdão da Câmara Criminal, para determinar oconhecimento da apelação e seu devido processamento" (e-STJ fl. 1451/1452).
+O Tribunal de origem inadmitiu o apelo especial, com base na Súmula 7/STJ (e-STJ fls. 1566/1469). Essa decisão deu ensejo ao presente agravo em recurso especial (e-STJ fls. 1478/1493), tendo o Agravado apresentado suas contrarrazões (e-STJ fls. 1499/1503).
+É o relatório. Passa-se a opinar.
+O Parquet opinou pelo desprovimento do agravo em recurso especial.
+É o relatório. Decido.
+O Tribunal de origem não conheceu da apelação interposta pelo réu. Na oportunidade, constou do acórdão recorrido(e-STJ fls.1416/1425):
+Não bastasse, em atenção à devolutividade restrita do recurso de apelação interposto em face de decisão proferida pelo Tribunal do Júri, cristalizada na Súmula n.713 do Supremo Tribunal Federal, ressaltamos que Talles Henrique Silva Santos fundamentou sua insurgência no inciso I do art. 593 do Código de Processo Penal, que não se aplica ao procedimento especial do Júri.
+A respeito da vinculação aos fundamentos da interposição do apelo contra decisão do Tribunaldo Júri, a lição de Guilherme de Souza Nuccil:
+ ..
+De acordo com a jurisprudência do Supremo Tribunal Federal, a possibilidade de delimitar ou modificar o objeto do recurso de apelação dirigido a decisão do Tribunal do Júri nas razões recursais está condicionada ao seu oferecimento anteriormente ao decurso do prazo para recorrer:
+ ..
+Ocorre que, no caso concreto, as razões foram apresentadas meses após a Sessão de Julgamento Popular, de forma que a exceção mencionada pelo autor acima citado e pela Corte Suprema não se verifica. Ainda que se considerasse tempestiva a interposição do recurso em 08 de abril de 2019, o oferecimento das razões respectivas em 14 de maio do mesmo ano não poderia alterar o fundamento legal da interposição.
+Com efeito, inexistindo nos autos a indicação de fundamento válido para o manejo de apelo em face de decisão proferida pelo Conselho de Sentença, resta inviabilizada a análise do recurso, conforme entende o Superior Tribunal de Justiça:
+ ..
+Apreciando caso semelhante ao presente, destacamos julgado recente do Tribunal de Justiça do Estado de Sergipe:  ..
+Verifica-se que o referidofundamento, suficiente à manutenção do acórdão recorrido, não foi impugnado de forma específica nas razões recursais, sendo forçoso o reconhecimento do óbice da Súmula n. 283/STF.
+A propósito:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AFRONTA AO ART. 188 DO CPP. NULIDADE POR INDEFERIMENTO AO DIREITO DE FORMULAR PERGUNTAS EM INTERROGATÓRIO DE CORRÉU. (I) - ACÓRDÃO ASSENTADO EM MAIS DE UM FUNDAMENTO SUFICIENTE. RECURSO QUE NÃO ABRANGE TODOS ELES. SÚMULA 283/STF. (II) - AUSÊNCIA DE DEMONSTRAÇÃO DE PREJUÍZO. PAS DE NULLITÉ SANS GRIEF. DIVERGÊNCIA JURISPRUDENCIAL. ART. 255/RISTJ. INOBSERVÂNCIA. CONTRARIEDADE AO ART. 1º, P.Ú., E 33, AMBOS DA LEI Nº 11.343/06. DESCLASSIFICAÇÃO DA CONDUTA. REEXAME FÁTICO E PROBATÓRIO. INADMISSIBILIDADE. SÚMULA 7/STJ. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Verificando-se que o v. acórdão recorrido assentou seu entendimento em mais de um fundamento suficiente para manter o julgado, enquanto o recurso especial não abrangeu todos eles, aplica-se, na espécie, o enunciado 283 da Súmula do STF.
+ ..
+5. Agravo regimental a que se nega provimento.
+(AgInt no AREsp 1247259/RJ, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 15/5/2018, DJe 24/5/2018, grifei.)
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
