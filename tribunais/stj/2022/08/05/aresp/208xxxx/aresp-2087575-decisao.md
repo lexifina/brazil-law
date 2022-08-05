@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo interposto por MÁRIO BALBINO contra decisão que inadmitiu recurso especial. O apelo extremo, com fundamento no artigo 105, III, "a", da Constituição Federal, foi interposto contra acórdão assim ementado:
+"APELAÇÃO CÍVEL - AÇÃO ORDINÁRIA - CONTRATO DE PARCERIA RURAL AGRÍCOLA - REVELIA - PRESUNÇÃO DE VERACIDADE DOS FATOS ALEGADOS NA INICIAL - DESCUMPRIMENTO DE OBRIGAÇÕES CONTRATUAIS PELA PARTE RÉ - COMPROVAÇAO - PROCEDÊNCIA DOS PEDIDOS INICIAIS. A decretação da revelia do réu não implica, automaticamente, a procedência do pedido inicial, porquanto a presunção de veracidade das alegações táticas da parte autora é relativa, sendo passível de ser afastada frente ás provas produzidas nos autos. A presunção de veracidade dos fatos afirmados pelo autor - ante a revelia do réu -, aliado ao fato de existir nos autos suporte probatório suficiente a embasar a pretensão autoral, conduz á procedência dos pedidos iniciais" (fl. 128, e-STJ).
+Os embargos declaratórios foram rejeitados (fl. 149, e-STJ).
+No recurso especial, orecorrente alega que houve violação dos arts. 218, 219, 224, 230, 231,994, 996, 997, 1.002, 1.003, 1.007,1.008, 1.029 e 1.043 do Código de Processo Civil de 2015, pois "(..)O autor da ação é culpado pela execução incompleta do contrato e não pode postular a rescisão do contrato e a indenização por perdas e danos e a efetivação da cláusula penal" (fl. 164, e-STJ).
+Inadmitido na origem, apresentou-se o presente agravo em recurso especial.
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+O recurso não merece prosperar.
+Inicialmente, registra-se a incidência da Súmula nº211/STJ em relação aos dispositivos legais tidos por violados na origem.
+Ademais, otribunal estadual, ao analisar a controvérsia, consignou:
+"(..)
+O douto Juiz de primeiro grau, ao proferir a decisão agravada, julgou procedentes os pedidos iniciais, diante da presunção de veracidade dos fatos afirmados pelo autor - ante a revelia do réu (considerada intempestiva a sua contestação) -, aliada ao fato de existir nos autos suporte probatório suficiente a embasar a pretensão autoral.
+E, da análise de todo o processado, não encontro elementos bastantes à reforma da sentença hostilizada.
+A respeito da revelia do réu, reconhecida pelo douto Juiz de primeiro grau, impende registrar que o art. 319 do CPC/73 estabelece que, não contestada a ação, "reputar-se-ão verdadeiros os fatos afirmados pelo autor".
+Bem por isso disciplina o art. 334, IV, do mesmo CPC/73 que não dependem de prova os fatos em cujo favor milita a presunção legal de veracidade.
+Todavia, conforme disposto no ad. 322, parágrafo único, do mesmo diploma legal, o revel poderá intervir no processo em qualquer fase, recebendo-o no estado em que se encontrar.
+E, sabe-se que a revelia do réu não implica, automaticamente, a procedência do pedido inicial, porquanto a presunção de veracidade das alegações fáticas da parte autora é relativa, sendo passível de ser afastada frente às provas produzidas nos autos.
+Ocorre que, do conjunto probatório existente nos autos, não se verifica qualquer elemento de prova capaz de desconstituir as alegações trazidas pela parte autora de que teria o réu descumprido diversas obrigações assumidas no pacto. Ao contrário, a prova documental produzida nos autos somente as corrobora.
+Veio aos autos o Contrato particular de parceria rural agrícola celebrado entre os litigantes (folhas 8111), por meio do qual pactuaram as partes a preparação da lavoura antes da colheita, mediante limpeza geral com utilização de roçadeira e capina manual, a colheita propriamente dita do café e serviços relativos pós-colheita, tais como a desbota, pulverização de cura da lavoura, distribuição da casca do café e retorno da matéria orgânica morta junto aos pés de café da lavoura.
+Na cláusula terceira de referido ajuste, pactuou-se que o autor, parceiro-outorgante, "entra com a propriedade formada pela lavoura de café, com a estrutura física de 3 casas para alojamento do pessoal, galpão com equipamentos de beneficiamento para a secagem e limpa do café", além de "trator com os implementos para apoio e uso na execução das etapas do trabalho", estando todo o maquinário em perfeito estado de funcionamento.
+Vê-se, de outro lado, que as obrigações a que o réu (parceiro-outorgado) imputa ao autor (parceiro-outorgante), tais como pagamento de despesas com combustível do trator e com os trabalhadores contratados para a colheita do café, são, na verdade, de responsabilidadedaquele, por expressa previsão contratual.
+(..)
+Pactuou-se ainda, na cláusula nona de referido contrato, que a venda do café "ocorrerá em comum acordo", Cabendo a cada uma das partes 50% da produção da safra do ano de 2009.
+E, do boletim de ocorrência de folhas 56, vislumbra-se que o réu vendeu parte do café colhido a Edmilson Maciel Simões, o qual procedeu á posterior sustação do cheque a ele, réu, entregue, relativo ao valor desse negócio, ante a ausência de autorização por parte do autor referente a essa mesma venda.
+Acresça-se que o próprio réu confessa, em suas razões recursais, ter havido a danificação de cafeeiros da lavoura, de árvores frutíferas do pomar e, também, danificação da parede de uma edificação da fazenda, o que vai ao encontro das alegações do autor, no sentido de que o réu não estaria mesmo cumprindo o pactuado.
+Ademais, de grande valia salientar que o laudo e fotografias de folhas 6131 não foram expressamente impugnados pelo réu, documentos esses que demonstram as condições em que se encontravam não só a lavoura, mas a propriedade do autor.
+Vislumbra-se, assim, que nenhum descumprimento de obrigação contratual pode ser imputado ao autor, mas apenas ao réu,que não logrou êxito na comprovação dos fatos modificativos, extintivos e impeditivos do direito do requerente, a teor do disposto no artigo 333, II, do CPC/73.
+A tanto não se prestam os documentos apresentados com a intempestiva contestação, tratando-se de recibos de valores pagos pelo réu para manutenção do trator, para compra de combustível e, ainda, referentes ao pagamento de verbas aos trabalhadores por ele, réu, contratados para a colheita do café, sendo certo que, conforme disposição contratual expressa (cláusula quarta, acima transcrita), tais despesas deveriam mesmo ser arcadas pelo próprio réu"(fls. 131-134, e-STJ).
+Nesse contexto, não é possível a este Tribunal Superior apreciar o entendimento exarado na origem, porquanto teria que, necessariamente, rever o contexto fático-probatório dos autos, procedimento inviável nesta via extraordinária, consoante disposto na Súmula nº 7/STJ.
+Ante o exposto, conheço do agravo para não conhecerdo recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 10% (dezpor cento) sobre o valor da condenação, os quais devem ser majorados para o patamar de 12% (dozepor cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observado o benefício da gratuidade da justiça.
+Publique-se.
+Intimem-se.
