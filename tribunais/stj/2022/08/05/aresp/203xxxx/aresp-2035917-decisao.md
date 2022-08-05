@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de agravo interposto por RODOBENS INCORPORADORA IMOBILIARIA 317 - SPE LTDA. e OUTRA contra decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, insurgiu-se contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul assim ementado:
+"APELAÇÃO CÍVEL. DIREITO PRIVADO NÃO ESPECIFICADO. AÇÃO DEINDENIZAÇÃO POR DANO MORAL E MATERIAL. PRELIMINAR DEJULGAMENTO EXTRA PETITA REJEITADA. DATA DE ENTREGA DOIMÓVEL DEVE SER A CONSTANTE NO CONTRATO DE COMPRA EVENDA ACRESCIDA DO PRAZO DE TOLERÂNCIA. ATRASO DE OBRA. OCORRÊNCIA. TEMA 996 DO STJ. JUROS DE OBRA. DANOS MATERIAISE DANOS MORAIS. CONFIGURADOS. APELO PROVIDO.- Do Atraso da Entrega do Imóvel: Verifica-se o efetivo e injustificado atraso da obra, aplicando-se o prazo de entrega jurídica o fixado no Contrato de Promessa de Compra e Venda, nos termos do entendimento do STJ quando do julgamento do Tema 996, restando configurada a mora da Promitente Vendedora após essa data, somado ao prazo de tolerância.- Dos Juros de Obra: Cabível a restituição dos valores pagos a título de juros de obra pela parte adquirente do bem a partir da data em que configurado o atraso na entrega da obra até a cessação da respectiva cobrança.- Dos Danos Materiais: Diante o atraso na entrega do bem atribuída à parte ré, promitente-vendedora, deve ser condenada ao ressarcimento dos valores dispendidos pela autora com o pagamento de aluguel, desde a data que foi pactuada até a efetiva entrega do imóvel.- Do Dano Moral: O atraso injustificado na entrega de obra, por si só, não gera danos extrapatrimoniais passíveis de indenização. No caso dos autos, considerando o período de atraso, de quase um ano, já caracteriza abalo moral passível e ser indenizável. PRELIMINAR REJEITADA E NO MÉRITO PROVIDO O APELO. UNÂNIME" (fl. 570, e-STJ).
+Os embargos de declaração foram rejeitados (fls. 596/601, e-STJ).
+No recurso especial, a recorrente alega, além de divergência jurisprudencial, a violação do artigo 360 do Código Civil.
+As recorrentes afirmam que houve novação com a celebração do contrato de financiamento, devendo ser considerado o prazo nele previsto e não o do contrato de compra e venda. Em consequência,não há falar em atraso na entrega do imóvel.
+Além disso, aduzem que devem ser excluídos da condenação os valores cobrados à título de juros de obra, pois estes são legais e decorrentes do contrato celebrado entre a parte recorrida e a Caixa Econômica Federal.
+Por fim, sustentam que o mero atraso na entrega de imóvel não enseja o pagamento de indenização por danos morais.
+Contrarrazões às fls. 663/665 (e-STJ).
+O recurso foi inadmitido na origem, sobrevindo daí o presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+Preliminarmente, importante consignar que o acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+Em relação às teses acerca dos juros de obra e da indenização por danos morais, constata-se a deficiência na fundamentação recursal pela não indicação dos dispositivos legais que teriam sido violados, o que atrai a incidência da Súmula nº 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+Nesse sentido:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. PRESCRIÇÃO. NÃO OCORRÊNCIA. ARTIGO 200 DO CÓDIGO CIVIL. APLICABILIDADE. DANO MORAL. REDUÇÃO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA Nº 7/STJ. PENSÃO MENSAL. PAGAMENTO EM PARCELA ÚNICA. AFASTAMENTO. DISPOSITIVO VIOLADO. NÃO INDICAÇÃO. DEFICIÊNCIA DE FUNDAMENTAÇÃO DO RECURSO.
+(..)
+3. Considera-se deficiente de fundamentação o recurso especial que não indica os dispositivos legais supostamente violados pelo acórdão recorrido, circunstância que atrai a incidência, por analogia, do enunciado nº 284 da Súmula do Supremo Tribunal Federal.
+4. Agravo regimental não provido" (AgRg no AREsp 580.041/DF, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 15/12/2015, DJe 3/2/2016- grifou-se).
+No mais, o Tribunal de origem entendeu pela caracterização do atraso na entrega do imóvel, com base nos seguintes fundamentos:
+"(..)
+Assim, desimporta que tenha sido pactuado com o agente financeiro um novo prazo de entrega, pois este só servirá para regular as relações do financiamento, devendo prevalecer com o prazo final de entrega do bem, o previsto no Contrato de Promessa de Compra e Venda firmado entre adquirente e vendedora, acrescido do prazo de tolerância e considerado entregue após o registro do habite-se e sua individualização devidamente registrados no Ofício Imobiliário, a exceção da análise do uso físico do imóvel pelo adquirente, para fins de quando lhe foi possibilitada a fruição, posto que esta se dará pela disponibilização física da unidade adquirida.
+(..)
+Assim, a data da entrega do imóvel não pode estar vinculada a data da concessão do financiamento, mas sim a data constante no contrato.
+(..)
+Desta forma, a entrega da obra deveria ter acontecido no máximo no dia 30/10/2014 ocorrendo a mora até a efetiva entrega, devendo ser reformada a sentença nesse tópico.
+(..)" (fls. 565/566, e-STJ).
+De fato, tal entendimento está em consonância com a jurisprudência desta Corte no sentido de que na aquisição de unidades autônomas em construção, o contrato deverá estabelecer, de forma clara, expressa e inteligível, oprazocerto para aentregadoimóvel,o qual não poderá estar vinculado à concessão dofinanciamento,exceto o acréscimo doprazode tolerância. Além disso,o referidoprazonão pode ser modificadopor iniciativa dos fornecedores quando da celebração do contrato definanciamentoimobiliário
+Nesse sentido:
+"CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO. NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO INDENIZATÓRIA POR DANOS MORAIS E MATERIAIS. ALTERAÇÃO DA DATA DE ENTREGA DA OBRA POR OCASIÃO DA ASSINATURA DO CONTRATO DE FINANCIAMENTO IMOBILIÁRIO. IMPOSSIBILIDADE. RECURSO REPRESENTATIVO DA CONTROVÉRSIA. RETORNO DOS AUTOS PARA NOVO JULGAMENTO. DECISÃO MANTIDA.
+1. As disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016.
+2. Admitem-se como implicitamente prequestionados os dispositivos legais cujo conteúdo normativo tenha sido efetivamente examinado pelo acórdão recorrido, mesmo sem menção expressa aos artigos de lei correspondentes.
+3. A Segunda Seção, no julgamento do recurso especial repetitivo REsp nº 1.729.593/SP, fixou a tese de que, na aquisição de unidades autônomas em construção, o contrato deverá estabelecer, de forma clara, expressa e inteligível, o prazo certo para a entrega do imóvel, o qual não poderá estar vinculado à concessão do financiamento, ou a nenhum outro negócio jurídico, exceto o acréscimo do prazo de tolerância.
+4. Referido entendimento pode se aplicado extensivamente para impedir que referido prazo seja modificado por iniciativa dos fornecedores quando da celebração do contrato de financiamento imobiliário. Precedentes.
+5. Agravo interno não provido" (AgInt no AgInt no AREsp n. 1.581.066/RS, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 24/8/2020, DJe de 27/8/2020.)
+"AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE, APÓS RECONSIDERAR DELIBERAÇÃO ANTERIOR, DEU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA DEMANDADA.
+1. "Na aquisição de unidades autônomas em construção, o contrato deverá estabelecer, de forma clara, expressa e inteligível, o prazo certo para a entrega do imóvel, o qual não poderá estar vinculado à concessão do financiamento, ou a nenhum outro negócio jurídico, exceto o acréscimo do prazo de tolerância" (REsp 1729593/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 25/09/2019, DJe 27/09/2019).
+2. Agravo interno desprovido" (AgInt no AgInt no AREsp n. 1.557.666/RS, relator Ministro Marco Buzzi, Quarta Turma, julgado em 23/3/2020, DJe de 25/3/2020.)
+De toda sorte, rever as conclusões firmadas pelas instâncias ordinárias, a partir da tese de quea parte recorrida concordou expressamente com a alteração do prazo para entrega do imóvel, demandaria a análise de fatos e de provas dos autos, o que é inviável no recurso especial.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 15% (quinze por cento) sobre o valor da condenação, os quais devem ser majorados para o patamar de 20% (vinte por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
