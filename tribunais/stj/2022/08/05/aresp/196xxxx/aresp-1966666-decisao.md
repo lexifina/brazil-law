@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo interposto por ÁGUAS LINDAS PARTICIPAÇÕES E EMPREENDIMENTOS LTDA.contra a decisão que inadmitiu recurso especial. O apelo extremo, com fundamento no artigo 105, inciso III, alínea"a", da Constituição Federal, insurge-se contra o acórdão proferido pelo Tribunal de Justiça do Distrito Federalassim ementado:
+"AGRAVO DE INSTRUMENTO. AÇÃO DE REINTEGRAÇÃO/MANUTENÇÃO DE POSSE. CONTRATO DE LOCAÇÃO. RESCISÃO PROPOSTA PELO LOCADOR APENAS 6 (SEIS) MESES APÓS O INÍCIO DA VIGÊNCIA. SIGNIFICATIVOS INVESTIMENTOS DO LOCATÁRIO NO IMÓVEL. INDICAÇÃO DE ABUSO DE DIREITO. ANTECIPAÇÃO DOS EFEITOS DA TUTELA DEFERIDA NA ORIGEM. REQUISITOS SATISFEITOS. RECURSO CONHECIDO E NÃO PROVIDO.
+1. Embora a possibilidade, nos casos em que imóvel é locado para fins comerciais, prazo da locação indeterminado, conferida ao locador de promover denúncia, visando o desfazimento do vínculo, bastando para tanto a notificação do locatário e a concessão do prazo de 30 (trinta) dias para a desocupação do imóvel - art. 57 da Lei Federal 8.245/91, consoante destacado pela decisão agravada, a rescisão do contrato proposta pela locadora apenas 6 (seis) meses após o início da vigência e depois dos significativos investimentos do locatário no imóvel indica abuso de direito.
+2. Nesse contexto, mesmo sem definir, nessa fase incipiente do processo, possiblidade ou não de rescisão imotivada do contrato pela locadora/agravante, o fato é que, para ocupar a loja, o agravado fez inúmeros investimentos; e determinar a desocupação do imóvel antes de perquirir o mérito das questões postas poderá significar graves danos ao locatário/agravado. Justificada, portanto, a antecipação de tutela levada a efeito pela decisão agravada.
+3. De se ver que a manutenção da liminar que obsta a desocupação do imóvel não significará qualquer prejuízo à agravante, já que o agravado continuará pagando o aluguel durante o curso do feito.4. Agravo de instrumento conhecido e não provido"(fl. 96e-STJ).
+Nas razões do recurso especial, orecorrentesustentaviolação doartigo 57 da Lei nº 8.245/91.
+Mencionaque
+"(..)
+inexistemrazões, por todo o exposto, que justifiquem a injusta "manutenção do contrato" nos termos pretendidos pelo Recorrido, de modo que devem ser declarados totalmente improcedentes os pedidos formulados na exordial" (fl. 113e-STJ).
+Contrarrazões àsfls. 123/125e-STJ.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+Esta Corte Superior entende não ser cabível recurso especial quanto à alegação de ofensa a dispositivos de lei relacionados com a matéria de mérito da causa que, em liminar ou antecipação de tutela, é tratada apenas sob juízo precário de mera verossimilhança, "porquanto tal matéria, somente haverá causa decidida em única ou última instância com o julgamento definitivo, atraindo, analogicamente, o enunciado da súmula 735 do STF: "Não cabe recurso extraordinário contra acórdão que defere medida liminar"" (REsp nº 765.375/MA, Rel. Ministro Teori Albino Zavascki, Primeira Turma, julgado em 6/4/2006, DJ 8/5/2006).
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. 1. CABIMENTO DE AGRAVO DE INSTRUMENTO. ROL DO ART. 1.015 DO NCPC. IMPOSSIBILIDADE PARA A DISCUSSÃO SOBRE ILEGITIMIDADE DE PARTE. PRECEDENTE DESTA CORTE SUPERIOR. 2. ANTECIPAÇÃO DE TUTELA. NATUREZA PRECÁRIA E PROVISÓRIA DO DECISUM QUE, EM REGRA, NÃO AUTORIZA A INTERPOSIÇÃO DO RECURSO ESPECIAL. SÚMULA 735/STF. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 7/STJ. 3. MULTA DO ART. 1.021, § 4º, DO CPC/2015. NÃO INCIDÊNCIA, NA ESPÉCIE. 4. AGRAVO INTERNO IMPROVIDO.
+1. Para a questão envolvendo a legitimidade de parte, percebe-se que a interpretação do art. 1.015 do novo Código de Processo Civil foi limitativa, entendendo-se que ela não estaria prevista no rol do referido dispositivo. Sendo assim, deve a decisão ser alterada no ponto.
+2. É pacífico o entendimento desta Corte de que, em regra, não cabe recurso especial contra decisão proferida em liminar ou antecipação de tutela, seja para deferi-la, seja para negá-la, na linha do entendimento contido na Súmula n. 735 do Supremo Tribunal Federal.
+3. O mero não conhecimento ou a improcedência de recurso interno não enseja a automática condenação à multa do art. 1.021, § 4º, do NCPC, devendo ser analisado caso a caso.
+4. Agravo interno improvido"
+(AgInt no AREsp n. 1.626.949/MG, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 29/4/2022.)
+"PROCESSUAL CIVIL. CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REINTEGRAÇÃO DE POSSE. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF E 211 DO STJ. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. ALEGAÇÃO DE COMPOSSE E POSSE ATUAL. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. DISCUSSÃO DE DOMÍNIO NA DEMANDA POSSESSÓRIA. DESCABIMENTO. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83 DO STJ. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. PEDIDO DE AFASTAMENTO DOS HONORÁRIOS RECURSAIS. REQUERIMENTO DE REVISÃO DO VALOR DO ENCARGO. DESCABIMENTO. DECISÃO MANTIDA.
+1. Ausente o enfrentamento da matéria pelo acórdão recorrido, inviável o conhecimento do recurso especial, por falta de prequestionamento (Súmulas n. 211 do STJ e 282 e 356 do STF). 2. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7/STJ).
+3. No caso concreto, para alterar a conclusão do Tribunal de origem, acolhendo a reintegração de posse do imóvel litigioso, seria imprescindível nova análise da matéria fática, inviável em recurso especial.
+4. "O entendimento do STJ é no sentido de que, em se tratando de ação possessória, não se discute o domínio sobre os bens em comento, mas tão somente a posse exercida sobre eles" (AgRg no REsp n. 1.242.937/SC, Relator Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 26/6/2012, DJe 1º/8/2012). 5. No caso concreto, a Corte de origem concluiu pela impossibilidade de a parte recorrente postular a proteção possessória com fundamento no direito de propriedade. Incidência da Súmula n. 83/STJ.
+6. Dissídio jurisprudencial não comprovado, por causa da incidência das Súmulas n. 7 e 83 do STJ.
+7. Conforme a jurisprudência da Corte Especial do STJ, " ..  a lei não exige comprovação do efetivo trabalho adicional realizado pelo advogado da parte recorrida para a majoração dos honorários  .. " (AgInt nos EAREsp n. 762.075/MT, Relator p/ Acórdão Ministro HERMAN BENJAMIN, CORTE ESPECIAL, julgado em 19/12/2018, DJe 7/3/2019).
+8. Correta a decisão que, ao negar provimento ao agravo nos próprios autos, majorou em 20% (vinte por cento) o valor dos honorários advocatícios, nos estritos limites do art. 85, § 11, do CPC/2015, levando em conta os requisitos previstos nos incisos I a IV do § 2º do mesmo dispositivo.
+9. Agravo interno a que se nega provimento"
+(AgInt no AREsp n. 1.477.295/BA, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 5/11/2019.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Deixode tratar dos honorários recursais (art. 85, § 11, do Código de Processo Civil de 2015), visto que o recurso especial é oriundo de agravo de instrumento, sem fixação de honorários sucumbenciais.
+Publique-se.
+Intimem-se.
