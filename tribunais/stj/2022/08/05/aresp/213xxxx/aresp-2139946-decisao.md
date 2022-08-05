@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de agravo manejado pela Universidade Federal de São Paulocontra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 3ª Região, assim ementado (fls. 199/201):
+ADMINISTRATIVO. SERVIDOR PÚBLICO FEDERAL. APELAÇÃO CÍVEL. PLEITO DE CUMULAÇÃO DE ADICIONAL DE IRRADIAÇÃO IONIZANTE E GRATIFICAÇÃO POR TRABALHOS COM RAIO-X. LEGITIMIDADE DA CNEN. PRESCRIÇÃO. SUPRESSÃO DO PAGAMENTO DE VERBA EM ORIENTAÇÃO NORMATIVA MPOG.POSSIBILIDADE DE CUMULAÇÃO DAS VERBAS. APELAÇÃO DESPROVIDA.
+1. Apelação interposta pela UNIFESP contra a sentença que julgou parcialmente procedente o pedido inicial, formulado por servidor público federal, para reconhecer o direito à percepção cumulativa da gratificação por trabalhos com raio-X e do adicional de irradiação ionizante.
+2. Preliminar de ilegitimidade passiva da Unifesp rejeitada, porquanto se trata de demanda proposta por servidor público vinculado à autarquia federal, visando o recebimento da gratificação de raio-x, concomitantemente ao adicional de irradiação ionizante, sendo a Unifesp dotada de autonomia administrativa e financeira e personalidade jurídica própria. Com efeito, a relação estatutária de que se trata nos presentes autos se dá entre a autora e a UNIFESP, sendo esta, portanto, a única responsável pelo pagamento ou pela supressão do adicional ionizante.
+3. Conforme dispõe o Decreto n. 20.910/32, as dívidas da Fazenda Pública prescrevem em cinco anos. Intelecção da Súmula 85 STJ.
+4. A relação jurídica ora em comento é de trato sucessivo, renovando-se mês a mês e, portanto, a prescrição opera-se apenas quanto às parcelas abrangidas pelo quinquídio legal anterior ao ajuizamento da ação.
+5. Não se dessume da legislação pertinente ao caso a vedação ao recebimento conjunto das rubricas adicional de irradiação ionizante e gratificação por trabalhos com raio-x.
+6. A percepção conjunta das rubricas é cabível. O adicional por irradiação ionizante constitui retribuição genérica por risco potencial presente no ambiente de trabalho, por sua vez, a gratificação de raio-x constitui pagamento específico aos que atuam expostos diretamente ao risco de radiação. Precedentes do STJ e deste Tribunal Regional Federal da 3ª Região.
+7. As condenações da Fazenda oriundas de relações jurídicas não-tributárias devem ser atualizadas monetariamente e acrescidas de juros moratórios, quando houver, da seguinte forma: a) até a MP n.
+2.180-35/2001, que acresceu o art. 1º-F à Lei n. 9.494/97, deve incidir correção monetária pela variação dos indexadores previstos no Manual de Cálculos da Justiça Federal e, se houver, juros de mora à razão de 1% ao mês; b) a partir da MP n. 2.180-35/2001 e até a edição da Lei n.
+11.960/2009 deve incidir correção monetária pela variação dos indexadores previstos no Manual de Cálculos da Justiça Federal e, se houver, juros de mora à razão de 0,5% ao mês; c) a partir de 01/07/2009, nos termos definidos no julgamento do RE 870.947, é constitucional o art. 1º-F da Lei nº 9.494/97, com redação dada pela Lei nº 11.960/09, no que alude à fixação de juros moratórios segundo o índice de remuneração da caderneta de poupança (TR), porém, na parte em que disciplina a atualização monetária, é inconstitucional por ser inadequado a capturar a variação de preços da economia, aplicando, portanto, o índice IPCA-E, previsto no Manual de Orientação de Cálculos da Justiça Federal e que melhor reflete a inflação acumulada no período.
+8. A aplicação das diretrizes traçadas no RE 870.947/SE para a atualização do débito decorre do reconhecimento de sua repercussão geral. Aliás, a não observância ao posicionamento nele expresso levaria ao desrespeito da decisão da Suprema Corte.
+9. Majoração dos honorários sucumbenciais (art. 85, §11 do CPC).
+10. Apelação desprovida.
+Não foram opostos embargos declaratórios.
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 1º do Decreto 20.910/32, 50 e 68, caput e §1º, da Lei nº 8.112/9, e 12 da Lei nº 8.270/91. Sustenta a ocorrência da prescrição do fundo de direito, sob o argumento de que "O ato administrativo que cessou o pagamento cumulativo constitui-se em um ato único, o qual, apesar de gerar efeitos contínuos futuros, não caracteriza relação de trato sucessivo, afastando-se, desse modo, a aplicação da Súmula nº 85/STJ.  .. Portanto, considerando a data de publicação da Orientação Normativa/MPOG n.º 03 (17/06/2008), forçoso concluir que quando protocolada a presente ação (17/01/2018), já havia se operado a prescrição do próprio fundo de direito.Em outras palavras: o direito de questionar a decisão da Administração que impediu o pagamento cumulativo do adicional de irradiação ionizante e da gratificação por trabalhos com raios-x, já estava prescrito quando da propositura da ação." (fl. 228)
+No mais, defende a impossibilidade de cumulação do adicional de irradiação ionizante com a gratificação de raio-x, pois ambas têm a mesma origem factual.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação comporta acolhida.
+Com efeito, extrai-se do aresto recorrido a seguinte fundamentação (fls. 189/192):
+Conforme dispõe o Decreto n. 20.910/32, as dívidas da Fazenda Pública prescrevem em cinco anos. Deve-se observar, entretanto, que se a dívida for de trato sucessivo, não há prescrição do todo, mas apenas da parte atingida pela prescrição, conforme o artigo 3º daquele ato normativo:
+(..)
+Na jurisprudência, a questão foi pacificada após o STJ editar a Súmula de n. 85, de seguinte teor:
+(..)
+Prevalece no âmbito da jurisprudência do STJ, pela sistemática do artigo 543-C do CPC, esse entendimento:
+(..)
+No caso concreto, a parte autora relata a supressão de sua remuneração de verba - gratificação e adicional - por decisão do Tribunal de Contas da União, que determinou ao Ministério do Planejamento o cumprimento do decidido, o qual editou a Orientação Normativa nº 03.
+Assim, a Orientação Normativa da Secretaria de Recursos Humanos do Ministério do Planejamento, Orçamento e Gestão nº 03, de 17.06.2008, publicada no DOU de 18.06.2008, visa dar cumprimento ao Acórdão 1.038/2008 do Tribunal de Contas da União-TCU - PLENÁRIO - TC 009.019/2007-0.
+E o Boletim Informativo/Termo de Opção nº 027, de 26/06/2008, operacionalizou a determinação contida na Orientação Normativa nº 03/2008 - MPOG.
+Diante do relatado acima, vinha entendendo ser o caso de negativa administrativa do próprio direito reclamado e de ocorrência de prescrição do fundo de direito.
+No entanto, consoante os mais recentes julgamentos desta Primeira Turma (vide Apelação Cível 0023603-62.2013.403.6100), tenho ficado vencido quanto ao reconhecimento da prescrição em casos análogos, entendendo a douta maioria encontrar-se hígida a pretensão formulada, por ser a relação jurídica de trato sucessivo.
+Assim, revejo meu posicionamento quanto à ocorrência de prescrição para acompanhar o entendimento da douta maioria, uniformizando-se o posicionamento nesta Primeira Turma de que a relação jurídica ora em comento é de trato sucessivo, renovando-se mês a mês e, portanto, a prescrição opera-se apenas quanto às parcelas abrangidas pelo quinquídio legal anterior ao ajuizamento da ação.
+Nesse passo, proposta a ação em 29.05.2017 perante o Juizado Especial federal, encontram-se prescritas as parcelas anteriores a 29.02.2012.
+Dessa forma, rejeito a alegação de ocorrência de prescrição do fundo de direito.
+Diante desse contexto, verifica-se que o acórdão recorrido, ao afastar o reconhecimento da prescrição do próprio fundo de direito, foi proferido em dissonânciacom a jurisprudência do STJ, segundo a qual "o ato desupressãodegratificaçãona remuneração de servidor público configura ato único de efeitos concretos, ocorrendo aprescriçãode fundo de direito da pretensão, inaplicável a Súmula 85/STJ."(AgInt na AR n. 5.197/MG, relatora Ministra Regina Helena Costa, Primeira Seção, julgado em 14/6/2022, DJe de 17/6/2022.)
+Confiram-se:
+ADMINISTRATIVO. SERVIDOR PÚBLICO. PRESCRIÇÃO. OCORRÊNCIA. SUPRESSÃO DE VANTAGEM NO ATO DE APOSENTADORIA. SÚMULA 85/STJ. INAPLICABILIDADE.
+1. "A posição firmada pelo Tribunal de origem está em dissonância com a jurisprudência desta Corte de que firmou compreensão no sentido de que ocorre a prescrição do fundo de direito nos casos de supressão de gratificação, vantagem ou benefício percebidos por servidor público, por se tratar de ato único de efeito concreto  .. " (AgInt nos EDcl no AREsp 1787078/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe 14/10/2021).
+2. Agravo interno não provido.
+(AgInt nos EDcl no AREsp n. 1.951.892/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 2/5/2022, DJe de 5/5/2022.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. ART. 1.022, DO CPC/2015.VIOLAÇÃO. INEXISTÊNCIA. GRATIFICAÇÃO. SUPRESSÃO. PRESCRIÇÃO.OCORRÊNCIA.
+1. Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC de 2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo 3).
+2. Inexiste violação do art. 1.022 do CPC/2015 quando o Tribunal de origem aprecia fundamentadamente a controvérsia, apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como constatado na hipótese.
+3. A jurisprudência do Superior Tribunal de Justiça se firmou no sentido de que ocorre a prescrição do fundo de direito nos casos de supressão de gratificação, vantagem ou benefício percebidos por servidor público, por se tratar de ato único de efeito concreto.
+4. Hipótese em que, cessada a designação para o cargo entre os anos de 1996 e 1997 e, sendo ajuizada ação somente em 2007, encontra-se caracterizada a prescrição do próprio fundo de direito, evidenciando-se, assim, a conformidade do entendimento adotado no acórdão recorrido atrai a incidência da Súmula 83 do STJ.
+5. Agravo interno desprovido.
+(AgInt no AREsp 1358158/SC, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 24/05/2021, DJe 11/06/2021)
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. GRATIFICAÇÃO. PRESCRIÇÃO DO FUNDO DE DIREITO. OCORRÊNCIA.
+1. O aresto impugnado destoa da jurisprudência firmada pela Corte Especial do Superior Tribunal de Justiça, segundo a qual ocorre a prescrição do fundo de direito nos casos de supressão de gratificação, vantagem ou benefício percebidos por servidor público, por se tratar de ato único, de efeito concreto.
+2. Agravo interno não provido.
+(AgInt no AREsp 1482373/PI, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 09/09/2019, DJe 12/09/2019)
+ANTE O EXPOSTO, conheço do agravo e dou provimento ao recurso especial, para reconhecer a ocorrência de prescrição. Prejudicada a análise das demais teses aventadas.
+Publique-se.
