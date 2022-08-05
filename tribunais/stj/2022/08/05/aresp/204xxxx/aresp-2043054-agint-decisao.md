@@ -1,0 +1,73 @@
+DECISÃO
+Trata-se de agravo interno interposto por ÊNIO FERREIRA FREITAS e OUTROScontra a decisão da Presidência do Superior Tribunal de Justiça que não conheceu do agravo em recurso especial.
+Nas presentes razões, a agravante defende que impugnou os fundamentos da decisão de admissibilidade.
+Por fim, requer a reconsideração da decisão atacada ou que o feito seja submetido ao órgão julgador colegiado.
+Impugnação às fls. 2.117/2.121(e-STJ).
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+Considerando a manifestação da agravante, faz-se imperiosa a reconsideração da decisão de fls. 2.086/2.088 (e-STJ) e passa-se ao exame do recurso.
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto por ÊNIO FERREIRA FREITAS e OUTROS. O apelo extremo, fundamentado no artigo 105, inciso III, alíneas"a" e "c", da Constituição Federal, insurge-se contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+"Ação declaratória de nulidade de negócio jurídico c. c. de reintegração de posse. Litígio entre médicos-autores e médicos-réus. Comproprietários de dois imóveis integrados entre si. Locação e cessão de sala por comproprietários (réus) a terceiro médico. Pedidos de nulidade de negócio jurídico entre os réus, de reintegração dos autores no imóvel locado e cedido, e de indenização pela falta de pagamento das despesas mensais.
+Sentença de Primeiro grau. Improcedência dos pedidos. Sentença integrada por decisões que solucionaram os declaratórios opostos.
+Apelação. Preliminares de cerceamento ao direito de defesa e vedação à "decisão-surpresa", porquanto não se deu oportunidade à devida instrução probatória. Notícia da saída do locatário e cessionário da sala. Perda superveniente de objeto do pedido de reintegração de posse. Mérito. Pedido reiterado de indenização. Contrarrazões do réu João Paulo. Preliminar de carência de ação. Sentença de mérito a ser mantida. Contrarrazões dos réus Luiz Carlos e Armando. Preliminares de recolhimento insuficiente do preparo recursal. Valor não atualizado. Documentos apresentados pelos autores em sede recursal, que devem ser desentranhados. Carência de ação pela perda superveniente do objeto.
+Apelação. Ação que decorre da intolerância dos autores. Insurgência contra a ocupação da sala por quem não era proprietário. Sala cedida por médico que deixou de atuar há mais de quinze anos.
+Apelação. Pedido de reintegração de posse prejudicado com a saída do locatário e cessionário.
+Apelação.  1  Preliminar de cerceamento de defesa afastada. Várias oportunidades para apresentar documentos das despesas. Inércia. Mero exercício de litigância por aqueles que não se preparam para litigar em juízo. Questão não acolhida. Inocorrência de "sentença surpresa". Argumento que não vinga. Prova inexistente a permitir o decreto de improcedência. Documentos juntados com o apelo que são impertinentes para se auferir os valores devidos. Questão afastada.
+Apelação.  2  Contrarrazões. Questão que deferia ser deduzida, não pelo réu João Paulo, mas, pelo réu Luiz Carlos. Questão prejudicada pela falta de interesse por não se poder em nome próprio defender direito alheio. Apelação. 3  Contrarrazões. Preparo insuficiente. Extração de todos os documentos juntados com o apelo. Não conhecimento do recurso.
+ 3.1  Deserção afastada. Desnecessidade de atualização do valor da causa para o cálculo do preparo.  3.2  Não havendo prejuízo à parte, não há motivo para o desentranhamento de documentos. Pedido indeferido.  3.3  Recurso dos autores que não se mostra prejudicado pela desocupação do réu Luiz Carlos. Necessidade de se enfrentar os pedidos de nulidade do negócio jurídico e o de indenização. Prosseguimento do feito que se impõe.
+Apelação.  4  Perda superveniente do objeto da ação relativamente à reintegração de posse. Desocupação do imóvel pelo réu. Imperativa a análise do pedido reintegratório para se obter a solução dos demais pedidos. Ocupação da sala com apoio em título válido. Locatário que não tem que responder pelas despesas do condomínio junto aos autores. Despesas que devem ser pagas aos réus. Réu Luiz Carlos convidado a ocupar a sala. Autores que confirmam esse convite. Ocupação válida. Impossibilidade de se considerar o ocupante como invasor. Polo passivo inadequado para nele figurar o réu Luiz Carlos. Art. 1.314 do Código Civil. Condôminos que não teriam que observar a indivisão do condomínio. Cada um se mostra proprietário de parte divisível, caracterizada pelo uso próprio e determinado da coisa. Cessão do bem possível. Falta de afronta ao art. 1.314, parágrafo único, do Código Civil. Condômino que responde pela despesa mensal, sem ser imposta ao réu Luiz, que não era condômino. Decisão apelada acertada. Apelação.  5  Questão relativa à nulidade do negócio jurídico (contratos de locação e de cessão). Tese que não vinga. Imóvel que não se mostra indivisível. Utilização do bem de modo particularizado e exclusivo pelos comproprietários. Ausência de prática ilícita no negócio. Não incidência do art. 166, inciso I, do Código Civil, por não decorrer o negócio de objeto ilícito. Simulação afastada. Nada se disfarçou. Locou ou cedeu o que era possível locar ou ceder. Lógica que se extrai do art. 167, II, do diploma civil.
+Apelação.  6  Exigência das despesas que, em tese, não deveria mais ocorrer. Texto expresso contido nas notificações de que os autores renunciariam à indenização em caso de saída do réu do imóvel. Ademais, houve falta de comprovação de dados contábeis que pudessem ser admitidos como válidos. Padecem os autores da efetiva demonstração de débito em nome dos réus. Pedido indenizatório que não merece acolhimento. Condenação exigida dos réus porque dois deles teriam concorrido para que houvesse ainjusta ocupação de sala pelo terceiro réu. Não sabendo o que pedir nem o que provar, os autores pleitearam o arbitramento judicial da indenização. Valor que não poderia ser arbitrado até por falta de dados apresentados. Contraditoriamente, os autores reclamam a condenação de Luiz no valor de R$ 17.600,00 e que os outros dois réus também respondam por esse mesmo valor, em conjunto com aquele terceiro réu. Incerteza do pedido em relação aos réus Armando e João Paulo que redunda na sua própria improcedência.
+Apelação.  7  Notícia de arquivamento de inquérito policial por não se tratar de hipótese criminal para oferecimento de denúncia. Apelação. Sentença mantida. Honorários de advogados elevados de 15% para 20% sobre o valor atualizado da causa, nos termos do artigo 85, §§ 2º e 11, do Código de Processo Civil, em virtude do trabalho adicional do advogado.
+Apelação. Sentença mantida. Recurso desprovido" (fls. 1.734/1.737 e-STJ).
+Os embargos de declaração opostos foram parcialmente acolhidos (fls. 1.811/1.814 e-STJ).
+Nas razões do especial, os agravantes alegam, além de divergência jurisprudencial, violação dos arts. 10, 141, 324, II e III, 355, I, 370, 435, 489, § 1º, VI,509, 562, 564 e1.022, I, II e III, do CPC/2015; e 114, 884, 1.245 e 1.314 do CC. Defende, em síntese, o cerceamento de defesa e a responsabilidade dos recorridos pelas despesas suportadas pelos autores.
+Com as contrarrazões e inadmitido o recurso na origem, sobreveio o presente agravo, no qual se busca o processamento do apelo nobre.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A irresignação não merece prosperar.
+O argumento de que o acórdão atacado teria incorrido em negativa de prestação jurisdicional é improcedente.
+De fato, o Tribunal de origem indicou adequadamente os motivos que lhe formaram o convencimento, analisando de forma clara, precisa e completa as questões relevantes do processo e solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+Não há falar, portanto, em prestação jurisdicional lacunosa ou deficitária apenas pelo fato de o acórdão recorrido ter decidido em sentido contrário à pretensão do recorrente.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE DANOS MATERIAIS. BENFEITORIAS EM IMÓVEL. EFEITO SUSPENSIVO. REQUISITOS. AUSÊNCIA. ART. 1.022 DO CPC/2015. VIOLAÇÃO. NÃO OCORRÊNCIA. EMBARGOS DE DECLARAÇÃO. EFEITOS MODIFICATIVOS. POSSIBILIDADE.
+1. A atribuição de efeito suspensivo a recurso especial está circunscrita à presença cumulativa dos requisitos da plausibilidade do direito invocado e no perigo de dano irreparável ou de difícil reparação, que não se fazem presentes na hipótese.
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. É possível a atribuição de efeitos infringentes aos embargos de declaração quando a alteração da decisão surgir como consequência lógica da correção da omissão, contradição ou obscuridade.
+4. Agravo interno não provido" (AgInt no AREsp 1.070.607/RN, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, julgado em 17/8/2017, DJe 25/8/2017).
+Assim, impende asseverar que cabe ao julgador apreciar os fatos e as provas da demanda segundo seu livre convencimento, declarando, ainda que de forma sucinta, os fundamentos que o levaram a solucionar a lide.
+Desse modo, o não acolhimento das teses ventiladas pelo recorrente não significa omissão ou deficiência de fundamentação da decisão, ainda mais quando o aresto aborda todos os pontos relevantes da controvérsia, como na espécie.
+A propósito:
+"PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA.
+CHEQUES. RECONSIDERAÇÃO DA DECISÃO MONOCRÁTICA. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. DIVERGÊNCIA JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA.
+1. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+3. O reexame de fatos e provas em recurso especial são inadmissíveis.
+4. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+5. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+6. Agravo interno provido. Agravo conhecido. Recurso especial
+não conhecido" (AgInt no AREsp 1.033.786/RS, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, julgado em 13.6/2017, DJe 20/6/2017).
+Na hipótese dos autos, o tribunal de origem consignou:
+"Cabia-lhes juntar os documentos, mas, não o fizeram, quando da distribuição da ação. Afinal, vinham assentados em pedido de indenização, sob o argumento da falta de pagamento de despesas mensais atribuídas aos réus.
+Cabia-lhes, igualmente, juntar ditos documentos em qualquer outra oportunidade durante o processamento do feito, e antes da sentença, mas quedaram-se, outra vez, inertes.
+Sem a produção de prova pertinente, impossível o reconhecimento do direito reclamado.
+Apesar de oportunidades incontestáveis, nada demonstraram, efetivamente, qual o valor da indenização.
+Diante dessa situação, inadmissível aceitar o argumento de que a r. sentença tenha-lhes causado surpresa, porquanto, não havendo elementos probatórios da dívida de meses, ou mesmo de anos, só poderia a d. autoridade judiciário editar decreto de improcedência.
+E mais: após a sentença, documentos vieram com o apelo. Contudo, mostra-se impertinente a juntada deles, porque nãoestão encartados pedagogicamente nos autos, a tornar possível ver qual o débito perseguido pelos recorrentes.
+Portanto, o apego ao cerceamento se mostra singelo exercício de litigância por aqueles que não se preparam para litigar em juízo.
+(..)
+Decorre, pois, e sem que se faça indagação a respeito da eficácia desse comando contido nas notificações, é certo dizer, ainda que a desocupação tenha ocorrido tempos depois da cientificação de ambos os réus, que a renúncia dos autores ao valor da indenização é questão que deve ser levada em conta para afastar a sua exigência.
+Primeiro, porque conseguiram que houvesse a desocupação do réu Luiz Carlos (que por ironia, adquiriu a sala que ocupava, sem oposição efetiva dos autores).
+Segundo, porque o negócio havido entre os réus se mostrou hígido, a impedir decreto de nulidade.
+Terceiro, porque os autores não expuseram nos autos dados contábeis que pudessem ser admitidos como válidos. Padecem os autores da efetiva demonstração de débito em nome dos réus.
+Bem por isso, impossível se mostra o acolhimento do pleito indenizatório.
+Sem a efetiva juntada de documento específico em torno de tais despesas, incabível o pleito contido na inicial.
+Atente-se que os autores exigem a condenação dos réus porque dois deles teriam concorrido para que houvesse a injusta ocupação de sala pelo terceiro réu (fls. 80).
+Não sabendo o que pedir nem o que provar, os autores se apoiam no pedido de arbitramento judicial da indenização. Não há valor a ser fixado pelo julgador, porém, diante da indiscutível falta de prova da despesa mensal, que tenha, ou teria, ficado pendente.
+Ao final, porém, e por contradição, os apelantes objetivam que o réu Luiz Carlos pague a quantia de R$ 17.600,00 e que os outros dois réus também respondam por esse mesmo valor, em conjunto com aquele terceiro réu (fls. 86/87).
+A incerteza do pedido em relação aos réus Armando e João Paulo redunda na sua própria improcedência, lembrando-se que o réu Luiz, como exaustivamente ficou explanado acima, não tem nenhuma responsabilidade junto aos que se dizem credores"(fls. 1.740/1.747 e-STJ).
+Nesse contexto, não há como rever tal entendimento, sob pena de esbarrar noóbicedaSúmulas nº7/STJ.
+Ressalta-se, ainda, que, conforme iterativa jurisprudência do Superior Tribunalde Justiça, a necessidade do reexame da matéria fáticaimpede aadmissão dorecurso especial tanto pela alínea "a" quanto pelaalínea "c"do permissivo constitucional.
+Ante o exposto, reconsidero a decisão de fls. 2.086/2.088 (e-STJ), tornando-a sem efeito, para conhecer do agravo e não conhecer do recurso especial.
+Em observância ao art. 85, § 11, do Código de Processo Civil de 2015,deixo demajorar os honorários advocatícios, haja vista que, na origem, jáforam estipulados no patamar máximo (20% sobre valor atualizado da causa).
+Publique-se.
+Intimem-se.
