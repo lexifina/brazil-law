@@ -1,0 +1,20 @@
+DECISÃO
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. PENHORA DE VALORES EM CONTA-CORRENTE. DESBLOQUEIO INDEFERIDO. VALORES QUE NÃO POSSUEM NATUREZA DE POUPANÇA. PRETENSÃO QUE DEMANDA REVISÃO DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+1. Agrava-se dadecisão que inadmitiu o recurso especial interposto por DENISE GENARO FARINELLI LOPES, com fundamento no art. 105, inciso III, alíneaa,da CF/1988, no qual se insurgira contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+Agravo de Instrumento - Execução Fiscal - Decisão de primeiro grau que indeferiu o pedido de desbloqueio de valores Pretensão à reforma Desacolhimento - Caráter impenhorável da verba bloqueada não comprovado Inexistência de afronta ao art. 833 do CPC - Ausência de comprovação capaz de ilidir as conclusões exaradas em primeira instância - Manutenção da r. decisão recorrida que se impõe - R. Decisão mantida. Recurso desprovido (fl. 45).
+2. Os embargos de declaração opostos foram rejeitados (fls. 70/74).
+3. Nasrazões do seurecurso especial (fls. 79/101), a parte agravante sustentaviolação do art. 833, X, do CPC/2015 ao defender a impenhorabilidade de valores até o limite de 40 salários mínimos, independentemente de estarem depositados em conta-poupança.
+4. Devidamente intimada, a parte agravada apresentou as contrarrazões (fls. 108/120).
+5. Sobreveio o juízo de admissibilidade negativo(fls. 122/123), razão pela qual se interpôs o presente agravo em recurso especial, ora em análise.
+6. É o relatório.
+7. A irresignação não merece prosperar.
+8. Inicialmente, é importante ressaltar que o presente recurso atrai a incidência do Enunciado Administrativo 3 do STJ, segundo o qual aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+9. Nos  exatos  termos  do  acórdão  recorrido,  o  Tribunal  de  origem  assim  se  manifestou  sobre  o cerne da  insurgência:
+Nota-se que, no caso dos autos, nenhuma das verbas que foram bloqueadas se mostram impenhoráveis, à luz do que preconiza o art. 833 do Código de Processo Civil, debalde o respeito que mereçam os precedentes jurisprudenciais trazidos à colação pela agravante.
+Como bem posto na respeitável decisão recorrida, a quantia que dizia respeito a previdência privada dos filhos da recorrente foi por ela resgatada, passando a utiliza-la, de sorte a se poder entender ter havido mesmo revogação de doação.
+Aquela que se refere à conta conjunta em titularidade com sua genitora, à evidência, pode ser manejada por qualquer das titulares em sua totalidade, não havendo falar em preservação de metade.
+Já o valor referente à conclusão de curso em nível de mestrado ou congênere não está contemplado no rol do art.833 do CPC, estando disponível para a recorrente, não cabendo a ela, em tese, defender direito alheio, no caso da instituidora.
+No que tange à impossibilidade de penhora até o limite de 40 salários mínimos, este diz respeito a poupança, ocorrendo que nenhuma das verbas bloqueadas ostenta essa natureza (fl. 48 - sem destaques no original).
+10.O Tribunal de origem reconheceu que os valores bloqueados não tinham natureza de poupança, razão pela qual indeferiu sua liberação.Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e provas, e não navaloração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto. Sendo assim, incide no caso a Súmula 7 do STJ, segundo a qual a pretensão de simples reexame de prova não enseja recurso especial.
+11.Ante o exposto, conheço do agravo interposto por DENISE GENARO FARINELLI LOPES para não conhecer do recurso especial.
+12.Publique-se. Intimações necessárias.
