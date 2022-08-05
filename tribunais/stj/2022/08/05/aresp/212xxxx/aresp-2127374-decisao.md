@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu recurso especial tirado contra acórdão do TJSP assim ementado (e-STJ, fl. 160):
+APELAÇÃO. DEMANDA DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITOS, COM PEDIDOS CUMULADOS DE DEVOLUÇÃO DE VALORES PAGOS E INDENIZAÇÃO DE DANOS MORAIS.CLIENTE DE INSTITUIÇÃO FINANCEIRA, TITULAR DE CONTA CORRENTE E DE POUPANÇA, QUE TEVE SUA CARTEIRA PESSOAL FURTADA, JUNTAMENTE COM OUTROS PERTENCES, INCLUSIVE CARTÃO DO BANCO COM SENHA ESCRITA. FATO INCONTROVERSO. CULPA CONCORRENTE CARACTERIZADA. DANO MORAL NÃO CARACTERIZADO. HONRA OBJETIVA DA AUTORA QUE NÃO FOI ATINGIDA. ÔNUS DA SUCUMBÊNCIA REDISTRIBUÍDOS. RECURSO PROVIDO EM PARTE.
+Nas razões do especial (e-STJ, fls. 183/191), a recorrente aponta violação do art. 14 do CDC. Afirma que a instituição financeira recorrida é a única responsável pelos danos que resultaram da utilização indevida de seus cartões bancários, furtados por terceiros.
+Contrarrazões às fls. 207/211 (e-STJ).
+Decisão pela inadmissibilidade do recurso às fls. 212/214 (e-STJ).
+Razões do agravo às fls. 231/236 (e-STJ).
+Contraminuta às fls. 238/243 (e-STJ).
+É o relatório.
+Decido.
+A irresignação não prospera.
+O acórdão recorrido concluiu pela culpa concorrente das partes litigantes, sobretudo porque a recorrente mantinha anotado, junto com os cartões bancários furtados, o código privado (senha) que permite a realização das operações bancárias (e-STJ, fls. 160/161):
+No caso em tela, restou incontroverso que a autora teve sua carteira furtada e com ela seus cartões e respectivas senhas.Em tais circunstâncias, entendo configurada a culpa concorrente. É certo que no regime implantado pela Lei 8.078/90 não há previsão legal expressa para o emprego da concorrência de culpas. Mas a jurisprudência e a boa doutrina têm adotado tal sistemática (cf., STJ Rec. Esp. 287.489/SP, 4ª T., Rel. Min. Ruy Rosado de Aguiar, DJU 17.4.01, Rec. Esp. 327.420/DF, 4ª T., 23.10.01; Paulo de Tarso Vieira Sanseverino, "Responsabilidade Civil no Código de Defesa do Consumidor e Defesa do Fornecedor", Ed. Saraiva, p. 275). Aqui, a autora agiu com negligência culposa, ao manter o cartão e senha próximos. Em contrapartida, o sistema de segurança falhou muito, ao não detectar movimentação incongruente com o perfil da usuária e ao não coibir prontamente tal prática (cf. fls. 28, em que concedido crédito de R$ 4.300,00, visto que a recorrente recebe benefício do INSS no valor de R$ 857,26 (cf. fls. 27)). Então, configurada a culpa concorrente, o réu deve arcar com 50% das despesas contestadas pela autora. Deverá creditar na conta da apelante o valor equivalente a esse percentual, devidamente atualizado desde a data de cada retirada indevida, acrescido de juros moratórios legais, calculados sobre o principal, desde a citação.
+Nesses termos, o acolhimento da pretensão recursal exige o reexame de elementos fático-probatórios dos autos, inviável na instância excepcional a teor do que orienta a Súmula n. 7/STJ.
+Consigne-se que "a jurisprudência do STJ erigiu-se no sentido de que o titularo cartão de crédito é responsável pela sua guarda e manutenção do sigilo da respectiva senha de modo que a utilização indevida do cartão por terceiro, a quem foi entregue voluntariamente, ainda que não espontaneamente, porque o fora sob fraude praticada por terceiro, isenta o Banco de responsabilidade" (AgInt no REsp n. 1.948.050/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 16/5/2022, DJe de 18/5/2022).
+Caso de aplicação, outrossim, do óbice previsto na Súmula n. 83/STJ.
+Por todo o exposto, NEGO PROVIMENTO ao agravo nos próprios autos.
+Publique-se. Intimem-se.
