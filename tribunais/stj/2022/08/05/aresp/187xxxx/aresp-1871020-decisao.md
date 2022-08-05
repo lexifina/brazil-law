@@ -1,0 +1,69 @@
+DECISÃO
+Trata-se de agravo interposto por ENERGIO RENOVÁVEIS S. A. contra a decisão que inadmitiu recurso especial. O apelo extremo, com fundamento no artigo 105, III, "a", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+"APELAÇÃO. AÇÃO MONITÓRIA. CÉDULAS DE CRÉDITO BANCÁRIO. RÉ QUE APRESENTOU EMBARGOS MONITÓRIOS. DÚVIDA ACERCA DA QUALIDADE DE CREDORA DA AUTORA. SENTENÇA DE EXTINÇÃO DO FEITO SEM RESOLUÇÃO DO MÉRITO. IRRESIGNAÇÃO DE AMBAS AS PARTES. Falta de interesse recursal da ré. Rejeição. Prejudicial de mérito. Prescrição. Matéria suscitada em sede de contestação e não apreciada pelo Juízo a quo. Possibilidade de conhecimento por este Órgão Julgador. Art. 1.013, §1º, do CPC/2015. O prazo prescricional para o exercício da pretensão executória de cédula de crédito bancário é de 03 (três) anos, nos exatos termos do art. 70 da LUG - Lei Uniforme de Genebra (Decreto nº 57.663/66), o qual se aplica à hipótese por força do disposto no art. 44 da Lei nº 10.931/2004. Precedentes do STJ e desta Corte de Justiça. Hipótese em que a demanda foi ajuizada dentro do prazo legal. Demora na citação que não pode ser atribuída à demandante. Prejudicial não acolhida. Alegação de nulidade da sentença. Juízo de primeiro grau que, após a abertura de fase instrutória, surpreendeu a parte com a prolação da sentença recorrida, na qual declarou a impossibilidade de dilação probatória no procedimento monitório. Evidente a violação aos princípios da cooperação e da não surpresa. Arts. 6º e 10, do NCPC. Lado outro, com a oposição dos embargos, o procedimento especial da monitória se transmuda em procedimento comum ordinário (cognição exauriente), sendo perfeitamente possível a produção de provas como contraditório amplo. Error in procedendo. Sentença que se anula. PROVIMENTO DO RECURSO DA AUTORA E DESPROVIMENTO DO RECURSO DA RÉ" (fl. 918, e-STJ).
+Os embargos de declaração opostos foram rejeitados (fls. 967/974, e-STJ).
+No especial, a recorrente aponta violação dos arts. 6º, 10, 320, 700, 240, § 3º, do Código de Processo Civil de 2015; 28 e 29, § 1º, da Lei nº 10.931/2004 e 70 do Decreto nº 57.663/1966, argumentando, em síntese:
+(i) que não houve julgamento surpresa, visto que a parte foi intimada para se manifestar a respeito do pedido de julgamento imediato;
+(ii) que a inicial da ação monitória não foi devidamente instruída com as vias das cédulas de crédito bancário e a permissão de juntada posterior viola a garantia da ampla defesa e contraditório; e
+(iii) a ocorrência da prescrição pois "o extenso lapso temporal ocorrido entre a propositura da ação e a citação decorreu da total ausência de zelo com que a Diferencial conduziu o processo" (fl. 993, e-STJ).
+Apresentadas contrarrazões às fls. 1.002/1.016 (e-STJ).
+O Presidente do tribunal de origem inadmitiu o recurso especial, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+O tribunal de origem dirimiu a controvérsia nos seguintes termos:
+"(..)
+In casu, infere-se que a ação foi proposta dentro do prazo prescricional trienal. Nada obstante, a citação do devedor só ocorreu em18/04/2016, conforme se verifica na certidão lançada no índice 0124.
+Diante deste cenário, deve-se perquirir se a demora na citação ocorreu por desídia da parte autora ou em decorrência do serviço judiciário.
+(..)
+Frise-se que não houve qualquer certificação de inércia da autora no curso do processo. Da mesma forma, não se verifica a paralisação dos autos por tempo demasiado na dependência de ato de responsabilidade da demandante.
+Nesse contexto, não se pode afirmar que houve conduta desidiosa da parte autora, já que atendeu a todas as intimações do Juízo, cumprindo com suas obrigações para formalização da citação da ré.
+(..)
+De fato, após detida análise dos autos, tem-se que incidiu em erro o magistrado sentenciante. Isto porque, após iniciar toda uma fase instrutória, surpreendeu a parte com a prolação da sentença ora recorrida, na qual afirmou a impossibilidade de produção de prova sobre a "prova do título"; o que vai de encontro ao princípio da não surpresa e da cooperação, expressos nos arts. 10 e 6º, do CPC.
+Por outra perspectiva, é cediço que com a oposição dos embargos, o procedimento especial da monitória se transmuda em procedimento comum ordinário de cognição exauriente, sendo perfeitamente possível a produção de provas com contraditório amplo.
+(..)
+Dessa forma, demonstrada a ocorrência de error in procedendo, a sentença deve ser anulada para que seja devidamente concluída a fase instrutória da ação" (fls. 929/933, e-STJ - grifou-se).
+De início, verifica-se que a Corte estadual decidiu em conformidade com a jurisprudência deste Superior Tribunal de Justiça, atraindo a incidência da Súmula nº 568/STJ.
+A propósito:
+"PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO MONITÓRIA. EMENDA À INICIAL. INTIMAÇÃO. EMBARGOS MONITÓRIOS. TEMPESTIVOS. CONVERSÃO. PROCEDIMENTO COMUM.
+1. Recurso especial interposto em 11/08/2020 e concluso ao gabinete em 14/09/2021.
+2. Cuida-se de ação monitória.
+3. O propósito recursal consiste em definir se é necessária a intimação da parte para converter a ação monitória em procedimento comum.
+4. A emenda à exordial e a oposição de embargos monitórios têm por consequência a conversão de procedimento monitório em procedimento ordinário.
+5. O rito comum será dotado de cognição plena e exauriente, com ampla dilação probatória. Assim, a cognição da ação monitória, que em princípio é sumária, será dilatada mediante iniciativa do réu em opor embargos, permitindo que se forme um juízo completo e definitivo sobre a existência ou não do direito do autor. Precedentes.
+6. O documento que serve de base para a propositura da ação monitória gera apenas a presunção de existência do débito, a partir de um juízo perfunctório próprio da primeira fase do processo monitório. Trazendo o réu-embargante elementos suficientes para contrapor a plausibilidade das alegações que levaram à expedição do mandado de pagamento, demonstrando a existência de fato impeditivo, modificativo ou extintivo do direito invocado na inicial, caberá ao autor-embargado superar os óbices criados, inclusive com a apresentação de documentação complementar, se for o caso. Precedentes.
+7. Recurso especial conhecido e não provido" (REsp n. 1.955.835/PR, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 14/6/2022, DJe de 21/6/2022 - grifou-se).
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO MONITÓRIA. EMBARGOS. PROVA ESCRITA. APTIDÃO PARA APARELHAR O PEDIDO MONITÓRIO. EXAME APÓS A CONVERSÃO DO RITO. DESCABIMENTO. RECURSO PROVIDO.
+1. A ação monitória foi introduzida no ordenamento jurídico brasileiro com a finalidade de simplificar a formação do título executivo judicial em circunstâncias nas quais a demonstração do direito alegado encontra suporte em prova material escrita, todavia despida de eficácia executiva.
+2. O procedimento monitório é repartido em duas fases distintas, sendo a primeira, não contraditória, instaurada a pedido daquele que se afirma credor com base em prova escrita. Fazendo uma cognição sumária dos fatos, e se entender que a prova material é suficiente para demonstrar o direito alegado, o magistrado determina a expedição de mandado para pagamento em dinheiro ou de entrega de coisa. A segunda fase instaura-se em razão da resistência daquele contra o qual é expedido o mandado injuntivo, por meio da oposição de embargos monitórios, processados sob o procedimento ordinário, com a garantia do pleno exercício do contraditório.
+3. A fase monitória (ou injuntiva) do procedimento existe até o limite do prazo para a resposta do réu, de sorte que o exame sobre a capacidade da prova documental para embasar a ação monitória só deve ocorrer até o momento em que proferida a ordem para a expedição do mandado inicial, no primeiro estágio do procedimento.
+4. Com a oposição dos embargos, adotado o procedimento ordinário, não se mostra razoável a ulterior extinção da demanda a pretexto da inaptidão da prova para aparelhar o pedido monitório.
+5. Agravo interno provido" (AgInt no REsp n. 1.343.258/SP, relator Ministro Raul Araújo, relator para acórdão Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 21/9/2017, DJe de 19/10/2017 - grifou-se).
+A respeito da ocorrência de julgamento surpresa e da prescrição, diante das premissas fáticas estabelecidas no acórdão, a reforma do aresto demandaria o reexame de matéria fático-probatória, providência inviável em recurso especial, haja vista o óbice da Súmula nº 7/STJ.
+Nesse sentido:
+"AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO DE FINANCIAMENTO DE IMÓVEL COM GARANTIA DE ALIENAÇÃO FIDUCIÁRIA. SISTEMA FINANCEIRO DA HABITAÇÃO. SENTENÇA DE IMPROCEDÊNCIA. AUSÊNCIA DE PROVAS DOS FATOS CONSTITUTIVOS DO DIREITO. JULGAMENTO ANTECIPADO DA LIDE. CONTRATO DE FINANCIAMENTO HABITACIONAL FIRMADO ANTES DA VIGÊNCIA DA LEI Nº 11.977/2009. CAPITALIZAÇÃO DE JUROS. ABUSIVIDADE NAS TAXAS. NECESSIDADE DE PRODUÇÃO DE PERÍCIA TÉCNICA. DETERMINAÇÃO DE DILAÇÃO PROBATÓRIA. CASSAÇÃO DA SENTENÇA. PRETENSÃO RECURSAL. NULIDADE POR NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. VIOLAÇÃO DE LEI FEDERAL. SÚMULAS 5 E 7 DO STJ. INCIDÊNCIA. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+2. O exame da pretensão recursal de reforma do acórdão recorrido exigiria a alteração das premissas fático-probatórias estabelecidas pelo acórdão, o que é vedado em sede de recurso especial, nos termos dos enunciados de Súmula 5 e 7 do STJ.
+3. Agravo interno não provido" (AgInt no AREsp n. 2.041.600/PR, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 27/6/2022, DJe de 1/7/2022).
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA E CONDENATÓRIA C/C REVISIONAL. CERCEAMENTO DE DEFESA. INEXISTÊNCIA. SUFICIÊNCIA PROBATÓRIA. SÚMULA 7/STJ. RAZÕES DISSOCIADAS DOS FUNDAMENTOS DO ACÓRDÃO. SÚMULA 284/STF. REEXAME DE FATOS E PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. SÚMULAS 5 E 7/STJ. INADMISSIBILIDADE. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. DISSÍDIO JURISPRUDENCIAL. SIMILITUDE FÁTICA NÃO DEMONSTRADA. DECISÃO MANTIDA.
+1. Ação declaratória e condenatória com pedido revisional.
+2. A jurisprudência do STJ é no sentido de que, sendo o juiz o destinatário da prova, à luz dos princípios da livre apreciação da prova e do livre convencimento motivado, o entendimento pelo julgamento antecipado da lide não acarreta cerceamento de defesa.
+3. Alterar o decidido no acórdão recorrido, acerca da ausência de cerceamento de defesa, por ter sido indeferida prova pericial, demandaria o reexame de fatos e provas, o que não é permitido ante o óbice da Súmula 7 desta Corte.
+4. O reexame de fatos e provas e a interpretação de cláusulas contratuais em recurso especial é inadmissível.
+(..)
+7. Agravo interno não provido" (AgInt no AREsp n. 2.021.821/SC, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 13/6/2022, DJe de 15/6/2022).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. PRESCRIÇÃO. DEMORA NA CITAÇÃO. ALEGAÇÃO DE INÉRCIA DA PARTE EXEQUENTE. NÃO CONFIGURAÇÃO. REVISÃO DAS CONCLUSÕES DO ARESTO RECORRIDO. INCIDÊNCIA DA SÚMULA N. 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO INTERNO DESPROVIDO.
+1. Nos termos da Súmula 106/STJ, "proposta a ação no prazo fixado para o seu exercício, a demora na citação, por motivos inerentes ao mecanismo da justiça, não justifica o acolhimento da arguição de prescrição ou decadência".
+2. No caso em estudo, a Corte de origem rejeitou a alegação de prescrição suscitada pela parte executada, consignando expressamente que a demora na citação não foi decorrente da conduta da exequente. Diante desse contexto, para alterar a conclusão do Tribunal de origem e acolher a pretensão recursal com vistas a atribuir à exequente a responsabilidade pela demora na citação da executada, reconhecendo a prescrição da pretensão executiva, é imprescindível o reexame do conjunto fático-probatório dos autos, o que não é admitido, no âmbito do recurso especial, conforme a Súmula 7/STJ.
+(..)
+5. Agravo interno desprovido" (AgInt no AREsp 1.781.578/DF, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 22/06/2021, DJe 25/06/2021).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. PRAZO PRESCRICIONAL. DEMORA NA CITAÇÃO. AUSÊNCIA DE DESÍDIA DO AUTOR. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. É firme o entendimento do STJ de que somente a inércia injustificada do credor caracteriza a prescrição intercorrente na execução, o que não se verifica no caso de demora no andamento do feito por motivos inerentes ao próprio mecanismo judiciário. Incidência da Súmula 83/STJ.
+2. No caso dos autos, o Tribunal de origem concluiu que a citação apenas não se efetivou no prazo legal por demora exclusiva do serviço judiciário, pois o autor tomou todas as providências necessárias para viabilizá-la, cumprindo com o dever processual que lhe competia. A alteração do entendimento firmado, no sentido de reconhecer que a demora na citação decorreu de desídia da parte autora, demandaria o revolvimento do suporte fático-probatório dos autos.
+3. Agravo interno a que se nega provimento" (AgInt no AREsp 1.778.946/GO, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 17/05/2021, DJe 18/06/2021).
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Não são cabíveis honorários recursais na hipótese em que há a anulação da sentença, pois essa providência torna sem efeito também o capítulo decisório referente aos honorários sucumbenciais.
+Publique-se.
+Intimem-se.
