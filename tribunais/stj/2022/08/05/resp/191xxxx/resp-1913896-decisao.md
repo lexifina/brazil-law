@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão do TJRJ assim ementado (e-STJ, fl. 1.077):
+APELAÇÃO. COBRANÇA. FORNECIMENTO DE ÓLEO DIESEL. COMPENSAÇÃO FINANCEIRA, COM BASE NA PORTARIA Nº 72, DA AGÊNCIA NACIONAL DO PETRÓLEO, AINDA QUE NÃO HAJA A RETIRADA DO PRODUTO PELO COMPRADOR, SALVO NA HIPÓTESE DE CANCELAMENTO EM TEMPO HÁBIL. REGIME DE PEDIDO MENSAL. REVELIA. PROCEDÊNCIA. COMPROVAÇÃO ACERCA DO VOLUME CONTRATADO NO PERÍODO RECLAMADO, A FIM DE LEGITIMAR AS QUANTIDADES COBRADAS NAS NOTAS DE DÉBITO, MEDIANTE HOMOLOGAÇÃO PELO ÓRGÃO FISCALIZADOR. CONSECTÁRIOS DA MORA. VALOR DEVIDO QUE DEVERÁ SER ACRESCIDO DE JUROS, A CONTAR DA CITAÇÃO E CORREÇÃO MONETÁRIA, A PARTIR DO INADIMPLEMENTO, POR SE TRATAR DE RESPONSABILIDADE CONTRATUAL. RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+Nas razões do especial (e-STJ, fls. 1.082/1.094), a recorrente aponta violação do art. 398 do CC/2002. Argumenta que o termo inicial dos juros moratórios deve coincidir com o momento em que notificou sua contraparte da imposição de multa contratual. Sustenta a aplicação do entendimento consolidado na Súmula n. 54/STJ.
+Juízo positivo de admissibilidade na origem (e-STJ, fls. 1.101/1.104).
+É o relatório.
+Decido.
+A irresignação não prospera.
+O TJRJ manteve o termo inicial dos juros moratórios na data da citação da empresa ré-requerida pelo fato de que o débito reivindicado resulta de responsabilidade civil de natureza contratual (e-STJ, fl. 1.080):
+No tocante aos consectários da mora relativo ao valor correto, acolhe-se parcialmente o pedido da apelante para declarar como devido aquele apontado nas cartas de débito a fls. 17/26, com juros de mora de 1%, a contar da citação e correção monetária, desde a data do inadimplemento, por se tratar de responsabilidade contratual.
+Nesses termos, o entendimento da Corte local encontra guarida na jurisprudência do STJ, segundo a qual " o s juros de mora incidem desde a citação nos casos de responsabilidade contratual" (AgInt no REsp n. 1.890.762/MT, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 23/5/2022, DJe de 26/5/2022). No mesmo sentido, ainda: AgInt no AgInt no AREsp n. 1.936.844/RJ, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 27/6/2022, DJe de 29/6/2022; AgInt no AREsp n. 2.053.782/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 27/6/2022, DJe de 29/6/2022; AgInt nos EDcl no REsp n. 1.982.034/MA, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 23/6/2022, DJe de 28/6/2022; AgInt no AgInt no AREsp n. 1.948.561/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 9/5/2022, DJe de 11/5/2022; EDcl no AgInt no AREsp n. 1.508.274/ES, relator Ministro Raul Araújo, Quarta Turma, julgado em 9/5/2022, DJe de 13/6/2022; dentre muitos outros.
+Incide o óbice da Súmula n. 83/STJ.
+Ante o exposto, NÃO CONHEÇO do recurso especial.
+Publique-se. Intimem-se.
