@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "a", da CF) interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo que foi julgado conforme a seguinte ementa (fl. 64, e-STJ):
+Apelação Cível. Direito Administrativo. Qüinqüênio - Servidores ativos - Cálculo sobre os vencimentos, compostos do padrão mais as vantagens efetivamente incorporadas, ex vi da inteligência ao artigo 178 da LC nº 180/78 (servidor em atividade) - Sentença reformada - Vencido o Relator, com declaração no bojo e apontamento da posição vencedora determinando a incidência na integralidade, afastada a recíproca sobre o mesmo fundamento (qüinqüênio e sexta-parte).
+Dá-se provimento ao recurso interposto, vencido o Relator.
+A Fazenda Públicarecorrente alega que ocorreu violação do art.1º-F da Lei 9.494/1997, na redação dada pela Lei 11.960/2009. Afirma que o acórdão recorrido indevidamente afastou a aplicação do regramento de lei previsto para a correção monetária. Aduz, em suma (fl. 183, e-STJ):
+Na presente demanda, busca a recorrida, servidora estadual, o reconhecimento de direito à percepção de pagamento de saldo apurado pelo E. Tribunal de Justiça Paulista, a titulo de diferenças salariais.
+A procedência da ação decretada em primeira instância foi mantida pelo v. acórdão recorrido, sendo a recorrente condenada ao pagamento de juros de mora de 0,5% ao ano, além da correção monetária das parcelas atrasadas.
+O v. aresto expressamente afastou a aplicação da Lei Federal nº 11.960/09 ao dispor que estaria sendo aplicada a Deliberação CADIP  tempus regit actum, estando presente, portanto, o requisito do prequestionamento a autorizar a interposição do recurso especial.
+(..)
+Portanto, a partir de 30 de junho de 2009 (data da publicação e vigência da Lei Federal 11.960/2009), a Fazenda do Estado de São Paulo apenas poderá ser condenada judicialmente a aplicar uma única vez, para fins de correção monetária, remuneração do capital e compensação da mora, os índices oficiais de remuneração básica e juros aplicados à caderneta de poupança, previstos na Lei Federal 8.177/91.
+Contrarrazões apresentadas às fls. 117-125, e-STJ.
+Sobrestado o feito para eventual adequação do julgado, na forma do art. 1.040, II, do CPC/2015, sobreveio decisão que obteve a seguinte ementa (fls. 148, e-STJ):
+Servidor Público Estadual, Cômputo de adicional por quinquênios. Base para o cálculo. Critério para juros e correção monetária incidente sobre as verbas devidas. Precedente impositivo do E. Supremo Tribunal Federal (Tema nº 810). Entendimento nesta C. Câmara. Adequação que se faz.
+Decisão de admissibilidade às fls. 154-155, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 11 de julho de 2022.
+A irresignação merece prosperar.
+O Tribunal de origem, ao dirimir a controvérsia, assim se manifestou (fls. 150-151, e-STJ):
+(..)resolvida a inconstitucionalidade do § 12 do artigo 100 da Constituição Federal, introduzido pela Emenda Constitucional 62/09 (e, por arrastamento, do artigo 5º, da Lei nº 11.960/09), em decorrência do julgamento da ADI 4357 e ADI 4425, a correção monetária será pelo IPCA-E (Índice de Preços ao Consumidor Amplo Especial) desde a data em que deveria ter sido paga cada uma das parcelas.
+Ainda na forma do julgamento no E. Supremo Tribunal Federal, os juros de mora serão os considerados para a remuneração oficial da caderneta de poupança, mas apenas e tão somente no tocante às relações jurídicas não-tributárias, como se dá aqui e tal qual está no art. 1º-F da Lei Federal nº 9.494/97, com a redação dada pela Lei Federal nº 11.96012009.
+Nessa ordem de ideias, reedito ser caso de fixar que os juros e atualização monetária observarão o decidido no Tema 810 de Repercussão Geral, peculiaridade que afasta o decidido no E. Superior Tribunal de Justiça quanto ao Tema 905. (grifei)
+Verifica-se que a decisão recorrida não está em sintonia com o atual posicionamento da Primeira Seção do STJ - REsp 1.495.146/MG (Tema 905) -, proferido sob o rito dos Recursos Repetitivos, in verbis:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 02/STJ. DISCUSSÃO SOBRE A APLICAÇÃO DO ART. 1º-F DA LEI 9.494/97 (COM REDAÇÃO DADA PELA LEI 11.960/2009) ÀS CONDENAÇÕES IMPOSTAS À FAZENDA PÚBLICA. CASO CONCRETO QUE É RELATIVO A INDÉBITO TRIBUTÁRIO. TESES JURÍDICAS FIXADAS.
+1. Correção monetária: o art. 1º-F da Lei 9.494/97 (com redação dada pela Lei 11.960/2009), para fins de correção monetária, não é aplicável nas condenações judiciais impostas à Fazenda Pública, independentemente de sua natureza.
+1.1 Impossibilidade de fixação apriorística da taxa de correção monetária.
+No presente julgamento, o estabelecimento de índices que devem ser aplicados a título de correção monetária não implica pré-fixação (ou fixação apriorística) de taxa de atualização monetária. Do contrário, a decisão baseia-se em índices que, atualmente, refletem a correção monetária ocorrida no período correspondente. Nesse contexto, em relação às situações futuras, a aplicação dos índices em comento, sobretudo o INPC e o IPCA-E, é legítima enquanto tais índices sejam capazes de captar o fenômeno inflacionário.
+1.2 Não cabimento de modulação dos efeitos da decisão.
+A modulação dos efeitos da decisão que declarou inconstitucional a atualização monetária dos débitos da Fazenda Pública com base no índice oficial de remuneração da caderneta de poupança, no âmbito do Supremo Tribunal Federal, objetivou reconhecer a validade dos precatórios expedidos ou pagos até 25 de março de 2015, impedindo, desse modo, a rediscussão do débito baseada na aplicação de índices diversos. Assim, mostra-se descabida a modulação em relação aos casos em que não ocorreu expedição ou pagamento de precatório.
+2. Juros de mora: o art. 1º-F da Lei 9.494/97 (com redação dada pela Lei 11.960/2009), na parte em que estabelece a incidência de juros de mora nos débitos da Fazenda Pública com base no índice oficial de remuneração da caderneta de poupança, aplica-se às condenações impostas à Fazenda Pública, excepcionadas as condenações oriundas de relação jurídico-tributária.
+3. Índices aplicáveis a depender da natureza da condenação.
+3.1 Condenações judiciais de natureza administrativa em geral.
+As condenações judiciais de natureza administrativa em geral, sujeitam-se aos seguintes encargos: (a) até dezembro/2002: juros de mora de 0,5% ao mês; correção monetária de acordo com os índices previstos no Manual de Cálculos da Justiça Federal, com destaque para a incidência do IPCA-E a partir de janeiro/2001; (b) no período posterior à vigência do CC/2002 e anterior à vigência da Lei 11.960/2009: juros de mora correspondentes à taxa Selic, vedada a cumulação com qualquer outro índice; (c) período posterior à vigência da Lei 11.960/2009: juros de mora segundo o índice de remuneração da caderneta de poupança; correção monetária com base no IPCA-E.
+3.1.1 Condenações judiciais referentes a servidores e empregados públicos.
+As condenações judiciais referentes a servidores e empregados públicos, sujeitam-se aos seguintes encargos: (a) até julho/2001: juros de mora: 1% ao mês (capitalização simples); correção monetária: índices previstos no Manual de Cálculos da Justiça Federal, com destaque para a incidência do IPCA-E a partir de janeiro/2001; (b) agosto/2001 a junho/2009: juros de mora: 0,5% ao mês; correção monetária: IPCA-E; (c) a partir de julho/2009: juros de mora: remuneração oficial da caderneta de poupança; correção monetária: IPCA-E.
+3.1.2 Condenações judiciais referentes a desapropriações diretas e indiretas.
+No âmbito das condenações judiciais referentes a desapropriações diretas e indiretas existem regras específicas, no que concerne aos juros moratórios e compensatórios, razão pela qual não se justifica a incidência do art. 1º-F da Lei 9.494/97 (com redação dada pela Lei 11.960/2009), nem para compensação da mora nem para remuneração do capital.
+(..)
+6. Recurso especial não provido. Acórdão sujeito ao regime previsto no art. 1.036 e seguintes do CPC/2015, c/c o art. 256-N e seguintes do RISTJ.
+(REsp 1.495.146/MG, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, DJe 2/3/2018, grifei.)
+Assim sendo, considerando que o aresto versa sobre subsídios e verbas salariais de servidor público, deve a instância original aplicar o precedente vinculante conforme as particularidades temporais do caso, nos seguintes moldes:
+As condenações judiciais referentes a servidores e empregados públicos, sujeitam-se aos seguintes encargos: (a) até julho/2001: juros de mora: 1% ao mês (capitalização simples); correção monetária: índices previstos no Manual de Cálculos da Justiça Federal, com destaque para a incidência do IPCA-E a partir de janeiro/2001; (b) agosto/2001 a junho/2009: juros de mora: 0,5% ao mês; correção monetária: IPCA-E; (c) a partir de julho/2009: juros de mora: remuneração oficial da caderneta de poupança; correção monetária: IPCA-E.
+Ante o exposto, dou parcial provimento ao Recurso Especial, nos termos da fundamentação.
+Publique-se.
+Intimem-se.
