@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 02/08/2022 a 08/08/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno manejado por Michele Priscilla Duarte Presas Miguezdesafiando decisão pela qual neguei provimento ao agravo em recurso especial, por entender quea alteração das conclusões adotadas pela Corte de origem demandaria novo exame do acervo fático-probatório constante dos autos (Súmula 7/STJ).
+Em suas razões, a parte agravante sustenta que: (I) a questão é estritamente de direito, pois não há qualquer dúvida de que a morte do policial ocorreu quando este se encontrava de serviço, motivo pelo qualpossui direito àindenização,na forma do que decidiu o STF no Tema932 de Repercussão Geral e (II)"a Tese do Tema 932 é aplicável a nosso caso concreto, pois a atividade desenvolvida pelo policial é de risco extraordinário, sendo isto o que interessa, e não o tipo de vínculo de trabalho" (fl. 658).
+Impugnação às fls. 669/670.
+É o relatório.
+EMENTA
+ADMINISTRATIVO. RESPONSABILIDADE CIVIL. AGRAVO INTERNO. AÇÃO INDENIZATÓRIA.MORTE DE POLICIAL MILITAR. AUSÊNCIA DE OMISSÃO ESPECÍFICA DO ESTADO. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Tendo a Corte local afirmado a inexistência de omissão específica do Estado, especialmente porque a situação fática ocorreu em momento no qual a vítima estava fora do estabelecimento policial e em intervalo destinado à refeição, eventual discordância com as conclusões adotadas demandaria incursão no contexto probatório existente nos autos, providência que encontra óbice no teor da Súmula 7/STJ.
+2. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator):Em que peseaos argumentosdeduzidos no presente recurso, a decisão agravada não merece reparos.
+Com efeito, tal como constatou a decisão alvejada,o Tribunal de origem julgou improcedente o pedido de indenização, pelos seguintes fundamentos (fls. 222/224):
+Conquanto lamentável o episódio, resultado da violência que impera em nossa cidade, não vislumbro responsabilidade do Estado a ensejar o pagamento de dano moral, indenização essa que, em suma, recai sobre toda a sociedade.
+O quadro fático em que se deu a morte foi a seguinte: o marido da autora iria lanchar no Posto Ypiranga, quando, em companhia de um colega, observou uma pessoa em atitude suspeita. E antes mesmo de sair da viatura, foi atingido por um tiro.
+A vítima, portanto, não estava em um momento de confronto, não havia tiroteio nem foi enviada a um local onde havia alguma incursão policial. Ele estava no intervalo destinado à sua refeição.
+Haveria responsabilidade do Estado se, nessas circunstâncias, fosse obrigatório, por lei ou regulamento, necessidade de uso de equipamentos de proteção individual.
+Mas não se citou qualquer infração a alguma norma que obrigasse o policial militar, quando fosse lanchar, ao uso de colete, capacetes ou carro blindado.
+Sim, a Cidade de Deus é um local perigoso, mas isso também ocorre em outras comunidades onde há uma UPP. Mas qual local do Rio de Janeiro pode se gabar de não oferecer algum risco
+Há outro dado a considerar: ainda que usasse capacete e colete à prova de balas, isso poderia ser ineficaz, pois o valoroso soldado foi atingido no olho esquerdo. E se a viatura fosse blindada, ao descer para revistar o suspeito seria alvo fácil.
+O art. 91, §11, da Constituição do Estado encerra norma programática. Os equipamentos ali referidos devem ser definidos em lei ou regulamento específico.
+Outrossim, não vem ao caso argumentar com o Tema 932 do STF. O alvo desse entendimento são as relações de emprego, eminentemente privadas, não se aplicando ao servidor militar, que possui regramento próprio.
+Enfim, não há uma omissão específica do Estado no presente caso.
+Por fim, o Estado não é insensível à perda sofrida pela autora e por isso a contemplou com pensão especial, prevista em lei noticiada nas contrarrazões.
+Assim, tendo a Corte local afirmado a inexistência de omissão específica do Estado, especialmente porque a situação fática ocorreu em momento no qual a vítima estava fora do estabelecimento policial e em intervalo destinado à refeição, eventual discordância com as conclusões adotadas demandaria incursão no contexto probatório existente nos autos, providência que encontra óbice no teor da Súmula 7/STJ. A propósito:
+PROCESSUAL CIVIL. ADMINISTRATIVO. RESPONSABILIDADE CIVIL DO ESTADO. ACIDENTE DE TRÂNSITO. ALEGADA VIOLAÇÃO DO ART. 1022 DO CPC/2015. NÃO VERIFICADA. AUSÊNCIA DE PREQUESTIONAMENTO. REEXAME DE FATOS E PROVAS. INCIDÊNCIA DA SÚMULA N. 7 DO STJ.
+I - Trata-se de ação objetivando indenização por danos morais e materiais decorrentes de acidente em rodovia federal, em virtude de buraco existente na pista, que acarretou a perda total de seu veículo. A sentença julgou os pedidos procedentes. O Tribunal a quo reformou a sentença para afastar a condenação em indenização por danos morais.
+II - Não há violação do art. 535 do CPC/1973 (art. 1.022 do CPC/2015) quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a fundamentadamente (art. 165 do CPC/1973 e art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+III - No mérito, verifica-se que o acórdão recorrido não analisou o conteúdo de nenhum dos dispositivos legais apontados no presente recurso especial, quais sejam, o art. 1.013 do CPC/2015 e os arts.
+43, 186 e 927 do Código Civil. Além disso, os embargos de declaração opostos na origem sequer pleitearam sua análise.
+IV - Esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+V - Conforme entendimento desta Corte, não há incompatibilidade entre a inexistência de ofensa ao art. 1.022 do CPC/2015 e a ausência de prequestionamento, com a incidência do enunciado n. 211 da Súmula do STJ quanto às teses invocadas pela parte recorrente, que, entretanto, não são debatidas pelo Tribunal local, por entender suficientes para a solução da controvérsia outros argumentos utilizados pelo colegiado. Nesse sentido: AgInt no AREsp n. 1.234.093/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 24/4/2018, DJe 3/5/2018; AgInt no AREsp n. 1.173.531/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 20/3/2018, DJe 26/3/2018.
+VI - Ainda que assim não o fosse e, caso superado tal óbice, note-se que as alegações recursais, que versam a respeito (i) da suposta ausência de pedido, por parte do DNIT, de exclusão da condenação por danos morais e (ii) da ocorrência de danos morais na hipótese dos autos, vão de encontro às convicções do Tribunal a quo.
+VII - Para rever tal posição e interpretar os dispositivos legais indicados como violados, seria necessário o reexame desses mesmos elementos fático-probatórios, o que é vedado no âmbito estreito do recurso especial, motivo pelo qual, ainda que ultrapassado o óbice da ausência de prequestionamento, incidiria na hipótese, a Súmula n. 7/STJ.
+VIII - Agravo interno improvido.
+(AgInt no AREsp n. 1.895.707/MS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 14/2/2022, DJe de 16/2/2022.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. DANO MORAL E ESTÉTICO. SERVIDOR PÚBLICO MUNICIPAL. ACIDENTE DE TRÂNSITO NO TRAJETO PARA O TRABALHO. NÃO COMPROVAÇÃO DE NEXO CAUSAL. INVERSÃO DO JULGADO. INVIABILIDADE. REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO INTERNO DO PARTICULAR A QUE SE NEGA PROVIMENTO.
+1. O tribunal de origem reconheceu, mediante a análise das provas dos autos, que o apelante não logrou comprovar os fatos constitutivos de seu direito, sendo inviável o pedido de responsabilização civil municipal. Mostra-se, portanto, inviável rever tais aspectos neste Superior Tribunal por incidir o óbice da Súmula 7/STJ.
+2. Agravo Interno do Particular desprovido.
+(AgInt no AREsp n. 1.523.787/SP, relator Ministro Manoel Erhardt (Desembargador Convocado do Trf5), Primeira Turma, julgado em 25/10/2021, DJe de 27/10/2021.)
+ANTE O EXPOSTO, nega-se provimento ao agravo interno.
+É o voto.
