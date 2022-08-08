@@ -1,0 +1,56 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 02/08/2022 a 08/08/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Og Fernandes e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator): Trata-se de agravo interno de decisão de minha relatoria assim ementada:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. CÁLCULOS. PRECLUSÃO. OFENSA À COISA JULGADA. REEXAME DE MATÉRIA DE FATO. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+A agravante insurge-se contra o óbice da Súmula n. 7/STJ, sustentando a desnecessidade do reexame de matéria de fato para verificação da preclusão e reconhecimento de ofensa à coisa julgada. Assevera (e-STJ, fls. 651/655):
+Inobstante isso, não se desconhece o entendimento desta Corte no sentido de que a reanálise dos fatos e provas para se verificar a ocorrência ou não da preclusão não seria viável em recurso especial, por esbarrar no óbice da Súmula 7.
+Ocorre que essa não é a pretensão recursal do agravante. O que se objetiva no recurso especial é que, com base nas premissas fáticas estabelecidas pelo juízo regional na decisão recorrida, este Tribunal Superior dê solução jurídica diversa, isto é, que houve preclusão.
+Trata-se de sutil, mas importante diferença. O agravante não pretende a alteração da conclusão fática alcançada pelo juízo a quo, mas tão somente que esta Corte, utilizando-se dessa conclusão fática, verifique que ocorreu a preclusão alegada.
+Como se extrai do acórdão recorrido, a parte agravada, ao ser intimada para fins do art. 535 do CPC, apresentou impugnação ao cumprimento de sentença, alegando excesso de execução e incorreção do termo inicial dos juros de mora, insurgindo-se quanto ao índice de correção monetária e alegando que os honorários deveriam ser calculados sobre o valor total devido.
+Ao analisar a impugnação da agravada, o juízo de primeiro grau a acolheu apenas para afastar o índice do IPCA-E como fator de correção monetária, rejeitando-a em relação às demais matérias, inclusive no tocante à insurgência aos honorários sucumbenciais.
+Contra essa decisão, ambas as partes opuseram embargos de declaração, mas não houve recurso para a segunda instância. Logo, as matérias arguidas pela agravada em sua impugnação ao cumprimento de sentença foram enfrentadas e rejeitadas na decisão que julgou a impugnação e, por não ter havido recurso contra essa decisão, operou a preclusão quanto às matérias.
+(..)
+Logo, mesmo que se entenda que não tenha havido enfrentamento da matéria relativa aos honorários sucumbenciais, operou a preclusão ao deixar a União de opor embargos de declaração no momento oportuno para saneamento de eventual omissão, sendo certo que é vedado ao juízo ex officioanalisar a matéria após o escoamento do prazo recursal.
+Diante desses argumentos, verifica-se que não há que se falar que o recurso especial interposto pelo agravante demanda o reexame de fatos e provas, de modo que inexiste óbice da Súmula 7 do STJ, uma vez que a pretensão recursal objetiva unicamente o reenquadramento jurídico dos fatos delineado no acórdão regional.
+(..)
+A jurisprudência desta colenda Corte entende que, quando a verificação de violação da coisa julgada dependa apenas da simples leitura da sentença e do acórdão lançados nos autos, não há revolvimento de fatos e provas.
+(..)
+Essa é justamente a hipótese dos autos. Para constatação da ofensa à coisa julgada, basta a mera leitura da sentença. No presente caso, a sentença declarou a nulidade do aumento da Taxa de Ocupação dos exercícios 2007 e seguintes e condenou a União a recalcular a taxa de ocupação de 2007 e exercícios seguintes e a restituir ao agravante os valores pagos indevidamente.
+(..)
+Dessarte, verifica-se que o acórdão regional viola a coisa julgada, porquanto modificou a base de cálculo dos honorários sucumbenciais que foi fixada na sentença transitada em julgada.
+Requer a reconsideração da decisão agravada ou a sua apreciação pelo órgão Colegiado.
+Houve impugnação.
+É o relatório.
+EMENTA
+ADMINISTRATIVO E PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO ADMINISTRATIVO. FISCALIZAÇÃO. MULTA. AFASTAMENTO. INADMISSIBILIDADE. REEXAME DE MATÉRIA DE FATO. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Inadmissível o recurso especial que pretenda debater questões que envolvem dilação probatória fundamentada no contexto fático dos autos. Neste quadro, é inviável analisar a tese defendida no Recurso Especial, a qual busca afastar a preclusão reconhecida no processo originário e a suposta ofensa à coisa julgada quanto ao valor objeto de cumprimento de sentença, em razão da incidência do enunciado da Súmula 7 do STJ.
+2. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator): A insurgência não prospera.
+Quanto à pretensão envolvendo o afastamento da preclusão e o reconhecimento de suposta ofensa à coisa julgada, quanto ao valor objeto do cumprimento de sentença, inafastável a incidência da Súmula n. 7/STJ, diante da necessidade de análise dos autos do processo originários.
+No caso concreto, o Tribunal Regional realizou juízo de natureza fática para estabelecer não ter havido interposição de recurso no momento adequado, operando-se a preclusão, bem assim para reconhecer a regularidade dos cálculos que compõem o valor objeto de cumprimento de sentença.
+Tal juízo não pode ser modificado sem nova apreciação de matéria fática, daí a incidência do óbice sumular ora questionado.
+Como a parte agravante não infirmou os fundamentos da decisão agravada, seu teor deve ser reiterado:
+Ao reconhecer a regularidade do cumprimento de sentença, quanto ao valor dos honorários advocatícios, o Tribunal de origem assim se manifestou (e-STJ, fls. 107/109):
+Em que pesem ponderáveis os argumentos deduzidos pelo agravante, não há razão para a reforma da decisão, que deve ser mantida pelos seus próprios e jurídicos fundamentos, porque:
+(1) se o feito deveria ou não ter sido remetido à contadoria, isso é questão preclusa que já não poderia mais ser questionada no atual estágio processual, pois não houve interposição de recurso pelo agravante à época. O fato é que o processo efetivamente foi remetido à contadoria para elaboração de planilha de apuração dos valores efetivamente devidos, demonstrando que os cálculos apresentados pelo exequente não restaram incontroversos;
+(2) aparentemente, os critérios utilizados pela contadoria e no Sistema Projef Web são os mesmos, sendo que o agravante não aponta no que consiste o erro supostamente existente no cálculo da primeira, o que impossibilita a cognição do recurso no ponto. Não fosse isso, havendo alguma diferença no valor dosjuros entre o cálculo obtido pelo recorrente no programa em questão e o da contadoria judicial, é razoável o entendimento manifestado pelo juízo a quo no sentido de que este último deve prevalecer, a teor do que consta no próprio site do programa Projef Web, in verbis: "O programa PROJEF WEB foi desenvolvido a título de sugestão no intuito de possibilitar que o Autor apresente uma conta no momento do ajuizamento e/ou da execução do processo. Contudo, salientamos que sempre prevalecerá o entendimento de cada Juízo nas questões pertinentes aos cálculos judiciais. Pelo fato desse programa conter inúmeras opções de critérios de correção monetária e de juros moratórios, o usuário ficará inteiramente responsável pelas suas escolhas. A simples utilização do programa não implica certeza absoluta no seu resultado final e nem aceitação compulsória por parte do Magistrado." (https://www2. jfrs. jus. br/projef-web-programa-on-line-para-calculos-judiciais/)
+(3) ao contrário do que quer fazer crer o agravante, a questão relativa aos honorários sucumbenciais ainda não havia sido apreciada. Ademais, irretocável o entendimento do juízo de origem a respeito da matéria,nesses termos:
+Acerca da da forma de apuração dos honorários sucumbenciais, equivoca-se a parte exequente. Alude como sendo:
+"O valor da condenação não se resume apenas aos valores pagos a mais pelo exequente e que são executados no presente cumprimento de sentença.
+O valor da condenação abrange as diferenças entre os valores que seriam devidos segundo o critério de cálculo que era utilizado antes do ingresso da presente ação e os valores recalculados de acordo com a sentença, isto é, aplicando-se o IPCA-E sobre o valor da taxa deocupação de 2006."
+Os critérios de apuração pretendidos pela exequente não constam do título judicial. A sentença transitada em julgado foi proferida com o seguintejulgamento (evento 19):
+"Ante o exposto, com base no art. 5º, incs. LIV, LV, da CF/88 c/c art. 28 da Lei n. 9.784/99 e art. 1º do Decreto-lei n. 2.398/87, confirmo a antecipação de tutela e JULGO PROCEDENTE O PEDIDO para:
+1) Declarar a nulidade do aumento da Taxa de Ocupação do(s)exercício(s) 2007 e seguintes;
+2) Condenar a União a recalcular a taxa de ocupação de 2007 e exercícios seguintes, utilizando a base de cálculo cobrada no exercício 2006, devidamente atualizada pelo IPCA-E;
+3) Condenar a União a restituir os valores pagos indevidamente,devendo incidir os índices oficiais de remuneração básica e juros aplicados à caderneta de poupança, desde a data do pagamento indevido, conforme artigo 1º-F da Lei n. 9.494/97;
+4) Condenar a União ao pagamento das custas e dos honorários advocatícios, os quais fixo, considerando o grau de zelo profissional,o lugar da prestação do serviço, a natureza e importância da causa, o trabalho realizado pelo advogado e o tempo exigido para o seuserviço, em 10% (dez por cento) sobre o valor da condenação,nos termos do artigo 20, § 4º, do CPC." (grifo nosso)
+O recálculo da taxa de ocupação decorre da declaração da nulidade do aumento, não sendo base para os cálculos dos honorários advocatícios, como quer o credor. Portanto, o valor da condenação abrange apenas os valores a serem restituídos.
+Registro que a decisão do evento 137 dos autos originários (juntada no evento 6 destes autos) em nada interfere no presente julgamento, pois reconsiderou a decisão ora agravada apenas quanto à necessidade de realização de encontro de contas, em conformidade com a TABELA 2 do evento3 7 dos autos originários, revogando a ordem de remessa à contadoria e acolhendo os cálculos judiciais do evento 114 dos autos originários. Por isso,eventual insurgência em relação ao decisum deverá ser objeto de recurso próprio, sendo inviável a cognição das alegações deduzidas pelo agravante no evento 9 destes autos.
+Nesse diapasão, a decisão agravada não merece qualquer reproche, devendo ser mantida em sua integralidade.
+Nesse contexto, a modificação das conclusões do acórdão recorrido a fim de acolher a pretensão do agravante para reconhecer a suposta irregularidade do valor dos honorários advocatícios, objeto do cumprimento de sentença, demandaria o revolvimento do acervo fático-probatório dos autos, vedado em recurso especial, a teor da Súmula n. 7/STJ.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
