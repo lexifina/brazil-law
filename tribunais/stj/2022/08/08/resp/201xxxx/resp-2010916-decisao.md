@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se deRecurso Especial (art. 105, III, "a", da CF) contra acórdão cuja ementa é a seguinte:
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA CONTRA A FAZENDA PÚBLICA. SINDSAÚDE. DEVOLUÇÃO DE CONTRIBUIÇÕES PREVIDENCIÁRIAS. PRESCRIÇÃO. INTERRUPÇÃO. LIMITAÇÃO TEMPORAL LEI Nº 8.688/93 E MP Nº 560/94. CABIMENTO. DECOTE DEVIDO. CORREÇÃO MONETÁRIA E JUROS DE MORA.CONTAGEM SIMPLES. ÍNDICES APLICÁVEIS À CORREÇÃO DE TRIBUTOS DISTRITAIS. RE 870.947 E REsp 1.492.221/PR.
+1. O ajuizamento de execução coletiva pelo sindicato interrompe a contagem do prazo prescricional, que recomeça a correr pela metade, a partir do último ato processual da causa interruptiva, nos termos do art.9º do Dec. 20.910/32. Prescrição afastada.
+2. Não há ofensa à coisa julgada quando observada, para o cálculo da dívida no cumprimento individual, a limitação temporal relativa à constitucionalidade da aplicação, no âmbito distrital, das alíquotas previstas na Lei Federal n. 8.688/93 e na MP. 540/94, devendo, pois, ser reconhecido o excesso da execução se inobservado tal período.
+3. Os juros moratórios devem corresponder ao índice fixado no título executivo judicial, ou seja, 0,5% (meio por cento) ao mês, a partir do trânsito em julgado. Por outro lado, o parâmetro para correção monetária deve seguir as teses fixadas pelo STJ no REsp n. 1.495.146/MG (Tema 905) a respeito dos índices aplicáveis às condenações judiciais de natureza tributária.
+O recorrente sustenta que ocorreuviolação dos arts. 1º e 9º do Decreto 20.910/1932, e 219 do CPC/1973. Alega:
+Conforme noticiado, entendeu o E. TJDFT que não teria se operado a prescrição da pretensão de executar individualmente a sentença coletiva, tendo em vista que (i) a execução coletiva fora requerida dentro do prazo prescricional; e (ii) a execução coletiva teria interrompido o prazo para a execução individual, o qual apenas seria retomado, pela metade, após o último ato (trânsito em julgado) da execução coletiva. Todavia, tal entendimento afigura-se equivocado e acaba por malferir o art. 1º do Decreto nº 20.910/32, além de destoar do entendimento fixado na Súmula 150/STF e nas teses dos Temas 877 e 515, consoante se passa a demonstrar.
+(..)
+Isso porque a instauração do módulo processual de cumprimento coletivo de sentença não tem aptidão de interromper ou suspender o prazo prescricional para exercício da pretensão individual de cumprimento de sentença de obrigação de pagar, direito que nasce com o trânsito em julgado da ação coletiva e não é modificado, alterado ou interrompido pelos atos processuais praticados no cumprimento coletivo da mesma sentença.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 8.7.2022.
+Preliminarmente, é possível aferir que as controvérsias apresentadas mantêm grau de interdependência, já que se aduzem, respectivamente, o transcurso integral do lustro prescricional e a inaptidão do cumprimento de sentença coletivo para interromper o decurso do prazo prescricional.
+Quanto aos pontos, assentou o Tribunal de origem fundamentos suficientes a manter a decisão prolatada e que não foram devidamente enfrentados pela parte recorrente nas razões de Recurso Especial, de forma a atrair incidência da Súmula 283/STF ("É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles").
+Consignou-se no aresto proferido na origem:
+A execução coletiva ajuizada pelo SINDSAÚDE foi proposta em 18/07/2010, devido à demora na entrega das fichas financeiras dos substituídos pelo ente distrital, tendo o Distrito Federal oposto os embargos à execução 2010.01.1.197963-4 (PJe 0063796-44.2010.8.07.0001), os quais aguardam julgamento.
+A agravada, como outros credores, figurava como beneficiária da execução movida pelo Sindicato, a qual ainda não foi ultimada, porquanto, como dito, pendente o julgamento dos embargos à execução.
+Nestas circunstâncias, o mero desmembramento procedimental não afasta a constatação de que a prescrição se encontra suspensa, haja vista o disposto no art. 9º, do Dec. 20.910/32, segundo o qual a contagem do prazo prescricional para a execução individual, volta a fluir pela metade, a partir do último ato processual da causa interruptiva.
+Portanto, a agravada/credora não permaneceu inerte, pois fazia parte da execução coletiva. Com efeito, antes de ser determinada, nos autos da execução coletiva, a distribuição de demanda própria, não corre em desfavor dos substituídos o prazo prescricional para o ajuizamento da pretensão executória individual.
+(..)
+Além disso, em 3/4/2021, foi proferida sentença nos embargos à execução n.0063796-44.2010.8.07.0001, afastando-se as teses suscitadas pelo executado, inclusive em relação à prescrição da pretensão do Sindicato.
+Assim, não há como afirmar que exista prejudicialidade externa entre as demandas coletiva e individual a ensejar a pretendida suspensão processual, já que a questão referente ao prazo prescricional para o cumprimento coletivo da sentença já foi dirimida pelo Juízo competente, sem atribuição de efeito suspensivo aos recursos interpostos naqueles autos.
+Os fundamentos lançados não foram objeto de expresso combate pela parte recorrente na insurgência apresentada. O Tribunal assentou particularidades pelas quais entendeu haver razão suficiente para manutenção da suspensão do transcurso do prazo prescricional.
+A propósito:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. AGENTE DE COMUNITÁRIO DE SAÚDE. PISO SALARIAL NACIONAL.TESES RECURSAIS QUE SUSTENTAM A OFENSA AOS ARTIGOS 9º-C, DA LEI 12.994/2014, E 21, PARÁGRAFO ÚNICO, DA LC 101/2000. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. FUNDAMENTAÇÃO AUTÔNOMA NÃO IMPUGNADA. SÚMULAS 283 E 284 DO STF.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A falta de prequestionamento das teses vinculadas à suposta violação dos artigos 9º-C da Lei nº 12.994/2014 e 21, parágrafo único, da LC nº 101/2000, a despeito da oposição de embargos de declaração, impede o seu conhecimento, a teor da Súmula 211/STJ.
+3. A ausência de impugnação a fundamento que, por si só, respalda o resultado do julgamento proferido pela Corte de origem caracteriza deficiência na argumentação recursal e, por conseguinte, impede a admissão do apelo especial. Incide ao caso as Súmulas 283 e 284 do STF.
+4.Agravo interno não provido.
+(AgInt no REsp 1.944.116/CE, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 15/12/2021)
+Ademais, a revisão do julgado quanto a esse ponto demanda revolvimento do acervo fático-probatório dos autos, o que é inviável em Recurso Especial, ante a incidência da Súmula 7/STJ.
+Consubstanciado o que previsto no Enunciado Administrativo 7/STJ, condeno o recorrente ao pagamento de honorários advocatícios em 10% (dez por cento) sobre o valor total da verba sucumbencial fixada nas instâncias ordinárias, com base no § 11 do art. 85 do CPC/2015.
+Saliento que os §§ 3º e 11 do art. 85 do CPC/2015 estabelecem teto de pagamento de honorários advocatícios quando a Fazenda Pública for sucumbente, o que deve ser observado quando a verba sucumbencial é acrescida na fase recursal.
+Diante do exposto, não conheçodo Recurso Especial.
+Publique-se.
+Intimem-se.
