@@ -1,0 +1,37 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido liminar, impetrado em benefício de ANDRE ROBERTO MOREIRA GOSCH, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA, nos autos da Ação Penal n.033334-08.2021.8.24.0018.
+Extrai-se dos autos que, em 22/6/2022, o paciente foi condenado, em primeiro grau, pela prática dos crimes previstosno art. 33,caput, da Lei n. 11.343/06, no art. 180, caput, do Código Penal,e no art. 12 da Lei n.10.826/03 (tráfico de drogas, receptação e posse ilegal de arma de fogo), às penas de 7 anos de reclusão, em regime inicial fechado, e de 1 ano de detenção, em regime prisional aberto, e multa.
+A defesa interpôs recurso de apelação o qual, segundo afirma o impetrante conta com parecer favorável do Ministério Público eestá pendente de julgamento.
+Daí o presente writ, no qual o impetrante afirma que, embora a questão não tenha sido examinada pelo Tribunal de origem, deve ser analisada na presente impetração, dada a evidente violação a direito do paciente.
+Sustenta a existência de violação de domicílio por parte da polícia militar, que aponta ter entrado na residência do paciente sem mandado judicial, sem autorização do morador e sem que fosse demonstrada a existência de fundadas razões aptas a autorizar a entrada.
+Alega que não restou demonstrada a existência de autorização da entrada pela esposa do acusado, e nega a versão apresentada pelos policiais, ressaltando não ter havido consentimento do morador.
+Aduzque não teria sido juntada aos autos a filmagem integral da abordagem, tendo sido apresentadas imagens apenas a partir do momento em que o réu já estava detido.
+Destaca, portanto, a necessidade do reconhecimento da nulidade apontada, com a absolvição do agente.
+De outro lado, alega que o paciente faz jus ao reconhecimento do tráfico privilegiado, nos termos do art. 33, §4º, da Lei n. 11.343/2006. Aponta ser inidônea a motivação utilizada para o afastamento do benefício, ressaltando que a prática anterior de atos infracionais ouprocessos em andamento, bem como a quantidade da droga apreendida, não se prestam para demonstrar a dedicação ao narcotráfico.
+Sustenta, ainda, a ilegalidade da exasperação da pena-base na fração de 1/6, destacando a ausência de fundamentação idônea que a justifique. Indica que a quantidade de droga apreendida na hipótese não constitui elemento apto a respaldar o incremento.
+Pondera, ainda, pela fixação de regime prisional mais brando,especialmente considerando o tempo em que o paciente está preso preventivamente. Busca, por fim, asubstituição da pena privativa de liberdade por restritivas de direitos,
+Requer, em liminar e no mérito, o reconhecimento da nulidade das provas obtidas por meios ilícitos, com a absolvição do paciente. Subsidiariamente pugna pelo redimensionamento da pena imposta e pela fixação do regime prisional mais brando.
+Busca, em liminar, a concessão da liberdade ao paciente. No mérito, pugna pela absolvição do agente e, subsidiariamente, pelo reconhecimento do tráfico privilegiado, ou pelo redimensionamento da pena imposta, com fixação do regime prisional mais brando.
+É o relatório.
+Decido.
+O presente mandamus não merece ser processado.
+Isso porque, ao que se percebe dos autos, embora o impetrante aponte como autoridade coatora o Tribunal Estadual,o que se impugna, na verdade, é a sentença proferidaem 22/6/2022, pelo Juízo de primeiro grau, nos autos da Ação Penal n.033334-08.2021.8.24.0018, estando pendentede julgamento o recurso de apelação interposto pela defesa.
+Dessa forma, a partir da leitura dos autos, vê-se que a matéria aqui aventadanão foi analisada pelo Tribunal de origem, razão pela qual não pode ser diretamente examinada por esta Corte Superior, sob pena de se incidir em supressão de instância.
+Nessa seara, considerando que a impetração se volta contra ato do Juízo de primeiro grau, este Superior Tribunal de Justiça não possui competência para a análise do feito, de acordo com o disposto no art. 105, I, c, da Constituição Federal.
+A propósito, confira-se:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. PRISÃO PREVENTIVA. REVOGAÇÃO. IMPOSSIBILIDADE.PREENCHIMENTO DOS REQUISITOS LEGAIS. GARANTIA DA ORDEM PÚBLICA.SUBSTITUIÇÃO POR MEDIDAS CAUTELARES ALTERNATIVAS. NÃO CABIMENTO.RISCO DE REITERAÇÃO DELITIVA. APREENSÃO DE EXPRESSIVA QUANTIDADE DE DROGAS. REVISÃO DE OFÍCIO. PRISÃO PREVENTIVA. ÓRGÃO EMISSOR DA DECISÃO. SUPRESSÃO DE INSTÂNCIA. MATÉRIA NÃO APRECIADA PELO TRIBUNAL DE ORIGEM. DECISÃO FUNDAMENTADA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A imprescindibilidade da prisão preventiva justificada no preenchimento dos requisitos dos arts. 312, 313 e 315 do CPP impede a aplicação das medidas cautelares alternativas previstas no art.319 do CPP.
+2. São fundamentos idôneos para a decretação da segregação cautelar no caso de tráfico ilícito de entorpecentes a quantidade, a variedade ou a natureza das drogas apreendidas, bem como a gravidade concreta do delito, o modus operandi da ação delituosa e a periculosidade do agente.
+3. A revisão de ofício da necessidade de manutenção da prisão cautelar a cada 90 dias (art. 316, parágrafo único, do CPP) cabe tão somente ao órgão emissor da decisão, ou seja, ao juiz ou tribunal que decretou a custódia preventiva.
+4. O exame pelo Superior Tribunal de Justiça de matéria que não foi apreciada pelas instâncias ordinárias enseja indevida supressão de instância, com explícita violação da competência originária para o julgamento de habeas corpus (art. 105, I, c, da Constituição Federal).
+5. Agravo regimental desprovido.
+(AgRg no HC 657.123/PE, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUINTA TURMA, julgado em 11/05/2021, DJe 13/05/2021)
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS.TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. EXCESSO DE PRAZO PARA A REVISÃO DA PRISÃO PREVENTIVA. WRIT QUE INVESTE CONTRA OMISSÃO DE JUIZ DE PRIMEIRO GRAU. INCOMPETÊNCIA DESTA CORTE. MATÉRIA NÃO ANALISADA PELO EG. TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA.INVIABILIDADE DE APRECIAÇÃO DA MATÉRIA. INEXISTÊNCIA DE NOVOS ARGUMENTOS HÁBEIS A DESCONSTITUIR A DECISÃO IMPUGNADA. AGRAVO REGIMENTAL DESPROVIDO.
+I - Verifica-se que o presente writ se insurge contra omissão de Juiz de primeiro grau, em razão do excesso de prazo para a revisão nonagesimal da prisão preventiva imposta ao ora agravante.
+II - Falece competência ao Superior Tribunal de Justiça, a teor do art. 105, inciso I, "c", da Constituição Federal, para julgar habeas corpus impetrado diretamente nesta Corte Superior contra omissão de Juiz de primeiro grau. Precedentes.
+III - Quanto à alegação de que há omissão por parte do eg. Tribunal de origem, porquanto não foi realizada a revisão periódica da necessidade de manutenção da segregação cautelar do agravante, insta consignar que não há nos autos qualquer manifestação do eg. Tribunal de Justiça do Estado de São Paulo, e esta eg. Corte Superior firmou entendimento no sentido de que "compete apenas ao órgão emissor da decisão a obrigação de revisar a prisão, ou seja, ao juiz ou tribunal que decretar a custódia preventiva" (AgRg nos EDcl no HC n.605.590/MT, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 15/10/2020).
+Agravo Regimental desprovido.
+(AgRg no HC 624.902/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 02/02/2021, DJe 09/02/2021)
+Por tais razões, nos termos do art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se.
+Intimem-se
