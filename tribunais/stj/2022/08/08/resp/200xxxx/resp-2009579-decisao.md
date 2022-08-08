@@ -1,0 +1,38 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto por CLAUDINO NUNES COLMAN, com fundamento nas alíneas "a" e "c" do inciso III do art. 105 da CF/1988, contra acórdão proferido peloTRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SULassim ementado (e-STJ, fl. 345):
+APELAÇÃO CÍVEL DA PARTE AUTORA - AÇÃO DE CONCESSÃO DE AUXÍLIO DOENÇA OU APOSENTADORIA POR INVALIDEZ - REQUISITOS NÃO PREENCHIDOS - PERÍCIA MÉDICA NÃO ATESTOU REDUÇÃO DA CAPACIDADE LABORATIVA HABITUAL -ALEGAÇÃO DE CERCEAMENTO DE DEFESA- PEDIDO DE NOVA PERÍCIA COM MÉDICO ORTOPEDISTA - PRECLUSÃO - SENTENÇA MANTIDA - RECURSO CONHECIDO E NÃO PROVIDO.
+I - In casu, tendo em vista que a perícia médica não atestou incapacidade ou redução para a atividade laboral declarada, não há direito ao recebimento de auxílio-doença ou aposentadoria por invalidez.
+II - Ao magistrado é permitido formar a sua convicção com base em qualquer elemento de prova disponível nos autos, indicando os motivos que lhe formaram o convencimento. Na situação vertente, o Julgador se convenceu de que não ocorreu incapacidade laboral do apelante nem sua redução, de forma que decidiu pela improcedência da pretensão de benefício previdenciário. Portanto, não há cerceamento de defesa, ou seja, apenas ocorreu a avaliação probatória de forma diversa da pretendida pelo apelante.
+III - Não é possível impugnar a especialidade do perito após a apresentação do laudo desfavorável, se no momento oportuno a parte não se insurgiu contra sua nomeação.
+O recorrente defende, em síntese, que foidemonstrado que as sequelas do acidente do insurgenteforam consolidadas com redução da capacidade laborativa. Sustenta, ainda,que esta Corte já determinou que não importa se a redução da capacidade laborativa é mínima ou máxima, bastando a verificação de lesão, redução de capacidade laborativa e o nexo causal. Assim, requer que seja concedido o auxílio-acidente, nos termos do art. 86, § 2º, da Lei n. 8.213/1991.
+Sem contrarrazões, o recurso especial foi admitido por decisão desta Corte (e-STJ, fl. 424).
+É o relatório.
+O Tribunal de origem decidiu acerca da existência ou não de reduçãoda capacidade laborativa nos seguintes termos (e-STJ, fl. 348):
+Ademais, tem-se que do laudo médico confeccionado pelo perito do Juízo, mediante contraditório, aponta no sentido de que o periciado não apresenta nenhuma incapacidade ou redução na sua atividade laborativa.
+Verifica-se que, tanto nos quesitos do segurado (fl. 110, item 5) quanto nos do INSS (fl. 116, item 11) o expert foi categórico ao afirmar que "no momento não apresenta incapacidade ou redução na sua atividade laboral declarada, churrasqueiro".
+Extrai-se, portanto, que a parte autora não apresenta incapacidade, ou ainda, redução na sua atividade laboral declarada, portanto não faz jus aos benefícios previdenciários pleiteados.
+O órgão julgador concluiu, mediante análise dos elementos informativos dos autos, notadamente o laudo pericial, que não foidemonstrada a redução da capacidade laborativa dosegurado, requisito indispensável à concessão do auxílio-acidente.
+A adoção de entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos.Sendo assim, incide a Súmula n. 7 do STJ, segundo a qual a pretensão de simples reexame de prova não enseja recurso especial.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUXÍLIO-ACIDENTE. CERCEAMENTO DE DEFESA NÃO CARACTERIZADO. REDUÇÃO DA CAPACIDADE LABORATIVA. AUSÊNCIA. MATÉRIA FÁTICA. INVIABILIDADE. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. AGRAVO INTERNO DO PARTICULAR A QUE SE NEGA PROVIMENTO.
+1. O Tribunal a quo compreendeu que o laudo pericial se encontra devidamente fundamentado, revelando-se hábil a amparar a formação da convicção do julgador, não havendo necessidade de esclarecimentos complementares ou de realização de nova perícia.
+2. A adoção de entendimento diverso quanto ao alegado cerceamento de defesa, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto. Sendo assim, incide no caso a Súmula 7 do STJ, segundo a qual a pretensão de simples reexame de prova não enseja recurso especial.
+3. Conforme prevê o art. 86 da Lei 8.213/1991, o auxílio-acidente será concedido, como indenização, ao segurado quando, após consolidação das lesões decorrentes de acidente de qualquer natureza, resultarem sequelas que impliquem redução da capacidade para o trabalho que habitualmente exercia.
+4. In casu, tendo o Tribunal a quo consignado que inexiste diminuição da capacidade para a atividade que o segurado habitualmente exercia, a modificação do julgado demandaria o reexame do acervo fático-probatório do autos, o que é vedado pela Súmula 7/STJ.
+5. No mais, é pacífico o entendimento desta Corte Superior de que os mesmos óbices impostos à admissão do recurso pela alínea "a" do permissivo constitucional impedem a análise recursal pela alínea "c", ficando prejudicada a apreciação do dissídio jurisprudencial referente ao mesmo dispositivo de lei federal apontado como violado ou à tese jurídica.
+6. Agravo interno do particular a que se nega provimento.
+(AgInt no AREsp n. 1.989.457/SP, relator Ministro Manoel Erhardt - Desembargador Convocado do TRF5, Primeira Turma, julgado em 9/5/2022, DJe de 11/5/2022.)
+PREVIDENCIÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. AUXÍLIO-ACIDENTE. DISACUSIA. REDUÇÃO DA CAPACIDADE LABORATIVA NÃO AFERIDA PELO TRIBUNAL DE ORIGEM. SÚMULA 7/STJ.
+1. Conforme assentado no julgamento do Recurso Especial 1.095.523/SP, admitido como representativo da controvérsia (art.543-C do CPC), "estando presentes os requisitos legais exigidos para a concessão do auxílio-acidente com base no art. 86, § 4º, da Lei n. 8.213/91 - deficiência auditiva, nexo causal e a redução da capacidade laborativa -, não se pode recusar a concessão do benefício acidentário ao Obreiro, ao argumento de que o grau de disacusia verificado está abaixo do mínimo previsto na Tabela de Fowler" (REsp 1.095.523/SP, Rel. Ministra LAURITA VAZ, TERCEIRA SEÇÃO, DJe de 05/11/2009).
+2. No caso concreto, o Tribunal a quo, soberano na análise dos elementos probatórios dos autos, expressamente concluiu pela falta de comprovação da redução da capacidade laboral a amparar a concessão do auxílio-acidente pleiteado.
+3. A inversão do que restou decidido demandaria o reexame do contexto fático-probatório, o que encontra óbice na Súmula 7/STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.813.536/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 16/8/2021, DJe de 19/8/2021).
+Aplico o art. 85, § 11, do CPC, nos seguintes moldes:
+1) no caso de ter sido aplicado na origem o art. 85, § 3º, elevo os honorários ao percentual máximo da faixa respectiva;
+2) no caso de ter sido utilizado na origem o art. 85, § 2º, adiciono 10 (dez) pontos percentuais à alíquota aplicada a título de honorários advocatícios, não podendo superar o teto previsto na referida norma;
+3) em se tratando de honorários arbitrados em montante fixo, majoro-os em 10% (dez por cento).
+Restam observados os critérios previstos no § 2º do referido dispositivo legal, ressalvando-se que, no caso de eventual concessão da gratuidade da justiça, a cobrança será regulada pelo art. 98 e seguintes do CPC.
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, não conheço do recurso especial.
+Publique-se. Intimem-se.
