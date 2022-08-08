@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por NOVA PAIÇANDU - ADMINISTRADORA DE BENS LTDA. (NOVA PAIÇANDU)contra decisão que negou seguimento ao seu apelo nobre manejado, por sua vez, contra acórdão do Tribunal de Justiça do Estado do Paraná,assim ementado:
+AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. ASSISTÊNCIA JUDICIÁRIA CONCEDIDA PARA O RECURSO. IMPUGNAÇÃO EM CONTRARRAZÕES.REJEIÇÃO. EXCESSO DE EXECUÇÃO. CONFORMIDADE DOS CRITÉRIOS DE CÁLCULO COM OS TERMOS DO TÍTULO EXECUTIVO. CASO CONCRETO. PRECLUSÃO.TESES AFASTADAS NO JULGAMENTO DE EXCEÇÃO DE PRÉ-EXECUTIVIDADE. AUSÊNCIA DE RECURSO DO DEVEDOR. REDISCUSSÃO DO TEMA. IMPOSSIBILIDADE.
+1. Verificada a atual dificuldade financeira da parte agravante, deve ser mantida a assistência judiciária concedida em grau recursal, para isentá-la do preparo.
+2. "Consoante iterativa jurisprudência desta Corte, sujeitam-se à preclusão consumativa as questões decididas no processo, inclusive as de ordem pública, que não tenham sido objeto de impugnação recursal no momento próprio" (AgInt no AREsp 1764458/SP, Rel.
+Ministro MARCO BUZZI, QUARTA TURMA, julgado em 24/05/2021, DJe 28/05/2021).
+3. Agravo de instrumento conhecido e não provido (e-STJ, fl. 143).
+Irresignada, NOVA PAIÇANDUinterpôs recurso especial com base no art. 105, III, alíneas a e c, da CF, apontando, a par de divergência jurisprudencial,a violação aos arts. 1º do Decreto nº 22.626/33; 1.062 do CC/16;166, II, 169, 302 e 397 doCC/02; 502, 503, 508 e 509, § 4º, do NCPC, além de dissídio jurisprudencial, ao sustentar, em síntese (1)a inexigibilidadedo título executivo (escritura pública de confissão de dívida com promessa de dação em pagamento, cessão de direitos e garantia hipotecária)devido à cobrança exessiva de juros remureratórios;(2) a possibilidade da discussão sobre a prática de agiotagem em embargos do devedor; e (3)aincidência de correção monetária e juros moratórios a partir dp vencimento da obrigação.
+O apelo nobre não foi admitido em virtude da sua intempestividade (e-STJ, fls. 190/191).
+Nas razões do presente agravo, NOVA PAIÇANDU alegou que o recurso é tempestivo, tendo em vista a suspensão dos prazos processuais no Tribunal de origem, em consonância com o Decreto Judiciário nº 642/21, ora anexado aos autos.
+Foi apresentada contraminuta (e-STJ, fls. 725/740).
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que não logra conhecimento.
+Da intempestividade do recurso especial
+Conforme assinalado na decisão agravada, NOVA PAIÇANDUnão comprovou, no ato de interposição do recurso especial, a suspensão do expediente forense do dia 17/12/2021 conforme previsto no Decreto Judiciário nº 642/2021, nos termos exigidos pelo art. 1003, § 6º, do NCPC.
+Portanto a petição recursal protocolada aos 7/2/2022 está intempestiva.
+Esta Corte firmou o entendimento de que a ocorrência de feriado local, recesso, paralisação ou interrupção de expediente forense deve ser demonstrada no ato de interposição do recurso, por meio de documento oficial ou certidão expedida pelo tribunal de origem, não bastando a mera menção ao feriado local nas razões recursais, tampouco a apresentação de documento não dotado de fé pública.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.FERIADO LOCAL. COMPROVAÇÃO.ATO DE INTERPOSIÇÃO DO RECURSO.
+1. O propósito recursal é dizer, à luz do CPC/15, sobre a possibilidade de a parte comprovar, em agravo interno, a ocorrência de feriado local, que ensejou a prorrogação do prazo processual para a interposição do agravo em recurso especial.
+2. O art. 1.003, § 6º, do CPC/15, diferentemente do CPC/73, é expresso no sentido de que "o recorrente comprovará a ocorrência de feriado local no ato deinterposição do recurso".
+3. Conquanto se reconheça que o novo Código prioriza a decisão de mérito, autorizando, inclusive, o STF e o STJ a desconsiderarem vício formal, o § 3º do seu art. 1.029 impõe, para tanto, que se trate de "recurso tempestivo".
+4. A intempestividade é tida pelo Código atual como vício grave e, portanto, insanável. Daí porque não se aplica à espécie o disposto no parágrafo único do art.932 do CPC/15, reservado às hipóteses de vícios sanáveis.
+5. Seja em função de previsão expressa do atual Código de Processo Civil, seja em atenção à nova orientação do STF, a jurisprudência construída pelo STJ à luz do CPC/73 não subsiste ao CPC/15: ou se comprova o feriado local no ato da interposição do respectivo recurso, ou se considera intempestivo o recurso, operando-se, em consequência, a coisa julgada.
+6. Agravo interno desprovido.
+(AgInt no AREsp 957.821/MS, Rel. Ministro RAUL ARAÚJO, Rel. p/ Acórdão Ministra NANCY ANDRIGHI, Corte Especial, j. 20/11/2017, DJe 19/12/2017-sem destaque no original).
+Na hipótese, constata-se que não foi colacionado documento hábil ou certidão do Tribunal recorrido comprovando a suspensão do expediente forense de forma a afastar o reconhecimento da intempestividade do recurso, não sendo possível, na égide do NCPC, sua comprovação posterior.
+Confira-se:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL.PRINCÍPIO DA NÃO SURPRESA. INAPLICABILIDADE. FERIADO LOCAL. INTEMPESTIVIDADE. AGRAVO INTERNO IMPROVIDO.
+1.Na decisão agravada ficou consignado: "Mediante análise do recurso de NAIR DO ROCIO GONCALVES TOKAZ, a parte recorrente foi intimada da decisão agravada em 28/05/2020, sendo o agravo somente interposto em 19/06/2020". O recurso é, pois, manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias úteis, nos termos do art. 994, VIII, c/c os arts. 1.003, § 5º, 1.042, caput, e 219, caput, todos do Código de Processo Civil.
+ ..
+3. Prevalece no STJ o entendimento firmado no AgInt no AREsp 957.821/MS, segundo o qual, nos casos de Recurso Especial interposto na vigência do CPC/2015, o feriado local deve ser comprovado no ato da interposição do recurso, sendo impossível comprovação posterior, nos termos do art. 1.003, § 6º, do CPC/2015. 4. O fato de o sistema Projudi não ter registrado a informação de intempestividade, na juntada da petição recursal, não altera a extemporaneidade e a inviabilidade do conhecimento do recurso.
+5. Agravo Interno não provido.
+(AgInt no AREsp 1778081/PR, Rel. Mini stro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 21/02/2022, DJe 15/03/2022- sem destaques no original).
+Nessas condições, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DONCPC. EMBARGOS À EXECUÇÃO. FERIADO LOCAL. COMPROVAÇÃO NO ATO DE INTERPOSIÇÃO DO RECURSO. INEXISTÊNCIA. APELO NOBRE INTEMPESTIVO. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
