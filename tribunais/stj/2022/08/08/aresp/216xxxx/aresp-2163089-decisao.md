@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por VALDIONE RODRIGUES DE OLIVEIRA (VALDIONE)contra decisão que inadmitiu seu apelo nobre manejado, por sua vez, contra acórdão do Tribunal de Justiça do Estado de Mato Grosso do Sul, assim ementado:
+APELAÇÃO CÍVEL - AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS JULGADA PARCIALMENTE PROCEDENTE - ENTREGA DE PRODUTO (LENTES DE CONTATO) EM GRAUS DIFERENTES DO CONTRATADO - DISPONIBILIDADE DE CRÉDITO EM FAVOR DO CONSUMIDOR/APELANTE PARA TENTATIVA DE RESOLUÇÃO DO DESACERTO CONTRATUAL - NÃO ACEITAÇÃO PELO CONSUMIDOR - SITUAÇÃO QUE CONFIGURA MERO ABORRECIMENTO - CORRETA A SENTENÇA QUE NÃO ACOLHEU O PLEITO DE DANOS MORAIS - RECURSO DO AUTOR DESPROVIDO.
+1. Em que pese os transtornos suportados com o recebimento de produto/lentes de contato em grau diverso do que foi encomendado, inexiste qualquer indício de prova de que esses transtornos agrediram ou causaram alguma lesão ocular na Apelante/Autora, ou que lhe causaram ofensa à sua honra subjetiva e dignidade. 2. Houve, no caso concreto, apenas desacordo ou inadimplemento contratual, e tão logo contactada acerca da falha na entrega do produto, a Apelada imediatamente disponibilizou um crédito do valor pago ao autor, mas este não aceitou. Assim, não se verificando má-fé por parte da Recorrida, tampouco ofensa ao direito de personalidade do Recorrente, não há como acolher a tese recursal de que teria havido ofensa ao patrimônio moral. Caso dos autos em que houve mero aborrecimento. 3. Recurso conhecido e desprovido.(e-STJ, fl. 156).
+Os embargos de declaração opostos pela VALDIONE foram rejeitados (e-STJ, fls. 171/175).
+Inconformada, VALDIONEinterpôs recurso especial com base no art. 105, III, alíneas a e c, da CF, apontando, além do dissídio jurisprudencial, violação aos arts. 12 e 14 do CDC, ao sustentar, em síntese, que E3 COMÉRCIO responde independentemente de culpa, em virtude da cadeia de produção,pelas danos moraiscausados.
+O recurso não foi admitido pelo TJMS (e-STJ, fls. 204/205).
+Nas razões do presente agravo, VALDIONEalegouque não incideoóbiceapontadona decisão de inadmissibilidade.
+Foi apresentada contraminuta (e-STJ, fls. 217/219).
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial, que não merece prosperar.
+Da alegada violação dos arts. 12 e 14 do CDC.
+VALDIONE alegaque E3 COMÉRCIO responde independentemente de culpa, em virtude da cadeia de produção, pelas danos morais causados.
+O TJMSassim se manifestou:
+Em que pese os transtornos suportados com o recebimento de produto/lentes de contato em grau diverso do que foi encomendado, inexiste qualquer indício de prova de que esses transtornos agrediram ou causaram alguma lesão ocular no Apelante/Autor, ou que lhe causaram ofensa à sua honra subjetiva, vale dizer, à sua dignidade. Houve apenas desacordo ou inadimplemento contratual, situação que não enseja, por si só, indenização por danos morais. Ademais, como bem pontuado pelo Juízo da causa, tão logo contactada acerca da falha na entrega do produto, a Apelada imediatamente disponibilizou um crédito do valor pago ao autor (f. 19). Portanto não havendo má-fé por parte da Recorrida, tampouco ofensa ao direito de personalidade da Recorrente, não há como acolher a tese recursal de que teria havido ofensa ao patrimônio moral (e-STJ, fl. 158).
+Verifica-se que o tema abordado nas razões do recurso especial (E3 responde pelos danos morais independentemente de culpa)não foi enfrentada pelo TJMS, nem mesmo depois da oposição dos embargos de declaração.
+Assim, com base no que dispõe a Súmula nº 211 desta Corte, o recurso especial não poderia ter sido aqui analisado: Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo.
+Registra-se que caberia à parte, nas razões do seu especial, alegar a violação do art. 1.022 do NCPC, o que não foi feito.
+A jurisprudência do STJ firmou o entendimento de que, para que se configure o prequestionamento, há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos como violados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal (AgRg no AREsp 621.867/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 24/3/2015, DJe 27/3/2015).
+Nessas condições, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+MAJORO os honorários advocatícios anteriormente fixados em desfavor de VALDIONE, de R$ 700,00 (setecentos reais) para R$ 1.000,00 (mil reais), nos termos do art. 85, § 11 do NCPC
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. ENTREGA DE PRODUTO (LESTES DE CONTATO) EM GRAUS DIFERENTES DO CONTRATADO. RESPONSABILIDADE OBJETIVA. PREQUESTIONAMENTO DA MATÉRIA PELO TRIBUNAL. AUSÊNCIA. INCIDÊNCIA DA SÚMULA Nº 211 DESTA CORTE. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
