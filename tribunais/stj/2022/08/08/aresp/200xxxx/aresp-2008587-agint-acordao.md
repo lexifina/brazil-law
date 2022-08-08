@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 02/08/2022 a 08/08/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Cuida-se de Agravo Interno contra decisão monocrática da Presidência do STJ que não conheceu do Agravo em Recurso Especial diante da intempestividade do Recurso Especial (fls. 1397-1398, e-STJ).
+A agravante alega, em síntese, que o Recurso é tempestivo. Aduz:
+Ocorre que, como se pretende demonstrar, o Recurso Especial deve ser conhecido, uma vez que foi interposto dentro do prazo legal, qual seja, no dia 18/06/2020.
+Conforme certificado na decisão e-STJ Fl. 1440 a 1442, a agravante comprovou as suspensões processuais relativas ao feriado local.
+É importante esclarecer, inicialmente, que houve um erro DO SISTEMA do Tribunal Regional Federal da 2ª Região no momento da data de juntada dos Recurso Especial e Extraordinário.
+Explica-se:
+Conforme comprovante de protocolo abaixo, observa-se que a data do protocolo (interposição) do Recurso Especial e Extraordinário foi o dia 18/06/2020 e não o dia 19/06/2020:
+(..)
+Requer, ao final, a reconsideração do decisum ou a submissão do feito à Turma.
+Não foi apresentada impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. TEMPESTIVIDADE DO RECURSO ESPECIAL NÃO DEMONSTRADA. AUSÊNCIA DE COMPROVAÇÃO POR DOCUMENTO IDÔNEO NO ATO DA INTERPOSIÇÃO DO APELO. INCIDÊNCIA DO ART. 1.003 DO CPC/2015. AGRAVO INTERNO NÃO PROVIDO.
+1. Quanto à tempestividade do Recurso Especial, não merece trânsito o argumento da recorrente, visto que, de fato, ela foi intimada do acórdão recorrido no dia 15/5/2020 (fl. 819, e-STJ). Logo, em respeito ao prazo de 15 (quinze) dias úteis, previsto no art. 1.003, § 5º, do CPC, é intempestivo o Recurso, já que interposto no dia 19.6.2020 (fl. 825, e-STJ).
+2. Aplica-se ao Recurso o Enunciado Administrativo 3 da Súmula do STJ, segundo o qual: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+3. A Corte Especial, no julgamento do AREsp 957.821, em 20/11/2017, chegou à conclusão de que, na vigência do Código de Processo Civil de 2015, não é possível a pretensão de comprovação da tempestividade após a interposição do Recurso.
+4. Recentemente, a Corte Especial decidiu que a regra da impossibilidade de comprovação da tempestividade, posteriormente à interposição do Recurso, não deveria ser aplicada no caso em que se trate do feriado de segunda-feira de carnaval. Permite-se, assim, que a parte comprove, posteriormente à interposição do Recurso, na primeira oportunidade, a ocorrência do feriado local, nessa hipótese. O entendimento foi fixado no REsp 1.813.684/SP e, posteriormente, ratificado no julgamento da questão de ordem no mesmo Recurso, quando se explicitou que a mesma interpretação não poderia ser estendida para feriados que não fossem a segunda-feira de carnaval.
+5. No presente caso, em se tratando de interposição de Recurso em datas que não se referem ao feriado da segunda-feira de carnaval, é aplicável a jurisprudência desta Corte, no sentido já indicado acima, de impossibilidade de comprovação da tempestividade após a interposição do Recurso.
+6. Mediante análise dos autos, verifica-se que a parte recorrente foi intimada do acórdão recorrido em 15.5.2020, tendo-se interposto o Recurso Especial somente em 19.6.2020, conforme documento à fl. 825, e-STJ. Ademais, não se comprovou por documento idôneo o alegado erro do sistema do Tribunal Regional Federal da 2ª Região no momento da data de juntada do Recurso Especial.
+7. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 9.6.2022.
+A irresignação não merece prosperar.
+Quanto à tempestividade do Recurso Especial, não merece trânsito o argumento do recorrente, visto que, de fato, ele foi intimado do acórdão recorrido no dia 15/5/2020 (fl. 819, e-STJ). Logo, em respeito ao prazo de 15 (quinze) dias úteis, previsto no art. 1.003, § 5º, do CPC, é intempestivo o Recurso, já que interposto no dia 19.6.2020 (fl. 825, e-STJ).
+Aplica-se ao Recurso o Enunciado Administrativo 3 da Súmula do STJ, segundo o qual: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC."
+A Corte Especial, no julgamento do AREsp 957.821, em 20/11/2017, chegou à conclusão de que, na vigência do Código de Processo Civil de 2015, não é possível a pretensão de comprovação da tempestividade após a interposição do Recurso.
+Recentemente, a Corte Especial decidiu que a regra da impossibilidade de comprovação da tempestividade, posteriormente à interposição do Recurso, não deveria ser aplicada no caso em que se trate do feriado de segunda-feira de carnaval. Permite-se, assim, que a parte comprove, posteriormente à interposição do Recurso, na primeira oportunidade, a ocorrência do feriado local, nessa hipótese. O entendimento foi fixado no REsp 1.813.684/SP e, posteriormente, ratificado no julgamento da questão de ordem no mesmo Recurso, quando se explicitou que a mesma interpretação não poderia ser estendida para feriados que não fossem a segunda-feira de carnaval.
+No presente caso, em se tratando de interposição de Recurso em datas que não se referem ao feriado da segunda-feira de carnaval, é aplicável a jurisprudência desta Corte, no sentido já indicado acima, de impossibilidade de comprovação da tempestividade após a interposição do Recurso.
+Nesse sentido:
+PROCESSUAL CIVIL. CIVIL. APELAÇÃO CÍVEL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. DANOS AMBIENTAIS. USINA HIDRELÉTRICA DE ESTREITO. PRELIMINAR DE PRESCRIÇÃO ACOLHIDA. EXTINÇÃO DO FEITO. MANUTENÇÃO DA SENTENÇA. APELO IMPROVIDO. TEMPESTIVIDADE. COMPROVAÇÃO. ATO DE INTERPOSIÇÃO DO RECURSO.
+I - Na origem, trata-se de ação ajuizada contra o Consórcio Estreito Energia - Ceste objetivando indenização por danos materiais e morais, em razão de o autor ter sido prejudicado na sua atividade pesqueira com a construção da hidrelétrica de estreito. Na sentença, julgou-se extinto o feito pela prescrição trienal. No Tribunal a quo, a sentença foi mantida. Nesta Corte, não se conheceu do recurso especial pela intempestividade.
+II - Aplica-se ao recurso o Enunciado Administrativo n. 3 da Súmula do STJ, segundo o qual: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC."
+III - A Corte Especial, no julgamento do AREsp 957.821, em 20/11/2017, chegou à conclusão de que, na vigência do Código de Processo Civil de 2015, não é possível a pretensão de comprovação da tempestividade após a interposição do recurso. Mediante análise do recurso, verifica-se que a parte recorrente foi intimada do acórdão recorrido em 19/3/2020, sendo o recurso especial interposto somente em 20/7/2020.
+IV - Recentemente, a Corte Especial decidiu que a regra da impossibilidade de comprovação da tempestividade, posteriormente à interposição do recurso, não deveria ser aplicada no caso em que se trate do feriado de segunda-feira de carnaval. Permite-se, assim, que a parte comprove, posteriormente à interposição do recurso, na primeira oportunidade, a ocorrência do feriado local, nessa hipótese. O entendimento foi fixado no REsp 1.813.684/SP e, posteriormente, ratificado no julgamento da questão de ordem no mesmo recurso, quando se explicitou que a mesma interpretação não poderia ser estendida para outros feriados, que não fossem o feriado de segunda-feira de carnaval.
+V - Assim, em se tratando de interposição de recurso em datas que não se referem ao feriado da segunda-feira de carnaval, é aplicável a jurisprudência desta Corte, no sentido já indicado acima, de impossibilidade de comprovação da tempestividade após a interposição do recurso.
+VI - Agravo interno improvido. (AgInt no AREsp 1.843.241/MA, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe 1/7/2021).
+Mediante análise dos autos, verifica-se que a parte recorrente foi intimada do acórdão recorrido em 15.5.2020, tendo-se interposto o Recurso Especial somente em 19.6.2020, conforme documento à fl. 825, e-STJ.
+Ressalta-se, ainda, que no presente caso não houve comprovação por documento idôneo do alegado erro do sistema do Tribunal Regional Federal da 2ª Região no momento da data de juntada do Recurso Especial.
+Ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes e em consonância com entendimento pacífico deste Tribunal, não há prover o Agravo Interno que contra ela se insurge.
+Diante do exposto, nego provimento ao Agravo Interno.
+É como voto.
