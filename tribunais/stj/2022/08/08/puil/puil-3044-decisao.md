@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de pedido de uniformização de interpretação de lei interposto pelo Município de Maringá/PR com fundamento no § 3º do artigo 18 da Lei n. 12.153/2009, objetivando a concessão de efeito suspensivo a acórdão proferido pela Quarta Turma Recursal dos Juizados Especiais do Estado do Paraná, assim ementado (fl. 350, e-STJ):
+RECURSOS INOMINADOS. SERVIDOR PÚBLICO DO MUNICÍPIO DE MARINGÁ. MOTORISTA DE CAMINHÃO. REMOÇÃO ARBITRÁRIA E ILEGAL.
+AUSÊNCIA DE MOTIVAÇÃO PLAUSÍVEL À PRÁTICA DO ATO. NULIDADE. DANOS MORAIS. OCORRÊNCIA. PRETENSÃO DE MAJORAÇÃO DO QUANTUM INDENIZATÓRIO PELO AUTOR AFASTADA. SENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. RECURSOS INOMINADOS INTERPOSTOS CONHECIDOS E NÃO PROVIDOS.
+1. Inexistente qualquer justificativa ou a fundamentar o ato motivação administrativo decisório de remoção, despido que se apresenta da indicação prévia e a real necessidade, patente a nulidade do ato. A possibilidade de a Administração Pública movimentar, na forma da lei, os seus servidores não se confunde com a impossibilidade de fazê-lo sem qualquer fundamentação apta, válida e legítima a tanto. Precedentes.
+2. Recursos conhecidos e não providos.
+Em suas razões, aduz o requerente (fl. 377, e-STJ):
+Por ser considerado pelo Superior Tribunal de Justiça como um ato único e de efeito concreto, o ato de enquadramento salarial decorrente da promoção descaracteriza a relação de trato sucessivo e afasta a incidência geral da Súmula 85, como exemplificado nos julgados a seguir colacionados, de lavra do STJ:
+ ..
+Aponta julgado deste Superior Tribunal que entende amparar a pretensão e afirma que o entendimento fixado pela 4ª Turma Recursal dos Juizados Especiais do Estado do Paraná diverge do enunciado n. 85 da Súmula do STJ. Sustenta que o tema em exame passa pela análise do reenquadramento dos servidores realizado pela Lei Complementar n. 966/2013, que instituiu o novo Plano de Cargos e Salários do munícipio.
+Ao final, requer (fl. 378, e-STJ):
+Ante o exposto, requer seja o pedido de uniformização de interpretação de lei conhecido, e no mérito provido, reformando o acórdão para declarar, nos termos da súmula 85 do STJ e de sua jurisprudência que o REENQUADRAMENTO FUNCIONAL tem natureza de único e efeitos concretos, ensejador da deflagração do prazo prescricional de 5 (cinco) anos, entendimento já sedimentado até mesmo no TJPR em seu enunciado de n. 17.
+Sem Contrarrazões.
+É o relatório. Passo a decidir.
+Registre-se inicialmente que é possível ao Relator dar ou negar provimento ao recurso em decisão monocrática, nas hipóteses em que há jurisprudência dominante quanto ao tema, como autorizado pelo art. 34, XVIII, do RISTJ e pela Súmula 568/STJ.
+De início, cabe destacar a competência desta Corte para apreciar pedido de uniformização de interpretação de lei decorre do disposto no § 3º do artigo 18 da Lei n. 12.153/2009, verbis:
+Art. 18. Caberá pedido de uniformização de interpretação de lei quando houver divergência entre decisões proferidas por Turmas Recursais sobre questões de direito material.
+ ..
+§ 3º Quando as Turmas de diferentes Estados derem a lei federal interpretações divergentes, ou quando a decisão proferida estiver em contrariedade com súmula do Superior Tribunal de Justiça, o pedido será por este julgado. (grifei)
+No caso, o Pedido de Uniformização de Interpretação de Lei não merece conhecimento, porquanto toda a argumentação apresentada encontra-se dissociada da controvérsia de direito material julgada pela Turma Recursal dos Juizados Especiais, a qual fixou a tese de que, "inexistente qualquer justificativa ou motivação a fundamentar o ato administrativo decisório de remoção, despido que se apresenta da indicação prévia e a real necessidade, patente a nulidade do ato. A possibilidade de a Administração Pública movimentar, na forma da lei, os seus servidores não se confunde com a impossibilidade de fazê-lo sem qualquer fundamentação apta, válida e legítima a tanto." (fl. 352, e-STJ). Tal circunstância atrai, por analogia, o óbice da Súmula 284 do Supremo Tribunal Federal, segundo a qual: "É inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia". Nesse sentido, o seguinte precedente:
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI . RECURSO QUE NÃO PROMOVE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. DISSOCIAÇÃO LÓGICA. NÃO CONHECIMENTO .
+1. O Superior Tribunal de Justiça tem a diretriz de que, se o recorrente apresenta razões dissociadas dos fundamentos adotados pelo julgado recorrido, a insurgência é deficiente na sua argumentação, circunstância que atrai a aplicação, por analogia, do enunciado de Súmula 284 da excelsa Corte Suprema (AgInt nos EDcl no AREsp 1.700.429/RJ, Rel. Ministro SÉRGIO KUKINA, Primeira Turma, DJe 29.04.2021; AgInt no REsp 1.806.873/PE, Rel. Ministro FRANCISCO FALCÃO, Segunda Turma, DJe 25.11.2020).
+2. Agravo interno não conhecido. (AgInt no PUIL n. 2.406/DF, rel. Min. Manoel Erhardt (Desembargador Convocado do Trf5), Primeira Seção, DJe de 5/5/2022.)
+Dessa forma, faz-se necessário reconhecer a inadmissibilidade do pedido aqui deduzido. Isso porque o acórdão recorrido não se manifestou, nem mesmo implicitamente, acerca da tese apresentada no presente incidente.
+Ante o exposto, com base no art. 34, XVIII, "a", do RISTJ, NÃO CONHEÇO do pedido de uniformização.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. SERVIDOR PÚBLICO DO MUNICÍPIO DE MARINGÁ. REENQUADRAMENTO FUNCIONAL. RAZÕES DISSOCIADAS. SÚMULA 284 DO STF. AUSÊNCIA DE SIMILITUDE FÁTICO-JURÍDICA ENTRE OS ACÓRDÃOS CONFRONTADOS. PEDIDO NÃO CONHECIDO.
