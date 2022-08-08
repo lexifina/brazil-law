@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de pedido de intervenção de terceiroformulado por FABIANO DE MEDEIROS VILARsob o argumento de que a decisão suspensiva aqui concedida afeta o andamentoda Ação Popular n. 0706315- 11.2022.8.07.0018, em trâmite na Vara de Meio Ambiente, Desenvolvimento Urbano e Fundiário do Distrito Federal.
+O requerente alega que apresentou a Ação Popular n. 0706315-11.2022.8.07.0018paradeclaraçãoda nulidade e invalidade do ato administrativo da Intimação Demolitória n. D121105-OEU de 16/7/2021e, consequentemente, do Auto de Infração n. D894604-OEU de 26/11/2021, em decorrência da alegada ilegalidade do objeto em razão de suposta violação do art. 133 da Lei Complementar n. 6138/2018, conforme o art. 2º, alíneas "c" e "e", da Lei n. 4.717/1965.
+Sustenta que, em defesa de direito coletivo difuso, apresentou duas nulidades do ato administrativo da Intimação Demolitória n. D121105-OEU de 16/7/2021, alvo da ação de Embargos de Terceiro Cível n. 0704308-46.2022.8.07.0018.
+O Distrito Federal apresentou impugnação a tal pleito às fls. 3.029-3.034sob a alegação de que a intervenção de terceiros é juridicamente incompatível com os estritos limites da cognição da suspensão de segurança.
+É, no essencial, o relatório. Decido.
+Além da falta de previsão legal para autorização de tal modalidade de intervenção de terceiros na suspensão de liminar e de sentença, é firme a jurisprudência no sentido de que o ingresso na qualidade de amigo da corte é incompatível com os contornos excepcionais do instituto da suspensão de segurança e da suspensão de liminar e de sentença, sob pena de desvirtuamento da disciplina normativa(PETREQ na SS n. 2.574/AP, relator Ministro Ari Pargendler, DJe de 8/6/2012; SLS n. 2.049/SP, relator Ministro Francisco Falcão, DJe de 20/11/2015; e PETREQ na SLS n. 1.652/BA, relator Ministro Felix Fischer, DJe de 21/11/2012).
+Nesse sentido, trago à colação precedente elucidativo desta Corte:
+AGRAVO REGIMENTAL NA PETIÇÃO NO AGRAVO EM RECURSO ESPECIAL. INTERVENÇÃO DE AMICUS CURIAE. DESCABIMENTO.
+1. Não estando o presente recurso submetido ao rito dos recursos repetitivos e nem se incluindo na hipótese de multiplicidade de demandas similares a demonstrar a generalização da decisão, não há previsão legal para a inclusão do Conselho Federal da Ordem dos Advogados do Brasil - CFOAB na condição de amicus curiae, notadamente porquanto em discussão direito individual ao recebimento de verba advocatícia.
+2. Agravo regimental a que se nega provimento. (AgRg na Pet no AREsp n. 151.885/PR, relatora Ministra Maria Isabel Gallotti, DJe de 4/2/2013, grifo meu.)
+O entendimento do Supremo Tribunal Federal não difere da orientação aqui destacada do Superior Tribunal de Justiça:
+AGRAVO REGIMENTAL. SUSPENSÃO DE SEGURANÇA. ASSISTÊNCIA. AMICUS CURIAE. DESCABIMENTO.
+1. Consolidação da jurisprudência do Supremo Tribunal Federal no sentido de não ser admissível assistência em mandado de segurança, porquanto o art. 19 da Lei 1.533/51, na redação dada pela Lei 6.071/74, restringiu a intervenção de terceiros no procedimento do writ ao instituto do litisconsórcio.
+2. Descabimento de assistência em suspensão de segurança, que é apenas uma medida de contracautela, sob pena de desvirtuamento do arcabouço normativo que disciplina e norteia o instituto da suspensão (Leis 4.348/64, 8.437/92 e 9.494/97).
+3. Pedido de participação em suspensão na qualidade de amicus curiae que não foi objeto da decisão ora agravada, além de ser manifestamente incabível.
+4. Agravo regimental improvido. (SS n. 3.273-AgR-segundo, relatora Ministra Ellen Gracie, Tribunal Pleno, DJe de 19/6/2008, grifo meu.)
+Ante o exposto, indefiro o pedido de intervenção no processo como amigo da corte.
