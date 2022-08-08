@@ -1,0 +1,29 @@
+DECISÃO
+JACUNDÁ EMPREENDIMENTOS IMOBILIÁRIOS EIRELIagrava de decisão que inadmitiu o recurso especial, fundado no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de GoiásnaApelação Criminal n. 5238557-70.2021.8.09.0051.
+O agravante teve julgadaextinta, sem resolução de mérito, a apelação criminal interposta contra decisão de primeira instância que não acolheu opedido de restituição de bem apreendido.
+Nas razões do recurso especial, o agravante alegouviolação dos arts. 118 e 120, ambosdo Código de Processo Penal; 133 da Constituição Federal;103 do CPC e 1º e 3º da Lei n. 8.906/1994.Em síntese, sustentoua extinção, sem julgamento de mérito, da Ação de Restituição n. 5110691-79.2021.8.09.0051 e a sua nulidade por ausência de capacidade postulatória, o que tornaria legítimoo novo pedido de restituição. No mais, pleiteoua restituição do veículo, a nomeação de depositário fiel, a determinação para julgamento da apelação pelo Tribunala quoou a promoção da venda antecipada automóvel, para preservação do seu valor.
+O recurso foi inadmitido em juízo prévio de admissibilidade realizado pelo Tribunal local, o que motivou a interposição deste agravo.
+O Ministério Público Federal manifestou-se, às fls. 429-431, pelo não provimento do AREsp.
+Decido.
+I. Não admissibilidade do recurso especial
+A Corte de origem julgou extinta, sem resolução de mérito, a apelação interposta pela defesa e, para tanto,assim se manifestou (fls. 351-355):
+ ..
+Emerge dos autos que a apelante ajuizou dois pedidos concomitantes de restituição da caminhonete em questão, o primeiro deles (processo 5110691-79) em 08-03-2021 e o segundo (o presente feito) pouco depois, em 19-03-2021, cada um deles subscritos por advogados distintos, sendo que, não obstante os dois pedidos ostentem redações próprias, embasam-se ambos nos mesmos fundamentos e alegações (aquisição lícita, ausência de interesse processual em sua apreensão, cuidados para evitar a depreciação do bem e pedido de nomeação de Arnaldo Rúbio Júnior como depositário fiel).
+De ser observado que, após tramitarem paralelamente, os pedidos foram julgados com a diferença de um dia entre eles (em 07-04-2021 e 08-04-2021, respectivamente), sendo que a pretensão foi indeferida nos dois casos via decisões literalmente iguais.
+De ser dito ainda que, após o julgamento do primeiro pedido, a autora compareceu aos respectivos autos via petição subscrita pelo advogado do segundo pedido e alegou que aquele primeiro pedido deveria ser anulado e os autos arquivados, eis que os advogados que o subscreveram não teriam poderes para suscitá-lo. No mesmo dia (19-04-2021), a autora também compareceu a este segundo processo e apelou da decisão, destacando em suas razões que não haveria coisa julgada a impedir o conhecimento do recurso eis que a decisão exarada no primeiro pedido seria nula.
+Registre que o primeiro feito não foi anulado e encontra-se arquivado desde 10-05-2021.
+Da coisa julgada formal
+Como se vê, não obstante ser clara a litispendência entre os dois pedidos de restituição, o juízo de origem, não se sabe a razão, permitiu que esse segundo pedido tramitasse normalmente em paralelo ao primeiro pedido, vindo a julgar ambos quase que ao mesmo tempo e via de decisões simétricas.
+Vê-se, também, que a decisão do primeiro incidente foi exarada um dia antes da decisão exarada neste segundo incidente não foi invalidada ou impugnada por recurso, com o que transitou em julgado, operando seus efeitos normalmente.
+Assim, ao contrário do sustentado pela apelante, a decisão ali proferida (nos autos do primeiro incidente) é válida e os efeitos processuais irradiados dessa situação gozam de estabilidade e só podem ser afastados por decisão que a revir, reformar ou invalidar, de modo que a simples alegação de que haveria nulidade daqueles autos não socorre a apelante.
+Diante disso, a única conclusão que se mostra aplicável ao presente caso é a sua extinção, sem resolução de mérito, haja vista que a coisa julgada formal operada naquele primeiro incidente constitui óbice intransponível à apreciação deste segundo pedido incidental.
+Deveras, à vista de este segundo incidente ter sido ajuizado quando o primeiro ainda estava em curso e estar embasado nos mesmos fatos, alegações e pedidos do primeiro, tem-se que trata-se de mera reiteração daquele primeiro pedido, cuja decisão encontra-se revestida da coisa julgada formal, o que, sem réstia de dúvida, impede o seu conhecimento ao teor do princípio non bis idem.
+O julgado asseverou haver umaprimeira decisão, transitada em julgado,de indeferimento do pedido de restituição do veículo apreendidoe que a pretensãodestes autos é mera repetição daquele.Acrescentou não haver sido anulado o primeiro decisum, apesar da determinação dearquivamento.
+É inviável o recurso especialbaseadona violação de dispositivos da Constituição Federal, haja vista a competência exclusiva do Supremo Tribunal Federal.
+A matéria disciplinada nos arts. 1ºe 3º da Lei n. 8.906/1994 não foiprequestionadana instância antecedente, o que caracteriza o óbice previsto na Súmula n. 282 do STF.
+Com efeito, o decisumque determinou o arquivamento do pedido de n. 5110691-79.2021.8.09.0051não reformou nemanulou a decisão de indeferimento antes proferida. Essa circunstância écaracterísticada extinção do feito com resolução de mérito.
+Assim, não caberia àesta Corte declarar a nulidade daquele feito também pelo disposto no art. 565 CPP, oqual vedaa arguição do vício pela parte a que a ele hajadado causa ou para o qual tenha concorrido.
+Os demais pedidos, relativos à restituição do bem, à nomeação de depositário fiel e à venda antecipada, não foram examinados pelo acórdão recorrido, o que impede a sua admissibilidade, em vista, novamente,do óbice estabelecido na Súmula n. 282 do STF.
+II. Dispositivo
+À vista do exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se e intimem-se.
