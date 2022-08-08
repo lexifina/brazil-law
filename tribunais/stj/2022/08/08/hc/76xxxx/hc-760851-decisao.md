@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de MARCIO ANTONIO DA SILVAapontando como autoridade coatora o desembargador relator doHC n. 5454415.82.2022.8.09.0000, noTRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS.
+Depreende-se dos autos que o pacientefoi preso em flagrante, prisão essa posteriormente convertida em preventiva, pela suposta prática do delito de associação criminosa e porte de armas (e-STJ fls. 243/256).
+Impetrado habeas corpus na origem, o desembargador relator do writ indeferiu o pedido liminar (e-STJ fls. 267/269).
+No presente writ, afirma a defesa que o decreto constritivo carece de fundamentação idônea.
+Aponta, outrossim, para as condições pessoais favoráveis do paciente.
+Pleiteia, inclusive liminarmente, a revogação da prisão preventiva.
+É o relatório.
+Decido.
+O Superior Tribunal de Justiça tem jurisprudência firmada no sentido de não caber habeas corpus impetrado ante decisão que indefere liminar (enunciado n. 691 da Súmula do Supremo Tribunal Federal), a não ser que fique demonstrada flagrante ilegalidade, o que não ocorre na espécie.
+A propósito:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. IMPETRAÇÃO CONTRA INDEFERIMENTO DE LIMINAR NO TRIBUNAL DE ORIGEM. SUMULA 691/STF. COMPETÊNCIA DESTA CORTE QUE AINDA NÃO SE INAUGUROU. SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE PROVA DO ALEGADO CONSTRANGIMENTO ILEGAL.
+1. Não cabe habeas corpus perante esta Corte contra o indeferimento de liminar em writ impetrado no Tribunal de origem. Aplicação da Súmula 691 do Supremo Tribunal Federal.
+ ..
+3. Agravo regimental improvido.(AgRg no HC n. 349.925/RJ, relatora Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 10/3/2016, DJe 16/3/2016.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. IMPETRAÇÃO INDEFERIDA LIMINARMENTE. SÚMULA 691/STF. AUSÊNCIA DE PATENTE ILEGALIDADE. PEDIDO DE EXPEDIÇÃO DE CONTRAMANDADO DE PRISÃO TEMPORÁRIA. PACIENTE NO EXTERIOR. AGRAVO REGIMENTAL IMPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade, o que não ocorre na espécie. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+2. No caso, não se observa manifesta ilegalidade na decisão que indeferiu o pleito liminar no prévio mandamus, tampouco na decisão primitiva. Na espécie, não há nos autos informações comprobatórias de que todas as diligências requeridas foram cumpridas, valendo ressaltar, ainda, que o decreto prisional, expedido no bojo da mesma decisão, não se efetivou porque o paciente não teria sido localizado, porquanto "potencialmente" estaria no exterior.
+3. Agravo regimental improvido.(AgRg no HC n. 345.456/SP, relator Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 18/2/2016, DJe 24/2/2016.)
+Acerca da controvérsia, consta da decisão que indeferiu o pedido liminar na origem o seguinte (e-STJ fls. 267/269):
+De acordo com o auto de prisão em flagrante (mov. 01, fls. 03/24), na manhã do dia 19/07/2022 as equipes do 16º CRPM receberam informação de que um grupo de pistoleiros, portando arma de fogo, estariam planejando ir até uma fazenda localizada em Querência, no estado do Mato Grosso, para executar alguns posseiros e tomar as terras.
+Segundo a informação recebida, o grupo estaria em duas caminhonetas, sendo uma Amarok de cor cinza e uma Hilux de cor prata e passariam pela GO-060 no período da manhã daquele dia. Diante disso, foi desencadeada uma operação policial em várias rodovias, com o objetivo de interceptar os autores.
+Consta que, por volta de 09h30 do mesmo dia, os policiais que estavam no bloqueio da GO-060 avistaram duas caminhonetas, das mesmas marcas e características que as repassadas na denúncia anônima, momento em que fizeram a abordagem desses veículos. O motorista da Hillux tentou evadir-se, mas foi abordado logo à frente.
+Realizada a abordagem policial e a busca pessoal nos quatro indivíduos que ocupavam a Amarok e nos dois que ocupavam a Hillux, foi encontrada apenas uma carta no bolso de Wender (mov. 1, fl. 46, processo nº 5425788.09) que dizia que o grupo cobraria o valor de R$ 400.000,00 (quatrocentos mil reais) para fazer a segurança e outros serviços na fazenda e que, para isso, necessitavam de 02 (duas) caminhonetes traçadas, 02 (duas) motocicletas, combustível e manutenção dos veículos por conta do proprietário da fazenda.
+Estendida a busca nos veículos, foram encontradas diversas munições, de vários calibres, dentro de uma bolsa na carroceria do veículo Amarok, as quais Epaminondas assumiu serem de sua propriedade. Já no veículo Hillux, sob o forro do câmbio, foram encontradas 02 armas de fogo, das quais Epaminodas e Wender disseram ser os donos.
+Na ocasião, foram presos em flagrante, além do paciente, os supostos coinvestigados Antônio Marcos do Nascimento, Cleidson Ferreira Júnior, Lázaro Monteiro Pena, Wender Eterno Mariano e Epaminondas Mariano dos Reis.
+Acolhendo manifestação favorável do Ministério Público, converteu-se a prisão em flagrante em preventiva para garantir a ordem pública, por conveniência da instrução criminal e para assegurar a aplicação da lei penal, evidenciada pela gravidade concreta delitiva, consistente na apreensão de armas e munições, com potencial lesivo imediato, indicando compartilhamento das mesmas, somado ao possível vínculo subjetivo visando a prestação de serviços de segurança em imóvel rural, atividade não legalizada (mov. 01, arq. 03, fls. 104/117).
+Exige-se dois requisitos básicos de todas as medidas liminares: a relevância dos fundamentos externados pelo impetrante (fumus boni juris) e perigo de riscos de danos na hipótese de a medida ser concedida apenas ao final (periculum in mora). O primeiro deles diz respeito à viabilidade concreta de ser concedida a ordem ao final, por ocasião do julgamento de mérito. O segundo refere-se à urgência da medida que, se não concedida de imediato, não mais terá utilidade depois. (NUCCI, Guilherme de Souza. Habeas corpus. Rio de Janeiro: Forense, 2014, livro digital Kobo).
+No caso dos autos, verifica-se que a segregação cautelar do paciente não revela aberta ilegalidade, ao adiantamento da tutela jurisdicional, apta a ensejar violação de direitos constitucionais.
+Portanto, no presente momento, tem-se como não preenchidos os requisitos para a concessão, de plano, da medida liberatória.
+A princípio, verifica-se que o decisum apontou dados extraídos do caso concreto aptos a justificar a manutenção da segregação cautelar imposta, razão pela qual não ressai, de plano, flagrante ilegalidade que autorize a superação do enunciado sumular referido.
+Assim, a questão em exame necessita de averiguação mais aprofundada pelo Tribunal estadual, que deverá apreciar a argumentação contida na impetração no momento adequado.
+Sem isso, fica esta Corte impedida de analisar o alegado constrangimento ilegal, sob pena de incorrer em indevida supressão de instância e de incidir em patente desprestígio às instâncias ordinárias.
+Entendo, portanto, não ser o caso de superação do enunciado n. 691 da Súmula do Supremo Tribunal Federal.
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
