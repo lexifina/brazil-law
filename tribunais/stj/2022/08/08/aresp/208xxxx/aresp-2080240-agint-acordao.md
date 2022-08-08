@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 02/08/2022 a 08/08/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+O SENHOR MINISTRO LUIS FELIPE SALOMÃO (Relator):
+1. Cuida-se de agravo interno interposto por KIM PATROCA KATAGUIRI, contra decisão do em. Min. Presidente desta Corte Superior que conheceudo agravo para não conhecer do recurso especial, em razão da incidência da Súmula n. 284/STF, no que se refere àviolação ao art. 1.022 do CPC e àLei n. 13.188/2015.
+Segundo a decisão, "a parte recorrente, além de ter apontado violação genérica do art. 1.022 do Código de Processo Civil de 2015, sem especificar quais os incisos foram contrariados, não demonstrou especificamente quais os vícios do aresto vergastado. //Nesse sentido, este Superior Tribunal de Justiça já decidiu que: "É deficiente a fundamentação do recurso especial em que a alegada ofensa aos arts. 489, § 1º, e 1.022 do CPC/2015 se faz sem a demonstração objetiva dos pontos omitidos pelo acórdão recorrido, individualizando o erro, a obscuridade, a contradição ou a omissão supostamente ocorridos, bem como sua relevância para a solução da controvérsia apresentada nos autos. Incidência da Súmula 284/STF". (REsp n. 1.653.926/PR, relator Ministro Og Fernandes, Segunda Turma, DJe de 26/9/2018.)" (e-STJ Fl.326).
+E continua: "acerca da segunda controvérsia, incide o óbice da Súmula n. 284/STF uma vez que há indicação genérica de violação de lei federal sem particularizar quais dispositivos teriam sido contrariados, o que atrai, por conseguinte, o referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia"."(e-STJ Fl.327)
+Nas razões do agravo interno, a agravante sustenta que "na petição de REsp, alegamos violação ao art. 1.022 do Código de Processo Civil, afirmamos de forma clara qual foi a omissão (alcance e sentido de lei federal - Lei 13.188 de 2015 - especificamente, a controvérsia sobre desnecessidade de dano moral para que haja direito de resposta) e pedimos (seguindo jurisprudência do STJ) aplicação do art. 1.025 do mesmo Código. " (e-STJ Fl.336)
+Defende que "não há um artigo ou parágrafo que afirme que não é necessário dano moral para a concessão de direito de resposta). Portanto, não podemos indicar um artigo específico da Lei 13.188 porque ele não existe.  ..  Não podemos ser penalizados por não ter apontado a violação de um artigo ou parágrafo se tal artigo ou parágrafo inexiste." (e-STJ Fl.337)
+Alega que "a análise do processo mostra de forma clara que não há necessidade de análise probatória. " (e-STJ Fl.339)
+Pede o provimento do recurso.
+Contrarrazões ao agravo interno às fls. 345-349e-STJ.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE DIREITO DE RESPOSTA. VIOLAÇÃO AO ART. 1.022 DO CPC. SÚMULA 284/STF.VIOLAÇÃO À LEI13.188/2015. SÚMULA 284/STF.AGRAVO INTERNO NÃO PROVIDO.
+1. Não se pode conhecer da apontada violação do art. 1.022 do CPC/2015 pois as alegações que tentam fundamentá-la são genéricas, sem a indicação de maneira clara e precisa dos pontos efetivamente omissos, contraditórios ou obscuros do acórdão impugnado, sem indicar as matérias sobre as quais deveria pronunciar-se a instância ordinária e nem demonstrar a relevância delas para o julgamento do feito. Incide, na espécie, a Súmula 284/STF.
+2.O não atendimento quanto à indicação do dispositivo legal contrariado, ou que se lhe tenha sido negado vigência, devidamente acompanhado da argumentação jurídica pertinente, pela parte recorrente, a fim de demonstrar o acerto de sua tese, configura fundamentação deficiente e não permite a compreensão da exata controvérsia a ser dirimida. Incidência daSúmula 284/STF.
+3. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO LUIS FELIPE SALOMÃO (Relator):
+2. No presente caso, a decisão da Presidência desta Corte Superior, ora agravada, conheceu do agravo para não conhecer do recurso especial, em razão da incidência da Súmula n. 284/STF.
+Com acerto a decisão da Presidência.
+3. Quanto à violação ao art. 1022, do CPC, o recorrente limita-se a afirmar que o Tribunal local não se pronunciou explicitamentesobre a Lei 13.188, sem discorrer nasrazões do especial sobrea matéria omissa, tampouco demonstra o prejuízo.
+Desse modo, não se pode conhecer da apontada violação do art. 1.022 do CPC/2015 pois as alegações que tentam fundamentá-la são genéricas, sem a indicação de maneira clara e precisa dos pontos efetivamente omissos, contraditórios ou obscuros do acórdão impugnado, sem indicar as matérias sobre as quais deveria pronunciar-se a instância ordinária e nem demonstrar a relevância delas para o julgamento do feito. Incide, na espécie, a Súmula 284/STF
+A propósito (grifo meu):
+"PROCESSUAL CIVIL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. RECURSO ESPECIAL INADMITIDO NA ORIGEM. SISTEMÁTICA DOS RECURSOS REPETITIVOS. AGRAVO INTERNO. ÚNICO RECURSO CABÍVEL.
+1. A parte recorrente sustenta que o art. 1.022 do CPC/2015 foi violado, mas deixa de apontar, de forma clara e precisa, o vício em que teria incorrido o acórdão impugnado. Assevera, de modo genérico, que existem omissões e contradições não sanadas pelo Tribunal a quo, sem, contudo, indicar as matérias sobre as quais deveria pronunciar-se a instância ordinária, nem demonstrar a relevância delas para o julgamento do feito. Incide, na espécie, a Súmula 284/STF.
+ ..
+4. Recurso Especial do qual não se conhece.
+(REsp 1678864/RN, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 21/09/2017, DJe 09/10/2017)
+4. Quanto à violação à Lei n. 13.188/2015, é inviável o seu conhecimento, diante da ausência de indicaçãododispositivo normativo daquela legislação federal que teria sido violado.
+É imprescindível que no recurso especial fundado na alínea "a" do permissivo constitucional sejam particularizados de forma inequívoca os normativos federais supostamente contrariados pelo tribunal de origem, cuidando o recorrente de demonstrar, mediante argumentação lógico-jurídica competente à questão controversa apresentada, de que maneira o acórdão impugnado teria ofendido a legislação mencionada.
+O não atendimento quanto à indicação do dispositivo legal contrariado, ou que se lhe tenha sido negado vigência, devidamente acompanhado da argumentação jurídica pertinente, pela parte recorrente, a fim de demonstrar o acerto de sua tese, configura fundamentação deficiente e não permite a compreensão da exata controvérsia a ser dirimida. Isso porque a controvérsia a ser tratada no recurso especial, sob a baliza da alínea "a" do art. 105, inc. III, da CFRB, respeita solver discussão quanto à contrariedade ou negativa de vigência perpetrada pelo tribunal a quo à legislação ou tratado federal em sua aplicação ao caso concreto.
+O mero inconformismo não oferece os subsídios constitucionalmente exigidos para o julgamento do recurso especial, pois a falta de demonstração de possível violação de normativo infraconstitucional (argumentação deficiente) esvazia o sentido da controvérsia a ser dirimida nos termos impostos pelo art. 105, III, "a", da Constituição Federal (conferindo incompreensibilidade à questão), o que torna apropriada a aplicação, dada sua inteligência, da Súmula 284/STF.
+5. Ante o exposto, nego provimento ao agravo interno.
+É como voto.
