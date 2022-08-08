@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de Mato Grosso do Sul,assim ementado (fl. 78):
+AGRAVODEINSTRUMENTO - AÇÃO ANULATÓRIA - PERÍCIA JUDICIAL - INVERSÃO DO ÔNUS DA PROVA - POSSIBILIDADE - APLICAÇÃO DA TEORIA DAS CARGAS PROCESSUAISDINÂMICAS - ARTIGO 373, § 1º, CPC - RECURSO NÃO PROVIDO. É cabível a inversão do ônus da prova em aplicação à teoria das cargas processuais dinâmicas prevista no artigo 373, § 1º, do CPC.
+Embargos de declaração rejeitados (fls. 102/105).
+O recorrente alega violação do artigo 1.022 do CPC por omissão do julgado quanto à imprescindibilidade do pedido de prova pericial grafotécnica e entrega do original.Quanto à questão de fundo, sustenta ofensaao determinar que o Banco do Brasil pague pela perícia requerida pela parte contrária, deixando de aplicar o artigo95 do CPC, sobo fundamento de que a regra deve ser relativizada com aplicação do § 1º do artigo 373 do CPC, apenas por ser a parte beneficiária de justiça gratuita.
+Sem contrarrazões (fl. 140).
+Juízo positivo de admissibilidade às fls. 142/143.
+É o relatório. Passo a decidir.
+Consigne-se que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Na origem, tem-se ação declaratória de nulidade de ato jurídico cumulada com obrigação de fazer com controvérsia a respeito da inabilitação do autor em concurso público promovido pelo Banco do Brasil.
+De início, afasta-se a alegada violação do artigo 1.022, II, do CPC/2015, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+No caso dos autos, evidencia-se que:
+A necessidade de realização de prova pericial, além de ser faculdade do julgador, mostra-se extremamente necessária para atestar a veracidade da assinatura aposta no documento de fls. 127 e 293 dos autos originais.A questão foi trazida pelo embargado após a apresentação da contestação do banco, ou seja, no momento processual adequado para tanto(fls. 103/104).
+Desnecessário, portanto, qualquer esclarecimento ou complemento ao que já decidido pela Corte de origem, pelo que se afasta a ofensa ao artigo 1.022, II,do CPC/2015.
+No que se refere à antecipação dos honorários periciais, extrai-se os seguintes fundamentos do acórdão recorrido (fls. 80/81):
+Diante das razõesesposadas pelo Banco Agravante e do contexto que se apresenta nos autos de origem, concluo que deve ser dado provimento ao presente Recurso no tocante à obrigação pelo pagamento dos honorários periciais. Saliento que a hipossuficiência com respeito à inversão do ônus da prova (carga probatória, como já mencionado alhures) não é de ordem financeira, até porque o Agravado é beneficiário da assistência judiciária; ou seja, a responsabilidade pelo pagamento das despesas processuais, inclusive honorários periciais, recairia sobre o Estado de Mato Grosso do Sul.
+Assim, tendo em vista que o Autor foi quem requereu a realização da perícia, em verdade, o valor relativo aos honorários periciais deve ser arcado somente por ele, nos termos do artigo 95, do Código de Processo Civil. No entanto, conforme §3º desse dispositivo legal, como o Autor é beneficiário da assistência judiciária, referida verba deverá ser paga pelo Estado de Mato Grosso do Sul, em sua totalidade.
+Ante o exposto, dou provimento em parte ao presente Agravo de Instrumento, apenas para determinar que o pagamento dos honorários periciais do exame grafotécnico seja integralmente arcado pelo Autor. Como este é beneficiário daassistência judiciária, deverá ser intimado o Estado de Mato Grosso do Sul para pagamento.
+Assim, não se verifica interesse recursal do Banco do Brasil na hipótese, uma vez que o ônus pela antecipação do valor a ser atribuído ao Sr. Perito não recaiu sobre si.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/1973). HONORÁRIOS PERICIAIS. BENEFICIÁRIO DA GRATUIDADE DE JUSTIÇA SUCUMBENTE. OBRIGAÇÃO DO ESTADO. FALTA DE INTERESSE RECURSAL. AGRAVO INTERNO DESPROVIDO COM APLICAÇÃO DE MULTA.(AgInt no AREsp 923112/SP, Rel. Min. Paulo de Tarso Sanseverino, Terceira Turma, julgado em27/06/2017,DJe 01/08/2017)
+Ante o exposto, nego provimento ao recurso especial.Caso tenham sido fixados honorários sucumbenciais anteriormente pelas instâncias ordinárias, majoro-osem 10%, observados os limites e parâmetros dos §§ 2º, 3º e 11 do artigo 85 do CPC/2015 e eventual Gratuidade da Justiça (§ 3º do artigo 98 do CPC/2015).
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. VIOLAÇÃO DO ART. 1.022, II,DO CPC/2015. NÃO OCORRÊNCIA. HONORÁRIOS PERICIAIS. ANTECIPAÇÃO. AGRAVO DE INSTRUMENTO PROVIDO NA ORIGEM. FALTA DE INTERESSE RECURSAL. RECURSO ESPECIAL NÃO PROVIDO.
