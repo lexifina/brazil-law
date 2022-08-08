@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 02/08/2022 a 08/08/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de agravo interno interposto por Itaú Unibanco Holding S.A. contra decisão desta relatoria, assim ementada (e-STJ, fl. 521):
+AGRAVO EM RECURSO ESPECIAL. EMPRÉSTIMOS CONSIGNADOS. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. INEXISTÊNCIA. RESPONSABILIDADE OBJETIVA DO FORNECEDOR. ACÓRDÃO RECORRIDO FUNDAMENTADO EM CIRCUNSTÂNCIAS FÁTICOPROBATÓRIAS. REEXAME INVIÁVEL EM RECURSO ESPECIAL. SÚMULA N. 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+Em suas razões, o agravante repisa a ocorrência de omissões no acórdão do Tribunal de Justiça do Estado de Goiás, relevante ao julgamento da lide, no que se referem a ter devidamente comprovado a regularidade das contratações em discussão na presente lide, às operações terem sido realizadas em sistema seguro, com uso de senha pessoal e cartão com chip, o que afastaria a existência de fraudes.
+Sustenta a inaplicabilidade da Súmula n. 7/STJ, sob a alegação de que não há necessidade de revolvimento de matéria fático-probatória, e sim de nova qualificação jurídica das provas constantes dos autos.
+Afirma que ficou devidamente demonstrado o dissídio jurisprudencial.
+Impugnação às fls. 552-558 (e-STJ), com pedido de aplicação das multas prevista no § 4º do art. 1.021 do CPC/2015 e § 2º, do art. 1.026 do CPC/2015.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. 1. AUSÊNCIA DE VIOLAÇÃO DO ART. 1.022 DO CPC/2015. 2. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ, POR AMBAS AS ALÍNEAS DO PERMISSIVO CONSTITUCIONAL. 3. REQUERIMENTO DA PARTE AGRAVADA DE APLICAÇÃO DA MULTA PREVISTA NO § 4º DO ART. 1.021 DO CPC/2015. 4. MULTA PROCESSUAL. NÃO CABIMENTO. 5. AGRAVO INTERNO DESPROVIDO.
+1. Não há ofensa ao art. 1.022 do CPC/2015, porquanto o Tribunal de origem decidiu a matéria de forma fundamentada. O julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, quando tiver encontrado motivação satisfatória para dirimir o litígio.
+2. A alteração das conclusões adotadas pela Corte de origem demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto no enunciado sumular n. 7 deste Tribunal Superior, por ambas as alíneas do permissivo constitucional.
+3. A aplicação da multa prevista no § 4º do art. 1.021 do CPC/2015 não é automática, porquanto a condenação da parte agravante ao pagamento da aludida multa, a ser analisada em cada caso concreto, em decisão fundamentada, pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória, o que, contudo, não se verifica na hipótese examinada.
+4. Não deve ser acolhido o requerimento para que seja imposta a multa prevista no § 2º do art. 1.026 do Código de Processo Civil de 2015, uma vez que o mero inconformismo com a decisão não enseja a necessária imposição da sanção, quando não configurado o caráter manifestamente protelatório do recurso.
+5. Agravo interno a que se nega provimento.
+VOTO
+A irresignação não merece prosperar.
+De fato, conforme asseverado na decisão agravada, a jurisprudência desta Corte Superior é pacífica ao proclamar que, se as razões do julgado bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+Dessa forma, cabe registrar que a matéria em exame foi devidamente enfrentada pelo colegiado de origem, que sobre ela emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão do recorrente.
+Na mesma linha de cognição:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA DEMANDADA.
+1. Violação aos artigos 489 e 1022 do CPC/15, não configurada. Acórdão estadual que enfrentou todos os aspectos essenciais à resolução da controvérsia de forma ampla e fundamentada, sem omissão. O julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, quando tenha encontrado motivação satisfatória para dirimir o litígio. Precedentes.
+2. A conclusão a que chegou o Tribunal de origem, relativa à ocorrência de inadimplemento contratual, fundamenta-se nas particularidades do contexto que permeia a controvérsia. Incidência das Súmulas 5 e 7 do STJ.
+3. A subsistência de fundamento inatacado apto a manter a conclusão do acórdão impugnado impõe o desprovimento do apelo, a teor do entendimento disposto na Súmula 283 do STF, aplicável por analogia.
+Precedentes.
+4. Agravo interno desprovido.
+(AgInt no AREsp 1.519.420/RJ, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 30/08/2021, DJe 02/09/2021)
+Outrossim, verifica-se que o acórdão recorrido enfrentou, de forma embasada, as questões necessárias ao deslinde da lide, tratando-se, na verdade, de pretensão de novo julgamento da matéria, conforme se observa do trecho transcrito a seguir (e-STJ, fls. 267-268):
+A conduta a ensejar a responsabilidade civil discutida nos presentes autos, resume-se na contratação indevida de empréstimos em nome do Autor, supostamente realizados por terceiros fraudadores, sendo realizados descontos mensais em sua conta (benefício previdenciário).
+Analisando os autos, os supostos empréstimos contratados pelo Autor/Recorrido foram devidamente comprovados pelos documentos apresentados na mov. 1, quais sejam: 1) R$ 4.000,00, realizado em 24/01/2015, sendo 50 (cinquenta) parcelas de R$ 216,20; 2) R$ 1.589,00 (um mil quinhentos e oitenta e nove reais), realizado em 08/05/2015, sendo 72 (setenta e duas) parcelas de R$ 236,00; 3)O terceiro foi realizado em 28/04/2017, sendo 66 (sessenta e seis) parcelas de R$ 278,26; 4) O quarto e último refinanciamento foi realizado em 19/05/2018, sendo 54 (cinquenta e quatro) parcelas de R$ 284,18 (duzentos e oitenta e quatro reais e dezoito centavos), totalizando os empréstimos no importe de R$ 12.872,46.
+No presente caso, o Réu/Apelante deixou de juntar os supostos contratos de empréstimos realizados com o Autor/Apelado, com sua assinatura pessoal. De igual modo, ele também não apresentou as imagens dos caixas eletrônicos ou do atendimento na boca do caixa, a fim de comprovar que o Autor/Insurgido realizou os saques dos valores creditados.
+Diante disso, a instituição financeira não se desincumbiu do ônus da comprovação dos fatos impeditivos, modificativos ou extintivos do direito alegado pelo Autor, diante da inversão do ônus da prova operada (mov. 5), na medida em que não demonstrou que os contratos foram, de fato, com ele celebrados, impondo-se a confirmação da nulidade dos negócios jurídicos em questão, com a restituição na forma simples dos descontos efetuados na conta corrente.
+Tendo o Banco falhado no implemento das medidas acautelatórias que lhe cabia, para impedir a ocorrência de possíveis fraudes, responde, de forma objetiva, pelos prejuízos causados ao correntista, pelo que não pode querer se esquivar das consequências da sua negligência.
+Isso porque as instituições bancárias possuem o dever de indenizar, não só amparado na conduta do agente causador do dano, mas, também, considerando o risco do exercício de sua atividade, em função de seu proveito econômico (teoria do risco), consoante já sumulado pelo Superior Tribunal de Justiça.
+Nesse contexto, examinando as razões do aresto recorrido, depreende-se que as instâncias estaduais delinearam a controvérsia dentro do conjunto probatório dos autos.
+Sendo assim, para rever tal premissa, ao contrário do afirmado pelo agravante, seria imprescindível o reexame de fatos e provas dos autos, providência vedada no âmbito do recurso especial, nos termos da Súmula n. 7/STJ.
+Ademais, a incidência da Súmula n. 7/STJ impossibilita o conhecimento do recurso especial por ambas as alíneas do permissivo constitucional.
+Confira-se:
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO CIVIL. ACIDENTE DE TRÂNSITO. INDENIZAÇÃO POR DANOS MORAIS. RESPONSABILIDADE SOLIDÁRIA NÃO RECONHECIDA NA ORIGEM. REVISÃO DAS CONCLUSÕES ESTADUAIS. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. INCIDÊNCIA DO ENUNCIADO N.º 7/STJ.
+1. A revisão da conclusão do Tribunal de Justiça de origem esbarra no óbice previsto no Enunciado n.º 7/STJ.
+2. Consoante o entendimento jurisprudencial do Superior Tribunal de Justiça, a incidência do Enunciado n.º 7/STJ, impede o conhecimento do recurso especial por ambas as alíneas do permissivo constitucional.
+3. Não apresentação pela parte agravante de argumentos novos capazes de infirmar os fundamentos que alicerçaram a decisão agravada.
+4 . AGRAVO INTERNO CONHECIDO E DESPROVIDO.
+(AgInt no REsp 1.751.427/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 08/06/2020, DJe 12/06/2020)
+Não merece ser acolhido o pedido, formulado pela parte agravada, de aplicação da multa prevista no § 4º do art. 1.021 do CPC/2015, porquanto esta não é automática, não se tratando de mera decorrência lógica do desprovimento do agravo interno em votação unânime. A condenação da parte agravante ao pagamento da aludida multa, a ser analisada em cada caso concreto, em decisão fundamentada, pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória, o que não ocorre no caso em apreço.
+Quanto ao pedido de aplicação da multa prevista no art. 1.026, § 2º, do Código de Processo Civil de 2015 pela parte adversa, impende destacar que, no caso, não se verifica o nítido caráter protelatório do recurso a autorizar a sua aplicação.
+Ante o exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição embargos manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição de multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
