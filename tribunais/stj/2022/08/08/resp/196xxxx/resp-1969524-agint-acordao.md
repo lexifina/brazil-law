@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 02/08/2022 a 08/08/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O EXMO. SR. MINISTRO BENEDITO GONÇALVES (Relator):Trata-se de agravo interno interposto contra decisão, assim ementada (fl. 505):
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. MANDADO DE SEGURANÇA. ICMS. BASE DE CÁLCULO DO PIS E DA COFINS. TEMA 69/STF. REPERCUSSÃO GERAL. LIMITAÇÃO EM RAZÃO DA SUPERVENIÊNCIA DA LEI 12.973/2014. ACÓRDÃO BASEADO EM FUNDAMENTO CONSTITUCIONAL. IMPOSSIBILIDADE DE APRECIAÇÃO. RECURSO ESPECIAL NÃO CONHECIDO.
+Embargos de declaração rejeitados (fls. 522/523).
+A parte agravante sustenta, em síntese, que a matéria discutida nos autos é de cunho infraconstitucional e diz respeito à violação dos arts. 165 e 168 do CTN, que permitem a compensação do indébito tributário no prazo quinquenal que antecede a ação.
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. MANDADO DE SEGURANÇA. ICMS. BASE DE CÁLCULO DO PIS E DA COFINS. TEMA 69/STF. REPERCUSSÃO GERAL. LIMITAÇÃO EM RAZÃO DA SUPERVENIÊNCIA DA LEI 12.973/2014. ACÓRDÃO BASEADO EM FUNDAMENTO CONSTITUCIONAL.
+1.Tendo o recurso sido interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Na espécie,o acórdão recorrido decidiu a controvérsiaacerca da limitação dos efeitos do precedente firmado no RE 574.706/PR (Tema 69 de repercussão geral) à vigência da Lei 12.973/2014, sob o enfoque eminentemente constitucional. Logo, o recurso especial se apresenta inviável quanto ao ponto, sob pena de se usurpar a competência reservada pela Constituição ao Supremo Tribunal Federal.
+3. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+O presente recurso não merece prosperar.
+A controvérsia posta nos autos diz respeito à possibilidade de compensação do indébito tributário, referente à inconstitucionalidade da inclusão do ICMS nas bases de cálculo do PIS e da COFINS, nos últimos cinco anos anteriores que antecede à ação e não somente a partir de 2014, tendo em vista o advento da Lei 12.973/2014.
+O Tribunal de origem, ao decidir a lide, apresentou os seguintes fundamentos (fls. 323/324):
+Portanto, são passíveis de apreciação e julgamento os processos nos quais se discute a inconstitucionalidade da inclusão do ICMS na base de cálculo do PIS e da COFINS, ante o quanto decidido pelo STF no RE nº 574/706/PR, ainda que não tenha ocorrido o trânsito em julgado deste decisum, visto que a possibilidade de modulação dos efeitos da decisão em apreço por ocasião da apreciação dos embargos de declaração opostos pela União naquele feito (RE nº574.706/PR) consubstancia evento futuro e incerto, que não constitui óbice à solução do mérito das demais demandas em que se discute o tema.
+No mais, cumpre consignar que este Tribunal tem entendido que "a promulgação da Lei 12.973/2014 não promoveu modificação legislativa relevante para a espécie, na medida em que não alterou o conceito da base de cálculo sobre a qual incide o PIS e a COFINS" (TRF 3ªRegião, Segunda Seção, EI - Embargos Infringentes - 1700170 - 0029413-91.2008.4.03.6100,Rel. Desembargador Federal Carlos Muta, julgado em 07/11/2017, e-DJF3 Judicial 1 Data:17/11/2017). Em suma: a pretensão de exclusão do ICMS da base de cálculo do PIS e da COFINS tem supedâneo em julgado proferido pelo STF em sede de repercussão geral.
+- Do termo para início da compensação
+Quanto ao termo para início da compensação, entendo que a r. sentença não merece reparos quando a restringiu aos valores indevidamente recolhidos a partir da vigência da Lei nº12.973/2014.
+A Lei nº 12.973/2014, indicada como fundamento jurídico da presente ação, afastou a tríplice identidade com o processo anteriormente ajuizado, razão pela a compensação deverá ser feita com os valores indevidamente pagos retroativamente até 01/01/2015, data do início da vigência da referida norma.
+Realmente, observa-se que o acórdão recorrido decidiu a controvérsia, acerca da limitação dos efeitos do precedente firmado no RE 574.706/PR (Tema 69 de repercussão geral) à vigência da Lei 12.973/2014, sob o enfoque eminentemente constitucional. Logo, o recurso especial se apresenta inviável quanto ao ponto, sob pena de se usurpar a competência reservada pela Constituição ao Supremo Tribunal Federal.
+A propósito:
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXCLUSÃO DO ICMS DA BASE DE CÁLCULO DO PIS E DA COFINS. RE 574.706/PR. TEMA 69 DE REPERCUSSÃO GERAL. LIMITAÇÃO EM RAZÃO DA SUPERVENIÊNCIA DA LEI 12.973/2014. ACÓRDÃO BASEADO EM FUNDAMENTO CONSTITUCIONAL. IMPOSSIBILIDADE DE APRECIAÇÃO DA MATÉRIA, NO MÉRITO, EM SEDE DE RECURSO ESPECIAL, SOB PENA DE USURPAÇÃO DA COMPETÊNCIA DO STF. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara Agravo em Recurso Especial interposto contra decisum publicado na vigência do CPC/2015.
+II. Na origem, trata-se de Mandado de Segurança, objetivando a exclusão do ICMS da base de cálculo da contribuição para o PIS e da COFINS, assegurando-se o direito à compensação do indébito. O Juízo singular denegou a segurança. O Tribunal de origem, em juízo de retratação, deu provimento à Apelação, limitando, porém, os efeitos da exclusão à entrada em vigor da Lei 12.973/2014.
+III. O Tribunal de origem decidiu a controvérsia, acerca da limitação dos efeitos do precedente firmado no Recurso Extraordinário 574.706/PR (Tema 69 de repercussão geral) à vigência da Lei 12.973/2014, sob o enfoque eminentemente constitucional, o que torna inviável a análise da questão, no mérito, em sede de Recurso Especial, sob pena de usurpação da competência do STF.
+Precedente do STJ.
+IV. Agravo interno improvido.
+(AgInt no AREsp n. 1.682.367/RS, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 8/3/2021, DJe de 15/3/2021.)
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. ENUNCIADO ADMINISTRATIVO Nº 3. PROCESSUAL CIVIL. TRIBUTÁRIO. EXCLUSÃO DO ICMS NA BASE DE CÁLCULO DO PIS E COFINS. DISCUSSÃO SOBRE A ABRANGÊNCIA DO JULGADO. LIMITAÇÃO À VIGÊNCIA DA LEI N. 12.973/2014. PRETENSÃO DE COLOCAR BALIZAS AO DECIDIDO PELO STF NO RE N. 574.706 RG / PR. IMPOSSIBILIDADE. TEMA CONSTITUCIONAL.
+1. Não cabe a este Superior Tribunal de Justiça emitir juízo a respeito dos limites do que foi julgado no precedente em repercussão geral do Supremo Tribunal Federal (RE nº 574.706 RG / PR), colocando novas balizas em tema de ordem Constitucional. Efetivamente, no presente caso, calcado o julgamento na aplicação da Lei 12.973/2014, esta somente poderia ser afastada se o fosse declarada inconstitucional por arrastamento, coisa que este Superior Tribunal de Justiça não pode realizar em recurso especial. Por outro lado, pende no STF o exame da modulação de efeitos que pode também limitar expressamente a eficácia do precedente à data de vigência da Lei n. 12.973/2014 ou a outra data a ser definida.
+2. Esse novo conflito entre o contribuinte e o fisco não pode ser dirimido dentro de recurso especial já que diz respeito à interpretação constitucional do precedente no RE n. 574.706 RG / PR, lavrado pelo STF. Nesse sentido há precedente desta Casa para situação análoga onde reconhecida a impossibilidade do STJ avançar sobre o referido julgado do STF (EDcl no REsp. n. 1.191.640 - SC, Segunda Turma, Rel. Min. Mauro Campbell Marques, julgado em 07.05.2019).
+3. Agravo interno não provido.
+(AgInt no AREsp n. 1.543.928/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 22/4/2020, DJe de 27/4/2020.)
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
