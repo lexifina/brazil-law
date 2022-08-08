@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+RELATÓRIO
+LUIZ FERNANDO APARECIDO DE OLIVEIRAinterpõe agravo regimental contra a decisão de fls. 1.195-1.197, queconheceu do agravo para negar provimento ao recurso especialdiante da aplicação da Súmula n. 284 do STF.
+Sustenta, reiterando o conteúdo meritório do recurso,que ocorreumero erro material, não prejudicando a compreensão da controvérsia.
+Requer o conhecimento e provimento do presente recurso para que seja reconsiderada a decisão agravada ou submetido o agravoà apreciação pela Turma.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTALNO AGRAVO EM RECURSO ESPECIAL. INCIDÊNCIA DA SÚMULA N. 284 DO STF. AGRAVO REGIMENTAL DESPROVIDO.
+1. Inexistindo correspondência entre a questão julgada pelo acórdão recorrido e o objeto de insurgência da parte,é cabível a incidência daSúmula n. 284 do STF.
+2.Agravo regimental desprovido.
+VOTO
+A irresignação não reúne condições de prosperar.
+Reitere-seque, conforme exposto na decisão de fls. 1.195-1.197, o ora agravante, nas razões do apelo extremo, suscita violação dos arts. 126, da Lei de Execução Penal e 24, I, da Lei n. 9.394/1996, sob o fundamento de que o apenado faz jus à remição de 178 dias pela sua aprovação no ENCCEJA no ensino fundamental. No entanto, o acórdão recorrido negou provimento ao agravo em execução, sob o fundamento de que o apenado faz jus à remição de 66 dias, em razão da sua aprovação no ensino médio.
+Sendo assim, o objeto da insurgência do ora agravante, isto é,remição de pena por conclusão no ensino fundamental do referido curso,não guarda correlação com a questão julgada pelo acórdão recorrido -remição por conclusão no ensino médio -,situação que enseja a incidência da Súmula n. 284 do STF.
+Nesse sentido:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. ATRASO NA ENTREGA DE IMÓVEL. DECISÃO DA PRESIDÊNCIA DESTA CORTE. RECONSIDERAÇÃO. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. JULGAMENTO EXTRA PETITA. NÃO CARACTERIZAÇÃO. ART. 944 DO CC/2002. FALTA DE PERTINÊNCIA TEMÁTICA COM A TESE DO ESPECIAL. SÚMULA N. 284 DO STF. DANO MORAL. VALOR DA INDENIZAÇÃO. PRINCÍPIOS DA PROPORCIONALIDADE E DA RAZOABILIDADE. SÚMULA N. 7 DO STJ. ÔNUS DA PROVA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. SIMPLES TRANSCRIÇÃO DE EMENTAS. SÚMULA N. 284 DO STF. RECURSO PROVIDO.
+1. A simples indicação dos dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor das Súmulas n. 282 e 356 do STF. 1.1 Ademais, não prospera a alegação de julgamento extra petita, uma vez que o acórdão recorrido não violou os limites objetivos da demanda, tampouco concedeu providência jurisdicional diversa da requerida na inicial.
+2. O art. 944 do CC/2002 não possui carga normativa para sustentar a tese de inexistência de danos morais, o que impede o conhecimento da insurgência, nos termos da Súmula n. 284/STF.
+3. O recurso especial não comporta o exame de questões que impliquem incursão no contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7 do STJ. Apenas em hipóteses excepcionais, quando irrisório ou exorbitante o valor da indenização por danos morais arbitrado na origem, a jurisprudência desta Corte permite o afastamento do referido óbice, para possibilitar a revisão. No caso, o montante estabelecido pelo Tribunal de origem não se mostra desarrazoado nem desproporcional, a justificar sua reavaliação em recurso especial.
+4. A análise das razões do agravante, a respeito de a parte ter ou não ter se desincumbido de seu ônus probatório e de ser errônea a distribuição de tal ônus, demandaria o revolvimento do conjunto fático-probatório, o que é vedado em sede de recurso especial, diante da Súmula n. 7 do STJ.
+5. A simples transcrição de julgados, sem cotejo analítico apto à demonstração da similitude fática entre o acórdão recorrido e os paradigmas, impede o conhecimento do especial pela alínea "c" do permissivo constitucional (Súmula n. 284/STF).
+6. Agravo interno a que se dá provimento para reconsiderar a decisão da Presidência desta Corte e negar provimento ao agravo nos próprios autos.(AgInt no AREsp n. 1.580.456/RJ, relator Ministro Antônio Carlos Ferreira, Quarta Turma, DJe de 18/2/2020.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE RECONHECIMENTO DE MATERNIDADE POST MORTEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DOS SUCESSORES DA AUTORA.
+1. A ausência de enfrentamento da matéria pelo Tribunal de origem impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento. Incidência da Súmula 282 do STF.
+1.1. In casu, não foram opostos embargos de declaração pela ora recorrente, tampouco fora apontado nas razões do apelo extremo, violação do artigo 1.022 do CPC/15, a fim de que esta Corte pudesse averiguar a existência de possível omissão no julgado quanto ao tema.
+2. O Tribunal local concluiu que o único propósito da insurgente em se ver declarada mãe registral do de cujus é de cunho patrimonial.
+Alterar o entendimento do acórdão recorrido, neste ponto, demandaria o reexame do conjunto fático probatório dos autos, o que é vedado em razão da incidência da Súmula 7 do STJ.
+3. A indicação de dispositivo legal sem pertinência temática e a menção a artigo de lei, desprovida de clareza e sem fundamentação precisa para remover a razão de decidir do acórdão recorrido, revelam a patente falha de fundamentação do apelo especial, circunstância que atrai a incidência da Súmula 284 do Supremo Tribunal Federal.
+4. Agravo interno desprovido.(AgInt no AREsp n. 1.467.671/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 4/3/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA AGRAVANTE.
+1. Não se conhece da alegada violação do art. 1022 do CPC/2015, quando a causa de pedir recursal se mostra genérica, sem a indicação precisa dos pontos considerados omissos, contraditórios, obscuros ou que não receberam a devida fundamentação, sendo aplicável a Súmula 284 do STF. Precedentes.
+2. Nos termos da jurisprudência deste Tribunal Superior, "inexiste nulidade processual quando ausente prejuízo às partes, (pas de nulitté sans grief) em observância ao princípio da instrumentalidade das formas no âmbito do direito processual" (AgInt no AREsp 1138899/MG, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 19/11/2019, DJe 22/11/2019). 2.1. "A vedação constante do art. 1.021, § 3º, do CPC não pode ser interpretada no sentido de se exigir que o julgador tenha de refazer o texto da decisão agravada com os mesmos fundamentos, mas outras palavras, mesmo não havendo nenhum fundamento novo trazido pela agravante na peça recursal" (EDcl no AgInt no RE nos EDcl no AgInt nos EDcl no REsp 1705978/BA, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, CORTE ESPECIAL, julgado em 10/09/2019, DJe 13/09/2019).
+3. Na hipótese, o aresto recorrido encontra apoio na orientação jurisprudencial firmada por esta Colenda Corte sobre a matéria, o que atrai a incidência da Súmula 83/STJ.
+4. Para infirmar as conclusões a que chegou o Tribunal de origem, demandaria, necessariamente, o reexame das provas carreadas aos autos, o que é vedado nesta instância extraordinária, a teor da Súmula 7/STJ.
+5. Agravo interno desprovido.(AgInt no AREsp n. 1.432.580/SP, relator Ministro Marco Buzzi, Quarta Turma, DJe de 31/3/2022.)
+Esclareça-se que não prospera a insurgência da parte no sentido de que houve mero erro material e que, por tal motivo, deveria ser superado talóbice e julgado o conteúdo meritório do recurso. Isso porque, consta do pedido final da petição de recurso especial que o ora agravante pleiteia a reforma do acórdão e o restabelecimento da decisão de primeiro grau que concluiu pela remição de 178 dias pela conclusão de ensino fundamental.
+Por sua vez, consta da decisão do Juiz da Vara e Execuções Penaisde Londrina o seguinte (fls. 1.019-1.020, destaquei):
+Ainda, considerando a conclusão do Ensino Médio, concedo 16 (dezesseis) dias de remição ao sentenciado, nos termos do § 5º, do art. 126, da LEP, correspondentes a carga horária do curso definido pela recomendação n.44 do CNJ, conforme anteriormente manifestado.
+ ..
+Diante do exposto, declaro remidos o total de 66 (sessenta e seis) dias referente à aprovação no exame do ENCCEJA 2019 e conclusão do ensino médio nos termos do art. 126, §1º, I, da LEP.
+Portanto, o agravante não logrou êxito em demonstrar situação superveniente que justificasse a alteração da decisão agravada.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
