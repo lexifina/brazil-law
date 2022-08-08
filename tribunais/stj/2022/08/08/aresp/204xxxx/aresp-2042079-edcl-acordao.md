@@ -1,0 +1,58 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 02/08/2022 a 08/08/2022, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+ROBERTO CORREA DRAGO e outros (ROBERTO e outros) ajuizaram ação de responsabilidade civil em desfavor de TG RIO DE JANEIRO EMPREENDIMENTOS IMOBILIÁRIOS S.A. e outra (TG e outra), em razão de atraso na entrega de unidade imobiliária.
+O pedido foi julgado parcialmente procedente para condenar TG e outra ao pagamento de indenização correspondente a 2% sobre o valor atualizado do imóvel por cada mês de mora, que perdurou de maio de 2015 a agosto de 2016 (e-STJ, fls. 527/530).
+Ambas as partes apelaram.
+O Tribunal de Justiçado Rio de Janeiro deu parcial provimento aos recursos, nos termos do acórdão assim ementado:
+"APELAÇÃO CÍVEL. DIREITO DO CONSUMIDOR. PROMESSA DE COMPRA E VENDA. ATRASO NA ENTREGA DO IMÓVEL. "Vila das Fontes". Versa a hipótese ação de indenização por danos materiais e morais, em que objetivam os autores reparação em decorrência de atraso na entrega de imóvel, adquirido na fase de construção, bem como em razão de omissão de informação, no momento da contratação, de que o terreno em que o imóvel estava sendo construído encontrava-se contaminado por materiais cancerígenos. Conjunto probatório dos autos do qual restou incontroverso ter havido atraso na entrega da unidade imobiliária objeto da presente lide, pelo que inegável o inadimplemento contratual das rés, uma vez que a obrigação fora cumprida com cerca de dois anos de atraso, de modo a ensejar o dever de ressarcir os prejuízos decorrentes de sua mora. Todavia, não observou a sentença haver expressa previsão no contrato, na cláusula 7.3.1.2, de multa moratória, equivalente a 0,5% do valor do imóvel, arbitrada para a hipótese de atraso na entrega do i móvel por parte da construtora, a qual deve ser aplicada durante todo o período da mora, qual seja, de junho/2015, mês subsequente ao prazo de entrega previsto (novembro/2014), computada a sua prorrogação por até 180 dias, até a data na qual as chaves foram efetivamente entregues aos autores, ou seja, até 19/07/2017.
+Por sua vez, embora não se possa negar tenha havido falha no dever de informação pela parte ré por ocasião da celebração da avença, em relação a contaminação do solo do empreendimento e que acabou por ensejar as restrições de uso do imóvel - escavação do solo, consumo e utilização de água subterrânea e plantio de frutíferas, conforme constou da concessão do "habite-se", por outro lado, também não se pode olvidar estar o imóvel atualmente reabilitado para uso residencial, bem como ter a construtora e incorporadora ofertado a oportunidade de desfazimento do negócio, o que foi refutado pelos autores, não tendo estes logrado comprovar qualquer dano material ou extrapatrimonial decorrente de tal fato. Danos extrapatrimoniais caracterizados, na espécie, ante o longevo atraso na entrega do imóvel adquirido. Sentença reformada, em parte, para condenar a parte ré a pagar aos autores indenização correspondente à multa moratória prevista na cláusula 7.3.1.2, a ser aplicada de junho/2015 até 19/07/2017, bem como ao pagam ento de indenização por danos morais no valor de R$ 15.000,00 (quinze mil reais) para todos os autores, condenadas as rés, ainda, ao pagamento das custas processuais e honorários advocatícios, fixados estes em 10% sobre o valor da condenação, restando o decisum mantido em seus demais termos.
+Provimento parcial de ambos os recursos de apelação." (e-STJ, fls. 656/657).
+Os embargos de declaração opostos por TG e outra foram rejeitados (e-STJ, fls. 698/706).
+Inconformadas, TG e outra interpuseram recurso especial, com fundamento no art. 105, III, a e c, da CF, alegando, além de dissídio pretoriano, ofensa aos arts. 141, 319, III, e 492 do CPC e 884 e 944, ambos do CC/02, sustentando (1) julgamento extra petita; (2) impossibilidade de cumulação de danos morais e multa contratual; e (3) inexistência de danos morais em casos de atraso na entrega de unidade imobiliária.
+O apelo nobre não foi admitido pelo Terceiro Vice-Presidente do Tribunal local ante a incidência das Súmulas nºs 5, 7 e 83 do STJ e a deficiência de cotejo analítico.
+Seguiu-se o agravo em recurso especial interposto por TG e outra, que, em decisão monocrática de relatoria do Ministro Presidente do STJ, não foi conhecido, com fulcro no art. 21-E, V, do RISTJ, porque não foram impugnados todos os fundamentos de inadmissibilidade do apelo nobre.
+Ainda inconformadas, TG e outra manejaram agravo interno, que não foi conhecido pela Terceira Turma desta Corte, nos termos da seguinte ementa:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INOBSERVÂNCIA DO ART. 1.021, § 1º, DO NCPC E INCIDÊNCIA DA SÚMULA Nº 182 DO STJ. AGRAVO INTERNO NÃO CONHECIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. O agravo interno não infirmou as razões da decisão agravada, pois não refutou, de forma devida, o entendimento de que o agravo em recurso especial anteriormente interposto não rebateu a deficiência de cotejo analítico. Inobservância do art. 1.021, § 1º, do NCPC e aplicação da Súmula nº 182 do STJ.
+3. Agravo interno não conhecido(e-STJ, fl. 845).
+Nas razões dos presentes embargos de declaração, TG e outra alegaraminaplicabilidade das Súmulas nºs 5,7e 83 do STJ.
+Houve impugnação ao recurso (e-STJ, fls. 861/865
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.RECURSO MANEJADO SOB A ÉGIDE DO NCPC.ART. 1.022 DO NCPC. OMISSÃO, OBSCURIDADE, CONTRADIÇÃO OU ERRO MATERIAL. INEXISTÊNCIA. PRETENSÃO DE REJULGAMENTO DA CAUSA. IMPOSSIBILIDADE.EMBARGOS REJEITADOS.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Os embargos de declaração constituem recurso de estritos limites processuais e se destinam a suprir omissão, afastar obscuridade, eliminar contradição eventualmente existentes no julgado combatido, bem como corrigir erro material. Assim, não se verificando nenhum desses vícios previstos no art. 1.022 do NCPC, o recurso integrativo não comporta acolhimento.
+3. Embargos de declaração rejeitados..
+VOTO
+Os embargos de declaração não comportam acolhimento.
+De plano, vale pontuar que os presentes embargos de declaração foram opostos contra acórdão publicado na vigência do novo Código de Processo Civil, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+O inconformismo agora manejado não merece acolhimento em virtude da ausência dos vícios previstos no art. 1.022 do NCPC.
+O acórdão recorrido não foi obscuro, omisso, contraditório e tampouco apresentou erro material, tendo concluído que o agravo interno não poderia ser conhecido por não ter infirmado as razões da decisão agravadade queo agravo em recurso especial anteriormente interposto não rebateua deficiência de cotejo analítico.
+Confira-se:
+Incide ao caso a Súmula nº 182 do STJ.
+O agravo interno não impugnou as razões da decisão agravada, na medida em que não infirmou o entendimento de que o agravo em recurso especial anteriormente interposto não rebateu a deficiência de cotejo analítico.
+Isso porque, nas razões do presente agravo interno, TG e outra limitaram-se a reeditar os mesmos argumentos do agravo em recurso especial.
+Vale pontuar que o art. 1.021, § 1º, do NCPC determina que, na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada, o que, como visto, não foi observado no presente caso.
+Ademais, em obediência ao princípio da dialeticidade, exige-se da parte agravante o desenvolvimento de argumentação capaz de demonstrar a incorreção dos motivos nos quais se fundou a decisão agravada, técnica ausente nas razões dessa irresignação, a atrair a incidência da Súmula nº 182 desta Corte, do seguinte teor: É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.
+ ..
+Assim, porque os argumentos que TG e outra trouxeram não atacaram o fundamento da decisão agravada, fica prejudicada sua análise em virtude da não admissão do recurso em razão da incidência da Súmula nº 182 desta Corte(e-STJ, fls. 847/849).
+Vale salientar que os embargos de declaração constituem recurso de estreitos limites processuais, somente sendo cabíveis nas hipóteses previstas no art. 1.022 do NCPC, ou seja, para sanar omissão, contradição, obscuridade ou corrigir erro material no acórdão, o que não ocorreu no caso presente.
+A mera veiculação de inconformismo não é finalidade a que se prestam.
+Nesse sentido, confiram-se os precedentes:
+EMBARGOS DE DECLARAÇÃO. OBSCURIDADE, CONTRADIÇÃO OU OMISSÃO OU ERRO MATERIAL. INEXISTÊNCIA. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA.
+1. Rejeitam-se os embargos declaratórios quando, no acórdão embargado, não há nenhum dos vícios previstos no art. 1.022 do CPC/2015.
+2. Embargos de declaração rejeitados.
+(EDcl no AgRg no AREsp 214.812/RS, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Terceira Turma, j. 19/5/2016, DJe 24/5/2016 - sem destaque no original)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL.INEXISTÊNCIA DOS REQUISITOS DO ART. 1.022 E INCISOS DO CPC DE 2015. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Depreende-se do artigo 1.022, e seus incisos, do novo Código de Processo Civil que os embargos de declaração são cabíveis quando constar, na decisão recorrida, obscuridade, contradição, omissão em ponto sobre o qual deveria ter se pronunciado o julgador, ou até mesmo as condutas descritas no artigo 489, parágrafo 1º, que configurariam a carência de fundamentação válida. Não se prestam os aclaratórios ao simples reexame de questões já analisadas, com o intuito de meramente dar efeito modificativo ao recurso.
+2. No caso dos autos não ocorre nenhuma das hipóteses previstas no artigo 1.022 do novo CPC, pois o acórdão embargado apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+ ..
+5. Embargos de declaração rejeitados.
+(EDcl no AgRg no AREsp 817.655/SP, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, j. 19/5/2016, DJe 27/5/2016 - sem destaques no original)
+Em suma, a pretensão desborda das hipóteses de cabimento dos aclaratórios, previstas no art. 1.022 do NCPC.
+Nessas condições, pelo meu voto,REJEITOos embargos de declaração.
