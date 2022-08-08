@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 02/08/2022 a 08/08/2022, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA: Trata-se de embargos de declaração opostos por RENATO TRISTÃO MACHADO JUNIOR contra acórdão prolatado pela Eg. Primeira Turma, assim ementado:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO. BENEFÍCIO DA JUSTIÇA GRATUITA INDEFERIDO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA 7/STJ.1. O Tribunal a quo, com arrimo no acervo probatório dos autos, consignou que não restou comprovada a alegada hipossuficiência econômica apta a autorizar o deferimento da gratuidade judiciária. Assim, para rever tal conclusão, seria necessário efetuar o reexame de matéria fática, providência vedada na estreita via do recurso especial, nos termos da Súmula 7 desta Corte.2. Agravo interno não provido.
+O embargante, em suas razões, requer"seja apresentado o contexto, que para a modificação do entendimento firmado, no sentido de que não foi demonstrada a alegada hipossuficiência econômica a autorizar o deferimento da gratuidade judiciária, enseja no óbice na Súmula 7 desta Corte, na medida em que o trecho reproduzido do acórdão recorrido não faz menção a nenhum dos requisitos legais para a gratuidade, e isso aliás foi até entendido, como consta no relatório. Se fazem necessários os esclarecimentos, com o efetivo pronunciamento das questões suscitadas sob pena de omissão sobre pontos os quais este tribunal deveria se manifestar." (fl. 521).
+A parte agravada apresentouimpugnação (fl. 529).
+É o relatório.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 1.022 DO CPC/2015.
+1. De acordo com a norma prevista no artigo 1.022 do CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão da decisão recorrida ou erro material.
+2. No caso, não se verifica a existência de quaisquer das deficiências em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3.Embargos de declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (RELATOR): Não prospera a irresignação da parte embargante.
+De acordo com o previsto no artigo 1.022 do CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão do acórdão atacado ou para correção de erro material.
+Entretanto, no caso, não se verifica a existência de quaisquer das referidas deficiências.
+O julgado embargado bem expôs os fundamentos pelos quais o agravo interno não foi conhecido (fl. 515):
+Com efeito, conforme constou no decisum singular, ao concluir pelo indeferimento da gratuidade judiciária, o Tribunal local teceu a seguinte argumentação (fls. 197/199):
+Em que pese o inconformismo do recorrente, não lhe assiste razão. Para o deferimento da gratuidade de justiça, embora seja reconhecida pela jurisprudência a possibilidade de seu deferimento apenas com base nas declarações da parte interessada, de que não possui condições de arcar com as despesas do processo, nada obsta que, diante das circunstâncias do caso contrato, o magistrado possa exigir da parte que comprove a condição de hipossuficiente, como ocorreu no caso em tela.
+(..)
+Pelo citado dispositivo constitucional, a assistência judiciária só é devida a quem comprove a hipossuficiente, o que não ocorreu no caso em tela. Pelo que consta dos autos o autor é advogado, atua em diversos processos neste Tribunal de Justiça, com constou da decisão agravada, e a multa por infração de trânsito que deu azo à demanda originária foi aplicada enquanto conduzia uma motocicleta Honda Hornet 600 2015, considerada com topo de linha, muito acima daquelas consideradas populares, cuja avaliação em sítios especializado é de aproximadamente R$ 29.000,00 (ano 2014) ( http ://motos. mercadolivre. com. br/honda/rio-de-janeiro/hornet-600-2017 Orderld PRICE*DESC VEHICLE*YEAR 2014-2014). Não se trata, portanto, de discriminação por ser advogado, como asseverado no recurso, mas de inexistência dos requisitos para concessão da assistência judiciária.
+Não custa ressaltar que o Código de Processo Civil do 2015, em seu art. 99, § 2 2 , dispõe que § 2 2 - O juiz somente poderá indeferir o pedido se houver nos autos elementos que evidenciem a falta dos pressupostos legais para a concessão de gratuidade, devendo, antes de indeferir o pedido, determinar à parte a comprovação do preenchimento dos referidos pressupostos. Assim, diante do citado dispositivo, pode s o magistrado exigir da parte que comprove sua hipossuficiência, com aconteceu no caso em tela. Cumpre ressaltar que a declaração de hipossuficiente tem presunção relativa de veracidade:
+Nesse contexto, a modificação do entendimento firmado, no sentido de que não foi demonstrada a alegada hipossuficiência econômica a autorizar o deferimento da gratuidade judiciária, na estreita via do recurso especial, encontra óbice na Súmula 7 desta Corte.
+Dessarte, não podem ser acolhidos embargos declaratórios que, a pretexto da alegada omissão e contradição do acórdão embargado, traduzem, na verdade, o inconformismo da parte embargante com a decisão tomada, pretendendo rediscutir o que já foi decidido.
+Nessepanorama, inexistente qualquer omissão no julgado embargado, conforme exige o art.1.022 do Novo CPC/2015, impõe-se a rejeição dos presentes embargos de declaração. A propósito, destaca-se o seguinte julgado:
+EMBARGOS DE DECLARAÇÃO. PROCESSUAL CIVIL. OMISSÃO NÃO DEMONSTRADA. PRETENSÃO DE REDISCUTIR QUESTÕES DEVIDAMENTE EXAMINADAS E DECIDAS NA DECISÃO EMBARGADA. INVIABILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos rígidos limites estabelecidos pelo art. 535, incisos I e II, do Código de Processo Civil, os embargos de declaração destinam-se a suprir omissão, afastar obscuridade ou eliminar contradição eventualmente existentes no julgado.
+2. A obtenção de efeitos infringentes, como pretende a Embargante, somente é possível, excepcionalmente, nos casos em que, reconhecida a existência de um dos defeitos elencados nos incisos do mencionado art. 535, a alteração do julgado seja consequência inarredável da correção do referido vício; bem como nas hipóteses de erro material ou equívoco manifesto, que, por si sós, sejam suficientes para a inversão do julgado. Precedentes.
+3. A pretensão de rediscutir matéria devidamente abordada e decidida no acórdão embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via dos aclaratórios.
+4. Embargos de declaração rejeitados.
+(EDcl no AgRg no RE nos EDcl no AgRg no REsp 993.078/SP, Rel. Ministra LAURITA VAZ, CORTE ESPECIAL, julgado em 17/9/2014, DJe 10/10/2014)
+ANTE O EXPOSTO, rejeitam-se os embargos declaratórios.
+É o voto.
