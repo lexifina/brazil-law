@@ -1,0 +1,24 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 02/08/2022 a 08/08/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno manejado pelo Estado do Maranhãodesafiando decisão daPresidênciado STJ, que conheceu do agravo para não conhecer do recurso especial, com base nos seguintes motivos: (I) razões dissociadas dos fundamentos utilizados no aresto impugnado, por ausência de refutação específica (Súmula 284/STF); (II) ausência de prequestionamento (Súmula 282/STF); e (III) dissídio jurisprudencial não comprovado (fls. 303/307).
+O agravante sustenta a inaplicabilidade dos referidos óbices. Defende que, "Quanto ao prequestionamento, destaca-se do acórdão do TJMA que julgou os Embargos de Declaração do Estado trecho em que especificamente demonstra a discussão quanto à prescrição, além de fazer remissão ao acórdão da Apelação, demonstrando que ali também havia sido discutida a questão" (fl. 313), bem como que "tendo o Recurso Especial do Estado debatido sobre a tese de prescrição que está presente no acórdão, não há razões dissociadas, logo não há como entender pela aplicação da Súmula 284/STF" (fl. 314).
+Assevera, por fim, que, "quanto ao entendimento de que não houve a comprovação do devido dissídio jurisprudencial, é preciso destacar que a interposição do Recurso Especial, a despeito de haver a indicação de que seria pelas alínea "a" e "c" do art. 105, III da CF/88, é possível verificar equívoco de capitulação quando o recurso é todo fundamentado na violação de lei federal, art. 1º do Decreto Lei 20.910/32, no que concerne à prescrição." (fl. 314).
+Impugnação às fls. 319/334.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. EXECUÇÃO INDIVIDUAL DE SENTENÇA COLETIVA. PRESCRIÇÃO. FUNDAMENTO QUE AMPARA O ACÓRDÃO RECORRIDO NÃO IMPUGNADO. INCIDÊNCIA DA SÚMULA 283/STF.
+1. Verifica-se que o recurso especial não impugnou fundamento basilar que ampara o acórdão recorrido, esbarrando, pois, no obstáculo da Súmula 283/STF, que assim dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles". A respeito do tema: AgInt no REsp 1711262/SE, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 17/2/2021; AgInt no AREsp 1679006/SP, Rel. Ministro Raul Araújo, Quarta Turma, DJe 23/2/2021.
+2. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Em que peseaos argumentos aduzidos no presente recurso, a decisão agravada não merece reparos.
+De início, cumpre observar que não é caso de incidência das Súmulas 282 e 284/STF, em razão do efetivo prequestionamento da matéria, bem como em virtude de não haverrazões dissociadas dos fundamentos utilizados no aresto impugnado.
+Quanto ao mais, contudo, não merece reparos a decisão ora agravada.
+Com efeito, em relação à prescrição, extrai-se do aresto recorrido a seguinte fundamentação (fl. 146):
+Ademais, quanto as alegações de prescrição da pretensão executória e de ilegitimidade ativa, a despeito de, em tese, constituírem matéria de ordem pública, estas deverão ser alegadas no momento oportuno - Impugnação ao Cumprimento da Sentença (art. 535 do CPC) - sob pena de configuração de supressão de instância, violação do contraditório e da ampla defesa, além de possível reformatio in pejus, uma vez que poderia resultar em decisão contrária a pedido do agravante sem que houvesse oportunidade para sua manifestação.
+Desse modo, o presente recurso deve se limitar a análise, tão somente, da matéria objeto da decisão agravada, ou seja, a suspensão do processo de cumprimento de sentença fundada na ausência do trânsito em julgado da decisão homologatório de cálculos no processo de liquidação da sentença proferida nos autos da Ação Coletiva nº 6542/2005.
+Assim, a decisão agravada deve ser mantida, pois, de fato, o recurso especial não impugnou o referidofundamento basilar que ampara o acórdão recorrido, esbarrando no obstáculo da Súmula 283/STF, que assim dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".A respeito do tema:AgInt no REsp 1711262/SE, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 17/2/2021; AgInt no AREsp 1679006/SP, Rel. Ministro Raul Araújo, Quarta Turma, DJe 23/2/2021.
+ANTE O EXPOSTO, nega-se provimento ao agravo interno.
+É o voto.
