@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 02/08/2022 a 08/08/2022, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Agravo Interno Contra decisão que não conheceu do Agravo em Recurso Especial por ausência de impugnação à Súmula 83/STJ, fazendo incidir a Súmula 182/STJ.
+Defende Banco Mercantil de Investimentos S.A.:
+7. No entanto, diferentemente do afirmado, os Agravantes dedicaram um Tópico inteiro ("II - REFORMA DA DECISÃO AGRAVADA - INAPLICABILIDADE DA SÚMULA Nº 83/STJ" - fls. 311/313 e-STJ / ID 99447091: págs. 110-112) exclusivamente para demonstrar o equívoco da Vice-Presidência do TRF1 em inadmitir o Recurso Especial com base no aludido enunciado sumular.
+ ..
+9. Foi exatamente nesse contexto que os Agravantes, por meio do Tópico III do Agravo em Recurso Especial ("DA OMISSÃO NO ACÓRDÃO DO TRF1 - VIOLAÇÃO AOS ARTIGOS 458, II, E 535, II DO CPC/73" - fls. 313/314 e-STJ / ID 99447091: págs. 112-113), demonstraram a admissibilidade do apelo para, ao menos, se reconhecer a necessidade de apreciação das alegações de negativa de prestação jurisdicional, na medida em que, mesmo após a oposição de 2 (dois) embargos declaratórios, a Corte local não se pronunciou sobre as questões atreladas ao art. 2º da CLT (conceito legal de empregador) e ao art. 110 do CTN (primazia do direito provado sobre o direito tributário).
+É o Relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. RECURSO QUE NÃO IMPUGNA, ESPECIFICAMENTE, OS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ E ART. 1.021, § 1º, DO CPC/2015.
+1. Trata-se de Agravo Interno Contra decisão que não conheceu do Agravo em Recurso Especial por ausência de impugnação à Súmula 83/STJ, fazendo incidir a Súmula 182/STJ.
+2. Para impugnar a incidência da Súmula 83/STJ, o agravante deve demonstrar que os precedentes indicados na decisão agravada são inaplicáveis ao caso ou deve colacionar precedentes contemporâneos ou supervenientes aos indicados na decisão para comprovar que outro é o entendimento jurisprudencial do STJ. Nesse sentido: AgRg no AREsp 815.940/RS, Rel. Min. Humberto Martins, Segunda Turma, DJe 25.2.2016).
+3. Além disso, de há muito, encontra-se pacificado o entendimento de que a Súmula 83 do STJ é aplicável tanto pela alínea "a" quanto pela "c" do permissivo constitucional.Vide: AgRg no REsp 1.361.608/RN, Rel. Min. Regina Helena Costa, Primeira Turma, DJe 12.5.2016; AgRg no AREsp 804.289/PR, Rel. Min. Herman Benjamin, Segunda Turma, DJe 24.5.2016.
+4. Segundo entendimento firmado pela Segunda Turma desta Corte, "o recurso que insiste em não atacar especificamente os fundamentos da decisão recorrida seguidamente é manifestamente inadmissível (dupla aplicação do art. 932, III, do CPC/2015)" (AgInt no AREsp 974.848/SP, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe de 13.3.2017).
+5. Agravo Interno não conhecido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 8 de junho de 2022.
+Para impugnar a incidência da Súmula 83/STJ, o agravante deve demonstrar que os precedentes indicados na decisão agravada são inaplicáveis ao caso ou deve colacionar precedentes contemporâneos ou supervenientes aos indicados na decisão para comprovar que outro é o entendimento jurisprudencial do STJ. Nesse sentido: AgRg no AREsp 815.940/RS, Rel. Min. Humberto Martins, Segunda Turma, DJe 25.2.2016.
+Além disso, de há muito, encontra-se pacificado o entendimento de que a Súmula 83 do STJ é aplicável tanto pela alínea "a" quanto pela "c" do permissivo constitucional.Vide: AgRg no REsp 1.361.608/RN, Rel. Min. Regina Helena Costa, Primeira Turma, DJe 12.5.2016; AgRg no AREsp 804.289/PR, Rel. Min. Herman Benjamin, Segunda Turma, DJe 24.5.2016.
+Segundo entendimento firmado pela Segunda Turma desta Corte, "o recurso que insiste em não atacar especificamente os fundamentos da decisão recorrida seguidamente é manifestamente inadmissível (dupla aplicação do art. 932, III, do CPC/2015)" (AgInt no AREsp 974.848/SP, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe de 13.3.2017). Veja-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL INADMITIDO. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO. ART. 932, III, DO CPC/2015 E SÚMULA 182/STJ. AGRAVO INTERNO. RECURSO QUE NÃO IMPUGNA, ESPECIFICAMENTE, OS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ E ART. 1.021, § 1º, DO CPC/2015. AGRAVO INTERNO NÃO CONHECIDO, COM APLICAÇÃO DA MULTA, PREVISTA NO ART. 1.021, § 4º, DO CPC/2015.
+I. Agravo interno aviado contra decisão que julgara recurso interposto contra decisum publicado na vigência do CPC/2015.
+II. No caso, o Recurso Especial não foi admitido, na origem, pela incidência dos óbices das Súmulas 5/STJ e 7/STJ. O Agravo em Recurso Especial interposto não impugnou os fundamentos do decisum, o que conduziu ao seu não conhecimento, cuja decisão ora é agravada regimentalmente.
+III. No presente Agravo interno a parte recorrente apresenta razões outras, deixando de impugnar, novamente, de modo específico, os fundamentos da decisão agravada.
+IV. Interposto Agravo interno com fundamentação deficiente, constituem óbices ao conhecimento do inconformismo a Súmula 182 desta Corte e o art. 1.021, § 1º, do CPC/2015.
+V. Renovando-se, no Agravo interno, o vício que comprometia o conhecimento do Agravo em Recurso Especial, inarredável a edição de novo juízo negativo de admissibilidade.
+VI. Segundo entendimento firmado pela Segunda Turma desta Corte, "o recurso que insiste em não atacar especificamente os fundamentos da decisão recorrida seguidamente é manifestamente inadmissível (dupla aplicação do art. 932, III, do CPC/2015), devendo ser penalizado com a multa de 1%, sobre o valor atualizado da causa, prevista no art. 1.021, §4º, do CPC/2015" (STJ, AgInt no AREsp 974.848/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 13/03/2017).
+Nesse mesmo sentido: STJ, AgInt no AREsp 960.285/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 15/12/2016; AgInt no AREsp 920.112/DF, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 25/10/2016.
+VII. Agravo interno não conhecido, com aplicação da multa, prevista no art. 1.021, § 4º, do CPC/2015, de 1% (um por cento) sobre o valor atualizado da causa, por se tratar de recurso manifestamente inadmissível (AgInt no AREsp 2.023.427/SP, Rel. Min. Assusete Magalhães, Segunda Turma, DJe 12.5.2022).
+Ademais, a irresignação não merece acolhida. Da leitura atenta do voto condutor, vê-se que o Tribunal de origem manifestou-se de maneira clara e embasada acerca das questões relevantes para o deslinde do conflito, mesmo sem ter examinado individualmente cada um dos argumentos trazidos pelo vencido.
+Dessa forma, correta a rejeição dos Embargos de Declaração ante a inexistência de omissão, contradição ou obscuridade a serem sanadas. Por conseguinte, deve-se concluir não ter havido ofensa aos artigos 489 e 1.022 do CPC/2015.
+Sem motivos para rever a decisão presidencial que fez incidir a Súmula 182/STJ.
+Diante do exposto, não conheço do Agravo Interno.
+É como voto.
