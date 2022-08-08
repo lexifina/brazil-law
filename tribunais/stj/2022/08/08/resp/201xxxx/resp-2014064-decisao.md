@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de Recurso Especial interposto (art. 105, III, "a" e "c", da Constituição da República) contra acórdão assim ementado (fl. 520, e-STJ):
+AGRAVO INTERNO - AUSÊNCIA DE RAZÕES PARA MODIFICAÇÃO DA DECISÃO MONOCRÁTICA - RECURSO NÃO PROVIDO. - Conforme o disposto no art. 1.021, §1º do CPC, caso os fundamentos constantes no Agravo Interno não sejam capazes de convencer o Relator acerca da necessidade de retratação monocrática, o feito será levado a julgamento pelo órgão colegiado. - Analisada a controvérsia e não vislumbrando a turma julgadora razões para a modificação da decisão, nega-se provimento ao agravo interno.
+A recorrente aponta ofensa, em preliminar, aos arts. 489 e 1.022 do CPC; no mérito, aoart. 1.021, § 4º, do CPC. Defende:
+O presente recurso se pauta na violação ao 1.021, §4º, do CPC/2015, por ausência de preenchimento dos seus requisitos para aplicação, pelo acórdão recorrido, da multa fixada em 1% sobre o valor da causa. A demonstração desse item do cabimento se confunde com o próprio mérito recursal e será explicitada em mais detalhes nos tópicos seguintes.
+Adianta-se apenas que o Agravo Interno interposto pela ora Recorrente não era manifestamente incabível ou improcedente. O cabimento foi reconhecido pelo TJMG, que atestou o preenchimento dos pressupostos de admissibilidade e passou ao enfrentamento do seu mérito. A manifesta improcedência também foi afastada pelo fato de o próprio acórdão combatido ter reconhecido a existência dos pontos de distinção suscitados pela Recorrente (fundamentos do Agravo Interno), atestando que seriam enfrentados pelo Tribunal em outro momento.
+Portanto, o único fundamento do acórdão recorrido que subsistiu para aplicação dessa multa foi o mero desprovimento do agravo interposto, por decisão unânime. Contudo, consoante será demonstrado, esse posicionamento está em total desconformidade com a orientação do E. STJ sobre essa matéria.
+No que se refere ao prequestionamento, vale lembrar que, em que pese a inexistência de menção literal ao dispositivo violado, ou seja, do prequestionamento numérico, o acórdão combatido apreciou expressamente a tese que se busca levar à apreciação desta Corte. Até porque, é o art. 1.021, §4º, do CPC/2015 o dispositivo específico do CPC que permite a fixação da referida multa, nos moldes em que aplicada pelo TJMG  "Art. 1.021. (..) §4º(..) condenará o agravante a pagar ao agravado multa fixada entre um e cinco por cento do valor atualizado da causa" .
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 30 de julho de 2022.
+A irresignação esbarra no óbice da Súmula 7 do STJ.
+Para melhor compreensão da controvérsia, transcrevo trechodo aresto recorrido (e-STJ, fls. 670-672):
+É certo que o mandado de segurança ajuizado pela Talube e o Recurso Especial afetado apresentam diferenças entre si. Conforme afirma a agravante, são demandas de Estados distintos, as partes exercem atividades diversas e há peculiaridades legislativas a serem analisadas. Obviamente, tais pormenores serão analisados quando do julgamento da apelação.
+Porém, não há como ignorar que a tese firmada pelo Supremo terá algum impacto sobre a situação da ora agravante, já que a controvérsia definida foi "a possibilidade, ou não, da aplicação da metodologia de cálculo denominada diferencial de alíquota de ICMS à empresa optante pelo SIMPLES NACIONAL, em face de possível usurpação de competência da União e do princípio da não- cumulatividade" (Tema 517). E o que pleiteia a apelante/agravante é justamente a não incidência do diferencial de alíquota de ICMS a ela, empresa optante pelo SIMPLES NACIONAL, em virtude do princípio da não-cumulatividade.
+Conforme se extrai do breve relato da apelação e foi ressaltado na decisão recorrida, a própria recorrente argumenta pela aplicação
+dos fundamentos analisados no RE 970821/RS/RG (Tema 517) ao seu caso.
+Logo, impossível declarar que a demanda em tela é totalmente distinta, sendo inaplicável o paradigma citado, ao menos no presente momento processual.
+No mais, este recurso tem o escopo apenas de que seja afastada a suspensão determinada nos autos apelação de nº 1.0000.20.061620-9/001, com fundamento em ordem do STF em razão da afetação do RE nº 970.821 (Tema 517).
+Logo, entendo que foi esvaziado o objeto deste recurso.
+Finalmente, acrescento que a empresa demonstra o intuito de um adiantamento de posicionamento em relação ao seu caso, o que é inviável e revela a manifesta improcedência do recurso. Além disso, a interposição repetida de recursos pela ora agravante apenas tem atrasado a análise da apelação, que a esta altura já teria saído da suspensão e sido julgada.
+Mediante o exposto, NEGO PROVIMENTO AO RECURSO.
+Sendo unânime a votação, condeno o agravante a pagar ao agravado multa que fixo em um por cento do valor atualizado da causa, em razão do acima exposto.
+Nota-se que a instância de origem decidiu a questão com base no suporte fático-probatório dos autos, cuja reapreciação é inviável no Superior Tribunal de Justiçaante o impedimento da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial". Afasta-se, portanto, a ideia de simples valoração da prova.
+Por tudo isso, não conheço do Recurso Especial.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se.
+Intimem-se.
