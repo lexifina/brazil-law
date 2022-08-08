@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 02/08/2022 a 08/08/2022, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+Trata-se de embargos de declaração opostos por GOL LINHAS AÉREAS S.A. contra acórdão assim ementado (e-STJ fl. 730):
+TRIBUTÁRIO. COFINS-IMPORTAÇÃO. AERONAVES, PEÇAS E PARTES. ADICIONAL DE ALÍQUOTA. LEGALIDADE. GATT. CLÁUSULA DE OBRIGAÇÃO DE TRATAMENTO NACIONAL. INAPLICABILIDADE.
+1. A Primeira Turma do STJ, no julgamento do REsp 1.926.749, alinhando-se ao entendimento da Segunda Turma, decidiu que o adicional de 1% da alíquota de Cofins-Importação previsto no § 21 do art. 8º da Lei n. 10.865/2004 acrescentou um ponto percentual sobre todas as alíquotas da Cofins-Importação de que trata referido dispositivo legal, bem como confirmou entendimento desta Corte Superior de que a Cláusula de Obrigação de Tratamento Nacional, prevista no GATT, não abrange a referida contribuição.
+2. Agravo interno desprovido.
+Em suas razões, a parte embargante aduz que há omissão no acórdão recorrido, pois, no seu entender, não houve manifestação sobre as seguintes questões:
+ ..
+Com efeito, o aresto efetivamente foi omisso em relação ao art. 2º, §2º, da LINDB, o qual dispõe que norma geral posterior não revoga norma especial anterior, salvo expressamente. Desse modo, a previsão de alíquota zero da COFINS-Importação nas operações de importação de aeronaves e suas partes e peças tem previsão em regra específica (art. 8, §12º, VI e VII, da Lei nº 10.865/2004), a qual é regulamentada pelo Decreto nº 5.171/2004, ainda vigente.
+Por outro lado, a instituição do adicional de 1% da COFINS-Importação com o acréscimo do §21 ao art. 8º da Lei nº 10.865/2004 é norma genérica posterior.
+ ..
+Também é inequívoca a omissão em relação aos precedentes dessa Corte Superior. Isso porque o acórdão embargado encontra-se pautado em premissa equivocada, na medida em que o acórdão que subsidia os precedentes citados (REsp nº 1.660.652/RS) não versa sobre a necessária interpretação e aplicação do art. 3º do Acordo GATT (não analisado no julgado em referência) o qual, na realidade, analisa norma distinta: o art. 7º do Decreto nº 350/1991. Esse dispositivo promulgou o Tratado Mercosul ou Tratado de Assunção, com redação, interpretação e aplicação diversa.
+ ..
+Outra omissão verificada no acórdão embargado está na fundamentação relativa à (não) aplicação do entendimento firmado no REsp nº 1.840.139/SP por essa Turma. A esse respeito, o voto condutor transcreveu um trecho do voto do Ministro Benedito Gonçalves no REsp nº 1.926.749/MG.
+Ocorre que o distinguishing promovido pelo relator do REsp nº 1.926.749/MG para afastar a aplicação da tese firmada REsp nº 1.840.139/SP não é, data máxima vênia, suficiente.
+Na realidade, a motivação contida no REsp nº 1.840.139/SP deve ser aplicada com maior razão ao presente caso. Ainda mais porque em relação aos produtos químicos e fármacos, a alíquota zero está expressamente prevista apenas em norma regulamentar (Decreto nº 6.426/2008, a partir da autorização contida no art. 8ª, §11, I, da Lei nº 10.865/2004). Por outro lado, no caso do setor aéreo, além de constar expressamente no Decreto nº 5.171/2004, a alíquota zero aéreo também decorrente diretamente da previsão do art. 8º, §12, VI e VII, da Lei 10.865/2004.
+ ..
+Apesar da contrariedade do pleito recursal com a sistemática normativa vigente, a decisão monocrática confirmada no agravo interno deu provimento ao recurso fazendário e concluiu que "o adicional de 1% da alíquota de Cofins-Importação previsto no § 21 do art. 8º da Lei n. 10.865/2004 incide sobre os bens que foram anteriormente taxados com alíquota zero no § 12, VI e VII, do referido dispositivo legal".
+Essa conclusão está em nítida dissonância com o conteúdo do art. 8º, §12, VI e VII , da Lei nº 10.865/2004 e do art. 4º, VI e VII 6 , do Decreto nº 5.171/2004.
+Além disso, não observou o disposto no art. 97 da CF e na Súmula Vinculante 10. Isso porque, embora não tenha declarado expressamente a inconstitucionalidade dos dispositivos instituidor e regulamentador da alíquota zero, a Turma afastou a sua aplicação no caso concreto. A citação dos precedentes das Turmas de direito público como fundamento não elimina a necessidade de submeter a questão à Corte Especial do STJ.
+ ..
+Nas razões do agravo interno, a embargante demonstrou que a continuidade da vigência do Decreto nº 5.171/2004, tal como o Decreto apreciado no REsp nº 1.840.139/SP pela Primeira Turma, deve ser considerada no julgamento do presente caso como indicativo da manutenção da política pública de desoneração do setor aéreo. A peça demonstrou que desconsiderar essa norma implica na violação do princípio da legalidade, inserto nos artigos 5º, II, e 150, I, da CF/1988 (fl. 718, e-STJ).
+Decorrido, in albis, o prazo para impugnação (e-STJ fl. 759).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. PRESSUPOSTOS. INEXISTÊNCIA. SÚMULA VINCULANTE. VIOLAÇÃO. NÃO OCORRÊNCIA. DISPOSITIVO CONSTITUCIONAL. EXAME. IMPOSSIBILIDADE.
+1. Os embargos de declaração têm por escopo sanar decisão judicial eivada de obscuridade, contradição, omissão ou erro material.
+2. Hipótese em que a fundamentação consignada no acórdão embargado foi clara ao assentar que: "a Primeira Turma do STJ, no julgamento do RESP n. 1.926.749, alinhando-se ao entendimento da Segunda Turma, decidiu que o adicional de 1% da alíquota de Cofins-Importação previsto no § 21 do art. 8º da Lei 10.865/2004 acrescentou um ponto percentual sobre todas as alíquotas da Cofins-Importação de que trata referido dispositivo legal, bem como confirmou entendimento desta Corte Superior de que a Cláusula de Obrigação de Tratamento Nacional, prevista no GATT, não abrange a Cofins-importação."
+3. Segundo orientação desta Corte, "não há violação da Súmula Vinculante n. 10 do STF e, por conseguinte, do art. 97 da CF/88, quando a Corte, sem declarar a inconstitucionalidade da norma e sem afastá-la sob fundamento de contrariedade à Constituição Federal, limita-se a interpretar e aplicar a legislação infraconstitucional ao caso concreto." (EDcl no Resp 1381191/SP, rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 15/08/2017, DJe 21/08/2017).
+4. Não cabe ao Superior Tribunal de Justiça, ainda que para fins de prequestionamento, examinar na via especial suposta violação de dispositivo ou princípio constitucional, sob pena de usurpação da competência do Supremo Tribunal Federal.
+5. Embargos de declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+Os embargos de declaração nos termos do art. 1.022 do CPC/2015 têm ensejo quando há obscuridade, contradição, omissão ou erro material no julgado. In casu, não ocorreu nenhum dos vícios supracitados.
+Isso porque a fundamentação consignada no acórdão embargado foi clara ao assentar que "a Primeira Turma do STJ, no julgamento do RESP n. 1.926.749, alinhando-se ao entendimento da Segunda Turma, decidiu que o adicional de 1% da alíquota de Cofins-Importação previsto no § 21 do art. 8º da Lei 10.865/2004 acrescentou um ponto percentual sobre todas as alíquotas da Cofins-Importação de que trata referido dispositivo legal, bem como confirmou entendimento desta Corte Superior de que a Cláusula de Obrigação de Tratamento Nacional, prevista no GATT, não abrange a Cofins-importação".
+Acrescento, por oportuno, que, segundo orientação desta Corte, "não há violação da Súmula Vinculante n. 10 do STF e, por conseguinte, do art. 97 da CF/88, quando a Corte, sem declarar a inconstitucionalidade da norma e sem afastá-la sob fundamento de contrariedade à Constituição Federal, limita-se a interpretar e aplicar a legislação infraconstitucional ao caso concreto." (EDcl no Resp 1381191/SP, rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 15/08/2017, DJe 21/08/2017).
+Por fim, não cabe a esta Corte Superior, ainda que para fins de prequestionamento, examinar na via especial suposta violação de dispositivos ou princípios constitucionais, sob pena de usurpação da competência do Supremo Tribunal Federal.
+Portanto, constata-se que a insurgência da embargante não diz respeito à eventual deficiência de fundamentação do julgado, mas à interpretação que lhe foi desfavorável, possuindo (aquela) caráter meramente infringente e, por isso, sendo de inviável acolhimento no âmbito restrito dos embargos de declaração.
+Advirto a parte recorrente de que a oposição de embargos de declaração manifestamente protelatórios pode ensejar a aplicação da multa prevista no § 2º do art. 1.026 do CPC/2015.
+Ante o exposto, REJEITO os embargos de declaração.
+É como voto.
