@@ -1,0 +1,74 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 02/08/2022 a 08/08/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+GILDERES LUIS RADIN e MÁRCIA REGINA ESBERCI RADIN (GILDERES e outra) opuseram embargos de terceiro contraSANENGE ENGENHARIA LTDA. (SANENGE), sob a alegação de que a embargada promoveu ação de execução contra Miriam Clecia Enich e outros, na qual requereu a penhora dos imóveis de matrículas nºs 26.250 e 14.013, sendo o pedido deferido. Sustentaram que detêm a posse mansa e pacífica, contínua e ininterrupta do imóvel, matriculado sob o nº 26.250, desde 1998, invocando a usucapião. Pediram, liminarmente, a suspensão dos leilões para o imóvel sub judice. No mérito, postularam que fosse afastada a constrição judicial incidente sobre o imóvel.
+Em primeira instância, o pedido foi julgado procedente para desconstituir a penhora, condenando SANENGE no pagamento das custas processuais e dos honorários de advogado (e-STJ, fls. 310/316).
+A apelação interposta por SANENGE foi desprovida pelo Tribunal de Justiça do Rio Grande do Sul, nos termos do acórdão assim ementado:
+APELAÇÃO CÍVEL. EMBARGOS DE TERCEIRO. EXCEÇÃO DE USUCAPIÃO DE IMÓVEL. HIPOTECA. CONTRATO DE PROMESSA DE COMPRA E VENDADE GAVETA. MALVERSAÇÃO DE INSTRUMENTO DE MANDATO PARA CONSTITUIÇÃO DO GRAVAME. EXECUÇÃO DA MANDATÁRIA. PENHORA SOBRE O BEM JÁ ALIENADO. DESCONSTITUIÇÃO DA CONSTRIÇÃO JUDICIAL. SENTENÇA MANTIDA.
+1. Os embargos de terceiro têm por finalidade a defesa da posse, buscando livrar da apreensão judicial bens integrantes do patrimônio de quem não é parte do processo. Logo, a usucapião, como prescrição aquisitiva, pode ser arguida em sede de defesa, não significando isso que a decisão judicial que ampare a determinação de desconstituição da penhora no reconhecimento da posse ad usucapionem esteja concomitantemente declarando a aquisição do domínio do bem.
+2. Outrossim, a existência de gravame de hipoteca sobre o imóvel não implica óbice à aquisição pela usucapião, que, sendo forma originária de obtenção da propriedade, afasta os ônus que gravavam o bem antes de sua declaração.
+3. In casu, a sentença vergastada restringiu-se a desconstituir a penhora fustigada, efetivada nos autos de ação executiva, com fundamento em questões incidentais que, no entanto, não são objeto do dispositivo sentencial.
+4. Manutenção da sentença que se impõe. APELAÇÃO DESPROVIDA (e-STJ, fl. 557).
+Os embargos de declaração opostos por SANENGE foram rejeitados (e-STJ, fls. 413/415).
+Irresignada, SANENGE interpôs recurso especial com fundamento no art. 105, III, a e c, da CF, alegando a violação do art. 1.022 do NCPC, ao sustentar o seguinte: (1) negativa de prestação jurisdicional ao deixar de analisar o pedido declaratório constitutivo de usucapião e o litisconsórcio necessário; dissídio jurisprudencial; (2) impossibilidade de desconstituição de hipoteca em sede de embargos de terceiro; (3) no sentido de que, ainda que os embargos de terceiro possam ser utilizados para defender a posse ou a propriedade quando pendente o gravame hipotecário, torna-se imprescindível a formação de litisconsórcio passivo necessário unitário, que será formado pelo exequente e pelo executado, o que não ocorre no caso dos autos; e(4)necessidade de desconstituição da hipoteca em caso de alegação de usucapião (e-STJ, fls. 419/443).
+Foram apresentadas as contrarrazões (e-STJ, fls. 451/459).
+O apelo nobre não foi admitido em virtude da (1) ausência de prequestionamento, aplicando-se a Súmula nº 211 do STJ; (2) incidência da Súmula nº 283 do STF; e (3) necessidade de análise de provas, atraindo a Súmula nº 7 do STJ (e-STJ, fls. 461/469).
+O agravo em recurso especial daí decorrente foi conhecido para conhecer em parte do recurso especial e, nessa extensão, a ele negar provimento, em decisão monocrática de minha lavra assim ementada:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL INTERPOSTO SOB A ÉGIDE DO NCPC. APELAÇÃO. EMBARGOS DE TERCEIRO. EXCEÇÃO DE USUCAPIÃO DE IMÓVEL. HIPOTECA. OMISSÃO. INEXISTÊNCIA. DECISÃO SUFICIENTEMENTE FUNDAMENTADA. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE IDENTIDADE FÁTICA ENTRE OS JULGADOS. RECURSO ESPECIAL CONHECIDO EM PARTE E, NESSA EXTENSÃO, NÃO PROVIDO (e-STJ, fl. 512 - com destaque no original).
+Os embargos de declaração opostos por SANENGE foram rejeitados (e-STJ, fls. 530/533).
+Nas razões do presente agravo interno, SANENGE, repisando os argumentos trazidos nas razões recursais, alegou ser imprescindível a formação de litisconsórcio passivo necessário para o trâmite da ação havendo violação do art. 1.022 do NCPC, bem como demonstrou o dissídio jurisprudencial.
+Não houve impugnação ao recurso (e-STJ, fls. 547/548).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NOAGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. EMBARGOS DE TERCEIRO. USUCAPIÃO DE IMÓVEL. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL NÃO DEMONSTRADOS. VIOLAÇÃO DO ART. 1.022 DO NCPC. DISSÍDIO JURISPRUDENCIAL NÃO CONFIGURADO. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Inexistentes as hipóteses do art. 1.022, II, do NCPC (art. 535 do CPC/1973), não merecem acolhimento os embargos de declaração que têm nítido caráter infringente.
+3. Os embargos de declaração não se prestam à manifestação de inconformismo ou à rediscussão do julgado.
+4. A não observância dos requisitos do art. 255, §§ 1º e 2º, do Regimento Interno do Superior Tribunal de Justiça torna inadmissível o conhecimento do recurso com fundamento na alínea c do permissivo constitucional.
+5. Agravo interno não provido.
+VOTO
+O recurso não merece provimento.
+De plano, vale pontuar que o presente agravo interno foi interposto contra decisão publicada na vigência do novo Código de Processo Civil, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+O inconformismo agora manejado não merece provimento por não ter trazido nenhum elemento apto a infirmar as suas conclusões.
+Como já constou da decisão recorrida, não merece respaldo a assertiva de que o v. acórdão teria sido omissão, pois não teria se manifestado sobre o pedido declaratório constitutivo de usucapião e o litisconsórcio necessário, uma vez que o Tribunal local, expressamente, consignou:
+ ..  os embargos de terceiro não são a via adequada para a declaração de domínio, que demanda a respectiva ação própria, contudo os embargantes aqui apelados buscam a proteção da posse mediante embargos de terceiro, alegando em seu favor posse ad usucapionem.
+ ..
+O mesmo se passa com a assertiva de inadequação da via eleita e de ilegitimidade dos embargantes para pleitearem a nulidade da hipoteca e da procuração outorgada a MIRIAM, tanto porque a matéria foi tratada de modo incidental pela sentença, servindo apenas de base para o julgado, quanto porque o eventual reconhecimento da posse ad usucapionem dos apelados em ação própria, por si só, viabilizaria a declaração de nulidade ou extinção da hipoteca. Afinal, a existência desse gravame sobre o imóvel não implica óbice à aquisição pela usucapião.
+Tratando-se de aquisição originária, a referida declaração de domínio faz desaparecer eventual gravame real anteriormente constituído sobre o imóvel, já que não decorre e não guarda relação de continuidade (e-STJ, fls. 384/386).
+Nesse contexto, inexiste omissão, contradição, obscuridade ou erro material no acórdão recorrido na medida em que a lide foi fundamentadamente resolvida nos limites propostos, sendo que as questões postas a debate foram decididas com clareza, não se justificando o manejo dos aclaratórios.
+Vale pontuar que a obtenção de resultado diverso do pretendido não implica ofensa ao art. 1.022 do NCPC (art. 535 do CPC/1973), na medida em que o acolhimento dos embargos de declaração demanda a presença de seus pressupostos legais de admissibilidade, quais sejam,omissão, contradição ou obscuridade.
+Como nenhum desses vícios se mostram presentes no caso em tela, não merece prosperar a alegação de violação do disposto no art. 1.022 do NCPC.
+Nesse sentido, confiram-se os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. PROCESSO CIVIL. RESPONSABILIDADE CIVIL. ACIDENTE DE VEÍCULO. AÇÃO DE INDENIZAÇÃO. AUSÊNCIA DE VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. DANOS MORAIS. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULAS 283 E 284 DO STF. LIMITAÇÃO DE COBERTURA. REEXAME. SÚMULAS 5 E 7 DO STJ. AGRAVO IMPROVIDO.
+1. Não há ofensa ao art. 1.022 do CPC/2015, porquanto o Tribunal de origem decidiu a matéria de forma fundamentada. O julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, quando tiver encontrado motivação satisfatória para dirimir o litígio.
+2. Verifica-se que o Tribunal estadual analisou todas as questões
+relevantes para a solução da lide, de forma fundamentada, não havendo que se falar em negativa de prestação jurisdicional.
+3. A falta de impugnação de argumento suficiente para manter, por si só, o acórdão impugnado, a argumentação dissociada bem como a ausência de demonstração da suposta violação à legislação federal impedem o conhecimento do recurso, na esteira dos enunciados n. 283 e 284 da Súmula do Supremo Tribunal Federal.
+4. A revisão das conclusões estaduais demandaria, necessariamente, o revolvimento das cláusulas contratuais e do acervo fático-probatório dos autos, providência vedada na via estreita do recurso especial, ante o óbice disposto nas Súmulas 5 e 7 do STJ.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.500.162/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 25/11/2019, DJe 29/11/2019 - sem destaqueno original).
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ATRASO NA ENTREGA DE OBRA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTENTE. DIVERGÊNCIA JURISPRUDENCIAL NÃO COMPROVADA. COMISSÃO DE CORRETAGEM. AUSÊNCIA DE INFORMAÇÃO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7/STJ. NOVA INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. SÚMULA N. 5/STJ. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83/STJ. DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 1.022 do CPC/2015 quando a Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+(..)
+7. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.848.092/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, j. 7/6/2021, DJe 14/6/2021 - sem destaqueno original).
+Ademais, a decisão agravada consignou que a divergência não foi demonstrada nos termos exigidos pela legislação e pelas normas regimentais.
+Nesse contexto, importante destacar que a viabilidade do recurso especial pela alínea c do art. 105, III, da Constituição Federal pressupõe que, além da transcrição dos acórdãos aptos à comprovação da alegada divergência, se proceda ao cotejo analítico entre o aresto recorrido e o trazido como paradigma, com a demonstração da identidade fática entre eles e da interpretação divergente dada ao mesmo dispositivo legal, o que não ocorreu na espécie.
+A propósito:
+CIVIL. PROCESSUAL CIVIL. AÇÃO DE NULIDADE DE ESCRITURA PÚBLICA DE DOAÇÃO. JULGAMENTO FORA DO PEDIDO. INOCORRÊNCIA. OBSERVÂNCIA DOS LIMITES TRAÇADOS PELA CAUSA DE PEDIR E PELOS PEDIDOS. RECONHECIMENTO INCIDENTAL E DE OFÍCIO DE CAUSA DE NULIDADE DO NEGÓCIO NÃO ARGUIDA.
+POSSIBILIDADE. RESPEITO AO CONTRADITÓRIO, À AMPLA DEFESA E AO DIREITO À PROVA. DOAÇÃO REMUNERATÓRIA. RESPEITO AOS LIMITES DE DISPOSIÇÃO DELINEADOS PELO LEGISLADOR. IMPOSSIBILIDADE DE DISPOSIÇÃO, A ESSE TÍTULO, DA TOTALIDADE DO PATRIMÔNIO OU DE PARTE QUE AFRONTE À LEGÍTIMA DOS HERDEIROS NECESSÁRIOS. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO.
+ ..
+5- A ausência de cotejo analítico entre o acórdão recorrido e o acórdão paradigma impede o conhecimento do recurso especial interposto pela divergência.
+6- Recurso especial parcialmente conhecido e, nessa extensão, parcialmente provido.
+(REsp 1.708.951/SE, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, j. 14/5/2019, DJe 16/5/2019 - sem destaque no original)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO INDENIZATÓRIA. COBERTURA SECURITÁRIA. CERCEAMENTO DE DEFESA. PROVA PERICIAL. NECESSIDADE CONCRETAMENTE AFASTADA PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE PREVISÃO CONTRATUAL PARA A GRADAÇÃO PROPORCIONAL DA INVALIDEZ. SEGURADORA QUE NÃO INFORMOU AO SEGURADO OS ELEMENTOS ESSENCIAIS DO CONTRATO. INTERPRETAÇÃO DO CONTRATO. REEXAME DE PROVAS. IMPOSSIBILIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DO ACÓRDÃO. DISSÍDIO NÃO DEMONSTRADO. INCIDÊNCIA DAS SÚMULAS NºS 5, 7 DO STJ E 283 E 284 DO STF. RECURSO MANIFESTAMENTE PROTELATÓRIO. INCIDÊNCIA DA MULTA DO ART. 1.021, § 4º, DO NCPC. AGRAVO INTERNO NÃO PROVIDO, COM IMPOSIÇÃO DE MULTA.
+ ..
+4. Diante da ausência do cotejo analítico e das peculiaridades do caso concreto, também não se vislumbra a similitude fática imprescindível à configuração da divergência jurisprudencial ventilada, o que também atrai a Súmula nº 284 do STF.
+5. Em virtude do não provimento do presente recurso, e da anterior advertência em relação a aplicabilidade do NCPC, incide ao caso a multa prevista no art. 1.021, § 4º, do NCPC, no percentual de 3% sobre o valor atualizado da causa, ficando a interposição de qualquer outro recurso condicionada ao depósito da respectiva quantia, nos termos do § 5º daquele artigo de lei.
+6. Agravo interno não provido, com imposição de multa.
+(AgInt no AgInt no AREsp 1.293.467/RS, de minha relatoria, Terceira Turma, j. 15/4/2019, DJe 22/4/2019 - sem destaque no original)
+Assim, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, que não conheceu do apelo nobre, devendo ser ele mantido.
+Nessas condições, pelo meu voto, NEGO PROVIMENTO ao agravo interno.
