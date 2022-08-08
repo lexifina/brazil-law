@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 02/08/2022 a 08/08/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+1. Cuida-se de agravo interno interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL contra a decisão de fls. 381/383, de lavra do Presidente desta Corte Superior de Justiça, que conheceu de seu agravo para não conhecer do recurso especial ante a incidência do óbice da Súmula 284/STF.
+2.  Em  suas  razões  (fls.  385/398),  a  parte  agravante  sustenta  que deve ser afastada a incidência da  Súmula  284/STF,  uma vez que "um dos pontos discutidos no acórdão do Tribunal de origem aborda justamente a lide acerca da cessação de benefício por incapacidade", matéria que foi abordada em seu apelo nobre. No mais, reitera as razões do recurso especial, argumentando que a cessação programada do auxílio-doença decorre de lei em plena vigência, não podendo, portanto, ser desconsiderada.
+3.  Impugnação  ao  recurso  não  apresentada  (fl.  407).
+4.  É  o  relatório.
+EMENTA
+  PROCESSUAL  CIVIL  E  PREVIDENCIÁRIO.  AGRAVO  INTERNO  NO AGRAVO EM RECURSO  ESPECIAL.  AUXÍLIO-DOENÇA. DATA DE CESSAÇÃO DO BENEFÍCIO.FUNDAMENTOS  DO  ACÓRDÃO  NÃO  ATACADOS.  ARGUMENTOS DO APELO NOBRE DISSOCIADOS DAS PREMISSAS JURÍDICAS DO ARESTO COMBATIDO.SÚMULA S 283 E 284 DO STF.  AGRAVO  INTERNO  DESPROVIDO.
+1.  Conforme bem asseverado na decisão agravada, não há como afastar o óbice das Súmulas 283 e 284, ambas do STF,ao conhecimento do recurso especial, uma vez que as razões declinadas no apelo nobre, além de não combaterem fundamento suficiente para a manutenção do acórdão recorrido,estão dissociadasdas premissas jurídicas nele expostas.
+2. O Tribunal a quo afastou a pretensão do INSS de fixação de data para acessação do benefício ao argumento de que o auxílio-doença foraconcedido ao segurado em 12/02/2014, "portanto em momento anterior à vigência da Lei nº 13.457/2017, que incluiu o § 8º no artigo 60 da Lei nº 8.213/1991. Desse modo, ausente previsão legal autorizadora, a cessação do benefício depende de nova perícia administrativa"(fl. 284).
+3. No entanto, em seu recurso especial, a parte recorrente limitou-se a alegar a legalidade da alta programada sob a ótica das alterações instituídas pelas Medidas Provisórias 739/2016 e 767/2017, essa última convertida na Lei 13.457/2017.
+  4.  Embora o sobrestamento do feito não tenha sido pleiteado no apelo nobre, tal providência seria desnecessária no caso, uma vez que o recurso não ultrapassa o juízo de admissibilidade; assim "o tema de mérito, independentemente da repercussão geral ou de sua afetação como representativo da controvérsia, não será enfrentado" (AgInt no AREsp 1746550/PE, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe 23/04/2021).
+5. Agravo  interno  a que se nega provimento.
+VOTO
+1.  Não obstante as alegações da parte agravante, razão não lhe assiste.
+2.  Inicialmente, é importante ressaltar que o presente recurso atrai a incidência do Enunciado Administrativo 3 do STJ, segundo o qual aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+3.  Conforme bem asseverado na decisão agravada, não há como afastar o óbice das Súmulas 283 e 284, ambas do STF,ao conhecimento do recurso especial, uma vez que as razões declinadas no apelo nobre, além de não combaterem fundamento suficiente para a manutenção do acórdão recorrido,estão dissociadasdas premissas jurídicas nele expostas.
+4. O Tribunal a quo afastou a pretensão do INSS de fixação de data para acessação do benefício ao argumento de que o auxílio-doença fora concedidoao segurado em 12/02/2014, "portanto em momento anterior à vigência da Lei nº 13.457/2017, que incluiu o § 8º no artigo 60 da Lei nº 8.213/1991. Desse modo, ausente previsão legal autorizadora, a cessação do benefício depende de nova perícia administrativa"(fl. 284).
+5. No entanto, em seu recurso especial, a parte recorrente limitou-se a alegar a legalidade da alta programada sob a ótica das alterações instituídas pelas Medidas Provisórias 739/2016 e 767/2017, essa última convertida na Lei 13.457/2017.
+6. O Superior Tribunal de Justiça já se manifestouno sentido de ser inadmissível o recurso especial que apresenterazões dissociadas do quadro fático e das premissas jurídicas expostos no acórdão recorrido, como é o caso dos autos. Igualmente insuscetível de conhecimento o recurso quando os fundamentos do acórdão,utilizados  de  forma  suficiente  para  manter  a  decisão recorrida,  não  são  rebatidos  pela parte recorrente. Incidentes, no caso, os óbices das Súmulas 283 e 284 do STF. A propósito:
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL(..). RAZÕES RECURSAIS DISSOCIADAS DO JULGADO. SÚMULA 284/STF.
+(..)
+3. É inadmissível o recurso especial que apresenta razões dissociadas do quadro fático e das premissas jurídicas expostos no acórdão recorrido. Incidência da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.").
+(..)
+7. Agravo interno conhecido parcialmente para, na parte conhecida, negar-se-lhe provimento(AgInt nos EDcl no AREsp 1.700.429/RJ, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 26/4/2021, DJe 29/4/2021 - sem destaques no original).
+PROCESSUAL CIVIL. ADMINISTRATIVO. CONVÊNIO. MODERNIZAÇÃO DA GUARDA MUNICIPAL. EXECUÇÃO. NÃO COMPROVAÇÃO. RESSARCIMENTO. MUNICÍPIO.INTIMAÇÃO ELETRÔNICA DA SENTENÇA. DEFICIÊNCIA NA FUNDAMENTAÇÃO.RAZÕES DISSOCIADAS DOS FUNDAMENTOS DO ACÓRDÃO. APLICAÇÃO DA SÚMULA N. 284 DO STF.
+(..)
+III - A jurisprudência do Superior Tribunal de Justiça, é firme no sentido de que se o recorrente apresenta razões dissociadas dos fundamentos adotados pelo acórdão recorrido, o recurso especial é deficiente na sua fundamentação, o que atrai a aplicação por analogia da Súmula n. 284 do STF.
+(..)
+VIII - Agravo interno improvido(AgInt no REsp 1.806.873/PE, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 23/11/2020, DJe 25/11/2020 - sem destaques no original).
+7. Por fim, sobre a questão de fundo, registro quea Suprema Corte foi provocada a se manifestar acerca da constitucionalidade da Medida Provisória 739/2016, substituída pela Medida Provisória 767/2017 e convertida na Lei 13.457/2017, as quais alteraram a Lei 8.213/1991, inserindo preceito sobre prazo estimado para a duração do benefício, tendo reconhecido a repercussão geral da matéria nos autos do RE 1.347.526/SE, relator o Ministro LUIZ FUX - Tema 1.196/STF.
+8. Embora o sobrestamento do feito não tenha sido pleiteado no apelo nobre, destaco que tal providência seria desnecessária no caso, uma vez queo recurso não ultrapassa o juízo de admissibilidade; assim "o tema de mérito, independentemente da repercussão geral ou de sua afetação como representativo da controvérsia, não será enfrentado" (AgInt no AREsp 1746550/PE, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe 23/04/2021).
+9.  Portanto,  tendo  em  vista  que  as  razões  recursais  não  são capazes  de  alterar  o  entendimento  anteriormente  manifestado,  mantenho incólume  a  decisão  agravada.
+10.  Ante  o  exposto,  nego  provimento  ao  agravo  interno  do  INSS.
+11.  É  o  voto.
