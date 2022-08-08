@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 02/08/2022 a 08/08/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de agravo interno interposto por Catarina Gertrudes Franco Prestes em contrariedade à decisão proferida por esta relatoria, nos termos da seguinte ementa (e-STJ, fl. 193):
+RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE RELAÇÃO JURÍDICA C/C REPETIÇÃO DE INDÉBITO E INDENIZATÓRIA. DESCONTOS INDEVIDOS EM CONTA CORRENTE. CONCLUSÃO DO ACÓRDÃO PELA FALTA DE CONFIGURAÇÃO DE DANOS MORAIS. REVISÃO DO JULGADO. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. RECURSO ESPECIAL NÃO CONHECIDO.
+Em suas razões, a agravante alega a inaplicabilidade do óbice sumular n. 7 do Superior Tribunal de Justiça, dado que a presente hipótese se refere a dano in re ipsa, não necessitando de revolvimento de fatos e provas para o seu reconhecimento.
+Reitera, ademais, os termos do apelo especial.
+Requer, por fim, a reconsideração da decisão monocrática ou sua reforma pela Turma julgadora.
+Impugnação apresentada (e-STJ, fls. 230-231).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE RELAÇÃO JURÍDICA C/C REPETIÇÃO DE INDÉBITO E INDENIZATÓRIA. DESCONTOS INDEVIDOS EM CONTA-CORRENTE. CONCLUSÃO DO ACÓRDÃO PELA FALTA DE CONFIGURAÇÃO DE DANOS MORAIS. REVISÃO DO JULGADO. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO INTERNO IMPROVIDO.
+1. Nos termos da jurisprudência desta Corte Superior, "o desconto indevido em conta corrente, posteriormente ressarcido ao correntista, não gera, por si só, dano moral, sendo necessária a demonstração, no caso concreto, do dano eventualmente sofrido" (AgInt no AREsp 1.833.432/MS, Rel. Ministro Ministro Marco Buzzi, Quarta Turma, julgado em 7/6/2021, DJe 11/6/2021).
+2. Não há como afastar as premissas fáticas e probatórias estabelecidas pelas instâncias ordinárias, soberanas em sua análise, pois, na via estreita do recurso especial, a incursão em tais elementos esbarraria no óbice do enunciado 7 da Súmula do Superior Tribunal de Justiça.
+3. A incidência da Súmula n. 7/STJ impossibilita o conhecimento do recurso especial por ambas as alíneas do permissivo constitucional, porquanto não é possível encontrar similitude fática entre o acórdão combatido e os arestos paradigmas, uma vez que as suas conclusões díspares ocorreram não em virtude de entendimentos diversos sobre uma mesma questão legal, massimde fundamentações baseadas em fatos, provas e circunstâncias específicas de cada processo.
+4. Agravo interno improvido.
+VOTO
+O recurso não comporta provimento, porquanto as razões expendidas são insuficientes para a reconsideração da decisão impugnada.
+Com efeito, verifica-se que o acórdão recorrido, analisando o acervo probatório dos autos, consignou a inexistência de danoindenizável, salientando que o mero desconto na conta-corrente do consumidor não gera, por si só, dano moral, conforme se extrai do seguinte trecho (e-STJ, fls. 128-129):
+No que diz respeito a tais pedidos, constou na sentença que "(..) Nessas condições, patente a conduta ilegítima do banco requerido, sendo de rigor a devolução dos valores descontados, de forma simples, à míngua da comprovação de dolo da parte contrária. No que tange aos danos morais, os valores descontados não são suficientes para repercutir no patrimônio subjetivo da requerente, configurando-se, em verdade, mero dissabor cotidiano, que não enseja indenização (..)".
+Ainda que se entenda que a autora tenha suportado transtornos, não se está a tratar, na hipótese, de danos presumíveis dos próprios acontecimentos. Era necessário descrever e comprovar a ocorrência de danos morais, o que não se sucedeu nestes autos. Os descontos ocorridos na conta corrente da autora, no valor total de R$ 242,60 no período de um ano, sem notícia ou sequer alegação no sentido de que seu nome tenha sido remetido aos órgãos de maus pagadores, não é suficiente para configuração de dano extrapatrimonial, o qual exige verdadeira ofensa à honra ou à moral. A conclusão é de aborrecimento cotidiano, incapaz de gerar danos morais indenizáveis.
+Nos termos da jurisprudência desta Corte Superior, "o desconto indevido em conta corrente, posteriormente ressarcido ao correntista, não gera, por si só, dano moral, sendo necessária a demonstração, no caso concreto, do dano eventualmente sofrido" (AgInt no AREsp 1.833.432/MS, Rel. Ministro Ministro Marco Buzzi, Quarta Turma, julgado em 7/6/2021, DJe 11/6/2021).
+Em face disso, constata-se que a questão acerca do cabimento do pleito indenizatório foi decidida mediante acurada análise das provas carreadas aos autos, de maneira que, para infirmar tais conclusões, seria imprescindível o reexame de provas, o que atrai a incidência da Súmula n. 7/STJ.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DECLARATÓRIA C/C RESTITUIÇÃO DE VALORES C/C COMPENSAÇÃO POR DANOS MORAIS. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. Ação declaratória c/c restituição de valores c/c compensação por danos morais.
+2 Alterar o decidido no acórdão impugnado, no que se refere à ausência de comprovação de danos morais a serem compensados na hipótese vertente (desconto indevido em conta corrente), exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+3. A incidência da Súmula 7/STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+4. Agravo interno não provido.
+(AgInt no REsp 1929961/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 22/06/2021, DJe 25/06/2021)
+Ademais, a pretensão recursal é de alterar as conclusões sobre os fatos e provas do processo, para alcançar resultado favorável na demanda. Isso nada mais é do que o revolvimento do que já foi soberanamente julgado pelas instâncias ordinárias.
+O Superior Tribunal de Justiça, pela via extraordinária do recurso especial, não é terceira instância revisora e, portanto, não pode rejulgar a prova, como quer a agravante. As alegações de ofensa à lei federal, no caso, atreladas a essa descabida pretensão, encontram óbice intransponível na Súmula 7/STJ.
+À guisa de exemplo:
+(..) XI - À vista disso, acolher a tese do recorrente a fim de analisar a questão relativa à negativa de vigência aos arts. 4º, 6º, 9º, 10 e 1.013, todos do CPC, e ao art. 17, § 11, da Lei n. 8.429/92, demandaria inconteste reexame do acervo fático-probatório dos autos, o que é inviável em recurso especial, sob pena de violação da Súmula n. 7 do STJ. Afinal de contas, não é função desta Corte atuar como uma terceira instância na análise dos fatos e das provas. Cabe a ela dar interpretação uniforme à legislação federal a partir do desenho de fato já traçado pela instância recorrida. XII - Agravo interno improvido.(AgInt no AREsp 1575315/PR, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 08/06/2020, DJe 10/06/2020)
+Outrossim, a incidência da Súmula n. 7/STJ impossibilita o conhecimento do recurso especial por ambas as alíneas do permissivo constitucional, porquanto não é possível encontrar similitude fática entre o acórdão combatido e os arestos paradigmas, uma vez que as suas conclusões díspares ocorreram não em virtude de entendimentos diversos sobre uma mesma questão legal, massimde fundamentações baseadas em fatos, provas e circunstâncias específicas de cada processo.
+Desse modo, tendo em vista que as alegações feitas no agravo interno não são capazes de alterar o convencimento anteriormente manifestado, permanece íntegra a decisão agravada.
+Ante o exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de embargos manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
