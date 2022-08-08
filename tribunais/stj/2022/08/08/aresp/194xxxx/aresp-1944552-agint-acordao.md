@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 02/08/2022 a 08/08/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de agravo interno interposto por DAX COMERCIO DE ARMAÇÕES PARA ÓCULOS LTDA,contra decisão proferida pela Presidência deste Superior Tribunal de Justiça, que não conheceu do recurso especial ante o óbice do enunciado da Súmula 7/STJ.
+Nas razões recursais oagravantesustentaque "22. O recurso especial e o agravo decorrente explicam rigorosamente as razões pelas quais não é caso de mero reexame de fatos e provas, e sim de requalificação jurídica dos fatos e a revaloração da prova, ambas admitidas em sede de recurso especial pela reiterada jurisprudência dessa Corte.  .. 24. Todos os fatos e provas que serão apontados a seguir são incontroversos e estão plena e detalhadamente expostos nos v. acórdãos recorridos, bastando a leitura destes, não sendo necessário acessar os autos em busca das provas juntadas". (e-STJfls. 840-841).
+Contraminutas ao agravo interno às fls. 864-872 e 874-877, e-STJ.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ QUE NÃO CONHECEU DO RECURSO ESPECIAL. IMPOSSIBILIDADE DE ALTERAÇÃO DAS PREMISSAS DO TRIBUNAL DE ORIGEM. REEXAME DO CONJUNTO FÁTICO- ROBATÓRIO.SÚMULA7/STJ.INEXISTÊNCIA DE FUNDAMENTOS QUE JUSTIFIQUEM A ALTERAÇÃO DA DECISÃO RECORRIDA.RECURSO PROTELATÓRIO E LITIGÂNCIA DE MÁ-FÉ. INOCORRÊNCIA
+AGRAVO INTERNO NÃO PROVIDO.
+VOTO
+Eminentes colegas, o agravo interno não merece acolhida.
+Em que pese o arrazoado, entendo que a ausência de qualquer novo subsídio trazido pela parte agravante, capaz de alterar ofundamentoda decisão ora agravada, faz subsistir incólume o entendimento nela firmado.
+A decisão da Presidência deste Superior Tribunal de Justiça, ora agravada, não conheceu do recurso especial, aplicando-se o óbice da Súmula 7/STJ.
+Com efeito, conforme restou consignado na decisão agravada, a Corte local, com base na análise do conjunto probatório carreado aos autos, concluiu nos seguintes termos:
+Pelo exposto, analisada a impressão de conjunto das marcas em questão, principalmente seus elementos figurativos e o significado que os elementos nominativos assumem, depreende-se que há suficiente distintividade entre elas, não havendo possibilidade de confusão ou associação indevida, o que afasta a vedação do artigo 124, V, XIX e XXIII da Lei de Propriedade Industrial - LPI, ainda que as empresas pertençam ao mesmo segmento mercadológico.
+Quanto à alegação trazida pela apelante de que uma cliente teria se confundido ao entrar em loja da apelada, acreditando estar em loja da apelante ,constata-se que o print da conversa extraído de um aplicativo de mensagens (Evento36, OUT2), por si só, não demonstra que ocorrera qualquer tipo de confusão e, sequer, comprova que o fato narrado realmente ocorreu, notadamente porque os áudios da conversa, os quais, segundo a apelante, comprovariam a confusão, não foram trazidos ao processo.
+Em relação à Opinião Semiótica produzida pelos especialistas em Comunicação e Semiótica, Profa. Dra. Sonia Maria D"Elboux e Prof. Dr. Sérgio Bairon, trazida pela autora/apelante no Evento 1, OUT21, cabe salientar que o referido documento deve ser sopesado com as provas trazidas no presente processo, de sorte que, conforme ficou demonstrado, as marcas em cotejo possuem distintividade suficiente para conviver no segmento ótico de mercado, sem gerar risco de confusão ou associação por parte do público consumidor.
+No que diz respeito à alegação da apelante de que a apelada imita elementos de seu estabelecimento comercial, o que implicaria em ato de concorrência desleal praticado pela apelada, releva-se que tal questão, por não afetar interesse institucional da autarquia federal, envolvendo apenas anseios de particulares, é inequivocamente de competência da justiça estadual.
+Nada obstante, saliente-se que, via de regra, a utilização de sinal marcário obtido regularmente junto ao INPI não pode ser entendido como conduta fraudulenta ou desonesta praticada com o intuito de angariar ou desviar, ilicitamente, a clientela de terceiros. O sucesso de pretensão deduzida nesse sentido, na medida em que implica grave restrição ao direito titulado pelo proprietário da marca impugnada, exigiria comprovação da prática de conduta fraudulenta ou de sua má-fé ao requerer o registro, circunstâncias que não ficaram comprovadas no presente recurso.
+Por todo o exposto, correta a sentença que manteve o ato administrativo do INPI que deferiu os pedidos de registro nº 903.151.090, relativo à marca mista "ÓTICAS MAX FOTO" e nº 912.449.446, relativo à marca mista "ÓTICA MAX", ambostitularizados pela apelada, posto que foram concedidos dentro dos limites legais, vez que resta clara a possibilidade de convivência pacífica com os registros marcários da apelante, não ocorrendo violação aos art. 124, V, XIX e XXIII da Lei 9.279/96.
+Pelos mesmos motivos, a pretensão da apelante de que sejam encerrados e arquivados os processos administrativos dos pedidos de registros nº 911.591.532 e912.451.360, para a marca "ÓTICA MAX" da apelada, não merece deferimento.
+Por fim, não deve ser acolhido o pleito recursal para que seja mantido o indeferimento do pedido de registro nº 912.449.578 pelo INPI, pois o referido processo perante a Autarquia, atualmente em fase de recurso administrativo, foi indeferido em razão de colidência com registros de terceiros, que não figuram como parte no presente processo, motivo pelo qual tal pedido feito pela apelante carece de legitimidade. (e-stj fls. 615/616)
+Desse modo, a modificação do entendimento lançado no acórdão recorrido demandaria um inevitável reexame da matéria fático-probatória, hipótese vedada por força da Súmula 7/STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO POR QUANTIA CERTA. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. 2. NOVA AVALIAÇÃO DO BEM PENHORADO. DESNECESSIDADE CONSTATADA PELAS INSTÂNCIAS ORDINÁRIAS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. 3. MULTA. NÃO INCIDÊNCIA. 4. AGRAVO INTERNO DESPROVIDO.
+1. Verifica-se que o Tribunal de origem analisou todas as questões relevantes para a solução da lide, de forma fundamentada, não havendo que se falar em negativa de prestação jurisdicional.
+2. O acórdão recorrido asseverou que não ficou demonstrada nenhuma necessidade de reavaliação do bem penhorado, notadamente por ter o oficial de justiça avaliador descrito detalhadamente as benfeitorias existentes no imóvel e as suas características, bem como de verificação do método utilizado na elaboração do laudo (comparativo direto) e as fontes de pesquisa utilizadas. Rever as conclusões da Corte estadual demandaria o reexame de provas, o que atrai a Súmula 7/STJ.
+3. O mero não conhecimento ou improcedência de recurso interno não enseja a automática condenação à multa do art. 1.021, § 4º, do NCPC, devendo ser analisado caso a caso.
+4. Agravo interno desprovido
+.(AgInt no AREsp 1463855/GO, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 02/09/2019, DJe 10/09/2019)
+Em que pesem as razões desenvolvidas pela parte no presente agravo interno, não foram trazidos argumentos capazes de alterar a decisão agravada.
+Assim, correta a decisão agravada, que se mantém por seus próprios fundamentos, uma vez que permanece a validade dos argumentos que a sustentam e não foram apresentados elementos aptos a desconstituí-la.
+Por fim, no que tange ao pleito de condenação à multa por litigância de má-fé (e-STJ fl. 871), consoante a jurisprudência desta Corte, "admite-se a imposição de multa por litigância de má-fé quando a parte se vale do direito de recorrer, não para ver a reforma, invalidação ou integração da decisão impugnada, mas para postergar ou perturbar o resultado do processo" (STJ, AgInt no AgRg no AREsp 793.589/SP, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 2/12/2016).
+Todavia, no caso, não ficaram delineadas, em princípio, as situaçõesprevistas nos incisos do art.80do CPC/2015.
+Sendo assim, descabe a condenação doagravante às penalidades por litigância de má-fé e à multa, conforme requerido pela parte agravada, em virtude da ausência de abusividade no exercício regular do direito constitucional de recorrer.
+Nesse sentido:
+AGRAVO INTERNO. EMBARGOS DE DIVERGÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO DAS TESES DEBATIDAS NO ACÓRDÃO EMBARGADO. NÃO CONFIGURAÇÃO DO DISSÍDIO. IMPOSSIBILIDADE DE REVISÃO DA ADMISSIBILIDADE DO RECURSO ESPECIAL. RECURSO PROTELATÓRIO E LITIGÂNCIA DE MÁ-FÉ. INOCORRÊNCIA. AGRAVO IMPROVIDO.
+ ..
+4. Exercício regular do direito constitucional de recorrer que não enseja condenação da ora agravante às penalidades por litigância de má-fé e multa.
+5. Agravo interno improvido.
+(STJ, AgInt no AgRg nos EREsp 1.433.658/SP, Rel. Ministro JORGE MUSSI, CORTE ESPECIAL, DJe de 25/11/2016 - g. n.).
+Ante o exposto, nego provimento ao agravo interno.
+Advirta-se, por fim, que a oposição de embargos de declaração manifestamente protelatórios dará ensejo à aplicação de multa (art. 1.026, § 2º, do CPC/2015).
+É o voto.
