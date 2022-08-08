@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "a" e "c", da Constituição Federal) interposto contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais cuja ementa é a seguinte:
+EMENTA: AGRAVO DE INSTRUMENTO - EXCEÇÃO DE PRÉ-EXECUTIVIDADE - RECUPERAÇÃO JUDICIAL - ART. 6º, §7º, DA LEI Nº 11.101/05 - SUSPENSÃO DA EXECUÇÃO FISCAL - NÃO CABIMENTO -RECURSO DESPROVIDO.
+1. O simples fato de a empresa executada encontrar-se em recuperação judicial não se mostra hábil a ensejar a suspensão da execução fiscal, uma vez que a própria Lei de Falências dispõe que as execuções de natureza fiscal não são suspensas pelo deferimento da recuperação judicial.
+2. Recurso desprovido.
+Os Embargos de Declaração foram rejeitados.
+A recorrente alega que houve, além da divergência jurisprudencial,ofensa ao art. 47 da Lei 11.101/2005. Aduz, em suma (fl. 215, e-STJ):
+O v. acórdão recorrido entendeu que no presente caso que, o simples fato de aempresa executada encontrar-se cm recuperação judicial não se mostra capaz de ensejar a suspensãoda execução fiscal, isto porque a competente lei de Falências estabelece que as execuções de naturezafiscal não são suspensas pelo deferimento da recuperação judicial.
+Contudo, este entendimento não merece prosperar isto porque, a exceção depré-executividade foi apresentada justamente para seevitar a constrição patrimonial da Recorrente,pois a expropriação de seus bens inviabilizará o cumprimento do seu plano de recuperação judicial.
+Assim, para se evitar danos irreparáveis à Recorrente, deve-se desde logo,determinar a suspensão de atos de alienação e constrição patrimonial que inviabilizem a recuperaçãojudicial.
+Contrarrazões às fls. 297-305, e -STJ.
+Após o cancelamento do Tema 987 do STJ, que visava decidir acerca da "possibilidade da prática de atos constritivos, em face de empresa em recuperação judicial, em sede de execução fiscal de dívida tributária e não tributária",o Tribunal de origem remeteu o processo ao STJ para julgamento.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 21.7.2022.
+O acórdão recorrido consignou (fl. 184, e-STJ):
+Da análise dos autos observa-se que a agravante pretende asuspensão da execução, ao argumento de que são vedados atos quecomprometam o patrimônio da empresa que se encontra em recuperaçãojudicial.
+Ocorre que, consoante estabelece o art. 6º, § 7º da Lei nº11.101/05 (Lei de Falências), "as execuções de natureza fiscal não sãosuspensas pelo deferimento da recuperação judicial, ressalvada a concessãode parcelamento nos termos do Tributário Nacional e da legislaçãoordinária específica"
+Em outras palavras, o simples fato de a empresa executadaencontrar-se em recuperação judicial não se mostra hábila ensejar asuspensão da execução fiscal. Nesse sentido(..)
+O Tema 987/STJ foi cancelado pela Primeira Seção desta Corte Superiortendo em vista fatos processuais supervenientes à afetação da matéria.
+Entretanto, o conteúdo do mencionado acórdão ponderou que a atribuição de competência ao Juízo da recuperação judicial para controlar os atos constritivos determinados em execução fiscal constitui positivação de entendimento consolidado no âmbito da Segunda Seção/STJ, nestes termos: "De acordo com a pacífica jurisprudência do STJ, as execuções fiscais não se suspendem com o deferimento da recuperação judicial, ficando, todavia, definida a competência do Juízo universal para analisar e deliberar os atos constritivos ou de alienação, ainda quando em sede de execução fiscal, desde que deferido o pedido de recuperação judicial" (AgRg no CC 120.642/RS, Rel. Ministro João Otávio de Noronha, Segunda Seção, DJe 18.11.2014).
+O STJ firmou orientação no sentido de que a aprovaçãodo processamento da recuperação judicial não tem, por si só, a propriedade de suspender as Execuções Fiscais, na dicção do art. 6º, § 7º, da Lei 11.101/2005. Entretanto, a pretensão constritiva direcionada ao patrimônio da empresa em recuperação judicial deve, sim, ser submetida à análise do Juízo da recuperação judicial.A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. EXECUÇÃO FISCAL. ATO CONSTRITIVO. JUÍZO DA RECUPERAÇÃO. ANÁLISE. DECISÃO MANTIDA.
+1. "O deferimento do processamento da recuperação judicial não tem, por si só, o condão de suspender as execuções fiscais, na dicção do art. 6º, § 7º, da Lei n. 11.101/2005, porém a pretensão constritiva direcionada ao patrimônio da empresa em recuperação judicial deve, sim, ser submetida à análise do juízo da recuperação judicial" (AgInt no CC 166.058/MG, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 02/06/2020, DJe 09/06/2020).
+2. Agravo interno a que se nega provimento.
+(AgInt no CC 172.416/SC, Rel. Ministro ANTONIO CARLOS FERREIRA, SEGUNDA SEÇÃO, DJe 9/12/2020)
+Na mesma linhado que já entendia esta Corte Superior, foi publicada a Lei 14.122em 24 de dezembro de 2020, que acrescentou o § 7º-B ao art. 6º da Lei 11.102/2005 (Lei de Falências e Recuperação Judicial e Extrajudicial), com a seguinte redação:
+Art. 6º A decretação da falência ou o deferimento do processamento da recuperação judicial implica:
+I - suspensão do curso da prescrição das obrigações do devedor sujeitas ao regime desta Lei; (incluído pela Lei nº 14.112 de 2020) (Vigência)
+II - suspensão das execuções ajuizadas contra o devedor, inclusive daquelas dos credores particulares do sócio solidário, relativas a créditos ou obrigações sujeitos à recuperação judicial ou à falência; (incluído pela Lei nº 14.112 de 2020) (Vigência)
+III - proibição de qualquer forma de retenção, arresto, penhora, sequestro, busca e apreensão e constrição judicial ou extrajudicial sobre os bens do devedor, oriunda de demandas judiciais ou extrajudiciais cujos créditos ou obrigações sujeitem-se à recuperação judicial ou à falência. (incluído pela Lei nº 14.112 de 2020) (Vigência)
+§ 7º-B. O disposto nos incisos I, II e III do caput deste artigo não se aplica às execuções fiscais, admitida, todavia, a competência do juízo da recuperação judicial para determinar a substituição dos atos de constrição que recaiam sobre bens de capital essenciais à manutenção da atividade empresarial até o encerramento da recuperação judicial, a qual será implementada mediante a cooperação jurisdicional, na forma do art. 69 da Lei nº 13.105, de 16 de março de 2015 (Código de Processo Civil), observado o disposto no art. 805 do referido Código. (incluído pela Lei nº 14.112 de 2020).
+A nova legislação concilia o posicionamento da Segunda Turma do STJ - ao permitir a prática de atos constritivos em face de empresa em recuperação judicial - com o da Segunda Seção do STJ-cabe ao juízo da recuperação judicial analisar e deliberar sobre tais atos constritivos, a fim de que não fique inviabilizado o plano de recuperação judicial.
+Não se mostra adequado o pronunciamento deste Tribunal, em Recurso Especial interposto nos autos de Ação de Execução Fiscal, sem que haja prévio pronunciamento do Juízo da recuperação judicial, pois a ele cabe verificar a viabilidade da constrição efetuada em sede de execução fiscal, observaras regras do pedido de cooperação jurisdicional (art. 69 do CPC/2015) e determinar eventual substituição, a fim de que não fique inviabilizado o plano de recuperação judicial.
+Ao Juízo da execução fiscalcabe determinar os atos constritivos.Todavia, o controle de tais atos é incumbência exclusiva do juízo da recuperação, o qual poderá substituí-los, mantê-los ouaté mesmo torná-los sem efeito, de forma a buscar o soerguimento da empresa.
+Diante do exposto, nos termos do art. 255, § 4º, II, do RI/STJ e da Súmula 568/STJ, nego provimento ao Recurso Especial.
+Publique-se.
+Intimem-se.
