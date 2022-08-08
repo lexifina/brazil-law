@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de Alagoas,assim ementado (fl. 526):
+APELAÇÃO CÍVEL. DIREITO ADMINISTRATIVO. URV. SERVIDORAS PÚBLICAS DO MUNICÍPIO DE ARAPIRACA. AÇÃO ORDINÁRIA DE REVISÃO DE CÁLCULOS DA URVC/C. PAGAMENTO DAS DIFERENÇAS DEVIDAS E RECOMPOSIÇÃOSALARIAL. OCORRÊNCIA DA PRESCRIÇÃO DE FUNDO DE DIREITO DA PRETENSÃO VEICULADA NA EXORDIAL. DECURSO DE MAIS DE 05 (CINCO) ANOS DESDE O INÍCIO DA VIGÊNCIA DAS LEIS QUE REESTRUTURARAM A CARREIRA DAS DEMANDANTES ATÉ O AJUIZAMENTO DA PRESENTEAÇÃO. SENTENÇA MANTIDA POR FUNDAMENTAÇÃO DIVERSA. HONORÁRIOS ADVOCATÍCIOS ARBITRADOS POR EQUIDADE. CUSTAS PROCESSUAIS FIXADAS DE OFÍCIO. MATÉRIA DE ORDEM PÚBLICA. GRATUIDADE DA JUSTIÇA QUE NÃO IMPEDE A CONDENAÇÃO AO PAGAMENTO DAS VERBAS SUCUMBENCIAIS, FICANDO, CONTUDO, SOB CONDIÇÃO SUSPENSIVA DE EXIGIBILIDADE. FIXAÇÃO DOS HONORÁRIOS RECURSAIS. RECURSO CONHECIDO E NÃO PROVIDO.
+Embargos de declaração rejeitados (fl. 577).
+O recorrente alega violação do art. 1.022, II, do CPC, ao argumento de que a Corte de origem não se manifestou acerca do pedido de produção de prova pericial contábil.
+Quanto àsquestõesde fundo, além de divergência jurisprudencial, sustenta ofensa aos seguintes dispositivos legais:
+(a) arts. 22, 23, 24 e 25 da Lei 8.880/94, por não ter convertido os salários em URV;
+(b) arts. 350, 373, II e § 1º e 374, II, IV do CPC, por ter sido atribuído aos recorrentes o ônus de produzir prova negativa, ante a presunção legal da existência do direito; e
+(c) arts.489, § 1º, I, IV, V, VI e 927, I, III, IV e § 1º do CPC, ao argumento de quedeixou de seguir precedentes do STF e STJ.
+Comcontrarrazões (fls. 901/908).
+Juízo negativo de admissibilidade às fls. 918/924.
+Decisão de conversão do agravo em recurso especial à fl. 988.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+De início, afasta-se a alegada violação do art. 1.022, II, do CPC/2015, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+No ponto,observa-se a seguinte passagem do acórdão recorrido(fls. 586/587):
+Nessa esteira, considerando o acolhimento do entendimento de que a reestruturação remuneratória da carreira, operada por lei superveniente, teria o condão de fixar o termo ad quem para a percepção das diferenças decorrentes das perdas originadas com a ausência de conversão em URV ou da respectiva conversão realizadaequivocadamente, restou impossibilitada a análise das demais matérias constantes no recurso, inclusive o pleito de produção de perícia técnica contábil.
+Desnecessário, portanto, qualquer esclarecimento ou complemento ao que já decidido pela Corte de origem, pelo que se afasta a ofensa ao art.1.022, II,do CPC/2015.
+Ainda que se entendesse pela continuidade da relação de trato sucessivo quanto às parcelas de URV, não implementadas ou implementadas equivocadamente, existindo lei reestruturante que imponha o termo ad quem para a percepção dos valores requeridos, inevitável seria o reconhecimento da incidência da prescrição no caso dos autos.
+No que diz respeito à conversão dos salários em URV e a aplicação do entendimento fixado no STF, a Corte de origem firmou compreensão de que (fl. 540):
+Ainda que se entendesse pela continuidade da relação de trato sucessivo quanto às parcelas de URV, não implementadas ou implementadas equivocadamente, existindo lei reestruturante que imponha o termo ad quem para a percepção dos valores requeridos, inevitável seria o reconhecimento da incidência da prescrição no caso dos autos.
+Assim, aausência de impugnação a fundamento que, por si só, respalda o resultado do julgamento proferido pela Corte de origem impede a admissão do recurso especial. Incide ao caso a Súmula 283/STF.
+No que diz respeito aos arts.489, § 1º, I, IV, V, VI e 927, I, III, IV e § 1º do CPC, bem comoà produção de prova negativa, verifica-se que não houve juízo de valor por parte da Corte de origem, o que acarreta o não conhecimento do recurso especial pela falta de cumprimento ao requisito do prequestionamento. Aplica-se ao caso a Súmula 282/STF.
+Frise-se, por oportuno, que os embargos de declaração opostos na origem não buscaram sanar eventual vício relativo à aplicação dos aludidos dispositivos legais.
+Por fim, oalegado dissídio jurisprudencial não foi comprovado nos moldes estabelecidos nos artigos 1.029, § 1º, do CPC/2015 e 255, § 1º do RISTJ, tendo em vista que não foi realizado o devido cotejo analítico, com a demonstração clara do dissídio entre os casos confrontados, identificando os trechos que os assemelhem, não se oferecendo, como bastante, a simples transcrição de ementas ou votos.
+Ante o exposto, conheço parcialmente do recurso especial e, nessa extensão, nego-lhe provimento. Caso tenham sido fixados honorários sucumbenciais anteriormente pelas instâncias ordinárias, majoro-os em 10%, observados os limites e parâmetros dos §§ 2º, 3º e 11 do artigo 85 do CPC/2015 e eventual Gratuidade da Justiça (§ 3º do artigo 98 do CPC/2015).
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. VIOLAÇÃO DO ART. 1.022, II, DO CPC/2015. NÃO OCORRÊNCIA. CONVERSÃO DO SALÁRIO EM URV. PRESCRIÇÃO. FUNDAMENTO NÃO IMPUGNADO. SUMULA 283/STF. PROVA NEGATIVA E PRECEDENTES OBRIGATÓRIOS.AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS TIDOS POR VIOLADOS. SÚMULA 282/STF.DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. RECURSO ESPECIAL CONHECIDO EM PARTE E, NESTA EXTENSÃO, NÃO PROVIDO.
