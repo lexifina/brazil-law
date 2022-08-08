@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 02/08/2022 a 08/08/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de agravo interno interposto por Marlene de Fatima Castro Kitamura, contra decisão que inadmitiu o recurso especial fundado no art. 105, III, a e c, da Constituição Federal, que objetiva reformar o acórdão proferido pelo Tribunal Regional Federal da 3ª Região, assim ementado:
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. APOSENTADORIA POR TEMPO DECONTRIBUIÇÃO. CONVERSÃO EM APOSENTADORIA ESPECIAL. ISENÇÃO DO PAGAMENTODE CUSTAS PROCESSUAIS. FALTA DE INTERESSE RECURSAL. SERVIÇOS GERAIS EMHOSPITAL. AUSÊNCIA DE PREJUÍZO À SAÚDE. AUXILIAR DE ENFERMAGEM. PPP. AGENTES BIOLÓGICOS. DECRETOS NºS 2.172/97 E 3.048/99. COMPROVAÇÃO DO LABOR SUBMETIDO ACONDIÇÕES ESPECIAIS. EPI EFICAZ. INDIFERENÇA. TEMPO INSUFICIENTE PARAAPOSENTADORIA ESPECIAL. REVISÃO DA APOSENTADORIA POR TEMPO DECONTRIBUIÇÃO. DIB NA DATA DO REQUERIMENTO ADMINISTRATIVO. CORREÇÃOMONETÁRIA. JUROS DE MORA. SUCUMBÊNCIA RECÍPROCA. APELAÇÃO DO INSSPARCIALMENTE CONHECIDA E PARCIALMENTE PROVIDA. REMESSA NECESSÁRIA EAPELAÇÃO DA PARTE AUTORA PARCIALMENTE PROVIDAS.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial."
+No agravo interno, a parte recorrente traz, resumidamente, os seguintes argumentos:
+Em outros termos, a agravante objetiva a aplicação do direito segundo o regramento jurídico vigente para caracterização da especialidade do labor no período de 01/05/1979 a 31/07/1980 (HOSP. SANTA CASA JESUS MARIA JOSÉ), e não o reexame das provas.
+ ..
+Portanto, se considerada a lei vigente a época da prestação do serviço "tempus regit actum", a qual não foi observado no r. Acórdão, o período de 01/05/1979 a 31/07/1980 (HOSP. SANTA CASA JESUS MARIA JOSÉ) pode e deve ser reconhecido como especial em decorrência das atividades DESEMPENHADAS PELA COLABORADORA EM AMBIENTE HOSPITALAR.
+ ..
+Portanto, analisando a atividade descrita nos informativos de atividade especial, nos termos acima mencionados, de forma mais ampla, e em conjunto com a legislação vigente, até 28/04/95 (Dia anterior a vigência da lei 9.032/95 que "passou a exigir a permanência ao fator de risco") e Súmula 49 da TNU, resta demonstrado que o períodotrabalhado de 01/05/1979 a 31/07/1980 (HOSP. SANTA CASA JESUS MARIA JOSÉ), merece ser reconhecido especial.
+ ..
+Assim, não há dúvidas de que este período pode e deve ser reconhecido como atividade especial, de acordo com a legislação vigente a época do serviço prestado (códigos 1.3.4, 2.1.3 e 3.0.1 dos Anexos I, II e III dos Decretos 53.831/64 e 83.080/79), afastando § 3º do artigo 57 da lei 9.032/95.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. PREVIDENCIÁRIO.APOSENTADORIA POR TEMPO DECONTRIBUIÇÃO. CONVERSÃO EM APOSENTADORIA ESPECIAL. DESPROVIMENTO DO AGRAVO INTERNO MANUTENÇÃO DA DECISÃO RECORRIDA. IMPOSSIBILIDADE DE REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA N. 7/STJ.
+I - Na origem, trata-se de ação previdenciária pelo rito ordinário contra o INSS, objetivando conversão de aposentadoria por tempo de contribuição em aposentadoria especial. Na sentença o pedido foi julgado parcialmente procedente. No Tribunala quo, a sentença foi reformada para afastar especialidade e a conversão inversa em determinados períodos, bem como a conversão da aposentadoria por tempo de contribuição em aposentadoria especial.
+II - Verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+III - A revisão da conclusão do colegiado originário, a fim de acolher a pretensão recursal, demandaria o revolvimento do acervo fático- probatório dos autos, o que é vedado ante a natureza excepcional da via eleita, consoante enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+IV - Ademais, verifica-se que a pretensão da parte agravante é de ver reconhecida a existência de dissídio jurisprudencial, que tem por objeto a mesma questão aventada sob os auspícios da alínea a, que, por sua vez, foi obstaculizada pelo enunciado da Súmula n. 7/STJ.
+V - Quando isso acontece, impõe-se o reconhecimento da inexistência de similitude fática entre os arestos confrontados, requisito indispensável ao conhecimento do recurso especial pela alínea c.
+VI - Nesse sentido: "A jurisprudência desta Corte firmou-se no sentido de que a incidência da Súmula 7/STJ também impede o conhecimento do recurso especial pela alínea c do permissivo constitucional, uma vez que falta identidade fática entre os paradigmas apresentados e o acórdão recorrido". (AgInt no AREsp 1.402.598/RS, relator Ministro Raul Araújo, Quarta Turma, DJe de 22/5/2019.)
+VII - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A parte agravante repisa os mesmos argumentos já analisados na decisão recorrida.
+A Corte a quo analisou as alegações da parte com os seguintes fundamentos:
+ ..  o exercício da função de serviços gerais ("realizar serviços de limpeza") não está diretamente relacionado ao desempenho de atividades prejudiciais à saúde, inexistindo no documento apresentado qualquer indicação a qual agente biológico a demandante estava submetida.", concluindo, em seguida, que "verifica-se que a autora alcançou 24 anos, 02 meses e 06 de serviço especial, na data do requerimento administrativo (17/05/2011), tempo insuficiente para concessão da aposentadoria pleiteada na inicial (..)
+Verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "Apretensão de simples reexame de provas não enseja recurso especial".
+A revisão da conclusão do colegiado originário, a fim de acolher a pretensão recursal, demandaria o revolvimento do acervo fático-probatório dos autos, o que é vedado ante a natureza excepcional da via eleita, consoante enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+Ademais, verifica-se que a pretensão da parte agravante é de verreconhecida a existência de dissídio jurisprudencial, que tem por objeto a mesmaquestão aventada sob os auspícios da alínea a, que, por sua vez, foi obstaculizadapelo enunciado da Súmula n. 7/STJ.
+Quando isso acontece, impõe-se o reconhecimento da inexistência desimilitude fática entre os arestos confrontados, requisito indispensável aoconhecimento do recurso especial pela alínea c.
+Nesse sentido: "A jurisprudência desta Corte firmou-se no sentido deque a incidência da Súmula 7/STJ também impede o conhecimento do recursoespecial pela alínea c do permissivo constitucional, uma vez que falta identidadefática entre os paradigmas apresentados e o acórdão recorrido". (AgInt no AREsp1.402.598/RS, relator Ministro Raul Araújo, Quarta Turma, DJe de 22/5/2019.)
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
