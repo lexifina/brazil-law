@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 02/08/2022 a 08/08/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O EXMO. SR. MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão assim ementada (fl. 124):
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL.AGRAVO DE INSTRUMENTO. VIOLAÇÃO DO ARTIGO 1.022, II, DO CPC/2015. ARGUMENTAÇÃO GENÉRICA. SÚMULA 84/STF.HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. AÇÃO COLETIVA.IMPOSSIBILIDADE DE FRACIONAMENTO. RE 1.309.081 (TEMA 1.142).REPERCUSSÃO GERAL. RECURSO NÃO CONHECIDO.
+Em suas razões, a parte agravante pugna pela reconsideração da decisão agravada, alegando, em síntese, tratar-se de matériapreclusa,"porquanto o juízo onde tramita a ação coletiva já declinou da sua competência por decisão não impugnada pelo devedor" (fl. 135).Sustenta que a tese firmada no Tema 1.142/STF não impediu que "os honorários de sucumbência da fase de conhecimento possam ser incluídos no cumprimento de sentença individual do título executivo coletivo se pleiteados pela banca de advogados que atuou na ação coletiva" (fl. 137).Assevera ainda que, " ..  sendo os honorários autônomos e, sendo cada uma das execuções de substituídos processuais também autônomas (decorrentes de uma relação jurídica específica com o devedor), também vale o raciocínio no que toca aos honorários advindos das sentenças coletivas, quando fixados honorários em percentual da condenação." (fl.137).Defende, ainda, o seu direito com base nos arts. 85, § 4º, II, e 509, § 2º, do CPC/2015.
+Com impugnação às fls. 144-149.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. APLICAÇÃO DO CPC DE 2015. HONORÁRIOS SUCUMBENCIAIS. AÇÃO COLETIVA.IMPOSSIBILIDADE DE FRACIONAMENTO. RE 1.309.081 (TEMA 1.142). ACÓRDÃO NO MESMO SENTIDO DA JURISPRUDÊNCIA. AGRAVO NÃO PROVIDO.
+1.Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2.Na espécie, a questão não merece maiores considerações, visto que o STF, quando do julgamento do RE n. 1.309.081 (Tema 1.131/STF), firmou entendimento de que não é lícita a execução com base no valor das execuções individuais, devendo os honorários sucumbenciais fixados em ação coletiva ser liquidados e executados como um crédito único e indivisível, sob pena de afronta ao § 8º do art. 100 da Constituição Federal.
+3. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+O presente recurso não merece prosperar, tendo em vista que dos argumentos apresentados no agravo interno não se vislumbram razões para reformar a decisão agravada.
+No caso, cinge-se a controvérsia a definir se é possível que os honorários a serem fixados nos termos do art. 85, §§ 3º e 4º, II, do CPC/2015 sejam calculados com base no valor de cada execução individual ou se esses honorários devem ser calculados de forma concentrada, com base no valor global da condenação na ação coletiva.
+O Tribunal de origem, ao apreciar o agravo de instrumento, entendeu incabível a execução dos honorários com base no valor da execução individual, assentado nos seguintes fundamentos:
+ ..
+Portanto, não se trata apenas de verificar o trabalho desempenhado pelo patrono na fase de conhecimento, mas de apurar o valor total da condenação decorrente do título judicial, para que sejam observados os limites dos honorários para cada faixa de valor, disciplinados no artigo acima mencionado.
+Desse modo, ainda que por motivo diverso, correta a decisão de origem que fixou apenas os honorários para a fase de cumprimento de sentença e estabeleceu que os honorários da fase de conhecimento fossem apurados em liquidação de sentença perante o Juízo prolator da sentença coletiva, no qual o advogado credor terá que indicar o total da condenação, que, por certo, não se restringe ao montante exigido apenas no processo de origem, que se resume a somente um servidor público do Distrito Federal.
+É importante repetir que os honorários da fase conhecimento foram fixados de forma global, incidindo sobre a soma de todos os valores executados. Por outro lado, o arbitramento de forma individualizada desvirtuará o percentual a ser fixado, pois certamente não observará as faixas de valores, em desobediência à sistemática prevista no artigo 85, § 3º, do Código de Processo Civil, cuja incidência foi determinada no Acórdão da ação coletiva.
+Assim, quanto ao pedido de estipulação de percentual relativo aos honorários da fase de conhecimento, a decisão de origem não merece reforma." (fl. 42).
+Desse modo, a posição firmada no acórdão recorrido não merece reforma, poisencontra-seem consonância com a tese firmada pelo Supremo Tribunal Federal no julgamento do RE 1.309.081 (Tema 1.142): "Os honorários advocatícios constituem crédito único e indivisível, de modo que o fracionamento da execução de honorários sucumbenciais fixados em ação coletiva contra a Fazenda Pública, proporcionalmente às execuções individuais de cada beneficiário, viola o § 8º do art. 100 da Constituição Federal.".
+Assim, de acordo com entendimento firmado pelo STF em precedente vinculante, não é lícita a execução com base no valor das execuções individuais, devendo os honorários sucumbenciais fixados em ação coletiva ser liquidados e executados como um crédito único e indivisível, sob pena de afronta aos arts.art. 85, § 4º, II, do CPC/2015 e100,§ 8º,da Constituição Federal.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. HONORÁRIOS SUCUMBENCIAIS. AÇÃO COLETIVA. IMPOSSIBILIDADE DE FRACIONAMENTO. RE 1.309.081 (TEMA 1.142). REPERCUSSÃO GERAL. PRECLUSÃO. INOVAÇÃO RECURSAL. AGRAVO PARCIALMENTE CONHECIDO E NÃO PROVIDO.
+1. Cinge-se a controvérsia a definir se é possível que os honorários a serem fixados nos termos do art. 85, §§ 3º e 4º, II, do CPC/2015 sejam calculados com base no valor de cada execução individual ou se esses honorários devem ser calculados de forma concentrada, com base no valor global da condenação na ação coletiva.
+2. De acordo com entendimento firmado pelo STF no RE 1.309.081 (Tema 1.142), não é lícita a execução com base no valor das execuções individuais, devendo os honorários sucumbenciais fixados em ação coletiva ser liquidados e executados como um crédito único e indivisível, sob pena de afronta ao § 8º do art. 100 da Constituição Federal.
+3. Necessário o alinhamento da jurisprudência desta Corte ao entendimento firmado pelo STF, que definiu a questão com fundamento constitucional.
+4. A alegação de preclusão da decisão do juízo onde tramita a ação coletiva constitui indevida inovação recursal, pois tal fundamento não foi suscitado no recurso especial. Precedente.
+5. Agravo interno parcialmente conhecido e não provido.
+(AgInt no REsp n. 1.934.202/DF, relator Ministro Og Fernandes, Segunda Turma, DJe de 22/10/2021.)
+Cabe ainda ressaltar que não se desconhece a existência de precedentes desta Corte em sentido contrário, no entanto, é necessário o alinhamento da jurisprudência desta Corte ao entendimento firmado pelo STF, que definiu a questão com fundamento constitucional.
+Acerca da alegação de que o STF não impediu a execução dos honorários em cumprimentos individuais de sentença não procede, pois foi justamente essa impossibilidade de fracionamento do crédito que ficou estabelecida no julgamento.
+Por último, a alegação de preclusão da decisão do juízo onde tramita a ação coletiva constitui indevida inovação recursal, pois tal fundamento não foi suscitado no recurso especial.
+Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. TEMA SOBRESTADO NA ORIGEM EM RAZÃO DE REPETITIVO. PEDIDO DE TUTELA DE URGÊNCIA. TESE QUE PUGNA PELO CONHECIMENTO DESTA QUESTÃO. PEDIDO INEXISTENTE NO APELO ESPECIAL. PRECLUSÃO CONSUMATIVA E INOVAÇÃO RECURSAL.
+1 - É vedado à parte recorrente, em sede de embargos de declaração e agravo regimental, suscitar matéria que não foi suscitada anteriormente, em virtude da ocorrência da preclusão consumativa (STJ, AgRg nos EDcl no REsp n. 1.455.777/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe de 17/09/2015).
+2. Agravo interno não provido.
+(AgInt nos EDcl no AREsp 1.437.977/SP, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 24/09/2019).
+Ante o exposto, não conheço do agravo interno.
+É como voto.
