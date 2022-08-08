@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, a, da Constituição Federal, contra acórdão proferido pelo TRF4, assim ementado (fl. 30):
+AGRAVO DE INSTRUMENTO. SEQUESTRO DE BENS NA ESFERACRIMINAL. PENHORA PARA GARANTIA DE CRÉDITO TRIBUTÁRIO. IMPOSSIBILIDADE.
+1. O sequestro de bens na esfera criminal constitui medida assecuratória voltada à indisponibilidade dos bens móveis e imóveis adquiridos com os proventos da infração, ainda que já tenham sido transferidos a terceiros(arts. 125 e 132 do CPP), bastando, para a sua decretação, a existência de indícios veementes da proveniência ilícita destes ativos (art. 126 do CPP).
+2. Considerando que o sequestro de bens na esfera criminal implica indisponibilidade dos bens para assegurar a reparação do crime, impõe-se a conclusão acerca da impossibilidade de sua penhora para satisfação de créditos tributários, uma vez que os valores resultantes de eventual arrematação desses bens devem ser destinados conforme preceitua a norma penal, não podendo servir para saldar dívida fiscal da parte executada.
+Embargos de declaração rejeitados.
+Em suas razões, a recorrente alega, primeiramente, violação dos arts.1022, II, do CPC/2015, ao argumento de que a Corte local não se manifestou sobre pontos importantes para o deslinde da controvérsia, especificamente quanto ao argumento de que "nãoexiste vedação legal à penhora, em executivo fiscal, de bem sequestrado, como forma de garantir o crédito tributário para o caso de ser julgada extinta a punibilidade ou absolvido o réu" (fl. 59).
+Quanto ao mérito, aponta violação dos arts.797 e 833 do CPC;131,III, do CPP; 204 do CTN e 3º da Lei 6.830/80. Para tanto, sustenta que:"ao realizar a penhora dos imóveis indicados, a exequente está apenas garantindo que caso ocorra alguma das hipóteses previstas no art. 131, do CPP, que seu crédito estará assegurado. Do contrário, sendo negada a penhora para garantia do crédito tributário da União, se ocorrer a hipótese do art. 131, III, do CPP, corre-se o risco dever o bem leiloado amanhã depois por credor sem nenhuma preferência, eis que não matrícula não existirá a notícia de penhora do crédito tributário." (fls. 62/63).
+Sem contrarrazões.
+Decisão de admissibilidade (fls. 71/72).
+É o relatório. Passo a decidir.
+Compulsando-se os autos, verifica-se que arecorrente pretende a anulação do acórdão proferido pela Corte de origem no julgamento dos embargos de declaração sob o argumento de negativa de prestação jurisdicional, por entender que remanesce omisso o julgamento da controvérsia.
+Nota-se que arecorrente, nas razões dos embargos de declaração, requereu a manifestação expressa do órgão julgador a respeito doseguinte argumento:a ausência de vedação legal à penhora, em executivo fiscal, de bem sequestrado, como forma de garantir o crédito tributário para o caso de ser julgada extinta a punibilidade ou absolvido o réu, nos termos do art. 131, inciso III do CPP.
+No julgamento dos embargos de declaração, observa-se que o Tribunal de origem manteve-se silente quanto ao referido argumento.
+Com efeito, aquestãosuscitadaguardacorrelação lógico-jurídica com a pretensão deduzida nos autos e se apresentaimprescindívelà satisfação da tutela jurisdicional.
+A falta de manifestação a respeito de questão necessária à resolução integral da demanda autoriza o acolhimento de ofensa ao artigo 1022 do CPC/2015, o que enseja a anulação do acórdão proferido em sede de embargos de declaração e torna indispensável o rejulgamento dos aclaratórios.
+A propósito: AgInt no REsp 1.394.325/RJ, Rel. Min. Herman Benjamin, Segunda Turma, DJe 30/11/2016; AgRg no REsp 1.221.403/RS, Rel. Min. Napoleão Nunes Maia Filho, Primeira Turma, DJe 23/8/2016; AgRg no REsp 1.407.552/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 3/3/2016.
+Ante o exposto, dou provimento ao recurso especial, tornando nulo os acórdãos proferidos no julgamento dos embargos de declaração, a fim de que a Corte de origem aprecie a matéria articulada nos aclaratórios.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. ARTIGO 1022 DO CPC/2015. OFENSA CARACTERIZADA. QUESTÃO NÃO EXAMINADA E IMPRESCINDÍVEL À SOLUÇÃO DA CO NTROVÉRSIA. RECURSO ESPECIAL PROVIDO
