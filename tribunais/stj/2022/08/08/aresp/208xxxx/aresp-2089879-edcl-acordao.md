@@ -1,0 +1,33 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO PENAL. MULTA. COBRANÇA. COMPETÊNCIA. OMISSÃO QUANTO A UMA DAS CAUSA DE PEDIR DO RECURSO ESPECIAL (NÃO CONFIGURAÇÃO DO INÍCIO DA EXECUÇÃO DA SANÇÃO). INOCORRÊNCIA. EMBARGOS REJEITADOS.
+1. Os embargos de declaração possuem fundamentação vinculada. Dessa forma, para seu cabimento, é necessária a demonstração de que a decisão embargada se mostrou ambígua, obscura, contraditória ou omissa, conforme disciplina o art. 619 do Código de Processo Penal. Podem ser utilizados, ainda, para sanar eventual erro material.
+2. Na hipótese, buscou-se por meio do agravo em execução penal, a nulidade da cobrança da pena de multa estabelecida, de ofício, pelo juízo da execução penal, diante da preclusão do direito do Ministério Púbico para requerer tal pagamento, já que ultrapassado o prazo de 90 (noventa) dias.
+3. Analisando as razões dos aclaratórios, o que se percebe é que, sob a alegação da existência dos vícios que autorizam a oposição de embargos, o Ministério Público, em verdade, pretende restabelecer o direito de executar pena de multa reconhecidamente preclusa pelas instâncias ordinárias, o que é inviável pela via eleita.
+4. Embargos de declaração rejeitados.
+ACÓRDÃO
+Visto, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos. Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Jesuíno Rissato (Desembargador Convocado do TJDFT) e João Otávio de Noronha votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA (Relator):
+Trata-se de embargos de declaração no agravo regimental no agravo em recurso especial opostos pelo Ministério Público do Estado de Goiás (e-STJ, fls. 322/327) contra acórdão proferido por esta Corte Superior, cuja ementa é a seguinte (e-STJ, fl. 311):
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO PENAL. MULTA. COBRANÇA. COMPETÊNCIA.
+1. O Ministério Público é o órgão legitimado para promover a execução da pena de multa, perante a Vara de Execução Criminal, observado o procedimento descrito pelos artigos 164 e seguintes da Lei de Execução Penal; Caso o titular da ação penal, devidamente intimado, não proponha a execução da multa no prazo de 90 (noventa) dias, o Juiz da execução criminal dará ciência do feito ao órgão competente da Fazenda Pública (Federal ou Estadual, conforme o caso) para a respectiva cobrança na própria Vara de Execução Fiscal, com a observância do rito da Lei 6.830/1980.
+2. Não cabe a determinação do pagamento da pena de multa, de ofício, ao juízo da execução.
+3. Agravo regimental a que se nega provimento.
+Sustenta a parte embargante que o acórdão é omisso quanto a uma das causa de pedir do recurso especial interposto pelo Ministério Público - não configuração, sequer, do início da execução da sanção (2ª tese).
+Argumenta que ainda que se considere que o juiz não poderia cientificar o reeducando sobre o pagamento da multa, tal fato não implica na impossibilidade de o Ministério Público executar a multa na Vara de Execuções Penais, uma vez que sequer se iniciou o prazo de 90 dias (e-STJ, fl. 324).
+Pugna, ao final, pelo provimento dos embargos, a fim de que suprida a omissão, sejam conferidos efeitos infringentes provendo o agravo regimental.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA (Relator):
+Como é cediço, os embargos de declaração possuem fundamentação vinculada. Dessa forma, para seu cabimento, é necessária a demonstração de que a decisão embargada se mostrou ambígua, obscura, contraditória ou omissa, conforme disciplina o art. 619 do Código de Processo Penal. Podem ser utilizados, ainda, para sanar eventual erro material.
+Na hipótese, destacou-se que o Supremo Tribunal Federal, ao julgar a ADI n. 3.150/DF, declarou que, à luz do preceito estabelecido pelo art. 5o, inciso XLVI, da Constituição Federal, a multa, ao lado da privação de liberdade e de outras restrições - perda de bens, prestação social alternativa e suspensão ou interdição de direitos -, é espécie de pena aplicável em retribuição e em prevenção à prática de crimes.
+Diante de tal premissa, foi disposto que a legitimidade para a execução da referida multa decorrente de condenação criminal transitada em julgado, cm razão de sua natureza penal, seria do Ministério Público, ainda que não exclusiva, mas prioritária, sendo a legitimidade da Fazenda Pública, para propor execução fiscal, subsidiária, dependendo da omissão do órgão ministerial dentro de prazo, que foi fixado em 90 dias contados a partir da intimação para a execução da reprimenda.
+In casu, buscou-se por meio do agravo em execução penal, a nulidade da cobrança da pena de multa estabelecida, de ofício, pelo juízo da execução penal, diante da preclusão do direito do Ministério Púbico para requerer tal pagamento, já que ultrapassado o prazo de 90 (noventa) dias. Veja, a propósito, os trechos do acórdão que apreciou o Agravo em Execução n. 5154491-19.2021.8.09.0000 (e-STJ, fl. 214):
+Conforme relatado, o agravante busca a nulidade da cobrança da pena de multa estabelecida, de ofício, pelo juízo da execução penal, diante da preclusão do direito do Ministério Público para requerer tal pagamento, já que ultrapassado o prazo de 90 (noventa) dias, sendo competente a Vara da Fazenda Pública.
+Após detida análise, verifica-se que razão assiste ao agravante.
+Extrai-se dos autos que ARARE ROCHA MARCELINO foi condenado nos termos do artigo 306, da Lei 9.503/97, à pena definitiva de 06 (seis) meses de detenção, no regime aberto, substituída por uma restritiva de direitos, consistente em prestação de serviços à comunidade ou participação no programa da Justiça Restaurativa, mais 10 (dez) dias-multa, à razão mínima.
+Na audiência admonitória, o juízo da execução definiu as condições de cumprimento da pena restritiva de direito e, de ofício, determinou o pagamento da multa.
+No caso em tela, o que realmente o embargante pretende é o novo julgamento da causa, o que não se admite, porquanto, conforme reiterado entendimento desta Corte, é inadequada a pretensão de rejulgamento da causa na via dos embargos de declaração (EDcl no AgRg nos EAREsp n. 97.444/MG, Rel. Min. JORGE MUSSI, Terceira Seção, DJe 20/2/2015).
+O que se percebe, analisando as razões deste incidente, é que, sob a alegação da existência dos vícios que autorizam a oposição de embargos, o Ministério Público, em verdade, pretende restabelecer o direito de executar pena de multa reconhecidamente preclusa pelas instâncias ordinárias, o que é inviável pela via eleita.
+Diante do exposto, rejeitos os embargos de declaração.
+É como voto.
