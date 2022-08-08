@@ -1,0 +1,30 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 02/08/2022 a 08/08/2022, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Luis Felipe Salomão, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+Trata-se de embargos declaratórios opostos por SINDICATO DOS TRABALHADORES FEDERAIS EM SAÚDE, TRABALHO E PREVIDÊNCIA SOCIAL NO ESTADO DO ESPÍRITO SANTO - SINDPREV/ES, contra acórdão desta colenda Quarta Turma assim ementado (fl. 466):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. ARREMATAÇÃO DO BEM PELO CREDOR NA SEGUNDA PRAÇA. VALOR DA AVALIAÇÃO ATUALIZADO. PREÇO VIL NÃO CARACTERIZADO. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO E NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Agravo interno contra decisão da Presidência que não conheceu do agravo em recurso especial, em razão da falta de impugnação específica de fundamento decisório. Reconsideração.
+2. "Admite-se a arrematação do bem pelo credor em segunda praça, ainda que seja o único licitante, desde que a venda não se dê por preço vil" (AgRg no AREsp 542.564/AL, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 18/08/2016, DJe de 25/08/2016).
+3. No caso, o Tribunal de origem entendeu que o interstício de 8 (oito) meses entre a avaliação do perito e a praça na qual os imóveis foram arrematados não justifica a realização de novo trabalho pericial, afigurando-se suficiente a atualização do valor apontado pelo expert, com base na correção monetária apurada no período.
+4. De acordo com o entendimento do Superior Tribunal de Justiça, via de regra, deve ser considerado como preço vil aquele em que a arrematação alcança valor inferior a 50% (cinquenta por cento) da avaliação, circunstância inexistente no caso dos autos.
+5. Agravo interno provido para conhecer do agravo e negar provimento ao recurso especial.
+Em suas razões, sustenta a parte embargante, em síntese, a existência de omissão e contradição, pois "i) o bem arrematado tem valor superior ao crédito da ora embargada, o que viola frontalmente os arts. 805 do CPC/15 (620 do CPC/73) e 876 do CPC/15 - 685-A do CPC/73 (e-STJ fls. 329 e ss.); ii) considera-se feita a arrematação apenas quando da sua homologação pelo Poder Judiciário, o que ocorreu um ano após a segunda praça e um ano e oito meses após a avaliação do bem, e não da data do lance feito pelo credor, o que estaria a violar o art. 903 do CPC/15 (694 do CPC/73)" - (fl. 484).
+Aduz, ainda, que "se o valor da arrematação corresponde a 50% do valor originário da avaliação, realizada oito meses antes da 2ª praça, certamente que o mesmo se encaixa na denominação jurisprudencial de preço vil, pois o lance ofertado é inferior a 50% da avaliação, circunstância esta incontroversa no caso dos autos" - (fl. 486).
+Devidamente intimada, a parte embargada apresentou impugnação às fls. 491/497.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022). É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+2. Embargos de declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+As razões apresentadas nos embargos de declaração não evidenciam a existência de nenhum dos vícios previstos no art. 1.022 do CPC/2015; ao revés, todas as questões foram analisadas e decididas, ainda que contrariamente à pretensão da parte embargante, o que, por si só, inviabiliza o acolhimento dos declaratórios.
+Na hipótese, o v. acórdão embargado consignou que, consoante a jurisprudência desta Corte de Justiça (AgRg no AREsp 542.564/AL, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 18/08/2016, DJe 25/08/2016, g.n.), (EDcl no AgInt nos EDcl nos EDcl no AREsp 1101385/PR, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 18/02/2020, DJe 08/06/2020, g.n.), em casos específicos, o valor equivalente a 50% (cinquenta por cento) da avaliação pode não se considerado vil.
+Na situação dos autos, a Corte de origem interpretou que "o interstício de 8 (oito) meses entre a avaliação do perito e a praça na qual os imóveis foram arrematados não justifica a realização de novo trabalho pericial, afigurando-se suficiente a atualização do valor apontado pelo expert, com base na correção monetária apurada no período", acentuando que "como a arrematação ocorreu pelo valor equivalente a 50% do valor da avaliação dos bens, acrescida de correção monetária, não se evidencia a ocorrência de preço vil" - (fl. 472).
+Dessa forma, portanto, não prospera a alegada ofensa ao art. 1.022 do Código de Processo Civil, tendo em vista que o v. acórdão recorrido, embora não tenha examinado individualmente cada um dos argumentos suscitados pela parte, adotou fundamentação suficiente, decidindo integralmente a controvérsia.
+É indevido conjecturar-se a existência de omissão, obscuridade ou contradição no julgado apenas porque decidido em desconformidade com os interesses da parte. No mesmo sentido podem ser mencionados os seguintes julgados: AgRg no REsp 1.170.313/RS, Rel. Min. LAURITA VAZ, DJe de 12/4/2010; REsp 494.372/MG, Rel. Min. ALDIR PASSARINHO JUNIOR, DJe de 29/3/2010, AgRg nos EDcl no AgRg no REsp 996.222/RS, Rel. Min. CELSO LIMONGI (Desembargador convocado do TJ/SP), DJe de 3/11/2009.
+Diante do exposto, rejeitam-se os embargos declaratórios.
+É como voto.
