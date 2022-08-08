@@ -1,0 +1,65 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 02/08/2022 a 08/08/2022, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Cuida-se de embargos de declaração opostos por ONOFRE ALVES VILELA contra acórdão desta Terceira Turma assim ementado (e-STJ, fl. 961):
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EMRECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO MONITÓRIA CONVERTIDA EM EXECUÇÃO. DECISÃO DE ADMISSIBILIDADE IMPUGNADA, AINDA QUE SUCINTAMENTE. NOVA ANÁLISE DO AGRAVO. VIOLAÇÃO A DISPOSITIVOS CONSTITUCIONAIS. IMPOSSIBILIDADE DE EXAME PELO SUPERIOR TRIBUNAL DE JUSTIÇA. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015 NÃO CONFIGURADA. EXCEÇÃO DE PRÉ-EXECUTIVIDADE INADMITIDA. ALEGAÇÃO DE IMPENHORABILIDADE DO IMÓVEL CONSTRITO. MATÉRIA QUE DEMANDA DILAÇÃO PROBATÓRIA. VIA INADEQUADA. ACÓRDÃO EM HARMONIA COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. REVISÃO DAS CONCLUSÕES ESTADUAIS. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. É inviável a apreciação de ofensa a eventual violação de dispositivos e princípios constitucionais, sob pena de usurpação da competência atribuída ao Supremo Tribunal Federal, nos termos do art. 102 da Constituição Federal.
+2. Não ficou configurada a violação dos arts. 489 e 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou de forma fundamentada sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+3. Tendo o acórdão recorrido decidido em consonância com a jurisprudência do Superior Tribunal de Justiça, incide na hipótese a Súmula n. 83/STJ, que abrange os recursos especiais interpostos com amparo nas alíneas a e/ou c do permissivo constitucional. Precedentes.
+4. Reverter a conclusão do Colegiado originário, para acolher a pretensão recursal, demandaria o revolvimento do acervo fático-probatório dos autos, o que é vedado ante a natureza excepcional da via eleita, consoante o disposto na Súmula n. 7 do Superior Tribunal de Justiça.
+5. Razões recursais insuficientes para a revisão do julgado.
+6. Agravo interno desprovido.
+Em suas razões (fls. 977-983, e-STJ), sustenta o embargante ofensa ao art. 1.022 do CPC/2015, alegando omissão no julgado, ao argumento de que não foram analisados todos os pontos trazidos no recurso especial que propiciariam seu provimento.
+Impugnação às fls. 987-992 (e-STJ).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO DO ACÓRDÃO EMBARGADO. INEXISTÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração são cabíveis para o fim de esclarecerobscuridade, corrigir contradição ou suprir omissão sobre ponto acerca doqual se impunha pronunciamento.
+2. No caso dos autos, as razões deduzidas evidenciam o exclusivo intuitode rejulgamento da causa, finalidade com a qual não se coadunam osdeclaratórios.
+3. Embargos de declaração rejeitados.
+VOTO
+Os embargos de declaração, nos termos do art. 1.022, do CPC/2015, têm cabimento somente quando efetivamente existir omissão, contradição, obscuridade ou erro material no julgado embargado, situações não observadas na espécie.
+O acórdão proferido por este colegiado decidiu a controvérsia com base emfundamentação sólida, sem omissões ou contradições. Na verdade, apenas seresolveu a celeuma em sentido contrário ao pretendido peloinsurgente.
+Ademais, o órgão julgador não está obrigado a responder aquestionamentos das partes, mas tão só a declinar as razões de seuconvencimento motivado, como de fato ocorre nos autos.
+Nessa linha:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO INDENIZATÓRIA. DANO MORAL E MATERIAL. SERVIÇO DE EMPREITADA. REFORMA DE IMÓVEL. FALHA NA PRESTAÇÃO DO SERVIÇO. VIOLAÇÃO DO ART. 1.022 DO NCPC. OMISSÃO DO ACÓRDÃO RECORRIDO. INEXISTÊNCIA. DECISÃO MANTIDA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016)
+serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Os embargos de declaração destinam-se a suprir omissão, afastar obscuridade ou eliminar contradição eventualmente existentes no julgado combatido, bem como corrigir erro material.
+3. No caso, o acórdão embargado não incorreu no vício apontado, tendo concluído, fundamentadamente, que a condenação de IVANA foi mantida, porque inexistente a omissão suscitada e expressamente comprovado o descumprimento contratual, assentando, ainda, que os danos materiais deverão ser apurados em liquidação de sentença.
+4. Esta Corte possuiu o entendimento de que "não cabe a este Superior Tribunal, que não é órgão de consulta, responder a "questionários", tendo em vista que os aclaratórios não apontam de concreto nenhuma obscuridade, omissão ou contradição no acórdão, mas buscam, isto sim, esclarecimentos sobre situação que os embargantes consideram injusta em razão do julgado" (EDcl no AgRg no AREsp nº 468.212/SC, Rel. Ministro Marco Aurélio Bellizze, DJe 26/3/2015).
+5. Embargos de declaração rejeitados (EDcl no AgInt no AREsp n. 1.913.453/PR, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 4/4/2022, DJe de 6/4/2022).
+No mais, o acórdão embargado manteve a decisão monocrática que, em juízo de reconsideração,conheceu do agravo para negar provimento ao recurso especial, pelos seguintes fundamentos (e-STJ, fls. 908-914):
+No tocante à dita ofensa aos arts. 5º e 186 da Constituição Federal de 1988, cabe salientar que a competência desta Corte restringe-se à interpretação e uniformização do direito infraconstitucional federal, não sendo cabível o exame de eventual ofensa a dispositivos e princípios constitucionais, sob pena de usurpação da competência atribuída ao Supremo Tribunal Federal, nos termos do art. 102 da Constituição Federal.
+No que se refere à exceção de pré-executividade, a jurisprudência desta Casa firmou-se no sentido de que sua utilização apenas se apresenta possível quando as questões a serem apreciadas puderem ser conhecidas de ofício pelo magistrado, dispensada a dilação probatória.
+(..)
+Na espécie, constata-se que o Tribunal de origem, observadas as peculiaridades da causa, expressamente consignou o não cabimento da exceção de pré-executividade para análise da questão acerca da impenhorabilidade do imóvel em razão de ser ele pequena propriedade rural e bem de família, sob o fundamento da necessidade de maior dilação probatória.
+Dessa forma, encontrando-se o acórdão recorrido em consonância com a jurisprudência desta Corte, inarredável a aplicação da Súmula 83/STJ a obstar a análise do reclamo por ambas as alíneas do permissivo constitucional. Ademais, verifica-se que a controvérsia foi solvida sob premissas fáticas, aplicando-se a Súmula n. 7 do STJ na hipótese em que o acolhimento da tese versada no recurso especial reclama a análise dos elementos probatórios produzidos ao longo da demanda.
+Dito isso, depreende-se que a apontada afronta aos arts. 489 e 1.022 do CPC/2015 não ficou caracterizada, uma vez que a jurisprudência desta Corte é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+(..)
+Em relação às matérias tidas por omissas, assim se manifestou o Tribunal de origem (fls. 616-620, 623-624, grifos no original):
+Inicialmente, anoto que a Exceção de Pré-Executividade é o incidente de defesa do devedor de utilização restrita, não previsto em lei, para alegar vícios ou falhas relacionadas aos requisitos de admissibilidade do processo e questões pertinentes ao mérito que podem ser demonstradas sem dilação probatória, não substituindo os Embargos à Execução quanto às matérias que lhe são próprias.
+(..)
+Não obstante tenha ocorrido a constrição do bem pertencente ao Recorrente, ele não se insurgiu oportuna e tempestivamente em relação à penhora, uma vez que não opôs os Embargos à Execução no prazo de 15 (quinze) dias que teria para tanto (art. 915, do CPC), momento em que poderia ter alegado uma das matérias próprias do art. 917, do CPC, o que incluía a penhora incorreta ou avaliação errônea (inciso II, do art. 917, do CPC), consoante se infere sob o cód. 10.
+Contudo, posteriormente, o Agravante aviou a Exceção de Pré-Executividade, arguindo matérias próprias de Embargos à Execução (cód. 10), inclusive afirmando que pretendia exercer a ampla dilação probatória - incabível naquele Incidente Processual -, para provar que o imóvel é impenhorável; que utiliza o bem para prover o sustento os seus filhos incapazes os quais nem sequer figuram como partes na presente demanda (sendo, portanto, descabida a eventual intimação do i. Ministério Público para se manifestar no presente feito); nulidade do título executivo - apesar da Sentença que converteu a Ação Monitória em Execução já haver transitado em julgado; e, ainda, avaliação errônea do bem -ordenada pelo MM. Juiz, diligentemente, a realização de nova estimativa do valor de mercado (cód. 01).
+(..)
+A insurgência recursal não comporta acolhimento.
+Ora, se o Agravante assume que as matérias arguídas no Incidente que aviou demandam acervo probatório maior do que aquele já contido nos autos, é manifesto que a Exceção de Pré-Executividade não é a via certa para discuti-las, já que, como explanado, esse é o instrumento adequado para alegar as questões que podem ser comprovadas de plano.
+Não à toa, o Col. Superior Tribunal de Justiça adotou "(..) como critério definidor das matérias que podem ser alegadas em objeção de pré-executividade o fato de ser desnecessária a dilação probatória (..). Passou-se a se admitir essa forma excepcional de defesa para acolher exceções materiais, extintivas ou modificativas do direito da exequente, desde que comprovadas de plano e desnecessária a produção de outras provas além daquelas constantes dos autos ou trazidas com a própria exceção." (STJ; AgRg no Ag 1051891/SP; 2ª Turma; Rel. Min. CASTRO MEIRA; DJe 23/10/2008 - Destacamos).
+(..)
+Enfatize-se que o Col. Superior Tribunal de Justiça já assentou o seu entendimento no sentido de que "não é cabível a exceção de pré-executividade quando depender de dilação probatória, ainda que a questão tratada seja impenhorabilidade do bem de família"(EDcl no REsp 1363253/MG, Rel. Ministro Sidnei Beneti, Terceira Turma, Data de Publicação: 24/06/2013 - Destacamos).
+(..)
+Ao demais, ressalte-se que a questão alegada pelo Recorrente, em relação à avaliação incorreta do bem, se encontra expressamente prevista no inciso II, do art. 917, no rol das matérias próprias dos Embargos de Execução:
+(..)
+Aliás, "na exceção de pré-executividade devem ser demonstrados
+vícios capazes de nulificar a execução e que saltem de modo evidente e inquestionável, não demandando maiores averiguações para que possam ser reconhecidos.
+(..)
+Destarte, entendo que o MM. Juiz primevo agiu com acerto, ao rejeitar o Incidente apresentado pelo Agravante, diante da necessidade de dilação probatória para a verificação das matérias arguídas pela via imprópria, havendo o D. Julgador Planicial sido diligente e, ainda, determinado que, ad cautelam, anteriormente à hasta pública, fosse realizada uma nova avaliação do bem.
+Constata-se, por consequência, que o acórdão embargado solucionou aquestão de forma satisfatória, sem incorrer nos vícios de obscuridade,contradição ou omissão com relação a ponto controvertido relevante, cujoexame pudesse levar a um diferente resultado na prestação de tutelajurisdicional, pretendendo a parte, na verdade, a rediscussão do julgado,o que não autoriza a oposição dos embargos.
+Ressalta-se, inclusive, que o embargante apenas reitera as razões jáexpostas em seu agravo interno, as quais foram rechaçadas por esta Terceira Turma.
+Evidente, portanto, a impossibilidade de acolhimento dos presentesdeclaratórios, pois devidamente motivada e fundamentada a decisão, além denão ter sido demonstrada a ocorrência de nenhuma das hipóteses do art.1.022 do Código de Processo Civil de 2015.
+Com esses fundamentos, rejeito os embargos de declaração.
+Fiquem as partes cientificadas de que a insistência injustificada noprosseguimento do feito, caracterizada pela oposição de novos embargos dedeclaração manifestamente inadmissíveis ou protelatórios a este acórdão,ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
