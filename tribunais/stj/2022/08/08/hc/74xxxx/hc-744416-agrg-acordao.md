@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Trata-se de agravo regimental interposto por MARCONDES NASCIMENTO MENDES SALEScontra a decisão de fls. 221-224, que não conheceu do habeas corpusimpetrado em seu favor, em que fora apontado como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (HC n. 2091468-45.2022.8.26.0000).
+O agravante teve sua prisão preventiva decretada a requerimento do Ministério Público e foi denunciado (fls. 93-96) por suposta prática do delito tipificado no art. 157, § 2º, II e III, na forma do art. 29, do Código Penal.
+Nas razões deste recurso, insiste na ocorrência de constrangimento ilegal, visto que a prisão preventiva é exceção do Estado Democrático de Direito.
+Alega violação do princípio da presunção de inocência.
+Requer, assim, a reconsideração da decisão agravada a fim de que sejam aplicadas as medidas alternativas diversas da prisão.
+É o relatório.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NOHABEAS CORPUS. ROUBO. PRISÃO PREVENTIVA. AUSÊNCIA DE ILEGALIDADE MANIFESTA. IMPRESCINDIBILIDADE DA PRISÃO PREVENTIVA FUNDAMENTADA.SUBSTITUIÇÃO POR MEDIDAS CAUTELARES ALTERNATIVAS. IMPOSSIBILIDADE.AGRAVO REGIMENTAL DESPROVIDO.
+1. A imprescindibilidade da prisão preventiva justificada no preenchimento dos requisitos dos arts. 312, 313 e 315 do CPP impede a aplicação das medidas cautelares alternativas previstas no art. 319 do CPP.
+2. Agravo regimental desprovido.
+VOTO
+A decisão agravada deve ser mantida por seus próprios fundamentos.
+O Supremo Tribunal Federal e o Superior Tribunal de Justiça não admitem a impetração de habeas corpus em substituição ao recurso ordinário próprio, uma vez que a competência do STF e a do STJ estão relacionadas com a análise de matéria de direito estrito prevista taxativamente na Constituição Federal. Esse entendimento tem sido adotado sem prejuízo de eventual deferimento da ordem de ofício em caso de flagrante ilegalidade, o que não se verifica no caso em apreço.
+O STJentende que "a prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, da natureza abstrata do crime ou do ato processual praticado (art. 313, § 2º, CPP)" (AgRg no RHC n. 126.010/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 10/12/2020).
+No caso, está justificada a manutenção da preventiva, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP, não sendo recomendável a aplicação de medida cautelar referida no art. 319 do CPP. A propósito, assim se manifestou o Tribunal a quo (fls. 208-210, destaquei):
+Inicialmente anoto que a decisão que decretou a custódia e as posteriores, que a mantiveram, estão fundamentadas a contento, pois delas contam os motivos pelos quais a autoridade coatora considera que a constrição seja necessária.
+No mais,há prova da materialidade, são promissores os indícios de autoria (o Paciente foi reconhecido como um dos autores do roubo pela vítima e apontado porMurilocomo autor do crime) e razões de ordem pública justificam a manutenção do Paciente no cárcere, pois a sociedade deve ser privada do convívio de indivíduo que investe violentamente contra o patrimônio alheio, notadamenteo Paciente, que, conquanto tecnicamente primário, registra condenação pelo crime de tráfico de drogas, mantida por esta E. Câmara e objeto de recurso a Tribunais Superiores. Demais disso, deve-se garantir que a vítima possa prestar seu relato em juízo com tranquilidade, sem percalços, o que a soltura do Paciente não poderia assegurar, pelo que a custódia também se justifica por conveniência da instrução.
+Por outro lado, a pena máxima cominada ao delito imputado ultrapassa a quatro anos, de modo que a custódia tem amparo no art. 313, inciso II, do CPP.
+Nesse contexto,não se pode dizer que a prisãoviole os princípios da dignidade da pessoa humana ou do estado de inocência,até porque há muito os Tribunais Superiores pacificaram o entendimento de que a prisão provisória, por sua natureza cautelar e processual, não viola o disposto no artigo 5º, inciso LVII, da CF.
+Vale lembrar que na hipótese de sobrevir condenação o Paciente não seria beneficiado com a substituição da privação de liberdade por restrição de direitos, tampouco com o regime prisional mais brando, a denotar que a constrição é proporcional e razoável.
+Os Impetrantes alegam que o Paciente tem filho menor de 12 anos, mas não há prova de que ele seja o único responsável pelos cuidados da criança, de modo que de prisão domiciliar não se cogita.
+A soltura em razão da pandemia de COVID-19 só se justifica, hoje, em casos extremos, considerando a redução significativa do contágio, e o Paciente não é portador de comorbidade que o possa se agravar com eventual contágio.
+Tendo a necessidade de prisão cautelar sido exposta de forma fundamentada e concreta, é incabível a substituição por medidas cautelares mais brandas (RHC n. 133.153/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 21/9/2020).
+Observa-se queo risco de reiteração delitiva,a gravidade concreta da conduta ea periculosidade do agenteforam considerados pelo Juízo de primeiro grau para a decretação da prisão preventiva e justificam a imposição da medida extrema para garantia da ordem pública, aaplicação da lei penal e a conveniência da instrução processual, em detrimento das demais cautelares substitutivas.
+O entendimento acima está em consonância com a jurisprudência do STJde que "a gravidade concreta do crime como fundamento para a decretação ou manutenção da prisão preventiva deve ser aferida, como no caso, a partir de dados colhidos da conduta delituosa praticada pelo agente, que revelem uma periculosidade acentuada a ensejar uma atuação do Estado cerceando sua liberdade para garantia da ordem pública, nos termos do art. 312 do Código de Processo Penal" (HC n. 596.566/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 4/9/2020).
+Além disso,inquéritos policiais ou ações penais em curso justificam a imposição de prisão preventiva como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública (AgRgno HC n. 603.774/SP, relator Ministro Joel IlanPaciornik, Quinta Turma,DJede 28/9/2020; e HC n. 602.698/RS, relator Ministro Felix Fischer, Quinta Turma,DJede 6/10/2020).
+Inviáveis, portanto, as teses recursaissuscitadas.
+Ante o exposto,nego provimento ao agravo regimental.
+É o voto.
