@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, não conhecer do agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Trata-se de agravo regimental interposto porMILTON CARREIRO DE FRANÇAcontra a decisão de fls. 1.045-1.046, que negou provimento ao agravo em recurso especial com base na Súmula n. 182 do STJ.
+Em suas razões, oagravante sustentaque "impugnou de forma expressa e clara os fundamentos da decisão recorrida" (fl. 1.053).
+Afirma que "expressamente combateu a decisão recorrida na medida em que alegou e demonstrou que houve violação a regra da dosimetria da pena quando houve exasperação da pena-base com fundamento em elementar formadora do próprio tipo" (fl. 1.055).
+Contrarrazões apresentadas às fls. 1.065-1.068.
+É o relatório.
+EMENTA
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DECISÃO AGRAVADA.FUNDAMENTONÃO IMPUGNADO. INCIDÊNCIA DA SÚMULA N. 182 DO STJ. AGRAVO NÃO CONHECIDO.
+1. Incide a Súmula n. 182 do STJ quando a parte agravante não impugna especificamente todosos fundamentos da decisão agravada.
+2. Agravo regimental não conhecido.
+VOTO
+O recurso não reúne condições de conhecimento.
+A Presidência do STJ não conheceu do agravo em recurso especial devido à incidência da Súmula n. 182 do STJ, pois a parte agravante deixara de impugnar especificamente os seguintes fundamentos: "consonância do acórdão recorrido com jurisprudência do STJ (valoração da culpabilidade - bis in idem) e consonância do acórdão recorrido com jurisprudência do STJ (quantum da majoração - causa de aumento de pena)" (fl. 1.045).
+Oagravante não refutou especificamente todos os fundamentos da decisão agravada adotadospara o não conhecimento do recurso.Não contestou o entendimento deconsonância do acórdão recorrido com jurisprudência do STJ em relação à valoração da culpabilidade (bis in idem) e ao quantum da majoração (causa de aumento de pena).
+Necessária a efetiva demonstração de que o julgado apontado na decisão de inadmissão do recurso especial é inaplicável ao caso oufoi superado pela jurisprudência desta Corte,colacionando-se precedentes contemporâneos ou supervenientes, ou de que há distinção entre a matéria versada nos autos e aquela utilizada para justificar a aplicação do entendimento de consonância com a jurisprudência do STJ, o que não foi feito pelo agravante.
+A falta de impugnação específica dos fundamentos da decisão agravada atrai novamentea incidência da Súmula n. 182 do STJ.
+A propósito, confiram-se os seguintes precedentes:
+PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. SUSPENSÃO DE EXIGIBILIDADE DA COFINS. SEGURANÇA DENEGADA. NÃO CONHECIMENTO DO AGRAVO EM RECURSO ESPECIAL QUE NÃO ATACA OS FUNDAMENTOS DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de mandado de segurança em que o ora agravante pleiteia suspender a exigibilidade da COFINS do período de janeiro de 2009 a janeiro de 2012. Na sentença, denegou-se a segurança. No Tribunal a quo, a sentença foi mantida.
+II - Inadmitiu-se o recurso especial com base na ausência de obscuridade/contradição/omissão/erro, na ausência de violação/negativa de vigência/contrariedade, na consonância do acórdão recorrido com a jurisprudência do STJ (no sentido de que o depósito do crédito tributário equivale ao lançamento tributário para fins de constituição da dívida) e na incidência da Súmula n. 7/STJ. Agravo nos próprios autos que não impugna os fundamentos da decisão recorrida.
+III - São insuficientes para considerar como impugnação aos fundamentos da decisão que não admite o recurso especial na origem:
+meras alegações genéricas sobre as razões que levaram à negativa de seguimento, o combate genérico e não específico e a simples menção a normas infraconstitucionais, feita de maneira esparsa e assistemática no corpo das razões do agravo em recurso especial.
+IV - No caso em que foi aplicado óbice da consonância do acórdão recorrido com a jurisprudência do STJ, incumbe à parte, no agravo em recurso especial, pelo menos, apontar precedentes contemporâneos ou supervenientes aos referidos na decisão impugnada. Não o fazendo, é correta a decisão que não conhece do agravo nos próprios autos. A parte agravante informa que o acórdão indicado na decisão que negou seguimento ao recurso especial não se aplicaria ao caso, mas não indica julgado contemporâneo a justificar a tese.
+V - Agravo interno improvido.(AgInt no AREsp n. 1.516.535/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 17/12/2021, destaquei.)
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA N. 182/STJ. ASSOCIAÇÃO PARA O TRÁFICO. CONCESSÃO DA ORDEM DE HABEAS CORPUS PARA AFASTAR A VALORAÇÃO NEGATIVA DA VETORIAL ATINENTE À NATUREZA E QUANTIDADE DAS DROGAS. QUANTIDADE APREENDIDA NÃO SUFICIENTEMENTE ELEVADA. AGRAVO REGIMENTAL NÃO CONHECIDO. ORDEM DE HABEAS CORPUS CONCEDIDA.
+1. A decisão agravada não conheceu do agravo em recurso especial com fundamento na Súmula n. 182/STJ, porquanto não impugnada especificamente a incidência dos óbices apontados pela Corte a quo como fundamento para a inadmissão do recurso especial (e-STJ fls.401/402). Nas razões do regimental (e-STJ fls. 405/413), por sua vez, os agravantes deixaram de infirmar especificamente os fundamentos atinentes aos referidos entraves, limitando-se a reiterar o mérito do recurso especial.
+2. A falta de impugnação específica de todos os fundamentos utilizados na decisão agravada (decisão de não conhecimento do agravo em recurso especial) atrai a incidência da Súmula n. 182 desta Corte Superior.
+ ..
+7. Agravo regimental não conhecido e concedida, de ofício, a ordem de habeas corpus, para decotar o incremento decorrente da valoração negativa da vetorial atinente à natureza e quantidade das drogas, aplicado à pena-base do delito do art. 35, caput, da Lei n.11.343/2006, redimensionando as penas dos recorrentes para 10 (dez) anos de reclusão e 1.210 (um mil, duzentos e dez) dias-multa, mantidos os demais termos da condenação.(AgRg no AREsp n. 1.887.784/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma,DJe de 30/8/2021, destaquei.)
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. 1. ADIAMENTO DO JULGAMENTO. ART. 1º, § 3º, RES. STJ/GP N. 9/2020. PLEITO
+DEFERIDO. SUPERVENIÊNCIA DA RES. STJ/GP N. 19/2020. DISPOSITIVO NÃO REPETIDO. QUESTÃO DE ORDEM. NÃO MAIS PREVALÊNCIA DO ADIAMENTO AUTOMÁTICO. AUSÊNCIA DE MOTIVO PARA MANTER O ADIAMENTO. 2. RECURSO PENDENTE NA ESFERA CÍVEL. INDEPENDÊNCIA ENTRE AS INSTÂNCIAS. NÃO INTERFERÊNCIA. 3. FUNDAMENTO DA DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. OFENSA À DIALETICIDADE. NOVA INCIDÊNCIA DA SÚMULA N. 182/STJ. 4. AGRAVO NÃO CONHECIDO.
+ ..
+4. A petição recursal do agravante esbarra mais uma vez no óbice do enunciado n. 182 da Súmula desta Corte, porquanto não foi impugnada sua incidência na decisão agravada. A não impugnação específica e pormenorizada dos fundamentos da decisão agravada inviabiliza o conhecimento do agravo, por violação do princípio da dialeticidade, uma vez que os fundamentos não impugnados se mantêm.
+5. Agravo regimental não conhecido. (AgRg no AREsp n. 1.664.039/PR, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 21/9/2020.)
+Além disso, a refutação apta a infirmar a decisão agravada deve ser efetiva, individualizada, específica e fundamentada. Vejam-se julgados sobre a questão:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. INOCORRÊNCIA.AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA A TODOS OS FUNDAMENTO DA DECISÃO AGRAVADA. SÚMULA N. 182/STJ. AGRAVO DESPROVIDO.
+1. Consoante disposições do Código de Processo Civil e do Regimento Interno desta Corte (arts. 932,caput, do CPC e 255, § 4º, III, do RISTJ), o Relator deve fazer um estudo prévio da viabilidade do recurso especial, além de analisar se a tese encontra plausibilidade jurídica.
+2. E não há que se falar em afronta ao princípio da colegialidade e/ou cerceamento de defesa, pois a possibilidade de interposição de agravo regimental contra a respectiva decisão permite que a matéria seja apreciada pela Turma, afastando o vício suscitado pelo agravante.
+3. A falta de impugnação específica a todos os fundamentos utilizados nadecisão agravada atrai a incidência do enunciado sumular n. 182 desta Corte Superior.
+4. Como tem reiteradamente decidido esta Corte, os recursos devem impugnar, de maneira específica e pormenorizada, os fundamentos da decisão contra a qual se insurgem, sob pena de vê-los mantidos. Não são suficientes meras alegações genéricas sobre as razões que levaram à inadmissão do agravo ou do recurso especial ou à insistência no mérito da controvérsia.
+5. Agravo regimental a que se nega provimento.(AgRg no AREsp n. 1.708.623/SE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 31/8/2020.)
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE.SÚMULA 182/STJ. INCIDÊNCIA. AGRAVO NÃO PROVIDO.
+1. A ausência de impugnação específica aos fundamentos da decisão agravada impede o conhecimento do recurso, nos termos do que dispõe a Súmula 182/STJ.
+2. "Não é cabível, em agravo regimental, valer-se a parte agravante de razões não assentadas no agravo em recurso especial, com o extemporâneo propósito de demonstrar não ser aplicável o óbice que motivou a incidência da Súmula n. 182 do STJ." (AgRg no Ag 1326909/MG, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 26/06/2012, DJe 01/08/2012).
+3. Conforme já exposto na decisão agravada - que, em recente julgamento do EAREsp 746.775/PR (DJe de 30/11/2018), a Corte Especial do STJ manteve o entendimento da necessidade de impugnação específica de todos os fundamentos da decisão agravada, sob pena de incidência da Súmula 182/STJ.
+4. Agravo regimental não provido. (AgRg no AREsp n. 1.373.929/MS, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 19/2/2019.)
+Ante o exposto,não conheço do agravo regimental.
+É o voto.
