@@ -1,0 +1,56 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 02/08/2022 a 08/08/2022, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por Viveane Barros ao acórdão proferido pela Terceira Turma do Superior Tribunal de Justiça, nos termos da seguinte ementa (e-STJ, fl. 846):
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C INDENIZAÇÃO POR DANO MORAL. ALEGAÇÃO DE CONTRARIEDADE AO ART. 6º DA LINDB. COMPETÊNCIA DA SUPREMA CORTE. CONTRATO DE PRESTAÇÃO DE SERVIÇO EDUCACIONAL FINANCIADO PELO PROGRAMA FIES CELEBRADO ENTRE O ALUNO E O MEC (FNDE) PREVENDO O CUSTEIO DE 100% DO VALOR DA SEMESTRALIDADE DO CURSO SUPERIOR. REDUÇÃO DO VALOR DO FINANCIAMENTO POR ATO GOVERNAMENTAL UNILATERAL. COBRANÇA DA DIFERENÇA PELA INSTITUIÇÃO DO ENSINO SUPERIOR. REVISÃO DAS CONCLUSÕES DO ACÓRDÃO RECORRIDO. IMPOSSIBILIDADE. SÚMULAS N. 5 E 7/STJ. AGRAVO INTERNO IMPROVIDO .
+1. Segundo entendimento do Superior Tribunal de Justiça, é inviável o conhecimento do recurso especial por violação do art. 6º da LINDB, porque os princípios contidos na Lei de Introdução às Normas do Direito Brasileiro - direito adquirido, ato jurídico perfeito e coisa julgada -, apesar de previstos em norma infraconstitucional, são institutos de natureza eminentemente constitucional (art. 5º, XXXVI, da CF/1988).
+2. De acordo com a orientação desta Corte, não há como acolher a pretensão recursal com vistas a modificar a conclusão exarada pelo Tribunal de origem sem que se proceda ao reexame dos aspectos fáticos da causa e, notadamente, à interpretação de cláusulas contratuais, o que não se admite no âmbito do recurso especial, ante os óbices dispostos nas Súmulas 5 e 7 do Superior Tribunal de Justiça.
+3. Agravo interno improvido.
+Em suas razões, sustenta a embargante que a decisão embargada incorreu em omissão, uma vez que deixou de se manifestar a respeito da incidência do art. 1.032 do CPC/2015.
+Ressalta que "quando o julgador entender que o Recurso Especial versa de matéria constitucional - que é o caso em tela - deverá conceder o prazo de 15 (quinze) dias para o recorrente demonstrar a existência de repercussão geral e se manifestar sobre a questão constitucional e, após a diligência ser cumprida, deverá remeter os autos ao STF" (e-STJ, fl. 857).
+Busca, assim, que seja sanada a omissão apontada.
+Foi apresentada impugnação (e-STJ, fls. 862-866).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NORECURSO ESPECIAL. AUSÊNCIA DE FUNDAMENTO CONSTITUCIONAL NO ACÓRDÃO PROFERIDO PELO TRIBUNAL DE ORIGEM. APLICAÇÃO DO ART. 1.032 DO CPC/2015. IMPOSSIBILIDADE. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. INEXISTÊNCIA. EMBARGOS REJEITADOS.
+1. Os embargos de declaração poderão ser opostos com a finalidade de eliminar da decisão qualquer erro material, obscuridade, contradição ou suprir omissão sobre ponto acerca do qual se impunha pronunciamento, o que não é o caso dos autos.
+2. Na hipótese em análise, não se vislumbra a ocorrência de vício na decisão embargada. Isso porque se constata do acórdão recorrido a falta de fundamento constitucional a ensejar a abertura de prazo para apresentação da existência de repercussão geral.
+3. Embargos de declaração rejeitados.
+VOTO
+Os embargos de declaração constituem modo de impugnação à decisão judicial de fundamentação vinculada, sendo cabíveis tão somente nas hipóteses previstas no art. 1.022 do Código de Processo Civil de 2015, quais sejam, omissão, obscuridade e contradição, bem como para sanar erro material.
+O recurso em comento visa unicamente aperfeiçoar as decisões judiciais, com o intuito de prestar a tutela jurisdicional de forma clara e completa, não tendo por finalidade revisar ou anular decisões. Apenas, excepcionalmente, ante o aclaramento de obscuridade, desfazimento de contradição ou supressão de omissão, prestam-se os declaratórios a modificar o julgado.
+Nessa linha:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NOAGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDEDO NCPC. ART. 1.022 DO NCPC. OMISSÃO, OBSCURIDADE, CONTRADIÇÃO OU ERROMATERIAL. INEXISTÊNCIA. PRETENSÃO DE REJULGAMENTO DA CAUSA.IMPOSSIBILIDADE. PLEITO DE ANÁLISE DE MATÉRIA CONSTITUCIONAL.DESCABIMENTO. PRECEDENTES. RECURSO PROTELATÓRIO. IMPOSIÇÃO DE MULTA. ART.1.026, § 2º, DO NCPC. EMBARGOS REJEITADOS, COM IMPOSIÇÃO DE MULTA.
+1. Aplica-se o NCPC a este recurso ante os termos do EnunciadoAdministrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisõespublicadas a partir de 18 de março de 2016) serão exigidos os requisitosde admissibilidade recursal na forma do novo CPC.
+2. Inexistentes as hipóteses do art. 1.022 do NCPC, não merecemacolhimento os embargos de declaração que têm nítido caráter infringente.
+3. Os aclaratórios não se prestam à manifestação de inconformismo ou àrediscussão do julgado que não conheceu dos primeiros embargos dedeclaração.
+4. Em razão de a oposição dos segundos embargos de declaração constituirprática processual abusiva e protelatória, por ausência dos víciosprevistos no art. 1.022 do NCPC e pela ausência de recolhimento prévio damulta aplicada com amparo no art. 1.021, § 4º, do NCPC, deve ser aplicadaa multa prevista em seu art. 1.026, § 3º, no percentual de 3% sobre ovalor atualizado da causa.
+5. Embargos de declaração rejeitados, com imposição de multa (EDcl nosEDcl no AgInt no AREsp 1.168.511/ES, Rel. Ministro MOURA RIBEIRO, TERCEIRATURMA, julgado em 04/05/2020, DJe 07/05/2020)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.PROCESSUAL CIVIL. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERROMATERIAL. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existênciade obscuridade, contradição, omissão ou erro material (CPC/2015, art.1.022). É inadmissível a sua oposição para rediscutir questões tratadas edevidamente fundamentadas na decisão embargada, já que não são cabíveispara provocar novo julgamento da lide.
+2. Ainda que para fins de prequestionamento, mostra-se incabível aapreciação de matéria constitucional na via eleita, sob pena de usurpaçãoda competência do eg. Supremo Tribunal Federal, nos termos do que dispõe oart. 102, III, da Magna Carta.
+3. Embargos de declaração rejeitados (EDcl no AgInt no AREsp 1.475.227/RS,
+Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 20/04/2020, DJe04/05/2020).
+Conforme relatado, a embargante invoca a aplicação do art. 1.032 do CPC/2015, o qual determina que o relator, ao constatar que o recurso especial versa sobre questão constitucional, deverá conceder à parte recorrente o prazo de 15 (quinze dias) para que demonstre a presença de repercussão geral e se manifeste sobre a questão constitucional.
+Apesar do esforço argumentativo da insurgente, não se vislumbra a ocorrência de vício na decisão embargada. Isso porque se constata do acórdão recorrido a faltade fundamento constitucional a ensejar a abertura de prazo para apresentação da existência de repercussão geral.
+Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DISSÍDIO JURISPRUDENCIAL. DEMONSTRAÇÃO. COTEJO ANALÍTICO DOS JULGADOS. IMPRESCINDIBILIDADE. VIOLAÇÃO À NORMA CONSTITUCIONAL. ANÁLISE PELO STJ. IMPOSSIBILIDADE. INAPLICABILIDADE DOS ARTS. 1.032 E 1.033, DO CPC/2015. DECISÃO PRECÁRIA. APELO NOBRE. NÃO CABIMENTO. SÚMULA 735/STF.
+1. A parte recorrente não procedeu ao necessário cotejo analítico entre os arestos recorrido e paradigma, deixando de evidenciar o ponto em que os acórdãos confrontados, diante da mesma base fática, teriam adotado a alegada solução jurídica diversa. Assim, o recurso especial não pode ser conhecido no tocante à alínea c do permissivo constitucional, visto que o dissídio jurisprudencial não foi demonstrado na forma exigida pelos arts. 1.029, § 1º, do CPC/2015 e 255, §§ 1º e 3º, do RISTJ.
+2. Não cabe invocar violação a norma constitucional em sede de recurso especial, razão pela qual o apelo nobre não pode ser conhecido relativamente à apontada ofensa aos arts. 5º, XXII, 186 e 225, da Constituição Federal.
+3. Nesse aspecto, não prospera a alegação do agravante, no sentido da aplicação do disposto nos arts. 1.032 e 1.033, do CPC/2015, haja vista que não se está, na espécie, diante de acórdão e recurso envolvendo discussão exclusivamente constitucional, a ensejar a conversão do apelo especial em extraordinário.
+(..)
+7. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1322101/MS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 17/09/2019, DJe 19/09/2019)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ART. 1.032 DO CPC/2015. INAPLICABILIDADE. ACÓRDÃO RECORRIDO. FUNDAMENTO CONSTITUCIONAL. INOCORRÊNCIA. PRINCÍPIO DA COLEGIALIDADE. OFENSA. INEXISTÊNCIA. AGRAVO INTERNO. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA.
+1. O Procedimento insculpido no art. 1.032 do CPC/2015 somente se aplica quando o relator identificar fundamento constitucional no acórdão recorrido que impeça a análise dos artigos de leis federais apontados no apelo especial e justifique a conversão deste em recurso extraordinário, não bastando a simples alegação de ofensa a dispositivos da Constituição Federal.
+2. Preliminar de desrespeito ao princípio da colegialidade afastada, porquanto o art. 932, III, do CPC/2015, c/c o art. art. 255, § 4º, I, do RISTJ autoriza o relator a julgar monocraticamente o recurso especial, nas hipóteses ali descritas.
+3. A teor do que dispõem o art. 1.021, § 1º, do CPC/2015 e a Súmula 182 do STJ, a parte deve infirmar, nas razões do agravo interno, todos os fundamentos da decisão atacada, sob pena de não ser conhecido o seu recurso. 4. Hipótese em que o recorrente não se desincumbiu do ônus de impugnar, de forma clara e objetiva, os motivos da decisão agravada.
+5. Agravo interno não conhecido.
+(AgInt no REsp 1711959/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 15/03/2018, DJe 19/04/2018)
+Dessa forma, observa-se que o aresto recorrido resolveu satisfatoriamente as questões deduzidas no processo, sem incorrer em qualquer dos vícios de obscuridade, contradição ou omissão com relação ao ponto controvertido, cujo exame pudesse levar a um diferente resultado na prestação de tutela jurisdicional.
+Evidente, portanto, a impossibilidade de acolhimento dos presentes declaratórios, pois devidamente motivada e fundamentada a decisão, além de não ter sido demonstrada a ocorrência de nenhuma das hipóteses do art. 1.022 do Código de Processo Civil de 2015.
+Ante o exposto, rejeito os embargos de declaração.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de novos embargos de declaração manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
