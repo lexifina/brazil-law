@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Trata-se de agravo regimental interposto por GUILHERME SANTIN MARTINI contra a decisão de fls. 68-70, que, com fundamento na Súmula n. 691 do STF, indeferiu liminarmente o habeas corpus, pois impetrado contra indeferimento de pedido de liminar no writ originário.
+Alega que (fls. 76-77):
+Os impetrantes não desconhecem que este Superior Tribunal de Justiça vem ponderando a utilização do habeas corpus, por entender que o conhecimento desenfreado do writ desvirtuaria a essência desse instrumento constitucional.
+Sabem também os impetrantes que a superação da Súmula 691/STF reveste-se de caráter excepcional, devendo ser deferida apenas quando a ilegalidade a que está submetido o paciente é manifesta.
+Contudo, o presente caso se mostra excepcional, na medida em que o paciente se encontra na iminência de ser preso, em razão do trânsito em julgado da ação originária, na qual foi condenado pela prática do tráfico ilícito de entorpecentes, crime este que em razãode alteração legislativa, deixou de possuir caráter hediondo.
+Ou seja, o writ em questão merece ser conhecido e a ordem concedida, uma vez que integralmente demonstrada a ilegalidade e prejuízo que o paciente está submetido, inclusive demonstrado o que poderá acontecer futuramente.
+Não se pode permitir que o paciente inicie o cumprimento de sua pena em regime mais gravoso, sendo que faz jus a regra menos gravosa, em respeito ao princípio da retroatividade da lei penal mais benéfica.
+O que se pleiteia com a presente ordem é apenas que o cálculo de penas seja elaborado da forma adequada a legislação penal e processual penal vigente.
+Diante de todas essas considerações, e para se evitar indevida supressão de instância em eventual impetração de Habeas Corpus para o STF, a presenteimpetração não deve ser indeferida liminarmente sob a alegação de que seus argumentos já foram analisados anteriormente.
+Requer o provimento do agravo, seja por juízo de retratação, seja por julgamento colegiado, para o conhecimento dohabeas corpus econcessão da ordem.
+O agravante juntou a Petição n. 00554838/2022 (às fls. 90-95), sustentando que, na pendência do julgamento do presente agravo regimental, o Tribunal de Justiça de São Paulo analisou definitivamente as razões da impetração, oportunidade na qual deixou de conceder a ordem.
+Para tanto, aduz que (fl. 91):
+Nada obstante, o tráfico de entorpecentes efetivamente deixou de ter fundamento legal como crime equiparado a hediondo. Nesse sentido, ainda que não tenha sido esta a intenção da alteração legislativa promovida pela Lei nº 13.694/19, rigorosa é a observação estrita dos ditames legais.
+Noutras palavras, inviável que as decisões judiciais supram disposições legais excluídas pela novatio legis, regulamentando de forma extralegal o rol dos crimes equiparados a hediondo.
+ ..
+Diante disso, requer sejam consideradas as razões do presente aditamento no julgamento do agravo regimental em tela, afastando-se qualquer fundamento de inadmissibilidade concernente à ausência de julgamento definitivo do mérito pela instância a quo, porquanto tenha esse sobrevindo nos termos da documentação anexa (Doc. 01).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL. HABEAS CORPUS INDEFERIDO LIMINARMENTE. SÚMULA N. 691 DO STF. SUPERVENIÊNCIA DO JULGAMENTO DO WRIT ORIGINÁRIO. PERDA DO OBJETO DA IMPETRAÇÃO NO STJ.
+1.O julgamento do mérito dehabeas corpus originário resulta na prejudicialidade dewrit impetrado no STJpara impugnardecisão indeferitória deliminar na origem.
+2. Agravo regimental desprovido.
+VOTO
+O pleito não comporta acolhimento.
+Em consulta ao site do Tribunal de origem, constata-seque, em 27/6/2022, a Décima Quarta Câmara de DireitoCriminal do TJSP denegou aordem no HC n. 2113443-26.2022.8.26.0000.
+O julgamento do mérito dehabeas corpus originário resulta na prejudicialidade dewrit impetrado no STJ para impugnar decisão indeferitória deliminar na origem. Nesse sentido, confiram-se precedentes: AgRg no HC n. 586.353/PE, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 24/8/2020; e AgRg no HC n. 573.958/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 2/6/2020.
+Ainda, apenas a título de esclarecimento e em resposta à Petição n.00554838/2022, esclareça-se que em recente decisão prolatada no AgRg no HC n. 729.332/SP, a Quinta Turma do STJ estabeleceu que as alterações promovidas pela Lei n. 13.964/2019 - conhecida como Pacote Anticrime - na Lei 8.072/1990 não retiraram a equiparação do delito de tráfico ilícito de entorpecentes a crime hediondo. O acórdão foi assim ementado:
+AGRAVO REGIMENTAL EM HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. EXECUÇÃO PENAL. CÁLCULO DE PENA PARA PROGRESSÃO DE REGIME. REVOGAÇÃO DO § 2º DO ART. 2º DA LEI 8.072/90 (LEI DOS CRIMES HEDIONDOS) PELA LEI 13.964/2019 (PACOTE ANTICRIME) QUE NÃO AFASTA A CARACTERIZAÇÃO DO CRIME DE TRÁFICO DE DROGAS (ART. 33, CAPUT, DA LEI 11.343/2006) COMO DELITO EQUIPARADO A HEDIONDO. CLASSIFICAÇÃO QUE DECORRE DO ART. 5º, XLIII, DA CONSTITUIÇÃO FEDERAL. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+2. A revogação do § 2º do art. 2º da Lei 8.072/90 pela Lei 13.964/2019 não tem o condão de retirar do tráfico de drogas sua caracterização como delito equiparado a hediondo, pois a classificação da narcotraficância como infração penal equiparada a hedionda decorre da previsão constitucional estabelecida no art. 5º, XLIII, da Constituição Federal.
+3. O Plenário do Supremo Tribunal Federal, no julgamento do HC n. 118.533/MS, concluiu que "o tráfico de entorpecentes privilegiado (art. 33, § 4º, da Lei n. 11.313/2006) não se harmoniza com a hediondez do tráfico de entorpecentes definido no caput e § 1º do art. 33 da Lei de Tóxicos" (HC 118.533/MS, Rel. Ministra CÁRMEN LÚCIA, TRIBUNAL PLENO, DJe 16/09/2016).
+4. O fato de a Lei 13.964/2019 ter consignado, expressamente, no § 5º do art. 112 da Lei de Execução Penal, que não se considera hediondo ou equiparado o tráfico de drogas previsto no § 4º do art. 33 da Lei 11.343/2006 somente consagra o tratamento diferenciado que já vinha sendo atribuído pela jurisprudência ao denominado tráfico privilegiado. Isso, no entanto, não autoriza deduzir que a mesma descaracterização como delito equiparado a hediondo tenha sido estendida ao crime do art. 33, caput e § 1º, da Lei de Drogas.
+5. Esta Corte já teve a oportunidade, em diversas ocasiões, de referendar a natureza de delito equiparado a hediondo do crime previsto no art. 33, caput, da Lei 11.343/06, mesmo após a entrada em vigor da Lei 13.964/2019 (Pacote anticrime), ressaltando-se, inclusive que, no julgamento do Recurso Especial n. 1.918.338/MT (Rel. Ministro ROGERIO SCHIETTI CRUZ, TERCEIRA SEÇÃO, julgado em 26/05/2021, DJe 31/05/2021) pela sistemática dos recursos repetitivos (Tema n. 1.084), no qual foi assentada a tese reconhecendo a possibilidade de aplicação retroativa do art. 112, V, da LEP a condenados por crimes hediondos ou equiparados que fossem reincidentes genéricos, o caso concreto tratou especificamente de condenado por tráfico de drogas. Precedentes desta Corte sobre a mesma controvérsia posta nos autos: HC 733.052/RS, Min. RIBEIRO DANTAS, DJe de 06/04/2022; HC731.139/SP, Rel. Min. JOEL ILAN PACIORNIK, DJe de 29/03/2022; HC 723.462/SC, Rel. Min. ANTONIO SALDANHA PALHEIRO, DJe de 11/03/2022; HC 726.162/SC, Rel. Min. RIBEIRO DANTAS, DJe de 16/03/2022; HC 721.316/SC, Rel. Min. JOEL ILAN PACIORNIK, DJe de 08/02/2022.
+6. Agravo regimental desprovido. (AgRg no HC n. 729.332/S P, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 25/4/2022.)
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
