@@ -1,0 +1,41 @@
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DESACATO. RESISTÊNCIA. LESÃO CORPORAL. RECURSO ESPECIAL INTEMPESTIVO. NÚCLEO DE PRÁTICA JURÍDICA DE INSTITUIÇÃO PARTICULAR DE ENSINO SUPERIOR. PRAZO EM DOBRO. INAPLICABILIDADE.
+1. Nos termos da jurisprudência desta Corte, "a prerrogativa da contagem dos prazos em dobro, em matéria criminal, não se estende aos Núcleos de Prática Jurídica vinculados à instituição de ensino superior privada. A eventual existência de entendimento em sentido contrário, do Tribunal a quo, não vincula esta Corte Superior na análise dos recursos de sua competência" (AgRg no AREsp n. 1.809.965/DF, relatora Ministra LAURITA VAZ, Sexta Turma, DJe 5/4/2021).
+2. Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Laurita Vaz, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Cuida-se de agravo regimental interposto por RAFAEL CORREIA DOS SANTOS contra decisão da lavra da Presidência desta Corte que não conheceu do agravo em virtude de intempestividade do recurso especial (e-STJ fls. 412/413).
+Sustenta o agravante, em síntese, que não há se falar em recurso extemporâneo, aduzindo que "o reconhecimento da prerrogativa do prazo em dobro aos núcleos de prática jurídica vinculados às instituições privadas, como já ocorre com as instituições públicas, é medida impositiva, pois ressalta a relevância do seu papel social e fomenta o acesso à justiça" (e-STJ fl. 484).
+Requer, assim, a reconsideração da decisão agravada ou a submissão do presente recurso à apreciação da Turma competente.
+O Ministério Público Federal opinou pelo não provimento do agravo regimental (e-STJ fls. 493/496).
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+A decisão agravada não comporta reparos, pois inafastável a extemporaneidade do agravo em recurso especial.
+Com efeito, a defesa do ora agravante foi intimada do acórdão em 30/8/2021, tendo sido o recurso especial interposto somente em 13/10/2021, fora, portanto, do prazo de 15 (quinze) dias corridos, nos termos do art. 994, VI, c/c os arts. 1.003, § 5º, e 1.029, todos do Código de Processo Civil, bem como do art. 798 do Código de Processo Penal.
+Outrossim, nos termos da jurisprudência desta Corte, "a prerrogativa da contagem dos prazos em dobro, em matéria criminal, não se estende aos Núcleos de Prática Jurídica vinculados à instituição de ensino superior privada. A eventual existência de entendimento em sentido contrário, do Tribunal a quo, não vincula esta Corte Superior na análise dos recursos de sua competência" (AgRg no AREsp n. 1.809.965/DF, relatora Ministra LAURITA VAZ, Sexta Turma, DJe 5/4/2021).
+Ainda, a respeito, os seguintes julgados:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE DO RECURSO ESPECIAL. PRAZO DE 15 (QUINZE) DIAS CORRIDOS. SUSPENSÃO DOS PRAZOS PROCESSUAIS NO ÂMBITO DO TRIBUNAL DE ORIGEM. COMPROVAÇÃO DEFICIENTE NO ATO DE INTERPOSIÇÃO DO RECURSO. PRAZO EM DOBRO. NÚCLEO DE PRÁTICA JURÍDICA DE UNIVERSIDADE PARTICULAR. INAPLICABILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É intempestivo o recurso especial interposto após o prazo de 15 (quinze) dias corridos, nos termos do art. 994, inciso VI, c/c os arts. 1.003, § 5º e 1.029, todos do CPC, bem como do art. 798, do CPP.
+2. É firme a jurisprudência desta Corte Superior no sentido de que a juntada de documento apto a comprovar a ocorrência, no âmbito do Tribunal local, de fatos aptos a ensejar a prorrogação dos prazos processuais - como feriados locais, suspensão do expediente forense ou indisponibilidade do sistema de peticionamento eletrônico - deve se dar no momento da interposição do recurso, para fins de aferição da respectiva tempestividade, consoante disposto no art. 1.003, § 6º, do CPC/2015. Precedentes.
+3. Na espécie, em que pese o agravante, nas razões do regimental, tenha demonstrado a juntada, no ato de interposição do recurso especial, de inúmeras Portarias Conjuntas expedidas pelo Tribunal a quo, por meio das quais os prazos processuais foram suspensos no âmbito daquela Corte, sucessivamente, a contar de 16/3/2020, em decorrência das medidas temporárias de prevenção ao contágio do novo coronavírus (COVID-19), a defesa não logrou comprovar até que data os prazos permaneceram suspensos, não sendo possível inferir quando esses voltaram a fluir, o que evidencia a inobservância do disposto no art. 1.003, § 6º, do CPC/2015.
+4. Ademais, este Superior Tribunal possui entendimento consolidado no sentido de que "a prerrogativa da contagem dos prazos em dobro, em matéria criminal, não se estende aos Núcleos de Prática Jurídica vinculados à instituição de ensino superior privada. A eventual existência de entendimento em sentido contrário, do Tribunal a quo, não vincula esta Corte Superior na análise dos recursos de sua competência" (AgRg no AREsp 1809965/DF, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 23/3/2021, DJe 5/4/2021).
+5. Agravo regimental não provido.
+(AgRg no AREsp n. 2.060.628/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 17/5/2022, DJe de 20/5/2022.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE DO RECURSO ESPECIAL. INOBSERVÂNCIA DO PRAZO LEGAL DE 15 DIAS CORRIDOS. NÚCLEO DE PRÁTICA JURÍDICA. INSTITUIÇÃO PRIVADA. PRAZO EM DOBRO. INAPLICABILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. "É intempestivo o recurso especial interposto após o prazo de 15 (quinze) dias corridos previsto no art. 994, VI, c/c os arts. 1.003, § 5º, e 1.029, todos do CPC, e no art. 798, do CPP" (AgRg no AREsp 1661671/PB, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 27/5/2020).
+2. Verifica-se que o prazo de 15 dias contínuos para interposição do agravo em recurso especial iniciou em 5/2/2021 (sexta-feira), tendo término em 19/2/2021 (sexta-feira). O agravo recurso especial somente foi interposto em 17/3/2021, quando já ultrapassado o prazo legal, sendo manifesta a sua intempestividade.
+3. "A prerrogativa da contagem dos prazos em dobro, em matéria criminal, não se estende aos Núcleos de Prática Jurídica vinculados à instituição de ensino superior privada. A eventual existência de entendimento em sentido contrário, do Tribunal a quo, não vincula esta Corte Superior na análise dos recursos de sua competência" (AgRg no AREsp 1809965/DF, Rel. Ministra LAURITA VAZ, SEXTA TURMA, DJe 5/4/2021).
+4. Agravo regimental desprovido.
+(AgRg no AREsp n. 1.878.506/DF, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 17/5/2022, DJe de 19/5/2022.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO PENAL. INTEMPESTIVIDADE DO RECURSO ESPECIAL. NÚCLEO DE PRÁTICA JURÍDICA. ENTIDADE PARTICULAR DE ENSINO. INAPLICABILIDADE DA CONTAGEM DOS PRAZOS EM DOBRO. PRECEDENTES.
+1. A prerrogativa da contagem dos prazos em dobro, em matéria criminal, não se estende aos Núcleos de Prática Jurídica vinculados à instituição de ensino superior privada. A eventual existência de entendimento em sentido contrário, do Tribunal a quo, não vincula esta Corte Superior na análise dos recursos de sua competência(AgRg no AREsp n. 1.809.965/DF, Ministra Laurita Vaz, Sexta Turma, DJe 5/4/2021).
+2. O Núcleo de Prática Jurídica foi intimado da decisão recorrida em 8/3/2021 e o recurso especial somente foi interposto em 30/3/2021, quando já ultrapassado o prazo legal de 15 dias previsto no art. 994, VI, c/c os arts. 1.003, § 5º, e 1.029, do Código de Processo Civil, bem como no art. 798 do Código de Processo Penal, sendo, portanto, manifesta a sua intempestividade.
+3. Agravo regimental improvido.
+(AgRg no AREsp n. 1.919.091/DF, relator Ministro Olindo Menezes, Desembargador Convocado do TRF 1ª Região, Sexta Turma, julgado em 22/2/2022, DJe de 2/3/2022.)
+Diante do exposto, nego provimento ao agravo regimental.
+É o voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
