@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 02/08/2022 a 08/08/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+ALBA SANTOS MESQUITA (ALBA) ajuizou ação de reparação de perdas e danos por descumprimento contratual contra OAS EMPREENDIMENTOS LTDA. e outra (OAS e outra), em razão do atraso na entrega de unidade imobiliária.
+O Magistrado de primeiro grau julgou parcialmente procedentes os pedidos para condenar OAS e outra ao pagamento de lucros cessantes, do período de setembro de 2012 a 30/7/2013 ede danos morais no importe de R$ 30.000,00 (trinta mil reais); declarar a nulidade da cláusula2.4.3; a restituírem sobre os reajustes porventurapagos mês a mês após o prazo contratual; e a entregarem as chaves do imóvel, após a quitação do saldo devedor, sem a incidência do INCC após setembro de 2012 (e-STJ, fls. 546/560).
+O apelo da OAS e outra foi parcialmente provido pelo Tribunal de Justiça da Bahiaem acórdãoassim ementado:
+APELAÇÃO. AÇÃO INDENIZATÓRIA. ATRASO NA CONCLUSÃO DE OBRA. ENTREGA DO IMÓVEL FORA DO PRAZO CONTRATADO. ALEGAÇÃO DE FATOS IMPREVISÍVEIS, CASO FORTUITO OU FORÇA MAIOR, PARA JUSTIFICAR O ATRASO. NÃO COMPROVADOS.PREJUÍZOS AO CONSUMIDOR. LUCROS CESSANTES DEVIDOS. PRECEDENTES. DANOS MORAIS.CONFIGURADOS. QUANTUM INDENIZATÓRIO.EXORBITANTE. REDUÇÃO. CONGELAMENTO DO SALDO DEVEDOR. IMPOSSIBILIDADE. RESTITUIÇÃO DE EVENTUAIS VALORES PAGOS A MAIOR. DEVOLUÇÃO NA FORMA SIMPLES. AUSÊNCIA DE DOLO DAS APELANTES. REFORMA | DA SENTENÇA, NO PARTICULAR. CONDENAÇÃO NO PAGAMENTO DE CUSTAS E HONORÁRIOS. MANTIDA.
+RECURSO PROVIDO PARCIALMENTE(e-STJ, fl. 794).
+Irresignadas, OAS e outrainterpuseramrecurso especial com fundamento no art. 105, III, alíneac, da CF, apontando dissídio jurisprudencial acerca da interpretação divergente dos arts. 273, § 2º, do CPC, 171, 186, 393, 884, 885 e 927, todos doCC/02, e 43, II, da Lei nº 4.591/64, entre o acórdão recorrido e paradigmasde outros tribunais acerca (1) do dano moral no caso de atraso na entrega de imóvel; (2) da inexistência de responsabilidade quando da ocorrência de força maior ou caso fortuito; (3) da proibição de enriquecimento ilícito; (4) da cumulação de pagamento de aluguéis e multa sobre o valor do contrato.
+O recurso foi inadmitido pelo TJBA ante aincidência das Súmulas nºs 7 e 83 do STJ e 284 do STF (e-STJ, fls. 890/899).
+Sobreveio agravo que, por decisão da lavra do Ministro Presidente desta Corte, com base no art. 21-E, V, cumulado com o art. 253, parágrafo único, I, ambos do RISTJ, não foi conhecido por não ter sido impugnado especificamente os fundamentos da decisão agravada(e-STJ, fls. 1.056/1.058).
+Nas razões do presente agravo interno, OAS e outra alegaram que seu recurso atendeu todos os requisitos para o seu conhecimento (e-STJ, fls. 1.062/1.068).
+Apresentada impugnação (e-STJ, fls. 1.071/1.074).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IRRESIGNAÇÃO MANEJADA SOB A ÉGIDE DO NCPC. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA A TODOS OS FUNDAMENTOS DA DECISÃO DENEGATÓRIA DE ADMISSIBILIDADE DE RECURSO ESPECIAL. DESCUMPRIMENTO DOS REQUISITOS PRECONIZADOS PELO ART. 932, III, DO NCPC (ART. 544, § 4º, I, DO CPC/73). AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Não se mostra viável o agravo em recurso especial que, apresentado em desacordo com os requisitos preconizados pelo art. 932, III, do NCPC (art. 544, § 4º, I, do CPC/1973), não impugna todos os fundamentos da respectiva inadmissibilidade (incidência dasSúmulasnºs 83 do STJ e 284 do STF).
+3. Agravo interno não provido.
+VOTO
+O recurso não merece provimento.
+De plano, vale pontuar que o presente agravo interno foi interposto contra decisão publicada na vigência do novo Código de Processo Civil, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+O inconformismo agora manejado não merece provimento por não ter trazido nenhum elemento apto a infirmar as conclusões adotadas pela decisão recorrida.
+Da análise do presente inconformismo se verifica que o agravo em recurso especial não se dirigiu especificamente contra todos os fundamentos da decisão que negou seguimento ao apelo nobre, pois OAS e outra, embora tenha alegado a inaplicabilidade da Súmula nº 7 do STJ e ter demonstrado o dissídio jurisprudencial, não refutou, de forma arrazoada, a incidência das Súmulas nºs 83 do STJ e 284 do STF.
+Desse modo, o agravo em recurso especial não impugnou adequadamente os óbices anteriormente mencionados, e nada trazido neste agravo interno é capaz de contrariar tal entendimento.
+Conforme já decidiu o STJ:
+ ..  à luz do princípio da dialeticidade, que norteia os recursos, deve a parte recorrente impugnar todos os fundamentos suficientes para manter o acórdão recorrido, de maneira a demonstrar que o julgamento proferido pelo Tribunal de origem merece ser modificado, ou seja, não basta que faça alegações genéricas em sentido contrário às afirmações do julgado contra o qual se insurge.
+(AgRg no Ag 1.056.913/SP, Rel. Ministra ELIANA CALMON, Segunda Turma, DJe 26/11/2008)
+Nesse sentido, a Corte Especial, aos 19/9/2018,ao apreciar os EAREsp 746.775/PR, Rel. p/acórdão MINISTRO LUÍS FELIPE SALOMÃO, concluiu que a aplicação da Súmula nº 182 do STJ permanece incólume, aplicada aqui por analogia, pois cabe à parte impugnar, de forma específica, todos os fundamentos da decisão que inadmite o recurso especial.
+Segundo o entendimento exarado em voto pelo MINISTRO LUÍS FELIPE SALOMÃO, existem regras, tanto no Código de Processo Civil de 1973 quanto no atual, que remetem às disposições mais recentes do Regimento Interno do STJ, no sentido da obrigatoriedade de impugnação de todos os fundamentos da decisão recorrida.Ademais, conforme o mesmo entendimento, existem conceitos doutrinários para justificar a impossibilidade de impugnação parcial da decisão de inadmissibilidade do recurso especial, na medida em que tal decisão é incindível e deve ser impugnada em sua integralidade.
+Além disso, foi também consignado pelo em. Ministro relator que a ausência de impugnação a algum dos fundamentos da decisãoque negou trânsito ao reclamo especial, imporia a esta Corte Superior o exame indevido de questões já atingidas pela preclusão consumativa, decorrente da inércia da parte agravante em insurgir-se no momento oportuno, por meio da simples inclusão dos pontos ausentes nas razões do agravo (EARESP 746.775/PR).
+Por isso, o agravo em recurso especial não se mostrou viável, uma vez que apresentado em desacordo com os requisitos preconizados pelo art. 932, III, do NCPC (art. 544, § 4º, I, do CPC/1973), devendo ser mantida a decisão agravada.
+Nesse sentido, seguem os precedentes:
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.PROCESSUAL CIVIL. FUNDAMENTOS DA DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO. ARTIGO 932, INCISO III, DO CÓDIGO DE PROCESSO CIVIL DE 2015.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não pode ser conhecido o recurso que não infirma especificamente os fundamentos da decisão agravada, atraindo o disposto no art. 932, inciso III, do Código de Processo Civil de 2015.
+3. Quando o recurso especial não é admitido com fundamento na Súmula nº 83/STJ, a impugnação deve indicar precedentes contemporâneos ou supervenientes aos mencionados na decisão combatida, demonstrando-se que outro é o entendimento jurisprudencial desta Corte, o que não ocorreu no caso.
+4. Agravo interno não provido.
+(AgInt no AgInt no AREsp 937.019/MG, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, DJe 15/5/2020)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. 1.AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO APELO ESPECIAL. ART. 932, III, DO CPC/2015. 2.PEDIDO DE CONDENAÇÃO AO PAGAMENTO DE HONORÁRIOS RECURSAIS.IMPOSSIBILIDADE. VERBA JÁ CONTEMPLADA NA DECISÃO MONOCRÁTICA. 3.AGRAVO IMPROVIDO.
+1. Cabe ao agravante, nas razões do agravo, trazer argumentos suficientes para contestar a decisão de inadmissibilidade do recurso especial proferida pelo Tribunal de origem. A ausência de impugnação de todos os fundamentos da decisão agravada enseja o não conhecimento do agravo, nos termos do art. 932, III, do CPC de 2015.
+2. Fixados os honorários recursais no primeiro ato decisório, não cabe novo arbitramento nas demais decisões que derivarem de recursos subsequentes, apenas consectários do principal, tais como agravo interno e embargos de declaração.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.590.969/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma,DJe 8/5/2020)
+Assim, como OAS e outranão demonstraram o equívoco nos fundamentos da decisão agravada, deve ser mantido o não conhecimento do agravo em recurso especial.
+Nessas condições, pelo meu voto, NEGO PROVIMENTO ao agravo interno.
