@@ -1,0 +1,115 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 02/08/2022 a 08/08/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo, Maria Isabel Gallotti e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA (Relator): Trata-se de agravo interno (e-STJ fls. 1.020/1.027) interposto contra decisão desta relatoria que deu parcial provimento ao recurso especial da agravante.
+Em suas razões, a agravante argumenta que (e-STJ fls. 1.022/1.023):
+Com relação ao instituto das Travas Bancárias, no campo doutrinário e jurisprudencial muito se discute acerca de sua legalidade, a qual desde já se questiona, em face dos princípios e fundamentos contidos na Lei 11.101/05.
+Destaca-se que de igual forma, Tomazette assevera que a tal previsão (trava bancária) vem limitando bastante a eficácia da recuperação judicial, uma vez que a maior parte dos credores nos processos de Recuperação Judicial são instituições financeiras e, por isso é chamada de "trava bancária", na medida em que beneficia especialmente os bancos, o que inviabiliza a efetiva recuperação judicial das empresas em grave crise econômica e fere de morte os princípios contidos na lei de Recuperação de Empresas.
+Desta feita, entre os princípios basilares contidos na lei de Recuperação de Empresas estão a preservação da empresa, a proteção aos trabalhadores, e por fim os interesses dos credores.
+(..)
+Nesse sentido, como bem ressaltado pela douta julgadora primeva, a quase totalidade dos credores da Recuperanda são bancos e todos alegam garantia real, sendo que eventual não submissão destes créditos ao plano de recuperação, torna inócuo e improfícuo o pleito recuperatório.
+Há que se destacar que os contratos pactuados entre a Instituição financeira e a Recuperanda, tiveram por objetos bens essenciais à atividade da empresa, quais sejam, veículos utilizados em sua atividade fim, motivo pelo qual não há que se falar em exclusão dos efeitos da recuperação judicial dos créditos em discussão, sob pena de violação ao princípio da preservação da empresa.
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+Foram apresentadas contrarrazões, com pedido de aplicação de multa e majoração de honorários advocatícios (e-STJ fls.1.030/1.036).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. CRÉDITOS GARANTIDOS POR CESSÃO FIDUCIÁRIA. PROPRIEDADE. CREDOR NÃO SUJEITO À RECUPERAÇÃO. DECISÃO MANTIDA.
+1. "De acordo com a pacífica jurisprudência do STJ, por força do art. 49, §3º, da Lei 11.101/2005, não se submetem à recuperação judicial os créditos garantidos por cessão fiduciária" (REsp 1629470/MS, Rel. Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, julgado em 30/11/2021, DJe 17/12/2021).
+2. Agravo interno a que se nega provimento.
+AgInt no RECURSO ESPECIAL Nº 1.939.475 - MG (2021/0154545-1)
+RELATOR
+:
+MINISTRO ANTONIO CARLOS FERREIRA
+AGRAVANTE
+:
+TRANSVALENTE LOGISTICA LIMIDADA EM RECUPERACAO JUDICIAL
+ADVOGADOS
+:
+RAFAEL DE LACERDA CAMPOS - MG074828
+FABIANA DINIZ ALVES - MG098771
+AGRAVADO
+:
+BANCO SAFRA S A
+ADVOGADOS
+:
+IVAN MERCÊDO DE ANDRADE MOREIRA - MG059382
+IVAN DE SOUZA MERCEDO MOREIRA - MG168290
+VOTO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA (Relator): A insurgência não merece acolhida.
+A agravante não trouxe argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (e-STJ fls. 1.012/1.016):
+Trata-se de recurso especial interposto contra acórdão proferido pelo TJMG assim ementado (e-STJ fl. 884):
+EMENTA: AGRAVO DE INSTRUMENTO. RECUPERAÇÃO JUDICIAL. IMPUGNAÇÃO AO CRÉDITO. Art. 49, § 3º, DA LEI 11.101, de 2005. BENS ESSENCIAIS. MANUTENÇÃO DA POSSE DURANTE PERÍODO DE SUSPENSÃO. PRESERVAÇÃO DA EMPRESA.
+1. Faz-se devida a permanência dos bens alienados fiduciariamente, mas essenciais ao regular desenvolvimento das atividades empresariais na posse do proprietário fiduciário, durante o período de suspensão das ações e execuções em face da recuperanda, visando garantir a preservação da empresa.
+V.V. AGRAVO DE INSTRUMENTO. AÇÃO DE RECUPERAÇÃO JUDICIAL. CERCEAMENTO DE DEFESA INOCORRENTE. CRÉDITO COM GARANTIA FIDUCIÁRIA. EXCLUSÃO DOS EFEITOS DA RECUPERAÇÃO. IMPOSSIBILIDADE. ART. 49, § 3º, DA LEI Nº 11.101, DE 2005. EXCEPCIONALIDADE AFASTADA. PRINCÍPIO DA PRESERVAÇÃO DA EMPRESA. RECURSO NÃO PROVIDO.
+1. O cerceamento de defesa ocorre quando a parte tem o legítimo interesse em produzir um ato ou uma prova e fica impedida pelo órgão judicial. Considerando que o agravante teve oportunidade para especificar as provas que pretendia produzir, evidente que não restou caracterizado o cerceamento de defesa.
+2. Os credores titulares de garantias fiduciárias não terão seus créditos sujeitos aos efeitos da recuperação judicial, nos termos do art. 49, § 3º, da Lei nº 11.101 de 2005.
+3. Entretanto, na hipótese em que os bens se revelarem essenciais ao próprio desenvolvimento da atividade empresarial é possível afastar a referida exceção, de modo a tornar efetivo o princípio da preservação da empresa.
+4. Agravo de instrumento conhecido e provido, mantida a decisão que rejeitou a impugnação de crédito e rejeitada uma preliminar.
+(Desembargador Caetano Levi Lopes).
+Nas razões do recurso (e-STJ fls. 907/919), fundamentado no art. 105, III, "a" e "c", da CF, a parte recorrente aponta divergência jurisprudencial e ofensa aos arts. 47 e 49 da Lei n. 11.101/2005, sustentando que (e-STJ fl. 912):
+(..) percebe-se claramente a necessidade de se relativizar no caso em comento o instituto da trava bancária, posto que o fiel cumprimento do Artigo 49, §3º da Lei nº 11.101/05, que afasta os efeitos da Recuperação Judicial nos contratos gravados com clausula de cessão fiduciária, configura-se obstáculo intransponível ao restabelecimento da saúde financeira da empresa, já que autoriza a retirada de bens essenciais à continuidade das atividades da Recuperanda, inviabilizando a continuidade dos contratos de prestação de serviço, uma vez que sem os caminhões não há TRANSPORTADORA.
+É INEGÁVEL A ESSENCIALIDADE DOS BENS OBJETOS DE CONTRATO, RESSALTA-SE, CAMINHÕES UTILIZADOS DIRETAMENTE NA ATIVIDADE FIM DA EMPRESA EM RECUPERAÇÃO JUDICIAL, EMPRESA ESTA CUJA ATIVIDADE PRINCIPAL SE DESTINA AO TRANSPORTE DE CARGAS VIA TERRESTRE.
+Ademais, como bem ressaltado pela douta julgadora primeva, a quase totalidade dos credores da Recuperanda são bancos e todos alegam garantia real, sendo que eventual não submissão destes créditos ao plano de recuperação, torna inócuo e improfícuo o pleito recuperatório.
+Há que se destacar que os contratos pactuados entre a Instituição financeira e a Recuperanda, tiveram por objetos bens essenciais à atividade da empresa, quais sejam, veículos utilizados em sua atividade fim, motivo pelo qual não há que se falar em exclusão dos efeitos da recuperação judicial dos créditos em discussão, sob pena de violação ao princípio da preservação da empresa.
+Argumenta que, nos termos da jurisprudência do STJ, quaisquer atos judiciais que possam colocar em risco a eficácia do plano de recuperação devem ser submetidos ao crivo do juízo universal, a quem cabe decidir acerca da essencialidade do bem, ainda que o crédito esteja garantido por alienação fiduciária.
+Invoca julgado paradigma, no qual se concluiu que os bens essenciais à atividade da empresa não podem ser retirados da posse da recuperanda apenas em razão do decurso do prazo de 180 dias.
+Foram apresentadas contrarrazões (e-STJ fls. 948/957).
+Exercido juízo de admissibilidade positivo na origem, os autos subiram a esta Corte (e-STJ fls. 973/977).
+É o relatório.
+Decido.
+Na origem, a ora agravada interpôs agravo de instrumento contra decisão de primeiro grau que rejeitou impugnação para concluir que o crédito em discussão está sujeito à recuperação judicial.
+A Turma julgadora, por maioria, reformou a decisão de primeiro grau para excluir os créditos garantidos por alienação fiduciária da recuperação judicial, observada a impossibilidade de retirada dos bens essenciais da empresa durante o stay period. Confiram-se os seguintes excertos dos votos proferidos (e-STJ fls. 892/893 e 896/897):
+Nesse contexto, inobstante os fundamentos constantes do voto do Relator e da decisão agravada, inviável a inclusão dos referidos créditos na recuperação judicial, ressalvando-se, contudo, a vedação expressa à venda ou à retirada do estabelecimento do devedor dos bens de capital essenciais à atividade empresarial, durante o período da suspensão a que alude o §4º, do art. 6º, da referida Lei nº 11.101/2005.
+(..)
+Assim, por constituir objetivo da recuperação judicial a preservação da empresa, sua função social e o estímulo à atividade econômica deverão os bens alienados fiduciariamente, mas essenciais ao regular desenvolvimento das atividades empresariais, permanecerem na posse do proprietário fiduciário, durante o período de suspensão das ações e execuções em face da empresa em recuperação judicial (stay period).
+Com essas considerações, DOU PROVIMENTO AO RECURSO para determinar que sejam excluídas do crédito concursal as operações garantidas por alienação fiduciária, sendo vedada a retirada de bens essenciais da posse da recuperanda, enquanto perdurar o stay period.
+(..)
+Ocorre que o legislador foi expresso na exclusão dos créditos aos efeitos da recuperação, prevendo somente que os bens essenciais às atividades da sociedade recuperanda continuem no estabelecimento empresarial.
+(..)
+Nesse cenário, pode-se debater a essencialidade dos bens adquiridos com alienação judicial para que tais possam ser mantidos sob a posse da sociedade recuperanda, mas não é jurídico transmutar créditos extraconcursais em concursais somente pela essencialidade do bem gravado com alienação fiduciária.
+Repita-se sem o receio de soar inconveniente: o credor proprietário de bens essenciais não pode ser classificado, por esse fato, como um credor com garantia real. A tratativa legal é outra e, na compreensão deste vogal, não compete ao Poder Judiciário ignorá-la.
+O entendimento do Tribunal a quo de que o crédito cedido fiduciariamente não se submete aos efeitos da recuperação judicial da empresa está em conformidade com a jurisprudência do STJ. Confiram-se:
+DIREITO CIVIL E COMERCIAL. RECUPERAÇÃO JUDICIAL. CESSÃO FIDUCIÁRIA DE DIREITO DE CRÉDITO. REGISTRO EM CARTÓRIO DE TÍTULOS E DOCUMENTOS. DESNECESSIDADE DE REGISTRO PARA A CONSTITUIÇÃO DA GARANTIA. CREDOR NÃO SUJEITO Á RECUPERAÇÃO JUDICIAL. IMPOSSIBILIDADE.
+1. A cessão fiduciária de título de crédito, nos termos da disciplina específica da Lei 4.728/95, com a redação dada pela Lei 10.931/2004, não depende de registro em cartório de títulos e documentos para ser constituída, não se lhe aplicando a regra do art. §1º do art. 1.361 do Código Civil, regente da cessão fiduciária de coisa móvel infungível.
+2. O registro da cessão fiduciária do título de crédito pode ser necessário para salvaguardar eventual direito de terceiro a quem o título de crédito seja oponível, a saber, o devedor do título de crédito cedido pela recuperanda. Não há repercussão na esfera de direitos dos demais credores, donde a irrelevância da existência do registro para o processo de recuperação.
+3. De acordo com a pacífica jurisprudência do STJ, por força do art. 49, §3º, da Lei 11.101/2005, não se submetem à recuperação judicial os créditos garantidos por cessão fiduciária. Precedentes.
+4. Impossibilidade "de se impor restrições à propriedade fiduciária de crédito, por não se tratar de bem de capital, segundo entendimento desta Corte Superior." (AgInt no REsp. 1.475.258-MS, rel Ministro Paulo de Tarso Sanseverino, DJe 20.2.2017).
+5. Recurso especial conhecido e provido. (REsp 1629470/MS, Rel. Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, julgado em 30/11/2021, DJe 17/12/2021.)
+EMBARGOS DE DECLARAÇÃO NO CONFLITO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL. CESSÃO FIDUCIÁRIA DE CRÉDITOS. TRAVA BANCÁRIA. NÃO SUJEIÇÃO. DECISÃO EMBARGADA. AUSÊNCIA DOS VÍCIOS PREVISTOS NO ART. 1.022 DO CPC. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022), situações inexistentes na hipótese.
+2. A uníssona jurisprudência desta Corte assevera que cessão fiduciária de direitos sobre títulos de crédito, constituindo a chamada "trava bancária", possuindo a natureza jurídica de propriedade fiduciária, não se sujeita aos efeitos da recuperação judicial (art. 49, § 3º, da Lei 11.101/2005).
+3. Embargos de declaração rejeitados.(EDcl no AgInt no CC 165.963/AM, Rel. Ministro RAUL ARAÚJO, SEGUNDA SEÇÃO, julgado em 19/05/2020, DJe 29/05/2020.)
+Contudo, o recurso merece provimento quanto ao alegado dissídio jurisprudencial, pois, de fato, nos termos da jurisprudência do STJ, não é possível a retirada de bem essencial à atividade recuperanda, mesmo que se trate de bem dado em garantia fiduciária e ainda que decorrido o prazo de suspensão previsto na lei. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. RECUPERAÇÃO JUDICIAL. CÉDULA DE CRÉDITO BANCÁRIO COM ALIENAÇÃO FIDUCIÁRIA EM GARANTIA. BEM ESSENCIAL ÀS ATIVIDADES DA EMPRESA RECUPERANDA. IMPOSSIBILIDADE DE REMOÇÃO. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. "O prazo de suspensão das ações e execuções poderá ser ampliado para garantir a preservação da empresa e a manutenção dos bens de capital essenciais à atividade na posse da recuperanda" (AgInt no AREsp 1.087.323/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 23/03/2020, DJe de 26/03/2020).
+2. "Apesar de o credor titular da posição de proprietário fiduciário de bens móveis ou imóveis não se submeter aos efeitos da recuperação judicial, o juízo universal é competente para avaliar se o bem é indispensável à atividade produtiva da recuperanda. Nessas hipóteses, não se permite a venda ou a retirada do estabelecimento do devedor dos bens de capital essenciais a sua atividade empresarial (art. 49, § 3º, da Lei 11.101/05)" (REsp 1.660.893/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 08/08/2017, DJe de 14/08/2017).
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1732379/MS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 22/03/2021, DJe 13/04/2021.)
+AGRAVO INTERNO EM CONFLITO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL. AÇÃO DE BUSCA E APREENSÃO. BEM OBJETO DE ALIENAÇÃO FIDUCIÁRIA EM GARANTIA. BEM ESSENCIAL AO CUMPRIMENTO DO PLANO DE RECUPERAÇÃO JUDICIAL. PRAZO DE SUSPENSÃO. CENTO E OITENTA DIAS. PRORROGAÇÃO. POSSIBILIDADE. COMPETÊNCIA DO JUÍZO DA RECUPERAÇÃO.
+1. Há conflito positivo de competência quando, em que pese o deferimento do pedido de recuperação judicial da agravada, bem como a declaração de essencialidade dos bens objeto de alienação fiduciária, outro juízo determina a busca e apreensão dos referidos bens.
+2. Ainda que se trate de créditos garantidos por alienação fiduciária, compete ao juízo da recuperação judicial decidir acerca da essencialidade de determinado bem para fins de aplicação da ressalva prevista no art. 49, § 3º, da Lei nº 11.101/2005, na parte que não admite a venda ou a retirada do estabelecimento do devedor dos bens de capital essenciais ao desenvolvimento da atividade empresarial (CC 121.207/BA, Segunda Seção, Rel. Min. Ricardo Villas Bôas Cueva, DJe 13.3.2017).
+3. A suspensão das ações individuais movidas contra a recuperanda pode exceder o prazo de 180 dias caso as instâncias ordinárias considerem que tal prorrogação é necessária para não frustrar o plano de recuperação.
+4. Agravo não provido.
+(AgInt no CC 159.480/MT, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 25/09/2019, DJe 30/09/2019.)
+Diante do exposto, DOU PARCIAL PROVIMENTO ao recurso especial.
+Publique-se e intimem-se.
+Conforme exposto na decisão agravada, o acórdão recorrido decidiu em consonância com a jurisprudência do STJ ao concluir que o crédito cedido fiduciariamente não se submete aos efeitos da recuperação judicial. Confiram-se ainda:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. 1. DECISÃO DE ADMISSIBILIDADE DA CORTE DE ORIGEM NÃO VINCULA O SUPERIOR TRIBUNAL DE JUSTIÇA. 2. EXISTÊNCIA DE DISSÍDIO JURISPRUDENCIAL NOTÓRIO. MITIGAÇÃO DOS REQUISITOS DE ADMISSIBILIDADE. 3. BLOQUEIO DE VALORES EM CONTA-CORRENTE. CRÉDITO BANCÁRIO GARANTIDO POR ALIENAÇÃO FIDUCIÁRIA. NÃO SUJEIÇÃO À RECUPERAÇÃO JUDICIAL. PRECEDENTES. 4. JULGAMENTO EXTRA PETITA. INTERPRETAÇÃO LÓGICO-SISTEMÁTICA. NÃO OCORRÊNCIA. PRECEDENTES. 5. OFENSA AO ART. 1.022 DO CPC/2015 NÃO CONFIGURADA. 6. AGRAVO INTERNO DESPROVIDO.
+1. O juízo de admissibilidade do recurso especial feito pelo Tribunal de origem é provisório, sujeito a controle bifásico e não vincula esta Corte Superior, que tem competência plena para exercer o juízo definitivo de admissibilidade do recurso.
+2. Consoante pacífica jurisprudência do Superior Tribunal de Justiça, é possível a mitigação dos requisitos formais de admissibilidade do recurso especial diante da constatação de divergência jurisprudencial notória.
+3. De fato, o entendimento desta Corte Superior é no sentido de que a alienação fiduciária de coisa fungível e a cessão fiduciária de direitos sobre coisas móveis, bem como de títulos de créditos, não se sujeitam aos efeitos da recuperação judicial, justamente por possuírem a natureza jurídica de propriedade fiduciária, nos termos do § 3º do art. 49 da Lei n. 11.101/2005.
+4. Nos termos da orientação jurisprudencial deste Superior Tribunal, não há falar em julgamento extra petita quando o julgador, mediante interpretação lógico-sistemática, examina a petição apresentada pelo insurgente como um todo.
+5. Não ficou configurada a violação do art. 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou de forma fundamentada sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+6. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp n. 1.999.933/SC, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 23/5/2022, DJe de 25/5/2022.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. CESSÃO FIDUCIÁRIA DE RECEBÍVEIS. SÚMULA N. 480/STJ. DISCRIMINAÇÃO DOS TÍTULOS. NÃO PROVIMENTO.
+1. Os créditos garantidos por cessão fiduciária de recebíveis, por se constituir propriedade do credor, não se submetem à recuperação judicial de empresa, nos termos do enunciado n. 480 da Súmula desta Corte.
+2. "A perfectibilização do negócio fiduciário, capaz de excluir o credor titular da posição fiduciária dos efeitos da recuperação judicial, não exige a indicação precisa dos títulos representativos dos créditos cedidos fiduciariamente, bastando para tanto a identificação do crédito objeto de cessão." (AgInt no AREsp 1569510/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 17/2/2020, DJe 20/2/2020) 3. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.906.868/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 29/11/2021, DJe de 1/12/2021.)
+Assim, não prosperam as alegações constantes no recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+Nos termos da jurisprudência desta Corte, não haverá a majoração de honorários advocatícios prevista no art. 85, § 11, do CPC/2015 no julgamento de agravo interno, razão pela qual fica indeferido tal pedido.
+Também rejeita-se o pedido de aplicação de multa, porque ainda não evidenciada, até o momento, conduta abusiva ou eminentemente protelatória a ensejar referida sanção processual.
+É como voto.
