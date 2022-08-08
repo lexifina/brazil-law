@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 02/08/2022 a 08/08/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+SÔNIA ROCHA DE OLIVEIRA GOMES (SÔNIA) ajuizou ação declaratória de cláusula contratual relativa à contratação de cartão de crédito com margem consignável (RMC) cumulada com repetição de indébito e danos morais contra BANCO BMG S.A. (BANCO), alegando a inexistência da relação contratual.
+Em primeira instância, os pedidos foram julgados improcedentes (e-STJ, fls. 212/213).
+O Tribunal de Justiça de Mato Grosso do Sul negou provimento à apelação de SÔNIA, nos termos do acórdão assim ementado:
+APELAÇÃO CÍVEL DA PARTE AUTORA - AÇÃO ANULATÓRIA DE CLÁUSULA CONTRATUAL RELATIVO À CONTRATAÇÃO DE CARTÃO DE CRÉDITO COM MARGEM CONSIGNÁVEL (RMC) C/C REPETIÇÃO DE INDÉBITO CUMULADA COM DANOS MORAIS - PRELIMINAR CONTRARRECURSAL - OFENSA À DIALETICIDADE- AFASTADA - MÉRITO RECURSAL - CARTÃO DE CRÉDITO COM RESERVA DE MARGEM CONSIGNÁVEL - RMC - CONTRATAÇÃO VÁLIDA DEMONSTRADA PELA INSTITUIÇÃO FINANCEIRA - COMPROVANTE DE DISPONIBILIZAÇÃO DO CRÉDITO - AUSÊNCIA DE DEMONSTRAÇÃO DE VÍCIOS NA CONTRATAÇÃO - MANUTENÇÃO DA SENTENÇA - RECURSO CONHECIDO E NÃO PROVIDO. Não demonstrado qualquer vício de consentimento na formalização do ajuste e estando suficientemente comprovada a relação contratual, a disponibilização do crédito e a regularidade das cobranças, não há justificativa para a declaração de inexistência do débito, tampouco para a condenação da instituição financeira ao pagamento de indenização por danos morais, nem mesmo para a conversão do empréstimo RMC para empréstimo consignado, como pretende a recorrente, razão pela qual a manutenção da sentença proferida na origem é medida que se impõe (e-STJ, fl. 260).
+Os embargos de declaração opostos por SÔNIA foram rejeitados (e-STJ, fls. 280/284).
+Inconformada, SÔNIA manejou recurso especial com base no art. 105, III, a e c, da CF, alegando, a par de divergência jurisprudencial, a violação dos arts.1.022 do NCPC; 112, 113, 422 e 423, todos do CC/02e 47 e 51, § 2º, ambos do CDC, ao sustentar, em síntese, (1) a negativa de prestação jurisdicional; (2) a nulidade de cláusula abusiva, requerendo a convolação do contrato de cartão de crédito com desconto de margem consignável em contrato de empréstimo consignado; (3) a necessidade de limitação dos juros remuneratórios; e (4) a comprovação dos danos morais.
+Houve o oferecimento de contrarrazões (e-STJ, fls. 381/382).
+O apelo nobre foi inadmitido em virtude da incidência daSúmulanº83 do STJ (e-STJ, fls. 381/382).
+Na sequência, SÔNIA interpôs agravo em recurso especial que, em decisão proferida pelo Ministro Presidente desta Corte, não foi conhecido, com amparo no art. 21-E, V, c/c o art. 253, parágrafo único, I, do RISTJ, devido a ausência de impugnação dos fundamentos da decisão agravada (e-STJ, fls. 436/438).
+Nas razões do presente agravo interno, SÔNIApugnou pela reforma da decisão agravada, afirmando ter se insurgido contra todos os fundamentos do juízo de admissibilidade do especial.
+Apresentada impugnação (e-STJ, fls. 485/491).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DENEGATÓRIA DE ADMISSIBILIDADE DO RECURSO ESPECIAL. DESCUMPRIMENTO DOS REQUISITOS PRECONIZADOS PELO ART. 932, III, DO NCPC (ART. 544, § 4º, I, DO CPC/73). DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Não se mostra viável o agravo em recurso especial que, apresentado em desacordo com os requisitos preconizados pelo art. 932, III, do NCPC (art. 544, § 4º, I, do CPC/1973), não impugna os fundamentos da respectiva inadmissibilidade (incidência da Súmula nº 83 do STJ).
+3. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+4. Agravo interno não provido.
+VOTO
+O recurso não merece provimento.
+De plano, vale pontuar que o recurso em análise foi interposto contra decisão publicada na vigência do novo Código de Processo Civil, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+O inconformismo agora manejado não merece provimento por não ter trazido nenhum elemento apto a infirmar as conclusões externadas na decisão recorrida.
+Da análise do presente inconformismo se verifica que, conforme consignado na decisão atacada, o agravo em recurso especial não se dirigiu especificamente contra os fundamentos da decisão que negou seguimento ao apelo nobre, pois SÔNIA, na ocasião, não refutou, de forma arrazoada, a incidência da Súmula nº 83 do STJ.
+E isso não fez porque apenas sustentou, nas razões de seu agravo em recurso especial, quea solução da questão controvertida independe do reexame de provas.
+Assim, não houve a demonstração do adequado confronto do fundamento da decisão agravada no que tange à incidência da Súmula nº 83 desta Corte.
+Cumpre registrar que, na hipótese em que se pretende impugnar, no agravo em recurso especial, a incidência da Súmula nº 83 do STJ, cabe ao agravante demonstrar que o posicionamento adotado pela Corte local não se encontra alinhado com o entendimento do STJ sobre o tema em debate, indicando precedentes contemporâneos ou supervenientes aos referidos na decisão de inadmissibilidade do apelo nobre, de modo a demonstrar que a matéria não seria pacífica naquele momento ou que estaria superada, o que não ocorreu no caso.
+A esse fimtambém não basta a simples menção de não incidência da aludida súmula, como procedeu arecorrente no caso.
+A propósito, veja-se que:
+não basta, para afastar o óbice da Súmula nº 83/STJ, a alegação genérica de que o acórdão recorrido não está em consonância com a jurisprudência desta Corte, devendo a parte recorrente demonstrar que outra é a positivação do direito na jurisprudência desta Corte, com a indicação de precedentes contemporâneos ou supervenientes aos referidos na decisão agravada (AgRg no AREsp nº 238.064/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, DJe 18/8/2014).
+Desse modo, o agravo em recurso especial não impugnou adequadamente o óbice anteriormente mencionado, e nada trazido neste agravo interno é capaz de contrariar tal entendimento.
+Conforme já decidiu o STJ:
+ ..  à luz do princípio da dialeticidade, que norteia os recursos, deve a parte recorrente impugnar todos os fundamentos suficientes para manter o acórdão recorrido, de maneira a demonstrar que o julgamento proferido pelo Tribunal de origem merece ser modificado, ou seja, não basta que faça alegações genéricas em sentido contrário às afirmações do julgado contra o qual se insurge.
+(AgRg no Ag 1.056.913/SP, Rel. Ministra ELIANA CALMON, Segunda Turma, DJe 26/11/2008 - sem destaque no original)
+Por isso, o agravo em recurso especial não se mostrou viável, uma vez que apresentado em desacordo com os requisitos preconizados pelo art. 932, III, do NCPC (544, § 4º, I, do CPC/1973), devendo ser mantida a decisão agravada.
+Nesse sentido, seguem os precedentes:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE INDENIZAÇÃO POR DANO MORAL E MATERIAL. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. NÃO CONHECIMENTO. ART. 932, III, DO CÓDIGO DE PROCESSO CIVIL/2015. SÚMULA 182/STJ. APLICAÇÃO POR ANALOGIA. NÃO PROVIMENTO.
+1. Nos termos do art. 932, III, do Código de Processo Civil/2015, não se conhece de agravo cujas razões não impugnam especificamente todos os fundamentos da decisão agravada. Aplicação, por analogia, do enunciado n. 182 da Súmula do STJ.
+2. Em atenção ao princípio da dialeticidade, cumpre à parte recorrente o ônus de evidenciar, nas razões do agravo em recurso especial, o desacerto da decisão recorrida.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.532.525/SP, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, j. 28/9/2020, DJe 1º/10/2020)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO APELO ESPECIAL. ART. 932, III, DO CPC/2015. MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS. CABIMENTO. APLICAÇÃO DO § 11 DO ART. 85 DO CPC/2015. AGRAVO INTERNO DESPROVIDO.
+1. Cabe ao agravante, nas razões do agravo, trazer argumentos suficientes para contestar a decisão de inadmissibilidade do recurso especial proferida pelo Tribunal de origem. A ausência de impugnação de todos os fundamentos da decisão agravada enseja o não conhecimento do agravo, nos termos do art. 932, III, do CPC de 2015.
+2. Quando o inconformismo excepcional não for admitido pela instância ordinária, com fundamento no enunciado n. 83 da Súmula do Superior Tribunal de Justiça, a impugnação, em tema de agravo em recurso especial, deve indicar precedentes contemporâneos ou supervenientes aos mencionados na decisão combatida, demon strando-se que outro é o entendimento jurisprudencial desta Corte.
+3. Nos termos da jurisprudência desta Corte, quando devida a verba honorária recursal, mas, por omissão, o Relator deixar de aplicá-la em decisão monocrática, poderá o colegiado arbitrá-la, inclusive, de ofício.
+4. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp 1.643.970/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 24/8/2020, DJe 1º/9/2020)
+Assim, como SÔNIA não demonstrou o equívoco nos fundamentos da decisão agravada, deve ser mantido o não conhecimento do agravo em recurso especial, visto que não é admissível a impugnação de seus fundamentos somente no âmbito do agravo interno, em virtude da preclusão.
+Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+Nessas condições, pelo meu voto, NEGO PROVIMENTO ao agravo interno.
