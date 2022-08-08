@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de Recurso Especial interposto, com fundamento no art. 105, III, "a" e "c", da Constituição da República, contra acórdão assim ementado:
+PROCESSUAL CIVIL. CUMPRIMENTO EMENTA INDIVIDUAL DE SENTENÇA PROFERIDA EM AÇÃO COLETIVA. AGRAVO DE INSTRUMENTO. PRETENSÃO DE SUSPENSÃO DE EXIGIBILIDADE DOS ÔNUS SUCUMBENCIAIS. PEDIDO DE JUSTIÇA GRATUITA NÃO ANALISADO EM PRIMEIRO GRAU. AGRAVANTE QUE NÃO REQUEREU A JUSTIÇA GRATUITA EM SEDE RECURSAL.AUTOS QUE NÃO DENOTAM POSSUIR A AGRAVANTE A QUALIDADE DE BENEFICIÁRIA DA JUSTIÇA GRATUITA.IMPOSSIBILIDADE DE INCIDÊNCIA DO ARTIGO 98, § 3º, DO NCPC. ADVOGADO DA EXEQUENTE/AGRAVANTE QUE PRETENDE O ARBITRAMENTO DE HONORÁRIOS EM SEU FAVOR. IMPOSSIBILIDADE. IMPUGNAÇÃO À EXECUÇÃO ACOLHIDA. ADVOGADO DE PARTE VENCIDA. REGRA DE SUCUMBÊNCIA. HONORÁRIOS RECURSAIS EM SEDE DE AGRAVO DE INSTRUMENTO. IMPOSSIBILIDADE.PRECEDENTE DO STJ. AGRAVO DE INSTRUMENTO CONHECIDO E DESPROVIDO.
+A parte recorrente afirma que houveofensa aos arts.98, § 3º, 99, §§ 1º, 2º e 3º do CPC/2015.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 18.7.2022.
+Ao decidir a lide, o Tribunal de origem consignou:
+Em análise ao processo originário, de nº 0849241-80.2018.8.20.5001, observa-se que a exequente requer os benefícios da justiça gratuita. Contudo, não houve qualquer manifestação expressa do juízo de primeiro quanto ao tema, sobrevindo a condenação da exequente, ora agravante, nos ônus sucumbenciais ante o acolhimento da impugnação apresentada pelo executado, ora agravado.
+Em face do citado, a exequente possuía duas vias, quais sejam, manejar embargos de decisum declaração em razão da omissão relativa ao pleito de justiça gratuita ou fazer uso do recurso adequado, devolvendo o tema ao juízo tendo optado pela segunda solução. ad quem, Concretamente, não houve deferimento de justiça gratuita em primeiro grau, motivo pelo qual competiria à agravante refazer referido pleito nesta instância, o que não ocorreu, cingindo-se o agravo de instrumento na tese de suspensão da exigibilidade dos ônus sucumbenciais em face da justiça gratuita, a qual, repise-se, não foi deferida na instância originária nem requerida neste segundo grau.
+(..)
+Portanto, a suspensão da exigibilidade das obrigações decorrentes da sucumbência é conferida ao beneficiário da justiça gratuita, qualidade que não ostenta a agravante, seja porque não houve análise do seu pleito de justiça gratuita em primeiro grau, seja porque não refez tal pleito nesta instância recursal.
+Ademais, por mais que seja permitido ao Relator, de ofício, deferir a justiça gratuita à parte interessada, impõe-se a demonstração mínima nos autos dos requisitos autorizadores da benesse, o que não ocorre nos autos.
+Dessarte, não obstante as razões explicitadas pela instância a quo, ao interpor o Recurso, a parte recorrente não impugnou os fundamentos acima mencionados.Assim, não observou a recorrente as diretrizes fixadas pelo princípio da dialeticidade, entre as quais a indispensável pertinência temática entre as razões de decidir e os fundamentos fornecidos pelo recurso para justificar o pedido de reforma ou de nulidade do julgado.
+Como tal fundamentaçãoé apta, por si só, para manter o decisum combatido e não houve contraposição recursal sobre os pontos, não há como conhecer do Recurso. Por isso, aplica-se, na espécie, por analogia, os óbices das Súmulas 284 e 283 do STF, ante a deficiência na motivação e a ausência de impugnação de fundamento autônomo.A propósito:
+PROCESSUAL CIVIL. EXECUÇÃO DE SENTENÇA COLETIVA. PRESTAÇÃO CONTINUADA. FAZENDA PÚBLICA. PRESCRIÇÃO. OCORRÊNCIA. DEFICIÊNCIA RECURSAL. FUNDAMENTO DO ACÓRDÃO RECORRIDO NÃO IMPUGNADO. APLICAÇÃO DOS ENUNCIADOS N. 283 E 284, AMBOS DO STF.
+(..)
+III - O fundamento do acórdão recorrido, utilizado de forma suficiente para manter a decisão proferida no Tribunal a quo, não foi rebatido no apelo nobre, o que atrai os óbices das Súmulas n. 283 e 284, ambas do STF.
+IV - Esta Corte Superior de Justiça já se manifestou na linha de que, "não atacado o fundamento do aresto recorrido, evidente deficiência nas razões do apelo nobre, o que inviabiliza a sua análise por este Sodalício, ante o óbice do Enunciado n. 284 da Súmula do Supremo Tribunal Federal". (AgRg no AREsp n. 1.200.796/PE, relator Ministro Jorge Mussi, Quinta Turma, DJe de 24/8/2018.)
+V - Confiram-se ainda os seguintes julgados: AgInt no Resp 1.811.491/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 19/11/2019; AgInt no AREsp 1637445/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 13/8/2020; AgInt no AREsp 1647046/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 27/8/2020; e AgRg nos EDcl no REsp n. 1.477.669/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 2/5/2018.
+VI - Agravo interno improvido.
+(AgInt no AREsp 1.775.664/RJ, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe 10/6/2021)
+Ademais éevidente que alterar as conclusões adotadas pela Corte de origem, como defendido nas razões recursais, demanda novo exame do acervo fático-probatório constante dos autos, providência vedada na via escolhida, conforme o óbice previsto na Súmula 7/STJ.
+Diante do exposto, não conheço do Recurso Especial.
+Publique-se.
+Intimem-se.
