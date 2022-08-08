@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 02/08/2022 a 08/08/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão que indeferiu liminarmente a petição.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, indefiro liminarmente a presente Petição."
+No agravo interno, a parte recorrente traz, resumidamente, os seguintes argumentos:
+Conforme exposto na petição de concessão de efeito suspensivo ao Recurso Especial, o cumprimento da decisão de reintegração de posse conforme deferida no Acórdão recorrido é irreversível, contrariando frontalmente o art. 300,§ 3º do Código de Processo Civil, e, mais, resta pendente a realização de perícia em primeiro grau para se esclarecer o direito a ser aplicado ao caso.
+Está-se à beira de se cumprir uma ordem manifestamente contrária a dispositivo expresso do Código de Processo Civil, pelo que, concessa vênia, encontra-se presente o requisito da razoável probabilidade de provimento do Recurso Especial já admitido, sendo a concessão de efeito suspensivo medida de direito que se impõe.
+No mesmo sentido está presente o periculum in mora, uma vez que levada a cabo uma decisão que contraria expressamente o mandamento legal do Código de Processo Civil, restará concretizada a aplicação, data vênia, errônea dalei, jogando por terra as garantias cujo alinhamento e pacificação cabem a esse Egrégio Tribunal Superior.
+O perigo no cumprimento da reintegração de posse conforme deferida no Acórdão recorrido, em contrariedade com o Código de Processo Civil, traz em si o perigo da demora, ao passo que o contrário, prejuízo algum trará ao direito, revelando-se prudente e parcimoniosa a suspensão em detrimento do cumprimento, data vênia, açodado da medida de legalidade questionada.
+ ..
+Entretanto, poder revolver questão fática não significa que o mérito envolva questão fática, sendo inviável afastar a concessão do pedido de efeito suspensivo exclusivamente na hipótese de ocaso envolver questão fática.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. PETIÇÃO. EFEITO SUSPENSIVO. FUMUS BONI IURIS.DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Trata-se de petição requerendo efeito suspensivo ao recurso especial que interpôscontra acórdão assim ementado pelo Tribunal de Justiça do Estado de Minas Gerais. No Tribunala quo,deu-se provimento ao agravo interno, para indeferir o efeito ativo ao agravo de instrumento interposto.
+II - A concessão de efeito suspensivo a recurso que originariamente dele não é dotado, depende da demonstração, inequívoca, da presença dos requisitos do periculum in mora e do fumus boni iuris.
+III - O acórdão recorrido especialmente foi prolatado em agravo de instrumento contra decisão que deliberou sobre a concessão de tutela provisória em favor da Concessionária ora requerida, nos seguintes termos: "Foi consignado, ainda, que a possibilidade de dano irreparável ou de difícil reparação em favor da autora/agravante restava demonstrada na espécie, pois a ocupação supostamente ilegal de faixa próxima aos trilhos de ferrovia poderia provocar um acidente com vítimas, com prejuízos enormes tanto para a própria empresa autora quanto para os réus e a comunidade em geral.  ..  É sabido ainda que a faixa de domínio se trata de um bem público de uso comum afetado à prestação do serviço público concedido às concessionárias de serviço público, detentoras do patrimônio da ferrovia, tais como a autora/agravada. ..  No caso em análise, constata-se que a autora, ora agravada, de fato, detém a posse da área em que o imóvel do recorrente está localizado, em detrimento do contrato de concessão de malha ferroviária firmado com a União. Da mesma forma, restou demonstrado o esbulho praticado pelos réus, conforme Boletim de Ocorrência (cód. 07, do agravo de instrumento nº 1.0000.20.568884-9/001), onde restou salientado que a ocupação indevida da área concedida à agravada para exploração e consecução do serviço de transporte ferroviário, está colocando em risco não só a circulação das locomotivas, como as vidas dos próprios moradores irregulares e de seus familiares. Diante de tais considerações, apesar das alegações da recorrente, restando comprovada a posse e o esbulho, tem a parte agravada o direito de reintegração na posse da área objeto da lide, inclusive com a retirada das edificações construídas ilegalmente."
+IV - Nessa seara preambular, não se evidencia a presença do fumus boni iuris, considerando que a hipótese pode demandar revolvimento do acervo fático-probatório dos autos.
+V - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A concessão de efeito suspensivo a recurso que originariamente dele não é dotado, depende da demonstração, inequívoca, da presença dos requisitos do periculum in mora e do fumus boni iuris.
+O acórdão recorrido especialmente foi prolatado em agravo de instrumento contra decisão que deliberou sobre a concessão de tutela provisória em favor da Concessionária ora requerida, nos seguintes termos:
+Foi consignado, ainda, que a possibilidade de dano irreparável ou de difícil reparação em favor da autora/agravante restava demonstrada na espécie, pois a ocupação supostamente ilegal de faixa próxima aos trilhos de ferrovia poderia provocar um acidente com vítimas, com prejuízos enormes tanto para a própria empresa autora quanto para os réus e a comunidade em geral.
+ ..
+É sabido ainda que a faixa de domínio se trata de um bem público de uso comum afetado à prestação do serviço público concedido às concessionárias de serviço público, detentoras do patrimônio da ferrovia, tais como a autora/agravada.
+ ..
+No caso em análise, constata-se que a autora, ora agravada, de fato, detém a posse da área em que o imóvel do recorrente está localizado, em detrimento do contrato de concessão de malha ferroviária firmado com a União.
+Da mesma forma, restou demonstrado o esbulho praticado pelos réus, conforme Boletim de Ocorrência (cód. 07, do agravo de instrumento nº 1.0000.20.568884-9/001), onde restou salientado que a ocupação indevida da área concedida à agravada para exploração e consecução do serviço de transporte ferroviário, está colocando em risco não só a circulação das locomotivas, como as vidas dos próprios moradores irregulares e de seus familiares.
+Diante de tais considerações, apesar das alegações da recorrente, restando comprovada a posse e o esbulho, tem a parte agravada o direito de reintegração na posse da área objeto da lide, inclusive com a retirada das edificações construídas ilegalmente.
+Nessa seara preambular, não se evidencia a presença do fumus boni iuris, considerando que a hipótese pode demandar revolvimento do acervo fático-probatório dos autos.
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
