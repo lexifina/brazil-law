@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 02/08/2022 a 08/08/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  por  PORTO  SEGURO  COMPANHIA  DE  SEGUROS  GERAIS,  contra  decisão  exarada  pela  Presidência  desta  Corte  a  qual  não  conheceu  do  recurso  em  razão  da  ausência  de  recolhimento  da  multa  do  art.  1.021,  §4º  do  CPC.
+Nas  razões  do  presente  recurso,  a  parte  agravante  sustenta,  em  síntese,  que  "Conforme  demonstrado  nas  razões  do  agravo  anteriormente  apresentado,  percebe-se  dos  autos  a  perfeita,  regular  e  tempestiva  comprovação  do  recolhimento  da  multa  imposta  com  fundamento  no  artigo  1.021,  §4º,  do  CPC,  no  exato  momento  da  interposição  do  recurso  especial  apresentado  na  hipótese  em  julgamento,  conforme  demonstra,  cabalmente,  o  comprovante  de  depósito  acostado  às  e-STJ  Fl.219,  percebendo-se  perfeitamente  cumprido  o  pressuposto  recursal  objetivo  determinado  pelo  §5º,  daquele  mesmo  dispositivo  legal.
+É  o  relatório.
+EMENTA
+AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  RECURSO  MANIFESTAMENTE  INADMISSÍVEL.  APLICAÇÃO  DE  MULTA  COM  BASE  NO  ART.  1.021,  §4º,  DO  CPC.  AUSÊNCIA  DE  COMPROVAÇÃO  DO  SEU  RECOLHIMENTO  NO  MOMENTO  DA  INTERPOSIÇÃO  DO  APELO  NOBRE.  DECISÃO  MANTIDA.
+AGRAVO  DESPROVIDO.
+VOTO
+Eminentes  Colegas,  o  agravo  interno  não  merece  provimento.
+Em  que  pese  o  arrazoado,  entendo  que  a  ausência  de  qualquer  novo  subsídio  trazido  capaz  de  alterar  o  fundamento  da  decisão  ora  agravada,  faz  subsistir  incólume  o  entendimento  nela  firmado.
+Após  a  reanálise  do  recurso  de  PORTO  SEGURO  COMPANHIA  DE  SEGUROS  GERAIS,  no  acórdão  recorrido,  que  negou  provimento  ao  agravo  interno  interposto  pela  parte ,  foi  aplicada  multa,  ficando  a  interposição  de  qualquer  outro  recurso  condicionada  ao  depósito  do  respectivo  valor.  (e-stj  fl.183).
+Ocorre  que,  no  ato  da  interposição  do  recurso  especial,  a  parte  não  demonstrou  o  efetivo  recolhimento  da  penalidade  aplicada,  pois  não  juntou  o  comprovante  do  valor  correspondente  ao  pagamento  da  multa.
+Registre-se  que  o  documento  de  fl.  (218/219)  não  se  trata  de  efetivo  comprovante  de  pagamento,  apto  a  comprovar  a  quitação  da  obrigação  daparte  agravante.
+
+Nessas  hipóteses,  não  se  conhece  do  recurso  especial  quando  interposto  sem  o  recolhimento  da  multa  inserta  no  art.  1.021,  §  4º,  do  Código  de  Processo  Civil,  imposta  pelo  Tribunal  de  origem,  vez  que  tal  recolhimento  configura-se  pressuposto  objetivo  de  admissibilidade  recursal,  com  natureza  de  penalidade  processual.
+Sobre  o  tema,  o  Supremo  Tribunal  Federal  já  se  posicionou  no  sentido  de  que  "a  exigência  pertinente  ao  depósito  prévio  do  valor  da  multa,  longe  de  inviabilizar  o  acesso  à  tutela  jurisdicional  do  Estado,  visa  a  conferir  real  efetividade  ao  postulado  da  lealdade  processual,  em  ordem  a  impedir  que  o  processo  judicial  se  transforme  em  instrumento  de  ilícita  manipulação  pela  parte  que  atua  em  desconformidade  com  os  padrões  e  critérios  normativos  que  repelem  atos  atentatórios  à  dignidade  da  justiça  (CPC,  art.  600)  e  que  repudiam  comportamentos  caracterizadores  de  litigância  maliciosa,  como  aqueles  que  resultam  de  interposição  recursal  com  intuito  manifestamente  protelatório  (CPC,  art.  17,  VII)"  (AgRg  nos  EDv  no  AgRg  no  RE  521.424/RN,  Tribunal  Pleno,  Min.  Celso  de  Mello,  DJe  de  02/08/2010).
+Ademais,  vale  destacar  que  "Como  o  pressuposto  objetivo  de  admissibilidade  do  recurso  diz  respeito  ao  prévio  depósito  do  valor  da  multa,  não  há  que  se  cogitar  da  necessidade  de  concessão  de  prazo  para  que  o  vício  seja  sanado,  sendo  o  pagamento  posterior  da  penalidade  admitido  apenas  nas  hipóteses  legalmente  previstas"  (AgInt  no  AREsp  n.  1.149.021/SE,  Relator  Ministro  PAULO  DE  TARSO  SANSEVERINO,  TERCEIRA  TURMA,  julgado  em  15/5/2018,DJe  de  21/5/2018),  daí  por  que  sequer  há  se  falar  em  intimação  da  parte  para  recolher  tal  encargo.
+A  propósito:
+PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  MULTA  DO  ART.  557,  §  2º,  DO  CPC/1973.  RECOLHIMENTO  PRÉVIO  À  INTERPOSIÇÃO  DE  OUTRO  RECURSO.  NECESSIDADE.  DECISÃO  MANTIDA.
+1.  "Mesmo  que  o  recurso  especial  tenha  por  objeto  questionar  a  fixação,  forma  de  cálculo  e  o  valor  da  penalidade  processual  imposta  em  segunda  instância,  não  se  conhece  do  recurso  sem  o  prévio  recolhimento  do  valor  integral  da  sanção  processual  imposta"  (EDcl  no  AREsp  n.  718.526/SP,  Relator  Ministro  LUIS  FELIPE  SALOMÃO,  QUARTA  TURMA,  julgado  em  17/11/2015,  DJe  25/11/2015).
+2.  Agravo  interno  a  que  se  nega  provimento"(AgInt  no  AREsp  810.284/MS,  Rel.  Ministro  ANTONIO  CARLOS  FERREIRA,  QUARTA  TURMA,  julgado  em  1º/12/2016,  DJe  09/12/2016).
+AGRAVO  REGIMENTAL.  RECURSO  ESPECIAL.  MULTA  POR  MANEJO  DE  ACLARATÓRIOS  PROTELATÓRIOS.  PRESSUPOSTO  RECURSAL.  NECESSIDADE  DE  RECOLHIMENTO,  AINDA  QUE  A  LEGALIDADE  DA  CONDENAÇÃO  SEJA  O  OBJETO  DO  RECURSO  ESPECIAL.
+1.  Imposta  a  multa  de  10%  por  manejo  de  segundos  embargos  de  declaração  protelatórios  e  condicionada  a  interposição  de  qualquer  outro  recurso  ao  recolhimento  do  seu  montante,  esta  circunstância  passa  a  configurar  pressuposto  recursal.
+2.  Não  conhecimento  do  recurso  se  não  observada,  ainda  que  a  discussão  limite-se  a  atacar  a  própria  legalidade  da  fixação  da  penalidade.
+3.  Decisão  agravada  mantida  pelos  seus  próprios  fundamentos.
+4.  AGRAVO  REGIMENTAL  DESPROVIDO.  (AgRg  nos  EDcl  no  REsp  1229375/MT,  Rel.  Ministro  PAULO  DE  TARSO  SANSEVERINO,  TERCEIRA  TURMA,  julgado  em  04/12/2012,  DJe  07/12/2012)
+Nesse  contexto,  a  decisão  recorrida  deve  ser  mantida  pelos  seus  próprios  fundamentos,  porquanto  válidos  os  argumentos  que  a  sustentam,  uma  vez  que  não  foram  trazidos  elementos  aptos  a  desconstituí-la.
+Ante  o  exposto,  nego  provimento  ao  agravo  interno.
+Advirta-se,  por  fim,  que  a  oposição  de  embargos  de  declaração  manifestamente  protelatórios  dará  ensejo  à  aplicação  de  multa  (art.  1.026,  §  2º,  do  CPC/2015).
+É  o  voto.
