@@ -1,0 +1,15 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo em recurso especialmanejado por ANALICE LOPES GONÇALVEScontra acórdão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO assimementado (e-STJ, fl. 274):
+PREVIDENCIÁRIO. DECISÃO MONOCRÁTICA. AGRAVO. BENEFÍCIO DE AUXÍLIO-DOENÇA CONCOMITANTE COM PERÍODOS DE LABOR. CORREÇÃO MONETÁRIA. AGRAVO PARCIALMENTE ACOLHIDO.
+1. O caso dos autos é de retratação parcial.
+2. O fato de a parte autora ter continuado a trabalhar, mesmo incapacitada para o labor, reflete, tão somente, a realidade do segurado brasileiro que, apesar de incapacitado, conforme descreveu o laudo pericial, continua seu trabalho, enquanto espera, com sofrimento e provável agravamento da enfermidade, a concessão do benefício que o INSS insiste em lhe negar. Entretanto, devem ser descontados os períodos de labor da parte autora no pagamento do benefício ora concedido.
+3. Por outro lado, com relação aos índices de correção monetária, deve ser observado o julgamento proferido pelo C. Supremo Tribunal Federal na Repercussão Geral no Recurso Extraordinário nº 870.947.
+4. Agravo do INSS parcialmente provido.
+É o relatório.
+A questão jurídica referente à possibilidade de recebimento de benefício por incapacidade do Regime Geral de Previdência Social de caráter substitutivo da renda, concedido judicialmente em período de abrangência concomitante ao que o segurado estava trabalhando e aguardando o deferimento do benefício,foi submetida ao regime dosprecedentes qualificados vinculantes pelo Superior Tribunal de Justiçanos seguintes termos:
+Tese 1.013/STJ:No período entre o indeferimento administrativo e a efetiva implantação de auxílio-doença ou de aposentadoria por invalidez, mediante decisão judicial, o segurado do RPGS tem direito ao recebimento conjunto das rendas do trabalho exercido, ainda que incompatível com sua incapacidade laboral, e do respectivo benefício previdenciário pago retroativamente.
+Nesse contexto, por medida de economia processual e para evitar decisões dissonantes entre Cortes integrantes do mesmo sistema de Justiça, os recursos que tratam da mesma controvérsia devem retornar à origem, para aguardar ou aplicar a solução alcançada no feito afetado, viabilizando, assim, a observação uniformeda tese vinculante.
+Cumpre esclarecer que, somente depois de realizada essa providência, com o exaurimento da instância ordinária, os recursos excepcionais deverãoser encaminhados para os TribunaisSuperiores, a fim de que possam ser analisadas as questões jurídicas neles suscitadas, desde que não prejudicados pelo novo pronunciamento da Corte local.
+Ante o exposto, determino a devolução dos autos ao Tribunal de origem, para observação da disciplina processual dos arts. 1.039 e 1.040 do CPC/2015, de modo a que se: i) negue seguimento ao recurso, se o acórdão recorridocoincidir com a tese vinculante do Tribunal Superior; ou ii) proceda ao juízo de retratação, na hipótese de ter o colegiado local divergidoda interpretação fixada no precedente qualificado.
+Publique-se. Intimem-se.
