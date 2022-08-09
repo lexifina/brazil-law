@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar,impetrado em favor deGuilhermeSantanaCassemiro,em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇADE MINAS GERAIS (HC n. 1.0000.22.143909-4/000).
+O pacientefoi preso em flagrante pelasuposta prática dodelito de tráfico de drogas, tendo a custódia sido convertida em preventiva.
+O impetrante sustenta que não estariam presentes os requisitos necessários à manutenção da custódia cautelar doacusado, nos termos do art. 312 do Código de Processo Penal, mormente porque seus predicados pessoais permitiriam que respondesse ao processo em liberdade.
+Salienta a excepcionalidade da medida extrema, enfatizando que a prisão preventiva poderia ser substituída por medidas cautelares diversas.
+Afirma, ainda,que manutençãodo decreto constritivo careceria de fundamentação idônea.
+Requer, liminarmente e no mérito, a concessão da liberdade ao paciente.
+A liminar foi indeferida pela Presidência desta Corte (fls. 318/319).
+Solicitadas informações, estas foram devidamente prestadas(fls. 157e 159).
+Instado a se manifestar, o Ministério Público Federal emitiu parecer pelo não conhecimento da impetração, mas pela concessão, de ofício, da ordem para revogar a prisão preventiva do paciente, sem prejuízo de nova decretação da custódia cautelar, desde que em decisão fundamentada em elementos concretos(fls. 169/172).
+O feito encontra-se tramitando normalmente e rigorosamente dentro do prazo.
+É o relatório.
+Busca a presente impetração a revogação da prisão preventiva do paciente.
+Pelos percucientes fundamentos,adoto como razões de decidir o parecer do Ministério Público Federal,in verbis(fls. 170/172- grifo nosso):
+Na espécie, verifica-se inidoneidade na fundamentação adotada pelo magistrado de primeiro grau para decretar a prisão preventiva do paciente. Vejamos o pronunciamento do juízo (f. 58-59):
+ ..
+Há indícios suficientes de autoria e prova da materialidade. O flagrado foi preso em flagrante delito pela prática, em tese, do delito previsto no artigo 33 da Lei 11.343/06. Como é sabido, cabe relaxamento do flagrante quando respectivo auto padece de alguma nulidade. No caso dos autos, considerando que o Auto de Prisão em Flagrante está formalmente correto, não havendo que sefalar em relaxamento de prisão. Importante ressaltar nesta fase, não se exige prova plena, bastando meros indícios que demonstrem a probabilidade do flagrado ter sido o autor do fato delituoso. No caso dos autos imputa-se ao flagrado a prática de delito de tráfico de drogas, e, em primeira análise, fica difícil retirar o agente do contexto dos fatos, o que torna a soltura, prematura. O flagrado foi preso na posse de drogas, e ainda as formas de acondicionamento evidenciam a periculosidade do agente e o seu envolvimento, em tese com o mundo do crime, razão pela qual a prisão processual se faz necessária para a garantia da ordem pública (periculum libertatis). Além disso, a tese de defesa diz respeito ao mérito e será analisada no momento oportuno. No mais, o crime por cuja suposta autoria o flagrado foi preso reclama, em seu preceito secundário, pena superior a quatro anos, o que, per se, preenche o requisito descrito no inciso I do artigo 313 CPP, constituindo-se em mais um dos pressupostos a justificar, em sua modalidade preventiva, a segregação cautelar do agente  .
+Como cediço, a gravidade em abstrato do crime, bem como elementos inerentes ao tipo penal do tráfico de drogas e outros conceitos vagos, não se prestam a justificar a decretação da prisão cautelar.
+Nesse sentido, confira-se o seguinte precedente:
+PROCESSO PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. HOMICÍDIO DUPLAMENTE QUALIFICADO.TENTATIVA. INSUFICIÊNCIA PROBATÓRIA. VIA INADEQUADA. PRISÃO PREVENTIVA. GRAVIDADE ABSTRATA DO CRIME. MOTIVAÇÃO INIDÔNEA. FALTA DE INDICAÇÃO DE ELEMENTOS CONCRETOS A JUSTIFICAR A MEDIDA. INSERÇÃO PELO TRIBUNAL DE FUNDAMENTOS NÃO PRESENTES NO DECISUM. IMPOSSIBILIDADE.FLAGRANTE ILEGALIDADE. RECURSO PROVIDO.
+ ..
+2. A prisão processual deve ser configurada no caso de situações extremas, em meio a dados sopesados da experiência concreta, porquanto o instrumento posto a cargo da jurisdição reclama, antes de tudo, o respeito à liberdade.
+3. In casu, a fundamentação apresentada pelo magistrado primevo vincula-se essencialmente à gravidade abstrata do delito e hediondez, bem como menciona a presença de materialidade e indícios de autoria, deixando de apontar circunstâncias concretas do crime que justifiquem a excepcionalidade da medida.
+4. Não é dado ao Tribunal estadual agregar fundamentos não presentes na decisão do Juízo singular, sob pena de incidir em indevida inovação.
+5. Recurso ordinário provido a fim de determinar a imediata soltura do recorrente, se por outro motivo não estiver preso, sem prejuízo de queo Juízo a quo, de maneira fundamentada, examine se é caso de aplicar uma ou mais dentre as medidas cautelares implementadas pela Lei n.º 12.403/11, ressalvada, inclusive, a possibilidade de decretação de nova prisão, caso demonstrada sua necessidade.
+(RHC n. 102247/SP, Rel. Min. REYNALDO SOARES DA FONSECA, QUINTA TURMA, j. 2/10/2018, DJe de 11/10/2018 - grifou-se).
+É certo que o TJMG fez menção à quantidade e variedade das drogas apreendidas e ao fato de que o paciente já foi anteriormente condenado por tráfico de drogas e responde a ação penal pelo suposto delito de homicídio, contudo, não pode o tribunal, no julgamento de habeas corpus, adunar novos fundamentos à decisão de primeiro grau a fim de justificar a prisão preventiva.
+Assim, há constrangimento ilegal a ser sanado.
+Nesse sentido, confiram-se os seguintes julgados:
+HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. PRISÃO PREVENTIVA. ART. 312 DO CPP. PERICULUM LIBERTATIS. FUNDAMENTAÇÃO ABSTRATA. ORDEM DE HABEAS CORPUS CONCEDIDA.
+1. A prisão preventiva possui natureza excepcional, sempre sujeita a reavaliação, de modo que a decisão judicial que a impõe ou a mantém, para compatibilizar-se com a presunção de não culpabilidade e com o Estado Democrático de Direito - o qual se ocupa de proteger tanto a liberdade individual quanto a segurança e a paz públicas -, deve ser suficientemente motivada, com indicação concreta das razões fáticas e jurídicas que justificam a cautela, nos termos dos arts. 312, 313 e 282, I e II, do Código de Processo Penal.
+2. Não é idônea a fundamentação que decreta o encarceramento provisório do acusado com base tão somente na gravidade abstrata do delito de tráfico ilícito de entorpecentes, bem como em argumentos genéricos, sem indicar nenhum elemento concreto a demonstrar que, efetivamente, o paciente, solto, pudesse colocar em risco a ordem pública, a instrução criminal, ou mesmo se furtar à aplicação da lei penal. A vingar a argumentação utilizada, todo e qualquer acusado por tráfico de drogas deveria, ipso facto, ser preso preventivamente.
+ ..
+4. Ordem de habeas corpus concedida para, confirmada a liminar outrora deferida, tornar sem efeito a decisão que impôs a prisão preventiva ao paciente, ressalvada a possibilidade de nova decretação da custódia cautelar caso efetivamente demonstrada a superveniência de fatos novos que indiquem a sua necessidade, sem prejuízo de fixação de medida alternativa, nos termos do art. 319 do CPP.
+(HC n. 538.374/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, julgado, DJe 2/12/2019 - grifo nosso)
+RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. PRISÃO PREVENTIVA. RÉU QUE RESPONDE A OUTRA AÇÃO PENAL POR TRÁFICO. RISCO DE REITERAÇÃO. NECESSIDADE DA PRISÃO PARA GARANTIA DA ORDEM PÚBLICA. SEGREGAÇÃO JUSTIFICADA. COMPLEMENTAÇÃO DO DECRETO PELO TRIBUNAL IMPETRADO. INADMISSIBILIDADE. PRECEDENTES.
+1. A privação antecipada da liberdade do cidadão acusado de crime reveste-se de caráter excepcional em nosso ordenamento jurídico, e a medida deve estar embasada em decisão judicial fundamentada (art. 93, IX, da CF), que demonstre a existência da prova da materialidade do crime e a presença de indícios suficientes da autoria, bem como a ocorrência de um ou mais pressupostos do artigo 312 do Código de Processo Penal. Exige-se, ainda, na linha perfilhada pela jurisprudência dominante deste Superior Tribunal de Justiça e do Supremo Tribunal Federal, que a decisão esteja pautada em motivação concreta, sendo vedadas considerações abstratas sobre a gravidade do crime.
+2. Novos fundamentos agregados pelo Tribunal de origem não servem para suprir eventual deficiência de fundamentação do decreto de prisão preventiva. Precedentes do STF e STJ.
+ ..
+5. Recurso improvido. (RHC n. 95.178/RS, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 24/4/2018 - grifo nosso)
+Em face do exposto, acolhendo o parecer,concedoa ordem para revogar a prisão preventiva do paciente, sem prejuízo de nova decretação da custódia cautelar, desde que em decisão fundamentada em elementos concretos.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS.TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. GRAVIDADE ABSTRATA DO CRIME. MOTIVAÇÃO INIDÔNEA. AUSÊNCIA DE INDICAÇÃO DE ELEMENTOS CONCRETOS A JUSTIFICAR A MEDIDA. INSERÇÃO PELO TRIBUNAL DE NOVOS FUNDAMENTOS. IMPOSSIBILIDADE. FLAGRANTE ILEGALIDADE.PARECER ACOLHIDO.
+Ordem concedidanos termos do dispositivo.
