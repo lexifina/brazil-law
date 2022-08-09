@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial, interposto por PIRES E MADONO LTDA, contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, que inadmitiu o Recurso Especial, manejado em face de acórdão assim ementado:
+"APELAÇÃO CÍVEL. DIREITO TRIBUTÁRIO. MANDADO DE SEGURANÇA. ICMS. EXIGÊNCIA DA ENTREGA DE GIA QUANDO DA ENTRADA DE MERCADORIA EM SOLO GAÚCHO. ANTECIPAÇÃO DO FATO GERADOR SUBSEQUENTE. SIMPLES NACIONAL.
+Pretensão que, a despeito de utilizar como fundamento a impossibilidade de antecipação do fato gerador subsequente referente ao diferencial de aliquota do ICMS cobrado dos optantes do SIMPLES NACIONAL, demanda a simples desoneração do cumprimento da obrigação acessória de informação mensal a respeito da transação.
+Obrigação acessória que é autônoma em relação à principal.
+RECURSO DESPROVIDO"(fl. 556e).
+O acórdão em questão foi objeto de Embargos de Declaração (fls. 575/584e), os quais restaram rejeitados (fls. 596/601e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a e b, da Constituição Federal, a parte ora agravante apontaviolação aos arts. 1.022 do CPC; 12, I, da Lei Complementar 87/96,sustentando, em síntese, omissões, não supridas em sede de Embargos de Declaração, bem como que "não pode ser mantido o v. acórdão recorrido que, com base em lei ordinária e decreto estadual, manteve o entendimento de que deve haver o recolhimento antecipado do ICMS pela Recorrente, em momento diverso daquele previsto na Lei Complementar nº 87/1996" (fl. 624e); que, "diferentemente do entendimento do v. acórdão recorrido, a Lei Estadual nº 8.820/1989 tem sido utilizada, equivocadamente, como fundamento legal da cobrança antecipada do ICMS nas hipóteses de aquisições interestaduais de mercadorias, uma vez que conflito com Lei Complementar que rege o ICMS, portanto, sendo a regra da antecipação inapta a autorizar a mudança do fato gerador do ICMS prevista no art. 12, I, da LC nº 87/1996" (fl. 625e); queo acordão recorrido "julgou válido ato de governo local (art. 24, §§ 8º e 9º, da Lei Estadual nº8.820/1989) em face de Lei Federal em sentido contrário (art. 12,I, da LC nº 87/96)" (fl. 628e).
+Inadmitido o Recurso Especial (fls. 753/764e), foi interposto o presente Agravo (fls. 769/779e).
+A irresignação não merece prosperar.
+Inicialmente, em relação ao art. 1.022 do CPC, deve-se ressaltar que o acórdão recorrido não incorreu em qualquer vício, uma vez que o voto condutor do julgado apreciou, fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte recorrente.
+Vale ressaltar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, REsp 1.666.265/MG, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 21/03/2018; STJ, REsp 1.667.456/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 18/12/2017; REsp 1.696.273/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 19/12/2017.
+Por outro lado,por simples cotejo entre as razões do Recurso Especial e os fundamentos do acórdão recorrido, observa-se que a tese recursal contida no art. 12, I, da Lei Complementar 87/96,apontadocomo violado, sequer implicitamente, foi apreciada pelo Tribunal de origem, não obstante terem sido opostos Embargos de Declaração, para tal fim.
+Por essa razão, à falta do indispensável prequestionamento, não pode ser conhecido o Recurso Especial, no ponto, incidindo o teor da Súmula 211 do STJ ("inadmissível recurso especial quanto à questão que, a despeito da oposição dos embargos declaratórios, não foi apreciado pelo Tribunal a quo").
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 211/STJ. CERCEAMENTO DE DEFESA. INEXISTÊNCIA. JULGAMENTO EXTRA PETITA. NÃO OCORRÊNCIA. COMISSÃO DE CORRETAGEM. INDENIZAÇÃO. CABIMENTO. REEXAME DE PROVAS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. SÚMULAS NºS 5 E 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de embargos declaratórios, impede seu conhecimento, a teor da Súmula nº 211 do Superior Tribunal de Justiça.
+(..)
+6. Agravo interno não provido" (STJ, AgInt no AREsp 1.172.051/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe de 23/03/2018).
+Assim, à mingua de prequestionamento, inviável a apreciação da aludida tese recursal.
+Ressalto que, ainda que não fosse o caso de se aplicar o referido óbice, o Recurso Especial não mereceria ser conhecido, no ponto, eis quea Corte de origem, ao analisar a controvérsia, com base no exame dos elementos fáticos dos autos, consignou que:
+"A pretensão, na forma como expendida, efetivamente contende apenas o que diz respeito à obrigação acessória, o que difere do questionamento do momento da exigência do tributo ou mesmo da ocorrência do fato gerador deste.
+Nesse sentido, penso que andou bem o juízo de origem ao definir que a obrigação acessória é autônoma em relação à principal, ou seja, o ato de informação permanece, independente de o pagamento do diferencial de alíquota, questão que é diversa da contida no pedido.
+Ao que parece, o intento da apelante é de discutir o momento da exigência do tributo. Entretanto, não é o que efetivamente postula em juízo" (fl. 565e).
+Nesse contexto, considerando a fundamentação do acórdão objeto do Recurso Especial, os argumentos utilizados pela parte recorrente somente poderiam ter sua procedência verificada mediante o necessário reexame de matéria fática, não cabendo a esta Corte, a fim de alcançar conclusão diversa, reavaliar o conjunto probatório dos autos, em conformidade com a Súmula 7/STJ.
+Por fim, no que tange ao Recurso Especial interposto pela alínea b do inciso III do art. 105 da Constituição Federal, pressupõe-se que a Corte de origem tenha homenageado ato de governo local em detrimento da legislação federal, o que não ocorreu no caso, uma vez que não houve qualquer análise de ato de governo local.
+A propósito:
+"PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. AUSÊNCIA DE VIOLAÇÃO. RECURSO INTERPOSTO PELA ALÍNEA "B" DO PERMISSIVO CONSTITUCIONAL. ATO DE GOVERNO LOCAL. INEXISTÊNCIA. INVIABILIDADE DE CONHECIMENTO. IPVA. VEÍCULO TRANSFERIDO SEM COMUNICAÇÃO AO ÓRGÃO COMPETENTE. RESPONSABILIDADE SOLIDÁRIA DO ALIENANTE AFASTADA. INAPLICABILIDADE DO ART. 134 DO CTB ÀS RELAÇÕES JURÍDICO-TRIBUTÁRIAS.
+(..)
+2. "O cabimento do recurso especial pela alínea "b" do inciso III do art. 105 da Constituição Federal pressupõe que haja a Corte de origem homenageado ato de governo local em detrimento da legislação federal. Inexistente tal fato, impossível viabilizar o processamento do recurso. É a hipótese dos autos, em que em nenhum momento ocorreu tal situação" (AgRg no REsp 1.428.598/SP, Rel. Ministro Humberto Martins, Segunda Turma, DJe 30/6/2015).
+(..)
+4. Recurso especial parcialmente conhecido e, nessa extensão, provido" (STJ, REsp 1.692.328/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 11/04/2018).
+"PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. IMUNIDADE TRIBUTÁRIA DE ENTIDADE EDUCACIONAL SEM FINS LUCRATIVOS. REQUISITOS PARA FRUIÇÃO. PRESSUPOSTOS RECURSAIS DE ADMISSIBILIDADE. NÃO PREENCHIMENTO.
+(..)
+3. Não caracterizada a hipótese da alínea "b" do inciso III da CF/1988, pois a decisão do Tribunal de origem não se respalda em ato de governo local para decidir a controvérsia, mas na interpretação da legislação local.
+(..)
+5. Agravo regimental desprovido" (STJ, AgRg no REsp 1.286.388/MS, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe de 15/05/2017).
+Pelo exposto, com fundamento no art. 253, parágrafo único, II, a e b, do RISTJ, conheço do Agravo, para conhecer em parte do Recurso Especial, e, nessa extensão, negar-lhe provimento.
+I.
