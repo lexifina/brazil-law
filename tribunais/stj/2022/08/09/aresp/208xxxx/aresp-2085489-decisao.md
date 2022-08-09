@@ -1,0 +1,20 @@
+DECISÃO
+Na origem trata-se de agravo de instrumento objetivando reformar decisão que indeferiu o pedido de concessão de gratuidade judiciária. No Tribunal a quonegou-se provimento ao recurso. O valor da causa foi fixado em R$ 71.597,44.
+O recurso especial foi interposto no TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, contra acórdão com o seguinte resumo de ementa:
+AGRAVO DE INSTRUMENTO. GRATUIDADE DA JUSTIÇA. INDEFERIMENTO. PESSOA JURÍDICA. DOCUMENTOS INCONCLUSIVOS. HIPOSSUFICIÊNCIA NÃO DEMONSTRADA. RECURSO DESPROVIDO.
+-A concessão dos benefícios da gratuidade judiciária demanda prova, por parte da pessoa jurídica postulante, de que o pagamento das custas e despesas processuais comprometerá o desenvolvimento de seus objetivos sociais.
+-Não demonstrada suficientemente a hipossuficiência financeira alegada pela pessoa jurídica requerente, deve ser indeferida a gratuidade da justiça.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+A agravante, pessoa jurídica de direito privado, insurgiu-se contra a referida decisão, salientando que se encontram presentes os requisitos legais para a concessão do benefício pretendido, conforme balancetes patrimoniais, declarações de imposto de renda e petições iniciais de ações trabalhistas juntados aos presentes autos.
+Não obstante a Lei 1.060/50, em sua redação original, apontas seque o benefício da justiça gratuita somente seria cabível a pessoas naturais, o Código de Processo Civil de 2015, partindo do próprio preceito constitucional inserto no artigo 5º, inciso LXXIV, estendeu a possibilidade de litigar sob as benesses da gratuidade judiciária às pessoas jurídicas, in verbis:
+Art. 98. A pessoa natural ou jurídica, brasileira ou estrangeira, com insuficiência de recursos para pagar as custas, as despesas processuais e os honoráriosadvocatícios tem direito à gratuidade da justiça, na forma da lei.
+ ..
+Isso porque, os documentos acostados às ordens nº 2/10 não se mostram suficientes à atestar a alegada hipossuficiência financeira, considerando ainda que a própria folha de pagamento de pessoal (ordem nº 10) revela condição financeira capaz de suportar o pagamento das custas e despesas processuais sem prejuízo à sua atividade.
+Dessa forma, verifica-se inconclusivo o referido caderno de documentos e, portanto, inapto a esclarecer, com a clareza oportuna, a impossibilidade da recorrente de arcar com as custas e honorários processuais.
+Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+O dissídio jurisprudencial viabilizador do recurso especial pela alínea c do permissivo constitucional não foi demonstrado nos moldes legais, pois, além da ausência do cotejo analítico e de não ter apontado qual dispositivo legal recebeu tratamento diverso na jurisprudência pátria, não ficou evidenciada a similitude fática e jurídica entre os casos colacionados que teriam recebido interpretação divergente pela jurisprudência pátria. Ressalte-se ainda que a incidência do enunciado n. 7, quanto à interposição pela alínea a, impede o conhecimento da divergência jurisprudencial, diante da patente impossibilidade de similitude fática entre acórdãos. Nesse sentido: AgInt no AREsp 1.044.194/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 19/10/2017, DJe 27/10/2017.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
