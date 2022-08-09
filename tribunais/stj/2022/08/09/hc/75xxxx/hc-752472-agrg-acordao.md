@@ -1,0 +1,33 @@
+EMENTA
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. CAUSA DE DIMINUIÇÃO DO ART. 33, § 4º, DA LEI N. 11.343/2006. NÃO INCIDÊNCIA. RÉU QUE SE DEDICA À ATIVIDADE CRIMINOSA. AGRAVO NÃO PROVIDO.
+1. A teor do disposto no § 4º do art. 33 da Lei n. 11.343/2006, os condenados pelo crime de tráfico de drogas terão a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrarem organizações criminosas.
+2. No caso, observa-se que a Corte de origem manteve afastado o tráfico privilegiado por entender que, não só a expressiva quantidade de droga - 817 porções de maconha (999,45g), 232 porções de cocaína (211,96g) e 1.021 porções de crack (384,77g) - indicaria o envolvimento habitual do paciente na criminalidade, mas também o modus operandi do delito, quando foi constatada a subdivisão de tarefas na traficância, a localização dos entorpecentes previamente embalados para a venda, e, ainda, anotações relativas à contabilidade do tráfico na residência da corré e em poder do réu. Portanto, a alteração desse entendimento - para fazer incidir a minorante da Lei de Drogas - enseja o reexame do conteúdo probatório dos autos, o que é inadmissível em sede de habeas corpus. Precedentes.
+3. Agravo regimental não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental. Os Srs. Ministros Joel Ilan Paciornik, Jesuíno Rissato (Desembargador Convocado do TJDFT), João Otávio de Noronha e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS:
+Trata-se de agravo regimental interposto por RAFAEL DA SILVA ARAUJO, de decisão na qual indeferi liminarmente o habeas corpus (e-STJ, fls. 948-950).
+A defesa alega, em suma, que "a análise que se pretende com o referido Habeas Corpus não implica reexame de provas, visto que o desacerto do veredicto é evidente" (e-STJ, fl. 959).
+Requer a reconsideração do decisum ou a submissão do feito ao colegiado.
+É o relatório.
+EMENTA
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. CAUSA DE DIMINUIÇÃO DO ART. 33, § 4º, DA LEI N. 11.343/2006. NÃO INCIDÊNCIA. RÉU QUE SE DEDICA À ATIVIDADE CRIMINOSA. AGRAVO NÃO PROVIDO.
+1. A teor do disposto no § 4º do art. 33 da Lei n. 11.343/2006, os condenados pelo crime de tráfico de drogas terão a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrarem organizações criminosas.
+2. No caso, observa-se que a Corte de origem manteve afastado o tráfico privilegiado por entender que, não só a expressiva quantidade de droga - 817 porções de maconha (999,45g), 232 porções de cocaína (211,96g) e 1.021 porções de crack (384,77g) - indicaria o envolvimento habitual do paciente na criminalidade, mas também o modus operandi do delito, quando foi constatada a subdivisão de tarefas na traficância, a localização dos entorpecentes previamente embalados para a venda, e, ainda, anotações relativas à contabilidade do tráfico na residência da corré e em poder do réu. Portanto, a alteração desse entendimento - para fazer incidir a minorante da Lei de Drogas - enseja o reexame do conteúdo probatório dos autos, o que é inadmissível em sede de habeas corpus. Precedentes.
+3. Agravo regimental não provido.
+VOTO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (RELATOR):
+O agravo não merece prosperar.
+A decisão recorrida, transcrita a seguir, deve ser mantida pelos seus próprios fundamentos, porque ela está em consonância com a jurisprudência desta Corte.
+"A Corte de origem manteve afastado o redutor do tráfico privilegiado com base nos seguintes fundamentos:
+De outra parte, a douta magistrada de primeiro grau deixou de aplicar o redutor de pena previsto no artigo 33, § 4º, da Lei nº 11.343/2006, assim decidindo "por não haver qualquer indicação de que o tráfico de entorpecentes fosse eventual. Pelo contrário, os acusados foram abordados com elevada quantidade de entorpecente, havendo divisão de tarefas e inclusive contratação para subdivisão de atividades, sendo Naiara Aline responsável pela guarda e Rafael por embalar o entorpecente.
+Verifica-se, portanto, maior estruturação, sendo que os acusados estavam, repise-se, com elevada quantidade de entorpecente. Tudo a indicar terem envolvimento intenso com o tráfico de estupefacientes" (fl. 528).
+De fato, a apreensão de expressiva quantidade de entorpecente, -cerca de 1,7kg -, acondicionados em mais de mil porções, que permitiria atingir um grande número de usuários, aliada à apreensão de caderno com anotações relativo à contabilidade do tráfico na residência da ré Naiara e em poder do réu Rafael, no qual constam detalhados registros de compra e venda de entorpecentes com fluxo desde 24 de outubro até o mês de junho do ano seguinte (fls. 315/332), indicam a vinculação mais estreita dos apelantes com o nefasto comércio e demonstram se dedicarem eles com habitualidade ao tráfico, de modo que não faziam mesmo jus ao redutor previsto no artigo 33, § 4º, da Lei nº 11.343/06.
+De acordo com o § 4º do art. 33 da Lei n. 11.343/2006, os condenados pelo crime de tráfico de drogas terão a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrarem organizações criminosas.
+No caso, observa-se que a Corte de origem manteve afastado o tráfico privilegiado por entender que, não só a expressiva quantidade de droga indicaria o envolvimento habitual do paciente na criminalidade, mas também o modus operandi do delito, quando foi constatada a subdivisão de tarefas na traficância, a localização dos entorpecentes previamente embalados para a venda, e, ainda, anotações relativas à contabilidade do tráfico na residência da corré e em poder do réu, "no qual constam detalhados registros de compra e venda de entorpecentes com fluxo desde 24 de outubro até o mês de junho do ano seguinte".
+Portanto, assentado pelas instâncias antecedentes, com base em elementos colhidos nos autos, que o paciente se dedica a atividade criminosa, a modificação desse entendimento - a fim de fazer incidir a minorante da Lei de Drogas - enseja o reexame do conteúdo probatório dos autos, o que é inadmissível em sede de habeas corpus.
+Cito, a propósito, os seguintes precedentes:
+ .. " (e-STJ, fls. 948-950).
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
