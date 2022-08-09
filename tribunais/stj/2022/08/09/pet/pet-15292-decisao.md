@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de "recurso ordinário constitucional", sem pedido liminar, interposto por CICERO GONCALVES DA SILVAcontra acórdão do Tribunal de Justiça do Estado da Paraíba proferido no Agravo de Execução Penal n. 0811290-53.2021.8.15.0000.
+Consta dos autos que o Apenado estava no cumprimento de penas impostas em quatro processos-crimes, no regime fechado, quando foi aportada nova condenação. O Juízo da Execução Penal procedeu à soma das penas, tornando-as definitivas em 30 (trinta) anos, 5 (cinco) meses e 24 (vinte e quatro) dias de reclusão, mais 425 (quatrocentos e vinte e cinco) dias-multa. Na mesma oportunidade, indeferiu o pedido de livramento condicional, porquanto o lapso temporal será atingido tão somente em 20/09/2024(fls. 830-833).
+Irresignado, o Reeducando interpôs agravo em execução perante o Tribunal estadual, o qual foi desprovido, sendo concedida a ordem de habeas corpus de ofício para excluir da soma a pena imposta pela prática do crime previsto no art. 28 da Lei n. 11.343/2006. O acórdão foi assim ementado (fl. 914):
+"AGRAVO EM EXECUÇÃO. SOMATÓRIO DE REPRIMENDAS EQUIVOCADO. SEMRAZÃO O AGRAVANTE. AUSÊNCIA DE ILEGALIDADE. BENEFÍCIOS DAEXECUÇÃO PENAL. NÃO PREENCHIMENTO DOS REQUISITOS. DESPROVIMENTO DO RECURSO. DE OFÍCIO, EXCLUSÃO DA PENA REFERENTE AO DELITO DO ART. 28 DA LEI DE DROGAS.
+Não há ilegalidade na decisão do magistrado ao fazer o somatório das penas, já que a condenação questionada encontrava-se inserida em decisão anteriormente proferida em sede de mutirão carcerário.
+O art. 28 da Lei 11.343/2006 atribui ao acusado sanção não privativa de liberdade, razão porque não deve ser inserida no somatório das penas para fins de execução penal."
+Na presente irresignação, nomeada RECURSO ORDINÁRIO CONSTITUCIONAL, alega-se que, quando a realização do mutirão carcerário em 13/02/2019, já haviam sido somadas todas as penas do Apenado. Dessa forma, argumenta-se que foi contabilizada em duplicidade a condenação dos Autos n. 0000923-78.806.0090. Aduz-se, também, que não há elementos probatórios suficientes para imputação do fato criminoso ao Sentenciado, "tendo em vista que os depoimentos das testemunhas trazem apenas indícios, mas não provas concretadas que sejam capazes de ensejar a condenação" (fl. 933).
+Requer-se, ao final, seja assegurado ao Recorrente o livramento condicional ou a progressão ao regime semiaberto ou prisão domiciliar. Subsidiariamente, pleiteia-se a absolvição da "pena a ele imposta" (fl. 937).
+É o relatório.
+Decido.
+A competência do Superior Tribunal de Justiça está delimitada no art. 105 da Constituição da República; e nele não há a previsão de "recurso ordinário constitucional" contra acórdão proferido em agravo de execução penal. Diante dessa situação, há evidente erro grosseiro na interposição do presente instrumento recursal.
+Ad argumentandum tantum, ressalto que as razões recursais deixaram de demonstrar objetivamente a alegada duplicidade na soma das penas, sendo imprescindível no âmbito do habeas corpus a prova pré-constituída do direito vindicado, circunstância que inviabiliza o seu recebimento como tal. Além disso, quanto à aduzida inexistência de elementos probatórios para a condenação do Apenado, as respectivas alegações estão dissociadas da matéria enfrentada pelo Tribunal estadual.
+Ante o exposto, NÃO CONHEÇO do pedido.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ORDINÁRIO CONSTITUCIONAL. INTERPOSIÇÃO CONTRA ACÓRDÃO PROFERIDO EM AGRAVO DE EXECUÇÃO PENAL. AUSÊNCIA DE PREVISÃO CONSTITUCIONAL. ERRO GROSSEIRO. PLEITO NÃO CONHECIDO.
