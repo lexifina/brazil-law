@@ -1,0 +1,23 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região) e Laurita Vaz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Jonatas André de Souza ingressa com agravo regimental, inconformado com a decisão de fls. 449/451, assim ementada:
+HABEAS CORPUS. DROGAS. DOSIMETRIA. TRÁFICO PRIVILEGIADO.FUNDAMENTAÇÃO INIDÔNEA. REGIME PRISIONAL MAIS GRAVOSO.GRAVIDADE ABSTRATA. IMPOSSIBILIDADE.
+Ordem concedida nos termos do dispositivo.
+Afirma-se que a Terceira Seção do Superior Tribunal de Justiça, no julgamento do REsp 1.887.511/SP, de Relatoria do Ministro JOÃO OTÁVIO DE NORONHA, julgado em 09/06/2021, DJe 01/07/2021, concluiu que a natureza e a quantidade da droga apreendidas são circunstâncias preponderantes que só devem ser observadas na primeira fase da dosimetria, sendo incabíveis para a modulação da fração de diminuição de pena do § 4º do art. 33 da Lei n. 11.343/2006.
+Requer-se o provimento do agravo regimental para aplicar o patamar de redução do § 4ºdo art.33da Lei 11343/2006na fração máxima, de 2/3.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL. HABEAS CORPUS. DROGAS. DOSIMETRIA. TRÁFICO PRIVILEGIADO. FUNDAMENTAÇÃO INIDÔNEA. REGIME PRISIONAL MAIS GRAVOSO. GRAVIDADE ABSTRATA. IMPOSSIBILIDADE. FRAÇÃO DE REDUÇÃO. AUSÊNCIA DE ILEGALIDADE. PENA-BASE NO MÍNIMO LEGAL. INEXISTÊNCIA DE BIS IN IDEM. ORDEM CONCEDIDA NOS TERMOS DO DISPOSITIVO.
+1.Aquantidade de drogas não foi utilizada como fundamento na primeira fase da dosimetria, fixada a pena-base no mínimo legal. Legalidade na modulação dafração de redução pelotráfico privilegiado, com observância da quantidade de drogas apreendidas, ausente o bis in idem.
+2. Agravo regimental improvido.
+VOTO
+O inconformismo não prospera.
+O paciente foi condenado, em primeiro grau, como incurso no art. 33 da Lei n. 11.343/2006 (199 g da droga constatada preliminarmente como maconha, acondicionada em 36 porções individuais médias, do tipo papelote, 163 g da droga constatada preliminarmente como maconha, acondicionados em 61 porções individuais pequenas, 475 g da droga constatada preliminarmente como maconha, acondicionados em 47 porções individuais do tipo microtubo, 11 g da droga constatada preliminarmente como cocaína, acondicionados em 3 porções individuais do tipo supositório, e 2.215 ml da droga verificada aparentemente como lança-perfume, acondicionados em 119 porções individuais, do tipo microtubo)às penas de 6 anos de reclusão, no regime inicial fechado, mais o pagamento de 600 dias-multa.No julgamento da apelação, a pena foi reduzida para 5 anos de reclusão, mais o pagamento de 500 dias-multa, mantido o regime inicial fechado.
+A ordem foi concedida, nestes autos, a fim de redimensionar a pena para 4 anos e 2 meses de reclusão, no regime inicial semiaberto, além do pagamento de 420 dias-multa, como incurso no art. 33, § 4º, da Lei n. 11.343/2006.
+Devidamente esclarecido na decisão ora agravada que,tanto a sentença (fl. 304) quanto o acórdão impugnado (fls.427/428) estão baseados apenas em mera presunção de dedicação ao tráfico, não apontando elementos concretos para comprovar a habitualidade ou a dedicação a atividades criminosas. Por outro lado, a jurisprudência desta Corte está consolidada na linha de que a quantidade de drogas, por si só, não constitui fundamentação suficiente para afastar a incidência do redutor previsto no § 4º do art. 33 da Lei n. 11.343/2006.
+Assim, quanto ao crime de tráfico de drogas, com relação ao ora paciente, foi reconhecido, na decisão ora agravada,o tráfico privilegiado, aplicando-se o percentual de redução na fração de 1/6, destacada a quantidade de drogas apreendida, circunstância que não foi considerada na primeira fase da dosimetria, fixada a pena-base no mínimo legal.
+Como referido, a quantidade de drogas não foi utilizada para elevação da pena-base acima do mínimo legal, razão pela qual não há óbice para que seja observado esse fundamento no tocante àmodulação da fração pelo reconhecimento do tráfico privilegiado, ausente o bis in idem.
+Mesmo entendimento manifestou o Ministério Público Federal, ao se manifestar, às fls. 471/472, inclusive com a transcrição de precedentes desta Corte, pela inexistência de ilegalidade ou teratologia a franquear a concessão da ordem intentada na impetração originária. A presente peça recursal retrata mero inconformismo defensivo quanto ao conteúdo decisório, o que não se presta para reinaugurar nova discussão da quaestio.
+Nego provimento ao agravo regimental.
