@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de WILLIAM VITOR FORTUNATO ROMAO contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, proferido na Apelação Criminal n.1500468-52.2021.8.26.0583.
+Consta dos autos que o paciente foi condenado, em primeiro grau, à pena de 5 anos e 10 meses de reclusão, no regime inicial fechado, pela prática do delito de tráfico de drogas (art. 33, caput, da Lei n. 11.343/06), bem como a 3 anos de reclusão, no regime inicial semiaberto, substituída a pena por restritiva de direitos, como incurso no art. 16, § 1º, IV, da Lei n. 10.826/03 (posse ilegal de arma de fogo com numeração raspada).Em apelação do Ministério Público, o regime semiaberto foi alterado para o fechado, sem direito à substituição da pena.
+Segundo a denúncia, "os policiais militares tinham prévios informes anônimos indicando os denunciados como traficantes de drogas, agindo em concurso e que utilizavam a casa de EDMUNDO para comercializarem as substâncias entorpecentes. Os informes ainda apontavam que WILLIAM estava na posse de um revólver calibre 32. Diante disso, os agentes públicos se dirigiram ao local indicado na data dos fatos, onde se depararam com os imputados na calçada em frente à residência supracitada (que estava com o portão aberto). Ao visualizarem a viatura, os denunciados correram para o interior da residência e fecharam o portão. Os policiais os seguiram, ingressando no imóvel" (fl. 55), onde foram encontradas as drogas e a arma de fogo.
+Os impetrantes sustentam que "não havia motivos suficientes e nenhuma razão fundada para a equipe fardada ingressar em domicilio alheio sem ordem escrita ou certeza de flagrante delito, ou seja, o fato do acusado correr da via pública, por si só, não gera a fundada suspeita ou justa causa para ingresso na residência, quando na oportunidade não se tem o fato do Acusado portar entorpecente em via pública." (fl. 13) Defendem, assim, a nulidade da prisão em flagrante e de todas as provas dela decorrentes.
+Também alegam que a ínfima quantidade de droga  10 porções de cocaína (37,05g) e 13 de crack (1,34g) não justifica a elevação da pena-base, com fundamento no art. 42 da Lei n. 11.343/06.
+Por fim, afirmam ser o caso de reconhecimento do concurso formal ou, subsidiariamente, de aplicação, apenas, da majorante do art. 40, V, da Lei de Drogas, com a consequente absolvição do paciente em relação ao delito de posse ilegal de arma de fogo.
+Requer a concessão da ordem nesse sentido, inclusive em liminar.
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida. Porém, considerando as alegações expostas na inicial, razoável o processamento do feito para verificar a existência de eventual constrangimento ilegal.
+No caso, ao menos em juízo perfunctório, não é possível identificar de plano o constrangimento ilegal aventado ou, ainda, a presença do fumus boni iuris e do periculum in mora, elementos autorizadores para a concessão da tutela de urgência.
+Por tais razões, indefiro o pedido de liminar.
+Devidamente instruídos os autos, ouça-se o Ministério Público Federal.
+Publique-se.
+Intimem-se.
