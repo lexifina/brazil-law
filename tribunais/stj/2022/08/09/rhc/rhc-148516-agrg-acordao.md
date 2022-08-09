@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Jesuíno Rissato (Desembargador Convocado do TJDFT), Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro João Otávio de Noronha.
+RELATÓRIO
+Cuida-se de agravo regimental interposto pelo Ministério Público do Estado de Santa Catarina contra a decisão que possuioseguinte dispositivo:
+"Ante o exposto, dou provimento ao presente agravo regimental para conhecer e prover o recurso ordinário, com a absolvição do réu, ora recorrente, nos termos do art. 386, III, do Código de Processo Penal." (fl. 235)
+O Parquet defende a tipicidade da conduta do ora agravado, ao argumento de que ele estava transportando a arma carregada esem a guia de transporte em local que não é o caminho da sua casa para o clube de tiros.
+Menciona, ainda, que a ação penal não deveria ser extinta prematuramente sem a instrução probatória.
+Busca, assim, a reforma do decisum ou o provimento do agravo regimental, para negar provimento ao recurso ordinário.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NOAGRAVO REGIMENTAL NO RECURSO EMHABEAS CORPUS. ART. 14 DA LEI N. 10.826/2003.AUSÊNCIA DO PORTE DA GUIA DE TRÂNSITO DA ARMA DE FOGO DE COLECIONADOR. ATIPICADADE DA CONDUTA. AGRAVO REGIMENTAL DESPROVIDO.
+1. É atípica a conduta de colecionador, com registro para a prática desportiva e guia de tráfego,que se dirigia ao clube de tiros sem portar consigo a guia de trânsito da arma de fogo.
+2. Agravo regimental desprovido.
+VOTO
+Não obstante os esforços da defesa, a decisão deve ser mantida por seus próprios fundamentos.
+O recurso ordinário em habeas corpus ataca acórdão que recebeu o seguinte sumário:
+"HABEAS CORPUS. PACIENTE DENUNCIADO PELA SUPOSTA PRÁTICA DO CRIME PREVISTO NO ART. 14, CAPUT, DA LEI N. 10.826/2003. PRETENSÃO DE TRANCAMENTO DA AÇÃO PENAL. AGENTE REGISTRADOCOMOATIRADOR DE CAÇA/ESPORTIVO/COLECIONADOR, QUE DETÉM REGISTRO DO ARMAMENTO E AUTORIZAÇÃO DE TRÁFEGO ENTRE SUA RESIDÊNCIA E O LOCAL DE PRÁTICA, A QUAL NÃO TRAZIA CONSIGO QUANDO ABORDADO. INVIABILIDADE DE AFERIR, NA VIA ESTREITA DO WRIT, SE O PACIENTE APENAS NÃOTRAZIA CONSIGO A GUIA DE TRÁFEGO OU SE TRANSITAVA COM A ARMA COMO SE PORTE TIVESSE. ORDEM DENEGADA." (fl. 98)
+O Ministério Público do Estado de Santa Catarina ofereceu a denúncia contra o ora recorrente, nos seguintes termos:
+"Consta no incluso caderno flagrancial que a esta serve de base que, no dia 24 de outubro de 2019, por volta das 10h 45min, o denunciado Marcelo Megnelli Teodoro da Silva transportou, pela Rodovia Doutor Antônio Luiz Moura Gonzaga, Bairro Rio Tavares, nessa Cidade e Comarca, no interior do veículo Hyundai i30, placas OMU-9081, 1 (uma) pistola da marca Imbel, HGA47811,calibre .380, municiada com 17 (dezessete) munições, tudo de uso permitido, em desacordo com determinação legal e regulamentar, pois desprovido da necessária guia de tráfego.
+Assim agindo, o denunciado MARCELO MEGNELLI TEODORO DA SILVA incorreu nas sanções do art. 14, caput, da Lei n. 10.826/2003, razão pela qual o Ministério Público requer o recebimento da presente denúncia, instaurando-se, assim, a competente ação penal,com a observância das formalidades legais; a citação do denunciado para apresentar defesa preliminar e comparecer aos demais atos do processo; a oitiva das pessoas a diante arroladas, e, ao final, em consonância com a prova coligida, a aplicação da norma legal que melhor afigurar-se." (fls. 227/228)
+O voto condutor do julgado atacado no recurso ordinário assentou:
+"A defesa apresentou Certificado de Registro em nome do paciente para as atividades de caça, colecionamento e tiro desportivo, emitido em 15.02.2019 e com validade até 11.02.2022; cópia do Certificado de Registro de Arma de Fogo da Pistola Imbel, calibre .380, n. de série HGA47811, expedido em 10.05.2019, apreendido quando da abordagem; Guia de Tráfego n. PF20190000056973 com autorização do paciente para transportar uma arma de fogo de porte, do acervo de tiro desportivo, municiada, nos deslocamentos do local de guarda do acervo para locais de competição ou treinamento, com exceção de competições internacionais Ur, listando como produtos a mencionada arma e respectivas munições, emitida em 23.05.2019 e com validade até 11.02.2022; e recibo de anuidade 2019/2020 junto à Combat Clube e Escola de Caça e Tiro Desportivo, localizado na Rua Frei Lauro 120, Ponte do "maruim, Palhoça/SC (evento 1, out 4/7).
+Entretanto, resta inviável aferir nesta via de cognição sumária se o paciente, de fato, apenas não trazia consigo a guia de tráfego que o autorizava a transportar o armamento da sua residência ao clube onde viria a praticar, ou se transitava com a arma como se porte tivesse, razão pela qual prematuro o trancamento da açãopenal." (fls. 101/102)
+Como visto, a acusação imputou ao paciente o crime previsto no art. 14 da Lei n. 10.826/2003, em virtude do agente estar transportando uma arma de fogo de uso permitido sem portar a necessária guia de tráfego no momento da abordagem.
+Conclui-se da leitura do referido voto condutor que o agente possui registro da arma de fogo e guia de tráfego para transportá-la da sua residência até o clube de tiros, tendo o agente apenas se esquecido de levar consigo a referida guia.
+Todavia, não é possível a imputação de uma conduta como típica para um agente sem analisar a proporcionalidade entre o fato e a respectiva sanção penal.
+Na hipótese, o agente possui o certificado de registro para a prática de tiro desportivo, bem como a guia de tráfego para transportar a arma até o clube de tiros, e o Ministério Público ofereceu a denúncia apenas por ter o agente se olvidado de carregar consigo a referida guia quando se deslocava da sua residência para o clube.
+Dessa forma, conclui-se que a tipificação dessa conduta como crime ofende o Princípio da Proporcionalidade e deve ser repelida, por não encontrar abrigo no moderno Direito Penal.
+Assim, não se pode considerar típica a conduta de transporte da arma até o clube de tiros, em virtude de o agente ter se esquecido de carregar consigo a guia de tráfego que o mesmo possui.
+A simples ausência de cumprimento de uma formalidade não pode fazer com que o agente possa ser considerado criminoso, até porque ele é colecionador de armas e não praticou nenhum ato que pudesse colocar em risco a incolumidade de terceiros, pois a sua conduta não pode ser considerada como ilícito penal.
+A propósito, confira-se o seguinte precedente:
+CRIMINAL. HC. TRANSPORTE DE ARMA DE FOGO. COMPETÊNCIA. JUSTIÇA FEDERAL. FATO OCORRIDO A BORDO DE AERONAVE. AUSÊNCIA DA GUIA DE TRÁFEGO. ARMA REGISTRADA, DESMUNICIADA E GUARDADA NO COMPARTIMENTO DE BAGAGEM. COLECIONADOR DE ARMAS E MUNIÇÕES. REGISTRO NO MINISTÉRIO DA DEFESA. AUSÊNCIA DE OFENSA À INCOLUMIDADE PÚBLICA. CONDUTA INCAPAZ DE GERAR PERIGO REAL. IMPOSSIBILIDADE DE INCIDÊNCIA DA LEI PENAL. INFRAÇÃO ADMINISTRATIVA. ORDEM CONCEDIDA.
+I. Hipótese em que se sustenta a incompetência da Justiça Federal para processar e julgar a ação penal instaurada contra os pacientes, por falta de interesse da União, além de atipicidade da conduta praticada.
+II. Compete à Justiça Federal processar e julgar a prática, em tese, de crimes ocorridos a bordo deaeronaves.
+III. Inteligência do art. 109, inciso IX, da Constituição Federal. Precedentes desta Corte e do Supremo Tribunal Federal.
+IV. À luz dos princípios da proporcionalidade, da ofensividade e da necessidade, é inadmissível que dois colecionadores - sendo um dos pacientes, inclusive, praticante de tiro desportivo -, devidamente registrados no órgão competente, venham a responder processo criminal pelo fato de transportar arma do fogo, anteriormente emprestada, legalmente cadastrada junto ao Ministério da Defesa, acondicionada no compartimento de bagagem e desmuniciada.
+V. Situação em que as penalidades previstas no art. 247 do Decreto 3.665/2000 mostram-se cabíveis e suficientes à repreensão da infração cometida.
+VI. Não se justifica, neste caso específico, a intervenção do direito penal. VII. Deve ser cassado o acórdão recorrido e trancada a ação penal movida contra os pacientes. VIII. Ordem concedida, nos termos do voto do Relator.
+(HC 50.450/MS, Rel. Ministro GILSON DIPP, QUINTA TURMA, DJ 5/2/2007).
+Anota-se, ainda, que se mostroucorreto o trancamento da ação penal logo no seu nascedouro, porquanto não se mostra necessáriaa tramitação do feito para se concluir pela absolvição do réu, ora agravado.
+Ressalta-se, por fim, que para o acolhimento da assertiva deque o agente estava transportando o armamento de sua casa em direção oposta ao Clube de Tiros mostra-se necessário o exame aprofundado de provas, o que não pode ser realizado na via eleita.
+Ante o exposto, voto pelo desprovimento do agravo regimental.
