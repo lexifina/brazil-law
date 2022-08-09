@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto por Patrícia Paes Landim da Silva, com fundamento no art. 105, III, a,da Constituição Federal, para impugnar acórdão assim ementado (e-STJ, fl. 190):
+APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. NÚCLEO DE PRÁTICA JURÍDICA. CURADORIA ESPECIAL. GRATUIDADE DE JUSTIÇA. HIPOSSUFICIÊNCIA. AUSÊNCIA DE COMPROVAÇÃO. CITAÇÃO POR EDITAL. ESGOTAMENTO DOS MEIOS. DESNECESSIDADE. INTIMAÇÃO PARA RÉPLICA. CERCEAMENTO DE DEFESA. PREJUÍZO. AUSÊNCIA. NOTA PROMISSÓRIA. JUROS DE MORA. TERMO INICIAL. VENCIMENTO DO TÍTULO. O patrocínio da causa por núcleo de prática jurídica, no exercício do munus da Curadoria Especial de Ausentes, não conduz ao deferimento imediato da gratuidade de justiça para a parte representada. Independentemente de a parte assistida estar ou não amparada pelo benefício da gratuidade de justiça, o núcleo de prática jurídica, no exercício da Curadoria Especial de Ausentes, fica dispensado do recolhimento do preparo. A citação por edital pressupõe que o réu esteja em local incerto ou não sabido, conforme o disposto no artigo 256, do Código de Processo Civil, sendo desnecessário o esgotamento de todos os meios para a sua localização. No caso dos autos, tendo sido empreendidas, sem sucesso, diversas diligências nos endereços indicados pelo autor, bem como naqueles indicados nas consultas realizadas pelo Juízo, deve ser considerada válida a citação por edital. Pelo princípio pas de nullité sans grief, somente se decreta nulidade quando demonstrado prejuízo, a teor do artigo 282, § 1º, do Código de Processo Civil, o que não ocorreu na espécie. Tratando-se de obrigação positiva, líquida e certa, a correção monetária e os juros de mora incidem desde a data do vencimento da nota promissória, conforme artigo 397, do Código Civil.
+Nas razões do recurso especial, apontou-se ofensa aos arts.99, § 2º, 240, 256, § 3º, 350 e 351 doCPC/2015;406 doCódigo Civil;e161, § 1º, do Código Tributário Nacional(e-STJ, fls. 213-225).
+Sustentou-se, em suma, não ser cabível, no caso, a citação por edital, porque não esgotadas as vias para a ciência pessoal; ter se configurado cerceamento de defesa e excesso de execução; além de ser caso deconcessão da gratuidade de justiça.
+O recurso especial não foi admitido na origem (e-STJ, fls. 233-234), o que provocou a interposição do presente agravo.
+Brevemente relatado, decido.
+O inconformismo não merece prosperar.
+Verifica-se que o Tribunal local levou em consideração as seguintes particularidades do caso concreto, ao decidir sobre a gratuidade de justiça,a validade da citação e ausência de cerceamento de defesa(e-STJ, fls. 192-197):
+..o direito à justiça gratuita pode ser concedido mediante afirmação do interessado, desde que não contrariada pelos demais elementos de prova dos autos. A presunção da condição de necessitado evidenciada pela declaração, portanto, é relativa. Ou seja, diante de prova que evidencie não se tratar de parte com insuficiência de recursos, pode o Juízo indeferir o direito pleiteado.
+In casu, verifica-se que não existem elementos de prova que possam subsidiar o pedido de gratuidade de justiça, mormente porque a apelante não compareceu aos autos, tendo sido intimada por edital, com representação pela Curadoria Especial.
+(..).
+Insurge-se a apelante quanto à validade da citação editalícia, ao argumento de não esgotamento dos meios para a localização da parte. Em especial, argumenta que não foram encaminhados ofícios às concessionárias de serviço público, consoante disposto no artigo 256, §3º, do Código de Processo Civil
+(..)
+Sem razão a recorrente.
+De acordo com o artigo 256, inciso II, do Código de Processo Civil, é pressuposto para a citação por edital que o réu esteja em local incerto ou ignorado, sendo, assim, desnecessário o esgotamento de todos os meios para a sua localização.
+(..)
+Na espécie, foram exauridos os meios de localização do réu disponíveis ao Juízo (SISBAJUD, RENAJUD e INFOJUD e SIEL, conforme ID 34827271, processo de execução), de modo que a citação por edital deve ser considerada plenamente válida.
+Cabe notar, ainda, que o d. Juiz da causa complementou as diligências de citação, conforme ID 29177866, restando tal providência infrutífera, nos termos da certidão de ID 29177875.
+Assim, não procede a alegada nulidade da citação, ao argumento de que o magistrado não oficiou as concessionárias de serviço público, uma vez que, conforme relatado, foram empreendidos esforços adequados e necessários para a realização da citação, mediante os meios disponíveis ao Juízo.
+(..)
+A apelante suscita a nulidade da sentença, ao argumento de que não houve intimação para apresentação de réplica na origem, o que representaria cerceamento de defesa.
+(..)
+No entanto, não há falar em declaração da nulidade.
+Isso porque, pelo princípio pas de nullité sans grief, somente se decreta nulidade quando demonstrado prejuízo, a teor do artigo 282, § 1º, do Código de Processo Civil, o que não ocorreu na espécie.
+Nesse contexto, reverter a conclusão da Justiça local para acolher apretensão recursal,demandaria o revolvimento do acervofático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da viaeleita, consoante enunciado daSúmula7 doSuperior Tribunal deJustiça.
+Nem se diga ser caso de revaloração da prova. Revalorar o fato é atribuir o devido valor jurídico a fato incontroverso, sobejamente reconhecido pelas instâncias ordinárias.
+Nesse sentido:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO (ART. 544 DO CPC/73) - AÇÃO DE REINTEGRAÇÃO DE POSSE - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO - INSURGÊNCIA DO AUTOR.
+1. Rever a conclusão do Tribunal a quo acerca da configuração dos requisitos ensejadores da procedência ou improcedência da ante possessória demandaria o reexame de provas, providência que encontra óbice na Súmula 7 desta Corte Superior.
+2. A revaloração da prova constitui em atribuir o devido valor jurídico a fato incontroverso, sobejamente reconhecido nas instâncias ordinárias, prática francamente aceita em sede de recurso especial. Entretanto, na hipótese dos autos, para reverter a conclusão da Corte local, a fim de que se reconheça a presença dos pressupostos que ensejam a demanda reintegratória, necessário seria o reexame das provas colacionadas aos autos, providência vedada a esta Corte Superior, em sede de recurso especial.
+3. Agravo regimental desprovido. (AgRg nos EDcl no AREsp 51.977/RS, Rel. Ministro MARCO BUZZI, DJe 29/4/2016).
+No caso, o que almejaaagravanteé a revisão da conclusão a que chegou a Corte estadual, de que foi regular a citação por edital, na medida em que foram realizadas várias tentativas de localizá-la;que não foi realizada a devida prova acerca de sua hipossuficiência e da inexistência deprejuízo eventualmente causado pela falta de intimação para apresentar réplica.
+Por conseguinte, não é possível o acolhimento do recurso com a simples revaloração de fatos, mas, diferentemente, seria necessário o revolvimento do conjunto probatório, medida obstada pelaSúmula7/STJ.
+Não se olvide, ainda, o entendimento já adotado no Superior Tribunal de Justiça de que "a errônea valoração da prova que dá ensejo ao recurso especial é aquela que decorre de equívoco na aplicação de norma ou princípio no campo probatório, e não quanto às conclusões das instâncias ordinárias acerca dos elementos informativos coligidos aos autos do processo" (AREsp n. 1.380.879/RS, Ministro Ricardo Villas Bôas Cueva, DJe de 5/8/2020).
+Relativamente à questão de mérito, foi consignado o seguinte (e-STJ, fls. 198-199):
+No mérito, a recorrente defende a existência de excesso de execução, ao argumento de que o cômputo dos juros legais somente deve ocorrer após a efetivação da mora, ou seja, da citação, nos termos do artigo 406, do Código Civil, e 240, do Código de Processo Civil.
+Não assiste razão à apelante.
+Na execução de título extrajudicial embargada, a parte recorrida busca a satisfação de notas promissórias emitidas pela recorrente, no valor de R$ 6.014,02, conforme planilha de débito de ID 10738279 e títulos de crédito de ID 10738309, p. 1/15, da execução.
+No cálculo apresentado, foi corretamente aplicado o percentual de juros de mora de 1% ao mês a partir do vencimento de cada título, conforme consignado na sentença.
+De fato, tratando-se de nota promissória, os juros moratórios e a correção monetária devem incidir a partir da data de vencimento do título, nos termos dos artigos 394 e 397, do Código Civil, como ocorreu no caso dos autos.
+(..)
+Desse modo, afasta-se a alegação de excesso de execução, mantendo-se a sentença na íntegra.
+Relativamente aos arts.406 do Código Civil;240 do CPC/2015 e161, §1º, do CTN,a análise do acórdão recorrido revelou que as matéria a elesatinentesnão foi enfrentada pelo Tribunal estadual sob o enfoque das normas legais e dos argumentos deduzidos pela recorrente.
+Como se sabe, o prequestionamento ocorre quando a causa tiver sido decidida à luz da legislação federal indicada, com emissão de juízo de valor acerca dos respectivos dispositivos legais, interpretando-se sua aplicação ou não ao caso concreto, o que não se deu na presente hipótese.
+O recurso especial ressente-se, pois, no ponto, como se constata do trecho transcrito, do indispensável prequestionamento (Súmulas 282 e 356/STF).
+Também não é o caso de prequestionamento implícito (ou ficto).
+Com efeito, o prequestionamento ficto, previsto no art. 1.025 do CPC/2015, só é admissível quando, após a oposição de embargos de declaração na origem, o recorrente suscite a violação ao art. 1.022 do mesmo Diploma, pois somente dessa forma é que o Órgão julgador poderá verificar a existência do vício e proceder à supressão de grau, o que, no caso, não ocorreu, até porque nem sequer foram opostos embargos de declaração.
+Assim, inviável reconhecer a ocorrência de prequestionamento implícito.
+Ante o exposto, conheço do agravo para não conhecerdo recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários recursais em favordo advogado da parte agravada, fixando-os em 15% (quinze por cento) sobre o valor da execução.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. TÍTULO EXTRAJUDICIAL. EMBARGOS À EXECUÇÃO.CITAÇÃO POR EDITAL. REGULARIDADE. RECONHECIMENTO. GRATUIDADE DE JUSTIÇA. INDEFERIMENTO. CERCEAMENTO DEFESA. NÃO OCORRÊNCIA.REVISÃO DAS CONCLUSÕES ESTADUAISINVIABILIDADE.INCIDÊNCIA DA SÚMULA 7/STJ.REVALORAÇÃO DA PROVA. AFASTAMENTO. EXCESSO DE EXECUÇÃO. ALEGAÇÃO. DISPOSITIVOS TIDOS COMO OFENDIDOS. FALTA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. PREQUESTIONAMENTO FICTO. CONDIÇÕES NÃO SATISFEITAS. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
