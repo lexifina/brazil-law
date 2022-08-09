@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por Unimed Goiânia Cooperativa de Trabalho Médicocontra decisão que não admitiu o recurso especial, com base no art. 105, III, a, da Constituição Federal, desafiando acórdão assim ementado (e-STJ, fl. 419):
+APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANOS MORAIS.CONTRATO DE PLANO DE SAÚDE. RESCISÃO POR ATRASO NO PAGAMENTO DE MENSALIDADE. NOTIFICAÇÃO INEXISTENTE. ÔNUS DO PLANO DE SAÚDE.RESTABELECIMENTO DO CONTRATO. PERÍODO DE CARÊNCIA NÃO EXIGÍVEL. I- Admite-se a rescisão unilateral do contrato pelo não-pagamento de mensalidade, desde que o consumidor seja comprovadamente notificado da inadimplência, sendo suficiente que esta notificação seja entregue no endereço do consumidor, não se exigindo que seja recebida pessoalmente.II- Todavia, no caso em apreço, o plano de saúde não comprovou a notificação enviada, configurando-se a ilegalidade da rescisão unilateral.III- Com efeito, processado o pagamento das mensalidades faltantes e das subsequentes, o plano de saúde deve ser restabelecido desde a data do cancelamento unilateral, com todas as carências supridas. APELAÇÃO CÍVEL CONHECIDA E DESPROVIDA.
+Nas razões do recurso especial, a recorrente, alegou violação aos arts. 212 do CC/2002; e 7º, 9º, 10 e 141 do CPC/2015.
+Sustentou a anulação do acórdão recorrido, com a incursão no mérito da demanda para que seja confirmada a legalidade da rescisão de contrato, tendo em vista que todos os procedimentos necessários à resilição contratual por inadimplência do beneficiário foram realizados.
+Além disso, aduziu queos fundamentos do decisum extrapolarama discussão travada nos autos, poisem momento algum do processo houve discussão sobre a existência dedúvida razoável quanto às notificações enviadas pela operadora à recorrida.
+Dessa maneira, defendeu a ocorrência de decisão surpresa e de violação ao princípio da congruência.
+As contrarrazões não foram apresentadas - fl. 443 (e-STJ).
+O Tribunal de origem não admitiu o processamento do recurso especial (e- STJ, fls. 451-461).
+Brevemente relatado, decido.
+Com efeito, observa-se que o acórdão recorrido dirimiu a controvérsia, com base nos seguintes fundamentos (e-STJ, fls. 415-418):
+De início, vale ressaltar que o objeto do recurso restringe-se em verificar se plano de saúde agiu com acerto ao cancelar o plano da apelada/autora diante de sua inadimplência e, após a quitação das parcelas devidas e a contratação de um novo plano, exigiu o cumprimento do período de carência.
+Impende ressaltar que a relação jurídica existente entre as partes caracteriza relação de consumo, enlaçando a apelada como fornecedora do plano de saúde e a apelante como destinatária final dos produtos e serviços ofertados, a teor do que dispõem os arts. 2º e 3º da Lei 8.078/1990.
+É de ser observado, portanto, o Código de Defesa do Consumidor, conforme, inclusive, enunciado sumular nº 469 do STJ, que determina que "aplica-se o Código de Defesa do Consumidor aos contratos de plano de saúde".
+Dito isso, extrai-se dos autos que a apelada contratou o plano, pela primeira vez, em 2011, mas que fora cancelado e reativado mais vezes. Por último, o contrato foi assinado em 01/09/2016, mas diante da falta de pagamento de 10 a 12/2016, sobreveio nova rescisão.
+Nessa ocasião, a parte autora entendeu que, caso realizasse o pagamento das prestações atrasadas poderia firmar um novo contrato, com o aproveitamento do período de carência.
+Todavia, o plano de saúde comprovou que a parte somente quitou as parcelas de 10/2016 a 12/2016, em agosto de 2017, após o ajuizamento da presente demanda (12/05/2017) e, considerando que se tratava de novo contrato, e não de renovação, se recusou a cobrir a cirurgia de gastroplastia sem a observância do período de carência (180 dias), e mesmo tal procedimento não é considerando de emergência.
+A propósito, o art. 13, inciso II, da Lei nº 9.656/98,
+"Art. 13. Os contratos de produtos de que tratam o inciso I e o § 1º do art. 1º desta Lei têm renovação automática a partir do vencimento do prazo inicial de vigência, não cabendo a cobrança de taxas ou qualquer outro valor no ato da renovação.
+Parágrafo único. Os produtos de que trata o caput, contratados individualmente, terão vigência mínima de um ano, sendo vedadas:
+( ) II - a suspensão ou a rescisão unilateral do contrato, salvo por fraude ou não-pagamento da mensalidade por período superior a sessenta dias, consecutivos ou não, nos últimos doze meses de vigência do contrato, desde que o consumidor seja comprovadamente notificado até o quinquagésimo dia de inadimplência;" (Negritei).
+Como visto, a notificação do consumidor é requisito imprescindível para a rescisão unilateral.
+No caso em apreço, noto que o dirigente do feito determinou (movimento 78), que a recorrente juntasse aos autos a notificação da autora acerca da rescisão do contrato, a fim de dirimir a controvérsia, todavia esta quedou-se inerte, consoante a certidão de movimento 80.
+Nesse contexto, considerando que é ônus do plano de saúde comprovar a notificação válida enviada ao endereço da contratante, e tal fato não ocorreu, não agiu com acerto a apelante ao cancelar, unilateralmente, o contrato da apelada.
+Seguem julgados nesse sentido deste Tribunal:
+(..)
+Com efeito, processado o pagamento das mensalidades faltantes e das subsequentes, o plano de saúde deve ser restabelecido desde a data do cancelamento unilateral, com todas as carências supridas.
+Como se vê, da leitura dos trechos acima, observa-se que não houve debate sobre a rescisão do contratodo plano de saúde e do reflexo da carência do ponto de vista da infringência aos arts. 212 do CC/2002 e7º, 9º, 10 e 141 do CPC/2015, haja vista que a conclusão do Tribunal de origem se deu única e exclusivamente com base no fato de que não foi comprovada a notificação prévia direcionada ao segurado inadimplente, nos termos do art.13, parágrafo único, II, da Lei n. 9.656/1998, não havendo, portanto, o devido prequestionamento, tampouco foram opostos embargos de declaração na origem a fim de que o TJGO sanasse eventual omissão, contradição ou obscuridade, o que atrai o óbice das Súmulas 282 e 356 do STF.
+Ilustrativamente:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO. DISPOSITIVOS APONTADOS COMO VIOLADOS. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO STF.
+1. A matéria relativa aos arts. 480, §§ 1º e 2º, 873, III, do Código de Processo Civil não foi objeto de análise pelo Tribunal de origem.Ademais, o agravante não opôs embargos de declaração com o intuito de sanar eventual omissão.
+2. Desse modo, carece o tema do indispensável prequestionamento viabilizador do recurso especial, razão pela qual não merece ser apreciado, consoante o que preceituam as Súmulas 282 e 356 do Supremo Tribunal Federal.
+3. Agravo interno a que se nega provimento.(AgInt no AREsp n. 1.737.518/ES, relator Ministro OG FERNANDES, Segunda Turma, julgado em 18/5/2021, DJe de 9/6/2021)
+Outrossim, em relação ao precedente indicado para amparar o requisito do prequestionamento, impende registrar que, consoante iterativa jurisprudência desta Corte, a falta de prequestionamento impede o conhecimento do recurso lastreado, também, na alínea c do permissivo constitucional.
+A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO DECLARATÓRIA C/C PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA PARTE AUTORA.
+1. Não há falar em ofensa ao art. 1022 do CPC/15, porquanto todas as questões fundamentais ao deslinde da controvérsia foram apreciadas pelo Tribunal a quo, sendo que não caracteriza omissão ou falta de fundamentação a mera decisão contrária ao interesse da parte, tal como na hipótese dos autos.
+2. É inadmissível o recurso especial que não impugna fundamento do acórdão recorrido apto, por si só, a manter a conclusão a que chegou a Corte Estadual (enunciado 283 da Súmula do STF).
+3. A ausência de enfrentamento, pelo Tribunal de origem, da tese de que o dano moral seria in re ipsa impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula 282 e 356 do STF, aplicável por analogia.
+4. Os óbices das Súmulas 282/STF e 283/STF aplicam-se indistintamente aos recursos especiais apresentados com fundamento na alínea "a" e na alínea "c" do permissivo constitucional, restando prejudicada a análise do dissídio jurisprudencial alegado.
+5. Agravo interno desprovido.(AgInt no REsp n. 1.970.022/SP, relator Ministro MARCO BUZZI, Quarta Turma, julgado em 2/5/2022, DJe de 6/5/2022 - sem grifo no original)
+Diante do exposto, conheço do agravo para não conhecer do recurso especial.
+Deixo de majorar o valor dos honorários sucumbenciais fixados em favor do patrono da parte recorrida, porque já fixado no Tribunal de origem pelo percentual máximo de 20%.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZATÓRIA. 1. AUSÊNCIA DE PREQUESTIONAMENTO DE DISPOSITIVO OU TESE. SÚMULAS 282 E 356/STF. 2.AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
