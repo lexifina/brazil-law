@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de VOLNEY MACHADOem que se aponta como autoridade coatora oTribunal de Justiça do Estado do Paraná(HC n. 0034880-31.2022.8.16.0000).
+Opaciente teve a prisão em flagrante convertida em preventiva a pedido do Ministério Públicopor suposta prática do delito descrito no art. 33, caput, da Lei n. 11.343/2006.
+O decreto prisional fundou-se na quantidade dos entorpecentes apreendidos - 705gde maconha. -, na apreensão de R$ 7.431,00 emespécie, quantia fracionadae escondida em diversas cédulas pela residência do paciente, bem comona reincidência específica.
+Impetrado writ originário, a ordem foi denegada.
+A defesa alega que o paciente está sendo vítima de constrangimento ilegal, pois não estão preenchidos os requisitos da prisão preventiva na medida em queteria sido baseada na gravidade abstrata do delito, motivo pelo qual o decreto prisional careceria de fundamentação idônea.
+Afirma que a condenação pretérita do paciente por tráfico de drogasnão tem contemporaneidade com os fatos apurados nos autos, "estando ausente fatos novos ou contemporâneos que justifiquem a aplicação da medida cautelar extrema da prisão preventiva" (fl. 8).
+Aduz que o crime foi cometido sem violência ou grave ameaça à pessoa, bem como que "nem mesmo a quantidade de droga apreendida, isoladamente considerada, autorizaria o encarceramento cautelar" (fl. 10).
+Ressalta as condições pessoais favoráveis do paciente por teremprego lícito, família e residência em endereço certo no distrito da culpa, o que permitiria a substituição da segregação cautelar por medidas alternativas à prisão.
+Requer, liminarmente e no mérito, a expedição de alvará de soltura em favor do paciente ou a substituição da prisão preventiva por medidas cautelares alternativas.
+É o relatório. Decido.
+Ainda que inadequada a impetração dehabeas corpusem substituição à revisão criminal ou ao recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o STJ considera passível de correção de ofício o flagrante constrangimento ilegal.
+Nos casos em que a pretensão esteja em conformidade ou em contrariedade com súmula ou jurisprudência pacificada dos tribunais superiores, a Terceira Seção desta Corte admite o julgamento monocrático da impetração antes da abertura de vista ao Ministério Público Federal, em atenção aos princípios da celeridade e da efetividade das decisões judiciais, sem que haja ofensa às prerrogativas institucionais do parquet ou mesmo nulidade processual (AgRg no HC n. 674.472/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 10/8/2021; AgRg no HC n. 530.261/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 7/10/2019).
+Sendo essa a hipótese dos autos, passo ao exame do mérito da impetração.
+A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que comprovem a necessidade da medida extrema, nos termos dosarts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma,DJede 2/9/2020).
+Considerando o princípio da presunção de inocência, a excepcionalidade da custódia cautelar e seu caráter subsidiário, a prisão preventiva só deve ser determinada nos casos em que não for possível a aplicação de medida cautelar alternativa.
+No caso, está justificada a manutenção da preventiva, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP, não sendo recomendável a aplicação de medida cautelar referida no art. 319 do CPP. A propósito, assim se manifestou o Tribunala quo(fls. 38-45, destaquei):
+Forçoso reconhecer que a digna Magistrada da origem invocou, no decreto de prisão preventiva, a periculosidade do agente e a gravidade concreta do crime, citando particularidades do caso concreto mov. 27.1 da ação penal nº 0004123-52.2022.8.16.0130), verbis:
+ ..
+Através do excerto acima colacionado é possível vislumbrar que oarbitrium que converteu a prisão em flagrante do paciente em preventiva está devidamente amparado na garantia da ordem pública, tendo sido acertadamente mencionado pelo Juízo a quoaexpressiva quantidade de entorpecente confiscado.
+No caso, o paciente tinha em depósito e guardava, em tese, 705g (setecentos e cinco gramas) de maconha.
+Como cediço, a grande quantidade de entorpecente pode atingir um maior número de usuários, sendo argumento idôneo, portanto, a empregar maior reprovabilidade à conduta do agente.
+ ..
+De mais a mais, a partir do relatório gerado pelo Sistema "Oráculo", é possível notar que o Sr. possui, em seu desfavor, prévias condenações penais transitadas em julgado (VOLNEYmov.).
+ ..
+Outrossim, também se mostra contemporânea a prisão preventiva, porquanto fruto de conversão de flagrante delito, ocorrido dias antes. Ademais, o fato de o agente voltar a delinquir também é atual, eis que a reincidência, em tese, se configura com a prática do novo crime.
+ ..
+A despeito das assertivas de que o paciente ostenta condições pessoais favoráveis, taiscircunstâncias, per si, não autorizam o afastamento da cautela, máxime que o artigo 312 do Código de Processo Penal nada dispõe a esse respeito, emergindo claro que, presentes os requisitos expressamente elencados, deve a prisão ser decretada.
+Tendo a necessidade deprisão cautelar sido exposta de forma fundamentada e concreta, é incabível a substituição por medidascautelares mais brandas (RHC n. 133.153/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma,DJede 21/9/2020).
+Observa-se quea quantidade dos entorpecentes apreendidos - 705g de maconha-, a apreensão de R$ 7.431,00 em espécie, quantia fracionada e escondida em diversas cédulas pela residência do paciente, ea reincidência específicaforam os aspectos considerados pelo Juízo de primeiro grau e pelo Tribunal de origem para a decretação e manutenção da prisão preventiva.
+Ressalte-se que a apreensão de instrumentos geralmente utilizados nas atividades relacionadas ao tráfico de entorpecentes (balança de precisão, embalagens, caderno de anotações), de expressiva quantidade de dinheiro e de elevada quantidade e variedade de drogas evidencia o envolvimento habitual do agente com a narcotraficância (AgRg no HC n. 594.158/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 27/11/2020).
+Ademais, areincidência específica evidencia maior envolvimento dopacientecom a prática delituosa e constitui fundamento idôneo para amanutenção da custódia cautelar para garantia daordem pública, com o objetivo de conter a reiteração delitiva(HC n. 603.340/MS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma,DJede 21/9/2020).
+Outrossim, conforme a jurisprudência do STJ, não há falar em falta de contemporaneidade nas situações em que os atos praticados no processo respeitaram a sequência necessáriaàdecretação, em tempo hábil, de prisão preventiva devidamente fundamentada (HC n. 620.306/SP,relator Ministro Reynaldo Soares da Fonseca, Quinta Turma,DJede 27/11/2020).
+Por fim, importante não perder de vista queeventuais condições subjetivasfavoráveisdopaciente, como residência fixa e trabalho lícito, não impedem a prisão preventiva quando preenchidos os requisitos legais para sua decretação. Essa orientação está de acordo com a jurisprudência do STJ. Vejam-se os seguintes precedentes:AgRgno HC n. 585.571/GO, relator Ministro Joel IlanPaciornik, Quinta Turma,DJede 8/9/2020; e RHC n. 127.843/MG, relatora Ministra Laurita Vaz, Sexta Turma,DJede 2/9/2020.
+Portanto, não se constata a existência de flagrante constrangimento ilegal que autorize a atuação ex officio.
+Ante o exposto,com fundamento no art. 34, XX, do RISTJ,não conheço do presentehabeas corpus, ficando prejudicado o pedido de liminar.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
