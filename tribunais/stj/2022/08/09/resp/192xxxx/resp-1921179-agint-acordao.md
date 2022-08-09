@@ -1,0 +1,52 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro-Relator.
+Os Srs. Ministros Mauro Campbell Marques, Assusete Magalhães, Francisco Falcão e Herman Benjamin votaram com o Sr. Ministro Relator.
+EMENTA
+TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. RECONHECIMENTO DA PROCEDÊNCIA DO PEDIDO PELA UNIÃO.CONDENAÇÃO EM HONORÁRIOS DESCABIDA.
+1. Consoante o art. 19, § 1º, I, da Lei n. 10.522/2002, incluído pela Lei n. 12.844/2013, é isenta a Fazenda Nacional do pagamento de honoráriosquando manifesta concordância com o pedido em exceção de pré-executividade. Precedente:EREsp n. 1.849.898/PR, relator Ministro Manoel Erhardt, Primeira Seção, DJe de 20/5/2021).
+2. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno manejado contra decisão desta relatoria que negou provimento ao recurso especial.
+Os agravantes reiteram que "há que se reformar a r. decisão recorrida, a fim de que haja a reforma do v. Acórdão recorrido, com a condenação da Fazenda Nacional ao pagamento de honorários advocatícios sucumbenciais".
+É o relatório.
+EMENTA
+TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. RECONHECIMENTO DA PROCEDÊNCIA DO PEDIDO PELA UNIÃO.CONDENAÇÃO EM HONORÁRIOS DESCABIDA.
+1. Consoante o art. 19, § 1º, I, da Lei n. 10.522/2002, incluído pela Lei n. 12.844/2013, é isenta a Fazenda Nacional do pagamento de honoráriosquando manifesta concordância com o pedido em exceção de pré-executividade. Precedente:EREsp n. 1.849.898/PR, relator Ministro Manoel Erhardt, Primeira Seção, DJe de 20/5/2021).
+2. Agravo interno a que se nega provimento.
+VOTO
+Mantenho a decisão agravada.
+Dispõe o art. 19 da Lei n. 10.522/2002, no particular:
+Art. 19. Fica a Procuradoria-Geral da Fazenda Nacional dispensada de contestar, de oferecer contrarrazões e de interpor recursos, e fica autorizada a desistir de recursos já interpostos, desde que inexista outro fundamento relevante, na hipótese em que a ação ou a decisão judicial ou administrativa versar sobre:
+ ..
+II - tema que seja objeto de parecer, vigente e aprovado, pelo Procurador-Geral da Fazenda Nacional, que conclua no mesmo sentido do pleito do particular;
+§ 1ºNas matérias de que trata este artigo, o Procurador da Fazenda Nacional que atuar no feito deverá, expressamente:
+I - reconhecer a procedência do pedido, quando citado para apresentar resposta, inclusive em embargos à execução fiscal e exceções de pré-executividade, hipóteses em que não haverá condenação em honorários.
+Segundo o Tribunal regional: "Verifica-se que no caso em tela houve reconhecimento do pedido, por se tratar de matéria objeto de parecer vigente e aprovado pelo Procurador Geral da Fazenda Nacional, hipótese que se enquadra no inciso II do art. 19 da Lei n. 10.522/2002 e, como tal, exime a União Federal da condenação em honorários, nos termos do art. 19, § 1º, I, da Lei n. 10.522/2002".
+Posto isso, a jurisprudência desta Corte Superior é firme no sentido de que,"quando a Fazenda Nacional reconhece a procedência do pedido articulado nos embargos do devedor, fica isenta do pagamento de honorários de advogado, a teor do art. 19, § 1º, I, da Lei 10.522, de 2002" (AgRg nos EDcl no REsp 1.231.971/RS, relator MinistroAri Pargendler, Primeira Turma,DJe de 19/3/2014).
+Quanto à divergência, vejam-se recentes decisões que solucionaramcontrovérsia idêntica no sentido do acórdão recorrido:
+TRIBUTÁRIO E PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA NO RECURSO ESPECIAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. RECONHECIMENTO DA PROCEDÊNCIA DO PEDIDO PELA FAZENDA NACIONAL. EXTINÇÃO DA EXECUÇÃO FISCAL. CONDENAÇÃO EM HONORÁRIOS DESCABIDA. ATUAL REDAÇÃO DO ART.19, § 1º, DA LEI 10.522/2002, PROMOVIDA PELA LEI 12.844/2013.PARADIGMA PROFERIDO NOS ERESP 1.215.003/RS: AUSÊNCIA DE SIMILITUDE ENTRE OS ACÓRDÃOS CONFRONTADOS. PARADIGMA PROFERIDO NO RESP1.770.947/CE: DIVERGÊNCIA JURISPRUDENCIAL SUPERADA. INCIDÊNCIA DA SÚMULA 168/STJ. EMBARGOS DE DIVERGÊNCIA DO PARTICULAR NÃO CONHECIDOS.
+1. No caso em análise, o cerne da controvérsia diz respeito ao cabimento de honorários advocatícios fixados em Exceção de Pré-Executividade quando extinta a Execução Fiscal em decorrência do reconhecimento do pedido pelo Fisco.
+2. No acórdão ora embargado, a Segunda Turma reconheceu que, à época da prolação da sentença extintiva do feito executivo, já se encontrava em vigor a Lei 12.844/2013, que deu nova redação ao art. 19, § 1º, I, da Lei 10.522/2002, dispensando expressamente a Fazenda Nacional do pagamento de honorários advocatícios nos casos em que o ente público reconhece a procedência do pedido quando citado para apresentar resposta em sede de Embargos à Execução ou de Exceção de Pré-Executividade.
+3. O acórdão da Primeira Seção invocado como divergente (EREsp 1.215.003/RS) tratou da questão acerca do arbitramento de honorários à luz da redação original do art. 19 da Lei 10.522/2002, e não da mencionada Lei 12.844/2013, que só veio a ser implementada em 2013, ou seja, após o julgamento do referido paradigma, publicado em 16.4.2012.
+4. Logo, o tema apreciado no acórdão paradigma tem peculiaridade diversa, notadamente porque proferido quando inexistente norma eximindo a Fazenda Nacional do pagamento de honorários quando houvesse anuência ao pedido deduzido em ação contra ela proposta, o que ocorreu com a entrada em vigor da Lei 12.844/2013.
+5. Como se vê, as teses jurídicas manifestadas no acórdão embargado e nesse paradigma não são divergentes, sendo certo que a solução adotada por eles é diversa em virtude da dessemelhança entre a legislação vigente à época em que submetidos à apreciação desta Corte Superior, contexto que inviabiliza o conhecimento dos Embargos de Divergência.
+6. Por sua vez, o precedente oriundo da Primeira Turma (REsp 1.770.947/CE) adotou o entendimento de que o art. 19, § 1o. da Lei 10.522/2002 não se aplica ao procedimento regido pela Lei 6.830/1980. Ou seja, não obstante o reconhecimento da procedência do pedido, por parte do ente público, será possível a condenação do Fisco ao pagamento da verba honorária, em respeito ao princípio da causalidade.
+7. Ao que se verifica, houve interpretação do tema à luz do art. 19, § 1º, da Lei 10.522/2002 em sua redação pretérita, não obstante o julgamento do caso tenha ocorrido após as alterações promovidas pela Lei 12.844/2003. Todavia, ainda que se reconheça a diversidade de teses, impõe-se considerar que a interpretação acerca do referido dispositivo encontra-se superada, haja vista que a jurisprudência atual de ambas as turmas integrantes da Primeira Seção do STJ é unânime quanto à isenção ao pagamento de honorários sucumbenciais quando a Fazenda nacional manifesta concordância com os argumentos defendidos pelo executado/excipiente, em momento posterior à entrada em vigor da Lei 12.844/2013.
+8. Precedentes: AgInt no REsp 1.843.323/RS, Rel. Min. GURGEL DE FARIA, DJe 17/03/2021; AgInt no REsp 1.851.216/PE, Rel. Min.FRANCISCO FALCÃO, DJe 18/11/2020; AgInt no REsp 1.850.404/SC, Rel.Min. HERMAN BENJAMIN, DJe 12/11/2020; AgInt no REsp 1.871.998/ES, Rel. Min. REGINA HELENA COSTA, DJe 23/09/2020; AgInt no AgInt no REsp 1.648.462/MG, Rel. Min. OG FERNANDES, DJe 11/02/2020; AgInt no AREsp 1.544.450/RJ, Rel. Min. MAURO CAMPBELL MARQUES, DJe 12/12/2019; AgInt no AgInt no AREsp 886.145/RS, Rel. Min. BENEDITO GONÇALVES, DJe 14/11/2018.
+9. Com efeito, o Novo Código de Processo Civil, em seu inciso I do art.
+1.043, restringiu a admissibilidade dos Embargos de Divergência às hipóteses em que resta comprovada a dissidência jurisprudencial atual, ou seja, superada a tese defendida no acórdão paradigma, não se conhece dos Embargos de Divergência.
+10. Nesse cenário, o acórdão embargado espelha o posicionamento atual e unânime do Superior Tribunal de Justiça, de modo que incide a orientação constante do verbete sumular n. 168/STJ, à luz do qual não cabem Embargos de Divergência, quando a jurisprudência do Tribunal se firmou no mesmo sentido do acórdão embargado.
+11. Embargos de Divergência do particular não conhecidos.
+(EREsp n. 1.849.898/PR, relator Ministro MANOEL ERHARDT - - DESEMBARGADOR CONVOCADO DO TRF-5ª REGIÃO, PRIMEIRA SEÇÃO, julgado em 12/5/2021, DJe de 20/5/2021).
+PROCESSUAL CIVIL. RECURSO ESPECIAL. PRINCÍPIO DA COLEGIALIDADE.VIOLAÇÃO. INEXISTÊNCIA. RECONHECIMENTO DO PEDIDO PELA FAZENDA NACIONAL. HONORÁRIOS ADVOCATÍCIOS. ISENÇÃO. CPC/2015. LEI ESPECIAL SOBRE A LEI GERAL. PREVALÊNCIA.
+1. Aos recursos interpostos com fundamento no CPC/2015 (relativos a
+decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC (Enunciado n. 3 do Plenário do STJ).
+2. A leitura conjugada do art. 932, VIII, do CPC/2015, com o art.255, §
+4º, I, do RISTJ, bem como da Súmula 568 desta Corte Superior, permite extrair que o relator está autorizado a não conhecer de recurso especial se a decisão recorrida estiver em conformidade com a jurisprudência consolidada do Superior Tribunal de Justiça, como na hipótese dos autos, por incidência da Súmula 83 do STJ.
+3. O Superior Tribunal de Justiça firmou a orientação de que, "de acordo com a atual redação do inciso I do § 1º do art. 19 da Lei 10.522/2002, que foi dada pela Lei 12.844/2013, a Fazenda Nacional é isenta da condenação em honorários de sucumbência nos casos em que, citada para apresentar resposta, inclusive em embargos à execução fiscal e em exceções de pré-executividade, reconhecer a procedência do pedido nas hipóteses dos arts. 18 e 19 da Lei 10.522/2002" (AgInt no AgInt no AREsp 886.145/RS, Rel. Ministro Benedito Gonçalves, Primeira Turma, julgado em 06/11/2018, DJe 14/11/2018).
+4. A Lei n. 10.522/2002 é especial quando versa sobre dispensa da condenação da Fazenda Nacional ao pagamento de honorários advocatícios, nos casos em que reconhecer a procedência do pedido, quando citada para apresentar resposta, inclusive em embargos à execução fiscal e exceções de pré-executividade, de modo que não deve ser observada, nessas hipóteses, a regra geral de fixação dessa verba em desfavor da Fazenda Pública, de que cuida o art. 85 do CPC/2015.
+5. Agravo interno desprovido.
+(AgInt no REsp n. 1.843.323/RS, relator MinistroGURGEL DE FARIA, PRIMEIRA TURMA, julgado em 8/3/2021, DJe de 17/3/2021).
+A pretensão dos recorrentes, que buscam afastar isenção incluída pela Lei n. 12.844/2013, esbarra na cláusula de reserva de plenário.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
