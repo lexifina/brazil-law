@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de embargos de divergência em recurso especial interpostos por AUTO POSTO MASTER LTDA. contraacórdão da Quarta Turmaassim ementado:
+AGRAVO INTERNO. RECURSO ESPECIAL. AÇÃO DE CANCELAMENTO DE MATRÍCULAS C/C NULIDADE DE DESMEMBRAMENTO DE IMÓVEL. INTERESSADO. POSSEIRO. ILEGITIMIDADE ATIVA. LEI 6.015/1973, ART. 214. DIREITO REAL. INEXISTÊNCIA. ENUNCIADO 83 DA SÚMULA DO STJ. INOVAÇÃO NO RECURSO. IMPOSSIBILIDADE.
+1. Entendimento do Tribunal de Justiça em harmonia com a jurisprudência da Quarta Turma do STJ no REsp 1.273.955/RN (Rel. Ministro Luis Felipe Salomão, unânime, DJe de 15.8.2014), no sentido de que o mero interessado não tem legitimidade ativa para discutir a regularidade da matrícula do bem imóvel por ele ocupado na condição de posseiro, por não ser detentor de direito real que o habilite. Incidência da Súmula 83/STJ.
+2. Em agravo interno é defesa a inovação das razões do especial, com apresentação de julgados divergentes não submetidos, no momento oportuno, aos requisitos do art. 541 do Código de Processo Civil revogado.
+3. Agravo interno a que se nega provimento.
+O recurso tem origem em ação de cancelamento de matrícula c/c nulidade de desmembramento de imóveljulgada procedente em parte pela sentença de primeiro grau. Em apelação, foi acolhida preliminar de ilegitimidade ativado mero possuidor para discutir matérias afetas ao registro de imóvel por ele ocupado, sendo-lhe facultado apenas, em disputa possessória, fundar-se em eventual irregularidade do título de domínio apresentado pelo suposto proprietário.
+Seguiu-se a interposição de recurso especial pela alínea ado permissivo constitucional, apontando ofensa ao art. 214 da Lei n. 6.015/1973, ao argumento deque o dispositivo não faz nenhuma oposição à legitimidade do possuidor de intentar ação para anular registros viciados, além de prever que o título público poderá ser invalidado"independentemente de ação direta".
+Admitido na origem, vieram os autos ao STJ. A Ministra relatora conheceu do recurso especial e negou-lhe provimento por decisão monocrática, consignando que,"apesar de a redação do dispositivo legal não consignar de forma explícita, não é possível a qualquer interessado formular pretensão de nulidade de registro, pois mesmo a declaração de ofício pressupõe a tramitação de ação própria, em que as condições de tramitação da demanda estejam satisfeitas" (fl. 1.661).
+O agravo interno foi desprovido por incidência da Súmula n. 83 do STJ.
+A embargante afirma que o acórdão embargado, não obstantereconhecer que a redação do dispositivo legal (art. 214 da Lei 6.015/73) não consigna, de forma explícita, nenhumalimitação de legitimados ativos para a propositura da demanda ali prevista, mesmo assim, impôs interpretação restritiva à norma. Ao fazê-lo, segundo alega, divergiu dos julgados abaixo relacionados no tocante à aplicação da regra tradicional de hermenêuticasegundo a qual,"onde a lei não distingue, não pode o intérprete distinguir":
+- REsp n. 853.086/RS, da Primeira Turma, DJe de 12/2/2009;
+- REsp n. 663.562/RJ, da Segunda Turma, DJ de 5/9/2005; e
+- REsp n. 944.138/PR, DJe de 15/6/2009, e REsp n. 643.342/PE, DJ de 11/9/2006,ambos da Quinta Turma.
+Os embargos não merecem conhecimentopor ausência de similitude fática entre os arestos confrontados. É que os paradigmas colacionados interpretaram outros dispositivos legais que não guardam relação com aquele objeto de interpretação pelo acórdão embargado.
+Ante o exposto, nos termos do art. 266-C do RISTJ,rejeito liminarmente os embargos de divergência.
+Publique-se. Intimem-se.
