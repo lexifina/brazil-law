@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Jesuíno Rissato (Desembargador Convocado do TJDFT), João Otávio de Noronha, Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Trata-se de agravo regimental interposto por VINICIUS MONTEIRO JUNQUEIRA contra a decisão de fls. 99/102, a qualnão conheceu do presente habeas corpus, tendo em vista a existência de supressão de instância e reiteração de pedidos, respectivamente, em relação às teses de violação de domicílio e indevido agravamento do regime prisional.
+O agravante sustenta que a nulidade decorrente da violação de domicílio pode ser apreciada por esta Corte, mesmo que não analisada pelo Tribunal de origem, por se tratar de matéria de ordem pública. Também alega que a minorante do§ 4º e o regime prisional, matérias analisadas em writ anterior, podem ser reapreciadas, visto que este causídico as apresenta sob outraótica e perspectiva.
+Requer a reconsideração da decisão agravada ou o julgamento do recurso pelo órgão colegiado, para que seja reconhecida a nulidade das provas pela ocorrência de violação de domicílio e, subsidiariamente, aplicada a referida causa de diminuição de pena (§ 4º), bem como fixado regime prisional mais brando.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NOHABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. ALEGAÇÃO DE NULIDADE EM RAZÃO DE VIOLAÇÃO DE DOMICÍLIO. SUPRESSÃO DE INSTÂNCIA. INCIDÊNCIA DO § 4º DO ART. 33 DA LEI DE DROGAS. INOVAÇÃO RECURSAL. REGIME PRISIONAL. REITERAÇÃO DE PEDIDO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Ohabeas corpus não merece ser conhecido, pois foi impetrado em substituição ao recurso próprio. Nesse sentido: AgRg no HC n. 745.831/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 21/6/2022, DJe de 27/6/2022.
+2. Aalegação de violação de domicílio não foi apresentada pela defesa nas razões da apelação, motivo pelo qual não foi apreciada pelo Tribunal a quo, impedindo a sua análise diretamente por esta Corte, tendo em vista a impossibilidade de supressão de instância.
+"Na instância especial, ainda que se entenda se tratar de matéria de ordem pública, não há como se dispensar o necessário debate acerca das questões controvertidas" (HC 470.704/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 3/12/2019, DJe de 11/12/2019).
+3. Configura inovação recursal a pretensão de incidência da minorante do § 4º do art. 33 da Lei de Drogas, matéria não alegada na petição inicial do presente habeas corpus.
+Mesmo que assim não fosse, o tema foi apreciado, juntamente com o regime prisional, no HC n. 638.754/SP, constituindo, assim, indevida reiteração de pedidos.
+4. Agravo regimental desprovido.
+VOTO
+Consta dos autos que o agravantefoi condenado, em primeiro grau, à pena de 5 anos e 10 meses de reclusão, no regime inicial fechado, pela prática do delito de tráfico de drogas (art. 33,caput, da Lei n. 11.343/06). Em apelação da defesa, o Tribunala quoreduziu a pena para 5 anos de reclusão, mantendo o regime fechado,nos termos da seguinte ementa:
+"Apelação. Crime de tráfico de drogas. Sentença condenatória. 1. Quadro probatório suficiente a evidenciar a responsabilidade penal do acusado pelo crime de tráfico de drogas, sem a incidência da regra prevista no artigo 33, par4º, da Lei nº 11.343/06. 2. Sanção que comporta redução, com manutenção do regime inicial fechado para a pena privativa de liberdade. Recurso parcialmente provido."(fl. 65)
+Conforme asseverado na decisão agravada, ohabeas corpus não merece ser conhecido, pois foi impetrado em substituição ao recurso próprio. Nesse sentido: AgRg no HC n. 745.831/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 27/6/2022.
+Ademais, a alegação de violação de domicílio não foi apresentada pela defesa nas razões da apelação, motivo pelo qual não foi apreciada pelo Tribunal a quo, impedindo a sua análise diretamente por esta Corte, tendo em vista a impossibilidade de supressão de instância.
+Ressalta-se que,"na instância especial, ainda que se entenda se tratar de matéria de ordem pública, não há como se dispensar o necessário debate acerca das questões controvertidas"(HC 470.704/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 3/12/2019, DJe de 11/12/2019).
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. WRIT INDEFERIDO LIMINARMENTE. CRIME DE TRÁFICO DE DROGAS. CONDENAÇÃO TRANSITADA EM JULGADO. NULIDADE. INVASÃO DOMICILIAR. MATÉRIA NÃO EXAMINADA PELA CORTE DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. PRECEDENTES DO STJ. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Como é de conhecimento, o prequestionamento das teses jurídicas constitui requisito de admissibilidade da via, inclusive em se tratando de matérias de ordem pública, sob pena de incidir em indevida supressão de instância e violação da competência constitucionalmente definida para esta Corte Superior.
+2. No caso, a tese de nulidade do feito em razão da suposta invasão domiciliar pela polícia não foi submetida e, por consequência, não foi debatida pela Corte local, tanto no julgamento da apelação, tampouco no julgamento dos embargos infringentes, de modo que o tema não pode ser examinado diretamente por esta Corte Superior, sob pena de incidir-se em indevida supressão de instância.
+3. Por fim, ressalta-se que: De acordo com a jurisprudência desta Corte Superior, até mesmo as nulidades absolutas devem ser objeto de prévio exame na origem a fim de que possam inaugurar a instância extraordinária  ..  (AgRg no HC 720.256/MS, Rel. Ministro SEBASTIÃO REIS JÚNIOR, Sexta Turma, julgado em 22/2/2022, DJe de 25/2/2022).
+4. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 732.589/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 26/4/2022, DJe de 29/4/2022).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. VIOLAÇÃO DE DOMICÍLIO. MATÉRIA ÃO APRECIADA PELA CORTE DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. IMPOSSIBILIDADE DE ABSOLVIÇÃO. REINCIDÊNCIA ESPECÍFICA. FRAÇÃO. ARGUMENTO CONCRETO. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A tese de ocorrência de violação de domicílio não foi examinada pela Corte de origem, a sublinhar a impossibilidade de exame do pedido pelo Superior Tribunal de Justiça, sob pena de incorrer em indevida supressão de instância.
+2. As instâncias ordinárias, após toda a análise do conjunto fático-probatório amealhado aos autos, concluíram pela existência de elementos concretos e coesos a ensejar a condenação do acusado pelo crime de tráfico de drogas (art. 33 da Lei n. 11.343/2006). Por essas razões, mostra-se inviável a absolvição do agravante, sobretudo em se considerando que, no processo penal, vigora o princípio do livre convencimento motivado, em que é dado ao julgador decidir o mérito da pretensão punitiva, para condenar ou absolver, desde que o faça fundamentadamente, tal como ocorreu no caso.
+3. A Sexta Turma desta Corte Superior de Justiça considera que a reincidência específica constitui fundamento hábil a justificar a exasperação da reprimenda, na segunda etapa da dosimetria, em fração superior a 1/6.
+4. Agravo regimental não provido.
+(AgRg no HC n. 667.716/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 3/3/2022).
+Por outro lado, configura inovação recursal a pretensão de incidência da minorante do § 4º do art. 33 da Lei de Drogas, matéria não alegada na petição inicial do presente habeas corpus. Mesmo que assim não fosse, o tema foi apreciado, juntamente com o regime prisional, noHC n. 638.754/SP,constituindo, assim, indevida reiteração de pedidos,conforme se extrai dos seguintes trechos:
+" ..  O acórdão impugnado está em consonância com o entendimento desta Corte de que aquantidadedas drogas apreendidas, especialmente quando atreladaa outras circunstâncias (forma de acondicionamento, natureza e variedade do entorpecente, local emodus operandido delito, ausência de ocupação lícita do agente, etc.), indicaa dedicação ao tráfico de drogas, impedindo, assim, a aplicação do § 4º.
+Ademais, é necessário o reexame de todo o conjunto fático-probatório para se chegar à conclusão de que o ora paciente faz jus à referida minorante, o que é vedado emhabeas corpus.
+ ..
+Por fim, ressalta-se que a quantidade e a natureza da droga demonstrama gravidade concreta do delito, justificando, por força do princípio da individualização da pena, o agravamento do aspecto qualitativo (regime) da pena.
+ .. "
+(HC n. 638.754/SP, de minha relatoria, Quinta Turma, julgado em 23/3/2021, DJe de 5/4/2021).
+Ante o exposto, voto pelo desprovimento do agravo regimental.
