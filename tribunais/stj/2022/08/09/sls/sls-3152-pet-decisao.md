@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de pleito da ASSOCIAÇÃO BRASILEIRA DE DISTRIBUIDORES DE ENERGIA ELÉTRICA - ABRADEE de ingresso na presente suspensão de liminar e de sentença na qualidade de amigo da corte.
+Requereram o ingresso na demanda na qualidade de amigos da corte, com o objetivo de contribuir com o aprofundamento da cognição jurisdicional, mediante a apresentação de fatos, dados técnicos e elementos científicos, que consideram relevantes para o melhor julgamento da causa, destacando que todas as concessionárias de distribuição de energia elétrica, associadas da requerente, sofrerão as consequências da decisão impugnada, em decorrência dos impactos financeiros estimados que superam 1,1 bilhão de reais de encargos, segundo alega, a serem suportados pelos consumidores de energia elétrica.
+É, no essencial, o relatório. Decido.
+Além da falta de previsão legal para a autorização de tal modalidade de intervenção de terceiros na suspensão de liminar e de sentença, é firme a jurisprudência no sentido de que o ingresso na qualidade de amigo da corte é incompatível com os contornos excepcionais da suspensão de segurança e da suspensão de liminar e de sentença, sob pena de desvirtuamento da disciplina normativa. (PETREQ na SS n. 2.574/AP, relator Ministro Ari Pargendler, DJe de 8/6/2012; SLS n. 2.049/SP, relator Ministro Francisco Falcão, DJe de 20/11/2015; e PETREQ na SLS n. 1.652/BA, relator Ministro Felix Fischer, DJe de 21/11/2012).
+Nesse sentido, trago à colação precedente elucidativo desta Corte:
+AGRAVO REGIMENTAL NA PETIÇÃO NO AGRAVO EM RECURSO ESPECIAL. INTERVENÇÃO DE AMICUS CURIAE. DESCABIMENTO.
+1. Não estando o presente recurso submetido ao rito dos recursos repetitivos e nem se incluindo na hipótese de multiplicidade de demandas similares a demonstrar a generalização da decisão, não há previsão legal para a inclusão do Conselho Federal da Ordem dos Advogados do Brasil - CFOAB na condição de amicus curiae, notadamente porquanto em discussão direito individual ao recebimento de verba advocatícia.
+2. Agravo regimental a que se nega provimento. (AgRg na Pet no AREsp n. 151.885/PR, relatora Ministra Maria Isabel Gallotti, DJe de 4/2/2013, grifo meu.)
+O entendimento do Supremo Tribunal Federal não difere da orientação aqui destacada do Superior Tribunal de Justiça:
+AGRAVO REGIMENTAL. SUSPENSÃO DE SEGURANÇA. ASSISTÊNCIA. AMICUS CURIAE. DESCABIMENTO.
+1. Consolidação da jurisprudência do Supremo Tribunal Federal no sentido de não ser admissível assistência em mandado de segurança, porquanto o art. 19 da Lei 1.533/51, na redação dada pela Lei 6.071/74, restringiu a intervenção de terceiros no procedimento do writ ao instituto do litisconsórcio.
+2. Descabimento de assistência em suspensão de segurança, que é apenas uma medida de contracautela, sob pena de desvirtuamento do arcabouço normativo que disciplina e norteia o instituto da suspensão (Leis 4.348/64, 8.437/92 e 9.494/97).
+3. Pedido de participação em suspensão na qualidade de amicus curiae que não foi objeto da decisão ora agravada, além de ser manifestamente incabível.
+4. Agravo regimental improvido. (SS n. 3.273-AgR-segundo, relatora Ministra Ellen Gracie, Tribunal Pleno, DJe de 19/6/2008, grifo meu.)
+Diante do exposto, indefiro o pedido de intervenção no processo como amigo da corte.
