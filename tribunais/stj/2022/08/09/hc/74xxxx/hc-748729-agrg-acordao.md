@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+RELATÓRIO
+JONAS MICHEL PELENTIER ZELASKI interpõe agravo regimentalcontra a decisão de fls. 201-204, que negou provimento ao recurso ordinário emhabeas corpuspor eleinterposto contra acórdão do Tribunal de Justiça do Estado de Santa Catarina (HC n. 5024371-31.2022.8.24.0000), julgando prejudicado o pedido de liminar.
+O agravante teve a prisão em flagrante - ocorrida no dia 26/4/2022 - convertida em preventiva a pedido do Ministério Público pela suposta prática do delito descrito no art. 33, caput, da Lei n. 11.343/2006.
+Nas razões deste recurso, oagravante insiste na tese de que a decretação da prisão preventiva carece de fundamentação idônea. Alega que não estão preenchidos os requisitos da custódia cautelar. Ademais, afirma que a gravidade abstrata do delito não pode ser o fundamento da prisão preventiva.
+Argumenta que possui condições pessoais favoráveis e que a quantidade de entorpecentes apreendida não demonstra a inclinaçãopara a reiteração delitiva.
+Requer a reconsideração da decisão agravada ou o provimento do recurso e, consequentemente, a concessão da ordem para revogar a custódia cautelar.
+O Ministério Público do Estado de Santa Catarinaapresentou impugnaçãoàs fls. 226-233.
+O Ministério Público Federal apresentou parecer pelo desprovimento do agravo regimental (fls. 221-224).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NOHABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. PRISÃO PREVENTIVA. REVOGAÇÃO. IMPOSSIBILIDADE. PREENCHIMENTO DOS REQUISITOS LEGAIS. GARANTIA DA ORDEM PÚBLICA.CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. GRAVIDADE DA CONDUTA.DECISÃO FUNDAMENTADA. AGRAVO REGIMENTAL DESPROVIDO.
+1.A imprescindibilidade da prisão preventiva justificada no preenchimento dos requisitos dos arts. 312, 313 e 315 do CPP impede a aplicação das medidas cautelares alternativas previstas no art. 319 do CPP.
+2.São fundamentos idôneos para a decretação da segregação cautelar no caso de tráfico ilícito de entorpecentes a quantidade, a variedade ou a natureza das drogas apreendidas, bem como a gravidade concreta do delito, o modus operandi da ação delituosa e a periculosidade do agente.
+3. A apreensão de instrumentos geralmente utilizados nas atividades relacionadas ao tráfico de entorpecentes (balança de precisão, embalagens, caderno de anotações), de expressiva quantidade de dinheiro e de elevada quantidade e variedade de drogas evidencia o envolvimento habitual do agente com a narcotraficância.
+4.As condições pessoais favoráveis do agente não impedem, por si sós, a manutenção da segregação cautelar devidamente fundamentada.
+5. Agravo regimental desprovido.
+VOTO
+A decisão agravada deve ser mantida.
+A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 2/9/2020).
+No caso, está justificada a manutenção da preventiva, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP, não sendo recomendável a aplicação de medida cautelar referida no art. 319 do CPP. É o que se extrai dos seguintes excertos da decisão agravada (fl. 202):
+ ..  A propósito, assim se manifestou o Tribunal a quo (fls. 192-193, destaquei):
+No que tange ao periculum libertatis, entendo que a manutenção da segregação se faz efetivamente necessária para a garantia da ordem pública, tendo em conta a gravidade da conduta imputada ao paciente que, em tese, foi preso em flagrante na posse de considerável quantidade de drogas (500 gr. de maconha) e admitiu para a autoridade policial que vem praticando o comércio espúrio há algum tempo, aproximadamente a um mês, que vendia a droga por R$ 2,00 o grama, e que busca seu "fornecimento" em Florianópolis, além de se utilizar de uma balança de precisão emprestada para fracionar e pesar as drogas.
+No entanto, ausente fundamento concreto apto a sustentar a imposição ou a manutenção da prisão preventiva com fulcro na necessidade de assegurar a instrução criminal e a aplicação da lei penal, ficam esses fundamentos excluído do comando cautelar de prisão.
+Desta feita, mantida a prisão com base na necessidade de se garantir a ordem pública.
+Tais elementos concretos permitem a conclusão no sentido da necessidade de se resguardar a ordem pública e de se oferecer pronta e eficaz resposta ao indiciado e à sociedade a respeito do ocorrido.
+Afora isso, o tráfico ilícito de entorpecentes é delito equiparado a hediondo, que gera relevante perturbação na sociedade ao disseminar infelicidade nos lares e fomentar a prática de outros delitos, o que caracteriza severo prejuízo à ordem pública.
+ ..
+Ademais, oportuno salientar que o fato de o paciente ostentar predicados favoráveis não é suficiente para que possa responder em liberdade.
+No presente caso, a quantidade do entorpecente apreendida- 500 g de maconha - , o riscode reiteração delitiva, a gravidade concreta da conduta, bem como a ausência de comprovação de ocupação lícita foram considerados pelo Juízo de primeiro grau para a decretação da prisão preventiva.
+Esse entendimento está em consonância com a jurisprudência da Quinta Turma de que a quantidade, a variedade ou a natureza das drogas apreendidas servem de fundamento para a decretação da prisão preventiva (AgRg no RHC n. 131.420/MS, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 30/9/2020; e AgRg no HC n. 590.807/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 28/9/2020).
+No mesmo sentido, o Supremo Tribunal Federal assentou que "a gravidade concreta do crime, o modus operandi da ação delituosa e a periculosidade do agente, evidenciados pela expressiva quantidade e pluralidade de entorpecentes apreendidos, respaldam a prisão preventiva para a garantia da ordem pública" (HC n. 130.708/SP, relatora Ministra Cármen Lúcia, Segunda Turma, DJe de 6/4/2016).
+Ademais, a decisão está em consonância com a jurisprudência do STJ de que "a gravidade concreta do crime como fundamento para a decretação ou manutenção da prisão preventiva deve ser aferida, como no caso, a partir de dados colhidos da conduta delituosa praticada pelo agente, que revelem uma periculosidade acentuada a ensejar uma atuação do Estado cerceando sua liberdade para garantia da ordem pública, nos termos do art. 312 do Código de Processo Penal" (HC n. 596.566/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 4/9/2020).
+Não há que se falar, pois, em inidoneidade de fundamentação, uma vez que a jurisprudência do STJ considera a gravidade concreta do crime em tese cometido e o risco de reiteração delitiva como fundamentos aptos a amparar a decretação da custódia cautelar para garantia da ordem pública.
+Ressalte-se que a apreensão de instrumentos geralmente utilizados nas atividades relacionadas ao tráfico de entorpecentes (balança de precisão, embalagens, caderno de anotações), de expressiva quantidade de dinheiro e de elevada quantidade e variedade de drogas evidencia o envolvimento habitual do agente com a narcotraficância (AgRg no HC n. 594.158/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 27/11/2020).
+Eventuais condições subjetivas favoráveis doagravante, como residência fixa e trabalho lícito, não impedem a prisão preventiva quando preenchidos os requisitos legais para sua decretação. Essa orientação está de acordo com a jurisprudência do STJ. Vejam-se os seguintes precedentes: AgRg no HC n. 585.571/GO, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 8/9/2020; e RHC n. 127.843/MG, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 2/9/2020.
+Assim, ao contrário das razões defendidas pela defesa, a prisão preventiva do paciente encontra-se devidamente fundamentada, porquanto decorre dos elementos colacionados aos autos e de circunstâncias que foram bem explicitadas pelo Juízo de primeiro grau, de modo que não há falar em violação ao disposto no art. 315, caput, do CPP.
+Inviáveis, portanto, as teses recursais suscitadas.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
