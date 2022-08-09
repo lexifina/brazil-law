@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo interposto por ITELVINA DE FATIMA VIVAN RAMOS e SERGIO ANTONIO SCHMITH RAMOScontra decisão que, na origem, não admitiu o processamento do recurso especial, interposto contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, a seguir ementado (e-STJ, fls. 1.285-1.286):
+APELAÇÃO CÍVEL. AÇÃO ANULATÓRIA DE CESSÃO DE DIREITOS HEREDITÁRIOS. EXERCÍCIO DE DIREITO DE PREFERÊNCIA. INAPLICABILIDADE.
+CONSOANTE A JURISPRUDÊNCIA DESTA CORTE E DO STJ, INVIÁVEL A APLICAÇÃO DOS ARTIGOS 504, 1.794 E 1.795 DO CÓDIGO CIVIL AO CASO EM TELA, PORQUANTO A CESSÃO DE DIREITOS OBJETO DO PEDIDO DE ANULAÇÃO OCORREU ENTRE HERDEIROS, LIMITANDO-SE OS ALUDIDOS DISPOSITIVOS LEGAIS A PROTEGER A ALIENAÇÃO DO BEM COMUM A TERCEIROS.
+APELO DESPROVIDO. UNÂNIME.
+Os embargos de declaração opostos contra o acórdão foram rejeitados (e-STJ, fls. 1.320-1.321).
+Nas razões de recurso especial (e-STJ, fls. 1.339-1.345), interposto com fundamento no art. 105, inciso III, alíneaa, da Constituição Federal, osrecorrentes alegaramaviolação aos arts. 504, 1.794 e 1.795, todosdo CC/2002.
+Sustentaram que são proprietários de uma fração ideal do lote recebido por força de herança, inclusive do imóvel construído no local, onde residem há mais de quarenta anos, razão pela qualpossuem o direito à preferência na aquisição da parte dos coerdeiros frente aos demais que sequer residem no imóvel, tampouco contribuíram para as construções realizadas.
+Defenderam a nulidade da cessão de direitos hereditários operada entre os recorridos, sem sua ciência.
+Foram apresentadas contrarrazões(e-STJ, fls. 1.371-1.377).
+O recurso especial não foi admitido na origem (e-STJ, fls. 1.381-1.385).
+Interposto o presente agravo, os autos foram remetidos a este Superior Tribunal de Justiça.
+É o relatório. Decido.
+Com relação à matéria, o acórdão recorrido consignou os seguintes fundamentos (e-STJ, fls. 1.282-1.284):
+Pretendem os recorrentes seja reformada a sentença de improcedência, anulando-se acessão de direitos hereditários operada entre os demandados, sem sua ciência.
+De plano, contudo, necessário ressaltar que não incide a regra do art. 504 do Código Civil ao caso concreto, uma vez que a cessão de direitos hereditários não ocorreu a estranhos, mas entre os coerdeiros. Assim, não há falar em exercício do direito de preferência, senão veja-se:
+ ..
+Como se percebe, a inaplicabilidade do direito de preferência entre herdeiros decorre justamente porque os arts. 504 e 1.794 do Código Civil visam a impedir o ingresso de terceiros estranhos à comunhão, o que poderia ser potencialmente conflituoso. Na hipótese, havendo acessão/venda entre herdeiros, não há falar em exercício de preferência.
+Assim, flagrantemente a pretensão dos autores não prospera, porquanto inaplicável o pedido de exercício de direito de preferência que embasa a causa de pedir, sendo corolário disto a improcedência do pedido de anulação da escritura pública de cessão.
+Ademais, não há provas de que Sergio tenha adquirido o imóvel objeto da lide, como afirmam os apelantes em seu recurso, especialmente porque o bem foi registrado em nome deJorvino (R1 da matrícula 2.648 do RI de Caxias do Sul). Os demais argumentos trazidos não têm ocondão de afastar a inaplicabilidade dos artigos 504, 1.794 e 1.795 do Código Civil ao caso em tela,impondo-se a manutenção da sentença de improcedência.
+Constata-se que o colegiado estadual reconheceu que a venda entre herdeiros não gera o direito à preferência, além de entender que não ficou comprovada a aquisição do bem imóvel pelos recorrentes.
+O entendimento adotado pelo Tribunal de Justiça encontra ressonância na jurisprudência desta Corte Superior, no sentido de que"em não havendo extinção do condomínio, é dado ao condômino escolher a qual outro condômino vender a sua fração ideal, sem que isso dê azo ao exercício do direito potestativo de preferência" (RESP 1.526.125/SP, 3ª Turma, DJe 27/04/2018).
+Em igual sentido o entendimento de ambas as Turmas Cíveis deste Superior Tribunal:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE PREEMPÇÃO CUMULADA COM PEDIDO DE ADJUDICAÇÃO COMPULSÓRIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. DIREITO DE PREFERÊNCIA. INTERPRETAÇÃO DO ART. 504 DO CÓDIGO CIVIL. ORIENTAÇÃO JURISPRUDENCIAL DAS TURMAS DE DIREITO PRIVADO DO STJ. APLICAÇÃO APENAS À ALIENAÇÃO DA FRAÇÃO IDEAL A ESTRANHOS E NÃO A CONDÔMINOS.
+1. Ação de preempção cumulada com pedido de adjudicação compulsória.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+3. Não há direito potestativo de preferência na hipótese em que um dos condôminos aliena sua fração ideal do bem comum para outro condômino, tendo em vista que não se fez ingressar na compropriedade pessoa estranha ao grupo condominial. Precedentes.
+4. A existência de entendimento uníssono entre as Turmas da Seção de Direito Privado do STJ e o art. 255, § 4º, II, do RISTJ, autorizam a incidência da Súmula 568 do STJ para o julgamento monocrático dos recursos especiais que aportam nesta Corte.
+5. Agravo interno no recurso especial não provido.
+(AgInt no REsp n. 1.672.849/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 9/9/2019, DJe de 11/9/2019.) (sem grifo no original)
+RECURSO ESPECIAL - AÇÃO DECLARATÓRIA DE NULIDADE DE NEGÓCIO JURÍDICO c/c ADJUDICAÇÃO DE FRAÇÃO IDEAL DE IMÓVEL - CESSÃO DE QUOTA PARTE A CONDÔMINO - ACÓRDÃO DO TRIBUNAL ESTADUAL QUE, AO REFORMAR A SENTENÇA, ADOTA ENTENDIMENTO DE QUE A PREEMPÇÃO DEVE SER OBSERVADA TANTO PARA ALIENAÇÃO A ESTRANHOS QUANTO A COMUNHEIROS - INTERPRETAÇÃO DO DISPOSTO NO ARTIGO 504 DO CÓDIGO CIVIL. INSURGÊNCIA DO RÉU. DIREITO DE PREFERÊNCIA - INTERPRETAÇÃO RESTRITIVA - INAPLICABILIDADE QUANDO SE TRATA DE NEGÓCIO JURÍDICO REALIZADO ENTRE CONDÔMINOS.
+Hipótese: demanda visando à declaração de nulidade de alienação de fração ideal a condômino, ante o fundamento de inobservância ao direito de prelação dos demais consortes. Tribunal a quo que, ao reformar a sentença de improcedência, acolhe a pretensão veiculada na inicial, a fim de declarar nula a cessão de quota parte do imóvel objeto da demanda, assegurando aos autores o direito à aquisição do bem.
+1. O direito legal de preferência atribuído aos condôminos de bem indivisível (ou não dividido), nos termos do artigo 504 do Código Civil, tem por escopo precípuo o de impedir o ingresso de terceiros estranhos à comunhão, ante o potencial conflituoso inerente a essa forma anômala de propriedade.
+2. A alienação/cessão de frações ideais entre condôminos refoge à finalidade intrínseca ao direito de preferência, uma vez que não se trata de hipótese de ingresso de terceiro/estranho à comunhão, mas de manutenção dos consortes (à exceção daquele que alienou integralmente a sua parcela), apenas com alterações no percentual da parte ideal daquele que adquiriu a parte de outrem.
+3. Inaplicabilidade dos artigos 1.322 do Código Civil e 1.118 do Código de Processo Civil, visto que não instituem qualquer direito de prelação, mas, tão-somente, os critérios a serem adotados em caso de extinção do condomínio pela alienação da coisa comum. Ademais, tratando-se de restrição à liberdade de contratar, o instituto em comento - direito de preferência - deve ser interpretado de forma restritiva. Assim, se a lei de regência - artigo 504 - apenas o institui em relação às alienações a estranhos, não cabe ao intérprete, extensivamente, aplicar tal norma aos casos de compra e venda entre consortes.
+4. RECURSO ESPECIAL PROVIDO, a fim de julgar improcedentes os pedidos veiculados na inicial, restabelecendo-se a sentença.
+(REsp n. 1.137.176/PR, relator Ministro Marco Buzzi, Quarta Turma, julgado em 16/2/2016, DJe de 24/2/2016.)
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor doadvogado da parte recorrida em 2% sobre o valor atualizado da causa,suspensa a exigibilidade em razão da gratuidade de justiça deferida àparte recorrente.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, ambos do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. DIREITO DE PREFERÊNCIA.APLICAÇÃO APENAS À ALIENAÇÃO DA FRAÇÃO IDEAL A ESTRANHOS E NÃO A CONDÔMINOS. PRECEDENTES. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
