@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso especial interposto por Débora Oliveira de Miranda Almeida, com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo assim ementado (e-STJ, fl. 60):
+EMENTA - OBRIGAÇÃO DE FAZER (fase de cumprimento de sentença) - Decisão que determinou à executada a indicação de quais as portas lógicas vinculadas aos acessos apontados pela exequente - Inconformismo - Acolhimento - Entendimento desta Turma Julgadora acerca da inexistência de guarda das informações por parte do Google que não é provedor de hospedagem (apenas disponibiliza o armazenamento de dados em servidores próprios, disponibilizando acesso a terceiros) - Precedentes - Ré que forneceu os dados com relação à sobredita conta de email (a partir do qual é permitido à autora a obtenção de informações pessoais junto aos provedores de conexão de internet) - Decisão reformada - Recurso provido.
+Em suas razões de recurso especial (e-STJ, fls. 67-81), a recorrente alega violação dos arts. 5º, inciso VII, e 15, ambos da Lei n. 12.965/2014, bem como a existência de dissídio jurisprudencial.
+Sustenta, em síntese, que para a correta identificação do usuário responsável pela criação de canaldo site Youtube, no qual houve ofensa à honra e imagem da autora, é necessário que a provedora de internet - Google - disponibilize a "porta lógica" de origem do acesso realizado na plataforma, obrigação decorrente da legislação federal.
+Foram apresentadas contrarrazões (e-STJ, fls. 99-113).
+O Tribunal de origem admitiu o recurso especial (e-STJ, fls. 134-136).
+Brevemente relatado, decido.
+O Tribunal de origem, ao dirimir a questão, assim fundamentou (e-STJ, fls. 59-64 - sem grifo no original):
+Respeitado o entendimento do d. Magistrado de primeiro grau, reputo descabido compelir a executada (ora agravante) ao fornecimento de dados pessoais do usuário de conta Gmail, em especial aqueles atinentes à porta lógica.
+Com efeito, filia-se esta Turma Julgadora ao entendimento segundo o qual não é possível impor ao Google eventual complementação das informações já fornecidas por ocasião do cumprimento da tutela de urgência/sentença.
+Como é sabido, o Google não é provedor de hospedagem e tendo a ação sido distribuída já na vigência do Marco Civil da Internet (Lei 13.105/2015), não está, de acordo com seu artigo 5º, VIII, obrigado a armazenar registros relativos à chamada "porta lógica de origem", mas apenas informes relativos à data e hora de uso de determinada aplicação da internet, partindo de um número de IP, também determinado (o que também se extrai da redação do artigo 15 do mesmo diploma legal).
+Descabida, pois, as demais obrigações impostas à recorrente, cumprindo reiterar que esta cumpriu a determinação judicial "na medida do que era possível" ou do que estava ao seu alcance, fornecendo os dados relativos à conta de email, IP, bem como data e hora, fazendo-o nos termos do artigo 15 do Marco Civil.
+Nesse sentido, confiram-se os seguintes precedentes deste E. Tribunal de Justiça:
+(..)
+Exatamente por conta disso, o recurso é provido para afastar a obrigação imposta à agravante quanto ao fornecimento de dados relativos às portas lógicas indicadas pela r. decisão guerreada.
+Da análise dos fundamentos esposados no acórdão recorrido, verifica-se que a conclusão adotada pela Corte local, a fim de afastar a obrigação da recorrida no fornecimento dos dados relativos à "porta lógica de origem", decorreu de premissas fáticas e probatórias dos autos, de forma que, sua alteração, demandaria reexame de fatos e provas, o que encontra óbice na Súmula 7/STJ.
+Ademais, a análise do dissídio jurisprudencial fica prejudicada em razão da aplicação do enunciado da Súmula n. 7/STJ, porquanto não é possível encontrar similitude fática entre o acórdão combatido e o aresto paradigma, uma vez que as suas conclusões díspares ocorreram não em virtude de entendimentos diversos sobre uma mesma questão legal, mas sim de fundamentações baseadas em fatos, provas e circunstâncias específicas de cada processo.
+Ante o exposto, não conheço do recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios a esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. OBRIGAÇÃO DE FAZER. PROVEDOR INTERNET.INDICAÇÃO DE PORTAS LÓGICAS. OBRIGAÇÃO AFASTADA NA ORIGEM. CONCLUSÃO PAUTADA EM PREMISSAS FÁTICAS E PROBATÓRIAS. REEXAME INVIÁVEL. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. RECURSO ESPECIAL NÃO CONHECIDO.
