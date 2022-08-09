@@ -1,0 +1,99 @@
+DECISÃO
+
+HABEAS CORPUS. CONDENAÇÃO TRANSITADA EM JULGADO. SUCEDÂNEO DE REVISÃO CRIMINAL. MATÉRIA NÃO APRECIADA PELO ÓRGÃO APONTADO COMO COATOR. SUPRESSÃO DE INSTÂNCIA. INADEQUAÇÃO DA VIA ELEITA. NEGATIVA DE SEGUIMENTO. DENÚNCIA ANÔNIMA SEGUIDA DE DILIGÊNCIAS PRELIMINARES: ADMISSIBILIDADE. VIOLAÇÃO DE DOMICÍLIO: INOCORRÊNCIA. FUNDADAS RAZÕES PARA INGRESSO DOS POLICIAIS. PRECEDENTES. TRÁFICO DE DROGAS. CAUSA DE DIMINUIÇÃO DO § 4º DO ART. 33 DA LEI Nº 11.343, DE 2006. MOTIVAÇÃO DO AFASTAMENTO: INSUBSISTENTE. DOSIMETRIA. BIS IN IDEM. ILEGALIDADE MANIFESTA. CONCESSÃO DA ORDEM, DE OFÍCIO.
+
+    1. Trata-se de habeas corpus impetrado contra decisão, proferida no Superior Tribunal de Justiça, mediante a qual o Relator indeferiu liminarmente o Habeas Corpus nº 560.309/SP.
+
+    2. Colhe-se dos autos que o paciente foi condenado a 9 anos e 4 meses de reclusão, no regime fechado, e ao pagamento de 594 dias-multa, ante os crimes do art. 33, caput, da Lei nº 11.343, de 2006 (tráfico de drogas), e do art. 16, parágrafo único, inc. I, da Lei nº 10.826, de 2003 (posse ilegal de arma de fogo com numeração raspada).
+
+    3. O Tribunal de Justiça negou provimento à apelação interposta pela defesa. Embargos de declaração foram parcialmente providos para reduzir a pena do crime de posse ilegal de arma de fogo para 3 anos de reclusão, totalizando 8 anos e 10 meses de reclusão. A condenação transitou em julgado em 17/04/2019.
+
+    4. Inconformada, a defesa impetrou habeas corpus perante o STJ, tendo o Relator indeferido liminarmente a impetração. Formalizado agravo regimental, este não foi conhecido, ante sua intempestividade.
+
+    5. Neste habeas corpus, a Defensoria Pública do Estado de São Paulo sustenta constrangimento ilegal ante a ilicitude da prova que alicerçou a condenação, dizendo-a obtida sem mandado de busca e apreensão e mediante invasão do domicílio do paciente. Afirma a ocorrência de bis in idem em razão da utilização da quantidade de droga para aumentar a pena-base, e também, para afastar a causa de diminuição de pena prevista no art. 33, § 4º, da Lei de Drogas. Aponta haver sido a benesse afastada com fundamento apenas na quantidade de droga apreendida.
+
+    6. Requer, em âmbito liminar e no mérito, o reconhecimento da nulidade, com a absolvição. Subsidiariamente, a aplicação da minorante, a modificação do regime inicial e a substituição da pena por restritiva de direitos.
+
+    É o relatório.
+
+    Decido.
+
+    7. Observa-se que o acórdão condenatório transitou em julgado em 17/04/2019, tendo sido formalizada esta impetração apenas em 03/03/2022. A jurisprudência do Supremo Tribunal Federal consolidou-se no sentido da inviabilidade de utilização do habeas corpus como sucedâneo de revisão criminal, ressalvados os casos de manifesta ilegalidade. (RHC nº 203.506-AgR/ES, Rel. Min. Cármen Lúcia, Primeira Turma, j. 23/08/2021, p. 25/08/2021; HC nº 154.106-ED/MS, Rel. Min. Roberto Barroso, Primeira Turma, j. 29/06/2018, p. 06/08/2018; HC nº 135.239-AgR/SP, Rel. Min. Celso de Mello, Segunda Turma, j. 07/08/2018, p. 17/09/2018; e HC nº 161.656-AgR/SP, Rel. Min. Ricardo Lewandowski, Segunda Turma, j. 23/10/2018, p. 31/10/2018).
+
+    8. Ademais, as questões suscitadas neste habeas corpus quanto à causa de diminuição do art. 33, § 4º, da Lei nº 11.343, de 2006, não passaram sequer pelo crivo das instâncias antecedentes. A atuação originária desta Suprema Corte acarretaria supressão de instância e a ampliação indevida da competência prevista no art. 102 da CRFB. Assim decidiram o Plenário e ambas as Turmas: HC nº 109.430-AgR/DF, Rel. Min. Celso de Mello, Tribunal Pleno, j. 10/04/2014, p. 13/08/2014; HC nº 164.535-AgR/RJ, Rel. Min. Cármen Lúcia, Segunda Turma, j. 17/03/2020, p. 20/04/2020; e HC nº 163.568/RS, Rel. Min. Marco Aurélio, Red. do Acórdão Min. Rosa Weber, Primeira Turma, j. 13/08/2019, p. 30/08/2019.
+
+    9. Verificada a inadequação da via eleita, a concessão da ordem de ofício é providência excepcional, a ser implementada somente quando constatada situação de flagrante ilegalidade ou mesmo de teratologia na decisão impugnada. É, em certa parte, o caso dos autos.
+
+    10. O Plenário, no Recurso Extraordinário nº 603.616-RG/RO, Rel. Min. Gilmar Mendes, j. 05/11/2015, p. 10/05/2016 — Tema nº 280 do ementário da Repercussão Geral —, definiu a seguinte tese: “A entrada forçada em domicílio sem mandado judicial só é lícita, mesmo em período noturno, quando amparada em fundadas razões, devidamente justificadas a posteriori, que indiquem que dentro da casa ocorre situação de flagrante delito, sob pena de responsabilidade disciplinar, civil e penal do agente ou da autoridade, e de nulidade dos atos praticados”.
+
+    11. O Tribunal de origem, em consonância com esse entendimento, ao julgar a apelação, afastou a alegação de nulidade processual por invasão de domicílio, descrevendo a situação de flagrante delito e a existência de autorização para o ingresso dos policiais na residência do paciente. Eis os fundamentos lançados:
+
+    “Porém, comprovado está que os policiais agiram visando reprimir práticas delituosas consistentes em crimes permanentes, ou seja, cuja consumação se prolonga no tempo. Nos depoimentos, os policiais informaram que, após receberem informação anônima de que o acusado funcionava como gerente de tráfico na região, adentraram na sua residência, com autorização de sua esposa e, lá, localizaram vastíssima quantidade de drogas, além de uma pistola .40, 26 cartuchos íntegros, bem como expressiva quantia em dinheiro. Depreende-se, ainda, do depoimento de Maria Aparecida, esposa do acusado, que, no momento em que os policiais chegaram em sua casa e indagaram se havia algo de irregular no local, seu marido respondeu que tinha uma arma.).” (e-doc. 5, p. 4-5; grifos nossos).
+
+    12. De início, cumpre ressaltar que o ingresso dos policiais na casa do paciente se deu mediante autorização, conforme assentou o Tribunal de Justiça ao julgar a apelação. Alcançar conclusão em sentido diverso demandaria o reexame do acervo fático-probatório, incabível na via estreita do habeas corpus, conforme precedentes de ambas as Turmas: HC nº 105.163/SP, Rel. Min. Cármen Lúcia, Primeira Turma, j. 03/05/2011, p. 18/05/2011; HC nº 157.282-AgR/SP, Rel. Min. Roberto Barroso, Primeira Turma, j. 04/10/2018, p. 05/11/2018; HC nº 156.894-AgR/SP, Rel. Min. Dias Toffoli, Segunda Turma, j. 14/08/2018, p. 05/09/2018; e HC nº 195.352-AgR/RS, Rel. Min. Nunes Marques, Segunda Turma, j. 05/03/2021, p. 09/04/2021.
+
+    13. Ainda que não fosse o caso, isto é, mesmo que não tenha havido a referida autorização, não se vislumbra a ilegalidade arguida, seja pela possibilidade de denúncia anônima para deflagrar a persecução penal, desde que realizadas diligências para confirmar a veracidade do quanto alegado, seja pela licitude do ingresso em residência, diante de situação de flagrante delito, como se deu na espécie, por ser permanente o crime de tráfico de drogas, considerado o núcleo do tipo “ter em depósito”. Os precedentes a seguir ilustram esse entendimento:
+
+    “DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. TRÁFICO DE DROGAS. FUNDADAS RAZÕES PARA INGRESSO NO DOMICÍLIO. AÇÃO PENAL. DENÚNCIA ANÔNIMA. POSSIBILIDADE. JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL PERTINENTE E REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 279/STF. 1. O acórdão proferido pelo Tribunal estadual está alinhado com a jurisprudência do Supremo Tribunal Federal (STF) no sentido de que a “entrada forçada em domicílio sem mandado judicial só é lícita, mesmo em período noturno, quando amparada em fundadas razões, devidamente justificadas a posteriori, que indiquem que dentro da casa ocorre situação de flagrante delito, sob pena de responsabilidade disciplinar, civil e penal do agente ou da autoridade, e de nulidade dos atos praticados. Precedente: RE 603.616, Relator(a): Tribunal Pleno, Rel. Min. Gilmar Mendes, DJe de GILMAR MENDES, DJe de 10/05/2016, Tema 280 da repercussão geral” (RE 1.351.633-AgR, Rel. Min. Luiz Fux, Tribunal Pleno). 2. O STF já decidiu no sentido de “ser possível a deflagração da persecução penal pela chamada denúncia anônima, desde que esta seja seguida de diligências realizadas para averiguar os fatos nela noticiados antes da instauração do inquérito policial” (HC 108.147, Relª. Minª. Cármen Lúcia, Segunda Turma). Ainda nesse sentido: ARE 1.069.179, Rel. Min. Gilmar Mendes. 3. Para chegar a conclusão diversa do acórdão recorrido, imprescindíveis seriam a análise da legislação infraconstitucional pertinente e uma nova apreciação dos fatos e do material probatório constante dos autos (Súmula 279/STF), o que é inviável em recurso extraordinário. 4. Agravo a que se nega provimento.”
+
+    (ARE nº 1.374.032-AgR/PR, Rel. Min. Roberto Barroso, Primeira Turma, j. 02/05/2022, p. 09/05/2022; grifos nossos).
+
+    “AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. PENAL. TRÁFICO DE ENTORPECENTE. PORTE DE ARMA DE FOGO. DENÚNCIA ANÔNIMA: ADMISSIBILIDADE. REQUISITOS LEGITIMADORES DO ACOLHIMENTO: PRECEDENTES. ALEGAÇÃO DE NULIDADE. AUSÊNCIA DE DEMONSTRAÇÃO DE PREJUÍZO. ABSORÇÃO DE CRIMES E DOSIMETRIA DA PENA: IMPOSSIBILIDADE DE REEXAME DE PROVA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.
+
+    (RHC nº 159.544-AgR/SC, Rel. Min. Cármen Lúcia, Segunda Turma, j. 06/08/2019, p. 16/08/2019; grifos nossos).
+
+    “Agravo regimental no habeas corpus. 2. Penal e Processo Penal. 3. Tráfico de drogas (art. 33, caput, da Lei 11.343/2006). 4. Habeas corpus impetrado contra decisão monocrática do STJ. Impossibilidade. Ausência de agravo regimental. Esgotamento das vias recursais. 5. Flagrante delito. Inviolabilidade de domicílio não configurada. Crime permanente. Repercussão geral reconhecida no RE 603.616/RO. 6. Agravo regimental desprovido.”
+
+    (HC nº 211.694-AgR/SP, Rel. Min. Gilmar Mendes, Segunda Turma, j. 02/07/2022, p. 06/07/2022; grifos nossos).
+
+    “Processual penal. Agravo regimental em habeas corpus. Tráfico de drogas. Prisão preventiva. Natureza e quantidade da droga. Gravidade concreta. Jurisprudência do Supremo Tribunal Federal. Violação de domicílio. Fatos e provas. 1. A orientação jurisprudencial do Supremo Tribunal Federal é no sentido de que a natureza e a quantidade da droga apreendida evidenciam a gravidade concreta da conduta capaz de justificar a ordem prisional. Precedentes. 2. Não há que se falar em violação de domicílio. Restou demonstrado que os policiais foram ao local e abordaram os acusados na frente de casa, e em seguida, com eles e sob autorização deles, adentraram na residência. Para dissentir das premissas que embasaram as decisões proferidas pelas instâncias de origem, seria necessário revolver fatos e provas, procedimento que não é possível na via processualmente restrita do habeas corpus. 3. Agravo regimental a que se nega provimento.”
+
+    (HC nº 207.605-AgR/AL, Rel. Min. Roberto Barroso, Primeira Turma, j. 14/02/2022, p. 17/02/2022; grifos nossos).
+
+    14. No tocante à minorante do tráfico privilegiado, conforme o art. 33, § 4º, da Lei de Drogas, é viável a diminuição da pena, de 1/6 a 2/3, quando o agente for primário, sem antecedentes, não se dedicar a atividades delituosas nem integrar organização criminosa.
+
+    15. O Tribunal de Justiça, no julgamento da apelação, entendeu correta a fixação da pena-base acima do mínimo legal, em virtude da quantidade e natureza das substâncias apreendidas, deixando de aplicar a minorante do art. 33, § 4º, da Lei nº 11.343, de 2006, com base nas mesmas premissas:
+
+    “Delito de tráfico de drogas.
+
+    A pena-base foi corretamente fixada à fração de 1/6 acima de mínimo legal, com base nas circunstâncias do crime, haja vista a quantidade e a natureza das substâncias apreendidas, em atenção às diretrizes do art. 42, da Lei 11.343/06, conforme já diversas vezes decidido pelo C. STJ. Nesse sentido:
+
+(...)
+
+    Na segunda fase, não houve alteração da reprimenda.
+
+    Por fim, em que pesem as alegações da defesa, cumpre destacar que a aplicação do redutor previsto no artigo 33, § 4º, da Lei 11.343/2006 também não é cabível, pois não preenchidos os requisitos exigidos, uma vez que, diante das provas amealhadas aos autos, verifica-se que não se trata de simples traficante eventual, tendo em vista a grande quantidade principalmente de cocaína de droga apreendida (mais de 1 kg.), que revela dedicação a atividades criminosas, a impedir a aplicação da benesse.” (e-doc. 5, p. 50-51; grifos nossos).
+
+    16. Percebe-se que a causa de diminuição foi afastada a partir, tão somente, da quantidade de droga apreendida (3.000 porções de cocaína, pesando 1.135,65 gramas, além de 18 porções de maconha, pesando 119,40 gramas), o que revelaria dedicação a atividades criminosas.
+
+    17. A motivação mostra-se inidônea, tendo em vista entendimento do Supremo Tribunal Federal no sentido de que, embora a natureza e a quantidade da droga sejam elementos determinantes na modulação da minorante do tráfico privilegiado, não são aptas, por si sós, a comprovar o envolvimento com o crime organizado ou a dedicação a atividades criminosas. Nessa linha, colaciono precedentes da Segunda Turma:
+
+    “AGRAVO INTERNO EM HABEAS CORPUS. IMPETRAÇÃO CONTRA DECISÃO MONOCRÁTICA DE MINISTRO DO SUPERIOR TRIBUNAL DE JUSTIÇA. SITUAÇÃO DE FLAGRANTE ILEGALIDADE CARACTERIZADA. TRÁFICO PRIVILEGIADO AFASTADO UNICAMENTE EM DECORRÊNCIA DA QUANTIDADE E DA NATUREZA DA DROGA APREENDIDA. AUSÊNCIA DE FUNDAMENTO IDÔNEO. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO. 1. Mesmo quando inadmissível o habeas corpus, é possível a concessão da ordem de ofício, desde que caracterizada situação de flagrante ilegalidade. Precedente. 2. O afastamento da minorante do tráfico privilegiado unicamente em decorrência da quantidade e da natureza da droga apreendida não constitui fundamento idôneo apto a afastar a aplicação da causa de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006. 3. Agravo interno desprovido.”
+
+    (HC nº 190.396-AgR/SP, Rel. Min. Nunes Marques Segunda Turma, j. 16/11/2021, p. 03/02/2022; grifos nossos).
+
+    “AGRAVO REGIMENTAL EM HABEAS CORPUS. PROCESSO PENAL. TRÁFICO DE ENTORPECENTES. ORDEM CONCEDIDA PARA DETERMINAR A APLICAÇÃO DO REDUTOR DO § 4º DO ART. 33 DA LEI 11.343/2006. MANUTENÇÃO DA DECISÃO. AGRAVO REGIMENTAL DESPROVIDO. 1. A inexistência de argumentação apta a infirmar o julgamento monocrático conduz à manutenção da decisão agravada. 2. A causa de diminuição prevista no § 4º do art. 33 da Lei 11.343/2006 é aplicada desde que o agente seja primário, possua bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa. Em observância aos princípios da individualização da pena e da fundamentação das decisões judiciais, o afastamento do benefício deve ser embasado em elementos concretos que indiquem o não preenchimento dos requisitos legais. 3. A quantidade da droga apreendida e notícias anônimas de envolvimento com o tráfico não constituem fundamentação idônea para afastar o redutor. 4. À luz do princípio constitucional da presunção da não culpabilidade, esta Suprema Corte consolidou o entendimento de que inquéritos ou ações penais em curso não podem ser valorados na dosimetria da pena. Por iguais razões, notícias de que o acusado era conhecido no meio policial não impedem a aplicação do benefício. 5. Agravo regimental desprovido.”
+
+    (HC nº 206.716-AgR/SP, Rel. Min. Edson Fachin, Segunda Turma, j. 11/11/2021, p. 18/02/2022; grifos nossos).
+
+    “AGRAVO REGIMENTAL EM HABEAS CORPUS. MATÉRIA CRIMINAL. TRÁFICO DE ENTORPECENTES. AUSÊNCIA DE FUNDAMENTAÇÃO APTA A NEGAR O REDUTOR DO ART. 33, § 4º DA LEI 11.343/2006. ORDEM CONCEDIDA. RECURSO DO MINISTÉRIO PÚBLICO FEDERAL. AUSÊNCIA DE ARGUMENTAÇÃO APTA A INFIRMAR A DECISÃO RECORRIDA. A MERA MENÇÃO À QUANTIDADE E NATUREZA DA DROGA APREENDIDA NÃO SATISFAZ A NECESSIDADE DE MOTIVAÇÃO DAS DECISÕES JUDICIAIS PARA FINS DE NÃO INCIDÊNCIA DA CAUSA DE DIMINUIÇÃO DE PENA. CIRCUNSTÂNCIAS INAPTAS A COMPROVAR A DEDICAÇÃO AO CRIME OU O PERTENCIMENTO A ORGANIZAÇÃO CRIMINOSA. MANUTENÇÃO DO DECISUM. AGRAVO REGIMENTAL DESPROVIDO. 1. A inexistência de argumentação apta a infirmar o julgamento monocrático conduz à manutenção da decisão agravada. 2. A quantidade e a natureza da droga apreendida não são fatores que, isoladamente, impedem a aplicação da minorante prevista no art. 33, § 4º da Lei 11.343/2006. 3. Diversamente do que ocorre na primeira fase da dosimetria da pena, em que a quantidade e qualidade de drogas são vetores legalmente expressos (art. 42 da Lei 11.343/2006) e, portanto, dispensam maiores digressões, a utilização dessa circunstância na terceira fase só é admitida se constituir uma demonstração do não preenchimento de algum dos vetores legalmente eligidos. Precedentes. 4. Imperiosa a comprovação de algum evento concreto, dentro da cadeia factual, de que o agente efetivamente pertença a organização criminosa ou se dedique a atividades criminosas. 5. Agravo regimental desprovido.”
+
+    (HC nº 205.357-AgR/SP, Rel. Min. Edson Fachin, Segunda Turma, j. 04/10/2021, p. 08/11/2021; grifos nossos).
+
+    “AGRAVO INTERNO EM HABEAS CORPUS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. RAZÕES NÃO APRECIADAS PELO SUPERIOR TRIBUNAL DE JUSTIÇA. SUPRESSÃO DE INSTÂNCIA. PEQUENA QUANTIDADE DE DROGA. INEXISTÊNCIA DE FUNDAMENTO IDÔNEO PARA AFASTAR O TRÁFICO PRIVILEGIADO. 1. É inviável o agravo interno que deixa de atacar especificamente os fundamentos da decisão agravada. 2. Não se admite o habeas corpus quando as razões apresentadas pela parte impetrante não houverem sido apreciadas pelo Tribunal apontado como coator, por caracterizar-se inadmissível supressão de instância. 3. A pequena quantidade de droga apreendida, por si só, não é fundamento idôneo para afastar a redução do tráfico privilegiado. 4. Ficou evidenciado, no caso, tratar-se de pequeno traficante, eventual ou de menor potencial, que faz jus à aplicação da causa especial de redução de pena (tráfico privilegiado), nos termos do art. 33, § 4º, da Lei n. 11.343/2006. 5. Agravo interno provido. Ordem de habeas corpus concedida de ofício, para determinar o refazimento da dosimetria da pena, com a incidência da causa de diminuição de pena prevista no art. 33, § 4º, da Lei de Drogas.”
+
+    (HC nº 208.115-AgR/SP, Rel. Min. Ricardo Lewandowski, Red. do Acórdão Min. Nunes Marques, Segunda Turma, j. 14/12/2021, p. 03/03/2022; grifos nossos).
+
+    18. Ademais, o Juízo a quo levou em conta a natureza e a quantidade de entorpecente para fixar a pena-base 1/6 acima do mínimo legal, bem como para afastar o citado redutor. Assim, além da insuficiência do fundamento lançado, ficou configurado o vedado bis in idem. A esse respeito, o Plenário do Supremo, nos Habeas Corpus nº 112.776/MS e nº 109.193/MG, ambos da relatoria do saudoso Ministro Teori Zavascki, julgados em 19/12/20213, com acórdãos publicados em 30/10/2014, assentou que, na individualização de pena alusiva à condenação por tráfico de drogas, a natureza e a quantidade do entorpecente apreendido somente podem ser valoradas em uma das etapas da dosimetria, sendo vedada a dupla consideração.
+
+    19. Ante o exposto, nego seguimento ao habeas corpus, porém concedo, de ofício, a ordem, com base no art. 192 do RISTF, para determinar que o Juízo da Execução Penal, afastando o bis in idem descrito, proceda à nova dosimetria da pena imposta ao paciente — processo nº 0017741-73.2018.8.26.0050, da 2ª Vara Criminal da Comarca da Capital/SP —, aplicando o redutor previsto no § 4º do art. 33 da Lei nº 11.343, de 2006. Redimensionada a sanção, deverá, fundamentadamente, avaliar a possibilidade de conversão das penas privativas de liberdade em restritivas de direitos.
+
+    Comunique-se.
+
+    Publique-se.
+
+    Brasília, 9 de agosto de 2022.
+
+Ministro ANDRÉ MENDONÇA
+
+Relator
