@@ -1,0 +1,23 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Quarta Turma, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+RELATÓRIO
+1. Cuida-se de agravo interno interposto por DULCILENE LUCIO RIBEIRO contra decisão que negou provimento ao agravo em recurso especial, em virtude de alegação de afronta a dispositivo da Constituição Federal não sendo competência desta Corte e incidência da Súmula 284 do STF.
+Nas razões do presente agravo interno, a parte ora agravante sustenta, em síntese, que a matéria recursal cinge-se na necessária conversão do cumprimento das obrigações de fazer impostas em perdas e danos e, a majoração do quantum indenizatório e que indicou como violado o art. 5º, XXXV da Constituição Federal.
+Pede a reforma da decisão.
+É o relatório.
+EMENTA
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. ALEGAÇÃO DE EXISTÊNCIA DE VÍCIOS CONSTRUTIVOS DECORRENTES DA FALHA NA CONSTRUÇÃO DO EMPREENDIMENTO. VIOLAÇÃO AO DEVIDO PROCESSO LEGAL. MATÉRIA CONSTITUCIONAL. INVIABILIDADE. MAJORAÇÃO DO QUATUM INDENIZATÓRIO.AUSÊNCIA DEINDICAÇÃODE DISPOSITIVOLEGAL. APLICAÇÃO DA SÚMULA N. 284/STF.AGRAVO INTERNO NÃO PROVIDO.
+1. Embora seja dever de todo magistrado velar aConstituição,para que se evite supressão de competência do egrégio STF, não se admite apreciação, na via especial, de matéria constitucional, ainda que para viabilizar a interposição de recurso extraordinário.
+2.Em relação ao pedido de majoração do quantum indenizatório, a alegação genéricadeviolação à lei federal, sem indicardeforma precisa o artigo, parágrafo ou alínea, da legislação tida por violada, tampouco em que medida teria o acórdão recorrido vulnerado a lei federal, bem como em que consistiu a suposta negativadevigência da lei e, ainda, qual seria sua correta interpretação, ensejam deficiênciadefundamentação no recurso especial, inviabilizando a abertura da instância excepcional. Aplicação da Súmula n. 284/STF.
+3. Agravo interno não provido.
+VOTO
+2. Em que pesem as razões desenvolvidas pela parte agravante, não foram trazidos argumentos capazes de alterar o decisum agravado, que deve ser mantido in totum.
+2.1. Com efeito, conforme já consignado na decisão agravada, a agravante alega violação aos arts. 5º, XXXIV, XXXV, LIV e LV, 37 da CF. No entanto, a apontada violação a dispositivo da Carta Magna não pode ser analisada em sede de recurso especial porquanto refoge à missão creditada ao Superior Tribunal de Justiça, pelo artigo 105, inciso III, da Carta Magna, qual seja, a de unificar o direito infraconstitucional e preservar a legislação federal de violação.
+Ressalte-se, ainda, que não cabe a análise de afronta a dispositivo constitucional, ainda que com intuito de prequestionamento. Nesse sentido os seguintes precedentes: EDcl no REsp 680.385/RS, Rel. Ministro BARROS MONTEIRO, DJ 20.03.2006, REsp 1043700/TO, Rel. Ministro CASTRO MEIRA, DJe 05.09.2008; AgRg no REsp 977.900/PR, Rel. Ministra LAURITA VAZ, DJe 08.09.2008.
+2.2.Em relação ao requerimento de majoração do quantum indenizatório, verifica-se que a parte recorrente não indicou os dispositivos legais eventualmente violados pelo acórdão recorrido, não observando, portanto, a técnica própria de interposição do recurso especial. A alegação de ofensa genérica à lei, sem a particularização dos dispositivos eventualmente violados pelo aresto recorrido, implica deficiência de fundamentação, conforme pacífico entendimento desta Corte Superior. Aplicação, mais uma vez, da Súmula n. 284/STF.
+Nesse sentido, confiram-se precedentes desta Corte:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO RESCISÓRIA. 1. PRESCRIÇÃO. INTERRUPÇÃO. CITAÇÃO VÁLIDA. RETROATIVIDADE À DATA DA PROPOSITURA DA AÇÃO. SÚMULA 83/STJ. 2. CORREÇÃO MONETÁRIA. AUSÊNCIA DE DEMONSTRAÇÃO DE VIOLAÇÃO DA LEI FEDERAL. ENUNCIADO N. 284 DA SÚMULA DO STF. 3. AGRAVO DESPROVIDO.  .. . 2. É inadmissível o recurso especial nas hipóteses em que há deficiência na fundamentação pela ausência de indicação de dispositivo de lei que foram supostamente violados. Aplicação analógica do enunciado n. 284 da Súmula do STF. Precedentes. 3. Agravo interno desprovido. (AgInt no AREsp 1061836/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 12/09/2017, DJe 15/09/2017)
+Assim, verifica-se que a parte agravante não trouxe nenhuma argumentação capaz de modificar a conclusão do decisório ora agravado, que negou provimento ao recurso especial.
+3. Ante o exposto, nego provimento ao agravo interno.
+É como voto.
