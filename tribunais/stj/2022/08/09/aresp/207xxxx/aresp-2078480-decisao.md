@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo de RIAN GONÇALVES DE OLIVEIRAem face de decisão proferida noTRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULOque inadmitiu seu recurso especial interposto com fundamento no art. 105, III, alínea "a", da Constituição Federal - CF, contra acórdão proferido no julgamento daapelação criminal n. 1500131-80.2021.8.26.0545.
+Consta dos autos que o agravante foi condenado pela prática do delito tipificado no art. 33, caput c/c art. 40, III, ambosda Lei n. 11.343/06 (tráfico ilícito de entorpecentes), à pena de 06 anos, 02 meses e 20 dias de reclusão, em regime inicial fechado, e 620 dias-multa (fl. 342).
+Recurso de apelação interposto pela Defesa foi parcialmente provido para reduzir a pena para 05 anos de reclusão e 500 dias-multa (fl. 516).
+Sem ementa.
+Em sede de recurso especial (fls. 524/550), a Defesa apontou violação ao art. 33, § 4º. da Lei Federal n. 11.343/06 e art. 33do CP, sustentando a aplicação do redutor do tráfico privilegiado, tendo em vista a adoção de fundamentação inidônea. Aduz, ainda, o abrandamento do regime prisional.
+Contrarrazões doMINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO (fls. 608/622).
+O recurso especial foi inadmitido no TJ em razão de: a) deficiência da fundamentação; b) ausência de comprovação da divergência jurisprudencial; e c)óbice da Súmula n. 7 do SUPERIOR TRIBUNAL DE JUSTIÇA - STJ (fls. 681/682).
+Em agravo em recurso especial, a Defesa impugnou os referidos óbices (fls. 685/695).
+Contraminuta do MP (fls. 698/712).
+Os autos vieram a esta Corte, sendo protocolados e distribuídos. Aberta vista ao MINISTÉRIO PÚBLICO FEDERAL - MPF, este opinou pelo desprovimento do recurso especial (fls. 725/729).
+É o relatório.
+Decido.
+Atendidos os pressupostos de admissibilidade do agravo em recurso especial, passa-se à análise do recurso especial.
+Acerca da pretensão recursal, oTRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULOconsignou o seguinte (fls. 514/515):
+Relativamente à possibilidade de reconhecimento do artigo 33, §4º, da lei 11.343/06, o acusado admitiu recebesse R$ 300,00 para ocultar a droga encontrada. Por óbvio, nas condições retratadas nos autos, aquele que se predispõe à consecução do comércio espúrio de drogas, ainda como depositário dos estupefacientes, se sujeitará, como condição necessária e prévia a este intento, a um enlace, ainda que mínimo, com outros agentes já iniciados no mundo do crime. Assim, restou caracterizada a dedicação à atividade criminosa.
+O regime inicial deve ser o fechado, justificando-se pela mais intensa censurabilidade do crime, pois verificada a dedicação a atividade criminosa, bem como a apreensão de grande quantidade de droga, o que possibilita a realização de dezenas de pequenos tráficos, sobretudo diante da associação para armazenamento e abastecimento dos pontos de venda, revelando a maior temibilidade do acusado.
+Isso porque em razão da degradação social de que está revestido o tráfico ilícito de entorpecentes, o legislador conferiu tratamento mais rígido aos autores desses delitos. Por outro, ao permitir o cumprimento da pena em regime inicial semiaberto ou aberto, estaria se admitindo que traficantes de quantidades expressivas de drogas, associados em organização, a despeito do delito não ser cometido com violência ou grave ameaça direta, ficassem à margem do sistema penitenciário, recebendo o mesmo tratamento de indivíduos que não apresentam periculosidade exacerbada ou que praticam delitos de menor gravidade.
+Não se olvide que o tráfico ilícito de entorpecentes tem provocado profundos danos no seio social, trazendo a reboque, uma gama de males diretos e indiretos. Portanto, diante da natureza de que se reveste esse tipo de delito e da quantidade e variedade de drogas apreendias, bem como da associação para o tráfico, não é cabível o cumprimento da pena em regime mais brando, sendo mais adequado o inicial fechado.
+No caso dos autos, o Tribunal de origem apresentou fundamentação idônea para afastar a causa de diminuição do § 4º do art. 33 da Lei Federal n. 11.343/06, ao afirmarque o fato do agravante receber determinada quantia para guardar e manter a droga em depósito, a fim de repassá-la, posteriormente,aos traficantes locais, permite concluir porsua dedicação a atividades criminosas.
+Para rever o entendimento das instâncias ordinárias, que utilizaram de elementos concretos para negar o redutor do tráfico privilegiado, demandaria, necessariamente, o reexame do conjunto fático-probatório dos autos, providência vedada pela Súmula n. 07 do STJ.
+Nesse sentido:
+PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO DE ENTORPECENTES. CAUSA DE DIMINUIÇÃO DE PENA DO ART. 33, § 4º, DA LEI N. 11.343/2006. AFASTAMENTO. DEDICAÇÃO À ATIVIDADE CRIMINOSA. PROCESSO EM ANDAMENTO E GRANDE QUANTIDADE DE DROGAS. FUNDAMENTAÇÃO IDÔNEA. ALTERAÇÃO DESSE ENTENDIMENTO. ÓBICE DA SÚMULA 7/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+(..)
+2. No caso, a Corte de origem afastou a incidência da minorante, por entender que a expressiva quantidade de droga apreendida (3.760kg de cocaína), bem como a existência de processo criminal em andamento, denotam a habitualidade do recorrente na prática delitiva do tráfico de entorpecentes. Assentado pela instância antecedente, soberana na análise dos fatos, que o recorrente se dedica a atividade criminosa, a alteração desse entendimento - para acolher a pretensão de incidência da causa de diminuição do art. 33, § 4º, da Lei n. 11.343/2006 - encontra óbice no Enunciado Sumula n. 7 desta Corte, pois "a pretensão de simples reexame de prova não enseja recurso especial".
+(..)
+4. Agravo regimental não provido.
+(AgRg no REsp 1780993/RO, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 19/02/2019).
+Do mesmo modo, O regime fechado está fundamentado nas circunstâncias concretas em que praticado o crime em questão, entendimento que encontra amparo na jurisprudência desta Corte(AgRg no AREsp n. 1.925.349/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 17/6/2022).
+Ressalta-se queA quantidade e a natureza da droga demonstram a gravidade concreta do delito, justificando, por força do princípio da individualização da pena, o agravamento do aspecto qualitativo (regime) da pena (HC 599.603/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, DJe 20/10/2020). Portanto, presente fundamentação idônea para fixação do regime prisional fechado.
+Ante o exposto, conheço do agravo para conhecer do recurso especial e, com fundamento na Súmula n. 568 do STJ, negar-lhe provimento.
+Publique-se. Intimem-se.
