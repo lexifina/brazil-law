@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de FABIO ADRIANO DOS SANTOS em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (Processo n. 0003188-16.2020.8.26.0126).
+O paciente foi condenado às penas de 7 anos e 4 meses de reclusãoem regime inicial fechadoe de 24 dias-multa, no mínimo legal, pela prática do delito previsto no art.2º, caput, da Lei n. 12.850/2013. Foi-lhe indeferido o direito de recorrer em liberdade, pois, durante toda a instrução, esteve preso cautelarmente.
+A defesa alega que o paciente está sendo vítima de constrangimento ilegal em razão do excesso de prazo sem que a defesa tenha contribuído para isso.
+Afirma que desde a prisão do paciente já decorreu quase 2 anos sem que tenha havido o trânsito em julgado da sentença penal condenatória, pois da sentença foi interposto o recurso de apelação que chegou no Tribunal de origem em 9/11/2021 e, desde então, não há previsão para o seu julgamento.
+Requer a expedição de alvará de soltura em favor do paciente ou a substituição da prisão preventiva por medidas cautelares alternativas.
+As informações foram prestadas às fls. 149-152.
+É o relatório. Decido.
+Ainda que inadequada a impetração de habeas corpus em substituição à revisão criminal ou ao recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o STJ considera passível de correção de ofício o flagrante constrangimento ilegal.
+Nos casos em que a pretensão esteja em conformidade ou em contrariedade com súmula ou jurisprudência pacificada dos tribunais superiores, a Terceira Seção desta Corte admite o julgamento monocrático da impetração antes da abertura de vista ao Ministério Público Federal, em atenção aos princípios da celeridade e da efetividade das decisões judiciais, sem que haja ofensa às prerrogativas institucionais do parquet ou mesmo nulidade processual (AgRg no HC n. 674.472/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 10/8/2021; AgRg no HC n. 530.261/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 7/10/2019).
+Sendo essa a hipótese dos autos, passo ao exame do mérito da impetração.
+No tocante à alegada demora no julgamento da apelação pelo Tribunal a quo, esclareça-se que "a aferição do excesso de prazo reclama a observância da garantia da duração razoável do processo, prevista no art. 5º, LXXVIII, da Constituição Federal. Tal verificação, contudo, não se realiza de forma puramente matemática" (AgRg no RHC n. 123.274/RJ, relator Ministro Antonio Saldanha Palheiro, DJe de 4/8/2020).
+Devem ser sopesados o tempo de prisão provisória, as peculiaridades da causa, sua complexidade e outros fatores que eventualmente possam influenciar no curso do processo.
+Na situação em apreço, a apelação foi distribuída em 9/11/2021 e, conforme consta nas informações prestadas pelo Tribunal de origem (fl. 149), colhido o parecer da Procuradoria Geral de Justiça, o feito está conclusopara estudo, tendo sido determinada a comunicaçãoao Desembargador Relator acerca da impetração em destaquepara que tome as providências cabíveis e preste as informações relativas ao andamento do apelo ao Superior Tribunal de Justiça.
+Ademais, trata-se de demanda relativa à prática do crime de organização criminosa, com alta complexidade e pluralidade de réus.
+Essas peculiaridades explicam a demora na tramitação processual, sem que haja atuação desidiosa do Poder Judiciário.
+Ressalte-se também que, nos termos da jurisprudência do STJ, "eventual excesso de prazo no julgamento da apelação deve ser aferido em face da quantidade da reprimenda imposta pela sentença condenatória" (HC n. 388.468/BA, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe de 13/8/2018).
+Na espécie, considerando a pena imposta na sentença - 7 anos e 4 meses de reclusão em regime inicial fechado e 24 dias-multa -, não é desarrazoado o prazo para julgamento da apelação defensiva.
+No mesmo sentido, o precedente abaixo:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRAFICO DE DROGAS. SENTENÇA CONDENATÓRIA. NEGATIVA DO DIREITO DE RECORRER EM LIBERDADE. REVISÃO DA PENA A CADA 90 DIAS. IMPOSIÇÃO LEGAL ATÉ A SENTENÇA CONDENATÓRIA. SUPERAÇÃO. DECRETO PRISIONAL. FUNDAMENTAÇÃO. REITERAÇÃO DELITIVA. EXCESSO DE PRAZO NO JULGAMENTO DA APELAÇÃO. NÃO CONFIGURADO. BENEFÍCIOS DA EXECUÇÃO PENAL. GARANTIA. NOVOS ARGUMENTOS HÁBEIS A DESCONSTITUIR A DECISÃO IMPUGNADA. INEXISTÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+V - Os prazos processuais não têm as características de fatalidade e de improrrogabilidade, fazendo-se imprescindível raciocinar com o juízo de razoabilidade para definir o excesso de prazo.
+VI - A jurisprudência desta Corte de Justiça sufraga o entendimento de que o excesso de prazo para julgamento da apelação deve ser analisado com base na quantidade de pena aplicada que, in casu, somam 5 anos e 7 meses de reclusão, no regime inicial fechado. Logo, embora decorrido um ano desde a prolação da sentença, não se me afigura desproporcional. Ademais, não demonstrado que, em razão de eventual demora para a apreciação da apelação, o recorrente se encontra impedido de usufruir de benefícios relativos à execução da pena, já tendo sido expedida guia de recolhimento provisória, em 31/1/2020, conforme se denota das informações processuais disponíveis no sítio eletrônico do eg. Tribunal a quo.
+VII - É assente nesta Corte Superior que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos. Precedentes.
+Agravo regimental desprovido. (AgRg no HC n. 624.626/SP, relator Ministro Felix Fischer, Quinta Turma, DJe de 9/2/2021.)
+Portanto, não se constata a existência de flagrante constrangimento ilegal que autorize a atuação ex officio.
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do presente habeas corpus, ficando prejudicado o pedido de liminar.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
