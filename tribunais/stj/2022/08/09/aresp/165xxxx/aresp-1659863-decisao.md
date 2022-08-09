@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo interposto porFRIGOESTRELA S/A EM RECUPERACAO JUDICIALcontra decisão que inadmitiu o recurso especial fundado no art. 105, III, a, b e c, da Constituição Federal, que objetiva reformar o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO,assim ementado:
+Apelação - ação anulatória de débito fiscal  ICMS  auto de infração e imposição de multa, com pedido de tutela antecipada  cancelamento do auto de infração afastada  auto de infração mostra-se regular - extensão do controle jurisdicional. Delimitada ao exame da legitimidade do ato administrativo. Cabimento reservado para situações excepcionais. Prevalência da regra que veda a interferência entre poderes e assegura a autonomia e independência. Impossibilidade de controle judicial para revisão de prova ou reconsideração de atenuantes. Inocorrência de comprovação da hipótese de violação aos princípios constitucionais do processo administrativo. Alegação de nulidade do procedimento administrativo que redundou na autuação em razão da ausência do Referendo da Comissão de Controle de Qualidade previsto na Portaria CAT 21/99. Inocorrência. Ausência de prova da ausência de tal referendo. Ônus da prova da autora. Redução Multa ao patamar de 20% (Orientação do C. STF), multa aplicada pelo fisco em percentual elevado no patamar de 50% a 277,78%, conforme laudo pericial às fls. 1631 - Sentença de improcedência parcialmente reformada, para tão somente se admitir a redução da multa para 20%  Recurso parcialmente provido.
+Os embargos de declaração opostos foram rejeitados.
+No recurso especial, o recorrente aponta como violados os arts. 460, 515 e 535 do CPC/73. Indica divergência jurisprudencial com a Súmula 166 desta Corte.
+Após decisum que inadmitiu o recurso especial, com base na ausência de violação ao art. 535 do CPC/2015, Súmula 7/STJ, Súmula 280/STF, inexistência de ato de governo local considerado válido em detrimento de legislação federal, ausência de cotejo analítico e de similitude fática entre os acórdãos/súmula da divergência, foi interposto o presente agravo, tendo o recorrente apresentado argumentos visando rebater os fundamentos da decisão agravada.
+É o relatório. Decido.
+A parte agravante deixou de impugnar especificamente os óbices daSúmula 7/STJ, Súmula 280/STF, inexistência de ato de governo local considerado válido em detrimento de legislação federal, ausência de cotejo analítico e de similitude fática entre os acórdãos/súmula da divergência. Verifica-se que o agravante não conseguiu afastar os referidos óbices.
+Desse modo, não havendo a impugnação dos referidos óbices, forçosa é a incidência do art. 253, I, do Regimento Interno do STJ e art. 932, III, do CPC/2015, que assim dispõe, in verbis:
+Art. 932. Incumbe ao relator:
+ ..
+III - não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida;
+A propósito, confira-se o precedente:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 03/STJ. SERVIDOR PÚBLICO FEDERAL. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL. NÃO CONHECIMENTO DO AGRAVO EM RECURSO ESPECIAL. INTELIGÊNCIA DO ART. 544, § 4º, I, 2ª PARTE, DO CPC/1973, ART. 253, PARÁGRAFO ÚNICO, INC. I, DO RISTJ E ART. 932, III, DO CPC/2015. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se conhece do agravo em recurso especial que deixa de atacar especificamente e fundamentadamente todos os fundamentos da decisão de inadmissibilidade. Inteligência do art. 544, § 4º, I, do CPC/1973, do art. 253, I, do RISTJ e do art. 932, III, do CPC/2015.
+2. Agravo interno não provido.
+(AgInt no AREsp 856.456/AL, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 10/5/2016, DJe 16/5/2016).
+Ante o exposto, com fundamento no art. 253, I, do Regimento Interno do STJ, não conheço do presente agravo.
+Publique-se. Intimem-se.
