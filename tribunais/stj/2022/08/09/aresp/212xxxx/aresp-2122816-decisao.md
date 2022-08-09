@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo interposto por Caixa Seguradora S.A. contra decisão que não admitiu o processamento do apelo extremo.
+Verifica-se que os agravados ajuizaram ação de obrigação de fazer, julgada procedente.
+Interpostas apelações pelas partes, a Quinta Turma do Tribunal Regional Federal da 3ª Região negou provimento aos recursos, em acórdão assim ementado (e-STJ, fl. 707-708):
+PROCESSO CIVIL E CIVIL. SFH. CONTRATO DE MÚTUO HABITACIONAL. INDENIZAÇÃO SECURITÁRIA. COMPROVADA A OCORRÊNCIA DO SINISTRO. ADIMPLÊNCIA CONTRATUAL. APELAÇÕES DESPROVIDAS.
+1. Trata-se de questão relacionada ao pagamento de indenização securitária no âmbito de financiamento imobiliário regido pelas regras do Sistema Financeiro de Habitação (SFH), como constava expressamente da apólice de seguro (fls. 137/138).
+2. Debate-se, na ação, a possibilidade do mutuário obter ou não a liberação da cobertura do seguro habitacional obrigatório para liquidação da dívida, tendo em vista a ocorrência do sinistro previsto na apólice. Depreende-se da análise da documentação juntada aos autos que, em 30/04/1999, a parte autora firmou com a CEF "Contrato por instrumento particular de compra e venda de terreno e mútuo para construção com obrigação, fiança e hipoteca - carta de crédito associativa - FGTS - recálculo inicial anual". Em face da ocorrência do sinistro previsto na apólice, o autor requereu administrativamente o pagamento da indenização securitária, que restou indeferido (fi.143).
+3. O indeferimento administrativo deve ser afastado.
+4. Com efeito, o Perito Judicial, nomeado pelo MM. Juízo a quo, atestou que o autor apresenta quadro clinico que o toma incapaz "total e permanente" para exercer trabalho formal apto a assegurar-lhe a subsistência. Nesse contexto, tem-se que a parte autora faz jus à indenização securitária ora pleiteada, porquanto, da análise do conjunto probatório, não se comprovou a possibilidade de reversão do seu estado de saúde, tendo o médico designado pela Segurada afirmado, em resposta a um dos quesitos, que o "caso era grave, sem evolução satisfatória no tratamento cirúrgico e com prognóstico preocupante a curto ou médio prazo".
+5. Quanto ao inadimplemento das prestações mensais relativas ao contrato de mútuo, é importante destacar que, muito embora o Perito oficial tenha atestado apenas o início da doença (30/09/1999), não da incapacidade, a documentação coligida aos autos demonstra que o acidente que deu causa à incapacidade definitiva ocorreu em 04/08/2000 (fl.140-verso), devendo, portanto, ser este tido como o termo inicial da incapacidade. Dessa forma, considerando que a planilha de evolução do financiamento, juntada aos autos à 11.86, demonstra a mora do mutuário a partir de setembro de 2000, tem-se que no momento da ocorrência do sinistro a parte autora estava adimplente, razão pela qual faz jus à indenização securitária.
+6. No que se refere aos honorários advocatícios, a fixação deve ser mantida tal como fixada na r. sentença, visto que a CEF restou sucumbente.
+7. Apelações desprovidas.
+Os embargos de declaração opostos foram providos, sem efeitos infringentes.
+Nas razões do recurso especial, interposto com fundamento na alínea a do permissivo constitucional, a recorrente alegou violação dos arts. 757 e 760 do Código Civil.
+Sustentou, em síntese, a impossibilidade de condenação da seguradora ao pagamento do capital segurado em decorrência de sinistro causado por invalidez parcial, em razão de aposentadoria concedida pelo instituto Nacional de Seguridade Social - INSS.
+O processamento do recurso especial não foi admitido pela Corte local, levando a insurgente a interpor o presente agravo.
+Contraminuta às fls. 824-827 (e-STJ).
+Brevemente relatado, decido.
+No que tange à impossibilidade de condenação da seguradora ao pagamento do capital segurado em decorrência de sinistro causado por invalidez parcial, constata-se que os dispositivos não foram objeto de debate pelas instâncias ordinárias, estando ausente, portanto, o requisito do prequestionamento, atraindo a incidência da Súmula 211/STJ.
+Importante assinalar, ainda, que o prequestionamento ficto, previsto no art. 1.025 do CPC/2015, só é admissível quando, após a oposição de embargos de declaração na origem, o recorrente suscite a violação ao art. 1.022 do mesmo Diploma, pois somente dessa forma é que o Órgão julgador poderá verificar a existência do vício e proceder à supressão de grau.
+A propósito:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE. FALECIMENTO DO TITULAR. DIREITO DE MANUTENÇÃO DOS DEPENDENTES. SÚMULA N. 83 DO STJ. FALTA DE PREQUESTIONAMENTO. SÚMULA N. 211 DO STJ. PREQUESTIONAMENTO FICTO. OFENSA AO ART. 1.022 DO CPC/2015. ALEGAÇÃO ESPECÍFICA NECESSÁRIA. DECISÃO MANTIDA.
+1. "(..) Com a morte do titular, permitida a permanência de seus dependentes no plano de saúde com a manutenção das mesmas condições, desde que assumam as obrigações dele decorrentes" (AgInt no REsp n. 1.765.995/SP, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 8/6/2020, DJe 12/6/2020). Súmula n. 83 do STJ.
+2. Ausente o enfrentamento da matéria pelo acórdão recorrido, inviável o conhecimento do recurso especial, por falta de prequestionamento. Súmula n. 211 do STJ.
+3. Prevalece no STJ o entendimento de que "a admissão de prequestionamento ficto (art. 1.025 do CPC/2015), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/2015, para que se possibilite ao órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp n. 1.639.314/MG, Relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe 10/4/2017), o que não ocorreu no caso.
+4. Agravo interno a que se nega provimento
+(AgInt no REsp 1.931.064/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 23/08/2021, DJe 26/08/2021)
+Outrossim, mesmo as questões de ordem pública, em regra conhecíveis de ofício pelo Juiz, não dispensam o requisito do prequestionamento para serem debatidas no âmbito do recurso especial.
+Diante do exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários sucumbenciais fixados em favor dos advogados da parte recorrida em 2% (dois por cento) do valor da causa atualizado.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. OFENSA AO ART. 1.022 DO CPC/2015 NÃO SUSCITADA. INVIABILIDADE DE PREQUESTIONAMENTO FICTO. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
