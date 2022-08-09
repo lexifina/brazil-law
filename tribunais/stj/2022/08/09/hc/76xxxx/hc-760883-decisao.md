@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de DIEGO JESUS BARBOSA no qual se aponta como autoridade coatora desembargador do TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS que, no HC n. 5456410-33.2022.8.09.0000, indeferiu a medida de urgência pleiteada.
+Na hipótese, o paciente foi preso pela suposta prática do crime de tráfico de drogas, porque foi surpreendido com "(1) um tablete de cocaína com peso aproximado de 996g (novecentos e noventa e seis gramas); (2) um tablete de cocaína com peso aproximado de 1,034kg (um kilo virgula zero trinta e quatro gramas), camuflados no veículo" (e-STJ fls. 79/84).
+Nos autos do HC n. 735150/GO, foi concedida a ordem de habeas corpus paradeterminar sua soltura, mediante a imposição de medidas cautelares diversas da prisão (HC n. 735.150/GO, de minha relatoria, DJe de 3/5/2022).
+Posteriormente, no entanto, foi novamente decretada a prisão preventiva, em razão do descumprimento das medidas cautelares anteriormente impostas (e-STJ fls. 129/131).
+Irresignada, a defesa impetrou prévio writno Tribunal de origem, que indeferiu a liminar (e-STJ fls. 133/135).
+Daí o presente habeas corpus, no qual sustenta que o paciente estaria sofrendo constrangimento ilegal, argumentando, em síntese, que a nova decisão acerca da prisão preventiva não está em conformidade com os fatos.
+Alega que, " a o contrário do que fora afirmado pelo juízo da comarca de Jussara (GO), o paciente esteve presente na solenidade de instrução e julgamento, o que rechaça o fundamento ventilado pelo Juízo singular" (e-STJ fl. 13).Aduz ainda que a resposta à acusação foi devidamente apresentada, e que "o paciente necessitou retornar à sua cidade de origem (RONDONÓPOLIS/MT), pois não possui qualquer vínculo com o distrito de culpa. Entretanto, como demonstrado em alhures, o suplicante não deixou de comparecer aos autos, tanto é que esteve na solenidade de julgamento" (e-STJ fl. 17).
+Requer, inclusive liminarmente, a revogação da custódiapreventiva decretada, ainda que mediante a imposição de medidas cautelaresdiversas.
+É o relatório.
+Decido.
+O Superior Tribunal de Justiça tem jurisprudência firmada no sentido de não caber habeas corpus impetrado ante decisão que indefere liminar (enunciado n. 691 da Súmula do Supremo Tribunal Federal), a não ser que fique demonstrada flagrante ilegalidade, o que não ocorre na espécie.
+A propósito:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. IMPETRAÇÃO CONTRA INDEFERIMENTO DE LIMINAR NO TRIBUNAL DE ORIGEM. SUMULA 691/STF. COMPETÊNCIA DESTA CORTE QUE AINDA NÃO SE INAUGUROU. SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE PROVA DO ALEGADO CONSTRANGIMENTO ILEGAL.
+1. Não cabe habeas corpus perante esta Corte contra o indeferimento de liminar em writ impetrado no Tribunal de origem. Aplicação da Súmula 691 do Supremo Tribunal Federal.
+ ..
+3. Agravo regimental improvido.(AgRg no HC n. 349.925/RJ, relatora Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 10/3/2016, DJe 16/3/2016.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. IMPETRAÇÃO INDEFERIDA LIMINARMENTE. SÚMULA 691/STF. AUSÊNCIA DE PATENTE ILEGALIDADE. PEDIDO DE EXPEDIÇÃO DE CONTRAMANDADO DE PRISÃO TEMPORÁRIA. PACIENTE NO EXTERIOR. AGRAVO REGIMENTAL IMPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade, o que não ocorre na espécie. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+2. No caso, não se observa manifesta ilegalidade na decisão que indeferiu o pleito liminar no prévio mandamus, tampouco na decisão primitiva. Na espécie, não há nos autos informações comprobatórias de que todas as diligências requeridas foram cumpridas, valendo ressaltar, ainda, que o decreto prisional, expedido no bojo da mesma decisão, não se efetivou porque o paciente não teria sido localizado, porquanto "potencialmente" estaria no exterior.
+3. Agravo regimental improvido.(AgRg no HC n. 345.456/SP, relator Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 18/2/2016, DJe 24/2/2016.)
+No caso, o novo decreto de prisão destacou"que o referido acusado foi colocado em liberdade em 04/05/2022  ..  e desde então não mais compareceu ao processo", sendo que "tem se ocultado, pois todas as tentativas para tentar localizá-lo restaram infrutíferas, bem como deixou transcorrer in albis o prazo para apresentar resposta à acusação" (e-STJ fl. 131), fundamentos esses que, ao menos a princípio, evidenciam justificativa idônea para a decretação da custódia cautelar do pacientecomo forma de assegurar a conveniência de instrução criminal.
+A questão em exame, de toda forma,necessita de averiguação mais profunda pelo Tribunal de origem, que deverá apreciar a argumentação contida na impetração no momento adequado.Sem isso, fica esta Corte impedida de analisar o alegado constrangimento ilegal, sob pena de incorrer em indevida supressão de instância e incidir em patente desprestígio às instâncias ordinárias.
+Entendo, portanto, não ser o caso de superação do enunciado n. 691 da Súmula do Supremo Tribunal Federal.
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
