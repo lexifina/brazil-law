@@ -1,0 +1,15 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto pelaUNIÃO contra decisão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO que não admitiu o recurso especial com amparo no descabimento da assertiva de violação de normas infralegais eno óbice descrito na Súmula n. 7/STJ.
+A agravante aduz que se cuida "de ação de rito comum objetivando a condenação da ré ao pagamento do valor correspondente a licença especial não gozada, período que teria sido computado para fins de inatividade desnecessariamente, já que contava com tempo suficiente para tanto sem a necessidade da conversão daquelas licenças" (e-STJ, fl. 468).
+Registra quea hipótese identifica-se com o Tema 516/STJ, indicando, inclusive, decisão proferida no REsp n. 1.945.203.
+Acrescenta que a controvérsia dá-se em torno das Portarias GM/DM n. 28 e 31, a respeito de suposta renúncia à prescrição pela administração, tema que é de direito.
+Contrarrazões às e-STJ, fls. 484-493.
+É o relatório.
+A questão jurídica referente ao direito à conversão em pecúnia de licença-prêmio não gozada nem contada em dobro para a aposentadoria do servidor público federal foi submetida ao regime dos precedentes qualificados pelo Superior Tribunal de Justiça nos seguintes termos:
+Tema 1.086/STJ: a) "definir se o servidor público federal possui, ou não, o direito de obter a conversão em pecúnia de licença-prêmio por ele não gozada e nem contada em dobro para fins de aposentadoria; b) em caso afirmativo, definir se a referida conversão em pecúnia estará condicionada, ou não, à comprovação, pelo servidor, de que a não fruição ou contagem da licença-prêmio decorreu do interesse da Administração Pública".
+Embora, no caso, seja militar o autor da ação, a licença especial estabelecida pelo revogado art. 68 da Lei n. 6.880/1980 tem a mesma natureza jurídica da licença-prêmio, na medida em que correspondia ao afastamento, por 6 (seis) meses, a cada decênio de tempo de efetivo serviço prestado.
+Nesse contexto, por medida de economia processual e para evitar decisões dissonantes entre Cortes integrantes do mesmo sistema de Justiça, os recursos que tratam da mesma controvérsia devem retornar à origem, para aguardar ou aplicar a solução alcançada no feito afetado, viabilizando, assim, a observação uniforme da tese repetitiva.
+Cumpre esclarecer que, somente depois de realizada essa providência, com o exaurimento da instância ordinária, os recursos excepcionais deverão ser encaminhados para os Tribunais Superiores, a fim de que possam ser analisadas as questões jurídicas neles suscitadas, desde que não prejudicados pelo novo pronunciamento da Corte local.
+Ante o exposto, determino a devolução dos autos ao Tribunal de origem, para observação da disciplina processual dos arts. 1.039 e 1.040 do CPC, de modo que se: i) negue seguimento ao recurso, se o acórdão recorrido coincidir com a tese vinculante do Tribunal Superior; ou ii) proceda ao juízo de retratação, na hipótese de ter o Colegiado local divergido da interpretação fixada no precedente qualificado.
+Publique-se. Intimem-se.
