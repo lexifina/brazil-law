@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de embargos de declaração opostos à decisão por mim proferida (e-STJ fls. 683/687) em que dei provimento ao recurso especial interposto pelo MinistérioPúblico Federal para restabelecer a operação dosimétrica realizada na sentença de e- SJT fls. 294/311.
+A defesa alega "da leitura da decisão embargada verifica-se que a mesma é omissa, tendo a mesma ocorrido quando a decisão falta clareza em sua redação, especialmente quando deixa de considerar que dos vetores trazidos no RESP interposto pelo Ministério Público Federal e usado como fundamento para exasperar a pena base e restabelecer aquela aplicada na sentença de primeiro grau, já havia sido analisada no acórdão proferido peloTRF5º Região, tendo o mesmo valorado as consequências do delito como fundamento a estabelecer a pena base acima do mínimo legal." (e-STJ fls. 691/692)
+Prossegue afirmando que "na decisão embargada faltam indicações mínimas e necessárias acerca dos motivos que nortearam a dosimetria penal aplicada ao acusado e dos parâmetros pelos quais a pena foi estabelecida, pois apenas se limitou a "restabelecer a operação dosimétrica constante da sentença de e-STJ fls. 294/311", sem, contudo, fundamentar referida decisão, afinal com dito acima apenas duas circunstâncias daquelas apontadas no RESP foram valoradas desfavor do embargante." (e-STJ fl. 692)
+É o relatório. Decido.
+Os aclaratórios não merecem acolhida.
+Os embargos de declaração, nos termos do art. 619 do Código de Processo Penal, são cabíveis nas hipóteses de ambiguidade, obscuridade, contradição ou omissão existentes no julgado, ou ainda, para sanar erro material. Ausentes quaisquer dessas hipóteses, devem ser rejeitados, sob pena de se permitir a rediscussão da matéria meritória já decidida.
+No caso em tela, não existe nenhum vício autorizativo do presente recurso. O
+O Ministério Público Federal em seu recurso especial pede que seja sopesadas desfavoravelmente os vetores judiciais da culpabilidade, personalidade e consequências do delito.
+Ao confrontar a tese ministerial com o acórdãoregionalverificou-se que, de fato, eram inidôneos os motivos que levaram o Tribunal Regional a afastar os vetores.
+Quanto à culpabilidade, ficou consignado que o tempo pelo qual o recorrente percebeu indevidamente o benefício previdenciário constitui fundamento concreto distinto das elementares do crime e demonstra um maior grau de reprovabilidade da conduta, autorizando a elevação da pena basilar. Nessa linha:AgRg no REsp n. 1.981.263/PE, Relatora Ministra LAURITA VAZ, Sexta Turma, DJe de 21/6/2022.
+Assentou-se,também, que o valor do prejuízo ao erário autoriza a negativação do vetor judicial das consequênciasdo delito. A propósito: AgRg no REsp n. 1.981.263/PE, Relatora Ministra LAURITA VAZ, Sexta Turma, DJe de 21/6/2022.
+A personalidade dissimulada do agenteque tentou, inclusive, ludibriar o juízo, forjando versões diversas e aanotação falsa na CTPS, também constituem elementos que extrapolam o tipo penal.
+Oportuno registrar, ainda, quea pena basilar para o crime do art. 171, §3º, do CP foi estabelecida em 2 anos e 6 meses de reclusão, abaixo dos critérios validamente considerados por esta Corte, consistentes em 1/6 sobre a pena mínima ou 1/8 sobre o intervalocominado.
+Diante disso, à míngua de seus pressupostos, rejeito os presentes aclaratórios.
+Intimem-se.
