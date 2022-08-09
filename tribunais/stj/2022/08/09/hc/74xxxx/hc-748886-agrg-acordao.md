@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+KELVIN ALMEIDA DA SILVAinterpõe agravo regimental contra decisão de fls. 76-78, por meio da qual deneguei a ordem de habeas corpus.
+Em suas razões, o agravante sustenta que para a exigência de realização de exame criminológico é necessário apontar "fatos concretos, ocorridos durante a execução da pena, não bastando a mera afirmação de que o sentenciado tem longa pena a cumprir, ou que praticou crimes graves, ou que cometeu faltas disciplinares, até porque, estas, constituindo fatos pretéritos, não devem ensejar a necessidade de exame criminológico, por não se tratar da conduta carcerária atual" (fl. 85).
+Ressalta que a última falta grave teria sido praticada há mais de 2 anos - 17/9/2019 - e já estaria reabilitada.
+Requer o provimento do regimental a fim de que seja restabelecida a decisão proferida pelo Magistrado da execução, que lhe promoveu ao regime semiaberto.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROGRESSÃO DE REGIME. EXAME CRIMINOLÓGICO. SÚMULA N. 439 DO STJ. JUSTIFICATIVA CONCRETA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A determinação de exame criminológico está em consonância com a Súmula n. 439 do STJ, pois o Tribunal registrou o histórico carcerário desabonador do sentenciado.
+2 . Constou do acórdão estadual que o agravante, no curso da execução,praticou quatro faltas disciplinares - duas de natureza média e duas de natureza grave -, a justificar a fundada dúvida sobre sua aptidão para o retorno ao convívio social.
+3. Ausentes fatos novos ou teses jurídicas diversas que permitam a análise do caso sob outro enfoque, deve ser mantida a decisão agravada.
+4. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Mantenho a denegação da ordem.
+O paciente cumpre pena privativa de liberdade de 15 anos, 94 meses e 10 dias de reclusão, com término previsto para 27/10/2031.
+O Tribunal de origem considerou precipitada sua progressão ao regime semiaberto, pois o reeducando nem sequer possuiria bom comportamento carcerário, na medida em que "praticou faltas disciplinares graves em 17/9/2019 e 26/4/2019, além de faltas médias em 17/9/2019 e 29/8/2019" (fl. 14). Ademais, apontou o "histórico disciplinar conturbado" do apenado,o que respaldou a determinação de exame criminológico para a melhor aferição de sua capacidade de retorno ao convívio em sociedade. Confira-se (fls. 15-17, grifei):
+ ..  pela pendência da reabilitação da conduta carcerária após as faltas graves e médias, o agravado possui atualmente "mau" comportamento, o que já impediria a concessão ou manutenção da progressão de regime, sem margem para considerações. Não se ignora, porém, que a data da reabilitação da conduta carcerária já se aproxima. Ocorrerá em 26/6/2022. Não seria razoável, portanto, a mera cassação do benefício, dada esta particularidade do caso concreto.
+Nada obstante, tendo em vista o histórico disciplinar conturbado, marcado por faltas graves e médias, em um total de 4 episódios de indisciplina na unidade prisional, dentre desobediência, desrespeito e posse de drogas, não reabilitadas nos termos da Resolução SAP nº 144/10 (portanto recentes), nota-se que KELVIN realmente demonstrou periculosidade e resistência na absorção da terapêutica penal, razão pela qual é de rigor a sua submissão ao exame criminológico. Em reforço, consta que o ora agravado já foi favorecido com o livramento condicional, mas tornou a delinquir durante a fruição do benefício (fls. 24), cometendo roubo em 20/2/2019, pelo qual foi condenado nos autos nº 1500814-25.2019.8.26.0566, tratando-se de delito com especial gravidade em concreto, eis que a arma de fogo empregada para a subtração foi até mesmo disparada no meio da empreitada (fls. 248 daqueles autos).
+Em muitos casos, o simples atestado de comportamento carcerário expedido pelo órgão administrativo deixa margem de dúvida em torno do requisito subjetivo, que não poderá ser resolvida em favor do sentenciado, haja vista que na execução vige o in dubio pro societate. E para que o direito à progressão ou livramento condicional seja assegurado sem descuidar da necessidade de velar pela segurança da coletividade, entra em cena o exame criminológico.
+A meta da realização da perícia, como se sabe, é coletar elementos técnicos em torno da maturidade e disciplina do reeducando. Segundo os ensinamentos do Des. Guilherme de Souza Nucci:
+ ..
+Observa-se que a Corte Suprema e a Superiora firmaram posição para definir que o exame criminológico pode ser utilizado para obtenção de um panorama mais preciso sobre a personalidade dos aspirantes a benefícios em execução, desde que a diligência seja determinada por decisão fundamentada. Aliás, o Código Penal contempla dispositivo que prescreve a elevação de critérios, para fins de benefícios, nas hipóteses de crimes com violência ou grave ameaça à pessoa (art. 83, § único).
+Neste sentido, a Súmula nº 439 do Colendo STJ:
+ ..
+A progressão de regime se revelou prematura, diante da dúvida persistente sobre o requisito subjetivo.
+Em suma, em face dos fundamentos acima indicados, para dirimir a dúvida acerca do mérito para progredir, a prudência recomenda a submissão do sentenciado à comissão de especialistas, capacitada a averiguar se a progressão e a menor vigilância que a acompanha ensejariam riscos ao corpo social.
+Nem sempre o sentenciado tem direito subjetivo à transferência ao regime mais brando quando cumpre o lapso objetivo da progressão. Mesmo com a emissão de atestado de boa conduta carcerária, se existir comportamento desabonador reiterado ou mais ou menos recente durante o resgate da pena (como inúmeras faltas disciplinares), admite-se a determinação do exame criminológico (ou até mesmo o indeferimento da progressão), pois se compreende que o Poder Judiciário não é mero órgão chancelador do documento administrativo.
+Esse é o teor da Súmula n. 439 do STJ, "admite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada".
+In casu, o histórico carcerário conturbado justificou a determinação do estudo de periculosidade. O ora agravante registra a prática de duas faltas disciplinares de natureza média e duas de natureza grave, estas cometidas em 26/4/2019 e 17/9/2019, consistentes, respectivamente, em desobediência e desrespeito e posse de entorpecente (fl. 50), o que constitui motivação idônea para determinar o exame criminológico. Ademais, aopreso já foi concedido livramento condicional, oportunidade na qual retornou ao cárcere após a prática de novo delito (roubo circunstanciado).
+O acórdão está conforme a Súmula n. 439 do STJ, o que autorizou a solução monocrática do writ. Assim:
+ ..  não ofende o princípio da colegialidade a prolação de decisão monocrática pelo relator, quando estiver em consonância com súmula ou jurisprudência dominante desta Corte e do Supremo Tribunal Federal, exatamente como ocorrido na espécie. Dessa forma, é possível "que seja proferida decisão monocrática por Relator, sem qualquer afronta ao princípio da colegialidade ou cerceamento de defesa, quando todas as questões são amplamente debatidas, havendo jurisprudência dominante sobre o tema, ainda que haja pedido de sustentação oral" (AgRg no HC 647.128/RJ, Rel. Ministro Felix Fischer, Quinta Turma, julgado em 13/04/2021, DJe 19/4/2021).
+ ..
+(AgRg no HC n. 726.142/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 29/6/2022)
+Observou-se, no caso, o entendimento de que:
+ ..
+1. A despeito de o exame criminológico não ser requisito obrigatório  .. , em hipóteses excepcionais, os tribunais superiores vêm admitindo a sua realização para a aferição do mérito do apenado. Aliás, tal entendimento foi consolidado no enunciado da Súmula n. 439 desta Corte Superior de Justiça.
+2. No caso dos autos, as instâncias ordinárias, ao determinarem a realização de exame criminológico, lograram fundamentar a necessidade do referido exame invocando elementos concretos dos autos, sobretudo, o fato de que o sentenciado "registra 06 faltas disciplinares graves em seu prontuário  ..  denotando tratar-se de indivíduo que não se submete ao regramento mais básico que lhe fora imposto no cárcere" (e-STJ fls. 62 e 64), o que evidencia a idoneidade da fundamentação utilizada, não havendo falar, portanto, em existência de flagrante ilegalidade que justifique a concessão da ordem.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 695.981/SP, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 25/2/2022)
+ ..
+2. Não é vedado ao órgão julgador determinar a submissão do apenado ao exame criminológico, desde que o faça de maneira fundamentada, em estrita observância à garantia constitucional de motivação das decisões judiciais, expressa no art. 93, IX, bem como à própria previsão do art. 112, § 1º, da Lei de Execução Penal: "A decisão será sempre motivada e precedida de manifestação do Ministério Público e do defensor."
+3. Esse entendimento se encontra-se sedimentado neste Superior Tribunal de Justiça por meio da Súmula 439, in verbis: "admite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada."
+4. No caso dos autos, muito embora o paciente tenha alcançado o requisito objetivo, verifica-se a ausência demonstração do cumprimento do subjetivo, em face do histórico prisional conturbado (cometimento de faltas disciplinares de natureza grave e média), de modo que não se verifica constrangimento ilegal na exigência de realização de exame criminológico  ..
+ ..
+(AgRg no HC 639.495/SP, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 17/8/2021)
+ ..  A prática de faltas graves é indicativa da ausência de cumprimento do requisito subjetivo da progressão de regime.A circunstância de o paciente já haver se reabilitado, pela passagem do tempo, desde o cometimento das sobreditas faltas, não impede que se invoque o histórico de infrações praticadas no curso da execução penal, como indicativo de mau comportamento carcerário (HC n. 347.194/SP, Rel. Ministro FELIX FISCHER, julgado em 28/6/2016)"  ..
+(AgRg nos EDcl no HC 673.334/SP, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJE 28/6/2021)
+Portanto, ausentes fatos novos ou teses jurídicas diversas que permitam a análise do caso sob outro enfoque, deve ser mantida a decisão agravada.
+À vista do exposto,nego provimentoao agravo regimental.
