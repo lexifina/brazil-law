@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu recurso especial interposto por COMDONÍNIO DO EDIFÍCIO VIA ALTO MAPENDI 1, com fundamento nas alíneas a e c do permissivo constitucional, no qual se insurgiu contra acórdão do Tribunal de Justiça do Rio de Janeiro assim ementado (e-STJ, fls. 396-397):
+APELAÇÃO CÍVEL. EMBARGOS DE TERCEIRO. SENTENÇA DE PROCEDÊNCIA QUE DETERMINOU O CANCELAMENTO DO ARRESTO SOBRE O IMÓVEL OBJETO DA LIDE E CONDENOU OS EMBARGADOS AO PAGAMENTO DAS DESPESAS PROCESSUAIS E HONORÁRIOS ADVOCATÍCIOS DE10% SOBRE O VALOR ATUALIZADO DA CAUSA. RECURSOS DOS EMBARGADOS. ILEGITIMIDADE DO EXECUTADO. REQUERIMENTO DE ARRESTO DO IMÓVEL FORMULADO PELO EXEQUENTE. INEXISTÊNCIA DE LITISCONSÓRCIO PASSIVO UNITÁRIO. INTELIGÊNCIA DO ARTIGO 677, § 4º DO CÓDIGO DE PROCESSO CIVIL. PROMESSA DE COMPRA E VENDA. AUSÊNCIA DE REGISTRO NÃO INVALIDA O NEGÓCIO CELEBRADO ANTES DA CONSTRIÇÃO. CONJUNTO PROBATÓRIO EVIDENCIA QUE O NEGÓCIO JURÍDICO FOI REALIZADO ANTES DA CONSTRIÇÃO JUDICIAL, SENDO QUE A JURISPRUDÊNCIA OFERECE PROTEÇÃO AO PROMITENTE COMPRADOR E ADMITE A DEFESA DA POSSE, CONFORME ORIENTA O ENUNCIADO SUMULAR N. 84 DO SUPERIOR TRIBUNAL DE JUSTIÇA. O EMBARGANTE QUE NÃO DEU CAUSA ÀCONSTRIÇÃO INDEVIDA DIANTE DA IMPOSSIBILIDADE DE LEVAR O IMÓVEL A REGISTRO, TENDO EM VISTA A PENDÊNCIA DE QUITAÇÃO. PROVIMENTO DO RECURSO DA CONSTRUTORA. DESPROVIMENTO DO RECURSO DO CONDOMÍNIO.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 430-435).
+No recurso especial, o recorrente apontou, além de divergência jurisprudencial, violação dos arts.54 da Lei n. 13.097/2015; e 1.227 e 1.245 do CC.
+Esclareceu que se opôs ao acórdão que afastou arresto incidente sob imóvel, desrespeitandoosprincípios da concentração registral e segurança jurídica. Frisou que o arresto teria observado as anotações constantes na matrícula do imóvel no momento do pedido, logo não havia nenhuma mácula em sua concessão.
+Aduziu não serpossível opor situação jurídica não constante na matrícula do imóvel ao terceiro de boa-fé que adquiriu ou recebeu em garantia os direitos reais sobre o imóvel. Nessa linha, destacou queo terceiro de boa-fé seria o condomínio recorrente, já que o contrato particular de compra e venda não se trata de negócio jurídico constante na matrícula do imóvel, portanto não pode ser oposto. Requereu o provimento do recurso especial (e-STJ, fls. 437-452).
+Nas razões do agravo, a parte agravante impugna os fundamentos da decisão denegatória do recurso, reiterando, no mais, as razões do mérito recursal (e-STJ, fls. 491-502).
+Contraminuta apresentada vindicando a manutenção do acórdão e a fixação de multa em desfavor do condomínio(e-STJ, fls. 751-764).
+Brevemente relatado, decido.
+A segunda instância concluiu pela viabilidade dos embargos de terceiro para deferir o afastamento de arresto incidente sob o imóvel objeto de aquisição. Firmou o acórdão queo negócio jurídico foi realizado antes da constrição judicial e a jurisprudência do STJ reconheceria proteção ao promitente comprador de boa-fé, o que seria o caso dos autos.
+Nota-se (e-STJ, fls. 403-406):
+Com relação ao apelo do Condomínio, o negócio jurídico foi realizado antes da constrição judicial, sendo que a jurisprudência oferece proteção ao promitente comprador em tais situações, admitindo a defesa da posse por meio dos embargos de terceiro, conforme orienta o enunciado sumular n. 84 do Superior Tribunal de Justiça, verbis:
+ ..
+Averbe-se que, conforme reiterada jurisprudência desta corte, a ausência de registro não pode prejudicar o promitente comprador de boa-fé.
+ ..
+A embargante não deu causa à constrição indevida diante da impossibilidade de levar o imóvel a registro, tendo em vista a pendência de quitação, decorrente do financiamento bancário, relatada na inicial.
+Logo, deve ser mantida a sentença em relação ao Condomínio, sendo descabida a liberação doarresto somente através da substituição por outro imóvel indicado pela Construtora, haja vista ser a constrição indevida, como acima fundamentado.
+As ponderações a respeito da boa-fé da parte agravada e data da compra do bem - anteriormente à constrição - foram extraídas da apreciação do contexto fático-probatório dos autos, ocasionando o óbice da Súmula 7/STJ, que incide sobre ambas as alíneas do permissivo constitucional.
+O Tribunal de origem afirmou que o art. 54 da Lei n.13.097/2015 não imporia o registro ao promitente comprador de boa-fé, fundamento relevante no julgado que não foi objetivamente atacado no apelo especial - Súmula 283/STF.
+Não se observa intuito meramente protelatório ou evidente má-fé, logo não cabe a imposição de multa em desfavor do insurgente.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do advogado da parte ora recorrida em mais R$ 200,00 (duzentos reais).
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. CONCLUSÃO NO SENTIDO DA BOA-FÉ DA PARTE RECORRIDA. SÚMULA 7/STJ. RELEVANTE FUNDAMENTO DO JULGADO QUE NÃO FOIDEVIDAMENTE ATACADO NO RECURSO ESPECIAL. SÚMULA 283/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
