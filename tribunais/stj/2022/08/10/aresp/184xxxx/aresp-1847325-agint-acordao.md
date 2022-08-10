@@ -1,0 +1,41 @@
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. EXCLUSÃO DO ICMS DA BASE DE CÁLCULO DO PIS E CONFINS. MODULAÇÃO OCORRIDA NOS EMBARGOS DE DECLARAÇÃO NO RE 574.706, COM REPERCUSSÃO GERAL. FATO NOVO. ART. 493 DO CPC/15. NÃO CONFIGURAÇÃO. MATÉRIA DE FUNDO NÃO IMPUGNADA PELA FAZENDA EM SEU RECURSO ESPECIAL E, POR CONSEQUÊNCIA, NÃO CONHECIDA NO STJ.
+1. Trata-se de Agravo Interno contra decisão que não conheceu do Agravo em Recurso Especial , por ausência de violação ao art.1022 do CPC; pelo viés constitucional dado à matéria; e pela incidência das Súmulas 282 e 356/STF.
+2. O Agravo Interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado.
+3. A falta de impugnação específica dos fundamentos da decisão agravada inviabiliza o conhecimento do Agravo Interno, nos termos do art. 1021, § 1º, do CPC/2015. Incidência da Súmula 182/STJ. AgInt na Pet 10.274/DF, Rel. Min. Herman Benjamin, Primeira Seção, DJe 19.12.2017.
+4. Para o reconhecimento de fato superveniente (art. 493 do CPC/2015), é necessário, além do conhecimento do Recurso, que haja relação entre o objeto recursal e o aludido fato superveniente. Trata-se de decorrência lógica do princípio tantum devolutum quantum apellatum.
+5. Nos termos da jurisprudência do STJ, "a observância dos precedentes em repercussão geral, conforme previsão do art. 927, III, do CPC/2015, será feita caso se venha a examinar o mérito da causa" (AgInt nos EDcl no AgRg no Ag 1.216.292/DF, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, DJe de 9.5.2018)  não é a hipótese dos autos.
+6. Agravo Interno não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, negou provimento ao agravo interno, nos termos do voto do Sr. Ministro-Relator." Os Srs. Ministros Og Fernandes, Mauro Campbell Marques, Assusete Magalhães e Francisco Falcão votaram com o Sr. Ministro Relator."
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Agravo Interno contra decisão que não conheceu do Agravo em Recurso Especial, por ausência de violação ao art.1022 do CPC; pelo viés constitucional dado à matéria; e pela incidência das Súmulas 282 e 356/STF.
+O acórdão recebeu esta ementa (fls. 189-196, e-STJ):
+TRIBUTÁRIO. EXCLUSÃO DO ICMS DA BASE DE CÁLCULO. DO PIS E DA COFINS. TEMA 69 DO STF. LEIS 9.718/1998 E 12.973/2014.
+1. Nos termos do enunciado do Tema 69 - STF, o ICMS destacado nas notas fiscais não compõe a base de cálculo para a incidência do PIS e da COFINS.
+2. A tese jurídica advinda do julgamento do RE 574.706 aplica- se inclusive aos pagamentos efetuados sob a égide da Lei 12.973/2014 (TRF4, Arguição de Inconstitucionalidade n. 5051557-64.2015.404.0000).
+Os Embargos de Declaração foram desacolhidos (fls. 225-229, e-STJ).
+A Fazenda Nacional fez consignar que não se insurge contra a "alegação de violação aos arts. 13, § 1º, I, 19 e 20 da Lei Complementar 87/96, 1º da Lei 10.637/2002, 1º da Lei 10.833/2002, 2º da Lei 9.715/98 e 2º da Lei Complementar 70/91, incidiria os óbices das Súmulas 282/STF e 356/STF, bem como que a controvérsia teria sido dirimida, pelo Tribunal de origem, sob enfoque eminentemente constitucional(..)", exercendo o direito de interposição de Recurso parcial apenas quanto à violação aos arts. 489 e 1.022 do CPC e à necessidade de manifestação sobre fato superveniente que implica questão de ordem pública sobre a qual este Tribunal não pode se furtar a julgar.
+Impugnação às fls. 435-438, e-STJ.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. EXCLUSÃO DO ICMS DA BASE DE CÁLCULO DO PIS E CONFINS. MODULAÇÃO OCORRIDA NOS EMBARGOS DE DECLARAÇÃO NO RE 574.706, COM REPERCUSSÃO GERAL. FATO NOVO. ART. 493 DO CPC/15. NÃO CONFIGURAÇÃO. MATÉRIA DE FUNDO NÃO IMPUGNADA PELA FAZENDA EM SEU RECURSO ESPECIAL E, POR CONSEQUÊNCIA, NÃO CONHECIDA NO STJ.
+1. Trata-se de Agravo Interno contra decisão que não conheceu do Agravo em Recurso Especial , por ausência de violação ao art.1022 do CPC; pelo viés constitucional dado à matéria; e pela incidência das Súmulas 282 e 356/STF.
+2. O Agravo Interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado.
+3. A falta de impugnação específica dos fundamentos da decisão agravada inviabiliza o conhecimento do Agravo Interno, nos termos do art. 1021, § 1º, do CPC/2015. Incidência da Súmula 182/STJ. AgInt na Pet 10.274/DF, Rel. Min. Herman Benjamin, Primeira Seção, DJe 19.12.2017.
+4. Para o reconhecimento de fato superveniente (art. 493 do CPC/2015), é necessário, além do conhecimento do Recurso, que haja relação entre o objeto recursal e o aludido fato superveniente. Trata-se de decorrência lógica do princípio tantum devolutum quantum apellatum.
+5. Nos termos da jurisprudência do STJ, "a observância dos precedentes em repercussão geral, conforme previsão do art. 927, III, do CPC/2015, será feita caso se venha a examinar o mérito da causa" (AgInt nos EDcl no AgRg no Ag 1.216.292/DF, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, DJe de 9.5.2018), o que não é a hipótese dos autos.
+6. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 30 de setembro de 2021.
+No caso, a decisão monocrática afastou a alegada afronta ao art. 1.022 do CPC; aplicou as Súmulas 282 e 356 do STF, quanto à invocada violação ao art. 489, § 1º, V, do CPC/2015, bem como quanto ao malferimento aos arts. 10, 11, 141, 192, 489, II, e 490 do CPC/2015.
+O Agravo Interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado.
+A falta de impugnação específica dos fundamentos da decisão agravada inviabiliza o conhecimento do Agravo Interno, nos termos do art. 1021, § 1º, do CPC/2015. Incidência da Súmula 182/STJ. AgInt na Pet 10.274/DF, Rel. Min. Herman Benjamin, Primeira Seção, DJe 19.12.2017.
+Constata-se, ainda, que não se configura ofensa aos arts. 489, §1º, V, e 1.022, II, parágrafo único, II, do CPC/2015, porquanto o Tribunal a quo julgou integralmente a lide e solucionou, de maneira amplamente fundamentada, a controvérsia, em conformidade com o que lhe foi apresentado.
+A Fazenda Nacional admite que o tema envolve questão constitucional e que a "situação ideal" seria o próprio STF definir o critério de cálculo do ICMS a ser excluído da base de cálculo do PIS e da Cofins. Nesse contexto, afirma que opôs Embargos de Declaração no RE 574.706/PR para pleitear: a) a modulação dos efeitos do acórdão proferido no julgamento do Recurso Extraordinário com repercussão geral; b) a especificação da quantia do ICMS a ser levada em conta (para fins de exclusão da base de cálculo do PIS e da Cofins).
+Para o reconhecimento de fato superveniente (art. 493 do CPC/2015), é necessário, além do conhecimento do Recurso, que haja relação entre o objeto recursal e o aludido fato superveniente. Trata-se de decorrência lógica do princípio tantum devolutum quantum apellatum.
+É mister acrescentar que, nos termos da jurisprudência desta Corte, "a observância dos precedentes em repercussão geral, conforme previsão do art. 927, III, do CPC/2015, será feita caso se venha a examinar o mérito da causa" (AgInt nos EDcl no AgRg no Ag 1.216.292/DF, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, DJe de 9.5.2018), o que não é a hipótese dos autos.
+A matéria, como já exposto acima, possui natureza estritamente constitucional, não sendo possível sequer a apreciação do mérito do apelo nobre. O inconformismo da Fazenda Nacional, em última análise, diz respeito à definição de balizas para aplicar o entendimento fixado pelo STF no RE 574.706/PR, o que compete apenas ao Pretório Excelso.
+Logo, ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes e em consonância com entendimento pacífico deste Tribunal, não há prover o Agravo Interno que contra ela se insurge.
+Diante do exposto, nego provimento ao Agravo Interno.
+É como voto.
