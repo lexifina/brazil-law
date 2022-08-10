@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto pela SUPERINTENDÊNCIA NACIONAL DE PREVIDÊNCIA COMPLEMENTAR - PREVIC, contra decisão negou seguimento a recurso especial fundamentado na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 20/04/2022.
+Concluso ao gabinete em: 01/08/2022.
+Ação: ordinária ajuizada por AILTON LUIZ DA SILVA E OUTROS contra a FUNDAÇÃO PETROS DE SEGURIDADE SOCIAL - PETROS, objetivando que a ré deixasse depromover descontos de adicionais/contribuições extraordinárias em seu benefício de suplementação de aposentadoria, com fundamento na aplicação do Plano de Equacionamento do Déficit por ela estabelecido.
+Decisão interlocutória: indeferiu o pedido de ingresso da Agravante como assistente e declinou a competência para a Justiça Comum Estadual.
+Acórdão: negou provimento aoagravointerpostopela agravante, nos termos da seguinte ementa:
+"AGRAVO DE INSTRUMENTO. COMPETÊNCIA. INTERESSE PREVIC. AGRAVO NÃOPROVIDO.
+1. O STF, no julgamento do RE 586.453 decidido pela sistemática de repercussão geral já firmouentendimento no sentido de que o processamento de ações ajuizadas contra entidades deprevidência complementar é da Justiça Comum.
+2. A sentença a ser proferida não terá efeitos na esfera jurídica da PREVIC, mantendo incólumesua competência. Note-se que não haverá sequer reflexos de natureza econômica a autorizar aaplicação do art. 5º, parágrafo único, da Lei 9.469/97.
+3. Agravo de instrumento não provido." (e-STJ fl. 157).
+Embargos de declaração: opostos pela FUNDAÇÃO PETROBRAS DE SEGURIDADESOCIAL - PETROS e pela SUPERINTENDÊNCIA NACIONAL DE PREVIDÊNCIACOMPLEMENTAR - PREVIC , foram rejeitados.
+Recurso especial: alegou ofensa aos arts. 5º, 21 e 72 da LC109/01; 2º da Lei 12.154/09; 119 do CPC;e 5º da Lei 9.469/97. Sustentou que deve ser admitido seuingresso na ação originária, na qualidade de assistente simples da ré.
+RELATADO O PROCESSO, DECIDE-SE.
+Da análise da decisão agravada, constata-se que o recursoespecialinterposto pelaagravantefoi inadmitido com base na incidênciadas Súmulas 7 e 211do STJ e 282 do STF.
+No entanto, no agravo em recurso especial, embora a agravante tenha refutado os fundamentos acerca dos arts.119 do CPCe 5º da Lei 9.469/97, quanto ao prequestionamento, e alegado que não pretende o reexame fático probatório,não impugnouadequadamente, de forma clarae específica,os óbicesaplicados, o fazendo apenas de formagenérica, repisando, no mais, osmesmos argumentos já expendidos norecurso especial em defesa de sua tese,sem conseguir afastar a aplicação das Súmulas aplicadas.
+Ressalte-se que não basta a mera alegação de que a hipótese prescinde dereexame de provas, com alegações genéricas sobre a questão ser dedireitoou de que se requer apenas a revaloração da prova ou a corretaaplicação da legislação que entende violada.
+Deve serdemonstrada aefetiva desnecessidade do reexame ou a desnecessidade de se reavaliar ascláusulas do contrato, na hipótese emque o Tribunal de origem declara que"No mais, a pretexto de alegar violações à lei federal, a parte recorrente pretende rediscutir a justiça da decisão, em seu contexto fático-probatório. (..)Revisitar referidas conclusões pressupõe revolvimento do acervo fático probatório dos autos, inviável no âmbito do recurso especial, nos termos do entendimento consolidado na Súmula 7 do Superior Tribunal de Justiça: "A pretensãode simples reexame de prova não enseja recurso especial." (e-STJ fls. 264/265). Oque não foi feito.
+No mais, especificamente quanto às Súmulas 211/STJ e 282/STF, cumpre esclarecer, queseu afastamento deve ser demonstrado com a indicação expressa dos trechos onde foi analisada a questão tida por violada, o que foi feito apenas com relação aos arts. 5º, da Lei 9.469/97 e 119 do CPC, sendo admitido pela própria agravante que alegou "Conquanto nem todos esses artigos tenham sido objeto de manifestação expressa do E. Tribunal "aquo", no que toca ao art. 5º da Lei nº 9.469/97 assim como ao artigo 119 do CPC/2015, houve Veja-se:indiscutível pronunciamento" (e-STJ, fl. 270).
+Consoante o entendimento desta Corte, firmado à luz do princípio dadialeticidade, cumpre à parte recorrente o ônus de evidenciar, nasrazõesdo agravo em recurso especial, o desacerto da decisão agravada.
+Descumprido esse ônus, ou seja, se ausente a impugnação pontualeconsistente do fundamento da decisão agravada, o conhecimento do agravoéinadmissível, a teor do disposto na Súmula 182 deste Tribunal e nosarts.932, III do CPC/2015.
+Nesses termos, não havendo a impugnação dos fundamentos dadecisãoagravada da forma exigida, aplicável o óbice da Súmula 182 doSTJ.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial,comfundamento no art. 932, III, do CPC/15.
+Previno as partes que a interposição de recurso contra esta decisão,sedeclarado manifestamente inadmissível, protelatório ou improcedente,poderá acarretar na condenação ao pagamento das penalidades fixadasnosarts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
