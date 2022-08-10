@@ -1,0 +1,56 @@
+DECISÃO
+AUGUSTO APARECIDO DA CRUZ FARIAalegasofrer coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulona Apelação n. 0833313-06.2013.8.26.0052.
+Consta dos autos que o paciente foi condenado a 8 anos, 4 meses e 24 diasde reclusão, em regime inicialmente fechado, pela prática do delito de homicídio qualificado tentado.
+A defesa busca, por meio deste writ, o redimensionamento da reprimenda imposta, com a redução da pena basilar ao mínimo legal. Afirma que deve ser levada "em contaa primariedade do paciente, ausência de antecedentes e a análise de todas das circunstâncias judiciais" (fl. 13). Pugna pela redução doquantumde aumento na segunda fase para 1/6 em decorrência da agravante da violência contra a mulher. Sustenta a aplicação da fração de 2/3 em razão da minorante da tentativa. Por fim, requer seja fixado o regime inicialmente aberto ou semiaberto.
+A liminar foi indeferida (fls. 103-104) e o Ministério Público Federal opinou pelo não conhecimento da impetração (fls. 107-111).
+Decido.
+I.Contextualização
+O paciente foi condenado pelocrimedescritono art.121, § 2º,I e IV, na forma do art. 14, II, todos do Código Penal. OJuízo singularfixoua penada seguinte forma (fls. 56-57, grifos no original):
+Nos termos do artigo 59 do mesmo Código, fixo a pena-base em 14 (quatorze) anos de reclusão.
+A pena-base foi fixada em 1/6 (um sexto) acima do mínimo legal considerando que as circunstâncias judiciais são desfavoráveis ao acusado.
+Com efeito, merece ser salientada a repugnância e frieza da ação pelo réu praticada, para ceifar a vida da ex-companheira Caroline, com quem tinha um filho menor e na presença da criança, utilizando arma branca, após ter insistido para entrar na casa da vítima por volta das 05h40min, a indicar o desvalor pela vida humana e personalidade adversa aos conceitos sociais. Extrai-se do depoimento da testemunha Irdaci Moura Ramalho, ouvida nesta data em plenário, que: "(..) O menino via tudo, pois estava tremendo em cima da cama.(..)"
+ ..
+Em segunda fase, sendo duas as qualificadoras reconhecidas, uma deve ser tida como elemento integrativo do tipo, servindo a outra como agravante genérica porque ambas compatíveis com o rol contido no artigo 61 do Código Penal. Também incide a agravante de ter o agente comedido o crime com violência contra a mulher, com fundamento no artigo 61, inciso II, alínea "f", do Código Penal. Assim, agravo a pena de 1/5 (um quinto), resultando em 16 (dezesseis) anos, 09 (nove) meses e 18 (dezoito) dias de reclusão.
+Na terceira etapa, pela forma tentada, reduzo a pena de 1/2 (metade),perfazendo um total de 08 (oito) anos, 04 (quatro) meses e 24 dias de reclusão, pena esta que, na ausência de outros elementos, torno definitiva.
+A redução, pela forma tentada, foi estabelecida em razão do "iter criminis" percorrido, pois o réu superou várias fases, tendo sido a vítima atingida por mais de um golpe de faca, extraindo-se do laudo de lesão corporal acostado a fls. 106 a seguinte descrição "sutura cirúrgica recente com fio de nylon preto em região cervical lateral esquerda, mandibular esquerda, infra-escapular esquerda e 4º dedo da mão esquerda". Assim, a redução da pena deverá se dar na metade.
+Inconformada, a defesa interpôs apelação perante a Corte estadual que, à unanimidade, negouprovimento ao apelo.
+II. Pena-base
+A fixação da pena é regulada por princípios e regras constitucionais e legais previstos, respectivamente, nos arts. 5º, XLVI, da Constituição Federal, 59 do Código Penal e 387 do Código de Processo Penal.
+Todos esses dispositivos remetem o aplicador do direito à individualização da medida concreta para que, então, seja eleito o quantum de sanção a ser aplicada ao condenado criminalmente, com vistas à prevenção e à reprovação do delito perpetrado.
+Assim, para obter-se uma aplicação justa da lei penal, o julgador, dentro dessa discricionariedade juridicamente vinculada, há de atentar para as singularidades do caso concreto e deve, na primeira etapa do procedimento trifásico, guiar-se pelas oito circunstâncias relacionadas no caput do art. 59 do Código Penal. São elas: a culpabilidade; os antecedentes; a conduta social; a personalidade do agente; os motivos; as circunstâncias e as consequências do crime e o comportamento da vítima.
+Na hipótese, infere-se do trecho acima transcrito quea Juíza Presidente do Tribunal do Júri elevou a pena-base em 2 anos emrazão da existência de uma circunstância judicial desfavorável, qual seja, a prática do delito na presençado filho do ex-casal, que, segundo relatos de testemunha, se tremia em cima da cama.
+Com efeito, a decisão está em consonância com oentendimento desta Corte. Nessa perspectiva:
+No que tange às circunstâncias do crime, foram consideradas desfavoráveispor ter sidopraticada a conduta na presença de criança de sete anos.
+Trata-se de fundamentação idônea para exasperar a pena-base, pois deve serlevado em conta não apenas o grave abalo emocional causado aos menores,mas também o fato de as suas vidas haverem sido submetidas a maior riscopelo emprego de arma de fogo, que a sujeita à possibilidade dedisparosacidentais e ações impulsivas.
+(HC n. 672.522, Rel. Ministro Rogerio Schietti, 6ª T., DJe 4/8/2021, destaquei)
+ ..
+6. As circunstâncias concretas dos delitos indicam a necessidade de maiorresposta penal, já que os crimes foram praticados por cinco agentes emconcurso, que renderam dez membros de uma mesma família durante a invasãoda residência, dentre eles uma mulher grávida e três crianças. Ademais,além de terem proferido ameaças de morte contra as vítimas, os agentesamedrontaram os menores, ao afirmarem que iriam cortar os seus dedos.
+Importa destacar, ainda, que conquanto tenha a Corte de origem reconhecidoa prática de sete delitos em concurso formal, levando em conta aquantidade de patrimônios atingidos, o número de membros da família, seteadultos e três crianças, e as suas circunstâncias pessoais permitem, porcerto, a exasperação da pena-base.
+ ..
+(HC n. 394.824/SP, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 26/2/2018,grifei)
+Registro, por oportuno, que afavorabilidade das demais circunstâncias judiciais não possui o condão de afastar a valoração negativa em comento.
+Assim, reputo adequada a argumentação atrelada à majoração da pena-base.
+III. Segunda fase da dosimetria
+Afirma o impetrante que "o magistrado sentenciante agravou a reprimenda em 1/5, uma vez que o crime foi praticado com violência contra a mulher" (fl. 15). Aduz que "como foi apenas uma única agravante reconhecida, não haveria necessidade de ter agravado a pena na fração alta de 1/5" (fl. 15).
+De plano, anoto que, ao contrário do informado pela defesa, foram reconhecidas duas agravantes pelo Magistrado sentenciante, e não apenas uma, como se infere do seguinte trecho (fl. 57, destaquei):
+Em segunda fase, sendo duas as qualificadoras reconhecidas, uma deve ser tida como elemento integrativo do tipo, servindo a outra como agravante genérica porque ambas compatíveis com o rol contido no artigo 61 do Código Penal. Também incide a agravante de ter o agente comedido o crime com violência contra a mulher, com fundamento no artigo 61, inciso II, alínea "f", do Código Penal. Assim, agravo a pena de 1/5 (um quinto), resultando em 16 (dezesseis) anos, 09 (nove) meses e 18 (dezoito) dias de reclusão.
+Ressalto que o Código Penal não estabelece limites mínimo e máximo de aumento ou redução de pena a serem aplicados em razão das agravantes e das atenuantes genéricas, respectivamente. Na verdade, o art. 61 limitou-se a prever as circunstâncias que sempre agravam a sanção, embora não haja mencionado nenhum valor de aumento. O mesmo ocorre com o disposto no art. 65, que estipula as circunstâncias que sempre atenuam a reprimenda, sem, contudo, fazer nenhuma menção ao quantum de redução.
+Nesse sentido, a doutrina e a jurisprudência têm entendido que cabe ao magistrado, dentro do seu livre convencimento e de acordo com as peculiaridades do caso concreto, escolher a fração de aumento de pena pela incidência da agravante, em observância aos princípios da razoabilidade e da proporcionalidade.
+A jurisprudência deste Superior Tribunal é firme em assinalar que, não obstante a legislação não haja estabelecido frações específicas para o aumento ou a diminuição em decorrência das agravantes e das atenuantes, a fração de 1/6 mostra-se razoável e proporcional (AgRg no REsp n. 1.423.806/SP, Rel. Ministro Gurgel de Faria, 5ª T., DJe 20/8/2015). Ademais, a aplicação de fração superior a 1/6 pela reincidência exige motivação concreta e idônea (HC n. 229.371/DF, Rel. Ministra Laurita Vaz, 5ª T., DJe 4/9/2013).
+In casu, a decisão impugnada exasperou a reprimenda em 1/5 em virtude do reconhecimento de duas agravantes - uma das duas qualificadoras reconhecidas pelo Conselho de Sentençae outra descrita no art. 61, II, "f".
+Assim, verifico que a fração de aumento adotada é proporcional aos limites aceitos pela doutrina e pela jurisprudência, tendo em vista que aexistência de duas agravantes é apta a adotar índice superior a 1/6 na segunda fase, sem reparos a serrealizados na decisão impugnada.
+IV. Tentativa
+Sustenta a defesa que a pena deve ser reduzida em 2/3 na terceira fase da dosimetria.Aduz que "o paciente não superou várias fases na prática do delito, ficando bem longe da consumação do delito, não havendo que se falar em proximidade do momento consumativo do crime de homicídio para justificar a redução da pena no mínimo" (fl. 19).
+Ao contrário do alegado pela defesa, registro que a pena não foi reduzida no mínimo, mas no patamar intermediário de 1/2.
+Sobre o tema, saliento que a fração de diminuição da sanção pelo crime tentado decorre da maior ou da menor proximidade da conduta ao resultado almejado.
+No caso, entendo não haver ilegalidade a ser sanada.
+As instâncias ordinárias justificaram o índice escolhido pelo iter criminis percorrido pelo agente, o qual desferiu mais de um golpe de faca. O Juiz sentenciante,inclusive, extraiu do"laudo de lesão corporal acostadoa fls. 106 a seguinte descrição "sutura cirúrgica recente com fio de nylon preto em região cervical lateral esquerda, mandibular esquerda, infra-escapular esquerda e 4º dedo da mão esquerda". Assim, a redução da pena deverá se dar na metade".
+Ademais, a alteração do entendimento a respeito da maior ou da menor proximidade da consumação do crime, adotado nas instâncias ordinárias, dependeria do reexame do conjunto fático-probatório dos autos, o que é vedado em habeas corpus.
+Exemplificativamente:
+Verificado que o quantum fixado, em razão da prática do delito de homicídio na modalidade tentada, foi fundamentado no iter criminis percorrido pelo agente, inviável a alteração da fração de redução, porquanto demandaria revolvimento de matéria fático-probatória, providência vedada na via eleita.  ..
+(AgRg no HC n. 355.547/BA, Rel. Ministro Nefi Cordeiro, 6ªT., DJe 7/4/2017).
+V. Regime inicial de cumprimento de pena
+Considerando a manutenção doquantumde pena fixado pelas instâncias ordinárias em patamar superior a8 anos de reclusão, o regime inicial deve ser o fechado, nos termos do art. 33, § 2º, "a", do Código Penal.
+VI. Dispositivo
+À vista do exposto, denego a ordem.
+Publique-se e intimem-se.
