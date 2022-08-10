@@ -1,0 +1,9 @@
+DECISÃO
+VICENTE DE PAULO FREITAS DE LIMAalega sofrer coação ilegal em face de excesso de prazo para o julgamento da Apelação Criminal nº 0232405-31.2021.8.06.0001.
+Decido.
+O writ comporta solução monocrática, pois, de plano, não se verifica irrazoabilidade na tramitação de recurso que, de acordo com a própria defesa, foi distribuído ao Tribunal de origem em 22/2/2022, há seismeses.
+Deveras: "o constrangimento ilegal por excesso de prazo não resulta de um critério aritmético. Há de ser realizada pelo julgador uma aferição do caso concreto, de acordo com as suas peculiaridades, em atenção aos princípios da razoabilidade e da proporcionalidade. A propósito, esta Corte tem reiterada jurisprudência de que a análise do excesso de prazo para o julgamento da apelação deve levar em consideração o quantum de pena aplicada na sentença condenatória" (HC n. 692.845/RS, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 17/12/2021).
+Aplica-se ao caso o entendimento de que: "a lei processual não estabelece um prazo para o julgamento da apelação criminal. Eventual excesso no andamento do feito deve ser analisado à luz do princípio da razoabilidade" (AgRg no HC n.686.141/MS, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 13/12/2021).
+O réu foi condenado por tráfico de drogas, a 12anos de reclusão. Está preso preventivamente desde 14/5/2021. Não se verifica desídia ou demora excessiva no julgamento da apelação, distribuída ao Tribunal de origem há poucos meses. Se realmente existe urgência naquilo que a defesa requer, é possível pedir ao relator, mediante a demonstração da probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo, a reanálise da prisão preventiva ou a concessão de outra tutela de urgência, bem como a prioridade no julgamento do recurso. Não há como reconhecer, contudo, a violação à razoável duração do processo.
+À vista do exposto, denego o habeas corpus, in limine.
+Publique-se e intimem-se.
