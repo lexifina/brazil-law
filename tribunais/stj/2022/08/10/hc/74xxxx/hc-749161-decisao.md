@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se dehabeas corpusimpetrado em favor de NILSON DE OLIVEIRA ROCHA, contra acórdão do Tribunal de Justiça do Estado de São Paulo (HC n. 2101665-59.2022.8.26.0000).
+O paciente está sendo investigado pela suposta prática do delito incurso no art. 33, caput, da Lei n. 11.343/2006.
+A defesa alegaausência de justa causa para continuidade da persecução penal.
+Aduz a inexistênciade prova cabal da materialidade delitiva que justifique o prosseguimento do inquérito policial(fls. 5 e 11).
+Pondera que a investigação preliminar baseou-se em denúncia anônima, que atribuiu ao paciente a prática do crime de tráfico de drogas sem qualquer substrato fático-jurídico.
+Informa que, apesar da expedição de mandado de busca e apreensão no interior da residência do paciente, nada de ilícito fora encontrado, sendo localizado apenasos aparelhos celulares ea quantia de R$ 30.000,00, cuja origem lícita já foi demonstrada no inquérito.
+Ressalta que o dinheiro é proveniente da venda de roupas, pois o pacienteé empresário do ramo de vendas de vestuário,e sua mercadoria é adquirida semanalmentena cidade de São Paulo, no bairro do Brás, que oferece grande descontonas compras em dinheiro.
+Assevera que o paciente é primário, com bons antecedentes, endereço fixo, trabalho lícito e família constituída.
+Requer a concessão da ordem determinando-se o trancamento do inquérito policial, bem como a absolvição sumária do paciente, estipulando-se a restituição dos celulares e dos valores apreendidos em razão da comprovação de sua origem lícita.
+O pedido de liminar foi indeferido às fls. 140-141.
+O Ministério Público Federal manifestou-se pelo conhecimento e pela concessão do writ (fls. 159-162).
+É o relatório. Decido.
+Ainda que inadequada a impetração de habeas corpus em substituição à revisão criminal ou ao recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o STJ considera passível de correção de ofício o flagrante constrangimento ilegal.
+Na hipótese, o pleito formulado no presente writ é dotado de plausibilidade jurídica, circunstância que autoriza a atuação ex officio.
+Como se sabe, o trancamento prematuro dapersecução penal pela via estreita do habeas corpus somente é admitido nos casos em que se constatam, sem necessidade de dilação probatória, a falta de indícios mínimos de materialidade e autoria, a absoluta falta de justa causa, a evidente atipicidade da conduta ou a ocorrência de causa de extinção da punibilidade (HC n. 580.099/MS, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 4/9/2020).
+No caso, o Tribunal de origem entendeu não ser o caso de trancamento da ação penal, dispondo queo inquérito policial está fundamentadotambém em denúncia específica sobre a realização e mercancia de entorpecentes e que policiaisverificaram movimentação suspeita na residência do paciente(fls. 21-23):
+Imediatamente, anoto que não há se falar em trancamento da ação penal e absolvição sumário na medida em que não houve recebimento de denúncia, ou seja, que não foi instaurado o processo penal.
+No mais, no caso dos autos, é possível constatar de plano que se trata de inquérito policial que apura conduta típica, consistente no tráfico de entorpecentes; bem como que há prova da materialidade e lastro probatóriomínimo de autoria, vez que, em razão de notícia anônima de que o Paciente praticava o tráfico de drogas na sua residência e de a polícia judiciária ter constatado movimentação de pessoas no imóvel, foi realizada busca domiciliar autorizada judicialmente na casa de Nilson, que resultou na apreensão da quantia de R$ 30.710,00 (trinta mil, setecentos e dez reais).
+Ressalte-se que, ao contrário do que afirma a impetrante, o inquérito policial não está fundamentado somente na apreensão dos valores encontrados na residência o Paciente, mas também no fato de que houve denúncia específica sobre a realização e mercancia de entorpecentes no imóvel em questão e que, neste local, policiais verificaram movimentação suspeita.
+De outra parte, não se observa qualquer causa extintiva da punibilidade.
+Desta feita, não se verifica ilegalidade da decisão que negou o pedido liminar de arquivamento do inquéritopolicialn.º2042722-16.2021.080113, a qual foi devidamente motivada e fundamentada pelo juízo de origem (fls.15/16).
+Por fim, insta consignar que as alegações referentes à prova da materialidade do crime, mormente quanto à procedência dos valores encontrados, demandam a análise aprofundada do material fático-probatório, incompatível de ser realizada nesta via sumaríssima do writ.
+ ..
+Assim, as circunstâncias recomendam aguardar o encerramento da investigação criminal, na medida em que não há fundamento para o trancamento do inquérito policial e que, portanto, o Paciente não está submetido a qualquer constrangimento ilegal.
+Do trecho acima citado, é possível verificar queem razão de denúncia anônima informando queo paciente estaria guardando/ocultando drogas e arma de fogo, foi determinada a busca e apreensão na residência do paciente.
+Contudo, conforme o auto de busca e apreensão (fls. 40-41), os policiais encontraram no local cerca de R$ 30.710,00, dos quaisR$ 30.000,00 seria de propriedade do paciente e R$ 710,00 de sua esposa,sendo solicitado também os aparelhos celulares do casal, analisados com autorização e na presença dos mesmos, onde nada de anormal foi constatado. Ressalta-se que não foilocalizadodroga,armamento ou outro qualquer outro objeto ilícito, o que afasta a materialidade delitiva apontada pelo relator na origem.
+Destaca-se ser imprescindível para a demonstração da materialidade do crime de tráfico a apreensão de drogas. Ainda que se admita a hipótese de ocorrência criminosa sem a apreensão de substância entorpecente, seria necessária a demonstração por parte da autoridade policial de outras provas aptas a justificarem a continuidade da investigação, o que não foi feito nos autos.
+Assim,a existência de denúncia anônimacom a apreensão de telefones celulares onde nada de anormal fora constatado e dinheiro em espécie que não teve sua origem ilícita comprovada nãoevidencia, por si só,a prática do crime de tráfico de drogas, devendo ser trancada a persecução penal por ausência de materialidade delitiva.
+Ante o exposto, não conheço do habeas corpus, mas concedo a ordem de ofícioem favor de NILSON DE OLIVEIRA ROCHA para determinar otrancamentoda persecução penalante a ausência de materialidade delitiva, devendo ser realizada a imediatadevolução dos bens apreendidos ao paciente.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
