@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de embargos de declaração (e-STJ fls. 460-484)opostos à decisão proferida por esta Vice-Presidência (e-STJ fls. 452-457), no sentido do indeferimento liminar do mandado de segurança.
+Alega o embargante, em síntese, haver contradição no decisum impugnado, pois seria possível identificar,na via processual da reclamação, a apontada utilização indevida de provas na ação civil pública que tramitou na origem.
+Aduz que a Terceira Turma, ao proferir o acórdão reclamado, teria afastado arbitrariamente a suposta ilicitude da prova, sob a justificativa de que"operações financeiras que envolvam recursos públicos não estão abrangidas pelo sigilo bancário a que alude a Lei Complementar nº 105/2001, visto que as operações dessa espécie estão submetidas aos princípios da administração pública insculpido no art. 37 da Constituição Federal".
+Indica, ainda,suposta omissão no pronunciamento judicialembargado, por ausência de análise a respeito da alegaçãode queo decisum proferidopela Terceira Seção do STJ, ao julgar aReclamação n.42.292/DF, versaria sobre fatossemelhantes àqueles constantes da Reclamação n. 42.514/SP.
+O Ministério Público Federal manifestou-se no sentido da extinção do presente feito, sem resolução de mérito (e-STJ fls. 501-509).
+É o relatório. Decido.
+Inicialmente, cumpre registrar que o art. 1.022 do Código de Processo Civil dispõe serem cabíveis embargos de declaração para esclarecer obscuridade ou eliminar contradição, suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento, bem comopara corrigir erro material.
+Da análise da decisão embargada, conclui-se que não há qualquer mácula a ser corrigida, uma vez que esta Vice-Presidência justificou adequadamente as razões pelas quais indeferiu liminarmente o writ.
+Com efeito, consignou-se que a jurisprudência desta Corte Superior é uníssona no sentido de ser inadmissível a impetração do mandado de segurança contra ato jurisdicional, salvo em caso de teratologia ou flagrante ilegalidade.
+Na sequência, a partir da transcrição de excerto da decisão impugnada na via do mandamus(e-STJ fl. 455), demonstrou-se que a Terceira Turma não cometera nenhuma teratologiaao julgar a Reclamação n.42.514/SP, tendo concluído o Relator pela ausência de violação do julgado discutido naquele feito, "visto que se trata de processo estranho ao decidido no HC n. 9.838/SP, pois não é possível averiguar se a condenação na ação civil pública foi estribada também em outros elementos de prova não atingidos pela ilicitude reconhecida por esta Corte Superior" (e-STJ fl. 54).
+Ademais, verifica-se agora que o impetrante interpôs recurso especial contra a decisão ora objeto da impetração, o que também reforça a manifesta inadmissibilidade do mandamus, nos termos da Súmula n. 267/STF, segundo a qual "não cabemandado de segurança contra ato judicial passível de recurso ou correição".
+Não se constata, portanto, nenhum defeito no julgado questionado, tendo sido demonstrado, de forma fundamentada, as razões pelas quais não é possível o conhecimento do mandado de segurança, estando-se diante de mera irresignação com o resultado do julgamento, o que revela o descabimento dos embargos declaratórios.
+Nesse sentido:
+PROCESSUAL CIVIL. ADMINISTRATIVO. MANDADO DE SEGURANÇA. AGRAVO INTERNO IMPROVIDO. ALEGAÇÃO DE OMISSÃO NO ACÓRDÃO. INEXISTENTE.
+I - Trata-se de terceiros embargos opostos. A parte embargante insiste na existência de omissão relativamente à alegação de incompetência para julgamento do recurso de forma monocrática. A matéria foi devidamente analisada no acórdão que julgou o agravo interno, no sentido de que não haveria decisão teratológica e que o mandado de segurança estava sendo utilizado como recurso.
+II - Os aclaratórios somente são cabíveis para a modificação do julgado que se apresentar omisso, contraditório ou obscuro, bem como para sanar possível erro material existente na decisão, o que não aconteceu no caso dos autos.
+III - Embargos de declaração não se prestam ao reexame de questões já analisadas, com o nítido intuito de promover efeitos modificativos ao recurso, quando a decisão apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+IV - Majora-se a multa fixada nos embargos anteriores para 5% do valor atualizado da causa, condicionada a interposição de qualquer outro recurso, ao recolhimento da multa.
+V - Embargos de declaração rejeitados.
+(EDcl nos EDcl no AgInt no MS 23.924/DF, Rel. Ministro FRANCISCO FALCÃO, CORTE ESPECIAL, julgado em 11/06/2019, DJe 14/06/2019, grifos acrescidos.)
+Ante o exposto, rejeito os embargos de declaração (art. 34, XVIII, b, do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
