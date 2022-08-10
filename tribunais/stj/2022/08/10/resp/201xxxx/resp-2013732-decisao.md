@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de recurso especial interposto por Aretuza Daniel Signorelli, com fundamento na alínea a do permissivo constitucional, contra o acórdão proferido pelo Tribunal de Justiça de São Paulo na Apelação Criminal n. 1501137-78.2020.8.26.0571 (fls. 199/205):
+FURTO SIMPLES. RECURSO DEFENSIVO: PLEITO DE RECONHECIMENTO DE ATIPICIDADE DA CONDUTA. PEQUENO VALOR DOS BENS. APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA. INADMISSIBILIDADE. CONDUTA TÍPICA E ANTIJURÍDICA. CONDENAÇÃO MANTIDA. RECURSO DESPROVIDO.
+"Mesmo de pequeno valor o prejuízo, nosso ordenamento jurídico não exime o réu da responsabilidade do evento criminis, por ser a conduta juridicamente relevante e merecedora de reprovação".
+No presente recurso especial, a defesa apontaviolação doart.155, caput, do Código Penal, sob a tese da atipicidade material da conduta.
+Asseveraque não houve lesão relevante ao bem jurídico tutelado, uma vez que a res furtivae(dois aparelhos de barbear) possui valor ínfimo de R$ 72,00 (setenta e dois reais).
+Aduz queo princípio da insignificância deve incidir sobre todo e qualquer caso em que se tem como centro uma conduta de pequeno potencial ofensivo e danoso, sob pena de ferimento dos princípios da intervenção mínima e da isonomia (fl. 219).
+Ressalta que, em diversas oportunidades, esta Corte Superior aplicou o princípio da bagatela a réus reincidentes, razão pela qual tal fator não pode ser obstáculo para o reconhecimento da atipicidade material.
+Ao final da peça recursal,requer o reconhecimento da violação do art. 155, caput, do Código Penal, com a consequente absolvição da ré.
+Oferecidas contrarrazões (fls. 232/235), o recurso especial foi admitido na origem (fl. 238).
+O Ministério Público Federal opina pelo desprovimento da insurgência (fls. 250/252):
+Recurso especial. Furto simples.- Princípio da insignificância: impossibilidade. Reiteração delitiva. Precedentes.- Promoção pelo não provimento do recurso.
+É o relatório.
+Razão assiste à recorrente.
+Extraem-se da sentença condenatória e do voto condutor do combatido aresto os seguintes fundamentos para o não reconhecimento da bagatela (fls. 163 e 202/204 - grifo nosso):
+ ..
+A pretensão de absolvição por reconhecimento de crime de bagatela, que é uma construção de política criminal, fica afastada, pois a consideração do chamado princípio da insignificância deve ser reservado aos casos que a absoluta insignificância da "res" leva à atipicidade do fato ou quando as ações que são aparentemente típicas, são de tal modo inexpressivas e pequenas que não merecem a reprovação penal, o que evidentemente não é o caso dos autos, pois não se pode admitir como normal alguém entrar em um estabelecimento e levar o que bem entende. Do mesmo modo, a pretensão de se reconhecer no caso dos autos a hipótese de privilégio, fica afastada, pois além de não ser de pequeno valor a coisa furtada, o que por si só afasta a benesse, a ré ostenta diversos envolvimentos em situações delituosas, conduta social reprovável e é reincidente, fatores que obstam o benefício.
+ ..
+Igualmente, não se sustenta a alegação de atipicidade diante do pequeno valor do bem, aplicando-se o princípio da insignificância. Deve-se considerar que os objetos possuem valores relativos, o que pode ser desprezível para alguns, para outros pode ter grande importância, pelo que não se pode inferir da inexistência do crime pela irrelevância do objeto.
+O princípio da insignificância não é previsto em nosso ordenamento jurídico, sendo sua aplicação reservada a situações excepcionalíssimas, em que verificado grau reduzido de reprovabilidade,ofensa mínima ao bem jurídico tutelado e ausência de periculosidade social, sob pena de se mitigar o princípio da legalidade. Nesse sentido já se manifestou esta Colenda 3ª Câmara Criminal:
+ ..
+Ademais, a ré é reincidente, além de ser patente a reprovabilidade de sua conduta, razão pela qual não se pode eximi-la da responsabilidade pelo evento criminis por ser a conduta juridicamente relevante e merecedora de reprovação. Destarte, a conduta praticada por Aretuza tipifica o crime do art. 155,caput, do Código Penal, e a condenação era mesmo de rigor.
+ ..
+Não obstanteos argumentos colacionados pela Corte de origem, notadamente a reincidência da ré, levando-se em consideração o valor dos benssubtraídos, consistentes em 2 aparelhos de barbear da marca Gillete, avaliados no total de R$ 72,00 (fl. 201), o que equivale a 6% do salário mínimo vigente à época do delito, e a restituição dos bens (fl. 159), em conformidade com a jurisprudência desta Corte de Justiça, de forma excepcional, é possível a aplicação do princípio da insignificância.
+A corroborar:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DECISÃO AGRAVADA. RECONSIDERAÇÃO. FUNDAMENTOS IMPUGNADOS. CONHECIMENTO. FURTO QUALIFICADO. INSIGNIFICÂNCIA. RÉU REINCIDENTE. VALOR NÃO SIGNIFICATIVO. ATIPICIDADE MATERIAL.
+1. Devidamente impugnados os fundamentos da decisão de inadmissão do recurso especial, é de ser reconsiderada a decisão que não conheceu do agravo, em ordem a que se evolua para o mérito do recurso.
+2. Sedimentou-se a orientação jurisprudencial no sentido de que a incidência do princípio da insignificância pressupõe a concomitância de quatro vetores: a) a mínima ofensividade da conduta do agente;
+b) nenhuma periculosidade social da ação; c) o reduzidíssimo grau de reprovabilidade do comportamento; e d) a inexpressividade da lesão jurídica provocada.
+3. A reincidência e a habitualidade delitiva têm sido compreendidas como obstáculos iniciais à tese da insignificância, ressalvada excepcional peculiaridade do caso penal.
+4. Na hipótese, apesar da reincidência, o valor da subtração foi de R$ 28,00, equivalente a 2,8% do salário mínimo à data do fato, o que autoriza, de modo excepcional, a incidência do principio da insignificância, dada a não relevante lesão ao bem jurídico tutelado.
+5. Agravo regimental provido. Agravo conhecido para prover o recurso especial a fim de reconhecer a atipicidade material e absolver o acusado da imputação da denúncia (art. 386, III - CPP).
+(AgRg no AREsp n. 1.958.634/MG,Ministro Olindo Menezes (Desembargador convocado do TRF/1ª Região), Sexta Turma,DJe 11/3/2022 - grifo nosso).
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FURTO TENTADO. INCIDÊNCIA DO PRINCÍPIO DA INSIGNIFICÂNCIA. MÍNIMA OFENSIVIDADE E REDUZIDO GRAU DE REPROVABILIDADE DO COMPORTAMENTO. INEXISTÊNCIA DE PREJUÍZO À VÍTIMA. NATUREZA DOS BENS SUBTRAÍDOS (HIGIENE). RES FURTIVA RESTITUÍDA. EXCEPCIONALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O princípio da insignificância deve ser analisado em conexão com os postulados da fragmentariedade e da intervenção mínima do Estado em matéria penal, no sentido de excluir ou afastar a própria tipicidade penal, observando-se a presença de "certos vetores, como (a) a mínima ofensividade da conduta do agente, (b) a nenhuma periculosidade social da ação, (c) o reduzidíssimo grau de reprovabilidade do comportamento e (d) a inexpressividade da lesão jurídica provocada" (HC n. 98.152/MG, Relator Ministro CELSO DE MELLO, Segunda Turma, DJe 5/6/2009).
+2. A jurisprudência desta Corte tem rechaçado a aplicação do princípio da insignificância no crime de furto qualificado, bem como quando o agente for reincidente ou portador de maus antecedentes, tendo em vista maior ofensividade e reprovabilidade da conduta. É ressalvada, todavia, às instâncias ordinárias a aplicação do referido postulado diante da análise de cada caso concreto. Esta Corte, por meio da Terceira Seção, reconheceu que, em hipóteses excepcionais, é recomendável a aplicação do princípio da insignificância, a despeito da existência de reincidência.
+3. No caso em análise, trata-se de situação que atrai a incidência excepcional do princípio da insignificância, mesmo sendo o acusado reincidente e com maus antecedentes, ante a existência de mínima ofensividade e de reduzido grau de reprovabilidade do comportamento, tendo em vista a circunstância do delito (furto simples), a natureza dos bens subtraídos (3 frascos de desodorante e 1 protetor solar), a inexistência de prejuízo à vítima, tendo sido a res furtiva restituída, e a ausência de qualquer ato mais grave.
+4. Agravo regimental a que se nega provimento.
+(AgRg no REsp n. 1.927.688/SP,Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 19/4/2021 - grifo nosso).
+Logo, tenho que o acórdão recorrido, neste particular - inaplicabilidade do princípio da insignificância -, está em dissonância com a jurisprudência cristalizada nesta Corte Superior de Justiça, impondo-se a absolvição da recorrente.
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, douprovimento ao recurso especialpara absolver a recorrente, com suporte no art. 386, III, do Código de Processo Penal.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. FURTO SIMPLES. VIOLAÇÃO DOART.155, CAPUT,DO CP. PLEITO DE RECONHECIMENTO DA BAGATELA. PARTICULARIDADES DO CASO CONCRETO. RES FURTIVAE. 2 APARELHOS DE BARBEARAVALIADOS EM R$ 72,00. BENSRESTITUÍDOS. PRINCÍPIO DA INSIGNIFICÂNCIA. INCIDÊNCIA. ABSOLVIÇÃO QUE SE IMPÕE.
+Recurso especial provido nos termos do dispositivo.
