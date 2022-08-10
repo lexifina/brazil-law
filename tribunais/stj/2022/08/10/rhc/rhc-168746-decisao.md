@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso em habeas corpusinterposto por ANDRE LUÍS DO COUTO SOUZA (ou ANDRE LUIZ COUTO SOUZA)contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro (HC n. 0034834-58.2022.8.19.0000).
+Orecorrente encontra-se preso preventivamente, desde 20/10/2021, a pedido do Ministério Público,denunciadopor suposta prática do delito descrito no art. 121, § 2º, I e IV, c/co art. 29, todos do Código Penal.
+O decreto prisional fundou-se na gravidade do delito e diante da insuficiência e inadequação das medidas cautelares alternativas.
+Impetrado writ originário, a ordem foi denegada.
+Orecorrente aponta que está sendo vítima de constrangimento ilegal, em razão do excesso de prazo na formação da culpa, sem previsão do encerramento da instrução criminal, violando o princípio da razoabilidade .
+Requera revogação da prisão preventiva e a expedição de alvará de soltura em seu favor.
+É o relatório. Decido.
+Nos casos em que a pretensão esteja em conformidade ou em contrariedade com súmula ou jurisprudência pacificada dos tribunais superiores, a Terceira Seção desta Corte admite o julgamento monocrático do recurso em habeas corpus antes da abertura de vista ao Ministério Público Federal, em atenção aos princípios da celeridade e da efetividade das decisões judiciais, sem que haja ofensa às prerrogativas institucionais do parquet ou mesmo nulidade processual (AgRg no HC n. 674.472/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 10/8/2021; AgRg no HC n. 656.521/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 26/4/2021; e AgRg no HC n. 530.261/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 7/10/2019).
+Sendo essa a hipótese dos autos, passo ao exame do mérito do recurso em habeas corpus.
+Consoante a jurisprudência do STJ, "a aferição do excesso de prazo reclama a observância da garantia da duração razoável do processo, prevista no art. 5º, LXXVIII, da Constituição Federal. Tal verificação, contudo, não se realiza de forma puramente matemática" (AgRg no RHC n. 123.274/RJ, relator Ministro Antonio Saldanha Palheiro, DJe de 4/8/2020).
+Assim, devem ser sopesados o tempo de prisão provisória, as peculiaridades da causa, sua complexidade e outros fatores que eventualmente possam influenciar no curso da ação penal.
+Na situação dos autos, o Tribunal de origem manifestou-se da seguinte forma (fls. 49-54):
+ ..  cumpre esclarecer que apesar da Defensoria Pública ter acostado aos autos, em 10/11/2021, petição informando que patrocinaria o paciente (index 000390 -proc. originário); por outro lado, em 23/11/2021,conforme certidão do Oficial de Justiça (index 000449 - proc. originário), o paciente foi citado e intimado, manifestando interesse em ser assistido por advogado sem, no entanto, fornecer os dados do patrono  ..
+ ..  Mais do que isso, conforme se depreende da cópia do Mandado de Citação e Intimação nº 2111/2021/MND, acostado aos autos originários (index 000450), o paciente manifestou que não desejava ser atendido pela Defensoria Pública:
+ ..
+ ..  Entretanto, em 12/03/2022, foi certificado que muito embora os acusados tivessem manifestado desejo de serem defendidos por advogado, o prazo para apresentação de resposta havia transcorrido in albis (index 000458 -proc. originário).
+17. Diante de tal informação, o juízo natural, de pronto, em 14/03/2022, proferiu decisão determinando que o acusado fosse intimado para informar se desejava ser defendido pela DP ou se constituiria novo advogado (index 000460 -proc. originário) :  ..
+18. Assim, somente após tal determinação, mais precisamente em 28/04/2022, é que foi apresentada Resposta Preliminar em nome do paciente (index 000478 - proc. originário).
+19. Diante da minuciosa análise do andamento processual, verifica-se que não houve qualquer paralisação ou desídia na condução do processo originário. Muito pelo contrário, restou evidenciado que o atraso no trâmite da ação, na verdade, se deu em razão de ato imputado exclusivamente ao paciente, que ao tempo de sua citação e intimação expressou que não desejava ser assistido pela Defensoria Pública.
+20. Nessa toada, cabe destacar que além do Enunciado da Súmula nº 64, do STJ, também a jurisprudência é firme no sentido de que a duração razoável do processo deve ser aferida à luz da complexibilidade da causa, da atuação das partes e do Estado-Juiz.
+ ..
+ ..  Dito isso, não se extrai dos autos qualquer desídia por parte da autoridade coatora que, de forma diligente, constatou a inércia quanto à apresentação da defesa e, acertadamente, determinou a renovação imediata da diligência para oportunizar a defesa dos acusados.
+O entendimento acima está em consonância com a jurisprudência do STJ de que, "não havendo notícia de  ..  ato procrastinatório por parte das autoridades públicas, consideradas as especificidades da causa e estando próximo o término da instrução criminal, não há falar em excesso de prazo na espécie (RHC n. 102.868/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 12/3/2019).
+Além disso, "os prazos processuais previstos na legislação pátria devem ser computados de maneira global e o reconhecimento do excesso deve-se pautar sempre pelos critérios da razoabilidade e da proporcionalidade (art. 5º, LXXVIII, da CF), considerando cada caso e suas particularidades" (AgRg no HC n. 588.513/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 4/8/2020)
+Ante o exposto, com fundamento no art. 34, XVIII, b, do RISTJ, nego provimento ao recurso ordinário em habeas corpus, ficando prejudicado o pedido de liminar.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
