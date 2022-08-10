@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de agravo interposto por WESLEY MANOEL SANTANA MACEDO contra decisão do Tribunal de Justiça do Estado de São Paulo, que não admitiu o recurso especial manejado com apoio no art. 105, III, "a", da Constituição da República.
+A defesa aponta violação dos artigos 33, § 2º, alínea "c" e § 3º e 59, ambos do Código Penal e da Súmula 440do STJ, além do artigo 44, do Código Penal.
+Alega, em síntese, a impossibilidade de imposição de um regime mais rigoroso com base na opinião do órgão jurisdicional a respeito da gravidade em abstrato do delito. Neste sentido é o teor da Súmula nº 718 do STF (e-STJ, fl. 303).
+Sustenta que "sendo o recorrente primário (como, aliás, reconhecido no acórdão) e tendo recebido a pena bem abaixo de 04 (quatro) anos de reclusão, resta evidente que deveria iniciar o cumprimento da sanção corporal no regime aberto, consoante determina o art. 33, § 2º, "c", do Código Penal" (e-STJ, fl. 303).
+Afirma também que não havendo qualquer circunstância judicial desfavorável, não é possível a agravação do regime (e-STJ, fl. 304).
+Por fim, alega que "a motivação lançada no acórdão vergastado para afastar a substituição da pena corporal se pautou na gravidade em abstrato do crime imputado, considerando o delito hediondo, mesmo quando aplicada a causa redutora" (e-STJ, fl. 305).
+Requer "seja deferido o processamento do presente Recurso Especial, para que, conhecido por este Egrégio Superior Tribunal de Justiça, mereça provimento para fixar o regime prisional aberto e determinar a substituição da pena privativa de liberdade por restritivas de direitos" (e-STJ, fl. 306).
+Foram apresentadas contrarrazões (e-STJ, fls. 310-317).
+O recurso foi inadmitido em razão da incidência do óbice da Súmula 7 do STJ (e-STJ, fls. 320-321). Daí este agravo (e-STJ, fls. 327-333).
+O Ministério Público Federal manifestou-se às fls. 357-363 (e-STJ).
+É o relatório.
+Decido.
+A irresignação merece acolhimento.
+A Corte de origem ratificou a sentença condenatória, mantendo o regime inicial semiaberto, com base nos seguintes fundamentos:
+"A r. sentença fixou o regime inicial semiaberto para cumprimento da pena, o que fica mantido, eis que não há recurso Ministerial suscitando tal ponto.
+O crime de tráfico de drogas intranquiliza a população e vem crescendo, causa problemas gravíssimos ao bom convívio familiar. Essa difusão há de ser coibida pelo Estado-Juiz, o qual, ao impor regime mais rigoroso, não só retirará o malfeitor perigoso do convívio social, mas também evitará que ele continue a exercer suas atividades ilícitas, viciando pessoas e destruindo famílias.
+Ademais, a razoável quantidade de entorpecente não recomenda a imposição de regime menos gravoso, uma vez que demonstra maior reprovabilidade ao fato concreto, de forma que a reprimenda deve ser cumprida em regime mais severo". (e-STJ, fls. 240-241).
+Como se vê, o modo inicial semiaberto, mais grave do que o quantum da pena determina, foi estabelecido com base na gravidade abstrata do crime e na quantidade da droga apreendida, qual seja 16,5g (dezesseis gramas e cinco miligramas) de maconha, dividas em 61 invólucros, prontos para a venda(e-STJ, fls. 31-33), o que, embora não possa ser considerada irrisória, tambémnão se mostra suficiente para o recrudescimento do regime.
+Sobre o tema, cumpre destacar que o Plenário do Supremo Tribunal Federal, em 27/7/2012, ao julgar o HC 111.840/ES, por maioria, declarou incidentalmente a inconstitucionalidade do art. 2º, § 1º, da Lei n. 8.072/1990, com a redação que lhe foi dada pela Lei n. 11.464/2007, afastando, dessa forma, a obrigatoriedade do regime inicial fechado para os condenados por crimes hediondos e equiparados.
+Dessa forma, para o estabelecimento de regime de cumprimento de pena mais gravoso, é necessário fundamentação específica, com base em elementos concretos extraídos dos autos. Sobre o tema, esta Corte Superior editou a Súmula n. 440, que dispõe:
+"Fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito."
+No mesmo sentido, as Súmulas 718 e 719 do Supremo Tribunal Federal, respectivamente, in verbis :
+"A opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada."
+"A imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea."
+No caso, verifica-se que o acusado é primário e o acórdão recorrido fixou a pena-base no mínimo legal de 5 anos de reclusão. Na segunda fase, a pena basilar ficou inalterada. Por fim, reconhecido o tráfico privilegiado, a sanção foi reduzida na fração de 1/2, fixando-se a pena definitivamente em 2 anos e 6 meses de reclusão.
+Nesse contexto, deve-se fixar o regime inicial aberto, nos termos do art. 33, 2º, "c", do Código Penal.
+Sobre o tema:
+" ..
+2. No caso em apreço, foi concedida a minorante na fração de 1/2 com a readequação da pena para 2 anos e 11 meses de reclusão e pagamento de 291 dias-multa, em relação ao delito de tráfico, totalizando 3 anos e 5 meses de reclusão, além do pagamento de 301 dias-multa, em razão do concurso formal com o crime previsto no art. 163, III, do Código Penal.
+3. Diante do novo quantum da sanção definitiva, fixada a pena-base no mínimo legal, por serem favoráveis ao agravado as circunstâncias judiciais, e concedido o redutor, ainda que em fração inferior ao máximo, foi abrandado o regime prisional para o aberto e substituída a pena privativa de liberdade por restritivas de direitos, nos termos do art. 44 do Código Penal.
+4. Agravo regimental desprovido."
+(AgRg no HC n. 529.610/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 18/2/2020, DJe de 27/2/2020, com destaque.)
+" ..
+1. Para a incidência do redutor previsto no § 4º do art. 33 da Lei 11.343/06, é necessário o preenchimento dos requisitos legais: a) o agente seja primário; b) com bons antecedentes; c) não se dedique às atividades delituosas; e d) não integre organização criminosa.
+2. Em razão da natureza da droga apreendida, torna-se inviável a incidência da causa de diminuição em seu patamar máximo, mostrando-se razoável e proporcional ao caso concreto a aplicação da benesse na fração de 1/3 (um terço).
+REGIME INICIAL. DESPROPORCIONALIDADE AO QUANTUM FINAL DA PENA. ALTERAÇÃO PARA O MODO ABERTO. SUBSTITUIÇÃO DA PENA PRIVATIVA POR RESTRITIVAS DE DIREITOS. PREENCHIMENTO DOS REQUISITOS.
+1. Reduzida a pena privativa de liberdade para patamar inferior a 4 (quatro) anos, ante a favorabilidade das circunstâncias judiciais, proporcional o estabelecimento do regime inicial aberto e a substituição da pena privativa de liberdade por duas restritivas de direitos, a serem designadas pelo Juiz Criminal competente.
+2. Habeas corpus não conhecido. Ordem concedida de ofício a fim de reduzir a pena para 3 (três) anos e 4 (quatro) meses de reclusão e multa, alterar o regime inicial para o aberto e determinar a substituição da pena privativa de liberdade por duas restritivas de direito, a serem designadas pelo Juiz Criminal competente."
+(HC n. 407.857/RJ, relator Ministro Jorge Mussi, Quinta Turma, julgado em 21/9/2017, DJe de 27/9/2017, grifou-se.)
+Por fim, observa-se que o réu preenche os requisitos do art. 44 do Código Penal, fazendo, assim, jus à substituição da pena privativa de liberdade por restritiva de direitos.
+Corrobora:
+ ..
+3. Tendo em vista a pequena quantidade de drogas apreendidas, mostra-se adequada e suficiente a redução de pena no patamar máximo de 2/3 em decorrência da minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006.
+4. Especificamente no caso dos autos, a conclusão pela possibilidade de aplicação da referida minorante não demanda o revolvimento de matéria fático-probatória, procedimento vedado na via estreita do habeas corpus. O caso em análise requer apenas a revaloração de fatos incontroversos que já estão delineados nos autos e das provas que já foram devidamente colhidas ao longo de toda a instrução probatória, bem como a discussão, meramente jurídica, acerca da interpretação a ser dada sobre os fundamentos apontados pelas instâncias de origem para negar ao réu a incidência da causa especial de diminuição de pena prevista no § 4º do art. 33 da Lei n. 11.343/2006.
+5. Uma vez que o paciente foi condenado a reprimenda inferior a 4 anos de reclusão, era tecnicamente primário ao tempo do delito, possuidor de bons antecedentes, teve a pena-base estabelecida no mínimo legal e foi beneficiado com a minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006, deve ser fixado o regime inicial aberto, nos termos do art. 33, § 2º, "c", e § 3º, do Código Penal, com observância também ao preconizado pelo art. 42 da Lei n. 11.343/2006.
+6. A favorabilidade das circunstâncias mencionadas evidencia que a substituição da pena se mostra medida socialmente recomendável, de acordo com o art. 44, III, do Código Penal, de maneira que deve a ordem ser concedida também para determinar a substituição da reprimenda privativa deliberdade por duas restritivas de direitos, as quais deverão ser estabelecidas pelo Juízo das Execuções Criminais, à luz das peculiaridades do caso concreto.
+7. Ordem concedida, para: a) reduzir a pena-base do paciente ao mínimo legal; b) reconhecer a incidência da minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006, aplicá-la no patamar máximo de 2/3 e, por conseguinte, diminuir a sua sanção para 1 ano e 8 meses de reclusão e pagamento de 166 dias-multa; c) fixar o regime aberto; d) determinar a substituição da reprimenda privativa de liberdade por duas restritivas de direitos, as quais deverão ser estabelecidas pelo Juízo das Execuções Criminais, com base nas particularidades do caso concreto."
+(HC 601.514/SC, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 23/03/2021, DJe 29/03/2021, grifou-se).
+Ante o exposto, com fundamento no art. 932, VIII, do CPC, c/c art. 253, parágrafo único, II, "c", do RISTJ, conheço do agravo para darprovimento ao recurso especial, a fim de fixar o regime inicial aberto para o início de cumprimento da pena reclusiva, bem como para substituir a sanção privativa de liberdade porrestritivade direitos, a serestabelecidapelo Juízo daexecução.
+Publique-se. Intimem-se.
