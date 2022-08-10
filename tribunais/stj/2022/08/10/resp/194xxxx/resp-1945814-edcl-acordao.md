@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro-Relator.
+Os Srs. Ministros Mauro Campbell Marques, Assusete Magalhães, Francisco Falcão e Herman Benjamin votaram com o Sr. Ministro Relator.
+EMENTA
+PROCESSO CIVIL E TRIBUTÁRIO. EMBARGOS DE DECLARAÇÃO NOAGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO FISCAL. PRESCRIÇÃO. DEFICIÊNCIA DE FUNDAMENTAÇÃO. AUSÊNCIA DE INDICAÇÃO DOS DISPOSITIVOS LEGAIS TIDOS POR VIOLADOS. SÚMULA N. 284/STF.AUSÊNCIA DE EFETIVA OMISSÃO OU CONTRADIÇÃO NO JULGADO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração são cabíveis para sanar omissão,contradição ou obscuridade do julgado recorrido e corrigir erros materiais. O CPC/2015 ainda equipara à omissão o julgado que desconsidera acórdãos proferidos sob a sistemática dos recursos repetitivos, incidente de assunção de competência, ou ainda que contenha um dos vícios elencados no art. 489, § 1º, do referido normativo.
+2. No caso, não estão presentes nenhum dosvícios autorizadores do manejo dos aclaratórios, estando evidenciado, mais uma vez, o exclusivo propósito da parte embargante em rediscutir o mérito das questões já devidamente examinadas por esta Corte.
+3.Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos contra o acórdão de e-STJ, fls. 368-371, vazado nos termos da seguinte ementa:
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO FISCAL. PRESCRIÇÃO.DEFICIÊNCIA DE FUNDAMENTAÇÃO. AUSÊNCIA DE INDICAÇÃO DOS DISPOSITIVOS LEGAIS TIDOS POR VIOLADOS. SÚMULA N.284/STF.
+1. A admissibilidade do recurso especial reclama a indicação clara dos dispositivos tidos como violados, bem como a exposição das razões pelas quais o acórdão teria afrontado cada um deles, não sendo suficiente a mera alegação genérica. Dessa forma, o inconformismo se apresenta deficiente quanto à fundamentação, o que impede a exata compreensão da controvérsia (Súmula n. 284/STF).
+2. Agravo interno a que se nega provimento.
+Em suas razões, a interessada sustenta ser "evidente que houve o devido apontamento de forma clara e precisa do dispositivo de lei que entende por interpretado de modo divergente, devendo ser afastada a Súmula 284/STF" (e-STJ, fl. 374).
+Entende que "a decisão embargada, foi contraditória ao expor a tese de defesa da embargante em sede de análise do Agravo Interno interposto e devidamente fundamentado nos temas 566, 567 e 568 e aludir que o recurso não merecia êxito, na medida em que não trouxe argumentos aptos à alteração do posicionamento. Ainda, tem-se por omissa a decisão ao não analisar o disposto nos referidos temas, os quais demonstram a clara violação ocorrida no acórdão que se pretende reforma" (e-STJ, fl. 377).
+Conclui que foram "amplamente demonstrados os dispositivos (TEMAS 566, 567 e 568, do STJ) violados pela decisão, ao não considerar a prescrição intercorrente dos autos, bem como a exposição das razões pelas quais o acórdão afrontou cada um dos temas mencionados" (e-STJ, fl. 381).
+Assim, pugna pelo acolhimento dos embargos para que seja corrigido o vício apontado, com a correspondente repercussão jurídica.
+Sem impugnação aos embargos.
+É o relatório.
+EMENTA
+PROCESSO CIVIL E TRIBUTÁRIO. EMBARGOS DE DECLARAÇÃO NOAGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO FISCAL. PRESCRIÇÃO. DEFICIÊNCIA DE FUNDAMENTAÇÃO. AUSÊNCIA DE INDICAÇÃO DOS DISPOSITIVOS LEGAIS TIDOS POR VIOLADOS. SÚMULA N. 284/STF.AUSÊNCIA DE EFETIVA OMISSÃO OU CONTRADIÇÃO NO JULGADO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração são cabíveis para sanar omissão,contradição ou obscuridade do julgado recorrido e corrigir erros materiais. O CPC/2015 ainda equipara à omissão o julgado que desconsidera acórdãos proferidos sob a sistemática dos recursos repetitivos, incidente de assunção de competência, ou ainda que contenha um dos vícios elencados no art. 489, § 1º, do referido normativo.
+2. No caso, não estão presentes nenhum dosvícios autorizadores do manejo dos aclaratórios, estando evidenciado, mais uma vez, o exclusivo propósito da parte embargante em rediscutir o mérito das questões já devidamente examinadas por esta Corte.
+3.Embargos de declaração rejeitados.
+VOTO
+Os embargos de declaração destinam-se a suprir omissão, afastar obscuridade ou eliminar contradição existente no julgado e corrigir erros materiais.
+O Código de Processo Civil equipara à omissão o julgado que desconsidera acórdãos proferidos sob a sistemática dos recursos repetitivos, incidente de assunção de competência, ou ainda que contenha um dos vícios elencados no art. 489, § 1º, do referido normativo.
+No caso, não estão presentes vícios autorizadores do manejo dos aclaratórios, estando evidenciado o exclusivo propósito da parte embargante em rediscutir o mérito das questões já devidamente examinadas.
+Ficou expressamente assentadano aresto embargado a impossibilidade de admissão do presente recurso especial, poisausente a clara indicação dos dispositivos legais tidos por violados, bem como a exposição das razões pelas quais o acórdão teria afrontado cada um deles, não sendo suficiente a mera alegação genérica, o que conota a deficiência de fundamentação, atraindo a vedação da Súmula n. 284/STF.
+Salientou-se, ainda, que a necessidade de indicação do dispositivo de lei violado incide tanto para os recursos especiais interpostos pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+Na hipótese, a ora embargante, nas razões de seu recurso especial, indicou unicamente ofensa aos Temas 566, 567 e 568 do STJ, sem qualquer menção ou vinculação aos dispositivos legais a eles associados.
+Ora, como é sabido, enunciado sumular ou orientação jurisprudencial não se enquadramno conceito de lei federal. Conforme o art. 105, III, "a", da Constituição Federal, não se permite ampliar a competência do STJ para, em recurso especial, examinar eventual ofensa a súmula, resoluções, regulamentos, portarias, circulares ou instruções normativas, por não estarem tais atos normativos compreendidos na expressão "lei federal".
+A propósito:
+PROCESSUAL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PENSÃO POR MORTE. FILHA DE FALECIDA SERVIDORA MUNICIPAL. PEDIDO DE RESTABELECIMENTO DO BENEFÍCIO, EXTINTO EM FACE DE MAIORIDADE CIVIL. ALEGAÇÃO DE DOENÇA INCAPACITANTE. RECURSO ESPECIAL INTERPOSTO COM FUNDAMENTO NA ALÍNEA C DO PERMISSIVO CONSTITUCIONAL. AUSÊNCIA DE INDICAÇÃO, NAS RAZÕES DO RECURSO ESPECIAL, DO DISPOSITIVO LEGAL QUE, EM TESE, TERIA SIDO VIOLADO OU QUE TERIA RECEBIDO INTERPRETAÇÃO DIVERGENTE, PELO TRIBUNAL DE ORIGEM. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF, APLICADA POR ANALOGIA. AGRAVO INTERNO IMPROVIDO.
+ ..
+IV. O Recurso Especial não constitui via processual apropriada para análise de ofensa a Súmula, porquanto o verbete não se enquadra no conceito de "tratado ou lei federal", previsto no permissivo constitucional (art. 105, III, a), tratando-se de mero entendimento consolidado no âmbito do Poder Judiciário, não tendo o condão de abrir a via estreita dos recursos excepcionais, consoante assinala a Súmula 518/STJ, segundo a qual "para fins do art. 105, III, a, da Constituição Federal, não é cabível recurso especial fundado em alegada violação de enunciado de súmula".
+V. Agravo interno improvido.
+(AgInt no AREsp n. 1.173.904/SP, relatora MinistraASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 24/4/2018, DJe de 27/4/2018)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. DESCONTO DE CONTRIBUIÇÃO PREVIDENCIÁRIA SOBRE PARCELAS NÃO INCORPORADAS AOS PROVENTOS DE APOSENTADORIA. ACÓRDÃO RECORRIDO QUE CONSTATA SER INVIÁVEL PRESUMIR QUE O VALOR APURADO SERÁ INFERIOR A 60 SALÁRIOS MÍNIMOS. COMPETÊNCIA DA VARA DA FAZENDA PÚBLICA DA JUSTIÇA COMUM. REVISÃO. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. OFENSA A RESOLUÇÃO. ANÁLISE. INVIABILIDADE. RECURSO NÃO CONHECIDO.
+1. Quanto ao valor da causa, a Corte local, soberana na análise das circunstâncias fáticas e probatórias da causa, consignou que "é fácil perceber que o montante atribuído não representa fielmente o proveito econômico pretendido pelos autores" e que "o valor de uma eventual condenação não pode ser desde já estabelecido" (fl. 93, e-STJ), podendo este ultrapassar o teto do juizado especial da fazenda pública. A revisão deste entendimento esbarra no óbice da Súmula 7/STJ.
+2. Quanto à possível violação do art. 2º, VI e VII, da Resolução 321/2011 do TJPE, consigne-se que, consoante a jurisprudência do STJ, "a via excepcional não se presta para análise de ofensa a resolução, portaria, regimento interno ou instrução normativa, atos administrativos que não se enquadram no conceito de lei federal" (AgInt no REsp 1.584.984/PE, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 10.2.2017).
+3. Recurso Especial não conhecido.
+(REsp n. 1.651.679/PE, relator Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 16/3/2017, DJe de 24/4/2017).
+Vale frisar, novamente, que, mesmo se o recurso especial estivesse articulado no dissídio jurisprudencial tomando por base os temas representativos de controvérsia, haveria a necessidade de indicação dos dispositivos legais porventura afrontados no acórdão recorrido.
+Inexistindo, portanto, vício a ser dissipado, constata-se a pretensão exclusiva de rediscutir a causa, a fim de modificar a decisão embargada, o que não se coaduna com a via aclaratória.
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
