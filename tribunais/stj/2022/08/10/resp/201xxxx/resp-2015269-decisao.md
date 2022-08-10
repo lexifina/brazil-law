@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso especial interposto por MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO SUL, com fundamento na alínea "a" do permissivo constitucional, no qual se insurge contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, assim ementado (e-STJ, fls. 109-127):
+"APELAÇÃO-CRIME. ASSOCIAÇÃO CRIMINOSA. EXCEÇÃO DE LIT1SPENDÊNCIA. TRAMITAÇÃO SIMULTÂNEA DE DUAS AÇÕES PENAIS COM SEMELHANTES PARTES, PEDIDO E CAUSA DE PEDIR. DEMONSTRADO SE TRATAVA DO MESMO GRUPO CRIMINOSO DEVIDAMENTE ORGANIZADO PARA A PRÁTICA CONTÍNUA DE CRIMES LICITATÓRIOS, COM O FIM DE PROMOVER O AUMENTO DA LUCRATIVIDADE E DO DOMÍNIO DO MERCADO SOB EMPRESAS ESPECIALIZADAS EM PRESTAÇÃO DE SERVIÇOS PARA REALIZAÇÃO DE CONCURSOS E PROCESSOS SELETIVOS PÚBUCOS, GERANDO. COM ISSO, LESÃO AO ERÁRIO. BIS IN IDEM. DECISÃO DESCONSTITUÍDA. LITISPENDÊNCIA RECONHECIDA. APELOS PROVIDOS. POR MAIORIA. VENCIDO O REVISOR".
+Os embargos de declaração foram rejeitados (e-STJ, fls. 152-162).
+Em suas razões recursais, a parte recorrente aponta violação dos arts. 619 do CPP e 337, §§ 1º e 2º, do CPC. Aduz para tanto, em síntese, que: (I) o Tribunal local teria se omitido sobre os argumentos ministeriais; e (II) não haveria litispendência, tendo em vista a ausência de tríplice identidade entre as duas demandas.
+Com contrarrazões (e-STJ, fls. 188-206), o recurso especial foi admitido na origem (e-STJ, fls. 208-221).
+Remetidos os autos a esta Corte Superior, o MPF manifestou-se pelo provimento do recurso (e-STJ, fls. 243-247).
+É o relatório.
+Decido.
+Inicialmente, não vislumbro ofensa ao art. 619 do CPP, pois o Tribunal de origem se pronunciou sobre todos os aspectos relevantes para a definição da causa. Ressalte-se que o julgador não é obrigado a rebater, um a um, todos os argumentos das partes, bastando que resolva a situação que lhe é apresentada sem se omitir sobre os fatores capazes de influir no resultado do julgamento.
+Sobre a questão de fundo, a Corte de origem constatou que realmente há litispendência entre a presente ação penal e outra previamente ajuizada pelo MP/RS, como se colhe do acórdão recorrido (e-STJ, fls. 120-121):
+"Veja-se que ambas as denúncias têm redação idêntica tocante à narrativa do crime de associação criminosa, mencionando a mesma finalidade - cometer crimes licitatórios - bem as tarefas de cada denunciado. À evidência, se trata da mesma associação criminosa, do mesmo grupo criminoso.
+ ..
+Outrossim, releva anotar que os dois processos foram instruídos com base na mesma investigação, que apurou a existência de uma associação criminosa, integrada pelos sócios e funcionários da empresa Objetiva Concursos Ltda., CLEUSA FOCHESATTO. SILVANA RIGO, GUSTAVO PELLIZARI e MARILDA RODRIGUES, e ELIO VLADEMIR HEMAN CEZAR, LAYS ALESSANDRA DA SILVA e MARIANA GOMES VEDANA, servidores dos respectivos Municípios de Sananduva e São Vicente do Sul.
+ ..
+Por fim, bem se vê que a finalidade da associação era a mesma em ambos os feitos: promover o aumento da lucratividade e do domínio do mercado sob empresas especializadas em prestação de serviços para realização de concursos e processos seletivos públicos, gerando, com isso, lesão ao erário.
+Diante dos referidos apontamentos, há de concluir que se trata de crime único, pois demonstrado, em tese, que o mesmo grupo criminoso se associou de forma estável e permanente para a prática de crimes licitatórios elemento subjetivo exigido pelo tipo penal do artigo 288 do Código Penal.
+Reconhecida a litispendência, o critério a ser adotado para definir o feito a ser extinto é o da prevenção, pois este se aplica quando concorrem dois juízos igualmente competentes, e um deles tiver antecedido o outro na prática de algum ato processual".
+Assim, a inversão do julgado, no ponto, demandaria o reexame do conjunto fático-probatório dos autos, providência inviável nesta instância especial, nos termos da Súmula 7/STJ. Afinal, somente com nova e aprofundada análise dos fatos de cada demanda é que se poderia afastar a conclusão do Tribunal local sobre a litispendência, como já se pronunciou este STJ:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIMES DOS ARTS. 14 DA LEI N. 10.826/2003, 180, § 1º, DO CP E 2º, § 2º, DA LEI 12.850/2013. VIOLAÇÃO DO ART. 400 DO CPP. AUSÊNCIA. PREJUÍZO NÃO DEMONSTRADO. LITISPENDÊNCIA, PRINCÍPIO DA CORRELAÇÃO, PROVAS PARA A CONDENAÇÃO E FORMA QUALIFICADA DO DELITO. SÚMULA N. 7/STJ. DOSIMETRIA. NÚMERO DE AGENTES ENVOLVIDOS NA EMPREITADA CRIMINOSA E FUNÇÃO DO RECORRENTE NA ORGANIZAÇÃO. FUNDAMENTOS IDÔNEOS. BIS IN IDEM E INCOMPATIBILIDADE DO ART. 2º, § 2º, DA LEI N. 12.850/203 COM A IMPUTAÇÃO AUTÔNOMA DO ESTATUTO DO DESARMAMENTO. SÚMULA N. 211/STJ. ART. 619. AUSÊNCIA DE OMISSÃO. RECURSO NÃO PROVIDO.
+ ..
+3. As questões relacionadas à litispendência, ao princípio da correlação, a ausência de provas para a condenação pelo crime de organização criminosa e da forma qualificada do crime de receptação não prescindem do revolvimento do conjunto fático-probatório dos autos. Incidência da Súmula 7/STJ.
+ ..
+8. Agravo regimental não provido".
+(AgRg nos EDcl no AREsp n. 2.102.636/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 21/6/2022, DJe de 27/6/2022.)
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PECULATO. VIOLAÇÃO AO ART. 619. NÃO OCORRÊNCIA. ANÁLISE DA COMPETÊNCIA DA JUSTIÇA FEDERAL E DA TIPICIDADE DA CONDUTA. INCIDÊNCIA DA SÚMULA N. 7/STJ. LITISPENDÊNCIA. ÓBICE DAS SÚMULAS N. 7/STJ E 211/STJ. DOSIMETRIA DA PENA. AUMENTO DA PENA-BASE. CIRCUNSTÂNCIAS, CULPABILIDADE, MOTIVOS E CONSEQUÊNCIAS DO CRIME. MOTIVAÇÃO IDÔNEA (PRECEDENTES DESTA CORTE), EXCETO QUANTO ÀS CIRCUNSTÂNCIAS. QUANTUM DE AUMENTO. PROPORCIONALIDADE. DISCRICIONARIEDADE VINCULADA. AGRAVO REGIMENTAL PARCIALMENTE PROVIDO.
+ ..
+4. A análise sobre a eventual litispendência também esbarraria no óbice da Súmula n. 7/STJ. De fato, na linha da jurisprudência deste Tribunal Superior, "perquirir sobre a existência ou não de litispendência demanda o reexame de material fático-probatório, providência inviável em sede de recurso especial. Súmula n. 7/STJ"(AgRg no REsp n. 1.622.005/PR, relatora Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 2/2/2017, DJe 13/2/2017).
+ ..
+11. Agravo regimental parcialmente provido, tão somente para reduzir a reprimenda do agravante para 8 anos, 10 meses e 20 dias de reclusão, mantidos os demais termos da condenação".
+(AgRg no REsp n. 1.524.361/RR, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 26/10/2021, DJe de 28/10/2021.)
+Ante o exposto, com fundamento no art. 255, § 4º, I e II, do Regimento Interno do STJ,conheço em partedo recurso especial e, nesta extensão,nego-lhe provimento.
+Publique-se. Intimem-se.
