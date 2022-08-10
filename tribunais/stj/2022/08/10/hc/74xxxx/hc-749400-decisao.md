@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de VIVIANE SOARES GUIMARAES, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo - Recurso em Sentido Estrito n. 0009390-25.2021.8.26.0562.
+Extrai-se dos autos que a paciente foi presa, em flagrante, em 8/9/2020, em face da suposta prática do crime previsto no art. 121, II e IV, c.c. o art. 14, II, ambos do Código Penal. A custódia foi convertida em preventiva e posteriormente revogada. O Ministério Público estadual interpôs recurso em sentido estrito, perante o Tribunal de origem, que lhe deu provimento, cassando a liberdade provisória anteriormente deferida à ré (e-STJ, fls. 12-15), em acórdão datado de 10/9/2021. A ré retornou ao cárcere em 13/9/2021 (e-STJ, fl. 51).
+Neste writ, a defesa alega, em síntese, a existência de constrangimento ilegal em face da paciente, pois, em 5/11/2021, o Juízo de primeiro grau proferiu sentença que desclassificou a conduta perpetrada de homicídio tentado para lesão corporal, tipificada no art. 129, § 9º, do Código Penal, determinando o encaminhamento dos autos originários à Vara Criminal competente.
+Aduz que "não se trata de crime doloso contra a vida, a decisão transitou em julgado, se passaram 10 meses e até o momento os autos não foram encaminhados à vara criminal responsável, gerando, assim, uma situação em que a paciente está presa preventivamente no curso de uma ação penal que sequer existe" (e-STJ, fl. 4).
+Anota que na "pior das hipóteses, em caso de condenação ao final da instrução, a pena máxima pode chegar a 03 (três) anos, o que, conforme determina o art. 33, § 2º, do CP, deverá ser fixado o regime inicial aberto" (e-STJ, fl. 6).
+Requer a concessão da ordem, inclusive liminarmente, para que seja revogada a custódia preventiva.
+As informações foram prestadas às fls. 26-44 e 48-59 (e-STJ).
+O Exmo.Ministro Jorge Mussi, Vice-Presidente desta Corte, no exercício da Presidência, despachou, à fl. 61 (e-STJ) solicitando informações atualizadas ao Juízo processante acerca da situação prisional da paciente e sobre o andamento da ação penal objeto destewrit.
+Voltaram-me os autos, conclusos, para apreciação do pedido de liminar.
+A defesa acostou ao caderno processual a petição de fls. 63-64 (e-STJ), na qual requer a apreciação do pleito liminar, tendo em vista que já "se passaram 45 (quarenta e cinco) dias e a Vara do Júri da Comarca de Santos até então não atendeu à solicitação do Douto Ministro, mesmo após reiterada várias vezes, muito provavelmente em razão de  ..  estar sem juiz titular, dependendo da colaboração de juízes auxiliares" (e-STJ, fl. 63).
+É o relatório.
+Decido.
+É manifesta a superveniente ausência de interesse de agir que atingiu esta impetração, pois, conforme informações prestadas pelo Juízo da 5ª Vara Criminal da Comarca de Santos - SP, aportadas nesta Corte em3/8/2022 (e-STJ, fls. 68-69), foi concedida a liberdade provisória à acusada, sob as condições dos arts. 327 e 328 do CPP, mediante proibição de contato com a vítima e condições previstas nos incisos I e III do art. 319 do CPP, tendo sido expedido alvará de soltura em seu benefício.
+Ante o exposto, julgo prejudicado o pedido deste habeas corpus, nos termos do art. 34, XI, do RISTJ.
+Publique-se. Intimem-se.
