@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por SIMEÃO MOREIRA DE SOUZAcontra decisão monocrática, de minha relatoria, assim ementada:
+PROCESSUAL CIVIL. JUROS DE MORA E CORREÇÃO MONETÁRIA. ART. 1º-F DA LEI Nº 9.494/1997. RE Nº 870947/SE. RESP Nº 1.492.221/PR. RECURSO ESPECIAL PROVIDO.
+Sustenta a parte embargante:
+Há omissão na decisão monocrática que deu provimento ao recurso especial interposto pela parte embargada, eis que deixou de apreciar a ausência dos requisitos de admissibilidade recursal, o que enseja no não conhecimento do REsp. Isso porque não levou em consideração a ausência de prequestionamento, sendo que não foi prequestionada a matéria e tese trazida no REsp, o que configura ultraje à Súmula 211 do STF e ofensa às Sumulas 282 e 356/STF, uma vez que não existiu prequestionamento no REsp.
+É o relatório. Passo a decidir.
+Nos termos da Lei, cabem embargos de declaração contra qualquer decisão judicial para: I - esclarecer obscuridade ou eliminar contradição; II - suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento; III - corrigir erro material (art. 1.022 do CPC/2015).
+Obscura a decisão quando imprecisa, de difícil ou impossível compreensão. Contraditória quando contém, em si, afirmações ou fundamentos que estão em oposição ou que levam a resultados distintos ou inversos. Omissa quando faltar pronunciamento sobre ponto ou questão, isso é, ainda que não tenham controvertido as partes (questão), mas apenas uma delas tenha suscitado o fundamento (ponto), ou a respeito do qual deva o órgão jurisdicional pronunciar-se de ofício, ou em razão de requerimento da parte (cf. MEDINA, José Miguel Garcia. Curso de Direito Processual Civil Moderno  livro eletrônico . 4 ed. São Paulo: Revista dos Tribunais, 2018).
+Os embargos de declaração têm finalidade de completar a decisão omissa ou, ainda, de aclará-la, dissipando obscuridades ou contradições, ou para a correção de erro material. Não têm caráter substitutivo, modificador ou infringente do julgado, mas sim integrativo ou aclaratório. Oobjetivodos embargos não podem ser a infringência, a qual, por ventura, ocorreria como consequência da supressão de omissão, ou da resolução de obscuridade ou de contradição (cf. NERY JUNIOR, Nelson. NERY, Rosa Maria de Andrade. Código de Processo Civil comentado  livro eletrônico . 3. ed. São Paulo: Revista dos Tribunais, 2018).
+Observo não ser hipótese de embargos de declaração, visto que a parte, irresignada, busca, meramente, a infringência do julgado, apontando omissão quanto a matéria que, além de ter sido resolvida implicitamente,não foi ventilada nas contrarrazões do recurso da parteex adversa.
+Não bastasse, a matéria, ao contrário do que alega a embargante, está devidamente prequestionada, cf., p. ex., a ementa dos embargos de declaração na origem:
+EMBARGOS DE DECLARAÇÃO  OMISSÃO  OCORRÊNCIA  MATÉRIA DE ORDEM PÚBLICA  FIXAÇÃO DE JUROS E CORREÇÃO MONETÁRIA CONTRA FAZENDA PÚBLICA  ART. 1º-F DA LEI Nº 9.494/97  RECURSO ACOLHIDO COM EFEITO INTEGRATIVO.
+Ausente quaisquer das hipóteses legais, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE VÍCIOS NO JULGADO. REDISCUSSÃO DE MATÉRIA JÁ DECIDIDA. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
