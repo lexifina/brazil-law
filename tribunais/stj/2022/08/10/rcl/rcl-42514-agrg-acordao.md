@@ -1,0 +1,20 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Terceira Seção, por unanimidade, não conhecer do agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Ribeiro Dantas, Antonio Saldanha Palheiro, Joel Ilan Paciornik, Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Jesuíno Rissato (Desembargador Convocado do TJDFT), Laurita Vaz, João Otávio de Noronha e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+RELATÓRIO
+DOMINGOS ANTONIO FORTUNATO JUNIOR interpõe agravo regimental contra o acórdão desta Sexta Turma que rejeitou os embargos de declaração.
+A defesa sustenta que "a jurisprudência dessa Corte Superior é no sentido de que a previsão de reclamação constitucional para garantir a autoridade das decisões do tribunal não tem o propósito de amparar pretensões à observância da jurisprudência do STJ, mas servir à garantia da autoridade de decisão proferida no caso concreto envolvendo as mesmas partes (AgInt na Rcl n. 32.987/MG, relator Ministro Sérgio Kukina, Primeira Seção, julgado em 12/8/2020, DJe 17/8/2020) e (AgInt na Rcl 41.776/RO, Rel. Ministro Francisco Falcão, primeira seção, julgado em 09/11/2021, DJe 11/11/2021)".
+Conclui que "não se sustenta a conclusão do acórdão ora agravado no sentido de "não  haver  como constatar violação do julgado invocado na via da reclamação, visto que se trata de processo estranho ao decidido no HC n. 9.838/SP, pois não é possível averiguar se a condenação na ação civil pública foi estribada também em outros elementos de prova não atingidos pela ilicitude reconhecida por esta Corte Superior".
+Requer "seja conhecido e dado provimento ao presente agravo interno, para determinar a exclusão das provas ilícitas da Ação Rescisória nº 22757-49.10.2020.8.26.0000, e consequentemente da Ação Civil Públicanº 0000742-05.2001.8.26.006, e anulada, não só a sentença, mas todo o processo ab initio".
+EMENTA
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NA RECLAMAÇÃO. RECURSO MANIFESTAMENTE INCABÍVEL. DECISÃO EMANADA DE ÓRGÃO COLEGIADO. APLICAÇÃO DO PRINCÍPIO DA FUNGIBILIDADE. IMPOSSIBILIDADE. ERRO GROSSEIRO. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. A interposição de agravo regimental é manifestamente incabível contra decisão emanada de órgão colegiado, configura erro grosseiro e, por via de consequência, não comporta a aplicação do princípio da fungibilidade recursal, até porque, como embargos de declaração, o recurso também estaria intempestivo, pois protocolado após os 2 dias estipulados na legislação processual.
+2. Agravo não conhecido.
+VOTO
+Observo que o presente agravo regimental não comporta conhecimento, por ser manifestamente incabível.
+De acordo com o disposto nos arts. 1.021 do Código de Processo Civil e 258 do Regimento Interno do Superior Tribunal de Justiça, somente é possível agravo regimental contra decisão monocrática. Vale dizer, a interposição de agravo regimental é manifestamente incabível contra decisum oriundo de órgão colegiado.
+Nesse sentido:
+ ..  1. É manifestamente incabível o agravo regimental contra decisão colegiada, conforme dispõem os arts. 258 e 259 do Regimento Interno do Superior Tribunal de Justiça. Nos termos da orientação jurisprudencial do STJ, o manejo do recurso de agravo contra acórdão constitui erro grosseiro, inviabilizando a incidência do princípio da fungibilidade recursal.  ..  2. Agravo regimental não conhecido. (AgRg nos EDcl no HC n. 499.327/ES, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 9/12/2019)
+Dessa forma, a interposição de agravo interno contra decisão emitida por órgão colegiado configura erro grosseiro e, por via de consequência, não comporta a aplicação do princípio da fungibilidade recursal, até porque, como embargos de declaração, o recurso também estaria intempestivo, pois protocolado após os 2 dias estipulados na legislação processual.
+À vista do exposto, não conheço do agravo.
