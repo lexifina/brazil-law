@@ -1,0 +1,52 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo em recurso especial interposto por COMPANY TUR TRANSPORTE E TURISMO LTDA.em face de decisão que inadmitiu recurso especial fundamentado no artigo 105, inciso III, alínea"a", da Constituição Federal, interposto contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"APELAÇÃO. CONTRATO DE TRANSPORTE URBANO DE PASSAGEIROS. QUEDA NO DESEMBARQUE DE ÔNIBUS.
+Lesão à integridade física ocorrida quando a passageira desembarcava do coletivo, que foi colocado em movimento. Vítima que, devido à movimentação inesperada, caiu e foi arrastada. Responsabilidade objetiva da transportadora, nos termos do artigo 37, § 6º, da Constituição Federal, artigo 734 do Código Civil e artigo 14 do Código de Defesa do Consumidor.
+Hipótese de culpa exclusiva da vítima não provada. Danos morais que decorrem da grave lesão à integridade física. Fratura de joelho. Lesão grave que demandou a necessidade de cirurgia, internação hospitalar e outras intercorrências. Indenização reconhecida e arbitrada em R$ 30.000,00, valor adequado e proporcional. Atualização monetária a partir do arbitramento, com incidência de juros de mora de 1% ao mês a partir da citação.
+LIDE SECUNDÁRIA. SEGURADORA QUE ACEITA A DENUNCIAÇÃO, DENTRO DOS LIMITES DA APÓLICE, TORNANDO-SE LITISCONSORTE PASSIVA.
+Responsabilidade solidária. Súmula 537 do egrégio Superior Tribunal de Justiça, com observância dos limites da apólice. Possibilidade de dedução da indenização do DPVAT (Súmula 246 do STJ), desde que provado o pagamento. Lide secundária julgada procedente. Seguradora que não pagará custas e honorários advocatícios, porque não resistiu.
+- RECURSO PROVIDO."
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial, a parte alega, em síntese, a violação doartigo 944 do Código Civil, sob osargumentos de que, "diante das peculiaridades do caso narradas no próprio aresto, quais sejam, i) queda da recorrida no ato do desembarque, ii) fratura no joelho e escoriações, iii) internação e intervenção cirúrgica, resta evidente que o valor arbitrado pelo Tribunal local para reparar o dano moral sofrido pela recorrida se mostra deveras desproporcional" (e-STJ fl. 308), devendo ser reduzido.
+É o relatório.
+Passo a decidir.
+A insurgência recursal não pode ser acolhida, em virtude da incidência do óbice da Súmula 7 deste Superior Tribunal de Justiça.
+O Tribunal de origem assim analisou a controvérsia referente ao valor da compensação pelos danos morais sofridos pela ora recorrida:
+"A parte autora sofreu lesão física de natureza grave (fratura) que demandou internação (de 13 de abril a 7 de maio de 2019), seguindo-se procedimento cirúrgico e período considerável de convalescimento.
+O arbitramento do valor do dano à integridade moral da pessoa é relegado ao prudente arbítrio do juiz, que buscará atender às peculiaridades do caso concreto, considerando certos fatos e circunstâncias que devem informar o convencimento judicial.
+Neste passo, tem-se que a mensuração do dano deve contemplar, precipuamente, as funções ressarcitória e punitiva, levando em conta, respectivamente, a repercussão dos transtornos presumivelmente sofridos pela autora e, de outra parte, sob a ótica do desestímulo, a reprovabilidade da conduta da transportadora.
+A propósito, esclarece Sérgio Cavalieri Filho que: ".. o juiz, ao valorar o dano moral, deve arbitrar uma quantia que, de acordo com seu prudente arbítrio, seja compatível com a reprovabilidade da conduta ilícita, a intensidade e duração do sofrimento experimentado pela vítima, a capacidade econômica do causador do dano, as condições sociais do ofendido, e outras circunstâncias mais que se fizerem presentes" (Programa de responsabilidade civil, 7ª ed., São Paulo: Atlas, 2007, p. 90).
+É certo, ainda, que o valor da indenização por danos morais deve ser estimado em termos razoáveis, não se justificando imposição que possa implicar enriquecimento ilícito e nem aquela que não exerça função reparadora. A indenização dos danos morais, no caso em julgamento, fica arbitrada no valor de R$ 30.000,00 -- trinta mil reais --, quantia que não é exagerada e que, no caso, atende aos critérios do ressarcimento e da punição, assim considerada a natureza grave da lesão e, ainda, o fato de a vítima ser pessoa idosa (contava 66 anos na data do acidente).
+Servirá, demais, como advertência à transportadora para que oriente seus motoristas a conduzirem com maior segurança e cuidado os ônibus, em especial no embarque e no desembarque dos passageiros, especialmente dos mais idosos." (e-STJ fls. 290-291).
+Sabe-se que a intervenção desta Corte para a modificação da quantia fixada para a compensação pelos danos morais somente é admitida em situações de arbitramento ínfimo ou exagerado.
+Essa, porém, não é a hipótese dos autos, na qual o Tribunal de origem arbitrou em R$ 30.000,00 (trinta mil reais) o valor da compensação pelos danos morais sofridos pelaautora, pessoa idosa que sofreu lesão grave no ato de desembarque do ônibus coletivo de propriedade da ré, o que demandou internação, procedimento cirúrgico e período considerável de convalescimento.
+Embora a agravante afirme que a quantia fixada é excessiva, não se justifica, no caso, a excepcional intervenção desta Corte Superior no intuito de revisar omontante, uma vez que não se mostra exagerado, por ter sido fixado de forma proporcional, razoável e condizente com a realidade dos autos.
+Portanto, aplica-se ao caso o óbice da Súmula 7/STJ.
+Sobre o tema, confiram-se os seguintes julgados,mutatis mutandis:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NÃO CONHECEU DO RECLAMO, ANTE A AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INSURGÊNCIA DOS AUTORES.
+ ..
+2. A indenização por danos morais fixada em quantum sintonizado aos princípios da razoabilidade e da proporcionalidade não enseja a possibilidade de interposição do recurso especial, dada a necessidade de exame de elementos de ordem fática, cabendo sua revisão apenas em casos de manifesta excessividade ou irrisoriedade do valor arbitrado, o que não se evidencia no presente caso.Incidência da Súmula 7 do STJ.
+3. Agravo interno provido para reconsiderar a decisão agravada e conhecer do agravo para negar provimento ao recurso especial.
+(AgInt no AREsp 1871392/RJ, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 13/12/2021, DJe 16/12/2021)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. RESPONSABILIDADE OBJETIVA DO HOSPITAL. RESTRIÇÃO ÀS FALHAS DE PRESTAÇÃO DO SEU SERVIÇO. ACÓRDÃO RECORRIDO EM HARMONIA COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. RECONHECIMENTO DA FALHA NA PRESTAÇÃO DO SERVIÇO PELO ACÓRDÃO RECORRIDO. REEXAME DE PROVAS. SÚMULA 7/STJ. QUANTUM INDENIZATÓRIO. MÉTODO BIFÁSICO. OBSERVÂNCIA DOS PRINCÍPIOS DA PROPORCIONALIDADE E DA RAZOABILIDADE. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+ ..
+3. Ao analisar as peculiaridades do caso, as instâncias ordinárias, a fim de reconhecer o nexo de causalidade, foram claras ao asseverar que houve falha na prestação do serviço imputado ao hospital, o que contribuiu para o evento danoso, haja vista o atraso na ministração da medicação prescrita e a falta de uso de outro remédio que teria ação mais efetiva. Ademais, houve falha no procedimento adotado durante a crise de broncoespasmo, o que levou o paciente a óbito, consoante afirmado pelo laudo pericial.
+4. O valor estabelecido pelas instâncias ordinárias a título de indenização por danos morais pode ser revisto tão somente nas hipóteses em que a condenação se revelar irrisória ou exorbitante, distanciando-se dos padrões de razoabilidade e proporcionalidade, o que não se evidencia no presente caso, de modo que a sua revisão encontra óbice na Súmula 7/STJ.
+5. Agravo interno desprovido.
+(AgInt no AREsp 1651310/DF, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 11/10/2021, DJe 14/10/2021)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. ACIDENTE DE TRÂNSITO. FALECIMENTO DA FILHA DOS AGRAVANTES. PENSIONAMENTO. FUNDAMENTO NÃO ATACADO. INCIDÊNCIA DAS SÚMULAS 283 E 284 DO STF. DANOS MORAIS. VALOR RAZOÁVEL. SUCUMBÊNCIA RECÍPROCA. JULGAMENTO EXTRA PETITA. FALTA DE PREQUESTIONAMENTO. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+2. O valor arbitrado pelas instâncias ordinárias a título de danos morais somente pode ser revisado em sede de recurso especial quando irrisório ou exorbitante. No caso, o montante fixado em R$ 100.000, 00 (cem mil reais), para cada genitor da vítima, não se mostra irrisório nem desproporcional em razão do falecimento de filho em acidente de trânsito.
+3. Fica inviabilizado o conhecimento de tema trazido no recurso especial, mas não debatido e decidido nas instâncias ordinárias, não obstante a oposição de embargos declaratórios, porquanto ausente o indispensável prequestionamento. Incidência da Súmula 211 do STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1679394/MG, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 30/11/2020, DJe 18/12/2020)
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. ACIDENTE DE TRÂNSITO. FALECIMENTO DA FILHA DA AGRAVADA. INDENIZAÇÃO. REVISÃO DO VALOR. INADMISSIBILIDADE. MONTANTE EQUITATIVO, PROPORCIONAL E RAZOÁVEL. DECISÃO MANTIDA.
+1. O valor da indenização por danos morais arbitrado na decisão agravada mostra-se proporcional e razoável, dentro dos parâmetros estabelecidos pela jurisprudência do STJ.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp 933.896/PR, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 09/03/2020, DJe 16/03/2020)
+Ante o exposto, com base no art. 932, incisoIII, do CPC/2015, conheço do agravo para, desde logo, não conhecer do recurso especial.
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. QUEDA DEPASSAGEIRA IDOSANO DESEMBARQUE DE ÔNIBUS. CARACTERIZAÇÃO DE LESÃO GRAVE. NECESSIDADE DE INTERNAÇÃO, PROCEDIMENTO CIRÚRGICO E CONSIDERÁVEL PERÍODO DE CONVALESCIMENTO.CONFIGURAÇÃO DE DANO MORAL.INSURGÊNCIA QUANTO AO VALOR ARBITRADO PARA A COMPENSAÇÃO (R$ 30.000,00). QUANTIA NÃO EXACERBADA. RAZOABILIDADE E PROPORCIONALIDADE DA INDENIZAÇÃO ARBITRADA. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INVIABILIDADE. SÚMULA 7 DO STJ.
+AGRAVO CONHECIDO PARA NÃO CONHECERDO RECURSO ESPECIAL.
