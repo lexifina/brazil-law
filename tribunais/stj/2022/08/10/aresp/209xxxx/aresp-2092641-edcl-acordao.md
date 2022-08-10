@@ -1,0 +1,55 @@
+EMENTA
+PENAL E PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU AMBIGUIDADE. EMBARGOS REJEITADOS.
+1. Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração, como recurso de correção, destinam-se a suprir omissão, contradição, ambiguidade ou obscuridade existente no julgado. Não se prestam, portanto, para sua revisão no caso de mero inconformismo da parte. No caso, não há vício a ser sanado
+2. Embargos de declaração rejeitados.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos. Os Srs. Ministros Joel Ilan Paciornik, Jesuíno Rissato (Desembargador Convocado do TJDFT), João Otávio de Noronha e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+Trata-se de embargos de declaração opostos por JUCI ZATTA, contra acórdão que negou provimento ao seu agravo regimental, assim ementado (e-STJ, fl. 1.446):
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME CONTRA A ORDEM TRIBUTÁRIA. VIOLAÇÃO DO PRINCÍPIO DA COLEGIALIDADE. NÃO OCORRÊNCIA. ART. 155 DO CPP. PROVAS NÃO REPETÍVEIS. CONTRADITÓRIO DIFERIDO. POSSIBILIDADE. DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO. AGRAVO NÃO PROVIDO.
+1. A jurisprudência desta Corte é assente no sentido de que não ofende o princípio da colegialidade a prolação de decisão monocrática pelo relator, quando estiver em consonância com súmula ou jurisprudência dominante desta Corte e do Supremo Tribunal Federal.
+2. Esta Corte Superior firmou entendimento segundo o qual é admitido que a documentação proveniente de procedimento fiscal seja utilizada para embasar a condenação, porquanto durante a instrução penal ocorre o contraditório diferido, como ocorreu na espécie.
+3. O recurso especial não é admissível no tocante à alegada divergência pretoriana referente ao dolo no crime de sonegação tributária. Com efeito, no que concerne ao dissídio jurisprudencial, não se revela cognoscível a interposição do recurso com base na alínea "c" do art. 105, inciso III, da Carta Magna, quando a demonstração do dissídio interpretativo se restringe à mera transcrição dos acórdãos tidos por paradigmas.
+4. Agravo regimental desprovido."
+A parte embargante aduz, em síntese, omissão do julgado, já que não se manifestou sobre o afastamentos das Súmulas 7 e 83 do STJ, bem como em relação à aplicação do contraditório diferido e a inviabilidade do manejo do recurso especial, pela ausência de cotejo analítico entre o acórdão recorrido e o paradigma.
+Pede, ao final, o provimento dos aclaratórios, para sanar os supostos vícios apontados.
+É o relatório.
+EMENTA
+PENAL E PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU AMBIGUIDADE. EMBARGOS REJEITADOS.
+1. Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração, como recurso de correção, destinam-se a suprir omissão, contradição, ambiguidade ou obscuridade existente no julgado. Não se prestam, portanto, para sua revisão no caso de mero inconformismo da parte. No caso, não há vício a ser sanado
+2. Embargos de declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+Apesar das alegações da parte embargante, razão não lhe assiste.
+Consoante o art. 619 do CPP, os embargos de declaração são cabíveis nas seguintes hipóteses:
+"Art. 619. Aos acórdãos proferidos pelos Tribunais de Apelação, câmaras ou turmas, poderão ser opostos embargos de declaração, no prazo de dois dias contados da sua publicação, quando houver na sentença ambiguidade, obscuridade, contradição ou omissão".
+Cumpre registrar que os embargos de declaração destinam-se a suprir omissão, contradição e ambiguidade ou obscuridade existente no julgado. Não se prestam, portanto, para sua revisão no caso de mero inconformismo da parte.
+O acórdão embargado, como se percebe facilmente de sua leitura, se manifestou de maneira expressa sobre todos os aspectos suscitados nestes embargos. Vejam-se, a propósito, os seguintes excertos do aresto, relacionados com as respectivas teses do ora embargante:
+"Quanto à alegada proibição de condenar exclusivamente em elementos angariados na fase de investigação, o tribunal de origem assim se manifestou:
+"Em razões de apelação, os réus sustentam insuficiência probatória, pois as provas seriam oriundas exclusivamente da fase investigatória.
+Consigno que a vedação à utilização exclusiva de elementos colhidos na investigação, insculpida no art. 155, caput, do CPP, excetua as provas cautelares, não repetíveis e antecipadas. Veja-se a redação do dispositivo :
+Art. 155. O juiz formará sua convicção pela livre apreciação da prova produzida em contraditório judicial, não podendo fundamentar sua decisão exclusivamente nos elementos informativos colhidos na investigação, ressalvadas as provas cautelares, não repetíveis antecipadas
+No caso dos autos, a juíza federal Priscilla Mielke Wickert Piva utilizou os autos de infração, a representação fiscal para fins penais, as declarações prestadas por ADIR ao MPF e as alterações do contrato social da empresa para fundamentar a condenação dos acusados.
+Trata-se de provas não repetíveis, exceção prevista pelo próprio art.155 do CPP à vedação de utilização exclusiva de provas oriundas da fase pré-processual na fundamentação da decisão judicial.
+Com efeito, em declaração prestada ao MPF, ADIR declarou que, ao tempo dos fatos, exercia a administração da empresa em conjunto com JURCI(feito originário, evento 1, PROCADM3, p. 165). Em juízo, ADIR exerceu o direito constitucional ao silêncio (feito originário, evento 87, VIDEO8 e VIDEO9)"
+"Embora o art. 155 do CPP admita que o magistrado forme a sua convicção com base em provas cautelares, não repetíveis e antecipadas que tenham sido formadas no curso do inquérito policial, isso não significa concluir que tais elementos probatórios não poderão ser submetidos a contraditório durante a instrução processual, oportunidade em que a legalidade de sua obtenção, seja pelos meios, seja pelos fins que a motivou, deverá ser apreciada pelo magistrado. Nesse hipótese tem-se o contraditório diferido, postergado ou adiado - o contraditório sobre a prova -, de modo que, em nenhum caso, deixa de haver controle judicial." (AgRg no HC 537.179/RS, Rel. Ministro Felix Fischer, Quinta Turma, julgado em 01/09/2020, DJe 09/09/2020)
+A jurisprudência deste Superior Tribunal de Justiça é no sentido de que é admitido que a documentação proveniente de procedimento fiscal seja utilizada para embasar a condenação, porquanto durante a instrução penal ocorre o contraditório diferido, como ocorreu na espécie. A propósito:
+"PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ART. 313-A DO CP. INEXISTÊNCIA DE VIOLAÇÃO DO ART. 619 DO CPP. PROVAS PRODUZIDAS PELA RFB NA ESFERA ADMINISTRATIVA. ADMISSIBILIDADE. EMENDATIO LIBELLI. VALIDADE. ALEGADA EXISTÊNCIA DE INQUÉRITO PREVIAMENTE ARQUIVADO. CONTRARIEDADE À NARRATIVA FÁTICA DO ACÓRDÃO RECORRIDO. SÚMULA 7/STJ. DOSIMETRIA DA PENA. CULPABILIDADE E CIRCUNSTÂNCIAS CORRETAMENTE VALORADAS. EXASPERAÇÃO POR 1/8 ENTRE O INTERVALO DE PENAS PARA CADA VETORIAL NEGATIVA. CRITÉRIO VÁLIDO, EMBORA NÃO OBRIGATÓRIO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não há ofensa ao art. 619 do CPP, pois o Tribunal de origem se pronunciou sobre todos os aspectos relevantes para a definição da causa. Ressalte-se que o julgador não é obrigado a rebater, um a um, todos os argumentos das partes, bastando que resolva a situação que lhe é apresentada sem se omitir sobre os fatores capazes de influir no resultado do julgamento.
+2. "Processos administrativos sancionadores conduzidos por autoridades reguladoras ou autor reguladoras constituem, como documentos que são (CPP, art. 232), provas não repetíveis para fins processuais penais, sendo aptos a embasar condenações criminais (CPP, art. 155), desde que submetidos a amplo contraditório diferido em juízo" (REsp 1.613.260/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 9/8/2016, DJe 24/8/2016).
+3. É lícito ao juiz alterar a tipificação jurídica da conduta do réu no momento da sentença, sem modificar os fatos descritos na denúncia. Inteligência do art. 383 do CPP
+4. O TRF concluiu que não houve prévio arquivamento de inquérito em favor da recorrente pelos mesmos fatos, porque a promoção de arquivamento do Parquet se referia apenas ao crime de lavagem de dinheiro. Assim, a inversão do julgado, no ponto, esbarra na Súmula 7/STJ.
+5. Na dosimetria da pena, foram corretamente negativadas pela Corte local as circunstâncias do delito e a culpabilidade, pela complexidade do esquema criminoso e pelo alto cargo público ocupado pela ré
+6. Embora não seja obrigatória a adoção de critério matemático para o arbitramento da pena-base, não é desproporcional a exasperação da reprimenda em 1/8 do intervalo entre as penas máxima e mínima por cada vetorial desfavorável.
+7. Agravo regimental desprovido.
+(AgRg no REsp n. 1.957.660/RS, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 13/12/2021. - grifou-se)"
+O recurso especial não é admissível no tocante à alegada divergência pretoriana referente ao dolo no crime de sonegação tributária. Com efeito, no que concerne ao dissídio jurisprudencial, não se revela cognoscível a interposição do recurso com base na alínea "c" do art. 105, inciso III, da Carta Magna, quando a demonstração do dissídio interpretativo se restringe à mera transcrição dos acórdãos tidos por paradigmas. É absolutamente indispensável o efetivo cotejo analítico entre os arestos impugnado e paradigma, declinados ao exame da identidade ou similitude fática entre estes, nos moldes legais e regimentais, mister não desincumbido pelo postulante no caso em apreço.
+Na mesma direção:
+"Ademais, para a demonstração do dissídio, não basta a simples transcrição da ementa ou voto do acórdão paradigma; faz-se necessário o cotejo analítico entre o aresto recorrido e o divergente, com a demonstração da identidade das situações fáticas e a interpretação diversa emprestada ao mesmo dispositivo de legislação infraconstitucional. Precedentes."
+(AgRg no AREsp 1622044/DF, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 05/05/2020, DJe 29/06/2020)
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
+O embargante utiliza a via dos aclaratórios com propósito manifestamente incabível, buscando apenas provocar este colegiado a realizar um novo julgamento das teses de inadmissão do agravo regimental, tendo em vista que não houve impugnação aos fundamentos da inadmissão da decisão da Presidência em sede de agravo regimental. Ausente, dessarte, qualquer dos vícios elencados no art. 619 do CPP, inviável o acolhimento da pretensão recursal.
+Ante o exposto, rejeito os embargos de declaração.
+É o voto.
