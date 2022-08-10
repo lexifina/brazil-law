@@ -1,0 +1,12 @@
+DECISÃO
+ALAN THIAGO GUALBERTOalega sofrer coação ilegal em decorrência de decisão terminativa prolatada por Desembargador do TribunalJustiça do Estado de São Paulo(HC n. 2153552-82.2022.8.26.0000).
+O apenado busca a remição de suas penas, em face da aprovação parcial em três das cinco áreas do Enem.
+Decido.
+Não está inaugurada a competência prevista no art. 105 da CF para que esta Corte possa examinar a controvérsia, porquanto não existe pronunciamento colegiado deTribunal de Justiça a respeito da tese defensiva.
+Os impetrantes não comprovarama interposição de agravo regimental na origem nem o transcurso in albis do prazo recursal. O Desembargador do TJSP nem sequer examinou o incidente da execução penal, a evidenciar a supressão de instância, e a decisão de primeiro grau, juntada às fls. 82-83, também não tratou da matéria. Nesse contexto, não é possível aconstatação deflagrante ilegalidade em ato prolatado por órgão de segundo grau.
+Aplica-se ao caso a compreensão de que:"não tem cabimento o habeas corpus para desafiar decisão singular de Desembargador .. . 3. A provocação da jurisdição desta Corte Superiorexige o prévio exaurimento da instância antecedente" (AgRg no HC n. 423.705/RS, Rel. MinistroAntonio Saldanha Palheiro, 6ª T., DJe 5/4/2018, grifei).
+A propósito: ""A competência do STJ para examinarhabeascorpus, na forma do art. 105, I, "c", da CF, somente é inaugurada quando a decisão judicial atacada tiver sido proferida por tribunal, o que implica a exigência deexaurimentoprévio da instância ordinária, com manifestação do órgão colegiado" (AgRg no HC n. 600.555/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 24/8/2020)"(AgRg no HC n. 664.767/SP, relator Ministro Joel Ilan Paciornik, 5ª T., DJe de 31/5/2021).
+Cito, no mesmo sentido, julgado do Supremo Tribunal Federal:
+ ..  o caso é dehabeas corpus substitutivo de agravo regimental(cabível na origem). Tendo em vista a jurisprudência da Primeira Turma do Supremo Tribunal Federal (STF), o processo deve ser extinto sem resolução de mérito, por inadequação da via eleita (HC 115.659, Rel. Min. Luiz Fux).Inexistindopronunciamento colegiadodo Superior Tribunal de Justiça, não compete ao STF examinar a questão de direito implicada na impetração. Precedentes  ..  (RHC n. 169214 ED, Rel. MinistroRoberto Barroso, 1ª T., Dje 19/9/2019, destaquei).
+À vista do exposto,indefiro liminarmente o processamento deste habeas corpus.
+Publique-se e intimem-se.
