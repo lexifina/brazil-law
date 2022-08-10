@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ICOMON TECNOLOGIA LTDA. (ICOMON) contra decisão que negou seguimento ao seu apelo nobre manejado, por sua vez, contra acórdão do TJSP, de relatoria do Des. MARIO A. SILVEIRA,assim ementado:
+AGRAVO DE INSTRUMENTO Interposição contra decisão indeferiu pedido de expedição de ofícios ao CENSEC Centro Eletrônico de Serviços Compartilhados. Obrigação da parte de localização de bens penhoráveis, bem como de indicar precisamente aqueles sobre os quais devem recair a constrição. Ademais, a expedição de ofício ao CENSEC Centro Eletrônico de Serviços Compartilhados que foge ao objeto da causa. Caso, ademais, em que existe à disposição, enfim, ao alcance da parte interessada, a pesquisa pública junto ao Colégio dos Registradores. Decisão mantida.
+Agravo de instrumento não provido. (e-STJ, fl. 594),
+Os embargos de declaração opostos por ICOMON foram rejeitados(e-STJ, fls. 612/620).
+Irresignada, ICOMONinterpôs/interpuseram recurso especial com base no art. 105, III, alíneaa, da CF, apontando a violação aos arts. 8º e 139, IV do NCPC, ao sustentar que (1) o acesso à pesquisa junto à CENSEC apenas pode ser efetivada por meio do Poder Judiciário; (2) se negou vigência aos artigos 8º e 139, IV, do Código de Processo Civil, pois, em última análise, estes dispositivos autorizam o Magistrado a determinar todas as medidas necessárias para se alcançar o fim almejado pela execução, que é a penhora e excussão de bens do devedor(e-STJ, fl. 631).
+O recurso não foi admitido pelo
+Nas razões do presente agravo, ICOMON alegouque não incidem os óbices apontados na decisão de inadmissibilidade.
+Não foi apresentada contraminuta.
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que não merece prosperar.
+(1)Dos arts. 8º e 139 do NCPC
+A irresignação recursal está basicamente apoiada no argumento de que foi negada vigência aos citadosartigos 8º e 139, IV, do Código de Processo Civil, pois, em última análise, estes dispositivos autorizam o Magistrado a determinar todas as medidas necessárias para se alcançar o fim almejado pela execução, que é a penhora e excussão de bens do devedor (e-STJ, fl. 631).
+No entanto, o Tribunal recorrido apoiou-se na seguinte fundamentação:
+Com efeito, em que pese não se ignorar as diversas diligências já realizadas pela exequente, aqui insurgente, o específico pedido para expedição de ofício ao CENSEC Centro Eletrônico de Serviços Compartilhados, não encontra guarida.
+Conquanto referida parte tenha logrado obter judicialmente diligências, por um lado, tais como SISBAJUD e ARISP e por outro, o indeferimento em outro momento como diligência junto ao INSS, tal como ventilado por referida, o que se depreende do agravo de instrumento é que a postulante deseja a penhora de eventuais bens e ativos existentes em nome da parte executada, aqui agravada. Contudo, tal diligência é da parte, não podendo a agravante pleitear a substituição de sua obrigação, transferindo-a para o Juízo.
+Ademais, por se tratar a penhora de medida de natureza constritiva, somente poderá recair sobre bens certos e determinados bens, que sejam comprovadamente de propriedade daparte executada, e não sobre bens eventualmente revelados numa consulta.
+No caso, a pretendida expedição de ofício ao CENSEC Centro Eletrônico de Serviços Compartilhados, desborda do objeto da ação, ou seja, não se coaduna com a pertinência jurídica do cumprimento de sentença. Em suma, o fundamento do pedido foge ao objeto da causa, ainda que assim não entenda referida exequente.
+Além do mais, existe à disposição, enfim, ao pleno alcance da parte exequente, efetuar as pesquisas por meios próprios e disponibilizados publicamente junto ao Colégio dos Registradores(e-STJ, fls. 595/596).
+E nos Aclaratórios, assim falou a Corte Bandeirante:
+Esclarecido isso, o que se tem é que o v.
+Acórdão posicionou-se de maneira muito clara ao analisar a matéria devolvida, inclusive, mas não só, em relação à expedição de ofícios ao CENSEC Centro Eletrônico de Serviços Compartilhados e demaisdiligências e os motivos e fundamentos a respeito.
+O outro julgado reproduzido pela parte embargante, ademais, foi proferido em conformidade com as especificidades do caso concreto, tal como na situação aqui tratada.
+Cada qual com suas peculiaridades, ainda que em um ou algum ponto possa apresentar semelhança. No caso aqui tratado, ficou expressado que a pretendida expedição de ofício ao CENSEC, há de se relembrar e destacar, desborda do objeto da ação, ou seja, não se coaduna com a pertinência jurídica do cumprimento de sentença. Em suma, o fundamento do pedido foge ao objeto da causa, ainda que assim não entenda referida exequente.
+(..)
+Por tudo isso, não se tem por afrontadas disposições constitucionais ou infraconstitucionais, apreciadas no essencial ao deslinde da controvérsia.
+A parte embargante, quanto ao prequestionamento, sequer se dignou a especificar tal o qual dispositivo pretende ver prequestionado.
+De todo modo, não prospera o uso de embargos de declaração para fins de prequestionamento de questões federais ou constitucionais como meio de viabilizar recurso especial ou extraordinário(e-STJ, fls. 616/619)
+Dos excertos acima transcritos observa-se que os citados preceitos não foram objeto de debate peloacórdão recorrido se ressentindo do necessário prequestionamento.
+É exigência contida na própria previsão constitucional de interposição do recurso especial que a matéria federal tenha sido decidida em única ou última instância.
+Não basta à parte discorrer sobre o dispositivo legal que entende infringido. É absolutamente necessário que a Corte recorrida tenha emitido juízo de valor sobre o referido preceito, o que não ocorreu na hipótese examinada.
+No caso, se aplicam as Súmulas nºs 282 do STF e 211 do STJ.
+Confira-se a jurisprudência:
+PROCESSUAL CIVIL. AGRAVO INTERNO. VIOLAÇÃO AOS ARTS. 144 E 492 DO CPC.AUSÊNCIA DE PREQUESTIONAMENTO. FUNDAMENTOS CONSTITUCIONAIS. VIOLAÇÃO AOART. 1.022 DO CPC NÃO COMPROVADA. (..) 2. Não se pode conhecer da irresignação contra a ofensa aos arts. 141 e 492 do CPC, pois a tese legal apontada não foi analisada pelo acórdão hostilizado, o que atrai o óbice da Súmula 282 do STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada." No mesmo sentido, os enunciados das Súmulas 211 do STJ e 356 do STF. (AgInt noAREsp 1745195/MT, Rel. Ministro HERMAN BENJAMIN, Segunda Turma, j. em 22/03/2021, DJe 05/04/2021).
+Verifica-se, ainda, que a recorrente não impugnou o fundamento do acórdão no sentido de quea pretendida expedição de ofício ao CENSEC Centro Eletrônico de Serviços Compartilhados, desborda do objeto da ação, ou seja, não se coaduna com a pertinência jurídica do cumprimento de sentença. Em suma, o fundamento do pedido foge ao objeto da causa, ainda que assim não entenda referida exequente(e-STJ, fl. 596),,fundamento autônomo e suficiente o que atrai a aplicação das Súmulas nºs 283 e 284 do STF.
+Confira-se:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE COLETIVO EMPRESARIAL. MIGRAÇÃO PARA PLANO INDIVIDUAL. 1. ART. 1.022. ALEGAÇÃO DE OMISSÃO. VÍCIO NÃO CONFIGURADO. 2. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO QUE, POR SI SÓ, MANTERIAM A DECISÃO. SÚMULAS N. 283 E 284/STF. 3. CONCLUSÃO PAUTADA NO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. REEXAME INVIÁVEL. SÚMULA N. 7/STJ. 4. AGRAVO INTERNO DESPROVIDO. (..) 3. É inviável o recurso especial que deixa de impugnar fundamento suficiente do acórdão recorrido, atrelando suas razões a violação de lei federal ou dissídio pretoriano, por se tratar de recurso de fundamentação vinculada, sob pena de incidência das Súmulas n. 283 e 284, ambas do Supremo Tribunal Federal. 4. A conclusão esposada no acórdão recorrido está calcada em premissas fáticas e probatórias, de forma que rever o entendimento do Tribunal de origem demandaria reexame de fatos e provas, o que encontra óbice na Súmula n. 7/STJ. 5. Agravo interno desprovido.(AgInt no REsp 1980064/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. em 09/05/2022, DJe 11/05/2022)
+Nessas condições, CONHEÇO do agravo para NÃO CONHECERdo recurso especial.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL. AGRAVO EM RECURSO ESPECIAL NO NCPC. ARTS. 8º E 139, IV, DO NCPC. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS NºS 282 DO STF E 211 DO STJ. NÃO IMPUGNAÇÃO DE FUNDAMENTO SUFICIENTE DO ACÓRDÃO RECORRIDO. APLICAÇÃO DAS SÚMULAS NºS 283 E 284 DO STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
