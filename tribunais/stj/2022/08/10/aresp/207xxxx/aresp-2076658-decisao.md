@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se dedois agravos interpostos por ARTELINHA DISTRIBUIDORA DE AVIAMENTOS E TECIDOS LTDA e BANCO DO BRASIL SA, contra decisão que inadmitiu recursos especiais com fundamento no art. 105, inciso III, da Constituição Federal.
+É, no essencial, o relatório. Decido.
+Inicialmente, de acordo com os Enunciados Administrativos do STJ n.º 02 e n.º 03, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, inclusive; ou, se publicada a partir de 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+Mediante análise do recurso de ARTELINHA DISTRIBUIDORA DE AVIAMENTOS E TECIDOS LTDA, o recurso especial não foi instruído com a guia de custas devidas ao STJ e o respectivo comprovante de pagamento, tendo em vista o pedido de gratuidade de justiça realizado às fls. 267/304.
+O tribunal de origem entendeu que a hipossuficiência não restou comprovada e indeferiu o pedido, determinando que a parte recolhesse as custas, nos termos da decisão de fls. 311/312.
+Apesar de devidamente intimada, a parte não regularizou o preparo, deixando o prazo transcorrer in albis.
+Assim, o tribunal de origem julgou deserto o recurso especial nos termos da decisão de fls. 330/335. Portanto, correta a decisão agravada ante a aplicação da Súmula n.º 187 deste Tribunal.
+Além disso, a parte recorrente foi intimada da decisão agravada em 16/06/2021, sendo o agravo somente interposto em 29/09/2021.
+O recurso é, pois, manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias úteis, nos termos do art. 994, VIII, c/c os arts. 1.003, § 5º, 1.042, caput, e 219, caput, todos do Código de Processo Civil.
+Segundo a orientação jurisprudencial desta Corte Superior, a interposição de recurso manifestamente incabível não interrompe o prazo recursal. Na espécie, o agravo regimental/interno, apresentado em face da decisão que inadmitiu o recurso especial não é o recurso adequado ou cabível à espécie. Nesse sentido o AgInt no AREsp 1601341/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 10/6/2020 e o AgInt no AREsp 1508918/MT, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 28/2/2020.
+Quanto à irresignação de BANCO DO BRASIL SA, a parte recorrente não procedeu à juntada da procuração e/ou cadeia completa de substabelecimento conferindo poderes aosubscritordo agravo e do recurso especial, Dr. Nelson Wilians Fratoni Rodrigues.
+É firme o entendimento do STJ de que a ausência da cadeia completa de procurações impossibilita o conhecimento do recurso (Súmula n. 115/STJ).
+Ademais, percebeu-se, no STJ, haver irregularidade no recolhimento do preparo, bem como da representação processual. A parte, embora regularmente intimada para sanar referidos vícios, regularizou apenas o preparo (fls. 544/545), permanecendo, porém, o vício da representação, tendo em vista que a petição de fls. 543/546 veio sem documentos outorgando poderes ao subscritor dos recursos.
+Dessa forma, o recurso não foi devida e oportunamente regularizado.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço dos recursos.
+Publique-se. Intimem-se.
