@@ -1,0 +1,29 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo em recurso especial interposto por LINDOMAR FEITOSA DE MACEDO eVERA LUCIA LOPES DE MACEDOcontra decisão do Tribunal de Justiça do Estado do Tocantinsque não admitiu recurso especial manejado contra acórdão assim ementado (e-STJ, fl. 132):
+AGRAVO DE INSTRUMENTO. INTERDITO PROIBITÓRIO. CONEXÃO. PROCESSO JÁ SENTENCIADO. DESNECESSIDADE DE REUNIÃO. SÚMULA 235 DO STJ. RECURSO PROVIDO. 1. Os processos de ações conexas serão reunidos para decisão conjunta, desde que não tenha sido proferida sentença em um deles(inteligência do art. 55,§ 1º, do CPC/2015 e da Súmula 235/STJ). 2. Na hipótese dos autos, infere-se que a ação de reintegração de posse que o Julgador Singular reputou conexa aos autos do presente interdito proibitório foi julgada procedente, cuja sentença transitou em julgado, não havendo, pois, que se falar na reunião das demandas no juízo prevento para fins de julgamento conjunto. 3. Recurso conhecido e provido, para que o processo tenha seu regular prosseguimento.
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial a parte alega ofensa aos seguintes dispositivos legais: arts. 54 e 55, §2º, II, e §3º,do CPC.
+Pede a reforma do acórdão por entender, em síntese, que "possibilidade de conexão e reunião dos processos na hipótese em que a execução de título extrajudicial e a ação de conhecimento se refiram ao mesmo ato jurídico, sendo possível a aplicação por analogia do referido preceito legal à espécie, uma vez que a não reunião das demandas poderá ocasionar a prolação de decisões conflitantes, haja vista a prejudicialidade externa entre as ações" - fl. 148.
+É o relatório.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à analise do recurso especial.
+Inicialmente, observo, por oportuno, que o dissídio jurisprudencial não foi devidamente comprovado conforme estabelecido nos arts. 541, parágrafo único, do CPC, e 255, §§ 1º e 2º, do RISTJ. A divergência jurisprudencial deve ser demonstrada com a indicação das circunstâncias que identifiquem ou assemelhem os casos confrontados. A simples transcrição de ementas não é suficiente para a comprovação do dissídio. No caso, não houve o devido cotejo entre o acórdão recorrido e os paradigmas indicados.
+Mesmo que assim não fosse, no que tange à suposta violação do artigo 55, § 3º, do Código de Processo Civil, o conhecimento da insurgência é obstado com base no teor da Súmula 7/STJ, que veda o reexame do conjunto fático-probatório na via do recurso especial, conforme destacado na decisão de inadmissibilidade.
+O Tribunal de origem assim analisou a controvérsia (fl. 127):
+E da leitura dos autos originários, constato a necessidade de reforma da decisão agravada, haja vista a consistência das razões recursais apresentadas pelos recorrentes.
+Isso porque o comando emergente do art. 55, § 1º, do CPC/2015, é bastante claro ao dispor que "os processos de ações conexas serão reunidos para decisão conjunta, salvo se um deles já houver sido sentenciado".
+Ressalta-se que referido entendimento já se encontra há muito sumulado pelo STJ, verbis:
+Súmula nº 235: A conexão não determina a reunião dos processos, se um deles já foi julgado.
+Na hipótese dos autos, infere-se que a Ação de Reintegração de Posse nº 5000280-20.2000.827.2729, a qual o Julgador Singular reputou conexa aos autos da presente ação reivindicatória, foi julgada procedente em20/01/2010, cuja sentença transitou em julgado em 09/05/2011,consoante certidão juntada no evento 1 - SENT9.
+Logo, justificada se mostra a reforma da decisão agravada, uma vez que o processo conexo já foi sentenciado, não havendo, pois, que se falar na reunião das demandas no juízo prevento para fins de julgamento conjunto.
+Da leitura dos trechos acima transcritos, verifica-se que seria imprescindível o revolvimento dos elementos fático-probatórios constantes dos autos para se promover a revisão das premissas fixadas no acórdão recorrido no sentido de que, embora não esteja caracterizada a conexão entre os processos, as peculiaridades do caso sob apreciação revelam que há risco de prolação de decisões conflitantes ou contraditórias caso as demandas sejam decididas separadamente, razão pela qual devem ser reunidas para julgamento conjunto.
+Incide, portanto, o óbice da Súmula 7 desta Corte Superior quanto à aferição, no caso concreto, do efetivo preenchimento dos requisitos para a aplicação do art. 55, § 3º, do CPC/2015.
+Advirta-se que eventual recurso interposto contra este decisum estará sujeito às normas do CPC/2015 (cf. Enunciado Administrativo n. 3/STJ).
+"Não cabe a majoração dos honorários advocatícios nos termos do § 11 do art. 85 do CPC de 2015 quando o recurso é oriundo de decisão interlocutória sem a prévia fixação de honorários" (AgInt no REsp 1.507.973/RS, Relator o Ministro João Otávio de Noronha, julgado em 19/5/2016 e publicado no DJe de 24/5/2016).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. PEDIDO DE JULGAMENTO CONJUNTO DE PROCESSOS COM BASE NO §2º DO ART. 55 DO CPC. CONEXÃO. PERIGO DE PROLAÇÃO DE DECISÕES CONFLITANTES.
+1. Odissídio jurisprudencial não foi devidamente comprovado conforme estabelecido nos arts. 541, parágrafo único, do CPC, e 255, §§ 1º e 2º, do RISTJ. A divergência jurisprudencial deve ser demonstrada com a indicação das circunstâncias que identifiquem ou assemelhem os casos confrontados. A simples transcrição de ementas não é suficiente para a comprovação do dissídio. No caso, não houve o devido cotejo entre o acórdão recorrido e os paradigmas indicados.
+2. Oconhecimento da insurgência é obstado com base no teor da Súmula 7/STJ, que veda o reexame do conjunto fático-probatório na via do recurso especial, conforme destacado na decisão de inadmissibilidade.
+AGRAVO CONHECIDO PARA, DESDE LOGO, NÃO CONHECER DO RECURSO.
