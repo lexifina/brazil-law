@@ -1,0 +1,4 @@
+DECISÃO
+Cuida-se de recurso ordinário interposto por FRANCISCO FREDERICO SCHUETT contra acórdão proferido pelo TRF - 3ª Região, que denegou a segurança pleiteada contra ato que, em sede de cumprimento de sentença, determinou a reintegração da posse em favor do INSTITUTO NACIONAL DE COLONIZAÇÃO E REFORMA AGRÁRIA - INCRA (ora recorrido) de lote localizado noProjeto de Assentamento Bela Vista do Chibarro, no município de Araraquara - SP.
+Por tratar de matéria de direito público, a apreciação do presente recursofoge à competência desta 2ª Seção, a teor do que dispõe o art. 9º, § 1º,VIIIe XIV, do RISTJ.
+Assim sendo, determino a remessa dos autos à Coordenadoria de Análise eClassificação de Temas Jurídicos e Distribuição de Feitos - CTJU, para aredistribuição dos autos a uma das Turmas da 1ª Seção deste Tribunal.
