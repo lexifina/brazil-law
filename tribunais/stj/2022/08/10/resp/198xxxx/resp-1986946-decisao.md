@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especial, interposto por MARIA DE LOURDE SOARES, com amparo naalínea"a" do permissivo constitucional, no intuito de reformar o acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 414, e-STJ)
+USUCAPIÃO CONSTITUCIONAL URBANO (art. 183 da CF; art. 1.240 do CC). Sentença de procedência. Inconformismo do banco-réu. Alegada posse da parte autora a partir de 2002.Imóvel usucapiendo adjudicado pela instituição financeira em 2003, a qual, ainda, se encontra em processo de liquidação extrajudicial desde 1996. Óbice ao transcurso da prescrição aquisitiva (art. 18, alínea a, da Lei n. 6.024174). Precedentes. Sentença reformada. Recurso provido.
+Opostos embargos de declaração, estes foramacolhidos sem efeito modificativo, por decisão monocrática de fls. 444-447, e-STJ.
+Nas razões do recurso especial (fls. 450-456, e-STJ), ainsurgente apontaviolação do artigo 1.240 do CC, no que concerne à necessidade de reconhecimento da usucapião constitucional do imóvel pelo preenchimentos dos requisitos legais necessários.
+Não houve contrarrazões.
+Após decisão de admissão do recurso especial (fls. 460-461, e-STJ), os autos ascenderam a esta egrégia Corte de Justiça.
+O Ministério Público Federal juntou manifestaçãopelo não conhecimentodo recurso. (fls. 472-475, e-STJ).
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+1. A insurgente alega violação ao artigo 1.240 do CC, diante do não reconhecimento dos requisitos configuradores da usucapião constitucional do imóvel.
+Sustenta, em síntese, que"O fato de que o banco encontrar-se em liquidação extrajudicial não tem supedâneo de suspender o prazo prescricional, pois, não se discute o domínio em usucapião, mas a posse e desde que comprove os requisitos exigidos e demonstrados"(fl. 452, e-STJ).
+A respeito da controvérsia, o Tribunal local utilizou como razão de decidir os seguintes fundamentos(fls. 415-418, e-STJ):
+Com efeito, aduz a autora-apelada que se encontra desde 2002 na posse direta do imóvel urbano indicado na exordial, o qual conta com área de 250 m2, utilizando-o para fins de moradia própria e de sua família, não constando nos autos notícia acerca da titularidade de outro bem imóvel.
+Não obstante, verifica-se que o aludido bem foi adjudicado ao banco-réu em 03/02/2003 (cf. certidão afls. 12), o qual está desde 1996 em processo de liquidação extrajudicial, circunstância que obsta o transcurso do prazo da prescrição aquisitiva, nos moldes do art. 18, alínea a, da Lei n. 6.024/74:
+"Art. 18. A decretação da liquidação extrajudicial produzirá, de imediato, os seguintesefeitos: a) suspensão das ações e execuções iniciadas sobre direitos e interesses relativos ao e acervo da entidade liquidanda, não podendo ser intentadas quaisquer outras, enquanto durar aliquidação. "
+Inviável, portanto, o pretendido reconhecimento da usucapião em favor da autora-recorrida.
+In casu, a Corte Estadual utilizou como razão de decidir o teor do artigo18, alínea a, da Lei n. 6.024/74, acolhendo a tese de que o processo de liquidação extrajudicial obsta o transcurso do prazo da prescrição aquisitiva, fundamentos estes não rebatidos pela recorrente nas razões do apelo extremo.
+Com efeito, nos termos da jurisprudência desta Corte, a existência de fundamentos inatacados, aptos a manutenção do arresto recorrido e as razões dissociadas do recurso em relação ao acórdão impugnado, atraem a incidência das Súmulas 283 e 284 do STF, aplicáveis por analogia.
+Nesse sentido, confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PRESCRIÇÃO. HONORÁRIOS ADVOCATÍCIOS. PRINCÍPIO DA CAUSALIDADE. INÉRCIA DO EXEQUENTE NA PROPOSITURA DO CUMPRIMENTO DE SENTENÇA. RAZÕES DISSOCIADAS DOS FUNDAMENTOS DO ACÓRDÃO ATACADO. SÚMULA 284/STF. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.  ..  4. É inadmissível o inconformismo por deficiência na fundamentação quando as razões do recurso estão dissociadas do decidido no acórdão recorrido. Aplicação da Súmula 284 do Supremo Tribunal Federal. 5. Agravo interno provido para afastar a falta de dialeticidade recursal, conhecer do agravo e negar provimento ao recurso especial. (AgInt no AREsp 1680324/SC, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 19/10/2020, DJe 16/11/2020)  grifou-se
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. ATRASO NA ENTREGA DO IMÓVEL. LUCROS CESSANTES. FUNDAMENTO INATACADO. MORA DO COMPRADOR. SÚMULA 283 E 284 DO STF. MATÉRIA QUE DEMANDA REEXAME. SÚMULAS 5 E 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO. 1. A subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado impõe o não conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula nº 283/STF: "É inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.".  ..  3. Agravo interno não provido. (AgInt nos EDcl no AREsp 874.193/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 01/09/2016, Dje 08/09/2016)  grifou-se
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL.  ..  EXISTÊNCIA DE FUNDAMENTO NÃO ATACADO NO ACÓRDÃO RECORRIDO. APLICAÇÃO DA SÚMULA Nº 283 DO STF.  ..  5. A existência de fundamento inatacado no julgado, suficiente para manter a decisão, atrai o óbice contido na Súmula nº 283 do STJ, aplicável por analogia. 6. Agravo regimental não provido. AgRg no AREsp 719.286/SC, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 14/06/2016, Dje 21/06/2016)  grifou-se
+Desta forma, incidem os óbices das Súmulas 283 e 284/STF, aplicáveis por analogia.
+2. Ante o exposto, nego provimento ao recurso especial.
+Publique-se.
+Intimem-se.
