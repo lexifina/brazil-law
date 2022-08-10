@@ -1,0 +1,24 @@
+DECISÃO
+IVAN CLEBER VICENSOTTI alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, que denegou o HC n. 2293936-32.2021.8.26.0000.
+A defesa aduz, em síntese, que "a então autoridade coatora, ao dar recebimento de denúncia com a única " fundamentação " de que seria possível aferir prova de materialidade e indício de autoria, a partir dos elementos apresentados no inquérito policial  .. " (fl. 1.323).
+Afirma, ainda, que "ao mencionar os elementos que representam a prova da materialidade do delito imputado ao recorrente e os indícios de autoria, a autoridade coatora não adentraria ao mérito. Na realidade, a decisão enfrentaria o caso concreto, ao invés de ser mais uma decisão padronizada que pode ser adequada a qualquer caso" (fl. 1.325).
+Requer, assim, o provimento do recurso, para que, ao final, seja reconhecida anulidade do recebimento da denúncia.
+Após o indeferimento da liminar (fls. 1.340-1.341), oMinistério Público Federal manifestou-se pelo não provimento do recurso (fls. 1.351-1.355).
+Decido.
+De início, cumpre destacar que "ajurisprudência dos Tribunais Superiorespossui entendimento de que a decisão que recebe a denúncia possui naturezajurídica de interlocutória simples, não necessitando fundamentaçãoexauriente por parte do Magistrado quanto aos motivos do seu recebimento"(AgRg no HC n. 728.060/PI, Rel. Ministro Reynaldo Soares da Fonseca, 5ªT., DJe 31/3/2022).
+A Corte estadual, ao rejeitaro pleito de nulidade da decisão que recebeu a denúncia, dispôs(fl. 1.308-1.311,grifei):
+O trancamento da ação penal bem instaurada, não se justifica.
+A persecução penal, é bem sabido, mostra-se adequada à vista da notícia do evento com característica de tipicidade, cercada de razoável convicção a propósito da autoria e da presença do elemento subjetivo do tipo. Bem por isso, regularmente instaurada a ação, para a apuração de fato penalmente ilícito, somente se mostra justo o trancamento da causa, exclusivamente à vista de induvidosa erronia a propósito da autoria mal comprovada, ou em face de irrecusável, certa e evidente ocorrência de justificativa excludente da tipicidade, de dirimente prejudicial da punibilidade ou de ausência do dolo ou da culpa reclamados para a configuração do tipo.
+ .. .
+Com efeito, verifico que os documentos que instruíram estes autos demonstram justamente a existência de elementos indiciários mais que suficientes para justificar a ação penal contra o Paciente.
+Ora, a coação será considerada ilegal, quando exercida sem que haja ummotivo lícito, restringindo total ou parcialmente a liberdade de locomoção do Paciente.
+Portanto, somente se pode falar em falta de justa causa a ensejar o trancamento da ação pela estrita via do Habeas Corpus quando provado, de modo inequívoco, que o agente não participou, de modo algum, da ação criminosa, ou que a sua conduta não caracteriza infração penal, o que não se verifica na espécie.
+ .. .
+A incoativa, enfim, descreve fatos típicos, e contém, num juízo de cognição superficial, dados sugestivos de autoria e materialidade delitivas, bastantes, até porque é na fase contraditória que hão de ser corroborados, ao processamento do feito.
+Assim, a notícia de ocorrência aparentemente criminosa, devidamente documentada, mereceu credibilidade junto àquele a quem endereçada. Desta forma, sem que se possa dizer estar o paciente a suportar constrangimento ilegal, a imputação, que apenas a investigação dirá, ao depois, se foi procedente ou não, reclamava, por certo, a instauração do procedimento investigatório.
+Enfim, a decisão atacada não se mostra ilegal ou abusiva e maior aprofundamento nas questões ora enfatizadas importaria sobremaneira na prematuração do mérito da ação, como a desnaturar o objeto precípuo da impetração.
+Pelo excerto transcrito, observo que oacórdão recorrido assentou que "A incoativa, enfim, descreve fatos típicos, e contém, num juízo de cognição superficial, dados sugestivos de autoria e materialidade delitivas, bastantes, até porque é na fase contraditória que hão de ser corroborados, ao processamento do feito" (fl. 1.311).
+Assim, ao menos para os limites de cognição possíveis nesta via estreita e para o standard probatório exigido para a etapa de oferecimento da denúncia, está preenchida a justa causa para o exercício da ação penal.
+Ademais, em relação à aventada ausência de fundamentação dadecisão que recebeu a denúncia, observo que essa tese não foiexaminada pontualmente peloacórdão impugnado, de modo que não há como pretender seravaliadanestaoportunidade, sob pena de supressão de instância. Nesse sentido é apacífica jurisprudência deste Superior Tribunal, v.g., RHC n. 129.608/RJ,Rel. Ministro Reynaldo Soares da Fonseca, DJe 4/2/2021.
+À vista do exposto,nego provimentoao recurso em habeas corpus.
+Publique-se e intimem-se.
