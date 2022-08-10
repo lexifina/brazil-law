@@ -1,0 +1,68 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu o recurso especial interposto por Banco Itaú Consignado S.A.,com fundamento no art. 105, III, ae c, da Constituição Federal, para impugnar acórdão assim ementado (e-STJ, fls. 88-89):
+APELAÇÃO CÍVEL. PROCESSUAL CIVIL. Ação Declaratória de nulidade/inexistência de relação contratual c/c repetição de indébito e indenização por danos morais. Negócio jurídico celebrado com analfabeto. Ausência de procuração pública. contrato nulo. Restituição em dobro dos valores descontados do benefício previdenciário. Danos morais mantidos. recurso conhecido e improvido.
+1. O analfabetismo não induz presunção de incapacidade relativa ou total da pessoa, consoante denotam os artigos 3º e 4º do Código Civil.
+2. A hipótese dos autos se refere a empréstimo bancário, portanto, verifico que o objeto é lítico, possível e determinado.
+3. Todavia, para formalização do contrato, reafirmo o entendimento já consolidado pela Súmula 297 do STJ de que "o Código de Defesa do Consumidor é aplicável às instituições financeiras".
+4. Na espécie, aplica-se o art. 54, parágrafo 3º, do CDC, que estabelece: "os contratos de adesão escritos serão redigidos em termos claros e com caracteres ostensivos e legíveis, cujo tamanho da fonte não será inferior ao corpo doze, de modo a facilitar sua compreensão pelo consumidor."
+5. Assim vem se consolidando o entendimento na doutrina e jurisprudência de que o negócio jurídico celebrado com pessoa analfabeta só é válido se mediante procuração pública, considerando referida exigência como essencial para a validade do negócio, e torna nulo o negócio jurídico se descumprida tal solenidade, nos termos do art. 166, V, do CC.
+6. In casu, verifico através da cópia do contrato acostada pelo Banco, que se trata de contrato de empréstimo, o qual contém a suposta digital da parte autora/contratante e assinatura de duas testemunhas, inexistindo a comprovação de que o negócio foi celebrado por escritura pública ou, ainda, por meio de procurador constituído através de instrumento público.
+7. Portanto, o referido contrato é nulo, razão pela qual deverá o banco apelado devolver o valor descontado indevidamente do benefício previdenciário da parte apelante.
+8. Também é devida a restituição do indébito em dobro, posto que o ato praticado pela instituição financeira de cobrar empréstimo, com base em contrato nulo, afronta o direito do consumidor, e, nesse caso, deve devolver em dobro, os valores descontados, na forma do parágrafo único do art. 42 do Código de Defesa do Consumidor, realizada a devida compensação com o valor repassado a parte através de TED, sob pena de enriquecimento ilícito.
+9. No que se refere aos danos morais, evidente a incidência na hipótese e, por consequência, presente o dever de indenizar.
+10. Como apenas o Banco apelou da sentença, mantenho a condenação em Danos Morais no valor de R$ 500,00 (quinhentos reais) arbitrados em primeira instância.
+11. Apelação conhecida e improvida. Sentença mantida.
+No recurso especial, apontou-se violação dos 186 e 595 do Código Civil,além de divergência jurisprudencial (e-STJ, fls.127-133).
+Alegou-se, em suma, que não houve ato ilícito justificador da obrigação de indenizar e que o contrato observou as regras necessárias à pactuação com analfabeto.
+Foram apresentadas contrarrazões (e-STJ, fls. 150-157).
+O recurso especial não foi admitido na origem (e-STJ, fls. 158-161), o que provocou a interposição do presente agravo.
+Deixou-se de ofertar contraminuta(e-STJ, fl. 174).
+Brevemente relatado, decido.
+O inconformismo não merece prosperar.
+No tocante àmatériaalusivaaoart. 186 do Código Civilapontadocomo ofendido,constata-se que a questão,da forma como apresentada no recurso especial, não foi objeto de apreciação pelo Tribunal estadual, configurando-se a ausência de prequestionamento a atrair a incidência das Súmulas 282 e 356/STF.
+Oportuno assinalar, ainda, que a jurisprudência deste Tribunal Superior é tranquila no sentido da necessidade de prequestionamento dos dispositivos que se entendem violados, mesmo em se tratando de matéria de ordem pública.
+Veja-se:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. EXECUÇÃO HIPOTECÁRIA. EMBARGOS. PRAZO. MANDADO DE CITAÇÃO. JUNTADA. NULIDADE DA PENHORA E PRESCRIÇÃO. FUNDAMENTOS DO ACÓRDÃO RECORRIDO. IMPUGNAÇÃO. NECESSIDADE. SÚMULA Nº 283/STF. CLÁUSULAS CONTRATUAIS. ABUSIVIDADE. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 282/STF.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Após a vigência da Lei nº 11.382/2006, o prazo para oposição de embargos à execução passou a ser de 15 (quinze) dias, contados, no entanto, a partir da juntada aos autos do mandado de citação.
+3. A falta de impugnação dos fundamentos do acórdão recorrido enseja o não conhecimento do recurso, incidindo o disposto na Súmula nº 283/STF.
+4. A ausência de prequestionamento da matéria suscitada no recurso especial impede o conhecimento do apelo nobre (Súmula nº 282/STF). As questões de ordem pública, embora passíveis de conhecimento de ofício nas instâncias ordinárias, não prescindem, no estreito âmbito do recurso especial, do requisito do prequestionamento.
+5. Agravo interno não provido. (AgInt no REsp 1633820/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 24/08/2020, DJe 31/08/2020)
+De fato, a Corte local adotou as seguintes razões de decidir (e-STJ, fls. 94-105):
+Passo agora à análise da validade do contrato, atentando-se para as particularidades docaso concreto.
+O art. 54, parágrafo 3º, do CDC prescreve que "os contratos de adesão escritos serão redigidos em termos claros e com caracteres ostensivos e legíveis, cujo tamanho da fonte não será inferior ao corpo doze, de modo a facilitar sua compreensão pelo consumidor."
+Isso leva à fácil compreensão de que o analfabeto merece uma maior proteção, de modo a permitir que o contratante conheça de forma clara as implicações da negociação, haja vista sua condição de maior vulnerabilidade em detrimento dos demais consumidores.
+Assim vem se consolidando o entendimento na doutrina e jurisprudência de que o negócio jurídico celebrado com pessoa analfabeta só é válido mediante procuração pública, considerando referida exigência como essencial para a validade do negócio, tendo-se nulo o negócio jurídico se descumprida tal solenidade, nos termos do art. 166, V do CC, in verbis:
+(..)
+O art. 221, do Código Civil dispõe que "o instrumento particular, feito e assinado, ou somente assinado por quem esteja na livre disposição e administração de seus bens, prova as obrigações convencionais de qualquer valor; mas os seus efeitos, bem como os da cessão, não se operam, a respeito de terceiros, antes de registrado no registro público".
+(..)
+Como se vê, o instrumento público, para os contratos de estilo, é exigido com o fim de assegurar que a parte analfabeta teve ciência dos termos da avença, resguardando, especialmente, o direito à informação do consumidor. In casu, embora reste demonstrado que o analfabeto realizou o contrato, o fato é que, sem o instrumento público, não se pode entender que o mesmo tinha conhecimento de seus termos, isto é, não está presente o consentimento efetivo. Sendo assim, sob qualquer ótica, o vício que tornou o negócio nulo persiste.
+(..)
+Na espécie, verifico que o Banco fez juntada do contrato ora questionado (id. nº319556 p. 8-11), no qual não consta a assinatura do autor, uma vez que se trata de pessoa não alfabetizada, mas tão somente a suposta impressão digital da parte, com assinatura de duas testemunhas, o que não é suficiente para validar a celebração docontrato.
+Mesmo porque, aos contratos bancários de mútuo, não se aplica o art. 595 do CC, que se refere tão somente a contratos de prestação de serviço:
+"Art. 595. No contrato de prestação de serviço, quando qualquer das partes não souber ler, nem escrever, o instrumento poderá ser assinado a rogo e subscrito por duas testemunhas."
+Como se vê, a própria norma civil em seu art. 593, afastou a incidência do citado dispositivo às hipóteses sujeitas às leis trabalhistas ou a lei especial, in verbis:
+"Art. 593. A prestação de serviço, que não estiver sujeita às leis trabalhistas ou a lei especial, reger-se-á pelas disposições deste Capítulo."
+Depreende-se daí que a regra, em apreço têm caráter residual, destinando-se somente às relações não regidas pela CLT e pelo CDC.
+Isso porque o contrato de prestação de serviços é genérico, no sentido de que pode ter como objeto qualquer espécie de serviço ou trabalho, material ou imaterial, contratado mediante retribuição, diferente da hipótese em julgamento, que se trata de contrato de mútuo regulado pelo Código Civil, arts. 586 a 592, com a incidência das Normas do Código de Defesa do Consumidor.
+Assim, diante do caráter residual da norma, em detrimento do princípio da especialidade, fica afastada a incidência do art. 595 do CC ao caso, ora em julgamento.
+Assim sendo, nada foi tratado acerca dopreceitoacima indicadodo Código Civil.
+Cumpre registrar que não se desconhece ter o CPC/2015, no art. 1.025, disciplinado a possibilidade de prequestionamento ficto de tese jurídica, quando, a despeito da oposição de embargos de declaração, o Tribunal estadual não se manifesta acerca do tema, considerando-se inclusas no aresto as questões deduzidas pela parte recorrente nos aclaratórios.
+Contudo, o Superior Tribunal de Justiça, intérprete da legislação federal, possui jurisprudência assentada no sentido de que o prequestionamento ficto só pode ocorrer quando, na interposição do recurso especial, a parte recorrente tiver sustentado violação ao art. 1.022 do CPC/2015 e esta Corte Superior houver constatado o vício apontado, o que não ocorreu na hipótese, em que nem sequer foram interpostos embargos de declaração
+Não há falar, pois, em prequestionamento ficto.
+Ademais, verifica-se que a conclusão da Corte estadual de que não se aplica ao caso concreto o disposto no art. 595 do Código Civil, por não se tratar de contrato de prestação de serviço e, sim, de mútuo,de haver a incidência do Código de Defesa do Consumidor e, ainda,porque o referido dispositivo tem aplicação apenas residualque, como visto, serviude fundamento para oacórdão recorrido, não foi impugnada no recurso especial, conforme de extrai das razões apresentadas.
+De fato, no particular, oora agravante dirigiu suas razões recursais no sentido de que,na hipótese de contratação por analfabetos, o que a lei exige para a regularidade da celebração do contrato é justamente a assinatura a rogo, subscrita por duas testemunhas, o que foi observado no caso(e-STJ, fl. 130).
+Assim, a subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnadoimpõe o não conhecimento da pretensão recursal, conforme o entendimento disposto na Súmula 283/STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. AÇÃO INDENIZATÓRIA. AFRONTA AOS ARTS. 489, § 1º, IV, E 1022, II, DO CPC/2015. FUNDAMENTAÇÃO DEFICIENTE. INCIDÊNCIA DA SÚMULA 284/STF. ALEGAÇÃO DE QUE O TRIBUNAL DE ORIGEM CONFERIU INTERPRETAÇÃO EXTENSIVA AO ACORDO FIRMADO. SUPOSTA PRESENÇA DE INTERESSE DE AGIR. NECESSIDADE DE REEXAME DE MATÉRIA FÁTICA E DE INTERPRETAÇÃO DE CLÁUSULAS. VEDAÇÃO. ÓBICE DAS SÚMULAS 5 E 7 DO STJ. HONORÁRIOS ADVOCATÍCIOS. RAZÕES DISSOCIADAS. FUNDAMENTO NÃO IMPUGNADO. APLICAÇÃO DAS SÚMULAS 283 E 284 DO STF. AGRAVO INTERNO DESPROVIDO. (AgInt no RECURSO ESPECIAL Nº 1891849 - MG, Relator Ministro PAULO DE TARSO SANSEVERINO, DJe de 18/6/2021)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE OBRIGAÇÃO DE FAZER C/C PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA DEMANDADA.
+1. A subsistência de fundamento inatacado, apto a manter a conclusão do aresto impugnado, e a apresentação de razões dissociadas desse fundamento, impõe o reconhecimento da incidência das Súmulas 283 e 284 do STF, por analogia. Precedentes.
+2. O acolhimento da pretensão recursal exigiria derruir a convicção formada nas instâncias ordinárias sobre a ocorrência de dano moral. Incidência da Súmula 7/STJ. 3. Agravo interno desprovido. (AgInt no AGRAVO EM RECURSO ESPECIAL Nº 1839623 - PE, Relator Ministro MARCO BUZZI, DJe de 2/9/2021)
+Cabe salientar, ainda, que, em virtude da incidência dos referidos óbices sumulares, fica prejudicada a análise da divergência jurisprudencial, pois inexistente similitude fático-jurídica entre os julgados confrontados.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários recursais em favor do advogado da parte recorrida, fixando-os em 20% (vinte por cento) sobre o valor da condenação.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. MÚTUO. CONTRATO BANCÁRIO FIRMADO COM ANALFABETO. NULIDADE RECONHECIDA.DISPOSITIVO
+DO CÓDIGO CIVIL TIDOCOMO OFENDIDO.CONTEÚDO NORMATIVO. PREQUESTIONAMENTO. FALTA.SÚMULAS 282 E 356/STF. APLICAÇÃO. PREQUESTIONAMENTO FICTO. CONDIÇÕES. AUSÊNCIA. CONCLUSÃO DO ACÓRDÃO RECORRIDO.FUNDAMENTOINATACADO.SÚMULA 283/STF.INCIDÊNCIA. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA.AGRAVO CONHECIDOPARA CONHECER DO RECURSO ESPECIAL.
