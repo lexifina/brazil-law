@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de conflito de competência suscitado pelo JUÍZO DE DIREITO DA 3.ª VARA CRIMINAL DE SÃO JOSÉ DO RIO PRETO - SP em face do JUÍZO FEDERAL DA 1.ª VARA DE SÃO JOSÉ DO RIO PRETO - SJ-SP, nos autos de inquérito policial instaurado para apurar eventual prática do delito tipificado no art. 299 do Código Penal.
+Colhe-se nos autos que a Polícia Federal instaurou inquérito policial para apurar suposta prática do crime de falsidade ideológica, em virtude daexistência de indícios de fraude no Certificado de Verificação de Veículo Tanque Rodoviário n.955656, de propriedade doAuto Posto Monte Carlo Onda Verde Ltda., apresentado perante o Posto de Verificação de Veículo Tanque do IPEM/SP, localizado na cidade de São José do Rio Preto/SP.
+Concluídas as investigações, o Juízo Federal da 1.ª Vara de São José do Rio Preto- SJ/SP, acolhendo manifestação do Ministério Público Federal, declinou da competência em favor da Justiça Estadual do mesmo Estado, com base nas seguintes razões (fls. 360-361):
+" ..
+Com efeito, em que pese o Certificado de Verificação de Veículo Tanque Rodoviário tratar-se de documento público expedido pelo INMETRO, Autarquia Federal, sua apresentação deu-se perante uma Autarquia Estadual vinculada à Secretaria da Justiça e Cidadania do Governo no Estado de São Paulo, que o apreendeu e inutilizou, sem qualquer repercussão a bens, serviços ou interesses de entres federais. Nesse sentido, é o entendimento sumulado do Superior Tribunal de Justiça, Súmula 546:
+"A competência para processar e julgar o crime de uso de documento falso é firmada em razão da entidade ou órgão ao qual foi apresentado o documento público, não importando a qualificação do órgão expedidor."
+Do mesmo modo, o só fato de a emissão Certificado de Veículo - Tanque estar a cargo do INMETRO, não atrai, por si só, a competência federal para conhecimento do caso. Em sentido análogo:
+ .. ."
+Remetidos os autos à Justiça Estadual, o Juízode Direito da 3.ª Vara Criminal de São José do Rio Preto - SP suscitou o presente conflito negativo de competência, adotando a manifestação do Ministério Público Estadual,in verbis(fls. 370-371):
+" ..
+Em outras palavras, o Certificado de Verificação de Veículo Tanque Rodoviário foi emitido pelo INMETRO, repita-se, entidade autárquica federal, e a falsificação tinha como objetivo burlar fiscalização, que fosse realizada pelo próprio INMETRO ou, em virtude de delegação, por entidade com atribuição para exercício do respectivo serviço público federal, na hipótese vertente o IPEM-SP.
+Nessa linha de compreensão, possível conduta violadora da fé pública não transcendeu bem, interesse ou serviço público atribuído, direta ou especificamente, à entidade estadual.
+ .. ."
+O Ministério Público Federal manifestou-se às fls. 394-398, opinando pela declaração da competência do Juízo Suscitante.
+É o relatório. Decido.
+Da acurada leitura dos autos, observa-se a existência de indícios de fraudeno Certificado de Verificação de Veículo Tanque Rodoviário n.955656, de propriedade do Auto Posto Monte Carlo Onda Verde Ltda., apresentado perante o Posto de Verificação de Veículo Tanque do IPEM/SP, autarquia estadual vinculada à Secretaria da Justiça e da Defesa da Cidadania do Estado de São Paulo. Assim, embora o documento supostamente adulterado seja expedido pelo INMETRO (Instituto Nacional de Metrologia, Qualidade eTecnologia), a conduta apurada não atingiu diretamente bens, interesses ou serviços da União, razão porque não se constata a competência daJustiça Federal para processar e julgar o feito.
+Mutatis mutandis, confira-se:
+"AGRAVO REGIMENTAL. CONFLITO NEGATIVO DE COMPETÊNCIA. FALSIFICAÇÃO DE SELO OU SINAL PÚBLICO. ART. 296, § 1º, INCISO II DO ESTATUTO REPRESSIVO. COMERCIALIZAÇÃO DE EXTINTORES DE INCÊNDIO COM SELO DO INMETRO FALSIFICADO. CRIME COMETIDO COM A FINALIDADE DE DAR ORIGINALIDADE AO PRODUTO COMERCIALIZADO. COMPETÊNCIA DA JUSTIÇA ESTADUAL. AUSÊNCIA DE INTERESSE DA UNIÃO. AGRAVO IMPROVIDO.
+1. A utilização de selos falsos do INMETRO em extintores de incêndio, para ludibriar os consumidores em relação à sua autenticidade, não acarreta, por si só, lesão a bens, serviços ou interesses da União, de suas autarquias ou empresas públicas.
+2. A falsificação de selos, prevista no art. 296, § 1º, do CP, que não tenha atingido diretamente bens ou interesses da União ou de suas entidades é de competência da Justiça Estadual.
+3. Agravo improvido."(AgRg no CC n. 148.135/SC, Rel.Ministro JORGE MUSSI, TERCEIRA SEÇÃO, julgado em 13/2/2019, DJe 19/2/2019.)
+Nesse cenário, incide, na espécie, o entendimento sedimentado pelo Superior Tribunal de Justiça na Súmula n. 546, segundo a qual " a competência para processar e julgar o crime de uso de documento falso é firmada em razão da entidade ou órgão ao qual foi apresentado o documento público, não importando a qualificação do órgão expedido" (TERCEIRA SEÇÃO, julgado em 14/10/2015, DJe 19/10/2015).
+Ante o exposto, CONHEÇO do conflito para DECLARAR competente o Juízo de Direito da 3.ª Vara Criminal de São José do Rio Preto - SP, o Suscitante.
+Publique-se. Intimem-se.
+EMENTA
+CONFLITO NEGATIVO DE COMPETÊNCIA. PROCESSUAL PENAL. FALSIDADE IDEOLÓGICA.CERTIFICADO DE VERIFICAÇÃO DE VEÍCULO-TANQUE RODOVIÁRIO. DOCUMENTO APRESENTADO AO INSTITUTO DE PESOS E MEDIDAS DO ESTADO DE SÃO PAULO - IPEM/SP. AUTARQUIA ESTADUAL. AUSÊNCIA DE INTERESSE DA UNIÃO. INCIDÊNCIA DA SÚMULA N. 546/STJ. COMPETÊNCIA DA JUSTIÇA COMUM ESTADUAL.
