@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso especial interposto pela FAZENDA NACIONAL contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região assim ementado:
+TRIBUTÁRIO. FATO GERADOR DO IRPJ, DA CSLL, DA CONTRIBUIÇÃO PARA O PIS E DACOFINS. CRÉDITO COMPENSÁVEL ILÍQUIDO DECORRENTE DE DECISÃO JUDICIAL. FATO GERADOR DOS TRIBUTOS. NECESSIDADE DE HOMOLOGAÇÃO PELO FISCO DA COMPENSAÇÃO DO CONTRIBUINTE. CONCESSÃO DO MANDADO DE SEGURANÇA.
+Opostos embargos de declaração, foram rejeitados.
+A parte recorrente alega violação do art. 1.022 do Código de Processo Civil - CPC/2015, do art. 74 da Lei n. 9.430/1996 e do art. 187 da Lei n. 6.404/1976, sustentando, em síntese (fls. ):
+A disponibilidade jurídica e econômica, para fins de incidência do IRPJ e da CSLL, em face de crédito a compensar decorrente de decisão judicial ilíquida, ocorre no momento do deferimento da habilitação do crédito, nos termos do art. 74 da Lei nº 9.430/96 edos artigos 100 e 101 da IN nº 1.717/2017  ..  Ou seja, tratando-se de crédito referente a indébito tributário reconhecido por sentença ilíquida, somente após a identificação os valores passíveis de compensação (que ocorre como deferimento da habilitação do crédito), é que deve ocorrer o registro contábil em conta de ativo circulante, com consequente reflexo na base de cálculo do IRPJ/CSLL.
+ ..
+Note-se, Excelências, que em nenhum momento o voto proferido nos embargos de declaração mencionou a peculiaridade de que a compensação foi autorizada por sentença ilíquida. Importante ter em conta que a peça aventada pela Fazenda Nacional ressaltou de forma clara a diferenciação para os casos de sentença ilíquida.
+ ..
+De acordo com as conclusões da Solução de Consulta nº 92/2021(COSIT): "Os créditos decorrentes de decisões judiciais transitadas em julgado relativos a tributos pagos indevidamente devem ser reconhecidos na determinação do lucro real e do resultado ajustado no período de apuração em que ocorrer a sua disponibilidade jurídica".
+Constata-se que o entendimento histórico da RECEITA FEDERAL DO BRASIL sempre foi no sentido de que a disponibilidade jurídica dos créditos compensáveis ocorre com o trânsito em julgado, mas desde que o título judicial seja líquido e certo conforme se percebe da Solução de Divergência nº 19/2003 (COSIT)  ..  No entanto, tratando-se de decisão judicial que declara o direito à compensação, mas não define o "quantum" devido pela Fazenda Nacional, tampouco o contribuinte promove atos de liquidação para verificar o valor, o antecedente temporal do IRPJ/CSLL ocorre em momento diverso. Isso porque a disponibilidade jurídica do crédito a compensar somente surge com o deferimento da habilitação do crédito nos termos do art. 74 da Lei nº 9.430/96 e artigos 100 e 101 da IN nº 1717/2017
+Contrarrazões apresentadas por MADAL PALFINGER S/A, nas quais pede, preliminarmente, o não conhecimento do recurso e, no mérito, seu desprovimento (fls. 651/657).
+É o relatório. Decido.
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC (Enunciado n. 3 do Plenário do STJ).
+Vejamos, no que interessa, o que está consignado no voto condutor do acórdão recorrido (fls. 286/290):
+Trata-se de Mandado de Segurança impetrado por MADAL PALFINGER S/A em face de DELEGADO DA RECEITA FEDERAL DO BRASIL - UNIÃO - FAZENDANACIONAL - Caxias do Sul objetivando a concessão da segurança para "submeter à tributação os valores oriundos do Mandado de Segurança nº5 003230-39.2017.4.04.7107 no momento da homologação, expressa ou tácita, dos respectivos PERD/COMPs".
+ ..
+Assiste, a meu ver, razão à parte impetrante. Com efeito, em relação ao fato gerador do IRPJ e da CSLL, deve-se observar o que consta do artigo 43 do Código Tributário Nacional (CTN), in verbis:
+ ..
+Ora, a disponibilidade jurídica do "crédito compensável" da impetrante, reconhecido em mandado de segurança com decisão transitada em julgado, só ocorre quando, de fato, for homologada, expressa ou tacitamente, as compensações realizadas, permitindo-se, assim, que o contribuinte tenha também a disponibilidade econômica da renda. Em outras palavras, não basta que ao contribuinte seja reconhecida pelo Poder Judiciário a titularidade de um crédito cuja quantificação dependa da chancela do Fisco para que se configure o acréscimo patrimonial. Antes disso, nem se poderia afirmar em que montante teria sido acrescido o patrimônio do contribuinte.
+ ..
+Como se vê, a sentença transitada em julgado obtida pela impetrante por meio de mandado de segurança, reconhecendo-lhe crédito compensável constitui apenas um pressuposto para que, adiante, ocorra o fato gerador do imposto de renda.
+Assim, quando ao ponto examinado, é de ser mantida a sentença.
+Na sequência, a Fazenda Nacional opôs embargos de declaração, pedindo integração quanto à tese de que "a disponibilidade jurídica e econômica, para fins de incidência do IRPJ e da CSLL, em face de crédito a compensar decorrente de decisão judicial ilíquida, ocorre no momento do deferimento da habilitação do crédito" (fls. 297/302).
+Porém, por ocasião do julgamento dos embargos de declaração, nada foi acrescido à fundamentação (fls. 314/317).
+Pois bem.
+Não há violação dos arts. 489 e 1.022 do CPC/2015 quando o órgão julgador, de forma clara e coerente, externa fundamentação adequada e suficiente à conclusão do acórdão embargado, como no caso.
+Aliás, atentando-se para as razões do recurso de apelação, percebe-se que a FN vincula sua pretensão à tese de que "em se tratando de pessoas jurídicas sujeitas ao reconhecimento das receitas pelo regime de competência, que é o caso da autora, conforme ela mesmo afirma, será totalmente indiferente a realização financeira da receita para determinar o aspecto temporal das incidências tributárias  ..  E qual seria o momento da disponibilidade jurídica nos casos de sentença declaratória que reconhece direito à compensação administrativa  O trânsito em julgado da sentença" (fls. 179/184).
+Nesse contexto, o órgão julgador a quo não estava mesmo obrigado à integração pedida nos aclaratórios, porquanto fruto de inovação recursal.
+Com relação à tese de violação do art. 74 da Lei n. 9.430/1996 e do art. 187 da Lei n. 6.404/1976, o conhecimento do recurso encontra óbice nas Súmulas 282 e 284 do STF, pois, além de a parte não prequestionados, não têm força normativa apta a ensejar eventual alteração do acórdão recorrido, notadamente se considerado o fato de serem vinculados a tese não submetida ao Tribunal Regional Federal, quando da apelação.
+Ante o exposto, conheço em parte do recurso especial e nego-lhe provimento.
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. INEXISTÊNCIA. REQUISITOS DE ADMISSIBILIDADE. NÃO PREENCHIMENTO. RECURSO CONHECIDO EM PARTE E NÃO PROVIDO.
