@@ -1,0 +1,41 @@
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. POSSE IRREGULAR DE ARMA DE FOGO. OBTENÇÃO DE PROVAS POR MEIO ILÍCITO. NÃO OCORRÊNCIA. FUNDADAS RAZÕES. AGRAVO REGIMENTAL DESPROVIDO.
+1. O entendimento perfilhado nas instâncias ordináriasestá em harmonia com o decidido pelo Supremo Tribunal Federal,no julgamento do RE n. 603.616/RO, segundo o qual o ingresso dos policiais no domicílio do réu, sem autorização judicial ou consentimento do morador,será lícitoquando houverfundadas razõesda situação de flagrante delito naquela localidade.
+2. No caso, a busca domiciliar foi precedida de justa causa, pois amparada em informações e diligências preliminares ao ingresso na residência.
+3. Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental. Os Srs. Ministros Joel Ilan Paciornik, Jesuíno Rissato (Desembargador Convocado do TJDFT), João Otávio de Noronha e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+Trata-se de agravo regimental interposto por RONILTON GONÇALVES PINHEIRO contra decisão que negou provimento ao recurso em habeas corpus.
+Em razões, alega que a busca e a apreensão realizada na residência do agravante infringiu a garantia constitucional de inviolabilidade do domicílio (art. 5.º, inciso XI, da CF) e se encontra em total desalinho com o entendimento consolidado pelo Superior Tribunal de Justiça acerca da matéria.
+Argumenta que a entrada dos policiais no domicílio do agravante foi realizada sem prévia autorização judicial e sem justa causa, uma vez que fundamentada, exclusivamente, em denúncia anônima, a qual restou desacompanhada de qualquer diligência ulterior para aferição da existência de situação de flagrância delitiva no interior da residência.
+Afirma que os policiais se dirigiram até a residência do agravante e lá realizaram busca e apreensão motivada pela informação de que ele teria praticado um crime de furto, que não possui natureza permanente.
+Requer a reforma da decisão agravada, sob a alegação de que a prova que baseou a prisão e sustenta a ação penal foi colhida à margem da Constituição da República.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. POSSE IRREGULAR DE ARMA DE FOGO. OBTENÇÃO DE PROVAS POR MEIO ILÍCITO. NÃO OCORRÊNCIA. FUNDADAS RAZÕES. AGRAVO REGIMENTAL DESPROVIDO.
+1. O entendimento perfilhado nas instâncias ordináriasestá em harmonia com o decidido pelo Supremo Tribunal Federal,no julgamento do RE n. 603.616/RO, segundo o qual o ingresso dos policiais no domicílio do réu, sem autorização judicial ou consentimento do morador,será lícitoquando houverfundadas razõesda situação de flagrante delito naquela localidade.
+2. No caso, a busca domiciliar foi precedida de justa causa, pois amparada em informações e diligências preliminares ao ingresso na residência.
+3. Agravo regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+O Tribunal de Justiça de Alagoas afastou a alegação de ilegalidade no ingresso do domicílio do recorrente:
+Cumpre considerar, segundo apontado na exordial acusatória, que o paciente é pessoa que já vinha sendo investigada há tempos pela autoridade policial, de modo que haviadiversas noticias, no sentido de que o agente era afeito à pratica devários crimes, e não apenas uma denúncia anônima, consoante destacou as impetrantes na petição inicial. Veja-se:
+ ..  Emerge dos autos que, na data do fato, a Autoridade Policial,após receber diversas informações que o denunciado, autor de outros crimes, estava escondido no local do fato. Na ocasião a autoridade policial dirigiu-se até o local, momento em que constatouque o produto de outros crimes estava na residência do denunciado, bem como uma arma de fogo tipo espingarda soca tempero", conforme consta no auto de exibição e apreensão na folha 58.  ..  (Trecho da exordial acusatória, fls. 01-03)
+Tal fato foi confirmado posteriormente, pois, quando da autuação em flagrante delito pela prática do crime de posse ilegal de arma de fogo de uso permitido (art. 12 da Lei nº 10.826/2003), constatou-se não só a possível ocorrência do crime objeto desta persecução em análise, mas também produtos de outros delitos imputados ao paciente.
+Com efeito, diante da prisão em flagrante de um crime de natureza permanente, realizada, inclusive, com base em diversos elementos indiciários, é possível aplicar o entendimento pacífico da Corte Superior, no sentido de que não há o que se falar em nulidade da persecução criminal em casos tais. (e-STJ, fl. 114)
+Como se verifica, o entendimento perfilhado nas instâncias ordináriasestá em harmonia com o decidido pelo Supremo Tribunal Federal,no julgamento do RE n.º 603.616/RO, segundo o qual o ingresso dos policiais no domicílio do réu, sem autorização judicial ou consentimento do morador,será lícitoquando houverfundadas razõesda situação de flagrante delito naquela localidade.
+No caso, segundo se infere, a busca domiciliar foi precedida dejusta causaporque os policiais militares, diante das informações de que o réu estaria na posse de produtos de crimes e de armade fogo no local em que estava residindo, realizaram diligênciase, diante da fundada suspeita do cometimento de crime permanente (art. 12 da Lei n.º 10.826/2003), adentraram noimóvel.Sob tal contexto, não há como acolher a tese defensiva de ilicitude da prova,uma vez que evidente a presença de justa causa para a adoção da medida de busca domiciliar.
+Contrariamente ao que aduz o agravante, a diligência não se baseou em denúncia anônima, mas em investigações prévias acerca da prática de vários crimes pelo acusado, não apenas do delito de furto.
+Nesse sentido:
+HABEAS CORPUSSUBSTITUTIVO DE RECURSO PRÓPRIO. IMPOSSIBILIDADE.POSSE ILEGAL DE ARMA DE FOGO DE USO RESTRITO. ILEGALIDADE DA BUSCA E APREENSÃO. CRIME PERMANENTE. DESNECESSIDADE DE MANDADO JUDICIAL.SITUAÇÃO DE FLAGRÂNCIA. INEXISTÊNCIA DE NULIDADE. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. HABEAS CORPUS NÃO CONHECIDO.
+1. Por tratar-se dehabeas corpussubstitutivo de recurso próprio, a impetração não deve ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça. Contudo, considerando as alegações expostas na inicial, razoável a análise do feito para verificar a existência de eventual constrangimento ilegal.
+2.O Tribunal de origem afirmou a legalidade da busca e apreensão realizada na residência do paciente, em consonância com a jurisprudência consolidada nesta Corte Superior, no sentido de que, tratando-se de crime permanente, não há ilegalidade na busca e apreensão por violação de domicílio, uma vez que a própria Constituição Federal autoriza a entrada da autoridade policial seja durante o dia, seja durante a noite, independente da expedição de mandado judicial. Cumpre destacar, ainda, que o fato dos policiais terem recebido a notícia de que naquele local encontrava-se um foragido da justiça que tinha armas e drogas em seu poder, por si só, é suficiente para justificar a medida de busca e apreensão em residência. De acordo com reiterados precedentes deste Superior Tribunal de Justiça o crime de posse irregular de arma de fogo de uso restrito é do tipo permanente, o qual autoriza a prisão em flagrante no interior do domicílio, inclusive no período noturno, independente de mandado judicial.Precedentes.
+Habeas corpusnão conhecido.
+(HC 349.109/RS, Rel. Ministro Joel Ilan Paciornik, Quinta Turma,julgado em 19/10/2017, DJe 06/11/2017; grifou-se.)
+Foi como também compreendeu o Ministério Público, em seu parecer:
+Pelo que consta das decisões presentes nos autos, o flagrante se deu com investigação policial prévia, sendo que os policiais adentraram na residência do paciente após receberem diversas informações de que estava praticando vários crimes. Além disso, o paciente se encontrava escondido no local do flagrante e em estado de flagrância de crime permanente (posse ilegal de arma de fogo), tudo a justificar a busca no local.
+Portanto, não há constrangimento ilegal a ser sanado na presente via quando ao ingresso policial. (e-STJ, fl. 175)
+Diante do exposto, nego provimento ao agravo.
+É como voto.
