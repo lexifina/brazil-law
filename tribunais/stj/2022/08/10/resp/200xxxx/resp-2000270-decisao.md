@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal Regional Federal da 5ª Região,assim ementado (fl. 781):
+REINTEGRAÇÃO DE POSSE. FERROVIA TRANSNORDESTINA LOGÍSTICA S. A. EDIFICAÇÕESIRREGULARES ÀS MARGENS DA VIA FÉRREA. PROVA PERICIAL. CONSTRUÇÕES SOBRE AÁREA NÃO EDIFICÁVEL. LIMITAÇÃO ADMINISTRATIVA. OCUPAÇÃO ILEGAL. TRECHODESATIVADO. SITUAÇÃO DE COMPLETO ABANDONO. INEXISTÊNCIA DE PLANO DEREATIVAÇÃO. AUSÊNCIA DE RISCO DE ACIDENTES. PONDERAÇÃO DE INTERESSES. PREVALÊNCIA DO DIREITO À MORADIA, À DIGNIDADE DA PESSOA HUMANA E À LIVRE INICIATIVA. SITUAÇÃO PASSÍVEL DE ALTERAÇÃO. APELAÇÃO DOS PARTICULARESPROVIDA. APELAÇÃO DA FTL PREJUDICADA.
+Embargos de declaração rejeitados (fls. 855/861).
+A recorrente alega violação dosarts. 99, 100 e 102 do Código Civil,art. 4º, III, da Lei 6.769/79, art. 1º, § 2º, do Decreto 7.929/13e arts. 71 e 200 do Decreto-Lei 9.760/46 aoargumento de que não é cabível a posse e a usucapião de bem público, nem o direito à indenização, e requer a reintegração de posse do imóvel esbulhado.
+Com contrarrazões (fls. 994/1004).
+Juízo positivo de admissibilidade àfl. 1.019.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+O Tribunal de origem fundamentou que (fls. 778/780):
+(..) numa análise preliminar, restando caracterizada violação à obrigação de não edificar na área de segurança da linha férrea, os demandados não teriam direito de permanecer na área em questão, nem de perceber qualquer indenização por benfeitorias eventualmente acrescidas à faixa de domínio ou à área não edificável.
+(..)
+Desta forma, entendo que a situação de inoperância da ferrovia por muitos anos, a inexistência de qualquer plano concreto de reativação da malha ferroviária e as demais peculiaridades deste caso autorizam a manutenção das edificações no local em que se encontram, pois seria absolutamente desproporcional atingir a dignidade das pessoas que ali residem para manter desobstruída a área de segurança de uma linha férrea sucateada, sem condições de trafegabilidade e sem um plano concreto, imediato e com prazos definidos de reativação.(..)
+Com efeito, no caso concreto, não restou evidenciada a utilidade na demolição das construções edificadas às margens do Km 179  190 da Linha Tronco Sul Recife, que se destinam a atender às necessidades habitacionais da população local.
+No caso, o acórdão recorrido fundamentou conforme àpretensão recursal, ou seja, o não cabimento da usucapião do bem público ou direito à indenização.Todavia,fundamenta na situação fática e o princípio da proporcionalidade, além do direito à moradia, dignidade da pessoa humana e livre iniciativa.
+Assim, tem-se que a revisão da conclusão a que chegou o Tribunal de origem sobre a questão demanda o reexame dos fatos e provas constantes nos autos, o que é vedado no âmbito do recurso especial. Incide ao caso a Súmula 7/STJ.
+Nesse sentido:
+ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL.REINTEGRAÇÃODE POSSE CUMULADA COM DEMOLITÓRIA. CONSTRUÇÃO ÀS MARGENS DEFERROVIA. LINHA DESATIVADA. PREVALÊNCIA DO DIREITO À MORADIA E AO PRINCÍPIO DA DIGNIDADE DA PESSOA HUMANA. MATÉRIA CONSTITUCIONAL. RISCO ÀS PARTES OCUPANTES. REEXAME DE MATÉRIA FÁTICA. SÚMULA 7/STJ.
+1. No caso dos autos, a controvérsia foi decidida à luz de fundamentos eminentemente constitucionais, a partir de uma ponderação entre o princípio da dignidade da pessoa humana, o direito à moradia e o interesse público na área. Assim, não se faz possível examinar, em sede de recurso especial, a tese relativa à suposta preponderância do interesse público da coletividade e do direito à vida sobre os direitos individuais das partes envolvidas, porquanto se trata de matéria de índole constitucional, cuja competência é exclusiva do Supremo Tribunal Federal.
+2. Tendo a Corte de origem reconhecido que a ocupação não constitui risco para os moradores, "já que constatada a inativação da malhaferroviáriae ausência de indícios de reativação do tráfego de trens naferroviaobjeto dos autos" (fl. 773), a alteração das conclusões adotadas demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+3. Agravo interno não provido.(AgInt no REsp 1675035/PB, Rel. Min. Sérgio Kukina, Primeira Turma, julgado em 11/11/2020, DJe 17/11/2020)
+Ante o exposto, não conheço do recurso especial.Caso tenham sido fixados honorários sucumbenciais anteriormente pelas instâncias ordinárias, majoro-os em 10%, observados os limites e parâmetros dos §§ 2º, 3º e 11 do artigo 85 do CPC/2015.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. BEM PÚBLICO. ABANDONO. PREVALÊNCIA DO DIREITO À MORADIA, À DIGNIDADE DA PESSOA HUMANA E LIVRE INICIATIVA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. RECURSO ESPECIAL NÃO CONHECIDO.
