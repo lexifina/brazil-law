@@ -1,0 +1,37 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por FUNDAÇÃO ASSISTENCIAL DOS SERVIDORES DO MINISTERIO DA FAZENDA, contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 24/01/2022.
+Concluso ao gabinete em: 30/05/2022.
+Ação: de obrigação de fazer c/c compensação por danos morais. ajuizada por AFONSO CELSO FIGUEIREDO em face da agravante, visando a cobertura de internação domiciliar para acompanhamento e tratamento de sequelas de um AVC, diabetes e doença hematológica de diagnóstico incerto.
+Sentença: julgou parcialmente procedente a demanda para condenar a agravante a cobrir o tratamento domiciliar prescrito e a pagar compensação por danos morais no valor de R$ 10.000,00.
+Acórdão: deu parcial provimento à apelação da agravante, nos termos da seguinte ementa:
+EMENTA:APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. MODALIDADE AUTOGESTÃO. INAPLICABILIDADE DO CDC. SÚMULA 608, DO STJ. APLICAÇÃO DO PRINCÍPIO DA BOA-FÉ CONTRATUAL E FUNÇÃO SOCIAL DO CONTRATO. DIREITO À VIDA E À SAÚDE. HOME CARE PRESCRITO POR MÉDICO ASSISTENTE. ALEGAÇÃO DE AUSÊNCIA DE PREVISÃO LEGAL ACERCA DO BENEFÍCIO DE HOME CARE. ARGUMENTO INJUSTIFICADO. ROL DA AGÊNCIA NACIONAL DE SAÚDE - ANS. EXEMPLIFICATIVO. PRECEDENTES DESTA CORTE E DE TRIBUNAL SUPERIOR. OBRIGAÇÃO DE FORNECIMENTO. DANOS MORAIS CONFIGURADOS. REDUÇÃO DO VALOR INDENIZATÓRIO. NÃO ACOLHIMENTO. QUANTUM COMPENSATÓRIO. VALOR RAZOÁVEL (DEZ MIL REAIS). RECURSO CONHECIDO E PARCIALMENTE PROVIDO. DECISÃO UNÂNIME.
+Embargos de Declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 10,§4º, da Lei 9656/98 e 188, 4421, 422, 480, 884 e 927 do CC. Sustenta que sendo taxativa a natureza do rol de coberturas obrigatórias editado pela ANS, desobriga-se a cobertura de tratamento nele não previsto. Insurge-se contra a caracterização de danos morais, pois ausente a prática de qualquer ato ilícito. Ao contrário, a recusa de cobertura seria mero exercício regular de um direito. Defende a necessidade da redução do valor da compensação por danos morais, caso mantida a condenação.
+RELATADO O PROCESSO, DECIDE-SE.
+Julgamento: aplicação do CPC/2015.
+- Da obrigação de a operadora custear o tratamento domiciliar
+Com efeito, é este o teor do acórdão recorrido quanto ao cabimento do custeio do tratamento:
+Assim, vislumbro que andou bem o Juízo a quo ao sobrepor o direito do paciente aos interesses patrimoniais da Apelante, máxime porque restou comprovada a obrigatoriedade de custeio do Home Care pleiteado.
+Para mais, sabe-se que a Lei n.º 9.656/983, que regula os planos e seguros privados de assistência à saúde, dispõe no artigo 12, § 2.º, que é obrigatória a cobertura do atendimento em casos de emergência que impliquem risco imediato de vida ou lesões irreparáveis para o paciente, caracterizado em declaração do médico assistente.
+Evidentemente, a cobertura da internação domiciliar, quando em substituição à internação hospitalar, não abrange tratamentos subordinados à simples conveniência ou comodidade do participante do plano de saúde, pois se trata, em verdade, de internação especial necessária para a recuperação mais rápida do paciente ou para a manutenção de uma melhor qualidade de vida, conforme indicação médica.
+Consta dos autos que o Autor (atualmente seu filhos devidamente habilitados devido a sua morte) era segurado do plano de saúde administrado pela ASSEFAZ - FUNDAÇÃO ASSISTENCIAL DOS SERVIDORES DO MINISTÉRIO DAFAZENDA. Foi diagnosticado com hipertensão, diabetes, baixa imunidade sem diagnóstico médico preciso, hemiplégico - sequela de um Acidente Vascular Cerebral(AVC), úlceras de pressão, demência e acamado. Além de miocardiopatia isquêmica severa, rebaixamento de nível de consciência e portador de microcálculos na vesículabiliar.
+Diante desse quadro, o tratamento indicado ao paciente não foi uma opção sua, mas uma recomendação expressa do médico responsável, consoante evidenciam os relatórios médicos.
+(fls. 326/327, e-STJ).
+Esta Corte Superior de Justiça firmou entendimento no sentido de que ainternação domiciliar, quando em substituição à hospitalar, deve ser coberta,independentemente da discussão a respeito da natureza do rol da ANS, sob pena de configuração de abusividade.
+É esta a interpretação dada pela jurisprudência desta Corte Superior de Justiça que firmou o entendimento de que "o serviço dehome care(tratamentodomiciliar) constituidesdobramentodo tratamentohospitalarcontratualmente previsto, que não pode ser limitado pela operadora do plano de saúde e ainda que, na dúvida, a interpretação das cláusulas dos contratos de adesão deve ser feita da forma mais favorável ao consumidor" (REsp nº 1.378.707/RJ, Rel. Ministro PAULO DE TARSO SANSEVERINO, Terceira Turma, DJe 15/6/2015) . Nesse sentido:, AgInt no AREsp n. 2.056.204/RJ, Quarta Turma, DJe de 30/6/2022, AgInt no AREsp n. 1.959.315/RN, Quarta Turma, DJe de 11/5/2022 eAgInt nos EDcl no REsp n. 1.963.420/SP, Terceira Turma, DJe de 21/2/2022.
+Assim, não merece reparos o acórdão recorrido, nos termos da Súmula 568/STJ.
+- Dos danos morais. Súmula 568/STJ
+As duas Turmas de Direito Privado do STJ entendem que a negativa administrativa ilegítima de cobertura para procedimento médico por parte da operadora de saúde só enseja danos morais na hipótese de agravamento da condição de dor, abalo psicológico e demais prejuízos à saúde já fragilizada do paciente. Nesse sentido: AgInt no REsp 1731656/RS, 4ª Turma, DJe de 29/04/2019; e REsp 1662103/SP, 3ª Turma, DJe 13/12/2018.
+Na hipótese, verifica-se que o Tribunal de origem, mantendo a sentença que condenou a parte recorrente no pagamento de compensação por danos morais, decidiu que os danos morais no caso derivavam da experimentação de agravamento da situação emocional do paciente, diante da situação peculiar em que se encontrava.
+Tal conclusão se encontra em consonância com a jurisprudência pacificada desta Corte Superior de Justiça, não merecendo reforma o acórdão, portanto.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO do recurso especial para NEGAR-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 15% sobre o valor da condenação (e-STJ fls. 253) para 20%.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. INTERNAÇÃO DOMICILIAR.INTERNAÇÃO DOMICILIAR. RECUSA DE COBERTURA INDEVIDA. DANOS MORAIS. OCORRÊNCIA.
+1. Ação de obrigação de fazer c/c compensação por danos morais.
+2. De acordo com a jurisprudência desta Corte, reputa-se abusiva a cláusula contratual que veda a internação domiciliar (home care) como alternativa à internação hospitalar.
+4. A negativa administrativa ilegítima de cobertura para tratamento médico por parte da operadora de saúde só enseja danos morais na hipótese de agravamento da condição de dor, abalo psicológico e demais prejuízos à saúde já fragilizada do paciente. Precedentes.
+5. Agravo conhecido. Recurso especial conhecido e desprovido.
