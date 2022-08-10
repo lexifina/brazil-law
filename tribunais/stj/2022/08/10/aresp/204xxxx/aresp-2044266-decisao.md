@@ -1,0 +1,34 @@
+DECISÃO
+Cuida-se de agravo interposto por Orlando Carlos Martins contra decisão denegatória de seguimento ao recurso especial, o qual foi interposto, por sua vez, com fundamento nas alíneasaecdo permissivo constitucional, em combate ao acórdão proferido pelo Tribunal de Justiça do Mato Grosso do Sul, assim ementado (e-STJ, fls. 855-869):
+APELAÇÃO CÍVEL - AÇÃO DE RESTITUIÇÃO DE VALORES PAGOS (ARRAS OU SINAL) - ANÁLISE DO INSTITUTO DA SUPRESSIO - MATÉRIA AINDA NÃO ENFRENTADA EM PRIMEIRA INSTÂNCIA - CERCEAMENTO DE DEFESA - SENTENÇA CASSADA - RECURSO CONHECIDO E PRELIMINAR ACOLHIDA, PARA RETORNO DOS AUTOS À ORIGEM.
+Cerceamento de defesa configurado diante da necessidade de produção de provas justamente para provar, ou não, a ocorrência da supressio.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, o recorrente aponta, além de dissídio jurisprudencial, violação aos arts. 370, parágrafo único, 489, §1º, IV, e 507 do CPC/2015.
+Sustentou, em síntese, ter havido negativa de prestação jurisdicional por parte do Tribunal de origem, assim como a prescindibilidade da produção de prova oral para comprovação de matéria exclusivamente de direito e que já estaria preclusa, não havendo que se falar em cerceamento de defesa.
+Contrarrazões às fls. 964-988 (e-STJ).
+Negado seguimento ao recurso, foi interposto o presente agravo.
+Contraminuta às fls. 1.011-1.027 (e-STJ).
+Brevemente relatado, decido.
+De início, no tocante à suposta negativa de prestação jurisdicional, constata-se que o acórdão combatido resolveu satisfatoriamente todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, tendo apresentado os motivos pelos quais entendeu ser necessária a cassação da sentença de primeiro grau para determinar a análise dasupressio.
+A jurisprudência desta Corte é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos suscitados pela parte em embargos declaratórios, cuja rejeição, nessas condições, não implica contrariedade ao art. 1.022, I e II, do CPC/2015.
+Cabe ressaltar, nesse contexto, "que o teor do art. 489, § 1º, inc. IV, do CPC/2015, ao dispor que "não se considera fundamentada qualquer decisão judicial, seja ela interlocutória, sentença ou acórdão, que não enfrentar todos os argumentos deduzidos no processo capazes de, em tese, infirmar a conclusão adotada pelo julgador", não significa que o julgador tenha que enfrentar todos os argumentos trazidos pelas partes, mas, sim, aqueles levantados que sejam capazes de, em tese, negar a conclusão adotada pelo julgador" (EDcl nos EREsp 1523744/RS, Rel. Ministro Og Fernandes, Corte Especial, julgado em 07/10/2020, DJe 28/10/2020).
+Quanto ao mérito, o acórdão recorrido reconheceu a nulidade da sentença de primeiro grau, o acórdão recorrido consignou que o cerceamento de defesa ficou demonstrado pela ofensa à sequência da instrução probatória, nos seguintes termos (e-STJ, fls. 859-863):
+As partes interpuseram seus respectivos recursos de apelação,reunidos na Apelação n. 2011.016099-1 e a sentença foi parcialmente modificada, excluindo-se dela a parte em que foi considerado o julgamento ultra petita (referente à declaração de nulidade da cláusula de retenção do sinal dado em pagamento, não exigida na inicial), concluindo pelo desprovimento do recurso de Orlando Carlos Martins e dando provimento ao recurso de J. C. Monteiro & Filho Administradora Ltda., decisão que transitou em julgado em 07 de junho de 2016, com o julgamento do AREspnº 237284/MS.
+Por isso,o Cumprimento de Sentença n. 0802357-50.2013.8.12.0002, começou como provisório, em março de 2013, mas se tornou definitivo em junho de 2016.
+Por meio dos autos em exame, o Autor, Orlando Carlos Martins (comprador) justamente pleiteia a devolução das arras objeto da reforma da sentença proferida na Ação de Cobrança n. 0011931-09.2008.8.12.0002 (provimento do recurso da Vendedora J. C.), no julgamento da Apelação n. 2011.016099-1, que excluiu o seguinte trecho (ora negritado) da sentença que determinou o pagamento da multa de 2%:
+(..)
+Embora o Agravo de Instrumento n. 1401546-37.2019.8.12.0000 tenha sido recebido somente no efeito devolutivo, para não impedir a instrução probatória, o feito foi julgado antes do julgamento definitivo daquele recurso, que versava sobre produção de provas pleiteadas pelo Requerido.
+É certo que, se o Agravo tratasse de alguma Tutela Provisória, a sentença superveniente causaria a perda de objeto.
+Contudo, não foi esse o caso.
+De forma que, a sentença de mérito que deu ensejo ao presente apelo jamais poderia acarretar a perda superveniente do objeto discutido no Agravo deInstrumento nº 1401546-37.2019.8.12.000, haja vista que ele tratava de questão queversava sobre a ampliação da instrução, a qual é antecedente lógica do mérito da causae, obviamente, poderá influenciar no julgamento de mérito da pretensão formulada.
+Devendo a sentença ser cassada, por necessidade de ser dada sequência à instrução probatória pleiteada pelo Requerido/Apelante, conforme defesa formulada na contestação (fls. 298/299), que não foi sequer mencionada na sentença:
+(..)
+E, justamente, acabou por ser dado provimento ao recurso de Agravo de Instrumento n. 1401546-37.2019.8.12.0000, do Requerido, ora Apelante, por se ter reconhecido a supressão de instância, haja vista que a questão ainda não havia sido devidamente analisada pelo juízoa quo.
+(..)
+E, levando-se em conta esse cenário, o cerceamento de defesa restou configurado, uma vez que não enfrentada tal matéria de defesa a ser analisado mediante a abertura da fase instrutória, frisando-se, por oportuno, que o Requerido/Apelante, quando instado a especificar provas, pleiteou a realização de prova testemunhal
+Desse modo, nota-se que as instâncias ordinárias decidiram a questão com base na acurada análise do acervo fático-probatório carreado aos autos, de modo que, para infirmar as suas conclusões, seria imprescindível o reexame das provas, o que atrai a incidênciada Súmula 7/STJ.
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. CERCEAMENTO DE DEFESA. NULIDADE DA SENTENÇA DECLARADA PELO TRIBUNAL DE ORIGEM. REVER AS CONCLUSÕES DO ACÓRDÃO RECORRIDO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
