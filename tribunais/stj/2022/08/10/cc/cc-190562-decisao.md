@@ -1,0 +1,22 @@
+DECISÃO
+Vistos etc.
+Trata-se de conflito negativo de competência suscitado pelo JJUÍZO FEDERAL DA 1A VARA DE PATO BRANCO - SJ/PR em face do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, nos autos do cumprimento provisório de sentença proferida em ação civil pública movidopor ABILIO GEHLEN E OUTROSem face do BANCO DO BRASIL SA.
+A demanda foi ajuizada originariamente naJustiçaEstadual, tendo o Tribunal de Justiça do Estado do Paraná (processo nº 0069296-93.2020.8.16.0000) dado provimento a agravo de instrumento para reformar decisão de piso e reconhecer a competência da Justiça Federal ao fundamento de que o título havia sido constituído na Justiça Federal(e-STJ, fls. 2128/2133).
+O Juízo Federal, por sua vez,nos autos do processo nº5000964-97.2022.4.04.7012, suscitou o presente conflito por entenderque a execução individual de sentença coletiva fora ajuizada somente contra o Banco do Brasil, não atraindo a competência da Justiça Federal, nos termos do art. 109, I, da CF(e-STJ, fls. 2539/2543).
+É o relatório.
+Decido.
+Com fundamento na orientação contidana Súmula 568/STJ, estou em proceder ao julgamento monocrático do presente conflito, tendo em vista a existência de precedente acerca da questão ora discutida e a necessidade de desbastarem-se as pautas já bastante numerosas da Colenda 2ª Seção.
+Conforme se depreende dos autos, o cumprimento provisório de sentença proferida em ação civil pública foi ajuizada somente contra o BANCO DO BRASIL SA. (e-STJ, fls. 436/478), não figurando como réu nenhum dos entes elencados no art. 109, I, da Constituição Federal, circunstância que afasta a competência da Justiça Federal para processar e julgar a demanda. Nesse sentido:
+"DIREITO PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. NEGÓCIOS JURÍDICOS BANCÁRIOS. IMPUGNAÇÃO À FASE DE CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. CÉDULA RURAL. EXPURGOS INFLACIONÁRIOS.COMPETÊNCIA DA JUSTIÇA FEDERAL. AGRAVO INTERNO NÃO PROVIDO.
+1. Esta Corte tem decidido reiteradamente não se justificar o deslocamento da competência do feito e remessa dos autos à Justiça Federal, quando nenhum dos entes indicados no inciso I do art. 109 da Constituição Federal integram a lide, sendo, pois, competente a Justiça Estadual para o julgamento da demanda, quando figura como parte apenas o Banco do Brasil com instituição financeira que celebrou a avença com a parte.
+2. Reconhecida a solidariedade entre União, Banco Central e o banco agravante, é possível o direcionamento do cumprimento provisório a qualquer um dos devedores solidários. É possível que a parte persiga seu crédito contra a instituição financeira com quem celebrou a avença, desde que não haja qualquer prova nos autos sobre a noticiada transferência do crédito à União.
+3. Agravo interno não provido" (AgInt no AREsp 1.309.643/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 29/4/2019, DJe 2/5/2019)
+Ainda, conforme o entendimento desta Corte Superior, "no confronto entre a competência do juiz que julgou a causa em primeiro grau, para a execução dos julgados que proferiu, e a competência ratione personae da Justiça Federal, fixada na Constituição, deve prevalecer esta última. A competência da Justiça Federal é definida em sede constitucional em razão das pessoas que figuram na relação processual como autora, ré, assistente ou oponente, não logrando ser ampliada por qualquer razão" (CC n. 33.111/RJ, SEGUNDA SEÇÃO, julgado em 14/5/2003, DJ 23/6/2003, p. 233).
+Por fim, cabe ressaltar que aplica-se ao caso o enunciado sumular nº 508/STJ, que dispõe:"Compete à Justiça Estadual, em ambas as instâncias, processar e julgar as causas em que for parte o Banco do Brasil S.A.".
+No mesmo sentido, em caso semelhante ao presente, confiram-se as seguintes decisões: CC 173.911/RS (Rel. Min. Ricardo Villas Bôas Cueva, DJe de 28/09/2020), CC 173.208/RS (Rel. Mi n. Raul Araújo, DJe de 28/09/2020) e CC 173.990 (Rel. Min. Nancy Andrighi, DJe de 21/09/2020) .
+Ante o exposto, conheço do conflito para declarar competente o TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, o suscitado.
+Comuniquem-se as autoridades judiciárias envolvidas acerca da presente decisão.
+Intimem-se.
+EMENTA
+CONFLITO DE COMPETÊNCIA. PROCESSUAL CIVIL. JUSTIÇA ESTADUAL X JUSTIÇA FEDERAL. LIQUIDAÇÃO DE SENTENÇA EM AÇÃO CIVIL PÚBLICA AJUIZADA CONTRA O BANCO DO BRASIL S.A.. AUSÊNCIA DE ENTE FEDERAL NA LIDE. ART. 109, I, DA CONSTITUIÇÃO FEDERAL. COMPETÊNCIA DA JUSTIÇA ESTADUAL. SÚMULA 508/STF.
+CONFLITO CONHECIDO PARA DECLARAR A COMPETÊNCIA DO JUÍZO TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, O SUSCITADO.
