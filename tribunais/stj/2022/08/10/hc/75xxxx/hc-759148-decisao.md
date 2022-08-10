@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus, com pedidoliminar, em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+O paciente foi condenado à pena de 07 anos de reclusão, em regime inicial fechado, pela prática do crime previsto no art. 129, § 3º, c/c o art. 61, I, ambos do Código Penal.
+O impetrante sustenta constrangimento ilegal decorrente da ausência de intimação do v. acórdão proferido, pois os fóruns estavam fechados devido à pandemia de COVID-19.
+Requer, liminarmente e no mérito, a anulação do trânsito em julgado do v.acórdão ora impugnado.
+O Tribunal de origem, ao prestar informações, informou que "opatrono foi intimado do teor do acórdão, conforme disponibilização no Diário de Justiça Eletrônico (DJE) aos 14 de dezembro seguinte, certificando-se a ocorrência do trânsito em julgado para o Ministério Público e para a Defesa aos 04 de fevereiro transato" (fl. 43), o que se verifica da certidão de fl. 83.
+Não havendo divergência da matéria no órgão colegiado, admissível seuexame in limine pelo relator, nos termos do art.34, XVIII e XX, do RISTJ.
+No tocante à comunicação dos atos processuais, nos termos do art. 370, § 1º do Código de ProcessoPenal,é válida aintimaçãodoadvogadoconstituído por meio daimprensa oficial.
+Outrossim, nos termos do art. 392, inciso II, do Código de ProcessoPenal,aintimaçãoacerca da sentença ou acórdão condenatórios, em se tratando de réu solto, será feita aoadvogadoconstituído através da publicação no órgão deimprensa oficial,sendo desnecessária aintimaçãopessoal" (AgRg no AREsp 1668133/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, DJe 29/6/2020). No mesmo sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. POSSE DE ARMA DE FOGO. DESCONSTITUIÇÃO DO TRÂNSITO EM JULGADO. RÉU SOLTO. INTIMAÇÃO DO ADVOGADO. PRAZO DE APELAÇÃO TRANSCORRIDO IN ALBIS. VOLUNTARIEDADE RECURSAL. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Segundo entendimento jurisprudencial consolidado no âmbito desta Corte Superior, é dispensável a intimação pessoal do réu solto, sendo suficiente a comunicação pelo órgão oficial de imprensa, no caso de estar assistido por advogado constituído, ou pessoal, nos casos de patrocínio pela Defensoria Pública ou por defensor dativo.A intimação pessoal somente é exigida da sentença que condena o réu preso, conforme o art. art. 392, inciso I, do Código de Processo Penal.
+2. Neste caso, a defesa técnica foi regularmente intimada e deixou de apresentar tempestivamente o recurso contra a sentença condenatória. Cerca de um ano após a certificação do trânsito em julgado, o agravante compareceu ao cartório da Vara manifestando interesse em recorrer da sentença, de maneira que, no momento em que se declarou o encerramento da prestação jurisdicional, não havia informação a respeito do desejo do réu em se insurgir contra a decisão condenatória, sendo certo que a questão relativa a eventuais divergências sobre esse tema entre o réu e seus representantes técnicos não foi examinada pelo Tribunal de origem, de modo que, sem a delimitação das premissas fáticas, não é possível que esta Corte se pronuncie sobre o tema.
+3. A inércia recursal do advogado constituído não caracteriza, por si só, vício ensejador do reconhecimento de nulidade processual, pois vige entre nós o princípio da voluntariedade recursal (art. 574 do Código de Processo Penal).
+4. Agravo regimental não provido.
+(AgRg no HC n. 717.898/ES, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 22/3/2022, DJe de 25/3/2022.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. IMPOSSIBILIDADE DE CONHECIMENTO. SUPRESSÃO DE INSTÂNCIA. AGRAVO DESPROVIDO.
+1. "Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo de recurso ou de revisão criminal, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado" (AgRg no HC 656.709/PR, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 28/5/2021).
+2. "Nos termos do art. 392, inciso II, do Código de Processo Penal, a intimação acerca da sentença ou acórdão condenatórios, em se tratando de réu solto, será feita ao advogado constituído através da publicação no órgão de imprensa oficial, sendo desnecessária a intimação pessoal" (AgRg no AREsp 1668133/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, DJe 29/6/2020).
+3. Agravo Regimental no habeas corpus desprovido.
+(AgRg no HC n. 688.229/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 28/9/2021, DJe de 4/10/2021.)
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+Intimem-se.
