@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se derecurso especial, apresentado por UNIMED DE RIBEIRÃO PRETO COOPERATIVA DE TRABALHO MÉDICO, com fulcro no art. 105, inciso III, da Constituição Federal, contra acórdão proferido pelo Tribunal de origem.
+É, no essencial, o relatório. Decido.
+Inicialmente, de acordo com os Enunciados Administrativos do STJ n.os 02 e 03, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, inclusive; ou, se publicada a partir de 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+Mediante análise do recurso de UNIMED DE RIBEIRÃO PRETO COOPERATIVA DE TRABALHO MÉDICO, há divergência entre o número constante no código de barras das guias de preparo e seus respectivos comprovantes de pagamento.
+Registre-se que este STJ consolidou o entendimento de que "a falta de correspondência entre o código de barras da guia de recolhimento e o comprovante de pagamento enseja irregularidade no preparo do recurso especial, e, portanto, sua deserção". (AgInt no AREsp 1449432/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 12/5/2020.)
+Ademais, percebeu-se, no STJ, haver irregularidade no recolhimento do preparo. A parte, embora regularmente intimada para sanar referido vício, não regularizou, limitando-se a trazer às fls. 1.060/1.063 o comprovante de pagamento referente à guia anteriormente apresentada, sem, contudo, realizar o recolhimento em dobro, nos termos do art. 1.007, § 4º do CPC.
+Acrescente-se que aparteapresentou pedido de reconsideração contra a certidão de saneamento.
+Cumpre registrar que não existe previsão legal para a interposição de pedido de reconsideração. Todavia, o STJ vem admitindo sua conversão em agravo interno, salvo se decorrente de erro grosseiro e fora do prazo legal.
+No caso dos autos, inviável a conversão, uma vez que caracterizado o erro por ser incabível recurso contra a certidão para saneamento de óbices, que não possui conteúdo decisório. Incide, por analogia, o disposto no art. 1.001 do CPC (Nesse sentido, mutatis mutandis, RCD no AREsp 1120311/SP, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 16/10/2018, DJe 25/10/2018).
+Portanto, não conheço do pedido.
+Esclareça que o pedido não tem o condão de interromper o prazo para a regularização do vício apontado. Dessa forma, tendo o prazo escoado, sem cumprimento da diligência, o recurso não foi devida e oportunamente regularizado.
+Ressalte-se que a petição de fls. 1.066/1.069 não pode ser aceita para o fim de regularização do preparo, em razão da preclusão consumativa, uma vez que já realizado o ato, por meio da petição de fls. 1.060/1.063, que comprovou o recolhimento simples das custas devidas ao Superior Tribunal de Justiça.
+Dessa forma, o recurso especial não foi devida e oportunamente preparado, incidindo, na espécie, o disposto na Súmula n. 187 do STJ, o que leva à deserção do recurso.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+Publique-se. Intimem-se.
