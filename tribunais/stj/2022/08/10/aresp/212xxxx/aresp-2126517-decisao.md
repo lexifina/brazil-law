@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por MÔNICA BEATRIZ RODRIGUES, contra decisão negou seguimento a recurso especial fundamentado na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 24/03/2022.
+Concluso ao gabinete em: 01/08/2022.
+Ação: de revisão de benefício previdenciário complementar, ajuizada por Mônica Beatriz Rodrigues em face da Fundação dos Economiários Federais - FUNCEF.
+Sentença:julgou improcedentes os pedidos iniciais.
+Acórdão: negou provimento à apelação interposta pela agravante, nos termos da seguinte ementa:
+"APELAÇÃO CÍVEL. AÇÃO DE REVISÃO DE BENEFÍCIO PREVIDENCIÁRIO COMPLEMENTAR. FUNCEF. ENTIDADE FECHADA DE PREVIDÊNCIA COMPLEMENTAR. SENTENÇA DE IMPROCEDÊNCIA. COMPLEMENTO TEMPORÁRIO VARIÁVEL DE AJUSTE AO PISO DE MERCADO (CTVA). PLEITO DE INCLUSÃO NO BENEFÍCIO DE COMPLEMENTAÇÃO DE APOSENTADORIA. IMPOSSIBILIDADE. AUSÊNCIA DE PREVISÃO DE TAL VERBA NO SALÁRIO DE PARTICIPAÇÃO ESTABELECIDO NO REGULAMENTO DO PLANO DE BENEFÍCIOS - REG/REPLAN. INEXISTÊNCIA DE PRÉVIO CUSTEIO. CARÁTER CONTRIBUTIVO. SENTENÇA MANTIDA. RECURSO CONHECIDO, AO QUAL SE NEGA PROVIMENTO." (e-STJ fl. 1.015).
+Recurso especial: alegou ofensa aos arts. 21 da Lei Complementar 109/2001. Sustentou: i)haverprevisão regulamentar implícita no REG/REPLAN de que verbas que visam remunerar a função de confiança deveriam fazer parte da base de cálculo do benefício, vez que as verbas salariais integram o salário de participação (remuneração) para todos os fins legais, devendo integrar a base de cálculo para a formação do salário de participação do participante/assistido, refletindo consequente e diretamente no salário real de benefício; ii) ofensa ao Tema 1.021 do STJ, o qual dispõe que em relação a regra implícita da verba remuneratória não é expressamente excluída do plano de benefícios; iii) que o CTVA possui caráter remuneratório, devendo integrar o salário de participação da agravante; iv) que resta evidenciado ocaráter contraprestativo e a natureza jurídica salarial da verba ora requerida, contudo, o valor respectivo não se refletiu nas contribuições vertidas pelo participante, o que não foi avaliado pelo acórdão recorrido, em ofensa489, §1º, pois deixou de seguir precedente invocado pela parte, sem demonstrar a existência de distinção no caso em julgamento ou a superação do entendimento.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da ofensa ao art. 489 do CPC/2015
+Devidamente analisadas e discutidas as questões de mérito, e fundamentado suficientemente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/2015. Ademais, conforme entendimento desta Corte, "se os fundamentos do acórdão recorrido não se mostram suficientes ou corretos na opinião do recorrente, não quer dizer que eles não existam.
+Não se pode confundir ausência de motivação com fundamentação contrária aos interesses da parte, como ocorreu na espécie. Violação do art. 489, § 1º, do CPC/2015 não configurada" (AgInt no REsp 1.584.831/CE, DJe 21/6/2016). No mesmo sentido: AgInt nos EDcl no AREsp 1547208/SP, TERCEIRA TURMA, DJe 19/12/2019 e AgInt no AREsp 1480314/RJ, QUARTA TURMA, DJe 19/12/2019.
+- Do reexame fático probatório e da interpretação de cláusulas contratuais
+As conclusões alcançadas pelo acórdão recorrido acerca da complementação do benefício previdenciário da autora, foram embasadas na análise do conjunto fático-probatório dos autos, conforme se verifica do trecho a seguir transcrito:
+"Cinge-se a presente controvérsia sobre a possibilidade ou não de complementação do benefício previdenciário da autora, para o fim de inclusão dos valores pagos a título de CTVA. (..)
+Pois bem.
+Compulsando os autos, bem como o laudo pericial juntado no mov. 193.3, verifica-se que a autora aderiu ao "Termo de Adesão às Regras de Saldamento do REG/REPLAN e ao Novo Plano e Novação de Direitos Previdenciários" (..).
+No caso em tela, a autora se aposentou em 17/08/2013 e, conforme visto acima, na data de 03/2008 aderiu ao saldamento na condição de participante ativa, em com dados de 31/08/2006, por meio do "Termo de Adesão às Regras de Saldamento do REG/REPLAN e ao Novo Plano e Novação de Direitos Previdenciários".
+Desse modo, como a autora, de forma livre e voluntária, aderiu ao regramento do novo plano,aceitando as suas disposições regulamentares, de modo que expressamente renunciou aos direitos decorrentes do contrato previdenciário anterior, qualquer revisão de benefício passou a ser regida integralmente pelo novo plano pactuado.
+Com efeito, de acordo com o art. 29 do Regulamento do Plano de Benefícios (REG/REPLAN), o cálculo do benefício deve considerar o salário de participação dos doze meses anteriores ao início do benefício, (..).
+E consoante previsão do art. 13, "as parcelas que constituem o salário de participação serão definidas de acordo com o Plano de Cargos e Salários do patrocinador e por este aprovadas, bem como pela Diretoria Executiva e Conselho Deliberativo da FUNCEF".
+Assim, a Circular Normativa nº 018/1998 determinou que as parcelas contributivas do Plano REG/REPLAN são: salário-padrão, adicional por tempo de serviço, função de confiança (em caráter de titularidade ou substituição), vantagens pessoais, adicional noturno, adicional de insalubridade, adicional de periculosidade, adicional compensatório de perda de função, cargo em comissão, quebra de caixa e 13º salário.
+Constata-se, desse modo, que a parcela CTVA (Complemento Temporário Variável de Ajuste de Mercado), a qual foi instituída como complementação à remuneração do empregado ocupante de cargo em confiança/comissionado, não integra o "salário de participação".
+(..)
+Portanto, apesar do reconhecimento da parcela CTVA como verba salarial devida à autora, não é o total da remuneração que se considera como base de cálculo do complemento previdenciário, mas sim o"salário de participação", como visto.
+(..)
+Desse modo, correta a sentença que julgou improcedente a pretensão autoral, haja vista que averba CTVA não compõe o salário de participação do REG/REPLAN, não sendo possível, portanto, a sua consideração para efeitos de cálculo de complementação de aposentadoria." (e-STJ fls. 1.017/1.021).
+Nesse contexto, a reforma da conclusão alcançada demandaria o reexame fático probatório dos autos, bem como a interpretação de cláusulas contratuais, o que se mostra inviável nesta via especial, a teordas Súmulas 5 e 7 do STJ.
+- Da existência de fundamento não impugnado
+Por fim, verifica-se que a agravante não impugnou o fundamento utilizado peloTJ/PR, no sentido de que "a vinculação dos atos da entidade de previdência privada com o que está previsto em seu regulamento interno. É defeso imputar a ela a prática de obrigação diversa do que prevista no regulamento, sob pena de implicar em um desequilíbrio financeiro e atuarial, prejudicial não só ao interesse dos autores, mas, também, ao interesse dos demais participantes."Aplica-se, na hipótese, a Súmula 283/STF.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REVISÃO DE BENEFÍCIO PREVIDENCIÁRIO COMPLEMENTAR.REG/REPLAN. VIOLAÇÃO DO ART. 489 DO CPC/15.FALTA DE FUNDAMENTAÇÃO DO JULGADO.INOCORRÊNCIA. REEXAME DE FATOS E PROVAS EINTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE.FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF.
+1. Ação de revisão de benefício previdenciário complementar.
+2. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação doart. 489 do CPC/15.
+3.O reexame de fatos e provas e a interpretação de cláusulas contratuais em recurso especial sãoinadmissíveis.
+4.A existência de fundamento do acórdão recorrido não impugnado - quandosuficiente para a manutenção de suas conclusões - impede a apreciação do
+recurso especial.
+5. Agravo conhecido. Recurso especial parcialmente conhecido e não provido.
