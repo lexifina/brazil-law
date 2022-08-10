@@ -1,0 +1,52 @@
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE DIFERENÇAS REMUNERATÓRIAS. SERVIDOR PÚBLICO DO MUNICÍPIO DE QUIRINÓPOLIS. CONVERSÃO DOS VENCIMENTOS EM URV. REESTRUTURAÇÃO DA CARREIRA. REVISÃO DE FATOS E PROVAS. SÚMULA 7/STJ. ANÁLISE DE LEI LOCAL. SÚMULA 280/STF.
+1. O Tribunal a quo, no enfrentamento da matéria, consignou: "In casu, verifica-se que a Lei Municipal nº 2.632 de 09 de novembro de 2006, que instituiu a reorganização da Estrutura Administrativa do Poder Executivo do Município de Quirinópolis, bem como a Lei Municipal nº 2.642 de 14 de dezembro de 2006, que dispôs sobre a reposição salarial dos vencimentos dos profissionais da Educação, restruturam a carreira em questão, Professor, criando novos padrões de vencimentos para cargos e, em consequência, na superação de eventuais perdas ocorridas em função de cálculos erroneamente utilizados para a correção das remunerações quando da conversão da moeda em URV" (fl. 369, e-STJ).
+2. O insurgente entende que houve violação do art. 373, II, do CPC, sob o argumento de que a parte contrária não comprovou que "as Leis Municipais nºs 2.632/2006 e 2.642/2006 tiveram o condão de reestruturar a remuneração da servidora estadual" (fl. 615, e-STJ). No entanto, a revisão do entendimento consignado pelo acórdão recorrido requer revolvimento do conjunto fático-probatório, inadmissível na via especial, ante o óbice da Súmula 7/STJ.
+3. Depreende-se que o fundamento central da controvérsia é de cunho eminentemente amparado em legislação local. Destaca-se a inviabilidade da discussão em Recurso Especial acerca de suposta afronta a matéria local, sendo defesa sua apreciação pelo STJ. Aplica-se, por analogia, a Súmula 280/STF.
+4. Agravo Interno não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, negou provimento ao agravo interno, nos termos do voto do Sr. Ministro-Relator." Os Srs. Ministros Og Fernandes, Mauro Campbell Marques, Assusete Magalhães e Francisco Falcão votaram com o Sr. Ministro Relator."
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Agravo Interno contra decisão monocrática (fls. 605-608, e-STJ) que conheceu do Agravo para não conhecer do Recurso Especial.
+A parte agravante afirma que o Recurso por ela interposto preenche os requisitos de admissibilidade. Aduz, em suma (fls. 611-621, e-STJ):
+No caso em concreto, o acórdão proferido pela Segunda Turma Julgadora da Terceira Câmara Cível do Egrégio Tribunal de Justiça de Goiás que, em sede recursal, assevera que as Leis Municipais nºs 2.632/2006 e 2.642/2006, realizaram a reestruturação remuneratória do servidor municipal.
+Neste trilhar, o recurso especial é calcado na violação ao inciso II, do art. 373, do Código de Processo Civil, vez que, a Agravada, não desincumbiu ao ônus que competia, deixando de provar que as Leis Municipais nºs 2.632/2006 e 2.642/2006 tiveram o condão de reestruturar a remuneração da servidora estadual.
+(..)
+Não há que se falar em violação da Súmula 7 do STJ, pois como adiantado acima as Leis Municipais nºs 2.632/2006 e 2.642/2006 sequer foram anexadas pela Agravada aos autos.
+Ora, como pode existir revolvimento do acervo fático probatório quando este sequer existe nos autos.
+Ainda, o recurso heroico não pretende a análise das citadas Leis Municipais, mas sim, se a mera citação atende o ordenamento contido no inciso II, art. 373 do Código de Processo Civil, bem como, o entendimento que emana do Tema 5 e Tema 913, ambos do Colendo Supremo Tribunal Federal.
+Requer a reconsideração da decisão agravada ou o provimento, pelo colegiado, do Agravo Interno.
+Não foi apresentada impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE DIFERENÇAS REMUNERATÓRIAS. SERVIDOR PÚBLICO DO MUNICÍPIO DE QUIRINÓPOLIS. CONVERSÃO DOS VENCIMENTOS EM URV. REESTRUTURAÇÃO DA CARREIRA. REVISÃO DE FATOS E PROVAS. SÚMULA 7/STJ. ANÁLISE DE LEI LOCAL. SÚMULA 280/STF.
+1. O Tribunal a quo, no enfrentamento da matéria, consignou: "In casu, verifica-se que a Lei Municipal nº 2.632 de 09 de novembro de 2006, que instituiu a reorganização da Estrutura Administrativa do Poder Executivo do Município de Quirinópolis, bem como a Lei Municipal nº 2.642 de 14 de dezembro de 2006, que dispôs sobre a reposição salarial dos vencimentos dos profissionais da Educação, restruturam a carreira em questão, Professor, criando novos padrões de vencimentos para cargos e, em consequência, na superação de eventuais perdas ocorridas em função de cálculos erroneamente utilizados para a correção das remunerações quando da conversão da moeda em URV" (fl. 369, e-STJ).
+2. O insurgente entende que houve violação do art. 373, II, do CPC, sob o argumento de que a parte contrária não comprovou que "as Leis Municipais nºs 2.632/2006 e 2.642/2006 tiveram o condão de reestruturar a remuneração da servidora estadual" (fl. 615, e-STJ). No entanto, a revisão do entendimento consignado pelo acórdão recorrido requer revolvimento do conjunto fático-probatório, inadmissível na via especial, ante o óbice da Súmula 7/STJ.
+3. Ademais, depreende-se que o fundamento central da controvérsia é de cunho eminentemente amparado em legislação local. Destaca-se a inviabilidade da discussão em Recurso Especial acerca de suposta afronta a matéria local, sendo defesa sua apreciação pelo STJ. Aplica-se, por analogia, a Súmula 280/STF.
+4. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 13.6.2022.
+O Agravo Interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado.
+Conforme já disposto no decisum combatido, o Tribunal a quo, no enfrentamento da matéria, consignou (fl. 369, e-STJ):
+In casu, verifica-se que a Lei Municipal nº 2.632 de 09 de novembro de 2006, que instituiu a reorganização da Estrutura Administrativa do Poder Executivo do Município de Quirinópolis, bem como a Lei Municipal nº 2.642 de 14 de dezembro de 2006, que dispôs sobre a reposição salarial dos vencimentos dos profissionais da Educação, restruturam a carreira em questão, Professor, criando novos padrões de vencimentos para cargos e, em consequência, na superação de eventuais perdas ocorridas em função de cálculos erroneamente utilizados para a correção das remunerações quando da conversão da moeda em URV.
+O insurgente entende que houve violação do art. 373, II, do CPC, sob o argumento de que a parte contrária não comprovou que "as Leis Municipais nºs 2.632/2006 e 2.642/2006 tiveram o condão de reestruturar a remuneração da servidora estadual" (fl. 615, e-STJ). No entanto, a revisão do entendimento consignado pelo acórdão recorrido requer revolvimento do conjunto fático-probatório, inadmissível na via especial, ante o óbice da Súmula 7/STJ.
+Depreende-se que o fundamento central da controvérsia é de cunho eminentemente amparado em legislação local. Destaca-se a inviabilidade da discussão em Recurso Especial acerca de suposta afronta a matéria local, sendo defesa sua apreciação pelo STJ. Aplica-se, por analogia, a Súmula 280/STF, in verbis: "Por ofensa a direito local não cabe Recurso Extraordinário".
+Nesse sentido:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. SERVIDOR PÚBLICO. CONVERSÃO DE CRUZEIROS REAIS E URV. REESTRUTURAÇÃO DA CARREIRA. PRESCRIÇÃO DE TRATO SUCESSIVO. MARCO INICIAL. ANÁLISE DE LEI LOCAL. SÚMULA 280/STF. COMPROVAÇÃO. REEXAME DE PROVAS. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. O Agravo Interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora gravada torna incólume o entendimento nela firmado.
+2. Nas ações em que se busca o pagamento das diferenças salariais decorrentes da edição da Lei 8.880/1994, a relação é de trato sucessivo, incidindo a prescrição tão somente sobre as parcelas vencidas no quinquênio anterior ao ajuizamento da ação, conforme disposto na Súmula 85/STJ.
+3. A análise da pretensão recursal implicaria interpretação de norma local, insuscetível de análise em sede de recurso especial, nos termos da Súmula 280/STF.
+4. Não cabe rediscutir as nuances que envolvem dilação probatória fundamentadas no contexto fático dos autos. Neste quadro, é inviável analisar a tese defendida no Recurso Especial, a qual busca afastar as premissas fáticas estabelecidas pelo acórdão recorrido, em razão da incidência do enunciado da Súmula 7 do STJ.
+5. Agravo interno não provido.
+(AgInt no AREsp 1813085/MT, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 11/10/2021, DJe 18/10/2021)
+Assim, na hipótese dos autos, conclui-se que o Recurso Especial interposto pela parte não ultrapassa a barreira de admissibilidade.
+Por fim, destaco que a análise da divergência jurisprudencial fica prejudicada quando a tese sustentada já foi afastada no exame do Recurso Especial pela alínea "a" do permissivo constitucional.
+A propósito:
+TRIBUTÁRIO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CONTRIBUIÇÃO COMPULSÓRIA PARA A SAÚDE. VIOLAÇÃO DO ART. 535 DO CPC. ALEGAÇÕES GENÉRICAS. SÚMULA 284/STF. FUNDAMENTOS DO ACÓRDÃO RECORRIDO EMINENTEMENTE CONSTITUCIONAIS. NÃO INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. SÚMULA 126/STJ. ANÁLISE DA DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA ANTE O ÓBICE SUMULAR.
+(..) 3. Prejudicada a análise da divergência jurisprudencial quando a tese sustentada esbarra em óbice sumular quando do exame do Recurso Especial pela alínea "a" do permissivo constitucional.
+4. Agravo Regimental não provido. (AgRg no REsp 1.472.530/RS, Rel.
+Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 31/10/2014)
+Ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes, não há prover o Agravo que contra ela se insurge.
+Deixo de aplicar a multa prevista no § 4º do art. 1.021 do CPC/2015, porq uanto o mero inconformismo com a decisão agravada não enseja imposição da sanção, quando não configurada a manifesta inadmissibilidade ou improcedência do recurso, por decisão unânime do Colegiado, como no caso em análise.
+Ao lume do exposto, nego provimento ao Agravo Interno.
+É como voto.
