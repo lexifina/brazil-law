@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por FRANCISCO JOSÉ TORRES DE MOURA contra a decisão que não conheceu do agravo em recurso especial em razão da ausência de impugnação dos fundamentos da decisão que inadmitiu o recurso especial, nos termos do art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça.
+Em suas razões, sustenta a parte embargante que houve contradição na decisão (fls. 603/605):
+Tal mácula é perceptível porque o R. Decisum afirma que as impugnações feitas em sede de Agravo em REsp são genéricas, pois não combateu especificamente as razões da decisão de inadmissão proferida pela Vice-Presidência do TJ/CE.
+Ocorre que tal entendimento não se aplica ao caso em apreço. Isso porque a decisão monocrática de segunda instância é que se mostrou genérica, uma vez que só alegou que a finalidade do recurso especial interposto pelo Embargante é de, meramente, rediscutir fatos e provas e por isso não poderia prosseguir com o seu devido processamento.
+De fato, o reexame fático-probatório não é função dos Tribunais de Vértice, eis que neste patamar recursal a discussão é eminentemente jurídica, de como se deve ser feita a boa aplicação do direito ao caso concreto. Em que pese a Corte Cearense tenha alegado ofensa à súmula sete deste Nobre Sodalício, não explicou o porquê de tal enquadramento, apenas fez declarações genéricas que não podia o Embargante impugná-las especificamente como sustenta Vossa Excelência:
+(..)
+Com efeito, resta demonstrado que esta Defesa não teria condições de se aprofundar especificamente nos fundamentos da decisão porque ela mesmo se mostrou genérica, ferindo tanto o texto constitucional quanto a legislação federal.
+Não obstante, esta Defesa esclareceu no Agravo em REsp o que busca no caso sub oculis: não o mero o reexame das provas, mas sim a sua correta valorização, de modo que a aplicação da legislação federal seja feita devidamente. Em seguida, no corpo da mesma insurgência processual, fora especificado quais os dispositivos legais que foram negados vigência: (..).
+Requer, assim, o conhecimento e o acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a retirar ambiguidade, esclarecer obscuridade, eliminar contradição e suprir omissão existentes no julgado, o que não se verifica na hipótese.
+A propósito, da análise do recurso de agravo em recurso especial observa-se que a parte agravante deixou de impugnar especificamente os fundamentos da decisão agravada, conforme exigido pelo art. 253, parágrafo único, do RISTJ, a saber: Súmula 7/STJ.
+Veja-se que a refutação apta a infirmar a decisão agravada deve ser efetiva, individualizada, específica e fundamentada (AgInt no REsp n. 1.535.657/MT, relator Ministro Luís Felipe Salomão, Quarta Turma, DJe de 26/8/2020, e AgRg no RHC n. 128.660/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 24/8/2020).
+Importante registrar que o momento adequado para impugnação dos fundamentos da decisão que não admite o recurso especial é a interposição do agravo em recurso especial, sob pena de preclusão caso feita posteriormente.
+Ressalte-se que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, os EDcl no AgRg nos EREsp n. 1.315.507/SP, relator Ministro Luis Felipe Salomão, Corte Especial, DJe de 28/8/2014.
+Assim, não há nenhuma irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou ambiguidade).
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
