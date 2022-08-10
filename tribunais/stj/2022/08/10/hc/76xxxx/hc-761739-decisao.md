@@ -1,0 +1,22 @@
+DECISÃO
+Nestehabeas corpus, com pedido liminar, impetrado em favor de Márcio Vinícius de Oliveira-cumprindo pena nos autos da Execução n. 1001856-06.2021.8.26.0047, em curso na 1ªVaraCriminal da comarca de Assis/SP -, sob alegação de constrangimento ilegal no acórdão exarado no julgamento doAgravo de Execução Penal n.9000102-14.2019.8.26.0482(Tribunal de Justiça de São Paulo), que manteve a decisão do Juízo de execução, no sentido de reconhecer a prática de falta grave pelo paciente, requer-se, em liminar e no mérito, a exclusão da falta, ante a insuficiência de provas.
+É o relatório.
+Inicialmente, cumpre destacarque ofato do paciente não ter sido denunciado,na seara penal, pela conduta atinente à tentativa de inserção de substâncias entorpecentes no interior do estabelecimento prisionalnão constitui óbice a apuração administrativada conduta, ante a absoluta independência das instâncias (administrativa e penal):
+EXECUÇÃO PENAL. AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INDEPENDÊNCIA DAS ESFERAS CRIMINAL E ADMINISTRATIVA. ABSOLVIÇÃO NA ESFERA PENAL. NÃO DESCARACTERIZAÇÃO DA FALTA GRAVE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A jurisprudência desta Corte Superior é no sentido de que as esferas criminal e administrativa são independentes, estando a Administração vinculada apenas à decisão do juízo criminal que negar a existência do fato ou a autoria do crime.
+2. No presente caso, pela leitura do acórdão recorrido, há a independência das esferas administrativa e penal, uma vez que a sentença absolutória proferida no âmbito criminal não reconheceu a inexistência material do fato ou a negativa da autoria, devendo ser mantido o reconhecimento da falta grave.
+3. Agravo regimental não provido.
+(AgRg no AgInt no AREsp n. 2.018.238/TO, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 13/6/2022 - grifo nosso)
+Assim, no caso, não diviso nenhuma ilegalidade na apuração administrativa em si.
+De outra parte, no tocante àtese de insuficiênciade provas deautoria da conduta, o writé inadmissível, pois demandaria o reexame dos elementos coligidos durante a apuração administrativa (prova), providência essa que não se amolda ao rito dohabeas corpus(cognição sumária).
+Nesse sentido, confira-se:
+RECURSO ORDINÁRIO EM HABEAS CORPUS. EXECUÇÃO PENAL. POSSE DE "CHIP" DE APARELHO CELULAR. CONDUTA PRATICADA APÓS A ENTRADA EM VIGOR DA LEI N. 11.466/2007. FALTA GRAVE CARACTERIZADA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. NEGATIVA DE AUTORIA E PRETENSÃO DE DESCLASSIFICAÇÃO. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. RECURSO IMPROVIDO.
+1. É cediço que o propósito primordial da alteração legislativa promovida pela Lei n. 11.466/2007 foi conter a comunicação entre os presos e o ambiente externo, evitando-se, assim, a deletéria perpetuação da atividade delitiva, notadamente se considerada a proliferação da criminalidade organizada até mesmo no interior dos cárceres. Assim, há de se ter por falta grave não só a posse de aparelho de telefonia em si, mas também de qualquer outro componente imprescindível para o seu funcionamento. Conclusão diversa permitiria o fracionamento do aparelho entre cúmplices apenas com o propósito de afastar a aplicação da lei e de escapar das sanções nela previstas. Flagrante ilegalidade inexistente.
+2. A questão da negativa de autoria da falta disciplinar, bem como a da pretensa desclassificação, são matérias insuscetíveis de serem deslindadas na presente via, pois, as instâncias ordinárias, soberanas na análise do conjunto fático-probatório, entenderam estarem comprovadas a autoria do delito e a impossibilidade de desclassificação. Portanto, não se mostra possível modificar o que ficou estabelecido, sem que se faça necessário um amplo e aprofundado reexame do acervo probatório, procedimento vedado na via estreita do habeas corpus, remédio constitucional caracterizado pelo rito célere e cognição sumária.
+3. Recurso ordinário em habeas corpus a que se nega provimento.
+(RHC n. 45.909/SP, Ministro Marco Aurélio Bellizze, Quinta Turma, DJe 22/5/2014 - grifo nosso)
+Ante o exposto, conheço em parte dowrite, nessa extensão, denego a ordem(art. 34, XVIII,ae b, do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. FALTA GRAVE. APURAÇÃO ADMINISTRATIVA DESENCADEADA SEM PERSECUÇÃO PENAL. POSSIBILIDADE. INSTÂNCIAS INDEPENDENTES. INSUFICIÊNCIA DE PROVAS DEAUTORIA. INADMISSIBILIDADE. TESE QUE NÃO SE AMOLDA AO RITO DOHABEAS CORPUS(COGNIÇÃO SUMÁRIA).
+Writ conhecido em parte e, nessa extensão, denegada a ordem.
