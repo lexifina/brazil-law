@@ -1,0 +1,6 @@
+DECISÃO
+Vistos etc.
+Embora o caso retrate controvérsia que faz referência a existência de título judicial de natureza penal, observo que a discussão central travada neste recurso diz respeito a ação de execução de título extrajudicial, que foi ajuizada por advogado, com o objetivo de receber, diante da penhora de imóvel objeto de perdimento em favor da União, seus honorários advocatícios, nestes termos, no que interessa da inicial: (fl. 93):
+Diante do inadimplemento contratual, fora ajuizada Ação de Execução de Título Extrajudicial em desfavor daqueles, autuado sub número 0013467- 66.2016.8.16.0001, em trâmite perante a 9ª Vara Cível de Curitiba/PR.
+Por se tratar de tema cível, ligado à execução de título extrajudicial, decorrrente de inadimplemento contratual,com o possívelenvolvimento de ente público, visto que o imóvel sobre o qual recai o procedimento (de ondese pretende obter os honorários) foi objeto de perdimento em favor da União, declino da competência para o exame desse processo para um dos integrantes das Turmas que compõem a 1º Seção, nos termos regimentais. Assim, determino a redistribuição deste recurso para um dos integrantes das Turmas que compõem a 1ª Seção.
+Publique-se e cumpra-se.
