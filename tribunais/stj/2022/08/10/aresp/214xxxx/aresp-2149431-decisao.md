@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por SAMUEL MOREIRA DA PAIXÃO (SAMUEL)contra decisão que negou seguimento ao seu apelo nobre manejado, por sua vez, contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+APELAÇÃO CÍVEL. RESPONSABILIDADE CIVIL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. ROUBO POR SUPOSTOS PASSAGEIROS A MOTORISTA DE APLICATIVO (UBER).AUSÊNCIA DE RESPONSABILIDADE POR PARTE DA EMPRESA MANTENEDORA DO APLICATIVO.
+A responsabilidade civil tem por elemento central uma conduta voluntária que viola um dever jurídico. Neste diapasão, caso o dever passível de violação seja proveniente de um negócio jurídico preexistente, estar-se-á diante de responsabilidade civil contratual. Já na hipótese de o dever violado ser decorrente de um preceito geral de direito ou da própria lei, estar-se-á diante de responsabilidade civil extracontratual. Para além destas duas espécies de responsabilidade civil, tem-se que a responsabilidade civil extracontratual subdivide-se em responsabilidade civil subjetiva, prevista nos arts. 186 e 187 do Código Civil, e em responsabilidade civil objetiva, recepcionada no ordenamento jurídico brasileiro por meio do parágrafo único do art. 927 do Código Civil.
+Ocorre que não se vislumbra, no caso em apreço, a subsunção dos fatos a nenhuma das espécies de responsabilidade civil supracitadas. Primeiramente, cumpre apontar que não foi carreado aos autos o contrato entabulado entre as partes, tampouco foi solicitada a sua exibição pela parte autora, de modo com que é inviável aferir se eventual dever estabelecido por este negócio jurídico foi violado. Tampouco restam preenchidos os pressupostos da responsabilidade civil extracontratual, seja subjetiva ou objetiva.
+Com efeito, à medida com que o ato danoso, qual seja, o roubo, foi praticado por terceira pessoa, estranha ao feito, inexiste no caso conduta ilícita culposa ou dolosa praticada pela ré a ensejar a responsabilidade subjetiva. Também não há que se falar em responsabilidade objetiva, uma vez que a atividade desempenhada pela ré não representa, por sua natureza, risco aos direitos de outrem.
+Ora, o risco de assaltos é inerente à sociedade contemporânea, que vive uma gravecrise de segurança pública, a qual por sua vez compete exclusivamente ao Estado. Desta feita, impossível imputar à companhia ré a responsabilidade por fato de terceiro, que decorre em especial de falha do Estado, que não assegura aos cidadãos o direito fundamental à segurança.
+Por consequência, diante das peculiaridades do caso concreto, entendo pelo cabimento do juízo de improcedência da demanda, razão pela qual a sentença deve ser reformada.
+RECURSO DESPROVIDO (e-STJ, fls. 279/280).
+Irresignado, SAMUELinterpôs recurso especial com base no art. 105, III, alíneas a e c, da CF, apontando, a par de divergência jurisprudencial, a violação aos arts. 186 e 927do CC/02, ao sustentara legitimidade passiva da empresa UBER DO BRASIL TECNOLOGIALTDA. para responder pelo danos materiais e morais sofridos pelo motorista, ora recorrente, em decorrência de assalto à mão armada ocorrido após a aceitação de corrida solicitada em perfil fake autorizado pela companhia.
+O recurso não foi admitido pelo Tribunal de Justiça do Estado do Rio Grande doSul (e-STJ, fls. 322/325).
+Nas razões do presente agravo, SAMUEL alegou que não incidem os óbices apontados na decisão de inadmissibilidade.
+Foi apresentada contraminuta (e-STJ, fls. 345/351).
+É o relatório.
+Decido.
+Diante da relevância daquestão exposta, para melhor examinar atesesuscitada, DOU PROVIMENTO ao presente agravo, determinando a sua conversão em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS EM DECORRÊNCIA DE ASSALTO ENVOLVENDO TRANSPORTE DE APLICATIVO. AGRAVO CONHECIDO PARA DETERMINAR SUA CONVERSÃO EM RECURSO ESPECIAL.
