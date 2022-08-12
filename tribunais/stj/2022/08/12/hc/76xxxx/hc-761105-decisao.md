@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de Geraldo Gonçalves da Costa, preso preventivamente, desde 21/9/2021, pela prática, em tese, dos crimes de homicídio qualificado e ocultação de cadáver.
+Ataca-se o acórdão proferido pelo Tribunal de Justiça de Goiás no HC n. 5364004-34.2022.8.09.0051 (fls. 495/503), que manteve a prisão preventiva do paciente nos Autos n. 0203282-83.2000.8.09.0051 (fls. 22/24), da 1ª Vara dos Crimes Dolosos contra a Vida da comarca de Goiânia/GO.
+Alega-se constrangimento ilegal consistente no excesso de prazo para a formação da culpa e requer-se a concessão da ordem, inclusive em caráter liminar, a fim de que o paciente seja posto em liberdade.
+É o relatório.
+Busca a impetração a revogação da prisão preventiva imposta ao paciente - como garantia da ordem pública, pela prática, em tese, dos crimes de homicídio qualificado e ocultação de cadáver -, ao argumento de excesso de prazo para a formação da culpa.
+Inicialmente, registre-se que o constrangimento ilegal por excesso de prazo não resulta de um critério aritmético, mas de uma aferição realizada pelo julgador, à luz dos princípios da razoabilidade e da proporcionalidade, levando em conta as peculiaridades do caso concreto (AgRg no RHC n. 157.071/RS, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 13/12/2021).
+Nesse mesmo sentido: AgRg no HC n. 674.902/SC, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 28/10/2021; e RHC n. 134.063/RS, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 8/10/2021.
+Ao que se tem, a Corte local manteve a segregação cautelar, afastando a alegação mandamental, nos seguintes termos (fl. 500):
+Do excesso de prazo da prisão
+Conforme se observa, o paciente se encontra preso desde 21/07/2021 e a audiência de instrução ainda não foi encerrada.
+Da análise dos autos da ação penal originária nº 0203282-83. A audiência de instrução e julgamento está designada para o dia 22/08/2022. Vale ressaltar que o lapso temporal decorrido desde a data dos fatos (1999) e o presente momento, resultado do período em que o paciente esteve foragido, dificultam a localização das testemunhas e, consequentemente, a finalização da instrução probatória. Portanto, as sucessivas redesignações das audiências se justificam principalmente por culpa do paciente que esteve por muito tempo homiziado da justiça, desta forma, não há que se falar em constrangimento ilegal, pois os autos já se encontram com audiência de instrução designada.
+No caso dos autos, o paciente está preso desde 21/9/2021 (fls. 384 e 484).
+Verifica-se, então, que razão não assiste à impetração, pois se trata de feito complexo - processo sujeito ao rito especial do Tribunal do Júri, com pluralidade de réus (2) e diversidade de condutas delitivas (crimes de homicídio qualificado e ocultação de cadáver) - e inexiste culpa do Judiciário na eventual mora processual - uma vez que, em Audiência Preliminar no dia 15 de Junho de 2022, constatou-se a ausência das testemunhas Lucimar Alves Feitosa e Adriano Lopes Sabbag, arroladas em comum pela acusação (fl. 484), razão pela qual a audiência foi redesignada para 22/8/2022 (fl. 500) -, porquanto o prazo de tramitação não traduz de plano violação dos princípios da razoabilidade e da proporcionalidade, balizas de aferição da razoável duração do processo.
+Conclui-se, então, que a impetração não demonstrou o constrangimento ilegal alegado na manutenção da prisão preventiva do paciente.
+Em razão disso, indefiro liminarmente o presente writ, com recomendação ao Juízo de Direito da 1ª Vara dos Crimes Dolosos contra a Vida da comarca de Goiânia/GO para que empregue celeridade no julgamento da Ação Penal n. 0203282-83.2000.8.09.0051.
+Publique-se.
+EMENTA
+HABEAS CORPUS. PRISÃO PREVENTIVA. HOMICÍDIO QUALIFICADO E OCULTAÇÃO DE CADÁVER. GARANTIA DA ORDEM PÚBLICA. ALEGAÇÃO DE EXCESSO DE PRAZO PARA A FORMAÇÃO DA CULPA. PACIENTE PRESO DESDE 21/9/2021. PRINCÍPIO DA RAZOABILIDADE. TRÂMITE REGULAR. AUSÊNCIA DE DESÍDIA OU INÉRCIA PELO MAGISTRADO SINGULAR. POSSIBILIDADE. PRECEDENTES. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO.
+Writ indeferido liminarmente com recomendação.
