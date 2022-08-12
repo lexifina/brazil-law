@@ -38,7 +38,9 @@ XXXIII - conceder anuência prévia aos atos de cessão ou transferência de con
 XXXIV - regulamentar o compartilhamento de informações sobre a atividade de mineração entre órgãos e entidades da União, dos Estados, do Distrito Federal e dos Municípios;
 XXXV - normatizar o sistema brasileiro de certificação de reservas e recursos minerais, no prazo de até um ano, contado da publicação desta Lei;
 XXXVI - aprovar seu regimento interno;
-XXXVII - regulamentar a aplicação de recursos de pesquisa, desenvolvimento tecnológico e inovação, do setor mineral.
+XXXVII - regulamentar a aplicação de recursos de pesquisa, desenvolvimento tecnológico e inovação, do setor mineral;
+XXXVIII - regular, normatizar, autorizar, controlar e fiscalizar as atividades de pesquisa e lavra de minérios nucleares no País, exceto em relação às questões de segurança nuclear e proteção radiológica, observado o disposto no art. 6º da Lei nº 14.222, de 15 de outubro de 2021; e
+XXXIX - fiscalizar os titulares de concessões de lavra quanto à ocorrência de elementos nucleares.
 § 1º A ANM deverá, ao tomar conhecimento de fato que possa configurar indício de infração da ordem econômica, comunicá-lo imediatamente ao Conselho Administrativo de Defesa Econômica (Cade).
 § 2º Se a comunicação prevista no § 1º deste artigo decorrer de cessão de direitos minerários que não atenda aos critérios previstos na legislação de defesa da concorrência brasileira, a anuência da cessão estará vinculada à decisão terminativa proferida pelo Cade publicada em meio oficial.
 § 3º A ANM deverá, ao tomar conhecimento de fato que possa configurar indício de infração penal, comunicá-lo imediatamente à autoridade competente.
