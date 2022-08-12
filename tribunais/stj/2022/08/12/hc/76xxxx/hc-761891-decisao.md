@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra acórdão assim ementado (fl. 23):
+HABEAS CORPUS. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O TRÁFICO. PRISÃO PREVENTIVA. WRIT ANTERIOR ACERCA DOS MESMOS FATOS. CONHECIMENTO PARCIAL DA ORDEM. EMBORA REJEITADA A DENÚNCIA EM RELAÇÃO AO CRIME DE ORGANIZAÇÃO CRIMINOSA, REMANESCE O PACIENTE A RESPONDER PELOS DELITOS DE TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO, CUJA GRAVIDADE CONCRETA JÁ FOI DESTACADA NA DECISÃO QUE DETERMINOU A SEGREGAÇÃO CAUTELAR. ELEMENTOS DE PROVA INDICATIVOS DA PARTICIPAÇÃO DO PACIENTE NO NARCOTRAFICAR EM NÍVEL LOCAL. MATÉRIA QUE DEPENDE DE DILAÇÃO PROBATÓRIA. NECESSIDADE DA PRISÃO JUSTIFICADA. PACIENTE REINCIDIENTE EM DELITO DE MESMA NATUREZA. PERICULUM LIBERTATIS DEMONSTRADO. INVIABILIDADE DE MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. SEGREGAÇÃO CAUTELAR MANTIDA.
+ORDEM DENEGADA.
+Consta dos autos o paciente foi preso preventivamente e denunciado como incurso no art. 33 e art. 35, ambos da Lei n. 11.343/2006.
+Sustenta a Defesa que há fatos novos que ensejam a reanálise da prisão preventiva: "a) rejeição da denúncia referente ao delito de organização criminosa; e b) depoimento do único policial civil que participou da investigação e acessou todos os celulares" (fl. 4).
+Assevera a ausência de fundamentação idônea do decreto prisional, pois baseado na gravidade abstrata do delito e na reincidência.
+Aduz que não foi apreendido com o paciente nenhum entorpecente e que inexiste laudo preliminar (fls. 11-12).
+Requer, liminarmente e no mérito, o relaxamento da prisão preventiva ou, subsidiariamente, a substituição da prisão preventiva pormedidas cautelares diversas da prisão.
+Não havendo divergência da matéria no órgão colegiado, admissível seu exame in limine pelo relator, nos termos do art. 34, XVIII e XX, do RISTJ.
+Ressalte-se que, no procedimento do habeas corpus não se permite a produção de provas, pois essa ação constitucional deve ter por objetivo sanar ilegalidade verificada de plano, não se fazendo possível aferir a materialidade e a autoria delitiva quando controversas. As alegações quanto a esse ponto, portanto, não devem ser conhecidas.
+Ademais, orito do habeas corpus demanda prova documental pré-constituída do direito alegado pelo impetrante.No caso, o impetrante não colacionou aos autos a íntegra do decreto de prisão preventiva.
+A ausência de peça essencial ao deslinde da controvérsia, impede o exame das alegações, razão pela qual deve ser negado seguimento ao presente writ, impetrado por profissional legalmente habilitado. A propósito, os seguintes precedentes:
+PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO REGIMENTAL EM HABEAS CORPUS. INSTRUÇÃO DEFICIENTE. PROVA PRÉ-CONSTITUÍDA. NECESSIDADE. PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO REGIMENTAL E NÃO PROVIDO.
+1. Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente exige prova pré-constituída das alegações, não comportando dilação probatória. É cogente ao impetrante, pois, apresentar elementos documentais suficientes para se permitir a aferição da alegada existência de constrangimento ilegal no ato atacado na impetração.
+2. A inicial do writ não veio acompanhada da cópia do acórdão proferido por ocasião do julgamento da apelação, o que prejudica a exata compreensão do caso, inviabilizando-se, assim, o exame do alegado constrangimento ilegal.
+3. Pedido de reconsideração recebido como agravo regimental.
+Agravo não provido. (PET no HC 584.863/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 09/06/2020, DJe 17/06/2020).
+AGRAVO REGIMENTAL. HABEAS CORPUS. INDEFERIMENTO LIMINAR. IMPETRAÇÃO EM SUBSTITUIÇÃO AO RECURSO CABÍVEL. UTILIZAÇÃO INDEVIDA DO REMÉDIO CONSTITUCIONAL. VIOLAÇÃO AO SISTEMA RECURSAL. INADMISSIBILIDADE DE RECURSO ESPECIAL. INTERPOSIÇÃO DE AGRAVO INTERNO. ERRO GROSSEIRO. IMPOSSIBILIDADE DE APLICAÇÃO DO PRINCÍPIO DA FUNGIBILIDADE RECURSAL.
+1. A via eleita revela-se inadequada para a insurgência contra o ato apontado como coator, pois o ordenamento jurídico prevê recurso específico para tal fim, circunstância que impede o seu formal conhecimento.
+2. É pacífico neste Superior Tribunal de Justiça que, contra a decisão que não admite os recursos de natureza extraordinária, é cabível o agravo previsto no artigo 1.042 do Código de Processo Civil, e não agravo interno, sendo inaplicável o princípio da fungibilidade. Precedentes. REVISÃO DA DOSIMETRIA DA PENA COMINADA AO RÉU. AUSÊNCIA DE PROVA PRÉ-CONSTITUÍDA. NECESSIDADE DE DILAÇÃO PROBATÓRIA. VIA INADEQUADA. COAÇÃO ILEGAL NÃO CONFIGURADA.
+1. O mandamus não foi instruído com cópia do acórdão proferido no julgamento do recurso de apelação, peça processual indispensável para o deslinde da controvérsia.
+2. O rito do habeas corpus e do recurso ordinário em habeas corpus pressupõe prova pré-constituída do direito alegado, devendo a parte demonstrar, de maneira tempestiva e inequívoca, por meio documentos que evidenciem a pretensão aduzida, a existência do aventado constrangimento ilegal, ônus do qual não se desincumbiu a defesa, exercida por profissional da advocacia. Precedentes.
+3. A documentação necessária ao exame do constrangimento ilegal a que estaria sendo submetido o paciente deve estar presente nos autos no momento da impetração do habeas corpus, não se admitindo a juntada posterior de peças processuais. Precedentes.
+4. Agravo regimental desprovido. (AgRg no HC n. 582.042/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 17/6/2020.)
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+Intimem-se.
