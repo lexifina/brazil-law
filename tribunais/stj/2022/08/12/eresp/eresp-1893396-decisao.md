@@ -1,0 +1,42 @@
+DECISÃO
+Vistos.
+Trata-se de Embargos de Divergência interpostos por TELMO RICARDO SCHORR e OUTROS, com base nos arts. 1.043 do Código de Processo Civil e 266 do Regimento Interno desta Corte, contra acórdão proferido pela 2ª Turma, assim ementado (fls. 654/655e):
+PROCESSUAL CIVIL. EXECUÇÃO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. IMPUGNAÇÃO OFERTADA PELO DEVEDOR PARCIALMENTE ACOLHIDA. PAGAMENTO MEDIANTE EXPEDIÇÃO DE PRECATÓRIO. FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS. ART. 85, § 7º, DO CPC/2015. CABIMENTO. EXCLUSÃO DA PARCELA INCONTROVERSA DO CRÉDITO.
+1. A jurisprudência do STJ é no sentido de que, de acordo com o disposto no art. 85, § 7º, do CPC/2015, é cabível a fixação de honorários advocatícios desde que impugnado o pedido de cumprimento de sentença pela Fazenda Pública, excetuada da base de cálculo apenas eventual parcela incontroversa do crédito.
+2. Na espécie, tem-se que a impugnação foi parcialmente acolhida, pelo que fazem jus os exequentes à verba honorária incidente sobre o valor impugnado e, afinal, reconhecido como devido.
+3. Agravo Interno não provido.
+Alega o Embargante a existência de dissenso em relação aos precedentes firmados pela 1ª Turma desta Corte, no julgamento do Agravo Interno em Recurso Especial n. 1.880.935/RS, bem como pela 2ª Turma, nos Agravos Internos em Recurso Especial ns. 1.881.288/RS, 1.818.321/RS, 1.889.664/RS, e 1.892.887/RS.
+Nas razões recursais, sustenta, em síntese, o cabimento da fixação de honorários recursais no cumprimento de sentença em face da Fazenda Pública, no qual haja expedição de precatório, nos termos do art. 85, § 7º, do Código de Processo Civil de 2015.
+Requer, ao fim, o provimento dos presentes embargos para a uniformização da jurisprudência, reformando o acórdão embargado.
+Sem impugnação.
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte, na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Nos termos do disposto nos arts. 34, XVIII e 266-C, do Regimento Interno desta Corte Superior, o Relator está autorizado a indeferir, liminarmente, os Embargos de Divergência quando intempestivos ou não configurado o dissenso ou negar-lhes provimento caso a tese deduzida no recurso seja contrária a fixada em julgamento de recurso repetitivo ou de repercussão geral, ou ainda, em incidente de assunção de competência, a Súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, a jurisprudência dominante acerca do tema.
+Quanto aos acórdãos apontados como paradigma, prolatados nos julgamentos dos Agravos Internos em Recurso Especial ns. 1.818.321/RS, 1.889.664/RS, 1.881.288/RS, e 1.892.887/RS, observo que estes foram julgados pela 2º Turma, assim como o acórdão embargado.
+Entretanto, a divergência entre acórdãos proferidos pela mesma Turma julgadora não permite a oposição do presente recurso, a não ser que sua composição tenha sofrido alteração em mais da metade se seus membros, consoante previsto nos arts. 1.043, § 3º, do Código de Processo Civil de 2015, e 266, § 3º, do Regimento Interno desta Corte, com redação dada pela Emenda Regimental n. 22/2016, o que não ocorreu no caso.
+Nesse sentido:
+PROCESSUAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA. ACÓRDÃO ORIUNDO DA MESMA TURMA PROLATORA DO ARESTO EMBARGADO. POSSIBILIDADE COM O ADVENTO DO NCPC. PRETENSÃO DE REDISCUSSÃO DE REGRA TÉCNICA DE CONHECIMENTO RECURSAL. INVIABILIDADE.
+1. Os embargos de divergência pressupõem a similitude fático-jurídica entre os julgados confrontados, com a menção de pontos que identifiquem ou aproximem os acórdãos paragonado e paradigma.
+2. A teor do § 3º do art. 1.043 do Novo Código de Processo Civil, são cabíveis "embargos de divergência quando o acórdão paradigma for da mesma turma que proferiu a decisão embargada, desde que sua composição tenha sofrido alteração em mais da metade de seus membros".
+3. Todavia, a jurisprudência desta Corte não admite a oposição de embargos de divergência para rediscutir regras técnicas de conhecimento recursal.
+Agravo regimental improvido.
+(AgRg nos EREsp 1.459.396/MG, Rel. Ministro HUMBERTO MARTINS, CORTE ESPECIAL, julgado em 07/06/2017, DJe 14/06/2017).
+Além disso, no que toca ao julgado oriundo da 1ª Turma deste Tribunal Superior - Agravo Interno em Recurso Especial n. 1.880.935/RS -, observo ausência de similitude fático-jurídica entre os acórdãos recorrido e paradigma.
+Com efeito, a Embargante busca reformar acórdão no qual foi afastada a condenação em honorários advocatícios, nos moldes do art. 85, § 7º, do CPC/2015, relativamente à parte do cumprimento de sentença não impugnada pela Fazenda Pública (fl. 658e).
+Por sua vez o acórdão paradigma analisou o cabimento do pagamento dos honorários na hipótese em que efetivamente impugnado o cumprimento de sentença, como espelha a própria ementa do julgado:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO ESTADUAL. EXECUÇÃO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. IMPUGNAÇÃO OFERTADA PELO DEVEDOR. PAGAMENTO MEDIANTE EXPEDIÇÃO DE PRECATÓRIO. FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS. CABIMENTO. ART. 85, § 7º, DO CPC/2015.
+1. É cabível a condenação em honorários advocatícios no cumprimento de sentença contra a Fazenda Pública cujo pagamento ocorrerá através do regime de precatório, na hipótese de apresentação de impugnação pelo devedor, em observância ao art. 85, § 7º, do CPC/2015.
+2. Agravo interno não provido.
+Com efeito, o dissídio capaz de ensejar a interposição dos embargos é aquele que se verifica em hipóteses equivalentes, devendo ser demonstrado que em situações idênticas foram dadas soluções meritórias dissonantes, consoante os julgados assim ementados:
+AGRAVO REGIMENTAL. EMBARGOS DE DIVERGÊNCIA EM EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM RECURSO ESPECIAL. RECURSO NÃO ADMITIDO POR AUSÊNCIA DE SIMILITUDE FÁTICA ENTRE ARESTOS RECORRIDO E PARADIGMAS. NÃO CABIMENTO DOS EMBARGOS DE DIVERGÊNCIA.
+1. Nos termos da jurisprudência reiterada desta Corte Superior, a admissibilidade dos embargos de divergência está atrelada à demonstração de que os arestos confrontados partiram de similar contexto fático para atribuir conclusões jurídicas dissonantes.
+2. Na espécie, o acórdão embargado reconheceu a existência de omissões que deveriam ser sanadas pela instância a quo, asseverando que "a decisão embargada determinou o retorno dos autos para que se profira nova decisão nos Embargos de Declaração, prejudicadas as demais questões suscitadas no Especial. Ressalto que outros temas levantados no Especial serão apreciados após análise da Corte local sobre pontos considerados omissos".
+3. Por sua vez, os acórdãos apontados como paradigmas não reconheceram a possibilidade de manifestação acerca da litigância de má-fé antes que o Tribunal de origem se manifeste sobre pontos reconhecidos como omissos pela Corte Superior de Justiça. Em nenhum dos acórdãos paradigmas houve o reconhecimento da ofensa ao art.
+535 do Código de Processo Civil. O que se deu foi o reconhecimento da litigância de má-fé exatamente porque não seria mais necessária a baixa dos autos à instância inferior, a fim de que ela integrasse o acórdão. Trata-se, por óbvio, de questão prévia, sob pena de se criar um tumulto processual desnecessário.
+4. Com efeito, a divergência que enseja a abertura da presente via recursal - destinada a espancar possível dissídio no âmbito desta Corte Superior, cuja principal função, afinal, é justamente a uniformização da interpretação do direito federal infraconstitucional - é aquela estabelecida em hipóteses análogas, vale dizer: deve-se demonstrar que, diante de situações fático-jurídicas semelhantes, as soluções dadas não foram as mesmas.
+Assim, repele essa ideia a tentativa de comparar situações que, a despeito de trazerem resultados diversos, não guardam semelhança entre as bases fático-processuais que foram consideradas para se alcançar tais conclusões.
+5. Mostra-se evidente a impropriedade dos presentes embargos de divergência, na medida em que não se demonstrou a existência de situações idênticas julgadas por esta Corte de Justiça de modo dissonante.
+6. Agravo regimental a que se nega provimento.
+(AgRg nos EREsp 1291148/PR, Rel. Ministro OG FERNANDES, CORTE ESPECIAL, julgado em 26/02/2015, DJe 11/03/2015 - destaque meu).
+Posto isso, com fundamento nos arts. 34, XVIII, e 266-C do Regimento Interno desta Corte, INDEFIRO os Embargos de Divergência.
+Publique-se. Intimem-se.
