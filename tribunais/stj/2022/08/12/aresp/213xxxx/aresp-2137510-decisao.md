@@ -1,0 +1,27 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto por ELIO CASTELHANO contra decisão que não admitiu recurso especial com base no óbice da Súmula n. 211 do STJ.
+Impugnada especificamente a decisão, conheço do agravo e passo à análise do recurso especial.
+O instrumento recursal foi manejado, com amparo nas alíneas "a" e "c" do permissivo constitucional, em oposição a acórdão assim ementado (e-STJ, fl. 287):
+APELAÇÃO CÍVEL - AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS - SUSPENSÃO DO FORNECIMENTO DE ÁGUA EM PERÍODO DE EMERGÊNCIA OU CALAMIDADE - INCONSTITUCIONALIDADE INCIDENTAL DA LEI MUNICIPAL DE TRÊS LAGOAS N.3.652/2020 - VÍCIO DE INICIATIVA - ATO ILÍCITO OU FALHA NA PRESTAÇÃO DO SERVIÇO NÃO CONFIGURADOS - NOTIFICAÇÃO PRÉVIA DO CONSUMIDOR ACERCA DA SUSPENSÃO DOS SERVIÇOS - DANO MORAL INDEVIDO - SENTENÇA MANTIDA - RECURSO CONHECIDO E NÃO PROVIDO.
+É inconstitucional a Lei Municipal n.3.652 de 07/04/2020, do Município de Três Lagoas, conforme reconhecido no julgamento do Incidente De Arguição de Inconstitucionalidade Cível n. 0805523-86.2020.8.12.0021, pelo Órgão Especial deste Tribunal de Justiça, diante do vício de iniciativa do Poder Legislativo Municipal, em violação ao disposto no art. 67, § 1º, II, da Constituição Estadual e art. 61, § 1º, II, da Constituição Federal.
+Não prospera a alegação de ausência de notificação prévia, se o consumidor foi notificado na própria fatura acerca do débito e a possibilidade de interrupção do fornecimento de água. Uma vez que não há ilicitude na conduta da empresa ré, não há se falar no dever de indenizar.
+Os embargos de declaração opostos pela parte foram rejeitados (e-STJ, fls. 300-304).
+Nas razões do especial, o recorrente alega violação do art. 4º, I e II, do Código de Defesa do Consumidor (CDC) e 1.029, II, do Código de Processo Civil (CPC).
+Aduz que a recorrida atuou de forma ilegal ao realizar a interrupção do serviço de água ao recorrente sem realizar o aviso prévio.
+É o relatório.
+Verifico que os dispositivos indicados pela parte não foram objeto de análise pela Corte local. Ademais, a parte não aponta no recurso especial contrariedade ao art. 1.022 do CPC, para que se pudesse verificar eventual omissão.
+Desse modo, carece o tema do indispensável prequestionamento viabilizador do recurso especial, motivo pelo qual não merece ser apreciado, consoante o que preceituam as Súmulas n. 282 e 356 do Supremo Tribunal Federal.
+No aspecto:
+PROCESSUAL CIVIL. ADMINISTRATIVO. ESTAGIÁRIO. BOLSA-AUXÍLIO. FUNDAÇÃO DE DIREITO PRIVADO. PRESCRIÇÃO DECENAL. DEU-SE PROVIMENTO AO RECURSO ESPECIAL PARA AFASTAR A PRESCRIÇÃO. APLICAÇÃO DAS REGRAS DO CÓDIO CIVIL.
+I - Na origem, trata-se de agravo de instrumento interposto por Eduardo França Ortiz contra a decisão que negou o arbitramento de honorários advocatícios no cumprimento de sentença. No Tribunal a quo, a decisão foi mantida. Nesta Corte, conheceu-se do agravo para não conhecer do recurso especial.
+II - A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+III - Nesse sentido: AgRg nos EREsp n. 554.089/MG, relator Ministro Humberto Gomes de Barros, Corte Especial, DJ de 29/8/2005; AgInt no AREsp n. 1.264.021/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 1º/3/2019; e REsp n. 1.771.637/PR, relator Ministro Herman Benjamin, Segunda Turma, DJe de 4/2/2019.
+IV - Os dispositivos legais sob os quais teria havido o dissídio jurisprudencial não foram examinados pela Corte de origem, tampouco foram opostos embargos de declaração para tal fim.
+V - Reconhecida a ausência de prequestionamento da norma objeto da divergência jurisprudencial, inviável a demonstração do referido dissenso em razão da inexistência de identidade entre os arestos confrontados, requisito indispensável ao conhecimento do recurso especial pela alínea "c". Nesse sentido: (EDcl no REsp n. 1.274.569/MG, relator Ministro João Otávio de Noronha, Terceira Turma, DJe de 25/8/2014).
+VI - Agravo interno improvido.
+(AgInt no AREsp n. 1.536.599/SP, relatorMinistro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 15/4/2021).
+Prejudicada a análise do dissídio jurisprudencial em razão da ausência de prequestionamento da matéria.
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, c/c o art. 253, parágrafo único, II, "a", do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Aplico o art. 85, § 11, do CPC, nos seguintes moldes: 1) no caso de ter sido aplicado, na origem, o art. 85, § 3º, elevo os honorários ao percentual máximo da faixa respectiva; 2) no caso de ter sido utilizado, na origem, o art. 85, § 2º, adiciono 10 (dez) pontos percentuais à alíquota aplicada a título de honorários advocatícios, não podendo superar o teto previsto na referida norma; e 3) em se tratando de honorários arbitrados em montante fixo, majoro-os em 10% (dez por cento). Ficam observados os critérios previstos no § 2º do referido dispositivo legal, ressalvando-se que, no caso de eventual concessão da gratuidade da justiça, a cobrança será regulada pelos arts. 98 e seguintes do CPC.
+Publique-se. Intimem-se.
