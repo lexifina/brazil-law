@@ -1,0 +1,25 @@
+DECISÃO
+Vistos, etc.
+Trata-se de embargos de divergência interpostos por MARCELO CASSIO AMORIM REBOUCAS em face deacórdão da Quarta Turma do Superior Tribunal de Justiça, da relatoria do Ministro Luis Felipe Salomão, assim ementado:
+AGRAVO INTERNO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. INSUFICIÊNCIA DE PATRIMÔNIO. NULIDADE POR NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. VIOLAÇÃO DE LEI FEDERAL. ELEMENTO DE FUNDAMENTAÇÃO INSUFICIENTE. NÃO COMPROVAÇÃO DE ABUSO DE PERSONALIDADE, CARACTERIZADO PELO DESVIO DE FINALIDADE OU CONFUSÃO PATRIMONIAL. AUSÊNCIA DOS REQUISITOS AUTORIZADORES. INTELIGÊNCIA DO ART. 50 DO CCB. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há que falar em violação aos arts. 489 e 1.022 Código de Processo Civil/15 quando a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido diverso à pretensão da parte recorrente.
+2. A desconsideração da personalidade jurídica é medida de caráter excepcional que somente pode ser decretada após a análise, no caso concreto, da existência de vícios que configurem abuso de direito, caracterizado por desvio de finalidade ou confusão patrimonial, requisitos que não se presumem em casos de mera insolvência. Precedentes.
+3. A inexistência ou não localização de bens da pessoa jurídica não é condição para a instauração do procedimento que objetiva a desconsideração, por não ser sequer requisito para aquela declaração, já que imprescindível a demonstração específica da prática objetiva de desvio de finalidade ou de confusão patrimonial.
+4. Agravo interno não provido. (e-STJ, fl. 1.223)
+O embargante insurge-se contra o acórdão embargado em razão da divergência com os julgados proferidos noAgRg no Agravo de Instrumento nº 668.190/SP,no REsp nº 1.259.066/SP, noAREsp nº884.683/SP, no AgInt no REsp nº1.920.967/SP eno AgInt no REsp nº1.829.671/SP, todosproferidos pela3ª Turma.
+Alega que resolver acerca da regularidade ou irregularidade do encerramento da pessoa jurídica é vedado a esta Corte, uma vez quedemandaria o reexame de fatos e provas dos autos, obstaculizado pela Súmula 7/STJ.
+A impugnação foi apresentada (e-STJ, fls. 1.303/1.339).
+É o relatório.
+Decido.
+Osembargos de divergênciamanejados pela parte litigante são manifestamente inadmissíveis.
+Nos termos do art. 1.043 do Código de Processo Civil e do art. 266 do Regimento Interno do Superior Tribunal de Justiça, osembargos de divergênciasão cabíveis contra acórdão que, em recurso especial, divergir do julgamento de qualquer outro órgão do tribunal, sendo ambos os acórdãos, embargado ou paradigma, de mérito - seja de natureza processual seja material -, ou quando embora, não conhecendo do recurso, tenham apreciado a controvérsia.
+Esse recurso, portanto, tem por escopo "(..) uniformizar a jurisprudência do Tribunal ante a adoção de teses conflitantes pelos seus órgãos fracionários, cabendo ao embargante a comprovação do dissídio pretoriano nos moldes estabelecidos no art. 266, § 4º, do RISTJ" (AgInt nos EREsp 1.508.921/PE, Rel. Ministro OG FERNANDES, CORTE ESPECIAL, julgado em 15/02/2017, DJe 21/02/2017), sendo, todavia, "(..) incabível para o reexame deregra técnicadeadmissibilidaderecursal"(AgInt nos EAREsp 599.145/RS, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 17/05/2017, Dje 30/05/2017).
+Na hipótese, da leitura do recurso apresentado, depreende-se que a parte embargante,relativamente à revisão dos requisitos necessários para configuração ou não da desconsideração da personalidade jurídica, alega apenas aimpossibilidade de revaloração jurídica de matéria fático-probatória, não apontando a existência de um dissídio jurisprudencial propriamente dito, restringindo-se a buscar, por meio da repetição de argumentos relacionadosàadmissibilidadedo recurso especial (incidência da súmula 07/STJ ao caso), a reforma do acórdão embargado da 4ª Turma.
+Cumpre apenas ressaltar, nesse contexto, que a "(..) finalidade dosembargos de divergênciaé a uniformização da jurisprudência do Tribunal, não sendo um recurso a mais nem se prestando para a correção de eventual equívoco ou violação que possa ter ocorrido no julgamento do recurso especial" (AgInt nos EREsp 1.481.225/RS, Rel. Ministro JOÃO OTÁVIO DE NORONHA, CORTE ESPECIAL, julgado em 17/08/2016, DJe 30/08/2016).
+Ademais, consoante pode se verificar das razões apresentadas pelo embargante,são incabíveis embargos de divergência quando o acórdão embargado adentra ao mérito e os paradigmas não, como na espécie.
+Sendo assim, nota-se não ter a parte embargante demonstrado que existe divergência jurisprudencial qualquer a ser dirimida, faltando a identidade de objeto necessária à caracterização da divergência jurisprudencial, o que corrobora para obstar o conhecimento do recurso.
+Ante o exposto, com fulcro no art. 266-C, do RISTJ, indefiroos embargos de divergência.
+Intimem-se.
+EMENTA
+EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. PROCESSUAL CIVIL. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO.REDISCUSSÃO DEREGRA TÉCNICADEADMISSIBILIDADERECURSAL. INVIABILIDADE.
+EMBARGOS DE DIVERGÊNCIA INDEFERIDOS.
