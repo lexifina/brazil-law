@@ -1,0 +1,8 @@
+DECISÃO
+Perdeu o objeto o presente habeas corpus impetrado em benefício de Geneson Cavalcante da Silva contra acórdão proferido pela Sexta Câmara de Direito Criminal do Tribunal de Justiça de São Paulonos autos da Apelação n. 0001561-06.2016.8.26.0097, que deu parcial provimento ao recurso ministerial para aumentar a reprimenda do réu para 5 anos e 10 meses de reclusão, em regime inicial fechado, e pagamento de 583 dias-multa (fls. 48/54).
+Isso porque, segundo informações obtidas no endereço eletrônico do Tribunal de origem, sobreveio superveniente julgamento procedenteda Revisão Criminal n. 2300410-53.2020.8.26.0000 ajuizada em favor do ora paciente, para fins de aplicar o redutor do art. 33, § 4º, da Lei n. 11.343/2006 e reduzir a penaimposta para 1 ano e 8 meses de reclusão, em regime inicial aberto, além do pagamento de 166 dias-multa, bem como substituir a pena privativa de liberdade por uma restritiva de direito, consistente em prestação de serviços à comunidade, pelo prazo da pena substituída, com determinação de expedição do alvará de soltura.
+À vista, pois, da nova realidade fática, julgo prejudicado o presente writ.
+Publique-se.
+EMENTA
+HABEAS CORPUS. CRIME DE TRÁFICO DE DROGAS. CONDENAÇÃO EM PRIMEIRA INSTÂNCIA. REFORMA EM SEDE DE APELAÇÃO. PLEITO DE DOSIMETRIA DA PENA. SUPERVENIENTE JULGAMENTO DA REVISÃO CRIMINAL (N. 2300410-53.2020.8.26.0000). PROCEDÊNCIA. APLICAÇÃO DA MINORANTE PREVISTA NO § 4º DO ART. 33 DA LEI N. 11.343/2006 (PERCENTUAL DE 2/3). MODIFICAÇÃO DO REGIME PRISIONAL PARA O ABERTO. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITO. EXPEDIÇÃO DO ALVARÁ DE SOLTURA. RELEVANTE ALTERAÇÃO DO CENÁRIO FÁTICO-PROCESSUAL. PERDA DE OBJETO.
+Writ prejudicado.
