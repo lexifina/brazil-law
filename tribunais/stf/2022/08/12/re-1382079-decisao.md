@@ -1,0 +1,57 @@
+Decisão: Trata-se de recurso extraordinário contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, ementado nos seguintes termos:
+
+    “APELAÇÃO. DIREITO CONSTITUCIONAL E ADMINISTRATIVO. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. EMBARGOS À EXECUÇÃO. NO QUE SE REFERE AOS JUROS E CORREÇÃO MONETÁRIA E À INCIDÊNCIA DA REDAÇÃO DO ARTIGO 1º-F DA LEI Nº 9.494/97 DADA PELA LEI Nº 11.960/09, A DECISÃO ATACADA MERECE PEQUENO REPARO. ARTIGO 5º DESTE ÚLTIMO DIPLOMA DECLARADO INCONSTITUCIONAL PELO SUPREMO TRIBUNAL FEDERAL. DECLARAÇÃO DE INCONSTITUCIONALIDADE REFERENTE AOS JUROS DE MORA QUE SE APLICA APENAS A DÍVIDAS DE NATUREZA TRIBUTÁRIA. QUANTO AOS JUROS MORATÓRIOS INCIDENTES SOBRE CONDENAÇÕES ORIUNDAS DE RELAÇÃO JURÍDICA NÃO TRIBUTÁRIA, COMO É O CASO DA DEMANDA EM ANÁLISE, A DECISÃO PREVIU QUE FOSSEM OBSERVADOS OS ÍNDICES OFICIAIS DE REMUNERAÇÃO BÁSICA E JUROS APLICADOS À CADERNETA DE POUPANÇA. NO QUE SE REFERE À CORREÇÃO MONETÁRIA, O SUPREMO TRIBUNAL FEDERAL SE MANIFESTOU APENAS QUANTO ÀS REGRAS PARA A ATUALIZAÇÃO DOS VALORES DE PRECATÓRIOS, FALTANDO AINDA UM PRONUNCIAMENTO EXPRESSO QUANTO ÀS REGRAS DE CORREÇÃO MONETÁRIA NA FASE RELATIVA ÀS CONDENAÇÕES. NECESSIDADE DE MODIFICAÇÃO DA SENTENÇA TÃO-SOMENTE NA PARTE RELATIVA À INCIDÊNCIA DOS JUROS DE MORA, A FIM DE QUE SE SUBMETA, A PARTIR DE 30 DE JUNHO DE 2009, À SISTEMÁTICA DO ARTIGO 1º-F DA LEI Nº 9.494/97, DEVENDO SER MANTIDO O CRITÉRIO DE CORREÇÃO MONETÁRIA FIXADO NO TÍTULO EXECUTIVO JUDICIAL. APLICABILIDADE IMEDIATA. INEXISTÊNCIA DE OFENSA À COISA JULGADA. POSSIBILIDADE DE EXPEDIÇÃO DE PRECATÓRIO DO VALOR INCONTROVERSO. OBSERVÂNCIA DO TETO REMUNERATÓRIO CONSTITUCIONAL. PRETENSÃO DE RATEIO NOS ÔNUS DA SUCUMBÊNCIA. JULGAMENTO DO AGRAVO NO RECURSO ESPECIAL DESFAVORÁVEL. IMPROCEDÊNCIA DA PRETENSÃO. SUCUMBÊNCIA TOTAL. HONORÁRIOS ADVOCATÍCIOS ADEQUADAMENTE FIXADOS. RECURSO PARCIALMENTE PROVIDO”. (eDOC 22, p. 2)
+
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação aos arts. 5°, LV, e 102, § 2°, do texto constitucional. (eDOC 27)
+
+    Nas razões recursais alega-se que é necessário o sobrestamento do presente processo para a aplicação do tema 810 da Repercussão Geral, afirmando-se que este “egrégio Supremo Tribunal Federal reconheceu a existência de repercussão geral da questão constitucional abordada no presente recurso, referente ao regime de atualização monetária e juros moratórios incidentes sobre as condenações judiciais da Fazenda Pública (artigo 1º-F, da Lei nº 9494/97, com a redação dada pelo artigo 5º, da Lei nº 11.960/2009), em sede do Recurso Extraordinário nº 870947 RG/SE – tema 810”.
+
+    Destaca-se que deve ser aplicada a TR a partir de 30.6.2009, pois a presente execução se relaciona à período anterior a 25.3.2015. Argumenta-se que “a correção monetária deve ser adequada às alterações legislativas ocorridas ao longo do período da execução. E a razão para isso está em que, tratando-se de relação de trato sucessivo, deve-se respeitar a sucessão de leis no tempo, de forma a incidir o percentual de juros vigente ao tempo da mora, isto é, no momento de cada vencimento”, e que, por isso, “não há se falar em qualquer violação à coisa julgada na alteração do índice de atualização do débito, em função de modificação da legislação de regência dos consectários da mora depois do trânsito em julgado. Trata-se de mera observância do princípio da imperatividade da lei”.
+
+    Ressalta-se o entendimento firmado nesta Corte quando do julgamento das ADIs 4425 e 4357. Conclui-se pela não aplicação do índice IPCA-E após 2015, pois o julgado do STF se refere apenas aos precatórios.
+
+    Com relação ao teto constitucional, destaca-se que ele “incide sobre a totalidade da remuneração do servidor, seja ela eventual ou permanente, a omissão do restante da remuneração na planilha do Sr. Perito afasta a incidência do teto constitucional nas hipóteses em que ele deveria incidir, isto é, nos casos em que a remuneração total, acrescida dos 24%, supere o limite estipendial”.
+
+    Inicialmente, a Presidência da Corte de origem deixou de admitir o recurso extraordinário sob o fundamento de que não divergia dos temas 639 e 810 da sistemática da repercussão geral (eDOC. 32).
+
+    Após a interposição de agravo interno, a decisão anterior foi reconsiderada e assim realizado novo juízo de admissibilidade do recurso extraordinário, ocasião em que foi determinado o retorno dos autos para o órgão julgador para um possível juízo de retratação relacionado à aplicação do tema 810 (eDOC 42)
+
+    O órgão julgador proferiu juízo negativo de retratação por considerar que o acórdão não diverge do entendimento firmado nesta Corte. Proferiu-se a seguinte ementa:
+
+    “RECURSOS ESPECIAL E EXTRAORDINÁRIO EM EMBARGOS DE DECLARAÇÃO EM APELAÇÃO CÍVEL. DIREITOS ADMINISTRATIVO E CONSTITUCIONAL. EMBARGOS À EXECUÇÃO. JUROS E CORREÇÃO MONETÁRIA. EM OBSERVÂNCIA ÀS DECISÕES DO PRETÓRIO EXCELSO E RECONHECENDO A NATUREZA ALIMENTAR DO DÉBITO OBJETO DA PRESENTE DEMANDA, A DECISÃO DE PRIMEIRO GRAU FOI MODIFICADA TÃO-SOMENTE NA PARTE RELATIVA À INCIDÊNCIA DOS JUROS DE MORA, A FIM DE QUE SE SUBMETA, A PARTIR DE 30 DE JUNHO DE 2009, À SISTEMÁTICA DO ARTIGO 1º-F, DA LEI Nº 9.494/97, DEVENDO SER MANTIDO O CRITÉRIO DE CORREÇÃO MONETÁRIA FIXADO NO TÍTULO EXECUTIVO JUDICIAL. POSSIBILIDADE DE EXPEDIÇÃO DE PRECATÓRIO DO VALOR INCONTROVERSO. CONTROVÉRSIA INSTAURADA COM A EDIÇÃO DA LEI Nº 1.206/87, QUE EM SEU ARTIGO 5º, EXCLUIU OS SERVENTUÁRIOS DA JUSTIÇA DO REAJUSTE DE 70,5% CONCEDIDOS AOS DEMAIS SERVIDORES ESTADUAIS. NORMA DECLARADA INCONSTITUCIONAL NOS MOLDES DA DECISÃO PROFERIDA NO MANDADO DE SEGURANÇA Nº 583/87, REITERADO PELO SUPREMO TRIBUNAL FEDERAL. RECENTEMENTE, O PRETÓRIO EXCELSO POSICIONOU-SE, TAMBÉM, EM RELAÇÃO À INCIDÊNCIA DOS ÍNDICES OFICIAIS DE REMUNERAÇÃO BÁSICA E JUROS APLICADOS À CADERNETA DE POUPANÇA, NAS CONDENAÇÕES IMPOSTAS À FAZENDA, ORIUNDAS DE RELAÇÃO JURÍDICA DE NATUREZA NÃO-TRIBUTÁRIA. TEMA Nº 810. A HIPÓTESE DOS PRESENTES AUTOS NÃO DIVERGE DOS POSICIONAMENTOS DAS CORTES SUPERIORES. SERVIDORA QUE FAZ PARTE DA AÇÃO ORIGINÁRIA, PROC. 0024210-36.1988.8.19.0001, TRANSITADA EM JULGADO, NA QUAL FOI RECONHECIDA A RECOMPOSIÇÃO SALARIAL. MANUTENÇÃO DO ACÓRDÃO, EM JUÍZO DE RETRATAÇÃO”. (eDOC 44)
+
+    Em novo juízo de admissibilidade, o recurso extraordinário foi admitido e remetido para esta Corte (eDOC. 46).
+
+    É o relatório.
+
+    Decido.
+
+    A irresignação não merece prosperar.
+
+    Inicialmente, registre-se que foram julgados os embargos de declaração opostos no RE 870.947, paradigma do tema 810 da repercussão geral. Na ocasião, rejeitou-se a modulação de efeitos da decisão, tendo sido ratificado o entendimento quanto à inaplicabilidade do índice previsto da Lei nº 9.494/97 no período compreendido entre o ano de 2009 e 2015, nos seguintes termos:
+
+    “QUATRO EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE VÍCIOS DE FUNDAMENTAÇÃO NO ACÓRDÃO EMBARGADO. REJEIÇÃO. REQUERIMENTO DE MODULAÇÃO DE EFEITOS INDEFERIDO. 1. O acórdão embargado contém fundamentação apta e suficiente a resolver todos os pontos do Recurso Extraordinário. 2. Ausentes omissão, contradição, obscuridade ou erro material no julgado, não há razão para qualquer reparo. 3. A respeito do requerimento de modulação de efeitos do acórdão, o art. 27 da Lei 9.868/1999 permite a estabilização de relações sociais surgidas sob a vigência da norma inconstitucional, com o propósito de prestigiar a segurança jurídica e a proteção da confiança legítima depositada na validade de ato normativo emanado do próprio Estado. 4. Há um juízo de proporcionalidade em sentido estrito envolvido nessa excepcional técnica de julgamento. A preservação de efeitos inconstitucionais ocorre quando o seu desfazimento implica prejuízo ao interesse protegido pela Constituição em grau superior ao provocado pela própria norma regra, não se admite o prolongamento da vigência da norma sobre novos fatos ou relações jurídicas, já posteriores à pronúncia da inconstitucionalidade, embora as razões de segurança jurídica possam recomendar a modulação com esse alcance, como registra a jurisprudência da CORTE. 5. Em que pese o seu caráter excepcional, a experiência demonstra que é próprio do exercício da Jurisdição Constitucional promover o ajustamento de relações jurídicas constituídas sob a vigência da legislação invalidada, e essa CORTE tem se mostrado sensível ao impacto de suas decisões na realidade social subjacente ao objeto de seus julgados. 6. Há um ônus argumentativo de maior grau em se pretender a preservação de efeitos inconstitucionais, que não vislumbro superado no caso em debate. Prolongar a incidência da TR como critério de correção monetária para o período entre 2009 e 2015 é incongruente com o assentado pela CORTE no julgamento de mérito deste RE 870.947 e das ADIs 4357 e 4425, pois virtualmente esvazia o efeito prático desses pronunciamentos para um universo expressivo de destinatários da norma. 7. As razões de segurança jurídica e interesse social que se pretende prestigiar pela modulação de efeitos, na espécie, são inteiramente relacionadas ao interesse fiscal das Fazendas Públicas devedoras, o que não é suficiente para atribuir efeitos a uma norma inconstitucional. 8. Embargos de declaração todos rejeitados. Decisão anteriormente proferida não modulada”. (RE 870947 ED, Rel. Min. Luiz Fux, Redator do Acórdão Min. Alexandre de Moraes, Tribunal Pleno, DJe 3.2.2020)
+
+    No caso dos autos, o Tribunal de origem, seguindo referido entendimento afastou o disposto no art. 1º-F, da Lei nº 9.494/1997, aplicando índice diverso para a correção monetária. Confira-se o seguinte trecho do acórdão recorrido:
+
+    “(...)
+
+    Dessa forma, em observância às citadas decisões do Pretório Excelso e reconhecendo a natureza alimentar do débito objeto da presente demanda, conclui-se que a decisão de primeiro grau deve ser modificada tão-somente na parte relativa à incidência dos juros de mora, a fim de que se submeta, a partir de 30 de junho de 2009, à sistemática do artigo 1º-F da Lei nº 9.494/97, devendo ser mantido o critério de correção monetária fixado no título executivo judicial”. (eDOC 22, p. 5)
+
+    Assim, verifica-se que a orientação do Tribunal de origem, no que se refere à correção monetária, converge com a jurisprudência desta Corte, que assentou a inconstitucionalidade da aplicação da TR nas condenações da Fazenda Pública.
+
+    Confira-se a propósito o seguinte precedente:
+
+    EMENTA: DIREITO CONSTITUCIONAL E ADMINISTRATIVO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. CONDENAÇÃO DA FAZENDA PÚBLICA. CRITÉRIO DE CORREÇÃO MONETÁRIA. TEMA 810. ACÓRDÃO RECORRIDO ALINHADO COM A JURISPRUDÊNCIA DESTA SUPREMA CORTE. MODULAÇÃO DE EFEITOS. INOCORRÊNCIA. 1. O acórdão recorrido não diverge da jurisprudência sedimentada, pelo Plenário do Supremo Tribunal Federal, no julgamento do RE 870.947-RG, Tema 810. 2. Não houve modulação de efeitos da declaração parcial de inconstitucionalidade do art. 1º-F da Lei 9.494/1997, na redação dada pela Lei 11.960/2009. 3. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não houve prévia fixação de honorários advocatícios. 4. Agravo interno a que se nega provimento. (ARE 1004554 AgR, Rel. Min. ROBERTO BARROSO, Primeira Turma, DJe 23.6.2020)
+
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do CPC, c/c art. 21, §1º, do RISTF).
+
+    Publique-se.
+
+    Brasília, 12 de agosto de 2022.
+
+Ministro Gilmar Mendes
+
+Relator
+
+Documento assinado digitalmente
