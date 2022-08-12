@@ -1,0 +1,53 @@
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. DIREITO PENAL. INSURGÊNCIA CONTRA CONDENAÇÃO TRANSITADA EM JULGADO. MANEJO DO WRIT COMO REVISÃO CRIMINAL. DESCABIMENTO. ART. 105, INCISO I, ALÍNEA E, DA CONSTITUIÇÃO FEDERAL. AUSÊNCIA DE ILEGALIDADE PATENTE APTA A ENSEJAR A CONCESSÃO DA ORDEM, DE OFÍCIO. AGRAVO DESPROVIDO.
+1. Não deve ser conhecido o writ que se volta contra acórdão condenatório já transitado em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte. Nos termos do art. 105, inciso I, alínea e, da Constituição Federal, compete ao Superior Tribunal de Justiça, originariamente, "as revisões criminais e as ações rescisórias de seus julgados". Precedentes da Quinta e Sexta Turmas do Superior Tribunal de Justiça.
+2. Ademais, não se constata, no caso, flagrante ilegalidade apta a ensejar a concessão de habeas corpus de ofício, pois, afastar a conclusão das instâncias de origem quanto à condenação pelo crime previsto no art. 171, caput, do Código Penal, demandaria aprofundado exame do conjunto fático-probatório dos autos, o que não se mostra possível no âmbito estreito do habeas corpus.
+3. Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo regimental, nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Olindo Menezes (Desembargador Convocado do TRF 1ª Região) votaram com a Sra. Ministra Relatora.
+RELATÓRIO
+A EXMA. SRA. MINISTRA LAURITA VAZ:
+Trata-se de agravo regimental interposto por ROSANGELA AMOY contra a decisão monocrática que proferi às fls. 81-84, assim ementada:
+"HABEAS CORPUS. PENAL. PROCESSUAL PENAL. INSURGÊNCIA CONTRA CONDENAÇÃO TRANSITADA EM JULGADO. MANEJO DO WRIT COMO REVISÃO CRIMINAL. DESCABIMENTO. ART. 105, INCISO I, ALÍNEA E, DA CONSTITUIÇÃO FEDERAL. AUSÊNCIA DE ILEGALIDADE PATENTE APTA A ENSEJAR A CONCESSÃO DA ORDEM, DE OFÍCIO. PETIÇÃO INICIAL INDEFERIDA LIMINARMENTE."
+Consta nos dos autos que, em 25/07/2017, o Juízo da 16.ª Vara Criminal da Comarca do Rio de Janeiro condenou a ora Agravante à pena de 1 (um) ano e 2 (dois) meses de reclusão, em regime aberto, e ao pagamento de 11 (onze) dias-multa, como incursa no art. 171, caput, do Código Penal, com substituição da pena privativa de liberdade por duas restritivas de direitos.
+A Sentenciada interpôs recurso de apelação, que foi desprovido em 03/04/2018 (fls. 30-33).
+No writ, a Parte Impetrante sustentou, em síntese, constrangimento ilegal pela condenação pelo crime de estelionato. Afirmou que ocorreu violação do princípio do in dubio pro reo, na medida em que existiam dúvidas acerca da autoria e pela ausência do reconhecimento na fase judicial.
+Conforme mencionado, indeferi liminarmente a petição inicial às fls. 81-84, o que ensejou o presente agravo regimental.
+Em suas razões, a Agravante aduz que "não busca a revisão criminal de julgado deste Superior Tribunal de Justiça, a ensejar eventual ação revisional" (fl. 91), mas análise de suposta ilegalidade.
+Sustenta que (fl. 91):
+" ..  o reclamo Especial interposto pela Paciente Rosangela Amoy, nos autos da ação penal, não foi admitido por intempestividade recursal, mesmo tendo sido certificada a tempestividade pela Terceira Vice-Presidência do Tribunal de Justiça do Estado do Rio de Janeiro (doc. anexado), que remeteu os autos para processamento e julgamento para esta Corte Superior, sendo autuado como AREsp nº 1515884/RJ (2019/0163968-7), não havendo, dessa forma, como se propor a esta Corte Superior que reveja algo que não se submeteu a julgamento, motivo pelo qual se impetrou o habeas corpus, visando a coarctar ilegalidade no acórdão condenatório."
+Repisa a existência de fragilidade probatória para fundamentar a condenação.
+Requer a submissão do agravo regimental ao Colegiado para que ocorra o provimento e, por conseguinte, a concessão do habeas corpus para anular o acórdão condenatório.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. DIREITO PENAL. INSURGÊNCIA CONTRA CONDENAÇÃO TRANSITADA EM JULGADO. MANEJO DO WRIT COMO REVISÃO CRIMINAL. DESCABIMENTO. ART. 105, INCISO I, ALÍNEA E, DA CONSTITUIÇÃO FEDERAL. AUSÊNCIA DE ILEGALIDADE PATENTE APTA A ENSEJAR A CONCESSÃO DA ORDEM, DE OFÍCIO. AGRAVO DESPROVIDO.
+1. Não deve ser conhecido o writ que se volta contra acórdão condenatório já transitado em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte. Nos termos do art. 105, inciso I, alínea e, da Constituição Federal, compete ao Superior Tribunal de Justiça, originariamente, "as revisões criminais e as ações rescisórias de seus julgados". Precedentes da Quinta e Sexta Turmas do Superior Tribunal de Justiça.
+2. Ademais, não se constata, no caso, flagrante ilegalidade apta a ensejar a concessão de habeas corpus de ofício, pois, afastar a conclusão das instâncias de origem quanto à condenação pelo crime previsto no art. 171, caput, do Código Penal, demandaria aprofundado exame do conjunto fático-probatório dos autos, o que não se mostra possível no âmbito estreito do habeas corpus.
+3. Agravo regimental desprovido.
+VOTO
+A EXMA. SRA. MINISTRA LAURITA VAZ (RELATORA):
+A irresignação não prospera.
+Ao contrário do que alega a parte Agravante, a condenação transitou em jugado em 03/12/2019, conforme consulta aos sites do Tribunal de Justiça do Estado do Rio de Janeiro e do Superior Tribunal de Justiça.
+Dessa forma, indeferi liminarmente a petição inicial porque o writ foi impetrado contra acórdão condenatório já transitado em julgado. Diante dessa situação, não deve ser conhecido o presente writ, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte.
+De fato, nos termos do art. 105, inciso I, alíneae, da Constituição da República, compete ao Superior Tribunal de Justiça, originariamente, "as revisões criminais e as ações rescisórias de seus julgados". Sobre a questão, cito os seguintes precedentes das Turmas que compõem a Terceira Seção desta Corte:
+"HABEAS CORPUS.PENAL. PROCESSO PENAL. HOMICÍDIO. TRÂNSITO EM JULGADO. SUBSTITUTIVO DE REVISÃO CRIMINAL. NÃO INAUGURADA A COMPETÊNCIA DO STJ. SUPRESSÃO. NULIDADE. AUSÊNCIA DE INTIMAÇÃO PESSOAL DA SENTENÇA CONDENATÓRIA. RÉU INDEFESO EM PLENÁRIO. NÃO OCORRÊNCIA.HABEAS CORPUSNÃO CONHECIDO.
+1.Ohabeas corpusfoi impetrado contra acórdão do Tribunal de Justiça do Estado de São Paulo transitado em julgado; é, portanto, substitutivo de revisão criminal. Por força do art. 105, I, "e", da Constituição Federal, a competência desta Corte para processar e julgar revisão criminal limita-se às hipóteses de seus próprios julgados. Como não existe, neste Tribunal, julgamento de mérito passível de revisão em relação à condenação sofrida pelo paciente, forçoso reconhecer a incompetência deste Tribunal para o processamento do presente pedido.
+2. Ademais, asquestõesaventadas nestehabeas corpusnão foram sequer objeto de análise pelo Tribunala quo, o que impede também o seu conhecimento nesta Corte Superior, sob pena de indevida supressão de instância, pois até mesmo as nulidades absolutas devem ser objeto de prévio exame na origem a fim de que possam inaugurar a instância extraordinária.
+ ..
+5.Habeas corpusnão conhecido."(HC 288.978/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, Rel. p/ acórdão Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 15/03/2018, DJe 21/05/2018; sem grifos no original.)
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O NARCOTRÁFICO. DOSIMETRIA DE PENA. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS.QUANTUMDE AUMENTO. DISCRICIONARIEDADE DO JULGADOR. CAUSA DE DIMINUIÇÃO DE PENA DO ART. 33, § 4º, DA LEI N. 11.343/2006. INAPLICABILIDADE. CONDENAÇÃO PELO ART. 35 DA LEI DE DROGAS. SENTENÇA TRANSITADA EM JULGADO. INEXISTÊNCIADE FLAGRANTE ILEGALIDADE NA APLICAÇÃO DA REPRIMENDA. HIPÓTESE DE NÃO CONHECIMENTO DOMANDAMUS.MANUTENÇÃO DA DECISÃO POR SEUS PRÓPRIOS FUNDAMENTOS. AGRAVO REGIMENTAL IMPROVIDO.
+ ..
+4.Tratando-se de impetração que se destina a atacar acórdão proferido em sede de apelação criminal, já transitado em julgado, contra o qual seria cabível a interposição de revisão criminal, depara-se com flagrante utilização inadequada da via eleita, circunstância que impede o seu conhecimento.
+ ..
+6. Agravoregimental improvido."(AgRg no HC 486.185/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 23/04/2019, DJe 07/05/2019; sem grifos no original.)
+"AGRAVO REGIMENTAL EM HABEAS CORPUS.WRIT IMPETRADO CONTRA ACÓRDÃO TRANSITADO EM JULGADO, SUBSTITUTIVO DE REVISÃO CRIMINAL. NÃO INAUGURADA A COMPETÊNCIA DO STJ. SUPRESSÃO. INADMISSIBILIDADE. PEDIDO DE CONCESSÃO DEHABEAS CORPUSDE OFÍCIO. DESCABIMENTO. INICIATIVA DO ÓRGÃO JULGADOR. Agravo regimental improvido."(AgRg no HC 494.794/MA, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 02/04/2019, DJe 11/04/2019; sem grifos no original.)
+No mesmo sentido, as seguintes decisões monocráticas: HC 512.674/CE, Rel. Ministro SEBASTIÃO REIS JÚNIOR, DJe 30/05/2019; e HC 482.877/SP, Rel. Ministro JORGE MUSSI, DJe 29/03/2019.
+Registro que não há ilegalidade evidente apta a superar a jurisprudência acima colacionada.
+Na hipótese, o Juízo Singular concluiu que existia comprovação de autoria e de materialidade do crime de estelionato, ao consignar que (fl. 37):
+"Considerando o substrato probatório coligido nos autos, com destaque para a palavra da vítima e documentação de fls. 04/05 e 29/30, o estelionato foi perpetrado na forma da denúncia."
+O Tribunal de Justiça, por sua vez, negou provimento ao apelo, mantendo o decisum, como se observa da seguinte transcrição (fl. 32):
+"Levando-se em conta, então, que nos delitos contra o patrimônio a palavra da vítima é dotada de especial relevância, não pode a simples negativa da ré - sem qualquer suporte probatório - a ela se sobrepor, pelo que a condenação deve ser mantida."
+Nesse contexto, não é possível afastar a conclusão das instâncias de origem quanto à condenação pelo crime previsto no art. 171, caput, do Código Penal, pois tal providência demandaria aprofundado exame do conjunto fático-probatório dos autos, o que não se mostra possível no âmbito estreito do habeas corpus.
+Assim, na ausência de argumento relevante que infirme as razões consideradas no julgado ora agravado, deve ser mantida a decisão que indeferiu liminarmente a petição inicial por seus próprios fundamentos.
+Ante o exposto, NEGO PROVIMENTO ao agravo regimental.
+É o voto.
