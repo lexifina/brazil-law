@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por Alisul Alimentos S.A. contra decisão de fls. 686/689, que não conheceu do recurso especial, sob os seguintes fundamentos: (I) o Tribunal de origem não examinou a controvérsia sob o enfoque dos dispositivos legais apontados como violados (arts. 43, II, do CTN; 9º e 10 LC nº160/2017), nem houve indicação de ofensa ao art. 1.022 do CPC, pelo que, ante a falta do prequestionamento, aplicável a Súmula 211/STJ; (II) discussões sobre a realização equivocada de distinguishing ou sobre supostas interpretações e aplicações errôneas de recurso repetitivo e de repercussão geral encerraram-se na instância originária; e (III) pelos mesmos motivos, segue obstado o recurso especial pela alínea c do permissivo constitucional, sendo certo que não foram atendidas as exigências dos arts. 1.029, § 1º, do CPC e 255, §§ 1º e 2º, do RISTJ.
+O embargante, em suas razões, sustenta que: (i) o art. 1.022 do CPC "foi deveras suscitado nas razões do apelo especial" (fl. 691); e (ii) "as exigências previstas no art. 1.029, § 1º do CPC e do art. 255, § 1º do RISTJ foram atendidas, eis que restou demonstrado de forma analítica que o Acórdão recorrido do Tribunal a quo diverge frontalmente da posição atual e uníssona adotada pelo Egrégio Tribunal Regional Federal da 3ª Região quando do julgamento de casos idênticos" (fl. 693).
+Impugnação às fls. 703/707.
+É O RELATÓRIO.
+Considerando o nítido intento da parte embargante de infringir o decisum embargado, conheço dos embargos de declaração como agravo interno, nos termos do art. 1.024, § 3º, do CPC.
+Intime-se a recorrente para, no prazo de 5 (cinco) dias, complementar as razões recursais, de modo a ajustá-las às exigências do art. 1.021, § 1º, do CPC.
+Havendo a complementação das razões recursais, abra-se vista ao agravado para impugnação.
+Publique-se.
