@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo em recurso especial manejado pelo INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS,contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça de Santa Catarina, assim ementado (fl. 255):
+APELAÇÃO CÍVEL. PREVIDENCIÁRIO. PLEITO DE CONCESSÃO DE AUXÍLIO-ACIDENTE. ARTIGO 86 DA LEI N. 8.2013/1991 E ARTIGO 104 DO DECRETO 3.048/1999. SENTENÇA DE PROCEDÊNCIA. INSURGÊNCIA DO INSS. NECESSIDADE DE PRÉVIO REQUERIMENTO ADMINISTRATIVO. ENTENDIMENTO ENCAMPADO PELO STF NOJULGAMENTO DO RE 631240. PERÍCIA JUDICIAL QUE ATESTA AINCAPACIDADE DO OBREIRO. RESISTÊNCIA DO PEDIDO. INTERESSEDE AGIR EVIDENCIADO. BENEFÍCIO DEVIDO. TERMO INICIAL. DIA SEGUINTE DA CESSAÇÃO DO AUXÍLIO-DOENÇA, OBSERVADA APRESCRIÇÃO QUINQUENAL. TEMA 862 DOSTJ. PREQUESTIONAMENTO. DESNECESSIDADE. FIXAÇÃO DE HONORÁRIOS RECURSAIS. APELO CONHECIDO E DESPROVIDO.
+Opostos embargos de declaração, foram rejeitados (fls. 296/305).
+Nas razões do apelo especial, aponta o recorrente, violação dos arts. 103, da Lei 8.213/91 e 1º, do Decreto 20.910/32.
+Sustenta, em síntese, que prescreveu o próprio fundo de direito da parte autora de insurgência contra o ato administrativo que indeferiu pedido debenefício, tendo em vista a decorrência de mais de 5 anos entre negativa pela Autarquia e ajuizamento da ação.
+Contrarrazões fls. 324/330.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não comporta acolhida.
+De início, observa-se que o Tribunal de origem não examinou a controvérsia sob o enfoque dos dispositivos legais apontados como violados, apesar de instado a fazê-lo por meio dos competentes embargos de declaração. Nesse contexto, caberia à parte recorrente, nas razões do apelo especial, indicar ofensa ao art. 1.022 do CPC, alegando a existência de possível omissão, providência da qual não se desincumbiu. Incide, pois, o óbice da Súmula 211/STJ ("Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo."). Nessa linha de entendimento: AgInt no AgInt no AREsp 1.621.025/RJ, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe 1º/9/2020.
+Ressalta-se que esta Corte firmou a compreensão de que "a admissão de prequestionamento ficto (art. 1.025 do CPC), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp 1.639.314/MG, Rel. Ministra Nancy Andrighi, Terceira Turma, DJe 10/4/2017). No mesmo sentido, confiram-se: AgInt no REsp 1.562.190/RS, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe 18/12/2020; AgInt no AREsp 1.685.851/GO, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 11/2/2021; e AgInt no AREsp 1.677.739/SP, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 2/12/2020.
+Oportuno relembrar que, para a jurisprudência do STJ, oprequestionamento da matéria, ainda que de ordem pública,pressupõe o efetivo debate pelo Tribunal aquo sobre a tese jurídica veiculada nas razões do recurso especial, não sendo suficiente, para tanto, que a questão tenha sido suscitada pelas partes nos recursos que aviaram perante aquele Sodalício.
+A propósito:
+DIREITO PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA. CONSTITUCIONAL. TRIBUTÁRIO. IMPOSSIBILIDADE DE ANÁLISE DE LEGISLAÇÃO SUPERVENIENTE EM SEDE DE RECURSO ESPECIAL. REQUISITO CONSTITUCIONAL DO PREQUESTIONAMENTO. MATÉRIAS DE ORDEM PÚBLICA.
+1. Para a apreciação de matéria pelo STJ no julgamento de recurso especial, é necessário ter havido o efetivo debate da legislação infraconstitucional no Tribunal de origem.
+2. Não cabe a apreciação de direito superveniente invocado pela parte somente em recurso especial e no STJ, em face do não cumprimento do requisito constitucional do prequestionamento.
+3. A exigência do prequestionamento prevalece também quanto às matérias de ordem pública.
+4. Embargos de divergência rejeitados.
+(EREsp 805.804/ES, Rel. Ministro João Otávio de Noronha, Corte Especial, DJe 01/07/2015)
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
