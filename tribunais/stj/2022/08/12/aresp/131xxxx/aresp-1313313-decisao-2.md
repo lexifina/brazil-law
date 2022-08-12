@@ -1,0 +1,33 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por SUL AMERICA COMPANHIA DE SEGURO SAÚDE, contra decisão que inadmitiu recurso especial fundamentado na alínea "a" permissivo constitucional.
+Agravo em recurso especial interposto em: 22/01/2018.
+Concluso ao gabinete em: 28/06/2022.
+Ação: de obrigação de fazer c/c indenização por danos materiais e pedido de tutela antecipada, ajuizada por ALEXANDRE DE ANDRADE JUNIOR em face da CUMMINS BRASIL LTDA e da agravante, visando a manutenção vitalícia em plano de saúde de coletivo, após a sua demissão sem justa causa, nas mesmas condições de cobertura assistencial e preço.
+Sentença: julgou parcialmente procedentes os pedidos iniciais para condenar as rés à manutenção da relação contratual com o autor, juntamente com seus dependentes, nos termos do art. 30 da Lei 9.656/98, qual seja, nas mesmas condições do plano na vigência do contrato de trabalho, inclusive com relação à categoria, fixando o valor de R$ 709,39 por vida por 24 meses, bem como à restituição das quantias pagas a maior. Em razão da sucumbência recíproca, condenou as partes ao pagamento das custas processuais e dos honorários advocatícios, estes fixados em 10% do valor da condenação, na proporção de 50% pelo autor e 50% pelas rés.
+Acórdão: negou provimento às apelações interpostas pela agravante e pela CUMMINS, nos termos da seguinte ementa:
+PLANO DE SAÚDE - Manutenção de funcionário demitido - Inocorrência de sentença extra petita - O pedido deve ser extraído a partir de interpretação lógico-sistemática da petição inicial, considerando-se também os requerimentos feitos ao longo da peça inaugural - Ilegitimidade passiva afastada - Contrato firmado entre o beneficiário e a operadora, em decorrência do vínculo existente com a ex-empregadora - Preliminares rejeitadas - Direito de o beneficiário ser mantido no plano, com as mesmas condições, pelo período de 24 meses, a contar do término do período de graça - Inteligência do art. 30, da Lei 9.656/98 - Prêmio que deve corresponder aos pagos pelos demais funcionários como demonstrado nos autos - Sentença mantida - Recursos desprovidos.
+Embargos de declaração: opostos pela agravante e pela CUMMINS, ambos foram rejeitados.
+Recurso especial: aponta violação aos arts. 30 da Lei 9.656/98.
+Sustenta que "o valor cobrado do Recorrido corresponde à parcela que era por ele paga enquanto na ativa, acrescido do valor que anteriormente era pago por sua ex-empregadora, nos termos do contrato celebrado com a Recorrente bem como com o que dispõe a legislação vigente", e que "ao optar pela manutenção do contrato, o Recorrido estava ciente do valor da mensalidade, e também por mera liberalidade decidiu aderir ao benefício estabelecido pelo art. 30 da Lei 9.656/98, razão pela qual não pode o segurado se beneficiar do seguro em questão sem arcar com a mensalidade correspondente" (fl. 704 e 705, e-STJ).
+Se insurge, ainda, contra a determinação de restituição dos valores pagos a maior, por entender se tratar de decisão extra petita, considerando que o autor não formulou pedido nesse sentido.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da fundamentação deficiente
+No que se refere à questão atinente ao julgamento extra petita, observa-se que não houve indicação expressa do dispositivo de lei que teria sido violado pelo acórdão recorrido, sendo insuficiente a mera citação de dispositivos nas razões do recurso a título de fundamentação.
+É firme a jurisprudência desta Corte Superior no sentido de que a falta de indicação clara e precisa dos dispositivos de lei federal alegadamente violados implica deficiência na fundamentação do recurso especial, o que torna inviável a sua análise, quanto ao ponto, ante a incidência da Súmula 284/STF.
+- Do reexame de fatos e provas
+Após analisar o acervo fático-probatório reunido nos autos, o TJ/SP assim decidiu:
+"O artigo 30, da Lei 9.656/98 permite, ao empregado dispensado sem justa causa, a manutenção da condição de beneficiário de plano de saúde, nas mesmas condições de cobertura de que gozava quando da vigência do contrato de trabalho, pelo período máximo de 24 meses.
+No caso vertente, em virtude do preenchimento dos requisitos a que alude o dispositivo mencionado, o autor faz jus à manutenção da qualidade de beneficiário do plano de saúde, nas mesmas condições anteriormente vigentes, pelo prazo de 24 (vinte e quatro) meses.
+Outrossim, é certo que em que pese tenha havido a alteração quanto a operadora escolhida para oferecer os serviços de plano de saúde não se pode eliminar ou limitar direitos a eles conferidos e majorar o valor, alterando-se as regras relativas a que estava submetido.
+No que respeita ao valor do prêmio, a ser arcado integralmente pelo autor, deve vigorar aquele demonstrado nos autos e fixados pelo douto magistrado eis que consta nos termos da Lei a expressão "mesmas condições" que diz respeito aos serviços prestados e coberturas contratadas em relação aos demais funcionários. Assim, ficou comprovado que o valor cobrado do autor é superior aos de seus pares e a revisão dos mesmos era de rigor, tal como a devolução dos valores indevidamente cobrados a fim de se evitar o enriquecimento ilícito das recorrentes." (e-STJ fls. 607/608)
+Assim, alterar o decidido no acórdão impugnado exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC/15, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, §11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 15% sobre o valor da condenação (e-STJ fls. 608) para 20%.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZAÇÃO POR DANOS MATERIAIS. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7/STJ.
+1. Cuida-se, na origem, de ação de obrigação de fazer c/c indenização por danos materiais.
+2. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+3. O reexame de fatos e provas em recurso especial é inadmissível.
+4. Agravo conhecido. Recurso especial parcialmente conhecido e, nessa parte, não provido.
