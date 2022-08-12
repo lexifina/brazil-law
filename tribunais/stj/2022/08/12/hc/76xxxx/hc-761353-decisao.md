@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de FABRÍCIO SIMENES DE OLIVEIRAcontra acórdão do Tribunal de Justiça do Estado de São Paulo proferido no Agravo de Execução Penal n.9000023-07.2022.8.26.0037.
+Consta dos autos que o Juízo da Execução Penal indeferiu ao Paciente o pleito de livramento condicional (fls. 30-31).
+Inconformado, o Apenado interpôs agravo em execução penal noTribunal a quo, quenegou provimento ao recurso(fls. 74-78).
+Daí o presente writ, no qual a parte Impetrantealega, em síntese,que carece de fundamentação idônea a decisão que indeferiu o livramento condicional ao Reeducando, baseada na proibição de progressão por salto.
+Nesse ponto, sustenta que " n o que toca à alegada progressão por salto, é imperioso consignar que o instituto do livramento condicional não representa progressão nem com, nem sem salto, porque de progressão não se trata. O livramento condicional é instituto jurídico autônomo com requisitos próprios, na esteira do art. 83 do Código Penal" (fl. 6).
+Pontua que o Tribunal local inovou na argumentação do Juízo de origem, ao negar provimento ao recurso, a partir da análise de aspectos subjetivos, em supressão de instância.
+Assevera, assim, que o Paciente cumpreos requisitos legais para a concessão do livramento condicional.
+Requer, liminarmente e no mérito, a concessão dolivramento condicional ao Apenado.
+É o relatório.Decido.
+De início, destaco que " a s disposições previstas nos arts. 64, III, e 202 do Regimento Interno do Superior Tribunal de Justiça não afastam do Relator a faculdade de decidir liminarmente, em sede de habeas corpus e de recurso em habeas corpus, a pretensão que se conforma com súmula ou a jurisprudência consolidada dos Tribunais Superiores, ou a contraria" (AgRg no HC 629.625/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 15/12/2020, DJe 17/12/2020).
+No mesmo sentido, ilustrativamente:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL.CONCESSÃO DA ORDEM SEM OPORTUNIDADE DE MANIFESTAÇÃO PRÉVIA DO MINISTÉRIO PÚBLICO FEDERAL. INOCORRÊNCIA DE NULIDADE PROCESSUAL.HOMENAGEM AO PRINCÍPIO DA CELERIDADE E À GARANTIA DA EFETIVIDADE DAS DECISÕES JUDICIAIS. PROGRESSÃO DE REGIME. CÁLCULO DE PENAS.REINCIDÊNCIA NÃO ESPECÍFICA EM CRIME HEDIONDO. PACOTE ANTICRIME.OMISSÃO LEGISLATIVA. ANALOGIA IN BONAM PARTEM. APLICAÇÃO DO ART.112, V, DA LEP. AGRAVO REGIMENTAL DESPROVIDO.
+1. Malgrado seja necessário, em regra, abrir prazo para a manifestação do Parquet antes do julgamento do writ, as disposições estabelecidas no art. 64, III, e 202, do Regimento Interno desta Corte, e no art. 1º do Decreto-lei n. 522/1969, não afastam do relator o poder de decidir monocraticamente o habeas corpus.
+2. "O dispositivo regimental que prevê abertura de vista ao Ministério Público Federal antes do julgamento de mérito do habeas corpus impetrado nesta Corte (arts. 64, III, e 202, RISTJ) não retira do relator do feito a faculdade de decidir liminarmente a pretensão que se conforma com súmula ou jurisprudência dominante no Superior Tribunal de Justiça ou a confronta" (AgRg no HC 530.261/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 24/9/2019, DJe 7/10/2019).
+3. Para conferir maior celeridade aos habeas corpus e garantir a efetividade das decisões judiciais que versam sobre o direito de locomoção, bem como por se tratar de medida necessária para assegurar a viabilidade dos trabalhos das Turmas que compõem a Terceira Seção, a jurisprudência desta Corte admite o julgamento monocrático do writ antes da ouvida do Parquet em casos de jurisprudência pacífica. Precedentes.
+ ..
+6. Agravo regimental não provido."(AgRg no HC 656.843/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 04/05/2021, DJe 10/05/2021; sem grifo no original.)
+Portanto, passo a analisar diretamente o mérito da impetração.
+No caso, oMagistrado de origem indeferiu o pedido de livramento condicional mediante a seguinte fundamentação (fl. 30; sem grifos no original):
+"O sentenciado cumpre pena em regime fechado, não sendo permitida a concessão de livramento condicional sem antes passar pelo regime intermediário.
+Ou seja, a concessão desse beneficio configuraria verdadeira progressão por saltos, vedada em nosso ordenamento jurídico, ante a necessidade de permanecer por período razoável no regime intermediário, quando será avaliado de maneira mais adequada e mais próxima da realidade que encontrará nas ruas, verificando-se a absorção ou não da terapêutica penal."
+O Tribunal a quo, ao negar provimento ao recurso defensivo, assim se manifestou (fls. 76-78;sem grifos no original):
+"O livramento condicional não é, de fato, quarto estágio do cumprimento da pena privativa de liberdade, motivo pelo qual não sepode exigir do condenado a prévia inclusão em regime semiaberto comoum dos requisitos para obtenção da medida.
+Todavia, inegável que as características de tal regime -notoriamente de menor contenção - possibilitam ao Juiz uma análisemais aprofundada dos méritos do condenado, com vistas ao retorno dele ao pleno convívio social.
+No caso dos autos, verifica-se que o agravante ostenta nada menos do que três condenações, tendo, anteriormente, permanecidoliberdade, mas voltado a delinquir.
+Tal cenário exige, portanto, cautela redobrada do Juiz emerecimento inquestionável.
+Daíporque, em certas circunstâncias, o entendimentoesposado pela respeitável decisão impugnada não se afigura ilegal ouabusivo, antes adequado aos fins alegadamente ressocializadores da pena privativa de liberdade."
+Como se vê, o Juízo da Vara de Execuções Criminais, em decisão ratificada pela Corte local, indeferiu o pedido de livramento condicional formulado pelo Paciente ao argumento deque ele deveria permanecer certo período no regime intermediário.
+De outra parte, observoqueo Tribunal a quoressaltou a existência de outras três condenações em desfavor do ora Paciente, fato a desabonar os requisitos subjetivos para a concessão do livramento condicional. Entretanto, tal aspecto não foi analisado pelo Magistrado do primeiro grau, o qual se ateve tão somente à supostanecessidade de permanênciapor período razoável em regime intermediário.
+Nesse particular, destacoque " n ão é dado ao Tribunal estadual agregar fundamentos não presentes na decisão do Juízo singular, sob pena de incidir em indevida inovação"(HC 424.308/AM, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 19/06/2018, DJe 27/06/2018).
+No mais, quanto à suposta progressão por salto, tal entendimento destoa da jurisprudência deste Tribunal Superior, firmada no sentido de que não há obrigatoriedade de que o Apenado passe pelo regime semiaberto para obter o benefício do livramento condicional, tendo em vista a falta de previsão no art. 83 do Código Penal.
+Nesse sentido, destaco, entre outros, os seguintes precedentes de ambas as Turmas que compõem a Terceira Seção desta Corte:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS CONCEDIDO LIMINARMENTE.  .. . EXECUÇÃO PENAL. INDEFERIDO O LIVRAMENTO CONDICIONAL EM RAZÃO DA NECESSIDADE DE VIVENCIAR O REGIME INTERMEDIÁRIO. FUNDAMENTO INIDÔNEO. PRECEDENTES.
+ ..
+3. É pacífico no Superior Tribunal de Justiça o entendimento de que não há obrigatoriedade de que o apenado vivencie o regime semiaberto para obter o benefício do livramento condicional, em razão da falta de previsão legal.
+4. Agravo regimental improvido." (AgRg no HC 498.805/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 11/04/2019, DJe 29/04/2019; sem grifos no original.)
+"EXECUÇÃO PENAL.  .. . LIVRAMENTO CONDICIONAL. INDEFERIMENTO. JUSTIFICAÇÃO UNICAMENTE NA NECESSIDADE DE ADAPTAÇÃO A UM REGIME MAIS LIBERAL, PARA, POSTERIORMENTE, AVENTURAR-SE A SENTENCIADA A DESFRUTAR DE MAIOR LIBERDADE. CONSTRANGIMENTO ILEGAL CONFIGURADO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+2. No caso concreto, foi indeferido o benefício do livramento condicional, tão somente em virtude da necessidade de se observar o comportamento da sentenciada durante o cumprimento da pena em regime semiaberto antes de lhe propiciar a liberdade condicional.
+3. Sobre a matéria, a jurisprudência deste Tribunal consolidou entendimento no sentido de que não há obrigatoriedade de o(a) apenado(a) passar por regime intermediário para que obtenha o benefício do livramento condicional, ante a inexistência de previsão no art. 83 do Código Penal.
+4. Habeas corpus não conhecido. Contudo, ordem concedida de ofício para determinar que, afastada a exigência do cumprimento da pena em regime semiaberto, o Juízo das Execuções Criminais reaprecie o pedido de livramento condicional da apenada, à luz dos requisitos legais e do comportamento carcerário." (HC 468.579/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 23/10/2018, DJe 31/10/2018; sem grifos no original.)
+Ante o exposto, CONCEDO A ORDEM de habeas corpus,em menor extensão,para determinar ao Juiz das Execuções Criminais que, afastada a exigência de o Paciente permanecer certo período no regime intermediário, reavalie o pleito de livramento condicional, decidindo como entender de direito
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL.LIVRAMENTO CONDICIONAL. PRÉVIOCUMPRIMENTO DA PENA NO REGIME INTERMEDIÁRIO.FUNDAMENTAÇÃO INIDÔNEA. ORDEM DEHABEAS CORPUSCONCEDIDA EM MENOR EXTENSÃO.
