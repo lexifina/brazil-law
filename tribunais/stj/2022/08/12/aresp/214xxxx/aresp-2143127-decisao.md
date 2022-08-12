@@ -1,0 +1,62 @@
+DECISÃO
+Cuida-se de agravo interposto por JOÃO CARLOS VENTURELLI e JUDITH SANSON VENTURELLI contra decisão que inadmitiu o recurso especial.
+Com fulcro no art. 105, III, a e c, da Constituição Federal, a parte recorrente visa à reforma do acórdão proferido pela Segunda Câmara de Direito Civil do Tribunal de Justiça do Estado de Santa Catarina, assim ementado (e-STJ, fls. 371-372):
+APELAÇÃO CÍVEL E RECURSO ADESIVO. AÇÃO DE COBRANÇA DE CLÁUSULA PENAL C/C OBRIGAÇÃO DE FAZER E INDENIZAÇÃO POR DANOS MORAIS. SENTENÇA DE PARCIAL PROCEDÊNCIA. INSURGÊNCIAS DE AMBAS AS PARTES.
+DANO MORAL. REQUERIDA QUE SUSTENTA A NÃO CONFIGURAÇÃO DE LESÃO EXTRAPATRIMONIAL. INADIMPLEMENTO CONTRATUAL. TRANSTORNO DECORRENTE DO ATRASO DA ENTREGA DA OBRA QUE, EMBORA POSSA TER CAUSADO FRUSTAÇÃO, NÃO ULTRAPASSA O MERO DISSABOR. AUSÊNCIA DE PROVA DE DANO NA ESFERA ÍNTIMA DOS AUTORES. RESPONSABILIDADE CIVIL NÃO CARACTERIZADA. DEVER DE INDENIZAR EM QUESTÃO ARREDADO.
+AFASTAMENTO DA MULTA DIÁRIA. ALEGADA SATISFAÇÃO DA OBRIGAÇÃO DE ENTREGA DO "HABITE-SE". INACOLHIMENTO. SANÇÃO IMPOSTA PARA COMPELIR A REQUERIDA À ENTREGA DOS IMÓVEIS E RESPECTIVA DOCUMENTAÇÃO. CHAVES DAS UNIDADES HABITACIONAIS ENTREGUES AOS AUTORES MUITO TEMPO APÓS A PROLAÇÃO DA SENTENÇA. COERÇÃO NECESSÁRIA PARA VIABILIZAR O CUMPRIMENTO DA ORDEM JUDICIAL. EXEGESE DO ART. 537 DO CÓDIGO DE PROCESSO CIVIL. REQUERIMENTO ALTERNATIVO DE REDUÇÃO DA QUANTIA DA ASTREINTE. INVIABILIDADE. VALORES ESTIPULADOS NA ORIGEM QUE SÃO PROPORCIONAIS E RAZOÁVEIS ÀS CIRCUNSTÂNCIAS DOS AUTOS E AO NOTÓRIO PORTE ECONÔMICO DA APELANTE.
+LUCROS CESSANTES. ALUGUEIS. ATRASO NA ENTREGA DO IMÓVEL INCONTROVERSA. DANO MATERIAL PRESUMIDO. PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA. DEVER DE REPARAR CARACTERIZADO. CONTRAPRESTAÇÃO MENSAL QUE DEVE SER ADITADA DE CORREÇÃO MONETÁRIA A PARTIR DE CADA VENCIMENTO E JUROS DE MORA A CONTAR DA CITAÇÃO.
+MULTA CONTRATUAL. POSTULADA A REDUÇÃO EQUITATIVA. POSSIBILIDADE. ART. 413, DO CÓDIGO CIVIL. OBRIGAÇÃO AVENÇADA CUMPRIDA, AINDA QUE COM ATRASO. ADQUIRENTES DEVIDAMENTE COMPENSADOS POR DANOS MATERIAIS. APELO ACOLHIDO NO PONTO.
+SUCUMBÊNCIA. MODIFICAÇÃO DA SENTENÇA QUE IMPLICA NA REANÁLISE DA DISTRIBUIÇÃO DO ÔNUS. CONTEN DORES QUE SÃO RECIPROCAMENTE VENCEDORES E VENCIDOS. DISTRIBUIÇÃO DOS ÔNUS SUCUMBENCIAIS NA PROPORÇÃO DE GANHO E PERDA DE CADA PARTE. ART. 86 DO CÓDIGO DE PROCESSO CIVIL. HONORÁRIOS ADVOCATÍCIOS ARBITRADOS NOS TERMOS DOART. 85, § 2º, DO CÓDIGO DE PROCESSO CIVIL.APELO CONHECIDO E PARCIALMENTE PROVIDO. RECURSO ADESIVO CONHECIDO E ACOLHIDO.
+No julgado recorrido, a Corte estadual reformou a sentença proferida pelo Juízo de primeiro grau, que, nos autos de ação de cobrança de cláusula penal cumulada com obrigação de fazer e indenização por danos moraisproposta pelos ora recorrentes, julgou parcialmente procedentes os pedidos contidos na inicial.
+Opostos os embargos de declaração pelas partes autora e ré, o Tribunal de origem acolheu em parte apenasos declaratórios dos autores, conforme ementa abaixo reproduzida (e-STJ, fls. 424-425):
+EMBARGOS DE DECLARAÇÃO EM APELAÇÃO CÍVEL. INSURGÊNCIAS DE AMBAS AS PARTES.
+ALEGADA OMISSÃO EM RELAÇÃO À TESE DE CERCEAMENTO DEDEFESA. INOCORRÊNCIA. CONDUTA PROCESSUAL DOS AUTORESQUE NÃO DEMONSTROU INTENTO DE COMPLEMENTAÇÃO DOACERCO DE PROVAS. LIMITAÇÃO AO DIREITO PROBATÓRIO NÃOVERIFICADO.
+APONTADA CONTRADIÇÃO QUANTO À REDISTRIBUIÇÃO DOS ÔNUS SUCUMBENCIAIS, COM A ESTIPULAÇÃO DE HONORÁRIOS ADVOCATÍCIOS, E A AFIRMAÇÃO DE QUE ERA DESCABIDA A REMUNERAÇÃO RECURSAL. INOCORRÊNCIA. PROVIDÊNCIAS QUE POSSUEM FUNDAMENTO DISTINTO, NÃO SE CONFUNDINDO ENTRE SI. TESE AFASTADA.
+VERBERADA LACUNA NO JULGADO QUANTO À SITUAÇÃO DE INATIVIDADE DA EMPRESA AO REJEITAR O ARGUMENTO DE QUE A MULTA DIÁRIA DEVERIA SER REDUZIDA. INSUBSISTÊNCIA. CONDIÇÃO QUE NÃO FOI FUNDAMENTO DA PRETENSÃO RECURSAL EM QUESTÃO OU DEMONSTRADA NOS AUTOS. DECISÃO COERENTE COM OS ELEMENTOS LEVADOS À APRECIAÇÃO DO COLEGIADO. ALMEJADO, EM VERDADE, A REDISCUSSÃO DO JULGAMENTO. INVIABILIDADE.
+INDICADA OMISSÃO QUANTO AO FATOR DE ATUALIZAÇÃO DO VALOR DA CAUSA PARA FINS DE CÁLCULO ESTIPÊNDIO ADVOCATÍCIO. VÍCIO OCORRENTE. NECESSÁRIA A ADEQUAÇÃODO DECISUM NO PONTO. CORREÇÃO MONETÁRIA PELO INPC/IBGE, EM CONFORMIDADE COM O PROVIMENTO N. 13/1995, DA CORREGEDORIA-GERAL DE JUSTIÇA DESTE TRIBUNAL DEJUSTIÇA.
+ACLARATÓRIOS OPOSTOS PELA RÉ REJEITADOS. EMBARGOS DE DECLARAÇÃO DOS AUTORES ACOLHIDOS EM PARTE.
+Inconformados, JOÃO CARLOS VENTURELLI e JUDITH SANSON VENTURELLIinterpuseram recurso especial, apontando violação aos arts. 369, 370 e 1.022, II, do CPC/2015.
+Em suas razões, alegaram, preliminarmente, a ausência de manifestação sobre a necessidade de reabertura da instrução processual para a produção de provas concernente ao abalo anímico. Ademais, sustentaram o cerceamento de defesa, porquanto o Tribunal local negara a possibilidade de produção de provas.
+Com o juízo de admissibilidade negativo, foi interposto o presente agravo (e-STJ, fls. 493-500).
+Brevemente relatado, decido.
+A irresignação manifestada pela parte recorrente não mereceprosperar.
+De início, não se deve conhecer da vulneração do art. 1.022 do CPC/2015, porquanto, embora em sentido contrário à pretensão dos recorrentes, o Tribunal local manifestou-se em relação à produção das provas.
+Veja-se (e-STJ, fls. 427-428):
+No entanto, não se denota a existência de lacuna, pois nenhuma intenção de instrução com provas além das documentais já acostadas foi demonstrada no curso do processo de conhecimento.
+Explica-se. Na exordial, quanto à produção de provas que pretendiam, os autores postularam pela "produção de todos os meios de provas admitidas em direito, especialmente a documental ora juntada, e testemunhal em momento oportuno" (Evento59 - Petição Inicial 22).
+Ao contestar o feito, a Ré defendeu, expressamente, a não evidenciação do dano (Evento 59 - Contestação 106 a 111).
+E, ao replicarem os argumentos de defesa, os Requerentes reconheceram que a configuração da lesão patrimonial já havia estava patenteada pela própria narrativa dos autos.Confira-se in verbis:
+ ..
+Já consta na inicial toda a descrição fática que embasa o dano moral pleiteado. Para a Ré são meros dissabores os fatos relacionados ao lar da pessoa. Para os Autores foi realmente motivo de muitas noites de sono mal dormidas e de sentimento de desgosto por terem confiado e procedido mal nessa negociação.
+A condição a que foram expostos aos Autores, por conduta omissiva da Ré, causou-lhes danos que lhes abalaram e que são confirmados pela narração dos fatos na inicial.
+Assim, para confrontar os julgados apresentados pela Ré, além dos emendas citadas na inicial, apresenta-se decisão monocrática do Ministro Luís Felipe Salomão  ..
+De nada muda a figura de que o corretor de imóveis o qual lhes vendou  sic  o apartamento seja filho dos requerentes, já que isso somente agrava a situação vivida em família, já que os apartamentos adquiridos são sempre alvo de discussão familiar.
+Ressalta-se por fim, que não se trata de danos pelo simples atraso na entrega do empreendimento. Trata-se de abalo moral pelo desgosto de ter adquirido um imóvel com a promessa de um condomínio fechado, com garagem, área de lazer, projeto paisagístico, dentre tantas outras promessas feitas na ocasião da compra.
+ ..
+Com efeito,esta Corte Superior sedimentou sua jurisprudência no sentido de que, tendo o Tribunal local solucionado de forma clara e fundamentada o litígio, como verificado no caso em apreço, ainda que de maneira diversa daquela pretendida pela parte, não há alegar violação ao art. 1.022 do CPC/2015.
+A propósito (sem grifos no original):
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURO ESPECIAL. EMBARGOS À EXECUÇÃO. INVERSÃO DO ÔNUS DA PROVA. DILAÇÃO PROBATÓRIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. VIOLAÇÃO DO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. SOLUÇÃO INTEGRAL DA LIDE. REEXAME DE FATOS E PROVAS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. HARMONIA DO ACÓRDÃOR RECORRIDO COM A ORIENTAÇÃO JURISPRUDENCIAL DO STJ.
+1. Cuida-se, na origem, de embargos à execução nos quais se discute a possibilidade da inversão do ônus da prova e da dilação probatória.
+2. É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte. Precedentes.
+ ..
+6. Agravo interno não provido.
+(AgInt no AREsp n. 1.914.287/MS, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 18/5/2022)
+Quanto à desconstituição da obrigação de indenizar por danos morais,o Tribunal de origem, seguindo a jurisprudência já consolidada nesta Corte Superior, entendeu que não ficou demonstrado o abalo moral com vistas a ensejar a compensação pecuniária.
+Confira-se (e-STJ, fl. 376):
+Isso porque não restou demonstrado abalo moral a ensejar compensação pecuniária.
+A teor do que dispõe o art. 186, do Código Civil, "aquele que, por ação ou omissão voluntária, negligência ou imprudência, violar direito e causar dano a outrem, ainda que exclusivamente moral, comete ato ilícito".
+Pela leitura do dispositivo acima transcrito, resta claro que a responsabilização civil é condicionada, cumulativamente, à conduta, com culpa ou dolo, à prova de dano suportado por alguém, bem como ao nexo de causalidade entre as circunstâncias anteriormente citadas.
+Assim sendo, para que o ilícito civil seja passível de indenização, revela-se indispensável a demonstração do dano sofrido por aquele que reclama o direito, na formado art. 333, inciso I, do Código de Processo Civil de 1973 (vigente ao tempo do trâmite da ação), que se encontra reproduzido no art. 373, inciso I, da Lei n. 13.105/2015.
+Logo, ainda que se verifique o ilícito contratual pelo inadimplemento de algumas das obrigações por parte da Construtora, será necessário evidenciar a existência objetiva de alguma forma de lesão à honra advinda desse fato.
+No entanto, ao revés do que foi aduzido pelos recorrentes acerca da impossibilidade de produção de provas, verifica-se da leitura dos autos que aqueles se quedaram inertes em relação ao pedido deprodução de novos elementos probatórios.
+Veja-se (e-STJ, fls. 427-428):
+Ainda, ao formularem os pedidos ao final da peça, apenas reiteraram opedido de procedência dos pedidos exordiais, sem qualquer alusão ao intento que proceder à complementação do acervo probatório (Evento 59 - Réplica 170).
+Aliás, ao contrarrazoarem o Apelo, os Requerentes apenas refutaram a tese de inocorrência de lesão extrapatrimonial, sem mencionar que, se entendido ser improcedente a pretensão, seriam necessários elementos diversos dos constantes nos autos (Evento 59 - Contrarrazões 210 a 220).
+Dessarte, não tem se tem por configurada limitação alguma ao direito processual no que atine à elaboração de provas, inexistindo, por isso, motivos para anular o ato compositivo e devolver os autos ao juízo de origem para prosseguimento dos autos com a fase instrutória.
+À vista disso, conquanto os recorrentes aleguem violação a dispositivos de lei federal, fica nítido o intento de que este Superior Tribunal proceda ao reexame do substrato fático-probatório a fim de alterar o entendimento da Corte de origem. Entretanto, tal incursão se revela indevida mediante a impropriedade da via eleita, qual seja, o recurso especial, por esbarrar no óbice da Súmula n. 7/STJ.
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Deixo de majorar os honorários sucumbenciais por não ter sido fixada tal verba nas instâncias ordinárias, sendo inaplicável o art. 85, § 11, do CPC/2015.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. VIOLAÇÃO AO ART. 1.022 DO CPC/2015NÃO CONFIGURADA. DANO MORAL. NÃO REALIZAÇÃO DE PRODUÇÃO DE PROVAS. CERCEAMENTO DE DEFESA. REEXAME DE ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
