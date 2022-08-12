@@ -1,0 +1,38 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto peloINSTITUTO NACIONAL DO SEGURO SOCIAL - INSS, com amparo na alínea "a" do inciso III do art. 105 da CF/1988, contra acórdão proferido peloTRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃOassim ementado (e-STJ, fls. 363-364):
+PREVIDENCIÁRIO. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. CONCESSÃO. REAFIRMAÇÃO DA DER. POSSIBILIDADE. TEMPO ESPECIAL. AGENTES NOCIVOS. RECONHECIMENTO. CONSECTÁRIOS LEGAIS. CORREÇÃO MONETÁRIA. TEMAS 810 DO STF E 905 DO STJ. JUROS DE MORA. HONORÁRIOS ADVOCATÍCIOS. SÚMULA 76 TRF4. ARTIGO 85 CPC. CUSTAS PROCESSUAIS. ISENÇÃO.
+1. Comprovada a exposição do segurado a agente nocivo, na forma exigida pela legislação previdenciária aplicável à espécie, possível reconhecer-se a especialidade da atividade laboral por ele exercida.
+2. Comprovado o tempo de serviço/contribuição suficiente e implementada a carência mínima, é devida a aposentadoria por tempo de serviço/contribuição, mediante reafirmação da DER, nos termos dos artigos 54 e 49, inciso II, da Lei 8.213/1991, bem como efetuar o pagamento das parcelas vencidas desde então.
+3. É possível a reafirmação da DER para o momento em que restarem implementados os requisitos para a concessão do benefício, mesmo que isso se dê no interstício entre o ajuizamento da ação e a entrega da prestação jurisdicional nas instâncias ordinárias, nos termos dos artigos 493 e 933 do CPC/2015, observada a causa de pedir.
+4. A correção monetária das parcelas vencidas dos benefícios previdenciários será calculada conforme a variação do IGP-DI de 05/96 a 03/2006, e do INPC, a partir de 04/2006.
+5. Os juros de mora devem incidir a contar da citação (Súmula 204 do STJ), na taxa de 1% (um por cento) ao mês, até 29 de junho de 2009. A partir de 30 de junho de 2009, os juros moratórios serão computados, uma única vez (sem capitalização), segundo percentual aplicável à caderneta de poupança.
+6. No caso de concessão de benefício mediante reafirmação da DER para data após o ajuizamento da ação, a incidência de juros de mora se dará sobre o montante das parcelas vencidas e não pagas a partir do prazo de 45 dias para a implantação do benefício.
+7. Custas processuais e honorários advocatícios divididos em igual proporção, em face da recíproca sucumbência, fixados em conformidade com o disposto na Súmula 76 deste Tribunal e de acordo com a sistemática prevista no artigo 85 do Código de Processo Civil de 2015.
+8. A parte autora é isenta do pagamento das custas processuais por força do benefício da AJG previamente concedido e a Autarquia é isenta quando demandada na Justiça Federal e na Justiça do Estado do Rio Grande do Sul.
+Os embargos de declaração foram rejeitados (e-STJ, fls. 473-485).
+Refere a autarquia, em síntese, violação dos arts. 85, caput, do Código de Processo Civil, c/c o art. 389 do Código Civil, em razão daimpossibilidade de condenação em honorários advocatícios sobre o valor da condenação, nos termos da decisão proferida pelo STJ no REsp n. 1.727.063/SP.
+Subsidiariamente, requer a anulação da decisão que rejeitou os embargos de declaraçãopor afronta ao art. 1.022, II, do CPC.
+Sem contrarrazões, o recurso especial foi admitido na origem (e-STJ, fls. 503-505).
+É o relatório.
+O Tribunal de origem fixou os honorários advocatícios, após a reafirmação da DER, adotando a seguinte fundamentação (e-STJ, fls. 483-484):
+No caso dos autos, houve modificação da sucumbência em razão da concessão do benefício mediante reafirmação da DER. De todo modo, considero que as partes sucumbiram em parcelasequivalentes, tendo em conta que, na DER, de fato, a parte autora não possuía direito ao benefício requerido. Por outro lado, é sabido que a Autarquia não acolhe a tese de preenchimento dos requisitos concessórios no curso da ação.
+Desse modo, fixo os honorários advocatícios no patamar mínimo de cada uma das faixas de valor, considerando as variáveis contidas nos incisos I a IV do § 2º e § 3º do artigo 85 do CPC/2015, incidente sobre as parcelas vencidas até a data do presente acórdão (Súmulas 111 do STJ e 76 deste Tribunal), distribuído na proporção de 50% para cada parte, vedada a compensação, nos termos do artigo 85, § 4º, inciso III, combinado com o artigo 86, ambos do CPC/2015.
+Observa-se que o único fundamento para a fixação dos honorários foi o fato de que a autarquia não costuma acolher a tese de reafirmação da DER, nada dispondo sobre insurgência do INSS no caso concreto.
+Essa decisão vai de encontro ao decidido no julgamento do Tema n. 995/STJ,em que se firmou que descabe a fixação de honorários advocatícios de sucumbência quando o INSS não oferecer oposição àprocedência do pedido à luz do fato novo, como ocorrido na espécie.
+Nesse sentido:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. REAFIRMAÇÃO DA DER. CABIMENTO. HONORÁRIOS ADVOCATÍCIOS. DESCABIMENTO. OPOSIÇÃO DA AUTARQUIA. INEXISTÊNCIA. JUROS DE MORA. INCIDÊNCIA. CRITÉRIOS.
+1. A Primeira Seção do Superior Tribunal de Justiça, no julgamento do REsp repetitivo 1.727.063/SP, reconheceu o direito à reafirmação da Data de Entrada do Requerimento - DER para o momento em que implementados os requisitos para a concessão do benefício, nos termos dos arts. 493 e 933 do CPC/2015, observada a causa de pedir (Tema 995 do STJ).
+2. Deve ser provido o apelo nobre, por afronta ao art. 927, III, do CPC/2015, quando a tese recursal destoar do entendimento proferido pelo Superior Tribunal de Justiça em julgamento de matéria repetitiva (Tema 995).
+3. Na assentada do julgamento repetitivo, firmou-se a compreensão de que descabe a fixação de honorários advocatícios de sucumbência quando o INSS não oferecer oposição à procedência do pedido à luz do fato novo, como ocorrido na espécie.
+4. Caso em que o Tribunal a quo não observou o disposto no art. 927, III, do CPC/2015, fixando os juros de mora de forma diversa dos moldes fixados do julgado proferido nos EDcl no REsp 1.727.063/SP, motivo pelo qual o recurso foi provido pela decisão ora agravada.
+5. Agravo interno desprovido.
+(AgInt no REsp n. 1.952.892/SC, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 21/3/2022, DJe de 30/3/2022).
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO EM RECURSO ESPECIAL. TEMA 995/STJ. REAFIRMAÇÃO DA DER. JUROS DE MORA. NÃO CABIMENTO. HONORÁRIOS ADVOCATÍCIOS. IMPOSSIBILIDADE DE FIXAÇÃO. AGRAVO INTERNO DESPROVIDO 1. Na origem trata-se de demanda previdenciária pela concessão de aposentadoria especial com a reafirmação da data de entrada do requerimento administrativo - DER para data posterior ao ajuizamento da ação a fim de, agregando tempo de contribuição, viabilizar o preenchimento dos requisitos para concessão da aposentadoria.
+2. O manejo do recurso de Agravo Interno deve observar o princípio da dialeticidade, ou seja, o agravante deve apresentar razões robustas que afastem as conclusões fundamentadas da decisão questionada.
+3. Quando da fixação do Tema 995/STJ, reconheceu-se que a única hipótese de fixação de juros de mora dar-se quando a autarquia previdenciária não efetivar a implantação do benefício, primeira obrigação oriunda de sua condenação, no prazo razoável de até quarenta e cinco dias, entendimento consolidado neste egrégio Superior Tribunal de Justiça.
+4. Não verificada nenhuma insurgência da autarquia contrária à reafirmação da DER, não está caracterizada a causalidade necessária para fixação dos honorários sucumbenciais.
+5. Agravo Interno não provido.
+(AgInt no REsp n. 1.930.123/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 27/9/2021, DJe de 4/11/2021).
+Ante o exposto, com fulcro no art. 932, V, do CPC/2015, c/c o art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especialpara afastar a condenação em honorários advocatícios.
+Publique-se. Intimem-se.
