@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de recurso especial interposto por ESCRITÓRIO CENTRAL DE ARRECADAÇÃO E DISTRIBUIÇÃO - ECAD, fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Recurso especial interposto em: 20/8/2021.
+Conclusoem: 25/3/2022.
+Ação: inibitória e de reparação de danos, ajuizada pelo recorrente em face de LAS VEGAS EMPREENDIMENTOS HOTELEIROS EIRELI, em razão da utilização de obras musicais, por meio da disponibilização de aparelhos de rádio e TV, em quartos de motel.
+Sentença: julgou improcedentes os pedidos.
+Acórdão: negou provimento à apelação interposta pelo recorrente, nos termos da seguinte ementa:
+Direitos autorais - Improcedência - Adequação - Quarto de hotel que não pode ser considerado como local de frequência coletiva - Artigos 68 da Lei nº 9.610/98 e 23 da Lei nº 11.771/2008 que devem ser interpretados em conjunto - Empresas transmissoras que já efetuam o pagamento dos direitos autorais - Utilização dos aparelhos eletrônicos pelos hóspedes que é facultativa - Precedentes deste Tribunal - Recurso não provido.
+Embargos de declaração:interpostos pelo recorrente, foram rejeitados.
+Recurso especial: alega violação dos artigos489, 927, 932, 1.022, 1.036, 1.039 e 1.040 do CPC/15 e 68 da Lei 9.610/98,bem como dissídio jurisprudencial. Além de negativa de prestação jurisdicional, sustenta que faz jus ao recebimento de direitos autorais pela disponibilidade de aparelhos de TV e/ou rádio no interior dos aposentos de hotéis, motéis e pousadas.Acentua que a natureza jurídica dos quartos de hotel/motel, para fins da lei autoral, é de local de frequência coletiva.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da jurisprudência pacífica do STJ
+Em razão dos princípios da celeridade, da economia processual, da efetividade da jurisdição e daprimaziado julgamento demérito(art. 5º, LXXVIII, da CRFBe arts. 4º, 6º e 139, IX, do CPC/15), deixo de examinar a alegação de negativa de prestação jurisdicional e passo a aplicar o direito à espécie.
+O acórdão recorridodestoa da jurisprudência pacífica do STJ, firmada em julgamento de tese repetitiva, no sentido de que"a disponibilização de equipamentos em quarto de hotel, motel ou afins para a transmissão de obras musicais, literomusicais e audiovisuais permite a cobrança de direitos autorais pelo Escritório Central de Arrecadação e Distribuição - ECAD"(REsp 1.873.611/SP, Segunda Seção, DJe 20/04/2021).
+Com efeito, para o colegiado,os quartos de hotel/motel são definidos naLei 9.610/98 como locais de frequência coletiva, viabilizando a cobrança de direitos autorais sonorizados.Assim, o acórdão recorrido merece reforma.
+Outrossim, deve ser reconhecido o cabimento da tutela inibitória específica prevista no art. 105 da Lei 9.610/98, que não se confunde com a pretensão de cobrança dos valores devidos e não pagos a título de violação de direitos autorais, pois existe justamente para impedir que, em hipóteses como a presente, novas violações a direitos autorais sejam perpetradas, obstando-se que se dê continuidade à execução de obras musicais sem o devido pagamento dos direitos autorais.Nesse sentido:REsp 1.655.767/RS, TerceiraTurma, DJe 20/03/2018; e AgInt no REsp 1.770.073/RS, Quarta Turma, DJe de 27/5/2021.
+Forte nessas razões, CONHEÇO do recurso especial e DOU-LHE PROVIMENTO, a fim dejulgar procedente os pedidos da inicial e condenar o recorrido ao pagamento, que será apurado em liquidação de sentença, dos direitos autorais relativos àdisponibilização de televisores e rádios dentro dos quartos de seu estabelecimento, limitados ao período de 3 (três) anos anteriores ao ajuizamento da presente demanda, acrescidos de juros de mora e correção monetária, incidentes desde data do ato ilícito, nos termos dos das Súmulas 43 e 54 do STJ.
+Concedo, ainda, atutela inibitória,e determino a suspensão da execução de obras musicais no estabelecimentodo recorrido enquanto não obtiver a devida autorização, sob pena de multa diáriafixada em R$ 500,00 (quinhentos reais).
+Custas e honoráriosadvocatícios devidos pelo recorrido, estes últimos arbitrados em 10% (dez por cento) sobre o valor da condenação pecuniária a ser apurada em liquidação.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ESPECIAL. AÇÃO INIBITÓRIA E DE REPARAÇÃO DE DANOS.DIREITOS AUTORAIS. NÃO PAGAMENTO. INCIDÊNCIA SOBRE TRANSMISSÃO, EM HOTÉIS/MOTÉIS, VIA TV E RÁDIO. LEGALIDADE. TUTELA INIBITÓRIA. ART. 105 DA 9.610/98. CABIMENTO.
+1. De acordo com a jurisprudência do STJ, a disponibilização de aparelhos radiofônicos e televisores em quartos de hotéis e motéis autoriza a cobrança de direitos autorais.
+2. Para fins dessa cobrança, é irrelevante que a execução não autorizada de obras musicais e audiovisuais tenha se dado a partir da disponibilização de aparelho televisor ou de rádio com equipamento receptor do sinal de TV a cabo ou TV por assinatura. Precedentes.
+3. Atutelainibitória destinada a impedir a violação de direitos autorais constitui medida expressamente prevista no art. 105 da Lei 9.610/98, não se confundindo com a pretensão de cobrança dos valoresdevidos e não pagos a esse título. A primeira sanciona a violação da norma,impedindo a continuação ou a repetição do ilícito; a segunda sancionaodanoouonão cumprimento do dever de pagamento.
+RECURSO ESPECIAL PROVIDO.
