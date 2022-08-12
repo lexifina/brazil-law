@@ -1,0 +1,11 @@
+DECISÃO
+O presente writ, impetrado em benefício de Gabriele Veiga Fidalgocontra ato coator do Tribunal de Justiça de São Paulo, não comporta processamento.
+Com efeito, busca a impetração a aplicação da minorante em percentual máximo e a fixação de regime inicial diverso do fechado, ao argumento de que aacusada como demonstra nos autos, é ré primária e não possui maus antecedentes ou fatos desabonadores de sua conduta, portanto, inadequado o cumprimento inicial da pena em regime fechado. Ademais, o simples fato de ter sido apreendidos mais de um tipo de substância entorpecente, não é fundamento idôneo a aplicar a causa de diminuição de pena em seu patamar mínimo (fl. 5).
+Da análise dos autosobserva-se que inexiste flagrante ilegalidade, tendo o Magistrado singularutilizado de sua discricionariedade regrada para escolher o percentual da minorante, até porque este Superior Tribunal possui precedentes no sentido de que, apesar de a natureza e quantidade da droga aprendida, por si sós, não serem suficientespara afastar a minorante, podem ser utilizadas para modular o redutor.
+A propósito: atese firmada no REsp n. 1.887.511/SP foi flexibilizada para admitir amodulaçãoda fração de redução do § 4º do art. 33 da Lei n. 11.343/2006 na terceira fase da dosimetria, com base naquantidadeenaturezadas drogas apreendidas, desde que não tenham sido consideradas na fixação da pena-base (HC n. 725.534/SP, Terceira Seção do STJ).
+Ademais, também se tem decidido que ojuiz pode fixarregime inicialmais gravoso do que aquele relacionado unicamente com o quantum da pena ao considerar anaturezaou aquantidadedadrogaou outros elementos que evidenciem a maior gravidade da prática delitiva, desde que fundamente sua decisão (AgRg no HC 726.544/SP,Ministro João Otávio de Noronha, Quinta Turma, DJe 8/8/2022).
+Em face do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA DA PENA. NATUREZA E QUANTIDADE DA DROGA APREENDIDA (94 PORÇÕES DE COCAÍNA, CRACK E MACONHA). UTILIZAÇÃO PARA MODULAR O REDUTOR E FIXAR REGIME INICIAL MAIS RIGOROSO. POSSIBILIDADE.CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Inicial indeferida liminarmente.
