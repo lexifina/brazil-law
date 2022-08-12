@@ -1,0 +1,67 @@
+DECISÃO
+
+RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. NULIDADE DE AUTO DE INFRAÇÃO E DE MULTA. IMPOSSIBILIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO E DE ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL: SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. RECURSO EXTRAORDINÁRIO AO QUAL SE NEGA PROVIMENTO.
+
+Relatório
+
+    1. Recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República contra o seguinte julgado do Tribunal de Justiça do Distrito Federal e dos Territórios, pelo qual mantida a decisão monocrática do Desembargador Relator:
+
+    “PROCESSO CIVIL. AGRAVO REGIMENTAL EM APELAÇÃO CÍVEL. DESPROVIMENTO DE FORMA MONOCRÁTICA. JURISPRUDÊNCIA DOMINANTE DESTA CORTE. ARTIGO 557 DO CPC. RAZÕES DE AGRAVO QUE NÃO ABALAM A CONVICÇÃO DO RELATOR PRIMITIVAMENTE EXTERNADA. DECISÃO MANTIDA” (fl. 88, e-doc. 5).
+
+    2. No recurso extraordinário, alega-se ter o Tribunal de origem contrariado o inc. XXXV do art. 5º, os incs. I, V e VIII do art. 24, os incs. I, III e V do art. 30, o inc. XI do art. 93, o caput do art. 174 e o art. 175 da Constituição da República, ao argumento de que “os acórdãos recorridos não se manifestaram quanto à questão relevante invocada pelo recorrente, qual seja, se ao Distrito Federal compete legislar sobre a organização e prestação dos ‘serviços públicos de interesse local, incluído o de transporte coletivo, que tem caráter essencial’ (…), e se, da mesma forma, cabe-lhe, concorrentemente, legislar sobre tributos, consumo, produção e economia” (fl. 11, e-doc. 7).
+
+    Afirma que “ao Distrito Federal, portanto, compete legislar sobre a organização e prestação dos serviços públicos de interesse local, incluído o de transporte coletivo, o que deve se dar em atenção a outras questões do direito, como o desenvolvimento econômico da cidade, o correto consumo pelos cidadãos, o recolhimento essencial dos tributos e produção adequada dos serviços” (fl. 19, e-doc. 7).
+
+    Pondera que “a prestação de um serviço de transporte público por agente não autorizado pelo Poder Público, em competição com os demais autorizados, permissionários e concessionários, configura concorrência desleal, que deve ser combatida” (fl. 23, e-doc. 7).
+
+    Sustenta que “o acórdão recorrido violou as disposições dos artigos 30, V, c/c 175, da Lei Maior ao considerar inconstitucional a Lei 239/92, que foi elaborada e promulgada nos exatos limites estabelecidos pela Constituição” (fl. 30, e-doc. 7).
+
+    Pede “seja anulado o acórdão recorrido, haja vista a ausência da devida prestação jurisdicional em sede recursal (art. 93, XI c/c artigo 5º, XXXV, CF) ou seja reformado o aresto pro violação expressa aos artigos 24, I, V e VIII; 30, incisos I e III; 174, caput; 30, V e 175, todos da Constituição Federal” (fl. 30, e-doc. 7).
+
+    3. Em 21.5.2022, foi determinada a devolução dos autos ao Tribunal de origem para observar-se o julgamento do mérito da repercussão geral no Recurso Extraordinário n. 661.702, Tema 546 (fl. 33, e-doc. 8).
+
+    4. Em 25.11.2020, o Tribunal de Justiça do Distrito Federal e dos Territórios, em juízo de retratação, deu provimento à apelação interposta por Dftrans - Transporte Urbano do Distrito Federal, nos termos da seguinte ementa:
+
+    “APELAÇÃO CÍVEL – PROCESSO CIVIL – REEXAME – RECURSO REPETITIVO – FRAUDE AO SISTEMA DE TRANSPORTE COLETIVO – LEI DISTRITAL – COMPETÊNCIA MUNICIPAL PARA ADMINISTRAR INTERESSE LOCAL – COMPATIBILIDADE COM A CONSTITUIÇÃO FEDERAL – CONDICIONAMENTO DA RESTITUIÇÃO DO VEÍCULO AO PRÉVIO PAGAMENTO DE MULTA – IMPOSSIBILIDADE – AUSÊNCIA DE RAZOABILIDADE. 1) ‘Surge constitucional previsão normativa local voltada a coibir fraude considerado o serviço público de transporte coletivo e inconstitucional condicionar a liberação de veículo apreendido ao pagamento de multa, preços públicos e demais encargos decorrentes de infração’ (Tese 546 – RE 661702). 2) Reconhecida na sistemática dos recursos repetitivos a compatibilidade do art. 28 da Lei Distrital 239/92 – que dispõe ser fraude a prestação de transporte coletivo de passageiros sem prévia autorização estatal - com a Constituição Federal, bem como a sua coexistência com o Código de Trânsito Brasileiro, deve ser afastada a nulidade do auto de infração, respaldado por aquele dispositivo legal” (fl. 1, e-doc. 6).
+
+    Contra essa decisão, foram opostos embargos de declaração, por Cezar Pereira Vasconcelos, providos nos seguintes termos:
+
+    “EMBARGOS DE DECLARAÇÃO – NOVO JULGAMENTO DA APELAÇÃO – RECURSO REPETITIVO – CONSTITUCIONALIDADE DA LEI DISTRITAL – IRRELEVÂNCIA – ENTENDIMENTO PELA NÃO CARACTERIZAÇÃO DA FRAUDE - OMISSÃO – AUSÊNCIA DE ENQUADRAMENTO. 1) O reexame do processo em virtude do julgamento de recurso paradigma na sistemática dos repetitivos pressupõe a contrariedade entre o acórdão recorrido e a nova orientação do tribunal superior, nos termos do art. 1040, II, do CPC. 2) Se o órgão julgador reconheceu a nulidade do auto de infração pela não caracterização de fraude ao transporte público, independentemente da constitucionalidade da lei distrital, conforme sedimentado pelo STF no julgamento do recurso paradigma, não se verifica a hipótese de novo julgamento. 3) Recurso provido com a aplicação de efeitos infringentes” (fl. 5, e-doc. 15).
+
+    Os embargos de declaração opostos por Dftrans - Transporte Urbano do Distrito Federal foram rejeitados (fl. 1, e-doc. 17).
+
+    Examinados os elementos havidos nos autos, DECIDO.
+
+    5. Razão jurídica não assiste ao recorrente.
+
+    6. A alegação de nulidade do acórdão por contrariedade ao inc. IX do art. 93 da Constituição da República não pode prosperar. Embora em sentido contrário à pretensão do recorrente, o acórdão recorrido apresentou suficiente fundamentação.
+
+    Conforme a jurisprudência do Supremo Tribunal Federal, “o que a Constituição exige, no art. 93, IX, é que a decisão judicial seja fundamentada; não, que a fundamentação seja correta, na solução das questões de fato ou de direito da lide: declinadas no julgado as premissas, corretamente assentadas ou não, mas coerentes com o dispositivo do acórdão, está satisfeita a exigência constitucional” (RE n. 140.370, Relator o Ministro Sepúlveda Pertence, Primeira Turma, DJ 21.5.1993).
+
+    7. O Tribunal de origem dirimiu a controvérsia, concluindo pela nulidade da autuação e da multa imposta no presente caso, por não ter havido fraude ao transporte público:
+
+    “De fato, mantenho o entendimento adotado na hipótese, reiterando ser congruente à orientação dominante nesta c. Corte, conforme fundamentei na decisão ora hostilizada, da qual extraio os seguintes argumentos, como razão de decidir, in verbis: A pretensão autoral articula-se no desiderato de se reconhecer a nulidade do Auto de Infração nº 60276, Série AB, Tipo B, que registra transporte remunerado irregular de passageiros no dia 27/08/2008, suposta infração que se enquadra nos ditames do art. 28 da Lei Distrital nº 239/92. Vale ressaltar que, na ocasião, foi aplicada multa no valor de R$ 2.000,00 (dois mil reais), devidamente adimplida. Malgrado os argumentos içados pelo Apelante, não merece provimento o recurso. O art. 22, XI da Constituição Federal, elege, como competência privativa da União, legislar sobre trânsito e transporte, o que ocorreu com a edição da Lei nº 9.503/97, o Código de Trânsito Brasileiro – CTB, que, no artigo. 231, VIII, positivou a tipificação e as sanções referentes ao transporte irregular remunerado de pessoas. Paralelamente, a Constituição Federal atribuiu ao Distrito Federal competência para organizar e prestar, diretamente ou sob o regime de concessão ou permissão, o serviço de transporte coletivo, considerado essencial, nos moldes do art. 30, V. Nesse ambiente, verifica-se que a Lei Distrital nº 239/92, alterada pela Lei nº 953/95, no pleno e estreito exercício da competência constitucional que lhe coube, disciplinou o transporte coletivo de passageiros no Distrito Federal, nos aspectos de organização e prestação. Todavia, independentemente da robusta corrente doutrinária que entender ser inconstitucional o aludido diploma, impende salientar que é inviável vislumbrar fraude ao transporte público no caso em apreço. De fato, a mera existência de passageiros no veículo não é apta para caracterizar a infração de fraude em transporte alternativo de passageiros, mesmo que existisse declaração de um deles, protegida pela presunção de legalidade do auto de infração, no sentido de que pagaria para ser transportado. Não se mostra factível pensar que um veículo FIAT, modelo UNO (carro compacto), tivesse o condão de constituir fraude à operacionalização de transporte coletivo, incutindo nos passageiros a aparência de autorização para a realização de transporte alternativo remunerado, consoante vislumbrado pelo agente público na autuação vertente, mormente quando se constata que o art. 28 da Lei Distrital nº 239/92, com redação dada pela Lei Distrital nº 953/95, é dirigido aos permissionários, senão vejamos: (…) Realmente, consoante já me manifestei diversas vezes perante este eg. Tribunal, o cidadão que entra em automóvel de passeio o faz indene de dúvidas quanto ao caráter particular deste, inexistindo fraude por absoluta impropriedade do meio. Por fim, é de bom alvitre mencionar que a irregularidade deveria ser sanada no local da infração, conforme parágrafos 1º e 2º do art. 270 do CTB, mediante o desembarque dos passageiros transportados. Dessa forma, superada tal etapa, impunha-se, à época dos fatos, a liberação do veículo e lavratura, se o caso, de auto de infração embasado em diploma legal diverso do distrital. A corroborar o alinhavado, é imperioso trazer à colação precedente desta c. Corte acerca da liberação do veículo sem o pagamento de multas e diárias, in verbis: (…) Em suma, patente a nulidade do Auto de Infração, pelo fato de não estar amparado por lei, é irreprochável a r. Sentença, que determinou a devolução do valor despendido pelo Autor para adimplemento da multa irregularmente lavrada” (fls. 90-92, e-doc. 5).
+
+    É de se anotar que, ao apreciar os embargos declaratórios opostos pelo recorrido, no reexame dos autos para eventual adequação ao Tema 546 da repercussão geral, o Tribunal de origem ressaltou que “a tese consagrada pelo e. STF, não apresenta relevância no caso concreto, na medida em que a nulidade do auto de infração decorreu da não caracterização da fraude, independentemente da discussão acerca da constitucionalidade da lei distrital” (fl. 3, e-doc. 15).
+
+    Rever o decidido pelo Tribunal de origem quanto à irregularidade da autuação e da multa imposta e a inocorrência de fraude no presente caso, demandaria a análise da legislação infraconstitucional aplicável à espécie e o reexame do conjunto fático-probatório do processo, a inviabilizar o processamento do recurso extraordinário. Incide na espécie a Súmula n. 279 do Supremo Tribunal Federal. Assim, por exemplo:
+
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. INFRAÇÃO DE TRÂNSITO. REGULARIDADE DO PROCESSO ADMINISTRATIVO. NECESSIDADE DE REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA 279 DO STF. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. VIOLAÇÃO AO ARTIGO 93, IX, DA CONSTITUIÇÃO. INEXISTÊNCIA. REITERADA REJEIÇÃO DOS ARGUMENTOS EXPENDIDOS PELA PARTE NAS SEDES RECURSAIS ANTERIORES. AGRAVO INTERNO DESPROVIDO” (ARE n. 1.244.305-AgR, Relator o Ministro Luiz Fux, Primeira Turma, DJe 7.4.2020).
+
+    “Agravo regimental em recurso extraordinário. 2. Direito Administrativo. 3. ANP. Nulidade do auto de infração. 4. Matéria infraconstitucional. Ofensa reflexa à Constituição Federal. Necessidade de reexame do acervo probatório. Súmula 279 do STF. 5. Precedentes. 6. Inexistência de argumentos capazes de infirmar a decisão agravada. 7. Agravo regimental a que se nega provimento. Sem majoração da verba honorária” (RE n. 875.689-AgR, Relator o Ministro Gilmar Mendes, Segunda Turma, DJe 1º.6.2020).
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. AMBIENTAL. NULIDADE DE AUTO DE INFRAÇÃO E DE MULTA. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. VERBA HONORÁRIA MAJORADA EM 1%, PERCENTUAL QUE SE SOMA AO FIXADO NA ORIGEM, OBEDECIDOS OS LIMITES DOS §§ 2º, 3º E 11 DO ART. 85 DO CÓDIGO DE PROCESSO CIVIL/2015, E MULTA APLICADA NO PERCENTUAL DE 1%, CONFORME O § 4º DO ART. 1.021 DO CÓDIGO DE PROCESSO CIVIL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE n. 1.097.796-AgR, de minha relatoria, Plenário, DJe 25.4.2018).
+
+    Nada há a prover quanto às alegações do recorrente.
+
+    8. Pelo exposto, nego provimento ao recurso extraordinário (als. a e b do inc. IV do art. 932 do Código de Processo Civil e § 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal) e condeno a parte sucumbente, nesta instância recursal, ao pagamento de honorários advocatícios majorados em 10%, percentual que se soma ao fixado na origem, obedecidos os limites dos §§ 2º, 3º e 11 do art. 85 do Código de Processo Civil.
+
+    Ressalte-se que eventual recurso manifestamente inadmissível contra esta decisão demonstraria apenas inconformismo e resistência em pôr termo a processos que se arrastam em detrimento da eficiente prestação jurisdicional, o que sujeitaria a parte à aplicação da multa processual do § 4º do art. 1.021 do Código de Processo Civil.
+
+    Publique-se.
+
+    Brasília, 12 de agosto de 2022.
+
+Ministra CÁRMEN LÚCIA
+
+Relatora
