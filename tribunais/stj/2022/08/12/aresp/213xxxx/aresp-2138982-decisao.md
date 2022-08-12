@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de agravo apresentado por MAGDA SUSEL KONRATH contra a decisão que não admitiu seu recurso especial.
+O apelo nobre fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, assim resumido:
+AGRAVO INTERNO. JUÍZO DE ADMISSIBILIDADE. GRATUIDADE DA JUSTIÇA. RECURSO EXTRAORDINÁRIO. REPERCUSSÃO GERAL. AUSÊNCIA. TEMA 188 DO STF. RECURSO DESPROVIDO COM APLICAÇÃO DE MULTA.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega violação dos arts. 489, 1.021 e 1.030 do CPC, no que concerne à revogação da aplicação da multa disposta (parágrafo 4º do artigo 1.021 do CPC), por ausência de fundamentação, trazendo o(s) seguinte(s) argumento(s):
+O acórdão regional ora recorrido contrariou flagrantemente o disposto no artigo 1.021, § 4º e 1.030 do Código de Processo Civil, ao fixar a multa prevista sem qualquer análise sobre a "manifesta improcedência do recurso".
+A r. decisão refere que,em face a manifesta improcedência do recurso, é de se aplicar multa cominatória em 1% do valor da causa atualizado:
+ ..
+Todavia, necessário esclarecer que o julgamento em questão em nada coincide com a ausência de repercussão geral determinada pela Tema 188, isto porque, a decisão se refere ao preenchimento dos requisitos processuais para concessão do benefício, controvérsia não impugnada nestes autos, eis que a matéria dos autos versa exclusivamente sobre o benefício de AJG concedido sobre os mesmos parâmetros, no processo de conhecimento, replicado no processo de execução, eis que consectário lógico da demanda.
+ ..
+Isto é, a decisão, além de impedir o seguimento do recurso intentado, acaba por violar os ditames do artigo 1.030 do Código de Processo Civil, que é claro ao afirmar que, da decisão que nega seguimento ao recurso extraordinário interposto contra acórdão exarado no regime de repercussão geral, caberá agravo interno.
+No referido acórdão não houve sequer análise sobre o recurso intentado e a divergência com o julgamento do Tema 188, não citando motivos hábeis a considerar o recurso inadmissível e a ensejar a aplicação da referida multa.
+Dessa forma, em face da ofensa literal à dispositivo contido no Código de Processo Civil, em virtude de omissão nos argumentos expostos não carreados pelo juízo, o provimento do presente recurso é medida que se impõe, sob pena de perpetrar a referida violação, bem como trancar as portas de acesso ao Poder Judiciária na busca por direitos. (fls. 269-271).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, na espécie, não é cabível recurso especial contra acórdão proferido em agravo interno que manteve a negativa de seguimento ao recurso especial ou extraordinário em virtude de o julgado impugnado estar em consonância com tese firmada sob a sistemática dos recursos repetitivos ou da repercussão geral.
+Nesse sentido: "A jurisprudência do Superior Tribunal de Justiça entende não ser cabível novo recurso especial para reexaminar acórdão que, julgando agravo interno, manteve a decisão da presidência do tribunal local, a qual inadmitiu o primeiro recurso especial com fulcro em entendimento firmado em recurso repetitivo". (AgInt no AREsp 1.586.417/PR, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 28/5/2020.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.533.942/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 20/2/2020; AgRg no AREsp 772.375/MG, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 12/3/2018; AgInt no AREsp n. 849.349/PR, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 09/06/2021.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
