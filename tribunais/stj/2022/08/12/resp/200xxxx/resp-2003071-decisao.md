@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal deJustiça do Estado de Mato Grosso, assim ementado (fls. 163-164):
+APELAÇÃO/REMESSA NECESSÁRIA  PENSÃO POR MORTE  FILHO INVÁLIDO  ARTIGOS 7º, I, E 11, III, A, DA LEI DO ESTADO DE MATO GROSSO Nº4.491, DE 9 DE SETEMBRO DE 1982, VIGENTE ÀÉPOCA DO ÓBITO DO INSTITUIDOR DO BENEFÍCIO  INVALIDEZ  CONSTATAÇÃO. RECEBIMENTO DE PARCELA PROPORCIONAL ATÉ A DATA DA CESSAÇÃO DO BENEFÍCIO PERCEBIDO PELA GENITORA  NECESSIDADE. CORREÇÃO MONETÁRIA  TERMO INICIAL  DATA EM QUE AS PARCELAS DEVERIAM TER SIDO PAGAS. JUROS MORATÓRIOS  INCIDÊNCIA DOS ÍNDICES OFICIAIS DE REMUNERAÇÃO BÁSICA E JUROS APLICADOS À CADERNETA DE POUPANÇA. HONORÁRIOS ADVOCATÍCIOS  FIXAÇÃO NA FASE DE LIQUIDAÇÃO DE SENTENÇA  ARTIGO 85, § 4º, II, DO CÓDIGO DE PROCESSO CIVIL.
+É devida pensão ao filho inválido, a teor dos artigos 7º, I, e 11, III, a, da Lei do Estado de Mato Grosso nº 4.491, de 9 de setembro de 1982, vigente à época do óbito do instituidor do benefício.
+Por outro lado, o filho faz jus ao recebimento de cinquenta por cento (50%) da pensão até a cessação do benefício percebido por sua genitora. Após essa data, é devido o recebimento do montante integral.
+O termo inicial da correção monetária é a data em que as parcelas deveriam ter sido pagas.
+Quanto ao cálculo dos juros moratórios, deve ser observado o disposto no artigo 1º-F da Lei nº 9.494, de 10 de setembro de 1997, com redação dada pela Lei nº 11.960, de 29 de junho de 2009.
+Os honorários advocatícios devem ser fixados nos termos do artigo 85, § 4º, II, do Código de Processo Civil, por se cuidar de sentença ilíquida. Recurso provido em parte. Sentença ratificada nos seus demais termos.
+Embargos de declaração rejeitados.
+O recorrente alega violação aos artigos 17 do CPC/2015 e 1º do Decreto 20.910/32, sob osseguintes argumentos: (a)não possui legitimidadepara figurar na presente demanda, tendo em vista competir à Mato Grosso Previdência (MTPREV) a concessão de pensão por morte devida aos dependentes dos servidores civis do Poder Executivo estadual; (b) à ocorrência da prescrição do direito do recorrido ao recebimento da pensão por morte, considerando ser seu termo a quoa data doindeferimento administrativo anterior.
+Comcontrarrazões.
+Juízo positivo de admissibilidade às fls. 263-267.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+No que diz respeito à ofensa ao artigo 17 do CPC, referente à ilegitimidade da parte recorrente, evidencia-se que a tutela jurisdicional foi prestada pelo acórdão recorrido com fundamento na Lei Complementar Estadual n. 560, razão por que o recurso especial não deve ser conhecido nesta Corte Superior por demandar interpretação de normativo estranho à legislação federal. Aplica-se ao caso a Súmula 280/STF.
+No que se refereao artigo1º do Decreto 20.910/32 e a tese a ele vinculada, verifica-se que não houve juízo de valor por parte da Corte de origem, o que acarreta o não conhecimento do recurso especial pela falta de cumprimento ao requisito do prequestionamento. Aplica-se ao caso a Súmula 282/STF.
+Frise-se, por oportuno, que os embargos de declaração opostos na origem não buscaram sanar eventual vício relativo à aplicação dos aludidos dispositivos legais.
+A propósito,os seguintes precedentes: AgInt no AREsp 1.514.978/SC, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17/6/2020; AgInt no AREsp 965.710/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19/9/2018; e AgRg no AREsp 1.217.660/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/5/2018.
+Ante o exposto, não conheço do recurso especial.Caso tenham sido fixados honorários sucumbenciais anteriormente pelas instâncias ordinárias, majoro em 10% os honorários advocatícios, observados os limites e parâmetros dos §§ 2º, 3º e 11 do artigo 85 do CPC/2015 e eventual Gratuidade da Justiça (§ 3º do artigo 98 do CPC/2015).
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. INTERPRETAÇÃO DE LEI LOCAL. IMPOSSIBILIDADE. SÚMULA 280/STF.AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. RECURSO ESPECIAL NÃO CONHECIDO.
