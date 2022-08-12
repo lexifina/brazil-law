@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto por CLAUDIO UDOVIC LANDIN em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+Neste recurso, alega que "se encontra encarcerado cumprindo pena em decorrência de condenações, pelos delitos tipificados nos art. 297 e 171 ambos do Código Penal, nos autos das Ações Penais de nº 007990-55.2010.4.03.6181, 009994-89.2015.4.03.6181, 007987-03.2010.4.03.6181, 007989-70.2010.4.03.6181, e 007988-85.2010.4.03.6181, totalizando-se uma reprimenda de 14 (quatorze) anos e 6 (seis) meses a cumprir" (e-STJ fl.1829).
+Sustenta constrangimento ilegal relativo ao não reconhecimento do período em que o paciente esteve preso preventivamente, nos períodos de 6/2/2015 a 9/10/2015 (8 meses e 1 dia) e de 14/3/2019 a 7/8/2020 (1 ano, 4 meses e 25 dias), para fins de detração penal e progressão ao regime semiaberto.
+Requer, inclusive liminarmente,seja determinado o reconhecimento do período em que o sentenciado permaneceu preso cautelarmente de 06/02/2015 à 09/10/2015 e 14/03/2019 à 07/08/2020, relativo ao processo n. 0001682- 03.2010.4.03.6181, por 8 (oito) meses e 1 (um) dia e por 1 (um) ano, 4 (quatro) meses e 25 (vinte e cinco) dias, respectivamente, como pena efetivamente cumprida, nos termos do art. 42 do CP.
+O pedido liminar foi indeferido.
+O Ministério Público Federal opinou pelo não conhecimento do recurso ordinário.
+É o relatório.
+É manifesta a superveniente ausência de interesse de agir que atingiu esta impetração, pois, em consulta à base de dados processuais desta Corte, verifica-se que as questões aqui levantadas já foram recentemente examinadas quando do julgamento do HC 661.022/SP, de minha relatoria, o qual não foi conhecido, mas concedida a ordem de ofício, "para anular a decisão proferida nos autos do Habeas Corpus n. 2045198-94.2021.8.26.0000, determinando que seja apreciada pelo Tribunal de Justiça do Estado de São Paulo a existência de eventual ilegalidade cometida pelo Juízo das Execuções".
+Verifica-se, da análise da referida decisão, tratar-se de impetração contra o mesmo acórdão impugnado nestes autos (Habeas Corpus n. 2045198-94.2021.8.26.0000), com os mesmos fundamentos, referentes ao pleito de detração do pedido em que o recorrente permaneceu preso preventivamente.
+Ademais, o Tribunal de origem consoante informações prestadas, oJuiz Coordenador e Corregedor do DEECRIM da 1ªRAJ mencionouque "determinei, nesta data, a urgente retificação do cálculo de penas, com posterior abertura de vista ao Ministério Público para manifestação acerca do pedido de progressão de regime formulado em 26 de março de 2022." (e-STJ, fl. 1902).
+Ante o exposto, julgo prejudicado o recurso ordinário.
+Publique-se. Intime-se.
