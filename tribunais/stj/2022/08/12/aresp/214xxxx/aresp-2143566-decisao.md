@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto porPEPSICO DO BRASIL LTDA,contra decisão que negou seguimento a recurso especial fundamentadonas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em:27/07/2021.
+Concluso ao gabinete em: 08/08/2022.
+Ação: produção antecipada de provas ajuizada por 6B ESTÚDIO DE ARTE LTDA. eBRASÍLIO TSUGUO BRASIL LTDA. em face da recorrente, objetivando a exibição de comprovante de artes e impressões das embalagens e respectivos anúncios das marcas Cheetos e Toddy relativamente ao período de 2017 até março de 2019, em nível global, relacionando período, praça e mídia em que disponibilizados.
+Sentença: julgou improcedente o pedido.
+Acórdão: deu provimento ao recurso de apelação interposto pelas recorridas, nos termos da seguinte ementa (e-STJ, fl. 336):
+APELAÇÃO - PRODUÇÃO ANTECIPADA DE PROVA - DIREITO AUTORAL - SENTENÇA DE IMPROCEDÊNCIA - INCONFORMISMO - ACOLHIMENTO - Alegação de adulteração da arte final desenvolvida pela autora contratada e utilização além dos limites negociados - Dificuldade de verificação da extensão da violação sem que a ré apresente informações - Sentença que acolheu alegações da ré apresentadas em defesa - Não se admite defesa em procedimento de produção antecipada de provas - Inteligência do artigo 382, § 4º do CPC - Caso concreto que não autoriza excepcionar a aplicação de regra legal expressa - Necessidade de prévio conhecimento dos fatos para que se possa justificar ou evitar o ajuizamento da ação, ou ainda, viabilizar composição amigável - Inteligência do art. 381, incisos II e III, do CPC - Sentença reformada - DERAM PROVIMENTO AO RECURSO, com determinação.
+Embargos de Declaração: opostos pela recorrente foram rejeitados.
+Recurso especial: sustenta, em suma, violação dos seguintes dispositivos legais:(i) arts. 381 e 382 do CPC/15, ao argumento de que o Tribunal de origem "falha e dá cumprimento diverso à ação de produção de provas ao determinar que a recorrente apresente provas fora dos limites e requisitos" legais (e-STJ, fl. 364), acentuando que não houve o preenchimento dos requisitos necessários ao uso da produção antecipada de provas, masa prática de fishing expedition;(ii) art. 373 do CPC/15, diante da ilegalidade da "inversão do ônus da prova que recaiu sobre a recorrente" (e-STJ, fl. 364); e(iii) art. 186 do Código Civil, tendo em vista que o Tribunal local "desconsidera os possíveis danos causados à recorrente aodeterminar que esta forneça a terceiro documentos sigilosos referentes às atividades comerciais da recorrente que nenhuma relação têm com os fatos alegados pelas recorridas" (e-STJ, fl. 365).
+RELATADO O PROCESSO, DECIDE-SE.
+- Da ausência de prequestionamento
+O acórdão recorrido, apesar da interposição de embargos de declaração, não decidiu acerca dos argumentos invocados pela recorrente em seu recurso especial quanto aos arts. 373 do CPC/15 e 186 do Código Civil, assim como relação à tese de fishing expedition, o que inviabiliza o seu julgamento. Aplica-se, na hipótese, a Súmula 211/STJ.
+- Do reexame de fatos e provas
+Noutro vértice, observa-se que o Tribunal de origem afirmou que "adificuldade de se comprovarque a empresa ré eventualmente tenha se utilizado das criações realizadas pela arte autora contratada sem o seu consentimento para além dos termos acordados é patente, tendo em vista a extensão que a violação pode ter alcançado, já que se tratam de produtos mundialmente comercializados (marcas Cheetos e Tody)" (e-STJ, fl. 338).
+Acentuou que, "sem a documentação solicitada não terá a autora como aquilatar o dano e sua extensão, dadas as peculiaridades da relação continuada havida entre as partes durante alguns anos, a qual teria sido modificada unilateralmente pela ré e de modo a lesar o direito da autora" (e-STJ, fl. 389) e concluiu pela presença da probabilidade do direito e o risco de dano de difícil reparação, determinando que "os documentos requeridos pela autora e descritos no item II, à fl. 5 da exordial, sejam apresentados pela ré" (e-STJ, fl. 338).
+Assim, para alterar o decidido no acórdão impugnado, no que se refere aopreenchimento dos requisitos necessários ao uso da produção antecipada de provas, tal como pretendido pela recorrente, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC/15, NÃO CONHEÇO do recurso especial.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados no julgamento do recurso pelo Tribunal de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. PRODUÇÃO ANTECIPADA DE PROVAS.PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA211/STJ.REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. A ausência de decisão acerca dos argumentos invocados pelo recorrente em suas razões recursais impede o conhecimento do recurso especial.
+2. O reexame de fatos e provas em recurso especial é inadmissível.
+3. Agravo conhecido. Recurso especial não conhecido.
