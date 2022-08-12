@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo interposto porGEORGE ARCANJO RIBEIRO DE LIMAcontra decisão do Tribunal de Justiça do Estado do Piauí que inadmitiu recurso especial fundamentado no art. 105, inciso III, alíneaa, da Constituição da República (Recurso em Sentido Estrito n.0701807-41.2020.8.18.0000).
+Consta nos autos que o Agravante foi pronunciado como incurso no art.121, § 2.º, incisoIV, do Código Penal.
+Irresignada, a Defesa recorreu ao Tribunal de origem, que negou provimento ao recurso em sentido estrito (fls. 510-518).
+Nas razões do recurso especial, a Defesa alega ofensa ao art. 121, caput, do Código Penal, pleiteando-se o afastamento daqualificadora referente ao recurso que dificultou a defesa da vítima, pois "não há provas de que o autor das facadas teve por propósito efetivamente surpreender a vítima, enganando-a, impedindo-a de se defender ou, ao menos, dificultando-lhe a reação" (fl. 538).
+Argumenta que "o acusado declarou que a vítima percebeu o instante em que o mesmo puxou a faca, antes de lesioná-la, pois todos estavam reunidos para fazer uso de entorpecentes, de forma que não houve qualquer surpresa ou impossibilidade de defesa" (fl. 538).
+Assevera que, "com a preexistência da animosidade, de modo que ambos estavam em constante estado de alerta, não se pode cogitar a referida qualificadora" (fl. 539).
+Foram apresentadas contrarrazões (fls. 544-559). O recurso especial não foi admitido (fls. 561-562). Foi interposto agravo (fls. 565-570), contraminutado às fls. 573-583.
+O Ministério Público Federal opinou pelo conhecimento do agravo para não conhecer do recurso especial; caso conhecido, manifestou-se pelo seu desprovimento (fls. 595-600).
+É o relatório. Decido.
+O agravo é tempestivo e impugnou os fundamentos da decisão agravada, razão pela qual passo à análise do recurso especial.
+De início, deve-se ressaltar que "somente é cabível a exclusão das qualificadoras, na decisão de pronúncia, quando manifestamente improcedentes, pois cabe ao Tribunal do Júri, diante dos fatos narrados na denúncia e colhidos durante a instrução probatória, a emissão de juízo de valor acerca da conduta praticada pelo réu" (AgRg no AREsp 1.420.950/PB, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, DJe 21/02/2020).
+No caso, aCorte estadual manteve a qualificadora doempregode recurso que dificultou a defesa da vítima com amparo nos seguintes fundamentos (fls. 517-518; grifos diversos do original):
+"In casu, a testemunha ISAAC DE ASSIS DA SILVA SOUSA declarou às fls. 22/23:
+"(..) QUE, ao chegarem naquela residência GEORGE surpreende RAIMUNDO com um golpe de faca na região do peito e nesse momento o depoente ao perceber a agressão física tentou impedir GEORGE de matar a vítima, tendo inclusive tentado agarrá-lo, porém, GEORGE continuou desferindo outros golpes contra a vítima; ( )"(grifou-se)
+Do acima transcrito, verificou-se que o golpe de faca desferido pelo ora recorrente se deu de surpresa, impossibilitando a sua defesa.
+Ademais, como já dito alhures, nesta fase processual, o interesse da sociedade prepondera, cabendo unicamente ao Júri decidir sobre a incidência ou não das circunstâncias que cercam o delito.
+Com efeito, não prospera a tese de afastamento da qualificadora de emprego de recurso que dificulte ou impossibilite a defesa da vítima."
+Com efeito, uma vez constatado, pela instância ordinária, que há indícios plausíveis de que a vítima foi surpreendida pelo Recorrente, a revisão desta conclusão, com o objetivo de afastar a incidência da qualificadora imputada, exigiria reexame do conjunto fático-probatório, o que encontraóbice na Súmula n.7/STJ.
+A esse respeito:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO TENTADO. EXCLUSÃO DA QUALIFICADORA REFERENTE AO RECURSO QUE DIFICULTOU A DEFESA DA VÍTIMA. INVIABILIDADE. ELEMENTO SURPRESA QUE, EM TESE, SE FAZ PRESENTE. DECISÃO QUE COMPETE AO CONSELHO DE SENTENÇA. INCIDÊNCIA DAS SÚMULAS 7 E 83/STJ.
+1. Entende esta Corte que "para configurar a qualificadora referente ao recurso que dificulte a defesa da vítima, a surpresa é o fator diferencial que se deve buscar" (REsp n. 1.713.312/RS, Rel. Ministro Sebastião Reis Júnior, 6ª T. DJe 3/4/2018)"(AgRg no REsp 1698353/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 25/09/2018, DJe 11/10/2018).
+2. Compete apenas ao Conselho de Sentença realizar juízo valorativo acerca da banalidade ou da gravidade da motivação dos crimes imputados, devendo a pronúncia limitar-se a aferir a existência de elementos mínimos nos autos aptos a sustentar objetivamente a tese acusatória, o que se verifica no caso no que se refere ao elemento surpresa.
+3. "Havendo minimamente a possibilidade de a vítima haver sido surpreendida com a conduta do Acusado, é necessário submeter esta tese fática ao Conselho de Sentença do Tribunal do Júri, que é a instância competente para aferir se a circunstância narrada na denúncia dificultou ou não a defesa da vítima  .. "(REsp 1779570/RS, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 13/08/2019, DJe 27/08/2019).
+4. Agravo regimental desprovido."(AgRg no AREsp n. 2.018.612/SP, Rel.Ministro OLINDO MENEZES (Desembargador Convocado do TRF 1ª Região), SEXTA TURMA, julgado em 19/4/2022, DJe 25/4/2022; sem grifos no original.)
+"PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO. IMPRONÚNCIA. MATERIALIDADE E INDÍCIOS DE AUTORIA APONTADOS PELAS INSTÂNCIAS ORDINÁRIAS. NECESSIDADE DE REEXAME DE PROVAS. AFASTAMENTO DAS CIRCUNSTÂNCIAS QUALIFICADORAS. INCIDÊNCIA DA SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+4. No caso, observa-se que a presença das qualificadoras do recurso que dificultou a defesa do ofendido e meio cruel foram lastreadas nos elementos probatórios presentes nos autos, o que impede a sua exclusão em sede de recurso especial. Nesse contexto, o decote das aludidas qualificadoras, da decisão de pronúncia, esbarra no óbice da Súmula n. 7 desta Corte, porquanto a instância ordinária invocou as provas dos autos para concluir que as referidas circunstâncias não são manifestamente improcedentes.
+5. Agravo regimental desprovido."(AgRg no AREsp n. 1.975.737/PR, Rel.Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 24/5/2022, DJe 26/5/2022; sem grifos no original.)
+Ante o exposto, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. HOMICÍDIO QUALIFICADO. PRONÚNCIA. EMPREGO DE RECURSO QUE DIFICULTOU A DEFESA DA VÍTIMA. AFASTAMENTO DE QUALIFICADORA. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA N.7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
