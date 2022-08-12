@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de agravo apresentado por SPEEDY SERVICE LTDA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, assim resumido:
+AGRAVO DE INSTRUMENTO. AÇÃO DE EXECUÇÃO. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. CONSTRIÇÃO DE VEÍCULOS. FROTA. EMPRESA DE TRANSPORTES DE CARGA. IMPENHORABILIDADE NÃO VERIFICADA.
+Quanto à controvérsia, alega violação do art. 833, V, do CPC, no que concerne à impenhorabilidade de bem considerado essencial às atividades da empresa recorrente, trazendo os seguintes argumentos:
+Com efeito, considerando tais premissas e fatos, impõe-se que, também em relação ao veículo objeto de restrição de circulação e consequente penhora, seja reformada a decisão de Primeiro Grau, para efeitos de cancelar a restrição de circulação e consequentemente a afastar eventual pleito de penhora porventura incidente sobre o citado veículo de propriedade da Recorrente, em vista do que preconiza o artigo 833, V, do CPC/15.
+Assim, a Recorrente se insurge contra a decisão em comento, porquanto tal veículo é efetivamente impenhorável, porquanto indispensável para o exercício da atividade da Recorrente. Não podendo, pois, haver quaisquer restrições ao direito de propriedade da Recorrente em relação ao mesmo (fls. 273).
+É, no essencial, o relatório. Decido.
+Na espécie, o acórdão recorrido assim decidiu:
+Cinge-se a controvérsia fundamentalmente em ser, ou não, cabível a penhora sobre os veículos de propriedade da empresa executada, ao argumento de que são utilizados para o trabalho de transporte de cargas.
+Nos termos do disposto no art. 833, inciso V, do CPC, para ser reconhecida a impenhorabilidade de um veículo é imprescindível que se comprove a necessidade e utilidade do bem ao exercício da atividade profissional do devedor.
+No caso em tela, a parte executada é empresa constituída sobre a forma de sociedade limitada e os veículos constritos são de sua propriedade, ou seja, não se trata de profissional autônomo, individual, não estando demonstrado o caráter de instrumento essencial para o exercício da atividade profissional dos bens em questão.
+Desse modo, incumbia à empresa demonstrar que a penhora e subsequente expropriação dos veículos acarretará risco de encerramento das atividades produtivas, ônus do qual não se desvencilhou, pois não acostou qualquer prova documental nesse sentido.
+Com efeito, a alienação dos veículos na execução poderá ensejar a diminuição da atividade da empresa. Contudo, tal situação isoladamente não induz ao convecimento de que há risco de encerramento das atividades produtivas, sobretudo porque o documento do RENAJUD indica que a frota de veículos é vasta e a constrição recaiu sobre parte deles.
+Salienta-se que, em casos nos quais o exercício da profissão refere-se ao uso/necessidade do veículo penhorado, a declaração da impenhorabilidade demanda prova incontestável nesse sentido, o que não constou nos autos.
+ ..
+Nesse contexto, uma vez não comprovadas as alegações de imprescindibilidade dos veículos pela recorrente, impõe-se a manutenção da decisão agravada (fls. 260-261, grifos meus).
+Aplicável, portanto, o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Dessarte: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+A propósito: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
