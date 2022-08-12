@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de agravo interposto por CECÍLIA CORDEIRO BURLA DE AGUIAR NICOLAUcontra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando decisão da Presidência do Tribunal de Justiça do Estado do Rio de Janeiro, que não admitiu recurso especial pelos seguintes fundamentos: (I)não foram objeto de análise pelo acórdão recorrido do art. 203,§1º e 1.009 do CPC, tampouco foram opostos embargos de declaração, o que atrai a incidência das Súmulas 282 e 356/STF; (II) não houve impugnação a fundamento basilar do acórdão, o que atrai a incidência da Súmula 283/STF; (III) não houve a comprovação do dissídio jurisprudencial.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Verifica-se que o inconformismo não ultrapassa a barreira do conhecimento,pois a parte agravante deixou de impugnar a totalidade dos motivos adotados pelo Tribunal de origem para negar trânsito ao apelo especial.
+No caso, a parte agravante deixou de rebater, de modo específico, a incidência das Súmulas 282 e 356/STF, poisapesar de afirmar que "a ausência de aplicação dos mencionados dispositivos, negando, com o devido respeito, vigência a estes, demonstram sua violação de forma implícita,sendo despiciendo a expressa citação destes, mas, apenas, o vilipêndio de seus mandamentos comporem a fundamentação da decisão recorrida" (fl. 147), a parte quedou inerte em apontar qual ponto do acórdão afastou a aplicação de sua tese, bem como deixou de mencionar as razões pelas quais deixou de opor embargos de declaração para sanar a omissão.
+Incide, desse modo, por analogia, a Súmula 182/STJ ("É inviável o agravo
+do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida.").
+ANTE O EXPOSTO, nos termos do art. 932, III, do CPC/2015, não conheço do agravo.
+Publique-se.
