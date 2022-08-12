@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de agravo apresentado por FLAMI"S EVENTOS ESPECIAIS LTDA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+OBJEÇÃO PRELIMINAR CERCEAMENTO DE DEFESA NÃO OCORRÊNCIA APELAÇÃO EMBARGOS MONITÓRIOS REJEITADOS CONTRATO DE EMPRÉSTIMO DE VALOR CERTO INSTRUMENTALIZADO POR CÉDULA DE CRÉDITO BANCÁRIO
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega violação do art. 369 do CPC, no que concerne à necessidade de reabertura da instrução processual, uma vez que houve cerceamento de defesa, trazendo os seguintes argumentos:
+Era, portanto, direito do recorrente a realização de prova pericial, o que restou violado no presente caso. Em outras palavras, havia clara controvérsia sobre a matéria quanto ao valor do inadimplemento da autora, o qual fundamenta-se na abusividade das cláusulas contratadas, notadamente quanto ao juros contratados, comissão de permanência e IOF financiado, mas a recorrente teve seu constitucional direito de defesa tolhido.
+ ..
+Aliás, no presente caso, o pedido foi indeferido justamente sob o fundamento de que o julgador já encontrava elementos hábeis para o deslinde da controvérsia. No entanto, com a documentação apresentada, sequer foi possível analisar se houveram juros moratórios e à correção monetária incidentes após o ajuizamento da ação monitória (que diferem daqueles contratuais verificados para a composição do débito na fase contratual, antes do início do processo judicial), questão expressamente suscitada pelo embargante em recurso. (fls. 176/178).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+Tecidas tais genéricas considerações, especificamente na hipótese dos autos o desate antecipado dos embargos não implicou cerceamento de defesa.
+Se a apelante pretendia apresentar cálculos, disso ela não foi tolhida, uma vez que teve inegável acesso ao contrato e à planilha de débitos que acompanhou a inicial.
+De posse de tais dados, a apelante tinha plenas condições de exibir demonstrativo contábil, caso assim desejasse (fl. 167).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
