@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial manejado pelo Estado do Paraná, com base no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado do Paraná, assim ementado (fl. 735):
+PROCESSO CIVIL. TRIBUTÁRIO. Remessa do feito pela Primeira Vice-Presidência deste Tribunal, a fim de possibilitar o juízo de retratação. Artigo 1.030, II, CPC/2015. Entendimento fixado pelo STF no julgamento do Recurso Extraordinário nº 594.015/SP. CORREÇÃO MONETÁRIA E JUROS MORATÓRIOS EM AÇÃO ORDINÁRIA C/C REPETIÇÃO INDÉBITO TRIBUTÁRIO. Adequação à nova orientação firmada pelo Supremo Tribunal Federal em sede de Repercussão Geral (RE 870.947/SE) e pelo Superior Tribunal de Justiça no REsp n. 1.495.146/MG. Acórdão reformado.
+Juízo de retratação exercido.
+Os embargos declaratórios opostos foram rejeitados, nos termos do acórdão de fls. 829/833.
+A parte recorrente aponta violação ao art. 167, parágrafo único, do CTN. Sustenta, em resumo, "impossibilidade de ser aplicada a SELIC antes do trânsito em julgado por conta da existência de juros embutidos" (fl. 845), pois "somente após o trânsito em julgado é que se pode falar em juros moratórios. Antes, só correção monetária isoladamente. É esta a intelecção que norteia o STJ até os dias de hoje, uma vez que ainda está em vigor a Súmula n. 188/STJ" (fl. 845), sendo que "O Superior Tribunal de Justiça, atento a tal particularidade, já evidenciou que SELIC não deve se cumulada com nenhum outro índice de correção monetária, justamente por nela já existir um percentual de atualização monetária além de juros de mora" (fl. 846).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+O apelo raro não comporta trânsito.
+Quanto à aplicação da SELIC desde o pagamento indevido, o Tribunal de origem assim fundamentou (fl. 830/831):
+No caso do Estado do Paraná, portanto, aplica-se a TAXA SELIC, nos termos do art. 38 da Lei nº 11.580/96, desde cada pagamento indevido até o trânsito em julgado e, após, juros de mora e correção monetária pela taxa SELIC.
+Veja-se o teor do artigo:
+Art. 38. O crédito tributário não integralmente pago no vencimento, inclusive o decorrente de multas, será acrescido de juros de mora, correspondente ao somatório da taxa referencial do Sistema Especial de Liquidação e de Custódia - SELIC, para títulos federais, ao mês ou fração, exceto quando garantido pelo depósito do seu montante integral, na forma da lei.
+Não há que se falar em alteração do julgado, pois Superior Tribunal de Justiça no Tema nº 905, determinou que os índices devem ser aplicados de acordo com as legislações estaduais, na fase de liquidação/cumprimento de sentença.
+Nesse panorama, o exame da controvérsia, tal como enfrentada pelas instâncias ordinárias, exigiria a análise de dispositivos de legislação local a saber Lei Estadual 11.580/96, pretensão insuscetível de ser apreciada em recurso especial, conforme a Súmula 280/STF ("Por ofensa a direito local não cabe recurso extraordinário."). Nesse sentido:
+TRIBUTÁRIO. REPETIÇÃO DE INDÉBITO. TRIBUTO ESTADUAL. ATUALIZAÇÃO. TAXA SELIC. TERMO INICIAL. RECOLHIMENTO INDEVIDO. ACÓRDÃO RECORRIDO CONFORME A JURISPRUDÊNCIA DO STJ. NORMA LOCAL. REEXAME. IMPOSSIBILIDADE.
+1. Os valores a serem devolvidos a título de repetição de indébito tributário, em atenção ao princípio da isonomia, devem ser atualizados pelos mesmos índices de correção monetária e de juros de mora aplicados na cobrança de tributo em atraso, de modo que é devida a utilização da Taxa Selic desde o recolhimento indevido, inclusive na esfera estadual, a partir da vigência da lei local que a tenha estabelecido (Temas 119 e 905 do STJ).
+2. A conformidade do acórdão recorrido com a jurisprudência do STJ enseja a aplicação do óbice de conhecimento estampado na Súmula 83 do STJ.
+3. A revisão do acórdão combatido quanto à alegação de existência de lei estadual que prevê diferente marco inicial para incidência da Selic como índice de atualização para repetição de indébito tributário pressupõe reexame de norma local, o que é inviável no âmbito do recurso especial, consoante inteligência da Súmula 280 do STF.
+4. Agravo interno desprovido.
+(AgInt no REsp 1940005 / PR, Rel. Ministro Gurgel de Faria, Primeira Turma, Julgado em 14/03/2022, DJe 22/03/2022).
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. REPETIÇÃO DE INDÉBITO. CONTRIBUIÇÃO PREVIDENCIÁRIA. DÉBITO DE NATUREZA TRIBUTÁRIA. CONSECTÁRIOS LEGAIS DA CONDENAÇÃO. MATÉRIA SUBMETIDA AO RITO DOS RECURSOS REPETITIVOS. RECURSOS ESPECIAIS 1.495.144/RS, 1.495.146/MG E 1.492.221/PR. TEMA 905/STJ. INTEPRETAÇÃO DE LEGISLAÇÃO LOCAL. IMPOSSIBILIDADE. SÚMULA 280/STF. AGRAVO INTERNO DO ESTADO NÃO PROVIDO.
+1. O entendimento da Corte local está em consonância com a jurisprudência do STJ sobre o tema no sentido de que a correção monetária e a taxa de juros de mora incidentes na repetição de indébitos tributários devem corresponder às utilizadas na cobrança de tributo pago em atraso. Não havendo disposição legal específica, os juros de mora são calculados à taxa de 1% ao mês (art. 161, § 1º, do CTN). Observada a regra isonômica e havendo previsão na legislação da entidade tributante, é legítima a utilização da taxa Selic, sendo vedada sua cumulação com quaisquer outros índices.
+(REsp 1.492.221/PR, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, julgado em 22/2/2018, DJe 20/3/2018).
+2. A relação jurídica discutida tem evidente natureza tributária pois o simples fato de a contribuição previdenciária destinar-se ao regime próprio de previdência estadual não transmuta a natureza da condenação, que tem origem na cobrança indevida de tributo estadual.
+(AgInt no REsp 1.912.911/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 3/8/2021).
+3. De outro modo, o recurso não merece prosperar ante o óbice da Súmula 280/STF, uma vez que a questão foi decidida pela Corte de origem mediante análise de legislação local, qual seja, Lei Estadual 11.580/1996.
+4. Agravo interno do Estado do Paraná não provido.
+(AgInt no REsp 1941773 / PR , rel. Ministro Manoel Erhardt (Desembargador Federal convocado do TRF/5ª Região), Primeira Turma, DJe de 29/09/2021)
+ANTE O EXPOSTO, não conheço do recurso especial.
+Publique-se.
