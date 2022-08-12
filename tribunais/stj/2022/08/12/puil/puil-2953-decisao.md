@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de pedido de uniformização de interpretação de lei formulado por Rosane Simão, com fundamento no artigo 926 do CPC, contra acórdão proferidopela Primeira Turma Recursal da Fazenda Publica da Comarca de Novo Hamburgo/RS, assim ementado (fl. 19):
+RECURSO INOMINADO. PRIMEIRA TURMA RECURSAL DA FAZENDA PÚBLICA. AÇÃO INDENIZATÓRIA POR DANOS EXTRAPATRIMONIAS. LIBERAÇÃO DO CORPO PARA PROCEDIMENTOS FÚNEBRES. ATRASO POR NECESSIDADE DE EXAMES PARA IDENTIFICAÇÃODO CORPO. SENTENÇA DE IMPROCEDÊNCIA MANTIDA PORSEUS PRÓPRIOS FUNDAMENTOS. ART. 46 DA LEI 9.099/95. NEGARAM PROVIMENTO AO RECURSO INOMINADO. UNÂNIME.
+Em suas razões, a recorrentealega a existência de divergência jurisprudencial com julgado da Primeira TurmaRecursal dos Juizados Especiais Cíveis e Criminais do Distrito Federal,no sentido de que são cabíveis danos morais em decorrência da inércia do órgão em adotar as devidas providências relativas à liberação do corpo de de cujos.
+Acrescenta que "os danos são evidentes, devido ao sofrimento suportado pela genitora, ora recorrente, que além de perder o filho, de maneira inesperada e violenta, ainda se viu privada de realizar os procedimentos fúnebres, por culpa da parte recorrida, que silenciou quando notificada para adotar as providências cabíveis" (fls. 112).
+O Presidente da Turma Recursaldeterminou a remessa dos autos a esta Corte Superior, na forma do art. 18, §3º, daLei12.153/2009 (fls. 155/157).
+Contrarrazões às fls. 763/775.
+É o relatório. Passo a decidir.
+Nos termos do art. 18, § 3º, da Lei n. 12.153/2009, o pedido de uniformização de interpretação de lei federal é cabível no âmbito deste Tribunal Superior, quando as Turmas Recursais de diferentes Estados derem à lei federal interpretações divergentes ou quando a decisão proferida estiver em contrariedade com súmula do STJ, especificamente no que se refere a questões de direito material, senão vejamos:
+O art. 18 da Lei 12.153/2009 dispõe:
+Art. 18. Caberá pedido de uniformização de interpretação de lei quando houver divergência entre decisões proferidas por Turmas Recursais sobre questões de direito material.
+(..)
+§ 3º Quando as Turmas de diferentes Estados derem a lei federal interpretações divergentes, ou quando a decisão proferida estiver em contrariedade com súmula do Superior Tribunal de Justiça, o pedido será por este julgado.
+Isso considerado, mostra-se inviável o processamento do presente feito, diante da ausência dorequisito da identidade fático-jurídica entre os acórdãos confrontados, uma vez que as peculiaridades do caso vertente não se encontram espelhadas noparadigma apontado, o qual,a toda evidência, lastreou-se em fatos, provas e circunstâncias distintas das constantes dos autos sob análise.
+Nesse sentido:
+AGRAVO INTERNO EM PUIL. DECISÃO MONOCRÁTICA QUE NÃO CONHECEU DO PEDIDO POR FALTA DE EVIDENCIAÇÃO DA DISSONÂNCIA, CONSOANTE ART. 18, § 3º, DA LEI 12.153/2009. AGRAVO INTERNO DEVOTADO A ASPECTOS MERITÓRIOS. RAZÕES DISSOCIADAS.
+1. O desfecho da solução unipessoal em PUIL foi por não se ultrapassar a barreira do conhecimento do pedido de uniformização, sob a compreensão de que a parte até busca comparar julgados de Turmas Recursais quanto ao tema do termo inicial da prescrição. Mas não há a identificação da similitude fática necessária ao conhecimento do Pedido de Uniformização nesta Corte Superior (fl. 444).
+2. Como se sabe, a identificação da divergência é essencial para o conhecimento do pedido de uniformização fundado no art. 18 da Lei 12.153/2009, providência de que a parte requerente não se desincumbiu por ocasião do manejo do pedido de uniformização.
+3. No agravo interno, a parte se lançou em argumentos meritórios, alusivos ao prazo de prescrição, deixando de abordar o tema da cognoscibilidade do pedido de uniformização. Por isso, o agravo interno também não pode ser conhecido, por cuidar de razões dissociadas ao fundamento que norteou a decisão recorrida.
+4. Agravo interno não conhecido(AgInt no PUIL n. 1.081/MS, relator Ministro Manoel Erhardt (Desembargador Convocado do Trf5), Primeira Seção, julgado em 3/5/2022, DJe de 5/5/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI, COM FUNDAMENTO NO ART. 18, § 3º, DA LEI 12.153/2009. DISSÍDIO NÃO COMPROVADO.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. "Esta Corte já pacificou o entendimento de que a simples transcrição de ementas e de trechos de julgados não é suficiente para caracterizar o cotejo analítico, uma vez que requer a demonstração das circunstâncias identificadoras da divergência entre o caso confrontado e o aresto paradigma, mesmo no caso de dissídio notório" (AgInt no AREsp n. 1.242.167/MA, Relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 5/4/2019). Em igual sentido:
+AgInt no AREsp 1.657.171/MT, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 28/10/2020; AgRg no AREsp 535.444/PR, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 1º/4/2019; REsp 1.773.244/RJ, Rel. Ministra Nancy Andrighi, Terceira Turma, DJe 5/4/2019; e AgInt no AREsp 1.358.026/RS, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe 1º/4/2019.
+3. É entendimento pacífico desta Corte que o Pedido de Uniformização de Interpretação de Lei não pode ser conhecido quando não demonstrada a similitude fática e jurídica entre os julgados confrontados.
+4. Agravo interno não provido(AgInt no PUIL n. 2.292/PR, relator Ministro Benedito Gonçalves, Primeira Seção, julgado em 12/4/2022, DJe de 19/4/2022.)
+Além disso, é ressabido queas situações relacionadas a pedidos indenizatórios decorrentes de má prestação de serviço público, de forma geral, demandam a incursão na seara fático-probatória dos autos (para fins de comprovação e extensão do dano alegado, de configuração de caso fortuito ou força maior, dentre outras questões), o que é de todo inviável na presente via judicial.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. AUSÊNCIA DE SIMILITUDE FÁTICA ENTRE OS ACÓRDÃO CONFRONTADOS. REDISCUSSÃO DE MATÉRIA FÁTICA. IMPOSSIBILIDADE.
+1. É entendimento pacífico desta Corte que o Pedido de Uniformização de Interpretação de Lei não pode ser conhecido quando não demonstrada a similitude fática e jurídica entre os julgados confrontados.
+2. "Os recursos de uniformização jurisprudencial são destinados a dirimir teses jurídicas conflitantes, e não a reexaminar as premissas fáticas fixadas pela decisão recorrida no caso concreto para aplicar o melhor direito à espécie."(AgRg na Pet 10.622/AC, Rel. Ministro Herman Benjamin, Primeira Seção, DJe 14/10/2014).
+3. Agravo interno não provido(AgInt no PUIL n. 929/MA, relator Ministro Benedito Gonçalves, Primeira Seção, julgado em 30/4/2019, DJe de 6/5/2019.)
+Ante o exposto, com fundamento no art. 34, XVIII, a, do RISTJ, não conheço do presente pedido.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. DISSÍDIO NÃO COMPROVADO. REDISCUSSÃO DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. PRECEDENTES.PEDIDO NÃO CONHECIDO.
