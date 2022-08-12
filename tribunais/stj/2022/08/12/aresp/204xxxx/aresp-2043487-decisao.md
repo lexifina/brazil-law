@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão da Corte de origem que não admitiu o recurso especial em razão da incidência daSúmula83do STJ.
+O apelo nobre obstado enfrenta acórdão, assim ementado (fl. 106):
+PROCESSO CIVIL. AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. SUSPENSÃO.POSTERIOR ATRIBUIÇÃO DE EFEITO SUSPENSIVO AOS EMBARGOS. DECISÃO NÃORECORRIDA. PRECLUSÃO. PROSSEGUIMENTO DA EXECUÇÃO EQÜIVALERIA Ã LIQUIDAÇÃODA GARANTIA. OFENSA AO ART. 32, §2º DA LEF. PRECEDENTES DO STJ. OFENSA AOPRINCÍPIO DA MENOR ONEROSIDADE. PRECEDENTES DA QUARTA TURMA ESPECIALIZADADESTE TRIBUNAL. AGRAVO DE INSTRUMENTO DESPROVIDO.
+1. Trata-se de Agravo de Instrumento objetivando a reforma da decisão, por meio da qual o douto Juízo da 6a VaraFederal de Execução Fiscal do Rio de Janeiro suspendeu a execução fiscal "até que decorrido o prazo paraoposição de embargos, até que estes sejam julgados ou até que venha algum pedido das partes".
+2. A recorrente sustenta, em resumo, que não estão preenchidos todos os requisitos do §1º do art. 919 do CPC,tendo o magistrado a quo suspendido a execução apenas em razão da garantia da dívida constituída. Aduz que nãocabe a suspensão da execução fiscal apenas com base na apresentação de garantia, ainda que esta seja idônea esuficiente.
+3. Verifica-se que, posteriormente ã decisão agravada, proferida em 23/08/2019 (evento 36 dos autos de origem),pelo douto magistrado a quo foi proferida nova decisão, em 16/09/2019, nos autos dos Embargos ã Execução nº5042705-89.2019.4.02.5101 (evento 4), atribuindo-lhes efeito suspensivo, face ã integral garantia do crédito.
+4. Contra a referida decisão, proferida nos embargos ã execução, foram opostos embargos de declaração pela oraagravante, aos quais foi negado provimento, sem que houvesse, a agravante, recorrido da decisão, restando,portanto, mantida a suspensão da execução fiscal.
+5. Em vista da não interposição do recurso cabível contra a decisão que atribuiu efeito suspensivo aos embargos ãexecução a questão restou preclusa, de sorte que não pode ser analisada por este tribunal.
+6. De mais a mais, o prosseguimento da execução fiscal implicaria na liquidação da garantia do crédito, em ofensaao disposto no §2º do art. 32 da LEF, que determina a manutenção da garantia (depósito em dinheiro) até o trânsitoem julgado, devendo ser aplicada a mesma ratio ao seguro garantia e ã fiança bancária. Precedentes do STJ.
+7. A liquidação antecipada da garantia, além de não trazer qualquer benefício mediato ao exequente,acarretaria desnecessário prejuízo ã executada/agravante, em frontal ofensa ao princípio da menor onerosidade.Precedentes desta E. Turma Especializada.
+8. Agravo de instrumento desprovido.
+No recurso especial o recorrente alega violação aosartigos 507 e 919, § 1º do CPC e artigo 32, § 2º da Lei nº 6.830/80.
+Comcontrarrazões.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Decido.
+Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Tendo a parte insurgente impugnado os fundamentos da decisão agravada, passo ao exame do recurso especial.
+Inicialmente, quanto à questão da preclusão, assim se manifestou o Tribunal de origem (fl. 101):
+Com efeito, verifica-se que, posteriormente à decisão agravada, proferida em 23/08/2019 (evento 36dos autos de origem), pelo douto magistrado a quo foi proferida nova decisão, em 16/09/2019, nos autos dos Embargos à execução nº 5042705-89.2019.4.02.5101 (evento 4), atribuindo-lhes efeito suspensivo, face à integral garantia do crédito. Pois bem, contra a referida decisão, proferida nos embargos à execução, foram opostos embargos de declaração pela ora agravante, aos quais foi negado provimento, sem que houvesse a agravante recorrido da decisão, restando, portanto, mantida a suspensão da execução fiscal. Assim sendo, a não interposição do recurso cabível em face da decisão que atribuiu efeito suspensivo aos embargos à execução impede que a questão seja novamente analisada por este tribunal, sob pena de ofensa ao instituto da preclusão.
+No ponto, o recorrente aponta ofensa ao art. 507 do CPC, em razões recursais de fls. 125/126. Entretanto, o que se observa é queas alegações do recorrente sobre eventual ofensa à lei federal não estãodevidamente particularizadasde forma clara e específica e não tem em si correspondência com os fundamentos aplicados pelo acórdão recorrido, situação que impede a exata compreensão da controvérsia deduzida.Aplica-se à hipótese a Súmula 284/STF.
+Ademais, revolver as questões relativas à conclusão pela ocorrência de preclusão, envolvendo autos diversos, implica em providência vedada ao STJ, por força da sua Súmula 7.
+Do mesmo modo, quanto à alegada ofensa aos artigos 919 do CPC e 32 da LEF, é impossível o conhecimento do mérito recursal de modo a afastar a conclusão pela atribuição de efeito suspensivo à marcha do executivo fiscal. Isso porque tal cognição esbarra igualmente na Súmula 7/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ARGUMENTAÇÃO DISSOCIADA. SÚMULA 284/STF. REVOLVIMENTO DE FATOS E PROVAS EM RECURSO ESPECIAL. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER O RECURSO ESPECIAL
