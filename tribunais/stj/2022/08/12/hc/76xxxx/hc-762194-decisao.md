@@ -1,0 +1,10 @@
+DECISÃO
+O presente habeas corpus impetrado em nome de Weslei de Souza Genuário Costa - cuja prisão preventiva foi decretada em 29/11/2021, pela prática, em tese, do crime de tráfico de drogas e associação para o tráfico, atacando-se acórdão preferido pelo Tribunal de Justiça do Tocantins no HC n. 0003278-64.2022.8.27.2700 (fls. 218/222), que manteve a prisão preventiva decretada nos Autos n. 0005496-06.2021.8.27.2731, da Vara Criminal da comarca de Paraíso do Tocantins/TO - não deve ser conhecido.
+Ao que se tem, alega-se constrangimento ilegal consistente em deficiência de fundamentação do decreto preventivo e ausência de provas suficientes de autoria e requer-se, então, a concessão da ordem, inclusive em caráter liminar, a fim de que o paciente seja posto em liberdade.
+Isso porque, após consulta ao Sistema Integrado da Atividade Judiciária deste Superior Tribunal, verifica-se que foi interposto o Recurso em Habeas Corpus n. 167.147/TO, pelo ora paciente, com o mesmo objeto e em face do mesmo ato coator (Habeas Corpus n. 0003278-64.2022.8.27.2700).
+Assim, o fato de este writ constituir mera reiteração de pedidos já apreciados por esta Corte Superior impede o seu conhecimento. Se os pedidos veiculados neste habeas corpus foram efetivamente apreciados por esta Corte em outro processo, resta configurada a reiteração (AgRg no HC n. 469.846/PE, Ministro Ribeiro Dantas, Quinta Turma, DJe 13/8/2019). Confira-se julgados no mesmo sentido: AgRg no RHC n. 156.181/MS, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 24/2/2022; EDcl nos EDcl no AgRg no RHC n. 137.734/PR, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 11/3/2022; e AgRg na RvCr n. 4.101/RJ, Ministro Felix Fischer, Terceira Seção, DJe 1º/8/2018.
+Em razão disso, não conheço do presente writ.
+Publique-se.
+EMENTA
+HABEAS CORPUS. PRISÃO PREVENTIVA. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. GARANTIA DA ORDEM PÚBLICA. ALEGAÇÕES DE AUSÊNCIA DE PROVAS DE AUTORIA E DEFICIÊNCIA DE FUNDAMENTAÇÃO DO DECRETO PREVENTIVO. ANTERIOR INTERPOSIÇÃO DO RHC N. 167.147/TO. REITERAÇÃO DE PEDIDOS.
+Writ não conhecido.
