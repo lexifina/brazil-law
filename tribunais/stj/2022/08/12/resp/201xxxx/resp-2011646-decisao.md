@@ -1,0 +1,31 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto por CONSTRUTORA TENDA S/A, COTIA1 - EMPREENDIMENTO IMOBILIARIO LTDA contra decisão do Tribunal de Justiça do Estado de São Paulo assim ementada (e-STJ, fl. 451):
+APELAÇÃO CÍVEL - COMPROMISSO DE COMPRA E VENDA - INDENIZATÓRIA - LAUDO PERICIAL QUE CONSTATOU A EXISTÊNCIA DE FALHAS NO PROJETO (TERRAPLANAGEM) QUE COMPROMETEM O IMÓVEL - PROVA EMPRESTADA - VÍCIOS CONSTRUTIVOS DEMONSTRADOS - RESSARCIMENTO DEVIDO - DANOS MORAIS CONFIGURADOS SENTENÇA MANTIDA RECURSO NÃO PROVIDO.
+Opostos embargos de declaração, estes foram rejeitados.
+Nas razões do recurso especial a parte alega ofensa aos seguintes dispositivos legais: art. 1.022, II, do CPC e art. 26, II, do CDC.
+Sustenta preliminarmente que o acórdão deve ser anulado porque o Tribunal de origem não se manifestou a respeito dos seguintes pontos relevantes: "com a eventual procedência dos pedidos iniciais emergirá obrigação de fazer consistente no reparo dos supostos vícios tidos no Empreendimento, a natureza da demanda mostra-se claramente reparatória, e não indenizatória, pelo que aplicável à espécie o instituto da decadência (artigo 26/CDC) em detrimento da prescrição (artigo 205/CC)" - fl. 464.
+Quanto ao mérito, pede a reforma do acórdão por entender, em síntese, que "se a relação consumerista entre a aqui Recorrente e os Recorridos é inquestionável e, mais ainda, o que se pleiteia na peça de ingresso é a reexecução do serviço (obrigação de fazer consistente no reparo de vícios construtivos), é inevitável a conclusão de que aplica-se ao caso sub judice o prazo decadencial de 90 (noventa) dias previsto no inciso II, do artigo 26, do CDC" - fl. 467.
+É o relatório.
+Passo a decidir.
+Extrai-se dos autos que a Corte de origem afastou "a preliminar de decadência, uma vez que a pretensão do consumidor é de natureza indenizatória, ou seja, de obter o ressarcimento pelo prejuízo decorrente da existência de vícios do imóvel, não havendo incidência da prazo decadencial (REsp 1.721.694/SP, Rel. Min. Nancy Andrighi, 3ª Turma, j. 03.09.2019)" - fl. 453.
+Portanto, deve ser anulado o acórdão que rejeitou os embargos de declaração, para que seja sanada a omissão apontada, com o exame claro e detalhado da impugnação feita à natureza do pedido autoral e, consequentemente, reflexo na decadência ou prescrição da demanda.
+Conforme a jurisprudência do Superior Tribunal de Justiça, sendo efetivamente relevantes as questões aventadas na origem, impõe-se a acolhida do recurso especial para se reconhecer a omissão do julgado e determinar a apreciação dos temas suscitados.
+A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. FERIADO LOCAL. COMPROVAÇÃO EM AGRAVO REGIMENTAL. POSSIBILIDADE. CPC/1973. TEMPESTIVIDADE. INDENIZAÇÃO POR DANO MORAL. MATÉRIA JORNALÍSTICA. PROCEDÊNCIA DO PEDIDO. APELAÇÃO DE AMBAS AS PARTES. FALECIMENTO DO AUTOR. SUBSTITUIÇÃO PROCESSUAL. AUSÊNCIA DE HABILITAÇÃO DO ESPÓLIO. NÃO CONHECIMENTO DAS APELAÇÕES. EMBARGOS DE DECLARAÇÃO REJEITADOS. OMISSÃO CONFIGURADA. VIOLAÇÃO DO ART. 535 DO
+CPC/73. AGRAVO PROVIDO. RECURSO ESPECIAL PROVIDO.
+1. Possibilidade de comprovação da tempestividade recursal por ocasião da interposição do agravo interno nos casos de recurso manejado sob a égide do Código de Processo Civil de 1973. Reconsideração.
+2. A ausência de manifestação sobre questão relevante para o julgamento da causa, mesmo após a oposição de embargos de declaração, constitui negativa de prestação jurisdicional (CPC/1973, art. 535, II; CPC/2015, art. 1.022, II), impondo-se a anulação do acórdão dos embargos de declaração e o retorno dos autos ao Tribunal de origem para que se manifeste sobre o ponto omisso.
+3. Hipótese em que o Tribunal de origem, reconhecendo a ausência de pressuposto válido para o prosseguimento da ação, em razão da morte do autor e da ausência de habilitação do espólio, limitou-se a não conhecer das apelações interpostas pelas partes, deixando de se pronunciar acerca da eventual extinção do processo e demais questões arguidas em embargos de declaração. Existência de omissão relevante.
+4. Agravo interno provido para dar provimento ao recurso especial. (AgInt no REsp 1431860/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 10/08/2020, DJe 26/08/2020)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE RESCISÃO DE CONTRATO. SEGURO DE VIDA. 1. OMISSÃO DO TRIBUNAL ESTADUAL QUANTO À ALEGAÇÃO DE JULGAMENTO EXTRA PETITA. 2. MULTA DO ART. 1.026, § 2º, DO CPC/2015. AFASTAMENTO. AUSÊNCIA DE INTUITO PROTELATÓRIO. 3. DEMAIS ALEGAÇÕES PREJUDICADAS. 4. AGRAVO PARCIALMENTE PROVIDO.
+1.Segundo a jurisprudência do Superior Tribunal de Justiça, não tendo sido suprida a omissão apontada, impõe-se a devolução dos autos à Corte estadual, a fim de que realize novo julgamento dos embargos de declaração, sanando o vício atestado.
+2. Quanto à multa aplicada no julgamento dos embargos de declaração, com razão a recorrente, pois a multa não será cabível quando os embargos de declaração têm o objetivo de prequestionamento, consoante dispõe a Súmula 98/STJ.
+3. Determinado o retorno dos autos à instância originária para rejulgamento dos aclaratórios, fica prejudicada a apreciação das demais alegações.
+4. Agravo interno parcialmente provido. (AgInt no REsp 1875784/MG, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 28/09/2020, DJe 07/10/2020)
+Ante o exposto, dou provimento ao recurso especial, para, desconstituindo o acórdão que julgou os embargos de declaração, determinar seja a sanada a omissão verificada, examinando-se especificamente a natureza do pedido autoral.
+Intimem-se.
+EMENTA
+RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. COMPRA E VENDA DE IMÓVEL. PEDIDO AUTORAL SUBSUMIDOEM OBRIGAÇÃO DE FAZER. SUBMETIDO À DECADÊNCIA. ALEGAÇÃO NÃO EXAMINADA PELO TRIBUNAL DE ORIGEM. MUDANÇA DA BASE DE CÁLCULO QUE ENSERIA DIMINUIÇÃO SIGNIFICATIVA DO VALOR DEVIDO. ARGUMENTO RELEVANTE. VIOLAÇÃO DOS ARTS. 489, § 1º, IV, E 1.022 DO CPC VERIFICADA.
+1. Desconstituição do acórdão que rejeitou os embargos de declaração, para que seja sanada a omissão apontada, com o exame claro e detalhado da impugnação feita à natureza do pedido autoral e, consequentemente, reflexo na implementação dadecadência ou da prescrição da pretensão da parte demandante.
+2. RECURSO ESPECIAL PROVIDO.
