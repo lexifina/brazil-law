@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por Yara Brasil Fertilizantes S/A, contra decisão de fls. 593/595, que determinou a devolução dos autos ao Tribunal de origem para que lá fizesse o juízo de adequação ao Tema 914/STF.
+Sustenta a parte embargante, em resumo, a existência de omissão e erro material no decisum, pois pretende "não se sujeitar à incidência dos fatos geradores da CIDE-Royalties, previstos no art. 2º da Lei nº 10.168/00 especificamente no que tange a contratos firmados com beneficiários sediados ou domiciliados em países signatários do Acordo Geral de Tarifas e Comércio (GATT), Acordo Geral sobre o Comércio de Serviços (GATS), e/ou Acordo sobre os Aspectos dos Direitos de Propriedade Intelectualx relacionados ao Comércio (TRIPS)" (fls. 598/599).
+Aberta vista à parte embargada, transcorreu in albis o prazo para apresentação de impugnação (fl. 610).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Não prospera a irresignação da parte embargante.
+De acordo com o previsto no artigo 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão do acórdão atacado ou para corrigir erro material.
+No caso, não há omissão a suprir.
+A decisão embargada claramente reconheceu que a matéria tratada nos autos condiz com o Tema 914/STF, sendo de rigor a devolução dos autos ao Tribunal de origem para que lá realize oportunamente o juízo de adequação ao que for decidido pela Suprema Corte.
+Tem-se, pois, que a decisão embargada adotou fundamentação mais que suficiente para solucionar a contenda, não havendo, assim, qualquer vício a ensejar o cabimento dos aclaratórios.
+Ademais, é importante frisar que tanto o STF quanto este STJ possuem entendimento tranquilo de que incumbe ao Tribunal de origem, com exclusividade e em caráter definitivo, proferir juízo de adequação do caso concreto ao precedente formado em repercussão geral ou repetitivo. Daí a compreensão pela necessidade do cumprimento da norma inserta no art. 1.040 do CPC, ou seja, o rejulgamento por órgão fracionário competente do recurso direcionado à Corte de origem (apelação, agravo de instrumento), se o acórdão estiver em confronto com o posicionamento consolidado nas Cortes Superiores; ou a negativa de seguimento de recurso extraordinário lato sensu se o acórdão recorrido estiver em conformidade com o precedente firmado.
+Por fim, oportuno consignar que o acórdão recorrido adotou fundamentação eminentemente constitucional, ao consignar que "os acordos internacionais em matéria tributária, dos quais o Brasil seja signatário, não prevalecem sobre norma constitucional autorizadora de determinada tributação que, por aqueles, seria inexigível" (fl. 269), a denotar a primazia do viés constitucional do tema em debate, tal como reconhecido no parecer ministerial de fls. 582/587.
+Ora, não podem ser acolhidos embargos declaratórios que, a pretexto de alegados vícios do decisum embargado, traduzem, na verdade, seu inconformismo com a decisão tomada, pretendendo rediscutir o que já foi decidido.
+ANTE O EXPOSTO, rejeito os embargos de declaração.
+Publique-se.
