@@ -1,0 +1,19 @@
+DECISÃO
+Agrava-se de decisão que não admitiu recurso especial interposto com fundamento no artigo 105, inciso III, alínea"a", do permissivo constitucional, contra acórdão do Tribunal de Justiça de Minas Gerais, assim ementado:
+APELAÇÃO CRIMINAL. ROUBO MAJORADO E CORRUPÇÃO DE MENORES. PRELIMINAR DE OFÍCIO. TESE DEFENSIVA APRESENTADA EM SEDE DE ALEGAÇÕES FINAIS NÃO APRECIADA PELO JUÍZO DE ORIGEM. INOBSERVÂNCIA AOS PRECEITOS CONTIDOS NO ART. 93, IX, DA CR/88 E ART. 315, § 20, IV, DO CPP. SENTENÇA NULA. ANALISE MERITORIA PREJUDICADA.
+- Por incorrer em flagrante desrespeito ao art. 93, IX, da CR/88 e art. 315, § 20, IV, do CPP, deve ser decretada a nulidade da sentença que deixa de apreciar tese defensiva apresentada em sede de alegações finais, restando prejudicada a análise do mérito recursal(e-STJ fl. 248).
+O recorrente aponta a violação dos arts. 563 e 566 do CPP insurgindo-se, em síntese, contra a decisão do TJMG que anulou a sentença reconhecendo o vício da omissão. Aduz, no ponto, que não constitui nulidade a não apreciação de tese totalmente estranha aos autos.
+Contrarrazões às e-STJ fls. 294/300.
+Manifestação do Ministério Público Federal pelo provimento do recurso às e-STJ fls. 338/346.
+É o relatório. Decido.
+A irresignação não prospera.
+Extrai-se dos autos que o TJMG, em preliminar de ofício, reconheceu a nulidade da sentença pela não apreciação detese defensiva, determinando que outra seja proferida.
+O recorrente alega que não constitui nulidade a não apreciação de tese totalmente estranha aos autos. Sobre o tema o Tribunal de origem assim se pronunciou:
+Analisando preliminarmente os autos, observo que, quando da apresentação das alegações finais (f. 91/95v), a Defensoria Pública requereu, expressamente (f. 94v195 - item 2.4), a aplicação da minorante pela colaboração premiada, com base no ad. 14 da Lei 9.807/99, sustentando que o acusado colaborou voluntariamente na identificação de um dos coautores da infração criminosa. Com efeito, a sentença (f. 97/104), além de não constar a tese defensiva no relatório (f. 97v), não enfrentou o pleito pelo reconhecimento da citada causa especial de diminuição da pena. Houve, assim, flagrante desrespeito ao ad. 93, IX, da CR/88, não se permitindo ao 10 apelante tomar conhecimento dos fundamentos paraque pudesse, eventualmente, questionar a decisão, em nítido cerceamento de defesa.
+ ..
+Portanto, tendo em vista que a decisão proferida padece de vício insanável, ressaltando não ser possível a simples análise da referida tese neste grau recursal, sob pena de se incorrer em supressão de instância, não resta alternativa senão declarar a nulidade da sentença, a fim de que outra seja proferida nos moldes preconizados pelo art. 381 do CPP e pelas normas constitucionais, vedada a reformatio in pejus indireta. (e-STJ fls. 250/251 grifo nosso)
+Nos embargos de declaração, a questão ficou assim decida:
+Ressalto que a defesa abriu tópico específico em sede de alegações finais e, apesar do erro material existente, cabia sim ao d. magistrado singular apreciar o pedido de aplicação da minorante da colaboração premiada, nos termos do art.315, § 2º, IV, do CPP. Se acaso a tese fosse despropositada, não seria sustentada nesta instância recursal(e-STJ fl. 273 - grifo nosso).
+Como se vê, oTribunal a quo, analisando o contexto dos autos, entendeu ser nula a sentença em razão de omissãosobre a aplicação da minorante pela colaboração premiada, de forma que, para alterar os fundamentos acima transcritos, seria imprescindível o reexame do conjunto fático-probatório dos autos, o que é inviável em recurso especial, haja vista o teor da Súmula 7/STJ.
+Ante o exposto, com fundamento no art. 932, III, do CPC, c/c o art. 253, parágrafo único, II, "a", do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
