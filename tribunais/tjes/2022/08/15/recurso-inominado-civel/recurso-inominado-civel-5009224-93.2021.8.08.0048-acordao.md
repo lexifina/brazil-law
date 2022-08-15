@@ -1,0 +1,61 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº
+5009224-93.2021.8.08.0048
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: EBR INTERNET LTDA - ME
+RECORRIDO: MAXSUEL DOS SANTOS MARTINS
+RELATOR(A
+):GRECIO NOGUEIRA GREGIO
+
+_______________________________________________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+NOTAS ORAIS
+VOTOS COM DOCUMENTO
+(EXCETO VOTO VENCEDOR)
+VOTO VENCEDOR
+VOTOS
+
+Vistos em inspeção 2022
+
+DR. GRÉCIO NOGUEIRA GRÉGIO – RELATOR
+
+Relatório dispensado
+na forma do artigo 46 da Lei 9.099/95.
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+EMENTA:
+JUIZADO ESPECIAL CÍVEL. RECURSO INOMINADO. DIREITO DO CONSUMIDOR. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITOS C/C INDENIZAÇÃO POR DANOS MORAIS. AUTOR CONTRATOU OS SERVIÇOS DE INTERNET BANDA LARGA DO RECORRENTE E SOLICITOU UMA VISITA TÉCNICA PARA AVALIAÇÃO DE FALHAS NA PRESTAÇÃO DOS SERVIÇOS. APÓS A VISITA FOI CONSTATADO DEFEITO NO EQUIPAMENTO INSTALADO, SENDO EXIGIDO O PAGAMENTO DE UM VALOR PARA SUBSTITUIÇÃO DO APARELHO. O AUTOR CANCELOU O CONTRATO, MAS FOI SURPREENDIDO COM A NEGATIVAÇÃO DE SEU NOME PELA COBRANÇA DA VISITA TÉCNICA. O REQUERIDO ADUZIU, EM SEDE DE DEFESA, QUE O APARELHO DE CONVERSOR ESTAVA QUEIMADO E ISSO CONSTITUI UM PROBLEMA INTERNO O QUE PERMITE A REFERIDA COBRANÇA. A SENTENÇA DE PISO JULGOU PARCIALMENTE PROCEDENTE O PLEITO AUTORAL PARA DECLARAR A INEXISTÊNCIA DO DÉBITO, COM A CONFIRMAÇÃO DA TUTELA CONCEDIDA, E O DEFERIMENTO DA RESTITUIÇÃO AO AUTOR DA QUANTIA POR ELE CONSIGNADA JUDICIALMENTE, BEM COMO FORA O DEMANDADO CONDENADO AO PAGAMENTO DE R$4.000,00 (QUATRO MIL REAIS) A TÍTULO DE DANOS MORAIS. O PEDIDO CONTRAPOSTO FOI JULGADO IMPROCEDENTE. RECURSO NO SENTIDO DE VER JULGADA IMPROCEDENTE A DEMANDA, POIS O DEFEITO DO APARELHO NÃO É FALHA DE FABRICAÇÃO, MAS SIM, DECORRENTE DE MAU USO OU FATOR INTERNO, CONSEQUENTEMENTE, NÃO TERIA OCORRIDO FALHA NA PRESTAÇÃO DOS SERVIÇOS E O AUTOR FORA CIENTIFICADO DA COBRANÇA DA VISITA TÉCNICA. SUBSIDIARIAMENTE, PUGNOU PELA REDUÇÃO DO
+QUANTUM
+INDENIZATÓRIO. PLEITEOU, AINDA, PELA PROCEDÊNCIA DO PEDIDO CONTRAPOSTO PARA PAGAMENTO PELO AUTOR DO VALOR ATUALIZADO DA VISITA TÉCNICA NO IMPORTE DE R$ 117,78 (CENTO E DEZESSETE REAIS E SETENTA E OITO CENTAVOS).
+RECURSO CONHECIDO E IMPROVIDO.
+NÃO RESTOU PROVADO NOS AUTOS QUE O DEFEITO DO APARELHO TENHA SIDO CAUSADO PELO CONSUMIDOR. NESSE PONTO FOI ESCORREITA A SENTENÇA: “(...) Por seu turno, denota-se que a suplicada não se desincumbiu do seu
+onus probandi
+(inciso VIII, do art. 6º do CDC e inciso II, do art. 373 do CPC/15), não tendo apresentado a este caderno processual qualquer prova hábil a demonstrar que o defeito apresentado no aparelho conversor foi causado pelo consumidor, tampouco provou a responsabilidade do autor pelo reparo em conversor por ela fornecido em comodato. Fixadas essas premissas, cumpre destacar que, tratando-se de equipamento cedido pela operadora, cabe à fornecedora demonstrar que o vício no aparelho, hábil,
+in casu,
+a prejudicar a prestação do serviço contratado, decorreu de problema causado pelo demandante, o que não ocorreu na presente controvérsia. Nessa toada, ausente qualquer elemento capaz de imputar ao postulante a culpa pelo defeito no conversor de internet, não se revela cabível a cobrança pela visita técnica realizada.” FALHA NA PRESTAÇÃO DO SERVIÇO GERANDO PENDÊNCIA DE PAGAMENTO E CONSEQUENTE LANÇAMENTO DO NOME DO AUTOR NO CADASTRO DE DEVEDORES. COBRANÇA INDEVIDA. NEGATIVAÇÃO INDEVIDA. DANO MORAL
+IN RE IPSA
+.
+SENTENÇA MANTIDA PELOS PRÓPRIOS FUNDAMENTOS, NA FORMA DO ART. 46, DA LEI Nº 9099/95.
+CONDENAÇÃO DA RECORRENTE AO PAGAMENTO DAS CUSTAS PROCESSUAIS E HONORÁRIOS ADVOCATÍCIOS FIXADOS EM 10% SOBRE O VALOR ATUALIZADO DA CONDENAÇÃO.
+
+THAÍS DA PENHA
+
+JUÍZA LEIGA
+
+O Sr. Juiz de Direito Relator Dr.
+GRÉCIO NOGUEIRA GRÉGIO
+–
+Nos termos da Resolução TJES nº 12/2020,
+HOMOLOGO
+a minuta de voto elaborada pela Ilma. Juíza Leiga e a adoto como razões da minha manifestação, para que produza seus jurídicos e legais efeitos.
+
+É como voto.
+
+EMENTA
+Voto servindo como ementa.
+DECISÃO
+À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
