@@ -1,0 +1,26 @@
+DECISÃO
+Vistos, etc.
+Trata-se de reclamação, com pedido de liminar, ajuizada por Valquiria Castro Tonissi contra decisão proferida pelo Presidente da Turma de Uniformização dos Juizados Especiais de São Paulo, que indeferiu o processamento de Pedido de Uniformização de Interpretação de Lei (PUIL) dirigido ao STJ, fundamentando-se na incompetência.
+A reclamante sustenta que a decisão impugnada usurpa a competência do STJ para examinar o PUIL, quando há divergência interpretativa de Turmas Recursais de diferentes Estados da federação.
+Argumenta que a matéria de fundo debatida nos autos refere-se à aplicação do art. 2º da Lei n. 11.738/2008, que estabelece o piso nacional das carreiras do magistério.
+Salienta que o aresto proferido pela Turma Recursal de Fernandópolis/SPconcluiu que o parâmetro a ser utilizado para a aferição do cumprimento do piso nacional salarial é a remuneração do professor de educação básica e não o vencimento inicial da carreira.
+Aponta que a interpretação conferida pelo acórdão recorrido diverge do entendimento da Turma Recursal de Pinheiro Machado, o que autoriza a apresentação do pedido de uniformização para o STJ, nos termos do art. 18, § 3º, da Lei n. 12.153/2009.
+Requer o deferimento de liminar para que seja obstado o trânsito em julgado da decisão reclamada, com a remessa dos autos do PUIL para esta Corte Superior.
+Ao final, pugna pela procedência da reclamação a fim de que seja reconhecida a competência do STJ para o julgamento do PUIL.
+Decido.
+O pedidode uniformização de interpretação de lei dirigidoao STJ, no âmbito dos Juizados Especiais da Fazenda Pública, deveser suscitadoperante a Turma Recursal deorigem,na forma prescrita pelo art. 18 da Lei n. 12.153/2009, c/c o art. 12 do Provimento 7, de 7/5/2010, do Conselho Nacional de Justiça, a quem compete processá-loe depois encaminhá-lopara este Tribunal Superior.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. ART. 18, § 3º, DA LEI 12.153/2009. JUIZADO ESPECIAL DA FAZENDA PÚBLICA. SERVIDOR PÚBLICO MUNICIPAL. NÃO INSTRUÇÃO DO INCIDENTE COM O DOCUMENTO NECESSÁRIO PARA A COMPROVAÇÃO DA DIVERGÊNCIA. COMPLEMENTAÇÃO POSTERIOR. IMPOSSIBILIDADE. PRECEDENTES ESPECÍFICOS. PEDIDO INTERPOSTO DIRETAMENTE NO STJ E NÃO NO ÓRGÃO DE ORIGEM. OFENSA AO ART. 12 DO PROVIMENTO 7, DE 7/5/2010, DO CNJ.
+1. No caso, evidencia-se que o insurgente não juntou no momento da interposição do presente feito cópia do acórdão proferido pela Quarta Turma Recursal do Juizado Especial do Estado do Paraná que ensejou o presente pedido de uniformização. Desse modo, não seria possível verificar, no caso concreto, se a questão referente a eventual incidência da Súmula 85/STJ foi analisada no acórdão impugnado, o que afasta o próprio cabimento do pedido de uniformização.
+2. A Corte Especial do STJ já decidiu que "a ausência de demonstração da divergência alegada no recurso uniformizador constitui claramente vício substancial resultante da não observância do rigor técnico exigido na interposição do presente recurso, apresentando-se, pois, descabida a incidência do parágrafo único do art. 932 do CPC/2015 para complementação da fundamentação, possível apenas em relação a vício estritamente formal, nos termos do Enunciado Administrativo 6/STJ" (STJ, AgRg nos EREsp 1.743.945/PR, Rel. Ministro HERMAN BENJAMIN, CORTE ESPECIAL, DJe de 20/11/2019).
+Em igual sentido: STJ, AgInt nos EAREsp 419.394/DF, Rel. Ministro JORGE MUSSI, CORTE ESPECIAL, DJe de 14/06/2019; AgInt nos EREsp 1.455.459/SC, Rel. Ministro FRANCISCO FALCÃO, CORTE ESPECIAL, DJe de 09/12/2019.  .. "" (AgInt no PUIL 992/RO, Rel. Min. Assusete Magalhães, Primeira Seção, julgado em 12/2/2020, DJe 20/2/2020).
+3. O STJ possui o entendimento de que os pedidos de uniformização de interpretação de lei no âmbito dos Juizados Especiais da Fazenda Pública, dirigidos ao Superior Tribunal de Justiça, devem ser suscitados perante a Turma Recursal de origem, na forma prescrita pelo art. 18 da Lei n. 12.153/2009, c/c o art. 12 do Provimento 7, de 7/5/2010, do Conselho Nacional de Justiça. (PUIL 1.595/PR, Rel. Min. Mauro Campbell Marques, DJe 19/12/2019; PUIL 1.445/BA, Rel. Min. Maria Thereza de Assis Moura, DJe 2/8/2019; PUIL 775/PR, Rel. Min. Sérgio Kukina, DJe 2/5/2018; PUIL 162/SP, Rel. Min. Assusete Magalhães, DJe de 3/5/2017.
+4. Agravo interno a que se nega provimento.
+(AgInt no PUIL n. 1.748/PR, de minha relatoria, Primeira Seção, julgado em 26/8/2020, DJe de 4/9/2020).
+No caso, ao reconhecer a incompetência da Turma Recursal para processar o PUIL e determinar que o incidente seja proposto diretamente no STJ, a autoridade reclamada, a princípio, desvirtuou-se da orientação firmada acima.
+Saliente-se que não é possível a remessa imediata dofeito para esta Corte Superior, pois o contraditório deve ser proporcionadoperante a instância de origem, cumprindo à Turma Recursaldeterminar a intimação da parte contrária para apresentar defesa.
+Ante o exposto, defiro, em parte, o pedido de liminar para determinar que a autoridade reclamada providencie o regular processamento do pedido de uniformização de interpretação de Lei.
+Cite-se a parte interessada para, querendo, contestar a presente reclamação no prazo legal.
+Oficie-se a autoridade reclamada para apresentar informações.
+Comunique-se, com urgência.
+Publique-se. Intimem-se.
