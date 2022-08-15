@@ -1,0 +1,59 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 09/08/2022 a 15/08/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. DISSÍDIO JURISPRUDENCIAL. DISPOSITIVO LEGAL. INDICAÇÃO. AUSÊNCIA. COTEJO ANALÍTICO. INEXISTÊNCIA.
+1. Não se conhece do apelo nobre interposto pela alínea "c", art. 105, III, da CF/1988, que não aponta o dispositivo legal violado no acórdão recorrido, incidindo na hipótese a Súmula 284 do STF, bem como que deixa de realizar o cotejo analítico, não atendendo aos pressupostos específicos para a configuração do dissenso jurisprudencial, nos termos do art. 541, parágrafo único, do Código de Processo Civil e do art.255, §§ 1º e 2º, do RISTJ.
+2. Asimplestranscriçãodeementas,semqueseevidencie a similitudedassituaçõesfáticase jurídicas, não se presta para demonstração da divergência jurisprudencial
+3. Agravo interno desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+Trata-se de agravo interno interposto por ANGELA DE OLIVEIRA SANTOS RODRIGUES e OUTROS contra a decisão da Presidência, de e-STJ fls. 1.730/1.733, que conheceu do agravo para não conhecer do recurso especial, ante a incidência da Súmula 284 do STF, bem como por ausência de demonstração das circunstâncias que assemelham os casos confrontados, caracterizando insuficiência na demonstração da divergência.
+Nas suas razões, a parte agravante sustenta que (e-STJ fls. 1.770):
+ ..
+afora esse entendimento, tem a dizer a parte Recorrente que seu recurso não é manifestamente improcedente, vez que foram indicados os dispositivos de Lei Federal acerca dos quais há dissídio jurisprudencial, assim, merece igualmente ser conhecido e provido, pelas próprias razões nele expendidas, ressaltando-se que não procede a informação de que o Agravo em Recurso Especial interposto restou claríssimo os argumentos que se contrapõem a referida denegação, argumentos que são por demais suficientes para ensejar a concessão de total provimento ao presente agravo regimental, com fito de determinar que se receba e processe, sendo conhecido e provido o Recurso Especial outrora interposto.
+Sem impugnação (e-STJ fl. 1.809).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. DISSÍDIO JURISPRUDENCIAL. DISPOSITIVO LEGAL. INDICAÇÃO. AUSÊNCIA. COTEJO ANALÍTICO. INEXISTÊNCIA.
+1. Não se conhece do apelo nobre interposto pela alínea "c", art. 105, III, da CF/1988, que não aponta o dispositivo legal violado no acórdão recorrido, incidindo na hipótese a Súmula 284 do STF, bem como que deixa de realizar o cotejo analítico, não atendendo aos pressupostos específicos para a configuração do dissenso jurisprudencial, nos termos do art. 541, parágrafo único, do Código de Processo Civil e do art. 255, §§ 1º e 2º, do RISTJ.
+2. A simples transcrição de ementas, sem que se evidencie a similitude das situações fáticas e jurídicas, não se presta para demonstração da divergência jurisprudencial
+3. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+A jurisprudência desta Corte de Justiça é pacífica quanto à inadmissibilidade do recurso especial que, a despeito de fundamentar-se em dissídio jurisprudencial, deixa de apontar o dispositivo de lei federal ao qual o Tribunal de origem teria dado interpretação divergente daquela firmada por outros tribunais (AgRg no REsp. 1.346.588/DF, rel. Ministro ARNALDO ESTEVES LIMA, Corte Especial, DJe 17/03/2014).
+Na espécie, a parte recorrente não se desincumbiu de indicar o dispositivo de lei federal supostamente violado em razão do dissídio, limitando-se a apontar afronta a dispositivos da Constituição Federal - arts. 37, II e IX, e 206, V (e-STJ fls. 1.607); 1º, III (e-STJ fl. 1.617); e art. 5º, XXXV, LIV, LV (e-STJ fl. 1.623).
+Pois bem. Nesse panorama, a hipótese é de incidência da Súmula 284 do STF. Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. RESPONSABILIDADE CIVIL DO ESTADO. MAJORAÇÃO DOS VALORES FIXADOS A TÍTULO POR DANOS MORAIS. FUNDAMENTAÇÃO DEFICIENTE. AUSÊNCIA DE INDICAÇÃO DOS DISPOSITIVOS DE LEI FEDERAL VIOLADOS. INCIDÊNCIA DA SÚMULA 284 DO STF. DISSÍDIO JURISPRUDENCIAL NÃO FOI ANAL DEMONSTRADO. AGRAVO INTERNO DO PARTICULAR A QUE SE NEGA PROVIMENTO.
+1. O presente Recurso atrai a incidência do Enunciado Administrativo 3 do STJ, segundo o qual, aos recursos interpostos com fundamento no Código Fux (relativos a decisões publicadas a partir de 18 de março de 2016), serão exigidos os requisitos de admissibilidade recursal na forma do novo Código.
+2. Não é possível conhecer do Recurso Especial fundado no art. 105, III, alínea c da CF, uma vez que a parte recorrente não indicou qual seria o dispositivo de Lei Federal de interpretação controvertida, o que atrai a incidência do enunciado 284 da Súmula de jurisprudência do STF, por analogia.
+3. O sugerido dissídio jurisprudencial não foi analiticamente demonstrado. A interposição de Recurso Especial para o Superior Tribunal de Justiça requer o primoroso atendimento de requisitos constitucionais de alta definição jurídica.
+Assim, a demonstração da chamada divergência pretoriana deve-se dar de forma analítica e documentada, por meio do cotejo analítico, para se comprovar que a decisão recorrida está em desacordo com precedentes julgados de outros Tribunais, inclusive e especialmente deste STJ (art. 105, III, c da Carta Magna).
+4. Agravo Interno do Particular a que se nega provimento. (AgInt no REsp 1.848.965/AL, Relator Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, DJe 09/10/2020) (Grifos acrescidos).
+PROCESSUAL CIVIL. TRIBUTÁRIO. ICMS. EXECUÇÃO FISCAL. EMBARGOS JULGADOS IMPROCEDENTES. ALEGAÇÃO DE OFENSA AO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. BASE DE CÁLCULO. FUNDAMENTO E LEI LOCAL. APLICAÇÃO DA SÚMULA N. 280 DO STF. JUROS MORATÓRIOS. INCIDÊNCIA SOBRE A MULTA FISCAL. LEGITIMIDADE. DISSÍDIO JURISPRUDENCIAL. FUNDAMENTO DEFICIENTE. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL. APLICAÇÃO DA SÚMULA N. 284.
+ ..
+VIII - No tocante ao dissídio jurisprudencial, verifica-se que, conforme a previsão do art. 255, § 1º, do RISTJ, é de rigor a caracterização das circunstâncias que identifiquem os casos confrontados, cabendo a quem recorre demonstrar tais circunstâncias, com indicação da similitude fática e jurídica entre os julgados, apontando o dispositivo legal interpretado nos arestos em cotejo, com a transcrição dos trechos necessários para tal demonstração. Em face de tal deficiência recursal, aplica-se o constante da Súmula n. 284 do STF.
+IX - Observa-se que o recorrente não aponta qual o dispositivo infraconstitucional teria sido objeto de interpretação divergente pelos julgados em confronto, desbordando da previsão contida no art. 105, III, c, da Lex Mater, o que impede a apreciação dessa parcela recursal pelo Superior Tribunal de Justiça. Nesse mesmo sentido, confiram-se: (AgInt no REsp n. 1.581.326/PR, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 2/2/2017, DJe 3/3/2017, AgRg no AREsp n. 484.048/PB, Rel. Min. Assusete Magalhães, DJe 3/9/2014 e AgInt no AREsp n. 895.772/PR, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 7/3/2017, DJe 13/3/2017).
+X - Agravo interno improvido. (AgInt no REsp 1.751.512/MG, Relator Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe 22/10/2020) (Grifos acrescidos).
+Quanto ao mais, tem-se, conforme registrado no decisum monocrático, a divergência foi apresentada de modo insuficiente, pois não realizada, devidamente, a demonstração das circunstâncias que identificam ou assemelham os casos confrontados, de modo a bem caracterizar a interpretação legal discordante. Nesse sentido:
+PROCESSUAL CIVIL. AUSÊNCIA DE OMISSÃO, ART. 535, II, DO CPC. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. FALTA DE ESPECIFICAÇÃO DA LEI CONTRARIADA. EXAME DE NORMA ESTADUAL. IMPOSSIBILIDADE. SÚMULA 280/STF. GRATIFICAÇÃO NÃO HABITUAL. NÃO INCIDÊNCIA DE CONTRIBUIÇÃO PREVIDENCIÁRIA.
+1. Não se configura a ofensa ao art. 535 do Código de Processo Civil, uma vez que o Tribunal a quo julgou integralmente a lide e solucionou a controvérsia, tal como lhe foi apresentada.
+2. A apontada divergência deve ser comprovada, cabendo a quem recorre demonstrar as circunstâncias que identificam ou assemelham os casos confrontados, com indicação da similitude fática e jurídica entre eles.
+Indispensável a transcrição de trechos do relatório e do voto dos acórdãos recorrido e paradigma, realizando-se o cotejo analítico entre ambos, com o intuito de bem caracterizar a interpretação legal divergente. O desrespeito a esses requisitos legais e regimentais (art. 541, parágrafo único, do CPC e art.
+255 do RI/STJ) impede o conhecimento do Recurso Especial com base na alínea "c", III, do art. 105 da Constituição Federal.
+3. É impossível o confronto dos acórdãos trazidos como paradigmas, sem que se especifique a lei contrariada pelo julgado recorrido.
+ ..
+7. Recurso Especial parcialmente conhecido e, nessa parte, não provido. (REsp n. 1.560.292/MG, Relator Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 16/11/2015).
+ADMINISTRATIVO. AGRAVO REGIMENTAL CONTRA DECISÃO QUE NEGOU PROVIMENTO AO AGRAVO EM RECURSO ESPECIAL. CONCURSO PÚBLICO. ENSINO SUPERIOR. PREENCHIMENTO INCORRETO DE FICHA DE INSCRIÇÃO. MATRÍCULA NEGADA. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. NÃO INDICAÇÃO DE DISPOSITIVOS LEGAIS SUPOSTAMENTE VIOLADOS. DISSÍDIO NOTÓRIO NÃO CARACTERIZADO SEQUER MINIMAMENTE ATRAVÉS DE COTEJO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. AGRAVO REGIMENTAL DESPROVIDO.
+1. Para se comprovar a divergência é indispensável haver identidade ou similitude fática entre os acórdãos paradigmas e recorrido, bem como teses jurídicas contrastantes, de modo a demonstrar a alegada interpretação oposta.
+Tendo os arestos apontados como paradigmas sido colacionados apenas por suas ementas, impossibilitada a comprovação da identidade de bases fáticas entre os julgados em confronto.
+2. A alegação de notoriedade do dissídio não dispensa a mínima demonstração da ocorrência da divergência (AgRg nos EREsp. 909.177/MS, Rel. Min.
+GILSON DIPP, CE, DJe 7.6.2011).
+3. A recorrente não indicou quais dispositivos da legislação federal a decisão recorrida teria dado interpretação divergente da que lhe atribuiu outro Tribunal, circunstância que implica o não conhecimento do apelo com base na alegada divergência jurisprudencial, a teor do disposto na Súmula 284/STF, aplicável também ao recurso interposto pela alínea c.
+4. Agravo Regimental de ADRIANA MATARREDONA RABASSA a que se nega provimento. (AgRg no AREsp n. 22.776/RS, Relator Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, DJe 16/11/2015).
+In casu, a parte recorrente deixou de realizar o cotejo analítico e, portanto, de demonstrar a similitude fática, não atendendo, assim, aos pressupostos específicos necessários para a configuração do dissenso jurisprudencial, previstos no art. art. 1.029, § 1º, do CPC/2015 e no art. 255, §§ 1º e 2º, do RISTJ, limitando-se a transcrever ementas de julgados.
+Ademais, "a simples transcrição de ementas não permite a comprovação da identidade de bases fáticas entre os julgados em confronto. Precedente: AgRgREsp 1.272.986/PE, rel. Min. Napoleão Nunes Maia Filho, Primeira Turma, DJe de 12/12/2014" (AgRg no AREsp 687.047/RS, relator Ministro BENEDITO GONÇALVES, Primeira Turma, DJe 01/09/2015).
+Deixo de aplicar a sanção prevista no art. 1.021, § 4º, do CPC/2015 por não considerar manifestamente inadmissível ou improcedente o presente recurso.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
