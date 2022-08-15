@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de Recurso Especial interposto (art. 105, III, "a", da Constituição da República) contra acórdão do Tribunal Regional Federal da 1ª Região que, por unanimidade, negou provimento à Apelação da Fazenda Nacional.
+A recorrente aponta violação, em preliminar, dos arts. 489 e 1.022 do CPC; no mérito, doart. 11, §1º, da Lei 9.868/1999;e dos art. 1º, "a", e 11 do DL 9760/1946.
+Na Petição 344120/2022, a União informa que não mais persiste a determinação de suspensão dos processos com a mesma questão jurídica dos presentes autos.
+É o relatório.
+Decido.
+Os autos foram recebidos neste gabinete em 8 de agosto de 2022.
+Preliminarmente, constata-se que não se configura a ofensa ao art. 1.022 do Código de Processo Civil. O Tribunal de origem examinou e decidiu, fundamentadamente, todas as questões postas ao seu crivo. Julgou integralmente a lide e solucionou o conflito. Portanto, não cabe falar em negativa de prestação jurisdicional.
+Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+No caso em tela, a parte insurgente busca a modificação do julgado, asseverando que a Corte a quo não se pronunciou sobre o tema ventilado nos aclaratórios. Todavia, verifica-se que o acórdão controvertido está bem fundamentado, sem quaisquer dos vícios previstos no aludido dispositivo legal.
+Vale destacar que o simples inconformismo da parte não tem a propriedade de tornar cabíveis os Embargos de Declaração, que servem ao aprimoramento do decisum, mas não à sua reforma, só muito excepcionalmente admitida.
+Observo que não foi emitido juízo de valor sobre as questões jurídicas levantadas em torno dos dispositivos mencionados.
+O Superior Tribunal de Justiça entende ser inadmissível o conhecimento do Recurso Especial quando os artigos tidos por violados não foram apreciados na origem, ainda que se trate de matéria de ordem pública, como a prescrição, e a despeito dos Embargos de Declaração opostos. Ante a ausência do requisito do prequestionamento, incide na espécie a Súmula 211/STJ.
+Além disso, apenas para esclarecer eventuais dúvidas, ressalto que, mesmo nos casos em que a instância ordinária acolhe os Embargos de Declaração "para efeito de prequestionamento", essa exigência não é satisfeita. Isso porque, para que se tenha por atendido esse requisito, não basta que se dê por prequestionado o dispositivo, é indispensável também a emissão de juízo de valor sobre a matéria.
+No mérito, para melhor compreensão da controvérsia, transcrevo trecho do aresto impugnado (e-STJ, fls. 190-197):
+Com efeito, a alteração introduzida no artigo 20, inciso IV, da Constituição Federal, pela Emenda Constitucional p11 46/2005, excluiu da propriedade da União as ilhas costeiras que contenham sede de Município, ressalvadas as hipóteses nela previstas e as áreas que já se encontravam incorporadas aos domínios dos Estados, dos Municípios e dos particulares (arts. 20, IV e26 1).Como se vê a Constituição Federal atual admite a existência de terrenos de particulares em ilhas costeiras, se do domínio particular antes da referida Constituição. Por oportuno, cabe salientar a observação do Juízo a quo, no sentido de que, "No que diz respeito ao processo demarcatório, o Supremo Tribunal Federal, no julgamento da medida cautelar na ADI 4264-PE, decidiu, por maioria, suspender a eficácia das demarcações realizadas sob a égide da Lei n 11.418/07, a qual, conferindo nova redação ao artigo 11 do Decreto-Lei n. 9.760/1946, preconizou que convite dos interessados para o processo demarca tório seria por edital, abolindo o chama mento na modalidade pessoal". Com essas considerações, nego provimento ao agravo retido à apelação e à remessa oficial. Sentença mantida"
+Ademais, conforme transcrição feita alhures, infere-se que a causa acerca do regime jurídico dos bens da União foi decididasob o enfoque eminentemente constitucional, e compete ao Supremo Tribunal Federal eventual reforma do acórdão recorrido, no mérito, sob pena de usurpação de competência inserta no art. 102 da Constituição Federal.
+A propósito:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENSÃO. VIOLAÇÃO DO ARTIGO 535, II, DO CPC. ALEGAÇÕES GENÉRICAS. SÚMULA 284/STF. ACÓRDÃO QUE DIRIMIU A CONTROVÉRSIA COM FUNDAMENTAÇÃO CONSTITUCIONAL. APRECIAÇÃO PELO STJ. INVIABILIDADE.
+1. Não se conhece da suposta afronta ao artigo 535 do CPC quando a parte recorrente se limita a afirmar, genericamente, sua violação, sem, contudo, demonstrar, especificamente, que temas não foram abordados pelo acórdão impugnado. Incidência da Súmula 284/STF.
+2. O acórdão recorrido dirimiu a controvérsia com fundamento no artigo 40, § 7º, da Constituição Federal, o que afasta a competência do STJ para a apreciação da matéria trazida nos presentes autos, pois de cunho eminentemente constitucional, cabendo, tão-somente, ao STF o exame de eventual ofensa. Precedentes: AgRg no AREsp 171.371/MS, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 19/9/2014; AgRg no AREsp 537.171/MG, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 16/9/2014.
+3. Agravo regimental não provido.
+(AgRg no AREsp 584.240/RS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 3/12/2014)
+PROCESSUAL CIVIL E ADMINISTRATIVO. ANOTAÇÃO DE RESPONSABILIDADE TÉCNICA - ART. FIXAÇÃO E COBRANÇA PELO CREA. ACÓRDÃO DE ORIGEM FUNDAMENTADO EM MATÉRIA EMINENTEMENTE CONSTITUCIONAL. COMPETÊNCIA DO STF.
+1. O Tribunal de origem concluiu pela constitucionalidade do art. 11 da Lei n. 12.514/2011, o qual dispõe sobre o valor da Taxa de Anotação de Responsabilidade Técnica, utilizando-se de entendimento do STF e da interpretação da CF/1988.
+2. É inviável, em recurso especial, a análise de ofensa à matéria constitucional, sob pena de o STJ invadir a competência constitucionalmente atribuída ao STF.
+Agravo regimental improvido.
+(AgRg no REsp 1.473.025/PR, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe 3/12/2014)
+Por tudo isso, conheço parcialmente do Recurso Especial, apenas com relação à afronta ao art. 1.022 do CPC e, nessa parte, não o provejo.
+Publique-se.
+Intimem-se.
