@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo interno interposto contra decisão que julgou recurso especial.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, nos termos do art. 255, §4º, inciso I, do Regimento Interno do STJ, não conheço do recurso especial."
+No agravo interno, a parte recorrente traz, resumidamente, os seguintes argumentos:
+a) Da efetiva violação ao art. 1.022, II, do CPC/2015 e prequestionamento da matéria03. Data venia, no tocante à violação ao art. 1.022, II, do CPC/2015, não há como aceitar o entendimento de que não houve vício na entrega da prestação jurisdicional quando o TRF-5ª Região rejeitou os Embargos de Declaração da ASSECAS, isso porque em tal recurso integrativo de fls. 112/120 (e-STJ) a Associação demonstrou que o acórdão regional, ao simplesmente registrar que "a jurisprudência da Corte Regional" consagra o entendimento de que as gratificações de desempenho devem obedecer a mesma proporcionalidade das aposentadorias não integrais sem apresentar outros fundamentos, claramente DEIXOU DE EXAMINAR (OMISSÃO) o questionamento do Agravo de Instrumento de que a Lei n.º 11.357/2006 (art. 7º, §§ 7º e 10), ao instituir a gratificação GDPGTAS não fez qualquer distinção entre proventos integrais e proporcionais para pagamento da gratificação, tendo sido ainda OMISSO quanto aos arts. 502, 503 e 508 do CPC/2015 que protegem a coisa julgada uma vez que todas as questões de defesa foram repelidas com o trânsito em julgado, não podendo ser aplicadas na execução, circunstância facilmente aferível pelo próprio teor do aresto recorrido que se limitou a decidir no sentido de que a vantagem seria definida como proventos e que, no que seria aplicável a proporcionalidade na fase executiva, confira-se:
+ ..
+b) Da desnecessidade de reexame de provas - Inaplicabilidade da Súmula n.º 07/STJ - Efetivo prequestionamento das questões federais - Não incidência da Súmula n.º 211/STJ
+ ..
+c) Do efetivo prequestionamento dos arts. 502, 503 e 508 do CPC/2015 e art. 7º, §§ 7º e 10 da Lei n.º 11.357/2006 - Inaplicabilidade da Súmula n.º 211/STJ - Interposição de Embargos de Declaração (art. 1.025 do CPC/2015) - Prequestionamento implícito:
+ ..
+d) Da efetiva demonstração do dissídio jurisprudencial quanto aos arts. 7-A, § 7º e 10 da Lei n.º 11.357/2006 e arts. 502 e 503 do CPC/2015 - Transcrição dos acórdãos discordantes, indicação do dispositivo legal violado, realização do cotejo analítico, demonstração da similitude fática entre o aresto impugnado e o acórdão paradigma e a presença de soluções jurídicas diversas:
+É o relatorio. Decido.
+Considerando os argumentos trazidos pela parte agravante reconsidero a decisão recorrida.
+Passo a realizar nova análise do recurso especial.
+Verifica-se que a Corte a quo decidiu a matéria com fundamentos unicamente constitucionais, o que impede a análise das alegações relativas à mesma matéria nesta Corte. É o que se percebe dos seguinte trechos do acórdão que julgou o mérito do agravo de instrumento e do acórdão que julgou os embargos de declaração:
+A decisão não merece qualquer reparo, eis que consagra o entendimento desta Corte Regional no sentidode que que as gratificações de desempenho devidas aos servidores que se aposentaram com proventosproporcionais devem obedecer à mesma proporcionalidade, uma vez que os pagamentos aos servidoresinativos previstos nas Leis instituidoras de cada gratificação, devem se dar em observância a todo oordenamento jurídico, onde se encontra plenamente instituída a regra da proporcionalidade. Leia-se:
+ ..
+Restou expressamente consignado no acórdão que as gratificações de desempenho devidas aos servidoresque se aposentaram com proventos proporcionais devem obedecer à mesma proporcionalidade, uma vezque os pagamentos aos servidores inativos previstos nas Leis instituidoras de cada gratificação, devem sedar em observância a todo o ordenamento jurídico, onde se encontra plenamente instituída a regra daproporcionalidade.
+Nesse sentido, em caso análogo:
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. GRATIFICAÇÃO DE DESEMPENHO. GDASS. EXTENSÃO PARITÁRIA A INATIVOS. FUNDAMENTO CONSTITUCIONAL: PRINCÍPIO DA ISONOMIA. COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL. RECURSO ESPECIAL NÃO CONHECIDO.
+1. O Colegiado de origem declarou: "Por conseguinte, a eventual proporcionalidade dos proventos de aposentadoria da parte exequente não reflete no pagamento das gratificações em discussão, uma vez que a Constituição Federal e a lei instituidora da vantagem não autorizam distinção alguma entre os servidores aposentados com proventos integrais e proporcionais" (fl. 71, e-STJ).
+2. Vê-se, portanto, que a decisão atacada tem cerne meritório em matéria de cunho eminentemente constitucional, com base no princípio da isonomia, sobretudo quando o próprio recorrente lança mão de jurisprudência do STF e de interpretação do art. 40, §1º, da Carta Magna para lastrear suas razões.
+3. Logo, compete ao STF eventual reforma do acórdão recorrido, sob pena de usurpação de competência inserta no art. 102 da Constituição Federal.
+4. Recurso Especial não conhecido.
+(REsp n. 1.804.873/SC, relator Ministro Herman Benjamin, Segunda Turma, julgado em 21/5/2019, DJe de 17/6/2019.)
+Considerando que o recurso especial foi interposto na vigência do Código de Processo Civil de 2015 (Enunciado Administrativo n. 3/STJ, fl.) e que não foi interposto recurso extraordinário, é cabível a aplicação do previsto no art. 1.032 do Código de Processo Civil, segundo o qual:
+Art. 1.032. Se o relator, no Superior Tribunal de Justiça, entender que o recurso especial versa sobre questão constitucional, deverá conceder prazo de 15 (quinze) dias para que o recorrente demonstre a existência de repercussão geral e se manifeste sobre a questão constitucional.
+Parágrafo único. Cumprida a diligência de que trata o caput, o relator remeterá o recurso ao Supremo Tribunal Federal, que, em juízo de admissibilidade, poderá devolvê-lo ao Superior Tribunal de Justiça.
+Ante o exposto, concedo prazo de 15 dias para que a parte recorrente demonstre a existência de repercussão geral e se manifeste sobre a questão constitucional.
+Apresentadas as razões, abra-se vista para a parte recorrida apresentar contrarrazões no mesmo prazo de 15 dias.
+Após, cumpridas as diligências, remeta-se o recurso ao Supremo Tribunal Federal para o juízo de admissibilidade previsto no art. 1.032 do Código de Processo Civil de 2015.
+Publique-se. Intimem-se.
