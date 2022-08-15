@@ -1,0 +1,58 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC/2015) interposto por CAIXA VIDA E PREVIDÊNCIA S.A. contra decisão que negou seguimento a recurso especial, fundamentado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal.
+O apelo extremo, a seu turno, desafia acórdão proferido pelo Tribunal de Justiça do Estado do Paraná, assim ementado (fls. 688 e-STJ):
+APELAÇÃO CÍVEL E RECURSO ADESIVO. DIREITO CIVIL. AÇÃO DE COBRANÇA DE SEGURO E INDENIZAÇÃO POR DANO MORAL. - SEGURO DE VIDA EM GRUPO. DIREÇÃO DE VEÍCULO PELO SEGURADO EM ESTADO DE EMBRIAGUEZ. MORTE ACIDENTAL. SITUAÇÃO QUE NÃO CARACTERIZA AGRAVAMENTO INTENCIONAL DO RISCO. COBERTURA AMPLA DO SEGURO DE VIDA. RECUSA INDEVIDA DA SEGURADORA. SÚMULA Nº 620 DO STJ. - EVENTO OCORRIDO APÓS O TRANSCURSO DE PRAZO DE DOIS ANOS DE CONTRATAÇÃO DO SEGURO. INDENIZAÇÃO QUE SERIA DEVIDA MESMO EM CASO DE SUICÍDIO. RECUSA INDEVIDA DA SEGURADORA. - DANO MORAL. DESCUMPRIMENTO DE CONTRATO. LESÃO MERAMENTE PATRIMONIAL. INDENIZAÇÃO INDEVIDA. - INCIDÊNCIA DE HONORÁRIOS RECURSAIS. - APELAÇÃO E RECURSO ADESIVO CONHECIDOS E NÃO PROVIDOS.
+- No seguro de vida, é vedada a exclusão de cobertura na hipótese de sinistros ou acidentes decorrentes de atos praticados pelo segurado em estado de insanidade mental, de alcoolismo ou sob efeito de substâncias tóxicas (Carta Circular SUSEP/DETEC/GAB nº 08/2007)
+Não foram opostos embargos de declaração.
+Em suas razões de recurso especial (fls. 733-754 e-STJ), a recorrente aponta que o acórdão recorrido violou os artigos 757, 760 e 768 do Código Civil, além de dissídio jurisprudencial, sustentando, em suma, o não cabimento do pagamento da indenização prevista em contrato de seguro vida, em razão da comprovação de que a embriaguez do segurado ao volante foi causa determinante para o agravamento do risco, circunstância expressamente prevista no contrato como causa de exclusão da cobertura securitária.
+Contrarrazões às fls. 798-809 e-STJ.
+Em sede de juízo provisório de admissibilidade (fls. 828-832 e-STJ), o Tribunal de origem inadmitiu o recurso especial, sob os seguintes fundamentos: a) aplicação do óbice da Súmula 83/STJ; b) incidência dos óbices das Súmulas 5 e 7 do STJ; e c) aplicação do óbice da Súmula 211/STJ.
+Daí o agravo (fls. 916-929 e-STJ), buscando destrancar o processamento daquela insurgência, no qual a parte insurgente refuta os óbices aplicados pela Corte estadual.
+Contraminuta às fls. 935-939 e-STJ.
+É o relatório.
+Decide-se.
+O presente recurso não merece prosperar.
+1. Cinge-se a controvérsia recursal à verificação acerca do cabimento do pagamento de indenização prevista em contrato de seguro de vida, na hipótese de sinistro ocorrido com automóvel conduzido por motorista em estado de embriaguez.
+Sobre o tema, a jurisprudência desta Corte Superior tem entendido que "a embriaguez, por si só, não exime o segurador do pagamento de indenização prevista em contrato de seguro de vida, sendo necessária a prova de que o agravamento do risco decorrente da embriaguez influiu decisivamente na ocorrência do sinistro (AgInt no AREsp 1708444/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 12/04/2021, DJe 16/04/2021).
+Nesse mesmo norte, os seguintes precedentes:
+AGRAVO INTERNO. RECURSO ESPECIAL. DIREITO CIVIL. SEGURO DE VIDA. ACIDENTE DE TRÂNSITO FATAL. EMBRIAGUEZ DO SEGURADO FALECIDO. ALTA DOSAGEM DE ÁLCOOL ETÍLICO NO SANGUE. ALEGAÇÃO DE AGRAVAMENTO INTENCIONAL DO RISCO. ABUSIVIDADE DA EXCLUSÃO DE COBERTURA. PRECEDENTES. INAPLICABILIDADE DO ÓBICE DA SÚMULA 7/STJ.
+1. Controvérsia acerca da exclusão de cobertura de seguro de vida na hipótese em que o sinistro teve como causa a direção de veículo automotor pelo segurado após ingestão de alta dosagem de bebida alcoólica.
+2. Nos termos da Súmula 620/STJ: "A embriaguez do segurado não exime a seguradora do pagamento da indenização prevista em contrato de seguro de vida".
+3. Jurisprudência pacífica desta Turma no sentido da abusividade da cláusula de exclusão de cobertura do seguro de vida na hipótese sinistro causado pelo segurado em estado de embriaguez, uma vez que o agravamento do risco é inerente a essa modalidade de seguro, ressalvada a validade da exclusão de cobertura por suicídio no período de carência.
+4. Controvérsia que se resolve no plano jurídico, sem necessidade de reexame de provas, não sendo aplicável, portanto, o óbice da Súmula 7/STJ.
+5. AGRAVO INTERNO DESPROVIDO.
+(AgInt nos EDcl no REsp 1862665/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 15/03/2021, DJe 18/03/2021)  grifou-se
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE COBRANÇA CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. CONTRATO DE SEGURO DE VIDA. EMBRIAGUEZ DO CONDUTOR E AGRAVAMENTO DO RISCO. NÃO COMPROVAÇÃO. REEXAME DE PROVAS. INVIABILIDADE. APLICAÇÃO DA SÚMULA Nº 7 DO STJ. ACIDENTE DE TRÂNSITO. EXCLUSÃO DA COBERTURA. EMBRIAGUEZ. NECESSIDADE DE DEMONSTRAÇÃO. DISSÍDIO JURISPRUDENCIAL NÃO CONFIGURADO. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A alteração das conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir a Súmula nº 7 do STJ.
+3. O entendimento do aresto rechaçado está em consonância com o desta Corte, no sentido de que a embriaguez do segurado, por si só, não configura a exclusão da cobertura securitária em caso de acidente de trânsito, ficando condicionada a perda da indenização à constatação de que a embriaguez foi causa determinante para a ocorrência do sinistro.
+4. A jurisprudência desta Corte firmou o entendimento de que não é possível o conhecimento do apelo nobre interposto pela divergência, na hipótese em que o dissídio é apoiado em fatos, e não na interpretação da lei. Isso porque a Súmula nº 7 do STJ também se aplica aos recursos especiais interpostos pela alínea c do permissivo constitucional.
+5. Agravo interno não provido.
+(AgInt no AREsp 1635857/RS, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 31/08/2020, DJe 03/09/2020)  grifou-se
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO EM RECURSO ESPECIAL. SEGURO DE VIDA. ACIDENTE DE TRÂNSITO. EMBRIAGUEZ DO SEGURADO. ALEGAÇÃO DE EXCLUSÃO DE COBERTURA CONTRATUAL POR AGRAVAMENTO DO RISCO. NÃO ACOLHIMENTO. HIPÓTESE DIVERSA DO CONTRATO DE SEGURO DE DANO. JURISPRUDÊNCIA ASSENTE DO STJ. PEDIDO SUBSIDIÁRIO. DELIMITAÇÃO DE COBERTURA CONTRATUAL. REVOLVIMENTO DE CLÁUSULA CONTRATUAL.
+IMPOSSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+1. É entendimento assente desta Corte de que "A embriaguez do segurado não exime a seguradora do pagamento da indenização prevista em contrato de seguro de vida" (Súmula 620/STJ).
+2. Ao contrário do que ocorre no seguro de automóvel, é vedada a exclusão de cobertura na hipótese de sinistros ou acidentes decorrentes de atos praticados pelo segurado em estado de insanidade mental, de alcoolismo ou sob efeito de substâncias tóxicas (Carta Circular SUSEP/DETEC/GAB nº 8/2007)" (AgInt no REsp 1728428/SC, Rel.
+Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe 01/03/2019).
+3. Ausentes alegações capazes de infirmar os fundamentos da decisão atacada, permanecem incólumes os motivos expendidos pela decisão recorrida.
+4. Agravo interno não provido.
+(AgInt nos EDcl na TutPrv no REsp 1786848/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 31/08/2020, DJe 29/09/2020)  grifou-se
+No caso tela, o Tribunal de origem, ao analisar o caso concreto, manteve a condenação ao pagamento da indenização securitária contratada, sob o entendimento essencial de que não restou comprovado pela seguradora que o estado de embriaguez do segurado foi causa determinante para a ocorrência do sinistro. Confira-se, a propósito, a fundamentação do acórdão recorrido (fls. 692-694 e-STJ):
+O exame de dosagem alcóolica realizado no segurado demonstrou a presença de álcool etílico no sangue em uma concentração de 19 dg/L de álcool por litro de sangue (mov. 30.6. pág. 01).
+Não obstante a conduta do segurado de dirigir veículo automotor após o consumo de bebida alcóolica configure o tipo penal, não se pode afirmar que, ao assim agir, era sua intenção, livre e consciente, de colocar a própria vida em risco.
+A presença de álcool etílico na corrente sanguínea do segurado não é suficiente para excluir a cobertura securitária, tendo em vista que não restou demonstrado nos autos que houve o agravamento intencional do risco.
+A respeito do tema o Superior Tribunal de Justiça, através de sua Terceira Turma, reiterou o entendimento de que a morte acidental do segurado que conduz veículo em estado de embriaguez não caracteriza o agravamento do risco no seguro de vida: (..)
+Ademais, para que ocorresse a exclusão do dever de indenizar, a embriaguez do segurado deveria ser a causa determinante do acidente, cabendo à ré comprovar o nexo de causalidade entre a ingestão de bebida alcoólica e a ocorrência do evento danoso.
+Contudo, não consta do boletim de acidente de trânsito ou outro documento que permita afirmar que o estado de embriaguez foi a causa determinante do acidente.
+O auto de levantamento de acidente de trânsito aponta que a causa provável da batida foi a imprudência tanto do motociclista em conduzir com o pneu traseiro em péssimo estado (careca), como dos demais motoristas envolvidos, ao transitarem em alta velocidade (mov. 1.12, pág. 08).
+Além disso, o argumento de que a manutenção da sentença importaria em estímulo para que condutas como a do segurado se perpetuem não socorre à seguradora, na medida em que não parece razoável a exposição da própria vida a risco somente para receber indenização securitária.
+De qualquer forma, independentemente da embriaguez do segurado, a seguradora ré tem o dever de efetuar o pagamento.
+Isto porque o contrato de seguro de vida existia entre as partes desde 2014, ou seja, há mais de dois anos da data do sinistro.
+Nos termos do art. 789 do Código Civil, depois de passados dois anos da vigência inicial do contrato, a seguradora tem a obrigação de efetuar o pagamento do capital estipulado, ainda que o segurado venha a cometer suicídio.
+Ora, se o seguro deveria ser pago na hipótese do segurado tirar intencionalmente a própria vida, com mais razão deve haver o pagamento em caso de morte acidental, sendo para tanto indiferente o estado de embriaguez.
+Sendo assim, a sentença acertou ao julgar procedente o pedido de indenização securitária.
+Observa-se, assim, que a matéria debatida pela parte recorrente encontra-se pacificada nesta Corte Superior, nos termos do que decidido pelo Tribunal de origem, aplicando-se a orientação prevista no enunciado 83/STJ, no sentido de que "não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+2. Ademais, para se rever a conclusão das instâncias ordinárias - no sentido de que embriaguez do condutor segurado não foi a condição determinante para o agravamento do risco e consequente ocorrência do sinistro, far-se-ia necessário incursionar no substrato fático-probatório dos autos, o que é defeso a esta Corte Superior em face do óbice da Súmula 07 do STJ.
+3. Do exposto, com fulcro no artigo 932 do NCPC c/c Súmula 568 do STJ, nega-se provimento ao agravo. Deixa-se de majorar os honorários sucumbenciais, com base no art. 85, § 11, do CPC/2015, eis que já fixados no patamar máximo legal (fls. 696 e-STJ).
+Publique-se.
+Intimem-se.
