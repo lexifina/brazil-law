@@ -1,0 +1,28 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 09/08/2022 a 15/08/2022, por unanimidade, não conhecer do recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):
+Cuida-se de agravo interno interposto por GEAP AUTOGESTAO EM SAUDE, contra decisão que não conheceu do agravo em recurso especial.
+Ação: de obrigação de fornecimento de tratamento ajuizada por Maria da Conceição Pinto Gonçalves em face da agravante, visando o restabelecimento do plano de saúde.
+Sentença: julgou extinto o processo semresolução do mérito quanto ao pedido de restabelecimento do plano de saúde e julgou improcedente os demais pedidos.
+Acórdão: deu parcial provimento à apelação da agravada, nos termos da seguinte ementa:
+Apelação Cível. Ação de Obrigação de Fazer c/c Repetitória e Reparatória por Danos Morais. Direito Civil. Contrato de Plano de Saúde. Administração na modalidade de autogestão. GEAP. Verbete Sumular nº 608 do Insigne Superior Tribunal de Justiça. Alegada abusividade no cancelamento unilateral do contrato. Sentença de extinção do feito, sem resolução do mérito, em relação ao pedido de restabelecimento, diante do óbito da Demandante, tendo sido julgados improcedentes os pleitos repetitório e reparatório. Irresignação autoral. Necessidade de observância do art. 13, parágrafo único, II, da Lei nº 9.656/98 no tocante aos requisitos para suspensão e rescisão unilateral do contrato. Ausência de prévia notificação da beneficiária. Aviso de recebimento assinado por terceiro absolutamente estranho à lide. Requisito de que "o consumidor seja comprovadamente notificado" não atendido na hipótese. Irregularidade do procedimento adotado. Precedentes deste Sodalício. Hipervulnerabilidade da usuária do serviço, idosa e portadora de síndrome demencial com Parkinson atípico, com restrição de movimentos. Exigência de maior diligência no atendimento ao seu direito à informação. Obiter dictum. Novação da dívida, com parcelamento, efetuado pela Representante da Postulante pouco mais de um mês após a data em que supostamente entregue a notificação. Pretensão repetitória que, no entanto, não se acolhe. Quantia efetivamente devida pela Requerente. Legitimidade do parcelamento realizado com vistas à regularização do déficit. Ofensa extrapatrimonial configurada in casu. Lesão a direitos da personalidade em decorrência da conduta abusiva da Ré, que deixou a Autora desemparada em situação de emergência/ urgência. Aplicação, ao caso, dos Verbetes Sumulares nº209 e nº339 deste Tribunal. Critério bifásico para a quantificação do dano moral. Verba compensatória que deve ser fixada em R$ 8.000,00 (oito mil reais), em harmonia com os Princípios da Razoabilidade e Proporcionalidade ecom os arestos desta Casa de Justiça. Juros legais a incidirem da citação, nos moldes do art.405 do CC, e correção monetária a fluir da data da publicação do julgado, na esteira dos Verbetes Sumulares nº 362 e nº 97 da Ínclita Corte da Cidadania e desta Nobre Corte de Justiça, respectivamente. Sucumbência recíproca constatada. Redistribuição dos encargos processuais. Honorários advocatícios arbitrados em resguardo aos arts. 85, §2º, e 98, §3º, ambos do CPC. Reforma em parte do decisum. Conhecimento e provimento parcial do recurso.
+Decisão unipessoal: nãoconheceu do agravo em recurso especial em virtude da incidência da Súmula 187/STJ.
+Agravo interno: aduz que o recurso deve ser conhecido em atendimento ao princípio da primazia das decisões de mérito, e aduz que não foi oportunizada a demonstração da ocorrência de feriado local.
+É o relatório.
+EMENTA
+  PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FORNECIMENTO DE TRATAMENTO. PLANO DE SAÚDE.INÉPCIA. IMPUGNAÇÃO DA DECISÃO AGRAVADA.
+1. Ação de obrigação de fornecimento de tratamento.
+2. É inepta a petição de agravo interno no recurso especial que não impugna, especificamente, os fundamentos da decisão agravada.
+3. Agravo interno não conhecido.
+VOTO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):
+A decisão agravada conheceu não conheceu do agravo em recurso especial em virtude da incidência da Súmula 187/STJ.
+Pela análise das razões recursais apresentadas, verifica-se que a parte agravante, não trouxe argumentos capazes de ilidir todos os fundamentos da decisão agravada.
+Isso porque, a parte agravante não apresenta qualquer refutação acerca dos fundamentos dispostos na decisão unipessoal no que se refere à incidência da Súmula 187/STJ, uma vez que não demonstrado o preparo do recurso especial, nem mesmo após a intimação para a regularização.
+Ressalte-se que o art. 34, XVIII, "a", do RISTJ exige a impugnação específica e consistente a todos os fundamentos da decisão de inadmissibilidade do recurso especial, motivo pelo qual a incidência da Súmula 187/STJdeveria ter sido especificamente combatida.
+E, consoante entendimento pacífico desta Corte, não merece conhecimento o agravo interno que não impugna, especificamente, os fundamentos da decisão agravada, a teor do disposto na Súmula 182 do STJ, a qual se subsume perfeitamente ao presente recurso.
+  Por fim, oreferido entendimento foi inclusive positivado pelo legislador pátrio no bojo do CPC/15, cujo § 1º do art. 1.021 afirma que, na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada.
+Forte nessas razões, NÃO CONHEÇO do agravo interno.
