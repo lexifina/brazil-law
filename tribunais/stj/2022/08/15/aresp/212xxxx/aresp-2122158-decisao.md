@@ -1,0 +1,8 @@
+DECISÃO
+1. Cuida-se de agravo interposto por BTG HOTEIS & RESORTS LTDA em face de decisão que não admitiu o seu recurso especial.
+2. A irresignação não merece prosperar.
+A parte agravante não rebate, de forma específica, clara e fundamentada, os argumentos da decisão agravada, notadamente o de que não comprovou, no ato de interposição do recurso, a suspensão do expedientenas repartições judiciárias do Estado do Paraná no dia 1º.11.2021, motivo pelo qual os prazos processuais foram prorrogados, tendo se limitado a alegar a ausência de necessidade de comprovação quanto à suspensão processual referente aorecesso forense, por sua notoriedade.
+Essa circunstância obsta, por si só, a pretensão recursal, pois à falta de contrariedade, permanecem incólumes os motivos expendidos pela decisão recorrida, segundo a inteligência do disposto no inciso I, do § 4º, do art. 544 do Código de Processo Civil, incluído pela Lei nº 12.322/2010, que trata da nova sistemática dos agravos contra os despachos denegatórios dos recursos dirigidos a esta Corte e consigna ser dever do agravante atacar especificamente os fundamentos da decisão agravada, sob pena de não conhecimento de sua irresignação.
+Nesse sentido: AgRg no Ag 1270282/RS, Rel. Min. Paulo de Tarso Sanseverino, Terceira Turma, DJe 17/02/2012 e AgRg no Ag 682965/DF, Rel. Min. Fernando Gonçalves, Quarta Turma, DJe 23/03/2009; AgRg no Ag 1327361/MG, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, DJe 23/04/2012; AgRg no AREsp 121.222/SC, Rel. Min. Antônio Carlos Ferreira, Quarta Turma, DJe 20/03/2012 e AgRg no AREsp 87.923/SP, Rel. Min. Sidnei Beneti, Terceira Turma, DJe 30/03/2012.
+3. Ante o exposto, não conheço do agravo.
+Publique-se. Intimem-se.
