@@ -1,0 +1,35 @@
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ORDEM IMPETRADA CONTRA DECISÃO SINGULAR DE DESEMBARGADOR DO TRIBUNAL DE ORIGEM. AUSÊNCIA DE ESGOTAMENTO DAS INSTÂNCIAS ORDINÁRIAS. SUPRESSÃO DE INSTÂNCIA.
+1. O habeas corpus foi impetrado contra decisão singular do Relator de origem, que indeferiu monocraticamente o pedido formulado, de forma que, ausente o esgotamento da instância ordinária, descabe ao Superior Tribunal de Justiça a apreciação do pedido.
+2. Agravo regimental improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo regimental nos termos do voto do Sr. Ministro Relator. A Sra. Ministra Laurita Vaz e os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO) (Relator):  Trata-se de agravo regimental interposto contra decisão que indeferiu liminarmente o habeas corpus.
+Sustenta o agravante que "diversamente do que foi consignado no "decisum" aqui impugnado, não teria qualquer necessidade de suscitar as suas teses defensivas perante as instâncias anteriores, pois, havendo constrangimento ilegal sanável por Habeas Corpus, a respectiva ordem pode - e deve - ser concedida por qualquer juiz ou tribunal em território nacional" (fls. 80-81). Obtempera que o writ somente poderia não ser conhecido se não houvesse constrangimento, o que entende ser o caso dos presentes autos.
+Requer o provimento do agravo para a concessão da ordem nos termos da inicial.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO) (Relator):  A defesa insurge-se contra decisão que indeferiu liminarmente o habeas corpus em razão da supressão de instância, estando a decisão impugnada nos seguintes termos (fls. 75-76):
+Trata-se dehabeas corpus, com pedido liminar, impetrado em face de decisão monocráticaassim ementada(fl. 13):
+HABEAS CORPUS. IMPETRAÇÃO CONTRA SENTENÇA VISANDO ALTERAÇÃO NA DOSIMETRIA DA PENA E REGIME INICIAL DE CUMPRIMENTO COM CONSEQUENTE RECONHECIMENTO DE ILEGALIDADE DA PRISÃO PREVENTIVA. NECESSIDADE DO MANEJO DO RECURSO DE APELAÇÃO CRIMINAL. INVIABILIDADE DE UTILIZAÇÃO DO REMÉDIO CONSTITUCIONAL COMO SUCEDÂNEO RECURSAL. VIA INADEQUADA.AUSÊNCIA DE FLAGRANTE ILEGALIDADE. HABEAS CORPUS NÃO CONHECIDO.
+Consta dos autos que o paciente foi condenado como incurso noart. 157, § 2º, inciso II, e § 2º-A, inciso I, do Código Penal,às penas de 8 anos, 10 meses e 20 dias de reclusão, regime inicial fechado epagamento de 21 dias-multa.
+O impetrante assevera que não houve fundamentação idônea quando da aplicação da majorante prevista no inciso I do §2º-A do art. 157 do Código Penal, pois houve contradição entre o depoimento prestado pela vítima. Ressalta que, caso afastada a majorante, sua penaseria diminuídae permitido o regime inicial semiaberto para cumprimento de pena.
+Requer, liminarmente e no mérito, a concessão da ordem dehabeas corpus, para que seja afastada a majorante prevista no inciso Ido §2º-Ado art. 157do Código Penal, diminuindo-se a sua pena, modificando o regime inicial de cumprimento de pena para o semiaberto e relaxada a prisão preventiva, ainda que com a fixação de uma das cautelares previstas no art. 319 do CPP.
+A liminar foi indeferida.
+As informações foram prestadas.
+O Ministério Público Federal ofertou parecer, manifestando-se pelo não conhecimento dowrit.
+Como relatado, e observado no parecer do MPF (fl. 73), a defesa se insurge contra decisão singular de Desembargador do Tribunal de origem, que não conheceu dowrit.Contra tal decisão, seria cabível agravo interno, o qualnão foi interposto, o que impossibilita o conhecimento deste recurso.
+Não tendo havido, portanto, o esgotamento da instância de origem, descabe, ao Superior Tribunal de Justiça, a apreciação do pedido, sob pena de indevida supressão de instância, quer se trate de decisão monocrática, quer se trate de despacho de Relator. Neste sentido:
+PROCESSUAL PENAL. HABEAS CORPUS NO TRIBUNAL DE ORIGEM. DECISÃO UNIPESSOAL DE DESEMBARGADOR NÃO CONHECENDO DO WRIT. FALTA DE ESGOTAMENTO DA INSTÂNCIA. NÃO CONHECIMENTO DA SÚPLICA NESTE STJ. PRECEDENTES. PRONÚNCIA. RECURSO EM SENTIDO ESTRITO. JUÍZO DE RETRATAÇÃO. FUNDAMENTAÇÃO INSUFICIENTE. NULIDADE. AUSÊNCIA.
+1 - Em que pese ser o habeas corpus via impugnativa e autônoma, tem suas hipóteses de cabimento na Constituição Federal, de modo que esta Corte Superior não tem competência para todo e qualquer pedido de constrangimento ilegal apresentado por meio do writ. Decisão singular de desembargador não se enquadra como ato coator de "tribunal". É preciso esgotar a instância ordinária por meio de agravo regimental.
+2 - A decisão proferida em sede de juízo de retratação, por ocasião da interposição do recurso em sentido estrito, não necessita ser minuciosamente fundamentada, não existindo nulidade no caso em análise. Precedentes deste Superior Tribunal de Justiça.
+3 - Agravo regimental não provido.(AgRg no HC 401.079/SP, RelatoraMinistra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 05/12/2017, DJe 12/12/2017.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS.INDEFERIMENTO LIMINAR. ART. 210 DO RISTJ.ORDEM IMPETRADA CONTRA DECISÃO SINGULARDE DESEMBARGADOR DO TRIBUNAL DE ORIGEM.AUSÊNCIA DE ESGOTAMENTO DAS INSTÂNCIASORDINÁRIAS. SUPRESSÃO DE INSTÂNCIA.INCOMPETÊNCIA DESTE SUPERIOR TRIBUNAL DEJUSTIÇA. RECURSO DESPROVIDO.
+- Compete ao Superior Tribunal de Justiça apreciarhabeas corpus impetrado nas hipóteses em que aautoridade coatora ou o paciente estejam indicados no art.105, inciso I, alíneas a e c, da Constituição Federal.
+- No caso, o writ foi impetrado contra decisãomonocrática de proferida por relator no Tribunal deorigem, a qual não foi impugnada por recurso cabível,objetivando submeter a decisão à apreciação do órgãocolegiado. Uma vez não esgotada ainstância ordinária, émanifesta, portanto, a supressão de instância. Precedentesdo STJ e do STF.
+- Agravo regimental desprovido. (AgRg no HC 332.057/AC, Relator Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 15/03/2016, DJe 28/03/2016).
+Ante o exposto, não conheço dohabeas corpus.
+De fato, a defesa insurge-se contra decisão singular de Desembargador do Tribunal de origem, que indeferiu pedido de alteração de dosimetria penal justamente por já ter sido deduzido pela própria parte em recurso próprio  apelação (fl. 14). Ademais, contra a manifestação monocrática de origem, seria cabível agravo regimental, o qual, aparentemente, não foi interposto, o que impossibilita o conhecimento deste writ.
+Não tendo havido, portanto, o esgotamento da instância de origem, descabe ao Superior Tribunal de Justiça a apreciação do pedido, sob pena de indevida supressão de instância, quer se trate de decisão monocrática, quer se trate de despacho de Relator, pelo que nego provimento ao agravo regimental.
+É o voto.
