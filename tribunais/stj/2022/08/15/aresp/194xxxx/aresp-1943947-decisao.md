@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ANDRÉ CAMPERLINGO-ME,contra decisão que inadmitiu recurso especial, fundamentado naalínea"a"do permissivo constitucional.
+Agravo em recurso especial interposto em: 30/03/2021.
+Concluso ao gabinete em: 27/10/2021.
+Ação: ordinária ajuizada por CANTINA BIAGGIO LTDA. - EPP contra ANDRÉ CAMPERLINGO-ME, para compelir o réua se abster de utilizar expressões relativas a sua marca, julgada procedente em parte, com deferimento da antecipação de tutela.
+Decisão interlocutória: fixou os honorários periciais em R$ 87.000,00.
+Acórdão: deu provimento ao agravo de instrumento interposto por ANDRÉ CAMPERLINGO-ME, nos termos da seguinte ementa:
+"AGRAVO DE INSTRUMENTO AÇÃO DE ABSTENÇÃO DE USO DE MARCA LIQUIDAÇÃO DA SENTENÇA PROVA PERICIAL DESTINADA À APURAÇÃO DOS PREJUÍZOS MATERIAIS SOFRIDOS PELA "CANTINA BIAGGIO LTDA. EPP" - HONORÁRIOS PERICIAIS - Verba honorária fixada em R$ 87.000,00 Inconformismo do réu, visando à redução dos honorários do perito Acolhimento Valor que se mostra exorbitante, considerando as peculiaridades do trabalho técnico, a necessidade de eventuais deslocamentos e o tempo despendido pelo especialista para a elaboração do laudo Honorários periciais fixados em R$ 87.000,00, que merece redução para R$ 50.000,00. Além disso, é preciso frisar que a elevação desproporcional dos custos do processo encerra mais um óbice ao acesso à justiça RECURSO PROVIDO." (e-STJ fl. 61).
+Embargos de declaração: opostos pelo agravante, foram rejeitados.
+Recurso especial: alegou ofensa aos arts. 8º e 1.022, I e II, do CPC/2015. Sustentou: i) omissão do julgado acerca da questão da conversão da perícia de valoração da marca para a contábil, e contradição ao reconhecer odireito da recorrente em condição não requerida e em valor exacerbado; alega que em momento algum requereu que o valor fosse reduzido com base em critério do julgador, mas que fosse reduzido com base nos estudos contábeis dos balanços (perícia contábil de valor muito menor) ou  quefosse acatada a indicação da própria Sra. Perita nomeada pelo r. Juízo monocrático, para a realização da perícia, novalor de R$ 25.200,00, contudo, referidos argumentos não foram apreciados; ii)ofensa ao princípio da proporcionalidade, ao ser fixado valor desproporcional e exorbitante para os honorários periciais, além, inclusive do valor indicado pela própria perita para a realização do trabalho.
+RELATADO O PROCESSO. DECIDE-SE.
+- Da violação doart. 1.022 do CPC/2015
+As razões recursais que envolvem a suposta omissão do Tribunal de origem, residem na alegação de que, apesar de instado a se manifestar por meio das razões de agravo de instrumento e de embargos declaratórios opostos pelo agravante, o Tribunal de origem quedou-se silente acerca das questões nelas deduzidas, relativamente à redução dos valor dos honorários periciais com base nos estudos contábeis dos balanços ou acatamento do valor indicado pela perita nomeada pelo juízo monocrático.
+Do acórdão recorrido, extrai-se o seguinte trecho:
+"No caso dos autos, o valor fixado em R$ 87.000,00 não se justifica diante das peculiaridades da prova.Sem desmerecer o trabalho do perito, tal quantia é exorbitante para o caso em debate(..), a agravada não trouxe elementos que pudessem justificar a estimativa apresentada pelo perito. Assim, na espécie, considerando a natureza do trabalho e da causa em discussão, o capital social das empresas litigantes, o valor dos honorários do perito deve ser reduzido para R$ 50.000,00, quantia que se afigura mais condizente e proporcional às peculiaridades do caso. " (e-STJ, fl. 389).
+Esse entendimento foi mantido quando do julgamento dos embargos de declaração, servindo também de base para sua rejeição.
+Da análise dos autos, verifica-se que o agravante, desde o agravo de instrumento e nos embargos de declaração, alegou as questõesrelativasà redução dos valor dos honorários periciais com base nos estudos contábeis dos balanços ou acatamento do valor indicado pela perita nomeada pelo juízo monocrático.
+Neste passo, constata-se que a Corte a quo, embora nos acórdãos da apelação e dos embargos tenha relatado a pretensão do agravante em discutir referida questão, não se manifestou especificamente acerca dos pontos suscitados.
+Desse modo, impõe-se a cassação do acórdão que apreciou os embargos declaratórios, a fim de que seja sanada a omissão suscitada pelo agravante.
+Forte nessas razões, CONHEÇO do agravo para DAR PROVIMENTO ao recurso especial, a fim de anular o acórdão dos embargos de declaração e determinar a remessa dos autos ao Tribunal de origem, para que este se pronuncie, na esteira do devido processo legal, sobre os argumentos deduzidos nos embargos de declaração interpostos pela parte agravante.
+Prejudicadas as demais questões suscitadas.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO ORDINÁRIA. CUMPRIMENTO DE SENTENÇA. HONORÁRIOS PERICIAIS. REDUÇÃO DO VALOR COM BASE NOS ESTUDOS CONTÁBEIS. VALOR INDICADO PELA PERITA.EMBARGOS DE DECLARAÇÃO. VIOLAÇÃO DOART. 1.022 DO CPC/2015. CONFIGURADA. RECURSO PROVIDO. RETORNO DOS AUTOS À ORIGEM. NOVO JULGAMENTO.
+1. Ação ordinária. Cumprimento de sentença.
+2. A existência de omissão e ausência de fundamentação relevantes à solução da controvérsia, não sanadas pelo acórdão recorrido, caracteriza violação dos arts. 489 e 1.022 do CPC/2015.
+3. Agravo conhecido. Recurso especial provido.
