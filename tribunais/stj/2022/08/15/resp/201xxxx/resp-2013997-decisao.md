@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "a", da CF) interposto de acórdão assim ementado (fls. 24.097-24.104, e-STJ):
+Apelação cível - ação ordinária - tributário - repetição de indébito - ICMS-ST - falta de interesse processual -ausência de prévio requerimento administrativo - Repercussão geral no STF - razões de decidir -extensão ao direito tributário - precedentes STJ - ausência de pretensão resistida - alteração legislativa a partir do RE 593.849 - necessidade de provocação ao Fisco - sentença reformada - extinção do feito.
+1 - No julgamento do RE 631.240 em repercussão geral, o STF decidiu que a instituição de condições para o regular exercício do direito de ação é compatível com o art. 5º, XXXV, da Constituição da República, como no caso de prévio requerimento administrativo.
+2 - Configura falta de interesse processual a ausência de requerimento administrativo ao Fisco para repetição de indébito relativo ao ICMS em regime de substituição tributária, especificamente a partir do julgamento do RE 593.849, pelo STF, em regime de repercussão geral.
+Aclaratórios rejeitados (fls. 24.146-24.149, e-STJ).
+A recorrente aponta, em preliminar, ofensa aos arts. 489, § 1º, IV, 1.022, I, II, e parágrafo único, II, do CPC/2015;e, no mérito, violação dos arts.165, I, do CTN e3º, 485, VI, do CPC/2015. Pugna, em suma, pelo reconhecimento de seu interesse processual no pedido de repetição em dinheirodos valores que foram pagos a título de ICMS em regime de substituição tributária progressiva, "sobre a diferença entre o fato gerador presumido e o fato gerador que efetivamente ocorreu na saída da mercadoria ao consumidor final, desde a data da publicação do RE 593.849/MG e durante todo o período em que referida situação perdurar"(fls. 24.152-24.189, e-STJ).
+Admitiu-se o intento (fls. 24.220-24.222, e-STJ).
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 29.7.2022.
+Houve evidente ofensa aos arts. 489, § 1º, IV, 1.022, I, II, e parágrafo único, II, do CPC/2015.
+O Tribunal mineiro assim consignou (fls. 24.099-24.103, e-STJ, grifei):
+Suscita o Estado de Minas Gerais a preliminar de falta de interesse processual, calcada na ausência de requerimento administrativo. Tenho que assiste absoluta razão ao Estado.
+(..)Neste sentido, a partir da ratio decidendi (razões de decidir) de referido julgamento, o STJ passou a entender que, em se tratando de direito tributário, há necessidade de provocação administrativa do Fisco para configurar o interesse de agir (ou processual), com relação ao pleito do contribuinte, salvo nas hipóteses excepcionais definidas pelo STJ.
+(..)Neste sentido, tem-se que a parte autor manejou a presente ação sem qualquer requerimento administrativo, batendo-se pela pretensão de restituição em espécie dos valores supostamente devidos por repetição de indébito, sob o argumento de que a legislação não prevê esta forma de devolução.
+Ocorre que a legislação do Estado de Minas Gerais prevê esta hipótese de restituição, conforme art. 92, do RICMS:
+Art. 92. A importância indevidamente paga aos cofres do Estado, a título de ICMS, será restituída sob a forma de aproveitamento de crédito, para compensação com débito futuro do imposto, mediante requerimento do contribuinte, instruído na forma prevista na legislação tributária administrativa estadual.
+§ 1º Ao contribuinte que possuir crédito acumulado do imposto ou que, em razão de suas operações ou prestações, não apresentar, com habitualidade, débito do imposto, a restituição poderá ser efetivada em espécie.
+E nem há que se falar que a contestação configurou pretensão resistida, porquanto o Estado suscitou a preliminar para reconhecer a alteração legislativa que alberga o direito discutido nos autos e, em juízo de eventualidade, pugnou pela observância dos requisitos legais para a compensação tributária, sem impugnar, especificamente, os documentos juntados pela parte.
+Como se observa, a Corte de origem expressamente aplicou diretriz jurisprudencial que exigiria prévio requerimento administrativo para a repetição de indébito tributário almejada.Acontece que a parte Recorrente alega, desde os Declaratórios, que, na verdade,conforme o atual entendimento do STJ e do STF, "o interesse de agir em ação judicial de repetição de indébito dispensa a necessidade de requerimento ou de esgotamento prévio de instância administrativa" (fls. 24.112-24.163, e-STJ).
+Aduz ainda que "a existência de regramento próprio e específico para a hipótese de repetição debatida nos autos (quando o fato gerador se realizou por um valor inferior ao da base de cálculo presumida do ICMS-ST) afasta a incidência da regra geral prevista no artigo 92 do RICMS  usado no acórdão como fundamento decisório central " (fls. 24.116-24.166, e-STJ).
+Com isso, "as  supostamente aplicáveis  regras específicas da substituição tributária, mesmo depois do julgamento do STF, prevêem apenas o creditamento na escrita fiscal", sendo que o pedido expresso é de devolução em espécie, via precatório (fls. 24.123-24.175, e-STJ).
+O acórdão que apreciou os Embargos, que apenas reproduziu o teor anterior,não examinou nenhuma das relevantes questões suscitadas, as quais são aptas a reverter a decisão anterior.Dessa forma, justifica-se o retorno dos autos à origem para novo julgamento dos Aclaratórios.Nesse sentido:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 3/STJ. SUPOSTA OFENSA AO ART. 1.022 DO CPC/2015. OMISSÃO CARACTERIZADA.
+1. Deixando o Tribunala quode apreciar tema relevante para o deslinde da controvérsia, o qual foi suscitado em momento oportuno, fica caracterizada a ofensa ao disposto no art. 1.022 do CPC/2015.
+2. Agravo interno não provido.(AgInt no AREsp 1.379.502/PE, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 27/11/2019)
+Diante do exposto,dou provimento ao Recurso Especial, determinando o retorno dos autos à Corte de origem para novo julgamento dos Embargos de Declaração, a fim de que ela se manifeste expressamente acerca das omissões elencadas na fundamentação.
+Publique-se.
+Intime-se.
