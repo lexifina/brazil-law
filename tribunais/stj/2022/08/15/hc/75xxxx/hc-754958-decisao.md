@@ -1,0 +1,19 @@
+DECISÃO
+GABRIEL FERREIRA DA SILVA alega ser vítima de coação ilegal em decorrência acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo.
+A defesa pretende a soltura do paciente - acusado da suposta prática do crime de roubo tentado -, sob o argumento de ausência de fundamentação idônea para manutenção da cautelar máxima.
+Decido.
+O Juízo de Direito, ao decretar a prisão preventiva do réu, ofereceu os fundamentos a seguir:
+ ..
+Como se pode observar, os fatos apurados nos autos são concretamente graves, já que o custodiado, segundo consta dos elementos existentes até o momento, teria praticado delito de roubo circunstanciado, em concurso de agentes e mediante emprego de arma de fogo; como se não bastassem tais elementos, consta que a abordagem foi feita mediante simulação de solicitação de parada por um dos agentes, revelando se tratar de empreitada criminosa organizada e previamente planejada.
+ ..
+No mais, as condições pessoais do autuado não lhe são favoráveis, já que, quando adolescente, teve contra si duas execuções de medidas socioeducativas (fl. 28) e nesta data, em audiência, afirmou que ambas se referem a atos análogos a tráfico de drogas, sendo que, em consultas realizadas via E-SAJ, foi possível obter as guias de execução respectivas, que ora são juntadas aos autos (fls. 54-55, grifei)
+Inicialmente, convém esclarecer que, embora a Defensoria Pública de São Paulo assevere no writ que o acusado responde pelo delito de tráfico de drogas, as imputações que sobre ele recaem nestes autos dizem respeito à tentativa de roubo circunstanciado.
+Acerca da matéria posta em discussão, faço lembrar que a prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado (art. 313, § 2º, CPP).
+A decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+Na espécie, o Juiz de primeira instância apontou, de forma idônea, a presença dos vetores contidos no art. 312 do Código de Processo Penal e indicou motivação suficiente e concreta para decretar a custódia provisória, ao destacar, sobretudo, a periculosidade do réu - que já respondeu por atos infracionais análogos ao tráfico de drogas -, evidenciada pelo modus operandi da conduta  - delito praticado por dois agentes, mediante emprego de arma de fogo e simulação de solicitação de parada do ônibus para realizar a empreitada criminosa.
+Na esteira do entendimento desta Corte, é justificada a constrição quando o "decreto da prisão preventiva evidencia a gravidade em concreto da conduta e a periculosidade do acusado que agiu com peculiar modus operandi" (HC n. 449.326/BA, Rel. Ministro Rogerio Schietti, 6ª T., DJe 5/4/2019).
+Ainda, o STJ, em casos similares, entende que "a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade" (RHC n. 108.629/MG, Rel. Ministro Antonio Saldanha Palheiro, 6ªT., DJe 11/6/2019).
+Nas hipóteses em que a dinâmica dos fatos e as demais circunstâncias do caso revelem a maior reprovabilidade da conduta investigada, esses dados são capazes de demonstrar a necessidade de garantia da ordem pública, por isso mesmo, constituem fundamento idôneo para a custódia provisória.
+Pelos mesmos motivos, as medidas cautelares alternativas à prisão não se mostram adequadas e suficientes para evitar a prática de novas infrações penais.
+À vista do exposto, denego a ordem de habeas corpus.
+Publique-se e intimem-se.
