@@ -1,0 +1,24 @@
+DECISÃO
+1. Cuida-se de agravo interposto por INDARU INDUSTRIA E COMERCIO LTD contra decisão que não admitiu o seu recurso especial, por sua vez manejado em combate a acórdão proferido peloTRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado:
+AGRAVO DE INSTRUMENTO. COBRANÇA. CUMPRIMENTO DE SENTENÇA. PENHORA SOBRE 10% DO FATURAMENTO LÍQUIDO DA EMPRESA. CABIMENTO. APLICAÇÃO DOS ARTS. 835, X E 866,CAPUT, DO CPC. PRECEDENTES DO TJSP. EXECUÇÃO QUE DEVE SE DAR DA FORMA MENOS ONEROSA AO DEVEDOR, MAS NO INTERESSEDO CREDOR. DECISÃO MANTIDA. RECURSO DESPROVIDO.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, aponta a parte recorrente ofensa ao disposto nos arts.489, § 1º, V e VI,805, 835,866, 1.022, II, 1.037,II, do CPC.
+Sustenta, em síntese, a ausência de "esgotamento de todas as diligencias de localização de bens do executado passíveis de execução para viabilizar o deferimento da penhora de faturamento, em respeito ao princípio da menor onerosidade."(e-STJ Fl.1086)
+Contrarrazões ao recurso especial às fls. 1093-1111 e-STJ.
+É o relatório.
+DECIDO.
+2.Não se viabiliza o recurso especial pela indicada violação dos artigos 1022 e 489 do Código de Processo Civil de 2015. Isso porque, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente. Não há falar, no caso, em negativa de prestação jurisdicional. A Câmara Julgadora apreciou as questões deduzidas, decidindo de forma clara e conforme sua convicção com base nos elementos de prova que entendeu pertinentes. No entanto, se a decisão não corresponde à expectativa da parte, não deve por isso ser imputado vicio ao julgado.
+3. O Tribunal de origem - destinatário da prova - após a análise dos elementos informativos contidos nos autos, concluiu que a penhora sobre faturamento foi devidamente determinada após as diligências restarem infrutíferas (e-STJ Fl.1070-1071):
+No caso em testilha, já foram esclarecidas, no acórdão embargado, as razões pelas quais o agravo de instrumento não comportou provimento, especialmente diante das diligências realizadas pelos sistemas disponíveis, quaissejam, BACENJUD, INFOJUD e RENAJUD, que restaram infrutíferas, não havendo que se falar em ofensa ao tema 769 do C. Superior Tribunal de Justiça, que trata da necessidade de esgotamento das diligências para que seja deferida a penhora sobre faturamento, tampouco que fora requerida diante da ordem preferencial prevista no art. 835 do Código de Processo Civil, uma vez que, repise-se, foram realizadas as diligências de praxe, restando infrutíferas.
+Referida decisão está em consonância com a jurisprudência deste STJ, incidindo a Súmula 83 desta Corte. Ademais, infirmar a conclusão a que chegou o Tribunal, no sentido do não esgotamentodas diligências realizadas, encontra óbice na Súmula 7/STJ.
+A propósito:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO POR QUANTIA CERTA. PENHORA SOBRE O FATURAMENTO DA EMPRESA. POSSIBILIDADE. REVISÃO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. Segundo a jurisprudência do STJ, é cabível a penhora de percentual do faturamento líquido da sociedade empresária devedora, não existindo patrimônio outro suficiente. Precedentes.
+2. O recurso especial não comporta exame de questões que impliquem o revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+3. No caso concreto, o Tribunal de origem analisou a prova dos autos para concluir pela viabilidade da penhora do faturamento da empresa e pela razoabilidade do percentual fixado. Alterar tal conclusão é inviável em recurso especial.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.019.086/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 13/6/2022, DJe de 21/6/2022.)
+4. Também éincompreensível a alegação de que o tema estaria suspenso por afetação de recursos especiais que versam sobre penhora de faturamento em execução fiscal, na medida em que o caso dos autos é de execuçãoentre particulares. Incidência, na hipótese, do enunciado n. 284 da Súmula do Supremo Tribunal Federal(AgInt no AREsp n. 1.903.334/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 2/5/2022, DJe de 6/5/2022.)
+5. Ante o exposto, nego provimento ao agravo.
+Havendo nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
