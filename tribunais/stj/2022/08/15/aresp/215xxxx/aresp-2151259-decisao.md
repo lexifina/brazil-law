@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial (art. 105, III, "a", da CF) interposto contra acórdãocuja ementa é a seguinte:
+AGRAVO INTERNO - MANUTENÇÃO DA R. DECISÃO MONOCRÁTICA AGRAVADA - AGRAVO INTERNO DO INSS IMPROVIDO
+1 - Ora, o trabalho exercido pela parte autora para a Usina Catanduva S/A nos períodos entre 12/08/1982 a 20/12/1985, 06/01/1986 a 10/01/1987, 23/02/1987 a 02/05/1987, 04/05/1987 a 05/12/1987, 11/01/1988 a 07/05/1988, 09/05/1988 a 30/10/1988, 24/01/1989 a 06/05/1989 e 08/05/1989 a 04/06/1989 pode ser enquadrada como atividade agropecuária, não sendo exclusivamente corte de cana a sua atividade, mas sim está explicitado em sua CTPS que o autor era trabalhador rural.
+2 - Em regra, o trabalho rural não é considerado especial, vez que a exposição a poeiras, sol e intempéries não justifica a contagem especial para fins previdenciários.
+3 - Contudo, tratando-se de atividade em agropecuária, expressamente prevista como insalubre no item 2.2.1 do Decreto nº 53.831/1964, com presunção da especialidade até 10/12/1997 (Lei 9.528/97), e de trabalhadores da lavoura canavieira, em que o corte da cana-de-açúcar é efetuado de forma manual, com alto grau de produtividade, utilização de defensivos agrícolas, e com exposição à fuligem, é devida a contagem especial.
+4 - Portanto, os períodos entre 12/08/1982 a 20/12/1985, 06/01/1986 a 10/01/1987, 23/02/1987 a 02/05/1987, 04/05/1987 a 05/12/1987, 11/01/1988 a 07/05/1988, 09/05/1988 a 30/10/1988, 24/01/1989 a 06/05/1989 e 08/05/1989 a 04/06/1989 são especiais.
+5 - Agravo interno do INSS improvido.
+Os Embargos de Declaração foram rejeitados.
+A parte agravante, nas razões do Recurso Especial, sustenta que ocorreuviolação dos arts. 489 e 1.022 do CPC/2015; 31 da Lei 3.807/1960; 60 do Decreto 83.080/1979; 57, §§ 3º, 4º e 5º, e 58 da Lei 8.213/1991. Afirma (fls. 491, e-STJ):
+No caso, o que se pretende é o pronunciamento do Superior Tribunal de Justiça no tocante à impossibilidade do reconhecimento da especialidade da atividade na lavoura da cana-de-açúcar com base na categoria profissional da agropecuária.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 27.7.2022.
+Inicialmente, cumpre registrar que a jurisprudência do Superior Tribunal de Justiça é pacífica no sentido de que não incorre em negativa de prestação jurisdicional o acórdão que, mesmo sem ter examinado individualmente cada um dos argumentos trazidos pelo vencido, adota fundamentação suficiente para decidir de modo integral a controvérsia, apenas não acatando a tese defendida pela recorrente.
+Da leitura atenta do voto condutor, observa-se que o Tribunal de origem se manifestoude maneira clara e embasada acerca das questões relevantes para o deslinde do conflito, inclusive daquelas em relação às quais a recorrente alega omissão.Dessa forma, correta a rejeição dos Embargos de Declaração ante a inexistência de omissão, contradição ou obscuridade a serem sanadas. Por conseguinte, não houve ofensa aos arts. 489 e 1.022 do CPC/2015.
+No mérito, éinviável, ainda, analisar a tese defendida no Recurso Especial de que o Colegiadoa quo "reconheceu a atividade na lavoura da cana-de-açúcar como especial, sem a comprovação da exposição efetiva a agente nocivo à saúde, por mera presunção de nocividade ou penosidade" (fl. 491,e-STJ), pois inarredável a revisão do conjunto probatório dos autos para afastar as premissas fáticas estabelecidas pelo acórdão recorrido que reconheceu ser, "à vista do conjunto probatório acostado aos autos, possível o reconhecimento do labor especial do autor".Aplica-se, portanto, o óbice da Súmula 7/STJ.
+Conforme o Enunciado Administrativo 7/STJ, condeno o recorrente ao pagamento de honorários advocatícios em 10% (dez por cento) sobre o valor total da verba sucumbencial fixada nas instâncias ordinárias, com base no § 11 do art. 85 do CPC/2015.Saliento que os §§ 3º e 11 desse dispositivo legalestabelecem teto de pagamento de honorários advocatícios quando a Fazenda Pública for sucumbente, o que deve ser observado quando a verba sucumbencial é acrescida na fase recursal.
+Diante do exposto, conheço do Agravo para conhecerparcialmente do Recurso Especial, tão somente quanto à violação dos arts. 489 e 1.022 do CPC/2015, e, nessa extensão, negar-lhe provimento.
+Publique-se.
+Intimem-se.
