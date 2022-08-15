@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 09/08/2022 a 15/08/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Da leitura do agravo de instrumento que deu origem ao presente processo, infere-se que BANCO DO BRASIL S.A. (BANCO DO BRASIL) ajuizou ação de cobrança contra JEFFERSON HERMAN BENETTI e outros (JEFFERSON), alegando inadimplemento de contrato de abertura de crédito em conta corrente.
+O pedido foi julgado procedente, condenando-se JEFFERSON e outros ao pagamento da importância de R$ 328.215,78 (trezentos e vinte e oito mil, duzentos e quinze reais e setenta e oito centavos).
+Em cumprimento de sentença, o Juízo de primeira instância indeferiu o pedido de suspensão ou extinção do cumprimento de sentença em face dos devedores solidários de sociedade em recuperação judicial (e-STJ, fl. 29).
+Contra essa decisão, JEFFERSON e outros interpuseram agravo de instrumento, aduzindo que o processo deveria ser suspenso, tendo em vista a aprovação do plano de recuperação judicial da devedora principal, no qual prevista cláusula de supressão das garantias reais e fidejussórias.
+O agravo de instrumento não foi provido pelo Tribunal de Justiça de São Paulo nos termos do acórdão de relatoria do Des. JOÃO CAMILLO DE ALMEIDA PRADO COSTA, assim ementado:
+FASE DE CUMPRIMENTO DE SENTENÇA. Ação de cobrança. Propositura da ação de cobrança apenas contra os coobrigados. Deferimento do trâmite da recuperação judicial da devedora principal. Circunstância que não obsta o normal processamento da fase de cumprimento de sentença da ação de cobrança ajuizada contra os garantes. Impugnação ofertada pelos devedores rejeitada. Decisão mantida. Recurso improvido. Dispositivo: negaram provimento ao recurso (e-STJ, fl. 143).
+Opostos embargos de declaração por JEFFERSON e outros, foram rejeitados (e-STJ, fls. 175/180).
+Nas razões do recurso especial, JEFFERSON e outros alegaram violação dos arts. 6º, 47, 49, 50 e 59 da Lei nº11.101/05, bem como dissídio jurisprudencial, ao sustentarem que a previsão no plano de recuperação judicial de cláusula de supressão de ações em desfavor das recuperandas, avalistas, fiadores e coobrigados estende-se a todos os credores, inclusive aos credores que não compareceram, votaram contra ou apresentaram ressalvas (e-STJ, fls. 149/164).
+Foram apresentadas contrarrazões (e-STJ, fls. 184/201).
+O recurso especial foi provido, em decisão de minha lavra, assim ementada:
+EMPRESARIAL. RECURSO ESPECIAL. AÇÃO DE COBRANÇA. CUMPRIMENTO DE SENTENÇA. COOBRIGADOS. RECUPERAÇÃO JUDICIAL. SUPRESSÃO DE GARANTIAS. CLÁUSULA EXPRESSA DO PLANO. VALIDADE. RESSALVAS. DISSONÂNCIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA Nº 568 DO STJ. RECURSO ESPECIAL PROVIDO (e-STJ, fl. 217).
+Nas razões do presente agravo interno, BANCO DO BRASIL defendeu que a decisão deixou de observar o entendimento firmado em recurso repetitivo (Tema nº 885), enunciado na Súmula nº 581 do STJ, no sentido de que não há suspensão das ações em face de fiadores, avalistas e coobrigados em geral em razão da recuperação judicial do devedor principal, entendimento adotado pela Segunda Seção e por esta Terceira Turma (e-STJ, fls. 223/246).
+Foi apresentada impugnação (e-STJ, fls. 249/256).
+É o relatório.
+EMENTA
+EMPRESARIAL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA. CUMPRIMENTO DE SENTENÇA. RECUPERAÇÃO JUDICIAL. SUSPENSÃO DAS AÇÕES CONTRA COOBRIGADOS. CLÁUSULA EXPRESSA DE SUPRESSÃO DE GARANTIAS. POSSIBILIDADE. EFICÁCIA. APENAS EM FACE DE CREDOR QUE ANUIU. RETORNO DOS AUTOS. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A recuperação judicial do devedor principal não obsta o prosseguimento de ações e execuções propostas em desfavor de devedores solidários e coobrigados em geral, por garantia cambial, real ou fidejussória (Súmula nº 581 do STJ).
+3. Contudo, em julgamento recente, a Segunda Seção também definiu que é válida a previsão no plano de recuperação judicial aprovado quanto à supressão de garantias reais e fidejussórias, salientando, entretanto, que a cláusula não produz efeitos em relação aos credores ausentes, que tenham se abstido de votar ou que tenham se posicionado contra a referida previsão.
+4. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+5. Agravo interno não provido.
+VOTO
+De plano, vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+O inconformismo agora manejado não merece provimento por não ter trazido nenhum elemento apto a infirmar as suas conclusões.
+Da suspensão das ações em face de coobrigadores em geral
+Nas razões do presente recurso, BANCO DO BRASIL alegou que a decisão deixou de observar o entendimento firmado em recurso repetitivo (Tema nº 885), enunciado na Súmula nº 581 do STJ, no sentido de que não há suspensão das ações em face de fiadores, avalistas e coobrigados em geral em razão da recuperação judicial do devedor principal, entendimento adotado pela Segunda Seção e por esta Terceira Turma.
+Com efeito, a Segunda Seção desta Corte sumulou a tese firmada em recurso repetitivo de que a recuperação judicial do devedor principal não obsta o prosseguimento de ações e execuções propostas em desfavor de devedores solidários e coobrigados em geral, por garantia cambial, real ou fidejussória.
+Contudo, em julgamento recente, a Segunda Seção também definiu que é válida a previsão no plano de recuperação judicial aprovado quanto à supressão de garantias reais e fidejussórias, salientando, entretanto, que a cláusula não produz efeitos em relação aos credores ausentes, que tenham se abstido de votar ou que tenham se posicionado contra a referida previsão.
+Confira-se o julgado:
+RECURSO ESPECIAL. DIREITO EMPRESARIAL. RECUPERAÇÃO JUDICIAL. PLANO DE RECUPERAÇÃO. NOVAÇÃO. EXTENSÃO. COOBRIGADOS. IMPOSSIBILIDADE. GARANTIAS. SUPRESSÃO OU SUBSTITUIÇÃO. CONSENTIMENTO. CREDOR TITULAR. NECESSIDADE.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Cinge-se a controvérsia a definir se a cláusula do plano de recuperação judicial que prevê a supressão das garantias reais e fidejussórias pode atingir os credores que não manifestaram sua expressa concordância com a aprovação do plano.
+3. A cláusula que estende a novação aos coobrigados é legítima e oponível apenas aos credores que aprovaram o plano de recuperação sem nenhuma ressalva, não sendo eficaz em relação aos credores ausentes da assembleia geral, aos que abstiveram-se de votar ou se posicionaram contra tal disposição.
+4. A anuência do titular da garantia real é indispensável na hipótese em que o plano de recuperação judicial prevê a sua supressão ou substituição.
+5. Recurso especial interposto Tonon Bionergia S.A., Tonon Holding S.A. e Tonon Luxemborg S.A. não provido. Agravo em recurso especial interposto por CCB BRASIL - China Construction Bank (Brasil) Banco Múltiplo não conhecido.
+(REsp n. 1.794.209/SP, relator MINISTRO RICARDO VILLAS BÔAS CUEVA, Segunda Seção, DJe de 29/6/2021.)
+No mesmo sentido são os julgados desta Terceira Turma:
+AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO DE LEI FEDERAL. ALEGAÇÃO GENÉRICA. DISPOSITIVO CONTENDO CAPUT, PARÁGRAFOS E INCISOS. DEFICIÊNCIA RECURSAL. SÚMULA 284/STF. FALTA DE PRQUESTIONAMENTO. SÚMULA 211/STJ. RECUPERAÇÃO JUDICIAL. NOVAÇÃO. EXTENSÃO AOS COOBRIGADOS. CLÁUSULA QUE ESTABELECE SUPRESSÃO DAS GARANTIAS CAMBIAIS, REAIS OU FIDEJUSSÓRIAS. APLICAÇÃO SOMENTE AOS CREDORES QUE EXPRESSAMENTE DERAM ANUÊNCIA. QUESTAO PACIFICADA PELA SEGUNDA SEÇÃO. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM O ENTENDIMENTO DESTA CORTE. APLICAÇÃO DA SÚMULA 568/STJ.
+1. Alegação genérica de dispositivo legal composto por caput, parágrafos e incisos denota deficiência recursal, atrativa da Súmula 284/STF.
+2. Não decidida no Tribunal de origem a matéria referente ao dispositivo tido como violado, ressente-se o recurso especial do necessário prequestionamento. Súmula 211/STJ.
+3. Segundo pacificado pela Segunda Seção, a novação decorrente de cláusula do plano de recuperação judicial que estabelece supressão das garantias cambiais, reais ou fidejussórias somente se aplica aos credores que, expressamente, a ela anuíram. Acórdão objeto do especial de acordo com esse entendimento. Súmula 568/STJ.
+4. Agravo interno não provido.
+(AgInt no REsp n. 1.951.100/MT, relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. em 2/5/2022, DJe de 11/5/2022.)
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. OMISSÃO. SUPRESSÃO DE GARANTIAS. INEFICÁCIA DA CLÁUSULA DO PLANO EM RELAÇÃO AOS CREDORES QUE COM ELA NÃO ANUÍRAM. PRECEDENTES DA SEGUNDA SEÇÃO.
+1. Omissão do acórdão embargado quanto à questão acerca da eficácia da cláusula do plano de recuperação judicial que previu a supressão de garantias.
+2. A Segunda Seção do STJ firmou entendimento no sentido de que a cláusula do plano de recuperação judicial que prevê a supressão de garantias somente é eficaz em relação aos credores que com ela anuíram.
+3. A recuperação judicial do devedor principal não impede o prosseguimento das execuções nem induz suspensão ou extinção de ações ajuizadas contra terceiros devedores solidários ou coobrigados em geral, por garantia cambial, real ou fidejussória, pois não se lhes aplicam a suspensão prevista nos arts. 6º, caput, e 52, inciso III, ou a novação a que se refere o art. 59, caput, por força do que dispõe o art. 49, § 1º, todos da Lei n. 11.101/2005. EMBARGOS DE DECLARAÇÃO ACOLHIDOS PARA SANAR OMISSÃO, SEM EFEITOS INFRINGENTES.
+(EDcl no REsp n. 1.960.888/SP, relatora Ministra NANCY ANDRIGHI, Terceira Turma, j. em 15/2/2022, DJe de 18/2/2022.)
+Vale destacar que a decisão unipessoal não impôs a suspensão ou extinção do presente processo, determinando a remessa dos autos ao Tribunal estadual, a fim de que examinasse se o plano de recuperação aprovado continha cláusula expressa de supressão de garantias, bem como se o BANCO DO BRASIL anuiu a ela, em consonância com o entendimento desta Corte de Justiça.
+Dessarte, mantém-se a decisão proferida, por não haver motivos para sua alteração.
+Nessas condições, pelo meu voto, NEGO PROVIMENTO ao agravo interno.
