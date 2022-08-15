@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 09/08/2022 a 15/08/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de agravo interno interposto por Jorge Rodrigues Alves contra decisão proferida pela Presidência do Superior Tribunal de Justiça, que conheceu do agravo para não conhecer do recurso especial, ante a incidência da Súmula n. 7/STJ e da impossibilidade de análise do dissídio jurisprudencial, em virtude da incidência da referida súmula (e-STJ, fls. 451-454).
+Nas razões do recurso, o agravante alega que "nunca se insurgiu contra os fatos que, no entender do MM. Juízo a quo, ensejaria a aplicação de multa processual, mas sim quanto à falta de fundamentação para tanto" e, portanto, não incide a Súmula n. 7/STJ, devendo ser admitido o recurso especial. Aduz que o Tribunal de origem aplicou a multa do art. 1.026 do CPC/2015, sem nem sequer aludir ao caso concreto (e-STJ, fls. 457-465).
+Foi apresentada impugnação (e-STJ, fls. 468-486).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. MULTA DO ART. 1.026, § 2º, DO CPC/2015. CABIMENTO. EMBARGOS DE DECLARAÇÃO PROTELATÓRIOS. SÚMULA7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO.MANUTENÇÃO DA DECISÃO DA PRESIDÊNCIA. AGRAVO INTERNO DESPROVIDO.
+1. No tocante à aplicação da multa do art. 1.026, § 2º, doCPC/2015 na apreciação dos embargos de declaração, o Tribunal de origemreconheceu sua natureza protelatória. Reverter a conclusão do Colegiado originário, para acolher a pretensão recursal, demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra impossível ante a natureza excepcional da via eleita, consoante enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+2.A incidência da Súmula n. 7/STJ impede o conhecimento do recurso lastreado, também, pela alínea c do permissivo constitucional, dado que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão recorrido, tendo em vista a situação fática de cada caso.
+3.Agravo interno desprovido.
+VOTO
+Constata-se que oagravantenão trouxenenhuma argumentação capaz de modificar a conclusão da deliberação unipessoal da Presidência desta Corte.
+Com efeito, no tocante à aplicação da multa do art. 1.026, § 2º, doCPC/2015 na apreciação dosembargos de declaração, a segunda instância reconheceu seu caráter protelatório (e-STJ, fl. 196):
+Como instrumento da jurisdição, o processo exige desempenho colaborativo das partes e é incompatível com atitudes que, desgarradas da probidade, irrompem para o terreno da má-fé.
+Quando interpostos com o claro propósito de provocar o reexame de questões explicitamente solucionadas no acórdão recorrido, como na espécie, não há como deixar de reconhecer o intuito protelatório dos embargos declaratórios que atrai a aplicação da multa assim disposta no artigo 1.026, § 2º, do Código de Processo Civil (fl. 311).
+Verifica-se que reverter a conclusão do Colegiado originário, para acolher a pretensão recursal, demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, consoante enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+A propósito:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. PLANO DE SAÚDE. ATENDIMENTO DOMICILIAR. VIOLAÇÃO DO ART. 1.022 DO CPC/15. NÃO OCORRÊNCIA (HOME CARE). EMBARGOS DE DECLARAÇÃO PROTELATÓRIOS. APLICAÇÃO DA MULTA PREVISTA NO ART. 1.026 DO NCPC. REFORMA. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. RECUSA DE COBERTURA INDEVIDA. ABUSIVIDADE. DECISÃO EM CONFORMIDADE COM O ENTENDIMENTO DO STJ. SÚMULA Nº 568 DO STJ. ROL ANS. TAXATIVO. ENTENDIMENTO DA TERCEIRA TURMA DESTA CORTE. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. O Tribunal de Justiça do Distrito Federal e dos Territórios dirimiu a controvérsia em conformidade com a atual orientação desta Corte, no sentido de que é abusiva a cláusula contratual que veda a internação domiciliar como alternativa à internação hospitalar, visto que da natureza do negócio firmado.
+3. Consoante pacífico entendimento desta Corte, a reiteração de argumentos já repelidos de forma clara e coerente destoa dos deveres de lealdade e cooperação que norteiam o processo, a ensejar a imposição da multa prevista no art. 1.026, § 2º, do Código de Processo Civil/2015 (EDcl nos EDcl no AgInt no REsp 1.661.484/BA, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, DJe 23/2/2018). Além disso, qualquer outra análise acerca do caráter procrastinatório dos embargos de declaração, que ocasionou a imposição da multa prevista no § 2º do art. 1.026 do NCPC, seria imprescindível a análise fático-probatória, o que é inviável em recurso especial, por força do óbice da Súmula nº 7 desta Corte.
+4. Em que pese a existência de precedente da eg. Quarta Turma de que seria legítima a recusa de cobertura com base no rol de procedimentos mínimos da ANS, esta eg. Terceira Turma, em recentíssimos julgados, reafirmou sua jurisprudência no sentido do caráter exemplificativo do referido rol de procedimentos.
+5. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+6. Agravo interno não provido.
+(AgInt no REsp n. 1.924.587/DF, RelatorMinistro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 16/8/2021, DJe 18/8/2021 - sem grifo no original).
+Por fim, afirma-se que, consoante iterativa jurisprudência desta Corte, a incidência da Súmula n. 7/STJ impede o conhecimento do recurso lastreado, também, pela alínea c do permissivo constitucional, uma vez que falta identidade entre os paradigmas de cada caso.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
