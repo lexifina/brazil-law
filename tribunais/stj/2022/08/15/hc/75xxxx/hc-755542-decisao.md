@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de GRACY KELLY TRINDADE CAMPOS e STEFANY APARECIDA THEODORO BARBOSA contra v. acórdão proferido pelo eg. Tribunal de Justiça do Estado de São Paulo, nos autos da apelação criminal n. 1529663-80.2021.8.26.0228.
+Depreende-se dos autos que as pacientes foram condenadas, em primeira instância, como incursas nas iras do art. 33, caput, da Lei n. 11.343/2006, às penas de: i) Gracy - 07 (sete) anos, 09 (nove) meses e 10 (dez) dias de reclusão, em regime inicial fechado, mais o pagamento de 777 (setecentos e setenta e sete) dias-multa; e ii) Stefany - 06 (seis) anos e 08 (oito) meses de reclusão, em regime inicial fechado, mais o pagamento de 666 (seiscentos e sessenta e seis) dias-multa (fls. 204-208).
+Inconformada, a defesa interpôs apelação perante o eg. Tribunal de origem, que, por unanimidade, negou provimento ao recurso, consoante voto condutor do v. acórdão de fls. 316-326.
+Daí o presente writ, no qual a defesa alega, em síntese, a ocorrência de constrangimento ilegal, pois a persecução penal está eivada de nulidade, uma vez que a prisão em flagrante foi realizada por guardas municipais.
+Sustenta a inaplicabilidade da agravante relativa à calamidade pública.
+Afirma que a reincidência específica não conduz a aumento de pena maior do que o habitual.
+Requer, assim, a concessão da ordem.
+A liminar foi indeferida (fls. 336-337).
+Informações prestadas às fls. 342-356.
+O Ministério Público Federal, às fls. 358-363, manifestou-se pela concessão da ordem, em parecer assim ementado:
+"HABEAS CORPUS. DIREITO PENAL. TRÁFICO DEENTORPECENTES. BUSCA PESSOAL REALIZADAPOR GUARDA MUNICIPAL. FUNDADAS RAZÕESEVIDENCIADAS. LEGALIDADE. DOSIMETRIA DAPENA. AGRAVANTE DA CALAMIDADE PÚBLICA. AUSÊNCIA DE DEMONSTRAÇÃO DO NEXO CAU-SAL. NÃO INCIDÊNCIA. CONSTRANGIMENTO ILE-GAL CARACTERIZADO.
+1. Não é cabível habeas corpus substitutivo de recurso, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado, conforme a jurisprudência do Superior Tribunal de Justiça.
+2. É assente nesta Corte Superior a orientação de que os integrantes da guarda municipal não desempenham a função de policiamento ostensivo. Contudo, também é firme o entendimento jurisprudencial do STJ de que, "nos termos do artigo301 do Código de Processo Penal, qualquer pessoa pode prender quem esteja em flagrante delito, razão pela qual não há qualquer óbice à sua realização por guardas municipais. Precedentes" (HC n. 357.725/SP, Quinta Turma, Rel. Min. Jorge Mussi, DJe de 12/05/2017).
+3. Não é possível o reconhecimento da circunstância agravante descrita no art. 61, II, j, do CP, quando não demonstrado o nexo causal entre a conduta praticada e o estado de calamidade pública decorrente da pandemia da Covid-19,pois o nosso ordenamento jurídico não autoriza a responsabilização objetiva, conforme firme entendimento do STJ.
+4. Parecer pela concessão da ordem de ofício para que seja afastado do cálculo dosimétrico o aumento relativo à circunstância agravante prevista no art. 61, II, j, do CP." (fl. 358).
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+Dessarte, passo ao exame das razões veiculadas no mandamus.
+Conforme relatado, busca-se na presente impetração: i) a absolvição das pacientes, haja vista a nulidade da persecução penal; ii) o afastamento da agravante relativa à calamidade pública; e iii) a restrição do aumento decorrente da reincidência em 1/6 (um sexto).
+Transcrevo, a fim de delimitar a quaestio, os seguintes trechos do v. acórdão impugnado:
+"Não há que se falar em ilicitude da atuação das guardas civis metropolitanas, pois abordaram as apelantes em flagrante delito.
+O artigo 301 do Código de processo Penal prevê que qualquer do povo poderá, e as autoridades policiais e seus agentes deverão prender quem quer que seja encontrado em flagrante delito.
+Assim, se qualquer pessoa pode prender quem esteja em flagrante delito, inexiste óbice à realização de tal procedimento pela guarda civil metropolitana, cujo órgão, ressalte-se, contribui com a segurança pública e, portanto, com mais razão devem zelar pela preservação da ordem.
+ ..
+O delito de tráfico de drogas é de natureza permanente, ou seja, sua consumação se prolonga no tempo, permitindo a prisão em flagrante a qualquer tempo por qualquer pessoa.
+ ..
+Gracy Kelly possui três condenações por tráfico de drogas transitadas em julgado por fatos anteriores (fls. 132/137). Interpretando-se a r. sentença, conclui-se que somente duas delas foram utilizadas para reincidência, pois, para a corré Stefany, que possui duas condenações anteriores, utilizou-se a exasperação de 1/3 na segunda fase da dosimetria, tal como Gracy Kelly. Com efeito, a condenação remanescente é a que fundamentou a exasperação na primeira fase. Havendo uma condenação anterior apta a maus antecedentes, não utilizada para recrudescimento pela reincidência, não há cogitar bis in idem.
+ ..
+A agravante por o delito ter sido cometido durante a pandemia deve prevalecer, uma vez que o cometimento de crimes nessas circunstâncias demonstra insensibilidade em relação às regras emanadas da solidariedade social. Não se pode olvidar que foi determinado o isolamento social durante a pandemia, facilitando, assim, a ação dos agentes, haja vista a menor circulação de pessoas pelas ruas.
+A reincidência foi corretamente reconhecida com arrimo em duas condenações transitadas em julgado previamente ao presente fato, não atingidas pelo lapso depurador.
+Considerando o aumento de 1/6 para cada agravante, fração reiteradamente aplicada pela jurisprudência, o aumento de 1/3 na segunda fase da dosimetria por duas agravantes é razoável e proporcional.
+Assim sendo, não se evidenciando erro técnico ou excessivo rigor, as punições devem ser mantidas tais como fixadas na r. sentença"(fls. 318-325).
+Com efeito, "é assente nesta Corte Superior de Justiça a orientação de que os integrantes da guarda municipal não desempenham a função de policiamento ostensivo; todavia, em situações de flagrante delito, como restou evidenciado ser o caso, a atuação dos agentes municipais está respaldada no comando legal do art. 301 do Código de Processo Penal" (AgRg no HC n. 711.356/SP, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 3/5/2022).
+No que concerne à agravante prevista no art. 61, II, "j", do Código Penal, melhor sorte assiste à defesa.
+A despeito da prática do crime em ocasião de calamidade pública, a conduta do paciente não é suficiente, a meu sentir, a existência do Decreto que reconheceu o estado de calamidade pública para incidência da aludida agravante. É imprescindível a existência de situação concreta dando conta de que o paciente se prevaleceu da pandemia para a prática criminosa. Isso não foi devidamente demonstrado na hipótese em análise.
+Por essas razões, entendo que deve ser afastada a agravante genérica descrita no art. 61, inciso II, alínea "j", do Código Penal. Confira-se: AgRg no HC n. 655.339/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 19/04/2021.
+De outro lado, registre-se que resulta imperativo considerar o entendimento firmado no julgamento do HC n. 365.963/SP (de minha relatoria, DJe 23/11/2017), oportunidade em que a Terceira Seção desta Corte pacificou entendimento no sentido de que a reincidência, seja ela específica ou não, deve ser compensada integralmente com a atenuante da confissão, demonstrando, assim, que não foi ofertado maior desvalor à conduta do réu que ostente outra condenação pelo mesmo delito.
+Referido julgamento assentou-se na premissa de que o réu, mesmo ostentando condenação anterior por delito idêntico, não merece maior reprovabilidade na sua conduta, haja vista que, após a reforma da Parte Geral do Código Penal, operada em 11/7/1984, não há mais distinção entre os efeitos da reincidência genérica e específica, sendo inadmissível que o aplicador da lei assim o proceda, sob pena de ofensa aos princípios da legalidade e da proporcionalidade.
+Nesse contexto, alinhado à jurisprudência que se firmou no âmbito da Terceira Seção, extrai-se que a reincidência específica, justamente por não possuir maior desvalor no confronto com a atenuante da confissão espontânea, também não pode ensejar maior incremento da pena quando incidir, de forma isolada, na segunda fase da dosimetria. A propósito: AgRg no HC n. 440.349/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 28/6/2018; e HC n. 405.157/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 1º/12/2017.
+Nesse contexto, mantidos os critérios dosimétricos empregados pelas instâncias ordinárias, passo ao recálculo das penas.
+DA PACIENTE GRACY KELLY TRINDADE CAMPOS
+Primeira fase: conservo a pena-base em 05 (cinco) anos e 10 (dez) meses de reclusão, mais o pagamento de 583 (quinhentos e oitenta e três) dias-multa.
+Segunda etapa: em razão da reincidência, estabeleço a sanção em 06 (seis) anos e 09 (nove) meses e 20 (vinte) dias de reclusão, mais o pagamento de 680 (seiscentos e oitenta) dias-multa.
+Terceiro estágio: à míngua de causas de aumento e de diminuição de pena, torno definitiva a reprimenda em 06 (seis) anos e 09 (nove) meses e 20 (vinte) dias de reclusão, mais o pagamento de 680 (seiscentos e oitenta) dias-multa.
+DA PACIENTE STEFANY APARECIDA THEODORO BARBOSA
+Primeira fase: conservo a pena-base no mínimo legal.
+Segunda etapa: em razão da reincidência, estabeleço a sanção em 05 (cinco) anos e 10 (dez) meses de reclusão, mais o pagamento de 583 (quinhentos e oitenta e três) dias-multa.
+Terceiro estágio: à míngua de causas de aumento e de diminuição de pena, torno definitiva a reprimenda em 05 (cinco) anos e 10 (dez) meses de reclusão, mais o pagamento de 583 (quinhentos e oitenta e três) dias-multa.
+Ante o exposto, não conheço do habeas corpus.
+Contudo, concedo a ordem de ofício, a fim de, tão somente, redimensionar a as reprimendas em: i) 06 (seis) anos e 09 (nove) meses e 20 (vinte) dias de reclusão, mais o pagamento de 680 (seiscentos e oitenta) dias-multa, no que toca à paciente GRACY KELLY TRINDADE CAMPOS; e ii) 05 (cinco) anos e 10 (dez) meses de reclusão, mais o pagamento de 583 (quinhentos e oitenta e três) dias-multa, em relação à paciente STEFANY APARECIDA THEODORO BARBOSA; mantidos os demais termos da condenação.
+P. e I.
