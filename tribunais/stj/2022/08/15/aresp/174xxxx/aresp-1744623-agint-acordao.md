@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 09/08/2022 a 15/08/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+EMENTA
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. TRABALHORURAL, REGIME DE ECONOMIA FAMILIAR DESCARACTERIZADO.REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA N.7/STJ.
+I. Ao contrário do que a parte sustenta, o fundamento da negativa do benefícionão foi a existência de trabalho urbano por parte do marido da autora, mas sim o fato de todo o conjunto probatório não ter demonstrado a realização de atividade campesina em regime de economia familiar.
+2.Para afastar o entendimento a que chegou a Corte de origem, de modo a albergar as peculiaridades do caso, como sustentado norecurso especial, é necessário o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável na viaespecial, por óbice da Súmula n. 7/STJ, a saber: "A pretensão de simples reexame de prova não enseja recurso especial.".
+3. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno manejadocontra decisão que conheceu do agravo para não conhecer do recurso especial.
+Sustentaa insurgente que, ao afirmar que o trabalho campesino da autora não estaria comprovado em razão de anotação no CNIS de seu marido como empresário, houve afronta ao que decidido no Recurso Especial representativo de controvérsia n. 1.304.479-SP, em que se consignou que o "trabalho urbano de um dos membros do grupo familiar não descaracteriza, por si só, os demais integrantes como segurados especiais, devendo ser averiguada, a dispensabilidade do trabalho rural para a subsistência do grupo familiar".
+Assim, alega não ser necessário o revolvimento do conjunto fático- probatório para análise da pretensão da autora.
+Com essas alegações, pleiteia a reforma do julgado para provimento doespecial.
+É o relatório.
+EMENTA
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. TRABALHORURAL, REGIME DE ECONOMIA FAMILIAR DESCARACTERIZADO.REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA N.7/STJ.
+I. Ao contrário do que a parte sustenta, o fundamento da negativa do benefícionão foi a existência de trabalho urbano por parte do marido da autora, mas sim o fato de todo o conjunto probatório não ter demonstrado a realização de atividade campesina em regime de economia familiar.
+2.Para afastar o entendimento a que chegou a Corte de origem, de modo a albergar as peculiaridades do caso, como sustentado norecurso especial, é necessário o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável na viaespecial, por óbice da Súmula n. 7/STJ, a saber: "A pretensão de simples reexame de prova não enseja recurso especial.".
+3. Agravo interno a que se nega provimento.
+VOTO
+O Tribunal de origem decidiu pela descaracterização da condição de segurado especial sob a seguinte fundamentação (e-STJ, fls. 376-377).
+Observa-se que há cadastro na qualidade de empresário, conforme pesquisas realizadas no Cadastro Nacional de Informações Sociais - CNIS. Nesse contexto, não obstante a prova testemunhal afirme o trabalho em propriedade rural, as provas produzidas não conduzem à conclusão de que a parte autora explorou tais terras em regime de economia familiar, cuja principal característica é tirar da terra a própria subsistência. Nesse contexto, o conjunto probatório não foi suficiente para se aquilatar o desenvolvimento da faina campesina, como segurado especial e corroborar a pretensão deduzida nos autos.
+Ao contrário do que a parte sustenta, o fundamento da negativa do benefício não foi a existência de trabalho urbano por parte do marido da autora, mas sim o fato de todo o conjunto probatório não ter demonstrado a realização de atividade campesina em regime de economia familiar.
+Dessa forma, para afastar o entendimento a que chegou a Corte de origem, de modo a albergar as peculiaridades do caso, como sustentado no recurso especial, é necessário o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável na vidaespecial, por óbice da Súmula n. 7/STJ, a saber: "A pretensão de simples reexame de prova não enseja recurso especial.".
+A propósito:
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PEDIDO DE APOSENTADORIA POR IDADE, NA CONDIÇÃO DE TRABALHADORA RURAL, EM REGIME DE ECONOMIA FAMILIAR. ACÓRDÃO RECORRIDO QUE, À LUZ DA PROVA DOS AUTOS, CONCLUIU PELA INEXISTÊNCIA DE COMPROVAÇÃO DA ATIVIDADE RURAL, EM REGIME DE ECONOMIA FAMILIAR.REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão publicada em 08/11/2016, que, por sua vez, julgara recurso interposto contra a decisão que inadmitira o Recurso Especial, publicada na vigência do CPC/73.
+II. Na espécie, a autora ajuizou ação, postulando a concessão de aposentadoria por idade, como trabalhadora rural, em regime de economia familiar. O Tribunal a quo, à luz das provas dos autos, concluiu que, "não há nos autos qualquer documento da parte autora que a qualifique como trabalhadora do meio rural" e que "o extrato do sistema CNIS/Dataprev de fls. 54 indica o exercício de atividade urbana pela autora entre 2002 e 2005, o que corrobora sua descaracterização como rurícola em regime de economia familiar".
+Após analisar os documentos do marido da autora, juntados aos autos, o acórdão recorrido afirmou que "o regime de economia familiar pressupõe que os membros da família trabalhem no imóvel rural, sem o auxílio de empregados, para sua própria subsistência, o que não ficou comprovado no presente feito".
+III. Considerando a fundamentação adotada, o acórdão recorrido somente poderia ser modificado mediante o reexame dos aspectos concretos da causa, o que é obstado, no âmbito do Recurso Especial, pela Súmula 7 desta Corte.
+IV. No que tange à interposição fundamentada na alínea "c" do permissivo constitucional "o STJ tem jurisprudência pacífica no sentido de que não é possível o conhecimento do recurso especial interposto pela divergência jurisprudencial, na hipótese em que o dissídio é apoiado em fatos e não na interpretação da Lei Federal.Isso porque a Súmula 7 do STJ também se aplica aos recursos especiais interpostos pela alínea c do permissivo constitucional" (STJ, AgInt no AREsp 858.894/SP, Rel. Ministra DIVA MALERBI (Desembargadora Federal Convocada do TRF/3ª Região), SEGUNDA TURMA, DJe de 10/08/2016).
+V. Agravo interno improvido.
+(AgInt no AREsp n. 801.026/SP, relatora MinistraASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 14/3/2017, DJe de 27/3/2017).
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. APOSENTADORIA RURAL POR IDADE. QUALIDADE DE SEGURADA. DESCARACTERIZAÇÃO. INVERSÃO. SÚMULA 7 DO STJ. INTERPOSIÇÃO DE SEGUNDO AGRAVO INTERNO CONTRA A MESMA DECISÃO. PRECLUSÃO CONSUMATIVA.
+1. Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3).
+2. Nos termos dos arts. 48, § 1º, 55, § 3º, e 143 da Lei n. 8.213/1991, é devida a aposentadoria por idade ao trabalhador rural que completar 60 anos de idade, se homem, e 55 anos, se mulher, desde que esteja demonstrado o exercício de atividade agrícola, por um início de prova material, ainda que de forma descontínua, no período imediatamente anterior ao requerimento do benefício, em número de meses idêntico ao período de carência.
+3. Hipótese em que o Tribunal a quo manteve a sentença de improcedência por considerar descaracterizada a condição de segurada especial da parte autora, tendo em vista a suficiência da renda oriunda dos proventos de aposentadoria de seu cônjuge.
+4. "A interposição de dois recursos pela mesma parte e contra a mesma decisão impede o conhecimento do segundo recurso, haja vista a preclusão consumativa e o princípio da unirrecorribilidade das decisões" (AgRg no REsp n. 1.508.048/PR, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 21/5/2015, DJe 22/6/2015).
+5. Agravo interno desprovido. Segundo agravo interno não conhecido.
+(AgInt no AREsp n. 1.080.190/PR, relator Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 24/4/2018, DJe de 5/6/2018).
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
