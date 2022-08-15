@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por IRANDIR OLIVEIRA SOUZAcontra decisão monocrática em que foi reconsiderada anterior decisão para restabelecer a pena anteriormente imposta.
+Consta dos autos que o ora embargante foi condenado às penas de 8 anos e 6 meses de reclusão e de 4 anos e 1 mês de reclusão, em regime inicial fechado, como incurso nos crimes previstos nos arts. 1º, I, do Decreto-Lei n. 201/1967 e 299, parágrafo único, do Código Penal, em concurso material.
+Alega o embargante que "a decisão monocrática foi, data máxima vênia, contraditória e omissa quando não verificou que que o Embargante, não tinha, até a data da sentença de primeiro grau (28/10/2010).Fls.966/992), nenhuma comprovação de condenação transitada em julgado que pudesse ser parâmetro para majoração da pena base acima do mínimo legal, como ficou asseverado em condenação de primeiro grau, confirmada em segundo grau, ou seja, a uma condenação de 8 anos e 06 meses de reclusão de 04 anos e 01 mês de reclusão, em regime inicial fechado, como incurso nos crimes previstos nos artigos 1º, I, do Decreto-Lei n.201/1967 e 299, parágrafo único, do Código Penal, em concurso material)"-e-STJ fl. 2.293).
+Requer, ao final, o acolhimento dos aclaratórios para "manter a referida decisão, tudo com base e fundamento a Sumula 444 do STJ, teoria do direito ao esquecimento e, ainda, com base no princípio do in dubio pro reo e, finalmente, com base no Artigo 155 do CPP"(e-STJ fl. 2.299).
+É o relatório.
+Decido.
+Como é cediço, os embargos de declaração, consoante disposição do art. 619 do Código de Processo Penal, destinam-se a sanar possível ambiguidade, obscuridade, contradição e/ou omissão nas razões delineadas no corpo da decisão, em face das pretensões deduzidas e demais elementos constantes do processo.
+Essa é a vocação legal do recurso, sempre enfatizada nos precedentes desta Corte, como se percebe o aresto a seguir:
+PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO.  ..  ART. 619 DO CPP. AMBIGUIDADE, OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. AUSÊNCIA.
+1. Os embargos de declaração são cabíveis nas hipóteses de haver ambiguidade, obscuridade, contradição e/ou omissão no acórdão prolatado (artigo 619 do Código de Processo Penal).
+2. No caso, percebe-se claramente a oposição do recurso tão somente para rediscutir o mérito do que fora decidido. Sob o pretexto da alegação de omissão ou inexatidão, pretende o embargante apenas renovar a discussão com os mesmos argumentos com os quais a Corte Especial do Superior Tribunal de Justiça não concordou.
+ ..
+5. As Cortes Superiores já pacificaram que os efeitos infringentes nos embargos de declaração dependem da premissa de que haja algum dos vícios a serem sanados (omissão, contradição ou obscuridade) e, por decorrência, a conclusão deve se dar no sentido oposto ao que inicialmente proferido. Precedentes.
+6. Não há vício de embargabilidade quando o aresto recorrido decide integralmente a controvérsia, de maneira sólida e fundamentada.
+7. Embargos de declaração rejeitados.(EDcl na APn 613/SP, relator Ministro OG FERNANDES, CORTE ESPECIAL, DJe 3/2/2016.)
+Os embargos declaratórios constituem instrumento de colaboração no processo. Trata-se de instrumento de efetivo aperfeiçoamento da tutela jurisdicional.
+Não há na decisão embargada nenhuma situação que dê amparo ao recurso integrativo, porquantoos vícios alegados, na realidade, manifestam o inconformismo do embargante com o julgamento meritório, desiderato inadmissível em aclaratórios.
+A respeito:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO. (I) OPOSIÇÃO DE DOIS EMBARGOS IDÊNTICOS. (II) REDISCUSSÃO DE MATÉRIA SUFICIENTEMENTE DECIDIDA. DESCABIMENTO. EMBARGOS DE FLS. 1.969/1.970 NÃO CONHECIDOS. EMBARGOS DE DECLARAÇÃO DE FLS. 1.967/1.968 REJEITADOS.
+1. Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a sanar ambiguidade, suprir omissão, afastar obscuridade ou eliminar contradição eventualmente existentes no julgado.
+2. A pretensão de rediscutir matéria devidamente abordada e decidida no acórdão embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via dos embargos declaratórios.
+3. Embargos de declaração de fls. 1.969/1.970 não conhecidos. Embargos de declaração de fls. 1.967/1.968 rejeitados.(EDcl no AgRg nos EDcl no RE nos EDcl no AgRg no AREsp 639.142/SP, relatora Ministra LAURITA VAZ, CORTE ESPECIAL, julgado em 3/8/2016, DJe 30/8/2016.)
+Com efeito, inexiste omissão e contradiçãona decisão objurgada. Percebe-se, isso sim, que há uma insatisfação da parte com o resultado do julgamento e a pretensão de modificá-lo por meio de instrumento processual nitidamente inábil à finalidade almejada.
+Isso, porque os vícios alegados pelo ora embargante, quaissejam, a omissão econtradição, não se fazem presentes, pois, como consta da decisão embargada, além de aprópria peça defensiva -subscritapelo mesmo causídico (e-STJ fl.1.852)que ora subscreve o presente recurso aclaratório - terinformadoque a condenação utilizada para o reconhecimento dos maus antecedentes transitaraem julgado em julho de 2002, compulsando os autos, verifica-se, de fato, e diferentemente do alegado pela defesa, que consta documento idôneo que comprova o trânsito em julgado do delito de estelionato, em junho de 2002 (e-STJ fls. 1.007/1.008),o que, a fortiori, impede a aplicação do direito ao esquecimento,uma vez que não ocorreu o decurso de lapso superior a 10 anos entre o trânsito em julgado do crime anterior e o evento criminoso descrito na denúncia (2005).
+Quanto à contradição, portanto, também nãoexiste incompatibilidade entre os fundamentosinternosda decisão de que se requer a integração, o quedemonstra o interesse do ora recorrente em rever o mérito processual por via inadequada.
+Nesse sentido:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME PREVISTO NO ART. 56, CAPUT, DA LEI Nº 9.605/98. DELITO DE PERIGO ABSTRATO. PRETENSÃO DE REDISCUTIR MATÉRIA DECIDIDA. VIA INADEQUADA. EMBARGOS REJEITADOS.
+1. Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a suprir omissão, afastar ambiguidade, esclarecer obscuridade ou eliminar contradição existentes no julgado, não sendo cabível para rediscutir matéria já suficientemente decidida.
+2. A contradição passível de ser sanada na via dos embargos declaratórios é a contradição interna, entendida como ilogicidade ou incoerência existente entre os fundamentos e o dispositivo do julgado em si mesmo considerado, e não a contradição externa, relativa à incompatibilidade do julgado com tese, lei ou precedente tido pelo Embargante como correto.
+3. Embargos rejeitados.(EDcl no AgRg no AREsp 1275606/RJ, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 25/9/2018, DJe 11/10/2018, grifei.)
+Ademais, é imperioso ressaltar que o juiz não está obrigado a rebater, um a um, todos os pontos da impugnação apresentada pela parte, somente caracterizando negativa de prestação jurisdicional a ausência de manifestação sobre matéria essencial, o que não ocorreu na espécie.
+A esse respeito:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. VIOLAÇÃO AOS ARTS. 535, II, 861 E 866, § 2º, TODOS DO CPC. NÃO OCORRÊNCIA. JUSTIFICAÇÃO CRIMINAL. REQUISITOS. ANÁLISE DO MÉRITO. AUSÊNCIA. PRECEDENTES. VIOLAÇÃO DE DISPOSITIVO DA CONSTITUIÇÃO FEDERAL. COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL. AGRAVO IMPROVIDO.
+1.Não está o juiz obrigado a rebater, pormenorizadamente, todas as questões trazidas pela parte, configurando-se a negativa de prestação jurisdicional somente nas hipóteses em que o Tribunal deixa de emitir posicionamento acerca de matéria essencial(REsp 1259899. Rel. Ministra Assusete Magalhães. DJ de 7/4/2014).
+ ..
+5. Agravo regimental improvido.(AgRg no REsp 1.189.155/SP, relator Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 15/12/2015, DJe 2/2/2016, grifei.)
+Desse modo, não há que se falar em omissão e contradição no julgado.
+Ante o exposto,rejeitoos embargos de declaração.
+Publique-se. Intimem-se.
