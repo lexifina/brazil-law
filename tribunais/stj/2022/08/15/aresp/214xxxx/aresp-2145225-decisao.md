@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de Agravo contra inadmissão de Recurso Especial (art. 105, III, "a" e "c", da CF) interposto de acórdão assim ementado:
+TRIBUTÁRIO. EMBARGOS À EXECUÇÃO FISCAL. RESPONSABILIDADE TRIBUTÁRIA POR SUCESSÃO. ARTIGO 133 DO CTN. SUCESSORA RESPONDE PELA DÍVIDA COMO SE DEVEDORA PRINCIPAL FOSSE. NÃO APLICAÇÃO DOS ARTIGOS 133, INCISO II, E 135, INCISO III, DO CTN. PRESCRIÇÃO INTERCORRENTE PARA O REDIRECIONAMENTO. AFASTAMENTO. APELO DESPROVIDO.
+- Os apelantes são sócios da empresa FRIGOMAR, responsabilizada por sucessão pelas dívidas da executada original, nos termos do caput do artigo 133 do CTN, hipótese na qual a empresa sucessora responde integralmente pelos tributos devidos, como se devedora principal fosse, razão pela qual não há que se falar, in casu, em responsabilidade tributária subsidiária (artigos 133, inciso II, e 135 do CTN).
+- O reconhecimento de grupo econômico de fato (com a responsabilização concomitante dos respectivos sócios) não se confunde com o redirecionamento da execução fiscal, na forma do artigo 135, inciso III, do CTN, eis que aquele caracteriza a responsabilidade solidária das pessoas físicas e jurídicas envolvidas, nos termos do artigo 124, inciso 1, do CTN, por serem integrantes de uma só empresa, com interesse jurídico comum na situação que constitui fato imponível gerador da obrigação tributária. Ademais, de acordo com o artigo 125, inciso III, do CTN, um dos efeitos da solidariedade é que a interrupção da prescrição, em favor ou contra um dos obrigados, favorece ou prejudica aos demais. Portanto, deve ser afastada a ideia de ocorrência da prescrição intercorrente, na medida em que a citação da empresa originária interrompeu o fluxo prescricional para todos os demais eventuais devedores solidários. Nesse sentido, seguem precedentes: (RESP 200400864999, Ministra Eliana Calmon, STJ - 2º Turma, Di: 05/09/2005 PG:00366; AG 200504010220274, VILSON DARÓS, TRF4 - 1º Turma, D.E. 12/01/2007; AI 00309106820124030000, JUIZ CONVOCADO HERBERT DE BRUYN, TRF3 - SEXTA TURMA, e-DJF3 Judicial 1 DATA:24/05/2013).
+- Este colegiado já examinou alegação idêntica da mesma embargante e não a acolheu: (AC nº 2013.61.12.001375-3; Rel. Juiz Federal convocado Ferreira da Rocha; j. em 19/02/2019, unânime) - O disposto nos artigos 596 do CPC e 134 e 135 do CTN não tem o condão de alterar tal entendimento, em razão dos fundamentos exarados.
+Ademais, pelos mesmos motivos inexiste ofensa ao princípio da segurança jurídica.
+- Apelo desprovido.
+Os recorrentes alegam divergência jurisprudencial e violação dos arts. 489, II e 927, II, do CPC e 135 e 174 do CTN.
+Contrarrazões às fls. 1.866-1.879, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 8.8.2022.
+O Tribunal a quo expressamente segregou o juízo de admissibilidade em tópicos, nestes termos:
+O Superior Tribunal de Justiça, no julgamento do REsp 1.201.993/SP (sistemática dos recursos repetitivos - Tema 444), fixou as balizas para a análise da matéria em acórdão assim ementado:
+(..)
+A Turma Julgadora pautou-se no entendimento de que deve ser afastada a ideia de ocorrência da prescrição intercorrente, na medida em que a citação da empresa originária interrompeu o fluxo prescricional para todos os demais eventuais devedores solidários. A conclusão em apreço está em consonância com o quanto decidido no acórdão paradigmático.
+A pretensão recursal, por sua vez, destoa da orientação firmada no julgado representativo de controvérsia, razão pela qual deve ser negado seguimento ao recurso especial quanto a essa questão, nos termos do art. 543-C, § 7º, I, b, do CPC/1973 (art. 1.030, inciso I, , do CPC/2015).
+No mais, considerando que a Turma Julgadora firmou seu convencimento com suporte nas provas carreadas aos autos, a alteração do julgamento, como pretende a parte recorrente, demanda revolvimento do conteúdo fático-probatório, encontrando óbice na Súmula 07 do STJ (A pretensão de simples reexame de prova não enseja recurso especial). A propósito, confira-se:
+(..)
+Ante o exposto, nego seguimento ao recurso especial (Tema 444 dos recursos repetitivos), nos termos do art. 1.030, I, "b" do CPC, no que concerne à prescrição para o redirecionamento, e, quanto aos demais fundamentos, não o admito. (fls. 1.882-1.885, e-STJ)
+Observa-se que a parte interpôs Agravo Interno em relação ao tema julgado pela sistemática dos Recursos Repetitivos, pela qual o Colegiado de origem é soberano na aplicação da tese repetitiva ao caso concreto.Prejudicada, portanto, a reiteração do debate no que se refere a esse tema.
+Não se configurou a ofensa ao art. 489 Código de Processo Civil, uma vez que o Colegiado regionaljulgou integralmente a lide e solucionou a controvérsia. Registre-se, portanto, que a Corte a quo examinou e decidiu, fundamentadamente, todas as questões postas ao seu crivo, não cabendo falar em negativa de prestação jurisdicional.
+A acolhida da pretensão veiculada no Apelo Nobrenão depende de simples revaloração jurídica, mas da própria análise do conjunto fático probatório constante nos autos, para afastar a questão acerca da configuração do grupo econômico, da sucessão empresarial e da inocorrência de prescrição, o que encontra óbice na Súmula 7/STJ, cujaincidência impede o exame do dissídio jurisprudencial por faltar identidade entre os paradigmas apresentados e o acórdão recorrido.
+Por tudo isso, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
