@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão com a seguinte ementa:
+APELAÇÃO. Plano de saúde coletivo empresarial. Rescisão do contrato pela empresa estipulante. Pedido do beneficiário para manutenção do plano na modalidade individual, nos mesmos moldes daquele rescindido. Sentença de procedência. Inconformismo da parte ré. Não acolhimento. Resolução CONSU nº 19/1999. Sentença mantida. Recurso não provido.
+Opostos embargos de declaração, esses foram rejeitados na origem.
+Nas razões do especial, aponta a recorrente violação dos artigos 1.022 do Código de Processo Civil; 478 do Código Civil e 13 da Lei 9.656/98, alegando a ocorrência de negativa de prestação jurisdicional com a rejeição dos embargos de declaração, sem suprimento da omissão referente à não comercialização de planos individual e familiar.
+Sustenta não há que se falar em continuidade do plano de saúde coletivo empresarial em que o recorrido e familiares estavam inseridos, haja vista a extinção do contrato pelo estipulante/ex-empregador, bem como ser indevida a determinação de fornecimento na modalidade individual/familiar sem que o recorrente a comercialize.
+O recurso foi admitido na origem, nos termos da decisão de fls. 410-411, e-STJ.
+Assim delimitada a controvérsia, passo a decidir.
+De início, no que concerne à preliminar, não observo omissão no acórdão, senão julgamento contrário aos interesses da recorrente, o que não autoriza, por si só, o acolhimento de embargos de declaração, nem sua rejeição importa em violação à sua norma de regência.
+Esclareça-se que não se exige do julgador a análise de todos os argumentos das partes, para fins de convencimento e julgamento. Para tanto, basta o pronunciamento acerca dos fatos controvertidos, o que se observa no presente caso, havendo fundamentação quanto à manutenção dos segurados em plano de saúde mantido pela operadora, revelando que os motivos da decisão encontram-se objetivamente fixados nas razões do acórdão recorrido.
+No tocante ao mérito, a Corte local concluiu que (fl. 161, e-STJ):
+Portanto, na hipótese de o estipulante de um contrato de plano de saúde coletivo empresarial rescindir avença, o consumidor, beneficiário final do negócio jurídico, faz jus à manutenção do plano outrora coletivo, agora individual ou familiar, a depender do que disponibilizado pela operadora.
+Como visto nos autos, não houve a apresentação de tal opção à parte apelada, agindo com acerto o Juízo de primeiro grau.
+Verifico que o acórdão da origem divergiu da orientação emanada desta Corte Superior, que consolidou entendimento de ser "legítima a resilição unilateral do contrato coletivo de saúde com mais de trinta beneficiários, após a vigência do período de 12 (doze) meses e mediante prévia notificação da outra parte, com antecedência mínima de 60 (sessenta) dias" (AgInt no AREsp 1684459/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, DJe 17/6/2021), além disso "Esta Corte Superior firmou entendimento de que as operadoras de plano de saúde não são obrigadas a comercializar planos individuais quando atuarem somente no segmento de planos coletivos" (AgInt no AREsp 1298727/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe 4/9/2018).
+De igual teor:
+RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. SUPERAÇÃO. PLANO DE SAÚDE COLETIVO EMPRESARIAL. OPERADORA. RESILIÇÃO UNILATERAL. LEGALIDADE. INCONFORMISMO. BENEFICIÁRIO IDOSO. PLANO INDIVIDUAL. MIGRAÇÃO. IMPOSSIBILIDADE. MODALIDADE. NÃO COMERCIALIZAÇÃO. PORTABILIDADE DE CARÊNCIAS. ADMISSIBILIDADE. NOVO PLANO DO EMPREGADOR. ABSORÇÃO.
+(..)
+4. Quando houver o cancelamento do plano privado coletivo de assistência à saúde, deve ser permitido aos empregados ou ex-empregados migrarem para planos individuais ou familiares, sem o cumprimento de carência, desde que a operadora comercialize tais modalidades de plano (arts. 1º e 3º da Res.-CONSU nº 19/1999).
+5. A operadora não pode ser obrigada a oferecer plano individual a usuário idoso de plano coletivo extinto se ela não disponibiliza no mercado tal modalidade contratual (arts. 1º e 3º da Res.-CONSU nº 19/1999). Inaplicabilidade, por analogia, da regra do art. 31 da Lei nº 9.656/1998.
+6. Na hipótese, o ato da operadora de resilir o contrato coletivo não foi discriminatório, ou seja, não foi pelo fato de a autora ser idosa ou em virtude de suas características pessoais. Ao contrário, o plano foi extinto para todos os beneficiários, de todas as idades, não havendo falar em arbitrariedade, abusividade ou má-fé.
+(..)
+9. Não se revela adequado ao Judiciário obrigar a operadora de plano de saúde que, em seu modelo de negócio, apenas comercializa planos coletivos, a oferecer também planos individuais, tão somente para idosos e com valores de mensalidade defasados, de efeito multiplicador, e sem a constituição adequada de mutualidade: esses planos não sobreviveriam. Ademais, a operadora também não pode ser compelida a criar um produto único e exclusivo para apenas a demandante.
+(..)
+14. Recurso especial da operadora de plano de saúde provido. Recurso especial da beneficiária prejudicado.
+(REsp 1924526/PE, Rel. p/ Acórdão Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 3/8/2021)
+Acrescento que consta dos autos que houve comunicação inequívoca ao recorridoda formalização do desligamento do plano de saúde coletivo empresarial (fl. 131, e-STJ).
+Em face do exposto, dou provimento ao recurso especial para julgar improcedentes os pedidos contidos na petição inicial. Condeno a parte autora ao pagamento das custas processuais e dos honorários advocatícios, os quais fixo em R$ 1.000,00 (mil reais), considerando-se suspensa a exigibilidade em caso de assistência judiciária gratuita.
+Intimem-se.
