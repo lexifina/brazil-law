@@ -1,0 +1,37 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo em recurso especial interposto por ROSANGELA TORRES DE MATOScontra decisão do Tribunal de Justiça de São Pauloque não admitiu recurso especial manejado contra acórdão assim ementado (e-STJ, Fl.762):
+EMENTA: Seguro de veículo. Ação de cobrança cumulada com reparação de danos. Perda total do automóvel e recusa da seguradora ao pagamento da indenização ajustada. Procedência parcial, restando a seguradora condenada ao pagamento do valor de mercado do veículo. Partes que invocam omissão quanto ao valor apontado inicialmente pela autora, assim como em relação à responsabilidade pelo pagamento dos tributos e licenciamento do automóvel após o sinistro. Solução das questões que decorre dos termos do contrato e que devem ser cumpridos dentro dos parâmetros estabelecidos. Distribuição dos encargos sucumbenciais proporcionalmente ao decaimento de cada parte. Honorários advocatícios. Verba arbitrada com razoabilidade. Recursos desprovidos.
+Quanto ao valor da indenização, a cláusula 3, alínea "a", das Condições Gerais do Seguro dispõe que "Tratando-se de seguro contratado na modalidade de valor de mercado referenciado a indenização corresponderá ao valor constante na tabela de referência vigente na data de pagamento da indenização, multiplicado pelo fator de ajuste contratado para cobrir o veículo e especificado na apólice" (fl. 142).
+Por outro lado, consta da cláusula 20 do mesmo documento que, em caso de indenização integral, o segurado deverá entregar à seguradora o Certificado de Propriedade do Veículo (DUT) original e com firma reconhecida, além de comprovantes da regularidade do licenciamento e IPVA anteriores ao sinistro (fl. 146).
+Ainda, segundo a cláusula 22 do documento em referência, em caso de indenização integral o salvado pertencerá à requerida, devendo ser removido das instalações da oficina para o pátio da seguradora (fl. 150), sendo dela a responsabilidade pela regularidade da situação do bem junto aos órgãos administrativos a partir de então.
+Por fim, os honorários de advogado, fixados em 20% sobre o valor da condenação, não se revelam excessivos diante da observância da proporcionalidade na distribuição entre as partes e reduzi-los significa aviltar a remuneração a que os advogados fazem jus em razão da assistência às partes.
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial a parte alega ofensa aos seguintes dispositivos legais: arts. 85, caput e §2º, 86, caput e parágrafo único, 371, 489, IIe1.022, II,do CPC, sustentando, em síntese, afronta ao princípio da sucumbência.
+Afirma que decaiu de parte mínima do pedido, motivo pelo qual deve a parte Ré arcar com o pagamento da totalidade das custas, despesas do processo e honorários advocatícios(e-STJ Fl. 799).
+Apresentadas as contrarrazões, sobreveio juízo de admissibilidade negativo na origem, advindo, daí, o presente agravo (e-STJ, Fl. 810-818).
+É o relatório.
+Passo a decidir.
+A pretensão recursal não merece acolhida.
+Inicialmente, apresenta-se deficiente a fundamentação do recurso especial em que a alegação de ofensa aos arts. 489 e 1.022,do CPC/15se faz de forma genérica, não havendo a demonstração clara dos pontos do acórdão que se apresentam omissos, contraditórios ou obscuros. Aplica-se, assim, o óbice da Súmula 284/STF.
+Da mesma forma, relativamente à apontada ofensa ao artigo 371 do CPCa parte agravante não apontou de que forma referido dispositivo teria sido violado pelo acórdão recorrido, por isso, não cabe conhecer da violação.
+Em relação à distribuição dos ônus sucumbenciais, esta Corte tem entendimento assente no sentido de que a verificação da proporção em que cada parte restou vencedora ou vencida, bem como a aferição de sucumbência mínima são providências que fogem à competência desta Corte por implicarem revolvimento do conjunto fático-probatório dos autos, atraindo a incidência do óbice da Súmula 7 do STJ.
+A propósito:
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO DE CONTRATO DE CONSTRUÇÃO C/C DANOS MORAIS E MATERIAIS. 1. DANO MORAL CONFIGURADO E QUANTUM DEBEATUR EM CONFORMIDADE COM OS PRINCÍPIOS DA PROPORCIONALIDADE E DA RAZOABILIDADE. ALTERAÇÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. 2. DISTRIBUIÇÃO DOS ÔNUS SUCUMBENCIAIS. SÚMULA N. 7/STJ. 3. AGRAVO INTERNO IMPROVIDO.
+1. O Tribunal estadual, ao dirimir a controvérsia, concluiu que os aborrecimentos experimentados pelos autores ultrapassaram o simples dissabor, sendo mantida a condenação por indenização por danos morais estipulada na sentença. Reverter a conclusão do Colegiado originário, para acolher a pretensão recursal quanto à ocorrência de danos morais e ao valor arbitrado para a indenização, demandaria o revolvimento do acervo fático-probatório dos autos, o que é vedado ante a natureza excepcional da via eleita, consoante enunciado da Súmula n. 7/STJ.
+2. Segundo a jurisprudência do Superior Tribunal de Justiça, a aferição do percentual em que cada litigante foi vencedor ou vencido ou a conclusão pela existência de sucumbência mínima ou recíproca das partes é questão que não comporta exame em recurso especial, por envolver aspectos fático-probatórios, aplicando-se à hipótese o enunciado sumular n. 7/STJ.
+3. Agravo interno improvido.
+(AgInt no AgInt no AREsp 1778917/PR, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 25/05/2021, DJe 28/05/2021);
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL  AÇÃO DECLARATÓRIA C/C PEDIDO CONDENATÓRIO  DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA PARTE RÉ.
+1. Derruir a convicção formada, em relação ao atraso na inauguração do shopping e a constituição em mora do devedor, demandaria o exame das cláusulas contratuais e do contexto fático-probatório, o que é impossível na via recursal especial, ante o óbice das Súmulas 5 e 7 do STJ.
+2. Não há como alterar a conclusão do aresto impugnado, no sentido de que o caso em comento não se subsume às situações fáticas dos outros processos julgados pela Corte de origem, sem que se proceda ao revolvimento do conjunto fático-probatório dos autos, providência vedada no âmbito do recurso especial, ante o disposto na Súmula 7 do STJ.
+3. Rever o entendimento da Corte de origem a respeito da distribuição da sucumbência exige a incursão no substrato fático-probatório dos autos, providência que não é cabível em sede de recurso especial, conforme óbice na Súmula 7/STJ.
+4. A Corte local, com base no contrato entabulado e nos elementos fático-probatórios dos autos, entendeu pela presença dos requisitos ensejadores da responsabilidade civil e do dever de indenizar pelo danos suportados pelos autores. O acolhimento da pretensão recursal, no ponto, demandaria a alteração das premissas fático probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, bem como uma análise do contrato de locação firmado entre as partes, fazendo incidir o óbices das Súmulas 5 e 7/STJ.
+4. Agravo interno desprovido.
+(AgInt nos EDcl no REsp 1885114/RJ, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 24/05/2021, DJe 28/05/2021)
+Desse modo, não procede a irresignação recursal.
+Ante o exposto, conheço do agravo para, desde logo, não conhecer do recurso especial.
+Intimem-se.
+EMENTA
+AGRAVO E RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE COBRANÇA. SEGURO. INDENIZAÇÃO.NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ALEGAÇÃO GENÉRICA.SUCUMBÊNCIA. DISTRIBUIÇÃO. REEXAME. SÚMULA 7 DO STJ.
+AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
