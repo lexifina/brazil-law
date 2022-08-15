@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 09/08/2022 a 15/08/2022, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por JJ SÃO BENTO EMPREENDIMENTOS IMOBILIÁRIOS LTDA., com fundamento no art. 1.022 do novo CPC, ao acórdão de fls.754-764 (e-STJ), que negou provimento ao agravo interno.
+Defende ter havido omissões, contradições e carência de fundamentação no acórdão embargado. Enfatiza que este recurso não padece de má-fé e pode ocasionar o prequestionamento de matéria constitucional, o que é necessário para viabilizar eventual recurso à Suprema Corte.
+Defende a inaplicabilidade das Súmulas 7 e 83/STJ e 283/STF. Frisa que o acórdão de origem não está em sintonia com a jurisprudência desta Corte Superior no tocante à aplicação da Lei n. 13.786/2018. Pontua que o embargado não reúne as condições para a concessão da gratuidade de justiça, sendo certo que para a exclusão desse benefícionão há necessidade de incursão fático-probatória - mera qualificação jurídica deprovas constantes nos autos.
+Aponta que a solução estabelecida acerca da cláusula penal e perda de sinal não respeita a jurisprudência do STJ. Nesse contexto, destaca haver contradição no tocante à incidência da cláusula penal somente sobre os valores pagos, haja vista que o pacto entre as partes foi para cálculo com base no valor total do contrato.
+Pondera que os arts. 884 do CC e 34-A, I, da Lei n. 6.766/1979 (com as modificações advindas da Lei n. 13.786/2018) foram devidamente impugnados e questionados no recurso especial. Todavia, ainda que assim não fosse, menciona que se admite o prequestionamento implícito, não necessitando da indicação específica do dispositivo legal, em razão da aplicação do princípio do iura novit curia.
+Argumenta não existir incidência de correção monetária sobre os valores pagos, ante o teor do art. 1º, § 1º, da Lei n. 6.899/1981 - inaplicabilidade da Súmula 83/STJ. Suscita, por fim, que a questão a respeito dos honorários advocatícios não esbarra no óbice do verbete sumular n. 7/STJ, tendo em vista ser questão unicamente de direito. Requer o acolhimento dos embargos de declaração (e-STJ, fls. 767-795).
+Contraminuta não apresentada (e-STJ, fl. 799).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. OMISSÃO, CARÊNCIA DE FUNDAMENTAÇÃO OU CONTRADIÇÃO NÃO VERIFICADAS. ACÓRDÃO EMBARGADO DEVIDAMENTE FUNDAMENTADO. INVIABILIDADE DE CABIMENTO DO RECURSO DO ART. 1.022 DO NOVO CPC. PREQUESTIONAMENTO DE MATÉRIA CONSTITUCIONAL. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Ausentes quaisquer dos vícios ensejadores de embargos de declaração, afigura-se nítido o intuito infringente da irresignação, que objetiva não suprimir omissão, afastar obscuridade, eliminar contradição ou corrigir erro material, mas sim reformar o julgado por via inadequada.
+2. Nos termos do "art. 105, III, da Constituição Federal, não compete ao Superior Tribunal de Justiça o exame de dispositivos constitucionais em embargos de declaração, ainda que opostos para fins de prequestionamento, sob pena de invasão da competência atribuída ao Supremo Tribunal Federal" (EDcl no REsp n. 1.884.483/PR, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 26/4/202 2, DJe de 5/5/2022.).
+3. Embargos de declaração rejeitados.
+VOTO
+Não há nenhuma omissão, carência de fundamentação ou mesmo contradição a serem sanadas no julgado ora embargado, portanto inexistentes os requisitos para cabimento destes embargos declaratórios, nos termos do art. 1.022 do novo CPC.
+O acórdão dirimiu a controvérsia com base em fundamentação sólida, tendo apenas resolvido a celeuma em sentido contrário ao postulado pelos insurgentes. Ademais, o órgão julgador não está obrigado a responder a questionamentos das partes, mas apenas a declinar as razões de seu convencimento motivado, como de fato ocorreu nos autos.
+Estão claras as circunstâncias que ensejaram a inviabilidade de provimento ao agravo interno. Demonstrou-se que as questões acerca do afastamento da aplicação da Lei n. 13.786/2018; devolução de valores pagos a título de arras; correção monetária estipulada a partir de cada desembolso, ao passo que a eventual incidência de juros de mora deveria incidir do trânsito em julgado; e retenção de 20% (vinte por cento) sobre o valor pago pelo promitente comprador estariam em harmonia com a jurisprudência desta Corte Superior - Súmula 83/STJ.
+Também estipulou-se a carência de ataque a relevante fundamento do recurso especial (Súmula 283/STF). No mais, firmou-se que o deferimento da gratuidade de justiça estaria amparada em matéria fático-probatória, bem como a distribuição da sucumbência - Súmula 7/STJ.
+Destarte, como o julgado está devidamente fundamentado, não é caso de cabimento destes embargos de declaração. Fica nítido que se busca, em verdade, a concessão de efeitos infringentes, sem os vícios a ampará-los.
+Veja-se:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO CONFLITO NEGATIVO DE COMPETÊNCIA. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
+1. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+2. Não há vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+3. Embargos de declaração rejeitados.
+(EDcl no AgInt no CC 182.614/PR, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA SEÇÃO, julgado em 12/04/2022, DJe 19/04/2022)
+Nos termos da jurisprudência do Superior Tribunal de Justiça, o recurso especial possui natureza vinculada, exigindo, para o seu conhecimento, a imprescindível demonstração pelo recorrente, de forma clara e precisa, dos dispositivos apontados como malferidos pela decisão recorrida juntamente com argumentos suficientes à exata compreensão da controvérsia estabelecida, sob pena de inadmissão pela aplicação da Súmula 284/STF.
+Destarte, diante de sua natureza estrita, não se prestam os embargos de declaração ao prequestionamento de dispositivos constitucionais.
+A propósito:
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. DIREITO CIVIL. AÇÃO DE ANULAÇÃO DE ASSEMBLEIA CONDOMINIAL. CONVENÇÃO. ALTERAÇÃO. LOCAÇÃO. PRAZO INFERIOR A 90 (NOVENTA) DIAS. PROIBIÇÃO. POSSIBILIDADE. FUNÇÃO SOCIAL DA PROPRIEDADE. ART. 1.336, IV, DO CÓDIGO CIVIL. USO DE PLATAFORMAS DIGITAIS. ASPECTO IRRELEVANTE. ERRO DE FATO. INEXISTÊNCIA. DISPOSITIVOS CONSTITUCIONAIS. PREQUESTIONAMENTO. INVIABILIDADE.
+1. Ausência de erro de fato, haja vista que a controvérsia foi decidida a partir do ordenamento jurídico aplicável aos condomínios residenciais, sobretudo das normas contidas nos arts. 19 da Lei nº 4.591/1964 e 1.336, IV, do Código Civil de 2002, aferindo-se a razoabilidade e a proporcionalidade da restrição imposta à luz do contexto social no qual ela está genericamente inserida.
+2. Nos termos do art. 105, III, da Constituição Federal, não compete ao Superior Tribunal de Justiça o exame de dispositivos constitucionais em embargos de declaração, ainda que opostos para fins de prequestionamento, sob pena de invasão da competência atribuída ao Supremo Tribunal Federal.
+3. Embargos de declaração rejeitados.
+(EDcl no REsp n. 1.884.483/PR, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 26/4/2022, DJe de 5/5/2022.)
+Ante o exposto, rejeito os embargos de declaração.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de novos embargos de declaração manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É o voto.
