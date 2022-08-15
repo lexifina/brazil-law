@@ -1,0 +1,58 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros João Otávio de Noronha, Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL.DECISÃO AGRAVADA PROFERIDA PELA PRESIDÊNCIA DESTA CORTE SUPERIOR. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. DECISÃO MANTIDA.
+A ausência de impugnação específica e adequada dos fundamentos da decisão que não admitiu o apelo nobre impõe, conforme ressaltado no decisum reprochado,o não conhecimento do agravo em recurso especial.
+Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por FABIANO PEIXOTO BENEDETTIcontra a decisão de fls. 214/215, na qual a Presidência desta Corte Superior não conheceu do agravo em recurso especial, por ausência de impugnação específica aos fundamentos da decisão que inadmitiu o apelo nobre.
+Consoante se depreende dos autos, o agravante foi condenado, em primeiro grau, como incurso nas sanções do art. 171, §3º, c/c art. 71, ambos do Código Penal, às penas de 3(três) anos e 6 (seis) meses de reclusão, no regime inicial aberto, a qual foi substituída por duas restritivas de direito.
+O eg. Tribunal de origem, em decisão unânime, negou provimento ao recurso de apelação criminal da Defesa, em acórdão assim ementado (fls. 139):
+"AGRAVO EM EXECUÇÃO PENAL - EXTINÇÃO DA PUNIBILIDADE - PRESCRIÇÃO PELA PENA APLICADA - INOCORRÊNCIA - MANUTENÇÃO DA DECISÃO DE BASE - NECESSIDADE. 1. Dispõe o caput do artigo 110 do Código Penal que a prescrição, após a sentença condenatória transitar em julgado, regula-se pela pena privativa de liberdade aplicada na sentença condenatória. 2.Considerando que entre os marcos interruptivos decorreu lapso temporal inferior ao prazo prescricional, inviável a declaração da prescrição da pretensão executória."
+Sobreveio recurso especial (fls. 146/163), interposto pela Defesa com fulcro no artigo 105, inciso III, alíneasae c, do permissivo constitucional, no qual se alegou violação aos arts. 109, V,110, §1º e117, V, todosdo Código Penal, ao argumento de que"(..)o termo inicial da prescrição executória teve início em de 27 de janeiro de 2.014,de acordo com o previsto no art. 112, inciso 1, primeira parte, do CP, tendo sido interrompido por ocasião da audiência de advertência, que só ocorreu em data de 27,de julho de 2 018" (fl. 151).
+Apresentadas as contrarrazões (fls. 174/177), o recurso especial foi inadmitido na origem, pela incidência da Súmula 283 do STF,Súmula 83 do STJ e não comprovação do alegado dissídio jurisprudencial(fls. 179/183).
+Foi interposto o respectivo agravo, no qual o insurgente pugnou pelo recebimento e processamentodo recurso especial(fls. 186/204).
+Na decisão de fls. 214/215, em decorrência da ausência de impugnação aos fundamentos da decisão que inadmitiu o apelo nobre, a d. Presidência deste Superior Tribunal de Justiça não conheceu do agravo em recurso especial.
+Nas razões deste agravo regimental, a Defesa assevera que "(..)mesmo em uma análise perfunctória, infere-se que o Agravo em Recurso Especial está devidamente adequado e merece ser acolhido, mormente por ter impugnado, enfrentado e fundamentado todos os termos da decisão Agravada, item por item, ao contrário do douto entendimento esposado." (fl. 219).
+Pelo despacho de fl. 242, foi determinada a redistribuição dos autos.
+Conforme Termo de Distribuição e Encaminhamento de fl. 245, o feito foi a mim atribuído.
+O Ministério Público Federal manifestou-se pelo desprovimento do agravo regimental, em Parecer assim ementado (fls. 247):
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO PENAL. IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO RECORRIDA.AUSÊNCIA. NÃO CONHECIMENTO. SÚMULA 182/STJ.PRESCRIÇÃO NÃO VERIFICADA.
+1. No agravo regimental, a Defesa deixou de atacar os fundamentos da decisão recorrida, em contrariedade à Súmula 182/STJ. " É  assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos" (AgRg no RHC 122.370/PA, Rel. Ministro LEOPOLDO DE ARRUDA RAPOSO (DESEMBARGADOR CONVOCADO DO TJ/PE), QUINTA TURMA, julgado em 20/02/2020, DJe 02/03/2020).
+2. O Tribunal de origem assentou que, no caso, deve ser levada em conta a pena de 2 anos e 8 meses de reclusão, não se computando o acréscimo decorrente da continuação. Assim, o prazo prescricional a ser considerado é o de 8 anos e não o de 4 anos como pretende a Defesa. Tal fundamento que, por si só, sustenta o acórdão recorrido, permaneceu incólume, sendo inviável o conhecimento do recurso especial, incidindo, por analogia, o óbice da Súmula nº 283/STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+3. Parecer pelo desprovimento do agravo regimental."
+Por manter o decisum, trago o feito a julgamento do Colegiado.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL.DECISÃO AGRAVADA PROFERIDA PELA PRESIDÊNCIA DESTA CORTE SUPERIOR. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. DECISÃO MANTIDA.
+A ausência de impugnação específica e adequada dos fundamentos da decisão que não admitiu o apelo nobre impõe, conforme ressaltado no decisum reprochado,o não conhecimento do agravo em recurso especial.
+Agravo regimental desprovido.
+VOTO
+Em que pesem os argumentos da parte agravante, a decisão impugnada deve ser mantida.
+A Presidência deste Superior Tribunal de Justiça verificou que o agravo em recurso especial deixou de impugnar todos os fundamento da decisão de admissibilidade do Tribunal de origem para não admitir o recurso especial, qual seja, a incidência da Súmula83/STJ e não comprovação do alegadodissídio jurisprudencial.
+Por tal razão, foi aplicada a regra contida no art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça, ocasionando o não conhecimento do agravo em recurso especial.
+Consoante constou na decisão monocrática (fl. 214):
+"Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: Súmula 283/STF, Súmula 83/STJ e impossibilidade de alegação de divergência com paradigmas oriundos de habeas corpus, mandado de segurança ou recurso ordinário.
+Entretanto, a parte agravante deixou de impugnar especificamente:Súmula 83/STJ e impossibilidade de alegação de divergência com paradigmas oriundos de habeas corpus, mandado de segurança ou recurso ordinário."
+Pois bem.
+Não logra êxito a irresignação, porquanto, efetivamente, não foi impugnado todos os fundamento da decisão proferida pelo eg. Tribunal de origem.
+Quanto ao dissídio jurisprudencial, o agravante limitou-se a asseverar o seguinte (fl. 189):
+"Ademais, o dissenso foi efetivamente demonstrado através do v. acórdão exarado pelo SUPERIOR TRIBUNAL DE JUSTIÇA, nos autos de Habeas Corpus nº. 387.638 - SC (201710025378-5), que teve como Relator o Ministro JORGE MUSSI, que igualmente com soe ocorrer, nos termos do artigo 112, inciso 1, do Código Penal, o termo inicial da contagem do prazo prescricional da pretensão executória é o trânsito em julgado da sentença condenatória para a acusação, que no presente caso, ocorreu em data de 27 de janeiro de 2.014. Logo, o termo inicial da prescrição executória teve início em de 27 de janeiro de 2.014. Portanto, entre a publicação da r. sentença monocrática, que ocorreu em data de 27 de janeiro de 2.014, e a data da audiência de advertência (27/0712.018)."
+Por fim, com relação a Sumula 83/STJ, o ora agravante manteve-se silente, nada tendo dito, em seu agravo em recurso especial.
+Deve-se ressaltar que cabe ao agravante demonstrar o equívoco da decisão em face da qual se insurge, sendo imprescindível a impugnação específica a todos os óbices por ela apontados, obrigação da qual não se desincumbiu o insurgente, quando da interposição do agravo em recurso especial, conforme mencionado no decisum monocrático reprochado., deixando claro que os fatos foram devidamente consignados no decisum a quo, o que não aconteceu.
+Com efeito, é o entendimento desta eg. Corte Superior que, "E, ainda, esta Corte firmou o entendimento de que, "quando o inconformismo excepcional não é admitido pela instância ordin ária, com fundamento no enunciado n. 83 da Súmula do Superior Tribunal de Justiça, a impugnação deve indicar precedentes contemporâneos ou supervenientes aos mencionados na decisão combatida" (AgRg no AREsp 709.926/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 18/10/2016, DJe 28/10/2016), o que não ocorreu no caso destes autos" (AgRg no AREsp n. 637.462/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 1º/8/2017).
+Este é o teor do art. 932, inciso III, do Código de Processo Civil/2015, que autoriza o relator a não conhecer de recurso que tenha deixado de impugnar os fundamentos da decisão recorrida. E, igualmente, o art. 253, inciso I, do Regimento Interno do Superior Tribunal de Justiça, com redação dada pela Emenda Regimental n. 22/2016, autoriza o relator a não conhecer do agravo que descumpra a tarefa de infirmar as razões de decidir que levaram ao trancamento do recurso especial.
+Nesse sentido:
+"PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. PLEITO DE FIXAÇÃO DE REGIME INICIAL DE PENA MAIS BRANDO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL.
+I - O agravante deixou de infirmar, de maneira adequada e suficiente, todas as razões apresentadas pelo Tribunal de origem para negar trânsito ao recurso especial, especificamente não enfrentou de maneira adequada a incidência da Súmula 284 do STF.
+II - A ausência de impugnação dos fundamentos empregados pela Corte de origem para impedir o trânsito do apelo nobre impede o conhecimento do agravo, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles, o que não ocorreu na presente hipótese.
+Agravo regimental desprovido" (AgInt no AREsp n. 1.140.814/SP, Quinta Turma, Rel. Min. Felix Fischer, DJe de 16/02/2018, destaquei).
+"PENAL. PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DO FUNDAMENTO DA DECISÃO RECORRIDA. VERBETE SUMULAR N. 182/STJ.
+1. Não se conhece de agravo em recurso especial que deixa de impugnar especificamente aos fundamentos da decisão recorrida.
+2. Agravo regimental improvido com determinação de imediata retomada da marcha processual de primeira instância, independente da interposição de outros recursos" (AgRg no AREsp n. 1.074.077/DF, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 19/12/2017).
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL.FUNDAMENTO DA DECISÃO AGRAVADA NÃO ATACADO. APLICAÇÃO DO ART. 544, § 4º, I, DO CÓDIGO DE PROCESSO CIVIL - CPC DE 1973. INCIDÊNCIA DA SÚMULA 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. Descabido o conhecimento do agravo em recurso especial quando o agravante deixa de impugnar especificamente algum dos fundamentos adotados na decisão que negou seguimento ao recurso especial.
+2. Agravo regimental desprovido" (AgRg no AREsp n. 842.493/PR, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 16/5/2016).
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
