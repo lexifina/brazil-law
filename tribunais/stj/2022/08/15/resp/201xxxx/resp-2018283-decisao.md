@@ -1,0 +1,10 @@
+DECISÃO
+Vistos.
+Verifico que, no presente feito, discute-se tema relativo à "definição acerca da incidência, ou não, da Súmula 111/STJ, ou mesmo quanto à necessidade de seu cancelamento, após a vigência do CPC/2015 (art. 85), no que tange à fixação de honorários advocatícios nas ações previdenciárias.", cuja afetação ao rito dos arts. 1.036 e seguintes do Código de Processo Civil de 2015 foi realizada pela 1ª Seção, em sessão de afetação eletrônica de 18.08.2021 a 24.08.2021, nos Recursos Especiais ns. 1.883.715/SP, 1.883.722/SP, 1.884.091/SP e 1.884.091/SP, Tema n. 1.105, assim ementado:
+ADVOCATÍCIOS EM AÇÃO PREVIDENCIÁRIA. SÚMULA 111/STJ. INCIDÊNCIA APÓS A VIGÊNCIA DO CPC/2015. FIXAÇÃO DA VERBA NA FASE DE CUMPRIMENTO DE SENTENÇA. RELEVÂNCIA DA CONTROVÉRSIA. MULTIPLICIDADE DE RECURSOS SOBRE O ASSUNTO.
+1. A questão versada no presente recurso especial diz com a validade da Súmula 111/STJ ("Os honorários advocatícios, nas ações previdenciárias, não incidem sobre as prestações vencidas após a sentença") frente ao art. 85, § 4º, II, do CPC/2015, segundo o qual, não sendo líquida a sentença, a definição do percentual da verba honorária somente ocorrerá quando liquidado o julgado, em contexto que está a revelar a existência de controvérsia jurídica multitudinária e contemporânea, ainda não submetida ao rito dos recursos repetitivos.
+2. TESE CONTROVERTIDA: "Definição acerca da incidência, ou não, da Súmula 111/STJ após a vigência do CPC/2015 (art. 85), no que tange à fixação de honorários advocatícios na fase de cumprimento de sentença".
+3. Proposta de afetação acolhida.
+(ProAfR no REsp 1884091/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA SEÇÃO, julgado em 24/08/2021, DJe 13/09/2021).
+Posto isso, DETERMINO a devolução dos autos ao Tribunal de origem, com a devida baixa, para que o processo permaneça suspenso até a publicação de acórdão nos recursos especiais supracitados, observando-se oportunamente o procedimento do art. 1.035 e seguintes do Código de Processo Civil de 2015.
+Publique-se. Intimem-se. Cumpra-se.
