@@ -1,0 +1,29 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 09/08/2022 a 15/08/2022, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Cuida-se de agravo interno interposto por SHEILA APARECIDA FERREIRA, em face de decisão queconheceu do agravo para não conhecer dorecurso especial.
+Ação: restituição de valores pagos ajuizada por SHEILA APARECIDA FERREIRA E SÁS em face de ITAÚ SEGUROS S/A, objetivando o recebimento de valores relativos reembolso de auxílio funeral.
+Sentença: julgou improcedentes os pedidos iniciais.
+Acórdão: negou provimento à apelação interposta pela agravante, nos termos da seguinte ementa:
+"Apelação - Seguro de vida. Ausente abusividade em previsão expressa e com destaque de benefício de assistência funeral, prestado diretamente por empresas indicadas pela seguradora, sem possibilidade de reembolso caso ocorra opção por contratação direta por terceira empresa, correta a improcedência do pedido, uma vez que não houve contratação, no caso específico, de auxílio-funeral, com pagamento de prêmio - Desprovido o recurso, de majorar-se o valor dos honorários. Recurso desprovido, com observação." (e-STJ fl. 188)
+Embargos de declaração: opostos pelo BANCO DO BRASIL, foram rejeitados.
+Recurso especial: alegouviolação dos arts. 6º, 39, 47 e 51, IV, §1º, inc. II, e §4º do CDC, sustentando: i) a ausência de prova acerca de que a segurada (genitora da Apelante) teve conhecimento de todas as cláusulas e condições contratuais de forma clara a objetiva, atendendo ao disposto no CDC, o que configura inobservância ao dever de informação; ii) a abusividade da cláusulas que determina a comunicação imediata do óbito, sob pena de perda do direito ao auxílio, o que coloca o segurado em exagerada desvantagem, que praticamente inviabiliza a prestação do serviço contratado; iii) a abusividade da cláusula que impossibilita o reembolso das despesas do funeral diante da não utilização do serviço; diz que "a exigência da seguradora para prestar a assistência funeral consubstanciada na prévia comunicação e a devida concordância, sob pena de recusa de pagamento dos gastos solicitados a terceiros se mostra abusiva, e merece ser anulada, na forma prevista pelo art. 51, IV, do Código de Defesa do Consumidor. Ora, reporta-se abusiva a exigência de que o beneficiário, que é consumidor por equiparação, requeira ou aguarde autorização da seguradora como condição para sepultar seu ente querido, sob o risco de perder o direito à indenização." (e-STJ, fl. 202).
+Decisão monocrática: conheceu do agravo ante a incidência da Súmula 182/STJ.
+Agravo interno: alega ter preenchido todos os requisitos para a interposição do seu recurso, e que não pretende o reexame probatório, repisando, no mais, os argumentos expendidos anteriormente em defesa de sua tese.
+É O RELATÓRIO.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESTITUIÇÃO DE VALORES. AUXÍLIO FUNERAL. REEMBOLSO. AUSÊNCIA DE CONTRATAÇÃO. CLAUSULAS ABUSIVAS. INEXISTÊNCIA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7/STJ. MANUTENÇÃO DA DECISÃO AGRAVADA.
+1. Ação de restituição de valores. Reembolso de auxílio funeral.
+2. O reexame de fatos e provas em recurso especial é inadmissível.
+3. Agravo interno não provido.
+VOTO
+Pela análise das razões recursais apresentadas, verifica-se que a parte agravante não trouxe qualquer argumento novo capaz de ilidir os fundamentos da decisão agravada.
+- Do reexame fático probatório
+Da análise dos autos, verifica-se que otribunal de origem, ao analisar a controvérsia relativa à ausência de contratação do reembolso pleiteado ede abusividade das cláusulas contratadas, manifestou-se nos seguintes termos:
+"Incontroverso que o consumidor faz jus à informação clara e adequada quanto aos serviços contratados. Todavia,no caso concreto ora sob exame, não tem razão a parte autora. A contratação se deu pela segurada. Logo,incumbia a ela e, não, à seguradora, comunicar eventuais beneficiários ou herdeiros quanto à existência de apólice. Embora lamentável, a condição de pessoa idosa da segurada no momento da contratação ou seu suposto baixo grau de instrução não são motivos para considerar que houve alguma abusividade praticada pela companhia de seguros.(..) não se há de falar em abusividade, uma vez que, diversamente de outros casos, não houve a contratação de cobertura para reembolso de despesascom funeral, tampouco houve o pagamento de prêmio específico para essa finalidade. O que se verifica, das condições gerais da apólice, é que houve a contratação de seguro para os eventos morte e invalidez, sendo certo que há previsão de um benefício, chamado de "assistência funeral familiar", por meio da qual a seguradora se compromete a providenciar tudo o quanto for necessário para o funeral da segurada, diretamente, mediante o contato com empresas por ela (companhia seguradora) escolhidas, até o limite de três mil reais. Além disso, na apólice, há previsão expressa e em destaque que não existe a opção de reembolso, caso os beneficiários ou familiares optem pela contratação direta dos serviços relativos ao funeral (fl. 134, item 1.3). Diante disso, não há razão para alterar a r. sentença, a qual está bem fundamentada." (e-STJ, fls. 188/189).
+Assim, alterar o decidido no acórdão impugnado, de fato, exigiria o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+A decisão agravada, portanto, deve ser mantida por seus próprios fundamentos.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno no agravo em recurso especial.
