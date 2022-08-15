@@ -1,0 +1,58 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão que assim vem ementado (fl. 54):
+AGRAVO EM EXECUÇÃO. RECURSO DEFENSIVO. FALTA GRAVE. FUGA. NÃO INSTAURAÇÃO DO PAD. SÚMULA Nº 533 DO STJ.
+É imprescindível a realização de Procedimento Administrativo Disciplinar ao reconhecimento de falta grave, inclusive em se tratando de fuga ou de prática de fato previsto como crime doloso, nos termos da súmula nº 533 do STJ. Assim, impositivo o afastamento da falta de natureza grave. Precedente desta Câmara.
+AGRAVO DEFENSIVO PROVIDO, AINDA QUE POR OUTROS MOTIVOS. DECISÃO REFORMADA.
+Opostos embargos de declaração, foram rejeitados.Com o julgamento pelo Supremo Tribunal Federal do RE 972.598/RS (TEMA 941), os autos foram conclusos para exame de matéria repetitiva e possibilidade de retratação, tendo o Colegiado, em juízo de retratação, declarado, de ofício, extinta a punibilidade da conduta faltosa pela prescrição, com base no art. 109, VI, do CP, julgando prejudicado o recurso.Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, sustenta o Ministério Público Estadual violação do art. 119, VI do CP, que "determina que a falta grave atribuída ao condenado deve ser apurada e homologada no prazo de 03 anos, não tornando a transcorrer o prazo prescricional após a referida homologação" (fl. 181).
+Argumenta que, na espécie, "a falta grave objeto do presente feito foi cometida em 28/09/2016, restando devidamente apurada, reconhecida e homologada no juízo de origem em 20/06/2018".
+Sustenta, outrossim, violação do art. 116, I, do CP, uma vez que o Tribunal local não reconheceu a suspensão do lapso prescricional da falta grave reconhecida.Aponta, ainda, violação do art. 619 do CPP, em razão de negativa de prestação jurisdicional.
+Requer o provimento do recurso especial, para afastar o reconhecimento da prescrição da falta grave ou, alternativamente, a desconstituição do acórdão dos embargos de declaração, a fim de que outro seja proferido.
+Apresentadas contrarrazões, e admitido na origem, manifestou-se o Ministério Público Federal pelo provimento do recurso.
+Consta dos autos que, em 20/6/2018, em audiência de justificação, o Juízo da execução reconheceu a falta grave pela fuga ocorrida no dia 28/9/2016 (recaptura em 30/10/2017).
+Interposto agravo em execução pela defesa, o Tribunal de origem deu-lhe provimento, a fim de não reconhecer a falta grave cometida pelo apenado, com base na seguinte fundamentação (fls. 56-58):
+Trata-se de agravo em execução interposto pela defesa do apenado Magnus Gilmar Machado contra a decisão que reconheceu a prática da falta grave consistente em fuga no curso da execução e aplicou os consectários legais, quais sejam, regressão de regime, alteração da data base e perda dos dias remidos (fl. 13/13v).
+Inicialmente, de acordo com a guia de execução penal (consulta da guia atualizada junto ao site do TJ/RS  PEC  106312-0), o apenado Magnus Gilmar Machado cumpre pena de 08 (oito) anos e 05 (cinco) meses de reclusão pela prática dos delitos de produção e tráfico ilícito de drogas. Iniciou o cumprimento em 24/05/2013, sendo o fim previsto para 12/08/2022. Atualmente, encontra-se cumprindo pena em regime fechado.
+Compulsando os autos, verifico que o apenado empreendeu fuga durante o cumprimento da pena.
+Nesse passo, ao analisar o PEC atualizado do apenado, constato que não houve instauração de Procedimento Administrativo Disciplinar para a apuração da falta grave, por isso entendo que não é possível reconhecê-la.
+Com efeito, esta Câmara firmou o entendimento de que é imprescindível a instauração de PAD para apurar e reconhecer a falta disciplinar de natureza grave e a incidência dos consectários legais, em consonância à Súmula nº533 do Superior Tribunal de justiça:
+Portanto, é imprescindível a realização de Procedimento Administrativo Disciplinar ao reconhecimento de falta grave, inclusive em se tratando de prática de fato previsto como crime doloso.
+Este entendimento também se alinha ao uniformizado pelo Superior Tribunal de justiça, quando do julgamento do Recurso Especialnº 1.378.577/RS1, admitido como representativo de controvérsia. Na ocasião, a Terceira Seção do referido Tribunal julgou ser imprescindível a instauração de PAD para o reconhecimento da falta disciplinar.
+Diante dos fatos, não há elementos suficientes para caracterização da falta de natureza grave imputada ao apenado. Por isso, é imprescindível a instauração de PAD para apurar e reconhecer a falta disciplinar de natureza grave e a incidência dos consectários legais.
+Por fim, impositivo o afastamento da falta de natureza grave.
+Dessa forma, dou provimento ao recurso defensivo, afastando a falta grave, bem como os consectários legais aplicados, ante a ausência de instauração de regular procedimento administrativo disciplinar para apuração de falta grave.
+Com o julgamento pelo Supremo Tribunal Federal do RE 972.598/RS (TEMA 941), os autos foram conclusos para exame de matéria repetitiva e possibilidade de retratação, tendo o Colegiado, em juízo de retratação, declarado, de ofício, extinta a punibilidade da conduta faltosa pela prescrição, com base no art. 109, VI, do CP, julgando prejudicado o recurso.
+A decisão de primeiro grau, tendo em vista a devida contextualização, registra (fl. 17):
+Vistos.
+1. Foi realizada audiência de justificação (fls. 141-142) para oitiva do apenado em relação à fuga ocorrida em 28/09/2016, com recaptura em 30/10/2017 (fl. 123), tendo as partes apresentado memoriais (fls. 143 e 149).
+DECIDO.
+A fuga é capitulada como falta grave, nos termos do artigo 50 da LEP, não devendo ser acolhidas as alegações da Defesa. Isso posto, RECONHEÇO a falta grave pela fuga ocorrida no dia 28/09/2016 e regrido o regime de cumprimento da pena para o fechado.
+Altere-se a data-base para o dia 30/10/2017, data da recaptura.
+Decreto a perda dos dias já considerados remidos antes da fuga, na proporção de 1/3, diante da alta gravidade do fato, com fulcro no artigo 127 da Lei de Execuções Penais e na Súmula Vinculante n.º9 do Supremo Tribunal Federal.
+Ausente a apontada violação do art. 619 do CPP, pois o Tribunal de origem enfrentou todos os pontos relevantes ao deslinde da controvérsia, não evidenciando negativa de prestação jurisdicional.
+Quanto à necessidade de instauração de processo administrativo para o reconhecimento de falta grave, ressalta-se que,"No julgamento do RE n. 972.598/RS, o Supremo Tribunal Federal, sob a sistemática da repercussão geral, fixou a tese de que "a oitiva do condenado pelo Juízo da Execução Penal, em audiência de justificação realizada na presença do defensor e do Ministério Público, afasta a necessidade de prévio Procedimento Administrativo Disciplinar (PAD), assim como supre eventual ausência ou insuficiência de defesa técnica no PAD instaurado para apurar a prática de falta grave durante o cumprimento da pena"(AgRg no AREsp n. 708.127/RO, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 4/5/2021, DJe de 14/5/2021).
+A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. JUÍZO DE RETRATAÇÃO. DECISÃO DO SUPREMO TRIBUNAL FEDERAL EM REPERCUSSÃO GERAL. ADEQUAÇÃO. REJULGAMENTO DO RECURSO.
+ ..
+2. Hipótese em que a Corte Constitucional, nojulgamento do RE n. 972.598 RG/RS, sob a sistemática da repercussão geral, firmou o entendimento de que "a oitiva do condenado pelo Juízo da Execução Penal, em audiência de justificação realizada na presença do defensor e do Ministério Público, afasta a necessidade de prévio Procedimento Administrativo Disciplinar (PAD), assim como supre eventual ausência ou insuficiência de defesa técnica no PAD instaurado para apurar a prática de falta grave durante o cumprimento da pena" (Tema 941/STF).
+3. Levando-se em conta que, no caso concreto, a falta grave foi aplicada mediante a realização de audiência de justificação, com oitiva do apenadona presença do Ministério Público e de defensor, não há que se falar em Processo Administrativo Disciplinar para a respectiva apuração.
+4. Superada a orientação firmada no recurso representativo de controvérsia ( Resp 1.378.557/RS), bem como na Súmula 533 do STJ.
+5. Agravo regimental provido, em juízo de retratação, para não conhecer do habeas corpus,mantendo, assim,o acórdão proferido pela Corte de origem, que reconheceu a falta grave praticada pelo apenado (fuga empreendida em 18/2/2017, com recaptura em 21/2/2017 na Comarca de Pitanga/PR).(AgRg no HC n. 442.560/PR, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/3/2021, DJe de 8/3/2021.)
+Na hipótese, "Foi realizada audiência de justificação (fls. 141-142) para oitiva do apenado em relação à fuga ocorrida em 28/09/2016, com recaptura em 30/10/2017 (fl. 123), tendo as partes apresentado memoriais (fls. 143 e 149)" (fl. 17).
+Assegurado o contraditório e a ampla defesa ao reeducando, em audiência de justificação judicial, não hánecessidade de prévia apuração em prévio processo administrativo disciplinarpara a aplicação da falta grave.
+Quanto ao lapso prescricional, verifica-se que não ocorreu. Isso porque,a fuga do estabelecimento prisional, por se tratar de infração permanente, tem como marco inicial da prescrição para apuração de falta grave, o dia da recaptura.A propósito:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO PENAL. FALTA GRAVE. INDULTO INDEFERIDO. EXECUTADO FORAGIDO. PRESCRIÇÃO DA APURAÇÃO DE FALTA GRAVE. PRAZO PRESCRICIONAL. AGRAVO REGIMENTAL IMPROVIDO.
+1. Nos termos da orientação jurisprudencial desta Corte, a fuga configura falta grave de natureza permanente, porquanto o ato de indisciplina se prolonga no tempo até a recaptura do apenado.
+2. O marco inicial da prescrição para a apuração da falta grave, no caso de fuga, é o dia da recaptura, por se tratar de infração permanente.
+3. Agravo regimental improvido. (AgRg no REsp n. 1.781.494/CE, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 5/11/2019, DJe de 11/11/2019.)
+Na espécie, a fuga ocorreu em 29/9/2016, a recaptura em 30/10/2017 (marco inicial da prescrição) e a audiência de justificação, que reconheceu a falta grave pela fuga, se deu em 20/6/2018, de modo que não há falar em prescrição da pretensão disciplinar, porquanto nãotranscorrido o lapso prescricional de 3 anos.
+"A jurisprudência desta Corte reconhece a aplicação, por analogia, do prazo prescricional do art. 109, inciso VI, do Código Penal às faltas graves praticadas no curso da execução penal. Após a publicação da Lei n. 12.234, de 5.5.10, verificada a falta grave, o prazo para sua apuração em Processo Administrativo Disciplinar - PAD e homologação em Juízo é de 3 anos, a contar do cometimento da referida falta"(HC n. 354.529/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 13/9/2016, DJe de 22/9/2016).
+No mesmo sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. FALTA GRAVE. PRESCRIÇÃO. PRAZO TRIENAL. ART. 109, INCISO VI, DO CÓDIGO PENAL. RECURSO DESPROVIDO.
+1. Ante a ausência de norma legal expressa sobre o tema, aplica-se às faltas graves o menor dos prazos prescricionais gerais previstos no art. 109 do Código Penal, qual seja, 3 (três) anos (inciso VI).Precedentes.
+2. Na espécie, a prática da falta grave, consistente em fuga, ocorreu em 01/06/2019, e a decisão homologatória do seu reconhecimento se deu em 26/04/2021 (fls. 68-73). Portanto, não transcorreu o triênio necessário à consumação do prazo prescricional.
+ ..
+4. Agravo regimental desprovido.(AgRg no HC n. 724.598/GO, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 26/4/2022, DJe de 29/4/2022.)
+Ante o exposto, dou provimento ao recurso especial,para restabelecer a decisão do Juízo da Execução.
+Publique-se.
+Intimem-se.
