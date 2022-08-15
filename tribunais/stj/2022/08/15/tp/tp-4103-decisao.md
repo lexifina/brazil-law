@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de medida cautelar formulada por SEIS ROCHAS ADMINISTRAÇÃO DE BENS LTDA., por meio da qual busca conferir efeito suspensivo ao recurso especial acostado às fls. 93-125, e-STJ.
+Alega que a Corte local, em sede de apelação, confirmou sentença que extinguiu sem resolução de mérito a ação de resolução de contrato cumulada com perdas e danos e reintegração de posse movida pela ora insurgente, diante da ausência de notificação premonitória do devedor, ora requerido.
+Aduz que tal posicionamento contraria a jurisprudência do STJ, a qual reconhece a natureza ex re da mora existente em contratos de promessa de compra e venda de imóvel rural, o que afasta a necessidade da aludida comunicação para a constituição do devedor e mora.
+Pontua, ademais, que os requeridos foram devidamente constituídos em mora pelo envio de notificação eletrônica, bem como pela citação na referida ação de resolução contratual e em ação de consignação em pagamento anteriormente manejada.
+Refere, a título de periculum in mora, a existência de execução provisória manejada pelo representante legal da parte adversa, no qual busca a cobrança de honorários advocatícios. Cita que já houve intimação para pagamento voluntário do valor, situação que pode gerar grave prejuízo financeiro à ora peticionante.
+Pede, por fim, a concessão de efeito suspensivo ao apelo.
+É o relatório.
+Decide-se.
+O pedido deve ser indeferido liminarmente.
+1. Para concessão do efeito suspensivo aos recursos extraordinários, faz-se necessária a presença concomitante dos requisitos do fumus boni iuris e periculum in mora: o primeiro relativo à plausibilidade, aferida em juízo sumário, da pretensão recursal veiculada no apelo extremo (sua probabilidade de êxito) e o segundo consubstanciado no risco de dano irreparável que, em uma análise objetiva, revele-se concreto e real.
+A propósito, dispõe o artigo 300 do CPC/15, in verbis:
+Art. 300. A tutela de urgência será concedida quando houver elementos que evidenciem a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo.
+§ 1º Para a concessão da tutela de urgência, o juiz pode, conforme o caso, exigir caução real ou fidejussória idônea para ressarcir os danos que a outra parte possa vir a sofrer, podendo a caução ser dispensada se a parte economicamente hipossuficiente não puder oferecê-la.
+§ 2º A tutela de urgência pode ser concedida liminarmente ou após justificação prévia.
+§ 3º A tutela de urgência de natureza antecipada não será concedida quando houver perigo de irreversibilidade dos efeitos da decisão.
+1.1. De acordo com a jurisprudência desta Corte que "a execução provisória, não constitui, isoladamente, o periculum in mora exigido para a concessão de efeito suspensivo ao recurso especial, até mesmo porque esse procedimento possui mecanismos próprios para evitar prejuízos ao executado" (AgInt na PET na Pet 14.017/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 12/04/2021, DJe 15/04/2021).
+Em semelhante sentido:
+AGRAVO INTERNO NA PETIÇÃO. PROCESSUAL CIVIL. PEDIDO DE EFEITO SUSPENSIVO A AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. PRESSUPOSTOS DA TUTELA DE URGÊNCIA. INOBSERVÂNCIA. AUSÊNCIA DE PROBABILIDADE DO DIREITO ALEGADO. CUMPRIMENTO PROVISÓRIO DA SENTENÇA. PENHORA DE IMÓVEL. PERIGO DE DANO NÃO COMPROVADO. EXISTÊNCIA DE MECANISMOS DE DEFESA NO PRÓPRIO PROCEDIMENTO.
+1. A tutela de urgência, para fins de concessão de efeito suspensivo a recurso especial, será concedida quando houver elementos que evidenciem a probabilidade do direito (viabilidade da pretensão recursal) e o perigo de dano ou o risco ao resultado útil do processo (arts. 300, caput, e 1.029, § 5º, II, do CPC/2015).
+2. Na hipótese, não foi demonstrada a teratologia ou a manifesta ilegalidade da decisão que não conheceu do agravo em recurso especial, não caracterizando probabilidade do direito alegado o simples fato de estar pendente de julgamento agravo interno.
+3. Para a caracterização do grave perigo de dano, não basta a alegação de que o cumprimento provisório de sentença ampara-se em valor considerável, existindo na fase de execução mecanismos próprios para evitar prejuízos ao executado.
+4. Agravo interno não provido.
+(AgInt na Pet 13.696/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 26/10/2020, REPDJe 12/11/2020, DJe 03/11/2020)
+AGRAVO INTERNO NA PETIÇÃO NO AGRAVO EM RECURSO ESPECIAL. RE 827.996/PR. AUSÊNCIA DE PERIGO DA DEMORA. SUPRESSÃO DE INSTÂNCIAS. SOBRESTAMENTO DO CUMPRIMENTO PROVISÓRIO DE SENTENÇA.
+ ..
+2. No caso concreto, o perigo da demora não passa de conjecturas suscitadas pela requerente, sendo certo que o CPC aparelha as instâncias ordinárias para eventual tutela cautelar que se mostre necessária, no âmbito do cumprimento provisório de sentença.
+3. Em síntese, com o presente pedido, fica patente o intuito de que o STJ suprima as instâncias ordinárias, que detêm a competência originária para a apreciação de medidas de natureza cautelar, no âmbito do cumprimento provisório de sentença.
+4. Agravo interno não provido.
+(AgInt na PET no AREsp 1352098/PE, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 19/09/2019, DJe 24/09/2019)
+AGRAVO REGIMENTAL NA MEDIDA CAUTELAR - EXTINÇÃO DA MEDIDA CAUTELAR POR NÃO SE VERIFICAR A PRESENÇA CONCOMITANTE DOS CORRELATOS REQUISITOS. INSURGÊNCIA DOS REQUERENTES.
+1. Em que pese os argumentos delineados, consistentes na probabilidade de êxito do recurso especial, o requerente não logrou êxito em demonstrar a presença concomitante do periculum in mora, notadamente porque o prosseguimento da execução do julgado, no bojo do cumprimento de sentença, em si, não encerra, propriamente, perigo de ineficácia do provimento jurisdicional perseguido por meio do recurso especial.
+1.1. O risco de dano apto a lastrear a presente medida, analisado objetivamente, deve revelar-se real e concreto, não sendo suficiente, para tal, a mera conjectura de riscos, tal como delineado pelo requerente em suas razões, notadamente pela observância das seguintes circunstâncias. A uma, o r. juízo a quo de forma expressa suspendeu, em 08/12/2014, a ordem de levantamento de valores. A duas, o exequente ofereceu caução de bem imóvel, avaliado em R$ 1.626.500,00 (hum milhão, seiscentos e vinte e seis mil e quinhentos reais), quantia superior ao valor a ser executado, no importe aproximado de R$ 300.000,00 (trezentos mil reais). A três, ainda que provido o apelo nobre para reconhecer eventual excesso na execução, não há óbice para que o executado possa pedir, na própria execução, a devolução da importância levantada a maior pelo exequente, atendendo a finalidade precípua da Lei nº. 11.232/05, qual seja, a celeridade e efetividade da prestação jurisdicional. Precedentes: REsp 1090635/PR, Rel. Min. João Otávio de Noronha, DJ 18.12.2008; REsp 757850/RJ, Rel. Min. Humberto Gomes de Barros, DJ 15.5.06; AgRg no REsp 1032302/PR, Rel. Min. Vasco Della Giustina (Desembargador Convocado do TJ/RS), DJe de 25/02/2010.
+2. Agravo regimental desprovido.
+(AgRg na MC 24.065/PR, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 18/08/2015, DJe 26/08/2015)
+No caso em tela, a ora peticionante limita-se a defender que o periculum in mora decorreria do manejo, por parte do advogado representante da ora requerida, de execução provisória, na qual pleiteia o pagamento dos honorários advocatícios sucumbenciais arbitrados pela Corte local. Não demonstra, contudo, qualquer ato efetivo de expropriação patrimonial, apta a gerar prejuízo iminente.
+2. Por fim, aponta-se que, uma vez ausente o periculum in mora, fica prejudicada a análise das alegações quanto ao fumus boni iuris, pois a concessão da medida acautelatória demanda a presença concomitante dos requisitos legais previstos no art. 300 do CPC/15.
+Nesse sentido: "A ausência do "periculum in mora" basta para o indeferimento do pedido, sendo, portanto, desnecessário apreciar a questão sob a ótica do "fumus boni juris", que deve se fazer presente cumulativamente." (AgInt na TutPrv no REsp 1342640/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 08/11/2016, DJe 14/11/2016).
+3. Ante o exposto, indefere-se liminarmente o pedido de tutela provisória cautelar.
+Publique-se.
+Intimem-se.
