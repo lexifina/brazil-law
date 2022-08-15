@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 09/08/2022 a 15/08/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Agravo Interno contra decisão monocrática de fls. 442-445, e-STJ, complementada pela de fls. 470-472, e-STJ, que deu provimento parcial ao Recurso Especial da Agência Nacional do Petróleo, Gás Natural e Biocombustíveis.
+A parte insurgente, nas razões do Agravo Interno, pleiteia, em síntese:
+Excelências, com todo respeito, mas a própria ANP, relaciona em norma o que são as atividades de risco, em Resolução 759/2018 e a presente decisão do RESP, viola o princípio constitucional da independência dos poderes, na medida em que, primeiro, abre o caderno processual e investiga fatos e posteriormente, ao contraio do que a própria autarquia preconiza como atividade de risco, vem, sem nenhum embasamento técnico, afirmar que toda atividade relacionada ao GLP é de risco. (fl. 501, e-STJ)
+Contraminuta às fls. 506-514, e-STJ.
+É o relatório.
+EMENTA
+ADMINISTRATIVO. REVENDA DE GLP. AUTUAÇÃO POR IRREGULARIDADE NA ARMAZENAGEM DO GLP. CRITÉRIO DA DUPLA VISITA DISPENSADO. RISCO NOTÓRIO.
+1. A Tribunal de origem consignou ser imprescindível a dupla fiscalização, sendo uma com viés orientador e a outra autuação administrativa, caso se mantiver a reiteração da infração administrativa.
+2. A decisão a quo está em dissonância da jurisprudência do STJ no sentido de que o critério da dupla visita não é aplicável quando se trata de comercialização de gás liquefeito de petróleo (GLP), atividade de notório risco. Precedente: REsp 1.740.303/RS, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 13.11.2018.
+3. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 16.6.2022.
+Cuida-se de Agravo Interno contra decisum que rejeitou os Embargos de Declaração tendo mantido a decisão que deu provimento parcial ao Recurso Especial da ora embargada.
+O Agravo Interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado. Portanto não há falar em reparo na decisão.
+A Tribunal de origem consignou ser imprescindível a dupla fiscalização, sendo uma com viés orientador e a outra autuação administrativa, caso se mantiver a reiteração da infração administrativa.
+Contudo, a decisão a quo está em dissonância da jurisprudência do STJ no sentido de que o critério da dupla visita não é aplicável quando se trata de comercialização de gás liquefeito de petróleo (GLP), atividade de notório risco.
+Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AÇÃO ANULATÓRIA. ANP. MICROEMPRESA. INOBSERVÂNCIA DA DUPLA VISITAÇÃO. LEI COMPLEMENTAR 123/2006. ARMAZENAMENTO IRREGULAR DE GÁS LIQUEFEITO DE PETRÓLEO. ATIVIDADE DE ALTO RISCO.
+1. Trata-se na origem de Ação Ordinária ajuizada pela recorrida contra a recorrente objetivando a nulidade de processo administrativo decorrente de auto de infração. Em sua inicial, a parte ora recorrida narra que em fiscalização realizada pela recorrente, na data de 19/7/2012, foi autuada em razão da armazenagem de recipientes transportáveis de Gás Liquefeito de Petróleo-GLP cheios juntamente com os parcialmente vazios e vazios dentro de área de armazenamento. Refere que, no concernente processo administrativo, foi condenada ao pagamento de multa no valor de R$ 20.000,00 (vinte mil reais) e, no caso de não pagamento, foi determinada a sua inscrição no Cadastro de Inadimplentes da União - CADIN.
+2. O Tribunal de origem manteve a sentença que julgou o pedido procedente por entender que "na condição de microempresa, a demandante faz jus à garantia constitucional de tratamento diferenciado e favorecido, nos termos do artigo 146, III, alínea d, da Constituição Federal e que, conforme preceitua o artigo 55 da Lei Complementar nº 123/06, uma das prerrogativas inerentes às microempresas e às empresas de pequeno porte é o caráter eminentemente orientador da ação fiscalizatória de suas atividades e o critério da dupla visita para lavratura de autos de infração" (fl. 291, e-STJ).
+3. Da leitura do art. 55 da Lei Complementar 123/2006 extrai-se que as infrações praticadas pelos microempresários têm como regra, para autuação, a dupla visita (§ 1º), dispensando-se esse critério quando a infração for definida como de alto risco (art. 55, caput, in fine, e § 3º).
+4. É inegável que o Gás Liquefeito de Petróleo-GLP é notoriamente perigoso e oferece alto risco à população. Logo, o critério da dupla visitação é inaplicável na hipótese, nos termos do art. 55, caput, in fine, e § 3º da Lei complementar 123/2006.
+5. Ressalta-se que os riscos das atividades relacionadas ao abastecimento nacional de combustíveis são altos, por conta da própria natureza do setor regulado e fiscalizado pela ANP. Dessa forma, a fiscalização efetuada pela recorrente no caso dos autos não pode ser considerada orientadora, mesmo porque a parte recorrida armazenava produtos perigosos sem obedecer às normas de segurança.
+6. Recurso Especial provido. (REsp 1.740.303/RS, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 13/11/2018)
+PROCESSUAL CIVIL. AGRAVO INTERNO. FISCALIZAÇÃO. AUTO DE INFRAÇÃO. VIOLAÇÃO DO ART. 1.022 DO CÓDIGO DE PROCESSO CIVIL/15 NÃO VERIFICADA. DUPLA VISITA. DESNECESSIDADE. ATIVIDADE DE RISCO NOTÓRIO.
+1. Cuida-se de Agravo Interno contra decisum que rejeitou os Embargos de Declaração em Embargos de Declaração tendo mantido o decisum que negou provimento ao Recurso Especial da ora embargante.
+2. O Agravo Interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado. Portanto não há falar em reparo na decisão.
+3. Cuida-se, na origem, de Ação Anulatória de Ato Administrativo para declarar a nulidade dos autos de infração 332.856 e 332.857 relacionados a irregularidades na comercialização de GLP por empresa.
+4. Estando delineado o contexto fático pelos examinadores de origem, não há falar em reexame de matéria fática, mas em revaloração jurídica, o que não atrai o óbice da Súmula 7/STJ.
+5. Consoante corretamente julgado, denota-se que não se configura a ofensa ao art. 1.022 do Código de Processo Civil/2015, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, em conformidade com o que lhe foi apresentado.
+6. Da leitura do art. 55 da Lei Complementar 123/2006 extrai-se que as infrações praticadas pela empresa têm como regra, para autuação, a dupla visita (§ 1º), dispensando-se esse critério quando a infração for definida como de alto risco (art. 55, caput, in fine, e § 3º).
+7. É inegável que o Gás Liquefeito de Petróleo (GLP) é notoriamente perigoso e oferece alto risco à população. Logo, o critério da dupla visitação é inaplicável na hipótese, nos termos do art. 55, caput, in fine, e § 3º, da Lei Complementar 123/2006 8. Ressalta-se que os riscos das atividades relacionadas ao abastecimento nacional de combustíveis são altos, por conta da própria natureza do setor regulado e fiscalizado pela ANP. Dessa forma, a fiscalização efetuada pela recorrente no caso dos autos não pode ser considerada orientadora, mesmo porque a parte recorrida armazenava produtos perigosos sem obedecer às normas de segurança. (REsp 1.740.303/RS, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 16/8/2018, DJe 13/11/2018).
+9. Do mesmo modo, as sanções administrativas aplicadas pela Administração no exercício do poder de polícia não podem ser invalidadas pelo fato de o autor do ilícito administrativo, após a fiscalização e respectiva autuação, corrigir a irregularidade apontada no auto de infração, pois a multa, além do seu caráter pecuniário, visa desestimular os particulares de praticarem novos ilícitos de idêntica natureza, com nítido intento pedagógico e prospectivo.
+10. Ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes e em consonância com entendimento pacífico deste Tribunal, não há prover o Agravo Interno que contra ela se insurge.
+11. Agravo Interno não provido.
+(AgInt nos EDcl nos EDcl no REsp 1778145/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 03/12/2019, DJe 19/12/2019)
+Pelo exposto, nego provimento ao Agravo Interno.
+É como voto.
