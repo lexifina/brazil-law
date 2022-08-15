@@ -1,0 +1,23 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 09/08/2022 a 15/08/2022, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Og Fernandes e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de embargos de declaração (fls. 903/909)apresentados contra acórdão sintetizado na seguinte ementa:
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO NO RECURSO ESPECIAL. IRREGULARIDADE DE REPRESENTAÇÃO. AUSÊNCIA DA DE CADEIA COMPLETA DE PROCURAÇÃO. PERMANÊNCIA DO VÍCIO, MESMO APÓS A INTIMAÇÃO DA PARTE PARA SANÁ-LO.1. "O Superior Tribunal de Justiça considera inexistente o recurso no qual o advogado subscritor não possui procuração ou substabelecimento nos autos, conforme pacífica jurisprudência (Súmula 115/STJ)" (EDcl no ARE no RE nos EDcl no AgInt nos EDcl no AREsp 804.142/MT, Rel. Ministro HUMBERTO MARTINS, CORTE ESPECIAL, julgado em 04/04/2018, DJe 09/04/2018). No caso concreto, "intimada para sanar o vício, nos moldes do art. 932, parágrafo único, do NCPC, a parte agravante não juntou aos autos a cadeia completa de substabelecimento de poderes ao subscritor do recurso especial e do agravo em recurso especial, o que impede seu conhecimento" (AgInt no AREsp 1547466/GO, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 16/12/2019, DJe 18/12/2019).2. Agravo interno não provido.
+O embargante sustenta que o v. acórdão embargado padece de omissão, uma vez que não analisou os dispositivos legais indicados como violados pelo recurso especial, no sentido de que a procuração juntadaaos autos de origem é eficaz para todas as fases do processo.
+Requer sejam acolhidos os embargos com efeitos modificativos.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO. AUSÊNCIA DE OMISSÃO, OBSCURIDADE, CONTRADIÇÃO OU ERRO MATERIAL. EMBARGOS REJEITADOS.
+1. Não havendo omissão, obscuridade, contradição ou erro material, merecem ser rejeitados os embargos de declaração opostos, sobretudo quando contêm elementos meramente impugnativos.
+2. Embargos de declaração rejeitados.
+VOTO
+O recurso não merece prosperar.
+Consta do v. acórdão embargado o seguinte:
+"O Superior Tribunal de Justiça considera inexistente o recurso no qual o advogado subscritor não possui procuração ou substabelecimento nos autos, conforme pacífica jurisprudência (Súmula 115/STJ)" (EDcl no ARE no RE nos EDcl no AgInt nos EDcl no AREsp 804.142/MT, Rel. Ministro HUMBERTO MARTINS, CORTE ESPECIAL, julgado em 04/04/2018, DJe 09/04/2018). No caso concreto, "intimada para sanar o vício, nos moldes do art. 932, parágrafo único, do NCPC, a parte agravante não juntou aos autos a cadeia completa de substabelecimento de poderes ao subscritor do recurso especial e do agravo em recurso especial, o que impede seu conhecimento" (AgInt no AREsp 1547466/GO, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 16/12/2019, DJe 18/12/2019). (..)Outrossim, "(..) a dispensa de instrução do agravo de instrumento com as peças referidas nos incisos I e II do art. 1.017 do CPC/2015, prevista em seu § 5º, não alcança a instância superior, diante da impossibilidade de acesso aos autos eletrônicos originais" (AgInt no AREsp 1979135/SP, Rel. Ministro MANOEL ERHARDT (DESEMBARGADOR CONVOCADO DO TRF5), PRIMEIRA TURMA, julgado em 14/03/2022, DJe 18/03/2022)
+Observa-se, que a questão foi apreciada de forma clara, adequada e suficiente acerca da necessidade de existência de procuração do advogado subscritor de recurso, sendo certo que em sua ausência a parte é intimada para sanar o referido vício, oqual nãosendo satisfeito impede o conhecimento do recurso. Com efeito,o mero inconformismo com a conclusão do julgado não enseja a utilização da via de embargos de declaração, que é limitada às hipóteses elencadas no art. 1.022 do CPC/2015.
+Assim, não havendo omissão, obscuridade, contradição ou erro material, merecem ser rejeitados os embargos de declaração opostos, sobretudo quando contêm elementos meramente impugnativos. Nesse sentido: EDcl no AgRg no Ag 1.218.989/SP, 2ª Turma, Rel. Min. Humberto Martins, DJe de 7.5.2010; EDcl no REsp 1.118.103/SP, 1ª Turma, Rel. Min. Teori Albino Zavascki, DJe de 20.4.2010.
+Advirto a parte que a reiteração de pretensão recursal anteriormente à unanimidade rejeitada, poderá ensejar a aplicação da multa por litigância de má-fé, nos termos do artigo 1.026, § 2º, do CPC/2015.
+Diante do exposto, REJEITO os embargos de declaração.
+É o voto.
