@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por ECONOMUS -INSTITUTO DE SEGURIDADE SOCIAL, contra a decisão unipessoal que conheceu parcialmente e deu provimento ao recurso especial interposto pelo BANCO DO BRASIL S/A; e não conheceu do recurso especial interposto pela embargante, nos termos da seguinte ementa (e-STJ fls. 1434/1435):
+PROCESSUAL CIVIL. RECURSOS ESPECIAIS. AÇÃO DE COMPLEMENTAÇÃO DE APOSENTADORIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. ILEGITIMIDADE DA PATROCINADORA. SÚMULA 568/STJ. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. DISSÍDIO JURISPRUDENCIAL. SIMILITUDE FÁTICA NÃO DEMONSTRADA. NÃO INDICAÇÃO DE DISPOSITIVO LEGAL VIOLADO.
+1. Ação de complementação de aposentadoria.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados pelos recorrentes impede o conhecimento dos recursos especiais.
+3. A jurisprudência do STJ está consolidada no sentido de que o patrocinador não possui legitimidade passiva para litígios que envolvam participante/assistido e entidade fechada de previdência complementar, ligados estritamente ao plano previdenciário, como a concessão e a revisão de benefício ou o resgate da reserva de poupança, em virtude de sua personalidade jurídica autônoma.
+4. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+5. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+6. Recurso especial do BANCO DO BRASIL S/A parcialmente conhecido e, nessa extensão, provido.
+7. Recurso especial do ECONOMUS - INSTITUTO DE SEGURIDADE SOCIAL não conhecido.
+Nas razões do presente recurso, a embargante sustenta, em síntese, que a decisão embargada foi omissa em relação à responsabilidade da embargada pela recomposição prévia e integral da reserva matemática, considerando o reconhecimento da ilegitimidade passiva do Banco do Brasil, bem como quanto aos honorários de sucumbência, pois como havia sido condenado ao pagamento de 12% sobre o valor da condenação juntamente com o Banco do Brasil, ou seja, cada um teria que arcar com 6%, com o provimento do recurso do banco, é necessário esclarecer a questão, aduzindo que sua condenação não pode ser ampliada.
+RELATADO O PROCESSO, DECIDE-SE.
+Nos termos do art. 1.022 do CPC/15, somente é cabível o recurso de embargos de declaração quando haja, no julgado impugnado, obscuridade, contradição, omissão ou erro material, vícios esses que, todavia, não se encontram presentes na hipótese dos autos.
+Na hipótese dos autos, embora se trate de decorrência lógica, cabe esclarecer que, em razão do reconhecimento da ilegitimidade passiva do patrocinador, a responsabilidade pela recomposição da reserva matemática, necessária ao pagamento do benefício, deve ser atribuída à participante/autora.
+Nessa mesma toada, cumpre elucidar que a entidade de previdência privada ré, ora embargante, ao resistir à pretensão de revisão do benefício da autora, deu causa ao ajuizamento da demanda, e, considerando ter sido mínima a sucumbência da autora em face do ECONOMUS, este deverá responder integralmente pelos honorários advocatícios em favor do patrono da autora, nos termos do art. 86, parágrafo único, do CPC/15.
+Forte nessas razões, ACOLHO os embargos de declaração para, mantendo integralmente a decisão embargada, apenas fazer constar em sua fundamentação que, em razão do reconhecimento da ilegitimidade passiva do patrocinador, a responsabilidade pela recomposição da reserva matemática, necessária ao pagamento do benefício, fica atribuída à participante/autora, bem como que, ante a sucumbência mínima da autora em face da entidade de previdência privada ré, esta deverá responder integralmente pelos honorários advocatícios fixados em favor do patrono da autora.
+Publique-se. Intimem-se.
+EMENTA
+DIREITO PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. OBSCURIDADE, OMISSÃO, CONTRADIÇÃO OU ERRO MATERIAL. EXISTÊNCIA.
+1. Os embargos de declaração, a teor do art. 1.022 do CPC, constituem recurso de natureza integrativa destinado a sanar vício - obscuridade, contradição omissão ou erro material.
+2. Embargos de declaração no recurso especial acolhidos.
