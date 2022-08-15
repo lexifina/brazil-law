@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 09/08/2022 a 15/08/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NORECURSO ESPECIAL. FGTS. PRAZO PRESCRICIONAL.ARE 709.212/DF. REPERCUSSÃO GERAL. MODULAÇÃO DOS EFEITOS. ACÓRDÃO RECORRIDO EM DISSONÂNCIA COM O ENTENDIMENTO DO STJ E STF.
+1.No que toca à cobrança de valores relativos ao FGTS, o STF, conquanto tenha admitido a prescrição quinquenal, procedeu à modulação dos efeitos do julgamento do ARE 709.212, em repercussão geral, firmando compreensão de que o prazo prescricional, para ações em curso, seja aplicado na forma como ocorrer primeiro: 30 anos, contados do termo inicial, ou 5 anos, a partir desta decisão.
+2.Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno manejado contra decisão que deu provimento ao recurso especial interposto por Miriam Ozamar da Silva Cunha.
+O agravante alega que, em se tratando de dívida da Fazenda Pública, deve prevalecer, quanto à cobrança do recolhimento do FGTS, o prazo prescricional de 5 anos, previsto no Decreto n. 20.910/1932, bem como a incidência da Súmula n. 85 desta Corte.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NORECURSO ESPECIAL. FGTS. PRAZO PRESCRICIONAL.ARE 709.212/DF. REPERCUSSÃO GERAL. MODULAÇÃO DOS EFEITOS. ACÓRDÃO RECORRIDO EM DISSONÂNCIA COM O ENTENDIMENTO DO STJ E STF.
+1.No que toca à cobrança de valores relativos ao FGTS, o STF, conquanto tenha admitido a prescrição quinquenal, procedeu à modulação dos efeitos do julgamento do ARE 709.212, em repercussão geral, firmando compreensão de que o prazo prescricional, para ações em curso, seja aplicado na forma como ocorrer primeiro: 30 anos, contados do termo inicial, ou 5 anos, a partir desta decisão.
+2.Agravo interno a que se nega provimento.
+VOTO
+A pretensão recursal não merece êxito, na medida em que ointeressado não trouxe argumentos aptos à alteração do posicionamento anteriormentefirmado.
+Com efeito, no que toca à cobrança de valores relativos ao FGTS, o Excelso Pretório, conquanto tenha admitidoa prescrição quinquenal,procedeuà modulação dos efeitosdo julgamentodoARE 709.212, em repercussão geral, firmando compreensão de que, quanto ao prazo prescricionalpara ações em curso,seja aplicado o que ocorrer primeiro:30 anos, contados do termo inicial, ou 5 anos, a partir dadecisão referida.
+No caso, conforme assentado na decisão impugnada, o contrato de trabalhoperdurou de fevereiro de 2000 a setembro de 2012 e a ação foi proposta em outubro de 2012, data anterior ao referido julgamento do STF, devendo, pois, ser reconhecida a incidência da prescrição trintenária.
+A propósito:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 2/STJ. NULIDADE DA CONTRATAÇÃO TEMPORÁRIA. FGTS. PRESCRIÇÃO TRINTENAL. MODULAÇÃO DOS EFEITOS. ALINHAMENTO DA JURISPRUDÊNCIA DESTA CORTE SUPERIOR AO QUE FOI DECIDIDO NO RECURSO EXTRAORDINÁRIO 709.212/DF, EM SEDE DE REPERCUSSÃO GERAL. AGRAVO INTERNO DO MUNICÍPIO A QUE SE NEGA PROVIMENTO.
+1. Esta Corte Superior estabeleceu que o termo inicial da prescrição deve observar o disposto no julgamento do ARE 709.212/DF, em repercussão geral, qual seja: para aqueles cujo termo inicial da prescrição ocorra após a data do presente julgamento, aplica-se, desde logo, o prazo de cinco anos. Por outro lado, para os casos em que o prazo prescricional já esteja em curso, aplica-se o que ocorrer primeiro: 30 anos, contados do termo inicial, ou 5 anos, a partir desta decisão (ARE 709.212, Rel. Min. GILMAR MENDES, Tribunal Pleno, julgado em 13.11.2014, Acórdão Eletrônico Repercussão Geral - mérito DJe-032 Divulg: 18.2.2015 Public 19.2.2015).
+2. No caso presente, foi consignado pela instância de origem que a parte agravada busca a providência jurisdicional que lhe garanta o recebimento dos depósitos de FGTS relativos ao período compreendido entre 15/01/2001 e 02/01/2007. Assim, contando-se 30 (trinta) anos do estabelecimento do vínculo de trabalho, não se verifica o esgotamento do prazo prescricional na hipótese vertente.
+3. Agravo interno municipal a que se nega provimento.
+(AgInt nos EDcl no REsp n. 1.727.685/ES, relator Ministro Manoel Erhardt - Desembargador Convocado do TRF5, Primeira Turma, julgado em 14/3/2022, DJe de 18/3/2022).
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. RECURSO ESPECIAL REPETITIVO. SERVIDOR PÚBLICO. ESTADO DE MINAS GERAIS. CONTRATAÇÃO SEM CONCURSO PÚBLICO. LEI COMPLEMENTAR ESTADUAL N. 100/2007. DECLARAÇÃO DE INCONSTITUCIONALIDADE PELO STF. EFEITO EX TUNC. NULIDADE DO VÍNCULO. FGTS. DIREITO. RECONHECIMENTO APENAS NA INSTÂNCIA ESPECIAL. CASO CONCRETO. PRESCRIÇÃO. EXAME. OMISSÃO. EFEITOS INFRINGENTES. INOCORRÊNCIA.
+1. Os embargos de declaração têm por escopo sanar decisão judicial eivada de obscuridade, contradição, omissão ou erro material, nos termos do art. 1.022 do CPC/2015.
+2. Conforme estabelecido no acórdão embargado, os servidores efetivados pelo Estado de Minas Gerais e submetidos ao regime estatutário, por meio de dispositivo da LCE n. 100/2007, declarado posteriormente inconstitucional pelo STF na ADI 4.876/DF, têm direito aos depósitos no FGTS referentes ao período irregular de serviço prestado.
+3. Sendo o direito reconhecido apenas na instância especial, a prescrição há de ser examinada no âmbito do caso concreto, o que revela omissão quanto ao ponto, inexistentes outros vícios indicados pela embargante.
+4. Em julgamento realizado em 13/11/2014 (ARE 709.212), sob a sistemática da repercussão geral, o STF declarou a inconstitucionalidade das normas que previam o privilégio da prescrição trintenária, decidindo que é de cinco anos o prazo prescricional aplicável à cobrança de valores não depositados no FGTS, tendo atribuído efeito ex nunc à decisão, a fim de não atingir os processos em curso.
+5. No referido julgamento, em razão do princípio da segurança jurídica, ficou excepcionado que, "para aqueles cujo termo inicial da prescrição ocorra após a data do presente julgamento, aplica-se, desde logo, o prazo de cinco anos. Por outro lado, para os casos em que o prazo prescricional já esteja em curso, aplica-se o que ocorrer primeiro: 30 anos, contados do termo inicial, ou 5 anos, a partir desta decisão".
+6. Hipótese em que a autora pediu a condenação do réu ao depósito de todos os valores devidos de FGTS no período entre a publicação da Lei Complementar n. 100/2007 e a declaração de sua inconstitucionalidade.
+7. Considerando que a dispensa do servidor gerou o direito ao depósito do FGTS, tendo em vista dispositivo da LCE n. 100/2007, posteriormente declarado inconstitucional pelo STF, é certo que não há prescrição a ser declarada na hipótese, já que não ultrapassados 30 anos contados do termo inicial ou 5 anos a partir da decisão do STF (o que somente ocorreria em 13/11/2019).
+8. Como a presente ação foi proposta em 2015, não há que falar em transcurso do prazo prescricional, uma vez que o autor demandou o direito ao depósito do FGTS dentro do prazo estabelecido nos moldes da aludida repercussão geral, sendo certo que a parte embargada tem direito ao período de irregular vinculação.
+9. Embargos de declaração acolhidos, em parte, apenas para integrar o acórdão, a fim de firmar que, no caso concreto, não houve o transcurso do prazo prescricional.
+(EDcl no REsp n. 1.806.087/MG, relator Ministro Gurgel de Faria, Primeira Seção, julgado em 24/11/2020, DJe de 30/11/2020).
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
