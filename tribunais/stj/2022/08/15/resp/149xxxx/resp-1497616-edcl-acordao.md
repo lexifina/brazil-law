@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 09/08/2022 a 15/08/2022, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator):Trata-se de embargos declaratórios opostos por João Guilherme Tomaschewski Signorini e outros contra acórdão, assim ementado (fls. 1.628-1.633):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO DO ARTIGO 535 DO CPC/2015. AUSÊNCIA. EMBARGOS À EXECUÇÃO CONTRA A FAZENDA PÚBLICA. 28,86%. DIFERENÇAS. ATUALIZAÇÃO DO DÉBITO EXEQUENDO. JUROS DE MORA CORREÇÃO MONETÁRIA. DISSÍDIO AUSÊNCIA DE COTEJO ANALÍTICO.
+1. Caso em que o acórdão recorrido, em sede de embargos à execução, entendeu que os juros de mora são consectários legais da condenação principal e possuem natureza eminentemente processual, razão pela qual as alterações do art. 1º-F da Lei 9.494/1997, introduzidas pela Medida Provisória n. 2.180-35/2001 e pela Lei 11.960/2009, têm aplicação imediata aos processos em curso, com base no princípio tempus regit actum.
+2. Afasta-se a alegada violação do artigo 535 do CPC/1973, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+3. No concernente ao alegado dissídio jurisprudencial, o recurso não merece conhecimento, visto que não foi comprovado nos moldes estabelecidos nos artigos 1.029, § 1º, do CPC/2015 e 255, § 1º do RISTJ, com a demonstração clara dos casos confrontados, identificando os trechos que os assemelhem, não se oferecendo, como bastante, a simples transcrição de ementas ou votos.
+4. Por fim, consoante jurisprudência do STJ, "os juros de mora e a correção monetária são obrigações de trato sucessivo, que se renovam mês a mês, devendo, portanto, ser aplicadas no mês de regência a legislação vigente. Por essa razão, fixou-se o entendimento de que a lei nova superveniente que altera o regime dos juros moratórios deve ser aplicada imediatamente a todos os processos, abarcando inclusive aqueles em que já houve o trânsito em julgado e estejam em fase de execução. Não há, pois, nesses casos, que falar em violação da coisa julgada." (EDcl no AgRg no REsp 1.210.516/RS, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 25/9/2015).
+5. Agravo interno não provido.
+(AgInt no REsp 1.497.616/RS, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 5/5/2021)
+Os embargantes em suas razões argumentam que, ao contrário do consignado no acórdão embargado,o dissídio jurisprudencial foi, sim, demonstrado, "nos exatos moldes estabelecidos peloartigo1.029,§ 1º, do CPC/2015 e 255,§ 1º, do RISTJ" (fl. 1.639).
+Sustentam também que o acórdão foi "omisso" quanto ao fato de que"ficou comprovado que, na ação de conhecimento, a taxa de juros de mora foi definida no percentual de 12% ao ano em todo o período, formando-se coisa julgada sobre o tema" (fl. 1.640).
+Requerem, ao final, o acolhimento dos embargos declaratórios, a fim de que"sejam sanados os vícios do julgado para, com isso, reconhecer a efetiva ocorrência de violação à coisa julgada com a redução da taxa de juros" (fl. 1.641).
+Decorreu prazo para resposta (cf. certidão de fl. 1.659).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DECLARATÓRIOS NO AGRAVO INTERNO NO RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
+1. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+2. Não há vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+3. Embargos de declaração rejeitados.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator):Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Na espécie, às fls. 1.628-1.633, o acórdão embargado negou provimento ao agravo interno, nos seguintes termos:
+No caso dos autos, por importante, cabe consignar que, à fl. 764, e-STJ, foi expedido "Ato Ordinário", onde se determinou "os saques correspondentes a precatório e as requisições de pequeno valor" em nome dos então recorrentes.
+Quanto aos pedidos de juros de mora de forma capitalizada e aplicabilidade do artigo 354 do Código Civil em débitos fazendários, constata-se preclusão, porquanto, como afirmado pelospróprios recorrentes, a jurisprudência de ambas as temáticas estão "contrariamente à pretensão recursal" (fl. 1.596).
+No mais, o recurso não merece êxito. Vejamos.
+Cuida-se na origem de execução de título oriundo de sentença prolatada em ação coletiva promovida pelo SINDISERF/RS (processo 98.00.04070-6), objetivando perceber diferença sobre os vencimento dos exequentes, devidos em face de aplicação das Leis 8.622 e 8.627/1993, no percentual de 28,86%.
+O acórdão recorrido negou provimento ao agravo interno dos particulares, mantendo a sentença ao fundamento de que os juros de mora são consectários legais da condenação principal e possuem natureza eminentemente processual, razão pela qual as alterações do art. 1º -F da Lei 9.494/1997, introduzidas pela Medida Provisória n. 2.180-35/2001 e pela Lei 11.960/2009, têm aplicação imediata aos processos em curso, com base no princípio tempus regit actum.
+Os recorrentes alegam violado o artigo 535, II, do CPC/1973 ao argumento de que o Tribunal de origem, mesmo à vista de embargos de declaração, não teria se manifestado acerca da coisa julgada, devendo, como consequência, "prevalecer a taxa de juros de mora de 12% aa prevista no título executivo" (fl. 1.026).
+Ocorre que o acórdão recorrido enfrentou, sim, referida argumentação nos seguintes termos:
+ ..
+Desnecessário, portanto, qualquer esclarecimento ou complemento ao que já decidido pela Corte de origem, pelo que se afasta a ofensa ao artigo 535 do CPC/1973. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+No concernente ao alegado dissídio jurisprudencial, o recurso não merece conhecimento, visto que, de fato, não foi comprovado nos moldes estabelecidos nos artigos 1.029, § 1º, do CPC/2015 e 255, § 1º do RISTJ, com a demonstração clara dos casos confrontados, identificando os trechos que os assemelhem, não se oferecendo, como bastante, a simples transcrição de ementas ou votos. A propósito, destaco julgado recente:
+ ..
+Por fim, consoante jurisprudência do STJ, "os juros de mora e a correção monetária são obrigações de trato sucessivo, que se renovam mês a mês, devendo, portanto, ser aplicadas no mês de regência a legislação vigente. Por essa razão, fixou-se o entendimento de que a lei nova superveniente que altera o regime dos juros moratórios deve ser aplicada imediatamente a todos os processos, abarcando inclusive aqueles em que já houve o trânsito em julgado e estejam em fase de execução. Não há, pois, nesses casos, que falar em violação da coisa julgada." (EDcl no AgRg no REsp 1.210.516/RS, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, DJe 25/9/2015).
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
+Dessa forma, ao contrário do que sustenta o embargante, evidencia-se não ter ocorrido falta de clareza, insuficiência de fundamentação ou erro material a ensejar esclarecimento ou complementação do que já decidido.
+Acerca da argumentação de queo dissídio jurisprudencial teria sido demonstrado, "nos moldes estabelecidos pelo artigo 1.029, § 1º, do CPC/2015 e 255, § 1º, do RISTJ" (fl. 1.639), evidencia-senítida pretensão de rejulgamento da causa, situação que, na inexistência das hipóteses previstas no artigo 1.022 do CPC/2015, não é compatível com o recurso protocolado.
+Com efeito, os embargos declaratórios "não se prestam ao reexame de questões já analisadas, com o nítido intuito de promover efeitos modificativos ao recurso, quando a decisão apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão" (EDcl no AgInt no REsp 1.881.879/SE, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 26/3/2021).
+Advirta-se, por fim, que eventual oposição de novos embargos de declaração sem argumentação plausível para o recurso, apenas para solicitar rejulgamento da controvérsia, pode ensejar a aplicação da multa prevista no artigo 1.026, § 2º, do CPC/2015.
+Ante o exposto, rejeito os embargos de declaração.
+É o voto.
