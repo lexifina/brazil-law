@@ -1,0 +1,64 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 09/08/2022 a 15/08/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Luis Felipe Salomão, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+Cuida-se de agravo interno (fls. 347-351) interposto por RODOTÉCNICA - INDÚSTRIA DE IMPLEMENTOS RODOVIÁRIOS EIRELI contra decisão (fls. 340-343), exarada pela il. Presidência do STJ que conheceu do agravo para não conhecer do recurso especial, aos seguintes fundamentos:
+a) incidência da Súmula n. 211/STJ, quanto à (..) violação do art. 489, II, §1º, I, II, III, IV e V, do CPC, porque a Corte Estadual não apreciou as provas juntadas que comprovam sua impossibilidade de arcar com os custos do processo, padecendo o acórdão recorrido de fundamentação"; e
+b) "(..) incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o reexame da premissa fixada pela Corte de origem quanto à existência ou não dos requisitos para a concessão da gratuidade de justiça às partes exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em sede de recurso especial" (fls. 343).
+Nas razões do agravo interno, RODOTÉCNICA - INDÚSTRIA DE IMPLEMENTOS RODOVIÁRIOS EIRELI sustenta, em síntese, que "(..) é forçoso reconhecer que a decisão denegatória do recurso especial não atentou para as particularidades do caso concreto, inexistindo o alegado óbice na Súmula nº 211 do STJ. Pelo contrário. Há, isso sim, flagrante afronta aos ditames do artigo 489, inciso II, do CPC, mormente em razão das disposições do §1º, incisos I, II, III, IV e V, do mesmo artigo processual, a justificar não apenas o trânsito da inconformidade, como a desconstituição do acórdão recorrido" (fls. 350 - destaques no original).
+Aduz, também, que "(..) tampouco se pode cogitar no não conhecimento do recurso de revista denegado na origem por força da Súmula nº 7 deste STJ. Isso porque, além da insurgência em tela objetivar a desconstituição do acórdão hostilizado por ausência de fundamentação, todos os demais fundamentos, incluindo a afronta ao artigo 98 do CPC, se baseiam em fatos incontroversos e na própria interpretação do texto legal" (fls. 350).
+Alega, ainda, que "(..) a condição jurídica da recorrente como empresa em recuperação judicial e a dispensa legal da comprovação da necessidade financeira são questões que independem da reanálise de provas, permitindo o conhecimento do recurso manejado para o fim de assegurar o benefício da AJG mediante simples alegação da parte" (fls. 350).
+Ao final, pleiteia a reconsideração da decisão agravada ou, se mantida, que seja o presente feito levado a julgamento perante a eg. Quarta Turma.
+Intimado, TEXJATO INDÚSTRIA METALÚRGICA LTDA E OUTRO apresentaram impugnação (fls. 355-360), pelo desprovimento do recurso.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. VIOLAÇÃO DO ART. 489, II, DO CPC/2015. NÃO OCORRÊNCIA. ASSISTÊNCIA JUDICIÁRIA GRATUITA. PESSOA JURÍDICA. SÚMULA N. 481/STJ. MATÉRIA FÁTICO-PROBATÓRIA. REEXAME. SÚMULA N. 7/STJ. AGRAVO DESPROVIDO.
+1. Não se verifica a alegada violação ao art. 489 do CPC/15, na medida em que o Tribunal de Justiça fundamentou consistentemente o acórdão recorrido e as questões de mérito foram devidamente analisadas e discutidas de modo a esgotar a prestação jurisdicional, não sendo possível confundir julgamento desfavorável, como no caso, com negativa de prestação jurisdicional ou ausência de fundamentação.
+2. "Nos termos da jurisprudência desta Corte, a concessão do benefício de gratuidade da justiça a pessoa jurídica somente é possível quando comprovada a precariedade de sua situação financeira, inexistindo, em seu favor, presunção de insuficiência de recursos. Súmula 481/STJ." (AgInt no AREsp n. 1.995.577/RS, relator Ministro Raul Araújo, Quarta Turma, julgado em 25/4/2022, DJe de 24/5/2022).
+3. No caso, o Tribunal de Justiça, com arrimo no acervo fático-probatório, concluiu que a ora Agravante - pessoa jurídica - "(..) não logrou êxito em demonstrar situação econômica compatível com o benefício almejado (..)". A pretensão de alterar tal entendimento, considerando as circunstâncias do caso concreto, demandaria revolvimento de matéria fático-probatória, inviável em sede de recurso especial.
+4. Agravo interno desprovido.
+VOTO
+EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+O recurso em apreço não merece prosperar.
+Inicialmente,deve ser rejeitada a alegada ofensa ao art. 489, II, doCPC/15, tendo em vista que o eg. Tribunal a quo, embora não tenha examinado individualmente cada um dos argumentos suscitados pela parte, adotou fundamentação suficiente, decidindo integralmente a controvérsia. Nesse sentido, destacam-se os seguintes julgados:
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA PARTE AUTORA.
+1. As questões postas em discussão foram dirimidas pelo Tribunal de origem de forma suficiente, fundamentada e sem omissões, devendo ser afastada a alegada violação ao artigo 489 do CPC/15. Consoante entendimento desta Corte, não importa negativa de prestação jurisdicional o acórdão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pela parte recorrente, decidindo de modo integral a controvérsia posta.Precedentes.
+(..)
+4. Agravo interno desprovido."
+(AgInt nos EDcl no AREsp 1753984/RJ, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 28/03/2022, DJe 31/03/2022 - g. n.)
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. HONORÁRIOS ADVOCATÍCIOS. NÃO CABIMENTO. EXCESSO DE EXECUÇÃO NÃO RECONHECIDO NO ACÓRDÃO RECORRIDO. ALEGAÇÃO INTEMPESTIVA. PRECLUSÃO. AUSÊNCIA DE VIOLAÇÃO AO ART. 489 DO CPC/2015. FUNDAMENTO SUFICIENTE PARA MANTER INCÓLUME O ACÓRDÃO RECORRIDO NÃO IMPUGNADO. SÚMULA 283/STF. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. APLICAÇÃO DA SÚMULA 83/STJ.
+1. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente fundamentada, deve ser afastada a alegada violação ao art. 489 do Código de Processo Civil/2015.
+(..)
+5. Agravo interno a que se nega provimento."
+(AgInt no AREsp 1746875/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 14/06/2021, DJe 17/06/2021 - g. n.)
+Avançando, melhor sorte não socorre ao recurso no tocante à suscitada ofensa ao art. 98 do CPC/15. No caso, o eg. TJ-SP, com arrimo no acervo fático-probatório carreado aos autos, concluiu que a ora agravante, pessoa jurídica em recuperação judicial, não comprovou "(..) a carência de recursos que impossibilite o recolhimento de custas (..)". A título elucidativo, transcreve-se o seguinte excerto do v. acórdão estadual (fls. 224-227):
+"A jurisprudência vem assentada no sentido de concessão da gratuidade às pessoas jurídicas em hipóteses excepcionais, desde que comprovada a carência de recursos que impossibilite o recolhimento das custas, o que não é o caso dos autos, pois a requerente não demonstra a necessidade capaz de ensejar a concessão do benefício.
+O pressuposto legal contido no §2º do art. 99 do CPC, no tocante à oportunidade de comprovação da alegada insuficiência de recursos para o pagamento das custas processuais, não restou concretizado no bojo do presente recurso.
+O tema encontra-se sumulado no egrégio Superior Tribunal de Justiça:Súmula 481 do STJ:
+Faz jus ao benefício da AJG a pessoa jurídica com ou sem fins lucrativos que demonstrar sua impossibilidade de arcar com os encargos processuais.
+Nesta linha vem assentada a jurisprudência, no sentido de concessão da gratuidade às pessoas jurídicas em hipóteses excepcionais, desde que comprovada a carência de recursos que impossibilite o recolhimento das custas, o que não é o caso dos autos, pois a requerente não demonstra a necessidade capaz de ensejar a concessão do benefício.
+(..)
+Conforme entendimento do Superior Tribunal de Justiça, argumentos como estar passando por dificuldades financeiras, por si, não tem o condão de justificar o deferimento do benefício da AJG (AgRg no AREsp. nº 432.760/SP). Até mesmo empresas que se encontram em recuperação judicial têm tido seu spedidos de AJG negados, porquanto há presunção de que a empresa tem condições de se reequilibrar economicamente, devendo demonstrar concretamente a impossibilidade econômica de arcar com as despesas do processo (EREsp. nº 736.358/SC).
+Assim sendo, e considerando que a agravante não logrou êxito em demonstrar situação econômica compatível com o benefício almejado, é de ser mantido o indeferimento da gratuidade da justiça."
+(g. n.)
+Com efeito, a jurisprudência firmada no âmbito desta eg. Corte de Justiça delineia que o benefício da assistência judiciária pode ser indeferido quando o magistrado se convencer, com base nos elementos acostados aos autos, devendo a pessoa jurídica comprovar a insuficiência de recursos, cujo entendimento está sintetizado na Súmula n. 481/STJ, transcrita no no v. acórdão estadual.
+Nesse mesmo sentido, confiram-se os seguintes julgados:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NEGÓCIOS JURÍDICOS BANCÁRIOS. GRATUIDADE DE JUSTIÇA. PESSOA JURÍDICA. NECESSIDADE DE PROVA DA INSUFICIÊNCIA DE RECURSOS. SÚMULA 481/STJ. AUSÊNCIA DE COMPROVAÇÃO. REEXAME DE PROVAS. DECLARAÇÃO DE HIPOSSUFICIÊNCIA FIRMADA PELOS RECORRENTES, PESSOAS FÍSICAS. PRESUNÇÃO IURIS TANTUM. AGRAVO INTERNO PARCIALMENTE PROVIDO.
+1. Nos termos da jurisprudência desta Corte, a concessão do benefício de gratuidade da justiça a pessoa jurídica somente é possível quando comprovada a precariedade de sua situação financeira, inexistindo, em seu favor, presunção de insuficiência de recursos. Súmula 481/STJ.
+2. O Tribunal de origem reconheceu que não foi comprovada a alegada insuficiência de recursos para arcar com as custas processuais pela pessoa jurídica, de modo que não é possível o deferimento do benefício de gratuidade de justiça pleiteado.
+3. No caso, a modificação do entendimento lançado no v. acórdão recorrido demandaria revolvimento do suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+4. Por outro lado, é assente o entendimento deste Sodalício de que a simples declaração de pobreza, firmada por pessoa física, tem presunção juris tantum, bastando, a princípio, o requerimento, sem necessária comprovação prévia, para que lhe seja concedido o benefício da assistência judiciária gratuita. Precedentes.
+5. Agravo interno parcialmente provido, para deferir o benefício da justiça gratuita aos recorrentes pessoas físicas indicados."
+(AgInt no AREsp n. 1.995.577/RS, relator Ministro Raul Araújo, Quarta Turma, julgado em 25/4/2022, DJe de 24/5/2022 - g. n.)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. GRATUIDADE DA JUSTIÇA. PESSOA JURÍDICA. NECESSIDADE DE COMPROVAÇÃO DA MISERABILIDADE JURÍDICA. SÚMULA N. 481/STJ. HIPOSSUFICIÊNCIA NÃO COMPROVADA. REVISÃO. SÚMULA N. 7/STJ. DISSÍDIO JURISPRUDENCIAL. FALTA DE COTEJO ANALÍTICO. DECISÃO DA PRESIDÊNCIA MANTIDA. AGRAVO NÃO PROVIDO.
+1. A jurisprudência desta Corte entende que é possível a concessão do benefício da gratuidade da justiça à pessoa jurídica somente quando comprovada a precariedade de sua situação financeira, não havendo falar em presunção de miserabilidade. Súmula 481 do STJ.
+2. No caso, o Tribunal de origem, com base nas provas coligidas aos autos, concluiu por manter a decisão monocrática que indeferiu o benefício da gratuidade de justiça. Alterar tal conclusão e acolher a pretensão recursal demandaria o reexame de fatos e provas, inviável em recurso especial, a teor do disposto na Súmula 7 do STJ.
+3. O dissídio jurisprudencial não foi devidamente demonstrado à míngua do indispensável cotejo analítico.
+4. Agravo interno não provido."
+(AgInt no AREsp n. 1.976.408/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 22/2/2022, DJe de 7/3/2022 - g. n.)
+Nesse cenário, a pretensão de alterar o entendimento do eg. TJ-SP quanto à comprovação da assistência judiciária gratuita, considerando as circunstâncias do caso concreto, demandaria revolvimento de matéria fático-probatória, inviável em sede de recurso especial, conforme preconiza a Súmula n. 7/STJ, como assentado nos precedentes supra transcritos.
+Com estas considerações, conclui-se que o apelo não merece prosperar.
+Ante o exposto, nega-se provimento ao agravo interno.
+É como voto.
