@@ -1,0 +1,67 @@
+DECISÃO
+Trata-se de agravo interno interposto em face da decisão de fls. 864/866, e-STJ, por meio da qual a Presidência desta Corte não conheceu do agravo em recurso especial, em razão do óbice da Súmula 182/STJ.
+Diante da análise das razões do recurso, verifico que, de fato, todos os fundamentos de inadmissibilidade do recurso foram impugnados, de modo que reconsidero a decisão recorrida e passo à análise do agravo em recurso especial.
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (fls. 617/618, e-STJ):
+APELAÇÃO CÍVEL. AÇÃO DE CONHECIMENTO. RESCISÃO CONTRATUAL. RESTITUIÇÃO DE IMPORTÂNCIA PAGAS. DANOS MORAIS. ATRASO NA ENTREGA DE IMÓVEL. CÓDIGO DE DEFESA DO CONSUMIDOR. APLICAÇÃO. DESCUMPRIMENTO CONTRATUAL DA CONSTRUTORA. CONFIGURAÇÃO. CASO FORTUITO E FORÇA MAIOR. NÃO OCORRÊNCIA. RETENÇÃO DE VALORES. IMPOSSIBILIDADE. LUCROS CESSANTES E DANOS MORAIS. CONFIGURAÇÃO. QUANTUM INDENIZATÓRIO. RAZOABILIDADE. ÔNUS SUCUMBENCIAIS MANTIDOS. SENTENÇA MANTIDA.
+1. O Código de Defesa do Consumidor é aplicável os contratos de compra e venda nos quais a incorporadora se obriga a construir unidades imobiliárias mediante financiamento.
+2. Segundo orientação jurisprudencial, é lícita a cláusula contratual que prevê a possibilidade de prorrogação do prazo de entrega do imóvel em até 180 (cento e oitenta) dias, tendo em vista que a construtora/incorporadora está sujeita a fatores que podem escapar do seu controle e que podem comprometer o prazo firmado na avença.
+3. Fatores que podem escapar do controle da construtora, como o excesso de chuvas, a redução da oferta de mão de obra no mercado de trabalho, greve de trabalhadores, são situações classificadas como "fortuito interno", de modo que incluem-se no prazo de tolerância. Precedente deste egrégio Sodalício Goiano.
+4. Considerando que a rescisão contratual se deu em decorrência da inadimplência da construtora, não há que se falar na retenção de valores expendidos pelo consumidor.
+5. São efetivamente devidos os lucros cessantes pleiteados pela promitente compradora a título de compensação material, pela não entrega do imóvel na data aprazada, conquanto, a mora da construtora a privou da fruição do imóvel.
+6. A culpa exclusiva da promitente vendedora pelo atraso na entrega da obra resulta na obrigação de reparação pelos danos morais decorrentes da frustração da expectativa que consumidor nutriu de usufruir do imóvel pelo qual estava pagando.
+7. O quantum indenizatório fixado em valor razoável na instância singular não deve ser alterado em sede recursal. Inteligência da Súmula nº 32 deste egrégio Tribunal de Justiça Goiano.
+8. Mantida a distribuição dos ônus de sucumbência nos termos fixados na sentença em razão da procedência parcial dos pedidos iniciais.
+9. Deixo de majorar os honorários advocatícios sucumbenciais, em observância ao entendimento firmado pelo Superior Tribunal de Justiça no julgamento do REsp 1.573.573/RJ.
+APELAÇÃO CÍVEL PARCIALMENTE CONHECIDA E DESPROVIDA.
+Nas razões do recurso especial, a parte ora agravante alega violação aos arts. 186, 407, 423, 424, 474, 476, 884 e 927 do Código Civil.
+Sustenta que a rescisão do contrato não se deu por sua culpa e que, dessa forma, é devida a retenção de parte dos valores pagos pela parte adquirente, conforme previsão do contrato. Alega a ocorrência, na hipótese dos autos, de caso fortuito e de força maior.
+Assinala que os juros de mora devem ter, como termo inicial, a data do trânsito em julgado.
+Afirma que os adquirentes não podem exigir-lhe o cumprimento das obrigações sem antes cumprir as suas próprias.
+Quanto aos danos morais, argumenta não estarem eles configurados no caso dos autos e que o valor fixado a título de compensação é exorbitante, devendo ser reduzido. Alega, também, que os juros moratórios incidentes sobre a referida condenação devem fluir a partir da data do arbitramento, e não da citação.
+Foram apresentadas contrarrazões às fls. 813/829, e-STJ.
+Assim delimitada a controvérsia, passo a decidir.
+A Súmula nº 568 desta Corte dispõe que "relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+De início, observo que, quanto às teses referentes ao termo inicial dos juros de mora incidentes sobre os valores a serem restituídos e à configuração de caso fortuito/força maior, a parte não indicou os dispositivos de lei federal que teriam sido violados pelo TJGO. Essa situação configura deficiência na fundamentação e atrai, assim, o óbice da Súmula 284/STF.
+O Tribunal de origem, à vista do conjunto fático-probatório constante dos autos, concluiu que o contrato de compra e venda de imóvel fora rescindido por culpa exclusiva da parte ré, ora recorrente, não tendo havido fato caracterizado como caso fortuito ou força maior apta a excluir a sua responsabilidade. Rejeitou, nesse sentido, a pretensão de a vendedora reter parte dos valores pagos pelos adquirentes (fls. 621/625, e-STJ):
+Firmada essa premissa, verifica-se que a sentença declarou que a situação dos autos se amolda a culpa do fornecedor pela rescisão, eis que conquanto válida a cláusula de tolerância (cláusula 7.3.1.1), é de se verificar ter sido mesmo descumprido o prazo previsto no contrato pela requerida, pois até o ajuizamento da ação, representava um atraso de um ano e cinco meses após o encerramento do prazo de carência de 180 dias (fevereiro/2015).
+Registro, por oportuno, que a previsão de cláusula de tolerância de 180 (cento e oitenta dias) nos contratos imobiliários já foi considerada válida pelo colendo Superior Tribunal de Justiça, conforme se infere do seguinte julgado, verbi gratia:
+(..)
+Na esteira do entendimento do Superior Tribunal de Justiça, este egrégio Sodalício Goiano tem jurisprudência firmada no sentido de que os fortuitos internos incluem-se no risco da atividade empresarial e, da mesma maneira, incluem-se no prazo de tolerância, conforme se depreende do seguinte julgado:
+(..)
+De acordo com o histórico de pagamentos (mov. 50), remanesce incontestável que, em agosto de 2014, período ajustado contratualmente para entrega do apartamento, os apelados estavam adimplentes em relação as prestações contratuais, tendo como última a quitação da parcela datada de 31/10/14.
+Nos termos da sentença proferida, as apelantes não negaram o atraso na entrega do imóvel, apenas justificaram com o aumento excessivo de construção de novos empreendimentos, bem como falta de mão de obra, o que não configura caso fortuito ou força maior, a ensejar a ausência de responsabilidade pelo atraso na entrega do imóvel, mas, sim, fortuito interno, risco previsível de sua atividade.
+Alegações genéricas das apelantes acerca de caso fortuito/força maior não são aptas a afastarem dela a obrigação de cumprir os prazos firmados no contrato, de forma que é cristalina a ocorrência de descumprimento contratual.
+É responsabilidade do empreendedor a execução de seus projetos que, sem depender do Poder Público ou de suas concessionárias, pode contratar equipe técnica especializada para a realização das atividades.
+(..)
+Assim, declarada rescindida a avença por ato imputável à 1ª apelante, é ela responsável pela restituição de todas as importâncias das parcelas pagas, integralmente e imediatamente, sem retenção de valores.
+Nessa linha, eis o enunciado da Súmula n. 543 do Superior Tribunal de Justiça:
+"Na hipótese de resolução de contrato de promessa de compra e venda de imóvel submetido ao Código de Defesa do Consumidor, deve ocorrer a imediata restituição das parcelas pagas pelo promitente comprador - integralmente, em caso de culpa exclusiva do promitente vendedor/construtor, ou parcialmente, caso tenha sido o comprador quem deu causa ao desfazimento."
+(..)
+Com efeito, sendo culpa exclusiva da incorporadora, não comporta a dedução do percentual de 25% (vinte por cento) a título de custo do empreendimento.
+A alteração dessas premissas, a fim de se imputar a culpa pela rescisão do contrato à parte autora ou, ainda, concluir pela inadimplência prévia dos adquirentes, e, assim, limitar o reembolso dos valores pagos, exigiria o reexame de provas, providência vedada em recurso especial, nos termos da Súmula 7/STJ.
+Ressalto que, conforme enunciado de Súmula de nº 543 deste Superior Tribunal de Justiça, "na hipótese de resolução de contrato de promessa de compra e venda de imóvel submetido ao Código de Defesa do Consumidor, deve ocorrer a imediata restituição das parcelas pagas pelo promitente comprador - integralmente, em caso de culpa exclusiva do promitente vendedor/construtor, ou parcialmente, caso tenha sido o comprador quem deu causa ao desfazimento".
+Tendo o Tribunal de origem decidido em conformidade com o entendimento desta Corte, incide, no ponto, também, o óbice da Súmula 83/STJ.
+Prosseguindo na análise da controvérsia, o TJGO entendeu estarem configurados os danos morais e fixou a compensação, por esse motivo, no valor de dez mil reais, nos seguintes termos (fls. 626/628, e-STJ):
+O dano moral tem por fundamento a ofensa à dignidade humana, vale dizer, é a lesão que atinge os bens mais fundamentais inerentes a personalidade.
+(..)
+Indubitável que, na espécie, o imenso atraso nas obras, certamente abalou o apelado, que se viu frustrado na justa expectativa de usufruir do imóvel pelo qual estava pagando, fato que foge, obviamente, ao mero dissabor cotidiano.
+Com efeito, o ressarcimento do dano moral deve se aproximar da justa medida do abalo sofrido, evitando de um lado, o enriquecimento sem causa e, do outro, a impunidade, de maneira a propiciar a inibição da conduta ilícita.
+(..)
+Nesse cenário, interessa frisar que a compensação pela lesão sofrida mede-se exatamente pela extensão do dano, devendo o julgador fazê-lo atento ao princípio da razoabilidade, de modo a considerar a repercussão econômica do dano, a capacidade financeira do lesado e do agente, o grau de dolo ou culpa deste último e, por fim, a dor experimentada pela vítima.
+De fato, não há como o direito permitir e legitimar indenizações por dano moral que extrapolem o bom senso, uma vez que, assim o fazendo, institucionalizaria o processo como meio de enriquecimento ilícito ou sem causa.
+Assim, ao cotejar a condição econômica da apelante e do apelado, bem assim a angústia e o sofrimento vivenciado pelo adquirente, entendo que deve ser mantida a compensação por danos morais no montante fixado, por ser razoável e proporcional o valor de R$ 10.000,00 (dez mil reais).
+Desta feita, entendo que o valor indenizatório não causará enriquecimento ilícito do consumidor e terá o caráter pedagógico necessário à inibição de outras demoras injustificados por parte das sociedades empresárias.
+Anoto que a Corte local decidiu em consonância com o entendimento do STJ, segundo o qual o atraso expressivo na entrega de empreendimento imobiliário pode configurar dano ao patrimônio moral do contratante, circunstância que enseja a reparação. Incidente a Súmula 83/STJ.
+A alteração das conclusões do TJGO, a fim de se afastar a compensação por danos morais,também demandaria o reexame de provas, o que, como já ressaltado, não é permitido em recurso especial, a teor da Súmula 7/STJ.
+Não prospera, igualmente, a pretensão de redução do valor dos danos morais.
+Com efeito, de acordo com a jurisprudência do STJ, em regra, não cabe, em recurso especial, a revisão do montante dessa espécie de compensação, por conta do óbice da Súmula 7/STJ, que veda o reexame de provas. Apenas em casos excepcionais, quando identificada a estipulação de valores exagerados ou irrisórios, incompatíveis com os princípios da proporcionalidade e da razoabilidade, é possível tal revisão.
+A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INSCRIÇÃO INDEVIDA EM CADASTROS DE PROTEÇÃO AO CRÉDITO. DANO MORAL. PEDIDO DE REDUÇÃO DO QUANTUM INDENIZATÓRIO. REVISÃO QUE SE ADMITE TÃO SOMENTE NOS CASOS EM QUE O VALOR SE APRESENTAR IRRISÓRIO OU EXORBITANTE. PRECEDENTES. RECURSO NÃO PROVIDO.
+1. O entendimento deste Sodalício é pacífico no sentido de que o valor estabelecido pelas instâncias ordinárias a título de indenização por danos morais pode ser revisto tão somente nas hipóteses em que a condenação se revelar irrisória ou exorbitante, distanciando-se dos padrões de razoabilidade, o que não se evidencia no caso em tela. Isso, porque o valor da indenização por danos morais, arbitrado em R$ 20.000,00 (vinte mil reais), nem é exorbitante nem desproporcional às peculiaridades do caso concreto, em que o dano moral decorreu da inscrição indevida do nome da parte ora agravada em cadastro de inadimplentes.
+2. Agravo regimental a que se nega provimento.
+(AgRg no AREsp n. 681.942/SC, Relator o Ministro Raul Araújo, DJe de 15/9/2015).
+No caso, em que a compensação foi fixada em R$ 10.000,00 (dez mil reais), entendo bem observados os padrões de razoabilidade e proporcionalidade, não se configurando situação cuja excepcionalidade justifique a intervenção do STJ.
+Por fim, anoto que a orientação do Tribunal de origem não destoa da jurisprudência pacífica do STJ, de que, no caso de ilícito contratual, os juros de mora são devidos a partir da citação.
+Em face do exposto, não havendo o que reformar, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
