@@ -1,0 +1,70 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 09/08/2022 a 15/08/2022, por unanimidade, dar parcial provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Luis Felipe Salomão, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+Cuida-se de agravo interno interposto por DEUTSCHE LUFTHANSA AG inconformada com a decisão de fls. 268/270, proferida pelo em. Ministro Presidente do STJ, que não conheceu do agravo em recurso especial em razão da Súmula 182/STJ.
+Em suas razões, a agravante aponta que demonstrou de forma suficiente o dissídio jurisprudencial e a similitude fática entre acórdão recorrido e o paradigma do STJ.
+Foi oferecida impugnação às fls. 286/291 com pedido de aplicação de multa.
+É o relatório.
+EMENTA
+DIREITO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SÚMULA 182/STJ. NÃO INCIDÊNCIA. RECONSIDERAÇÃO DA DECISÃO DA PRESIDÊNCIA. AÇÃO INDENIZATÓRIA. CANCELAMENTO DE VOO. DANO MORAL. PRESUNÇÃO. IMPOSSIBILIDADE. PROVAS DO DANO. AUSÊNCIA. MERO ABORRECIMENTO. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL PARCIALMENTE PROVIDO
+1. Decisão agravada reconsiderada, na medida em que o agravo em recurso especial impugnou devidamente os fundamentos da decisão que inadmitiu o apelo nobre, exarada na instância a quo.
+2. Não enseja a interposição de recurso especial matéria que não tenha sido debatida no acórdão recorrido e sobre a qual não tenham sido opostos embargos de declaração, a fim de suprir eventual omissão. Ausente o indispensável prequestionamento, aplicando-se, por analogia, as Súmulas 282 e 356 do STF.
+3. "A jurisprudência mais recente desta Corte Superior tem entendido que, na hipótese de atraso de voo, o dano moral não é presumido em decorrência da mera demora, devendo ser comprovada, pelo passageiro, a efetiva ocorrência da lesão extrapatrimonial sofrida " (AgInt no AREsp n. 1.520.449/SP, de minha relatoria, Quarta Turma, julgado em 19/10/2020, DJe de 16/11/2020).
+4. Na hipótese dos autos, não houve comprovação de circunstância excepcional que extrapole o mero aborrecimento como, por exemplo, a perda de um compromisso em decorrência do cancelamento do voo, e que justifique a condenação em danos morais.
+5. Agravo interno provido para conhecer do agravo e dar parcial provimento ao recurso especial.
+VOTO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+A irresignação merece prosperar. Da análise dos argumentos expostos pela agravante nas razões de agravo em recurso especial, tem-se que foram impugnados os óbices da decisão de admissibilidade, dentre eles a inexistência de similitude fática (e-STJ, fl. 242), devendo ser dado provimento ao agravo interno.
+Passo à análise do recurso especial.
+Trata-se de agravo de decisão que inadmitiu recurso especial fundado no art. 105, III, alíneas "a" e "c" da Constituição Federal, interposto contra v. acórdão do Eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+" Indenização - Transporte aéreo internacional - Cancelamento de voo e reacomodação tardia que culminaram na perda de conexão - Danos materiais demonstrados - Dano moral configurado - Dever de indenizar inafastável - Quantum indenizatório - Montante que deve atender aos princípios da proporcionalidade e razoabilidade- Elevação- Necessidade - Recurso da ré improvido e provido do autor.. ". (e-STJ, fl. 181).
+Nas razões do recurso especial, a agravante alega violação aos arts. 373, inciso I do Código de Processo Civil de 2015 e 186, 927 e 944 do Código Civil de 2002 e divergência jurisprudencial, sustentando, em síntese, (a) que a prova acerca das pretensões da agravada foi dispensada, tendo os danos morais sido presumidos em decorrência da alegada falha na prestação de serviços e (b) que não há prova dos danos morais a justificar majoração da condenação, considerando que a reacomodação da agravada foi providenciada.
+Foram apresentadas contrarrazões às fls. 217/222.
+É o relatório. Passo a decidir.
+Com relação ao art. 373, I do CPC/15, tem-se que este não se encontra contemplado no objeto da controvérsia resolvida pelo Tribunal de origem, tampouco foi objeto de embargos de declaração, não se vislumbrando o prequestionamento necessário para viabilizar a interposição do presente recurso especial.
+Daí a inteligência do enunciado da Súmula nº 356 do Supremo Tribunal Federal, aplicada por analogia, a qual orienta que "o ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento".
+Nesse sentido:
+"AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. PRESCRIÇÃO. PROCESSO CIVIL. FALTA DE PREQUESTIONAMENTO. DIVERGÊNCIA JURISPRUDENCIAL. NÃO REALIZAÇÃO DO COTEJO ANALÍTICO. RECURSO DESPROVIDO.
+1. Aplicam-se as Súmulas n. 282 e 356 do STF quando as questões suscitadas no recurso especial não tenham sido debatidas no acórdão recorrido nem, a respeito, tenham sido opostos embargos declaratórios.
+(..)
+3. Agravo regimental desprovido." (AgRg no AREsp 544.459/MT, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 20/11/2014, DJe de 25/11/2014)
+No tocante à suposta violação aos arts. 186, 927 e 944 do CC/02, a Corte de origem afirmou que a parte autora sofreu danos morais em razão do cancelamento e reacomodação em outro voo,, in verbis:
+"Também não há dúvidas de que o autor sofreu danos morais, pois o cancelamento e reacomodação em outro voo, com consequente perda da conexão, é fato que transcende o mero aborrecimento de qualquer viagem". (e-STJ, fls. 182/183)
+Nesse ponto, o Tribunal de origem contrariou o entendimento desta Corte Superior, que entende ser necessária a prova da lesão extrapatrimonial eventualmente sofrida pelo passageiro, considerando que o dano moral não é presumido no presente caso.
+Nesse mesmo sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. TEMPESTIVIDADE VERIFICADA. RECONSIDERAÇÃO DA DECISÃO DA PRESIDÊNCIA. DIREITO DO CONSUMIDOR. ATRASO EM VOO DOMÉSTICO. NECESSIDADE DE COMPROVAÇÃO. COMPANHIA AÉREA QUE FORNECEU ALTERNATIVAS RAZOÁVEIS PARA A RESOLUÇÃO DO IMPASSE. DANO MORAL NÃO CONFIGURADO. DANO MATERIAL NÃO COMPROVADO. AGRAVO PROVIDO. RECURSO ESPECIAL IMPROVIDO.
+1. A inversão do ônus da prova, nos termos do art. 6º, VIII, do Código de Defesa do Consumidor, não é automática, dependendo da constatação, pelas instâncias ordinárias, da presença ou não da verossimilhança das alegações ou da hipossuficiência do consumidor.
+Precedentes.
+2. A jurisprudência mais recente desta Corte Superior tem entendido que, na hipótese de atraso de voo, o dano moral não é presumido em decorrência da mera demora, devendo ser comprovada, pelo passageiro, a efetiva ocorrência da lesão extrapatrimonial sofrida.
+3. Na hipótese, o Tribunal Estadual concluiu pela inexistência de dano moral, uma vez que a companhia aérea ofereceu alternativas razoáveis para a resolução do impasse, como hospedagem, alocação em outro voo e transporte terrestre até o destino dos recorrentes, ocorrendo, portanto, mero dissabor que não enseja reparação por dano moral.
+4. Nos termos da jurisprudência desta Corte, em regra, os danos materiais exigem efetiva comprovação, não se admitindo indenização de danos hipotéticos ou presumidos. Precedentes.
+5. Agravo interno provido para reconsiderar a decisão agravada e, em novo exame, negar provimento ao recurso especial.
+(AgInt no AREsp n. 1.520.449/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 19/10/2020, DJe de 16/11/2020.)
+DIREITO DO CONSUMIDOR E CIVIL. RECURSO ESPECIAL. AÇÃO DE COMPENSAÇÃO DE DANOS MORAIS. CANCELAMENTO DE VOO DOMÉSTICO. DANO MORAL NÃO CONFIGURADO.
+1. Ação de compensação de danos morais, tendo em vista falha na prestação de serviços aéreos, decorrentes de cancelamento de voo doméstico.
+2. Ação ajuizada em 03/12/2015. Recurso especial concluso ao gabinete em 17/07/2018. Julgamento: CPC/2015.
+3. O propósito recursal é definir se a companhia aérea recorrida deve ser condenada a compensar os danos morais supostamente sofridos pelo recorrente, em razão de cancelamento de voo doméstico.
+4. Na específica hipótese de atraso ou cancelamento de voo operado por companhia aérea, não se vislumbra que o dano moral possa ser presumido em decorrência da mera demora e eventual desconforto, aflição e transtornos suportados pelo passageiro. Isso porque vários outros fatores devem ser considerados a fim de que se possa investigar acerca da real ocorrência do dano moral, exigindo-se, por conseguinte, a prova, por parte do passageiro, da lesão extrapatrimonial sofrida.
+5. Sem dúvida, as circunstâncias que envolvem o caso concreto servirão de baliza para a possível comprovação e a consequente constatação da ocorrência do dano moral. A exemplo, pode-se citar particularidades a serem observadas: i) a averiguação acerca do tempo que se levou para a solução do problema, isto é, a real duração do atraso; ii) se a companhia aérea ofertou alternativas para melhor atender aos passageiros; iii) se foram prestadas a tempo e modo informações claras e precisas por parte da companhia aérea a fim de amenizar os desconfortos inerentes à ocasião; iv) se foi oferecido suporte material (alimentação, hospedagem, etc.) quando o atraso for considerável; v) se o passageiro, devido ao atraso da aeronave, acabou por perder compromisso inadiável no destino, dentre outros.
+6. Na hipótese, não foi invocado nenhum fato extraordinário que tenha ofendido o âmago da personalidade do recorrente. Via de consequência, não há como se falar em abalo moral indenizável.
+7. Recurso especial conhecido e não provido, com majoração de honorários.
+(REsp n. 1.796.716/MG, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 27/8/2019, DJe de 29/8/2019.)
+DIREITO DO CONSUMIDOR E CIVIL. RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO DE DANOS MATERIAIS E COMPENSAÇÃO DE DANOS MORAIS. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. ATRASO EM VOO INTERNACIONAL. DANO MORAL NÃO CONFIGURADO. EXTRAVIO DE BAGAGEM. ALTERAÇÃO DO VALOR FIXADO A TÍTULO DE DANOS MORAIS. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. Ação de reparação de danos materiais e compensação de danos morais, tendo em vista falha na prestação de serviços aéreos, decorrentes de atraso de voo internacional e extravio de bagagem.
+2. Ação ajuizada em 03/06/2011. Recurso especial concluso ao gabinete em 26/08/2016. Julgamento: CPC/73.
+3. O propósito recursal é definir i) se a companhia aérea recorrida deve ser condenada a compensar os danos morais supostamente sofridos pelo recorrente, em razão de atraso de voo internacional; e ii) se o valor arbitrado a título de danos morais em virtude do extravio de bagagem deve ser majorado.
+4. A ausência de decisão acerca dos argumentos invocados pelo recorrente em suas razões recursais impede o conhecimento do recurso especial.
+5. Na específica hipótese de atraso de voo operado por companhia aérea, não se vislumbra que o dano moral possa ser presumido em decorrência da mera demora e eventual desconforto, aflição e transtornos suportados pelo passageiro. Isso porque vários outros fatores devem ser considerados a fim de que se possa investigar acerca da real ocorrência do dano moral, exigindo-se, por conseguinte, a prova, por parte do passageiro, da lesão extrapatrimonial sofrida.
+6. Sem dúvida, as circunstâncias que envolvem o caso concreto servirão de baliza para a possível comprovação e a consequente constatação da ocorrência do dano moral. A exemplo, pode-se citar particularidades a serem observadas: i) a averiguação acerca do tempo que se levou para a solução do problema, isto é, a real duração do atraso; ii) se a companhia aérea ofertou alternativas para melhor atender aos passageiros; iii) se foram prestadas a tempo e modo informações claras e precisas por parte da companhia aérea a fim de amenizar os desconfortos inerentes à ocasião; iv) se foi oferecido suporte material (alimentação, hospedagem, etc.) quando o atraso for considerável; v) se o passageiro, devido ao atraso da aeronave, acabou por perder compromisso inadiável no destino, dentre outros.
+7. Na hipótese, não foi invocado nenhum fato extraordinário que tenha ofendido o âmago da personalidade do recorrente. Via de consequência, não há como se falar em abalo moral indenizável.
+8. Quanto ao pleito de majoração do valor a título de danos morais, arbitrado em virtude do extravio de bagagem, tem-se que a alteração do valor fixado a título de compensação dos danos morais somente é possível, em recurso especial, nas hipóteses em que a quantia estipulada pelo Tribunal de origem revela-se irrisória ou exagerada, o que não ocorreu na espécie, tendo em vista que foi fixado em R$ 5.000,00 (cinco mil reais).
+9. Recurso especial parcialmente conhecido e, nessa extensão, não provido.
+(REsp n. 1.584.465/MG, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 13/11/2018, DJe de 21/11/2018.)
+No presente caso, tem-se que não houve comprovação de circunstância excepcional que extrapole o mero aborrecimento como, por exemplo, a perda de um compromisso em decorrência do cancelamento do voo, e que justifique a condenação em danos morais, considerando, ainda, que a parte autora foi devidamente ressarcida pelos danos materiais sofridos.
+Por fim, não merece ser acolhido o pedido de condenação à multa prevista no art. 1.021, § 4º, do CPC, em razão do provimento recursal.
+Ante o exposto, dou provimento ao agravo interno para conhecer do agravo e dar parcial provimento ao recurso especial, a fim de julgar improcedente o pedido de danos morais.
+Considerando a necessidade de redistribuição dos ônus sucumbenciais, deverá cada parte arcar com metade do pagamento das custas processuais e com os honorários advocatícios do patrono da parte adversa, os quais fixo em 10% sobre o valor atualizado do proveito econômico a ser calculado em liquidação de sentença.
+É como voto.
