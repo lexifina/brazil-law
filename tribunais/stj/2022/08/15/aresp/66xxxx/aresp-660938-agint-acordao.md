@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 09/08/2022 a 15/08/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  por  PAULO  FERNANDO  LOPES  DOS  SANTOS  contra  a  decisão  que  conheceu  do  agravo  para  não  conhecer  do  recurso  especial  em  virtude  da  incidência  das  Súmulas  nºs  5  e  7/STJ  (fls.  713-714,  e-STJ).
+Nas  presentes  razões,  o  agravante  sustenta  a  inaplicabilidade  das  Súmulas  nºs  5  e  7/STJ  ao  caso  em  exame.
+Defende,  ainda,  que  os  artigos  6º,  18  e  46  do  Código  de  Defesa  do  Consumidor  foram  afrontados,  pois  os  juros  foram  fixados  de  forma  abusiva  no  contrato  de  adesão  firmado  pelas  partes.
+Foi  apresentada  impugnação  (fls.  725-732,  e-STJ).
+É  o  relatório.
+EMENTA
+  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  SISTEMA  FINANCEIRO  DE  HABITAÇÃO.  REVISÃO  CONTRATUAL.  JUROS.  REEXAME.  SÚMULAS  Nº  5  E  7/STJ.
+1.  Recurso  especial  interposto  contra  acórdão  publicado  na  vigência  do  Código  de  Processo  Civil  de  1973  (Enunciados  Administrativos  nºs  2  e  3/STJ).
+2.  Não  compete  ao  Superior  Tribunal  de  Justiça  verificar  a  existência  de  capitalização  de  juros  com  a  utilização  do  Sistema  SACRE  em  virtude  do  disposto  nas  Súmulas  nºs  5  e  7/STJ.  Precedente.
+3.  Agravo  interno  não  provido.
+VOTO
+O  acórdão  impugnado  pelo  recurso  especial  foi  publicado  na  vigência  do  Código  de  Processo  Civil  de  1973  (Enunciados  Administrativos  nºs  2  e  3/STJ).
+A  irresignação  não  merece  prosperar.
+De  fato,  a  parte  recorrente  não  trouxe  argumentos  suficientes  para  infirmar  a  decisão  atacada.
+Conforme  anotado  na  decisão  ora  agravada,  o  tribunal  recorrido,  ao  analisar  a  controvérsia,  consignou:
+"(..)
+Observe-se  que  a  modalidade  SACRE  de  sistema  de  amortização  é  livremente  escolhida  pelos  contratantes,  inexistindo  nos  autos  qualquer  alegação  ou  mesmo  prova  de  que  a  parte  autora  tenha  sido  obrigada  a  adotá-lo.
+Por  outro  lado,  a  própria  Lei  4.380/64  estabelece  a  possibilidade  de  reajuste  dos  encargos  mensais  utilizando-se  de  sistema  de  amortização  que  não  seja  necessariamente  o  Plano  de  Equivalência  Salarial,  comumente  adotado  pela  CEF  (..)
+Quanto  ao  percentual  de  juros  devido,  constata-se  que  a  Segunda  Seção  do  Colendo  Superior  Tribunal  de  Justiça  tornou  induvidosa  a  exegese  de  que  o  art.6º,  "e",  da  Lei  n.  4.380/64,  não  limitou  em  10%  os  juros  remuneratórios  incidentes  sobre  os  contratos  como  o  ora  apreciado,  devendo  prevalecer  aquele  estipulado  entre  as  partes,  (..)
+Quanto  à  incidência  de  dispositivos  do  Código  de  Defesa  do  Consumidor  à  espécie,  impende  destacar  que  não  é  possível  concluir  que,  apenas  por  se  cuidar  de  contrato  de  adesão,  suas  cláusulas  são  necessariamente  leoninas;  tampouco  se  pode  considerar  que  o  reajustamento  das  prestações  e  do  saldo  devedor  caracterize,  genericamente,  onerosidade  excessiva,  a  ensejar  a  aplicação  da  Teoria  da  Imprevisão"  (fls.  428-430,  e-STJ).
+Nesse  contexto,  não  é  possível  a  este  Tribunal  Superior  apreciar  o  entendimento  exarado  na  origem,  porquanto  teria  que,  necessariamente,  rever  o  contexto  fático-probatório  dos  autos  e  do  contrato  firmado  pelas  partes,  procedimentos  inviáveis  nesta  via  extraordinária,  consoante  disposto  nas  Súmulas  nºs  5  e  7/STJ.
+A  propósito:
+"SFH.  AGRAVO  INTERNO.  O  SUPERIOR  TRIBUNAL  DE  JUSTIÇA  E  O  SUPREMO  TRIBUNAL  FEDERAL  RECONHECEM  A  CONSTITUCIONALIDADE  DO  DECRETO-LEI  70/66.  CONSOANTE  A  ITERATIVA  JURISPRUDÊNCIA  DO  STJ,  É  POSSÍVEL  A  UTILIZAÇÃO  DA  TAXA  REFERENCIAL  -  TR  NA  ATUALIZAÇÃO  DO  SALDO  DEVEDOR  DE  CONTRATO  VINCULADO  AO  SISTEMA  FINANCEIRO  DE  HABITAÇÃO,  AINDA  QUE  FIRMADO  ANTERIORMENTE  AO  ADVENTO  DA  LEI  Nº  8.177/91,  DESDE  QUE  PACTUADO  O  MESMO  ÍNDICE  APLICÁVEL  À  CADERNETA  DE  POUPANÇA.  SÚMULA  Nº  454/STJ.  NÃO  COMPETE  AO  STJ  VERIFICAR  A  EXISTÊNCIA  DE  CAPITALIZAÇÃO  DE  JUROS  COM  A  UTILIZAÇÃO  DO  SISTEMA  SACRE,  POR  FORÇA  DAS  SÚMULAS  NºS  5  E  7/STJ.  O  SISTEMA  DE  PRÉVIO  REAJUSTE  E  POSTERIOR  AMORTIZAÇÃO  DO  SALDO  DEVEDOR  DOS  CONTRATOS  DE  FINANCIAMENTO  IMOBILIÁRIO  FIRMADOS  NO  ÂMBITO  DO  SFH  NÃO  FERE  O  EQUILÍBRIO  CONTRATUAL  E  ESTÁ  DE  ACORDO  COM  A  LEGISLAÇÃO  EM  VIGOR.
+1.  "O  Decreto-lei  n.  70/1966  já  teve  sua  inconstitucionalidade  definitivamente  rejeitada  pelo  Supremo  Tribunal  Federal  em  inúmeros  julgados,  que  firmaram  o  entendimento  de  que  a  citada  legislação  não  viola  o  princípio  da  inafastabilidade  da  jurisdição  e  nem  mesmo  o  do  devido  processo  legal  (AgRg  no  Ag  962.880/SC,  Relator  Ministro  ALDIR  PASSARINHO  JUNIOR,  QUARTA  TURMA,  DJe  de  22/9/2008)"  .  (AgRg  no  AREsp  533.871/RJ,  Rel.  Ministro  RAUL  ARAÚJO,  QUARTA  TURMA,  julgado  em  04/08/2015,  DJe  18/08/2015)
+2.  Consoante  a  iterativa  jurisprudência  do  STJ,  é  possível  a  utilização  da  Taxa  Referencial-  TR  na  atualização  do  saldo  devedor  de  contrato  vinculado  ao  Sistema  Financeiro  de  Habitação,  ainda  que  firmado  anteriormente  ao  advento  da  Lei  nº  8.177/91,  desde  que  pactuado  o  mesmo  índice  aplicável  à  caderneta  de  poupança.  Súmula  nº  454/STJ.
+3.  O  sistema  de  prévio  reajuste  e  posterior  amortização  do  saldo  devedor  dos  contratos  de  financiamento  imobiliário  firmados  no  âmbito  do  SFH  não  fere  o  equilíbrio  contratual  e  está  de  acordo  com  a  legislação  em  vigor.  Inteligência  da  Súmula  nº  450/STJ.  (AgRg  no  AREsp  749.560/RJ,  Rel.  Ministro  RICARDO  VILLAS  BÔAS  CUEVA,  TERCEIRA  TURMA,  julgado  em  03/12/2015,  DJe  14/12/2015)
+4.  Agravo  interno  não  provido"  (AgInt  no  REsp  1.223.651/RJ,  Rel.  Ministro  LUIS  FELIPE  SALOMÃO,  QUARTA  TURMA,  julgado  em  1º/12/2016,  DJe  7/12/2016  -  grifou-se).
+"AGRAVO  REGIMENTAL  NO  AGRAVO  EM  RECURSO  ESPECIAL.  SISTEMA  FINANCEIRO  DA  HABITAÇÃO.  NOVAÇÃO  CONTRATUAL.  PREQUESTIONAMENTO.  AUSÊNCIA.  SÚMULA  Nº  282/STF.  TR.  POSSIBILIDADE.  SÚMULA  Nº  454/STJ.  CAPITALIZAÇÃO  DE  JUROS.  SACRE.  SÚMULA  Nº  7/STJ.  AMORTIZAÇÃO.  SÚMULA  Nº  450/STJ.
+1.  Ausente  o  prequestionamento,  até  mesmo  de  modo  implícito,  de  dispositivos  apontados  como  violados  no  recurso  especial,  incide  o  disposto  na  Súmula  nº  282/STF.
+2.  Esta  Corte  Superior  firmou  entendimento  de  que  é  possível  a  utilização  da  Taxa  Referencial-  TR  na  atualização  do  saldo  devedor  de  contrato  vinculado  ao  Sistema  Financeiro  de  Habitação,  ainda  que  firmado  anteriormente  ao  advento  da  Lei  nº  8.177/91,  desde  que  pactuado  o  mesmo  índice  aplicável  à  caderneta  de  poupança.  Súmula  nº  454/STJ.
+3.  Não  compete  ao  STJ  verificar  a  existência  de  capitalização  de  juros  com  a  utilização  do  Sistema  SACRE,  por  força  das  Súmulas  nºs  5  e  7/STJ.  Precedente.
+4. O  sistema  de  prévio  reajuste  e  posterior  amortização  do  saldo  devedor  dos  contratos  de  financiamento  imobiliário  firmados  no  âmbito  do  SFH  não  fere  o  equilíbrio  contratual  e  está  de  acordo  com  a  legislação  em  vigor.  Inteligência  da  Súmula  nº  450/STJ.
+5.  Agravo  regimental  não  provido"(AgRg  no  AREsp  749.560/RJ,  Rel.  Ministro  RICARDO  VILLAS  BÔAS  CUEVA,  TERCEIRA  TURMA,  julgado  em  3/12/2015,  DJe  14/12/2015  -  grifou-se).
+Cita-se,  ainda,  o  AREsp  2.048.022/RJ,  Relator  o  Ministro  Marco  Aurélio  Bellizze,  DJe  22/3/2022.
+Ante  o  exposto,  nego  provimento  ao  agravo  interno.
+É  o  voto.
