@@ -1,0 +1,80 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 09/08/2022 a 15/08/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Luis Felipe Salomão, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+Trata-se de agravo interno interposto por OI S.A. - EM RECUPERAÇÃO JUDICIAL contra decisão às fls. 1.543-.1548, desta Relatoria, que conheceu do agravo para não conhecer do recurso especial, sob os seguintes fundamentos:
+a) em relação ao art. 170, § 3º, da Lei n. 6.404/76, por incidência das Súmulas 284 e 283 do STF; e
+b) Súmula 7/STJ, referente à legitimidade ativa da parte agravada.
+Nas razões do agravo interno, a agravante afirma que, "ao negar conhecimento ao recurso especial por suposta carência na impugnação do v. acórdão recorrido, por supostas "alegações dissociadas", evidente que, com a mais elevada vênia, deixou o e. Ministro Relator de observar que a parte ora agravada, diante da celebração de contrato na modalidade PCT, não teria direito ao resíduo acionário, tal entendimento que, conforme exposto até aqui, está em total consonância com a mais atual jurisprudência dessa c. Corte Superior e ainda por julgamentos proferidos pela relatoria dos membros dessa eg. Quarta Turma do STJ. Dessa forma, não há que se falar em ausência de impugnação de fundamento do v. acórdão recorrido e, consequentemente, em óbice nos enunciados das Súmulas nº 283 e 284 do c. STF, por supostas "alegações dissociadas". " (fl. 1.557).
+Defende, ainda, que, "ao revés do que restou estabelecido na r. decisão agravada, esse i. Ministro Relator deixou de considerar que a controvérsia consiste na análise das decisões judiciais proferidas no decorrer da presente demanda, uma vez que a situação descrita nesses autos não desafia o óbice na Súmula nº 7 desta c. Corte Superior. " (fl. 1.559).
+Ao final, pleiteia a reconsideração da decisão agravada ou, se mantida, seja o presente feito levado a julgamento perante a eg. Quarta Turma.
+O agravado deixou transcorrer in albis o prazo para impugnação (fls. 1.569).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO ORDINÁRIA DE ADIMPLEMENTO CONTRATUAL CUMULADA COM EXIBIÇÃO INCIDENTAL DE DOCUMENTOS. BRASIL TELECOM. RETRIBUIÇÃO ACIONÁRIA NO PLANO PCT. INAPLICABILIDADE DA SÚMULA 371/STJ. RAZÕES DISSOCIADAS DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULAS 283 E 284/STF. LEGITIMIDADE ATIVA DO CESSIONÁRIO DEMONSTRADA. CESSÃO INTEGRAL RECONHECIDA PELA INSTÂNCIA DE ORIGEM. DECISÃO DE ACORDO COM A JURISPRUDÊNCIA DO STJ. INCIDÊNCIA DA SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. É inadmissível o inconformismo por deficiência na fundamentação quando as razões do recurso estão dissociadas do decidido no acórdão recorrido. Aplicação das Súmulas 283 e 284 do STF.
+2. "É assente nesta Corte Superior o entendimento de que, nos contratos firmados na modalidade de Planta Comunitária (PCT), a integralização do capital não se dá em dinheiro, no momento do pagamento do preço, mas se dá apenas com a incorporação da planta telefônica ao patrimônio da concessionária, após construída e avaliada, momento que deve ser considerado para a finalidade de emissão das ações, sendo inaplicável a Súmula 371 do STJ" (AgInt no REsp 1.777.480/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 11/06/2019, DJe de 17/06/2019).
+3. Conforme a jurisprudência do STJ, "tendo havido a cessão de forma integral do terminal telefônico com as ações, é de se reconhecer a legitimidade do cessionário, e não do cedente." (AgInt no AREsp n. 1.970.308/RS, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 28/3/2022, DJe de 31/3/2022.)
+4. Na hipótese, o Tribunal de origem concluiu que houve a cessão expressa e integral de todos os direitos e obrigações do cedente, confirmando a legitimidade ativa do cessionário.
+5. Estando a decisão de acordo com a jurisprudência desta Corte, o recurso especial encontra óbice na Súmula 83/STJ.
+6. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+A irresignação não merece prosperar.
+Com efeito, a parte agravante aponta violação ao art. 170, § 3º, da Lei 6.404/76, uma vez que, ao contrário do que fora decidido pelo eg. TJ-SC, nos contratos celebrados sob o regime PCT não há dever de retribuição acionária.
+Entretanto, sobre a matéria aventada, o Tribunal de origem, observando as circunstâncias do caso, adotou a seguinte conclusão (fls. 1.430-1.435):
+"Da diferença entre os regimes PEX e PCT e das Portarias Ministeriais
+A companhia apelante aponta a necessidade de observância dos critérios diferenciados para apuração do valor patrimonial da ação (VPA), a depender do regime de contrato, se Plano de Expansão - PEX ou Planta Comunitária de Telefonia - PCT.
+Assevera que, no PEX, até 25.08.1996, o valor patrimonial era aquele apurado no primeiro balanço da companhia após à data da integralização do preço contratado (Portaria n. 81/96). Após a referida data, o valor patrimonial da ação passou a ser apurado com base no valor de mercado das ações (Portaria n. 1.028/96). E no PCT, por sua vez, o critério para apuração do valor patrimonial da ação se dava mediante apuração do valor do laudo de avaliação dos bens utilizados na construção da planta acionária (Portaria n. 117/91).
+Defende, assim, a legalidade dos critérios utilizados pela empresa de telefonia para emissão de ações e apuração do valor patrimonial das ações.
+Pois bem. Como se sabe, a expansão do serviço de telefonia no país deu-se por meio de duas modalidades contratuais: o Plano de Expansão - PEX, criado a partir das Portarias n. 1.361/76, 881/90 e 86/91 (alterada pela Portaria n. 1028/96) do Ministério da Comunicação; e a Planta Comunitária de Telefonia - PCT, criada pela Portaria 117/1991.
+Nos contratos do tipo PEX, quando da assinatura do contrato para aquisição da linha telefônica, o contratante adquiria também um número de ações referente ao valor investido, sendo que os pagamentos, em parcela única ou parceladamente, eram efetuados diretamente à companhia telefônica e incorporava-se ao seu patrimônio na data da assinatura da avença.
+(..)
+No PCT, por sua vez, o consumidor não  rmava contrato de participação  nanceira diretamente com a empresa de telefonia. O valor desembolsado pelo contratante era destinado à pessoa jurídica intermediária incumbida de providenciar a implantação do sistema telefônico. Tal implantação, por sua vez, era ajustada por meio de convênio celebrado entre a empresa credenciada e a companhia telefônica. E somente com a transferência do sistema telefônico, como acervo, à empresa de telefonia, é que surgia o direito do contratante às ações da companhia.
+A respeito das particularidades desta modalidade contratual, cita-se, por oportuno, trecho do acórdão de relatoria do Des. Gilberto Gomes de Oliveira, no julgamento da Apelação Cível n. 0003262-84.2006.8.24.0007, verbis:
+(..)
+Concluo, portanto, que "o valor integralizado não corresponde à quantia despendida pelo promitente-assinante, uma vez que, frisa-se, o valor pago pelo investidor foi utilizado na construção da planta, a qual somente após concluída e avaliada pela assembleia geral, seria incorporada ao patrimônio da empresa de telefonia, para, então, haver a subscrição de ações com base no valor de avaliação, conforme determina o art. 7º e o art. 8º, da Lei n. 6404/76,  .. " (Apelação Cível n. 0056919-03.2010.8.24.0038, de Joinville, rel. Luiz Zanelato, Primeira Câmara de Direito Comercial, j. 20/08/2020).
+Não obstante, a orientação de que o valor patrimonial da ação (VPA), independentemente da modalidade contratada, deve ser apurado na data do aporte  nanceiro (desembolso), considerada na dicção da Súmula n. 371 do STJ como a data da integralização, não pode mais subsistir.
+O Superior Tribunal de Justiça, aliás, no julgamento do Recurso Especial n. 1.742.233/SP, de relatoria do Ministro Paulo de Tarso Sanseverino, ao se debruçar sobre a questão relacionada à aplicação do critério do balancete mensal especi camente num contrato de participação  nanceira na modalidade Planta Comunitária de Telefonia - PCT, decidiu nos seguintes termos:
+(..)
+Vê-se, portanto, que o Superior Tribunal de Justiça passou a diferenciar as modalidades contratuais PEX e PCT em relação ao momento da efetiva integralização, se posicionando pela inaplicabilidade da Súmula n. 371 do STJ aos contratos  rmados na modalidade Planta Comunitária, uma vez que o dever de retribuição acionária surgia apenas tempos depois, precisamente quando da incorporação da rede telefônica ao patrimônio da companhia.
+E seguindo o entendimento  rmado pelo Superior Tribunal de Justiça, esta Colenda Câmara passou a entender pela inaplicabilidade da Súmula n. 371 do STJ aos contratos firmados na modalidade PCT. Veja-se:
+(..)
+No caso em exame, extraio dos relatórios de informações cadastrais colacionados aos autos (evento 49, INF647) que a maioria dos contratos de participação financeira em debate foram ajustados na modalidade PCT, sendo, por isso, inaplicável o teor da Súmula n. 371 do STJ.
+Diante disso, o cálculo do número de ações faltantes deve ser realizado " ..  dividindo-se o valor integralizado (representado pelo valor de avaliação da planta dividido pelo número de adquirentes de linhas telefônica - Resp 29.665/MG) pelo valor patrimonial da ação na data da incorporação da planta  .. " (TJSC, Apelação Cível n. 0310753- 06.2015.8.24.0023, da Capital, rel. Des. Luiz Zanelato, Primeira Câmara de Direito Comercial, j. 05-09-2019).
+Registro, por oportuno, que compete à ré instruir a fase executiva com os documentos necessário para a realização do cálculo das ações subscritas a menor, sob pena de se adotar como valor integralizado o máximo nacional instituído pelas Portarias Ministeriais vigentes na data da assinatura de cada um dos contratos.
+Por sua vez, no tocante ao único contrato de participação  nanceira  rmado sob o regime PEX (evento 49, INF647,  . 17), não merece qualquer retoque o comando judicial que acertadamente determinou que o valor patrimonial da ação (VPA) seja apurado com base no balancete do mês da integralização, nos exatos termos da Súmula n. 371 do STJ."
+Na hipótese, como se verifica do trecho acima transcrito, o Tribunal de origem concluiu que, apesar das diferentes entre os contratos PEX e PCT, é necessário a apresentação de documentos pela agravante para a realização do cálculo das ações subscritas a menor.
+Por sua vez, nas razões recursais, a agravante não se insurgiu contra tais fundamentos, limitando-se a afirmar a impossibilidade de retribuição acionária do contrato firmado sob o regime PCT.
+Incidem, assim, as Súmulas n. 283 e 284 do STF, uma vez que a parte agravante apresentou alegações dissociadas do que ficou decidido no acórdão recorrido.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESCISÃO CONTRATUAL. CÓDIGO DE DEFESA DO CONSUMIDOR. INAPLICABILIDADE. FUNDAMENTOS NÃO ATACADOS. SÚMULAS 283 E 284, DO STF. INADIMPLEMENTO ABSOLUTO DO RÉU. INEXISTÊNCIA. VEDAÇÃO AO COMPORTAMENTO CONTRADITÓRIO. ADIMPLEMENTO SUBSTANCIAL. SÚMULAS 5 E 7, DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+3. A falta de impugnação objetiva e direta ao fundamento central do acórdão recorrido denota a deficiência da fundamentação recursal, a fazer incidir, no particular, as Súmulas 283 e 284 do STF.
+(..)
+5. Agravo interno não provido."
+(AgInt no AREsp n. 2.022.647/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 13/6/2022, DJe de 17/6/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. RAZÕES DISSOCIADAS DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULAS 283 E 284/STF. PLANO DE SAÚDE COLETIVO. RESCISÃO UNILATERAL. NÚMERO INFERIOR A 30 (TRINTA) BENEFICIÁRIOS. NECESSIDADE DE MOTIVAÇÃO. PRECEDENTES.AGRAVO INTERNO DESPROVIDO.
+1. É inadmissível o inconformismo por deficiência na fundamentação quando as razões do recurso estão dissociadas do decidido no acórdão recorrido. Aplicação das Súmulas 283 e 284 do STF.
+(..)
+3. Agravo interno a que se nega provimento."
+(AgInt no AREsp n. 1.942.072/CE, relator Ministro Raul Araújo, Quarta Turma, julgado em 14/2/2022, DJe de 24/2/2022.)
+Outrossim, observa-se que a decisão encontra amparo na jurisprudência Corte que se firmou no sentido de que, "nos contratos firmados na modalidade de Planta Comunitária (PCT), a integralização do capital não se dá em dinheiro, no momento do pagamento do preço, mas se dá apenas com a incorporação da planta telefônica ao patrimônio da concessionária, após construída e avaliada, momento que deve ser considerado para a finalidade de emissão das ações, sendo inaplicável a Súmula 371 do STJ" (AgInt no REsp 1.777.480/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 11/06/2019, DJe de 17/06/2019).
+Incidência da Súmula 83/STJ.
+Avançando nas razões recursais, a parte agravante sustenta, com alegada ofensa ao art. 485 do CPC/2015, que o agravado não possui legitimidade para figurar no polo ativo da demanda, haja vista que "o cessionário de contratos de participação financeira só detém titularidade para postular resíduo acionário se houver menção expressa, nos termos de cessão, ao direito de subscrever ações complementares, ou seja, se houver a renúncia do direito de postular por resíduo acionário. Do contrário, ainda que alguns direitos decorrentes do contrato tenham sido cedidos, a legitimidade ativa para postular resíduo remanesce com o promitente-assinante". (fl. 1.458).
+Sobre o tema, tem-se que o entendimento desta Corte se sedimentou no sentido de que, "tendo havido a cessão de forma integral do terminal telefônico com as ações, é de se reconhecer a legitimidade do cessionário, e não do cedente." (AgInt no AREsp n. 1.970.308/RS, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 28/3/2022, DJe de 31/3/2022.)
+No mesmo sentido:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO DE ADIMPLEMENTO CONTRATUAL. SUBSCRIÇÃO DE AÇÕES. TELEFONIA. CESSIONÁRIO. ILEGITIMIDADE ATIVA. REVISÃO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. O cessionário de contrato de participação financeira tem legitimidade para ajuizar ação de complementação de ações somente quando o instrumento de cessão lhe conferir, expressa ou tacitamente, o direito à subscrição de ações, conforme apurado nas instâncias ordinárias.
+3. Na hipótese, rever o entendimento firmado pelas instâncias ordinárias, acerca da ilegitimidade ativa dos cessionários pelo fato de a relação entre o cedente e a requerida não estar demonstrada no contrato, demandaria a análise de fatos e provas dos autos, providência inviável em recurso especial pela incidência da Súmula nº 7/STJ.
+4. Agravo interno não provido.
+(AgInt nos EDcl no REsp n. 1.859.110/SC, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 25/10/2021, DJe de 3/11/2021.)
+Por sua vez, da leitura do acórdão estadual, observa-se que a conclusão se deu no sentido de que restou "comprovada de forma expressa a cessão de todos os direitos e obrigações contratuais dos cedentes ao cessionário, de modo que não há falar em ilegitimidade ativa da parte autora." (fl. 1.423)
+Nesse contexto, estando a decisão de acordo com a jurisprudência desta Corte, o recurso especial encontra óbice na Súmula 83/STJ.
+Ademais, a pretensão de modificar o entendimento firmado, no tocante à cessão expressa de todos os direito, demandaria revolvimento do acervo fático-probatório, o que é inviável em sede de recurso especial, nos termos da Súmula 7/STJ.
+Com essas considerações, conclui-se que o recurso não merece prosperar.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
