@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 09/08/2022 a 15/08/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de agravo interno interposto por FUNDAÇÃO PETROBRÁS DE SEGURIDADE SOCIAL PETROS contra decisão desta relatoria proferida nos termos da seguinte ementa (e-STJ, fl. 587):
+RECURSO ESPECIAL. PROCESSUAL CIVIL. TUTELA DE URGÊNCIA. APLICAÇÃO ANALÓGICA DA SÚMULA 735/STF. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. ÓBICE DA SÚMULA 7/STJ. RECURSO ESPECIAL NÃO CONHECIDO.
+Nas razões recursais (e-STJ, fls. 595-608), a agravante pretende a reforma da decisão agravada.
+Para tanto, aduz a inaplicabilidade da Súmula 735/STF, uma vez que esse entendimento deve ser ressalvado, excepcionalmente, quando há violação direta de normas de direito processual, como no caso dos autos. Ademais, não foram preenchidos os requisitos para o deferimento da tutela de urgência, tendo em vista a ausência de demonstração de ilegalidade ou desrespeito ao ordenamento que rege a matéria na elaboração dos cálculos.
+Sustenta o não cabimento do óbice da Súmula 7/STJ, por não se tratar de reexame dos fatos e regulamentos constantes dos autos, mas sim de verificar a correta adequação da norma ao fato, à luz do direito que rege o sistema de previdência fechada.
+Pleiteia, assim, a reconsideração da decisão agravada ou o encaminhamento do feito para julgamento pelo órgão colegiado.
+Impugnação às fls. 610-617 (e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. 1. CONCLUSÃO NO SENTIDO DA DEMONSTRAÇÃO DOS REQUISITOS NECESSÁRIOS AO DEFERIMENTO DA TUTELA ANTECIPADA. SÚMULA 7/STJ. 2. NATUREZA PRECÁRIA E PROVISÓRIA DO DECISUM QUE, EM REGRA, NÃO AUTORIZA A INTERPOSIÇÃO DO RECURSO ESPECIAL. SÚMULA 735/STF. 3. AGRAVO INTERNO DESPROVIDO.
+1. Analisando o contexto probatório, o acórdão recorrido, ao manter o deferimento da tutela de urgência, concluiu que há indícios de que os participantes e assistidos estejam sendo responsabilizados por contribuições extraordinárias acima do valor necessário, comprometendo sobremaneira o orçamento familiar, o que configura o risco de dano inverso. Essas ponderações foram feitas com base em fatos e provas, atraindo a aplicação da Súmula 7/STJ.
+2. Consoante a jurisprudência do Superior Tribunal de Justiça, de acordo com o disposto na Súmula 735/STF, em regra, também não cabe recurso especial contra acórdão que defere medida liminar. Precedentes.
+3. Agravo interno desprovido.
+VOTO
+O recurso não comporta provimento, porquanto as razões expendidas são insuficientes para a reconsideração da decisão.
+Com efeito, em que pese às alegações deduzidas pela agravante, conforme devidamente esclarecido na decisão de fls. 587-591 (e-STJ), a partir do contexto fático-probatório dos autos, o acórdão concluiu por suspender a cobrança a título de contribuição extraordinária da parte recorrida. Outrossim, o julgado justificou a presença dos requisitos para a concessão da tutela antecipada.
+Veja-se (e-STJ, fl. 364, sem grifo no original):
+No mérito, conforme relatado, o recurso impugna o deferimento tutela de urgência concedida em favor de Maria Claudia de Paiva Serafim, determinando à Fundação Petrobrás de Seguridade Social (Petros), ora agravante, e Petróleo Brasileiro S/A (Petrobrás) a se absterem de cobrar as contribuições extraordinárias do Plano de Equacionamento do DeficitTécnico (PED) de 2015 do Plano Petros do Sistema Petrobrás(PPSP).
+Ressalte-se que foi julgado, na sessão realizada em 21/05/2019, o Agravo de Instrumento nº.8012482-96.2018.8.05.0000, impetrado pela FUNDAÇÃO PETROBRAS DE SEGURIDADE SOCIAL -PETROS-, mantendo a decisão ora impugnada.
+Com efeito, o artigo 300, caput e §3º do CPC dispõe que "a tutela de urgência será concedida quando houver elementos que evidenciem a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo", e "não será concedida quando houver perigo de irreversibilidade dos efeitos da decisão".
+No caso, os fundamentos lançados no recurso não se afiguram suficientes a descaracterizar a presença dos referidos requisitos reconhecidos pelo Juízo a quo.
+Cumpre-se, inicialmente, esclarecer que o artigo 21 da Lei Complementar estabelece a possibilidade de instituição de contribuições extraordinárias, a fim de equacionar resultado deficitário e manter o equilíbrio atuarial de plano de previdência complementar de entidade fechada, in verbis: ( )
+Além disso, o Superior Tribunal de Justiça possui entendimento de que não há direito adquirido a regime de custeio da previdência privada de entidade fechada, de modo que pode haver alteração para fins de equacionamento de resultado deficitário sempre que ocorrerem situações que o recomendem ou exijam, observados os requisitos legais.
+( )
+Diante de tais questionamentos, há indícios de que os participantes e assistidos podem ter sido responsabilizados por contribuições extraordinárias acima do valor necessário, comprometendo sobremaneira o orçamentos familiar, como no caso sob exame, em que a agravada sofreu o desconto de R$ 2.152,49 (dois mil, cento e cinquenta e dois reais e quarenta e nove centavos), o que configura o risco de dano inverso.
+Essas ponderações foram feitas com base em fatos e provas, atraindo a aplicação da Súmula 7/STJ. Como se extrai dessas conclusões em confronto com a argumentação da Petros, a agravante busca efetivamente a reanálise fática, e não sua mera qualificação jurídica.
+Nesse contexto, não é cabível o presente recurso, conforme a Súmula 735/STF, aplicada por analogia:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE DIVERGÊNCIA INDEFERIDOS LIMINARMENTE. SÚMULA 315/STJ. INAPLICABILIDADE. AUSÊNCIA DE SIMILITUDE FÁTICA ENTRE OS ARESTOS EM CONFRONTO. SÚMULA 168/STJ. AGRAVO INTERNO PARCIALMENTE PROVIDO.
+I - Trata-se de agravo interno interposto contra decisão monocrática de indeferimento liminar dos embargos de divergência, diante da aplicação das Súmulas 315/STJ e ausência de similitude fática entre o acórdão embargado e os julgados paradigmas.
+II - Inaplicabilidade da Súmula 315/STJ, haja vista que esta Corte adentrou o mérito do recurso especial.
+III - Em regra, não é possível recurso de embargos de divergência quando se tratar de exame sobre violação ao artigo 489 do CPC, em virtude das peculiaridades de cada caso concreto.
+IV - A jurisprudência do Superior Tribunal de Justiça de acordo com o disposto sumula 735 do STF ("Não cabe recurso extraordinário contra acórdão que defere medida liminar"), entende que, via de regra, não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, pois "é sabido que as medidas liminares de natureza cautelar ou antecipatória são conferidas à base de cognição sumária e de juízo de mera verossimilhança. Por não representarem pronunciamento definitivo, mas provisório, a respeito do direito afirmado na demanda, são medidas, nesse aspecto, sujeitas à modificação a qualquer tempo, devendo ser confirmadas ou revogadas pela sentença final. Em razão da natureza precária da decisão, em regra, não possuem o condão de ensejara violação da legislação federal" (AgRg no REsp n. 1.159.745/DF, Segunda Turma, Min. Humberto Martins, DJe de 21/05/2010). Agravo interno parcialmente provido.(AgInt nos EAREsp 1.517.299/SP, relator Ministro Felix Fischer, Corte Especial, julgado em 16/12/2020, DJe 18/12/2020)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. ALIENAÇÃO FIDUCIÁRIA DE COMMODITIES AGRÍCOLAS. BUSCA E APREENSÃO. INDEFERIMENTO. BENS ESSENCIAIS À ATIVIDADE EMPRESARIAL. VIOLAÇÃO DO ART. 1.022, II, DO CPC/2015. ALEGAÇÃO GENÉRICA. SÚMULA N. 284 DO STF. REQUISITOS DO ART. 300 DO CPC/2015. REEXAME. SÚMULA N. 7 DO STJ. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83 DO STJ. DECISÃO MANTIDA.
+(..)
+2. A análise dos requisitos previstos no art. 300 do CPC/2015 é inviável em recurso especial, consoante o disposto na Súmula n. 7 do STJ, por demandar o reexame do contexto fático-probatório dos autos.
+3. Inadmissível o recurso especial quando o entendimento adotado pelo Tribunal de origem coincide com a jurisprudência do STJ (Súmula n. 83 do STJ).
+4. Devem ser mantidos na empresa recuperanda os bens essenciais ao desenvolvimento das atividades econômico-produtivas. Precedentes.
+5. Agravo interno a que se nega provimento. (AgInt no AREsp 1.499.527/PE, relatorMinistro Antonio Carlos Ferreira, Quarta Turma,julgado em 22/6/2020, DJe 26/6/2020)
+Diante do exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de embargos manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
