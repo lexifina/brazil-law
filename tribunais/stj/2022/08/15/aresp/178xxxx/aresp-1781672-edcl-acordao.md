@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 09/08/2022 a 15/08/2022, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se  de  embargos  de  declaração  opostos  por  SIGEYUKI ISHII ao  acórdão  assim ementado:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. LIQUIDAÇÃO DE SENTENÇA. PARCERIA PECUÁRIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. COISA JULGADA. SÚMULA Nº 7/STJ. LIQUIDAÇÃO. CUNHO LITIGIOSO. HONORÁRIOS ADVOCATÍCIOS. CABIMENTO.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. Na hipótese, rever o entendimento das instâncias ordinárias acerca da ventilada violação da coisa julgada demandaria a incursão nos fatos e nas provas dos autos por esta Corte, providência vedada em recurso especial pela incidência da Súmula nº 7/STJ.
+4. É possível a fixação de honorários advocatícios, em caráter excepcional, nos casos em que a fase de liquidação de sentença assumir nítido cunho litigioso. Precedentes.
+5. Agravo interno não provido."
+Em suas razões, o embargante, em síntese, sustentaque adecisão combatida é omissa no tocante àaplicação da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 e àmajoração doshonorários advocatícios sucumbenciais por força do art. 85, § 11, doCPC/2015.
+É  o  relatório.
+EMENTA
+
+EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  DECISÃO  AGRAVADA.  IMPUGNAÇÃO.  AUSÊNCIA.  ART.  932,  III,  DO  CPC/2015.  OMISSÃO,  CONTRADIÇÃO  OU  OBSCURIDADE.  NÃO  CONFIGURAÇÃO.
+1.  Inexistindo  no  acórdão  embargado  omissão,  contradição,  obscuridade  ou  erro  material,  não  merecem  ser  acolhidos  os  aclaratórios  que  revelam  o  mero  inconformismo  da  parte  com  as  conclusões  do  julgado.
+2.  Embargos  de  declaração  rejeitados.
+VOTO
+Não  prospera  a  inconformidade  veiculada  nos  presentes  aclaratórios.
+O  acórdão  embargado  não  padece  de  nenhum  dos  vícios  ensejadores  dos  declaratórios  enumerados  no  artigo  1.022  do  Código  de  Processo  Civil  de  2015:  obscuridade,  contradição,  omissão  ou  erro  material.
+De início, quanto à pretensão de incidência da multa prevista no art.1.021, § 4º, do CPC/2015, trata-se de verdadeira inovação recursal.
+Além disso, no caso, não é cabívela majoração dos honoráriosrecursais, tendo em vista que o recurso especial ao qual se negou provimento é oriundo de acórdão proferido nojulgamento de agravo de instrumento, semfixação de honorários sucumbenciais,como consignado na decisão de fls. 236-238 (e-STJ).
+A propósito:
+"PROCESSO CIVIL. AGRAVO DE INSTRUMENTO. HONORÁRIOS SUCUMBENCIAIS RECURSAIS. MULTA POR EMBARGOS DE CARÁTER PROTELATÓRIO. RECURSO ESPECIAL. AGRAVO EM RECURSO ESPECIAL. ÓBICES DE ADMISSIBILIDADE. SÚMULAS N. 7 E N. 83 DO STJ. AGRAVO INTERNO. DECISÃO MANTIDA.
+I - Na origem, trata-se de agravo de instrumento interposto pela Fazenda do Estado de São Paulo, em 5/3/2018, contra decisão que, em impugnação ao cumprimento de sentença, determinou a aplicação do IPCA para fins de correção monetária e juros de mora correspondentes aos juros aplicáveis à caderneta de poupança, conforme decidido pelo STF no Tema n. 810 de Repercussão Geral. O Tribunal de Justiça do Estado de São Paulo negou provimento ao agravo. O recurso especial aponta violação dos arts. 1.026, § 2º e 85, §§ 1º, 7º e 11, ambos do CPC/2015, bem como divergência jurisprudencial sobre o tema relativo aos dispositivos violados.
+II - O argumento relativo à inaplicabilidade da Súmula n. 83 do STJ não prospera. No que concerne ao pleito de arbitramento dos honorários advocatícios no acórdão que julgou o agravo de instrumento, anoto que a orientação do STJ é no sentido de que "a majoração dos honorários advocatícios, a título de sucumbência recursal, pressupõe que tenha havido a fixação de honorários na instância a quo, ou seja, só é cabível nos feitos cm que for admissível a condenação cm honorários na instância a quo."(EDcl no Aglnt no AREsp 892.042/SC, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 2/2/2017, DJe 8/2/2017.)
+III - Ademais, não cabe a majoração de honorários recursais, com fundamento no art. 85, § 11, do CPC/2015, em recurso especial interposto contra acórdão de julgamento de agravo de instrumento que não ponha termo à demanda nem, portanto, fixe sucumbência na origem.Confira-se: AgInt no REsp 1.679.725/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 20/3/2018, DJe 27/3/2018.
+IV - Dessa forma, aplica-se, à espécie, o enunciado da Súmula n. 83/STJ: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida."Ressalte-se que o teor do referido enunciado aplica-se, inclusive, aos recursos especiais interpostos com fundamento na alínea a do permissivo constitucional.
+V - Também não prospera o argumento no sentido de que não seria necessário o reexame de fatos e provas, uma vez que não há informação nos autos se houve ou não fixação de honorários advocatícios na já mencionada decisão de impugnação ao cumprimento de sentença ora agravada, de modo que a análise de tal ponto demandaria, efetivamente, a análise dos elementos fático-probatórios constantes dos autos, o que é vedado no âmbito estreito do recurso especial. Incide, pois, na hipótese a Súmula n. 7/STJ.
+VI - Quanto à alegada divergência jurisprudencial, verifico que a incidência do óbice sumular n. 7/STJ impede o exame do dissídio, na medida em que falta identidade entre os paradigmas apresentados.Nesse sentido, destaco: EDcl no AgInt no AREsp 864.923/SC, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 22/3/2021, DJe 6/4/2021; AgInt no REsp 1.819.017/RO, relator Ministro Og Fernandes, Segunda Turma, julgado em 9/3/2021, DJe 22/3/2021.
+VII - Por fim, a Corte estadual, soberana no exame do acervo fático-probatório dos autos, entendeu pelo intuito protelatório dos embargos de declaração, razão pela qual a pretensão de afastamento da multa prevista no art. 1.026, § 2º, do CPC de 2015 encontra óbice na Súmula n. 7 desta Corte. Nesse sentido: AREsp 1.594.566/AL, relator Ministro Francisco Falcão, Segunda Turma, julgado em 2/2/2021, DJe 12/2/2021.
+VIII - Agravo interno improvido"(AgInt no AREsp 1.781.141/SP, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 07/12/2021, DJe 10/12/2021 - grifou-se).
+
+Nesse  contexto,  ausentes  quaisquer  dos  vícios  ensejadores  dos  aclaratórios,  afigura-se  patente  o  intuito  infringente  da  presente  irresignação,  que  objetiva  não  suprimir  a  omissão,  afastar  a  obscuridade  ou  eliminar  a  contradição,  mas,  sim,  reformar  o  julgado  por  via  inadequada.
+Nesse sentido:
+"EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  REQUISITOS  DO  ART.  1.022  E  INCISOS  DO  CPC  DE  2015.  OMISSÃO  NÃO  CONSTATADA.  EMBARGOS  DE  DECLARAÇÃO  REJEITADOS.
+1.  Depreende-se  do  artigo  1.022,  e  seus  incisos,  do  novo  Código  de  Processo  Civil  que  os  embargos  de  declaração  são  cabíveis  quando  constar,  na  decisão  recorrida,  obscuridade,  contradição,  omissão  em  ponto  sobre  o  qual  deveria  ter  se  pronunciado  o  julgador,  ou  até  mesmo  as  condutas  descritas  no  artigo  489,  parágrafo  1º,  que  configurariam  a  carência  de  fundamentação  válida.  Não  se  prestam  os  aclaratórios  ao  simples  reexame  de  questões  já  analisadas,  com  o  intuito  de  meramente  dar  efeito  modificativo  ao  recurso.
+2.  A  parte  embargante,  na  verdade,  deseja  a  rediscussão  da  matéria,  já  julgada  de  maneira  inequívoca.  Essa  pretensão  não  está  em  harmonia  com  a  natureza  e  a  função  dos  embargos  declaratórios  prevista  no  art.  1022  do  CPC.
+3.  Embargos  de  declara  ção  rejeitados"  (EDcl  no  AgInt  no  AREsp  874.797/SP,  Rel.  Ministro  LUIS  FELIPE  SALOMÃO,  QUARTA  TURMA,  julgado  em  4/8/2016,  DJe  9/8/2016).
+"PROCESSUAL  CIVIL.  EMBARGOS  DE  DECLARAÇÃO.  RECURSO  INTERPOSTO  SOB  A  ÉGIDE  DO  CPC/2015.OBSCURIDADE,  CONTRADIÇÃO,  OMISSÃO  OU  ERRO  MATERIAL.  INEXISTÊNCIA.  VIOLAÇÃO  DO  ART.  1.022  DO  CPC/2015.  NÃO  OCORRÊNCIA.
+1.  Rejeitam-se  os  embargos  declaratórios  quando,  no  acórdão  embargado,  não  há  nenhum  dos  vícios  previstos  no  art.  1.022  do  CPC/2015.
+2.  Embargos  de  declaração  rejeitados  com  aplicação  de  multa"  (EDcl  no  RCD  nos  EDcl  nos  EDcl  no  AgRg  no  AREsp  471.799/RJ,  Rel.  Ministro  JOÃO  OTÁVIO  DE  NORONHA,  TERCEIRA  TURMA,  julgado  em  18/8/2016,  DJe  24/8/2016).
+Ante  o  exposto,  rejeito  os  embargos  de  declaração.
+É  o  voto.
