@@ -1,0 +1,18 @@
+DECISÃO
+O JUÍZO FEDERAL DA 2ª VARA DE ARACAJU- SJ/SE suscita conflito de competência, em inquérito policial,diante do reconhecimento de incompetência efetivado pelo JUÍZO DE DIREITO DA 1ª VARA CRIMINAL DE ARACAJU- SE.
+A controvérsia estabelecida neste incidente processual se cinge a saber a competência (federal ou estadual) para a prática de atos jurisdicionais em investigação deflagrada pela suposta prática de furto qualificado de trilhos férreos pertencentes à extinta RFFSA (Rede Rodoviária Federal S/A), atualmente sob a gestão do Departamento Nacional de Infraestrutura de Transporte - DNIT, representado no Estado pela Superintendência Regional de Sergipe.
+Ouvido, manifestou-se o Ministério Público Federal pelo conhecimento do conflito para que seja declarado competente o Juízo de Direito da 1ª Vara Criminal de Aracaju- SE, ora suscitado (fls. 534-536).
+Decido.
+Embora a União seja titular do serviço público de transporte ferroviário interestadual, conforme disposição constitucional (art. 21, XII, "d"), verifica-se que, no caso, o furto se deu em trecho cuja exploração foi concedida à empresa privada (Ferrovia Centro Atlântica S.A.), responsável por "zelar pela integridade dos bens vinculados à concessão, conforme normas técnicas específicas, mantendo-os em perfeitas condições de funcionamento e conservação, até a sua transferência à concedente ou à nova Concessionária" (fl. 535).
+Evidentemente que tal concessão tem implicação na competência para a análise do feito, porquanto o interesse da União é indireto e, a fortiori, não repercute diretamente em bens ou serviços da União, devendo o suposto delito ser processado perante a Justiça estadual.Nesse sentido, em casos similares, já decidiu esta Corte:
+CONFLITO NEGATIVO DE COMPETÊNCIA. TENTATIVA DE FURTO DE BARRAS DE FERRO DE TRILHO DE TREM, COMETIDO, EM TESE, CONTRA EMPRESA CONCESSIONÁRIA DE SERVIÇO PÚBLICO. INEXISTÊNCIA DE PREJUÍZO A BENS OU INTERESSES DA UNIÃO. COMPETÊNCIA DA JUSTIÇA Estadual.
+1. Na hipótese de concessão de serviço público, os bens pertencem à própria empresa concessionária, que explora o serviço em nome próprio, cabendo à União apenas regular e fiscalizar a respectiva prestação.
+2. Portanto, compete à Justiça Estadual processar e julgar o crime de tentativa de furto cometido contra a América Latina Logística S.A. - ALL, empresa privada concessionária de serviço público, haja vista a inexistência de prejuízo a bens ou interesses da União. Precedentes do STJ.
+3. Conflito conhecido para declarar competente o Juízo de Direito de Pitangueiras/SP, o suscitante.
+(CC n. 127.417/SP, Rel. Ministra Alderita Ramos de Oliveira - Desembargadora convocada do TJ/PE, 3ª S; DJe 29/5/2013).
+PENAL. CONFLITO DE COMPETÊNCIA. CRIME DE FURTO DE TRILHOS. EMPRESA FERROVIÁRIA. CONCESSIONÁRIA DE SERVIÇO PÚBLICO. INTERESSE DA UNIÃO. NÃO EXISTÊNCIA. PREJUÍZO SUPORTADO PELA EMPRESA PRIVADA. COMPETÊNCIA DA JUSTIÇA ESTADUAL.
+1. Compete à Justiça Estadual processar e julgar ação penal instaurada em decorrência de furto de bens pertences à sociedade anônima concessionária de serviço público, porquanto o ato não foi praticado "em detrimento de bens, serviços ou interesse da União ou de suas entidades autárquicas ou empresas públicas" (CR, art. 109, inc. IV).
+2. Conflito conhecido para declarar a competência do Juízo de Direito da Comarca de Silvânia/GO, ora suscitado.
+(CC n. 122.518/GO, Rel. Ministro Newton Trisotto - Desembargador convocado do TJ/SC, 3ª S, DJe 16/12/2014).
+À vista do exposto, conheço do conflito para declarar competente o Juízo de Direito da 1ª Vara Criminal de Aracaju - SE, ora suscitado
+Publique-se. Dê-se ciência aos Juízos suscitante e suscitado.
