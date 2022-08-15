@@ -1,0 +1,62 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 09/08/2022 a 15/08/2022, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+RICARDO MANNE (RICARDO) promoveu ação de rompimento contratual cumulada com restituição de valores pagos contra CAIXA CONSÓRCIOS S.A. ADMINISTRADORA DE CONSÓRCIOS (CAIXA), narrando que, aos 26/6/2015, firmou com ela contrato de adesão a grupo de consórcio nº 1011, cota nº 492, com crédito de R$ 700.000,00 (setecentos mil reais). Explicou que havia 1.000 (mil) participantes e que a duração do consórcio seria de 196 (cento e noventa e seis) meses. Alegou que, em dezembro de 2017, teve um mal súbito em sua vista esquerda, o que causou seu afastamento do exercício de sua profissão, impossibilitando-o de arcar com os pagamentos do contrato. Sustentou que, por ser o responsável pelo sustento de sua família, notificou a CAIXA cientificando-a de sua intenção de romper o contrato de consórcio, requerendo a restituição da quantia paga, mas não recebeunenhuma resposta dela. Requereu, assim, a procedência dos pedidos.
+Em primeira instância, o pedido foi julgado improcedente. Na ocasião, RICARDO foi condenado ao pagamento das custas e despesas processuais e dos honorários advocatícios fixados em 10% sobre o valor atualizado da causa.
+A apelação interpostapor RICARDO não foiprovidapelo Tribunal de Justiça de Minas Gerais, nos termos do acórdão assim ementado:
+EMENTA: APELAÇÃO - GRUPO DECONSÓRCIO - DESISTÊNCIA DO CONSORCIADO - DEVOLUÇÃO PARCELAS PAGAS - MOMENTO ADEQUADO. O consorciado desistente ou excluído tem direito à restituição das parcelas pagas ao consórcio após encerramento do grupo. (REsp 1.119.300/RS).
+VV. A relação havida entre o consorciado e a administradora possui natureza de consumo, figurando esta última como típica fornecedora de serviços, consoante disciplinam os artigos 2º e 3º do CDC.É nula a cláusula contratual que determina a devolução de valores pagos por consorciado desistente apenas após o término do consórcio, na medida em que coloca o consumidor numa posição de desvantagem exagerada, proporcionando um desequilíbrio contratual que acaba ferindo os princípios da equidade e da função social do contrato (e-STJ, fl. 328).
+Os embargos de declaração opostos por RICARDO foram rejeitados.
+Inconformado, RICARDOmanejourecurso especial, com amparo no art. 105, III, alíneaa, da CF, alegando violação dos arts. 489 e 1.022, I e II, do NCPC. Sustentouque o aresto recorrido foi omisso, porque os contratos de consórcio entabulados após o ano de 2009 têm regime diferente, ocorrendo a exclusão e a devolução dos valores pagos de forma imediata.
+O apelo nobre interposto por RICARDOnão foi admitido em virtude da ausência de afronta ao art. 1.022 do NCPC.
+Seguiu-se o agravo em recurso especial, que, por decisão monocrática da relatoria do Ministro Presidente do STJ, não foi conhecido, com amparo nos arts. 21-E, V, e 253, parágrafo único, I, do RISTJ, porque não foram atacados especificamente os fundamentos da decisão de inadmissibilidade do apelo nobre.
+Nas razões do presente agravo interno, RICARDOalegouque(1)foi ferido o art. 5º, LV, da CF, pois o contraditório e a ampla defesa são assegurados aos litigantes e aos acusados em geral; (2) não é caso de incidência da Súmula nº 182 do STJ, porque foram impugnados todos os fundamentos do mérito da controvérsia; e(3) é cabível a reapreciação da verba honorária fixada na decisão agravada.
+Houve impugnação ao recurso (e-STJ, fls. 416/425).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.RECURSO MANEJADO SOB A ÉGIDE DO NCPC.AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INOBSERVÂNCIA DO ART. 1.021, § 1º, DO NCPC E INCIDÊNCIA DA SÚMULA Nº 182 DO STJ.PLEITO DE ANÁLISE DE MATÉRIA CONSTITUCIONAL. DESCABIMENTO.PRECEDENTES. AGRAVO NÃO CONHECIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. O agravo interno não infirmou as razões da decisão agravada, pois não refutou, de forma devida, a ausência de afronta ao art. 1.022 do NCPC, que levouao não conhecimento do apelo nobre manejado. Inobservância do art. 1.021, § 1º, do NCPC e aplicação da Súmula nº 182 do STJ.
+3. Consoante disposto no art. 105 da Carta Magna, o Superior Tribunal de Justiça não é competente para se manifestar sobre suposta violação de dispositivo constitucional, nem mesmo a título de prequestionamento.
+4.Agravo interno não conhecido.
+VOTO
+O recurso não merece conhecimento.
+De plano, vale pontuar que o presente agravo interno foi interposto contra decisão publicada na vigência do novo Código de Processo Civil, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Incide ao caso a Súmula nº 182 do STJ.
+O agravo interno não impugnou as razões da decisão agravada, na medida em que não infirmou a ausência de afronta ao art. 1.022 do NCPC.
+Isso porque, nas razões do presente agravo interno, RICARDOlimitou-se a alegar que (1)foi ferido o art. 5º, LV, da CF, pois o contraditório e a ampla defesa são assegurados aos litigantes e aos acusados em geral; (2) não é caso de incidência da Súmula nº 182 do STJ, porque foram impugnados todos os fundamentos do mérito da controvérsia; e, (3) é cabível a reapreciação da verba honorária fixada na decisão agravada.
+Na hipótese, RICARDO olvidou-se de infirmar oóbiceapontado, tendo apenas afirmado violação ao art. 5º, LV, da CF e que foram infirmados os fundamentos do mérito da controvérsia.o que acarreta a aplicação da Súmula nº 182 do STJ, pois não foram impugnados todos os fundamentos da decisão de inadmissibilidade do apelo nobre.
+Vale pontuar que o art. 1.021, § 1º, do NCPC determina que,na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada,o que, como visto, não foi observado no presente caso.
+Ademais, em obediência ao princípio da dialeticidade, exige-se da parte agravante o desenvolvimento de argumentação capaz de demonstrar a incorreção dos motivos nos quais se fundou a decisão agravada, técnica ausente nas razões dessa irresignação, a atrair a incidência da Súmula nº 182 desta Corte, do seguinte teor:É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.
+Conforme já decidiu o STJ:
+À luz do princípio da dialeticidade, que norteia os recursos, deve a parte recorrente impugnar todos os fundamentos suficientes para manter o acórdão recorrido, de maneira a demonstrar que o julgamento proferido pelo Tribunal de origem merece ser modificado, ou seja, não basta que faça alegações genéricas em sentido contrário às afirmações do julgado contra o qual se insurge.
+(AgRg no Ag 1.056.913/SP, Rel. Ministra ELIANA CALMON, Segunda Turma, DJe 26/11/2008)
+Nesse sentido, a Corte Especial, aos 19/9/2018, ao apreciar os EAREsp 746.775/PR, Rel. p/acórdão MINISTRO LUÍS FELIPE SALOMÃO, concluiu que a aplicação da Súmula nº 182 do STJ permanece incólume, aplicada aqui por analogia, pois cabe à parte impugnar, de forma específica, todos os fundamentos da decisão que inadmite o recurso especial.
+Segundo o entendimento exarado em voto pelo MINISTRO LUÍS FELIPE SALOMÃO, existem regras, tanto no Código de Processo Civil de 1973 quanto no atual, que remetem às disposições mais recentes do Regimento Interno do STJ, no sentido da obrigatoriedade de impugnação de todos os fundamentos da decisão recorrida. Ademais, conforme o mesmo entendimento, existem conceitos doutrinários para justificar a impossibilidade de impugnação parcial da decisão de inadmissibilidade do recurso especial, na medida em que tal decisão é incindível e deve ser impugnada em sua integralidade.
+Além disso, foi também consignado pelo em. Ministro relator quea ausência de impugnação a algum dos fundamentos da decisão, que negou trânsito ao reclamo especial, imporia a esta Corte Superior o exame indevido de questões já atingidas pela preclusão consumativa, decorrente da inércia da parte agravante em insurgir-se no momento oportuno, por meio da simples inclusão dos pontos ausentes nas razões do agravo(EARESP 746.775/PR).
+Em igual sentido, vejam-se precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO QUE DEIXA DE IMPUGNAR ESPECIFICAMENTE OS FUNDAMENTOS DA DECISÃO ORA AGRAVADA. INOBSERVÂNCIA DO ART. 1.021, §1º, DO CPC E INCIDÊNCIA DA SÚMULA 182 DO STJ. RECURSO MANIFESTAMENTE INADMISSÍVEL. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CPC. AGRAVO NÃO CONHECIDO.
+1. Inexistindo impugnação específica, como seria de rigor, aos fundamentos da decisão ora agravada, essa circunstância obsta, por si só, a pretensão recursal, pois, à falta de contrariedade, permanecem incólumes os motivos expendidos pela decisão recorrida. Desse modo, no presente caso, resta caracterizada a inobservância ao disposto no art. 1.021, §1º, do CPC e a incidência da Súmula 182 do STJ.
+ ..
+3. Agravo interno não conhecido, com aplicação de multa.
+(AgInt no AREsp 825.386/SP, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, j. 19/5/2016, DJe 27/5/2016 - sem destaque no original)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182/STJ E DO ART. 932, III, DO CPC/2015.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+II - Razões de agravo interno que não impugnam especificamente os fundamentos da decisão agravada, o que, à luz do princípio da dialeticidade, constitui ônus do Agravante. Incidência da Súmula n. 182 do STJ e aplicação do art. 932, III, do CPC/2015.
+III - Agravo interno não conhecido.
+(AgInt no AREsp 884.901/SP, Rel. Ministra REGINA HELENA COSTA, Primeira Turma, j. 17/5/2016, DJe 27/5/2016 - sem destaque no original)
+Outrossim, RICARDOapontou violação doart. 5º,LV, da CF.
+No entanto, tal assertiva é tese natimorta.
+Nesse ponto, a jurisprudência deste Tribunal Superior expõe que não cabe a apreciação de suposta ofensa a matéria constitucional, ainda que para fins de prequestionamento, sob pena de invasão da competência do Supremo Tribunal Federal.
+Nesse sentido, veja-se o julgado:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. RECURSO RECEBIDO COMO AGRAVO REGIMENTAL. TEMPESTIVIDADE COMPROVADA. AUSÊNCIA DE PREQUESTIONAMENTO. MATÉRIA CONSTITUCIONAL.
+ ..
+3. Aplicam-se os óbices previstos nas Súmulas n. 282 e 356/STF quando as questões suscitadas no recurso especial não tenham sido debatidas no acórdão recorrido nem, a respeito, tenham sido opostos embargos declaratórios.
+4. O recurso especial não é sede própria para o exame de matéria constitucional.
+5. Embargos de declaração recebidos como agravo regimental, doqual se conhece para negar-lhe provimento.
+(EDcl no AREsp 168.842/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Terceira Turma, j. 16/9/2014, DJe 22/9/2014 - sem destaque no original)
+Por derradeiro, os honorários advocatícios foram fixados nessa fase recursal, conforme o comando do art. 85, §§ 2º e 11, do NCPC.
+Assim, porque os argumentos que RICARDOtrouxenão atacaram o fundamento da decisão agravada, fica prejudicada sua análise em virtude da não admissão do recurso em razão da incidência da Súmula nº 182 desta Corte.
+Nessas condições, pelo meu voto,NÃO CONHEÇOdo agravo interno.
