@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 09/08/2022 a 15/08/2022, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Impedido o Sr. Ministro Marco Aurélio Bellizze.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):
+Cuida-se de agravo interno interposto por FUNDACAO CESP, contra decisão que negou provimento ao seurecurso especial.
+Ação:de obrigação de fazer ajuizada por MARISTELA SIQUEIRA E SILVA em face da recorrente, visando a cobertura de quimioterapia em regime ambulatorial, com o medicamento REGORAFENIBE através do PET-CT 29042020 para tratamento de neoplasia de cólon, em metástase.
+Sentença:julgou parcialmente procedente a demanda para condenar a recorrente no ressarcimento do valor gasto de forma particular pela recorrida para o custeio do tratamento.
+Acórdão:negou provimento à apelação da recorrente, nos termos da seguinte ementa:
+EMENTA: PLANO DE SAÚDE - PACIENTE ACOMETIDA DE NEOPLASIA MALIGNA DE CÓLON VEIOÀ ÓBITO NO CURSO DA DEMANDA- PRESCRIÇÃO DO MEDICAMENTO REGORAFENIBE 40 MG, QUE É QUIMIOTERÁPICO- RECUSA INJUSTIFICADA, SOB O FUNDAMENTO DE QUE HÁ EXCLUSÃO CONTRATUAL PARA MEDICAMENTOS NÃO LISTADOS NO ROL DA ANS - INSTRUMENTO DE CONTRATO NÃO JUNTADO AOS AUTOS - ABUSIVIDADE - INTELIGÊNCIA DOS ARTS. 47 E 51, § 1º, II, DO CDC - A OBRIGAÇÃO DE A OPERADORA DAR COBERTURA À DOENÇA SE ESTENDE AO RESPECTIVO TRATAMENTO, AÍ INCLUÍDO O MEDICAMENTO PRESCRITO - TJSP, SÚMULA 102-REEMBOLSO DE DESPESAS DEVIDO- SENTENÇA MANTIDA - RECURSO DESPROVIDO.
+Embargos de declaração:opostos pela recorrente, foram rejeitados.
+Recurso Especial:alega violação dos arts. 10, parágrafos 3º e 4º, 12, VI, da Lei 9656/98 e 422 do CC, bem como dissídio jurisprudencial. Defende que é legítima a recusa de cobertura de medicamentos não previstos no rol de coberturas obrigatórias editado pela ANS, que teria natureza taxativa, ou ainda, no contrato, mormente em se considerando que a operadora de plano de saúde se trata de entidade de autogestão.
+Decisão unipessoal: negou provimento ao recurso especial em virtude da incidência da Súmula 568/STJ quanto à obrigatoriedade de cobertura de tratamento de doença coberta pelo plano de saúde.
+Agravo interno: o agravante alega omissão quanto ao tema do limite do reembolso de despesa efetuada com o tratamento. Sustenta que há julgados quanto à natureza taxativa do Rol da ANS, sendo indevida a aplicação da Súmula 568/STJ. Defende a impossibilidade de cobertura de tratamento medicamentoso não previsto no referido rol.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NORECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE.FORNECIMENTO DE MEDICAMENTO ANTINEOPLÁSICO. OMISSÃO ALEGADA. RECURSO CABÍVEL DE EMBARGOS. FUNGIBILIDADE NÃO APLICÁVEL AO CASO CONCRETO. PRECLUSÃO.MEDICAMENTO REGISTRADO NA ANVISA. TRATAMENTO DE CÂNCER. RECUSA DE COBERTURA INDEVIDA.
+1. Ação de obrigação de fazer visando fornecimento de medicamento antineoplásico.
+2. A aplicação do princípio da fungibilidade requer, entre outros, a observância do prazo do recurso correto para a hipótese, o que não se observou no caso, sendo inviável o recebimento do recurso como embargos de declaração.
+3. Segundo a jurisprudência do STJ, "é abusiva a recusa da operadora do plano de saúde de custear a cobertura do medicamento registrado na ANVISA e prescrito pelo médico do paciente, ainda que se trate de fármaco off-label, ou utilizado em caráter experimental" (AgInt no AREsp 1.653.706/SP, Terceira Turma, julgado em 19/10/2020, DJe 26/10/2020; AgInt no AREsp 1.677.613/SP, Terceira Turma, julgado em 28/09/2020, DJe 07/10/2020; AgInt no REsp 1.680.415/CE, Quarta Turma, julgado em 31/08/2020, DJe 11/09/2020; AgInt no AREsp 1.536.948/SP, Quarta Turma, julgado em 25/05/2020, DJe 28/05/2020), especialmente na hipótese em que se mostra imprescindível à conservação da vida e saúde do beneficiário.
+4. Considera-se abusiva a negativa de cobertura de antineoplásicos orais. Precedentes.
+5. Agravo interno não provido.
+VOTO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):
+A despeito das alegações aduzidas neste recurso, percebe-se que a parte agravante não trouxe qualquer argumento novo capaz de ilidir o entendimento firmado na decisão ora agravada.
+De início, quanto à apontada omissão, tal ponto não pode ser conhecido, uma vez que o recurso cabível para a alegação deste vício são os embargos de declaração.
+Contudo, não há como se aplicar o princípio da fungibilidade para conhecer do presente recurso como embargos de declaração, uma vez que ausente um dos requisitos para sua aplicação, qual seja, a tempestividade do recurso.
+Desse modo, não conhecido o recurso quanto ao tema do reembolso, precluso este ponto.
+Quanto à matéria remanescente, tem-se que o acórdão recorrido está em harmonia com a jurisprudência desta Corte, no sentido de que "é abusiva a recusa da operadora do plano de saúde de custear a cobertura do medicamento registrado na ANVISA e prescrito pelo médico do paciente, ainda que se trate de fármaco off-label, ou utilizado em caráter experimental" (AgInt no AREsp 1.653.706/SP, Terceira Turma, julgado em 19/10/2020, DJe 26/10/2020; AgInt no AREsp 1.677.613/SP, Terceira Turma, julgado em 28/09/2020, DJe 07/10/2020; AgInt no REsp 1.680.415/CE, Quarta Turma, julgado em 31/08/2020, DJe 11/09/2020; AgInt no AREsp 1.536.948/SP, Quarta Turma, julgado em 25/05/2020, DJe 28/05/2020), especialmente porque, na hipótese, o medicamento se mostrava imprescindível à conservação da vida e saúde do beneficiário.
+Tem-se, após consulta ao bula"rio da Anvisa, que o medicamento Stirvaga (nome comercial do regorafenibe), obteve o devido registro em 28/12/2015 (Registro nº 170560108) (https://consultas.anvisa.gov.br/#/medicamentos/25351208761201462/), e é indicado para o tratamento de câncer de ovário, câncer de mama, adenocarcinoma de pâncreas e câncer colorretal (CCR) metastático que tenham sido previamente tratados com, ou não sejam considerados candidatos para, as terapias disponíveis, entre outros.
+No âmbito da Segunda Seção do STJ, o entendimento é de que há obrigatoriedade de fornecimento de medicamento antineoplásico oral, como se destaca dos seguintes precedentes: REsp 1.883.654/SP, 4ª Turma, DJe 02/08/2021; REsp 1.692.938/SP, 3ª Turma, DJe 04/05/2021; AgInt no REsp 1.911.407/SP, 3ª Turma, DJe 24/05/2021; AgInt no REsp 1.889.213/SP, 3ª Turma, DJe 29/10/2020.
+Registre-se, por relevante, que a Lei 14.307, de 03/03/2022, tornou obrigatória a cobertura de medicamentos antineoplásicos no âmbito da saúde suplementar, em conformidade com a prescrição médica, desde que os medicamentos utilizados estejam registrados no órgão federal responsável pela vigilância sanitária, com uso terapêutico aprovado para essas finalidades.
+Forte nessas razões, NEGO PROVIMENTO ao presente agravo interno no recurso especial.
