@@ -1,0 +1,79 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC/2015) interposto por CASA DOS FUNCIONÁRIOS DE MINAS contra decisão que negou seguimento a recurso especial, fundamentado no art. 105, inciso III, alínea "a", da Constituição Federal.
+O apelo extremo, a seu turno, desafia acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado (fls. 265 e-STJ):
+APELAÇÃO CÍVEL - AÇÃO DE COBRANÇA - SEGURO DE VIDA - PRELIMINAR - ILEGITIMIDADE PASSIVA - RELAÇÃO JURÍDICA EXISTENTE - REJEITAR - PRELIMINAR - FALTA DE INTERESSE DE AGIR - NECESSIDADE DE MANEJAR A AÇÃO - REJEITAR - CONTRATO DE SEGURO - PAGAMENTO DO PRÊMIO - COMPROVADO - INDENIZAÇÃO SECURITÁRIA - LEGÍTIMA EXPECTATIVA DE RECEBIMENTO-SEGURADORA NÃO INFORMADA - DESÍDIA DO ESTIPULANTE - RESPONSABILIDADE PELO PAGAMENTO - ENTENDIMENTO DO STJ - POSSIBILIDADE - VALOR DA INDENIZAÇÃO - PRESUNÇÃO DE MANUTENÇÃO DAS CONDIÇÕES ANTERIORES - MANTIDO.
+- Verifica-se a legitimidade para a causa (ativa ou passiva) em razão do ato jurídico realizado ou a ser praticado. Assim, são legitimas as partes em relação as quais a relação jurídica se afirma existir ou inexistir.
+- Há interesse de agir quando presentes a necessidade e a utilidade, também chamada de adequação, de se manejar a ação com o intuito de prevenir ameaça ou reprimir lesão a direito.
+- O contrato de seguro se prova pela exibição de documento que comprova o pagamento do respectivo prêmio.
+- Excepcionalmente, ante a desídia em não indicar qual a seguradora responsável, bem como a legítima expectativa do recebimento do valor pelo segurado, conforme o entendimento do STJ, impõe-se a responsabilização do estipulante pelo pagamento da indenização contratada.
+- Não existindo provas em contrário, deve-se presumir pela manutenção das condições contratadas, conforme constam no documento apresentado.
+Opostos embargos de declaração (fls. 341-348 e-STJ), esses foram rejeitados (fls. 394-397 e-STJ).
+Em suas razões de recurso especial (fls. 424-440 e-STJ), a recorrente aponta que o acórdão recorrido violou os seguintes dispositivos legais:
+(i) artigos 489, § 1º, incs. III e IV, do Código de Processo Civil de 2015, sustentando a existência de omissão e negativa de prestação jurisdicional acerca da matéria suscitada nos embargos de declaração; e
+(ii) artigos 932, 944, parágrafo único, do Código Civil; 371 e 373 do Código de Processo Civil de 2015, aduzindo, em suma, que "é mera estipulante, responsável apenas pelos descontos efetuados nos contracheques dos segurados, os quais foram por estes autorizados e por repassar os prêmios à Seguradora, cujos valores a eles correspondem, não tendo, portanto, a obrigação legal de indenização o segurado" (fls. 429 e-STJ).
+Contrarrazões às fls. 452-464 e-STJ.
+Em sede de juízo provisório de admissibilidade (fls. 479-483 e-STJ), o Tribunal de origem inadmitiu o recurso especial, sob os seguintes fundamentos: a) inexistência de violação aos arts. 489 e 1.022 do CPC/15, eis que suficiente a fundamentação do acórdão recorrido; e b) incidência do óbice da Súmula 7/STJ.
+Daí o agravo (fls. 490-509 e-STJ), buscando destrancar o processamento daquela insurgência, no qual a parte insurgente refuta os óbices aplicados pela Corte estadual.
+Contraminuta às fls. 537-542 e-STJ.
+É o relatório.
+Decide-se.
+O presente recurso não merece prosperar.
+1. De início, no que diz respeito à alegada violação aos arts. 489 e 1.022 do CPC/15, observa-se que a parte recorrente alegou genericamente que o acórdão hostilizado os teria afrontado, sem, contudo, demonstrar de forma clara como o decisum teria incorrido em omissão ou ausência de fundamentação, o que atrai, por analogia, o óbice da Súmula 284 do STF.
+Dentre os vários precedentes a respeito, destaca-se: AgInt no AREsp 1200579/SC, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 10/04/2018, DJe 18/04/2018; e AgInt no AREsp 995.819/BA, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 21/02/2017, DJe 01/03/2017.
+Gize-se que não basta a mera indicação de (diversos) dispositivos legais que, em tese, não foram apreciados pela Corte local, sendo necessário demonstrar qual as teses omitidas, bem como sua relevância para o desdobramento da causa.
+Incidente, portanto, o óbice da Súmula 284/STF.
+2. No mérito, cinge-se a pretensão recursal à verificação acerca da legitimidade da estipulante do contrato de seguro de vida para figurar no pólo passivo de ação de cobrança de indenização securitária.
+Sobre o tema, a jurisprudência recente deste Superior Tribunal de Justiça evoluiu para entender que "a responsabilidade solidária entre a corretora e a seguradora ocorre em situações excepcionais, como nos casos de mau cumprimento das obrigações contratuais ou de criação nos segurados da legítima expectativa de serem eles os responsáveis por esse pagamento (teoria da aparência)" (AgInt no AREsp 1333196/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 27/11/2018, DJe 07/12/2018).
+Nesse mesmo sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. SEGURO DE AUTOMÓVEL. DEMANDA PROPOSTA CONTRA A ESTIPULANTE E A SEGURADORA. RESPONSABILIDADE SOLIDÁRIA. APLICAÇÃO DA TEORIA DA APARÊNCIA. SÚMULA 83/STJ. AGRAVO NÃO PROVIDO.
+1. Nos termos da jurisprudência desta Corte, o estipulante, via de regra, não é parte legítima para figurar no polo passivo da demanda que busca o pagamento da indenização securitária, ressalvados os casos em que seu comportamento leva o contratante a crer que é responsável pela cobertura (teoria da aparência), situação demonstrada na hipótese dos autos. Incidência da Súmula 83/STJ.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1616332/MG, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 11/05/2020, DJe 25/05/2020)
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE COBRANÇA. SEGURO DE VEÍCULO AUTOMOTOR. RECUSA DO PAGAMENTO DA INDENIZAÇÃO. CORRETORA. RESPONSABILIDADE SOLIDÁRIA. SITUAÇÃO EXCEPCIONAL NÃO VERIFICADA. ILEGITIMIDADE PASSIVA. PRECEDENTES. INCIDÊNCIA DA SÚMULA Nº 568 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Os efeitos da transação perfectibilizada entre BRADESCO e DIOGENES, e da qual a PROSEG não participou, não foi apreciada pelo Tribunal de Justiça do Distrito Federal e dos Territórios, o que impede a sua apreciação diretamente nesta Corte, por força do óbice da Súmula nº 282 do STF, por analogia.
+3. No caso, a questão concernente a definir se há responsabilidade da seguradora pelo pagamento da indenização securitária em solidariedade com a corretora é unicamente de direito e configura hipótese de violação direta dos dispositivos legais que disciplinam o instituto (art. 757 do CC/02 e 34 do CDC), razão pela qual é cabível o recurso especial, por qualquer uma das alíneas do permissivo constitucional.
+4. A jurisprudência desta Corte de Justiça firmou-se no sentido de que a responsabilidade solidária entre a corretora e a seguradora ocorre em situações excepcionais, como nos casos de mau cumprimento das obrigações contratuais ou de criação nos segurados da legítima expectativa de serem eles os responsáveis por esse pagamento (AgInt no AREsp 1.333.196/SP, Rel. Ministro RAUL ARAÚJO, Quarta Turma, julgado em 27/11/2018, DJe 7/12/2018).
+5. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo interno não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido.
+6. Agravo interno não provido.
+(AgInt nos EDcl no REsp 1823953/DF, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 19/10/2020, DJe 23/10/2020)  grifou-se
+AGRAVO INTERNO NO RECURSO ESPECIAL. SEGURO DE VIDA. DEVER DE INDENIZAR. INEXISTÊNCIA. CONTRATO. AUSÊNCIA. SEGURADORA. RISCO. RECUSA. PRAZO LEGAL. ART. 2º DA CIRCULAR SUSEP Nº 251/2004.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Cinge-se a controvérsia a definir se há responsabilidade da seguradora pelo pagamento da indenização securitária em solidariedade com a corretora.
+3. A responsabilidade solidária entre a corretora e a seguradora ocorre em situações excepcionais, como nas hipóteses de mau cumprimento das obrigações contratuais ou de criação nos segurados da legítima expectativa de serem eles os responsáveis por esse pagamento (teoria da aparência), sobretudo se integrarem o mesmo grupo econômico. Precedente.
+4. O contrato de seguro, para ser concluído, necessita passar, comumente, por duas fases: i) a da proposta, em que o segurado fornece as informações necessárias para o exame e a mensuração do risco, indispensável para a garantia do interesse segurável, e ii) a da recusa ou aceitação do negócio pela seguradora, ocasião em que emitirá, nessa última hipótese, a apólice. Precedente.
+5. No caso em apreço, a seguradora rejeitou a proposta de seguro dentro do prazo de 15 (quinze) dias, em conformidade com o art. 2º da Circular SUSEP nº 251/2004). 6. De acordo com o aresto impugnado, não houve comportamento abusivo ou ilegal da seguradora em não aceitar a cobertura do risco apresentado pelo falecido proponente.
+Assim, havendo expressa recusa na celebração do contrato, descabe o pagamento da indenização securitária.
+7. Agravo interno não provido.
+(AgInt no REsp 1729608/PR, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 29/04/2019, DJe 06/05/2019)  grifou-se
+PROCESSO CIVIL. AGRAVO INTERNO. RAZÕES QUE NÃO ENFRENTAM O FUNDAMENTO DA DECISÃO AGRAVADA. EMPRESA CORRETORA DE SEGUROS. RESPONSABILIZAÇÃO SOLIDÁRIA. IMPOSSIBILIDADE. AUSÊNCIA DE COMPROVAÇÃO DE MÁ PRESTAÇÃO DOS SERVIÇOS DE CORRETAGEM. TESE DO RECURSO ESPECIAL QUE DEMANDA REEXAME DE CONTEXTO FÁTICO E PROBATÓRIO DOS AUTOS. SÚMULA Nº 7/STJ.
+1. As razões do agravo interno não enfrentam adequadamente o fundamento da decisão agravada.
+2. Nos termos da jurisprudência deste Superior Tribunal de Justiça, embora a empresa corretora de seguros responda "pelos danos causados ao segurado em razão de eventual conduta culposa, isso não a torna solidariamente responsável pelo pagamento da própria indenização securitária." (REsp 1190772/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 19/10/2010, DJe 26/10/2010).
+3. A tese defendida no recurso especial demanda reexame do contexto fático e probatório dos autos, vedado pela Súmula nº 7/STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 390.093/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 04/04/2017, DJe 18/04/2017)  grifou-se
+No caso em tela, o Tribunal de origem, com base na análise dos elementos fáticos e probatórios dos autos, manteve a sentença condenatória, sob o fundamento essencial, de que, "no caso sub examine, como bem asseverado pelo juiz primevo, a apelante agiu com desídia, vez que apesar de oportunizado, não informou com qual seguradora mantinha contrato na época do óbito em questão. Vale dizer que a apelante, também, não fez qualquer prova no sentido de que não havia contrato vigente à época" (fls. 271 e-STJ).
+Confira-se, a propósito, afundamentação do acórdão recorrido (fls. 270-273 e-STJ):
+DO MÉRITO
+No mérito, alega a apelante que as provas carreadas aos autos não foram devidamente apreciadas, que evidenciam ser ela mera estipulante e, por consequência, não tem o dever de pagar a indenização estipulada.
+Noutro lado, a apelante afirma que não causou dano algum a apelada, o que também afasta qualquer responsabilidade civil de sua parte.
+Mais, afirma a apelante que a r. sentença recorrida afronta o princípio constitucional de não ser condenada sem expressa previsão legal, vez que é da seguradora a obrigação de pagar a indenização contratada.
+Vale-se do presente apelo para prequestionar a matéria em discussão para o caso de eventual necessidade de interposição de recursos para o STJ ou STF.
+Por fim, aduz que inexistindo prova nos autos quanto ao valor do capital segurado, não pode a r. sentença recorrida condená-la ao pagamento da importância de R$ 30.000,00 (trinta mil reais).
+Pois bem! Analisando o caderno processual, verifica-se que restou incontroversa a existência de um seguro de vida em grupo, cuja estipulante foi a apelante, que em momento algum negou o fato.
+Também comprova a existência do contrato de seguro o documento de fls. 10, bem como o demonstrativo mensal de pagamento do segurado, que traz em seu bojo referência ao pagamento do prêmio (fls. 14). (..).
+Incontroverso, também, o direito da apelada em receber a indenização securitária em decorrência do falecimento de seu marido, Jair Alves de Siqueira, ocorrido em 05106/20 14 (fls.08109), haja vista que o sinistro decorrente de morte natural figura entre as coberturas contratadas (fls. 10).
+Assim, cinge-se a controvérsia em decidir de quem a responsabilidade pelo pagamento da indenização pleiteada.
+É certo que o estipulante, em regra, não pode ser responsabilizado pelo pagamento da indenização securitária, haja vista participar da relação como mero mandatário do segurado, através da contratação do seguro e, também, efetuando os descontos nos pagamentos dos segurados, repassando-os para a seguradora contratada.
+Entretanto, no caso sub examine, como bem asseverado pelo juiz primevo, a apelante agiu com desídia, vez que apesar de oportunizado, não informou com qual seguradora mantinha contrato na época do óbito em questão. Vale dizer que a apelante, também, não fez qualquer prova no sentido de que não havia contrato vigente à época.
+Agindo dessa forma, a apelante não atendeu à justa expectativa da segurada quanto ao recebimento da indenização, causando a confusão em informar qual a seguradora responsável pelo pagamento da indenização.
+Destarte, a desídia da apelante impõe a sua responsabilização pelo pagamento da indenização buscada pela apelada, conforme entendimento do STJ, verbis: (..).
+Destarte, não tendo a apelante indicado qual a seguradora responsável pelo pagamento da indenização e, ante a legítima expectativa da apelada em receber o valor, aplica-se ao caso sub examine o entendimento esposado pelo STJ, acima citado, não tendo como prevalecer as razões recursais trazidas no presente apelo.
+Quanto ao valor fixado na r. sentença recorrida como sendo o da indenização a ser paga - R$ 30.000,00 (trinta mil reais) - também não há como afastá-lo.
+Isto porque não foi um valor aleatório, criado pelo juiz primevo. Como bem asseverado em sua fundamentação, não existindo provas em contrário, deve-se presumir pela manutenção das condições contratadas, conforme constam no documento juntado às fis. 10.  grifou-se
+Destarte, encontrando-se o acórdão recorrido em consonância com entendimento desta Corte Superior sobre o tema, aplica-se o óbice da Súmula 83/STJ.
+2.1. Ademais, eventual reforma do acórdão recorrido, sobretudo na parte relativa ao exame da responsabilidade da recorrente pelo pagamento da indenização securitária - demandaria o reexame das provas dos autos, juízo obstado pela Súmula 7 do STJ.
+Inviável, portanto, o provimento do recurso especial ante a incidência do óbice das Súmulas 7 e 83 do STJ.
+3. Do exposto, com fulcro no artigo 932 do NCPC c/c Súmula 568 do STJ, nega-se provimento ao agravo e, com base no art. 85, § 11, do CPC/2015, majora-se os honorários sucumbenciais em 10% (dez por cento), incidentes sobre o valor já arbitrado pela origem, em favor da parte recorrida
+Publique-se.
+Intimem-se.
