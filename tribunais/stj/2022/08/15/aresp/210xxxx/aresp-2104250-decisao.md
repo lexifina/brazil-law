@@ -1,0 +1,81 @@
+DECISÃO
+1. Cuida-se de agravo interposto por JGV EMPREENDIMENTOS IMOBILIÁRIOS LTDA contra decisão que não admitiu o seu recurso especial, por sua vez manejado em combate a acórdão proferido peloTRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado:
+PROMESSA DE COMPRA E VENDA. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. ATRASO NA ENTREGA DA OBRA. ALEGAÇÃO DE FORÇA MAIOR. ENTENDIMENTO DA SÚMULA 161 DO TJSP. RESPONSABILIDADE DA RÉ CONFIGURADA. DEVIDA A MULTA CONTRATUAL. FIXAÇÃO QUE DEVE CORRESPONDER AO MONTANTE PACTUADO NO CONTRATO, QUE NÃO SE MOSTRA EXCESSIVO. TERMO FINAL DO INADIMPLEMENTO QUE CORRESPONDE À DATA DE ENTREGA DAS CHAVES AO ADQUIRENTE. DANO MORAL CONFIGURADO. FIXAÇÃO ADEQUADA. TERMO INICIAL. DATA DA CITAÇÃO, CONFORME DETERMINADO PELA SENTENÇA. PARCIAL PROCEDÊNCIA MANTIDA. RECURSO IMPROVIDO.
+Nas razões do recurso especial, aponta a parte recorrenteofensa ao disposto nos arts.393,396,405 e 884, do CC, e 240, doCPC.
+Sustenta a existência de caso fortuito e força maior que exclui a responsabilidade pelos prejuízos; a inexistência de danos morais;a imputação dos juros desde o trânsito em julgado e não da citação.
+Contrarrazões ao recurso especial às fls. 310-314 e-STJ.
+É o relatório.
+DECIDO.
+2. A irresignação não prospera.
+3. Ao analisar a demanda, o Tribunal de origem reconheceu o inadimplemento da recorrente pelo atraso injustificado na entrega da unidade imobiliária, com a seguinte fundamentação (e-STJ Fl.272-273)
+Primeiramente, deve-se observar que a relação que vincula as partes é de consumo, o que a submete ao regime da Lei nº 8.078/90.
+Tem-se por inquestionáveis a existência da contratação e a ocorrência de atraso na conclusão da obra.
+A demandada sustenta que cumpriu rigorosamente as obrigações, apontando que "não há que se falar em caso fortuito interno, integrado ao risco da atividade, posto que, por óbvio, a requerida não poderia impedir o crescimento acelerado do mercado de consumo da construção civil e, tampouco, contribuiu para a escassez da mão de obra, que decorre da pequena capacidade do País de formação de profissionais para a atividade."(fls. 154).
+Porém, esse fato não tem qualquer relevância perante o autor, por se tratar de matéria estranha à esfera jurídica do consumidor. Todos esses fatores são previsíveis e inerentes ao negócio da fornecedora.
+Nesse sentido é a orientação da Súmula 161 deste Tribunal:
+"Não constitui hipótese de caso fortuito ou de força maior, a ocorrência de chuvas em excesso, falta de mão de obra, aquecimento do mercado, embargo do empreendimento ou, ainda, entraves administrativos. Essas justificativas encerram "res inter alios acta" em relação ao compromissário adquirente."
+Assim, é indiscutível a ocorrência de atraso injustificado e a consequente responsabilidade da demandada.
+E, uma vez estabelecida a culpa das rés pelo inadimplemento contratual, mostra-se perfeitamente possível a incidência de multa contratual.
+No presente caso, o acolhimento da pretensão recursal, para afastar a culpa da recorrentepelo atraso na entrega do imóvel, demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, o que é vedado em sede de recurso especial, nos termos do enunciado da Súmula 7 do STJ.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL. ATRASO INJUSTIFICADO NA ENTREGA DO BEM. SÚMULA 7 DO STJ. RESTITUIÇÃO INTEGRAL DAS PARCELAS PAGAS. SÚMULA 543 DO STJ. JUROS DE MORA. CITAÇÃO. DANOS MORAIS. OCORRÊNCIA. VALOR. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. No presente caso, o acolhimento da pretensão recursal, para afastar a culpa da construtora pelo atraso na entrega do imóvel, demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, o que é vedado em sede de recurso especial, nos termos do enunciado da Súmula 7 do STJ.
+2. O STJ possui firme o entendimento no sentido de que na hipótese de resolução de contrato de promessa de compra e venda de imóvel submetido ao Código de Defesa do Consumidor, deve ocorrer a imediata restituição das parcelas pagas pelo promitente comprador - integralmente, em caso de culpa exclusiva do promitente vendedor/construtor, ou parcialmente, caso tenha sido o comprador quem deu causa ao desfazimento" (Súmula 543/STJ).
+3. No caso de ilícito contratual, os juros de mora são devidos a partir da citação. Precedentes.
+4. No caso concreto, o Tribunal de origem concluiu que o atraso verificado provocou mais que mero dissabor, sendo devida a indenização por danos morais. Rever o entendimento do acórdão recorrido, ensejaria o reexame do conjunto fático-probatório da demanda, providência vedada em sede de recurso especial, ante a Súmula 7 do Superior Tribunal de Justiça.
+5. A revisão do quantum fixado a título de danos morais somente é permitida quando irrisório ou exorbitante o valor. Ausente tais circunstâncias, a análise encontra óbice na Súmula n. 7/STJ.
+6. Agravo interno não provido.
+(AgInt no AREsp n. 2.027.173/RJ, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 26/4/2022, DJe de 4/5/2022.)
+4. Tambémé pacífico o entendimento desta Corte de Justiça no sentido de que, no caso de ilícito contratual, os juros de mora são devidos a partir da citação.
+A propósito, confira:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. ATRASO NA ENTREGA DE IMÓVEL. LUCROS CESSANTES DEVIDOS. PRESUNÇÃO DE PREJUÍZO. DANO MORAL. ALEGAÇÃO DE INEXISTÊNCIA. DISPOSITIVOS LEGAIS INSUFICIENTES PARA FUNDAMENTAR A PRETENSÃO. SÚMULA Nº 284 DO STF. VALOR INDENIZATÓRIO QUE NÃO SE REVELA EXCESSIVO. JUROS DE MORA. TERMO INICIAL. RELAÇÃO CONTRATUAL. CITAÇÃO. SÚMULA Nº 568 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Consoante a jurisprudência desta Corte, a demora na entrega do imóvel na data previamente acordada resulta no dever de reparação por lucros cessantes pela não fruição do imóvel durante o tempo em que a vendedora permaneceu em mora, por presunção de prejuízo do promitente comprador. Precedentes.
+3. É deficiente a fundamentação do recurso especial quando há incompatibilidade entre a tese sustentada e o comando normativo contido no dispositivo legal apontado como descumprido. Incidência da Súmula nº 284 do STF.
+4. A orientação firmada no âmbito do STJ é de que os valores fixados a título de danos morais, porque arbitrados com fundamento no arcabouço fático-probatório constante dos autos, só podem ser alterados em hipóteses excepcionais, quando constatada nítida ofensa aos princípios da razoabilidade e da proporcionalidade, mostrando-se irrisória ou exorbitante, o que não ocorre na hipótese vertente.
+5. No caso de ilícito contratual, os juros de mora são devidos a partir da citação. Precedentes.
+6. Em razão da improcedência do presente recurso, e da anterior advertência em relação a incidência do NCPC, incide ao caso a multa prevista no art. 1.021, § 4º, do NCPC, no percentual de 3% sobre o valor atualizado da causa, ficando a interposição de qualquer outro recurso condicionada ao depósito da respectiva quantia, nos termos do § 5º daquele artigo de lei.
+7. Agravo interno não provido, com imposição de multa.
+(AgInt no REsp 1801537/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 30/09/2019, DJe 03/10/2019)
+____________
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. O TRIBUNAL DE ORIGEM CONCLUIU QUE FOI COMPROVADO O ATRASO NA ENTREGA DO IMÓVEL POR CULPA DA PROMITENTE-VENDEDORA. ALTERAÇÃO. INCIDÊNCIA DAS SÚMULAS 5 E 7 DO STJ. JUROS DE MORA. TERMO INICIAL. CITAÇÃO. AGRAVO INTERNO NÃO PROVIDO.
+1. O Tribunal de origem, com arrimo no acervo fático-probatório, concluiu que foi comprovado o atraso injustificado na entrega do imóvel por culpa exclusiva da promitente-vendedora. A pretensão de alterar tal entendimento demandaria o reexame do acervo fático-probatório e análise de cláusulas contratuais, o que é inviável em sede de recurso especial, conforme dispõem as Súmulas 7 e 5, ambas do STJ.
+2. Rejeitado o pedido de retenção de 25% (vinte e cinco por cento) dos valores pagos pelo consumidor, na medida em que a iterativa jurisprudência desta eg. Corte firmou-se pela devolução integral em caso de rescisão do contrato de promessa de compra e venda de imóvel por culpa exclusiva da promitente-vendedora, ora agravante.
+Incidência da Súmula 543/STJ.
+3. "A Corte local, ao fixar a data da citação como o termo inicial dos juros de mora incidentes sobre o valor das parcelas a serem restituídas, nos casos em que a rescisão do contrato foi causada exclusivamente pelo promitente vendedor, alinhou-se ao entendimento deste Superior Tribunal de Justiça" (AgInt no REsp 1.729.742/SE, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 15/05/2018, DJe de 28/05/2018).
+4. Agravo interno desprovido.
+(AgInt no AREsp 1477168/RS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 05/09/2019, DJe 26/09/2019)
+____________
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA. FORTUITO INTERNO. FALHA GEOLÓGICA NO TERRENO. RISCO INERENTE À ATIVIDADE. DANO MORAL. ATRASO EXPRESSIVO SUPERIOR A DOIS ANOS. EXISTÊNCIA DE CIRCUNSTÂNCIA EXCEPCIONAL. JUROS DE MORA. TERMO INICIAL. CITAÇÃO. AGRAVO INTERNO NÃO PROVIDO.
+1. O fortuito interno, fato imprevisível e inevitável ocorrido no momento da realização do serviço ou da fabricação do produto, como é o caso da alegada existência de falha geológica no terreno adquirido para a construção do empreendimento, não exclui a responsabilidade do fornecedor, porque relaciona-se com a atividade e aos riscos da atividade.
+2. O simples inadimplemento contratual em razão do atraso na entrega do imóvel não é capaz, por si só, de gerar dano moral indenizável, sendo necessária a comprovação de circunstâncias específicas que podem configurar a lesão extrapatrimonial. 3. Na hipótese, o atraso de mais de dois anos na entrega do imóvel supera o mero inadimplemento contratual, devendo ser mantida a indenização por danos morais. Precedentes.
+4. Os juros moratórios, nos casos de responsabilidade contratual, fluem a partir da data de citação. Precedentes.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 941.250/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 19/03/2019, DJe 29/03/2019)
+Portanto, o acórdão combatido encontra-se em harmonia com o entendimento desta Corte, o que atrai a aplicação da Súmula 83 do STJ.
+5. Por fim, a Corte de origem reconheceu a ocorrência de dano moral em virtude do atraso na entrega do imóvel, com a seguinte fundamentação (e-STJ Fl.275):
+Em relação aos danos morais, sabe-se que, em princípio, o simples inadimplemento do contrato não constitui motivo para gerar dano moral, pois é insuficiente para tanto a quebra da expectativa do cumprimento da avença. Entretanto, isso não ocorre no caso em exame, pois se constata que o demandante sofreu preocupações e transtornos desnecessários com a atitude da demandada que, evidentemente, ultrapassaram os limites do mero aborrecimento. Sujeitou-se, como não poderia deixar de ser, a todos os percalços relacionados à busca de solução para o problema. Há inegável caracterização de humilhação e sofrimento, que justificam plenamente reconhecer o direito à pretendida reparação.
+É inegável que o retardamento na entrega da obra constituiu causa de enorme transtorno, diante da particularidade da situação vivida pelo autor, que tinha a intenção de residir no local. O atraso havido fez com que fosse postergada a aquisição de imóvel próprio, o que leva ao reconhecimento de que efetivamente restou caracterizada a ocorrência de dano moral, considerando que não houve mero transtorno, mas uma situação muito mais grave, que constituiu verdadeiro sofrimento da alma, a justificar o acolhimento do pedido.
+Com efeito, a decisão acima está em conformidade com o entendimento desta Corte Superior de que, sendo descumprido o prazo para entrega do imóvel objeto do compromisso de compra e venda, pode ser cabível a condenação em danos morais, a exemplo dos seguintes precedentes:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. ATRASO EXPRESSIVO NA ENTREGA DO IMÓVEL. DANOS MORAIS. SÚMULA 7 DO STJ.
+1. Conforme a jurisprudência pacífica do STJ, o atraso expressivo na entrega de empreendimento imobiliário pode configurar dano ao patrimônio moral do contratante, circunstância que enseja a reparação.
+2. Rever o entendimento do acórdão recorrido, ensejaria o reexame do conjunto fático-probatório da demanda, providência vedada em sede de recurso especial, ante a Súmula 7 do Superior Tribunal de Justiça.3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1110797/SE, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 28/11/2017, DJe 04/12/2017)
+____________
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ATRASO NA ENTREGA DA OBRA. DANO MORAL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. A jurisprudência do STJ firmou-se no sentido de que o mero inadimplemento contratual não basta para ensejar dano moral indenizável. Precedentes.
+2. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+3. No caso concreto, o Tribunal de origem concluiu que o atraso verificado provocou mais que mero dissabor, sendo devida a indenização por danos morais. Alterar esse entendimento demandaria o reexame das provas produzidas nos autos, vedado em recurso especial.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp 1684875/RO, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 24/10/2017, DJe 30/10/2017)
+Aplicável, portanto, a Súmula 83 do STJ.
+5.1 Ademais, a alteração da premissa firmada pela instância ordinária de que o atraso na entrega do imóvel ultrapassou o mero dissabor, exige o revolvimento de suporte fático-probatório dos autos, o que é inviável na sede estreita do recurso especial, a teor do que dispõe a Súmula 7 do Superior Tribunal de Justiça.
+Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. INDENIZAÇÃO POR DANOS MORAIS. ATRASO NA ENTREGA DE IMÓVEL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULAS N. 5 E 7 DO STJ. DECISÃO MANTIDA.
+1. O recurso especial não comporta o exame de questões que impliquem incursão no contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7/STJ.
+2. No caso concreto, o Tribunal de origem analisou as provas dos autos para concluir pela existência de danos morais, decorrentes de longo atraso na entrega da unidade imobiliária. Alterar esse entendimento demandaria o reexame dos fatos que informaram a causa, vedado em recurso especial.
+3. Somente em hipóteses excepcionais, quando irrisório ou exorbitante o valor da indenização por danos morais arbitrado na origem, a jurisprudência desta Corte permite o afastamento do referido óbice, para possibilitar a revisão. Na hipótese em exame, o valor estabelecido pelo Tribunal de origem não se mostra excessivo, a justificar a reavaliação, na instância especial, da verba indenizatória fixada.
+4. Agravo interno a que se nega provimento.(AgInt no REsp 1692126/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 12/12/2017, DJe 19/12/2017)
+6. Ante o exposto, nego provimento ao agravo.
+Havendo nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
