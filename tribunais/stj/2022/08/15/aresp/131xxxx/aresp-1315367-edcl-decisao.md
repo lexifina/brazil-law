@@ -1,0 +1,11 @@
+DECISÃO
+MONZA DISTRIBUIDORA DE VEÍCULOS LTDAopõeembargos de declaração contra a decisão na qualnegueiprovimento ao agravo em recurso especial interposto por VITOR BASTOS PEREIRA (fls. 763-769).
+Afirmaa parteembarganteque, apesar do não provimento dapretensão do ora embargado, não foram fixadosos honorários advocatícios recursais, na hipótese dos autos.
+Acenaque "o autor/embargado foi condenado ao pagamento de honorários advocatícios sucumbenciais, vejamos trecho da decisão (e-STJ Fl. 700). (..).Descontente com os decisórios supracitados, o autor/embargado interpôs Recurso Especial (e-STJ Fl.703 e seguintes), o qual foi contrarrazoado pelaMonza (e-STJ Fl.711), onde foi pleiteado majoração dos honorários (e-STJ Fl.717, item III). (..).Em seguida, verifica-se que o Agravo em Recurso Especial do autor/embargado foi totalmente improcedente (e-STJ Fl.769), todavia, a decisão que julgou este recurso foi omissa sobre a majoração dos honorários advocatícios sucumbenciais em favor do advogado da empresa Monza, tornando necessário a interposição deste recurso" (fls. 780-781).
+Requer, assim, "seja acolhido, processado e julgado o presente embargo de declaração, e se necessário for, seja atribuído efeitos infringentes, para que seja sanado a omissão supracitada, a fim de majorar os honorários advocatícios sucumbenciais do patrono da empresa Monza, para a monta sugerida de 20%, considerando o acúmulo de serviço gerado pelos recursos frustrados do autor/embargado" (fl. 781).
+Intimadas, as partesembargadas não se manifestaram(certidões de fls. 787e 788).
+Razão assiste à parte embargante, pois há omissão em relação ao reflexo do não provimento ao agravo em recurso especial interposto pelo embargado.
+Verifico que o Tribunal estadual acolheu parcialmente os embargos para fixar os honorários advocatícios em 15% do valor da condenação em favor da parte ora embargante (fl. 700).
+Com o não provimento do agravo em recurso especial interposto pela parte ora embargada (fls. 763-769), há que se majorar os honorários advocatíciosrecursais no presente caso.
+Em face do exposto, acolho os embargos de declaração para,nos termos do art. 85, § 11, do Código de Processo Civil de 2015, majorar em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte embargante, observando-se os limites dos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
