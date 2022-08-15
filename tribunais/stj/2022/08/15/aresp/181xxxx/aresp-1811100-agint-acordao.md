@@ -1,0 +1,60 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 09/08/2022 a 15/08/2022, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO AGRAVADA. FUNDAMENTOS NÃO IMPUGNADOS. SÚMULA N. 182 DO STJ. INCIDÊNCIA.
+1. Não fere o princípio da colegialidade a decisão monocrática do relator que está amparada em jurisprudência desta Corte. Não se observa prejuízo à parte, uma vez que oportunizado o manejo do agravo interno para submeter o exame da questão ao órgão turmário.
+2. Nos termos do art. 1.021, § 1º, do CPC/2015, cabe à parte agravante, na minuta do seu agravo interno, impugnar especificamente os fundamentos da decisão combatida, o que, na hipótese, não foi atendido.
+3. Agravo interno não conhecido.
+RELATÓRIO
+Trata-se de agravo interno manejado contra decisão que conheceu do agravo e deu provimento ao recurso especial manejado por José Cláudio Reale.
+A agravante sustenta a impossibilidade de julgamento monocrático do recurso ao passo queafirma a inexistência de jurisprudência pacífica a respeito da responsabilidade da seguradora, quanto ao pleito indenizatório do seguro habitacional, após a liquidação do contrato.
+A parte agravada não ofereceu impugnação ao recurso.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO AGRAVADA. FUNDAMENTOS NÃO IMPUGNADOS. SÚMULA N. 182 DO STJ. INCIDÊNCIA.
+1. Não fere o princípio da colegialidade a decisão monocrática do relator que está amparada em jurisprudência desta Corte. Não se observa prejuízo à parte, uma vez que oportunizado o manejo do agravo interno para submeter o exame da questão ao órgão turmário.
+2. Nos termos do art. 1.021, § 1º, do CPC/2015, cabe à parte agravante, na minuta do seu agravo interno, impugnar especificamente os fundamentos da decisão combatida, o que, na hipótese, não foi atendido.
+3. Agravo interno não conhecido.
+VOTO
+De início,afasto a suscitada violação do princípio da colegialidade das decisões.
+De acordo com a jurisprudência do Superior Tribunal de Justiça, o relator pode, monocraticamente, decidir recurso especial quando houver jurisprudência sobre o tema, sem prejuízo de se conferir à parte a oportunidade de manejar o competente agravo interno para submeter o exame da questão ao órgão turmário.
+A propósito, vejam-se os seguintes precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL.VIOLAÇÃO AO PRINCÍPIO DA COLEGIALIDADE.
+NÃO OCORRÊNCIA. SÚMULA 568/STJ E ART. 253, PARÁGRAFO ÚNICO, II, B, DO RISTJ. RAZÕES QUE NÃO IMPUGNAM, ESPECIFICAMENTE, OS FUNDAMENTOS DA DECISÃO RECORRIDA. SÚMULA 182/STJ E ART. 1.021, § 1º, DO CPC/2015. AGRAVO INTERNO NÃO CONHECIDO.
+I. Agravo interno aviado contra decisão que julgara Recurso Especial interposto contra acórdão publicado na vigência do CPC/2015.
+II. A questão ora controvertida possui entendimento dominante nesta Corte, fato esse que autoriza a apreciação monocrática do apelo, nos termos da Súmula 568/STJ ("O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema") e do art. 253, parágrafo único, II, "b", do RISTJ.
+III. A decisão ora agravada conheceu, em parte, do Recurso Especial e negou-lhe provimento, por estar o acórdão recorrido em consonância com a jurisprudência do STJ e pela incidência das Súmulas 5 e 7/STJ.
+IV. O Agravo interno, porém, não impugna, especificamente, os fundamentos da decisão agravada, pelo que constituem óbices ao conhecimento do inconformismo a Súmula 182 desta Corte e o art. 1.021, § 1º, do CPC/2015. Nesse sentido: STJ, AgInt nos EDcl no AREsp 1.712.233/RJ, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 01/03/2021; AgInt no AREsp 1.745.481/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe de 01/03/2021; AgInt no AREsp 1.473.294/RN, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe de 22/06/2020; AgInt no AREsp 1.077.966/MG, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 17/10/2017; AgRg no AREsp 830.965/SP, Rel.Ministro ANTÔNIO SALDANHA PALHEIRO, SEXTA TURMA, DJe de 13/05/2016.
+V. Agravo interno não conhecido.
+(AgInt no REsp n. 1.949.054/RJ, relatora Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 9/11/2021, DJe de 12/11/2021).
+TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL.
+MANDADO DE SEGURANÇA. PIS. COFINS.APROVEITAMENTO DE CRÉDITOS. BENS INTEGRANTES DO ATIVO FIXO/IMOBILIZADO/PERMANENTE ADQUIRIDOS ANTERIORMENTE À ENTRADA EM VIGOR DOS REGIMES DE NÃO CUMULATIVIDADE. LEIS NS. 10.637/2002 E 10.833/2003.ENCARGOS DE DEPRECIAÇÃO E AMORTIZAÇÃO.MOMENTO DA APURAÇÃO. CREDITAMENTO.POSSIBILIDADE. SÚMULA 568/STJ.
+1. A jurisprudência assente do STJ é no sentido de que o aspecto temporal da hipótese de incidência dos créditos escriturais do PIS e da COFINS, previstos no art. 3º, VI, de ambas as Leis 10.637/2002 e 10.833/2003, ocorre no momento ("no mês") em que são apurados os encargos de depreciação e amortização, de modo que é legítimo o aproveitamento dos referidos créditos sobre aqueles bens que já se encontravam incorporados ao ativo fixo ou permanente, por ocasião do advento das Leis 10.637/2002 e 10.833/2003. Precedentes.
+2. Nos termos da Súmula 568/STJ, "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+3. Esta Corte Superior entende que eventual nulidade do julgamento singular, por falta de enquadramento nas hipóteses legais, fica superada em virtude da apreciação da matéria pelo órgão colegiado no julgamento do agravo interno, não havendo falar em ofensa ao princípio da colegialidade. Precedentes.
+4. Agravo interno não provido.
+(AgInt no REsp n. 1.216.134/RS, relator Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 3/11/2021, DJe de 5/11/2021).
+Quanto aos demais aspectos, de igual modo, mostra-se inviável o reclamo.
+Nos termos do art. 1.021, § 1º, do CPC/2015, cabe à parte agravante, na petição do seu agravo interno, impugnar especificamente os fundamentos da decisão combatida, o que, na hipótese dos autos, não foi atendido.
+Deveras, conforme salientado na decisão agravada, o acórdão do Tribunal local decidiu em confronto com o posicionamento desta Corte a respeito do tema trazido à baila do recurso especial do particular.
+Os argumentos trazidos pela agravante, todavia, olvidaram-se, flagrantemente, ao combate dos fundamentos da decisão impugnada, posto que adstrita a insurgência ao mero discurso genérico da falta de jurisprudência pacífica; sem ao menos apresentar julgados deste Superior Tribunal supervenientes ou contemporâneos aos precedentes utilizados na decisão agravada, de modo a demonstrar o dissenso arguido ou o fato de que a tese estaria superada.
+Incide na espécie o óbice da Súmula n. 182/STJ, a saber: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.".
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SÚMULAS 7/STJ E 284/STF. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO COMBATIDA. ART. 1.021, § 1º, DO CPC/2015. INCIDÊNCIA DA SÚMULA 182 DO STJ.
+1. Nos termos do art. 1.021, § 1º, do CPC/2015, cabe à parte agravante, na petição do seu agravo interno, impugnar especificamente os fundamentos da decisão combatida.
+2. A agravante não trouxe argumentação efetiva e direcionada a afastar as conclusões da decisão recorrida, demonstrando que seria desnecessária a análise de questões fático-probatórias para se chegar à conclusão diversa da que chegou o Tribunal de origem.
+3. Caberia à recorrente, a fim de atender o princípio da dialeticidade, infirmar o fundamento da decisão impugnada, pela qual, para afastar a incidência da Súmula 7/STJ, seria "imprescindível o cotejo entre o acórdão combatido e a argumentação trazida no recurso especial que pudesse justificar o afastamento do referido óbice processual".
+4. Não foi atacado o fundamento de incidência da Súmula 284/STF.
+5. Incidência da Súmula 182/STJ.
+6. Agravo interno não conhecido.
+(AgInt no AREsp n. 894.392/MS, de minha relatoria, SEGUNDA TURMA, julgado em 27/8/2019, DJe de 28/10/2019).
+PROCESSUAL CIVIL. ADMINISTRATIVO. INDENIZAÇÃO POR DANO MORAL E MATERIAL. NEGLIGÊNCIA DO ENTE PÚBLICO. PEDIDO PARCIALMENTE PROVIDO. AGRAVO INTERNO. AUSÊNCIA DE IMPUGNAÇÃO À FUNDAMENTAÇÃO. SÚMULA N. 182 DO STJ.
+I - Na origem, trata-se de ação de indenização por ato ilícito combinado com dano moral e dano material, movidos pelos agravados em face do Município de Caçapava do Sul ante a negligência no atendimento de vítima de acidente de trânsito, com o advento da morte do acidentado. Na sentença, julgou-se parcialmente procedente o pedido. No Tribunal a quo a sentença foi parcialmente reformada para reduzir o valor da indenização.
+II - Negou-se seguimento ao recurso especial com base nos óbices referentes à deficiência de fundamentação - Súmula n. 284/STF, à incidência da Súmula n. 211/STJ e à consonância do acórdão recorrido com a jurisprudência do STJ (quanto ao art. 932, parágrafo único, do CPC/15, quanto à feriado local e extensão do prazo recursal, quanto à verificação do feriado local no município em que protocolado o recurso e não no de origem e quanto à contagem do prazo recursal). Não se conheceu do agravo em recurso especial diante da falta de impugnação dos referidos óbices.A parte agravante, em seu agravo interno, não impugna esses fundamentos.
+III - É entendimento desta Corte que não se conhece do agravo interno que não impugna os fundamentos da decisão recorrida.Incidência do enunciado n. 182 da Súmula do STJ.
+IV - Agravo interno não conhecido.
+(AgInt no AREsp n. 1.393.781/RS, relator Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 7/5/2019, DJe de 13/5/2019).
+Ante o exposto, não conheço do agravo interno.
+É como voto.
