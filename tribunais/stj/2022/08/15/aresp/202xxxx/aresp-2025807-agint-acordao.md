@@ -1,0 +1,60 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 09/08/2022 a 15/08/2022, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+STELLA CATARINA KURY(STELLA) ajuizou ação revisional de contrato bancário contra BANCO RCIBRASIL (BANCO)pretendendo revisar as cláusulas abusivas do financiamento de veículo celebrado entre as partes.
+Em primeira instância, os pedidos foram julgados improcedentes(e-STJ, fls. 223/228).
+A apelação interposta por STELLAnão foi provida pelo Tribunal de Justiça de Mato Grosso nos termos do acórdão assim ementado:
+RECURSO DE AGRAVO REGIMENTAL - APELAÇÃO CÍVEL - AÇÃO REVISIONAL DECONTRATO - PROVA PERICIAL - DENECESSIDADE - CERCEAMENTO DE DEFESA -INOCORRÊNCIA - JUROS REMUNERATÓRIOS - ABUSIVIDADE NÃO EVIDENCIADA -CAPITALIZAÇÃO MENSAL DE JUROS - POSSIBILIDADE - TAXA EFETIVA ANUALSUPERIOR AO DUODÉCUPLO DA MENSAL - CONTRATAÇÃO CARACTERIZADA -INTELIGÊNCIA DA SÚMULA 541/STJ - RECURSO NÃO PROVIDO.É cediço que, ao Juiz, enquanto presidente do feito, compete aferir a conveniência da produçãode provas, sendo-lhe facultado, inclusive, o indeferimento da diligência quando não verificar, peloconjunto probatório, elementos que indiquem sua necessidade, a teor do disposto nos artigos 370e 371 do CPC. Em outras palavras, a produção da prova pericial somente deve ser deferida, quando fornecessária para a formação do convencimento do magistrado, cabendo a este indeferir as inúteispara o deslinde da controvérsia.Tratando-se de ação revisional, fundada em contrato em que os encargos se encontrampreviamente ajustados, o instrumento carreado aos autos é suficiente para aferir as bases donegócio, bem como a existência de eventuais ilegalidades dos encargos avençados; circunstânciaque possibilita o julgamento do processo, sem qualquer prejuízo às partes. Só se considera abusiva a taxa de juros remuneratórios se fixada no mínimo uma vez e meia(50%) acima da taxa média de mercado, posicionamento externado pelo STJ no julgamento doREsp. 1.061.530/RS. O fato de a taxa de juros anual ser superior ao duodécuplo da mensal caracteriza a contrataçãode juros mensalmente capitalizados.(e-STJ, fls. 334/335)
+Inconformada, STELLAmanejou recurso especial com fundamento no art. 105, III, a e c, da CF, alegando a violação dos arts. 464, § 2º, 535, 369 e 335do CPC, ao sustentar (1) a ocorrência de cerceamento de defesa, pois não foi produzida perícia contábil para comprovar a cobrança de encargos ilegais no período de normalidade, o que acarretaria o afastamento da mora;(2) que não houve pacto de capitalizaçãodiária e mensal de juros; e (3) a existência de dissídio jurisprudencial.
+Foi apresentada impugnação (e-STJ, fls. 398/406).
+O apelo nobre não foi admitido pelo Tribunal estadual em virtude de: (a) a matéria relativa aos juros remuneratórios já foi afetada pelos Temas nº 24 e nº 25;(b) a possibilidade ou não de capitalização dos juros já foi afetada pelos Temas nº 246 e nº 247 do STJ; e (c) o cerceamento de defesa configurado pela ausência de prova pericial demandaria o reexame de premissas fático-probatórias, atraindo a incidência da Súmula nº 7 do STJ.
+Seguiu-se o agravo em recurso especial interposto por STELLAque, em decisão proferida pelo Ministro Presidente desta Corte, não conheceu o agravo (e-STJ, fls. 693/696).
+Nas razões do presente agravo interno, STELLAbuscou a retratação da decisão, alegando queem nenhum momento deixou de impugnar a incidência da Súmula nº 7 do STJ; além de ter ocorridoo cerceamento de defesa, em decorrência da não produção daprova pericial.
+Não foi apresentada impugnação (e-STJ, fls. 617)
+É o relatório.
+DECIDO.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INOBSERVÂNCIA DO ART. 1.021, § 1º, DO NCPC E INCIDÊNCIA DA SÚMULA Nº 182 DO STJ. AGRAVO INTERNO NÃO CONHECIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. O agravo interno não infirmou as razões da decisão agravada, pois não refutou, de forma devida,o entendimento indicado no Enunciado77 aprovado na I Jornada de Direito Processual Civil do Conselho de Justiça Federal,que levou ao não conhecimento do agravo anteriormente manejado contra o não seguimento do especial articulado.Inobservância do art. 1.021, § 1º, do NCPC e aplicação da Súmula nº 182 do STJ.
+3. Agravo interno não conhecido.
+VOTO
+O recurso não merece conhecimento.
+De plano, vale pontuar que o presente agravo interno foi interposto contra decisão publicada na vigência do novo Código de Processo Civil, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Incide ao caso a Súmula nº 182 do STJ.
+O agravo interno não impugnou as razões da decisão agravada, na medida em que não infirmou o entendimento indicado no Enunciado77 aprovado na I Jornada de Direito Processual Civil do Conselho de Justiça Federal que estabelece o seguinte:
+Para impugnar decisão que obsta trânsito a recurso excepcional e que contenha simultaneamente fundamento relacionado à sistemática dos recursos repetitivos ou da repercussão geral (art. 1.030, I, do CPC) e fundamento relacionado à análise dos pressupostos de admissibilidade recursais (art. 1.030, V, do CPC), a parte sucumbente deve interpor, simultaneamente, agravo interno (art. 1.021 do CPC) caso queira impugnar a parte relativa aos recursos repetitivos ou repercussão geral e agravo em recurso especial/extraordinário (art. 1.042 do CPC) caso queira impugnar a parte relativa aos fundamentos de inadmissão por ausência dos pressupostos recursais.
+Isso porque, nas razões do presente agravo interno, STELLA se limitou a alegar (1) a ocorrência de cerceamento de defesa, pois não foi produzida a prova pericial para apuração das irregularidades cometidas no contrato bancário, violando os arts. 355, I, 369,370 e 873, I e II, do CPC; e (2) a inaplicabilidade da Súmula nº 7 do STJ, visto que não se cogita de revaloração dos fatos incontroversos.
+Vale pontuar que o art. 1.021, § 1º, do NCPC determina que, na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada, o que, como visto, não foi observado no presente caso.
+Ademais, em obediência ao princípio da dialeticidade, exige-se da parte agravante o desenvolvimento de argumentação capaz de demonstrar a incorreção dos motivos nos quais se fundou a decisão agravada, técnica ausente nas razões dessa irresignação, a atrair a incidência da Súmula nº 182 desta Corte, do seguinte teor: É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.
+Conforme já decidiu o STJ:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA QUE NÃO CONHECEU DO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. ALEGAÇÕES GENÉRICAS. DESOBEDIÊNCIA AO COMANDO DO ART. 1.021, § 1.º, DO CPC/15.
+VIOLAÇÃO AO PRINCÍPIO DA DIALETICIDADE RECURSAL. SÚMULA 182/STJ.
+MAJORAÇÃO DE HONORÁRIOS RECURSAIS NO JULGAMENTO DO AGRAVO DO ART. 1.042 DO CPC/15. CABIMENTO.
+AGRAVO INTERNO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO.
+(AgInt no AREsp n. 1.983.415/PR, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 16/5/2022, DJe de 19/5/2022.)
+Nesse sentido, a Corte Especial, aos 19/9/2018, ao apreciar os EAREsp 746.775/PR, Rel. p/acórdão MINISTRO LUÍS FELIPE SALOMÃO, concluiu que a aplicação da Súmula nº 182 do STJ permanece incólume, aplicada aqui por analogia, pois cabe à parte impugnar, de forma específica, todos os fundamentos da decisão que inadmite o recurso especial.
+Segundo o entendimento exarado em voto pelo MINISTRO LUÍS FELIPE SALOMÃO, existem regras, tanto no Código de Processo Civil de 1973 quanto no atual, que remetem às disposições mais recentes do Regimento Interno do STJ, no sentido da obrigatoriedade de impugnação de todos os fundamentos da decisão recorrida. Ademais, conforme o mesmo entendimento, existemconceitos doutrinários para justificar a impossibilidade de impugnação parcial da decisão de inadmissibilidade do recurso especial, na medida em que tal decisão é incindível e deve ser impugnada em sua integralidade.
+Além disso, foi também consignado pelo em. Ministro relator que a ausência de impugnação a algum dos fundamentos da decisão, que negou trânsito ao reclamo especial, imporia a esta Corte Superior o exame indevido de questões já atingidas pela preclusão consumativa, decorrente da inércia da parte agravante em insurgir-se no momento oportuno, por meio da simples inclusão dos pontos ausentes nas razões do agravo (EARESP 746.775/PR).
+Em igual sentido, vejam-se precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA C/C INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. RAZÕES DO AGRAVO QUE NÃO INFIRMAM OS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182 DO STJ.
+1. Ação de cobrança c/c indenização por danos morais e materiais.
+2. Não merece conhecimento o agravo em recurso especial que não impugna especificamente todos os fundamentos da decisão agravada.
+3. Agravo interno não provido.
+(AgInt no AREsp 1.568.942/PR, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, j. 4/5/2020, DJe 7/5/2020)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO RECORRIDA. INCIDÊNCIA DA SÚMULA N. 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA E DOS ARTIGOS 932, III, E 1.021, § 1º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. NÃO CONHECIDO. APLICAÇÃO DE MULTA. ARTIGO 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+ ..
+2. Constitui ônus da parte agravante a impugnação específica de todos os fundamentos da decisão agravada, à luz do princípio da dialeticidade. Incidência da Súmula n. 182 do Superior Tribunal de Justiça e aplicação dos artigos 932, III, e 1.021, § 1º, do Código de Processo Civil de 2015.
+ ..
+4. Agravo interno não conhecido.
+(AgInt no AREsp 1.476.609/SP, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, j. 11/2/2020, DJe 18/2/2020)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. FUNDAMENTOS DA DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO. ART. 1.021, § 1º, DO CPC/2015. SÚMULA Nº 182/STJ. GRATUIDADE DE JUSTIÇA. INDEFERIDA.
+1. Não pode ser conhecido o recurso que não infirma especificamente os fundamentos da decisão agravada, haja vista o disposto no art. 1.021, § 1º, do Código de Processo Civil de 2015. O conteúdo normativo do referido dispositivo legal já estava cristalizado no entendimento jurisprudencial do Superior Tribunal de Justiça na redação da Súmula nº 182/STJ.
+2. A concessão da gratuidade de justiça não eximiria o agravante dos ônus da sucumbência.
+3. Agravo interno não conhecido.
+(AgInt no AREsp 1.492.052/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. 10/2/2020, DJe 12/2/2020)
+Assim, porque os argumentos que STELLA trouxe não atacaram o fundamento da decisão agravada, fica prejudicada sua análise em virtude da não admissão do recurso em razão da incidência da Súmula nº 182 desta Corte.
+Nessas condições, pelo meu voto, NÃO CONHEÇO do agravo interno.
