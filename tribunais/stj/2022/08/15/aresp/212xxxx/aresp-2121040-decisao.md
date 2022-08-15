@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo interposto por ITAU UNIBANCO S.A. contra decisão que negou seguimento a recurso especial manejado em face de acórdão assim ementado (fls. 874/875):
+APELAÇÕES CÍVEIS. AÇÃO DE REVISÃO DE CÉDULAS DE CRÉDITO BANCÁRIO. SENTENÇA DE PARCIAL PROCEDÊNCIA. INSURGÊNCIA DE AMBAS AS PARTES.
+RECURSO DO AUTOR
+PRELIMINAR. CERCEAMENTO DE DEFESA PELO JULGAMENTO ANTECIPADO DA LIDE. NÃO OCORRÊNCIA. CONJUNTO PROBATÓRIO SUFICIENTE PARA O DESLINDE DO FEITO. PREFACIAL REJEITADA.
+JUROS REMUNERATÓRIOS. ENTENDIMENTO CONSOLIDADO NO STJ E NOS ENUNCIADOS DO GRUPO DE CÂMARAS DE DIREITO COMERCIAL DESTA CORTE NO SENTIDO DE QUE DEVE SER OBSERVADO O ÍNDICE ANUNCIADO PELO BACEN. LIMITE JURISPRUDENCIAL DE DEZ POR CENTO ACIMA DA MÉDIA DE MERCADO. EXCESSO EVIDENCIADO EM UM DOS CONTRATOS. ACOLHIMENTO PARCIAL. SENTENÇA REFORMADA NO PONTO.
+CAPITALIZAÇÃO DE JUROS. CONTRATOS FIRMADOS APÓS A MEDIDA PROVISÓRIA 1.963/2000. INCIDÊNCIA CONDICIONADA À PACTUAÇÃO. DICÇÃO DAS SÚMULAS 539 E 541 DO STJ. PREVISÃO NOS AJUSTES CELEBRADOS. POSSIBILIDADE DE APLICAÇÃO.
+DESCARACTERIZAÇÃO DA MORA. VIABILIDADE DIRECIONADA A APENAS UM PACTO. COBRANÇA ABUSIVA NOS ENCARGOS EXIGIDOS NO PERÍODO DA NORMALIDA DE CONTRATUAL. REFORMA PARCIAL NO TÓPICO.
+APELAÇÃO DO BANCO
+CÓDIGO DE DEFESA DO CONSUMIDOR. SÚMULA 297 DO STJ. APLICAÇÃO DA TEORIA FINALISTA MITIGADA. CONTRATOS DE ADESÃO. POSSIBILIDADE DE COMISSÃO DE PERMANÊNCIA. INCIDÊNCIA SUBORDINADA À CONTRATAÇÃO. PREVISÃO CONTRATUAL. COBRANÇA ESTABELECIDA PARA O PERÍODO DE INADIMPLEMENTO. VEDADA ACUMULAÇÃO COM OS DEMAIS ENCARGOS DE MORA. DECISÃO REFORMADA PARA PERMITIR A SUA APLICAÇÃO COMO ÚNICO ENCARGO MORATÓRIO, LIMITADO À SOMA DAS DEMAIS RUBRICAS REMUNERATÓRIAS E MORATÓRIAS PREVISTAS NOS CONTRATOS. ACOLHIMENTO EM PARTE DO RECLAMO.
+REPETIÇÃO DE INDÉBITO. DEVER DE PROMOVER A DEVOLUÇÃO DOS VALORES COBRADOS INDEVIDAMENTE NA FORMA SIMPLES. APLICAÇÃO DO INPC. CORREÇÃO MONETÁRIA A PARTIR DO EFETIVO DESEMBOLSO IRREGULAR COM JUROS A CONTAR DA DATA DA CITAÇÃO. DECISÃO MANTIDA. PEDIDO DE COMPENSAÇÃO CABÍVEL. ADEQUAÇÃO NECESSÁRIA. RECURSOS PROVIDOS PARCIALMENTE.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, o recorrenteaponta a violação dos arts. 1º e 4º, IX, da Lei 4.595/64; do art. 39, 51 e 52, II, do Código de Defesa do Consumidor, pois os juros remuneratórios incididos em um contrato de mútuo bancário só podem sofrer interferência do poder judiciário quando o percentual da taxa cobrada for muito superior à taxa média de juros divulgada pelo Banco Central.
+Afirma a negativa de vigência dos arts. 1º e 4º, IX, da Lei 4.595/64 e a Resolução nº 1064/85 do BACEN, pois compete ao Conselho Monetário Nacional (CMN) e BACEN a função de regulamentar as taxas de juros e outras formas de remuneração das operações bancárias e financeiras.
+Eaduza violação do art. 406 do Código Civil, sustentando que a taxa de juros moratórios a que se refere o referido dispositivo é a taxa referencial do Sistema Especial de Liquidação e Custódia - SELIC, afastando a aplicação de qualquer outro índice de atualização ou correção monetária.
+O recurso especial não foi admitido em virtude(i)do art. 543-C do CPC/73 no que se refere ao tema dos juros remuneratórios; e (ii) da impossibilidade de análise da violação relativa à aplicação da taxa Selic, uma vez que envolve aplicação de ato normativo não enquadrado como lei federal (Súmula 280 do STF).
+Neste agravo, o agravante afirma que não incide o óbice da Súmula 280 do STF e que pretende a correta aplicação do art. 406 do CC.
+Foi apresentado o agravo interno para impugnar a não admissão do recurso especial em virtude de julgamento sob o rito de recurso representativo da controvérsia, tendo o Tribunal de origem negado provimento ao recurso.
+Assim delimitada a controvérsia e ultrapassado o limite do conhecimento e provimento do presente agravo, passo ao julgamento do recurso especial.
+No mérito, orecorrente afirmaa violação do art. 406 do CC, sustentando que a taxa de juros moratórios a que se refere o referido dispositivo é a taxa referencial do Sistema Especial de Liquidação e Custódia - SELIC, afastando a aplicação de qualquer outro índice de atualização ou correção monetária.
+O Tribunal de origem consignou que(i) constatado que o consumidor realizou pagamento indevido, a instituição financeira deve promover a devolução dos valores de forma simples; e (ii) os valores deverão sofrer atualização de acordo com a tabela da Corregedoria-Geral da Justiça do Estado pelo INPC, a partir dos respectivos desembolsos, e juros de mora de 1% (um por cento) a partir da citação. Confira-se:
+A instituição financeira ponderou que não há qualquer valor a ser restituído, porém, em caso de entendimento contrário, requereu a aplicação da taxa Selic sobre a repetição de indébito. Ainda, pugnou pela possibilidade de compensação.
+Constatado que o consumidor realizou pagamento indevido, a instituição financeira deve promover a devolução dos valores em sua forma simples, em respeito ao princípio que veda o enriquecimento sem causa (art. 884 do CC). No entanto, a compensação é autorizada caso ambas as partes sejam credoras e devedoras da quantia discutida.
+Por outro lado, diferente do alegado no tocante ao indexador da correção monetária, os valores deverão sofrer atualização de acordo com a tabela da Corregedoria-Geral da Justiça deste Estado pelo INPC, a partir dos respectivos desembolsos, e juros de mora de 1% (um por cento) a partir da citação  ..  (fls. 882/883).
+Com isso, o acórdão recorrido contraria a jurisprudência desta Corte Superior, segundo a qual "A taxa de juros moratórios a que se refere o art. 406 do Código Civil de 2002 é a SELIC" (AgInt no REsp 1717052/AL, Rel. Ministro AntônioCarlos Ferreira, QuartaTurma, DJe 8/3/2019).
+No mesmo sentido, confira-se:
+AGRAVO INTERNO NOS EMBARGOS DE DECLRAÇÃO NO RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. AÇÃO REVISIONAL. CONTRATO DE ABERTURA DE CRÉDITO EM CONTA CORRENTE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. REGRA DE IMPUTAÇÃO DO PAGAMENTO. CABÍVEL. SALVO PREVISÃO CONTRATUAL. DOS LANÇAMENTOS INDEVIDOS. REVISÃO DO JULGADO. INCIDÊNCIA DOS ENUNCIADOS N.º 5 E 7/STJ. REPETIÇÃO EM DOBRO. PREQUESTIONAMENTO. AUSENTE. TAXA SELIC. APLICABILIDADE.
+ ..
+4. A jurisprudência do Superior Tribunal de Justiça flui no sentido de que, a partir da vigência do Novo Código Civil, os juros moratórios deverão observar a taxa que estiver em vigor para a mora do pagamento de impostos devidos à Fazenda Nacional conforme previsto no art. 406, do Código Civil.
+5. A taxa dos juros moratórios a que se refere o referido dispositivo é a taxa referencial do Sistema Especial de Liquidação e Custódia - SELIC.
+6. Não apresentação de argumentos novos capazes de infirmar os fundamentos que alicerçaram a decisão agravada.
+7. AGRAVO INTERNO CONHECIDO E DESPROVIDO.
+(AgInt nos EDcl no REsp n. 1.816.197/PR, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 14/3/2022, DJe de 18/3/2022.)
+AGRAVO INTERNO NO RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE DEU PARCIAL PROVIMENTO AO RECLAMO DA PARTE ADVERSA. INSURGÊNCIA DA PARTE AGRAVADA.
+1. Consoante a jurisprudência desta Corte Superior, "A taxa de juros moratórios a que se refere o art. 406 do Código Civil de 2002 é a SELIC" (AgInt no REsp 1717052/AL, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe 08/03/2019). 1.1. Segundo entendimento deste Tribunal Superior, a aplicação de juros e correção monetária pode ser alegada na instância ordinária a qualquer tempo, podendo, inclusive, ser conhecida de ofício, não caracterizando preclusão consumativa.
+2. Agravo interno desprovido.
+(AgInt no REsp n. 1.792.993/RJ, relator Ministro Marco Buzzi, Quarta Turma, julgado em 25/10/2021, DJe de 28/10/2021.)
+Assim, porque os fundamentos adotados pelo acórdão recorrido estão em dissonância com o entendimento firmado nesta Corte, deve ser ele reformado para que seja aplicada a taxa SELIC, vedada a acumulação com correção monetária.
+Em face do exposto, conheço do agravo e dou provimento ao recurso especial.
+Intimem-se.
