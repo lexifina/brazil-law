@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de Embargos de Declaração opostos à decisão (fls. 2.893-2.899-2.807-2.693, e-STJ) que deu parcial provimento ao Recurso Especial da Universidade Federal do Rio Grande do Sul a fim de declarar prescrita a obrigação de pagar quantia certa.
+Os embargantessustentam (fls. 2.926-2.927, e-STJ):
+Data máxima vênia, não obstante os judiciosos e cultos fundamentos postos na decisão proferida por Vossa Excelência, vê-se a parte autora obrigada a apresentar embargos declaratórios para a finalidade de esclarecer acerca dos honorários e evitar discussões futuras desnecessárias, vez que entende ter havido pequena omissão na decisão embargada.
+Desde logo de diz que os presentes declaratórios não pretendem alterar a decisão sobre a prescrição, mas tratam apenas dos honorários.
+A decisão proferida por Vossa Excelência deu provimento ao recurso especial da UFRGS para reconhecer a prescrição relativa à obrigação de pagar quantia certa. Desta decisão aparte autora apresentou declaratórios entendendo haver obscuridade quanto a dois pontos da r.decisão, quais sejam, a prescrição afastada em execução previa e necessidade de fixação dehonorários.
+A decisão ora embargada entendeu por manter a decisão que reconheceu a prescrição.Todavia, não houve pronunciamento quanto ao segundo ponto dos embargos declaratóriosinterpostos, notadamente quanto a necessidade de manifestação desta corte sobre os honorários.
+Assim, entende a parte autora que. neste caso especifico, houve pequena omissão e se faznecessária a manifestação de Vossa Excelência sobre a sucumbência. Isso porque, em casossemelhantes, a UFRGS propôs ação de fixação de honorários, gerando nova demanda para oJudiciário.
+Quanto a questão, desde já, requer que a fixação se dê nos termos do art. 20, §§ 3º e 4º do CPC/73, considerando a situação financeira das partes e a ausência de qualquer esforço adicional da UFRGS, que se limitou a copiar e colar sempre as mesmas alegações em todos os processos com o mesmo objeto, sem personalizar o processo em momento algum.
+Em casos idênticos, o Exmo. Sr. Ministro Gurgel de Farias, desta E. 1ª Turma, fixou a sucumbência a ser paga pelo(a) professor(a) no valor de R$ 1.000,00, como se pode ver dos EREsps 1.338.440, 1.343.217 e 1.343.500, certamente ponderando que os procuradores da UFRGS já são remunerados pelo exercício de suas funções. Todas as decisões referendadas pela Primeira Seção do STJ.
+Requer, ao final, "que sejam apreciados os presentes embargos declaratórios com largueza, para, caso entenda necessário, esclareça sobre os honorários sucumbenciais, fixando-os em R$1.000,00, por exeqüente, conforme posição das 1ª e 2ª Turmas do STJ em processos idênticos oriundos do mesmo título executivo, ressalvando a suspensão da condenação aos beneficiários da AJG" (fl. 2.928, e-STJ).
+Não houve impugnação.
+É orelatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 2de agostode 2022.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo 2).
+Feita essa consideração, verifica-se que assiste razão aos embargantes.
+Os Embargos de Declaração constituem recurso de rígidos contornos processuais e exigem, para sua acolhida, os pressupostos legais de cabimento.De fato, deixou odecisumde dispor a respeito dos honorários advocatícios.
+Assim,acolho os Embargos de Declaração para complementar a parte dispositiva do julgado, de modo que, onde se lê: "Dianteo exposto, nos termos do art. 557,§ 1º-A, do CPC, dou parcial provimento ao Recurso Especial para reconhecer a prescrição relativa à obrigação de obrigação de pagar. Prejudicada a análise das demais questões trazidas no Recurso Especial" (fl. 2.899, e-STJ), leia-se:Diante do exposto, dou provimento ao RecursoEspecial, a fim de declarar prescrita a obrigação de pagar quantia certa. Prejudicada a análise das demais questões trazidas no Recurso Especial.
+Em face da inversão da sucumbência, condeno a parte recorrida ao pagamento de honorários advocatícios,os quais fixo em R$ 1.000,00por exequente, em atenção ao disposto no art. 20, § 4º, do CPC/1973, ficando ressalvada asuspensão de sua exigibilidade aos beneficiários da justiça gratuita.
+Publique-se.
+Intimem-se.
