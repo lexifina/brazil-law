@@ -1,0 +1,25 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 09/08/2022 a 15/08/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão, assim ementada (fl. 215):
+PROCESSO CIVIL. TUTELA PROVISÓRIA. ATRIBUIÇÃO DE EFEITO SUSPENSIVO A RECURSO ESPECIAL. AUSÊNCIA DOS REQUISITOS AUTORIZADORES DA MEDIDA. PEDIDO INDEFERIDO
+O agravante alega que: (a) "o artigo 39 da Lei Municipal nº 17.557/2021conformafato superveniente, especialmente em razão dos seus expressos EFEITOS RETROATIVOS, eis que, ao interpretar a legislação municipal, reconhece expressamente a inaplicabilidade, à isenção almejada pelo Agravante, da exigência imposta peloartigo3º, inciso IV, da Lei Municipal nº 14.094/05" (fl. 224); (b) "a própria Municipalidade Agravada, em Contrarrazões ao Recurso Ordinário interposto no processo administrativo nº 6017.2021/0020595-8 pelo Agravante visando à isenção do IPTU no ano-calendário de 2020, reconheceu a superveniência da Lei Municipal nº 17.557/2021em relação à controvérsia aqui sub judice, pugnando, ademais, por sua aplicação naquele caso concreto, com efeitos retroativos que lhe são expressos (fls. 158/199), o que foi acolhido em acórdão prolatado pelo E. Conselho Municipal de Tributos da Cidade de São Paulo (CMT/SP)" (fl. 225); (c) "a questão suscitada pelo Agravante refere-se a violação à legislação federal e confirma matéria de cunho exclusivamente jurídico, mormente ao considerar que o v. acórdão deixou de ter em conta a legislação superveniente de caráter interpretativo com a produção de efeitos retroativos, alcançando evidentemente os exercícios objeto de discussão" (fl. 226); (d) "o que se pretende é apenas atestar, em juízo cognitivo preliminar a que se presta a tutela provisória recursal pleiteada, a inaplicabilidade das Súmulas nº 07/STJ e 280/STF diante da desnecessidade de qualquer reexame de provas frente ao caráter exclusivamente jurídico da discussão, atinente não a ofensa a direito local, mas a afronta pelo v. acórdão a dispositivos da legislação federal, o que autoriza a interposição e a admissibilidade do Recurso Especial com Agravo por este C. Tribunal Superior" (fl. 227).
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO PEDIDO DETUTELA PROVISÓRIA. ATRIBUIÇÃO DE EFEITO SUSPENSIVO A RECURSO ESPECIAL. AUSÊNCIA DOS REQUISITOS AUTORIZADORES DA MEDIDA
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. No caso dos autos, não se evidencia, em umjuízo preliminar, a existência do fumus boni iuris, na medida em que o recurso especial não ultrapassou a barreira do conhecimento, por força da aplicação das Súmulas 7 do STJ e 280 do STF.
+3. Considerando a pretensão direcionada no sentido de daraplicabilidade a dispositivos legais previstos em lei municipal, parecem insuperáveis os referidos óbices.
+4. Cumpre registrar que as alegações da parte requerente atinentes ao periculum in mora não são passíveis de dar ensejo à concessão do presente pleito.
+5. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Dito isso, observa-se que o presente recurso não merece prosperar, tendo em vista que dos argumentos apresentados no agravo internonão se vislumbram razões para reformar a decisão agravada.
+Isso porque, em um juízo perfunctório, próprio da análise judicial das tutelas de natureza provisória, o recurso especial aparenta não ultrapassar a barreira do conhecimento recursal, uma vez que a decisão de inadmissibilidade proferida na origem - cujo fundamento são as Súmulas 7/STJ e 280/STF - parece estar correta.
+Assim, não se encontra presente a fumaça do bom direito, considerando quea pretensão direcionada no sentido de daraplicabilidade a dispositivos legais previstos em lei municipal.
+Ademais, o perigo da demora precisa estar particularizado, de modo a autorizar o deferimento da medida. Na hipótese, o recorrente invoca o referido requisito mediante demonstração das consequências próprias do encerramento da demanda judicial, sem indicar, pontualmente, o risco específico ao qual estaria sujeito. Não se faz presente, portanto, o perigo da demora.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
