@@ -1,0 +1,36 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por JOSE CELSO GONTIJO ENGENHARIA S/A, contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 14/12/2021.
+Concluso ao gabinete em: 31/05/2022.
+Ação: deindenização de danos materiais e compensação por danos morais movida por JOSE ODAIR DA SILVA AMARAL, contra JOSE CELSO GONTIJO ENGENHARIA S/A,em decorrência de alegado atraso na entrega da obra.
+Sentença: julgou parcialmente procedentes os pedidos da inicial, para "a) ao pagamento, em favor da parte autora, da quantia de R$850,00 (oitocentos e cinqüenta reais), correspondente ao aluguel comprovadamente despendido durante o período de mora, corrigido monetariamente pelo INCC, a partir do desembolso, e acrescido de juros de mora de 1% (um por cento), desde a citação. b) ao pagamento da multa moratória contratual, correspondente a 0,5% (meio por cento) sobre o valor total do imóvel - R$ 101.749,90 (cento e um mil, setecentos e quarenta e nove reais e noventa centavos) - incidente durante o período compreendido entre 18/07/2014 e 14/10/2014, por mês ou pro rata dia, quantia a ser atualizada monetariamente pelo INCC, desde a data do ajuizamento da demanda, e acrescida de juros de 1% (um por cento) ao mês, desde a citação". Arbitrou os honorários sucumbenciais em 10% sobre o valor da condenação, divididos entre as parte diante da sucumbência recíproca.
+Acórdão: negou provimento às apelações interpostas pelas partes, nos termos da ementa:
+"APELAÇÃO CÍVEL. CONSUMIDOR. CIVIL. PROCESSUAL CIVIL. NEGÓCIO DE COMPRA E VENDA. BEM IMÓVEL. ATRASO NA ENTREGA. FATO ATRIBUÍVEL À CONSTRUTORA. AUSÊNCIA DE CASO FORTUITO OU FORÇA MAIOR. CLÁUSULA PENAL. LUCROS CESSANTES. IMPOSSIBILIDADE DE CUMULAÇÃO. DANOS MORAIS INEXISTENTES. COMISSÃO DE CORRETAGEM. DEVOLUÇÃO. PRESCRIÇÃO. SENTENÇA MANTIDA.
+1. Hipótese de atraso na entrega de unidade imobiliária adquirida em fase de construção.
+2. A questão debatida nos autos está sujeita ao Código de Defesa do Consumidor, uma vez que as partes se enquadram nos conceitos dos artigos 2º e 3º do referido diploma legal.
+3. A escassez da mão-de-obra especializada não pode ser considerada evento para o fim de justificar o atraso na entrega de unidade imobiliária, pois está diretamente relacionada à atividade empresarial exercida pela construtora.
+4. A previsão expressa de cláusula penal para o caso de inadimplemento do vendedor afasta a aplicação da tese fixada pelo Colendo Superior Tribunal de Justiça no julgamento dos Recursos Especiais nº 1631485-DF e nº 1.631.485-DF, submetidos ao rito dos recursos repetitivos (Tema nº 971).
+5. Verificada a existência da cláusula penal, que consubstancia a pré-fixação das perdas e danos pela não fruição do bem, deve ser afastada a indenização por lucros cessantes.
+6. O mero descumprimento contratual não é suficiente para interferir na esfera jurídica extrapatrimonial do demandante. 6.1. Com efeito, nas situações que estão descritas, em tese, no art. 389 do Código Civil, é devida apenas a indenização dos lucros cessantes e dos danos emergentes. 6.2. Embora o art. 6º, inc. VI, do CDC, tenha previsto expressamente a possibilidade de produção de danos morais, por ato do empresário, é necessário demonstrar, nesses casos, que o eventual ilícito indenizatório tenha efetivamente afetado a esfera jurídica extrapatrimonial do consumidor, o que não ocorre apenas em virtude do descumprimento da obrigação negocial.
+7. A aplicação do prazo prescricional de três anos previsto no art. 206, § 3º, inc. IV, do Código Civil, limita-se à pretensão de restituição dos valores pagos a título de comissão de corretagem sob o argumento de enriquecimento sem causa da promitente vendedora.
+8. Recursos conhecidos e desprovidos."
+Embargos de Declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 1.022, II, do CPC/15; 393 do CC/02 e 5º da LINDB. Além de negativa de prestação jurisdicional, sustenta a exclusão da sua culpa contratual tendo em vista a ocorrência de caso fortuito consubstanciado na escassez de mão-de-obra especializada. Defende aindaque o colegiado não pode deixar de analisar a repercussão social que as causas, como a presente, "geram no setor que movimenta a economia do país". Assim, invocando o "consequencialismo judicial", pugna para que os julgadores reflitam "sobre as consequências metajurídicas, indo além dos processos, adentrando no impacto social e econômico de suas decisões".
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação do art. 1.022 do CPC/15
+A ausência de expressa indicação de obscuridade, omissão, contradição ou erro material nas razões recursais enseja o não conhecimento do recurso especial quanto à suposta negativa de prestação jurisdicional. Aplica-se, na hipótese, a Súmula 284/STF.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca doart.5º da LINDB, indicados como violados, apesar da oposição de embargos de declaração. Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 211/STJ.
+- Do reexame de fatos e provas
+Na hipótese, os fatos em questão - escassez demão-de-obra- são caracterizados comofortuitointerno, ou seja, estão ligados ao risco natural da atividade econômica da recorrente e, por isso, são incapazes de afastar a mora. A reforma do aresto, nestes aspectos, demanda reexame do acervo fático-probatório soberanamente delineado perante as instâncias ordinárias, providência inviável de ser adotada em sede de recurso especial, ante o óbice da Súmula 7/STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC/15, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 12% sobre o valor dacondenação (e-STJ fls. 288) para 15%.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E COMPENSAÇÃO POR DANOS MORAIS EM RAZÃO DE ATRASO NA ENTREGA DE UNIDADE IMOBILIÁRIA.EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. NÃO INDICAÇÃO. SÚMULA 284/STF.PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ.REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ação de indenização por danos materiais e compensação por danos morais em razão de atraso na entrega de unidade imobiliária.
+2. A ausência de expressa indicação de obscuridade, omissão, contradição ou erro material nas razões recursais enseja o não conhecimento do recurso especial.
+3. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+4. Modificar a conclusão do Tribunal de origem acerca dos fatos consignados no acórdão recorridoimplica reexame de fatos e provas.
+5. Agravo conhecido. Recurso especial não conhecido.
