@@ -1,0 +1,28 @@
+DECISÃO
+TALYTA KAROLAYNE DA SILVAalega sofrer coação ilegal em decorrência de acórdão proferido peloTribunal de Justiça do Estado de Santa Catarinana Apelação n. 0012112-14.2018.8.24.0038.
+Consta nos autos que o réu foi condenado pela prática do crime previsto no art. 171 do Código Penal.
+A defesa busca a aplicação retroativa da Lei n. 13.964/2019, notadamente no tocante à exigência de representação da vítima como condição de procedibilidade para a persecução penal do crime de estelionato. Requer a declaração de extinção da punibilidade do réu pela decadência ou, subsidiariamente, a intimação do ofendido para que ofereça a representação em 30 dias.
+Decido.
+Sobre a controvérsia, o Tribunal de origem dispôs:
+PENAL. PROCESSUAL PENAL. APELAÇÃO CRIMINAL. CRIME DE ESTELIONATO.TIPO PENAL (ART. 171, CAPUT, DO CÓDIGO PENAL). SENTENÇA CONDENATÓRIA. RECURSO DA DEFESA. MÉRITO. MATERIALIDADE E AUTORIA NÃO IMPUGNADAS. DOSIMETRIA. INCIDÊNCIA DA ATENUANTE DA CONFISSÃO ESPONTÂNEA E MENORIDADE PENAL PARA REDUZIR A PENA ABAIXO DO MÍNIMO LEGAL. INVIABILIDADE. SOB PENA DE VIOLAÇÃO AO PRINCÍPIO DA LEGALIDADE. ORIENTAÇÃO DO VERBETE 231 DO STJ. SENTENÇA MANTIDA.RECURSO NÃO PROVIDO (fl. 273).
+Opostos embargos declaratórios, foram eles rejeitados (fls. 297-301).
+Primeiramente,da leitura do acórdão impugnado, constata-seque o tema relativo à extinção da punibilidade pelo reconhecimento da decadêncianão foi objeto de análise pelo Tribunal estadual, circunstância que impede a sua apreciação por esta Corte Superior, sob pena de atuar emindevidasupressão de instância.O Tribunal local cingiu-se a apreciar as matérias relativas à dosimetria da pena.
+Ilustrativamente:
+ ..
+2. Inviável a apreciação, diretamente por esta Corte Superior de Justiça, dada sua incompetência para tanto e sob pena de incidir-se em indevida supressão de instância, das teses de nulidade da sentença por ausência de análise de tese defensiva apresentada nas alegações finais e o consequente excesso de prazo na custódia, tampouco de imposição de regime inicial mais gravoso que o permitido ou de possibilidade de substituição da pena privativa de liberdade por restritiva de direitos, tendo em vista que tais questões não foram analisadas pelo Tribunal impetrado no aresto combatido, em razão da inadequação da via eleita, pendente de julgamento, ainda, apelação já interposta.
+ ..
+8. Habeas corpus não conhecido.
+(HC n. 347.010/SP, Rel. MinistroJorge Mussi, 5ª T., DJe 12/4/2016).
+Ainda que assim não fosse, faço lembrar que o direito invocado pela defesa não está amparado na jurisprudência do STJ acerca do tema. Com efeito, a Terceira Seção deste Tribunal Superior recentemente pacificou o entendimento de que a exigência de representação da vítima no crime de estelionato não retroage aos processos cuja denúncia já foi oferecida.
+Confira-se:
+PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO. ESTELIONATO. LEI N. 13.964/2019 (PACOTE ANTICRIME). RETROATIVIDADE. INVIABILIDADE. ATO JURÍDICO PERFEITO. CONDIÇÃO DE PROCEDIBILIDADE.WRITINDEFERIDO.
+1. A retroatividade da norma que previu a ação penal pública condicionada, como regra, no crime de estelionato, é desaconselhada por, ao menos, duas ordens de motivos.
+2. A primeira é de caráter processual e constitucional, pois o papel dos Tribunais Superiores, na estrutura do Judiciário brasileiro é o de estabelecer diretrizes aos demais Órgãos jurisdicionais. Nesse sentido, verifica-se que o STF, por ambas as turmas, já se manifestou no sentido dairretroatividade da lei que instituiu a condição de procedibilidade no delito previsto no art. 171 do CP.
+3. Em relação ao aspecto material, tem-se quea irretroatividade do art. 171, § 5º, do CP, decorre da própriamens legis, pois, mesmo podendo, o legislador previu apenas a condição de procedibilidade, nada dispondo sobre a condição de prosseguibilidade. Ademais, necessário ainda registrar a importância de se resguardar a segurança jurídica e o ato jurídico perfeito (art. 25 do CPP), quando já oferecida a denúncia.
+4. Não bastassem esses fundamentos, necessário registrar, ainda, prevalecer, tanto neste STJ quanto no STF, o entendimento "a representação, nos crimes de ação penal pública condicionada, não exige maiores formalidades, sendo suficiente a demonstração inequívoca de que a vítima tem interesse na persecução penal. Dessa forma, não há necessidade da existência nos autos de peça processual com esse título, sendo suficiente que a vítima ou seu representante legal leve o fato ao conhecimentos das autoridades." (AgRg no HC 435.751/DF, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 23/08/2018, DJe 04/09/2018).
+6. Habeas corpus indeferido.
+(HC n. 610.201/SP, Rel. MinistroRibeiro Dantas, 3ª S., DJe 8/4/2021, destaquei)
+Na espécie, a denúncia foi recebida em 30/8/2019 (fl. 58), antes da entrada em vigor da Lei n. 13.964/2019.É descabida, portanto, a pretensão defensiva deretroatividade da exigência de representação para o crime de estelionato no presente caso.
+Dessa forma, sob o prisma do entendimento firmado por esta Corte Superior de Justiça acerca da aplicação retroativa da norma prevista no art. 171, § 5º, do CP, não há razões para o processamento desta impetração, notadamente porque expressamente autorizado - pelo inciso XX do art. 34 do Regimento Interno deste Superior Tribunal - que o relator decida o habeas corpus, monocraticamente, quando a decisão impugnada se conformar com a jurisprudência dominante acerca do tema.
+À vista do exposto, com fundamento no art. 34, XX, c/c o art. 210 do RISTJ,indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
