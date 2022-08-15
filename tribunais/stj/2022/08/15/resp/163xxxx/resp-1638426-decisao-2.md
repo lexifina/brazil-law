@@ -1,0 +1,18 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto porCLAUDENILDA DO NASCIMENTO FRANÇA, com amparonas alíneas "a" e "c" do inciso III do art. 105 da CF/1988, contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃOassim ementado:
+APELAÇÕES CÍVEIS - AÇÃO CIVIL PÚBLICA - OCUPAÇÕES IRREGULARES DE ÁREA DE PRAIA E DE TERRENO DE MARINHA - PRELIMINARES DE LITISPENDÊNCIA E DE FALTA DE INTERESSE DE AGIR DA UNIÃO - REJEIÇÃO - MÉRITO - DEMOLIÇÃO DAS CONSTRUÇÕES EXISTENTES NA PRAIA DO FRANCÊS - MUNICÍPIO DE MARECHAL DEODORO/AL - PRESERVAÇÃO DO MEIO AMBIENTE - ART. 225 DA CF/88 - LEI N. 9.636/1998 COM AS ALTERAÇÕES IMPLEMENTADAS PELA LEI N. 11.481/2007 - LEI DE GERENCIAMENTO COSTEIRO DE N. 7.661/1988 - APELAÇÕES CÍVEIS IMPROVIDAS.
+Os embargos de declaração foram rejeitados (e-STJ, fls. 1.431-1.439).
+Defende a parte insurgente, em síntese: i) estar regularizado na SPU (arts. 6º e 10 da Lei n. 7.661/1998); ii) pagar pelo esgotamento sanitário (art. 12 da CE/AL); e iii) não obstruir o acesso nem manter estacionamento na praia.
+Apresentadas contrarrazões (e-STJ, fls. 1.471-1.476), o recurso especial foi admitido na origem (e-STJ, fls. 1.501-1.502).
+Parecer pelo não conhecimento (e-STJ, fls. 1.512-1.525).
+Processo com preferência legal (art. 12, § 2º, VII, do CPC/2015, combinado com as Metas n. 2/CNJ/2022 - "Identificar e julgar, até 31/12/2022, pelo menos 99% dos processos distribuídos até 31/12/2017 e 95% dos distribuídos em 2018" -; n. 6/CNJ/2022 - "Identificar e julgar até 31/12/2022: 99% dos recursos oriundos de ações coletivas distribuídos a partir de 1º/1/2015"; e n. 12/CNJ/2022 - "Identificar e julgar 65% dos processos relacionados às ações ambientais, distribuídos até 31/12/2021").
+É o relatório.
+Não se conhece das alegações fundadas em norma local ou sem indicação do dispositivo de lei federal apto a suportar a pretensão recursal. Incidência das Súmulas n. 280/STF (Por ofensa a direito local não cabe recurso extraordinário) e 284/STF (É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia).
+Quanto à regularização na Superintendência de Patrimônio da União, assim afirmou a origem (e-STJ, fls. 1.297-1.298, grifos acrescidos):
+ ..  15. Era de total conhecimento do município de Marechal Deodoro que os barraqueiros vinham se utilizando abusivamente da praia como se fosse sua propriedade particular, mesmo ante a ausência de licença do órgão público federal competente.
+Nenhuma dessas alterações foi autorizada pela SPU, como demonstrado nos autos, até porque não poderiam, já que constituem tentativas de privatização do bem de uso comum do povo.
+16. Deve-se ressaltar que a existência de licenças de localização concedidas por município não substitui a necessária autorização da União para a ocupação do bem público em perspectiva, nos moldes delineados na Lei n.9.636/1998, com as alterações implementadas pela Lei n.11.481/2007, que dispõe sobre a regularização, administração, aforamento e alienação de bens imóveis de domínio da União, ao qual veda, em seu art. 9º, II, a inscrição das ocupações que tenham o condão de comprometer a integridade de áreas de bem comum do povo ou necessárias à preservação de ecossistemas naturais, nestes termos.
+Vê-se, portanto, que o acolhimento do pedido da recorrente, para reconhecer a regularidade com base em supostos documentos da SPU, demandaria exame direto de provas, o que se veda a esta Corte à luz da Súmula n. 7/STJ (A pretensão de simples reexame de prova não enseja recurso especial).
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, não conheço do recurso especial.
+Publique-se. Intimem-se.
