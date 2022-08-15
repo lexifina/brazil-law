@@ -1,0 +1,89 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 09/08/2022 a 15/08/2022, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de embargos de declaração de ambas as partescontra acórdão da Segunda Turma, cuja a ementa é a seguinte:
+ADMINISTRATIVO. DESAPROPRIAÇÃO INDIRETA. EMBARGOS DE DECLARAÇÃO. OMISSÃO NÃO VERIFICADA. MATÉRIAS DEVIDAMENTE ENFRENTADAS. DECISÃO CONTRÁRIA AO INTERESSE DA PARTE. VIOLAÇÃO DO ART. 535 DO CPC/73 NÃO CARACTERIZADA. JUROS COMPENSATÓRIOS. TERMO DE INCIDÊNCIA. ART. 26 DO DECRETO-LEI 3.365/1941. SÚMULA 284/STF. ENTENDIMENTO DO TRIBUNAL A QUO EM CONFORMIDADE COM O STJ. VALOR INDENIZATÓRIO. CRITÉRIOS. METRO QUADRADO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+I - Na origem, foi ajuizada ação indenizatória por particular, o Estado do Amazonas, com objetivo de receber valores relativos à desapropriação de seus imóveis para fins de construção de unidade de saúdr.
+II - A sentença julgou o pedido procedente, decisão mantida em grau recursal, pelo Tribunal de Justiça Estadual.
+RECURSO ESPECIAL DO ESTADO DO AMAZONAS
+III - Não se verifica a apontada violação do art. 535 do CPC/1973, atual 1.022, pois o Tribunal a quo foi bastante claro sobre as matérias tidas por omissas, relativamente à cadeia dominial e aos juros compensatórios. Decisão contrária ao interesse da parte não se caracteriza como decisão omissa.
+IV - O art. 26 do Decreto-Lei n. 3.3365/1941 não contém comando normativo suficiente a amparar a pretensão deduzida relativamente ao termo de incidência dos juros compensatórios. Incidência do óbice sumular n. 284/STF.
+V - De toda forma, o entendimento a quo sobre considerar a data do apossamento administrativo para fins de marcar o respectivo prazo, está de acordo com a jurisprudência desta Corte. Precedentes: REsp 1774864/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 16/12/2021, REsp 1116278/RJ; Rel. Ministro Og Fernandes, Segunda Turma, DJe 03/08/2021.
+RECURSO ESPECIAL DE JOSÉ AUGUSTO BASÍLIO
+VI - A pretensão de discutir a escolha do critério pelomagistrado, relativamente ao valor do metro quadrado para fins indenizatórios, esbarra na vedação contida na Súmula n. 7/STJ, pois incabível, em recurso especial, a análise de cada um dos laudos ofertados, com um comparativo, para deliberar em sentido contrário ao estabelecido no decisum.
+VII - Agravo do Estado do Amazonas conhecido, para conhecer parcialmente de seu recurso especial e, nesta parte, negar-lhe provimento. Agravo de José Augusto Basílio conhecido, para não conhecer de seu recurso especial.
+Nas razões dos aclaratórios, José Augusto Basílio sustenta, em síntese, os seguintes argumentos:
+ ..
+3. Oacordão ora embargado asseverouque "a pretensão está fundada na alegação de que o acórdão recorrido TERIA ESCOLHIDO O PIOR CRITÉRIO, de todos os laudos apresentados, para fins de encontrar o valor por metro quadrado".
+4. Ocorre que NÃO foi exatamente nesse sentido o Recurso Especial do ora Embargante, de forma que se verifica verdadeira OBSCURIDADE e CONTRADIÇÃO da decisão ora embargada com os autos.
+5. NÃO se contesta o fato de que o juiz pode determinara metodologia utilizada para chegarao valor a indenizar, desde que com base nos elementos trazidos aos autose de forma fundamentada.
+6. NÃO se contesta que a metodologia escolhida pelo Excelentíssimo Magistrado tenha sido a "MÉDIA ARITMÉTICA", apesar de inovadora.
+7. O que foi contestado é o fato de que, a partir do momento em que o juiz decide que vai utilizara "média aritmética" dos valores dos laudos de avaliação constantes dos autos para determinar o valor de indenização, ele tinha que ter utilizado TODOS OS VALORES DOS TRÊS LAUDOS presentes para realizar o cálculo de média aritmética, e NÃO, discricionariamente, SEM motivação e SEM fundamento aceitável, escolher APENAS os dois laudos com valores menores.
+ ..
+O Estado do Amazonas, em suas razões dos aclaratórios, argumentou, em síntese:
+ ..
+Data venia,restaram a v, Decisão deixou de se pronunciar sobre a justa indenização, de que trata o art. 5º, XXIV da CF, ou seja, para uma indenização justa requer que se faça o regular e criterioso juízo nas contendas judiciais que versem sobre desapropriação, ao que se faz importante esclarecer que nadamais se trata de uma compra e venda forçada, na qual só um dos elementos desse negócio jurídico está disponível para o particular negociar com o Poder Público: o preço, que se traduz na indenização, de acordo com os adjetivos dados pela Constituição da República: justa, prévia e, em regra, em dinheiro.
+Desta feita, ao se arguir a necessidade de acurado estudo da cadeia dominial em que se faça a prova inequívoca da propriedade do imóvel, assim como a data para fixação para fms de correção monetária do quantum indenizatório, evita-se o dispêndio de dinheiro público por meio de pagamentos de indenizações em virtude de desapropriação em valores aquém ou muito além do preço de mercado, que tanto pode prejudicar o particular, em caso de indenização ínfima, quanto o Estado, em se tratando de indenização em valor superior ao do mercado.
+ ..
+Entende o agravante que a Desapropriação, diante da necessária prova inequívoca da propriedade, nada mais é que uma compra e venda forçada, na qual só um dos elementos desse negócio jurídico está disponível para o particular negociar com o Poder Público: o preço, que se traduz na indenização, de acordo com os adjetivos dados pela Constituição da República: justa, prévia e, em regra, em dinheiro.
+ ..
+Assim, pleiteia o Estado que esse E. Superior Tribunal de Justiça acolha a alegação de que, em virtude da omissão quanto à arguição de divergência entre a área objeto de intervenção do Estado e a área alegada como de propriedade do agravado, em que culmina com a própria razão de ser da indenização ora guerreada, assim como, insiste-se, a data fixada para atualização dos juros compensatórios na desapropriação indireta, reconhecendo a violação ao art. 5º, XXIV da CF pelo acórdão impugnado, que aplicou erroneamente a definição de indenização justa.
+ ..
+Na origem, foi ajuizada ação indenizatória por particular, o Estado do Amazonas, com objetivo de receber valores relativos à desapropriação de seus imóveis para fins de construção de unidade de saúde.Na sentença, julgou-se procedente o pedido. No Tribunal a quo,asentença foi mantida.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. CONTRADIÇÃO E OBSCURIDADE. NÃO VERIFICADA. OMISSÃO. NÃO OCORRÊNCIA. TENTATIVA DE AMBAS AS PARTES DE REDISCUTIR OS FUNDAMENTOS DO ACÓRDÃO EMBARGADO. VIA INADEQUADA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+I -Na origem, foi ajuizada ação indenizatória por particular, o Estado do Amazonas, com objetivo de receber valores relativos à desapropriação de seus imóveis para fins de construção de unidade de saúde. Na sentença, julgou-se procedente o pedido. No Tribunal a quo, a sentença foi mantida.
+EMBARGOS DE DECLARAÇÃO DE JOSÉ AUGUSTO BASÍLIO
+II -Cumpre ressaltar que os aclaratórios não se prestam ao reexame de questões já analisadas com o nítido intuito de promover efeitos modificativos ao recurso. No caso dos autos, não há omissão de ponto ou questão sobre as quais o juiz, de ofício ou a requerimento, devia pronunciar-se, considerando que a decisão apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+III -A contradição que vicia o julgado de nulidade é a interna, em que se constata uma inadequação lógica entre a fundamentação posta e a conclusão adotada, o que, a toda evidência, não retrata a hipótese dos autos. Nesse sentido: EDcl no AgInt no RMS n.51.806/ES, relatorMinistro Sérgio Kukina, Primeira Turma, julgado em 16/5/2017, DJe 22/5/2017; EDcl no REsp n 1.532.943/MT, relatorMinistro Marco Aurélio Bellizze, Terceira Turma, julgado em 18/5/2017, DJe 2/6/2017.
+EMBARGOS DE DECLARAÇÃO DO ESTADO DO AMAZONAS
+IV -Se o recurso é inapto ao conhecimento, a falta de exame da matéria de fundo impossibilita a própria existência de omissão quanto a esta matéria. Nesse sentido: EDcl nos EDcl no AgInt no RE nos EDcl no AgInt no REsp n. 1.337.262/RJ, relatorMinistro Humberto Martins, Corte Especial, julgado em 21/3/2018, DJe 5/4/2018; EDcl no AgRg no AREsp n. 174.304/PR, relatorMinistro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 10/4/2018, DJe 23/4/2018; EDcl no AgInt no REsp n. 1.487.963/RS, relatorMinistro Og Fernandes, Segunda Turma, julgado em 24/10/2017, DJe 7/11/2017.
+V -É vedado a esta Corte, na via especial, apreciar eventual ofensa à matéria constitucional, ainda que para fins de prequestionamento, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal. Precedentes: EDcl nos EDcl no AgRg no AREsp n. 575.787/DF, relatorMinistro Antonio Saldanha Palheiro, Sexta Turma, julgado em 12/12/2017, DJe 19/12/2017; AgInt nos EDcl nos EDcl no REsp n. 1.677.316/SP, relatoraMinistra Regina Helena Costa, Primeira Turma, julgado em 5/12/2017, DJe 14/12/2017; EDcl no AgInt no REsp n. 1.294.078/DF, relatorMinistro Og Fernandes, Segunda Turma, julgado em 28/11/2017, DJe 5/12/2017.
+VI -A pretensão de reformar o julgado não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do CPC/2015, razão pela qual inviável o seu exame em embargos de declaração.
+VII - Embargos de declaração de ambas as partes rejeitados.
+VOTO
+DOS EMBARGOS DE DECLARAÇÃO DE JOSÉ AUGUSTO BASÍLIO
+Os embargos não merecem acolhimento.
+Segundo o art. 1.022 do Código de Processo Civil de 2015, os embargos de declaração são cabíveis para esclarecer obscuridade; eliminar contradição; suprir omissão de ponto ou questão sobre as quais o juiz devia pronunciar-se de ofício ou a requerimento; e/ou corrigir erro material.
+Conforme entendimento pacífico desta Corte:
+O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida.
+(EDcl no MS n. 21.315/DF, relatoraMinistra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016.)
+A pretensão de reformar o julgado não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do CPC/2015, razão pela qual inviável o seu exame em embargos de declaração. Nesse sentido:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. EMBARGOS DE DECLARAÇÃO. FINALIDADE DE PREQUESTIONAMENTO DE MATÉRIA CONSTITUCIONAL. OMISSÃO. NÃO OCORRÊNCIA. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. ART. 1.022 DO NOVO CPC.
+1. A ocorrência de um dos vícios previstos no art. 1.022 do CPC é requisito de admissibilidade dos embargos de declaração, razão pela qual a pretensão de mero prequestionamento de dispositivos constitucionais para a viabilização de eventual recurso extraordinário não possibilita a sua oposição. Precedentes da Corte Especial.
+2. A pretensão de reformar o julgado não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do novo CPC, razão pela qual inviável o seu exame em sede de embargos de declaração.
+3. Embargos de declaração rejeitados.
+(EDcl nos EAREsp 166.402/PE, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 15/3/2017, DJe 29/3/2017.)
+EMBARGOS DE DECLARAÇÃO NA RECLAMAÇÃO. CONTRADIÇÃO. NÃO OCORRÊNCIA. OMISSÕES. INEXISTÊNCIA. CARÁTER PROCRASTINATÓRIO RECONHECIDO. APLICAÇÃO DE MULTA.
+1. A contradição capaz de ensejar o cabimento dos embargos declaratórios é aquela que se revela quando o julgado contém proposições inconciliáveis internamente.
+2. Sendo os embargos de declaração recurso de natureza integrativa destinado a sanar vício - obscuridade, contradição ou omissão -, não podem ser acolhidos quando a parte embargante pretende, essencialmente, a obtenção de efeitos infringentes.
+3. Evidenciado o caráter manifestamente protelatório dos embargos de declaração, cabe a aplicação da multa prevista no parágrafo único do art. 538 do CPC/1973.
+4. Embargos de declaração rejeitados com aplicação de multa.
+(EDcl na Rcl n. 8.826/RJ, relatorMinistro João Otávio de Noronha, Corte Especial, julgado em 15/2/2017, DJe 15/3/2017.)
+A contradição que vicia o julgado de nulidade é a interna, em que se constata uma inadequação lógica entre a fundamentação posta e a conclusão adotada, o que, a toda evidência, não retrata a hipótese dos autos. Nesse sentido: EDcl no AgInt no RMS n. 51.806/ES, relatorMinistro Sérgio Kukina, Primeira Turma, julgado em 16/5/2017, DJe 22/5/2017; EDcl no REsp n. 1.532.943/MT, relatorMinistro Marco Aurélio Bellizze, Terceira Turma, julgado em 18/5/2017, DJe 2/6/2017.
+Cumpre ressaltar que os aclaratórios não se prestam ao reexame de questões já analisadas com o nítido intuito de promover efeitos modificativos ao recurso. No caso dos autos, não há omissão de ponto ou questão sobre as quais o juiz, de ofício ou a requerimento, devia pronunciar-se, considerando que a decisão apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+DOS EMBARGOS DE DECLARAÇÃO DO ESTADO DO AMAZONAS
+Os embargos não merecem acolhimento.
+Se o recurso é inapto ao conhecimento, a falta de exame da matéria de fundo impossibilita a própria existência de omissão quanto a esta matéria. Nesse sentido: EDcl nos EDcl no AgInt no RE nos EDcl no AgInt no REsp n. 1.337.262/RJ, relatorMinistro Humberto Martins, Corte Especial, julgado em 21/3/2018, DJe 5/4/2018; EDcl no AgRg no AREsp n. 174.304/PR, relatorMinistro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 10/4/2018, DJe 23/4/2018; EDcl no AgInt no REsp n. 1.487.963/RS, relatorMinistro Og Fernandes, Segunda Turma, julgado em 24/10/2017, DJe 7/11/2017.
+Segundo o art. 1.022 do Código de Processo Civil de 2015, os embargos de declaração são cabíveis para esclarecer obscuridade; eliminar contradição; suprir omissão de ponto ou questão sobre as quais o juiz devia pronunciar-se de ofício ou a requerimento; e/ou corrigir erro material.
+Conforme entendimento pacífico desta Corte:
+O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida.
+(EDcl no MS n. 21.315/DF, relatora Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016.)
+É vedado a esta Corte, na via especial, apreciar eventual ofensa à matéria constitucional, ainda que para fins de prequestionamento, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal. Precedentes: EDcl nos EDcl no AgRg no AREsp n. 575.787/DF, relatorMinistro Antonio Saldanha Palheiro, Sexta Turma, julgado em 12/12/2017, DJe 19/12/2017; AgInt nos EDcl nos EDcl no REsp n. 1.677.316/SP, relatoraMinistra Regina Helena Costa, Primeira Turma, julgado em 5/12/2017, DJe 14/12/2017; EDcl no AgInt no REsp n. 1.294.078/DF, relatorMinistro Og Fernandes, Segunda Turma, julgado em 28/11/2017, DJe 5/12/2017.
+A pretensão de reformar o julgado não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do CPC/2015, razão pela qual inviável o seu exame em embargos de declaração. Nesse sentido:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. EMBARGOS DE DECLARAÇÃO. FINALIDADE DE PREQUESTIONAMENTO DE MATÉRIA CONSTITUCIONAL. OMISSÃO. NÃO OCORRÊNCIA. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. ART. 1.022 DO NOVO CPC.
+1. A ocorrência de um dos vícios previstos no art. 1.022 do CPC é requisito de admissibilidade dos embargos de declaração, razão pela qual a pretensão de mero prequestionamento de dispositivos constitucionais para a viabilização de eventual recurso extraordinário não possibilita a sua oposição. Precedentes da Corte Especial.
+2. A pretensão de reformar o julgado não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do novo CPC, razão pela qual inviável o seu exame em sede de embargos de declaração.
+3. Embargos de declaração rejeitados.
+(EDcl nos EAREsp 166.402/PE, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 15/3/2017, DJe 29/3/2017.)
+EMBARGOS DE DECLARAÇÃO NA RECLAMAÇÃO. CONTRADIÇÃO. NÃO OCORRÊNCIA. OMISSÕES. INEXISTÊNCIA. CARÁTER PROCRASTINATÓRIO RECONHECIDO. APLICAÇÃO DE MULTA.
+1. A contradição capaz de ensejar o cabimento dos embargos declaratórios é aquela que se revela quando o julgado contém proposições inconciliáveis internamente.
+2. Sendo os embargos de declaração recurso de natureza integrativa destinado a sanar vício - obscuridade, contradição ou omissão -, não podem ser acolhidos quando a parte embargante pretende, essencialmente, a obtenção de efeitos infringentes.
+3. Evidenciado o caráter manifestamente protelatório dos embargos de declaração, cabe a aplicação da multa prevista no parágrafo único do art. 538 do CPC/1973.
+4. Embargos de declaração rejeitados com aplicação de multa.
+(EDcl na Rcl n. 8.826/RJ, relatorMinistro João Otávio de Noronha, Corte Especial, julgado em 15/2/2017, DJe 15/3/2017.)
+Ante o exposto, rejeito ambos os embargos de declaração.
+É o voto.
