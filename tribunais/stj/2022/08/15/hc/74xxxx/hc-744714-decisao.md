@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra acórdão, assim ementado (fls. 41/42):
+APELAÇÃO CRIMINAL. TRÁFICO DE DROGAS (ART. 33, CAPUT, DA LEI N. 11.343/06). SENTENÇA CONDENATÓRIA. RECURSOS DA DEFESA. NULIDADE PROCESSUAL. AFRONTA AO PRINCÍPIO DA INVIOLABILIDADE DE DOMICÍLIO. BUSCA DOMICILIAR. EXISTÊNCIA DE FUNDADAS RAZÕES DA PRÁTICA DE CRIME PERMANENTE. VÍCIO INEXISTENTE.
+Havendo fundada suspeita da prática de crime permanente, cuja consumação se protrai no tempo (art. 303 do Código de Processo Penal), é lícito o ingresso não consentido dos policiais na residência alheia, consoante excepciona o art. 5o, XI, da Constituição Federal.
+ABSOLVIÇÃO. INSUFICIÊNCIA DE PROVAS. MATERIALIDADE E AUTORIA DELITIVAS COMPROVADAS. PALAVRAS DOS POLICIAIS. ESCUSAS INFIRMADAS. FIRME ELENCO PROBATÓRIO. MANUTENÇÃO.
+As palavras dos policiais não podem ser desprezadas simplesmente por emanarem de agentes do Estado incumbidos da segurança pública, notadamente quando ausente qualquer prova capaz de infirmá-las e encontrem amparo em outros elementos do conjunto probatório.
+DOSIMETRIA. GRANDE QUANTIDADE, DIVERSIDADE E NATUREZA ESPECIALMENTE DELETÉRIA DAS DROGAS APREENDIDAS. CIRCUNSTÂNCIA DESFAVORÁVEL EMPREGADA PARA DOSAR A CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA DO ART. 33, § 4o, DA LEI N. 11.343/06. POSSIBILIDADE E PERTINÊNCIA. REDUÇÃO DA PENA- BASE. EMPREGO DE CRITÉRIO FIXO E MATEMÁTICO. IMPROPRIEDADE. ATENÇÃO ÀS PECULIARIDADES DO CASO CONCRETO. AUMENTO SUPERIOR A 1/6 (UM SEXTO) NÃO JUSTIFICADO. ADEQUAÇÃO DEVIDA.
+1. Satisfeitos os pressupostos legais para a concessão da causa especial de diminuição de pena do art. 33, § 4º, da Lei n. 11.343/06,a determinação do quantum é relegada à discricionariedade motivadado magistrado, que escolhe a fração mais adequada dentre o intervalo legal de acordo com as peculiaridades do caso concreto, prestigiadas pelos arts. 42 da Lei Especial e 59 do Código Penal, as quais informam a dimensão do tráfico de drogas desenvolvido pelo acusado e a conseqüente lesão ao bem juridicamente tutelado.
+2. Segundo o Superior Tribunal de Justiça, "diante da orientação consolidada há tempos pelas Cortes Superiores, proponho mantermos o posicionamento anterior, conforme acolhido no ARE 666.334/AM, sobre à possibilidade de valoração da quantidade e da natureza da droga apreendida, tanto para a fixação da pena-base quanto para a modulação da causa de diminuição prevista no art. 33, § 4o, da Lei 11.343/2006, neste último caso ainda que sejam os únicos elementos aferidos" (AgRg no HC n. 685.184/SP, rei. Min. Ribeiro Dantas, Quinta Turma, j. em 28/9/2021).
+3. O critério para fixação da reprimenda não deve ser objetivo ou matemático, senão condizente com a análise das circunstâncias do caso concreto, motivo pelo qual é possível a adoção do aumento de 1/6 (um sexto), fração erigida como parâmetro inicial pela jurisprudência, bem como inferior ou superior, desde que apresentada fundamentação idônea.
+RECURSOS CONHECIDOS E NÃO PROVIDOS. RECURSO DO CORREU CONHECIDO E PARCIALMENTE PROVIDO.
+Consta dos autos que o paciente foicondenado às penas de 7 anos, 5 meses e 29 dias de reclusão, em regime fechado, e 749 dias-multa, pela prática do crime de tráfico de drogas.
+Sustenta o impetrante, em suma, a ocorrência de invasão de domicílio, sem que tenha havido motivo justificado e autorização de entrada, o que conduz à nulidade das provas.
+Requer, liminarmente, a suspensão da condenação, e no mérito, o reconhecimento da nulidade com absolvição.
+Indeferida a liminar e prestadas as informações, o Ministério Público manifestou-se pela denegação da ordem.
+Em consulta ao sistema processual desta Corte Superior, constatou-se que a questão de mérito tratada no presentehabeas corpusjá foi analisadano HC 745053/SC, denegado em 1º/8/2022, concluindo-se pela ausência de nulidade de provas em razão de invasão de domicílio. Owritcitado foi impetrado em favor do corréu FLAVIO e contra o mesmo acórdão,pelo qual foramjulgadasas apelações relativas à ação penal n. 5038455-02.2021.8.24.0023.
+Dessa forma, a discussão proposta está superada.
+Ante o exposto, não conheço dohabeas corpus.
+Publique-se.
+Intimem-se.
