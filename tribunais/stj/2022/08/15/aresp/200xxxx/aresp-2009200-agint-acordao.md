@@ -1,0 +1,31 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 09/08/2022 a 15/08/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Agravo Interno contra decisão monocrática de fls. 1.376-1.378, e-STJ, que conheceu do Agravo para conhecer parcialmente do Recurso Especial e, nessa parte, negou-lhe provimento.
+A parte agravante alega:
+Observe-se que as omissões apontadas são de total relevância, porquanto, caso ponderadas, não teria sido aplicado o óbice da Súmula nº 7/STJ. Nessa esteira, importa salientar que soa contraditório de um lado afastar a preliminar de nulidade e, de outro, impor o óbice da impossibilidade de revolvimento fático probatório, visto que aplicado à parte ônus do qual se desincumbiu, já que opôs o competente recurso integrativo perante o Tribunal de origem.
+(..)
+É assente que o atendimento ao requisito do prequestionamento não se dá unicamente com a menção expressa à norma violada, mas também se caracteriza pela discussão que perpassa a fundamentação do acórdão. Trata-se do prequestionamento implícito, amplamente reconhecimento ela jurisprudência dessa C. Corte.
+Sem impugnação (fl. 1394, e-STJ).
+É o relatório.
+EMENTA
+DIREITO ADMINISTRATIVO. VIOLAÇÃO DO ART. 1.022 DO CPC NÃO CONFIGURADA. FALTA DE PREQUESTIONAMENTO. SÚMULA 211 DO STJ. PRECLUSÃO. CÁLCULOS DA CONTADORIA JUDICIAL. SÚMULA 7/STJ.
+1. Inicialmente, constata-se que não se configura a ofensa ao art. 1022 do Novo Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, em conformidade com o que lhe foi apresentado. Cabe destacar que o simples descontentamento da parte com o julgado não tem o condão de tornar cabíveis os Embargos de Declaração, que servem ao aprimoramento da decisão, mas não à sua modificação, que só muito excepcionalmente é admitida.
+2. No que tange à apontada violação dos arts 319, 329, 492 e 1.000 do CPC, observa-se que o Tribunal de origem não emitiu juízo de valor sobre os dispositivos legais cuja ofensa se aduz. O Superior Tribunal de Justiça entende ser inviável o conhecimento do Recurso Especial quando os artigos tidos por violados não foram apreciados pelo Tribunal a quo, a despeito da oposição de Embargos de Declaração, haja vista a ausência do requisito do prequestionamento. Incide, na espécie, a Súmula 211/STJ.
+3. Quanto à preclusão da implantação do resíduo percentual nos vencimentos, o Tribunal de origem consignou: "Com efeito, não há o que reformar na sentença. Se observa que não há discussão sobre ser ou não devido o percentual em questão, mas somente a sua forma de implantação, considerando a existência de período em que parte dele (11,30%) foi adimplida administrativamente". O enfrentamento dos argumentos do recorrente no tocante à preclusão demanda reexame do conjunto fático-probatório dos autos, o que encontra óbice na Súmula 7 do Superior Tribunal de Justiça.
+4. Por fim, quanto aos cálculos, considerado pelo Tribunal a quo que "foram elaborados pela equipe técnica que compõe o órgão auxiliar do Juízo - Contadoria Judicial - que procedeu à análise dos documentos apresentados pelas partes, pautada na legislação que disciplina a questão e dentro dos limites postos no título judicial em execução", incabível sua revisão em Recurso Especial, em face do óbice da Súmula 7 do STJ.
+5. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 15.6.2022.
+Inicialmente, constata-se que não se configura a ofensa ao art. 1022 do Novo Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, em conformidade com o que lhe foi apresentado. Cabe destacar que o simples descontentamento da parte com o julgado não tem o condão de tornar cabíveis os Embargos de Declaração, que servem ao aprimoramento da decisão, mas não à sua modificação, que só muito excepcionalmente é admitida.
+Melhor sorte não socorre a parte recorrente no que tange à apontada violação dos arts 319, 329, 492 e 1.000 do CPC, uma vez que o Tribunal de origem não emitiu juízo de valor sobre os dispositivos legais cuja ofensa se aduz.
+O Superior Tribunal de Justiça entende ser inviável o conhecimento do Recurso Especial quando os artigos tidos por violados não foram apreciados pelo Tribunal a quo, a despeito da oposição de Embargos de Declaração, haja vista a ausência do requisito do prequestionamento. Incide, na espécie, a Súmula 211/STJ.
+Cumpre ressaltar que não configura contradição afirmar a falta de prequestionamento e afastar alegação de afronta ao art. 1.022 do Código de Processo Civil, uma vez que é perfeitamente possível que a decisão se encontre devidamente fundamentada sem que, no entanto, tenha sido decidida a causa à luz dos preceitos jurídicos desejados pelo postulante, pois a tal não está obrigado o julgador.
+Quanto à preclusão da implantação do resíduo percentual nos vencimentos, o Tribunal de origem consignou (fl. 262, e-STJ):
+Com efeito, não há o que reformar na sentença. Se observa que não há discussão sobre ser ou não devido o percentual em questão, mas somente a sua forma de implantação, considerando a existência de período em que parte dele (11,30%) foi adimplida administrativamente.
+O enfrentamento dos argumentos do recorrente no tocante à preclusão demanda o reexame do conjunto fático-probatório dos autos, o que encontra óbice na Súmula 7 do Superior Tribunal de Justiça.
+Por fim, quanto aos cálculos, considerado pelo Tribunal a quo que "foram elaborados pela equipe técnica que compõe o órgão auxiliar do Juízo - Contadoria Judicial - que procedeu à análise dos documentos apresentados pelas partes, pautada na legislação que disciplina a questão e dentro dos limites postos no título judicial em execução", incabível sua revisão em Recurso Especial, em face do óbice da Súmula 7 do STJ.
+Ante o exposto, nego provimento ao Agravo Interno.
+É como voto.
