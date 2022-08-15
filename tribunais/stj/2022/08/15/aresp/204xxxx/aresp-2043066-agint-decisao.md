@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+APELAÇÃO. AÇÃO DE OBRIGAÇÃO DE FAZER, C/C INDENIZATÓRIA. PLANO DE SAÚDE INDIVIDUAL. Reajuste por anualidade. Comprovação documental da cobrança de percentuais de aumento nos anos de 2014/2015 e 2015/2016, acima do permitido pela Agência Nacional de Saúde. Devolução dos valores indevidamente pagos, na forma simples (art. 42, parágrafo único, do CDC). Cancelamento do plano de saúde. Ausência de notificação prévia do beneficiário, na forma do art. 13, II, da Lei nº 9.656/98. Dano moral configurado. Manutenção da sentença. Honorários recursais majorados (art. 85, § 11, do CPC). RECURSO A QUE SE NEGA PROVIMENTO.
+Opostos embargos de declaração, esses foram rejeitados na origem.
+Nas razões de recurso especial, aponta a agravante violação dos artigos 489 e 1.022 do Código de Processo Civil; e42 do Código de Defesa do Consumidor, alegando a ocorrência de negativa de prestação jurisdicional com a rejeição dos embargos de declaração, sem suprimento das omissões referentes à pactuação entre os litigantes ser a partir de 2013, dada a migração do autor de outra operadora de plano de saúde; da determinação de restituição de valores reconhecidos como pagamento a maior, apesar de o reconhecimento dos índices aplicados nos anos de 2014-2016 obedecerem aos determinados pela Agência Nacional de Saúde Suplementar - ANS, além da contradição em fundamentar a devolução de forma simples no artigo 42 do Código de Defesa do Consumidor.
+Defende que não há se falar em devolução em dobro, dada a ausência de má-fé da ré.
+Extrai-se dos autos, que a agravante foi condenada ao pagamento de indenização por danos morais (R$ 3.000,00 - três mil reais).
+Assim delimitada a controvérsia, passo a decidir.
+Quanto à preliminar, não observo omissão no acórdão, senão julgamento contrário aos interesses da agravante, o que não autoriza, por si só, o acolhimento de embargos de declaração, nem sua rejeição importa em violação à sua norma de regência.
+Esclareça-se que não se exige do julgador a análise de todos os argumentos das partes, para fins de convencimento e julgamento. Para tanto, basta o pronunciamento acerca dos fatos controvertidos, o que se observa no presente caso, havendo fundamentação quanto ao reajuste acima dos índices estabelecidos pela Agência Nacional de Saúde Suplementar - ANS no curso do contrato de plano de saúde, bem como da forma simples de restituição do montante pago a maior, revelando que os motivos da decisão encontram-se objetivamente fixados nas razões do acórdão recorrido.
+Acrescento que a Corte local analisou o contexto fático, sem se manifestar sobre os argumentos expostos no recurso especial relativos à migração do autor para novo plano de saúde no ano de 2013, não havendo interposição de embargos de declaração a fim de sanar possível omissão no julgado.
+De modo que não houve debate na origem relativo à tese das balizas estabelecidas pela operadora de plano de saúde quando da migração do beneficiário.
+Ademais, as razões do recurso especial não são convincentes, já que nele não está indicado trecho ou passagem do acórdão recorrido em que tenha havido a abordagem da matéria controvertida, merecendo, assim, a aplicação das Súmulas 282 e 356 do STF, visto que ausente o indispensável prequestionamento com referência a essa questão ventilada no recurso especial, do qual não estão isentas sequer as questões de ordem pública.
+De igual teor:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. ART. 1.022 DO CPC/2015. MATÉRIA NÃO DEBATIDA NA ORIGEM. FALTA DE PREQUESTIONAMENTO.
+1. Em que pese a omissão do acórdão recorrido ao tratar do termo inicial da prescrição quinquenal, não se poderia conhecer da irresignação, pois a tese legal apontada não foi analisada pelo acórdão hostilizado. Ausente, portanto, o indispensável requisito do prequestionamento, o que atrai, por analogia, o óbice da Súmula 282 do STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada".
+Acrescento que o recorrente não opôs Embargos de Declaração a fim de sanar possível omissão no julgado.
+2. O STJ possui compreensão pacífica no sentido da necessidade de prequestionamento, inclusive de matérias de ordem pública.
+3. Embargos de Declaração acolhidos, sem efeitos infringentes.
+(EDcl no REsp 1682995/ES, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 19/12/2017)
+Ademais, o acolhimento das razões do recurso demandaria inevitável reexame de matéria fática, procedimento que encontra óbice no verbete 7 da Súmula desta Corte.
+Em face do exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Intimem-se.
