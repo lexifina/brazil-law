@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 09/08/2022 a 15/08/2022, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de agravo interno interposto por Campofert Comércio, Indústria, Importação e Exportação LTDA., em recuperação judicial, e outras em face de decisão que negou provimento a agravo em recurso especial.
+Afirma que "a natureza do crédito do BRP com origem na CCB e na CCE foi objeto de discussão tanto na Impugnação de crédito ajuizada pelas Recuperandas (proc. Nº 1001287-06.2018.8.26.0210) - que originou o presente agravo interno, quanto na Impugnação de crédito ajuizada pelo BRP (proc. Nº 1001262-90.2018.8.26.0210)" (e-STJ, fl. 507).
+Conclui, assim, "que se mostra perfeitamente cabível tal discussão no âmbito do Recurso Especial das Recuperandas, que por sua vez, originou o agravo em recurso especial - não provido pela r. Decisão Agravada" (e-STJ, fl. 507).
+Pede o provimento do recurso.
+Impugnação da parte contrária no sentido de que "a extraconcursalidade do crédito já foi reconhecida no AI 2169340-78.2018.8.26.0000" (e-STJ, fl. 516).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO DE CRÉDITO. QUESTÕES JÁ DECIDIDAS. PROCESSO EM CURSO. LITISPENDÊNCIA. SÚMULA N. 284/STF. NÃO PROVIMENTO.
+1. A deficiência na fundamentação impede o conhecimento do recurso especial, como ensina o enunciado n. 284 da Súmula do Supremo Tribunal Federal.
+2. Agravo interno a que se nega provimento.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): O inconformismo não merece acolhida.
+A recorrente manifestou agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão com a seguinte ementa:
+Impugnação de crédito. Recurso tirado contra r. decisão que, por considerar concursal o crédito estampado na Cédula de Crédito à Exportação nº 134/017, condenou o agravante na devolução dos valores que amortizou com esteio na referida operação. Impugnação de crédito deste julgada procedente nesta instância (AI nº 2169340-78.2018.8.26.0000), com a declaração de não sujeição do referido título de crédito ao concurso. Ordem de devolução que não se sustenta mais. Impugnação de crédito. Determinação de suspensão do incidente até a alienação dos grãos de soja entregues em alienação fiduciária. Descabimento da medida, a considerar, na hipótese, que a garantia fiduciária dos direitos creditórios e dos grãos é suficiente para manter a característica extraconcursal do crédito estampado na CCB nº 239/2016. Improcedência do incidente decretada nesta instância. Recurso provido.
+Alegou, na ocasião, violação dos artigos 49, § 3º, da Lei 11.101/05, 1.362, IV, do Código Civil; 66-B da Lei 4.728/65; 33 da Lei 10.931/0447; e 18, IV, da Lei 9.514, "tendo em vista que a suposta garantia fiduciária do Recorrido nunca foi performada, já que não preenche os requisitos necessários para tanto" (e-STJ, fl. 284).
+Colhe-se dos autos que o Tribunal de origem, ao se deparar com recurso interposto pelo ora agravado contra a decisão que determinou a restituição de valores apropriados pelo agravado para o abatimento de seu crédito em face das agravantes, em recuperação judicial, deu provimento ao recurso sob o entendimento de que tanto o crédito estampado em Cédula de Crédito à Exportação quanto aquele inscrito em Cédula de Crédito Bancário são extraconcursais, o que já teria sido, inclusive, decidido nos autos de outro agravo de instrumento.
+Leia-se, a propósito, excerto do acórdão estadual:
+"No caso concreto, vê-se que o Banco Ribeirão Preto fora inicialmente inscrito pelas recuperandas na Classe III e pelo valor total de R$ 16.428.561,11, com referência na Cédula de Crédito Bancário nº 231/2016 e na Cédula de Crédito à Exportação nº 134/2017.
+Aviada impugnação de crédito administrativa, foi acolhida em parte para excluir, do concurso de credores, apenas a CCB nº 231/2016, mantida a CCE nº 134/2017 diante da conclusão, da auxiliar do Juízo, de que a garantia fiduciária dos grãos carecia de especialização.
+O credor promoveu impugnação judicial dizendo que a CCE nº 134/2017 também carregaria crédito extraconcursal e, apesar de rejeitada em primeira instância, acabou sendo julgada procedente por esta Turma Julgadora nos autos do Agravo de Instrumento nº 2169340-78.2018.8.26.0000.
+Decidiu-se, ali, pela higidez da constituição da garantia fiduciária não só dos direitos creditórios, que garantiam 30% do débito das duas operações, mas, também, dos grãos de soja e de milho, que garantem 100% do valor das obrigações. Se é assim, consolidada a conclusão de que o crédito estampado na CCE nº 134/2017 é extraconcursal, a ordem de devolução dos valores amortizados pelo Banco Ribeirão Preto e que é objeto deste recurso não se sustenta mais.
+Quanto à segunda parte da irresignação recursal, assevera-se, como dito anteriormente, que se decidiu, já em sede administrativa, pela regularidade da constituição da garantia fiduciária da CCB nº 231/2016, a revelar que o crédito é igualmente extraconcursal, nos termos do § 3º do art.49 da LRF.
+Como já adiantado no julgamento do recurso interposto nos autos da impugnação do credor e se constata dos documentos juntados às fls. 51/71 e 81/96 deste instrumento, ambas as cédulas de crédito estão garantidas pela mesma cessão fiduciária de títulos de crédito, na proporção de 30%, e, também, dos grãos de milho e soja para garantir 100% do valor das obrigações. Não há se falar, portanto, em possível insuficiência da garantia fiduciária.
+Ora, mesmo que se considerasse insuficiente a garantia fiduciária dos grãos que,
+como se extrai do respectivo instrumento, garante 100% do valor das obrigações garantidas -, tem-se, ainda, a possibilidade de se exigir a outra garantia, constituída da cessão fiduciária de títulos de crédito, já considerada regularmente constituída nos autos do mencionado AI nº 2169340-78.2018.8.26.0000" (e-STJ, fl. 267/269).
+Se a parte pretende, portanto, discutir o acerto da classificação de seu crédito, deverá fazê-lo por meio do instrumento processual cabível a ser manejado nos autos em que houve a qualificação do mencionado crédito, haja vista a inquestionável litispendência, haja vista a tríplice identidade entre os incidentes, ou seja, contam com as mesmas partes, mesma causa de pedir e mesmo pedido e não importa que estejam em polos invertidos, já que a lei não exige que na ação posterior as partes estejam nos mesmos polos que na ação anterior.
+A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. MEDIDA CAUTELAR. PROCESSUAL CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. LITISPENDÊNCIA CONFIGURADA. REVISÃO DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. ÓBICE DA SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. Não se verifica violação ao art. 535 do Código de Processo Civil, porquanto as questões submetidas ao eg. Tribunal de origem foram suficiente e adequadamente delineadas, com abordagem integral do tema e fundamentação compatível.
+2. A configuração da litispendência reclama a constatação de identidade das partes, da causa de pedir e do pedido ("tríplice identidade") das ações em curso (artigo 301, § 1º, do CPC).
+3. O Tribunal de origem ressaltou que a recorrente ajuizou a presente ação cautelar, na qual está em discussão a mesma matéria tratada na ação declaratória de nulidade de processo de execução e de ato de adjudicação de bens anterior. Nesse contexto, a solução jurídica é, efetivamente, a extinção do processo pela ocorrência de litispendência.
+4. Ademais, a constatação acerca da existência ou não de litispendência, no caso, exige minuciosa análise de seus elementos configuradores - identidade de partes, da causa de pedir e do pedido -, esbarrando a pretensão recursal no óbice da Súmula 7 do STJ.
+5. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 315.791/MG, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 10/11/2015, DJe 7/12/2015)
+Inequívoca, pois, a incidência do verbete n. 284 da Súmula do Supremo Tribunal Federal. Diante do exposto, nego provimento ao agravo.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
