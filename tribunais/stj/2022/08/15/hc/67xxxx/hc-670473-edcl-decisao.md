@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por Rafael Pablo da Silva àdecisão da minha lavra, em que concedi parcialmente a ordem de habeas corpuspara redimensionar a pena do paciente. Esta, a ementa da decisão (fl. 546):
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. 475,5 G DE MACONHA, 50,1 G DE MACONHA, 1.619,3 G DE MACONHA, 67,5 G DE COCAÍNA, 31,1 G DE CRACK, 11,3 G DE COCAÍNA, 36,5 G DE COCAÍNA E 7,2 G DE COCAÍNA. ALEGAÇÃO DE VIOLAÇÃO DE DOMICÍLIO. NÃO OCORRÊNCIA. DOSIMETRIA. AFASTAMENTO DA AGRAVANTE DE CALAMIDADE PÚBLICA. REDIMENSIONAMENTO DA PENA. REGIME FECHADO MANTIDO.
+Ordem parcialmente concedida nos termos do dispositivo.
+Alega o embargante que a decisão ora embargada não analisou o pedido feito quanto a ser aplicado o princípio da consunção para que a conduta descrita no art. 33, § 1º, I, seja absorvida pelo art. 33, ambos da Lei de Drogas.
+Requer, assim, seja sanada tal omissão.
+É o relatório.
+O embargante foi denunciado como incurso no art. 33, caput, e § 1º, I, e art. 34, caput, ambos c/c o art. 40, III, da Lei de Drogas, em face da apreensão de 475,5 g de maconha, 50,1 g de maconha, 1.619,3 g de maconha, 67,5 g de cocaína, 31,1 g de crack, 11,3 g de cocaína, 36,5 g de cocaína e 7,2 g de cocaína (fls. 125/128). Na sentença, o réu foi condenado à pena de 27 anos, 2 meses e 19 dias de reclusão, em regime fechado, e 2.714 dias-multa, como incurso no art. 33, caput, c/c o art. 40, III, e art. 33, § 1º, I, c/c o art. 40, III, todos da Lei n. 11.343/2006, na forma do art. 69, caput, do Código Penal, e foi absolvido da imputação prevista no art. 34, caput, da Lei n. 11.343/2006, com fulcro no art. 386, III, do Código de ProcessoPenal (fls. 263/276).
+A Quarta Câmara Criminal do Tribunal de Justiça de Santa Catarina manteve a sentença de condenaçãoao entendimento de que foramcomprovadasa autoria e a materialidade no delito de tráfico de drogase de que o pedido de desclassificação para o delito de uso próprio não era possíveldiante das provas dos autos.
+No julgamento dohabeas corpus, a pena foi redimensionada para23 anos, 8 meses e 15 dias de reclusão, em regime fechado, e 2.214 dias-multa. No entanto,a decisão deixou de fazer menção a essa questão relativa ao pedido de consunção, uma vez que o acórdão hostilizado também não fez menção expressa a respeito da possibilidade de consunção do delito,art. 33, § 1º, I,pelo art. 33, ambosda Lei de Drogas. No caso, a instância ordinária entendeu pelo cometimento dos crimes de forma autônoma, sendo o acusado denunciado por ambos os delitos. Nesse sentido, não há como tal questão ser apreciada, na via eleita, por demandar reexame dos fatos. Nesse sentido:
+ ..
+Embora seja possível a absorção do delito previsto no § 1º do art.33da Lei deDrogaspelo descrito no caput do referido dispositivo legal, in casu, a desconstituição da conclusão firmada pelas instâncias antecedentes, de que os delitos em comento são autônomos, demandaria o exame aprofundado do conjunto fático-probatório dos autos, o que é inviável na via estreita do habeas corpus.
+ ..
+(AgRg no HC n. 747.053/SP, Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Quinta Turma,DJe 9/8/2022)
+Ante o exposto, acolho os embargos de declaração, para sanar a omissão, porém, mantida a decisão ora embargada.
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO EM HABEAS CORPUS. TRÁFICO DE DROGAS. 475,5G DE MACONHA, 50,1G DE MACONHA, 1.619,3G DE MACONHA, 67,5G DE COCAÍNA, 31,1G DE CRACK, 11,3G DE COCAÍNA, 36,5G DE COCAÍNA E 7,2G DE COCAÍNA. APONTAMENTO DE OMISSÃO QUANTO AO PEDIDO DE CONSUNÇÃO. AUSÊNCIA DE DISCUSSÃO NO ACÓRDÃO. ENTENDIMENTO NA INSTÂNCIA ORDINÁRIA PELA CONDENAÇÃO EM AMBOS OS CRIMES. REEXAME FÁTICO DOS AUTOS.
+Embargos acolhidos, apenas para sanar a omissão, mantida a decisão ora embargada.
