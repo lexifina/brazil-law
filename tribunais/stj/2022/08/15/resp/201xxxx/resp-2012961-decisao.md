@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de recurso especial interposto por BANCO SANTANDER (BRASIL) S.A., fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, contra o acórdão proferido pelo Tribunal de Justiça do Estado do Paraná assim ementado:
+"AGRAVO DE INSTRUMENTO - CUMPRIMENTO DE SENTENÇA - EXTINÇÃO POR PAGAMENTO DO DÉBITO TRANSITADA EM JULGADO - DECISÃO QUE, RECONHECENDO O EQUÍVOCO ANTERIOR, DEFERIU A REABERTURA DA FASE EXECUTIVA PARA SATISFAÇÃO DO SALDO REMANESCENTE - IRRESIGNAÇÃO DO RÉU - ALEGAÇÃO DE RENÚNCIA AO PRAZO PARA RECURSO DA SENTENÇA E, PORTANTO, CONCORDÂNCIA COM A QUITAÇÃO - NÃO ACOLHIMENTO - EXEQUENTE QUE, EM NENHUM MOMENTO, MANIFESTOU-SE PELA SATISFAÇÃO INTEGRAL DO DÉBITO - MERA PRECLUSÃO PROCESSUAL QUE NÃO IMPORTA EM RENÚNCIA TÁCITA AO DIREITO MATERIAL DE CRÉDITO - SITUAÇÃO QUE NÃO SE AMOLDA AO PRECEDENTE OBRIGATÓRIO DO RESP 1143471/PR, NO QUAL O PRÓPRIO CREDOR PROMOVEU A EXECUÇÃO PELO VALOR A MENOR, EM ATO EXPRESSO DE RENÚNCIA AO REMANESCENTE - DECISÃO MANTIDA - RECURSO CONHECIDO E DESPROVIDO" (e-STJ fl. 38).
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 83/87).
+Em suas razões (e-STJ fls. 92/106), o recorrente aponta, em preliminar, violação dos artigos 489, § 1º, IV, e 1.022, II, parágrafo único, I, do Código de Processo Civil. No mérito, alega ofensa aos artigos 502, 508, 780 e 924, II, do CPC/2015.
+Afirma que o Tribunal local incorreu em negativa de prestação jurisdicional ao deixar de se manifestar a respeito da eficácia preclusiva da coisa julgada, tendo em vista o trânsito em julgado da decisão que entendeu ter a obrigação sido integralmente satisfeita.
+Sustenta que a parte recorrida não se insurgiu contra a sentença de extinção da execução que declarou a obrigação satisfeita, de modo que a coisa julgada impede que eventual saldo remanescente seja perseguido. Este é, inclusive, o entendimento firmado no REsp 1.143.471/PR, julgado sob o rito do recurso repetitivo.
+Argumenta que não teria ocorrido o trânsito em julgadonos precedentesapontados pelo acórdão recorrido que seriam contrários ao entendimento consolidado no rito do artigo 543-C do CPC/1973.
+Defende que
+"(..) a coisa julgada formada com a sentença de extinção da execução torna imutável e indiscutível a declaração de que a obrigação do recorrente está satisfeita (art. 502, CPC), e, ainda, considera deduzida e repelida qualquer alegação que o credor (recorrido) pudesse ter contra essa declaração de satisfação da obrigação (art. 508, CPC)" (e-STJ fl. 104).
+Ao final, requer o provimento do recurso.
+Apresentadas as contrarrazões (e-STJ fls. 112/119), o recursofoi admitido na origem.
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo recurso especial foi publicado em data anterior à publicação da Emenda Constitucional nº 125, não se aplicando ao caso o requisito de admissibilidade por ela inaugurado, ou seja, a demonstração da relevância das questões de direito federal infraconstitucional.
+A irresignação merece prosperar no tocante à alegada negativa de prestação jurisdicional.
+Trata-se, na origem, de cumprimento de sentença em que a parte exequente, ora recorrida, pretendeu a execução no valoratualizado de R$ 26.484,50 (vinte e seis mil, quatrocentos e oitenta e quatro reais e cinquenta centavos).
+Após a penhora do valor bloqueado e apurado pelo contador judicial, o magistrado de piso extinguiu o incidente por cumprimento integral da obrigação, o qual transitou em julgado sem nenhuma insurgência das partes.
+Reconhecendo que incorreu em erro materiale entendendo que o exequente em nenhum momento deu quitação ao devedor, determinou a continuidade do cumprimento de sentença do valor remanescente.
+Referida decisão foi integralmente mantida pelo Tribunal de origem.
+Instado a corrigir o vício de omissão nos subsequentes embargos de declaração, o órgão julgador limitou-se a rejeitá-los por fundamentos absolutamente genéricos.
+Nessa medida, assiste razão aorecorrente quanto à alegada negativa de prestação jurisdicional, sobretudo porque o aresto recorrido não se manifestou a respeito da alegação de que, no caso dos autos, já teria ocorrido o trânsito em julgado da sentença, haja vista que o exequente não se insurgiu contra a sentença extintiva da obrigação,situação não ocorrida nos precedentes apontados pelo Tribunal de origem para fundamentar o afastamento do entendimento consolidado em recurso repetitivo.
+O dever de fundamentação tem assento constitucional, devendo ser fundamentadas todas as decisões judiciais, sob pena de nulidade, a teor do disposto no art. 93, IX, da Constituição Federal de 1988.
+É reiterado o entendimento desta Corte Superior de que viola o art. 1.022 do CPC/2015, por deficiência na prestação jurisdicional, o acórdão que deixa de emitir pronunciamento acerca dematéria devolvida ao Tribunal, apesar da oposição de embargos declaratórios.
+Com efeito, consoante o princípio da devolutividade dos recursos, incumbe ao Tribunal local manifestar-se acerca das matérias necessárias ao deslinde da controvérsia e que tenham sido submetidas à sua apreciação.
+O não enfrentamento, pela Corte de origem, de questões ventiladas nos aclaratórios e imprescindíveis à solução do litígio implica violação do art. 1.022 do CPC/2015, tanto mais que, nos termos da Súmula nº 211/STJ, revela-se inadmissível o recurso especial que, não obstante a oposição de embargos, trate de tema não analisado pelas instâncias ordinárias, porquanto ausente o requisito do prequestionamento. Além disso, não épossível o reexame do contexto fático-probatório dos autos na via do apelo extremo, tampouco a interpretação de cláusula contratual, consoante o disposto nas Súmulas nºs 5 e 7/STJ.
+Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM DANOS MORAIS. JULGAMENTO POR DECISÃO MONOCRÁTICA. SÚMULA N. 568/STJ. VIOLAÇÃO DO ART. 1.022, II, DO CPC/2015. OMISSÃO CONFIGURADA. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM. DECISÃO MANTIDA.
+1. "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema" (Súmula n. 568 do STJ).
+2. Deixando a Corte local de se manifestar sobre questões relevantes apontadas em embargos de declaração que, em tese, poderiam infirmar a conclusão adotada pelo Juízo, tem-se por configurada a violação do art. 1.022, II, do CPC/2015, devendo ser provido o recurso especial, com determinação de retorno dos autos à origem, para que seja suprido o vício.
+3. Agravo interno a que se nega provimento" (AgInt no REsp 1.679.541/PE, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 27/8/2019, DJe 30/8/2019).
+"PROCESSUAL CIVIL. RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. MATÉRIA PRELIMINAR. VIOLAÇÃO. OCORRÊNCIA. QUESTÕES DE MÉRITO. PREJUDICIALIDADE.
+1. "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3 do STJ).
+2. Há ofensa ao art. 1.022 do CPC/2015 quando o Tribunal de origem, a despeito da oposição de aclaratórios, não se manifesta sobre questão relevante ao deslinde da controvérsia, sendo de rigor o retorno dos autos à origem para sanar o vício de integração, notadamente quando relacionado a matéria fático-probatória.
+3. O acolhimento da preliminar de nulidade do acórdão, por negativa de prestação jurisdicional, prejudica a análise das questões mérito suscitadas pelas partes, tendo em conta que será renovado o julgamento dos embargos de declaração.
+4. Agravo interno desprovido" (AgInt no AgInt no AgInt no AREsp 1.082.536/MA, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 19/3/2019, DJe 2/4/2019).
+Na hipótese, portanto, faz-se imperioso o retorno dos autos à origem.
+Ante o exposto, dou provimento ao recurso especial para determinar a devolução dos autos ao Tribunal estadual para que realize novo julgamento dos embargos de declaração de fls. 50/58 (e-STJ). Prejudicadas as demais questões.
+Publique-se.
+Intimem-se.
