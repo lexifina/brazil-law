@@ -1,0 +1,65 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 09/08/2022 a 15/08/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Luis Felipe Salomão, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+Trata-se de agravo interno, interposto por ZEROPONTOSETE LTDA - MICROEMPRESA, contra decisão (fls. 1.342/1.346) que negou provimento ao recurso especial, sob os seguintes fundamentos:
+a) ausência de violação aos artigos 458 e 535 do Código de Processo Civil/73, uma vez que o Tribunal de origem se manifestou de forma fundamentada sobre todas as questões necessárias ao deslinde da controvérsia; e
+b) incidência da Súmula 7 do STJ.
+Em suas razões, a agravante sustenta que a) "ratificando o decisum recorrido, o nobre Ministro incorreu em mesmo equívoco, restando ainda a infringência ao artigo 458 e em especial 535, I e II, do Código de Processo Civil de 1973" (e-STJ, fl. 1.360) e b) "não se trata de incidir na Sumula 7 deste excelso Pretório com revolvimento de provas, porque, data maxima venia, o REsp vem impetrado com base no tópico que se viu anteriormente - má valoração da prova -, mas também com base na negativa de vigência do artigo 129 da Lei da Propriedade Industrial" (e-STJ, F. 1.362).
+Ao final, pleiteia "que seja devidamente valorada a prova de negativa de registro da marca DOPPING pela agravada e que se aplique efetivamente o disposto no artigo 129 da LPI e suas decorrências, para que enfim proíba o uso irregular da marca DOPPING pela agravada" (e-STJ, fl. 1.362).
+A parte agravada não apresentou impugnação (fl. 1.381).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. DIREITO MARCÁRIO. AÇÃO DE CESSAÇÃO DE ATO C/C PERDAS E DANOS. INEXISTÊNCIA DE OFENSA AOS ARTS. 458 E 535 DO CPC/73. ACÓRDÃO ESTADUAL DEVIDAMENTE FUNDAMENTADO. DISTINÇÃO DAS MARCAS "DOPPING" E "ANTI-DOPPE". IMPOSSIBILIDADE DE CONFUSÃO. PRETENSÃO DE REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. A Corte de origem dirimiu a matéria submetida à sua apreciação, manifestando-se expressamente acerca dos temas necessários à integral solução da lide. Dessa forma, não havendo omissão, contradição, obscuridade ou erro material no aresto recorrido, não se verifica a ofensa aos arts. 458 e 535 do Código de Processo Civil de 1973.
+2. O Tribunal a quo, com arrimo no acervo fático-probatório carreado aos autos, concluiu que a recorrida comprovou seu direito ao uso da marca e não restou evidenciada a alegada colidência de marcas. A modificação do referido entendimento demandaria o reexame do acervo fático-probatório.
+3. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+Em que pese a irresignação da agravante, não merece reforma a decisão ora agravada.
+Com efeito, deve ser rejeitada a alegada ofensa aos arts. 458 e 535 do CPC/73, na medida em que o eg. Tribunal de Justiça do Estado de Santa Catarina (TJ-SC) examinou os pontos necessários ao desate da lide, emitindo pronunciamento com robusta fundamentação.
+Conforme consignado na decisão agravada, a recorrente sustenta que houve violação aos artigos 458 e 535 do CPC/73, alegando que "imperioso se faz a manifestação do julgado no que tange a proteção legal que garante o uso da marca pela apelada, considerando que a mesma não possui registro de marca e não obteve êxito em reverter a improcedência do seu registro junto ao Tribunal Regional Federal da Segunda Região" (e-STJ, fl. 966).
+Sobre o tema a Corte local manifestou-se nos seguintes termos:
+"Ao que consta, o INPI avaliou os pedidos segundo a legislação vigente e concluiu haver plausibilidade na convivência mercadológica das duas denominações. Tal providência reveste-se de presunção de legalidade, atributo próprio do ato administrativo.
+Ademais, não se trata de conferir prevalência ao ato administrativo (do INPI) em relação à decisão judicial, porque a esta cabe, evidentemente, a possibilidade de desconstituir aquele, já que incumbe ao Po Judiciário rever os atos administrativos sempre que contaminados por vícios especialmente de ilegalidade, consoante se extrai da parte final da Súmula 473 do Supremo Tribunal Federal, assim enunciada: (..)
+Todavia, a apreciação judicial do ato administrativo requer observância da via adequada, com reverência ao devido processo legal e ao contraditório.
+Nessa contextura, os arts. 168 a 172 da Lei n. 9279/96 disciplinam o pedido administrativo de nulidade do registro de marca industrial e os preceptivos subseqüentes (arts. 173 a 175) regulam a ação judicial de nulidade desse registro, a ser aparelhada perante a Justiça Federal (art. 175), até porque cuida-se de ato emanado de autarquia federal, impondo-se a observância do disposto no art. 109, I, da Constituição da República.
+Não se trata, contudo, de deslocar a competência para a apreciação deste feito à Justiça Federal, eis que não requerida, pela demandante, a anulação do registro. Cabe a este Tribunal decidir sobre o uso indevido ou não de marca e sobre os danos dele defluentes, sem adentrar em considerações acerca da eventual nulidade do registro.
+Nesse cenário, considerando as peculiaridades do caso sob exame, sobretudo a existência de registro no INPI, efetivamente ainda não desconstituído por decisão judicial terminativa, afigura-se-me desarrazoado obstar o direito dos recorridos/demandados de fazer uso da marca "DOPPING", porque, para isso, ter-se-ia que, inevitavelmente, apreciar a nulidade de ato administrativo praticado por autarquia federal. Ademais, matéria deste jaez há que ser debatida em ação própria e em outra esfera jurisdicional, inclusive para que a decisão para ter abrangência em todo o território nacional. (..)
+Nessas condições, havendo registro no órgão competente não cabe obstar o uso da marca "DOPPING", consoante iterativas decisões do Superior Tribunal de Justiça, notadamente porque a apelada/demandada dela detém a propriedade e o direito de uso, a teor do certificado de fl. 332, em discussão em outra esfera judicial.
+Alfim, em respeito à bem lançada peça recursal, cumpre escandir que, feitas essas considerações, envolvendo nuclearmente matéria de direito, prejudicada mostra-se a análise pontual dos demais aspectos invocados pela apelante.
+Portanto, pelos fundamentos expendidos, tendo a apelada/demandada comprovado seu direito ao uso da marca, e não evidenciada a alegada colidência, isto patenteia fato impeditivo ao deferimento do pleito formulado pela apelante/autora." (e-STJ, fls. 950/954)
+Leia-se, a propósito, o seguinte trecho dos aclaratórios, in verbis:
+"Com efeito, a fundamentação exposta no acórdão (fls. 770 a 777) encontra-se lastreada na ausência de decisão judicial terminativa desconstituindo o registro no INPI, hipótese que, de fato, não encontra sólida correspondência na parte dispositiva do acórdão embargado, impondo-se, portanto, sua retificação, na fl. 777, nos termos infra postos:
+Ante o exposto, por votação unânime, conhece-se do recurso e nega-se-lhe provimento, sem prejuízo à discussão judicial da matéria, se restar definitivamente desconstituído o registro em exame.
+Quanto às petições de ambas as partes (da embargante noticiando e fazendo juntar cópia da decisão do TRF2 que inadmitiu o recurso especial interposto pela embargada e desta adunando cópia de agravo de instrumento que manejou contra a reportada decisão), cuida-se de situação que em nada altera o decidido na apelação e agora ratificado (exceto no suprimento da omissão existente à fl. 777). Ante o exposto, a Câmara, por unanimidade, conhece dos embargos de declaração, acolhendo-os, em parte, para dar nova redação ao dispositivo do acórdão embargado (fl. 777), nos seguintes termos: "Ante o exposto, por votação unânime, conhece-se do recurso e nega-se-lhe provimento, sem prejuízo à discussão judicial da matéria, se restar definitivamente desconstituído o registro em exame" (e-STJ, fls. 1.119/1.120)
+Como sabido, a jurisprudência pacífica desta Corte é no sentido de que não há omissão, contradição ou obscuridade no julgado quando se resolve a controvérsia de maneira sólida e fundamentada e apenas se deixa de adotar a tese do embargante. Nesse sentido, além dos precedentes já homenageados na decisão atacada, confiram-se:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INDENIZAÇÃO. DANO MORAL. OFENSA AO ART. 535 DO CPC/1973. INEXISTÊNCIA. REEXAME DE CONTEÚDO FÁTICO-PROBATÓRIO. SÚMULA N. 7/STJ. VALOR. RAZOABILIDADE. DIREITO DE RESPOSTA. DECISÃO MANTIDA.
+1. Inexiste afronta aos arts. 165, 458 e 535 do CPC quando o acórdão recorrido analisou todas as questões pertinentes para a solução da lide, pronunciando-se, de forma clara e suficiente, sobre a controvérsia estabelecida nos autos.
+(..)
+6. Agravo interno desprovido."
+(AgInt no AREsp 1.026.699/DF, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 18/09/2018, DJe de 25/09/2018 - grifou-se)
+"AGRAVO INTERNO EM RECURSO ESPECIAL. APLICAÇÃO DO DIREITO INTERTEMPORAL. ENUNCIADO ADMINISTRATIVO N. 2/STJ. RECURSO ESPECIAL FUNDADO NA OFENSA AOS ARTS. 165, 458 E 535 DO CPC DE 1973. NÃO CARACTERIZAÇÃO. EXECUÇÃO. EMBARGOS DE TERCEIRO. PEDIDO DE SUSPENSÃO DO PROCESSO PRINCIPAL. RECONHECIMENTO DE FRAUDE À EXECUÇÃO.
+INAPLICABILIDADE DO DISPOSTO NO ART. 1.052 DO CPC/1973. PRECEDENTES.
+AGRAVO IMPROVIDO.
+(..)
+2. A Corte de origem dirimiu a matéria submetida à sua apreciação, manifestando-se expressamente acerca dos temas necessários à integral solução da lide. Dessa forma, não havendo omissão, contradição ou obscuridade no aresto recorrido, não se verifica a ofensa aos artigos 165, 458 e 535 do Código de Processo Civil de 1973.
+(..)
+5. Agravo interno a que se nega provimento."
+(AgInt no REsp 1.286.859/MS, Rel. Ministro LÁZARO GUIMARÃES - DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO -, QUARTA TURMA, julgado em 18/09/2018, DJe de 28/09/2018 - grifou-se )
+Avançando no exame do agravo interno, o Tribunal a quo, soberano na análise do acervo fático-probatório, consignou que a recorrida comprovou seu direito ao uso da marca, e não restou evidenciada a alegada colidência. Confira-se excerto do v. acórdão estadual (e-STJ, fls. 816/819):
+"Perfilho-me, desde logo, à intelecção deduzida pela magistrada, não obstante o subjetivismo que envolve a matéria em apreço, aditando, por oportuno, que, a priori, o prefixo "anti" encarrega-se de afastar a cogitada confusão, eis que, como é consabido, "anti" significa contrário, inverso. (..)
+Cabe a este Tribunal decidir sobre o uso indevido ou não de marca e sobre os danos dele defluentes, sem adentrar em considerações acerca da eventual nulidade do registro. (..)
+Alfim, em respeito à bem lançada peça recursal, cumpre escandir que, feitas essas considerações, envolvendo nuclearmente matéria de direito, prejudicada mostra-se a análise pontual dos demais aspectos invocados pela apelante.
+Portanto, pelos fundamentos expendidos, tendo a apelada/demandada comprovado seu direito ao uso da marca, e não evidenciada a alegada colidência, isto patenteia fato impeditivo ao deferimento do pleito formulado pela apelante/autora." (e-STJ , fls. 950/954)
+Dessa forma, a pretensão de alterar tal entendimento, sob alegada ofensa aos dispositivos mencionados, no sentido de que no sentido de que restou comprovada existência de similaridade fonética e de proximidade semântica, devendo-se concluir pela impossibilidade de coexistência ou convivência de ambas, demandaria o revolvimento do suporte fático-probatório, o que é inviável em sede de recurso especial, conforme dispõe a Súmula n. 7/STJ. Nesse sentido, além dos precedentes já homenageados na decisão agravada, confira-se o seguinte:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE PRECEITO COMINATÓRIO CUMULADA COM INDENIZAÇÃO. USO INDEVIDO DA MARCA "PAX". IMPROCEDÊNCIA. DISTINÇÃO DAS MARCAS SEM POSSIBILIDADE DE CONFUSÃO ENTRE ELAS. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. Ação de preceito cominatório cumulada com indenização julgada improcedente por ter a Corte de origem considerado genérico o termo "pax" que a autora buscava ver excluído e não utilizado pela ré em seus registros, nome comercial e marca, havendo clara distinção entre a recorrente, que se dedica precipuamente ao ramo de serviços funerários, e a recorrida, que presta serviços de saúde.
+2. A revisão do julgado, com o consequente acolhimento da pretensão recursal, demandaria nova incursão no suporte fático-probatório dos autos, providência vedada no âmbito do recurso especial, a teor da Súmula 7 deste Tribunal.
+3. Agravo interno não provido."
+(AgInt no AREsp 21.352/GO, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 18/04/2017, DJe 04/05/2017 - grifou-se)
+Com essas considerações, conclui-se que o apelo não merece prosperar.
+Ante o exposto, nega-se provimento ao agravo interno.
+É como voto.
