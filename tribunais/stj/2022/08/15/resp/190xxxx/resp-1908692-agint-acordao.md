@@ -1,0 +1,65 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 09/08/2022 a 15/08/2022, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Og Fernandes e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator):
+Trata-se de agravo interno interposto por ANTONIO LUIS DE MELLO E SOUZA em face de decisão desta Relatoria, assim ementada:
+PROCESSUAL CIVIL. ADMINISTRATIVO. RECURSO ESPECIAL REPETITIVO. AÇÃO DE IMPROBIDADE ADMINISTRATIVA. REFORMA E ATUALIZAÇÃO DA LEI Nº 8.429/1992 PELA LEI Nº 14.230/2021. APLICAÇÃO RETROATIVA AOS PROCESSOS EM CURSO. REPERCUSSÃO GERAL RECONHECIDA PELO SUPREMO TRIBUNAL FEDERAL (TEMA 1.199/STF, ARE 843.989/PR, REL. MIN. ALEXANDRE DE MORAES). DETERMINAÇÃ O DE SUSPENSÃO DOS PROCESSOS EM TRAMITAÇÃO NO STJ. DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM PARA JUÍZO DE CONFORMAÇÃO (ARTS. 1.039 E 1.040 DO CPC/2015).
+O agravante destaca que não haveria falar em sobrestamento dos autos em razão do Tema 1.199/STF. A propósito, afirma que foi proferida nova decisão, em 12.6.15, pelo MM. Juízo a quo, determinando a exclusão das empresas, e, ainda, estendendo os efeitos da exclusão para seus sócios, tendo a referida decisão passado em julgado (fl. 1565 e-STJ).
+O Estado do Rio de Janeiro apresentou impugnação às fls. 1571/1603 e-STJ.
+É o relatório.
+EMENTA
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO INTERNO INTERPOSTO EM FACE DE DECISÃO QUE DETERMINA O RETORNO DOS AUTOS. RECONHECIMENTO DE REPERCUSSÃO GERAL PELO SUPREMO TRIBUNAL FEDERAL. TEMA 1.199. DESPACHO QUE DETERMINA A BAIXA DOS AUTOS AO TRIBUNAL DE ORIGEM, PARA AGUARDAR JULGAMENTO DA MATÉRIA, PELO STF. IRRECORRIBILIDADE. JULGADOS DO STJ. INADEQUAÇÃO DA VIA RECURSAL ELEITA. AGRAVO INTERNO NÃO CONHECIDO.
+1. "Não cabe, em princípio, recurso contra a decisão que se limita a determinar o sobrestamento dos autos  .. , por tratar-se de ato despido de conteúdo decisório e que não gera prejuízo às partes" (AgInt nos EREsp 1533927/MG, Rel. Ministro Napoleão Nunes Maia Filho, Corte Especial, DJe 27/11/2018). No mesmo sentido: AgInt no REsp 1825093/SC, Rel. Ministro Og Fernandes, 2ª Turma, DJe 05/11/2021; AgInt no REsp n. 1.936.190/RJ, Rel. Ministra Regina Helena Costa, 1ª Turma, DJe de 8/10/2021; AgInt no AREsp n. 1.942.191/PE, Rel. Ministra Nancy Andrighi, 3ª Turma, DJe de 27/4/2022; AgInt no REsp n. 1.957.889/SP, Rel. Ministro Marco Buzzi, 4ª Turma, DJe de 6/4/2022.
+2.Considerando os arts. 1.036 a 1.041 do CPC/2015, impõe-se a devolução dos autos ao Tribunal de origem, com a devida baixa nesta Corte, a fim de que o exame do recurso especial ocorra após exercido o juízo de retratação ou declarado prejudicado o recurso extraordinário.
+3. Agravo interno não conhecido.
+VOTO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator):
+Não deve ser conhecido o agravo interno.
+Consoante precedente da Corte Especial, não cabe, em princípio, recurso contra a decisão que se limita a determinar o sobrestamento dos autos  .. , por tratar-se de ato despido de conteúdo decisório e que não gera prejuízo às partes (AgInt nos EREsp 1533927/MG, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, CORTE ESPECIAL, DJe 27/11/2018).
+A propósito, no mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. REPERCUSSÃO GERAL RECONHECIDA PELO STF. DETERMINAÇÃO DE RETORNO DOS AUTOS À ORIGEM. POSSIBILIDADE. AUSÊNCIA DE CARÁTER DECISÓRIO. IRRECORRIBILIDADE DA DECISÃO.
+1. Por medida de economia processual e para evitar decisões dissonantes entre a Corte Suprema e este Tribunal Superior, os recursos no STJ que tratem de matéria com repercussão geral reconhecida pelo STF devem aguardar, no Tribunal de origem, a solução no recurso extraordinário afetado, viabilizando, assim, o juízo de conformação, hoje disciplinado pelos arts.
+1.039 e 1.040 do CPC/2015.
+2. Somente depois de realizada essa providência, a qual representa o exaurimento da instância ordinária, o apelo nobre deverá ser encaminhado, em sua totalidade, para este Tribunal Superior, a fim de que possam ser analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+3. Hipótese em que a controvérsia dos autos se enquadra na questão jurídica constante do RE 1.043.313/RS, submetido ao rito da repercussão geral (Tema 939).
+4. Não cabe agravo interno contra decisão que se limita a remeter os autos à Corte local para observância da tese jurídica fixada pelo STF com repercussão geral reconhecida, tendo em vista que se trata de ato desprovido de conteúdo decisório e que não gera prejuízo às partes, salvo se demonstrado, efetivamente, erro ou equívoco, nos termos dos arts. 1.037, §§ 9º e 10 do CPC/2015, o que, entretanto, não é o caso dos autos (AgInt no REsp 1.911.163/RN, Rel. Min. Herman Benjamin, Segunda Turma, julgado em 22/3/2021, DJe 5/4/2021).
+5. Agravo interno não conhecido.
+(AgInt no REsp 1825093/SC, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 25/10/2021, DJe 05/11/2021)
+PROCESSUAL CIVIL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. AGRAVO INTERNO NO RECURSO ESPECIAL. DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM. MATÉRIA COM REPERCUSSÃO GERAL RECONHECIDA E DETERMINAÇÃO DE SUSPENSÃO (ART. 1.035, § 5º, DO CPC/15). DECISÃO IRRECORRÍVEL. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+II - A decisão de sobrestamento, com determinação de retorno dos autos ao tribunal de origem, a fim de que lá seja exercido o juízo de conformidade (arts. 1.040 e 1.041 do CPC/15), não possui carga decisória, sendo portanto irrecorrível, salvo se demonstrado, efetivamente, erro ou equívoco patente, o que não ocorreu.
+Precedentes.
+III - A Agravante não apresenta argumentos suficientes para desconstituir a decisão recorrida.
+IV - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo Interno não conhecido.
+(AgInt no REsp n. 1.936.190/RJ, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 8/10/2021.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO COMINATÓRIA C/C COMPENSAÇÃO POR DANOS MORAIS. PLANO DE SAÚDE. CIRURGIAS REPARADORAS PÓS BARIÁTRICA. MATÉRIA AFETADA. DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM PARA QUE PERMANEÇA SUSPENSO O RECURSO ATÉ A PUBLICAÇÃO DO ACÓRDÃO PARADIGMA. ATO DE SOBRESTAMENTO DESTITUÍDO DE CARÁTER DECISÓRIO. IRRECORRIBILIDADE. INEXISTÊNCIA DE PREJUÍZO.
+1. Conforme a jurisprudência do STJ, havendo o reconhecimento de repercussão geral, ou afetação para julgamento como repetitivo de recurso especial, é de rigor a devolução dos autos ao Tribunal de origem para que se aguarde o julgamento da matéria paradigma. Esta decisão é irrecorrível, por não gerar nenhum prejuízo para a parte.
+Eventual argumentação de distinguishing também pode ser formulada no juízo a quo. Precedentes 2. Não se deve conhecer do recurso de agravo interno impugnando a decisão que determinou a devolução dos autos ao Tribunal de origem para que observe a sistemática prevista nos arts. 1.039 e 1.040 do CPC/2015, tendo em vista que o aludido sobrestamento não é capaz de gerar nenhum prejuízo às partes, motivo pelo qual é irrecorrível.
+Precedentes.
+3. Agravo interno não conhecido.
+(AgInt no AREsp n. 1.942.191/PE, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 27/4/2022.)
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO DE COBRANÇA - MATÉRIA SUBMETIDA AO RITO DA REPERCUSSÃO GERAL NO STF - DECISÃO MONOCRÁTICA QUE DETERMINOU A DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM - OBEDIÊNCIA À SISTEMÁTICA PREVISTA NO CÓDIGO DE PROCESSO CIVIL - IRRECORRIBILIDADE. INSURGÊNCIA DA PARTE DEMANDADA.
+1. Nos termos da jurisprudência do Superior Tribunal de Justiça, "não se deve conhecer do recurso de agravo interno impugnando a decisão que determinou a devolução dos autos ao Tribunal de origem para que observe a sistemática prevista nos arts. 1.039 e 1.040 do CPC/2015, tendo em vista que o aludido sobrestamento não é capaz de gerar nenhum prejuízo às partes, motivo pelo qual é irrecorrível" (AgInt no REsp 1.663.877/SE, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe de 04/09/2017). Precedentes do STJ.
+2. Agravo interno não conhecido.
+(AgInt no REsp n. 1.957.889/SP, relator Ministro Marco Buzzi, Quarta Turma, DJe de 6/4/2022.)
+Acrescente-se, outrossim, como bem destacado na decisão agravada, que as Turmas desta Corte Superior tem entendimento no sentido da possibilidade de determinação de retorno dos autos ao Tribunal de origem até que ocorra o julgamento definitivo do recurso extraordinário no qual foi reconhecida repercussão geral.
+Ilustrativamente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MATÉRIA SUBMETIDA À REPERCUSSÃO GERAL PELO STJ. JULGAMENTO. DECISÃO QUE DETERMINA A DEVOLUÇÃO DOS AUTOS PARA JUÍZO DE CONFORMAÇÃO. MANUTENÇÃO. AGRAVO INTERNO DESPROVIDO.
+(AgInt no AREsp 1627587/PE, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 13/12/2021, DJe 15/12/2021)
+PROCESSUAL CIVIL E TRIBUTÁRIO. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. PIS E COFINS. BASES DE CÁLCULO. ICMS. TESE FIRMADA PELO SUPREMO TRIBUNAL FEDERAL.
+POSTERIOR MODULAÇÃO DOS EFEITOS. NECESSIDADE DO JUÍZO DE CONFORMAÇÃO PELO ÓRGÃO JULGADOR A QUO. EFEITO MODIFICATIVO. ANULAÇÃO DO ACÓRDÃO EMBARGADO. DEVOLUÇÃO DOS AUTOS.
+1. Nos casos de matérias submetidas à sistemática da repercussão geral, ou nela julgadas, este Tribunal Superior tem acolhido o recurso integrativo, com efeito modificativo, para anulação do acórdão do agravo interno e com a determinação de devolução dos autos ao Tribunal de origem para a realização do juízo de conformação, nos termos dos arts. 1.039 e 1.040 do CPC/2015.
+Precedentes.
+2. A respeito do ICMS destacado nas notas fiscais, o Supremo Tribunal Federal, após fixar a tese no RE 574.706 (tema 69), decidiu modular os efeitos de sua decisão, o que enseja o retorno dos autos ao Tribunal Regional Federal para exercício do juízo de conformação.
+3. Embargos de declaração acolhidos, com efeito modificativo, para tornar sem efeito o acórdão que julgou o agravo interno e determinar a devolução dos autos ao Tribunal de origem.
+(EDcl no AgInt no REsp 1928360/PR, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 06/12/2021, DJe 09/12/2021)
+Ademais, em razão da sistemática inserida no Código de Processo Civil de 2015, não há óbice para que o Relator, levando em consideração razões de economia processual, aprecie o recurso especial apenas quando exaurida a competência das instâncias ordinárias.
+É oportuno registrar que providência similar é adotada no âmbito do Supremo Tribunal Federal. Confira-se:
+CONSTITUCIONAL E TRIBUTÁRIO. EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. ICMS. ARRENDAMENTO MERCANTIL. LEASING. IMPORTAÇÃO. REPERCUSSÃO GERAL: RECONHECIMENTO. EFEITOS INFRINGENTES.
+EMBARGOS ACOLHIDOS. 1. É possível a aplicação de efeitos infringentes aos embargos de declaração, desde que presente situação que a justifique. 2. O Supremo Tribunal Federal reconheceu a existência de repercussão geral da questão constitucional referente à incidência ou não do ICMS sobre bem importado em regime de arrendamento mercantil (leasing), no RE 540.829-RG/SP, rel. Min. Gilmar Mendes, DJe 15.10.2010. 3. Embargos de declaração acolhidos para, atribuindo-lhes excepcionais efeitos modificativos, anular o acórdão embargado, tornar sem efeito a decisão agravada e determinar a devolução dos presentes autos ao Tribunal de origem, bem como a observância das disposições do art. 543-B do Código de Processo Civil ao recurso extraordinário.
+(RE 556316 AgR-ED, Relator(a): Min. Ellen Gracie, Segunda Turma, DJe 7.6.2011)
+Assim, ante o exposto, NÃO CONHEÇO DO AGRAVO INTERNO.
+É como voto.
