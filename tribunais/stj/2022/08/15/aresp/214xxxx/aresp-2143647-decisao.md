@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo interposto por INES RODRIGUES MASSUTTIcontra decisão que não admitiu recurso especial.
+O apelo nobre, fundamentado nas alíneas "a" e "c" do permissivo constitucional, desafia acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sulassim ementado:
+"APELAÇÕES CÍVEIS. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO, REPETIÇÃO DOBRADA DO INDÉBITO E INDENIZAÇÃO CONSIGNADO DESCONTO EM DOS DANOS MORAIS. EMPRÉSTIMO NA MODALIDADE CARTÃO DE CRÉDITO. BENEFÍCIO PREVIDENCIÁRIO. RESERVA DE MARGEM CONSIGNÁVEL.
+Provada a regular contratação e a disponibilização dos valores ao correntista que firmou contrato de cartão de crédito cláusula consignado com a instituição financeira, com da contratual expressa a autorizar o desconto reserva de margem consignável no benefício previdenciário da parte demandante, justifica-se a improcedência da ação declaratória de inexistência de dívida, repetição do indébito e indenização dos danos morais. Apelação do banco provida e desprovida da parte demandante (fl. 331, e-STJ).
+Os embargos de declaração opostos foram rejeitados (fls. 351/355, e-STJ).
+Nas razões do especial (fls. 359/380, e-STJ), além do dissídio interpretativo, a parte recorrente aponta negativa de vigência dos seguintes dispositivos suas respectivas teses:
+(i) arts. 489, II, § 1º, IV e V, 1.022, I e II, do Código de Processo Civil/2015 - nulidade do acórdão por não suprir as omissões apontadas nos aclaratórios;
+(ii) arts. 6º, III e VIII, 31 39, III e IV, do CDC e373, II, do CPC/2015 - as recorridas não poderiam ter disponibilizado serviço de empréstimo por meio de cartão de crédito com reserva de margem consignável sem o real consentimento da recorrente. Inexiste contrato de empréstimo consignado na modalidade de cartão assinado pela recorrente.
+Oferecidas contrarrazões (fls. 385/395 e-STJ), o recurso não foi admitido na origem, daí o presente agravo, no qual se busca o processamento do apelo nobre.
+É o relatório.
+DECIDO
+Ultrapassados os pressupostos de admissibilidade do agravo, passa-se à análise do recurso especial.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+O argumento de que o acórdão atacado teria incorrido em negativa de prestação jurisdicional é improcedente.
+De fato, o Tribunal de origem indicou adequadamente os motivos que lhe formaram o convencimento, analisando de forma clara, precisa e completa as questões relevantes do processo e solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese, como se vê do seguinte trecho:
+"(..)O voto da Relatora, que compõe o acórdão aprovado pelos votos dos integrantes da Câmara, refere-se especial e expressamente à principal questão alegada nos embargos de declaração: O contrato de cartão de crédito foi devidamente firmado pela parte demandante, sem demonstração da existência de vício de vontade, trata-se de modalidade que possui amparo na Lei Federal n.10.820, de 17-12-2003, de modo que a conduta da instituição financeira caracteriza-se como exercício regular de direito, sem demonstração da existência de abuso ou ilícito, daí inexistindo causa ou motivo para a procedência da presente ação judicial"(fl.353,e-STJ).
+Não há falar, portanto, em prestação jurisdicional lacunosa ou deficitária apenas pelo fato de o acórdão recorrido ter decidido em sentido contrário à pretensão do recorrente.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE DANOS MATERIAIS. BENFEITORIAS EM IMÓVEL. EFEITO SUSPENSIVO. REQUISITOS. AUSÊNCIA. ART. 1.022 DO CPC/2015. VIOLAÇÃO. NÃO OCORRÊNCIA. EMBARGOS DE DECLARAÇÃO. EFEITOS MODIFICATIVOS. POSSIBILIDADE.
+1. A atribuição de efeito suspensivo a recurso especial está circunscrita à presença cumulativa dos requisitos da plausibilidade do direito invocado e no perigo de dano irreparável ou de difícil reparação, que não se fazem presentes na hipótese.
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. É possível a atribuição de efeitos infringentes aos embargos de declaração quando a alteração da decisão surgir como consequência lógica da correção da omissão, contradição ou obscuridade.
+4. Agravo interno não provido" (AgInt no AREsp 1.070.607/RN, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 25/8/2017 - grifou-se).
+Além disso,as conclusões do tribunal de origem acerca do mérito da demanda decorreram inquestionavelmente da análise do conjunto fático-probatório carreado aos autos, o que se pode facilmente aferir a partir da leitura dos fundamentos do julgado atacado, que ora se colaciona, na parte que interessa:
+"(..)Meu voto dá provimento ao recurso de apelação do banco demandado para julgar improcedente a ação e julga prejudicada a apelação da parte demandante, que pretendia o reconhecimento da legitimidade da demandada FACTA FINANCEIRA S/A, a condenação dos bancos demandados à indenização dos danos morais no valor de R$ 10.000,00, com a atribuição exclusiva da sucumbência à parte demandada.
+Das circunstâncias do caso, reconstitui-se que a parte demandante é correntista e cliente do banco demandado, contraindo, originariamente, dívida decorrente do não pagamento de faturas do cartão de crédito.
+Do não pagamento das faturas do cartão de crédito na data do vencimento, a instituição financeira estava devidamente autorizada, pelo contrato, a proceder ao débito do valor mínimo indicado na fatura mensal do cartão de crédito consignado.
+O contrato de cartão de crédito foi devidamente firmado pela demandante, sem demonstração da existência de vício de vontade, de modo que a conduta da instituição financeira caracteriza-se como exercício regular de direito, sem demonstração da existência de abuso ou ilícito, daí inexistindo causa ou motivo para a procedência dos pedidos. (fl. 333, e-STJ- grifou-se).
+Nesse contexto, não é possível a este Tribunal Superior apreciar o entendimento exarado na origem, porquanto teria que, necessariamente, rever o contexto fático-probatório dos autos e o contrato firmado pelas partes, procedimentos inviáveis nesta via extraordinária, consoante disposto nas Súmulas nºs 5 e 7/STJ.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.CARTÃODECRÉDITO. FALHA NA INFORMAÇÃO AO CONSUMIDOR. ILEGALIDADE DA CONTRATAÇÃO NA MODALIDADE COM REVERSA DE MARGEM CONSIGNÁVEL (RMC). REEXAME DO CONTRATO E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. DECISÃO MANTIDA.
+1. Para rever as conclusões do acórdão recorrido quanto à falta da devida informação acerca do contrato e, por consequência, da legalidade da contratação, seria necessário interpretar as cláusulas contratuais e reexaminar o conjunto fático-probatório dos autos, o que não se admite em recurso especial, nos termos das Súmulas n. 5 e 7 do STJ.
+2. Agravo interno não provido" (AgInt no AREsp 1.962.179/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 21/2/2022, DJe 25/2/2022).
+Ademais, anota-se que a aplicação de enunciado de súmula do STJ em relação ao recurso especial interposto pela alínea "a" do permissivo constitucional prejudica a análise da mesma matéria indicada no dissídio jurisprudencial.
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa parte, negar-lhe provimento.
+Nos termos do art. 85, § 11, do Código de Processo Civil de 2015, os honorários sucumbenciais fixados pelas instâncias de origem, devidos pelo ora recorrente, devem ser acrescidos em R$ 200,00 (duzentos reais), observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
