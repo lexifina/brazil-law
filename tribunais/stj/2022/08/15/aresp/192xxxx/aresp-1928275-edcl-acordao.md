@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 09/08/2022 a 15/08/2022, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Og Fernandes e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSOE ESPECIAL. OFENSA AO ARTIGO 1.022, II, DO CPC/2015. OMISSÃO. NÃO CARACTERIZAÇÃO.EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Deveras, os embargos de declaração têm como objetivo sanar eventual existência de erro material, obscuridade, contradição ou omissão no julgado (CPC/2015, art. 1.022). É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide
+2. Com efeito, na hipótese dos autos, o recurso especial não foi denegado pelo Tribunal de origem, e sim apenas sobrestado até que fosse publicado o acórdão paradigma que consolidou entendimento sobre matéria tributária na forma do Tema 756/STF.
+3. Deste modo, resta afastada a alegação de ofensa ao art. 1.022 do CPC/2015, porque não demonstrada omissão capaz de comprometer a fundamentação do acórdão recorrido ou de constituir-se em empecilho ao conhecimento do recurso especial. Citem-se, a propósito, os seguintes precedentes: EDcl nos EDcl nos EDcl na Pet n. 9.942/RS, relator Ministro Benedito Gonçalves, Primeira Seção, julgado em 8/2/2017, DJe de 14/2/2017; EDcl no AgInt no REsp n. 1.611.355/SC, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 14/2/2017, DJe de 24/2/2017; AgInt no AgInt no AREsp n. 955.180/RJ, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 14/2/2017, DJe de 20/2/2017; AgRg no REsp n. 1.374.797/MG, Segunda Turma, relator Ministro Mauro Campbell Marques, DJe de 10/9/2014.
+4. Embargos de declaração rejeitados.
+RELATÓRIO
+Tratam-se de Embargos de Declaração opostos por Tropicos Industrial e Comercial Ltda, contra acórdão proferido pela Segunda Turma do Superior Tribunal de Justiça, cuja ementa assim estabelece, in verbis:
+PROCESSUAL CIVIL - AGRAVO DE INSTRUMENTO INTERPOSTO CONTRA DECISÃO QUE DETERMINOU O SOBRESTAMENTO DO RECURSO ESPECIAL NO TRIBUNAL DE ORIGEM. NÃO CABIMENTO. AGRAVO INTERNO NÃO PROVIDO.
+1. É inadmissível a interposição de recurso em desfavor de decisão que determina a baixa dos autos para sobrestamento do feito, em virtude da pendência de julgamento de recurso extraordinário submetido à sistemática da repercussão geral.
+2. Nos termos do art. 1.037, §§ 9º e 10, do CPC/2015, a única hipótese de alteração da decisão de sobrestamento seria a demonstração, por meio de requerimento, de que a questão a ser decidida no processo e aquela a ser julgada no recurso extraordinário afetado seriam distintas, o que não ocorreu na hipótese dos autos.
+3. Agravo interno não provido.
+Nas razões dos aclaratórios, a recorrente repisa a tese colacionada no acórdão recorrido, afirmando existir omissão, porquanto não teria havido o sobrestamento dos autos em epígrafe, mas, a inadmissão do recurso especial, ensejando desta maneira a interposição de agravo. Deste modo, segundo o embargante o acórdão recorrido padece de omissão fática, razão pela qual, nos termos das razões dos embargos de declaração, redundaria no provimento com efeitos infringentes.
+Não houve a apresentação de impugnação aos aclaratórios.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSOE ESPECIAL. OFENSA AO ARTIGO 1.022, II, DO CPC/2015. OMISSÃO. NÃO CARACTERIZAÇÃO.EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Deveras, os embargos de declaração têm como objetivo sanar eventual existência de erro material, obscuridade, contradição ou omissão no julgado (CPC/2015, art. 1.022). É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide
+2. Com efeito, na hipótese dos autos, o recurso especial não foi denegado pelo Tribunal de origem, e sim apenas sobrestado até que fosse publicado o acórdão paradigma que consolidou entendimento sobre matéria tributária na forma do Tema 756/STF.
+3. Deste modo, resta afastada a alegação de ofensa ao art. 1.022 do CPC/2015, porque não demonstrada omissão capaz de comprometer a fundamentação do acórdão recorrido ou de constituir-se em empecilho ao conhecimento do recurso especial. Citem-se, a propósito, os seguintes precedentes: EDcl nos EDcl nos EDcl na Pet n. 9.942/RS, relator Ministro Benedito Gonçalves, Primeira Seção, julgado em 8/2/2017, DJe de 14/2/2017; EDcl no AgInt no REsp n. 1.611.355/SC, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 14/2/2017, DJe de 24/2/2017; AgInt no AgInt no AREsp n. 955.180/RJ, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 14/2/2017, DJe de 20/2/2017; AgRg no REsp n. 1.374.797/MG, Segunda Turma, relator Ministro Mauro Campbell Marques, DJe de 10/9/2014.
+4. Embargos de declaração rejeitados.
+VOTO
+Deveras, a pretensão recursal não merece prosperar.
+Os embargos de declaração têm como objetivo sanar eventual existência de erro material, obscuridade, contradição ou omissão no julgado (CPC/2015, art. 1.022). É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide
+Com efeito, na hipótese dos autos, o recurso especial não foi denegado pelo Tribunal de origem, e sim apenas sobrestado até que fosse publicado o acórdão paradigma que consolidou entendimento sobre matéria tributária na forma do Tema 756/STF.
+Deste modo, resta afastada a alegação de ofensa ao art. 1.022 do CPC/2015, porque não demonstradaomissãocapaz de comprometer a fundamentação do acórdão recorrido ou de constituir-se em empecilho ao conhecimento do recurso especial. Citem-se, a propósito, os seguintes precedentes:EDclnosEDclnosEDclna Pet n. 9.942/RS, relator Ministro Benedito Gonçalves, Primeira Seção, julgado em 8/2/2017, DJe de 14/2/2017;EDclnoAgIntno REsp n. 1.611.355/SC, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 14/2/2017, DJe de 24/2/2017;AgIntnoAgIntno AREsp n. 955.180/RJ, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 14/2/2017, DJe de 20/2/2017; AgRg no REsp n. 1.374.797/MG, Segunda Turma, relator Ministro Mauro Campbell Marques, DJe de 10/9/2014.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO EM MANDADO DE SEGURANÇA. ADMINISTRATIVO. SERVIDOR. CONCURSO PÚBLICO. LOTAÇÃO PREFERENCIAL DE COMISSIONADO EM CARGO EFETIVO EM DETRIMENTO DE MELHOR COLOCADO NO CONCURSO. PRETERIÇÃO. OCORRÊNCIA. INOVAÇÃO RECURSAL. NÃO DEMONSTRAÇÃO. OMISSÃO. INEXISTÊNCIA.
+1. Não se conhece do agravo no que tange à alegada inovação recursal do impetrante, na medida em que não demonstrada em que se consistiria concretamente.
+2. A insurgência interna não se presta ao prequestionamento de matéria constitucional, mesmo em recurso ordinário em mandado de segurança.
+3. Há preterição do concursado se, na nomeação para cargo efetivo, prestigia-se, para lotação em unidade privilegiada, ocupante de cargo comissionado que foi aprovado em pior colocação que o impetrante na seleção impessoal.
+4. Agravo interno conhecido em parte e, nesse extensão, improvido.
+(AgInt nos EDcl no RMS n. 47.883/CE, relator Ministro Og Fernandes, Segunda Turma, julgado em 30/5/2022, DJe de 7/6/2022.)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. FALTA DE INDICAÇÃO DE VÍCIOS. AUSÊNCIA DE REQUISITO FORMAL. MERA IRRESIGNAÇÃO. NÃO CABIMENTO. EMBARGOS NÃO CONHECIDOS.
+1. Nos termos do art. 1.022, I, II e III, do CPC/2015, destinam-se os embargos de declaração a expungir do julgado eventual omissão, obscuridade ou contradição, ou ainda a corrigir erro material, não se caracterizando via própria ao rejulgamento da causa.
+2. A jurisprudência desta Corte Superior assenta que "não se pode conhecer dos embargos de declaração que se limitaram a externar irresignação com o que foi decidido, sem fazer referência a nenhum dos vícios enumerados no art. 1.022 do NCPC quanto ao teor do acórdão embargado, descumprindo os requisitos previstos no art. 1.023 do mesmo diploma legal" (EDcl no AgInt no CC 168.959/MT, Rel. Ministro Moura Ribeiro, Segunda Seção, julgado em 03/05/2022, DJe 05/05/2022).
+3. Embargos de declaração não conhecidos.
+(EDcl no AgInt no AREsp n. 1.974.993/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 6/6/2022, DJe de 8/6/2022.)
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
