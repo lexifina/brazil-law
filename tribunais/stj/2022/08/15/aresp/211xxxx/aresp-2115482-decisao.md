@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que não admitiu recurso especial apresentado em face de acórdão assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DE REPETIÇÃO DE INDÉBITO. CÉDULAS RURAIS PIGNORATÍCIAS/HIPOTECÁRIAS. CORREÇÃO DO DÉBITO. NULIDADE DA PERÍCIA. INOCORRÊNCIA. RESTITUIÇÃO DEVALORES.
+1. Revelando-se a perícia judicial clara e esclarecedora quanto aos pontos efetivamente salutares para a solução da crise jurídica apresentada, o que foi devidamente explicitado pela julgadora na sentença, considerando o sistema do livre convencimento motivado, não há que se cogitar nao corrência de nulidade na sua elaboração.
+2. A repetição do valor pago indevidamente deve ocorrer deforma clara, expressa e numérica, uma vez que os princípios da boa-fé e da eticidade vedam o enriquecimento sem justa causa.
+APELAÇÃO CÍVEL CONHECIDA E DESPROVIDA.
+Os embargos de declaração opostos a esse acórdão foram rejeitados.
+Em seu recurso especial, a parte ora agravante alega que o acórdão recorrido contrariou os artigos 489 e 1.022 do Código de Processo Civil (CPC), porque não foram sanados os vícios suscitados nos embargos de declaração.
+Primeiramente, anoto que os embargos de declaração, ainda que opostos para prequestionamento de normas jurídicas, são cabíveis quando a decisão padece de omissão (em relação a ponto relevante, necessário, útil e efetivamente influente para o julgamento da causa), contradição, obscuridade ou erro material.
+É legítimo o manejo de embargos de declaração para suprir omissão de tema sobre o qual devia se pronunciar o julgador, o qual não está obrigado, entretanto, a enfrentar todos os argumentos das partes, mas deve, ao emitir juízo (com base em seu livre convencimento) acerca das questões que considerar suficientes e relevantes para fundamentar sua decisão, enfrentar os argumentos que, em tese, poderiam infirmar a conclusão adotada.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. INEXISTÊNCIA DE AFRONTA AO ART. 1.022 DO CPC/2015. DANO MORAL. VALOR DA INDENIZAÇÃO. PRINCÍPIOS DA PROPORCIONALIDADE E DA RAZOABILIDADE. SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 1.022 do CPC/2015 quando a Corte local pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+ ..
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1226329/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 21/6/2018, DJe 29/6/2018)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 1.022 DO NOVO CPC/2015. REJEIÇÃO.
+1. De acordo com o previsto no artigo 1.022 do Novo CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição ou omissão do acórdão atacado ou para corrigir erro material.
+2. Nesse panorama, inexistente qualquer obscuridade, contradição, omissão ou erro material no julgado embargado, conforme exige o artigo 1.022 do Novo CPC/2015, impõe-se a rejeição dos presentes embargos de declaração.
+3. "Não configura omissão o simples fato de o julgador não se manifestar sobre todos os argumentos levantados pela parte, uma vez que está obrigado apenas a resolver a questão que lhe foi submetida com base no seu livre convencimento (art. 131, CPC)." (EDcl nos EDcl no Resp 637.836/DF, Rel. Ministro Felix Fischer, Quinta Turma, DJ 22/5/2006).
+4. Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp 1232995/PI, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 19/6/2018, DJe 26/6/2018)
+No caso, o acórdão recorrido não se ressente de falta de clareza, nem padece de obscuridade, tampouco apresenta erros materiais, lacunas ou contradições.
+Com efeito, a alegação de existência de erro no cálculo pericial, deduzida nos embargos de declaração, foi motivadamente enfrentada pelo Tribunal de origem. Não identifico, delineado esse quadro, ilegalidade na rejeição de tais embargos.
+O Tribunal de origem manifestou-se de forma clara sobre as questões e os pontos a respeito dos quais devia emitir pronunciamento. Nenhum aspecto relevante para a solução da controvérsia deixou de ser examinado. A rejeição dos embargos de declaração, vale repetir, não representou, por si só, recusa de prestação da tutela jurisdicional adequada ao caso concreto, na medida em que a matéria ventilada em tais embargos foi devidamente enfrentada. Estão bem delimitadas, no acórdão recorrido, as premissas fáticas sobre as quais apoiada a convicção jurídica formada e foram feitos os esclarecimentos que, segundo os julgadores, pareceram necessários, tudo isso de modo fundamentado.
+Não há falar, portanto, em negativa de prestação jurisdicional, senão em discordância da parte autora com o teor do julgamento.
+O acórdão recorrido apresenta fundamentos coerentes e ideias concatenadas. Não contém afirmações (premissas) que se rechaçam ou proposições inconciliáveis (incompatíveis). Existe, em suma, harmonia entre a motivação e a conclusão.
+Não constituem motivos para o reconhecimento de deficiência da prestação jurisdicional: (i) a circunstância de o entendimento adotado no acórdão recorrido não ser o esperado/pretendido pela parte; (ii) a ausência de menção expressa às normas jurídicas suscitadas pela parte; (iii) e a falta de manifestação sobre aspectos que as partes consideram importantes (em geral, benéficos às suas teses), se na decisão houverem sido enfrentadas as questões cuja resolução influenciam a solução da causa.
+A finalidade dos embargos de declaração não é obter a revisão da decisão judicial ou a rediscussão da matéria nela enfrentada, mas aperfeiçoá-la, a fim de que a prestação jurisdicional seja clara e completa. A finalidade da jurisdição, de sua vez, é alcançar a composição da lide, não discutir teses jurídicas nos moldes expostos pelas partes.
+Importante ressaltar que, "se os fundamentos do acórdão não se mostram suficientes ou corretos na opinião do recorrente, não quer dizer que eles não existam. Não se pode confundir ausência de motivação com fundamentação contrária aos interesses da parte" (Agravo Regimental no Agravo de Instrumento 56.745/SP, Relator Ministro Cesar Asfor Rocha, Primeira Turma, DJ 12/12/1994).
+Assim, não vejo razão para anular o julgado estadual.
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
