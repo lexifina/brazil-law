@@ -1,0 +1,60 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 09/08/2022 a 15/08/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Luis Felipe Salomão, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator): Trata-se de agravo interno interposto por ITAU UNIBANCO S.A contra decisão monocrática desta Relatoria que conheceu do agravo para negar provimento ao recurso especial.
+Nas razões recursais, o agravante alega, em síntese, que a Súmula 83/STJ não é fundamento cabível para negar provimento ao recurso especial do agravante, tendo em vista que a base fática dos precedentes indicados não guarda similitude com o caso concreto discutido nestes autos.
+Defende que a decisão agravada, que entendeu que o devedor fiduciário teria direito à diferença entre o valor da venda a terceiros do imóvel adjudicado e o valor da dívida, contraria o entendimento do STJ.
+Aduz que a ausência de lances equivale à não observância do mínimo legal exigido pela lei 9.514/1997, não havendo que se falar em sobejo devido, pois a alienação a terceiro se deu quando o bem já tinha sido integralmente transferido ao agravante, sendo o agravado totalmente alheio ao último negócio.
+Apresentou, ainda, oposição ao julgamento virtual do recurso.
+Ao final, requer a reforma da decisão agravada pela Turma Julgadora.
+Intimada, a parte agravada apresentou manifestação (e-STJ fl.362/366)
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO HIPOTECÁRIA. ALIENAÇÃO FIDUCIÁRIA DE IMÓVEL. LEILÕES NEGATIVOS POR AUSÊNCIA DE LICITANTES. ADJUDICAÇÃO DO BEM PELO CREDOR FIDUCIÁRIO. RESTITUIÇÃO DA DIFERENÇA ENTRE O VALOR DE AVALIAÇÃO DO BEM ADJUDICADO E O VALOR DO DÉBITO. CABIMENTO. VEDAÇÃO AO ENRIQUECIMENTO SEM CAUSA. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. A jurisprudência desta Corte é no sentido de que, na execução hipotecária, em caso de leilão infrutífero e posterior adjudicação do bem pela instituição financeira e o valor da avaliação do imóvel superou o montante do saldo devedor remanescente, é devido à instituição financeira adjudicante a restituição aos mutuários da diferença, sob pena de enriquecimento sem causa do agente financeiro. Precedentes.
+2. O entendimento adotado no acórdão recorrido coincide com a jurisprudência assente desta Corte Superior, circunstância que atrai a incidência da Súmula 83/STJ.
+3. Agravo interno a que se nega provimento.
+VOTO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator): A irresignação não merece prosperar.
+De início, cumpre destacar que as partes podem manifestar oposição ao julgamento virtual, desde que tal pleito seja devidamente fundamentado, o que não ocorreu no caso dos autos, em que o recorrente não apresentou qualquer justificativa para tal pleito.
+Frise-se que o recorrente não indicou qualquer prejuízo ao direito de defesa da parte, mormente considerando que o agravo interno é modalidade de recurso que não admite a realização de sustentação oral, na sessão presencial (art. 159, IV, do RISTJ). Neste sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE. JULGAMENTO PRESENCIAL. INDEFERIMENTO. OMISSÃO OU CONTRADIÇÃO INEXISTENTES. ACÓRDÃO DEVIDAMENTE FUNDAMENTADO. CONCLUSÃO ESTADUAL FUNDADA EM MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. RELEVANTE FUNDAMENTO DO JULGADO NÃO ATACADO NO APELO ESPECIAL. SÚMULA 283/STF. HARMONIA DO ENTENDIMENTO ESTADUAL COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Consoante orientação do Superior Tribunal de Justiça, "o Agravo interno constitui espécie recursal expressamente autorizada pelo Regimento Interno a ser incluída nesta modalidade de julgamento (art. 184-A, parágrafo único, II, do RISTJ), sobretudo porque não admite a realização de sustentação oral, na sessão presencial (art. 159, IV, do RISTJ). Ademais, na forma da jurisprudência desta Corte, no julgamento virtual, as normas regimentais garantem o respeito ao contraditório e à ampla defesa, assegurando aos advogados das partes apresentarem memoriais que auxiliem no esclarecimento das questões de fato e de direito que emergem do caso concreto  .. " (AgInt no AgInt no AREsp 1.654.071/ES, Rel. Ministra Assusete Magalhães, Segunda Turma, julgado em 30/11/2020, DJe 2/12/2020). (..)
+6. Agravo interno desprovido.
+(AgInt no REsp 1981683/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 09/05/2022, DJe 11/05/2022)
+AGRAVO INTERNO NO RECURSO ESPECIAL. OPOSIÇÃO AO JULGAMENTO VIRTUAL. ART. 184-D, PARÁGRAFO ÚNICO, II, DO RISTJ. REVISÃO DE CONTRATO DE ABERTURA DE CRÉDITO. CAPITALIZAÇÃO. AFASTADA SOB FUNDAMENTO DE INCONSTITUCIONALIDADE DA NORMA. INVIABILIDADE DE ANÁLISE EM SEDE DE RECURSO ESPECIAL. REPETIÇÃO DE INDÉBITO. VIOLAÇÃO ART. 42 DO CDC. AUSÊNCIA DE PREQUESTIONAMENTO. RECURSO NÃO CONHECIDO.
+1. Segundo a jurisprudência desta Corte Superior, a oposição ao julgamento virtual (art. 184-D, parágrafo único, II, do RISTJ) deve ser acompanhada de argumentação idônea a bem evidenciar efetivo prejuízo ao direito de defesa da parte, ônus do qual não se desencumbiu o ora agravante. Precedentes. (..)
+5. Agravo interno não provido.
+(AgInt no REsp 1589487/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 23/11/2020, DJe 01/12/2020)
+Quanto ao mérito do recurso, alega a instituição financeira agravante que teria sido deferido ao agravado o direito à diferença entre o valor da venda a terceiro do imóvel anteriormente adjudicado e o valor da dívida, o que contraria o entendimento do STJ, que só garante o direito a diferença em caso de imóvel arrematado em leilão por valor superior à dívida.
+Ocorre que, conforme constou na decisão agravada, o que o agravado pleiteia no caso concreto e lhe foi deferido, é o direito à diferença entre o valor da avaliação do bem adjudicado e o saldo devedor, e não a diferença entre este último e o valor da posterior da venda a terceiro do referido bem, senão vejamos:
+"Nesse contexto, realizados dois leilões extrajudiciais para alienação do imóvel, conforme preceitua o artigo 27 do referido diploma legal, restaram estes infrutíferos em razão da ausência de licitante (fls. 126, 130/131).
+Sendo assim, como no caso o leilão resultou negativo por falta de lançadores e não porque o maior lance oferecido não foi igual ou superior ao valor da dívida, como descreve o parágrafo 5º do artigo 27, não há como se aplicar o referido dispositivo e eximir o credor de devolver a quantia que sobejar o valor do débito.
+Isso porque, somente quando o valor obtido na venda do imóvel é inferior ao valor da dívida que a obrigação do credor em restituir qualquer quantia deixa de existir, o que não é o caso.
+Como bem observou o douto magistrado: No segundo leilão, o bem foi apregoado pelo valor de R$202.808,26, correspondente à soma de todos os valores devidos à instituição financeira, nos termos do $ 2º, do art. 27, da Lei nº 9.514/97. Por conseguinte, fazia jus o banco requerido ao recebimento da quantia pela qual o imóvel foi apregoado em segundo leilão. Entretanto, ao adjudicar o bem, o banco incorporou ao seu patrimônio imóvel cujo valor excedeu em R$140.134,15, o valor que lhe era devido.
+Portanto, para se evitar o enriquecimento ilícito, visto que existiria proveito econômico muito superior ao débito existente, deve ser mantida a condenação do credor fiduciário na restituição de valor.
+No entanto, a devolução deve se dar entre a diferença do valor da avaliação, pelo qual foi adjudicado o imóvel, e o valor do crédito atualizado, ambos devidamente atualizados, compensando-se com o montante devido a título de taxa de ocupação, devida desde a data do segundo leilão até a imissão na posse (art.37-A, Lei 9514/98, vigente antes da redação dada pela Lei 13.465/17) " (e-STJ fl. 222/223)
+A jurisprudência do Superior Tribunal de Justiça já firmou entendimento no sentido de que, ocorrendo o inadimplemento de devedor em contrato de alienação fiduciária em garantia de bens imóveis, a quitação da dívida deverá observar a forma prevista nos arts. 26 e 27 da Lei nº 9.514/97, por se tratar de legislação específica. Havendo leilão extrajudicial do imóvel e sendo frustrado o segundo, deve a dívida ser compulsoriamente extinta e as partes contratantes exoneradas das suas obrigações, ficando o imóvel com o credor fiduciário, conforme decidido no julgamento do REsp nº 1.654.112/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. 23/10/2018, DJe 26/10/2018 e AgInt no AgInt no REsp n. 1.861.293/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 7/12/2020, DJe de 11/12/2020.)
+Na espécie, o Tribunal de origem conclui categoricamente que, "no segundo leilão, o bem foi apregoado pelo valor de R$202.808,26, correspondente à soma de todos os valores devidos à instituição financeira", bem como, "ao adjudicar o bem, o banco incorporou ao seu patrimônio imóvel cujo valor excedeu em R$140.134,15, o valor que lhe era devido".
+Nesse contexto, verifica-se, inequivocamente, que a quantia de R$140.134,15 sobeja ao valor realmente devido ao credor fiduciário, causando enriquecimento ilícito quanto a este montante.
+Nesse cenário, constata-se que o entendimento acima está de acordo com a jurisprudência do Superior Tribunal de Justiça, no sentido de que, na execução hipotecária, em caso de leilão infrutífero e posterior adjudicação do bem pela instituição financeira e o valor da avaliação do imóvel superou o montante do saldo devedor remanescente, é devido à instituição financeira adjudicante a restituição aos mutuários da diferença, sob pena de enriquecimento sem causa do agente financeiro.
+Nesse sentido:
+RECURSO ESPECIAL. EXECUÇÃO HIPOTECÁRIA. ADJUDICAÇÃO DO BEM PELO AGENTE FINANCEIRO. DIREITO À DEVOLUÇÃO AO EXECUTADO DA DIFERENÇA ENTRE O SALDO DEVEDOR E O VALOR DO BEM ADJUDICADO. INTERPRETAÇÃO SISTEMÁTICA DO ART. 7º DA LEI 5.741/71. CONCREÇÃO DOS PRINCÍPIOS DA VEDAÇÃO DO ENRIQUECIMENTO SEM CAUSA E DA FUNÇÃO SOCIAL DO CONTRATO.
+1. Execução hipotecária em que valor da avaliação do imóvel superou o montante do saldo devedor remanescente.
+2. Correta a determinação pelo juízo à instituição financeira adjudicante de restituição aos mutuários da diferença.
+3. Interpretação da regra do art. 7º da Lei 5.741/71 à luz dos princípios da vedação do enriquecimento sem causa e da função social do contrato.
+4. Doutrina e jurisprudência desta Corte acerca do tema controvertido.
+5. RECURSO ESPECIAL DESPROVIDO.
+(REsp 1124362/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 15/12/2011, DJe 21/05/2012)
+EXECUÇÃO HIPOTECÁRIA. LEI N. 5.741/71. ADJUDICAÇÃO DO IMÓVEL PELO AGENTE FINANCEIRO PELO VALOR DE AVALIAÇÃO.
+SALDO DEVEDOR INFERIOR À AVALIAÇÃO. DEVOLUÇÃO DO QUE SOBEJAR AO MUTUÁRIO.
+1.- A interpretação dos artigos 6º e 7º da Lei n. 5.741/71 deve observar o cunho social do financiamento imobiliário prestado pelo Sistema Financeiro da Habitação, de modo a evitar injustiças no ato da adjudicação com o enriquecimento sem causa do exequente e onerosidade excessiva ao executado. Por isso concluiu a Corte Especial ser necessária a avaliação do imóvel.
+2.- Seguindo tais lineamentos, não é razoável que o credor fique com o que sobejar entre o valor da avaliação e o saldo devedor, sob pena de enriquecimento sem causa do agente financeiro.
+3.- Recurso Especial improvido.
+(REsp 1165587/SP, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 15/12/2011, DJe 17/02/2012)
+Dessa forma, incide, in casu, o óbice processual sedimentado no verbete da Súmula 83 do Superior Tribunal de Justiça.
+Assim, ante da ausência de qualquer subsídio capaz de alterar os fundamentos do acórdão recorrido, subsiste incólume o entendimento nele firmado, não merecendo prosperar, portanto, o presente apelo nobre.
+Ante o exposto, nega-se provimento ao agravo interno.
+É como voto.
