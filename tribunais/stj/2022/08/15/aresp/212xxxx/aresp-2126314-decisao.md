@@ -1,0 +1,75 @@
+DECISÃO
+Trata-se de agravo interposto por ASSOCIAÇÃO HOSPITALAR DE PROTEÇÃO À INFÂNCIA DR. RAUL CARNEIRO contra a decisão que inadmitiu recurso especial. O apelo extremo, com fundamento no artigo 105, III, "a" e "c", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado do Paraná, assim ementado:
+"APELAÇÕES CÍVEIS. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. FALHA NA PRESTAÇÃO DE SERVIÇOS HOSPITALARES. SENTENÇA DE PARCIAL PROCEDÊNCIA.
+RECURSO DE APELAÇÃO 1: INTERPOSTO PELA RÉ.
+1) ALEGAÇÃO DE AUSÊNCIA DE FALHA NA PRESTAÇÃO DE SERVIÇOS, UMA VEZ QUE A PACIENTE JÁ POSSUÍA COMPROMETIMENTO PULMONAR QUANDO PROCUROU ATENDIMENTO, EM RAZÃO DE PNEUMONIA BACTERIANA, BEM COMO SE MOVIMENTAVA CONSTANTEMENTE, EM RAZÃO DA SÍNDROME DE RETT, O QUE DIFICULTOU O POSICIONAMENTO CORRETO DA SONDA PARA ALIMENTAÇÃO. NÃO ACOLHIMENTO. PROVAS DOCUMENTAL, TESTEMUNHAL E PERICIAL QUE ATESTAM O ERRO POR PARTE DA ENFERMEIRA QUANDO DA PASSAGEM DA SONDA. VISUALIZAÇÃO DE EXAME DE IMAGEM REFERENTE AO DIA ANTERIOR, EM QUE A SONDA ESTAVA CORRETAMENTE POSICIONADA. POSTERIOR INTRODUÇÃO DA DIETA E ACÚMULO DE LÍQUIDO NO PULMÃO DIREITO QUE OCASIONOU INFECÇÃO E PERDA DE GRANDE PARTE DO ÓRGÃO. PACIENTE QUE TEVE SÉRIAS COMPLICAÇÕES RESPIRATÓRIAS, PASSANDO AUTILIZAR VENTILAÇÃO MECÂNICA. NEXO CAUSAL EVIDENCIADO. DEVER DE INDENIZAR MANTIDO.
+2) INDENIZAÇÃO POR DANO MORAL. PEDIDO DE AFASTAMENTO OU MINORAÇÃO. IMPOSSIBILIDADE. PREJUÍZO DE ORDEM MORAL EVIDENCIADO. AUTORA QUE PERDEU MAIS DA METADE DO PULMÃO DIREITO E JÁ HAVIA RETIRADO PARTE DO PULMÃO ESQUERDO, NECESSITANDO DE VENTILAÇÃO MECÂNICA. CRITÉRIO BIFÁSICO. VALOR ARBITRADO PELO MAGISTRADO A QUO QUE ESTÁ DE ACORDO COM A JURISPRUDÊNCIA DESTE TRIBUNAL E COM AS PECULIARIDADES DO CASO CONCRETO.
+RECURSO DE APELAÇÃO 2: INTERPOSTO PELA AUTORA.
+1) PEDIDO DE JUSTIÇA GRATUITA EM GRAU RECURSAL. NÃO CONHECIMENTO DO RECURSO NESTE TOCANTE. BENEFÍCIO CONCEDIDO PELO JUÍZO DE ORIGEM QUE SE ESTENDE AS DEMAIS INSTÂNCIAS.
+2) PEDIDO DE RECONHECIMENTO DA RESPONSABILIDADE DO HOSPITAL PELA FRATURA OCORRIDA DURANTE A REALIZAÇÃO DE EXAME DE TOMOGRAFIA, BEM COMO PELO SURGIMENTO DE ESCARAS. ACOLHIMENTO DO PRIMEIRO PEDIDO. RESPONSABILIDADE OBJETIVA DO HOSPITAL PELOS ATOS PRATICADOS POR SEUS FUNCIONÁRIOS. INTELIGÊNCIA DO ARTIGO 14, CAPUT E § 3º, DO CDC. AUSÊNCIA DE PROVAS DA PRESENÇA DE EXCLUDENTES DE RESPONSABILIDADE. DEVER DE INDENIZAR CONFIGURADO NESTE TOCANTE. ÚLCERAS DE PRESSÃO (ESCARAS) DECORRENTES DA RESTRIÇÃO DE MOBILIDADE. IDIOSSINCRASIAS DA PACIENTE. AUTORA QUE AS APRESENTAVA ANTES MESMO DO OCORRIDO. PROTOCOLO PARA PREVENÇÃO DE ÚLCERAS DE PRESSÃO ESTABELECIDO PELO NOSOCÔMIO. SENTENÇA MANTIDA.
+3) PLEITO PARA MAJORAÇÃO DA INDENIZAÇÃO POR DANO MORAL. ACOLHIMENTO, ANTE O RECONHECIMENTO DA RESPONSABILIDADE DO NOSOCÔMIO PELA FRATURA OCORRIDA DURANTE O PERÍODO DE INTERNAMENTO. CRITÉRIO BIFÁSICO. VALOR ARBITRADO DE ACORDO COM A JURISPRUDÊNCIA DESTE TRIBUNAL E COM AS PECULIARIDADES DO CASO CONCRETO.
+4) NECESSIDADE DE SUSPENSÃO DA EXIGIBILIDADE DAS VERBAS DE SUCUMBÊNCIA. ACOLHIMENTO. AMBAS AS PARTES BENEFICIÁRIAS DA GRATUIDADE DA JUSTIÇA. INTELIGÊNCIA DO ARTIGO 98, § 3º, DO CPC. SUSPENSÃO DEVIDA.
+5) REQUERIMENTO PARA QUE SEJA EXIMIDA DE ARCAR COM OS ÔNUS SUCUMBENCIAIS. IMPOSSIBILIDADE. SUCUMBÊNCIA RECÍPROCA CORRETAMENTE RECONHECIDA. ARTIGO 86, CAPUT, DO CPC.
+RECURSO DE APELAÇÃO 1: CONHECIDO E NÃO PROVIDO.
+RECURSO DE APELAÇÃO 2: CONHECIDO PARCIALMENTE E, NA PARTE CONHECIDA, PARCIALMENTE PROVIDO" (fls. 936/938, e-STJ).
+Os embargos de declaração opostos foram rejeitados (fls. 1.002/1.011, e-STJ).
+No especial, a recorrente aponta, além de divergência jurisprudencial, violação dos arts. 1.022, I, do Código de Processo Civil de 2015 e 186, 188, I, 927 e 944 do Código Civil, argumentando, em síntese:
+(i) haver omissão e contradição no acórdão recorrido;
+(ii) a inexistência de erro médico ou ato ilícito do hospital, devendo ser afastada a condenação à indenização por danos morais, ante a ausência de nexo de causalidade.
+(iii) que a paciente já ingressou no nosocômio com as funções pulmonares comprometidas, que não houve culpa exclusiva da recorrente no deslocamento da sonda pulmonar e que a fratura decorreu da osteopenia que acomete a recorrida; e
+(iv) a necessidade de revisão dos valores fixados a título de indenização por danos morais, porquanto exorbitante.
+Apresentadas contrarrazões às fls. 1.062/1.081 (e-STJ).
+O Presidente do tribunal de origem inadmitiu o recurso especial, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+O tribunal de origem dirimiu a controvérsia nos seguintes termos:
+"(..)
+Registre-se que, no caso dos danos ocasionados no pulmão da autora, em razão da colocação equivocada da sonda nasoenteral, ficou evidente que houve negligência e imperícia dos funcionários do hospital. Diante disso, mesmo se tratando de responsabilidade objetiva, por se referir a defeito de prestação de serviços extramédicos, no caso restou demonstrada a culpa por parte do corpo de enfermagem do hospital.
+(..)
+Logo, verifica-se que o dano causado ao pulmão direito da autora se deu em decorrência de erro perpetrado pela enfermeira, que, após a colocação da sonda para alimentação, se baseou em exame de imagem do dia anterior, que atestava seu correto posicionamento, e não no exame feito naquele dia, ministrando a dieta com acúmulo do líquido diretamente naquele órgão, causando as complicações subsequentes.
+Embora a ré alegue que o mau posicionamento da sonda se deu em razão da agitação da autora, tal alegação não é capaz de afastar sua responsabilidade pelo ocorrido.
+Isto porque ficou comprovado através do laudo pericial e da prova testemunhal produzida o nexo de causalidade entre a conduta da enfermeira e o dano experimentado pela autora, visto que, em virtude da visualização errônea de exame de imagem, não percebeu que a sonda estava colocada de maneira incorreta.
+(..)
+Assim sendo, em relação ao dano experimentado pela colocação incorreta da sonda de alimentação, imperioso reconhecer o dever de indenizar, conforme bem pontuado pelo magistrado a quo.
+(..)
+Assim, mostra-se incontroversa a ocorrência da fratura durante a realização do exame de tomografia, sendo que, conforme exposto anteriormente, de acordo como artigo 14, caput e § 3º, do CDC, o nosocômio, como fornecedor de serviços responde objetivamente pelos danos causados, a não ser que comprove que estes decorreram de culpa exclusiva de terceiro ou da vítima ou, então, que o serviço não foi prestado de maneira defeituosa.
+No caso específico, há responsabilidade do Hospital frente à atuação de seu corpo de funcionários, não havendo excludente de responsabilidade por culpa da vítima, pois ela, como paciente, em situação debilitada, dependia totalmente dos cuidados da equipe do Hospital, que deveria zelar pelo seu bem-estar e cumprir rigorosamente as normas de segurança.
+Nesse ponto, não prospera sua alegação de que a fratura decorreu puramente do quadro frágil de saúde da paciente (osteopenia), pois a segurança dos pacientes, ainda mais em situação de completa vulnerabilidade como no caso, a qual era de conhecimento por parte dos funcionários, é dever primordial do Hospital, não podendo ser imputada qualquer responsabilidade à apelada, que sequer respondia por si.
+Assim, em que pesem as alegações da parte ré, ela não obteve êxito em comprovara ocorrência de causa excludente capaz de afastar sua responsabilidade objetiva pela fratura ocasionada durante a realização do exame.
+(..)
+A culpa da ré é grave, pois, conforme dito anteriormente, o erro na passagem da sonda para alimentação da paciente causou a perda de grande parte do pulmão direito da paciente, tornando imprescindível que ela utilize ventilação mecânica para poder respirar, além das demais consequências advindas da insuficiência respiratória com a qual passou a conviver, como necessidade de atendimento home care e limitação de locais que pode frequentar. Ademais, a paciente também teve seu sofrimento majorado em virtude da fratura ocorrida durante a realização do exame de tomografia.
+Assim, sopesando as circunstâncias do caso, bem como os princípios da razoabilidade e proporcionalidade, tem-se que o valor fixado a título de danos morais pelo magistrado a quo referente aos danos morais pela perda parcial do pulmão se mostra adequado (R$ 35.000,00).
+No tocante à fratura, tem-se que o valor de R$ 5.000,00 (cinco mil reais) se mostra suficiente para os danos morais dela advindos.
+Diante do exposto, neste tópico de insurgência, imperioso o provimento do recurso de apelação da autora, a fim de que o valor total da indenização por danos morais seja de R$ 40.000,00 (quarenta mil reais)" (fls. 947/962, e-STJ).
+De início, no tocante à violação do art. 1.022, I, do Código de Processo Civil de 2015, verifica-se que o tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese. Não há falar, portanto, em existência de omissão ou de deficiência de fundamentação apenas pelo fato de o julgado recorrido ter decidido em sentido contrário à pretensão da parte.
+Quanto ao mérito, diante das premissas fáticas estabelecidas no acórdão, a reforma do aresto demandaria o reexame de matéria fático-probatória, providência inviável em recurso especial, haja vista o óbice da Súmula nº 7/STJ.
+Ademais, o Superior Tribunal de Justiça firmou entendimento no sentido de que o exame do valor fixado a título de danos morais somente é admissível em hipóteses excepcionais, quando for verificada a exorbitância ou a irrisoriedade da importância arbitrada, em flagrante ofensa aos princípios da razoabilidade e da proporcionalidade. Nesse sentido: AgRg no REsp 971.113/SP, Quarta Turma, Rel. Min. JOÃO OTÁVIO DE NORONHA, DJe de 8/3/2010; AgRg no REsp 675.950/SC, Terceira Turma, Rel. Min. SIDNEI BENETI, DJe de 3/11/2008; AgRg no Ag 1.065.600/MG, Terceira Turma, Rel. Min. MASSAMI UYEDA, DJe de 20/10/2008.
+Inexistem, entretanto, tais circunstâncias no presente caso, em que não se pode afirmar desarrazoado o arbitramento da indenização pelos danos morais no valor de R$ 40.000,00 (quarenta mil reais).
+Não se pode dizer que a referida quantia destoa dos parâmetros adotados por esta Corte em precedentes análogos, ao revés, revela-se perfeitamente adequada diante das especificidades do caso concreto, sendo inarredável, assim, a aplicação à espécie do óbice inserto no mencionado verbete sumular nº 7/STJ.
+Nesse sentido:
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. RESPONSABILIDADE CIVIL. CARACTERIZAÇÃO. SOLIDARIEDADE. ENTENDIMENTO ADOTADO NESTA CORTE. VERBETE 83 DA SÚMULA DO STJ. FUNDAMENTO NÃO ATACADO. SÚMULA 182/STJ. ERRO MÉDICO. DANOS MORAIS. OCORRÊNCIA. ANÁLISE. INVIABILIDADE. NECESSIDADE DE REEXAME FÁTICO. SÚMULA 7/STJ. INDENIZAÇÃO. VALOR. REVISÃO. POSSIBILIDADE. EXORBITÂNCIA OU IRRISORIEDADE. NÃO VERIFICAÇÃO. CONHECIMENTO PARCIAL. NÃO PROVIMENTO.
+1. Nos termos do art. 1.021, § 1º, do Código de Processo Civil/2015 e da Súmula 182/STJ, é inviável o agravo interno que deixa de atacar especificamente os fundamentos da decisão agravada.
+2. No presente caso, a parte ora agravante não impugnou a incidência da Súmula 83/STJ.
+3. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+4. Admite a jurisprudência do Superior Tribunal de Justiça, excepcionalmente, em recurso especial, reexaminar o valor fixado a título de indenização por danos morais, quando ínfimo ou exagerado. Hipótese, todavia, em que o valor foi estabelecido na instância ordinária, atendendo às circunstâncias de fato da causa, de forma condizente com os princípios da proporcionalidade e razoabilidade.
+5. Agravo interno conhecido parcialmente e, nessa parte, não provido" (AgInt no AgInt no AREsp n. 1.822.659/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 4/4/2022, DJe de 7/4/2022).
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ERRO MÉDICO. RESPONSABILIDADE CIVIL. HOSPITAL. DEVER DE INDENIZAR. EMBARGOS DE DECLARAÇÃO. CARÁTER PROTELATÓRIO. MULTA. REEXAME DE PROVAS.
+1. Não há falar em prestação jurisdicional lacunosa ou deficitária apenas pelo fato de o acórdão recorrido ter decidido em sentido contrário à pretensão do recorrente.
+2. Examinados a petição dos embargos de declaração e o acórdão embargado, verifica-se que o Tribunal a quo já havia analisado e decidido de modo claro e objetivo as questões que delimitaram a controvérsia, não havendo a necessidade de oposição de embargos de declaração. Caracterizado os efeitos protelatórios dos embargos, é lícita a imposição de multa.
+3. O Tribunal de origem entendeu que as provas colhidas no decorrer da instrução evidenciam o erro na realização do procedimento de betaterapia que ocasionaram as lesões descritas na inicial e rever tal entendimento demanda reexame de provas. Súmula 7/STJ.
+4. Admite-se a modificação do valor dos danos morais a título de indenização, apenas excepcionalmente, nas hipóteses em que configurada a insignificância ou eventual exorbitância do valor arbitrado pelas instâncias de ampla cognição, o que não ocorre no caso em apreço. Isso porque a quantia fixada pelo Tribunal de origem em R$ 60.000,00, além de atender as circunstâncias do caso concreto, não escapa à razoabilidade.
+5. Agravo interno não provido" (AgInt no AREsp n. 1.938.372/DF, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 28/3/2022, DJe de 30/3/2022).
+Consoante iterativa jurisprudência desta Corte, a necessidade de reexame da matéria fática impede a admissão do recurso especial tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO COMINATÓRIA CUMULADA COM COMPENSAÇÃO POR DANOS MORAIS. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. DANOS MORAIS NÃO CONFIGURADOS. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA 568/STJ. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. DISSÍDIO PREJUDICADO.
+(..)
+4. O reexame de fatos e provas em recurso especial é inadmissível.
+5. A incidência da Súmula 7/STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+6. Agravo interno não provido" (AgInt no REsp 1.889.218/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 26/10/2020, DJe 29/10/2020).
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Na origem, reconhecida a sucumbência recíproca, os honorários advocatícios foram fixados em desfavor da recorrente em 12% (doze por cento) sobre o valor da condenação, os quais devem ser majorados para 15% (quinze por cento) em favor do advogado da recorrida, observada assistência gratuita, se for o caso.
+Publique-se.
+Intimem-se.
