@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso ordinário em mandado de segurançainterposto pela ASSOCIAÇÃO CENTRAL ÚNICA DOS MILITARES ESTADUAIS DE MINAS GERAIS - CUMEcontra acórdão do Tribunal de Justiça localassim ementado (e-STJ fl. 114):
+EMENTA: MANDADO DE SEGURANÇA. REQUISITOS. AUSÊNCIA DE DEMONSTRAÇÃO DO DIREITO LÍQUIDO E CERTO. NATUREZA DOS REPASSES NÃO COMPROVADA.
+- Segundo a melhor doutrina, o mandado de segurança deve estar alicerçado em exclusiva e esclarecedora prova documental dos fatos alegados pelo impetrante, não admitindo a via utilizada que a mera alegação possa suportar a concessão da ordem.
+- Se o direito, ou o fato, não estão adequadamente comprovados, exigindo a produção de prova em outra via, não cabe mandado de segurança.
+- As receitas da entidade impetrante constituem, além das contribuições a que são obrigados os sócios, "taxas e comissões resultantes das prestações de serviços pela CUME"; rendas de bens da entidade"; e "auxílios ou subvenções dos poderes públicos", dentre outros (doc. de ordem 07 - Processo 1.0000.18.068438-3/000), não sendo possível afirmar que a ausência de repasse seja a dos "auxílios ou subvenções" mencionados na inicial.
+- Precedente do STF - Suspensão de Tutela Provisória (STP) nº 78 - Relator. Min. Dias Toffoli, decidindo caso de Minas Gerais.
+Alega a Associação recorrente que o Estado de Minasnão vem realizando o repasse dos valores pertencentes à CUME, retendo, ilicitamente, tais valores deixando a recorrente em dificuldades para manter os serviços inerente a associação.
+Contrarrazões.
+O parecer do MPF opinapelo não provimento do recurso, caso conhecido(e-STJ fls. 365/372).
+Passo a decidir.
+Entendo que o recurso não merece conhecimento, porque a falta de combate aos fundamentos que embasaram o aresto impugnado, suficientes para mantê-lo, acarreta a incidência do óbice das Súmulas 283 e 284 do STF.
+Consoante jurisprudência do STJ, padece de irregularidade formal o recurso em que a recorrente descumpre seu ônus de impugnar especificamente os fundamentos do acórdão recorrido, deixando de atender ao princípio da dialeticidade (AREsp 1.519.064/CE, rel. Ministro Herman Benjamin, Segunda Turma, julgado em 22/10/2019, DJe 05/11/2019).
+A propósito: AgInt no RMS 58.200/BA, desta Relatoria, Primeira Turma, DJe 28/11/2018; AgRg no RMS 44.887/SP, rel. Ministro Herman Benjamin, Segunda Turma, DJe 11/11/2015; AgRg no RMS 43.815/MG, rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 27/5/2016.
+Em complemento, esta Corte entende que "o recurso ordinário em mandado de segurança, como espécie recursal que é, reclama, para sua admissibilidade, a fiel observância do princípio da dialeticidade, impondo-se à parte recorrente o ônus de expor, com precisão e clareza, os erros de procedimento ou de aplicação do direito que justificam a reforma do acórdão recorrido, não bastando, para isso, a simples insatisfação com a denegação da ordem." (AgInt no RMS 41.710/BA, rel. Ministro Sérgio Kukina, Primeira Turma, DJe de 26/3/2018).
+O TJ/MG denegou a ordem sob os seguintes fundamentos (e-STJ fls. 119):
+Neste caso, como prova de suas alegações, a impetrante acentua que a ilustre autoridade não fez nenhum crédito em sua conta no mês de maio de 2018 (doc. de ordem 03); e que efetuou depósitos em abril de 2018, no valor de R$32.926,98, referente a CRED.TED.STR Estado de Minas Gerais (Maio) - SEPLAG (doc. De ordem 04) e outro crédito -- de R$75.682,08 --, pelo Estado de Minas Gerais (doc. de ordem 04).
+Demonstra, também, o depósito do valor de R$31.916,82 pela SEPLAG histórico CRED.TED.STR Estado de Minas Gerais (abril) (doc. de ordem 05) e o crédito no valor de R$75.469,20 pelo Estado de Minas Gerais em 13/04/2018 (doc. de ordem 05).
+Todavia, data vênia, não é possível afirmar, com segurança, que esses depósitos refiram-se à contribuição a que alude o artigo 8º da CR; ou a contribuições descontadas dos contracheques dos servidores filiados à impetrante.
+Verifica-se, mais, que as receitas da entidade impetrante constituem, além das contribuições a que são obrigados os sócios, "taxas e comissões resultantes das prestações de serviços pela CUME"; rendas de bens da entidade"; e "auxílios ou subvenções dos poderes públicos", dentre outros.(fls. 13 - doc. de ordem 07), não sendo possível afirmar que o montante não repassado sejam os dos auxílios ou subvenções.
+Os fundamentos, inclusive isoladamente, são capazes de preservar toda a higidez da decisão combatidae não foram devidamente impugnados no recurso.
+Com efeito, a impetrante não impugnou os fundamentos acima elencados no tocante à demonstração de que os valores anteriormente mencionados e acostados aos autos às e-STJ fls. 246/247não se referem ao repasse do Estado de Minas Gerais relativo ao desconto realizado no contracheque de seus servidores, conforme bem ressaltado no parecer ministerial.
+Ante o exposto, NÃO CONHEÇO do recurso.
+Publique-se. Intimem-se.
