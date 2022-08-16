@@ -1,0 +1,11 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido liminar, impetrado pelo próprio paciente ANILDO FÁBIO DE ARAÚJO, por meio do qual requer "a concessão de ordem de HABEASCORPUS, determinando o ARQUIVAMENTO das Ações Indenizatórias e das respectivas Execuções e Recursos, que tramitam ou tramitaram perante as Varas Cíveis ou Turmas/Câmaras do TJDFT, em face dos artigos 37, § 6º (Tema 940, do STF: Recurso Extraordinário n. 1.027.633) e 109,inciso I, da Constituição Federal de 1988, das Súmulas n. 150e 254, do STJ, visto que o Impetrante não pode ser obrigado a cumprir sentenças, acórdãos, decisões e despachos de Juiz ou Tribunal INCOMPETENTE, tendo em vista o princípio do JUIZ NATURAL, do DEVIDOPROCESSO LEGAL, da responsabilidade civil do Estado por erro ou falhas dos seus agentes".
+Alega, em síntese, terem sido propostas ações indenizatórias contra si, que tramitam perante a 6ª e a 24ª Varas Cíveis de Brasília, havendo, também, recursos em trâmite junto ao TJDFT. Defende, todavia, que a Justiça estadual é absolutamente incompetente para julgamento das ações indenizatórias e que foram deferidas penhoras ilegais de RPV e precatório com caráter alimentar.
+É o relatório. Decide-se.
+É pacífico o entendimento firmado nesta Corte de que não se conhece de habeas corpus cuja questão já tenha sido objeto de análise em oportunidade diversa, tratando-se de mera reiteração de pedido (AgRg no HC n. 750.423/SP, Quinta Turma, DJe de 8/8/2022; AgRg no HC n. 531.227/SP, Quinta Turma, DJe de 18/9/2019).
+Na espécie, em consulta ao sistema processual desta Corte, verificou-se que o presente writ é mera reiteração do HC 726985/DF, que transitou em julgado em 12/05/2022.
+Na petição inicial daquele recurso o impetrante narrou as mesmas circunstâncias aqui relatadas, insurgindo-se contra as mesmas condutas apontadas como ilegais supostamente praticadas pelos juízes da 6ª e 24ª Varas Cíveis de Brasília e por Desembargadores do TJDFT.
+Assim, as alegações defensivas não podem ser novamente apreciadas, sob pena de ofensa à coisa julgada.
+Forte nessas razões, INDEFIRO LIMINARMENTE a petição inicial do habeas corpus, porque manifestamente incabível, com fundamento no art. 210 do RISTJ.
+Publique-se. Intime-se.
+Arquivem-se os autos.
