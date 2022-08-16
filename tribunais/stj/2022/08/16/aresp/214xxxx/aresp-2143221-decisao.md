@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial por incidência dasSúmulas n. 5 e 7 do STJ.
+O acórdão recorrido está assim ementado (e-STJ fl. 210):
+APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA DE NULIDADE DE NEGÓCIO JURÍDICO CUMULADA COM PEDIDO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. SENTENÇA DE IMPROCEDÊNCIA. INSURGÊNCIA DA PARTE AUTORA. EMPRÉSTIMO CONSIGNADO E TERMO DE ADESÃO A CARTÃO DE CRÉDITO COM ABATIMENTO DE "RESERVA DE MARGEM" (RMC) DIRETAMENTE NO BENEFÍCIO PREVIDENCIÁRIO RECEBIDO PELO DEMANDANTE. DEFENDIDA A ILEGALIDADE DO CONTRATO. REJEIÇÃO. CONTRATAÇÃO ACOMPANHADA DE TERMO DE CONSENTIMENTO ESCLARECIDO COM APOSIÇÃO DE FIGURA EXEMPLIFICATIVA E ILUSTRATIVA, EM DESTAQUE, DA TARJETA MAGNÉTICA. AQUIESCÊNCIA INEQUÍVOCA ACERCA DA MODALIDADE AVENÇADA PELA PARTE AUTORA. DEVER DE INFORMAÇÃO ATENDIDO. PRÁTICA ABUSIVA NÃO EVIDENCIADA. INEXISTÊNCIA DE QUALQUER ATO ILÍCITO NA ESPÉCIE. REQUISITOS DA RESPONSABILIDADE CIVIL NÃO PREENCHIDOS. INDENIZAÇÃO POR DANOS MORAIS DESCABIDA. SENTENÇA MANTIDA. HONORÁRIOS RECURSAIS. ART. 85, §§ 1º E 11, DO CPC/15. MAJORAÇÃO DEVIDA. CRITÉRIOS CUMULATIVOS PREENCHIDOS (STJ, EDCL NO AGINT NO RESP 1.573.573/RJ). SUSPENSA A EXIGIBILIDADE EM FACE DA JUSTIÇA GRATUITA CONCEDIDA. RECURSO CONHECIDO E DESPROVIDO.
+Os embargos de declaração foram rejeitados (e-STJ fls. 241/244).
+Nas razões do recurso especial (e-STJ fls. 252/262), interposto com base no art. 105, III, "a", da CF, o recorrente apontou violação dos arts. 6º, VIII, 14, 31, 39, I, III e IV, da Lei n. 8.078/1990, alegando o seguinte (e-STJ fls. 255/256):
+a) o banco nunca enviou/entregou as faturas com cartão ao consumidor, não restou comprovado pelo banco; b) o apelante/consumidor nunca usou o cartão no comercio conforme as faturas juntadas pelo banco (14:4) dos autos originários constando apenas lançamentos de encargos do contrato ilícito;c) a pratica unilateral do banco em programar "desconto automático do mínimo da fatura", conforme constam nas FATURAS juntadas no (14:4) de forma unilateral o banco articulou "desconto automático do mínimo da fatura" a partir da FATURA vencimento 10/05/2019 lançado em cobrança o valor de (R$ 48,67); (..)d) contradição quanto ao lançamento nas faturas "saques parciais" como suposto uso de cartão em contradição com as provas de transferências bancárias na conta do consumidor conforme comprovantes TED bancários juntados na contestação pelo banco;e) inaplicabilidade da "inversão do ônus da prova" em desfavor da casa bancária (art. 6, VIII, CDC) sendo que o banco é quem tem a incumbência de provar que ofereceu "empréstimo consignado normal" ou impossibilidade de fazê-lo, pois o consumidor certamente jamais concordaria com cartão de crédito;
+Pleiteia (e-STJ fl. 258):
+REPETIÇÃO DE INDÉBITO
+Requer a condenação da pelada a restituição dos valoresdescontados indevidamente, em dobro, uma vez evidenciada a pratica lesiva por parte do
+banco, a má fé está presumida, conseqüência lógica da nulidade do contrato.
+DANOS MORAIS
+Requer seja declarada a configuração da obrigação deindenização à título de DANOS MORAIS no valor proposto na inicial, ou a ser fixado aoarbítrio deste tribunal, acrescidos de correção monetária e juros demora a contar do eventodanoso, nos termos da inicial que assim ratificamos.
+Em suma, "requer ao Eminente Relator e Doutos Ministros, que conheçam e julguem pelo provimento deste recurso especial decretando a violação da lei federal e seus artigos declinados na inicial recursal declarando a anulação do acórdão a quo confirmando a procedência da ação nos termos da inicial" (e-STJ fl. 262).
+Foram oferecidas contrarrazões (e-STJ fls. 270/280).
+No agravo (e-STJ fls. 291/293), afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta não apresentada (e-STJ fl. 298).
+É o relatório.
+Decido.
+O Tribunal de origem, ao analisar as provas constantes dos autos, entendeu que "a parte autora, quando da celebração da avença em debate, teve plena ciência da modalidade pactuada, especialmente em virtude da aposição de assinatura com proximidade da figura exemplificativa e ilustrativa da tarjeta magnética que estava contratando (Evento 14, CONTR5, p. 03) e de nova rubrica no Termo de Consentimento Esclarecido de Cartão de Crédito Consignado (Evento 14,CONTR5, p. 04)." Confira-se o seguinte excerto (e-STJ fls. 216/218):
+A prova documental, pois, evidencia a devida aquiescência da parte autora aos termos propostos pela instituição financeira, revelando, ademais, que foi fornecida clara e precisa informação ao consumidor acerca do objeto contratado, razão pela qual osargumentos a respeito da ausência de provas do recebimento, desbloqueio e utilização do cartão representam meras conjecturas e não possuem o condão de arredar a compreensão acerca da modalidade de serviço contratada.
+O conjunto probatório derrui qualquer narrativa que poderia enveredar para suposto vício de consentimento.
+Nessa senda, por evidente que o contexto dos autos não permite concluir que a parte autora foi maliciosamente redirecionado à convenção de modalidade de crédito diversa daquela efetivamente pretendida.
+Assim, não demonstrada violação ao direito de informação do consumidor e uma vez reconhecida a legalidade do pacto na modalidade em que que foi celebrado, resulta inequívoca a validade da contratação de cartão de crédito consignado sob a rubrica de reserva de margem consignável.
+(..)
+Por conseguinte, ausente um dos pressupostos da responsabilidade civil, notadamente o ato ilícito, igualmente não encontra respaldo o pleito de indenização por danos morais, com o que resulta desprovido in totum o presente reclamo.
+Nesse diapasão, a manutenção da sentença de improcedência é medida de rigor.
+Com efeito, rever a conclusão da Corte estadual, na forma pretendida pelo recorrente, demandaria o reexame do acervo fático dos autos, procedimento vedado em sede especial, a teor da Súmula n. 7/STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo. Deixo de majorar os honorários advocatícios (artigo 85, § 11, do CPC/2015) pela fixação anterior no patamar máximo permitido em lei.
+Além disso, estando orecorrente amparadopela gratuidade da justiça, aplique-se o previsto no art. 98, §§ 2º e 3º, do CPC/2015.
+Publique-se e intimem-se.
