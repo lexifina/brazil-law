@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra acórdão assim relatado(fls. 54-55):
+RAFAEL VIANA DE OLIVEIRA foi condenado pelo Juízo de Direito da 1ª Vara Criminal da Comarca de Diadema, nos autos de Processo Crime nº 1500600-2021.8.26.0537, às penas de 05 anos de reclusão, em regime fechado e, 500 dias-multa, no valor diário mínimo, por infração ao art. 33, caput, da Lei nº 11.343/06, c. c. art. 61, I e art. 65, III, "d", ambos do Código Penal (fls. 172/176 autos principais).
+A r. sentença condenatória transitou em julgado, sem recurso, aos 24.09.2021 (fls. 184 autos principais).
+Inconformado, RAFAEL formula pedido de Revisão Criminal, com amparo no art. 621, do Código de Processo Penal, sustentando que a r. sentença condenatória contraria a evidência dos autos.
+Sustenta o Peticionário ser nula a r. sentença condenatória, por infringência ao princípio da correlação, eis que a Acusação teria pedido sua absolvição. No mérito, pugna pela incidência do redutor especial e o abrandamento do regime prisional (fls. 1/11).
+A d. Procuradoria Geral de Justiça ofertou Parecer no sentido do não conhecimento ou, quando não, pelo indeferimento do pedido revisional (fls. 29/33).
+O paciente foi condenado, por tráfico de drogas, à pena de 5 anos de reclusão, em regime fechado, e pagamento de 500 dias-multa, não tendo sido interposto recurso de apelação.
+A defesa aduz violação ao art. 59 do Código Penal, mas requer a desclassificação do delito. Subsidiariamente, busca o reconhecimento do tráfico privilegiado ou abrandamento de regime.
+Não havendo divergência da matéria no colegiado, admissível o examein liminepelo relator, nos termos do art. 34, XVIII e XX, do RISTJ.
+Os pleitos de revisão da pena-base e desclassificação do delito não foram submetidos à instânciaa quo,seja pela ausência de recurso de apelação, seja em sede de revisão criminal. Assim, descabe a inauguração,per saltum, de irresignação junto ao TribunalSuperior, sob pena de supressão de instância, uma vez que compete ao STJ, na via processual dohabeas corpus, apreciar ato de um dos Tribunais Regionais Federais ou Tribunais de Justiça estaduais, conforme art. 105, II, a, da Constituição Federal. Neste sentido: EDcl no HC 609.741/MG, Relatora Ministra Laurita Vaz, Sexta Turma, DJe 29/9/2020; HC 570.639/RS, Relator Ministro Felix Fischer, Quinta Turma, DJe 10/6/2020.
+O tráfico privilegiado, por sua vez, não foi reconhecido em razão dareincidência delitiva, "o que, por si só, afasta a possibilidade de incidência da causa de redução da pena acima indicada" (fl. 57), não havendo falar em ilegalidade, uma vez que o afastamento decorre deexpressaprevisãolegal.
+Quanto ao regime, ainda que a pena tenha sido definida em patamar equivalente ao modo intermediário (5 anos de reclusão), a reincidência apontada pela Corte estadual (fl. 58) constitui fator legal para a fixação do modo prisional mais gravoso. Neste sentido:HC 363.531/SP, Relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 04/10/2016; HC 299.215/SP, Relator Ministro Ribeiro Dantas, Quinta Turma, DJE 28/09/2016; HC 358.927/MG, Relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 01/09/2016.
+Ante o exposto, indefiro liminarmente ohabeas corpus.
+Publique-se.
+Intimem-se.
