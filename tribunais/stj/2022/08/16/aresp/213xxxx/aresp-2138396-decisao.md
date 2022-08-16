@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de agravo apresentado por MASSA FALIDA DE HABITARE CONSTRUTORA E INCORPORADORA S.A contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim resumido:
+AGRAVO INTERNO - GRATUIDADE DE JUSTIÇA - PESSOA JURÍDICA - DECLARAÇÃO DE POBREZA - PRESUNÇÃO DE VERACIDADE - ART. 99, §§ 2º e 3º, CPC - NECESSIDADE DO BENEFÍCIO - NÃO COMPROVAÇÃO - INDEFERIMENTO.
+Quanto à controvérsia, alega violação dos arts. 98 e 99, § 2º, do CPC, no que concerne ao indeferimento da gratuidade de justiça sem que houvesse nos autos elementos que evidenciassem a falta de pressupostos legais para a concessão, trazendo os seguintes argumentos:
+Portanto, ao indeferir a Justiça Gratuita, sem a devida aplicação do procedimento trazido com o CPC/201 5, mormente o § 2º do art. 99, o r. acórdão recorrido violou frontalmente os referidos dispositivos que disciplinam a matéria.
+Insta ressaltar que  o art. 99 do CPC acolheu, no parágrafo 2º, a jurisprudência consolidada do STJ, no sentido de que o juiz pode indeferir a benesse, de oficio, contanto Que haja nos autos ELEMENTOS QUE EVIDENCIEM A FALTA DOS PRESSUPOSTOS LEGAIS PARA A CONCESSÃO DE GRATUIDADE, o que não foi observado pelo d. Tribunal a quo (fls. 643).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+No caso, embora a agravante tenha afirmado fazer jus à gratuidade de justiça, ela não fez prova da alegada hipossuficiência financeira.
+Ora, para confirmar a alegação de hipossuficiência financeira, a agravante juntou decisões de outros processos, em que lhe foi concedida a gratuidade de justiça. Além disso, ela também trouxe aos autos balanço patrimonial de 2017, sendo esse documento uma demonstração desatualizada de sua situação financeira (fls. 4151416).
+Com efeito, apenas isso, não constitui prova convincente para o que se pretende, isto é, amparo aos benefícios da justiça gratuita (fls. 569).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o reexame da premissa fixada pela Corte de origem quanto à existência ou não dos requisitos para a concessão da gratuidade de justiça às partes exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em sede de recurso especial.
+Nesse sentido, o STJ já decidiu sobre a "No caso, a modificação do entendimento lançado no v. acórdão recorrido demandaria revolvimento do suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório." (AgInt no AREsp n. 1.995.577/RS, relator Ministro Raul Araújo, Quarta Turma, julgado em 25/4/2022, DJe de 24/5/2022.)
+Confiram-se ainda os seguintes julgados: AgInt no AREsp 1.570.272/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 20/5/2020; AgInt no AREsp 1.000.602/RS, relator Ministro Og Fernandes, Segunda Turma, DJe de 22/5/2020; AgInt no AREsp 1.564.850/MG, relator Ministro Marco Buzzi, Quarta Turma, DJe de 4/3/2020; AgInt no AREsp 1.173.115/RS, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 18/4/2018; REsp 1.784.623/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 11/3/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
