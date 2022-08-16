@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo (art. 1.042 do CPC/2015) interposto por CONSTRUTORA ATERPA S. A. e OUTRAS contra a decisão de fls. 863-865 (e-STJ), proferida em juízo provisório de admissibilidade, a qual negou seguimento ao recurso especial.
+O apelo extremo foi deduzido com base no art. 105, III, a, da Constituição Federal, em desafio a acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo assim ementado (fl. 796, e-STJ):
+AGRAVO DE INSTRUMENTO. Ação de indenização por danos materiais. Vícios de construção. Decisão que rejeitou as preliminares arguidas em defesa e determinou seja a perícia paga pelas Rés, rejeitando a impugnação a Justiça Gratuita. Inconformismo. Não acolhimento. Complexas alegações de ambas as Partes que clamam pelo contraditório. Questões que demandam dilação probatória na Origem. Decisão mantida. RECURSO NÃO PROVIDO.
+Os embargos de declaração opostos foram desacolhidos (fls. 814-819, e-STJ).
+Nas razões do recurso especial (fls. 822-835, e-STJ), as recorrentes alegaram que o acórdão impugnado incorreu em violação dos seguintes normativos:
+a)arts. 505, 1.009 e 1.022 do Código de Processo Civil de 2015;
+b)art. 50, § 4º, do Código Civil de 2002;
+c)art. 26 do Código de Defesa do Consumidor.
+Sustentaram, em suma, a ocorrência de negativa de prestação jurisdicional ante a omissão do Colegiado estadual em analisar questões relevantes para o deslinde da controvérsia.
+Apontaramoutrossim, estarem preclusas as questões relativas à legitimidade das recorrentes e ausência de interesse de agir; bem como configurada a decadência do direito do autor para pleitear indenização por danos materiais.
+Em juízo de admissibilidade (fls.863-865, e-STJ), a Corte de origem negou o processamento do recurso especial pelos seguintes fundamentos: a) não configurada a alegada violação do art. 1.022 do CPC/2015, porquanto as questões trazidas pelas recorrentes foram analisadas, de forma fundamentada; b) não houve demonstração das vulnerações legais suscitadas; e c) aplicação da Súmula 7/STJ para revisão das conclusões estaduais.
+Irresignadas (fls. 868-882, e-STJ), aduzem as agravantes que o reclamo merece trânsito, refutando os retrocitados óbices de admissibilidade.
+Contraminuta às fls. 885-890 (e-STJ).
+Brevemente relatado, decido.
+De início, verifica-se que o recurso foi interposto na vigência do novoCódigo de Processo Civil. Sendo assim, sua análise obedecerá ao regramentonele previsto. Portanto, aplica-se, na hipótese, o EnunciadoAdministrativo n. 3, aprovado pelo Plenário desta Casa em 9/3/2016,segundo o qual "aos recursos interpostos com fundamento no CPC/2015(relativos a decisões publicadas a partir de 18 de março de 2016) serãoexigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Consoante análise dos autos, a alegação de violação ao art. 1.022 do CPC/2015 não se sustenta, pois o Tribunal de origem decidiu a matéria controvertida de forma fundamentada, ainda que contrariamente aos interesses da parte. Ressalte-se que o julgador não está obrigado a analisar todos os argumentos invocados pela parte quando tiver encontrado fundamentação suficiente para dirimir integralmente o litígio.
+A jurisprudência desta Casa dispõe no sentido de que a solução integral da controvérsia, com fundamento suficiente - situação facilmente constatável in casu -, não caracteriza ofensa ao art. 1.022 do CPC/2015.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. FALHA NA PRESTAÇÃO DE SERVIÇOS FUNERÁRIOS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO CARACTERIZAÇÃO. DANO MORAL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7 DO STJ. AGRAVO EM RECURSO ESPECIAL DESPROVIDO.
+1. A Corte "a quo" pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em princípio, poderiam infirmar a conclusão adotada pelo Juízo, não havendo falar em ausência de prestação jurisdicional. O julgamento da causa em sentido contrário aos interesses e à pretensão de uma das partes não caracteriza negativa de prestação jurisdicional, tampouco viola os arts. 1.022 e 489 do CPC/2015.
+2. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n.
+7/STJ).
+3. No caso concreto, a reforma do acórdão recorrido, que concluiu pela caracterização dos danos morais decorrentes da ausência de disponibilização de local adequado para a realização de velório, demandaria revolvimento do conjunto fático-probatório, vedado em sede de recurso especial.
+4. Agravo interno a que se nega provimento (AgInt no AREsp 1.639.983/RJ, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 07/12/2020, DJe 14/12/2020).
+Em relação às matérias tidas por omissas, assim se manifestou o Tribunalde origem (fls. 798-799, e-STJ, sem grifos no original):
+Com efeito, não assiste razão às Agravantes, pois compulsando-se os Autos da Ação principal, é de se notar que somente uma cognição exauriente, a ser realizada nos Autos principais pode dar um desfecho adequado às questões atinentes a tantas preliminares de mérito, bem como a pertinência da mantença dos benefícios da Justiça Gratuita.
+Há que se concluir, num primeiro momento, andou bem o Douto Magistrado, quando afastou, de plano, as preliminares arguidas e determinou seja a perícia paga pelas Rés, as quais pleitearam a produção da prova pericial, bem como rejeitou a impugnação à Justiça Gratuita.
+A cautela demanda a instalação de contraditório.
+As Empresas Agravantes pleiteiam a produção de mais provas objetivando afastarem a assistência judiciária gratuita concedida à Parte Demandante, requerem seja oficiado ao Assistente Técnico da Parte Autora para apresentação das Anotações de Responsabilidade Técnica ARTs.
+Pugnam pela intimação da Parte Requerente para apresentação de provas da aprovação das reformas realizadas no Imóvel pelos Órgãos competentes(CREA/SP, Prefeitura de Andradina/SP) e das Anotações de Responsabilidade Técnica ARTs dos Profissionais contratados para a realização das reformas realizadas pela Parte Demandante.
+Requerem o reconhecimento da conexão entre as Ações que sustentam idênticas causas de pedir.
+Pedem seja reconhecida a prevenção do Juízo que primeiro conheceu dos Autos, com reunião dos Processos para o julgamento conjunto.
+Apontam a ilegitimidade passiva das 2ª e 3ª Construtoras Rés e a ausência de interesse processual da Parte Agravada.
+Pugnam pela aplicação do prazo prescricional trienal do art. 206, § 3º, V do Código Civil e do prazo decadencial previsto no art. 26, II, 1º do CDC quanto aos vícios aparentes, ainda que o pleito formulado seja de indenização decorrente de vícios e não de reparação das alegadas imperfeições. Ora, apenas a dilação probatória, com o devido contraditório, pode determinar a pertinência da produção de mais provas ante a impugnação dos benefícios da Justiça Gratuita, bem como da intimação de Profissionais técnicos para que apresentem seus relatórios, além da determinação de quem deva arcar com as despesas. Não bastasse, amplo material probatório deve ser produzido para que se constate se de fato todas as Ações apontadas são idênticas, bem como se há prevenção do Juízo.
+O mesmo se aplica para as alegações de ilegitimidade passiva, falta de interesse processual, ocorrência de prescrição e decadência, todas questões que requerem dilação probatória.
+Assim, constata-se que as questões postas em debate foram efetivamente decididas, nãohavendo falar em omissão, contradição, obscuridade ou ausência defundamentação, mas sim em julgamento adverso ao pretendido pela parterecorrente.
+Portanto, não se cogita de negativa de prestação jurisdicional, tampoucode nulidade do aresto estadual.
+Ademais, reverter a conclusão do Tribunal local para assim acolher a pretensão recursal nos moldes em que pretendido, demandaria, necessariamente, o revolvimento do acervo fático-probatório dos autos o que é vedado no âmbito do recurso especial, dado o óbice da Súmula 7 do Superior Tribunal de Justiça.
+Diante do exposto, conheço do agravo para negar provimento ao recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS. VIOLAÇÃO DO ART. 1.022 DO CPC/2015 NÃO CONFIGURADA. REVISÃO DAS CONCLUSÕES ESTADUAIS. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME DO ACERVO FÁTICO-PROBATORIO DOS AUTOS. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
