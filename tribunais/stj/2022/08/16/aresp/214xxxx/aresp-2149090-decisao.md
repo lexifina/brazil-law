@@ -1,0 +1,40 @@
+DECISÃO
+Cuida-se de agravo apresentado por MARLENE MARIA PERGHER BERTOTTI contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim resumido:
+PROCESSUAL CIVIL. AÇÃO ORDINÁRIA. AGRAVO DE INSTRUMENTO. AJG. DECLARAÇÃO DE HIPOSSUFICIÊNCIA. PRESUNÇÃO IURIS TANTUM. TETO PREVIDENCIÁRIO.
+Quanto à primeira controvérsia, alega violação do art. 1022, inciso II, do Código de Processo Civil. Aduz a ocorrência de negativa de prestação jurisdicional.
+Quanto à segunda controvérsia, alega violação do art. 99, §§ 2º e 3º, do Código de Processo Civil. Sustenta que a alegação de hipossuficiência presume-se verdadeira quando o pedido de gratuidade de justiça for solicitado por pessoa natural, não tendo o ora recorrido demonstrado nos autos, por sua vez, que a solicitante possui condições financeiras para arcar com as custas do processo, trazendo os seguintes argumentos:
+A parte recorrente requereu a concessão do benefício da gratuidade da justiça com fulcro no art. 98 e seguintes do Código de Processo Civil, tendo em vista que não possui recursos suficientes para arcar as despesas do processo sem prejuízo próprio e de sua família.
+Oportuno destacar que a alegação de hipossuficiência realizada pela parte recorrente presume-se verdadeira, nos termos do § 3º do art. 99 do CPC, vejamos:
+Art. 99. O pedido de gratuidade da justiça pode ser formulado na petição inicial, na contestação, na petição para ingresso de terceiro no processo ou em recurso.
+ ..
+§ 3º Presume-se verdadeira a alegação de insuficiência deduzida exclusivamente por pessoa natural.
+ ..  (g. n.)
+Frise-se que não é exigível do hipossuficiente nenhum tipo de prova da sua condição para a obtenção do benefício da gratuidade da justiça, sendo suficiente que ele declare a necessidade do benefício, conforme entendimento do Egrégio Tribunal Regional Federal da 4ª Região:
+ ..
+Saliente-se que a parte recorrida não apresentou documento, nem argumento capaz de comprovar que a parte recorrente teria condições de arcar com os custos do processo, sem prejuízo próprio e de sua família, ou seja, não apresentou provas que eventualmente pudessem elidir e/ou desconstituir a declaração de hipossuficiência firmada pela parte recorrente.
+Outrossim, o Superior Tribunal de Justiça já se manifestou no sentido de rechaçar a adoção de um único critério para fins de análise da concessão da justiça gratuita, conforme segue o julgamento do REsp nº 1.712.530/SC, ocorrido em 26 de outubro de 2018, já transitado em julgado:
+ ..
+Logo, não há óbice para o deferimento da justiça gratuita, a teor o § 2º do art. 99 do CPC:
+ ..
+Além disso, trata-se de presunção júris tantum, cabendo à parte contrária o ônus de apresentar prova que evidencie a falta dos pressupostos legais para a concessão da gratuidade da justiça, não cabendo à parte recorrente comprovar a sua atual condição financeira, conforme o posicionamento do Tribunal Regional Federal da 4ª Região:
+ ..
+Com isso, ante o posicionamento dos tribunais superiores, inclusive dessa Egrégia Corte, e a ausência de comprovação da parte contrária de inexistência ou desaparecimento do estado de necessidade da parte recorrente, merece reforma o acórdão recorrido, com o conseguinte deferimento da justiça gratuita (fls. 68-75).
+É, no essencial, o relatório. Decido.
+Quanto à primeira controvérsia, na espécie, incide o óbice da Súmula n. 284/STF, uma vez que a parte recorrente aponta a violação do art. 1.022 do CPC/2015 (art. 535 do CPC/1973) sem a anterior e necessária oposição de embargos declaração sobre o tema, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, o Superior Tribunal de Justiça já se manifestou na linha de que "os embargos de declaração representam o meio adequado a sanar obscuridade, omissão ou contradição porventura existentes na decisão agravada. Não opostos os competentes embargos, a análise da pretensão de nulidade da decisão encontra o óbice contido na Súmula 284 do STF". (AgInt no AREsp n. 1.175.224/MT, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 13/11/2018.)
+Confiram-se ainda os seguintes julgados: AgInt no REsp n. 1.367.247/PR, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 6/10/2016; REsp n. 1.728.189/RS, relator Ministro Herman Benjamin, Segunda Turma, DJe de 19/11/2018; e AgRg no AREsp n. 338.282/PR, relator Ministro João Otávio De Noronha, Terceira Turma, DJe de 11/11/2013; AgRg no AREsp n. 99.038/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 26/9/2012.
+Quanto à segunda controvérsia, por sua vez, o Tribunal de origem se manifestou nos seguintes termos:
+Assim, para o deferimento do benefício da justiça gratuita basta a declaração da parte requerente no sentido de que não possui condições de arcar com os ônus processuais, descabendo outros critérios para infirmar a presunção legal de pobreza, restando à contraparte a comprovação em sentido contrário.
+Na mesma linha, aliás, o novo Código de Processo Civil passou a disciplinar a concessão da gratuidade da justiça em seu art. 98 e seguintes, estabelecendo, em relação à pessoa física, uma presunção iuris tantum de veracidade da alegação de insuficiência de recursos.
+Todavia, cumpre referir que tal presunção pode ser ilidida ao exame do conjunto probatório.
+Nesse sentido:
+ ..
+No ponto, importa ressaltar que este Juízo entende razoável presumir a hipossuficiência da parte quando sua renda mensal não superar o teto dos benefícios da Previdência Social, atualmente fixado em R$ 6.433,57.
+Ainda, é entendimento desta Terceira Turma que devem ser apurados, para o fim de concessão da AJG, os rendimentos líquidos da parte interessada, e considerados, para tal fim, apenas, os descontos obrigatórios/legais (tais como Importo de Renda, Contribuição Previdenciária e pensão) e, excepcionalmente, gastos com saúde (apurada a gravidade da doença no caso concreto e os gastos respectivos, ainda que não descontados em folha de pagamento). Esclareça-se que gastos voluntários, como empréstimos descontados em folha, não poderão ser descontados do total de vencimentos para o fim de apuração da renda líquida do requerente.
+No caso concreto, conforme comprovante de rendimentos anexados aos autos (Evento 1 - FINANC8) a parte agravante percebe rendimentos líquidos superiores ao teto de rendimentos do RGPS, devendo, portanto, ser indeferido o benefício da AJG (fls. 56-57).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o reexame da premissa fixada pela Corte de origem quanto à existência ou não dos requisitos para a concessão da gratuidade de justiça às partes exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em sede de recurso especial.
+Nesse sentido, o STJ já decidiu sobre a "inviabilidade de verificar se as partes no caso poderiam ou não serem contempladas pelo benefício da gratuidade de justiça, por demanda reexame de contexto fático-probatório". (AgInt no AREsp 897.498/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 16/8/2016.)
+Confiram-se ainda os seguintes julgados: AgInt no AREsp 1.570.272/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 20/5/2020; AgInt no AREsp 1.000.602/RS, relator Ministro Og Fernandes, Segunda Turma, DJe de 22/5/2020; AgInt no AREsp 1.564.850/MG, relator Ministro Marco Buzzi, Quarta Turma, DJe de 4/3/2020; AgInt no AREsp 1.173.115/RS, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 18/4/2018; REsp 1.784.623/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 11/3/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
