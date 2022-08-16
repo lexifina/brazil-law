@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de embargos declaratórios (e-STJ fls. 310/312) opostos à decisão desta relatoria (e-STJ fls. 304/308) que deu provimento ao recurso especial da embargante a fim de determinar a suspensão do cumprimento de sentença, obstando todos os atos de constrição patrimonial, os quais deverão ser submetidos ao Juízo da recuperação judicial, nos termos explicitados na decisão.
+Em suas razões, a embargantealegaa existência de contradição no julgado.
+Segundo sustenta, a decisão embargada, "apesar de acertadamente determinar a concursalidade do crédito e que a correção se dê tão somente até a determinação da Recuperação Judicial, determinou a suspensão do feito sem antes liquidá-lo" (e-STJ fl. 311).
+No seu entender, "para que sobrevenha a suspensão do feito e devida habilitação do crédito nos autos da recuperação judicial, imprescindível que seja realizada, anteriormente à habilitação, a devida liquidação do crédito, com a determinação do valor efetivamente devido" (e-STJ fl. 311).
+Ao final, requero acolhimento do recurso, com efeitos infringentes, "para o fim de conhecer da necessidade de liquidação do crédito antes de suspender a execução, possibilitando ao Autor, ora Embargado, habilitar o crédito devidamente liquidado nos autos da recuperação judicial e recebe-lo na forma do plano de recuperação aprovado pela Assembleia Geral de Credores no dia 08/01/2018" (e-STJ fl. 312).
+O embargado não apresentou impugnação (e-STJ fl. 317).
+É o relatório.
+Decido.
+Assiste parcial razão à embargante.
+Inicialmente, conforme constou da decisão embargada, nos termos do art. 49, caput, da Lei 11.101/2005, estão sujeitos à recuperação judicial todos os créditos existentes na data do pedido (ainda que não vencidos). Além disso, a aferição da existência ou não do crédito deve levar em consideração a data em que ocorreu seu fato gerador . Nesse sentido:
+RECURSO ESPECIAL REPETITIVO. DIREITO EMPRESARIAL. RECUPERAÇÃO JUDICIAL. CRÉDITO. EXISTÊNCIA. SUJEIÇÃO AOS EFEITOS DA RECUPERAÇÃO JUDICIAL. ART. 49, CAPUT, DA LEI Nº 11.101/2005. DATA DO FATO GERADOR.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Ação de reparação de danos pela cobrança indevida de serviços não contratados. Discussão acerca da sujeição do crédito aos efeitos da recuperação judicial.
+3. Diante da opção do legislador de excluir determinados credores da recuperação judicial, mostra-se imprescindível definir o que deve ser considerado como crédito existente na data do pedido, ainda que não vencido, para identificar em quais casos estará ou não submetido aos efeitos da recuperação judicial.
+4. A existência do crédito está diretamente ligada à relação jurídica que se estabelece entre o devedor e o credor, o liame entre as partes, pois é com base nela que, ocorrido o fato gerador, surge o direito de exigir a prestação (direito de crédito).
+5. Os créditos submetidos aos efeitos da recuperação judicial são aqueles decorrentes da atividade do empresário antes do pedido de soerguimento, isto é, de fatos praticados ou de negócios celebrados pelo devedor em momento anterior ao pedido de recuperação judicial, excetuados aqueles expressamente apontados na lei de regência.
+6. Em atenção ao disposto no art. 1.040 do CPC/2015, fixa-se a seguinte tese: Para o fim de submissão aos efeitos da recuperação judicial, considera-se que a existência do crédito é determinada pela data em que ocorreu o seu fato gerador.
+7. Recurso especial provido.
+(REsp 1843332/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, SEGUNDA SEÇÃO, julgado em 09/12/2020, DJe 17/12/2020.)
+AGRAVO INTERNO. RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. ART. 49 DA LEI N.11.101/2005. CRÉDITOS QUE DEVEM SE SUBMETER À RECUPERAÇÃO JUDICIAL. FATO JURÍDICO ANTERIOR AO PEDIDO DE RECUPERAÇÃO JUDICIAL. MATÉRIA PACIFICADA EM RECURSO REPETITIVO.
+1. "Para o fim de submissão aos efeitos da recuperação judicial, considera-se que a existência do crédito é determinada pela data em que ocorreu o seu fato gerador". (REsp 1843332/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, SEGUNDA SEÇÃO, julgado em 09/12/2020, DJe 17/12/2020) 2. Agravo interno não provido. (AgInt no REsp 1764596/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 25/10/2021, DJe 28/10/2021.)
+RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. CRÉDITO EXTRACONCURSAL. CUMPRIMENTO DE SENTENÇA. ART. 523, § 1º, DO CPC/15. INCIDÊNCIA. NECESSIDADE, NO PARTICULAR, DE AUTORIZAÇÃO DO JUÍZO DA RECUPERAÇÃO PARA INÍCIO DA FLUÊNCIA DO PRAZO. MOMENTO A PARTIR DO QUAL EVENTUAL RECUSA AO ADIMPLEMENTO SERÁ CONSIDERADA VOLUNTÁRIA.
+1. Ação ajuizada em 14/5/2019. Recurso especial interposto em 27/1/2021. Autos conclusos ao gabinete da Relatora em 26/7/2021.
+2. O propósito recursal consiste em definir se crédito extraconcursal devido por empresa em recuperação judicial, objeto de cumprimento de sentença em curso, pode ser acrescido das penalidades previstas no art. 523, § 1º, do CPC/15.
+3. A multa e os honorários advocatícios previstos no art. 523, § 1º, do CPC/15 somente incidem sobre o valor da condenação nas hipóteses em que o executado não paga voluntariamente a quantia devida estampada no título judicial no prazo de 15 dias.
+4. A recuperanda não está impedida, pelo texto da Lei 11.101/05, de satisfazer voluntariamente créditos extraconcursais perseguidos em execuções individuais, de modo que as consequências jurídicas previstas na norma do dispositivo precitado devem incidir quando não pago o montante devido.
+5. Hipótese concreta em que o juízo da recuperação judicial estabeleceu critérios que devem ser observados para o pagamento dos créditos extraconcursais: expedição de ofício pelo juízo da execução singular, seguido de comunicação à recuperanda para depósito do valor devido.
+6. Não sendo, portanto, defeso à recuperanda dispor de seu acervo patrimonial para pagamento de créditos extraconcursais (observada a exceção do art. 66 da LFRE), uma vez recebida a comunicação do juízo do soerguimento para depósito da quantia objeto da execução, deve passar a correr o prazo de 15 dias estabelecido no art. 523, caput, do CPC/15.
+RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+(REsp 1953197/GO, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 05/10/2021, DJe 08/10/2021.)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. EXECUTADA EM RECUPERAÇÃO JUDICIAL. FATO GERADOR ANTERIOR AO PEDIDO DE RECUPERAÇÃO JUDICIAL. CRÉDITO CONCURSAL. PROSSEGUIMENTO DA EXECUÇÃO INDIVIDUAL. IMPOSSIBILIDADE.
+1. Estão sujeitos à recuperação judicial todos os créditos existentes na data do pedido (ainda que não vencidos) e a aferição da existência ou não do crédito deve levar em consideração a data da ocorrência de seu fato gerador (fonte da obrigação).
+2. Resultando a obrigação de fato anterior ao pedido de recuperação, a ação de conhecimento somente deve prosseguir no juízo próprio até a formação do título. Ocorrido tal fato, não tendo transitado em julgado a recuperação judicial, o crédito deverá ser habilitado no quadro geral de credores. Precedentes.
+3. O fato de a penhora ter sido determinada pelo juízo da execução singular em data anterior ao deferimento do pedido de recuperação judicial não obsta o exercício da força atrativa do juízo universal.
+4. Agravo interno desprovido.
+(AgInt nos EDcl no REsp 1878985/DF, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 16/08/2021, DJe 19/08/2021.)
+AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL. EXECUÇÃO DE CRÉDITOS TRABALHISTAS CONCURSAIS. FATOS GERADORES ANTERIORES AO PEDIDO DE RECUPERAÇÃO JUDICIAL. AGRAVO INTERNO DESPROVIDO.
+1. O crédito derivado de atos praticados em período anterior ao pedido de recuperação judicial, concursal, portanto, deve-se submeter à forma de satisfação preconizada perante o Juízo universal, a despeito de a decisão condenatória eventualmente ter sido proferida em momento posterior.
+2. Agravo interno desprovido.
+(AgInt no CC 172.671/PR, Rel. Ministro RAUL ARAÚJO, SEGUNDA SEÇÃO, julgado em 30/03/2021, DJe 19/04/2021.)
+No caso concreto, como assinalado na decisão embargada, o Tribunal local divergiu desse entendimento.Portanto, devem os créditos discutidos ser submetidos à recuperação judicial, uma vez que são anteriores ao pedido.
+Constata-se, no entanto, que o julgado ora embargado, ao determinar a suspensão do cumprimento de sentença, obstando todos os atos de constrição patrimonial, extrapolou os limites do pedido formulado no especial, determinando providências diversas daquela pretendida pela parte, que se limitou a requerer a reforma do acórdão para que se "reconheça que o crédito exequendo possui natureza concursal, eis que preexistente ao pedido de Recuperação Judicial, e, como tal, deverá se submeter aos termos do Plano de Recuperação Judicial homologado pelo d. Juízo da 7ª Vara da Comarca do Rio de Janeiro" (e-STJ fl. 256).
+Nesse contexto, procede-se à retificação do dispositivo da decisão embargada, que passa a ser o seguinte:
+Ante o exposto, DOU PROVIMENTO ao recurso especial para reconhecer a natureza concursal do crédito e determinar o retorno dos autos à origem para as providências cabíveis.
+Ante o exposto, ACOLHO os embargos declaratórios.
+Publique-se e intimem-se.
