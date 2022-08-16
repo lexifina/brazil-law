@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por DANIELY DE SOUZA SANTOS E OUTROS à decisão de fls. 2534/2535, que não conheceu do recurso.
+Sustenta a parte embargante que:
+Em sede de preliminar, os embargantes solicitaram a gratuidade da justiça, conforme preceitua o art. 99 do CPC.
+E, segundo o autor supra citado: "(..) sendo requerida a concessão da gratuidade da justiça em recurso, o recorrente estará dispensado de comprovar o recolhimento do preparo e, no caso de indeferimento do pedido pelo relator, dever ser concedido prazo para recolher o preparo."
+ ..
+E, em que pese o notório saber jurídico de Vossa Excelência, tal decisão merece reforma, haja vista o erro material e a omissão, cometidos por Vossa Excelência, pois, conforme preceitua o §7º do art. 99 do CPC:
+ ..
+Tendo em vista o pedido de gratuidade em sede recursal, os embargantes ficam dispensados de recolher as custas, conforme dispositivo acima (fl. 2557).
+ ..
+A súmula na qual, baseia-se Vossa Excelência, súmula 187 na íntegra: "É deserto o recurso interposto para o Superior Tribunal de Justiça, quando o recorrente não recolhe, na origem, a importância das despesas de remessa e retorno dos autos." Com toda a vênia, respeito e acatamento que tem a este Excelso Tribunal de Justiça, tal súmula, encontra-se em total dissonância com a realidade de hoje, pois, conforme art. 6º da resolução de n. 8/12 editada por este Superior Tribunal de Justiça 2 :
+ ..
+Levando-se em conta a solicitação da gratuidade da justiça e o juízo de admissibilidade bifásico e ausência de manifestação de Vossa Excelência quanto à solicitação da gratuidade recursal, entendem esses embargantes que houve uma omissão na decisão (fl. 2558).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Impende ressaltar que é despiciendo eventual deferimento do benefício da justiça gratuita nesse momento processual pois a suposta benesse somente teria efeitos futuros, não sendo capaz de isentar a parte embargante das custas processuais referentes aos atos anteriores, porquanto, apesar de o pedido de justiça gratuita poder ser formulado a qualquer tempo e instância, ele não retroage para alcançar encargos processuais anteriores. Nesse sentido: AgInt no AREsp 1619350/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 23/6/2020; AgInt no REsp 1820544/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 20/3/2020; e AgInt no AREsp 1215154/RJ, relator Ministro Gurgel De Faria, Primeira Turma, DJe de 24/10/2019).
+Ademais, cumpre esclarecer que nos termos da jurisprudência desta Corte, "a parte recorrente deve comprovar, no momento da interposição do recurso especial, o recolhimento das custas e do porte de remessa e retorno devidos à União, bem como dos valores locais, estipulados pelo Tribunal de origem" (AgInt no REsp 1660202/SP, relator Ministro Lázaro Guimarães (Desembargaor Convocado do TRF 5ª Região), Quarta Turma, DJe de 27/2/2018.)
+Assim, o preparo abrange o pagamento das custas locais (se houver), das custas do Superior Tribunal de Justiça (Lei 11.636/2007), bem como do porte de remessa e retorno dos autos (a depender do Tribunal de origem). Nesse sentido: AgRg no AREsp 707.553/SC, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 01/10/2015, DJe 06/10/2015; e RCD no REsp 1520031/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 22/09/2015, DJe 06/10/2015.
+Outrossim, o art. 1.007 do Código de Processo Civil dispõe que "No ato de interposição do recurso, o recorrente comprovará, quando exigido pela legislação pertinente, o respectivo preparo, inclusive porte de remessa e de retorno, sob pena de deserção".
+No caso, a parte deixou de recolher uma das verbas do preparo, isto é, as custas devidas à esta Corte, previstas na Lei n.º 11.636/2007, incidindo, por analogia, a Súmula 187 do STJ. Nesse sentido:
+AGRAVO INTERNO. RECURSO ESPECIAL. PREPARO. GUIA DE RECOLHIMENTO. ERRO NO PREENCHIMENTO. NÚMERO DO PROCESSO ORIGINÁRIO. DIVERGÊNCIA. NÃO CORREÇÃO DA IRREGULARIDADE. NOVA INTIMAÇÃO. NÃO CABIMENTO. DESERÇÃO. SÚMULA 187 DO STJ.
+1. O entendimento do Superior Tribunal de Justiça firmou-se no sentido de considerar deserto o recurso especial interposto com o comprovante do preparo, mas sem o correto preenchimento das guias de recolhimento, inclusive, quanto à indicação do número do processo na origem.
+2. A parte agravante, embora regularmente intimada para corrigir o erro no preenchimento da guia de recolhimento do preparo do recurso especial, não providenciou sua regularização dentro do prazo assinalado, sendo incabível a concessão de nova oportunidade à parte para corrigir o vício. Precedentes.
+3. Incide à espécie, por analogia, o enunciado da Súmula 187 do STJ: "É deserto o recurso interposto para o Superior Tribunal de Justiça, quando o recorrente não recolhe, na origem, a importância das despesas de remessa e retorno dos autos".
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp 1877218/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 29/03/2021, DJe 06/04/2021)
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
