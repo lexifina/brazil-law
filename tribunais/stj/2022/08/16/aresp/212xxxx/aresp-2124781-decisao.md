@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial por incidência das Súmulas n. 5 e 7 do STJ (e-STJ fls. 454/455).
+O acórdão recorrido está assim ementado (e-STJ fls. 408/409):
+APELAÇÃO CÍVEL. AÇÃO REGRESSIVA. CONTRATO DE LOCAÇÃO. FIADOR. CHAMAMENTO AO PROCESSO. REQUISITOS. AUSÊNCIA. DÉBITOS LOCATÍCIOS. FIADOR. QUITAÇÃO. SUB-ROGAÇÃO. SENTENÇA MANTIDA.
+1. Na disciplina do art. 130 do CPC/15, admite-se o chamamento ao processo pelo Réu, do afiançado, (i) na ação em que o fiador for réu; (ii) dos demais fiadores, na ação proposta contra um ou alguns deles; e (iii) dos demais devedores solidários, quando o credor exigir de um ou de alguns o pagamento da dívida comum.
+2. É vedado, em ação de regresso movida pela fiadora em face da locatária, o chamamento ao processo de terceiro, a quem se atribui a qualidade de locatário de fato, mas que não figurou no contrato de locação, sobretudo se a locatária não apresentou indícios mínimos de que a fiança foi prestada em favor daquele.
+3. A fiadora que comprovou o adimplemento integral do débito objeto de contrato de locação fica sub-rogada nos direitos do credor originário (locador).
+4. Apelação conhecida e não provida. Preliminar rejeitada.
+Nas razões do recurso especial (e-STJ fls. 428/438), interposto com fundamento no art. 105, III, "a", da CF, a recorrente apontou ofensa aos arts. 130 e 373, II, do CPC/2015 e 346, I, do CC/2002.
+Sustentou que deveria ter sido acolhidoo pedido de chamamento ao processo do irmão da recorrida, uma vez que seria o principal devedor.
+Alegou que "não pode ficar obrigada por pagar qualquer importância para a recorrente, quando esta, de forma livre e consciente e sem qualquer autorização da primeira, celebrou um acordo, quando não havia título liquido certo e exigível, ou seja, não tinha título, não havia obrigação, nem por parte de uma, como da outra" (e-STJ fl. 434).
+Aduziu que não há falar em sub-rogação, quando "a recorrida, pagou dívida dela mesma, pois a locação, conforme dissemos, foi celebrada pelo Sr. Vitor da Silva Borges, irmão da recorrida, e de quem ela era responsável solidária" (e-STJ fl. 435).
+Sustentou não ter participado da transação realizada entre a agravada e o locador do imóvel, não podendo ser prejudicada por acordo ao qual não anuiu.
+Contrarrazões às fls. 447/451(e-STJ).
+No agravo (e-STJ fls. 458/464), declara a presença de todos os requisitos de admissibilidade do especial.
+Foi apresentada contraminuta (e-STJ fls. 468/476).
+É o relatório.
+Decido.
+Quanto à necessidade de chamamento ao processo, o Tribunal de origem assim se pronunciou (e-STJ fls.411/412):
+O caso em apreço é de ação regressiva movida pela Autora/Apelada, fiadora (ID 27799740) no contrato de locação de imóvel comercial firmado entre Rogério Samir Ribeiro (locador) e Andrea Curiá de Melo Cabral (locatária), em 29/11/2011. O irmão da Apelada não figurou como parte do aludido contrato.
+Por uma simples leitura da inicial e da contestação, observa-se que não estão caracterizadas as hipóteses do art. 130 do CPC/15, pois o irmão da Autora/Apelada não é signatário do contrato de locação, tampouco devedor solidário ante a ausência de previsão contratual nesse sentido.
+Ademais, não bastasse a intenção de incluir numa simples ação de regresso terceiro que sequer firmou ocontrato como locatário, intimada para especificar provas capazes de comprovar a tese de que não seria a locatária responsável pelo débito (ID 27800450), a Apelante não se manifestou (ID 27800454), demonstrando, com isso, desídia no ônus de comprovar fatos impeditivos do direito da Autora/Apelada.
+No que diz respeito à sub-rogação, por sua vez, o TJDFT consignou que a ora agravante firmou contrato de locação de imóvel comercial com o locador Rogério Samir Ribeiro, tendo a ora agravada prestado garantia fidejussória, obrigando-se solidariamente por todos os débitos do aludido contrato. Diante da inadimplência da devedora principal- a recorrente-, o locador executou o contratoe a recorrida- devedora solidária- firmou acordo com o locador, a fim de pagar a dívida, acordo que foi adimplido, de forma que a recorrida se sub-rogou nos direitos do credor. Aquela Corte acrescentouque (e-STJ fl. 414):
+Assim, a devedora principal teve a oportunidade de adimplir as dívidas, ou renegociá-las, de modo que, beira a má-fé questionar o montante do débito pago pela Apelada no bojo da ação regressiva, sob a infundada premissa de que o pagamento ocorreu por mera liberalidade e que a dívida inadimplida estava fundada em título executivo não revestido de certeza, liquidez e exigibilidade.
+Registre-se que não se pode perder de vista que, além de operar-se de pleno direito a sub-rogação em favor da fiadora que pagou o débito, a Apelante foi beneficiada pelo acordo firmado, pois a fiadora reconheceu dever ao locador/credor a quantia integral de R$ 356.087,25 (trezentos e cinquenta e seis mil e oitenta e sete reais e vinte e cinco centavos), entretanto, após o acordo, o credor aceitou receber da fiadora a quantia de R$ 210.312,00 (duzentos e dez mil, trezentos e doze reais). Logo, tampouco há interesse em impugnar o acordo que resultou na redução da dívida.
+Colhe-se que a conclusão a que chegou o acórdão recorrido decorreu da análise do contexto fático-probatório do processo, inclusive do contrato de locação.
+Dessa forma, acolher as alegações de que o irmão da recorrida seria o devedor principale de que não havia título judicialnem obrigação por parte da recorrida e da recorrente dependeria de novo exame dos elementos de fato do processo, o que encontra óbice nas Súmulas n. 5 e 7 do STJ.
+Ademais, não foram impugnados os fundamentos de que a recorrente não fez prova de que não seria a responsável pelo débito e de que não teria interesse em impugnar o acordo que resultou na reduçãoda dívida. Incide, portanto, a Súmula n. 283/STF.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo, bem como eventual concessão dos benefícios da justiça gratuita.
+Publique-se e intimem-se.
