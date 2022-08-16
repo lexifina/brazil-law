@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se derecurso especial interposto contraacórdão assim ementado (e-STJ fl. 82):
+Agravos de instrumento. Revisional. Contrato bancário. Conta corrente. Despacho agravado que aplica o prazo prescricional vintenário e reconhece a prescrição parcial da pretensão inicial, bem como indefere o pedido de exibição incidental de documentos e determina a emenda da inicial. Aplicação do prazo decenal previsto no art. 205 do Código Civil de 2002. Interpretação do art. 2028 do Código Civil. Prescrição reconhecida. Extinção do feito.
+A pretensão de revisão contratual possui natureza pessoal, de modo que prescreve em10 (dez) ou 20 (vinte) anos, conforme a regra de prescrição vigente ao tempo do fato gerador da obrigação (art. 177, do Código Civil de 1916 ou art. 205, do Código Civil em vigor).
+Agravo de instrumento nº 0025932-42.2018.8.16.0000, do banco, conhecido e provido.
+Nas razões recusais (e-STJ fls. 99/112), fundamentasno art. 105, III, "a", da CF, o recorrente aponta violação dos arts. 205 e 2.028do CC/2002. Insurge-se contra a prescrição decretada na origem, além de sustentar a necessidade de exibição incidental de documentos.
+Contrarrazões às fls. 126/134 (e-STJ).
+É o relatório.
+Decido.
+A controvérsia tem origem emagravosde instrumentos interpostos pelas partes litigantes na ação revisional de conta-corrente,cumuladacom pedido de repetição do indébitoproposta pelo ora recorrente,contra sentençaque reconheceu a prescrição da pretensão relacionada aoslançamentos anteriores a 13/12/1997,indeferiu o pedido de exibição incidental de documentos, bem como determinou a emenda da inicial.
+A Corte local assim decidiu (e-STJ fls. 86/88):
+Cuida-se de ação revisional ajuizada por Neilson Etanio de Sousa em 13.12.2017, que tem por objeto os lançamentos efetuados na conta corrente nº 50.240-5, da agência 0142, do Banco Bradesco, de 28.07.1992 a 26.04.2002.
+O despacho agravado acolheu em parte a alegação de prescrição, reconhecendo a prescrição da pretensão do autor em relação aos lançamentos anteriores a 13.12.1997, bem como indeferiu o pedido de exibição incidental de documentos e determinou a emenda da inicial.
+Alega a parte autora no agravo de instrumento nº 0024169-06.2018.8.16.0000 que na hipótese é aplicável o prazo prescricional vintenário, o qual deve retroagir da data da propositura da ação de prestação de contas, pois manejada anteriormente a ação revisional, contendo a mesma causa de pedir e o mesmo pedido de revisão dos lançamentos realizados pela instituição financeira na conta corrente do recorrente.
+Por sua vez, arguiu a instituição financeira no recurso nº 0024169-06.2018.8.16.0000 que a pretensão de repetição do indébito já está prescrita, em razão da aplicação do prazo prescricional trienal previsto no art. 206, § 3º, IV do CC, em alternativa, pede a aplicação da prescrição decenal, nos termos do art. 205 do CC, bem como aduz que o ajuizamento de ação de prestação de contas jamais interrompe o prazo prescricional para ajuizamento de ação revisional.
+O pedido de restituição de valores cobrados indevidamente se sujeita ao prazo prescricional para o exercício das pretensões de direito pessoal, aplicando-se ou o prazo de 20 anos do art. 177 do CC/1916 ou o de 10 anos do art. 205 do CC/2002.
+A aplicação do antigo Código ou do vigente, que reduziu o prazo prescricional à metade, fica dependente da aplicação da regra de transição prevista no art. 2.028 do atual Código Civil.
+No caso, a ação foi ajuizada em 13.12.2017 tendo por objeto os lançamentos efetuados na conta corrente nº 50.240-5, da agência 0142, do Banco Bradesco, de 28.07.1992 a 26.04.2002.
+Assim, iniciado o prazo prescricional quando em vigor o Código Civil de 1916 e não decorrido mais da metade do tempo da prescrição até que entrou em vigor o Código Civil atual (11.01.2003), a prescrição passa a se reger pelo novo estatuto, que a reduziu de vinte para dez anos (art. 205), em observância ao artigo 2.028 do mesmo Códex.
+Assim, tendo em vista que a interrupção da prescrição se deu somente com o ajuizamento da presente demanda, em 13.12.2017, conclui-se pela prescrição da pretensão no tocante aos lançamentos ocorridos além dos dez anos anteriores, isto é, antes de 13.12.2007.
+(..)
+Em tais condições, considerando que o autor pretende a revisão de lançamentos até 26.04.2002, prescreveu toda a pretensão da autora sendo irrelevante o ajuizamento da ação de prestação de contas em 13.04.2012, pois em tal data a pretensão da parte autora já se encontrava fulminada pela prescrição.
+E, mesmo se assim não fosse, o ajuizamento da ação de prestação de contas não tem o condão de interromper a prescrição, pois são demandas que possuem natureza distinta.
+Na ação revisional de contratos bancários busca o autor revisar cláusulas de um contrato bancário, apurando eventuais abusividades.
+Já a ação de prestação de contas tem natureza dúplice, composto de duas fases: onde na primeira busca-se apurar se existe ou não a obrigação do réu de prestar contas; e na segunda, pressupondo-se seja positiva a primeira, procede-se ao exame das contas prestadas a fim de se promover o acertamento, alcançando-se ao final o saldo ou a favor de umas das partes ou inexistente.
+(..)
+A distinta natureza da ação de prestação de contas e da ação revisional fica evidente com entendimento assentado pelo Superior Tribunal de Justiça no julgamento do recurso repetitivo n. 1.497.831, de que o rito especial da ação de prestação de contas não comporta pedido de modificação de cláusulas contratuais, tendo a ação de prestação de contas por escopo apenas apurar o montante do saldo ou a favor de umas das partes ou inexistente.
+Assim, não há que se falar que a ação de prestação de contas interrompe o prazo prescricional para a propositura da ação revisional, tendo em vista que as demandas possuem objetivos distintos.
+Portanto, dou provimento ao recurso nº 0025932-42.2018.8.16.0000, da instituição financeira, para reconhecer a prescrição da pretensão inicial da ação revisional, com a extinção do feito nos termos do art. 487, II, do CPC/2015 e a condenação do autor, Neilson Etanio de Sousa, ao pagamento da sucumbência, fixados os honorários advocatícios em 10% sobre o valor atualizado da causa, observada sua condição de beneficiário da assistência judiciaria gratuita.
+Ante o reconhecimento da prescrição, resta prejudicada a análise dos outros pedidos efetuados no agravo de instrumento nº 0024169-06.2018.8.16.0000, da parte autora.
+O Tribunal de Justiça não tratou danecessidade de exibição incidental de documentos, circunstância que impede o exame do tema por falta de prequestionamento (Súmula n. 211/STJ).
+Quanto à prescrição,o recorrente argumentouque, "em razão do pedido cumulado efetuado na ação de prestação de contas, o pedido revisional também foi interrompido como despacho citatório, reiniciando-se o prazo para contagem e aplicando-se o mesmo no momento do primeiro protocolo, em virtude da aplicação do contido no artigo 202 do Código Civil" (e-STJ fl. 109).
+De acordo com a jurisprudência desta Corte, "acitação válida promovida em anterior ação de prestação de contas, no prazo e na forma da lei processual, ainda que extinta sem resolução de mérito, é suficiente para interromper a prescrição para o ajuizamento de ação de revisão de cláusulas contratuais referente ao mesmo contrato." (AgInt no AREsp 1727721/PR, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 20/04/2021, DJe 28/04/2021). A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA 568/STJ.
+1. Ação revisional de contrato de conta corrente c/c pedido de exibição e repetição do indébito.
+2. A citação válida promovida em anterior ação de prestação de contas, no prazo e na forma da lei processual, ainda que extinta sem resolução de mérito, é suficiente para interromper a prescrição para o ajuizamento de ação de revisão de cláusulas contratuais referente ao mesmo contrato. Precedentes. Ante o entendimento do tema nas Turmas de Direito Privado, aplica-se, no particular, a Súmula 568/STJ.
+3. Agravo interno no agravo em recuso especial não provido.
+(AgInt no AREsp 1765058/PR, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 20/09/2021, DJe 23/09/2021.)
+AGRAVO INTERNO NO RECURSO ESPECIAL.AÇÃO REVISIONAL C/C PEDIDO DE REPETIÇÃO DE INDÉBITO - DECISÃO MONOCRÁTICA QUE DEU PARCIAL PROVIMENTO AO RECLAMO. INSURGÊNCIA DA PARTE DEMANDADA.
+1. Consoante iterativa jurisprudência desta Corte Superior de Justiça, as ações propostas pelo devedor que importem em impugnação ao crédito são aptas a interromper a prescrição. Incidência da Súmula 83 do STJ. Precedentes.
+2. Para alterar as conclusões contidas no decisum, no sentido de aferir a ocorrência da prescrição no caso concreto, seria imprescindível a incursão no conjunto fático e probatório dos autos, providência que atrai o óbice estabelecido pela Súmula 7 do STJ. Precedentes.
+3. Agravo interno desprovido.
+(AgInt no REsp 1895909/PR, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 11/10/2021, DJe 21/10/2021.)
+AGRAVO INTERNO. RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO REVISIONAL. CONTRATO BANCÁRIO. AJUIZAMENTO ANTERIOR DE AÇÃO DE PRESTAÇÃO DE CONTAS. CITAÇÃO VÁLIDA. INTERRUPÇÃO DA PRESCRIÇÃO.
+1. A jurisprudência do STJ firmou o entendimento de que a citação válida em ação de prestação de contas anteriormente ajuizada, no prazo e na forma da lei processual, ainda que extinta sem resolução de mérito, é suficiente para interromper a prescrição para o ajuizamento de ação de revisão de cláusulas contratuais referente ao mesmo contrato.
+2. Agravo interno a que se nega provimento.
+(AgInt no REsp 1934949/PR, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 29/11/2021, DJe 01/12/2021.)
+Imperioso reconhecer, portanto, que a solução adotada no acórdão quanto aotermo inicial da prescrição da pretensão revisionalestá em dissonância com o entendimento do STJ sobre o tema.
+Incide a Súmula n. 568 do STJ.
+Ante o exposto,DOU PROVIMENTO ao recurso especial para determinar o retorno dos autos à origem a fim de que a prescrição seja analisada em conformidade com a jurisprudência desta Corte.
+Publique-se e intimem-se.
