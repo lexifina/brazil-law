@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial por incidência das Súmulas n. 284/STF e 7/STJ (e-STJ fls. 120/121).
+O acórdão recorrido está assim ementado (e-STJ fl. 51):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. DECISÃO INTERLOCUTÓRIA DE INDEFERIMENTODA SUSPENSÃO DO FEITO EXECUTIVO. RECURSO PARA SOBRESTAR A EXECUÇÃO. PRODUTO DA ARREMATAÇÃO SUFICIENTE PARA PAGAMENTO DO CREDOR. ARTIGO 899 DO CÓDIGO DE PROCESSO CIVIL. INOCORRÊNCIA. EXISTÊNCIA DE CRÉDITOS PREFERENCIAIS. POSSÍVEL ABSORÇÃO INTEGRAL DOS VALORES OBTIDOS NA ALIENAÇÃO. AUSÊNCIA DE SATISFAÇÃO DA DÍVIDA. INVIABILIDADE DE SOBRESTAMENTO. DECISÃO MANTIDA. RECURSO CONHECIDO E DESPROVIDO.
+Os embargos de declaração foram rejeitados (e-STJ fls. 78/82).
+Nas razões do recurso especial (e-STJ fls. 90/98), interposto com fundamentono art. 105, III, "a", da CF, a recorrente apontouofensa aos seguintes dispositivos de lei:
+(a) art. 1.022 do CPC/2015, pois, apesar da oposição de embargos de declaração, não teriamsido apreciadas as alegações de: "(i) Obscuridade em relação a instalação ou não de concurso de credores previsto no art. 908 do CPC, já que o acórdão se reportou apenas a certidões positivas de dívidas tributárias; (ii) Omissão e obscuridade quanto ao fato das execuções fiscais indicadas nas certidões positivas de dívidas tributárias se encontrarem ou não garantidas nos próprios autos" (e-STJ fl. 93), e
+(b) arts. 371, 805 e 899 do CPC/2015, porque: "(i) o produto da arrematação é suficiente para satisfazer aos interesses da Recorrida; (ii) existe penhora no rosto dos autos nº 0005154-41.2009.8.16.0170, até o limite de R$ 26.221.034,52 (..) equivalente ao quantum debeatur; (iii) até o momento, não houve a abertura de concurso de credores, de modo que não há que se falar em preferência de crédito tributário" (e-STJ fl. 97).
+Contrarrazões às fls. 106/119(e-STJ).
+No agravo (e-STJ fls. 128/133), declara a presença de todos os requisitos de admissibilidade do especial.
+Foi apresentada contraminuta (e-STJ fls. 137/150).
+É o relatório.
+Decido.
+ACorte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+Quanto às omissões e obscuridades apontadas,o Tribunal de origem assim se pronunciou (e-STJ fl. 80):
+De início, importante destacar que inexiste qualquer proposição incompreensível do julgado quanto à instalação do concurso de credores, haja vista que, da leitura diligente das razões decisórias, dessume-se que ainda não houve referida providência, pois dependente de diligência a ser adotada no momento oportuno, conforme se extrai do seguinte trecho do decisum:
+"Com efeito, constata-se que os débitos perante os fiscos federal, estadual e municipal somam, aproximadamente, quatrocentos e quarenta e cinco milhões de reais (R$444.334.835,27), conforme certidões positivas de dívidas tributárias de eventos 276.2, 278.2/3 e 291.2, de modo que, quando da instalação do concurso de credores e distribuição das quantias (artigo 908, CPC), o produto da arrematação restaráintegralmente absorvido." (Grifou-se)
+A falta de compreensão da recorrente não configura obscuridade, a qual nem sequer existe, vez que o concurso de credores deverá ser instalado na ocasião adequada.
+Além disso, quanto à suposta omissão relativa à garantia das execuções fiscais, assinala-se que tal questão foi trazida somente nas razões destes aclaratórios, tendo em vista que o pedido de suspensão da execução restou limitado com base no produto da arrematação do parque fabril de Marechal Cândido Rondon ser suficiente para a satisfação do credor.
+Assim sendo, esse não era um ponto sobre o qual caberia ao julgador analisar, já que essa matéria não foi trazida por quaisquer das partes. Não há que se falar, assim, em omissão.
+Verifica-se, portanto, que o TJPR expressamente se manifestou sobre as questões apresentadas, ainda que não da forma como pretendia arecorrente. Entretanto, o fato de a decisão não atender ao interesse da parte não implica vício previsto no art. 1.022 do CPC/2015.
+No mais, a controvérsia foi decidida com base no acervo fático-probatório dos autos, conforme se extrai do seguinte trecho do acórdão recorrido (e-STJ fl. 53):
+Não obstante o resultado da alienação das instalações situadas em Marechal Cândido Rondon tenha sido no valor de R$30.000.000,00 (trinta milhões de reais), referida quantia possivelmente nem sequer chegará à esfera de disponibilidade do credor.
+Isso porque infere-se dos autos da carta precatória nº 0003469-37.2013.8.16.0112, na qual ocorreu a arrematação do estabelecimento industrial da agravante, a existência de créditos preferenciais sobre o produto da alienação.
+Com efeito, constata-se que os débitos perante os fiscos federal, estadual e municipal somam, aproximadamente, quatrocentos e quarenta e cinco milhões de reais(R$444.334.835,27), conforme certidões positivas de dívidas tributárias de eventos 276.2,278.2/3 e 291.2, de modo que, quando da instalação do concurso de credores e distribuição das quantias (artigo 908, CPC), o produto da arrematação restará integralmente absorvido.
+Dessarte, apesar de o artigo 899 do Estatuto Instrumental determinar, efetivamente, a suspensão da arrematação (providência já ordenada pelo magistrado de origem), na espécie, não há que se falar que os valores obtidos com a hasta pública sejam suficientes para o pagamento do credor, permitindo-se, por conseguinte, o prosseguimento da execução, com a respectiva alienação dos bens situados em Assis Chateaubriand.
+Decidir de modo contrário implicaria o reexame de elementos fáticos, o que é incabível no âmbito do especial, por força do que dispõe a Súmula n. 7/STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
