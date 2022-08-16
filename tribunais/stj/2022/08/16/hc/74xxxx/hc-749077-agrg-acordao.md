@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+O MINISTÉRIO PÚBLICO FEDERAL interpõe agravo regimental contra decisão de minha relatoria, em que concedi a ordem de habeas corpus, para substituir a custódia preventiva do acusado por medidas cautelares alternativas à prisão.
+O agravante alega, em síntese, que " a  prisão preventiva foi imposta contra o paciente para resguardar a ordem pública porque: 1) estava com significativa quantidade de drogas, especialmente considerando o tamanho do município em que foi preso; 2) proferiu ameaças explícitas de matar testemunha do crime" (fl. 328).
+Pondera que, " c om o réu reinserido no meio social, a testemunha do fato está correndo significativo risco de vida, o que impõe, desde logo, a atuação do Estado no sentido de evitar que a ameaça, feita na frente da polícia, se concretize" (fl. 328).
+Requer, assim, a reconsideração do decisum anteriormente proferido ou a submissão do feito a julgamento pelo órgão colegiado, para que seja restabelecida a custódia preventiva do réu.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. MEDIDAS CAUTELARES ALTERNATIVAS À PRISÃO. ADEQUAÇÃO E SUFICIÊNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, da natureza abstrata do crime ou do ato processual praticado (art. 313, § 2º, CPP).
+Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+2. Deve ficar concretamente evidenciado, na forma do art. 282, § 6º do CPP, que, presentes os motivos que autorizam a segregação provisória, não é suficiente e adequada a sua substituição por outra(s) medida(s) cautelar(es) menos invasivas à liberdade.
+3. As circunstâncias mencionadas no decisum combatido se mostram suficientes, em juízo de proporcionalidade, para justificar a imposição de medida cautelar alternativa à prisão, notadamente porque, ao que tudo indica, o réu era tecnicamente primário ao tempo do delito e a quantidade de drogas apreendidas foi muito pequena.
+4. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Em que pesem os argumentos despendidos pelo recorrente, entendo que não lhe assiste razão.
+O Juiz de primeiro grau, ao converter a prisão em flagrante do paciente (ora recorrido) em preventiva, assim fundamentou, no que interessa (fls. 100-101):
+Impende destacar que foram apreendidos porções de entorpecentes, uma quantia em dinheiro, bem como uma balança de precisão, conforme se depreende das reproduções fotográficas acostadas nos autos (seq. 1.13 a 1.15).
+Vale ressaltar ainda que além da gravidade concreta do delito em comento, qual seja, tráfico ilícito de entorpecente, infere-se que o autuado no momento da confecção do boletim de ocorrência proferiu ameaça de ordem vital contra o depoente - Alex, vociferando os seguintes dizeres "que Alex teria que sumir da cidade de Rancho Alegre, pois ele iria matá-lo por ter caguetado".
+Portanto, achega-se que as medidas cautelares diversas da prisão são insuficientes para inibir a reiteração delitiva do autuado.
+Nesse contexto, os indícios que se refere o artigo 312 do Código de Processo Penal estão sufi cientemente contemplados no caso em apreço.
+A necessidade da prisão repousa, preliminarmente, na ordem pública em atenção à gravidade concreta do delito, bem como na inibição de novas práticas delitivas.
+Embora, por um lado, o decisum impugnado pudesse conter elementos mais robustos a indicar a necessidade da restrição da liberdade do recorrido - o que se mostraria consentâneo com a sólida jurisprudência desta Corte, notadamente com o que tenho externado em outros casos (v. g., RHC n. 61.356/MG, DJe 6/11/2015) -, não há como perder de vista, por outro lado, que o Magistrado de primeiro grau mencionou que "o autuado no momento da confecção do boletim de ocorrência proferiu ameaça de ordem vital contra o depoente - Alex, vociferando os seguintes dizeres "que Alex teria que sumir da cidade de Rancho Alegre, pois ele iria matá-lo por ter caguetado"" (fls. 100-101). Ainda, consignou que "foram apreendidos porções de entorpecentes, uma quantia em dinheiro, bem como uma balança de precisão", bem como o fato de que "o autuado no momento da confecção do boletim de ocorrência proferiu ameaça de ordem vital contra o depoente - Alex" (fls. 100-101).
+Tais circunstâncias, na compreensão do Magistrado de primeiro grau, evidenciaria a necessidade de manutenção da custódia cautelar para o bem da ordem pública.
+Sem embargo, a despeito da reprovabilidade social do comportamento atribuído ao recorrente - a ensejar-lhe, se demonstrada a imputação, correspondente e proporcional sancionamento penal -, considero ser suficiente e adequada, na hipótese, a substituição da prisão preventiva por outras medidas cautelares a ela alternativas.
+É plenamente possível que, embora presentes os motivos ou os requisitos que tornariam cabível a prisão preventiva, o juiz - à luz do princípio da proporcionalidade e das novas alternativas fornecidas pela Lei n. 12.403/2011 - considere a opção por uma ou mais das medidas indicadas no art. 319 do Código de Processo Penal o meio suficiente e adequado para obter o mesmo resultado - a proteção do bem jurídico sob ameaça - de forma menos gravosa.
+Tal opção judicial produzirá o mesmo resultado cautelar - no caso em exame, evitar a prática de novos crimes, de maneira a proteger a ordem pública - sem a necessidade de suprimir, de modo absoluto, a liberdade de locomoção do acusado, notadamente porque, ao que tudo indica, era tecnicamente primário ao tempo do delito e a quantidade de drogas apreendidas foi muito pequena (3,9 g de crack).
+Deve, portanto, ser mantida inalterada a decisão que substituiu a custódia preventiva do agravado por medidas cautelares alternativas à prisão.
+À vista do exposto, nego provimento ao agravo regimental.
