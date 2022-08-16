@@ -1,0 +1,22 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região) e Laurita Vaz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Trata-se de agravo regimental emhabeas corpusinterposto porKendrik Henrique Barbosa Santanacontra a decisão, de minha relatoria, que denegou a ordem de habeas corpus. Esta, a ementa da decisão (fl. 220):
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. DIREITO PENAL. ROUBO CIRCUNSTANCIADO. PEDIDO DE RECONHECIMENTO DA TENTATIVA. IMPOSSIBILIDADE. REEXAME FÁTICO. DOSIMETRIA DA PENA. PENA-BASE. CIRCUNSTÂNCIAS E CONSEQUÊNCIAS DO CRIME DEVIDAMENTE MOTIVADAS. AUSÊNCIA DE ILEGALIDADE NO AUMENTO DA PENA. NÃO RECONHECIMENTO DE CONFISSÃO ESPONTÂNEA. CONCRETA FUNDAMENTAÇÃO.
+Ordem denegada.
+Sustenta-se que a vítima não se feriu e teve o seu bem recuperado. Alega que deve ser mantida a proporcionalidade na dosimetria. Acrescenta-se que a pena-base elevada em metade se mostra extremamente desproporcionale que o abalo psicológico sofrido pela vítima já está incluído no tipo penal de roubo, com a pena mínima fixada pelo legislador.
+Afirma-se que não existem fatos concretos para a valoração negativa da conduta social e personalidade do paciente e que a atenuante de confissão espontânea deve ser reconhecida, ainda que parcial e compensada com a agravante de reincidência.
+Por fim, na terceira fase, aduz-se que deve ser reconhecida a tentativa, já que percorrida pequena parte do íter criminis.
+Requer-se, assim, a reconsideração da decisão.
+É o relatório.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS.ROUBO CIRCUNSTANCIADO. PEDIDO DE RECONHECIMENTO DA TENTATIVA. IMPOSSIBILIDADE. REEXAME FÁTICO. DOSIMETRIA.PENA-BASE. CONCRETA FUNDAMENTAÇÃO. AUSÊNCIA DE ILEGALIDADE.
+1. Cada processo traz a sua particularidade, e os fundamentos trazidos pela instância ordinária não demonstram ilegalidade no aumento da pena-base em metade.
+2. Agravo regimental improvido.
+VOTO
+Razão não assiste ao agravante, e a decisão deve ser mantida por seus próprios fundamentos, no sentido de que as questões que foram valoradas pela instância ordinária não podem ser reexaminadas, em sede de habeas corpus, já que o julgador trouxe concretos fundamentos sobre o abalo sofrido:o fato de uma criança de 4 anos estar dentro do veículo,o pedido da mãe para retirá-la não ser atendido e questões relacionadas ao emprego da vítima, como pode ser verificado neste trecho do julgado (f. 157):
+ .. As circunstâncias do crime foram gravíssimas, demonstrando maior culpabilidade e conduta social desajustada dos réus, posto que além de objetivarem a subtração de veículo em plena luz do dia, não atenderem ao apelo desesperado da vítima para retirar sua filha de 4 anos do carro, motivo pelo qual foi agredida. Além disso, as consequências do crime foram significativas para a ofendida, que ainda carrega grande trauma, precisou mudar de residência e chegou a perder o emprego, em razão do medo adquirido de sair e chegar em casa sozinha, justificando-se o estabelecimento da pena-base em 1/2 acima do mínimo legal, ou seja, 6 (seis) anos de reclusão e 15 (quinze) dias-multa, para cada réu  .. .
+Como mencionado na decisão, cada processo traz a sua particularidade, e os fundamentos trazidos pela instância ordinária não demonstram qualquer ilegalidade no aumento da pena-base em metade. A pena foi fixada com proporcionalidade, em 6 anos de reclusão, de acordo com as provas apresentadas. Na segunda fase, a atenuante de confissão espontânea foi negada, já que os acusados negaram o intuito de subtrair o carro, bem como as agressões perpetradas contra a vítima, o que não condiz com o que foi provado. A única confirmação feita pela defesa foi em relação ao que não apresentava dúvida alguma, como a filmagem no local e a tentativa de convencer da prática de crime mais brando.
+Na terceira fase, a pena foi elevada na fração de 1/3, em razãodo concurso de agentes, o que também se mostra proporcional. Também não há falar em tentativa no caso, já queo veículo ficou sob a posse dos réus e um dos acusados inclusive foi preso com o aparelho de celular da vítima. Além disso, o reconhecimento da tentativa requer oreexame do conjunto fático-probatório.
+Ante o exposto, nego provimento ao agravo regimental.
