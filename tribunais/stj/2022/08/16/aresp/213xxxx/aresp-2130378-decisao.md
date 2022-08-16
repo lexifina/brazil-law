@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo manejado peloInstituto Nacional do Seguro Social - INSScontra decisão que não admitiuo recurso especial, este interpostocom fundamento no art. 105, III,a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 3ª Região, assim ementado (fls. 376/377):
+PREVIDENCIÁRIO. MANDADO DE SEGURANÇA. CERTIDÃO POR TEMPO DE CONTRIBUIÇÃO. AUXÍLIO-DOENÇA. ARTIGO 29, II, § 5º, DA LEI N.º 8.213/1991. PERÍODO INTERCALADO DE AFASTAMENTO E TRABALHO. CÔMPUTO. POSSIBILIDADE.
+1. O Art. 29, § 5º, da Lei 8.213/91, estabelece que, se, no período básico de cálculo, o segurado tiver recebido benefícios por incapacidade, sua duração será contada, considerando-se como salário-de-contribuição, no período, o salário-de-benefício que serviu de base para o cálculo da renda mensal.
+2. O Plenário do Supremo Tribunal Federal, por unanimidade, deu provimento ao Recurso Extraordinário (RE) 583834, julgado em 21.09.2011, com repercussão geral reconhecida, entendendo que o § 5º do art. 29 da Lei 8.213/91, é uma exceção razoável à regra proibitiva de tempo de contribuição ficta, por equacionar a situação em que o afastamento que precede a aposentadoria por invalidez, não é contínuo, mas intercalado com períodos em que é recolhida a contribuição previdenciária porque houve uma intercalação entre afastamento e trabalho, oque é o caso autos.
+3. Da análise dos dispositivos legais que versam sobre a matéria, é de se concluir que o período em que o segurado esteve em gozo de auxílio-doença há que ser computado inclusive para fins de carência, vez que não existe vedação expressa nesse sentido. Saliente-se, ainda,a orientação do E. STJ no sentido de que é possível a consideração dos períodos em que o segurado esteve em gozo de auxílio-doença ou de aposentadoria por invalidez, como carência para a concessão de aposentadoria por idade, desde que intercalados com períodos contributivos, caso dos autos (REsp. 1.422.081/SC, Rel. Ministro Mauro Campbell Marques, 2ªTurma, DJe 02/05/2014).
+4. Remessa necessária desprovida.
+Opostos embargos de declaração, foram rejeitados (fls. 430/436).
+A parte recorrente aponta violação dos arts. 489,e 1022, do Código de Processo, em razão da negativa de prestação jurisdicional; e arts.24, 25, inciso II, 27, 29, § 5º, 55, inciso II, 125 e 142, Lei n. 8.213/91, sustentando, em resumo, a impossibilidade de ser computado tempo em benefício como carência, em razão do caráter contributivo da carência.
+Sem contrarrazões.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A insurgência não merece prosperar.
+No caso em questão, inexistem omissão, contradição, obscuridade ou erro material, uma vez que, pela leitura do inteiro teor do acórdão embargado, depreende-se que este apreciou devidamente a matéria em debate e analisou de forma exaustiva, clara e objetiva as questões relevantes para o deslinde da controvérsia.
+Com efeito, acerca do tema recursal, cumpre dizer que o Supremo Tribunal Federal assentou o entendimento, em sede de repercussão geral (Tema 1.125), no sentido de que "É constitucional o cômputo, para fins de carência, do período no qual o segurado esteve em gozo do benefício de auxílio-doença, desde que intercalado com atividade laborativa" (RE 1.298.832, Relator:Luiz Fux, Tribunal Pleno, Julgado em 18/2/2021, PUBLIC 25-2-2021)
+Nesse mesmo sentido caminha a jurisprudência deste STJ, confira-se:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. VIOLAÇÃO DO ART. 535 DO CPC. CÔMPUTO DO TEMPO DE BENEFÍCIO POR INCAPACIDADE COMO PERÍODO DE CARÊNCIA. POSSIBILIDADE, DESDE QUE INTERCALADO COM PERÍODO DE EFETIVO TRABALHO. POSSIBILIDADE DE EXECUÇÃO DA OBRIGAÇÃO DE FAZER ANTES DO TRÂNSITO EM JULGADO. EFEITOS ERGA OMNES LIMITADOS À COMPETÊNCIA TERRITORIAL DO ÓRGÃO PROLATOR.
+1. Ação civil pública que tem como objetivo obrigar o INSS a computar, como período de carência, o tempo em que os segurados estão no gozo de benefício por incapacidade (auxílio-doença ou aposentadoria por invalidez).
+2. O acórdão recorrido julgou a lide de modo fundamentado e coerente, não tendo incorrido em nenhum vício que desse ensejo aos embargos de declaração e, por conseguinte, à violação do art. 535 do Código de Processo Civil.
+3. É possível considerar o período em que o segurado esteve no gozo de benefício por incapacidade (auxílio-doença ou aposentadoria por invalidez) para fins de carência, desde que intercalados com períodos contributivos.
+4. Se o período em que o segurado esteve no gozo de benefício por incapacidade é excepcionalmente considerado como tempo ficto de contribuição, não se justifica interpretar a norma de maneira distinta para fins de carência, desde que intercalado com atividade laborativa.
+5. Possibilidade de execução da obrigação de fazer, de cunho mandamental, antes do trânsito em julgado e independentemente de caução, a ser processada nos moldes do art. 461 do Código de Processo Civil.
+6. Prevalece nesta Corte o entendimento de que a sentença civil fará coisa julgada erga omnes nos limites da competência territorial do órgão prolator, nos termos do art. 16 da Lei n. 7.347/85, alterado pela Lei n. 9.494/97.
+7. O valor da multa cominatória fixada pelas instâncias ordinárias somente pode ser revisado em sede de recurso especial se irrisório ou exorbitante, hipóteses não contempladas no caso em análise.
+8. Recurso especial parcialmente provido.
+(REsp n. 1.414.439/RS, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 16/10/2014, DJe de 3/11/2014.)
+Desse modo, verifica-se que a pretensão do recorrente destoa da jurisprudência consolidada neste STJ e pelo STF em sede de repercussão geral, razão pela qual não merece acolhida.
+ANTE O EXPOSTO, nego provimento ao agravo em recurso especial.
+Publique-se.
