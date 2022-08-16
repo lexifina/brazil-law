@@ -1,0 +1,459 @@
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 1 de 10
+
+16/08/2022
+
+PLENÁRIO
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO 1.384.863 SÃO
+PAULO
+RELATOR
+AGTE.(S)
+ADV.(A/S)
+ADV.(A/S)
+ADV.(A/S)
+AGDO.(A/S)
+ADV.(A/S)
+
+: MINISTRO PRESIDENTE
+: RONURO IMOVEIS E CONSTRUCOES LTDA
+: MARCOS JOAQUIM GONCALVES ALVES
+: PAULO CAMARGO TEDESCO
+: GABRIELA SILVA DE LEMOS
+: UNIÃO
+: PROCURADOR-GERAL DA FAZENDA NACIONAL
+
+EMENTA:
+AGRAVO
+INTERNO
+NO
+RECURSO
+EXTRAORDINÁRIO COM AGRAVO. DIREITO PROCESSUAL
+CIVIL. DECISÃO JUDICIAL. INTIMAÇÃO. VALIDADE. ARTIGO 93,
+INCISO IX, DA CONSTITUIÇÃO. VIOLAÇÃO. NÃO OCORRÊNCIA.
+ALEGAÇÃO
+DE
+VIOLAÇÃO
+DOS
+PRINCÍPIOS
+DO
+CONTRADITÓRIO, DA AMPLA DEFESA E DO DEVIDO PROCESSO
+LEGAL. AUSÊNCIA DE REPERCUSSÃO GERAL. LEGISLAÇÃO
+INFRACONSTITUCIONAL. OFENSA REFLEXA. FATOS E PROVAS.
+REEXAME.
+IMPOSSIBILIDADE.
+PRECEDENTES.
+AGRAVO
+INTERNO DESPROVIDO.
+1. O artigo 93, inciso IX, da Constituição Federal não determina que
+o órgão judicante se manifeste sobre todos os argumentos apresentados
+pelas partes, mas sim que ele explicite as razões que entendeu suficientes
+à formação de seu convencimento (AI 791.292-RG-QO, Plenário, Rel. Min.
+Gilmar Mendes, DJe de 13/8/2010, Tema 339 da Repercussão Geral).
+2. O tema relativo à suposta violação dos princípios do contraditório,
+da ampla defesa, dos limites da coisa julgada e do devido processo legal
+não possui repercussão geral (ARE 748.371-RG, Plenário, Rel. Min.
+Gilmar Mendes, DJe de 1º/8/2013, Tema 660).
+3. O recurso extraordinário é instrumento de impugnação de decisão
+judicial inadequado para a análise de matéria infraconstitucional, bem
+como para a valoração e exame minucioso do acervo fático-probatório
+engendrado nos autos (Súmula 279 do STF).
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 47D7-8012-B1AA-7173 e senha C034-3A12-7B92-C347
+
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 2 de 10
+
+ARE 1384863 AGR / SP
+4. Agravo interno DESPROVIDO, com imposição de multa de 5%
+(cinco por cento) do valor atualizado da causa (artigo 1.021, § 4º, do CPC),
+caso seja unânime a votação.
+5. Honorários advocatícios majorados ao máximo legal em desfavor
+da parte recorrente, caso as instâncias de origem os tenham fixado, nos
+termos do artigo 85, § 11, do Código de Processo Civil, observados os
+limites dos §§ 2º e 3º e a eventual concessão de justiça gratuita.
+ACÓRDÃO
+O Plenário do Supremo Tribunal Federal, na conformidade da ata de
+julgamento virtual de 5/8 a 15/8/2022, por unanimidade, negou
+provimento ao agravo e condenou a parte agravante ao pagamento de
+multa de 5% (cinco por cento) do valor atualizado da causa (artigo 1.021,
+§ 4º, do CPC), nos termos do voto do Relator, Ministro Luiz Fux
+(Presidente).
+Brasília, 16 de agosto de 2022.
+Ministro LUIZ FUX - PRESIDENTE
+Documento assinado digitalmente
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 47D7-8012-B1AA-7173 e senha C034-3A12-7B92-C347
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 3 de 10
+
+16/08/2022
+
+PLENÁRIO
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO 1.384.863 SÃO
+PAULO
+RELATOR
+AGTE.(S)
+ADV.(A/S)
+ADV.(A/S)
+ADV.(A/S)
+AGDO.(A/S)
+ADV.(A/S)
+
+: MINISTRO PRESIDENTE
+: RONURO IMOVEIS E CONSTRUCOES LTDA
+: MARCOS JOAQUIM GONCALVES ALVES
+: PAULO CAMARGO TEDESCO
+: GABRIELA SILVA DE LEMOS
+: UNIÃO
+: PROCURADOR-GERAL DA FAZENDA NACIONAL
+RELATÓRIO
+
+O SENHOR MINISTRO LUIZ FUX (PRESIDENTE): Trata-se de
+agravo interno interposto contra decisão da Presidência desta Corte que
+negou seguimento ao recurso extraordinário com agravo, mercê da
+inexistência de vício de fundamentação no acórdão extraordinariamente
+recorrido, da ausência de repercussão geral da alegada ofensa aos
+corolários do devido processo legal, do caráter infraconstitucional da
+controvérsia e da incidência do óbice da Súmula 279 do STF.
+A parte agravante sustenta, em síntese, a inexistência dos óbices
+apontados.
+Não foi aberto prazo para contrarrazões, considerados o princípio da
+celeridade processual e a inexistência de prejuízo à parte agravada.
+É o relatório.
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 8E3C-2F4E-92DA-4577 e senha 9CDA-2332-9081-2337
+
+Supremo Tribunal Federal
+Voto - MINISTRO PRESIDENTE
+
+Inteiro Teor do Acórdão - Página 4 de 10
+
+16/08/2022
+
+PLENÁRIO
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO 1.384.863 SÃO
+PAULO
+VOTO
+O SENHOR MINISTRO LUIZ FUX (PRESIDENTE): A presente
+irresignação não merece prosperar.
+Em que pesem os argumentos expendidos no agravo, resta
+evidenciado que a parte agravante não trouxe nenhum capaz de infirmar
+a decisão hostilizada, razão pela qual deve ela ser mantida, por seus
+próprios fundamentos.
+Com efeito, esta Suprema Corte, em sua composição plenária, na
+oportunidade do julgamento do AI 791.292-QO-RG, Rel. Min. Gilmar
+Mendes publicado no DJe de 13/8/2010, julgado sob a sistemática da
+repercussão geral (Tema 339), firmou o entendimento no sentido de que o
+artigo 93, IX, da Constituição Federal exige que o acórdão ou decisão
+sejam fundamentados, ainda que sucintamente, sem determinar, contudo,
+o exame pormenorizado de cada uma das alegações ou provas, nem que
+sejam corretos os fundamentos da decisão. Por oportuno, transcrevo a
+ementa do referido julgado:
+“Questão de ordem. Agravo de Instrumento. Conversão
+em recurso extraordinário (CPC, art. 544, §§ 3º e 4º). 2. Alegação
+de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art.
+93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da
+Constituição Federal exige que o acórdão ou decisão sejam
+fundamentados, ainda que sucintamente, sem determinar,
+contudo, o exame pormenorizado de cada uma das alegações
+ou provas, nem que sejam corretos os fundamentos da decisão.
+4. Questão de ordem acolhida para reconhecer a repercussão
+geral, reafirmar a jurisprudência do Tribunal, negar provimento
+ao recurso e autorizar a adoção dos procedimentos relacionados
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 6116-33F7-B0C7-8B3A e senha 1651-E8BE-27C6-6800
+
+Supremo Tribunal Federal
+Voto - MINISTRO PRESIDENTE
+
+Inteiro Teor do Acórdão - Página 5 de 10
+
+ARE 1384863 AGR / SP
+à repercussão geral.” (AI 791.292-QO-RG, Plenário, Rel. Min.
+Gilmar Mendes, DJe de 13/8/2010)
+
+Outrossim, o Plenário desta Corte, nos autos do ARE 748.371, Rel.
+Min. Gilmar Mendes, publicado no DJe de 1º/8/2013, julgado sob o rito da
+repercussão geral (Tema 660), reafirmou o entendimento de que a afronta
+aos princípios da legalidade, do devido processo legal, da ampla defesa,
+do contraditório, dos limites da coisa julgada ou da prestação
+jurisdicional que dependa, para ser reconhecida como tal, da análise de
+normas infraconstitucionais configura apenas ofensa indireta ou reflexa à
+Constituição Federal, o que não enseja reexame da questão em recurso
+extraordinário. Nesse sentido:
+“Agravo regimental no recurso extraordinário com agravo.
+Administrativo. Militar. Cerceamento de defesa. Indeferimento
+de provas. Repercussão geral. Ausência. Proventos com
+remuneração correspondente ao grau hierárquico superior.
+Legislação infraconstitucional. Ofensa reflexa. Fatos e provas.
+Reexame. Impossibilidade. Precedentes. 1. A afronta aos
+princípios da legalidade, do devido processo legal, da ampla
+defesa, do contraditório, dos limites da coisa julgada ou da
+prestação jurisdicional, quando depende, para ser reconhecida
+como tal, da análise de normas infraconstitucionais, configura
+apenas ofensa indireta ou reflexa à Constituição Federal. 2. Esse
+entendimento foi reafirmado em sede de repercussão geral.
+Vide: i) ARE nº 748.371/MT, Relator o Ministro Gilmar Mendes,
+DJe de 1º/8/13 - Tema 660 e ii) ARE nº 639.228/RJ, Relator o
+Ministro Cezar Peluso, DJe de 31/8/11 - Tema 424. 3. Inviável,
+em recurso extraordinário, o reexame dos fatos e das provas
+dos autos e a análise da legislação infraconstitucional.
+Incidência das Súmulas nºs 279 e 636/STF. 4. Agravo regimental
+não provido, com imposição de multa de 1% do valor
+atualizado da causa (art. 1.021, § 4º, do CPC). 5. Havendo prévia
+fixação de honorários advocatícios pelas instâncias de origem,
+seu valor monetário será majorado em 10% (dez por cento) em
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 6116-33F7-B0C7-8B3A e senha 1651-E8BE-27C6-6800
+
+Supremo Tribunal Federal
+Voto - MINISTRO PRESIDENTE
+
+Inteiro Teor do Acórdão - Página 6 de 10
+
+ARE 1384863 AGR / SP
+desfavor da parte recorrente, nos termos do art. 85, § 11, do
+Código de Processo Civil, observados os limites dos §§ 2º e 3º
+do referido artigo e a eventual concessão de justiça
+gratuita.”(ARE 1.143.354-AgR, Plenário, Rel. Min. Dias Toffoli Presidente, DJe de 1º/2/2019)
+
+Demais disso, colhe-se do voto condutor
+extraordinariamente recorrido a seguinte fundamentação:
+
+do
+
+acórdão
+
+“Remetidos os autos a esta E. Corte Regional, o feito foi
+julgado monocraticamente (fls. 236/238), restando improvido o
+apelo da Impetrante e parcialmente providas a apelação da
+União Federal e a remessa oficial.
+Certificado o trânsito em julgado do r. ‘decisum’ (fl. 241),
+os autos foram remetidos à origem para devido processamento.
+Intimada, peticiona a Impetrante (fls. 247/253),
+sustentando a nulidade da r. certidão, necessária a republicação
+da r. decisão dado que requerida a intimação, com
+exclusividade, das procuradoras Lúcia Maria Messina e Maria
+Isabel Peluso acerca das decisões prolatadas neste feito (fl. 128).
+Indefiro o pleito formulado, hígida a certidão de trânsito
+em julgado de fl. 241.
+Verifico, do exame dos autos, a existência de requerimento
+para que ‘todas as intimações de despachos e decisões
+proferidas nesses atos sejam feitas, única e exclusivamente, em
+nome das advogadas Lúcia Maria Messina (OAB/SP n. 57.467) e
+Maria Isabel Peluso (OAB/SP n. 115.127)’ (fl. 128).
+Anoto, mais, providenciada a publicação do r. ‘decisum’
+de fls. 236/238em nome dos procuradores ‘Dra. Lúcia Maria
+Messina e outro’, conforme demonstrado pela própria
+Impetrante (fl. 251), ausente demonstração de prejuízo na
+espécie.
+É de se salientar, por oportuno, a higidez da intimação
+providenciada em relação a um dos procuradores indicados
+pela parte, devendo os causídicos diligenciarem pelo devido
+acompanhamento processual.”
+
+3
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 6116-33F7-B0C7-8B3A e senha 1651-E8BE-27C6-6800
+
+Supremo Tribunal Federal
+Voto - MINISTRO PRESIDENTE
+
+Inteiro Teor do Acórdão - Página 7 de 10
+
+ARE 1384863 AGR / SP
+
+Nesse contexto, conforme consignado no decisum objurgado,
+observa-se que para acolher a pretensão da parte agravante e ultrapassar
+o entendimento do Tribunal de origem, seria necessário analisar a
+legislação infraconstitucional pertinente, o que não é cabível em sede de
+recurso extraordinário, pois a afronta ao texto constitucional, acaso
+existente, seria indireta ou reflexa, bem como reexaminar o acervo fáticoprobatório dos autos, providência que esbarra no óbice da Súmula 279 do
+STF. Nesse sentido:
+“AGRAVO
+INTERNO
+NO
+RECURSO
+EXTRAORDINÁRIO COM AGRAVO. DIREITO PROCESSUAL
+CIVIL. NULIDADE DE INTIMAÇÃO. LEGISLAÇÃO
+INFRACONSTITUCIONAL. OFENSA REFLEXA. FATOS E
+PROVAS. REEXAME. IMPOSSIBILIDADE. PRECEDENTES. 1.
+Não se presta o recurso extraordinário para a análise de matéria
+infraconstitucional, tampouco para o reexame dos fatos e das
+provas constantes dos autos (Súmula 279/STF). 2. Agravo
+interno desprovido, com imposição de multa de 5% (cinco por
+cento) do valor atualizado da causa (artigo 1.021, § 4º, do CPC),
+caso seja unânime a votação. 3. Honorários advocatícios
+majorados ao máximo legal em desfavor da parte recorrente,
+caso as instâncias de origem os tenham fixado, nos termos do
+artigo 85, § 11, do Código de Processo Civil, observados os
+limites dos §§ 2º e 3º e a eventual concessão de justiça gratuita.”
+(ARE 1.341.338-AgR, Plenário, Rel. Min. Luiz Fux - Presidente,
+DJe de 28/10/2021)
+“AGRAVO
+REGIMENTAL
+NO
+RECURSO
+EXTRAORDINÁRIO. PROCESSUAL CIVIL. NULIDADE DE
+INTIMAÇÃO. EVENTUAL VIOLAÇÃO REFLEXA DA
+CONSTITUIÇÃO DA REPÚBLICA NÃO VIABILIZA O
+MANEJO
+DE
+RECURSO
+EXTRAORDINÁRIO.
+PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO.”
+(ARE 784.791-AgR, Primeira Turma, Rel. Min. Luiz Fux, DJe de
+17/2/2016)
+
+4
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 6116-33F7-B0C7-8B3A e senha 1651-E8BE-27C6-6800
+
+Supremo Tribunal Federal
+Voto - MINISTRO PRESIDENTE
+
+Inteiro Teor do Acórdão - Página 8 de 10
+
+ARE 1384863 AGR / SP
+
+“Agravo regimental no recurso extraordinário com agravo.
+Direito Processual Civil. Ofensa ao art. 5º, inciso XXXV, da
+Constituição Federal. Não ocorrência. Princípios do devido
+processo legal, do contraditório e da ampla defesa. Ofensa
+reflexa.
+Intimação.
+Validade.
+Preclusão.
+Legislação
+infraconstitucional. Fatos e provas. Análise. Impossibilidade.
+Precedentes. 1. A jurisdição foi prestada pela Corte de origem
+mediante decisão suficientemente motivada. 2. A afronta aos
+princípios da legalidade, do devido processo legal, da ampla
+defesa e do contraditório, dos limites da coisa julgada e da
+prestação jurisdicional, se dependentes de reexame de normas
+infraconstitucionais, configura apenas ofensa indireta ou reflexa
+à Constituição da República. 3. Inadmissível, em recurso
+extraordinário, a análise da legislação infraconstitucional e do
+conjunto fático-probatório da causa. Incidência das Súmulas nºs
+636 e 279/STF. 4. Agravo regimental não provido.” (ARE
+883.299-AgR, Segunda Turma, Rel. Min. Dias Toffoli, DJe de
+4/9/2015)
+“AGRAVO
+REGIMENTAL
+NO
+AGRAVO
+DE
+INSTRUMENTO.
+PROCESSUAL
+CIVIL.
+INTIMAÇÃO.
+VALIDADE. MATÉRIA INFRACONSTITUCIONAL. OFENSA
+INDIRETA. REEXAME DE FATOS E PROVAS. SÚMULA 279
+DO STF. INCIDÊNCIA. AGRAVO IMPROVIDO. I - Para
+dissentir da conclusão a que chegou o acórdão recorrido quanto
+à validade da intimação, necessário seria o reexame de normas
+infraconstitucionais, bem como a análise do conjunto fáticoprobatório constante dos autos, o que atrai a incidência da
+Súmula 279 do STF . Precedentes. II - Agravo regimental
+improvido.” (AI 844.440-AgR, Segunda Turma, Rel. Min.
+Ricardo Lewandowski, DJe de 27/9/2011)
+“AGRAVO
+REGIMENTAL
+INSTRUMENTO.
+PROCESSUAL
+INTERCORRENTE.
+VALIDADE
+
+NO
+AGRAVO
+DE
+CIVIL.
+PRESCRIÇÃO
+DE
+INTIMAÇÃO.
+
+5
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 6116-33F7-B0C7-8B3A e senha 1651-E8BE-27C6-6800
+
+Supremo Tribunal Federal
+Voto - MINISTRO PRESIDENTE
+
+Inteiro Teor do Acórdão - Página 9 de 10
+
+ARE 1384863 AGR / SP
+CONTROVÉRSIA
+INFRACONSTITUCIONAL.
+OFENSA
+CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO
+REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (AI
+695.982-AgR, Primeira Turma, Rel. Min. Cármen Lúcia, DJe de
+4/6/2010)
+
+Destarte, impende consignar que o agravo interno se revela
+manifestamente infundado.
+Ex positis, DESPROVEJO o agravo interno e, por ser manifestamente
+improcedente o recurso, condeno a parte agravante ao pagamento de
+multa de 5% (cinco por cento) do valor atualizado da causa, nos termos
+do artigo 1.021, § 4º, do Código de Processo Civil, na hipótese de votação
+unânime. Majoro ao máximo legal os honorários advocatícios em
+desfavor da parte recorrente, caso as instâncias de origem os tenham
+fixado, nos termos do art. 85, § 11, do Código de Processo Civil,
+observados os limites dos §§ 2º e 3º e a eventual concessão de justiça
+gratuita.
+É como voto.
+
+6
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 6116-33F7-B0C7-8B3A e senha 1651-E8BE-27C6-6800
+
+Supremo Tribunal Federal
+Extrato de Ata - 16/08/2022
+
+Inteiro Teor do Acórdão - Página 10 de 10
+
+PLENÁRIO
+EXTRATO DE ATA
+AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO 1.384.863
+PROCED. : SÃO PAULO
+RELATOR : MINISTRO PRESIDENTE
+AGTE.(S) : RONURO IMOVEIS E CONSTRUCOES LTDA
+ADV.(A/S) : MARCOS JOAQUIM GONCALVES ALVES (20389/DF, 27461-A/PB,
+54942/PE, 176780/RJ, 146961/SP)
+ADV.(A/S) : PAULO CAMARGO TEDESCO (51970/DF, 58951/GO, 200596/MG,
+79463/PR, 207177/RJ, 119036A/RS, 234916/SP)
+ADV.(A/S) : GABRIELA SILVA DE LEMOS (52224/DF, 211711/RJ,
+208452/SP)
+AGDO.(A/S) : UNIÃO
+ADV.(A/S) : PROCURADOR-GERAL DA FAZENDA NACIONAL (00000/DF)
+Decisão: O Tribunal, por unanimidade, negou provimento ao
+agravo e condenou a parte agravante ao pagamento de multa de 5%
+(cinco por cento) do valor atualizado da causa (artigo 1.021, §
+4º, do CPC), nos termos do voto do Relator, Ministro Luiz Fux
+(Presidente). Plenário, Sessão Virtual de 5.8.2022 a 15.8.2022.
+Composição: Ministros Luiz Fux (Presidente), Gilmar Mendes,
+Ricardo Lewandowski, Cármen Lúcia, Dias Toffoli, Rosa Weber,
+Roberto Barroso, Edson Fachin, Alexandre de Moraes, Nunes Marques
+e André Mendonça.
+
+Carmen Lilian Oliveira de Souza
+Assessora-Chefe do Plenário
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 88A4-6CA9-BFF2-BBF7 e senha FFC3-A5D2-A0BA-B9B7
