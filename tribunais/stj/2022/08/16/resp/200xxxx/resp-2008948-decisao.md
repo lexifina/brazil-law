@@ -1,0 +1,32 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto pelo MINISTÉRIO PÚBLICO FEDERAL contra acórdão prolatado, por unanimidade, pela 6ª Turma do Tribunal Regional da 3ª Região no julgamento de Apelação, assim ementado (fls. 2.454/2.468e):
+GARIMPO ILEGAL DE DIAMANTES: ação civil pública de tutela inibitória, objetivando a paralização da extração sistemática e ilegal de diamantes na represa da UNE de Marimbondo, no Rio Grande (altura dos municípios paulistas de Guaraci e Barretos e do município mineiro de Frutal), provocadora de danos socioambientais e ilicitudes cíveis, criminais, fiscais, trabalhistas e administrativas. PRETENSÃO IMPROCEDENTE: a concessão de permissão prévia e genérica às autoridades administrativas locais, para que - sumariamente - tornem imprestáveis as embarcações utilizadas na mineração ilegal, não merece guarida.
+PODER DE POLICIA: os órgãos fiscalizatórios da administração pública já dispõem do poder de polícia para condicionar, restringir ou deter as atividades contrárias aos interesses da coletividade e do próprio Estado, independentemente da intervenção judicial. E o infrator, por mais errado que esteja, possui direito ao contraditório e à ampla defesa.
+Opostos embargos de declaração, foram rejeitados (fls. 2.445/2.450e).
+Com amparo no art. 105, III, a, da Constituição da República, aponta-se ofensa aos arts. 225 da Constituição da República, 22 do Código de Mineração, 84 do Código de Defesa do Consumidor,e 536, § 1º, do Código de Processo Civil de 2015, alegando-se, em síntese, exercício da atividade de mineração em descompasso com o ordenamento jurídico aplicável à espécie.
+Sem contrarrazões, o recurso foi admitido (fls. 2.472/2.480e).
+O Ministério Público Federal manifestou-se, na qualidade de custos iuris, às fls. 2.503/2.506e.
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Nos termos do art. 932, III, do Código de Processo Civil de 2015, combinado com os arts. 34, XVIII, a, e 255, I, ambos do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida.
+O recurso especial possui fundamentação vinculada, destinando-se a garantir a autoridade da lei federal e a sua aplicação uniforme, não constituindo, portanto, instrumento processual destinado a examinar possível ofensa a norma constitucional, ainda que para efeito de prequestionamento, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal, nos termos do art. 102, III, da Constituição da República.
+Dessa forma, a presente insurgência não pode ser conhecida no que tange à alegada violação aos art. 225 da Constituição da República.
+Na mesma linha:
+PROCESSO CIVIL - EMBARGOS DE DECLARAÇÃO - EMBARGOS DE DIVERGÊNCIA - AUSÊNCIA DE VÍCIOS DO ART. 535 DO CPC - PREQUESTIONAMENTO DE DISPOSITIVOS CONSTITUCIONAIS - IMPOSSIBILIDADE.
+1. Não compete ao STJ intervir em matéria de competência do STF, tampouco para prequestionar questão constitucional, sob pena de violar a rígida distribuição de competência recursal disposta na Lei Maior.
+2. Embargos de declaração rejeitados.
+(EDcl no AgRg nos EREsp 1.054.064/PA, Rel. Ministra ELIANA CALMON, CORTE ESPECIAL, julgado em 17/04/2013, DJe 02/05/2013).
+No que se refere à suscitada violação aos arts.22 do Código de Mineração, 84 do Código de Defesa do Consumidor, e 536, § 1º, do Código de Processo Civil de 2015, verifico que a insurgência carece de prequestionamento, uma vez que não foi analisada pelo tribunal de origem.
+Com efeito, o requisito do prequestionamento pressupõe prévio debate da questão pelo tribunal de origem, à luz da legislação federal indicada, com emissão de juízo de valor acerca dos dispositivos legais apontados como violados, e, no caso, malgrado a oposição de embargos declaratórios, o tribunal de origem não analisou, ainda que implicitamente, a aplicação dassuscitadas normas.
+Desse modo, não tendo sido apreciada tal questão pelo tribunal a quo, a despeito da oposição de embargos de declaração, aplicável, à espécie, o teor da Súmula n. 211/STJ, in verbis: "inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. OFENSA AO ART. 535 DO CPC. APLICAÇÃO DA SÚMULA N. 284 DO STF, POR ANALOGIA. BENS PÚBLICOS. TERRENO DE MARINHA. ILEGALIDADE DO PROCEDIMENTO DEMARCATÓRIO. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA N. 211 DESTA CORTE SUPERIOR. REGISTRO IMOBILIÁRIO. CARACTERIZAÇÃO DO BEM COMO TERRENO DE MARINHA. MANDADO DE SEGURANÇA. VIA ADEQUADA. QUESTÃO MERAMENTE DE DIREITO. OPONIBILIDADE EM FACE DA UNIÃO. CARACTERIZAÇÃO DO BEM COMO PROPRIEDADE PARTICULAR. IMPOSSIBILIDADE. PROPRIEDADE PÚBLICA CONSTITUCIONALMENTE ASSEGURADA (CR/88, ART. 20, INC. VII).
+(..)
+2. A controvérsia acerca da ilegalidade do procedimento demarcatório na espécie, pela desobediência do rito específico previsto no Decreto-lei n. 9.760/46 - vale dizer: ausência de notificação pessoal dos recorrentes - não foi objeto de análise pela instância ordinária, mesmo após a oposição de embargos de declaração, razão pela qual aplica-se, no ponto, a Súmula n. 211 desta Corte Superior.
+(..)
+5. Recurso especial parcialmente conhecido e, nesta parte, não provido. Julgamento submetido à sistemática do art. 543-C do CPC e à Resolução n. 8/2008.
+(REsp 1.183.546/ES, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, julgado em 08/09/2010, DJe 29/09/2010 - destaques meus).
+Cabe ressaltar, ainda, que o Recorrente deveria ter alegado afronta ao art. 1.022 do Código de Processo Civil, de forma fundamentada, caso entendesse persistir omissão, contradição ou obscuridade no acórdão impugnado, possibilitando, assim, a análise de eventual negativa de prestação jurisdicional pelo tribunal de origem, sob pena de não conhecimento da matéria por ausência de prequestionamento, como ocorreu no presente caso.
+Posto isso, com fundamento nos arts. 932, III, do Código de Processo Civil de 2015 e 34, XVIII, a, e 255, I, ambos do RISTJ, NÃO CONHEÇO do Recurso Especial.
+Publique-se e intimem-se.
