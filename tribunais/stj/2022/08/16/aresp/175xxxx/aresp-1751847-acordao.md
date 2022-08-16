@@ -1,0 +1,48 @@
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. VALOR DA CAUSA INFERIOR A 50 ORTNS. ALÇADA. RECURSO DE AGRAVO DE INSTRUMENTO. NÃO CABIMENTO.
+I - Na origem, trata-se de agravo de instrumento contra decisão que, em processo de execução fiscal, determinou a intimação da municipalidade para o recolhimento das despesas de citação postal, sob pena de extinção da ação executiva. No Tribunal a quo, não se conheceu do recurso.
+II - Não havendo, no acórdão recorrido, omissão, obscuridade, contradição ou erro material, não fica caracterizada ofensa aos arts. 489 e 1.022 do CPC/2015.
+III - A jurisprudência do Superior Tribunal de Justiça é pacífica ao afirmar que não há recurso para a segunda instância quando o valor executado for inferior ao valor de alçada, de modo que, estando o valor da execução abaixo do estipulado, haverá exceção ao duplo grau de jurisdição, seja para a Fazenda Pública, seja para o executado. Confiram-se: AgInt nos EDcl no AREsp 1.700.964/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 24/8/2020, DJe 27/8/2020 e AgInt no AREsp 1.831.509/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 27/9/2021, DJe 7/10/2021.
+IV - Recurso especial improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, conhecer do agravo para negar provimento ao recurso especial, nos termos do voto do Sr. Ministro-Relator." Os Srs. Ministros Herman Benjamin, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+Trata-se de agravo interposto por Município de São Luiz do Paraitinga contra decisão que inadmitiu o recurso especial fundado no art. 105, III, a, da Constituição Federal, que objetiva reformar o acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo - Av. Brigadeiro.
+Na origem, o presente feito decorre de agravo de instrumento contra decisão que, em execução fiscal com valor atribuído de R$ 975,61 (novecentos e setenta e cinco reais e sessenta e um centavos) (fl.18), determinou a intimação da municipalidade para o recolhimento das despesas de citação postal, sob pena de extinção da ação executiva. No Tribunal a quo, não se conheceu do recurso, conforme acórdão assim ementado:
+AGRAVO DE INSTRUMENTO Execução fiscal Município de São Luiz do Paraitinga Insurgência contra decisão que determinou o recolhimento, por parte da Fazenda, das despesas paracitação da parte executada - Valor da execução fiscal que corresponde a R$ 975,61, inferior ao valor de alçada na data da propositura da ação (novembro de 2019 R$ 1.083,82), mesmo considerandoa sistemática de atualização definida pelo STJ Aplicação do art. 34 da Lei 6.830/80 Precedentes do STJ - Recurso não conhecido.
+Os embargos de declaração opostos foram rejeitados.
+No recurso especial, o recorrente aponta como violados os arts.489, 1.022, II, 1.024, § 4º, do CPC/2015, arguindo ausência de manifestação do órgão julgador acerca das questões suscitadas nos embargos de declaração.
+Alega, ainda, a existência de contrariedade aos arts. 203 e 1.015, parágrafo único, do CPC/2015, sustentando, em resumo, o cabimento do recurso de agravo de instrumento contra decisões interlocutórias em processo de execução, independentemente do valor da causa.
+Após decisum que inadmitiu o recurso especial, foi interposto o presente agravo, tendo o recorrente apresentado argumentos visando rebater os fundamentos da decisão agravada.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+Considerando que o agravante, além de atender aos demais pressupostos de admissibilidade deste agravo, logrou impugnar a fundamentação da decisão agravada, passo ao exame do recurso especial interposto.
+O recurso especial não deve ser provido.
+Não há violação do 535 do CPC/1973 (art. 1.022 do CPC/2015) quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a (art. 165 do CPC/73 e do art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese. É o que se observa pelos seguintes trechos do acórdão recorrido:
+Com efeito, o STJ, no julgamento do REsp. 1.168.625/MG, sob o regime de recursos repetitivos, já concluiu que 50 ORTN"s, em janeiro de 2001, perfaziam o valor de R$ 328,27, nos seguintes termos:
+ ..
+Assim, levando-se em consideração a sistemática fixada pelo STJ, na data de distribuição da presente execução fiscal (novembro de 2019), o valor de alçada correspondia a R$ 1.083,82 e o débito exequendo perfazia um valor de R$ 975,61, não atingindo, destarte, o valor de alçada, inviabilizando, por consequência, o conhecimento do recurso.
+Resumindo, não haverá recurso para a segunda instância quando ovalor executado for inferior ao valor de alçada, de sorte que, estando o valor da execução abaixo do estipulado, a exceção ao duplo grau de jurisdição impõe-se (art. 496 do CPC/2015), seja para a Fazenda Pública, seja para o executado.
+Conforme entendimento pacífico desta Corte, "o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão". A prescrição trazida pelo art. 489 do CPC/2015 confirma a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, "sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida". (EDcl no MS 21.315/DF, relatora Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016.)
+Quanto à questão de fundo, o acórdão do Tribunal de origem não merece reforma, porquanto está em consonância com o desta Corte Superior, o qual entende não haver recurso para a segunda instância quando a importância executada for inferior ao valor de alçada, de modo que, estando o valor da execução abaixo do estipulado, haverá exceção ao duplo grau de jurisdição, seja para a Fazenda Pública, seja para o executado.
+Por oportuno, confiram-se:
+PROCESSUAL CIVIL. EXECUÇÃO FISCAL. VALOR DA CAUSA INFERIOR A 50 ORTNS. ALÇADA. AGRAVO DE INSTRUMENTO. APLICAÇÃO.
+1. A execução judicial para cobrança da Dívida Ativa da União, dos Estados, do Distrito Federal, dos Municípios e respectivas autarquias é regida pela Lei n. 6.830/1980 e, subsidiariamente, pelo Código de Processo Civil, conforme dispõe o art. 1º da referida Lei de Execução Fiscal.
+2. O art. 34 da LEF estabelece o valor de alçada para eventual acesso ao segundo grau de jurisdição no montante de 50 (cinquenta) Obrigações Reajustáveis do Tesouro Nacional  ORTNs.
+3. Em interpretação sistemática do regramento legal, conclui-se pelo não cabimento do agravo de instrumento contra decisões interlocutórias na hipótese de a execução fiscal não alcançar o valor de alçada do art. 34 da Lei n. 6.830/1980, conforme antigo entendimento jurisprudencial sedimentado na Súmula 259 do ex-TFR.
+4. Agravo interno não provido.
+(AgInt no AREsp 1831509/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 27/09/2021, DJe 07/10/2021.)
+PROCESSUAL CIVIL. EXECUÇÃO FISCAL. VALOR DA CAUSA INFERIOR A 50 ORTNS. ALÇADA. RECURSO DE AGRAVO DE INSTRUMENTO. NÃO CABIMENTO.
+I - Na origem, trata-se de agravo de instrumento contra decisão que, em execução fiscal relativa à cobrança de IPTU, indeferiu o pedido de penhora do imóvel pertencente ao contribuinte. No Tribunal a quo, não se conheceu do recurso. Nesta Corte, negou-se provimento ao recurso especial.
+II - A jurisprudência do Superior Tribunal de Justiça é pacífica ao afirmar que não há recurso para a segunda instância quando o valor executado for inferior ao valor de alçada, de modo que, estando o valor da execução abaixo do estipulado, haverá exceção ao duplo grau de jurisdição, seja para a Fazenda Pública, seja para o executado. Confiram-se: AgInt nos EDcl no AREsp 1.700.964/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 24/8/2020, DJe 27/8/2020 e AREsp 1.547.173/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 22/10/2019, DJe 29/10/2019.
+III - Agravo interno improvido.
+(AgInt no AREsp 1804561/SP, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 20/09/2021, DJe 22/09/2021.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 3/STJ. SUPOSTA OFENSA AOS ARTS. 489 E 1.022 DO CPC/2015. INEXISTÊNCIA DE VÍCIO NO ACÓRDÃO RECORRIDO. EXECUÇÃO FISCAL. VALOR DA CAUSA INFERIOR A 50 ORTNS. ALÇADA. RECURSO DE AGRAVO DE INSTRUMENTO. NÃO CABIMENTO.
+1. Não havendo no acórdão recorrido omissão, obscuridade, contradição ou erro material, não fica caracterizada ofensa aos arts. 489 e 1.022 do CPC/2015.
+2. O STJ entende não haver recurso para a segunda instância quando o valor executado for inferior ao valor de alçada, de modo que, estando o valor da execução abaixo do estipulado, haverá exceção ao duplo grau de jurisdição, seja para a Fazenda Pública, seja para o executado. Precedentes: REsp 1.723.063/RS, Rel. Ministro SÉRGIO KUKINA, DJe de 20/08/2019; STJ, AREsp 1.162.438/SP, Rel. Ministro BENEDITO GONÇALVES, DJe de 11/04/2019; STJ, REsp 1.728.357/RS, Rel. Ministro OG FERNANDES, DJe de 15/02/2019.
+3. Agravo interno não provido.
+(AgInt nos EDcl no AREsp 1700964/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 24/08/2020, DJe 27/08/2020.)
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+É o voto.
