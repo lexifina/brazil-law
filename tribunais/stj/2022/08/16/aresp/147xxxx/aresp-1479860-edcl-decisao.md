@@ -1,0 +1,39 @@
+DECISÃO
+MIRIAM MARTINES SANCHEZ SILVA (MIRIAM) opôs embargos de terceiro contra o BANCO J. SAFRA S.A. (BANCO), julgada procedente paraa levantar a constrição (penhora) existente sobre o imóvel localizado a Rua das Cinco Pontas, n. 1.601, Granja Viana11/SP, matrícula 52.662, conforme descrito na petição inicial (e-STJ, fls. 139/412).
+Tribunal de Justiça de São Paulonegou provimento aos apelos de BANCO e MIRIAM nos termos do acórdão de relatoria do Desembargador RENATO RANGEL DESINANO assim ementado:
+EMBARGOS DE TERCEIRO - Sentença de procedência - Insurgência do embargado - Penhora de imóvel - Legitimidade ativa do cônjuge que reside no bem constrito para opor embargos de terceiro - Hipótese em que restou demonstrado que o imóvel constitui bem de família - Sentença mantida - RECURSO NÃO PROVIDO.
+EMBARGOS DE TERCEIRO - Sentença de procedência - Pretensão embargante de anulação do contrato de fiança firmado pelo cônjuge por ausência de outorga uxória - Descabimento - Hipótese em que o cônjuge garantiu o pagamento da Cédula de Crédito Bancário na qualidade de devedor solidário Previsão de que os aditamentos não importam alteração das garantias concedidas anteriormente Fiança que deve ser interpretada somente como reforço à responsabilidade solidária do executado Precedentes do C. STJ - Sentença mantida - RECURSO NÃO PROVIDO (e-STJ, fl. 213).
+Os embargos de declaração opostos por MIRIAM foram rejeitados (e-STJ, fls. 262/267).
+Irresignada, MIRIAM interpôs recurso especial com base no art. 105, III, alínea a, da CF, apontando a violação aos arts. 265 e 1.647, III, do CC/02, sustentando que, (1) nos casos em que for prestada a fiança, sem outorga uxória, o ato será anulável, ressaltando-se que a restrição dos bens não se limita à meação do outro cônjuge, que não consentiu à garantia, mas se estende a todo o patrimônio do casal, invalidando assim o ato por inteiro (e-STJ, fls. 270/281).
+Em juízo de admissibilidade, o TJSP inadmitiu o apelo nobre pelos fundamentos de: (a) ausência da alegada vulneração aos dispositivos arrolados; e (b) incidência das Súmulas nºs 5 e 7 do STJ (e-STJ, fls. 311/312).
+O agravo em recurso especial não foi conhecido por decisão de minha relatoriapor ausência de impugnação de um dos fundamentos da decisão agravada - incidência da Súmula nº 5 do STJ (e-STJ, fls. 385/387).
+Nas razões dos presentes embargos de declaração, MIRIAM alegou que a decisão embargada não se pronunciou quanto a vedação da presunção de solidariedade e aanulação do contrato de fiança assinado pelo seu cônjuge diante da anuência marital, nos termos dos arts. 265 e 1.647,III do CC/02(e-STJ, fls. 406/413).
+A impugnação foi apresentada (e-STJ, fls. 393/401).
+É o relatório.
+A irresignação não merece prosperar.
+De plano vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016:Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Da ausência de violação do art. 1.022 do NCPC
+De acordo com a jurisprudência desta Corte, a contradição ou obscuridade remediáveis por embargos de declaração são aquelas internas ao julgado embargado, devidas à desarmonia entre a fundamentação e as conclusões da própria decisão.
+Já a omissão que enseja o oferecimento de embargos de declaração consiste na falta de manifestação expressa sobre algum fundamento de fato ou de direito ventilado nas razões recursais e sobre o qual deveria manifestar-se o juiz ou o tribunal e que, nos termos do NCPC, é capaz, por si só, de infirmar a conclusão adotada para o julgamento do recurso (arts. 1.022 e 489, § 1º, do NCPC).
+Nas razões deste aclaratório, MIRIAM afirmou a existência de violação do art. 1.022, do NCPC em virtude de omissão quanto a vedação da presunção de solidariedade e a anulação do contrato de fiança assinado pelo seu cônjuge diante da anuência marital, nos termos dos arts. 265 e 1.647, III do CC/02
+Contudo, sem razão.
+Constou expressamente na decisão embargada que MIRIAM não infirmou todos os esteios da decisão que negou seguimento ao seu apelo nobre, na medida em que não refutou de forma arrazoada a incidência da Súmula nº 5 do STJ.
+Confira-se:
+Consoante pacífico entendimento desta Corte, o agravante deve infirmar especificamente todos os fundamentos da decisão agravada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo, não cabendo a impugnação genérica ou a reiteração das razões expostas no recurso especial.
+Observa-se, da leitura das razões recursais, que o inconformismo não se dirigiu de forma específica contra os fundamentos da decisão agravada, pois MIRIAM não infirmou seus esteios, na medida em que não refutou de forma arrazoada a incidência da Súmula nº 5 do STJ. Em suma, MIRIAM limitou-se a repisar os fundamentos de seu apelo nobre, deixando de refutar, de forma arrazoada, o óbice da incidência da Súmula nº 5 do STJ.
+Assim, não tendo o recurso impugnado especificamente os fundamentos da decisão recorrida, é o caso de incidir o art. 932, III, do NCPC (e-STJ, fl. 386).
+Observa-se, dessa forma, que não foi demonstrado nenhum vício na decisão embargada a ensejar a integração do julgado, porquanto a fundamentação adotada na decisão é clara e suficiente para respaldar a conclusão alcançada.
+Esse, inclusive, é o posicionamento desta Corte, a saber:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. VIOLAÇÃO DO ART. 1.022 DO NCPC. OMISSÃO NÃO VERIFICADA. PLANO DE SAÚDE. PACIENTE PÓS-CIRURGIA BARIÁTRICA. DOBRAS DE PELE. CIRURGIAS PLÁSTICAS. NECESSIDADE. CARÁTER FUNCIONAL E REPARADOR. NÃO ESTÉTICO. DEVER DE COBERTURA. CONSONÂNCIA COM O ENTENDIMENTO DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Nos termos da jurisprudência desta Corte, a pretensão de reforma da decisão não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do NCPC.
+3. Esta Corte de Justiça já teve a oportunidade de perfilhar o entendimento de que, tendo sido o segurado em tratamento de obesidade mórbida, com cobertura da seguradora, submetido à cirurgia bariátrica, deve a operadora do plano de saúde arcar com os tratamentos necessários e complementares ao referido ato cirúrgico, destinados à cura da patologia (AgRg no AREsp 583.765/MG, Rel. Ministro Raul Araújo, Quarta Turma, julgado em 19/5/2015, DJe de 22/6/2015).
+3. Agravo interno não provido.
+(AgInt no AREsp 1.656.178/SP, de minha relatoria, Terceira Turma, j. em 24/08/2020, DJe 27/08/2020)
+Nesse sentido, é forçoso reconhecer que a parte pretende, na verdade, o rejulgamento da causa.
+Em suma, a pretensão desborda das hipóteses de cabimento dos aclaratórios, previstas no art. 1.022 do NCPC.
+Nessas condições, REJEITO os embargos de declaração.
+Por oportuno, previno as partes que a interposição de recurso contra essa decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação das penalidades fixadas nos arts. 1.021, §4º ou 1.026, §2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. OMISSÃO. AUSÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
