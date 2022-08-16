@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se  de  habeas  corpussubstitutivo de recurso próprio  impetrado  em  benefício  de  SANDRA APARECIDA DA SILVA VASCONCELOS,  contra  acórdão  do  Tribunal de Justiça do Estado do Rio Grande do Sul,  proferido  no  julgamento  dos Embargos Infringentes e de Nulidade n. 5002845- 84.2021.8.21.0013/RS.
+Consta  dos  autos  que  o Juízo de primeiro grau condenou a paciente a 4 anos e 2 meses de reclusão, inicialmente no regime aberto, como incursa no art. 33,§ 4º, da Lei n. 11.343/06 (tráfico de drogas na modalidade privilegiada).
+Interposta apelação, pela defesa, por maioria de votos o Tribunala quonegou provimento ao recurso.
+Opostos embargos infringentes, foram eles rejeitados, emjulgamento assim resumido (fl. 134):
+"EMBARGOS INFRINGENTES E DE NULIDADE EM APELAÇÃO CRIMINAL. TRÁFICO DE DROGAS. PEDIDO DE APLICAÇÃO DA REDUTORA DO §4º DO ARTIGO 33 DA LEI Nº 11.343/06 EM PATAMAR MÁXIMO. NÃO ACOLHIMENTO. ACUSADA FLAGRADA, EM SUA RESIDÊNCIA, NA POSSE DE TRÊS VARIEDADES DE SUBSTÂNCIAS ENTORPECENTES, SENDO DUAS DELAS DE ALTO POTENCIAL LESIVO. IMPOSSIBILIDADE DE SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITO. EMBARGOS INFRINGENTES E DE NULIDADE DESACOLHIDOS."
+No  presente  mandamus,  sustenta  a  Defesa  que apacientetem direito subjetivo à aplicação do redutor do § 4º do art. 33 da Lei 11.343/2006, na fração máxima.
+O Ministério Público Federal opinou pela concessão da ordem, em parecer ementado nestes termos (fl. 147):
+"HABEAS CORPUS. TRÁFICO DE DROGAS. CAUSA ESPECIAL DE DIMINUIÇÃO. TRÁFICO PRIVILEGIADO. MODULAÇÃO DA FRAÇÃO. NATUREZA E DIVERSIDADE (7G DE CRACK, 37G DE MACONHA E 10,1G DE COCAÍNA). ELEMENTOS QUE NÃO DESBORDAM DO TIPO PENAL. QUANTIDADE NÃO RELEVANTE.CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+1. É pacífica a jurisprudência no sentido de que não deve ser conhecido o habeas corpus impetrado como substitutivo de recurso, cabendo, porém, a verificação da existência de flagrante ilegalidade que justifique a concessão da ordem de ofício.
+2. A natureza e diversidade de drogas apreendidas, em contexto de apreensão de pouca quantidade, não autoriza a modulação da fração relativa ao tráfico privilegiado, por não ultrapassar aquilo que é normal à espécie.
+5. Parecer pelo não conhecimento do habeas corpus, mas pela concessão parcial da ordem, de ofício, para aumentar a fração de diminuição do art.33, § 4º, da Lei nº11.343/06."
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça. Contudo, razoável o processamento do feito para verificar a existência de eventual constrangimento ilegal.
+Na hipótese dos autos, apaciente foi presaem flagrante delito, mantendo em depósito, para fins de comercialização e difusão ilícita a terceiros, 1 porção de maconha, 1 de cocaína e 45 pedras decrack,razão pela qual foi condenadapor tráfico ilícito de drogas, nestes termos (fls. 27/29):
+"A defesa postulou o reconhecimento da causa de diminuição prevista no artigo 33, § 4º, da Lei n.º 11.343/2006.
+ ..
+Com efeito, a ré faz jus ao reconhecimento da causa de diminuição de pena, porque é primária, de bons antecedentes criminais (Evento n.º 75), não há prova de que se dedique a atividades criminosas, nem tampouco de que integre organização criminosa.
+Incide em favor da ré a atenuante genérica prevista no art. 65, I, do CP, pois, consoante se vê do documento de identidade civil (OUT3, Evento n.º 44), era a agente menor de 21 (vinte e um) anos de idade na data do fato, praticado em 12/03/2021.
+Nesse contexto, inexistindo causas excludentes de ilicitude ou da culpabilidade, comprovada a autoria e a materialidade, sendo típico o fato, a condenação da ré é medida impositiva.
+Passo à Dosimetria da Pena:
+Com observância do método trifásico de aplicação da pena previsto no artigo 68 do Código Penal, dou início à fixação da pena-base considerando as circunstâncias do artigo 59 do mesmo diploma legal, bem assim o disposto no artigo 42 da Lei n.º 11.343/2006.
+A culpabilidade, considerada como a reprovabilidade da conduta, mostra-se normal à espécie. A ré é primária (Evento n.º 75). A conduta social, assim entendida como o comportamento da agente na família, trabalho e comunidade, não foi esclarecida. A personalidade da agente, segundo o apurado nos autos, não pode ser aquilatada. O motivo do crime é identificável como o desejo de obtenção de lucro fácil, o que já é punido pelo próprio tipo. As circunstâncias lhe são desfavoráveis, em virtude de parte da droga empregada no tráfico ser cocaína e crack, entorpecentes conhecidos pelo alto poder de gerar dependência nos usuários e causar destruição. Ainda, ressalta-se que a quantidade de drogas é significativa, todavia será valorada na terceira fase, notadamente sobre a fração de diminuição da minorante do tráfico privilegiado.As consequências são punidas pelo tipo penal. Não há que se falar em comportamento da vítima, diante do tipo penal em exame.
+Assim, por considerar necessário e suficiente para a reprovação e prevenção do crime, fixo a pena-base em 06 (seis) anos de reclusão.
+Na segunda fase de aplicação da pena, não concorrem agravantes.De outro lado, reconhecida a atenuante da menoridade, atenuo a pena em 01 (um) ano, tornando-a provisória em 05 (cinco) anos de reclusão.
+Na terceira fase de aplicação da pena, inexistem causas de aumento de pena. Reconhecida a causa de diminuição do § 4º do artigo 33 da Lei n.º 11.343/2006,diminuo a pena na fração de 1/6, isto é, 10 (dez) meses, considerando que fora apreendida quantidade significativa de drogas de três espécies diversas, tornando definitiva a reprimenda em 04 (quatro) anos e 02 (dois) meses de reclusão.
+ ..
+Fixo o regime aberto para o cumprimento da pena, com fundamento no artigo 33, § 1º, c , do Código Penal.
+ ..
+Deixo de efetuar a substituição da pena privativa de liberdade por pena restritiva de direitos, diante da ausência de preenchimento dos requisitos do artigo 44 do Código Penal, notadamente em razão do quantum da pena aplicada, bem ainda em razão de não ser socialmente recomendada a substituição."
+A dosimetria da pena foi mantida pela Corte estadual, com estes fundamentos:
+ACÓRDÃO DA APELAÇÃO (fls. 118):
+"A pena-base foi estipulada pouco acima do mínimo legal (seis anos de reclusão) diante da natureza extremamente nociva de duas das drogas apreendidas em poder da recorrente (cocaína e crack), o que está de acordo com o disposto no artigo 42 da Lei 11.343.
+E a aplicação da redutora do §4º na fração mínima (um sexto) mostra-se justificada, tendo em vista a quantidade e diversidade de entorpecentes. No caso, ocorreu a apreensão de três espécies distintas de drogas, sendo a cocaína em quantidade relevante (7g de crack, 37g de maconha e 10,1g de cocaína).
+Dessa forma, a punição está bem posta e vai mantida."
+ACÓRDÃO DOS EMBARGOS INFRINGENTES (fls. 139):
+"Entendo por correta a aplicação da minorante em patamar mínimo, considerando que a acusada foi flagrada em sua residência guardando diversas substâncias entorpecentes (maconha, cocaína e crack), sendo duas delas de alto potencial lesivo, o que alcança um maior número de usuários e traz mais reprovabilidadeà conduta.
+ ..
+Nesse contexto, entendo por correta a aplicação no mínimo legal.
+Além disso, tenho que descabe a substituição da pena privativa de liberdade por restritiva de direitos. A uma, em razão do quantum de pena fixado. A duas, por não se revelar suficiente e socialmente recomendável, nos termos do artigo 44, inciso III, do CP, tendo em vista a maior reprovabilidade da conduta em virtude da variedade de substâncias entorpecentes apreendidas.
+Por tais razões, voto no sentido de desacolher os embargos infringentes e de nulidade."
+Vê-se que, apesar da natureza lesiva das substâncias entorpecentes, não foi apreendida quantidade relevante de drogas, tampouco há provas de envolvimento da paciente em outros delitos ou de participação em organização criminosa, conforme reconhecido pelas instâncias ordinárias. Desse modo, desarrazoada a imposição de fração diversa da máxima pela incidência da minorante.
+Nesse sentido:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. TRÁFICO ILÍCITO DE ENTORPECENTES. PACIENTE CONDENADA À PENA CORPORAL DE 3 ANOS E 4 MESES DE RECLUSÃO, EM REGIME INICIAL ABERTO. PLEITO DE AUMENTO DA FRAÇÃO REDUTORA PELO TRÁFICO PRIVILEGIADO. VIABILIDADE. A PEQUENA QUANTIDADE DAS DROGAS APREENDIDAS PERMITE O PROPORCIONAL AUMENTO DA FRAÇÃO REDUTORA APLICADA. REPRIMENDA REDUZIDA. CONSTRANGIMENTO ILEGAL EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+- O Superior Tribunal de Justiça, seguindo entendimento firmado pelo Supremo Tribunal Federal, passou a não admitir o conhecimento de habeas corpus substitutivo de recurso previsto para a espécie. No entanto, deve-se analisar o pedido formulado na inicial, tendo em vista a possibilidade de se conceder a ordem de ofício, em razão da existência de eventual coação ilegal.
+- Para a aplicação da causa de diminuição de pena do art. 33, § 4º, da Lei n. 11.343/2006, o condenado deve preencher, cumulativamente, todos os requisitos legais, quais sejam, ser primário, de bons antecedentes, não se dedicar a atividades criminosas nem integrar organização criminosa, podendo a reprimenda ser reduzida de 1/6 (um sexto) a 2/3 (dois terços), a depender das circunstâncias do caso concreto.
+- Esta Corte vem decidindo que a quantidade, a nocividade e a variedade dos entorpecentes apreendidos são fundamentos idôneos a ensejar a escolha da fração redutora, quando for o caso de aplicação da causa de diminuição prevista no art. 33, § 4º, da Lei n. 11.343/2006. Precedentes.
+- Todavia, a hipótese tratou de pequena quantidade de entorpecente (114,7 g de maconha) e, em decorrência, com o devido respeito à proporcionalidade, a fração redutora do § 4º, do art. 33, da Lei n. 11.343/2006, deve ser alterada para 2/3, alcançando as penas o montante de 1 ano e 8 meses de reclusão e 166 dias-multa.Precedentes.
+- Mantêm-se inalterados o regime inicialmente aberto e a substituição da pena privativa de liberdade por medidas restritivas de direito, tal como estabelecido na sentença, sendo apenas observado o redimensionamento do tempo de prisão.
+Habeas corpus não conhecido.Ordem concedida, ex officio, para reduzir as penas do paciente para 1 ano e 8 meses de reclusão e 166 dias-multa, mantidos os demais termos da condenação.
+(HC n. 460.210/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 1/10/2018.)
+In casu, a pena-base foi fixada acima do mínimo legal, em 6anos de reclusão. Em seguida, foi reduzida de 1/6, pois reconhecida a atenuanteda menoridade relativa, retornando ao patamar de 5 anos de reclusão. Não havendo fundamentação concreta a impedir a incidência do redutor na fração máxima, deve ser diminuída em 2/3, na terceira fase, fixando-se, definitivamente em 1ano e 8meses de reclusão, alémde 166 dias-multa.
+Ante o exposto, não conheço dohabeas corpus,mas concedo a ordem, de ofício, para reduzir a reprimenda dapaciente para 1 ano e 8 meses de reclusão, mais o pagamento de166 dias-multa,mantidos os demais termos do decreto condenatório.
+Publique-se.
+Intimem-se.
