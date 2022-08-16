@@ -1,0 +1,29 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA SEÇÃO do Superior Tribunal de Justiça, em sessão virtual de 10/08/2022 a 16/08/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Mauro Campbell Marques, Benedito Gonçalves, Assusete Magalhães, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Og Fernandes.
+RELATÓRIO
+Trata-se de agravo interno de fls. 70-74 interposto pela UNIÃO contra decisão monocrática que, em sede de execução em mandado de segurança, julgou parcialmente procedente a impugnação oposta pelo referido ente público, fixando critérios de liquidação do julgado.
+A agravante alega, em síntese, que: (a) "a incidência dos consectários a partir do 61º dia após a publicação da portaria anistiado não fez parte do julgamento do RE 553.710 (Tema 394/STF)"; (b) "a correção monetária somente é devida a partir da data da impetração"; e (c) "os efeitos financeiros decorrentes de decisão concessiva em mandado de segurança retroagem apenas à data da propositura da ação, nos termos das Súmulas 269 e 271 do STF, bem como do art. 14, § 4º, da Lei 12.016/2009".
+Requer, por isso, seja provido o recurso.
+Não houve apresentação de contrarrazões, conforme certificado às fls. 70-74.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NA IMPUGNAÇÃO NA EXECUÇÃO EM MANDADO DE SEGURANÇA. ADMINISTRATIVO. ANISTIA POLÍTICA. PAGAMENTO DE INDENIZAÇÃO RETROATIVA. CORREÇÃO MONETÁRIA. TERMO INICIAL DESSE CONSECTÁRIO LEGAL. A PARTIR DO SEXAGÉSIMO PRIMEIRO DIA, CONTADOS DA PUBLICAÇÃO DA PORTARIA ANISTIADORA. AGRAVO IMPROVIDO.
+1. O termo inicial a ser considerado para a correção monetária, incidente sobre o valor retroativo da reparação econômica de caráter indenizatório devida ao anistiado político, é a partir do sexagésimo primeiro dia, contados da publicação da portaria anistiadora, o que encontra amparo, inclusive, na disposição contida no art. 12, § 4º, da Lei nº 10.559/2002.
+2. Agravo interno improvido.
+VOTO
+A agravante defende a tese segundo a qual a correção monetária, incidente sobre o valor retroativo da reparação econômica de caráter indenizatório prevista na portaria de anistia, deve ser contada a partir da impetração do mandado de segurança.
+Contudo, sem razão. Isso porque o termo inicial a ser considerado, para esse consectário legal, é a partir do sexagésimo primeiro dia, contados da publicação da portaria anistiadora, o que encontra amparo, inclusive, na disposição contida no art. 12, § 4º, da Lei nº 10.559/2002.
+Nesse sentido, confiram-se:
+PROCESSUAL CIVIL E ADMINISTRATIVO. MANDADO DE SEGURANÇA. REPARAÇÃO ECONÔMICA. ANISTIA DE MILITAR. PARCELAS PRETÉRITAS. MINISTRO DE ESTADO DA DEFESA. LEGITIMIDADE. ADEQUAÇÃO DA VIA ELEITA. DECADÊNCIA NÃO CONFIGURADA. INAPLICABILIDADE DA PRESCRIÇÃO. MERA SOLICITAÇÃO DE CASSAÇÃO DO ATO CONCESSIVO. INSUFICIÊNCIA PARA MODIFICAR A SUJEIÇÃO PASSIVA E AFASTAR A EXISTÊNCIA DO DIREITO LÍQUIDO E CERTO. DISPONIBILIDADE ORÇAMENTÁRIA. DESCUMPRIMENTO DO PRAZO ESTABELECIDO NA LEI 10.559/2002. JUROS E CORREÇÃO MONETÁRIA. INCIDÊNCIA. PARCIAL CONCESSÃO DA ORDEM.
+(..)
+12. Conforme entendimento da Seção de Direito Público do STJ, apurada a ofensa ao direito líquido e certo do impetrante, que no caso é o reconhecimento da omissão no dever de providenciar o pagamento do montante concernente aos retroativos, conforme valor nominal estabelecido no ato administrativo, devem incidir juros e correção monetária, a partir do sexagésimo primeiro dia após a edição da Portaria concessiva da anistia.
+13. Mandado de Segurança parcialmente concedido, nos termos acima referidos, com a ressalva de que, revogada a anistia concedida, cessam os efeitos desta ordem.
+(MS 21.447/DF, Rel. Ministro HERMAN BENJAMIN, PRIMEIRA SEÇÃO, julgado em 27/09/2017, DJe 17/10/2017) (grifou-se)
+EMBARGOS DE DECLARAÇÃO. MANDADO DE SEGURANÇA. ANISTIA. MILITARES. PAGAMENTO RETROATIVO. JUROS DE MORA E CORREÇÃO MONETÁRIA. INCIDÊNCIA.
+1. Nos processos em que se buscam valores retroativos decorrentes da concessão de anistia política, os juros e a correção monetária são devidos a partir do sexagésimo primeiro dia, contados da publicação da portaria anistiadora e, conforme decidido pela Corte Especial quando do julgamento dos EREsp n. 1.207.197/RS, relator o Ministro Castro Meira, DJe de 2.8.2011 (EDcl no MS n. 18.075, DF, relator Ministro Cesar Asfor Rocha, DJe de 06.08.2012).
+2. Embargos de declaração parcialmente acolhidos para sanar a omissão quanto aos juros de mora e correção monetária incidentes.
+(EDcl no MS 13.591/DF, Rel.Ministro NEFI CORDEIRO, TERCEIRA SEÇÃO, julgado em 23/09/2015, DJe 02/10/2015) (grifou-se)
+Desse modo, não merece reparo a decisão agravada.
+Ante o exposto, voto por negar provimento ao agravo interno.
