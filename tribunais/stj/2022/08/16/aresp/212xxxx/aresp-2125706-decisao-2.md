@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo interposto por BANCO DO BRASIL S.A. contra decisão que negou seguimento a recurso especial, manejado em face de acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. AÇÃO DE EXECUÇÃO. RECUPERAÇÃO JUDICIAL. PLANO HOMOLOGADO EM JUÍZO. EXECUÇÃO CONTRA AVALISTAS. POSSIBILIDADE. RESP Nº 1.700.487/MT. INAPLICABILIDADE AO CASO. EXCLUSÃO DA DEVEDORA PRINCIPAL. HONORÁRIOS ADVOCATÍCIOS. PRINCÍPIO DA CAUSALIDADE.
+I - Não obstante o plano de recuperação judicial opere novação das dívidas a ele submetidas, as garantias reais ou fidejussórias são preservadas, circunstância que possibilita ao credor exercer seus direitos contra terceiros garantidores e impõe a manutenção das ações e execuções aforadas em face de fiadores, avalistas ou coobrigados em geral. Inteligência do art. 49, § 1º, da Lei nº 11.101/2005, e da Súmula 581, do STJ. Precedentes do STJ.
+II - O REsp 1.700.487/MT, trata de caso peculiar em que a assembleia geral de credores aprovou, sem qualquer ressalva, a supressão das garantias reais e fidejussórias.
+IV - Em razão do princípio da causalidade, as custas e honorários advocatícios devem ser suportados pela parte que deu causa à extinção do processo sem julgamento do mérito ou pela parte que viesse a ser a perdedora caso o magistrado julgasse o mérito da causa. Precedente do STJ. Fixação por analogia ao art. 338, parágrafo único do CPC.
+AGRAVO DE INSTRUMENTO CONHECIDO E PARCIALMENTE PROVIDO.
+O Banco agravante sustenta, nas razões de recurso especial, que os executados deramcausa ao ajuizamento do processo executivo e, portanto, devem arcar como pagamento dos ônus da sucumbência decorrentes da extinção do processo pelo deferimento de sua recuperação judicial.
+Assim delimitada a controvérsia, passo a decidir.
+Depreende-se dos autos que o Banco agravante ajuizou execução contra osagravadosem razão do descumprimento de obrigação de pagar, assumida contratualmente.
+Ocorre que a execução foi extinta em relação a Kabanas Comercial de Alimentação Ltda. e Bolivar Gonçalves Siqueira em decorrência de deferimento de pedido de recuperação judicial.
+O Tribunal de origem imputou os ônus da sucumbência à empresa ora agravante pelos seguintes fundamentos (fls. 66):
+Outrossim, em relação à verba sucumbencial não fixada na instância a quo, teço algumas considerações.
+Considerando o que estabelece o artigo 85, § 1o: A sentença condenará o vencido a pagar honorários ao advogado do vencedor. § 1º São devidos honorários advocatícios na reconvenção, no cumprimento de sentença, provisório ou definitivo, na execução, resistida ou não, e nos recursos interpostos, cumulativamente", a referência à sentença justifica-se no sentido de que se deve considerar que é por esse ato que, comumente, mas não sempre, encerra-se um processo.
+Nesse momento, concluída a prestação jurisdicional em primeiro grau, é possível que o juiz analise os atos até ali praticados, para que, com base neles e noutros critérios, quantifique os honorários de advogado.
+No entanto, há situações em que não é a sentença o ato que vai encerrar e completar o exame definitivo de uma determinada matéria, mas, sim, uma decisão interlocutória.
+No caso, a exclusão dos executados Kabanas e Bolivar, enseja a fixação de honorários advocatícios, malgrado não exista ainda uma sentença no processo. É que se completou e se encerrou a atuação jurisdicional quanto à relação jurídico-material-processual relativa àqueles litisconsortes, excluídos do feito.
+Destarte, correndo a execução contra a devedora principal, mesmo após notícia de homologação posterior do plano de recuperação judicial nos autos (evento 58, doc. 5), e sabido do entendimento do STJ: "uma vez deferido o processamento ou, a fortiori, aprovado o plano de recuperação judicial, revela-se incabível o prosseguimento automático das execuções individuais, mesmo após decorrido o prazo de 180 dias previsto no art. 6º, § 4º, da Lei 11.101/05 (STJ, Segunda Seção, AgRg noCC 119.624/GO, Rel. Min. Luis Felipe Salomão. Julg. 13.06.2012. DJe 18.06.2012)", devem os honorários advocatícios ser suportados pela parte que deu causa à extinção do processo sem julgamento do mérito, em atenção ao princípio da causalidade (STJ, Ag. Reg. no REsp 552.723/CE, Rel. Min. Arnaldo Esteves Lima, 5ª Turma, jul. 06.10.2009).
+Os honorários, nessa hipótese, devem ser fixados por analogia ao art. 338, parágrafo único do Código de Processo Civil, in verbis:
+(..)
+A conclusão do acórdão recorrido não encontra respaldo na jurisprudência desta Corte.
+Com relação aos honorários, realmente, com fundamento no princípio da causalidade, nas hipóteses de extinção do processo sem resolução do mérito, decorrente de perda de objeto superveniente ao ajuizamento da ação, a parte que deu causa à instauração do processo deverá suportar o pagamento dos honorários advocatícios. Precedentes: REsp 1245299/RJ; AgRg no Ag 1191616/MG; REsp 1095849/AL; AgRg no REsp 905.740/RJ.
+Ainda nesse sentido:
+DIREITO PROCESSUAL CIVIL. HONORÁRIOS. EXTINÇÃO DO FEITO. FATO SUPERVENIENTE. PRINCÍPIO DA CAUSALIDADE. AJUIZAMENTO DA AÇÃO. RESPONSABILIDADE. REVISÃO. SÚMULA 7/STJ.
+1. Na hipótese de extinção do feito por perda de objeto decorrente de fato superveniente, a verba honorária deve ser arbitrada observando-se o princípio da causalidade. Este determina a imposição da verba honorária à parte que deu causa à instauração do processo ou ao incidente processual. Precedentes.
+2. Para afastar a responsabilidade da recorrente pelo ajuizamento da ação, conforme reconheceu o acórdão recorrido, faz-se necessário adentrar a seara probatória, o que é vedado pela Súmula 7/STJ.
+3. Agravo regimental não provido.
+(AgRg no AREsp n. 18.849/RS, relator Ministro Castro Meira, Segunda Turma, DJe de 10.11.2011).
+Ademais, a jurisprudência desteSuperior Tribunal orienta que, "restando o processo extinto sem julgamento do mérito, cabe ao julgador perscrutar, ainda sob aégide do princípio da causalidade, qual parte deu origem à extinção do processo sem julgamento do mérito ou qual dos litigantes seria sucumbente se o mérito da ação fosse, de fato, julgado" (REsp 1.072.814/RS, Rel. Ministro MASSAMI UYEDA, TERCEIRA TURMA, DJe 15/10/2008).
+No caso em exame, entretanto, quem deu causa ao ajuizamento do processo executivo foram os devedores confessos, uma vez que a extinção em relação aeles somente ocorreu em decorrência do deferimento de pedido de recuperação judicial.
+Em face do exposto, conheço do agravo e dou provimento ao recurso especial para inverter os ônus da sucumbência fixados pelo acórdão recorrido.
+Intimem-se.
