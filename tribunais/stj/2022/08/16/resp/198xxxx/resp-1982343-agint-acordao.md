@@ -1,0 +1,45 @@
+EMENTA
+PROCESSUAL CIVIL. INTERPOSIÇÃO DE DOIS RECURSOS ESPECIAIS PELA MESMA PARTE. INADMISSIBILIDADE DO SEGUNDO APELO, MANEJADO EM FACE DE ACÓRDÃO, PROFERIDO EM AGRAVO INTERNO, QUE MANTEVE DECISÃO DENEGATÓRIA DE SEGUIMENTO A RECURSO EXTRAORDINÁRIO.
+1. A mesma parte interpôs dois recursos especiais, sendo admitido apenas o primeiro deles na origem. O segundo apelo nobre - que, uma vez inadmitido, ensejou agravo em recurso especial - foi protocolado contra acórdão prolatado em agravo interno que manteve decisão denegatória de seguimento a recurso extraordinário.
+2. No âmbito desta Corte, sobrevieram, para cada um dos recursos, decisões monocráticas em separado, a primeira de fls. 1.018-1.019, integrada às fls. 1.050-1.051, não conhecendo do agravo em recurso especial, e a segunda de fls. 1.021-1.025, conhecendo em parte do recurso especial e negando-lhe provimento.
+3. A insurgência posta neste agravo interno diz respeito unicamente ao que ficou decidido no âmbito do agravo em recurso especial. Portanto, embora estes autos estejam classificados como REsp, trata-se de agravo interno em agravo em recurso especial, circunstância que afasta a pretendida realização de sustentação oral. Precedente.
+4. "Segundo o decidido pela e. Suprema Corte (Questão de Ordem em Agravo de Instrumento nº 760.358/SE, Tribunal Pleno, Rel. Min. Gilmar Mendes, DJe 03/12/09), é definitiva a decisão prolatada por Tribunal que inadmite recurso extraordinário com base na ausência de repercussão geral" (AgRg no RE no AgRg nos EDcl no AgRg no Ag 1166091/PB, Rel. Ministro FELIX FISCHER, CORTE ESPECIAL, julgado em 15/12/2010, DJe 15/02/2011).
+5. Nessa linha de raciocínio, não é cabível segundo recurso especial manejado em face de acórdão, proferido em agravo interno, que manteve decisão denegatória de seguimento a recurso extraordinário.
+6. Agravo interno não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, os Ministros da Quarta Turma do Superior Tribunal de Justiça acordam, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Marco Buzzi.
+RELATÓRIO
+O Senhor Ministro LUIS FELIPE SALOMÃO (Relator):
+1. Trata-se de agravo interno interposto contra a decisão de fls. 1.018-1.019, integrada às fls. 1.050-1.051, por meio da qual não conheci do agravo de fls. 909-919.
+A parte agravante defende o conhecimento do recurso.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. INTERPOSIÇÃO DE DOIS RECURSOS ESPECIAIS PELA MESMA PARTE. INADMISSIBILIDADE DO SEGUNDO APELO, MANEJADO EM FACE DE ACÓRDÃO, PROFERIDO EM AGRAVO INTERNO, QUE MANTEVE DECISÃO DENEGATÓRIA DE SEGUIMENTO A RECURSO EXTRAORDINÁRIO.
+1. A mesma parte interpôs dois recursos especiais, sendo admitido apenas o primeiro deles na origem. O segundo apelo nobre - que, uma vez inadmitido, ensejou agravo em recurso especial - foi protocolado contra acórdão prolatado em agravo interno que manteve decisão denegatória de seguimento a recurso extraordinário.
+2. No âmbito desta Corte, sobrevieram, para cada um dos recursos, decisões monocráticas em separado, a primeira de fls. 1.018-1.019, integrada às fls. 1.050-1.051, não conhecendo do agravo em recurso especial, e a segunda de fls. 1.021-1.025, conhecendo em parte do recurso especial e negando-lhe provimento.
+3. A insurgência posta neste agravo interno diz respeito unicamente ao que ficou decidido no âmbito do agravo em recurso especial. Portanto, embora estes autos estejam classificados como REsp, trata-se de agravo interno em agravo em recurso especial, circunstância que afasta a pretendida realização de sustentação oral. Precedente.
+4. "Segundo o decidido pela e. Suprema Corte (Questão de Ordem em Agravo de Instrumento nº 760.358/SE, Tribunal Pleno, Rel. Min. Gilmar Mendes, DJe 03/12/09), é definitiva a decisão prolatada por Tribunal que inadmite recurso extraordinário com base na ausência de repercussão geral" (AgRg no RE no AgRg nos EDcl no AgRg no Ag 1166091/PB, Rel. Ministro FELIX FISCHER, CORTE ESPECIAL, julgado em 15/12/2010, DJe 15/02/2011).
+5. Nessa linha de raciocínio, não é cabível segundo recurso especial manejado em face de acórdão, proferido em agravo interno, que manteve decisão denegatória de seguimento a recurso extraordinário.
+6. Agravo interno não provido.
+VOTO
+O Senhor Ministro LUIS FELIPE SALOMÃO (Relator):
+2. A irresignação não prospera.
+A mesma parte interpôs dois recursos especiais, sendo admitido apenas o primeiro deles na origem. O segundo apelo nobre - que, uma vez inadmitido, ensejou agravo em recurso especial - foi protocolado contra acórdão prolatado em agravo interno que manteve decisão denegatória de seguimento a recurso extraordinário.
+No âmbito desta Corte, sobrevieram, para cada um dos recursos, decisões monocráticas em separado, a primeira de fls. 1.018-1.019, integrada às fls. 1.050-1.051, não conhecendo do agravo em recurso especial, e a segunda de fls. 1.021-1.025, conhecendo em parte do recurso especial e negando-lhe provimento.
+A insurgência posta neste agravo interno diz respeito unicamente ao que ficou decidido no âmbito do agravo em recurso especial. Portanto, embora estes autos estejam classificados como REsp, trata-se de agravo interno em agravo em recurso especial, circunstância que afasta a pretendida realização de sustentação oral.
+Nessa linha:
+EMBARGOS DE DECLARAÇÃO EM EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. PEDIDO DE TUTELA PROVISÓRIA. IMPOSSIBILIDADE. SUSTENTAÇÃO ORAL EM EMBARGOS DE DECLARAÇÃO EM AGRAVO EM RECURSO ESPECIAL. LEI N. 14.365/2022. NÃO CABIMENTO. SUPOSTA OMISSÃO DO JULGADO PRIMEVO. NÃO CABIMENTO DOS ACLARATÓRIOS. PRECEDENTES. RECURSO DE CARÁTER INFRINGENTE E PROCRASTINATÓRIO. IMPOSIÇÃO DE MULTA. ART. 1.026, § 2º, DO CPC. PEDIDO DE SUSTENTAÇÃO ORAL INDEFERIDO. PEDIDO DE TUTELA PROVISÓRIA DE URGÊNCIA NÃO CONHECIDO. EMBARGOS DE DECLARAÇÃO REJEITADOS, COM APLICAÇÃO DE MULTA.
+1. Nos termos do art. 159, IV, do Regimento Interno do Superior Tribunal de Justiça - RISTJ, descabe a sustentação oral em embargos de declaração, não estando configurada a exceção prevista no art. 937, § 3º, do Código de Processo Civil, porquanto não se trata de agravo interno interposto contra decisão de relator extinguindo ação rescisória, mandado de segurança ou reclamação.
+2. Ademais, o cotejo entre o art. 994 do CPC e o § 2º-B do art. 7º da Lei n. 8.906/1994, inserido pela Lei n. 14.365/2022 evidencia que a novel lei não previu a possibilidade de sustentação oral em recursos interpostos contra decisão monocrática que julga o mérito ou não conhece de agravo de instrumento, de embargos de declaração e de agravo em especial ou extraordinário, uma vez que esses recursos não estão descritos no mencionado § 2º-B do art. 7º da Lei n. 8.906/1994. Na espécie, considerando que se cuida de julgamento de embargos de declaração em agravo em recurso especial, não merece ser acolhido o pedido, ante a impossibilidade de sustentação oral pelo advogado nas referidas espécies recursais.
+(..) 7. Pedido de sustentação oral indeferido. Pedido de tutela provisória de urgência não conhecido. Embargos de declaração rejeitados, com aplicação de multa (ED nos ED no AgInt no AREsp 1829808/SP, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 23/06/2022, DJe 28/06/2022).
+3. No mais, conforme preconizado pela Corte Especial, "é definitiva a decisão prolatada por Tribunal que inadmite recurso extraordinário com base na ausência de repercussão geral". Confira-se:
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. AUSÊNCIA DE REPERCUSSÃO GERAL RECONHECIDA. INADMISSIBILIDADE DO RECURSO EXTRAORDINÁRIO.
+I - Segundo o decidido pela e. Suprema Corte (Questão de Ordem em Agravo de Instrumento nº 760.358/SE, Tribunal Pleno, Rel. Min. Gilmar Mendes, DJe 03/12/09), é definitiva a decisão prolatada por Tribunal que inadmite recurso extraordinário com base na ausência de repercussão geral, a qual não atrai o agravo de instrumento previsto no art. 544 do CPC.
+II - In casu, o v. acórdão recorrido restringiu-se ao exame de questão cuja repercussão geral já foi declarada ausente pelo e. Supremo Tribunal Federal, razão pela qual inadmissível o recurso extraordinário interposto.
+Agravo regimental desprovido.
+(AgRg no RE no AgRg nos EDcl no AgRg no Ag 1166091/PB, Rel. Ministro FELIX FISCHER, CORTE ESPECIAL, julgado em 15/12/2010, DJe 15/02/2011).
+Nessa linha de raciocínio, não é cabível segundo recurso especial (fls. 806-819) manejado em face de acórdão, proferido em agravo interno (fls. 786-796), que manteve decisão denegatória de seguimento a recurso extraordinário (fls. 585-587).
+No caso, a parte busca o afastamento de multa aplicada na origem, valendo-se, para tanto, da interposição de recurso que nem sequer ultrapassa a fase de conhecimento no âmbito desta Corte, por ser manifestamente inadmissível.
+4. Ante o exposto, nego provimento ao agravo interno.
+É como voto.
