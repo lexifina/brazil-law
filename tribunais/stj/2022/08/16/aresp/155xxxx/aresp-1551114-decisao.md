@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015) impugnando decisão que não admitiu recurso especial, por não se identificar negativa de prestação jurisdicional, além de se considerar aplicáveis asSúmulas n. 5 e 7 do STJ(e-STJ fls. 496/500).
+O acórdãoimpugnado possui a seguinte ementa (e-STJ fls. 377/378):
+APELAÇÃO CÍVEL. AÇÃO DE REINTEGRAÇÃO DE POSSE. PEDIDODE DEGRAVAÇÃO DA AUDIÊNCIA DE INSTRUÇÃO. IMPROCEDÊNCIA. ACESSO AMPLO E RESTRITO À GRAVAÇÃO DIGITAL PELA DEFESA. JUNTADA DE DOCUMENTO EM ALEGAÇÕES FINAIS. SENTENÇA QUE NÃO SE UTILIZOU DA DOCUMENTAÇÃO PARA FUNDAMENTAR A DECISÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. DECISÃO DEVIDAMENTE MOTIVADA. AUSÊNCIA DE NULIDADE. PROVA BASTANTE DA EFETIVAÇÃO DO CONTRATO VERBAL REALIZADO ENTRE AS PARTES. AUSÊNCIA DE DESCONSTITUIÇÃO DAS PROVAS CARREADAS. ADIMPLEMENTO DA OBRIGAÇÃO DEMONSTRADO. MANUTENÇÃO DOS EFEITOS DO SENTENÇA. APELAÇÃO DESPROVIDA. MAJORAÇÃO DO HONORÁRIOS ADVOCATÍCIOS EM SEGUNDO GRAU. ARTIGO 85 , PARÁGRAFO 11 , DO CPC. RECURSO CONHECIDO E DESPROVIDO.
+Os embargos declaratórios foram rejeitados (e-STJ fls. 437/441).
+No recurso especial (e-STJ fls. 453/468), fundamentado no art. 105, III, alíneas "a" e "c", da CF, a parte agravanteapontou divergência jurisprudencial eofensa aos seguintes dispositivos legais, vinculados aos respectivos argumentos:
+(a) arts. 371,489, § 1º,III e IV, e 1.022 do CPC/2015- negativa de prestação jurisdicional:
+Quando o E. Tribunal a quo deixou de suprir a omissão, houve induvidosa utilização de motivos que se prestariam a justificar qualquer outra decisão, ocorrendo o não enfrentamento dos argumentos utilizados pela Recorrente, tudo porque não foi demonstrado em uma linha sequer o teor da prova oral/testemunhal dos autos que é utilizada como fundamento para a manutenção da improcedência da demanda, culminando na negativa de vigência dos dispositivos inseridos nos artigos 371; 1.022, II, par. único, II; e 489, § 1º, III e IV, do NCPC.
+De maneira sintética, o que se buscou nos autos, e não foi observado pelo E. TJ/PR, foi um pronunciamento judicial analisando/cotejando, de forma explícita, onde estaria a suposta comprovação, na prova oral produzida em audiência de instrução e ratificada por "declarações (..) em audiência de conciliação", acerca do pagamento do veículo pelos Recorridos (e-STJ fl. 464).
+(b)art. 437, § 1º, do CPC/2015- contraditório e ampla defesa:
+(..) o E. TJ/PR não reconheceu a ocorrência de nulidade decorrente da juntada de documentos aos autos pelos Recorridos, sem que posteriormente fosse oportunizado manifestação à Recorrente (e-STJ fl. 466).
+(..)na forma do art. 437, § 1º, do NCPC, é garantido à Recorrente, como corolário do devido processo legal, ser intimada/ouvida acerca dos referidos documentos (e-STJ fl. 467).
+(..)
+os documentos apresentados pelos Recorridos nos autos influenciaram diretamente no julgamento da demanda pelo juízo de 1º grau, que foi explícito em mencionar uma suposta "retaliação" que se pretendeu comprovar pelos referidos documentos juntados pelos Recorridos (e-STJ fl. 467).
+Os agravados apresentaram resposta aos recursos (e-STJ fls. 484/491 e 533/540).
+É o relatório.
+Decido.
+O recurso não merece acolhida.
+Inexiste negativa de prestação jurisdicionalquando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo juízo.
+No presente caso, arecorrente, K.P. Perusso Rochedo Transportes Ltda., ajuizou açãocontra os recorridos,pedindo a declaração da existência de contrato de compra e venda de veículo,entabulado verbalmenteentre as partes, bem como sua resolução por inadimplemento e, consequentemente,areintegração deposse do bem. Requereuaindaa condenação solidária dos réus ao pagamento de perdas e danos, bem como de tributos e débitos incidentes sobre o veículo durante o período em que esteve em seu poder.
+Os demandadoscontestaramos pedidos e ofereceram reconvenção, requerendoque fosse a autora/reconvinda compelida a assinar o documento de autorização de transferência de propriedade do automóvel.
+O magistrado de primeira instância julgou "MINIMAMENTE PROCEDENTES os pedidos"(e-STJ fl. 274), "apenas para declarar a existência de contrato verbal de compra e venda do veículo VW/Fusca .. , pelo valor de R$ 4.300,00 (quatro mil e trezentos reais)" (e-STJ fl. 274), "julgando improcedentes todos os demais pedidos formulados pela requerente na petição inicial" (e-STJ fl. 274).
+A reconvenção foi julgada procedente, "para o fim de obrigar a reconvinda/autora a assinar o documento de autorização de transferência de propriedade do veículo"(e-STJ fl. 274), ..  "a entrega-lo aos requeridos/reconvintes, permitindo sua transferência à reconvinte/requerida Elaine junto aos órgãos administrativos competentes"(e-STJ fl. 274).
+O Tribunal de Justiça manteve a sentença,refutando, inicialmente, a supostanulidadedecorrente da ausência de indicação, pelo Juiz, daprova oral que teria sustentado a conclusão relacionada ao efetivo pagamento do preço ajustado na compra e venda.
+Segundo o acórdão,omagistradoapontouvários elementosde prova para amparar a decisão, de forma motivada, "não se mostrando relevante a afirmação ou o descontentamento da parte diante da ausência do teor explícito do depoimento que levou ao entendimento  fixado na sentença " (e-STJ fl. 383).
+Assim, não há falar em negativa de prestação jurisdicional, pois houve pronunciamento claro e suficienteacerca das questões suscitadas nos autos.
+Outra nulidade levantadano recurso especial diz respeito ao documento incluído, pelos recorridos, nosautos, sem que posteriormente fosse oportunizadamanifestação à recorrente.
+Referido documento teria influenciado diretamente o resultado da demanda.
+A tese foi afastada, na origem, sob o fundamento de que"a documentação juntada em sede de alegações finais (mov. 98. 2, 3, 4 e 5) pelos Apelados, não foi utilizada pelo juízo para motivar a decisão, apenas se faz referência de que, "muito provavelmente", a retenção do documento de transferência pelo Apelante se deu em razão de Alessandro ter sido arrolado com o testemunha contra o Apelante na ação de nº 0003410-18.2014.8.16.0014, cabendo frisar que tal fato foi reproduzido oralmente na audiência de instrução e julgamento" (e-STJ fl. 382 - grifei).
+Ainda segundo o acórdão recorrido,"não se pode alegar que foi utilizado as informações prestadas em audiência de conciliação para motivar a sentença porquanto as questões lá levantadas foram todas trazidas na audiência de instrução e julgamento, ou seja, sob o crivo do contraditório e ampla defesa" (e-STJ fl. 385).
+Nesse contexto,o acolhimento da pretensão recursal, em sentido contrário à conclusão de que foi garantido à autora o pleno exercício do contraditório quanto às provas relevantes àsolução do feito,exigiriareexame de matéria fática, medidainviável em recurso especial (Súmulan. 7 do STJ).
+Sobre o tema, confiram-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. IRRESIGNAÇÃO DO AGRAVADO.
+1. A nulidade por inobservância do art. 437, § 1º, do CPC/15 (art.398 do CPC/73) deve ser proclamada nos casos em que os documentos juntados pela parte adversa tenham sido relevantes e influenciaram o deslinde da controvérsia, caracterizando-se prejuízo à parte contrária. Incidência da Súmula 83/STJ.
+2. O princípio da fungibilidade recursal somente se aplica quando preenchidos os seguintes requisitos: a) dúvida objetiva quanto ao recurso a ser interposto; b) inexistência de erro grosseiro; e c) observância do prazo do recurso cabível. Estando o acórdão recorrido em consonância com o entendimento desta Corte, é inafastável a aplicação da Súmula 83/STJ.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 1.479.391/SP, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 26/11/2019, DJe de 27/11/2019.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. ART. 1.022 DO CPC/2015. VIOLAÇÃO. NÃO OCORRÊNCIA. LAUDO PERICIAL. INCORREÇÃO. REEXAME DE PROVA. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. O acolhimento da pretensão quanto ao art. 437 do CPC/1973 esbarra no óbice da Súmula nº 7/STJ, pois o aresto recorrido considerou que a matéria foi suficientemente esclarecida no laudo pericial.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.186.351/RS, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 10/4/2018, DJe de 13/4/2018.)
+Ante o exposto, NEGO PROVIMENTO ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento)o valor atualizado dos honorários advocatícios arbitrados na origem emfavor da parte recorrida, observando-se os limites dos §§ 2º e 3º doreferido dispositivo.
+Publique-se e intimem-se.
