@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo interno (e-STJ fls. 415/427) interposto contra decisão monocrática desta relatoria, a qualnão conheceu dorecurso especial da empresa de saúde.
+Em suas razões, a agravante reitera o argumento de ofensa aos arts. 927, III, 1.022, II, e 1.039 do CPC/2015. Insiste também na tese de que, no caso, por força do recurso repetitivo n. 1.568.244/RJ, "configurada abusividade da cláusula de reajuste por faixa etária, deve-se calcular o percentual por meio de perícia atuarial na fase de cumprimento de sentença" (e-STJ fl. 419).
+Ao final, requer o provimento do agravo (e-STJ fl. 427).
+A parte recorrida não apresentou impugnação (e-STJ fl. 435).
+É o relatório.
+Decido.
+Em virtude das razões de fls. 415/427(e-STJ) apresentadas pela agravante, reconsidero a decisão de fls. 403/409(e-STJ) e passo a novo exame do agravo em recurso especial.
+O recurso especial foi interposto pela AMIL ASSISTÊNCIA MÉDICA INTERNACIONAL S.A.contra acórdão da Terceira Câmara de Direito Privadodo TJSP.
+Na origem, a parte recorrente ajuizou ação contra a empresa de saúde, pleiteando a revisão das mensalidades majoradas em função da faixa etária, além de indenização por danos morais. Em primeira instância, o feito foi julgado parcialmente procedente.
+As partes interpuseram apelações, às quaisfoi negado provimento. O acórdão ficou assim ementado(e-STJ fl. 286):
+PLANO DE SAÚDE. PLANO INDIVIDUAL OUFAMILIAR. AÇÃO DE OBRIGAÇÃO DE FAZER C/CCONSIGNAÇÃO EM PAGAMENTO E REPARAÇÃOPOR DANOS MORAIS.
+I. Reajuste de mensalidade por mudança de faixa etária.Julgamento parametrizado por precedente emanado pelo E.Superior Tribunal de Justiça em sede de recursos repetitivos(REsp nº 1.568.244/RJ, Rei. Ricardo ViUas Boas). Reajustede natureza etária admitido desde que (i) haja previsãocontratual; (ii) sejam observadas as normas expedidas pelosórgãos governamentais reguladores; e, (iii) não sejam aplicadospercentuais desarrazoados ou aleatórios que, concretamente esem base atuarial idônea, onerem excessivamente oconsumidor ou discriminem o idoso.
+II. Não demonstrada, na espécie, a previsão expressa dereajuste do prêmio fundado em alteração de faixa etária nocaso concreto. Ônus do qual não se desincumbiu a ré, na formado artigo 373, inciso II, do Código de Processo Civil.Caracterização de imposição unilateral e aleatória emdiscriminação do idoso. Acréscimo injustificado, no mais, queimplicam em onerosidade excessiva da obrigação (artigo 51,inciso IV, CDC). Precedentes desta Câmara. Ratificada aprovidência declaratória de nulidade.
+III. Danos morais. Não caracterização. Fatos declinados naexordial que, em si, não importam em desassossego anormal aosegurado. Inexistência de negativa de cobertura ou suspensãodo vínculo, diferindo-se o conflito entre as partes paradiscussão acerca da exigibilidade de reajuste. Questãomeramente contratual. Mero aborrecimento que não configuralesão moral. Magistério doutrinário.
+SENTENÇA PRESERVADA. APELOS DESPROVIDOS.
+Os primeiros embargos de declaração foram rejeitados (e-STJ fls. 317/320).
+Opostos novos aclaratórios, foram acolhidos sem efeitos modificativos (e-STJ fl. 325):
+EMBARGOS DE DECLARAÇÃO.
+I. Omissão (artigo 1.022, inciso II, do CPC). Ocorrência.Pedido de aplicação de penalidade de litigância de má-férealizado em contrarrazões pelo embargante não apreciado.Vício corrigido.
+II. Omissão. Inocorrência. Pretensão de rediscussão sobre opleito de condenação em danos morais. Intuito infringente.Pretensão, ainda, de prequestionamento da matéria
+EMBARGOS PARCIALMENTE ACOLHIDOS, SEMEFEITOS MODIFICATIVOS.
+No recurso especial (e-STJ fls. 298/305), fundamentado no art. 105, III, "a", da CF, a parte recorrente alega violação dos arts. 927, III, e 1.039 do CPC/2015, no sentido de ser lícito o reajuste do plano de saúde por mudança de faixa etária, bem como divergência jurisprudencial, argumentando que seria aplicável ao caso o entendimento do STJ, firmado em sede de repetitivo nos autos do REsp n. 1.568.244/RJ.
+Suscita ainda afronta ao art. 1.022, II, do CPC/2015, sob alegação de omissão no acórdão recorrido, quanto às violações legais apontadas e à necessidade de perícia para se apurar os índices de reajustes, nos termos do mencionado julgado representativo de controvérsia.
+O recorrido apresentou contrarrazões (e-STJ fls. 346/352).
+Passo ao novo exame do mérito recursal.
+Da análise dos autos, verifica-se que, de fato, ocorreu afronta ao art. 1.022 do CPC/2015.
+O Tribunal de origem, dando provimento ao apelo interposto pela parte ora recorrida,admitiu que seria abusivo o reajuste por mudança de faixa etária, pois não teria sido devidamente previsto na apólice e não teria preenchido os critérios divulgados pela agência reguladora do setor(e-STJ fls. 289/292).
+Ocorre que, em seus aclaratórios e no apelo interposto na origem (e-STJ fls. 310/315 e 225/249), a parte ré, ora recorrente, expressamente alegou afronta ao entendimento repetitivo desta Corte, consolidado nos autos do REsp n. 1.568.244/RJ, pois, reconhecida a ilegalidade do reajuste, seria necessária prova pericial para se averiguar os índices corretos de majoração.
+No entanto, o Tribunala quonão examinou a referida tese, mesmo diante da oposição dos embargos, os quais foram rejeitados, sob alegação de ausência dos vícios previstos no art. 1.022 do CPC/2015(e-STJ fls. 316/320).
+Com efeito, o Tribunal de origemapenas reconheceu a abusividade dos reajustes e determinou a aplicação de índices divulgados pela ANS, sendo que, ao apreciar o mencionado repetitivo, a Segunda Seção do STJ definiu que, "Se for reconhecida a abusividade do aumento praticado pela operadora de plano de saúde em virtude da alteração de faixa etária do usuário, para não haver desequilíbrio contratual, faz-se necessária, nos termos do art. 51, § 2º, do CDC, a apuração de percentual adequado e razoável de majoração da mensalidade em virtude da inserção do consumidor na nova faixa de risco, o que deverá ser feito por meio de cálculos atuariais na fase de cumprimento de sentença"(REsp 1.568.244/RJ, Relator Ministro RICARDO VILLAS BÔAS CUEVA, SEGUNDA SEÇÃO, julgado em 14/12/2016, DJe 19/12/2016).
+Portanto, o acórdão recorrido apresenta omissão, na medida em que o exame do referido temapoderia, em tese, justificar a reforma da decisão, no interesse da parte ora recorrente.
+Ante o vício da decisão recorrida e nos termos do pedido constante do recurso especial,impõe-se oprovimento parcial do recurso, a fim de anular o acórdão recorrido,para que o Tribunala quose pronuncie sobre a questão, sanando, assim, os vícios apontados.
+A propósito:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS CONFIGURADOS.
+1. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+2. Embargos de declaração acolhido, com efeitos infringentes, para conhecer do agravo para dar parcial provimento ao recurso especial, no sentido de anular o julgamento dos embargos declaratórios realizados pelo Tribunal de origem e determinar o retorno dos autos para novo julgamento dos declaratórios, com o devido enfrentamento da questão omissa.
+(EDcl no AREsp 1.600.412/SP, RelatorMinistro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 18/8/2020, DJe 27/8/2020.)
+Ainda nesse sentido, as seguintes decisões monocráticas: AREsp 1.731.840/DF, Relatora Ministra MARIA ISABEL GALLOTTI, publicada em 8/3/2021, AREsp 1.653.325/SP, Relator Ministro RAUL ARAÚJO, publicada em 2/3/2021 e AREsp n. 1.761.972/RS, Relator Ministro LUIS FELIPE SALOMÃO, publicada em 18/2/2021.
+Registre-se ainda que o recurso especial não pode ser integralmente provido, nesta instância especial, se esse desfecho envolversupressão de instância ouafronta à Súmula n. 7/STJ. Com efeito, em recurso especial, "É indispensável, para que não ocorra supressão de instância, que a tese tenha sido apreciada pela origem" (AgInt no AREsp 1.430.913/SP, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 24/9/2019, DJe 30/9/2019).
+Diante do exposto, RECONSIDERO a decisão monocrática de fls. 403/409(e-STJ), para CONHECER EM PARTEe DAR PARCIAL PROVIMENTO ao recurso especial, determinando o retorno dos autos ao Tribunal de origem, a fim de que seja analisada a questão omitida pelo acórdão recorrido.
+Publique-se e intimem-se.
