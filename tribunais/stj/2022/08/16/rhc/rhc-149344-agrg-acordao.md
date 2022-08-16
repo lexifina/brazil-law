@@ -1,0 +1,66 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+MARIA LUZIA ROMERA MILANI agrava de decisão em que conheci em parte do recurso e, nessa extensão, neguei-lhe provimento.
+No regimental, a defesa reitera as alegações de cerceamento de defesa, inépcia da denúncia, ausência de justa causa para a persecução penal, nulidade do ato decisório que recebeu a inicial acusatória e ocorrência de bis in idem.
+Quanto ao último ponto, afirma que o habeas corpus originário havia sido devidamente instruído, pois continha cópia das denúncias ofertadas nas duas ações penais - Processos n. 0006794-14.2018.8.16.0045 e 0015746-19.2018.8.16.0045. Pondera que eventual equívoco da Corte estadual na remessa dos autos não pode inviabilizar o exame da tese.
+Pugna pela reconsideração da decisão agravada ou pela submissão do feito ao órgão colegiado, para que seja conhecido integralmente e provido o recurso.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. SONEGAÇÃO FISCAL. CONHECIMENTO PARCIAL DO PLEITO. INSTRUÇÃO DEFICIENTE. CERCEAMENTO DE DEFESA. INÉPCIA DA DENÚNCIA. AUSÊNCIA DE JUSTA CAUSA PARA A PERSECUÇÃO PENAL. NULIDADE DA DECISÃO DE RECEBIMENTO DA EXORDIAL ACUSATÓRIA. NÃO CONFIGURAÇÃO. AGRAVO NÃO PROVIDO.
+1. Conquanto a defesa afirme haver instruído o writ originário com cópia integral dos documentos necessários para o exame da suscitada duplicidade de feitos sobre os mesmos fatos, não há, nestes autos, cópia da denúncia e de outros documentos atinentes aos referidos procedimentos criminais, o que inviabiliza a apreciação do ponto.
+2. Não é possível asseverar, com base em print extraído de página eletrônica do Tribunal de origem, que os referidos documentos efetivamente constam do habeas corpus lá impetrado.
+3. Poderia a defesa haver anexado tais cópias, quando sinalizada a instrução, mas não supriu a falha, o que obsta o exame do pleito.
+4. A decisão combatida foi clara ao demonstrar, quanto às demais questões suscitadas no agravo, que: a) a moldura fática delineada no acórdão prolatado pelo Tribunal a quo não denota nenhum prejuízo concreto suportado pela defesa, como a negativa de acesso aos autos durante o período de isolamento social imposto pela pandemia da Covid-19; b) a denúncia é formalmente apta e foi lastreada em elementos suficientes para justificarem o início da persecução criminal; c) a decisão que a recebeu apresenta fundamentação idônea, nos termos da jurisprudência desta Corte Superior.
+5. Agravo não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+A despeito das ponderações defensivas, não vejo como alterar o posicionamento já manifestado.
+Conquanto a defesa afirme haver instruído o writ originário com cópia integral dos documentos necessários para o exame da suscitada duplicidade de feitos sobre os mesmos fatos, não há, nestes autos, cópia da denúncia e de outros documentos atinentes aos referidos procedimentos criminais, o que inviabiliza a apreciação do ponto.
+Ademais, não é possível asseverar, com base em print extraído de página eletrônica do Tribunal de origem, que os referidos documentos efetivamente constam do habeas corpus lá impetrado.
+Em complemento, poderia a defesa haver anexado tais cópias, quando sinalizada a instrução, mas não supriu a falha, o que obsta o exame do pleito.
+Além disso, a decisão combatida foi clara ao demonstrar, quanto às demais questões suscitadas no agravo, que: a) a moldura fática delineada no acórdão prolatado pelo Tribunal a quo não denota nenhum prejuízo concreto suportado pela defesa, como a negativa de acesso aos autos durante o período de isolamento social imposto pela pandemia da Covid-19; b) a denúncia é formalmente apta e foi lastreada em elementos suficientes para justificarem o início da persecução criminal; c) a decisão que a recebeu apresenta fundamentação idônea, nos termos da jurisprudência desta Corte Superior.
+Confira-se (fls. 433-438, destaques no original):
+III. Cerceamento de defesa não configurado
+Como ressaltado no aresto combatido: a) a defesa da ora recorrentefoi constituída antes do início das regras de isolamento social, por conta da pandemia da Covid-19, e no período anterior à suspensão do atendimento presencial não buscou acesso ao procedimento investigatório criminal; b) mesmo com a suspensão das atividades presenciais, era possível agendar atendimento, em respeito às regras de isolamento em vigor; c) a intimação da defesa da decisão que concedeu a prorrogação do prazo para apresentação de resposta à acusação ocorreu cerca de 6 meses após a prolação dodecisum, sem a comprovação de nenhuma busca, pelos advogados da ré, de acesso aos autos no período.
+Ademais, a Corte estadual foi clara ao afirmar que não foi demonstrada nenhuma negativa da serventia em conceder à defesa acesso aos autos do Procedimento Investigatório Criminal.
+Dessa forma, por se tratar de afirmaçãogenérica de cerceamento de defesa, sem a comprovação de efetivo prejuízo à acusada, não cabe acolher a nulidade suscitada,a teor do princípio pas de nulité sans grief e do art. 563 doCódigo de Processo Penal: "Nenhum ato será declarado nulo, se da nulidadenão resultar prejuízo para a acusação ou para a defesa".No mesmo sentido:
+ ..
+1. Eventual inversão de ato processual ou adoção de procedimento ordinárioem detrimento de rito especial só podem conduzir à nulidade de processo sehouver prejuízo para as partes, em consonância com o princípio pas denullité sans grief.
+ ..
+11. Agravo regimental desprovido.
+(AgRg no REsp n. 1.865.646/SP, Rel. Ministro João Otávio de Noronha, 5ªT., DJe 14/2/2022, destaquei)
+Logo, não constato flagrante ilegalidade na espécie.
+IV. Inépcia da denúncia não configurada
+A respeito do tema, a jurisprudência desta Corte Superior é firme em reconhecer a aptidão formal da denúncia que descreve, satisfatoriamente, a conduta imputada e o fato delituoso com suas circunstâncias, o que permite ao acusado o exercício do seu direito à ampla defesa. Ilustrativamente:
+ ..
+2. A inépcia da denúncia caracteriza-se pela ausência dos requisitos insertos no art. 41 do Código de Processo Penal, devendo a denúncia, portanto, descrever os fatos criminosos imputados aos acusados com todas as suas circunstâncias, de modo a permitir ao denunciado a possibilidade de defesa.
+3. Da leitura da peça acusatória - conquanto sucinta -, divisei que o mínimo necessário ao exercício do direito de defesa foi pormenorizado pelo órgão de acusação, porquanto apontou a exordial (e o respectivo aditamento) os seus supostos autores e indicou em que consistia a participação do agravante, consubstanciada no fato de ele, "além de ter ciência do esquema criminoso, era um dos beneficiados pelo desvio".
+4. Frise-se, ainda, não ser necessário que a denúncia apresente detalhes minuciosos acerca da conduta supostamente perpetrada, pois diversos pormenores do delito somente serão esclarecidos durante a instrução processual, momento apropriado para a análise aprofundada dos fatos narrados pelo titular da ação penal pública, ainda mais em delitos de autoria coletiva, como na espécie.
+5. Agravo regimental desprovido.
+(AgRg no RHC n. 68.256/PA, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 14/3/2022, destaquei)
+Na hipótese, vejo que a denúncia identificou e qualificou a acusada, apontou sua conduta - omissão de tributo, no importe de R$ 558.000,00, na condição de sócia-administradora da empresa -, além de a haver tipificado (fl. 29):
+Assim agindo, as denunciadas ADRIANE CRISTINE ROMERA DE OLIVEIRA e MARIA LUIZA ROMERA MILANI estão incursas nas sanções do delito tipificado no artigo 1º, inciso II, da Lei nº 8.137/90 (sonegação fiscal), observadas ainda as disposições do artigo 12, I da mesma lei.
+Além disso, como assentado no aresto combatido: a) "a denúncia descreve, ainda que de forma sucinta e sem o detalhamento pormenorizado da conduta (tal como admitido pela jurisprudência pátria), a forma pela qual a imputada sonegação fiscal teria se dado, o que afasta a alegação da defesa de não teria sido explicitado em que consistiu a conduta e quais teriam sido os meios empregados para a sua prática"; b) "a exordial foi clara em indicar que a supressão do tributo se deu, em tese, mediante a omissão de escrituração da Nota Fiscal 000.000.360 no Livro de Registro de Entradas da referida empresa, o que caracterizaria fraude à fiscalização tributária" (ambos à fl.336, grifei).
+Desse modo, considero que a narrativa transcrita é suficiente, nos termos da jurisprudência desta Corte Superior, para permitir o exercício da ampla defesa pelaré. Assim, afasto a tese de inépcia da denúncia, porquanto a acusação formalizada pelo Ministério Público preenche os requisitos do art. 41 do CPP.
+Lembro que a admissibilidade da denúncia possui grau superficial de cognição, limitada quanto à sua extensão no plano horizontal (porquanto se adstringe ao exame das condições da ação e dos pressupostos processuais) e sumária, quanto ao aprofundamento dessa averiguação.
+O órgão jurisdicional deve verificar, hipoteticamente e à luz dos fatos narrados pela acusação, se a denúncia é plausível e, portanto, se é viável a instauração do processo, sem, todavia, valer-se de incursão profunda sobre os elementos de informação disponíveis.
+Não se cuida de analisar se, efetivamente, os fatos narrados pelo Parquet ocorreram e se o denunciado foi, verdadeiramente, aautora do crime a elaimputado, matéria reservada ao juízo de mérito, oportuno após a atividade probatória das partes, sob o contraditório judicial.
+V. Ausência de justa causa não identificada
+Em relação à ausência de justa causa, também não identifico o constrangimento suscitado.
+Com efeito, o Tribunala quofoi claro ao afirmar a presença de documentos suficientes a indicar o envolvimento da ora postulante na suposta prática ilícita, em especial oresultado do Procedimento Adminsitrativo Fiscal em que foi apurada a sonegação de impostos no montante aproximado de meio milhão de reais pela empresa em que a recorrente figurava como sócia-administradora, além de outros elementos que evidenciam que, de fato, ela exercia a gerência das atividades desempenhadas pela pessoa jurídica.
+Desse modo, verifica-se a menção a elementos suficientespara lastrear a acusação. Para alterar essa conclusão, seria necessária imersão vertical nos documentos constantes dos autos e revolvimento dos elementos informativos até então obtidos, providência incompatível com a via estreita do habeas corpus.
+VI. Nulidade do recebimento da denúncia não constatada
+De início, cumpre destacar que "a jurisprudência dos Tribunais Superiores possui entendimento de que a decisão que recebe a denúncia possui natureza jurídica de interlocutória simples, não necessitando fundamentação exauriente por parte do Magistrado quanto aos motivos do seu recebimento" (AgRg no HC n. 728.060/PI, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 31/3/2022, destaquei).
+No caso em análise, a decisão proferida pelo Juízo singular foiclara ao reconhecer o preenchimento dos requisitos do art. 41 do Código de Processo Penal e a não configuração das hipóteses do art. 395 do mesmo diploma legal, dado que afasta a ilegalidade suscitada, nos termos da jurisprudência desta Corte Superior.
+Ressalto, ainda, o posicionamento jurisprudencial de que, em homenagem ao art. 563 do CPP, não se declara a nulidade de ato processual se a irregularidade: a) não foi suscitada em prazo oportuno e b) não vier acompanhada da prova do efetivo prejuízo para a parte.
+Com efeito, não se pode olvidar que, para a declaração de nulidade de determinado ato processual, deve haver a demonstração de eventual prejuízo concreto suportado pela parte. Não é suficiente a mera alegação da ausência de alguma formalidade, mormente quando se alcança a finalidade que lhe é intrínseca.
+Nesse sentido, prevalece na jurisprudência a conclusão de que, em matéria de nulidade, rege o princípio pas de nullité sans grief, segundo o qual não há nulidade sem que o ato tenha gerado prejuízo para a acusação ou para a defesa. Não se prestigia, portanto, a forma pela forma, mas o fim atingido pelo ato.
+A propósito:
+ ..
+3. "Não se declara nulidade no processo se não resta comprovado o efetivo prejuízo, em obséquio ao princípio pas de nullité sans grief positivado no artigo 563 do Código de Processo Penal e consolidado no enunciado nº 523 da Súmula do Supremo Tribunal Federal" (AgRg no REsp n. 1.726.134/SP, relatora Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 22/5/2018, DJe 4/6/2018, grifei).
+4. Agravo regimental desprovido.
+(AgRg no HC n. 552.243/RS, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 7/12/2020)
+Assim, o reconhecimento de nulidade, relativa ou absoluta, exige a indicação oportuna de fórmula legal descumprida e a demonstração do prejuízo suportado pela parte, a teor do art. 563 do CPP, o que não se verifica na hipótese.
+À vista do exposto, nego provimento ao agravo.
