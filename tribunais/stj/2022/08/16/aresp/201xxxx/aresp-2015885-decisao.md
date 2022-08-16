@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão publicada na vigência do CPC/2015, que inadmitiu o recurso especial por impossibilidade de suscitar ofensaa dispositivos constitucionais, ausência de negativa de prestação jurisdicional e incidência da Súmula n. 7 do STJ(e-STJ fls. 615/618).
+O acórdão recorrido encontra-seassim ementado (e-STJ fl. 571):
+Monitória - Cheques prescritos - Inexigibilidade de título - Reconhecimento Exigência legal e regular das cártulas não demonstradas- Natureza cambiária e não civil da obrigação - Abusividade na exigência reconhecida Discussão da causa debendi - Peculiaridades do caso - Possibilidade - Título que não circulou - Alegação de agiotagem - Indícios da prática a autorizar a inversão do ônus da prova - Inteligência do art. 3º, da MP 2172-32/2001 - Sentença mantida -RITJ/SP, artigo 252 - Assento Regimental nº 562/2017, artigo 23. Recurso não provido.
+Os embargos de declaração foram rejeitados (e-STJ fls. 590/593).
+Nas razões do recurso especial (e-STJ fls. 596/602), interposto com fundamento no art. 105, III, "a", da CF, a parte alega ofensa aos arts. 373, 489, § 1º, IV, 700, 798, 1.022 do CPC/2015, 5º, XXXV, XXXVI, e 93, IX, da CF.
+Sustenta a ocorrência de negativa de prestação jurisdicional pois "a) O recorrente demonstrou claramente a adoção de premissa equivocada do juízo a quo -art. 1.022, II e III, do CPC - haja vista a necessidade do recorrido em comprovar as acusações por ele realizadas nos autos - art. 373, do CPC, o que não ocorreu; b) A simples alegação de cobrança de juros elevados, desacompanhada de indícios de prova, não é suficiente para a caracterização da agiotagem, o que também não foi levada em consideração pelo juízo a quo" (e-STJ fl. 601).
+Defendeo cabimento da ação monitória no caso concreto, não tendo o recorrido demonstrado a suposta inexistência do débito ou sua inelegibilidade.
+Alega que "a atualização da dívida foi realizada de acordo com a Tabela de Atualização do Tribunal de Justiça do Estado de São Paulo, até a data da propositura da ação (março/2018), acrescida de juros de mora de 1,00% ao mês, conforme preceitua o art. 798, do CPC/2015" (e-STJ fl. 601).
+No agravo (e-STJ fls. 621/627), afirma a presença dos requisitos de admissibilidade do especial.
+Ausente contraminuta.
+É o relatório.
+Decido.
+Da violação de normas constitucionais
+Cumpre esclarecer que não cabe ao Superior Tribunal de Justiça manifestar-se acerca de suposta violação de dispositivos constitucionais, sob pena de usurpação da competência do Supremo Tribunal Federal.
+Da negativa de prestação jurisdicional
+Inexiste afronta aos arts. 489,§ 1º, IV, e 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+De fato, em relação à tese, oTribunal de origem assim se manifestou (e-STJ fls. 573/574):
+De se ressaltar que o título não circulou, e a lide envolve o sacador e o beneficiário da cártula, admissível a oposição, pelo devedor, de exceções pessoais em relação ao negócio jurídico subjacente. A prática de agiotagem foi alegada pelo réu em embargos monitórios, de modo que incumbia ao autor desconstituir tal alegação, demonstrando a regularidade da transação (empréstimo), o que não se verificou nos autos.
+(..)
+Assim, não tendo o apelante apresentado alegações que, de modo plausível, fornecessem dados que pudessem infirmar a reconhecida prática de agiotagem, não é a hipótese de se afastar a aplicação do disposto no artigo 3º, da Medida Provisória nº 2172-32/2001, que determina a inversão do ônus da prova: "Art. 3º. Nas ações que visem à declaração de nulidade de estipulações com amparo no disposto nesta Medida Provisória, incumbirá ao credor ou beneficiário do negócio o ônus de provar a regularidade jurídica das correspondentes obrigações, sempre que demonstrada pelo prejudicado, ou pelas circunstâncias do caso, a verossimilhança da alegação".
+(..)
+Desse modo, analisando o conjunto probatório dos autos, em especial, os pagamentos realizados pelo apelado (pagamento de R$ 9.119,00 e pagamento de R$ 4.296,00), de rigor a manutenção da r. sentença que reconheceu a agiotagem, vez que a celebração de mútuo se deu sem instrumento escrito, ausência de vínculo de parentesco entre as partes, caracterizada a natureza simulada do negócio.
+Em outros termos, caberia ao apelante impugnar as teses do apelado, bem como os pagamentos já realizados, juntando inclusive, documentação complementar, para afastar o direito invocado pelo apelado.
+Desse modo, não assiste razão à parte, visto que o Tribunal a quo decidiu a matéria controvertida nos autos, ainda que contrariamente aos seus interesses, não incorrendo em nenhum dos vícios previstos nos arts. 489 e 1.022 do CPC/2015.
+Do cabimento da ação monitória
+OTJSP negou provimento à apelação, mantendo a sentença que reconheceu a prática de agiotagem, sob a seguinte motivação(e-STJ fls.572/574):
+Na presente hipótese, o crédito de quantia certa está demonstrado e comprovado por documento hábil (cheques prescritos), que atende o artigo 700, do Código de Processo Civil, especificamente na parte referente a "pagamento de soma em dinheiro", "com base em prova escrita sem eficácia de título executivo".
+Possível o ajuizamento de ação relativa à sua exigência mais encargos, uma vez que fundada no locupletamento ilícito, que prescinde da descrição do negócio jurídico subjacente, reconhecido para tanto seu caráter de obrigação autônoma, pois, ao emitir o cheque para pagar ou para garantir dívida, o emitente se obriga ao pagamento do débito, assumindo a obrigação retratada no cheque, não podendo posteriormente se furtar ao pagamento dos valores, sendo essa a razão pela qual o cheque tem força para garantia do pagamento.
+Vale dizer, a exigência emerge do título em si, da obrigação assumida com a sua emissão, sendo nesse sentido, os acórdãos insertos nas RTs 563/116, 570/134, 579/202, 580/253, 586/124, 589/120, 610/208 e 640/122.
+Assim, considerada a natureza cambiária do cheque e os princípios da autonomia, abstração e cartularidade que cercam os títulos de crédito, emitido o documento objeto da pretensão pelo autor, aí afirmado o propósito de representara própria dívida, conserva o cheque os requisitos e pressupostos a impor sua exigência, por conta de sua própria natureza.
+Observe-se, ainda, que o cheque constitui título executivo delivre circulação e se reveste de autonomia e abstração. Nesse sentido, em regra, incabível a
+discussão de sua causa debendi porque, uma vez colocado o cheque em circulação, asexceções pessoais não podem ser opostas contra terceiros de boa-fé.
+(..)
+Contudo, o caso encerra peculiaridades, vez que os títulosnão circularam. Controvertendo as partes acerca da lisura dos títulos (cheques) objetos deexigência, pode o devedor alegar vício (de natureza social), vale dizer, a simulação relativaà origem do crédito respectivo, realizada com intuito de encobrir ilícito que favorece o credor.
+De se ressaltar que o título não circulou, e a lide envolve osacador e o beneficiário da cártula, admissível a oposição, pelo devedor, de exceçõespessoais em relação ao negócio jurídico subjacente. A prática de agiotagem foi alegadapelo réu em embargos monitórios, de modo que incumbia ao autor desconstituir talalegação, demonstrando a regularidade da transação (empréstimo), o que não se verificounos autos.
+Modificar o entendimento do acórdão impugnado quanto aos documentos para ajuizamento da ação demandaria reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7/STJ.
+Da atualização da dívida
+Nas razões recursais, a parte alega queaatualização da dívida foi realizada de acordo com a Tabela deAtualização do TJSP, até a data dapropositura da ação (março/2018), acrescida de juros de mora de 1,00%ao mês, conforme preceitua o art. 798do CPC/2015.
+A simples indicação dos dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento.
+O Tribunal de origem, ao analisar o recurso de apelação, não fez menção ao art. 798 do CPC/2015, indicadonas razões recursais, conforme se infere do voto condutor do acórdão recorrido (e-STJ fls. 570/575). Além disso, constata-se que, apesar de opostos embargos de declaração, o dispositivo referido não foi expressamente indicada nas razões do recurso e nem enfrentada pelo Tribunal (e-STJ fls. 590/593).
+Assim, o Tribunal de origem não foi instado, no momento oportuno, a se manifestar acerca do tema. Portanto, é inafastável a incidência da Súmula n. 211/STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
