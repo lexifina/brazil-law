@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por DARCI A CANDIDO eOUTRO contra decisão que negou seguimento ao recurso especial, nos termos do art. 1.030, I, "b", do CPC, por entender que o tribunal local decidiu a questão da validade da citação por edital em conformidade com o precedente obrigatório formado no julgamento do Recurso Especial repetitivo n. 1.103.050/BA, Tema 102 do STJ, assentando, ainda, a inadmissibilidade do apelo nobre pelo óbice da Súmula 7 desta Corte Superior.
+Passo a decidir.
+Do que se observa, o fundamento condutor adotado na decisão agravada é de que o acórdão recorrido está em sintonia com o precedente obrigatório do STJ, segundo o qual "a citação por edital na execução fiscal é cabível quando frustradas as demais modalidades" (REsp 1.103.050/BA, Tema 102 do STJ), sendo certo que a menção da aplicação da Súmula7 do STJ também se refere a essa mesma questão.
+Ocorre que, de acordo com o disposto no art. 1.030, § 2º, do CPC/2015, é cabível agravo interno contra a decisão que nega seguimento a recurso especial interposto contra acórdão que está em conformidade com o entendimento do STJ exarado no julgamento de recursos repetitivos.
+Esse agravo interno é a sede própria para se demonstrar eventual falha na aplicação de tese firmada no paradigma repetitivo em face da realidade do processo.
+Em razão dessa previsão normativa, é firme o entendimento desta Corte no sentido de que é incabível o agravo do art. 1.042 do CPC/2015 contra decisão que nega seguimento a recurso especial com base na aplicação de tese firmada em sede de recurso repetitivo ou de repercussão geral, publicada a partir de 18 de março de 2016, quando entrou em vigor o CPC/2015.
+Ante o exposto, com base no art. 253, parágrafo único, I, do RISTJ, NÃO CONHEÇO do agravo em recurso especial.
+Publique-se. Intimem-se.
