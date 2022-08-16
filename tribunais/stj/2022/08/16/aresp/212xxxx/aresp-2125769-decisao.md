@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial por incidência daSúmulan. 7do STJ e735 do STF(e-STJ fls. 619/621).
+O acórdão recorrido está assim ementado (e-STJ fl. 524):
+EMENTA: AGRAVO DE INSTRUMENTO - CUMPRIMENTO DE SENTENÇA - TUTELA DE EVIDÊNCIA E/OU URGÊNCIA - REQUISITOS - AUSÊNCIA -NECESSIDADE DE DILAÇÃO PROBATÓRIA E DO CONTRADITÓRIO. São pressupostos para o deferimento da tutela de urgência (art. 300 do CPC) a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo, assim como a reversibilidade da medida. Inviável o deferimento da tutela de urgência quando não comprovada, de maneira inequívoca, a probabilidade do direito e o perigo de dano ou risco para o resultado útil do processo. Ante a necessidade de dilação probatória quanto aos fatos narrados, deve ser indeferida a antecipação da tutela pleiteada.
+Os embargos de declaração foram rejeitados (e-STJ fls. 582/588).
+No especial (e-STJ fls. 591/608), fundamentado no art. 105, III, "a", da CF, arecorrentealega ofensa aos arts. 489, § 1º, I e IV, e 1.022, I, do CPC/2015 por negativa de prestação jurisdicional.
+Apontaafronta aos arts. 280, 281 e523do CPC/2015, sustentando, em síntese,a nulidade do cumprimento de sentença por falta de intimação válida.
+Indica ainda contrariedade aos arts.524, VII, 805 e 829, § 2º, do CPC/2015, aduzindo a necessidade decancelamento definitivo da indisponibilidade indistinta de bens da recorrente.
+No agravo (e-STJ fls. 624/631), afirma a presença de todos os requisitos de admissibilidade do especial.
+É o relatório.
+Decido.
+Não há falar em ofensa aos arts. 489 e 1.022do CPC/2015, pois o Tribunala quopronunciou-se, de forma clara e suficiente, sobre as questões suscitadas nos autos. Não há negativa de prestação jurisdicional quando os fundamentos utilizados tenham sido suficientes para embasar a decisão, ainda que em sentido diverso do sustentado pela parte, como de fato ocorreu.
+No mais, extraem-se as seguintes razões de decidir do aresto impugnado (e-STJ fls. 526/527):
+Em detida análise dos autos, verifica-se que as alegações do agravante, apesar de relevantes, não apresentam os requisitos autorizadores do deferimento liminar da medida, quais sejam, fumus boni iuris e o periculum in mora, inaudita altera parte, eis que a suspensão da decisão liminar, determinando a suspensão da constrição, seria o mesmo que exaurir o pleito principal, em supressão de instância, considerando que não há dúvida da existência da dívida e de todas as tentativas de intimação da agravante.
+Ocorre que, ficou constatado que o oficial de justiça compareceu por três vezes ao endereço fornecido na inicial, para intimar pessoalmente a agravante a respeito do cumprimento da sentença, sendo que, por duas vezes, a informação fornecida pelo porteiro do próprio prédio foi de que a agravante havia se mudado (ordens 94 e 107).
+Ademais, em uma das tentativas, a filha do representante da agravante atendeu o oficial de justiça e informou que o pai estava viajando e que não sabia quando o mesmo retornaria. Todavia, a própria filha do rep. da recorrente que recebeu o oficial de justiça, trabalha como diretora da empresa em questão e tem poderes para representar a pessoa jurídica em juízo ou fora dele, pelo que, não há que se falar em cerceamento de defesa.
+(..)
+Destarte, em juízo exauriente, continuamos entendendo como ausentes os requisitos autorizadores do pleito recursal, na medida em que as informações trazidas nas razões recursais necessitam de conteúdo probatório, onde serão verificadas todas as particularidades, inclusive quanto à veracidade das alegações autorais.
+Assim, verificado que os requisitos legais para a concessão da tutela de urgência não foram atendidos, a mantença da decisão objurgada é medida que se impõe.
+A insurgência quanto àtutela de urgência pleiteada não pode ser sustentadaapenas com base nos arts. 280, 281, 523,524, VII, 805 e 829, § 2º, do CPC/2015, os quais não regulam a matéria.
+Além disso, não foi impugnado o fundamento do acórdão recorrido segundo o quala suspensão da decisão liminar, determinando a suspensão da constrição, seria o mesmo que exaurir o pleito principal, em supressão de instância, considerando que não há dúvida da existência da dívida e de todas as tentativas de intimação da agravante.
+Incidente, portanto, a Súmula n. 284/STF por deficiência na fundamentação recursal.
+Além do mais, em relação à suposta afronta aos referidos dispositivos, aplica-se o entendimento segundo o qual "não pode ser conhecido o recurso especial quanto à alegação de ofensa a dispositivos de lei relacionados com a matéria de mérito da causa, que, em liminar, é tratada apenas sob juízo precário de mera verossimilhança. Quanto a tal matéria, somente haverá "causa decidida em única ou última instância" com o julgamento definitivo" (REsp n. 765.375/MA, Relator Ministro TEORI ALBINO ZAVASCKI, PRIMEIRA TURMA, DJU de 8/5/2006).
+Ainda que assim não fosse, para alterar os fundamentos aqui transcritos, seria imprescindível o reexame do conjunto fático-probatório dos autos, o que é inviável em recurso especial, haja vista o teor da Súmula n. 7 do STJ.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
