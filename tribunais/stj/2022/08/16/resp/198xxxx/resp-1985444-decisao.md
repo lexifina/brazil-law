@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MUNICÍPIO DE SÃO PAULOcom base naalínea"a" do permissivo constitucionalcontra aresto do Tribunal de Justiça Estadualassim ementado:
+SERVIDORES MUNICIPAIS. Procuradores do Município. São Paulo. CF, art. 25 e 37, X. LF nº 8.880194, art. 22. Plano Real. URV. Conversão. Prescrição. -
+1. Prescrição. Prescreve em cinco anos a contar das datas em que realizadas o direito à modificação do critério de conversão adotado pelo Estado por ocasião da implantação do Plano Real. Posição rejeitada pelo STJ, que vem afirmando repetidas vezes que a prescrição nessa hipótese é parcelar, prevista no art. 30, e não a prescrição nuclear prevista no art. 1º do DL nº 20.910/32.Prescrição apenas das parcelas anteriores ao quinqüênio que antecede a propositura da ação. -
+2. Plano Real. Conversão em URV. A jurisprudência, de que guardo reserva, pacificou-se no sentido de aplicar a conversão em  prevista no art. 22 da LF nº 8.880194 aos Estados e municípios. Diferenças contadas mês a mês, no entanto, com percentuais que não acumulam. -
+3. Plano Real. Conversão em real. Os autores têm direito à diferença de 14,34% por ocasião da conversão em real em 1-7-1994, compensada com os reajustes seguintes até extinção. -
+4. Diferenças. Fazem jus às diferenças os autores que ocupavam -.cargos ou funções municipais nos meses de março a junho de 1994, em relação aos cargos ocupados, não favorece os que foram nomeados depois, nem as diferenças se aplicam aos cargos que depois passaram (se já eram funcionários) a ocupar. - Sentença que acolheu a prescrição. Recurso dos autores provido para afastar a prescrição, e, prosseguindo com fundamento no § 3º do art. 515 do CPC, para julgar a ação procedente em parte
+Em suas razões, orecorrentealega violação do art. 1º do Decreto n. 20.910/1932, defendendo que ocorreu a prescrição do fundo de direito.
+Contrarrazões apresentadas.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo 2).
+Feita essa consideração, observa-se que a pretensão recursal não comporta acolhida, visto que é firme o entendimento do Superior Tribunal de Justiça no sentido de que, na conversão do vencimento dos servidores públicos de cruzeiros reais para URV, por configurar relação de trato sucessivo, incide a prescrição apenas sobre as parcelas vencidas no quinquênio anterior ao ajuizamento da ação nos termos da Súmula 85 do STJ. Nessa esteira:
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. CONVERSÃO DA REMUNERAÇÃO DE CRUZEIRO REAL PARA URV. INEXISTÊNCIA DE VIOLAÇÃO DO ART. 535, II, DO CPC/73. REESTRUTURAÇÃO DE CARREIRA. LEIS ESTADUAIS. REEXAME. IMPOSSIBILIDADE. ENUNCIADO N. 7 DA SÚMULA DO STJ. PRESCRIÇÃO. INCIDÊNCIA DA SÚMULA 85 DO STJ. PRECEDENTES DO STJ. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E IMPROVIDO.
+ ..
+III - A jurisprudência do STJ é no sentido de que, nas ações em que se busca o pagamento das diferenças salariais em decorrência de ilegalidade na conversão do vencimento dos servidores públicos de cruzeiros reais para URV, por configurar relação de trato sucessivo, ou seja, parcelas salariais pagas mês a mês, não ocorre a prescrição do fundo de direito, mas apenas das parcelas vencidas no quinquênio anterior ao ajuizamento da ação. Incidência do enunciado n. 85 da Súmula do STJ. Precedentes: REsp 1671566/SP, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 27/6/2017, DJe 30/6/2017 e AgInt no REsp 1634124/SP, Rel. Ministra Assusete Magalhães, Segunda Turma, julgado em 27/6/2017, DJe 30/6/2017.
+IV - Agravo interno improvido.
+(AgInt no REsp 1.635.642/PR, Rel. Ministro FRANCISCO FALCÃO, Segunda Turma, DJe 10/11/2017).
+AGRAVO INTERNO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. URV. LEI N.º 8.880/94. PRESCRIÇÃO DE FUNDO DE DIREITO. INEXISTÊNCIA DE PREJUÍZO. COMPENSAÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. ÓBICE DA SÚMULA 282/STF. NECESSIDADE DE PROVA PERICIAL. FUNDAMENTO DO ACÓRDÃO RECORRIDA NÃO IMPUGNADO. SÚMULA 283/STF. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ.
+1. Nas hipóteses de pedido de diferenças salariais decorrente da conversão em URV, inexistindo manifestação expressa da Administração Pública negando o direito reclamado, não ocorre a prescrição do chamado fundo de direito, mas tão-somente das parcelas anteriores ao qüinqüênio que precedeu à propositura da ação, ficando caracterizada relação de trato sucessivo (Súmula 85/STJ).
+Precedentes.
+ ..
+(AgInt nos EDcl no REsp 1.653.969/RJ, Rel. Ministro SÉRGIO KUKINA, Primeira Turma, DJe 28/09/2017).
+In casu, o aresto hostilizado diverge das orientações aludidas.
+Dessa forma, aplica-se à espécie a Súmula 83 do STJ, segundo a qual "não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida", que é aplicável quando o recurso especial é interposto com base nas alíneas "a" e "c" do permissivo constitucional.
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Publique-se. Intimem-se.
