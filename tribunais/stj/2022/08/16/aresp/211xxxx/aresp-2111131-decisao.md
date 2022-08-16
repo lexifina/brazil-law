@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se  de  agravo  manifestado  contra  decisão  que  negou  seguimento  a  recurso  especial  interposto  em  face  de  acórdão  com  a  seguinte  ementa:
+AGRAVO  DE  INSTRUMENTO  -  EXECUÇÃO  -  INDEFERIMENTO  DO  PEDIDO  DE  PESQUISA  VIA  SISTEMA  SISBAJUD  -  POSSIBILIDADE  DESDE  QUE  OBSERVADO  O  PRINCÍPIO  DA  RAZOABILIDADE  E  DEMONSTRADA  A  ALTERAÇÃO  DA  SITUAÇÃO  FINANCEIRA  DO  DEVEDOR  -  NÃO  OCORRÊNCIA  -  DECISÃO  MANTIDA  -  RECURSO  CONHECIDO  E  DESPROVIDO.
+Alegou-se,  no  especial,  violação  do  artigo  854  do  Código  de  Processo  Civil  sob  o  argumento  de  que  é  devida  a  determinação  para  consulta  de  saldo  em  conta  bancária  dos  devedores  dirigida  ao  Banco  Central.
+Assim  delimitada  a  controvérsia,  passo  a  decidir.
+Colhe-se  dos  autos  "que  o  agravante  ingressou  com  o  feito  executivo,  em  2013,  visando  o  recebimento  do  seu  crédito  no  valor  de  R$  144.076,24.
+Houve  deferimento  de  consulta  pelo  BACENJUD  em  2017  e,  após,  novo  requerimento  de  tentativa  de  bloqueio.
+O  magistrado  de  origem  proferiu  decisão  com  a  seguinte  determinação  para  a  parte  ora  agravante:  "demonstre  a  efetividade  da  medida  pretendida,  especialmente  com  a  apresentação  de  indícios  que  comprovem  a  modificação  na  situação  financeira  do  devedor,  importando  destacar  que  o  mero  transcurso  do  tempo,  por  si  só,  não  é  suficiente  para  deferir  nova  consulta  aos  bancos  de  dados  à  disposição  do  juízo,  conforme  precedentes  do  STJ".
+Após  a  manifestação  do  banco  agravante,  sobreveio  a  decisão  que  indeferiu  o  pedido  de  pesquisa  via  sistema  SISBAJUD  em  desfavor  dos  agravados,  no  intuito  de  localizar  numerário  suficiente  para  a  satisfação  da  dívida.
+Com  efeito,  embora  o  suplicante  sustente  a  inexistência  de  óbice  legal  para  renovação  do  procedimento,  conforme  entendimento  jurisprudencial,  por  ser  medida  excepcional,  admite-se  a  renovação  do  ato  desde  que  observado  o  princípio  da  razoabilidade  e  haja  demonstração  da  alteração  da  situação  financeira  do  devedor"  (e-STJ,  fl.  50).
+O  entendimento  está,  como  se  verá  adiante,  de  acordo  com  a  jurisprudência  desta  Casa.
+A  saber:
+AGRAVO  INTERNO  NO  RECURSO  ESPECIAL.  AÇÃO  DE  EXECUÇÃO  DE  TÍTULO  EXTRAJUDICIAL.  REITERAÇÃO  DO  PEDIDO  DE  DILIGÊNCIA  VIA  BACENJUD.  AUSÊNCIA  DE  MODIFICAÇÃO  DA  SITUAÇÃO  ECONÔMICA  DO  DEVEDOR.  MOTIVAÇÃO.  PRINCÍPIO  DA  RAZOABILIDADE.  REEXAME  DE  MATÉRIA  FÁTICO-PROBATÓRIA.  SÚMULA  7/STJ.  ACÓRDÃO  RECORRIDO  EM  CONSONÂNCIA  COM  JURISPRUDÊNCIA  DO  STJ.  INCIDÊNCIA  DA  SÚMULA  83/STJ.  AGRAVO  DESPROVIDO.
+1.  O  eg.  Tribunal  de  Justiça  indeferiu  o  pedido  da  agravante,  sob  o  fundamento,  entre  outros,  de  que  não  "(..)  se  vislumbra  a  razoabilidade  da  realização  de  nova  diligência  pelo  sistema  BACENJUD,  porquanto,  tendo  sido  infrutífera  a  última  pesquisa  realizada  no  mencionado  sistema  -  juntamente  com  todas  as  outras  diligências  realizadas  com  auxílio  do  Juízo  -,  não  foi  carreada  ao  instrumento  qualquer  demonstração  acerca  de  eventual  modificação  na  situação  econômica  da  Executada".  A  pretensão  de  modificar  tal  entendimento,  considerando  as  circunstâncias  do  caso  concreto,  demandaria  o  reexame  de  matéria  fático-probatória,  o  que  é  inviável  em  sede  de  recurso  especial,  consoante  preconiza  a  Súmula  7/STJ.
+2.  A  jurisprudência  desta  Corte  é  firme  no  sentido  de  que  a  reiteração  ao  Juízo  das  diligências  relacionadas  à  localização  de  bens  do  executado  depende  de  motivação  do  exequente,  devendo-se  observar,  também,  o  princípio  da  razoabilidade.
+3.  Estando  o  v.  acórdão  recorrido  em  consonância  com  a  jurisprudência  desta  eg.  Corte,  o  apelo  nobre  encontra  óbice  na  Súmula  83/STJ.
+4.  Agravo  interno  desprovido.
+(AgInt  no  REsp  n.  1.807.798/DF,  relator  Ministro  Raul  Araújo,  Quarta  Turma,  julgado  em  27/8/2019,  DJe  de  11/9/2019.)
+Para  reformar  o  acórdão  estadual  seria  necessário  ingressar  nos  fatos  da  causa.
+O  reexame  da  questão,  portanto,  encontra  os  óbices  de  que  tratam  os  verbetes  n.  7  e  83  da  Súmula  do  Superior  Tribunal  de  Justiça.
+Diante  do  exposto,  nego  provimento  ao  agravo  em  recurso  especial.
+Intimem-se.
