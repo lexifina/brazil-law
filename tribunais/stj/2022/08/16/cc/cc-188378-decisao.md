@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de conflito de competência em que é suscitante EBF VAZ INDÚSTRIA E COMÉRCIO LTDA, em recuperação judicial (EBF VAZ), apontando como suscitados o JUÍZO DA 1ª VARA CÍVEL DA COMARCA DE JUNDIAÍ/SP, Processo nº 1000667-02.2019.8.26.0681 (JUÍZO DA RECUPERAÇÃO) e o JUÍZO DA 3ª VARA DO TRABALHO DE BELO HORIZONTE/MG, Reclamação Trabalhista nº 0010362-25.2019.5.03.0022 (JUÍZO DO TRABALHO).
+A suscitante noticiou que foi deferido o pedido recuperação judicial, com a determinação de suspensão das ações e execuções contra ela ajuizadas, atraindo todas as questões referentes ao pagamento dos seus débitos ao juízo universal.
+Apesar disso, o JUÍZO DO TRABALHO manteve o prosseguimento da reclamatória trabalhista, com o início da execução e bloqueio de valores pelo sistema BACENJUD.
+O pedido de concessão de medida liminar foi indeferido, porém, invocando o poder geral de cautela, inerente a todo magistrado, foi determinado que eventual valor bloqueado ou arrecadado na reclamação trabalhista não fosse levantado pela reclamante até a apreciação do mérito do presente conflito (e-STJ, fls. 165/166).
+As informações foram prestadas às e-STJ, fls. 182/185 e 191/196.
+O Ministério Público Federal opinou pela declaração da competência do Juízo Universal (e-STJ, fls. 173/174).
+É o relatório.
+DECIDO.
+Conheço do conflito com fundamento no artigo 105, I, "d", da Constituição da República, por se tratar de incidente instaurado entre juízos vinculados a Tribunais distintos.
+De acordo com o art. 6º, I e II, da Lei nº 11.101/05, a decretação da falência ou o deferimento da recuperação judicial (1) suspende o curso de todas as ações e execuções ajuizadas contra o devedor; e (2) proíbe qualquer forma de retenção, arresto, penhora, sequestro, busca e apreensão e constrição judicial ou extrajudicial sobre os bens do devedor, oriunda de demandas judiciais ou extrajudiciais cujos créditos ou obrigações sujeitem-se à recuperação judicial ou à falência.
+Esta norma consagra o princípio da universalidade do juízo da falência e da recuperação judicial, pelo qual todas as ações de interesse da massa falida ou da empresa em recuperação judicial são atraídas pelo juízo universal.
+O Juízo da 1º Vara Cível da Comarca de Jundiaí/SP informou que o crédito trabalhista foi constituído em relação de trabalho ocorrida anteriormente ao processamento da recuperação judicial, razão por que se submete ao plano de soerguimento.
+Confira-se o teor das informações:
+ ..
+Salvo melhor juízo, o crédito de CRISTINA MENDES MACHADO foi constituído de relação laboral ocorrido antes data do pedido da RJ, indicando submissão aos efeitos da RJ, para recebimento do crédito dentro do fluxo de pagamento proposto no Plano de RJ, aprovado em ato assemblear e homologado judicialmente. (e-STJ, fls. 191/196).
+O crédito trabalhista se submete à recuperação judicial, na esteira dos seguintes precedentes:
+AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL. EXECUÇÃO DE CRÉDITO TRABALHISTA. ATOS DE CONSTRIÇÃO. PROSSEGUIMENTO. COMPETÊNCIA DO JUÍZO DA RECUPERAÇÃO JUDICIAL. AGRAVO INTERNO DESPROVIDO.
+1. O Superior Tribunal de Justiça considera ser da competência precípua do Juízo singular apenas a apreciação e julgamento das ações versando sobre apuração de créditos requeridos em face de empresas falidas ou em recuperação judicial, mas que, ultrapassada essa fase, os valores, ainda que relativos a anteriores depósitos recursais ou penhoras, deverão ser habilitados, conquanto de forma retardatária, no Juízo da falência ou da recuperação judicial para posterior pagamento.
+2. Agravo interno desprovido.
+(AgInt nos EDcl no CC n. 165.079/SP, relator Ministro Raul Araújo, Segunda Seção, julgado em 5/5/2020, DJe de 8/5/2020 - sem destaque no original)
+CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA DO TRABALHO. JUSTIÇA DA RECUPERAÇÃO JUDICIAL. HABILITAÇÃO DE CRÉDITO TRABALHISTA. SERVIÇO PRESTADO EM MOMENTO ANTERIOR AO PEDIDO DE RECUPERAÇÃO JUDICIAL. EXISTÊNCIA. SUBMISSÃO AOS EFEITOS DA RECUPERAÇÃO JUDICIAL. POSTERIOR SENTENÇA DECLARATÓRIA DO CRÉDITO. ATO JUDICIAL QUE DECLARA O CRÉDITO JÁ EXISTENTE EM TÍTULO JUDICIAL. CONFLITO CONHECIDO E PROVIDO. COMPETÊNCIA DO JUÍZO DA RECUPERAÇÃO JUDICIAL.
+1. O art. 49 da Lei 11.101/2005 prevê que "estão sujeitos à recuperação judicial todos os créditos existentes na data do pedido, ainda que não vencidos", o que conduz à conclusão de que a submissão de um determinado crédito à Recuperação Judicial não depende de provimento judicial anterior ou contemporâneo ao pedido, mas apenas que seja referente a fatos ocorridos antes do pedido.
+2. O art. 7º da Lei 11.101/2005 afirma que o crédito já existente, ainda que não vencido, pode ser incluído de forma extrajudicial pelo próprio Administrado Judicial, ao elaborar o plano ou de forma retardatária, evidenciando que a lei não exige provimento judicial para que o crédito seja considerado existente na data do pedido de recuperação judicial.
+3. O crédito trabalhista, relativo ao serviço prestado em momento anterior ao pedido de recuperação judicial, submete-se ao respectivo procedimento e aos seus efeitos, atraindo a competência do Juízo da Recuperação Judicial, para processar a respectiva habilitação, ainda que de forma retardatária. Precedentes da Terceira Turma.
+4. Conflito conhecido e provido para declarar competente o Juízo da Recuperação Judicial.
+(CC nº 139.332/RS, Relator Ministro LÁZARO GUIMARÃES (Desembargador Convocado do TRF 5ª Região), Segunda Seção, j. 25/4/2018, DJe de 30/4/2018 - sem destaque no original)
+Anote-se que a Segunda Seção desta Corte, excepcionalmente, tem entendido que mesmo o controle dos atos de constrição patrimonial relativos a determinados créditos extraconcursais, como forma de preservar tanto o direito creditório quanto a viabilidade do plano de recuperação judicial, deve prosseguir no Juízo universal, embora, em tese, estes não se submetam às mesmas regras de satisfação dos créditos concursais. Nesse sentido:
+CONFLITO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL. EXECUÇÃO TRABALHISTA. PROSSEGUIMENTO. ATOS DE CONSTRIÇÃO. COMPETÊNCIA DO JUÍZO DA RECUPERAÇÃO JUDICIAL.
+1. No caso de deferimento da recuperação judicial, a competência da Justiça do Trabalho se limita à apuração do respectivo crédito (processo de conhecimento), sendo vedada a prática, pelo citado Juízo, de qualquer ato que comprometa o patrimônio da empresa em recuperação (procedimento de execução).
+2. Classificam-se como extraconcursais os créditos de obrigações que se originaram após o deferimento do processamento da recuperação, prevalecendo estes sobre os créditos concursais, de acordo com os arts. 83 e 84 da Lei nº 11.101/2005.
+3. Segundo a jurisprudência desta Corte, como forma de preservar tanto o direito creditório quanto a viabilidade do plano de recuperação judicial, a execução de créditos trabalhistas constituídos depois do pedido de recuperação judicial deve prosseguir no Juízo universal.
+4. Conflito de competência conhecido para declarar competente o Juízo de Direito da 2ª Vara Cível de Blumenau/SC.
+(CC 145.027/SC, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Segunda Seção, j. 24/8/2016, DJe 31/8/2016)
+CONFLITO DE COMPETÊNCIA. CRÉDITO TRABALHISTA CONSTITUÍDO APÓS O DEFERIMENTO DA RECUPERAÇÃO JUDICIAL. ATO EXPROPRIATÓRIO ORDENADO PELO MAGISTRADO LABORAL GENÉRICO E SEM QUALQUER RESSALVA. ANTE A ESPECIFICIDADE DO CASO, COMPETE AO JUÍZO UNIVERSAL AVALIAR ACERCA DA ESSENCIALIDADE OU NÃO DO BEM AO FUNCIONAMENTO DA EMPRESA. PRECEDENTES DO STJ.
+1. Tratando-se de crédito trabalhista constituído depois de ter o devedor ingressado com o pedido de recuperação judicial, está excluído do plano e de seus efeitos (art. 49, caput, da Lei n.º 11.101/2005).
+2. Ante a determinação de ato expropriatório genérico e sem ressalva determinado pelo magistrado trabalhista para a satisfação do crédito executado, compete ao juízo universal exercer o controle sobre atos de constrição patrimonial. Precedentes do STJ.
+3. Conflito conhecido para declarar a competência do juízo da recuperação judicial.
+(CC 129.720/SP, Rel. p/ Acórdão Ministro MARCO BUZZI, Segunda Seção, DJe 20/11/2015)
+A concentração de ações no juízo universal ocorre para preservar o plano de recuperação ou o procedimento de falência da empresa, cabendo àquele juízo distribuir os créditos de modo a respeitar as classes de credores e possibilitar a continuidade da atividade empresarial ou a preservação e otimização do uso produtivo do patrimônio da empresa falida, conforme previsto nos arts. 47 e 75 da Lei nº 11.101/051.
+Nessas condições, CONHEÇO do conflito e declaro competente o JUÍZO DA 1ª VARA CÍVEL DA COMARCA DE JUNDIAÍ/SP.
+Publique-se. Intimem-se.
+EMENTA
+CONFLITO DE COMPETÊNCIA. INCIDENTE MANEJADO SOB A ÉGIDE DO NCPC. RECUPERAÇÃO JUDICIAL. EXECUÇÃO TRABALHISTA. PRINCÍPIO DA PRESERVAÇÃO DA EMPRESA. COMPETÊNCIA DO JUÍZO UNIVERSAL.
