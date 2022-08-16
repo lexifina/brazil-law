@@ -1,0 +1,67 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros João Otávio de Noronha, Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TESE INICIAL DE ERRO JUDICIÁRIO. INOCORRÊNCIA DE DEBATE DO CASO CONCRETO PELAS INSTÂNCIAS ORDINÁRIAS.INDEVIDA SUPRESSÃO DE INSTÂNCIA. NÃO ENFRENTAMENTO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. OFENSA À SÚMULA 182/STJ. AGRAVO CONHECIDO E DESPROVIDO.
+I - Nos termos da jurisprudência consolidada nesta eg. Corte, cumpre ao agravante impugnar especificamente os fundamentos estabelecidos na decisão agravada.
+II - Conforme já esclarecido na decisão agravada, não foi demonstrada qualquer flagrante ilegalidade aferível de plano nesta Corte Superior, tendo em vista que, apesar da invocada tese de erro judiciário (duplicidade na condenação doprocesso de origem n. 0500173-67.2015.402.5102), não houve o debate do caso concreto a quo. Isso foi, inclusive, muito bem delineado pelo d. Ministério Público do Estado do Rio de Janeiro (fl. 672): "cabe registrar que o erro material aqui apontado não foi nem mesmo apresentado ao eg. Tribunal de origem. Isto é, os embargos de declaração simplesmente não foram opostos na origem, como forma de integrar o julgado afirmado equivocado, sendo, agora, incompetente esta eg. Corte para tanto."
+III - Assente na jurisprudência desta Corte Superior que, no"habeas corpus, não é possível conhecer de temas não tratados na origem, sob pena de supressão de instância(..)" (AgRg no HC n. 400.382/RS, Sexta Turma, Relª. Minª. Maria Thereza de Assis Moura, DJe de 23/6/2017).
+IV - No mais, a d. Defesa limitou-se a reprisar os fundamentos anteriores, o que atrai a Súmula n. 182 desta Corte Superior de Justiça, segundo a qual é inviável o agravo regimental que não impugna especificamente os fundamentos da decisão agravada.
+Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimentalinterposto por ALEX DOS SANTOS BARBOSA, em face de decisão proferida, às fls. 616-623, que indeferiu liminarmente o habeas corpus.
+No presente recurso, o agravante aduz, verbis (fls. 626-651):
+"Trata-se de agravo regimental no remédio constitucional de habeas corpus de ordem 750521/RJ, sob a lavra do Excelentíssimo senhor doutor relator ministro JESUÍNO RISSATO, garroteando, portanto, direito fundamental atrelado ao direito de locomoção.
+(..)
+Isso porque, ao analisar o acordão do Tribunal de Justiça Fluminense a defesa se deparou com o efetivo julgamento do mérito da questão e entendeu que os requisitos para a oposição de aclaratórios não se mostravam presentes.
+Percebam Exas. Que os embargos de declaração são um instrumento jurídico por meio do qual a parte pede esclarecimentos ao juiz ou tribunal sobre qualquer decisão proferida, sendo certo que o rol de seu cabimento consta artigo 1.022 do CPC/15, assim: (..)
+Neste diapasão, o extrato da decisão supracitada, encontra-se eivada de ilegalidade já que o processo 0500173-67.2015.402.5102, gerou duplicidade de condenações junto a Carta de execução de sentença do paciente, devidamente esclarecidos pela defesa em sede de primeiro grau junto ao juízo da vara de execuções penais fluminenseno momento dos esclarecimentos do prejuízo do alvará de soltura, senão vejamos:
+(..)
+Ante o exposto requer o recorrente que inicialmente seja conhecido o presente recurso na modalidade de AGRAVO REGIMENTAL NO RECURSO EM HABEAS -CORPUS, com espeque no artigo 258 do Regimento interno do STJ, realizando-se o nobre ministro relator Ribeiro Dantas, juízo de retratabilidade, permitindo-se o conhecimento e provimento do pleito, ou caso entenda de maneira diversa que seja o mesmo apresentado em mesa para a realização de juízo por parte do colegiado do Superior Tribunal de Justiça, ante aos argumentos outrora expostos, colocando em liberdade mediante a expedição de alvará de soltura em nome de ALEX DOS SANTOS BARBOSA, até a ocorrência do trânsito em julgado de sentença penal condenatória, por ser medida da mais lidima justiça!"
+Requer o conhecimento e provimento do presente recurso, facultado o juízo de retratação, a fim de, ao final, ser reformada a decisão atacada e a ordem de impetração concedida.
+Manifestaçõesdo d. Ministério Público local e do d. Ministério Público Federal, ambas pelo não conhecimento (fls. 660-674 e 680-681).
+Ao manter a decisão agravada por seus próprios e jurídicos fundamentos, submeto o agravo regimental à apreciação da Quinta Turma.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TESE INICIAL DE ERRO JUDICIÁRIO. INOCORRÊNCIA DE DEBATE DO CASO CONCRETO PELAS INSTÂNCIAS ORDINÁRIAS.INDEVIDA SUPRESSÃO DE INSTÂNCIA. NÃO ENFRENTAMENTO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. OFENSA À SÚMULA 182/STJ. AGRAVO CONHECIDO E DESPROVIDO.
+I - Nos termos da jurisprudência consolidada nesta eg. Corte, cumpre ao agravante impugnar especificamente os fundamentos estabelecidos na decisão agravada.
+II - Conforme já esclarecido na decisão agravada, não foi demonstrada qualquer flagrante ilegalidade aferível de plano nesta Corte Superior, tendo em vista que, apesar da invocada tese de erro judiciário (duplicidade na condenação doprocesso de origem n. 0500173-67.2015.402.5102), não houve o debate do caso concreto a quo. Isso foi, inclusive, muito bem delineado pelo d. Ministério Público do Estado do Rio de Janeiro (fl. 672): "cabe registrar que o erro material aqui apontado não foi nem mesmo apresentado ao eg. Tribunal de origem. Isto é, os embargos de declaração simplesmente não foram opostos na origem, como forma de integrar o julgado afirmado equivocado, sendo, agora, incompetente esta eg. Corte para tanto."
+III - Assente na jurisprudência desta Corte Superior que, no"habeas corpus, não é possível conhecer de temas não tratados na origem, sob pena de supressão de instância(..)" (AgRg no HC n. 400.382/RS, Sexta Turma, Relª. Minª. Maria Thereza de Assis Moura, DJe de 23/6/2017).
+IV - No mais, a d. Defesa limitou-se a reprisar os fundamentos anteriores, o que atrai a Súmula n. 182 desta Corte Superior de Justiça, segundo a qual é inviável o agravo regimental que não impugna especificamente os fundamentos da decisão agravada.
+Agravo regimental desprovido.
+VOTO
+Presentes os requisitos legais, conheço do agravo regimental.
+Conforme se apreende, todos os pontos apresentados foram devidamente analisados, claro, nos limites da via, não havendo falar em constrangimento ilegal.
+Comojá esclarecido na decisão agravada, não foi demonstrada qualquer flagrante ilegalidade aferível de plano nesta Corte Superior, tendo em vista que, apesar da invocada tese de erro judiciário (duplicidade na condenação do processo de origem n. 0500173-67.2015.402.5102), não houve o debate do caso concreto a quo.
+Verbis, a decisão agravada (fls. 617-618):
+"Inicialmente, digno de nota que a d. Defesa busca a correção de suposto equívoco (erro material) no julgado de origem, incitando um revolvimento de fatos eprovas sequer realizado no v. acórdão de origem - que se resumiu a expor a existência de recente unificação de penas e a falta de requisito subjetivo do apenado para a progressão de regime antes concedida.
+Não obstante, a impetração em voga, bem verdade, busca sanar vício no v. acórdão de origem, o que se faz por meio de embargos de declaração e em face do mesmo órgão prolator do julgado.
+Ora, ao fim, o erro material aqui apontado não foi, aparentemente, nem mesmo apresentado ao eg. Tribunal de origem."
+Isso foi, inclusive, muito bem delineado pelo d. Ministério Público do Estado do Rio de Janeiro (fl. 672): "cabe registrar que o erro material aqui apontado não foi nem mesmo apresentado ao eg. Tribunal de origem. Isto é, os embargos de declaração simplesmente não foram opostos na origem, como forma de integrar o julgado afirmado equivocado, sendo, agora, incompetente esta eg. Corte para tanto."
+Assente na jurisprudência desta Corte Superior que, no "habeas corpus, não é possível conhecer de temas não tratados na origem, sob pena de supressão de instância (..)" (AgRg no HC n. 400.382/RS, Sexta Turma, Relª. Minª. Maria Thereza de Assis Moura, DJe de 23/6/2017).
+No mais, a d. Defesa limitou-se a reprisar os fundamentos anteriores, o que atrai a Súmula n. 182 desta Corte Superior de Justiça, segundo a qual é inviável o agravo regimental que não impugna especificamente os fundamentos da decisão agravada.
+Aqui, o disposto no enunciado n. 182 da Súmula desta Corte: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Exemplificativamente:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. VIOLAÇÃO AO PRINCÍPIO DA COLEGIALIDADE. INOCORRÊNCIA. NÃO ENFRENTAMENTO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. AGRAVO NÃO CONHECIDO.
+1. A jurisprudência desta Corte é harmônica no sentido de que não ofende o princípio da colegialidade a prolação de decisão monocrática pelo relator, quando estiver em consonância com súmula ou jurisprudência dominante desta Corte e do Supremo Tribunal Federal.
+2. Conforme reiterados julgados dessa Corte, cumpria ao agravante impugnar especificamente os fundamentos estabelecidos na decisão agravada a qual não conheceu do writ por se tratar de reiteração de pedido analisado por esta corte no Aresp n. 1.336.090 e inexistir requisitos a serem analisados da segregação cautelar por se tratar de execução provisória da pena. Limitou-se a defesa em argumentar sobre a possibilidade de superação da súmula 691/STF e ausência de requisitos autorizadores da prisão preventiva. Portanto, no caso, aplica-se a Súmula 182/STJ "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+3. Agravo regimental não conhecido" (AgRg no HC n. 429.525/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 13/11/2018, grifei).
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PERDA DE 1/3 DOS DIAS REMIDOS. PREJUDICIALIDADE. FUNDAMENTO NÃO IMPUGNADO NO PRESENTE RECURSO. SÚMULA N.º 182/STJ. PRÁTICA DE FALTA GRAVE. ALEGAÇÃO DE NECESSIDADE DE PRÉVIA OITIVA DO APENADO. DESNECESSIDADE. PEDIDO DE AFASTAMENTO DA INFRAÇÃO OU DESCLASSIFICAÇÃO PARA FALTA MÉDIA OU LEVE. NECESSIDADE DE REVOLVIMENTO DE FATOS E PROVAS. VIA INADEQUADA. AGRAVO PARCIALMENTE CONHECIDO E, NESSA PARTE, DESPROVIDO.
+1. O presente recurso não deve ser conhecido quanto à insurgência em torno da suposta revogação dos dias remidos, pois o agravante não impugnou especificamente o fundamento da decisão ora atacada, concernente à prejudicialidade do pleito defensivo sobre a questão. Assim, incide, na espécie, a Súmula n.º 182/STJ.
+2. Não prospera a alegação de nulidade da decisão que homologou a falta grave do Paciente, pois, no procedimento administrativo instaurado para a apuração de falta disciplinar, o sentenciado "foi ouvido na presença de Defensor, tendo este oportunidade de apresentação de defesa administrativa", conforme o Magistrado de primeira instância. A Lei de Execução Penal, no art. 118, exige a oitiva prévia do condenado apenas nas hipóteses de regressão de regime prisional, o que não é o caso.
+3. A suscitada necessidade de afastamento da infração ou de desclassificação da falta grave para falta média ou leve exigiria o revolvimento de fatos e provas, o que é incompatível com os limites cognitivos do habeas corpus. Precedentes.
+4. Agravo regimental parcialmente conhecido e, nessa extensão, desprovido" (AgRg no HC n. 439.588/SP, Sexta Turma, Relª. Minª. Laurita Vaz, DJe de 13/11/2018).
+Por fim, destaque-se que, no presente agravo regimental, não se aduziu qualquer argumento apto a ensejar a alteração da decisão ora agravada, devendo ser mantida por seus próprios fundamentos.
+Acerca do tema, cito os seguintes precedentes desta eg. Corte:
+"AGRAVO REGIMENTAL. HABEAS CORPUS. AUSÊNCIA DE DEBATE DA TESE PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. IMPOSSIBILIDADE. AUSÊNCIA DE INDIVIDUALIZAÇÃO DA SITUAÇÃO DE CADA CONDENADO. INEXISTÊNCIA DE NOVOS FUNDAMENTOS CAPAZES DE MODIFICAR A DECISÃO AGRAVADA. AGRAVO IMPROVIDO.
+1. Segundo o entendimento vigente neste Superior Tribunal de Justiça, a modificação de decisão por meio de agravo regimental requer a apresentação de argumentos capazes de alterar os fundamentos anteriormente firmados.
+(..)
+6. Assim, inexistindo novos fundamentos capazes de modificar o decisum impugnado, deve ser mantida a decisão.
+7. Agravo improvido" (AgRg no HC n. 384.871/SC, Quinta Turma, Rel. Min. Jorge Mussi, DJe de 9/8/2017).
+"PENAL. PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. DECISÃO MONOCRÁTICA. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. INEXISTÊNCIA. TRÁFICO PRIVILEGIADO. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. AUSÊNCIA DE ARGUMENTOS NOVOS PARA ATACAR A DECISÃO IMPUGNADA. MERO INCONFORMISMO. AGRAVO REGIMENTAL IMPROVIDO.
+1. Não viola o princípio da colegialidade a decisão monocrática do relator, tendo em vista a possibilidade de submissão do julgado ao exame do órgão colegiado, mediante a interposição de agravo regimental.
+(..)
+3. O agravo regimental não traz argumentos novos capazes de alterar o entendimento anteriormente firmado, razão por que deve ser mantida a decisão monocrática proferida.
+4. Agravo regimental improvido" (AgRg no HC n. 369.103/MS, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 31/8/2017).
+Ante o exposto, conheço, mas nego provimento ao agravo regimental.
+É o voto.
