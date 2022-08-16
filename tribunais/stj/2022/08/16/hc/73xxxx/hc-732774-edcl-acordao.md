@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, rejeitar os embargos.
+Os Srs. Ministros João Otávio de Noronha, Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. ASSOCIAÇÃO E TRÁFICO ILÍCITO DE ENTORPECENTES.PRISÃO PREVENTIVA. ALEGADA AUSÊNCIA DE FUNDAMENTAÇÃO IDÔNEA. DEFICIÊNCIA DA INSTRUÇÃO. DECRETO PRISIONAL NÃO JUNTADO. EXCESSO DE PRAZO. ENCERRAMENTO DA INSTRUÇÃO PROBATÓRIA. AGRAVO REGIMENTAL DESPROVIDO.OMISSÃO. INEXISTÊNCIA. REEXAME DA CAUSA. INVIABILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+I - Os embargos declaratórios não constituem recurso de revisão, sendo inadmissíveis se a decisão embargada não padecer dos vícios que autorizariam a sua oposição (obscuridade, contradição e omissão).
+II - No caso, o v. acórdão ora impugnado não padece do vício apontado, uma vez que, com relação à prisão preventiva, a matéria sequer passou pelo crivo deste eg. Tribunal Superior, dada a deficiência de instrução; já quanto ao excesso de prazo, as partes foram intimadas para apresentação das alegações finais, em 20/5/2022, aguardando-se tão somente o cumprimento dediligência determinada para a apresentação dos memoriais pelas partes, que saíram intimadas da audiência e, portanto, já cientes dos atos processuais subsequentes, não estando configurada, assim, desídia judicial na condução do feito.
+III - Na espécie, à conta de contradição no v. acórdão, pretende o embargante a rediscussão, sob nova roupagem, da matéria já apreciada.
+Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-sede embargos de declaração opostos por SILDEON RABELO DE CARVALHO, contra v. acórdão assim ementado:
+"PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ASSOCIAÇÃO E TRÁFICO ILÍCITO DE ENTORPECENTES.PRISÃO PREVENTIVA. ALEGADA AUSÊNCIA DE FUNDAMENTAÇÃO IDÔNEA. DEFICIÊNCIA DA INSTRUÇÃO. NÃO JUNTADA DO DECRETO PRISIONAL. EXCESSO DE PRAZO. ENCERRAMENTO DA INSTRUÇÃO PROBATÓRIA. SÚMULA 52/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+I - Esta Corte firmou orientação segundo a qual constitui ônus da defesa instruir os autos com os documentos necessários ao devido exame da quaestio, sob pena de não conhecimento do mandamus.
+II - No caso, a defesa olvidou a juntada aos autos de cópia da r. decisão que decretou a prisão preventiva do agravante, impossibilitando a apreciação da alegada ausência de fundamentação do decreto prisional.
+III - "Encerrada a instrução criminal, fica superada a alegação de constrangimento por excesso de prazo" (Súmula n. 52/STJ).
+IV - Na hipótese, as partes foram intimadas, em 20/5/2022, para a apresentação das alegações finais, estando finda a instrução criminal.
+Agravo regimental desprovido"(fls. 68).
+Daí os presentesembargos, no qual o embargante destaca contradição no v. acórdão objurgado, uma vez que as partes "não foram intimadas para apresentar alegações finais, uma vez que falta a apresentação do LAUDO BALÍSTICO pelo Estado para que aquele ato processual se inicie, perdurando, por conseguinte, o constrangimento ilegal imposto ao Paciente, em razão de o mesmo não ter contribuído para a delonga da conclusão das formalidades processuais"(fl. 78).
+Lado outro, acerca da prisão preventiva, entende que "para a Sra. Cristiane Nascimento da Silva os fundamentos da revogação da prisão preventiva foram objetivos, nada relacionado às circunstânciaspessoais, estando o requerente, igualmente, submetido aos mesmos aspectos fático- processuais da ré, notadamente a fundamentação para a decretação do prisional" (fls. 78-79).
+Requer,ao final, o acolhimento dos embargos declaratórios.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. ASSOCIAÇÃO E TRÁFICO ILÍCITO DE ENTORPECENTES.PRISÃO PREVENTIVA. ALEGADA AUSÊNCIA DE FUNDAMENTAÇÃO IDÔNEA. DEFICIÊNCIA DA INSTRUÇÃO. DECRETO PRISIONAL NÃO JUNTADO. EXCESSO DE PRAZO. ENCERRAMENTO DA INSTRUÇÃO PROBATÓRIA. AGRAVO REGIMENTAL DESPROVIDO.OMISSÃO. INEXISTÊNCIA. REEXAME DA CAUSA. INVIABILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+I - Os embargos declaratórios não constituem recurso de revisão, sendo inadmissíveis se a decisão embargada não padecer dos vícios que autorizariam a sua oposição (obscuridade, contradição e omissão).
+II - No caso, o v. acórdão ora impugnado não padece do vício apontado, uma vez que, com relação à prisão preventiva, a matéria sequer passou pelo crivo deste eg. Tribunal Superior, dada a deficiência de instrução; já quanto ao excesso de prazo, as partes foram intimadas para apresentação das alegações finais, em 20/5/2022, aguardando-se tão somente o cumprimento dediligência determinada para a apresentação dos memoriais pelas partes, que saíram intimadas da audiência e, portanto, já cientes dos atos processuais subsequentes, não estando configurada, assim, desídia judicial na condução do feito.
+III - Na espécie, à conta de contradição no v. acórdão, pretende o embargante a rediscussão, sob nova roupagem, da matéria já apreciada.
+Embargos de declaração rejeitados.
+VOTO
+Presentes os pressupostos de admissibilidade, conheço dos embargos.
+Inicialmente, insta consignar que apenas são cabíveis embargos declaratórios quando houver na decisão embargada, qualquer contradição, omissão ou obscuridade a ser sanada. Podem também ser admitidos para a correção de eventual erro material, consoante entendimento preconizado pela doutrina e jurisprudência, sendo possível, excepcionalmente, a alteração ou modificação dodecisumembargado.
+Na lição de Nelson Nery Júnior e Rosa Maria Andrade Nery (Código de Processo Civil Comentado, RT, 4ª edição, 1999, p. 1045):
+"Os EDcl têm finalidade de completar a decisão omissa ou, ainda, de aclará-la, dissipando obscuridades ou contradições. Não têm caráter substitutivo da decisão embargada, mas sim integrativo ou aclaratório. Como regra, não têm caráter substitutivo, modificador ou infringente do julgado."
+Além disso, é cediço que os embargos declaratórios não constituem recurso de revisão, sendo inadmissíveis se a decisão embargada não padecer dos vícios que autorizariam a sua interposição.
+No caso, o v. acórdão ora impugnado não padece do vício apontado, uma vez que, com relação à prisão preventiva, a matéria sequer passou pelo crivo deste eg. Tribunal Superior, dada a deficiência de instrução; já quanto ao excesso de prazo, as partes foram intimadas para apresentação das alegações finais, em 20/5/2022, razão pela qual incidente a Súmula 52/STJ.
+A esse respeito, colaciono a determinação judicial em audiência, no dia20/5/2022:
+"Pelo MM. Juiz foi dito: "Defiro o pedido do Ministério Público, requisite-se o lado pericial referente a arma de fogo. Defiro o pedido da defesa, devendo ser juntado a declaração em 48h, cabendo as partes se manifestar sobre o documento em fase de alegações finais. Cumpridas as diligências, dê-se vistas às partes para oferecerem as suas alegações finais, prazo sucessivo de 10 (dez) dias, iniciando-se pelo MP."
+Dessaforma, emque pesem os argumentos expendidos pelo embargante de que estaria caracterizado o excesso de prazo para a formação da culpa, não está demonstradaa existência de eiva no r. decisum ora objurgado, uma vez que a instrução probatória resta encerrada, aguardando-se o cumprimento da diligência determinada para a apresentação das alegações finais pelas partes, que saíram intimadasda audiênciae, portanto,já cientes dos atos processuais subsequentes, não estando configurada, assim, desídia judicial na condução do feito.
+Dessarte, verifica-se que o julgado recorrido não padece de qualquer vício, porquanto decidiu fundamentadamente aquaestiotrazida à sua análise, não podendo ser considerado maculado tão somente porque contrário aos interesses do ora recorrente. O que pretendeo embargante, na verdade, é o reexame de matéria já julgada, situação que não se coaduna com a estreita via dos declaratórios.
+Rejeito, portanto, os embargos de declaração.
+É o voto.
