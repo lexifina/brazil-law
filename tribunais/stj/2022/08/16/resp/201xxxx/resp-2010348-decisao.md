@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso especial fundamentado no art. 105, III, "a" e "c", da CF, interposto contra acórdão assim ementado (e-STJ fl. 156):
+AGRAVO DE INSTRUMENTO. DIREITO PRIVADO NÃOESPECIFICADO. AÇÃO ORDINÁRIA REVISIONAL. DECRETAÇÃO DAREVELIA DA RÉ. DESCABIMENTO NO CASO CONCRETO. PRESCRIÇÃO. PRAZO DECENAL. EMPRÉSTIMOS NA SISTEMÁTICADE RENEGOCIAÇÃO. PRESCRIÇÃO NÃO IMPLEMENTADA.
+1. REVELIA. Caso dos autos em que a ordem de renovação, por mandado, da citação da ré, tratava-se de medida que, ao fim e ao cabo, visava a assegurar, ao máximo possível, a lisura do processo judicial. Requerida que apresentou a sua contestação antes mesmo da efetivação da ordem de citação por mandado, sendo inviável tê-la por intempestiva. Decretação da revelia que, ademais, careceria de sentido na hipótese concreta, seja porque a requerida já compareceu ao processo judicial, seja porque aceleuma envolve matéria de direito, e não de fato.
+2. PRESCRIÇÃO. Na hipótese versada, os vinte e dois contratos de empréstimo celebrados pelo autor foram realizados na sistemática de renegociação ("mata-mata"),razão pela qual se mostra possível a revisão de toda cadeia contratual, contabilizando-se a prescrição a partir do contrato de empréstimo mais recente celebrado pelas partes com tal intuito. Precedentes desta Corte. Caso concreto em que, considerando a data de vencimento da última avença, resta evidente a inocorrência de prescrição da pretensão autoral, haja vista a data de propositura da ação. Decisão reformada no ponto, afastando-se a prescrição reconhecida em parte na origem.
+AGRAVO DE INSTRUMENTO PARCIALMENTE PROVIDO. UNÂNIME.
+Os embargos de declaração foram rejeitados (e-STJ fls. 184/189).
+Em suas razões (e-STJ fls. 195/205), a parte recorrente aponta, além de dissídio jurisprudencial, violação do art. 205 do CC/2002, porque (e-STJ fls. 198/199):
+ .. o prazo prescricional aplicável para cada um dos contratos deve ser contado a partir da assinatura decada pacto, e não do vencimento do último contrato ou do mais recente pagamento havido, como entendido, em lapso, na r. decisão recorrida, como se o argumento de que se trata de uma ".. renegociação sucessiva..", tivesse o condão de modificar o marco inicial à contagem do termo prescricional.
+ ..  a eventual aplicação, por analogia, do verbete nº 286/STJ é insuficiente a afastar a pertinência desta pretensão recursal, mesmo que seja viável a discussão sobre a legalidade de todos os pactos firmados entre as partes, tal circunstância não afasta a necessidade de que seja verificada a prescrição incidente, ou não, sobre cada uma das avenças, especialmente porque há de se diferenciar os possíveis efeitos declaratórios da revisão judicial da totalidade dos contratos dos eventuais efeitos repetitórios/restituitórios (sobre os quais obviamente incide a prescrição), e, ainda, em sendo admitido o raciocínio de que se estaria a tratar de relação contratual una, o marco inicial ao termo prescricional deverá ser contado do primeiro pacto firmado entre as partes.
+Contrarrazões apresentadas às fls. 223/245(e-STJ).
+O recurso foi admitido na origem.
+É o relatório.
+Decido.
+Verifica-se que o entendimento do Tribunal de origem não pode ser desconstituído apenas com base no art. 205 do CC/2002, porque a norma em referência nada dispõe a respeito do termo inicial do prazo prescricional.
+Dessa forma, está caracterizada deficiência na fundamentação recursal, a teor da Súmula n. 284 do Supremo Tribunal Federal: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia". Nesse sentido:
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE RECUPERAÇÃO JUDICIAL. IRREGULARIDADES. AFERIÇÃO. INEXISTÊNCIA DE ALCANCE NORMATIVO DO ARTIGO INDICADO. SÚMULA N. 284/STF. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO E DA DECISÃO AGRAVADA. SÚMULAS N. 283 DO STF E 182 DO STJ. REEXAME DE MATÉRIA FÁTICA. SÚMULAS N. 5 E 7 DO STJ. DECISÃO MANTIDA.
+1. Considera-se deficiente, a teor da Súmula n. 284 do STF, a fundamentação recursal que alega violação de dispositivos legais cujo conteúdo jurídico não tem alcance normativo para amparar a tese defendida no recurso especial.  ..
+(AgInt no REsp 1723093/MS, de minha relatoria, QUARTA TURMA, julgado em 29/11/2021, DJe 02/12/2021.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO - INSURGÊNCIA RECURSAL DA DEMANDADA.
+1. A indicação de dispositivo legal sem pertinência temática e a menção a artigo de lei, desprovida de clareza e sem fundamentação precisa para remover a razão de decidir do acórdão recorrido, revelam a patente falha de fundamentação do apelo especial, circunstância que atrai a incidência da Súmula 284 do Supremo Tribunal Federal.  ..
+2. Agravo interno desprovido.
+(AgInt no AREsp 1910158/RO, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 29/11/2021, DJe 01/12/2021.)
+Ante o exposto, NEGO PROVIMENTO ao recurso.
+Publique-se e intimem-se.
