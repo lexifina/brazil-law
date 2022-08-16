@@ -1,0 +1,50 @@
+DECISÃO
+Cuida-se dehabeas corpus, com pedido de liminar, impetrado pela Defensoria Pública do Estado de São Paulo em favor de WELLINGTON GOMES CORREA, contra acórdão do Tribunal de Justiça de São Paulo no Agravo em Execução Penal n. 0018336-42.2021.8.26.0996.
+Consta, nos autos, que, em decisão de 13/12/2021, o Juízo de Direito da Unidade de Departamento Estadual de Execução Criminal - DEECRIM 5ª RAJ - da Comarca de Presidente Prudente/SP deferiu o pedido de livramento condicional ao paciente - Execução Penal n. 0012058-93.2019.8.26.0996.
+Inconformado, o Ministério Público estadual interpôs agravo em execução, que veio a ser provido, para cassar o livramento condicional concedido, em acórdão assim ementado (e-STJ fls. 88/90):
+AGRAVO EM EXECUÇÃO Deferimento do benefício do livramento condicional Sentenciado que cumpre pena por crime grave e registra a prática de faltas graves Ausência do requisito subjetivo - Agravo provido.
+(Agravo em Execução Penal n. 0018336-42.2021.8.26.0996, Rel. Des. MIGUEL MARQUES E SILVA, 14ª Câmara de Direito Criminal do TJ/SP, unânime, julgado em 6/7/2022)
+Na presente impetração, a defesa sustenta a ilegalidade do acórdão impetrado, ao argumento de que o paciente preenche os requisitos objetivo e subjetivo para o livramento condicional e não foram apresentados elementos concretos e atuais pelo Tribunal de origem para justificar a prévia realização do exame criminológico.
+Argumenta que, "Em relação à falta grave, é certo que o decurso do tempo conduz à reabilitação da conduta carcerária do apenado. Não é aceitável que uma falta de natureza grave cometida há muito tempo ainda seja admitida para macular todo o histórico prisional do apenado(e-STJ fl. 8).
+Pede, assim, liminarmente e no mérito, a concessão da ordem para "restabelecer a r. decisão de primeiro grau, que concedeu o livramento condicional ao Paciente, vez que presentes os requisitos legais"(e-STJ fl. 12).
+A Presidência desta Corte indeferiu a liminar (fls. 94/95).
+Foram prestadas informações pelo Tribunal de Justiça (e-STJ fls. 100/118).
+Instado a se manifestar sobre a controvérsia, o órgão do Ministério Público Federal que atua perante esta Corte opinou pela concessão do writ, em parecer assim ementado (e-STJ fls. 122/124):
+HABEAS CORPUS. EXECUÇÃO. LIVRAMENTO CONDICIONAL. BENEFÍCIO CASSADO PELO TJSP. GRAVIDADE ABSTRATA DO DELITO, LONGA PENA A CUMPRIR E FALTAS GRAVES ANTIGAS. FUNDAMENTAÇÃO INIDÔNEA.
+CONSTRANGIMENTO ILEGAL CONFIGURADO.
+A gravidade do crime praticado, o tempo de pena a cumprir e a existência de faltas graves antigas não são motivos idôneos, por si sós, para impedir a concessão de livramento condicional, sobretudo por inexistirem faltas disciplinares recentes e tampouco ser noticiado outro fato desabonador que tenha ocorrido durante a execução da pena, inclusive no período em que o apenado esteve em gozo do livramento condicional inicialmente concedido. Precedente do STJ.
+PARECER PELA CONCESSÃO DO WRIT.
+É o relatório. Passo a decidir.
+O Supremo Tribunal Federal, por sua Primeira Turma, e a Terceira Seção deste Superior Tribunal de Justiça, diante da utilização crescente e sucessiva do habeas corpus, passaram a restringir a sua admissibilidade quando o ato ilegal for passível de impugnação pela via recursal própria, sem olvidar a possibilidade de concessão da ordem, de ofício, nos casos de flagrante ilegalidade. Esse entendimento objetivou preservar a utilidade e a eficácia do mandamus, que é o instrumento constitucional mais importante de proteção à liberdade individual do cidadão ameaçada por ato ilegal ou abuso de poder, garantindo a celeridade que o seu julgamento requer.
+Nesse sentido, confiram-se os seguintes julgados, exemplificativos dessa nova orientação das Cortes Superiores do País: HC n. 320.818/SP, Relator Ministro FELIX FISCHER, Quinta Turma, julgado em 21/5/2015, DJe 27/5/2015; e STF, HC n. 113.890/SP, Relatora Ministra ROSA WEBER, Primeira Turma, julg. em 3/12/2013, DJ 28/2/2014.
+Este é exatamente o caso dos autos, em que a presente impetração faz as vezes de recurso próprio.
+Todavia, em homenagem ao princípio da ampla defesa, passa-se ao exame da insurgência, para verificar a existência de eventual constrangimento ilegal passível de ser sanado pela concessão da ordem, de ofício.
+Do livramento condicional
+Na hipótese vertente, o Juízo das Execuções Criminais deferiu o livramento condicional ao sentenciado, sobo fundamento de que "O requisito temporal foi cumprido, conforme cálculo de liquidação de penas e há notícia nos autos de boa conduta carcerária atual e inexistência de falta disciplinar recente. Além disso, o "boletim informativo"não foi impugnado pelo Ministério Público"(e-STJ fl. 46).
+A Corte de origem, por sua vez, ao dar provimento ao agravo em execução e cassar o benefício do livramento condicional, consignou,in verbis:
+No caso dos autos, de acordo com o Boletim Informativo de fls. 103/108, o sentenciado cumpre pena pela prática de roubo majorado, com término de cumprimento previsto para 13.08.2026. Registra, ainda, a prática de faltas graves durante o curso de execução de sua reprimenda.
+Com efeito, dispõe o art. 83, inciso III, alínea "a", do Código Penal que:
+"Art. 83 - O juiz poderá conceder livramento condicional ao condenado a pena privativa de liberdade igual ou superior a 2 (dois) anos, desde que:
+(..) III - comprovado:
+bom comportamento durante a execução da pena"
+Logo, inadequado sustentar que houve comportamento satisfatório durante a execução da pena por parte do condenado que cometera faltas disciplinares de natureza grave.
+Ante o exposto, pelo meu voto, dou provimento ao agravo a fim de cassar a r. decisão de primeiro grau e determinar que o agravado retorne ao regime fechado de cumprimento de pena.
+(e-STJ fl. 90 - negritei)
+No caso concreto, em que pese o acórdão impugnado ter feito alusão à existência de 3 faltas graves no relatório da execução penal do paciente, a leitura do Boletim Informativo (e-STJ fls. 17/23) indica que as faltas disciplinaressãoantigase que a falta grave mais recente foi cometida em 24/10/2008, já reabilitada em 23/04/2009.
+Vê-se, assim, que o apenado já arcou com as consequências das faltas antigas cometidas e daí por diante ostentou comportamento qualificado pela unidade prisional como "bom".
+Nessa linha:
+AGRAVO REGIMENTAL. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. REQUISITOS ADIMPLIDOS. DETERMINADA A PRÉVIA REALIZAÇÃO DE EXAME CRIMINOLÓGICO SEM ADEQUADA FUNDAMENTAÇÃO. IMPOSSIBILIDADE. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A despeito de o Magistrado da execução penal não estar adstrito aos termos do atestado de bom comportamento carcerário, não pode o indeferimento da progressão de regime estar calcado em fundamentos que não guardam correlação com o cumprimento das penas impostas ao sentenciado ou não possuam contemporaneidade com a situação prisional hodierna.
+2. Ademais,"eventuais faltas graves antigas não podem ser utilizadas para negar a benesse, sob pena de perpetuação dos seus efeitos ao longo de toda a execução penal, em afronta aos princípios da razoabilidade e da ressocialização da pena" (HC n. 414.772/SP, Rel. Ministro FELIX FISCHER, 5ª T., DJe 21/11/2017).
+3. Agravo regimental não provido.
+(AgRg no HC 664.618/RJ, Rel. Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, julgado em 25/5/2021, DJe 2/6/2021)
+EXECUÇÃO PENAL.HABEAS CORPUSSUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. PROGRESSÃO AO REGIME SEMIABERTO. CONCESSÃO PELO JUÍZO DE 1º GRAU. DECISÃO CASSADA PELO TRIBUNALA QUO.DETERMINAÇÃO QUE A PACIENTE SEJA SUBMETIDA A EXAME CRIMINOLÓGICO. GRAVIDADE DOS DELITOS PRATICADOS, LONGA PENA A CUMPRIR E FALTA GRAVE VETUSTA. FUNDAMENTAÇÃO INIDÔNEA.HABEAS CORPUSNÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+I - A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, sedimentou orientação no sentido de não admitir habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício, em homenagem ao princípio da ampla defesa.
+II -O eg. Tribunala quocassou a decisão que deferiu a progressão de regime à paciente e determinou a realização de exame criminológico, com fundamento apenas na gravidade abstrata dos crimes por ela praticados, na sua longa pena a cumprir, bem como na vetusta falta grave por ela cometida em 9/6/2009 (há mais de dez anos); os fundamentos utilizados não se mostram idôneos para afastar a presença do requisito subjetivo e indeferir a progressão de regime. Precedentes.
+III - Além disso, este Tribunal Superior de Justiça tem se manifestado no sentido de quefaltas graves cometidas em período longínquo e já reabilitadas não configuram fundamento idôneo para indeferir o pedido de progressão de regime. Precedentes.
+Habeas corpusnão conhecido. Ordem concedida de ofício para cassar o v. acórdão proferido no agravo em execução n. 7002012-73.2018.8.26.0344, e restabelecer a decisão do d. Juízo das Execuções que concedeu a progressão de regime à paciente.
+(HC 509.389/SP, Rel. Ministro FELIX FISCHER, Quinta Turma, julgado em 18/6/2019, DJe 27/6/2019)
+De se ressaltar que desde 2012não há anotações de novas faltas e o paciente ostenta bom comportamento carcerário. Ademais, o paciente obteve remição de pena por trabalho,foi beneficiado com saídas temporárias, tendo retornado regularmente ao presídio, e os pareceres da assistente social e da psicóloga no exame criminológico (e-STJ fls. 38/43) foram favoráveis à concessão do benefício.
+Configurada, portanto, na espécie, flagrante ilegalidade, a justificar a concessão dowritde ofício.
+Ante o exposto, com amparo no art. 34, XX, do Regimento Interno do STJ (na redação da Emenda n. 24/2016),não conheçodo presentehabeas corpus. No entanto,concedo a ordem de ofício,a fim de cassar o acórdão coator e determinar, em consequência, o restabelecimento da decisão primeva, que concedeu ao paciente o livramento condicional, desde que não existam óbices supervenientes à concessão da benesse.
+Intimem-se.
