@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu recurso especial poraplicação daSúmulan. 83 do STJ (e-STJ fls. 593/595).
+O TJMGnegou provimento ao recurso da parte recorrente, conforme ementa a seguir (e-STJ fl. 415):
+APELAÇÃO CÍVEL - SEGURO DPVAT - ACIDENTE COM CARRETA - VEÍCULO ESTACIONADO - AUSÊNCIA DE PROVA DA CAUSA DETERMINANTE DO INFORTÚNIO. A indenização do seguro DPVAT é assegurada às vítimas de danos pessoais causados por veículos automotores terrestres, ainda que estes não estejam em movimento. Exige-se, contudo, que estejam em funcionamento e deem causa ao dano suportado, pena de se ignorar sua condição de objeto automotor.
+Nos recursos especiais(e-STJ fls. 424/431 e 498/505), interpostoscom fundamento no art. 105, III, "a" e "c", da CF, arecorrentesuscitouviolação dos arts. 1º, 3º e 5º da Lei n. 6.194/1974, insurgindo-se contra a improcedência da demanda. Argumentou, em síntese,que foi comprovado onexo de causalidade entre o acidente e as lesões sofridas porseu marido. Defendeu, ainda, que eleestava trabalhando na carroceria de caminhão quando caiu e,emdecorrência de traumatismo, veio a falecer, estando presentea documentação probatória exigida pela Lei n. 6.194/1974. Por fim, sustentou que estão acostados aos autos o boletim de ocorrência, prontuários médicos e certidão de óbito, tornando devida a indenização.
+Foram oferecidas contrarrazões (e-STJ fls. 435/439).
+No agravo (e-STJ fls. 598/607), foram refutados os fundamentos da decisão agravada.
+Não foi apresentada contraminuta.
+É o relatório.
+Decido.
+O recurso não merece acolhida.
+Inicialmente, ressalta-se a ocorrência da preclusão consumativa quanto ao segundo recurso especial interposto pela parte recorrente (e-STJ fls. 498/505), pois, conforme entendimento jurisprudencial deste Superior Tribunal de Justiça "a interposição de dois ou mais recursos pela mesma parte e contra a mesma decisão impede o conhecimento daqueles que foram apresentados após o primeiro apelo, haja vista a preclusão consumativa e o princípio da unirrecorribilidade" (EDcl nos EDcl no AgInt no AREsp n. 1.375.729/RJ, Rel. Ministro SÉRGIO KUKINA, Dje de 28/02/2020).
+Ademais o Tribunal de origem, com base nos elementos fáticos dos autos, concluiu que (e-STJ fl. 420):
+No caso presente, a situação como narrada na inicial não caracteriza acidente com veículo automotor terrestre indenizável pelo seguro DPVAT, uma vez que a autora não comprova ter sido a carreta a causa determinante do dano suportado.
+Ou seja, não há provas e sequer alegações de que o veículo estava em funcionamento e que teria ocasionado a efetiva queda que causou o traumatismo cranioencefálico grave (TCE grave), com o consequente falecimento do marido da autora.
+Não é possível sequer aferir se o veículo estava ligado ou desligado, ônus que incumbia à autora (art.333, I, CPC), uma vez que atinente à descrição do acidente.
+Para rever o entendimento do Corte a quo acerca da ausência de prova quanto ao infortúnio, seria necessária a análise do conjunto fático-probatório do feito, inviável em recurso especial, conforme o teor da Súmula n. 7 do STJ.
+Ademais, oacórdão do TJMGobservou a orientação consolidadadesta Corte, no sentido de que o veículo deve ser a causa determinante do dano, devendo estar em funcionamento quando do acidente, caso contrário configura nada mais que "cenário de infortúnio". Nesse sentido:
+CIVIL. RECURSO ESPECIAL. SEGURO DE DANOS PESSOAIS CAUSADOS POR VEÍCULOS DE VIA TERRESTRE (DPVAT). QUEDA DURANTE VERIFICAÇÃO DE CARGA. INVALIDEZ PERMANENTE. NEXO CAUSAL. AUSENTE.
+1. O seguro obrigatório (DPVAT) é contrato legal, de cunho social, regulamentado pela Lei n.º 6.194/74, em que o segurado é indeterminado. Ele tem por objetivo a reparação por eventual dano pessoal, independente de juízo de valor acerca da existência de culpa. Ou seja, para que o sinistro seja considerado protegido pelo seguro DPVAT, é necessário que ele tenha sido ocasionado pelo uso de veículo automotor.
+2. Considerando que o uso comum que se dá ao veículo é a circulação em área pública, em regra, os sinistros que porventura ocorram somente serão cobertos pelo seguro obrigatório quando o acidente ocorrer com pelo menos um veículo em movimento. Entretanto, é possível imaginar hipóteses excepcionais em que o veículo parado cause danos indenizáveis. Para isso, seria necessário que o próprio veículo ou a sua carga, causasse dano a seu condutor ou a um terceiro.
+3. Na hipótese, o veículo automotor não foi a causa determinante do dano sofrido pelo recorrente, sendo, portanto, incabível a indenização securitária.
+4. Recurso especial não provido. (REsp n. 1.182.871/MS, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 03/05/2012, DJe 10/05/2012.)
+CIVIL. SEGURO OBRIGATÓRIO. DPVAT. QUEDA DE VEÍCULO AUTOMOTOR INERTE. CAUSALIDADE ADEQUADA. AUSÊNCIA. DEVER DE INDENIZAR. INEXISTÊNCIA.
+1. Os danos pessoais sofridos por quem reclama indenização do seguro DPVAT devem ser efetivamente "causados por veículos automotores de via terrestre, ou por sua carga", nos termos do art. 2º, da Lei n.º 6.194/74. Ou seja, o veículo há de ser o causador do dano e não mera concausa passiva do acidente.
+2. No caso concreto, tem-se que o veículo automotor, de onde caíra o autor, estava parado e somente fez parte do cenário do infortúnio, não sendo possível apontá-lo como causa adequada (possível e provável) do acidente.
+3. Recurso especial não-provido (REsp n. 1.185.100/MS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 15/02/2011, DJe 18/02/2011.)
+Incide, portanto, a Súmula n. 83 do STJ, aplicável aos recursos com base tanto na alínea "a" quanto na alínea "c" do permissivo constitucional.
+Em face do exposto, NEGO PROVIMENTO ao agravo em recurso especial. Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo. Deferida a gratuidade da justiça na instância de origem (e-STJ fl. 208), deve ser observada a regra do § 3º do art. 98 do CPC/2015.
+Publique-se e intimem-se.
