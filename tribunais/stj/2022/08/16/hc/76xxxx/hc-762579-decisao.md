@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor deJHONY WILLIAM ALVES DE SOUZAapontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO(Agravo em Execução n. 0004618-11.2022.826.0521).
+Depreende-se dos autos que o Juízo das execuções determinou a realização de exame criminológico para aferição de requisito subjetivo e posterior análise do pedido de progressão de regime formulado pela defesa.
+Interposto agravo em execução na origem, o Tribunal a quo negou provimento ao recurso nos termos do acórdão assim ementado (e-STJ fl. 64):
+AGRAVO EM EXECUÇÃO - IRRESIGNAÇÃO CONTRA DECISÃO QUE DETERMINOU A REALIZAÇÃO DE EXAME CRIMINOLÓGICO PARA AFERIÇÃO DE REQUISITO SUBJETIVO PARA A PROGRESSÃO DE REGIME PRISIONAL - Tendo em vista a existência de circunstâncias concretas que demonstram situação excepcional, de rigor a realização do exame criminológico para, assim, poder apurar, de forma segura, a presença do requisito de ordem subjetiva para a concessão da progressão de regime. Recurso não provido.
+Daí o presente writ, no qual alega a defesa fazer jus o paciente à progressão de regime, por haver preenchido os requisitos objetivos e subjetivos para tanto.
+Assere ser desnecessário o exame criminológico para a progressão de regime porquanto o paciente não ostenta anotações desfavoráveis em sua guia de execução.
+Requer, liminarmente e no mérito, a progressão de regime, independentemente de realização de exame criminológico.
+É o relatório.
+Decido.
+Preliminarmente, cumpre salientar que é competência do relator, em decisãoin limine, aplicar jurisprudência pacífica do colegiado, conforme expressamente dispõem os incisos XVIII e XX do art. 34 do Regimento Interno do Superior Tribunal de Justiça, bem como julgados nesse sentido das turmas criminais desta Corte (videAgRg no HC n. 622.778/RS, relator Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 10/12/2020; AgRg no HC n. 622.822/SP, relator Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 23/11/2020).
+A questão posta a deslinde refere-se à necessidade de realização do exame criminológico e à verificação do preenchimento do requisito subjetivo para o deferimento do pedido de progressão ao regime semiaberto.
+Com a redação dada ao art. 112 da Lei n. 7.210/1984 pela Lei n.10.792/2003, no que o dispositivo não foi alterado pela Lei n.13.964/2019, suprimiu-se a realização de exame criminológico comoexpediente obrigatório, mantendo-se apenas como requisitos legais ocumprimento de determinada fração da pena aplicada e o bom comportamentocarcerário, a ser comprovado pelo diretor do estabelecimento.
+Confira-se:
+Art. 112. A pena privativa de liberdade será executada em forma progressiva com a transferência para regime menos rigoroso, a ser determinada pelo juiz, quando o preso tiver cumprido ao menos:
+ ..
+§ 1º Em todos os casos, o apenado só terá direito à progressão de regime se ostentar boa conduta carcerária, comprovada pelo diretor do estabelecimento, respeitadas as normas que vedam a progressão.
+A despeito de o exame não ser requisito obrigatório para a progressão do regime prisional, em hipóteses excepcionais, os tribunais superiores, contudo, vêm admitindo a sua realização para a aferição do mérito do apenado.
+Segundo esse entendimento, o magistrado de primeiro grau, ou mesmo o tribunal, diante das circunstâncias do caso concreto, pode determinar a realização da referida prova técnica para a formação de seu convencimento.
+Tal entendimento foi consolidado no enunciado da Súmula n. 439 desta Corte:
+Admite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada.
+O tema também foi objeto da Súmula Vinculante n. 26 do Supremo Tribunal Federal:
+Para efeito de progressão de regime no cumprimento de pena por crime hediondo, ou equiparado, o juízo da execução observará a inconstitucionalidade do art. 2º da Lei n. 8.072, de 25 de julho de 1990, sem prejuízo de avaliar se o condenado preenche, ou não, os requisitos objetivos e subjetivos do benefício, podendo determinar, para tal fim, de modo fundamentado, a realização de exame criminológico.
+No caso dos autos, o Juízo de primeira instância converteu o pedido deprogressão de regime em diligência mediante os seguintes fundamentos (e-STJ fls. 37/38):
+Para melhor apreciar o pedido ajuizado converto o julgamento em diligência para que sejam trazidos aos autos elementos atinentes à personalidade do agente, uma vez que ostenta condenação por crime praticado em condições reveladoras de agressividade, com longa pena a cumprir (TCP: 2053) o que exige do Estado-juiz maior cautela para conceder a benesse reclamada.
+Por oportuno, anoto que o exame em questão não foi abolido com reforma da Lei de Execução Penal - e sim restringido àqueles casos onde o simples atestado de conduta carcerária não se mostra suficiente para formação da convicção do magistrado acerca da satisfação do requisito de ordem subjetiva. Por tais razões, reputo indispensável a realização de exame criminológico a fim de verificar se reúne condições para o cumprimento da pena em regime menos rigoroso.
+O Tribunal de origem mantevea decisão de primeiro grau nos seguintes termos (e-STJ fls. 63/67):
+"In casu", muito embora apresente bom comportamento durante a execução da pena, de acordo com o atestado de comportamento carcerário de fls. 13, consta dos autos que o sentenciado cumpre pena privativa de liberdade de 44 anos e 19 dias, pela prática de três crimes de roubo qualificado, bem como crime de latrocínio, delitos praticados mediante grave ameaça ou violência física contra pessoa, e, ainda, crime de associação criminosa. Além disso, quando foi progredido em outra ocasião para o regime aberto, poucos meses depois, voltou a delinquir, praticando alguns dos crimes acima mencionado (fls. 14/20).
+Desta forma, tratando-se de uma situação excepcional, entendo que a hipótese justifica uma maior cautela.
+No caso, como visto, as instâncias ordinárias levaramem conta a gravidade em abstrato dos delitos praticados e a longa pena a cumprir, o que, segundo a jurisprudência desta Corte, não constitui fundamentação idônea para afastar a progressão de regime ou determinar a realização de exame criminológico.
+Nesse sentido:
+HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. EXAME CRIMINOLÓGICO. FUNDAMENTAÇÃO GENÉRICA. AUSÊNCIA DE FATOS OCORRIDOS NO CURSO DA EXECUÇÃO PENAL. ILEGALIDADE. ORDEM DE HABEAS CORPUS CONCEDIDA.
+1. Nos termos da Súmula n. 439/STJ, admite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada.
+2. Para que seja indeferida a progressão de regime ou determinada a realização do exame criminológico, é necessária motivação idônea e concreta, o que não foi observado na espécie, pois se ressaltou, no acórdão combatido, apenas a gravidade dos crimes pelos quais a Paciente foi condenada e a longa pena a cumprir. Não houve, portanto, a indicação de fatos ocorridos no curso da execução da pena que impedissem a concessão do benefício ou indicassem a necessidade da perícia.
+3. Ordem de habeas corpus concedida para cassar o acórdão estadual e restabelecer a decisão do Juízo das Execuções Criminais que concedeu à Paciente a progressão ao regime semiaberto.
+(HC n. 620.368/SP, relatora Ministra LAURITA VAZ, SEXTA TURMA, julgado em 24/11/2020, DJe 2/12/2020, grifei.)
+Dessa forma, não havendo fundamento que demonstre, efetivamente, o demérito do condenado e que justifique a necessidade de realização do exame criminológico, deve ser reconhecido o constrangimento ilegal alegado.
+Ante o exposto,concedo a ordemliminarmente para determinar a análise do pedido deprogressão de regime do paciente independentemente da realização de exame criminológico,ressalvada a existência de fato superveniente que impeça o deferimento do benefício.
+Publique-se. Intimem-se.
