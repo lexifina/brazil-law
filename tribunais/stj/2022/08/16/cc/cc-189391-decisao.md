@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se deconflito de competênciaentre o JUÍZO DE DIREITO DA 2ª VARA DE MONGAGUÁ/SP, o suscitante, e o JUÍZO DA 1ªVARA DO TRABALHO DE ITANHÉM/SP, o suscitado.
+Consta dos autos que foi proposta reclamação trabalhista por FERNANDO HENRIQUE AGOSTINHO DOS SANTOS BARBOSA GONÇALVES contra o Município de Mongaguá,reclamando verbas trabalhistas não pagas ao exercer o cargo em comissão de assessor de departamento do meio ambiente.
+A ação foi distribuída na Justiça especializada que, declinando da competência, determinou o encaminhamento dos autos à Justiça comum, que por sua vez,suscitou o presente conflito.
+Manifestou-se o Ministério Público Federal pelo conhecimento do conflito, para que seja declarada a competência da Justiça obreira.
+Passo a decidir.
+Nos termos do art. 34, XXII, do RISTJ, o relator poderá "decidir oconflito de competênciaquando for inadmissível, prejudicado ou quando se conformar com tese fixada em julgamento de recurso repetitivo ou de repercussão geral, a entendimento firmado em incidente de assunção de competência, a súmula do Superior Tribunal de Justiça ou do Supremo Tribunal Federal, a jurisprudência dominante acerca do tema ou as confrontar".
+Dito isso, o Supremo Tribunal Federal, quando do julgamento da ADI 3.395-6/DF, suspendeu toda e qualquer interpretação conferida ao inciso I do art. 114 da CF, na redação dada pela EC n. 45/2004, que inclua na competência da Justiça do Trabalho a "apreciação de causas que sejam instauradas entre o Poder Público e seus servidores, a ele vinculados por típica relação de ordem estatutária ou de caráter jurídico-administrativo".
+Nesse sentido, conferir ainda: Rcl 6.527 AgR-segundo, Relator Min. LUIZ FUX, Primeira Turma, DJe 16/10/2015, Rcl 7.857 AgR/CE, Rel. Ministro DIAS TOFFOLI, Tribunal Pleno, DJe 1º/03/2013.
+Perfilhando aquele posicionamento, esta Corte tem entendido que "o exercício de cargo em comissão, com regular nomeação e posse, atrai a competência da Justiça Comum para julgamento de demanda decorrente dessa relação jurídica." (CC 145.393/ ES, Rel. Min. ASSUSETE MAGALHÃES, Primeira Seção, DJe 12/04/2016).
+Nessa linha, foi editada a Súmula 218, que assim prescreve: "Compete à Justiça dos Estados processar e julgar ação de servidor estadual decorrente de direitos e vantagens estatutárias no exercício de cargo em comissão."
+Ocorre queo art. 1º da Lei Municipal n. 1.362/1991 adota o regime celetista para os servidores do município deMongaguá .
+Nesse contexto, nas razões do Juízo Estadual, "o que se constata é que a norma que estabeleceu regime jurídico dos servidores municipais desta Comarca, anterior à contratação do requerente, é expressa no sentido de que os servidores são contratados pelo regime da Consolidação das Leis do Trabalho" (e-STJ fl. 133), fazendo, desse modo, com que se conclua que a competência é da Justiça especializada.
+Ante o exposto, com arrimo no art. 34, XXII, do RISTJ, DECLARO competente o JUÍZO DA 1ªVARA DO TRABALHO DE ITANHÉM/SP, o suscitado.
+Publique-se. Intimem-se.
