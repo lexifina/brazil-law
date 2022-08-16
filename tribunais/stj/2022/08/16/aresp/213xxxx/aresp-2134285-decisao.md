@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial interposto em face de acórdão com a seguinte ementa:
+AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. AÇÃO PROPOSTA EM FACE DE EMPRESA EM RECUPERAÇÃO JUDICIAL E EM FACE DOS GARANTIDORES. MAGISTRADA DE ORIGEM QUE INDEFERIU O PLEITO DE EXTINÇÃO DA EXECUÇÃO EM RAZÃO DA RENÚNCIA TÁCITA DIANTE DA PROPOSITURA DA EXECUCIONAL. INSURGÊNCIA DOS DEVEDORES. ARGUMENTAÇÃO DE QUE O CRÉDITO PERDEU A EXTRACONCURSALIDADE PELO SIMPLES FATO DE TER SIDO AJUIZADA AÇÃO DE EXECUÇÃO AUTÔNOMA. TESE QUE MERECE SER RECHAÇADA. SUPERVENIENTE ENCERRAMENTO DA RECUPERAÇÃO JUDICIAL, COM DECISÃO TRANSITADA EM JULGADO. MODIFICAÇÃO NO PLANO APROVADO QUE SOMENTE PODE OCORRER ENQUANTO NÃO PROFERIDA SENTENÇA DE ENCERRAMENTO DA RECUPERAÇÃO. ENUNCIADO N. 77 DA II JORNADA DE DIREITO COMERCIAL DO CEJ/CJF E PRECEDENTE DO STJ. RECURSO CONHECIDO E DESPROVIDO.
+Alegou-se, no especial, violação dos artigos 1.022 e 489 do Código de Processo Civil e10º, § 9º,e49 da Lei 11.101/2005, associada a dissídio jurisprudencial, sob o argumento de que o acórdão local é omisso e que houve renúncia à garantia fiduciária com a proposição de execução lastreada no mesmo título que a constituiu, razão pela qual o crédito do agravado deve se submeter ao plano recuperacional.
+Assim delimitada a controvérsia, passo a decidir.
+De início, o Tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+Não há falar, portanto, em omissão ou negativa de prestação jurisdicional apenas pelo fato de o acórdão recorrido ter decidido em sentido contrário à pretensão da parte.
+Sobre o tema, os seguintes precedentes: AgRg no REsp 965.541/RS, Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 17/5/2011, DJe 24/5/2011, e AgRg no Ag 1.160.319/MG, Desembargador Convocado Vasco Della Giustina, Terceira Turma, julgado em 26/4/2011, DJe 6/5/2011.
+Quanto ao mais, o que pretende a recorrente é ver a inclusão do crédito garantido fiduciariamente no plano de recuperação judicial.
+Esta Corte Superior, todavia, tem entendimento de que o referido crédito não se submente ao plano recuperacional e que a renúncia à garantia há de ser expressa, admitindo-se apenas excepcionalmente a sua presunção, o que não se dá pelo simples ajuizamento de execução.
+A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. CESSÃO FIDUCIÁRIA DE CRÉDITOS. ART. 49, § 3º, da Lei n. 11.101/2005. REGISTRO EM CARTÓRIO. DESNECESSIDADE. PRECEDENTES.
+1. A jurisprudência da Corte orienta que na cessão fiduciária de créditos, cuja legislação de regência não exige o registro como elemento constitutivo da propriedade ou titularidade fiduciária, a transferência ao credor fiduciário se efetiva a partir da contratação e, por esse motivo, os bens não se submetem aos efeitos da recuperação judicial do cedente, sem quebra da expectativa dos demais credores da recuperanda.
+2. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.706.063/RS, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 27/6/2022, DJe de 30/6/2022.)
+AGRAVO INTERNO EM RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. CESSÃO FIDUCIÁRIA DE DIREITOS CREDITÓRIOS. CRÉDITO NÃO SUJEITO AOS EFEITOS DA RECUPERAÇÃO DA DEVEDORA. ART. 49, § 3º, DA LEI Nº 11.101/2005. EXECUÇÃO EXTRAJUDICIAL. RENÚNCIA À GARANTIA FIDUCIÁRIA. INOCORRÊNCIA.
+1. A norma de regência da recuperação judicial, apesar de estabelecer que todos os créditos existentes na data do pedido, ainda que não vencidos, estejam sujeitos à recuperação judicial (LRE, art. 49, caput), também preconiza, nos §§ 3º e 4º do dispositivo, as exceções que acabam por conferir tratamento diferenciado a determinados créditos, normalmente titulados pelos bancos, afastando-os dos efeitos da recuperação, justamente visando conferir maior segurança na concessão do crédito e diminuindo o spread bancário.
+2. "A renúncia à garantia fiduciária deve ser expressa, cabendo, excepcionalmente, a presunção da abdicação de tal direito (art.66-B, § 5º, da Lei 4.728/1965 c/c art. 1.436 do CC/2002)" (REsp 1338748/SP, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe 28/06/2016).
+3. Na hipótese, não houve renúncia expressa nem tácita da garantia fiduciária pelo credor, encontrando-se o acórdão recorrido em desconformidade com entendimento firmado nesta Corte.
+4. Agravo interno provido para dar provimento ao recurso especial.
+(AgInt no AREsp n. 1.569.649/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 14/9/2021, DJe de 17/9/2021.)
+A conclusão do Tribunal local está, portanto, em harmonia com o entendimento desta Casa, o que atrai a incidência do verbete n. 83 da Súmula desta Corte.
+Diante do exposto, nego provimento ao agravo em recurso especial.
+Intimem-se.
