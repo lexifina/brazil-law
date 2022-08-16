@@ -1,0 +1,53 @@
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. PLEITO DE ABSOLVIÇÃO. REEXAME FÁTICO-PROBATÓRIO INVIÁVEL. AGRAVO REGIMENTAL NÃO PROVIDO. AGRAVO DESPROVIDO.
+1. Inicialmente, relembro que o habeas corpus não é a via adequada para apreciar pedido de absolvição, tendo em vista que, para se desconstituir o decidido pelas instâncias de origem, mostra-se necessário o reexame aprofundado dos fatos e das provas constantes dos autos, procedimento vedado pelos estreitos limites do remédio constitucional, caracterizado pelo rito célere e por não admitir dilação probatória.
+2. As instâncias ordinárias embasaram a condenação do paciente em elementos fáticos e probatórios concretos, os quais, detidamente examinados em primeiro e segundo graus de jurisdição, conduziram à conclusão de que o réu praticou o crime de associação para o tráfico, de maneira estável e duradoura, com os demais denunciados. Assim, desconstituir tal entendimento, para absolver o paciente, implicaria aprofundado reexame dos fatos e provas carreados aos autos, procedimento que é incompatível com a via estreita do habeas corpus.
+3. Agravo desprovido
+ACÓRDÃO
+Visto, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental. Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Jesuíno Rissato (Desembargador Convocado do TJDFT) e João Otávio de Noronha votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA (Relator):
+Trata-se de agravo regimental (e-STJ, fls. 91/98) interposto contra decisão de minha relatoria (e-STJ, fls. 81/85), que não conheceu do habeas corpus impetrado em favor de MARCIO DOS SANTOS SILVA.
+Narram os autos que o paciente/agravante foi condenado, em primeiro grau de jurisdição, às penas de 18 anos de reclusão, em regime inicial fechado, e 1210 dias-multa, pela prática dos crimes previstos nos arts. 33, caput, e 35 da Lei 11.343/2006, e art. 16 da Lei 10.826/2003, na forma do art. 69, do Código Penal (e-STJ fls. 33/78).
+Irresignada, a defesa interpôs recurso de apelação, que foi parcialmente provido para excluir a condenação relativa ao crime do art. 16 da Lei 10.826/2003. Com isso, as penas foram reajustadas para 15 anos de reclusão e 1200 dias-multa (e-STJ fls. 8/23).
+Neste mandamus (e-STJ fls. 3/7), a impetrante sustentou que o paciente sofre constrangimento ilegal, pois foi condenado pela prática do crime de associação para o tráfico sem prova suficiente da estabilidade e a permanência com outras pessoas, elementos necessários para a configuração desse delito.
+Nesse sentido, afirmou que a única prova produzida contra o acusado foi o depoimento de um dos corréus, sendo que as demais provas constantes no processo não corroboram para atestar a permanência criminosa do Recorrente, já que apontam a prática da traficância como evento isolado descrito nos autos. Observa-se, assim, que as provas constantes nos autos são incapazes de demonstrar o elemento subjetivo do tipo para a condenação do acusado no crime de associação para tráfico de drogas (e-STJ, fl. 5).
+Ao final, pediu, liminarmente e no mérito, a concessão da ordem para que o paciente fosse absolvido pelo crime de associação para o tráfico, com a consequente redução da pena.
+O habeas corpus não foi conhecido (e-STJ, fls. 81/85).
+Neste agravo regimental, reitera a defesa tratar-se de hipótese de absolvição quanto à prática do crime de associação para o tráfico, diante da ausência de comprovação de estabilidade e permanência.
+Aduz, ainda, não ser necessário o revolvimento de matéria fático-probatória para o deslinde da controvérsia, mas apenas a análise da sentença e do acórdão acostados aos autos.
+Pleiteia, ao final, a reconsideração da decisão ou a submissão do presente agravo à análise do colegiado, para que seja afastada a condenação do paciente pela crime previsto no art. 35 da Lei 11.343/2006.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. PLEITO DE ABSOLVIÇÃO. REEXAME FÁTICO-PROBATÓRIO INVIÁVEL. AGRAVO REGIMENTAL NÃO PROVIDO. AGRAVO DESPROVIDO.
+1. Inicialmente, relembro que o habeas corpus não é a via adequada para apreciar pedido de absolvição, tendo em vista que, para se desconstituir o decidido pelas instâncias de origem, mostra-se necessário o reexame aprofundado dos fatos e das provas constantes dos autos, procedimento vedado pelos estreitos limites do remédio constitucional, caracterizado pelo rito célere e por não admitir dilação probatória.
+2. As instâncias ordinárias embasaram a condenação do paciente em elementos fáticos e probatórios concretos, os quais, detidamente examinados em primeiro e segundo graus de jurisdição, conduziram à conclusão de que o réu praticou o crime de associação para o tráfico, de maneira estável e duradoura, com os demais denunciados. Assim, desconstituir tal entendimento, para absolver o paciente, implicaria aprofundado reexame dos fatos e provas carreados aos autos, procedimento que é incompatível com a via estreita do habeas corpus.
+3. Agravo desprovido
+VOTO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA (Relator):
+O agravo regimental é tempestivo e infirmou os fundamentos da decisão combatida, razões pelas quais merece conhecimento. No entanto, não obstante os esforços do agravante, não constato elementos suficientes para reconsiderar a decisão, cuja conclusão mantém-se, por seus próprios fundamentos.
+No caso, segue a fundamentação utilizada pelo Juízo sentenciante para condenar o paciente pela prática do crime de associação para o tráfico (e-STJ fl. 52):
+ ..
+Com relação ao crime de associação para o tráfico de drogas, tem-se que seus requisitos, apesar de deveras criteriosos, encontram-se devidamente preenchidos a partir das provas colhidas nos autos, eis que não se trata de um mero concurso de agentes ou de uma associação efêmera, tendo em vista que a reunião dos réus não era individual ou ocasional, mas sim estável, duradoura e permanente. Ora, os acusados possuíam rádio comunicador, fogos de artifício e até mesmo uma residência onde guardavam as drogas, as armas e as munições de uso restrito.
+Desse modo, as circunstâncias fáticas, bem como os depoimentos dos policiais militares e o conjunto probatório, demonstram que todos os acusados agiam em comunhão de ações e de desígnios.
+Logo, todos os acusados, associados, preparavam, produziam, mantinham em depósito elevada quantidade de drogas, com a intenção de comercializá-las.
+Cumpre registrar ainda, que o próprio acusado Sandro afirma em seu interrogatório que já estava naquela residência preparando a droga há quinze dias, demonstrando assim, a estabilidade e a permanência da associação, para a realização de um fim comum, qual seja, promover o preparo, embalo e a comercialização de entorpecentes.
+ ..
+Na mesma esteira, concluiu o Tribunal a quo (e-STJ fl. 14):
+ ..
+Logo, impossível o acolhimento do pleito de absolvição tanto do delito de tráfico quanto do delito de associação ao tráfico.
+As condutas dos a gentes foram objetiva e subjetivamente típicas. Nessa linha, atuaram com consciência c vontade de praticar as ações penais, o que restou evidenciado pela existência de grande quantidade de drogas em depósito; objetos destinados ao preparo de entorpecentes e materiais ligados à proteção da traficância, como armas, radiocomunicadores e fogos de artificio.
+Constatou-se, inclusive, a existência de uma divisão de tarefas entre os acusados, ficando o réu Kevison a cargo de assegurar a "proteção" da traficância nas proximidades, com o uso da arma de fogo, enquanto Guilherme, Henrique, Sandro, Diego, Rafael e Márcio preparavam as drogas no interior da residência.
+ ..
+Dessa forma, constata-se que as instâncias ordinárias, com base no acervo probatório e menção a circunstâncias concretas, firmaram compreensão no sentido de que o paciente associou-se aos demais denunciados, em caráter estável e permanente, para a prática do crime de tráfico de drogas.
+Entendimento em sentido contrário ao manifestado supra demandaria, necessariamente, o revolvimento do conjunto fático-probatório, inviável na via estreita do habeas corpus. Em hipóteses análogas, decidiu esta Corte:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL E PROCESSUAL PENAL. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. CORTE LOCAL QUE DECLINOU OBJETIVA E CONCRETAMENTE A ESTABILIDADE E PERMANÊNCIA DO AGENTE PARA A PRÁTICA DA NARCOTRAFICÂNCIA. ELEMENTO SUBJETIVO DO TIPO CONFIGURADO. DOSIMETRIA. APLICAÇÃO DA MINORANTE DO § 4.º DO ART. 33 DA LEI N.º 11.343/2006. IMPOSSIBILIDADE. DEDICAÇÃO À ATIVIDADE CRIMINOSA. PENA-BASE ACIMA DO MÍNIMO LEGAL. CULPABILIDADE. AUMENTO DEVIDAMENTE JUSTIFICADO. REGIME PRISIONAL FECHADO. AGRAVO DESPROVIDO.
+1. O Tribunal de origem, após exame do conjunto fático-probatório dos autos, concluiu pela existência de elementos coerentes e válidos a ensejar a condenação do Paciente pelo delito de associação para o tráfico ilícito de drogas, ressaltando a existência do vínculo associativo, bem como a estabilidade e a permanência da associação. Assim, para se acolher a pretendida absolvição do Acusado, seria necessário reapreciar todo o conjunto fático-probatório dos autos, o que se mostra incabível na via do habeas corpus.
+ ..
+8. Agravo regimental desprovido (AgRg no HC n.º 547.482/SP, Rel. Ministra LAURITA VAZ, Sexta Turma, julgado em 23/3/2021, DJe 5/4/2021).
+PENAL E PROCESSO PENAL. HABEAS CORPUS. 1. IMPETRAÇÃO SUBSTITUTIVA DO RECURSO PRÓPRIO. NÃO CABIMENTO. 2. CRIME DE TRÁFICO. NULIDADE. OITIVA DAS TESTEMUNHAS. LEITURA DA DENÚNCIA. AUSÊNCIA DE IRREGULARIDADE. INEXISTÊNCIA DE NORMA PROIBITIVA. AUSÊNCIA DE PREJUÍZO. 3. AGRAVAMENTO DA PENA. PATAMAR SUPERIOR A 1/6 (UM SEXTO). POSSIBILIDADE. REINCIDÊNCIA ESPECÍFICA. 4. CAUSAS DE AUMENTO. CRIME PERTO DE ESCOLA E COM ADOLESCENTE. PLEITO DE DECOTE. IMPOSSIBILIDADE. NECESSIDADE DE REVOLVIMENTO FÁLICO E PROBATÓRIO. INVIABILIDADE NA VIA ELEITA. 5. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+4. Tendo as instâncias ordinárias reconhecido a incidência das causas de aumento previstas nos incisos III e IV do art. 40 da Lei de Drogas, não é possível fazer o decote na via eleita, haja vista a prática do crime nas proximidades de uma escola e com o envolvimento de adolescente ter sido reconhecida com fundamento no arcabouço carreado nos autos, não sendo possível, desconstituir referidas conclusões em habeas corpus.
+5. Habeas corpus não conhecido. (HC 282.148/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 3/5/2016, DJe 10/5/2016)
+Assim, pelas próprias razões do decisum impugnado, acima reiteradas, nego provimento ao agravo regimental.
+É como voto.
