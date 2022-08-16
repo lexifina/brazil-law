@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu recurso especial interposto por Condomínio Chateau Latour, com base no art. 105, III, a e c, da Constituição Federal, desafiando acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado (e-STJ, fl. 119):
+AGRAVO DE INSTRUMENTO DESPESAS CONDOMINIAIS EXECUÇÃO DE TÍTULO EXTRAJUDICIAL Decisão agravada que deferiu a penhora da unidade condominial geradora da despesaDescabimento Imóvel, todavia, que se encontra tão somente em nome do coexecutado, ainda não citado, o que impossibilita a constrição do bem antes de integrá-lo à relação processual DECISÃO AGRAVADA REFORMADA RECURSO PROVIDO.
+Em suas razões de recurso especial (e-STJ, fls. 142-155), a agravante alegou violação aos arts. 259 e 1.336, I, do Código Civil de 2002 e 843 do Código de Processo Civil de 2015, bem como a existência de dissídio jurisprudencial.
+Sustentou, em síntese, que a penhora do imóvel é legal, recaindo sobre a integralidade do imóvel, sendo que os cônjuges, co-proprietários do bem, respondem solidariamente pelas despesas do condomínio, não implicando em litisconsórcio necessário.
+Requereu, dessa forma, o provimento do recurso.
+Foram apresentadas contrarrazões (e-STJ, fls. 177-195). .. OU Não foram apresentadas contrarrazões.
+O processamento do apelo especial não foi admitido pela Corte local, levando a insurgente a interpor o presente agravo.
+Contraminuta não apresentada (e-STJ, fls. 248-256).
+Brevemente relatado, decido.
+De plano, vale pontuar que o recurso em análise foi interposto na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo n. 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A respeito do tema de fundo, o Tribunal de Justiça do Estado de São Paulo, soberano na analise de fatos e provas, dirimiu a controvérsia compreendendo pela necessidade de citação do coexecutado em virtude de o imóvel em debate ser de sua propriedade, tendo lançado os seguintes argumentos (e-STJ, fl. 121):
+Cuida-se, na origem, de ação de execução de cotas condominiais movida em face da agravante e de seu ex-cônjuge Jorge Saba Domingos.
+Como se vê, recai a responsabilidade pelos débitos sobre ambos os coexecutados, contudo, até o presente momento, não foi efetivada a citação do coexecutado.
+Nada obstante isso, a decisão agravada de fls. 274 dos autos originários deferiu a penhora sobre o imóvel descrito na matrícula nº 190.848 do 18º CRI da Capital, que, todavia, se encontra tão somente em nome do coexecutado não citado (fls. 44/49).
+Ora, enquanto não integrado à relação processual, não há como se autorizar a constrição e consequente alienação judicial do referido bem, que, frise-se, é de propriedade exclusiva do coexecutado não citado.
+No mais, como já salientado no julgamento do Agravo de Instrumento nº 2070744-54.2021.8.26.0000, existem elementos de que o coexecutado Jorge Saba Domingos, ex-cônjuge da agravante, possui vasto patrimônio (fls. 146/157; 178/207 dos autos originários), além de não efetuar o pagamento de vultosa quantia, a título de verba alimentar aos filhos menores do casal (fls. 212/214), que sequer foi citado para a presente execução, sem maior esforço da parte exequente em concretizar a providência, na medida em que titular de patrimônio bastante para fazer frente ao quanto executado, evidentemente meio menos gravoso à satisfação da dívida.
+De rigor, portanto, a reforma da decisão agravada, a fim de afastar a penhora do imóvel, registrados sob a matrícula nº 190.848 do 18ºCRI da Capital.
+Do que se depreende do exame desses fundamentos, estão eles lastreados nos elementos fático-probatórios constantes dos autos. Claro está, portanto, que o Superior Tribunal de Justiça, para chegar a entendimento diverso, precisaria empreender novo e aprofundado exame desses elementos, mas tal providência é vedada a esta Corte, na via recursal especial, nos termos da Súmula 7.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. DESPESAS CONDOMINIAIS. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. NECESSIDADE DE CITAÇÃO DO COEXECUTADO. AFASTAMENTO DA PENHORA DO IMÓVEL. REVISÃO DAS CONCLUSÕES DO ACÓRDÃO RECORRIDO. IMPOSSIBILIDADE. ÓBICE DA SÚMULA N. 7 DO STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
