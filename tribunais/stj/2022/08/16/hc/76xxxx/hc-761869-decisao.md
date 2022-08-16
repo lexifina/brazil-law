@@ -1,0 +1,17 @@
+DECISÃO
+Neste writ, que se volta contra o acórdão do Tribunal de Justiça de Goiás, que denegou a ordem no HC n. 5399766-03.2022.8.09.0087 (fls. 13/17), pretende-se, inclusive em caráter liminar, a imediata revogação da segregaçãocautelar de Flávio Henrique de Sousa Silva- preso preventivamente desde 23/12/2021 e denunciado como incurso no art. 33, caput, da Lei n. 11.343/2006 -nos Autos n. 5359499-86.2022.8.09.0087, da 2ª Vara Judicial da comarca de Piracanjuba/GO, sob osargumentos, em resumo, de excesso de prazo na formação da culpa e da possibilidade de aplicação de medidas cautelares diversas previstas no art. 319 do Código de Processo Penal.
+Requisitadas as informações, antes da análise do pleito liminar (fl. 82), com atendimento às fls. 86/90.
+É o relatório.
+Pelo exame dos autos, o presente writ não comporta conhecimento.
+Isso porque o impetrantenão se desincumbiudo ônus de instruir adequadamente o habeas corpus com cópia da decisão que converteu a prisão em flagrante em preventiva, bem como da documentação comprobatória das condições pessoais favoráveis (comprovantes de residência fixa e ocupação lícita), peças essenciais para a verificação da verossimilhança das alegações e que poderiam dar suporte à premissa da defesa.
+Como sabido, o habeas corpus, ação constitucional de natureza mandamental destinada a afastar eventual ameaça ao direito de ir e vir, tem, em razão de seu escopo, natureza urgente e, por essa razão, não comporta dilação probatória e exige prova pré-constituída das alegações, a qual deve ser trazida no momento do seu ajuizamento, cabendo o ônus da instrução ao impetrante, em especial, quando se tratar de advogado.
+Nesse sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PROCESSUAL PENAL. INSTRUÇÃO E NARRATIVA DEFICIENTE. AUSÊNCIA DE DOCUMENTAÇÃO E ESCLARECIMENTOS ESSENCIAIS À ANÁLISE DA CONTROVÉRSIA. MANUTENÇÃO DA DECISÃO DE INDEFERIMENTO LIMINAR DA PETIÇÃO INICIAL QUE SE IMPÕE. AGRAVO DESPROVIDO. 1. Compete à Defesa narrar e instruir completa e adequadamente o remédio constitucional do habeas corpus (ou seu respectivo recurso), por cuidar-se de procedimento que "pressupõe prova pré-constituída do direito alegado" (STJ: HC n. 437.808/RJ, Ministro Jorge Mussi, Quinta Turma, DJe 28/6/2018). Assim, ao não se desincumbir do ônus de formar e narrar adequadamente os autos quando da impetração do writ, a Parte Impetrante impede a apreciação do mérito do writ.
+2. Agravo regimental desprovido.
+(AgRg no HC n. 526.388/SP, Ministra Laurita Vaz, Sexta Turma, DJe 17/9/2019 - grifo nosso).
+E ainda: EDcl no HC n. 504.490/SP, Ministro Nefi Cordeiro, Sexta Turma, DJe 12/8/2019; AgRg no HC n. 512.896/ES, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 1º/7/2019; AgRg no HC n. 512.017/SP, da minha relatoria, Sexta Turma, DJe 2/8/2019; HC n. 155.877/PB, Ministra Laurita Vaz, Quinta Turma, DJe 2/2/2012; HC n. 211.459/PB, Ministro Jorge Mussi, Quinta Turma, DJe 19/12/2011; HC n. 187.273/PE, da minha relatoria, Sexta Turma, DJe 1º/2/2012; e AgRg no HC n. 196.824/SC, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 28/11/2011.
+Ante o exposto, com fundamento no art. 210 do RISTJ, não conheço do habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. CRIME DE TRÁFICO DE DROGAS (ART. 33, CAPUT, DA LEI N. 11.343/2006). PRISÃO PREVENTIVA. INSTRUÇÃO DEFICIENTE. AUSÊNCIA DE DOCUMENTOS ESSENCIAIS À ANÁLISE DAS ALEGAÇÕES. AÇÃO DE NATUREZA MANDAMENTAL QUE EXIGE PROVA PRÉ-CONSTITUÍDA. ÔNUS QUE COMPETE AO IMPETRANTE.
+Writ não conhecido.
