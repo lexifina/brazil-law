@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo interno (e-STJ fls. 679/687) interposto contra decisão da Presidência do STJ (e-STJ fls. 660/662) que não conheceu do agravo nos próprios autos.
+Os embargos de declaração foram rejeitados(e-STJ fls. 676/677).
+Em suas razões, a parte alega ter impugnado todos os fundamentos da decisão de origem que inadmitiu o especial.
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+Não foram oferecidas contrarrazões (e-STJ fls. 692/693).
+É o relatório.
+Decido.
+O agravo nos próprios autos (e-STJ fls. 630/644) refutou adequadamente a monocrática (e-STJ fls. 621/623) que inadmitiuo especial.
+No entanto, o não conhecimento do agravo deve ser mantido, diante da intempestividade do recurso especial.
+Recordo que ojuízo de admissibilidade do recurso especial é bifásico. O exame de admissibilidade realizado pela Corte local não vincula o STJ, que possui competência para verificar novamente a existência dos pressupostos dos recursos dirigidos à Corte Superior (AgInt nos EDcl no AREsp n. 1.798.606/RJ, de minha relatoria, QUARTA TURMA, julgado em 14/3/2022, DJe 18/3/2022).
+O prazo para interposição do recurso especial e do agravo nos próprios autos é de 15 (quinze) dias úteis, a teor do que dispõem os arts. 219, caput, e 1.003, § 5º, do CPC/2015.
+É certo que, na vigência do CPC/1973, prevalecia o entendimento de que a parte poderia comprovar a tempestividade do recurso, em decorrência de feriado local ou de suspensão de expediente forense no Tribunal de origem, no momento da interposição do agravo regimental (AgRg no AREsp 137.141/SE, de minha relatoria, CORTE ESPECIAL, julgado em 19/9/2012, DJe 15/10/2012).
+Com o advento do CPC/2015, todavia, ante a redação de seu art. 1.003, § 6º, a Corte Especial do STJ concluiu que, para os recursos interpostos contra decisão publicada na vigência do novo código, o feriado local deve ser demonstrado no momento de sua interposição, não sendo permitida a comprovação posterior (AgInt no AREsp n. 957.821/MS, Relatora p/ Acórdão Ministra NANCY ANDRIGHI, julgado em 20/11/2017, DJe 19/12/2017).
+A ocorrência do feriado local ou a determinação de suspensão do prazo no Tribunal recorrido deve ser atestada por meio de documentação idônea (certidão específica do Tribunal de origem ou cópia do Diário Oficial - contendo o inteiro teor do ato da instância recorrida ou da lei que criou o feriado local). Não serve a tal propósito "print" (captura) de tela, imagem de página eletrônica extraída da "internet", mera menção no corpo da petição recursal ou apresentação de lista ou de calendário.Ademais, não se aplicam feriados e suspensões previstos em normas do Superior Tribunal de Justiça.
+O último acórdão do Tribunal recorrido (e-STJ fls. 548/556) foi publicadoem 19/5/2021 (e-STJ fl. 557), quarta-feira. Desse modo, o prazo recursal expirou em 9/6/2021, quarta-feira. No entanto, a parte protocolizou o especial (e-STJ fls. 562/577) após o decurso, no dia 10/6/2021, quinta-feira, sem comprovação de feriado local ou de suspensão do prazo recursal no Tribunal recorrido, no momento da interposição do recurso, o que impossibilita a regularização posterior.
+Observe-se ainda que "A jurisprudência desta Corte Superior entende que segunda-feira de carnaval, quarta-feira de cinzas, dias da Semana Santa que antecedem a Sexta-Feira da Paixão, Corpus Christi e Dia do Servidor Público são considerados feriados locais para fins de comprovação da tempestividade recursal" (AgInt nos EDcl no AREsp n. 1.639.906/ES, Relator Ministro Marco Buzzi, Quarta Turma, julgado em 20/6/2022, DJe de 24/6/2022).
+Diante do exposto, DOU PROVIMENTO ao agravo interno para RECONSIDERARa decisão da Presidência do STJ eNÃO CONHECER do agravo em recurso especial, pelos fundamentos apresentados nesta decisão.
+Nos termos do art. 85, § 11, do CPC/2015, confirmo a majoraçãoem 15% o valor atualizado dos honorários advocatícios arbitrados na origem em favor do patrono da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
