@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por CLARIANT S.A. à decisão monocrática destarelatoria às fls. 633-640 (e-STJ), assim ementada:
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO CONFIGURADA. CLÁUSULA PENAL. REDUÇÃO. PROPORCIONALIDADE. REVISÃO DO JULGADO. IMPOSSIBILIDADE. INCIDÊNCIA DAS SÚMULAS 5 E 7 DO STJ. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+Em suas razões (e-STJ, fls. 642-644), a embargante sustenta, em resumo, haver obscuridade na decisão embargada no que diz respeito à majoração dos honorários advocatícios fixados em virtude do resultado do julgamento da insurgência de SAGA SERVIÇOS DE ADMINISTRAÇÃO, GERENCIAMENTO AMBIENTAL E COMÉRCIO LTDA., no qual se conheceudo agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Argumenta, para tanto, que o Tribunal de Justiça do Estado de São Paulo, no acórdão do julgamento da apelação (e-STJ, fls. 443-448), fixou a base de cálculo dos honorários advocatícios em 10% (dez por cento) sobre a parcela em que cada parte ficou vencida, sendo devida a majoração dos honorários de sucumbência, com base no art. 85, § 11, do CPC/2015, de acordo com os parâmetros definidos pelo colegiado estadual.
+Impugnação às fls. 648-652 (e-STJ).
+Brevemente relatado, decido.
+Razão assiste à embargante.
+Com efeito, nos termos do art. 1.022 do CPC/2015, são cabíveis embargos de declaração para esclarecer obscuridade ou eliminar contradição; suprir omissão de ponto sobre o qual deveria se pronunciar o juiz de ofício ou a requerimento; ou corrigir erro material.
+O recurso em comento visa unicamente aperfeiçoar as decisões judiciais, de modo a prestar a tutela jurisdicional de forma clara e completa, não tendo por finalidade revisar ou anular decisões. Apenas excepcionalmente, ante o aclaramento de obscuridade, desfazimento de contradição ou supressão de omissão, prestam-se os aclaratórios a modificar o julgado.
+Ilustrativamente:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022). É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+2. Ainda que para fins de prequestionamento, mostra-se incabível a apreciação de matéria constitucional na via eleita, sob pena de usurpação da competência do eg. Supremo Tribunal Federal, nos termos do que dispõe o art. 102, III, da Magna Carta.
+3. Embargos de declaração rejeitados (EDcl no AgInt no AREsp 1.475.227/RS,
+Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 20/04/2020, DJe 04/05/2020).
+Com efeito, o que se pretende é o desfazimento de erro material, concernente à majoração dos honorários advocatícios de sucumbência, identificado na parte dispositiva da decisão de fls. 633-640 (e-STJ), por intermédio da qual esta relatoria conheceu do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento, majorandohonorários em favor dos advogados da parte recorrida em 2% (dois por cento) sobre o valor da condenação, nostermos do art. 85, § 11, do CPC/2015.
+A alegada incongruência decorreria do fato de que a base de incidência da verba honorária disposta no acórdão estadual foi definida nos seguintes termos (e-STJ, fl. 448 - sem grifo no original):
+Ante o exposto e pelo mais que dos autos consta, pelo meu voto dou provimento parcial ao recurso apenas para reformar em parte a r. sentença no que se refere ao valor da condenação, que reduzo nos termos acima, ou seja, tomando-se por base apenas o faturamento da empresa Arysta e aplicando-se sobre ele a medida proposta, repartindo-se de resto custas e honorários advocatícios de 10% (dez por cento) na proporção em que cada parte se viu vencida.
+Dessa forma, é de se reconhecer que a referida deliberação unipessoal (e-STJ, fls. 633-640) incorreu em erro material ao consignar, em seu dispositivo, que a majoração dos honorários advocatícios ocorreria sobre o valor da condenação, motivo pelo qual, com vistas a afastar tal incongruência, referido trecho passa a ter a seguinte redação:
+"Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor dos advogados da parte recorrida em 2% (dois por cento) sobre o valor daparcela em que a parte recorrente ficou vencida."
+Ante o exposto, acolho os embargos de declaração para corrigir o erro material identificado na decisão embargada, nos termos acima explicitados.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS RECURSAIS. BASE DE CÁLCULO. ERRO MATERIAL VERIFICADO. EMBARGOS DE DECLARAÇÃO ACOLHIDOS.
