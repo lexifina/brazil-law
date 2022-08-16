@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de agravo apresentado por FABIO ODAGUIRI contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+Agravo de instrumento. Cobrança de honorários advocatícios. Equívoco no processamento da demanda, a partir da citação, como se execução fosse. Atos processuais nulos. Impossibilidade de aproveitamento dos atos subsequentes. Nulidade. Recurso provido.
+Quanto à controvérsia recursal, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 188 do CPC, no que concerne à violação do princípio da instrumentalidade das formas pelo acórdão recorrido, trazendo o(s) seguinte(s) argumento(s):
+11. O princípio da instrumentalidade das formas está previsto no art. 188 do CPC, que dispõe: "os atos e termos processuais independem de forma determinada salvo quando a lei expressamente a exigir, considerando-se válidos os que, realizados de outro modo, lhe preencham a finalidade essencial.".
+12. No caso em apreço, a ação originária preenche a todos os requisitos de Ação de Execução, senão vejamos: i. Há um título executivo (fls. 21/23) (contrato de honorários advocatícios), e; ii. Há prova da prestação dos serviços (fls. 34/54), conforme dispõe o art. 787 do CPC.
+13. Nessa esteira, ainda que a peça inaugural tenha nomenclatura diversa, é certo de que se trata de AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL, razão pela qual, cabível o recebimento da ação e o prosseguimento do feito como execução.
+14. Não é demais ressaltar que, ainda que citado (f. 73), o agravante não demonstrou qualquer objeção quanto ao prosseguimento do feito como execução, embora se manifestado nos autos por diversas vezes (fls. 119/125; 143; 155/157; 174/176).
+15. Dessa forma, imperiosa a reforma do v. acórdão recorrido, para que ação prossiga pelo rito da execução (fls. 620-621).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+Conforme se vislumbra das cópias do processo de origem, embora o agravado tenha ajuizado ação cognitiva de cobrança de honorários advocatícios, houve equívoco no processamento da demanda como se execução fosse, sendo o agravante citado conforme o rito executivo (fls. 88 e 114/116).
+Sobrevieram aos autos de origem a petição do réu de arguição de nulidade de citação (fls.
+137/143) e o despacho de especificação (fls. 153), que também é próprio da fase de conhecimento do processo.
+Na sequência, decisão mencionando se tratar de ação de execução e ordenando a intimação do autor para apresentar cálculo do débito (fls. 172). No entanto, posteriormente foi proferido novo decisum, com determinação para que o autor, no prazo de quinze dias, informasse "se trata-se de execução, ocasião em que deverá apontar o título executivo ou se trata-se de ação de cognição de cobrança de honorários, o que ensejará a decretação da nulidade dos atos praticados" (fls. 196).
+Após manifestação da parte autora, no sentido de que se tratava de execução, com juntada de novos documentos (fls. 201/560), o juízo a quo negou requerimento de decretação de nulidade formulado pela parte ré (fls. 561/564), decisão da qual tirada o presente agravo de instrumento.
+Pela leitura da inicial, em especial os pedidos formulados, e da procuração outorgada (fls.
+19/30), não há dúvida que foi ajuizada ação cognitiva de cobrança de honorários advocatícios, o que revela erro no subsequente processamento da demanda.
+Nada obstante, é evidente o prejuízo ao réu, que não pode se defender adequadamente, de maneira que resta inviável qualquer aproveitamento dos atos posteriores praticados.
+Destarte, é de rigor a decretação da nulidade de todos os atos do processo de origem, desde a equivocada citação relativa a processo de execução. (fls. 598/599).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
