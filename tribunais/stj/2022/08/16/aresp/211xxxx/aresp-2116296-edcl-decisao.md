@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por INSTALADORA ELÉTRICA TEZZA LTDA em face da decisão que conheceu do agravo para não conhecer do recurso especial, em razão da aplicação de súmulas de admissibilidade recursal, nos termos do art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça.
+Em suas razões, sustenta a parte embargante a configuração de contradição nos seguintes termos:
+Vale dizer que a decisão embargada é contraditória ao ponto que negou seguimento ao Agravo em recurso especial sob a alegação, de que o recurso interposto encontra óbice da Súmula n. 284/STF, uma vez que a parte recorrente/embargante deixou de indicar precisamente os dispositivos legais que teriam sido violados, ressaltando que a mera citação de artigo de lei na peça recursal não supre a exigência constitucional.
+Entretanto, a decisão é contraditória, visto que o embargante/recorrente especificou de forma clara quais os dispositivos foram violados, e de que forma se deu essa violação, estando assim preenchido os requisitos previsto na Súmula supracitada.Conforme vejamos
+O embargante especificou de forma robusta que o acórdão exarado na Apelação, que ensejou a interposição do Recurso Especial, contrariou Lei Federal ao homologar a restauração dos autos, por sentença, na forma dispositiva do artigo 716 do Código de Processo Civil sem determinar a instrução processual conforme determinação expressa no artigo 714, § 2º do Código de Processo Civil. Conforme vejamos
+ ..
+Ora, resta notório que a decisão que homologou a restauração dos autos por sentença sem designar audiência de instrução contrariou o disposto no artigo supra, mormente porque o embargante impugnou as peças processuais no prazo legal, fatos estes bem explicitados em sede de Recurso Especial e Agravo em Recurso Especial.
+Assim, resta devidamente demonstrado que o embargante de forma clara demonstrou que o dispositivo legal violado, bem como de que forma se deu esta violação.
+Razão pela qual monstra-se evidente a contradição existente na decisão exarada (fls. 679/680).
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Na decisão embargada, verifica-se que foram catalogadas duas controvérsias, a saber: cerceamento de defesa diante da ocorrência do julgamento antecipado da lide e não configuração de litigância de má-fé.
+O óbice atacado pela parte embargante, que diz respeito à ausência de indicação precisa dos dispositivos legais que teriam sido violados, foi aplicado em relação à segunda controvérsia (configuração de litigância de má-fé). Todavia, a parte embargante ora aponta que os dispositivos relativos à primeira controvérsia foram devidamente apontados.
+Assim, não há se falar em contradição, eis que o óbice ora atacado não foi aplicado à controvérsia mencionada pela embargante.
+Por fim, ressalto que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, o EDcl no AgRg nos EREsp n. 1.315.507/SP, relator Ministro Luis Felipe Salomão, Corte Especial, DJe de 28/8/2014.
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se. Intimem-se.
