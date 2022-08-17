@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, a e c, da Constituição Federal, contra acórdão proferido pelo TRF da 1ª Região, assim ementado (fls. 172):
+ADMINISTRATIVO. ADMISSÃO EM INSTITUIÇÃO PÚBLICA DE ENSINO. VAGAS RESERVADAS PARA ALUNOS EGRESSOS DE ESCOLAS PÚBLICAS. ESCOLA MANTIDA COM VERBAS DO GOVERNO. ADMISSÃO DA EQUIVALÊNCIA. SENTENÇA MANTIDA.
+1. A reserva de vagas em instituições de ensino para alunos egressos de escolas públicas somente se justifica como meio de assegurar a igualdade substancial entre todos os candidatos, tendo em vista que normalmente os alunos de escolas privadas ostentam melhores condições financeiras e, em tese, têm acesso a ensino de melhor qualidade.
+2. A escola custeada com o aporte de verba pública e com a ajuda da própria comunidade em que está inserida deve ser equiparada à escola pública para o fim de permitir a estudante que concorra ao ingresso em instituição pública de ensino pelo sistema de cotas, notadamente quando se verifica que não possui a mesma qualidade de ensino das instituições educacionais de caráter tipicamente privado, situadas no município, conforme ranking de avaliação do Enem divulgado pelo INEP.
+3. Possibilidade de atender ao pedido na forma pretendida, em atenção ao princípio da isonomia.
+4. Manutenção da sentença que concedeu a segurança para garantir a matrícula da impetrante na instituição de ensino superior.
+5. Apelação e remessa oficial a que se nega provimento.
+Embargos de declaração rejeitados.
+A recorrente sustenta, além de divergência jurisprudencial, ofensa aoartigo19, I e §2º, da Lei n. 9.394/1996. Defende, em síntese, que conforme a jurisprudência do STJ não há equiparação jurídica entre o aluno oriundo de entidade filantrópica e aluno de escola pública, não podendo ser abarcadas no sistema de cotas.
+Com contrarrazões.
+Juízo positivo de admissibilidade às fls. 218.
+É o relatório. Passo a decidir.
+Acerca da controvérsia, o Tribunalde origem, expressamente consignou (fls. 169/177, com grifos nossos):
+A reserva de vagas em instituições de ensino para alunos egressos de escolas públicas somente se justifica como meio de assegurar a igualdade substancial entre todos os candidatos, tendo em vista que normalmente os alunos de escolas privadas ostentam melhores condições financeiras e, em tese, têm acesso a ensino de melhor qualidade.
+Na espécie, a parte impetrante realizou o ensino fundamental em escola mantida com verba oriunda de parcerias com o poder público e busca ser matriculada no curso de direito da Universidade Federal de Juiz de Fora em vaga reservada a aluno que frequentou escola pública.
+Os documentos de fls. 62/71 demonstram que a escola onde a impetrante cursou o ensino médio - Escola Rafaela Menicucci - é instituição mantida por verba oriunda de convênio firmado com a prefeitura municipal de Visconde do Rio Branco/MG.
+A declaração de fl. 71 demonstra que a escola em questão oferece ensino gratuito a seus alunos, e recebe materiais didáticos de doações de outras escolas municipais e estaduais.
+Nota-se, ainda, que a escola Rafaela Menicucci obteve desempenho no ENEM equivalente ao alcançado pelas escolas públicas da cidade de Visconde do Rio Branco/MG, conforme se verifica nos dados fornecidos sítio eletrônico do Ministério da Educação.
+A pretensão recursal não pode ser acolhida, uma vez que as escolas custeadas com o aporte de verba pública e com a ajuda da própria comunidade em que está inserida deve ser equiparada à escola pública, para o fim discutido nos autos, notadamente quando se verifica que, situada em área periférica e menos favorecida do município, não possui a mesma qualidade de ensino das instituições educacionais de caráter tipicamente privado.
+Esta Corte possui entendimento já sedimentado de que, em casos que tais, essa equiparação é perfeitamente possível, senão vejamos (destaquei):
+ADMINISTRATIVO. ENSINO. MANDADO DE SEGURANÇA. CONCLUSÃO DO ENSINO FUNDAMENTAL EM INSTITUIÇÃO MANTIDA COM RECURSO DOS COFRES PÚBLICOS. EQUIPARAÇÃO ESCOLA PÚBLICA. POSSIBILIDADE DE MATRÍCULA NO IFMT PELO SISTEMA DE COTAS. SENTENÇA REFORMADA.
+I. Comprovado nos autos que impetrante frequentou todo o ensino fundamental no Instituto Espírita Allan Kardec, entidade mantida pelo Centro Espírita Caminho, Verdade e Vida e também por recursos advindos do Município de Rosário do Oeste/MT, não há razão para excluí-lo do Programa de Cotas, afigurando-se ilegítimo o indeferimento da sua matrícula no curso de Técnico de Edificações do IFMT.
+II. "Comprovado nos autos que a autora frequentou todo o ensino fundamental na Escola Família Agrícola Nossa Senhora de Fátima, entidade comunitária, mantida pela Associação dos Pais e Mestres dos Jovens da Roça Vitorinense e também por recursos advindos do Município, não há razão para excluí-la do Programa de Cotas, afigurando-se ilegítimo o indeferimento da sua matrícula no curso de Técnico de Agroindústria da IFMA." (AMS n. 000025790.2015.4.01.3700/MA, Relator Desembargador Kássio Marques, Sexta Turma, e-DFJ1 de 19/09/2017).
+III. Recurso de apelação conhecido e provido. (AMS 0001955-82.2011.4.01.3600/MT, Rel. Desembargador Federal Kassio Nunes Marques, Sexta Turma, e-DJF1 de 19/12/2017)
+Conquantonem toda instituição de ensino filantrópica possa ser considerada para o sistema de cotas, o tema deve ser julgado caso a caso, conforme as provas dos autos. Por essa razão, o recurso especial não se revela a via adequada para discussão sobre o preenchimento dos requisitos necessários ao ingresso pela sistemática de cotas, na hipótese de o órgão julgador a quo firmar a premissa de que a instituição de ensino, em complementação à rede oficial, atende a cidadãos carentes. A respeito, mutatis mutandis, confira-se: REsp 1526171/RN, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 04/12/2018, DJe 10/12/2018.
+Nessa linha, eventual conclusão em sentido contrário ao do Tribunal Regional Federal dependeria do exame de provas, providência inadequada em recurso especial.
+O conhecimento do recurso, portanto, encontra óbice nas Súmulas 7 do STJ.
+Ante ao exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. DIREITO À EDUCAÇÃO. ENSINO SUPERIOR. SISTEMA DE COTAS. INSTITUIÇÃO DE ENSINO. ACÓRDÃO CUJA CONCLUSÃO DERIVA DO EXAME DE PROVAS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. RECURSO NÃO CONHECIDO.
