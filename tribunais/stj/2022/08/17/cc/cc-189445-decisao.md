@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de conflito negativo de competência suscitado pelo Juízo de Direito da 4ª Vara Cível/Fazenda Pública de Arapiraca/AL em desfavor do Juízo de Direito da Vara Cível da Comarca de Remanso/BA, extraído dos autos da ação declaratória (Processo n. 8000337-92.2020.8.05.0208), ajuizada por Jelison Martins Netoem face da Faculdade Albert Einstein - FALBEe da Universidade Estadual de Alagoas - UEAL, a fim de seja validadoseu diploma de ensino superior, bem como seja reparado o dano moral sofrido.
+Contam os autos que a demanda foi originariamente ajuizada perante o Juízo de Direito da Vara Cível da Comarca de Remanso/BA, que, reconhecendo a incompetência territorialdo juízo, determinou a remessa do feito à uma das Varas deFazenda Pública de Arapiraca/AL.
+Distribuído o feito à 4ª Vara Cível/Fazenda Pública de Arapiraca/AL, foi exarada decisão suscitando o conflito negativo de competência, nos seguintes termos (fls. 63/65):
+ ..
+Segundo inteligência do art. 52, parágrafo único, do Código de Processo Civil (CPC), nas situações em que um Estado da Federação ou o Distrito Federal for demandado, a ação poderá ser proposta a) no foro de domicílio do autor, b) no de ocorrência do ato ou fato que originou a demanda, c) no foro de situação da coisa ou d) na capital do ente federado, configurando-se, desta forma, a competência concorrente dos juízos, facultando ao autor a escolha de qual foro irá ajuizar a ação.
+Esse é o entendimento, inclusive, do Superior Tribunal de Justiça (STJ):
+ ..
+Dessa forma, considerando que a ação foi originariamente proposta na comarca do domicílio do autor, possibilidade autorizada pelo art. 52, parágrafo único, do CPC, não merece prosperar, ao meu sentir, a competência do presente juízopara o julgamento desta demanda.
+Pelo exposto, com fundamento no art. 64, inciso II e parágrafo único, do CPC, suscito conflito negativo de competência para o processamento do presente feito, ao passo em que determino o sobrestamento destes autos até ulterior manifestação do Superior Tribunal de Justiça.
+ ..
+É o relatório. Passo a decidir.
+O presente conflito de competência deve ser conhecido, por se tratar de incidente instaurado entre juízos vinculados a Tribunais distintos, nos termos do art. 105, inciso I, alínea d, da Constituição Federal - CF.
+No caso dos autos, o autor ajuizou, no foro de seudomicílio,a Comarca de Remanso/BAdemanda contra a Universidade Estadual de Alagoase a Faculdade Albert Einstein.
+De acordo com o parágrafo único do artigo52do CPC/2015, na hipótese de ser demandadoEstadoou Distrito Federal, compreendidas as respectivas autarquias e fundações públicas, a ação poderá ser proposta no foro dedomicíliodo autor, no de ocorrência do ato ou fato que originou a demanda, no de situação da coisa ou na capital do respectivo ente federado.
+Confira-se:
+Art.52.É competente o foro dedomicíliodo réu para as causas em que seja autorEstadoou o Distrito Federal.
+Parágrafo único. SeEstadoou o Distrito Federal for o demandado, a ação poderá ser proposta no foro dedomicíliodo autor, no de ocorrência do ato ou fato que originou a demanda, no de situação da coisa ou na capital do respectivo ente federado.
+Não procedem, portanto, os fundamentosdo juízo suscitado acerca dos limites territoriais da jurisdição, porquanto, tratando-se a eleição do foro de um direito do autor, a Fazenda Pública poderá ser chamada a responder em outro Estado.
+Nesse contexto, acompetênciaé do Juízo elencado pelo autor, onde a ação foi proposta, o qual se tornou prevento.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS EM FACE DOESTADODE SERGIPE. ART.52DO CÓDIGO DE PROCESSO CIVIL. APLICAÇÃO. DEMANDA EM FACE DEESTADOOU O DISTRITO FEDERAL. FORO DEDOMICÍLIODO AUTOR. CABIMENTO.COMPETÊNCIARELATIVA. DECLARAÇÃO DE OFÍCIO. IMPOSSIBILIDADE. SÚMULA 33/STJ. AJUIZAMENTO DE AÇÃO DIRETA DE CONSTITUCIONALIDADE. MATÉRIA CONEXA. SOBRESTAMENTO. AUSÊNCIA DE PREVISÃO LEGAL. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. HONORÁRIOS RECURSAIS. NÃO CABIMENTO. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015.DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - Autor ajuizou a Ação Declaratória de Inexistência de Débito cumulada com Indenização por Danos Morais em face doEstadode Sergipe no foro de seudomicílio,a Comarca de Pedreiras/MA. Por entender que umEstadoda Federação não pode julgar atos praticados por outro, o Juízo doEstadodo Maranhão declinou dacompetência.
+III - Conforme o art.52do Código de Processo Civil, é competente o foro dedomicíliodo réu para as causas em que seja autorEstadoou o Distrito Federal. SeEstadoou o Distrito Federal for o demandado, a ação poderá ser proposta no foro dedomicíliodo autor, no de ocorrência do ato ou fato que originou a demanda, no de situação da coisa ou na capital do respectivo ente federado, restando competente, dessa forma, o Juízo de Direito da 1ª Vara da Comarca de Pedreiras/MA.
+IV-Tratando-se decompetênciarelativa, somente o Requerido pode suscitar a incompetência do Juízo, mediante exceção, não sendo possível a declaração de ofício, a teor da Súmula 33 desta Corte.
+V - Verifico a ausência de fundamento legal que autorize a suspensão do processo em razão de ajuizamento de Ação Direta de Constitucionalidade sobre matéria conexa.
+VI - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+VII - Honorários recursais. Não cabimento.
+VIII - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+IX - Agravo Interno improvido (AgInt no CC 157.479/SE, Rel. Min. Regina Helena Costa, Primeira Seção, DJe 4/12/2018).
+No mesmo sentido, as seguintes decisões monocráticas: CC 165.687/TO, Rel. Min. Benedito Gonçalves, Primeira Seção, DJe 22/5/2019; CC 162.402/PE, Rel. Min. Francisco Falcão, Primeira Seção, DJe 7/2/2019; CC 154.125/MS, Rel. Min. Herman Benjamin, Primeira Seção, DJe 25/5/2018; CC 158.214/PA, Rel. Min. Regina Helena Costa, Primeira Seção, DJe 17/8/2018; CC 155.079/SC, Rel. Min. Benedito Gonçalves, Primeira Seção, DJe 27/6/18.
+Ante o exposto, com base no art. 34, XXII, do RISTJ, CONHEÇO doconflitopara declarar competente para processar e julgar a causa o Juízo de Direito da Vara Cível da Comarca de Remanso/BA, ora suscitado.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. CONFLITO NEGATIVO DE COMPETÊNCIA. DIPLOMA EXPEDIDO POR INSTITUIÇÃO DE ENSINO PARTICULAR. VALIDAÇÃO POR INSTITUIÇÃODE ENSINO SUPERIOR MANTIDA PELO PODER PÚBLICO ESTADUAL.ART. 52 DO CPC/2015. APLICAÇÃO. DEMANDA EM FACE DE AUTARQUIA DO ESTADO. FORO DE DOMICÍLIO DO AUTOR. CABIMENTO. CONFLITO CONHECIDO PARA DECLARAR A COMPETÊNCIA DO JUÍZO DE DIREITO VARA CÍVEL DA COMARCA DE REMANSO/BA, O SUSCITADO.
