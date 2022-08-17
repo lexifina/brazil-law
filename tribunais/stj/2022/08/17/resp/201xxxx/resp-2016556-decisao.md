@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso especial interposto por SEGURADORA LIDER DO CONSORCIO DO SEGURO DPVAT S.A., com fundamento no art. 105, III, a e c, da Constituição Federal, contra decisão do Tribunal de Justiça do Estado do Mato Grosso assim ementada (e-STJ, fl. 210):
+AGRAVO INTERNO - APELAÇÃO CÍVEL - AÇÃO DE COBRANÇA - VERBA HONORÁRIA - HONORÁRIOS RECURSAIS - ART.85, §11, DO CPC - FIXAÇÃO POR APRECIAÇÃO EQUITATIVA - REMUNERAÇÃO DO TRABALHO ADICIONAL REALIZADO - MONOCRÁTICA MANTIDA - MANIFESTA IMPROCEDÊNCIA DO PEDIDO - APLICAÇÃO DE MULTA- ART. 1.021, §4º, DO CPC - LITIGÂNCIA DE MÁ-FÉ - PENA PECUNIÁRIA CABÍVEL - EVIDENTE INTUITO PROTELATÓRIO - ART. 80 DO CPC - RECURSO NÃO PROVIDO.
+"Quando autorizado a arbitrar os honorários advocatícios por apreciação equitativa, sabidamente não está o Magistrado adstrito aos limites percentuais estabelecidos pelo código" (REsp nº. 1.731.617 - SP, Rel. Min. Antônio Carlos Ferreira, DJe 15/05/2018).
+A arguição de teses recursais infundadas revela o intuito protelatório, sendo devida a aplicação de multa por litigância de má-fé (art.80 do CPC).
+O não provimento do Agravo em votação unânime (art. 134-A, §2º, do RITJ/MT) impõe a condenação à pena pecuniária prevista no art.1.021, §4º, do CPC.
+As razões do recurso especial (e-STJ, fls. 241-259), a recorrente aponta divergência jurisprudencial e violação dos arts. 85, § 11, e 1.021, § 4º, do CPC/2015.
+Sustenta que oTribunal de origem majorou os honorários advocatícios em patamar exorbitante uma vez que ultrapassou o limite previsto no § 2º do art. 85 do CPC/2015.
+Argumenta ainda a irregularidade da multa, tendo em vista que a justificativa para sua aplicação foi somente a improcedência da interposição do agravo interno, o que, segundo entende, viola o seu direito de recorrer.
+Apresentadas as contrarrazões (e-STJ, fls. 340-345), o apelo extremo foi admitido na origem (e-STJ, fls. 422-427), ascendendo os autos a esta Corte de Justiça.
+Brevemente relatado, decido.
+A recorrente salienta que, ainda que fixado os honorários advocatícios por equidade no Juízo de primeiro grau, a majoração da referida verba para o valor de R$ 1.200,00 (mil e duzentos reais) excede o limite de 20% do valor da condenação (R$ 4.725,00 - quatro mil, setecentos e vinte e cinco reais), motivo pelo qual seria exorbitante por ultrapassar o limite previsto na legislação processual.
+No ponto "aplica-se o entendimento desta Corte no sentido de que, na apreciação equitativa, o magistrado não está restrito aos limites percentuais estabelecidos no art. 85, § 2º, do Código de Processo Civil/2015, e que a sua revisão implica incursão ao suporte fático-probatório carreado aos autos, o que é vedado pela Súmula 7/STJ" (AgInt no AREsp n. 1.487.778/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 24/9/2019, DJe de 26/9/2019).
+No mesmo sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. HONORÁRIOS DE SUCUMBÊNCIA. FIXAÇÃO POR APRECIAÇÃO EQUITATIVA. LIMITES DO ART. 85, § 2º, DO CPC/2015. INAPLICABILIDADE. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. A fixação dos honorários de sucumbência por apreciação equitativa (CPC/2015, art. 85, § 8º), bem como a majoração em grau recursal, não está adstrita aos limites de 10% a 20% previstos no art. 85, § 2º, do CPC/2015. Precedentes.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.651.165/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 16/5/2022, DJe de 14/6/2022) (sem grifo no original).
+PROCESSUAL CIVIL. VAGA EM UTI. UNIDADE DE TERAPIA INTENSIVA. EXTINÇÃO DO PROCESSO SEM RESOLUÇÃO DE MÉRITO. PERDA SUPERVENIENTE DO OBJETO. ÓBITO DA PARTE AUTORA. HONORÁRIOS DE SUCUMBÊNCIA AO ADVOGADO DA PARTE AUTORA. CRITÉRIO EQUITATIVO. REEXAME DE FATOS E PROVAS. SÚMULA N. 7/STJ. ANÁLISE DA DIVERGÊNCIA PREJUDICADA.
+I - Na origem, trata-se de ação objetivando disponibilização de vaga em Unidade de Terapia Intensiva - UTI, pois apresentava quadro grave, com risco de vida, em razão de acidente de trânsito.
+II - O Tribunal de Justiça Estadual deu provimento à apelação, alterando a sentença que julgou o processo extinto sem resolução do mérito, em razão da perda superveniente do objeto da ação, dado o óbito do autor (fls. 40-41), somente para arbitrar honorários advocatícios.
+III - Esta Corte consolidou entendimento no sentido de que a incidência do juízo equitativo, para fins de fixação da verba sucumbencial, justifica-se tanto na hipótese do valor inestimável ou irrisório, como em casos excepcionais.
+IV - Constata-se que, apesar de não irrisório o valor atribuído à causa para fins de fixação equitativa dos honorários advocatícios  in casu , o Tribunal de origem, com base no acervo probatório constante dos autos e peculiaridades apresentadas.
+V - Aplica-se o entendimento desta Corte no sentido de que, na apreciação equitativa, o magistrado não está restrito aos limites percentuais estabelecidos no art. 85, § 2º, do Código de Processo Civil/2015, e que a sua revisão implica incursão ao suporte fático-probatório carreado aos autos, o que é vedado pela Súmula n. 7/STJ.
+VI - Outrossim, quanto à alegada divergência jurisprudencial, verifica-se que a incidência do Óbice Sumular n. 7/STJ impede o exame do dissídio, na medida em que falta identidade entre os paradigmas apresentados.
+VII - Agravo interno não provido.
+(AgInt no REsp n. 1.891.214/MT, relator Ministro Francisco Falcão, Segunda Turma, julgado em 22/3/2021, DJe de 26/3/2021)
+Relativamente ao pleito de afastamento da multa do art. § 4º do art. 1.021 do CPC/2015, as razões do recurso merecem acolhimento. A aplicação da multa, prevista no § 4º do art. 1.021 do CPC/2015, não é automática, não se tratando de mera decorrência lógica do desprovimento do agravo interno em votação unânime.
+A condenação da parte agravante ao pagamento da aludida multa, a ser analisada em cada caso concreto, em decisão fundamentada, pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória, o que não se verifica na hipótese examinada.
+Diante do exposto, dou parcial provimento ao recurso especial apenas para a excluir a multa imposta na origem à parte recorrente com base no art. 1.021, § 4º, do CPC/2015.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. AÇÃO DE COBRANÇA. HONORÁRIOS DE SUCUMBÊNCIA. FIXAÇÃO POR APRECIAÇÃO EQUITATIVA. LIMITES DO ART. 85, § 2º, DO CPC/2015. INAPLICABILIDADE. MULTA. ART. 1.021, § 4º, DO CPC/2015. EXCLUSÃO. RECURSO ESPECIAL PROVIDO EM PARTE.
