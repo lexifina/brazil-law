@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpussubstitutivo de recurso especial, com pedido liminar, impetrado em favor de KAIO LOPES FERREIRA, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, no julgamento da Apelação Criminal n. 1500011-91.2020.8.26.0603.
+Consta dos autos que o paciente foi condenado, em primeiro grau de jurisdição, às penas de2anos de reclusão, em regime inicial semiaberto, além de 10 dias-multa,pela prática dodelitotipificadonoart. 155, § 4º, IV, do Código Penal(e-STJ, fls. 40/50).
+Irresignada, a defesa apelou e o Tribunal estadual negou provimento ao recurso(e-STJ, fls. 51/62), em acórdão assim ementado:
+APELAÇÃO CRIMINAL. FURTO QUALIFICADO. Concurso de agentes. Materialidade e autoria comprovadas. Confissão dos réus corroborada por relatos da vítima e de policiais militares. Qualificadora inquestionável. Condenação mantida, a par de não impugnada. Basilares no piso. Errática compensação entre a reincidência de KAIO e a confissão, vedada a revisão do julgado ante a inércia da acusação. Quadro negativo colidente com o regime semiaberto beneficamente estipulado a KAIO. Regime aberto imposto a ISAÍAS e substituição da corporal não impugnados. Impossibilidade de mitigação da prestação pecuniária. Questão, ademais, afeta à execução do julgado. Apelo improvido.
+No presente writ(e-STJ, fls. 3/9), oimpetrante sustenta que o paciente sofre constrangimento ilegal porque ele foi preso em flagrante no dia 1º/1/2020 e ficou preso preventivamente até o dia 11/5/2020, portanto, tratando-se de crime comum, constata-se que o paciente atingiu o requisito objetivo, cumprindo a proporção de mais de 1/6 da reprimenda imposta, merecendo ser agraciado com o regime aberto, com início de cumprimento de pena (e-STJ, fl. 4).
+Desse modo, assevera que ele faz jus à detração de sua pena, nos termos do art. 387, § 2º, do Código de Processo Penal, para que possa iniciar o resgate de sua reprimenda em regime aberto.
+Diante disso, requer,liminarmente e no mérito, a cessação dos efeitos da sentença condenatória, que impôs ao paciente o regime inicial semiaberto, aplicando-lhe a detração do período de custódia cautelar, para que ele possa iniciar o cumprimento de sua pena no regime inicial aberto.
+Por estarem os autos suficientemente instruídos, dispenso o envio de informações.
+É o relatório. Decido.
+Em que pesem os judiciosos argumentos expendidos pelo impetrante, da análise dos autos, não verifico patente constrangimento ilegal a ensejar sequer o processamento deste writ.
+Isso porque a insurgência posta neste mandamus não foi submetida à apreciação e tampouco analisada pelo Tribunal estadual, tratando-se, portanto,de matéria nova, somente aventada nesta impetração, o que impede seu conhecimento diretamente por esta Corte Superior, sob pena de indevida supressão de instância.
+Nesse sentido:
+PROCESSUAL PENAL. "HABEAS CORPUS". INDEFERIMENTO DE LIMINAR NA ORIGEM. NÃO CABIMENTO. SUPERAÇÃO DO ENUNCIADO N. 691 DA SÚMULA DO STF. IMPOSSIBILIDADE. ILEGALIDADE OU TERATOLOGIA. INOCORRÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+Não se admite, em princípio, a impetração de "habeas corpus" contra decisão que denega pedido liminar em sede de "writ" impetrado na origem, sob pena de se configurar indevida supressão de instância. (Enunciado 691, da Súmula do STF), ressalvadas as decisões teratológicas ou com deficiência de fundamentação, o que não ocorre na hipótese.
+Agravo regimental desprovido(AgRg no HC n. 306.319/CE, Relator Ministro FELIX FISCHER, Quinta Turma, julgado em 9/6/2015, DJe 19/6/2015).
+PROCESSUAL PENAL. AGRAVO REGIMENTAL EM "HABEAS CORPUS". INDEFERIMENTO LIMINAR DE "HABEAS CORPUS". APLICAÇÃO DA SÚMULA 691 DO SUPREMO TRIBUNAL FEDERAL. SUPERVENIÊNCIA DO JULGAMENTO DO MÉRITO DO WRIT ORIGINÁRIO, NO TRIBUNAL DE ORIGEM. PERDA DE OBJETO DO PRÓPRIO WRIT.AGRAVO REGIMENTAL PREJUDICADO.
+1. Tratando-se de impetração contra decisão monocrática, proferida por Desembargador Relator do Tribunal Estadual, que indeferiu pedido de liminar, em que não se observa teratologia ou falta de fundamentação, não há que ser mitigada a aplicação da Súmula n. 691 do STF.
+2. Nos termos da jurisprudência do Supremo Tribunal Federal e desta Corte, a superveniência de acórdão, apreciando o mérito do "writ" originário, impetrado em 2º Grau, torna prejudicada a análise do "habeas corpus", impetrado neste Superior Tribunal de Justiça.
+3. Prejudicado o agravo regimental, em face da perda superveniente de objeto deste "writ", pelo julgamento do "habeas corpus" na origem.
+4. Agravo Regimental prejudicado(AgRg no HC n. 288.056/SP, Relator Ministro NEFI CORDEIRO, Sexta Turma, julgado em 12/5/2015, DJe 26/5/2015).
+Ante o exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Intimem-se.
