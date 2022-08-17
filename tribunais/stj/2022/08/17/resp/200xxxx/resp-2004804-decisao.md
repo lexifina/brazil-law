@@ -1,0 +1,50 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto pelo Estado do Amazonas, com amparo na alínea "a"do inciso III do art. 105 da CF/1988, contra acórdão dorespectivoTribunal de Justiçaassim ementado (e-STJ, fls. 105-106):
+MANDADO DE SEGURANÇA.DIREITO TRIBUTÁRIO. VIOLAÇÃO AOS PRINCÍPIOS DA LEGALIDADE E ANTERIORIDADE. OCORRÊNCIA. ALTERAÇÃO DO CÁLCULO DO ICMS. MAJORAÇÃO INDIRETA DE TRIBUTO POR FORÇA DO DECRETO 38.338/2017. DIREITO LÍQUIDO E CERTO CONSTATADO. SEGURANÇA CONCEDIDA.
+I - A alteração da margem de valor agregado (MVA), nos moldes postos, promoveu um aumento indireto da carga tributária do contribuinte, sem, contudo, observar o princípio da legalidade, uma vez que tal alteração deveria ter ocorrido por meio de lei, o que não foi cumprido.
+II - Importando em aumento do tributo de modo indireto (por meio de alteração na base de cálculo), a eficácia da legislação tributária deve respeitar os prazos constitucionais fixados peloprincípio da anterioridade, na sua modalidade nonagesimal, prevista no art. 150, inciso III, alínea "c", da Constituição Federal.
+III - In casu, o Decreto n. 38.338/2017 foi publicado em 31 de outubro de 2017, para produzir efeitos a partir de 01 de novembro de 2017, sem observância do prazo de 90 (noventa) dias, em descumprimento à lei e ao princípio da anterioridade nonagesimal.
+IV -Segurança concedida.
+Os embargos de declaração opostos pelo ente federativo foram rejeitados.
+Em suas razões, o requerente aponta violação dos arts. 2º, 141e 492do CPC/2015; 6º, § 5º, da Lei n. 12.016/2009; e97, IV, do CTN.
+Levanta prefacial de nulidade do acórdão recorrido, aduzindojulgamento extra petita, pois a impetração não estaria fundada na ofensa ao princípio da anterioridade tributária.
+Também sustenta trata-se de impetração contra lei em tese, contrariando a orientação da Súmula n. 266/STF.
+No mérito, argumenta que "a cobrança do ICMS por antecipação com base na "carga tributária de 5%" encontra amparo legal e constitucional, já que a Impetrante é contribuinte por estar inscrita no Cadastro da SEFAZ e por conter, como um de seus objetivos sociais, a comercialização de mercadorias" (e-STJ, fl. 250).
+Assevera que "o Decreto estadual não criou alíquota sem previsão em lei, que é de 18%, mas determinou a forma de cálculo a ser realizada pela Fazenda Pública, para se chegar ao mesmo resultado (valor do imposto devido) se aplicada alíquota prevista em lei, até de forma mais benéfica ao contribuinte, é de se reconhecer a ausência de violação do art. 97 do CTN, que estabelece legalidade estrita e matéria tributária, e a necessidade de provimento do presente recurso para reforma do acórdão recorrido e denegação da segurança postulada"(e-STJ, fl. 256).
+Contrarrazões recursais apresentadas às e-STJ, fls. 277-280.
+Admitido o recurso especial na origem (e-STJ, fl. 291), subiram os autos a esta Corte.
+É o relatório.
+No que tange às alegações de julgamento extra petita e de impetração contra lei em tese, verifica-se que orecursonão ultrapassa o juízo de admissibilidade, pois constata-sea existência de fundamentos exarados no julgado recorrido que não foramobjeto de impugnação específica pela parte insurgente, concernentes ao registro de que:i) a inconstitucionalidade é matéria de ordem pública e pode ser reconhecida de ofício a qualquer tempo e em qualquer grau de jurisdição; e ii)questão da impetração contra lei em tese já foi decidida pelo Plenário daquela Corte em julgamento de agravo interno transitado em julgado, estando, portanto, preclusa.
+A insurgência encontra o óbice da Súmula n. 283/STF, pois subsiste fundamento incólume ao recurso da União.
+A respeito do tema, vale conferir o precedente:
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. FORNECIMENTO DE SUPLEMENTO ALIMENTAR PELO ESTADO. ALERGIA À LACTOSE. ALEGADA OFENSA AO ART. 535 DO CPC. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. SUPOSTA OFENSA A DISPOSITIVO NÃO PREQUESTIONADO. SÚMULA 211/STJ. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA A FUNDAMENTO SUFICIENTE PARA MANTER O ACÓRDÃO RECORRIDO. SÚMULA 283/STF. ALEGADA EXISTÊNCIA DE PROVAS NOS AUTOS PARA SUSTENTAR A PRETENSÃO INICIAL. NECESSIDADE DE REEXAME DE PROVA. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+ ..
+3. Ausente a impugnação a fundamento suficiente para manter o acórdão recorrido, o recurso especial não merece ser conhecido, por lhe faltar interesse recursal. Inteligência da Súmula 283 do STF, aplicável, por analogia, ao recurso especial.
+ ..
+5. Recurso especial não conhecido.
+(REsp n.1.367.651/MG, relatora Ministra ELIANA CALMON, DJe de 3/12/2013).
+No mérito, observa-se que o assunto foi decidido pelo Tribunal de origem com fundamentação de cunho eminentemente constitucional (art. 150, I e III, "c", da CF/1988), sendo defeso o exame por esta Corte, sob pena de usurpação da competência do Pretório Excelso.
+Nesse contexto, eventual contrariedade, caso existente, ocorreria apenas no plano constitucional, de modo que se configura inviável a rediscussão da matéria pelo Superior Tribunal de Justiça no recurso especial.
+Consoante reiterada jurisprudência desta Corte, não compete ao Superior Tribunal de Justiça, via recurso especial, analisar eventual contrariedade a preceitocontido na CF/1988, tampouco uniformizar a interpretação de matéria constitucional.
+A corroborar com tal posicionamento, em hipóteses assemelhadas:
+TRIBUTÁRIO E PROCESSUAL CIVIL. VIOLAÇÃO DO ART. 535 DO CPC. ALEGAÇÃO GENÉRICA. SÚMULA 284/STF. CONTRIBUIÇÃO PREVIDENCIÁRIA. LEI N. 12.546/11. BASE DE CÁLCULO. RECEITA BRUTA DA EMPRESA. PRETENSÃO DE EXCLUSÃO DO ICMS, ISS, PIS E COFINS. DECLARAÇÃO DE INCONSTITUCIONALIDADE DE LEI. CONCEITO CONSTITUCIONAL DE RECEITA E FATURAMENTO. VIA INADEQUADA. IMPOSSIBILIDADE DE APRECIAÇÃO.
+1. A alegação genérica de violação do art. 535 do Código de Processo Civil, sem explicitar os pontos em que teria sido omisso o acórdão recorrido, atrai a aplicação do disposto na Súmula 284/STF.
+2. Na espécie, o Tribunal de origem apreciou a controvérsia acerca da base de cálculo da contribuição previdenciária instituída pela Lei n. 12.546/2011 sob enfoque constitucional, à luz do princípio da presunção de constitucionalidade de que gozam as leis, de modo a afastar a competência desta Corte Superior de Justiça para o deslinde do desiderato contido no recurso especial.
+3. Segundo a jurisprudência majoritária desta Corte, a discussão referente ao conceito de faturamento e receita bruta, notadamente no que se refere à definição da base de cálculo, implica análise de matéria constitucional, o que é vedado nesta Corte Superior, sob pena de usurpação da competência do Supremo Tribunal Federal.
+4. Agravo regimental improvido.
+(AgRg no REsp n. 1.505.664/SC, relator Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 3/3/2015, DJe de 9/3/2015).
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. INCLUSÃO DO ICMS NA BASE DE CÁLCULO DO PIS E DA COFINS. ACÓRDÃO RECORRIDO QUE TRATOU DO TEMA COM ENFOQUE EXCLUSIVAMENTE CONSTITUCIONAL. IMPOSSIBILIDADE DE REVISÃO EM SEDE DE RECURSO ESPECIAL.
+1. O Tribunal de origem reconheceu a exclusão do ICMS da base de cálculo do PIS e da COFINS ao aplicar precedente do Supremo Tribunal Federal que analisou a questão sob o enfoque do conceito de faturamento previsto no art. 195, I, "b", da Constituição Federal.Diante desse contexto, é de se reconhecer que o tema possui nítidos contornos constitucionais, o que impossibilita sua análise em sede de recurso especial, eis que a questão extrapola a competência desta Corte prevista no art. 105, III, da Constituição Federal.
+2. Agravo regimental não provido.
+(AgRg no REsp n. 1.487.527/MG, relatorMinistroMAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 20/11/2014, DJe de 26/11/2014).
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. COFINS. BASE DE CÁLCULO. INCONSTITUCIONALIDADE DO § 1º DO ART. 3º DA LEI 9.718/98 DECLARADA PELO STF. INOVAÇÃO RECURSAL, EM SEDE DE AGRAVO REGIMENTAL. IMPOSSIBILIDADE. ACÓRDÃO QUE DECIDIU A MATÉRIA SOB FUNDAMENTO EXCLUSIVAMENTE CONSTITUCIONAL. ANÁLISE VEDADA, EM SEDE DE RECURSO ESPECIAL. AGRAVO REGIMENTAL NÃO PROVIDO.
+I. Descabe a esta Corte emitir juízo de valor, em Agravo Regimental, sobre teses que não foram objeto do Recurso Especial, por se tratar de inovação recursal, vedada, em razão da preclusão consumativa.Inovação do feito que não se admite. Precedentes.
+II. Trata-se de Execução Fiscal que visa cobrar débitos da COFINS, com base no § 1º do art. 3º da Lei 9.718/98, que foi declarado inconstitucional, pelo STF, por considerar que o ordenamento jurídico brasileiro não contempla a figura da constitucionalidade superveniente. O acórdão de origem manteve a extinção do processo de execução, haja vista a inconstitucionalidade dos fundamentos jurídicos do título executivo.
+III. Inviável o Recurso Especial, interposto contra acórdão que decidiu a controvérsia sob enfoque exclusivamente constitucional.Precedentes do STJ.
+IV. "A discussão relativa à validade da alteração da base de cálculo do PIS e da Cofins pela Lei 9.718/1998, notadamente no que tange à definição dos conceitos de receita bruta e faturamento, foi dirimida pelo Tribunal a quo com base na interpretação do art. 195, I, da CF.Nesse contexto, é inviável reformar o acórdão recorrido no STJ, sob pena de usurpar a competência do Supremo Tribunal Federal, visto que a questão de fundo do presente feito foi tratada na origem à luz de fundamentos constitucionais, o que torna inviável sua alteração em Recurso Especial" (STJ, AgRg no Ag 1.407.946/MG, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 12/9/2011).
+V. Agravo Regimental não provido.
+(AgRg no AREsp n. 346.760/PE, relatora Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 8/5/2014, DJe de 14/5/2014).
+Cabe referir que existe nos autos recurso extraordinário pelo qual a Corte Suprema poderá analisar eventual violação de cunho constitucional, caso entenda por sua admissibilidade.
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, não conheço do recurso especial.
+Publique-se. Intimem-se.
