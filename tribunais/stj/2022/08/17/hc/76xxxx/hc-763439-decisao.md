@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de OBERDAN MATIAS MATOScontra a decisão de desembargador em plantão do Tribunal de Justiça do Estado de Goiásque deferiu parcialmente a liminarpara reduzira R$ 2.000,00 a quantia arbitrada a título de fiança(HC n.5480794-04.2022.8.09.0051/GO).
+Colhe-se dos autos que o paciente foi preso em flagrante, pela suposta prática dos crimes tipificados nos arts. 329 e 331 do Código Penal.
+Consta do auto de prisão em flagrante que a autoridade policial concedeu a fiança,arbitrada em R$ 1.500,00, e, como não foi efetuado o pagamento, o paciente foi recolhido a uma das celas daCentral-Geral de Flagrantes em Goiâniaaté condução à audiência de custódia (fl. 22).
+A Juíza de Direito da Vara de Custódia da Comarca de Goiânia homologouo flagrante; afastou a presença, naquele momento, de decretação da prisão preventivapor considerar suficientea aplicação de cautelares alternativas; e concedeu a liberdade provisória vinculada à prestação de fiança, que foi arbitrada em R$ 2.424,00, nos termos do art. 325, II, do CP, ante a inexistência de prova da hipossuficiência e a gravidade da conduta. Observou que o descumprimento de quaisquer das condições, entre elas o pagamento da fiança, implicaria a revogação do benefício.
+Irresignada com a imposição da fiança, a defesa impetrou habeas corpusnoTJGO e, contra o deferimento apenas parcial da medida liminar, impetrao presentehabeas corpus,em quealega estarcaracterizado flagrante constrangimento ilegal em razão da exigência de fiança.
+Sustenta que o paciente está preso desde o dia 8 de agostoe apresenta sinais de não poder adimplir afiança imposta, já que sua defesa está patrocinada pela Defensoria. Destaca que, até a presente data, ele não conseguiu efetuar o pagamento do valor arbitrado
+Requer, liminarmente, o afastamento da fiançasem prejuízo das outras medidas impostase a expedição de alvará de soltura.No mérito, pede a concessão definitiva da ordem.
+É o relatório. Decido.
+A matéria não pode ser apreciada pelo Superior Tribunal de Justiça, poisnão foi examinada pelo Tribunal de origem, que ainda não julgou o mérito do writoriginário.
+A jurisprudência do STJ firmou-se no sentido de que não cabe habeascorpus contra indeferimento de pedido de liminar em outro writ, salvo no caso deflagrante ilegalidade, conforme demonstra o seguinte precedente:
+PROCESSUAL PENAL. HABEAS CORPUS. SÚMULA 691/STF.FLAGRANTE ILEGALIDADE. SUPERAÇÃO. TRÁFICO DEDROGAS. PRISÃO PREVENTIVA DEVIDAMENTEFUNDAMENTADA. NECESSIDADE DE GARANTIA DA ORDEMPÚBLICA. PRISÃO DOMICILIAR. CONSTRANGIMENTO ILEGALEVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO. ORDEMCONCEDIDA, DE OFÍCIO.
+1. Nos termos do Enunciado n. 691 da Súmula do SupremoTribunal Federal, não é cabível habeas corpus contra indeferimentode pedido de liminar em outro writ, salvo em casos de flagranteilegalidade ou teratologia da decisão singular, sob pena de indevidasupressão de instância.
+ ..  (HC n. 486.900/SP, relator Ministro Ribeiro Dantas, QuintaTurma, DJe de 26/2/2019.)
+Confira-se também a Súmula n. 691 do STF: "Não compete ao Supremo Tribunal Federal conhecer de habeascorpus impetrado contra decisão do Relator que, em habeas corpusrequerido a tribunal superior, indefere a liminar".
+No caso, não se visualiza, em juízo sumário, manifesta ilegalidade queautorize o afastamento da aplicação do mencionado verbete sumular, porquanto o paciente é advogado,está representado por causídico particular e não acostou documentação apta a demonstrar sua hipossuficiência econômica.
+Vale salientar que a decisão da Terceira Seçãocitada na inicial dowritfoi tomada no início da pandemia de covid-19 e que o contexto atual é diverso, inclusive para facilitar a obtenção de dados e documentação necessária à instrução de habeas corpus,que, como cediço, deve ser pré-constituída, não comportando dilação probatória..
+Ante o exposto, com fundamentono art. 210 doRISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
