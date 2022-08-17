@@ -1,0 +1,45 @@
+DECISÃO
+Mariana Dunningham Baptista Teixeira impetrou mandado de segurança contra o Secretário de Estado de Educação do Estado do Rio de Janeiro pleiteando, em suma, obter o certificado de conclusão do ensino médio realizado no Instituto Educacional Luminis.
+Afirmou que colaria grau no curso de Gastronomia, e até aquele momento ainda não teria recebido o referido certificado, em razão do descredenciamento da citada Instituição.
+A ordem foi denegada pelo Tribunal de Justiça Estadual, nos termos assim ementados (fl. 178):
+MANDADO DE SEGURANÇA. Desistência da ação pela impetrante. Possibilidade assentada em decisão do Supremo Tribunal Federal. Sua homologação.Denegação da ordem sem exame do mérito, na forma dos artigos 485, inciso VIII, do CPC, e 6º, §5º, da Lei nº 12.016/2009. Demanda anterior julgada improcedente pelo Juizado Especial Fazendário.Impetração de mandado de segurança após revogação da decisão que havia deferido liminar no juizado fazendário. Pedido de desistência da ação mandamental formulado após a prolação da sentença de improcedência na outra ação. Litigância de má-fé configurada. Art. 80, incisos I, II e III, do CPC.Condenação da impetrante ao pagamento de multa.
+Os embargos de declaração opostos foram rejeitados (fls. 193-196).
+A impetrante interpôs recurso especial, com fundamento no art. 105, III, a, da Constituição Federal, alegando a violação dos arts. 489,§1º, IV e 1.022, do CPC/2015.
+Aduziu, ainda, a negativa de vigência ao art. 485, VIII, do CPC/2015, pois é dado desistir da ação mandamental, como prerrogativa inalienável e incondicional.
+Contrarrazões ofertadas às fls. 240-247, e o Tribunal de origem inadmitiu o recurso especial (fls. 249-252), tendo sido interposto o presente agravo.
+O Ministério Público Federal devolveu os autos sem manifestação de mérito (fls. 327-329).
+É o relatório. Decido.
+Considerando que a parteagravante impugnou a fundamentação apresentada na decisão agravada, e atendidos os demais pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Em relação à alegada violação dos arts. 489 e 1.022 do CPC/2015, verifica-se que a recorrente limitou-se a afirmar, em linhas gerais, que o acórdão recorrido incorreu em omissão e decisão sem fundamentação suficiente, fazendo-o de forma genérica, sem desenvolver argumentos para demonstrar especificamente a suposta mácula.
+Nesse panorama, a apresentação genérica de ofensa ao art. 1.022 do CPC/2015 atrai o comando do Enunciado Sumular n. 284/STF, inviabilizando o conhecimento dessa parcela recursal, conforme os seguintes precedentes da Corte:
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITO TRIBUTÁRIO.INCIDÊNCIA DAS SÚMULAS 282 E 356 DO STF E 7 DO STJ. RAZÕES DO AGRAVO QUE NÃO IMPUGNAM, ESPECIFICAMENTE, A DECISÃO AGRAVADA. SÚMULA 182/STJ. ALEGADA NEGATIVA DE PRESTAÇÃO JURISDICIONAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. AGRAVO INTERNO PARCIALMENTE CONHECIDO, E, NESSA PARTE, IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara recurso interposto contra decisum publicado na vigência do CPC/2015.
+II. Na origem, trata-se de Ação Declaratória de Inexigibilidade de Débito Tributário, ajuizada pela parte agravada, insurgindo-se contra protestos de CDAs referentes a tributos já pagos, pretendendo a devolução dos valores desembolsados e a reparação por danos morais.
+ ..
+IV. Quanto à alegação de negativa de prestação jurisdicional, verifica-se que, apesar de apontar como violado o art. 1.022 do CPC/2015, a parte agravante não evidencia qualquer vício, no acórdão recorrido, deixando de demonstrar no que consistiu a alegada ofensa ao citado dispositivo, atraindo, por analogia, a incidência da Súmula 284 do Supremo Tribunal Federal ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia"). Nesse sentido: STJ, AgInt no AREsp 1.229.647/MG, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, DJe de 15/06/2018; AgInt no AREsp 1.173.123/MA, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe de 29/06/2018.
+V. Agravo interno parcialmente conhecido, e, nessa parte, improvido.
+(AgInt no AREsp 1.466.877/SP, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 6/5/2020, DJe 12/5/2020.)
+PROCESSUAL CIVIL. ADMINISTRATIVO. GRATIFICAÇÃO DE AÇÃO POLICIAL. ALEGAÇÃO DE VIOLAÇÃO DO ART. 1.022 DO CPC/2015. DEFICIÊNCIA DA FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DO ENUNCIADO N. 284 DA SÚMULA DO STF. PRINCÍPIO DA NÃO SURPRESA. INTERPRETAÇÃO DE LEI LOCAL. INCIDÊNCIA, POR ANALOGIA, DO ENUNCIADO N. 280 DA SÚMULA DO STF.
+I - Na origem, trata-se de ação objetivando o pagamento de Gratificação de Ação Policial pelo Estado de Alagoas, nos termos da Lei Estadual n. 5.813/1996. Na sentença, julgou-se improcedente o pedido. No Tribunal a quo, a sentença foi mantida. Esta Corte conheceu do agravo para não conhecer do recurso especial.
+II - Em relação à alegada violação do art. 1.022 do CPC/2015, verifica-se que a recorrente limitou-se a afirmar, em linhas gerais, que o acórdão recorrido incorreu em omissão ao deixar de se pronunciar acerca dos dispositivos legais apresentados nos embargos de declaração, fazendo-o de forma genérica, sem desenvolver argumentos para demonstrar de que forma houve a alegada violação, pelo Tribunal de origem, dos dispositivos legais indicados pela recorrente. Incidência da Súmula n. 284/STF. Nesse diapasão, confiram-se: (AgInt no AREsp n. 960.685/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 15/12/2016, DJe 19/12/2016 e REsp n. 1.274.167/PR, Rel. Ministra Regina Helena Costa, Primeira Turma, julgado em 20/10/2016, DJe 9/11/2016.)
+ ..
+VII - Agravo interno improvido.
+(AgInt no AREsp 1.546.431/AL, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 22/4/2020, DJe 24/4/2020.)
+Em relação ao art. 485 do CPC, o acórdão recorrido assim deliberou:
+Petição da impetrante requerendo desistência da ação (pasta 158).
+É o relatório.
+Consoante entendimento do Supremo Tribunal Federal, nos autos do RE nº 669.367, a desistência do Mandado de Segurança constitui direito do impetrante e independe da anuência da autoridade coatora, ..
+Logo, embora a autoridade coatora tenha sido intimada e prestado informações, não há óbice à desistência formulada, nos termos do decidido pelo STF.
+Em consulta ao sistema de andamento processual deste Tribunal  ..  verifica-se que a impetrante ajuizou ação perante o 2º Juizado Especial Fazendárioem 05/06/2019, em face do Estado do Rio de Janeiro, para o fim de obter o certificado de conclusão do ensino médio, pretensão reproduzida na presente ação mandamental, ajuizada em 08/08/2019, após a revogação da decisão que deferiu tutela antecipada na outra demanda, prolatada em 11/07/2019 e mantida em 06/08/2019.
+Registre-se que, após a recente prolação de sentença de improcedência naquela ação (17/10/2019), a impetrante desiste da presente ação mandamental, a qual já estava incluída em pauta de julgamento desde o dia 18/10/2019.
+A conduta da impetrante configura deslealdade processual, porquanto deduz pretensão contra texto expresso de lei, ao repetir ação que está em curso (art. 337, §1º, do CPC), altera a verdade dos fatos e usa do processo para conseguir objetivo ilegal, uma vez que a liminar obtida na ação anteriormente ajuizada foi posteriormente revogada e o pedido julgado improcedente.
+Tal forma de agir caracteriza litigância de má-fé (art. 80, incisos, I, II e III, do CPC), a ser reprimida (art. 139, inciso III, do CPC) através da condenação da impetrante ao pagamento de multa equivalente a três salários mínimos, uma vez que o valor atribuído à causa é irrisório (art. 81, §2º, do CPC), além de expedição de ofício à OAB para os fins pertinentes, uma vez que o advogado que patrocina a presente ação é o mesmo que assiste a impetrante na demanda que tramita perante o Juizado Fazendário.
+Ante o exposto, denega-se a ordem, na forma do dispositivo.
+Veja-se que a Corte de origem não afasta o entendimento acerca da possibilidade de desistência da ação mandamental, inclusive com base em jurisprudência do Supremo Tribunal Federal. Ocorre que ressaltou a situação específica, no tocante ao fato relacionado ao art. 337,§1º, do CPC/2015, qual seja, a impossibilidade de ajuizamento de ação em curso.
+O reexame do acórdão recorrido, em confronto com as razões do recurso especial, revela que o referido fundamento, utilizado de forma suficiente para manter a decisão proferida no Tribunal a quo, não foi rebatido no apelo nobre, o que atrai os óbices das Súmulas n. 283 e 284, ambas do STF, in verbis:
+Súmula n. 283
+É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+Súmula n. 284
+É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
