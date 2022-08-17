@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpusimpetrado em favor de Francisco Ferdinando Gomes dos Santos, em que se aponta como autoridade coatora a Segunda Turma Criminal do Tribunal de Justiça do Distrito Federal e dos Territórios.
+Consta dos autos (n. 0005436-67.2020.8.07.0001) que o paciente foi denunciado como incurso no art. 33, caput, c/c o art. 40, inc. V, c/c o art. 35, caput, todos da Lei n.11.343/2006. Na sentença, foi absolvido pelo delito de associação para o tráficoecondenado pelo crime de tráfico de drogasà pena de 5 anos e 10 meses de reclusão, em regime semiaberto, e 583 dias-multa, em face da apreensão de9.650,00g de maconha e5.150,00g de maconha (fls. 38/49).
+Em sede de apelação, a Segunda Turma Criminal do Tribunal de Justiça do Distrito Federal e dos Territórios negou provimento ao recurso (fls. 58/84).
+No presente writ, a defesa requer a absolvição do paciente,por ausência de provas, e a redução da penana terceira fase da dosimetria (fls. 3/24).
+Parecer ministerialopinando pela denegação da ordem (fls. 137/140).
+É o relatório.
+Inicialmente, quanto ao pedido de absolvição, não há como analisar o pleito da defesa sem adentrar nas provas dos autos, já que foi comprovada a autoria e a materialidade do crime de tráfico de drogas. Em sede de habeas corpus, mostra-se inviável enfrentar a tese defensiva sem levar em conta o conjunto fático retratado pela instância ordinária. Assim, inviável rever as conclusões da sentença e do acórdão hostilizado em relação às provas dos autos.
+Sobre a dosimetria, não há ilegalidade a ser sanada. A pena-base foi fixada no piso mínimo de 5 anos de reclusão. No entanto, a causa de diminuição da pena não foi reconhecida por ter sido comprovada a dedicação do paciente ao tráfico de drogas, o que também não pode ser reexaminadoem sede de habeas corpus. Ademais, a quantidade de drogas se mostra bastante elevadae o Julgador entendeu que não se trata de pequeno traficante. Verifica-se que a Corte local destacou o seguinte (fl. 75):
+ .. a quantidade excessiva de droga, quase 15kg, conforme o Laudo de Perícia Criminal nº 16541/2020 (ID 28489301), a organização confessa de JOÃO VICTOR no intuito de realizar o transporte da droga, a confissão de ADAIR de que transportava a encomenda com o intuito de ganhar a importância de R$ 5.000,00 (cinco mil reais), o reconhecimento de ARTUR e FRANCISCO de que recebiam dinheiro para realizar a viagem e o fato de transportarem a droga de outra Unidade da Federação (Mato Grosso do Sul), explicitam que os réus se dedicam ao tráfico, o que impede o reconhecimento da causa de diminuição de pena prevista no artigo 33, § 4º, da Lei n. 11.343/2006.  ..
+Já quanto à causa de aumento, pela interestadualidade, também não há o que ser alterado, pois a elevação se deu em fração de 1/6, sendo bastante razoável e proporcional.
+Ante o exposto, denego a ordem.
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. 9.650,00 G DE MACONHA E 5.150,00 G DE MACONHA. PEDIDO DEABSOLVIÇÃO. IMPOSSIBILIDADE. REEXAME DE FATOS E PROVAS. DOSIMETRIA. REQUERIMENTO DE APLICAÇÃO DA MINORANTE DO PEQUENO TRAFICANTE. DEDICAÇÃO AO TRÁFICO. AUSÊNCIA DE ILEGALIDADE NA TERCEIRA FASE. ELEVAÇÃO RAZOÁVEL PELA INTERESTADUALIDADE.
+Ordem denegada.
