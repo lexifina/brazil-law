@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de Camilli Fernanda da Fonseca Edvirges, em que se aponta como órgão coator o Tribunal de Justiça de São Paulo (fls. 16/31), por manter a sentença proferida pelo Juízo de Direito da1ª Vara Criminal da comarca de Itapetininga/SP,na Ação Penal n. 1501283-22.2020.8.26.0571, que a condenou pelo crime de tráfico de drogas (26,76 g de cocaína,12,23 g de maconha e16,87 g de crack), à pena de 5 anos de reclusão, a ser inicialmente cumprida em regime fechado, além do pagamento de 500 dias-multa (fls. 11/15).
+Pretende a defesa, em síntese, a aplicação da causa especial de diminuição da reprimenda prevista no art. 33, § 4º, da Lei n. 11.343/2006, bem como a fixação de regime menos gravoso.
+Liminar indeferida (fls. 257/258),informações prestadas (fls. 262/281), o Ministério Público Federal opinou pela denegação da ordem(fls. 283/286).
+É o relatório.
+O acórdão impugnado não aplicou aminorante prevista no § 4º do art. 33 da Lei n. 11.343/2006,tendo em vista a quantidade do material entorpecente apreendido (fl. 28).
+Todavia, nos termos da jurisprudência desta Casa,aapreensão de não relevante quantidade de entorpecente não pode justificar tratamento gravoso anormal na valoração da pena-base, na incidência da minorante do tráfico eventual, na fixação do regime prisional ou no indeferimento da substituição das penas(AgRg no HC n. 638.623/SP, Ministro Nefi Cordeiro, Sexta Turma, DJe 12/3/2021).
+Ora, trata-se da apreensão de 26,76 g de cocaína, 12,23 g de maconha e 16,87 g de crack(fl. 11), quantidade que nãopode levar à conclusão de dedicação a atividades criminosas, por não destoar do comumente traficado.
+Com efeito, a conclusão de que haveria dedicação a atividades criminosas ou integração em organização criminosa deve ser lastreada em elementos concretose não em meras suposições.
+Nos termos da jurisprudência desta Casa, a comprovação de dedicação a atividades criminosas ou de integração a organização criminosa é ônus da acusação, para fins do art. 33, § 4º, da Lei n. 11.343/2006, não se podendo impor à defesa a tarefa de produzir prova negativa, ou seja, de que o acusado não se dedica a atividades criminosas nem faz parte de organização da mesma natureza.  ..  4. Ausente a demonstração, no julgado combatido, de que o recorrente se dedica a atividades criminosas ou integra organização dessa natureza e reconhecida sua primariedade e bons antecedentes, faz ele jus à causa de diminuição do art. 33, § 4º, da Lei n. 11.343/2006(REsp n. 1.489.825/SP, de minha relatoria, Sexta Turma, DJe 18/12/2014).
+Registro que a prática do crime de tráfico de drogas, por si só e sem outros elementos idôneos, não justifica a conclusão no sentido da dedicação a atividades criminosas. Nesse sentido, o julgamento proferido no HC n. 230.115/SP, Ministro Jorge Mussi, Quinta Turma, DJe 8/5/2012.
+Dessa forma, sendo a paciente primária e com bons antecedentes e não havendo menção a elementos aptos a demonstrar, com segurança, a dedicação a atividades criminosas ou a integração em organização da mesma natureza, deve ser reconhecido seu direito à causa especial de diminuição da pena prevista no art. 33, § 4º, da Lei n. 11.343/2006.
+Passo, então, à nova dosimetria da pena.
+Mantenho, até a segunda fase, o quantum fixado pelas instâncias ordinárias, a saber, 5 anos de reclusão, além do pagamento de 500 dias-multa.
+Na terceira etapa, nos termos da fundamentação acima, incide a causa especial de diminuição da reprimenda prevista no art. 33, § 4º, da Lei n. 11.343/2006, que deve ser fixada em 2/3, por ausência de razões para o estabelecimento em outra fração. Assim, a reprimenda é definitivamente fixada em 1 ano e8 meses de reclusão, além do pagamento de166 dias-multa.
+Tratando-se de réprimária, que teve sua pena-base definida no mínimo legal, fixo oregime aberto para o cumprimento da pena, bem como determino a substituição da privativa de liberdade porrestritivas de direitos, que deverão ser estabelecidas pelo Juízo de primeiro grau.
+Ante o exposto, concedo a ordem a fim de fixar a reprimenda da paciente em 1 ano e 8 meses de reclusão, a ser cumprida em regime aberto, além do pagamento de 166 dias-multa, substituída a privativa de liberdade por restritivas de direitosa serem estabelecidas pelo Juízo de primeiro grau.
+Comunique-se, com urgência, às instâncias ordinárias.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA DA PENA. TERCEIRA FASE. ART. 33, § 4º, DA LEI N. 11.343/2006. NÃO RELEVANTE QUANTIDADE DE DROGAS. MINORANTE. INCIDÊNCIA. NECESSIDADE. REGIME ABERTO. CONVERSÃO DAS PENAS.
+Ordem concedida nos termos do dispositivo.
