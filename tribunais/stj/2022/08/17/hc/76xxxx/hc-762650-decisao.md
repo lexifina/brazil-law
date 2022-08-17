@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpussem pedido liminarimpetrado em favor deJOSIMAR CAMARGOS BARBOSAapontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO(Apelaçãon. 1501749-89.2019.8.26.0073).
+Depreende-se dos autos que o paciente foi condenado, em primeiro grau, como incurso no art. 288 do Código Penal (associação criminosa), à pena de 1 ano e 2 meses de reclusão, em regime inicial semiaberto(e-STJ fls. 34/62).
+A apelação defensiva foi desprovida pelo Tribunal de origem, nos termos do acórdão assim ementado(e-STJ fls. 69/70):
+APELAÇÃO CRIMINAL- FURTO e ASSOCIAÇÃO CRIMINOSA- Sentença Condenatória- Preliminar de conversão de julgamento em diligência para oferta de acordo de não persecução penal - Impossibilidade-A aplicação do instituto do acordo de não persecução penal constitui faculdade do representante do Ministério Público e trata-se de ato a ser realizado durante a fase inquisitorial, não sendo possível sua aplicação nesta fase processual -Preliminar de nulidade por violação de sigilo telefônico- Inocorrência - As interceptações telefônicas inseridas na mais absoluta conformidade legal, mediante autorização judicial, estando, inclusive, anexadas em apenso próprio, com amplo e integral acesso às defesas- Absolvição por insuficiência probatória- Descabimento- Autoria e materialidade delitivas comprovadas- Prova cabal a demonstrar que parte dos recorrentes subtraíram para si e para outrem, mediante concurso de agentes e com emprego de rompimento de obstáculo os bens da vítima, bem como que estes e os demais recorrentes associaram-se para o fim específico de cometerem crimes- Qualificadora relativa ao cometimento do furto mediante rompimento de obstáculo comprovada por laudo pericial do local dos fatos- Concurso material de delitos incidentes -Penas corretamente calculadas, de forma fundamentada e respeitado o critério trifásico- Impossibilidade de afastamento da circunstância judicial desfavorável referente aos maus antecedentes- A transposição do período de mais de cinco anos não elimina os maus antecedentes, mas tão somente a reincidência, conforme inteligência do artigo 64, inciso I, do Código Penal Inexistência de bis in idem Regimes fixados adequados e compatíveis com a gravidade dos delitos perpetrados, coma reincidência de dois dos apelantes e com os maus antecedentes de dos demais recorrentes- Impossibilidade de aplicação do instituto da detração- Pedido de restituição de bens- Inviabilidade- Não há comprovação da origem lícita dos bens apreendidos, ônus que incumbia à defesa comprovar- Pleitos de concessão dos benefícios da justiça gratuita - Descabimento o pagamento de custas é consectário da condenação e os apelantes não fazem jus à assistência judiciária, eis que possuem advogados constituídos- PRELIMINARES REJEITADAS. RECURSOS DEFENSIVOS NÃO PROVIDOS.
+No presente writ,a defesarequer a aplicação da detração do período em que o paciente permaneceu preso provisoriamente (15/10/2019 a 4/3/2020) para que seja abrandado o regime inicial de cumprimento de pena.
+Afirma que, nos termos do art. 387, § 2.º, do Código de Processo Penal, a detração do período de segregação cautelar deve ser considerada jáno estabelecimento do regime inicial pela sentença condenatória.
+Pondera que a flexibilização do regime em razão do instituto do mencionado dispositivo não deve ser confundida com a progressão de regime prisional que ocorre no curso da execução criminal.
+Frisa que (e-STJ fl. 6):
+Art. 288, "caput" do CP - Natureza COMUM.
+Fração de 1/6 (um sexto) para fins de progressão de regime.
+Pena privativa de liberdade de 01 (um) ano e 02 (dois) meses de reclusão.
+1/6 de 1 ano e 2 meses = 2 meses e 10 dias (para fins de progressão de regime semiaberto para o aberto.
+PENA CUMPRIDA = 15/10/2019 a 04/03/2020 (4 meses e 16 dias).
+EM TESE, ESTARIA COM O LAPSO ULTRAPASSADO PARA PROGRESSÃO DE REGIME ABERTO (seria detido apenas para realização do cálculo de pena).
+Pugna, inclusive liminarmente,pela aplicação do instituto da detração penal.
+Éo relatório.
+Decido.
+A liminar em habeas corpus, bem como em recurso ordinário em habeas corpus, não possui previsão legal, tratando-se de criação jurisprudencial que visa minorar os efeitos de eventual ilegalidade que se revele de pronto.
+Em um juízo de cognição sumária, não visualizo manifesta ilegalidade no ato ora impugnado a justificar o deferimento da medida de urgência.
+Não obstante os fundamentos apresentados pela defesa, mostra-se imprescindível uma análise mais aprofundada dos elementos de convicção constantes dos autos, para se aferir a existência de constrangimento ilegal.
+Ademais, o pedido liminar confunde-se com o próprio mérito da irresignação, o qual deverá ser apreciado em momento oportuno, por ocasião do julgamento definitivo deste processo.
+Ante o exposto, indefiro a liminar.
+Solicitem-se informações à autoridade apontada como coatora e ao Juízo de primeiro grau - notadamente acerca do tempo em que o paciente ficou preso cautelarmente -, ressaltando-se que deverão noticiar a esta Corte Superior qualquer alteração no quadro fático atinente ao tema objeto desta impetração.
+Requeira-se, ainda, senha para acesso aos andamentos processuais constantes do respectivo portal eletrônico, tendo em vista a restrição determinada pela Resolução n. 121 do Conselho Nacional de Justiça.
+Após, encaminhem-se os autos ao Ministério Público Federal.
+Publique-se. Intimem-se.
