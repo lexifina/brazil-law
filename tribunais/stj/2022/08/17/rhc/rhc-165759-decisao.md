@@ -1,0 +1,42 @@
+DECISÃO
+JUNIOR CESAR PEREIRA SANTOSalega sofrer constrangimento ilegal decorrente de decisão proferida peloTribunal de Justiça do Estado deMinas Geraisno HC n.1.0000.22.073904-9/000.
+Nas razões recursais, a defesarequer o relaxamento da custódia cautelar do recorrente, decretada pela prática dos crimes de tráfico de drogase associação para o tráfico, por considerar que há excesso injustificado para o encerramento do inquérito policial. Subsidiariamente, pugna pela extensão dos efeitos da ordem concedida em favor dacorréJosimeire Felix dos Santos.
+O Ministério Público Federal opinou pelo não provimento do recurso(fls. 582-584).
+Decido.
+I. Contextualização
+Colhe-se dos autos que o recorrente foi preso preventivamente em 30/12/2021, pelo suposto envolvimento nos crimes de tráfico de drogas e associação para o tráfico.
+Impetrado o habeas corpus no Tribunal a quo, a ordem foi denegada sob os seguintes fundamentos (fl. 166):
+HABEAS CORPUS-TRÁFICO DE DROGAS -REITERAÇÃO DE PARTE DOS PEDIDOS - CONHECIMENTO PARCIAL DA IMPETRAÇÃO - EXCESSO DE PRAZO PARA FORMAÇÃO DA CULPA -INOCORRÊNCIA - CONSTRANGIMENTO ILEGAL NÃO DEMONSTRADO- DENEGAÇÃO DA ORDEM.
+-Não se conhece departe da impetração cujo objeto constitui mera reiteração de pedidos já submetidos à análise deste Tribunal em outra oportunidade.
+-Eventual atraso para a formação da culpa - conforme orientação jurisprudencial dominante - não constitui constrangimento ilegal, quando justificável a demora pela existência de causas razoáveis, analisadas no caso concreto.
+Contra esse acórdão, a defesa interpôs o recurso que ora se analisa.
+II. Alegado excesso de prazo para conclusão do inquérito
+Nas informações prestadas, o Magistrado de primeiro grau informou que a denúncia foi oferecida em 22/5/2022. Dessa forma, conclui-se estar superada a questão do apontado excesso de prazo.
+Com efeito, a jurisprudência do STJ firmou o entendimento de que "O intento defensivo de análise do excesso de prazo no inquérito policial resta superado, em virtude do oferecimento e do recebimento da denúncia" (HC n. 417.459/MG, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 27/4/2018).
+Dessa forma, o recurso está prejudicado nesse ponto.
+III. Pedido de extensão
+Nos termos do art. 580 do Código de Processo Penal, a competência jurisdicional para decidir o pedido de extensão é do órgão prolator da decisão cujos efeitos se pretendam estender.
+No caso dos autos, não há, contudo, como aplicar o disposto no art. 580 do CPP, pela ausência de competência, visto que o writ foi concedido em favor dacorrépela Quinta Câmara Criminal doTribunal de Justiça do Estado de Minas Gerais. Confira-se:
+AGRAVO REGIMENTAL NO HABEAS CORPUS.TRÁFICOILÍCITO DE DROGAS. DOSIMETRIA. EXASPERAÇÃO DA PENA-BASE. ART. 59 DO CÓDIGO PENAL E 42 DA LEI N. 11.343/2006. REGIME PRISIONAL INICIALMENTE FECHADO. PENA SUPERIOR A 4 ANOS DE RECLUSÃO. PENA-BASE FIXADA ACIMA DO MÍNIMO LEGAL. FUNDAMENTO VÁLIDO. ALEGADA NECESSIDADE DEEXTENSÃODE BENEFÍCIO CONCEDIDO A CORRÉUS. DECISÃO QUE NÃO FOI PROFERIDA POR ESTA CORTE. INCOMPETÊNCIA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. A jurisprudência desta Corte Superior é pacífica no sentido de que a existência de circunstâncias judiciais desfavoráveis ou de gravidade concreta da conduta é condição apta a recrudescer o regime prisional, em detrimento apenas do quantum de pena imposta. Precedentes.
+2. Ademais, não há se falar em ausência de fundamentação idônea pelo acórdão impugnado, o qual ressaltou, inclusive na ementa, a aplicação expressa do disposto no art. 33, §§ 2º e 3º, do Código Penal, a indicar a consideração das circunstâncias judiciais na fixação do regime prisional inicial.
+3. Por fim, quanto ao argumento de que os demais corréus cumprem pena em regime prisional inicialmente mais brando, a despeito de figurarem na mesma situação fático-processual do paciente, deve-se ressaltar a incompetência desta Corte para analisar o tema, porquanto a referida decisão não fora proferida por esta instância. Com efeito, " n os termos do art. 580 do Código de Processo Penal, o pedido deextensãodeve ser formulado no Juízo ou no Tribunal prolator da decisão cujos efeitos se pretendam estender; logo, por raciocínio lógico, exclusivamente a esse órgão jurisdicional recai acompetêncialegal para decidir sobre o seu deferimento ou não" (AgRg no HC 511.679/MG, relator Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 25/6/2019, DJe 2/8/2019). No mesmo sentido: AgRg no HC 707.767/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 15/02/2022, DJe 18/02/2022).
+4. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 719.639/SC, Rel. Min. Reynaldo Soares da Fonseca, DJe 29/3/2022, destaquei)
+PROCESSUAL PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. ROUBO MAJORADO. HOMICÍDIO TENTADO. ASSOCIAÇÃO CRIMINOSA ARMADA.PRISÃOPREVENTIVA. ALEGAÇÃO DE EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. CAUSA COMPLEXA. PLURALIDADE DE RÉUS. PEDIDO DEEXTENSÃODE BENEFÍCIO. ART. 580 CPP. ANÁLISE CABE AO ÓRGÃO JUDICIAL QUE CONCEDEU O BENEFÍCIO À CORRÉU. RECURSO ORDINÁRIO DESPROVIDO.
+I - A segregação cautelar deve ser considerada exceção, já que tal medida constritiva só se justifica caso demonstrada sua real indispensabilidade para assegurar a ordem pública, a instrução criminal ou a aplicação da lei penal, ex vi do artigo 312 do Código de Processo Penal.
+II - O prazo para a conclusão da instrução criminal não tem as características de fatalidade e de improrrogabilidade, fazendo-se imprescindível raciocinar com o juízo de razoabilidade para definir o excesso de prazo, não se ponderando a mera soma aritmética dos prazos para os atos processuais. Precedentes.
+III - Na hipótese, malgrado o atraso para a conclusão do feito, ele se justifica, seja em razão das peculiaridades da causa, que investiga multiplicidade de crimes cometidos pelo recorrente em suposta associação criminosa, com pluralidade de réus (quatro); seja pela complexidade do feito, evidenciada pela necessidade de realização de diversas audiências de instrução com oitiva de testemunhas e interrogatório dos réus e prolação de sentença desclassificando os crimes de homicídio, cabendo ressaltar, ainda que o recurso em sentido estrito interposto foi julgado e transitou em julgado, conforme consignado pelas instâncias originárias, não havendo qualquer elemento que evidenciasse a desídia do aparelho judiciário na condução do feito, estando demonstrado que todos os esforços foram expendidos para o processamento do feito no menor tempo possível, o que não permite a conclusão, ao menos por ora, da configuração de constrangimento ilegal passível de ser sanado pela presente via. Precedentes.
+IV - Consoante jurisprudência desta corte a análise de pedido deextensãocompete ao órgão que proferiu a decisão que concedeu o benefício cuja ampliação se pretende. Assim, o pedido deextensãodosefeitosda ordem concedida em habeas corpus que tramitou perante o Tribunal de origem, deve ser dirigido àquela Corte Estadual, e não a este Superior Tribunal de Justiça. .. (RHC n. 118.412/RJ, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 19/12/2019, grifei). Recurso ordinário desprovido.
+(RHC n. 129.216/RS, Rel. Ministro Felix Fischer, 5ª T., DJe 4/4/2020, negritei)
+Ademais, verifica-se que o pedido de extensão não foi objeto de apreciação pelo órgão colegiado local, tão somente pelo Relator do feito (fls. 194-195), e, portanto, a análise por esta Corte configuraria indevida supressão de instância. Veja-se:
+HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. TESE DEEXTENSÃODOSEFEITOSDA DECISÃO QUE REVOGOU APRISÃOCAUTELAR DA CORRÉ. PLEITO NÃO APRECIADO PELA CORTE DE ORIGEM.
+SUPRESSÃO DE INSTÂNCIA.PRISÃOPREVENTIVA. FUNDADO RECEIO DE REITERAÇÃO DELITIVA. GARANTIA DA ORDEM PÚBLICA. FUNDAMENTAÇÃO IDÔNEA. CAUTELARES DIVERSAS DAPRISÃO. INSUFICIÊNCIA, NO CASO.
+HABEAS CORPUS CONHECIDO EM PARTE E, NESSAEXTENSÃO,DENEGADA A ORDEM.
+1. Sob pena de indevida supressão de instância, é vedada a esta Corte a apreciação da tese defensiva deextensãodosefeitosda decisão que revogou aprisãocautelar da Corré Priscila D"Arc da Silva, pois tal matéria não foi analisada pelo Tribunal de origem.
+Ademais, acompetênciapara julgar a referida tese é do Magistrado de piso - que proferiu decisão para conceder a liberdade provisória à Corré.
+ ..
+(HC n. 514.177/MG, Rel. Ministra Laurita Vaz, 6ª T., DJe 21/10/2019, grifei)
+IV. Dispositivo
+À vista do exposto,não conheço do recurso.
+Publique-se e intimem-se.
