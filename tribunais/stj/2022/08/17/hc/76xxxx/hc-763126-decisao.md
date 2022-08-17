@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor deCLEBYSON DANILO CHAGAS DA SILVAapontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO(Apelaçãon. 0001436-33.2017.8.26.0540).
+Depreende-se dos autos que o réu foi condenado à pena de 4 anos de reclusão, em regime inicial fechado, e ao pagamento de 20 dias-multa, pela prática do crime de furto qualificado (art. 155, § 4º, incisos II e IV, do Código Penal).
+Interposta apelação pela, o Tribunal de origem deu parcial provimento ao recurso, para readequar a sanção definitiva a 3 anos, 1 mês e 10 dias de reclusão, mais 14 dias-multa, nos termos da ementa de e-STJ fl. 488:
+APELAÇÃO. FURTO DUPLAMENTE QUALIFICADO.CONCURSO DE AGENTES E EMPREGO DE MEIO FRAUDULENTO. Materialidade e autoria comprovadas.Declarações da vítima corroboradas por relatos de testemunhas e imagens captadas por câmeras de vigilância. Qualificadoras inquestionáveis. Consumação que prescinde da posse mansa e pacífica da "res furtiva" (STJ, Tema 934 em matéria de Repercussão Geral).Condenação mantida. Pena-base acima do piso em face de circunstância desfavorável representada pela duplicidade de qualificadoras. Incremento exagerado.Multirreincidência bem delineada. Quadro adverso condizente com o regime prisional fechado. Recurso parcialmente provido, com a mitigação da reprimenda.
+Opostos embargos de declaração, foram eles rejeitados.
+Daí o presente writ, no qual sustenta a defesapreencher o agente os requisitos para a fixação de regime inicial menos gravoso. Argumenta ilegalidade na fixação do regime intermediário com base apenas na reincidência do agente.
+Requer, liminarmente e no mérito, a fixação de regime inicial aberto.
+É o relatório.
+Decido.
+Preliminarmente, cumpre salientar que é competência do relator, em decisão in limine, aplicar jurisprudência pacífica do colegiado, conforme expressamente dispõem os incisos XVIII e XX do art. 34 do Regimento Interno do Superior Tribunal de Justiça, bem como julgados nesse sentido das turmas criminais desta Corte (vide AgRg no HC n. 622.778/RS, relator Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 10/12/2020; AgRg no HC n. 622.822/SP, relator Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 23/11/2020).
+Cumpre ressaltar que, na esteira da orientação jurisprudencial desta Corte, por se tratar de questão afeta a certa discricionariedade do magistrado, a dosimetria da pena é passível de revisão em habeas corpus apenas em hipóteses excepcionais, quando ficar evidenciada flagrante ilegalidade, constatada de plano, sem a necessidade de maior aprofundamento no acervo fático-probatório.
+No caso em tela, oacórdão impugnado deu parcial provimento à apelação criminal interposta pelo réu a fim de reduzir a pena para 3 anos, 1 mês e 10 diasde reclusão, porém manteve o regime inicial fechado, conforme os fundamentos adiante transcritos (e-STJ fls. 493/495):
+Assim, demonstrada a materialidade e apurada a autoria do delito à exaustão, a condenação é a providência que se impõe, tendo a julgadora singular fixado a pena-base em metade (1/2) acima do mínimo legal, vale dizer, três (3) anos de reclusão, com multa de quinze (15) diárias em face de circunstância judicial desfavorável representada pela duplicidade de qualificadoras.
+Ao contrário do alegado pela Defesa, a prática do furto com duas qualificadoras denota dolo mais intenso se comparada à subtração cometida mediante única causa majorante (o que indica evidente desprezo aos princípios constitucionais da razoabilidade, proporcionalidade e individualização do "castigo"), devendo a primeira ser considerada para tipificar a conduta, enquanto a outra denota circunstância judicial adversa no cálculo da basilar  ..
+ ..
+Todavia, exagerado o incremento, mostrando-se adequado o acréscimo de um sexto (1/6) sobre o mínimo legal, a resultar dois (2) anos e quatro (4) meses de reclusão, mais onze (11) dias-multa.
+Na segunda fase da dosimetria, exasperou-se a pena de um terço (1/3) pela reincidência decorrente de condenações anteriores e definitivas por roubos ainda não "atingidas" pelo quinquênio depurador (consoante processos nº 2016/2006 e 15959/2007 fls. 96/102 e 142/149), chegando-se, agora, ao patamar definitivo de três (3) anos, um (1) mês e dez (10) dias de reclusão, mais quatorze (14) dias-multa, unidade no piso, à míngua de outras causas modificadoras.
+Por se deparar com a dupla de recidivas por roubos, nítida a necessidade de acréscimo mais severo do "castigo" ante a inaceitável recalcitrância à emenda ou persistência na senda de crimescontra o patrimônio, indicando a agravante não haver CLEBYSON notado as consequências de seus atos, tanto que voltou a delinquir de forma sistemática.
+ ..
+De resto, o regime fechado para início de cumprimento da corporal é o único adequado diante das circunstâncias judiciais negativas e recidivas antes realçadas (artigo 33, §§ 2º e 3º, do Código Penal), situação adversa incondizente com retiro menos severo.
+Não obstante a pena tenha sido estabelecida em patamar abaixo de 4 anos, não há ilegalidade na fixação do regime inicial fechado para o início de cumprimento de pena, tendo em vista as circunstâncias judiciais desfavoráveis e a reincidência do réu, ex vi dos §§ 2º e 3º do art. 33 do Código Penal.
+A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL. FURTO QUALIFICADO. REGIME PRISIONAL FECHADO. PACIENTE REINCIDENTE. RECONHECIMENTO DE CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. FUNDAMENTAÇÃO IDÔNEA. PENA MENOR DE QUATRO ANOS DE RECLUSÃO. IRRELEVÂNCIA. PRECEDENTES. ORDEM DE HABEAS CORPUS DENEGADA. AGRAVO REGIMENTAL DESPROVIDO.
+1. "O relator no STJ está autorizado a proferir decisão monocrática, que fica sujeita à apreciação do respectivo órgão colegiado mediante a interposição de agravo regimental, não havendo violação do princípio da colegialidade (arts. 932, III, do CPC e 34, XVIII, a e b, do RISTJ)" (AgRg no RHC 160.457/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUINTA TURMA, julgado em 15/03/2022, DJe 18/03/2022).
+2. A despeito do estabelecimento de sanção penal inferior a 4 (quatro) anos de reclusão, o Paciente é reincidente e foram reconhecidas circunstâncias judiciais desfavoráveis. Assim, a fixação do regime fechado para o início do cumprimento da pena foi devidamente fundamentado. Precedentes.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 722.608/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 5/4/2022, DJe de 8/4/2022, grifei.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. DECISÃO MONOCRÁTICA. FURTO QUALIFICADO TENTADO. PLEITO DE DETRAÇÃO PARA FINS DE PROGRESSÃO DE REGIME. DESCABIMENTO. JUÍZO DA EXECUÇÃO PENAL (ART. 66, INCISO III, "C", DA LEI N. 7.210/84). PACIENTE PORTADOR DE REINCIDÊNCIA E CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. REGIME FECHADO ADEQUADO. PRECEDENTES. INEXISTÊNCIA DE NOVOS ARGUMENTOS APTOS A DESCONSTITUIR A DECISÃO AGRAVADA. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+II - Ainda que a pena tenha permanecido em patamar abaixo de 4 (quatro) anos de reclusão, a  reincidência  e a presença de circunstâncias judiciais desfavoráveis justifica a fixação do regime mais gravoso, impossibilitando, portanto, a subsunção dos fatos ao disposto pelo artigo 33, § 2º, alíneas b ou c, do Código Penal.
+ ..
+Agravo regimental desprovido.
+(AgRg no HC n. 607.519/SP, relator Ministro Felix Fischer, Quinta Turma, julgado em 20/10/2020, DJe de 26/10/2020, grifei.)
+Não vislumbro, portanto, o alegado constrangimento ilegal.
+Ante o exposto,denego a ordem,in limine.
+Publique-se. Intimem-se.
