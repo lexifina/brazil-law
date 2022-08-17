@@ -1,0 +1,58 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto, com fundamento nas alíneas "a" e "c" do inciso III do art. 105 da CF/1988, em oposição a acórdão proferido peloTRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAISassim ementado (e-STJ, fl. 1.714):
+AGRAVO INTERNO - APELAÇÃO CÍVEL - PROCESSO CIVIL -INADEQUAÇÃO DE MODALIDADE RECURSAL - FALTA DE CONDIÇÃO DE ADMISSIBILIDADE - CONSTATAÇÃO - RECURSO CABÍVEL - AGRAVO DE INSTRUMENTO - ERRO GROSSEIRO - PRINCÍPIO DA FUNGIBILIDADE RECURSAL - IMPOSSIBILIDADE DE APLICAÇÃO - MANUTENÇÃO DA DECISÃO VERGASTADA - RECURSO NÃO PROVIDO.
+- A decisão que extingue parcialmente a execução tem caráter interlocutório, desafiando a interposição de agravo de instrumento.
+- Aplica-se o "Princípio da Fungibilidade Recursal" apenas quando não caracterizado erro grosseiro.
+As recorrentes defendem, em síntese,que a decisão combatidase trata de sentença definitiva, posto que declarou a extinção do processo com resolução de mérito. Assim, nos termos dos arts. 203, § 1º, 269, IV, 487 e 1.009 do CPC/1973, bem como no entendimento desta Corte, o recurso cabível seria a apelaçãoe não o agravo de instrumento.
+Além disso, alega que o Tribunal aplicou a pena de multa constante do art. 1.021, 4º, do Código de Processo Civil, por entender o agravo interno como protelatório, em violação do posicionamento desta Corte no sentido de que a referida multa não é automática.
+Apresentadas contrarrazões (e-STJ, fls. 1.746-1.760), o recurso especial foi admitido na origem (e-STJ, fls. 1.762-1.764).
+Processo com prioridade legal (arts. 1.048, I, do CPC/2015 e 71 da Lei n. 10.741/2003).
+É o relatório.
+O Tribunal de origem assim se manifestou a respeito do recurso cabível no caso(e-STJ, fl. 1.716):
+Por certo, o processo, em fase de execução, fora apenas parcialmente extinto pela decisão proferida, não se tratando, por óbvio, de sentença, mas de decisão interlocutória, descabendo acolher o argumento que teriam sido levadas a erro pelo julgado.
+Não assiste, portanto, razão às recorrentes.Conforme entendimento desta Corte, é cabível agravo de instrumento,e não apelação,contra decisão que exclui litisconsorte passivo da lide ou que julga parcialmente a execução, com extinção parcial do processo.
+No caso,configura erro grosseiro a interposição de apelação, o que inviabiliza a aplicação do princípio da fungibilidade recursal.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. VIOLAÇÃO DO ART. 535 DO CPC. NÃO OCORRÊNCIA. VIOLAÇÃO A NORMATIVOS FEDERAIS. ART. 557 DO CPC/1973. DESCARACTERIZAÇÃO DE HIPÓTESE DE JULGAMENTO MONOCRÁTICO. SUPERAÇÃO. APRECIAÇÃO DO AGRAVO. JURISPRUDÊNCIA DO STJ. DECISÃO QUE EXCLUI LITISCONSORTE. RECURSO CABÍVEL. AGRAVO DE INSTRUMENTO. INTERPOSIÇÃO DE APELAÇÃO. ERRO GROSSEIRO. INCIDÊNCIA DA SÚMULA N 83 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não havendo no acórdão recorrido omissão, obscuridade ou contradição, não fica caracterizada ofensa ao art. 535 do CPC.
+2. É cabível agravo de instrumento - e não apelação - contra decisão que exclui litisconsorte passivo da lide, com extinção parcial do processo.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 1.034.896/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 12/12/2017, DJe de 18/12/2017).
+AGRAVO REGIMENTAL. DIREITO PROCESSUAL CIVIL. DECISÃO QUE EXCLUI LITISCONSORTE. RECURSO CABÍVEL. AGRAVO DE INSTRUMENTO. INTERPOSIÇÃO DE APELAÇÃO. ERRO GROSSEIRO.
+1. É cabível agravo de instrumento - e não apelação - contra decisão que exclui litisconsorte passivo da lide, com extinção parcial do processo. Precedentes.
+2. Tal conclusão persiste ainda que, em razão da exclusão de litisconsorte, houver declínio de competência da Justiça Federal para a Estadual (REsp 118.813/SP, Rel. Ministro ALDIR PASSARINHO JUNIOR, QUARTA TURMA, DJ 27/03/2000, p. 106).
+3. Agravo regimental não provido.
+(AgRg no REsp n. 1.197.616/ES, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 4/8/2015, DJe de 13/8/2015).
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO FISCAL. EXTINÇÃO PARCIAL. APELAÇÃO INCABÍVEL. ERRO GROSSEIRO. ART. 475-M, § 3º, DO CPC/1973. FUNGIBILIDADE RECURSAL INAPLICÁVEL. PRECEDENTES. SÚMULA 83/STJ. PARCIAL CONHECIMENTO, APENAS QUANTO À PRELIMINAR DE OMISSÃO E, NESSE PONTO, NEGAÇÃO DE PROVIMENTO.
+1. Não se configurou a ofensa aos arts. 489, § 1º, I, III, IV, e 1.022, I, do CPC/2015, pois o Tribunal de origem julgou integralmente a lide, analisando expressamente o descabimento de apelação contra a decisão que não extinguiu o processo.
+2. O Tribunal estadual assim decidiu (fls. 60-61, e-STJ, grifou-se):"(..) O sentenciante reconheceu a prescrição de parte do débito, qual seja, das prestações vencidas em 2005 e 2006, subsistindo a execução atinente aos demais exercícios. Neste passo, o togado determinou expressamente o prosseguimento da expropriatória apenas com relação aos anos de 2007 até 2010. Dessarte, houve erronia no recurso manejado (..). Deveras, tal ato judicial desafiava agravo de instrumento e não o apelo, conforme disciplinava o art. 475- M, § 3º, do Código de Processo Civil de 1973, em vigor naquela oportunidade (..)".
+3. A compreensão sólida do STJ é de que a decisão que declara a inexigibilidade parcial da Execução possui natureza interlocutória, portanto, recorrível mediante Agravo de Instrumento, configurando erro grosseiro a interposição de apelação, o que inviabiliza a aplicação do princípio da fungibilidade recursal. Outrossim, não sendo extinta a ação fiscal, é evidente que a apelação é incabível, como ocorreu no presente feito.
+4. Ademais, o referido entendimento se aplica independentemente da decisão ser oriunda de impugnação, Exceção de Pré-Executividade, ou qualquer outro remédio recursal, uma vez que o tipo manejado não altera a natureza jurídica da decisão que apenas extingue parcialmente a fase executória, como quer a recorrente (fl. 82, e-STJ). Incidência da Súmula 83/STJ. Precedentes do STJ.
+5. Recurso Especial parcialmente conhecido, somente com relação à preliminar de omissão, e, nessa parte, não provido.
+(REsp n. 1.812.216/SC, relator Ministro Herman Benjamin, Segunda Turma, julgado em 25/6/2019, DJe de 1º/7/2019).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. DECISÃO QUE, EM PROCESSO DE EXECUÇÃO, ACOLHEU PARCIALMENTE A EXCEÇÃO DE PRÉ-EXECUTIVIDADE E DECLAROU A PRESCRIÇÃO DE PARTE DA DÍVIDA EXECUTADA, SEM POR FIM AO PROCESSO. NATUREZA DE DECISÃO INTERLOCUTÓRIA. RECURSO CABÍVEL. AGRAVO DE INSTRUMENTO. INTERPOSIÇÃO DE APELAÇÃO. ERRO GROSSEIRO. PRINCÍPIO DA FUNGIBILIDADE RECURSAL. INAPLICABILIDADE. PRECEDENTES DO STJ. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno interposto em 11/05/2016, contra decisão publicada em 02/05/2016.
+II. Na forma da jurisprudência predominante no STF e no STJ, o princípio da fungibilidade recursal somente se aplica quando preenchidos os seguintes requisitos: a) dúvida objetiva quanto ao recurso a ser interposto; b) inexistência de erro grosseiro; e c) observância do prazo do recurso cabível. Assim, na hipótese de erro grosseiro, não se aplica o princípio da fungibilidade. Nesse sentido: STF, Pet 5.707 AgR-ED/SP, Rel. Ministro RICARDO LEWANDOWSKI, TRIBUNAL PLENO, DJe de 16/03/2016; STJ, AgRg no MS 9.232/DF, Rel. Ministro GILSON DIPP, CORTE ESPECIAL, DJU de 17/12/2004; STJ, AgRg na SEC 10.885/EX, Rel. Ministro MAURO CAMPBELL MARQUES, CORTE ESPECIAL, DJe de 14/08/2015.
+III. Também é firme a jurisprudência do STJ no sentido de que a decisão que, em processo de execução, declara a inexigibilidade de parte da dívida executada, sem por fim ao processo, possui natureza interlocutória e deve ser impugnada por Agravo de Instrumento, constituindo erro grosseiro a interposição de Apelação, sendo inaplicável, por conseguinte, o princípio da fungibilidade recursal.
+ ..
+VI. Sobre o requerimento para aplicação da multa prevista no § 4º do art. 1.021 do CPC/2015, deixa-se de acolhê-lo, pois os precedentes do STJ, citados no Agravo interno, já haviam sido invocados pela parte agravante, nas contrarrazões ao Recurso Especial, sem que fosse feita a devida demonstração, na decisão agravada, tanto da existência de distinção com o caso em julgamento, quanto da superação do entendimento neles adotado.
+VII. Não procede o pedido formulado, pela parte agravada - com fundamento no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ -, para que haja condenação da agravante em honorários advocatícios recursais, porquanto aquele dispositivo legal prevê que "o tribunal, ao julgar recurso, majorará os honorários fixados anteriormente". Porém, nos presentes autos, não foram anteriormente fixados honorários de advogado, em face da sucumbência recíproca, seja na decisão de 1º Grau, seja no acórdão recorrido.
+VIII. Agravo interno improvido.
+(AgInt no REsp n. 1.517.815/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 18/8/2016, DJe de 1º/9/2016).
+Quanto à multa aplicada, além de ter o acórdão reconhecido o agravo interno como "manifestamente improcedente" (e-STJ, fl. 1.718), a caracterização de erro grosseiro impede a aplicação do princípio da fungibilidade recursal e reforça o caráter protelatório da insurgência, possibilitando a cominação prevista no art. 1.021, § 4º, do Código de Processo Civil, que deve ser paga ao final pelo beneficiário da justiça gratuita.
+No ponto:
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. RECURSO INCABÍVEL. ERRO GROSSEIRO. PRINCÍPIO DA FUNGIBILIDADE RECURSAL. INAPLICABILIDADE. MULTA. ART. 1021, §§ 4º E 5º, DO CÓDIGO DE PROCESSO CIVIL DE 2015.
+1. Nos termos dos arts. 1.021 do Código de Processo Civil/2015 e 258 do Regimento Interno do Superior Tribunal de Justiça, somente as decisões singulares são impugnáveis por agravo interno, configurando erro grosseiro a interposição do recurso contra acórdão proferido por órgão colegiado.
+2. A caracterização de erro grosseiro impede a aplicação do princípio da fungibilidade recursal e reforça o caráter protelatório da insurgência, recomendando a aplicação da multa de 1% sobre o valor corrigido da causa, conforme preceitua o art. 1.021, § 4º, do Código de Processo Civil.
+3. Agravo interno não conhecido.
+(AgInt no AgInt no AREsp n. 971.589/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 16/3/2017, DJe de 24/3/2017).
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÕES NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE IMISSÃO DE POSSE - ACORDÃO DESTE ÓRGÃO FRACIONÁRIO QUE NÃO CONHECEU DO RECLAMO. INSURGÊNCIA RECURSAL DA PARTE RÉ.
+1. Descabe Agravo Interno contra acórdão proferido por órgão colegiado do Superior Tribunal de Justiça. Precedentes.
+1.1. Conforme os arts. 1021 do Código de Processo Civil e 258 do RISTJ, somente as decisões singulares são impugnáveis por Agravo Interno, configurando, assim, erro grosseiro a interposição do presente recurso.
+1.2. Portanto, o recurso mostra-se manifestamente inadmissível, a ensejar a aplicação da multa prevista no artigo 1.021, § 4º, do CPC, no percentual de 1% sobre o valor atualizado da causa.
+2. Agravo interno não conhecido, com aplicação de multa.
+(AgInt nos EDcl no AgInt no AREsp n. 1.865.763/CE, relator Ministro Marco Buzzi, Quarta Turma, julgado em 13/12/2021, DJe de 16/12/2021).
+Ante o exposto, com fulcro no art. 932, IV, do CPC/2015, c/c o art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Não obstante o disposto no art. 85, § 11, do CPC/2015, deixo de majorar os honorários advocatícios, tendo em vista que não houve prévia fixação de honorários sucumbenciais pela Corte de origem.
+Publique-se. Intimem-se.
