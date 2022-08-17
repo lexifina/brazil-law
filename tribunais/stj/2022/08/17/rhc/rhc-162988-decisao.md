@@ -1,0 +1,35 @@
+DECISÃO
+GEOMISON DE LIRA ARANTEalega sofrer constrangimento ilegal diante de acórdão proferido peloTribunal de Justiça do Estado do Amazonasno HC n. 4009623-03.2021.8.04.0000.
+Nesta Corte, a defesa sustenta a ocorrência deexcesso de prazo para o encerramento do feito, uma vez que o réu está cautelarmente privado de sua liberdade, pela suposta prática dos crimes de tráfico de drogas,associação para o narcotráfico e posse ilegal de arma de fogo de uso restrito, desde 5/3/2013, sem que haja sido concluída a instrução até o momento. Pugna pelarevogação da prisão preventiva.
+Decido.
+Extrai-se dos autos que o ora recorrente foi preso em flagrante em5/3/2013, juntamente com outras 3 pessoas, pela suposta prática dos crimes previstos nos arts. 33,caput, e 35,caput, c/c o art. 40, III, todos da Lei n. 11.343/2006, e 16 da Lei n. 10.826/2003. Conversão do flagrante em prisão preventiva em20/3/2013(fls. 63-65).
+Em 24/4/2013, o Ministério Público ofertou denúncia contra o postulante e outros 5 investigados.
+A defesa impetrou habeas corpus perante a Corte estadual, sob alegação de excesso de prazo. A ordem foi denegada sob a seguinte motivação (fls. 149-151, grifei):
+Da narrativa da inicial, vislumbra-se que embora o Paciente tenha sido preso em flagrante em 05/03/2013; foi solto por decisão concedida em sede liminar, tendo retomado a prisão em 30/11/2015, tendo em vista decisão que indeferiu a continuidade de prisão domiciliar.
+Todavia, não subsiste o argumento de que esteja sofrendo constrangimento ilegal em função de excesso de prazo.
+ ..
+No caso concreto, além da ação possuir vários réus envolvidos, há diversos pedidos defensivos, envolvendo complexo esquema de delitos de tráfico supostamente praticado em associação em barcos que faziam transporte de pessoas e mercadorias. Somado a tais fatores, a constatação do magistrado de primeiro grau no sentido de que o paciente possui processo de execução penal em curso, cumprindo extensa pena unificada, em regime fechado, sendo reconhecido como um dos principais líderes da organização criminosa Família do Norte - FDN, o que revela a contumácia na prática de crimes.
+No mais, a gravidade concreta dos fatos apurados resta configurada, tendo em vista que o processo decorre de operação da Polícia Federal na qual fora apreendida em poder dos envolvidos o carregamento de quantidade significativa de entorpecentes, embalados em 98 volumes, contendo 262,92 Kg de Cocaína, uma metralhadora e revólver calibre 38.
+Sendo assim, não há que se falar em excesso de prazo, uma vez que a demora para formação da culpa é decorrente do trâmite do processo, que possui peculiaridades visíveis, não podendo ser imputada ao Juízo ou Ministério Público.
+A propósito, importa ressaltar trecho da decisão que manteve a custódia preventiva relativo a gravidade do caso concreto:
+(..) Além disso, insta ressaltar a informação trazida pelo Ministério Público, de que o réu possui processo de execução penal em curso, cumprindo extensa pena unificada, em regime fechado, com base nos autos no 0801018-37.2018.4.05.8400 (SEEU).
+Não fosse suficiente, ainda fora repisado que o acusado possui altíssima periculosidade, reconhecido como um dos principais líderes da organização criminosa Família do Norte  FDN.
+Dada a complexidade do caso, número de réus e especifiddades do processo, não há que se falar em ilegalidade do Prazo.
+Inobstante, considerando que a audiência de instrução foi realizada, mas a mídia respectiva teria apresentado problema técnico, constatado em novembro de 2021, ao que tudo indica sem resolução, se mostra razoável a definição de data para realização da referida audiência, tendo em vista que tal informação não foi disponibilizada pela autoridade coatora nas informações prestadas.
+O Juízo de primeiro grau prestou os seguintes esclarecimentos (fls. 246 e 342):
+ ..
+A prisão do Paciente ocorreu no dia 05 de março de 2013, conforme consta do auto de prisão em flagrante, pela prática da conduta delituosa prevista na Lei n.º 11.343/06 (Lei de Drogas); A materialidade do delito foi comprovada pelos autos de exibição e apreensão (fls. 28 e 30), e ainda pela juntada do laudo definitivo de exame em substância (fls. 32/34), no qual atestou-se a potencialidade da substância entorpecente apreendida;
+Atendidos os pressupostos legais do art. 312, do Código de Processo Penal, a prisão em flagrante foi convertida em prisão preventiva (fls. 56/58);
+Houve desmembramento do processo (fls. 1223/1224), em razão da multiplicidade de réus e atraso na devolução de diligências pela Central de Mandados.
+O processo encontra-se no aguardo de nova audiência de instrução e julgamento (fls. 1.928). Insta ressaltar que houve apreensão de grande quantidade de entorpecentes, a saber, mais de duzentos e sessenta e dois quilos da substância COCAÍNA (fls. 28).
+ ..
+Vieram os autos para manifestação acerca das informações requeridas pelo Ministério Público Federal às fls. 287/291, nos autos do Recurso em Habeas Corpus n.º162988/AM.
+Neste sentido, informo que este Juízo designou a data de 31/08/2022 às 11:00h para realização da audiência de instrução e julgamento, conforme despacho constante dos autos.
+Os prazos processuais previstos na legislação pátria devem ser computados de maneira global e o reconhecimento do excesso deve-se pautar sempre pelos critérios da razoabilidade e da proporcionalidade (art. 5º, LXXVIII, da CF), considerando cada caso e suas particularidades.
+A análise dos excertos anteriormente transcritos permite verificar que: a) a prisão em flagrante do réu ocorreu em 5/3/2013, convertida em custódia preventiva em 20/3/2013; b) ele passou um período em prisão domiciliar, mas teve sua constrição provisória novamente estabelecida em 30/11/2015; c) foi determinado o desmembramento da ação penal de origem, a fim de garantir maior celeridade no trâmite processual; d) há audiência de instrução designada para 31/8/2022.
+Com base nesses dados, é possível constatar que recorrente cumpre medidas cautelares desde março de 2013 e ainda não foi concluída a instrução processual. Conquanto as instâncias ordinárias mencionem a complexidade do feito, vê-se que a denúncia foi oferecida contra seis acusados, número não muito elevado. Além disso, foi efetuado o desmembramento dos autos, o que reforça a ilegalidade na espécie.
+Ainda, o fato de o réu registrar contra si execução penal em andamento, em que cumpre extensa pena privativa de liberdade, ainda em regime fechado, nada diz quanto à relação processual ora analisada e, por isso mesmo, não justifica a maior demora no trâmite processual.
+O simples fato de haver audiência designada para o dia 31/8/2022- e mesmo que haja prolação de sentença nessa data- não afasta a ilegalidade suportada pelo réu,visto que, desde o momento em que restabelecida sua prisão cautelar até esta data,já decorreram mais de 6 anos e 8 meses sem que haja sido encerrada a instrução.
+À vista do exposto,dou provimento ao recurso para, diante do excesso de prazo constatado, revogar a prisão preventiva do acusado.
+Comunique-se,com urgência, o inteiro teor destedecisumàs instâncias ordinárias.
+Publique-se e intimem-se.
