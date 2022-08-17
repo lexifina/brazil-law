@@ -1,0 +1,28 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto pela FUNDAÇÃO HOSPITALAR DO ESTADO DE MINAS GERAIS - FHEMIG, com fundamento na alínea "a" do inciso III do art. 105 da CF/1988, contra acórdão proferido peloTRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAISassim ementado (e-STJ, fl. 405):
+APELAÇÂO CÍVEL - ADICIONAL NOTURNO - SERVIDORA PÚBLICA ESTADUAL - LEI ESTADUAL 10.745/92 - AUTOAPLICABILIDADE - REFLEXOS - DÉCIMO TERCEIRO, FÉRIAS, MAIS UM TERÇO.A Lei Estadual 10.745/92, ao regular o dever de pagamento do adicional noturno, não exige regulamentação específica em função dos próprios parâmetros legais, sendo devida a imposição condenatória pela inadimplência, com reflexo no 13ºsalário e férias,acrescidas de 1/3 (um terço). ADICIONAL DE INSALUBRIDADE - FHEMIG - REESTRUTURAÇÃO DAS CARREIRAS - LEIS ESTADUAIS 15.462/05 E 15.786/05 - BASE DE CÁLCULO DE ACORDO COM OS DECRETOS ESTADUAIS 36.015/94 e 36.092/94 - PRINCÍPIO DA CORRELAÇÃO - DIFERENÇAS DEVIDAS - DIFERENÇAS DEVIDAS ATÉ A LEI ESTADUAL 20.518/12. A Lei Estadual 15.785/05 estabeleceu os vencimentos básicos dos servidores após a reestruturação das carreiras pela Lei Estadual 15.463/05, ficando superadas as classificações constantes nos decretos que alteraram os símbolosdas carreiras dos servidores estaduais, no entanto, em face do princípio da correlação, no caso, a base de cálculo para o adicional de insalubridade deverá observar o vencimento correspondente ao símbolo NQP-IV, devendo ser limitado o pagamento do adicional de insalubridade à entrada em vigor da Lei Estadual 20.518/2012, esta que instituiu a Gratificação por Risco á Saúde - GRS. CONSECTARIOS DA CONDENAÇAO - POSIÇAO PREVALENTE DO STJ. A posição prevalente desta Câmara é no sentido de que os juros moratórios devem ser calculados, a partir da citação, com base no índice oficial de remuneração básica e juros aplicados à caderneta de poupança, nos termos da regra do art. 11-F da Lei 9.494197, com redação da Lei 11.960/09. Já a correção monetária, por força da declaração de inconstitucionalidade parcial do art. 5º da Lei 11.960109, deverá ser calculada com base no IPCA, desde que os valores se mostrarem devidos, índice que melhor reflete a inflação acumulada do período, em função do Acórdão sujeito à sistemática do art. 543-C do CPC e da Resolução STJ n.º 08/2008.".
+(REsp n. 1.270.439/PR, relator Ministro CASTRO MEIRA, PRIMEIRA SEÇÃO, julgado em 26/0612013, DJe de 2/8/2013). Provido.
+Os embargos de declaração foram rejeitados (e-STJ, fls. 427-441).
+Alega a recorrente, em síntese: i) ofensa à Súmula n. 98/STJ, por considerar indevida a multa aplicada com base no art. 1.026, § 2º, do CPC; e ii) violação do art. 1º-F da Lei n. 9.494/1997, com redação dada pela Lei n. 11.960/2009, ao argumento de que o índice de correção monetária aplicável seria o IPCA-E e não o IPCA.
+Sem contrarrazões (e-STJ, fl. 458).
+Em juízo de retratação, o Tribunal de origem determinou a incidência do IPCA-E para correção monetária.
+O recurso especial foi admitido na origem apenas quanto à questão da multa(e-STJ, fls. 495-498).
+É o relatório.
+Conforme Súmula n. 518/STJ: "Para fins do art. 105, III, a, da Constituição Federal, não é cabível recurso especial fundado em alegada violação de enunciado de súmula.".
+Nessa linha:
+PROCESSUAL CIVIL. ADMINISTRATIVO. ALEGAÇÃO DE VIOLAÇÃO DOS ARTS. 141, 492 E 1.022, I E II, DO CPC/2015. INEXISTENTE. ALEGAÇÃO DE CONTRARIEDADE AO ART. 114 DO CPC DE 2015, E VIOLAÇÃO DOS ARTS. 2º E 3º DA LEI N. 9.427/96 E DO ART. 5º DO DECRETO N. 41.019/57. FUNDAMENTAÇÃO EMINENTEMENTE CONSTITUCIONAL PARA O DESLINDE DA LIDE. INCOMPETÊNCIA DESTA CORTE. ALEGAÇÃO DE VIOLAÇÃO DA SÚMULA N. 150/STJ. INCIDÊNCIA DO ENUNCIADO N. 518 DA SÚMULA DO STJ.
+ ..
+IX - Quanto à alegada violação da Súmula n. 150/STJ, é forçoso destacar, também, da impossibilidade de se conhecer o recurso especial neste aspecto, uma vez que o enunciado de súmula não se enquadra no conceito de Lei Federal, conforme entendimento firmado por esta Corte Superior na Súmula n. 518/STJ, in verbis: "Para fins do art. 105, III, a, da Constituição Federal, não é cabível recurso especial fundado em alegada violação de enunciado de súmula.".
+X - A incidências dos óbices sumulares também impedem o conhecimento do recurso especial pelo permissivo constitucional da letra "c".
+XI - Agravo interno improvido.
+(AgInt no AREsp n. 1.178.508/SP, relator Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 29/4/2020, DJe de 4/5/2020).
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CREDENCIAMENTO JUNTO AO MINISTÉRIO DA AGRICULTURA, PECUÁRIA E ABASTECIMENTO (MAPA). EXIGÊNCIA DE CERTIDÃO NEGATIVA DE DÉBITO. ARTS. 489, § 1º, E 1022 DO CPC/2015. OMISSÃO NÃO CARACTERIZADA. INCABÍVEL A ALEGAÇÃO DE OFENSA À SÚMULA. SÚMULA 518/STJ. PRINCÍPIO DA LEGALIDADE. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO DE LEI TIDO POR VIOLADO. SÚMULA 284/STF. ACÓRDÃO DO TRIBUNAL DE ORIGEM AMPARADO EM FUNDAMENTOS CONSTITUCIONAL E INFRACONSTITUCIONAL. SÚMULA 126/STJ. CONTROVÉRSIA QUE DEMANDA A INTERPRETAÇÃO DE INSTRUÇÃO NORMATIVA. INVIABILIDADE.
+ ..
+2. Esta Corte firmou entendimento de que enunciado ou súmula de tribunal não equivale a dispositivo de lei federal, restando desatendido o requisito do art. 105, III, a, da CF (Súmula n. 518/STJ).
+ ..
+6. Agravo interno não provido.
+(AgInt no REsp n. 1.646.468/SP, relator Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 20/4/2020, DJe de 24/4/2020).
+No caso, quanto ao capítulo recursal admitido na origem, as razões recursais estão fundadasapenas na alegada ofensa à Súmula n. 98/STJ, motivo pelo qual o recurso não comporta conhecimento.
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, não conheço do recurso especial.
+Publique-se. Intimem-se.
