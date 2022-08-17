@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial em virtude da ausência de violação dos arts. 489 e 1.022 do CPC/2015,da incidência daSúmulan.7/STJ e da falta de comprovação da apontada divergência jurisprudencial(e-STJ fls. 765/768).
+O acórdão do Tribunal a quo está assim ementado (e-STJ fl. 546):
+DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITO C. C. INDENIZAÇÃO POR DANO MORAL. Princípio da dialeticidade. Observância dos requisitos do art. 1010 do Código de Processo Civil. Restrição creditícia. Autora que alega desconhecer o débito apontado na inicial. Comprovada a existência de relação jurídica consistente em contrato de cartão de crédito. Utilização do cartão para compras e pagamento de diversas faturas mensais. Ausência de prova da quitação. Débito exigível. Indenização indevida. Litigância de má-fé mantida. Sentença inalterada. RECURSO DESPROVIDO.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 751/755).
+Nas razões do recurso especial (e-STJ fls. 552/606), fundamentado no art. 105, III, "a" e "c", da CF, a recorrente apontou ofensa aos arts. 79, 80, 81, 373, 489 e 1.022 do CPC/2015, 186, 187, 225 e 927 do CC e 43 e 73 do CDC. Sustentou, em síntese, falta de prestação jurisdicional,de comprovação formal da regularidade da cobrança e delitigância de má-fé.
+No agravo (e-STJ fls. 771/838), afirmaa presença de todos os requisitos de admissibilidade do especial.
+Contraminuta às fls. 874/879(e-STJ).
+É o relatório.
+Decido.
+Quanto aos arts. 489 e 1.022 do CPC/2015, a agravante afirmaa existência de omissão do acórdão recorrido sobre os fundamentos referentes à falta de comprovação do débitoatravés de contrato, impossibilidade de reconhecimento da dívida apenas com os documentos apresentados pelo réu e ausência de elementos que configurariam a litigância de má-fé.
+No entanto, o Tribunal de origem assim se manifestou sobre os temas (e-STJ fls. 547/548):
+Cinge-se a controvérsia na regularidade da inscrição do nome da autora no cadastro de inadimplentes, lançada pelo réu, por débito de R$ 738,00 e R$738,53, conforme consulta de fls. 33/40, referente a cartão de crédito. O réu comprovou a existência de relação jurídica com a autora, bem como a regularidade do débito que ensejou a anotação restritiva junto aos órgãos de proteção ao crédito ao anexar aos autos as faturas de cartão de crédito, com endereço coincidente com o apontado na petição inicial, que originaram o apontamento em discussão, com histórico de pagamentos, parcelamentos (fls. 301/348) e protocolo aberto em razão de compra não reconhecida (fls. 334), conduta que não condiz comfraude ou com desconhecimento do débito.
+Observo que é desnecessária a exibição do contrato de cartão de crédito assinado para a comprovação da relação jurídica, pois, em se tratando de contrato de adesão, uma das formas de anuência é o desbloqueio e o uso do cartão, cuja utilização não foi impugnada pela apelante.
+Consigne-se que eventuais inconsistências entre o contrato e a negativação, por si só, não são suficientes para afastar a legalidade do débito, pois é sabido que a numeração constante dos órgãos de proteção ao crédito não é a mesma,tampouco o valor da dívida, pois, sobre o período referente à inadimplência, incidem juros e correção.
+A autora não comprovou a quitação do débito nem apontou o valor que, eventualmente, reputa devido. Apenas insiste na tese de que a restrição creditícia é irregular.
+Disso resulta a regularidade da cobrança, bem como do apontamento em nome da demandante, realizado pelo réu em exercício regular de direito, sendo indevida a pretensão indenizatória por dano moral.
+Desse modo, não se constata hipótese alguma de cabimento dos embargos de declaração, circunstância que, de plano, torna imprópria a invocação dos arts. 489 e 1.022 do CPC/2015 e o conhecimento do recurso especial nessa parte.
+Ademais, conforme se verifica do trecho acima transcrito, a Corte de origem, levando em consideração os elementos de provas dos autos, concluiu pela existência da dívida, pela legalidade da inscrição do nome da recorrente perante os órgãosrestritivos de crédito e pela configuração da má-fé.
+Dissentir dessa conclusão é inviável em recurso especial, em razão do óbice daSúmulan. 7 do STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.Deferida a gratuidade da justiça, deve ser observada a regra do § 3º do art. 98 do CPC/2015.
+Publique-se e intimem-se.
