@@ -1,0 +1,51 @@
+DIREITO ADMINISTRATIVO. REESTRUTURAÇÃO DA PROCURADORIA-GERAL DO MUNICÍPIO. LEI MUNICIPAL Nº 1.849/2018. ÂMBITO INFRACONSTITUCIONAL DO DEBATE. NECESSIDADE DE INTERPRETAÇÃO DE LEGISLAÇÃO LOCAL. APLICAÇÃO DA SÚMULA Nº 280/STF. RECURSO EXTRAORDINÁRIO COM AGRAVO A QUE SE NEGA SEGUIMENTO.
+
+    Vistos etc.
+
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal de Justiça do Estado de Goiás, maneja agravo a Ordem dos Advogados do Brasil - seção de Goiás. Na minuta, sustenta que o recurso extraordinário reúne todos os requisitos para sua admissão.
+
+    Nas razões do extraordinário, com base no art. 102, III, “a” e “c”, da Lei Maior, alega a recorrente que a Lei Municipal nº 1.849/2018, ao promover mudanças na reestruturação da Procuradoria-Geral do Município, contraria o princípio da impessoalidade e o Estatuto das Funções Essenciais à Justiça (art. 121 e seguintes da Constituição Federal). Aparelhado o recurso na violação dos arts. 18, 29, 37, caput, 121 ao 133 da Lei Maior.
+
+    É o relatório.
+
+    Decido.
+
+    Preenchidos os pressupostos extrínsecos.
+
+    O Órgão Especial do Tribunal de Justiça do Estado de Goiás julgou parcialmente procedente a ação direta, impondo a declaração de inconstitucionalidade, com redução de texto, para excluir da Lei Municipal nº 1.849/2018 as expressões “enquanto lotados na Procuradoria” e “à disposição da Procuradoria”. O acórdão está assim ementado:
+
+    “AÇÃO DIRETA DE INCONSTITUCIONALIDADE. LEI MUNICIPAL 1.849/2018 DO MUNICÍPIO DE ACREÚNA. VIOLAÇÃO AOS PRINCÍPIOS DO CONCURSO PÚBLICO, IMPESSOALIDADE E ISONOMIA.
+
+    1- Considerando que a lei impugnada criou distinção de tratamento entre servidores de um mesmo cargo público, portanto, ocupantes de situação jurídica idêntica, sem justificativa razoável e fundamento objetivo, contata-se violação aos princípios da impessoalidade e proporcionalidade, impondo-se a declaração de inconstitucionalidade, com redução de texto, para excluir da Lei Municipal 1.753/2015 (com redação dada pela Lei Municipal 1.849/2018), no artigo 8º, inciso I, a expressão ‘enquanto lotados na Procuradoria’ e no artigo 20, caput e §§ 1°, 6° e 7°, onde conste, a expressão ‘à disposição da Procuradoria’.
+
+    2- A alteração da denominação do cargo de ‘procurador do município’ para ‘analista jurídico’, sem modificação de atribuições, observa a lei anterior e representa opção do legislador municipal dentro de sua seara de auto-organização, não havendo falar em ofensa ao princípio do concurso público.
+
+    3- Ação direta de inconstitucionalidade julgada parcialmente procedente.”
+
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+
+    Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais, porquanto, no caso, a suposta ofensa somente poderia ser constatada a partir da análise da legislação infraconstitucional local apontada no apelo extremo (Leis Municipais nº 1.753/2015 e 1.849/2018), o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário.
+
+    Dessarte, desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da jurisprudência deste Supremo Tribunal Federal. Aplicação da Súmula nº 280/STF: “por ofensa a direito local não cabe recurso extraordinário”. Nesse sentido:
+
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL E ADMINISTRATIVO. AÇÃO DIRETA DE INCONSTITUCIONALIDADE NO TRIBUNAL DE JUSTIÇA. PROCURADORIA DO MUNICÍPIO. CARGO EM COMISSÃO PARA A CHEFIA. ATRIBUIÇÕES TÍPICAS DE MEMBROS DA CARREIRA. SÚMULA 280 DO STF. VINCULAÇÃO À SECRETARIA MUNICIPAL DE NEGÓCIOS JURÍDICOS. AUTONOMIA MUNICIPAL. DESPROVIMENTO DO AGRAVO REGIMENTAL. 1.Eventual divergência em relação ao entendimento adotado pelo juízo a quo acerca da constitucionalidade das atribuições conferidas a ocupantes de cargo em comissão demandaria o reexame da legislação local aplicável à espécie, o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida na Súmula 280 do STF. 2. A decisão agravada está em conformidade com a jurisprudência pacífica do Supremo Tribunal Federal de que inexistem normas constitucionais de reprodução obrigatória que imponham ao poder legislativo municipal a adoção de modelo de advocacia pública, não havendo que se restringir a auto-organização municipal para além dos parâmetros previstos no texto constitucional. 3. Agravo regimental a que se nega provimento” (RE 1292739 AgR, Relator(a): Edson Fachin, Segunda Turma, julgado em 24.5.2021, DJe 01.07.2021).
+
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO – ALEGADA VIOLAÇÃO A PRECEITO CONSTITUCIONAL – DIREITO LOCAL – SÚMULA 280/STF – REEXAME DE FATOS E PROVAS – IMPOSSIBILIDADE – SÚMULA 279/STF – PRECEDENTES – SUCUMBÊNCIA RECURSAL (CPC, ART. 85, § 11) – MAJORAÇÃO DA VERBA HONORÁRIA – PRECEDENTE (PLENO) – NECESSÁRIA OBSERVÂNCIA DOS LIMITES ESTABELECIDOS NO ART. 85, §§ 2º E 3º DO CPC – A EVENTUAL CONCESSÃO DA GRATUIDADE NÃO EXONERA O BENEFICIÁRIO DOS ENCARGOS FINANCEIROS DECORRENTES DE SUA SUCUMBÊNCIA (CPC, ART. 98, § 2º) – INCIDÊNCIA, NO ENTANTO, QUANTO À EXIGIBILIDADE DE TAIS VERBAS, DA CONDIÇÃO SUSPENSIVA A QUE SE REFERE O § 3º DO ART. 98 DO CPC – ABUSO DO DIREITO DE RECORRER – IMPOSIÇÃO DE MULTA (1% SOBRE O VALOR CORRIGIDO DA CAUSA), SE UNÂNIME A VOTAÇÃO (CPC, ART. 1.021, § 4º) – AGRAVO INTERNO IMPROVIDO” (ARE 1231869 AgR, Rel. Min. Celso De Mello, 2ª Turma, DJe de 15.5.2020).
+
+    “AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NOS SEGUNDOS EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO. DIREITO ADMINISTRATIVO E OUTRAS MATÉRIAS DE DIREITO PÚBLICO. AÇÃO DIRETA DE INCONSTITUCIONALIDADE. REMUNERAÇÃO DE SERVIDOR PÚBLICO INVESTIDO NO CARGO DE SECRETÁRIO MUNICIPAL. REVOGAÇÃO DO ART. 67 DA LEI 6.203/1988 E O ART. 77 DA LEI 6.309/1988. EMENDA PARLAMENTAR QUE ACRESCENTOU O REFERIDO DISPOSITIVO A PROJETO DE LEI DE INICIATIVA PRIVATIVA DO CHEFE DO PODER EXECUTIVO. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356/STF. NECESSIDADE DE REEXAME DE NORMAS INFRACONSTITUCIONAIS LOCAIS. INCIDÊNCIA DA SÚMULA 280/STF. SUPOSTA AFRONTA AOS PRINCÍPIOS CONSTITUCIONAIS DO CONTRADITÓRIO, DA AMPLA DEFESA E DO DEVIDO PROCESSO LEGAL. DEMONSTRAÇÃO DE REPERCUSSÃO GERAL (TEMA 660). AUSÊNCIA DE OFENSA AO ART. 93, IX, DA CONSTITUIÇÃO FEDERAL (TEMA 339 DA REPERCUSSÃO GERAL). AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO, COM APLICAÇÃO DE MULTA. I As razões do agravo regimental são inaptas para desconstituir os fundamentos da decisão agravada, que, por isso, se mantêm hígidos. II Ausência de prequestionamento das questões constitucionais suscitadas. Incidência da Súmula 282/STF. Ademais, se os embargos declaratórios não foram opostos com a finalidade de suprir a omissão, é inviável o recurso, nos termos da Súmula 356 do Supremo Tribunal Federal. III É inadmissível o recurso extraordinário quando sua análise implica a revisão da interpretação de normas infraconstitucionais locais que fundamentam o acórdão recorrido. Incidência da Súmula 280/STF. IV O Supremo Tribunal Federal, ao julgar o ARE 748.371-RG (Tema 660), de relatoria do Ministro Gilmar Mendes, rejeitou a repercussão geral da controvérsia referente à suposta ofensa aos princípios constitucionais do contraditório, da ampla defesa e do devido processo legal, quando o julgamento da causa depender de prévia análise de normas infraconstitucionais, por configurar situação de ofensa indireta à Constituição Federal. V Conforme assentado no julgamento do AI 791.292-QO-RG/PE (Tema 339 da Repercussão Geral), de relatoria do Ministro Gilmar Mendes, o art. 93, IX, da Lei Maior exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, ainda que sejam corretos os fundamentos da decisão. VI Agravo regimental a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4°, do CPC/2015” (RE 1278802 ED-segundos-ED-AgR, Rel. Min. Ricardo Lewandowski, 2ª Turma, DJe de 03.11.2021).
+
+    Quanto à interposição do apelo extremo pelo permissivo da alínea “c” do art. 102, III, da CF/1988, também não se mostra cabível o recurso, deixando o Tribunal de origem de julgar válida lei ou ato de governo local contestado em face da Constituição Federal. Colho como precedentes o RE 633.421-AgR/MS, 1ª Turma, Rel. Min. Cármen Lúcia, unânime, DJe 12.4.2011; e o RE 597.003-AgR/RJ, 2ª Turma, Rel. Min. Eros Grau, unânime, DJe 29.5.2009, verbis:
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. POLICIAL MILITAR. PROMOÇÃO. LEI COMPLEMENTAR ESTADUAL N. 53/1990. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. INADMISSIBILIDADE DO RECURSO EXTRAORDINÁRIO PELAS ALÍNEAS ‘C’ E ‘D’ DO INC. III DO ART. 102 DA CONSTITUIÇÃO DA REPÚBLICA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. (…) 1. A controvérsia foi decidida com fundamento na legislação local. Incidência da Súmula n. 280 do Supremo Tribunal Federal. 2. Acórdão recorrido que não julgou válida lei ou ato de governo local contestado em face da Constituição, tampouco julgou válida lei local contestada em face de lei federal. Inviabilidade da admissão do recurso extraordinário interposto com fundamento nas alíneas ‘c’ e ‘d’ do artigo 102, III, da Constituição. 3. Agravo regimental a que se nega provimento.”
+
+    Por conseguinte, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+
+    Nego seguimento (art. 21, § 1º, do RISTF). Honorários advocatícios majorados em 10% (dez por cento), em desfavor da parte recorrente, caso fixada a verba honorária na origem, observados os limites previstos nos §§ 2º, 3º e 11 do art. 85 do CPC/2015, bem como a eventual concessão do benefício da gratuidade da Justiça.
+
+    Publique-se.
+
+    Brasília, 18 de agosto de 2022.
+
+Ministra Rosa Weber
+
+Relatora
