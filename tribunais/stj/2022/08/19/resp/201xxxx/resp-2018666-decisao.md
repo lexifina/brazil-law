@@ -1,0 +1,59 @@
+DECISÃO
+VALDENIRA ALVES COELHO (VALDENIRA)ajuizou ação de cobrança de benefício do seguro obrigatório DPVAT em desfavor de PORTO SEGURO COMPANHIA DE SEGUROS GERAIS (PORTO SEGURO COMPANHIA), cujos pedidos foram julgados parcialmente procedentes para condenar a ré a pagar à parte autora ovalor de R$ 337,50 (trezentos e trinta e sete reais e cinquenta centavos),corrigido monetariamente pelo INPC, a contar do sinistro (Súmula n. 580/STJ), e acrescido de juros legais moratórios de 1% ao mês a contar da data da citação (STJ, Súmula 426), deixando, porém, de condená-la em danos morais, além de honorários advocatícios de R$ 1.000,00 (mil reais)  e-STJ, fls. 487/488 .
+Irresignada, PORTO SEGURO COMPANHIA interpôs apelação, que foi desprovida pelo Relator em decisão monocrática, contra a qual foi interposto agravo interno, que foi desprovido pelo Tribunal de Justiça de Mato Grosso, nos termos do acórdão assim ementado:
+AGRAVO INTERNO - APELAÇÃO CÍVEL - AÇÃO DE COBRANÇA - SEGURO DPVAT - VERBA HONORÁRIA - FIXAÇÃO POR APRECIAÇÃO EQUITATIVA - ART. 85, §8º DO CPC - ENTENDIMENTO DOMINANTE - MONOCRÁTICA MANTIDA - ART. 1.021, §4º DO CPC - APLICAÇÃO DE MULTA - PREQUESTIONAMENTO - INADMISSIBILIDADE - RECURSO DESPROVIDO.
+Se a apelação está em confronto com entendimento dominante, o relator pode negar-lhe seguimento monocraticamente, com amparo na Súmula 568 do STJ.
+O § 8º do art. 85 do CPC/2015 é norma de caráter excepcional, deaplicação subsidiária, para as hipóteses em que o proveito econômico for inestimável ou irrisório ou, ainda, quando o valor da causa for muito baixo, permitindo, assim, que a verba honorária seja arbitrada por equidade (STJ AgInt no REsp 1778552/DF)  e-STJ, fls. 540/541 .
+Irresignada, PORTO SEGURO COMPANHIA interpôs recurso especial, com fundamento no art. 105, a e c, da CF, apontando a violação dos seguintes dispositivos legais: (1) art. 85, § 2º, do NCPC, ao aduzir a necessidade de redução dos honorários advocatícios fixados por equidade pelo Tribunal mato-grossense em R$ 1.200,00 (mil e duzentos reais), porquanto a manutenção desse patamar se revelaria desproporcional e exorbitante à luz da condenação. Também indicou dissídio jurisprudencial, tendo por paradigma precedente desta Corte Superior; e (2) art. 1.021, § 4º, do NCPC, sob os argumentos de que o aresto recorrido não teria sido fundamentado e nem seria devida a multa resultante de suposta ilegalidade na interposição de agravo interno contra a decisão monocrática, porquanto a penalidade teria sido aplicada de forma automática, sem declinar as bases pelas quais estaria configurada a manifesta inadmissibilidade ou improcedência do recurso, que não se reveste de caráter abusivo ou protelatório. Ainda apontou dissenso pretoriano, tendo por paradigma julgado do STJ.
+Em juízo de admissibilidade, a Vice-Presidência do TJMT admitiu o referido apelo nobre (e-STJ, fls. 1.052/1.055).
+É o relatório.
+DECIDO.
+O inconformismo merece prosperar em parte.
+De plano, vale pontuar que o presente recurso especial foi interposto contra acórdão publicado na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo n.º 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+(1) Dos honorários advocatícios
+A pretensão cinge-se em estabelecer se os honorários sucumbenciais arbitrados pelo § 8º do art. 85 do NCPC podem ser fixados em valor superior a 20% do valor da condenação.
+Ao apreciar o tema, o Tribunal mato-grossense consignou que a fixação dos honorários em R$ 1.000,00 (mil reais), seria razoável para retribuir o trabalho desempenhado pelo causídico, à luz dos incisos do § 2º do art. 85 do NCPC.
+Veja-se:
+Como se vê, o valor da condenação é irrisório e, conforme o entendimento dominante é permitido o uso da regra contida no §8º do art. 85 do CPC. Assim, a quantia a ser definida deve recompensar com dignidade e equilíbrio o desempenho profissional, mas sem gerar enriquecimento ilícito.
+Em vista de todo o exposto, a utilização §2º do artigo citado, ainda que em percentual máximo (20%), resultaria em R$ 67,50, o que não remunera de maneira adequada o advogado. Desse modo, o valor de R$ 1.000,00 estipulados na sentença são apropriados ao caso e ao reconhecimento da sua importância para o funcionamento da Justiça.
+Logo, restou consignado de forma clara na decisão agravada que a fixação da verba honorária até mesmo no percentual máximo previsto no art. 85.
+§2º do CPC não seria suficiente para remunerar de maneira adequada o trabalho desenvolvido pelo advogado da agravada, e que, segundo já pacificado pelo STJ, o julgador deve decidir o montante por apreciação equitativa, porém não restrita aos limites de 10% a 20% (e-STJ, fl. 545).
+In casu, a Corte mato-grossense expressamente consignou que se trata de trâmite processual que ensejou trabalho desenvolvido na esfera recursal que atrai a fixação por equidade, de modo que alterar esta conclusão não é cabível na via estreita do recurso especial por força do óbice do enunciado da Súmula n.º 7 do STJ.
+Assim, tem-se que esta Corte Superior já teve a oportunidade de se pronunciar no sentido de que o arbitramento dos honorários sucumbenciais por equidade não está vinculado aos percentuais mínimo e máximo a serem observados nas causas com proveito econômico definido, devendo ser consideradas as circunstâncias em que o trabalho foi realizado.
+Nesse sentido, confiram-se os seguintes precedentes:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. AÇÃO ORDINÁRIA DE REVISÃO DE SUPLEMENTAÇÃO DE APOSENTADORIA. OMISSÃO INEXISTENTE. REPACTUAÇÃO. NÃO ADESÃO. PRESCRIÇÃO. PARCELAS SUCESSIVAS. CÓDIGO DE DEFESA DO CONSUMIDOR. FALTA DE INTERESSE. REDUÇÃO. HONORÁRIOS. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+(..)
+6. É orientação pacífica nesta Corte de não ser possível, por meio de recurso especial, rever os critérios de justiça e de razoabilidade utilizados pelas instâncias ordinárias para fixação da verba advocatícia, haja vista tal providência depender da reapreciação dos elementos fático-probatórios do caso concreto, excetuadas as hipóteses em que o valor se afigura manifestamente ínfimo ou exorbitante, o que não se verifica na espécie.
+7. Na verba honorária arbitrada com base na equidade (art. 20, § 4º, do CPC/1973), o magistrado não está adstrito aos limites de 10% (dez por cento) a 20% (vinte por cento) inscritos no § 3º do art. 20 do CPC/1973, de sorte que pode, inclusive, arbitrar valor fixo.
+8. Agravo interno não provido.
+(AgInt nos EDcl no REsp 1.557.013/SE, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. 3/12/2018, DJe 6/12/2018)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. REVISÃO. INVIABILIDADE. APRECIAÇÃO EQUITATIVA. NECESSIDADE DE REEXAME FÁTICO. SÚMULA 7/STJ. ART. 85, § 2º, DO CÓDIGO DE PROCESSO CIVIL/2015. LIMITAÇÃO. NÃO OCORRÊNCIA.SÚMULA 83/STJ. NÃO PROVIMENTO.
+ .. .
+3. Na apreciação equitativa, o magistrado não está restrito aos limites percentuais estabelecidos no art. 85, § 2º, do Código de Processo Civil/2015. 4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.173.218/RS, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, DJe 15/6/2018)
+(2) Da multa
+O TJMT assim se manifestou por ocasião do julgamento do agravo interno sobre a aplicação da multa prevista no art. 1.021, § 4º, do NCPC. Confira-se:
+Isso posto, nego provimento ao recurso e, comino à agravante multa de 2% sobre o valor corrigido da causa, nos termos do art. 1.021, § 4º, do CPC (e-STJ, fl. 548).
+Assim, a insurgência recursal merece ser provida para afastar a sanção prevista no art. 1.021, § 4º, do NCPC, uma vez que foi aplicada, de forma automática, por ocasião da simples interposição de agravo interno contra a decisão monocrática que desproveu o agravo de instrumento.
+De acordo com a jurisprudência desta Corte, a multa não é devida em virtude do mero manejo do recurso, exigindo-se nítido propósito abusivo ou protelatório, na esteira das seguintes ementas:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. NÃO OCORRÊNCIA. AGRAVO DE INSTRUMENTO. DESCABIMENTO CONTRA DECISÃO QUE, NO CASO, FIXOU PONTO CONTROVERTIDO E DEFERIU A PRODUÇÃO DE PROVAS. INEXISTÊNCIA DE DECISÃO PARCIAL DE MÉRITO. INTERPRETAÇÃO DO ART. 356, I E II, § 5º, C/C O ART. 1.015, II, DO CPC/2015. APLICAÇÃO DA MULTA PREVISTA NO § 4º DO ART. 1.021 DO NCPC. NÃO CABIMENTO. RECURSO DESPROVIDO.
+1. A jurisprudência desta Corte já assentou o entendimento de que "é possível ao Relator negar seguimento a recurso manifestamente inadmissível, improcedente ou prejudicado não ofendendo, assim, o princípio da colegialidade. Ademais, com a interposição do agravo regimental, fica superada a alegação de nulidade pela violação ao referido princípio, ante a devolução da matéria à apreciação pelo Órgão Julgador"
+(AgRg no REsp n. 1.113.982/PB, Relatora a Ministra Laurita Vaz, DJe de 29/8/2014).
+(..)
+4. A aplicação da multa prevista no § 4º do art. 1.021 do CPC/2015 não é automática, não se tratando de mera decorrência lógica do desprovimento do agravo interno em votação unânime. A condenação do agravante ao pagamento da aludida multa, a ser analisada em cada caso concreto, em decisão fundamentada, pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória, o que, contudo, não se verifica na hipótese.
+5. Agravo interno desprovido.
+(AgInt no AREsp 1.411.485/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 1º/7/2019, DJe 6/8/2019)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. RETIFICAÇÃO DE REGISTROS PÚBLICOS. IMÓVEL. PEDIDO DE PROVIDÊNCIA. ADMINISTRATIVO. ART. 1.015 DO CPC/2015. AGRAVO. CABIMENTO. PERDA DO OBJETO. SUPERVENIÊNCIA DE SENTENÇA DE MÉRITO. PREJUDICIALIDADE. MULTA. ART. 1.021 DO CPC/2015.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2 A superveniência de sentença de mérito, mediante cognição exauriente, enseja a perda de objeto do recurso especial oriundo de decisão interlocutória.
+3. A Segunda Seção decidiu que a aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015 não é automática, pois não se trata de mera
+decorrência lógica da rejeição do agravo interno.
+4. Agravo interno não provido.
+(AgInt nos EDcl no REsp 1.745.432/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. 10/6/2019, DJe 14/6/2019)
+Nessas condições, DOU PARCIAL PROVIMENTO ao recurso especial para afastar a multa do art. 1.021, § 4º, do NCPC.
+Inaplicável a majoração dos honorários recursais.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE COBRANÇA DE SEGURO DPVAT. (1) CONDENAÇÃO DE VALOR REDUZIDO. HONORÁRIOS SUCUMBENCIAIS FIXADOS DE FORMA EQUITATIVA (ART. 85, § 8º, DO NCPC). PERCENTUAIS PREVISTOS NO ART. 85, § 2º, DO NCPC. INAPLICABILIDADE. PRECEDENTES. (2) AGRAVO INTERNO. IMPOSIÇÃO DA MULTA DO ART. 1.021, § 4º, DO NCPC. APLICAÇÃO AUTOMÁTICA. REJEIÇÃO DA PENALIDADE. JULGADOS. RECURSO ESPECIAL PROVIDO EM PARTE.
