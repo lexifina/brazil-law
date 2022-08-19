@@ -1,0 +1,36 @@
+DECISÃO
+Trata-sede recurso especial interposto por TG SÃO PAULO EMPREENDIMENTOS IMOBILIÁRIOS S.A.,com base no art. 105, inciso III, alínea"a", da Constituição Federal,contra acórdão proferido pelo Tribunal de Justiça do Estado de São Pauloassim ementado:
+"COMPRA E VENDA. RESCISÃO CONTRATUAL C/C RESTITUIÇÃO DE VALORES PAGOS. CULPADOS COMPRADORES. Insurgência da vendedora contra sentença de procedência parcial. Manutenção. Notificação extrajudicial não implica pronta rescisão contratual porque depende de manifestação judicial. Precedentes do C. STJ. Inadmissibilidade,ademais, de leilão extrajudicial realizado nos termos do art. 63 da Lei 4.591/1964 que não se aplica no caso de incorporação imobiliária. Impossibilidade de a vendedora reter a integralidade das quantias pagas pelos compradores (art. 53 do CDC). Direito de retenção da vendedora entre 10% e 25% das quantias pagas, conforme jurisprudência iterativa. Retenção em 20% dos valores de acordo com os parâmetros jurisprudenciais. Inaplicabilidade da cláusula contratual porque abusiva, nos termos do CDC. Irretroatividade da Lei 13.786/2018. Recurso desprovido" (fl. 248e-STJ).
+Nas razões do recurso especial, o recorrente sustenta violação dos artigos104, 476 do Código Civil; 485 do Código de Processo Civil de 2015; 63, § 4º, da Lei nº 4.591/1964.
+Aduz que "como comprovado nos autos de origem, após efetivos cálculos realizados, constatou-se saldo negativo em favor da Recorrida, não havendo que se falar em restituição de 90% dos valores pagos"(fl. 294e-STJ).
+Menciona que não háfalar em devolução de valores.
+Contrarrazões às fls. 322/336e-STJ.
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+No que se refere aos arts. 104, 476 do Código Civil e 485do CPC/2015,verifica-se que não foramobjeto de debate pelasinstâncias ordináriase não houve oposição de embargos declaratórios.
+Nessa circunstância, ausente o requisito do prequestionamento, incide o disposto na Súmula nº 282 do STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada".
+No mais, observa-se dos autos que a Corte local decidiu a matéria com base nos seguintes argumentos:
+"(..)
+Com efeito, embora o leilão extrajudicial previsto no artigo 63, § 1º da Lei 4.591/19641 tenha sido realizado em maio de 2015 (ou seja, antes do ajuizamento da presente ação), isso não retirava o interesse processual dos autores quanto à rescisão contratual e à devolução de valores. Afinal, a notificação extrajudicial da vendedora acerca da mora (cf. ps. 174/175) não era suficiente para a rescisão contratual, dependendo, na verdade, de manifestação judicial, conforme entendimento do Superior Tribunal de Justiça.
+Em segundo lugar, tem-se que a execução extrajudicial prevista na lei acima mencionada diz respeito ao contrato de empreitada a preço de custo ou por administração, que não se confunde com o caso dos autos de incorporação imobiliária.
+(..)
+Ademais, de longa data, no termos do artigo 53 do Código de Defesa do Consumidor, a jurisprudência tem afastado a pretensão da vendedora à retenção integral dos valores pagos pelo comprador inadimplente, devendo-se estabelecer uma retenção, em regra, entre 10% (dez por cento) e 25% (vinte e cinco por cento) dos valores pagos"(fls. 249/250e-STJ).
+Ofundamento referente à aplicação do CDC, entretanto, não foiobjeto de impugnação pela parte recorrente, atraindo a incidência da Súmula nº 283/STF, aplicada por analogia: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Nesse sentido:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE RESCISÃO. COMPRA E VENDA DE IMÓVEL. 1.FALTA DE PREQUESTIONAMENTO DE DISPOSITIVO OU TEMA ALEGADO. SÚMULA 211/STJ. 2. OFENSA A ENUNCIADO DE SÚMULA. NÃO CABIMENTO DO APELO ESPECIAL. SÚMULA 518/STJ. 3. RESTITUIÇÃO DOS VALORES PAGOS. SÚMULA 543/STJ. DIREITO DE RETENÇÃO. PERCENTUAL DE 25% DOS VALORES PAGOS. PRECEDENTE DA SEGUNDA SEÇÃO. 4. ARRAS CONFIRMATÓRIAS. RETENÇÃO. IMPOSSIBILIDADE. PRECEDENTES. 5. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA 283/STF.6. DEVOLUÇÃO DOS GASTOS COM LEILÃO EXTRAJUDICIAL. REVISÃO. SÚMULA 7/STJ. 7. AGRAVO IMPROVIDO.
+1. O entendimento jurisprudencial vigente no Superior Tribunal de Justiça consolidou-se no sentido de ser imprescindível, para conhecimento e julgamento do recurso especial, o prévio debate da tese perante a instância originária, sob pena de incidência das Súmulas 282/STF e 211/STJ.
+2. Não cabe ao Superior Tribunal de Justiça apreciar a violação a verbete sumular em recurso especial, visto que o enunciado não se insere no conceito de lei federal, previsto no art. 105, III, a, da Constituição Federal, consoante dispõe a Súmula 518 desta Corte.
+3. De fato, nos casos de desistência imotivada pelo comprador de imóvel, não havendo nenhuma particularidade que justifique a redução, deve-se estabelecer a retenção de 25% (vinte e cinco por cento) dos valores pagos para indenizar o construtor das despesas gerais e desestimular o rompimento unilateral do contrato.
+4. Partindo da premissa estabelecida pelo acórdão recorrido de que as arras eram confirmatórias, verifica-se que adotou entendimento em conformidade com a jurisprudência desta Corte, a qual assinala que "o arrependimento do promitente comprador não importa perda das arras, se forem confirmatórias, admitindo-se, contudo, a retenção, pelo vendedor, de parte das prestações pagas, como forma de indenizá-lo pelos prejuízos suportados" (AgInt no AREsp 1.273.751/DF, Relator o Ministro Antonio Carlos Ferreira, DJe de 1º/8/2018).
+5. A manutenção de argumento que, por si só, sustenta o acórdão recorrido torna inviável o conhecimento do apelo especial, atraindo a aplicação do enunciado n. 283 da Súmula do Supremo Tribunal Federal.
+6. A revisão da conclusão alcançada pelo Tribunal de origem acerca do pedido de abatimento dos valores gastos com o leilão extrajudicial não prescindiria do reexame do acervo fático-probatório da causa, o que não se admite em âmbito de recurso especial, ante o óbice da Súmula 7 deste Tribunal.
+7. Agravo interno a que se nega provimento"
+(AgInt no REsp 1.861.254/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 18/5/2021, DJe 24/5/2021).
+Ademais, rever os argumentos trazidos noacórdão recorrido demandaria apreciar todo o conjunto fático-probatório dos autos, bem como cláusula contratual, o que encontra óbice nas Súmulas 5 e 7/STJ.
+Não cabe ao Superior Tribunal de Justiça reexaminar as premissas de fato que levaram o tribunal de origem a tal conclusão, sob pena de usurpar a competência das instâncias ordinárias, a quem compete amplo juízo de cognição da lide.
+Ante o exposto não conheço do recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 15% (quinzepor cento) sobre o valor da condenação- fl. 252e-STJ, os quais devem ser majorados para o patamar de 17% (dezessetepor cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil de 2015.
+Publique-se.
+Intimem-se.
