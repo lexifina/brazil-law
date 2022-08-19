@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de agravo interposto por VITALMAR COMÉRCIO E INDÚSTRIA DE PESCADOS LTDA. E OUTROS contra a decisão que inadmitiu recurso especial. O apelo extremo, com fundamento no artigo 105, III, "a", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado de Santa Catarina, assim ementado:
+"APELAÇÃO CÍVEL. RECURSO INTERPOSTO PELO EMBARGADO APÓS O PRAZO PROCESSUAL. ARTIGO 1.003, § 5º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. INTEMPESTIVIDADE MANIFESTA. CÉDULA DE CRÉDITO BANCÁRIO PARA REPASSE DE RECURSOS EXTERNOS. DEMONSTRATIVO DO DÉBITO QUE SE AFIGURA SUFICIENTE E VÁLIDO, NOTADAMENTE PORQUE HOUVE A IMPOSIÇÃO AO CREDOR DA ELABORAÇÃO DE UM NOVO EM FACE DO RECONHECIMENTO DO EXCESSO DE EXECUÇÃO. ARTIGO 614, INCISO II, DO CÓDIGO DE PROCESSO CIVIL DE 1973 (CORRESPONDENTE AO ARTIGO 798, INCISO I, ALÍNEA "B", DO CÓDIGO DE PROCESSO CIVIL DE 2015). JULGAMENTO ANTECIPADO DA LIDE. CERCEAMENTO DE DEFESA INEXISTENTE. MATÉRIA DEBATIDA QUE NÃO RECLAMA A PRODUÇÃO DA PROVA PERICIAL. TÍTULO EXECUTIVO EXTRAJUDICIAL FORMALMENTE PERFEITO. ARTIGO 28 DA LEI N. 10.931, DE 2.8.2004. COMISSÃO DE PERMANÊNCIA QUE NÃO FOI PACTUADA E NEM EXIGIDA. DISCUSSÃO INÓCUA. JUROS REMUNERATÓRIOS NO PERÍODO DA INADIMPLÊNCIA QUE JÁ ESTÃO LIMITADOS À TAXA DA NORMALIDADE. AUSÊNCIA DE INTERESSE RECURSAL. CLÁUSULA QUE ESTABELECE A OBRIGAÇÃO DA MUTUÁRIA DE PAGAMENTO DO IMPOSTO DE RENDA SOBRE OS JUROS DO EMPRÉSTIMO EXTERNO DEVIDOS PELO EMBARGADO AO CREDOR EXTERNO. LEGALIDADE. ARTIGO 11, PARÁGRAFO ÚNICO, DO DECRETO-LEI N. 401, DE 30.12.1968. MAJORAÇÃO DOS HONORÁRIOS ADVOCATICIOS EM RAZÃO DO TRABALHO REALIZADO NAS CONTRARRAZÕES PELO ADVOGADO DO EMBARGADO. ARTIGO 85, § 11, DO CÓDIGO DE PROCESSO CIVIL DE 2015. RECURSO DO EMBARGADO NÃO CONHECIDO E RECURSO DAS EMBARGANTES DESPROVIDO" (fl. 453, e-STJ).
+Os embargos de declaração opostos foram rejeitados (fls. 482/486, e-STJ).
+No especial, os recorrentes apontam violação dos arts. 1.022, 485, IV, e 798, I, "b", do Código de Processo Civil de 2015 e 614 do Código de Processo Civil de 1973, argumentando, em síntese:
+(i) haver contradição no acórdão;
+(ii) a nulidade da execução ou, alternativamente, o reconhecimento de cerceamento de defesa, pois não tiveram condições de se defender plenamente em relação aos encargos lançados pela instituição financeira; e
+(iii) que, diante da ausência de juntada de demonstrativo atualizado do débito idôneo quando da propositura da execução, deve ser reconhecida a ausência de pressupostos de constituição e de desenvolvimento válido e regular do processo.
+Apresentadas contrarrazões às fls. 530/537 (e-STJ).
+O Presidente do tribunal de origem inadmitiu o recurso especial, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+O tribunal de origem dirimiu a controvérsia nos seguintes termos:
+"(..)
+O demonstrativo da evolução do débito apresentado nos autos da ação de execução (fl. 44 do SAJPG), embora suscinto, atendeu plenamente as exigências do inciso II do artigo 614 do Código de Processo Civil de 1973 (artigo 798, inciso I, alínea "b", do Código de Processo Civil de 2015), pois permitiu ao magistrado e às embargantes compreenderem tudo quanto estava sendo exigido, uma vez que houve a indicação do saldo devedor em moeda estrangeira e nacional, da taxa de conversão, além da atualização do valor exigido com a indicação dos encargos incidentes.
+E, porque houve o reconhecimento do excesso de execução no tocante à exigência de juros capitalizados em periodicidade inferior à anual, determinou-se a elaboração de um novo demonstrativo de débito, a providência que pode e deve ser tomada na sentença, assim sendo sanada a nulidade arguida.
+De qualquer modo, a circunstância de o demonstrativo apresentado não ter sido mais claro em relação à incidência dos encargos pactuados, não inviabilizou a revisão do título executivo. Ou seja, o julgamento antecipado do feito não cerceou o direito de defesa dos embargantes, sendo suficientes os documentos apresentados para o exame do pedido inicial, que dependia apenas de um pronunciamento de direito.
+Então, a providência eleita pelo magistrado era mesmo necessária e indispensável, consoante o disposto no artigo 355, inciso I do Código de Processo Civil de 2015: "O juiz julgará antecipadamente o pedido, proferindo sentença com resolução de mérito, quando (..) não houver necessidade de produção de outras provas".
+(..)
+No caso concreto, a realização da prova pericial seria providência inócua, até porque o exame da legalidade dos encargos cobrados no título que suporta a execução é feito a partir do que nele foi convencionado, não havendo a necessidade da prova técnica para discussão a respeito da validade de cláusulas contratuais" (fl. 450, e-STJ - grifou-se).
+De início, no tocante à violação do art. 1.022 do Código de Processo Civil de 2015, verifica-se que o tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese. Não há falar, portanto, em existência de omissão ou de deficiência de fundamentação apenas pelo fato de o julgado recorrido ter decidido em sentido contrário à pretensão da parte.
+Quanto ao mérito, diante das premissas fáticas estabelecidas no acórdão, a reforma do aresto demandaria o reexame de matéria fático-probatória, providência inviável em recurso especial, haja vista o óbice da Súmula nº 7/STJ.
+Ademais, a determinação da realização de provas é uma faculdade do magistrado, incumbindo-lhe sopesar sua necessidade e indeferir diligências inúteis, protelatórias ou desnecessárias.
+Dessa forma, o juízo acerca da produção da prova compete soberanamente às instâncias ordinárias, e o seu reexame, na estreita via do recurso especial, encontra óbice na Súmula nº 7/STJ.
+Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. LEGITIMIDADE. AVAL. OUTORGA UXÓRIA. APRESENTAÇÃO DEMONSTRATIVO ATUALIZADO DO DÉBITO. REEXAME DE CONTEÚDO FÁTICO-PROBATÓRIO. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA.
+(..)
+3. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático dos autos (Súmula n. 7 do STJ).
+4. No caso concreto, para alterar a conclusão do Tribunal a quo de que é suficiente a planilha constante nos autos para demonstrar o valor atualizado do débito, seria necessária nova análise de matéria fática, inviável em recurso especial.
+5. Agravo interno a que se nega provimento" (AgInt nos EDcl no REsp n. 1.685.979/MS, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 21/2/2022, DJe de 25/2/2022).
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE REVISÃO CONTRATUAL. CUMPRIMENTO DE SENTENÇA. CÁLCULOS. ELABORAÇÃO FUNDAMENTADA E NOS TERMOS DO TÍTULO EXECUTIVO. PRETENSÃO RECURSAL. DEMANDA QUE ENVOLVE O REEXAME DE PROVAS. APLICAÇÃO DA SÚMULA Nº 7 DO STJ. OFENSA A ENUNCIADO SUMULAR. INVIABILIDADE. SÚMULA Nº 518 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL. NÃO DEMONSTRAÇÃO, NOS MOLDES LEGAIS. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+2. A alteração das conclusões do aresto recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula nº 7 do STJ.
+(..)
+5. Agravo interno não provido" (AgInt no AREsp n. 1.759.727/MS, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 22/3/2021, DJe de 25/3/2021).
+"AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. REPARAÇÃO DE DANOS MATERIAIS E MORAIS. PERDA DO ÔNIBUS PELA PASSAGEIRA. TRANSPORTE INTRAESTADUAL. FATOS ALEGADOS APENAS EM RÉPLICA. CERCEAMENTO DE DEFESA INOCORRÊNCIA PROVA DOCUMENTAL PRODUZIDA ILIDIU NECESSIDADE DE PROVA TESTEMUNHAL PRETENDIDA. SÚMULA 7/STJ. INCIDÊNCIA. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DO ACÓRDÃO. SÚMULA 283/STF. AGRAVO INTERNO DESPROVIDO.
+1. O exame da pretensão recursal de reforma do v. acórdão recorrido - sobre a suficiência da prova documental, alegação de fatos novos em réplica, desnecessidade de dilação probatória para a oitiva de prova testemunhal - exigiria o revolvimento e a alteração das premissas fático-probatórias estabelecidas pelo v. acórdão recorrido, o que é vedado em sede de recurso especial, nos termos dos enunciados de Súmula 7 do STJ.
+2. A subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado impõe o não conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula nº 283/STF. Aplicação analógica.
+3. Agravo Interno não provido" (AgInt no AREsp 1.387.149/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 30/05/2019, DJe 04/06/2019).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INDENIZATÓRIA. DANOS MORAL E MATERIAL. PROVA PERICIAL E TESTEMUNHAL. INDEFERIMENTO. PRINCÍPIO DO LIVRE CONVENCIMENTO MOTIVADO. REVISÃO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. INDENIZAÇÃO. PREJUÍZOS. AUSÊNCIA DE COMPROVAÇÃO. REEXAME FÁTICO-PROBATÓRIO. SÚMULA Nº 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. O nosso sistema processual civil é orientado pelo princípio do livre convencimento motivado, cabendo ao julgador determinar as provas que entender necessárias à instrução do processo, bem como indeferir aquelas que considerar inúteis ou protelatórias.
+3. É firme a jurisprudência desta Corte Superior no sentido de que compete às instâncias ordinárias exercer juízo acerca da necessidade ou não da produção de prova pericial e testemunhal, haja vista sua proximidade com as circunstâncias fáticas da causa, cujo reexame é vedado em recurso especial, a teor da Súmula nº 7/STJ.
+(..)
+6. Agravo interno não provido" (AgInt no AREsp 1.488.982/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 16/11/2020, DJe 24/11/2020).
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Na origem, os honorários advocatícios foram fixados em 11% (onze por cento) sobre o valor atualizado da causa, os quais devem ser majorados para 15% (quinze por cento) em favor do advogado do recorrido, observada a assistência gratuita, se for o caso.
+Publique-se.
+Intimem-se.
