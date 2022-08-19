@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo Estado de Goiás, com fundamento no art. 105, III, a,da Constituição Federal.
+Na origem, o Sindicato dos Peritos Criminais e Médicos Legistas do Estado de Goiás- SINDPERÍCIAS e a Associação dos Peritos em Criminalística do Estado de Goiás- ASPEC-GO impetraram mandado de segurança contra ato supostamente ilegal do Secretário de Estado da Segurança Pública do Estado de Goiás, objetivando o pagamento do abono de permanência a todos seus filiados.
+Deu-se à causa o valor de R$ 500,00 (quinhentosreais) em setembro de 2020.
+OTribunal de Justiça do Estado de GoiásTerritórios concedeu a segurança, conforme acórdão assim ementado (fls. 279-280):
+MANDADO DE SEGURANÇA. PAGAMENTO DE ABONO DE PERMANÊNCIA AOS SERVIDORES PÚBLICOS ESTADUAIS FILIADOS AO SINDICATO E À ASSOCIAÇÃO IMPETRANTES. AUSÊNCIA DE PROVA PRÉ CONSTITUÍDA NA MODALIDADE INADEQUAÇÃO DA VIA ELEITA. PRELIMINAR REJEITADA. SUSPENSÃO DO PAGAMENTO DE ABONO DE PERMANÊNCIA. AFRONTA AO DIREITO LÍQUIDO E CERTO CONFIGURADA.
+1. A preliminar de inadequação da via eleita, suscitada pelo Estado de Goiás em sua contestação, não merece prosperar pois, em análise dos autos, verifica-se a presença de provas pré-constituídas dos fatos alegados.
+2. A atual redação do art. 40, § 19º da Constituição Federal, dada pela Emenda Constitucional nº 103, de 2019, prevê a possibilidade de concessão do abono de permanência segundo os "critérios a serem estabelecidos em lei do respectivo ente federativo"
+3. O Estado de Goiás, através da Emenda Constitucional Estadual nº 65/2019, referendou as alterações advindas da reforma federal de previdência, passando a prever, em seu artigo 97, §19, que a concessão do abono de permanência também se dará observando os " critérios a serem estabelecidos em lei do Estado e dos Municípios".
+4. Até o presente momento, não houve a publicação de nova lei "estabelecendo os novos critérios", conforme exigido pelo artigo 97, §19, da Emenda Constitucional Estadual nº 65/2019,o que nos leva a concluir que, não tendo sido revogada e não estando em conflito com a ECE nº 65/2019, deve ser aplicada a norma específica antiga que dispõe sobre a matéria, qual seja, a Lei Estadual n º 77/201.
+5. Ao contrário do que fez constar o parecer exarado pela Procuradoria-Geral do Estado, utilizado como fundamento no despacho que negou o pleito dos servidores, aqui ato coator, não houve a revogação implícita do texto constitucional que garante o direito ao recebimento do abono permanência, razãopela qual a segurança deve ser concedida, a fim de garantir o direito dos substituídos dos Impetrantes ao recebimento do abono de permanência, conforme solicitado na inicial. SEGURANÇA CONCEDIDA.
+Opostos embargos de declaração, foram estes rejeitados.
+Contra a decisão cuja ementa encontra-seacima transcrita, foi interposto o presente recurso especial,apontando violação dos arts. 489e 1.022, do CPC/2015, sustentando, em síntese, que o acórdão recorrido deixou de se manifestar sobre questão essencial ao deslinde da controvérsia.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+É o relatório. Decido.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18/3/2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+De inicio, da análise do acórdãono que tange à indicada violação dos arts. 489 e 1.022,do CPC/2015, não se vislumbra a alegação de que o acórdão recorrido não se manifestou acerca de pontos tidos como essenciais para o julgamento da lide.
+De acordo com a orientação do Superior Tribunal de Justiça, os embargos de declaração destinam-se a suprir eventual omissão, obscuridade ou contradição, não tendo o Órgão Julgador a obrigação de se manifestar expressamente acerca de todos as disposições legais que as partes entendam ser aplicáveis, devendo, é claro, motivar suas decisões, de maneira fundamentada.
+Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. PRESCRIÇÃO INTERCORRENTE. APLICAÇÃO DA SÚMULA 106/STJ. REEXAME PROBATÓRIO. SÚMULA 7/STJ. ART. 1.022 DO CPC/2015. ERRO MATERIAL, OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU CARÊNCIA DE FUNDAMENTAÇÃO. AUSÊNCIA.
+1. Os embargos declaratórios, nos termos do art. 1.022, e seus incisos, do CPC/2015, são cabíveis quando houver: a) obscuridade; b) contradição; c) omissão no julgado, incluindo-se nesta última as condutas descritas no art. 489, § 1º, que configurariam a carência de fundamentação válida; ou d) o erro material. No caso dos autos, tais hipóteses não estão presentes.
+2. Não há vício de fundamentação quando o aresto recorrido decide integralmente a controvérsia de maneira sólida e fundamentada, tal qual se constata no caso concreto.
+3. A análise da tese recursal que busca afastar a aplicação da Súmula 106/STJ demanda incursão na seara probatória, o que não é cabível na via especial. Incidência da Súmula 7/STJ.
+4. Esta Corte Superior possui entendimento de que a existência de penhora no rosto dos autos do processo falimentar impõe à Fazenda Pública a paralisação do executivo fiscal até que se verifique a possibilidade de satisfação do crédito, sem que essa paralisação seja imputada à inércia do ente público.
+5. Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp 600.416/MG, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 21/03/2017, DJe 27/03/2017.)
+Nesse panorama, a oposição dos embargos declaratórios caracterizou, tão somente, a irresignação doembargante diante de decisão contrária a seus interesses, o que não viabiliza o referido recurso.
+No mais, na hipóteses dos autos, no que tange a violação apontada, verifica-se que a questão demanda a análise da leis locais, providência vedada em sede de recurso especial. Desse modo, aplicável, por analogia, o enunciado da Súmula n. 280, do STF, segundo o qual por ofensa ao direito local não cabe recurso extraordinário, ensejando o não conhecimento do recurso especial.
+Nesses termos:
+ACÓRDÃO FUNDAMENTADO EM LEI LOCAL. INCIDÊNCIA, POR ANALOGIA, DA SUMULA 280 DO STF. DIVERGÊNCIA JURISPRUDENCIAL. ANÁLISE PREJUDICADA.
+1. Verificar a violação apontada ao art. 1º da Lei Complementar Federal 51/1985 demanda a análise de lei local (Lei Complementar Estadual 1.062/2008), o que não é adequado em Recurso Especial (Súmula 280 do STF).
+2. Fica prejudicada a análise da divergência jurisprudencial, uma vez que a tese sustentada já foi afastada no exame do Recurso Especial pela alínea "a" do permissivo constitucional. Precedentes do STJ. 3. Recurso Especial não conhecido.
+(REsp 1672416 / SP, 2017/0104622-0, Rel. Ministro Herman Benjamin, julgado em 05/09/2017, DJe 13/09/2017.)
+Ante o exposto, com fundamento no art. 255, § 4º, I e II, do RISTJ, conheço parcialmente do recurso especial e, nessa parte, nego-lhe provimento.
+Publique-se. Intimem-se.
