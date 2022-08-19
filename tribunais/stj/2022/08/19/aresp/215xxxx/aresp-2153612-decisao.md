@@ -1,0 +1,15 @@
+DECISÃO
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. POLICIAL MILITAR. GRATIFICAÇÃO NATALINA. BASE DE CÁLCULO. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULAS 282 E 356 DO STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+1. Agrava-se dadecisão que inadmitiu o recurso especial interposto por EDMILSON SILVA e OUTROS, com fundamento no art. 105, inciso III, alíneaa, da CF/1988, no qual se insurgiracontra acórdão proferido pelo Tribunal de Justiça do Estado da Paraíba, assim ementado:
+REMESSA NECESSÁRIA E APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C COBRANÇA. PROCEDÊNCIA. INCONFORMISMO. POLICIAL MILITAR. GRATIFICAÇÃO NATALINA. CÁLCULO QUE DEVE EXCLUIR AS VERBAS INDENIZATÓRIAS. INOBSERVÂNCIA. REFORMA DA SENTENÇA. PROVIMENTO DO RECURSO E DA REMESSA.
+- A base de cálculo do décimo terceiro salário deve corresponder à remuneração do servidor, em cujo montante devem ser incluídas as vantagens pecuniárias (adicionais e gratificações) e excluídas as verbas de natureza indenizatórias, tais como auxílio-transporte, auxílio-moradia, auxílio-alimentação, auxílio-saúde, auxílio-educação, auxílio-creche, ajuda de custo, diárias, hora extra, prêmio Paraíba Unidade pela Paz.
+- A análise detida das fichas financeiras apresentadas demonstra que os pagamentos do décimo terceiro observaram corretamente a base de cálculo, incluindo o soldo, os adicionais e gratificações e excluindo as verbas de caráterindenizatório, motivo pelo qual merece reparo o posicionamento do magistrado, devendo a demanda ser julgada improcedente(fls. 128/129).
+2. Nasrazões do seurecurso especial (fls. 142/158), a parte agravante sustentaviolação doart.373, I, do CPC/2015.Alega, para tanto, que comprovoupor meio de prova documental que os valores relativos à gratificação natalinasão bem inferiores aos valores devidos.
+3. Aparte agravada não apresentou as contrarrazões, conforme certidão de fls. 160.
+4. Sobreveio o juízo de admissibilidade negativo(fls. 165/167),fundado na falta de prequestionamento do dispositivo tido por violado (Súmulas 282 e 356/STF),razão pela qual se interpôs o presente agravo em recurso especial, ora em análise.
+5. É o relatório.
+6. A irresignação não merece prosperar.
+7. Inicialmente, é importante ressaltar que o presente recurso atrai a incidência do Enunciado Administrativo 3 do STJ, segundo o qual aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+8. Com efeito, verifico que o art. 373, I, do CPC/2015realmentenão foi apreciado pelo Tribunal de origem, tampouco foram opostos embargos de declaração com o objetivo de sanar eventual omissão da questão de direito controvertida. A ausência de enfrentamento pelo Tribunal de origem da matériaà luz do dispositivo tido por contrariadoimpede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento. Incidência, por analogia, das Súmulas 282 e 356 do STF.
+9. Diante do exposto, conheço do agravo para não conhecer do recurso especial.
+10. Publique-se. Intimem-se.
