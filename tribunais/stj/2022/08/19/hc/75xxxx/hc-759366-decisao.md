@@ -1,0 +1,65 @@
+DECISÃO
+Cuida-se dehabeas corpuscom pedido liminar impetrado em favor de SILVANO DA SILVA NUNES contra acórdão doTRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, proferido no julgamento do Agravo de Execução Penal n. 5103107-96.2022.8.21.7000/RS.
+Consta dos autos que opaciente foicondenadodefinitivamente à pena de 1 ano de reclusão, em regime inicial aberto,pela prática do crime previsto no art. 155 do Código Penal, e teve declarada em seu favor pelo Juízo da execução penal a extinção da punibilidade pela incidência da prescrição da pretensão executória.
+Irresignado, o Ministério Público interpôs Agravo em Execução Penal perante o Tribunal de origem, o qual deu provimento ao recurso nos termos da seguinte ementa:
+"AGRAVO EM EXECUÇÃO. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. INOCORRÊNCIA. O PRAZO PRESCRICIONAL DA PRETENSÃO EXECUTÓRIA REGULA-SE PELA PENA APLICADA, CONFORME PREVISTO NO ARTIGO 110 DO CÓDIGO PENAL. INÍCIO DA CONTAGEM DO PRAZO. ARTIGO 112, INCISO I, DO CÓDIGO PENAL. INCIDÊNCIA DO ARTIGO 117, INCISO IV, DO CÓDIGO PENAL COMO MARCO INTERRUPTIVO. A PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA PRESSUPÕE A INÉRCIA DO TITULAR DO DIREITO DE PUNIR. SE O SEU TITULAR SE ENCONTRAVA IMPOSSIBILITADO DE EXERCÊ-LO EM RAZÃO DO ENTENDIMENTO ANTERIOR DO SUPREMO TRIBUNAL FEDERAL QUE VEDAVA A EXECUÇÃO PROVISÓRIA DA PENA, NÃO HÁ COMO SE CONCLUIR PELA INÉRCIA DO TITULAR DA PRETENSÃO EXECUTÓRIA. O ACÓRDÃO QUE CONFIRMA A SENTENÇA CONDENATÓRIA, JUSTAMENTE POR REVELAR PLENO EXERCÍCIO DA JURISDIÇÃO PENAL, É MARCO INTERRUPTIVO DO PRAZO PRESCRICIONAL, NOS TERMOS DO ART. 117, IV, DO CÓDIGO PENAL. TEMA DE REPERCUSSÃO GERAL 788. PRECEDENTES DO STF. AGRAVO MINISTERIAL PROVIDO" (fl. 135).
+No presentewrit,a impetrante sustenta que aregraprevista na partefinal do artigo 117, IV, do Código Penal, éválidaapenaspara a interrupção do prazo prescricional relativo à pretensão punitiva, não sendo aplicável para a pretensão executória da pena.
+Requer, liminarmente, a suspensão dos efeitos do acórdão impetrado. No mérito, pugna pela concessão da ordem para que seja confirmada a medida liminar.
+Liminar deferida às fls. 142/145.
+Informações prestadas às fls. 150/151 e 152/169.
+O Ministério Público do Estado do Rio Grande do Sul manifestou-se às fls. 171/177 na condição de interessado.
+O Ministério Público Federal opinou pela concessão da ordem, conforme parecer de fls. 178/179.
+É o relatório.
+Decido.
+Diante da hipótese dehabeas corpussubstitutivo de recurso próprio, a impetração sequer deveria ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal - STF e do próprio Superior Tribunal de Justiça - STJ. Contudo, considerando as alegações expostas na inicial, razoável a análise do feito para verificar a existência de eventual constrangimento ilegal que justifique a concessão da ordem de ofício.
+O voto condutor do acórdão impugnado trouxe o seguinte:
+"Compulsando os autos verifica-se que o agravado foi condenado pelo crime de furto, nos autos do processo nº 082/2.14.0000923-3, à pena privativa de liberdade de 01 (um) ano de reclusão, em regime aberto.
+A sentença condenatória transitou em julgado para o Ministério Público em 09/04/2017 (sequencial 42.1 - SEEU).
+Pois bem, o cerne da discussão paira sobre o marco inicial da prescrição da pretensão executória.
+O tema, dada sua relevância, está em análise em incidente de repercussão geral no Supremo Tribunal Federal:
+Tema 788 - Termo inicial para a contagem da prescrição da pretensão executória do Estado: a partir do trânsito em julgado para a acusação ou a partir do trânsito em julgado para todas as partes.
+Não obstante, há forte inclinação da Corte Suprema no sentido de que para se falar em prescrição executória, necessária a existência de trânsito em julgado para a acusação e para a defesa, pois não tendo o Estado possibilidade de iniciar a execução da pena antes do trânsito em julgado da decisão condenatória, não se pode falar em inércia do titular da pretensão executória.
+Nesse sentido:
+ ..
+Com efeito, o prazo para a incidência deste instituto regula-se pela pena aplicada, de acordo com o artigo 110, caput, do Código Penal.
+Contudo, quanto ao início da contagem do prazo, prevê o art. 112, inciso I, do Código Penal:
+Art. 112 - No caso do art. 110 deste Código, a prescrição começa a correr:
+I - do dia em que transita em julgado a sentença condenatória, para a acusação, ou a querevoga a suspensão condicional da pena ou o livramento condicional;
+II - do dia em que se interrompe a execução, salvo quando o tempo da interrupção deva computar-se na pena.
+Já o artigo 117, inciso IV, do Código Penal assim preceitua:
+"Art. 117 - O curso da prescrição interrompe-se:
+ ..
+IV - pela publicação da sentença ou acórdão condenatórios recorríveis; (Redação dada pela Lei nº 11.596, de 2007)".
+Considerando-se que a legislação penal constitui-se de um sistema de regras harmônicas, coerentes e convergentes, passou-se a admitir a incidência do inciso IV do artigo 117 do Código Penal como marco interruptivo da prescrição, pois não teria organicidade impor-se ao titular da pretensão executória o ônus de uma inércia sobre ato que não poderia exercer.
+A interpretação mais consistente acerca desse sistema de normas implica deva ser considerada a publicação da sentença ou acordão condenatórios recorríveis como marco interruptivo da prescrição, tendo em vista que enquanto não transitada em julgado a sentença condenatória, não pode o Estado executar a pena do condenado" (fls. 132/133).
+Em que pese o Supremo Tribunal Federal ter admitido a repercussão geral da matéria em debate no âmbito do Tema 788 ("Termo inicial para a contagem da prescrição da pretensão executória do Estado: a partir do trânsito em julgado para a acusação ou a partir do trânsito em julgado para todas as partes"),não foi determinada a suspensão dos processos em trâmite, estando pendente o julgamento definitivo.
+Assim, deve ser aplicado ao caso em análise a jurisprudência consolidada no âmbito desta Corte Superior, segundo a qual deve prevalecer a literalidade do art. 112, inciso I, do Código Penal, para que se considere como marco inicial da prescrição da pretensão executório o trânsito em julgado para a acusação, e não para ambas as partes.
+Nesse sentido:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. PRESCRIÇÃO EXECUTÓRIA. TERMO INICIAL. TRÂNSITO EM JULGADO PARA ACUSAÇÃO. INÍCIO DA CONTAGEM EFETIVA DO PRAZO. TRÂNSITO EM JULGADO DA CONDENAÇÃO. INEXISTÊNCIA DE DIVERGÊNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Segundo a orientação desta Corte, firmada no âmbito das duas Turmas que compõem a Terceira Seção, o termo inicial para a contagem do prazo prescricional da pretensão executória é o trânsito em julgado da sentença condenatória para a acusação, e não para ambas as partes. Entretanto, a contagem desse prazo somente se inicia com o efetivo trânsito em julgado da condenação. Inexistência, portanto, de divergência jurisprudencial.
+2. Agravo regimental não provido.
+(AgRg nos EAREsp 1567753/RJ, Rel. Ministro ROGERIO SCHIETTI CRUZ, TERCEIRA SEÇÃO, DJe 14/06/2021).
+AGRAVO REGIMENTAL EM HABEAS CORPUS. DECISÃO QUE CONCEDEU LIMINARMENTE A ORDEM. AUSÊNCIA DE PRÉVIA OITIVA DO MINISTÉRIO PÚBLICO FEDERAL. POSSIBILIDADE. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. TERMO INICIAL. TRÂNSITO EM JULGADO PARA A ACUSAÇÃO. PRETENSÃO DE MODIFICAÇÃO DO DECISUM. INVIABILIDADE. PRECEDENTES.
+1. Embora seja necessária, em regra, a abertura de prazo para a manifestação do Parquet antes do julgamento do habeas corpus, as disposições estabelecidas nos arts. 64, III, e 202 do RISTJ e no art. 1º do Decreto-Lei n. 522/1969 não afastam do relator o poder de decidir monocraticamente a impetração nos casos em que a decisão impugnada confrontar súmula do Superior Tribunal de Justiça ou a jurisprudência dominante acerca do tema (art. 34, XX, do RISTJ).
+2. Na hipótese em exame, o que há é decisão contrária aos interesses da parte, uma vez que foi explicitamente afirmado que a orientação jurisprudencial pacífica desta Corte é a de que o termo a quo para contagem do prazo, para fins de prescrição da pretensão executória, é a data do trânsito em julgado para a acusação, e não para ambas as partes, prevalecendo a interpretação literal do art. 112, I, do Código Penal, mais benéfica ao condenado (AgRg nos EDcl nos EREsp n.1.376.031/PR, Ministro Antonio Saldanha Palheiro, Terceira Seção, DJe 12/2/2021). Precedentes.
+3. Agravo regimental improvido.
+(AgRg no HC 665.439/DF, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, DJe 21/06/2021).
+Com efeito, em se tratando de prescrição da pretensão executória, o superveniente julgamento do recurso de apelação não tem o condão de interromper o curso do prazo prescricional, diferente do que acontece no cálculo da prescrição da pretensão punitiva.
+A propósito:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. 1. ACÓRDÃO CONFIRMATÓRIO. MARCO INTERRUPTIVO. ART. 117, IV, CP. DISPOSITIVO QUE SE REFERE À PRETENSÃO PUNITIVA. 2. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. TERMO A QUO. ART. 112, I, DO CP. INTERPRETAÇÃO SISTEMÁTICA X INTERPRETAÇÃO BENÉFICA. 3. MANUTENÇÃO DA JURISPRUDÊNCIA DO STJ. PRINCÍPIO DA RESERVA LEGAL. 4. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. A tese recentemente firmada pelo Supremo Tribunal Federal (HC 176.473/RR, Tribunal Pleno, Rel. Ministro Alexandre de Moraes, julgado em 27/4/2020, DJe 5/5/2020), no sentido de que o acórdão meramente confirmatório também é causa interruptiva da prescrição, não se aplica à hipótese dos autos, haja vista o marco interruptivo previsto no art. 117, inciso IV, do Código Penal, dizer respeito à prescrição da pretensão punitiva, e não da pretensão executória.
+2. Não se desconhece decisão da Primeira Turma do STF, no sentido de que não ser possível prescrever aquilo que não pode ser executado, dando assim interpretação sistemática ao art. 112, I, do CP, à luz da jurisprudência do STF, segundo a qual só é possível a execução da decisão condenatória depois do trânsito em julgado, o que impediria o curso da prescrição (RE 696.533/SC, Rel. Ministro ROBERTO BARROSO, julgamento em 6/2/2018).
+3. Nada obstante, cuidando-se de decisão proferida por órgão fracionário daquela Corte, em controle difuso, mantenho o entendimento pacífico do STJ, "no sentido de que, conforme disposto expressamente no art. 112, I, do CP, o termo inicial da contagem do prazo da prescrição executória é a data do trânsito em julgado para a acusação, e não para ambas as partes, prevalecendo a interpretação literal mais benéfica ao condenado" (AgRg nos EAREsp n. 908.359/MG, Terceira Seção, Relator Ministro NEFI CORDEIRO, DJe de 2/10/2018).
+4. Agravo regimental a que se nega provimento.
+(AgRg no HC 663.402/DF, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 08/06/2021, DJe 14/06/2021).
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO PENAL. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. TERMO INICIAL. TRÂNSITO EM JULGADO PARA A ACUSAÇÃO. ACÓRDÃO CONFIRMATÓRIO DA CONDENAÇÃO. INTERRUPÇÃO DO PRAZO PRESCRICIONAL APENAS EM RELAÇÃO À PRESCRIÇÃO DA PRETENSÃO PUNITIVA. ANÁLISE. ALEGAÇÕES. NATUREZA CONSTITUCIONAL. INVIABILIDADE. VIA INADEQUADA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A prescrição penal obedece à legalidade estrita. Assim, deve prevalecer a interpretação literal do art. 112, inciso I, do Código Penal, mais benéfica ao condenado, ou seja, o termo inicial da prescrição da pretensão executória é a data do trânsito em julgado da sentença condenatória para a Acusação, segundo orientação consolidada na jurisprudência desta Corte Superior.
+2. O acórdão que confirma a condenação somente interrompe o prazo da prescrição da pretensão punitiva, motivo pelo qual o marco interruptivo disposto no art. 117, inciso IV, do Código Penal, não alcança a prescrição executória. Precedentes da Quinta e Sexta Turmas.
+3. Não compete ao Superior Tribunal de Justiça, na via do recurso especial, manifestar-se sobre alegações de natureza constitucional, ainda que para fins de prequestionamento.
+4. Agravo regimental desprovido.
+(AgRg no REsp 1965408/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 08/03/2022, DJe 14/03/2022).
+Desse modo, o Tribunal de origem, no acórdão impugnado, divergiu da orientação da Quinta e Sexta Turmas desta Corte Superior.
+No caso em análise, conforme consta da decisão de primeiro grau (fls. 73/76), o trânsito em julgado para o Ministério Público ocorreu em 9/4/2017, sendo que até 22/3/2022ainda não havia iniciado a execução da pena.
+Tratando-se de condenação por crime de furto que totalizou 1 ano de reclusão, e transcorridos mais de 4 anos entre os devidos marcos interruptivos, de rigor o restabelecimento da decisão que reconheceu a extinção da pena pela prescrição da pretensão executória.
+Ante o exposto, com fundamento no art. 34, inciso XVIII, alíneaa, do Regimento Interno do Superior Tribunal de Justiça, não conheço da presente impetração.Contudo, concedo a ordem dehabeas corpus, de ofício,para restabelecer a decisão do Juízo das Execuções de fls. 73/76e, consequentemente, reconhecer a prescrição da pretensão executória em favor do ora paciente.
+Publique-se.
