@@ -1,0 +1,61 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - LIQUIDAÇÃO DE SENTENÇA - ACÓRDÃO DESTE ÓRGÃO FRACIONÁRIO QUE ACOLHEU O AGRAVO INTERNO E DEU PROVIMENTO AO RECURSO ESPECIAL PARA RECONHECER A INCIDÊNCIA DE PRECLUSÃO E A INOCORRÊNCIA DE VIOLAÇÃO À COISA JULGADA, COM O CONSEQUENTE RESTABELECIMENTO DA SENTENÇA DE LIQUIDAÇÃO DE FLS. 1463-1466.
+INSURGÊNCIA RECURSAL DA AGRAVANTE.
+1. Os embargos de declaração somente são cabíveis quando houver, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material, consoante dispõe o artigo 1.022 do CPC/2015.
+2. Inexistindo quaisquer máculas no julgado, não há razão para modificar a deliberação impugnada, notadamente quando a pretensão recursal é nitidamente infringente.
+3. Embargos de declaração rejeitados.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quarta Turma do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Luis Felipe Salomão (Presidente), Raul Araújo e Maria Isabel Gallotti votaram com o Sr. Ministro Relator.
+Impedido o Sr. Ministro Antonio Carlos Ferreira.
+RELATÓRIO
+O SR. MINISTRO MARCO BUZZI (Relator):
+Cuida-se de embargos de declaração opostos por CAIXA ECONÔMICA FEDERAL, em face do acórdão de fls. 1738-1779, proferido pelo colegiado desta Quarta Turma que, à unanimidade, em sede de agravo interno interposto pela parte ora embargada, deu provimento ao recurso especial e, reconhecendo a incidência de preclusão e a inocorrência de violação à coisa julgada, restabeleceu a sentença de liquidação de fls. 1463-1466.
+Eis a ementa do referido julgado:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA RECURSAL DA AGRAVANTE.
+1. A súmula 7/STJ, nos moldes em que preconizada por inúmeros precedente desta Casa, utilizada quando da análise de questões envolvendo coisa julgada e cálculos de perícia e liquidação, não encontra aplicabilidade ao caso dos autos.
+2. Nos termos da jurisprudência do STJ, os critérios utilizados na liquidação de sentença para a formação do valor do débito sofrem preclusão, se não impugnados oportunamente, como no caso concreto. Precedentes.
+3. Considerando as peculiaridades dos autos, notadamente a ausência de violação à coisa julgada, a incidência de preclusão quanto aos critérios que deveriam ser utilizados para o cálculo da indenização e a irreal probabilidade de se lograr alcançar, por quaisquer parâmetros que se utilize para a elaboração de cálculos, o real valor de mercado do imóvel à época em que ocorridos os fatos, deve-se dar provimento ao reclamo especial para restabelecer a sentença de liquidação de fls. 1463-1466.
+4. Agravo interno acolhido para dar provimento ao recurso especial e, reconhecendo a incidência de preclusão e a inocorrência de violação à coisa julgada, restabelecer a sentença de liquidação de fls. 1463-1466.
+Depreende-se dos autos que o agravo interno fora interposto por Vanio Coelho e outro em face da decisão monocrática de fls. 1691-1692, da lavra deste signatário, que negou provimento ao recurso especial, ante o fundamento segundo o qual seria inviável, por força do óbice da súmula 7/STJ, averiguar se a sentença proferida na liquidação de sentença violou ou não a coisa julgada por aventada inobservância dos parâmetros fixados no título judicial transitado em julgado, por importar em revolvimento do acervo fático-probatório dos autos.
+Levado o feito a julgamento perante o colegiado da Quarta Turma, essa relatoria propôs fosse negado provimento ao agravo interno e mantida a deliberação monocrática.
+Seguiu-se pedido de vista pelo e. Ministro Luis Felipe Salomão, que apresentou voto divergente, para acolher o agravo interno e dar "provimento ao recurso especial para, reconhecendo a preclusão da matéria e a inocorrência de violação à coisa julgada, reestabelecer a sentença de liquidação de fls. 1463-1466".
+Sua Excelência sustentou ser inaplicável o óbice da Súmula 7/STJ ao caso. Na fundamentação do voto apresentado afirma que "a discussão principal - critérios definidos para a liquidação de sentença - está acobertada pelo manto da preclusão, ainda que, posteriormente, tenha concluído o acórdão pela vulneração da coisa julgada", inexistindo possibilidade de redefinir os critérios objetivos para a definição do quantum devido ao autor, ora agravante.
+Teceu considerações acerca da ocorrência de preclusão ao caso, julgamento extra petita cometido pelo Tribunal a quo, não vulneração da coisa julgada e a consequente adequação da decisão homologatória dos cálculos do perito que se amparou em critério previamente admitido pelas partes para que se alcançasse o valor indenizatório devido.
+Ante as ponderações, em sede de vista regimental, retificou-se o voto proposto a fim de acolher o agravo interno e dar provimento ao recurso especial para, reconhecer a incidência de preclusão e a inocorrência de violação à coisa julgada, com o consequente restabelecimento da sentença de liquidação de fls. 1463-1466.
+Irresignada, a financeira opõe aclaratórios (fls. 1781-1785) aduzindo, em síntese, existir omissão no julgado acerca de três pontos:
+a) é imprescindível promover uma análise do conteúdo do ato praticado pelo juízo singular às folhas 1357, reputado pela Quarta Turma como decisão acobertada pela preclusão, pois, efetivamente, não se trata de ato com conteúdo decisório, mas mero despacho ordinatório determinando a apuração do débito segundo determinados critérios indicados pelo perito judicial, sendo desse modo irrecorrível;
+b) a financeira "se manifestou em inúmeras oportunidades nos autos pugnando exatamente pela adoção dos parâmetros que vieram a ser acolhidos pelo egrégio Tribunal no julgamento da apelação em face da sentença homologatória dos cálculos - essa sim, sujeita a recurso sob pena de preclusão", sendo, portanto, necessário verificar fls. 1326/1328, 1369/1373, 1406/1409 e 1450/1451;
+c) "não há que se falar em preclusão de pronunciamento judicial proferido em fase de liquidação quando esse pronunciamento contraria o próprio título judicial exequendo".
+Impugnação às fls. 1788-1791.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - LIQUIDAÇÃO DE SENTENÇA - ACÓRDÃO DESTE ÓRGÃO FRACIONÁRIO QUE ACOLHEU O AGRAVO INTERNO E DEU PROVIMENTO AO RECURSO ESPECIAL PARA RECONHECER A INCIDÊNCIA DE PRECLUSÃO E A INOCORRÊNCIA DE VIOLAÇÃO À COISA JULGADA, COM O CONSEQUENTE RESTABELECIMENTO DA SENTENÇA DE LIQUIDAÇÃO DE FLS. 1463-1466.
+INSURGÊNCIA RECURSAL DA AGRAVANTE.
+1. Os embargos de declaração somente são cabíveis quando houver, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material, consoante dispõe o artigo 1.022 do CPC/2015.
+2. Inexistindo quaisquer máculas no julgado, não há razão para modificar a deliberação impugnada, notadamente quando a pretensão recursal é nitidamente infringente.
+3. Embargos de declaração rejeitados.
+VOTO
+O SR. MINISTRO MARCO BUZZI (Relator):
+Os embargos de declaração não merecem acolhimento, visto que a embargante não demonstra a existência de nenhum vício a macular o julgado, possuindo o recurso nítido caráter infringente.
+1. Nos estreitos lindes do artigo 1.022 do Código de Processo Civil de 2015, o recurso de embargos de declaração objetiva somente suprir omissão, dissipar obscuridade, afastar contradição ou sanar erro material encontrável em decisão ou acórdão, não podendo ser utilizado como instrumento para a rediscussão do julgado, como pretende a embargante.
+Verifica-se que o colegiado da Quarta Turma, no julgamento do agravo interno, foi categórico ao asseverar que não houve recurso por parte de qualquer dos contendores da decisão que determinou a feitura dos cálculos com base nos três parâmetros (fl. 1357), sendo tal assertiva, inclusive, corroborada pela afirmativa da própria financeira nas razões do agravo de instrumento interposto na origem.
+Evidentemente, não há falar que tal deliberação fosse mero despacho ordinatório, dado que a referida decisão interlocutória resolveu uma controvérsia afeta à impossibilidade de adequada apuração dos valores devidos conforme o título judicial, como também estabeleceu o modo como deveria se dar a elaboração da prova pericial.
+Somente após a nova feitura de cálculos pelo perito - esses realizados com fulcro nos três parâmetros apresentados segundo a manifestação do experto às fls. 1300-1301 - e o acolhimento, pelo magistrado, dos cálculos apurados com base no critério do item "1", segundo o qual se alcançou o valor de R$ 586.932,00 a ser pago como indenização referente à diferença entre o valor que os autores pagaram pela compra do imóvel e o outro imóvel consoante o preço de mercado, é que se insurgiu a financeira, via agravo de instrumento, pleiteando a alteração do critério acolhido para que fosse utilizado o documento de fl. 1228, datado de agosto de 1985 e, portanto, mais próximo de junho de 1985 e não o laudo de avaliação acolhido pela decisão agravada, que fora elaborado em março de 1986.
+A irresignação da instituição financeira limitou-se a questionar a não adoção do apontado "documento" como parâmetro para a liquidação, documento este que seria diverso dos critérios anteriormente definidos pelo juízo - e que, conforme o magistrado, não seria apto para os fins propostos.
+Inegavelmente, tal pleito não era de ser acolhido, pois formulado extemporaneamente, ou seja, quando já havia ocorrido a preclusão para que as partes se insurgissem acerca dos preceitos a serem utilizados para se alcançar, de maneira mais próxima possível, o valor de mercado do bem à época em que ocorridos os fatos, tudo para apurar a diferença determinada pelo título judicial transitado em julgado.
+É cediço que a falta de adequada impugnação das decisões enseja a aplicação do instituto da preclusão, na espécie, consoante se dessume dos seguintes julgados:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE BUSCA E APREENSÃO. CUMPRIMENTO DE SENTENÇA. DISCUSSÃO SOBRE OS CRITÉRIOS DE ELABORAÇÃO DOS CÁLCULOS PERICIAIS. AUSÊNCIA DE MANIFESTAÇÃO NO MOMENTO APROPRIADO. PRECLUSÃO. AGRAVO INTERNO NÃO PROVIDO.
+1. Nos termos da jurisprudência do STJ, os critérios utilizados na liquidação de sentença para a formação do valor do débito sofrem preclusão, se não impugnados oportunamente, como no caso concreto. Precedentes.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1464166/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 20/02/2020, DJe 18/03/2020)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AO ART. 1.022 DO CPC/2015. CRITÉRIOS UTILIZADOS NA LIQUIDAÇÃO DA SENTENÇA. PRECLUSÃO. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83 DO STJ. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+(..)
+2. Os critérios utilizados na liquidação de sentença para a formação do valor do débito sofrem preclusão, por constituírem questões de direito. Precedentes.
+(..)
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1413644/MT, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 29/10/2019, DJe 07/11/2019)
+Assim, sob a assertiva de omissão no julgado, as razões dos embargos revelam tão somente o intuito de reapreciação da matéria face a insatisfação da parte com o resultado do julgado. Nota-se que a embargante pretende, na verdade, que a Turma reveja o posicionamento adotado quanto ao acolhimento do agravo interno da parte adversa e consequente provimento do recurso especial.
+Referida pretensão não está em harmonia com a natureza e a função dos embargos declaratórios, notadamente quando não demonstrado, em suas razões recursais, qualquer omissão, contradição ou obscuridade que o julgado embargado tenha incorrido, tampouco erro material ou inexatidão.
+2. Do exposto, rejeita-se os embargos de declaração.
+É o voto.
