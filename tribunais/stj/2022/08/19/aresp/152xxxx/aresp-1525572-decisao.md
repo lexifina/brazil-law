@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo interposto pelo MUNICÍPIO DE SÃO PAULO contra decisão que inadmitiu recurso especial que objetiva reformar acórdão assim ementado:
+TRIBUTÁRIO - AGRAVO DE INSTRUMENTO - AÇÃO ANULATÓRIA - MUNICÍPIO DE SÃO PAULO - ISSQN - Insurgência contra r. decisão que negou o pleito de tutela antecipada - Superveniência de sentença que extinguiu a execução fiscal - Perda de objeto do recurso - Resta prejudicado o agravo de instrumento ante a ausência de interesse recursal - Recurso prejudicado.
+Atribuiu-se à causa o valor de R$ 600.000,00 (seiscentos mil reais).
+Os embargos de declaração opostos foram parcialmente acolhidos, porém sem efeitos infringentes.
+No presente recurso especial, o recorrente aponta violação do art.1.022, II, do CPC/2015 alegando, em síntese, omissão no acórdão recorrido porquanto teria deixado de se pronunciar sobre a validade da garantia apresentada para fins de expedição de certidão positiva com efeitos de negativa e sobre seu interesse em ver julgado o agravo interposto mesmo diante de sentença superveniente.
+Alega, também, violação do art. 946 do CPC/2015, sustentando, em suma, a possibilidade de conhecimento de agravo de instrumento mesmo quando já proferida sentença de primeiro grau.
+Aduz, ainda, malferido os arts. 151, II, e 206, do CTN, alegando, em resumo, ser indevida a concessão de tutela antecipara pra a emissão da certidão positiva com efeito de negativa, além do afastamento da inscrição no CADIN>
+Contrarrazões pela manutenção do acórdão recorrido.
+Após decisum que inadmitiu o recurso especial foi interposto o presente agravo, tendo o recorrente apresentado argumentos visando rebater os fundamentos da decisão agravada.
+É o relatório. Decido.
+Considerando que o agravante, além de atender aos demais pressupostos de admissibilidade deste agravo, logrou impugnar a fundamentação da decisão agravada, passo ao exame do recurso especial interposto.
+Afasto a alegação de ofensa ao art. 1.022 do CPC/2015, porque não demonstrada omissão capaz de comprometer a fundamentação do acórdão recorrido ou de constituir-se em empecilho ao conhecimento do recurso especial. Citem-se, a propósito, os seguintes precedentes: EDcl nos EDcl nos EDcl na Pet n. 9.942/RS, relator Ministro Benedito Gonçalves, Primeira Seção, julgado em 8/2/2017, DJe de 14/2/2017; EDcl no AgInt no REsp n. 1.611.355/SC, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 14/2/2017, DJe de 24/2/2017; AgInt no AgInt no AREsp n. 955.180/RJ, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 14/2/2017, DJe de 20/2/2017; AgRg no REsp n. 1.374.797/MG, Segunda Turma, relator Ministro Mauro Campbell Marques, DJe de 10/9/2014.
+Quanto aos demais artigos suscitados por violados, verifica-se que no acórdão recorrido não foi analisado o conteúdo desses dispositivos legais apontados no presente recurso especial, pelo que carece o recurso do indispensável requisito do prequestionamento, imprescindível à interpretação normativa exigida.
+Incide na hipótese o óbice constante da súmula 282 do STF, in verbis:
+Súmula 282: É inadmissível o Recurso Extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada.
+Ademais, o entendimento pacífico desta Corte Superior é no sentido de que a sentença de mérito acarreta a perda de objeto do agravo de instrumento por ausência superveniente de interesse recursal.
+Neste sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AOS ARTS. 489, §1º, IV, E 1.022, II, DO CPC/2015. INEXISTÊNCIA. AGRAVO DE INSTRUMENTO. PERDA SUPERVENIENTE DE OBJETO. SÚMULA 7 DO STJ. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM PRECEDENTES DO STJ. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. AGRAVO NÃO PROVIDO.
+1. Não há falar em violação dos arts. 489 e 1.022 do CPC/2015, pois o Tribunal de origem dirimiu as questões pertinentes ao litígio, apresentando todos os fundamentos jurídicos pertinentes à formação do juízo cognitivo proferido na espécie, apenas não foi ao encontro da pretensão da parte agravante.
+2. Rever o acórdão recorrido e acolher a pretensão recursal demandaria a alteração do conjunto fático-probatório dos autos, o que é inviável nesta via especial ante o óbice da Súmula 7 do STJ.
+3. "A superveniência da sentença proferida no feito principal enseja a perda de objeto de recursos anteriores que versem sobre questões resolvidas por decisão interlocutória combatida via agravo de instrumento. Precedentes." (AgRg no REsp 1485765/SP, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 20/10/2015, DJe 29/10/2015) 4. O dissídio jurisprudencial não foi devidamente demonstrado à míngua do indispensável cotejo analítico.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 1.953.386/PR, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 11/4/2022, DJe de 19/4/2022.)
+PROCESSUAL CIVIL. ADMINISTRATIVO. VALOR DA CAUSA INFERIOR A 60 SALÁRIOS MÍNIMOS. COMPETÊNCIA ABSOLUTA DO JUIZADO ESPECIAL FEDERAL CÍVEL. AGRAVO DE INSTRUMENTO. PROLAÇÃO DE SENTENÇA DE MÉRITO. PERDA SUPERVENIENTE DO INTERESSE RECURSAL. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA.
+I - A matéria versada nestes autos consiste, em síntese, na discussão relativa a contrato de seguro habitacional, com risco de comprometimento do Fundo de Compensação de Variações Salariais - FCVS. No Tribunal a quo, o agravo de instrumento interposto foi improvido.
+II - O acórdão recorrido foi prolatado em agravo de instrumento, nos autos de ação relativa à discussão acerca de reparação de danos em imóvel financiado pelo Sistema Financeiro da Habitação, nos quais foi determinada a remessa ao juízo especial federal cível, em razão do valor da causa.
+III - Em consulta ao sítio oficial do Tribunal a quo, confirma-se a informação de que a ação originária já teve desfecho de mérito, proferida pela 2ª Vara do Juízo Especial Federal de Maringá em 24/08/2018, julgando improcedente a ação, decisão modificada em sede de recursal, extinguindo-se o feito sem resolução de mérito, em razão de o contrato de financiamento em discussão já ter sido encerrado.
+IV - Referido acórdão transitou em julgado em 17/03/2021.
+V - Nesse panorama, dada a superveniência do julgamento da ação originária, não mais persiste a discussão acerca da decisão interlocutória, nos termos do firme entendimento jurisprudencial desta Corte: AgInt no REsp 1.712.508/SP, Rel. Ministra Regina Helena Costa, Primeira Turma, julgado em 20/5/2019, DJe 22/5/2019 e EDcl no AgInt no AREsp 1.344.445/SP, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 4/6/2019, DJe 10/6/2019.
+VI - Agravo interno improvido.
+(AgInt no AREsp n. 1.538.265/PR, relator Ministro Francisco Falcão, Segunda Turma, julgado em 19/10/2021, DJe de 25/10/2021.)
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a e b, do RISTJ, conheço do agravo para conhecer parcialmente do recurso especial e, nessa parte, negar-lhe provimento.
+Publique-se. Intimem-se
