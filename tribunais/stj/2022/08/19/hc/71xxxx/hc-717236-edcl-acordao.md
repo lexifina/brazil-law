@@ -1,0 +1,28 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. RECEBIMENTO COMO AGRAVO REGIMENTAL. PRINCÍPIO DA FUNGIBILIDADE. HOMICÍDIO QUALIFICADO. PEDIDO DE EXTENSÃO DOS EFEITOS DE DECISÃO PROFERIDA PELO TRIBUNAL LOCAL.
+1. Esta Corte Superior tem compreendido que embargos declaratórios com nítidos intuitos infringentes opostos em razão de decisão monocrática devem ser recebidos como agravo regimental, em homenagem ao princípio da fungibilidade recursal.
+2. O pedido de extensão previsto no art. 580 do Código de Processo Penal "deve ser formulado perante o Juízo ou o Tribunal prolator da decisão cujos efeitos se pretendam estender" (HC 424.399/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 23/08/2018, DJe 04/09/2018).
+3. Visando o recorrente a extensão dos efeitos de decisão proferida pelo Tribunal local, deverá formular o pedido junto àquela instância, tendo em vista não ter este Superior Tribunal de Justiça atribuição para a análise da questão.
+4. Embargos de declaração recebidos como agravo regimental ao qual se nega provimento.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, receber os embargos de declaração como agravo regimental, ao qual negar provimento, nos termos do voto do Sr. Ministro Relator. A Sra. Ministra Laurita Vaz e os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO) (Relator):  Trata-se de embargos de declaração opostos contra decisão que denegou o habeas corpus.
+O embargante sustenta haver obscuridade porque "a r. decisão fez referência a pedidos de extensão de liberdade. No caso concreto, está se pedindo a extensão de pena  .. , sendo inaplicável a jurisprudência colacionada (fl. 288).
+Requer o acolhimento dos embargos, a fim de que seja deferido o pedido de extensão formulado.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO) (Relator):  Recebo como agravo regimental os embargos de declaração, porquanto opostos dentro do prazo legal, em homenagem ao princípio da fungibilidade das formas processuais, estando nesses termos a decisão agravada, no que se refere ao pedido de extensão (fls. 284-285):
+Quanto ao pedido de extensão, está sedimentado nesta Corte Superior o entendimento segundo o qual o pedido de extensão deve ser formulado nos autos do processo no qual foi prolatada a decisão cujos efeitos se pretende estender, o que não ocorre no presente caso. Neste sentido:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE ENTORPECENTES. POSSE IRREGULAR DE ARMA DE FOGO DE USO PERMITIDO. PORTE IRREGULAR DE ARMA DE FOGO DE USO RESTRITO E OUTRA COM NUMERAÇÃO SUPRIMIDA. SENTENÇA CONDENATÓRIA. NEGADO O DIREITO A RECORRER EM LIBERDADE. FUNDAMENTAÇÃO IDÔNEA. PERICULOSIDADE DO AGENTE. QUANTIDADE E VARIEDADE DE DROGA E ARMAMENTO APREENDIDOS. NECESSIDADE DE GARANTIR A ORDEM PÚBLICA. RÉU QUE PERMANECEU PRESO DURANTE A INSTRUÇÃO DO PROCESSO. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. PEDIDO DE EXTENSÃO. SITUAÇÃO FÁTICO-PROCESSUAL DIVERSA. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+7. Sedimentado nesta Corte Superior o entendimento segundo o qual o pedido de extensão deve ser formulado nos autos do processo no qual foi prolatada a decisão cujos efeitos se pretende estender, o que não se verifica na presente hipótese.
+8. Em esforço comparativo entre a situação do ora paciente e do corréu beneficiado com a liberdade provisória, não foi verificada a indispensável similitude fática-processual, razão pela qual se mostra inviável pretendida extensão de efeitos. Saliente-se que o corréu obteve a benesse no curso da instrução probatória e o paciente buscou a extensão apenas após ter sido condenado, inclusive à pena substancialmente superior.
+Habeas corpus não conhecido.
+(HC 424.399/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 23/08/2018, DJe 04/09/2018).
+No âmbito desta Corte Superior, cito as seguintes decisões monocráticas: HC 473.576/SP, Rel. Ministro Felix Fischer e HC 607028/SP, Ministro Reynaldo Soares da Fonseca.
+A decisão impugnada deve ser mantida por seus próprios fundamentos porquanto proferida nos termos do entendimento sedimentado nesta Corte Superior segundo o qual o pedido de extensão previsto no art. 580 do Código de Processo Penal "deve ser formulado perante o Juízo ou o Tribunal prolator da decisão cujos efeitos se pretendam estender" (HC 424.399/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 23/08/2018, DJe 04/09/2018).
+Na hipótese, conforme demonstrado, a defesa pugnou, de modo subsidiário, "a extensão da pena do corréu DIOGO CARVALHO DE SANTANA, que obteve êxito em seu recurso a reduzir a pena de 19 para 14 anos de reclusão" (fl. 6).
+Visando o recorrente a extensão dos efeitos de decisão proferida pelo Tribunal local, deverá formular o pedido junto ao referido órgão competente, tendo em vista não ter este Superior Tribunal de Justiça atribuição para a análise da questão.
+A parte recorrente, portanto, não trouxe argumentos capazes de reformar a decisão impugnada, que se mantém por seus próprios fundamentos, contexto no qual recebo os embargos de declaração como agravo regimental e, nessa modalidade, nego provimento ao recurso.
+É o voto.
