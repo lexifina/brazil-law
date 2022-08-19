@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso especial interposto peloMUNICIPIO DE MATINHOS com fundamento no art. 105, III, a, da Constituição Federal.
+Na origem, o município ajuizou execução fiscal, com valor da causa atribuído em R$ 1.407,10 (um mil e quatrocentos e sete reais e dez centavos), em dezembro de 2009, tendo como objetivo a cobrança de IPTU dos anos de 2004 a 2008.
+Após sentença que julgou extinta a execução fiscal, reconhecendo a prescrição intercorrente, foi interposta apelação, a qual foi improvida pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ em acórdão assim ementado:
+APELAÇÃO CÍVEL. TRIBUTÁRIO. EXECUÇÃO FISCAL. ISQN-AUTON. DESPACHO DE CITAÇÃO PROFERIDO APÓS À VIGÊNCIA DA LEICOMPLEMENTAR Nº 118/2005. INCIDÊNCIA DO ART. 174, PARÁGRAFO ÚNICO, I, DO CTN EM SUA REDAÇÃO ATUAL. SENTENÇA QUE EXTINGUIU O PROCESSO PELA PRESCRIÇÃO INTERCORRENTE. INCIDÊNCIA DOS CRITÉRIOS ESTABELECIDOS PELO STJ NO JULGAMENTO DO RECURSO ESPECIAL REPETITIVO Nº 1.340.553/RS. SUSPENSÃO DO FEITO E TRANSCURSO DO PRAZO PRESCRICIONAL SEM QUE SE OBTIVESSE ÊXITO NA LOCALIZAÇÃO DE BENS PENHORÁVEIS. PRESCRIÇÃO CONFIGURADA. EXTINÇÃO DO FEITO. CONDENAÇÃO DO MUNICÍPIO AO PAGAMENTO DAS CUSTAS PROCESSUAIS. MANUTENÇÃO. INAPLICABILIDADE DOS ARTIGOS 26 E 39 DA LEF. HIPÓTESES QUE CONFIGURAM ISENÇÃO HETERÔNOMA. VEDAÇÃO CONSTITUCIONAL (ART. 151, III DA CF). EXCLUSÃO APENAS DO VALOR DA TAXA JUDICIÁRIA. INCIDÊNCIADO ART. 3º, "I" DO DECRETO ESTADUAL Nº 962/1932. SENTENÇA MANTIDA. HONORÁRIOS ADVOCATÍCIOS RECURSAIS. FIXAÇÃO. INCIDÊNCIA DO ART. 85, § 11 DO CPC. RECURSO CONHECIDO E NÃO PROVIDO.
+No presente recurso especial, o recorrente aponta violação ao art. 40, § 4º, da Lei n. 6.830/80.Sustenta, em síntese, que não sendo possível localizar o devedor ou bens passíveis de penhora, o juiz ordenará a suspensão do processo pelo prazo de 01 (um) ano. Decorrido 01 (um) ano do pedido ou ordem de suspensão, o Juízo ordenará o arquivamento provisório da execução, determinando a intimação da Fazenda Pública. Dessa forma, o prazo para contagem da prescrição intercorrente somente se inicia após a intimação da Fazenda Pública do arquivamento provisório.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+É o relatório. Decido.
+Para reconhecer a prescrição intercorrente o acórdão recorrido assim consignou à fl. 83:
+O despacho que ordenou a citação foi proferido, quando se interrompeu a prescrição, nos termos do art. 174, inciso I, do Código Tributário Nacional. .
+O mandado de citação foi expedido e cumprido, sendo a citação obtida em da citação frutífera realizada por Aviso de Recebimento, em 23.06.2010.
+O exequente tomou ciência da citação na mesma data.
+Tem-se, portanto, que a partir de 23.06.2010 iniciou o prazo de suspensão da execução, nos termos do art. 40,caput, da Lei nº 6.830/80.
+Decorrido o prazo de suspensão em 23.06.2011, automaticamente inaugurou-se o prazo de 5(cinco) anos de prescrição, que fluiu integralmente em 23.06.2016.
+Registre-se que durante o transcurso do lapso temporal acima referido, o exequente só se manifestou uma única vez, quando requereu em14.05.2018 (mov. 5.1) solicitando prazo paraanálise dos autos e, depois em 08.04.2020 (mov. 16.1), que pugnou a realização de diligências via BACENJUD e RENAJUD (ev. 17.1).
+Assim, resta operada a prescrição intercorrente.
+A pretensão recursal de rever o posicionamento adotado no acórdão recorrido quanto a ocorrência da prescrição intercorrente teria necessariamente que passar pela revisão de todo o conjunto fático/probatório apresentado, a qual poderia até mesmo não ser suficiente, demandando outras provas. Ocorre que tal atividade probatória é típica das instâncias ordinárias, sendo vedada nas instâncias extraordinárias.
+Logo, o recurso é inviável, assim porque chegar a entendimento diverso, in casu, demandaria revolvimento fático probatório inviável em sede de Recurso Especial ante o óbice da Súmula 7/STJ.
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ não conheço do recurso especial.
+Publique-se. Intimem-se.
