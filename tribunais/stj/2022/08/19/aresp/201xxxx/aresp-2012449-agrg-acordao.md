@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Trata-se de agravo regimental interposto por JÚLIO BERNARDINO CORDIDO contra a decisão de fls. 592-593, por meio da qual o Ministro Presidente do Superior Tribunal de Justiça não conheceu do agravo em recurso especial.
+Consta da decisão hostilizada que o agravante deixou de impugnar especificamente um dos fundamentos da decisão de inadmissão do apelo raro, a saber, a incidência da Súmula n. 7 do STJ.
+No regimental, o agravante sustenta haver atacado adequadamente o referido óbice sumular.
+É o relatório.
+EMENTA
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTO DA DECISÃO DE INADMISSÃO DO RECURSO ESPECIAL NÃO ATACADO. SÚMULA N. 182 DO STJ. INCIDÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Mantém-se a aplicação analógica da Súmula n. 182 do STJ quando não há impugnação efetiva, individualizada, específica e fundamentada de todos os fundamentos da decisão que inadmite recurso especial.
+2.Para afastar a aplicação da Súmula n. 7 do STJ, não é bastante a mera afirmação de sua não incidência na espécie, devendo a parte apresentar argumentação suficiente a fim de demonstrar que, para o STJ mudar o entendimento da instância de origem sobre a questão suscitada, não é necessário reexame de fatos e provas da causa.
+3. Agravo regimental desprovido.
+VOTO
+A irresignação recursal não procede.
+Conforme se verifica da decisão de inadmissão do recurso especial, entendeu-se aplicável o óbice da Súmula n. 7 do STJ ao argumento de que a discussão acerca da fração redutora da pena em razão da tentativa demandaria o revolvimento dos fatos e provas dos autos.
+Nas razões do agravo interposto contra a decisão, o agravante ponderou:
+Finalmente, Excelência, em relação à alegação de violação ao art. 14, II, do Código Penal, a discussão travada no âmbito de um Recurso Especial é tecnicamente sobre tese jurídica, sobre direito e não sobre fatos.
+O recurso extraordinário, dirigido ao Supremo Tribunal Federal, e o Recurso Especial, para o Superior Tribunal de Justiça, constituem impugnações extraordinárias exatamente em função das características acima apontadas: são meios de impugnação que estão à disposição das partes, mas que visam na verdade à tutela do próprio direito federal; prestam-se somente ao reexame de questões de direito, excluída a análise de matéria de fato.
+Essa é a inteligência também da Súmula nº 7 do STJ: "A pretensão de simples reexame de prova não enseja o recurso especial".
+A r. decisão agravada, que está calcada em base equivocada, quer justamente fazer crer que o agravante em suas razões recursais do Especial tentou revolver o material fático-probatório, o que a citada súmula veda.
+Da simples leitura do excerto transcrito, vê-se que não houve impugnação nenhuma ao argumento citado na decisão então agravada. Limitou-se o agravante a tecer comentários genéricos e rasosa respeito da Súmula n. 7 do STJ, sem, no entanto, demonstrar como seria possívelalterar o entendimento adotado no acórdão recorrido- utilização da fração de 1/3 em razão do iter criminis percorrido-senão revendo o arcabouço fático-probatório constante dos autos.
+Veja-se, a propósito,a jurisprudência firme e pacífica do Superior Tribunal de Justiça:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AO FUNDAMENTO UTILIZADO NO JUÍZO DE ADMISSIBILIDADE DO TRIBUNAL DE ORIGEM. SÚMULA 7/STJ. PRINCÍPIO DA DIALETICIDADE. ART. 932, III, DO CPC DE 2.015.
+1. À luz do princípio da dialeticidade, que norteia os recursos, compete à parte agravante infirmar pontualmente todos os fundamentos adotados pelo Tribunal de origem para negar seguimento ao reclamo, sob pena de não conhecimento do agravo em recurso especial pela aplicação da Súmula 182/STJ.
+2. O agravo que objetiva conferir trânsito ao recurso especial obstado na origem exige, como requisito objetivo de admissibilidade, a impugnação específica a todos os fundamentos utilizados para a negativa de seguimento do apelo extremo (EAREsp 701.404/SC, EAREsp 831.326/SP e EAREsp 746.775/PR, Corte Especial, Rel. p/ acórdão Min. Luis Felipe Salomão, DJe de 30/11/2018), consoante expressa previsão contida no art. 932, III, do CPC de 2.015 e art. 253, I, do RISTJ, ônus do qual não se desincumbiu a parte insurgente, sendo insuficiente alegações genéricas de não aplicabilidade dos óbices invocados.
+3. Nas razões do agravo em recurso especial, a parte agravante deixou de impugnar de maneira efetiva, individualizada, específica e fundamentada a incidência da Súmula 7/STJ.
+4. Para mostrar o descabimento do referido verbete não basta apenas aduzir alegação genérica de presença dos requisitos de admissibilidade do apelo nobre ou a simples afirmação quanto à inaplicabilidade do referido óbice, devendo a parte recorrente apresentar argumentação que demonstre como seria possível modificar o entendimento firmado pelas instâncias ordinárias sem nova análise do conjunto fático-probatório, deixando claro quais fatos foram devidamente consignados no acórdão objurgado, ônus do qual, contudo, a parte ora agravante não se desobrigou.
+5. A mera alegação de não haver discussão acerca de matéria de fato é insuficiente para a subida do recurso especial, cumprindo à agravante justificar e demonstrar que a análise do recurso especial independe do exame das circunstâncias fáticas da lide, o que não ocorreu nestes autos.
+6. Por isso, afigura-se correto o não conhecimento do agravo em recurso especial pela incidência da Súmula 182/STJ: É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.
+7. Agravo interno não provido. (AgInt no AREsp n. 2.072.889/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 1º/7/2022.)
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME DE USO DE DOCUMENTO PÚBLICO FALSO. AUTORIA E MATERIALIDADE DO DELITO. ALEGAÇÃO DE CRIME IMPOSSÍVEL. SÚMULA N. 7 DO STJ. VALORAÇÃO NEGATIVA DA CULPABILIDADE. FIXAÇÃO DO REGIME INICIAL. SÚMULA N. 83 DO STJ. NÃO IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182 DO STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. Os recursos devem impugnar especificamente os fundamentos da decisão cuja reforma é pretendida, não sendo suficientes alegações genéricas nem a reiteração dos argumentos referentes ao mérito da controvérsia.
+2. Incide a Súmula n. 182 do STJ quando não há impugnação efetiva, individualizada, específica e fundamentada de todos os fundamentos da decisão que inadmite recurso especial.
+3. Para afastar a aplicação da Súmula n. 7 do STJ, não é bastante a mera afirmação de sua não incidência na espécie, devendo a parte apresentar argumentação suficiente a fim de demonstrar que, para o STJ mudar o entendimento da instância de origem sobre a questão suscitada, não é necessário reexame de fatos e provas da causa.
+4. De modo a impugnar a incidência da Súmula n. 83 do STJ, deve-se demonstrar que os precedentes indicados na decisão agravada são inaplicáveis ao caso ou deve colacionar precedentes contemporâneos ou supervenientes aos indicados na decisão para comprovar que outro é o entendimento jurisprudencial do STJ.
+5. Agravo regimental não conhecido. (AgRg no AREsp n. 1.951.585/PR, relator Ministro João Otávio de Noronha, Quinta Turma, DJe de 10/6/2022.)
+Dessa forma, não tendo o agravante apresentadoargumentos suficientes para modificar o entendimento adotado peladecisão impugnada, mantém-se a aplicação da Súmula n. 182 do STJ e nega-se provimento ao agravo regimental.
+É o voto.
