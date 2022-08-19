@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de Pedido de Uniformização de Interpretação de Lei, instaurado por José Lopes Pedreiro, com fundamento no art. 18, § 3º, da Lei n.12.153/2009, em face de acórdão prolatado pela 2ª Turma Cível e Criminal do Tribunal de Justiça do Estado de São Paulo, que apresentou a seguinte ementa (fl. 20):
+Recurso inominado - Professor - Ação de Obrigação de Fazer C. C. Cobrança - Piso Salarial Federal - PEB-II 40 Horas. Pedidos de reajuste do piso salarial inicial com o piso nacional; de incidência escalonada com aplicação dos mesmos índices utilizados para a classe inicial da carreira, em relação aos demais níveis, faixas e classes, com a readequação do nível/faixa da autora; de pagamento de diferenças vencidas e vincendas. Em Primeira Instância: Sentença que julgou procedente a ação. Sentença que merece reforma: Não aplicação do piso nacional, conforme Lei nº 11.738/2008. Acórdão padrão do Egrégio TJSP.Dá provimento ao recurso da FAZENDA PÚBLICA DO ESTADO DE SÃO PAULO.
+Opostos embargos de declaração, foram estes rejeitados.
+Orequerente afirma que o referido acórdão proferiu entendimento divergente com o aresto exarado pela Turma Recursal de Pinheiro Machado/RS, no tocante a observância quanto ao piso salarial federal na remuneração ou no vencimento inicial da carreira.
+Pleiteia assim o provimento do pedido para que o Superior Tribunal de Justiça uniformize a jurisprudência sobre o tema com a prevalência do entendimento por ela defendido.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+O Ministério Público Federal proferiu parecer pelo não conhecimento do pedido.
+É o relatório. Decido.
+A Lei 12.153/2009, prevê a uniformização de interpretação de lei para os Juizados Especiais da Fazenda Pública, no âmbito dos Estados, Distrito Federal e Municípios. Os arts. 18 e 19 do referido diploma legal dispõem sobre o cabimento do instrumento processual, conforme abaixo transcrito:
+Art. 18. Caberá pedido de uniformização de interpretação de lei quando houver divergência entre decisões proferidas por Turmas Recursais sobre questões de direito material.
+§ 1o O pedido fundado em divergência entre Turmas do mesmo Estado será julgado em reunião conjunta das Turmas em conflito, sob a presidência de desembargador indicado pelo Tribunal de Justiça.
+§ 2o No caso do § 1o, a reunião de juízes domiciliados em cidades diversas poderá ser feita por meio eletrônico.
+§ 3o Quando as Turmas de diferentes Estados derem a lei federal interpretações divergentes, ou quando a decisão proferida estiver em contrariedade com súmula do Superior Tribunal de Justiça, o pedido será por este julgado.
+Art. 19. Quando a orientação acolhida pelas Turmas de Uniformização de que trata o § 1o do art. 18 contrariar súmula do Superior Tribunal de Justiça, a parte interessada poderá provocar a manifestação deste, que dirimirá a divergência (grifo não consta do texto original).
+(..)
+De outro giro, a Lei n. 10.259/2001, também previu a utilização do instrumento de uniformização de interpretação de lei federal nos juizados especiais federais direcionado ao Superior Tribunal de Justiça, conforme o dispositivo abaixo:
+Art. 14. Caberá pedido de uniformização de interpretação de lei federal quando houver divergência entre decisões sobre questões de direito material proferidas por Turmas Recursais na interpretação da lei.
+§ 1o O pedido fundado em divergência entre Turmas da mesma Região será julgado em reunião conjunta das Turmas em conflito, sob a presidência do Juiz Coordenador.
+§ 2o O pedido fundado em divergência entre decisões de turmas de diferentes regiões ou da proferida em contrariedade a súmula ou jurisprudência dominante do STJ será julgado por Turma de Uniformização, integrada por juízes de Turmas Recursais, sob a presidência do Coordenador da Justiça Federal.
+§ 3o A reunião de juízes domiciliados em cidades diversas será feita pela via eletrônica.
+§ 4o Quando a orientação acolhida pela Turma de Uniformização, em questões de direito material, contrariar súmula ou jurisprudência dominante no Superior Tribunal de Justiça-STJ, a parte interessada poderá provocar a manifestação deste, que dirimirá a divergência. (grifos não constam do texto original) (grifos não constam do texto original).
+Por sua vez, o Regimento Interno do Superior Tribunal de Justiça, sobre o presente pedido, dispõe:
+Art. 67.
+(..)
+Parágrafo único. O Presidente resolverá, mediante instrução normativa, as dúvidas que se suscitarem na classificação dos feitos e papéis, observando-se as seguintes normas:
+(..)
+VIII-A - a classe Pedido de Uniformização de Interpretação de Lei (PUIL) compreende a medida interposta contra decisão: a) da Turma Nacional de Uniformização no âmbito da Justiça Federal que, em questões de direito material, contrarie súmula ou jurisprudência dominante no Superior Tribunal de Justiça; b) da Turma Recursal dos Juizados Especiais da Fazenda Pública no âmbito dos Estados, do Distrito Federal, dos Territórios e dos Municípios quando as Turmas de diferentes Estados derem a lei federal interpretações divergentes, ou quando a decisão proferida estiver em contrariedade com súmula do Superior Tribunal de Justiça; e c) das Turmas de Uniformização dos Juizados Especiais da Fazenda Pública no âmbito dos Estados, do Distrito Federal, dos Territórios e dos Municípios quando a orientação adotada pelas Turmas de Uniformização contrariar súmula do Superior Tribunal de Justiça;
+Da legislação acima transcrita decorre que o pedido de uniformização de interpretação de lei somente é cognoscível quando a decisão hostilizada versar sobre questão de direito material, nas seguintes hipóteses:
+a) divergência entre turmas recursais dos Juizados Especiais da Fazenda Pública no âmbito dos Estados, do Distrito Federal, dos Territórios e dos Municípios, de diferentes Estados da Federação, acerca da interpretação de lei federal;
+b) quando a decisão proferida por turma recursal dos Juizados Especiais da Fazenda Pública contrarie súmula do Superior Tribunal de Justiça;
+c) contrariedade à decisão da Turma Nacional de Uniformização no âmbito da Justiça Federal que, contrarie súmula ou jurisprudência dominante no Superior Tribunal de Justiça;
+d) quando a decisão proferida pelas Turmas de Uniformização dos Juizados Especiais da Fazenda Pública contrariar súmula do Superior Tribunal de Justiça.
+Na hipótese dos autos, a controvérsia baseia-se na tese de que a São Paulo Previdência -SPPREV não estaria observando, em favor da requerente, o piso salarial de professor de educação básica, estabelecido pelo art. 2º da Lei n. 11.738/2008, que instituiu o piso salarial profissional nacional para os profissionais do magistério público da educação básica.
+A instância ordinária decidiu por dar provimento ao recurso inominado interposto pela Fazenda Pública do Estado de São Paulo, julgando improcedente a demanda proposta pelorequerente, ao fundamento de não haver reflexo do piso salarial nas demais escalas de vencimento dorequerente ou em escalonamento, uma vez que o piso corresponde ao vencimento básico inicial, sem que seja utilizado o seu valor como base de cálculo para as demais faixas ou níveis.
+Observa-se que a divergência alegada entre o acórdão recorrido e o firmado pela Turma Recursal de Pinheiro Machado/RS não foi devidamente demonstrada, em razão do requerente ter se limitadoa transcrever apenas os trechos dos acórdãos, sem a realização do efetivo cotejo analítico.
+Dessa forma, o pedido em tela não veio acompanhado das condições de admissibilidade, por ausência de indicação da súmula do STJ que teria sido violada pelo acórdão impugnado, bem como pela jurisprudência do Superior Tribunal de Justiça ter o entendimento de que o pedido de uniformização de jurisprudência nos Juizados Especiais da Fazenda Pública só são admissível por afronta a súmula desta Corte.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. DIVERGÊNCIA JURISPRUDENCIAL. NÃO DEMONSTRAÇÃO. SÚM. DO STJ CONTRARIADA. NÃO DEMONSTRAÇÃO. AGRAVO INTERNO NÃO PROVIDO.
+1. Não houve indicação de qual súmula do STJ teria sido violada pelo acórdão impugnado. Ademais, o requerente também não realizou cotejo analítico entre o caso dos autos e os julgados paradigmas capaz de similitude fática e jurídica entre o caso dos autos e os paradigmas, a fim de indicar divergência entre Turmas Recursais de estados-membros distintos. Logo, a decisão monocrática que não conheceu do pedido deve ser mantida.
+2. Agravo interno não provido.
+(AgInt no PUIL n. 2.287/PR, relator Ministro Mauro Campbell Marques, Primeira Seção, julgado em 15/2/2022, DJe de 17/2/2022.)
+AGRAVO INTERNO NO PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. DIVERGÊNCIA COM ENTENDIMENTO JURISPRUDENCIAL NÃO SUMULADO. AUSÊNCIA DE PREVISÃO LEGAL. IMPOSSIBILIDADE
+1. Nos termos dos arts. 18 e 19 da Lei 12.153/2009 cabe Pedido de Uniformização de Interpretação de Lei quando houver divergência entre decisões proferidas por Turmas Recursais sobre questões de direito material; quando as Turmas de diferentes Estados derem à lei federal interpretações divergentes; ou quando a decisão proferida contrariar súmula do Superior Tribunal de Justiça.
+2. No caso dos autos, a Turma de Uniformização do Sistema dos Juizados Especiais não julgou o mérito da questão, porque não conheceu do Pedido de Uniformização a ela dirigido. Não houve, portanto, análise do art. 257, § 7º, do CTB pela Turma de Uniformização do Sistema dos Juizados Especiais, de modo que não é cabível o Pedido de Uniformização no Superior Tribunal de Justiça.
+3. Ademais, a jurisprudência do Superior Tribunal de Justiça entende que o Pedido de Uniformização de Jurisprudência nos Juizados Especiais da Fazenda Pública é admissível somente quanto há afronta a súmula do Superior Tribunal de Justiça.
+4. Agravo Interno não provido.
+(AgInt no PUIL n. 1.941/SP, relator Ministro Herman Benjamin, Primeira Seção, julgado em 29/6/2021, DJe de 1/7/2021.)
+Ante o exposto, nos termos do art. 34, XVIII, "c", do RISTJ, negoprovimento ao pedido.
+Publique-se. Intime-se.
