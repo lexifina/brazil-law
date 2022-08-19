@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de embargos de divergência interpostos Banco do Brasil S/A contra acórdão proferido pela Terceira Turma, assim ementado (fl. 1144):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.INTEMPESTIVIDADE DO AGRAVO EM RECURSO ESPECIAL. INTIMAÇÃO ELETRÔNICA VERSUS PUBLICAÇÃO DA DECISÃO NO DIÁRIO OFICIAL DE JUSTIÇA. PREVALÊNCIA DA ÚLTIMA PARA EFEITOS DE CONTAGEM DO PRAZO RECURSAL. RAZÕES RECURSAIS INSUFICIENTES. AGRAVO INTERNO DESPROVIDO.
+1. Havendo intimação eletrônica e publicação da decisão recorrida no Diário de Justiça Eletrônico, prevalece esta última para efeitos de contagem do prazo recursal.
+2. Recurso intempestivo, porquanto não interposto no prazo de 15 dias úteis, a contar do primeiro dia útil seguinte à data da publicação da decisão recorrida no Diário de Justiça Eletrônico.
+3. Razões recursais insuficientes para a revisão do julgado.
+4. Agravo interno desprovido.
+A embargante alega que o acórdão embargado diverge do entendimento da Corte Especial do Superior Tribunal de Justiça firmado nos autos dos EAREsp 1663952/RJ.
+Afirma a existência de dissídio jurisprudencial, para situações fáticas e jurídicas absolutamente semelhantes. Alega que o acórdão embargado proferido pela Terceira Turma estabeleceu que nos casos em que há intimação eletrônica e publicação da decisão recorrida no DJe, prevalece esta última para efeitos de contagem do prazo recursal; por outro lado, o julgado paradigma decidiu justamente o contrário: convalida a intimação realizada na pessoa do advogado cadastrado, via Processo Judicial Eletrônico - PJe.
+Com impugnação.
+Parecer do Ministério Público Federal, às fls.1294/1299,pelo não conhecimento ou,na eventualidade de que sejam conhecidos, que seja negado provimento ao recurso.
+É o relatório. Passo a decidir.
+Nos termos do que decidido pelo Plenário do STJ, aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo 2).
+Os embargos de divergência têm por escopo uniformizar a jurisprudência do Tribunal ante a adoção de teses conflitantes pelos seus órgãos fracionários, cabendo ao embargante a comprovação do dissídio pretoriano nos moldes estabelecidos no art. 266, § 1º, combinado com art. 225, §§ 1º e 2º, do RISTJ.
+A questão em debate refere-se a qual intimação quedeve prevalecer na hipótese de haverduplicidade, ou seja: publicação no Diário da Justiça Eletrônico e noportal eletrônico.
+Como se nota,o acórdão embargado afirmou a intempestividade do agravo em recurso especial dorecorrente ao fundamento de que (fl. 1147):
+Na presente insurgência, defende o agravante a tempestividade do recurso, alegando que o prazo recursal deve fluir a partir do primeiro dia seguinte à intimação eletrônica, e não da publicação da decisão no Diário de Justiça Eletrônico.
+Sem razão o insurgente, pois a jurisprudência desta Corte é no sentido de que, havendo intimação eletrônica e publicação da decisão recorrida no Diário de Justiça Eletrônico, prevalece essa última para fins de contagem do prazo recursal.
+Por outro lado, a Corte Especial no julgamento dos EAREsp 1.663.952-RJ firmou entendimento de que"há de prevalecer a intimação prevista no art. 5º da Lei do Processo Eletrônico, à qual o § 6º do art. 5º atribui status de intimação pessoal, por ser forma especial sobre a genérica, privilegiando-se a boa-fé processual e a confiança dos operadores jurídicos nos sistemas informatizados de processo eletrônico, bem como garantindo-se a credibilidade e eficiência desses sistemas".
+A propósito, confira-se a ementa desse julgado:
+DIREITO PROCESSUAL. EMBARGOS DE DIVERGÊNCIA NO AGRAVO EM RECURSO ESPECIAL. PROCESSO JUDICIAL ELETRÔNICO. DUPLICIDADE DE INTIMAÇÕES: PUBLICAÇÃO NO DIÁRIO DA JUSTIÇA ELETRÔNICO E POR PORTAL ELETRÔNICO (LEI 11.419/2006, ARTS. 4º E 5º). PREVALÊNCIA DA INTIMAÇÃO PELO PORTAL ELETRÔNICO. RECURSO CONHECIDO E PROVIDO.
+1. A Lei 11.419/2006 - Lei do Processo Judicial Eletrônico - prevê dois tipos de intimações criados para atender à evolução do sistema de informatização dos processos judiciais. A primeira intimação, tratada no art. 4º, de caráter geral, é realizada por publicação no Diário da Justiça Eletrônico; e a segunda, referida no art. 5º, de índole especial, é feita pelo Portal Eletrônico, no qual os advogados previamente se cadastram nos sistemas eletrônicos dos Tribunais para receber a comunicação dos atos processuais.
+2. Embora não haja antinomia entre as duas formas de intimação previstas na Lei, ambas aptas a ensejar a válida intimação das partes e de seus advogados, não se pode perder de vista que, caso aconteçam em duplicidade e em diferentes datas, deve ser garantida aos intimados a previsibilidade e segurança objetivas acerca de qual delas deve prevalecer, evitando-se confusão e incerteza na contagem dos prazos processuais peremptórios.
+3. Assim, há de prevalecer a intimação prevista no art. 5º da Lei do Processo Eletrônico, à qual o § 6º do art. 5º atribui status de intimação pessoal, por ser forma especial sobre a genérica, privilegiando-se a boa-fé processual e a confiança dos operadores jurídicos nos sistemas informatizados de processo eletrônico, bem como garantindo-se a credibilidade e eficiência desses sistemas.
+Caso preponderasse a intimação por forma geral sobre a de feitio especial, quando aquela fosse primeiramente publicada, é evidente que o advogado cadastrado perderia o prazo para falar nos autos ou praticar o ato, pois, confiando no sistema, aguardaria aquela intimação específica posterior.
+4. Embargos de divergência conhecidos e providos, afastando-se a intempestividade do recurso especial.
+(EAREsp n. 1.663.952/RJ, relator Ministro Raul Araújo, Corte Especial, julgado em 19/5/2021, DJe de 9/6/2021.)
+Verifica-se, portanto, que o acórdão embargado, de fato, destoou do atual entendimento da Corte Especial acerca do tema.
+Nesse contexto, não estandoo acórdão embargado em conformidade com o atual entendimento da Corte Especial acerca do tema,impõe-se a anulação do acórdão embargado, a fim de que a Terceira Turma proceda à análise do recurso, a partir da orientação firmada no EAREsp 1.663.952-RJ.
+Ante o exposto, dou provimento aos embargos de divergência, nos termos da fundamentação.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA NO AGRAVO EM RECURSO ESPECIAL. PROCESSO JUDICIAL ELETRÔNICO. DUPLICIDADE DE INTIMAÇÕES: PUBLICAÇÃO NO DIÁRIO DA JUSTIÇA ELETRÔNICO E POR PORTAL ELETRÔNICO (LEI 11.419/2006, ARTS. 4º E 5º). PREVALÊNCIA DA INTIMAÇÃO PELO PORTAL ELETRÔNICO. RECURSO PROVIDO.
