@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo ESTADO DA PARAÍBA contra acórdão proferido pelo Tribunal de Justiça do Estado da Paraíba assim ementado:
+AGRAVO INTERNO. DECISÃO. NÃO CONHECIMENTO DO APELO. MANUTENÇÃO DO JULGAMENTO. INDEFERIMENTO DA CITAÇÃO POSTAL E A DETERMINAÇÃO DO RECOLHIMENTO DE DILIGÊNCIAS. INTIMAÇÃO. INÉRCIA. EXTINÇÃO DO FEITO SEM RESOLUÇÃO DE MÉRITO. SUBLEVAÇÃO APELATÓRIA. ARGUMENTAÇÃO PRECLUSÃO. AUSÊNCIA DE NOVOS ARGUMENTOS APTOS A MODIFICAR A DECISÃO ATACADA. DESPROVIMENTODO RECURS
+A parte recorrente alega violação dos arts. 247, 249 e 1.022 do CPC/2015 e sustenta a possibilidade de citação postal em processo de execução de título extrajudicial.
+Sem contrarrazões.
+É o relatório. Decido.
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC (Enunciado n. 3 do Plenário do STJ).
+O Estado da Paraíba ajuizou ação de execução pretendendo a cobrança de multa imposta pelo Tribunal de Contas do Estado; pretensão essa passível de ser alcançada pelo Estado, inclusive, por meio de execução fiscal (mutatis mutandis: REsp n. 1.658.236/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 2/5/2017, DJe de 12/5/2017; AgRg no REsp n. 1.409.183/PR, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 16/6/2014, DJe de 6/8/2014).
+E, consoante se extrai do arts. 6º e 7º da Lei n. 6.830/1980, feito o requerimento de citação, o despacho do juízo que deferir a inicial importa em ordem para a citação, pelas sucessivas modalidades previstas no 8º, nas quais se inclui a citação pelo correio, "se a Fazenda Pública não a requerer por outra forma" (inciso I).
+De outro lado, a Primeira Seção deste Tribunal Superior, ao julgar o REsp n. 1.864.751/SP, repetitivo, sob a relatoria do em. Ministro Sérgio Kukina, decidiu pela desnecessidade de a Fazenda Pública adiantar o pagamento das despesas necessárias à realização da citação postal do devedor, no processo executivo fiscal, o qual, como se sabe, é lastreado em título executivo extrajudicial.
+No caso dos autos, conquanto a petição inicial veicule requerimento de citação "por mandado ou carta precatória" (fl. 4), revela-se desproporcional e excesso de formalismo determinar a extinção da execução em razão de a Fazenda Pública não ter antecipado os valores necessários à diligência a cargo do oficial de justiça, notadamente quando possível proceder à citação por via postal.
+Ante o exposto, dou provimento ao recurso especial, casso o acórdão recorrido e determino o retorno dos autos ao juízo da execução para que tome as devidas providências para a citação postal da parte executada, sem condicioná-la ao prévio pagamento das respectivas despesas. Fica prejudicado o Agravo em Recurso Especial.
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL. EXECUÇÃO DE TÍTULO EXECUTIVO EXTRAJUDICIAL. MULTA IMPOSTA PELO TRIBUNAL DE CONTAS DO ESTADO DA PARAÍBA. CITAÇÃO DA PARTE EXECUTADA POR VIA POSTAL. POSSIBILIDADE. RECURSO PROVIDO.
