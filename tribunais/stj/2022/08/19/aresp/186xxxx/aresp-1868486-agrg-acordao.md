@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Trata-se de agravo regimental interposto por ADRIANA VIEIRA TABORDA contra a decisão de fls. 607-608, por meio da qual o Ministro Presidente do Superior Tribunal de Justiça não conheceu do agravo em recurso especial em razão da ausência de impugnação do fundamento adotado pela instância de origem para inadmitir o apelo raro, a saber, a Súmula n. 7 do STJ. Aplicou-se, por conseguinte, o óbice da Súmula n. 182 do STJpor analogia.
+Além dediscorrer acerca da necessidade de que o feito fosse apreciado pelo colegiado, e não pelo Presidente do STJ individualmente, a agravante sustenta que apresentou, nas razões do agravo,impugnação específica contra o fundamento utilizado na decisão de inadmissão do recurso especial, momento em que afirmou a desnecessidade dereexame dasprovas constantes dos autos.
+É o relatório.
+EMENTA
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTO INATACADO. SÚMULA N. 182 DO STJ. INCIDÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Mantém-se a aplicação analógica da Súmula n. 182 do STJ quando não há impugnação efetiva, individualizada e específica dos fundamentos da decisão que inadmite recurso especial.
+2. Para afastar o óbice da Súmula n. 7 do STJ, a parte recorrente deve demonstrar, de forma clara e objetiva, mediante o desenvolvimento de argumentação hábil, a desnecessidade de reexame de fatos e provas para a aferição de violação de dispositivo de lei federal.
+3. Agravo regimental desprovido.
+VOTO
+A irresignação recursal não merece acolhimento.
+Consigne-se, em primeiro lugar, que o Presidente do Superior Tribunal de Justiça está autorizado pelo art. 21-E, V, do Regimento Interno do STJ,antes da distribuição, a "não conhecer de recurso inadmissível, prejudicado ou que não tiver impugnado especificamente todos os fundamentos da decisão recorrida", exatamente a hipótese dos autos.
+A propósito: "Compete ao Presidente do Superior Tribunal de Justiça, antes mesmo da distribuição do recurso, decidir pelo não conhecimento de recursos inadmissíveis, prejudicados ou que não houverem impugnado especificamente todos os fundamentos da decisão recorrida, nos termos do art. 21-E, inciso V, do RISTJ, inexistindo ofensa ao princípio da colegialidade" (AgRg no AREsp n. 2.026.647/SP, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 8/4/2022).
+No mesmo sentido: EDcl no AgRg no AREsp n. 2.002.267/MA, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 18/3/2022; AgRg no AREsp n. 1.871.524/AM, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 22/9/2021; AgRg no AREsp n. 1.627.972/DF, relator Ministro Jorge Mussi, Quinta Turma, DJe de 20/4/2020.
+Ademais, não procede a afirmação daagravante de que teria impugnado especificamente o óbice da Súmula n. 7 do STJ quando da interposição do agravo em recurso especial.
+Conforme ressaltado na decisão impugnada,"em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182/STJ".
+No entanto, verifica-se, nas razões do agravo, que a parte recorrente limitou-se a aduzir que "em nenhum momento se pretendeu o reexame fático-probatório, mas tão somente o cumprimento à legislação vigente"; que "em hipótese alguma se pleiteou a reavaliação de qualquer dos elementos de provas colhidos durante a instrução probatória" ou que " ..  interpôs Recurso Especial em decorrência da clara violação à dispositivos de leis federais infraconstitucionais, razão pela qual, repita-se, absolutamente viável a interposição do apelo especial, nos termos do art. 105, III, a, da Constituição Federal" (fl. 561).
+A jurisprudência do Superior Tribunal de Justiça exige, para afastamento do óbice da Súmula n. 7 do STJ, que a parte demonstre a desnecessidade de revolvimento do conjunto fático-probatório para obter a modificação do entendimento adotado pela Corte de origem.
+Confiram-se precedentes:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. MOEDA FALSA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO. AGRAVO REGIMENTAL DESPROVIDO. PEDIDO DE CONCESSÃO DE HABEAS CORPUS, DE OFÍCIO. IMPOSSIBILIDADE.
+I. A ausência de impugnação dos fundamentos da decisão que não admitiu o recurso especial impõe o não conhecimento do agravo em recurso especial.
+II. In casu, a parte agravante deixou de infirmar, de maneira adequada e suficiente, a aplicação do óbice da Súmula 7/STJ.
+III. Para afastar o óbice da Súmula 7/STJ, não basta apenas deduzir a inaplicabilidade do óbice apontado na decisão agravada, sem demonstrar a necessidade da análise do conjunto fático-probatório, deixando claro que os fatos foram devidamente consignados no acórdão objurgado, o que não aconteceu.
+IV. É descabido postular a concessão de habeas corpus de ofício, como sucedâneo recursal ou como forma de se tentar burlar a inadmissão do recurso próprio, tendo em vista que o seu deferimento se dá por iniciativa do próprio órgão jurisdicional, quando verificada a existência de ilegalidade flagrante ao direito de locomoção.
+Agravo regimental desprovido. (AgRg no AREsp n. 1.880.423/RS, relator Ministro Jesuíno Rissato, Quinta Turma, DJe de 15/2/2022.)
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ACÓRDÃO BASEADO NAS PROVAS PRODUZIDAS NOS AUTOS. SÚMULA N. 7 DO STJ. INCIDÊNCIA. HOMICÍDIO CULPOSO. SUSPENSÃO DA HABILITAÇÃO PARA DIRIGIR. CONSTITUCIONALIDADE. TESE FIRMADA PELO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. "A pretensão de simples reexame de prova não enseja Recurso Especial" (Súmula n. 7 do STJ).
+2. Para afastar o óbice da Súmula n. 7 do STJ, a parte recorrente deve demonstrar, de forma clara e objetiva, mediante o desenvolvimento de argumentação hábil, a desnecessidade de reexame de fatos e provas para a aferição de violação de dispositivo de lei federal.
+3. No julgamento do RE n. 607.107, realizado sob o regime de repercussão geral, o Supremo Tribunal Federal fixou a seguinte tese: é constitucional a imposição de pena de suspensão de habilitação para dirigir veículo automotor ao motorista profissional condenado por homicídio culposo no trânsito (relator Ministro Roberto Barroso, DJe de 14/4/2020).
+4. Agravo regimental a que se nega provimento. (AgRg no AREsp n. 1.807.878/SP, relator Ministro João Otávio de Noronha, Quinta Turma, DJe de 16/8/2021.)
+Tendo em vista que a agravante não apresentou argumentos suficientes para modificar a decisão agravada, mantenho a aplicação da Súmula n. 182 do STJ e negoprovimento ao agravo regimental.
+É ovoto.
