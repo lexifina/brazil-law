@@ -1,0 +1,25 @@
+DECISÃO
+Na origem trata-se de ação regressiva, objetivando ressarcimento de valores pagos a titulo de beneficio previdenciário. Na sentença julgou-se o pedido parcialmente procedente. No Tribunal a quo a sentença foi parcialmente reformada. O valor da causa foi fixado em R$ 32.255,62.
+O recurso especial foi interposto no TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO, contra acórdão com o seguinte resumo de ementa:
+APELAÇÃO CÍVEL INSS. AÇÃO DE REGRESSO. ACIDENTE DE TRABALHO. ÓBITO DO EMPREGADO. NEGLIGÊNCIA. NORMAS DE SEGURANÇA DO TRABALHO. CULPA CONCORRENTE. JUROS DE MORA E CORREÇÃO MONETÁRIA. SENTENÇA REFORMADA.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+O art. 120 da Lei nº 8.213/91 dispõe que, nos casos de negligência quanto às normas padrão de segurança do trabalho, a Previdência Social proporá ação regressiva contra os responsáveis, e não necessariamente apenas contra o empregador.
+ ..
+Isso porque não se pode precisar com certeza o prazo de encerramento do benefício e realizar o cálculo de todas as prestações vincendas, uma vez que o benefício pode ser interrompido por outros fatores.
+Assim, conforme disposto no art. 260 do CPC/73, vigente à época e com  correspondência no art. 292, §2º do CPC/15, o valor das prestações vincendas será igual a uma prestação anual, se a obrigação for por tempo indeterminado ou por tempo superior a 1 (um) ano, razão pela qual não há incorreção no valor da causa, tampouco razão que justifique a extinção do processo sem julgamento do mérito.
+ ..
+Isso porque não se pode imputar as empresas o ônus de ressarcir o INSS em todo e qualquer caso de benefício pago decorrente de acidente de trabalho, sendo necessário verificar a responsabilidade da empresa no evento para só então se decidir sobre eventual direito de regresso da autarquia.
+ ..
+Não há, portanto, como se deixar de reconhecer que houve negligência da empresa  quanto ao cumprimento das normas de segurança, em especial as Normas Regulamentadoras nº 18 e 15, e que, tal descumprimento foi fator determinante, embora não exclusivo, do acidente.
+ ..
+Assim, havendo culpa concorrente, se mostra correta a decisão do magistrado de primeiro grau que reconheceu o dever da empresa Euroville de ressarcir o INSS pela metade dos valores.
+Não há, portanto, violação do 535 do CPC/1973 (art. 1.022 do CPC/2015) quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a fundamentadamente (art. 165 do CPC/73 e do art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Relativamente às demais alegações de violação (art. 455 do Decreto-lei 5452; art. 927 da lei 10406), esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+Conforme entendimento desta Corte, não há incompatibilidade entre a inexistência de ofensa ao art. 1.022 do CPC/2015 e a ausência de prequestionamento, com a incidência do enunciado n. 211 da Súmula do STJ, quanto às teses invocadas pela parte recorrente, que, entretanto, não são debatidas pelo tribunal local, por entender suficientes para a solução da controvérsia outros argumentos utilizados pelo colegiado. Nesse sentido: AgInt no AREsp 1.234.093/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 24/4/2018, DJe 3/5/2018; AgInt no AREsp 1.173.531/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 20/3/2018, DJe 26/3/2018.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 1% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
