@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de conflito de competência negativo envolvendo o r. JUÍZO DE DIREITO DA 1.ª VARA CÍVEL DO FORO REGIONAL IV DA LAPA - SÃO PAULO - SP, suscitante, e o r. JUÍZO DA 5.ª VARA DO TRABALHO DE SÃO PAULO - SP, suscitado.
+Ação:Reclamatória Trabalhista ajuizada por FRANCISCO JOCIONE SOUSA ARAÚJO contra a EMPRESA BRASILEIRA DE CORREIOS E TELÉGRAFOSperante o r. Juízo suscitado, objetivando a condenação da ré a mantê-lo no plano de saúde na forma de coparticipação, sem alteração da sua forma de manutenção (fls. 10-32).
+Decisão do Juízo Suscitado:declinou de sua competência ao fundamento deque "(..)qualquer questão relativa ao plano de saúde, incluindo-se a atual cobrança de mensalidades, é de natureza consumerista, posto que não decorrente da relação de emprego e, deste modo, não incluída na competência material desta Justiça Especializada."(fls. 990-998).
+Decisão do Juízo Suscitante: suscitou o presente conflito,pois "(..) a competência é da Justiça do Trabalho, porque não discute a parte a prestação de serviços do plano de saúde ou mesmo eventuais reajustes, mas alegada alteração havida em seu contrato de trabalho, que lhe dava direito ao plano, sem pagamento de mensalidade." (fls. 1010-1012).
+Parecer do Ministério Público Federal: opinou pelo conhecimento do conflito e competência do r. Juízo suscitado(fls. 1024-1027).
+É o relatório.
+Decide-se.
+O presente conflito de competência deve ser conhecido, porquanto instaurado entre juízos vinculados a Tribunais distintos (artigo 105, inciso I, alínea "d", da Constituição da República de 1988).
+1. A matéria em debate está pacificada no âmbito do Superior Tribunal de Justiça desde o julgamentopelo rito da assunção decompetênciano RESP 1.799.343/SP, tendo-se firmado tese enunciada nos seguintes termos:
+IAC 5/STJ - Compete à Justiça comum julgar as demandas relativas aplano de saúdedeautogestãoempresarial, exceto quando o benefício for instituído por meio de convenção coletiva ou acordo coletivo detrabalho,hipótese em que acompetênciaserá da Justiça doTrabalho,ainda que figure como partetrabalhadoraposentado ou dependente dotrabalhador.
+Nesse sentido:
+AGRAVO INTERNO. CONFLITO NEGATIVO DECOMPETÊNCIA.PETROBRÁS. PROGRAMA DE ASSISTÊNCIA MULTIDISCIPLINAR À SAÚDE.BENEFÍCIO DISCIPLINADO EM CONVENÇÃO COLETIVA DETRABALHO. PENSIONISTA. AUSÊNCIA DE VÍNCULO EMPREGATÍCIO. IRRELEVÂNCIA.COMPETÊNCIADA JUSTIÇA DOTRABALHO.INCIDENTE DE ASSUNÇÃO DECOMPETÊNCIANO RESP 1.799.343/SP.
+1. Compete à Justiça doTrabalhoprocessar e julgar ações ajuizadas por usuários do Programa Multidiscliplinar à Saúde, mantido e operado pela Petrobrás para seus empregados, aposentados e pensionistas, nos termos das cláusulas estabelecidas em consolidação coletiva detrabalho.Precedentes específicas da Segunda Seção.
+2. Tese fixada pela Segunda Seção no Incidente de Assunção deCompetênciano RESP 1.799.343/SP (acórdão publicado no DJ do dia 18.3.2020, Relatora para acórdão Ministra Nancy Andrighi): "Compete à Justiça comum julgar as demandas relativas aplano de saúdedeautogestãoempresarial, exceto quando o benefício for instituído em contrato detrabalho,convenção ou acordo coletivo, hipótese em que acompetênciaserá da Justiça doTrabalho,ainda que figure como partetrabalhadoraposentado ou dependente dotrabalhador." 3. Agravo interno a que se nega provimento.
+(AgInt no CC 146.222/BA, Rel. Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, julgado em 19/05/2020, DJe 25/05/2020)
+EMBARGOS DE DECLARAÇÃO. PROCESSUAL CIVIL (CPC/2015). INCIDENTE DE ASSUNÇÃO DE COMPETÊNCIAS. CONTRADIÇÃO. EXISTÊNCIA. SANEAMENTO DO ACÓRDÃO NO QUE TANGE À TESE FIXADA. APLICAÇÃO AO CASO CONCRETO. OPERADORA DISTINTA DA PESSOA JURÍDICA DO EMPREGADOR. COMPETÊNCIA DA JUSTIÇA COMUM.
+1. Existência de contradição no acórdão ora embargado quanto à tese fixada no julgamento do presente incidente de assunção de competências.
+2. Saneamento do acórdão embargado para se declarar que a tese firmada neste incidente foi aquela proclamada no julgamento do REsp 1.799.343/SP, nos seguintes termos: Compete à Justiça comum julgar as demandas relativas a plano de saúde de autogestão empresarial, exceto quando o benefício for regulado em contrato de trabalho, convenção ou acordo coletivo, hipótese em que a competência será da Justiça do Trabalho, ainda que figure como parte trabalhador aposentado ou dependente do trabalhador.
+3. Caso concreto em que o plano de saúde é operado por pessoa jurídica diferente da contratante da mão de obra, não se tratando, portanto, de autogestão empresarial.
+4. Aplicação da tese vencedora ao caso dos autos para manter a fixação da competência na Justiça comum.
+5. Inviabilidade de conhecimento de alegações de vícios quanto aos fundamentos da tese vencedora, uma vez que tais fundamentos foram deduzidos tão somente nos autos do REsp 1.799.343/SP. 6. EMBARGOS DE DECLARAÇÃO OPOSTOS POR SIMEPAR ACOLHIDOS, SEM AGREGAÇÃO DE EFEITOS INFRINGENTES.
+7. EMBARGOS DE DECLARAÇÃO OPOSTOS PELA FENASAUDE NÃO CONHECIDOS.
+(EDcl no CC n. 167.020/SP, relator Ministro Paulo de Tarso Sanseverino, Segunda Seção, julgado em 24/6/2020, DJe de 3/8/2020.)
+2. Ante o exposto, com base no art. 955, parágrafo único, do NCPC c/c Súmula 568/STJ,conheço do conflito e declaro competente o r. JUÍZO DA 5.ª VARA DO TRABALHO DE SÃO PAULO-SP, ora suscitado.
+Publique-se. Intimem-se.
