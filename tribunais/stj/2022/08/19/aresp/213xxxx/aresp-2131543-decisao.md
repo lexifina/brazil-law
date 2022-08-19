@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo (art. 1.042 do CPC/15) interposto por ITAU UNIBANCO S.A., contra decisão que não admitiu o recurso especial do insurgente.
+O apelo extremo, fundamentado no artigo 105, inciso III, alíneas "a" e "c" da Constituição Federal, desafia acórdão proferido pelo Tribunal de Justiça do Estado do Paraná, assim ementado (fl. 121, e-STJ):
+APELAÇÃO CÍVEL - AÇÃO DE EXIGIR CONTAS - PRIMEIRA FASE - CONTA POUPANÇA - EXTINÇÃO DO FEITO POR AUSÊNCIA DE INTERESSE DE AGIR, ANTE A FALTA DE CONDIÇÃO DA AÇÃO (INTERESSE DE AGIR) - AUSÊNCIA DE PEDIDO PRÉVIO NA VIA ADMINISTRATIVA - DESNECESSIDADE - PRECEDENTES DO STJ - AUSÊNCIA DO CARÁTER REVISIONAL DA DEMANDA - SENTENÇA REFORMADA PARA APRESENTAÇÃO DAS CONTAS - INTELIGÊNCIA DO ARTIGO 500, §5º, DO CPC -HONORÁRIOS ADVOCATÍCIOS DEVIDOS.RECURSO DE APELAÇÃO CÍVEL CONHECIDO E PROVIDO.
+Os embargos de declaração foram rejeitados (fls. 153-157, e-STJ).
+Nas razões do recurso especial (fls. 162-169, e-STJ), o insurgente alega que o acórdão recorrido violou os seguintes dispositivos de lei federal: i) artigo 1022, II, do CPC15, aduzindo omissão no julgado, e ii) artigos 319, III e IV c/c art. 550, §1º, ambos do CPC/15, alegando a ausência de interesse de agir da ação, pois não demonstrado os motivos pelos quais pretende a exibição das contas postuladas.
+Em juízo de admissibilidade, o Tribunal a quo inadmitiu o recurso especial (fls. 197-202, e-STJ), dando ensejo a interposição do presente agravo (fls. 205-215, e-STJ).
+Não foi apresentada contraminuta.
+É o relatório.
+Decide-se.
+O inconformismo merece prosperar em parte.
+1. O recorrente aponta violação ao artigo 1022 do CPC/15, sob o fundamento de que o Tribunal local foi omisso quanto a análise da tese de existência de pedido genérico, pois não indicados os motivos que a parte entende ser necessária a exibição das contas, sendo insuficiente apenas a indicação do período.
+Infere-se que a matéria fora levada à apreciação da Corte local, nos embargos de declaração (fls. 130-136, e-STJ), tendo em vista o provimento da apelação, porém o órgão julgador não apreciou a questão, aduzindo, tão somente, que (fl. 155, e-STJ, grifou-se):
+Ainda, o contido do foi devidamente fundamentado, sendo apontado que é assente o entendimento do Superior decisum Tribunal de Justiça, e acompanhado por Corte de Justiça que não há que se falar em ausência de interesse de agir do Autor, quando a pretensão inicial consiste na prestação de conta do eventual valor de saldo remanescente em conta poupança, não evidenciando qualquer discussão sobre lançamentos realizados.
+Assim, embora tenham sido apontados os vícios nos embargos de declaração pelo recorrente, não se vislumbra no acórdão recorrido a análise detida da questão quanto à ausência de interesse de agir, por não ter a parte autora detalhado, na petição inicial, os motivos pelos quais pretende a exibição das contas.
+Consoante entendimento deste Superior Tribunal de Justiça, deve ser reconhecida a alegada negativa de prestação jurisdicional dos acórdãos que deixam de se manifestar sobre questões relevantes para o deslinde da controvérsia, como ocorre na hipótese sub judice.
+Confiram-se, nesse sentido, os seguintes julgados:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. ACIDENTE DE TRÂNSITO. VIOLAÇÃO AO ART. 1.022 DO CPC/2015 CONFIGURADA. ACÓRDÃO ESTADUAL OMISSO QUANTO A PONTO ESSENCIAL AO DESLINDE DA CONTROVÉRSIA. AGRAVO DESPROVIDO.
+1. Decisão atacada que deu provimento ao recurso especial da parte ora agravada para, reconhecendo violação ao art. 1.022 do CPC/2015, anular o acórdão que julgou os aclaratórios e determinar o retorno dos autos ao Tribunal de origem para novo julgamento dos embargos de declaração, como entender de direito, sanando a omissão reconhecida.
+2. Fica configurada a ofensa ao art. 1.022 do CPC/2015 quando o Tribunal a quo, apesar de devidamente provocado nos embargos de declaração, não se manifesta sobre tema essencial ao deslinde da controvérsia.
+3. Agravo interno desprovido.
+(AgInt no REsp n. 1.914.275/PB, relator Ministro Raul Araújo, Quarta Turma, julgado em 28/6/2021, DJe de 9/8/2021.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE RESCISÃO DE CONTRATO. SEGURO DE VIDA. 1. OMISSÃO DO TRIBUNAL ESTADUAL QUANTO À ALEGAÇÃO DE JULGAMENTO EXTRA PETITA. 2. MULTA DO ART. 1.026, § 2º, DO CPC/2015. AFASTAMENTO. AUSÊNCIA DE INTUITO PROTELATÓRIO. 3. DEMAIS ALEGAÇÕES PREJUDICADAS. 4. AGRAVO PARCIALMENTE PROVIDO.
+1.Segundo a jurisprudência do Superior Tribunal de Justiça, não tendo sido suprida a omissão apontada, impõe-se a devolução dos autos à Corte estadual, a fim de que realize novo julgamento dos embargos de declaração, sanando o vício atestado.
+2. Quanto à multa aplicada no julgamento dos embargos de declaração, com razão a recorrente, pois a multa não será cabível quando os embargos de declaração têm o objetivo de prequestionamento, consoante dispõe a Súmula 98/STJ.
+3. Determinado o retorno dos autos à instância originária para rejulgamento dos aclaratórios, fica prejudicada a apreciação das demais alegações.
+4. Agravo interno parcialmente provido.
+(AgInt no REsp n. 1.875.784/MG, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 28/9/2020, DJe de 7/10/2020.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 535, II, DO CPC/1973. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. RECONHECIMENTO. NULIDADE. RETORNO DOS AUTOS PARA NOVO JULGAMENTO DOS EMBARGOS DE DECLARAÇÃO. DECISÃO MANTIDA. 1. A falta de manifestação sobre questão relevante para a solução da causa, mesmo após a oposição de embargos de declaração, qualifica negativa de prestação jurisdicional e violação do art. 535, II, do CPC/1973, vigente ao tempo em que praticados os atos processuais. Precedentes. 2. Reconhecida a violação ao art. 535, II, do CPC/1973, impõe-se a decretação de nulidade do acórdão dos aclaratórios, determinando-se a baixa dos autos ao Tribunal de origem, para novo julgamento do recurso. 3. Agravo interno a que se nega provimento. (AgInt no AREsp 951.186/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 15/12/2016, DJe 01/02/2017)
+Com efeito, deve ser reconhecida a apontada violação ao artigo 1.022 do CPC/15, impondo-se a decretação de nulidade do acórdão que julgou os aclaratórios (fls. 132-135, e-STJ), determinando-se a baixa dos autos ao Tribunal de origem, para novo julgamento do recurso, a fim de que seja sanada a aludida omissão.
+2. Do exposto, reconsidero a decisão agravada e, com fulcro no art. 932 do CPC/15 e na Súmula 568/STJ, conheço do agravo para dar parcial provimento ao recurso especial, a fim de anular o julgamento dos embargos de declaração (fls. 153-157, e-STJ) e determinar o retorno dos autos ao Tribunal de origem para que sejam enfrentados os vícios apontados.
+Restam prejudicadas as demais matérias arguidas no recurso especial.
+Publique-se.
+Intimem-se.
