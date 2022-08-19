@@ -1,0 +1,37 @@
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. ORGANIZAÇÃO CRIMINOSA, ESTELIONOATO, FRAUDE ELETRÔNICA TENTADA E OCULTAÇÃO DE BENS. PRISÃO PREVENTIVA. TESES DEFENSIVAS NÃO EXAMINADAS PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. RECURSO DESPROVIDO.
+1. Constatado que as teses defensivas não foram enfrentadas pelo Tribunal de origem no writ originário, fica esta Corte impedida de se debruçar sobre as matérias, sob pena de incorrer em indevida supressão de instância.
+2. Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Laurita Vaz, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Cuida-se de agravo regimental interposto por MARCELA GARCIA FERREIRA contra a decisão deste relator que indeferiu liminarmente o habeas corpus (e-STJ fls. 154/157).
+Depreende-se dos autos que a agravante foi presa cautelarmente pela prática, em tese, dos crimes de organização criminosa, estelionato, fraude eletrônica tentada e ocultação de bens.
+Em suas razões, reitera a defesa as teses formuladas na inicial do mandamus, asseverando que "o writ impetrado na corte mineira é de imensurável ilegalidade a qual poderia ser conhecida da ordem de oficio pelo Excelso Ministro, conforme exposto, o sistema JPE, o que é divergente do PJE, além de não elevar os autos em sua integralidade, apresentou problemas na realização do protocolo o que precisou ser efetivado inúmeras vezes, razões em que as peças processuais não foram anexas. Outrossim, O Desembargador Fortuna Grion, ao mínimo, poderia antes de qualquer decisão ter intimado o impetrante a apresentar as cópias processuais antes de julgar o mérito, outrossim, há constante ilegalidade por haver violação a lei federal aplicável por haver vulnerável como objeto indireto" (e-STJ fl. 164).
+Pontua que "o documento não transladou com a peça principal, contudo, conforme exposto no Recurso Ordinário Constitucional, no corpo da petição de Habeas Corpus foram anexas partes imprescindíveis da decisão coatora do juízo da 1º vara criminal de Minas Gerais, o que tornava-se suficiente para que o Desembargador Relator se manifestasse, assim, a decisão de Vossa Excelência, data máxima vênia, é contraria a ocorrência real" (e-STJ fl. 167).
+Afirma "que houve omissão dolosa por parte do Desembargo da 3º Câmara Criminal do E. Tribunal de Justiça de Minas Gerais, pois se fosse necessário instruir o processo, a Relatoria do Honroso Desembargador Fortuna Grion, deveria solicitar ao impetrante o respectivo ato visto que as peças chegam imediatamente ao sistema do TJMG, e o que se presume é que todos os atos foram devidamente consolidados" (e-STJ fl. 168).
+Alega que a agravante faz jus à prisão domiciliar, enfatizando que "há notória gravidade na decisão em manter uma mãe presa, em outra cidade, recambiando ilegalmente e sem qualquer comunicação ao juízo onde se realizou as buscas e prisões, em um crime sem violência ou grave ameaça e que não há qualquer risco ou perigo à vítima, ordem pública e outros elementos" (e-STJ fl. 170).
+Busca, assim, seja reconsiderada a decisão agravada ou seja provido o presente recurso, concedendo-se a liberdade à agravante.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Razão não assiste à defesa.
+Consoante asseverado na decisão agravada, não há como conhecer do recurso, tendo em vista que as alegações formuladas não foram enfrentadas pelo Tribunal de origem no acórdão impugnado, o qual entendeu que os autos não estavam devidamente instruídos.
+Assim, esta Casa fica impedida de examinar as teses, sob pena de incorrer em indevida supressão de instância.
+Ao discorrer sobre o tema, BRASILEIRO vaticina com clareza que se revela "inviável, portanto, o pedido de julgamento de habeas corpus per saltum, ou seja, o julgamento do remédio heroico pelas instâncias superiores sem prévia provocação das instâncias inferiores acerca do constrangimento ilegal à liberdade de locomoção, sob pena de verdadeira supressão de instância e consequente violação do princípio do duplo grau de jurisdição" (LIMA, Renato Brasileiro. Manual de processo penal: volume único. 4ª ed. rev. ampl. e atual. Salvador: JusPodium, 2016, p. 2.470).
+Logo, ante a falta de manifestação do colegiado estadual sobre a tese, percebe-se a incompetência desta Corte Superior para seu processamento e julgamento, já que inexiste, no ponto, ato a ser imputado à autoridade coatora, nos termos do art. 105, II, alínea a, da Constituição Federal, bem como do art. 13, I, alínea b, do Regimento Interno do Superior Tribunal de Justiça.
+Nesse sentido, guardadas as devidas particularidades:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. REGIME FECHADO (HOMICÍDIO, TRÁFICO ILÍCITO DE ENTORPECENTE, ASSOCIAÇÃO PARA O TRÁFICO E ROUBO). PRISÃO DOMICILIAR. PANDEMIA COVID-19. RECOMENDAÇÃO. AUSÊNCIA DOS PRESSUPOSTOS. IMPOSSIBILIDADE. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL.
+1. O pleito de prisão domiciliar temporária para tratamento de saúde (colelitíase/pedras na vesícula) não foi suscitado e, portanto, apreciado pelo Tribunal de origem, o que impede o conhecimento da questão por esta Corte, sob pena de indevida supressão de instância.
+2. Com relação à Recomendação n. 62 do Conselho Nacional de Justiça, segundo asseverou a Corte estadual, até o momento não há provas de que o agravante faça parte de grupo de risco ou não esteja recebendo o tratamento adequado. Portanto, embora possa ser portador de hipertensão arterial sistêmica, não está inserido na excepcionalidade para fazer jus ao benefício da prisão albergue domiciliar, pois não comprovou que esteja em situação de vulnerabilidade no ambiente prisional.
+3. Agravo regimental improvido, confirmada a decisão de fls. 128/132. (AgRg no HC 628.172/PE, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 4/5/2021, DJe 11/5/2021.)
+PROCESSUAL PENAL E PENAL. HABEAS CORPUS. PRISÃO PREVENTIVA. ALEGAÇÃO DE AUSÊNCIA DE INDÍCIOS DE AUTORIA. INVIÁVEL. NÃO CONHECIMENTO. CONSTRANGIMENTO ILEGAL POR EXCESSO DE PRAZO PARA FORMAÇÃO DA CULPA. SUPRESSÃO DE INSTÂNCIA. NÃO CONHECIMENTO. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O TRÁFICO. FUNDAMENTAÇÃO CONCRETA. I LEGALIDADE. AUSÊNCIA. HABEAS CORPUS PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DENEGADO.
+1. Em sede de habeas corpus não há espaço para discussão de autoria delitiva, uma vez que a ação mandamental em comento visa sanar ilegalidade verificada de plano.
+2. Constatada a falta de manifestação do Tribunal de origem a respeito do constrangimento ilegal decorrente de excesso de prazo para formação da culpa, obsta-se a análise da matéria nesse momento, pois provocaria indevida supressão de instância.
+ ..  (HC 387.938/SP, relator Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 16/3/2017, DJe 23/3/2017.)
+Por fim, se de fato os documentos enviados ao Tribunal estadual lá não aportaram por falha no sistema daquela Corte, caberia à defesa informar ao julgador de segundo grau e buscar a devida instrução do processo, pois, ausente manifestação do Tribunal mineiro, não se verifica a competência deste Tribunal Superior.
+À vista do exposto, nego provimento ao agravo regimental.
+É como voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
