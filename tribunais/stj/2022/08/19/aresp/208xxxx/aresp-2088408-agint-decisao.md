@@ -1,0 +1,51 @@
+DECISÃO
+Cuida-se de agravo interno, interposto por ATIVIDADE CORPO MENTE MOVIMENTO EIRELI - MICROEMPRESA E OUTRO, em face de decisão monocrática acostada às fls. 1459-1461, e-STJ, que não conheceu do agravo dos ora insurgentes.
+O apelo extremo, interposto com fundamento no artigo 105, inciso III, alíneas "a" e "c" da Constituição Federal, desafia acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 1321, e-STJ):
+APELAÇÃO. FRANQUIA. AÇÃO DECLARATÓRIA DE NULIDADE CUMULADA COM INDENIZAÇAO POR PERDAS E DANOS. Sentença de parcial procedência. Julgamento antecipado da lide.
+Alegação de nulidade por cerceamento de defesa. Inocorrência. Produção de prova oral que em nada contribuiria na instrução probatória.
+Elementos nos autos suficientes para a formação da convicção do órgão julgador. Preliminar afastada.
+Decisão surpresa não caraterizada. Revelia da ré não acarreta a procedência automática das pretensões formuladas. Presunção relativa de veracidade dos fatos alegados. Possibilidade de rejeição dos pedidos em caso de ausência de verossimilhança das afirmações. Alegação de falta de suporte por parte da franqueadora, com a prática de atos de retaliação. Não comprovação.
+Provas acostadas aos autos que demonstram o efetivo cumprimento dos deveres contratuais, com prestação de todo suporte técnico necessário e realização de treinamento inicial aos franqueados.
+Sucumbência mínima da ré, apenas quanto à declaração de nulidade da cláusula de não concorrência. Ônus corretamente atribuído aos autores. SENTENÇA MANTIDA. RECURSO DESPROVIDO.
+Os embargos de declaração foram rejeitados (fls. 1338-1343, e-STJ).
+Nas razões do recurso especial (fls. 1346-1376, e-STJ), os insurgentes alegaram que o acórdão recorrido violou os seguintes dispositivos de lei federal: i) artigos 9º, 10 e 932, I, do CPC/15, ao se concluir pela inexistência de provas, ferindo o contraditório e proferindo decisão-surpresa; ii) artigo 344 do CPC/15, pois não foram observados os efeitos da revelia quanto aos fatos não contestados pela ora agravada, e iii) artigos 489, §1º IV, 508 e 1.022, II, do CPC/15, alegando omissão no julgado. Também aduzem dissídio jurisprudencial quanto à tese de configuração do cerceamento do direito de defesa.
+Foram apresentadas contrarrazões (fls. 1417-1423, e-STJ).
+Inadmitido o apelo nobre (fls. 1424-1428, e-STJ), adveio o agravo de fls. 1441-1443, e-STJ visando destrancar a insurgência, o qual não foi conhecido, ante a incidência da Súmula 182/STJ (fls. 1459-1461, e-STJ).
+Daí o presente agravo interno (fls. 1464-1470, e-STJ), no qual os insurgentes aduzem ter impugnado todos os óbices da decisão de inadmissibilidade.
+Não foi apresentada impugnação (fl. 1473, e-STJ).
+É o relatório.
+Decide-se.
+Ante as razões expendidas no agravo interno, reconsidero a decisão monocrática anteriormente proferida (fls. 1459-1461, e-STJ) e torno-a sem efeito, porquanto - de fato - fora rebatido o óbice da ausência de demonstração de ofensa aos artigos indicados, nas razões de agravo (fls. 1431-1443, e-STJ), tendo como impugnados todos os fundamentos da decisão agravada.
+Passo, portanto, a reapreciação do agravo.
+A irresignação merece prosperar, em parte.
+1.Os recorrentes apontam violação aos artigos 489, §1º IV, 508 e 1.022, II, do CPC/15, sob o argumento de que o Tribunal local foi omisso quanto a análise da questão referente à existência de coisa julgada, aduzindo que (fls. 1371 e 1373, e-STJ):
+A relação entre as recorrentes Atividade Corpo e Mente Movimento Ltda. - ME e Luisi Falleiros Porto e a recorrida Studio de Exercícios de Pilates no Brasil Ltda. era de franquia comercial.
+Foram, então, propostas duas demandas de rescisão contratual: i) autos 1042306-36.2015.8.26.0100, que tramitaram perante a 38ª Vara Cível de São Paulo-SP, proposta pela recorrida Studio de Exercícios de Pilates no Brasil Ltda., e; ii) a presente demanda, intentada pelas recorrentes Atividade Corpo e Mente Movimento Ltda. - ME e Luisi Falleiros Porto.
+(..)
+Resumidamente, houve rescisão contratual, sendo que a franqueadora Studio de Exercícios de Pilates no Brasil Ltda. alegou nos autos 1042306-36.2015.8.26.0100 que quem deu causa foi a franqueada Atividade Corpo e Mente Movimento Ltda. - ME.
+De outro lado, a franqueada Atividade Corpo e Mente Movimento Ltda. - ME sustentou no presente feito que quem deu causa à rescisão foi a franqueadora Studio de Exercícios de Pilates no Brasil Ltda.
+Atente-se para o fato de que nos autos 1042306- 36.2015.8.26.0100, a franqueadora Studio de Exercícios de Pilates no Brasil Ltda. pretendia receber de Atividade Corpo e Mente Movimento Ltda. - ME e Luisi Falleiros Porto indenização por rescisão imotivada pelo mesmo contrato de franquia discutido aqui.
+Destaque-se que os autos 1042306-36.2015.8.26.0100 já foram sentenciados, inclusive com trânsito em julgado, no sentido de declarar que a franqueadora Studio de Exercícios de Pilates no Brasil Ltda.
+não poderia exigir multa, pois a franqueada Atividade Corpo e Mente Movimento Ltda. - ME não deu causa à rescisão.
+Note-se a insólita situação apresentada. Enquanto nos autos 1042306-36.2015.8.26.0100, em que já houve trânsito em julgado, a culpa pela rescisão contratual foi atribuída à franqueadora Studio de Exercícios de Pilates no Brasil Ltda., o v. acórdão recorrido aponta que não houve demonstração dos fatos alegados, implicando no reconhecimento de que a causadora da rescisão do contrato de franquia foi a franqueada Atividade Corpo e Mente Movimento Ltda. - ME.
+Ainda, mesmo após oferecimento de embargos de declaração, o e. TJSP se negou a abordar o tema de ofensa à coisa julgada: (..)
+Infere-se que a matéria fora levada à apreciação da Corte local, nas razões de apelação (fls. 1276-129, e-STJ) e nos embargos de declaração (fls. 1333-1337, e- STJ), porém o órgão julgador não apreciou a questão, aduzindo, tão somente a inexistência de vícios a serem sanados por meio de embargos declaratórios.
+Todavia, não se vislumbra no acórdão recorrido a análise detida da questão quanto à existência de coisa julgadaà luz dos argumentos elencados pelas partes, embora tenham sido apontados os vícios nos embargos de declaração pelos recorrentes.
+Consoante entendimento deste Superior Tribunal de Justiça, deve ser reconhecida a alegada negativa de prestação jurisdicional dos acórdãos que deixam de se manifestar sobre questões relevantes para o deslinde da controvérsia, como ocorrena hipótese sub judice.
+Confiram-se, nesse sentido, os seguintes julgados:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. ACIDENTE DE TRÂNSITO.VIOLAÇÃO AO ART. 1.022 DO CPC/2015 CONFIGURADA. ACÓRDÃO ESTADUAL OMISSO QUANTO A PONTO ESSENCIAL AO DESLINDE DA CONTROVÉRSIA. AGRAVO DESPROVIDO.
+1. Decisão atacada que deu provimento ao recurso especial da parte ora agravada para, reconhecendo violação ao art. 1.022 do CPC/2015, anular o acórdão que julgou os aclaratórios e determinar o retorno dos autos ao Tribunal de origem para novo julgamento dos embargos de declaração, como entender de direito, sanando a omissão reconhecida.
+2. Fica configurada a ofensa ao art. 1.022 do CPC/2015 quando o Tribunal a quo, apesar de devidamente provocado nos embargos de declaração, não se manifesta sobre tema essencial ao deslinde da controvérsia.
+3. Agravo interno desprovido.
+(AgInt no REsp n. 1.914.275/PB, relator Ministro Raul Araújo, Quarta Turma, julgado em 28/6/2021, DJe de 9/8/2021.) AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE RESCISÃO DE CONTRATO. SEGURO DE VIDA. 1. OMISSÃO DO TRIBUNAL ESTADUAL QUANTO À ALEGAÇÃO DE JULGAMENTO EXTRA PETITA. 2. MULTA DO ART. 1.026, § 2º, DO CPC/2015. AFASTAMENTO. AUSÊNCIA DE INTUITO PROTELATÓRIO. 3. DEMAIS ALEGAÇÕES PREJUDICADAS. 4. AGRAVO PARCIALMENTE PROVIDO.
+1.Segundo a jurisprudência do Superior Tribunal de Justiça, não tendo sido suprida a omissão apontada, impõe-se a devolução dos autos à Corte estadual, a fim de que realize novo julgamento dos embargos de declaração, sanando o vício atestado.
+2. Quanto à multa aplicada no julgamento dos embargos de declaração, com razão a recorrente, pois a multa não será cabível quando os embargos de declaração têm o objetivo de prequestionamento, consoante dispõe a Súmula 98/STJ.
+3. Determinado o retorno dos autos à instância originária para rejulgamento dos aclaratórios, fica prejudicada a apreciação das demais alegações.
+4. Agravo interno parcialmente provido.
+(AgInt no REsp n. 1.875.784/MG, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 28/9/2020, DJe de 7/10/2020.) PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 535, II, DO CPC/1973. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. RECONHECIMENTO. NULIDADE. RETORNO DOS AUTOS PARA NOVO JULGAMENTO DOS EMBARGOS DE DECLARAÇÃO. DECISÃO MANTIDA. 1. A falta de manifestação sobre questão relevante para a solução da causa, mesmo após a oposição de embargos de declaração, qualifica negativa de prestação jurisdicional e violação do art. 535, II, do CPC/1973, vigente ao tempo em que praticados os atos processuais.
+Precedentes. 2. Reconhecida a violação ao art. 535, II, do CPC/1973, impõe-se a decretação de nulidade do acórdão dos aclaratórios, determinando-se a baixa dos autos ao Tribunal de origem, para novo julgamento do recurso. 3. Agravo interno a que se nega provimento. (AgInt no AREsp 951.186/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 15/12/2016, DJe 01/02/2017)
+Com efeito, deve ser reconhecida a apontada violação ao artigo 1.022 do CPC/15, impondo-se a decretação de nulidade do acórdão que julgou os aclaratórios (fls. 1338-1343, e-STJ), determinando-se a baixa dos autos ao Tribunal de origem, para novo julgamento do recurso, a fim de que seja sanada a aludida omissão.
+2. Do exposto, reconsidero a decisão agravada e, com fulcro no art. 932 do CPC/15 e na Súmula 568/STJ, conheço do agravo para dar parcial provimento ao recurso especial, a fim de anular o julgamento dos embargos de declaração (fls. 1338-1343, e-STJ) e determinar o retorno dos autos ao Tribunal de origem para que sejam enfrentados os vícios apontados.
+Restam prejudicadas as demais matérias arguidas no recurso especial.
+Publique-se.
+Intimem-se.
