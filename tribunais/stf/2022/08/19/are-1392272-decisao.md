@@ -1,0 +1,23 @@
+DECISÃO:
+
+    1. Trata-se de agravo cujo objeto é decisão que não admitiu recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+
+    INCOMPETÊNCIA DA JUSTIÇA COMUM ESTADUAL Inocorrência Questão já pacificada pelo C. STJ Inaplicabilidade do disposto no art. 114, da CF. NULIDADE DO JULGADO Alegação de error in judicando Admissibilidade em parte Pedido de indenização de um mês por ano trabalhado que não era subsidiário, constituindo parte do pedido principal Contudo, não é caso de nulidade total da r. sentença, mas sim, de correção da omissão Inteligência do art. 1.013 § 3º inciso III do nCPC. NULIDADE DO JULGADO Fundamentação deficiente, violando o art. 93 inciso IX do nCPC Insurgência contra as razões de decidir, razão pela qual, a preliminar se imiscui com o mérito, de modo que com ele será analisada. PRESCRIÇÃO com relação ao quinquênio - Parcial admissibilidade Súmula n. 85/STJ Prescritas estão as parcelas anteriores a cinco anos da data de ajuizamento da ação. PRESCRIÇÃO em relação à licença-prêmio Descabimento - Aplicação do art. 1º do Decreto n. 20.910/32 Inexistência de comprovação de que o autor gozou dos blocos de licença prêmio Prescrição que se inicia a partir de sua dispensa, visto que não mais poderá gozar do benefício. APELAÇÃO - Ação anulatória c.c indenizatória Ex-funcionário de Serventia Extrajudicial, não optante pelo regime celetista, que foi contratado em maio/1.991, tendo sido dispensado, por justa causa, em maio/2.018 Alegação de que era funcionário exemplar, não havendo qualquer motivo relevante para a rescisão contratual na modalidade de “justa causa” Pretensão de percebimento de todos os direitos legais dispostos no Provimento CGJ n. 14/91, consistentes em indenização de um mês de salário por ano trabalhado, cinco blocos de licença prêmio, adicional por tempo de serviço, com acréscimo salarial de 5% para cada cinco anos trabalhados, férias acrescidas do terço constitucional, salário remanescente do mês da dispensa, pagamento de indenização por danos morais e expedição de ofício ao juiz corregedor, comunicando a conduta ilícita da ré Sentença de parcial procedência Parcial admissibilidade Dispensa na modalidade de “justa causa” que é nula, por ausência de anuência do Juiz Corregedor - Não há direito à reintegração no cargo, no entanto, faz jus à indenização correspondente ao aviso prévio, décimo terceiro salário proporcional, um mês de salário por ano de serviço, além de eventual saldo salarial, adicional por tempo de serviço sobre o salário base e os blocos de licença prêmio devidos e não gozados Inteligência do Provimento n. 14/91, do Eg. TJSP Jurisprudência pacífica desta Egrégia Corte. DANO MORAL - Constrangimento Inocorrência Não obrigatoriedade pelo novo titular de Cartório Extrajudicial de manter o mesmo quadro funcional - Mero aborrecimento - Dano moral não caracterizado Preliminares afastadas Prejudicial de mérito relativa à prescrição parcialmente acolhida - Recursos parcialmente providos.
+
+    2. O recurso extraordinário busca fundamento no art. 102, III, a e c, da Constituição. A parte recorrente alega violação aos arts. 5º, II; 22, I; 41, 93, IX; 114, I e IX, e 236, todos da CF.
+
+    3. O recurso não merece provimento, tendo em vista que, para dissentir da conclusão adotada pelo acórdão recorrido, é imprescindível a interpretação de normas infraconstitucionais (Provimento 14/1991 da Corregedoria-Geral de Justiça do Estado de São Paulo, Decreto 20.910/32 e Lei 8.935/1994), o que não se admite na via extraordinária.
+
+    4. Ademais, o STF já decidiu que as decisões judiciais não precisam ser necessariamente analíticas, bastando que contenham fundamentos suficientes para justificar suas conclusões (AI 791.292-QO-RG, Rel. Min. Gilmar Mendes). Na hipótese, a decisão está devidamente fundamentada, embora em sentido contrário aos interesses da parte agravante.
+
+    5. Quanto à interposição do recurso extraordinário pelo art. 102, III, c, da Constituição Federal, é necessário que o acórdão recorrido tenha considerado válida lei ou ato de governo local contestados ante a Constituição, o que não se deu no caso.
+
+    6. Diante do exposto, com base no art. 932, IV e VIII, c/c o art. 1.042, § 5º, do CPC/2015, e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015.
+
+    Publique-se.
+
+          Brasília, 19 de agosto de 2022.
+
+Ministro LUÍS ROBERTO BARROSO
+
+Relator
