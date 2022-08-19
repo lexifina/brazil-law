@@ -1,0 +1,32 @@
+DECISÃO
+HDI SEGUROS S. A.interpõe agravo interno (fls. 602/609e-STJ)contra decisão, proferida pela Presidência do Superior Tribunal de Justiça (fls. 291/293,e-STJ), que não conheceu do agravo em recurso especial (fls. 597/599e-STJ),em virtude da não impugnação específica aosfundamentosda decisão agravada.
+Nesta feita, a parte agravante aduz que refutou expressamente todos os fundamentos da decisão agravada.
+Devidamente intimada, a parte contrária não impugnou o recurso (fl. 612e-STJ).
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+Observa-se que a parte recorrente, na petição de agravo de(fls. 576/583e-STJ), impugnou suficientemente todos os fundamentos da decisão que deixou de admitir o seu recurso especial, razão pela qual se há de reconsiderar a decisão de fls. 597/599e-STJ.
+Passa-se, pois, ao exame do recurso especial de fls. 245/255(e-STJ) fundamentado no art. 105, inciso III, alínea"a", da Constituição Federal e interposto contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo:
+"Apelação Cível. Ação de Cobrança de Indenização Securitária c. c. Indenização por Danos Morais. Seguro prestamista vinculado a contrato de financiamento de imóvel. Morte do segurado. Sentença de parcial procedência. Inconformismo das rés. Negativa de pagamento na regulação do sinistro por alegação de conhecimento prévio da doença pelo segurado. Aplicabilidade do art. 6º, VIII, do CDC, com a inversão do ônus da prova. Relação de Consumo. Ausência de provas idôneas para comprovar o quanto alegado. Desatendimento do ônus que lhes é imposto pelo artigo 373, II, do Código de Processo Civil. Seguradora que, tendo o dever de submeter o proponente a exame de saúde, não o fez. Má-fé não configurada. Indenização securitária devida. Pagamento, todavia, que deve ser feito ao beneficiário, no caso, a instituição financeira, para quitação do financiamento. Sentença mantida, com observação. Ônus sucumbenciais mantidos. Recurso parcialmente provido, nos termos da fundamentação." (e-STJ fl. 481)
+Os embargos de declaração opostos foram rejeitados.
+Em suas razões arecorrente aponta violação dos seguintes dispositivos legais e suas respectivas teses:
+(i) artigos 489 e1.022 do CPC/2015, alegando nulidade da decisão querejeitou os embargos de declaração. Isso porque, segundo defende, manteveas omissões apontadas em relação à legislação federal invocada, aduz, ainda, a ausênciade fundamento, ação do acórdão recorrido;
+(ii) artigos 757, 760, 884 do Código Civil, alegando que não pode ser condenada ao pagamento do seguro em razão da omissão de doença preexistentee que não pode haver o pagamento de parcelas inadimplidas anteriores ao óbito, em razão queo segurado não poderá receber indenização superior ao próprio bem assegurado e
+(iii) artigo 491 do Código Civil - fixação de juros e correção monetária.
+De início, quanto à alegada violação dos arts. 489 e 1.022, registra-se que a negativa de prestação jurisdicional nos embargos declaratórios somente se configura quando, na apreciação do recurso, o tribunal de origem insiste em omitir pronunciamento sobre questão que deveria ser decidida, e não foi.
+Não é o caso dos autos.
+Com efeito, as instâncias ordinárias enfrentaram a matéria posta em debate na medida necessária para o deslinde da controvérsia, não havendo falar em negativa de prestação jurisdicional.
+Impende asseverar que cabe ao julgador apreciar os fatos e provas dademanda segundo seu livre convencimento, declinando, ainda que de forma sucinta, os fundamentos que o levaram a solucionar a lide.
+Desse modo, não há falar em deficiência de fundamentação da decisão o não acolhimento de teses ventiladas pela recorrente, mormente se o acórdão abordar todos os pontos relevantes da controvérsia, como na espécie.
+Quanto ao pagamentodo seguro,juros e correção monetária, extrai-se das razões recursais que a parte recorrente não refutou o seguinte fundamento adotado pela Corte local:
+"não se ignora que o a Declaração Pessoal de Saúde (DPS), indica omissão sobre a existência de doenças preexistentes, mas a mera aposição de x em quadro de contrato de adesão não traz a segurança necessária para afirmar qualquer má-fé do falecido, até porque é comum a entrega de documentos padronizados que são meramente assinados, já entregues preenchidos em conformidade com a aceitação do seguro ou posteriormente, a depender do caso.
+A situação vivenciada não revela que tenha o marido da autora agido com má-fé, ocultando a preexistência da doença que o levou a óbito, até porque os exames trazidos aos autos pela ré (fls. 320/326) são provas inocultáveis de que não foram encontrados problemas cardíacos.
+(..)
+(..) não há que se falar em omissão na decisão, que teria deixado de se pronunciar expressamente acerca do termo inicial dos juros e da correção monetária, pois tais questões não foram trazidas à consideração com o recurso.
+Com efeito, basta análise dos argumentos das razões recursais para se inferir que em momento algum pugnam pela aplicação de correção monetária nos termos da cláusula 4.4 e juros moratórios nos termos da cláusula 5 do contrato. Certamente, se invocadas fossem tais aplicações, à evidência haveria determinação do estrito cumprimento do contrato, por falta de contestação de tais dispositivos por quaisquer das partes" (e-STJ fls. 486, 554/555).
+Assim, havendo fundamento suficiente no julgado impugnado que não foi objeto de impugnação pela parte recorrente, aplica-se, no ponto, o óbice da Súmula nº 283/STF, aplicada por analogia: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Por fim, a alegação denão pode sercondenada ao pagamento de parcelas inadimplidas anteriores ao óbito,não foidebatida pelo Tribunal de origem, razão pela qual incide na espécie a Súmula nº 282 do Supremo Tribunal Federal, aplicada por analogia.
+Ante o exposto, reconsidero a decisão de fls. 597/599 (e-STJ) para, em novo exame, conhecer do agravo e negar provimento ao recurso especial.
+Na origemos honorários sucumbenciais foram fixados em 10% (dezpor cento) sobre o valor da condenação os quais devem ser majorados para o patamar de 12% (dozepor cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observado o benefícioda gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
