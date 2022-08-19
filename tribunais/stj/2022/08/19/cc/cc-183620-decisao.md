@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de agravo interno interposto em face de decisão monocrática de minha relatoria em conflito de competência suscitado na ação ajuizada por INA DE SOUZA MENDONÇA contra o MUNICÍPIO DE NIQUELÂNDIA.
+A decisão ora agravada possui o seguinte dispositivo,in litteris:
+Pelo exposto, determino a devolução dos autos ao Juízo Suscitante, com a devida baixa, para que, em observância aos arts. 543-B, § 3º, e 543-C, §§ 7º e 8º, do CPC e 1.040 e seguintes do CPC/2015, e após a publicação do acórdão do respectivo recurso excepcional representativo da controvérsia promova o julgamento ou encaminhe os autos ao juízo competente. (fl. 476)
+O Ministério Público Federal interpôs o presente agravo, em que alega, em síntese, que:
+Ademais, a disciplina dos feitos repetitivos não se refere a conflitos de competência, mas apenas a recursos especiais sob os cuidados do STJ. A questão dos feitos repetitivos põe-se, assim, quando da admissão desses apelos na instância recorrida, como se vê no art. 1.030, I, b, e 1.040 do CPC, entre outros. Falta norma legal autorizadora da transposição da disciplina do recurso especial para o conflito de competência. (fl. 483)
+De fato, verifica-se ser equivocada a remessa dos autos ao Juízo Suscitante, uma vez que o Conflito de Competência é ação originária deste Superior Tribunal de Justiça, sendo de rigor a suspensão do presente feito, com o sobrestamento perante este Tribunal, para que, somente após o julgamento do Tema 1.143/STF (Repercussão Geral), seja retomada a análise do feito em tela,em nome da economia processual e da segurança jurídica, nos termos do art. 1.040, III, do CPC/15.
+Assim, torno sem efeitos a decisão de fls. 474-477, julgo prejudicado o presente agravo interno e determino a remessa dos autos para a Coordenadoria da Primeira Seção, até o julgamento definitivo doRE 1.288.440/SP (Tema 1.143/STF em Repercussão Geral).
+Publique-se. Intimem-se.
