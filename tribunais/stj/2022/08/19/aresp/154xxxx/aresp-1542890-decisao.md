@@ -1,0 +1,25 @@
+DECISÃO
+Tratam-se de agravos interpostos pela FAZENDA DO ESTADO DE SÃO PAULO e por PERFIL LIDER INDUSTRIA ELETROMECANICA EIRELI contra a decisão que inadmitiu os recursos especiais aviados com o objetivo de reformar o acórdão assim ementado, in verbis:
+TRIBUTÁRIO. ICMS. 1. Auto de Infração. Creditamento indevido de ICMS. Operação realizada com empresa fornecedora considerada inapta, com efeito retroativo. Incumbia à parte autora comprovar a efetiva realização das operações. Manutenção, nesse particular, do auto de infração. 2. Multa reduzida para 100% do valor total do imposto e não dos negócios. Precedentes. 3. Sentença parcialmente reformada. Recurso parcialmente provido.
+Os embargos de declaração opostos foram rejeitados.
+No recurso especial de PERFIL LIDER INDUSTRIA ELETROMECANICA EIRELI, o recorrente indica como violados os arts. 100, I e 103, ambos do CTN, afirmando, em suma, que é terceiro de boa fé em relação à nota inidônea considerada no auto de infração, sendo devido, ipso facto, o creditamento de ICMS.
+Adiante, indicou ofensa ao art. 142 do CTN, argumentando, em síntese, que não é de sua responsabilidade fiscalizar o pagamento do imposto em operações anteriores visando o aproveitamento dos créditos deles decorrentes.
+Também aponta afronta a súmula e a entendimento de julgado do STJ.
+No recurso especial da FAZENDA DO ESTADO DE SÃO PAULO a recorrente alega, em suma, que a multa aplicada pela administração é hígida não tendo natureza confiscatória ou desproporcional, sendo fixada de acordo coma legislação pertinente.
+Também afirma, em resumo, que os honorários fixados devem ser readequados de acordo com o art. 85, §8º do CPC/2015.
+Após decisum que inadmitiu os recursos especiais foram interpostos os presentes agravos, tendo os recorrentes apresentado argumentos visando rebater os fundamentos da decisão agravada.
+É o relatório. Decido.
+Considerando que os agravantes, além de atender aos demais pressupostos de admissibilidade, impugnaram a fundamentação da decisão agravada, de rigor o conhecimento dos agravos, passando-se ao exame dos recursos especiais interpostos.
+RECURSO ESPECIAL DE PERFIL LIDER INDUSTRIA ELETROMECANICA EIRELI
+O Tribunal a quo, manteve a sentença na parte que afastou a boa-fé do contribuinte, afirmando não haver comprovação do quanto assentado na súmula 509/STJ.
+Dessa forma, para analisar a tese do recorrente de que seria terceiro de boa-fé seria impositivo revisitar os elementos probatórios constantes dos autos, o que é indevido no âmbito do recurso especial, atraindo o comando da súmula 7/STJ.
+RECURSO ESPECIAL DA FAZENDA PÚBLICA DO ESTADO DE SÃO PAULO
+A FAZENDA PÚBLICA, ao buscar a manutenção da multa fixada em 118%, ao invés da adequação feita para 100%, apresentou argumentos afirmando, em suma, que a lei permitiria a fixação, não tendo natureza confiscatória. No entanto não apontou quais os dispositivos legais que teriam sido violados, nem tão pouco como teriam sido. Desta forma o recorrente apresentou arrazoado deficiente, tendo em vista que não permitiu o confronto interpretativo necessário para o conhecimento do recurso especial. Incidência da súmula 284/STF.
+Quanto aos honorários verifica-se que este Superior Tribunal de Justiça, no julgamento do tema 1076, a depender da presença da Fazenda Pública, reservou a utilização do art. 85, § 8º do CPC/2015, fixação por equidade, para quando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo.
+Também foi estabelecida uma sequência objetiva na fixação da verba, devendo a fixação ser calculada subsequentemente sobre o valor (a) da condenação; ou (b) do proveito econômico obtido; ou (c) do valor atualizado da causa.
+Eis as teses consignadas no referido julgamento, in verbis:
+1) A fixação dos honorários por apreciação equitativa não é permitida quando os valores da condenação ou da causa, ou o proveito econômico da demanda, forem elevados. É obrigatória, nesses casos, a observância dos percentuais previstos nos parágrafos 2º ou 3º do artigo 85 do Código de Processo Civil (CPC) - a depender da presença da Fazenda Pública na lide -, os quais serão subsequentemente calculados sobre o valor: (a) da condenação; ou (b) do proveito econômico obtido; ou (c) do valor atualizado da causa.
+2) Apenas se admite o arbitramento de honorários por equidade quando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo.
+Na hipótese dos autos, sendo aferível o proveito econômico, deve ser definida a verba de honorários de acordo com a gradação do §3º do art. 85 do CPC/2015.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial de PERFIL LIDER INDUSTRIA ELETROMECANICA EIRELI e com fundamento no art. 253, parágrafo único, II, a e b, do RISTJ, conheço do agravo para conhecer parcialmente do recurso especial da FAZENDA PÚBLICA DO ESTADO DE SÃO PAULO e, nessa parte, negar-lhe provimento.
+Publique-se. Intimem-se.
