@@ -1,0 +1,18 @@
+DECISÃO
+Na origem trata-se de Exceção de Pré-Executividade em que visa a cobrança de créditos relativos ao IPTU e TCDL do ano de 2001, 2002 e 2003, referentes ao imóvel situado na Av. Presidente Vargas. Na sentença acolheu-se o pedido. No Tribunal a quo a sentença foi mantida. O valor da causa foi fixado em R$ 24.987,31.
+O recurso especial foi interposto no TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, contra acórdão com o seguinte resumo de ementa:
+APELAÇÃO CÍVEL. EXECUÇÃO FISCAL - IPTU E TCDL. EXCEÇÃO DE PRE-EXECTTIVIDADE. ACOLHIMENTO. SENTENÇA QUE RECONHECEU A ILEGITIMIDADE DA EXECUTADA E JULGOU EXTINTA A EXECUÇÃO. RECURSO DA MUNICIPALIDADE. RECURSOS CONHECIDO E DESPROVIDO.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+Pois bem. Dos documentos que instruem os autos, extrai-se que a presente execução fiscal busca o recebimento dos débitos de IPUT e TCDL, referentes aos exercícios dos anos de 2001 a 2003, do imóvel descrito na CDA de fls. 02(sala 501 do prédio situado na Av. Presidente Vargas,3131).
+ ..
+Assim, ainda que, em regra, o Exequente possua a faculdade de direcionar a execução tanto contra o promitente vendedor quanto contra o promitente comprador, no caso, tal possibilidade resta afastada, diante do que restou decidido pelo Juízo Falimentar, sob pena de pagamento em duplicidade.
+Dessa forma, a cobrança dos débitos aqui perquiridos deverá se dar junto ao Juízo Falimentar, uma vez que o preço recebido quando da arrematação em leilão judicial já se encontraprovisionado para a quitação da dívida recebida como reserva de crédito.
+Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Relativamente às demais alegações de violação (artigos 1.245 e 1.417 do Código Civil e ao artigo 34 do CTN), esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+Outrossim, é firme a orientação, baseada na Súmula 518 do STJ, de que não é possível, pela via do Recurso Especial, a análise de eventual ofensa a súmula, decreto regulamentar, resoluções, portarias ou instruções normativas, por não estaremtais atos administrativos compreendidos no conceito de lei federal, nos termos do art. 105, III, da Constituição Federal.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
