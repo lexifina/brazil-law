@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso especial interposto pela UNIVERSIDADE TECNOLÓGICA FEDERAL DO PARANÁ UTFPR contra acórdão proferido peloTRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃOassim ementado:
+ADMINISTRATIVO CUMPRIMENTO DE SENTENÇA AÇÃO ORDINÁRIA N 19997000033970 0/PR DIFERENÇAS RELATIVAS AOREAJUSTE RESIDUAL DE 317% DECISÃO EXEQUENDA PROFERIDANA VIGÊNCIA DA LEI N 11960/2009 JUROS CORREÇÃO MONETÁRIA ÍNDICES DA CADERNETA DE POUPANÇA COISA JULGADA INCIDÊNCIA DO REAJUSTE SOBRE PARCELA INCORPORADA À REMUNERAÇÃO LEI N 9030/1995 PSS SISTEMÁTICA DE CÁLCULO EMBARGOS DECLARATÓRIOS MULTA ABATIMENTO DOS VALORES PAGOS NA VIA ADMINISTRATIVA E REFLEXOS NA SUCUMBÊNCIA
+Os embargos de declaração foram rejeitados.
+No recurso especial, fundamentado na alínea "a" do permissivo constitucional, o recorrente sustenta violação aoartigo 1.022, I e II,do CPC/2015.
+Preliminarmente, aduz que o acórdão de origem foi omisso na análise de questões relevantes para a conclusão da controvérsia.
+Contrarrazões ao recurso especial às fls. 241/253.
+Decisão de admissibilidade à fls. 256/258.
+É o relatório. Decido.
+A pretensão não merece acolhimento.
+Consta do v. acórdão de origem:
+Por ocasião da análise do pedido suspensivo, foi prolatada decisão nos seguintes termos:
+(..) Do abatimento dos valores pagos na via administrativa e reflexos na sucumbência.
+Os pagamentos administrativos - cujos valores devem ser deduzidos do crédito exequendo - foram realizados antes do ajuizamento do cumprimento/execução de sentença, e não foram abatidos, no cálculo elaborado pelos exequentes, porque não constaram nos documentos fornecidos pela executada. Como bem referido pelo juízo a quo, o valor da execução foi estimado no pedido inicial quando a parte exequente não estava de posse das fichas financeiras, que foram anexadas no curso do processo pela parte executada. Assim, a decisão merece reparos, pois a parte exequente anuiu com a redução do montante exequendo após a juntada das fichas financeiras pela parte executada e elaboração de conta pelo NCJ atendendo a esse parâmetro, não devendo ser considerada sucumbente sobre a diferença entre o pleiteado inicialmente e o valor fixado na decisão embargada. Diante desse contexto, não há como impor aos exequentes os ônus sucumbenciais relativamente ao excesso de execução decorrente do não abatimento das parcelas recebidas na esfera administrativa, porque, embora eles não possam alegar que não tinham prévio e pleno conhecimento do recebimento dos citados valores, foram induzidos em erro pela documentação fornecida pela executada, não tendo havido oposição à respectiva compensação.
+Estando o decisum em consonância com a jurisprudência e as circunstâncias do caso concreto, não vejo motivos para alterar o posicionamento adotado, que mantenho integralmente.
+Com efeito, verifica-se não ter ocorrido ofensa aos artigo1.022, I e II, do CPC/2015, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos presentes autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Ademais, o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. ACIDENTE DE TRÂNSITO. VIOLAÇÃO AO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. ILEGITIMIDADE PASSIVA. RESPONSABILIDADE SOLIDÁRIA DO CONSÓRCIO. SÚMULAS 5 E 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO. 1. A violação ao art. 1.022 do CPC/2015 não ficou caracterizada, uma vez que o Tribunal de origem examinou, de forma fundamentada, todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que tenha decidido em sentido contrário à pretensão do recorrente. 2. Tendo o Tribunal local concluído pela legitimidade do consórcio e sua responsabilização solidária no caso, não há como rever esse entendimento sem o necessário revolvimento do acervo fático-probatório dos autos e a análise e interpretação de cláusulas contratuais, o que não se admite em âmbito de recurso especial, ante o óbice das Súmulas 5 e 7/STJ. 3. Agravo interno não provido. (AgInt no REsp 1827460/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 31/05/2021, DJe 07/06/2021 - grifo nosso)
+Ante o exposto, com fulcro no art. 932, IV, do CPC/2015 c/c o art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. SERVIDOR PÚBLICO.VIOLAÇÃO AO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. RECURSO ESPECIAL NÃO PROVIDO.
