@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo interno interposto por PAULO ROGÉRIO PIVA, contra a decisão de fls. 278-283, e-STJ, que deu parcial provimento ao recurso especial de MAURÍCIO DAL AGNOL, para fixar a data da citação como marco inicial dos juros moratórios dos danos materiais, mantidas as demais disposições do acórdão.
+Nas razões do presente recurso, o agravantesustentaque os juros de mora incidem a partir do momento em que o recorrido apropriou-se indevidamente dos valores que lhe pertenciam, nos termos do que foi ressaltado pela Corte de origem, e não da data em que foi citado para responder judicialmente, conforme consignou a decisão ora recorrida.
+Devidamente intimada, a parte contrária apresentou impugnação (fls. 309-317e-STJ), na qual pleiteia a manutenção da decisão combatida.
+É o relatório.
+Decido.
+De fato, a decisão agravada merece ser reconsiderada.
+Ao examinar o termo inicial para a incidênciados juros de mora, a Corte local dispôs o seguinte:
+"Depreende-se dos autos que na fase de cumprimento de sentença (001/1.08.0005770-1), a Brasil Telecom depositou para garantia do juízo a importância de R$ 117.118,34, em 12.08.2008 - fls. 39/40.
+Posteriormente, foi entabulado acordo entre as partes, no montante de R$ 117.238,03 em favor do autor e de mais três partes que compuseram o polo ativo daquela demanda, frente a um total depositado de R$ 140.559,35.
+Ao autor, tocou a cota parte de R$ 44.668,26. (Petição das fls. 41/43) O alvará nº 22731/486-2011 fora expedido na data de 15.03.2011 (R$ 117.238,03) - fl. 49.
+Contudo, o réu apresentou ao autor o recibo de fl. 31, na quantia líquida de R$ 8.800,96 (bruta: R$ 14.668,26), abatidos os honorários contratuais (R$ 5.867,30), bem como a cópia da petição de acordo - fl. 30, porém, com valor adulterado, já que constou com montante aquém do que fora efetivamente avençado (R$ 44.668,26).
+Não se mostra crível a alegação do recorrente quanto à impossibilidade da apresentação de documentos em virtude da apreensão realizada pela Operação Carmelina, tendo em vista que o valor foi levantado por meio de alvará muito antes da deflagração da mencionada operação policial, e mesmo assim não foram prestadas asdevidas contas e repassado o crédito integral a que fazia jus o seu cliente.
+Dessa forma, o réu Maurício Dal Agnol deverá pagar ao autor o montante de R$ 30.000,00 (trinta mil reais), que é a diferença entre o valor levantado em favor do autor (R$ 44.668,26), descontada a importância que já lhe foi alçada (R$ 8.800,96) e os honorários advocatícios contratuais, os quais devidos no montante trazido o demonstrativo, tão somente, de R$ 5.867,30, conforme a prestação de contas da fl. 31.
+Do termo inicial e final dos juros de mora (valor a ser ressarcido):
+No tocante aos juros de mora incidentes sobre o valor a ser ressarcido, o termo inicial conta-se a partir da data em que houve o levantamento da importância devida mediante alvará.
+O termo final de tal parcela indubitavelmente será a data que em se realizar o efetivo pagamento das obrigações pelo demandado".
+Como se vê da transcrição acima, ao contrário do que registrou a decisão recorridao caso dos autos é de apropriação indébita de valores, visto queo advogado firmou acordo queem tese, seria vantajoso para o seu cliente, mas, quando do repasse da verba devida, apropriou-se indevidamente de parte desses valores. Assim, a incidência dos juros moratórios computa-se a partir da retenção indevida.
+Não se trata de simples (mas reprovável) descumprimento do contrato em prejuízo do cliente, como por exemplo, nas hipóteses em que o advogado confessa, desiste, celebra acordo sem anuência do representado ou renuncia a crédito consolidado em seu favor, em decisão já transitada em julgado, conforme se verifica dos inúmeros processos julgados nesta Corte, em que a parte recorrida, o Dr. Maurício Dal Agnol, figura como parte.
+Nesses contextos o encargo realmente incidiria somente a partir da citação do causídico para responder a ação judicial, visto que tratam de descumprimento do contrato, mas como visto acima, não é o caso dos autos.
+Assim, ressoa inequívoco que a conduta do recorrido, que inclusive tem desdobramentos na seara penal (art. 168, do Código Penal) se distancia de um mero descumprimento do contrato de mandato.
+Na espécie, o fim do mandato foi cumprido, qual seja, o advogado conseguiu firmar acordo que beneficiava o seu cliente. Entretanto,por livre e espontânea vontade, o causídico decidiu não repassar o valor devido ao representado, inclusive fraudando documentos, conforme registrou a Corte gaúcha.
+A propósito, confiram-se julgados análogos ao presente:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA CUMULADA COM INDENIZAÇÃO POR DANO MATERIAL E MORAL. MANDATO. SERVIÇOS ADVOCATÍCIOS CONTRATADOS. RETENÇÃO INDEVIDA DE VALORES. DANOS MATERIAIS. TERMO INICIAL DOS JUROS DE MORA. DATA DO ABUSO. ACÓRDÃO EM SINTONIA COM O ENTENDIMENTO FIRMADO NO STJ. SÚMULA 83 DESTA CORTE. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se viabiliza o recurso especial pela indicada violação do artigo 1022 do Código de Processo Civil de 2015. Isso porque, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente.
+2. "Os juros devidos pelo mandatário que desvia o numerário devido ao mandante fluem desde a data do abuso, e não da interpelação ou da citação. Art. 670 do CC/2002 e Súmula 43 do STJ.". (AgInt no REsp 1719517/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 06/11/2018, DJe 14/11/2018).
+3. Agravo interno não provido" (AgInt no REsp 1.921.541/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 31/5/2021, DJe de 7/6/2021).
+"AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA CUMULADA COM INDENIZAÇÃO. MANDATO. ADVOGADO. APROPRIAÇÃO INDEVIDA. JUROS DE MORA. TERMO INICIAL. PRECEDENTES. APLICAÇÃO DA TAXA SELIC. INOVAÇÃO RECURSAL. INVIABILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+1. "Os juros moratórios devidos pelo mandatário que se apropria indevidamente de valores incidem desde a data do desvio do numerário" (AgInt no AREsp 1.072.450/RS, ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 26/2/2019, DJe de 1º/3/2019).
+(..)
+3. Agravo interno a que se nega provimento" (AgInt no REsp1.828.549/RS, relator Ministro Raul Araújo, Quarta Turma, julgado em 8/2/2021, DJe de 23/2/2021).
+"AGRAVO INTERNO NO RECURSO ESPECIAL. CIVIL. MANDATO. AÇÃO DE COBRANÇA CUMULADA COM INDENIZAÇÃO POR DANO MATERIAL E MORAL. SERVIÇOS ADVOCATÍCIOS CONTRATADOS. APROPRIAÇÃO INDEVIDA DE NUMERÁRIO. DANOS MATERIAIS. TERMO INICIAL DOS JUROS DE MORA. DATA DO ABUSO. CC/2002, ART. 670. SÚMULA 43 DO STJ. RECURSO PROVIDO.
+1. Os juros de mora sobre a indenização por danos materiais são devidos desde o momento em que o mandatário apropria-se indevidamente dos valores recebidos em razão do cumprimento do mandato. Precedentes.
+2. Agravo interno provido para negar provimento ao recurso especial" (AgInt no REsp n. 1.799.395/RS, relator Ministro Raul Araújo, Quarta Turma, julgado em 18/6/2019, DJe de 28/6/2019).
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AO ART. 535 DO CPC/1973. NÃO OCORRÊNCIA. DANO MATERIAL. SERVIÇOS ADVOCATÍCIOS CONTRATADOS. PRESCRIÇÃO DECENAL. RECURSO REPETITIVO. TERMO INICIAL DOS JUROS DE MORA. ART. 670 DO CC/2002 E SÚMULA 43 DO STJ. NÃO PROVIMENTO.
+1. Não ofende o art. 535 do CPC/1973 a decisão que examina, de forma fundamentada, todas as questões submetidas à apreciação judicial.
+2. A Segunda Seção do STJ, por ocasião do julgamento dos EREsp 1.280.825/RJ, estabeleceu o entendimento de que o prazo prescricional para as ações fundadas no inadimplemento contratual, incluindo o da reparação de perdas e danos, é de 10 anos.
+3. Os juros devidos pelo mandatário que desvia o numerário devido ao mandante fluem desde a data do abuso, e não da interpelação ou da citação. Art. 670 do CC/2002 e Súmula 43 do STJ.
+4. Agravo interno a que se nega provimento" (AgInt no REsp 1.719.517/RS, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 6/11/2018, DJe de 14/11/2018).
+Ressalta-se que para modificar as conclusões adotadas no acórdão recorrido, quanto à ocorrência de apropriação indevida na espécie,seria necessário reexaminar o conjunto fático e probatório dos autos, o que é vedado na via do recurso especial em razão do óbice erigido pela Súmula nº 7, do STJ: "A pretensão de simples reexame de prova não enseja recurso especial".
+Ante o exposto, dou provimento ao agravo interno para negar provimento ao recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 20% (vinte por cento) sobre o valor da condenação, não cabendo a majoração prevista no art. 85, § 11, do Código de Processo Civil de 2015, por já estar no limite máximo estabelecido no § 2º do mesmo dispositivo legal.
+Publique-se.
+Intimem-se.
