@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MUNICÍPIO DE PARANAVAÍ com fundamento no art. 105, III, a, da Constituição Federal.
+Na origem, o Município de Paranavaí ajuizou ação de cobrança, com valor da causa atribuído em R$ 2.000,00 (dois mil reais), em dezembro de 2016, tendo como objetivo o ressarcimento dos valores pagos para custeio das despesas de iluminação pública decorrentes de áreas internas de condomínios privados.
+Após sentença que julgou parcialmente procedente o pedido, foi interposta apelação, a qual foi parcialmente providapelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, ficando consignado a aplicação do prazo prescricional quinquenal (art. 168 do CTN), em acórdão assim ementado:
+APELAÇÃO CÍVEL - AÇÃO DE COBRANÇA AJUIZADA PELA FAZENDA PÚBLICA - CONTRIBUIÇÃO DE ILUMINAÇÃO PÚBLICA(COSIP) - COBRANÇA INDEVIDA - RESTITUIÇÃO DETERMINADA PELO JUÍZO DE ORIGEM - PRAZO PRESCRICIONAL - CINCO ANOS- INTELIGÊNCIA DO ART. 168 DO CTN - RELAÇÃO TRIBUTÁRIA -INAPLICABILIDADE DO ART. 206, §3º, IV, DO CÓDIGO CIVIL - RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+O Município de Paranavaí ajuizou a ação de cobrança visando a restituição de contribuição de iluminação pública indevidamente exigida, ou seja, no presente caso, pelo fato de se tratar de contribuição, espécie tributária, deve-se aplicar o Código Tributário Nacional e não o Código Civil.
+No presente recurso especial, o recorrente alega violação ao art. 205 do Código Civil.Sustenta, em síntese, que deve ser aplicado o prazo prescricional de 10 anos previsto no dispositivo indicado como violado.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+É o relatório. Decido.
+A Primeira Seção do Superior Tribunal de Justiça, no julgamento dos REsps. n. 1.140.483/PR e 947.206/RJ, sob o rito dos recursos repetitivos, firmou a tese de queA ação de repetição de indébito (..) visa à restituição de crédito tributário pago indevidamente ou a maior, por isso que o termoa quoé a data da extinção do crédito tributário, momento em que exsurge o direito de ação contra a Fazenda Pública, sendo certo que, por tratar-se de tributo sujeito ao lançamento de ofício, o prazo prescricional é quinquenal, nos termos do art. 168, I, do CTN,correspondente ao Tema 229.
+Assim, o acórdão recorrido encontra-se em consonância com a tese firmada em sede de recursos repetitivos por este Superior Tribunal de Justiça no sentido de aplicação do prazo prescricional quinquenal, previsto no art. 168 do CTN, para o ressarcimento de contribuição de iluminação pública indevidamente exigida.
+Ante o exposto, com fundamento no art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
