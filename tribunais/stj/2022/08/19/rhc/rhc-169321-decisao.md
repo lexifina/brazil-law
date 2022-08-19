@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso emhabeas corpus com pedido liminar interposto porWILSON PEREIRA DA SILVAcontra acórdão proferido peloTRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (HC n.2076778-11.2022.8.26.0000).
+Depreende-se dos autos que o recorrente cumpre pena (6 anos, 8 meses de reclusão, e 2 anos e 8 meses de detenção)pela prática dos delitos previstos nosarts. 288, caput; 155, §4º, incisos II e IV; e 172, caput, todos do Código Penal.
+Impetrado habeas corpus pleiteando a concessão de prisão domiciliar, o Tribunal de origem denegou a ordem, em acórdão assim ementado (e-STJ fl. 106).
+Habeas Corpus. Condenação transitada em julgado. Alegação de constrangimento ilegal em razão da aplicação do regime inicial fechado. Pleito de prisão domiciliar. Análise profunda de mérito não é objeto de apreciação pela via estreita do "remédio heroico". Competência do Juízo da Execução.Ausência de pedido em sede de Execução e de comprovação de debilidade de saúde. Supressão de instância. Ordem denegada.
+Daí o presente recurso, no qual sustenta a defesa que"o Paciente é portador de inúmeras enfermidades gravíssimas: diabetes mellitus, bursite e sífilis terciária - (bactéria Treponema pallidum) grave.Consabido que, em razão da grave crise de saúde pública que enfrentamos, causada pelo surto pandêmico de doença respiratória provocado pelo COVID-19 (novo Corona Vírus), o Ministério da Saúde, por via da Portaria nº 188/2020, declarou "Emergência de Saúde Pública de Importância Nacional"(e-STJ fl. 120).
+Requer, liminarmente e no mérito, "seja concedida a ordem de Habeas Corpus, em definitivo, para reformar a decisão do r. Juízo a quo, determinando todas as medidas que visam exclusivamente salvar o paciente do perecimento iminente (medida absolutamente de caráter humanitário)" - e-STJ fl. 132.
+É o relatório.
+Decido.
+De saída, verifico que esta Casa não pode conhecer da questão suscitada no presente recurso emhabeas corpus, diante da falta de manifestação do Tribunal de origem sobre o tema, ao fundamento de não haver "notícia nos autos de que o pedido foi formulado perante o Juízo da Execução  ..  Ademais,não houve qualquer comprovação de debilidade de saúde do paciente apta a justificar a concessão de prisão domiciliar em razão da pandemia do Covid-19"(e-STJ fl. 109).
+Nessa alheta, fica impossibilitado o pronunciamento deste Sodalício, sobrepujando a competência da Corte estadual, sob pena de configuração do chamadohabeas corpus per saltum, a ensejar supressão de instância e violação dos princípios do duplo grau de jurisdição e do devido processo legal substancial.
+Adequado à espécie, nessa perspectiva, o ensinamento de Renato Brasileiro, que, ao apreciar a matéria, destacou a inviabilidade do "pedido de julgamento de habeas corpus per saltum, ou seja, do julgamento do remédio heroico pelas instâncias superiores sem prévia provocação das instâncias inferiores acerca do constrangimento ilegal à liberdade de locomoção, sob pena de verdadeira supressão de instância e consequente violação do princípio do duplo grau de jurisdição" (LIMA, Renato Brasileiro. Manual de processo penal: volume único. 4. ed. rev. ampl. e atual. Salvador: JusPodivm, 2016, p. 2.470).
+Nesse mesmo caminhar:
+PENAL E PROCESSO PENAL. RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. SENTENÇA CONDENATÓRIA. NEGATIVA DO DIREITO DE RECORRER EM LIBERDADE. FUNDAMENTAÇÃO CONCRETA. REITERAÇÃO DELITIVA, E NATUREZA E QUANTIDADE DA DROGA APREENDIDA. ILEGALIDADE. NÃO CONFIGURADA. RECURSO PARCIALMENTE CONHECIDO, E, NESTA PARTE, IMPROVIDO.
+1. Matéria não apreciada pelo Tribunal a quo, também não pode ser objeto de análise nesta Superior Corte, sob pena de indevida supressão de instância.
+ ..
+3. Recurso em habeas corpus parcialmente conhecido, e, nesta parte, improvido.(RHC n. 68.025/MG, relator Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 17/5/2016, DJe 25/5/2016.)
+HABEAS CORPUS. ROUBO MAJORADO. WRIT SUBSTITUTIVO DE RECURSO PRÓPRIO. .. SUPRESSÃO DE INSTÂNCIA. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+10. O direito de recorrer em liberdade não foi objeto de discussão pela Corte de origem, motivo pelo qual se evidencia a incompetência deste Superior Tribunal de Justiça para apreciar o aludido tema posto no writ e a consequente supressão de instância.
+ .. (HC 278.542/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 4/8/2015, DJe 18/8/2015.)
+No mesmo sentido, a orientação do Supremo Tribunal Federal:
+Agravo regimental em recurso ordinário em habeas corpus. 2. Delito de vias de fato e violação de domicílio (art. 21, caput, do Decreto-Lei n. 3.688/41 e art. 150, § 1º, do Código Penal) 3. Inépcia da denúncia. Trancamento da ação penal por ausência de justa causa. Matéria não examinada nas instâncias anteriores. Supressão de instância. A extinção da ação penal de forma prematura somente é possível em situação de manifesta ilegalidade. Precedentes. 4. Agravo regimental a que se nega provimento.(RHC 133.585 AgR, Rel. Ministro GILMAR MENDES, Segunda Turma, julgado em 21/6/2016, DJe 1º/8/2016.)
+Ante o exposto,indefiro liminarmenteo recurso emhabeas corpus.
+Publique-se. Intimem-se.
