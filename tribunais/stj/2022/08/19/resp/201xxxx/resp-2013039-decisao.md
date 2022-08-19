@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de recurso especial interposto por SABARÁLCOOL S/A AÇÚCAR E ÁLCOOL, com fundamento na alínea "a" do permissivo constitucional, exclusivamente, contra acórdão do TJ/PR.
+Recurso especial interposto em: 03/12/2021.
+Concluso ao gabinete em: 28/07/2022.
+Ação: de despejo rural c/c rescisão de contrato de parceria agrícola e cobrança, ajuizada por TANIA CRISTINA DE MOURA e DENISE KARINA DE MOURA em face da recorrente.
+Sentença: julgou procedentes os pedidos iniciais para: i) resolver o contrato de parceria agrícola; e ii) condenar a ré ao pagamento pela exploração agrícola, consubstanciado no valor das safras de 2012, 2013 e 2014 nos termos da fundamentação. Condenou, ainda, a ré ao pagamento das custas processuais e honorários advocatícios, estes fixado em 10% sobre o valor da condenação, ante a sucumbência mínima da parte autora.
+Acórdão: negou provimento ao recurso de apelação interposto pela recorrente, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. AÇÃO DE DESPEJO RURAL C/C RESCISÃO DE CONTRATO DE PARCERIA AGRÍCOLA ECOBRANÇA. (1) PLEITO DE REDISTRIBUIÇÃO DA SUCUMBÊNCIA COM FIXAÇÃO DE HONORÁRIOS COM BASE NO PROVEITO ECONÔMICO. DESCABIMENTO. SUCUMBÊNCIA MÍNIMA DAS AUTORAS CORRETAMETE RECONHECIDA PELA SENTENÇA. ART. 86, PARÁGRAFO ÚNICO DO CPC. ÔNUS QUE DEVEM SER SUPORTADOS UNICAMENTE PELA RÉ. HONORÁRIOS FIXADOS COM BASE NO VALOR DA CONDENAÇÃO RESPEITANDO A ORDEM DE GRADAÇÃO ESTABELECIDA NO ART. 85 § 2ºDO CPC. (2) PRETENSÃO DE APLICAÇÃO DA TAXA SELIC EM SUBSTITUIÇÃO À TAXA DE 1% AO MÊS, FIXADA A TÍTULO DE JUROS DE MORA. NÃO ACOLHIMENTO. DÍVIDA DE NATUREZA CIVIL. MANUTENÇÃO DOS ÍNDICES FIXADOS EM SENTENÇA. ENTENDIMENTO DO STF TRAZIDO NAS RAZÕES RECURSAIS QUE NÃO SÃO APLICÁVEIS AO CASO, VISTO QUE SE REFEREM À ATUALIZAÇÃO DE DÉBITOS TRABALHISTAS (3) HONORÁRIOS RECURSAIS. CABIMENTO. RECURSO DE APELAÇÃO CONHECIDO E NÃO PROVIDO.
+Embargos de declaração: opostos pela recorrente, foram rejeitados.
+Recurso especial: aponta violação ao art. 406 do CC, sustentando que o referido dispositivo legal "dispõe que, quando não forem convencionados (como no presente caso), os juros moratórios serão fixados segundo a taxa que estiver em vigor para a mora do pagamento de impostos devidos à Fazenda Nacional" (fl. 707, e-STJ), e que, atualmente, a referida taxa é a SELIC.
+RELATADO O PROCESSO, DECIDE-SE.
+- Dos juros moratórios
+A Corte Especial do STJ já decidiu que a taxa de juros moratórios a que se refere o art. 406 do Código Civil é a taxa referencial do Sistema Especial de Liquidação e Custódia - SELIC, que não pode ser cumulada com a aplicação de outros índices de atualização monetária (EREsp 727.842/SP, Corte Especial, DJe 20/11/2008; e REsp 1.111.117/PR, Corte Especial, DJe 02/09/2010).
+Inclusive, as duas Turmas que compõem a Seção de Direito Privado convergem acerca da aplicação da taxa SELIC às condenações posteriores à entrada em vigor no CC/02: AgInt no REsp 1.885.569/SP, 3ª Turma, DJe de 19/4/2022; AgInt nos EDcl no REsp 1.816.197/PR, 3ª Turma, DJe de 18/3/2022; AgInt no REsp 1.792.993/RJ, 4ª Turma, DJe de 28/10/2021; AgInt no REsp 1.798.531/RJ, 4ª Turma, DJe de 24/9/2021; AgInt no REsp 1.900.859/MS, 4ª Turma, DJe de 17/6/2021; REsp 1.846.819/PR, 3ª Turma, DJe de 15/10/2020 e AgInt nos EDcl no REsp 1.655.511/MG, 4ª Turma, DJe de 05/4/2021.
+Logo, encontrando-se o entendimento da Corte de origem em divergência com a jurisprudência deste Tribunal, o recurso deve ser provido, com fundamento na Súmula 568/STJ.
+Forte nessas razões, com fundamento no art. 932, V, "a", do CPC/15, bem como na Súmula 568/STJ, CONHEÇO do recurso especial e DOU-LHE PROVIMENTO para determinar a utilização taxa do Sistema Especial de Liquidação e Custódia - SELIC como referencial dos juros moratórios, vedada a cumulação com qualquer outro índice de atualização monetária, mantendo-se os ônus sucumbenciais fixados.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE DESPEJO RURAL C/C RESCISÃO DE CONTRATO DE PARCERIA AGRÍCOLA E COBRANÇA. JUROS DE MORA. ART. 406 DO CC. TAXA SELIC. SÚMULA 568/STJ.
+1. Cuida-se, na origem, de ação de despejo rural c/c rescisão de contrato de parceria agrícola e cobrança.
+2. A jurisprudência do STJ é no sentido de que a taxa de juros moratórios a que se refere o art. 406 do Código Civil é a taxa referencial do Sistema Especial de Liquidação e Custódia - SELIC. Precedentes.
+3. Recurso especial conhecido e provido.
