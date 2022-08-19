@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus, sempedido liminar, impetrado de próprio punho por JOSUE RODRIGUES DE CARVALHOcontra acórdão do Tribunal de Justiça do Estado de São Paulo proferido no HC n. 0017316-60.2022.8.26.0000.
+Constados autos que o Juízo da Execução Penal, em decisão proferida no dia 11/05/2022, homologou falta disciplinar de natureza grave (consistente em abandono do regime intermediário), declarando a perda de 1/3 (um terço) dos dias remidos eo reinício do prazo de cumprimento da pena para fins de progressão de regime, e determinou, ainda, a regressão do Apenado ao regime fechado.
+Seguiu-se habeas corpus impetrado pelo próprio Apenado, o qual foi indeferido liminarmente pelo Tribunal estadual em acórdão assim ementado (fl. 16):
+"Habeas Corpus -Execução -Insurgência contra o reconhecimento de infração disciplinar de natureza grave - Identidade de parte, causa de pedir e pedido contidos em sede recursal apropriada, recentemente iniciada, com curso regular, e em estágio mais avançado de processamento  - Reiteração  - Impossibilidade  - Inexistência de fundamento, fato ou documento diverso capaz de ensejar a mudança do cenário original e tornar necessário o reexame da questão nesta via constitucional  - Incognoscibilidade  - Reconhecimento  - Precedentes  - Exegese dos artigos 248, do Regimento Interno deste Egrégio Tribunal de Justiça, e 663, do Código de Processo Penal  - Ordem indeferida liminarmente."
+No presente writ, alega-se aocorrênciade constrangimentoilegal, sob o fundamento de que o substrato probatório não autoriza o reconhecimento da falta grave.
+Requer-se a absolvição do Paciente ou, subsdiariamente, a desclassificação da falta para natureza média, "cancelando a perda dos dias remidos e restabelecendo o regime semiaberto e aberto" (fl. 11).
+Prestadas as informações, o Ministério Público Federal opinou pelo não conhecimento do habeas corpus (fls. 47-49).
+É o relatório. Decido.
+Na espécie, o Tribunal estadual não conheceu da impetração origináriasob a motivação de que o habeas corpusseria reiteração do pleito formulado no Agravo em Execução Penal n. 0006382-62.2022.8.26.0996, "interposto anteriormente por Defesa técnica, com curso regular, e em estágio de processamento mais avançado" (fl. 17), o que torna proibitivo ao Superior Tribunal de Justiçaexaminar asmatérias ora deduzidas, porquanto ausente pronunciamento meritório no acórdão apontado como coator.
+Assevero, ainda, que, em consulta ao andamento processual eletrônico, verifico que o Tribunal estadual, na sessão de julgamento realizada em 21/06/2022, negou provimento ao mencionado agravo em execução penal (n. 0006382-62.2022.8.26.0996), no qual foram enfrentadas as questões formuladas no presente mandamus.
+Ante o exposto, NÃO CONHEÇO do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. FALTA GRAVE. PLEITO ABSOLUTÓRIO OU, SUBSIDIARIAMENTE, DE DESCLASSIFICAÇÃO PARA INFRAÇÃO DISCIPLINAR DE NATUREZA MÉDIA. MATÉRIAS NÃO EXAMINADAS NO ACÓRDÃO IMPUGNADO.WRIT NÃO CONHECIDO.
