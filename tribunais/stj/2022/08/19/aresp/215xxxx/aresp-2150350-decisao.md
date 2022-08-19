@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por GOMI E KUWAE S/S LTDA EPP - ELETROFISIOLOGIA CLINICA - (GOMI), em face de NATÁLIA GUIMARÃES FLAUSINO (NATÁRIA), contra decisão que negou seguimento ao seu apelo nobre manejado, por sua vez, contra acórdão do Tribunal de Justiça de Goiás (TJGO), assim ementado:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NA APELAÇÃO CÍVEL. OBSCURIDADE E CONTRADIÇÃO CONFIGURADAS. VÍCIOS SANÁVEIS. CONHECIMENTO DO AGRAVO INTERNO. AUSÊNCIA DE FATO NOVO. DECISÃO MANTIDA. 1. Verificada a presença de obscuridade e contradição, saneia-se o vício, mediante o acolhimento dos embargos de declaração para conhecer do agravo interno interposto. 2. Ausente fato novo relevante capaz de alterar o entendimento esposado na decisão agravada e constatada a reiteração dos argumentos já anteriormente rebatidos, impõe-se o desprovimento do agravo interno. Embargos de declaração acolhidos.
+Agravo Interno conhecido e desprovido. (e-STJ, fl. 787)
+Irresignada, GOMI interpôs recurso especial, com base no art. 105, III, alíneas a e c, da CF, apontando a violação dos arts. 932 do CPC e dissídio jurisprudencial em relação ao entendimento adotado na Súmula nº 568 do STJ.Afirmou que não pode ser responsabilizada solidariamente por ato praticado, exclusivamente, pela operadora de plano de saúde, pois o entendimento sedimentado na jurisprudência deste Superior Tribunal de Justiça é o de que as operadoras de plano de saúde são solidariamente responsáveis pelos danos ocorridos pela má prestação de serviços do estabelecimento ou médico conveniados e não o contrário.
+O recurso não foi admitido pelo TJGO (e-STJ, fls. 828/830).
+Nas razões do presente agravo, GOMI alegou que não incidem os óbices apontados na decisão de inadmissibilidade.
+Foi apresentada contraminuta.
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que não merece prosperar.
+Responsabilidade solidária
+O Tribunal Estadual, acolheu os embargos de GOMI para julgar o agravo interno que manteve a sua condenação solidária, nos seguintes termos:
+Pontuou-se, ainda, que ao proceder à análise dos autos, é possível perceber que o serviço pactuado realmente foi suspenso de forma unilateral em razão da cobrança de procedimento de bloqueio fenólico alcoólico ou com toxina que a segurada pretendia realizar, assim como do valor correspondente a sua coparticipação. Todavia, a despeito de ter ocorrido o agendamento do aludido procedimento clínico, a ora recorrente ignorou o fato de que, em momento posterior, houve desistência por parte da paciente, devidamente comunicada por sua genitora e mesmo assim encaminhou o débito para faturamento junto à seguradora.
+Para mais, frisou-se que a seguradora efetuou a cobrança do procedimento, que não foi pago pela segurada, optando então por suspender abruptamente o plano de saúde pactuado, restando patente a ilegalidade na conduta das demandadas, tanto por lançar displicentemente uma dívida proveniente de procedimento não realizado, quanto por, em razão deste débito e daquele referente a quota parte da paciente, promover a suspensão do plano de saúde sem qualquer notificação, ferindo o disposto na Lei pertinente.
+Sendo assim, a responsabilidade se reputa como solidária, dado que a operadora de saúde (Fundação Sistel de Seguridade Social) e a clínica (GOMI & KUWAE S.S. LTDA. - ELETROFISIOLOGIA CLÍNICA) incorreram em dolo no seu proceder.
+Dessarte, sem maiores delongas, o desprovimento do agravo interno é medida que se impõe, mormente em face da ausência de fatos novos relevantes capazes de alterar o entendimento esposado na decisão agravada. (e-STJ, fl. 786)
+Verifique-se que ao arguir afronta ao art. 932 do CPC e dissídio jurisprudencial em relação à interpretação dada pela Súmula nº 568 do STJ, GOMI não demonstrou motivos consistentes para justificar a pretendida reforma do acórdão recorrido, não fazendo alusão ao entendimento de que contribuiu para o dano, em razão de cobrança displicente de procedimento não realizado.
+Dessa forma, ante a deficiente fundamentação do recurso, e a ausência de combate ao fundamento central do acórdão recorrido, incidentes as Súmulas nºs 283 e 284 do STF.
+Esse é o entendimento desta Corte, confiram-se os seguintes julgados:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO DE DANOS MORAIS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA DE INDICAÇÃO DA FORMA COMO FOI VIOLADO. SÚMULA 284/STF. FUNDAMENTO NÃO ATACADO. INCIDÊNCIA DA SÚMULA 283/STF. CERCEAMENTO DE DEFESA. ILEGITIMIDADE ATIVA. AUSÊNCIA DE ATO ILÍCITO. REDUÇÃO DO QUANTUM FIXADO. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. É deficiente a fundamentação do recurso especial em que a alegação de ofensa aos arts. 489 e 1.022 do CPC/2015 se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Aplica-se, na hipótese, o óbice da Súmula 284 do STF.
+2. Inexiste cerceamento de defesa quando o julgador indefere motivadamente pedido de produção de prova, não cabendo ao Superior Tribunal de Justiça apreciar a necessidade ou não de continuidade da instrução probatória, ante a incidência da Súmula 7/STJ.
+3. Não tendo havido impugnação expressa dos fundamentos do acórdão recorrido, sobretudo no tocante à transferência do animal pela tradição, mostra-se inviável o processamento do especial, ante o óbice da Súmula 283 do STF.
+4. O Tribunal de origem consignou pela legitimidade ativa e pela configuração do ato ilícito indenizável no valor de R$ 15.000,00 (quinze mil reais). Infirmar tais conclusões demandaria o revolvimento do conjunto fático-probatório dos autos. Súmula 7/STJ.
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 1.795.928/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 25/5/2021, DJe de 28/5/2021.)
+Nessas condições, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Inaplicável ao caso a majoração de honorários.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do CPC.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL. PLANO DE SAÚDE COLETIVO. CANCELAMENTO UNILATERAL. NOTIFICAÇÃO PRÉVIA. NÃO REALIZAÇÃO. AFRONTA AO ART. 932 DO CPC. ARGUIÇÃO DE INTERPRETAÇÃO DIVERGENTE DA SÚMULA Nº 568 DO STJ. NÃO DEMONSTRAÇÃO. SÚMULA Nº 284 DO STF. DANOS MORAIS. SOLIDARIEDADE. CONTRIBUIÇÃO. COBRANÇA DE PROCEDIMENTO NÃO REALIZADO. RAZÕES DO ACÓRDÃO NÃO COMBATIDAS. SÚMULA Nº 283 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
