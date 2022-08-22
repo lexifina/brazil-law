@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de agravo apresentado por ROSIVALDO DA SILVA MORAES contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARÁ, assim resumido:
+APELAÇÃO PENAL. TRÁFICO DE DROGAS. PRETENSÃO DEFENSIVA. ABSOLVIÇÃO. DESCLASSIFICAÇÃO DO CRIME DE TRÁFICO PARA CONSUMO. RESTOU DEVIDAMENTE COMPROVADO NOS AUTOS O CRIME COMETIDO, POR MEIO DE LAUDO E PROVA TESTEMUNHAL. IMPOSSIBILIDADE DE RECONHECIMENTO DA MINORANTE DO TRÁFICO PRIVILEGIADO (§ 4º DO ART. 33 DA LEI 11.343/2006), AUSÊNCIA DOS REQUISITOS LEGAIS. PEDIDO DE REFORMA DO REGIME INICIAL DE CUMPRIMENTO DA PENA - PROVIDO - O STF JÁ DECLAROU INCONSTITUCIONAL O § 1º, DO ART. 2º, DA LEI DE CRIMES HEDIONDOS. APLICAÇÃO DO REGIME INICIAL DE CUMPRIMENTO DA PENA NO SEMIABERTO - RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega violação do art. 33, § 4º, da Lei n. 11.343/06, no que concerne ao preenchimento dos requisitos exigidos para a redução da pena do recorrente pela incidência do denominado tráfico privilegiado, trazendo o(s) seguinte(s) argumento(s):
+Pois bem! No presente caso, verifica-se que o E. TJE/PA, ao julgar a Apelação, negou ao réu a referida minorante, sob o argumento de que o apelante se utilizava do tráfico de drogas como meio de vida, dedicando-se a esta atividade criminosa, de forma contumaz
+ ..
+Ocorre que, contrapondo afirmação do E. TJE/PA, a defesa questiona: Quais as provas dos autos apontam no sentido de que o suplicante se dedicava atividade criminosa de tráfico de drogas  Fora os depoimentos dos policias, não há mais nada, ou seja, não há testemunho de pessoas comuns, não há testemunho de dependentes ou usuários, não há balança ou tesoura, como costuma aparecer nos processos.
+Na verdade, os fatos trazidos à colação demonstram que o réu não se dedicava a atividade criminosa de tráfico de drogas, pois no momento da prisão: a) o réu não foi pego comercializando qualquer tipo de entorpecente; b) não foi pego com balança, tesoura, papel e outros petrechos; c) e não existia qualquer viciado comprando drogas do mesmo.
+ ..
+No caso em tela, as provas colhidas aos autos não nos autorizam a concluir sobre a dedicação contumaz a esta atividade criminosa, pois não ficou comprovado que o réu se utilizava dessa atividade como meio de vida.
+ ..
+Consoante se observa dos autos, o réu é primário, não se dedica a qualquer atividade criminosa e nem integra organização criminosa. Portanto, estando comprovado que o suplicante não se dedicava a atividades criminosas, torna-se imperiosa a aplicação da redução prevista no dispositivo em comento. (fls. 252/254).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+"A Defesa requereu a aplicação da redução de pena prevista no artigo 33, § 4º, da Lei 11.343/06, por entender que o apelante é primário e não faz parte de organização criminosa, muito menos se dedica à criminalidade, pois em nenhum momento da instrução processual tais fatos restaram provados.
+Não acolho também tal pedido para aplicar a redução da pena prevista em tal dispositivo, em vista do dispositivo legal artigo 33, §4º, da Lei 11.343/06
+ ..
+Portanto, em leitura literal, extrai-se que é necessário o preenchimento de quatro requisitos cumulativos, quais sejam: primariedade, bons antecedentes, não dedicação a atividades criminosas e não integração de organização criminosa.
+Apesar da primariedade e dos bons antecedentes (atento à Súmula 444, do STJ, inclusive), atestados por certidões nos autos, além do fato de não integrar organização criminosa, o apelante tem se dedicado, no entanto, segundo se pode depreender dos autos, a atividades criminosas em sua própria casa, tornando-a uma boca de fumo.
+Logo, impossibilitada fica a aplicação dessa causa de diminuição de pena, devendo permanecer, por seus próprios termos, a decisão constante na sentença recorrida" (fl. 241).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que para dissentir da conclusão do Tribunal de origem, quanto à existência ou inexistência da habitualidade delitiva para efeito de configuração do tráfico privilegiado, seria necessária a incursão no conjunto fático-probatório carreado aos autos.
+Nesse sentido, vale citar o seguinte julgado desta Corte:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. APLICAÇÃO DA REDUTORA DO ART. 33, § 4º, DA LEI Nº 11.343/06. IMPOSSIBILIDADE. DEDICAÇÃO DO PACIENTE A ATIVIDADES CRIMINOSAS. PRECEDENTES. FUNDAMENTOS DO ACÓRDÃO IMPUGNADO. REVISÃO. INVIABILIDADE. NECESSIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO. ÓBICE DA SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. A fim de se aplicar a redutora do art. 33, § 4º, da Lei n.11.343/2006, é necessário o preenchimento de quatro requisitos cumulativos, quais sejam: (a) ser primário; (b) possuir bons antecedentes; (c) não dedicar-se a atividades criminosas; (d) não integrar organização criminosa. No caso concreto, a decisão proferida pela instância primeva expressamente ressaltou que o agravante se dedica a atividades criminosas.
+2. Para concluir diversamente do Tribunal de origem que entendeu que o réu se dedicava a atividades criminosas seria necessário o revolvimento do conteúdo probatório dos autos, providência inviável em sede de recurso especial. Óbice do enunciado de n. 7 da Súmula do STJ.
+ ..
+4. Agravo regimental desprovido. (AgRg nos EDcl no REsp n. 1.879.787/AM, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 08/02/2021.)
+Confiram-se ainda os seguintes julgados: AgRg no AREsp n. 1.663.688/GO, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 26/02/2021; AgRg no REsp n. 1.895.013/MS, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 21/10/2020; AgRg no AgRg no AREsp n. 1.682.761/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 24/08/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
