@@ -1,0 +1,22 @@
+DECISÃO
+Cuidam-se de embargos declaratórios opostos por SERGIO PAULO GROTTI E OUTRO contra decisão às fls.440/446 que conheceu do agravo para negar provimento ao recurso especial.
+Nas razões dos embargos, a parte sustenta quea decisão embargada deve(1) indicarem qual parte do processo e do acórdão, antes da decretação da prescrição, a parte exequente praticou alguma conduta que levasse ao termo final da cobrança; (2) apontar se apenas a ausência de bens é suficiente para afastar a causalidade; (3) a inércia do exequente, tendo sido intimado para dar prosseguimento ao feito, é suficiente ou não para atrair a sucumbência para si; (4) esclarecer se, no caso de prescrição intercorrente jamais teria causalidade em favor do executado, até porque, no presente caso, a exequente se beneficiou durante o trâmite da execução e (5) apontar a diferença entre a prescrição da pretensão de cobrança e da prescrição intercorrente para fins de sucumbência.
+Ao final, requer sejam acolhidos os embargos de declaração para corrigir os vícios apontados.
+Devidamente intimada, a parte embargada apresentou impugnação (e-STJ, fls. 457/468)
+É o relatório. Decido.
+Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022). É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+No caso, a decisão embargada apontou que o tribunal de origem, ao extinguir a execução diante da prescrição intercorrente, atribuiu a sucumbência ao executado que "deu causa ao processo executivo quando deixou de cumprir com sua obrigação no tempo e modo adequado, assim como não apresentou bens suficientes para satisfação da dívida" (fl. 295, e-STJ).
+De fato, conforme já consignado, tal entendimentoestá em consonância com a jurisprudência desta Corte no sentido de que"a decretação da prescrição intercorrente por ausência de localização de bens penhoráveis não afasta o princípio da causalidade em desfavor do devedor, nem atrai a sucumbência para a parte exequente" (AgInt nos EDcl no REsp 1.745.765/PR, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 30/3/2020, DJe 1º/4/2020).
+Cumpre destacar que, como no caso dos autos, "há situações em que, mesmo não sucumbindo no plano do direito material, a parte vitoriosa é considerada como geradora das causas que produziram o processo e todas as despesas a ele inerentes" (REsp 1.835.174/MS, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 05/11/2019, DJe 11/11/2019).
+No mesmo sentido, os seguintes precedentes:AgInt no AREsp 1.714.099/SC, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 15/03/2021, DJe 19/03/2021;AgInt no AREsp 1.355.818/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 30/3/2020, DJe 2/4/2020 eAgInt no AREsp 1.630.885/MS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 11/5/2020, DJe 13/5/2020.
+Nesse contexto, ausentes quaisquer dos vícios ensejadores dos aclaratórios, afigura-se patente o intuito infringente da presente irresignação, que objetiva não suprimir a omissão, afastar a obscuridade ou eliminar a contradição, mas, sim, reformar o julgado por via inadequada.
+A propósito:
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO. INEXISTÊNCIA. CARÁTER PROTELATÓRIO. RECONHECIMENTO. EMBARGOS REJEITADOS COM IMPOSIÇÃO DE MULTA.
+1. Inexistentes as hipóteses do art. 535 do CPC, não merecem acolhida os embargos de declaração.
+2. Os embargos de declaração não se prestam à manifestação de inconformismo ou à rediscussão do julgado.
+3. Embargos de declaração rejeitados, com imposição de multa fixada em 1% (um por cento) do valor da causa." (EDcl nos EDcl nos EDcl no AgRg no AgRg no AREsp 453.117/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 16/12/2014, DJe de 02/02/2015) "EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL. OMISSÃO.
+INEXISTÊNCIA. ERRO MATERIAL DA EMENTA. AFASTAMENTO.
+1. Os embargos de declaração só se prestam a sanar obscuridade, omissão ou contradição porventura existentes no acórdão, não servindo à rediscussão da matéria já apreciada no recurso.
+2. Embargos de declaração acolhidos em parte, para correção de erro material, sem efeito modificativo." (EDcl no AgRg no AREsp 511.553/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 5/3/2015, DJe de 18/3/2015)
+Ante o exposto, rejeitam-se os embargos de declaração.
+Publique-se.
