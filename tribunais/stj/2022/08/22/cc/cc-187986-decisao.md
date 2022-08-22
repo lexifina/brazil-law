@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de conflito negativo de competência suscitado pelo JUÍZO FEDERAL DA 2.ª VARA DE OSASCO - SJ/SP em face do JUÍZO FEDERAL DA 1.ª VARA DE RESENDE - SJ/SJ na Ação Penal n.5005380-02.2021.4.03.6130.
+Consta nos autos que o Juízo suscitado acolheu exceção de incompetência oposta pela Defesa, nos seguintes termos:
+"Os réus WALTER JOSE SALDANHA PINTO e MIGUEL ANGELO SALDANHA SILVA, arguiram exceção de incompetência, no ev. 558, requerendo que este juízo da Vara Federal de Resende decline a competência, remetendo os Autos ao Juízo Federal da 30ª Subseção Judiciária de OSASCO (Seção Judiciária de SP), juízo competente para processar e julgar este feito, pois quando da consumação do suposto delito (constituição definitiva do crédito) o domicílio fiscal da Empresa era na cidade de Cotia/SP.
+Manifestou favoravelmente o MPF, nos eventos 567 e 569.
+É o relatório do necessário. Decido.
+I. Acolho a manifestação do Parquet Federal (evento 567 e 569), que adoto como razão de decidir, declarando a incompetência deste Juízo, com fulcro no artigo 109 do CPP.
+II. Assim, declino da competência o presente feito para o Eg. Juízo Federal da 30ª Subseção Judiciária de OSASCO/JFSP. No tocante aos atos anteriormente praticados, observar-se-á o que dispõe o art. 567 do CPP." (fl. 423, sem grifos no original.)
+O Juízo suscitante igualmente declarou-se incompetente para processar e julgar a ação penal, com amparo nas seguintes razões:
+"No presente caso, em 22 de abril de 2021, o Juízo da 1ª Vara Federal de Resende/RJ, declinou da competência para a Subseção Judiciária de Osasco, em razão de a empresa possuir domicílio fiscal no município de Cotia na época da constituição do crédito tributário.
+A denúncia foi recebida por aquele Juízo em 29 de agosto de 2013.
+Não há nos autos qualquer circunstância fática apta a fixar a competência para o trâmite deste feito junto a esta Subseção Judiciária.
+O artigo 43 do CPC 2015 dispõe sobre aperpetuatio jurisdictionis, vejamos:
+ ..
+O artigo acima mencionado, a teor do artigo 3º do CCP, incide no Processo Penal.
+Dessa forma, a competência firmou-se no oferecimento da denúncia, sendo irrelevantes as modificações do estado de fato ou de direito ocorridas posteriormente, salvo quando suprimirem órgão judiciário ou alterarem a competência absoluta.
+Ainda, em 15 de janeiro de 2016, o representante do MPF oficiante em Resende/RJ manifestou-se à pagina 78/85 de Id 111479393 pela competência do Juízo Federal de Resende.
+A exceção de incompetência foi oposta pela defesa dos réus tão-somente em março de 2021 (páginas 119/125 de Id 111480268).
+Ademais, o Juízo da 1ª Vara Federal de Resende realizou diversas audiências de oitivas de testemunhas de acusação e defesa.
+Como fundamentado no CC 61588/RJ, de Relatoria da Ministra Maria Thereza de Assis Moura,"perfeitamente aplicável, como regra do sistema penal, o instituto da perpetuatio jurisdictionis, que obriga o manejo oportuno da exceção por parte do interessado e através da qual o foro competente para julgamentodo caso deve caber ao Juízo que conduziu o processo ao longo da instrução". Digressionou, ainda, "in casu, esclareça-se que o instante da declinação depois de concluído o sumário de culpa é absolutamente inoportuno e que a manutenção da competência no Juízo condutor da ação penal até este momento é a melhor opção, haja vista inexistir qualquer prejuízo ao acusado, que restou assistido por defesa técnica e hábil em todas as fases do processo"". (fl. 426, sem grifosno original.)
+O Ministério Público Federal opinou pelo conhecimento do conflito, a fim de seja declarado competente o Juízo suscitado, pois, " t ratando-se de competência relativa, a prevenção deve ser alegada pela parte interessada na primeira oportunidade que se manifestar nos autos, sob pena de preclusão, devendo, ainda, demonstrar o efetivo prejuízo a ser sofrido, circunstâncias ausentes na hipótese" (fl. 2035).
+É o relatório. Decido.
+A ação penal apura a prática dodelitoprevistono art. 337-A, incisos II e III, c.c. o art. 71, ambos do Código Penal, referenteà sonegação de contribuições sociais mediante apresentação de falsa declaração à Receita Federal nos anos de 2005 e 2006. O Juízo da 1.ª Vara Federal de Resende - SJ/RJ (suscitado) recebeu a denúncia em 29/08/2013 (fls. 403/404) e iniciou a audiência de instrução em 11/06/2018 (fls. 738-739).
+Em 1.º/03/2021, quando o processo já se encontrava na fase de interrogatório dos Réus, a Defesa opôs exceção de incompetência no Juízo suscitado, aduzindoque "quando da consumação do suposto delito (constituição definitiva do crédito) o domicílio fiscal da Empresa era na cidade de Cotia/SP" (fl. 647), o que foi acolhido pelo Magistrado singular.
+Todavia, nos termos do art. 108 do Código de Processo Penal, a exceção de incompetência deve seroposta, verbalmente ou por escrito, no prazo de defesa. Assim, não havendo a arguição da incompetência territorial no momento processual adequado, encontra-se preclusa a matéria, prorrogando-se a competência do órgão jurisdicional que recebeu a denúncia.
+Nesse sentido:
+"AGRAVO REGIMENTAL EM RECURSO EM HABEAS CORPUS. COMPETÊNCIA TERRITORIAL. ROUBO CIRCUNSTANCIADO E ASSOCIAÇÃO CRIMINOSA. AÇÃO PENAL. DELITOS CONSUMADOS EM LOCALIDADES DIFERENTES. FATOS INTERLIGADOS. CONEXÃO PROBATÓRIA. PRETENSA CONSUMAÇÃO DE UM CRIME EM LOCALIDADE DIVERSA. COMPETENTE O JUÍZO QUE PRIMEIRO CONHECEU DOS FATOS. ART. 83 DO CPP. PRECEDENTE. ILEGALIDADE MANIFESTA NÃO EVIDENCIADA. RECURSO EM HABEAS CORPUS A QUE SE NEGA SEGUIMENTO. ALEGAÇÃO DE NÃO SE TRATAR DE CRIME CONTINUADO. MATÉRIA NÃO ANALISADA PELA CORTE ESTADUAL. INDEVIDA SUPRESSÃO DE INSTÂNCIA. NÃO CONHECIMENTO. PRECEDENTE. ILEGALIDADE MANIFESTA NÃO EVIDENCIADA. INCONFORMISMO COM DECISÃO HOSTILIZADA. TENTATIVA DE REDISCUSSÃO DA MATÉRIA ENFRENTADA MONOCRATICAMENTE. IMPOSSIBILIDADE. AGRAVO IMPROVIDO.
+1. Inicialmente, registre-se que, em termos de competência em razão do lugar e, portanto, de competência relativa, cabe à defesa a oposição da respectiva exceção de incompetência, no prazo legal, sob pena de preclusão. Não alegada oportuno tempore, ocorre a preclusão, levando à prorrogação da competência. Precedente (CC n. 34.879/MG, Ministro Gilson Dipp, Terceira Seção, DJ 25/8/2003).
+ .. " (AgRg no RHC n. 165.058/PE, Rel.Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 14/6/2022, DJe 23/6/2022, sem grifos no original.)
+" ..  COMPETÊNCIA RATIONE LOCI. RELATIVA. FALTA DE ARGUIÇÃO NO MOMENTO OPORTUNO. INÉRCIA DA DEFESA. PRECLUSÃO. PRORROGAÇÃO.
+1. A fixação da competência, em regra, se dá no local onde se consumou a infração penal, de acordo com o disposto no artigo 70, primeira parte, do Código de Processo Penal.
+2. Tratando-se de competência territorial e, portanto, relativa, a falta de insurgência no momento oportuno dá ensejo à preclusão da pretensão, prorrogando-se a competência.
+3. Assim, verificado que o recorrente foi submetido a julgamento perante juízo incompetente, e não havendo notícia de nenhuma irresignação oportuna, conclui-se que, ao menos tacitamente, foi aceita a competência inicialmente atribuída, operando-se, portanto, a preclusão.
+ .. " (AgRg no AREsp n. 1.504.595/MG, Rel.Ministro JORGE MUSSI, QUINTA TURMA, julgado em 17/9/2019, DJe 30/9/2019, sem grifos no original.)
+"RECURSO ORDINÁRIO EM HABEAS CORPUS. 1. INCOMPETÊNCIA DO JUÍZO. COMPETÊNCIA TERRITORIAL. NULIDADE RELATIVA. 2. DOCUMENTOS QUE INDICAM TER A INFRAÇÃO SE CONSUMADO NA COMARCA DE ITU. PEDIDO DE MODIFICAÇÃO PARA A COMARCA DO DOMICÍLIO DO RÉU. IMPOSSIBILIDADE. NECESSIDADE DE APROFUNDADO EXAME DE PROVAS. INADEQUAÇÃO DA VIA ELEITA. 3. RECURSO IMPROVIDO.
+ ..
+3. A competência em razão do lugar da infração é relativa e deve ser alegada por via de exceção, no prazo do oferecimento das alegações preliminares, na forma do disposto no art. 108 do Código de Processo Penal, sob pena de prorrogação da competência. Além disso, eventual nulidade do processo só ficaria reconhecida diante da comprovação do prejuízo sofrido pelo recorrente, hipótese não demonstrada nos autos.
+4. Recurso ordinário em habeas corpus a que se nega provimento."(RHC n. 29.312/SP, Rel.Ministro MARCO AURÉLIO BELLIZZE, QUINTA TURMA, julgado em 11/4/2013, DJe 18/4/2013, sem grifos no original.)
+Ante o exposto, CONHEÇO do conflito para DECLARARCOMPETENTE o Juízo Federal da 1.ª Vara de Resende - SJ/RJ (suscitado).
+Comunique-se ao Juízo suscitante.
+Publique-se. Intimem-se.
+EMENTA
+CONFLITO NEGATIVO DE COMPETÊNCIA. PROCESSUAL PENAL. CRIME TRIBUTÁRIO. COMPETÊNCIA TERRITORAL. AUSÊNCIA DE ARGUIÇÃO DA EXCEÇÃO NO MOMENTO PROCESSUAL OPORTUNO. PRECLUSÃO. PRORROGAÇÃO DA COMPETÊNCIA. CONFLITO CONHECIDO PARA DECLARAR COMPETENTE O JUÍZO FEDERAL DA 1.ª VARA DE RESENDE - SJ/RJ (SUSCITADO).
