@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo em face de decisão que inadmitiu recurso especialinterposto por MRV ENGENHARIA E PARTICIPAÇÕES SA e PARQUE PIAZZA REPPUBLICA INCORPORAÇÕES SPE LTDA,comfundamentado noart. 105,III, "a" e "c", daConstituição Federal, em desafioa acórdão proferidopeloTribunal deJustiça do Estado de São Paulo, assimementado (fls. 377):
+"Indenização - Compromisso de compra e venda  Instalação de caixa de passagem em área privativa do imóvel do autor  Extinção, em razão do reconhecimento da prescrição  Descabimento  Hipótese em que a ação ajuizada não se embasa em acidente de consumo, ao reverso, almeja obter reparação por danos morais em decorrência de violação a dever anexo de informação relativa a especificidades do produto, de sorte que em se tratando-se de demanda indenizatória de natureza contratual - Incidência do prazo decenal do art. 205 do Código Civil  Prescrição não verificada  Sentença afastada - Recurso provido."
+Os embargos de declaração foram rejeitados, vide acórdão às fls. 429-432.
+Nas razões do recurso especial, a parte recorrente alega, além de dissídio jurisprudencial, violação ao art. 27 do Código de Defesa do Consumidor. Sustenta, em síntese, que "se a relação entabulada entre as partes é regida pelo Código de Defesa do Consumidor e a pretensão da parte recorrida se insere na responsabilidade pelos prejuízos experimentados no uso do imóvel, em virtude do defeito na prestação do serviço, incide "in casu" o prazo prescricional de 05 (cinco) anos, a contar do conhecimento do dano, nos termos do artigo 27 do Código de Defesa do Consumidor; não havendo que se falar na aplicação do prazo prescricional decenal geral do Código Civil." (fl. 391)
+É o relatório. Decido.
+A irresignação não merece prosperar.
+O Tribunal de origem, observando as circunstâncias do caso, assim dirimiu a controvérsia:
+É que não obstante a relação jurídica esteja submetida ao Código de Defesa do Consumidor, o qual estabelece ser de 5 anos o prazo prescricional, observa-se que a pretensão deduzida na exordial não se embasa em acidente de consumo, ao reverso, almeja a autora obter reparação por danos morais em decorrência de violação a dever anexo de informação relativa a especificidades do produto, de sorte que em se tratando-se de demanda indenizatória de natureza contratual, aplica-se o prazo prescricional decenal do art. 205 do CC/02, conforme já pacificado pelo C. STJ, que assim decidiu, nos Embargos de Divergência IV 1.281.594:
+(..)
+Assim, considerando que no caso concreto a entrega das chaves ocorreu aos 20.06.2013, ao passo que o ajuizamento da ação se deu em 14.06.2019 , não há que se falar no decurso do decêndio legal, por consequência, não inexiste a cogitada prescrição, restando afastada a sentença para determinar o prosseguimento do feito (caso o juizo a quo entenda necessária a dilaçãoprobatória para verificação do vicio alegado) ou a prolação de nova sentença.
+Sobre o tema, tem-se que a jurisprudência desta Corte se firmou no sentido de ser aplicável o prazoprescricionaldecenal (artigo 205 do Código Civil) às demandas fundadas em responsabilidade civil decorrentes de inadimplemento contratual. A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. PROMESSA DE COMPRA E VENDA. ATRASO NA ENTREGA DE IMÓVEL. PRAZO PRESCRICIONAL DECENAL. ART. 205 DO CC. DISSONÂNCIA DO ACÓRDÃO RECORRIDO COM O ENTENDIMENTO DO STJ. PRESCRIÇÃO AFASTADA. RETORNO À ORIGEM. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO E DAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Agravo interno contra decisão da Presidência que não conheceu do agravo em recurso especial, em razão da falta de impugnação específica a fundamento decisório. Reconsideração.
+2. "A jurisprudência do STJ firmou-se no sentido de ser aplicável o prazo prescricional decenal (artigo 205 do Código Civil) às demandas fundadas em responsabilidade civil decorrentes de inadimplemento contratual. Incidência da Súmula 83/STJ" (AgRg no AREsp 362.210/ES, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 15/12/2016, DJe de 1º/2/2017).
+3. Agravo interno provido para conhecer do agravo e dar provimento ao recurso especial, a fim de afastar a prescrição, determinando o retorno dos autos ao Tribunal de origem para que prossiga no julgamento das apelações.
+(AgInt no AREsp n. 1.699.915/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 19/10/2020, DJe de 16/11/2020.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA POR DANOS MATERIAIS E MORAIS. DEFICIENTE. SÚMULA 284/STF. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7/STJ. HARMONIA DA DECISÃO RECORRIDA COM A JURISPRUDÊNCIA DO STJ. SÚMULA 568 DO STJ.
+1. Ação indenizatória por danos materiais e morais em razão de inadimplemento de contrato de compromisso de compra e venda de imóvel.
+2. O recurso especial não pode ser conhecido quando a alegação de ofensa à lei for genérica.
+3. Ausentes os vícios do art. 1022 do CPC, rejeitam-se os embargos de declaração.
+4. O reexame de fatos e provas em recurso especial é inadmissível.
+5. É decenal o prazo prescricional aplicável às hipóteses de pretensão fundamentadas em inadimplemento contratual. Precedentes.
+6. Agravo interno no agravo em recuso especial não provido.
+(AgInt no AREsp n. 1.309.903/DF, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 10/8/2020, DJe de 13/8/2020.)
+Nesse contexto, estando a decisão de acordo com a jurisprudência desta Corte, o recurso especial encontra óbice na Súmula 83/STJ, que incide pelas alíneas "a" e "c" do permissivo constitucional.
+Com essas considerações, conclui-se que o recurso não merece prosperar.
+Ante o exposto, conheço do agravo para negar provimento aorecursoespecial.
+Publique-se.
