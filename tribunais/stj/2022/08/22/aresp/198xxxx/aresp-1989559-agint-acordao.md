@@ -1,0 +1,89 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 16/08/2022 a 22/08/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Na origem, trata-se deação objetivando,resumidamente, a concessão de aposentadoria especial, com a reafirmação da DER. O Juízo de 1ª instância julgou parcialmente procedente.No Tribunal a quo, a sentença foi parcialmentereformada para determinar a imediata implantação do benefício, conforme a seguinte ementa do acórdão:
+PREVIDENCIÁRIO. TEMPO DE SERVIÇO ESPECIAL. OPERADOR DE MÁQUINAS PESADAS. OPERADOR DE PÁ CARREGADEIRA. EQUIPARAÇÃO.AVERBAÇÃO. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. REQUISITOS LEGAIS PREENCHIDOS. CORREÇÃO MONETÁRIA E JUROS DE MORA. TUTELA ESPECÍFICA.
+1. Comprovado o exercício de atividade profissional enquadrável como especial, o respectivo período deve ser convertido para tempo comum.
+2. A atividade de operador de máquinas pesadas é equiparada à do motorista de caminhão em decorrência da aplicação analógica do item 2.4.4 do Anexo ao Decreto nº 53.831/64 e do item 2.4.2 do Anexo ao Decreto nº 83.080/79, para o fim de enquadramento da atividade especial por categoria profissional.
+3. Não tem direito à aposentadoria especial o segurado que não possui tempo de serviço suficiente à concessão do benefício. Faz jus, no entanto, à averbação dos períodos judicialmente reconhecidos para fins de obtenção de futuro benefício.
+4. Tem direito à aposentadoria por tempo de serviço/contribuição o segurado que, mediante a soma do tempo judicialmente reconhecido com o tempo computado na via administrativa, possuir tempo suficiente e implementar os demais requisitos para a concessão do benefício.
+5. Honorários advocatícios fixados em 10% sobre o valor das prestações vencidas até o acórdão, conforme previsto no art. 85 do novo CPC, nas Súmulas nº 76 deste Tribunal e nº 111 do Superior Tribunal de Justiça.
+6. Consectários legais fixados nos termos do decidido pelo STF (Tema 810) e pelo STJ (Tema 905).
+7. Reconhecido o direito da parte, impõe-se a determinação para a imediata implantação do benefício, nos termos do art. 497 do CPC.
+Os embargos de declaração opostos foram parcialmente providos para extinguir o feito sem julgamento de mérito, relativamente ao reconhecimento do labor rural no período de 13/12/1976 a 25/8/1980, em acórdão assim ementado:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. REQUISITOS.AUSÊNCIA DE PROVA MATERIAL APTA A COMPROVAR O EXERCÍCIO DA ATIVIDADE RURAL. CARÊNCIA DE PRESSUPOSTO DE CONSTITUIÇÃO E DESENVOLVIMENTO VÁLIDO DO PROCESSO. EXTINÇÃO DO FEITO SEM JULGAMENTO DO MÉRITO. PREQUESTIONAMENTO.
+1. Os embargos de declaração tem cabimento contra qualquer decisão e objetivam esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material.
+2. A contradição se verifica quando o acórdão encerra duas ou mais proposições inconciliáveis. Ou seja, a contradição se dá e se verifica quando ocorre proposições antagônicas que constam do mesmo decisum, não verificado no caso.
+3. A obscuridade está presente quando a decisão prolatada pelo julgador não é compreensível total ou parcialmente, ou seja, a ideia do magistrado não ficou suficientemente clara, impedindo que se compreenda, com exatidão, o seu integral conteúdo, ou quando, v. g., a decisão não é precisa acerca da extensão do acolhimento ou da rejeição do pedido, não verificado no caso.
+4. A ausência de conteúdo probatório eficaz a instruir a inicial, conforme determina o art. 283 do CPC, implica a carência de pressuposto de constituição e desenvolvimento válido do processo, impondo a sua extinção sem o julgamento do mérito (art. 267, IV do CPC) e a consequente possibilidade de o autor intentar novamente a ação (art. 268 do CPC), caso reúna os elementos necessários à tal iniciativa (REsp 1352721/SP, Rel.Ministro NAPOLEÃO NUNES MAIA FILHO, CORTE ESPECIAL, julgado em 16/12/2015, DJe28/04/2016).
+5. Em face da discussão acerca do prequestionamento e considerando a disciplina do art. 1.025 do CPC/2015, os elementos que a parte suscitou nos embargos de declaração serão considerados como prequestionados mesmo com sua rejeição, desde que tribunal superior considere que houve erro, omissão, contradição ou obscuridade. Ou seja, o novo CPC acabou por consagrar expressamente a tese do prequestionamento ficto, na linha de como o STF pacificou entendimento por meio do verbete sumular 356.
+No recurso especial, o recorrente aponta como violados os arts. 57 e 58 da Lei n. 8.213/1991. Assevera a possibilidade de reconhecimento da atividade de motorista como penosa, mesmo após a edição da Lei n. 9.032/1995 e que o acórdão recorrido destoa da tese firmada no Tema n . 534/STJ.
+Alega violação dos arts. 6º, 493, 927, III, e 933 do CPC/2015 e art. 122 da Lei n. 8.213/1991 quanto àpossibilidade de reafirmação da DER (Tema n. 995/STJ). Salienta ser possível a reafirmação da DER para a data em que implementados os requisitos para aposentação por pontos (regra n. 85/95).
+Após decisum que inadmitiu o recurso especial, foi interposto o presente agravo, tendo o recorrente apresentado argumentos visando rebater os fundamentos da decisão agravada.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial."
+Interposto agravo interno, a parte agravante traz, resumidamente, os seguintes argumentos:
+ ..
+Com o devido respeito a decisão merece ser revista, eis que para conhecer da matéria de direito não há qualquer necessidade de se analisar a prova dos autos, o que afasta a afirmação da reanálise de fato.
+De acordo com o que foi exposto no recurso o que se busca com o provimento do recurso especial é a reanálise do caso à luz da previsão do art. 57 da Lei 8.213/91, no que diz respeito a "condições especiais que prejudiquem a saúde ou a integridade física", para fins de reconhecimento de atividade especial em razão da penosidade, ou seja, interpretação jurídica acerca do art. 57 da LBPS.
+ ..
+Frisa-se que desde a petição inicial a parte autora postula a reafirmação da DER para a concessão do benefício mais vantajoso. E a decisão vergastada expressamente negou a reafirmação da DER, ou seja, houve prévio debate da questão ora intentada por intermédio dos embargos de declaração.
+ ..
+A parte agravadafoi intimada para apresentar impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. TEMPO DE SERVIÇO ESPECIAL. OPERADOR DE MÁQUINAS PESADAS. OPERADOR DE PÁ CARREGADEIRA. EQUIPARAÇÃO. AVERBAÇÃO. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. REQUISITOS LEGAIS PREENCHIDOS. CORREÇÃO MONETÁRIA E JUROS DE MORA. TUTELA ESPECÍFICA. REEXAME DE FATOS E PROVAS. SÚMULA N. 7/STJ. AUSÊNCIA DE PREQUESTIONAMENTO. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de ação objetivando, resumidamente, a concessão de aposentadoria especial, com a reafirmação da DER. O Juízo de 1ª instância julgou parcialmente procedente. No Tribunal a quo, a sentença foi parcialmente reformada para determinar a imediata implantação do benefício.
+II - Relativamente ao reconhecimento da atividade especial de motorista, a Corte a quo analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+III - Quanto à matéria constante nos arts. 6º, 493, 927, III, e 933 do CPC/2015 e art. 122 da Lei n. 8.213/1991, verifica-se que o Tribunal a quo, em nenhum momento, abordou as questões referidas nos dispositivos legais, mesmo após a oposição de embargos de declaração apontando a suposta omissão.
+IV - Esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+V - Ademais, a previsão do art. 1.025 do Código de Processo Civil de 2015 não invalidou o enunciado n. 211 da Súmula do STJ (Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo).
+VI - Para que o art. 1.025 do CPC/2015 seja aplicado, e permita-se o conhecimento das alegações da parte recorrente, é necessário não só que haja a oposição dos embargos de declaração na Corte de origem (e. 211/STJ) e indicação de violação do art. 1.022 do CPC/2015, no recurso especial (REsp n. 1.764.914/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 8/11/2018, DJe 23/11/2018). A matéria deve ser: i) alegada nos embargos de declaração opostos (AgInt no REsp n. 1.443.520/RS, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 1º/4/2019, DJe 10/4/2019); ii) devolvida a julgamento ao Tribunal a quo (AgRg no REsp n. 1.459.940/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 24/5/2016, DJe 2/6/2016) e; iii) relevante e pertinente com a matéria (AgInt no AREsp n. 1.433.961/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 17/9/2019, DJe 24/9/2019.)
+VII - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A parte agravante repisa os mesmos argumentos já analisados na decisão recorrida.
+Relativamente ao reconhecimento da atividade especial de motorista, a Corte a quo analisou as alegações da parte com os seguintes fundamentos:
+ ..
+Registro primeiramente ser descabido o pretendido enquadramento em categoria profissional após 28/04/1995.
+A perícia informa que o autor tinha por atividade conduzir caminhão Mercedes Benz MB 709, ano 1990 (veículo pequeno).
+A perícia constatou o nível de ruído no ambiente de trabalho do autor, de75,7 dB(A).
+Percebe-se que esse ruído não está muito distante daquele mencionado pelo PPP, de 74 dB(A), o mesmo citado pelo laudo com validade de janeiro de 2017 a janeiro de 2018.
+A perícia ainda observa que o caminhão avaliado, atualmente em operação na Fazenda Paiquerê, é um veículo maior, mais pesado e mais ruidoso que o operado pelo autor, veículo menor e mais leve, pelo que o ruído que se sujeitou ao autor seria ainda menor que 75,7 dB(A).
+De todo modo, esse patamar de ruído se revela inferior ao menor limite de tolerância vigente no período, de 80 dB(A).
+Por outro lado, constatou a perícia que o ambiente laboral do autor causava exposição ao agente inflamável de modo periculoso, conforme definido pela NR 16.
+Isso porque o autor, durante o período em que laborou na empresa Lucio Christovam Furtado de Miranda, na função de motorista, realizou o abastecimento com óleo diesel.
+Na época, havia no pátio um tanque, com 15.000 litros de óleo diesel, e uma bomba mecânica, manual, movida à manivela. A finalidade deste Ponto de Abastecimento era abastecer a frota de veículos operacionais, como caminhões, tratores e demais equipamentos. Não havia frentista, e cada operador de veículo realizava o abastecimento.
+O tanque do caminhão operado pelo autor tinha volume de 250 litros, e a cada abastecimento completava com cerca de 60-100 litros. A cada semana, o veículo era abastecido cerca de três vezes, e demandava cerca de 10 minutos, sendo operação manual.
+Resta claro que havia na fazenda o armazenamento de combustíveis e a presença de bomba abastecedora, e que o abastecimento de inflamáveis fazia parte também de sua rotina.
+Tal atividade, a princípio, leva à conclusão que o autor operava em bomba de abastecimento de inflamável líquido, bem como o local de trabalho constituia área de risco (raio de 7,5 metros ao redor da bomba de combustível).
+Desse modo, a parte autora teria desenvolvido atividades tidas por perigosas, conforme itens 1. m e 3. q do anexo II da NR-16, e segundo conclusão que se chegou o perito.
+Mas é preciso dizer que esse abastecimento não se dava todos os dias, porque ocorria apenas três vezes por semana, e demandava cerca de 10 minutos.
+Acerca da habitualidade, apesar de ser um conceito ligado à exposição a agentes nocivos, não é incompatível associar a sua ideia também para os casos de periculosidade, desde que aplicado com adaptações.
+Por exemplo, não se falaria em exposição habitual a agentes nocivos, e sim em desenvolvimento habitual de atividade perigosa.
+É bem verdade que na periculosidade não é exigível que o desenvolvimento da atividade perigosa se dê durante a jornada de trabalho, mas é necessário que haja o mínimo de continuidade dessa atividade. Nesse sentido o seguinte julgado:
+ ..
+Não se pode falar em continuidade (ou habitualidade) de uma atividade que era exercida em poucos minutos, apenas durante três vezes por semana.
+Ademais, não há como equiparar a condição do autor a de uma frentista, cuja atividade normalmente é considerada perigosa, em conformidade com a NR-16.
+De fato, uma atividade que é exercida apenas durante duas horas num mês, de nenhuma forma pode ser igualada a daquele que em todo o mês, durante todos os dias de trabalho, na integralidade da sua jornada, está sujeito ao risco de explosões e de incêndios.
+De convir que o risco a que se sujeitou o autor é bem mais acentuado.
+Tanto não era perigosa a atividade do motorista que o autor sequer chegou a aventá-la na sua petição inicial, muito menos juntou comprovantes de que receberia o respectivo adicional.
+Tudo isso para dizer que o exercício de atividade perigosa pelo autor, mas de forma descontínua, o que certamente diminui o seu risco, é incapaz de gerar o reconhecimento da especialidade.
+Tem-se, portanto, como incabível o reconhecimento da especialidade, por exposição ao agente físico ruído e ante o desenvolvimento de atividade perigosa, no período de29/04/1995 a30/05/1998.
+ ..
+A perícia informa que o autor tinha por atividade conduzir caminhões Scania 112H, ano 1986 (por três anos); Volvo NH 380, ano 2005 (por dois anos); e Volvo NH 380, ano 2000 (por três anos).
+A perícia constatou o nível de ruído no ambiente de trabalho do autor, de75,7 dB(A).
+Percebe-se que esse ruído não está muito distante daquele mencionado pelo PPP, de 74 dB(A), que teria se baseado em informações do laudo de 2014,segundo consta no campo das observações.
+A perícia ainda observa que o caminhão avaliado, atualmente em operação na Fazenda Paiquerê, é similar ao equipamento que o autor operava à sua época laboral.
+E, esse patamar de ruído, se revela inferior ao menor limite de tolerância vigente no período, de 85 dB(A).
+Aqui, apesar da função ser também de motorista, a perícia não falou em periculosidade decorrente do manuseio de inflamável, porque o abastecimento não era feito na fazenda, e sim em postos de combustível.
+Tem-se, portanto, como incabível o reconhecimento da especialidade, por exposição ao agente físico ruído, no período de 01/02/1999 a 30/04/2007.
+ ..
+Verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "Apretensão de simples reexame de provas não enseja recurso especial".
+Quanto à matéria constante nos arts. 6º, 493, 927, III, e 933 do CPC/2015 e art. 122 da Lei n. 8.213/1991, verifica-se que o Tribunal a quo, em nenhum momento, abordou as questões referidas nos dispositivos legais, mesmo após a oposição de embargos de declaração apontando a suposta omissão.
+Esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+Ademais, aprevisão do art. 1.025 do Código de Processo Civil de 2015 não invalidou o enunciado n. 211 da Súmula do STJ (Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo).
+Para que o art. 1.025 do CPC/2015 seja aplicado, e permita-se o conhecimento das alegações da parte recorrente, é necessário não só que haja a oposição dos embargos de declaração na Corte de origem (e. 211/STJ) e indicação de violação do art. 1.022 do CPC/2015, no recurso especial (REsp n. 1.764.914/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 8/11/2018, DJe 23/11/2018). A matéria deve ser: i) alegada nos embargos de declaração opostos (AgInt no REsp n. 1.443.520/RS, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 1º/4/2019, DJe 10/4/2019); ii) devolvida a julgamento ao Tribunal a quo (AgRg no REsp n. 1.459.940/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 24/5/2016, DJe 2/6/2016) e; iii) relevante e pertinente com a matéria (AgInt no AREsp n. 1.433.961/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 17/9/2019, DJe 24/9/2019.)
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
