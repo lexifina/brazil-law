@@ -1,0 +1,26 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 16/08/2022 a 22/08/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão que não conheceu do recurso especial interposto contra acórdão doTRIBUNAL DE JUSTIÇA DO ESTADO DE ALAGOAS, assim ementado:
+APELAÇÃO CÍVEL. SERVIDOR PÚBLICO ESTADUAL. ADICIONAL INSALUBRIDADE. COMPATIBILIDADE DO SEU RECEBIMENTO COM A PERCEPÇÃO DE SUBSÍDIO. PRELIMINAR E PREJUDICIAL DE MÉRITO AFASTADA. BASE DE CÁLCULO. SUBSÍDIO MÍNIMO DA CATEGORIA. DECISÃO DO PLENO DESTE TRIBUNAL DE JUSTIÇA EM SEDE DE UNIFORMIZAÇÃO DE JURISPRUDÊNCIA. RETIFICAÇÃO JUROS DE MORA E CORREÇÃO MONETÁRIA. OVERRULING. SUPERAÇÃO DOS PRECEDENTES. OBRIGAÇÃO LIQUIDA. RESPONSABILIDADE CONTRATUAL. JUROS MORATÓRIOS. MORA EX RE. DESDE O VENCIMENTO DA OBRIGAÇÃO. CORREÇÃO MONETÁRIA. DESDE O EFETIVO PREJUÍZO. HONORÁRIOS ADVOCATÍCIOS. SENDO LÍQUIDA A SENTENÇA, OS HONORÁRIOS DEVEM SER FIXADOS DESDE LOGO. SENTENÇA MANTIDA. MAJORAÇÃO DOS HONORÁRIOS PARA O PATAMAR DE II% (ONZE POR CENTO) SOBRE O VALOR DA CONDENAÇÃO. RECURSO CONHECIDO E NÃO PROVIDO.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, nos termos do art. 259 do Regimento Interno do STJ, reconsidero a decisão recorrida e conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial."
+No agravo interno, a parte recorrente traz, resumidamente, os seguintes argumentos:
+"De todo modo, primeiramente, ressalte-se que o que se requer não é a análise das circunstâncias fáticas do caso concreto, mas apenas a correta aplicação dos dispositivos legais -os quais foram malferidos pelo Judiciário local. Por isso, está mais do que evidente que o Estado de Alagoas não pretende revolvimento fático-probatório, mas simplesmente a revaloração jurídica dos equívocos cometidos em sede de TJAL. Dessa forma, inaplicável a Súmula 7 do STJ -o que possibilita o pleno conhecimento da matéria trazida nas razões do Agravo e do Recurso Especial."
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO CIVIL. SISTEMA REMUNERATÓRIO E BENEFÍCIOS. ADICIONAL DE INSALUBRIDADE. BASE DE CÁLCULO.DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. INCIDÊNCIA DAS SÚMULAS 7 E 83 DO STJ.
+I - Na origem, trata-se de ação ordinária de cobrança com pedido de tutela antecipada, em desfavor do Estado do Alagoas - SESAU, objetivando o recebimento do adicional de insalubridade, com a base de cálculo sobre o subsídio do cargo que ocupa. Na sentença o pedido foi julgado parcialmente procedente, para determinar a implantação do adicional de insalubridade com a base de cálculo sob o respectivo subsídio base da categoria a que pertence a autora, condenando o Estado de Alagoas no pagamento dos valores retroativos, observando-se, por consequência, o prazo prescricional de 05 (cinco) anos. No Tribunala quo, a sentença foi mantida.
+II - A jurisprudência predominante neste Superior Tribunal de Justiça orienta-se no sentido que a obrigação decorrente de pagamento de adicional de insalubridade é líquida e com vencimento certo, razão pela qual os juros de mora devem incidir a partir do inadimplemento da obrigação.
+III - Incide, portanto, o disposto no enunciado n. 83 da Súmula do STJ, segundo o qual: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+IV - Ademais, a alteração das conclusões adotadas pela Corte de origem a respeito da liquidez da obrigação, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em sede de Recurso Especial, conforme o óbice previsto no enunciado n. 7 da Súmula do STJ.
+V - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A parte agravante repisa os mesmos argumentos já analisados na decisão recorrida.
+A jurisprudência predominante neste Superior Tribunal de Justiça orienta-se no sentido que a obrigação decorrente de pagamento de adicional de insalubridade é líquida e com vencimento certo, razão pela qual os juros de mora devem incidir a partir do inadimplemento da obrigação.
+Incide, portanto, o disposto no enunciado n. 83 da Súmula do STJ, segundo o qual: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+Ademais, a alteração das conclusões adotadas pela Corte de origem a respeito da liquidez da obrigação, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em sede de Recurso Especial, conforme o óbice previsto no enunciado n. 7 da Súmula do STJ.
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
