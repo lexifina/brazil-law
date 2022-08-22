@@ -1,0 +1,34 @@
+DECISÃO
+Cuida-se de embargos de declaração, opostospor ERIC ALMEIDA LEAHY,contra a decisão queconheceu do presenteconflito para assentar a competênciado Juízo da Recuperação Judicialparalevar a termo a satisfação de crédito trabalhista a cargo de sociedade empresáriasubmetidaa procedimento de recuperação judicial.
+Afirma o embargante, de início, que a decisão embargada padece do vício deomissão consistente "na não apreciação da petição de fls. 200/259 (que sequer consta do relatório da decisão de fls. 265/267) e a inobservância das Súmulas 480 e 581 do STJ, vícios esses que invalidam a fundamentação do decisum" (na fl. 272).
+Nesse passo, esclarece quea assinalada petição "traz uma questão prejudicial e duas questões preliminares importantes ao conhecimento do conflito de competência, as quais não foram abordadas na r. decisão de fls. 265/267. Traz, ainda, uma questão de mérito importante sobre a alteração da Lei Federal n o 11.101/05, igualmente não enfrentada na r. decisão monocrática" (na fl. 272).
+São elas:
+"1) Questão prejudicial (capítulo IV): a titularidade dos valores bloqueados é fato jurídico controvertido nos Embargos de Terceiro de n o 0100750- 64.2021.5.01.0052, o que faz com que o conflito seja hipotético/eventual;
+2) Questões preliminares (capítulos V e VI): não houve a juntada do plano de recuperação judicial, documento indispensável para o conhecimento do conflito (Súmula 480 do STJ)  não há uma divergência concreta e atual entre os Juízos suscitados, outra hipótese de não conhecimento do conflito.
+3) Questão de mérito (capítulo VII): a Lei Federal n o 11.101/05 foi alterada pela Lei Federal n o 14.112/2020, trazendo inovação legislativa que justifica a revisão da jurisprudência do STJ anterior ao ano de 2020"(grifou-se, na fl. 273).
+Requer, desse modo, o acolhimento dos embargos de declaração.
+É o relatório.
+Passo a decidir.
+Os embargos nãomerecem acolhida.
+A não remissão a petições juntadas por interessados não constitui vício a inquinar a decisão que soluciona conflito de competência, porquanto, solvendo questão de interesse apenas do Estado, relativa à administração da Justiça,satisfaz-se, via de regra, com a análise das decisões alegadamente em conflito e das posteriores informações prestada, assim como do valioso parecer do Ministério Público Federal.
+Ainda que assim não fosse, não se verifica a ocorrênciade omissõesna decisãoembargada.
+Deveras,verifica-se que a questão relativaà "titularidade dos valores bloqueados" que, segundo o embargante, é controvertida, não pode serobjeto, principal, do presente incidente, jungido à declaração da competência de um Órgão jurisdicionalem relaçãoa outro.
+Logo, o conflito de competência, cujo contraditório é apenas eventual, contenta-se com a declaração do d. Juízo do Trabalho suscitado, portadorde fé pública, quando afirma que as quantias bloqueadas são de titularidade do Grupo Econômicoem recuperação judicial(nas fls. 191/198).Sendo assim, não é caso de incidência das Súmulas 481/STJ e 581/STJ, tampouco de necessidade dejuntada do plano de recuperação judicial.
+Do mesmo modo, não procede a alegação de que "falta de uma divergência concreta e atual entre o Juízos Suscitados, já que o bloqueio de créditos foi deferido por meio da decisão de Id. e984421, datada de 21/05/2021, tendo sido efetivado meses antes do deferimento da recuperação judicial, em 22/10/2021", pois a decisão embargada afirma expressamente que:
+"Deveras, de acordo com o art. 59 da Lei 11.101/05, a aprovação do plano de recuperação judicial implica novação das antigas obrigações do devedor que, extintas, são substituídas por aquelas previstas no indigitado plano.
+Outrossim, o art. 49 da Lei 11.101/2005 prevê que "estão sujeitos à recuperação judicial todos os créditos existentes na data do pedido, ainda que não vencidos", o que conduz à conclusão de que a submissão de um determinado crédito à Recuperação Judicial não depende de provimento judicial anterior ou contemporâneo ao pedido, bastando que se refira a obrigações contraídas anteriormente a ele" (na fl.180).
+A assinalada questão, inclusive está pacificada em sede de recurso especial repetitivos. Confira-se;
+RECURSO ESPECIAL REPETITIVO. DIREITO EMPRESARIAL. RECUPERAÇÃO JUDICIAL. CRÉDITO. EXISTÊNCIA. SUJEIÇÃO AOS EFEITOS DA RECUPERAÇÃO JUDICIAL. ART. 49, CAPUT, DA LEI Nº 11.101/2005. DATA DO FATO GERADOR.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Ação de obrigação de fazer, cumulada com reparação de danos e devolução dos valores pagos indevidamente. Discussão acerca da sujeição do crédito aos efeitos da recuperação judicial.
+3. Diante da opção do legislador de excluir determinados credores da recuperação judicial, mostra-se imprescindível definir o que deve ser considerado como crédito existente na data do pedido, ainda que não vencido, para identificar em quais casos estará ou não submetido aos efeitos da recuperação judicial.
+4. A existência do crédito está diretamente ligada à relação jurídica que se estabelece entre o devedor e o credor, o liame entre as partes, pois é com base nela que, ocorrido o fato gerador, surge o direito de exigir a prestação (direito de crédito).
+5. Os créditos submetidos aos efeitos da recuperação judicial são aqueles decorrentes da atividade do empresário antes do pedido de soerguimento, isto é, de fatos praticados ou de negócios celebrados pelo devedor em momento anterior ao pedido de recuperação judicial, excetuados aqueles expressamente apontados na lei de regência.
+6. Em atenção ao disposto no art. 1.040 do CPC/2015, fixa-se a seguinte tese: Para o fim de submissão aos efeitos da recuperação judicial, considera-se que a existência do crédito é determinada pela data em que ocorreu o seu fato gerador.
+7. Recurso especial provido.
+(REsp n. 1.842.911/RS, relator Ministro Ricardo Villas Bôas Cueva, Segunda Seção, julgado em 9/12/2020, DJe de 17/12/2020.)
+Desse modo, não há se falar em incidência do art. 22 da Lei 11.101/2005, de modo a proibir a arrecadação de valores antes da decretação de falência, porquanto o art. 49 da Lei 11.101/2005 prevê que "estão sujeitos à recuperação judicial todos os créditos existentes na data do pedido, ainda que não vencidos".
+Ora, conforme o precedente vinculante acima enunciado, "os créditos submetidos aos efeitos da recuperação judicial são aqueles decorrentes da atividade do empresário antes do pedido de soerguimento, isto é, de fatos praticados ou de negócios celebrados pelo devedor em momento anterior ao pedido de recuperação judicial, excetuados aqueles expressamente apontados na lei de regência".
+Por fim, é de se destacar que a verificação da essencialidade de um determinado bem é mister atribuído, no Primeiro Grau de Jurisdiçãoao d. Juízo da Recuperação Judicial.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se.
