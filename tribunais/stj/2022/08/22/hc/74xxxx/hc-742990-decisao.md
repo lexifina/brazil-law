@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de NICOLAU ELIAS AKKARI contra acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ (Recurso em Sentido Estriton. 001724-43.2021.8.16.0176).
+Depreende-se dos autos que "a MMª. Juíza indeferiu o pedido ministerial de decretação da prisão preventiva dodenunciadopor não vislumbrar nos autos os requisitos previstos no artigo 312, do Código de Processo Penal, contudo, aplicou-lhemedidas cautelares diversas da prisão, nos termos do artigo 319, do Código de Processo Penal" (e-STJ fl.23).
+Irresignado, o Parquet interpôs recurso em sentido estrito perante a Corte de origem, que deu provimento ao recurso, nos termos da seguinte ementa (e-STJ fl. 23):
+RECURSO EM SENTIDO ESTRITO -- DENÚNCIA PELA PRÁTICA DOS CRIMES DE TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO - INSURGÊNCIA DO MINISTÉRIO PÚBLICO SOBRE A NECESSIDADE DA DECRETAÇÃO DA CUSTÓDIA CAUTELAR - PEDIDO INDEFERIDO PELO JUÍZO "A QUO" - VERIFICAÇÃO DA PRESENÇA DOS REQUISITOS DA PRISÃO PREVENTIVA - INDÍCIOS DE MATERIALIDADE E AUTORIA - EXISTÊNCIA DE ELEMENTOS ENSEJADORES DO "PERICULUM LIBERTATIS" -CIRCUNSTÂNCIAS DO CASO QUE RETRATAM A PERICULOSIDADE DOS RÉUS - PREENCHIMENTO DOS REQUISITOS PREVISTOS NO ARTIGO 312, DO CÓDIGO DE PROCESSO PENAL - NECESSIDADE DE SE ASSEGURAR A ORDEM PÚBLICA - MEDIDAS CAUTELARES ALTERNATIVAS QUE NÃO SE MOSTRARAM SUFICIENTES PARA EVITAR A REITERAÇÃO CRIMINOSA - DECISÃO REFORMADA - RECURSO PROVIDO.
+Daí o presente writ, no qual alega a defesa que a decisão que decretou a prisão preventiva do paciente carece de fundamentação idônea.
+Requer ao final (e-STJ fl. 20):
+I) Seja concedida a liminar, para promover a suspensão do r. Acórdão que decretou a prisão preventiva em desfavor de NICOLAU ELIAS AKKARI, e todos os efeitos decorrentes, até o julgamento de mérito do presente remédio constitucional, caçando os efeitos do superveniente mandado de prisão e com ordem expressa de imediato recolhimento deste, caso expedido.
+II) No mérito, requer-se que a ordem seja concedida em definitivo, confirmando-se a liminar, fazendo, via de consequência, cessar a coação ilegal, para o fim de cassar a decisão que decretou a prisão preventiva do paciente.
+III) Desde logo, a defesa manifesta interesse em apresentar sustentação oral, e requer sua intimação, nos termos e prazo legal, da data e hora do julgamento.
+IV) Informa, finalmente, que o paciente é portador de uma discopatia degenerativa adjacente à artrodese -CID M51, e que está em tratamento desde 2012 por pós-operatório de artrodese lombar-atestado em anexo.
+O pedido liminar foi indeferido (e-STJ fls. 50/52).
+Prestadas as informações, o Ministério Público manifestou-se pelo não conhecimento ou pela denegação do writ (e-STJ fls. 84/87).
+É, em síntese, o relatório.
+Decido.
+A presente impetração impugna o acórdãoque deu provimento ao Recurso em Sentido Estrito ministerialn. 001724-43.2021.8.16.0176, proferido em 28/4/2022, para decretar a prisão preventiva do ora paciente.
+Em petição de e-STJ fls. 89/97,noticia o impetrante que" o Ministério Público ingressou contra este paciente, nos mesmos autos originários, com novo recurso em sentido estrito n. 0000756-76.2022.8.16.0176, onde objetivava a reforma da r. decisão de primeiro grau seq. 130.1, a fim de manter os investigados em monitoração eletrônica",tendo o colegiado de origem negado provimento ao recurso para manter a decisão que afastou a monitoração eletrônica e prorrogou as medidas cautelares diversas da prisão.
+Ora, a decisão que revogou a medida cautelar de monitoração eletrônica proferida em 9/3/2022 (e-STJ fl. 40/42), em tese, deveria ter perdido seus efeitos com a posterior decretação da prisão preventiva no RESEn. 001724-43.2021.8.16.0176, proferido em 28/4/2022.
+Entretanto, o mesmo Desembargador Relator do primeirorecurso em sentido estrito proferiu nova decisão, que foi acolhida pelos demais pares, por unanimidade, em sessão de julgamento de 12/8/2022, a qual manteve a decisão, de 9/3/2022, que prorrogou as medidas cautelares diversas da prisão eafastou o monitoramento eletrônico.
+Assim, com a superveniência de acórdão que altera a situação fática aqui apresentada-ou seja, não existe mais o decreto de prisão preventiva ora impugnado,entendo estar claro que o presente writ encontra-seprejudicado pela perda de objeto.
+Ante o exposto, com base no art. 34, XX, do Regimento Interno desta Corte, julgo prejudicado o presente habeas corpus.
+Publique-se. Intimem-se.
