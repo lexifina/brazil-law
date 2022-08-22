@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de embargos de declaração opostos contra decisão de fls. 804/805, que acolheu anteriores embargos de declaração opostos pela parte contrária para, diante do parcialprovimento do recurso especial (fls. 788/793), redistribuiros ônus de sucumbência fixados no acórdão do Tribunal de origem.
+A parte embargante alega que há equívoco na decisão embargada porque teria saídovencedora em doisdos três pedidos da inicial (a condenação ao pagamento de danos morais e a multa contratual),razão pela qual requer "seja reformada decisão a fim de adequar a proporcionalidade da distribuição de despesas processuais entre os litigantes".
+Impugnação apresentada (fls. 814/816).
+Assim delimitada a questão, passo a decidir.
+A decisão embargada apresentou fundamentação clara e suficiente, razão pela qual não merece reparo algum, conforme se depreende de seus próprios fundamentos, a seguir transcritos (e-STJ, fls. 804/805):
+Na hipótese, verifico que a decisão embargada padece de omissão, pois embora tenha dado parcial provimento ao recurso especial, não houve análise acerca de eventual inversão da sucumbência.
+Desse modo, constatada omissão no julgado, impõe-se o acolhimento das alegações da parte embargante para sanar o aludido vício, em conformidade com o disposto no art. 1.022, inciso II, do CPC/2015.
+Da análise dos autos, verifico que, de fato, a parte autora saiu vencedora apenas em um dos seus três pedidos, uma vez que negada a indenização por danos materiais e morais e acolhido o pedido de condenação da parte ré ao pagamento de multa moratória de 2% do valor pago pelo imóvel.
+Assim, há que se reconhecer que, com o provimento parcial do recurso especial interposto pela parte ora embargante, houve sucumbência recíproca entre as partes, devendo essa sucumbência refletir na redistribuição dos ônus de sucumbência nos termos do art. 86 do CPC/2015.
+Nesse contexto, a parte dispositiva da decisão embargada (e-STJ fl. 793) ficará com a seguinte redação: "Em face do exposto, conheço do agravo e dou parcial provimento ao recurso especial para afastar a condenação da parte recorrente ao pagamento de indenização por danos morais. Nos termos do art. 86 do CPC/2015, redistribuo os ônus de sucumbência fixados no acórdão recorrido, que deverão ser suportados à ordem de 35% pela parte ré e 65% pela parte autora, vedada a compensação e observada eventual concessão de assistência judiciária gratuita".
+(sem destaques no original)
+Com efeito, a decisão de fls. 788/793 deu parcial provimento ao recurso especial para afastar a condenação da parte ré ao pagamento de indenização por danos morais, de modo que a argumentação da parte embargante apenas reforça o que ficou consignado na decisão embargada no sentido de que "a parte autora saiu vencedora apenas em um dos seus três pedidos, uma vez que negada a indenização por danos materiais e morais e acolhido o pedido de condenação da parte ré ao pagamento de multa moratória de 2% do valor pago pelo imóvel".
+Assim, não demonstrada efetivamente a existência de nenhum dos vícios previstos no art. 1.022 do CPC/2015, conclui-se que a pretensão da parte embargante é unicamente o rejulgamento da causa, finalidade à qual não se presta a via eleita.
+Em face do exposto, rejeito os embargos de declaração.
+Intimem-se.
