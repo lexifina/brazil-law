@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 16/08/2022 a 22/08/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  por  JFE  49  EMPREENDIMENTOS  IMOBILIÁRIOS  SPE  LTDA.  contra  a  decisão  (fls.  493/498  e-STJ)  que  conheceu  do  agravo  para  não  conhecer  do  recurso  especial.
+Em  suas  razões,  o  agravante  defende  que  inaplicáveis as  Súmulas  nºs  5  e  7/STJ.
+Impugnação  às  fls.  517/529  (e-STJ).
+É  o  relatório.
+EMENTA
+  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AÇÃO  DE  RESCISÃO  CONTRATUAL  CUMULADA  COM  REPARAÇÃO  DE  DANOS.  NEGATIVA  DE  PRESTAÇÃO  JURISDICIONAL.  INEXISTÊNCIA.  PROMESSA  DE  COMPRA  E  VENDA  DE  IMÓVEL.  RESOLUÇÃO  DO  CONTRATO.  INADIMPLEMENTO  DO  VENDEDOR.  DANO  MORAL  . COMPROVAÇÃO.  VALOR.  INDENIZAÇÃO.  REVISÃO.  SÚMULAS  NºS  5  E  7/STJ.  COMISSÃO  DE  CORRETAGEM.  PRESCRIÇÃO.  NÃO  OCORRÊNCIA.  SÚMULA  Nº  568/STJ.
+1.  Recurso  especial  interposto  contra  acórdão  publicado  na  vigência  do  Código  de  Processo  Civil  de  2015  (Enunciados  Administrativos  nºs  2  e  3/STJ).
+2.  Não  há  falar  em  negativa  de  prestação  jurisdicional  quando  o  tribunal  de  origem  indica  adequadamente  os  motivos  que  lhe  formaram  o  convencimento  e  analisa  de  forma  clara,  precisa  e  completa  as  questões  relevantes  do  processo,  solucionando  a  controvérsia  com  a  aplicação  do  direito  que  entende  cabível  à  hipótese.
+3.  Na hipótese,  rever  a  conclusão  do  tribunal  local  acerca d  a  existência  de  danos  morais  e  do  valor  fixado  como  indenização  demandaria  análise  e  interpretação  de  cláusulas  contratuais  e  revolvimento  do  acervo  fático-probatório  dos  autos,  procedimentos  inviáveis  ante  a  natureza  excepcional  da  via  eleita,  consoante  disposto  nas  Súmulas  nºs  5  e  7/STJ.
+4.  A  jurisprudência  do  Superior  Tribunal  de  Justiça  está  sedimentada  no  sentido  de  que,  em  demandas  objetivando  a  restituição  dos  valores  pagos  a  título  de  comissão  de  corretagem  em  que  a  causa  de  pedir  é  a  rescisão  do  contrato  por  inadimplemento  do  vendedor,  o  prazo  prescricional  da  pretensão  da  restituição  de  valores  tem  início  após  a  resolução,  sendo  inaplicável  o  prazo  prescricional  trienal.
+5.  Agravo  interno  não  provido.
+VOTO
+O  acórdão  impugnado  pelo  recurso  especial  foi  publicado  na  vigência  do  Código  de  Processo  Civil  de  2015  (Enunciados  Administrativos  nºs  2  e  3/STJ).
+A  irresignação  não  merece  prosperar.
+Conforme  consta  na  decisão  atacada,  no  tocante  à  alegada  negativa  de  prestação  jurisdicional,  agiu  corretamente  o  tribunal  de  origem  por  inexistir  omissão,  contradição,  obscuridade  ou  erro  material  no  acórdão  embargado,  ficando  patente,  em  verdade,  o  intuito  infringente  da  irresignação,  que  objetivava  a  reforma  do  julgado  por  via  inadequada.
+A  propósito:
+"PROCESSO  CIVIL.  AGRAVO.  EXCEÇÃO  DE  PRÉ-EXECUTIVIDADE.  NEGATIVA  DE  PRESTAÇÃO  JURISDICIONAL.  INEXISTÊNCIA  DE  OMISSÃO  OU  CONTRADIÇÃO.
+1.  O  artigo  535  do  Código  de  Processo  Civil  dispõe  sobre  omissões,  obscuridades  ou  contradições  existentes  nos  julgados.  Trata-se,  pois,  de  recurso  de  fundamentação  vinculada,  restrito  a  situações  em  que  se  verifica  a  existência  dos  vícios  na  lei  indicados.
+2.  Afasta-se  a  violação  do  art.  535  do  CPC  quando  o  decisório  está  claro  e  suficientemente  fundamentado,  decidindo  integralmente  a  controvérsia.
+(..)
+4.  Agravo  regimental  desprovido"  (AgRg  no  Ag  1.176.665/RS,  Rel.  Ministro  JOÃO  OTÁVIO  DE  NORONHA,  Quarta  Turma,  julgado  em  10/5/2011,  DJe  19/5/2011).
+"RECURSO  ESPECIAL  .  NEGATIVA  DE  PRESTAÇÃO  JURISDICIONAL  .  INOCORRÊNCIA  .  PRECLUSÃO  .  AUSÊNCIA  DE  IMPUGNAÇÃO  AO  FUNDAMENTO  DO  ACÓRDÃO  RECORRIDO  .  INCIDÊNCIA  DA  SÚMULA  283/STF.  TRANSAÇÃO  E  PRESCRIÇÃO  .  AUSÊNCIA  DE  PREQUESTIONAMENTO.  INCIDÊNCIA  DA  SÚMULA  211/STJ  .  PRODUÇÃO  DE  PROVAS  .  CRITÉRIO  DO  MAGISTRADO  .  JULGAMENTO  ANTECIPADO  DA  LIDE  .  CERCEAMENTO  DE  DEFESA.  OCORRÊNCIA,  NA  ESPÉCIE  .  RECURSO  IMPROVIDO.
+1.  Os  embargos  de  declaração  consubstanciam-se  no  instrumento  processual  destinado  à  eliminação,  do  julgado  embargado,  de  contradição,  obscuridade  ou  omissão  sobre  tema  cujo  pronunciamento  se  impunha  pelo  Tribunal,  não  se  prestando  para  promover  a  reapreciação  do  julgado.
+(..)
+6.  Recurso  improvido."  (REsp  1.134.690/PR,  Rel.  Ministro  MASSAMI  UYEDA,  Terceira  Turma,  julgado  em  15/2/2011,  DJe  24/2/2011).
+Na  hipótese  dos  autos,  o  tribunal  de  origem  assim  consignou:
+"(..)
+Assim,  como  a  rescisão  se  dá  em  virtude  de um  inadimplemento  contratual  do  réu,  deve  ser  devolvido  ao  adquirente  o  valor  integralmente  pago.
+(..)
+Quanto  ao  dano  moral,  é  evidente  que  a  hipótese  em  comento  ultrapassou  o  mero  aborrecimento,  haja  vista  que  a  parte  autora  enfrentou  uma  verdadeira  via  crucis  até  aqui  para  ver  seu  direito  restabelecido.  Sem  contar  com  a  frustração  da  expectativa  que  tinha  em  estar  adquirindo  um  imóvel  livre  e  desembaraçado,  conforme  constou  do  recibo  de  sinal.
+No  que  se  refere  ao  quantum,  embora  não  deva  o  valor  da  reparação  constituir  causa  de  enriquecimento  ilícito,  não  é  menos  verdade  que  deve  indicar  um  juízo  de  reprovação,  a  fim  impor  maior  responsabilidade  ao  prestador  de  serviço.
+Para  efeitos  da  quantificação  da  indenização  devem  ser  observados  dois  critérios:  o  primeiro,  traduzido  na  tentativa  de  substituição  da  dor  e  do  sofrimento  por  uma  compensação  financeira;  o  segundo,  em  uma  sanção  com  caráter  educativo,  para  estabelecer  um  temor,  e  por  isso  trazer  uma  maior  responsabilidade.
+(..)
+Dessa  forma,  considerando  as  peculiaridades  do  caso,  considero  adequado  o  valor  arbitrado"  (fls.  279/280  e-STJ).
+Desse modo, rever  a  conclusão  do  tribunal  local  demandaria  a  análise  e  interpretação  de  cláusulas  contratuais  e  o  revolvimento  do  acervo  fático-probatório  dos  autos,  procedimentos  inviáveis  ante  a  natureza  excepcional  da  via  eleita,  consoante  disposto  nas  Súmulas  nºs  5  e  7/STJ.
+Ademais,  no  que  diz  respeito  ao  prazo  prescricional  defendido  pela  agravante,  o  acórdão  ressaltou  que  a  pretensão  da  parte  autora/agravada  é  a  rescisão  do  contrato  devido  ao  inadimplemento,  de  modo  que  o  prazo  prescricional  ainda  não  havia  iniciado,  conforme  princípio  da  actio  nata.
+Esse  é  o  entendimento  sedimentado  pela  jurisprudência  das  turmas  de  direito  integrantes  da  Segunda  Seção  do  Superior  Tribunal  de  Justiça:
+"AGRAVO  INTERNO.  AGRAVO  EM  RECURSO  ESPECIAL.  COMPROMISSO  DE  COMPRA  E  VENDA  DE  UNIDADE  IMOBILIÁRIA.  ATRASO  NA  ENTREGA  DO  IMÓVEL.  RESCISÃO.  CULPA  DA  VENDEDORA.  PRESCRIÇÃO.  TERMO  INICIAL  DOS  JUROS  DE  MORA.
+1.  Não  se  aplica  a  orientação  do  Tema  938/STJ  aos  casos  em  que  a  pretensão  de  restituição  da  comissão  de  corretagem  e  da  Taxa  SATI  decorre  da  rescisão  do  contrato  por  culpa  da  vendedora,  porquanto  tais  verbas  integram  as  perdas  e  danos  devidas  ao  comprador  para  volta  ao  status  quo  ante.
+2.  Pelo  mesmo  motivo  também  não  se  aplica  a  jurisprudência  desta  Corte  apontada  pela  agravante  sobre  o  termo  inicial  dos  juros  de  mora  a  contar  do  trânsito  em  julgado,  uma  vez  que  não  se  cuida  de  pretensão  de  devolução  de  valores,  decorrente  de  resolução  de  compromisso  de  compra  e  venda  por  iniciativa  do  promitente  comprador  com  alteração  das  obrigações  assumidas.  A  incidência  de  juros  de  mora  sobre  os  valores  a  serem  devolvidos,  cuidando-se  de  responsabilidade  contratual,  incide  a  partir  da  citação.
+3.  Agravo  interno  a  que  se  nega  provimento."  (AgInt  no  AREsp  1.699.501/SP,  Rel.  Ministra  MARIA  ISABEL  GALLOTTI,  QUARTA  TURMA,  julgado  em  30/11/2020,  DJe  7/12/2020  -  grifou-se).
+"AGRAVO  INTERNO.  IMPUGNAÇÃO  AOS  FUNDAMENTOS  DA  DECISÃO  DE  INADMISSIBILIDADE.  AGRAVO  EM  RECURSO  ESPECIAL  CONHECIDO.  PROMESSA  DE  COMPRA  E  VENDA.  ATRASO  NA  ENTREGA  DO  IMÓVEL.  INADIMPLEMENTO  DA  VENDEDORA.  RESOLUÇÃO  DO  CONTRATO.  RESTITUIÇÃO  DOS  VALORES  PAGOS.  COMISSÃO  DE  CORRETAGEM.  PRESCRIÇÃO.
+1.  No  presente  caso  verifica-se  que  houve  impugnação  aos  fundamentos  da  decisão  de  inadmissibilidade  do  recurso  especial,  devendo  ser  provido  o  agravo  interno  para  que  se  conheça  do  agravo  em  recurso  especial.
+2.  Segundo  o  entendimento  das  Turmas  integrantes  da  Segunda  Seção  desta  Corte  (REsp  1.737.992/RO,  Rel.  Ministro  Paulo  de  Tarso  Sanseverino,  Terceira  Turma,  DJe  23/08/2019  e  EDcl  no  AgInt  no  AREsp  1.220.381/DF,  Rel.  Ministra  Maria  Isabel  Gallotti,  Quarta  Turma,  DJe  20/11/2019),  nas  demandas  objetivando  a  restituição  dos  valores  pagos  a  título  de  comissão  de  corretagem  em  que  a  causa  de  pedir  é  a  resolução  do  contrato  em  virtude  de  inadimplemento  do  vendedor,  ao  atrasar  a  entrega  de  imóvel,  o  prazo  prescricional  da  pretensão  restituitória  somente  começa  a  fluir  após  a  resolução,  não  se  aplicando  o  prazo  prescricional  trienal  previsto  no  Tema  938/STJ.
+3.  Resolvido  o  contrato  de  promessa  de  compra  e  venda  de  imóvel  por  inadimplemento  do  vendedor,  é  cabível  a  restituição  das  partes  ao  status  quo  ante,  com  a  devolução  integral  dos  valores  pagos  pelo  comprador,  o  que  inclui  a  comissão  de  corretagem.  Antes  de  resolvido  o  contrato  não  há  que  se  falar  em  prescrição  da  restituição  cuja  pretensão  decorre  justamente  da  resolução  (EDcl  no  AgInt  no  AREsp  1.220.381/DF,  Rel.  Ministra  Maria  Isabel  Gallotti,  Quarta  Turma,  DJe  20/11/2019).
+4.  Agravo  interno  provido  para  conhecer  do  agravo  em  recurso  especial  mas  negar-lhe  provimento."  (AgInt  no  AREsp  1.587.903/MA,  Rel.  Ministro  LUIS  FELIPE  SALOMÃO,  QUARTA  TURMA,  julgado  em  20/2/2020,  DJe  3/3/2020  -  grifou-se).
+Incidência  à  espécie  da  Súmula  nº  568/STJ.
+Verifica-se  que  as  razões  do  presente  recurso  são  insuficientes  para  infirmar  os  fundamentos  da  decisão  atacada.
+Ante  o  exposto,  nego  provimento  ao  agravo  interno.
+É  o  voto.
