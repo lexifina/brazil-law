@@ -1,0 +1,50 @@
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. RECURSO ADMINISTRATIVO. EFEITO SUSPENSIVO. RESOLUÇÃO 388/2015. AUSÊNCIA DE IMPUGNAÇÃO A TODOS OS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA 283/STF.
+1. O Tribunal de origem, analisando o art. 42 da Resolução Normativa 388/2015, concluiu que "os recursos terão efeito suspensivo, ficando suspensa a exigibilidade da multa, até o julgamento final do recurso administrativo, de modo que não há que se falar em mora".
+2. Entretanto, a agravante não impugnou o argumento de que a Resolução Normativa 388/2015 suspende a exigibilidade da multa e de que, durante esse período, não haverá incidência dos juros de mora. Apesar de fazer alegações genéricas quanto à incidência de correção monetária e juros de mora às dívidas, deixou de impugnar especificamente a referida norma administrativa.
+3. Ademais, os precedentes trazidos pelo ente público não corroboram a tese da exigibilidade dos consectários da mora. O AREsp 1.679.535/RJ, imputado pela AGU, como de relatoria do ilustre Ministro João Otávio de Noronha, na verdade teve como Relator o eminente Ministro Og Fernandes, que não conheceu do Recurso com base na Súmula 283/STF.
+4. Agravo Interno não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, negou provimento ao agravo interno, nos termos do voto do Sr. Ministro-Relator." Os Srs. Ministros Og Fernandes, Mauro Campbell Marques, Assusete Magalhães e Francisco Falcão votaram com o Sr. Ministro Relator."
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Cuida-se de Agravo Interno interposto contra decisão deste Relator, que não conheceu do Recurso com base no enunciado da Súmula 283 do STF.
+A parte agravante, repisando os argumentos lançados nas razões do Agravo em Recurso Especial, afirma que do Recurso pode-se conhecer, uma vez que teria atacado todos os argumentos suscitados no acórdão recorrido, inclusive de que "a interposição de recurso administrativo apenas suspende a exigibilidade do crédito, porém não afasta a incidência dos encargos de mora"(fl. 846, e-STJ).
+A parte agravada, apesar de intimada, não apresentou impugnação.
+É o relatório.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. RECURSO ADMINISTRATIVO. EFEITO SUSPENSIVO. RESOLUÇÃO 388/2015. AUSÊNCIA DE IMPUGNAÇÃO A TODOS OS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA 283/STF.
+1. O Tribunal de origem, analisando o art. 42 da Resolução Normativa 388/2015, concluiu que "os recursos terão efeito suspensivo, ficando suspensa a exigibilidade da multa, até o julgamento final do recurso administrativo, de modo que não há que se falar em mora".
+2. Entretanto, a agravante não impugnou o argumento de que a Resolução Normativa 388/2015 suspende a exigibilidade da multa e de que, durante esse período, não haverá incidência dos juros de mora. Apesar de fazer alegações genéricas quanto à incidência de correção monetária e juros de mora às dívidas, deixou de impugnar especificamente a referida norma administrativa.
+3. Ademais, os precedentes trazidos pelo ente público não corroboram a tese da exigibilidade dos consectários da mora. O AREsp 1.679.535/RJ, imputado pela AGU, como de relatoria do ilustre Ministro João Otávio de Noronha, na verdade teve como Relator o eminente Ministro Og Fernandes, que não conheceu do Recurso com base na Súmula 283/STF.
+4. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 23.6.2022.
+A irresignação não merece prosperar.
+Salientei na decisão recorrida, que o Tribunal de origem, analisando o art. 42 da Resolução Normativa 388/2015, concluiu que "os recursos terão efeito suspensivo, ficando suspensa a exigibilidade da multa, até o julgamento final do recurso administrativo, de modo que não há que se falar em mora". Verbis:
+Já a Resolução Normativa 388/15 da ANS, art. 42, dispõe sobre o processo administrativo para apuração de infrações e aplicação de sanções no âmbito da Agência Nacional de Saúde Suplementar, estabelecendo que os recursos terão efeito suspensivo, ficando suspensa a exigibilidade da multa, até o julgamento final do recurso administrativo, de modo que não há que se falar em mora.
+Dessa forma, conclui-se que, havendo interposição de recurso, hipótese em que a exigibilidade da multa resta suspensa até decisão administrativa definitiva, somente após este marco é que será possível a incidência de juros moratórios.
+Entretanto, a agravante não impugnou o argumento de que a Resolução Normativa 388/2015 suspende a exigibilidade da multa e de que, durante esse período, não haverá incidência dos juros de mora. Apesar de fazer alegações genéricas quanto à incidência de correção monetária e juros de mora às dívidas, deixou de impugnar especificamente a referida norma administrativa.
+Os precedentes trazidos pelo ente público não corroboram a tese da exigibilidade dos consectários da mora. O AREsp 1.679.535/RJ, imputado pela AGU, como de relatoria do ilustre Ministro João Otávio de Noronha, na verdade teve como Relator o eminente Ministro Og Fernandes, que não conheceu do Recurso com base na Súmula 283/STF. Segue ementa do acórdão:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. TELEFONIA. MALFERIMENTO DOS ARTS. 489 E 1.022 DO CPC. INEXISTÊNCIA. INCLUSÃO DA ANATEL NO POLO PASSIVO. NÃO CONFIGURADO. PRECEDENTES. DANO CAUSADO AOS CONSUMIDORES. REVISÃO. INCIDÊNCIA DA SÚMULA 7 DO STJ. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA A FUNDAMENTO SUFICIENTE PARA MANTER O ACÓRDÃO RECORRIDO. SÚMULA 283/STF. DIVERGÊNCIA JURISPRUDENCIAL. NÃO COMPROVADA.
+1. Não há violação dos arts. 489 e 1.022 do CPC, porquanto o acórdão proferido pela Corte local fundamentou, claramente, o posicionamento por ele assumido, de modo a prestar a jurisdição que lhe foi postulada.
+2. Sendo assim, não há que se falar em omissão do aresto. O fato de o Tribunal a quo haver decidido a lide de forma contrária à defendida pela insurgente, elegendo fundamentos diversos daqueles por ela propostos, não configura omissão nem outra causa passível de exame mediante a oposição de embargos de declaração.
+3. Esta Corte Superior possui firme entendimento de que a inclusão da Anatel ocorre quando se discute o poder regulador daquele órgão, o que não se observa no caso em apreço.
+4. Relativamente à ocorrência de dano causado aos consumidores, o Tribunal de origem, com suporte no acervo probatório dos autos, entendeu que a empresa insurgente interrompeu, sem aviso prévio, os serviços oferecidos, impossibilitando a comunicação e utilização do serviço por aproximadamente 2,5 (dois e meio) milhões de consumidores e utilizadores de serviços de telefonia celular móvel e de internet do Estado de Goiás.
+5. Nesse aspecto, a revisão do julgado implica o imprescindível reexame das provas constantes dos autos, o que é defeso em recurso especial, de acordo com a Súmula 7 do STJ.
+6. Ademais, o aresto combatido encontra-se sedimentado no pressuposto de que não há impossibilidade de cumulação da multa imposta pelo Procon com a indenização por dano moral, pois elas possuem natureza distinta, fundamento esse não refutado no recurso especial.
+7. Ausente a impugnação a fundamento suficiente para manter o acórdão recorrido, o apelo nobre não merece ser conhecido, por lhe faltar interesse recursal. Inteligência da Súmula 283 do STF, aplicável, por analogia, ao especial.
+8. O dissídio jurisprudencial não ficou demonstrado nos moldes legais, pois, além da ausência do cotejo analítico, não ficou evidenciada a similitude fático-jurídica entre os casos colacionados que teriam recebido interpretação divergente pela jurisprudência pátria.
+9. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.550.455/GO, relator Ministro Og Fernandes, Segunda Turma, DJe de 20/11/2020.)
+Dessa forma, incide o enunciado da Súmula 283/STF nesse ponto.
+A propósito:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. EMBARGOS DE TERCEIRO. PENHORA. BEM DE FAMÍLIA. AUSÊNCIA DE COMPROVAÇÃO. ACÓRDÃO QUE CONCLUIU PELA EXISTÊNCIA DE FRAUDE. FRAUDE À EXECUÇÃO. REEXAME DE PROVAS. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA. AGRAVO INTERNO IMPROVIDO.
+(..)
+III. O Tribunal de origem manteve a sentença que julgara improcedente pedido formulado em Embargos de Terceiro. Não reconheceu o imóvel penhorado como bem de família, sob os seguintes fundamentos: a) os possuidores do imóvel não seriam dele proprietários e com eles não guardariam relação de dependência econômica; e b) a transferência do imóvel foi realizada em fraude à execução, pois a própria posse que visam proteger com a impenhorabilidade é posterior à Execução Fiscal. Os agravantes deixaram de impugnar o segundo fundamento, o que caracteriza deficiência de fundamentação e atrai, por analogia, os óbices das Súmulas 283 e 284 do STF.
+IV. Tal como delineada a questão pelas instâncias ordinárias, a revisão do entendimento do Tribunal de origem - no sentido de que não se trata de bem de família o imóvel penhorado, nos autos da execução fiscal - demandaria o reexame de provas, o que é inadmissível em sede de Recurso Especial, consoante dispõe a Súmula 7/STJ.
+V. Na forma da jurisprudência, "a análise da divergência jurisprudencial fica prejudicada quando a tese sustentada já foi afastada no exame do Recurso Especial pela alínea "a" do permissivo constitucional" (STJ, AgInt no AREsp 912.838/BA, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 03/03/2017). Nesse sentido: STJ, AgInt no REsp 1.590.388/MG, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 24/03/2017).
+VI. Agravo interno improvido.
+(AgInt no AREsp 362.360/MG, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe 24/5/2017).
+Dessa maneira, não tendo sido infirmadas as razões que nortearam o decisum impugnado, não se pode acolher a irresignação.
+Com essas considerações, nego provimento ao Agravo Interno.
+É como voto.
