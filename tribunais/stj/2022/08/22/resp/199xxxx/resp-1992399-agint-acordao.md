@@ -1,0 +1,52 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 16/08/2022 a 22/08/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (RELATOR): Trata-se de agravo interno interposto por CAIXA DE PREVIDÊNCIA DOS FUNCIONÁRIOS DO BANCO DO BRASIL (PREVI) contra decisão, assim ementada (fl. 782):
+PROCESSUAL CIVIL. RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO FISCAL. IPTU. CDA. TAXAS DECLARADAS INCONSTITUCIONAIS. NÃO INCLUSÃO. REVISÃO DO JUÍZO. SÚMULA 7/STJ. AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTO DO ACÓRDÃO. SÚMULA 283/STF. FUNDAMENTAÇÃO RECURSAL DEFICIENTE. SÚMULA 284/STF. INEXISTÊNCIA DE VÍCIOS. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E NÃO PROVIDO.
+A agravante alega inaplicáveis os óbices das Súmulas 283 e 284, do STF, ao argumento de que o recurso está devidamente fundamento a permitir a compreensão da controvérsia, bem como o óbice da Súmula 7/STJ, por se tratar de matéria exclusivamente de direito. Alega que a decisão ora agravada, ao entender não violados os arts. 1.022 e 489 do CPC/2015 pelo acórdão recorrido, incorreu também em violação dos referidos dispositivos legais e sustenta que as questões suscitadas não foram enfrentadas pelo Tribunal a quo.
+Impugnação a fls. 822-824.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL EMBARGOS À EXECUÇÃO FISCAL. IPTU. CDA. PARCELAS DECLARADAS INCONSTITUCIONAIS. PROGRESSIVIDADE. NÃO INCLUSÃO. REVISÃO DO JUÍZO. SÚMULA 7/STJ. AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTO DO ACÓRDÃO. SÚMULA 283/STF. FUNDAMENTAÇÃO RECURSAL DEFICIENTE. SÚMULA 284/STF. INEXISTÊNCIA DE VÍCIOS.
+1. A Corte de origem consignou em sua fundamentação que a parcela relativamente às taxas declaradas inconstitucionais não está sendo objeto de cobrança e que, quanto à progressividade, estãosendo cobrado os lançamentos de IPTU devidos nos exercícios de 1997 e 1998, segundo a alíquota mínima, vigente à época.
+2. Assim delineados os fatos, a modificação da conclusão firmada pela Corte de origem no sentido das alegações recursais demandaria o reexame do suporte fático-probatório - providência inviável no âmbito do recurso especial, por força da Súmula 7/STJ.
+3. A recorrente alegou excessivos os honorários advocatícios fixados, sem, contudo, impugnar o acórdão, que consignou que os honorários de sucumbência foram fixados de acordo com o que requerido pela própria parte nos seus embargos.
+4. A jurisprudência desta Corte considera deficiente a fundamentação quando a parte, cingindo-se a razões dissociadas, deixa de impugnar fundamento suficiente para manter o acórdão recorrido. Incidência, por analogia, das Súmulas n. 283 e 284/STF. Precedentes.
+5. Inexiste afronta aos arts. 1.022 e 489 do CPC/2015, quando o acórdão se manifesta de forma clara e suficiente sobre as questões relevantes ao deslinde da controvérsia, prestando a tutela jurisdicional adequada à solução do litígio. A aplicação do direito ao caso, ainda que por solução jurídica diversa da pretendida por um dos litigantes, não configura per se omissão ou negativa de prestação jurisdicional.
+6. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (RELATOR): O inconformismo recursal não alcança êxito.
+Quanto à alegação de nulidade da CDA por nela constar parcelas reconhecidas inconstitucionais, verifica-se que a Corte de origem, quanto aos valores cobrados na CDA, consignou em sua fundamentação que a parcela relativamente às taxas declaradas inconstitucionais não está sendo objeto de cobrança e que, quanto à progressividade, o que está sendo cobrado são os lançamentos de IPTU devidos nos exercícios de 1997 e 1998, segundo a alíquota mínima, vigente à época (fls. 480/481 e 523/526):
+Na espécie, observa-se ter a sentença reconhecido a inconstitucionalidade das taxas, concluindo que tais valores não são objeto de cobrança por parte do Município, ex vi:
+ ..
+Ocorre que a Lei Municipal nº 5.546/2012, adaptando-se ao unânime entendimento da doutrina e da jurisprudência, resolveu remir os créditos tributários da TIP e da TCLLP correspondentes a fatos geradores anteriores ao exercício de 1999, e do IPTU no que fosse superior à alíquota mínima para o tipo de imóvel, relativo aos fatos geradores anteriores ao exercício de 2000.
+Nesse ponto, observa-se que as cobranças efetivadas pelo Município seriam apenas e tão somente do IPTU e da TCDL, conforme fls. 2 da Execução Fiscal em apenso.
+Assim, conforme bem asseverado pelo Município, a Taxa de Iluminação Pública (TIP) e a Taxa de Coleta de Lixo e Limpeza Pública (TCLLP) não estão sequer sendo cobradas na execução em referência, pelo que nada há a prover nesse sentido.
+Pelo exposto, JULGO IMPROCEDENTE o pedido formulado e determino o prosseguimento da execução.
+Condeno a parte embargante ao pagamento das despesas processuais, bem como dos honorários advocatícios apurados sobre o valor atualizado do crédito tributário em questão, pelo percentual mínimo de cada faixa fixada nos incisos do §3º do artigo 85 do Código de Processo Civil.
+Com o trânsito em julgado, traslade-se cópia do presente para os autos em apenso.
+P.I.
+De outra ponta, observa-se que, na ação de repetição de indébito proposta pela recorrente, restou pontuado o direito de a Municipalidade promover os lançamentos de IPTU nos exercícios de 1997 e 1998, segundo a alíquota mínima, vigente na época dos fatos geradores (processo nº 0014070-73.2001.8.19.0001), conforme documentos colacionados aos autos (indexador 206; fls. 218 e ss.):
+___________________________________________________________________
+Em suas razões recursais (indexador 498), a embargante sustenta a inexigibilidade do débito constante da Certidão de Dívida Ativa, sob o argumento de que nela foram inseridos débitos de IPTU e taxas relativas ao exercício de 1998, apesar da inconstitucionalidade da cobrança referente à TCLLP, TIP e das alíquotas progressivas de IPTU.
+ ..
+A decisão recorrida foi devidamente fundamentada, com a exposição das razões de fato e de direito que a motivaram.
+Com efeito, o acórdão foi explícito ao constatar o próprio exequente reconheceu a necessidade de recalcular os valores da CDA que embasa a execução, a fim de ajustar o crédito ao comando judicial proferido nos autos do processo nº 0014070-73.2001.8.19.0001, o que é viável conforme a jurisprudência do STJ.
+ ..
+Além disso, pontuou-se ter a sentença reconhecido a inconstitucionalidade das taxas, concluindo que tais valores não são objeto de cobrança por parte do Município.
+Com efeito, assim delineados, os fatos, inviável a revisão da conclusão firmada pela Corte de origem no sentido das alegações recursais, sem o reexame do suporte fático-probatório - medida vedada no âmbito do recurso especial, por força da Súmula 7/STJ.
+Quanto à necessidade de redução dos honorários advocatícios de sucumbência, a recorrente alega que foram fixados em montante excessivo (10% sobre o valor atualizado do débito tributário), pugnando a aplicação do § 8º do art. 85 do CPC/2015.
+No ponto, confere-se que o Tribunal a quo, quanto à questão, consignou no acórdão integrativo que os honorários foram fixados de acordo com o que a própria parte expressamente requereu em seus embargos à execução (fl. 527):
+Com relação aos honorários sucumbenciais, não assiste razão à recorrente, uma vez que nos embargos à execução, a própria embargante requereu a fixação com base no valor do crédito exequendo, mesmo critério utilizado pelo juízo de primeiro grau (fl. 15). Vejamos:
+Condeno a parte embargante ao pagamento das despesas processuais, bem como dos honorários advocatícios apurados sobre o valor atualizado do crédito tributário em questão, pelo percentual mínimo de cada faixa fixada nos incisos do §3º do artigo 85 do Código de Processo Civil.
+Ocorre que a recorrente, cingindo-se a razões dissociadas, não impugnou devidamente a referida fundamentação, não demonstrando em que medida teria o acórdão incorrido na apontada vulneração, mantendo-se, pois, incólume o entendimento expendido. Aplicação das Súmulas 283 e 284 do STF.
+A propósito, na parte que interessa:
+A jurisprudência desta Corte considera deficiente a fundamentação quando a parte deixa de impugnar fundamento suficiente para manter o acórdão recorrido, apresentando razões recursais dissociadas dos fundamentos utilizados pela Corte de origem. Incidência, por analogia, das Súmulas n. 283 e 284/STF.
+(AgInt no AREsp n. 1.265.454/SP, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 6/11/2018, DJe de 14/11/2018, trecho da ementa)
+1. Inadmissível o recurso especial, quando a parte recorrente não impugna, de forma específica, os fundamentos do acórdão recorrido, apresentando razões dissociadas da motivação do julgado, como ocorreu na hipótese dos autos. 2. Incide à espécie, por analogia, os enunciados das Súmulas 283 e 284/STF. Precedentes do STJ. (AgInt no AREsp n. 1.671.555/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 31/8/2020, DJe de 4/9/2020)
+Isso tudo considerado, tem-se que o acórdão manifestou-se de forma clara e suficiente sobre as questões relevantes à controvérsia, prestando a tutela jurisdicional adequada à solução do litígio, não configurando omissão ou negativa de prestação jurisdicional a aplicação do direito ao caso, ainda que por solução jurídica diversa da pretendida por um dos litigantes.
+Ainda nessa esteira, cumpre ressaltar que a jurisprudência deste Superior Tribunal é firme no sentido de que "o julgador não está obrigado a rebater, um a um, todos os argumentos invocados pelas partes quando, por outros meios que lhes sirvam de convicção, tenha encontrado motivação satisfatória para dirimir o litígio. As proposições poderão ou não ser explicitamente dissecadas pelo magistrado, que só estará obrigado a examinar a contenda nos limites da demanda, fundamentando o seu proceder de acordo com o seu livre convencimento, baseado nos aspectos pertinentes à hipótese sub judice e com a legislação que entender aplicável ao caso concreto" (AgInt no AREsp 1.344.268/SC, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 14/2/2019).
+Ante todo o exposto, nego provimento ao agravo interno.
+É como voto.
