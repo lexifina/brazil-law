@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo em recurso especial desafiando decisão que não admitiu recurso especial interposto porHPE AUTOMOTORES DO BRASIL LTDA com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+APELAÇÃO CÍVEL - AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS VEÍCULO ZERO KM VÍCIOS DE FABRICAÇÃO- RISCO À SEGURANÇA NA CONDUÇÃO DO AUTOMÓVEL - LAUDO PERICIAL - PRAZO PARA REPARAÇÃO DO DEFEITO - DESCUMPRIMENTO - APLICAÇÃO DO CDC - DANOS MORAIS DEVIDOS - O fabricante/comerciante de automóvel deve sanar os vícios do veículo recém-saído de fábrica, nos termos do que estabelece o Código de Defesa do Consumidor.
+- Não o fazendo, tem o dever de indenizar os danos provocados ao consumidor que, ao adquirir um carro zero quilometro, naturalmente cria expectativas de que não haverá defeitos.
+- A ineficiência do fabricante/comerciante em solucionar os vícios no produto recém saído de fábrica, mesmo diante de diversas reclamações do consumidor, configura ato ilícito e extrapola os limites do mero aborrecimento, ensejando a condenação por danos morais.
+Os embargos de declaração opostos por VIA JAP COMÉRCIO DE VEÍCULOS LTDA foram acolhidos em parte para corrigir erro material contido no relatório do acórdão embargado, e os embargos de declaração opostos por MMC AUTOMOTORES DO BRASIL LTDA foram rejeitados.
+Nas razões do recurso especial, sustenta a recorrente, ora agravante, que o Tribunal a quo negou vigência aos arts. 12, §3º, II,18, §2º, do CDC, na medida em que é dado às partes o poder de convencionar a ampliação do prazo de trinta dias para os reparos, sendo que no caso não há vício de fabricação.
+Obtempera que o Tribunal a quo violou o art. 884 do Código Civil, poisa substituição de veículo sem vício,por outro veículo,sem considerar que este foi utilizado por mais de sete anos e com mais de 90.000 quilômetros, implica em locupletamento ilícito.
+Apresentadas contrarrazões às fls. 588/610.
+O referido recurso não foi admitido, por se entender, essencialmente, incidente, na espécie, a Súmula 7/STJ.
+Daí porque foi interposto o presente agravo.
+A seguir, vieram os autos conclusos a este Relator.
+É o relatório. Passo a decidir.
+O recurso especial é oriundo de AÇÃO DE SUBSTITUIÇÃO DE BEM c.c. REPARAÇÃO POR DANOS MORAIS, ajuizada em face de MMC AUTOMOTORES DO BRASIL LTDA (MITSUBISHI MOTORS DO BRASIL) e VIA JAP COMÉRCIO DE VEÍCULOS LTDA, ora agravante, com o pedido de substituição do veículo ou a reparação, devido à desvalorização do veículo, tendo em vista os vícios encontrados no automóvel, comprado na data de 07/08/2012, conforme Nota Fiscal nº 50.150 na Via Jap, modelo zero quilometro.
+A sentença julgou o pedido improcedente.
+Em sede de apelação, o Tribunal a quo julgou o pedido procedente, para condenar as rés, solidariamente, na obrigação de fazer, consistente na substituição do veículo do autor, no prazo de 30 (trinta) dias, sob pena de multa a ser eventualmente arbitrada em caso de descumprimento; condenar, solidariamente, as rés a pagar ao autor R$10.000,00 a título de danos morais, corrigido monetariamente e acrescido de juros de mora de 1% ao mês contado da citação.
+Cumpre enfrentar a alegada negativa de vigência dos arts. 12 e 18 do CDC.
+Quanto ao ponto, a parte ora recorrente entende que o consumidor não faz jus àsubstituição do automóvel, pois, além de ter rodado com o veículo por 90.000km, o produto não apresentou vício de fabricação.
+Com efeito, esclareceu o Tribunal a quo queas falhas técnicas foram confirmadas por laudo pericial e são claras as tentativas do consumidor de buscar a resolução de suas queixas, sendo que os vícios não foram solucionados quando suscitados.
+Forçoso concluir que diante das assertivas traçadas pelo Tribunal a quo, a tese recursal, inclusive quanto ao locupletamento ilícito, implicareexame de provas, vedado pela Súmula 7/STJ no âmbito do recurso especial.
+No mesmo sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO ORDINÁRIA 1. VEÍCULO IMPRÓPRIO OU INADEQUADO AO USO. VÍCIOS DE QUALIDADE NÃO SANADOS NO PRAZO. INCIDÊNCIA DAS SÚMULAS 7 E 83 DO STJ, POR AMBAS AS ALÍNEAS DO PERMISSIVO CONSTITUCIONAL. 2. AGRAVO INTERNO IMPROVIDO.
+1. No tocante aosdefeitosapresentados no veículo, o Tribunal de Justiça, observadas as peculiaridades do caso, concluiu que ficou comprovada a existência de vícios capazes de proporcionar a inadequação do veículo, não sanados no lapso de 30 (trinta) diascomputados de forma corrida. Para acolher a pretensão da maneira como pretende a recorrente, seria necessário alterar as premissas fático-probatórias estabelecidas pelas instâncias de origem, com o revolvimento das provas juntadas ao processo, o que encontra óbice no enunciado n. 7 da Súmula do STJ.
+2. O entendimento firmado (quanto ao prazo máximo de 30 (trinta) diaspara reparar o vício doprodutocolocado no mercado) está em consonância com a jurisprudência desta Corte, o que atrai o óbice da Súmula n. 83/STJ,
+3. Agravo interno improvido.
+(AgInt no AREsp 1508277/ES, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 16/12/2019, DJe de 19/12/2019)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL E DIREITO DO CONSUMIDOR. AÇÃO DE INDENIZAÇÃO. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE. VEÍCULO ZERO KM. VÍCIO NÃO SANADO. VIOLAÇÃO AOS ARTS. 186, 884, 886 E 927 DO CÓDIGO CIVIL E 18 DO CÓDIGO DE DEFESA DO CONSUMIDOR. VÍCIO DE DIFÍCIL REPARAÇÃO. VEÍCULO DEVERIA SER SUBSTITUÍDO. AUSÊNCIA DE ENRIQUECIMENTO ILÍCITO. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+1. Incabível o exame de teses não expostas no recurso especial e invocadas apenas no agravo interno, pois configura indevida inovação recursal.
+2. Nos casos em que houver vício de qualidade ou quantidade que torne oprodutoimpróprio ou inadequado ao consumo a que se destina ou lhe diminua o valor, o consumidor pode exigir a substituição das partes viciadas. Não sendo o vício sanado no prazo máximo detrinta dias,pode o consumidor exigir, alternativamente e à sua escolha: I) a substituição doprodutopor outro da mesma espécie, em perfeitas condições de uso; II) a restituição imediata da quantia paga, monetariamente atualizada, sem prejuízo de eventuais perdas e danos;
+III) o abatimento proporcional do preço.
+3. O Tribunal de origem, à luz das circunstâncias do caso concreto, concluiu pela existência de vício de difícil reparação em veículo zero km, de modo que, não sendo o vício sanado no prazo de 30dias,cabível a substituição do veículo sem que acarrete enriquecimento ilícito. Dessa forma, a pretensão de alterar tal entendimento, sob alegada ofensa aos dispositivos mencionados, demandaria o revolvimento do suporte fático-probatório, o que é inviável em sede de recurso especial, nos termos da Súmula 7/STJ.
+4. Agravo interno desprovido.
+(AgInt no AREsp 1420668/SP, de minha Relatoria, QUARTA TURMA,julgado em 28/5/2019, DJe de 14/6/2019)
+Dessa forma, entende-se que o acórdão recorrido deve ser confirmado pelos seus próprios fundamentos.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial. E, quanto ao ônus da sucumbência recursal, em observância ao art. 85, §11, do CPC/2015, majoro os honorários de advogado em mais 2%.
+Publique-se.
