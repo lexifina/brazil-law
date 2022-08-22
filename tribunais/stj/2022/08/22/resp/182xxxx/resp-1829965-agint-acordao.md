@@ -1,0 +1,64 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 16/08/2022 a 22/08/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+Trata-se de agravo interno interposto por LUCINEA FERREIRA TORRES ARAÚJO contra decisão de minha relatoria, proferida às e-STJ fls. 464/468, em que conheci parcialmente do recurso especial e, nessa extensão, neguei-lhe provimento, por: (a) reconhecer que não houve violação do art. 1.022 do CPC/2015; (b) o Tribunal de origem decidiu a questão com base em fundamentação eminentemente constitucional; e (c) incidência da Súmula 284 do STF.
+A parte agravante, repisando argumentação anteriormente tecida, sustenta que deve ser reconhecida a ofensa ao art. 1.022 do CPC/2015, por omissão no julgado; bem como que houve desacerto do acórdão recorrido ao aplicar a tese firmada pelo STF (Tema 503); que houve afronta ao art. 1.040, III, do CPC/2015 e ao art. 18, § 2º, da Lei n. 8.213/1991.
+Sem impugnação (e-STJ fl. 497).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. FUNDAMENTO CONSTITUCIONAL. VIA INADEQUADA. FUNDAMENTAÇÃO. DEFICIÊNCIA.
+1. Não há violação do art. 1.022 do CPC/2015 quando o Tribunal de origem se manifesta de forma clara, coerente e fundamentada sobre as teses relevantes à solução do litígio.
+2. Mostra-se inadequada a revisão de controvérsia decidida à luz de fundamento de natureza constitucional, na via do recurso nobre.
+3. A indicação de dispositivo de lei federal desprovido de comando normativo apto à modificação do acórdão recorrido caracteriza deficiência da irresignação recursal, a ensejar a aplicação do óbice de conhecimento estampado na Súmula 284 do STF.
+4. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+Não obstante os argumentos postos, tem-se que o recurso não merece prosperar.
+No tocante à apontada negativa de prestação jurisdicional, tem-se a destacar que, ainda que o recorrente considere insubsistente ou incorreta a fundamentação utilizada pelo Tribunal nos julgamentos realizados, não há necessariamente ausência de manifestação, pois "o mero julgamento da causa em sentido contrário aos interesses e à pretensão de uma das partes não caracteriza a ausência de prestação jurisdicional" (AREsp 1.425.161/RS, rel. Ministro MAURO CAMPBELL MARQUES, Segunda Turma, DJe 22/03/2019).
+Não há como confundir, portanto, o resultado desfavorável ao litigante com a falta de fundamentação, omissão ou mesmo obscuridade.
+Ademais, consoante entendimento desta Corte, o magistrado não está obrigado a responder a todas as alegações das partes, tampouco a rebater um a um de todos os seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie. Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. CONSELHO REGIONAL DE ENGENHARIA E AGRONOMIA - CREA/PR. ENQUADRAMENTO NO REGIME JURÍDICO ESTATUTÁRIO. LEI 8.112/1990. VIOLAÇÃO DOS ARTIGOS 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. EXAME DE DISPOSITIVOS CONSTITUCIONAIS. IMPOSSIBILIDADE. COMPETÊNCIA DO STF. ACÓRDÃO RECORRIDO QUE ADOTA FUNDAMENTAÇÃO EMINENTEMENTE CONSTITUCIONAL. OFENSA AO ARTIGO 64, § 3º, DO CPC/2015. ARGUMENTAÇÃO DEFICIENTE E DISSOCIADA. SÚMULA 284/STF. DISSÍDIO JURISPRUDENCIAL. NÃO INDICAÇÃO DE DISPOSITIVO DE LEI FEDERAL SOBRE O QUAL SE ALEGA INTERPRETAÇÃO DIVERGENTE. SÚMULA 284/STF.
+1. Não há falar em violação dos artigos 489 e 1.022 do CPC/2015, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A aplicação do direito ao caso, ainda que por meio de solução jurídica diversa da requerida por um dos litigantes, não induz negativa ou ausência de prestação jurisdicional.
+ ..
+6. Agravo interno não provido. (AgInt no REsp 1.747.348/PR, Relator Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 10/06/2020).
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. LICITAÇÃO. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. INEXISTÊNCIA. INABILITAÇÃO NO PROCEDIMENTO LICITATÓRIO. REVISÃO. INCIDÊNCIA DAS SÚMULAS 5 E 7 DO STJ.
+1. Não prospera a tese de violação dos arts. 489 e 1.022 CPC/2015, porquanto o acórdão proferido pela Corte local fundamentou, claramente, o posicionamento por ele assumido, de modo a prestar a jurisdição que lhe foi postulada.
+2. O fato de o Tribunal a quo haver decidido a lide de forma contrária à defendida pelas insurgentes, elegendo fundamentos diversos daqueles por elas propostos, não configura omissão ou outra causa passível de exame mediante a oposição de embargos de declaração.
+ ..
+4. Agravo interno a que se nega provimento. (AgInt no AREsp 1.526.177/SP, Relator Ministro OG FERNANDES, SEGUNDA TURMA, DJe 29/05/2020).
+In casu, o Tribunal de origem reformando a sentença, entendeu que não existe previsão legal para a pretendida desaposentação, nos seguintes termos (e-STJ fls. 378/380):
+ ..
+Da desaposentação A desaposentação se traduz na possibilidade de o segurado renunciar à aposentadoria com o propósito de obter beneficio previdenciário mais vantajoso, no Regime Geral de Previdência Social ou em Regime Próprio da Previdência Social, mediante a utilização do tempo total de contribuição, ou seja, objetiva à atualização da aposentadoria atual, acrescentando o tempo contribuído pelo segurado anteriormente à sua aposentadoria.
+No caso dos autos, a autora é aposentada no cargo de Professora da Educação Básica, vinculado à Secretaria de Educação do Estado de Minas Gerais, e pretende a concessão da desaposentação no referido cargo, com a consequente expedição de certidão de tempo de serviço a fim de averbar, junto à Prefeitura Municipal de Belo Horizonte, o período anteriormente contribuído para concessão de aposentadoria no cargo municipal de Fiscal Integrado.
+A matéria não oferece complexidade, pois, em 26/10/2016, no julgamento do RE nº 661.256/SC, em repercussão geral, o Supremo Tribunal Federal fixou a tese (Tema nº 503) no sentido de que, ante a inexistência de previsão legal, a desaposentação é inconstitucional:
+Neste sentido, confira-se a ementa do julgado:
+EMENTA Constitucional. Previdenciário. Parágrafo 2º do art. 18 da Lei 8.213/91. Desaposentação. Renúncia a anterior beneficio de aposentadoria. Utilização do tempo de serviço/contribuição que fundamentou a prestação previdenciária originária. Obtenção de benefício mais vantajoso.
+Julgamento em conjunto dos RE nºs 661.256/sc (em que reconhecida a repercussão geral) e 827.833/sc. Recursos extraordinários providos.
+ ..
+3. Fixada a seguinte tese de repercussão geral no RE nº 661.256/SC: "No âmbito do Regime Geral de Previdência Social (RGPS), somente lei pode criar benefícios e vantagens previdenciárias, não havendo, por ora, previsão legal do direito à "desaposentação", sendo constitucional a regra do art. 18, § 2º, da Lei nº 8213/91". 4. Providos ambos os recursos extraordinários (RE nºs 661.256/SC e 827.833/SC) (Relator Min. Roberto Barroso. Órgão Julgador: Tribunal Pleno) Em razão da repercussão geral, a decisão proferida pelo STF deve ser seguida em todas as ações que tratam do mesmo assunto, nos termos do art. 1.040, III, do CPC/15.
+Adoto, ainda, como paradigma, o recente julgamento da apelação cível nº 1.0024.14.250626-0/001, que, em caso similar ao destes autos, sob a minha Relatoria, esta 4a Câmara Cível, à unanimidade, reconheceu a impossibilidade da desaposentação, ante a tese firmada na repercussão geral supracitada.
+Assim, como não existe previsão legal para a desaposentação, tal instituto se torna inviável e impraticável, não podendo ser requerida uma nova aposentadoria com base em contribuições adquiridas através de instituto declarado inconstitucional. (Grifos acrescidos).
+Conforme já explicitado no decisum recorrido, portanto, não há que falar na apontada negativa de prestação jurisdicional.
+Quanto ao mais, conforme se verifica do trecho transcrito, a controvérsia tratada foi dirimida pelo Tribunal de origem - ao firmar que a Suprema Corte fixou a tese (Tema 503) no sentido de que, ante a inexistência de previsão legal, a desaposentação é inconstitucional - com base em fundamentação eminentemente constitucional, sendo, por isso, inviável a apreciação da insurgência posta, sob pena de usurpação da competência do Supremo Tribunal Federal. Nesse sentido:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. OFENSA AO ART. 1.022 DO CPC. OMISSÃO. INEXISTÊNCIA. APLICAÇÃO DO TETO PREVISTO NAS EMENDAS CONSTITUCIONAIS N. 20/1998 E N. 41/2003. FUNDAMENTO CONSTITUCIONAL. USURPAÇÃO DA COMPETÊNCIA DO STF.
+ ..
+3. O Tribunal de origem fundamentou a decisão no acórdão proferido pelo Supremo Tribunal Federal, em repercussão geral, no RE 564.354/SE, no qual se firmou o entendimento de que "não ofende o ato jurídico perfeito a aplicação imediata do art. 14 da Emenda Constitucional n. 20/1998 e do art. 5º da Emenda Constitucional n. 41/2003 aos benefícios previdenciários limitados a teto do regime geral de previdência estabelecido antes da vigência dessas normas, de modo a que passem a observar o novo teto constitucional".
+4. Quando a controvérsia é solucionada com fundamento em princípios ou dispositivos constitucionais, o recurso especial é inviável, sob pena de usurpação da competência reservada pela Constituição da República ao Supremo Tribunal Federal.
+5. Agravo interno a que se nega provimento. (AgInt no REsp 1,741.329/SC, Relator Ministro OG FERNANDES, SEGUNDA TURMA, DJe 19/03/2021).
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO DO ARTIGO 535, II, DO CPC/1973. NÃO OCORRÊNCIA. FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO ESTRITAMENTE CONSTITUCIONAL. EXAME DE ENTENDIMENTO FIRMADO EM RECURSO EXTRAORDINÁRIO SUBMETIDO AO RITO DA REPERCUSSÃO GERAL. IMPOSSIBILIDADE. COMPETÊNCIA DO STF.
+ ..
+2. A controvérsia a respeito da aplicação do artigo 11 da Lei n. 9.779/1999 foi dirimida com fundamento constitucional, especificamente julgado da Repercussão Geral, de modo que a apreciação em recurso especial se apresenta inviável, sob pena de se usurpar a competência reservada pela Constituição ao Supremo Tribunal Federal.
+3. Agravo interno não provido. (AgInt no REsp 1.569.859/PB, Relator Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 30/04/2020).
+Finalmente, há de se reconhecer que "o art. 1.040, I, do CPC/2015, não contém comando normativo capaz de sustentar a tese recursal, lastreada na obrigatoriedade de aplicação do entendimento exarado no julgamento de recurso extraordinário, cuja matéria teve a sua repercussão geral reconhecida, a hipóteses análogas porém não idênticas àquela que originou o precedente vinculativo, tampouco capaz de infirmar os fundamentos decisórios, amparados na existência de distinção entre o caso em espeque e aquele julgado no precedente vinculativo invocado pela parte ora recorrente".(AgInt no REsp 1.850.061/PE, Relator Ministro FRANCISCO FALCÃO, Segunda Turma, DJe 16/11/2020).
+In casu, incide o óbice da Súmula 284 do STF. A propósito:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. PROCEDIMENTO ESPECIAL DE RESSARCIMENTO. PRAZO PARA ANÁLISE. PORTARIA MF Nº 348/2010. 30 DIAS. DEMORA NA APRECIAÇÃO. CORREÇÃO MONETÁRIA. TERMO INICIAL. ART. 24 DA LEI N. 11.457/2007. AUSÊNCIA DE COMANDO NORMATIVO DO DISPOSITIVO TIDO POR VIOLADO. SÚMULA 284/STF.
+1. O art. 24 da Lei 11.457/2007, que prevê prazo máximo a ser observado na análise de requerimentos do contribuinte, não impede que norma infralegal estabeleça prazos específicos inferiores a 360 dias.
+2. Daí porque não se extrai, do dispositivo legal em testilha, comando normativo suficiente para infirmar os fundamentos do aresto recorrido, que determinou o termo inicial da correção monetária ao fim do prazo concedido pela Portaria MF 348/2010 para o pagamento da antecipação prevista no procedimento especial de ressarcimento.
+3. Circunstância que atrai, por analogia, a incidência da Súmula 284/STF.
+4. Agravo interno desprovido. (AgInt no REsp 1.909.861/RS, Relator Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 19/09/2021).
+Deixo de aplicar a multa prevista no § 4º do art. 1.021 do CPC/2015, tendo em vista que o mero inconformismo com a decisão agravada não enseja a necessária imposição da sanção, quando não configurada a manifesta inadmissibilidade ou improcedência do recurso, por decisão unânime do Colegiado, como no caso em análise.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
