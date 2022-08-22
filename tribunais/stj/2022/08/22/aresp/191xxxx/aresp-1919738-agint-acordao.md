@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 16/08/2022 a 22/08/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Impedido o Sr. Ministro Marco Aurélio Bellizze.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de agravo interno interposto por BANCO BOCOM BBM S.A.,contra decisão que conheceu do agravo para negar provimento ao recurso especial, assim ementada (e-STJ Fls. 768):
+AGRAVO EM RECURSO ESPECIAL. RECURSO. AÇÃO MONITÓRIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. ACÓRDÃO RECORRIDO QUE DECIDIU TODA A MATÉRIA POSTA DE MANEIRA INTEGRAL E COM FUNDAMENTAÇÃO SUFICIENTE. COMPETÊNCIA RECURSAL. PREVENÇÃO EM RAZÃO DO JULGAMENTO DO RECURSO DE APELAÇÃO EM CAUSA CONEXA. INTELIGÊNCIA DO ARTIGO 930, PARÁGRAFO ÚNICO, DO CPC. REVISÃO DESTE ENTENDIMENTO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA Nº 7/STJ.
+AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL, E, NESTA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+Oagravantereiteroua alegação de negativa de prestação jurisdicional ao argumento de que"deve ser anulado o julgamento dos embargos de declaração do BOCOM BBM, determinando-se que o Eg. Tribunal de Justiça decida acerca da prevenção da Col. 19ª Câmara de Direito Privado para o julgamento da apelação da Agravada se referindo expressamente aos disposto no art. 55, caput, e, § 1º, do CPC, assim, como aos argumentos sumarizados nos itens 16, e, 17 desta peça recursal"(e-STJ Fl. 786).
+Defendeu que"a conexão não determina a reunião dos processos, se um deles já foi julgado" (e-STJ Fl. 787), e, quenão incide a Súmula 7/STJ à pretensão recursal.
+Pugnoupelo conhecimento do presente agravo interno.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NOAGRAVO EM RECURSO ESPECIAL. RECURSO. AÇÃO MONITÓRIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. ACÓRDÃO RECORRIDO QUE DECIDIU TODA A MATÉRIA POSTA DE MANEIRA INTEGRAL E COM FUNDAMENTAÇÃO SUFICIENTE. COMPETÊNCIA RECURSAL. PREVENÇÃO EM RAZÃO DO JULGAMENTO DO RECURSO DE APELAÇÃO EM CAUSA CONEXA. INTELIGÊNCIA DO ARTIGO 930, PARÁGRAFO ÚNICO, DO CPC. REVISÃO DESTE ENTENDIMENTO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA Nº 7/STJ. RAZÕES QUE SE MANTÉM. DECISÃO MANTIDA.
+AGRAVO INTERNO DESPROVIDO.
+VOTO
+Eminentes Colegas, o agravo interno não merece prosperar.
+Em que pese o arrazoado, entendo que a ausência de qualquer novo subsídio trazido peloagravante, capaz de alterar os fundamentos da decisão ora agravada, faz subsistir incólume o entendimento nela firmado.
+Primeiramente, no que concerne à alegação de violação ao artigo 1.022 do CPC/2015, oagravantesustentouque a Corte de origemnão teceu uma linha sequer acerca do art. 55, caput e § 1º, do CPC, que trata sobre o tema.
+Contudo, sabe-se que o acórdão hostilizado solucionou todas as questões de maneira clara e coerente, apresentando todas as razões que firmaram o seu convencimento, ainda que de modo contrário ao interesse dos agravantes.
+Cabe, neste ponto, reforçar os argumentos utilizados pelo Tribunal de origem quanto aostemas apontados como omissos (e-STJ Fl. 1324, gn):
+"No caso vertente, alega o embargante que houve singela, porém relevante omissão no v. acórdão, em relação ao disposto no artigo 55, "caput" e § 1º, do CPC.
+Entretanto, diferente do que entendeu o banco embargante, a conexão reconhecida no v. acórdão em folhas 671/676, não se refere àquela prevista no artigo 55 do CPC, que trata da reunião de ações conexas para fins de julgamento conjunto, razão pela qual é inaplicável o precedente jurisprudencial desta Colenda Câmara, transcrito no recurso em folhas 03/04.
+Outrossim, salientou expressamente a Turma Julgadora em folhas 674 que:
+"Inicialmente, é oportuno observar que, conforme bem salientado na exordial, bem como nas razões recursais, a presente demanda foi ajuizada com lastro no entendimento adotado no v. acórdão colacionado em folhas 61/63, em que por maioria, a Turma Julgadora reformou a r. sentença colacionada em folhas 55/60 (que havia julgado procedente a "ação declaratória de inexistência de relação jurídica c. c. obrigação de fazer" em folhas 22/35, ajuizada pelo banco apelado, anteriormente denominado BANCO BBM S/A, em face da ora apelante, anteriormente denominada EDIGUIAS EDITORA GUIA EMPRESARIAL LTDA), a fim de reconhecer a validade dos contratos que embasam a ação monitória."
+Assim, considerando que a ação monitória está lastreada na r. decisão proferida nos autos da ação declaratória, processada sob o nº 0204665-54.2009.8.26.0004, e que foi julgada pela Colenda 19a Câmara de Direito Privado desta Egrégia Corte, que reconheceu a exigibilidade dos títulos que embasam a pretensão monitória, está caracterizada a prevenção da referida Câmara para o julgamento do recurso de apelação interposto nos autos da ação monitória, com fundamento no artigo 105 "caput" e § 1º, do Regimento Interno deste Egrégio Tribunal de Justiça, cumulado com o disposto no artigo 930, parágrafo único, do CPC.
+Sendo assim, é evidente a inexistência de omissão no v. acórdão de folhas 671/676, que justifique a oposição dos presentes embargos, com fundamento no artigo 1.022 do CPC.
+Na verdade, o banco embargante não concorda com a decisão da Turma Julgadora, que contrariou os seus interesses, e argumenta no sentido de alterar a conclusão do julgado, imputando caráter infringente ao recurso, o que é incabível, como acima já ficou consignado"(e-STJ fls. 722-723, gn).
+Portanto, ausente qualquer omissão, sendo que o Tribunal de origem verificou que "diferente do que entendeu o banco embargante, a conexão reconhecida no v. acórdão em folhas 671/676, não se refere àquela prevista no artigo 55 do CPC, que trata da reunião de ações conexas para fins de julgamento conjunto", mas sim aquela prevista "no artigo 105 "caput" e § 1º, do Regimento Interno deste Egrégio Tribunal de Justiça, cumulado com o disposto no artigo 930, parágrafo único, do CPC".
+Assim, todos os pontos declarados como não examinados foram devidamente tratados no acórdão dos embargos de declaração.
+No mais, como registrado na decisão agravada, elidir a conclusão da Corte de origem no sentido de que "a ação monitória está lastreada na r. decisão proferida nos autos da ação declaratória, processada sob o nº 0204665-54.2009.8.26.0004, e que foi julgada pela Colenda 19a Câmara de Direito Privado desta Egrégia Corte", razão pela qual, estaria caracterizada a prevenção com fundamento no disposto no artigo 930, parágrafo único, do CPC/2015, demandaria, necessariamente, o revolvimento do conjunto fático-probatório dos autos, providência vedada nesta sede especial a teor da Súmula 07/STJ.
+Nesse contexto, a decisão recorrida deve ser mantida pelos seus próprios fundamentos, porquanto mantida a validade dos argumentos que a sustentam, uma vez que não foram trazidos elementos aptos a desconstituí-la.
+Advirta-se que eventual recurso interposto contra este decisum estará sujeito às normas do CPC/2015 (cf. Enunciado Administrativo n. 3/STJ), inclusive no que tange à aplicação de multa (art. 1.021, § 4º, e 1.026, § 2º, do CPC/2015).
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
