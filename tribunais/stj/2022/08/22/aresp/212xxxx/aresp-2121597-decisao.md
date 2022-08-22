@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se  de  agravo interposto contra decisão que negou seguimento a recurso  especial ,  fundamentado  no  art.  105,  inciso  III,  alínea  "a" ,  da  Constituição  Federal,  em  face  de  acórdão  assim  ementado  (e-STJ,  fl. 164):
+APELAÇÃO CÍVEL. PRELIMINAR DE COISA JULGADA ARGUIDA NAS CONTRARRAZÕES COBRANÇA DOS JUROS INCIDENTES. SOBRE AS TARIFAS ANALISADAS E DECLARADAS ILEGAIS EM PROCESSO ANTERIOR. PEDIDO DISTINTO AO DA PRESENTE AÇÃO. NÃO OCORRÊNCIA DE COISA JULGADA. . REJEIÇÃO
+- Para a configuração da coisa julgada é necessária a identidade das partes, da causa de pedir e do pedido.
+MÉRITO. REFORMA DA SENTENÇA. CAUSA MADURA. COBRANÇA DE JUROS RELATIVOS ÀS TARIFAS DECLARADAS ILEGAIS. CABIMENTO. ENCARGOS ACESSÓRIOS QUE SEGUEM A OBRIGAÇÃO PRINCIPAL. INTELIGÊNCIA DO ART. 184 DO CC. DEVOLUÇÃO SIMPLES. MANUTENÇÃO DO DECISUM. . PROVIMENTO PARCIAL DO APELO
+- Devem ser devolvidos os juros remuneratórios que incidiram sobre as tarifas e encargos a serem restituídos, a fim de evitar o enriquecimento sem causa.
+- A repetição em dobro do indébito, prevista no art. 42, parágrafo único, do Código de Defesa do Consumidor, tem como pressuposto de sua aplicabilidade a demonstração da conduta de má-fé do credor, o que fica afastado, no caso dos autos, ante a pactuação livre e consciente celebrada entre as partes.
+Os  embargos  de  declaração opostos  foram  rejeitados, com aplicação de multa (fls. 198/208).
+Nas  razões  do  recurso  especial,  a  parte  recorrente  aponta  ofensa aos  arts.  337,  § 4º, 1.022, II, e 1.026  do  Código  de  Processo  Civil.
+Sustenta que houve negativa de prestação jurisdicional, pois a despeito da oposição dos embargos de declaração, a Corte local não teria apreciado a alegação de que a matéria atinente aos encargos cobrados foi discutida em ação pretérita, de forma quea referida pretensão foi abarcada pelacoisa julgada. Aponta, ainda, a impertinência da multa ali aplicada.
+Alega  violação à coisa julgada, tendo em vista que "a causa de pedir e o pedido formulados na ação proposta abrangiam, indubitavelmente, a pretensão repetida nesta ação, ou seja, a de receber os juros incidentes sobre a tarifa diluída nas parcelas do financiamento" (e-STJ, fl. 223).
+Assim  delimitada  a  controvérsia,  passo  a  decidir.
+Inicialmente, quanto à alegada ofensa ao art. 1.022, II,  do  Código  de  Processo  Civil, não verifico omissão no acórdão estadual, senão julgamento contrário aos interesses do recorrente, o que não autoriza, por si só, o acolhimento de embargos de declaração, nem sua rejeição importa em violação à sua norma de regência.
+No caso, o Tribunal apreciou a questão acerca daausência de coisa julgada quanto aos juros incidentes sobre as tarifas cobradas, de sorteque não se pode confundir decisão contrária aos interesse do recorrente com negativa de prestação jurisdicional.
+Ressalto que o julgador não está obrigado a responder a todos os questionamentos das partes, todavia, deve resolver o litígio de forma clara e suficientemente fundamentada, explicitando às partes as motivações do seu convencimento, o que ocorreu no presente caso.
+No tocante ao mérito,  a  Corte  local  consignou  que  não  houve  violação  à  coisa  julgada, com relação à repetição de indébito dos encargos contratuais que incidiram sobre as tarifas declaradas ilegais durante o período contratual, conforme a fundamentação a seguir transcrita  (e-STJ,  fl.  166):
+Infere-se dos autos que o magistrado a quoextinguiu o feito sem resolução de mérito, sob o fundamento de que a matéria vindicada não comportaria nova apreciação, em face de, supostamente, ter sido objeto da Ação Revisional nº 200.2011.946857-3, que tramitou perante o 3º Juizado Especial Cível desta Comarca da Capital.
+Por sua vez, em sede de contrarrazões, o banco apelado suscita a preliminar de coisa julgada, sob os mesmos fundamentos. Assim, passo a analisar a incidência de referido instituto sob ambos os aspectos.
+Da inicial, observa-se que a promovente requereu, na ação que tramitou perante o Juizado Especial, a declaração de abusividade de taxas e tarifas cobradas quando da celebração do contrato.
+Ocorre que a presente demanda objetiva a devolução dos reflexos (juros) que a cobrança das taxas ocasionaram ao longo do financiamento, pugnando pela sua devolução em dobro.
+Nesse cenário, resta patente a inexistência de coisa julgada material, pois, para a sua configuração, é necessária a identidade das partes, da causa de pedir e do pedido.
+Com  efeito,  para rever  o  entendimento  do  Tribunal  de  origem  no  que se refere  à  ausência  de  ofensa  à  coisa  julgada,  como  pretendido  pelo  recorrente,  seria  necessário  rever  o  acervo  fático-probatório,  providência  vedada  nesta  fase  de  recurso,  de  forma  que  incide  o  óbice  da  Súmula  7/STJ.
+Por fim, a respeito da multa do § 2º do art. 1.026 do CPC, assiste razão ao Banco recorrente.
+Isso porque não identifico propósito protelatório nos embargos de declaração, ou o abuso da instituição financeira recorrente por sua oposição, que justifique a penalidade, motivo pelo qual se impõe o afastamento da sanção, nos termos do enunciado 98 da Súmula do STJ.
+Em face do exposto, conheço do agravo e dou parcial provimento ao recurso especial para afastar a multa aplicada nos embargos de declaração.
+Intimem-se.
