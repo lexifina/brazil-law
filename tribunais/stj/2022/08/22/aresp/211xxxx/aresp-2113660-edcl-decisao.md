@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por UNIÃO em face da decisão que conheceu do agravo para não conhecer do recurso especial, em razão da aplicação de súmulas de admissibilidade recursal, nos termos do art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça.
+Em suas razões, sustenta a parte embargante que:
+A matéria tratada nestes autos diz respeito se ocorre, ou não, a renúncia tácita à prescrição, nos termos do art. 191 do Código Civil, quando há o reconhecimento administrativo do direito, após decorrido por inteiro o prazo prescricional.
+O em. Ministro Presidente da Comissão de Precedentes do STJ qualificou os Recursos Especiais n. 1925192 -RSe o RESP 1925193 -RS como representativos da controvérsia, candidatos à afetação, impondo a eles a adoção do rito estabelecido pelos arts. 256 ao 256-D do RISTJ, c/c o inciso I do art. 2º da Portaria STJ/GP n. 299 de 19 de julho de 2017, determinado a distribuição dos respetivos recurso com fundamento nos arts. 46-A e 256-D, II, do RISTJ, c/c o inciso I do art. 2º da Portaria STJ/GP n. 98, de 22/3/2021(republicada no DJe de 24/3/2021), como representativos da controvérsia.
+ ..
+Por tudo isso, é de interesse público que todas os recursos especiais/agravos que versam sobre a mesma questão de direito sejam julgados de maneira uniforme pelo Tribunal, em nome da segurança jurídica. Assim, necessário se faz o sobrestamento dos autos,até que a questão seja decidida sob a sistemática dos recursos repetitivos, nos termos do art. 1.036 do CPC/15 (fls. 313-314).
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Cumpre salientar que, segundo jurisprudência firmada nessa Corte, não é cabível o sobrestamento em razão de o tema de mérito ter sido afetado ao rito dos recursos repetitivos ou da repercussão geral quando o recurso não preenche os requisitos de admissibilidade.
+Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO OU OBSCURIDADADE. PEDIDO DE SOBRESTAMENTO. IMPOSSIBILIDADE. EMBARGOS DE DIVERGÊNCIA QUE NÃO ULTRAPASSARAM OS REQUISITOS PARA CONHECIMENTO. REJEIÇÃO DOS EMBARGOS DE DECLARAÇÃO.
+ ..
+2. A embargante pugna mais uma vez pelo sobrestamento do feito sob o argumento de que ainda não houve a solução definitiva no âmbito do Tema 1.076 pela Corte Especial do STJ. Contudo, pelas razões já explicitadas, os presentes embargos de divergência sequer comportam conhecimento. É cediço nesta Corte que não é possível determinar o sobrestamento de recurso que não preenche os requisitos de admissibilidade, tendo em vista que o tema de mérito, independentemente da repercussão geral ou de sua afetação como representativo da controvérsia, não será enfrentado. A propósito:
+EDcl no AgInt no AREsp 1.888.358/TO, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 15/03/2022; AgInt no AREsp 1.913.977/MG, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 02/03/2022.
+ ..
+4. Embargos de declaração rejeitados.
+(EDcl nos EREsp n. 1.812.709/SP, relator Ministro Mauro Campbell Marques, Primeira Seção, julgado em 28/6/2022, DJe de 1/7/2022.)
+Registre-se que "não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução. Nesse sentido: REsp 927.216/RS, Segunda Turma, Relatora Ministra Eliana Calmon, DJ de 13.8.2007; e REsp 855.073/SC, Primeira Turma, Relator Ministro Teori Albino Zavascki, DJ de 28.6.2007". (EDcl nos EDcl no REsp 1642531/SC, relator Ministro Herman Benjamin, Segunda Turma, DJe de 22/4/2019.)
+Por fim, ressalto que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, o EDcl no AgRg nos EREsp n. 1.315.507/SP, relator Ministro Luis Felipe Salomão, Corte Especial, DJe de 28/8/2014.
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se. Intimem-se.
