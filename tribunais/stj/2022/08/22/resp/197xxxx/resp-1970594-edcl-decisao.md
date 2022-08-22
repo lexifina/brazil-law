@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de embargos de declaração opostos pelo MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO contra decisão de minha lavra, fls. 1120/1123, que conheceu do agravo para dar parcial provimento ao recurso especial de ALLIANZ SEGUROS S/A.
+Nas razões dos embargos de declaração, sustenta o embargante que a decisão embargada padece de contradição, pois apesar de nela constar a pretensão da reforma do acórdão local para que fosse considerada, para fins de indenização securitária, o valor do veículo na data da liquidação do sinistro, e não a data do próprio sinistro, como foi reconhecido pelo Tribunal local, proveu parcialmente o recurso, entendendo que o acórdão merecia ser reformado, para "que a tabela para cálculo da indenização securitária" fosse "à data do sinistro, e não da data da liquidação".
+A impugnação ao presente recurso foi apresentada a fls. 1153/1155.
+Instado a se manifestar, o Ministério Público Federal opinou pelo acolhimento dos embargos de declaração, para sanar erro material.
+É o relatório. Passo a decidir.
+Conforme delimitado na decisão ora embargada, aquestão central gira em torno da legalidade do uso da data da liquidação do sinistro como o marco para aferição da tabela referência, para fins de indenização securitária de automóvel sinistrado.
+Consoante orientação do Superior Tribunal de Justiça, a cláusula do contrato de seguro de automóvel a qual adota, na ocorrência de perda total, o valor médio de mercado do veículo como parâmetro para a apuração da indenização securitária deve observar a tabela vigente na data do sinistro e não a data do efetivo pagamento (liquidação do sinistro).
+Assiste razão ao embargante, quando aponta erro material na decisão embargada. Isto porque, o Tribunal a quodecidiu na mesma linha de entendimento firmado pelo Superior Tribunal de Justiça, de que o dever de indenizar deve ser apurado na data do sinistro, e não na data da liquidação do sinistro.
+Destarte, a decisão embargada merece ser reparada, para que seja afastado o erro material, a fim de que seja negado provimento ao recurso especial da seguradora, na medida em que não é possível aplicar a tabela de referência vigente na data do encerramento da liquidação do sinistro.
+Diante do exposto, acolho os embargos de declaração, para sanar erro material, com efeito modificativo, para conhecer do agravo para negar provimento ao recurso especial. E, quanto ao ônus da sucumbência recursal, em observância ao art. 85, §11, do CPC/2015, deixo de majorar os honorários de advogado, posto que não fixados pelas instâncias ordinárias.
+Publique-se.
+Após, voltem-me conclusos os autos para julgamento do agravo interno a fls. 1140/1152.
