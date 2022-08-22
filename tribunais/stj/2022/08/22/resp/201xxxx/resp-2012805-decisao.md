@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão com a seguinte ementa:
+APELAÇÃO CÍVEL - AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS - SENTENÇA DE PARCIAL PROCEDÊNCIA - COLISÃO ENTRE CAMINHÃO E AUTOMÓVEL - ALEGAÇÃO DE AUSÊNCIA DE PROVAS QUANTO À RESPONSABILIDADE DO CONDUTOR DO CAMINHÃO - NÃO ACOLHIMENTO - BOLETIM DE OCORRÊNCIA E LAUDO PERICIAL QUE EVIDENCIAM TER O CAMINHÃO INVADIDO A CONTRAMÃO DE DIREÇÃO - DOCUMENTOS QUE GOZAM DE PRESUNÇÃO JÚRIS TANTUM - ÔNUS DE PROVAR O FATO EXTINTIVO, IMPEDITIVO OU MODIFICATIVO DO DIREITO DA PARTE AUTORA QUE INCUMBIA À PARTE RÉ - ART. 373, II DO CPC - PEDIDO DE MINORAÇÃO DO QUANTUM FIXADO PARA A REPARAÇÃO DOS DANOS MORAIS - IMPOSSIBILIDADE - ACIDENTE QUE RESULTOU NA MORTE DE FII.HA, NETA E GENRO DA PARTE AUTORA - VALOR QUE ATENDE AO CARÁTER PEDAGÓGICO-PUNITIVO DO INSTITUTO - INDENIZAÇÃO EM CONSONÂNCIA COM OS PARÂMETROS ADOTADOS POR ESTA CÂMARA CÍVEL - PLEITO DE CUMULAÇÃO DA CLÁUSULA SECURITÁRIA DE COBERTURA POR DANOS CORPORAIS E MORAIS - POSSIBILIDADE - DISTINÇÃO CONTRATUAL QUE VIOLA A BOA-FÉ OBJETIVA - DESEQUILÍBRIO CONTRATUAL CONFIGURADO - SENTENÇA REFORMADA - PREQUESTIONAMENTO.
+RECURSO PARCIALMENTE PROVIDO
+Opostos embargos de declaração, esses foram rejeitados na origem.
+Nas razões do especial, aponta a recorrente existência de dissídio jurisprudencial, além de violação dos artigos 373 do Código de Processo Civil; 757 e 781 do Código Civil. Afirma ter sido condenada a pagar indenização por cobertura para risco superior ao contratado.
+O recurso foi admitido na origem, nos termos da decisão de fls. 935-937, e-STJ.
+Assim delimitada a controvérsia, passo a decidir.
+A Câmara revisora confirmou a sentença que havia determinado o pagamento pela seguradora de R$ 250.000,00 (duzentos e cinquenta mil reais) a título de danos morais, sob o entendimento de que o valor estipulado para o risco de indenização por danos corporais somava-se aos por danos morais, como se extrai dos trechos (fls. 826-828, e-STJ):
+Do que se vislumbra da apólice de seguro celebrada entre a apelante e a segunda ré Companhia Mutual de Seguros (mov. 1.2 - fls. 56/58). estabelece valores distintos de cobertura por danos corporais, no valor de R$ 500.000,00 (quinhentos mil reais), e para danos morais, no importe de R$ 50.000,00 (cinqüenta mil reais).
+Neste contexto, esta Colenda 9ª Câmara Cível tem firmado entendimento no sentido de que a cláusula securitária que versa sobre os danos corporais deve abranger os danos morais, independentemente de sua previsão em separado na apólice, visto que o dano corporal compreende os prejuízos causados na esfera patrimonial c/ou extrapatrimonial do segurado, (..)
+De tal modo, a distinção procedida pela seguradora visa tão somente seu próprio benefício, em detrimento do consumidor, que não dispõe de conhecimento técnico suficiente para compreender a extensão das coberturas contratadas, ocasionado nítido desequilíbrio contratual e violação da boa-fé objetiva, além de violar o dever de informação sobre os termos do contrato, especialmente cláusulas restritivas.
+(..)
+De outro tanto, certo que a previsão de um valor para cobrir danos morais e outro para danos pessoais, ou corporais, não se amolda à previsão sumular no sentido da expressa exclusão de cobertura dos danos morais no âmbito da previsão dos danos pessoais, expressão que alberga os "corporais".
+Verifico que o acórdão da origem divergiu da orientação emanada desta Corte Superior, como demonstra a leitura dos seguintes precedentes:
+CIVIL E PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SEGURO. DANO MORAL. COBERTURA. CLÁUSULA ESPECÍFICA. DANO CORPORAL. INAPLICABILIDADE. DECISÃO MANTIDA.
+1. "Se o contrato de seguro prevê, em cláusula distinta, a cobertura para danos morais, deve a indenização correspondente ficar limitada ao valor contratado a esse título. Somente nos casos em que a cláusula é inespecífica, referindo-se genericamente a danos corporais ou a danos pessoais, é que se pode compreender nela inclusos os danos morais. Jurisprudência do STJ" (AgInt no AgInt nos EDcl no AREsp 708.653/SC, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 18/08/2016, DJe 25/08/2016).
+2. No caso, havendo previsão contratual distinta para cobertura de dano moral, a indenização a ser paga pela seguradora deve-se limitar ao valor de tal cláusula.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.336.685/SE, Relator Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe 19/12/2018)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. INDENIZAÇÃO SECURITÁRIA PREVISÃO DE DANOS CORPORAIS E DANOS MORAIS DE FORMA INDIVIDUALIZADA.
+1. Havendo previsão explícita e individualizada para cada tipo de cobertura securitária, conclui-se que indenização por danos corporais não abrange os danos morais, ao contrário do que entendeu o acórdão estadual, pois a apólice contratada previu expressamente o limite da indenização por danos morais.
+2. Incidência da Súmula 402 do STJ: "o contrato de seguro por danos pessoais compreende os danos morais, salvo cláusula expressa de exclusão".
+3. Agravo interno não provido.
+(AgInt nos EDcl no AREsp 1.153.529/SC, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe 2/4/2018)
+Diante do exposto,dou provimento ao recurso especial, para determinar que a responsabilidade solidária da seguradora seja limitada ao valor da cobertura expressamente previsto na apólice. Restabeleço os ônus sucumbenciais fixados na sentença.
+Intimem-se.
