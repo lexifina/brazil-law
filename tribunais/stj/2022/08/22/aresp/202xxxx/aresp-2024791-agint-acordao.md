@@ -1,0 +1,29 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 16/08/2022 a 22/08/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator):Trata-se de agravo interno interposto contra decisão da Presidência, às fls. 352-356, que conheceu do agravo para não conhecer do recurso especial, sob os seguintes fundamentos:
+i) incidência da Súmula 284/STF, no tocante a violação do art. 1.022 do CPC/15, uma vez que o recorrente não especificou quais incisos foram contrariados, a despeito da indicação de omissão, contradição, obscuridade ou erro material;
+ii) incidência da Súmula 284/STF, no que concerne ao arguição de cabimento da exceção de pré-executividade e nulidade da certidão de dívida ativa; e
+iii) incidência da Súmula 7/STJ.
+O agravante aponta, em suma, às fls. 360-369, que i)o tribunal de origem violou o art. 1.022 do CPC/15, não havendo falar em aplicação do óbice da Súmula 284/STF; ii)quanto ao fundamento de que rever o presente caso demandaria a análise de provas, o que ofenderia a Súmula n.º 07 deste E. STJ, a Agravante conseguiu demonstrar em seu recurso que a presente demanda trata apenas de matéria de direito, não havendo que se falar em análise de provas e, consequentemente, de ofensa à Súmula n.º 07 deste E. Tribunal Superior;e iii)não houve uma análise minuciosa do Agravo interposto pela ora Agravante contra a decisão do E. TRF-3 que decidiu pela inadmissão do seu Recurso Especial, pois, nota-se das suas razões de Agravo em Recurso Especial que foram impugnados todos fundamentos invocados para se concluir pela inadmissão de seu Recurso Especial, o que foi feito de forma específica como se requer a norma processual.
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC/15. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF.NÃO INDICAÇÃO DE DISPOSITIVO DE LEI FEDERAL SUPOSTAMENTE VIOLADO. SÚMULA 284/STF. REAVALIAÇÃO DO CONJUNTO FÁTICO PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1.Conforme estabelecido pelo Plenário do STJ, aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma nele prevista (Enunciado Administrativo n. 3).
+2. É deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 1.022 do CPC/2015 se faz de forma genérica, sem especificar quais foram os incisos violados. Aplica-se, na hipótese, o óbice da Súmula 284 do STF
+3. A não indicação no recurso especial do normativo supostamente violado reflete carência de argumentação e conduz ao não conhecimento do recurso, pois não permite a exata compreensão da controvérsia. Incidência da Súmula 284/STF.
+4. Não há como alterar a conclusão da corte de origem, sem que, para isso, se percorra pela reavaliação do conjunto fático-probatório, incidindo, assim, o óbice da Súmula 7/STJ
+5.Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator):Conforme estabelecido pelo Plenário do STJ, aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma nele prevista (Enunciado Administrativo n. 3).
+O presente recurso não merece prosperar, tendo em vista que dos argumentos apresentados no agravo interno não se vislumbram razões para reformar a decisão agravada.
+Com efeito, no tocante à alegação de negativa de prestação jurisdicional, destaca-se que o recorrente limitou-se a defender genericamente a ocorrência de violação ao art. 1.022 do CPC/2015, sem especificar quais foram os incisos violados, de maneira que se revela inadmissível o recurso especial no ponto, ante a deficiência em sua fundamentação, conforme jurisprudência consolidada na Súmula 284 do STF, aplicada analogicamente pelo STJ.
+Além disso,as argumentações trazidas no recurso especial, referentes ao cabimento da exceção de pré-executividade e à nulidade da certidão ativa, revelam-se deficientes, uma vez que o recorrente limita-se a expor alegações genéricas e não indica qual dispositivo de lei federal ou tratado foi contrariado pelo acórdão recorrido, situação que se evidencia nos autos e impede o conhecimento do recurso. Escorreita, pois, a aplicaçãoda Súmula 284/STF.
+Outrossim,ainda que se considere que os arts. 156, I, do CTN; 586, 618, I, e 485, VI; e § 3º, do CPC sejam os dispositivos apontados como violados, o Tribunal de origem se manifestou nos seguintes termos à fl. 236:
+No caso dos autos, verifico que a discussão acerca do pagamento do débito ora cobrado depende de dilação probatória, na medida em que a documentação trazida aos autos é insuficiente para demonstrar o pagamento integral da obrigação tributária, mesmo na hipótese de se admitir equívoco na forma de adimpli-lo. Por fim, em seus esclarecimentos, a Receita Federal não foi capaz de concluir que houvepenas mero erro no preenchimento das DARFs (id 102239297 - Pág. 60). Assim, a definição da questão necessita de maiores esclarecimentos, pois, como exposto, não há prova efetiva de pagamento, devendo ser objeto de embargos.
+Assim,não há como alterar a conclusão da corte de origem, sem que, para isso, se percorra pela reavaliação do conjunto fático-probatório, incidindo, assim, o óbice da Súmula 7/STJ.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
