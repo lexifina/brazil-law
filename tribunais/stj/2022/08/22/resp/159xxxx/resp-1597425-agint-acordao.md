@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 16/08/2022 a 22/08/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O SR. MINISTRO SÉRGIO KUKINA: Trata-se de agravo interno manejado por HELENA PEREIRA DE MIRANDA desafiando decisão de fls. 186/190, integrada pelos embargos declaratórios rejeitados (fls. 203/204), que não conheceu do recurso especial, diante da incidência da Súmula 383/STF à espécie.
+Em suas razões, a parte agravante sustenta que não deve correr a prescrição enquanto o INSS demora para reconhecer o direito do segurado (fl. 212).
+Requer a reconsideração do decisum, ou a submissão do feito ao julgamento Colegiado.
+Sem impugnação (fl. 220).
+É o relatório.
+EMENTA
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. PRESCRIÇÃO. INTERRUPÇÃO. SÚMULA 383/STF.
+1. O acórdão recorrido foi proferido em consonância com a jurisprudência desta Corte, firme no sentido de que, de acordo com a Súmula 383/STF, o lapso prescricional em favor da Fazenda Pública somente poderá ser interrompido uma única vez, recomeçando a correr pela metade (dois anos e meio) a partir do ato interruptivo. Entretanto, a prescrição não fica reduzida aquém de cinco anos, caso o titular do direito a interrompa durante a primeira metade do prazo (REsp 1.121.138/RS, relatora Ministra Laurita Vaz, relator para acórdão Ministro Marco Aurélio Bellizze, DJe 1º/9/2014).
+2. Agravo interno não provido.
+VOTO
+O SR. MINISTRO SÉRGIO KUKINA (Relator): Em que pese aos argumentos aduzidos ao presente recurso, a decisão agravada não merece reparos.
+Consoante anteriormente mencionado, o Tribunal de origem, com base nos arts. 4º, 8º e 9º do Decreto n. 20.910/32, concluiu que houve a interrupção da prescrição a partir da data de entrada do requerimento administrativoe que o lapso prescricional voltou a correr, pela metade, após a ciência do segurado acerca da negativa do direito, nos termos da seguinte fundamentação (fls. 135/136):
+PRESCRIÇÃO
+A incidência da prescrição qüinqüenal deve ser mantida, porém com ajustes considerando a provocação da Administração para decidir sobre o tema e o tempo transcorrido para que esse efeito se realizasse. Contrariamente ao que entendeu o Juiz singular, não há como penalizar a autora pela demora na análise do processo administrativo, devendo ser aplicado ao caso o art. 4º do D 20.910/1932, que assim dispõe:
+(..).
+Conforme informa a própria autora, o requerimento de benefício deu entrada em 11 fev. 2004 (Evento l-PROCADM3-p. 1), e a decisão de indeferimento do pedido foi proferida em 24 maio2007 (Evento 1 -PROCADM3-p. 56). Como não consta data de notificação à autora da decisão administrativa, considera-se um acréscimo de pelo menos um mês a essa data, culminando em fixar o termo inicial do prazo de prescrição antes interrompido em 24 jun.2007.
+A prescrição retomou seu curso a partir de 24 jun.2007 por mais dois anos e meio, ou seja, até 24 nov. 2009. Como esta ação foi ajuizada em 5 out. 2011, estão prescritas todas as parcelas que se venceram antes de 24 jun.2007, devendo ser revisada a sentença nesse ponto, em reexame necessário e como matéria de conhecimento obrigatório pelo Juízo (§ 5o do art. 219 do CPC1973; inc. II do art. 487 do CPC2015).
+Destarte, reitera-se que o acórdão recorrido se encontra em consonância com a jurisprudência desta Corte, firme no sentido de que, de acordo com a Súmula 383/STF, "o lapso prescricional em favor da Fazenda Pública somente poderá ser interrompido uma única vez, recomeçando a correr pela metade (dois anos e meio) a partir do ato interruptivo. Entretanto, a prescrição não fica reduzida aquém de cinco anos, caso o titular do direito a interrompa durante a primeira metade do prazo" (REsp 1.121.138/RS, relatora Ministra Laurita Vaz, relator para acórdão Ministro Marco Aurélio Bellizze, DJe 1/9/2014).
+A propósito, confiram-se:
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. PRESCRIÇÃO. MARCO INTERRUPTIVO DO PRAZO PRESCRICIONAL. PRESCRIÇÃO QUINQUENAL. ART. 9º DO DECRETO N. 20.910/32. RETOMADA DA PRESCRIÇÃO APÓS SUA INTERRUPÇÃO. CONTAGEM PELA METADE DO PRAZO. PRAZO SUPERIOR A DOIS ANOS E MEIO.
+I - Na origem, trata-se de ação condenatória, c/c revisão do benefício previdenciário, c/c pedido de antecipação de tutela contra o INSS. Por sentença, o pedido foi julgado improcedente. No Tribunal a quo, foi dado parcial provimento à apelação.
+II - Opostos embargos declaratórios, foi dado provimento aos embargos, para sanar a omissão apontada, afastando a prescrição, sob o seguinte fundamento: "O Memorando-Circular Conjunto nº 21/DIRBEN/PFEINSS, de 15/04/2010, implicou efetivo reconhecimento do direito pelo INSS constituindo marco interruptivo do prazo prescricional para a revisão dos benefícios com base no artigo 29, II, da Lei 8.213/91. A prescrição quinquenal, portanto, deve ser contada retroativamente de 15/04/2010."
+III - Interposto recurso especial pelo INSS, que alega como violados os arts. 103 da Lei n. 8.213/91; 202 do Código Civil; 9º do Decreto n. 20.910/32 e Súmula n. 85 do STJ. Afirma, em síntese, que a prescrição no âmbito previdenciário, após interrompida, volta a contar pela metade, o que implicaria a ocorrência de prescrição.
+IV - Nesta Corte, foi fado provimento ao recurso especial, para decretar a prescrição do pedido restante. Interposto agravo interno, a parte agravante traz argumentos contrários aos fundamentos da decisão recorrida.
+V - A parte agravante insiste nos mesmos argumentos já analisados na decisão recorrida. Sem razão a parte agravante. O art. 103, parágrafo único, da Lei n. 8.213/91, ao tratar da prescrição quinquenal, não aborda a questão da interrupção do prazo, devendo-se aplicar, então, o art. 9º do Decreto n. 20.910/32, que regula a matéria de forma geral, e que determina a retomada da prescrição, após sua interrupção, com contagem pela metade do prazo. Confira-se: REsp 1.796.299/PR, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 28/3/2019, DJe 28/5/2019; AgRg no REsp 1.221.425/RS, Rel. Ministro Og Fernandes, Sexta Turma, julgado em 7/5/2013, DJe 20/5/2013.
+VI - No caso, a prescrição foi interrompida em 15/4/2010 e a ação foi ajuizada em 12/2012, ou seja, prazo superior a dois anos e meio.
+VII - Agravo interno improvido.
+(AgInt no REsp 1.847.847/RS, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 19/10/2020, DJe 22/10/2020)
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. REVISÃO DO BENEFÍCIO PREVIDENCIÁRIO. MEMORANDO-CIRCULAR 21/DIRBEN/PFE-INSS DE 15/4/2010. INTERRUPÇÃO DA PRESCRIÇÃO. ART. 9º DO DECRETO 20.910/1932.
+1. No que concerne à prescrição, a Lei de Benefícios da Previdência Social, no parágrafo único do art. 103, definiu que estariam prescritas "em cinco anos, a contar da data em que deveriam ter sido pagas, toda e qualquer ação para haver prestações vencidas ou quaisquer restituições ou diferenças devidas pela Previdência Social, salvo o direito dos menores, incapazes e ausentes, na forma do Código Civil" (Incluído pela Lei n. 9.528, de 1997).
+2. No entanto, a referida norma legal não disciplinou a questão da interrupção do prazo prescricional. Segundo entendimento do STJ, nas dívidas devidas pela Fazenda Pública, uma vez interrompida a prescrição, esta retoma o seu curso pela metade, conforme dispõe o art. 9º do Decreto 20.910/1932, respeitado o prazo mínimo de cinco anos, nos termos da Súmula 383 do STF.
+3. Dentro desse contexto, como a presente ação foi proposta em 15.4.2015, ou seja, após 16.10.2012 (dois anos e meio contados do ato que reconheceu o direito do segurado), tem-se que, efetivamente, a prescrição atingiu as parcelas vencidas no período que antecedeu o quinquênio anterior ao ajuizamento da ação, isto é, estão prescritas as parcelas anteriores a 15.4.2010.
+4. Recurso Especial provido.
+(REsp 1.796.299/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 28/03/2019, DJe 28/05/2019)
+ANTE O EXPOSTO, nego provimento ao agravo interno.
+É o voto.
