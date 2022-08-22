@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso especial interposto, com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, em face de acórdão assim ementado (e-STJ, fls.201/202):
+APELAÇÃO CÍVEL. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO REVISIONAL DE CONTRATO DE EMPRÉSTIMO PESSOALCONSIGNADO.
+APLICAÇÃO DO CDC. APLICAM-SE AS DISPOSIÇÕES DO CÓDIGO DE DEFESA DO CONSUMIDOR ÀS INSTITUIÇÕES FINANCEIRAS (SÚMULA N. 297 DO STJ).
+JUROS REMUNERATÓRIOS. A ABUSIVIDADE DA TAXA DOS JUROS REMUNERATÓRIOS EM CONTRATOS BANCÁRIOS NÃO SE CONFIGURA TÃO SOMENTE POR TER SIDO PACTUADA ACIMA DE 12% AO ANO,DEVENDO SER OBJETO DE ANÁLISE CASUÍSTICA, MEDIANTE COTEJO ENTRE A TAXA MÉDIA ESTIPULADA E DIVULGADA PELO BACEN PARA A ESPÉCIE CONTRATUAL E A CORRESPONDENTE DATA DA CONTRATAÇÃO. CASO EM QUE OS JUROS REMUNERATÓRIOS FORAM ESTIPULADOS ACIMA DO LIMITE PREVISTO PELO BANCO CENTRAL, CONSTATANDO-SE SUA ABUSIVIDADE.
+COMISSÃO DE PERMANÊNCIA. A COMISSÃO DE PERMANÊNCIA, PREVISTA PELO CONTRATO PARA O PERÍODO DA INADIMPLÊNCIA E APURADA PELO BANCO CENTRAL DO BRASIL PELA MÉDIA DOS JUROSDE MERCADO, É VÁLIDA, DESDE QUE NÃO CUMULADA COM OS DEMAIS ENCARGOS MORATÓRIOS. INTELIGÊNCIA DAS SÚMULAS 30,294, 296 E 472, TODAS DO E. STJ. AUSENTE PREVISÃO CONTRATUAL ACERCA DO ENCARGO, NÃO HÁ FALAR EM ABUSIVIDADE.
+DESCARACTERIZAÇÃO DA MORA. VERIFICADA A ABUSIVIDADE DECLÁUSULA CONTRATUAL COMPREENDIDA NOS ENCARGOS DA NORMALIDADE (JUROS REMUNERATÓRIOS), DEVE SER AFASTADA A MORA.
+REPETIÇÃO DO INDÉBITO. APURADO EXCESSO NA COBRANÇA, É APELAÇÃO CÍVEL. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO REVISIONAL DE CONTRATO DE CARTÃO DE CRÉDITO.
+APLICAÇÃO DO CDC. Aplicam-se as disposições do Código de Defesa do Consumidor às instituições financeiras (Súmula n. 297 do STJ).
+JUROS REMUNERATÓRIOS. A abusividade da taxa dos juros remuneratórios em contratos bancários não se configura tão somente por ter sido pactuada acima de 12%ao ano, devendo ser objeto de análise casuística, mediante cotejo entre a taxa média estipulada e divulgada pelo BACEN para a espécie contratual e a correspondente datada contratação. Caso em que os juros remuneratórios foram estipulados acima dolimite previsto pelo Banco Central, constatando-se sua abusividade.
+DESCARACTERIZAÇÃO DA MORA. Verificada a abusividade de cláusula contratual compreendida nos encargos da normalidade (juros remuneratórios), deve ser afastada a mora.
+COMPENSAÇÃO. Constatada a abusividade dos juros remuneratórios aplicados, é cabível a compensação de valores pagos em excesso pela demandante com o restante da dívida. A compensação de valores é decorrência lógica da revisão contratual.
+REPETIÇÃO DO INDÉBITO. Apurado excesso na cobrança, é cabível a repetição simples do indébito.
+APELAÇÃO PROVIDA.
+Nas razões do recurso especial, a parte recorrente aponta violação aos arts.397 e 406do Código Civil;aos arts. 1º e 4º, IX, da Lei n.4.595/1964; aos arts. 51 e 52, II, e § 1º, do Código de Defesa do Consumidor;bem como divergência jurisprudencial.
+Defende a inexistência de abusividade dos juros remuneratórios cobrados pela instituição financeira pelo simples fato de encontrar-se acima da taxa média de mercado divulgada pelo BACEN.
+Alega que na hipótese dos autos não houve discrepância que justificasse a abusividade, devendo ser levada em consideração certa margem de tolerância, o que afasta a descaracterização da mora.
+Contrarrazões apresentadas.
+Assim delimitada a controvérsia, passo a decidir.
+Na hipótese,o Tribunal local reconheceu a abusividade na cobrança dos juros remuneratórios com base nos seguintes fundamentos(e-STJ, fls.196/197):
+Outrossim, o posicionamento majoritário desta Câmara, no que concerne à análise da abusividade, no sentido de não admitir a margem de tolerância entre os parâmetros utilizados, bastando para tanto que as taxas estipuladas no contrato extrapolem a média de mercado divulgada pelo BACEN. Nesse sentido:
+(..)
+No caso, trata-se de revisão de contrato firmado em 18.09.2019, prevendo juros remuneratórios de 2,08% a. m. e 28,46% a. a.
+Em consulta ao site do Banco Central, conforme "Taxa média mensal de juros das operações de crédito com recursos livres - Pessoas físicas - Crédito pessoal consignado para aposentados e pensionistas do INSS- Código 25468 e 20746" constata-se que a taxa aplicada pela instituição financeira ao contrato está acima da taxa média divulgada pelo BACEN (1,76% a. m. e 23,24% a. a.), caracterizando abusividade.
+Dessa forma, neste aspecto, os juros remuneratórios do contrato sub judice devem estar limitados a taxa média de mercado, divulgada pelo Bacen, praticadas nas operações da mesma espécie na época de cada contratação.
+Esta Corte Superior já sedimentou posicionamento nos termos da Súmula nº382 do STJ, que assim dispõe: "A estipulação de juros remuneratórios superiores a 12% ao ano, por si só, não indica abusividade". Ante tais lineamentos, a jurisprudência desta Corte orienta que "a redução dos juros dependerá de comprovação da onerosidade excessiva - capaz de colocar o consumidor em desvantagem exagerada - em cada caso concreto, tendo como parâmetro a taxa média de mercado para as operações equivalentes, de modo que a simples estipulação de juros remuneratórios superiores a 12% (doze por cento) ao ano por si só não indica abusividade, nos termos da Súmula nº 382/STJ (REsp nº 1.061.530/RS)" (AgRg no REsp 1428230/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 12.3.2015).
+O simples fato de a taxa efetiva cobrada no contrato estar pouco acima da taxa média de mercado, todavia, não significa, por si só, abuso. Ao contrário, a média de mercado não pode ser considerada o limite; justamente porque é média, incorpora as menores e maiores taxas praticadas pelo mercado. O que impõe uma eventual redução é justamente o abuso, ou seja, a demonstração cabal de uma cobrança muito acima daquilo que se pratica no mercado. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. CÉDULA DE CRÉDITO BANCÁRIO PARA EMPRÉSTIMO DE CAPITAL DE GIRO. FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO. SUFICIENTE. CAPITALIZAÇÃO DIÁRIA. MP 2.170-36/2001. APLICAÇÃO DA SÚMULA 83 DO STJ. JUROS REMUNERATÓRIOS. TAXA MÉDIA DO MERCADO. COBRANÇA ABUSIVA. LIMITAÇÃO. NÃO COMPROVAÇÃO. SÚMULA 83/STJ. CARACTERIZAÇÃO DA MORA. AGRAVO NÃO PROVIDO.
+(..)
+4. A jurisprudência do STJ orienta que a circunstância de a taxa de juros remuneratórios praticada pela instituição financeira exceder a taxa média do mercado não induz, por si só, à conclusão de cobrança abusiva, consistindo a referida taxa em um referencial a ser considerado, e não em um limite que deva ser necessariamente observado pelas instituições financeiras.
+5. Na hipótese, ante a ausência de comprovação cabal da cobrança abusiva, deve ser mantida a taxa de juros remuneratórios acordada.
+6. O reconhecimento da validade dos encargos exigidos no período da normalidade contratual (juros remuneratórios e capitalização) implica a caracterização da mora.
+7. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1726346/SC, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, DJe 17.12.2020).
+No caso, o Tribunal de origem aferiu que a taxa de juros remuneratórios previstos no contrato em revisão foi estipuladacom abusividade, pelo simples fato de ultrapassar a taxa média de mercado divulgada pelo BACEN, ainda que em pequeno percentual, reformando a sentença de improcedência.
+Assim, de acordo com a jurisprudência desta Corte, não demonstrada efetivamente a cobrança abusiva, deve ser afastada a referida limitação imposta pela Corte de origem.
+Em face do exposto, dou provimento ao recurso especial, para restabelecer a sentença de improcedência proferida na primeira instância, inclusive quanto aos ônus sucumbenciais.
+Intimem-se.
