@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de CAIO AUGUSTO DE SOUZA em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (Apelação Criminal n. 1500108-23.2020.8.26.0561).
+Em primeiro grau, o paciente foi condenado às penas de 1 anoe 8 meses de reclusão em regime aberto e de 166 dias-multa, pela prática do crime descrito no art. 33, § 4º, da Lei n. 11.343/2006.
+O Tribunal de origem deu provimento ao recurso do Ministério Público a fim de afastar o tráfico privilegiado e redimensionaras penas do paciente para 5 anos de reclusão em regime fechado e 500 dias-multa.
+A defesa alega que o paciente está sendo vítima de constrangimento ilegal em face da não aplicação do redutor do art. 33, § 4º, da Lei n. 11.343/2006.
+Pugna pela fixação de regime inicial de cumprimento da pena mais brando.
+Requer, liminarmente e no mérito, a concessão da ordem a fim de que seja aplicado o redutor do art. 33, § 4º, da Lei n. 11.343/2006 em seu patamar máximo e fixado o regime inicial aberto para o cumprimento da pena, substituindo-se a pena privativa de liberdade porrestritiva de direitos.
+É o relatório. Decido.
+Ainda que inadequada a impetração dehabeas corpusem substituição à revisão criminal ou ao recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o STJ considera passível de correção de ofício o flagrante constrangimento ilegal.
+Nos casos em que a pretensão esteja em conformidade ou em contrariedade com súmula ou jurisprudência pacificada dos tribunais superiores, a Terceira Seção desta Corte admite o julgamento monocrático da impetração antes da abertura de vista ao Ministério Público Federal, em atenção aos princípios da celeridade e da efetividade das decisões judiciais, sem que haja ofensa às prerrogativas institucionais do parquet ou mesmo nulidade processual (AgRg no HC n. 674.472/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 10/8/2021; AgRg no HC n. 656.521/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 26/4/2021; e AgRg no HC n. 530.261/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 7/10/2019).
+Sendo essa a hipótese dos autos, passo ao exame do mérito da impetração.
+Em relação aos pedidos de reconhecimento do tráfico privilegiado e de fixação do regime inicial aberto, em consulta ao sistema do STJ, observa-se que as mesmas alegações apresentadas no presente habeas corpus estão sendo analisadas no AREspn. 2.154.825/SP.
+Dessa forma, não se pode processar o writ neste ponto, por ser mera reiteração de pleito pendente de análise. Nesse sentido,os seguintes precedentes:
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. OCORRÊNCIA DE NULIDADE NA SESSÃO PLENÁRIA DO JÚRI. REITERAÇÃO DE PEDIDO. INDEFERIMENTO LIMINAR DO WRIT. ART. 210 DO RISTJ.
+I -A parte que se considerar agravada por decisão de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer, dentro de cinco dias, a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+II - No presente caso, tratam-se de alegações sustentando a ocorrência de nulidade durante a sessão de julgamento do Conselho de Sentença do Tribunal do Júri, ao argumento de que o d. Ministério Público Local apresentou certidão de antecedentes criminais bastante negativa aos jurados do Conselho de Sentença que não pertencia ao acusado, ora paciente, mas à pessoa homônima.
+III - O pedido de reconhecimento da nulidade se trata de reiteração de pedido, o qual se encontra pendente de apreciação por essa mesma Quinta Turma, em sede de Agravo Regimental no AREsp 1924082/SC, meio processual adequado à impugnação do acórdão prolatado pelo Tribunal a quo.
+Agravo regimental desprovido.(AgRg no HC n. 713.221/SC, relator Ministro Jesuíno Rissato, Quinta Turma, DJe de 21/2/2022, destaquei.)
+AGRAVO REGIMENTAL EM RECURSO ORDINÁRIO CONSTITUCIONAL EM HABEAS CORPUS. REITERAÇÃO DE TESE. IDENTIDADE DE PARTES, DE OBJETO E DE CAUSA PETENDI. PRETENSÃO DEFENSIVA JÁ VENTILADA EM WRIT ANTERIORMENTE IMPETRADO. LITISPENDÊNCIA CONFIGURADA. AGRAVO DESPROVIDO.
+1. Não podem ser analisados habeas corpus e recurso ordinário em habeas corpus nos quais se constata litispendência, instituto que se configura exatamente quando há igualdade de partes, de objeto e de causa petendi.
+2. É certo que o Agravante alega que o pedido que deve ser analisado pelo Superior Tribunal de Justiça é o formulado no recurso cabível (como no caso, em que a presente via de impugnação foi interposta na origem concomitantemente a writ impetrado nesta Corte). Todavia, a Sexta Turma do Superior Tribunal de Justiça não impõe óbice ao conhecimento do habeas corpus substitutivo de recurso ordinário.
+Dessa forma, deve ser processado tão somente o pedido que primeiramente foi recebido pelo STJ.
+3. A despeito de não se vedar a possibilidade da impetração de mandamus originário, nessa hipótese a Defesa pode eventualmente ter de arcar com o ônus de o recurso ordinário - embora trate-se da adequada via de impugnação - não ter seu mérito analisado (vide RHC 37.895-RS, relatora Ministra Laurita Vaz, Quinta Turma, Informativo STJ n.º 539, 15 de maio de 2014).
+4. Agravo regimental desprovido. (AgRg no RHC n. 126.237/SP, relatora Ministra Laurita Vaz, Sexta Turma, DJe 15/6/2020.)
+Portanto, não se pode processar o presente writ por consubstanciar mera reiteração de pedido submetido a análise pelo STJ.
+Ante o exposto,com fundamento no art. 34, XX, do RISTJ,não conheço do presentehabeas corpus, ficando prejudicado o pedido de liminar.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
