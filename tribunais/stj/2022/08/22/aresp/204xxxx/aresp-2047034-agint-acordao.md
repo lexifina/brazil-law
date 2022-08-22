@@ -1,0 +1,22 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 16/08/2022 a 22/08/2022, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O EXMO. SR. MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão da Presidência desta Corte, às fls. 468-473, que conheceu do agravo em recurso especial para não conhecer do recurso especial.
+Em suas razões, o agravante afirma, em suma, que: (a) "contrário do que restou sustentado na decisão ora agravada foram apontados no Recurso Especial artigos pertinentes à tese sustentada pelo Recorrente, bem como a matéria objeto do reclamo foi devidamente prequestionada, com a emissão de juízo de valor, pelo Colegiado estadual acerca da prescrição" (fl. 479); (b) "a construção argumentativa do Estado do Tocantins no recurso especial interposto não diz respeito a questões fático-probatórias ou à análise de lei local" (fl. 482);"houve claro prequestionamento da matéria de direito relativamente à violação aos artigos 1º e 9º do Decreto 20.910/32, não sopesando dúvida que possuem comando normativo para amparar a tese recursal." (fl. 484).
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A ausência de impugnação específica aos fundamentos da decisão agravada impõe o não conhecimento do recurso. Incidência da Súmula 182/STJ.
+3. Agravo interno não conhecido.
+VOTO
+O EXMO. SR. MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+O presente recurso não comporta conhecimento.
+Nesse caso, registra-se que a decisão vergastada, em relação à controvérsia referente à violação dos arts. 1º e 9º do Decreto n. 20.910/1932, com argumento de que não houve o reconhecimento do débito com a edição da Medida Provisória estadual n. 33/2015, convertida na Lei estadual n. 2.984/2015, encontra-se amparada nos seguintes fundamentos: (a) aplicação da Súmula 284/STF, ante a ausência de comando normativo nos dispositivos apontados como violados; (b) incidência da Súmula 280/STF, tendo em vista que "é incabível o recurso especial porquanto eventual violação de lei federal seria meramente indireta e reflexa, pois exigiria um juízo anterior de norma local" (fl. 472); (c)incidência da Súmula 282/STF, uma vez que não houve pronunciou do Tribunal de origem sobrea matéria (art. 17 do Decreto 3.342/00); (d)acerca da alegada prescrição, "sua análise só poderia ocorrer em caso de conhecimento do recurso especial e se lhe fosse dado provimento quanto à primeira tese recursal, que visava afastar o fundamento do acórdão de que não houve a interrupção do prazo prescricional, mas o nascimento de uma nova pretensão." (fls. 472-473).
+Contudo, em que pese as alegações da parte agravante, não impugnou, especificamente, nenhum dos fundamentos utilizados na decisão agravada. Dessa forma, considerando que nenhum capítulo autônomo da decisão recorrida foi suficientemente combatido, impõe-se a incidência da Súmula 182/STJ, in verbis: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+A propósito, confiram-se: AgInt nos EDcl no REsp 1.708.729/SP, Rel. Min. Regina Helena Costa, Primeira Turma, DJe 21/2/2019; AgInt no AREsp 1.354.331/PB, Rel. Min. Assusete Magalhães, Segunda Turma, DJe 19/2/2019; AgInt no AREsp 739.429/PR, Rel. Min. Gurgel de Faria, Primeira Turma, DJe 12/2/2019; AgInt no RE no AgRg no AREsp 786.603/RJ, Rel. Min. Humberto Martins, Corte Especial, DJe 18/10/2016; AgRg nos EREsp 1.424.371/SC, Rel. Min. Humberto Martins, Primeira Seção, DJe 20/4/2016.
+Ante o exposto, não conheço do agravo interno.
+É como voto.
