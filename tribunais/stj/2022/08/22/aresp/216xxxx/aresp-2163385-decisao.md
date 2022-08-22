@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de Agravo contra inadmissão de Recurso Especial (art. 105, III, "a", da CF) interposto de acórdão assim ementado:
+AGRAVO INTERNO NA APELAÇÃO CÍVEL. EXECUÇÃO FISCAL. CERTIDÃO DE DÍVIDA ATIVA. REQUISITOS ESSENCIAIS. DESOBEDIÊNCIA AOS DITAMES DOS ARTS. 2º, § 5º, DA LEI 6.830/80 E 202 DO CTN. PRECARIEDADE PATENTE. RESPEITO AO PRINCÍPIO DA AMPLA DEFESA. NULIDADE DO TÍTULO. DESPROVIMENTO DO APELO. MANUTENÇÃO DO DECISUM. REGIMENTAL DESPROVIDO.
+- Realizado o confronto entre a certidão da dívida ativa que embasou a execução fiscal (ID"s 10525818 - Pág. 1 e 10525842 - Pág. 1) com as disposições dos artigos 202 do CTN e 2º, §5º, da LEF, verifica-se a ausência da indicação expressa de quais incisos do dispositivo 106 do RICMS foram descumpridos para a origem do débito em apreço, comprometendo a essência da CDA e prejudicando, assim, a defesa da parte executada.
+- AGRAVO DE INSTRUMENTO. Município de Porto Feliz. Execução fiscal. Nulidade da CDA. Ocorrência. Indicação genérica do fundamento legal da dívida e da forma de se calcular os juros de mora acrescidos. Ausência de emenda ou substituição da CDA. Providência que cabe ao Fisco, sendo despropositada a provocação nesse sentido por parte do Poder Judiciário. Título executivo cuja existência é pressuposto de constituição e desenvolvimento válido e regular do processo de execução. Precedentes. Litigância de má-fé da agravante não caracterizada. RECURSO PROVIDO. (TJSP; AI 2202518-47.2020.8.26.0000; Ac. 14046123; Porto Feliz; Décima Oitava Câmara de Direito Público; Rel. Des. Henrique Harris Júnior; Julg. 01/10/2020; DJESP 20/10/2020; Pág. 2390)
+- EXECUÇÃO FISCAL. IPTU E TAXAS DOS EXERCÍCIOS DE 2013 A 2015. NULIDADE DA CDA. Não preenchimento dos requisitos legais (arts. 202, 203 do CTN C.C. Art. 2º, §5º da LEF). Há relevante inconsistência no apontamento da fundamentação legal. O título menciona apenas a Lei nº 1.802/69 (e seus artigos 95 e 97, dispositivos de conceituação genérica) para embasar todos os tributos lançados. Inexistem, também, informações acerca dos fundamentos legais específicos das taxas de coleta de lixo, limpeza pública, bem como prevenção e extinção de incêndios. Além disso, limita-se o exequente a indicar os artigos pelos quais se computam a multa, os juros e a correção monetária, sem, no entanto, especificar a forma de calculá-los sobre cada tributo individualmente. Inadmissibilidade de emenda ou substituição. Prejuízo de defesa caracterizado. Sentença extintiva mantida. Nega-se provimento ao recurso. (TJSP; AC 1519783-02.2016.8.26.0564; Ac. 14018757; São Bernardo do Campo; Décima Oitava Câmara de Direito Público; Relª Desª Beatriz Braga; Julg. 30/09/2020; DJESP 05/10/2020; Pág. 2782
+- Inexistindo argumentos novos capazes de infirmar os fundamentos que alicerçaram a decisão agravada, sua manutenção é medida que se impõe.
+Os Embargos de Declaração foram rejeitados.
+O recorrente alega ofensa ao art. 202 do CTN e ao art. 2º, § 5º, da Lei 6.830/1980.
+Sem contrarrazões.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 8.8.2022.
+O acórdão recorrido consignou:
+Consoante exposto no decisório recorrido, a CDA que embasou a execução fiscal não atende as disposições contidas nos artigos 202 do CTN e 2º, §5º, da LEF, ante a ausência da indicação expressa de quais incisos do dispositivo 106 do RICMS foram descumpridos para a origem do débito em apreço, sendo certo que, de acordo a jurisprudência do STJ, eventual nulidade do título executivo pode ser aferida de ofício, por ser matéria de ordem pública.
+(..)
+Quanto à suposta nulidade da sentença primeva, por cerceamento de defesa do exequente, ressalto que tal temática somente foi arguida nas razões do Agravo Interno, não merecendo ser conhecida, por constituir indevida inovação recursal.
+Portanto, inexistindo argumentos novos capazes de infirmar os fundamentos que alicerçaram a decisão agravada, sua manutenção é medida que se impõe. (fls. 132-134, e-STJ)
+Ao analisar minuciosamente o caso dos autos, o Tribunal de origemjulgou que a CDA não preenche os requisitos do art. 202 do CTN e doart. 2º, § 5º, da LEF.Rever esse entendimentocom o objetivo de acolher o apelo da partedemanda revolver matéria fática, o que é inviável em Recurso Especialante o óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial".
+Por tudo isso, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
