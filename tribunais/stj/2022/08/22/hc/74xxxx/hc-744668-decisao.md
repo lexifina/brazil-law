@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor dePAULO SILAS CONDE, SAMUEL CONDE e LOURENÇO AUGUSTO CONDE em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (Apelação Criminal n. 0005141- 91.2018.8.26.0576).
+O acórdão foi assim ementado (fl. 13):
+APELAÇÃO HOMICIDIO QUALIFICADO TENTADO ALEGAÇÃO DE NULIDADE NA QUESITAÇÃO. NÃO ACOLHIMENTO. PEDIDO DE NOVO JULGAMENTO POR DECISÃO DO JÚRI MANIFESTAMENTE CONTRÁRIA Á PROVA DOS AUTOS.INVIABILIDADE. MANTIDA A SOBERANIA DO CONSELHO DE SENTENÇA. PENA DE LOURENÇO REDIMENSIONADA. REGIME PRISIONAL ADEQUADO. REJEITADA A PRELIMINAR. RECURSO DE LOURENÇO PARCIALMENTE PROVIDO.
+Interpostos embargos de declaração, foram rejeitados (fl. 40).
+A defesa alega a ocorrência de constrangimento ilegal pelautilização da fração mínima para reduzir a pena em razão da tentativa, visto que foi exposta fundamentação inidônea.
+Aponta contradição entre os fundamentos utilizados pelo Juízo de origem e pelo Tribunal a quo para aplicação da fração de 1/3.
+Requer a concessão da ordema fim de que seja aplicadaa redução referente àtentativa no patamar de 1/2.
+O pedido de liminar foi indeferido às fls. 34-35.
+As informações foram prestadas às fls. 39-76e 77-79.
+O Ministério Público Federal manifestou-se pelo não conhecimento do writ oudenegação da ordem(fls. 83-86).
+A defesa, napetição de fl. 88, manifestou interesse em realizar sustentação oral no julgamento do mérito do presente writ.
+É o relatório. Decido.
+De início, destaco o não conhecimento do pedido de fl. 88, visto que, nos termos da jurisprudência do STJ, o pronunciamento judicial unilateral do relator inviabiliza o atendimento a eventual pleito de sustentação oral, situação que não caracteriza cerceamento de defesa, tampouco fere o princípio da colegialidade (AgRg no HC n. 736.349/PR, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 16/5/2022).
+Ainda que inadequada a impetração dehabeas corpusem substituição à revisão criminal ou ao recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o STJ considera passível de correção de ofício o flagrante constrangimento ilegal.
+Não se constata a existência de flagrante constrangimento ilegal que autorize a atuação ex officio.
+O Tribunal de origem manteve a utilização da menor fração para reduzir a pena em razão da tentativa (fração de 1/3). Consignouque foi trilhado todo o iter criminis, causando graves lesões à vítima, conforme se vê do seguinte trecho do acórdão recorrido (fl. 29):
+E, na derradeira fase, mister proceder à redução em um terço, porque trilharam todo o iter criminis, bem como a gravidade das lesões experimentadas pela vítima (a violência do golpe fraturando 6 arcos costais com a facada na região mamária direita da vítima), dali se evadindo, assim que perceberam que a testemunha Gisele havia saído do local para acionar a Polícia Militar, de modo que a pena resulta em 10 anos, 10 meses e 20 dias de reclusão para LOURENÇO e PAULO e 9 anos e 4 meses de reclusão para SAMUEL.
+No caso, o fundamento adotado pelo Tribunal de origem é idôneo e está de acordo com a jurisprudência do STJde que a fraçãoaplicada para diminuição da pena do crime tentado é empregada de forma inversamente proporcional à aproximação do resultado representado. Assim quanto maior o iter criminis percorrido pelo agente, menor será a fração da causa de diminuição.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TENTATIVA DE HOMICÍDIO. DOSIMETRIA. PENA-BASE. CONSEQUÊNCIAS. VALORAÇÃO NEGATIVA. EXTENSÃO DO DANO À VÍTIMA. FRAÇÃO DE REDUÇÃO. ITER CRIMINIS PERCORRIDO. BIS IN IDEM. INOCORRÊNCIA.
+ ..
+3. A fração de diminuição em razão da tentativa (1/3) restou fixada em razão do iter criminis percorrido,o réu deu facadas no olho e espancou a vítima, que perdeu todos os dentes e a visão, permanecendo no hospital por meses, pelo que não há como infirmar a decisão proferida pelas instâncias ordinárias. A (eventual) conclusão de que o iter criminis não se aproximou do resultado consumativo demandaria incursão na esfera fático-probatória dos autos, inviável em habeas corpus. Precedentes.
+4. Agravo regimental improvido.(AgRg no HC n. 688.185/SP, relator Ministro Olindo Menezes, Sexta Turma, DJe de 7/4/2022, destaquei.)
+PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. HOMICÍDIO DUPLAMENTE QUALIFICADO. TENTATIVA. DOSIMETRIA. VÍTIMA QUE FICOU PARAPLÉGICA. CONSEQUÊNCIAS DO DELITO. REDUÇÃO PELA TENTATIVA NO PATAMAR MÍNIMO. BIS IN IDEM NÃO CONFIGURADO. ITER CRIMINIS PERCORRIDO. TIRO QUE ATINGIU REGIÃO VITAL, RESULTANDO EM PARAPLEGIA. INEXISTÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+3. O Código Penal, em seu art. 14, II, adotou a teoria objetiva quanto à punibilidade da tentativa, pois, malgrado semelhança subjetiva com o crime consumado, diferencia a pena aplicável ao agente doloso de acordo com o perigo de lesão ao bem jurídico tutelado. Nessa perspectiva, a jurisprudência desta Corte adota critério de diminuição do crime tentado de forma inversamente proporcional à aproximação do resultado representado: quanto maior o iter criminis percorrido pelo agente, menor será a fração da causa de diminuição.
+4. No caso, a pena restou reduzida em 1/3 por terem as instâncias ordinárias, de forma motivada, reconhecido que o acusado realizou o bastante para atingir o resultado criminoso, pois o evento morte apenas não foi alcançado por pouco, já que a vítima foi atingida em local vital, tanto que sofreu paraplegia em razão dos tiros disparados pelo executor do crime, sendo de rigor a manutenção do redutor mínimo, sob o título de causa de diminuição de crime tentado. De mais a mais, o acolhimento do inconformismo, segundo as alegações vertidas nas razões do remédio heróico, demanda o revolvimento da matéria probatória, situação vedada no âmbito da via eleita.
+ ..
+6. Agravo regimental não provido. (AgRg no HC n. 708.681/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 14/2/2022, destaquei.)
+RECURSO ESPECIAL. PENAL E PROCESSO PENAL. HOMICÍDIO. NULIDADES. NÃO CONFIGURAÇÃO. PREJUÍZO. NÃO DEMONSTRADO. PRINCÍPIO DO PAS DE NULLITÉ SANS GRIEF. DOSIMETRIA. VIOLAÇÃO DO ART. 59 DO CP. CONSEQUÊNCIAS DO DELITO. DEBILIDADE PERMANENTE. FUNDAMENTAÇÃO IDÔNEA. ESCOLHA DA FRAÇÃO DA TENTATIVA. FUNDAMENTO IDÔNEO.
+ ..
+3. No que diz respeito à escolha da fração redutora em razão da tentativa, essa deve ser feita de forma inversamente proporcional ao iter criminis percorrido.
+4. Recurso especial a que se nega provimento. (REsp n. 1.660.508/RS, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe de 24/11/2017, destaquei.)
+Por fim, tanto na sentença quanto no acórdão, a fundamentação utilizadapara justificar a fração de diminuição pela tentativa no patamar de 1/3 refere-se aoiter criminispercorrido e àgravidade das lesões provocadas na vítima, sendo, portanto, infundada a alegação de divergência de fundamentação entre as decisões.
+No mais,rever tal entendimento para concluir pelaaplicação da fração de 1/2 pela tentativa, conforme pleiteia a defesa, demandaria o reexame aprofundado de matéria fático-probatória, incompatível com a via do habeas corpus. A propósito:
+DIREITO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. HOMICÍDIO QUALIFICADO TENTADO, LESÃO CORPORAL, AMEAÇA, DANO QUALIFICADO, RESISTÊNCIA E DESACATO. DOSIMETRIA. PEDIDO DE DIMINUIÇÃO DA PENA-BASE. ALEGAÇÃO DE QUE A CONDIÇÃO DE VEREADOR É INIDÔNEA PARA MAJORAR A PENA MÍNIMA. ELEMENTO HÁBIL PARA EXASPERAR A PENA-BASE. PLEITO DE APLICAÇÃO DA ATENUANTE DA CONFISSÃO ESPONTÂNEA. TESE NÃO ENFRENTADA PELA CORTE ORIGINÁRIA. SUPRESSÃO DE INSTÂNCIA. DEMANDA PARA AUMENTAR O PERCENTUAL DE DIMINUIÇÃO DE PENA EM RAZÃO DA TENTATIVA. ITER CRIMINIS ANALISADO PELO TRIBUNAL LOCAL. ADOÇÃO DA FRAÇÃO DE 1/3 (UM TERÇO). IMPOSSIBILIDADE DE MODIFICAÇÃO. REEXAME DE PROVAS. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+V - No caso em apreço, a Corte local aplicou a redução pela tentativa em 1/3 (um terço), tendo em vista o iter criminis percorrido pelo agente. Neste contexto, não se vislumbra ilegalidade perpetrada a ser reparada. Ademais, o acolhimento do inconformismo, segundo as alegações vertidas nas razões do especial, demanda o revolvimento do acervo fático-probatório dos autos, situação vedada no âmbito do remédio heroico. A propósito: AgRg no AREsp n. 1.186.234/MS, Quinta Turma, Rel. Min. Reynaldo Soares Da Fonseca, DJe de 19/02/2018; e HC n. 476.241/SC, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 19/12/2018.
+Agravo regimental desprovido.(AgRg no HC n. 666.062/PR, relator Ministro Jesuíno Rissato, Quinta Turma, DJe de 5/10/2021, destaquei.)
+Ante o exposto,com fundamento no art. 34, XX, do RISTJ,não conheço do presentehabeas corpus.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
