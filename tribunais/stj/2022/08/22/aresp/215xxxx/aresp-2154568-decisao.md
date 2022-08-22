@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo (art. 1.042 do CPC/15) interposto por ITAU UNIBANCO S.A., contra decisão que não admitiu o recurso especial doinsurgente.
+O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a" da Constituição Federal, desafia acórdão proferido pelo Tribunal de Justiça do Estado do Mato Grosso do Sul, assim ementado (fl. 264, e-STJ):
+APELAÇÕES CÍVEIS - AÇÃO DECLARATÓRIA DE NULIDADE/INEXIGIBILIDADE DE DESCONTO EM FOLHA DE PAGAMENTO/AUSÊNCIA DO EFETIVO PROVEITO C/C REPETIÇÃO DE INDÉBITO E DANOS MORAIS - CONTRATO INVÁLIDO - AUSÊNCIA DE COMPROVAÇÃO DA RELAÇÃO JURÍDICA - REPETIÇÃO DE INDÉBITO E INDENIZAÇÃO POR DANOS MORAIS - RESPONSABILIDADE OBJETIVA - ART. 14 DO CÓDIGO DE DEFESA DO CONSUMIDOR - REDUÇÃO DO QUANTUM INDENIZATÓRIO ARBITRADO EM PRIMEIRO GRAU - VEDAÇÃO AO ENRIQUECIMENTO SEM CAUSA - MULTIPLICIDADE DE DEMANDAS DA MESMA NATUREZA - JUROS DE MORA - RESPONSABILIDADE EXTRACONTRATUAL - TERMO INICIAL - EVENTO DANOSO - RECURSOS DESPROVIDOS.
+As instituições bancárias tem a obrigação de envidar todos os esforços para repelir a ocorrência de fraudes na contratação de empréstimos consignados, devendo responder pelos danos causados àquele que, embora conste como titular do mútuo, não o realizou efetivamente.
+Deve ser reduzido o valor arbitrado a título de danos morais que não se revela razoável e adequado às finalidades ressarcitória e punitiva inerentes à responsabilidade civil, sobretudo considerando a multiplicidade de demandas e de contratos em nome da mesma parte.
+Em se tratando de responsabilidade civil extracontratual, é inafastável a incidência da Súmula nº 54 do Superior Tribunal de Justiça, segundo a qual os juros devem fluir do evento danoso.
+Os embargos de declaração foram rejeitados (fls. 293-296, e-STJ).
+Nas razões do recurso especial (fls. 301-308, e-STJ), o insurgente alegou que o acórdão recorrido violou o artigo 1022 do CPC/15, aduzindo que não foram sanadas as omissões apontadas no julgado.
+Em juízo de admissibilidade, o Tribunal a quo inadmitiu o recurso especial (fls. 321-322, e-STJ), dando ensejo a interposição do presente agravo (fls. 326-329, e-STJ).
+Não foi apresentada contraminuta (fl. 333, e-STJ).
+É o relatório.
+Decide-se.
+O inconformismo não merece prosperar.
+1. O recorrente aponta violação ao artigo 1.022, I e II do CPC/15, sob o fundamento de que o Tribunal local incorreu em omissão acerca da: "necessidade de restituição dos valores emprestados, acaso mantida a declaração de nulidade dos empréstimos, sob pena de violação ao enriquecimento sem causa (art. 884, CC) e quanto à inexistência de ato ilícito e dano moral (arts. 186 e 927 do CC)." (fl. 306, e-STJ).
+Da leitura do aresto embargado, verifica-se que a alegada violação não se configura, na medida em que a Corte Estadual, ao apreciar os recursos interpostos pela parte, dirimiu de forma clara e integralmente a controvérsia, sem omissões, abordando as teses apontadas, porém em sentido contrário ao pretendido pela recorrente, como se vê dos seguintes trechos do decisum (fl. 295, e-STJ, grifou-se):
+Ao ver da embargante, o acórdão é omisso porque a documentação acostada ao processo comprova a realização da operação e o repasse do empréstimo no valor de R$ 684,41 em 27/12/2016, cuja transação foi feita via utilização de cartão e senha da embargada. Entretanto, como restou decidido, a parte autora relata ter sido surpreendida com a informação de um contrato de empréstimo bancário em seu nome, no valor de R$ 2.462,30 (dois mil quatrocentos e sessenta e dois reais e trinta centavos).
+Com efeito, ainda que a instituição financeira defenda que o contrato em discussão é advindo da renegociação do contrato de nº 03132986-5, com liberação de "troco" no valor de R$ 684,41 reais, em conta corrente da própria parte autora, tal negociação não fora comprovada à saciedade, justificando a procedência do pleito autoral. Ademais, há de consignar que a eventual restituição do suposto numerário emprestado à parte autora deveria ter sido objeto de reconvenção.
+Como visto, a tese da insurgente foi apreciada pelo Tribunal a quo, que a afastou apontando os fundamentos jurídicos para tal.
+Não há que se falar, portanto, em omissão, sendo certo que os embargos de declaração não se constituem via própria para rejulgamento da causa, não havendo espaço para análise de inconformismo quanto ao entendimento adotado.
+Nesse sentido: AgInt no AgInt no AREsp 1539179/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 17/02/2020, DJe 19/02/2020; EDcl no AgInt no AREsp 698.731/RS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 11/05/2020, DJe 14/05/2020.
+Afasta-se, portanto, a alegada ofensa ao artigo 1.022, I e II do CPC/15.
+2. Do exposto, com amparo no artigo 932 do CPC/15 c/c a Súmula 568/STJ, nega-se provimento ao agravo em recurso especial e, com base no art. 85, § 11, do CPC/2015, majora-se os honorários sucumbenciais em 10% (dez por cento), incidentes sobre o valor já arbitrado pela origem (fl. 270, e-STJ), em favor da parte recorrida.
+Publique-se.
+Intimem-se.
