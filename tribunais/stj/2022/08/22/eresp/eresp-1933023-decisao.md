@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de embargos de divergência interpostos por RENAN FOGANHOLO GONÇALVES contra acórdão da Quarta Turmaque manteve a inadmissibilidade do recurso especial por intempestividade e foi assim ementado:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO ORDINÁRIA. DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO RECLAMO EM RAZÃO DA SUA INTEMPESTIVIDADE.
+1.É intempestivo o recurso especial interposto após o prazo de 15 (quinze) dias úteis previsto nos artigos 219 e 1.003, § 5º, do CPC/15.
+1.1.Esta Corte Superior entende que a simples menção, no bojo das razões recursais, da ocorrência do feriado local não é meio idôneo para a comprovação da suspensão do prazo processual, a teor do art. 1.003, § 6º, do CPC/15. Precedentes.
+1.2.Para efeito de tempestividade, a prova do feriado local ou suspensão do expediente forense deve ser feita pela parte interessada por meio de documento idôneo, providência não atendida na hipótese. Precedentes.
+1.3.A Corte Especial, no julgamento doARESP 1.481.810/SP, afetado pela Quarta Turma, reafirmou o entendimento de que é preciso comprovar a ocorrência de feriado local no ato de interposição do recurso, nos termos do § 6º do artigo 1.003 do CPC/15. Portanto, para os recursos sujeitos aos requisitos de admissibilidade do referido diploma processual, não se admite a comprovação posterior da suspensão do expediente forense em decorrência de feriado local.
+1.4.Segundo a modulação de efeitos determinada pela Corte Especial noREsp 1.813.684/SP, a possibilidade de comprovação da ocorrência de feriado local restringe-se apenas ao feriado de segunda-feira de carnaval, em recursos interpostos até a data da publicação do acórdão mencionado, que não é o caso dos autos.
+2.Agravo interno desprovido.
+O embargante suscita divergência com julgados do Supremo Tribunal Federal - AgRg no RE n. 626.358/MG eEDcl no AgRg no AI n. 621.929-5/PR -e com os seguintes paradigmas doSuperior Tribunal de Justiça:
+a) AgRg no REsp. n.137.141/SE, Corte Especial, DJe de 15/10/2012, em que se admitiu a comprovação posterior da tempestividade do recurso especial, em agravo regimental;e
+b) EDcl nos EREsp n. 884.009/RJ, Corte Especial, DJe de 4/11/2016, em que se entendeu que a comprovação do feriado local poderia ser suprida pela junção de dois fatores, a saber: afirmação do recorrente de que houve feriado local ereconhecimento pelo tribunal de origem de que era efetivamente feriado, ainda que apenas implicitamente, quando admitido o recurso especial.
+É o relatório. Decido.
+A finalidade dos embargos de divergência é a uniformização da jurisprudência do Superior Tribunal de Justiça ante a adoção de teses conflitantes pelos seus órgãos fracionários na decisão de casos similares, não se prestando, para fins de dissenso, julgados de outras cortes, inclusive do Supremo Tribunal Federal.
+Para a admissão dos embargos de divergência, é imprescindívelque a parte embargante comprove o dissídio jurisprudencial mediante cotejo analítico e demonstração da similitude fático-jurídica entre os arestos confrontados, conforme o § 4º do art. 1.043 do CPC de 2015,sendo insuficiente a simples transcrição de ementas, como no caso.
+Ademais, inexiste similitude fática na medida em que o acórdão embargado analisou recurso especial interposto sob a égide do CPC de 2015, que não admite comprovação da tempestividade do recurso posteriormente ao ato de sua interposição, enquanto os paradigmas colacionados examinaram hipóteses de recursos interpostos na vigência do CPC de 1973.
+Ante o exposto,rejeito liminarmente os embargos de divergência.
+Nos termos do § 11 do art. 85 do CPC, majoro os honorários advocatícios em desfavor da parte ora recorrente em 10% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal.
+Publique-se. Intimem-se.
