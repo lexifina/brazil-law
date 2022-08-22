@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por POPP & NALIN ADVOGADOS ASSOCIADOScontra decisão que negou seguimento ao seu apelo nobre manejado, por sua vez, contra acórdão do Tribunal de Justiça doParaná, assim ementado:
+AGRAVO DE INSTRUMENTO. AÇÃO REVISIONAL DE ALUGUEL. PEDIDO DE SUSPENSÃO DO FEITO ATÉ O JULGAMENTO DE EMBARGOS DE TERCEIRO, EM QUE SE DISCUTE A POSSE DO MESMO IMÓVEL, OBJETO DO CONTRATO DE LOCAÇÃO. DECISÃO AGRAVADA QUE INDEFERIU O PEDIDO DE SUSPENSÃO DO FEITO. PRELIMINAR DE NÃO CONHECIMENTO DO RECURSO. DECISÃO AGRAVADA QUE NÃO SE ENQUADRA NO ROL DO ARTIGO 1.015. APLICAÇÃO DA TEORIA DA TAXATIVIDADE MITIGADA. VERIFICADA URGÊNCIA DECORRENTE DA INUTILIDADE DO JULGAMENTO DA QUESTÃO NO RECURSO DE APELAÇÃO. CONHECIMENTO DO RECURSO. MÉRITO. SUSPENSÃO DO FEITO. DESNECESSIDADE. DECISÃO ANTERIOR QUE JÁ HAVIA CONSIGNADO A AUSÊNCIA DE PREJUDICIALIDADE EXTERNA ENTRE A AÇÃO REVISIONAL E OS EMBARGOS DE TERCEIRO. NÃO IMPUGNAÇÃO OPORTUNA. AÇÕES QUE POSSUEM CAUSA DE PEDIR E PEDIDOS DISTINTOS. AUSÊNCIA DE TURBAÇÃO DA POSSE OU POSSIBILIDADE DE PROLAÇÃO DE DECISÕES CONFLITANTES. DECISÃO MANTIDA. RECURSO IMPROVIDO.
+1. Em que pese não abarcada pelo rol do artigo 1.015, a decisão que indefere o pedido de suspensão do feito é impugnável, via recurso de agravo de instrumento, pela aplicação da teoria da taxatividade mitigada, entendimento este extraído do julgamento do REsp nº 1.696.396/MT, julgado sob o rito dos recursos repetitivos.
+2. A postergação da análise do pedido de suspensão do feito para as preliminares de apelação tem o condão de acarretar risco ao resultado útil do processo, além de tornar inócua a medida eventualmente deferida, eis que o se busca, justamente, é a imediata paralisação da marcha processual.
+3. A questão da prejudicialidade externa já foi apreciada pela decisão saneadora de mov. 1.91, oportunidade em que o juízo entendeu pela desnecessidade da reunião dos presentes autos com os embargos de terceiro nº 0001858-23.2015.8.16.0001, porse tratar de ações substancialmente diversas, com causas de pedir e pedidos próprios, entendo pela inexistência de conexão. Cabia ao agravante insurgir-se contra esta decisão, mediante interposição de recurso cabível, o que obsta, a posterior discussão da questão, eis que preclusa.
+4. A continuidade do presente feito de forma alguma causa perigo de lesão à posse sobre imóvel, vez que apenas se discute a revisão dos aluguéis referentes a tal bem, não havendo que se falar em turbação à posse, conforme alega a recorrente. Os pedidos e a causa de pedir são distintas, não havendo a possibilidade de ser proferidas decisões conflitantes.
+5. Ainda que não se desconheça que que o Juízo da 15ª Vara Cível do Foro Central da Comarca da Região Metropolitana de Curitiba determinou a suspensão da ação de despejo nº0007271-15.2018.8.16.0194, a qual tem por escopo o imóvel objeto do contrato de locação que se pretende revisar, há que se destacar que as ações possuem naturezas diversas, sendo claro, no caso dos autos de despejo, a necessidade da suspensão ante a iminente turbação da posse (e-STJ Fls. 90/91).
+Os embargos declaratórios opostos foram rejeitados, conforme ementa a seguir transcrita:
+EMBARGOS DE DECLARAÇÃO CÍVEL. AUSÊNCIA DE CONTRADIÇÃO, OMISSÃO OU ERRO MATERIAL NO ACÓRDÃO. OBSCURIDADE VERIFICADA. INEXISTÊNCIA DE PRECLUSÃO. VÍCIO SANADA. EMBARGOS PARCIALMENTE ACOLHIDOS, SEM ATRIBUIÇÃO DE EFEITOS INFRINGENTES.
+Irresignado, POPP & NALIN ADVOGADOS ASSOCIADOSinterpôsrecurso especial com base no art. 105, III,a, da CF, apontando a violação dos arts. 313, V, a, 489, § 1º, IV, e 1.022 do CPC, sob o argumento de: (1) omissão e ausência de fundamentação por parte do acórdão recorrido que não considerou o perigo de lesão sobre a posse do imóvel e a hipótese de haver decisões conflitantes ao indeferir a suspensão desta demanda até julgamento dos embargos de terceiro em trâmite na 19ª Vara de Curitiba; e (2) prejudicialidade externa com os embargos de terceiro, em que se discute a posse e a propriedade do imóvel locado, tendente a influenciar a revisional de aluguel aqui discutida.
+O recurso não foi admitido pelo Tribunal de Justiça do Paraná, por inexistir, no caso, ausência de fundamentação e por incidir o teor da Súmula n.º 7 do STJ(e-STJ, fls. 165/167).
+Nas razões do presente agravo, POPP & NALIN ADVOGADOS ASSOCIADOSrefutaos referidos óbices de prelibação (e-STJ, fls. 172/184).
+Foiapresentada contraminuta (e-STJ, fls. 188/191).
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial.
+(1) Da omissão e ausência de fundamentação
+Nas razões do seu recurso, POPP & NALIN ADVOGADOS ASSOCIADOS alegou violação dos arts. 489 e 1.022 do CPC, sobo argumento deomissão e ausência de fundamentação por parte do acórdão recorrido que não considerou o perigo de lesão sobre a posse do imóvele a hipótese de haver decisões conflitantesao indeferir a suspensão desta demanda até julgamento dos embargos de terceiro em trâmite na 19ª Vara de Curitiba.
+Todavia, não se vislumbra nos autos omissão ou ausência de fundamentação no julgado recorrido, porquanto o TJPR decidiu a lide de maneira clara e fundamentada, não havendo falar em violação dos artigos arrolados, mas tão somente em julgamento contrário à pretensão do recorrente.
+Dessa forma, forçoso reconhecer que a pretensão recursal ostenta caráter nitidamente infringente, visando rediscutir matéria que já foi analisada.
+A jurisprudência desta Casa é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+(2) Da prejudicialidade externa e a hipótese de suspensão do presente feito
+POPP & NALIN ADVOGADOS ASSOCIADOSafirmou a violação doart. 313, V, do CPCsustentando prejudicialidade externa com os embargos de terceiro, em que se discute a posse e a propriedade do imóvel locado, tendente a influenciar a revisional de aluguel aqui discutida.
+Sobre o tema proposto, o TJPR consignou que:
+Assim, não se vislumbra que o agravante logrou êxito em demonstrar a necessidade de suspensão do feito, até o julgamento dos Embargos de Terceiro nº 0001858-23.2015.8.16.0001, vez que os pedidos e a causa de pedir são distintas, não havendo a possibilidade de ser proferidas decisões conflitantes. Caso sejam julgados procedentes os embargos de terceiro, confirmando que aposse da agravante decorre da aquisição da propriedade, a ação revisional de locação deverá ser extinta, modo contrário, subsistirá a intenção de adequação do valor do aluguel para os valores atuais de mercado.
+Por fim, ainda que não se desconheça que que o Juízo da 15ª Vara Cível do Foro Central da Comarca da Região Metropolitana de Curitiba determinou a suspensão da ação de despejo nº 0007271-15.2018.8.16.0194, a qual tem por escopo o imóvel objeto do contrato de locação que se pretende revisar, há que se destacar que as ações possuem naturezas diversas, sendo claro, no caso dos autos de despejo, a necessidade da suspensão ante a iminente turbação da posse (e-STJ Fl.96).
+Assim, rever as conclusões quanto aprejudicialidade dos embargos de terceiros em relação a este processo demandaria, necessariamente, reexame do conjunto fático-probatório dos autos, o que é vedado em razão do óbice da Súmula n.º7 do STJ.
+Nesse sentido, confira-se a jurisprudência desta Corte:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO - IRRESIGNAÇÃO DA RÉ.
+(..)
+1.1 O Tribunal de origem, examinando as circunstâncias da causa, afastou a hipótese de suspensão do processo, concluindo pela inexistência de prejudicialidade externa. A alteração de tais premissas demandaria o reexame do acervo fático-probatório dos autos, providência vedada na via estreita do recurso especial, a teor da Súmula 7/STJ.
+(..)
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 1.961.397/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 14/3/2022, DJe de 21/3/2022)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IMISSÃO NA POSSE. ALIENAÇÃO FIDUCIÁRIA. PROPRIEDADE. CONSOLIDAÇÃO. PREJUDICIALIDADE EXTERNA. MATÉRIA DE FATO. SÚMULA Nº 7/STJ. FUNDAMENTO. IMPUGNAÇÃO. AUSÊNCIA. SÚMULA Nº 283/STF. SUSPENSÃO. INOCORRÊNCIA. PRECEDENTES.
+(..)
+2. Na hipótese, a verificação da prejudicialidade externa demanda o reexame das circunstâncias fáticas dos autos, o que é defeso na instância especial. Súmula nº 7/STJ.
+(..)
+4. Agravo interno não provido.
+(AgInt no AREsp n. 974.060/MS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 17/10/2017, DJe de 27/10/2017)
+Por tais razões, não se pode conhecer do recurso.
+Nessas condições, com fundamento no art. 1.042, § 5º, do NCPC, c/c o art. 253 do RISTJ (com a nova redação que lhe foi dada pela Emenda nº 22 de 16/3/2016, DJe 18/3/2016), CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO INTERPOSTO SOB A ÉGIDE DO NCPC. AGRAVO DE INSTRUMENTO. AÇÃO REVISIONAL DE ALUGUEL. DEFICIÊNCIA NA FUNDAMENTAÇÃO. NÃO OCORRÊNCIA. EMBARGOS DE TERCEIRO. PREJUDICIALIDADE EXTERNA. AFASTAMENTO. REVISÃO. IMPOSSIBILIDADE. REEXAME FÁTICO-PROBATÓRIO. SÚMULA N.º 7 DO STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
