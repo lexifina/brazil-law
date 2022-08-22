@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+APELAÇÕES. MEDIDA CAUTELAR DE SUSTAÇÃO DE PROTESTO E AÇÃO PRINCIPAL DECLARATÓRIA DE INEXIGIBILIDADE DE TÍTULO (CHEQUES) C/C INDENIZAÇÃO POR DANO MORAL. CONTRATAÇÃO DE SERVIÇO DE ELABORAÇÃO DE PARECER JURÍDICO. ALEGAÇÃO DE INSUFICIÊNCIA DO DOCUMENTO, POR CONTEÚDO EQUIVOCADO E INEXATIDÕES. PAGAMENTO. SUSTAÇÃO BANCÁRIA DE CHEQUES PELA AUTORA E TÍTULOS LEVADOS A PROTESTO PELO CREDOR. TESES EXORDIAIS DE INSUBSISTÊNCIA DO PROTESTO, EXCEÇÃO DE CONTRATO NÃO CUMPRIDO, ABATIMENTO DO PREÇO E INEXIGIBILIDADE DO SALDO REMANESCENTE REPRESENTADO PELOS CHEQUES. SENTENÇA DE IMPROCEDÊNCIA. APELO DA AUTORA. PARCIAL CONHECIMENTO. INOVAÇÃO RECURSAL QUANTO À TESE DE INCIDÊNCIA DO CÓDIGO DE DEFESA DO CONSUMIDOR. NA PARTE CONHECIDA, NÃO ACOLHIMENTO DO RECURSO. PARECER COMPATÍVEL COM OS TERMOS DO CONTRATO ESCRITO DE PRESTAÇÃO DE SERVIÇOS. CONTEXTO FÁTICO DE ADEQUAÇÃO DO OBJETO DO PARECER À PRETENSÃO DA CONSULENTE EXPOSTA EM CLÁUSULA CONTRATUAL. EVENTUAL MÁ-COMUNICAÇÃO ENTRE OS ENVOLVIDOS OU INSATISFAÇÃO COM O CONTEÚDO DO PARECER QUE NÃO ESCUSAM O PAGAMENTO, NA MOLDURA DO CASO EM CONCRETO. SENTENÇAS ESCORREITAS, NA AÇÃO CAUTELAR E NA AÇÃO PRINCIPAL. RECURSOS PARCIALMENTE CONHECIDOS E, NESTA EXTENSÃO, DESPROVIDOS.
+Opostos embargos de declaração, esses foram rejeitados na origem.
+Nas razões do especial, aponta a agravante violação do artigo 476 do Código Civil.
+Defende que não deve suportar o ônus do pagamento dos cheques emitidos em favor da parte adversa, diante da exceção do contrato não cumprido pela falha na prestação de serviço.
+Assim delimitada a controvérsia, passo a decidir.
+No tocante à higidez das cambiais objeto da ação, observo que o Tribunal de origem, com base nos fatos e provas dos autos, concluiu pelo cumprimento das formalidades das cambiais e pela incontroversa prestação de serviço, não tendo a embargante logrado êxito em contrapor os fatos alegados, como se extrai dos seguintes trechos (fls. 805-811, e-STJ):
+3.1. A solução da causa passa pela análise do contrato, do parecer elaborado e do contexto fático que envolveu a contratação.
+Primeiramente, a mera insatisfação com o serviço prestado não é, por si só, causa de inexigibilidade do pagamento.
+(..)
+O parecer jurídico (mov. 1.12), diferentemente do que sustenta a apelante em todo o curso processual, menciona suficientemente o caso concreto a partir de resumo dos autos de mandado de segurança, concluindo pela proteção da posse da consulente sobre o imóvel público.
+(..)
+3.4. Confrontando o conteúdo do parecer com o disposto na cláusula primeira do contrato, é possível concluir que o requerido adimpliu a obrigação quanto ao escopo ajustado, fazendo jus à integralidade do pagamento, considerando que: i) analisou o caso concreto e os documentos constantes do mandado de segurança; ii) articulou doutrina e jurisprudência ao instituto da posse em relação à permuta/doação de imóvel público, ou seja, sob tal perspectiva; e iii) emitiu posição favorável ao consulente, no sentido da existência de posse a respaldar a pretensão possessória que viria a ser pleiteada em Juízo.
+O contexto processual dá ares de que pode ter havido má-comunicação entre os envolvidos, o que, contudo, não confere margem para escusa de pagamento.
+(..)
+Assim é que, os apontamentos feitos pela apelante e desairosos ao trabalho prestado, não são desabonos que caracterizem inadimplemento da obrigação.
+O acolhimento das razões do recurso especial, a fim de demover a compreensão da Corte de origem e, com isso, descaracterizar a responsabilidade da agravante, demandaria reexame de matéria fática, o que esbarra na Súmula 7 do STJ (AgRg no Ag n. 1.401.636/PR, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 8/9/2015).
+Em conformidade, cito o seguinte precedente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. TÍTULO DE CRÉDITO. EXCEÇÃO DE CONTRATO NÃO CUMPRIDO. DISSÍDIO JURISPRUDENCIAL. SÚMULAS 5 E 7 DO STJ. FALTA DE SIMILITUDE FÁTICA. MULTA DO ART. 1.021, §4º, DO CPC. NÃO CABIMENTO. AGRAVO NÃO PROVIDO.
+1. Rever o acórdão recorrido e acolher a pretensão recursal demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, assim como a interpretação de cláusulas contratuais, providências vedadas em sede de recurso especial, nos termos das Súmulas 5 e 7 do STJ.
+2. Segundo a jurisprudência desta Corte, a incidência das Súmulas 5 e 7 também obsta o apelo nobre pela alínea c do permissivo constitucional, na medida em que ausente a similitude fático-jurídica entre os acórdãos em comparação. Precedentes.
+3. "Em que pese o não provimento do agravo interno, a sua interposição, por si só, não pode ser considerada como protelatória, de modo que incabível a aplicação de penalidade à parte que exerce regularmente faculdade processual prevista em lei, nos termos do artigo 1.021, § 4º, do CPC."(EDcl no AgInt no REsp 1792064/RO, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 20/02/2020, DJe 03/03/2020) 4. Agravo interno não provido.
+(AgInt no AREsp n. 1.828.037/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 7/6/2021)
+Em face do exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Intimem-se.
