@@ -1,0 +1,81 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 16/08/2022 a 22/08/2022, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+Trata-se de Agravo Interno interposto contra decisão monocrática, proferida pelo Excelentíssimo Ministro Humberto Martins, Presidente desta Corte, mediante a qual o Agravo foi conhecido para não conhecer do Recurso Especial, em razão da aplicação das Súmulas ns.284/STF, por analogia, en. 7/STJ, para as alíneas a e c.
+Sustentaa Agravante, emsíntese, que "efetivamente demonstrou a violação à Lei Federal, in casu, ao artigo 805 do CPC (Lei 13.105/15), e artigos 9º, inciso III c/c 11, inciso IV da Lei das Execuções Fiscais (Lei Federal 6.830/80), inclusive na fundamentação do Recurso. Há de se ressaltar quea Agravante interpôs Recurso Especial explicitando a violação de artigo de Lei Federal, bem como divergência de interpretação jurisprudencial, enquanto que a decisão agravada apenas limitou-se a pautar que não houve a devida fundamentação, bem como a incidência da Súmula 7 deste C. STJ" (fl. 241e).
+Argumenta que "a r. decisão agravada somente se limitou a aduzir que a Agravante incidiu em matéria fática e ausência de fundamentação, quando, em realidade, notadamente o que se discute é a possibilidade de oferecimento de outros bens que não o dinheiro em espécie, já que se trata de uma ordem preferencial e não uma ordem obrigatória, além do fato de que a execução se deve dar de forma menos gravosa à parte devedora (Agravante)" (fl. 245e).
+Afirma que "O acórdão paradigma deixa evidenciado que a medida executiva deve se dar de forma menos onerosa à parte Executada(Agravante), ainda mais quando oferecido bem imóvel que garanta a integralidade do valor do débito executado.Novamente, respeitando o entendimento dar. decisão agravada, de se questionar em qual parte houve ausência de fundamentação desta Agravante, que demonstrou a similitude entre o acórdão recorrido e o acórdão paradigma, já que o que se discute é a possibilidade de recebimento de imóvel como garantia à execução fiscal"(fls. 247/248e).
+Por fim, requero provimento do recurso, a fim de que seja reformada a decisão impugnada ou, alternativamente, sua submissão ao pronunciamento do colegiado.
+Transcorreu in albis o prazo para impugnação (certidão de fl. 253e).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. TRIBUTÁRIO. EXECUÇÃO FISCAL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. RAZÕES RECURSAIS DISSOCIADAS DA FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO.DEFICIÊNCIA. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. NOMEAÇÃO DE BENS À PENHORA.RECUSA JUSTIFICADA PELA EXEQUENTE. POSSIBILIDADE. EXISTÊNCIA DEOUTROS BENS. ACÓRDÃO EMBASADO EM PREMISSAS FÁTICAS. REVISÃO.IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ.APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Aplica-se o Código de Processo Civil de 2015.
+II - A jurisprudência desta Corte considera deficiente a fundamentação quando as razões recursais encontram-se dissociadas dos fundamentos utilizados pela Corte de origem. Incidência, por analogia, da Súmula n. 284/STF.
+III- In casu, rever o entendimento do tribunal de origem sobre a não concordância da exequente com o bem indicado à penhora, bem como acerca da existência de outros bens, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7/STJ.
+IV -O recurso especial não pode ser conhecido com fundamento naalínea c do permissivo constitucional, porquanto o óbice da Súmulan. 7/STJ impede o exame do dissídio jurisprudencial quando, para acomprovação da similitude fática entre os julgados confrontados, énecessário o reexame de fatos e provas.
+V - AAgravantenão apresenta, no agravo, argumentos suficientes para desconstituir a decisão recorrida.
+VI - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VII - Agravo Interno improvido.
+VOTO
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Não assiste razão à Agravante.
+Quanto à questão de fundo, o Tribunal de origem manifestou-se nos seguintes termos (fl. 155e):
+ ..  Neste contexto, apesar do valor venal do imóvel ser superior à dívida, é imprescindível a concordância do exequente acerca da penhora ou a juntada de documentos pela agravante da inexistência de outros bens enumerados no art. 11 da Lei de Execução Fiscal, o que não ocorreu no caso concreto.
+Entretanto, a parte recorrente deixou de impugnar, de forma específica, os fundamentos do acórdão recorrido, alegando, tão somente, que a Lei de Execuções Fiscaispossui ordem de preferência e não de obrigatoriedade,que o imóvel oferecido garante a totalidade da execução e que não possui fluxo de caixa para depositar o valor em juízo.
+Desse modo, verifica-se que as razões recursais apresentadas se encontram dissociadas daquilo que restou decidido pelo Tribunal de origem, o que caracteriza deficiência na fundamentação do recurso especial e atrai, por analogia, o óbice da Súmula 284, do Supremo Tribunal Federal, a qual dispõe: "é inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, os seguintes precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. APLICABILIDADE DO CPC/2015. RAZÕES DISSOCIADAS DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. APLICAÇÃO DA SÚMULA N. 284 DO STF. INOVAÇÃO RECURSAL.
+INVIABILIDADE.
+ ..
+2. A apresentação de razões recursais dissociadas da fundamentação adotada na decisão agravada configura fundamentação recursal deficiente, a não permitir a exata compreensão da controvérsia e inviabilizando o conhecimento do recurso especial. Aplicação da Súmula 284 do STF, por analogia. Precedentes.
+ ..
+4. Agravo interno não conhecido.
+(AgInt no REsp 1888452/RS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 16/11/2021, DJe 18/11/2021).
+PROCESSO CIVL. PREVIDENCIÁRIO. RPPS. RECONHECIMENTO DE TEMPO DE SERVIÇO ESPECIAL POR INSALUBRIDADE. RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. RAZÕES DISSOCIADAS. SÚMULA N. 284 DO STF. AGRAVO INTERNO. DECISÃO MANTIDA.
+ ..
+II - Aplicável o óbice da Súmula n. 284/STF, uma vez que as razões recursais delineadas no especial estão dissociadas dos fundamentos utilizados no aresto impugnado, tendo em vista que a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia". Nesse sentido, esta Corte Superior de Justiça já se manifestou na linha de que, "não atacado o fundamento do aresto recorrido, evidente deficiência nas razões do apelo nobre, o que inviabiliza a sua análise por este Sodalício, ante o óbice do Enunciado n. 284 da Súmula do Supremo Tribunal Federal". (AgRg no AREsp n. 1.200.796/PE, relator Ministro Jorge Mussi, Quinta Turma, DJe de 24/8/2018.)
+ ..
+V - Agravo interno improvido.
+(AgInt no AREsp 1892766/DF, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 13/12/2021, DJe 15/12/2021).
+Ressalte-se que a Corte a quo, após minucioso exame dos elementos fáticos contidos nos autos, consignou a ausência deconcordância da exequente com o bem indicado à penhora, bem como a ausência de demonstração da inexistência de outros bens,nos seguintes termos (fl. 155e):
+Neste contexto, apesar do valor venal do imóvel ser superior à dívida, é imprescindível a concordância do exequente acerca da penhora ou a juntada de documentos pela agravante da inexistência de outros bens enumerados no art. 11 da Lei de Execução Fiscal, o que não ocorreu no caso concreto.
+In casu, rever tal entendimento, com o objetivo de acolher a pretensão recursal,demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7 desta Corte, assim enunciada: "A pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. PENHORA. NOMEAÇÃO DE BENS. RECUSA DA FAZENDA PÚBLICA JUSTIFICADA NA ORDEM DE PREFERÊNCIA DO ART. 11 DA LEI 6.830/1980 E NA BAIXA LIQUIDEZ. POSSIBILIDADE. DISCUSSÃO ACERCA DO PRINCÍPIO DA MENOR ONEROSIDADE. IMPOSSIBILIDADE NESTA VIA EXCEPCIONAL. AGRAVO INTERNO DA EMPRESA A QUE SE NEGA PROVIMENTO.
+1. A Primeira Seção do Superior Tribunal de Justiça, no julgamento do REsp. 1.090.898/SP, de relatoria do eminente Ministro CASTRO MEIRA (DJe 31.8.2009), e do REsp. 1.337.790/PR, de relatoria do eminente Ministro HERMAN BENJAMIN (DJe 7.1.2013), ambos julgados como representativos de controvérsia, entendeu que a penhora deve ser efetuada conforme a ordem legal prevista no art. 655 do CPC/1973 e no art. 11 da Lei 6.830/1980. Desta forma, não obstante o bem ofertado seja penhorável, o exequente pode recusar a sua nomeação, quando fundada na inobservância da ordem legal ou em motivos idôneos, tal como a baixa liquidez do bem ou sua difícil alienação, sem que isso implique em ofensa ao art. 620 do CPC/1973.
+2. Na espécie, o Tribunal de origem consignou expressamente que a recusa do bem nomeado à penhora pela Fazenda Pública foi justificada, considerando que, além de não observar a ordem legal, possui baixa liquidez e difícil alienação. Salientou, ainda, quanto à suposta nomeação de imóveis aonde estaria situada a sede da empresa, que a exceção estava suficientemente justificada por ausência de indicação de outros bens ou direitos em substituição;excesso da penhora do imóvel carente de prova; observância da ordem prevista no art. 11 da lei de execução fiscal, execução que se realiza no interesse do credor.
+3. Infirmar tais conclusões, para considerar violado o princípio da menor onerosidade, demandaria o reexame de matéria de fato, vedado pela Súmula 7/STJ.
+4. Agravo Interno da Empresa a que se nega provimento.
+(AgInt no AREsp n. 1.521.390/PR, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 30/3/2020, DJe de 1/4/2020, destaquei).
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. NOMEAÇÃO DE BENS À PENHORA. IMOVÉL. DIREITO DE RECUSA DA FAZENDA PÚBLICA. ORDEM LEGAL PREVISTA NO ART. 11 DA LEI N. 6.830/1980. AFRONTA AO PRINCÍPIO DA MENOR ONEROSIDADE. ANÁLISE. SÚMULA 7/STJ.
+1. A Primeira Seção do STJ firmou o entendimento de que a não observância da ordem legal de preferência na nomeação de bens à penhora, na forma do art. 11 da Lei n. 6.830/1980, demanda a comprovação, pelo executado, da existência de elementos concretos que justifiquem a incidência do princípio da menor onerosidade, sendo insuficiente a mera invocação genérica do art. 620 do CPC/1973 (REsp 1.337.790/PR, rel. Min. Herman Benjamin, DJe 7/10/2013, julgado sob a sistemática do art. 543-C do CPC/1973).
+2. Na espécie, o Tribunal de origem consignou expressamente que a recusa na substituição da penhora por bem móvel foi justificada, considerando que, além de não observar a ordem legal, acarretaria em redução na liquidez.
+3. Infirmar tais conclusões, para considerar violado o princípio da menor onerosidade, demandaria o reexame de matéria de fato, vedado pela Súmula 7/STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.666.369/PR, relator Ministro Og Fernandes, Segunda Turma, julgado em 23/3/2021, DJe de 9/4/2021, destaquei).
+Noutro plano, anoto a impossibilidade de o recurso especialser conhecido com fundamento na alínea c do permissivo constitucional, porquanto o óbice da Súmula n. 7/STJ impede o exame do dissídio jurisprudencial quando, para a comprovação da similitude fática entre os julgados confrontados, é necessário o reexame de fatos e provas.
+Sobre o tema, os seguintes precedentes:
+PROCESSUAL CIVIL. EXECUÇÃO FISCAL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. REDIRECIONAMENTO AO SÓCIO. REQUISITOS. AUSÊNCIA. REVISÃO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. DISSÍDIO JURISPRUDENCIAL. ANÁLISE PREJUDICADA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+ ..
+IV - O recurso especial não pode ser conhecido com fundamento na alínea c do permissivo constitucional, porquanto o óbice da Súmula n. 7/STJ impede o exame do dissídio jurisprudencial quando, para a comprovação da similitude fática entre os julgados confrontados, é necessário o reexame de fatos e provas.
+ ..
+VII - Agravo Interno improvido.
+(AgInt no REsp 1958311/PB, de minha relatoria, PRIMEIRA TURMA, julgado em 14/02/2022, DJe 17/02/2022).
+ADMINISTRATIVO E PROCESSUAL CIVIL. AÇÃO CIVIL PÚBLICA. OFENSA AO ART. 1.022 DO CPC/2015 NÃO CONFIGURADA. IMPROBIDADE ADMINISTRATIVA. CARACTERIZAÇÃO DE ATO ÍMPROBO. PRESENÇA DO ELEMENTO SUBJETIVO. REEXAME. SÚMULA 7/STJ. REVISÃO DA DOSIMETRIA DAS PENAS. IMPOSSIBILIDADE REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. DIVERGÊNCIA PREJUDICADA.
+ ..
+DISSÍDIO JURISPRUDENCIAL
+11. "A necessidade do reexame da matéria fática impede a admissão do recurso especial tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional" (AgInt no AREsp 1.398.103/PB, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe 30.8.2019).
+ ..
+(REsp 1819704/MG, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 01/10/2019, DJe 11/10/2019).
+PROCESSO CIVIL. AÇÃO RESCISÓRIA. HONORÁRIOS DE SUCUMBÊNCIA. INSUFICIÊNCIA DE FUNDAMENTAÇÃO. RECURSO ESPECIAL. NÃO OCORRÊNCIA DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ÓBICES DE ADMISSIBILIDADE. SÚMULA N. 7. AGRAVO INTERNO. DECISÃO MANTIDA.
+ ..
+VII - Ressalte-se ainda que a incidência do Enunciado n. 7, quanto à interposição pela alínea a, impede o conhecimento da divergência jurisprudencial, diante da patente impossibilidade de similitude fática entre acórdãos. Nesse sentido: AgInt no AREsp n. 1.044.194/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 19/10/2017, DJe 27/10/2017. Nesse passo, a incidência da Súmula n. 7/STJ também impossibilita o conhecimento do recurso especial pela alínea c do permissivo constitucional na hipótese dos autos.
+VIII - Agravo interno não provido.
+(AgInt no REsp 1904610/RJ, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 22/02/2022, DJe 02/03/2022).
+Assim, em que pesem as alegações trazidas, os argumentos apresentados são insuficientes para desconstituir a decisão impugnada.
+No que se refere à aplicação do art. 1.021, § 4º, do CPC/2015, a orientação desta Corte é no sentido de que o mero inconformismo com a decisão agravada não enseja a imposição da multa, não se tratando de simples decorrência lógica do não provimento do recurso em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso. Nessa linha: Corte Especial, AgInt nos EAREsp n. 1.043.437/SP, Rel. Ministro JORGE MUSSI, j. 13.10.2021; e 1ª S., AgInt nos EREsp n. 1.311.383/RS, Rel. Ministra ASSUSETE MAGALHÃES, j. 14.09.2016.
+Apesar do improvimento do recurso, não restou configurada a manifesta inadmissibilidade, razão pela qual afasto a apontada multa.
+Ante o exposto, NEGO PROVIMENTO ao recurso.
