@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de agravo (artigo 1.042, CPC/15), interposto por DANIELA VILELA PELOSO VASCONCELOS e OUTRO, em face de decisão que não admitiu recurso especial dos ora insurgentes.
+O apelo extremo, fundado nas alíneas "a" e "c" do permissivo constitucional, desafia acórdão de fls. 453-459, e-STJ, proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 454, e-STJ):
+Mandato. Ação de ressarcimento de danos materiais c. c. indenização por dano moral. Cerceamento de defesa não caracterizado. Arguição de inépcia da petição inicial afastada. Legitimidade passiva dos apelantes configurada. Prestação de serviços advocatícios. Cliente que sustenta que os patronos não lhe repassaram a totalidade dos proveitos econômicos obtidos em processo trabalhista. Obrigação do mandatário de transferência das vantagens ao mandante, conforme o artigo 668 do Código Civil. Parecer da Contadoria Judicial. Honorários calculados sobre o valor bruto da vantagem obtida. Impossibilidade. Cálculo que deve ser efetuado sobre o valor líquido, sob pena de onerosidade excessiva ao cliente e enriquecimento ilícito dos patronos. Verba trabalhista que tem natureza alimentar. Precedente. Sentença de procedência parcial mantida. Recurso não provido.
+Os embargos de declaração foram rejeitados às fls. 468-471, e-STJ.
+Nas razões do recurso especial (fls. 474-487, e-STJ), os insurgentes apontam, além de dissídio jurisprudencial, violação dos artigos 104, 421, 422 e 668, do CC, no que concerne à necessidade de reconhecimento da validade docontrato que estabeleceu honorários advocatícios no importe de 30% sobreo valor bruto obtido pelo recorrido em reclamação trabalhista.
+Contrarrazões às fls. 493-510, e-STJ.
+Em juízo de admissibilidade, o Tribunal de origem negou seguimento aoreclamo (fls. 511-513, e-STJ), dando ensejo na interposição do presente agravo (fls. 516-533, e-STJ), visando destrancar aquela insurgência.
+Contraminuta às fls. 536-544, e-STJ.
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+1.Cinge-se a controvérsia acerca da apontada violação aos artigos 104, 421, 422 e 668, do CC.A parte recorrente argumenta avalidade do contrato que estabeleceu honorários advocatícios no importe de 30% sobre o valor bruto obtido pelo recorrido em reclamação trabalhista.
+Sustentam, em síntese, que não é dado ao juiz, de ofício, alterar ou reduzir o que entre a parte e seu advogado for convencionado. Alega, por fim, que "não há o que se falar em aplicação diversa daquela constante em seus termos, principalmente, por conta da evidente ausência de oneração excessiva, e ciência das partes quando da contratação".
+Acerca da base de cálculo para a incidência doshonorários advocatícios contratuais, a Corte local concluiu, mediante análise do acervo fático-probatório, que os honorários deveriam incidir sobre o valor líquido a ser repassado ao recorrido, sob pena de configurar enriquecimento ilícito dos advogados(fls. 457, e-STJ):
+A r. sentença consignou, conforme entendimento do C. Superior Tribunal de Justiça, que os honorários advocatícios devem ser calculados sobre o proveito econômico líquido obtido pelo cliente, sob pena de caracterização de enriquecimento ilícito do advogado.
+Com efeito, a porcentagem pactuada, de 30%, já traz vantagem expressiva aos patronos do apelado, correspondendo à porcentagem máxima permitida à advocacia. E a sua cobrança sobre valores brutos obtidos em favor do apelado em processo trabalhista, ao invés de valores líquidos, resultaria em onerosidade excessiva para o apelado e enriquecimento ilícito aos apelantes, ponderando-se inclusive que as verbas trabalhistas são de natureza alimentar.
+Com efeito, para alterar tal entendimento,na forma como posta, seria necessário novo exame do acervofático-probatório constante dos autos, com a interpretação das cláusulas contratuais, providências vedadas em recursoespecial, conforme orientação das Súmulas 5 e 7/STJ.
+Nesse sentido:
+RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. AÇÃO DE PRESTAÇÃO DE CONTAS. SEGUNDA FASE. ABUSO DE MANDATO. EXCESSO DE CONDENAÇÃO. SÚMULAS 05 E 07/STJ. JUROS DE MORA E TAXA SELIC. PRECEDENTES. TERMO INICIAL DOS JUROS MORATÓRIOS. CITAÇÃO. RELAÇÃO CONTRATUAL. HONORÁRIOS DE SUCUMBÊNCIA. SÚMULA 07/STJ.
+ ..
+3. A modificação do valor da base de cálculo dos honorários contratuais em litígio exigiria a revaloração do conjunto fático-probatório dos autos, além da modificação da interpretação da cláusula que estabeleceu a forma de pagamento dos serviços prestados, o que é vedado a esta Corte Superior, nos termos da Súmulas 05 e 07/STJ. (REsp 1.403.005/MG, Rel. Ministro PAULO DE TARSO SANSEVERINO, Terceira Turma, j. 6/4/2017, DJe 11/4/2017 - grifos não presentes no original)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 3/STJ. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. RPV. HONORÁRIOS ADVOCATÍCIOS CONTRATUAIS. RETENÇÃO. DISCUSSÃO ACERCA DA BASE DE CÁLCULO SOBRE A QUAL INCIDIRÁ O PERCENTUAL AVENÇADO. QUESTÃO ATRELADA AO REEXAME DE CLÁUSULA CONTRATUAL E DA MATÉRIA DE FATO. ÓBICE DAS SÚMULAS 5 E 7/STJ.
+1. "A simples interpretação de cláusula contratual não enseja recurso especial" (Súmula 5/STJ).
+2. O reexame de matéria de prova é inviável em sede de recurso especial (Súmula 7/STJ). 3. Agravo interno não provido.
+(AgInt no AREsp 963.731/RS, Rel. Ministro MAURO CAMPBELL MARQUES, Segunda Turma, j. 28/3/2017, DJe 3/4/2017)
+Inafastável, portanto, a aplicação das Súmula 5 e 7, do STJ.
+Por fim, quanto à divergência jurisprudencial, frisa-se que este Tribunal Superior tem entendimento no sentido de que a incidência do supracitado óbice impede o exame do dissídio, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução a causa o Tribunal de origem. No mesmo sentido, precedentes: AgRg no AREsp 786.906/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 16/05/2016; AgRg no AREsp 463.390/MT, Rel. Ministro MARCO BUZZI, QUARTA TURMA, DJe 26/03/2014
+2. Do exposto, nega-se provimento ao agravo e,com base no art. 85, § 11, do CPC/2015, majora-se os honorários sucumbenciais em 10% (dez por cento), incidentes sobre o valor já arbitrado pela origem, em favor da parte recorrida.
+Publique-se.
+Intimem-se.
