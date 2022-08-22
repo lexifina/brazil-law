@@ -1,0 +1,52 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 16/08/2022 a 22/08/2022, por unanimidade, acolher os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por Axa Corporate Solutions Seguros S.A. ao acórdão proferido pela Terceira Turma do Superior Tribunal de Justiça, nos termos da seguinte ementa (e-STJ, fl. 1.421):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. CONTRATO DE SEGURO DE RESPONSABILIDADE CIVIL DO TRANSPORTADOR RODOVIÁRIO DE CARGA (RCTR-C). NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. INCÊNDIO DO CAMINHÃO. PERDA TOTAL DA CARGA. NEGATIVA DE PAGAMENTO DA INDENIZAÇÃO SECURITÁRIA. NÃO COMPROVAÇÃO DO NEXO CAUSAL ENTRE O DESGASTE NAS LONAS DE FREIOS E O SUPERAQUECIMENTO OCORRIDO NO SEMIRREBOQUE. DEVER DE INDENIZAR EVIDENCIADO. ALTERAÇÃO DAS CONCLUSÕES DO ACÓRDÃO RECORRIDO. IMPOSSIBILIDADE. ÓBICE DA SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO. 1. Não ocorre negativa de prestação jurisdicional quando o Tribunal de origem examina, de forma fundamentada, todas as questões que lhe foram submetidas, ainda que tenha decidido de modo contrário à pretensão da parte. Nesse contexto, esta Corte já se manifestou no sentido de que não há que se confundir decisão contrária aos interesses da parte e negativa de prestação jurisdicional, nem fundamentação sucinta com ausência de fundamentação. 2. Nos termos da jurisprudência desta Corte Superior, não há como afastar as premissas fáticas e probatórias estabelecidas pelas instâncias ordinárias, soberanas em sua análise, pois, na via estreita do recurso especial, a incursão em tais elementos esbarraria no óbice do enunciado 7 da Súmula do Superior Tribunal de Justiça. 3. Agravo interno improvido.
+Em suas razões, sustenta a embargante que a decisão embargada incorreu em omissão, uma vez que deixou de se manifestar a respeito da majoração dos honorários recursais, tendo em vista que a decisão monocrática não conheceu do recurso especial interposto pela parte adversa e foi negado provimento ao agravo interno interposto pela seguradora.
+Busca, assim, que seja sanada a omissão apontada.
+Foi apresentada impugnação (e-STJ, fls. 1.456-1.471), com pedido de multa processual.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DUPLICIDADE DE RECURSOS PELA MESMA PARTE CONTRA A MESMA DECISÃO. NÃO CONHECIMENTO DO SEGUNDO RECURSO. PRINCÍPIO DA UNIRRECORRIBILIDADE. OMISSÃO. EXISTÊNCIA. EMBARGOS ACOLHIDOS.
+1. Segundo o princípio da unirrecorribilidade e da ocorrência da preclusão consumativa, é defesa a interposição de mais de um recurso contra a mesma decisão judicial.
+2. Os embargos de declaração poderão ser opostos com a finalidade de eliminar da decisão qualquer erro material, obscuridade, contradição ou suprir omissão sobre ponto acerca do qual se impunha pronunciamento, o que não é o caso dos autos.
+3. Embargos de declaração acolhidos.
+VOTO
+De início, no que se refere aos segundos embargos de declaração (Petição n. 00566197/2022) apresentados pela insurgente, em atenção ao princípio da unirrecorribilidade e da ocorrência da preclusão consumativa, não há como conhecer da insurgência, uma vez que é vedada a interposição de mais de um recurso contra a mesma decisão judicial.
+Na mesma linha de cognição:
+AGRAVO INTERNO NO RECURSO ESPECIAL AÇÃO CONDENATÓRIA DECISÃO MONOCRÁTICA QUE DEU PARCIAL PROVIMENTO AO RECLAMO DA PARTE ADVERSA. INSURGÊNCIA RECURSAL DA PARTE AUTORA.
+1. Na hipótese, o Tribunal de origem fundamentou a ocorrência do dano moral apenas no mero atraso na entrega da obra, sem demonstrar, de forma clara e específica, a ocorrência de sofrimento, angústia ou abalo psicológico ocasionado aos recorridos, não havendo que se falar, portanto, em dano moral indenizável. Precedentes.
+2. Revela-se defesa a oposição simultânea de dois recursos contra o mesmo ato judicial, ante o princípio da unirrecorribilidade e a ocorrência da preclusão consumativa, o que demanda o não conhecimento da segunda insurgência.
+3. Primeiro agravo interno (e-STJ, fls. 922-938) desprovido. Segundo agravo interno (e-STJ, fls. 939-955) não conhecido por violação ao princípio da unirrecorribilidade recursal e ocorrência da preclusão consumativa.
+(AgInt no REsp 1.908.597/RJ, Relator Ministro Marco Buzzi, Quarta Turma, DJe 1/10/2021).
+Os embargos de declaração constituem modo de impugnação à decisão judicial de fundamentação vinculada, sendo cabíveis tão somente nas hipóteses previstas no art. 1.022 do Código de Processo Civil de 2015, quais sejam, omissão, obscuridade e contradição, bem como para sanar erro material.
+O recurso em comento visa unicamente aperfeiçoar as decisões judiciais, com o intuito de prestar a tutela jurisdicional de forma clara e completa, não tendo por finalidade revisar ou anular decisões. Apenas, excepcionalmente, ante o aclaramento de obscuridade, desfazimento de contradição ou supressão de omissão, prestam-se os declaratórios a modificar o julgado.
+No ponto:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NOAGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDEDO NCPC. ART. 1.022 DO NCPC. OMISSÃO, OBSCURIDADE, CONTRADIÇÃO OU ERROMATERIAL. INEXISTÊNCIA. PRETENSÃO DE REJULGAMENTO DA CAUSA.IMPOSSIBILIDADE. PLEITO DE ANÁLISE DE MATÉRIA CONSTITUCIONAL.DESCABIMENTO. PRECEDENTES. RECURSO PROTELATÓRIO. IMPOSIÇÃO DE MULTA. ART.1.026, § 2º, DO NCPC. EMBARGOS REJEITADOS, COM IMPOSIÇÃO DE MULTA.
+1. Aplica-se o NCPC a este recurso ante os termos do EnunciadoAdministrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisõespublicadas a partir de 18 de março de 2016) serão exigidos os requisitosde admissibilidade recursal na forma do novo CPC.
+2. Inexistentes as hipóteses do art. 1.022 do NCPC, não merecemacolhimento os embargos de declaração que têm nítido caráter infringente.
+3. Os aclaratórios não se prestam à manifestação de inconformismo ou àrediscussão do julgado que não conheceu dos primeiros embargos dedeclaração.
+4. Em razão de a oposição dos segundos embargos de declaração constituirprática processual abusiva e protelatória, por ausência dos víciosprevistos no art. 1.022 do NCPC e pela ausência de recolhimento prévio damulta aplicada com amparo no art. 1.021, § 4º, do NCPC, deve ser aplicadaa multa prevista em seu art. 1.026, § 3º, no percentual de 3% sobre ovalor atualizado da causa.
+5. Embargos de declaração rejeitados, com imposição de multa (EDcl nosEDcl no AgInt no AREsp 1.168.511/ES, Rel. Ministro MOURA RIBEIRO, TERCEIRATURMA, julgado em 04/05/2020, DJe 07/05/2020)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.PROCESSUAL CIVIL. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERROMATERIAL. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existênciade obscuridade, contradição, omissão ou erro material (CPC/2015, art.1.022). É inadmissível a sua oposição para rediscutir questões tratadas edevidamente fundamentadas na decisão embargada, já que não são cabíveispara provocar novo julgamento da lide.
+2. Ainda que para fins de prequestionamento, mostra-se incabível aapreciação de matéria constitucional na via eleita, sob pena de usurpaçãoda competência do eg. Supremo Tribunal Federal, nos termos do que dispõe oart. 102, III, da Magna Carta.
+3. Embargos de declaração rejeitados (EDcl no AgInt no AREsp 1.475.227/RS,
+Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 20/04/2020, DJe04/05/2020).
+Na hipótese dos autos, ainsurgente alega que a decisão é omissa no tocante aos honorários recursais de sucumbência em seu favor.
+De fato, a decisão se mostra omissa, porquanto não houve manifestação sobre a verba honorária.
+A jurisprudência desta Corte é no sentido do cabimento dos honorários recursais de sucumbência quandoa decisão recorrida for publicada a partir de 18/3/2016; quando o recurso não merecerconhecimento integralou for desprovido, monocraticamente ou pelo órgão colegiado competente; e quando jáhouver condenação a pagamento de honorários advocatícios no feito em que interposto o recurso.
+A propósito:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VÍCIOS DO ART. 1.022 DO CPC. ARBITRAMENTO DE HONORÁRIOS SUCUMBENCIAIS.REQUISITOS VERIFICADOS. EMBARGOS ACOLHIDOS.
+1. O Superior Tribunal de Justiça consagrou o entendimento de que é apenas devida a majoração da verba honorária sucumbencial, na forma do art. 85, § 11, do CPC, quando estiverem presentes os seguintes requisitos, simultaneamente: a) decisão recorrida publicada a partir de 18/3/2016, quando entrou em vigor o novo Código de Processo Civil; b) recurso não conhecido integralmente ou não provido, monocraticamente ou pelo órgão colegiado competente; e c) condenação em honorários advocatícios no feito em que interposto o recurso.
+2. No caso dos autos, observa-se que os requisitos supracitados estão presentes. Dessa forma, são devidos honorários sucumbenciais recursais.
+3. Embargos de declaração acolhidos.
+(EDcl no AgInt no AREsp n. 1.712.653/PR, relator Ministro Og Fernandes, Segunda Turma, julgado em 7/6/2022, DJe de 17/6/2022.)
+No caso dos autos a decisão monocrática foi publicada no dia 22/4/2021, conforme certidão de fl. 1.314 (e-STJ); houve conhecimento do agravo interposto pela parte adversapara não conhecer do recurso especial (e-STJ, fls. 1.301-1.313); e houve condenação prévia da embargada ao pagamento de honorários advocatícios (e-STJ, fls. 953-963).
+Logo, cabíveis os honorários recursais de sucumbência.
+Ante o exposto, acolho os embargos de declaração para sanar a omissão apontada e, nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do advogado da parte embargante em 2% (dois por cento) sobre o valor da condenação.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de novos embargos de declaração manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
