@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por FABIO GUTEMBERG DOS SANTOS SILVA (FABIO) contra decisão que negou seguimento ao seu apelo nobre manejado, por sua vez, contra acórdãoassim ementado:
+APELAÇÃO CÍVEL. AÇÃO DE MANUTENÇÃO DE POSSE CONVOLADA EM REINTEGRAÇÃO DE POSSE. DEMANDANTE QUE HABITAVA O IMÓVEL A TÍTULO DE POSSE PRECÁRIA. SENTENÇA DE IMPROCEDÊNCIA. ALEGAÇÃO DE NULIDADE POR CERCEAMENTO DE DEFESA. INEXISTÊNCIA. PROVA TESTEMUNHAL QUE SE REVELOU DESNECESSÁRIA, ANTE O CONJUNTO PROBATÓRIO CARREADO AOS AUTOS. LIVRE CONVENCIMENTO MOTIVADO DO MAGISTRADO, QUE PODE INDEFERIR A PRODUÇÃO DAS PROVAS QUE ENTENDER DESNECESSÁRIAS.DESPROVIMENTO DO RECURSO.
+1. Não havendo necessidade de produção de outras provas, a lide pode ser julgada antecipadamente, a teor do que autoriza o art. 355, I, do CPC.
+2. É que, havendo nos autos elementos suficientes para a formação do convencimento do Magistrado, desnecessária a fase instrutória do processo.
+3. Inclusive, a prova testemunhal anteriormente deferida pode ser dispensada, sem que isso importe em nulidade processual, se os demais elementos de prova produzidos nos autos forem suficientes à formação da convicção do Juízo. Nesse sentido dispõe o art. 443 do CPC/15.
+4. No caso, os documentos carreados aos autos e as próprias afirmações do Apelante foram suficientes para afastar a produção de novas provas, conforme bem fundamentado na sentença.
+5. Portanto, diante de toda a evidência dos autos, não há que se falar em cerceamento de defesa ou qualquer outro vício capaz de macular o processo, tendo sido observados, no caso, os ditames do devido processo legal.
+6. Destarte, entendo que a sentença não merece qualquer reparo. Desprovimento do recurso.(e-STJ, fls. 348/349)
+Irresignado,FABIO interpôs recurso especial com base no art. 105, III, alíneas a e c, da CF, apontando a violação aos arts.370, 373, I e 489 do NCPC, e dissídio jurisprudencial, ao sustentar (1) falta de fundamentação no acórdão recorrido; (2) cerceamento de defesa.
+O recurso não foi admitido na origem por (1) não se verificar ofensa ao art. 489 do NCPC; (2) a pretensão recursal encontra óbice na Súmula nº 7 do STJ.
+Nas razões do presente agravo, Fábio afirma que a Súmula nº 7 do STJ deve ser afastada passando, a seguir, a repisar a fundamentação do recurso nobre.
+Foi apresentada contraminuta.
+É o relatório.
+Decido.
+O agravo não comporta conhecimento.
+Verifica-se que a petição de agravo não refutou de forma arrazoada todos os fundamentos da decisão agravada, mais especificamente orelativo a aplicação da Súmula nº 7 do STJ.
+Na verdade, FABIO limitou-se a alegar que não se aplica a Súmula nº 7 do STJ (e-STJ, fl. 407)
+Consoante pacífico entendimento desta Corte, o agravante deve infirmar especificamente todos os fundamentos da decisão agravada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo, não cabendo a impugnação genérica ou a reiteração das razões expostas no recurso especial.
+À luz do princípio da dialeticidade, que norteia os recursos, compete à parte agravante, sob pena de não conhecimento do agravo em recurso especial, infirmar especificamente os fundamentos adotados pelo Tribunal de origem para negar seguimento ao recurso.
+O agravo que objetiva conferir trânsito ao recurso especial obstado na origem reclama, como requisito objetivo de admissibilidade, a impugnação específica e arrazoada aos fundamentos utilizados para a negativa de seguimento do apelo extremo.
+Destarte, para afastar a incidência do óbice da Súmula nº 7 do STJ, não basta apenas deduzir alegação de inaplicabilidade dos referido óbice ou, ainda, que a tese defensiva não demanda reexame de provas.
+Para tanto, a parte deve desenvolver argumentação que demonstre como seria possível modificar o entendimento firmado pelas instâncias ordinárias sem nova análise do conjunto fático-probatório, deixando claro quais fatos foram devidamente consignados no acórdão objurgado, consoante expressa previsão contida nos arts. 932, III, do NCPC e
+253, I, do RISTJ, ônus do qual, contudo, não se desobrigou na hipótese dos autos. Assim, não tendo o recurso impugnado especificamente os fundamentos da decisão recorrida, é o caso de incidir o art. 932, III, do NCPC.
+Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DENEGATÓRIA DE ADMISSIBILIDADE DE RECURSO ESPECIAL. DESCUMPRIMENTO DOS REQUISITOS PRECONIZADOS PELO ART. 932, III, DO NCPC. VÍCIOS DO ACÓRDÃO EMBARGADO. INEXISTÊNCIA. RECURSO PROTELATÓRIO. APLICAÇÃO DE MULTA. ART. 1.026, § 2º, DO NCPC. INTEGRATIVO REJEITADO. 1. O presente recurso foi interposto contra acórdão publicado na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC. 2. O acórdão embargado não foi omisso e, com clareza, concluiu fundamentadamente que não se mostrou viável o agravo em recurso especial que, apresentado em desacordo com os requisitos preconizados pelo art. 932, III, do NCPC, não impugnou todos os fundamentos da respectiva inadmissibilidade (descabimento de análise de afronta a normas constitucionais). (..) (EDcl no AgInt no AREsp 1530392 - RS, desta relatoria, j. 15/04/2019, DJe 22/04/2019).
+Nessas condições, CONHEÇO do agravo em recurso especial
+MAJORO em 5% o valor dos honorários advocatícios anteriormente fixados em favor da recorrida, limitados a 20%, nos termos do art. 85, § 11, do NCPC, observada a gratuidade da justiça.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL.AGRAVO EM RECURSO ESPECIAL INTERPOSTO NA ÉGIDE DO NCPC.AGRAVO EM RECURSO ESPECIAL QUE NÃO IMPUGNA ESPECIFICAMENTE TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. APLICAÇÃO DO ART. 932, III, DO NCPC. AGRAVO NÃO CONHECIDO.
