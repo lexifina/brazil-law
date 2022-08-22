@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DE BUSCA E APREENSÃO. ALIENAÇÃO FIDUCIÁRIA. CONSTITUIÇÃO EM MORA. NOTIFICAÇÃO ENVIADA POR CARTA REGISTRADA COM AVISO DE RECEBIMENTO. RETORNO NEGATIVO. CARTA EXTRAVIADA. IRREGULARIDADE. AUSÊNCIA DE CONDIÇÃO DA AÇÃO DE BUSCA E APREENSÃO. EXTINÇÃO DA AÇÃO.SENTENÇA MANTIDA.
+NOS TERMOS DO ART. 2º, §2º, DO DECRETO-LEI Nº 911/69, A MORA DECORRERÁ DO SIMPLES VENCIMENTO DO PRAZO PARA PAGAMENTO E PODERÁ SER COMPROVADA POR CARTA REGISTRADA COM AVISO DE RECEBIMENTO, NÃO SE EXIGINDO QUE A ASSINATURA CONSTANTE DO REFERIDO AVISO SEJA A DO PRÓPRIO DESTINATÁRIO.
+CASO CONCRETO. NOTIFICAÇÃO ENVIADA POR CARTA REGISTRADA COM AVISO DE RECEBIMENTO PARA O ENDEREÇO DO CONTRATO.RETORNO NEGATIVO. CERTIFICADO QUE A CARTA NÃO FOI ENTREGUE AO DESTINATÁRIO PELO MOTIVO "EXTRAVIADO".INEXISTÊNCIA DE COMPROVAÇÃO DE PRÉVIA CONSTITUIÇÃO DO DEVEDOR EM MORA. TRATANDO-SE DE CONDIÇÃO DE PROCEDIBILIDADE PARA PROPOSITURA DA AÇÃO DE BUSCA E APREENSÃO, NÃO HÁ FALAR EM PRÉVIA INTIMAÇÃO DO AUTOR PARA EMENDAR A INICIAL. AUSÊNCIA DE CONDIÇÃO DA CONDIÇÃO DA AÇÃO DE BUSCA E APREENSÃO. EXTINÇÃO DA AÇÃO. ART. 485, VI, DO CPC. SENTENÇA MANTIDA.
+APELO DESPROVIDO.
+Os embargos declaratórios opostos foram rejeitados.
+Nas razões do especial, a parte recorrente aponta ofensa aos arts. 2º,§2º, e 3º do Decreto-Lei n. 911/69; 10, 113 e 422 do CódigoCivil, bem como divergência jurisprudencial, alegando ter havido regular constituição em mora do devedor, bem como a sua notificação extrajudicial, requisitos estes aptos à concessão da liminar de busca e apreensão.
+Assim delimitada a controvérsia, passo a decidir.
+Registro que, tratando-se de ação de busca e apreensão de bem alienado fiduciariamente, o art. 2º, § 2º, do Decreto-Lei 911/1969 exige a notificação do devedor para a comprovação da mora. Para tanto, é necessário que a notificação seja entregue no endereço do devedor, sendo irrelevante que ela seja recebida por ele, pessoalmente.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE BUSCA E APREENSÃO. MORA. NOTIFICAÇÃO ENCAMINHADA E RECEBIDA NO ENDEREÇO DO DEVEDOR, CONSTANTE DO CONTRATO. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ.AGRAVO INTERNO IMPROVIDO.
+1. A mora decorre do simples vencimento, devendo, por formalidade legal, para o ajuizamento da ação de busca e apreensão, ser apenas comprovada, pelo credor, mediante envio de notificação por via postal, com aviso de recebimento no endereço do devedor indicado no contrato, o que ocorreu na presente hipótese, sendo prescindível, para esse efeito, a assinatura do destinatário. Incide, à espécie, a Súmula 83/STJ.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1064969/SP, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe de 30.8.2017.)
+AGRAVO INTERNO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. CONSTITUIÇÃO EM MORA DO DEVEDOR. NOTIFICAÇÃO EXTRAJUDICIAL. POSSIBILIDADE. AJUIZAMENTO DE AÇÃO REVISIONAL. AUSÊNCIA DE IMPEDIMENTO À CONSTITUIÇÃO EM MORA. SÚMULA Nº 83 DO STJ. BUSCA E APREENSÃO. INTERESSE DE AGIR.AFASTAMENTO DA INADIMPLÊNCIA. SÚMULAS 5 E 7 DO STJ. ENCARGOS ABUSIVOS. DESCARACTERIZAÇÃO DA MORA. SÚMULA Nº 211 DO STJ.
+1. Esta Corte Superior perfilha o entendimento de que é possível a constituição em mora do devedor inadimplente por meio de notificação extrajudicial entregue no domicílio, sendo desnecessária a notificação pessoal. Além disso, o simples ajuizamento de ação revisional não impede a caracterização da mora (Súmula nº 380 do STJ). Incidência da Súmula nº 83 do STJ.
+2. A utilização da busca e apreensão é possível quando o inadimplemento se revela incontroverso, evidenciando-se a mora automaticamente quando vencido o prazo para o pagamento (mora ex re).
+ ..  5. Agravo interno não provido.
+(AgInt no AgRg no AREsp 718438/MS, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe de 6.6.2017.)
+Na hipótese dos autos, verifico que o Tribunal de origem entendeu que a mora do devedor não ficou comprovada, uma vez que não houve comprovação da efetiva ciência da notificação extrajudicial pelo devedor no presente caso, conforme se extrai do seguinte excerto (fls. 80-81):
+Ao que se verifica, em se tratando de ação de busca e apreensão decorrente de contrato com garantia de alienação fiduciária, para atender a formalidade expressa no art. 2º, §2º, do Decreto- Lei nº 911/69, é suficiente que a instituição financeira comprove que a notificação por carta registrada com aviso de recebimento foi enviada para endereço do consumidor, não sendo necessário a assinatura do próprio destinatário no referido aviso.
+Apesar da dispensa das formalidades antes referidas, entendo que as peculiaridades do caso concreto evidenciam a inexistência da correta constituição do devedor em mora, uma vez que os documentos apresentados pela instituição financeira não provam que a notificação atingiu a sua finalidade.
+In casu, a notificação foi enviada por carta registrada com aviso de recebimento para o endereço fornecido pelo devedor quando da contratação, porém, não restou perfectibilizada, ante a certidão dos Correios que a carta deixou de ser entregue no endereço do destinatário pelo motivo "EXTRAVIADO" (evento 1 -NOT5).
+Diante dessa realidade, onde não demonstrada a regular constituição do devedor em mora, que é condição da ação de busca e apreensão (ou condição de procedibilidade), torna-se imperiosa extinção do feito.
+(..).
+No ponto, registro que em se tratando de condição de procedibilidade para propositura da ação de busca e apreensão, não há falar em prévia intimação do autor para emendar a inicial.
+Assim, não demonstrada a correta constituição do devedor em mora nos termos da legislação e da jurisprudência, é caso de extinção do feito, sem julgamento do mérito, pois ausente condição de ação (ou condição de procedibilidade) para o processamento da ação de busca e apreensão, nos termos do art. 485, VI, do CPC.
+Ao assim decidir, o Tribunal local se posicionou em consonância com o entendimento do STJ, mostrando-se imperiosa a aplicação da Súmula 83/STJ.
+Ademais, desconstituir a conclusão do acórdão recorrido, na forma pretendida, demandaria a reanálise do acervo fático e probatório dos autos, procedimento que, em sede de especial, encontra óbice no enunciado n. 7 da Súmula do STJ.
+Em face do exposto, nego provimento ao recurso.
+Deixo de majorar os honorários nos termos do art. 85, § 11, do Código de Processo Civil, visto que o Tribunal de origem não condenou a parte recorrente ao pagamento de honorários advocatícios.
+Intimem-se.
