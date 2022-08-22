@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de reclamação, com pedido liminar, ajuizada por CARLOS EDUARDO GUIMARAES MARQUES, em que se alega o descumprimento da autoridade do acórdão proferidopela Sexta Turma do Superior Tribunal de Justiça no julgamento do HC n. 452.992/SP, de minha relatoria, no qual redigi voto com a seguinte parte dispositiva (fls. 60-61; grifos no original):
+"Ante o exposto, CONCEDO EM PARTE a ordem de habeas corpus para, em relação ao ora Paciente, anular os atos de instrução da Ação Penal n. 0012601-70.2017.8.26.0510 e, por conseguinte, a superveniente sentença prolatada em seu desfavor, para que sejam renovados, em estrita observância ao direito de ampla defesa e contraditório."
+Na petição inicial, o Reclamante sustenta o descumprimento da determinação desta Corte, pois o Juízo de primeiro grau, na decisão reclamada, "recusa-se a excluir dos autos da ação penal nº0012601-70.2017.8.26.0510 atos anulados por esta col. Corte, fazendo com que continuem produzindo efeitos" (fls. 3-4).
+Aduz que após o retorno dos autos da ação penal à primeira instância, o Magistrado singular deu início à renovação dos atos processuais, sem, contudo, determinar o desentranhamento"de todos os elementos de informação e atos processuais anulados" (fl. 5).
+Argumenta que "o desentranhamento é - ou deveria ser - decorrência direta, natural e inevitável da anulação da persecutio criminis" (fl. 6).
+Alega que "caso permaneçam nos autos, é bastante possível - para não dizer provável - que tais atos processuais e elementos de prova anulados acabem interferindo na formação da convicção do julgador - mesmo que de forma involuntária" (fl. 7).
+Salienta que o "o MM. Juiz Reclamado se utilizou expressamente de decisões prolatadas após o recebimento da denúncia - e que, portanto, deveriam ter sido extirpadas dos autos - para fundamentar o indeferimento de um pedido deduzido por esta defesa" (fl. 11).
+Requer, liminarmente, a suspensão da ação penal originária até o julgamento final destareclamação, e,no mérito, "seja a presente reclamação julgada procedente, a fim de que sejam desentranhados dos autos todos os elementos de informação e atos processuais praticados após a primeira decisão de recebimento da denúncia,para que seja, enfim, observado o quanto decidido no julgamento doHabeas Corpus nº 452.992/SP" (fl. 14).
+É o relatório.
+Decido.
+De início, transcrevo o art. 105, inciso I, alíneaf, da Constituição da República:
+"Art. 105. Compete ao Superior Tribunal de Justiça:
+I - processar e julgar, originariamente:
+ ..
+f) a reclamação para a preservação de sua competência e garantia da autoridade de suas decisões."
+Em outras palavras, e em conformidade com o disposto no art. 187 do Regimento Interno do Superior Tribunal de Justiça, a reclamação constitucional é reservada para garantira) a preservação da competência do Superior Tribunal de Justiça oub) a autoridade de seus julgados, no caso de descumprimento ou, é claro, o cumprimento parcial dodecisum.
+Na decisão indicada como descumprida, a Sexta Turma desta Corte concedeu ordem de habeas corpus apenas para, em relação ao ora Reclamante, "anular os atos de instrução da Ação Penal n. 0012601-70.2017.8.26.0510 e, por conseguinte, a superveniente sentença prolatada em seu desfavor, para que sejam renovados, em estrita observância ao direito de ampla defesa e contraditório" (fls. 6840-6841do HC n. 452.992/SP; grifos no original).
+O Juízode primeiro grau, no ato ora Reclamado, contudo, decidiu tão somente o que se segue, na parte que interessa aopresente feito(fl. 70; sem grifos no original):
+"II - Fls. 9659/9664: Desnecessário o desentranhamento, tendo em vista que em razão da anulação dos atos de instrução eles não serão considerados."
+Do excerto transcrito, evidencia-seque o ajuizamento da presente Reclamação é manifestamenteincabível para os fins pretendidos.
+Com efeito,garantir a autoridade das decisões pressupõe não permitir o descumprimento das diretrizes objetivas emanadas deste Superior Tribunal de Justiça em seus julgados, o que não se confunde com a pretensão de trazer diretamente a esta Corte questões outras decorrentes de desdobramentos do feito.
+No caso, o desentranhamento na formarequeridapela Defesa nesta insurgência não foi, concretamente, objeto do acórdão apontadocomo descumprido.Assim, independentemente de as alegações de mérito terem ou não fundamento, certo é que o inconformismo ventilado peloReclamantenão se relaciona diretamente com os parâmetros da decisão do Superior Tribunalde Justiça.
+Sem prejuízo de que a Defesa impugne o ato pela via recursal adequada, observo, apenas para fins de análise do cabimento da reclamação, que a anulaçãoalcançou apenas os atos instrutórios realizados sem que a Defesa tivesse amplo acesso às provas produzidas, ou seja, a renovação dos atos de instrução pelo Juízo, conforme noticia o próprio Reclamante, evidencia o cumprimento da decisão desta Corte de Justiça.
+Por tal motivo,não se identificaafronta à autoridade de decisão desta Corte,sendo as pretensas ilegalidadespassíveis de correção pela via recursal própriaou dohabeas corpus.
+Cito,mutatis mutandis, os seguintes julgados da Terceira Seção deste Tribunal:
+"AGRAVO INTERNO EM RECLAMAÇÃO. DESCUMPRIMENTO DE DECISÃO. INOCORRÊNCIA. HIPÓTESES DE CABIMENTO TAXATIVAS. ADERÊNCIA ESTRITA ENTRE ATO JUDICIAL RECLAMADO E PARADIGMA CONTRARIADO. INEXISTÊNCIA. AGRAVO DESPROVIDO.
+1. A reclamação constitucional não deve ser utilizada como sucedâneo recursal. As suas hipóteses de cabimento são específicas e taxativas. Precedentes.
+2. Ademais, "o cabimento da reclamação, com fundamento no descumprimento de decisão judicial, exige a demonstração da existência de aderência estrita entre o ato judicial reclamado e o paradigma tido como contrariado pela parte reclamante. A ausência de identidade perfeita entre eles, nos termos da jurisprudência do STF e do STJ, inviabiliza o ajuizamento da reclamação"(AgInt nos EDcl no AgInt na Rcl 38.162/SP, Rel. Ministro OG FERNANDES, PRIMEIRA SEÇÃO, julgado em 31/8/2021, DJe 10/9/2021).
+ ..
+6. Agravo interno desprovido."(AgInt nos EDcl na Rcl n. 42.221/MS, Rel. Ministro RIBEIRO DANTAS, TERCEIRA SEÇÃO, julgado em 23/02/2022, DJe 02/03/2022; sem grifos no original.)
+"AGRAVO REGIMENTAL EM EMBARGOS DE DECLARAÇÃO EM RECLAMAÇÃO. ALEGADO DESCUMPRIMENTO DE JULGADO DESTA CORTE EM HABEAS CORPUS, NO QUAL SE CONDICIONOU A REALIZAÇÃO DE EXAME CRIMINOLÓGICO À PRÉVIA REALIZAÇÃO DE AVALIAÇÃO PSICOLÓGICA, À QUAL INCUMBIRIA SINALIZAR SE O EXAME CRIMINOLÓGICO SERIA NECESSÁRIO, OU NÃO. DECISÃO POSTERIOR DO JUÍZO DAS EXECUÇÕES QUE DETERMINOU A REALIZAÇÃO, TAMBÉM, DE AVALIAÇÃO PSIQUIÁTRICA PARA, COMPLEMENTANDO OS DADOS JÁ EXISTENTES, ANALISAR O PREENCHIMENTO DOS REQUISITOS NECESSÁRIOS PARA A PROGRESSÃO DE REGIME. INEXISTÊNCIA DE DESCUMPRIMENTO. TENTATIVA DE DAR À DECISÃO APONTADA COMO DESCUMPRIDA ABRANGÊNCIA MAIOR DO QUE A QUE EFETIVAMENTE TEM. AGRAVO REGIMENTAL DESPROVIDO.
+1. Se a decisão desta Corte apontada como descumprida limitou-se a condicionar a realização de exame criminológico à prévia avaliação do condenado por um psicólogo, a determinação posterior, pelo Juízo de execução, de realização, também, de avaliação psiquiátrica não descumpre julgado deste Tribunal.
+ ..
+3. Não existindo descumprimento de decisão judicial emanada desta Corte identificável em um juízo perfunctório, a reclamação não preenche todos os requisitos processuais necessários para o seu conhecimento, carecendo de interesse processual, na modalidade "adequação", o que autoriza a sua extinção sem resolução de mérito.
+4. Agravo regimental a que se nega provimento." (AgRg nos EDcl na Rcl n. 38.915/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, TERCEIRA SEÇÃO, julgado em 09/10/2019, DJe14/10/2019; sem grifos no original.)
+Desse modo, o pedido formulado na presente Reclamaçãoé incognoscível pelo Superior Tribunal de Justiça.
+Ante o exposto, com fundamento noart. 34, inciso XVIII, alínea a, do RISTJ,INDEFIRO LIMINARMENTE a petição inicial.
+Publique-se. Intimem-se.
+EMENTA
+RECLAMAÇÃO CONSTITUCIONAL. AUTORIDADE DA DECISÃO PROFERIDA NO HC N. 452.992/SP, REL. MINISTRA LAURITA VAZ, NÃO VIOLADA NO ATO DO JUÍZO RECLAMADO. VIA INADEQUADA PARA SOLUCIONAR CONTROVÉRSIAS DIVERSAS DO QUE FORA DETERMINADO NO DISPOSITIVO ALEGADAMENTE DESCUMPRIDO. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA.
