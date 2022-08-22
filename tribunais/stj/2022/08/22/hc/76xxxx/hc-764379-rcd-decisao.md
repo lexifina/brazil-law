@@ -1,0 +1,9 @@
+DECISÃO
+Pelos mesmos fundamentos que ensejaram o indeferimento da liminar, indefiro o presente pedido de reconsideração.
+Com efeito, como assentado na decisão que denegou o pedido urgente,a análise da questão excede os limites cognitivos do pedido liminar,pois demanda incursão no mérito do writ e possuiu natureza satisfativa, devendo serrealizada em momento oportuno, após a verificação mais detalhada dos dados constantesdo processo, notadamente diante da complexidade das alegações postas na impetração, que demandam aprofundado exame dos elementos constantes dos autos.
+Assim, doexame perfunctório, portanto, não permite a constatação de indíciossuficientes para a configuração do fumus boni iuris, não se configurando, de plano,flagrante ilegalidade a ensejar a concessão da medida de urgência, mesmo que seja para a suspensão da ação penal cujo transcurso, presume-se de forma relativa, têm observado as normas legais e constitucionais, ainda mais porque o acórdão recorrido assentou que"O recebimento da denúncia está consubstanciado em provas diversas e autônomas da contestada gravação realizada pelo corréu colaborador"(fl. 7351), sendo que a suposta ilicitude da gravação ambiental realizada por corréu colaborador somente será possível de ser aferida no julgamento do mérito da presente impetração, após a colheita das informações e manifestação do Ministério Público Federal.
+Ademais, a mera realização de interrogatório dos pacientes designados para o dia 5/9/2022 não constitui, de per si, gravame excessivo apto a ensejar a suspensão da ação penal, notadamente diante do direito dos acusados em permanecer em silêncio.
+Ante o exposto, indefiro do pedido de reconsideração.
+Solicitem-se, com urgência e via telegrama, informações atualizadas e pormenorizadas ao d. Juízo de origem e ao eg. Tribunal a quo, a serem prestadas, preferencialmente, pela Central de Processo Eletrônico - CPE do STJ.
+Após, vista dos autos ao Ministério Público Federal.
+P. e I.
