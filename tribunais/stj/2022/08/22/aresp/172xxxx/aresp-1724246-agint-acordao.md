@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 16/08/2022 a 22/08/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA: Trata-se de agravo interno manejado pelo Município de São Paulo desafiando decisão que não conheceu do agravo em recurso especial, ante a incidência da Súmula 182/STJ, visto que não refutados os alicerces do juízo de prelibação, a saber, a aplicação da Súmula 282/STF, assinalando-se, ainda, que, nostermos da Súmula 123/STJ ("A decisão que admite, ou não, o recurso especial deve ser fundamentada, com o exame dos seus pressupostos gerais e constitucionais"), é atribuição do Tribunal a quo, naquele momento processual, analisar os pressupostos específicos e constitucionais concernentes ao mérito da controvérsia.
+O agravante, em suas razões, sustenta que houve refutação ao aludido fundamento, fazendo menção a trecho do agravo em recurso especial (fl. 691). Insiste que "houve o prequestionamento do art. 113, § 2º do CTN" (fl. 691), aduzindo que, "ainda que os dispositivos legais não tenham sido expressamente indicados, o que importa é que a matéria federal foi objeto de debate e pronunciamento no v. acórdão recorrido" (fl. 691).
+Impugnação às fls. 724/729.
+É O RELATÓRIO.
+EMENTA
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FALTA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ.
+1. Nos termos da Súmula 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida".
+2. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (RELATOR): A irresignação não merece acolhimento, tendo em conta que a parte agravante não logrou desenvolver argumentação apta a desconstituir os fundamentos adotados pela decisão recorrida, que ora submeto ao Colegiado para serem confirmados:
+Trata-se de agravo manejado por Município de São Paulo contra decisão da Primeira Vice-Presidência do Tribunal de Justiça do Estado de São Paulo que inadmitiu seu recurso especial ante os seguintes fundamentos: (I) incidência da Súmula 282/STF; (II) "os argumentos expendidos não são suficientes para lhe dar respaldo" (fl. 611) e (III) incidência da Súmula 7/STF.
+A agravante, em síntese, alega que: (I) "a decisão recorrida proferiu verdadeiro juízo de mérito, suprimindo o grau de jurisdição da Instância Superior, furtando-se, inclusive, de decidir acerca da única matéria que seria de sua competência, qual seja, o exame da admissibilidade do recurso em tela, negando, destarte, vigência ao sistema processual vigente" (fl. 617) e (II) não há ofensa à súmula 7/STJ no caso dos autos.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Anote-se, de início, não assistir razão à parte agravante ao alegar que a instância de origem, ao realizar o juízo de admissibilidade do recurso especial, usurpou a competência do Superior Tribunal de Justiça. Isso porque, nos termos da Súmula 123/STJ ("A decisão que admite, ou não, o recurso especial deve ser fundamentada, com o exame dos seus pressupostos gerais e constitucionais.") é atribuição do Tribunal a quo, naquele momento processual, analisar os pressupostos específicos e constitucionais concernentes ao mérito da controvérsia. Confiram-se, nesse mesmo sentido, os seguintes precedentes: RCDESP no AREsp 211.716/SP, Rel. Ministro Raul Araújo, Quarta Turma, DJe 25/9/2012; AgRg no Ag 1.424.298/MG, Rel. Ministro Humberto Martins, Segunda Turma, DJe 27/10/2011; AgRg no Ag 1.147.395/SP, Rel. Ministro Arnaldo Esteves Lima, Primeira Turma, DJe 12/11/2010; e AgRg no Ag 1.134.224/SP, Rel. Ministro Castro Meira, Segunda Turma, DJe 2/2/2010.
+Ademais, verifica-se que o inconformismo nem sequer ultrapassa a barreira do conhecimento, pois não foi impugnado um dos fundamentos adotados pelo Tribunal de origem para negar trânsito ao apelo especial, qual seja, a aplicação do óbice previsto na Súmula 282/STF, fundamento autônomo e suficiente para a manutenção da decisão ora agravada.
+Incide, desse modo, por analogia, a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida.").
+Registre-se que a Corte Especial do STJ, na assentada de 19 de setembro de 2018, ao julgar o EAREsp 701.404/SC e o EAREsp 831.326/SP (Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ Acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 19/09/2018, DJe 30/11/2018), reforçou a compreensão de que o recorrente deve impugnar especificamente todos os fundamentos da decisão agravada, sob pena de não conhecimento do agravo, por aplicação da Súmula 182.
+ANTE O EXPOSTO, nos termos do art. 932, III, do CPC/2015, não conheço do agravo.
+Publique-se.
+Conforme assinalado na decisão alvejada, a leitura atenta das razões de agravo em recurso especial revela que nelas, de fato, não houve refutação ao alicerce do juízo de inadmissão relativo à incidência da Súmula 282/STF à hipótese (cf fls. 615/620).
+Realmente, a parte agravante cingiu-se a argumentar que "a decisão recorrida proferiu verdadeiro juízo de mérito, suprimindo o grau de jurisdição da Instância Superior, furtando-se, inclusive, de decidir acerca da única matéria que se- ria de sua competência, qual seja, o exame da admissibilidade do recurso em tela, negando, destarte, vigência ao sistema processual vigente" (fl. 618), alegação esta que, além de não se prestar a infirmar o aludido fundamento da decisão de prelibação, não encontra albergue nesta Corte Superior à luz do verbete sumular 123/STJ.
+Ressalte-se, outrossim, que o trecho do agravo em recurso especial destacado pela ora agravante (fl. 691) corrobora essa constatação.
+Anote-se, por fim, que a alegação da agravante de que, "ainda que os dispositivos legais não tenham sido expressamente indicados, o que importa é que a matéria federal foi objeto de debate e pronunciamento no v. acórdão recorrido" (fl. 691) não logra reverter a conclusão da decisão agravada em seu favor.
+A uma, tendo em vista que veio desprovida de transcrição do trecho do aresto a quo que demonstrasse a alegada existência do prequestionamento, ainda que implícito, da questão federal-deficiência de fundamentação recursal esta capaz de atrair a Súmula 284/STF.
+A duas, não haveria mesmo como considerar tal argumento trazido tão somente no agravo interno, haja vista a necessidade de os recursos se mostrarem perfeitos, completos e acabados no momento de sua interposição. Assim, por não haver constado do agravo em recurso especial, essa alegação se constitui em indevida inovação recursal, inviável de ser apreciada pelo órgão colegiado.
+A propósito:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO ANTE A FALTA DE IMPUGNAÇÃO DE FUNDAMENTO DA DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL. AGRAVO DESPROVIDO.
+1. O agravo em recurso especial que não impugna especificamente os fundamentos adotados na decisão de inadmissibilidade do recurso especial não merece conhecimento.
+1.1. A impugnação tardia de óbice de inadmissibilidade de recurso especial em sede de agravo regimental esbarra na preclusão consumativa.
+1.2. "A decisão que não admite o recurso especial tem dispositivo único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso, portanto, não há capítulos autônomos e, assim, deve ser impugnada em sua integralidade. (EAREsp n. 701.404/SC, Corte Especial, Rel. Min. João Otávio de Noronha, Rel. p/ Acórdão Min. Luis Felipe Salomão, DJe de 30/11/2018)" (AgRg no AREsp 1552169/RS, Rel. Ministro LEOPOLDO DE ARRUDA RAPOSO (DESEMBARGADORCONVOCADO DO TJ/PE), QUINTA TURMA, DJe 11/11/2019).
+2. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.021.650/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 10/5/2022, DJe de 12/5/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA A FUNDAMENTOS DA DECISÃO OBJETO DO AGRAVO EM RECURSO ESPECIAL. INSURGÊNCIA CONTRA A INCIDÊNCIA DAS SÚMULA 5 E 83 DO STJ APENAS NAS RAZÕES DO PRESENTE AGRAVO INTERNO. IMPUGNAÇÃO TARDIA.
+PRECLUSÃO CONSUMATIVA. PRECEDENTES. MANUTENÇÃO DA DECISÃO AGRAVADA.
+AGRAVO INTERNO DESPROVIDO.
+(AgInt no AREsp n. 1.984.139/PE, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 25/4/2022, DJe de 27/4/2022.)
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO. AUSÊNCIA DE IMPUGNAÇÃO AO FUNDAMENTO DA DECISÃO AGRAVADA. SÚMULA 182/STJ.
+1. Segundo o comando contido no art. 1.021, § 1º, do CPC/2015, constitui ônus da parte agravante impugnar especificamente os fundamentos da decisão combatida, o que, na hipótese dos autos, não foi observado.
+2. A impugnação tardia dos fundamentos da decisão que não admitiu recurso especial (somente por ocasião do manejo de agravo interno), além de caracterizar inovação recursal, não tem o condão de afastar a aplicação do referido verbete 182/STJ, tendo em vista a ocorrência de preclusão consumativa. Precedentes.
+3. Agravo interno não conhecido.
+(AgInt no AREsp n. 1.873.408/RJ, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 28/3/2022, DJe de 31/3/2022.)
+ANTE O EXPOSTO, nega-se provimento ao agravo interno.
+É o voto.
