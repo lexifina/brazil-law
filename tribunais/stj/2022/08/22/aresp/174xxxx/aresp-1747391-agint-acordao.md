@@ -1,0 +1,63 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 16/08/2022 a 22/08/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+EMENTA
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. REAJUSTE DE 28,86%. ANUÊNIOS. BASE DE CÁLCULO. IMPOSSIBILIDADE. BIS IN IDEM.
+1.A incidência do reajuste de 28,86% sobre os anuênios é devida nos casos em que tal verba incida sobre base de cálculo não reajustada pelo mesmo índice, a fim de evitarbis in idem. (AgInt nos EDcl no REsp n. 1.524.695/PR, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 21/8/2019).
+2. Precedentes do STJ: EDcl no AgInt no REsp n. 1.385.196/PR, de minha relatoria, Segunda Turma, DJe de 1º/2/2022; AgInt no REsp n. 1.317.479/PR, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 1º/3/2021; AgInt nos EDcl no REsp n. 1.524.695/PR, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 21/8/2019; AgInt no REsp n. 1.518.515/PR, de minha relatoria, Segunda Turma, DJe de 5/12/2017; AgInt nos EDcl nos EDcl no REsp n. 1.377.774/PR, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 9/5/2019; AgRg nos EDcl no REsp n. 1.457.873/PR, relator Ministro Humberto Martins, Segunda Turma, DJe de 25/3/2015.
+3. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno, de e-STJ, fls. 1.366-1.373,interposto por Sueli Terezinha Macedo e outros contra decisão que, acolhendo os embargos de declaração da União,deu provimento ao recurso especial, fixando a orientação de que a incidência do reajuste de 28,86% sobre os anuênios é devida nos casos em que tal verba incida sobre base de cálculo não reajustada pelo mesmo índice, sob pena de bis in idem.
+Os agravantes alegamque a decisão merece ser reconsiderada, por entenderem que, no caso, não se discute " ..  a impossibilidade de dupla incidência do reajuste de 28,86% na base de cálculo do adicional por tempo de serviço, mas sim a própria inclusão do referido reajuste na base de cálculo dos anuênios - em conformidade com o entendimento já consolidado deste Superior Tribunal de Justiça" (e-STJ, fls. 1.367-1.368).
+Apontam que "o E. Tribunal de origem não reconheceu a inclusão dos 28,86% sobre os valores devidos a título de anuênios, sob o argumento de que os anuênios seriam calculados sobre o vencimento básico dos servidores, o qual já teria sido acrescido do reajuste de 28,86%, afrontando posicionamento já pacificado desta E. Corte Superior" (e-STJ, fl. 1.368).
+Contrarrazões apresentadas às e-STJ, fls. 1.376-1.378.
+É o relatório.
+EMENTA
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. REAJUSTE DE 28,86%. ANUÊNIOS. BASE DE CÁLCULO. IMPOSSIBILIDADE. BIS IN IDEM.
+1.A incidência do reajuste de 28,86% sobre os anuênios é devida nos casos em que tal verba incida sobre base de cálculo não reajustada pelo mesmo índice, a fim de evitarbis in idem. (AgInt nos EDcl no REsp n. 1.524.695/PR, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 21/8/2019).
+2. Precedentes do STJ: EDcl no AgInt no REsp n. 1.385.196/PR, de minha relatoria, Segunda Turma, DJe de 1º/2/2022; AgInt no REsp n. 1.317.479/PR, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 1º/3/2021; AgInt nos EDcl no REsp n. 1.524.695/PR, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 21/8/2019; AgInt no REsp n. 1.518.515/PR, de minha relatoria, Segunda Turma, DJe de 5/12/2017; AgInt nos EDcl nos EDcl no REsp n. 1.377.774/PR, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 9/5/2019; AgRg nos EDcl no REsp n. 1.457.873/PR, relator Ministro Humberto Martins, Segunda Turma, DJe de 25/3/2015.
+3. Agravo interno a que se nega provimento.
+VOTO
+A pretensão recursal não merece êxito, na medida em que os interessados não trouxeram argumentos aptos à alteração do posicionamento anteriormente firmado.
+A Corte de origem afastou a incidência do reajuste de 28,86% sobre a base de cálculo do anuênios, com amparo no seguinte (e-STJ, fls. 1.146-1.147):
+Da inclusão do índice de 28,86% na base de cálculo dos anuênios nos termos da jurisprudência pacífica desta Corte, o reajuste de 28,86% deve incidir sobre a base de cálculo do adicional por tempo de serviço, porquanto a base de cálculo do reajuste é a remuneração do servidor, devendo abranger, portanto, os anuênios.
+Com efeito, consistindo os anuênios em vantagem que é calculada sobre o vencimento básico do servidor, é certo que o respectivo percentual deve incidir sobre tal rubrica reajustada pelo percentual de 28,86%, tendo em vista que a Medida Provisória nº 1.704/98 reconheceu que a vantagem de 28,86% deveria ser estendida aos servidores públicos civis do Poder Executivo Federal, a partir de janeiro de 1993.
+Ora, se o reajuste geral de 28,86% foi estendido a todo o funcionalismo público por lei, de fato, a sentença que determinou a concessão de anuênios não necessitava explicitar que o índice legal deveria compor a base de cálculo, não havendo falar em ofensa à coisa julgada ou em violação à eficácia preclusiva do julgado.
+Para isso, deve-se apurar as diferenças do aumento de 28,86% realmente devidas, compensados os acréscimos decorrentes das Leis 8.622/93 e 8.627/93, bem como aqueles da Medida Provisória nº 1.704-5/98, limitada a diferença do percentual de 28,86% à eventual reestruturação de carreira.
+A jurisprudência do Superior Tribunal de Justiça firmou a orientação de que "o reajuste de 28,86% deve incidir sobre a base de cálculo do adicional por tempo de serviço, porquanto a base de cálculo do reajuste é a remuneração do Servidor, devendo abranger, portanto, os anuênios. Cabe a ressalva de que tal incidência só é cabível nos casos em que a verba incida sobre a base de cálculo não reajustada pelo mesmo índice, sob pena de bis in idem" (AgInt nos EDcl no REsp n. 1.524.695/PR, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 21/8/2019).
+Em igual sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO JUDICIAL. ACORDO ADMINISTRATIVO ENTRE AS PARTES. OBSCURIDADE QUANTO AOS HONORÁRIOS ADVOCATÍCIOS. DIREITO AUTÔNOMO. ACLARATÓRIOS PARCIALMENTE ACOLHIDOS.
+ ..
+4. A Segunda Turma negou provimento ao agravo interno ao proclamar que a incidência do reajuste de 28,86% sobre os anuênios é devida nos casos em que tal verba incida sobre base de cálculo não reajustada pelo mesmo índice, sob pena de bis in idem, bem como a revisão da distribuição dos ônus sucumbenciais, em recurso especial, atrai a incidência da Súmula n. 7 do STJ.
+5. Embargos de declaração acolhidos em parte, com efeito modificativos, para afastar a obscuridade quanto ao direito aos honorários advocatícios celebrados via administrativa, reconhecendo que não foram atingidos pelo acordo administrativo.
+(EDcl no AgInt no REsp n. 1.385.196/PR, de minha relatoria, SEGUNDA TURMA, julgado em 14/12/2021, DJe de 1º/2/2022).
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR. REAJUSTE DE 28,86%. ANUÊNIOS. BASE DE CÁLCULO. IMPOSSIBILIDADE DE BIS IN IDEM. INCIDÊNCIA DAS SÚMULAS 7 E 83/STJ. RAZÕES DO AGRAVO QUE NÃO IMPUGNAM, ESPECIFICAMENTE, OS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. ALEGADA OFENSA AO ART. 535 DO CPC/73. INEXISTÊNCIA. AGRAVO INTERNO PARCIALMENTE CONHECIDO, E, NESSA EXTENSÃO, IMPROVIDO.
+ ..
+II. Na origem, trata-se de Embargos a Execução, opostos pela União, objetivando a redução do valor exequendo, a título de anuênios.
+III. Interposto Agravo interno com razões que não impugnam, especificamente, os fundamentos da decisão agravada, quanto à incidência das Súmulas 7 e 83/STJ, não prospera o inconformismo, quanto ao ponto, em face da Súmula 182 desta Corte, não bastando, para tanto, impugnação genérica.
+ ..
+VI. Ademais, a questão não é nova nesta Corte, firmada no sentido de que a base de cálculo dos 28,86% é a remuneração do servidor, devendo abranger os anuênios, sendo necessário, entretanto, aferir se tal verba não foi reajustada por aquele índice, sob pena de bis in idem. A propósito: STJ, AgInt no REsp 1.385.196/PR, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 10/09/2020, AgInt no REsp 1.342.636/PR, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 03/08/2017, e AgInt no REsp 1.518.515/PR, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 05/12/2017.
+VII. Agravo interno parcialmente conhecido, e, nessa extensão, improvido.
+(AgInt no REsp n. 1.317.479/PR, relatora MinistraASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 24/2/2021, DJe de 1º/3/2021).
+ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. INCIDÊNCIA DO REAJUSTE DE 28,86% SOBRE ANUÊNIOS. POSSIBILIDADE. AGRAVO INTERNO DA UNIÃO A QUE SE NEGA PROVIMENTO.
+1. Nos termos da jurisprudência pacífica desta Corte, o reajuste de 28,86% deve incidir sobre a base de cálculo do adicional por tempo de serviço, porquanto a base de cálculo do reajuste é a remuneração do Servidor, devendo abranger, portanto, os anuênios. Cabe a ressalva de que tal incidência só é cabível nos casos em que a verba incida sobre a base de cálculo não reajustada pelo mesmo índice, sob pena de bis in idem (AgRg nos EDcl no REsp 1.457.873/PR, Rel. Min. HUMBERTO MARTINS, DJe 25.3.2015).
+2. Agravo Interno da UNIÃO a que se nega provimento.
+(AgInt nos EDcl no REsp n. 1.524.695/PR, relator Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 19/8/2019, DJe de 21/8/2019).
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. REAJUSTE DE 28,86%. ANUÊNIOS. BASE DE CÁLCULO. IMPOSSIBILIDADE. BIS IN IDEM. ÔNUS DA SUCUMBÊNCIA. SUCUMBÊNCIA MÍNIMA. REDISTRIBUIÇÃO. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. A incidência do reajuste de 28,86% sobre os anuênios é devida nos casos em que tal verba incida sobre base de cálculo não reajustada pelo mesmo índice, sob pena de bis in idem.
+ ..
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.518.515/PR, de minha relatoria, SEGUNDA TURMA, julgado em 28/11/2017, DJe de 5/12/2017).
+ADMINISTRATIVO. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. INCIDÊNCIA DO REAJUSTE DE 28,86% SOBRE ANUÊNIOS. POSSIBILIDADE. AGRAVO INTERNO DA FUNASA A QUE SE DÁ PROVIMENTO.
+1. Nos termos da jurisprudência pacífica desta Corte, o reajuste de 28,86% deve incidir sobre a base de cálculo do adicional por tempo de serviço, porquanto a base de cálculo do reajuste é a remuneração do Servidor, devendo abranger, portanto, os anuênios. Cabe a ressalva de que tal incidência só é cabível nos casos em que a verba incida sobre a base de cálculo não reajustada pelo mesmo índice, sob pena de bis in idem (AgRg nos EDcl no REsp. 1.457.873/PR, Rel. Min. HUMBERTO MARTINS, DJe 25.3.2015).
+2. No caso dos autos, o acórdão recorrido decidiu conforme a jurisprudência desta Corte, ao afirmar que no que se refere à incidência do reajuste de 28,86% sobre os anuênios, cabe salientar que a base de cálculo do referido adicional é o vencimento básico do servidor. Portanto, tendo este sido reajustado (MP nº 1.704-5/98), o adicional, por sua vez, também o foi, não podendo receber novo reajuste (fls. 1348).
+3. Ante o exposto, dá-se provimento ao Agravo Interno da FUNASA.
+(AgInt nos EDcl nos EDcl no REsp n. 1.377.774/PR, relator Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 25/4/2019, DJe de 9/5/2019).
+PROCESSUAL CIVIL E ADMINISTRATIVO. ANUÊNIOS. BASE DE CÁLCULO. FÉRIAS E 13º SALÁRIO. OMISSÃO. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. HONORÁRIOS. COMPENSAÇÃO. SUCUMBÊNCIA MÍNIMA AFASTADA PELO TRIBUNAL DE ORIGEM. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. REAJUSTE DE 28, 86%. ANUÊNIOS. BASE DE CÁLCULO JÁ REAJUSTADA. BIS IN IDEM.
+1. Nos termos da jurisprudência pacífica desta Corte, o reajuste de 28,86% deve incidir sobre a base de cálculo do adicional por tempo de serviço, porquanto a base de cálculo do reajuste é a remuneração do servidor, devendo abranger, portanto, os anuênios. Cabe a ressalva de que tal incidência só é cabível nos casos em que a verba incide sobre a base de cálculo não reajustada pelo mesmo índice, sob pena de bis in idem.
+ .. .
+Agravo regimental improvido.
+(AgRg nos EDcl no REsp n. 1.457.873/PR, relator Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 19/3/2015, DJe de 25/3/2015).
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
