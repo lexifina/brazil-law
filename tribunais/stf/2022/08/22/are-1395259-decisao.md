@@ -1,0 +1,39 @@
+DIREITO ADMINISTRATIVO. TRANSPORTE PÚBLICO COLETIVO. COMPETÊNCIA LEGISLATIVA. LEI MUNICIPAL Nº 2.356/2004. GRATUIDADE NO TRANSPORTE PÚBLICO COLETIVO. NECESSIDADE DE ANÁLISE DA LEGISLAÇÃO LOCAL. SÚMULA 280/STF. RECURSO EXTRAORDINÁRIO COM AGRAVO A QUE SE NEGA SEGUIMENTO
+
+    Vistos etc.
+
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal de Justiça do Estado de Minas Gerais, maneja agravo o Presidente da Câmara Municipal de Itabirito/MG. Na minuta, sustenta que o recurso extraordinário reúne todos os requisitos para sua admissão.
+
+    Nas razões do extraordinário, com base no art. 102, III, da Lei Maior, o agravante alega que a norma municipal impugnada não tem vício material, argumentando que o art. 230, § 2º, da Constituição Federal, ao impor o limite de 65 anos para que seja disponibilizada a gratuidade, não impede que os Municípios, de acordo com a realidade local, estipulem um limite menor de idade para a concessão do benefício, como procedeu o Município de Itabirito em relação às pessoas a partir dos 60 anos. Aparelhado o recurso na violação do art. 230, § 2º, da Lei Maior.
+
+    É o relatório.
+
+    Decido.
+
+    Preenchidos os pressupostos extrínsecos.
+
+    O Órgão Especial do Tribunal de Justiça do Estado de Minas Gerais julgou procedente a representação de inconstitucionalidade da Lei nº 2.356/2004, do Município de Itabirito/MG, que concede gratuidade no transporte público coletivo às pessoas maiores de 60 (sessenta) anos. O acórdão está assim ementado:
+
+    “DIREITO CONSTITUCIONAL, ADMINISTRATIVO E PROCESSUAL CIVIL - AÇÃO DIRETA DE INCONSTITUCIONALIDADE – PRELIMINAR – INCOMPETÊNCIA DO TJMG PARA O PROCESSAMENTO E JULGAMENTO DA ADI – AFRONTA A TEXTO DA CONSTITUIÇÃO DA REPÚBLICA – REJEIÇÃO - MUNICÍPIO DE ITABIRITO - LEI Nº 2.356/04 – CONCESSÃO DE GRATUIDADE NO TRANSPORTE PÚBLICO COLETIVO ÀS PESSOAS MAIORES DE 60 (SESSENTA) ANOS - OFENSA AO DISPOSTO NO § 3.º, ARTIGO 225, DA CONSTITUIÇÃO DO ESTADO DE MINAS GERAIS – VIOLAÇÃO AO PRINCÍPIO DA SIMETRIA CONCÊNTRICA – VÍCIO DE INICIATIVA – COMPETÊNCIA DO PREFEITO PARA DEFLAGRAÇÃO DO DEVIDO PROCESSO LEGISLATIVO – AFRONTA AO PRINCÍPIO DA SEPARAÇÃO DOS PODERES - VÍCIO MATERIAL E FORMAL DE INCONSTITUCIONALIDADE - MODULAÇÃO DOS EFEITOS – NECESSIDADE - REPRESENTAÇÃO JULGADA PROCEDENTE. - O Supremo Tribunal Federal, ao decidir sobre a questão, em regime de repercussão geral, concluiu ter competência os Tribunais Estaduais para o julgamento, no controle concentrado de constitucionalidade, das ações que impugnam atos normativos municipais em face da Constituição da República, quando o questionamento tenha como objeto norma constitucional estadual de repetição vinculada. - O Município, como ente autônomo da Federação, vincula-se às normas constitucionais de observância obrigatória, conforme o disposto no artigo 165, §1.º, da CEMG. - O Diploma legal impugnado, ao conceder gratuidade no transporte público coletivo urbano e semiurbano às pessoas com mais de 60 (sessenta anos) de idade, sobejou os limites traçados na CR/88 - §2º, do artigo 230 – e reproduzidos no §3º, artigo 225, da Carta Estadual, configurando vício de inconstitucionalidade material, por inobservância do princípio da simetria concêntrica. - E é do Chefe do Executivo a iniciativa legislativa, por repercutir na gestão dos contratos firmados entre a Administração e as concessionárias de serviço público, necessitando de prévia adoção de mecanismos que restabeleçam o equilíbrio econômico-financeiro dos ajustes, evidenciando ofensa ao princípio da separação dos poderes. Precedentes do STF. - Em prol da segurança jurídica, de modo a proteger situações jurídicas consolidadas, devem ser modulados os efeitos da decisão, observado o quórum de sua aprovação, em conformidade com preceito autorizativo contido no artigo 5.º, da Lei Federal n.º 9.868/99 e artigo 337 do Regimento Interno deste Tribunal.”
+
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+
+    Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais, porquanto, no caso, a suposta ofensa somente poderia ser constatada a partir da análise da legislação infraconstitucional local aplicada (Lei Municipal nº 2.356/2004 e Constituição do Estado de Minas Gerais), o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário.
+
+    Dessarte, desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da jurisprudência deste Supremo Tribunal Federal. Aplicação da Súmula nº 280/STF: “Por ofensa a direito local não cabe recurso extraordinário”. Nesse sentido:
+
+    “SUSPENSÃO DE LIMINAR. GRATUIDADE DE TRANSPORTE PÚBLICO COLETIVO PARA USUÁRIOS IDOSOS, DOENTES E DEFICIENTES. APLICAÇÃO DA LEI ORGÂNCIA DO MUNICÍPIO. MATÉRIA INFRACONSTITUCIONAL. OFENSA INDIRETA OU REFLEXA. AGRAVO A QUE SE NEGA PROVIMENTO. I – A causa em exame versa sobre a gratuidade de transporte público com fundamento na Lei Orgânica do Município, cuja natureza infraconstitucional afasta a competência do Supremo Tribunal Federal para apreciar o pedido de suspensão. II – Agravo regimental a que se nega provimento” (SL 552 AgR, Rel.Min. Ricardo Lewandowski (Presidente), Tribunal Pleno, julgado em 01.7.2015, PROCESSO ELETRÔNICO DJe-163 DIVULG 19.8.2015 PUBLIC 20.8.2015).
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. TRANSPORTE PÚBLICO. PASSE LIVRE. TRATAMENTO DE SAÚDE. ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. INCURSIONAMENTO NO CONTEXTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULAS Nº 279 E Nº 280 DO STF. 1. A gratuidade no deslocamento para tratamento de saúde, quando aferido pelas instâncias ordinárias, encerra a análise de norma infraconstitucional local e o reexame do conjunto fático-probatório dos autos. 2. A violação reflexa e oblíqua da Constituição Federal decorrente da necessidade de análise de malferimento de dispositivo infraconstitucional local torna inadmissível o recurso extraordinário, a teor do Enunciado da Súmula nº 280 do Supremo Tribunal Federal, verbis: ‘Por ofensa a direito local não cabe recurso extraordinário’. 3. O recurso extraordinário não se presta ao exame de questões que demandam revolvimento do contexto fático-probatório dos autos, adstringindo-se à análise da violação direta da ordem constitucional. 4. In casu, o acórdão recorrido assentou: ‘Apelação Cível. Pedido de concessão de passe para utilização gratuita de transporte coletivo. Alegação de estar o autor acometido de doença crônica. O elenco de doenças constantes do inciso VI do artigo 17 da Lei nº 3.167/2000 não pode receber interpretação ampliativa, porque se tal norma de um lado concede direitos, de outro estabelecer ônus para o prestador de serviço, não sendo dado ao Judiciário estabelecer obrigações não previstas em lei. Desprovimento do recurso’. 5. Agravo regimental DESPROVIDO” (RE 827375 AgR, Rel. Min. Luiz Fux, 1ª Turma, julgado em 28.4.2015, PROCESSO ELETRÔNICO DJe-090 DIVULG 14.5.2015 PUBLIC 15.5.2015).
+
+    Por conseguinte, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+
+    Nego seguimento (art. 21, § 1º, do RISTF). Honorários advocatícios majorados em 10% (dez por cento), em desfavor da parte recorrente, caso fixada a verba honorária na origem, observados os limites previstos nos §§ 2º, 3º e 11 do art. 85 do CPC/2015, bem como a eventual concessão do benefício da gratuidade da Justiça.
+
+    Publique-se.
+
+    Brasília, 22 de agosto de 2022.
+
+Ministra Rosa Weber
+
+Relatora
