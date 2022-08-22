@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se de recurso especial interposto por DEV MINERAÇÃO S. A. - EM RECUPERAÇÃO JUDICIAL (DEV MINERAÇÃO), com fundamento no art. 105, III, alíneas a e c, da CF, contra acórdão proferido pelo Tribunal Paulista, relatado pelo Des. GILSON DELGADO MIRANDA, assim ementado:
+RECUPERAÇÃO JUDICIAL. Plano aprovado e homologado judicialmente.
+MEIOS DE RECUPERAÇÃO. Análise da viabilidade econômica e da idoneidade das medidas de soerguimento. Competência da assembleia geral de credores. Preponderância da vontade externada pela maioria dos credores. Impossibilidade de intervenção estatal. Ilegalidade não configurada.
+ALIENAÇÃO E ONERAÇÃO DE ATIVOS. Nulidade de qualquer interpretação afastando a necessidade de autorização judicial. Violação do art. 66 da Lei 11.101/05. Precedentes.
+PRAZO DE CARÊNCIA. Suposto descumprimento do prazo de supervisão judicial (art. 61 da Lei 11.101/05). Irrelevância. Prazo bienal de fiscalização tem início após o transcurso do prazo de carência fixado. Inteligência do Enunciado II do Grupo de Câmaras Reservadas de Direito Empresarial desta Corte, que deverá ser observado pelo juízo recuperacional.
+CONDIÇÕES GERAIS DE PAGAMENTO. Soberania da assembleia geral de credores. Atuação do Judiciário limitada ao controle de legalidade. Carência e concessão de prazos para pagamento de créditos estão inseridas dentre as tratativas passíveis de deliberação assemblear. Cláusulas válidas. Invalidade, porém, da adoção da TR como fator de atualização monetária. Necessidade de adoção de outro índice por proposta da recuperanda em primeiro grau e consequente deliberação na forma da lei. Admissibilidade de fixação de juros em patamar inferior ao previsto no art. 406 do CC.
+ILIQUIDEZ. Valor das parcelas fixado em percentual dos créditos e segundo a tabela de amortização. Prestações aferíveis por mero cálculo aritmético. Iliquidez não identificada.
+Recurso provido em parte, com observação (e-STJ, fls. 309/310).
+Opostos embargos de declaração por DEV MINERAÇÃO, foram acolhidos em parte, nos termos da seguinte ementa:
+EMBARGOS DE DECLARAÇÃO. Omissão verificada e suprida. Preliminar de não conhecimento do recurso analisada e rejeitada. Demais insurgências, porém, rejeitadas, porque não preenchidos os requisitos do art. 1.022 do CPC. Embargos acolhidos em parte, com efeito integrativo (e-STJ, fls. 418/423).
+Nas razões do presente recurso, DEV MINERAÇÃO alegou violação dos arts. 41, 42, 45 e 58 da Lei nº 11.101/05, bem como dissídio jurisprudencial, ao sustentar que não há qualquer ilegalidade na utilização da TR como indexador de correção monetária, ante a soberania da assembleia geral de credores (e-STJ, fls. 332/351).
+Foram apresentadas contrarrazões (e-STJ, fls. 433/441).
+O Ministério Público Federal opinou pelo provimento do recurso especial (e-STJ, fls. 480/488).
+É o relatório.
+Decido.
+O recurso merece prosperar.
+Da correção monetária prevista no plano de recuperação
+Nas razões do presente recurso, DEV MINERAÇÃO afirmou a violação dos arts. 41, 42, 45 e 58 da Lei nº 11.101/05, bem como dissídio jurisprudencial, ao sustentar que não há qualquer ilegalidade na utilização da TR como indexador de correção monetária, ante a soberania da assembleia geral de credores.
+Sobre o tema o Tribunal estadual consignou que a utilização da TR no plano de recuperação judicial para recomposição monetária dos créditos era ilegal, confira-se:
+Quanto à estipulação do índice de correção monetária, porém, houve recente alteração do entendimento desta colenda Câmara. Ressalvado o meu entendimento pessoal anteriormente exposto em diversos julgados, na esteira da disponibilidade dos direito sem questão e da natureza negocial do plano de recuperação judicial, curvo-me ao entendimento agora formado. Confira-se:
+ ..
+Nessa esteira, parece mais adequado que outro índice seja escolhido para substituir a TR por proposta da recuperanda em primeiro grau e consequente deliberação na forma da lei (e-STJ, fls. 324/325).
+Contudo, esta Corte Superior possui jurisprudência consolidada de que, não obstante a possibilidade de o Poder Judiciário efetuar o controle de legalidade em abstrato do plano de recuperação judicial, compete à assembleia geral de credores examinar a viabilidade econômica da sociedade empresária e deliberar sobre os termos da proposta apresentada.
+Confiram-se os seguintes precedentes:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. PLANO DE RECUPERAÇÃO JUDICIAL. CONTROLE DE LEGALIDADE. CONTEÚDO ECONÔMICO. EXAME. AUSÊNCIA. JULGADOR. POSSIBILIDADE. REVISÃO. SÚMULAS NºS 5 E 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. É vedado ao julgador adentrar nas particularidades do conteúdo econômico do plano de recuperação judicial aprovado com obediência ao art. 45 da Lei nº 11.101/2005, pois este possui índole predominantemente contratual. Todavia, o juiz está autorizado a realizar o controle de legalidade do plano de recuperação judicial sem adentrar no aspecto da sua viabilidade econômica.
+3. Na hipótese, alterar o entendimento das instâncias ordinárias para concluir pela invalidade das cláusulas aprovadas pela Assembleia Geral de Credores demandaria a análise dos fatos e das provas dos autos, procedimentos inviáveis em recurso especial em virtude da incidência das Súmulas nºs 5 e 7/STJ.
+4. Agravo interno não provido.
+(AgInt no REsp n. 1.931.922/SP, relator Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. em 27/6/2022, DJe de 30/6/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AOS ARTS. 489 E 1.022 DO CPC/2015. CONTROLE JUDICIAL DE LEGALIDADE DO PLANO. VIABILIDADE ECONÔMICA DO PLANO DE RECUPERAÇÃO JUDICIAL. AVALIAÇÃO SOBERANA DA ASSEMBLEIA GERAL DE CREDORES. REEXAME DO CONTRATO E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. AUSÊNCIA DE DEMONSTRAÇÃO DE OFENSA AOS DISPOSITIVOS LEGAIS INVOCADOS. SÚMULA N. 284/STF. DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. "No processo recuperacional, são soberanas as decisões da assembleia geral de credores sobre o conteúdo do plano de reestruturação e sobre as objeções/oposições suscitadas, cabendo ao magistrado apenas o controle de legalidade do ato jurídico, o que decorre, principalmente, do interesse público consubstanciado no princípio da preservação da empresa e consectária manutenção das fontes de produção e de trabalho" (REsp n. 1.587.559/PR, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 06/04/2017, DJe 22/05/2017).
+3. O recurso especial não comporta o exame de questões que impliquem interpretação de cláusula contratual ou revolvimento do contexto fático-probatório dos autos (Súmulas n. 5 e 7 do STJ).
+4. A deficiência na fundamentação do recurso, de modo a impedir a compreensão da suposta ofensa ao dispositivo legal invocado, obsta o conhecimento do recurso especial (Súmula n. 284/STF).
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.833.120/PR, relator Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, j. em 13/6/2022, DJe de 21/6/2022.)
+No que tange à correção monetária, esta Terceira Turma já teve oportunidade de se posicionar expressamente no sentido da inexistência de legalidade na aprovação pela assembleia geral de credores adotando a TR como indexador de atualização monetária, ainda que tal índice não tenha refletido o fenômeno inflacionário.
+Confira-se o precedente:
+RECURSO ESPECIAL. DIREITO DE EMPRESA. PLANO DE RECUPERAÇÃO JUDICIAL HOMOLOGADO. SUSPENSÃO DOS PROTESTOS TIRADOS EM FACE DA RECUPERANDA. CABIMENTO. CONSEQUÊNCIA DIRETA DA NOVAÇÃO SOB CONDIÇÃO RESOLUTIVA. CANCELAMENTO DOS PROTESTOS EM FACE DOS COOBRIGADOS. DESCABIMENTO. RAZÕES DE DECIDIR DO TEMA 885/STJ. PARCELAMENTO DOS CRÉDITOS EM 14 ANOS. CORREÇÃO MONETÁRIA PELA TR MAIS JUROS DE 1% AO ANO. CONTEÚDO ECONÔMICO DO PLANO DE RECUPERAÇÃO. REVISÃO JUDICIAL. DESCABIMENTO. INAPLICABILIDADE DA SÚMULA 8/STJ À RECUPERAÇÃO JUDICIAL.
+1. Controvérsia acerca da validade de um plano de recuperação judicial, na parte em que prevista a suspensão dos protestos e a atualização dos créditos por meio de TR  1% ao ano, com prazo de pagamento de 14 anos.
+2. Nos termos da tese firmada no julgamento do Tema 885/STJ: "A recuperação judicial do devedor principal não impede o prosseguimento das execuções nem induz suspensão ou extinção de ações ajuizadas contra terceiros devedores solidários ou coobrigados em geral, por garantia cambial, real ou fidejussória, pois não se lhes aplicam a suspensão prevista nos arts. 6º, caput, e 52, inciso III, ou a novação a que se refere o art. 59, caput, por força do que dispõe o art. 49, § 1º, todos da Lei n. 11.101/2005".
+3. Descabimento da suspensão dos protestos tirados em face dos coobrigados pelos créditos da empresa recuperanda. Aplicação das razões de decidir do precedente qualificado que deu origem ao supramencionado Tema 885/STJ.
+4. "Não compete ao juiz deixar de conceder a recuperação judicial ou de homologar a extrajudicial com fundamento na análise econômico-financeira do plano de recuperação aprovado pelos credores" (Enunciado nº 46 da I Jornada de Direito Comercial do CJF). Julgados desta Corte Superior nesse sentido.
+5. Descabimento da revisão judicial da taxa de juros e do índice de correção monetária aprovados pelos credores, em respeito à soberania da assembleia geral.
+6. Inaplicabilidade ao caso do entendimento desta Corte Superior acerca do descabimento da utilização da TR como índice de correção monetária de benefícios de previdência privada, tendo em vista a diferença entre a natureza jurídica de o contrato de previdência privada e a de um plano de recuperação judicial.
+7. Inaplicabilidade do entendimento consolidado na Súmula 8/STJ ("aplica-se a correção monetária aos créditos habilitados em concordata preventiva..") à recuperação judicial, em face da natureza jurídica absolutamente distinta da concordata (favor legal) em relação ao plano de recuperação judicial (negócio jurídico plurilateral). Doutrina sobre o tema.
+8. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+(REsp n. 1.630.932/SP, relator Ministro PAULO DE TARSO SANSEVERINO, Terceira Turma, j. em 18/6/2019, DJe de 1/7/2019.)
+Assim, porque os fundamentos adotados pelo acórdão recorrido estão em dissonância com o entendimento firmado nesta Terceira Turma, deve ser ele reformado.
+Nessas condições, DOU PROVIMENTO ao recurso especial, reconhecendo a validade da cláusula do plano de recuperação judicial relativamente à adoção da TR para correção monetária.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+EMPRESRIAL. RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. PLANO DE RECUPERAÇÃO. SOBERANIA DA ASSEMBLEIA. CORREÇÃO MONETÁRIA. TR. LEGALIDADE. RECURSO ESPECIAL PROVIDO.
