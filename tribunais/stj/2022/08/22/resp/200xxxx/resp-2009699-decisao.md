@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão com a seguinte ementa:
+APELAÇÕES CÍVEIS. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO REVISIONAL. SENTENÇA DE PARCIAL PROCEDÊNCIA RATIFICADA. RECURSO DO AUTOR. NÃO CONHECIMENTO. AUSÊNCIA DEINTERESSE RECURSAL. JUROS REMUNERATÓRIOS. CABIMENTO DA LIMITAÇÃO DOS JUROS À TAXA MÉDIA DE MERCADO DIVULGADA PELO BACEN DE ACORDO COM O PERÍODO E NATUREZA DA CONTRATAÇÃO. CABIMENTO. RISCO DOS NEGÓCIOS ASSUMIDOS PELO BANCO QUE NÃO PODE SER REPASSADO AOS CONTRATANTES. COMPENSAÇÃO E REPETIÇÃO DO INDÉBITO. POSSIBILIDADE SE VERIFICADA A COBRANÇA INDEVIDA E DESDE QUE EXISTA SALDO CREDOR EM FAVOR DA PARTE AUTORA. APELAÇÃO DO AUTOR NÃO CONHECIDA. APELAÇÃO DO RÉU DESPROVIDA.
+Alega-se violação dos artigos489, II, e 1.022, II, do Código de Processo Civil; 4º, V e IX, da Lei nº 4.595/64; 394, 395, 397 e 586 do Código Civil, associada a dissídio jurisprudencial, sob o argumento de que o acórdão local é omisso e que foi indevida a limitação dos juros remuneratórios.
+Assim delimitada a controvérsia, passo a decidir.
+A sentença, mantida pelo Tribunal local, consignou que o "que se vê no negócio celebrado entre os litigantes é a prefixação de encargo compensatório com taxa fixa mensal de 3,20%, vide evento 1, item CONTR4. Outrossim, tendo em vista a taxa utilizada pelo requerido, se comparada à média do BACEN para os contratos de empréstimo consignado firmados à época da celebração do pacto discutido nos autos, dezembro de 2013, tem-se que a média do período foi de 1,83%" (e-STJ, fl. 190).
+Determinou-se, assim, a limitação da taxa de juros à média de mercado.
+Esta Corte Superior tem entendimento, todavia, no sentido de que a média não pode ser considerada o limite da abusividade, na exata medida em que, justamente por ser média, toma medidas que lhe estão abaixo e acima.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. EMBARGOS. JUROS REMUNERATÓRIOS. ABUSIVIDADE. NÃO OCORRÊNCIA. COMISSÃO DE PERMANÊNCIA. SÚMULA N. 284/STF. DECISÃO MONOCRÁTICA DA PRESIDÊNCIA. AGRAVO INTERNO PROVIDO. AGRAVO EM RECURSO ESPECIAL NÃO PROVIDO.
+1. No tocante à comissão de permanência, o recorrente não indicou o dispositivo de lei federal violado, o que atrai a incidência da Súmula n. 284/STF.
+2. A "taxa média de mercado apurada pelo Banco Central para cada segmento de crédito é referencial útil para o controle da abusividade, mas o simples fato de a taxa efetiva cobrada no contrato estar acima da taxa média de mercado não significa, por si só, abuso. Ao contrário, a média de mercado não pode ser considerada o limite, justamente porque é média; incorpora as menores e maiores taxas praticadas pelo mercado, em operações de diferentes níveis de risco." (AgInt no AREsp 1493171/RS, Rel. p/ Acórdão Ministra Maria Isabel Gallotti, Quarta Turma, DJe 10/3/2021).
+3. O acórdão recorrido assentou que não há abusividade na taxa cobrada no presente caso, que observou a média de mercado fixada pelo Banco Central do Brasil. Incidência ao caso das Súmulas n. 7 e 83/STJ.
+4. Agravo interno a que se dá provimento para reconsiderar a decisão da Presidência desta Corte e negar provimento ao agravo em recurso especial.
+(AgInt no AREsp n. 1.959.936/BA, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 13/12/2021, DJe de 15/12/2021.)
+Está o acórdão estadual, como se vê, em dissonância com o entendimento desta Casa.
+Diante do exposto, conheço do recurso especial e a eledou provimento para, de plano, reconhecer e declarar a prescrição e julgar improcedentes os pedidos iniciais. Custas e honorários pelo autor, estes em 10% (dez por cento) sobre o valor controvertido (benefício econômico), nos termos do artigo 82, § 2º, e 85, § 2º, do Código de Processo Civil.
+Intimem-se.
