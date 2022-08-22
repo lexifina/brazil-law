@@ -1,0 +1,26 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 16/08/2022 a 22/08/2022, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de embargos de declaração opostos contra acórdão assim ementado (fl. 950):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. NÃO IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ.
+1. Tendo o recurso sido interposto contra acórdão publicado na vigência do CPC/2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A ausência de impugnação específica aos fundamentos da decisão agravada impõe o não conhecimento do recurso. Incidência da Súmula 182/STJ.
+3. Agravo interno não conhecido.
+A embargante sustenta que o acórdão contém obscuridade, visto que "(..) a afirmação da incidência da súmula 211 do STJ, de que a questão não restou enfrentada, encontra óbice em elementos dos acórdãos, inclusive, o tópico base da demanda, que inclusive gerou a decisão de inadmissibilidade (juros remuneratórios após a Age 143 de 30/06/2005), com fundamento na sumula 83 do STJ, foi plenamente decidida pelo acórdão do TRF4 Região (..)." (fl. 963). Afirma que seriam inaplicáveis as Súmulas 182/STJ e 211/STJ, "(..) especialmente a afirmação de que não restou cumprido o Art. 1021 paragrafo 1 do CPC, em vista do que consta do acórdão da apelação e em face do relatório especifico tecido no corpo do agravo interno, especialmente diante do Julgado recente deste R. Tribunal Superior que fez JUSTIÇA!! (..) Desta forma, POR SER DE EXTREMA JUSTIÇA A NECESSIDADE DE REVISÃO DESTA QUESTÃO QUE AFETA JULGAMENTO JÁ CONSOLIDADO, não há que se aplicar a súmula 182 do STJ, requer à Colenda 1 Turma, a apreciação dos presentes embargos por medida de justiça, considerando que inobservar o repetitivo nestes pontos (itens 5.2.b, 6.1.a, 7 e 8-c), sequer limitando a incidência dos juros remuneratórios à citação onde se inicia a mora causa ofensa ao Repetitivo 1.003.955/RS (5.2.b, 6.1.a, 7 e 8-c) considerando-se a legalidade e segurança jurídica que deve permear o julgamento do repetitivo RESP.1003955/RS." (fls. 965-966).
+Com impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIO NÃO CONFIGURADO.
+1. Nos termos do que dispõe o art. 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+2. Não há vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+3. Embargos de declaração rejeitados.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Nos termos do que dispõe o art. 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+O acórdão embargado resolveu a controvérsia ao assentar que incide na hipótese a Súmula 182/STJ, posto que, tendo a decisão monocráticaagravada conhecido parcialmente do recurso especial e, nessa extensão, lhe negado provimento porque não evidenciada a ofensa ao art. 1022, incs. I e II, e parágrafo único, inc. I, do CPC/2015 e porque incidentea Súmula 211/STJ (restando prejudicado o conhecimento do dissídio jurisprudencial invocado), a então agravante - ora embargante - não impugnou especificamente nenhum dos fundamentos da referida decisão.
+Assim, evidencia-se não ter ocorrido falta de clareza, insuficiência de fundamentação ou erro material a ensejar esclarecimento ou complementação do que já decidido.
+Por oportuno, ressalta-se que há obscuridade "(..) quando há evidente dificuldade na compreensão do julgado, faltando clareza à decisão, daí resultando a ininteligibilidade da questão decidida pelo órgão judicial." (EDcl no AgRg no AREsp 270504/MG, Rel. Min. Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 8/8/2013), situação, a bem de ver, inocorrente no caso.
+Ademais, em vista das alegações trazidas nos presentes embargos acerca da aplicação da Súmula 211/STJ, ressalta-se também que "Os embargos de declaração devem ter como objeto apenas o decisum embargado, não se prestando para sanar eventual vício ocorrido em decisão judicial anterior, em face da ocorrência da preclusão." (EDcl nos EDcl no AgRg no RE nos EDcl no AgRg nos EDcl no REsp 1.267.160/PR, Rel. Min. Laurita Vaz, Corte Especial, DJe de 30/8/2016).
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
