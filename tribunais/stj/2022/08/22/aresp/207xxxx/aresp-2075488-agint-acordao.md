@@ -1,0 +1,59 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 16/08/2022 a 22/08/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+Trata-se de agravo interno interposto por MANOEL MESSIAS DA SILVA FILHO contra decisão proferida pelo Ministro Presidente deste Tribunal, em que conheceu de agravo para não conhecer do recurso especial, sob os fundamentos da negativa de prestação jurisdicional e da incidência das Súmulas 280, 283 e 284 do STF, 211 e da Súmula 7 do STJ
+A parte agravante, repisando os argumentos defendidos no especial, sustenta que não há que se aplicar os aludidos óbices sumulares, bem como aduz ofensa do art. 1.022 do CPC/2015.
+Impugnação (e-STJ fls. 542/546).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. LEGISLAÇÃO LOCAL E REVOLVIMENTO FÁTICO-PROBATÓRIO. EXAME. IMPOSSIBILIDADE. FUNDAMENTO. IMPUGNAÇÃO. AUSÊNCIA.
+1. Inexiste ofensa ao art. 1.022 do CPC/2015 quando o Tribunal de origem se manifesta de modo fundamentado acerca das questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, porquanto julgamento desfavorável ao interesse da parte não se confunde com negativa ou ausência de prestação jurisdicional.
+2. A análise da pretensão depende do exame de legislação local, o que é inviável, incidindo o óbice da Súmula 280 do STJ.
+3. Infirmar as razões do apelo nobre, a fim de rever o entendimento firmado pela Corte de origem, encontra óbice na Súmula 7 do STJ.
+4. Incide a Súmula 283 do STF, em aplicação analógica, quando não impugnado fundamento autônomo e suficiente à manutenção do aresto recorrido.
+5. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+Verifica-se que a parte recorrente não trouxe nenhum argumento capaz de alterar o decisum atacado, proferido em sintonia com a jurisprudência deste Tribunal Superior.
+Com efeito, conforme consignado no decisum atacado, ainda que o recorrente considere insubsistente ou incorreta a fundamentação utilizada pelo Tribunal nos julgamentos realizados, não há necessariamente ausência de manifestação, também não há como confundir o resultado desfavorável ao litigante com a falta de fundamentação, motivo pelo qual não se vislumbra violação do preceito apontado.
+Consoante entendimento desta Corte, o magistrado não está obrigado a responder a todas as alegações das partes, tampouco a rebater um a um todos os seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie. Nesse sentido:
+IPVA. NÃO CONFIGURADA VIOLAÇÃO DO ART. 1.022 DO CPC/2015. CERCEAMENTO DE DEFESA. INCIDÊNCIA DA SÚMULA 283 DO STF. ALIENAÇÃO FIDUCIÁRIA DE VEÍCULO. ILEGITIMIDADE PASSIVA DO CREDOR FIDUCIÁRIO. CONTROVÉRSIA DIRIMIDA COM ANÁLISE DE LEGISLAÇÃO DISTRITAL. INCIDÊNCIA DA SÚMULA 280/STF. LEI LOCAL. ILEGITIMIDADE ATIVA DO DISTRITO FEDERAL. REEXAME DO CONJUNTO PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7 DO STJ. MULTA DO ART. 1026 DO CPC/2015.
+1. Inicialmente, em relação aos arts. 141 e 1022 do CPC, deve-se ressaltar que o acórdão recorrido não incorreu em omissão, uma vez que o voto condutor do julgado apreciou, fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte recorrente. Vale destacar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional.
+ ..
+(REsp 1.671.609/DF, Rel. Ministro HERMAN BENJAMIN, Segunda Turma, DJe 30/06/2017).
+Nesse contexto, mostra-se pertinente a transcrição do excerto do julgado integrativo exarado pelo Tribunal a quo, em que a questão foi expressamente resolvida. Confira-se (e-STJ fls. 176/180):
+No entanto, de pronto, constata-se que não assiste razão à parte apelante.
+Isso porque, conforme demonstrado anteriormente, a Lei 6.682/2006 - que criou a carreira de Agente Penitenciário - previu que a remuneração da carreira se daria por meio de subsídio, em parcela única, vedando expressamente o acréscimo de qualquer outra espécie remuneratória, ressalvando apenas as verbas de gratificação por função de confiança e o adicional noturno:
+ ..
+Da leitura dos dispositivos acima decotados, constata-se que as normas previstas na Lei Estadual nº 5.813/1996, que ampliaram a percepção da GAP, são incompatíveis com as da Lei Estadual nº 6.682/2006, que não ressalvou o acréscimo dessa espécie remuneratória, concluindo, assim, que houve uma revogação tácita do disposto na Lei nº 5.813/1996, prevalecendo o disposto na Lei nº 6.682/2006.
+É o que dispõe a Lei de Introdução às Normas do Direito Brasileiro (LINDB) - Lei nº 4.657/42 -, verbis:
+ ..
+Não é demais ressaltar que a Lei Estadual n" 6.682/2006, ao criar a carreira de Agente Penitenciário, tratou, expressamente, do sistema remuneratório - art. 10 - afastando, assim, o contido na Lei Estadual n" 5.813/1996 - art. 2" -, pois aquela é lei específica da carreira, enquanto esta c lei geral.
+No caso vertente, o autor = apelante = recorrente apenas ingressou na carreira de Agente Penitenciário em 06 de setembro de 2007, quando já estava em vigor a Lei Estadual nº 6.682/2006, que fixou o sistema remuneratório por meio de subsídios, em parcela única, vedado o acréscimo de qualquer espécie remuneratória, sem ter feito ressalva à percepção da GAP.
+Portanto, quando a parte embargante ingressou no serviço público como Agente Penitenciário, o sistema remuneratório vigente não previa a percepção da GAP, notadamente diante da revogação da Lei Estadual nº 5.813/1996, razão pela qual não há que se falar em direito ao recebimento da referida gratificação.
+Mas, não é só. E oportuno observar que, à categoria de Agente Penitenciário, foi reconhecido o direito à percepção do adicional de periculosidade,conforme previsto no art. 3º, da Lei Estadual n" 6.772/06, verbis:
+ ..
+Daí que, em pertinente digressão, convém consignar o entendimento desta Corte de Justiça, no julgamento da Arguição de Inconstitucionalidade nº 0500042-73.2014.8.02.0000. que reconheceu a constitucionalidadc do referido art. 3 o , da Lei Estadual n" 6.772/2006, admitindo que os Agentes Penitenciários percebam o Adicional de Periculosidade, mesmo sendo submetidos ao regime remuneratório desubsídio:
+ ..
+Em sendo assim, impende destacar que, tendo o autor = embargante = recorrente ingressado na carreira de Agente Penitenciário em 25 de setembro de 2006, a dizer, durante a vigência das Leis Estaduais n" 6.682/2006 e 6.772/2006; e, após a revogação da Lei Estadual nº 5.813/1996, sempre percebeu remuneração por subsídio, com direito à percepção da vantagem a título de Adicional de Periculosidade, com a devida compensação dos riscos inerentes à própria função.
+De arremate, a implementação da GAP configuraria dupla remuneração, na medida em que o Adicional de Periculosidade e a Gratificação de Ação Policial têm o mesmo sentido e o mesmo alcance, haja vista que ambos pressupõem uma atividade prestada sob condições perigosas.
+Noutra quadra, quanto ao argumento de ofensa do princípio da não surpresa, verifica-se, das razões do especial, que a parte recorrente não combateu o fundamento do aresto integrativo de que (e-STJ fl. 261):
+ultrapassada e vencida a alegação da existência de obscuridade do acórdão recorrido, cumpre analisar o argumento deduzido pela parte embargante, que diz com alegações de omissão em relação à não observância dos artigos 9º e 10, do Código de Processo Civil - violação aos princípios do contraditório e da ampla defesa (art. 5º, LV e LIV, da Constituição Federal).
+No ponto, o cerne da quaestio iuris diz respeito à insurgência do embargante contra o Acórdão proferido por esta 1 a Câmara Cível, às págs.
+184/199 dos autos, em que sustenta, em resumo, que: ".. Percebe-se que, quando do julgamento da lide, esta c. Câmara restou por concluir que a recorrente não teria direito ao recebimento da Gratificação de Ação Policial, uma vez que tal pretensão teria sido revogada pela Lei Estadual nº 6.276/2001, sem, contudo, intimar as partes para que se manifestassem acerca de tal revogação, sendo omissa quanto a este ponto específico. .." (= sic)  págs. 01/26  especialmente pág. 12  dos autos.
+Sem mais delongas, cumpre rechaçar tal argumento. Isso porque a tese foi apresentada pelo Estado de Alagoas, em sua contestação, tendo a parte embargante oportunidade de se pronunciar sobre o tema quando da apresentação da réplica.
+Demais disso, em momento algum, no decorrer do processo, em todas as oportunidades em que o embargante = recorrente pôde se pronunciar nos autos, houve sequer menção às teses ora aventadas.
+Nesta senda, esta Eg. Corte de Justiça não está compelida a se debruçar sobre argumento que não foi apresentado anteriormente nos autos, que se mostram como verdadeira inovação recursal, o que não é permitido em sede de apelação;
+e, que em nada refletem na sentença prolata pelo juiz a quo.
+A propósito, o Superior Tribunal de Justiça já decidiu no sentido de que ".. é vedada a inovação de tese jurídica em sede de apelação, posto que os efeitos devolutivo e translativo não suprem eventual deficiência das razões recursais ..". (= STJ - AgInt no REsp 1670678/MG, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 15.04.2019, DJe 25.04.2019) Assim, a matéria não alegada no momento oportuno, trata-se de indevida inovação recursal, sendo inviável a sua análise por força do princípio do tantum devolutum quantum appellatum com leciona Fredie Didier Júnior:
+Nesse ponto, incide o óbice da Súmula 283 do STF.
+Por outro lado, considerando os trechos destacados alhures, infirmar o entendimento da Corte de origem, a fim de acolher as teses defendidas no especial, encontra óbice nas Súmulas 7 do STJ e 280 do STF.
+Ademais, no que tange à eventual ofensa do art. 926 do CPC/2015, registro que não foi objeto de exame da Corte de origem, bem como há deficiência nos argumentos, com intuito de permitir a compreensão da controvérsia.
+Por fim, nos termos do decisum impugnado, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que, muito embora possa o STJ atuar na revisão das verbas honorárias, esta se restringe aos casos em que fixadas na origem em valores irrisórios ou excessivos, o que não se verifica no caso concreto.
+Nesse sentido: "a jurisprudência do STJ orienta-se no sentido de que, em regra, não se mostra possível, em recurso especial, a revisão dos valores fixados a título de honorários advocatícios e astreintes, pois essa providência exigiria novo exame do contexto fático-probatório constante dos autos, o que é vedado pela Súmula 7 do STJ. Todavia, o óbice da referida súmula pode ser afastado em situações excepcionais, quando for verificado excesso ou insignificância das importâncias arbitradas, ficando evidenciada ofensa aos princípios da razoabilidade e da proporcionalidade, hipóteses não configuradas nos autos". (AgInt no AREsp 1.340.926/PE, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 28/2/2019.)
+Deixo de aplicar a multa prevista no § 4º do art. 1.021 do CPC/2015, tendo em vista que o mero inconformismo com a decisão agravada não enseja a necessária imposição da sanção, quando não configurada a manifesta inadmissibilidade ou improcedência do recurso, por decisão unânime do Colegiado, como no caso em análise.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
