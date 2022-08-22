@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de recurso extraordinário interposto por MARCOS RAFAEL DE HOLLANDA FARIAS, com fundamento no art. 102, inciso III, alínea a, da Constituição Federal, contra acórdão do SuperiorTribunalde Justiçaassim ementado (fls. 290-291):
+AGRAVO REGIMENTAL. REVISÃO CRIMINAL. PRESSUPOSTOS DE CABIMENTO NÃO VERIFICADOS. ARTIGO 621 DO CÓDIGO DE PROCESSO PENAL. INADMISSIBILIDADE. DECRETO CONDENATÓRIO FUNDADO EM AMPLO CONTEXTO FÁTICO-PROBATÓRIO QUE NÃO SE MOSTRA CONTRÁRIO AO TEXTO DA LEI PENAL OU À EVIDÊNCIA DOS AUTOS. INEXISTÊNCIA DE NOVAS PROVAS DE INOCÊNCIA OU QUE AUTORIZE A REDUÇÃO DA PENA. IMPOSSIBILIDADE DE REAVALIAÇÃO DE FATOS E DE PROVAS. IMPOSSIBILIDADE DE REAVALIAÇÃO DE FATOS E DE PROVAS. INADEQUAÇÃO DA VIA ELEITA. DESPROVIMENTO DO RECLAMO.
+1. A revisão criminal tem o seu cabimento previsto no rol taxativo do art. 621, I, II e III, do Código de Processo Penal, não constituindo instrumento adequado para reabrir, a qualquer tempo, a discussão sobre questões decididas fundamentadamente e de forma definitiva, por simples irresignação ou descontentamento da parte em relação ao provimento jurisdicional transitado em julgado.
+2. A defesa busca o revolvimento dos fatos devidamente solucionados no âmbito da Ação Penal n. 382/RR, evidenciando o intuito de submeter o julgamento da Corte Especial, transitado em julgado, a uma segunda instância, o que não é admissível. Precedentes.
+3. A validade dos atos de investigação praticados pelo Departamento de Polícia Federal, sob a tutela do Juízo da 2ª Vara Federal da Seção Judiciária de Roraima, até o dia 28/4/2004, foi ratificada por esta Corte Especial, que, no recebimento da denúncia, observou que até aquela data inexistiam indícios do envolvimento do agravante com os fatos apurados, não havendo, por isso, motivo que justificasse a atuação jurisdicional do Superior Tribunal de Justiça.
+4. Nos termos da jurisprudência deste Tribunal, "a alteração da competência por fato superveniente não afeta a validade dos atos processuais praticados anteriormente pelo Juízo então competente" (APn 843/DF, Rel. Ministro HERMAN BENJAMIN, CORTE ESPECIAL, julgado em 06/12/2017, DJe 01/02/2018), cabendo consignar, ainda, que o deslocamento da competência para outro foro depende, necessariamente, da constataçãosegura de que há indícios de envolvimento da autoridade titular da prerrogativa com os ilícitos penais sob apuração.
+5. No caso, o agravante não logrou demonstrar, no pedido inicial, a imprescindível contrariedade ao texto expresso da lei penal ou à evidência dos autos, tampouco que o decreto condenatório se sustentaria em depoimentos, exames ou documentos falsos ou mesmo a descoberta de novas provas de sua inocência.
+6. Prevalece nesta Corte Superior o entendimento de que, salvo os casos de manifesta ilegalidade, é inadmissível o emprego da revisão criminal para modificar a reprimenda cominada, haja vista que, além do art. 59 do Código Penal não estabelecer regramento objetivo para fixação da pena, a dosimetria deve observar certa discricionariedade do órgão julgador. Precedentes.
+7. Agravo regimental não provido.
+Nas razões do recurso extraordinário, o recorrente aponta ofensa aos arts. 5º, incisos XLVI, LIV eLV,e 93, IX, da Constituição Federal.
+Foram apresentadascontrarrazões (fls. 345-349).
+É, no essencial, o relatório. Decido.
+O recurso não comporta admissão.
+O recorrente não apresentou apreliminarformal derepercussão geralna petição de recurso extraordinário, conforme prevê o art. 1.035, § 2º, do Código de Processo Civil, pressuposto imprescindível para conhecimento do seu apelo extremo.A propósito, vejam-se precedentes:
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. MATÉRIA CRIMINAL. INEXISTÊNCIA DE PRELIMINAR FORMAL E FUNDAMENTADA DA REPERCUSSÃO GERAL.
+1. O agravante não apresentou preliminar formal e fundamentada de repercussão geral na petição de recurso extraordinário.
+2. Agravo regimental a que se nega provimento.(ARE n. 1.249.097-AgR, relatorEdson Fachin, Segunda Turma, DJe de 4/5/2020.)
+DIREITO ADMINISTRATIVO. SEGUNDO AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO. AUSÊNCIA DE PRELIMINAR DE REPERCUSSÃO GERAL.
+1. A parte recorrente não apresentou preliminar formal e fundamentada de repercussão geral das questões constitucionais discutidas, o que atrai a incidência do art. 327, § 1º, do RI/STF. Precedente.
+2. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não é cabível, na hipótese, condenação em honorários advocatícios (art. 25 da Lei nº 12.016/2009 e Súmula 512/STF).
+3. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015.(RE n. 1.153.484-AgR-segundo, relatorRoberto Barroso, Primeira Turma, DJe de 6/8/2019.)
+Ante o exposto, nos termos do art. 1.030, inciso V, do Código de Processo Civil, não admito o recurso extraordinário.
+Publique-se. Intimem-se.
