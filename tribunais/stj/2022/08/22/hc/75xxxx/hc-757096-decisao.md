@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido de liminar, impetrado em favor de OTAVIANO AUGUSTO ZEZILIA DA SILVA contra acórdão do Tribunal de Justiça do Estado de São Pauloproferido no HC n. 2093828-50.2022.8.26.0000.
+Narra o Impetrante que requereu a progressão de regime em 14/02/2022,todavia o Juízo das Execuções Penais não apreciou o pleito até o presente momento.
+Irresignada com o excesso de prazo na análise do pleito de progressão de regime, a Defesa impetrou prévio habeas corpus perante o Tribunal estadual, cuja ordem foi denegada em acórdão assim ementado (fl. 73):
+"HABEAS CORPUS - Execução penal - Insurgência contra alegado excesso de prazo para análise de pedido de progressão de regime - Inocorrência Tramitação regular, não havendo desídia a ser atribuída à autoridade impetrada - Autos físicos, que estão passando por processo de digitalização - Inexistência de constrangimento ilegal - Ordem denegada, com recomendação."
+Daí a presente insurgência, em que se repisa o excesso de prazo para a apreciação do pedido de progressão de regime.
+Requer-se, liminarmente e no mérito, que seja determinado "ao Cartório e ao d. Juízo da Execução Penal que proceda o regular andamento do feito sobre o benefício de Regime Semiaberto, protocolados desde 14/02/2022" (fl. 11).
+O pedido liminar foi indeferido (fls. 83-84).
+Prestadas as informações, o Ministério Público Federal opinou pela perda de objeto do habeas corpus(fls. 104-105).
+É o relatório.Decido.
+No caso, o Apenado requereu ao Juízo de primeiro grau a progressão de regime em 14/02/2022, todavia o Juízo das Execuções Penais não apreciou o pleito.
+Pois bem, cumpre ressaltar que o retardo injustificado à prestação jurisdicional viola o princípio da duração razoável do processo, previsto no art. 5.º, inciso LXXVII, da Constituição da República, acrescido pela Emenda Constitucional n. 45/2004 ("a todos, no âmbito judicial e administrativo, são assegurados a razoável duração do processo e os meios que garantam a celeridade de sua tramitação").
+Em outras palavras, somente se cogita da existência de constrangimento ilegal quando o excesso de prazo for motivado pelo descaso injustificado do órgão jurisdicional, o que não se verifica na hipótese em tela.
+Com efeito, o Juízo da Execução Penal, na presente impetração, na data de 18/05/2022, prestou os seguintes esclarecimentos(fls. 19-20):
+"O paciente cumpre pena em regime fechado na Penitenciária de Valparaíso, isso em face de 03 execuções que possui, com término da pena previsto para 12/07/2039.
+No que diz respeito ao objeto do presente writ, informo que pende de apreciação, nos autos do processo 7000559- 43.2017.8.26.0032 pedido de progressão prisional, aguardando-se saneamento dos autos migrados e a elaboração do cálculo de penas, o que se fará oportunamente.
+Informo, por oportuno que, de acordo com o Comunicado Conjunto nº 2775/2021 a partir de 01/12/2021 foi dado início ao Projeto de Digitalização do acervo dos processos físicos da 1 e 2 a Vara de Execuções Criminais da Comarca de Araçatuba, estando suspensos os prazos processuais com a convocação de 100% dos escreventes no trabalho presencial para a atividade específica de saneamento de mais de 12.000 processos de execução para remessa para São Paulo com metas estabelecidas pela CGJ para cumprimento, prorrogada a suspensão nos termos do Comunicado 265/2022 até 09/06/2022 até 09/06/2022.
+Posteriormente, o Tribunal de origem complementou as informações assim consignando, in verbis:
+"Anoto ainda, consoante os assentamentos eletrônicos de primeiro grau, que, aos 03 de agosto último, foi determinada, após a ciência do teor do referido aresto, a atualização do cálculo de penas de Otaviano, com posterior abertura de vista ao Ministério Público."
+Como se vê, os pedidos foram formulados pelo Apenado perante o Juízo da Execução Penal em 14/02/2022, os quais, diante da mencionadasuspensão dos prazos em razão da digitalização dos processos físicos, não foram examinados até o momento. Todavia, segundo asinformações da Corte a quo, o feito está tramitando, tendo, inclusive, na data de 03/08/2022, sido determinadaa atualização dos cálculos da pena do Paciente.
+Nessa situação, não se evidencia, por ora, a existência de desídia estatal e injustificada do aparelho judiciário na condução do feito.
+Mutatis mutandis, cito o seguinte julgado:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. EXCESSO DE PRAZO INJUSTIFICADO NA APRECIAÇÃO DO PEDIDO NÃO EVIDENCIADO. AGRAVO REGIMENTAL DESPROVIDO, COM RECOMENDAÇÃO.
+1. Apesar da garantia constitucional que assegura às partes a razoável duração do processo e a celeridade na tramitação do feito (art. 5º, LXXVIII, da Constituição Federal), esta Corte possui entendimento pacificado no sentido de que a demora para a conclusão dos atos processuais não pode ser verificada da simples análise dos prazos previstos em lei, devendo ser examinada de acordo com os princípios da razoabilidade e conforme as peculiaridades do caso concreto.
+2. Na hipótese, não se constata excesso de prazo injustificado, na medida em que as informações prestadas pelo Juízo a quo dão conta de que o pedido de progressão de regime foi formulado "em data recente e de forma genérica, sem acostar aos autos os documentos minimamente necessários para a apreciação da benesse", o que foi confirmado pelo Tribunal de origem.
+3. Agravo regimental desprovido, com recomendação, de ofício, ao Juízo da Execução, para que examine o pedido de progressão de regime formulado pelo agravante. Preconiza-se, igualmente, celeridade." (AgRg no HC 643.721/SP, Rel. Ministro RIBEIRO DANTAS, DJe 08/03/2021.)
+Ante o exposto, DENEGO a ordem de habeas corpus, com recomendação ao Juízo da Execução Penal para que imprima celeridade na apreciação dos benefícios executórios requeridos pelo Reeducando.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. ALEGAÇÃO DE EXCESSO DE PRAZO PARA APRECIAÇÃO DE BENEFÍCIOS EXECUTÓRIOS. AUSÊNCIA DE DESÍDIA ESTATAL NA CONDUÇÃO DO FEITO. ORDEM DENEGADA, COM RECOMENDAÇÃO.
