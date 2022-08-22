@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido de liminar, impetrado contra decisão que indeferiu a liminar no writde origem.
+Consta dos autos que a paciente foi presa preventivamente pela prática do crime previsto no art.33, caput, da Lei 11.343/2006.
+Sustentam os impetrantes, em suma, negativa de autoria e ausência dos requisitos para a manutenção da medida extrema, aduzindo que a custódia é desproporcional. Destaca a primariedade e bons antecedentes da acusada, indicando sergenitora de filhos menores de 12 anos.
+Requerem, liminarmente e no mérito, a revogação da prisão preventiva, ou sua substituição por medidas cautelares diversas do cárcere ou, ainda, prisão domiciliar.
+Nos termos da Súmula 691 do Supremo Tribunal Federal, em regra, não se admite a impetração de habeas corpus contra decisão que indefere a liminar na origem, sob pena de indevida supressão de instância, ressalvadas as hipóteses em que evidenciada a presença de decisão teratológica ou desprovida de fundamentação.
+A desproporcionalidade do regime em que cumprida a prisão não pode ser aferida antes da dosimetria da pena pela sentença, não cabendo, na via eleita, a antecipação dessa análise. A esse respeito: AgRg no RHC 77.138/RJ, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 02/02/2017, DJe 10/02/2017 e HC 360.342/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 01/09/2016, DJe 12/09/2016.
+Vale destacar tambémque eventual discussão sobre materialidade e autoria não é providência a ser aferida nesta via, cujo escopo é assegurar o direito de ir e vir em face de ilegalidade flagrante, não sendo ademais cabível a revisão extensa do conjunto de fatos e provas dos autos.
+Posto isso, na origem, a liminar foi indeferida nos seguintes termos (fls. 295-296):
+Trata-se de habeas corpus, com pedido liminar, impetrado pelo advogado WELDER DE ASSIS MIRANDA em benefício de LARISSA DE SOUZA SANDRES devidamente qualificada, sob o argumento de estar a paciente sofrendo coação ilegítima à sua liberdade de locomoção.
+O impetrante informa que a paciente foi presa pela suposta prática do crime previsto no art. 33, caput, da Lei 11.343/06.
+A prisão em flagrante foi convertida em preventiva, em audiência de custódia.
+Em síntese, discorre acerca da ausência dos requisitos autorizadores para a manutenção da prisão, e assevera que a medida é desarrazoada.
+Destaca que a paciente é primária, possui residência fixa, filhos menores de 12 (doze) anos, bom relacionamento com as pessoas que a cercam, e não dedica a nenhuma organização criminosa.
+Invoca o princípio da presunção de inocência.
+Ao final, pugna pela concessão da ordem liminar para que a paciente seja posta em liberdade, ainda que com a concessão de medidas cautelares ou prisão domiciliar.
+O pedido foi instruído com fotocópias de documentos.
+É o relatório. Decido.
+A concessão de liminar, no âmbito da ação de habeas corpus reserva-se aos casos excepcionais de ofensa manifesta ao direito de locomoção do paciente, desde que preenchidos, os seus pressupostos legais, quais sejam, o fumus boni iuris e o periculum in mora.
+Na hipótese vertente dos autos, em que pesem as considerações iniciais, e ante a unilateralidade probatória produzida até o presente momento, não vislumbro os requisitos autorizadores para a concessão da medida liminar, porquanto não está demonstrada, de plano, a coação ilegal da paciente.
+Com efeito, a autoridade judiciária prolatora da decisão atacada fundamentou a necessidade da conversão do flagrante em preventiva, destacando as peculiaridades do caso. Não se pode desconsiderar, ainda, a certidão de antecedentes criminais, na qual é possível aferir a prática reiterada do mesmo crime aqui em análise, por parte da paciente.
+Além do mais, a referida situação (revogação da prisão) deve ser levada e analisada primeiramente pela autoridade coatora, sob pena de supressão de instância. Registre-se que, em consulta ao PROJUDI já consta o pedido de revogação de prisão preventiva, todavia, ainda não foi apreciado (autos 5489347-40.2022.8.09.0051).
+Assim, a idoneidade ou não da justificativa judicial demanda valoração mais detida, não comportável nesse momento processual.
+Por tais motivos, indefiro a liminar pleiteada.
+Consta do decreto prisional (fls. 247 e 249):
+Compulsando, detidamente, o opúsculo objurgado extraio como impossível o restabelecimento do ius libertatis de Larissa de Souza Sandres e Victor Hugo Ferreira Militão.
+Verifico que a prisão processual, por ora, é medida imprescindível. A necessidade da custódia preventiva é notória e, ademais, encontram-se satisfeitos nos autos os pressupostos que lhe outorgam legalidade e legitimidade.
+Em consulta à certidão de antecedentes criminais jungida no movimento nº 04, extraio que:
+- Larissa de Souza Sandres responde a outro procedimento em tramitação no 1º Juizado Especial Criminal de Goiânia (autos nº 5022129-65.2019.8.09.0051 - por resistência), 1ª UPJ dos crimes Punidos com Reclusão de Goiânia (autos nº 0152765-26.2019.8.09.0175 - por tráfico), bem como possui execução penal em trâmite na 2ª Vara de Execução Penal de Goiânia (autos nº 7002084-98.2022.8.09.0051 - SEEU), sendo reincidente(a).
+ .. .
+Destaco a presença de indícios de materialidade e de autoria no caso em testilha, a saber, a apreensão de 04 (quatro) porções de crack/cocaína, com peso total de 2,553 kg (dois quilogramas e quinhentos e cinquenta e três gramas), 01 (uma) balança digital, 01 (uma) mochila, contendo a importância em dinheiro de R$ 11.160,00 (onze mil, cento e sessenta reais), 01 (uma) pochete, contendo a importância em dinheiro de R$ 1.417,00 (mil, quatrocentos e dezessete reais) e 01 (um) objeto (embalagem de Mentos).
+O decreto de custódia cautelar reporta-se à reiteração delitiva dapaciente, que responde por outras duas ações criminais, resistência e tráfico de drogas, bem como ostenta outra execução pelo mesmo crime. Igualmente, elenca que com a paciente foram apreendidos "2,553 kg (dois quilogramas e quinhentos e cinquenta e três gramas), 01 (uma) balança digital, 01 (uma) mochila, contendo a importância em dinheiro de R$ 11.160,00 (onze mil, cento e sessenta reais), 01 (uma) pochete, contendo a importância em dinheiro de R$ 1.417,00 (mil, quatrocentos e dezessete reais) e 01 (um) objeto (embalagem de Mentos)" (fl. 249).
+A periculosidade e riscos sociais podem justificar a custódia cautelar ao acusado pelo crime de tráfico, assim se compreendendo a especialmente gravosa natureza ou quantidade da droga. Nesse sentido: HC n. 291125/BA - 5ª T. - unânime - Rel. Min. Laurita Vaz - DJe 3/6/2014; AgRg no RHC n. 45009/MS - 6ª T. - unânime - Rel. Min. Rogério Schietti Cruz - DJe 27/5/2014; HC n. 287055/SP - 5ª T. - unânime - Rel. Min. Moura Ribeiro - DJe 23/5/2014; RHC n. 42935/MG - 6ª T. - unânime - Rel. Min. Sebastião Reis Júnior - DJe 28/5/2014.
+Ademais, a reiteração delitiva constitui motivação idônea para o decreto da custódia cautelar, como garantia da ordem pública, como no caso dos autos. Nesse sentido: HC n. 286854/RS - 5ª T. - unânime - Rel. Min. Felix Fischer - DJe. 1º-10-2014; RHC n. 48002/MG - 6ª T. - unânime - Rel. Min. Maria Thereza de Assis Moura - DJe 4/8/2014; RHC n. 44677/MG - 5ª T. - unânime - Rel. Min. Laurita Vaz - DJe 24/6/2014.
+Assim, havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão. A esse respeito: HC n. 325.754/RS - 5ª T. - unânime - Rel. Min. Leopoldo de Arruda Raposo (Desembargador convocado do TJ/PE) - DJe 11/09/2015 e HC n. 313.977/AL - 6ª T. - unânime - Rel. Min. Maria Thereza de Assis Moura - DJe 16/03/2015.
+Por fim, o pedido de prisão domiciliar não foi apreciado pelas instâncias anteriores, motivo pelo qual a matéria não pode ser conhecida por esta Corte superior, sob pena de indevida supressão de instância.
+Assim, não vejo manifesta ilegalidade apta a autorizar a mitigação da Súmula 691/STF, uma vez ausente flagrante ilegalidade, cabendo ao Tribunal de origem a análise da matéria meritória.
+Ante o exposto, indefiro liminarmente ohabeas corpus.
+Publique-se.
+Intimem-se.
