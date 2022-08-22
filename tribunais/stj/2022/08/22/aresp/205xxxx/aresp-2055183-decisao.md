@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (e-STJ, fls. 6.050):
+AGRAVO INTERNO. AGRAVO DE INSTRUMENTO.AÇÃO DE OBRIGAÇÃO DE FAZER.DEFERIMENTO DA TUTELA ANTECIPADA DE URGÊNCIA. PLANO DE SAÚDE. AMAP - OPERADO PELA TELOS E PATROCINADO PELA CLARO S/A. AGRAVADO QUE OPTOU PELO PLANO DE BENEFÍCIO DEFINIDO. PERMISSÃO DE MANUTENÇÃO DO PLANO DE SAÚDE.INTERVENÇÃO PELA ANS DA PAME. NÃO INTERRUPÇÃO DO SERVIÇO PRESTADO.BENEFICIÁRIA PESSOA IDOSA. PRESENÇA DOS REQUISITOS LEGAIS. APLICAÇÃO DO VERBETE 59 DO TJRJ. RECURSO DESPROVIDO.
+Nas razões do recurso especial, a parte agravante aponta violação aos arts.11 e 489, § 1º, II, IV e VI, do Código de Processo Civil.
+Sustenta que não houve fundamentação do acórdão recorrido quanto aos requisitos para concessão da tutela de urgência requerida pela parte recorrida.
+Afirma que "ao manter a tutela provisória a favor da Recorrida, o Tribunal de Justiça acabou por feriros artigos 11 e 489, §1, VI, do Código de Processo Civil, uma vez que não desconstituiu em suas razões a aplicação da jurisprudência pacificada pelo e. STJ, no sentido de que, desde que não haja onerosidade excessiva aos usuários (como no caso em voga), o custeio do plano de autogestão poderá ser alterado" (e-STJ, fl.6.067).
+Contrarrazões apresentadas.
+Assim delimitada a controvérsia, passo a decidir.
+No caso, verifico que não houve ofensa aosarts. 11 e 489, § 1º, II, IV e VI, uma vez que o Tribunal local, ao analisar os requisitos autorizadores da tutela antecipada, fundamentou de forma clara as razões para a manutenção da concessão da tutela provisória de urgência pleiteada pela ora recorrida, senão vejamos (e-STJ, fls. 6.053/6.055) :
+Como bem esposado na decisão monocrática ora atacada, a documentação constante dos autos nos permite concluir que o fato de a PAME estar sob intervenção da ANS, não se traduz na extinção daquele serviço, por ser ela mera administradora deste.
+Além disso, sendo a Agravante a real operadora do plano de saúde em questão, pode ela, evidentemente, avocar a administração ou delegar a outra sociedade, mediante formalização de novo contrato (ou convênio), conforme autoriza o Regulamento da Assistência Médica a Aposentados e Pensionistas - AMAP, em seu item 3.4, alínea g.
+Portanto, a toda evidência, em sede de cognição sumária, considerando todo o contexto da demanda, especialmente, o fato de que a Agravada é pessoa idosa, e, mais ainda, diante do cenário global de pandemia ocasionada pelo SARS COVID-19, concluo que, de fato, estão presentes os requisitos que autorizam o deferimento da tutela de urgência, consistentes no fumus boni iuris e no periculum in mora.
+Note-se que o perigo de dano irreparável ou de difícil reparação é patente, haja vista a natureza do contrato em debate, sendo certo que ao se sopesar os interesses envolvidos deve permanecer, por ora, o direito à vida e à saúde.
+Ademais, incide na hipótese o verbete nº 59 da súmula da jurisprudência desta Corte.
+Saliente-se, ainda, que a apreciação, em sede de agravo de instrumento, não está fundada em juízo de certeza, pelo que não há que se falar em valoração definitiva do conteúdo probatório.
+Logo, entendo que, no caso em apreço, a parte agravante não trouxe qualquer argumento novo capaz de modificar o entendimento adotado na decisão monocrática hostilizada, apenas reeditando tese anterior, razão pela qual, improcede o recurso interposto.
+Ademais, esta Corte Superior tem firme posicionamento, na esteira e entendimento firmado pelo Supremo Tribunal Federal, de que não cabe recurso especial, em regra, contra provimento de natureza cautelar ou antecipatória, em face do caráter precário de que é revestido, a par de estar intrinsecamente ligado aos fatos da causa, como ensina o enunciado n. 735 da Súmula do STF. A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SOCIEDADE. DISSOLUÇÃOPARCIAL. DATA. DECISÃO DE ANTECIPAÇÃO DOS EFEITOS DA TUTELA. REEXAME.IMPOSSIBILIDADE. SÚMULAS 7/STJ E 735/STF.
+1. A jurisprudência deste STJ, à luz do disposto no enunciado daSúmula 735 do STF, entende que, via de regra, não é cabível recursoespecial para reexaminar decisão que defere ou indefere liminarou antecipação de tutela, em razão da natureza precária da decisão,sujeita à modificação a qualquer tempo, devendo ser confirmada ou revogadapela sentença de mérito. Apenas violação direta ao dispositivo legal quedisciplina o deferimento da medida autorizaria o cabimento do recursoespecial, no qual não é possível decidir a respeito da interpretação dos
+preceitos legais que dizem respeito ao mérito da causa.
+3. A verificação do preenchimento ou não dos requisitos necessários paraa antecipação de tutela, no caso em apreço, demandaria o reexame doconjunto fático-probatório, inviável em sede de recurso especial, a teordo enunciado nº 7 da Súmula do STJ, respectivamente.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1085584/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTATURMA, julgado em 5/12/2017, DJe 14/12/2017)
+Em face do exposto, nego provimento ao agravo.
+Deixo de majorar os honorários advocatícios, nos termos do art. 85, § 11, doCPC/2015, tendo em vista que o recurso foi interposto nos autos de agravo deinstrumento que ataca decisão interlocutória.
+Intimem-se.
