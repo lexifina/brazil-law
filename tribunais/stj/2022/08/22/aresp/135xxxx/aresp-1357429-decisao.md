@@ -1,0 +1,61 @@
+DECISÃO
+Trata-se de agravo manifestado em face da decisão que negou seguimento ao recurso especial, interposto em face de acórdão com a seguinte ementa (fl. 176):
+FALÊNCIA  Habilitação de crédito  Prescrição de parte pretensão de crédito fiscal  Inaplicabilidade do artigo 47 da antiga Lei de Falências  Crédito fazendário que não é atingido pelo decreto de falência, prosseguindo-se a execução fiscal independentemente do processo de falência, uma vez que não é sujeita a concurso de credores ou habilitação em falência  Recurso parcialmente provido.
+Opostos embargos de declaração, foram rejeitados às fls. 224/230.
+No apelo, a União - Fazenda Nacional, com fundamento na Constituição Federal, art. 105, inciso III, alínea "a", por contrariedade aos artigos 1022, inciso II, do Código de Processo Civil e 174, parágrafo único, inciso III, do Código Tributário Nacional c/c o art. 25 do Decreto-Lei 7.661/1945.
+Em preliminar, sustenta a persistência de omissões no julgamento do recurso integrativo, havendo negativa de prestação jurisdicional sobre temas essenciais à defesa.
+No mérito, afirma que a sentença declaratória de falência, ao constituir em mora o devedor, gera efeitos imediatos sobre o crédito tributário, ensejando o vencimento antecipado, que causa a interrupção do prazo prescricional, nos termos do art. 174, parágrafo único, inciso III, do CTN.
+Aduz que a parte declarada prescrita do crédito tributário satisfaz esses pressupostos, devendo ser reconhecida integralmente a sua exigibilidade.
+Stella Barros Turismo Ltda. apresenta contrarrazões às fls. 243/248, arguindo a falta de demonstração da infringência das normas legais, enquanto, no mérito, destaca a inaplicabilidade do Decreto-Lei 7.661/1945 ao caso dos autos, não havendo cogitar de suspensão das execuções fiscais.
+A admissibilidade negativa aponta essa mesma deficiência, afastando a negativa de prestação jurisdicional, motivação suficientemente combatida na peça de fls. 265/274, razão por que considero superado o limite do conhecimento.
+Assim delimitada a controvérsia, passo a decidir.
+De início, não há falar em deficiência na prestação jurisdicional, uma vez que a Corte de origem enfrentou com suficiência e clareza as questões que mereciam apreciação.
+Conforme tem decidido o STJ, não se exige que o julgador, para expressar os motivos que lhe formaram o convencimento e demonstrar o raciocínio lógico trilhado para chegar à conclusão acerca das questões de fato e de direito, analise todos os argumentos apresentados pelas partes.
+É preciso ter presente que a oposição de embargos de declaração perante o tribunal de segundo grau, juntamente com a alegação de negativa de prestação jurisdicional no recurso especial, não necessariamente leva à anulação do acórdão lavrado no julgamento de tais embargos (com a consequente devolução dos autos à origem para rejulgamento), nem torna certa a conclusão, na Corte superior, de que a questão esteja prequestionada. O ponto central em torno da possível ocorrência de defeito na prestação jurisdicional consiste em verificar se a omissão, contradição ou obscuridade apontada nos embargos dizrespeito a questões necessárias para a solução da causa. Se o tribunal de origem apresenta fundamentação suficiente para a completa prestação jurisdicional, não está, de fato, obrigado a se manifestar sobre questões paralelas que não viriam a interferir, sequer reflexamente, no seu entendimento.
+A existência de decisão em sentido contrário ao almejado pela parte, ou mesmo omissa em relação a pontos considerados irrelevantes, não dá ensejo à declaração de nulidade.
+Ademais, o julgador não está obrigado a decidir a lide a partir das normas que a parte entende aplicáveis ao caso. Nesse sentido:
+PROCESSUAL CIVIL - INEXISTÊNCIA DE VIOLAÇÃO DO ART. 535 DO CPC - AUSÊNCIA DE PREQUESTIONAMENTO DOS ARTIGOS TIDOS POR VIOLADOS - SÚMULA 211 DO STJ - TRABALHADOR PORTUÁRIO AVULSO - FÉRIAS E RESPECTIVOS ADICIONAIS - FUNDAMENTO CENTRAL DO ACÓRDÃO RECORRIDO INATACADO - SÚMULA 283/STF.
+1. Inexiste violação do art. 535 do CPC quando a prestação jurisdicional é dada na medida da pretensão deduzida.
+2. Descumprido o necessário e indispensável exame dos artigos tidos por violados pelo acórdão recorrido, apto a viabilizar a pretensão recursal da recorrente, a despeito da oposição dos embargos de declaração. Incidência da Súmula 211/STJ.
+3. Não configura contradição afirmar a falta de prequestionamento e afastar indicação de afronta ao artigo 535 do Código de Processo Civil, uma vez que é perfeitamente possível o julgado se encontrar devidamente fundamentado sem, no entanto, ter decidido a causa à luz dos preceitos jurídicos desejados pela postulante, pois a tal não está obrigado. Nesse sentido: EDcl no REsp 463380, Rel. Min. José Delgado, DJ 13.6.2005.
+(..)
+Agravo regimental improvido.
+(Segunda Turma, AgRg no REsp 1.137.776/RS, Rel. Ministro HUMBERTO MARTINS, DJe de 23.10.2009)
+Quanto ao afastamento do pretendido vencimento antecipado da obrigação tributária com a declaração da falência, assim se manifestou a Corte local (fls. 177/181):
+O recurso comporta parcial provimento.
+De forma geral, sabido que a decadência está ligada à constituição do crédito tributário, e a prescrição à sua exigibilidade.
+Para tanto, dispõe o Fisco do prazo decadencial de cinco anos para constituir o crédito, contados do primeiro dia do exercício seguinte àquele em que o lançamento poderia ter sido efetuado, conforme a disciplina do artigo 173, I do CTN.
+Uma vez constituído do crédito, não se fala mais em decadência, mas prescrição da pretensão de cobrança, que ocorre em novos cinco anos, contados da constituição definitiva, conforme artigo 174 do CTN.
+Pois bem.
+A Fazenda Nacional busca o reconhecimento de créditos oriundos de duas inscrições na dívida ativa (80604096829- 40 e 806040766199-14).
+A primeira - 80604096829-40  decorre de termo de confissão espontânea em 09/02/2001 (decorrente de dívidas vencidas em 1510812000, 1510912000 e 1311012000, cf. fls. 08/11).
+Considerando que a execução fiscal da dívida ativa foi ajuizada em 01/04/2005 (fls. 32/33), com a ordem de citação datada de 04/08/2005  que suspendeu a prescrição -, forçoso concluir que não houve transcurso do prazo de acordo com a disciplina do artigo 174, parágrafo único, inciso I do Código Tributário Nacional, com a redação dada pela Lei Complementar 118/2005.
+Portanto, o crédito oriundo da inscrição nº 80604096829-40, postulado pela União Federal em 1911012007 (fls. 02/05) está em condições de ser reconhecido.
+Em relação ao crédito da inscrição nº 806040766199-14, a questão é diversa. Ela decorre de declaração pessoal do contribuinte conforme atesta o documento de fl. 14.
+Entre a data do vencimento da obrigação tributária (31/08/1998) e a entrega da declaração (26/10/1999, fl. 81), não transcorreu prazo decadencial e a partir de então teve início a contagem da prescrição.
+Considerando a modalidade (hipótese em que o tributo é declarado) e não pago, a entrega da declaração constitui definitivamente o crédito, pois é a ocasião em que o Fisco tem ciência do quanto é devido e tem condições de tomar as medidas cabíveis para recebimento do que lhe é devido, no prazo assinalado pelo artigo 174 do CTN.
+Conforme o C. STJ, "é entendimento assente neste Tribunal que, com a entrega da Declaração de Débitos e Créditos Tributários Federais  DCTF, tem-se constituído e reconhecido o crédito tributário, dispensada qualquer outra providência por parte da Fazenda. A partir desse momento, inicia-se o cômputo da prescrição qüinqüenal, em conformidade com o artigo 174 do Código Tributário Nacional" (AgRG no REsp 1045445/RS, rel. Min. Humberto Martins).
+No mesmo sentido, "A Primeira Turma desta Corte firmou entendimento de que, no caso de tributos sujeitos a lançamento por homologação, declarados e não recolhidos, o prazo prescricional começa a correr da data da entrega da declaração, momento em que o crédito é constituído. Precedentes: Resp nº 671.219/RS, Rel. Min. TEORI ALBINO ZAVASCKI, DJe de 30/0612008 e AgRg no Ag nº 938.979/SC, Rel. Min. JOSÉ DELGADO, DJe de 05/03/2008" (AgRg no REsp 1087903 / RS, rel. Min. Francisco Falcão).
+Uma vez definida a data inicial da contagem da prescrição (2611011999) ela teve seu fim no dia 26/10/2004, nos termos do artigo 174 do CTN.
+Ocorre, porém, que a execução foi ajuizada além do prazo qüinqüenal, porque datada de 01/04/2005, certo que a ordem de citação deu-se somente em 04/08/2005 (fls. 32/35).
+Inaplicável, à espécie, a suspensão da prescrição prevista no artigo 47 da antiga Lei de Falências (DL 7.661145), em decorrência da quebra ocorrida em 27/03/2003 (fl. 45).
+(..)
+Ou seja, o crédito oriundo da inscrição nº 806040766199-14, postulado pela União Federal em 19/10/2007 (fls. 02/05) está prescrito e deve ser excluído dos cálculos apresentados.
+Diante do exposto, pelo meu voto, dou parcial provimento ao recurso, para afastar parcialmente o reconhecimento de prescrição e determinar, desde já, apenas a inclusão do crédito fazendário representado pela CDA 80604096829-40, na classe apropriada (privilegiada) no Quadro Geral de Credores. (parte dos negritos acrescentada)
+O Tribunal de origem registrou expressamente que a execução fiscal não suspende a tramitação da execução fiscal, logo não influencia interrompendo a exigibilidade do crédito tributário.
+Tal entendimento está de acordo com a orientação pacificada no âmbito desta Corte Superior. Confiram-se os seguintes precedentes, quando debatida a questão em execução fiscal:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 3/STJ. PRESCRIÇÃO. DISCUSSÃO ACERCA DO TERMO FINAL. QUESTÃO ATRELADA AO REEXAME DE MATÉRIA FÁTICA. SUSPENSÃO DA PRESCRIÇÃO (ART. 47 DO DECRETO-LEI Nº 7.661/45). NÃO APLICABILIDADE EM RELAÇÃO AOS CRÉDITOS TRIBUTÁRIOS.
+1. O reexame de matéria de prova é inviável em sede de recurso especial (Súmula 7/STJ).
+2. A cobrança judicial da dívida ativa não se sujeita à habilitação em procedimento falimentar, descabendo cogitar-se, em consequência, de suspensão ou interrupção do prazo prescricional em razão da decretação da falência. Assim, "a norma do art. 47 do Decreto-lei n. 7.661/45 é restrita às obrigações contratuais do falido, não alcançando as obrigações tributárias, que recebem disciplina específica do art. 174 do CTN, a teor do disposto no art. 146, III, b, da Constituição da República" (AgInt no REsp 1642041/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 04/05/2017, DJe 12/05/2017).
+3. Agravo interno não provido.
+(Segunda Turma, AgInt no REsp 1.673.861/SP, Rel. Ministro MAURO CAMPBELL MARQUES, unânime, DJe de 18.12.2018)
+TRIBUTÁRIO. CRÉDITO. PRESCRIÇÃO. CONSTATAÇÃO NO ÂMBITO DA EXECUÇÃO FISCAL. PROCESSO FALIMENTAR. SUSPENSÃO DO PRAZO. IMPOSSIBILIDADE.
+1. A norma do art. 47 do DL n. 7.661/1945 é restrita às obrigações contratuais do falido, não alcançando, por isso, as obrigações tributárias, cujo respectivo prazo prescricional para o exercício da pretensão executória encontra regramento específico no art. 174 do CTN, à luz do art. 146, III, "b", da Constituição Federal.
+2. Hipótese em que, verificada a ocorrência da prescrição em razão da inexistência de citação da parte executada (antes da alteração promovida pela LC n. 118/2005), está extinto o crédito tributário.
+3. Agravo interno não provido.
+(Primeira Turma, AgInt no REsp 1.317.043/RS, Rel. Ministro GURGEL DE FARIA, unânime, DJe de 30.11.2017)
+Com efeito, o entendimento do Tribunal estadual encontra-se em consonância com a orientação desta Corte Superior, sendo aplicável a Súmula 83/STJ no caso.
+Para finalizar, a Súmula 283/STF constitui óbice intransponível à pretensão reformatória, pois o argumento central do apelo é o vencimento antecipado do crédito tributário, conforme previsto no art. 25 do Decreto-Lei 7.661/1945, pela constituição em mora da falida com a sentença declaratória da falência, porém o acórdão recorrido foi explícito a respeito da não incidência desse diploma legal na hipótese dos autos, fundamento que não foi objeto de combate no especial, possuindo força autônoma para mantê-lo incólume, contudo.
+Em face do exposto, nego provimento ao agravo.
+Sem fixação de verba honorária na origem, não se admite majoração.
+Intimem-se.
