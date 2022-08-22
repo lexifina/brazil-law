@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial fundado no art. 105, III, "a", da Constituição Federal, interposto por DEUSIENE CORREIA DA SILVA contra v. acórdão do Eg. Tribunal de Justiça do Estado do Goiás, assim ementado:
+"EMENTA: APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITO. CLÁUSULA ARBITRAL.VALIDADE RECONHECIDA EM SENTENÇA TRANSITADA EM JULGADO. COMPETÊNCIA DA JUSTIÇA ARBITRAL PARA ANALISAR A EFICÁCIA DA RESPECTIVA CLÁUSULA.
+1. Considerando que a validade da cláusula arbitral a vincular as partes foi atestada na ação nº 5498012-50.2019.8.09.0051, em julgamento já acobertado pela res judicata, forçosa a confirmação da sentença que decretou a extinção do processo, sem resolução de mérito.
+2. Assim, a questão relativa à eficácia da cláusula, uma vez já reconhecida judicialmente a sua validade, deve ser submetida à própria justiça arbitral, em atenção ao princípio da kompetenz-kompetenz.
+RECURSO CONHECIDO E DESPROVIDO." (e-STJ, fl. 201)
+Nas razões do recurso especial, a parteagravante alega violação dos arts. 485, VII, do CPC e 853, do CC, sustentando, em síntese, que"ainda que considerada a validade da cláusula compromissória incluída no estatuto social pela ação em apenso, a discussão pelo juízo estatal não pode ser afastada, tendo em vista que a cláusula em questão é ineficaz, tendo em vista que violou o direito à liberdade associativa (art. 5º, XX, da CF/88), de modo que se caracteriza como "patológica"."(e-STJ, fls. 245)
+É o relatório. Decido.
+No que tange à tese quanto à ineficácia da cláusula compromissória tendo em vista que violou o direito à liberdade associativa, tem-se, no ponto, inviável o debate. Isso porque não se vislumbra o efetivo prequestionamento da referida tese, o que inviabiliza a apreciação da tese recursal apresentada, sob pena de supressão de instâncias, uma vez que o Tribunal de origem entendeu que "a questão relativa à eficácia da cláusula, uma vez já reconhecida judicialmente a sua validade, deve ser submetida à própria justiça arbitral, em atenção ao princípio da kompetenz-kompetenz." (e-STJ, fl. 204)
+Frise-se que ao STJ cabe julgar, em sede de recurso especial, conforme dicção constitucional, somente as causas decididas, em única ou última instância, pelos Tribunais Regionais Federais ou pelos Tribunais dos Estados, do Distrito Federal e Territórios. Observa-se a incidência, pois, por analogia, dos óbices das Súmulas 282 e 356 do STF.
+Assim, quanto ao ponto em mote, ausente um dos requisitos de admissibilidade do apelo especial, qual seja, o prequestionamento (Enunciados Sumulares n. 282 e n. 356 do C.STF). Por oportuno, leiam-se estes julgados:
+"AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. RECUSA DE COBERTURA. PREQUESTIONAMENTO.AUSÊNCIA. SÚMULAS 282 E 356 DO STF. DANO MORAL.CONFIGURAÇÃO. REEXAME DE MATÉRIA FÁTICA DA LIDE. SÚMULA 7/STJ. NÃO PROVIMENTO.
+1. Não se admite o recurso especial, quando não ventilada, na decisão proferida pelo tribunal de origem, a questão federal suscitada.
+2. Inviável o recurso especial cuja análise impõe reexame do contexto fático- probatório da lide (Súmula 7 do STJ).
+3. Agravo regimental a que se nega provimento." (AgRg no AREsp 504.841/MG, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 24/06/2014, DJe 01/08/2014)
+Ante o exposto, com arrimo no art. 253, parágrafo único, II, "a", doRI-STJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
