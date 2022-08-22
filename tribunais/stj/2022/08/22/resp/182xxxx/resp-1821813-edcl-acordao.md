@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 16/08/2022 a 22/08/2022, por unanimidade, acolher os embargos de declaração, com efeitos modificativos, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+EDP São Paulo de Energia S.A. interpôs agravo de instrumento contra decisão que, em autos de ação movida pelaAgrícolae Rotissiere Paiozinho Ltda. objetivando a inexigibilidade de débito relativo a faturas de energia elétrica, deferiu o pedido de tutela antecipada, determinando qualquer ato tendente à suspensão do fornecimento de energia.
+O Tribunal de Justiça do Estado de São Paulo negou provimento ao agravo, mantendo a decisão recorrida, condenando a parte agravante ao pagamento de honorários sucumbenciais. nos termos da seguinte ementa (fl. 269):
+Energia elétrica Liminar deferida para determinar que a concessionária se abstenha de suspender o fornecimento do serviço Inconformismo Não cabimento Perigo de dano evidente diante da interrupção no fornecimento de energia elétrica no estabelecimento da agravada Diferenças de consumo apuradas por meio de Termo de Ocorrência de Irregularidade (TOI) Débito calculado unilateralmente e objeto de discussão nos autos principais que não enseja a suspensão do fornecimento Recurso improvido.
+O embargos de declaração opostos foram rejeitados (fls. 305-308).
+No recurso especial, alegou violação dos arts. 85, 356, 485, 487 e 1.015do CPC/2015, sustentando a impossibilidade de condenação na verba honorária no âmbito de decisão liminar.
+Contrarrazões ofertadas (fls. 305-308).
+A decisão monocrática tem o seguinte dispositivo: "Ante o exposto, com fundamento no art. 34, XI, julgo prejudicado o presente recurso especial, em razão da perda de seu objeto."
+Interposto agravo interno, foi julgado pela Segunda Turma, conforme a seguinte ementa do acórdão:
+PROCESSO CIVIL. CONSUMIDOR. CONTRATOS DE CONSUMO. FORNECIMENTO DE ENERGIA. SUPERVENIÊNCIA DO JULGAMENTO DA AÇÃO ORIGINÁRIA.
+I - Trata-se, na origem, de agravo de instrumento objetivando cassar a decisão que, em autos de ação declaratória de inexistência de débito, c/c a indenizatória por danos morais, deferiu o pedido de tutela antecipada, determinando qualquer ato tendente à suspensão do fornecimento de energia. No Tribunal a quo, o pedido foi julgado improcedente. Nesta Corte, o recurso especial foi julgado prejudicado ante a perda de seu objeto.
+II - O recurso especial foi interposto contra decisão proferida no bojo de antecipação de tutela. Ocorre que, em consulta ao sítio oficial do Tribunal de Justiça do Estado de São Paulo, verifica-se que, em 2/10/2019, foi proferida decisão de parcial procedência dos pedidos expostos nos autos principais, decisão, inclusive, objeto do recurso de apelação.
+III - Dada a superveniência do julgamento da ação originária, não mais persiste a discussão acerca da decisão interlocutória, nos termos do firme entendimento jurisprudencial desta Corte: AgInt na Pet 11.504/AM, Rel. Ministra Assusete Magalhães, Segunda Turma, julgado em 15/5/2018, DJe 21/5/2018; AgInt no AREsp 922.790/BA, Rel. Ministro Marco Buzzi, Quarta Turma, julgado em 7/11/2017, DJe 17/11/2017.
+IV - Agravo interno improvido.
+Opostos embargos de declaração, aponta a parte embargante vícios no acórdão embargado.
+Aduz, em síntese, que (fl. 359):
+Assim, levando em consideração que o Recurso Especial não foi interposto contra decisão proferida no bojo de antecipação de tutela, como considerado na r. decisão ora embargada, e sim contra o v. acórdão que condenou a EDP ao pagamento de honorários recursais em razão do desprovimento do Agravo de Instrumento, em contrariedade ao art. 85, parágrafos 1º e 11º do CPC, não há como prosperar.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. ENERGIA ELÉTRICA. LIMINAR DEFERIDA PARA DETERMINAR QUE A CONCESSIONÁRIA SE ABSTENHA DE SUSPENDER O FORNECIMENTO DO SERVIÇO.
+I - Na origem, trata-se de agravo de instrumentoobjetivando a inexigibilidade de débito relativo a faturas de energia elétrica, deferimento do pedido de tutela antecipada, determinando qualquer ato tendente à suspensão do fornecimento de energia. O Tribunala quo negou provimento ao agravo, mantendo a decisão recorrida, condenando a parte agravante ao pagamento de honorários sucumbenciais.
+II - Em embargos de declaração, a parte recorrente frisa que, em recurso especial, foi suscitada a violação do art. 85, §§ 1º e 11 do CPC, sob o argumento de não ser cabível a condenação da concessionária ao pagamento de honorários advocatícios de sucumbência pela negativa de seguimento ao agravo.
+III - Efetivamente, percebe-se que,in casu,a discussão está restrita à possibilidade de arbitramento e condenação da parte agravante ao pagamento de honorários advocatícios de sucumbência pelo fato de o agravo ter sido improvido, não estando em discussão, todavia, o mérito do agravo interposto pela concessionária.
+IV - Por tal razão, é desimportante para o julgamento da presente quaestio iuris o fato de já ter sido proferida decisão parcial de procedência nos autos principais, uma vez que - repita-se -, não se está discutindo o mérito do agravo de instrumento, mas a possibilidade de se condenar a concessionária agravante, ora recorrente, ao pagamento de honorários de sucumbência pelo desprovimento do agravo interposto contra decisão liminar. Dessarte, neste ponto, o acórdão vergastado é contraditório.
+V - Embargos de declaração acolhidos para anular o acórdão que julgou o agravo interno e determinar a devolução dos autos ao gabinete para o rejulgamento do recurso e análise dos demais requisitos de admissibilidade recursal.
+VOTO
+Na hipótese dos autos, trata-se, originariamente, de agravo de instrumento interposto pela concessionária agravante, ora recorrente, contra decisão liminar que deferiu a tutela de urgência para que a referida concessionária se abstivesse de interromper o fornecimento de energia elétrica.
+Negado provimento ao agravo de instrumento, a parte agravante foi condenada ao pagamento de honorários sucumbenciais.
+Em embargos de declaração, a parte recorrente frisa que, em recurso especial, foi suscitada a violação ao art. 85, §§ 1º e 11 do CPC, sob o argumento de não ser cabível a condenação da concessionária ao pagamento de honorários advocatícios de sucumbência pela negativa de seguimento ao agravo.
+Efetivamente, percebe-se que,in casu,a discussão está restrita à possibilidade de arbitramento e condenação da parte agravante ao pagamento de honorários advocatícios de sucumbência pelo fato de o agravo ter sido improvido, não estando em discussão, todavia, o mérito do agravo interposto pela concessionária.
+Por tal razão, é desimportante para o julgamento da presente quaestio iuris o fato de já ter sido proferida decisão parcial de procedência nos autos principais, uma vez que - repita-se -, não se está discutindo o mérito do agravo de instrumento, mas a possibilidade de se condenar a concessionária agravante, ora recorrente, ao pagamento de honorários de sucumbência pelo improvimento do agravo interposto contra decisão liminar. Dessarte, neste ponto, o acórdão vergastado é contraditório.
+Assim, devem ser acolhidos os embargos para anular o acórdão que julgou o agravo interno e determinar a devolução dos autos ao gabinete para o rejulgamento do recurso e análise dos demais requisitos de admissibilidade recursal.
+Ante o exposto, acolho os embargos de declaração, nos termos da fundamentação supra.
+É o voto.
