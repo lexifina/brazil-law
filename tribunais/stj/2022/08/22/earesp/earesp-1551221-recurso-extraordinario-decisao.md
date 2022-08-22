@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de recurso extraordinário interposto por CRISTINA CONTE WIETHY, com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão deste Superior Tribunal de Justiça, assim ementado (e-STJ fl. 3171):
+PROCESSO PENAL. AGRAVO REGIMENTAL EM EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA QUE INDEFERIU LIMINARMENTE OS EMBARGOS DE DIVERGÊNCIA. SÚMULA 182/STJ. ART. 59 DO CP. RECURSO ESPECIAL NÃO CONHECIDO. FALTA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282/STF E 211/STJ. AUSÊNCIA DE ANÁLISE DO MÉRITO DO RECURSO ESPECIAL. INCIDÊNCIA DA SÚMULA 315/STJ. REJULGAMENTO DO RECURSO. DESACERTO OU INJUSTIÇA. VERIFICAÇÃO. VIA INADEQUADA. ARGUMENTOS INSUFICIENTES PARA A DESCONSTITUIÇÃO DO ACÓRDÃO EMBARGADO.
+1. Cabe à parte agravante, nas razões do agravo regimental, trazer argumentos suficientes para contestar a decisão agravada. A ausência de fundamentos específicos para impugnar a decisão que indeferiu liminarmente os embargos de divergência atrai a incidência do enunciado n. 182 da Súmula do Superior Tribunal de Justiça. Precedentes.
+2. No caso em exame, o acórdão embargado concluiu pela impossibilidade de se analisar o mérito do recurso especial em razão da incidência das Súmulas 282/STF e 211/STJ. Tal situação impede, por si só, o conhecimento da presente via de impugnação, uma vez que não se admite a oposição de embargos de divergência na hipótese de não ter sido analisado o mérito do recurso especial, nos termos da Súmula 315 desta Corte Superior.
+3. Agravo regimental improvido.
+Opostos embargos de declaração, foram rejeitados (e-STJ fl. 3201).
+Sustenta a recorrente a existência de repercussão geral e a violação doart. 5º, LVII, da Constituição Federal.
+Para tanto, assevera que a condenação sem trânsito em julgado não pode fundamentar o incremento da pena-base, sob pena de ofensa aoprincípio da não-culpabilidade.
+Alega queos crimes em que foi reconhecida a prescrição da pretensão punitiva com trânsito em julgado para a acusaçãonão podem ser considerados para motivar a exasperação da sanção basilar.
+Afirma que,in casu, a fundamentação utilizada para elevar a pena-base contraria frontalmente o art.5º, LVII, da Constituição Federal.
+Requer, ao final, a admissão do recurso e sua remessa ao Supremo Tribunal Federal.
+As contrarrazões foram apresentadas às e-STJ fls. 3234 e 3235/3243.
+É o relatório.
+Compulsando-se os autos, verifica-se que o acórdão objeto do recurso extraordinário negou provimento ao agravo regimental,diante da ausência de impugnação recursal, que não refutou os fundamentos da decisão agravada, aplicando o enunciado daSúmulan. 182/STJ, bem como reafirmando a devida incidência da Súmula n. 315/STJ.
+No RE n. 598.365 RG/MG, julgado na sistemática da repercussão geral, definiu-se que "a questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral" (Tema 181/STF).
+A propósito:
+PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSOS DA COMPETÊNCIA DE OUTROS TRIBUNAIS. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL.
+A questão alusiva ao cabimento de recursos da competência de outros Tribunais se restringe ao âmbito infraconstitucional. Precedentes. Não havendo, em rigor, questão constitucional a ser apreciada por esta nossa Corte, falta ao caso "elemento de configuração da própria repercussão geral", conforme salientou a ministra Ellen Gracie, no julgamento da Repercussão Geral no RE 584.608.
+(RE 598.365 RG, Relator(a): Min. AYRES BRITTO, julgado em 14/08/2009, DJe-055 DIVULG 25-03-2010 PUBLIC 26-03-2010 EMENT VOL-02395-06 PP-01480 RDECTRAB v. 17, n. 195, 2010, pp. 213-218)
+No mesmo diapasão:
+EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. OBJETO RECURSAL REJEITADO PELO STF. RE 598.365-RG/MG (TEMA 181). QUESTÃO CONSTITUCIONAL IMPUGNADA ORIGINARIAMENTE. NÃO OCORRÊNCIA. PRECLUSÃO.
+1. O objeto deste recurso diz respeito a tema cuja existência de repercussão geral foi rejeitada por esta Corte na análise do RE 598.365-RG/MG, Rel. Min. AYRES BRITTO, tema 181, por se tratar de questão infraconstitucional.
+2. Esta Corte firmou entendimento no sentido de que a questão constitucional que serviu de fundamento ao acórdão do juízo de segundo grau deve ser atacada em momento próprio, sob pena de preclusão, apenas sendo admissível recurso extraordinário de acórdão de recurso especial quando, no julgamento deste, originar-se a matéria constitucional impugnada. Precedentes.
+3. Agravo interno a que se nega provimento.
+(ARE 768.691 ED, Relator(a): Min. ALEXANDRE DE MORAES, Primeira Turma, julgado em 15/06/2018, PROCESSO ELETRÔNICO DJe-153 DIVULG 31-07-2018 PUBLIC 01-08-2018)
+Com igual orientação:
+AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. PENHORA. BEM DE FAMÍLIA. SÚMULA 279 DO STF. REQUISITO DE ADMISSIBILIDADE DE RECURSO DE CORTE DIVERSA. AUSÊNCIA DE REPERCUSSÃO GERAL. DESPROVIMENTO DO AGRAVO.
+1. É inadmissível o recurso extraordinário quando para se chegar a conclusão diversa daquela a que chegou o Tribunal de origem, seja necessário o reexame das provas dos autos. Incidência da Súmula 279 do STF.
+2. Carece de repercussão geral a discussão acerca dos pressupostos de admissibilidade de recursos da competência de cortes diversas (Tema 181, RE 598.365).
+3. Agravo regimental a que se nega provimento, com previsão de aplicação da multa prevista no art. 1.021, § 4º, do CPC. Verba honorária majorada em  (um quarto), nos termos do art. 85, § 11, devendo ser observados os §§ 2º e 3º, CPC.
+(ARE 1.015.880 AgR, Relator(a): Min. EDSON FACHIN, Segunda Turma, julgado em 29/09/2017, PROCESSO ELETRÔNICO DJe-247 DIVULG 26-10-2017 PUBLIC 27-10-2017)
+Por conseguinte, não tendo o acórdão recorrido ultrapassado o juízo de admissibilidade, não há repercussão geral, consoante o Tema 181/STF, sendo inviável a análise da violação constitucional aventada no recurso extraordinário.
+Ademais, ao julgar o AI 742.460 RG/RJ, o Supremo Tribunal Federal firmou o entendimento de que "não apresenta repercussão geral o recurso extraordinário que verse sobre a questão da valoração das circunstâncias judiciais previstas no art. 59, do Código Penal, na fundamentação da fixação da pena-base pelo juízo sentenciante, porque se trata de matéria infraconstitucional" (Tema 182/STF).
+Confira-se, por oportuno, a ementa do julgado:
+RECURSO. Extraordinário. Inadmissibilidade. Circunstâncias judiciais previstas no art. 59 do Código Penal. Fixação da pena-base. Fundamentação. Questão da ofensa aos princípios constitucionais da individualização da pena e da fundamentação das decisões judiciais. Inocorrência. Matéria infraconstitucional.
+Ausência de repercussão geral. Agravo de instrumento não conhecido. Não apresenta repercussão geral o recurso extraordinário que verse sobre a questão da valoração das circunstâncias judiciais previstas no art. 59, do Código Penal, na fundamentação da fixação da pena-base pelo juízo sentenciante, porque se trata de matéria infraconstitucional. (AI 742.460 RG, Relator Min. CEZAR PELUSO, julgado em 27/8/2009, DJe-181 DIVULG 24/9/2009 PUBLIC 25/9/2009 EMENT VOL-02375-09 PP-02309 LEXSTF v. 31, n. 369, 2009, pp. 330-338.)
+No caso dos autos, ao examinar a controvérsia, esta Corte Superior de Justiça assim se manifestou (e-STJ fls. 3181/3182):
+Ainda que ultrapassada a barreira acima descrita, não vislumbro a ilegalidade apontada na dosimetria da pena, em especial na valoração negativa do vetor da culpabilidade.
+Consta da sentença condenatória (fls. 1.781/1.782 - grifo nosso):
+ ..  Na primeira fase a pena base comporta exasperação. Valora-se em desfavor do réu, cometeu crime utilizando-se da sua função de policial. Policial é o servidor credenciado pelo Poder Público justamente com a função de combater a criminalidade e garantir a tranquilidade da sociedade. Desviando-se da sua finalidade precípua valendo-se do cargo para cometer crimes, demonstra grande reprovabilidade, com o que deve ser apenado acima do seu mínimo. Valora-se ainda o constrangimento a que se impuseram as vítimas, deixando as nuas durante certo período quando da prática delituosa. Pena, assim, em 3/8 acima do mínimo legal. ..
+Ao contrário do que se alega, não houve a utilização de "condenações anteriores atingidas pelo instituto da prescrição da pretensão punitiva" na fundamentação adotada pelo Juiz de primeiro grau para a negativação da referida circunstância judicial.
+A fundamentação apresentada faz alusão a todo o contexto fático levado a efeito pela ré e corréus na prática do crime. Menciona que os réus se valeram do cargo/função (policial) para o cometimento do crime, e, de modo minucioso, indica particularidades da prática delituosa, entre elas o emprego de constrangimento às vítimas, que foram deixadas nuas durante o período de duração do delito, tudo isso com o fim de demonstrar a reprovabilidade da conduta praticada (fls. 1.781/1.782). Ou seja, foram feitas menções aos crimes praticados (denunciação caluniosa e roubo) apenas para se chegar à conclusão de que a conduta dos policiais foi praticada com acentuada reprovabilidade, superior ao normal dos crimes de extorsão.
+Constata-se, portanto, que a referida circunstância judicial foi concretamente valorada, com fundamento em elementos concretos que demonstram a efetiva maior reprovabilidade da conduta, autorizando, com isso, a elevação da pena-base, não havendo nenhuma deficiência na sua análise.
+Verifica-se, portanto, que a dosimetria da penafoi decidida com base nas circunstâncias judiciais do art. 59 do Código Penal, o que enseja a aplicação do Tema 182/STF.
+Ante o exposto, com fundamento no art. 1.030, I, a, do Código de Processo Civil, nega-se seguimento ao recurso extraordinário.
+Publique-se.
+Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. PREENCHIMENTO DOS PRESSUPOSTOS DE ADMISSIBILIDADE RECURSAL. TEMA 181/STF. APRECIAÇÃO DAS CIRCUNSTÂNCIAS JUDICIAIS DO ART. 59 DO CÓDIGO PENAL. DOSIMETRIA. TEMA 182/STF. AUSÊNCIA DE REPERCUSSÃO GERAL. SEGUIMENTO NEGADO.
