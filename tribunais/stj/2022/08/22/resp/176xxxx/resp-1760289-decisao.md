@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se derecurso especial, fundamentado nas alíneas "a" e "c" do inciso III do artigo 105 da Constituição Federal, manejado em face de acórdão assim ementado:
+IMPUGNAÇÃO DE CRÉDITO. Decisão que acolhe impugnação para que seja retificado o valor do crédito da instituição financeira ora agravada. Manutenção. Discussão sobre montante levantado pelo banco credor nos autos de ação de execução de título extrajudicial. Valor que, embora penhorado antes de distribuído o pedido de recuperação, foi levantado quando já estava em curso o processo de recuperação judicial. Impossibilidade de o Juízo da recuperação determinar quantia cujo levantamento foi determinado pelo Juízo da execução, pena de violar regra de competência. Impossibilidade, outrossim, de determinar o abatimento dessa quantia do total do crédito a que faz jus a instituição financeira. Recurso desprovido.
+Os embargos de declaração opostos na origem foram rejeitados (fls. 207/217).
+Em suas razões, a recorrente sustenta ofensa àLei n. 11.101/2005 e à Súmula 480/STJ, alegando que é competência do Juízo da recuperação decidir sobre qualquer atoexpropriatóriodos bens pertencentes a empresa em recuperação judicial.
+Passo a decidir.
+Verifico que o recurso especial tem fundamentação genérica e deficiente em sua fundamentação, uma vez que não aponta efetivamenteos textos da legislação federal supostamente violados pelo acórdão recorrido, o que impede a exata compreensão da controvérsia e atrai a incidência da Súmula 284 do STF.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INDENIZAÇÃO. ATRASO NA ENTREGA DO IMÓVEL EM CONSTRUÇÃO. VIOLAÇÃO AOS ARTS. 104 E 394, DO CC. SÚMULA N. 284/STF. ALEGADO NÃO CABIMENTO DE DANOS MORAIS. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO LEGAL. APLICAÇÃO DA SÚMULA N. 284/STF. NÃO INDICAÇÃO DO DISPOSITIVO LEGAL QUE TENHA SOFRIDO INTERPRETAÇÃO DIVERGENTE. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA N. 284/STF. AGRAVO INTERNO NÃO PROVIDO.
+1. A falta de articulação de argumentos jurídicos a embasar a assertiva de violação aos arts. 104 e 394, do CC caracteriza deficiência de fundamentação, que impede a exata compreensão da controvérsia e obsta o conhecimento do recurso especial. Incidência da Súmula n. 284/STF.
+2. Em relação ao alegado não cabimento de danos morais, a alegação genérica de violação à lei federal, sem indicar de forma precisa o artigo, parágrafo ou alínea, da legislação tida por violada, tampouco em que medida teria o acórdão recorrido vulnerado a lei federal, bem como em que consistiu a suposta negativa de vigência da lei e, ainda, qual seria sua correta interpretação, ensejam deficiência de fundamentação no recurso especial, inviabilizando a abertura da instância excepcional. Aplicação da Súmula n. 284/STF.
+Precedentes.
+3. Ademais, ainda em relação ao alegado não cabimento de danos morais, a parte recorrente não apontou o dispositivo legal cuja interpretação tenha sido divergente, a fim de viabilizar o conhecimento da insurgência a respeito da tese de mérito. Dessa forma, constata-se que a argumentação apresentada no recurso mostra-se deficiente. Incidência, mais uma vez, do verbete n. 284 da Súmula do STF.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.988.182/RJ, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 24.6.2022).
+De outro lado, não cabe ao Superior Tribunal de Justiça apreciar a violação a enunciado desúmulaem recurso especial, visto que o referido normativo não se insere no conceito de lei federal, previsto no art. 105, III, a, da Constituição Federal, consoante dispõe aSúmula 518desta Corte.
+Por fim, a questão controvertida nos autos se refere à competência para decidir sobre a restituição de valores já reconhecidos como indevidamente levantados, sendo que o Tribunal de origem apontou a ocorrência de preclusão quanto ao tema.
+Desse modo, não havendo impugnação sobre referido ponto, que é suficiente, por si só, para manutenção do julgado, incide o enunciado n. 283 da Súmula do STF.
+Em face do exposto, nego provimento ao recurso.
+Intimem-se.
