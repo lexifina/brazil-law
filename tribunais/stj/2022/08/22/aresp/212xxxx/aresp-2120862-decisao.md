@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de Agravo contra decisão que inadmitiuRecurso Especial (art. 105, III, "a", da Constituição da República) interposto de acórdão assim ementado (fls. 1335-1336, e-STJ):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. REDIRECIONAMENTO DA EXECUÇÃO. INCLUSÃO NO POLO PASSIVO. ARTIGO 133 DO CÓDIGO TRIBUTÁRIO NACIONAL. SUCESSÃO EMPRESARIAL. OCORRÊNCIA. INDÍCIOS. CABIMENTO.
+- Considerando que no caso há indícios da ocorrência de sucessão empresarial é cabível o redirecionamento da execução fiscal.
+- Observa-se, mais, que as sucessoras da executada foram constituídas por iniciativa do seu sócio-diretor FRANCISCO FRANZOI. E que, além das sucessoras e sucedida explorarem atividades econômicas semelhantes, confunde-se o ativo patrimonial de sucessoras e sucedida, na medida em que o capital social está representado por cotas integralizadas pelos mesmos imóveis.
+- Observa-se, inclusive, que a executada constituiu a empresa SUBFLORA nas proximidades de sua antiga sede e com atividade econômica semelhante; e que a empresa SUBFLORA cedeu à MADEFLORA mais de 98% (noventa e oito por cento) de suas ações, isso após o ajuizamento da presente execução fiscal.
+- Fica caracterizada, a princípio, a hipótese do artigo 133 do CTN. Os indícios da sucessão empresarial ilegal - prosseguimento na exploração da mesma atividade econômica e comprovação de transferência de bens, são suficientes para justificar a aplicação do artigo 133 do CTN.
+Os Embargos de Declaração foram rejeitados (fl. 1366, e-STJ).
+Aponta a parte recorrente, em Recurso Especial, violação, em preliminar, dos arts. 489 e 1022 do CPC; e, no mérito, doart. 133 do CTN. Defende que não há que se falar em sucessão, tendo em vista que as supostas empresas sucessora e sucedida coexistem e permanecem exercendo as suas atividades em locais distintos.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 15 de agosto de 2022.
+Preliminarmente, constata-se que não se configurou a ofensa ao art. 1.022 do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia. Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+Na hipótese dos autos, a parte insurgente busca a reforma do aresto impugnado, asseverando que o Tribunal a quo não se pronunciou sobre o tema ventilado no recurso de Embargos de Declaração. Todavia, verifica-se que o acórdão controvertido está bem fundamentado, inexistindo omissão ou contradição.
+Vale destacar que o simples descontentamento da parte com o julgado não tem o condão de tornar cabíveis os Embargos de Declaração, que servem ao aprimoramento da decisão, mas não à sua modificação, que só muito excepcionalmente é admitida.
+Registre-se, portanto, que da análise dos autos extrai-se ter a Corte de origem examinado e decidido, fundamentadamente, todas as questões postas ao seu crivo, não cabendo falar em negativa de prestação jurisdicional.
+No mérito, para melhor compreensão da controvérsia, transcrevo os fundamentos do decisum recorrido:
+Tem-se, portanto, que as empresas Madeflora Indústria e Comércio de Madeira Ltda e Subflora Gestão Florestar Ltda estão explorando a mesma atividade comercial da executada Indusflora Produtos Florestais Ltda., que efetivamente cessou suas atividades, mantendo no máximo escritório de representação comercial.
+ ..  E, além das sucessoras e sucedida explorarem atividades econômicas semelhantes, confunde-se o ativo patrimonial de sucessoras e sucedida, na medida em que o capital social está representado por cotas integralizadas pelos mesmos imóveis.
+Anota-se, inclusive, que a executada constituiu a empresa SUBFLORA nas proximidades de sua antiga sede e com atividade econômica semelhante; e que a empresa SUBFLORA cedeu à MADEFLORA mais de 98% (noventa e oito por cento) de suas ações, isso após o ajuizamento desta execução fiscal.
+Há, portanto, fortes indícios de que o negócio desenvolvido pela devedora continua a ser explorado pela agravante.
+Ficou, a princípio, caracterizada a hipótese do artigo 133 do CTN. Os indícios da sucessão empresarial ilegal - prosseguimento na exploração da mesma atividade econômica e comprovação de transferência de bens, são suficientes para justificar a aplicação do artigo 133 do CTN.
+ ..  A decisão proferida nos autos 0569.11.002819-2, que reconheceu a sucessão empresarial da empresa originariamente executada pela agravante e pela empresa SUBFLORA GESTÃO FLORESTAR LTDA.
+No julgamento dos Aclaratório, o Tribunal de Justiça do Estado de Minas assentou:
+ ..  a sucessão utilizada como forma de evitar o pagamento dos tributos também caracteriza a hipótese do artigo 133 do CTN, sendo esta uma das razões pela qual foi permitido que o patrimônio da embargante seja objeto de eventual constrição, sendo rejeitado o pedido sucessivo de que se reconheça a responsabilidade subsidiária da agravante e, consequentemente, o esgotamento das possibilidades de cumprimento do débito pela devedora originária antes da realização de atos constritivos em seu patrimônio
+Nota-se que a instância de origem decidiu a questão com base no suporte fático-probatório dos autos, cujo reexame é inviável no Superior Tribunal de Justiça, ante o óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial."
+Assim, afasta-se de ideia de simples valoração da prova, concluindo tratar-se de pura análise do conteúdo fático probatório dos autos, o que, como é cediço, é vedado na estreita via do Recurso Especial, por força da Súmula 7 do STJ, conforme já acima mencionado.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Por tudo isso, conheço do Agravo para conhecer parcialmente do Recurso Especial, apenas com relação à violação do art. 1022 do CPC e, nessa parte, não o provejo.
+Publique-se.
+Intimem-se.
