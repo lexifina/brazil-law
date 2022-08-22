@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra acórdão assim ementado (fl. 72):
+APELAÇÃO CRIME. TRAFICO DE DROGAS. RECURSO DEFENSIVO. A tese acusatória vemamparada na narrativa dos policiais que, em juízo, relataram que estavam em patrulhamento de rotina quando avistaram o acusado junto a outras pessoas. Ao Se aproximarem, viram o réu largando um embrulho no chão, o qual foi apreendido por um dos policiais e identificado corno substância entorpecente. Manutenção da condenaçáo e redução da pena nos termos do voto do Revisor. RECURSO PARCIALMENTE PROVIDO. POR MAIORIA.
+Os embargos infringentes opostos foram rejeitados, cuja ementa foi assim disposta(fl. 136):
+EMBARGOS INFRINGENTES.
+DELITO DE TRÁFICO DE ENTORPECENTES (ARTIGO 33, § 4 9 , C/C O ARTIGO 40, III, AMBOS DA LEI Nº 11.343/06, COM INCIDÉNCIA DO ARTIGO 65, I, DO CÓDIGO PENAL).
+A prova dos autosmostra-se suficiente para embasar a condenação do embargantepelo delito de narcotráfico, como assentou o voto preponderante.
+Mantido o voto condutor da maioria, eis que compartilho do entendimento de que a condenação pelo delito de narcotráfico está bem posta, bem como o apenamento respectivo e o regime de seu cumprimento, à exceção da multa, como bem destacado pelo Revisor do acórdão.
+EMBARGOS INFRINGENTES REJEITADOS. POR MAIORIA.
+Consta dos autos que o paciente foi condenado como incurso nas sanções do art. 33. §4º, c/c o art. 40, III, da Lei 11.343/06 e art. 65, I, do CP, a 4 anos, 10 meses e 10 dias de reclusão, em regime inicial semiaberto, e 480 dias-multa.
+No presente writ, a impetrante alega constrangimento ilegal devido à ausência de fundamentação na aplicação da fração de 1/6 de diminuição devido à incidência do § 4º do art. 33 da Lei 11.343/06.
+Argumenta que "imperiosa se faz a aplicação da redutora prevista pelo §4º, do art. 33, da Lei de Drogas, no seu grau máximo e não em 1/6" (fl. 4), sobretudo porque se trata da apreensão de pouca quantidade de entorpecente e o réu é primário.
+Requer, liminarmente e no mérito, a aplicação do redutor do tráfico privilegiado, em grau máximo.
+Indeferida a liminar e prestadas as informações, manifestou-se o Ministério Público Federal pela denegação da ordem.
+Acerca da minorante, extrai-se do acórdão de apelação (fl. 82):
+Lado outro, mantenho a sanção carcerária determinada na sentença, inclusive no que diz com a observância da minorante de que trata o art. 33, § 4º, da lei nº 11.343/2006, no patamar mínimo, dadas significativa quantidade e nocividade da droga de que dispunha o réu.
+Contudo, necessária a redução da pena cumulativa para que guarde proporcionalidade com a privativa da liberdade, com o que vai estabelecida em quatrocentos e oitenta dias-multa.
+Daí por que estou provendo parcialmente o apelo para reduzir a pena de multa.
+Por oportuno, extrai-se da sentença (fls. 24 e 26):
+Considerando que o réu é primário e não possui maus antecedentes (fl. 162), bem como que não foi produzida qualquer prova de que integre organização criminosa ou que se dedique à atividade criminosa (até porque os policiais informaram que esta teria sido a primeira abordagem do acusado, sendo que não conheciam ele de outras ocorrências), assim como frente a quantidade total de droga apreendida (pouco mais de 7 gramas), verifico que o acusado faz jus à causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei de Drogas.
+ ..
+Outrossim, nos termos do art. 33, § 4º, da Lei 11.343/06, diminuo a pena em 1/6 - fração mínima, considerando a quantidade e o tipo de droga apreendida.
+Nos termos da orientação jurisprudencial da Terceira Seção, reafirmada no julgamento do REsp 1.887.511, de relatoria do Ministro João Otávio de Noronha, julgado na sessão de 9/6/2021, "O tráfico privilegiado é instituto criado para beneficiar aquele que ainda não se encontra mergulhado nessa atividade ilícita, independentemente do tipo ou do volume de drogas apreendidas, para implementação de política criminal que favoreça o traficante eventual".
+Assim, para afastar a causa de diminuição de pena do art. 33, § 4º, da Lei 11.343/2006, com suporte na dedicação a atividades criminosas, é preciso, além da quantidade de drogas, aliar elementos concretos suficientes o bastante que permitam a conclusão de que o agente se dedica a atividades criminosas e/ou integra organização criminosa, não bastando ilações e/ou suposições sem espeque fático válido.
+No caso, verifica-se que a pena-base foi fixada em 5 anos e 7 meses de reclusão, retornando ao mínimo legal, na segunda fase, em razão da menoridade relativa. Na terceira fase, verifica-se que as instâncias ordinárias reconheceram a causa de diminuição de pena prevista no § 4º do art. 33 da Lei 11.343/0,6 no patamar de 1/6, "considerando a quantidade e o tipo de droga apreendida".
+Contudo, a apreensão de quantidade não relevante de drogas (7,75g de cocaína - fl. 9), denota menor gravidade da conduta delitiva, na linha da orientação jurisprudencial desta Corte, a autorizar a fixação da redução no patamar máximo.
+Ademais, a apreensão de 7,75g de cocaína expressa quantidade não relevante para fim de afastar a minorante do tráfico ou mesmo ser reconhecida em patamar inferior, que deve incidir na espécie, no patamar máximo de 2/3. Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO ILÍCITO DE DROGAS. DOSIMETRIA. CAUSA ESPECIAL DE REDUÇÃO DA PENA PREVISTA NO § 4.º DO ART. 33 DA LEI N. 11.343/2006. FIXAÇÃO NO PATAMAR DE 1/2 (METADE). FUNDAMENTAÇÃO INIDÔNEA. POSSIBILIDADE DE INCIDÊNCIA NA FRAÇÃO MÁXIMA. AGRAVO DESPROVIDO.
+1. Considerando que o Agravado preenche todos os requisitos necessários à aplicação da minorante prevista no § 4.º do art. 33 da Lei n. 11.343/2006, e tendo em vista a pequena quantidade da droga apreendida, deve ser aplicado o redutor no seu patamar máximo, qual seja, 2/3 (dois terços), atendendo-se à proporcionalidade necessária e suficiente para a reprovação do crime.
+2. Embora o Tribunal de origem tenha feito referência a "conversas extraídas" do aparelho celular do Réu, o que poderia, em tese, justificar a modulação do benefício, observo que só foi feita referência a uma única conversa e o Juízo sentenciante destacou que " n o laudo pericial realizado no celular do réu, não foram encontradas demasiadas mensagens do comércio espúrio que levassem a crer que se dedicava com habitualidade ao delito", de forma que não há fundamentação suficiente para a referida modulação.
+3. Agravo regimental desprovido.
+(AgRg no HC 704.877/SC, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 08/02/2022, DJe 15/02/2022)
+Fixada a pena-base em 5 anos e 7 meses de reclusão, retornando ao mínimo legal, na segunda fase, em razão da menoridade relativa, aplica-se o redutor do art. 33, § 4º, da Lei 11.343/06 no seu grau máximo, em 2/3, resultando em 1 ano e 8 meses de reclusão, além do pagamento de 166 dias-multa, a qual deve ser majorada em 1/6 (art. 40. III, da Lei 11.343/06), conforme estabelecido na origem, totalizando 1 ano, 11 meses e 10 dias de reclusão e pagamento de 193 dias-multa.
+Quanto ao regime prisional, embora a pena tenha sido estabelecida em patamar inferior a 4 anos, foi reconhecida na primeira fase da dosimetria da pena circunstância judicial desfavorável, o que justifica o agravamento do regime prisional, nos termos do art. 33, §§2º e 3º, do CP, sendo, no caso, cabível o regime semiaberto de cumprimento da pena. Pela mesma razão, não é cabível a substituição da pena corporal por restritivas de direitos, nos termos do art. 44, III, do CP.
+Ante o exposto, concedo o habeas corpus para fixar a pena de 1 ano, 11 meses e 10 dias de reclusão, no regime inicial semiaberto, e 193 dias-multa.
+Comunique-se.
+Publique-se.
+Intimem-se.
