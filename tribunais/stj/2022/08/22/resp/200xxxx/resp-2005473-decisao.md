@@ -1,0 +1,15 @@
+DECISÃO
+Na origem trata-se de agravo de instrumento contra decisão que, em ação civil pública, indeferiu o pedido de isenção de custas. No Tribunal a quo a decisão foi mantida. O recurso especial foi interposto contra Acórdão proferido no TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA, com o seguinte resumo de ementa:
+AGRAVO INTERNO EM AGRAVO POR INSTRUMENTO. DECISÃO DESTE JUÍZO AD QUEM QUE NÃO RECONHECEU A ISENÇÃO LEGAL DE CUSTAS E DETERMINOU O RECOLHIMENTO DO PREPARO RECURSAL. AÇÃO COLETIVA AJUIZADA POR SINDICATO. INAPLICABILIDADE DA ISENÇÃO PREVISTA NO ART. 87 DO CDC E ART. 18 DA LEI DA AÇÃO CIVIL PÚBLICA. PRECEDENTES RECENTES DESTA CORTE ESTADUAL. RECURSO CONHECIDO E DESPROVIDO.
+Na ação civil pública pretende o ente sindicalo provimento jurisdicional que assegure o pagamento de adicional de insalubridade para todos os seus filiados, em grau máximo, em decorrência da superveniência da pandemia da COVID-19.
+O recurso foi admitido na origem e vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O acórdão proferido na Corte de origem está em confronto com a jurisprudência desta Corte.
+Esta Corte posicionava-se no sentido de que o cabimento de ação civil pública em defesa de direitos individuais homogêneos se restringia àqueles direitos que evolvessem relação de consumo. Porém, tal posicionamento foisuperado, sendo pacífico o entendimento desta Corte Superior no sentido de que o art. 21 da Lei n. 7.347/85, com redação dada pela Lei n. 8.078/90, ampliou o alcance da ação civil pública também para a defesa de interesses e direitos individuais homogêneos não relacionados a consumidores.
+No julgamento doEREsp 1.322.166/PR, pela Corte Especial do Superior Tribunal de Justiça, em sessão de 4.3.2015 estendeu-se a isenção de custas prevista no art. 18 da Lei da Ação Civil Pública aos sindicatos que atuam na defesa de interesses e direitos individuais homogêneos da categoria que representam e não relacionados a direito dos consumidores. Eis a ementa do julgado:
+EMBARGOS DE DIVERGÊNCIA. PROCESSUAL CIVIL. AÇÃO CIVIL PÚBLICA. DEFESA DE DIREITOS INDIVIDUAIS HOMOGÊNEOS DE SERVIDORES PÚBLICOS. CABIMENTO. LEGITIMIDADE DO SINDICATO. ISENÇÃO DE CUSTAS. APLICAÇÃO DO ART. 18 DA LEI N. 7.347/85.
+1. É cabível o ajuizamento de ação civil pública em defesa de direitos individuais homogêneos não relacionados a consumidores, devendo ser reconhecida a legitimidade do Sindicato recorrente para propor a presente ação em defesa de interesses individuais homogêneos da categoria que representa. Com o processamento da presente demanda na forma de ação civil pública, plenamente incidente o art. 18 da lei n. 7.347/85, com a isenção de custas.
+2. Embargos de divergência não providos.
+(EREsp n. 1.322.166/PR, relator Ministro Mauro Campbell Marques, Corte Especial, julgado em 4/3/2015, DJe de 23/3/2015.)
+Ante o exposto, dou provimento ao recurso especial para reformar o acórdão proferido na Corte de origem e assegurar a referida isenção de custas.
+Publique-se. Intimem-se.
