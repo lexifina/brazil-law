@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 16/08/2022 a 22/08/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+EXMO. SR. MINISTRO MARCO BUZZI:
+Trata-se de agravo interno interposto por FÁBIO BRUNO CHIAVEGATO, em face da decisão de fls. 1.141/1.144 (e-STJ), que, em juízo de cognição sumária, indeferiu o pedido de tutela provisória, com o propósito de conferir efeito suspensivo ao agravo em recurso especial, interposto nos autos do agravo de instrumento julgado pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+PROCESSO CIVIL. Agravo de instrumento. Interposição contra decisão que resolveu o incidente de desconsideração da personalidade jurídica da executada. Cabimento. Exegese dos arts. 136, "caput" e 1.015, IV, do CPC/2015 Preliminar rejeitada. SOCIEDADE- Desconsideração da personalidade jurídica da executada. Desacolhimento. Inadmissibilidade. Presença de prova suficiente da existência de abuso da personalidade, com a utilização, pelos terceiros, da pessoa jurídica constituída em nome de outros sócios para frustrar credores.
+Conjunto fático-probatório suficiente para concluir que os agravados eram os reais proprietários da empresa. Impugnação dos elementos apresentados pelo agravante que não foi suficiente para infirmar as afirmações da petição inicial do incidente. Inteligência do art. 50 do CC/2002. Decisão reformada com a consequente despersonalização da executada, passando a integrar o polo passivo da execução os agravados. Recurso provido.
+Foi interposto recurso especial, com amparo nas alíneas "a" e "c" do permissivo constitucional, tendo sido alegado violação ao art. 50 do Código Civil, sustentando, em suma, que, embora a Corte Estadual tenha reconhecido o abuso da personalidade jurídica, o órgão julgador deixou demonstrar qual teria sido o desvio de finalidade ou a confusão patrimonial para autorizar a desconsideração formulada pela parte contrária.
+O reclamo, em sede de juízo prévio de admissibilidade, restou inadmitido pelo Tribunal local, ensejando a interposição do recurso do art. 1.042 do CPC, ainda não remetido ao Superior Tribunal de Justiça.
+Na presente oportunidade, o requerente repisou a tese do apelo nobre e, em sede de tutela provisória cautelar, formula pedido de efeito suspensivo ao agravo em recurso especial já interposto na origem.
+O pedido foi indeferido nos termos da decisão singular de fls. 1.141/1.144 (e-STJ).
+Em suas razões (fls. 1.149/1.168, e-STJ), a parte agravante apenas repisa os fundamentos já apresentados e examinados.
+Impugnação apresentada pela parte adversa.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO PEDIDO DE TUTELA PROVISÓRIA - PEDIDO DE CONCESSÃO DE EFEITO SUSPENSIVO AO AGRAVO EM RECURSO ESPECIAL INTERPOSTO - AUSÊNCIA DOS REQUISITOS AUTORIZATIVOS.
+1. Com amparo nas provas produzidas no incidente processual, a Corte Estadual decidiu que, caracterizado o desvio de finalidade do ente empresarial, encontra-se, na hipótese, justificada a desconsideração da personalidade jurídica, nos termos do art. 50, § 1º, do Código Civil. Aplicação, no caso, das Súmulas 07 e 83 do STJ.
+2. Agravo interno desprovido.
+VOTO
+EXMO. SR. MINISTRO MARCO BUZZI (Relator):
+O pedido não comporta acolhimento.
+1. Não estão presentes, em juízo de cognição sumária, os pressupostos autorizativos do provimento de urgência.
+1.1. Observa-se, inicialmente, quanto à plausibilidade do direito invocado, que o acórdão proferido pela Corte Estadual encontra-se, ao menos nessa fase de conhecimento, em sintonia com a jurisprudência do Superior Tribunal de Justiça.
+No caso, o Tribunal de origem afirmou que se justificaria a desconsideração da personalidade jurídica da empresa, cujo contrato social elenca como sócias a mãe e a filha do ora requerente, porquanto, conforme documentos e e-mails juntados ao autos, era o peticionante que gerenciava e administrava a pessoa jurídica, pois era o responsável por contratações e prestação pessoal de aval em contratos firmados pela ente empresarial, restando, assim, com amparo no conjunto probatório dos autos, demonstrado o desvio de finalidade, requisito autorizativo para retirada da proteção legal nos termos do art. 50, § 1º, do Código Civil.
+É, aliás, o que se extrai do seguinte trecho do acórdão recorrido (fl. 33, e-STJ):
+A tese do agravado não convence. Ele não justificou porque, como mero representante de vendas da devedora, teria prestado aval a dívidas dela, fato que é verificável nas execuções mencionadas na petição inicial (cf. autos nº 1001395-68.2018.8.26.0296 e 1000586-78.2018.8.26.0296), cujos valores históricos são de R$ 154.587,37 e R$ 122.307,50, tampouco porque recebia e-mails relativos aos serviços prestados pelo exequente já que, segundo a sua tese, ele não passaria de um mero representante de vendas.
+(..)
+Sobre a alegada função que desempenhava, poderia ter juntado aos autos prova escrita, como contratos, ou prova de intermediação de vendas, mas apenas apresentou uma única declaração e um e-mail que nada esclarece (cf. fls. 792-801 dos autos de origem). Há, portanto, um conjunto fático-probatório suficiente, não infirmado pela resposta do agravado, para o reconhecimento de que houve abuso da personalidade jurídica pelos recorridos, especialmente porque Antônio foi revel, sendo desnecessária a produção de mais provas pelo sistema CCS-Bacen ou fundamentação pautada nos alegados documentos novos que instruíram este recurso, os quais o agravado reputa intempestivos.
+Ora, como é sabido, a teoria da desconsideração da personalidade jurídica (disregard of legal entity doctrine) incorporada ao nosso ordenamento jurídico tem por escopo alcançar o patrimônio dos sócios ou administradores que se utilizam da autonomia patrimonial da pessoa jurídica para fins ilícitos, abusivos ou fraudulentos, nos termos do que dispõe o art. 50 do CC: comprovação do abuso da personalidade jurídica, mediante desvio de finalidade ou de confusão patrimonial, em detrimento do interesse da própria sociedade e/ou com prejuízos a terceiros.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AO ART. 535 DO CPC/1973. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. DESVIO DE FINALIDADE. REAVALIAÇÃO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283/STF. DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 535 do CPC/1973 quando a Corte local pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. "A desconsideração da personalidade jurídica é admitida em situações excepcionais, devendo as instâncias ordinárias, fundamentadamente, concluir pela ocorrência do desvio de sua finalidade ou confusão patrimonial desta com a de seus sócios, requisitos sem os quais a medida torna-se incabível" (REsp 1.311.857/RJ, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 13/5/2014, DJe 2/6/2014).
+3. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF.
+4. Agravo regimental a que se nega provimento.
+(AgRg no REsp n. 1.130.358/MG, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 29/10/2019, DJe de 6/12/2019.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. POSSIBILIDADE. REVISÃO. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. O Tribunal de origem, analisando pormenorizadamente a prova dos autos concluiu por manter a desconsideração da personalidade jurídica para atingir as empresas ora recorrentes uma vez que assentou haver farta comprovação de abuso de personalidade jurídica em razão do desvio de finalidade e confusão patrimonial, na forma do art. 50 do Código Civil, assim como a reiterada obstaculização, pela executada, ao cumprimento da decisão condenatória por meio da blindagem da personalidade jurídica.
+2. Dessa forma, observa-se que o Tribunal de origem analisou a prova dos autos para concluir acerca da intrínseca relação entre as empresas, caracterizada pelos sócios, diretores e procuradores em comum, bem como mesmas atividades a se caracterizarem como componentes de um grupo econômico familiar, com desvio de finalidade e confusão patrimonial para o mau uso das empresas criadas.
+3. Nesse contexto, o acolhimento da pretensão recursal exigiria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, atraindo o óbice da Súmula 7 do STJ.
+4. Agravo interno não provido.
+(AgInt no AgInt nos EDcl no AREsp n. 983.360/PR, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 10/10/2017, DJe de 13/10/2017.)
+Há, no ponto, para obstar o pedido ora formulado, aparente incidência da Súmula 83 do STJ.
+Ademais, cumpre destacar que, para derruir a conclusão firmada na instância ordinária, seria necessário rever o conjunto fático-probatório dos autos, o que é vedado nos termos da Súmula 07 do STJ.
+Confira-se:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO DO AGRAVO EM RECURSO ESPECIAL. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. REQUISITOS. REVISÃO. SÚMULA 7/STJ.
+1. A desconsideração da personalidade jurídica é medida de caráter excepcional que somente pode ser decretada após a análise, no caso concreto, da existência de vícios que configurem abuso de direito, caracterizado por desvio de finalidade ou confusão patrimonial, requisitos que não se presumem em casos de dissolução irregular ou de insolvência. Precedentes.
+2. Rever os fundamentos do acórdão recorrido relativos à análise dos requisitos autorizadores importaria necessariamente no reexame de provas, o que é defeso nesta fase recursal ante o óbice da Súmula 7/STJ.
+3. Agravo interno não provido.
+(AgInt nos EDcl no AREsp n. 1.893.737/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 21/2/2022, DJe de 25/2/2022.)
+Por fim, é falacioso dizer que o sócio foi revel na fase cognitiva do processo, pois, nos termos da jurisprudência do STJ, "O CPC de 2015 estabelece procedimento próprio para a desconsideração da personalidade jurídica, possibilitando que ocorra no âmbito de cumprimento de sentença (art. 134), por meio da instauração incidente, no qual será citado o sócio para se defender e apresentar as provas cabíveis (arts. 133-137)" (AgInt no AREsp 1.362.690/DF, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 10/12/2019, DJe de 19/12/2019).
+E, no caso, isso ocorreu, tanto é que, representado por advogado, exerceu o contraditório e produziu provas, restando, ao final, pela caracterização do desvio de finalidade responsabilizado ao pagamento da dívida, com os devedores originários.
+Em conclusão, tem-se, portanto, em juízo de cognição sumária, a forte probabilidade de o reclamo principal ser desprovido com amparo nas Súmulas 07 e 83 do STJ.
+2. Ante o exposto, nego provimento ao agravo interno.
+É como voto.
