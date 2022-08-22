@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de recurso especial interposto pela ALEXIS MELO RIBEIRO BIGOTO, com fundamento no art. 105, III, alíneas "a" e "c", da Constituição Federal, contra acórdão do eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"Cédula de crédito bancário Tarifas Adotado o atual posicionamento do STJ, ao aplicar a "Lei de Recursos Repetitivos" REsp 1.578.553/SP, relativo ao Tema 958 - Validade da tarifa de avaliação do bem dado em garantia, assim como da cláusula que prevê o ressarcimento de despesas com o registro do contrato, ressalvadas a abusividade da cobrança por serviço não efetivamente prestado e a possibilidade de controle da onerosidade excessiva, em cada caso concreto. Cédula de crédito bancário Tarifa de registro de contrato Estipulado no referido título o pagamento da quantia de R$ 120,03 Cobrança inválida, uma vez que não ficou comprovado o serviço prestado Não juntada cópia do documento do veículo com o registro de alienação fiduciária perante o órgão de trânsito (CRLV) ou pesquisa perante o Sistema Nacional de Gravames (SNG) Ilegítima a cobrança dessa tarifa pela ré Sentença reformada nesse ponto. Cédula de crédito bancário Seguro Considerado o atual posicionamento do STJ, ao aplicar a "Lei de Recursos Repetitivos" REsp 1.639.320/SP, relativo ao Tema 972Prevista a cobrança de R$ 1.560,00 a título de "CDC Protegido Vida/Emprego" - Consumidor que pôde optar por contratar ou não o seguro Título no qual foi facultado ao autor escolher a seguradora de sua preferência para a realização do seguro, motivo pelo qual não se pode cogitar de vício de consentimento - Impossibilidade de se admitir venda casada no caso em tela - Legitimidade do referido encargo Valor cobrado que não se mostrou abusivo Sentença mantida nesse ponto. Cédula de crédito bancário - Encargos moratórios Resolução CMN 4.882, de 23.12.2020, que proíbe a cobrança de comissão de permanência ou de qualquer taxa de juros para o período de inadimplemento Vedação que foi introduzida pela Resolução CMN 4.558, de 23.2.2017,cuja entrada em vigor se deu em 1.9.2017 Título que foi firmado em 17.9.2017, posteriormente à entrada em vigor da Resolução CMN 4.558/2017 Caso em que relativamente ao período de inadimplência, foi estabelecida a incidência de juros remuneratórios pactuados para o período de adimplência, de juros de mora legais e de multa contratual, em conformidade com o art. 2º da Resolução CMN 4.882/2020 - Encargos moratórios que devem ser mantidos - Decretada a procedência parcial da ação - Apelo do autor provido em parte.,." (e-STJ, fl. 86/88)
+Opostos embargos de declaração, os mesmos foram rejeitados (e-STJ, fls. 98/101 e 108/113).
+Em suas razões recursais, o recorrente aponta violação aoart. 39, inciso I do Código de Defesa do Consumidor e divergência jurisprudencial, sustentando, em síntese, que não teve opção de contratar ou escolher a seguradora, de modo que deve ser reconhecida venda casa nos termos do entendimento jurisprudencial esta Corte Superior
+Contrarrazões às fls. 125/130.
+É o relatório. Passo a decidir.
+A Corte de origem concluiu, diante do contexto fático-probatório contido nos autos, que não há que se falar em venda casada pois foi permitido ao recorrente a opção por seguradora de sua preferência e a opção pela contratação ou não do seguro, tendo o mesmo expressamente e livremente concordado com a mesma,in verbis:
+"3.2. É válida, entretanto, a cobrança do seguro prestamista (fl.22).
+(..)
+Na ventilada cédula, foi permitido ao consumidor autor optar pela seguradora de sua preferência, já que constou do item VI da cláusula N, denominada "Direitos", "escolher livremente a seguradora para o seguro do veículo"(fl. 23). Conforme revela o item B.6 das "Condições Específicas de Operação de Crédito Direto ao Consumidor (CDC) Veículos", vinculadas à cédula em análise (fl. 22), foi dada ao autor a opção de contratar ou não o seguro em debate, decorrente de eventual situação de desemprego, doença, invalidez ou morte. Inviável reconhecer-se, logo, a ocorrência de venda casada no caso em tela.
+(..)
+Deve ser mantida, pois, a cobrança do aludido seguro, no valor de R$ 1.560,00 (fl. 22), quantia que não se mostrou abusiva.
+(e-STJ, fls. 89/91)
+(..)
+Ao contrário do alegado pelo autor embargante (fl. 4), na cédula de crédito bancário em questão, mais especificamente, no item B.6, havia campo para assinalar a opção "sim" ou "não", tendo sido assinalado "sim" para a contratação do seguro (fl. 22 dos autos principais).
+(e-STJ, fl. 112)
+A decisão de origem está em conformidade com o entendimento desta Corte Superior.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CONTRATOS BANCÁRIOS. AÇÃO REVISIONAL. SEGURO DE PROTEÇÃO FINANCEIRA. PRECEDENTE REPRESENTATIVO DA CONTROVÉRSIA. TEMA N. 972 DO STJ. ILEGALIDADE NÃO VERIFIDADA NA ORIGEM. SÚMULAS N. 5, 7 E 83 DO STJ. DECISÃO MANTIDA.
+1. A jurisprudência desta Corte, firmada sob a sistemática dos recursos repetitivos, orienta que "o consumidor não pode ser compelido a contratar seguro com a instituição financeira ou com seguradora por ela indicada" (REsp 1639320/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, SEGUNDA SEÇÃO, julgado em 12/12/2018, DJe 17/12/2018).
+2. No caso, ficou consignado no acórdão que a parte autora da ação revisional não foi compelida a contratar o seguro nem demonstrou a suposta venda casada.
+3. O desfecho atribuído ao processo na origem não destoa das premissas fixadas no precedente representativo da controvérsia (Súmula n. 83/STJ), impondo-se reafirmar que o acolhimento da insurgência demandaria reexame de matéria fática e interpretação do contrato estabelecido entre as partes, procedimento inviável em recurso especial (Súmulas n. 5 e 7 do STJ).
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.899.817/PR, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 13/6/2022, DJe de 21/6/2022.)
+RECURSO ESPECIAL REPETITIVO. TEMA 972/STJ. DIREITO BANCÁRIO. DESPESA DE PRÉ-GRAVAME. VALIDADE NOS CONTRATOS CELEBRADOS ATÉ 25/02/2011. SEGURO DE PROTEÇÃO FINANCEIRA. VENDA CASADA. RESTRIÇÃO À ESCOLHA DA SEGURADORA. ANALOGIA COM O ENTENDIMENTO DA SÚMULA 473/STJ. DESCARACTERIZAÇÃO DA MORA. NÃO OCORRÊNCIA. ENCARGOS ACESSÓRIOS.
+1.DELIMITAÇÃO DA CONTROVÉRSIA: Contratos bancários celebrados a partir de 30/04/2008, com instituições financeiras ou equiparadas, seja diretamente, seja por intermédio de correspondente bancário, no âmbito das relações de consumo.
+2. TESES FIXADAS PARA OS FINS DO ART. 1.040 DO CPC/2015: 2.1 - Abusividade da cláusula que prevê o ressarcimento pelo consumidor da despesa com o registro do pré-gravame, em contratos celebrados a partir de 25/02/2011, data de entrada em vigor da Res.-CMN 3.954/2011, sendo válida a cláusula pactuada no período anterior a essa resolução, ressalvado o controle da onerosidade excessiva .
+2.2 - Nos contratos bancários em geral, o consumidor não pode ser compelido a contratar seguro com a instituição financeira ou com seguradora por ela indicada.
+2.3 - A abusividade de encargos acessórios do contrato não descaracteriza a mora.
+3. CASO CONCRETO.
+3.1. Aplicação da tese 2.3 ao caso concreto, mantendo-se a procedência da ação de reintegração de posse do bem arrendado.
+4. RECURSO ESPECIAL DESPROVIDO.
+(REsp n. 1.639.320/SP, relator Ministro Paulo de Tarso Sanseverino, Segunda Seção, julgado em 12/12/2018, DJe de 17/12/2018.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. SEGURO DE PROTEÇÃO FINANCEIRA. COBRANÇA. REVISÃO DO JULGADO. REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA 7/STJ. NÃO PROVIMENTO.
+1. Nos contratos bancários em geral, o consumidor não pode ser compelido a contratar seguro com a instituição financeira ou com seguradora por ela indicada, o que não ocorreu na hipótese dos autos.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula 7/STJ).
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.844.923/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 22/6/2020, DJe de 26/6/2020.)
+Incidência, portanto, da Súmula 83/STJ
+Ademais, a modificação de tais entendimentos lançados no v. acórdão recorrido, no sentido de que o consumidor não foi compelido a escolher o seguro, demandaria o revolvimento de suporte fático-probatório dos autos e análise de cláusulas contratuais, o que é inviável na sede estreita do recurso especial, a teor do que dispõem a Súmula 7 e Súmula 5 do Superior Tribunal de Justiça.
+Diante do exposto, nos termos do art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial. Com supedâneo no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios devidos ao recorrido de 10% para 11% sobre o valor da causa.
+Publique-se.
