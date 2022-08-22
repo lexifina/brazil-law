@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial (art. 105, III, "a", da CF/1988) interposto contra acórdão do Tribunal Regional Federal da 2ª Região assim ementado (fl. 521, e-STJ):
+ADMINISTRATIVO - APELAÇÃO CÍVEL - PENSÃO CIVIL - AUSÊNCIA DE DIREITO À PARIDADE - INSTITUIDOR DA PENSÃO SE ENCONTRAVA EM ATIVIDADE NA DATA DO ÓBITO - OBSERVÂNCIA DOS REQUISITOS PREVISTOS NO ART. 3º DA EMENDA CONSTITUCIONAL Nº 47/2005 - NECESSIDADE - VERBA HONORÁRIA MAJORADA - ARTIGO 85, § 11º, DO CPC - ENUNCIADO 7 DO STJ - EXECUÇÃO SOBRESTADA - ARTIGO 98, § 3º, DOCPC.
+- A isonomia entre os servidores ativos e inativos estava prevista originalmente no art. 40, § 4º, da Constituição Federal de 1988.
+- A Emenda Constitucional nº 41/2003, por sua vez, extinguiu o direito à paridade dos proventos para os servidores que ingressaram no serviço público após a sua publicação, mas o garantiu aos que estavam na fruição da aposentadoria na data de sua publicação, estendendo-lhes quaisquer vantagens ou benefícios posteriormente concedidos aos servidores em atividade, "inclusive quando decorrentes da transformação ou reclassificação do cargo ou função em que se deu a aposentadoria ou que serviu de referência para a concessão da pensão" (art. 7º da EC 41/2003).
+- Por outro lado, a Emenda Constitucional n.º 47/2005 manteve, excepcionalmente, a paridade das pensões derivadas de proventos de servidores já falecidos e aposentados, observando-se os requisitos previstos em seu artigo 3º.
+- Assim, os servidores que ingressaram no serviço público antes da EC 41/2003, mas que se aposentaram após a referida emenda, possuem direito à paridade remuneratória e à integralidade no cálculo de seus proventos, desde que observadas as regras de transição especificadas nos arts. 2º e 3º da EC 47/2005. Portanto, o pensionista deve comprovar os requisitos previstos na EC nº 47/2005, sob pena de ausência do direito à paridade, pois não se trata de direito automático.
+- Verba honorária majorada para 12% (doze por cento) sobre o valor atualizado da causa, a teor do art. 85, § 11º, do CPC, c/c Enunciado Administrativo nº 7 do STJ, sobrestada, porém, a sua execução, diante da gratuidade deferida, nos termos do art. 98, § 3º, do CPC.
+- Apelação não provida.
+Em Recurso Especial, o agravantesustentaque foramviolados o art.189 e seu parágrafo único da Lei 8.112/1990, bem como "os parâmetros legais dos reajustes devidos em função da correta aplicação do disposto na Emenda Constitucional 41/2003 c/c a Lei nº 10.887/2004" (fl. 533, e-STJ).
+Apresentadas as contrarrazões (fls. 544-548, e-STJ), inadmitiu-se o intento(fl. 562, e-STJ), o que deu ensejo à interposição do presente Agravo.
+É o relatório.
+Decido.
+Recebi os autos no Gabinete em 8 de agosto de 2022.
+Constata-se queo Tribunal de origem não emitiu juízo de valor a respeito do art. 189 e seu parágrafo único da Lei 8.112/1990, do que resulta ausente o indispensável prequestionamento.
+Com efeito, o requisito do prequestionamento pressupõe prévio debate da questão pela instância a quo, à luz da legislação federal indicada, com emissão de juízo de valor acerca dos dispositivos legais apontados como ofendidos.
+Incidência, no ponto,do óbice das Súmulas 211/STJ e 282/STF.
+No tocante à suposta violência aos "parâmetros legais dos reajustes devidos em função da correta aplicação do disposto na Emenda Constitucional 41/2003 c/c a Lei nº 10.887/2004", a par da inviabilidade deapreciação dematéria constitucionalem Recurso Especial, sob pena de usurpação de competência do Supremo Tribunal Federal, a pretensão do recorrente esbarra no óbice da Súmula 284 do STF. A via estreita do Recurso Especial exige a demonstração inequívoca da ofensa ao dispositivo inquinado como descumprido, bem como a sua particularização, a fim de possibilitar o seu exame em conjunto com o decidido nos autos, sendoque a falta de indicação precisa dos dispositivos infraconstitucionais tidos como violados caracteriza deficiência de fundamentação.
+Ante o exposto, conheço do Agravo para não conhecer do Recurso Especial.
+Conforme Enunciado Administrativo 7/STJ, condeno o recorrente ao pagamento de honorários advocatícios correspondentes a 10% (dez por cento) sobre o valor total da verba sucumbencial fixada nas instâncias ordinárias, com base no § 11 do art. 85 do CPC/2015, suspendendo a exigibilidade diante da concessão da gratuidade de justiça (fl. 518, e-STJ).
+Publique-se.
+Intimem-se.
