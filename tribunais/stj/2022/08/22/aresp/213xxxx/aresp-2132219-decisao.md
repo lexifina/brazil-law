@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de Agravo contra decisão que inadmitiu Recurso Especial (art. 105, III, "a" e "c", da CF/1988) no qual se impugna acórdão do Tribunal de Justiça do Estado do Maranhão assim ementado:
+APELAÇÃO CÍVEL. EMENDA À INICIAL. INÉRCIA DA PARTE INTERESSADA. EXTINÇÃO DO FEITO SEM RESOLUÇÃO DO MÉRITO. SENTENÇA MANTIDA. APELO DESPROVIDO.
+I. Demanda extinta na origem, sem resolução do mérito, em virtude do não cumprimento da decisão que determinou a emenda à inicial, no sentido de que fosse juntada a lista indicando o nome do exequente dentre os substituídos que tiveram seus cálculos julgados pela Contadoria Judicial e homologados no processo originário nº. 6542/2005.
+II. Ao indicar com precisão o que deve ser corrigido, e não cumprida a diligência pela parte interessada, agiu corretamente o magistrado ao extinguir o feito sem resolução de mérito, em obediência ao art. 321, parágrafo único, do CPC. Precedentes do STJ.
+III. Apelação Cível conhecida e não provida.
+Os Embargos de Declaração foram rejeitados.
+Em seu Apelo Nobre, a parte recorrente aponta, além de divergência jurisprudencial, ofensa arts. 321, parágrafo único, 489, § 1º, IV, e 1.022, II, do CPC/2015.
+Sustenta, em suma:
+In casu, houve decisão judicial extinguindo o feito de forma equivocada com base no art. 321, p. u., CPC, por entender que o titulo coletivo não é dotado de liquidez para a parte Recorrente/Exequente, em razão desta não ter emendado a inicial, juntando comprovação de que seu nome figura entre os participantes dos autos coletivos que tiveram índice homologado em liquidação por arbitramento coletiva.
+Ocorre que tal emenda resta impossível de ser cumprida, vez que somente aqueles indicados na ação coletiva figuraram na liquidação por arbitramento, enquanto o titulo coletivo não se restringe à estes, pois ressaiu de ação coletiva patrocinada por sindicato em substituição processual de toda a categoria, podendo ser executado por qualquer servidor representado, independente de filiação ou participação nos autos coletivos.
+Ademais, a liquidação coletiva por arbitramento aferiu índices genéricos, tornando possível a qualquer servidor executar o julgado, bastando comprovar sua lotação para ter acesso ao seu índice de recomposição.
+Mesmo com a oferta destes fundamentos e documentos necessários, inclusive certidão da Contadoria Judicial indicando isto, o juízo permaneceu omisso sobre estas questões, extinguindo o feito, o que foi mantido pela corte estadual, também sem qualquer manifestação sobre isto.
+Ressalte-se que os documentos e questões apontadas são indispensáveis para a aferição da questão - liquidez e satisfação da decisão de emenda - e cognoscíveis em qualquer grau de jurisdição, inclusive de ofício (pois matérias de ordem pública), revelando dupla deficiência da atividade judicante, posto que não pronunciou-se nem de ofício e nem após direta provocação pelo instrumento recursal cabível. (fl. 436, e-STJ)
+Argumenta ainda:
+Embora a Corte Estadual tenha fundamentado pela extinção sustentando ausência de emenda da inicial para apresentar o nome da parte Exequente/Recorrente em lista dos autos coletivos, a verdade é que na espécie, pouco importa a sua ausência nos autos de conhecimento, afinal, não se trata de associação, e sim de entidade sindical.
+Então mesmo os que não constam no referido processo coletivo podem promover liquidação ou cumprimento de sentença individual, bastando comprovar que integra a categoria profissional do sindicato autor.
+Com isso, o judiciário não poderá exigir que o servidor público abrangido pelo título de natureza coletiva conste dos autos originários.
+Aliás, o Informativo jurisprudencial 746 do STF diferencia bem as entidades associativas das entidades sindicais, e define que a necessidade de filiação se limita às associações civis, (fl. 446, e-STJ).
+Ao final, requer, "o provimento para reformar o Acórdão, posto que qualquer servidor público estadual poderá promover liquidação ou cumprimento de sentença, bastando comprovar estar contido dentro da categoria profissional abarcada pela entidade sindical autora da demanda coletiva, independentemente de filiação ou de ter feito parte da lista de substituídos constante na ação coletiva." (fl. 455, e-STJ).
+Contrarrazões às fls. 472-481, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 9 de agosto de 2022.
+De início, afasto a apontada violação dos arts. 489 e 1.022 do CPC/2015, pois não se constata omissão, obscuridade ou contradição nos acórdãos recorridos capazes de torná-los nulos, especialmente porque o Tribunal de origem apreciou a demanda de forma clara e precisa, estando bem delineados os motivos e fundamentos que embasam o decisum.
+Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução. Não se pode confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+No mais, o Tribunal de origem assim se manifestou sobre o cerne da insurgência:
+Em análise detida dos autos, observo que a demanda foi extinta em virtude do não cumprimento da decisão que determinou a emenda à inicial, no sentido de que fosse juntada a lista indicando o nome do exequente dentre os substituídos que tiveram seus cálculos julgados pela Contadoria Judicial e homologados no processo originário nº. 6542/2005, uma vez que não foi aceita a tabela geral apresentada pelo exequente dos índices distribuídos por categorias.
+Assim, ao indicar com precisão o que deve ser corrigido, e não cumprida a diligência pela parte interessada, agiu corretamente o magistrado ao extinguir o feito sem resolução de mérito, em obediência ao art. 321, parágrafo único, do CPC, in verbis:
+Art. 321. O juiz, ao verificar que a petição inicial não preenche os requisitos dos arts. 319 e 320 ou que apresenta defeitos e irregularidades capazes de dificultar o julgamento de mérito, determinará que o autor, no prazo de 15 (quinze) dias, a emende ou a complete, indicando com precisão o que deve ser corrigido ou completado.
+Parágrafo único. Se o autor não cumprir a diligência, o juiz indeferirá a petição inicial.
+(..)
+Portanto, tendo sido determinada a emenda da inicial e não cumprida a diligência a contento, o feito deve ser extinto sem exame de mérito (art. 321, parágrafo único, do CPC).(fl. 372-373, e-STJ).
+Verifica-se que o art. 321, parágrafo único, do CPC/2015, dispositivo apontado como violado, não tem comando suficiente para fundamentar a tese apresentada no Recurso Especial no sentido de que, "tratando-se de demanda coletiva promovida por entidade sindical, qualquer trabalhador abarcado pela categoria profissional do referido sindicato autor poderá promover cumprimento de sentença individual" (fl. 444, e-STJ). Nesse contexto, considerada a ausência de comando normativo suficiente a amparar a pretensão recursal, ressai evidente a incidência da Súmula 284/STF.
+Ademais, o acórdão recorrido encontra-se em consonância com a jurisprudência pacífica do STJ segundo a qual o não atendimento da ordem de emenda à inicial pelo autor enseja a extinção do feito sem resolução de mérito (AgInt nos EDcl no AREsp 1.801.005/SP, Rel. Ministro Raul Araújo, Quarta Turma, julgado em 24/5/2021, DJe 30/6/2021).
+Por fim, consigne-se que a incidência da referida súmula é óbice também para o exame da divergência jurisprudencial, o que inviabiliza o conhecimento do Recurso Especial pela alínea "c" do permissivo constitucional.
+Diante do exposto, conheço do Agravo para conhecer em parte do Recurso Especial e, nessa extensão, negar-lhe provimento.
+Publique-se.Intimem-se.
