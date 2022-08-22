@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor deCLEBER CALDAS SAMPAIOapontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO(Apelaçãon. 0017250-89.2008.8.26.0576).
+Depreende-se dos autos que o paciente foi condenado a 15 anos, 6 meses e 20 de reclusão, em regime fechado, e 7 dias-multa, pela prática do delito previsto no art. 157, §3º, 2ª parte (antiga redação), c/c o art. 14, II, do Código Penal (tentativa de latrocínio,e-STJ fls. 112/121).
+Interposta apelação, o Tribunal de origem, em sessão realizada em 25/10/2012,negou provimento ao recurso (e-STJ fls. 131/144).
+Daí o presente writ, no qual sustenta a defesa, inicialmente, a nulidade do reconhecimento do paciente realizado na delegacia, em desobediência ao art. 226 do Código de Processo Penal. Aduz que " a suposta vítima reconheceu o Acusado DIOGO, em procedimento totalmente impróprio e inadequado, já que, ao lado do Apelante DIOGO e corréu,foram colocadas pessoas com vestimentas totalmentediferentes das deles" (e-STJ fls. 14/15).
+Afirma, ademais, a nulidade da sentença condenatória, porquanto baseada exclusivamente em depoimento de policiais.
+Defende que, "como verificado em toda instrução criminal, não há indícios suficientes de autoria e materialidade a respeito do Réu LEANDRO, visto que com este não foi encontrado no local dos fatos e nem na sua posse sequer alguma substância ilícita", e que "Incumbe ressaltar também, que as provas coletadas pelos possíveis réus não conduzem a nenhuma ligação fático-processual ao réu DOUGLAS"(e-STJ fl. 19).
+Pondera, ainda, tecendo considerações acerca dos fatos delituosos praticados, a possibilidade de desclassificação da conduta praticada pelo paciente para aquela prevista no art. 157, §2º, do CP.
+Assere, ao final, a necessidade de exasperação da fração utilizada a título de tentativa, destacando que o acusado"nem sequer ultrapassou a fase de execução,pois, como dito pelo próprios policiais, osdisparos foram feitos pelo ERITON o garupa, e,após, RODRIGO pegou a arma para se proteger" (e-STJ fl. 46).
+Requer, ao final, a concessão da ordem para absolver o paciente;ou, alternativamente, para desclassificar a conduta; ou, ainda, para majorar a fração a título de tentativa.
+É o relatório.
+Decido.
+O habeas corpus não comporta conhecimento.
+Em primeiro lugar, deve-se frisar que tese de eventual nulidade por inobservância do art. 226 do Código de Processo Penalnão foi sequer debatida pelo Tribunal de origem, o que impede a análise por esta Corte, sob pena de indevida supressão de instância.
+Além disso, a presente impetração se reveste de evidente caráter de revisão criminal, não se podendo olvidar quea verificação do acerto ou desacerto do entendimento fixado pelas instâncias ordinárias, para fins de absolvição ou desclassificação do delito imputado, ultrapassa os limites cognitivos do habeas corpus, notadamente quando se trata de condenação passada em julgado, como na espécie, em que a condenação do paciente transitou em julgado em 16/5/2013.
+Com efeito, a desconstituição da condenação implica o necessário revolvimento do acervo fático-probatório disposto nos autos, a reanálise acerca dos elementos constitutivos do tipo e a verificação da perfeita adequação do fato à norma, providências essas vedadas na angusta via do remédio constitucional, marcada pela celeridade e sumariedade na cognição.
+No particular, friso que nem mesmo a petição inicial traz elementos suficientes para delimitar a controvérsia no intuito de pleitear a absolvição ou desclassificação da conduta, já que menciona pessoas de nome DIOGO, LEANDRO, DOUGLAS, ERITON eRODRIGO, indivíduos que nem sequer figuraram como réus na ação penal originária.
+No mais, não há que se falar em qualquer flagrante ilegalidade em decorrência da fração de 1/3 utilizada a título de tentativa, uma vez que, consoante se depreende do acórdão ora impugnado, "o iter criminis foi percorrido emsua integralidade, culminando com o desfecho de disparos de arma de "fogo contra o peito e braço do ofendido, somente não sealcançando o resultado morte em virtude de socorro imediato" (e-STJ fl. 142).
+Assim, evidenciado que o iter criminis percorrido foi relevante e não havendo ilegalidade ou desproporcionalidade flagrante, é de se reconhecer que, para infirmar as conclusões das instâncias ordinárias quanto à fração utilizada pela tentativa, seria imprescindível revisitar os fatos e provas produzidas no processo, procedimento esse incompatível com a via eleita.
+Ilustrativamente:
+HABEAS CORPUS SUBSTITUTO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. ART. 155, § 1º, C/C O ART. 14, II, AMBOS DO CP. PACIENTE CONDENADO À PENA DE 9 MESES E 10 DIAS DE RECLUSÃO, NO REGIME INICIAL SEMIABERTO. MAJORANTE DO REPOUSO NOTURNO. OFENSA À CORRELAÇÃO ENTRE ACUSAÇÃO E SENTENÇA. NÃO OCORRÊNCIA. DESCRIÇÃO NA DENÚNCIA. TENTATIVA. FRAÇÃO. ITER CRIMINIS PERCORRIDO. CRITÉRIO IDÔNEO. ÓBICE AO REVOLVIMENTO FÁTICO-PROBATÓRIO NA VIA ELEITA. DETRAÇÃO. SUPRESSÃO DE INSTÂNCIA. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+- Inexiste constrangimento ilegal na definição do quantum de redução pela tentativa pelo critério do iter criminis percorrido. Ademais, a alteração da fração correspondente à tentativa exigiria o reexame do iter criminis percorrido pelo agente, o que é inviável nesta sede, pois vedado o exame aprofundado das provas. Precedentes.
+ ..
+- Habeas corpus não conhecido.
+(HC 399.639/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 03/08/2017, DJe 16/08/2017, grifei.)
+Ante o exposto, indefiro liminarmente o presente writ.
+Publique-se. Intimem-se.
