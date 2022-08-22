@@ -1,0 +1,70 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC/15) interposto por LUCIANO PESSOA QUEIROZ eFABIO PESSOA QUEIROZem face da decisão acostada às fls. 560-567 e-STJ, que, em juízo prévio de admissibilidade, inadmitiu o recurso especial manejado pelosagravantes.
+Na origem, trata-se de ação proposta pelo ora agravado reivindicando a propriedade de bem imóvel e indenização por perdas e danos em face dos agravantes.
+Em sua defesa, os réus, ora agravantes, aduziram entre outras teses, a ocorrência de usucapião.
+A sentença deferiu os pleitos da inicial e negou provimento ao pedido de prescrição aquisitiva (fls. 321-330 e-STJ).
+Interposta apelação contra o referido pronunciamento do juiz de primeiro grau, o Tribunal de Justiça do Estado do Mato Grosso negou provimento, nos termos do acórdão de fls. 453-480 e-STJ, assim ementado:
+APELAÇÃO CÍVEL - AÇÃO REIVINDICATÓRIA PROCEDENTE - INDENIZAÇÃOPELAS PERDAS E DANOS DEVIDOS PORQUANTO DEVIDAMENTECOMPROVADAS - QUESTÕES FÁTICAS ARGUIÍDAS APENAS EM SEDE DEAPELO - NÃO CONHECIMENTO - INTELIGÊNCIA DO ARTIGO 1.013, §1º DO CPC -USUCAPIÃO EXTRAORDINÁRIA - AUSÊNCIA DE POSSE MANSA E PACÍFICA -REQUISITOS NÃO IMPLEMENTADOS - SENTENÇA MANTIDA - RECURSODESPROVIDO. Nos termos do artigo 1.013, §1º do CPC, é objeto de apreciação pelo julgamento do Tribunal, as questões suscitadas e discutidas na origem, sem que se admita inovação recursal, sob pena de afrontar o princípio da ampla defesa, contraditório e acarretarsupressão de instância. Para que seja reconhecida a usucapião extraordinária, é necessária a existência da posse, que perdure, ininterruptamente, por determinado período de tempo, de forma mansa e pacífica, com a intenção do possuidor de tê-la como sua, inteligência do art.1.238, do CCB. Pretensão de reconhecimento de soma de posses, cujo exercício pelos supostos antecessores não ficou demonstrada. Cabe ao requerido que alega em seu favor, portanto, produzir a prova de sua posse prolongada, ininterrupta, mansa e pacífica, como também do animus domini, sob pena de ver julgado improcedente o pedido de domínio dos imóveis pretendidos. Ao julgar o recurso, o Tribunal majorará os honorários advocatícios anteriormente fixados em razão do trabalho adicional realizado (artigo 85, 11º do CPC).
+Não houve interposição de embargos de declaração.
+Nas razões dorecurso especial (fls. 453-480e-STJ), interposto com fundamento nas alíneas "a" e "c",alegaramos insurgentes, além da divergência jurisprudencial, que o acórdão recorrido violou os seguintes dispositivos de lei federal:
+(i) art. 225, §3º da Lei nº 6.015/73 - sob o argumento de nulidade do acórdão por cerceamento de defesa, pelo indeferimento da realização de perícia;
+(ii) art. 115, I, do CPC/15 - porque não foi realizada a citação do litisconsorte;
+(iii) arts. 485, I e 321 do CPC/15 - devido à inépcia da inicial;
+(iv) art. 15 da Lei nº 5.709/1971 - tendo em vista vícios na aquisição da propriedade pelo recorrido;
+(v) art. 1.238 do CC - ocorrência do usucapião.
+Ainda, suscitaram questões de fato relacionadas à posse do bem, condenação em perda e danos eretenção de benfeitorias.
+Contrarrazões às fls. 515-536e-STJ.
+Em juízo prévio de admissibilidade, a Corte de origem inadmitiu o apelo nobre indicando ausência de prequestionamento e pelos óbices dasSúmulas 7 e 83/STJ.
+Inconformados, interpuseram o presente agravo (art. 1.042 do CPC/15), cuja minuta está acostada às fls. 580-588e-STJ, por meio do qual pretende ver admitido o recurso especial.
+Contraminuta às fls. 600-606 e-STJ.
+É o relatório.
+Decide-se.
+A pretensão recursal não merece prosperar.
+1. Cinge-se a controvérsia a respeito da propriedade do bem imóvel objeto do conflito entre as partes.
+2. A respeito da tese de malferimento do art. 115, I, do CPC/15, pela não ocorrência de citação do litisconsorte, percebe-se a inocorrência da violação, porque as núpcias do recorrente Fábio Queiroz com a senhora Janieli Araújo ocorreram em 19/11/2016, quando já estava em trâmite o processo na origem, e não houve nenhuma informação a respeito do casamento nos autos antes da sentença, sendo suscitada a nulidade de citação apenas em apelação (conforme disposto no acórdão de fls. 426-450 e-STJ).
+Nesta linha, a Corte de origem, pelo contexto fático, aferiu que os recorrentes não aduzirama referida questão de ordem pública no primeiro momento no qual podiam apontar a referida nulidade, guardando o argumento para ser utilizado em momento de maior proveito para os agravantes ou, nas palavras do Tribunal mato-grossense, "utilizando-se do processo como instrumento hábil a coordenar suas alegações e trazer à tona determinada insurgência somente se a anterior não tiver sido bem sucedida". Tal manobra processual utilizada pelos recorrentes não é aceita por esta Corte Superior, conforme precedentes:
+(..)
+3. A alegação de nulidade por suposta irregularidade na intimação deve ser suscitada pela parte interessada na primeira oportunidade que tenha para se manifestar nos autos, sob pena de preclusão.
+Precedentes desta Corte.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.410.289/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 3/9/2019, DJe de 10/9/2019.)
+(..)
+III - Mesmo se tratando de vício que pode ser conhecido de ofício - nulidade de citação, a parte não pode mantê-lo oculto, para sacá-lo mais de três anos depois do ato praticado, com o propósito de anular o processo e repetir os atos processuais. Essa postura, por óbvio, não atende aos princípios da cooperação, da boa-fé e do contraditório. Inadmissibilidade da chamada "nulidade de algibeira".
+Precedente: AgRg na PET no AREsp 204.145/SP, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 23/06/2015, DJe 29/06/2015.
+(..)
+(AR n. 5.233/RS, relator Ministro Francisco Falcão, Primeira Seção, julgado em 28/10/2020, DJe de 17/12/2020.)
+Portanto, estando o entendimento da Corte de origem em consonância com o posicionamento desteSuperior Tribunal de Justiça, aplica-sea Súmula 83/STJ.
+3. Em relação às demais violações apontadas, cite-seart. 225, §3º da Lei nº 6.015/73,arts. 485, I e 321 do CPC/15,art. 15 da Lei nº 5.709/1971 e art. 1.238 do CC, por meio das quais, em síntese, os recorrentes almejam a reforma do julgado recorrido ao fim de declarar como sua a propriedade do imóvel objeto do litígio, verifica-se que o Tribunal de origem, com amparo nos elementos fático-probatórios dos autos, assim delineou:
+Da análise do conjunto probatório, observa-se que o imóvel se encontra devidamente delimitado, extraído da Matrícula nº 4.945 do CRI de Monte Verde (ID 68498690 -pa. 23), denominado Fazenda São José, memorial descritivo elaborado por engenheiro civil credenciado (ID 68502519), planta do imóvel, além de que se encontra devidamente inscrito no(CAR) Sistema Nacional de Cadastro Ambiental Rural nº 950.211.190.381-4 (ID 68498694).
+A descrição completa do imóvel, com suas dimensões, descrição precisadas demarcações e confrontações nos aludidos documentos revela-se suficiente ao processamento da demanda, caso em que o pedido de realização de perícia técnica, desacompanhado de elementos que desnaturem os próprios colacionados pelo autor da ação, revela-se desnecessária. (..)Ocorre que para o reconhecimento da junção da posse dos usucapientes com a dos possuidores anteriores, é imperativa a igualdade da qualidade das posses, isto é, a homogeneidade da finalidade e objeto, como bem destacado na sentença. Assim, os requeridos ora apelantes precisavam ter provado o exercício deposse anterior dos supostos antecessores, caso em que a mera alegação não basta a tanto.
+Além disso, ainda que os apelantes insistam no argumento de que sempre exerceram a posse mansa e pacífica sobre a área desde a aquisição em 2013, sem resistência, há mais de 16 anos, se somadas à de seus antecessores, não fizeram prova a que título referidas pessoas (José Mariano e Maria Esmeralda), efetivamente ocupavam o imóvel, que segundo afirmam, era desde o ano de 2006. (..)Ocorre que as provas produzidas, inclusive a testemunhal, não revelam coma margem de segurança necessária, que os tais antecessores dos apelantes, José Mariano e Maria Esmeralda, exerceram, sem interrupção, a posse do imóvel objeto da demanda. Nesse quadro, as provas produzidas não se sustentam para o reconhecimento da usucapião. Os requeridos apelantes não se desincumbiram de provar os fatos constitutivos de seu direito.
+(..)
+Ademais, para o pleito de ressarcimento de benfeitorias, necessário que fique demonstrada a boa-fé do possuidor da área e como consta do caderno processual "houve desmatamento realizado pela parte-requerida, conforme documentos juntados", o que foi corroborado pelo depoimento do apelante Fabio e da testemunha ALARICO, em que foi informado que houve derrubada de vegetação pelo requerido na área.
+De modo que, com acerto, não há falar em boa-fé por parte dos requeridos, o que desautoriza a possibilidade de retenção de benfeitorias, além de que, nos limites do art.1.220 do CC, o que se conseguiu ver é conjunto de benfeitorias úteis, não necessárias, o que igualmente afasta a indenização pretendida.
+Assim, para acolher as teses propugnadas pelos insurgentes acercada aventada irregularidadedacertidãodo imóvel, necessidade de realização de prova pericial, cumprimento dos requisitos para a declaração de usucapião, inafastável a necessidade de se analisar os respectivos documentos e provas, que lastrearam a compreensão das instâncias ordinárias, o que é vedado nos termos das Súmulas 5 e 7/STJ:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE RELAÇÃO JURÍDICA C/C COMPENSAÇÃO POR DANOS MORAIS C/C RESTITUIÇÃO DE VALORES. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO. AUSENTE.
+1. Ação declaratória de inexistência de relação jurídica c/c compensação por danos morais c/c restituição de valores.
+2. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+3. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a oposição de embargos de declaração, impede o conhecimento do recurso especial.
+4. Alterar o decidido no acórdão impugnado, no que se refere ao reconhecimento de inépcia da petição inicial, em razão da ausência de juntada de documentos indispensáveis à propositura da ação na hipótese, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+5. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+6. Agravo interno não provido.
+(AgInt no REsp n. 1.997.135/MS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 27/6/2022, DJe de 29/6/2022.)
+(..)
+2. Na hipótese, modificar o acórdão recorrido, que entendeu pela inexistência de nulidade por cerceamento de defesa ou de causa extintiva/modificativa da obrigação em discussão, demandaria o reexame do conjunto fático-probatório dos autos e de cláusulas contratuais, procedimentos vedados em recurso especial devido aos óbices das Súmulas nºs 5 e 7/STJ.
+3. O nosso sistema processual civil é orientado pelo princípio do livre convencimento motivado, cabendo ao julgador determinar as provas que entender necessárias à instrução do processo, bem como indeferir aquelas que considerar inúteis ou protelatórias.
+4. É firme a jurisprudência do Superior Tribunal de Justiça no sentido de que compete às instâncias ordinárias exercer juízo acerca da necessidade ou não da produção de prova pericial e testemunhal, haja vista sua proximidade com as circunstâncias fáticas da causa, cujo reexame é vedado em recurso especial, a teor da Súmula nº 7/STJ.
+5. Ausente o prequestionamento, até mesmo de modo implícito, de dispositivos apontados como violados no recurso especial, incide o disposto na Súmula nº 282 do Supremo Tribunal Federal.
+6. Agravo interno não provido.
+(AgInt no AREsp n. 1.942.272/GO, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 30/5/2022, DJe de 2/6/2022.)
+4.No tocante à alegada divergência jurisprudencial, constata-se que os agravantes não realizaram o devido cotejo entre o acórdão atacado e as decisões paradigmas,deixando de cumprir os requisitos do art. 1.029, §1º, do CPC/15 e art. 255, §1º, RISTJ:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM. DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO RECLAMO. INSURGÊNCIA RECURSAL DA PARTE AGRAVANTE.
+1. Nos termos da jurisprudência deste Tribunal Superior a regra geral da impenhorabilidade de salários, vencimentos, proventos etc.
+(art. 649, IV, do CPC/73; art. 833, IV, do CPC/2015), pode ser excepcionada para pagamento de prestação alimentícia e quando os valores excede rem a 50 (cinquenta) salários mínimos, desde que, em qualquer caso, for preservado percentual de tais verbas capaz de dar guarida à dignidade do devedor e de sua família, o que não é o caso dos autos. Incidência da Súmula 83/STJ.
+1.1. Na hipótese, a parte recorrente não logrou êxito em demonstrar a ocorrência do dissídio jurisprudencial, nos termos do art. 255, § 1º, do RISTJ, porquanto deixou de realizar o necessário cotejo analítico entre o acórdão recorrido e os paradigmas indicados, de sorte a evidenciar a similitude de base fática dos casos confrontados e a divergência de resultados em torno da mesma questão jurídica.
+2. Agravo interno desprovido.
+(AgInt no AREsp n. 2.023.038/PR, relator Ministro Marco Buzzi, Quarta Turma, julgado em 2/5/2022, DJe de 6/5/2022.)
+Assim, não houve a demonstração da divergência jurisprudencial.
+5. Do exposto, com amparo no artigo 932 do CPC/15 c/c a Súmula 568/STJ, nega-se provimento ao agravo em recurso especiale, com base no art. 85, §11, do CPC/15, majoro em 10% (dez por cento) o valor dos honorários sucumbenciais fixados pelo Tribunal de origem, em favor da parte ora agravada.
+Publique-se.
+Intimem-se.
