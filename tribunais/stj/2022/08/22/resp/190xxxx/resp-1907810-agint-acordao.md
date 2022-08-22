@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 16/08/2022 a 22/08/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Cuida-se de agravo interno interposto por Francisco Welton Linhares Demétrio de Souza contra decisão desta relatoria proferida nos termos da seguinte ementa (e-STJ, fl. 719):
+RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. ART. 20, §§ 3º E 4º, DO CPC/1973. MAJORAÇÃO DO VALOR FIXADO PELA CORTE LOCAL REEXAME. SÚMULA 7/STJ. RECURSO ESPECIAL NÃO CONHECIDO.
+Nas razões recursais, pleiteia o insurgente pelo afastamento do óbice da Súmula 7 desta Corte.
+Afirma que a base de cálculo dos honorários sucumbenciais na ação revisional de contrato bancáriodeve ser o valor da condenação (valor econômico obtido pela autora com o êxito da ação revisional).
+Impugnação apresentada às fls. 736-741 (e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. ARBITRAMENTO DOS HONORÁRIOS DE SUCUMBÊNCIA EM VALOR FIXO. EQUIDADE. ART. 20, § 4º, DO CPC/1973. MAJORAÇÃO DO VALOR FIXADO PELA CORTE LOCAL. REEXAME. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Conforme a jurisprudência desta Corte, "os honorários advocatícios, na ação de revisão de contratos bancários, devem ser fixados na forma prevista no art. 20, § 4º, do CPC/1973, dada a natureza declaratória e constitutiva do provimento jurisdicional" (AgInt nos EDcl no REsp n. 1.534.561/PR, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 27/4/2017, DJe de 12/5/2017).
+2. A alteração da base de cálculo e o consequente aumento do montante dos honorários advocatícios fixados por equidade demandaa revisão das conclusões alcançadas pelo Tribunal de origem, o que é inviável em recurso especial, por implicar reexame das provas contidas nos autos. Incidência da Súmula n. 7/STJ.
+3. Agravo interno a a que se nega provimento.
+VOTO
+O recurso não comporta provimento, porquanto as razões expendidas são insuficientes para a reconsideração da decisão.
+Na hipótese dos autos, o Tribunal de Justiça do Estado do Ceará deu provimento ao recurso de apelação interposto pela instituição financeira para reduzir a verba honorária e fixá-la com base na equidade, sob os seguintes fundamentos (e-STJ, fl. 652 - sem grifo no original):
+Na fixação dos honorários de sucumbência pela equidade, pode o magistrado, inclusive, utilizar-se de percentual sobre o valor da causa, na forma como realizado no presente caso pelo Juízo a quo.
+No presente caso, fixados que foram os honorários em 10% sobre o valor da causa, a verba honorária alcançará o valor de R$ 4.000,00 (quatro mil reais), quantia que, considerada a simplicidade da matéria trazida a juízo, o fato e os atos processuais terem sido realizados integralmente nesta comarca, e o trabalho realizado pelo patrono da promovente no feito, revela-se exagerada. A par dos referidos critérios, os honorários advocatícios devem ser reduzidos para R$ 2.000,00 (dois mil reais), quantia que se mostra razoável a remunerar o trabalho realizado nos autos, sem representar enriquecimento sem causa.
+Na sequência, os embargos de declaração opostos pelos autores, foram acolhidos para majorar ao verba honorária, nos termos abaixo reproduzidos (e-STJ, fls. 680-681 -sem grifo no original):
+Na fixação dos honorários de sucumbência pela equidade, pode o magistrado, inclusive, utilizar-se de percentual sobre o valor da causa, na forma como realizado no presente caso pelo Juízo a quo.
+No presente caso, fixados que foram os honorários em 10% sobre o valor da causa, a verba honorária alcançará o valor de R$ 4.000,00 (quatro mil reais), quantia que, considerada a simplicidade da matéria trazida a juízo, o fato e os atos processuais terem sido realizados integralmente nesta comarca, e o trabalho realizado pelo patrono da promovente no feito, revela-se exagerada. A par dos referidos critérios, os honorários advocatícios devem ser reduzidos para R$ 2.000,00 (dois mil reais), quantia que se mostra razoável a remunerar o trabalho realizado nos autos, sem representar enriquecimento sem causa.
+Destarte, incorreu em erro o acórdão embargado, uma vez que o presente feito tramitou perante o Juízo da Comarca de ltapajé-CE, enquanto que o escritório do advogado que patrocina os interesses das embargantes está situado nesta capital, circunstância que justifica a adoção de efeitos infringentes aos presentes embargos de declaração para, em face das demais circunstâncias consideradas, fixar os honorários de sucumbência a serem pagos pelo banco demandado em R$ 3.000,00 (três mil reais).
+Diante do exposto, conheço do presente recurso, dando-lhe parcial provimento para, integrando o acórdão embargado, em razão dos atos processuais terem sido realizados em comarca diversa do escritório do patrono da parte autora, a simplicidade da matéria trazida a juízo, e o trabalho realizado pelo patrono da promovente no feito, fixar os honorários sucumbenciais a serem suportados pela parte demandada em R$ 3.000,00 (três mil reais).
+Cabe destacar que "a jurisprudência desta Corte, firmada sob a égide do CPC de 1973, nas causas em que não houver condenação, os honorários advocatícios devem ser fixados de forma equitativa, considerando-se o caso concreto e atentando-se às circunstâncias previstas no art. 20, § 3º, "a", "b"e "c", do CPC/1973, podendo-se adotar, como base de cálculo, o valor da causa ou um valor fixo arbitrado, não estando o julgador, ademais, adstrito aos limites percentuais estabelecidos no § 3º do referido artigo(AgInt no AREsp 1.094.880/MG, relatorMinistro Antonio Carlos Ferreira, Quarta Turma,julgado em 22/11/2021, DJe 26/11/2021).
+Nesse sentido:
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. INTERESSE RECURSAL. AUSÊNCIA. REPETIÇÃO EM DOBRO DO INDÉBITO. IMPOSSIBILIDADE. MÁ-FÉ DO CREDOR NÃO DEMONSTRADA. HONORÁRIOS ADVOCATÍCIOS. FIXAÇÃO POR APRECIAÇÃO EQÜITATIVA DO JUIZ. SÚMULA 83/STJ.
+1. Falta ao agravante o necessário interesse recursal quanto à pretensão de afastar a incidência de óbices aplicados ao recurso especial interposto pela parte adversa.
+2. A repetição do indébito deve ocorrer na forma simples, e não em dobro, salvo prova da má-fé do credor, que não se presume.
+Precedentes.
+3. Hipótese em que o Tribunal de origem limitou-se a afirmar que a cobrança das tarifas bancárias denominadas "NHOC" constituía "expediente reprovável", sem, contudo, demonstrar a má-fé da instituição financeira, isto é, ou seu intuito fraudulento ou abusivo na cobrança. Assim, mostra-se inviável a repetição em dobro do indébito.
+4. Os honorários advocatícios, na ação de revisão de contratos bancários, devem ser fixados na forma prevista no art. 20, § 4º, do CPC/1973, dada a natureza declaratória e constitutiva do provimento jurisdicional. Precedentes.
+5. Agravo interno não provido.
+(AgInt nos EDcl no REsp n. 1.534.561/PR, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 27/4/2017, DJe de 12/5/2017.)
+Por conseguinte, a alteração do entendimento do TJCE acerca do fato de estarem presentes as hipóteses para fixação dos honorários advocatícios por equidade, bem como da alteração da base de cálculo e do montante da verba honorária, esbarra na Súmula 7/STJ.
+Ilustrativamente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. NÃO OCORRÊNCIA. CERCEAMENTO DE DEFESA. REEXAME. SÚMULA N. 7/STJ.PREQUESTIONAMENTO. TENTATIVA. PÓS-QUESTIONAMENTO. SÚMULA N. 211/STJ.DANO MORAL. VALOR. HONORÁRIOS ADVOCATÍCIOS. REEXAME. SÚMULA N. 7/STJ. NÃO PROVIMENTO.
+1. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões, obscuridades ou contradições, deve ser afastada a alegada ofensa ao artigo 535 do Código de Processo Civil de 1973 (art. 1.022 do CPC/15).
+2. Não configura cerceamento de defesa o julgamento antecipado da lide, devidamente fundamentado, sem a produção de prova considerada dispensável pelo juízo, uma vez que cabe ao magistrado dirigir a instrução e deferir a produção probatória que entender necessária à formação do seu convencimento.
+3. As questões que somente foram alegadas em embargos de declaração opostos ao acórdão de apelação cível traduzem tentativa de pós-questionamento, inadmissível. Incidência da Súmula n. 211 desta Corte.
+4. A jurisprudência do Superior Tribunal de Justiça admite, excepcionalmente, em recurso especial, o reexame do valor fixado a título de danos morais, quando ínfimo ou exagerado. Hipótese, todavia, em que a verba indenizatória, consideradas as circunstâncias de fato da causa, já foi revisada em conformidade com os princípios da proporcionalidade e razoabilidade na decisão agravada.
+5. A revisão dos critérios de equidade utilizados pelas instâncias de origem para a fixação dos honorários advocatícios é vedada no âmbito do recurso especial (Súmula 7/STJ), salvo na hipótese de valores irrisórios ou exorbitantes, o que não se verifica no caso presente.
+6. Agravo interno a que se nega provimento."
+(AgInt no AREsp 1.133.717/MG, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 24/04/2018, DJe de 02/05/2018).
+Ante o exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de embargos manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
