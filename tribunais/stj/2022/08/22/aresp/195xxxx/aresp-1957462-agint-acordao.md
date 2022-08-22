@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 16/08/2022 a 22/08/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão que não conheceu do recurso especial fundado no art.105, III, a, da Constituição Federal, que visa reformar acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado:
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. REITERAÇÃO DE RECURSO ANTERIOR. PRECLUSÃO CONSUMATIVA. CONCRETIZAÇÃO DE PRINCÍPIOS FUNDADORES DO ATUAL REGRAMENTO PROCESSUAL CIVIL E CONSTITUCIONAL(ANTES JÁ PRESENTES NA DOUTRINA E JURISPRUDÊNCIA), DENTRE ELES A MÁXIMA EFETIVIDADE DAS DECISÕES E DURAÇÃO RAZOÁVEL DO PROCESSO. Em respeito ao princípio da singularidade recursal, é defeso às partes interpor novos embargos de declaratórios em face de decisão que já foi alvo de recurso de mesma natureza. A repetição dos temas pela parte e correspondentes soluções/provimentos judiciais, não cabe admitir se perpetue sob pena de frustração de princípios fundadores do atual regramento processual civil e constitucional (antes já presentes na doutrina e jurisprudência), dentre eles a máxima efetividade das decisões e duração razoável do processo. Precedentes.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial."
+No agravo interno, a parte recorrente traz, resumidamente, os seguintes argumentos:
+Assim, com o máximo respeito, configurada a negativa de prestação jurisdicional, em afronta aos dispositivos legais suscitados no recurso especial (arts. 489, II e III, § 1º, I a IV, e art. 1022, II, e parágrafo único, II, do CPC), conclusão esta que independe de análise fático-probatória, bastando o confronto entre os pedidos e a decisão recorrida.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. BENEFÍCIOS EM ESPÉCIE. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. MANUTENÇÃO DA DECISÃO RECORRIDA. NÃO HÁ VIOLAÇÃO DOS ARTS. 1.022 E 489 DO CPC/2015.
+I - Na origem, trata-se de agravo de instrumento contra decisão que afirmou que houve preclusão e não conheceu dos embargos. No Tribunala quo, a decisão foi mantidasendo negado provimento ao recurso.
+II - Não há violação do art. 535 do CPC/1973 (art. 1.022 do CPC/2015) quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a (art. 165 do CPC/1973 e art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+III - Conforme entendimento pacífico desta Corte "o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão". A prescrição trazida pelo art. 489 do CPC/2015 confirma a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, "sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida".  EDcl no MS 21.315/DF, relatora Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016. Nesse sentido:AgInt no AREsp 1.576.529/RS, relatorMinistro Antonio Carlos Ferreira, Quarta Turma, julgado em 25/5/2020, DJe 28/5/2020.
+IV - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A parte agravante repisa os mesmos argumentos já analisados na decisão recorrida.
+Não há violação do art. 535 do CPC/1973 (art. 1.022 do CPC/2015) quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a (art. 165 do CPC/1973 e art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+Conforme entendimento pacífico desta Corte "o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão". A prescrição trazida pelo art. 489 do CPC/2015 confirma a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, "sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida".  EDcl no MS 21.315/DF, relatoraMinistra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016.
+Nesse sentido:
+PROCESSUAL CIVIL. CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DESTA CORTE. RESPONSABILIDADE CIVIL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO. INDENIZAÇÃO. TELEFONIA. COBRANÇA INDEVIDA. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AOS ARTS. 489 e 1.022 DO CPC/2015. RAZÕES DISSOCIADAS DA FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO. SÚMULA N. 284/STF. DANOS MATERIAIS E MORAIS. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. Inexiste afronta aos arts. 489 e 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. A dissociação entre as razões recursais e os fundamentos do acórdão recorrido obsta o conhecimento do recurso especial, ante a incidência da Súmula n. 284 do STF.
+3. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n.7/STJ).
+4. No caso concreto, a reforma do acórdão recorrido, que afastou a ocorrência de danos materiais e morais, demandaria revolvimento do conjunto fático-probatório, vedado em sede de recurso especial.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.576.529/RS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 25/5/2020, DJe 28/5/2020.)
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
