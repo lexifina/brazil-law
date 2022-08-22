@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de Recurso Especial interposto pelo Instituto Nacional do Seguro Socialcontra acórdão proferido pelo TRF-5ª Região cuja ementa é a seguinte:
+PREVIDENCIÁRIO. APOSENTADORIA POR IDADE RURAL/SEGURADA E M E N T A:
+ESPECIAL. PERÍODO REMANESCENTE COMPROVADO. INÍCIO RAZOÁVEL DE PROVA MATERIAL CORROBORADO POR PROVA ORAL CONVINCENTE.
+Apelação do INSS contra sentença que julgou procedente o pedido Inicial e condenou a Autarquia aimplantar o benefício de aposentadoria por idade rural/Segurada Especial retroativo à DER 23/05/2016.
+Em suas razões alega, em breve síntese, que os elementos de prova apresentados são insuficientes paracomprovar que a parte autora desempenhou a atividade rural pela carência exigida. Aduz que, embora reconhecida sua condição de Segurada Especial, tal fato se refere, apenas, a determinados períodos, pois exerceu atividade urbana durante o período de carência.
+Nos autos, evidencia-se que: o requisito etário restou preenchido, porquanto na DER 23/05/2016, a A) requerente/apelada já contava com a idade de 56 (cinquenta e seis anos - nascida em 12/04/1960); o B) ente público reconheceu, do tempo de exercício da atividade campesina declarado pela autora no momento da entrevista rural (Ago/1989 a Jan/1993; Dez/1996 a Jan/2007 e Mar/2015 a Mar/2016), os períodos: 16/dezembro/1996 a 20/janeiro/2007 e 05/março/2015 a 10/março/2016, conforme Termo de Homologação da Atividade Rural/INSS e a parte autora, na entrevista rural junto ao INSS, comunicou C) que entre o ano de 2007 ao de 2014 morou em Minas Gerais.
+A partir de tais observações, entende-se desnecessária a valoração dos elementos de prova material inerentes, tanto ao período já homologado pela Autarquia quanto à época que a apelada manteve residência em outro Estado. Logo, a controvérsia se restringe à comprovação da sua condição de Segurada Especial pelo período anterior, ou seja, que deixou de ser reconhecido pelo órgão previdenciário (Agosto/1989 e Janeiro/1993).
+Alusivo ao período indicado, verifica-se uma "Declaração do Deptº Nacional de Obras Contra as Secas/DNOCS/CEST-PE". O respectivo documento público, emitido em 08/02/2006, dando ciência de que a apelada desde Janeiro/1993 é "herdeira" de um lote de terra/Perímetro Irrigado Moxotó, configura-se suficiente como início razoável de prova material.
+Por sua vez, a prova oral produzida em Juízo foi satisfatória, corroborando o início de prova material e,como bem ressaltou o Magistrado sentenciante" (..) mostrou-se coesa e harmônica com os fatos a cabendo registrar que tal análise probatória deve ser prestigiada, haja vista ter sido ele o comprovar.", responsável pela produção das provas em Audiência.
+Conclui-se comprovada a condição de Segurada Especial da parte autora a partir do ano de 1993, sendoo bastante para completar a carência exigida, merecendo destacar, aqui, que "É possível reconhecer o tempo de serviço rural anterior ao documento mais antigo apresentado, desde que amparado em convincente prova testemunhal colhida sob o contraditório." (Súmula nº 577/STJ).
+Honorários advocatícios majorados em um ponto percentual, nos termos do art. 85, §11 do CPC (deforma que os honorários passam a 11% sobre o valor da condenação), observada Súmula nº 111/STJ.
+Sentença mantida. Apelação não provida.
+Os Embargos de Declaração foram rejeitados.
+O INSS, nas razões do Recurso Especial, aponta ofensa aos arts. 489 e 1.022 do CPC; 11, VII, §§ 1º e 9º,capute III, da Lei 11.718/2008; e 48, § 2º, c/c 25, II, 142 e 143 da Lei 8.213/1991. Aduz:
+Ora, de acordo com os documentos anexados com a contestação a autora desenvolveu atividade empresarial, ou seja, exerceu atividade(s) urbana(s) no período equivalente à carência do benefício. De acordo com a idade do(a) autor(a), a atividade rurícola deve ser comprovada a partir de 2001 (15 anos do requerimento administrativo realizado em 2016).
+Sem contrarrazões.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 12.8.2022.
+Inicialmente, não configurada aalegada violação aos arts. 489 e1.022 do CPC/2015,visto não haver quaisquer dos vícios previstos nos aludidos dispositivos legais.O Tribunal a quo examinou e decidiu, fundamentadamente, todas as questões postas ao seu crivo. Julgou integralmente a lide e solucionou o conflito, ainda que de forma contrária aos interesses da parte. Portanto, nalinha da jurisprudência do STJ, não há falar em negativa de prestação jurisdicional.
+Cinge-se a controvérsia no preenchimento da qualidade desegurada para fins de aposentadoria por idade rural.
+No caso dos autos, a Corte regionalconcluiu que a comprovar a condição de segurada especial a partir do ano de 1993é o bastante para completar a carência exigida. Confira-se trecho doacórdão recorrido,in verbis(fl. 217, e-STJ):
+Alusivo ao período indicado, verifico uma Declaração do Deptº Nacional de Obras Contra as i) Secas/DNOCS/CEST-PE (id nº 81726090.25620366 - p. 76/103).
+O respectivo documento público, emitido em 08/02/2006, dando ciência de que a apelada desde Janeiro/1993 é "herdeira" de um lote de terra/Perímetro Irrigado Moxotó, a meu ver, configura-se suficiente como início razoável de prova material.
+Por sua vez, a prova oral produzida em Juízo, em 14/08/2019, foi satisfatória, corroborando, portanto, o início de prova material e, como bem ressaltou o Magistrado sentenciante " ..  mostrou-se coesa e cabendo registrar que tal análise probatória deve ser prestigiada, harmônica com os fatos a comprovar.", haja vista ter sido ele o responsável pela produção das provas em Audiência.
+Com essas considerações, concluo comprovada a condição de Segurada Especial da parte autora a partir do ano de 1993, sendo o bastante para completar a carência exigida, merecendo destacar, aqui, que "É possível reconhecer o tempo de serviço rural anterior ao documento mais antigo apresentado, desde que amparado em convincente prova testemunhal colhida sob o contraditório." (Súmula nº 577/STJ).
+Ante o exposto, entendo pela manutenção da sentença e, por conseguinte, nego provimento à apelação.
+Nesse contexto, os argumentos utilizados para justificar a pretensãotrazida no Recurso Especial somente poderiam ter sua procedênciaverificada mediante o reexame de matéria fática, o que encontraóbice na Súmula 7/STJ.
+A propósito:
+PREVIDENCIÁRIO. APOSENTADORIA POR IDADE. TRABALHADORA RURAL. INÍCIO DE PROVA MATERIAL CORROBORADO POR ROBUSTA PROVA TESTEMUNHAL. ATIVIDADE URBANA. DESCARACTERIZAÇÃO DO REGIME DE ECONOMIA FAMILIAR. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. A jurisprudência desta Corte entende que a comprovação do exercício de atividade rural para fins previdenciários pressupõe o que a norma denomina de início de prova material, bem como que não é necessário que a prova material se refira a todo o período de carência se este for demonstrado por outros meios, como, por exemplo, pelos depoimentos testemunhais.
+2. A Primeira Seção, ao julgar o Recurso Representativo de Controvérsia REsp 1.304.479/SP, de Relatoria do Ministro Herman Benjamin, sedimentou o entendimento segundo o qual o trabalho urbano de um dos membros do grupo familiar não descaracteriza, por si só, os demais integrantes como segurados especiais.
+3. Diferente do afirmado nas razões do regimental, não afirmou o magistrado a quo estar incontroverso nos autos que a parte autora exerceu exclusivamente atividade urbana durante todo o período de carência que antecedeu o requerimento. Tampouco consignou a Corte de origem a descaracterização do regime de economia familiar em virtude de vínculo urbano mantido. A revisão do quadro fático dos autos esbarra no óbice contido na Súmula 7/STJ.
+Agravo regimental improvido.
+(AgRg no AREsp 334.689/CE, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe 26/8/2013)
+Ante o exposto,conheço parcialmente do Recurso Especial quanto à afronta indicada aos arts. 489 e 1.022 do CPCe, nessaextensão, nego-lhe provimento.
+Publique-se.
+Intimem-se.
