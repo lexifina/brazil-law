@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão com a seguinte ementa:
+PRELIMINAR. COISA JULGADA. REJEIÇÃO. A matéria submetida a apreciação não encontra-se atingida pela coisa julgada, uma vez que se restringe à restituição dos juros incidentes nas tarifas declaradas abusivas perante o Juizado Especial Cível, o que não foi objeto da ação anteriormente ajuizada.
+PRELIMINAR DE DIALETICIDADE APRESENTADA NAS CONTRARRAZÕES. REJEIÇÃO. Desacolhida a preliminar apresentada nas contrarrazões de não conhecimento do recurso por não atacar diretamente os fundamentos da sentença, visto que a insurgência traduz as razões de fato e de direito pelas quais o apelante pretende a reforma da sentença, cumprindo os requisitos do art. 1.010 do CPC.
+APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA. PEDIDO DE RESTITUIÇÃO DOS JUROS INCIDENTES SOBRE TARIFAS. PEDIDO DISTINTO DO FORMULADO NO ÂMBITO ACESSÓRIO QUE SEGUE O PRINCIPAL. RESTITUIÇÃO DOS JUROS INCIDENTES SOBRE AS TARIFAS CONSIDERADAS Abusivas EM DEMANDA ANTERIOR. Pedido julgado procedente.IRRESIGNAÇÃO. Desprovimento DO RECURSO. Declarada por Sentença a ilegalidade de tarifas bancárias em Ação anterior, com determinação de restituição dos valores pagos, é devida, também, a repetição de indébito em relação aos encargos contratuais que incidiram sobreas aludidas tarifas durante o período contratual.
+Alega-se violação do artigo337, §§1º, 2º e 4º, do Código de Processo Civil, associada a dissídio jurisprudencial sob o argumento de que o Tribunal de origem não respeitou a coisa julgada.
+Assim delimitada a controvérsia, passo a decidir.
+O recorrente afirma que, observando"o pedido direcionado em ação pretérita, extrai-se que foi pleiteado expressamente o pagamento da quantia indevida em dobro, bem como dos acréscimos decorrentes, sendo corrigidos pelos mesmos índices aplicados pela instituição" (e-STJ, fl. 285).
+Esta Corte Superior tem entendimento de que a coisa julgada se verifica quando a parte repete ação idêntica a outra já transitada em julgado, e por idêntica se entendem ações que têm as mesmas partes, causa de pedir e pedido.
+A saber:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AO ART. 535 DO CPC/1973. DEFICIÊNCIA DE FUNDAMENTAÇÃO DO RECURSO. SÚMULA N. 284 DO STF. REEXAME DO CONTRATO E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. AUSÊNCIA DE COMPROVAÇÃO DA DIVERGÊNCIA JURISPRUDENCIAL. DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 535 do CPC/1973 quando a Corte local pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. A deficiência na fundamentação do recurso, de modo a impedir a compreensão da controvérsia, obsta o conhecimento do recurso especial (Súmula n. 284 do STF).
+3. Segundo a jurisprudência desta Corte, para o reconhecimento da coisa julgada, faz-se necessária a tríplice identidade - mesmas partes, mesma causa de pedir e mesmo pedido -, o que não ocorreu na hipótese em exame.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 986.467/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 26/11/2019, DJe de 2/12/2019.)
+No caso dos autos, o Tribunal local concluiu que:
+"No caso concreto, vislumbra-se que não se tocou, nem de longe, de forma particular ou genérica, nos juros que incidiram sobre as tarifas cobradas. Foi reconhecido pelo magistrado, de forma clara e específica, apenas a devolução do valor da cobrança considerada ilegal com a respectiva correção monetária.
+Desse modo, a devolução dos juros remuneratórios aplicados sobre as referidas tarifas não integrou a decisão da ação anterior, assim, não se pode falar em coisa julgada." (e-STJ, fl. 208).
+Se não há, como se vê, identidade de pedidos não se pode falar em violação da coisa julgada, de modo que o reexame da causa esbarra nas disposições dos enunciados n. 7 e 83 da Súmula desta Casa e 284 do Supremo Tribunal Federal.
+Igualmente não existe, portanto, semelhança entre os casos confrontados, porquanto nos acórdão paradigmas se concluiu que havia ações idênticas intentadas, o que não é o caso ora em apreço.
+Diante do exposto, nego provimento ao recurso. Nos termos do artigo 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
