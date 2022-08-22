@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo de FLORÊNCIO SALINA contra decisão que inadmitiu recurso especial fundado no art. 105, III, "a", da Constituição Federal, interposto contra v. acórdão do Eg. Tribunal de Justiça do Estado do Mato Grosso do Sul, assim ementado:
+"EMENTA - RECURSO DE APELAÇÃO - DESCONTO INDEVIDO EM BENEFÍCIO PREVIDENCIÁRIO - DANO MORAL.
+Não cabe a fixação de compensação por dano moral quando há apenas um desconto indevido no benefício previdenciário do autor, de valor ínfimo.
+Mero aborrecimento.
+Recurso conhecido e não provido." (e-STJ fl. 171)
+Os embargos de declaração opostos foram rejeitados (e-STJ fl. 187/189).
+Nas razões do recurso especial, o agravante alega violação dos arts. 489, II e §1º, IV, e art. 1.022, II, do CPC e arts. 186, 927, 944, do CC, art. 6º, VI, e 14, do CDC, sustentando, em síntese, que: 1) o acórdão se absteve de enfrentar integralmente as teses suscitadas pelo(a) recorrente, que seriam capazes de infirmar a conclusão adotada e 2) sendo o desconto reconhecido como indevido, é presumido do dano moral daí decorrente, até porque, houve o desconto de valores do benefício previdenciário do(a) recorrente, que possui natureza salarial.
+Não foram apresentadas contrarrazões ao recurso especial (e-STJ fl. 361).
+É o relatório. Decido.
+Em relação à alegada ofensa aos arts. 489, II e §1º, IV, e art. 1.022, II, do CPC, verifica-se que a recorrente fez apenas alegação genérica de sua vulneração, limitando-se a afirmar que o acórdão se absteve de enfrentar integralmente as teses suscitadas pelo(a) recorrente, que seriam capazes de infirmar a conclusão adotada, mas sem indicar quais teses seriam estas. A fundamentação deficiente impede a exata compreensão da controvérsia. Incide, na hipótese, a Súmula 284/STF. Nesse sentido:
+DIREITO CIVIL E PROCESSO CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ALEGAÇÃO GENÉRICA DE OFENSA AO ART. 1.022 DO CPC/2015. INCIDÊNCIA DA SÚMULA N. 284 DO STF. ALEGAÇÃO DE OFENSA AOS ARTS. 341, 369 427, 428, 444 E 445 DO CPC/2015 E 421 E 422 DO CC/2002. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. REEXAME DE PROVAS. INADMISSIBILIDADE. DECISÃO MANTIDA.
+1. É deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 1.022 do CPC/2015 se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Aplica-se o óbice da Súmula n. 284/STF.
+2. Esta Corte de Justiça, ao interpretar o art. 1.025 do CPC/2015, concluiu que a admissão do prequestionamento ficto, em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/2015, com a demonstração clara da matéria considerada omissa, contraditória ou obscura.
+3. A simples indicação dos dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor das Súmulas n. 282 e 356 do STF.
+4. Consoante jurisprudência consolidada do Superior Tribunal de Justiça, "não há que se falar em revaloração de provas por esta Corte quando o convencimento dos órgãos de instâncias inferiores foi formado com base em detida análise das provas carreadas aos autos, obedecendo às regras jurídicas na apreciação do material cognitivo" (AgRg no Ag 1.417.428/RJ, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 27/09/2011, DJe de 05/10/2011). Precedentes.
+5. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp 1502450/DF, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 25/05/2020, DJe 28/05/2020)
+Quanto ao dano moral, o Tribunal local, com amparo nos elementos de convicção dos autos, entendeu que o agravante não faz jus ao recebimento da indenização por danos morais ao argumento de que "houve apenas um desconto indevido na aposentadoria da parte autora, no valor de R$ 33,00, em 08/04/2021 (extrato de fl. 35)" (e-STJ fl. 172), situação que não ultrapassa o mero dissabor ou aborrecimento.
+Como visto, a Corte de origem concluiu que o mero desconto irregular em em um único mês e em valor ínfimo, portanto, desprovido de indícios que demonstrem consequências que excedam os aborrecimentos típicos da vida cotidiana, não tem, via de regra, capacidade de acarretar na reparação pecuniária.
+O entendimento acima encontra-se de acordo com a jurisprudência desta Corte Superior:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO E DANOS MORAIS. DESCONTO INDEVIDO. VALOR ÍNFIMO. INCIDÊNCIA DAS SÚMULAS 283 E 284/STF. DANO MORAL INEXISTENTE. MERO ABORRECIMENTO. RECURSO NÃO PROVIDO.
+1. A ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do aresto recorrido atrai, por analogia, o óbice da Súmula 283 do STF.
+2. O Tribunal de origem concluiu que o desconto indevido de uma parcela no valor de R$ 28,00 (vinte e oito reais) no benefício previdenciário da recorrente não acarretou danos morais, pois representa valor ínfimo, incapaz de comprometer sua subsistência, bem como o valor foi restituído com correção monetária, de modo que ficou configurado mero aborrecimento.
+3. A jurisprudência desta Corte entende que, quando a situação experimentada não tem o condão de expor a parte a dor, vexame, sofrimento ou constrangimento perante terceiros, não há falar em dano moral, uma vez que se trata de mero aborrecimento ou dissabor, mormente quando a falha na prestação de serviços, embora tenha acarretado aborrecimentos, não gerou maiores danos ao recorrente, como ocorreu na presente hipótese.
+4. Agravo interno não provido.
+(AgInt no AREsp 1354773/MS, de minha Relatoria, QUARTA TURMA, julgado em 02/04/2019, DJe 24/04/2019)
+Ademais, a modificação do suporte fático-probatório dos autos é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório. Neste sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. DESCONTO INDEVIDO EM CONTA BANCÁRIA. DANO MORAL NÃO CONFIGURADO. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO INTERNO DESPROVIDO.
+1. Tendo o Tribunal de origem, com base no acervo probatório dos autos, concluído não estar configurado o dano moral na espécie, revela-se inviável infirmar tal conclusão sem o reexame de provas. Incidência da Súmula n. 7 do STJ.
+2. A análise do dissídio jurisprudencial fica prejudicada em razão da aplicação do referido enunciado, porquanto não é possível encontrar similitude fática entre o aresto combatido e os arestos paradigmas, uma vez que as suas conclusões díspares ocorreram, não em razão de entendimentos diversos sobre uma mesma questão legal, mas, sim, em razão de fundamentações baseadas em fatos, provas e circunstâncias específicas de cada processo.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1545561/SE, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 21/09/2017, DJe 02/10/2017)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
