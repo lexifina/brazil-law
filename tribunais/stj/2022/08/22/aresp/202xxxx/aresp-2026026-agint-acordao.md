@@ -1,0 +1,21 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 16/08/2022 a 22/08/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão da Presidência do STJ que conheceu do agravo para não conhecer do recurso especial diante da incidência da Súmula 7/STJ.
+O agravante alega que "(..), de uma breve leitura do agravo interposto contra a decisão de inadmissão do recurso especial, percebe-se que o Município não apenas demonstrou que a análise da matéria constante do recurso especial independe do reexame de qualquer fato ou prova, mas também que o acórdão recorrido violou frontalmente - como já descrito na petição do recurso especial - o disposto nos artigos 537 e parágrafo primeiro do CPC. (..) Tais fundamentos foram cabalmente demonstrados no recurso especial interposto pelo Município e reiterados nas razões do agravo em recurso especial não sendo necessária a análise de conteúdo fático probatório para a redução da multa imposta, cabível em qualquer grau de jurisdição conforme jurisprudência desta Corte. Com efeito, este E. STJ já reconheceu por diversas vezes a possibilidade de redução das astreintes em qualquer grau de jurisdição, inclusive em sede de recurso especial sem que seja necessário o reexame fático probatório." (fls. 586-587).
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 537, §1º, DO CPC/2015. MULTA POR DESCUMPRIMENTO DE DECISÃO JUDICIAL. RAZOABILIDADE E PROPORCIONALIDADE. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Tendo o recurso sido interposto contra acórdão publicado na vigência do CPC/2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A revisão a que chegou o Tribunal de origem sobre a questão demanda o reexame dos fatos e provas constantes nos autos, o que é vedado no âmbito do recurso especial. Incide ao caso a Súmula 7/STJ.
+3. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigna-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Dito isso, observa-se que o presente recurso não merece prosperar, tendo em vista que dos argumentos apresentados no agravo interno não se vislumbram razões para reformar a decisão agravada.
+Isso porque, no que diz respeito ao tema, a Corte de origem, após ampla análise do conjunto fático-probatório, firmou compreensão de que tendo o Município de Nova Iguaçu sido originalmente condenado a, no prazo de 60 dias contados da intimação da sentença, assumir em sua rede hospitalar os pacientes internados no Instituto Dr. Manoel Eiras, sob pena de multa diária no valor de R$100,00 por paciente, e tendo transferido o último dos pacientes com 5 meses de atraso em relação ao prazo fixado pelo juízo de primeiro grau, foram elaborados os cálculos do valor devido, chegando-se ao montante de R$143.075,54. Ainda assim, o magistrado de piso, observando os princípios da razoabilidade e da proporcionalidade, readequou os cálculos da Contadoria Judicial, reduzindo a multa cominatória para R$120.000,00, valor este que atende ao fim de coagir o devedor a cumprir o preceito (estimulando o cumprimento da obrigação sem punir o agente público pelo descumprimento da decisão), sem configurar um ônus excessivo.
+Assim, tem-se que a revisão a que chegou o Tribunal de origem sobre a questão demanda o reexame dos fatos e provas constantes nos autos, o que é vedado no âmbito do recurso especial. Incide ao caso a Súmula 7/STJ.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
