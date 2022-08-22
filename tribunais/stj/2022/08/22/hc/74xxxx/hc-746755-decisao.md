@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se dehabeas corpuscom pedido de liminar impetrado em favor deFABIANO BAPTISTA DA COSTA LEITE em que se aponta como autoridade coatora oTribunal de Justiça do Estado do Rio de Janeiro(HC n. 0020922-91.2022.8.19.0000).
+O paciente foi condenado às penas de 3 anos e 9 meses de reclusão em regime inicialaberto e de 875 dias-multa, pela prática do crime descrito no art. 35, caput, c/c o art. 40, IV e VI, da Lei n. 11.343/2006. Foi-lhe indeferido o direito de recorrer em liberdade, pois sua liberdade acarretaria riscos àordem pública.
+Nas razões do presente writ, a defesa aponta constrangimento ilegal, pois, quando a sentença foi prolatada, o paciente estava em cumprimento de condições de livramento condicional, e não preso, como destacado pelo Tribunal de origem.
+Aduz que o paciente já se encontrava solto há mais de 6 meses, mantendo endereço fixo, trabalhando como motorista de aplicativo e cumprindo as condições fixadas quando da concessão do livramento condicional, não oferecendo sua liberdade nenhum perigo.
+Assevera que, apesar da fixação do regime aberto para o cumprimento da pena, o paciente a está cumprindo em regime mais gravoso, em ofensa aoprincípio da homogeneidade.
+Requera concessão de liberdade ao paciente ou sua transferência para estabelecimento prisional compatível com o regime aplicado.
+O pedido de liminar foi deferido para determinar que o Juízo de primeiro grau efetuassea transferência do pacientepara estabelecimento prisional compatível com o regime aberto (fls. 75-77).
+Informações prestadas às fls. 81-104 e 105-106.
+O Ministério Público Federal opinou pela concessão da ordemde ofício, para determinar que o Juízo de primeiro grau efetue a transferência do pacientepara estabelecimento prisional compatível com o regime aplicado na sentença(fls. 111-117).
+É o relatório. Decido.
+Ainda que inadequada a impetração dehabeas corpusem substituição à revisão criminal ou ao recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o STJ considera passível de correção de ofício o flagrante constrangimento ilegal.
+Conforme a jurisprudência dominante da Quinta Turma,deve haver compatibilização entre a segregação cautelar e o regime menos gravoso estabelecido na sentença, adequando-se as condições da prisão provisória às regras do regime imposto.
+Nesse sentido, confira-se o seguinte julgado:
+PROCESSUAL PENAL.HABEAS CORPUSSUBSTITUTIVO DE RECURSO ORDINÁRIO. NÃOCABIMENTO. HOMICÍDIO QUALIFICADO. EXCESSO DE PRAZO. NÃO OCORRÊNCIA. ENCERRAMENTO DA INSTRUÇÃO CRIMINAL. SÚMULA 52/STJ. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. NOVO TÍTULO JUDICIAL QUE MANTÉM OS MESMOS FUNDAMENTOS. PRISÃO PREVENTIVA. SEGREGAÇÃO CAUTELAR DEVIDAMENTE FUNDAMENTADA NA GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA. REGIME ABERTO ESTABELECIDO NO DECRETO CONDENATÓRIO. COMPATIBILIDADE ENTRE A PRISÃO CAUTELAR E O REGIME MENOS GRAVOSO. NECESSIDADE DE ADEQUAÇÃO.HABEAS CORPUSNÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+I - A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração dehabeas corpusem substituição ao recurso adequado, situação que implica o não-conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+ ..
+VII - Estabelecido pelo decreto condenatório o regime aberto para o início do cumprimento da pena, deve o paciente aguardar o julgamento de sua apelação em tal regime, compatibilizando-se a prisão cautelar com o modo de execução ora determinado.
+Habeas corpusnão conhecido. Ordem concedida de ofício para determinar a compatibilização da segregação cautelar com o regime inicial fixado na sentença, qual seja, o regime aberto, até o julgamento do recurso de apelação, salvo se por outro motivo não estiver preso. (HC n. 433.009/RS, relator Ministro Felix Fischer, Quinta Turma, DJe de 10/4/2018.)
+Seguindo a mesma orientação, confiram-se estes julgados da Quinta Turma: RHC n. 48.138/SP, relator Ministro Jorge Mussi, DJe de 4/11/2014; HC n.278.660/SP, relatora Ministra Laurita Vaz, DJe de 31/3/2014; e RHC n.42.302/MG, relator Ministro Marco Aurélio Bellizze, DJe de 18/2/2014.
+Dessa forma, tendo sido estabelecido o regime aberto para o início do cumprimento da pena, deve, pois,haver acompatibilizaçãoda prisão cautelar com o modo de execução de pena determinado em sentença.
+Assim, o caso é de concessão da ordem de ofício, para que o Juízo de origem ajuste a prisão preventiva ao regime aberto, transferindo o paciente para estabelecimento prisional compatível, sob pena de revogação da prisão por configurar constrangimento ilegal.
+Ante o exposto,com fundamento no art. 34, XX, do RISTJ,não conheço do presentehabeas corpus,masconcedo a ordem de ofício,nos termos do art. 654, § 2º, do Código de Processo Penal,confirmando a liminar deferida às fls. 75-77, paradeterminar que o Juízo competente efetue a transferência do paciente para estabelecimento prisional compatível com o regime aberto, salvo se estiver preso por outro motivo.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
