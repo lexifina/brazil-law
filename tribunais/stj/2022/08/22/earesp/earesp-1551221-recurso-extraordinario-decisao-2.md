@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de recurso extraordinário interposto por FABIO ALEXANDRE ALVES FARIA, com fundamento no art. 102,III,a, da Constituição Federal, contra acórdão deste Superior Tribunal de Justiça, assim ementado (e-STJ fls. 2911/2912):
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO E EXTORSÃO. AUSÊNCIA DE FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO. NÃO OCORRÊNCIA. RESTITUIÇÃO DE ARMA UTILIZADA NA CONDUTA DELITIVA. IMPOSSIBILIDADE. VERIFICAÇÃO. SÚMULA 7/STJ. QUESTÕES JULGADAS NO HC 472.437/SP. ANÁLISE PREJUDICADA NO PRESENTE RECURSO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Não há falar em ausência de fundamentação, uma vez que o acórdão recorrido apreciou as teses defensivas com base nos fundamentos de fato e de direito que entendeu relevantes e suficientes à compreensão e à solução da controvérsia, o que, na hipótese, revelou-se suficiente ao exercício do direito de defesa.
+2. Nos termos do art. 91, inciso II, alínea "a", do CP, a decretação do perdimento de bens que constituem instrumentos do crime em favor da União corresponde a efeito automático da condenação do acusado.
+3. No presente caso, a arma apreendida foi considerada instrumento do crime. Assim, alterar as conclusões consignadas no acórdão recorrido, para decidir que a arma não foi utilizada na prática delitiva, podendo ser restituída, como requer a parte recorrente, exigiria a incursão no conjunto fático-probatório e nos elementos de convicção dos autos, o que não é possível nesta Corte Superior, segundo dispõe a Súmula n. 7/STJ.
+4. Quanto aos demais pontos levantados no presente recurso(atipicidade do fato; ausência de provas da existência do crime, bem como de ter o envolvido concorrido para a infração penal; inexistência de justa causa para a condenação; redução da pena-base), o recorrente impetrou o HC n. 472.437/SP, no qual foram suscitadas as referidas questões expostas no presente recurso e julgadas. Nesse contexto, a apreciação das referidas questões ficam prejudicadas.
+5. Agravo regimental não provido.
+Sustenta o recorrentea existência de repercussão geral e a violação doart.5º, XXXV, LIV e LV, da Constituição Federal.
+Afirma a ilegalidade do acórdão recorridopois,ao negar provimento ao agravo regimental, contrariou a Constituição Federal, ressaltando que só a Suprema Corte teria competência para reconhecer a repercussão geral das questões constitucionais discutidas,sob pena de contrariedade aos princípios constitucionais da inafastabilidade da prestação jurisdicional, da ampla defesa e do devido processo legal.
+Ressalta a falta de correlação entre o precedente jurisprudencial invocado e o aresto proferido no presente caso.
+Requer a admissão do recurso e a sua remessa ao Supremo Tribunal Federal.
+Contrarrazões apresentadas às e-STJ fls. 3113/3120e 3130/3141.
+É o relatório.
+Quanto à alegada violação ao art. 5º, XXXV, da Constituição Federal, de acordo com o Tema 895/STF, "a questão da ofensa ao princípio da inafastabilidade de jurisdição, quando há óbice processual intransponível ao exame de mérito, ofensa indireta à Constituição ou análise de matéria fática, tem natureza infraconstitucional, e a ela se atribuem os efeitos da ausência de repercussão geral".
+Essa tese foi estabelecida pelo Supremo Tribunal Federal no julgamento do RE n. 956.302/GO, que restou assim ementado:
+PRINCÍPIO DA INAFASTABILIDADE DA JURISDIÇÃO. ÓBICES PROCESSUAIS INTRANSPONÍVEIS. EXTINÇÃO DO PROCESSO SEM JULGAMENTO DE MÉRITO. QUESTÃO INFRACONSTITUCIONAL. MATÉRIA FÁTICA. AUSÊNCIA DE REPERCUSSÃO GERAL. Não há repercussão geral quando a controvérsia refere-se à alegação de ofensa ao princípio da inafastabilidade de jurisdição, nas hipóteses em que se verificaram óbices intransponíveis à entrega da prestação jurisdicional de mérito.(RE 956.302/GO RG, Relator(a): Min. EDSON FACHIN, julgado em 19/05/2016, PROCESSO ELETRÔNICO DJe-124 DIVULG 15-06-2016 PUBLIC 16-06-2016)
+Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO.  ..  ALEGAÇÃO DE CONTRARIEDADE AO PRINCÍPIO DA INAFASTABILIDADE DA JURISDIÇÃO: INEXISTÊNCIA DE REPERCUSSÃO GERAL (TEMA 895). AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.
+(ARE 1256343 AgR, Relator(a): CÁRMEN LÚCIA, Segunda Turma, julgado em 29/06/2020, PROCESSO ELETRÔNICO DJe-169 DIVULG 03-07-2020 PUBLIC 06-07-2020)
+Ressalte-se também quepacificou-se no Supremo Tribunal Federal o entendimento de que a apontada afronta aos princípios do contraditório, da ampla defesa e do devido processo legal, bem como ao ato jurídico perfeito, ao direito adquirido e aos limites da coisa julgada, quando dependente da prévia análise de normas infraconstitucionais, configura ofensa reflexa ao texto constitucional.
+Nessa esteira é o Tema 660/STF, cujo acórdão paradigma recebeu a seguinte ementa:
+Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral.
+(ARE 748.371 RG, Relator(a): Min. GILMAR MENDES, julgado em 06/06/2013, ACÓRDÃO ELETRÔNICO DJe-148 DIVULG 31-07-2013 PUBLIC 01-08-2013)
+No mesmo vértice:
+AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO A RESPEITO DA REPERCUSSÃO GERAL. INSUFICIÊNCIA. VIOLAÇÃO AO DEVIDO PROCESSO LEGAL, AO DIREITO ADQUIRIDO, AO ATO JURÍDICO PERFEITO E À COISA JULGADA. OFENSA CONSTITUCIONAL REFLEXA. (..)
+3. O STF, no julgamento do ARE 748.371-RG/MT (Rel. Min. GILMAR MENDES, Tema 660), rejeitou a repercussão geral da violação ao direito adquirido, ao ato jurídico perfeito, à coisa julgada ou aos princípios da legalidade, do contraditório, da ampla defesa e do devido processo legal, quando se mostrar imprescindível o exame de normas de natureza infraconstitucional.
+4. Tendo o acórdão recorrido solucionado as questões a si postas com base em preceitos de ordem infraconstitucional, não há espaço para a admissão do recurso extraordinário, que supõe matéria constitucional prequestionada explicitamente.
+5. Agravo Interno a que se nega provimento. Na forma do art. 1.021, §§ 4º e 5º, do Código de Processo Civil de 2015, em caso de votação unânime, fica condenado o agravante a pagar ao agravado multa de um por cento do valor atualizado da causa, cujo depósito prévio passa a ser condição para a interposição de qualquer outro recurso (à exceção da Fazenda Pública e do beneficiário de gratuidade da justiça, que farão o pagamento ao final).
+(RE 1276856 AgR, Relator(a): ALEXANDRE DE MORAES, Primeira Turma, julgado em 15/09/2020, PROCESSO ELETRÔNICO DJe-234 DIVULG 22-09-2020 PUBLIC 23-09-2020)
+Na espécie, a violação do art. 5º, XXXV, da Constituição Federal e da suposta ofensa aos princípios da ampla defesa e do devido processo legaldependemda análise do art. 91, II, a, do Código Penal, bem como de posicionamentos jurisprudenciais correlatos, razão pela qual incidem os Temas 895e 660/STF.
+Ante o exposto, com fundamento no art. 1.030, I,a, do Código de Processo Civil, nega-se seguimento ao recurso extraordinário.
+Publique-se.
+Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO.OFENSA AO PRINCÍPIO DA INAFASTABILIDADE DE JURISDIÇÃO. TEMA 895/STF. VIOLAÇÃO AOS PRINCÍPOS DA AMPLA DEFESA EDO DEVIDO PROCESSO LEGAL.TEMA 660/STF. AUSÊNCIA DE REPERCUSSÃO GERAL. SEGUIMENTO NEGADO.
