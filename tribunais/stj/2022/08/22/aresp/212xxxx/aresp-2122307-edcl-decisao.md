@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por CAIXA SEGURADORA S/A à decisão de fls. 567/568, que não conheceu do recurso.
+Sustenta a parte embargante que:
+Em ato continuo, foi certificado, havendo a intimação para a recorrente/embargante comprovar o pagamento em dobro das custas judiciais do Superior Tribunal de Justiça, por meio da GRU, senão vejamos: (fl. 571).
+ ..
+Em atendimento a intimação recebida, esta embargante juntou nos autos a comprovação das custas em dobro tempestivamente, senão vejamos;
+ ..
+Observa-se ainda, que foi certificado a comprovação do recolhimento das custas em dobro do Superior Tribunal de Justiça, senão vejamos: (fl. 572).
+ ..
+Vide a flagrante contradição na decisão embargada, tendo em vista que Recurso Especial foi devidamente julgado com a comprovação do recolhimento da Guia de recolhimento juntada aos autos, inclusive existindo a certificação de seu devido recolhimento regular e tempestivo, conforme já informado e indicado acima. Resta comprovado que o Recurso Especial teve seu julgamento normal, não tendo sido questionado qualquer irregularidade no recolhimento das custas, senão vejamos: (fl. 573).
+ ..
+Ora, Douto Ministro, houve a certificação da regularidade do recolhimento das custas, assim como houve o devido julgamento do Recurso Especial, realizado pelo Egrégio Tribunal de Justiça do Estado do Maranhão, não podendo assim, se falar em irregularidade no recolhimento do preparo (fl. 574).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Esclareça-se que o marco temporal de aplicação do Código de Processo Civil de 2015 é a intimação do decisum recorrido que, no presente caso, foi realizada após 18/3/2016, já sob a égide do novo códex processual.
+Assim, nos termos do Enunciado Administrativo n. 3 do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC", em observância ao princípio do tempus regit actum, ou seja, no presente caso aplicam-se as regras do Código de Processo Civil de 2015.
+Conforme já consignado na decisão ora embargada, que agora se repete, a petição de recurso especial foi protocolada, com o recolhimento das custas realizado em desacordo com o disposto na Resolução do STJ vigente à época, uma vez que a parte fez a indicação errônea do "Processo na Origem" ou "Número do Processo que consta no Acórdão Recorrido" na guia de recolhimento das custas.
+Percebeu-se, no STJ, a irregularidade no recolhimento das custas, sendo a parte intimada no prazo de 5 dias para sanar o vício, na forma do § 7º, art. 1.007 do Código de Processo Civil (fl. 557). Contudo, não regularizou, uma vez que a petição foi juntada fora do prazo estabelecido (fls. 563/566), ocorrendo a preclusão temporal.
+Portanto, correta a aplicação da Súmula n. 187 deste Tribunal, julgando deserto o recurso.
+No mais, veja-se que o juízo de admissibilidade do recurso especial é bifásico, ou seja, "a decisão proferida pelo Tribunal de origem não vincula o Superior Tribunal de Justiça na aferição dos pressupostos de admissibilidade do recurso especial. Isso porque compete a esta Corte, órgão destinatário do recurso especial, o juízo definitivo de admissibilidade". (AgInt no AREsp 1470001/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 20/9/2019.)
+Do mesmo modo, certidão do Tribunal de origem, lavrada por servidor público nos autos do processo, atestando a regularidade do preparo do recurso, além de não impedir o reexame desse requisito pelo Superior Tribunal de Justiça, é insuficiente para o fim proposto, pois "a jurisprudência desta Corte Superior é iterativa no sentido de que a regularidade do preparo deve ser demonstrada mediante juntada de cópia das Guias de Recolhimento de Custas e de Porte de Remessa e Retorno (GRU), acompanhada do respectivo comprovante de pagamento, sob pena de deserção". (AgRg no AREsp 662.713/RJ, relator Ministro Marco Buzzi, Quarta Turma, DJe de 30/11/2015.)
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
