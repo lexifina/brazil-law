@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 16/08/2022 a 22/08/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Na origem, trata-se decumprimento de sentençabaseado no título executivo judicial proferido em ação coletiva.No Tribunal a quo, a decisão objeto do recurso foi mantida, conforme a seguinte ementa do acórdão:
+DIREITO ADMINISTRATIVO. APELAÇÃO CÍVEL. SERVIDOR PÚBLICO.RAV E DIFERENÇAS VENCIDAS. PRESCRIÇÃO. PARCELAS VENCIDAS HÁ MAIS DE 5 ANOS. AÇÃO COLETIVA AJUIZADA PELO SINDICATO DA CATEGORIA. INTERRUPÇÃO DA PRESCRIÇÃO APENAS PARA O AJUIZAMENTO DA AÇÃO INDIVIDUAL. APELAÇÃO DESPROVIDA.
+1) Trata-se de apelação interposta por JOAQUIM DA COSTA LEITE JUNIOR, JOAO EVANGELISTA RODRIGUES NETO e JOANNA ROCHA FERREIRA CAVALCANTI tendo por objeto a sentença, que julgou extinta a execução, ante o advento da prescrição quinquenal das parcelas devidas, na forma do artigo 487, II do CPC.
+2) Conforme entendimento firmado pelo Superior Tribunal de Justiça, no julgamento do Recurso Especial nº.: 1.388.000/PR, sob a sistemática dos recursos especiais repetitivos, a propositura da ação coletiva interrompe a prescrição para ação individual.
+3) A Corte Superior asseverou que a propositura de ação coletiva tem condão de interromper a prescrição apenas para fins de ajuizamento da ação individual, contudo, quanto ao pagamento de parcelas vencidas, a prescrição quinquenal tem como termo a quo o ajuizamento da ação individual.
+4) No caso concreto, considerando que o ajuizamento da ação individual ocorreu em 22/10/2018, estão prescritas as diferenças devidas a título de GDPST anteriores a 22/10/2013, com respaldo no entendimento consolidado pelo STJ.
+5) Destarte, os apelantes postulam a condenação da União ao pagamento de diferenças de janeiro de 1996 a junho de 1999, contudo, verifica-se que todas as parcelas encontram-se fulminadas pela prescrição quinquenal, razão pela qual não merece qualquer reforma a sentença que extinguiu o feito.
+6) Apelação desprovida.
+No recurso especial, a parte recorrente sustentou, em síntese, que o acórdão recorrido violou "o disposto no art. 1º e 3º, do Decreto 20.910/32".
+A decisão recorrida teve o seguinte dispositivo: "Ante o exposto, com fundamento no art. 253, parágrafo único, I, do RISTJ, não conheço do agravo."
+Interposto agravo interno, a parte agravante traz, resumidamente, os seguintes argumentos:
+ ..
+Como se vê, a decisão recorrida que não conheceu do agravo aviado em face da decisão de inadmissibilidade do recurso especial de origem traz como premissa a impropriedade do art. 1.042 do CPC quando a Corte de origem inadmitir recurso com base em recurso repetitivo, com as vênias de estilo, sugerindo que a decisão de inadmissão se fundou no Tema 877/STJ (REsp 1.388.000/PR).
+Posto assim, o erro grosseiro se concretiza apenas quando de fato a decisão de inadmissão do recurso especial se fundar em recurso repetitivo.
+Todavia, a decisão de inadmissão do recurso especial pela Corte de Origem não utilizou como fundamento a posição do Tema 877/STJ, de forma expressa, como justificativa da negativa de prosseguimento do recurso especial e sequer indicou o art. 1.030, I, "b" do CPC sinalizando tal conduta.
+ ..
+A parte agravadafoi intimada para apresentar impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. PAGAMENTO DE DIFERENÇAS VENCIDAS DA GRATIFICAÇÃO DENOMINADA REMUNERAÇÃO ADICIONAL VARIÁVEL  RAV. PRESCRIÇÃO.RECURSO ESPECIAL NÃO ADMITIDONA ORIGEM PORQUE AS MATÉRIAS FORAM JULGADAS SEGUNDO O RITO DO ART. 543-C DO CPC.NÃO CABIMENTO DO AGRAVO NESSES PONTOS (CPC/2015, ART. 1.042).DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de cumprimento de sentença baseado no título executivo judicial proferido em ação coletiva. No Tribunal a quo, a decisão objeto do recurso foi mantida.
+II - Preliminarmente, cumpre destacar que a decisão recorrida foi publicada em data posterior a 17 de março de 2016, sendo plenamente aplicável, segundo o Enunciado Administrativo n. 3 do Plenário do STJ, o art. 1.042 do Código de Processo Civil de 2015, que estabelece não ser cabível a interposição de agravo contra a decisão que não admite o recurso especial, quando a matéria, nele discutida, tiver sido decidida pelo Tribunal de origem em conformidade com precedente firmado por esta Corte sob o rito do art. 1.036 do CPC/2015 (art. 543-C do CPC/73).
+III - Desse modo, não se afigura possível a apresentação de qualquer outro recurso a esta Corte Superior contra tal decisão, porque incumbe ao Tribunal de origem, com exclusividade e em caráter definitivo, proferir juízo de adequação do caso concreto ao precedente formado em repetitivo, sob pena de tornar-se ineficaz o propósito racionalizador da sistemática dos recursos representativos de controvérsia, instituída pela Lei n. 11.672/2008.Nesse sentido:AREsp 959.991/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 16/8/2016, DJe 26/8/2016.
+IV - Assim, por ser incabível, não se deve conhecer do presente recurso no que concerne à matéria objeto do Tema n. 877 do STJ.
+V - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A parte agravante repisa os mesmos argumentos já analisados na decisão recorrida.
+Preliminarmente, cumpre destacar que a decisão recorrida foi publicada em data posterior a 17 de março de 2016, sendo plenamente aplicável, segundo o Enunciado Administrativo n. 3 do Plenário do STJ, o art. 1.042 do Código de Processo Civil de 2015, que estabelece não ser cabível a interposição de agravo contra a decisão que não admite o recurso especial, quando a matéria, nele discutida, tiver sido decidida pelo Tribunal de origem em conformidade com precedente firmado por esta Corte sob o ritodo art. 1.036 do CPC/2015 (art. 543-C do CPC/73).
+Desse modo, não se afigura possível a apresentação de qualquer outro recurso a esta Corte Superior contra tal decisão, porque incumbe ao Tribunal de origem, com exclusividade e em caráter definitivo, proferir juízo de adequação do caso concreto ao precedente formado em repetitivo, sob pena de tornar-se ineficaz o propósito racionalizador da sistemática dos recursos representativos de controvérsia, instituída pela Lei n. 11.672/2008.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. INTERPOSIÇÃO CONTRA DECISÃO PUBLICADA NA VIGÊNCIA O CPC/2015. 1. IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA (CPC/2015, ART 932, III).NECESSIDADE. 2. PARTE DO RECURSO ESPECIAL NÃO ADMITIDA NA ORIGEM PORQUE AS MATÉRIAS FORAM JULGADAS SEGUNDO O RITO DO ART. 543-C DO CPC: TAXA DE JUROS REMUNERATÓRIOS CONTRATADOS.CAPITALIZAÇÃO MENSAL DE JUROS. NÃO CABIMENTO DO AGRAVO NESSES PONTOS (CPC/2015, ART. 1.042). 3. PREVISÃO LEGAL EXPRESSA. ERRO GROSSEIRO. CARACTERIZAÇÃO. 4. RECURSO CONHECIDO APENAS QUANTO À ALEGADA VIOLAÇÃO DO ART. 535 DO CPC/73. MÉRITO. AFASTAMENTO. 5.AGRAVO PARCIALMENTE CONHECIDO PARA, NESSA EXTENSÃO, NEGAR PROVIMENTO AO RECURSO ESPECIAL. MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS. ART. 85, §§ 8º E 11, DO CPC/2015.
+1. Com o advento do Código de Processo Civil de 2015 passou a existir expressa previsão legal no sentido do não cabimento de agravo contra decisão que não admite recurso especial quando a matéria nele veiculada já houver sido decidida pela Corte de origem em conformidade com recurso repetitivo (art. 1.042, caput). Tal disposição legal aplica-se aos agravos apresentados contra decisão publicada após a entrada em vigor do Novo CPC, em conformidade com o princípio tempus regit actum.
+2. A interposição do agravo previsto no art. 1.042, caput, do CPC/2015 quando a Corte de origem o inadmitir com base em recurso repetitivo constitui erro grosseiro, não sendo mais devida a determinação de outrora de retorno dos autos ao Tribunal a quo para que o aprecie como agravo interno.
+3. Não se configura ofensa ao art. 535 do CPC/73 quando o Tribunal de origem, embora rejeite os embargos de declaração opostos, manifesta-se acerca de todas as questões devolvidas com o recurso e consideradas necessárias à solução da controvérsia, sendo desnecessária a manifestação pontual sobre todos os artigos de lei indicados como violados pela parte vencida.
+4. Agravo parcialmente conhecido para, nessa extensão, negar provimento ao recurso especial, com majoração dos honorários advocatícios, na forma do art. 85, §§ 8º e 11, do CPC/2015.
+(AREsp 959.991/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 16/8/2016, DJe 26/8/2016).
+Assim, por ser incabível, não se deve conhecer do presente recurso no que concerne à matéria objeto do Tema n. 877 do STJ.
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
