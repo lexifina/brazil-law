@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de recurso especial interposto por FERNANDA APARECIDA JORGE GERALDINO e LUIZ GERALDINO FILHO,fundamentado naalínea"c" do permissivo constitucional.
+Recurso especial interposto em:10/11/2021.
+Concluso ao gabinete em: 23/09/2022.
+Ação: de cobrança, ajuizada por SOCIEDADE AMIGOS DO CANADÁ 1-Aem face de FERNANDA APARECIDA JORGE GERALDINO e LUIZ GERALDINO FILHO.
+Sentença: julgou improcedente o pedido formulado na exordial.
+Acórdão: deu parcial provimento à apelação interposta pelo recorrido, nos termos assim ementados:
+Apelação Cível. Cobrança. Taxas asssociativas. Orientaçãodo Superior Tribunal de Justiça de ser indevida a cobrançaaqueles que não anuíram expressamente ao pagamento as Associações e a definição pelo Supremo Tribunal Federalque não são devidas as cobranças antes da edição da Lei 13.467/2017, que alterou a Lei do Parcelamento do Solo. A exceção se refere aos municípios que já haviam editadosLeis para regulamentar a cobrança. Ao que consta dos autos,parte das cobranças se referem a períodos anteriores a edição da Lei 13.467/17 e não consta da existência de Lei Municipal a regulamentar as referidas cobranças, portanto,diante desta nova realidade, com a aplicação dos temas 882 do Superior Tribunal de Justiça e 492 do Supremo TribunalFederal, é de rigor declarar a inexistência da dívida no período anterior, e devida no período posterior à edição da lei. Prazo prescricional quinquenal. Apelo parcialmenteprovido.
+Embargos de Declaração: opostos pelos recorrentes, foram rejeitados.
+Recurso especial: alega dissídio jurisprudencial, porquanto o acórdão recorridoteria violado o Tema 882/STJ e Tema 492/STF ao não observar os requisitos para a cobrança de taxa de associação após a vigência da Lei 13.467/17.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da cobrança de taxa de manutenção e conservação de loteamento imobiliário por associações (Tema 492 do STF)
+O Supremo Tribunal Federal, em recente julgamento na sistemática da repercussão geral, firmou a orientação de que é inconstitucional a cobrança por parte de associação de taxa de manutenção e conservação de loteamento imobiliário urbano de proprietário não associado até o advento da Lei 13.465/17 ou de anterior lei municipal que discipline a questão, a partir do qual se torna possível a cotização de proprietários de imóveis, titulares de direitos ou moradores em loteamentos de acesso controlado, desde que, (i) já possuidores de lotes, tenham aderido ao ato constitutivo das entidades equiparadas a administradoras de imóveis ou, (ii) no caso de novos adquirentes de lotes, o ato constitutivo da obrigação tenha sido registrado no competente registro de imóveis (RE 695.911, Tribunal Pleno, julgado em 15/12/2020, Processo Eletrônico Repercussão Geral - Mérito DJe-073 - Divulgado em 16/04/2021 - Publicado em 19/04/2021).
+Na hipótese dos autos, em que pese o acórdão recorrido tenha declarado a inexistência da dívida no período anterior ao advento da Lei 13.465/17, não aprecioua situação posterior à leinos termos do entendimento firmado no Tema 492/STF.
+Isso, pois, nessas situações, somentese admite a cobrança de taxa de associação para aqueles que já possuem lotes, quando eles tenham anuído com o ato constitutivo da associação, o que não se vislumbra na hipótese.
+Nesse sentir, necessária a devolução dos autos ao Tribunal de origem para que, à luz da jurisprudência citada, pronuncie-se sobre a questão.
+Logo, o recurso especial merece provimento, com base no Tema 492/STF.
+Forte nessas razões, CONHEÇO do recurso especial e DOU-LHE PROVIMENTO, com fundamento no art. 932, V, "b", do CPC/15, para determinar a remessa dos autos ao Tribunal de origem, a fim de que esse se pronuncie sobre a questão à luz da citada jurisprudência do STF.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15. Publique-se. Intimem-se. Brasília, 22 de agosto de 2022.
+Julgamento: aplicação do CPC/73 ou aplicação do CPC/2015.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE COBRANÇA. POSSIBILIDADE DE COBRANÇA DE TAXA DE MANUTENÇÃO E CONSERVAÇÃO DE LOTEAMENTO IMOBILIÁRIO. APLICAÇÃO DO TEMA 492 DO STF.
+1. Cuida-se, na origem, de ação de cobrança.
+2. É inconstitucional a cobrança por parte de associação de taxa de manutenção e conservação de loteamento imobiliário urbano de proprietário não associado até o advento da Lei nº 13.465/17 ou de anterior lei municipal que discipline a questão, a partir do qual se torna possível a cotização de proprietários de imóveis, titulares de direitos ou moradores em loteamentos de acesso controlado, desde que, (i) já possuidores de lotes, tenham aderido ao ato constitutivo das entidades equiparadas a administradoras de imóveis ou, (ii) no caso de novos adquirentes de lotes, o ato constitutivo da obrigação tenha sido registrado no competente registro de imóveis. Precedente em Repercussão Geral no STF (Tema 492).
+3. Recurso especial conhecido e provido.
