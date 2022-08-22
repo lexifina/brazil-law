@@ -1,0 +1,70 @@
+DECISÃO
+Trata-se de agravo interno interposto por Olandil Bombonato Menin e Outra,contra decisão proferida pela Presidência do STJ, que conheceu do agravo para não conhecer dorecurso especial, em virtude da incidência da Súmula 7/STJ (fls. 837/839).
+Inconformada, a parte agravante afirma que "não pretendediscutir acerca das provas produzidas nos autos, nem a questão fática tratada no processo, mas, sim, questão de direito, qual seja, a devida aplicação dos artigos relacionados, ou ainda as matérias de ordem pública, correção monetária e juros" (fl. 846).
+Defende que "asquestões atinentes à correção monetária dos valores a que foi condenado a pagar o INCRA nos autos da ação de desapropriação podem ser decididas posteriormente sem ofensas aos institutos preclusão e da coisa julgada, por serem matérias de ordem pública e devidas em qualquer decisão judicial" (fl. 850).
+Colaciona julgados em amparo à sua tese.
+Requer o processamento do apelo nobre.
+A parte agravada não apresentou impugnação.
+Parecer do MPF às fls. 867/870, pelo desprovimento do agravo interno.
+É o relatório.
+Melhor compulsando os autos e exercendoo juízo de retratação facultadopelos arts. 1.021, § 2º, do CPCe 259 do RISTJ, reconsidero a decisão agravada, tornando-a sem efeito.
+Passo a novo exame do agravono recurso especial de fls. 297/393.
+Trata-se de agravo manejado porOlandil Bombonato Menin e Outracontra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a e c, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 4ª Região,assim ementado (fl. 237):
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. REJULGAMENTO. OMISSÃO. OCORRÊNCIA. PRECLUSAO.
+1. Os embargos de declaração destinam-se à supressão de omissão, contradição, obscuridade ou erro material existentes na decisão impugnada. Constatada a ausência de enfrentamento de questão relevante para a solução do litígio, impõe-se a integração do julgado.
+2. Não tendo a parte interposto o recurso cabível para impugnardecisão contrária a seu interesse, no momento processual oportuno, operou-se a preclusão, sendo vedada a rediscussão da matéria.
+Nas razões do recurso especial, a parte agravante aponta, além de dissídio jurisprudencial,violação aos arts. 502, 503, 505, II, 507 e 508 do CPC.Sustenta, em síntese,que "as questões atinentes à correção monetária dos valores a que foi condenado a pagar o INCRA, nos autos da ação de desapropriação, podem ser decididas posteriormente sem ofensas aos institutos da preclusão e coisa julgada, por serem matérias de ordem pública e devidas em qualquer decisão judicial" (fl. 251).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação comporta acolhida.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos (fls. 232/234):
+O INCRA alega que, em relação ao valor depositado a título de indenização pela desapropriação, operou-se a preclusão.
+Com razão.
+Na sentença expropriatória, restou assentado que (1) Na espécie em debate, verifica-se que não há prova da titulação da área em favor da parte expropriada, sendo cabível a fixação de montante indenizatório, e (2) a esse respeito, não há maiores digressões a serem feitas, tendo em vista que a parte demandada concordou com o valor oferecido inicialmente pelo INCRA (fls. 234-235 e 250-251), impondo-se o seu acolhimento (fl. 33).
+Opostos embargos de declaração, estes foram parcialmente acolhidos, com base na seguinte fundamentação:
+"Primeiramente, conheço dos embargos de declaração porque tempestivos.
+No mérito, assiste razão em parte à embargante.
+De início, é de se ressaltar que embora não conste do processo prova do depósito judicial dos valores informados pela autarquia à fl. 153, é de se ressaltar que em se tratando de minifúndio, como consta do documento à fl. 165, o depósito da quantia deu-se em espécie em conta única para todos os expropriados que possuíam áreas com essa classificação (conta sob nº 0650/005.35008823-9), não havendo que se falar em resistência da autarquia embargada para o pagamento da quantia devida.
+Passo à análise da questão relativa aos critérios de atualização do montante indenizatório.
+De fato, a decisão atacada deixou de se pronunciar a respeito dos consectários relativos à atualização dos valores indenizatórios.
+Todavia, o pleito da parte embargante não merece acolhimento, tendo em vista que os valores depositados pela autarquia são suficientes para recompor seu patrimônio, considerando-se sua concordância expressa com a oferta inicial.
+Assim, inexistirá remanescente a ser executado, mas apenas levantamento dos valores já depositados, não havendo que se fixar critérios de correção monetária ou juros de mora, seja porque os valores já serão liberados devidamente corrigidos pela instituição financeira de acordo com os critérios estabelecidos pelo DL sob nº 1.737/79, que disciplina os depósitos de interesse da administração pública efetuados na Caixa Econômica Federal, seja porque não há mora da autarquia, que depositou com a inicial montante suficiente ao reconhecido como devido. Igualmente no que pertine aos juros compensatórios, asseverando que em vista da titulação efetivada (fl. 133) e a concordância com o deposito inicial, não há montante devido a este título.
+Ante o exposto, conheço dos embargos porque tempestivos para, no mérito, a eles dar parcial provimento, reconhecendo a omissão na decisão atacada no que diz respeito ao pronunciamento quanto aos critérios de atualização relativos ao montante indenizatório, concluindo, todavia, serem os mesmos indevidos. (grifei)"
+À míngua de insurgência das partes, a decisão - assim proferida - transitou em julgado.
+Posteriormente, em sede de cumprimento de sentença, os agravantes pleitearam a correção monetária do valor do depósito prévio, realizado pelo INCRA, ao fundamento de que correspondia ao montante da avaliação do imóvel rural, procedida em 1978, o qual se encontrava defasado no momento do ajuizamento da ação em 1984.
+A pretensão foi indeferida:
+"Despacho/Decisão
+1. A questão da atualização da oferta já foi apreciada por esse Juízo na sentença de embargos de declaração proferida à fl. 267, já transitada em julgado, de modo que não há mais digressões a serem feitas a esse respeito. Eventual inconformidade com a decisão antes mencionada deveria ter sido tempestivamente veiculada através do recurso próprio.
+Indefiro, portanto, os pleitos formulados às fls. 283-310 e 312-315 (relativamente à atualização da oferta)."
+Nesse contexto, não há como acolher o pleito, veiculado, tardiamente, pelos agravantes, porque, embora ponderável a tese de que o valor defasado da ofertado não retrata a justa indenização, ele concordaram com esse quantum, e a sentença que o homologou já transitou em julgado.
+Diante da ausência de insurgência dos agravantes no momento processual próprio, é inafastável a existência de coisa julgada, a inviabilizar a discussão sobre a matéria na fase de cumprimento de sentença, sob pena de ofensa a segurança jurídica.
+Ocorre que, ao assim decidir, o aresto regionalse afastou da orientação jurisprudencial deste Superior Tribunal firme no sentido de que "a aplicação de juros ecorreção monetáriapode ser alegada na instância ordinária a qualquer tempo, podendo, inclusive, ser conhecida de ofício. A decisão nesse sentido não caracteriza julgamento extra petita, tampouco conduz à interpretação de ocorrência depreclusãoconsumativa, porquanto tais institutos são meros consectários legais da condenação" (AgInt no REsp 1.353.317/RS, Rel. Ministro Og Fernandes, Segunda Turma, DJe 9/8/2017).
+A propósito:
+PROCESSUAL CIVIL. EXECUÇÃO DE SENTENÇA. JUROS DE MORA. CORREÇÃO MONETÁRIA. MATÉRIAS DE ORDEM PÚBLICA. NATUREZA PROCESSUAL. APLICAÇÃO IMEDIATA AOS PROCESSOS EM CURSO. COISA JULGADA. NÃO VIOLAÇÃO.
+1. É firme o entendimento nesta Corte, no sentido de que "a aplicação de juros e correção monetária pode ser alegada na instância ordinária a qualquer tempo, podendo, inclusive, ser conhecida de ofício. A decisão nesse sentido não caracteriza julgamento extra petita, tampouco conduz à interpretação de ocorrência de preclusão consumativa, porquanto tais institutos são meros consectários legais da condenação" (AgInt no REsp 1.353.317/RS, Rel. Ministro Og Fernandes, Segunda Turma, DJe 9.8.2017).
+2. No que diz respeito aos juros de mora, a Corte Especial do Superior Tribunal de Justiça assentou a compreensão de que a alteração do art. 1º-F da Lei 9.494/1997, introduzida pela Medida Provisória 2.180-35/2001, tem aplicação imediata aos processos em curso, incidindo o princípio do tempus regit actum.
+3. Ainda na linha de nossa jurisprudência, "A Primeira Seção do STJ, no julgamento do REsp 1.112.746/DF, afirmou que os juros de mora e a correção monetária são obrigações de trato sucessivo, que se renovam mês a mês, devendo, portanto, ser aplicadas no mês de regência a legislação vigente. Por essa razão, fixou-se o entendimento de que a lei nova superveniente que altera o regime dos juros moratórios deve ser aplicada imediatamente a todos os processos, abarcando inclusive aqueles em que já houve o trânsito em julgado e estejam em fase de execução. Não há, pois, nesses casos, que falar em violação da coisa julgada." (EDcl no AgRg no REsp 1.210.516/RS, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 25.9.2015).
+4. Agravo Interno não provido.
+(AgInt no REsp n. 1.967.170/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 27/6/2022, DJe de 29/6/2022.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. JUROS DE MORA E CORREÇÃO MONETÁRIA. PRECLUSÃO. NÃO OCORRÊNCIA. SÚMULAS 7 E 83 DO STJ. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. O Superior Tribunal firmou entendimento segundo o qual a aplicação de juros e correção monetária pode ser alegada na instância ordinária a qualquer tempo, podendo, inclusive, ser conhecida de ofício. A decisão nesse sentido não caracteriza julgamento extra petita, tampouco conduz à interpretação de ocorrência de preclusão consumativa, porquanto tais institutos são meros consectários legais da condenação (AgInt no REsp 1353317/RS, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 03/08/2017, DJe 09/08/2017), o que atrai a incidência da Súmula 83 do STJ, pois o Tribunal de origem decidiu que os juros de mora e a correção monetária, por constituírem consectários legais, podem ser alterados de ofício pelo órgão julgador a qualquer tempo e grau de jurisdição, não representando qualquer prejuízo para as partes, nem se submetendo à preclusão (fls. 396).
+2. O Tribunal de origem concluiu que o título executivo não havia fixado nenhum índice de juros moratórios e de correção monetária.
+Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o seguimento do recurso especial. Sendo assim, incide no caso a Súmula 7 do STJ, segundo a qual a pretensão de simples reexame de prova não enseja recurso especial.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.033.840/CE, relator Ministro Manoel Erhardt (Desembargador Convocado do Trf5), Primeira Turma, julgado em 27/6/2022, DJe de 30/6/2022.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. SEGURO HABITACIONAL. MULTA DECENDIAL. DESCABIMENTO DE JUROS MORATÓRIOS. QUESTÃO DE ORDEM PÚBLICA. PRECLUSÃO. NÃO OCORRÊNCIA. AGRAVO INTERNO DESPROVIDO.
+1. A jurisprudência desta Corte Superior é no sentido de que, enquanto não decididas, as questões de ordem pública, como a aplicação de correção monetária e de juros moratórios, podem ser conhecidas, inclusive de ofício, em qualquer tempo e grau de jurisdição ordinária, pois não sujeitas à preclusão temporal.
+Precedentes.
+2. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.943.595/SC, relator Ministro Raul Araújo, Quarta Turma, julgado em 13/12/2021, DJe de 1/2/2022.)
+PROCESSUAL. ADMINISTRATIVO. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. LIQUIDAÇÃO DE SENTENÇA. INCLUSÃO DOS EXPURGOS INFLACIONÁRIOS. POSSIBILIDADE
+1. Não caracteriza ofensa aos institutos da coisa julgada e da preclusão a inclusão dos expurgos inflacionários no cálculo da correção monetária, em conta de liquidação de sentença, ainda que essa questão não tenha sido ventilada ou debatida no processo de conhecimento. Precedentes.
+2. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no REsp n. 1.711.359/RJ, relator Ministro Og Fernandes, Segunda Turma, julgado em 25/4/2022, DJe de 5/5/2022.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AUSÊNCIA DE OMISSÃO. ART. 1.022 DO CPC. JUROS MORATÓRIOS. OFENSA À COISA JULGADA. INEXISTÊNCIA. EXECUÇÃO DE SENTENÇA. SÚMULA 83/STJ.
+1. Não se configurou a ofensa ao art. 1.022, do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, tal como lhe foi apresentada.
+2. O STJ possui o entendimento de que os juros de mora e a correção monetária são encargos acessórios da obrigação principal e devem ser incluídos na conta de liquidação, ainda que já homologado o cálculo anterior, inexistindo preclusão ou ofensa à coisa julgada por causa dessa inclusão.
+3. Dessume-se que o acórdão recorrido está em sintonia com o atual entendimento do STJ, razão pela qual incide, in casu, o princípio estabelecido na Súmula 83/STJ: "Não se conhece do Recurso Especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+4. Agravo Interno não provido.
+(AgInt no REsp n. 1.823.524/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 3/12/2019, DJe de 19/12/2019.)
+ANTE O EXPOSTO,conheço do agravo e dou provimento ao recurso especial, determinando o retorno dos autos à origem, a fim de que proceda na fixação doscritérios para a atualização monetária dos valoresdepositados pelo INCRA.
+Publique-se.
