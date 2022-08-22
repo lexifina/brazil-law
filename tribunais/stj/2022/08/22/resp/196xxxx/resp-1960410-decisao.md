@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de recurso especial interposto por MARIMEL ADMINISTRAÇÃO E PARTICIPAÇÕES LTDAfundamentadono art. 105, III, "a" e "c", da Constituição Federal, contra v. acórdão do Eg.Tribunal de Justiça do Estado do Tocantins, assim ementado:
+"REINTEGRAÇÃO DE POSSE. ÁREA DESTINADA A LOTEAMENTO. AUSÊNCIA DE POSSE DA PARTE AUTORA.EMENDA À INICIAL NO EVENTO 37 PARA ALTERAR O PEDIDO PARA REIVINDICATÓRIO. PEDIDO EFETUADO APÓS CITAÇÃO DE ALGUNS RÉUS. INDEFERIMENTO. ESTABILIZAÇÃO OBJETIVA DA LIDE. AUSÊNCIA DOS PRESUPOSTOS PROCESSUAIS DA AÇÃO POSSESSÓRIA. EXTINÇÃO DO PROCESSO SEM RESOLUÇÃO DO MÉRITO. ALEGAÇÃO DE CONSTITUTO POSSESSÓRIO. INOVAÇÃO RECURSAL. NÃO CONHECIMENTO NESSA PARTE. MANUTENÇÃO DA SENTENÇA.INTERVENÇÃO DO MINISTÉRIO PÚBLICO PELA MANUTENÇÃO DA SENTENÇA. RECURSO PARCIALMENTE CONHECIDO E, NESSA PARTE, IMPROVIDO.
+1. O autor poderá, até a citação, aditar ou alterar o pedido ou a causa de pedir, independentemente de consentimento do réu (art. 329, I, CPC). Do exame do processo no evento 24 percebe-se que os réus foram citados, os quais se manifestaram através de sua associação pelo não recebimento do aditamento da inicial.
+2. Alegação de que a associação não tem legitimidade para representar os associados pois atuam por representação e não por substituição processual.
+3. Entretanto, determinar o retorno dos autos para ouvir os réus, quando já se sabe de antemão que não vão concordar com a pretendida emenda e alteração do pedido é medida inócua, e que vai ao encontro do princípio da celeridade processual.
+4. O simples direito de propriedade, personificado no documento de domínio, sem provas do exercício de posse, não evidencia a observância dos requisitos indispensáveis para a ação possessória, de modo que o magistrado pode extinguir o feito sem resolução do mérito quando constatada a carência da ação.
+3. Alegação de constituto possessório e, ainda, sem a juntada da escritura pública que o prova, somente na fase recursal, constitui inovação recursal, que leva ao não conhecimento do recurso nesse ponto.
+5. Mantida a sentença de extinção sem resolução do mérito.
+Acatameto do parecer ministerial.
+6. Recurso parcialmente conhecido e, nessa parte, improvido."(e-STJ, fls. 1.060/1.061)
+Opostos embargos de declaração, foram rejeitados (e-STJ, fls.1.129/1.130)
+Nas razões do recurso especial, a parteagravante alega, além de dissídio jurisprudencial, violação dos arts. 259, III, 554, §1º, e 1.022, todos do CPC/15; e 1.267do CC, sustentado, em síntese: a) negativa de prestação jurisdicional; b) exercício de posse diante da existência do constituto possessório; e c)possibilidade de aditamento da inicial diante da ausência de citação de alguns dos réus da ação em tela.
+É o relatório. Decido.
+Inicialmente, não prospera a alegada ofensa ao art. 1.022 do Código deProcesso Civil de 2015, tendo em vista que o v. acórdão recorrido, emboranão tenha examinado individualmente cada um dos argumentos suscitados pelaparte, adotou fundamentação suficiente, decidindo integralmente acontrovérsia.
+É indevido conjecturar-se a existência de omissão, obscuridade oucontradição no julgado apenas porque decidido em desconformidade com osinteresses da parte. No mesmo sentido podem ser mencionados os seguintesjulgados: AgRg no REsp 1.170.313/RS, Rel. Min. LAURITA VAZ, DJe de12/4/2010; REsp 494.372/MG, Rel. Min. ALDIR PASSARINHO JUNIOR, DJe de29/3/2010, AgRg nos EDcl no AgRg no REsp 996.222/RS, Rel. Min. CELSOLIMONGI (Desembargador convocado do TJ/SP), DJe de 3/11/2009.
+No que se refere aoart. 1.267 do CC, verifica-se que taltesenão foiobjeto de debate pela colenda Corte a quo. Contrariamente, o TJTO foi hialino ao asseverar que "a alegação deconstituto possessório e, ainda, sem a juntada da escritura pública que o prova, somente na fase recursal, constitui inovação recursal, que leva ao não conhecimento do recurso nesse ponto".
+Dessemodo, ante a falta de prequestionamento, incidem as súmulas 282 e 356 doSupremo Tribunal Federal. De fato, não se extrai do acórdão recorridopronunciamento a respeito de controvérsia apoiada na normatividadedo dispositivo legal supostamente violado. Frise-se que ao STJ cabejulgar, em sede de recurso especial, conforme dicção constitucional,somente as causas decididas, em única ou última instância, pelos TribunaisRegionais Federais ou pelos Tribunais dos Estados, do Distrito Federal eTerritórios. Observa-se a incidência, pois, por analogia, dos óbices dasSúmulas 282 e 356 do STF.
+Por outro lado, como o acórdão recorrido está adequadamente fundamentado,não existe contradição em afastar a violação do art. 1.022 do CPC/15 e, aomesmo tempo, não conhecer do mérito por falta de prequestionamento. Nessatoada, veja-se o seguinte julgado:
+"PROCESSUAL CIVIL. AÇÃO DE COBRANÇA. CONTRATO CELEBRADO ENTRE AS PARTESDETERMINANDO O REPASSE DE 40% (QUARENTA POR CENTO) DO ADICIONAL DE TARIFAPORTUÁRIA POR SERVIÇOS PRESTADOS A NAVIOS COM CARGAS DE TERCEIROS.EMBARGOS CONSIDERADOS PROTELATÓRIOS PELO TRIBUNAL A QUO. INAPLICABILIDADEDA SÚMULA 98/STJ. OFENSA AO ART. 535 DO CPC NÃO CONFIGURADA. AUSÊNCIA DEPREQUESTIONAMENTO. SÚMULA 211/STJ. PROVA PRÉ-CONSTITUÍDA. SÚMULA 7/STJ.
+1. A solução integral da controvérsia, com fundamento suficiente, nãocaracteriza ofensa ao art. 535 do CPC.
+2. É inadmissível Recurso Especial quanto a questão que, a despeito daoposição de Embargos Declaratórios, não foi apreciada pelo Tribunal de
+origem. Incidência da Súmula 211/STJ.
+3. Inexiste contradição em afastar a violação do art. 535 do CPC e, aomesmo tempo, não conhecer do mérito do recurso por ausência deprequestionamento, desde que o acórdão recorrido esteja adequadamente
+fundamentado.
+4. É inaplicável a Súmula 98/STJ quando a reiteração de EmbargosDeclaratórios tem nítido caráter procrastinador.
+5. Considerando que a Corte Estadual firmou seu entendimento com base emdocumentos probatórios, qualquer posicionamento em contrário demandariareexame fático-probatório, vedado nos termos da Súmula 7/STJ.
+6. Agravo Regimental não provido"(AgRg no Ag 1098000/RJ, Rel. Min. Herman Benjamin, DJe 21.08.09)
+No mais, quanto à tese de possibilidade de aditamento da inicial diante da ausência de citação de alguns dos réus da ação,oTribunal de origem, assim dispôs:
+"Pois bem. Pretende a autora a alteração do pedido de possessório para petitório no evento 37, com o que não concordou a Associação dos Moradores do Loteamento, onde os réus dizem exercer a posse, e sobre o qual pende a controvérsia.
+É certo que a associação não tem poderes de representação dos associados porque age por representação e não por substituição processual, e a ação possessória envolve direitos individuais, pois a posse é exercida por indivíduos determinados e cada qual em seu lote.
+Como a sentença atacada extinguiu o feito sem resolução do mérito, com fundamento na ausência de interesse processual, entendo ser descipiendo o retorno dos autos à origem tão somente para ouvir os réus sobre a pretensão da emenda à inicial.
+Ora, é óbvio que ocorreu a citação de pelos menos alguns dos réus, ou seja, aqueles mencionados na inicial como se pode ver do evento 24, de modo que já ocorreu a estabilização objetiva da lide, e a parte autora/apelante não possui mais a faculdade de alterar o pedido para petitório, sem o consentimento dos réus.
+Qual então a utilidade de determinar o retorno dos autos à origem para ouvir os réus se é certo que não vão aceitar a alteração do pedido. A meu ver nenhuma." (e-STJ, fls. 358/359)
+Ocorre que a parte recorrente - nas razões do recurso especial - não rebateu de forma específica e suficiente a referida fundamentação, o que atrai, na hipótese, a incidência, por analogia, das Súmulas nº 283 e 284 do Supremo Tribunal Federal. Nesse sentido:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. SÚMULA Nº 7/STJ E NºS 283 E 284/STF. DEFICIÊNCIA NA COMPROVAÇÃO DA DIVERGÊNCIA.
+1. A ausência de impugnação dos fundamentos do aresto recorrido enseja o não conhecimento do recurso, incidindo, por analogia, o enunciado das Súmulas nºs 283 e 284 do Supremo Tribunal Federal.
+2. A reforma do julgado demandaria o reexame do contexto fático-probatório, procedimento vedado na estreita via do recurso especial, a teor da Súmula º 7 do Superior Tribunal de Justiça.
+3.A divergência jurisprudencial, nos ermos do art. 541, parágrafo único, do CPC e do art. 255, § 1º, do RISTJ, exige comprovação e demonstração, esta, em qualquer caso, com a transcrição dos julgados que configurem o dissídio, a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações, o que não restou evidenciado na espécie.
+4. Agravo regimental não provido." (AgRg no AREsp 293.137/MS, Rel.
+Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, , julgado em 21/10/2014, DJe 29/10/2014)
+Nesse diapasão, o presente recurso não merece trânsito pela alínea "a" nem pela alínea "c" do permissivo constitucional.
+Diante do exposto, nos termos do art. 255, § 4º, II, do RISTJ, negoprovimento ao recurso especial.
+Com fulcro no art. 85, § 11, do CPC, majoro os honorários fixados no acórdão estadual na proporção de 1% (um por cento).
+Publique-se.
