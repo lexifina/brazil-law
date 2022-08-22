@@ -1,0 +1,5 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por INSTITUTO BRASILEIRO DO MEIO AMBIENTE E DOS RECURSOS NATURAIS RENOVÁVEIS -IBAMA, no qual se discute o desacerto do v. acórdão que afastou a legitimidade ativa do agravante para propositura de Ação Civil Pública em matéria ambiental.
+Nesse sentido, alega que o v. acórdão incorreu em violação aos artigos 5º, IV, da Lei n. 7.347/1985, 2º, VIII, e 6º, IV, da Lei n. 6.938/1981, por entender que, no caso, possui, de forma inequívoca, legitimidade para buscar a reparação ambiental por via de Ação Civil Pública (ACP), mormente quando versar sobre reparação de dano ambiental.
+Por tratar de matéria de direito público, a apreciação do presente recurso foge à competência desta 2ª Seção, a teor do que dispõe o art. 9º, § 1º, XIV, do RISTJ.
+Assim sendo, determino a remessa dos autos à Coordenadoria de Análise e Classificação de Temas Jurídicos e Distribuição de Feitos - CTJU, para a redistribuição dos autos a uma das Turmas da 1ª Seção deste Tribunal.
