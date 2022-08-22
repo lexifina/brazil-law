@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por SILVIO ADAO DE LIMA à decisão de fls. 332/333, que não conheceu do recurso.
+Sustenta a parte embargante que:
+Aponta a R decisão que intimada no tribunal de origem 02/06/2021, tendo-o ao recurso especial proposto em 26/06/2021.
+Inicialmente, consigna que o calendário entre este período ocorreu ao feriado que na data cai no dia 3 de junho, feriado de Corpus Christi 2021 (fl. 335).
+Pois bem, ainda que sendo ou não feriado nacional, insta observar que o referido recurso ora proposta situa-se advindo de períodos atípicos para os estabelecimentos comerciais, bem como aos órgãos judiciais ante tal situação em a questão pública de saúde, datado entre a Covid-19.
+Justamente em este sombreamento, no que o ocorrendo ao feriado de Corpus Christi 2021 nos Tribunais nos tribunais pátrios, eis que na quinta-feira, no período recursal dia 03/06, como de costume muitos tribunais suspenderem o expediente na sexta-feira, dia 04/06.
+Cumpre destacar que o TJSP, ou seja, a origem recursal no tramite processual sendo 3/6 feriados, bem como 4/6 ocorreu-se a Suspensão do expediente, justamente pela Emenda de feriado - Provimento CSM 2.584/2020, ao seguinte teor: (fl. 336).
+ ..
+Por consequência, que o estando a publicação intimado no TJSP de origem em 02/06/2021, sendo 03 e 04 de junho feriado e a Suspensão do expediente.
+Destarte que, sendo-o ao primeiro dia útil subsequente e demais ao seguimento, no que:
+07/11 de junho:
+14/18 de junho 21/25 de junho/2022
+No entanto, nota-se que o respectivo recurso fora proposto e protocolizado no dia "25/06/2021", na vara de origem pelo sistema integrado do TJSP, conforme fls 282 dos respectivos autos.
+Da mesma forma que ao receber o Recurso especial o TJ em sua origem analisou-se ao mesmo, em ato continuo chamando a parte adversa a sua apresentação pelas contrarrazões fls 292 (fl. 337).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Quanto à tempestividade do recurso, impende esclarecer que o marco temporal de aplicação do Código de Processo Civil de 2015 é a intimação do decisum recorrido que, no presente caso, foi realizada sob a égide do novo codex Processual.
+Assim, nos termos do Enunciado Administrativo n. 3 do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC", em observância ao princípio do tempus regit actum, ou seja, no presente caso aplicam-se as regras do Código de Processo Civil de 2015.
+Veja-se que houve a disponibilização da decisão do acórdão recorrido em 1º/6/2021, considerando-se publicada em 2/6/2021 (fl. 280). Excluindo-se o dia 2/6/2021 (primeiro dia), inicia-se a contagem no dia 3/6/2021, finalizando o prazo no dia 23/6/2021.
+Dessa forma, o prazo recursal de 15 (quinze) dias úteis, nos termos art. 994, VI, c/c os arts. 1.003, § 5º, 1.029, e 219, caput, todos do Código de Processo Civil, terminou no dia 23/6/2021, sendo que o recurso especial foi interposto somente em 25/6/2021, fora do prazo.
+Registre-se que os feriados nacionais não precisam ser comprovados. Porém, os dias 3/6/2021 e 4/6/2021 são supostamente feriados locais, razão pela qual deveriam ter sido comprovados no momento da interposição do recurso.
+Observe ainda que, em razão da pandemia relativa à COVID-19, os prazos processuais foram suspensos no período de 19/3/2020 a 14/6/2020, conforme Resoluções do CNJ n. 313/2020 e 322/2020, voltando a fluírem, para os processos físicos, em 15/6/2020. Desse modo, a suspensão dos prazos, no Tribunal de origem, fora do período mencionado, deveria ter sido comprovada no momento da interposição do recurso.
+A propósito: AgRg no AREsp 1774897/PB, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 28/06/2021; AgInt no AREsp 1724837/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, Dje de 16/06/2021; AgInt no AREsp 1756715/SP, relator Ministro Marco Buzzi, Quarta Turma, DJe de 04/06/2021; AgInt no AREsp 1757717/RJ, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 13/05/2021.
+Outrossim, registre-se que "o juízo de admissibilidade do recurso especial é bifásico, de modo que qualquer pronunciamento do Tribunal de origem acerca da tempestividade recursal não vincula esta Corte Superior, a quem compete analisar, em definitivo, o preenchimento dos requisitos de admissibilidade do recurso especial". (AgInt nos EDcl no AREsp 1703604/DF, relator Ministro Marco Buzzi, Quarta Turma, DJe de 04/03/2022.)
+Do mesmo modo, certidão lavrada por servidor público ou pelo sistema, nos autos do processo, atestando a tempestividade do recurso, não impede o reexame desse requisito pelo STJ. Nesse sentido, o AgInt no AREsp 2017110/ES, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 24/03/2022; AgInt no AREsp 1734860/PR, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 24/02/2022; e o AgInt no AREsp 1931827/PR, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 02/12/2021.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
