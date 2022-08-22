@@ -1,0 +1,72 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 16/08/2022 a 22/08/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por ERICSON DILAY contra acórdão assim ementado:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. NÃO OBSERVÂNCIA DO PRAZO DE 5 DIAS PREVISTO NO ART. 1.023 DO CPC/2015. RECONHECIMENTO DA INTEMPESTIVIDADE DOS EMBARGOS. DECISÃO QUE SEGUE MANTIDA. ADEQUAÇÃO DA DECISÃO AGRAVADA. AGRAVO INTERNO DESPROVIDO.
+Nos embargos de declaração, oembargantealegou, essencialmente, "tanto o primeiro recurso quanto o segundo, ambos são exatamente iguais. Ambos são Agravo Interno, na forma, nas razões, no conteúdo, na fundamentação e no pedido, portanto, data vênia máxima, não há que se falar que não se trata de Agravo Interno e também que ele -o Agravo -é tempestivo" (e-STJ Fl. 695).
+Intimada, oembargado apresentou impugnação ao recurso (fls. 701/706).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ERRO MATERIAL NO JULGAMENTO DO AGRAVO INTERNO. NECESSIDADE DE REJULGAMENTO DO RECURSO.NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. INCIDENTE DE UNIFORMIZAÇÃO DE JURISPRUDÊNCIA. NÃO CABIMENTO.
+EMBARGOS DE DECLARAÇÃO ACOLHIDOS PARA CORRIGIR ERRO MATERIAL E REJULGAR O AGRAVO INTERNO, NEGANDO PROVIMENTO AO RECURSO.
+VOTO
+Eminentes Colegas, os presentes embargos merecem seracolhidos.
+Nos rígidos limites do art. 1.022, incisos I, II e III do Código de Processo Civil/2015, os embargos de declaração se prestam a esclarecer obscuridade ou eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado e, excepcionalmente, atribuir-lhe efeitos infringentes quando algum desses vícios for reconhecido.
+A propósito, colhem-se os seguintes precedentes:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO. EMBARGOS PARCIALMENTE ACOLHIDOS APENAS PARA SANAR ERRO MATERIAL.
+1. Os embargos de declaração objetivam sanar eventual existência de obscuridade, contradição, omissão e/ou erro material no julgado (CPC, art. 1022), sendo inadmissível a oposição para rediscutir questões tratadas e devidamente fundamentadas no acórdão embargado, mormente porque não são cabíveis para provocar novo julgamento da lide.
+2. Embargos de declaração parcialmente acolhidos.
+(EDcl no AgInt no AREsp 1488352/PE, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 10/08/2020, DJe 13/08/2020)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO, OBSCURIDADE, CONTRADIÇÃO OU ERRO MATERIAL. PRETENSÃO DE REDISCUSSÃO DA MATÉRIA.IMPOSSIBILIDADE. APLICAÇÃO DA MULTA PREVISTA NO ART. 1.026, § 2º, DO CPC/2015. NÃO ACOLHIMENTO. MAJORAÇÃO DE HONORÁRIOS RECURSAIS.DESCABIMENTO. EMBARGOS REJEITADOS.
+1. O acórdão embargado solucionou as questões deduzidas no processo de forma satisfatória, sem incorrer nos vícios de obscuridade, contradição, omissão ou erro material com relação a ponto controvertido relevante, cujo exame pudesse levar a um diferente resultado na prestação de tutela jurisdicional, pretendendo a parte, na verdade, a rediscussão do julgado, o que não autoriza a oposição dos embargos.
+2. Não identificado o caráter protelatório dos aclaratórios, não há como acolher o pedido de aplicação da penalidade prevista no art. 1.026, § 2º, do CPC/2015.
+3. A jurisprudência desta Corte Superior não admite a majoração de honorários de sucumbência por ocasião do julgamento de agravo interno ou embargos de declaração.
+4. Embargos de declaração rejeitados.
+(EDcl no AgInt nos EDcl no AREsp 1395756/ES, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 28/10/2019, DJe 05/11/2019)
+Na espécie, de fato, constato a existência de erro no acórdão embargado, pois verifica-se que apesar da Petição de e-STJ Fls. 556/577ter sido autuada nesta Corte como Embargos de Declaração, trata-se, na realidade, de Agravo Interno,de modo que passo a rejulgar o agravo interno de fls. 556/577.
+Eis os argumentos apresentados peloembargantequanto da interposição do agravo interno: (I) negativa de prestação jurisdicional, eis que, o acórdão recorrido não teria se manifestado sobre a tese de que a decisão proferida pela Corte de origem teria divergidodo entendimento do STJ quanto à correta aplicação doartigo 942 do Código Civil; (II) "No humilde entender do ora embargante, embora não de forma vinculante, mas a Reclamação também é um modo de uniformização".
+Entretanto, não vislumbro a possibilidade de reforma da decisão monocrática.
+Reitero o entendimento manifestado na decisão agravada no sentido de quenão justifica a alegação de violação ao artigo 489, e, 1.022, do CPC/2015, uma vez que ocorreu pronunciamento efetivo e claro sobre as questões postas. Ademais, o juiz não está obrigado a responder um a um os argumentos levantados pelas partes.
+Nesse sentido:
+ADMINISTRATIVO. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA. CONTRATO. DESEQUILÍBRIO ECONÔMICO-FINANCEIRO. QUANTUM DEBEATUR. COISA JULGADA. ALEGAÇÃO DE OFENSA AO ART. 535 DO CPC. OMISSÃO NÃO VERIFICADA. PRETENSÃO DE EFEITOS MODIFICATIVOS. IMPOSSIBILIDADE.
+1. Os embargos de declaração destinam-se a suprir omissão, afastar obscuridade ou eliminar contradição existente no julgado, o que não ocorre na hipótese em apreço.
+2. O acórdão embargado foi claro ao afirmar que não houve violação dosarts. 165, 458 e 535 do Código de Processo Civil, uma vez que o Tribunal de origem, mesmo sem ter examinado individualmente cada um dos argumentos trazidos pela ora embargante, adotou fundamentação suficiente para decidir de modo integral a controvérsia.
+3. Segundo a jurisprudência do Superior Tribunal de Justiça, o magistrado não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo bastante para proferir a decisão.
+4. Na espécie, o que se pretende, nesta via, é emprestar efeito infringente ao recurso, para que seja rediscutido o mérito da questão, providência incompatível com a sua natureza.
+5. Embargos de declaração rejeitados.
+(EDcl no REsp 1096906/PR, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 19/11/2013, DJe 29/11/2013)
+PROCESSUAL CIVIL. AUSÊNCIA DE VIOLAÇÃO DOS ARTS. 165, 458 E 535 DO CPC. PREPARO. INTIMAÇÃO. ADVOGADO SUBSTABELECIDO. POSSIBILIDADE. AUSÊNCIA DE INDICAÇÃO DE PUBLICAÇÃO EM NOME DE DETERMINADO PROCURADOR. NULIDADE. INEXISTENTE. SÚMULA 83/STJ.
+1. Inexistente a alegada violação dos arts. 535, II, 458 e 165 do CPC, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, conforme se depreende da análise do acórdão recorrido.
+2. Na verdade, a questão não foi decidida conforme objetivava a agravante, uma vez que foi aplicado entendimento diverso. É cediço que o juiz não fica obrigado a manifestar-se sobre todas as alegações das partes, nem a ater-se aos fundamentos indicados por elas, ou a responder, um a um, a todos os seus argumentos, quando já encontrou motivo suficiente para fundamentar a decisão, o que de fato ocorreu.
+3. A Corte Especial firmou entendimento no sentido de que "havendo mais de um advogado constituído, é válida a intimação feita em nome de qualquer deles, independentemente da sede de sua atuação profissional, desde que não haja pedido expresso no sentido de que seja realizada em nome de terminado patrono"(AgRg nos EREsp 700.245/PE, Rel. Ministra Laurita Vaz, Corte Especial, julgado em 2/8/2010, DJe 23/8/2010). Precedentes.
+Agravo regimental improvido.
+(AgRg no AREsp 288.708/SP, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 21/03/2013, DJe 02/04/2013)
+No que se refere ao disposto no art. 492 do CPC/2015, o recurso especial não pode ser conhecido, uma vez que o Tribunal de origem não emitiu juízo de valoracerca da matéria regulada nesse dispositivo, mesmo com a oposição dos embargos de declaração, o que atrai o óbice da Súmula 211/STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. 1. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211 DO STJ. 2. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283 DO STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. 3. DISSÍDIO JURISPRUDENCIAL. SIMILITUDE FÁTICA NÃO DEMONSTRADA. SÚMULA 7 DO STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. 4. AGRAVO INTERNO IMPROVIDO.
+1. A inexistência de debate prévio da matéria suscitada no recurso especial, a despeito da oposição de embargos de declaração, impede o conhecimento do recurso, diante da incidência da Súmula n. 211 do STJ.
+2. O Superior Tribunal de Justiça reputa inadmissível o recurso especial que não impugna fundamento autônomo e suficiente à manutenção do aresto recorrido (Súmula 283 do STF).
+3. Alterar a conclusão do acórdão impugnado, no que se refere ao cerceamento de defesa e à falta de nexo de causalidade entre a conduta da agravada e a configuração do dano moral na espécie, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7 do STJ.
+4. A análise do dissídio jurisprudencial fica prejudicada em razão da aplicação do enunciado da Súmula n. 7 do STJ, porquanto não é possível encontrar similitude fática entre o aresto combatido e os acórdãos paradigmas, uma vez que as suas conclusões díspares ocorreram, não em virtude de entendimentos diversos sobre uma mesma questão legal, mas, sim, de fundamentações baseadas em fatos, provas e circunstâncias específicas de cada processo.
+5. Agravo interno improvido.
+(AgInt no AREsp 1433307/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 20/05/2019, DJe 24/05/2019)
+Por fim, no que interessa ao julgamento do feito, quanto à tese de que artigo 988 do CPC/2015 não tem aplicação cogente e que este artigo não poderia ter sido aplicado ao caso concreto, mas sim o artigo 926, pois, "não trata de típica Reclamação, mas sim, de pedido de uniformização", melhor sorte não socorre aorecorrente.
+Destarte, como registrado na decisão recorrida,o STJ já possui entendimento de não ser cabível pedido de instauração de incidente de uniformização de jurisprudência, conforme consignado no voto do Ministro Gurgel de Faria, no AgInt no RMS 44643/RJ, no qual, peço vênia para transcrição do seu voto que bem ilustra a controvérsia em debate, verbis:
+"Com efeito, além de os arts. 118 e 119 do RISTJ terem sido revogados pela Emenda Regimental n. 22 de 2016, os arts. 926 a 928 do CPC/2015, não obstante tragam disposições gerais sobre a ordem dos processos nos Tribunais - destacando a necessidade de serem respeitadas a uniformidade, estabilidade, integridade e coerência da jurisprudência -, não estabelecem nenhum incidente de uniformização de jurisprudência. Note-se que o incidente em comento tinha previsão no art. 476 do CPC/1973, sendo certo que não era possível a sua utilização apenas como meio de reforma de decisão jurisdicional, como ocorre jn casu. Nesse sentido: AgInt no AREsp 618698/SC, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe 10/02/2017.
+Noutro giro, na nova sistemática processual, há a previsão apenas do Incidente de Assunção de Competência (art. 947), cabível quando o julgamento de recurso, de remessa necessária ou de processo de competência originária, envolver relevante questão de direito, com grande repercussão social, sem repetição em múltiplos processos. Nessa hipótese, verifica-se também que o instituto não pode ser utilizado apenas com o objetivo de reforma da decisão atacada.
+Assim, não há como ser acolhido o pedido em comento".
+Segue a ementa do referido julgado:
+PROCESSUAL CIVIL E ADMINISTRATIVO. INCIDENTE DE UNIFORMIZAÇÃO DE JURISPRUDÊNCIA. NÃO CABIMENTO. SERVIDOR PÚBLICO. PROCESSO DISCIPLINAR. SANIDADE MENTAL. INEXISTÊNCIA DE DÚVIDA RAZOÁVEL. INSTAURAÇÃO DE INCIDENTE. NÃO OBRIGATORIEDADE. PROVA EMPRESTADA. POSSIBILIDADE.
+1. Na atual sistemática processual não há previsão para a instauração de incidente de uniformização de jurisprudência. Além de os arts. 118 e 119 do RISTJ terem sido revogados pela Emenda Regimental n. 22 de 2016, os arts.926 a 928 do CPC/2015, não obstante tragam disposições acerca da necessidade de serem respeitadas a uniformidade, estabilidade, integridade e coerência da jurisprudência, não estabelecem nenhum incidente de uniformização.
+2. Consoante entendimento desta Corte, não havendo dúvida razoável acerca da sanidade mental do servidor, não está a comissão processante obrigada a instaurar o incidente.
+3. Hipótese em que a questão foi efetivamente submetida à autoridade superior, que concluiu não haver dúvida razoável acerca da sanidade mental do acusado, motivo pelo qual indeferiu o pedido de instauração do incidente.
+4. Pelos mesmos fatos apurados no processo administrativo disciplinar, o servidor respondeu a processo criminal onde prestou normalmente seus depoimentos, sendo certo que naquela sede não houve nenhuma arguição de sua inimputabilidade ou requerimento de instauração de incidente de sanidade mental.
+5. Admite-se, no processo administrativo disciplinar, a utilização de prova emprestada, extraída de feito em curso na esfera criminal, não havendo que se falar em óbice à utilização de tal prova pela Comissão Processante. Precedentes.
+6. Agravo interno desprovido.
+(AgInt no RMS 44.643/RJ, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 03/10/2017, DJe 29/11/2017)
+Nesse contexto, a decisão recorrida deve ser mantida pelos seus próprios fundamentos, porquanto mantida a validade dos argumentos que a sustentam, uma vez que não foram trazidos elementos aptos a desconstituí-la.
+Advirta-se que eventual recurso interposto contra este decisum estará sujeito às normas do CPC/2015 (cf. Enunciado Administrativo n. 3/STJ), inclusive no que tange à aplicação de multa (art. 1.021, § 4º, e 1.026, § 2º, do CPC/2015).
+Ante o exposto, acolho os embargos de declaração para corrigir o erro material e rejulgar o agravo interno, negando-lheprovimento.
+É o voto.
