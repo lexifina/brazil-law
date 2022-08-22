@@ -1,0 +1,75 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 16/08/2022 a 22/08/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Luis Felipe Salomão, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+Trata-se de agravo interno interposto por ESPÓLIO DE MOZART IVO DE PAULA e MARIA APARECIDA DE PAULA contra decisão desta Relatoria (fls. 381/383), que conheceu do agravo e negou provimento ao recurso especial devido à incidência da Súmula n. 283/STF.
+Nas razões do agravo interno, alega-se que "(..) para que não haja decisões conflitantes, pugna ao Ministro Relator, Raul Araújo, que use o seu poder de diligência e envie os referidos recursos ao Ministro prevento" (fl. 346).
+Afirma-se que o "(..) prejuízo dos recorrentes vem se prolatando no tempo, isto porque já foi informado no AREsp 1.197.593/SP, de relatoria do Ministro Ricardo Villas Bôas, o que se segue, sobre A FALTA DE CITAÇÃO DOS HERDEIROS: (..) " (fl. 346).
+Destaca-se que "Ora Excelências, o que se verifica dessa decisão é que o processo não foi lido pelo Julgador, haja vista que o prejuízo é imensurável, até porque os embargos de declaração contido no e-STJ fls. 59/85, requereu ao juiz o esclarecimento sobre a determinação de ofício, que decretou a demarcação das terras do espólio, totalmente ilegal, até porque o Código de Processo Civil não determina que juiz possa, de ofício, determinar demarcação de terras, pois cabe as partes adentrar com essa ação demarcatória" (fl. 393).
+Ressalta-se que "Veja-se que no transcorrer do próprio recurso foi determinada a adjudicação das terras do espólio e, se isso não é prejuízo as partes, o que o RELATOR CONSIDERA QUE NÃO HOUVE PREJUÍZO " (fl. 393).
+Registra-se que "Em relação aos fundamentos do v. acórdão estadual, o recorrente impugnou-os, ponto por ponto, nos embargos de declaração (e-STJ fls.59/85), no recurso especial (e-STJ fls. 139/160), e no agravo em recurso especial (e-STJ fls. 212/228), demonstrando, mais uma vez, que os recursos não foram lidos" (fl. 393).
+Ao final, pleiteia-se a reconsideração da decisão agravada ou, se mantida, que o presente recurso seja levado a julgamento perante a eg. Quarta Turma do STJ.
+Intimado, o agravado não apresentou impugnação (certidão de fl. 421).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. ART. 71 DO RISTJ. PREVENÇÃO. NULIDADE RELATIVA. PRECLUSÃO. FUNDAMENTOS DO ACÓRDÃO ESTADUAL NÃO IMPUGNADOS. SÚMULA 283/STF. AGRAVO INTERNO DESPROVIDO.
+1. "A não observância da regra de prevenção contida no art. 71 do RISTJ gera apenas nulidade relativa, de modo que, caso não seja reconhecida de ofício, deve ser suscitada até o início do julgamento do recurso pelo colegiado ou monocraticamente pelo relator, sob pena de preclusão, nos termos do § 4º do citado artigo" (AgRg no AREsp 579.503/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 18/6/2015, DJe 5/8/2015).
+2. A ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do acórdão estadual atrai, por analogia, o óbice da Súmula 283 do STF.
+3. Agravo interno a que se nega provimento.
+VOTO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+O recurso não merece prosperar, pois não foram apresentados argumentos aptos a modificar a decisão vergastada.
+Em sede preliminar, os agravantes destacam que haveria prevenção do em. Ministro Ricardo Villas Bôas Cuevas para julgar os processos relacionados ao Espólio de Mozart Ivo de Paula, razão pela qual a decisão de fls. 381/383 seria nula. Ocorre, todavia, que a prevenção mencionada gera nulidade meramente relativa e incumbiria à parte interessada suscitá-la na primeira oportunidade, antes de ser proferida a decisão colegiada ou monocrática. Na hipótese, a parte agravante aguardou a referida decisão unilateral ser prolatada para arguir a prevenção, o que, no entanto, fora feito tardiamente, pois preclusa a oportunidade processual.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. INOBSERVÂNCIA DA REGRA DE PREVENÇÃO DO RELATOR. NULIDADE RELATIVA. AUSÊNCIA DE PREJUÍZO. REMIÇÃO DA PENA. ART. 126, § 1º, DA LEP. ALEGAÇÃO DE PREENCHIMENTO DOS REQUISITOS NECESSÁRIOS PARA A CONCESSÃO DO BENEFÍCIO. NECESSIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE DE ANÁLISE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. "A não observância da regra de prevenção contida no art. 71 do RISTJ gera apenas nulidade relativa, de modo que, caso não seja reconhecida de ofício, deve ser suscitada até o início do julgamento do recurso pelo colegiado ou monocraticamente pelo relator, sob pena de preclusão, nos termos do § 4º do citado artigo (AgInt no AREsp 1.728.016/DF, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 18/5/2021, DJe 24/5/2021). No mesmo sentido: AgRg no AREsp 152.354/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 18/9/2012, DJe 1º/10/2012.
+2. Ademais, a defesa não conseguiu demonstrar qual seria o prejuízo suportado pelo réu para se declarar a referida nulidade. Segundo se infere, ambas as Turmas deste Tribunal Superior compartilham o entendimento de que "o óbice destacado encontra respaldo no entendimento firmado pelo Superior Tribunal de Justiça, segundo o qual " a  remição de pena pelo estudo, nos termos do art. 126, § 2º, da Lei de Execução Penal, depende da certificação do curso frequentado pelas autoridades educacionais competentes, por meio de documento idôneo, a fim de cumprir os requisitos exigidos na Recomendação n. 44 do Conselho Nacional de Justiça" (AgRg no HC n. 460.196/SP, Rel. Ministro Jorge Mussi, 5ª T., DJe 1º/7/2019)." (RCD no HC 641.814/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 22/06/2021, DJe 28/06/2021).
+3. O art. 126 da Lei de Execução Penal permite ao condenado que cumpre pena em regime fechado ou semiaberto remir, por estudo, parte do tempo de execução da pena, determinando que a contagem do tempo seja feita à razão de 1 dia de pena a cada 12 horas de frequência escolar.
+4. Na hipótese, como bem observado pelo Tribunal a quo, o Instituto Universal Brasileiro - IUB não é instituição autorizada ou conveniada com o Poder Público, conforme exigência prevista na Recomendação n. 44/2013 do Conselho Nacional de Justiça, o que está de acordo com a jurisprudência desta Corte Superior. Outrossim, a defesa não se desincumbiu de demonstrar a carga horária de efetivo estudo realizado pelo executado, a forma como os cursos foram ministrados e o método de avaliação.
+5. Rever o entendimento adotado pela instância ordinária e decidir de forma contrária, demandaria revolvimento fático-probatório, inviável na estreita via do habeas corpus. Precedentes.
+6. Agravo regimental não provido.
+(AgRg no HC n. 578.765/SC, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 13/10/2021.)
+PROCESSUAL CIVIL. TRIBUTÁRIO. EXECUÇÃO FISCAL. HONORÁRIOS PERICIAIS. RATEIO ENTRE AS PARTES. ACÓRDÃO RECORRIDO. EXISTÊNCIA DE OMISSÃO QUANTO À ALEGAÇÃO DE NULIDADE POR INCOMPETÊNCIA. EMBARGOS ACOLHIDOS SEM EFEITOS MODIFICATIVOS.
+I - Na origem, trata-se de agravo de instrumento interposto contra a decisão do Juízo da 2ª Vara Cível de Alfenas que, em processo de execução fiscal, determinou de ofício o pagamento de honorários periciais pelo agravante. No Tribunal a quo, julgou-se procedente o recurso, ficando consignado que a perícia determinada de ofício fosse rateada entre as partes. Esta Corte conheceu do agravo para negar provimento ao recurso especial.
+II - De fato, a matéria relacionada à suposta nulidade em razão de incompetência por suposta prevenção não foi analisada no julgamento do agravo interno. Passa-se a tratar da alegação.
+III - Inicialmente, salienta-se que a alegação de prevenção deve ocorrer até o julgamento do recurso (AgRg nos EDcl no RMS 37.989/DF, relator Ministro Sidnei Benetti, Terceira Turma, julgado em 28/5/2013, DJe 17/6/2013). No caso, a parte não alegou a existência de suposta prevenção nas razões do agravo em recurso especial.
+IV - Além disso, segundo entendimento desta Corte, a competência interna do Superior Tribunal de Justiça tem natureza relativa, não caracterizando nenhuma nulidade a inobservância da suposta prevenção, caso houvesse (AgInt nos EREsp 1.382.576/MS, relator Ministro Napoleão Nunes Maia Filho, Corte Especial, julgado em 11/6/2019, DJe 14/6/2019.) V - Por fim, tem-se que o exercício da atribuição de análise dos pressupostos de conhecimento do recurso especial pela Presidência desta Corte é prévio à distribuiçã o, não importando em nulidade porquanto fundamentada no regimento interno desta Corte.
+VI - Não se verifica, portanto, a existência de qualquer nulidade na decisão ora embargada.
+VII - Embargos de declaração parcialmente acolhidos para sanar omissão, sem efeitos modificativos, nos termos da fundamentação.
+(EDcl no AgInt no AREsp n. 1.625.515/MG, relator Ministro Francisco Falcão, Segunda Turma, DJe de 25/6/2021.)
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO (ART. 544 DO CPC/1973) - AÇÃO INDENIZATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO EM RAZÃO DA INCIDÊNCIA DA SÚMULA 281 DO STF. IRRESIGNAÇÃO DO AUTOR.
+1. "A não observância da regra de prevenção contida no art. 71 do RISTJ gera apenas nulidade relativa, de modo que, caso não seja reconhecida de ofício, deve ser suscitada até o início do julgamento do recurso pelo colegiado ou monocraticamente pelo relator, sob pena de preclusão, nos termos do § 4º do citado artigo" (AgRg no AREsp 579.503/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 18/06/2015, DJe 05/08/2015).
+Assim, considerando que a aludida incompetência não fora alegada em momento oportuno, antes de prolatado o decisum monocrático, operou-se a prorrogação da competência. Precedentes.
+2. Na hipótese em são opostos embargos de declaração contra decisão monocrática, sendo estes julgados pelo órgão colegiado e não havendo pronunciamento sobre o mérito da apelação, resta configurado o não exaurimento de instância. Precedentes.
+3. Agravo regimental desprovido.
+(AgRg nos EDcl no AREsp n. 371.098/RS, relator Ministro Marco Buzzi, Quarta Turma, DJe de 5/10/2016).
+No mérito, a decisão deve ser mantida pelos seus próprios fundamentos.
+Segundo os agravantes, o recurso especial teria impugnado todos os fundamentos contidos no v. acórdão estadual. Ressaltam que o prejuízo decorreria da própria adjudicação das terras do espólio.
+Contudo, como registrado na decisão combatida, o eg. TJ-SP não conheceu do agravo de instrumento manejado pelos recorrentes, sob os seguintes fundamentos: (i) falta de pertinência do recurso com a decisão; (ii) a matéria relativa à inexistência de publicação da decisão sequer foi comunicada ao juízo a quo para o exaurimento de instância; e (iii), ausência de prejuízo aos recorrentes, que se manifestaram satisfatoriamente. Para fins demonstrativos, colacionam-se os seguintes trechos do v. acórdão objurgado (fls. 114/115):
+Muito embora aleguem os agravantes que a r. decisão recorrida não fora publicada no diário oficial, motivo pelo qual devem ser declarados nulos todos os atos processuais posteriores a ela, razão não lhes assiste. Primeiro porque o recurso deve guardar pertinência com a decisão recorrida, o que não se observa no presente caso, carecendo aos agravantes interesse recursal. Outrossim, saliente-se, por oportuno, que este E. Tribunal é órgão jurisdicional de revisão, não lhe sendo dado pronunciar-se acerca de questões não aventadas previamente em primeira instância.
+Nota-se que os recorrentes sequer levaram a conhecimento do MM. Juízo a quo a suposta ausência de publicação da r. decisão recorrida, para que se viabilizasse possível correção do equívoco por parte da serventia.
+Logo, o presente recurso não pode se prestar a anular atos praticados em primeira instância que sequer foram levados a conhecimento do MM. Juiz de Direito previamente. Ainda que assim não fosse, partindo da premissa de que a r. decisão não tenha sido, de fato, publicada na imprensa oficial, verifica-se que os atos que lhe sucederam não causaram qualquer prejuízo concreto aos agravantes. Em pesquisa extraída do "site" deste E. Tribunal de Justiça, infere-se a prolação das decisões que seguem, após a r. interlocutória agravada:
+(..)
+Portanto, não havendo prejuízo efetivo para os agravantes, não há nulidade a ser reconhecida.
+Ora, como registrado na decisão objurgada, da leitura minudente do recurso especial é possível verificar que os recorrentes não impugnaram quaisquer dos fundamentos contidos no v. acórdão estadual e acima delineados. Em verdade, o apelo nobre foi apenas no sentido de que a decisão não foi publicada. Apenas neste momento processual, em sede de agravo interno, é que foram apresentadas as referidas impugnações. Tal situação, portanto, é incapaz de afastar a Súmula n. 283/STF.
+Com efeito, no caso em que remanesce fundamento autônomo suficiente para manter o julgado, o recurso especial esbarra na Súmula n. 283/STF (AgInt no AREsp 1329238/SP, Rel. MinistroMARCO BUZZI, QUARTA TURMA, julgado em 9/3/2020, DJe 16/3/2020).
+Citam-se, ainda, os seguintes escólios:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO RECORRIDA. SÚMULA N. 283/STF.
+1. A não impugnação específica dos fundamentos da decisão recorrida suficientes para mantê-la enseja o não conhecimento do recurso. Incidência da Súmula n. 283 do STF.
+2. Agravo regimental não conhecido.
+(AgRg no AREsp 504.239/SC, TERCEIRA TURMA, Rel. Ministro JOÃO OTÁVIO DE NORONHA, julgado em 20/11/2014, DJe 25/11/2014)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. AFRONTA AO ART. 330, I, DO CPC. FUNDAMENTO INATACADO. SÚMULA Nº 283/STF. JULGAMENTO ANTECIPADO. PROVAS SUFICIENTES. NECESSIDADE DE REEXAME DO ACERVO FÁTICO-PROBATÓRIO. SÚMULA Nº 7/STJ. DECISÃO MANTIDA.
+1. A subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado, impõe o não conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula nº 283/STF.
+ ..
+3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 570.204/GO, QUARTA TURMA, Rel. Ministro LUIS FELIPE SALOMÃO, julgado em 20/11/2014, DJe 26/11/2014)
+PROCESSUAL CIVIL.  ..  PRECLUSÃO TEMPORAL. FUNDAMENTO INATACADO. SÚMULA 283/STF.
+ ..
+4. A falta de combate a fundamentos que embasaram o aresto impugnado, suficientes para mantê-lo, acarreta a incidência ao recurso especial do óbice da Súmula 283/STF.
+5. Agravo regimental não provido.
+(AgRg no AREsp 141.777/SP, SEGUNDA TURMA, Rel. Ministro CASTRO MEIRA, SEGUNDA TURMA, julgado em 16/8/2012, DJe 24/8/2012)
+Nesse diapasão, verifica-se que a decisão primeva deve ser mantida.
+Diante do exposto, nego provimento ao agravo interno.
+É como voto.
