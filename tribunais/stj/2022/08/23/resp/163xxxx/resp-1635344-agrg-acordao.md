@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região) e Laurita Vaz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Vilson Varella interpõeagravo regimental contra a decisão, de minha lavra, assim resumida (fl. 523):
+EMBARGOS DE DECLARAÇÃO EM RECURSO ESPECIAL. TRIBUNAL DO JÚRI. DISPOSIÇÃO DE LUGARES DA DEFESA E DA ACUSAÇÃO. REPRESENTANTE DO MINISTÉRIO PÚBLICO SENTADO AO LADO DO JUIZ PRESIDENTE. SUPOSTO PATAMAR SUPERIOR. EQUIDADE NÃO GARANTIDA À DEFESA. CIRCUNSTÂNCIA QUE NÃO INFLUI NO DEVIDO PROCESSO LEGAL E AMPLA DEFESA. OMISSÕES. MANIFESTA IMPROCEDÊNCIA.
+Embargos de declaração rejeitados.
+Em suas razões, reitera a defesa, em síntese, os argumentos lançados no especial, isto é: a) suposta violação do princípio da igualdade (defesa e acusação devem estar no mesmo assento na sessão plenária; b) de forma indevida, o agravante permaneceu de algemas (marca-passo).
+Pugna pela reforma da decisão impugnada, nos seguintes termos (fls. 531/532):
+ ..
+a) A reconsideração da r. decisão, para que seja anulada a sessão do tribunal do júri diante da ilegalidade de defesa e acusação não se sentarem no mesmo plano e por ter o Agravante utilizado marcapasso na sessão; ou
+b) Caso não reconsiderada a r. decisão, a remessa deste Agravo Regimental à apreciação da e. Turma, pugnando-se pela reforma da r. decisão monocrática.
+ ..
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM EMBARGOS DE DECLARAÇÃO EM RECURSO ESPECIAL.DIREITO PENAL. TRIBUNAL DO JÚRI. UTILIZAÇÃO DE MARCA-PASSO. ALGEMA DE CALCANHAR. UTILIZAÇÃO DURANTE O JULGAMENTO DEVIDAMENTE FUNDAMENTADA.DISPOSIÇÃO DE LUGARES DA DEFESA E DA ACUSAÇÃO. REPRESENTANTE DO MINISTÉRIO PÚBLICO SENTADO AO LADO DO JUIZ PRESIDENTE. SUPOSTO PATAMAR SUPERIOR. EQUIDADE NÃO GARANTIDA À DEFESA. CIRCUNSTÂNCIA QUE NÃO INFLUI NO DEVIDO PROCESSO LEGAL E AMPLA DEFESA. OMISSÕES. MANIFESTA IMPROCEDÊNCIA.
+Agravo regimental improvido.
+VOTO
+A insurgência não merece acolhida.
+Com efeito, sobre a anulação do Tribunal do Júri em razão da utilização de marca-passo (algemas de calcanhar), não assiste razão ao recorrente, sobretudo porque a jurisprudência deste Superior Tribunal considera queo emprego de algemas é excepcional, sendo que a sua utilização depende de motivada decisão judicial, como na espécie, em que o juiz fundamentou adequadamente a restrição em razão das peculiaridades do local em que realizado o ato processual, e na insuficiência de policiamento. Inocorrência de violação da Súmula vinculante n. 11. 3. Vigora no processo penal o princípio pas de nullité sans grief, segundo o qual ""nenhum ato será declarado nulo, se da nulidade não resultar prejuízo para acusação ou defesa"" (art. 563 CPP) (HC n. 314.781/SC, Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 10/2/2017).
+No caso, a Presidente do Tribunal do Júri fez constar, na ata de julgamento, a justificativa para que o recorrente usasse marca-passo, in verbis: o acusado está preso e este plenário não conta com segurança necessária, razão pela qual permaneceu sem algemas mas com marca-passo, a fim de garantir a segurança dos presentes e dele próprio, que em caso de uma possível tentativa de fuga, provocaria uma reação amis extrema dos policiais militares que acompanham o ato. Consigne-se, ainda, que tal decisão levou em consideração orientação da Polícia Militar, responsável pela segurança dos trabalhos, bem como da proximidade da plateia e do local onde fica o réu  ..  (fl. 417).
+Sobre a questão de desnecessidade de defesa técnica e Parquet, no Tribunal do Júri, sentarem-se no mesmo nível, o voto condutor do acórdão a quo explicitou (fls. 417/419):
+ ..  Sustentou-se, também, a nulidade do julgamento realizado pelo Tribunal do Júri sob o argumento de que a disposição dos móveis da sala afrontou a paridade de armas e influenciou a decisão dos jurados, por ter o representante do órgão ministerial sentado no mesmo patamar da magistrada, ao lado dela, enquanto a defesa do réu ficou em nível inferior.
+Ressaltou ter feito o devido protesto na sessão de julgamento, oque foi rechaçado pela juíza.
+A esse respeito, consignou-se na ata (p. 298- ipsis litteris):
+Quanto ao pedido formulado às fls.204-209, para que o assento da Defesa seja posicionado no "mesmo plano" e em "posição de igualdade" com o MP, é de conhecimento deste Juízo que a questão é objeto de ação direta de inconstitucionalidade no STF (ADI7468), pendente de o julgamento. De outra parte, já se decidiu que "O STJ possui entendimentoo0assente no sentido de que a posição do membro do Ministério Público, legalmente prevista, não implica em qualquer ofensa à igualdade entre as partes" (RECURSO ESPECIAL Nº 1.511.310 - RS (2015/0021753-0) RELATOR MINISTRO JORGE MUSSI). No mesmo sentido: RMS 23.919/SP, Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em05/09/2013, DJe 11/09/2013. De toda forma, registre-se que a Comarca de Gaspar não conta com Salão do Júri, e as respectivas sessões são realizadas em sala cedida na sede da OAB, cuja estrutura física não pode ser alterada para adaptar-se ao pedido da Defesa (considerando a mesa com aparelhagem de som, o espaço destinados aos serviços da Justiça, etc). Assim, indefiro o pedido.
+Como se vê, a togada justificou a impossibilidade de atendimento ao pedido em razão de a sessão do Tribunal do Júri estar sendo realizada em sala cedida pela OAB, na qual não seria possível a adaptação, sem contar o entendimento do Superior Tribunal de Justiça de que a diferenciação de planos entre representantes da defesa e acusação, por si só, não seria capaz de gerar a nulidade processual aduzida.
+Não bastasse isso, nos processos de competência do Tribunal do Júri, sabe-se que referidos representantes apresentam seus argumentos nos debates orais, os quais são realizados, em regra, de pé e em frente aos jurados, com mesmo plano, de forma que não se verifica qualquer prejuízo à defesa, a justificar a nulidade do julgamento.
+Além do mais, a posição do membro do Ministério Público ao lado do togado é prerrogativa legal.
+ ..
+Dessa forma, não há nulidade a ser reconhecida, haja vista a ausência de provas de que a existência em patamares diferentes entre os lugares da acusação e da defesa tenha influenciado a decisão dos jurados.
+ ..
+Contravindo a quaestio ofertada pelo embargante, este Superior Tribunal considera que é prerrogativa legal do membro do Ministério Público tomar assento à direito do juiz na sessões de julgamento, inclusive do tribunal do júri  ..  (RHC n.59.978/RS, Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, DJe 13/11/2015).
+Em face da ausência de qualquer elemento capaz de alterar os fundamentos da decisão agravada, subsiste incólume o entendimento nela firmado, não merecendo prosperar o presente regimental.
+Ante o exposto, nego provimento ao agravo regimental.
