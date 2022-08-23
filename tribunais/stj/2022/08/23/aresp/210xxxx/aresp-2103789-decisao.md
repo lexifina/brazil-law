@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial, interposto por MUNICÍPIO DO RIO DE JANEIRO, contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, que inadmitiu o Recurso Especial, manejado em face de acórdão assim ementado:
+"Ação declaratória de inexistência de relação jurídico-tributária. ISSQN decorrente de serviços de assessoria e consultoria na área de saúde.
+Discussão acerca de qual o Município competente para a cobrança. Lei Complementar nº 116/03 (artigos 3º e 4º). De acordo com o entendimento do E. Superior Tribunal de Justiça, externado no julgamento do Recurso Especial nº 1.117.121/SP, submetido ao regime do art. 543-C, do CPC, o imposto é devido, como regra geral, no local do estabelecimento prestador. No caso dos autos, o serviço prestado pela autora não está incluído entre as exceções do art. 3º da Lei Complementar supracitada, atraindo aplicação da regra geral.
+Recolhimento do tributo no local do estabelecimento prestador dos serviços São Paulo/SP.
+Procedência do pleito declaratório de rigor.
+No entanto, o pedido repetitório não comporta provimento, eis que a legitimidade para requerer a restituição dos valores recolhidos é dos tomadores dos serviços, pessoas que efetivamente retiveram o tributo, nos termos do art.166 do CTN.
+Confirmação da sentença que enseja majoração da verba honorária nos termos do art.85, §11º do NCPC.
+Nega-se provimento aos recursos, com majoração dos honorários advocatícios outrora fixados (5%) para 7%" (fl. 421e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a, da Constituição Federal, a parte ora agravante apontaviolação aos arts. 370 do CPC; 113, § 2º, 128 e 175, todos do CTN, sustentando, em síntese, que "diante da ausência de provas suficientes nos autos, a análise dos pedidos da autora de anulação da multa e do Município do Rio de Janeiro quanto a sua suposta competência ativa tributária fica prejudicada, uma vez que a perícia visa fornecer elementos para prestação jurisdicional segura quanto à definição da competência tributária e direito da contribuinte à repetição de indébito"(fls.655/656e); que a ausência de cadastro no CEPOM, instituído pelo Município do Rio de Janeiro, "acarreta a obrigação de retenção do ISS pelo tomador do serviço, na forma de responsável tributário" (fl. 657e).
+Por fim, requer "seja conhecido e provido o recurso especial para reformando o acórdão reconhecendo a competência do Fisco Carioca para exigir o ISS enquanto descumprida a obrigação acessória de cadastramento no CEPOM/RJ por parte da autora, com a confirmação da legitimidade da retenção na fonte, pelos tomadores dos serviços por ela prestados" (fl. 660e).
+Contrarrazões a fls. 708/719e.
+Inadmitido o Recurso Especial (fls. 747/748e), foi interposto o presente Agravo (fls. 775/781e).
+Contraminuta a fls. 790/798e.
+A irresignação não merece prosperar.
+Quanto à alegada ofensa ao art. 370 do CPC, o Recurso Especial não ultrapassa a admissibilidade, ante o óbice da Súmula 282 do Supremo Tribunal Federal ("É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada").
+Isso porque, para que se configure o prequestionamento, não basta que o recorrente devolva a questão controvertida para o Tribunal, é necessário que a causa tenha sido decidida à luz da legislação federal indicada, bem como seja exercido juízo de valor sobre os dispositivos legais indicados e a tese recursal a eles vinculada, interpretando-se a sua aplicação ou não ao caso concreto.
+Nesse contexto, por simples cotejo das razões recursais e os fundamentos do acórdão, percebe-se que a tese recursal vinculada aodispositivotidocomo violadonão foi apreciada no voto condutor, sequer de modo implícito, não tendo servido de fundamento à conclusão adotada pelo Tribunal de origem.
+A propósito:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS DECLARATÓRIOS. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECURSO. SÚMULA N. 284 DO STF. PREQUESTIONAMENTO. LITIGÂNCIA DE MÁ-FÉ. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE.
+INCIDÊNCIA DA SUMULA N. 7 DO STJ. DECISÃO MANTIDA.
+1. A deficiência na fundamentação do recurso, de modo a impedir a compreensão da suposta ofensa ao dispositivo legal invocado, obsta o conhecimento do recurso especial (Súmula n. 284/STF).
+2. A simples indicação dos dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor da Súmula n. 282 do STF.
+3. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos ou interpretação de cláusula contratual, a teor do que dispõem as Súmulas n. 5 e 7 do STJ.
+4. No caso dos autos, a modificação das conclusões do acórdão recorrido, a respeito da conduta protelatória do agravante, para fins de afastamento da multa por litigância de má-fé, demandaria análise do conteúdo fático dos autos.
+5. Agravo interno a que se nega provimento" (STJ, AgInt no AREsp 273.612/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe de 23/03/2018).
+No mais, cumpre ressaltar que oSupremo Tribunal Federal decidiu que é incompatível com a Constituição Federal a obrigatoriedade de cadastro, em órgão da administração municipal, de prestador de serviços não estabelecido no território do município e a imposição da retenção do Imposto Sobre Serviços (ISS) em caso de descumprimento da obrigação.
+Por maioria dos votos, na sessão virtual encerrada no dia 26/02/2021, os ministros deram provimento ao Recurso Extraordinário (RE) 1167509, com repercussão geral (Tema 1020/STF).
+A tese de repercussão geral aprovada foi a seguinte: "É incompatível com a Constituição Federal disposição normativa a prever a obrigatoriedade de cadastro, em órgão da administração municipal, de prestador de serviços não estabelecido no território do município e imposição ao tomador da retenção do Imposto Sobre Serviços - ISS quando descumprida a obrigação acessória".
+Ante o exposto, com fulcro no art. 253, parágrafo único, II, a e b, do RISTJ, conheço do Agravo, paraconhecer, em parte, do Recurso Especial, e, nessa extensão, negar-lhe provimento.
+I.
