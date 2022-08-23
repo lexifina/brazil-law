@@ -1,0 +1,30 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. OMISSÃO. ESTELIONATO. PENA-BASE. CONSEQUÊNCIAS DO CRIME. FUNDAMENTAÇÃO IDÔNEA. BIS IN IDEM. AUSÊNCIA DE PREQUESTIONAMENTO . EMBARGOS DE DECLARAÇÃO ACOLHIDOS, SEM EFEITOS INFRINGENTES.
+1.Os embargos de declaração têm a finalidade simples e única de completar, aclarar ou corrigir uma decisão ambígua, omissa, obscura ou contraditória, conforme dispõe o art. 619 do CPP.
+2. No tocante a tese da manifesta violação ao princípio do no bis in idem, na pena-base, não houve manifestação no julgamento do agravo regimental, conforme apontado pela parte embargante, o que se passa a fazer.
+3. A referida questão - ocorrência de bis in idem, ao se valorar negativamente as consequências do delito, com fundamento no mesmo fato que baseou ação penal autônoma contra o réu - não fora objeto de debate pela instância ordinária, o que inviabiliza o conhecimento do recurso especial por ausência de prequestionamento. Incide ao caso a Súmula 282/STF.
+4. Salienta-se que a referida tese foi arguida somente em embargos declaração na origem, deixando o Tribunal local de emitir juízo de valor a seu respeito por se tratar de inovação recursal.
+5. 5. Embargos de declaração acolhidos, sem efeitos infringentes.
+ACÓRDÃO
+Visto, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, acolher os embargos, sem efeitos infringentes, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Jesuíno Rissato (Desembargador Convocado do TJDFT) e João Otávio de Noronha votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA (Relator):
+Trata-se de embargos de declaração opostos por RENATO DIAS COUTINHO NETO (e-STJ fls. 2003/2011) contra acórdão proferido por esta Corte Superior, cuja ementa é a seguinte (e-STJ fls. 1995):
+PROCESSO PENAL E PENAL. ESTELIONATO. PENA-BASE. CONSEQUÊNCIAS DO CRIME. FUNDAMENTAÇÃO IDÔNEA. ART. 171, §4º, DO CP. BIS IN IDEM. AUSÊNCIA DE PREQUESTIONAMENTO. NÃO OCORRÊNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A jurisprudência desta Corte Superior de Justiça é no sentido de que a pena-base não pode ser fixada acima do mínimo legal com fundamento em elementos constitutivos do crime ou com base em referências vagas, genéricas, desprovidas de fundamentação objetiva para justificar a sua exasperação.
+2. Em relação às consequências do delito, que devem ser entendidas como o resultado da ação do agente, a avaliação negativa de tal circunstância judicial mostra-se escorreita se o dano causado ao bem jurídico tutelado se revelar superior ao inerente ao tipo penal.
+3. No presente caso, as instâncias de origem não se utilizaram de dados genéricos e vagos para justificar a exasperação da pena-base, em relação às consequências do crime, uma vez que ultrapassou o prejuízo da vítima, atingindo a própria imagem do Poder Judiciário, induzindo juízo a homologar um acordo falso, circunstância apta a justificar a exasperação da pena-base.
+4. A questão acerca da diminuição do patamar aplicado no tocante a causa de aumento do art. 171, §4º, do CP, uma vez para a escolha da fração fora utilizada a mesma fundamentação para exasperar a pena-base (consequências do crime), não foi objeto de debate pela instância ordinária, mesmo com a apresentação de embargos de declaração, o que inviabiliza o conhecimento do recurso especial por ausência de prequestionamento. Incidem ao caso as Súmulas n. 211/STJ e 282/STF.
+5. Mesmo que assim não fosse, não se pode falar na ocorrência do bis in idem. É que para a exasperação da pena-base, no tocante às consequências do crime, fora utilizado como fundamento o reflexo da conduta delitiva na imagem do Poder Judiciário, que homologou um acordo falso, enquanto para a incidência da causa de aumento do art. 171, §4º, do CP, aplicada no dobro, levou-se em conta a relevância do resultado ilícito, o qual abrangeu considerável prejuízo patrimonial suportado da vítima idosa, em montante muito superior a R$ 50.000,00 (cinquenta mil reais).
+6. Agravo regimental não provido.
+Sustenta a parte embargante a ocorrência de omissão quanto à manifesta violação ao princípio do no bis in idem, uma vez que o acusado está respondendo a ação penal autônoma, em razão do mesmo fato que fundamentou a negativação das consequências do crime na pena-base do delito aqui analisado (houve prejuízo à imagem do Poder Judiciário, induzindo juízo a homologar um acordo falsificado).
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA (Relator):
+Os embargos merecem acolhida, sem efeitos infringentes.
+Sabe-se que os embargos de declaração têm a finalidade simples e única de completar, aclarar ou corrigir uma decisão ambígua, omissa, obscura ou contraditória, conforme dispõe o art. 619 do Código de Processo Penal.
+No tocante a tese da manifesta violação ao princípio do no bis in idem, uma vez que o acusado está respondendo a ação penal autônoma, em razão do mesmo fato que fundamentou a negativação das consequências do crime na pena-base do delito aqui analisado (houve prejuízo à imagem do Poder Judiciário, induzindo juízo a homologar um acordo falsificado), não houve manifestação no julgamento do agravo regimental, conforme apontado pela parte embargante, o que se passa a fazer.
+A referida questão - ocorrência de bis in idem, ao se valorar negativamente as consequências do delito, com fundamento no mesmo fato que baseou ação penal autônoma contra o réu - não fora objeto de debate pela instância ordinária, o que inviabiliza o conhecimento do recurso especial por ausência de prequestionamento. Incide ao caso a Súmula 282/STF.
+Salienta-se que a referida tese foi arguida somente em embargos declaração na origem, deixando o Tribunal local de emitir juízo de valor a seu respeito por se tratar de inovação recursal.
+Com essas considerações, acolho os embargos de declaração, sem efeitos infringentes.
+É como voto.
