@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo interposto por INSTITUTO NACIONAL DE ESTUDOS E PESQUISAS EDUCACIONAIS ANÍSIO TEIXEIRA contra decisão doTRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, quenão admitiu recurso especial, fundado nas alíneas "a" e "c" do permissivo constitucional, o qual desafia acórdão assim ementado (e-STJ fl. 406):
+MANDADO DE SEGURANÇA - ADMINISTRATIVO E CONSTITUCIONAL - ENSINOSUPERIOR - PARTICIPAÇÃO EM CERIMÔNIA DE COLAÇÃO DE GRAU - EXPEDIÇÃO DE DIPLOMA - ENADE - POSSIBILIDADE - REEXAME NECESSÁRIOIMPROVIDO.
+- O Exame Nacional de Desempenho dos Estudantes (ENADE) foi introduzido pela Lei nº 10.861/2004 com expressa previsão de obrigatoriedade.
+- No entanto, não há na referida lei qualquer previsão de penalidade ao estudante que não participe do Exame, razão pela qual se denota a ilegalidade no ato da autoridade impetrada em, por esse motivo, negar-lhe a participação em cerimônia de colação de grau e expedição do respectivo diploma, necessário ao seu ingresso no mercado de trabalho.
+- A sanção somente existe em relação à instituição de ensino, quando esta não cumpre com o seu dever de inscrever os alunos habilitados à participação no exame.
+- Reexame necessário improvido.
+Embargos de declaração rejeitados (e-STJ fls. 437/441).
+No recurso especial obstaculizado, a parte apontou,além de dissídio pretoriano,violação do art. 1.022 do CPC/2015, por negativa de prestação jurisdicional, e, no mérito, dos arts. 4º, §§ 1º e 2º e 5º, § 5º da Lei n. 10.861/2004, argumentando que a participação do ENADE é componente curricular obrigatório.
+Afirma também ofensa aos arts. 10, 296, 300, 302, 493 do CPC/2015, defendendo a inexistência de fato consumado.
+Contrarrazõesàs e-STJ fls. 487/492
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, tendo sido os fundamentos da decisão atacados no presente recurso.
+Parecer ministerial, às e-STJ fls. 558/563,pelo desprovimento do agravo em recurso especial.
+Passo a decidir.
+Verifico que a pretensão não merece prosperar.
+Em relação à alegada ofensado art. 1.022 do CPC/2015, cumpre destacar que, ainda que o recorrente considere insubsistente ou incorreta a fundamentação utilizada pelo Tribunal nos julgamentos realizados, não há necessariamente ausência de manifestação. Não há como confundir o resultado desfavorável ao litigante com a falta de fundamentação, motivo pelo qual não se constata violação dos preceitos apontados.
+Consoante entendimento desta Corte, o magistrado não está obrigado a responder a todas as alegações das partes nem tampouco a rebater um a um todos seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie. Nesse sentido:
+IPVA. NÃO CONFIGURADA VIOLAÇÃO DO ART. 1.022 DO CPC/2015. CERCEAMENTO DE DEFESA. INCIDÊNCIA DA SÚMULA 283 DO STF. ALIENAÇÃO FIDUCIÁRIA DE VEÍCULO. ILEGITIMIDADE PASSIVA DO CREDOR FIDUCIÁRIO. CONTROVÉRSIA DIRIMIDA COM ANÁLISE DE LEGISLAÇÃO DISTRITAL. INCIDÊNCIA DA SÚMULA 280/STF. LEI LOCAL. ILEGITIMIDADE ATIVA DO DISTRITO FEDERAL. REEXAME DO CONJUNTO PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7 DO STJ. MULTA DO ART. 1026 DO CPC/2015.
+1. Inicialmente, em relação aos arts. 141 e 1022 do CPC, deve-se ressaltar que o acórdão recorrido não incorreu em omissão, uma vez que o voto condutor do julgado apreciou, fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte recorrente. Vale destacar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional.
+ ..
+(REsp 1.671.609/DF, Rel. Ministro HERMAN BENJAMIN, Segunda Turma, DJe 30/06/2017).
+No caso, o Tribunal a quo decidiu integralmente a controvérsia, nos seguintes termos (e-STJ fls. 410/412):
+O Exame Nacional de Desempenho dos Estudantes (ENADE) foi introduzido pela Lei nº 10.861/2004 com expressa previsão de obrigatoriedade,in verbis:
+Art. 5ºA avaliação do desempenho dos estudantes dos cursos de graduação será realizada mediante aplicação do Exame Nacional de Desempenho dos Estudantes - ENADE.
+§ 5ºO ENADE é componente curricular obrigatório dos cursos de graduação, sendo inscrita no histórico escolar do estudante somente a sua situação regular com relação a essa obrigação, atestada pela sua efetiva participação ou, quando for o caso, dispensa oficial pelo Ministério da Educação, na forma estabelecida em regulamento.
+No entanto, não há na referida lei qualquer previsão de penalidade ao estudante que não participe do Exame, razão pela qual se denota a ilegalidade no ato da autoridade impetrada em, por esse motivo, negar-lhe a participação em cerimônia de colação de grau e expedição do respectivo diploma, necessário ao seu ingresso no mercado de trabalho.
+A sanção somente existe em relação à instituição de ensino, quando esta não cumpre com o seu dever de inscrever os alunos habilitados à participação no exame, in verbis:
+§ 6ºSerá responsabilidade do dirigente da instituição de educação superior a inscrição junto ao Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira - INEP de todos os alunos habilitados à participação no ENADE.
+§ 7ºA não-inscrição de alunos habilitados para participação no ENADE, nos prazos estipulados pelo INEP, sujeitará a instituição à aplicação das sanções previstas no § 2º do art. 10, sem prejuízo do disposto no art. 12 desta Lei. (Grifos acrescidos).
+Contudo, os fundamentos em destaque não foram rebatidos na peça recursal, ensejando o não conhecimento do recurso pela aplicação do enunciado da Súmula 283 do STF.
+Não bastasse isso, em face das premissas fáticas assentadas no acórdão objurgado, a modificação do entendimento firmado pelas Instâncias ordinárias no sentido da regularidade da colação de grau e expedição do diploma à parte agravada, demandaria, induvidosamente, o reexame de todo material cognitivo produzido nos autos, providência incompatível com a via especial, de acordo com a Súmula7 do STJ.
+Quanto à alegação de inexistênciade fato consumado, observa-se quea Cortea quoafirmou que "a alegação de que o recurso de apelação do INEP foi improvido com fundamento em situação de fato consolidada é questão estranha ao feito pois apenas o reexame necessário foi objeto de julgamento, não compondo a fundamentação do voto qualquer alusão à teoria do fato consumado" (e-STJ fl. 448).
+Destaca-se que a referida argumentação constituiinovação recursal, sendo insuscetível de conhecimento tambémnesta via recursal.
+A propósito do tema:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. DANO MORAL. ELETROCUSSÃO. MORTE. PENSIONAMENTO. ACÓRDÃO COM FUNDAMENTO NÃO IMPUGNADO. SÚMULA 283/STF. TESES DE IMPOSSIBILIDADE DE PENSIONAMENTO EM PARCELA ÚNICA E NECESSIDADE DE REDUÇÃO DO VALOR. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ.
+1. Na origem, a parte autora, ora agravada, ajuizou ação de procedimento ordinário em desfavor de Centrais Elétricas do Pará S.
+A. (CELPA), sucedida pela agravante Equatorial Pará Distribuidora de Energia S.A., com o fim de obter indenização pelos danos morais decorrentes da morte do marido e genitor das autoras, que trafegava em caminhão em via pública e se chocou com a fiação elétrica.
+2. Ao apreciar os aclaratórios opostos pela concessionária de energia, a Corte Estadual consignou que "as omissões suscitadas não se fizeram presentes nas razões da apelação de fls. 135/148, de modo que não estava esta Corte de Justiça obrigada a se manifestar sobre ponto não questionado pela apelante" (fl. 355), fundamento que não foi impugnado pela recorrente, incidindo, por isso, o óbice da Súmula 283/STF.
+3. Acerca das teses da impossibilidade de pensionamento em parcela única e da necessidade de redução dos alimentos pela metade, verifica-se que configuram questões inéditas, agitadas tão somente em sede de embargos de declaração e não suscitadas oportunamente sob o enfoque ora pretendido, ficando caracterizadas a inovação recursal bem como a falta de prequestionamento, incidindo, por isso, o óbice da Súmula 211/STJ.
+4. Agravo interno não provido.(AgInt no REsp n. 1.914.958/PA, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 25/4/2022, DJe de 28/4/2022).(Grifos acrescidos).
+Por fim, "resta prejudicada a análise da divergência jurisprudencial quando a tese sustentada esbarra em óbice sumular quando do exame do recurso especial pela alínea "a" do permissivo constitucional (AgRg no AREsp 278.133/RJ, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 24/09/2014).
+Ante o exposto, com base no art. 253, parágrafo único, II, "a" e "b", do RISTJ, CONHEÇO do agravo para CONHECER PARCIALMENTE do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO.
+Sem arbitramento de honorários recursais, pois o recurso especial se origina de mandado de segurança.
+Publique-se. Intimem-se.
