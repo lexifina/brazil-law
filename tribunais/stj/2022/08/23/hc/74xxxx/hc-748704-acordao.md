@@ -1,0 +1,26 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, denegar o habeas corpus, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região) e Laurita Vaz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Os impetrantes alegam, neste habeas corpus, a ocorrência de nulidade pela ausência de intimação pessoal de Alexandre Abrom Serebrenik acerca da sentença condenatória proferida na Ação Penal n. 0005370-54.2016.8.26.0048, da 1ª Vara Criminal da comarca de Atibaia/SP.
+Apontam como ato coator o acórdão do Tribunal de Justiça de São Paulo no HC n. 2066893-70.2022.8.26.0000.
+Aduzem, em síntese, que, ao ser intimado através de seu defensor, foi tolhido do paciente seu direito legítimo e constitucional de manifestar-se acerca de sua vontade ou não de recorrer da r. sentença condenatória prolatada contra si, em clara violação ao contraditório e ampla defesa, cláusulas pétreas previstas em nosso ordenamento jurídico (fls. 5/6).
+Em caráter liminar, requerem seja suspensa a execução da sentença de primeiro grau até o julgamento de mérito do presente habeas corpus (fl. 13). No mérito, buscam a concessão da ordem para o fim de que seja recebido o recurso de apelação.
+Pleito liminar indeferido às fls. 1.169/1.170.
+Ouvido, o Ministério Público Federal opinou pela concessão da ordem para declarar nula a certidão que atestou o trânsito em julgado, e, consequentemente, a reabertura do prazo recursal para a defesa (fl. 1.180).
+Requera defesaa intimação, comantecedência, da inclusão do feito em pauta de julgamento, a fim de que possarealizar sustentação oral (fl. 1.182).
+EMENTA
+HABEAS CORPUS.SENTENÇACONDENATÓRIA.INTIMAÇÃO PESSOALDO CONDENADO QUE SE ENCONTRA SOLTO. DESNECESSIDADE. ART. 392, II, DO CPP.INTIMAÇÃODO PATRONO CONSTITUÍDO. INEXISTÊNCIA DE NULIDADE.
+1. Consoante o disposto no art. 392, II, do CPP, tratando-se de réu solto, é suficiente a intimação do defensor constituído,através da publicação no órgão de imprensa oficial,acerca da sentença condenatória. Precedentes.
+2.A inércia recursal do advogado constituído não caracteriza, por si só, vício ensejador do reconhecimento de nulidade processual, pois vige entre nós o princípio da voluntariedade recursal (art. 574 do Código de Processo Penal) - (AgRg no HC n. 717.898/ES, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 25/3/2022); de modo quea manifestação da parte externando seu desejo de recorrer às instâncias superiores não tem o condão de desqualificar o trânsito em julgado já operado, muito menos promover a reabertura de prazo recursal.
+3. Ordem denegada.
+VOTO
+Conforme se extrai dos autos, o paciente foi condenado a 3 anos, 3 meses e 20 dias de detenção, em regime inicial aberto, substituída a privativa de liberdadepor penas restritivas de direitos, ante a prática de crime contra relação de consumo (art. 7º, IX, da Lei n.8.137/1990). A defesa constituída pelo réufoi regularmente intimada via imprensa oficial, mas não interpôs recurso de apelação no prazo legal. A decisão transitou em julgado em 27/10/2020.
+Em 11/3/2022, o pacientetomou conhecimento da condenação, ao ser intimado para dar início ao cumprimento da pena.
+Ora, nos termos da jurisprudência dominante no âmbito desta Corte Superior, em se tratando de réu solto, a intimação da sentença condenatória pode se dar apenas na pessoa do advogado constituído, ou mesmo do defensor público designado, sem que haja qualquer empecilho ao início do prazo recursal e a posterior certificação do trânsito em julgado. AgRg nos EDcl no HC n. 680.575/SC, Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 16/11/2021, DJe 19/11/2021)(AgRg no HC n. 681.999/SP, de minha relatoria, Sexta Turma, DJe 3/5/2022).
+Em outras palavras, nos termos do art. 392, inciso II, do Código de Processo Penal, aintimaçãoacerca dasentençaou acórdão condenatórios, em se tratando de réu solto, será feita ao advogado constituído através da publicação no órgão de imprensa oficial, sendo desnecessária aintimação pessoal(AgRg no AREsp 1668133/SP,Ministra Laurita Vaz, Sexta Turma, DJe 29/6/2020).
+No mesmo sentido, cito os seguintes precedentes:AgInt no HC n. 343.992/MG, Ministro Felix Fischer, Quinta Turma, DJe 10/5/2016;AgRg no REsp n. 1.336.688/SC,Ministro Nefi Cordeiro, Sexta Turma, DJe 12/3/2018;AgRg no REsp n. 1.969.848/GO, Ministro Ribeiro Dantas, Quinta Turma, DJe de 14/3/2022.
+Ainércia recursal do advogado constituído não caracteriza, por si só, vício ensejador do reconhecimento de nulidade processual, pois vige entre nós o princípio da voluntariedade recursal (art. 574 do Código de Processo Penal) -(AgRg no HC n. 717.898/ES,Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 25/3/2022).
+Além disso, a manifestação da parte externando seudesejoderecorreràs instâncias superiores não tem o condão de desqualificar o trânsito em julgado já operado, muito menos promover a reabertura de prazo recursal(AgRg no HC n. 336.922/SP, de minha relatoria, Sexta Turma, DJe de 11/5/2018).
+Tal o contexto, não enxergo flagrante ilegalidade a ser sanada nesta via.
+Ante o exposto, denego a ordem.
