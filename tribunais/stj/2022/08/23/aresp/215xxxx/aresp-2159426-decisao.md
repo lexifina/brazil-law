@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo interposto por RAFAEL BARROS ROCHA contra decisão que não admitiu o recurso especial, fundado naalíneaado inciso III do art. 105 da Constituição Federal, que desafiou acórdão prolatado pelo Tribunal de Justiça do Estado de Goiás assim ementado (e-STJ, fl. 511):
+AGRAVO DE INSTRUMENTO. AÇÃO MONITÓRIA. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. PERÍCIA. RECURSO SECUNDUM EVENTIS LITIS. AUSÊNCIA DO DEMONSTRATIVO DISCRIMINADO E ATUALIZADO DO DÉBITO. REJEIÇÃO. DECISÃO MANTIDA. 1. Em respeito ao princípio secundum eventis litis, o pedido para realização de perícia a fim de apurar eventual excesso de execução, não será apreciado nesta instância recursal, pois não foi objeto de análise do juiz singular. 2. Nos termos do art. 525, §§ 4º e 5º,do Código de Processo Civil, não apresentado o demonstrativo discriminado e atualizado do débito pelo devedor, a impugnação será rejeitada. 3. As alegações do recorrente limitaram-se a informar a ocorrência de excesso de execução, juntando no bojo da impugnação ao cumprimento de sentença tabela com os valores que entende devidos, deixando informar o índice utilizado, a data de início dos juros e os erros na planilha apresentada pelo exequente. 4. AGRAVO DE INSTRUMENTO CONHECIDO E DESPROVIDO.
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial, o recorrente alegou violação aos arts. 1.015 e 1.022, II, do CPC/2015.
+Sustentou, em síntese, omissão no acórdão recorrido quanto à incidência em duplicidade da correção monetária.
+Contrarrazões apresentadas às fls. 578-584 (e-STJ).
+O recurso especial não foi admitido na origem, o que ensejou a interposição do presente agravo.
+Brevemente relatado, decido.
+De início, no que tange à suposta negativa de prestação jurisdicional, é preciso deixar claro que o acórdão recorrido resolveu satisfatoriamente as questões deduzidas no processo, sem incorrer nos vícios de obscuridade, contradição, erro material ou omissão com relação a ponto controvertido relevante, cujo exame pudesse levar a um diferente resultado na prestação de tutela jurisdicional.
+Assinala-se que as instâncias ordinárias expressamente enfrentaram todas as questões suscitadas pelo recorrente, de forma clara e fundamentada, tratando-se, na verdade, de pretensão de novo julgamento das matérias.
+Ademais, o órgão julgador não está obrigado a responder a questionamentos das partes, mas apenas a declinar as razões de seu convencimento motivado, como de fato ocorre nos autos.
+A propósito:
+PROCESSUAL CIVIL. CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AÇÃO DE PRESTAÇÃO DE CONTAS. LEGITIMIDADE ATIVA. HERDEIROS. SÚMULA N. 83 DO STJ. SUPRESSIO. NÃO OCORRÊNCIA. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283/STF. DECISÃO MANTIDA.
+1. Inexiste negativa de prestação jurisdicional quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. De acordo com a jurisprudência desta Corte, é "transmissível aos herdeiros do outorgante da procuração falecido o direito de exigir a prestação de contas do outorgado" (AgInt no REsp 1848799/RJ, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 30/03/2020, DJe 01/04/2020).
+3. A Súmula n. 83 do STJ aplica-se aos recursos especiais interpostos com fundamento tanto na alínea "c" quanto na alínea "a" do permissivo constitucional.
+4. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.411.897/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 7/12/2021, DJe 9/2/2022)
+Em relação à alegação de incidência, em duplicidade, da correção monetária, a Corte local assim concluiu (e-STJ, fl. 514, sem grifo no original):
+A questão reside em definir se agiu ou não com acerto o magistrado ao homologar os cálculos apresentados pelo Agravado.
+Sem delongas, descabida a alegação de que os cálculos apresentados pelo Agravado possuem excesso e foram calculados em duplicidade, pois, quando o executado alegar que o exequente, em excesso de execução, pleiteia quantia superior à resultante da sentença, cumprir-lhe-á declarar de imediato o valor que entende correto, apresentando demonstrativo discriminado e atualizado de seu cálculo (CPC, art.525, § 4º).
+E, não apontado o valor correto ou não apresentado o demonstrativo, a impugnação será liminarmente rejeitada, se o excesso de execução for o seu único fundamento, ou, se houver outro, a impugnação será processada, mas o juiz não examinará a alegação de excesso de execução (CPC, art. 525, § 5º).
+Diante da determinação do texto legal, nota-se que agiu com acerto o julgador singular, porquanto as alegações do recorrente limitaram-se a informar a ocorrência de excesso de execução, sendo que a tabela com os valores que entende devidos, juntada no bojo da impugnação e reproduzida na inicial do presente recurso, não informa qual foi o índice utilizado em seus cálculos, a data de início dos juros e onde estavam os erros na planilha apresentada pelo exequente.
+( )
+Dessarte, inviável o acolhimento das alegações do agravante, eis que os fundamentos são contrários ao texto expresso de lei, que visa evitar a protelação do pagamento de dívida já declarada judicialmente.
+Outrossim, faz-se necessário ponderar que o recurso especial é reclamo de natureza vinculada e, para o seu cabimento, é imprescindível que o recorrente demonstre de forma clara as razões pelas quais entende que os dispositivos apontados foram malferidos pela decisão recorrida, sob pena de inadmissão.
+Portanto, ao interpor o recurso especial alegando ofensa ao art. 1.015 do CPC/2015, sem demonstrar como a violação teria ocorrido, constata-se que a argumentação apresentada no recurso mostra-se deficiente, atraindo, assim, a incidência do verbete n. 284 da Súmula do Supremo Tribunal Federal.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. OFENSA AO ART. 1.015 DO CPC/2015. AUSÊNCIA DA DEMONSTRAÇÃO DAS RAZÕES DE MALFERIMENTO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
