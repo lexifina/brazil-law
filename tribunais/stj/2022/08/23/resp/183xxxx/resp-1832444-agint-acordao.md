@@ -1,0 +1,56 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, em sessão virtual de 17/08/2022 a 23/08/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Nancy Andrighi, Laurita Vaz, João Otávio de Noronha, Maria Thereza de Assis Moura, Herman Benjamin, Og Fernandes, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo e Maria Isabel Gallotti votaram com o Sr. Ministro Relator.
+Licenciado o Sr. Ministro Paulo de Tarso Sanseverino.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+RELATÓRIO
+Trata-se de agravo interno interposto por ASSOCIACAO AMIGOS DO JARDIM MEDITERRANEOcontra decisão que negou seguimento ao recurso extraordinário, assim ementada (e-STJ fl. 530):
+RECURSO EXTRAORDINÁRIO. CIVIL. ASSOCIAÇÃO DE MORADORES. COBRANÇA DE TAXAS DE MANUTENÇÃO. ÁREA DE LOTEAMENTO. ACÓRDÃO RECORRIDO EM CONFORMIDADE COM O ENTENDIMENTO DA SUPREMA CORTE. TEMA 492/STF. SEGUIMENTO NEGADO.
+Os embargos de declaração opostos na sequência foram acolhidos(e-STJ fls. 543-545).
+Sustenta aagravante a violação dos arts. 3º, caput e I, 5º, caput, XVII, LIV e LV, 6º, caput e 93, caput eX, da Constituição Federal (e-STJ fls. 548-569).
+Suscita a inaplicabilidade do Tema n. 492/STF, por entender queseu acordão paradigmanão se coaduna com o caso em comento.
+Insiste que " no  caso específico, houve efetivo ajuste entre as partes, em que a recorrida já tinha anteriormente anuído aos serviços prestados pela associação, E FOI PRESIDENTE DA ASSOCIAÇÃO" (e-STJ fls. 556).
+Demais, consigna que " como  a adesão existia, não se deve falar em qualquer tipo de inconstitucionalidade na cobrança reclamada" (e-STJ fl. 557).
+Alega que não pretende o revolvimento dos fatos e das provas dos autos, mas tão somente a sua valoração.
+Aduz a ofensa ao princípio da igualdade, pois " um  morador é desobrigado de arcar com os rateios realizados pela associação, em detrimento de outro morador que pagas os rateios. Entretanto, ambos são igualmente beneficiados pelas vantagens decorrentes da condição de um loteamento fechado, como a valorização dos imóveis" (e-STJ fl. 566).
+Requer a reconsideração da decisão agravada ou o provimento do reclamo.
+As contrarrazões foram apresentadas(e-STJ fls. 577-621).
+É o relatório.
+EMENTA
+AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. NEGATIVA DE SEGUIMENTO. CIVIL. ASSOCIAÇÃO DE MORADORES. COBRANÇA DE TAXAS DE MANUTENÇÃO. ÁREA DE LOTEAMENTO. ACÓRDÃO RECORRIDO EM CONFORMIDADE COM O ENTENDIMENTO DA SUPREMA CORTE. TEMA 492/STF. DESPROVIMENTO DO RECLAMO.
+1. No julgamento do RE n. 695.911 RG/SP, o Supremo Tribunal Federal firmou o entendimento de que "é inconstitucional a cobrança por parte de associação de taxa de manutenção e conservação de loteamento imobiliário urbano de proprietário não associado até o advento da Lei nº 13.465/17, ou de anterior lei municipal que discipline a questão, a partir da qual se torna possível a cotização dos proprietários de imóveis, titulares de direitos ou moradores em loteamentos de acesso controlado, que i) já possuindo lote, adiram ao ato constitutivo das entidades equiparadas a administradoras de imóveis ou (ii) sendo novos adquirentes de lotes, o ato constitutivo da obrigação esteja registrado no competente Registro de Imóveis" (Tema n. 492/STF).
+2. No caso dos autos, o acórdão proferido por este Sodalício está em consonância com a jurisprudência firmada pelo Pretório Excelso, razão pela qual incide o Tema n. 492/STF.
+3. Agravo interno não provido.
+VOTO
+Inicialmente, tendo em vista que os embargos de declaraçãoforampublicadosem 7/6/2022 (e-STJ fl. 546), cumpre atestar a tempestividade da insurgência, pois interposta no dia 24/6/2022 (e-STJ fl. 548), ou seja, dentro do prazo recursal.
+Não obstante as razões declinadas pelo agravante, a decisão monocrática deve ser mantida.
+Isso porque, no julgamento do RE n. 695.911 RG/SP, o Supremo Tribunal Federal firmou o entendimento de que "é inconstitucional a cobrança por parte de associação de taxa de manutenção e conservação de loteamento imobiliário urbano de proprietário não associado até o advento da Lei nº 13.465/17, ou de anterior lei municipal que discipline a questão, a partir da qual se torna possível a cotização dos proprietários de imóveis, titulares de direitos ou moradores em loteamentos de acesso controlado, que i) já possuindo lote, adiram ao ato constitutivo das entidades equiparadas a administradoras de imóveis ou (ii) sendo novos adquirentes de lotes, o ato constitutivo da obrigação esteja registrado no competente Registro de Imóveis" (Tema n. 492/STF).
+Confira-se:
+Recurso extraordinário. Repercussão geral reconhecida. Liberdade associativa. Cobrança de taxas de manutenção e conservação de áreas de loteamento. Ausência de lei ou vontade das partes. Inconstitucionalidade. Lei nº 13.467/17. Marco temporal. Recurso extraordinário provido. Fatos e provas. Remessa dos autos ao tribunal de origem para a continuidade do julgamento, com observância da tese.
+1. Considerando-se os princípios da legalidade, da autonomia de vontade e da liberdade de associação, não cabe a associação, a pretexto de evitar vantagem sem causa, impor mensalidade a morador ou a proprietário de imóvel que não tenha a ela se associado (RE nº 432.106/RJ, Primeira Turma, Rel. Min. Marco Aurélio, DJe de 3/11/11).
+2. Na ausência de lei, as associações de moradores de loteamentos surgiam apenas da vontade de titulares de direitos sobre lotes e, nesse passo, obrigações decorrentes do vínculo associativo só podiam ser impostas àqueles que fossem associados e enquanto perdurasse tal vínculo.
+3. A edição da Lei nº 13.465/17 representa um marco temporal para o tratamento da controvérsia em questão por dentre outras modificações a que submeteu a Lei nº 6.766/79, ter alterado a redação do art. 36-A, parágrafo único, desse diploma legal, o qual passou a prever que os atos constitutivos da associação de imóveis em loteamentos e as obrigações deles decorrentes vinculam tanto os já titulares de direitos sobre lotes que anuíram com sua constituição quanto os novos adquirentes de imóveis se a tais atos e obrigações for conferida publicidade por meio de averbação no competente registro do imóvel.
+4. É admitido ao município editar lei que disponha sobre forma diferenciada de ocupação e parcelamento do solo urbano em loteamentos fechados, bem como que trate da disciplina interna desses espaços e dos requisitos urbanísticos mínimos a serem neles observados (RE nº 607.940/DF, Tribunal Pleno, Rel. Min. Teori Zavascki, DJe de 26/2/16).
+5. Recurso extraordinário provido, permitindo-se o prosseguimento do julgamento pelo tribunal de origem, observada a tese fixada nos autos: "É inconstitucional a cobrança por parte de associação de taxa de manutenção e conservação de loteamento imobiliário urbano de proprietário não associado até o advento da Lei nº 13.465/17 ou de anterior lei municipal que discipline a questão, a partir do qual se torna possível a cotização de proprietários de imóveis, titulares de direitos ou moradores em loteamentos de acesso controlado, desde que, i) já possuidores de lotes, tenham aderido ao ato constitutivo das entidades equiparadas a administradoras de imóveis ou, (ii) no caso de novos adquirentes de lotes, o ato constitutivo da obrigação tenha sido registrado no competente registro de imóveis".
+(RE 695911, Relator(a): DIAS TOFFOLI, Tribunal Pleno, julgado em 15/12/2020, PROCESSO ELETRÔNICO REPERCUSSÃO GERAL - MÉRITO DJe-073 DIVULG 16-04-2021 PUBLIC 19-04-2021)
+No caso dos autos, ao examinar a controvérsia, esta Corte Superior de Justiça assim se manifestou (e-STJ fls. 373-374):
+1. A insurgente defende que o caso dos autos possui diferente situação fática, porquanto a recorrida sempre teve ciência da existência da Associação e até mesmo participou de sua Diretoria, tendo participado do rateios das despesas por muitos anos. Segundo o entendimento jurisprudencial pacificado por esta Corte Superior de Justiça, em loteamentos administrados por associações de moradores, apenas a anuência do morador pode obrigá-lo ao pagamento da contribuição associativa, seja por meio da celebração de contrato, seja por meio da adesão à entidade.
+A propósito:
+ ..
+No mesmo sentido;
+ ..
+O entendimento firmado pela 2ª Seção deve ser aplicado ao caso dos autos, uma vez, segundo se infere das razões de decidir dos precedentes citados, a teor do art. 5º, XX, da Constituição Federal, também não há qualquer vedação para o associado se desfiliar da associação, de sorte que as taxas de manutenção serão devidas apenas e tão-somente até a data da sua manifestação.
+No mesmo sentido:
+ ..
+É de rigor, portanto, a manutenção da decisão agravada.
+2. Ante o exposto, nego provimento ao agravo interno.
+Verifica-se, portanto, que o acórdão proferido por este Sodalício não destoa da jurisprudência firmada pelo Pretório Excelso, razão pela qual incide o Tema n. 492/STF.
+A propósito:
+AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. COBRANÇA DE TAXA DE MANUTENÇÃO E CONSERVAÇÃO DE MORADOR NÃO ASSOCIADO. INCONSTITUCIONALIDADE DA COBRANÇA REFERENTE A PERÍODO ANTERIOR À VIGÊNCIA DA LEI 13.467/2017. TEMA 492 DA REPERCUSSÃO GERAL. PROVIMENTO PARCIAL.
+1. O Plenário desta SUPREMA CORTE, no julgamento do RE 695.911, de relatoria do Min. DIAS TOFFOLI, julgado sob o rito da repercussão geral (Tema 492), DJe. 19/4/2021, fixou tese no sentido de que: "É inconstitucional a cobrança por parte de associação de taxa de manutenção e conservação de loteamento imobiliário urbano de proprietário não associado até o advento da Lei nº 13.465/17, ou de anterior lei municipal que discipline a questão, a partir da qual se torna possível a cotização dos proprietários de imóveis, titulares de direitos ou moradores em loteamentos de acesso controlado, que i) já possuindo lote, adiram ao ato constitutivo das entidades equiparadas a administradoras de imóveis ou (ii) sendo novos adquirentes de lotes, o ato constitutivo da obrigação esteja registrado no competente Registro de Imóveis.".
+2. No caso concreto, consta da petição inicial requerimento para que "seja julgado procedente o pedido para condenar o Requerido ao pagamento do principal, bem como das taxas condominiais que vencerem no curso desta ação".
+3. Logo, é inconstitucional apenas a cobrança referente ao período que antecedeu a vigência da Lei 13.465/2017, sendo permitida a cobrança das taxas de manutenção que venceram após a vigência da norma regulamentadora.
+4. Agravo interno a que se dá provimento parcial.
+(RE 1337075 AgR-segundo, Relator(a): ALEXANDRE DE MORAES, Primeira Turma, julgado em 29/11/2021, PROCESSO ELETRÔNICO DJe-241 DIVULG 06-12-2021 PUBLIC 07-12-2021)
+Ante o exposto, nega-se provimento ao agravo interno.
+É o voto.
