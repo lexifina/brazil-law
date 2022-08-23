@@ -1,0 +1,10 @@
+DECISÃO
+NAIARA BELLO MORONI alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Paranáno Habeas Corpus n. 0035100-29.2022.8.16.0000, em que foi mantida sua prisão preventiva.
+Depreende-se dos autos que a paciente, mãe de uma criança de 3 anos e 9 meses de idade, foi presa em flagrante "com uma grande quantidade e variedade de entorpecentes dentro de sua própria residência" (fl. 152).
+Consoante assere a defesa, que "é patente a ilegalidade da negativa da substituição da prisão preventiva por prisão domiciliar", pois "desde o começo deixou-se claro que o infante de apenas 3 anos e 9 meses não possui pessoas aptas a lhe cuidar, visto que a mãe da ora paciente e avó do infantepossui problemas de depressão e esquizofrenia, o que inclusive levou-a ser afastada de seu trabalho"(ambos à fl. 7).
+De fato, na hipótese, ao negar a prisão domiciliar, destacou o Juízo singular que "o fato da ré possuir filho, não pode servir de salva guarda absoluta para cometimento de delitos, além disso por certo a criança se encontra mais protegida do quando em contato com a mãe que, em tese, realizava tráfico de drogas em seu lar" (fl. 120, grifei), conduta que, de certo modo, coloca em risco a integridade da própria criança, posto que está interagindo em um meio criminoso. Por fim, insta mencionar que a custodiada é reincidente "eis foi condenada pela prática do delito de tráfico de drogas na ação penal nº 0003294-25.2016.8.16.018, com trânsito em julgado em 08/12/2021" (fl. 83),elementos concretos que, de rigor, justificam a imposição da segregação cautelar.
+A esse respeito, trago à baila o seguinte julgado:
+ ..
+Some-se a isso, o fato de que o tráfico por ela supostamente praticado ocorria em sua residência e na companhia de adolescentes. Em casos tais, a condição de ser mãe de adolescentes, com o objetivo de obter a prisão domiciliar, não se sustenta, conforme já decidiu esta Corte e o STF  ..  (AgRg no HC n. 617.070/PR, Rel. Ministro Rogerio Schietti, 6ª T., DJe 30/4/2021).
+À vista do exposto, denego a ordem.
+Publique-se e intimem-se.
