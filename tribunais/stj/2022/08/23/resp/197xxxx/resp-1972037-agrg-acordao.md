@@ -1,0 +1,24 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI (RELATOR):
+DANILLO AUGUSTO NOGUEIRA agrava da decisão de fls. 863-866, em que neguei provimento ao recurso especial.
+Afirma oagravante, em suas razões recursais, que, "na parte em que os juízos de primeiro e segundo deveriam fundamentar o quantum de aumento do art. 40 da lei de drogas, e sabemos que deve haver fundamentação especifica (art. 59 e 68 do CP), nada fizeram, não podendo este Superior Tribunal de Justiça, acrescentar argumentação inexistente no ponto do quantum de aumento, pegar parte outra da sentença e em prejuízo do agravante, acrescentar argumentaçãoqualitativa inexistente" (fl. 872).
+Requer, assim, a reconsideração da decisão agravada, para que sejaacolhidaatesedevolvidaa esta Corte Superior, em recurso especial, e, consequentemente, reduzir o aumento aplicado na terceira fase da dosimetria para 1/6.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO DE DROGAS. MAJORANTES PREVISTAS NO ART. 40, III E VI, DA LEI N. 11.343/2006. EXASPERAÇÃO. FRAÇÃO ACIMA DO MÍNIMO. FUNDAMENTAÇÃO IDÔNEA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Segundo a jurisprudência desta Corte Superior, "a aplicação das majorantes previstas no art. 40 da Lei de Drogas exige motivação concreta, quando estabelecida acima da fração mínima, não sendo suficiente a mera indicação do número de causas de aumento, em analogia ao disposto na Súmula 443 do STJ, que dispõe: "o aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes" (HC n. 529.996/SP, relator Ministro Ribeiro Dantas, 5ª T., DJe de 25/11/2019).
+2. No caso, a instância ordinária assentou que "O acusado foi flagrado juntamente com adolescente nas proximidades da cadeia pública de Jacarezinho. em posse de droga e dinheiro. O adolescente inclusive admite que ia lançar as drogas no interior da cadeia pública, só não fez porque teria visto policiais. De fato, é por isso que foram abordados" (fl. 871).
+3. Assim, verifica-se queargumentos ora utilizados se mostram idôneos e concretos para fundamentar o aumento de 1/3 na terceira fase da dosimetria.
+4. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI (RELATOR):
+Em que pesem as alegações despendidas pela defesa, entendo que nãolhe assiste razão.
+Segundo os argumentos explanados na decisão agravada, assentei queos argumentos utilizados pelas instâncias de origem se mostram idôneos e concretos para fundamentar o aumento de 1/3 na terceira fase da dosimetria.
+Das próprias razões do agravo, é possível extrair o seguinte trecho da sentença, que bem elucida as conclusões a respeito da temática que aqui se debate, a conferir (fl. 871, grifei):
+O acusado foi flagrado juntamente com adolescente nas proximidades da cadeia pública de Jacarezinho. em posse de droga e dinheiro. O adolescente inclusive admite que ia lançar as drogas no interior da cadeia pública, só não fez porque teria visto policiais. De fato, é por isso que foram abordados. O acusado e o adolescente vieram de Santo Antonio da Platina para Jacarezinho para lançar drogas na cadeia pública local. Não se pode admitir que a versão apresentada pelo acusado seja acolhida, mesmo porque, restou isolada nos autos.
+É evidente, no caso concreto, que as instâncias ordinárias, em nenhum momento, valeram-se da quantidade de majorantes para aplicar uma fração acima de 1/6. Utilizaram-se, na verdade, de fatos concretos dos autos- "O acusado foi flagrado juntamente com adolescente nas proximidades da cadeia pública de Jacarezinho. em posse de droga e dinheiro"- que se mostram aptos para tal exasperação.
+Nesse mesmo sentido está a jurisprudência do Superior Tribunal de Justiça, a qual estabelece que"a aplicação das majorantes previstas no art. 40 da Lei de Drogas exige motivação concreta, quando estabelecida acima da fração mínima, não sendo suficiente a mera indicação do número de causas de aumento, em analogia ao disposto na Súmula 443 do STJ, que dispõe: "o aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes"(HC n. 529.996/SP, relator Ministro Ribeiro Dantas, 5ª T.,DJe de 25/11/2019)
+Assim, constato que não há razões para modificar o entendimento firmado na decisão agravada.
+À vista do exposto, nego provimento ao agravo regimental.
