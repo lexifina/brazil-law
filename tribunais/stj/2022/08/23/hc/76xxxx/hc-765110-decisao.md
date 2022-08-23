@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de CHARLES HENRIQUE DA SILVAcontra acórdãodo Tribunal deJustiça do Estado de Minas Gerais(Apelação Criminaln.1.0145.13.025273-0/002).
+Consta dos autos que opaciente foi condenadoà pena de 16 anos de reclusão, em regime inicial fechado, pela prática do delito descrito noart. 121, § 2º, II e IV, do Código Penal (e-STJ, fls. 69-70).
+Interposta apelação, o Tribunal de origem negou provimento ao recurso dadefesa.O aresto restou assim ementado:
+"EMENTA: APELAÇÃO CRIMINAL - JÚRI - HOMICÍDIO DUPLAMENTE QUALIFICADO - RECURSO DA DEFESA - PEDIDO DE CASSAÇÃO DOVEREDICTO POPULAR - JULGAMENTO CONTRÁRIO À PROVA DOSAUTOS - DECISÃO COERENTE COM O CONJUNTO PROBATÓRIO -RECURSO DA GENITORA DA VÍTIMA - PEDIDO DE AUMENTO DA PENA -IMPOSSIBILIDADE - REPRIMENDA QUE FOI BEM SOPESADA. 1. Só se licencia cassação do veredicto popular quando ele é escandaloso, arbitrário e sem qualquer sintonia com as provas dos autos. Pode o Tribunal do Júri, no uso da soberania que lhe outorgou a Constituição Federal, optar por uma dentre as teses apresentadas em Plenário, desde que seja a mesma plausível em face do contexto probatório, sem vez para se dizer tenha sido a decisão contrária à prova dos autos. 2. A culpabilidade é um juízo de censura ou de reprovação da conduta do agente. Se a conduta do réu ultrapassou anormalidade típica do crime, mas tal circunstância já tendo sido apreciada na sentença para efeito de recrudescimento da pena-base, não deve dar margem a um aumento maior da reprimenda. 3. Os maus antecedentes devem resultar de decisão condenatória transitada em julgado, sendo que inquéritos e processos em andamento, não podem servir para agravar apena do réu, nem mesmo para considerar que ele possui personalidade deformada, porquanto poderá, no final do processo, ser absolvido. Não havendo elementos para averiguação da personalidade do réu, não deve a mesma ser valorada desfavoravelmente." (fl. 24, e-STJ)
+Neste writ, a defesa sustenta excesso na dosimetria decorrente do aumentoda pena base em razão da desvaloração do vetorconsequências do delito. Assevera que as razões elencadas para a negativação do vetorenvolve elementos do próprio tipo penal.
+Requer, assim, a concessão da ordem, a fim de que seja reduzida apena-base.
+É o relatório.
+Decido.
+Da análise dos autos, note-se que o presentehabeas corpus,constituimera reiteração do pedido formulado no HC 716488/RJ, de minha relatoria, isso porque háidentidade de partes e da causa de pedir, impugnando os dois feitos o mesmo acórdão(Apelação n. 1.0145.13.025273-0/002).
+Nesse sentido:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. REITERAÇÃO DO PLEITO FORMULADO NO HCN.º 481.921/DF. LITISPENDÊNCIA. INDEFERIMENTO LIMINAR DA PETIÇÃO INICIAL.AGRAVO REGIMENTAL DESPROVIDO.
+1. O pedido formulado no HC n.º 483.855/DF é mera reiteração daqueleveiculado no HC n.º 481.921/DF, pois há identidade de partes, de pedido ede causa de pedir, além de impugnarem ambos o mesmo acórdão e a mesmamatéria
+2. Não podem ser processados, nesta Corte, concomitantemente,habeas corpus nos quais se constata litispendência, instituto que seconfigura exatamente quando há igualdade de partes, de objeto e de causade pedir.
+3. Agravo Regimental desprovido." (AgRg no HC 483.855/DF, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em05/02/2019, DJe 19/02/2019)
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. REITERAÇÃO DE HABEASCORPUS. IDENTIDADE DE PARTES, CAUSA DE PEDIR E PEDIDOS. NÃO CABIMENTO DENOVA IMPETRAÇÃO. DECISÃO QUE INDEFERIU LIMINARMENTE O HABEAS CORPUSMANTIDA. AGRAVO REGIMENTAL IMPROVIDO.
+1. Não se conhece de habeas corpusque deduz pretensão já apreciada e julgada em anterior impetração.
+2. Hipótese em que a irresignação manifestada no presente habeas corpustem por objeto as mesmas questões já debatidas por esta Corte nojulgamento do HC n. 451.646/SP, impetrado em favor do mesmo paciente, oportunidade em que o Superior Tribunal de Justiça emitiu juízo sobre alegalidade dos fundamentos exarados pelo Tribunal local para não aplicar oredutor previsto no § 4º do art. 33 da Lei n. 11.343/2006, para refutar atese de ocorrência de bis in idem na primeira e terceira fases dadosimetria e para manter o regime prisional mais gravoso, prejudicadas asdemais teses.
+3. (..).
+4. Agravo regimental improvido." (AgRg no HC 469.249/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTATURMA, julgado em 23/10/2018, DJe 31/10/2018)
+Ante o exposto, indefiro liminarmente o habeas corpus, nos termos do art. 210 do RISTJ.
+Publique-se. Intimem-se.
