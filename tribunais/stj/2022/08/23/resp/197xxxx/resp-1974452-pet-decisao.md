@@ -1,0 +1,8 @@
+DECISÃO
+Na hipótese dos autos,a parte requerente pretendeu antecipar a garantia de futura execução fiscal e o órgãos julgadores, de primeiro e segundo graus, considerando o pedido de tutela antecipada, entenderamser necessário o procedimento de emenda à petição inicial, conforme previsto no art. 303, § 1º, do CPC/2015.
+O recurso especial não fora conhecido, primeiro por decisão monocrática de fls. 830/838, depois por acórdão da Primeira Turma (fl. 876) e, por fim, em embargos de declaração rejeitados (fl. 911).
+A requerente interpôs recurso de embargos de divergência, fls. 919/953, dirigido ao Ministro Presidente da Primeira Seção do STJ (fl. 919). O recurso foi protocolado em 6/7/2022.
+Na mesma ocasião, a requerente apresenta o presente pedido, protocolado alguns minutos após a interposição dos embargos de divergência, no qual requer a recepção de apólice de seguro, "em substituição às garantias que até então asseguravam os débitos em voga".
+Ocorre que com a publicação do acórdão proferido pela Primeira Turma em embargos de declaração, e interposto o recurso de embargos de divergência direcionado à Primeira Seção, se encontra esgotada a competência jurisdicional deste Relator, uma vez que não há mais jurisdição a ser exercida pela Primeira Turma nestes autos.
+Ante o exposto, deixo de analisar a petição de fls. 954/976, diante da interposição de embargos de divergência e do esgotamento da jurisdição do órgão julgador (Primeira Turma).
+Comunique-se à Coordenadoria de Processamentos de feitos de direito público para remessa dos autos ao Colegiado competente para o exame do recurso já interposto.
