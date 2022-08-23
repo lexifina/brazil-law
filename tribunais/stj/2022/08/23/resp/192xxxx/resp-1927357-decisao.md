@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso especial interposto por SIDNEI SILVA PRESTES JÚNIOR, com base nas alíneas a e c do inciso III do art. 105 da Constituição Federal, que desafiou acórdão prolatado pelo Tribunal de Justiça do Estado do Paraná assim ementado (e-STJ, fl. 858):
+APELAÇÃO CÍVEL COBRANÇA -DIREITOS AUTORAIS - ECAD - PREVISÃO LEGAL RESPONSABILIDADE SOLIDÁRIA DOS SÓCIOS - ARTº 110 DA LEI Nº 9610/1998 - LEGITIMIDADE PASSIVA DO DIRETOR DA EMPRESA - PRESTAÇÕES VINCENDAS - INCLUSÃO NA CONDENAÇÃO ENQUANTO PERDURAR A OBRIGAÇÃO-JUROS DE MORA A PARTIR DA CITAÇÃO-RECURSOS-APELAÇÃO 1-NEGA PROVIMENTO -APELAÇÃO 2-PROVIMENTO PARCIAL.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 915-916).
+Nas razões do recurso especial (e-STJ, fls. 982-990), o recorrente aponta violação ao art. 71 da Lei n. 8.666/1993.
+Sustenta, em síntese, omissão no acórdão recorrido quanto à tese de que o crédito do ECAD, por configurar encargo indispensável à execução do contrato, constitui responsabilidade exclusiva da parte contratada.
+Foram apresentadas contrarrazões (e-STJ, fls. 1.021-1.034).
+O recurso especial não foi admitido na origem, o que ensejou a interposição do presente agravo.
+Brevemente relatado, decido.
+Constata-se que a alegada ofensa ao art. 1.022 do CPC/2015 não se sustenta, uma vez que o Tribunal de origem examinou, de forma fundamentada, todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que tenha decidido em sentido contrário à pretensão do recorrente.
+A jurisprudência desta Casa é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão - situação facilmente constatável in casu -, o julgador não está obrigado a rebater, um a um, os argumentos suscitados pela parte em embargos declaratórios, cuja rejeição, nesse contexto, não implica contrariedade ao art. 535, I e II, do CPC/1973 (equivalente ao art. 1.022, I e II, do CPC/2015).
+Portanto, não há falar em negativa de prestação jurisdicional, tendo o acórdão julgado a causa sob a ótica do direito que entendeu pertinente à hipótese.
+Com efeito, não obstante toda a argumentação expendida, o conteúdo normativo referente ao art. 71 da Lei n. 8.666/1993 não foi debatido na origem, não tendo o referido dispositivo legal servido de base à conclusão adotada pela Corte local, especialmente por se tratar deverdadeira inovação recursal, tendo em vista que a tese recursal de ofensa ao dispositivo infraconstitucional supramencionado somente se deu quando da interposição do recurso especial.
+Assim, para que se atenda ao requisito do prequestionamento, é necessária a efetiva discussão do tema pelo Tribunal de origem com a finalidade de sanar eventual omissão, o que, na espécie, não ocorreu. Desatendido, nesse ponto, o requisito do prequestionamento, nos termos das Súmulas 282 e 356 do STF.
+Necessário salientar, ademais, que, na linha da jurisprudência dominante desta Corte, "não configura contradição afirmar a falta de prequestionamento e afastar indicação de afronta ao art. 1.022 do Código de Processo Civil de 2015, uma vez que é perfeitamente possível o julgado se encontrar devidamente fundamentado sem, no entanto, ter sido decidida a causa à luz dos preceitos jurídicos desejados pela postulante, pois a tal não está obrigado" (REsp 1.721.231/RS, Relator o Ministro Herman Benjamin, Segunda Turma, julgado em 1º/3/2018, DJe 2/8/2018).
+Ante o exposto, não conheço do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários recursais em favor dos advogados da parte recorrida para 15% (quinze por cento) sobre o valor da condenação.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. AÇÃO DE COBRANÇA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO CONFIGURADA. ACÓRDÃO SUFICIENTEMENTE FUNDAMENTADO. OFENSA AO ART. 71 DA LEI N. 8.666/1993. INOVAÇÃO RECURSAL. MATÉRIA NÃO ENFRENTADA PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 e 356/STF. RECURSO ESPECIAL NÃO CONHECIDO.
