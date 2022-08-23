@@ -1,0 +1,61 @@
+DECISÃO
+JARBAS SILVA SANTOS agrava da decisão que inadmitiu seu recurso especial, interposto com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado da Bahia na Apelação Criminal n. 0576901-75.2016.8.05.0001.
+Depreende-se do processo que o agravante foi condenado a 1 ano e 9 meses de reclusão, em regime aberto, mais multa, pela prática de dois furtos simples, em continuidade delitiva - art. 155, caput, do Código Penal (fls. 129-134).
+A Corte de origem negou provimento ao recurso e manteve a condenação em todos os termos (fls. 224-230).
+Nas razões do especial, a defesa sustentou violação dos arts. 155 e 386, VII, todos do Código de Processo Penal (fls. 235-239).
+Alegou, em síntese, que "as provas colhidas durante a instrução são insuficientes para a acusação, o Recorrente negou a prática delitiva, restando o substrato probatório que ensejou a condenação calcada nas palavras da vítima, não sendo corroborado por outros meios de provas" (fl. 238).
+Requereu o provimento do recurso, a fim de reformar o acórdão recorrido e decretar a absolvição do réu.
+O recurso especial foi inadmitido no juízo prévio de admissibilidade realizado pelo Tribunal local (fls. 256-257), o que ensejou a interposição deste agravo (fls. 275-281).
+O Ministério Público Federal manifestou-se, às fls. 303-308, pelo seu não provimento.
+Decido.
+O agravo é tempestivo e infirmou os fundamentos da decisão recorrida, motivos pelos quais conheço do recurso e passo à análise da impugnação.
+I. Arts. 155 e 386, II, ambos do Código de Processo Penal - Súmula n. 7 do STJ
+Relativamente ao sistema de valoração das provas, no processo penal brasileiro, vigora o princípio do livre convencimento motivado, em que é dado ao julgador decidir o mérito da pretensão punitiva, para condenar ou absolver, desde que o faça fundamentadamente.
+Nesse contexto, o legislador ordinário, ao buscar maior efetividade às garantias constitucionais previstas para os acusados em processo penal, estabeleceu, expressamente, a vedação à condenação baseada exclusivamente em provas produzidas no inquérito policial, consoante o disposto no art. 155, caput, do Código de Processo Penal, com a nova redação dada pela Lei n. 11.690/2008, in verbis:
+Art. 155. O juiz formará sua convicção pela livre apreciação da prova produzida em contraditório judicial, não podendo fundamentar sua decisão exclusivamente nos elementos informativos colhidos na investigação, ressalvadas as provas cautelares, não repetíveis e antecipadas.
+Portanto, em consequência do sistema da persuasão racional, o juiz forma sua convicção "pela livre apreciação da prova" (art. 155 do CPP), o que o autoriza a, observadas as limitações processuais e éticas que informam o sistema de justiça criminal, decidir livremente a causa e todas as questões a ela relativas, mediante a devida e suficiente fundamentação.
+Isso significa que não se admite, no ordenamento jurídico pátrio, a prolação de um decreto condenatório embasado exclusivamente em elementos informativos colhidos durante o inquérito policial, no qual não há de se falar em devido processo legal, com seus consectários do contraditório e da ampla defesa. O magistrado pode deles se utilizar para reforçar seu convencimento, desde que corroborados por provas produzidas durante a instrução processual ou desde que esses elementos informativos sejam repetidos em juízo, e assumir, tecnicamente, a natureza de prova.
+O Juiz de primeiro grau, ao prolatar a sentença condenatória em desfavor do agravante, salientou (fls. 130-131, grifei):
+ ..
+A vítima, na Delegacia (fl. 8), reconheceu o acusado como autor do crime e narrou que este puxou sua bolsa subtraindo o aparelho celular que estava no interior desta, fugindo em seguida em direção ao Shopping da Bahia. Tendo relatado o fato aos policias que estavam em ronda na localidade, estes lograram êxito em prender o denunciado em posse do seu telefone móvel.
+A vítima em juízo informou que estava indo ao Shopping da Bahia e, ao descer do ônibus, o acusado puxou a sua bolsa e pegou o celular. Observou ao seu redor e encontrou dois policiais militares, momento em que narrou o ocorrido e apontou a direção que o acusado evadiu. Durante a busca o denunciado foi avistado no meio da multidão de camisa azul e calça jeans, com a cabeça baixa. Após a revista nada foi encontrado com o acusado, porém ao seu lado, num carro de mão, foi identificado o celular da vítima, efetuando-se a prisão em flagrante. A vítima ainda relatou que não houve abordagem no momento do crime, o acusado apenas teria puxado sua bolsa e subtraído o celular, fugindo em seguida. Reconheceu o acusado sem sombra de dúvidas no momento da apreensão, ainda em via pública, como também em juízo (fls. 86).
+Durante o interrogatório na fase policial (fls. 09/10) o denunciado negou ter realizado o furto, afirmando que o aparelho celular da vítima não foi encontrado em sua posse, tendo em vista que foi achado no chão. Aduziu ainda que havia acabado de descer de um ônibus, após sair do bairro Largo do Tanque, com destino ao Shopping da Bahia, a fim de efetuar o pagamento de um bolo para o aniversário de sua filha. Em juízo o acusado também negou a prática do delito, informou que o celular foi encontrado no chão e que o policial o conhecia e provavelmente por "palavras dos policiais militares" a vítima o teria indicado como autor do roubo. Informou que responde a outro processo sobre roubo de celular e já foi preso de três a quatro vezes. O celular foi encontrado distante do interrogado próximo a uma árvore (fl. 90).
+A testemunhas da acusação - policiais militares - inquiridas em juízo (fls. 87/88) reconheceram o acusado em juízo e informaram que estavam em ronda no local e foram solicitados pela vítima a qual deu todas as características do acusado. Em seguida o acusado foi encontrado num ponto de ônibus situado no canteiro central, onde foi feita a sua prisão. O aparelho celular foi encontrado em posse do acusado e a vítima o reconheceu ainda em via pública. O policial militar Antônio Carlos dos Santos Junior, recordou-se acerca de notícias de roubos na região em que o agente sempre usava calça jeans, camisa polo e mochila.
+Em que pese o acusado tenha negado a autoria do delito, os depoimentos e reconhecimento da vítima e das testemunhas na DEPOL e em Juízo, a circunstância de o acusado ter sido preso na posse das res furtiva, corroboram o convencimento deste magistrado de que o acusado foi o autor da conduta delitiva mencionada nos autos.
+A Corte estadual manteve a condenação do recorrente nestes termos (fls. 227-230, destaquei):
+ ..
+O recorrente pleiteia a absolvição, com fincas, no art. 386, VII, do CPP, invocando o princípio do in dubio pro reo.
+Bem é de ver que, em sede de delitos patrimoniais, há que se reconhecer a especial importância da palavra do sujeito passivo, desde quando guarde harmônico conúbio com os demais elementos probatórios, como na hipótese, sob destrame. In hipotesis, a vítima, Daiane Palma dos Santos, asseverou, peremptoriamente, que o apelante foi o autor do crime de furto.
+Ouça-se a firmeza da sua palavra, em juízo (mídia audiovisual, à fls. 10) em diálogo harmônico e sem dissonância, com o quanto narrado, na basilar acusatória, ipsis verbis:
+ ..
+Sabe-se e ressabe-se que, em sede de delitos patrimoniais, há que se reconhecer a especial relevância da palavra do sujeito passivo do delito, rediga-se.
+ ..
+A outra conclusão não se poderia chegar, até porque a palavra da vítima, in hipotesis, não transparece estar mal paramentada por vil desígnio, que, só e somente, arquitetada fabulação sói
+engendrar.
+Sobremais, inexiste, nos autos, de proa a ré, o menor adminículo probante, elisivo da veracidade das declarações da ofendida, muito menos, que as possa increpar de frívolas e levianas.
+Neste mesmo evolver, corroborando o quanto asseverado pela vítima, ouçam-se os depoimentos, em juízo, prestados pelos policiais militares, Antonio Carlos dos Santos Júnior e Givanildo Silva, confirmando o quanto narrado, na fase policial (mídia audiovisual, de fl. 10, transcrita na sentença):
+ ..
+Pontue-se que "(..) os depoimentos dos policiais que efetuaram a prisão, em flagrante, constituem prova idônea, como a de qualquer outra testemunha que não esteja impedida ou suspeita, notadamente quando prestados, em juízo, sob o crivo do contraditório, aliado ao fato de estarem em consonância com o conjunto probatório dos autos. (..)" (HC 98.766/SP, Rel. Ministro OG FERNANDES, SEXTA TURMA, julgado em 05/11/2009, DJe 23/11/2009).
+Ponha-se, em relevo, que inexiste qualquer contradição, no depoimento do agente policial. Logo, não há motivos para se desabonar o seu testemunho, malgrado a compreensiva e natural reserva, com que devem ser vistas as declarações dos preditos agentes.
+ ..
+Ponha-se, em relevo, que, in hipotesis, a ilustre julgadora de origem escorou-se, em provas judicializadas, repristinadas, no curso da dilação processual, pelo batismo do contraditório, para editar o decisum a quo.
+Intelectível, pois, que a sentença, sob objurgatória, ostenta visos de juridicidade inatacáveis, por isso que o sentenciante, acertadamente, atribuiu credibilidade à palavra da vítima, Danilo Messias Silva, bem como às testemunhas, ouvidas, em juízo, entendendo haver verossimilhança, em suas declarações.
+No caso, verifico que, diferentemente do sustentado pela defesa, as instâncias antecedentes confrontaram elementos obtidos na fase extrajudicial com as demais provas colhidas judicialmente, submetidas, portanto, ao crivo do contraditório, entre elas, os depoimentos da vítima e dos policiais responsáveis pela prisão em flagrante do acusado.
+Por essas razões, justamente porque verificado que a Corte de origem, ao concluir pela autoria do réu no cometimento do delito em questão, sopesou as provas e os elementos informativos colhidos extrajudicialmente com as demais provas e depoimentos obtidos em juízo, não há como se proclamar a nulidade do acórdão condenatório, como pretendido.
+Assim, mostra-se inviável a absolvição do condenado, sobretudo se considerado que, no processo penal, vigora o princípio do livre convencimento motivado, em que é dado ao julgador decidir pela condenação do denunciado, desde que o faça fundamentadamente, exatamente como no feito.
+Ademais, para acolher a tese defensiva, seria imprescindível o reexame do acervo fático-probatório amealhado aos autos, procedimento vedado em recurso especial, por força da Súmula n. 7 do STJ. Ilustrativamente:
+ ..
+1. A desconstituição do entendimento firmado pelo Tribunal de piso diante de suposta contrariedade à lei federal, buscando a absolvição por insuficiência de provas para a condenação, não encontra campo na via eleita, dada a necessidade de revolvimento do material probante, procedimento de análise exclusivo das instâncias ordinárias - soberanas no exame do conjunto fático-probatório -, e vedado ao Superior Tribunal de Justiça, a teor da Súmula 7/STJ.
+ ..
+3. Agravo regimental não provido.
+(AgRg no AREsp n. 496.194/SP, Rel. Ministro Jorge Mussi, 5ª T., DJe 21/8/2014)
+Destaco que não há irregularidade no édito condenatório que utilizou, como elemento de prova, o depoimento de policiais militares, notadamente quando essa prova é produzida na fase processual, em que há respeito ao contraditório. Esse é o entendimento predominante neste Superior Tribunal. Nesse sentido:
+ ..
+2. Orienta-se a jurisprudência no sentido de que os depoimentos dos agentes policiais, colhidos sob o crivo do contraditório, merecem credibilidade como elementos de convicção, máxime quando em harmonia com os elementos constantes dos autos.
+3. Tendo as instâncias ordinárias indicado os elementos de prova que levaram ao reconhecimento da autoria e materialidade e, por consequência, à condenação, não cabe a esta Corte Superior, em habeas corpus, desconstituir o afirmado, pois demandaria profunda incursão na seara fático-probatória, inviável nessa via processual.
+ ..
+5. Habeas corpus não conhecido.
+(HC n. 211.203/DF, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 3/11/2015, grifei)
+II. Dispositivo
+À vista do exposto, conheço do agravo para, com fundamento no art. 932, VIII, do CPC, c/c o art. 253, parágrafo único, II, "b", parte final, do RISTJ, negar provimento ao recurso especial.
+Publique-se e intimem-se.
