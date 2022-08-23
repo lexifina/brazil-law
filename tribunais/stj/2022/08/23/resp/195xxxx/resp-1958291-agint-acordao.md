@@ -1,0 +1,37 @@
+EMENTA
+AGRAVO INTERNO.PROCESSO CIVIL. RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. MEDIDAS COERCITIVAS ATÍPICAS. ART. 139, IV, DO CPC/2015. SÚMULAS 7 E 83 DO STJ.
+1. Aadoção de medidas executivas atípicas de satisfação do crédito devem ser adotadas de modo subsidiário, não podendo extrapolar os princípios da proporcionalidade e da razoabilidade, com observância, ainda, do princípio da menor onerosidade ao devedor, não sendo admitida a utilização do instituto como penalidade processual.
+2. No caso concreto, independentemente de serem consideradas medidas típicas ou atípicas, o fato é que com base nos elementos fático-probatórios dos autos, a Corte local concluiu pela desproporcionalidade do pleito do credor para a aplicação das medidas coercitivas requeridas (bloqueio do cartão de crédito e expedição de ofício ao INCRA), além de salientar que nenhuma dessas medidas teria o condão de agregar efetividade ao cumprimento da sentença, mormente tendo em vista que a consulta ao INFOJUD evidenciou a ausência de bens imóveis rurais de propriedade dos executados.
+3. Agravo interno não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, os Ministros da Quarta Turma do Superior Tribunal de Justiça acordam, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+RELATÓRIO
+1. Trata-se de agravo interno interposto contra decisão desta relatoria assim ementada:
+PROCESSO CIVIL. RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. MEDIDAS COERCITIVAS ATÍPICAS. ART. 139, IV, DO CPC/2015. SALÁRIO. PENHORA. IMPOSSIBILIDADE. SÚMULAS 7 E 83 DO STJ.1. A adoção de medidas executivas atípicas de satisfação do crédito devem ser adotadas de modo subsidiário, não podendo extrapolar os princípios da proporcionalidade e da razoabilidade, com observância, ainda, do princípio da menor onerosidade ao devedor, não sendo admitida a utilização do instituto como penalidade processual. Precedentes.2. "As exceções destinadas à execução de prestação alimentícia, como a penhora dos bens descritos no art. 833, IV e X, do CPC/15, e do bem de família (art. 3º, III, da Lei 8.009/90), assim como a prisão civil, não se estendem aos honorários advocatícios, como não se estendem às demais verbas apenas com natureza alimentar, sob pena de eventualmente termos que cogitar sua aplicação a todos os honorários devidos a quaisquer profissionais liberais, como médicos, engenheiros, farmacêuticos, e a tantas outras categorias". (REsp 1815055/SP, Rel. Ministra NANCY ANDRIGHI, CORTE ESPECIAL, julgado em 03/08/2020, DJe 26/08/2020)3. Recurso especial não provido.
+Embargos de declaração parcialmente acolhidos sem efeito infringente:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. RECURSO ESPECIAL. OMISSÃO E CONTRADIÇÃO. NÃO OCORRÊNCIA. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. ART. 1.022 DO NOVO CPC. ESCLARECIMENTO.
+1. A pretensão de reformar o julgado não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do novo CPC, razão pela qual inviável o seu exame em sede de embargos de declaração.
+2. No caso, o bloqueio de cartão de crédito e a expedição de ofício ao INCRA, independentemente de classificação como medida executória típica ou atípica, foram refutados pelo Tribunal a quo de forma fundamentada e clara, de modo que rever tal posicionamento esbarra no óbice da Súmula 7 do STJ.
+3. Embargos de declaração parcialmente acolhidos.
+Reprisa a necessidade de expedição de ofício ao INCRA com vistas à verificação de bens imóveis rurais em nome dos executados, bem assim às operadoras de cartão de crédito.
+Com contrarrazões.
+É o relatório.
+EMENTA
+AGRAVO INTERNO.PROCESSO CIVIL. RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. MEDIDAS COERCITIVAS ATÍPICAS. ART. 139, IV, DO CPC/2015. SÚMULAS 7 E 83 DO STJ.
+1. Aadoção de medidas executivas atípicas de satisfação do crédito devem ser adotadas de modo subsidiário, não podendo extrapolar os princípios da proporcionalidade e da razoabilidade, com observância, ainda, do princípio da menor onerosidade ao devedor, não sendo admitida a utilização do instituto como penalidade processual.
+2. No caso concreto, independentemente de serem consideradas medidas típicas ou atípicas, o fato é que com base nos elementos fático-probatórios dos autos, a Corte local concluiu pela desproporcionalidade do pleito do credor para a aplicação das medidas coercitivas requeridas (bloqueio do cartão de crédito e expedição de ofício ao INCRA), além de salientar que nenhuma dessas medidas teria o condão de agregar efetividade ao cumprimento da sentença, mormente tendo em vista que a consulta ao INFOJUD evidenciou a ausência de bens imóveis rurais de propriedade dos executados.
+3. Agravo interno não provido.
+VOTO
+2. Com efeito, a decisão agravada consignou quea adoção de medidas executivas atípicas de satisfação do crédito devem ser adotadas de modo subsidiário, não podendo extrapolar os princípios da proporcionalidade e da razoabilidade, com observância, ainda, do princípio da menor onerosidade ao devedor, não sendo admitida a utilização do instituto como penalidade processual.
+Nocaso concreto, independentemente de serem consideradas medidas típicas ou atípicas, o fato é quecom base nos elementos fático-probatórios dos autos, a Corte local concluiu pela desproporcionalidade do pleito do credor para a aplicação das medidas coercitivas requeridas, além de salientar que nenhuma dessas medidas teria o condão deagregar efetividade ao cumprimento da sentença(fls. 402-409):
+Melhor sorte não socorre ao credor, quanto ao pedido de bloqueio de cartão de crédito.
+O Código de Processo Civil prevê, em seu artigo 139, inciso IV, a possibilidade de o magistrado determinar todas as medidas indutivas, coercitivas, mandamentais ou sub-rogatórias necessárias para assegurar o cumprimento de ordem pública, inclusive nas ações que tenham por objeto prestação pecuniárias. A previsão legal veio para autorizar ao magistrado a conduzir o feito na busca do cumprimento da obrigação, conferindo maior valor ao caráter imperativo das decisões.
+ ..
+Assim, a medida pleiteada pelo exequente (bloqueio de cartão de crédito) se encontra em descompasso com os princípios constitucionais, em especial o da dignidade da pessoa humana, e infraconstitucionais, como o princípio da menor onerosidade da execução (art. 805, CPC) e que a adoção de tais expedientes implicaria em mera contraprestação punitiva, não orientada por critério de razoabilidade ou de consecução da finalidade do processo.
+Deste modo, a medida pretendida além de não ensejar a garantia dodébito, interfere de forma direta na vida civil do executado, violando referidos princípios constitucionais e infraconstitucionais.
+ ..
+Acerca do pedido de expedição de ofício ao Incra, também não merece prosperar a pretensão da Exequente. Como bem salientou o i. Magistrado, já foi realizada pesquisa ao sistema INFOJUD pela qual se mostrou possível concluir pela inexistência de bens imóveis rurais de titularidade dos executados, não se mostrando razoável, portanto, onerar a maquina judiciária com providências que cabem ao Autor da demanda.
+Dessarte, inafastável a incidência da Súmula 7 do STJ.
+Na mesma linha, aseguintedecisãomonocrática: EDcl no Agint no AREsp 1.960.880/SP, Rel. Min. Maria Isabel Gallotti, DJe 3/6/2022.
+3. Ante o exposto, nego provimento ao agravo interno.
+É o voto.
