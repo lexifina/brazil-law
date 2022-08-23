@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto por ESTADO DO TOCANTINS, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO TOCANTINS, assim ementado:
+"APELAÇÃO CÍVEL. CUMPRIMENTO DE SENTENÇA. HOMOLOGAÇÃO DE CÁLCULOS. PEDIDO DE REFORMA. ALEGAÇÃODE EXCESSO DE EXECUÇÃO. ÍNDICES DE JUROS E CORREÇÃOMONETÁRIA. CONSONÂNCIA COM A NORMA LEGAL. INOCORRÊNCIA. RECURSO CONHECIDO E IMPROVIDO.
+1. Não merecem prosperar as alegações do apelante, acerca da utilização indevida do índice de juros e correção do débito em execução, haja vista que os cálculos apresentados pelo Contador Judicial foram efetuados com aplicação do índice calculado pelo IPCA-E, em conformidade com a decisão contida na r. sentença, ora em execução de cumprimento de sentença, bem como de acordo com os índices oficiais adotados pelo Tribunal de Justiça do Estado do Tocantins (evento 58 - CALC1, dos autos de origem).
+2. Quanto às condenações oriundas de relação jurídica não-tributária, a fixação dos juros moratórios segundo o índice de remuneração da caderneta de poupança é constitucional, permanecendo hígido, nesta extensão, o disposto no artigo 1º-F da Lei 9.494/1997 com a redação dada pela Lei 11.960/2009.
+3. Destarte homologados judicialmente os cálculos realizados por contador judicial, na fase de cumprimento de sentença, em obediência aos critérios determinados na sentença proferida na fase de conhecimento, não há que se falar em excesso de execução.
+4. Recurso conhecido e improvido" (fl. 513e)
+O acórdão em questão foi objeto de Embargos de Declaração (fls. 520/523e), os quais restaram rejeitados, nos termos da seguinte ementa:
+"EMBARGOS DE DECLARAÇÃO NA APELAÇÃO CÍVEL. OPOSIÇÃOPELO APELANTE. OMISSAO E CONTRADIÇÃO. NÃO VERIFICADAS. REDISCUSSÃO DA CAUSA. IMPOSSIBILIDADE. EMBARGOS DEDECLARAÇÃO CONHECIDOS E IMPROVIDOS.
+1. Como cediço, os Embargos Declaratórios, previstos no art. 1.022do Diploma Processual Civil, constituem remédio processual posto à disposição das partes sempre que houver no julgado: alguma omissão, obscuridade ou contradição, de forma que não se possa aferir com exatidão o teor da prestação jurisdicional sem que essa falha seja sanada ou ainda para corrigir erro material do acórdão.
+2. Os fundamentos de omissão e contradição no Acórdão são de mera irresignação e tentativa de reapreciação do recurso já julgado, pela inconformidade com o julgamento que lhe fora desfavorável ,eis que as matérias invocadas restaram sobejamente analisadas, tanto no voto condutor quanto no acórdão embargado.
+3. Assevero que o processo tramitou de forma regular, não existindo qualquer obscuridade, omissão, contradição ou erro a serem sanados, sendo o recurso de Embargos de Declaração meio inadequado para rediscussão da matéria.
+4. Embargos de declaração conhecidos e improvidos.
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a, da Constituição Federal, a parte ora recorrente apontaviolação aos art. 167, parágrafo único, do CTN, sustentando que houve equívoco "nos cálculos derepetição de indébito requerida com juros a partir da citação e não do trânsito em julgado" (fl. 564e).
+Não houve c  ontrarrazões.
+O Recurso Especial foi admitido pelo Tribunal de origem (fls. 589/591e).
+A irresignação não merece prosperar.
+Na origem, trata-se de Ação Ordináriaajuizado pela parte ora recorrida, com o objetivo de que se declarasse a isenção do imposto de renda e da contribuição previdenciária, bem como sua repetição de indébito.
+Julgada procedente a demanda, recorreu o réu, restando mantida, pelo Tribunal local.
+Daí a interposição do presente Recurso Especial.
+Na presente controvérsia põe-se à discussão a execução de cumprimento de sentença na qual a parte devedora se insurge contra os cálculos efetuados e homologados na sentença exequenda.
+Sobre esse tema " A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que, na fase de liquidação ou cumprimento de sentença, é inviável a alteração do critério estabelecido no título judicial exequendo para a correção monetária e juros, sob pena de ofensa à coisa julgada"(AgInt no AREsp n. 1.757.581/PR, relator Ministro Raul Araújo, Quarta Turma, julgado em 26/4/2021, DJe de 28/5/2021.)
+Ainda nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. VIOLAÇÃO AOS ARTS. 131 E 458, DO CPC DE 1973. INEXISTÊNCIA. ALEGADA VIOLAÇÃO AO ARTIGO 193 DO CC. AUSÊNCIA DE PREQUESTIONAMENTO. QUESTÃO DE ORDEM PÚBLICA. NECESSIDADE DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA N. 282/STJ. PLANILHA DE CÁLCULOS DO CONTADOR JUDICIAL. NECESSIDADE DE REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N. 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO NÃO PROVIDO.
+1. Não há falar em violação aos arts. 131 e 458, do CPC/73, pois o Tribunal de origem manifestou-se suficientemente sobre a questão controvertida, apenas adotando fundamento diverso daquele perquirido pela parte.
+2. A matéria referente ao artigo 193 do CC não foi objeto de discussão no acórdão recorrido, apesar da oposição de embargos de declaração, não se configurando o prequestionamento, o que impossibilita a sua apreciação na via especial (Súmula n. 282/STF).
+3. Ressalto que o STJ não reconhece o prequestionamento pela simples interposição de embargos de declaração. Persistindo a omissão, é necessária a interposição de recurso especial por afronta ao art. 1.022 do CPC de 2015 (antigo art. 535 do Código de Processo Civil de 1973), sob pena de perseverar o óbice da ausência de prequestionamento.
+4. No atinente à questão de ordem pública, esta Corte pacificou entendimento de que é necessário o prequestionamento. Precedente.
+5. O Tribunal local, ao dirimir a controvérsia, mediante o exame dos elementos informativos da demanda, entendeu que os cálculos apresentados pelo Contador e homologados pelo Magistrado de 1º Grau devem ser os utilizados no cumprimento de sentença. Tais conclusões não se desfazem sem o reexame de provas, o que é vedado ante a incidência da Súmula n. 7 do Superior Tribunal de Justiça.
+6. A incidência da Súmula n. 7/STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+7. Agravo interno não provido"(AgInt no AREsp n. 1.912.030/PE, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 9/5/2022, DJe de 11/5/2022.)
+Ante o exposto, com fundamento no art. 255, § 4º, II, do RISTJ, nego provimento ao Recurso Especial.
+Em atenção ao disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já arbitrado, levando-se em consideração o trabalho adicional imposto ao advogado da parte recorrida, em virtude da interposição deste recurso, respeitados os limites estabelecidos nos §§ 2º e 3º do art. 85 do CPC/2015.
+I.
