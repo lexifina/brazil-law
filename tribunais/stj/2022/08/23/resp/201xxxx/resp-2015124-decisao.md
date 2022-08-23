@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de recurso especial interposto por HOT BEACH SUÍTES OLIMPIA - EMPREENDIMENTO IMOBILIÁRIO SPE LTDA., com fundamento nas alíneas a e c do permissivo constitucional, no qual se insurge contra acórdão do Tribunal de Justiça de São Paulo assim ementado (e-STJ, fl. 307):
+AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS, MATERIAIS E REPETIÇÃO DE INDÉBITO.
+- Compromisso de compra e venda de imóvel Atraso na entrega da entrega da obra além do prazo de tolerância de 180 dias (Súmula 164 do TJSP) - Prazo de tolerância fixado no contrato de 180 dias úteis para a conclusão das obras - Cláusula abusiva
+- Aplicação do tema 1 do IRDR nº 0023203-35.2016.8.26.0000 - Indenização pelo atraso na entrega da obra. Aplicação da multa inversa. Possibilidade Entendimento fixado pelo STJ quando do julgamento dos REsp. nºs 1.614.721/DF e 1.631.485/DF (Tema 971). Danos morais. "Quantum" fixado a título de indenização por danos morais que se pautou dentro dos parâmetros norteado para o caso dos autos. Verba honorária mantida. Recurso não provido.
+No recurso especial, a recorrente aponta, além de divergência jurisprudencial, violação dos arts. 413 do CC; e 337 do novo CPC.
+Esclareceque se opõe ao acórdão aoreconhecer que há direito à inversão da cláusula penal em favor do adquirente de unidade imobiliária, bem como ao recebimento de indenização por danos morais, com base na suposta culpa exclusiva da incorporadora.
+Afirma ser descabida ainversão da cláusula penal em seu desfavor para não ocorrer oneração demasiada do incorporador imobiliário, que tanto contribui para o crescimento do Paíse é gerador de grande número de empregos. Suscita que, caso mantida, a viabilidade de redução do patamar de 2% (dois por cento) para os valores já pagos, com incidência de uma única vez, a fim de evitar enriquecimento ilícito do recorrido.
+Argui a ausência de comprovação de danos morais, logo não era hipótese de imposição em favor do adquirente de reparação e no quantumdesarrazoado e desproporcional deR$ 5.000,00 (cinco mil reais).Requero provimento do recurso especial (e-STJ, fls. 314-332).
+Contraminuta apresentada (e-STJ, fls. 349-363).
+Juízo positivo de admissibilidade do recurso especial(e-STJ, fls. 364-366).
+Brevemente relatado, decido.
+A segunda instância concluiu pela inversão em seu desfavor de cláusula penal prevista no contrato para caso de inadimplemento do promitente comprador, em respeito à tese firmada no REsp 1.614.721/DF (julgado sob o rito dos recursos repetitivos).
+Veja-se (e-STJ, fls. 308-309):
+Quanto à inversão da cláusula penal, tem por finalidade alcançar maior equilíbrio na relação, especialmente quando se verifica haver fixação de multa moratória exclusivamente em desfavor do comprador, sem qualquer indicação em desfavor da vendedora, ainda que esta esteja inadimplente. Permitir-se a não imposição de qualquer sanção para a hipótese de inadimplemento por parte da incorporadora implicaria em onerosidade excessiva para uma das partes, o que é vedado.
+Este entendimento encontra respaldo na tese julgada pelo Col. STJ em sede de recurso repetitivo (Tema 971), de caráter vinculante: Tema 971:
+"No contrato de adesão firmado entre o comprador e a construtora/incorporadora, havendo previsão de cláusula penal apenas para o adimplemento do adquirente, deverá ela ser considerada para a fixação da indenização pelo inadimplemento do vendedor.
+As obrigações heterogêneas(obrigações de fazer e de dar) serão convertidas em dinheiro, por arbitramento judicial." (REsp 1614721/DF, Rel. Min. Luis Felipe Salomão, Segunda Seção, j. em 22/05/2019)  .. .
+Portanto, a ré deverá responder pelas penalidades previstas na cláusula 6ª, alíneas b e c (fls. 43), ou seja, 2% de multa (única vez) e juros de 1% ao mês, cuja base corresponderá ao total pago (e não ao do contrato), conforme art. 43-A, parágrafo 2º da Lei nº 4.591/64 (aplicado por analogia) a partir de26/05/2019, até a disponibilização do imóvel, limitada ao total do contrato, conforme deixou exposto o Magistrado na r. sentença.
+Os pontos do aresto acerca da inversão da referida cláusula e seu respectivo percentual não destoam da jurisprudência desta Corte Superior - Súmula 83/STJ.
+Confira-se:
+AGRAVO INTERNO NO RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA. RESPONSABILIDADE DA CAIXA. FALTA DE INTERESSE RECURSAL. INVERSÃO DE CLÁUSULA PENAL. NÃO CABIMENTO.
+1. "No contrato de adesão firmado entre o comprador e a construtora/incorporadora, havendo previsão de cláusula penal apenas para o inadimplemento do adquirente, deverá ela ser considerada para a fixação da indenização pelo inadimplemento do vendedor. As obrigações heterogêneas (obrigações de fazer e de dar) serão convertidas em dinheiro, por arbitramento judicial" (REsp 1614721/DF, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 22/05/2019, DJe 25/06/2019).
+2. Alinhamento do aresto estadual com o entendimento desta Corte, visto que não houve cumulação de verbas indenizatórias do período de inadimplência da parte agravada quanto à entrega do imóvel com a inversão de cláusula penal.
+3. A jurisprudência desta Corte, por sua vez, firmou-se no sentido de que o simples descumprimento contratual, por si só, em regra, não é capaz de gerar danos morais.
+4. Inviabilidade de verificar se no caso concreto houve descumprimento contratual que ultrapassou o mero dissabor, pois demanda incursão pelo contexto fático-probatório dos autos, atividade não realizável nesta via recursal. Incidência da súmula 7/STJ.
+5. Agravo interno não provido.
+(AgInt nos EDcl no REsp n. 1.847.677/RN, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 15/12/2020, DJe de 2/2/2021.)
+No tocante ao pleito de que seu cômputo deveria incidir sobre o montante pago, e não o total do contrato, o aresto estabeleceu a aplicação analógica do art.43-A, § 2º, da Lei n. 4.591/1964. Essa premissa do aresto não foi adequadamente atacada no apelo especial, ocasionando o óbice da Súmula 283/STF.
+Destarte, a insurgente se limitou a aduzir ofensa ao art. 418 do CC, sem questionar a aplicação desse dispositivo acima declinado.
+Consoante a jurisprudência do STJ, "o simples inadimplemento contratual em razão do atraso na entrega do imóvel não é capaz, por si só, de gerar dano moral indenizável, sendo necessária a comprovação de circunstâncias específicas que possam configurar a lesão extrapatrimonial.Por outro lado, a jurisprudência do Superior Tribunal de Justiça entende cabível a indenização por danos morais, nos casos de atraso na entrega do imóvel, quando este ultrapassar o limite do mero dissabor"(AgInt no AREsp n. 1.941.686/RJ, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 20/6/2022, DJe de 22/6/2022.).
+Além do apontamento de situações específicas que descrevem eventosexcepcionais configuradores do dano, o STJ entende que assim se qualifica a grande demora na disponibilização do imóvel ao adquirente, sendo esta a situação retratada nos autos.
+Com efeito, o imóvel era para ter sido entregue em 2018 (e-STJ, fl. 309), todavia tal premissa contratual ainda não teria sido cumprida em 2022 (e-STJ, fl. 311).
+Logo, percebe-se que a condenação por danos morais - estipulada no valor adequado e proporcional deR$ 5.000,00 (cinco mil reais) -está em sintonia com a jurisprudência desta Corte Superior - Súmulas 7 e 83/STJ.
+Nota-se:
+AGRAVO INTERNO NO RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL. DANOS MORAIS. ATRASO POR PERÍODO EXPRESSIVO. CONFIGURAÇÃO. MONTANTE INDENIZATÓRIO. REVISÃO. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. O simples inadimplemento contratual em razão do atraso na entrega do imóvel não é capaz, por si só, de gerar dano moral indenizável, sendo necessária a comprovação de circunstâncias específicas que possam configurar a lesão extrapatrimonial, como na hipótese dos autos, em que o atraso na entrega do imóvel foi superior a um ano após a expiração do prazo de tolerância.
+2. É inviável a revisão do montante indenizatório, fixado em R$10.000,00 (dez mil reais) para cada comprador, por não violar a razoabilidade e proporcionalidade, incidindo o óbice da Súmula 7/STJ.
+3. Agravo interno desprovido.
+(AgInt no REsp n. 1.949.046/RJ, relator Ministro Raul Araújo, Quarta Turma, julgado em 9/5/2022, DJe de 10/6/2022.)
+Ante o exposto, nego provimento ao recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. ATRASO NA ENTREGA DE IMÓVEL. FIXAÇÃO DE INVERSÃO EM DESFAVOR DA INSURGENTE DE CLÁUSULA PENAL PREVISTA UNICAMENTE CONTRA O PROMITENTE COMPRADOR. SÚMULA 83/STJ. FUNDAMENTO DO ARESTO INATACADO NO APELO ESPECIAL. SÚMULA 283/STF. ESTIPULAÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E EM MONTANTE ADEQUADO E PROPORCIONAL. LONGO PERÍODO DE DESCUMPRIMENTO CONTRATUAL. SÚMULAS 7 E 83/STJ. RECURSO ESPECIAL DESPROVIDO.
