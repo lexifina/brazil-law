@@ -1,0 +1,87 @@
+AGRAVO INTERNO NA SUSPENSÃO DE SEGURANÇA. RECONSIDERAÇÃO. DECISÃO QUE DETERMINA A SUSPENSÃO DA TRAMITAÇÃO DE EMENDA À CONSTITUIÇÃO DO ESTADO DE GOIÁS. ALEGAÇÃO DE RISCO À ORDEM E À ECONOMIA PÚBLICAS. OCORRÊNCIA. DECISÕES FUNDAMENTADAS PRECIPUAMENTE NA INTERPRETAÇÃO DE NORMAS REGIMENTAIS. ATOS INTERNA CORPORIS NÃO SUJEITOS, COMO REGRA, À REVISÃO PELO PODER JUDICIÁRIO. PRINCÍPIO PÉTREO DA SEPARAÇÃO DOS PODERES. TEMA 1.120 DA REPERCUSSÃO GERAL. ÓBICE INDEVIDO AO REGULAR EXERCÍCIO DE COMPETÊNCIA CONSTITUCIONAL DO PODER LEGISLATIVO ESTADUAL. AGRAVO QUE SE JULGA PREJUDICADO. PEDIDO DE SUSPENSÃO QUE SE JULGA PROCEDENTE.
+
+    Decisão: Trata-se de agravo interno interposto pelo Estado de Goiás contra decisão do Eminente Ministro Dias Toffoli, Presidente, pela qual julgou extintos os pedidos de extensão formulados pelo Estado no presente incidente de contracautela (doc. 96).
+
+    Em síntese, alega o agravante que as decisões cuja suspensão busca seriam semelhantes à decisão inicialmente impugnada pelo Estado do Piauí nestes autos, em virtude da qual havia sido sobrestada a tramitação de PEC e de projeto de lei na Assembleia Legislativa daquele Estado. Sustenta ter interesse processual na análise dos pedidos de extensão formulados, uma vez que não seria possível “empreender controle preventivo de constitucionalidade de projeto de lei ou emenda, pela via do Mandado de Segurança, após o processo legislativo ter cumprido todo o seu curso”.
+
+    Argumenta haver “visível renitência” por parte de membros do Tribunal de Justiça de Goiás em reconhecer a perda de objeto dos processos de origem, haja vista já ter havido a aprovação da Emenda Constitucional Estadual n. 65/2019, que instituiu a reforma da previdência no Estado de Goiás. Repisa ser necessário o deferimento do pedido de extensão, a fim de que seja resguardada a ordem pública no Estado de Goiás.
+
+    Requer, ao final, a reconsideração da decisão de extinção dos pedidos de extensão formulados e, subsidiariamente, o provimento do recurso, a fim de que sejam suspensas as decisões impugnadas.
+
+    Devidamente intimado, o Estado de Goiás informa que permanecem vigentes as liminares impugnadas, proferidas nos Processos n.s 5730251-26.2019.8.09.0051, 5744808-18.2019.8.09.0051, 5717979-97.2019.8.09.0051, razão pela qual ainda teria interesse no julgamento do presente recurso.
+
+    É o relatório. DECIDO.
+
+    O incidente de contracautela é previsto como meio processual autônomo de impugnação de decisões judiciais, franqueado ao Ministério Público ou à pessoa jurídica de direito público interessada exclusivamente quando se verifique risco de grave lesão à ordem, à saúde, segurança e à economia públicas no cumprimento da decisão impugnada (art. 4º, caput, da Lei 8.437/1992; art. 15 da Lei 12.016/2009 e art. 297 do RISTF).
+
+    Com efeito, ao indicar tais circunstâncias como fundamentos dos incidentes de suspensão, a própria lei indica causas de pedir de natureza eminentemente política e extrajurídica, diferenciando-se das causas que geralmente justificam outros meios de impugnação de decisões judiciais e que se revelam como conceitos jurídicos indeterminados, a serem apreciados pelo julgador perante o caso concreto. Nesse sentido, também aponta a clássica jurisprudência desta Corte, in verbis:
+
+    “Suspensão de segurança: natureza cautelar e pressuposto de viabilidade do recurso cabível contra a decisão concessiva da ordem. A suspensão de segurança, concedida liminar ou definitivamente, é contracautela que visa à salvaguarda da eficácia pleno do recurso que contra ela se possa manifestar, quando a execução imediata da decisão, posto que provisória, sujeita a riscos graves de lesão interesses públicos privilegiados - a ordem, a saúde, a segurança e a economia pública: sendo medida cautelar, não há regra nem princípio segundo os quais a suspensão da segurança devesse dispensar o pressuposto do fumus boni juris que, no particular, se substantiva na probabilidade de que, mediante o futuro provimento do recurso, venha a prevalecer a resistência oposta pela entidade estatal à pretensão do impetrante. […]”. (SS 846/DF-AgR, Rel. Min. Sepúlveda Pertence, Tribunal Pleno, DJ de 8/11/1996).
+
+    Dada a natureza do instituto, a cognição do Presidente do Tribunal a quem compete a análise do incidente de contracautela deve se limitar à aferição da existência de risco de grave lesão ao interesse público, além de um juízo mínimo de plausibilidade do fundamento jurídico invocado, não cabendo-lhe a manifestação quanto ao mérito propriamente dito do que discutido no processo originário, eis que o mérito deverá ser oportunamente apreciado pelo Tribunal competente na via recursal própria. Nesse sentido é a jurisprudência desta Suprema Corte, ao afirmar que “a natureza excepcional da contracautela permite tão somente juízo mínimo de delibação sobre a matéria de fundo e análise do risco de grave lesão à ordem, à saúde, à segurança e à economia públicas” (SS 5.049-AgR-ED, rel. Min. Presidente Ricardo Lewandowski, Tribunal Pleno, DJe de 16/5/2016). Na mesma linha, é o seguinte precedente:
+
+    “Agravo regimental na suspensão de liminar. Decisão na origem em que se determinou a ampliação da distância até a qual veículos particulares podem trafegar em corredores exclusivos de ônibus para acessar vias transversais. Não comprovação de lesão à ordem social e administrativa. Agravo regimental a que se nega provimento. 1. Na estreita via de pedidos de suspensão como o presente, não se procede a uma detida análise do mérito da ação principal, tampouco se permite revolvimento do respectivo quadro fático-probatório, mas apenas a análise dos requisitos elencados pela legislação de regência. 2. É inadmissível, ademais, o uso da suspensão como sucedâneo recursal. 3. Agravo regimental ao qual se nega provimento.” (SL 1.165 AgR, Rel. Min. Dias Toffoli, Presidente, Tribunal Pleno, DJe 13/02/2020).
+
+    Anote-se ademais que, além da potencialidade do ato questionado em causar lesão ao interesse público, o conhecimento do incidente de suspensão dos efeitos das decisões provisórias pelo Presidente deste Supremo Tribunal Federal está condicionado à demonstração de que a decisão foi proferida por Tribunal e de que a controvérsia instaurada na ação originária esteja fundada em matéria de natureza constitucional (STA 782 AgR/SP, Relator Min. Dias Toffoli; SS 5112 AgR/SC, Relatora Min. Cármen Lúcia; STA 729-AgR/SC, Relator Min. Ricardo Lewandowski, e STA 152-AgR/PE, Relatora Min. Ellen Gracie). Trata-se de interpretação que deflui, a contrario sensu, também da disposição do art. 25, caput, da Lei n. 8.038/1990.
+
+    In casu, o pedido de extensão da suspensão se volta contra decisões proferidas pelo Tribunal de Justiça de Goiás em virtude das quais foi ordenada a suspensão da tramitação de emenda à constituição estadual que veiculava reforma da previdência dos servidores estaduais. Haja vista terem sido as decisões sido mantidas por Tribunal e considerando a natureza constitucional da matéria controvertida na origem, relacionada à separação de poderes, verifico o cabimento do presente incidente perante este Supremo Tribunal Federal.
+
+    A leitura das mencionadas decisões (docs. 21, 39 e 63) revela terem os julgadores na origem fundamentado sua ordem de suspensão na aparente violação a regras do Regimento Interno da Assembleia Legislativa de Goiás. É o que se depreende do seguinte excerto da decisão proferida nos autos do Processo n. 5730251-26.2019.8.09.0051 (doc. 21):
+
+    “(...) Feitas essas considerações preambulares, tão somente para demonstrar os motivos que justificam a apreciação do pedido de tutela provisória trazida a este Juízo, passo à análise do requerimento pleiteado para initio litis.
+
+    Ao que se observa da dicção do art. 189 do Regime Interno da ALEGO, “apresentado à Mesa, o projeto de emenda constitucional será encaminhado à publicação e à Comissão de Constituição, Justiça e Redação onde aguardará a apresentação de emenda pelo prazo de dez (10) sessões ordinárias do Plenário”.
+
+    E conclui o parágrafo único do mesmo artigo do Regimento Interno que “esgotado o prazo previsto no caput deste artigo, para apresentação de emendas ao projeto, o deputado a quem for distribuído o processo disporá de até três (3) reuniões ordinárias para apresentar seu relatório e de uma (1) sessão ordinária ao membro da Comissão que pedir vista”.
+
+    Portanto, no caso em testilha a razoabilidade e a probabilidade do direito afirmado pelo Autor aflora dos autos primo ictu oculi, porquanto, não está sendo observado na tramitação da proposta de emenda o fato de que após o pedido de vista de algum parlamentar, como ocorreu no caso em foco, o processo só poderá retomar o seu curso normal em sessão ordinária. Assim, revela verdadeira contrafação ao processo legislativo a continuidade ou curso do procedimento legislativo em sessão extraordinária, após pedido de vista. É que o Regimento Interno determina que após a vista realizada por algum parlamentar o processo só poderá continuar quando da realização de sessão ordinária. Trata-se de opção normativa, evando-se em consideração a natureza das matérias objeto de emenda constitucional.
+
+    Outra não pode ser a mens legis extraída do Regimento Interno, mesmo porque a opção adotada foi no sentido de que após o pedido de vista o parlamentar terá acesso ao processo, para os fins de direito, apenas até a realização da primeira sessão ordinária e não extraordinária.
+
+    Ao que se vê, manifesto no caso concreto a violação ao regimento interno da Assembleia na tramitação da referida proposta de emenda à constituição e, por corolário, do devido processo legislativo, máxime por se tratar de tema de extrema importância e envergadura, com nítido cunho social, capaz de refletir na vida de milhares de servidores públicos. (...)
+
+    Pelo exposto, Defiro a Liminar pleiteada para determinar a suspensão do curso do processo nº 2019006418 (PEC da Previdência) em trâmite na Assembleia Legislativa do Estado de Goiás, até a resolução final do mérito ou sua adequação, nos termos da fundamentação exposta, ao devido procedimento legislativo (observância do prazo regimental - termo inicial do prazo)”.
+
+    Nos limites cognitivos próprios dos pedidos de suspensão, entendo configurados os requisitos para a concessão da contracautela no presente caso concreto. Isto porque, em primeiro lugar, consigno ser assente a jurisprudência deste Supremo Tribunal Federal no sentido de ser restrito o controle judicial sobre os atos interna corporis do Poder Legislativo, relacionados à interpretação de regras regimentais que não tenham paralelo claro e expresso na própria Constituição Federal, sob pena de violação ao postulado pétreo da separação de poderes. Neste sentido são os seguintes precedentes:
+
+    “MANDADO DE SEGURANÇA DENÚNCIA CONTRA O VICE-PRESIDENTE DA REPÚBLICA IMPUTAÇÃO DE CRIME DE RESPONSABILIDADE RECUSA DE PROCESSAMENTO POR INÉPCIA DA PEÇA ACUSATÓRIA: INSUFICIÊNCIA DOCUMENTAL E AUSÊNCIA DE DESCRIÇÃO ADEQUADA DA CONDUTA IMPUTADA AO DENUNCIADO IMPUGNAÇÃO MANDAMENTAL A ESSE ATO EMANADO DO PRESIDENTE DA CÂMARA DOS DEPUTADOS RECONHECIMENTO, NA ESPÉCIE, DA COMPETÊNCIA ORIGINÁRIA DO SUPREMO TRIBUNAL FEDERAL PARA O PROCESSO E O JULGAMENTO DA CAUSA MANDAMENTAL PRECEDENTES A QUESTÃO DO JUDICIAL REVIEW E O PRINCÍPIO DA SEPARAÇÃO DE PODERES ATOS INTERNA CORPORIS E DISCUSSÕES DE NATUREZA REGIMENTAL: APRECIAÇÃO VEDADA AO PODER JUDICIÁRIO, POR TRATAR-SE DE TEMA QUE DEVE SER RESOLVIDO NA ESFERA DE ATUAÇÃO DO PRÓPRIO CONGRESSO NACIONAL OU DAS CASAS LEGISLATIVAS QUE O COMPÕEM PRECEDENTES RECURSO DE AGRAVO IMPROVIDO”. (MS 34.099 AgR, Rel. Min. Celso de Mello, Tribunal Pleno, DJe 24/10/2018).
+
+    “CONSTITUCIONAL. AGRAVO INTERNO NO MANDADO DE SEGURANÇA. ALEGAÇÃO DE ILEGALIDADE ATRIBUÍDA AO PRESIDENTE DA CÂMARA DOS DEPUTADOS. INOCORRÊNCIA. INTERPRETAÇÃO DE NORMAS DO REGIMENTO INTERNO DA CÂMARA DOS DEPUTADOS. IMPOSSIBILIDADE. ASSUNTO INTERNA CORPORIS. SEPARAÇÃO DOS PODERES. INEXISTÊNCIA DE DIREITO LÍQUIDO E CERTO. RECURSO DE AGRAVO A QUE SE NEGA PROVIMENTO.
+
+    1. Não é possível o controle jurisdicional em relação à interpretação de normas regimentais das Casas Legislativas, sendo vedado ao Poder Judiciário, substituindo-se ao próprio Legislativo, dizer qual o verdadeiro significado da previsão regimental, por tratar-se de assunto interna corporis, sob pena de ostensivo desrespeito à Separação de Poderes, por intromissão política do Judiciário no Legislativo.
+
+    2. É pacífica a orientação jurisprudencial desta SUPREMA CORTE no sentido de que, a proteção ao princípio fundamental inserido no art. 2º da CF/1988, segundo o qual, são Poderes da União, independentes e harmônicos entre si, o Legislativo, o Executivo e o Judiciário, afasta a possibilidade de ingerência do Poder Judiciário nas questões de conflitos de interpretação, aplicação e alcance de normas meramente regimentais.
+
+    3. Recurso de agravo a que se nega provimento”. (MS 36.662 AgR, Rel. Min. Alexandre de Moraes, Tribunal Pleno, DJe 07/11/2019).
+
+    “AGRAVO INTERNO EM MANDADO DE SEGURANÇA. ATO DO PRESIDENTE DA CÂMARA DOS DEPUTADOS. ALEGAÇÃO DE OFENSA AO ARTIGO 58, §2°, I, DA CF/88. INOCORRÊNCIA. DELIBERAÇÃO PLENÁRIA DA CÂMARA DOS DEPUTADOS. DESPROVIMENTO DO RECURSO APRESENTADO. MERA APLICAÇÃO DE DISPOSITIVOS REGIMENTAIS DA CASA LEGISLATIVA. ATO INTERNA CORPORIS, NÃO SUJEITO AO CONTROLE JUDICIAL. SEPARAÇÃO DE PODERES. ORDEM DENEGADA. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+
+    1. O Poder Judiciário não possui competência para sindicar atos das Casas Legislativas que se sustentam, unicamente, na interpretação conferida às normas regimentais internas. Precedentes: MS 25.144 AgR, Relator Min. Gilmar Mendes, Tribunal Pleno, DJe 28/2/2018; MS 31.951 AgR, Relator Min. Luiz Fux, Primeira Turma, DJe 31/8/2016, MS 24.356, Relator Min. Carlos Velloso, Tribunal Pleno, DJ 12/9/2003.
+
+    2. In casu, a despeito de o impetrante invocar o art. 58, §2°, I, da CRFB/1988, para amparar seu direito líquido e certo, o ato apontado como coator está baseado na interpretação dos arts. 58, § 3º, e 132, § 2º, do Regimento Interno da Câmara dos Deputados, os quais regulam o procedimento a ser adotado na hipótese de interposição do recurso previsto no supracitado artigo da Constituição.
+
+    3. Deveras, com base nessas disposições regimentais e diante da votação plenária pela rejeição dos recursos apresentados pelos ora agravantes, o ato apontado como coator se ateve a determinar o regular prosseguimento da tramitação inicialmente prevista para o Projeto de Lei 1.645, de 2019, o qual foi então enviado à Comissão de Constituição e Justiça e de Cidadania (CCJC) para a confecção da redação final.
+
+    4. Consectariamente, inexiste fundamento constitucional sendo violado pelo ato emanado pela Presidência da Casa do Povo, máxime seu alicerce decorrer unicamente da exegese do Regimento Interno da Câmara dos Deputados, razão pela qual revela a hipótese de ato interna corporis insindicável pelo Poder Judiciário. 5. Agravo interno a que se NEGA PROVIMENTO”. (MS 36.817 AgR, Rel. Min. Luiz Fux, Tribunal Pleno, DJe 07/07/2020).
+
+    Referido entendimento foi recentemente reafirmado pelo Plenário deste Supremo Tribunal Federal em julgamento de recurso extraordinário sob a sistemática da repercussão geral. Trata-se do RE 1.297.884, em que restou fixada a seguinte tese vinculante:
+
+    Tema-RG 1.120: “Em respeito ao princípio da separação dos poderes, previsto no art. 2º da Constituição Federal, quando não caracterizado o desrespeito às normas constitucionais pertinentes ao processo legislativo, é defeso ao Poder Judiciário exercer o controle jurisdicional em relação à interpretação do sentido e do alcance de normas meramente regimentais das Casas Legislativas, por se tratar de matéria interna corporis”.
+
+    À luz da mencionada jurisprudência desta Corte, verifico, nos limites da cognição possível em sede de incidente de contracautela, a plausibilidade da tese sustentada pelo Estado de Goiás, no sentido de que os juízos de origem não poderiam ter adentrado em matéria interna corporis da Assembleia Legislativa do Estado de Goiás para sustar a tramitação de emenda à constituição do Estado. Com efeito, em baseando-se as alegações dos autores precipuamente no suposto desrespeito a normas regimentais, revela-se incabível a interferência do Poder Judiciário, sobretudo em sede de tutela provisória.
+
+    Soma-se, in casu, ao fumus boni iuris da argumentação do Estado autor o inerente risco à ordem pública existente na matéria, na medida em que a decisão impugnada obsta de modo indevido o regular exercício de competência constitucional do Poder Legislativo, completando-se, assim, os requisitos para a concessão da media de contracautela pleiteada.
+
+    Ex positis, reconsidero parcialmente a decisão agravada e JULGO PROCEDENTE o pedido de extensão formulado pelo Estado de Goiás, determinando a suspensão das decisões provisórias proferidas nos Processos n. 5730251-26.2019.8.09.0051, 5744808-18.2019.8.09.0051 e 5717979-97.2019.8.09.0051, em curso perante o Tribunal de Justiça do Estado de Goiás, até o trânsito em julgado dos mandados de segurança de origem, com fundamento no art. 15, caput, da Lei 12.016/2009 c/c 297 do RISTF.
+
+    Ficam prejudicados os agravos interpostos.
+
+    Publique-se. Int..
+
+    Brasília, 23 de agosto de 2022.
+
+Ministro LUIZ FUX
+
+Presidente
+
+Documento assinado digitalmente
