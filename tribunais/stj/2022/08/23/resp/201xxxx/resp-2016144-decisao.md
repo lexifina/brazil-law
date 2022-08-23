@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de Recurso Especial interposto, com fundamento no art. 105, III, "c", da Constituição da República, contra acórdão assim ementado:
+REMESSA NECESSÁRIA E APELAÇÃO CÍVEL. SERVIDOR TEMPORÁRIO. SENTENÇA QUE RECONHECEU A NULIDADE DO CONTRATO E CONCEDEU O FGTS DOS CINCO ANOS ANTERIORES AO AJUIZAMENTO DA AÇÃO. APELAÇÃO CÍVEL. PREJUDICIAL DE PRESCRIÇÃO BIENAL. REJEITADA. PEDIDO DE SOBRESTAMENTO DO FEITO. AUSÊNCIA DE SIMILITUDE ENTRE A MATÉRIA DOS AUTOS E A MATÉRIA A SER DEFINIDA NA ADI 5.090/DF. PEDIDO NÃO ACOLHIDO. MÉRITO. ARGUIÇÃO DE LEGALIDADE DA CONTRATAÇÃO TEMPORÁRIA. AFASTADA. SERVIDOR TEMPORÁRIO. PRORROGAÇÕES SUCESSIVAS. CONTRATO NULO. ARGUIÇÃO DE AUSÊNCIA DE DIREITO À PERCEPÇÃO DO FGTS. AFASTADA. DIREITO RECONHECIDO NO ART. 19-A DA LEI Nº 8.036/90, ADIN 3.127, RE 596.478, RE 705.140 E, RE 765.320. PEDIDO DE ALTERAÇÃO DOS CONSECTÁRIOS LEGAIS. FIXAÇÃO EM CONSONÂNCIA AO TEMA 905. PEDIDO NÃO ACOLHIDO. PEDIDO DE CUMPRIMENTO DA OBRIGAÇÃO POR MEIO DE DEPÓSITOS NA CAIXA ECONÔMICA FEDERAL. NÃO ACOLHIDO. AUSÊNCIA DE ABERTURA DE CONTA NO NOME DO APELADO. OBRIGAÇÃO POR MEIO DE PAGAMENTO DIRETO. PRECEDENTES. APELAÇÃO CONHECIDA E NÃO PROVIDA. REMESSA NECESSÁRIA CONHECIDA DE OFÍCIO. ILIQUIDEZ DO JULGADO. EXCLUSÃO DA CONDENAÇÃO EM CUSTAS ANTE A ISENÇÃO DO ENTE MUNICIPAL. SENTENÇA PARCIALMENTE REFORMADA EM SEDE DE REMESSA. UNANIMIDADE.(..)
+A parte recorrente afirma que houvedivergência jurisprudencial, "em razão do acórdão recorrido ter dado interpretação diversa de outros tribunais acerca da correção do FGTS, previsto no art. 13 da Lei 8.036/90 e art. 12 da Lei 8.177/91" (fl. 291, e-STJ).
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 16.8.2022.
+A irresignação não merece prosperar.
+A divergência jurisprudencialdeve ser comprovada, cabendo a quem recorre demonstrar as circunstâncias que identificam ou assemelham os casos confrontados, com indicação da similitude fática e jurídica entre eles. Indispensável a transcrição de trechos do relatório e do voto dos acórdãos recorrido e paradigma, realizando-se o cotejo analítico entre ambos, com o intuito de bem caracterizar a interpretação legal divergente. Odesrespeito a esses requisitos legais e regimentais (art. 541, parágrafo único, do CPC, e art. 255 do RI/STJ) impede o conhecimento do Recurso Especial com base na alínea "c", III, do art. 105 da Constituição Federal. Confira-se:
+(..) DIVERGÊNCIA JURISPRUDENCIAL NÃO CONFIGURADA.
+(..)
+3. O conhecimento de recurso especial fundado na alínea "c" do art. 105, III, da CF/1988 requisita, além da indicação dos dispositivos legais violados, a demonstração analítica da divergência jurisprudencial invocada, por intermédio da transcrição dos trechos dos acórdãos que configuram o dissídio e da indicação das circunstâncias que identificam ou assemelham os casos confrontados, não sendo bastante a simples transcrição de ementas ou votos (artigos 541, parágrafo único, do Código de Processo Civil e 255, § 2º, do RISTJ). A não observância a esses requisitos legais e regimentais (art. 541, parágrafo único, do CPC e art. 255 do RI/STJ), tal como ocorrido, impede o conhecimento do recurso especial (cf. REsp 1412951/PE, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, DJe 25/11/2013; AgRg no AREsp 417.461/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 05/12/2013).
+4. Agravo regimental não provido.
+(AgRg no AREsp 621.300/DF, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 18/2/2015).
+Diante do exposto, não conheço do Recurso Especial.
+Publique-se.
+Intimem-se.
