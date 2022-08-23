@@ -1,0 +1,34 @@
+DECISÃO
+MARIO HAGEMANN  agrava de decisão que inadmitiu o  recurso  especial,  fundado  no  art.  105,  III,  "a" e "c",  da  Constituição  Federal,  contra  acórdão  do  Tribunal  de Justiça do Estado de Santa Catarina na  Apelação Criminal n. 0900834-88.2018.8.24.0038/SC.
+O recorrente foi condenado, pelo crime do art. 2º, II, c/c o art. 12, I, ambosda Lei n. 8.137/1990, a 1 ano, 1 mês e 10 dias de reclusão mais 21 dias-multa, em regime inicial aberto. A pena privativa de liberdade foi substituída por duas restritivas de direitos.
+A defesa, nas razões do recurso especial,apontouviolação dos arts. 41 e 315, § 2º, III e IV, todos do Código de Processo Penal. Alegou a ausência de fundamentação (circunstâncias fáticas do caso concreto)do acórdão para afastar a tese de inépcia da denúncia. Destacou que "a mera condição de sócio administrador não é suficiente para se imputar ao acusado a prática de crimes, no caso concreto, a sua real e efetiva participação" (fl. 852).
+O recurso foi inadmitido em juízo prévio de admissibilidade realizado pelo Tribunal local, o que motivou a interposição deste agravo.
+O  Ministério  Público  Federal , às fls. 1.082-1.088, opinou  pelo  não provimento do AREsp.
+Decido.
+I.Contextualização
+Conforme já relatado, o recorrente foi condenado pela prática do delito previsto noart. 2º, II, c/c o art. 12, I, ambos da Lei n. 8.137/1990.
+A Corte de origem, quanto à alegada inépcia da denúncia, assim se manifestou (fls. 819-820):
+ ..
+Por fim, o recorrente sustentou a inépcia da exordial acusatória, sob o argumento de que a mera condição de administrador da sociedade, sem a indicação de quais atos de gestão resultaram nos delitos imputados, não é circunstância apta a legitimar a formulação da denúncia, muito menos a autorizar a prolação de sentença condenatória.
+A prefacial, no entanto, deve ser rechaçada.
+Inicialmente, compete acentuar que a peça inaugural mostrou-se bem delineada no sentido de apresentar ao juízo as condutas típicas supostamente levadas a efeito pelo apelante, de modo a conter todos os elementos necessários ao exercício do contraditório e da ampla defesa e, por corolário, do devido processo legal.
+É o que se dessume da leitura de trecho da peça vestibular:
+O denunciado, na condição de diretor-presidente de "METALÚRGICA DUQUE S/A- EM RECUPERAÇÃO JUDICIAL", CNPJ n. 84.683.762/0001-20 e Inscrição Estadual n. 25.005.094-3, estabelecida na Rua Engelberto Otto Hagemann, n. 396, Bairro Aventureiro, em Joinvile, deixou de efetuar, no prazo legal, o recolhimento de R$ 571.381,67 (quinhentos e setenta e um mil trezentos e oitenta e um reais e sessenta e sete centavos) a título de Imposto sobre Circulação de Mercadorias e Serviços- ICMS cobrado de consumidores, locupletando-se ilicitamente mediante este tipo de apropriação de valores e ocasionando grave dano coletivo ao Estado de Santa Catarina, conforme declarado pelo sujeito passivo da obrigação em DIMEs (Declarações do ICMS e do Movimento Econômico) dos meses de março, abril, maio, junho, julho, agosto, setembro, outubro, novembro e dezembro de 2016, documento geradores da Dívida Ativa n. 17001487854, de 28/04/2017.
+Destarte, diante da leitura da inicial acusatória, verifica-se estarem delineados os fatos que supostamente constituem infração da norma incriminadora, além da descrição da conduta do réu, restando satisfeitos, portanto, os requisito do art. 41 do Código de Processo Penal (exposição dos fatos criminosos, com todas as suas circunstâncias, a qualificação do acusado e a classificação dos crimes).
+Ademais, conforme bem destacado pelo sentenciante, o Superior Tribunal de Justiça tem entendido que, nos casos de crimes societários, de difícil individualização da conduta dos agente, admite-se a denúncia de forma genérica, por interpretação pretoriana do art. 41 do Código de Processo Penal, tornando-se dispensável a descrição minuciosa e individualizada da conduta de cada acusado, bastando que a acusação narre a prática delituosa de forma a possibilitar o exercício da ampla defesa, remetendo-se para a instrução do feito o devido esclarecimento das respectivas ações criminosas  ..
+Desse modo, restando evidenciado que a denúncia aponta como sócio-administrador da pessoa jurídica - com plenos poderes de administração - à época em que os delitos foram praticados, não há como acolher o pleito de inépcia da inicial, devendo ser afastada a preliminar invocada.
+II. Inépcia da denúncia
+Prevalece o entendimento de que, com a prolação da sentença condenatória, fica esvaída a análise do pretendido reconhecimento de inépcia da denúncia. Isso porque, se, após toda a análise do conjunto fático-probatório amealhado aos autos ao longo da instrução criminal, já houve um pronunciamento sobre o próprio mérito da persecução penal (denotando, ipso facto, a plena aptidão da inicial acusatória), não há mais sentido em se analisar eventual vício da peça inaugural.
+Vale dizer, se houve condenação é porque já existiu prévia e ampla dilação probatória, na qual foi devidamente aferida a presença de elementos suficientes não apenas para o recebimento da denúnciamas, até para a condenação do recorrente.
+Ilustrativamente:
+ ..
+1. A superveniência da sentença penal condenatória (confirmada em apelação criminal) torna esvaída a pretensão de reconhecimento de inépcia da denúncia. Súmula 83 do STJ. Precedentes.  ..
+4. Agravo regimental não provido. (AgRg nos EDcl no AREsp n. 879.614/SC, Rel. Ministro Rogerio Schietti, 6ª T., DJe 14/2/2020)
+Com efeito, o STJ entende que, noscrimes contra a ordem tributária praticados em coautoria, a denúncia pode ser oferecida sem a atribuição pormenorizada e exauriente de cada ação delituosa, porémé imprescindível a demonstração, em linhas gerais, do vínculo entre a posição do agente na empresa e o crime imputado, de forma a propiciar o conhecimento da acusação e o exercício da ampla defesa.
+Na hipótese, a inicial descreve a condição do agravante dediretor-presidente da sociedade empresarial bem como a conduta ilícita.Não há que se falar em ausência de fundamentação, pois a questão da inépcia da inicial foi analisada de forma exaustiva pelo acórdão recorrido.
+O precedente indicado, nas razões do recurso especial (REsp n. 1.854.893/SP) não se adequa ao caso concreto, uma vez que naquele caso a recorrente foi absolvida por ausência de dolo nas condutas praticadas e não por ausência de elemento formal da denúncia. Não há, portanto, similitude fática.
+Ademais, no caso, não houve a demonstração de efetivo prejuízo ao exercício da ampla defesa e do contraditório, apenas a indicação de vício meramente formal.
+Portanto, o recurso especial é inadmissível pela incidênciado disposto na Súmula n. 83 do STJ.
+III. Dispositivo
+À  vista  do  exposto,  conheço do agravo para não conhecer do recurso especial.
+Publique-se  e  intimem-se.
