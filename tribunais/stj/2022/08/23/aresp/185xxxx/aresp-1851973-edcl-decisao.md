@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por Maria Cristina de Campos Durer à deliberação unipessoal desta relatoria que conheceu do agravo para não conhecer do recurso especial, nos termos da ementa assim redigida (e-STJ, fl. 363):
+AGRAVO EM RECURSO ESPECIAL. ALEGAÇÃO DE VIOLAÇÃO À COISA JULGADA. AUSÊNCIA DE INDICAÇÃO A DISPOSITIVO DE LEI FEDERAL SUPOSTAMENTE VIOLADO OU OBJETO DE DIVERGÊNCIA JURISPRUDENCIAL. SÚMULA 284 DO STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+Nas razões dos declaratórios (e-STJ, fls. 366-368), a embargante defende a existência de omissão quanto à necessidade de suspensão do processo, em virtude da afetação do Tema 1.101 do STJ, que versa sobre a mesma questão debatida nos presentes autos, em que se definirá o termo final de incidência dos juros remuneratórios referente a expurgos inflacionários, oriundo de ação de liquidação/cumprimento de sentença da ACP n. 0403263-60.1993.8.26.0053, que tramitou perante o Juízo de Direito da 6ª Vara da Fazenda Pública da Comarca de São Paulo -SP.
+Sem impugnação.
+Brevemente relatado, decido.
+Com efeito, os embargos de declaração somente são cabíveis quando houver, na decisão judicial impugnada, obscuridade, contradição, omissão ou erro material, consoante dispõe o art. 1.022, I, II e III, do CPC/2015.
+Ademais, não se desconhece que se considera também omissa a decisão que deixar de "se manifestar sobre tese firmada em julgadmento de casos repetitivos ou em incidente de assunção de competência aplicável ao caso sob julgamento" (art. 1.022, parágrafo único, I, do CPC).
+Na espécie, convém destacar que o mencionado dispostivo não se aplica à hipótese, uma vez que apenas houve a afetação do Tema 1.101 do STJ, que ainda não foi julgado.
+Ainda que se superasse tal cognição, verifica-se que o mencionado tema, em debate nos Recursos Especiais representativos da controvérsia n. 1.877.300/SP e n. 1.877.280/SP, mesmo versando sobre o termo final dosjuros remuneratórios em expurgos inflacionários, como na espécie, nas razões do recurso especial ora em julgamento a discussão se dá sob a ótica do malferimento ou não àcoisa julgada, fundamento este que não se discute nos recursos especiais repetitivos.
+Além disso, independentemente da tese vinculante que se firmar através dos recursos repetitivos,o respectivo recurso especial nem mesmo há de ser conhecido, porquanto manifestamente deficiente a sua fundamentação, conforme se observa dos seguintes trechos do julgado monocrático embargado, que se mantém integralmente (e-STJ, fl. 364):
+Concernente à matéria constitucional, impende salientar que "não cabe ao Superior Tribunal de Justiça, em recurso especial, o exame de eventual ofensa a dispositivo da Constituição Federal, ainda que para o fim de prequestionamento, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal (AgInt nos EREsp 1.082.463/DF, Rel. Min. Ricardo Villas Bôas Cueva, Segunda Seção, julgado em 18/12/2018, DJe de 1º/2/2019)
+Ademais, verifica-se que a recorrentese descurou do ônus de demonstrar qual o dispositivo de lei federal infraconstitucional foi porventura violado ou objeto de interpretação divergente pelas instâncias ordinárias, incorrendo, desse modo, em fundamentação deficiente, a atrair a incidência da Súmula 284 do STF.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Desse modo, não se evidenciando a omissão levantada, de rigor a rejeição dos presentes declaratórios.
+Ante o exposto, rejeito os embargos de declaração.
+Fiquem as partes cientificadas de que a insistência injustificada (ou desnecessária) no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL.VÍCIOS ENSEJADORES DA OPOSIÇÃO DOS DECLARATÓRIOS. INEXISTÊNCIA.EMBARGOS REJEITADOS.
