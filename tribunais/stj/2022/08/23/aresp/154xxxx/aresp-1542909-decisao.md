@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por COMPANHIA NACIONAL DE BEBIDAS NOBRES (COMPANHIA) contra decisão que negou seguimento ao seu apelo nobre manejado, por sua vez, contra acórdão do Tribunal Paulista, relatado pela Des. DORA APARECIDA MARTINS, assim ementado:
+CONFLITO NEGATIVO DE COMPETÊNCIA - Embargos à execução - Honorários pactuados com vistas a organizar e acompanhar o próprio processo de recuperação judicial -Inteligência dos artigos 49 e 67 da Leinº11.101/05 - Interpretação sistemática - Serviços que se destinam a tornar possível a consecução do próprio benefício legal - Caráter extraconcursal - Precedentes deste Tribunal - Inexistência de o Juízo Universal da Recuperação Judicial - Empresa que contínua suas atividades - Instituto afeto apenas à hipótese de falência - Precedente desta Câmara Especial- Existência de cláusula de eleição de foro - Validade conferida pela Súmula nº 335 do STF- Conflito procedente - Competência do Juízo da 22ª Vara Cível do Foro Central da Capital, ora suscitado (e-STJ, fl. 125).
+Os embargos de declaração opostos por COMPANHIA foram rejeitados (e-STJ, fls. 161/165).
+Irresignada, COMPANHIA interpôs recurso especial com base no art. 105, III, alíneas a e c, da CF, apontando a violação aos arts. 489 e 1.022 do NCPC, 47 e 49 da Lei nº 11.101/05, bem como dissídio jurisprudencial, ao sustentar que (1) o acórdão recorrido não fez menção expressa aos dispositivos legais, incorrendo em omissão e vício de fundamentação; e (2) compete ao juízo em que se processa a recuperação judicial a promoção de atos de constrição e execução do patrimônio da empresa recuperanda (e-STJ, fls. 170/194).
+O recurso não foi admitido pelo Tribunal estadual (e-STJ, fls. 422/423).
+Nas razões do presente agravo, COMPANHIA alegou que não incidem os óbices invocados (e-STJ, fls. 427/442).
+Foi apresentada contraminuta (e-STJ, fls. 448/463).
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que merece prosperar em parte.
+(2) Da competência
+Nas razões do presente recurso, COMPANHIA afirmou a violação dos arts. 47 e 49 da Lei nº 11.101/05, bem como dissídio jurisprudencial, sustentando que compete ao juízo em que se processa a recuperação judicial a promoção de atos de constrição e execução do patrimônio da empresa recuperanda.
+Sobre o tema o TJ/SP consignou que o crédito discutido é extraconcursal e o juízo da recuperação não atrai as execuções propostas, confira-se:
+Contudo, a situação vivenciada comporta uma interpretação sistemática, levando-se em consideração o objetivo do legislador, que é a de que a empresa em crise venha a se recuperar, mormente considerando que as referidas despesas com advogados e demais profissionais possuem objetivo específico, qual seja, o de organizar e acompanhar o próprio processo de recuperação judicial, deforma que não podem estar abrangidas entre os créditos sujeitos à moeda de recuperação judicial, sob pena de se caminhar em sentido contrário à Lei.
+ ..
+Como se não bastasse, salutar pontuar que o Juízo da Recuperação Judicial não atrai as demais ações de execução propostas, isto porque, diferente do que ocorre na hipótese de falência, a empresa em recuperação continua a realizar atividades comerciais, não se aplicando o artigo 76, da Lei nº 11.101/05.
+ ..
+Ante o exposto, JULGO PROCEDENTE o conflito de competência para declarar competente o Juízo da 22ª Vara Cível da Capital, ora suscitado (e-STJ, fls. 128/129).
+Contudo, esta Corte Superior possui jurisprudência consolidada de que a execução será processada no juízo competente, mas cabe ao Juízo da recuperação judicial o controle dos atos de constrição e excussão do patrimônio da empresa recuperanda, ainda que se trate de crédito extraconcursal.
+Confira-se o seguinte precedente:
+AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL. FALÊNCIA. EXECUÇÃO FISCAL. TRAMITAÇÃO. POSSIBILIDADE. AUSÊNCIA DE SUSPENSÃO. POSSIBILIDADE DE CITAÇÃO E PENHORA NO JUÍZO DA EXECUÇÃO FISCAL. NECESSÁRIO CONTROLE DOS ATOS DE CONSTRIÇÃO PELO JUÍZO DA RECUPERAÇÃO. AGRAVO NÃO PROVIDO.
+1. Os atos de execução dos créditos individuais e fiscais promovidos contra empresas falidas ou em recuperação judicial, tanto sob a égide do Decreto-Lei n. 7.661/45 quanto da Lei n. 11.101/2005, devem ser realizados pelo Juízo universal. Inteligência do art. 76 da Lei n. 11.101/2005.
+2. Tal entendimento estende-se às hipóteses em que a penhora seja anterior à decretação da falência ou ao deferimento da recuperação judicial. Ainda que o crédito exequendo tenha sido constituído depois do deferimento do pedido de recuperação judicial (crédito extraconcursal), a jurisprudência desta Corte é pacífica no sentido de que, também nesse caso, o controle dos atos de constrição patrimonial deve prosseguir no Juízo da recuperação. Precedentes.
+3. O deferimento da recuperação judicial não possui o condão de sobrestar a execução fiscal, todavia, conquanto o prosseguimento da execução fiscal e eventuais embargos, na forma do art. 6º, § 7º-B, da Lei 11.101/2005, com redação dada pela Lei 14.112, de 2020, deva se dar perante o juízo federal competente - ao qual caberão todos os atos processuais, inclusive a ordem de citação e penhora -, o controle sobre atos constritivos contra o patrimônio da recuperanda é de competência do Juízo da recuperação judicial, tendo em vista o princípio basilar da preservação da empresa.
+4. Em outros termos, o Juízo da execução fiscal poderá determinar a constrição bens e valores da recuperanda, todavia, o controle de tais atos é incumbência exclusiva do Juízo da recuperação, o qual poderá substituí-los, mantê-los ou, até mesmo torná-los sem efeito, tudo buscando o soerguimento da empresa, haja vista a sua elevada função social.
+5. Agravo interno não provido.
+(AgInt no CC n. 177.164/SP, relator Ministro LUIS FELIPE SALOMÃO, Segunda Seção, j. em 31/8/2021, DJe de 9/9/2021 - sem destaques no original)
+Assim, embora corretamente reconhecida a competência do juízo executivo, o Tribunal estadual negou a existência de um juízo recuperacional, o qual detém competência exclusiva para controlar os atos de constrição do patrimônio da recuperanda.
+Diante do provimento do recurso especial, fica afastada a alegação de ofensa ao art. 1.022 do NCPC formulada com objetivo único de prequestionamento.
+Nessas condições, CONHEÇO do agravo para DAR PARCIAL PROVIMENTO ao recurso especial, apenas para reconhecer a competência do juízo recuperacional para o controle dos atos de constrição patrimonial.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+EMPRESARIAL. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. RECUPERAÇÃO JUDICIAL. COMPETÊNCIA. CONTROLE DE ATOS DE CONSTRIÇÃO PATRIMONIAL. DISSONÂNCIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA Nº 568 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
