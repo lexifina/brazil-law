@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por Verônica Else Maria Salgado Baer e Cristiana Maria Salgado Baercontra decisão que não admitiu o recurso especial, com base no art. 105, III, a, da Constituição Federal, desafiando acórdão assim ementado (e-STJ, fl. 718):
+APELAÇÃO. AÇÃO ORDINÁRIA COM PEDIDO DE REVISÃO DE NEGÓCIO JURÍDICO. ACORDO CELEBRADO ENTRE AS PARTES. EXTINÇÃO DO PROCESSO, COM RESOLUÇÃO DO MÉRITO, CONDENANDO A PARTE AUTORA AO PAGAMENTO DAS CUSTAS FALTANTES.
+Noticiado o acordo celebrado entre as partes, o juízo singular julgou extinto o processo, condenando a parte autora nas despesas processuais. O apelo é da parte autora perseguindo a a isenção do pagamento das custas finais, na forma do art. 90, §3º, do Código de Processo Civil, e, subsidiariamente, requer seja acolhido o pleito recursal para determinar que o valor a taxa judiciária incida sobre 1/3 (um terço) da menor avaliação do imóvel, com novo cálculo. Transação anterior à sentença. Partes que devem ser dispensadas apenas do pagamento das custas remanescentes, se houver, conforme dispõe o § 3º do artigo 90 do Código de Processo Civil. Isenção que não abrange o recolhimento das custas iniciais e da taxa judiciária devidas em razão de atos processuais efetivamente praticados antes da sentença homologatória de acordo. Assim, deve a parte autora arcar com as custas processuais, que não foram recolhidas inicialmente. No entanto, parcial assiste razão à parte apelante. Isto porque, a Decisão de fls.517, index estabeleceu que o valor a ser considerado para fins de taxa judiciária deverá ser o da menor avaliação, uma vez que não se conhece o real valor do imóvel, sendo este o menor possível e indiscutido pela parte autora. Desta forma, a taxa judiciária deverá ser calculada na forma da decisão de fls. 517, index, deduzidos os valores já pagos a este título. Parcial provimento do recurso.Unânime.
+Nas razões do recurso especial, as recorrentes, alegaram violação ao art. 90, § 3º, do CPC/2015.
+Sustentaram, em síntese,o direito à isenção do pagamento das custas em caso de transação efetuada antes da prolação da sentença.
+As contrarrazões não foram apresentadas - fl. 753 (e-STJ).
+O Tribunal de origem não admitiu o processamento do recurso especial (e- STJ, fls. 755-757).
+Brevemente relatado, decido.
+Com efeito, o acórdão recorrido dirimiu a questão com base nos seguintes fundamentos (e-STJ, fls. 719-721):
+As partes celebraram acordo extrajudicial, ensejando a extinção do feito, na forma do art. 487, III, "b", do Código de Processo Civil:
+(..)
+Contudo, nos casos de perda do objeto por celebração de acordo antes da sentença, as partes ficam dispensadas do pagamento de custas processuais, permanecendo, portanto, a distribuição igualitária quanto às demais despesas e honorários:
+Art. 90. Proferida sentença com fundamento em desistência, em renúncia ou em reconhecimento do pedido, as despesas e os honorários serão pagos pela parte que desistiu, renunciou ou reconheceu.
+(..)
+§ 2º Havendo transação e nada tendo as partes disposto quanto às despesas, estas serão divididas igualmente.
+§ 3º Se a transação ocorrer antes da sentença, as partes ficam dispensadas do pagamento das custas processuais remanescentes, se houver.
+Todavia, é oportuno esclarecer que a referida dispensa do pagamento das despesas do processo abrange exclusivamente as custas decorrentes de atos praticados no processo após a homologação do acordo, como por exemplo, aquelas necessárias à baixa no registro e na distribuição.
+Assim, nota-se da própria literalidade do §3º, do artigo 90, do Código de Processo Civil, que o legislador não teve a intenção de isentar as partes do recolhimento das custas iniciais e da taxa judiciária devidas desde o início da ação, relativas aos atos processuais efetivamente praticados antes da sentença homologatória de acordo.
+Assim, deve a parte autora arcar com as custas processuais, que não foram recolhidas inicialmente.
+Dito isso, a orientação jurisprudencial do Superior Tribunal de Justiça manifesta-se no sentido da dispensa do adimplemento das custas processuais, em caso de acordo firmado antes da sentença.
+Todavia, a jurisprudência do STJ deixa clara a distinção existente entre as taxas judiciárias e as custas judiciais remanescentes, reconhecendo que o benefício só se aplica a esta última.
+Nesse sentido, confira-se ementa de elucidativo julgado da Terceira Turma deste Tribunal de Uniformização:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. TRANSAÇÃO ANTES DA SENTENÇA. APLICABILIDADE DO ART. 90, § 3º, do CPC/2015. TAXA JUDICIÁRIA QUE NÃO SE ENQUADRA COMO CUSTAS REMANESCENTES. OBRIGAÇÃO DE RECOLHIMENTO.
+1. O propósito recursal é dizer sobre a aplicabilidade do disposto no art. 90, § 3º, do CPC/2015 à execução de título extrajudicial extinta em razão de acordo celebrado previamente à prolação da sentença.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados faz incidir o óbice da Súmula 282/STF. Ademais, a alegada violação a dispositivo constitucional não pode ser apreciada na via estreita do recurso especial.
+3. O art. 90, § 3º, do CPC/2015 está localizado na parte geral do Diploma Processual, o que, por si só, evidencia ser aplicável não só ao processo de conhecimento, como também ao processo de execução.Caso fosse a intenção do legislador restringir sua aplicação ao processo de conhecimento, teria tido a cautela de inseri-lo no capítulo que trata especificamente dessa espécie procedimental ou, ao menos, teria feito alguma referência expressa nesse sentido, o que não se verifica. Assim, se as partes celebrarem acordo antes da sentença, seja no processo de conhecimento ou no de execução, ficarão dispensadas do pagamento das custas remanescentes.
+4. Despesas processuais é gênero do qual são espécies as custas judiciais, a taxa judiciária e os emolumentos. As custas judiciais têm natureza tributária e visam a remunerar os serviços praticados pelos serventuários em juízo. A taxa judiciária, a seu turno, também é um tributo, mas é devida ao Estado em contraprestação aos atos processuais.
+5. O art. art. 90, § 3º, do CPC/2015 é expresso ao referir custas remanescentes. Assim, se a legislação estadual prever o recolhimento da taxa judiciária ao final do processo - como ocorre no processo de execução no Estado de São Paulo -, as partes não estarão desobrigadas de recolhê-la, haja vista que não se confunde com as custas processuais e, portanto, não se enquadra nas custas remanescentes.
+6. A ausência de comprovação de similitude fática entre o aresto recorrido e os acórdãos paradigmas inviabiliza a análise do dissídio jurisprudencial.
+7. Recurso especial parcialmente conhecido e desprovido.(REsp 1.880.944/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 23/3/2021, DJe 26/3/2021)
+Na hipótese dos autos, depreende-se que o Tribunal de origem, atestou a responsabilidade das recorrentes pelo pagamento das custas processuais não recolhidas inicialmente.
+Dessa forma, verifica-se que o posicionamento adotado pelo Tribunal a quo está em harmonia com a jurisprudência desta Corte Superior.
+Diante do exposto, conheço do agravo para negar provimento ao recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO ORDINÁRIA COM PEDIDO DE REVISÃO DE NEGÓCIO JURÍDICO. ACORDO CELEBRADOANTES DA SENTENÇA. ISENÇÃO DAS CUSTAS PROCESSUAIS REMANESCENTES.
+BENEFÍCIO QUE NÃO SE APLICA ÀS TAXAS JUDICIAIS. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
