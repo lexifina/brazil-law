@@ -1,0 +1,12 @@
+DECISÃO
+Cuida-se de agravo apresentado por COMPANHIA DE SEGUROS ALIANÇA DO BRASIL contra a decisão que não admitiu seu recurso especial.
+O apelo nobre apresentado por COMPANHIA DE SEGUROS ALIANÇA DO BRASIL, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL, assim resumido:
+RECURSO DE APELAÇÃO - AÇÃO REVISIONAL DE CONTRATO DE SEGURO DE VIDA CUMULADA COM REPETIÇÃO DE INDÉBITO E DANOS MORAIS - INVERSÃO DO ÔNUS DA PROVA - POSSIBILIDADE - APLICAÇÃO DO CÓDIGO DE DEFESA DO CONSUMIDOR - CLÁUSULA QUE DETERMINA O REAJUSTE DO PRÊMIO POR FAIXA ETÁRIA DO SEGURADO - PRETENSÃO DE REVISÃO DAS CLÁUSULAS CONTRATUAIS NÃO PRESCRITA - APLICAÇÃO DA REGRA DA ALÍNEA "B", DO INCISO II. DO ARTIGO 206. DO CÓDIGO CIVIL. AO PEDIDO DE RESTITUIÇÃO DE VALORES EVENTUALMENTE PAGOS A MAIOR - PRAZO PRESCRICIONAL DE UM ANO PARA A REPETIÇÃO DO INDÉBITO - FATOR DE CORREÇÃO ETÁRIO CONSIDERADO ABUSIVO - RECURSO NÃO PROVIDO.
+Quanto à controvérsia recursal, pela alínea "a" do permissivo constitucional, a parte recorrente suscita violação ao art. 1.022 do CPC.
+É, no essencial, o relatório. Decido.
+Na espécie, incide o óbice da Súmula n. 284/STF, uma vez que a parte recorrente aponta violação do art. 1.022 do Código de Processo Civil de 2015 (art. 535 do Código de Processo Civil de 1973), sem especificar, todavia, quais incisos foram contrariados, a despeito da indicação de omissão, contradição, obscuridade ou erro material.
+Nesse sentido: "É deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 1.022 do CPC/2015 se faz de forma genérica, sem especificar quais foram os incisos violados. Aplica-se, na hipótese, o óbice da Súmula 284 do STF". (AgInt no AREsp n. 1.530.183/RS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 19/12/2019.)
+Confira-se também o seguinte julgado: AgInt no AREsp n. 1.559.920/SE, relator Ministro Francisco Falcão, Segunda Turma, DJe de 22/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
