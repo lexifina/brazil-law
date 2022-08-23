@@ -1,0 +1,76 @@
+DECISÃO
+Cuida-se de agravo interposto porPirahy Alimentos Ltda. contra decisão que inadmitiu recurso especialinterposto para impugnar acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (e-STJ, fl. 254):
+APELAÇÃO CÍVEL. TRANSPORTE RODOVIÁRIO. AÇÃO DE INDENIZAÇÃO. VALE-PEDÁGIO. AUSÊNCIA DE PAGAMENTO. LEI Nº 10.209/2001. SENTENÇA REFORMADA. PRECEDENTES. PRESCRIÇÃO APLICÁVEL É A DECENAL, SENDO, POR ISTO, INVIÁVEL RATIFICAR A DECISÃO PELA APLICABILIDADE DA PRESCRIÇÃO TRIENAL, APELADA QUE NÃO LOGROU COMPROVAR TER EFETUADO O ADIANTAMENTO DOS VALORES DEVIDOS PELOS PEDÁGIOS, TAMPOUCO O SEU POSTERIOR RESSARCIMENTO. ADEMAIS, É ASSENTE A PRESUNÇÃO DE VERACIDADE QUANTO AO EFETIVO PAGAMENTO DOS PEDÁGIOS, DIANTE DA EXISTÊNCIA DAS PRAÇAS E DO CUMPRIMENTO DAS ROTAS EM QUE AS MESMAS ESTÃO LOCALIZADAS. INVERSÃO DOS ENCARGOS SUCUMBENCIAIS. APELAÇÃO PROVIDA.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 302-311).
+Nas razões do recurso especial(e-STJ, fls. 319-334),a recorrentealegou, com fulcro nas alíneasae cdo permissivo constitucional, violação dos arts. 11, 373, 489, 927e 1.022 do Código de Processo Civil de 2015; 28 da Lei n. 9.868/1999; 206 e 732 e 884 do Código Civil de 2002; e 18 da Lei n. 11.442/2007.
+Sustentou, em síntese, a falta de prestação jurisdicional e de fundamentação;a nulidade do julgamento, por violação a princípio da ampla defesa, diante da sessão fechada, sem oportunidade para sustentação oral;defendeu a incidência do prazo prescricional anual relativamente à ação indenizatória ajuizada pela recorrida, ou, sucessivamente, o prazo trienal, postulando, ainda, em caso de julgamento de mérito em razão da "causa madura", seja reconhecida a prescrição, visto que proposta a ação mais de 3 anos após os fatos que a embasaram.Insurgiu-se, ainda,contra a determinação de restituição dos valores do pedágio e da condenação a título de indenização equivalente ao dobro do valor do frete realizado
+Foram apresentadas contrarrazões (e-STJ, fls. 499-516).
+O Tribunal de origem não admitiu o recurso especial em razãoda ausência de violação dos arts. 489 e 1.022 do CPC/2015; da falta de prequestionamento, aplicando-se as Súmulas n. 282 e 356 do STF; e da consonância do acórdão recorrido com o entendimento do STJ, incidindo a Súmula n. 83/STJ(e-STJ, fls. 520-528).
+Brevemente relatado, decido.
+Consoante análise dos autos, a alegação de violação do art. 1.022 do CPC/2015 não se sustenta, uma vez que o Tribunal de origem examinou, de forma fundamentada, todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que em sentido contrário à pretensão da recorrente.
+O acórdão recorrido, ao julgar o agravo de instrumento, consignou o seguinte (e-STJ, fls. 250-253):
+Antecipo assistir razão ao apelante em sua pretensão de reverter o reconhecimento da prescrição.
+Isso porque, por mais que na Ação Direta de Constitucionalidade nº 48, em relação ao transporte rodoviário - Lei 11.442/2007 - tenha sido reconhecido o prazo anual de prescrição, esse diz respeito a relação de trabalho dessa seara de atividade laboral, enquanto que, nestes autos, o debate diz respeito à indenização relativa ao valor pago pelo vale-pedágio sobre o qual o prazo prescricional praticado é o decenal.
+Se tanto não bastasse, não consta da Lei nº 11.442/2007 qualquer menção, por mínima que seja, de que regulamentava a Lei nº 10.209/2001, que disciplina o vale-pedágio, objeto da controvérsia.
+Aliás, arreda qualquer dúvida o fato de que essa é a orientação jurisprudencial capitaneada, inclusive pelo Superior Tribunal de Justiça, no sentido de que em demandas queversem sobre o pagamento da indenização pelo não adiantamento do vale-pedágio o prazo prescricional é o decenal.
+(..)
+Tendo presente a incidência do art. 1.013 do Código de Processo Civil, afastado o reconhecimento da prescrição, entendo viável o enfrentamento do mérito.
+A Lei nº 10.209/2001 instituiu o chamado vale-pedágio obrigatório para despesas comdeslocamento de carga por meio de transporte rodoviário. Nesse sentido, destaco as seguintes previsões:
+(..)
+Atentando para o presente caso, verifica-se que a relação contratual foi confirmada por ambas as partes, sendo reforçada pelos conhecimentos de transporte acostados aos autos pela demandante. A demandada, entretanto, sustenta a prova produzida pela transportadora retrata documentos unilaterais que desservem para corroborar sua pretensão.
+Impositivo registrar aqui que nada há a infirmar a prova carreada ao feito pela apelante. Isso porque presume-se a efetividade do adimplemento dos pedágios em hipóteses como a posta em causa, haja vista o fato de que a existência de praças de pedágio nos trajetos contratados entre as partes, revela-se inarredável, constituindo conjuntura incontroversa.
+Portanto, o confronto da demandada ao pleito do autor, revela-se inócua, não ultrapassando a seara meramente especulativa.
+Nessa ordem de ideias, conforme disposição legal, o valor do Vale-Pedágio não integra o valor do frete, de forma que lhe incumbia o ônus de demonstrar o acordo prévio acerca deste ponto, prova que não veio aos autos, uma vez que sequer acostou qualquer contrato ou documento que demonstrasse tal acerto prévio.
+Note-se que, conforme o disposto no art. 3º da referida lei, transcrito acima, é atribuição do embarcador custear antecipadamente o valor dos pedágios necessários ao percurso no transporte.
+Nesse contexto, não comprovado o pagamento dos valores referentes a vale-pedágio obrigatório, imperiosa a condenação da requerida a indenizar a parte autora, nos termos do art. 8º da Lei nº 10.209/2001:
+(..)
+A parte autora tem, portanto, o direito ao ressarcimento, em dobro, dos valores dos fretes, conforme os documentos espelhados no Evento nº 01 - OUT13 observada a prescrição decenal.
+Acrescento que a ré não logrou comprovar o adiantamento à autora dos valores devidos pelos pedágios, tampouco o seu posterior ressarcimento à transportadora. Embora tivesse havido o adimplemento dos fretes, o adimplemento dos pedágios, que com o preço do serviço de transporte não se confunde, não ocorreu.
+Sobre os valores devidos, deverá incidir correção monetária pelo IGP-M a contar da data de cada desembolso (data do conhecimento), com juros de mora de 1% ao mês, a contar da citação.
+(..)
+Corolário lógico de tudo quanto foi expendido supra, é a reversão da sentença que reconheceu a prescrição, e, mediante o reconhecimento da incidência do art. 1.013, II, do Código de Processo Civil, julgar procedente a ação, com o reconhecimento em prol da transportadora recorrente do direito ao receber o valor do vale-pedágio, com a respectiva penalidade, nos termos expendidos supra.
+O desate alcançado repercute na definição dos encargos sucumbenciais, os quais vão integralmente debitados à demandada, fixando-se os honorários em 15% sobre o valor da condenação. (Sem grifo no original).
+Ao analisar os embargos de declaração, o acórdão recorrido, restou assim fundamentado (e-STJ, fls. 305-308):
+Acrescento, considerados os fundamentos deduzidos pela embargante, que por mais que o Supremo Tribunal Federal tenha reconhecido a constitucionalidade da Lei nº. 11.442/2007, o prazo prescricional previsto no seu art. 18 - um ano - possui aplicabilidade exclusivamente quanto às causas elencadas no seu art. 17.
+Se tanto não bastasse, a orientação jurisprudencial consolidada no âmbito da 3ª e da 4ª Turmas do Superior Tribunal de Justiça, assim como na 11ª e na 12ª Câmaras Cíveis deste Tribunal, exterioriza o sentido de que a prescrição é decenal nas ações indenizatórias que objetivam o pagamento da multa pelo não adiantamento do vale-pedágio.
+Logo, não há espaço para sequer cogitar a respeito de omissão no aresto embargado, quanto ao argumento de que a legislação especial deve prevalecer sobre a regra geral, porquanto, em situações como a presente, em que o debate versa sobre descumprimento de relação contratual , a orientação jurisprudencial obedecida é a preconizada pelo Superior Tribunal de Justiça no sentido da aplicabilidade da prescrição decenal.
+(..)
+Isso porque tal como já pacificado pela orientação capitaneada pelo Superior Tribunal de Justiça a multa prevista no art. 8º da Lei nº 10.209/2001 configura uma sanção legal, de caráter especial, prevista na lei que instituiu o Vale-Pedágio obrigatório para o transporte rodoviário de carga, e, assim, incabível o cotejo com as disposições dos artigos 412 e 413 do Código Civil, sendo impossível a convenção das partes para lhe alterar o conteúdo.
+(..)
+Em relação à alegada omissão quanto à prova da existência de praças de pedágio nos trajetos contratados, melhor sorte não aguarda a embargante.
+Isso porque é imperioso enfatizar que, em situações como a examinada, vigora a presunção de que o transportador passou por rodovias pedagiadas no transcorrer do cumprimento do contrato, respondendo pelos custos dessa despesa.
+Na hipótese de utilização de rota alternativa, acaso detectada, há indício de que tal ocorre considerada justamente a não antecipação do frete. Se tanto não bastasse, a complementar o raciocínio, se, na data do transporte, ausentes praças de pedágio em operação, no trajeto, o ônus é da demandada, por consubstanciar fato extintivo do direito da parte demandante, providenciar na mais ampla dilação probatória do alegado.
+(..)
+Igualmente desprovida de embasamento a propalada omissão quanto à ilegitimidade passiva consubstanciada na subcontratação do serviço.
+Isso porque tanto a empresa contratante quanto a tomadora de serviços, considerada a solidariedade existente no contexto, possuem legitimidade para figurar no polo passivo da demanda.
+Relevante ao debate acrescentar que esse é o entendimento que desde há muito o Superior Tribunal de Justiça vem praticando. (Sem grifo no original).
+Registre-se que a instância ordinária solucionou de forma clara as questões que lhe foram submetidas, não configurando a ofensa ao art. 489, § 1º, do CPC/2015, isso porque, conforme entendimento desta Corte o inconformismo com os fundamentos do acórdão recorrido não significa ausência ou deficiência de motivação, porquanto não se confunde solução jurídica contrária aos interesses da parte com inexistência de efetiva fundamentação.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL NÃO DEMONSTRADOS. VIOLAÇÃO DOS ARTS. 1.022 E 489, § 1º, DO NCPC.
+NEGATIVA DE PRESTAÇÃO JURISDICIONAL E FALTA DE FUNDAMENTAÇÃO NÃO CONFIGURADAS. REVISÃO. PRETENSÃO RECURSAL QUE ENVOLVE O REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Inexistentes as hipóteses do art. 1.022, II, do NCPC (art. 535 do CPC/1973), não merecem acolhimento os embargos de declaração que têm nítido caráter infringente.
+3. Os embargos de declaração não se prestam à manifestação de inconformismo ou à rediscussão do julgado.
+4. Não há falar em violação dos arts. 489 e 1.022 do NCPC quando a decisão está clara e suficientemente fundamentada, resolvendo integralmente a controvérsia 5. A alteração das conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula nº 7 do STJ.
+6. Agravo interno não provido.
+(AgInt no AREsp n. 1.582.425/SP, Relator Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 16/8/2021, DJe 19/8/2021).
+Em relação à prescrição, na hipótese dos autos, a indenização se refere ao ressarcimento de valores pagos a título de vale- pedágio, com base no art. 1º da Lei n. 10.209/2001. Portanto, aplicável ao caso o prazo prescricional decenal, conforme disposto no art. 205 do Código Civil de 2002.
+Dessa forma, o acórdão recorrido julgou em conformidade com o entendimento desta Corte, incidindo a Súmula n. 83/STJ.
+A propósito:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO DA DECISÃO AGRAVADA. NÃO CONHECIMENTO. ART. 932, III, DO CÓDIGO DE PROCESSO CIVIL/2015. SÚMULA 182/STJ. APLICAÇÃO POR ANALOGIA. VALE PEDÁGIO. LEI Nº 10.209/2001. MULTA DEVIDA. PRESCRIÇÃO DECENAL. PRECEDENTES. SÚMULA Nº 83/STJ. NÃO PROVIMENTO.
+1. Nos termos do art. 932, III, do Código de Processo Civil/2015, não se conhece de agravo cujas razões não impugnam especificamente o fundamento da decisão agravada. Aplicação, por analogia, do enunciado n. 182 da Súmula do STJ.
+2. Em atenção ao princípio da dialeticidade, cumpre à parte recorrente o ônus de evidenciar, nas razões do agravo em recurso especial, o desacerto da decisão recorrida.
+3. O Tribunal de origem julgou nos moldes da jurisprudência desta Corte. Incidente, portanto, o enunciado 83 da Súmula do STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 962.901/RS, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 12/2/2019, DJe de 19/2/2019).
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO DE REVISÃO CONTRATUAL - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA PARTE DEMANDADA.
+1. De início, cumpre esclarecer que, na hipótese em exame, aplica-se o Enunciado 2 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça."
+2. Considerando a moldura fática delineada no acórdão recorrido, o entendimento da Corte Estadual quanto ao prazo prescricional decenal está em conformidade com a jurisprudência do STJ em casos semelhantes destes autos, inaplicando-se, por dissociação fática, o que restou deliberado, pela Segunda Seção, no REsp 1.361.182/RS e, também, no REsp 1.361.730/RS.
+3. Agravo interno desprovido.
+(AgInt no REsp n. 1.705.306/RS, relator Ministro Marco Buzzi, Quarta Turma, julgado em 7/6/2018, DJe de 1/8/2018).
+Ante o exposto, conheço do agravo paraconhecer parcialmente do recurso especial e, nesta extensão, negar-lhe provimento.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários fixados na origem para 20% sobre o valor da condenação.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. CIVIL.PROCESSO CIVIL. TRANSPORTE RODOVIÁRIO. AÇÃO DE INDENIZAÇÃO. AUSÊNCIA DE AFRONTA AOS ARTS. 489 E 1.022 DO CPC/2015. VALE-PEDÁGIO. AUSÊNCIA DE PAGAMENTO. LEI Nº 10.209/2001. PRESCRIÇÃO DECENAL. SÚMULAL 83/STJ.AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESTA EXTENSÃO, NEGAR-LHE PROVIMENTO.
