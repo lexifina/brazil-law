@@ -1,0 +1,62 @@
+DECISÃO
+JOÃO PAULO SANTOS TAVARESagrava de decisão que não admitiu seu recurso especial, interpostocom fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão proferido peloTribunal de Justiça do Estado do Parána Apelação Criminal n. 0016999-94.2004.8.14.0401.
+Nas razões do recurso especial, a defesa apontouviolação doart. 59do Código Penal, por entender que não houvefundamento idôneo para a valoração negativa dos antecedentes, dos motivos e das circunstâncias do crime. Também, compreende ser desproporcional o incremento realizado na pena-base.
+Requereu o redimensionamento da pena-base.
+O especial foi inadmitido pela Corte estadual ante a incidência daSúmulan. 83do STJ.
+O agravante ressalta que o decisum não está em harmonia com a jurisprudência do STJ e consigna ementas de alguns julgados deste Superior Tribunal que entende embasarem suas teses.
+O Ministério Público Federal manifestou-se pelonão provimento do agravo em recurso especial.
+Decido.
+O agravo é tempestivo e infirmou todos os fundamentos dodecisumatacado.
+Oespecial também é tempestivo e preenche os requisitos constitucionais, legais e regimentais para ser conhecido.
+O recorrente foi condenadoa 20 anos de reclusão, em regime fechado,por incursão noart. 121, caput, do CP.
+Os vetores em discussão neste recurso foram sopesados prejudicialmente ao réu sob os seguintes fundamentos (fl. 304, grifei):
+O pronunciado JOÃO PAULO DOS SANTOS TAVARES, ao cometer o crime, agiu com CULPABILIDADE em grau intenso, ceifando a vida da vítima por livre e espontânea vontade, ainda que ciente da reprovabilidade da conduta. Constato que o mesmo, nos termos do verbete de súmula 444 do STJ REGISTRA antecedentes criminais, haja vista a existência de condenação transitada em julgado contra sua pessoa, portanto, NÃO É PRIMÁRIO. Sua CONDUTA SOCIAL não investigada pelo que nada tenho a valorar. O acusado possui PERSONALIDADE deturpada, vez que mostrou ser agressivo, egoísta e sem qualquer sentimento humanitário, o que demonstra necessidade de sua valoração negativa. Os MOTIVOS do crime foram em razão da vítima ter chamado atenção de sua filha, a qual encontrava-se conversando com o pronunciado, e o mesmo não se agradou. As CIRCUNSTÂNCIAS em que ocorreu o crime demonstram uma maior ousadia do condenado em sua execução, vez que ao praticar o delito desferiu diversos disparos de arma de fogo na vítima, sem dar qualquer chance de defesa à mesma. As CONSEQÜÊNCIAS do crime foram graves, pois foi ceifada a vida de um pai, o que deixou danos emocionais profundos na família. Entendo que o comportamento da vítima não contribuiu para o crime.
+Todas as circunstâncias que envolvem os fatos imputados ao réu e reconhecidos pelo Conselho de Sentença, recomendam uma resposta penal suficiente e necessária para a reprovação e prevenção de crimes, consoante preconiza o Código Penal Brasileiro.
+A crueldade dos fatos imputados ao Réu, norteados pela forma animalesca de executar a vítima, conduzem, inevitavelmente, ao mais profundo juízo de reprovabilidade, justificando-se a fixação da pena base em seu grau máximo, visto que a prática de fatos deste jaez revela que o pronunciado é pessoa de conduta violenta e destituída de um mínimo sentimento, com total desprezo à dignidade e à vida humana. Aliás friso que o legislador brasileiro, ao cuidar das penas, instituiu a sanção máxima, e não consigo vislumbrar outra hipótese de aplicação da mesma para o presente caso.
+Posto isto, pelo fato de a Justiça ter o dever de reprimir rigorosamente a conduta do acusado JOÃO PAULO DOS SANTOS TAVARES, qualificado nos autos, CONDENO como CONDENADO tenho a pena base de 20 (VINTE) ANOS DE RECLUSÃO.
+A Corte estadual deu parcial provimento ao apelo defensivo, para afastar a valoração negativa da culpabilidade, da personalidade e das consequências do crime, de modo que fixou a condenação em 12 anos de reclusão.
+Quanto às vetoriais que são objeto da irresignação defensiva, assim ficou assentado no acórdão (fls. 361-362, destaquei):
+Em relação aos antecedentes criminais, observo que a fundamentação se mostra idônea, pois o apelante ostenta condenação transitada em julgado conforme se infere da Certidão Positiva de fl. 168. Mantenho este vetor.
+ ..
+Os motivos do crime estão ligados à cólera repentina que se apossou do réu em pelo fato de a vítima ter repreendido sua própria filha, adolescente que estava conversando com réu em plena madrugada. Assim, mantenho este vetor.
+Quanto às circunstâncias do delito, são notadamente desfavoráveis, pois mesmo a vítima não tendo revidado as provocações do réu, este não se conformou a alvejou com tiro mortalmente. Mantenho a negativização deste vetor.
+Afixação da pena é regulada por princípios e regras constitucionais e legais previstos, respectivamente, nos arts. 5º, XLVI, da Constituição Federal,59 e seguintes do Código Penal e 387 do Código de Processo Penal.
+Todos esses dispositivos remetem o aplicador do direito à individualização da medida concreta para que, então, seja eleito oquantumde sanção a ser aplicada ao condenado criminalmente, visando à prevenção e à repressão do delito perpetrado.
+Assim, para chegar a uma aplicação justa da lei penal, o sentenciante, dentro da discricionariedade juridicamente vinculada, deve atentar-se para as singularidades do caso concreto. Cumpre-lhe, na primeira etapa do procedimento trifásico, guiar-se pelas circunstânciasrelacionadas nocaputdo art. 59 do Código Penal, as quais não deve se furtar de analisar individualmente: culpabilidade, antecedentes, conduta social, personalidade do agente, motivos, circunstâncias e consequências do crime e comportamento da vítima.
+Em que pesem os argumentos defensivos, o aumento da sanção na primeira fase da dosimetria não comporta reparos.
+Ao sopesar contra o condenado os seus antecedentes, as instâncias ordinárias asseveraram que ele ostenta condenação transitada em julgado em seu desfavor, de modo que o aumento da reprimenda por esse vetor está idoneamente justificado.
+Os motivos do crime do crime foram concretamente avaliados em desfavor do réu, pois o Magistrado de primeiro grau assentou que o réu não se agradou de a vítima haver chamado a atenção de sua filha, que estava conversando com o acusado. Dessa forma, não há reparos a serem feitos nesse ponto.
+Nesse raciocínio:
+ ..
+II - Alegação de inidoneidade dos fundamentos utilizados para desvalorar os motivos do crime. A jurisprudência deste Tribunal Superior entende que a pena-base só pode ser exasperada pelo magistrado mediante aferição negativa de elementos concretos dos autos, a denotar maior reprovabilidade da conduta imputada. Também não é outro o entendimento deste Sodalício de que a vingança é elemento idôneo a elevar a pena-base acima do mínimo legal.
+Confira-se: HC n. 155.437/RS, Quinta Turma, Rel. Min. Napoleão Nunes Maia Filho, DJe de 14/02/2011; AgRg no HC n. 530.898/PB, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 09/12/2019; HC n. 512.510/RJ, Quinta Turma, Rel. Min. Felix Fischer, DJe de 01/08/2019; e AgRg no REsp n. 1781987/PA, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 15/02/2019.
+III - In casu, é evidente que a fundamentação utilizada para negativar os motivos do crime se refere a vingança pela morte do irmão do menor  D. . Ademais, ainda que as instâncias ordinárias tenham feito referência à ausência de chance de defesa, entendo se tratar de excesso retórico ao descrever os motivos do crime. Para tanto, o magistrado de piso narrou o fato delito e o fato pretérito, o qual ensejou a empreitada criminosa, assinalando que os acontecimentos narrados foram ratificados pelas demais elementos dos autos. Portanto, há fundamentação idônea a justificar o desvalor dos motivos do crime.
+Agravo regimental desprovido.
+(AgRg no HC n. 679.907/PB, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), 5ª T., DJe 5/10/2021, grifei)
+A valoração prejudicial das circunstâncias do delito também foi bem motivada, haja vista a constatação de que foram desferidos diversos disparos de arma de fogo contra a vítima, que nem sequer havia revidado asprovocações do réu,a demonstrar a maior reprovabilidade da conduta do acusado.
+A propósito:
+ ..
+3. No caso, de acordo com o contexto fático delineado na origem, o crime foi praticado no interior da residência de terceira pessoa inocente, e os três agentes estavam todos munidos cada qual com arma de fogo de alto potencial lesivo - espingarda, pistola e revólver calibre .38 -, efetuando grande quantidade de disparos. Tendo sido apontados elementos concretos que efetivamente evidenciam a desfavorabilidade das circunstâncias judiciais sopesadas, na hipótese, maus antecedentes, culpabilidade e circunstâncias do crime; e, não constatada desproporcionalidade na sanção, tal como fixada na origem, não há falar em ofensa ao art. 59 do CP.
+ ..
+5. Agravo regimental improvido.
+(AgRg no AREsp n. 1.822.435/DF, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 16/8/2021)
+ ..
+2. Para fins do art. 59 do Código Penal, as circunstâncias do crime devem ser entendidas como os aspectos objetivos e subjetivos de natureza acidental que envolvem o fato delituoso. In concreto, não se infere ilegalidade na primeira fase da dosimetria, pois o decreto condenatório, de forma motivada, reconheceu que o modus operandi do delito revela gravidade concreta superior à ínsita aos crimes de homicídio qualificado, pois o paciente efetuou vários disparos contra a vítima em plena via pública, mesmo após ela ter pedido clemência, tendo demonstrado extrema frieza na execução do crime, além de grande desprezo pela vida humana.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 464.374/PE, Rel. Ministro Ribeiro Dantas, 5ª T., DJe26/3/2020)
+Quantoàproporcionalidade da condenaçãoimposta, conforme reiterados julgados, a ponderação das circunstâncias judiciais do art. 59 do Código Penal não é uma operação aritmética, com pesos determinados a cada uma delas, extraídos de simples cálculo matemático.
+Nesse sentido:
+ ..
+III - Segundo a jurisprudência desta Corte Superior, a definição do quantum de aumento da pena-base, em razão de circunstância judicial desfavorável, está dentro da discricionariedade juridicamente vinculada e deve observar os princípios da proporcionalidade, razoabilidade, necessidade e suficiência à reprovação e prevenção ao crime. Não se admite a adoção de um critério puramente matemático, baseado apenas na quantidade de circunstâncias judiciais desfavoráveis, até porque de acordo com as especificidades de cada delito e também com as condições pessoais do agente, uma dada circunstância judicial desfavorável poderá e deverá possuir maior relevância (valor) do que outra no momento da fixação da pena-base, em obediência aos princípios da individualização da pena e da própria proporcionalidade.  ..
+(HC n. 437.157/RJ, Rel. MinistroFelix Fischer,5ª T., DJe 20/4/2018, destaquei)
+No caso, o Magistrado de primeiro grau,depois de sopesarseiscircunstâncias judiciais em desfavor do acusado, destacou o enorme desprezo à vida humana demonstrado pelo insurgente, que foi apontado como pessoa violenta pelo referido Juízo, razão pela qual ele entendeu ser necessária a implementação do incremento máximo da reprimenda.
+A Corte estadual, por sua vez, manteve a avaliação negativa de três vetores e, a cada um deles, atribuiu o valor de 2 anos de reclusão, por considerar tal prazo proporcional e razoável à reprovação e prevenção do crime.
+Dessa forma, constatado que o aumento da sanção foi idoneamente motivado e, ainda, com base na jurisprudência desta Corte, não se identifica a apontada desproporcionalidade no quantum de condenação imposta ao recorrente.
+Confira-se:
+ ..
+3. Na espécie, o agravante teve uma circunstância judicial valorada desfavoravelmente para os crimes de homicídio qualificado tentado e homicídio simples tentado. As reprimendas foram fixadas, respectivamente, 2 anos e 6 meses e 2 anos acima do mínimo legal.
+Essas exasperações não se revelam desproporcionais e encontram amparo no entendimento desta Corte Superior, pois é possível observar que o Magistrado sentenciante considerou as penas mínima e máxima abstratamente cominadas ao delito para estabelecer a sanção.
+4. Agravo regimental não provido.
+(AgRg no AREsp n. 1.987.882/PA, Rel. Ministro Rogerio Schietti, 6ª T. DJe 3/3/2022)
+À vista do exposto, com fundamento no art. 932, VIII, do CPC, c/c o art. 253, parágrafo único, II, "b", parte final, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se e intimem-se.
