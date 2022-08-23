@@ -1,0 +1,11 @@
+DECISÃO
+O paciente alega sofrer coação ilegal em decorrência de acórdão prolatado pelo Tribunal de Justiça local, no HC n. 2156007-20.2022.8.26.0000.
+O impetrante aponta o excesso de prazo para a resolução de incidente da execução, pois "mesmo  a defesa  fazendo pedido de progressão ao regime aberto na data de 02/05/2022" (fl. 4),passados mais de três meses ainda não obteve aprestação jurisdicional, o que revela ainobservânciado devido processo legal pelo Juízo das Execuções, não sanada pelo Tribunal de origem.
+Requer a concessão do benefício diretamente por esta Corte, porque preenchido os requisitos legais.
+Decido.
+Verifico a indevida supressão de instância, porquanto o Tribunal de origem não se manifestousobre a progressão de regime ou o aventado excesso de prazo para o exame do direito do apenado. A defesa deixou de apontar a omissão do acórdão recorrido em embargos de declaração.
+Não cabe a este Superior Tribunal resolver incidente da execução ainda não apreciado pelas instâncias antecedentes,pois não inaugurada a competência prevista no art. 105 da CF. Sem decisões judiciais a repeito da questão jurídica, não é possível divisar patente ilegalidade e saná-la de ofício.
+Entretanto, o alegado excesso de prazo está relacionado aoprincípio da razoável duração do processoe é matéria que requer apenas as informações da autoridade coatora para ser dirimida. A controvérsiaé jurídica einterfere diretamentena liberdade de locomoção, mas deixou de serenfrentada pelo Tribunal de Justiça sem motivação idônea.
+Nessahipótese, de existência de direito tutelado pelo habeas corpus não enfrentado na origem,a solução adotada por este Superior Tribunal cinge-se em determinar que o Tribunal de origem aprecie a impetração originária e oferte a devida prestação jurisdicional, que somente pode ser negada de forma justificada, à vista, por exemplo, da supressão de instância, de deficiência da instrução do writ, de falta de interesse de agir etc.
+À vista do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente o processamento deste habeas corpus. Entretanto, concedo ordem de ofício, a fim de determinar ao Tribunal de Justiça que aprecie, com urgência e como entender de direito, a tese de excesso de prazo no exame do pedido de progressão de regime.
+Publique-se e intimem-se.
