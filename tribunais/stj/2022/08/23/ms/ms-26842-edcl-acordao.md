@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, em sessão virtual de 17/08/2022 a 23/08/2022, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Nancy Andrighi, Laurita Vaz, João Otávio de Noronha, Maria Thereza de Assis Moura, Herman Benjamin, Jorge Mussi, Og Fernandes, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo e Maria Isabel Gallotti votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por ANA MARIA DE OLIVEIRA RIBEIRO, em face de acórdão que negou provimento ao agravo interno, assim ementado:
+AGRAVO INTERNO NOS EMBARGOS DEDECLARAÇÃO NO MANDADO DE SEGURANÇA CONTRA ATO JUDICIAL. PROCESSUAL CIVIL. TRÂNSITO EM JULGADO. DESCABIMENTO DO WRIT. SÚMULA 268/STF. ART. 5º, III, DA LEI 12.016/2009. INEXISTÊNCIA DE ATO ABUSIVO E ILEGAL AMPARÁVEL POR MANDADO DE SEGURANÇA. AGRAVO DESPROVIDO.
+I - Descabe a impetração de mandado de segurança contra ato jurisdicional oriundo de órgãos fracionários ou de Relator desta e. Corte Superior, salvo na hipótese de teratologia ou manifesta ilegalidade da decisão, o que não se verifica na espécie. Precedentes.
+II - Discussão sobre acerto ou desacerto do acórdão não pode ser feita pela via mandamental, a qual não tem a finalidade de substituir recurso próprio.
+III - É assente nesta Corte Superior de Justiça que o agravo interno deve trazer argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos. Agravo interno desprovido. (e-STJ. fl. 2.003)
+Nas razões recursais, a parte embargante alega os mesmos fundamentos suscitados anteriormente, defendendo a omissãojá que ausente o trânsito em julgado, pois "a decisão objeto de impetração foi publicada em 08.05.2020, e o Mandado de Segurança foi protocolado em 04.09.2020 como se infere dos autos, e portanto dentro do prazo de 120 dias" (e-STJ, fl. 2.048).
+Defende a flagrante ilegalidade e teratologia da decisão, pois "oato originalmente objeto de impetração era decisão da autoridade impetrada no Mandado de Segurança tombado sob o Nº 59.185, que se recusava a dar seguimento a Agravo Interno que impugnava decisão atinente a Gratuidade de Justiça, sob o fundamento de que não teríamos recolhido custas para o processamento de tal recurso. Mais do que isso, consoante demonstrado em tal writ, a autoridade impetrada havia seguidamente abortado diversos Agravos Internos, efetivamente impedindo que suas decisões monocráticas pudessem ser analisadas pelo Órgão Colegiado" (e-STJ, fl. 2.058).
+Impugnação não apresentada (e-STJ, fls. 2.082).
+É o breve relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO MANDADO DE SEGURANÇA. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 1.022 DO CPC/15. REDISCUSSÃO DE MATÉRIA JÁ DECIDIDA.
+1. Nos rígidos limites estabelecidos pelo art. 1.022, do Código de Processo Civil de 2015, os embargos de declaração destinam-se apenas a suprir omissão, afastar obscuridade, eliminar contradição ou sanar erro material eventualmente existentes no julgado e, excepcionalmente, atribuir-lhe efeitos infringentes quando algum desses vícios for reconhecido.
+2. O recurso aclaratório não se presta à reforma do entendimento aplicado ou ao rejulgamento da causa. Na hipótese, não se verifica a omissão apontada.
+3. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+VOTO
+Eminentes Colegas, a pretensão não merece ser acolhida.
+Nos termos do art. 1.022 do CPC/15, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição ou omissão do julgado.
+Conforme acertadamente consignado no acórdão embargado, observa-se que o último acórdão exarado no julgamento dos EDcl no AgInt nos EDcl no RMS Nº 59.185/RJ, de relatoria da e. Ministra Maria Isabel Gallotti transitou em julgado em 1º/6/2020 (certidão de fl. 1.554 dos autos do mencionado recurso em mandado de segurança), com determinação de baixa à origem na mesma data. Assim, incide no caso o disposto no art. 5º, III, da Lei n. 12.016/2009, e a Súmula n.º 268 do Pretório Excelso, verbis: "Não cabe mandado de segurança contra decisão judicial com trânsito em julgado".
+Ademais, não há como reconhecer, à toda evidência, qualquer teratologia ou manifesta ilegalidade nos fundamentos do acórdão combatido. Eventual discussão sobre o acerto ou equívoco do acórdão não pode ser feita por via desta ação mandamental, por não ter a finalidade de substituir típica modalidade recursal.
+Ao contrário, verifica-se que as decisões e acórdãos impugnados apresentam fundamentos plausíveis para inadmissão do recurso em mandado de segurança, cujo entendimento manifestado está em estrita consonância com a jurisprudência deste Superior Tribunal de Justiça sobre o tema.
+Portanto, o que a parte almeja nada mais é do que o rejulgamento da lide, repisando os mesmos argumentos, já afastados neste Tribunal.
+Nesse sentido:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DIVERGÊNCIA. EMBARGOS DE TERCEIRO. HIPOTECA FIRMADA ENTRE A CONSTRUTORA E O AGENTE FINANCEIRO. IMÓVEL COMERCIAL. INAPLICABILIDADE DA SÚMULA 308/STJ. AUSÊNCIA DE SIMILITUDE FÁTICA ENTRE OS CASOS CONFRONTADOS. INOVAÇÃO DE ARGUMENTO NO AGRAVO INTERNO. DESCABIMENTO. OMISSÃO OU CONTRADIÇÃO NO ACÓRDÃO RECORRIDO. INEXISTÊNCIA. EMBARGOS REJEITADOS.
+1. Os embargos de divergência "têm por finalidade uniformizar a jurisprudência do próprio Superior Tribunal de Justiça, quando se verificarem idênticas situações fáticas nos julgados, mas tenha se dado diferente interpretação na legislação aplicável ao caso, não se prestando para avaliar possível justiça ou injustiça do decisum" (AgInt nos EREsp n. 1.322.449/RJ, Relator Ministro Francisco Falcão, Corte Especial, DJe de 28/8/2018).
+2. No caso, da leitura dos fundamentos do acórdão embargado e dos arestos paradigmas, constata-se a ausência de similitude fática entre os casos confrontados. Isso porque, no acórdão impugnado foi consignada a tese de que a Súmula 308/STJ (A hipoteca firmada entre a construtora e o agente financeiro, anterior ou posterior à celebração da promessa de compra e venda, não tem eficácia perante os adquirentes do imóvel) aplica-se apenas aos imóveis residenciais.
+Já no primeiro precedente colacionado, a incidência do aludido enunciado sumular nem chegou a ser debatida, ao passo que no segundo, a par de também não ter havido manifestação expressa sob esse enfoque, o contrato de promessa de compra e venda firmado entre as partes tinha por objeto imóvel residencial, e não comercial  como retratado nos autos  , o que também evidencia a inexistência de identidade fática com o aresto embargado.
+3. A invocação de novos precedentes no âmbito de agravo interno não se presta à configuração do dissenso interpretativo, por representar inovação de argumento, bem como pela ocorrência de preclusão consumativa.
+4. Consoante dispõe o art. 1.022, I, II e III, do CPC/2015, destinam-se os embargos de declaração a expungir do julgado eventuais omissão, obscuridade ou contradição, ou ainda a corrigir erro material, não se caracterizando via própria ao rejulgamento da causa.
+5. Embargos de declaração rejeitados.
+(EDcl no AgInt nos EDcl no AgInt nos EDcl nos EDv nos EREsp 1352341/PR, Rel. Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 29/09/2020, DJe 07/10/2020 - grifou-se)
+PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO. AUSÊNCIA DE OMISSÃO. ERRO MATERIAL. SANEAMENTO. EMBARGOS PARCIALMENTE ACOLHIDOS, SEM EFEITOS INFRINGENTES.
+1. Consoante a literalidade do artigo 1.022 do Código de Processo Civil, os embargos de declaração são cabíveis para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento, e/ou corrigir eventual erro material.
+2. O recurso aclaratório possui finalidade integrativa e, portanto, não se presta à reforma do entendimento aplicado ou ao rejulgamento da causa. Na hipótese, não se verifica a omissão apontada.
+3. Diante de equívoco constante na ementa da decisão impugnada no agravo interno, deve ser sanado o erro material, sem efeitos infringentes.
+4. Embargos de declaração acolhidos, em parte, apenas para sanar erro material, sem efeitos infringentes.
+(EDcl no AgInt nos EDcl no RE nos EREsp 1098102/SC, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, CORTE ESPECIAL, julgado em 07/04/2020, DJe 16/04/2020 - grifou-se)
+Cumpre ressaltar, por fim, que os aclaratórios não se prestam ao reexame de questões já analisadas com o nítido intuito de promover efeitos modificativos ao recurso.
+Ante o exposto, rejeito os embargos de declaração.
+Advirto às partes que a oposição de incidentes manifestamente improcedentes e protelatórios dará azo à aplicação das penalidades legalmente previstas.
+É o voto.
