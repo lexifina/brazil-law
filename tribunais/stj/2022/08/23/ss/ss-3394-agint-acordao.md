@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, em sessão virtual de 17/08/2022 a 23/08/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Nancy Andrighi, Laurita Vaz, João Otávio de Noronha, Maria Thereza de Assis Moura, Herman Benjamin, Og Fernandes, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo e Maria Isabel Gallotti votaram com o Sr. Ministro Relator.
+Licenciado o Sr. Ministro Paulo de Tarso Sanseverino.
+Presidiu o julgamento o Sr. Ministro Jorge Mussi.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto por TERRA FÉRTIL EMPREENDIMENTOS EIRELI contra a decisão de fls. 348-351, que deferiu o pedido de suspensão dos efeitos dasentença preferida pelo juiz de direito da Vara Única da Comarca de Urbano Santos (MA), nos autos do Mandado de Segurança n.0801402-72.2021.8.10.0138.
+O referido magistrado de primeiro grau, compreendendo tratar-se de lide simulada, extinguiu o processo e, com base no art. 142 do CPC, determinou, inclusive com caráter de tutela de urgência, a suspensão delicitação objeto do questionamento mandamental.
+Diante de tal decisão, o município requerente manejou a Suspensão de Sentença n. 0809532-43.2022.8.10.0000 na Presidência do TJMA,não obtendo, contudo, êxito (fls. 25-26), o que levou ao peticionamento da presente suspensão, a qual foi deferida e é objeto de impugnação por meio desse agravo interno.
+Nas razões do recurso, a empresa Terra Fértil Empreendimentos Eireli aduz que os requisitos para concessão da suspensão não foram demonstrados e que a vedação de licitação é restrita aos trechos 1 e 2 do Edital de Licitação n. 2/2021, modalidade tomada de preço, do Processo Administrativo n. 05040900/21/SINFRA, e não a toda e qualquer licitação.
+Argumenta ainda que o alcance da suspensão deferida pelo magistrado de origem não é capaz de comprometer a ordem e as finanças públicas, menos ainda a perda de recursos federais.
+Pugna, por fim, caso não seja reconsiderada a decisão agravada, pela submissão do presente recurso ao colegiado.
+É, no essencial, o relatório.
+EMENTA
+SUSPENSÃO DE SEGURANÇA. AGRAVO INTERNO. IMPOSSIBILIDADE LEGAL DE UTILIZAÇÃO DO INCIDENTE PROCESSUAL DA SUSPENSÃO COMO SUCEDÂNEO RECURSAL. NÃO COMPROVAÇÃO INEQUÍVOCA DE VIOLAÇÃO DOS BENS JURÍDICOS TUTELADOS PELA LEGISLAÇÃO DE REGÊNCIA.
+1. O deferimento do pedido de suspensão está condicionado à cabal demonstração de que a manutenção da decisão impugnada causa efetiva lesão ao interesse público.
+2. A suspensão de liminar e de sentença é medida excepcional que não tem natureza jurídica de recurso, razão pela qual não propicia a devolução do conhecimento da matéria para eventual reforma.
+3. Na espécie, aexcepcionalidade prevista na norma de regência foi devidamente comprovada, visto quea vedação imposta à administração para que, no curso do desenvolvimento das suas políticas públicas, possa se valer da autotutela administrativa, com o objetivo de reformar atos viciados e implementar ajustes nos processos licitatórios, colide com os preceitos legais insculpidos no ordenamento jurídico brasileiro.
+Agravo interno improvido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Nada a prover.
+Na origem,a empresa Terra Fértil Empreendimento Ltda. manejou o Mandado de Segurança n. 0801402-72.2021.8.10.0138 para questionar suposto ato ilegal praticado pelo Prefeito do Município de São Benedito do Rio Preto (MA) no processo licitatório, modalidade tomada de preços, que tem por objeto a realização de obras de melhoramento de caminhos de acesso (estradas vicinais) dentro da área geográfica da municipalidade.
+O Juízo de primeiro grau, conforme relatado, entendeu que teria ocorrido "lide simulada entre ambas as partes processuais, nos moldes do art. 142 do CPC/2015", no que extinguiu o processo sem resolução de mérito e ainda determinou (fl. 42):
+ ..  a SUSPENSÃO de qualquer licitação envolvendo a construção de estradas vicinais no TRECHO 01 (16,175 km iniciando no Povoado Rio Prata, passando pelo Povoado Buritizal, até chegar no Povoado Lúcia) e no TRECHO 02 (8,1 km iniciando no Povoado Buritizal, passando pelo Povoado Picos até chegar no Povoado Cabaceira da Ana Rosa) até que o TCE/MA e TCU se manifestem, em juízo cautelar de Representação, acerca da legalidade do Edital Tomada de Preços nº 09/2021 (ID 51992939).
+Com efeito, conforme consignado na decisão agravada, sabe-se que o deferimento da suspensão de segurança é condicionado à demonstração da ocorrência de grave lesão à ordem, à saúde, à segurança e à economia públicas. Seu requerimento é prerrogativa de pessoa jurídica que exerce múnus público, decorrente da supremacia do interesse estatal sobre o particular.
+Ademais, esse instituto processual é providência extraordinária, sendo ônus do requerente indicar na inicial, de forma patente, que a manutenção dos efeitos da medida judicial que busca suspender viola severamente um dos bens jurídicos tutelados, pois a ofensa a tais valores não se presume.
+A suspensão de segurança não tem natureza jurídica de recurso, razão pela qual não propicia a devolução do conhecimento da matéria para eventual reforma. Sua análise deve restringir-se à verificação de possível lesão aos bens descritos na legislação de regência, sem adentrar o mérito da causa principal, de competência das instâncias ordinárias.
+Amens legisdo instituto da suspensão de segurança ou de sentença é o estabelecimento de prerrogativa justificada pelo exercício da função pública na defesa do interesse do Estado. Sendo assim, busca evitar que decisões contrárias aos interesses primários ou secundários, ou ainda mutáveis em razão da interposição de recursos, tenham efeitos imediatos e lesivos para o Estado e, em última instância, para a própria coletividade.
+Frise-se que a lesão ao bem jurídico deve ser grave e iminente, devendo o requerente demonstrar, de modo cabal e preciso, tal aspecto da medida impugnada. Nesse sentido, veja-se precedente:
+AGRAVO REGIMENTAL. SUSPENSÃO DE LIMINAR. LESÃO À ORDEM E ECONOMIA PÚBLICAS NÃO DEMONSTRADA. - O potencial lesivo à ordem pública e econômica deve ser demonstrado de forma inequívoca. Precedentes.- Não se admite suspensão louvada apenas em suposta ameaça de grave lesão à ordem jurídica. Precedentes. (AgRg na SLS n. 845/PE, relator Ministro Humberto Gomes de Barros, Corte Especial, DJe de 23/6/2008.)
+No caso em apreço, a excepcionalidade prevista na norma de regência, consoante anteriormente destacado, foi devidamente comprovada.
+A determinação judicial que suspendeu, por tempo indeterminado, a realização de licitações envolvendo obras de melhoria que têm por finalidade promover mais qualidade de vida à municipalidadecausa clara lesão à ordem administrativabem como prejudica a execução de convênios obtidos com verba federalque dispõem de prazo certo para sua execução.
+No caso, a vedação imposta à administração para que, no curso do desenvolvimento das suas políticas públicas, possa se valer da autotutela administrativa, com objetivo de reformar atos viciados e implementar ajustes nos processos licitatórios, colide com os preceitos legais insculpidos no ordenamento jurídico brasileiro.
+Destaque-se o fato de que nem sequer existe notícia de decisão de cortes de contas sobre a ilegalidade dos procedimentos licitatórios questionados, de modo que a determinação judicial acaba por gerar efeitos permanentes e impeditivos à administração pública para bem realizar suas atribuições finalísticas sem uma posição final daquele que tem atribuição constitucional de fiscalização do gasto público.
+Nesse quadro, fica latente a grave lesão à ordem administrativa,porquantoa determinação de suspensão de qualquer licitação envolvendo a construção de estradas vicinais nos trechos relatados até que o TCE/MA e o TCU se manifestem,de modo geral e abstrato, em um juízo cautelar de representação, mostra-se prejudicial à atividade administrativa do Poder Executivo, revelando-se, portanto, indevida interferência judicial.
+Por essas razões, entendo que ficou demonstrada a grave lesão à ordem administrativa e econômica, razão pela qualfora deferido o pedido para suspender a eficácia da decisão impugnada, proferida pelo juizde direito da Vara Única da Comarca de Urbano Santos,nos autos do Mandado de Segurança n. 0801402-72.2021.8.10.0138 até seu trânsito em julgado.
+Assim, da leitura da petição de agravo interno não se extrai argumentação relevante apta a infirmar os fundamentos da decisão ora agravada.
+Nada havendo nada a retificar ou a esclarecer, deve a decisão agravada ser mantida.
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
+MINISTRO HUMBERTO MARTINS
+Presidente
