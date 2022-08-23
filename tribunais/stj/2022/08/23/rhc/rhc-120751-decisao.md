@@ -1,0 +1,29 @@
+DECISÃO
+FERNANDO ARAGÃO DOS SANTOS alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal a quo no HC n. 2085632-96.2019.8.26.0000.
+A defesa sustenta que "a revogação da suspensão condicional do processo, sem outorgar à defesa oportunidade de manifestar-se, viola frontalmente as garantias constitucionais do contraditório e da ampla defesa" (fl. 73).
+Requer a declaração de nulidade da decisão do Juiz da VEC, "abrindo-se vistas ao paciente para manifestar-se sobre o descumprimento das condições impostas, notadamente, o comparecimento mensal ao juízo" (fl. 75).
+O Ministério Público Federal opinou pelo não provimento do recurso (fls. 112-113).
+Decido.
+Extrai-se dos autos que o paciente - denunciado pela prática do delito previsto no art. 306 da Lei n. 9.503/1997 - foi beneficiado pela suspensão do processo pelo prazo de dois anos, cuja homologação ocorreu em 10/9/2015, nos termos do art. 89, da Lei n. 9.099/1995. Posteriormente apontaram aos autos notícias de descumprimento das condições impostas no acordo, o que ensejou a revogação do benefício, em 31/8/2018.
+Sobre a alegada ofensa ao contraditório e à ampla defesa, assim se manifestou a Corte local (fls. 65, grifei):
+Inicialmente, verifica-se que o paciente, durante o período de prova do aludido benefício, estabelecido em 02 anos, foram impostas as seguintes condições: "a- não frequentar bares ou similares; b- proibição de ausentar-se da Comarca onde reside, sem autorização do Juízo, por mais de 08 (oito) dias, sem prévia comunicação; c- comparecimento pessoal e obrigatório a Juízo, bimestralmente, até o dia 10, para informar e justificar suas atividades; d- não mudar de endereço sem comunicar ao Juízo; e- perdimento do valor depositado, à título de fiança (fls. 27)".
+Todavia, conforme certidões de fls. 10, 16, 20, 21 e 24, o paciente, por diversas vezes, deixou de comparecer em Juízo sendo que, em algumas oportunidades, sequer foi possível o contato telefônico.
+Importante ressaltar que, a revogação da suspensão condicional do processo ocorrida na hipótese ora sob exame, não viola os princípios do contraditório e da ampla defesa, pois, o paciente quando aceitou a proposta de suspensão condicional do processo formulada pelo Ministério Público, foi advertido de que o descumprimento das condições impostas acarretaria à revogação do benefício, com a retomada do curso normal do processo.
+ ..
+No caso em tela, verifica-se que o paciente deixou de comparecer em Juízo para informar e justificar suas atividades e, portanto, depreende-se que tal comportamento configura descaso total, quer com o Juízo, que lhe concedeu a excepcional benesse, quer com a própria Justiça.
+Logo, não restava alternativa ao MM. Juiz a quo, a não ser revogar o benefício, nos termos o artigo 89, § 4º, da Lei nº 9.099/95.
+Outrossim, cumpre salientar que o paciente não trouxe aos autos qualquer prova apta a comprovar sua alegação de impossibilidade de comparecimento ante o excesso de trabalho.
+Dessa forma, ante a falta de justificação plausível para o não comparecimento verifica-se o descaso perante a Justiça e, portanto, acertada a decisão do d. Magistrado a quo que revogou o benefício de suspensão condicional do processo.
+A matéria relativa ao descumprimento do acordo firmado para a imposição do sursis processual já foi enfrentada pela Terceira Seção do Superior Tribunal de Justiça. Consoante entendimento firmado no âmbito do Recurso Especial Repetitivo n. 1.498.034/RS, "se descumpridas as condições impostas durante o período de prova da suspensão condicional do processo, o benefício poderá ser revogado, mesmo se já ultrapassado o prazo legal, desde que referente a fato ocorrido durante sua vigência".
+Da mesma forma, entende-se, nos casos de revogação facultativa, pela necessidade de intimação da parte ou de sua defesa para justificar o descumprimento e contraditar o pedido de revogação.
+Nesse sentido:
+1. Consoante entendimento sedimentado no âmbito do Recurso Especial Repetitivo n. 1.498.034/RS, "se descumpridas as condições impostas durante o período de prova da suspensão condicional do processo, o benefício poderá ser revogado, mesmo se já ultrapassado o prazo legal, desde que referente a fato ocorrido durante sua vigência" (REsp 1498034/RS, Rel. Ministro ROGERIO SCHIETTI CRUZ, TERCEIRA SEÇÃO, julgado em 25/11/2015, DJe 02/12/2015).
+2. Nos termos do artigo 565 do Código de Processo Penal, "nenhuma das partes poderá argüir nulidade a que haja dado causa, ou para que tenha concorrido, ou referente a formalidade cuja observância só à parte contrária interesse".
+3. Tendo o magistrado determinado a intimação do ora agravante para justificar o não cumprimento das condições estabelecidas, o que não ocorreu porque não foi encontrado no endereço constante dos autos, não pode pretender a anulação da revogação do benefício, sob o argumento de que não lhe teria sido oportunizado o direito de se manifestar, pois o ordenamento jurídico repudia a adoção de comportamentos contraditórios em sede processual. Precedente
+4. Agravo regimental desprovido.
+(AgRg no REsp n. 1.874.224/MT, relator Ministro Jorge Mussi, 5ª T., DJe de 25/8/2020, destaquei)
+Na hipótese dos autos, as tentativas de intimação do acusado foram infrutíferas (não foi localizado nos endereços fornecidos), conforme certidões acostadas às fls. 51 e 52. Então, por esse aspecto, não pode o acusado alegar nulidade de que ele próprio deu causa.
+O acórdão impugnado, por sua vez, consignou que "o paciente não trouxe aos autos qualquer prova apta a comprovar sua alegação de impossibilidade de comparecimento ante o excesso de trabalho" (fl. 65).
+Portanto, não identifico violação ao contraditório e à ampla defesa que possa dar ensejo à nulidade do julgado impugnado.
+À vista do exposto, denego a ordem.
+Publique-se e intimem-se.
