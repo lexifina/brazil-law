@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se derecurso em habeascorpus interposto por RAFAEL PALHARINI E OUTROS,contra acórdão do Tribunal de Justiça do Estadodo Maranhão (Processo n. 0811786-86.2022.8.10.0000).
+Os recorrentes encontram-se presos preventivamente pela prática, em tese, dos delitos previstos nos arts. 33 e 35 da Lei n.11.343/2006.
+Sustentam a ausência de fundamentação idônea para justificar o decreto da segregação cautelar, reputando não atendidos os requisitos autorizadores da preventivaprevistos no art. 312 do Código de Processo Penal.
+Aduzem que, "analisando integralmente o caderno processual, não subsiste a necessidade de submissão dos recorrentes a constrição máxima de liberdade, se mostrando afastada a necessidade exigida, a qual pode ser alcançada com a imposição de medidas alternativas à prisão" (fl. 246).
+Requerema revogação da prisão preventiva, fixando, caso se entenda necessário, medidas cautelares menos gravosas.
+O Ministério Público Federal manifestou-se pelo desprovimentodo recurso (fls. 276-280).
+É o relatório. Decido.
+A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 2/9/2020).
+No caso, está justificada a manutenção da preventiva, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP, não sendo recomendável a aplicação de medida cautelar referida no art. 319 do CPP. A propósito, assim se manifestou o Tribunal a quo (fl. 216):
+De outro lado, constato que se encontram preenchidos, a termos, os requisitos exigidos para a decretação da prisão preventiva, sobretudo, o disposto no Art. 313, I, do Código de Processo Penal, tendo em vista que os crimes imputados aos pacientes são punidos com penas privativas de liberdade máximas superiores a 4 (quatro) anos.
+Ademais, como apontado pelo Juízo a quo, a expressiva quantidade de drogas apreendida (138 Kg) e os indícios de provável tráfico interestadual de substâncias entorpecentes acusam risco plausível à ordem pública.
+Isso porque constato o evidente grau de periculosidade dos agentes e a grande probabilidade de reiteração delitiva, razão pela qual se impõe a manutenção da prisão preventiva dos pacientes, na forma do Art. 312 do Código de Processo Penal, não havendo que se cogitar a substituição da prisão por medidas cautelares diversas da custódia cautelar.
+Tendo a necessidade da prisão cautelar sido exposta de forma fundamentada e concreta, é incabível a substituição por medidas cautelares mais brandas (RHC n. 133.153/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 21/9/2020).
+Observa-se que a grande quantidade de drogas apreendidas, os indícios de provável tráfico interestadual de substâncias entorpecentes eo risco de reiteração delitiva foram considerados pelo Juízo de primeiro grau para a decretação da prisão preventiva.
+Esse entendimento está em consonância com a jurisprudência da Quinta Turma de que a quantidade, a variedade ou a natureza das drogas apreendidas servem de fundamento para a decretação da prisão preventiva (AgRg no RHC n. 131.420/MS, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 30/9/2020; e AgRg no HC n. 590.807/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 28/9/2020).
+No mesmo sentido, o Supremo Tribunal Federal assentou que "a gravidade concreta do crime, omodus operandida ação delituosa e a periculosidade do agente, evidenciados pela expressiva quantidade e pluralidade de entorpecentes apreendidos, respaldam a prisão preventiva para a garantia da ordem pública" (HC n. 130.708/SP, relatora Ministra Cármen Lúcia, Segunda Turma, DJe de 6/4/2016).
+Ante o exposto,com base no art. 34, XVIII,b, do RISTJ,nego provimento ao recurso ordinário em habeas corpus.
+Publique-se.Intimem-se.
