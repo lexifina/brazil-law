@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravos interpostos por VIVIANE DE ALMEIDA BARBOSA, MAURICIO FERREIRA RIGOBELI, ROBERTO ELEUTERIO DE SOUZA e REGINA DE SOUZAcontra decisão do Tribunal de Justiça do Estado de São Paulo, que não admitiu os recursos especiaismanejados com apoio no art. 105, inciso III, alínea"a", da Constituição da República.
+Nas razões recursais, alega a defesa daprimeirarecorrente violação dos seguintes dispositivos legais:art. 157 do CPP e art. 5º, inciso LVI, da CRFB; art. 2º, inciso II, da Lei n.9.296/1996; arts. 41 e 384 do CPP; art. 35, caput, da Lei n. 11.343/2006; art. 288 do CP; art. 64, I, do CP e art. 33, do CP.
+Em relação ao segundo recorrente, aduz ofensa aos artigos:564, IV, e 159, § 6º, ambos do CPP; 70 doCP; 155 e 156, do CPP;1ºdo CP e 16 do Estatuto do Desarmamento; 2º, "a" do Decreto n. 9.847/19;386, incisos III e VII, e 383, do CPP;33, § 2º, "h"; bem como ao enunciado contido na Súmula 719 do STF.
+A defesa do terceiro recorrente sustenta afronta aos seguintes dispositivos legais:art. 157 do CPP e art. 5º, inciso LVI, da CRFB; art. 2º, inciso II, da Lei n. 9.296/1996; arts. 41 e 384 do CPP; art. 35, caput, da Lei n. 11.343/2006; art. 288 do CP; art. 59, 33 e 70, todos do CP.
+Quanto à quarta recorrente, afirma que haveria violação do art. 2º, II, e parágrafo único, da Lei n. 9.296/1996.
+Viviane de Almeida Barbosa defende, em suma, a existência de nulidades processuais, quais sejam:quebra da cadeia de custódia da prova;ilegalidade da interceptação telefônica;inépcia da denúncia;emendatio libelli, diante da inclusão pelo MP de duas causas de aumento de pena, em sede de memoriais. Assevera, ainda, que não teriam sido demonstradas a estabilidade e permanência da suposta associação criminosa, e que, afastada a reincidência, a dosimetria da pena deveria ter sido refeita, ainda que mantidos os maus antecedentes. Insurge-se, por fim, quanto ao regime para o cumprimento inicial da pena privativa de liberdade.
+Mauricio Ferreira Rigobeli, por sua vez, aduz que houve quebra da cadeia de custódia da prova; assevera que não há nos autos laudo pericial que comprove a potência do disparo da arma de fogo, em joules, para conferir se o armamento seria de uso permitido ou de uso restrito; não existiria comprovação de que o réu estaria associado com os demais para o cometimento de crimes. Assevera que o fato de manter em depósito armamento e munições de uso restrito não permitiria o reconhecimento de concurso formal, previsto no art. 70 do CP. Insurge-se, ainda, quanto ao regime inicial, por entender que não haveria fundamentação concreta para a fixação do regime mais gravoso.
+Roberto Eleutério de Souza sustenta, do mesmo modo, a ilicitude das provas e ilegalidade da interceptação telefônica; inépcia de denúncia;emendatio libelli em prejuízo da defesa; e ausência de animus associativo. Insurge-se quanto à dosimetria penal, pugnando pela fixação da pena-base em seu mínimo legal, o reconhecimento do concurso formal de crimes (quanto aos delitos de quadrilha e associação para o tráfico de drogas), sob pena de indevido bis in idem, e a fixação de regime prisional diverso do fechado.
+Regina de Souza defende a ilicitude das escutas telefônicas, ressaltando que a representação pela interceptação se deu com base apenas no que foi obtido no celular apreendido com um dos corréus. Afirma, também, que a denúncia seria inepta.
+Por fim, pleiteiam o provimento dos recursos para que seja reformado o acórdão recorrido.
+Foram apresentadas contrarrazões (e-STJ, fls. 3060-3101).
+Os recursos foraminadmitidos (e-STJ, fls. 3119-3125). Daí estes agravos (e-STJ, fls. 3132-3149 e 3175-3194).
+O Ministério Público Federal opina pelonão conhecimento dos agravos interpostos por Maurício Ferreira Rigobeli e por Regina de Souza; epelo não provimento dos agravos de Viviane Barbosa e de Roberto Eleutério de Souza (e-STJ, fls.3237-3242).
+É o relatório.
+Decido.
+A irresignação dos agravantes não merece conhecimento.
+Conforme constante das decisõesagravadas, os recursos especiaisnão foramadmitidos diante dos seguintes fundamentos:
+a)Viviane de Almeida Barbosa eRoberto Eleutério de Souza: não cabimento de recurso especial por alegada ofensa a dispositivo constitucional; Súmula 283 do STF (deficiência de fundamentação dos recursos); Súmula 7 do STJ (impossibilidade de reexame fático-probatório) (e-STJ, fls. 3119-3120 e 3121-3122);
+b)Mauricio Ferreira Rigobeli: não cabimento de recurso especial por alegada ofensa a dispositivo constitucional; Súmula 7 do STJ (impossibilidade de reexame fático-probatório); e Súmula 518 do STJ (não cabimento de recurso especial por alegada violação de súmula) (e-STJ, fls. 3124-3125);
+c)Regina de Souza: Súmula 7 do STJ (impossibilidade de reexame fático-probatório) (e-STJ, fl. 3123).
+Por outro lado, os agravantes não refutaramadequadamente os fundamentos das decisõesagravadas.
+As defesas deViviane de Almeida Barbosa e Roberto Eleutério de Souzanão impugnaramo fundamento relativo à impossibilidade de admissão do recurso especial quando se alega ofensa a dispositivo constitucional.
+A defesa deMauricio Ferreira Rigobeli, do mesmo modo,não impugnou o referido fundamento, e olvidou-se, também, de refutar o óbice da Súmula 518 do STJ.
+Quanto àRegina de Souza, não houve impugnação ao óbice da Súmula 7 do STJ, na medida em que, no agravo, a defesa limitou-se a reiterar as razões de mérito do recurso especial.
+Com isso, é inafastável a aplicação do impeditivo da Súmula 182 deste Superior Tribunal ("é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada"). Nesse sentido, confiram-se os seguintes precedentes: AgRg nos EREsp 1.387.734/RJ, Rel. Ministro JORGE MUSSI, CORTE ESPECIAL, DJe de 9/9/2014; e AgRg nos EDcl nos EAREsp 402.929/SC, Rel. Ministro JOÃO OTÁVIO DE NORONHA, CORTE ESPECIAL, DJe de 27/8/2014.
+Anote-se, ainda, que o Código de Processo Civil de 2015, em seu art. 932, reafirmou a orientação do STJ, ao exigir a impugnação específica dos fundamentos da decisão agravada.
+Ademais, tem-se que: "a jurisprudência desta Corte é assente no sentido de que, para afastar a incidência da Súmula 182/STJ, não basta a impugnação genérica dos fundamentos da decisão agravada, é necessário que a contestação seja específica e suficientemente demonstrada" (AgInt no REsp 1.600.403/GO, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 23/8/2016, DJe 31/8/2016, com destaque).
+Acrescenta-se que, no julgamento do EAREsp 746.775 (DJe 30/11/2018), a Corte Especial do STJ manteve o entendimento da necessidade de impugnação específica de todos os fundamentos da decisão agravada, sob pena de incidência da Súmula 182 do STJ.
+Corroboram:
+" ..
+AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. ENUNCIADO N. 182 DA SÚMULA DO STJ. INSURGÊNCIA DESPROVIDA.
+1. Enquanto a decisão de admissibilidade do recurso especial assentou os óbices da Súmula n. 83/STJ, da inadequação do recurso especial para alegar violação à norma constitucional e da ausência de cotejo analítico, no agravo a defesa limitou-se a impugnar os óbices da Súmula n. 83/STJ e da ausência de cotejo analítico.
+2. Deixando a parte agravante de impugnar especificamente todos os fundamentos da decisão agravada, é de se aplicar o enunciado n. 182 da Súmula do STJ.
+3. Agravo regimental desprovido."
+(AgRg no AREsp 1539949/PR, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 01/10/2019, DJe 10/10/2019).
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. NÃO INFIRMADOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA. AGRAVO REGIMENTAL NÃO CONHECIDO. CONDENAÇÃO À PENA DE 5 (CINCO) ANOS RECLUSÃO. PENA-BASE FIXADA NO MÍNIMO LEGAL. REGIME PRISIONAL SEMIABERTO. ORDEM CONCEDIDA DE OFÍCIO.
+1. A decisão agravada não conheceu do agravo em recurso especial interposto pela ora Agravante baseada no fundamento segundo o qual não é cabível a interposição de recurso especial sob a alegação de afronta a dispositivo constitucional.
+2. Nas razões do regimental, não foi infirmado esse fundamento, mas apenas veiculada argumentação relativa ao mérito da demanda e ao fato de que não se almeja o reexame do conjunto fático-probatório contido nos autos, bem como pugnando pela possibilidade de exata compreensão da controvérsia a partir dos fundamentos expendidos no apelo nobre.
+ .. "
+(AgRg no AREsp 1404679/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 12/03/2019, DJe 29/03/2019, com destaque).
+Ante o exposto, com apoio no art. 253, parágrafo único, I, do RISTJ, não conheço dos agravos em recursos especiais.
+Publique-se. Intimem-se.
