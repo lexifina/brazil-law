@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de Agravo interposto contra decisão que inadmitiu Recurso Especial (art. 105, III, "a", da CF/1988) no qual se impugna acórdão do Tribunal Regional Federal da 3ª Região assim ementado:
+PREVIDENCIÁRIO. AGRAVO LEGAL (ART.557, § 1º, DO CPC). APOSENTADORIA POR INVALIDEZ OU AUXÍLIO-DOENÇA. REDISCUSSÃO DA MATÉRIA JÁ DECIDIDA. IMPOSSIBILIDADE. DECISÃO AGRAVADA MANTIDA. AUSÊNCIA DE ILEGALIDADE OU ABUSO DE PODER. REEXAME NECESSÁRIO.
+1. O agravo previsto no art. 557, § 1º, do Código de Processo Civil tem o propósito de submeter ao órgão colegiado o controle da extensão dos poderes do relator, bem como a legalidade da decisão monocrática proferida, não se prestando à rediscussão de matéria já decidida.
+2. Inexiste ilegalidade ou abuso de poder na decisão questionada, sendo que os seus fundamentos estão em consonância com a jurisprudência pertinente à matéria.
+3. Agravo legal desprovido.
+Em suas razões recursais, o agravante alega violação dos arts. 406 do Código Civil e 161, § 1º, do CTN, bem comoda Lei 8.213/1991.Aduz que, "no que concerne à correção monetária, devem ser aplicados os índices do IGP-Dl até a inscrição do precatório, fluindo, somente a partir daí, a correção monetária pelo IPCA-E" (fl. 261, e-STJ).
+A parte requer a reforma parcial do acórdão recorrido, "aplicando-se sobre a correção monetária o índice do IGP-Dl até a implantação do beneficio, e a partir daí pelos índices previdenciários em vigor, devendo os juros serem computados até a inscrição do precatório, bem como determinando-se o pagamento dos atrasados na forma de juros compostos capitalizados mês a mês caso se entenda pela aplicabilidade da Lei11.960/09 ao caso em apreço,.." (fl. 266, e-STJ).
+Ao exercer o juízo de retratação do art. 1.040, II, do CPC/2015, a Corte regionalmodificou parcialmente o acórdão anterior dessa forma (fl. 303-304, e-STJ):
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. INCIDENTE DE JUÍZO DE RETRATAÇÃO. ART 1.040, II, DO CPC. RE 579.431/RS (TEMA 96). INCIDÊNCIA DE JUROS DE MORA ENTRE A DATA DA REALIZAÇÃO DOS CÁLCULOS E A DA EXPEDIÇÃO DO PRECATÓRIO/RPV. TEMAS 810/STF e 491, 492 e 905, DO STJ. CORREÇÃO MONENTÁRIA. RETRATAÇÃO PARCIAL. RETORNO DOS AUTOS À VICE-PRESIDÊNCIA.
+- Incidente de juízo de retratação, nos termos do art. 1.040, II, do Código de Processo Civil, diante do decidido no RE 579.431/RS (TEMA 96) e RE 870.947 (Tema 810/STF), com observância de que a matéria também vinculada aos Temas 491, 492 e 905 do Superior Tribunal de Justiça.
+- Quanto à correção monetária, em se tratando de demanda de natureza previdenciária, deve incidir nos termos do disposto no item 3.2 do Tema 905/STJ, revisado de conformidade com o Tema 810/STF, bem como de acordo com o vigente Manual de Cálculos da Justiça Federal, aprovado pela Resolução nº 267/2013, com as alterações promovidas pela Resolução 658/2020 - CJF, de 10 de agosto de 2020.
+- Em relação às condenações de relação jurídica não - tributária, a fixação dos juros de mora segundo o índice de remuneração da caderneta de poupança é constitucional, permanecendo hígido o disposto no art. 1º-F da Lei 9.494/1997, com a redação dada pela Lei 11.960/2009, encontrando-se o v.
+acórdão em consonância com os Temas 810/STF, 491/STJ, 492/STJ e 905/STJ.
+- Mantida a forma de incidência dos juros de mora a partir da citação do INSS, de forma global para as parcelas anteriores a tal ato processual e de forma decrescente para as posteriores.
+- Quanto ao período compreendido entre a data do cálculo de liquidação e a data da expedição do ofício requisitório/precatório, o Colendo Supremo Tribunal Federal, quando do julgamento do R.Ext. 579.431-RS, em sessão Plenária do dia 19/04/2017, cujo v. acórdão foi publicado em 30/06/2017, decidiu: "Incidem os juros da mora no período compreendido entre a data da realização dos cálculos e a da requisição ou do precatório".
+- Juizo de retratação parcial. Determinada a remessa dos autos à Vice-Presidência desta Corte.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 18.8.2022.
+De início, no que tange à alegada ofensa aos arts. 406 do Código Civil/2002 e 161, § 1º, do CTN, verifica-se que o conteúdo normativo dos referidos dispositivos e a tese a eles relacionada não serviram de sustentáculo para a conclusão a que chegou o Tribunal a quo, motivo pelo qualnão se pode conhecer do Recurso Especial ante a falta do prequestionamento.Aplica-se ao caso o princípio estabelecido na Súmula 282/STF.
+Ressalte-se que sequer foram opostos Embargos de Declaração pelo recorrente a fim de suprir eventual omissão.
+Nos termos da jurisprudência desta Corte,para que se tenha por prequestionada determinada matéria, é necessário que esta tenha sido objeto de debateà luz da legislação federal indicada.com manifestação A instância originária deve manifestar-se eemitir juízo de valor sobre os dispositivos legais ao decidir pela sua adoção ou seu afastamento em relação a cada caso concreto, o que não se deu na espécie.
+Por fim, no que diz respeito à contrariedade da Lei 8.213/1991 e da Lei 11.960/2009, igualmente evidencia-se não ser possível admitir o apelo, pois o recorrente limita-se a tecer alegações genéricas de afronta às leis federais, sem, contudo, apontar especificamente qual dispositivo e por quais motivos foramcontrariadas,o que inviabiliza o conhecimento do Recurso, nos termos da Súmula 284/STF.
+Ante o exposto, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
