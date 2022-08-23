@@ -1,0 +1,10 @@
+DECISÃO
+Vistos.
+Fls. 23.422/23.431e - Trata-se de Agravo Interno (art. 1.021 do CPC/2015) interposto contra decisão monocrática do Sr. Ministro Humberto Martins, Presidente desta Corte, mediante a qual, com fundamento nos arts. 21-E, V, e 253, parágrafo único, I, ambos do RISTJ, o Agravo em Recurso Especial não foi conhecido, porquanto não atacados especificamente os fundamentos da decisão agravada (fls. 23.416/23.418e).
+Da análise dos autos, depreende-se queCARAMBELLA INDÚSTRIA E COMÉRCIO LTDA, ora agravante,alegou em sede de Agravo em Recurso Especial (fls. 23.331/23.336e) que o juízo de admissibilidade foi realizado nas razões recursais anexadas por equívoco no ato de interposição do recurso.
+Cabe ressaltar que, uma vez identificado o erro, a CARAMBELLA INDÚSTRIA E COMÉRCIO LTDA, antes da realização do juízo de admissibilidade,peticionou às fls. 23.285/23.288e esclarecendo oocorrido no protocolo do Recurso Especial e do Recurso Extraordinário e requerendo a desconsideração do arquivo em PDF anexado de forma equivocada com o Recurso Especial e a desconsideração das razões recursais digitalizadas no Recurso Extraordinário, nesse último, devendo levar em consideração somente o arquivo em PDF.
+Entretanto, o juízo de admissibilidade realizado pela corte a qua não conheceu do Recurso Especial e negou provimento ao Recurso Extraordinário sem se manifestar quanto a petição de fls. 23.285/23.288e.
+Feito breve relato, decido.
+Em juízo de retratação, consoante o disposto no § 2º do art. 1.021 do Código de Processo Civil de 2015, verifica-se o desacerto da mencionada decisão, razão pela qual de rigor sua reconsideração.
+Posto isso, nos termos do § 2º art. 1.021 do Código de Processo Civil de 2015, RECONSIDERO a decisão de fls. 23.416/23.418e, restando, por conseguinte, PREJUDICADO o agravo interno de fls. 23.422/23.431e, eDETERMINO a devolução dos autos ao tribunal de origem para novo juízo de admissibilidade, em razão da petição das fls. 23.285/23.288e.
+Publique-se e intimem-se.
