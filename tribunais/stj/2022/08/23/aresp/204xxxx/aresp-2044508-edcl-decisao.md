@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por FARMACIA HOMEOPHAR (OUTRO NOME: RUDIMAR PEDRO, MASSA INSOLVENTE DE RUDIMAR PEDRO) contra decisão por mim proferida, constante às e-STJ fls. 472/476, em que conheci do agravo para não conhecer do recurso especial, aplicando o óbice das Súmulas 282 do STF e 211 do STJ e a jurisprudência desta Corte Superior no sentido do não cabimento da fixação de honorários advocatícios nos casos em que a extinção da execução fiscal decorre do reconhecimento da prescrição intercorrente no julgamento da exceção de pré-executividade, sem oposição da Fazenda Nacional.
+Aponta, em resumo, a existência de vício de omissão em relação à alegação trazida no recurso especial de que deveria ser observado o disposto na Súmula 153 do STJ, segundo a qual "adesistência da execução fiscal, após o oferecimento dos embargos, não exime o exeqüente dos encargos da sucumbência".
+Impugnação não apresentada (certidão de e-STJ fl. 494).
+Passo a decidir.
+Os embargos de declaração têm por escopo sanar decisão judicial eivada de obscuridade, contradição, omissão ou erro material (art. 1.022 do CPC/2015), víciosinexistentes na espécie.
+Esclareço, de início, que a Súmula 153 do STJ foi efetivamente citada nas razões de recurso especial, porém, não houve indicação de contrariedade aseu teor. Aliás, ainda que houvesse, não poderia ser examinada, pois o apelo nobre veio amparado exclusivamente na alínea "a" do permissivo constitucional, sendo, nessa perspectiva, incabível, de acordo com a Súmula 518 desta Corte Superior ("para fins do art. 105, III, a, da Constituição Federal, não é cabível recurso especial fundado em alegada violação de enunciado de súmula").
+Além disso, o julgado embargado encontra-se pautado em entendimento recente desta Corte superior acerca da temática agitada no recurso especial, o que demonstra a superação do posicionamento anteriormente adotado.
+Ponderados esses elementos, constato que a insurgência da embargante não diz respeito à eventual deficiência de fundamentação do julgado, mas à interpretação que lhe foi desfavorável, possuindo (aquela)caráter meramente infringente e, por isso, sendo de inviável acolhimento no âmbito restrito dos embargos de declaração.
+Entretanto, sopesando a boa-fé objetiva, não considero esses primeiros aclaratórios como flagrantemente procrastinatórios, motivo pelo qual deixo de aplicar a multa processual correspondente.
+Ante o exposto, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
