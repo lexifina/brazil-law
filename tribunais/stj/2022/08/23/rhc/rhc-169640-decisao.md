@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpusinterposto por JULIO CESAR OLIVEIRA CÂNDIDO contra acórdão do Tribunal de Justiça do Estado de Santa Catarina (HC nº 5039135-22.2022.8.24.0000).
+Consta dos autos que o recorrentefoi pronunciado pela suposta prática de homicídio qualificadoe organização criminosa, porque, durante um banho de sol na Penitenciária de Lages, teria participado do homicídio praticado contra a vítima Edson Remos, bem como pertenceria à organização criminosa Primeiro Grupo Catarinense (PGC).
+No presente recurso, sustenta a defesanulidade da sentença de pronúncia por vícios relativos à inobservância das garantias constitucionais do contraditório e da ampla defesa, diante da inexistência de indícios mínimos de autoria delitiva.
+Alega queas provas de autoria delitiva foram produzidas na fase inquisitorial e não houve confirmação em juízo.Aponta, assim, violação ao art. 155 do Código de Processo Penal.
+Requer, ao final, seja dado provimento ao recurso ordinário para declarar a nulidade absoluta da sentença de pronúncia.
+É o relatório. Decido.
+A utilização do recurso cabível simultaneamente à utilização do writ substitutivo desvirtuou o ordenamento processual, por se tratar de mera reiteração, motivo pelo qual o presente recurso não pode prosseguir.
+Na espécie, este Superior Tribunal de Justiça, ao julgar o HC-759.322/SC,examinou pedido idêntico formulado pela defesa no presente recurso. Eis a ementa do julgado de minha relatoria (DJe de 16/8/2022):
+AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO. DECISÃO DE PRONÚNCIA. ALEGAÇÃO DE VIOLAÇÃO AO ART. 155 DO CPP. MATÉRIA NÃO DEBATIDA NA ORIGEM. ELEMENTOS INDICIÁRIOS TIDOS POR SUFICIENTES PELA CORTE A QUO. NECESSIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO. NÃO CABIMENTO NA VIA ELEITA. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A questão relativa à impossibilidade de pronunciar o acusado com esteio apenas em elementos obtidos na fase inquisitorial não foi examinada pelas instâncias antecedentes, de maneira que não há como esta Corte se pronunciar sobre o tema, sob pena de indevida supressão de instância.
+2. Ainda que assim não fosse, de acordo com a jurisprudência firmada no âmbito do Superior Tribunal de Justiça, na primeira fase do julgamento dos crimes dolosos contra a vida, eventual dúvida a respeito da robustez do conjunto probatório, na primeira fase do procedimento do Tribunal do Júri, resolve-se em favor da sociedade.
+3. Assim, eventuais incertezas quanto ao mérito devem ser dirimidas pelo Tribunal do Júri, órgão constitucionalmente competente para o processamento e julgamento de crimes dolosos contra a vida, vigorando, nesse contexto o princípio in dubio pro societate.
+4. Neste caso, as instâncias antecedentes constataram a presença de indícios suficientes de autoria, de modo a sustentar a decisão de pronúncia. Dessa maneira, a pretensão de desconstituir as conclusões do Tribunal de origem depende de análise do conjunto probatório, providência não suportada pelos estreitos limites cognitivos do habeas corpus.
+5. Agravo regimental improvido.
+Assim,"embora o recurso ordinário em habeas corpus consista no meio próprio para a apreciação da irresignação, a defesa optou por impetrar, também, habeas corpus substitutivo, o qual primeiramente foi despachado nesta Corte. Desse modo, a tese idêntica não pode ser simultaneamente analisada em impetrações/interposições posteriores" (AgRg no RHC n. 103.808/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 27/11/2018, DJe 10/12/2018).
+Ante o exposto, não conheço do presente recurso ordinário em habeas corpus.
+Intimem-se.
