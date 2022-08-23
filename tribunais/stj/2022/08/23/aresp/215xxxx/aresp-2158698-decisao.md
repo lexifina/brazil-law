@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo interposto por ROSENY COSTA MARQUES AMARILHA contra decisão do Tribunal de Justiça do Estado de Mato Grosso, que não admitiu recurso especial, fundado na alínea "a" do permissivo constitucional, o qualdesafiouacórdão assim ementado (e-STJ fls. 140/141):
+AGRAVO INTERNO  SUBMISSÃO DA SENTENÇAAO REEXAME  AUSÊNCIA DE CONDENAÇÃO EMVALOR CERTO E DETERMINADO  NECESSIDADEDE LIQUIDAÇÃO DA SENTENÇA  ARTIGO 496, §3º, II, DO CÓDIGO DE PROCESSO CIVIL  NÃO APLICAÇÃO.
+A sentença ilíquida proferida contra a Fazenda Pública está sujeita ao reexame, nos termos do artigo496, I, do Código de Processo Civil. Ademais, "a jurisprudência da Segunda Turma do Superior Tribunal não tem admitido o afastamento do reexame necessário com fundamento em estimativa do valor da condenação, pressupondo a certeza de que esta não superará o teto previsto, seja no art. 475 do CPC/1973, seja no art. 496 do CPC/2015" (STJ, REsp 1856661/SC), a afastar a aplicação do disposto no artigo 496, § 3º, II, do Código de Processo Civil. Recurso não provido.
+No especial obstaculizado, alegou a parte recorrente que oacórdão em vigor viola o artigo 496, § 3º, do Código de Processo Civil, porquanto, "no caso presente, não se trata de sentença ilíquida a depender de abertura de fase de liquidação, e sim de sentença que depende apenas de cálculo aritmético, conforme dispõe os artigos 509, § 2º, e 534, do CPC" (e-STJ fl. 159).
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, e o agravante refutou o fundamento da decisão.
+Passo a decidir.
+Verifico que a pretensão não merece prosperar.
+A Corte de origem reconheceu a imprescindibilidade da submissão da sentença exequenda aoreexame necessário,considerando que"está a se tratar de sentença ilíquida, visto que não houve condenação do Estado de Mato Grosso ao pagamento de valor certo e determinado, tanto o é que o Juízo de Primeiro Grau determinou a apuração do montante devido na fase de liquidação de sentença" (e-STJ fl. 143).
+Para a eventual alteração das conclusões adotadas pelo Tribunal a quo seria necessário o revolvimento de matéria fática, o que é inviável em sede de recurso especial, nos termos daSúmula 7do STJ.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SENTENÇA CONDENATÓRIA. ILIQUIDEZ. REMESSA NECESSÁRIA. NÃO CONHECIMENTO. APELAÇÃO. FALTA DE PREPARO. AUSÊNCIA DE DECISÃO DEFERINDO ASSISTÊNCIA JUDICIÁRIA GRATUITA OU REQUERIMENTO DA PARTE INTERESSADA. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. INCIDÊNCIA.
+1. A desconstituição do entendimento firmado pelo Tribunal de origem acerca da iliquidez da sentença condenatória, cujo valor não excederia a sessenta salários mínimos, a justificar o conhecimento da remessa ex-offício, demandaria o reexame de matéria fática.Incide, no ponto, a Súmula nº 7 do STJ.
+2. De igual forma, a alteração das conclusões adotadas pela instância ordinária acerca da inexistência do deferimento do benefício da assistência judiciária gratuita exigiria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto no já referido verbete sumular.
+3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp372.057/RN, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA,DJe de 11/6/2014.) (Grifos acrescidos).
+Ante o exposto, com base no art. 253, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração dessaverba, em desfavor da parte recorrente, no importe de 10% (dez por cento) sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
