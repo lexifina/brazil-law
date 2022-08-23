@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu recurso especial interposto por Inge Comércio da Construção Ltda., com base no art. 105, III, a, da Constituição Federal, desafiando acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul assim ementado (e-STJ, fl. 590):
+AGRAVO DE INSTRUMENTO. DIREITO PRIVADO NÃO ESPECIFICADO. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. ARGUIÇÃO DE NULIDADE DE CITAÇÃO POR EDITAL. MATÉRIA JÁ DECIDIDA NOS AUTOS, EM DECISÃO NÃO RECORRIDA. PONTO QUE SEQUER FOI OBJETO DE IRRESIGNAÇÃO DA PARTE, EM SUAS RAZÕES RECURSAIS.
+NÃO CONHECERAM DO AGRAVO DE INSTRUMENTO. UNÂNIME.
+Em suas razões de recurso especial (e-STJ, fls. 615-624), a agravante alegou violação aos arts. 232 e 473 do CPC/1973, bem como 278 e 525, § 1º, I, do CPC/2015.
+Sustentou, em síntese, a não ocorrência de preclusão sobre a questão da citação por edital efetivada nos autos, por ser matéria de ordem pública, devendo ser reconhecida a sua nulidade por não terem preenchidos os requisitos legais para sua realização.
+Foram apresentadas contrarrazões (e-STJ, fls. 634-646).
+Num primeiro momento, o processamento do apelo especial não foi admitido pela Corte local em decorrência de deserção (e-STJ, fls. 680-684), decisão que foi reformada por este STJ, sendo realizado novo juízo de admissibilidade, o qual não admitiu o recurso especial por incidência das Súmulas 7 e 83/STJ (e-STJ, fls. 763-768).
+Interposto o presente agravo, a parte agravante impugna os fundamentos da decisão denegatória do recurso.
+Contraminuta apresentada (e-STJ, fls. 797-811).
+Brevemente relatado, decido.
+O Tribunal de origem, ao dirimir a controvérsia, assim fundamentou (e-STJ, fls. 590-598 - sem grifo no original):
+Busca a parte agravante a declaração de nulidade de sua citação por Edital, na fase de conhecimento, apontando para supostos vícios processuais (não exaurimento de meios ordinários tendentes a localizar o devedor, em momento anterior a citação por Edital, ausência de tentativa de citação da empresa em sua filial ou no endereço de um dos seus sócios, entre outros).
+Ocorre que, todavia, que o julgador de origem, após discorrer sobre os atos processuais que culminaram na citação por Edital, referiu que tal ato teve sua validade apreciada, oportunidade na qual não foi objeto de irresignação recursal.
+Veja-se que, com a efetivação da citação por Edital, restou nomeado Defensor Público como curador especial da ora agravante (fls. 177-182), o qual, entre outros pontos, apontou para a nulidade da aludida citação, requerendo a realização de novas tentativas de localização do demandado.
+Na oportunidade, o julgador da causa deferiu a realização de novas tentativas de localização de endereços do devedor. E, após diversas diligências inexitosas em tal desiderato, com expedição de ofícios a órgãos de praxe, inclusive na figura dos sócios da demandada, o magistrado da causa, então, decidiu pela validade da citação por Edital (fl. 314). Tal decisão, na oportunidade, não foi objeto de recurso pelo curador especial nomeado.
+Assim, tratando-se de matéria decidida nos autos, resta impossibilitada a rediscussão do tema, a teor do artigo 471 do CPC/1973, aplicável à espécie por força do princípio do tempus regit actum. Tal aspecto (preclusão), vale dizer, abordado na decisão agravado, sequer constou das razões do agravo de instrumento, que se limitou a reeditar os supostos vícios processuais da citação editalícia.
+Da leitura do trecho acima, verifica-se que a conclusão adotada pela Corte local, reconhecendo a preclusão da matéria relacionada à citação, decorreu de análise sobre as premissas fáticas dos autos, de modo que, infirmar tal entendimento, demandaria o revolvimento do conjunto fático-probatório, o que encontra óbice na Súmula 7/STJ.
+Ademais, "a jurisprudência do Superior Tribunal de Justiça tem entendimento no sentido de que as matérias de ordem pública estão sujeitas à preclusão pro judicato, razão pela qual não podem ser revisitadas se já foram objeto de anterior manifestação jurisdicional." (AgInt no AREsp n. 1.858.498/RJ, relator Ministro Raul Araújo, Quarta Turma, julgado em 27/6/2022, DJe de 29/6/2022.).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios a esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO. ALEGADA NULIDADE DA CITAÇÃO POR EDITAL. PRECLUSÃO. DECISÃO CALCADA EM PREMISSAS FÁTICAS. REVISÃO INVIÁVEL. SÚMULA 7/STJ. MATÉRIA DE ORDEM PÚBLICA. PRECLUSÃO PRO JUDICATO. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
