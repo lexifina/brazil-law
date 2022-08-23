@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo interposto por Itaú Unibanco S.A. contra decisão que não admitiu o processamento do apelo extremo.
+Verifica-se que a agravada ajuizou ação de declaração de inexistência de dívida combinada com danos morais, julgada procedente.
+Interposto agravo interno pelo insurgente, a Décima Câmara Cível do Tribunal de Justiça do Estado do Rio de Janeiro negou provimento ao recurso, em acórdão assim ementado (e-STJ, fl. 342):
+AGRAVO INTERNO. Apelação Cível. Ação Declaratória c/c Indenizatória. Empréstimo eletrônico não reconhecido. "Crédito Consignado Inteligente". Descontos em conta para recebimento de benefício previdenciário. Procedência. Inocorrência de prescrição. Incidência do prazo quinquenal do art. 27 do CDC. Relação de consumo. Súmula 297 do STJ. Responsabilidade objetiva dos prestadores de serviço. Inexistência de excludentes da ilicitude. Art. 14, § 3º, do CDC. Fortuito interno. Súmulas 479 do STJ e 94 do TJRJ. Banco réu que não se desincumbiu de seu ônus probatório. Art. 373, II do CPC. Irregularidade dos descontos. Falha na prestação do serviço. Dano moral configurado. Quantum indenizatório (R$ 5.000,00) arbitrado em consonância com os princípios da razoabilidade e proporcionalidade. Manutenção da sentença mantida. Decisão monocrática mantida. RECURSO DESPROVIDO.
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial, interposto com fundamento nas alíneas a e c do permissivo constitucional, o recorrente alegou, além da existência de divergência jurisprudencial, violação dos arts. 1.022, II, do Código de Processo Civil de 2015.
+Sustentou a existência de omissões no aresto relevantes ao julgamento da lide, notadamente quanto às autorizações das transações ter se dado por meio de cartão magnético e mediante senha pessoal, com liberação do valor na conta corrente da correntista.
+Contrarrazões às fls. 429-434 (e-STJ), com pedido de majoração da verba sucumbencial.
+O processamento do recurso especial não foi admitido pela Corte local, levando o insurgente a interpor o presente agravo.
+Contraminuta às fls. 555-561 (e-STJ), com reiteração dos pedidos já formulados.
+Brevemente relatado, decido.
+Com efeito, a apontada afronta ao art. 1.022 do CPC/2015 não ficou caracterizada, uma vez que a jurisprudência desta Corte é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+Dessa forma, registra-se que, apesar de rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Colegiado de origem, que sobre ela emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente.
+Desse modo, aplica-se à espécie o entendimento do STJ segundo o qual "não se viabiliza o recurso especial pela indicada violação dos arts. 489 e 1.022 do CPC quando a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, ainda que em sentido contrário à pretensão da parte recorrente" (AgInt no REsp 1.925.245/SP, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 23/08/2021, DJe 26/08/2021).
+Outrossim, o recorrente não demonstrou a alegada divergência jurisprudencial mediante o devido cotejo analítico entre as hipóteses apresentadas como divergentes, com transcrição dos trechos dos acórdãos confrontados, bem como menção das circunstâncias que os identificassem ou assemelhassem, nos termos do art. 546, I e parágrafo único, do CPC/2015 c/c os arts. 266, § 1º, e 255, § 2º, ambos do RISTJ.
+Diante do exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, nego-lhe provimento.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários sucumbenciais fixados em favor dos advogados da parte recorrida em 2% (dois por cento) sobre o valor da condenação.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. INEXISTÊNCIA.DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
