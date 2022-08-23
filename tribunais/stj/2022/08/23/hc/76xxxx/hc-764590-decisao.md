@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de PAULO CESAR SOARESem que se aponta como autoridade coatoraTribunal de Justiça do Estado do Rio Grande do Sul(HC n. 5044558-93.2022.8.21.7000).
+O paciente teve a prisão preventiva decretadadiante de representação da autoridade policial, sendo favorávelo Ministério Publico(fls. 28-29), por suposta prática dos delitos descritos nos arts. 33, capute§ 1º, III, e 35, caput, da Lei n. 11.343/2006, c/c o art. 2ºda Lei n. 8.072/1990.
+O decreto prisional fundou-se na materialidade e indíciosde autoria-indicados pelo boletim de ocorrência,peloauto de apreensão das drogas e objetos relacionados com tráfico ilícito,pelo auto de apreensão de munições,pelo laudos periciais, mas sobretudo pelo relatório de investigação concernente à quebra de sigilo de dados armazenados em aparelho de telefone celular apreendido-, bem como na conveniência da instrução criminal- os investigados recrutaram jovens para integrar o grupo criminoso eem liberdade poderácoagi-los a alterar o teor das declarações em juízo (fls. 28-29).
+Do writ originárioconheceu-se parcialmentee, nessa extensão, a ordem foi denegada.
+A defesa alega que o paciente está sendo vítima de constrangimento ilegal, porquanto configurado excesso de prazo na formação da culpa.
+Afirma que opaciente foi preso no dia 27/5/2021,encarcerado há mais de 365, sem ser ouvido. Esclareceque oprocessonão tem previsão de audiência de instrução.
+Argumenta que a autoridade coatora usou fundamentação genérica e não individualizou os fatos de cada acusado.
+Sustenta que não estão preenchidos os requisitos da custódia cautelar e que a prisão preventiva fundou-se na gravidade abstrata do delito.
+Argumentaquea prisão do pacienteimplica cumprimento antecipado de pena.
+Destaca que o paciente possui condições pessoais favoráveis. Invoca o principio da presunção de inocência.
+Requer, liminarmente e no mérito, arevogaçãoda prisão preventiva ea substituição da prisão preventiva por domiciliar com a imposição de medidas cautelares alternativas.
+É o relatório. Decido.
+Ainda que inadequada a impetração de habeas corpus em substituição à revisão criminal ou ao recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o STJ considera passível de correção de ofício o flagrante constrangimento ilegal.
+Nos casos em que a pretensão esteja em conformidade ou em contrariedade com súmula ou jurisprudência pacificada dos tribunais superiores, a Terceira Seção desta Corte admite o julgamento monocrático da impetração antes da abertura de vista ao Ministério Público Federal, em atenção aos princípios da celeridade e da efetividade das decisões judiciais, sem que haja ofensa às prerrogativas institucionais do parquet ou mesmo nulidade processual (AgRg no HC n. 674.472/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 10/8/2021; AgRg no HC n. 530.261/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 7/10/2019).
+Sendo essa a hipótese dos autos, passo ao exame do mérito da impetração.
+Consoante a jurisprudência do STJ, "a aferição do excesso de prazo reclama a observância da garantia da duração razoável do processo, prevista no art. 5º, LXXVIII, da Constituição Federal. Tal verificação, contudo, não se realiza de forma puramente matemática" (AgRg no RHC n. 123.274/RJ, relator Ministro Antonio Saldanha Palheiro, DJe de 4/8/2020).
+Assim, devem ser sopesados o tempo de prisão provisória, as peculiaridades da causa, sua complexidade e outros fatores que eventualmente possam influenciar no curso da ação penal.
+Na situação dos autos, o Tribunal de origem manifestou-se da seguinte forma (fls. 33-35, destaquei):
+Em consulta aos autos do processo originário (5001017-39.2021.8.21.0050), verifica-se que, em 11/06/2021, o Ministério Público ofereceu denúncia contra PAULO CESAR SOARES, JOSÉ VANDERLEI GARCIAS e IDACIR MEREDIKEGARCIAS. O paciente incorreu nas sanções do artigo 33,caput, e §1o, inciso III, todos da Lei n. o 11.343/06 (1o fato), c/c art. 35 da mesma Lei (4o fato), com a incidência do artigo 2o, da Lei n. o 8.072/90, em concurso material.
+No que se refere ao excesso de prazo, destaco que prolongamento na duração da prisão não é suficiente para justificar a revogação da prisãopreventiva do paciente, havendo elementos que indicam o perigo no seu estado de liberdade.
+ ..
+Ademais, o Magistrado em 15/03/2022 manteve a prisão preventiva do paciente (Evento 181-DESPADEC1), oportunidade em que o Magistrado, visando colaborar com a celeridade processual e evitar a oitiva em juízo de testemunhas que não tenham conhecimento sobre os fatos, determinou que o Ministério Público esclarecesse pormenorizadamente a necessidade de inquirição da testemunha arrolada Alessandro Gomes Ritter, bem como intimou a Defesa para que indicasse quais das testemunhas arroladas são imprescindíveis para elucidação dos fatos.
+Atualmente o feito aguarda designação da audiência de prosseguimento da instrução processual inaugurada.
+Nesse contexto, conclui-se que o juízo está atento à tramitação do feito, o qual está sendo impulsionado dentro do limite do possível considerando que processo em questão trata de crime com certa complexidade devido ao número de réus e de fatos imputados, cuja elucidação naturalmente carece de diversas diligências.
+ ..
+Por isso também se mostra desaconselhável a substituição da prisão preventiva por medidas cautelares diversas da prisão(art. 319 do CPP), pelo menos por ora.
+O entendimento acima está em consonância com a jurisprudência do STJ de que, "não havendo notícia de  ..  ato procrastinatório por parte das autoridades públicas, consideradas as especificidades da causa e estando próximo o término da instrução criminal, não há falar em excesso de prazo na espécie (RHC n. 102.868/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 12/3/2019).
+Além disso, "os prazos processuais previstos na legislação pátria devem ser computados de maneira global e o reconhecimento do excesso deve-se pautar sempre pelos critérios da razoabilidade e da proporcionalidade (art. 5º, LXXVIII, da CF), considerando cada caso e suas particularidades" (AgRg no HC n. 588.513/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 4/8/2020).
+No que diz respeito à ilegalidade da prisão preventiva,porquanto não estariam presentes os requisitos para sua manutenção, a questão não foi enfrentada pela instância de origem,tendo em vista a reiteração de pedido já apreciado em impetração anterior. Assim, o STJ não pode apreciar a matéria, sob pena de supressão de instância (RHC n. 98.880/CE, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 14/9/2018).
+Portanto, não se constata a existência de flagrante constrangimento ilegal que autorize a atuação ex officio.
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do presente habeas corpus, ficando prejudicado o pedido de liminar.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
