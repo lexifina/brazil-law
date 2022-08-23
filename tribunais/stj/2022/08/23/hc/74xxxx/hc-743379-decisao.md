@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de habeas corpus substitutivo de recurso, com pedido liminar, impetrado em benefício de LEANDRO OLIVEIRA ROCHA, contra acórdão proferido pelo Tribunal de Justiça do Estado de Pernambuco no julgamento do HC n. 0000394-56.2022.8.17.9000.
+Extrai-se dos autos que o paciente teve a prisão preventiva decretada em 21/10/2021, e, posteriormente, restou denunciado pela suposta prática dos delitos tipificados no art. 2º,capute §2º, da Lei 12.850/12; no art. 250, § 1º, I e II, "c"; no art. 251 e no art. 163, parágrafo único, II, todos do Código Penal (organização criminosa armada, incêndio em transporte coletivo, explosão e dano qualificado pelo uso de substância inflamável ou explosiva).O mandado de prisão foi cumprido em 21/10/2021, no Estado de São Paulo. Em 10/2/2022 o Juízo de primeiro grau indeferiu pedido de revogação da custódia.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem nos termos do acórdão assim ementado:
+"CONSTITUCIONAL. PROCESSUAL PENAL. HABEAS CORPUS. ART. 2º, CAPUT, §2º, DA LEI 12.850/13. ARTS. 250, §1º, I E II, ALÍNEA "C", 251 E 163, PARÁGRAFO ÚNICO, II, TODOS DO CP. AUSÊNCIA DOS REQUISITOS DA PRISAO PREVENTIVA.MATÉRIA JÁ DECIDIDA POR ESTA QUARTA CÂMARA CRIMINAL. PEDIDO PREJUDICADO. CIRCUNSTÂNCIAS PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. ORDEM CONHECIDA EM PARTE E, EM SUA EXTENSÃO, DENEGADA. DECISÃO UNÂNIME. I  É defeso ao impetrante reiterar pedido já apreciado, mesmo que por outro órgão fracionário, salvo na hipótese de fato superveniente à impetração julgada anteriormente, o que inocorre no caso dos autos. II  As condições pessoais favoráveis do paciente, consubstanciadas na primariedade, residência fixa e família constituída, não induz, necessariamente, a eventual revogação da prisão preventiva. III  Ordem conhecida em parte, denegando-se o WRIT. Decisão Unânime."(fls. 171/172)
+No presente writ, o impetrante alega a ausência dos requisitos autorizadores do art. 312 do Código de Processo Penal de modo que a imposição da custódia cautelar não estaria suficientemente justificada e pautada exclusivamente na gravidade abstrata dos delitos.
+Aponta excesso de prazo na formação da culpa, encontrando-se o paciente preso provisoriamente há 7 meses sem ter qualquer previsão de audiência deinstrução e julgamento.
+Argumenta a desproporcionalidade da prisão, porquanto, caso seja condenado, o paciente cumprirá pena em regime diverso do fechado.
+Ressalta as condições pessoais favoráveis do paciente e assevera ser suficiente, no caso concreto, a aplicação de medidas cautelares alternativas.
+Pugna, assim, em liminar e no mérito, pela revogação da prisão preventiva, ainda que mediante a aplicação de medidas cautelares alternativas, nos termos do art. 319 do Código de Processo Penal.
+Liminar indeferida às fls. 100/101.
+Informações prestadas às fls. 107/110, 151/154, 157.
+O Ministério Público Federal opinou pelo não conhecimento do writ(fls. 203/210).
+É o relatório.
+Decido.
+Diante da hipótese dehabeas corpussubstitutivo de recurso próprio, a impetração sequer deveria ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal - STF e do próprio Superior Tribunal de Justiça - STJ. Contudo, considerando as alegações expostas na inicial, razoável a análise do feito para verificar a existência de eventual constrangimento ilegal que justifique a concessão da ordem de ofício.
+Buscao pacientea revogação da segregação antecipada ante aalegação de ausência de fundamentação do decreto prisional.
+Quanto aotema, verifica-se dos autos que o acórdão impugnado no presentewrit não conheceu do mandamus quanto ao ponto, por se tratar de reiteração de pedido já analisado nos autos dehabeas corpusanteriormente impetrado naquela Corte, qual seja o HC n. 0019639-87.2021.8.17.9000.
+Nesse contexto, considerando que as questões aqui trazidas não foramdebatidas no acórdão ora impugnado, fica impossibilitado o conhecimento dopresentemandamus.
+Não há falar, ainda, em análise de ofício das alegações aqui colacionadas, tendo em vista que não foi juntada aos autos cópia do acórdão no qual a Corte de origem teria analisado a matéria em questão.
+Isso porque, em razão da celeridade do rito dohabeas corpus, incumbe ao impetrante apresentar prova pré-constituída do direito alegado, sob pena de não conhecimento da impetração.
+Nesse sentido:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. INSTRUÇÃO DEFICIENTE. EXCESSO DE PRAZO PARA A FORMAÇÃO DA CULPA. SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. HABEAS CORPUS NÃO CONHECIDO.
+1. O Supremo Tribunal Federal, por sua Primeira Turma, e a Terceira Seção deste Superior Tribunal de Justiça, diante da utilização crescente e sucessiva do habeas corpus, passaram a restringir a sua admissibilidade quando o ato ilegal for passível de impugnação pela via recursal própria, sem olvidar a possibilidade de concessão da ordem, de ofício, nos casos de flagrante ilegalidade. Esse entendimento objetivou preservar a utilidade e a eficácia do mandamus, que é o instrumento constitucional mais importante de proteção à liberdade individual do cidadão ameaçada por ato ilegal ou abuso de poder, garantindo a celeridade que o seu julgamento requer.
+2. "Constitui ônus do impetrante a correta instrução do habeas corpus, mediante prova pré-constituída, cabendo-lhe colacionar, quando da impetração, as peças necessárias ao deslinde da controvérsia, de sorte a demonstrar o alegado constrangimento ilegal. Precedentes do STF e do STJ" (AgRg no HC 278.141/SP, Rel. Ministra ASSUSETE MAGALHÃES, Sexta Turma, julgado em 22/10/2013, DJe 25/11/2013).
+3. A alegação de excesso de prazo para a formação da culpa não foi analisada pelo Tribunal de origem, sequer foi arguida nas razões dos dois habeas corpus precedentes impetrados na origem, circunstância que impede o Superior Tribunal de Justiça de apreciar diretamente a matéria, consoante dispõe o art. 105, II, da Constituição Federal, sob pena de Configurar indevida supressão de instância.
+4. Habeas corpus não conhecido
+(HC 321.025/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 12/08/2015).
+Por fim, a alegação de excesso de prazo na formação da culpa não foi objeto de análise no acórdão impugnado, o que obsta o exame por este Tribunal Superior, sobpena de se incorrer em indevida supressão de instância.
+Ante o exposto, com fundamento no art. 34, XVIII, a, do RISTJ,não conheçodohabeas corpus.
+Publique-se.
+Intimaçõesnecessárias.
