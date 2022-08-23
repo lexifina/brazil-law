@@ -1,0 +1,7 @@
+DECISÃO
+Por meio da petição de fl. 134, a defesa requer a reconsideração da decisão de fls. 744-745, em que não conheci do habeas corpus, por falta de documentação suficiente.Na ocasião, traz aos autos cópia do acórdão impugnado (Apelação Criminal n. 0029907-64.2014.8.19.0021).
+De plano, saliento que, em que pese a prática reiterada de pedidos de reconsideração, não há previsão legal expressa a permitir o uso do referido instituto. Contudo, no caso, uma vez que agora consta dos autos cópia do documento faltante (acórdão impugnado), entendo que, pela aplicação dos princípios da economia e da celeridade processuais, deve o pedido ser conhecido.
+Passo agora, portanto, à nova apreciação do feito, em que a defesa requera aplicação retroativa do Decreto Lei n. 10.627/2021, a fim de que seja reduzida a pena aplicada em desfavor do paciente, em condenação pelo crime do art. 16, caput, da Lei n. 10.826/2003, bem como substituída a reprimenda privativa de liberdade por restritivas de direitos.
+Da leitura do acórdão impugnado, constata-se que a tese defendida nestewritnão foi objeto de análise pelo Tribunal estadual, circunstância que impede a sua apreciação por esta Corte Superior, sob pena de atuar em indevida supressão de instância.
+À vista do exposto, reconsidero a decisão de fls. 744-745 somente para, diante da juntada aos autos de novo documento, proceder à nova análise do feito. No entanto, embora por fundamento diverso, mantenho o não conhecimento do habeas corpus.
+Publique-se e intimem-se.
