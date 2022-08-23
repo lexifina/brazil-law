@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-sede embargos de declaração opostos por PCGA PARTICIPAÇÕES E ALUGUÉIS DE IMÓVEIS LTDAcontra decisão desta relatora deconhecer o agravo para negar provimento aorecurso especial.
+Embargos de declaração opostos em: 08/08/2022.
+Conclusos à esta relatora em: 19/08/2022.
+Ação: de imissão de posse ajuizada pela embargante em desfavor da embargada.
+Decisão interlocutória: o juízo singular deferiu a antecipação de tutela para imitir a embargantena posse do imóvel.
+Acórdão: o TJSE concedeu efeito suspensivo ao agravo de instrumento da embargada, nos termos da ementa abaixo:
+AGRAVO REGIMENTAL CONTRADECISÃO QUE CONCEDEU EFEITO SUSPENSIVO AO AGRAVO DE INSTRUMENTO. PRELIMINARES DE AUSÊNCIA DE APRESENTAÇÃO DE PEÇAS OBRIGATÓRIAS E DE AUSÊNCIA DE PREPARO. PROCESSO ELETRÔNICO. DISPENSA DE JUNTADA. ART. 1017, §5º DO CPC. AGRAVADA BENEFICIÁRIA DE JUSTIÇA GRATUITA. DISPENSA DE PREPARO RECURSAL. PRELIMINARES REJEITADAS. MÉRITO. NECESSIDADE DE INTIMAÇÃO PESSOAL DA DEVEDORA ACERCA DE LEILÃO EXTRAJUDICIAL DO IMÓVEL. PRECEDENTES DO STJ. NÃO COMPROVAÇÃO NOS AUTOS. RATIFICAÇÃO DA DECISÃO COMBATIDA. RECURSO CONHECIDO EIMPROVIDO. UNÂNIME.
+Decisão de admissibilidade do recurso especial: o TJSE inadmitiu o recurso especial da embargante por entender incidir a Súmula 735/STF.
+Decisão do agravo em recurso especial: esta relatora entendeu não ser cabível o recurso especialnos termos da ementa abaixo:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE IMISSÃO DE POSSE. REVISÃO DE TUTELA DE URGÊNCIA. INADMISSIBILIDADE. NATUREZA PRECÁRIA DO PROVIMENTO. SÚMULA 568/STJ. 1. Ação de imissão de posse. 2. Não cabe recurso especial para revisão da presença dos pressupostos da tutela de urgência formulado perante as instâncias ordinárias, haja vista a natureza provisória do provimento judicial. 3. Agravo conhecido. Recurso especial conhecido e não provido.
+Embargos de declaração: a embargante aduz existência decontradição e obscuridade na decisão embargada, porquanto houve afronta direita ao dispositivo legal que disciplinaa concessão da tutela de urgência no caso, pois o acórdão recorrido se baseou em artigo de lei revogado, o que caracterizaria falta de fundamentação.
+RELATADO O PROCESSO, DECIDE-SE.
+É dever-poder do Estado-Juiz decidir a lide com fundamentação suficiente, clara, coerente e precisa. Os embargos de declaração são, portanto, o recurso colocado à disposição do jurisdicionado para provocar a correção pelo próprio órgão judicial prolator da decisão de eventuais vícios que configurariam o não cumprimento desse dever, quais sejam: i) omissão acerca de questão de fato ou de direito relevante para a solução da demanda; ii) obscuridade na exposição das razões de decidir; iii) contradição entre premissas e conclusões nafundamentação do ato judicial; ou iv) erro evidente quanto a aspectos incontroversos da demanda.
+No caso, a embargante defendeunas razões do seu recurso especial violação de dispositivos que disciplinam o procedimento de leilão extrajudicial de bem imóvel, citando, ainda,o art. 489, § 1º, do CPCsuperficialmente.Assim, ao contrário do que quer fazer crer, nem mesmo houve alegação de violação direta aos dispositivos que disciplinam a concessão de tutela de urgência.
+Inexiste, pois, contradição ou obscuridade na decisão embargada, na qual decidiu-se com coerência e clareza não ser cabível o recurso especial para rever o mérito da decisão de tutela de urgência proferida pelas instâncias ordinárias.
+Forte nessas razões, rejeito os embargos de declaração.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EMRECURSO ESPECIAL. CONTRADIÇÃO E OBSUCURIDADE. INOCORRÊNCIA.
+1. É dever-poder do Estado-Juiz decidir a lide com fundamentação suficiente, clara, coerente e precisa. Os embargos de declaração são, portanto, o recurso colocado à disposição do jurisdicionado para provocar a correção pelo próprio órgão judicial prolator da decisão de eventuais vícios que configurariam o não cumprimento desse dever, quais sejam: i) omissão acerca de questão de fato ou de direito relevante para a solução da demanda; ii) obscuridade na exposição das razões de decidir; iii) contradição entre premissas e conclusões na fundamentação do ato judicial; ou iv) erro evidente quanto a aspectos incontroversos da demanda.
+2.No caso, inexiste contradição ou obscuridade na decisão embargada, pois, decidiu-se com coerência eclarezanão ser cabívelo recurso especial para rever o mérito da decisão de tutela de urgência proferida pelasinstâncias ordinárias.
+3. Embargos de declaração rejeitados.
