@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, em sessão virtual de 17/08/2022 a 23/08/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Laurita Vaz, Maria Thereza de Assis Moura, Herman Benjamin, Jorge Mussi, Og Fernandes, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo e Maria Isabel Gallotti votaram com o Sr. Ministro Relator.
+Impedida a Sra. Ministra Nancy Andrighi.
+Licenciado o Sr. Ministro Paulo de Tarso Sanseverino.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+RELATÓRIO
+Trata-se de agravo interno interposto por MARLON PEREIRA MARTINS contra decisão da Presidência (fls. 1.862-1.867) que indeferiu liminarmente os embargos de divergência interpostos contra acórdão da Quarta Turma do Superior Tribunal de Justiça assim ementado:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL - AÇÃO DE COBRANÇA - DECISÃO MONOCRÁTICA QUE DEU PROVIMENTO AO RECLAMO PARA ACOLHER EM PARTE A ALEGAÇÃO PRELIMINAR DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INSURGÊNCIA DA REQUERIDA.
+1. Evidenciada afronta ao art. 535 do CPC/73, apenas quanto a matéria relativa à incidência do art. 1.531 do Código Civil de 1916, devendo, assim, retornarem os autos ao Tribunal de Justiça do Distrito Federal e dos Territórios para se manifestar acerca da citada matéria.
+1.1. As alegações de omissão no acórdão que julgou o recurso de apelação, as quais já foram rejeitadas por este Superior Tribunal de Justiça por ocasião do julgamento de anterior recurso especial não podem ser novamente apresentadas, pois acobertadas pela preclusão pro judicato. Precedentes.
+2. Agravo regimental desprovido.
+Sustenta o agravante que a divergência refere-se a matériaeminentemente processual, relativa às disposições do art. 1.021, § 3º, c/c os arts. 489 e 1.022, todos do CPC/2015, sendo tal ponto divergente do decidido no AgInt no AREsp n. 1.395.429/SP (relatorMinistro Ricardo Villas Bôas Cueva, Terceira Turma).
+Segundo aduz, o não reconhecimento dissoacabou criando divergência em relação aos seguintes julgados: EDcl nos EDcl no AgInt no REsp n. 1.657.600/MG; AgInt nos EDcl no REsp n. 1.712.330/MG; AgInt no AREsp n. 1.607.878/SP; e EAREspn.275.615/SP, este em razão dainobservância dos princípios da inafastabilidade do controle jurisdicional e da isonomia.
+Alega que o legislador pátrio não disciplinou a instauração de divergência no âmbito da mesma turma somente na hipótese de alteração de suacomposiçãoem mais da metade dos membros, de modo que inexiste motivo para a inadmissão dos EDcl no AgRg no AREsp n. 860.920/SP comoparadigma nos autos destesembargos de divergência.
+Aduz que "sobre as idênticas premissas de sustentação da tese, foi correta, também, a indicação do EDcl no RMS n. 52.044/DF" (fl. 1.882). Assim, não prosperaou "operacontra legis"a construção jurisprudencialde que, emembargos de divergência, não se admite como paradigma acórdão proferido em recurso ordinário em mandado de segurança.
+Afirma que o Tribunal a quo, a despeito de decidir os embargos declaratórios por ordem contida no acórdão de fls. 962-966, deixou, novamente, de pronunciar-se acerca da matéria correlata ao "adimplemento da obrigação com a existência de saldo em favor do réu", limitando-se amanifestar-se sobre a "divergência do valor da condenação com o conjunto probatório e o laudo pericial homologado". Daía configuração deviolação do art. 535 do CPC/1973.
+Assim,o acórdão embargado "modificou os ditames da coisa julgada, proclamando erroneamente a preclusão da matéria, divergindo, inclusive, do cerne erigido no julgamento dos embargos de declaração" (fl. 1.890).
+Sustenta, por fim, que os embargos de divergência reúnem condições de serprocessados, sendo, por conseguinte, inaplicáveis ao caso os preceitos insculpidos no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça.
+É relatório.
+EMENTA
+EMBARGOS DE DIVERGÊNCIA. JUÍZO DE ADMISSIBILIDADE.INDEFERIMENTO LIMINAR. AGRAVO INTERNO DESPROVIDO.
+1. Na aplicação do art. 1.022 do CPC de 2015 (art. 535 do CPC/1973), a constatação de terou nãohavido omissão ou deficiência na fundamentação do acórdão proferido na origem demanda, em regra, o exame das peculiaridades de cada caso concreto, inexistindo, portanto, dissídio de teses a ensejar os embargos de divergência.
+2. Nos termos do art. 1.043, § 3º, I, do CPC de 2015, cabem embargos de divergência entre acórdãosoriundos da mesma turma julgadoraapenas se, no período, tiver havido alteração de sua composição em mais da metade dos membros.
+3. Agravo interno desprovido.
+VOTO
+Primeiramente, não procedea tese de afronta ao art. 1.021, § 3º, do Código de Processo Civil de 2015, uma vez que o acórdão embargado apreciou,de forma clara e fundamentada,todas as matérias suscitadas pelo recorrente, não se limitando a reproduzir os fundamentos da decisão agravada.
+Com relação à indicação de acórdãos recorrido e paradigma oriundos da mesma Turma, nos termos do art. 1.043, § 3º, I, do Código de Processo Civil de 2015, não cabem embargos de divergência em tais hipóteses. Abre-se exceção quando tenha ocorrido, no período, alteração da composição do colegiado em mais da metade de seus membros.
+Mediante análise dos autos, verifica-se que o recurso de embargos de divergência versam sobre a violação do art. 535 do Código de Processo Civil de 1973 (art. 1.022 do CPC de 2015), o que, nos termos da jurisprudência pacificada desta Corte, é incabível em razão das situações fáticos-processuais distintase da necessidade de análise individualizada de cada caso concreto. A propósito, mutatis mutandis:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA NO RECURSO ESPECIAL. DECISÃO QUE INDEFERIU LIMINARMENTE OS EMBARGOS. INEXISTÊNCIA DE TESES A CONFRONTAR. AGRAVO DESPROVIDO.
+1. Na aplicação do art. 619 do CPP e dos arts. 489, § 1º, e 1.022 do CPC de 2015, a constatação de ter, ou não, havido omissão ou deficiência na fundamentação do acórdão proferido na origem, em regra, demanda o exame das peculiaridades de cada caso concreto, inexistindo, portanto, dissídio de teses a ensejar os embargos de divergência.
+2. A reprodução dos fundamentos da decisão monocrática no voto do Relator, proferido em sede de agravo regimental, mormente quando ratificado pelo respectivo órgão julgador, não é capaz de gerar a nulidade do aresto, por deficiência na fundamentação, quando haja o efetivo enfrentamento das matérias impugnadas nas razões recursais, como ocorreu no caso em exame.
+3. Agravo regimental a que se nega provimento. (AgRg no AgRg nos EREsp n. 1.492.472/PR, relator Ministro Raul Araújo, Corte Especial, DJe de 19/12/2019.)
+Portanto, não há como prosperar a pretensão de arguição de suposto dissídio com o fim de embasar o recurso de embargos de divergência, uma vez que, a despeito de os paradigmas eventualmente chegarem a conclusões diversas do acórdão embargado, tal análise depende sempre das peculiaridades do caso concreto.
+Não fosse por isso, ainda assim, os arestos indicados como divergentes não se assemelham aoacórdão embargado, já que não versam sobre a preclusão pro judicato em relação a matérias que já haviam sido decididas pelo STJ no julgamento de anterior recurso especial.
+Assim, a manifestação de inconformismo não guarda pertinência com o conteúdo da decisão recorrida. Ao contrário, o agravante, na verdade, insurge-se contra decisões das instâncias ordinárias, fato que extrapola aos aspectos formais que devem ser cumpridos na interposição do recurso ora analisado.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
