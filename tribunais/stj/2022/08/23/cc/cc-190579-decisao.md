@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de conflito de competência entre o JUÍZO DA 5ª VARA DO TRABALHO DE JUIZ DE FORA/MG, suscitante, e o JUÍZO FEDERAL DA 3ª VARA CÍVEL E CRIMINAL DE JUIZ DE FORMA,suscitado.
+Consta dos autos que foi proposta reclamação trabalhista contra a CAIXA ECONÔMICA FEDERAL, em quese objetivoucompelir a aludida empresa pública a convocar FABIANO PASCHOA PACHECO e contratá-lo para o cargo de Técnico Bancário.
+Na fase de execução,o Juízo Federal declinou da competência para a Justiça Laboral (e-STJ fls. 2.380/2.381), que, por sua vez, suscitou o conflito de competência (e-STJ fls. 2.483/2.485).
+O Ministério Público Federal manifestou-se pela competência do Juízo especializado(e-STJ fls. 2.543/2.550).
+Passo a decidir.
+Nos termos do art. 34, XXII, do RISTJ, o relator poderá "decidir o conflito de competência quando for inadmissível, prejudicado ou quando se conformar com tese fixada em julgamento de recurso repetitivo ou de repercussão geral, a entendimento firmado em incidente de assunção de competência, a súmula do Superior Tribunal de Justiça ou do Supremo Tribunal Federal, a jurisprudência dominante acerca do tema ou as confrontar".
+Dito isso, consoante orientação vinculante firmada pelo STF no julgamento do RE 960.429- em repercussão geral-,"compete à Justiça comum processar e julgar controvérsias relacionadas à fase pré-contratual de seleção e de admissão de pessoal e eventual nulidade do certame em face da Administração Pública, direta e indireta, nas hipóteses em que adotado o regime celetista de contratação de pessoal,salvo quando a sentença de mérito tiver sido proferida antes de 6 de junho de 2018, situação em que, até o trânsito em julgado e a sua execução, a competência continuará a ser da Justiça do Trabalho." (Grifos acrescidos).
+A hipótese dos autos se amolda à exceção posta no aludido julgado, porquanto a sentença laboral foi provida em 12/03/2018, nos autos da reclamação trabalhistan. 0011211-90.2017.5.03.0143 (e- STJ fls. 2.033/2.050), transitada em julgado na justiça laboralem 19/3/2021 (e-STJ fls. 2.319/2.321), encontrando-se o feitoem fase de execução.
+Na hipótese dos autos, a sentença trabalhista foi proferida antes de 06/06/2018, sendo certo a competência da Justiça Laboral para o processamento e julgamento do feito.
+A propósito:
+CONFLITO DE COMPETÊNCIA. JUSTIÇA DO TRABALHO E COMUM. CONTROVÉRSIA RELACIONADA A FASE PRÉ- CONTRATUAL DE SELEÇÃO DE CONCURSO. SENTENÇA PROFERIDA NA JUSTIÇA DO TRABALHO ANTES DE 06/06/2018. HIPÓTESE FÁTICA CONTEMPLADA NAMODULAÇÃO DOS EFEITOS DO RE 960429/RN.
+REPERCUSSÃO GERAL. TEMA 922. COMPETÊNCIA DA JUSTIÇA DO TRABALHO.
+1. Compete à Justiça Comum processar e julgar controvérsias relacionadas à fase pré-contratual de seleção e de admissão de pessoal e eventual nulidade do certame em face da Administração Pública, direta e indireta, nas hipóteses em que adotado o regime celetista de contratação de pessoas, salvo quando a sentença de mérito tiver sido proferida antes de 6 de junho de 2018, situação em que, até o trânsito em julgado e a sua execução, a competência continuará a ser da Justiça do Trabalho.(Tema 922).
+2. No caso, em que a controvérsia está ligada, indiscutivelmente, à fase pré- contratual de seleção, cuja sentença precede a 06 de junho de 2018, aplica-se a exceção contemplada no Tema 992, para reconhecer a competência da Justiça do Trabalho.
+3. Conflito de competência conhecido para declarar a competência da Justiça Obreira.(CC 183.514/MG, Rel. Min. LUIZ FELIPE SALOMÃO. Segunda Seção, DJe 29/03/2022).
+No mesmo sentido: CC 186.907/MG, Rel. Min. BENEDITO GONÇALVES, Primeira Seção, DJe 06/04/2022.
+Ante o exposto, nos termos do art. 34, XXII, do RISTJ, CONHEÇO do conflito para declarar a competência do JUÍZO DA 5ª VARA DO TRABALHO DE JUIZ DE FORA/MG,suscitante.
+Publique-se. Intimem-se.
