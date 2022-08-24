@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo interposto por Silvio Barcelos Vargascontra a decisão do Tribunal de Justiça de Santa Catarina, que, em juízo de admissibilidade, inadmitiu o recurso especial por ele interposto contra o acórdão proferido na Apelação Criminal n. 0035863-17.2014.8.24.0023, assim ementado (fls. 432/450):
+APELAÇÃO CRIMINAL. DELITO DE RECEPTAÇÃO DOLOSA (ART.180, "CAPUT", DO CÓDIGO PENAL). SENTENÇA ABSOLUTÓRIA. RECURSO DO MINISTÉRIO PÚBLICO. PLEITO DE CONDENAÇÃO DO APELADO PELA PRÁTICA DO DELITO DE RECEPTAÇÃO. POSSIBILIDADE. AUTORIA E MATERIALIDADE DEVIDAMENTE COMPROVADAS. APELANTE ENCONTRADO NA POSSE DE UM VEÍCULO "CLONADO", ORIUNDO DE CRIME DE FURTO. INVERSÃO DO ÔNUS DA PROVA. INTELIGÊNCIA DO ART.156, DO CÓDIGO DE PROCESSO PENAL. AUSÊNCIA DE JUSTIFICATIVA PLAUSÍVEL. DESCONHECIMENTO ACERCA DA ORIGEM ESPÚRIA DO BEM NÃO COMPROVADO. ADEMAIS, ELEMENTO SUBJETIVO DOLOSO CORROBORADO PELAS CIRCUNSTÂNCIAS DO CASO CONCRETO. RECORRIDO QUE EMPREENDEU FUGA DA POLÍCIA MILITAR, APÓS ENVOLVER-SE EM ACIDENTE DE TRÂNSITO. DOCUMENTAÇÃO DO VEÍCULO EM NOME DE TERCEIRO, QUE NÃO PARTICIPOU DA NEGOCIAÇÃO. REFORMA DA SENTENÇA QUE SE IMPÕE. EXECUÇÃO PROVISÓRIA DA PENA. NOVA ORIENTAÇÃO DO SUPREMO TRIBUNAL FEDERAL (AGRAVO REGIMENTAL EM "HABEAS CORPUS" N.142.750/RJ) ADOTADA POR ESTA CÂMARA CRIMINAL (AUTOS N.4010335-40.2018.8.24.0000). IMEDIATO CUMPRIMENTO DA PENAS RESTRITIVAS DE DIREITOS QUE SE IMPÕE. RECURSO CONHECIDO E PROVIDO.
+Os embargos de declaração opostos pela defesa foram rejeitados (fl. 464).
+No recurso especial, a defesa apontou violação do art. 44, § 2º, do Código Penal, sob o argumento de que a Corte de origem não fundamentou de forma idônea a escolha pela aplicação de duas penas restritivas de direitos em vezda opção mais benéfica ao réu, qual seja, a aplicação de uma pena restritiva de direitos e multa.
+Ao final da peça recursal, requer a readequação da pena substitutiva por uma restritiva de direitos e multa.
+Apresentadas contrarrazões (fls. 488/492), o Tribunal de origem não admitiu o recurso com suporte nas Súmulas 211/STJ e 282/STF (fls. 494/497).
+Contra essa decisão a defesa interpõe o presente agravo (fls. 504/510).
+Instado a se manifestar, o Ministério Público Federal opinou pelo não conhecimento do agravo e, se conhecido, pelo não conhecimento dorecurso especial (fls. 537/543):
+AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. RECURSO MANIFESTAMENTE INADMISSÍVEL. SÚMULA 182/STJ. RECEPTAÇÃO. SUBSTITUIÇÃO DA PENA CORPORAL. PRETENSÃO DEVER FIXADA UMA PENA RESTRITIVA DE DIREITOS E MULTA, POR SER MAIS BENÉFICA. PREQUESTIONAMENTO NÃO CONFIGURADO. SÚMULAS Nº 211/STJ E 282/STF. PRECEITO SECUNDÁRIO DO TIPO PENAL QUE PREVÊ PENA DE MULTA. INCABÍVEL A IMPOSIÇÃO DE MULTA SUBSTITUTIVA. PRECEDENTE. SÚMULA Nº 83/STJ. NÃO CONHECIMENTO DO AGRAVO E,CASO CONHECIDO, NÃO CONHECIMENTO DO RECURSO ESPECIAL.1. A falta de impugnação específica de todos fundamentos utilizados na decisão agravada inviabiliza o exame do agravo.2. O inconformismo com a substituição da pena corporal por duas restritivas de direitos, ao invés de se aplicar uma pena restritiva de direitos e multa, não foi analisado pelo Tribunal Estadual, nem mesmo quando da oposição de embargos declaratórios pelo ora agravante, faltando o devido prequestionamento da matéria. 3. Incabível a substituição de pena corporal por multa, quando a norma prevê expressamente, no preceito secundário, a pena de multa, como no caso em exame.4. Parecer pelo não conhecimento do agravo e, caso conhecido, não conhecimento do recurso especial.
+É o relatório.
+O agravo preenche os requisitos de admissibilidade. Quanto ao recurso especial em si, tenho que encontra-se prejudicado.
+Como relatado, a defesa busca a alteração das penas substitutivas por uma restritiva de direitos e multa.
+Entretanto, tal questão já foi objeto do HC n. 554.979/SC, impetrado em benefício doora agravante, e teve a ordem denegada, com trânsito em julgado em 14/5/2020.
+Veja-se o que constou dodecisuma respeito da questão:
+ ..
+Por fim, não se conhece do pleito subsidiário - readequação da pena substitutiva por uma restritiva de direitos e multa -, uma vez que não debatido pelo Tribunal a quo, sendo que a sua análise por esta Corte implicaria inadmissível supressão de instância.
+ ..
+Nesse contexto, constata-se que o objeto do recurso especial já foi devidamente analisado por esta Corte, razão pela qual não se mostra possível nova apreciação da questãopor representar reiteração de pedido.
+A esse respeito, confira-se:
+AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO PENAL. PLEITO DE RECONHECIMENTO DA CONTINUIDADE DELITIVA. PEDIDO DEDUZIDO EM HABEAS CORPUS ANTERIORMENTE IMPETRADO. REITERAÇÃO DE PEDIDO. IMPOSSIBILIDADE DE REDISCUSSÃO DA MATÉRIA.
+1. Constatado que o recurso especial é mera reiteração de habeas corpus anteriormente impetrado e já decidido, é caso de julgá-lo prejudicado ante a ausência de interesse recursal, uma vez que a causa de pedir e o pedido são idênticos, além de ambos atacarem o mesmo acórdão ora recorrido.
+2. "Quando o habeas corpus e o recurso especial veiculam idêntica pretensão, o julgamento de um deles provoca a prejudicialidade do outro, em decorrência da perda superveniente de objeto, com o consequente esgotamento da competência do Superior Tribunal de Justiça. Precedentes" (AgRg no REsp n. 1.815.614/PE, relatora Ministra LAURITA VAZ, SEXTA TURMA, julgado em 4/2/2020, DJe 17/2/2020).
+3. Agravo regimental desprovido.
+(AgRg no AgRg no AREsp n. 1.776.153/SE,Ministro Antonio Saldanha Palheiro, Sexta Turma,DJe 12/8/2021 - grifo nosso).
+Ante o exposto, com fundamento noart. 253, parágrafo único, II,a, do Regimento Interno do STJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL.ART. 44, § 2º, DO CP. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS E MULTA.QUESTÃO DECIDIDA NO JULGAMENTO DO HC N. 554.979/SC. PERDA DO OBJETO.
+Agravo conhecido para não conhecer do recurso especial.
