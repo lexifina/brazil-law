@@ -1,0 +1,9 @@
+DECISÃO
+O pleito de devolução do prazo recursal contra a decisão de fls. 671-672, formulado por meio da petição de fls. 686-687, e reiterado à fl. 692, deve ser indeferido.
+Isso porque, conquanto o advogado WILSON MIGUEL tenha falecido em data anterior à publicação da decisão que não conheceu do agravo em recurso especial, conforme aponta a certidão de óbito de fl. 688, há de se notar que o referido patrono substabeleceu os poderes que lhes foram outorgados por procuração a diversos outros causídicos, dentre eles os advogados que também foram intimados da supracitada decisão (vide substabelecimento de fl. 470). Observa-se, ainda, que o referido instrumento de mandato substabelece todos os poderes da procuração, "salvo os especiais e o de substabelecer".
+Tal forma de proceder vai ao encontro do intento da parte agravante que, segundo se infere do documento de fl. 142, contratou a banca liderada pelo advogado falecido para que lhe patrocinasse na causa previdenciária.
+Ademais, no agravo em recurso especial não se observa qualquer pleito de publicação exclusiva no nome do advogado falecido, mas apenas que nas publicações subsequentes constasse o seu nome (conforme fls. 657 e 661).
+Desse modo, incumbiria aos demais profissionais constituídos, que foram devidamente intimados da decisão, a promoção dos atos inerentes à defesa dos interesses da parte agravante.
+Por fim, há de se frisar que eventual relação contratual existente entre o falecido advogado WILSON MIGUEL e os demais advogados substabelecidos é irrelevante aos presentes autos e não constitui justa causa a dar guarida a almejada suspensão processual, porquanto em momento algum, conforme acima explanado, a parte agravante esteve tecnicamente desassistida.
+Ante o exposto, indefiro o pedido de devolução do prazo recursal e determino a baixa dos autos à origem para as providências cabíveis.
+Publique-se. Intimem-se.
