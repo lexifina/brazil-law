@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo interposto por LOURDES MOREIRA e OUTROScontra decisão do Tribunal de Justiça do Estado de São Paulo , que não admitiu recurso especial fundado nas alíneas "a" e "c" do permissivo constitucional e que desafia acórdão assim ementado (e-STJ fl. 104):
+AGRAVO DE INSTRUMENTO CUMPRIMENTO DE SENTENÇA - Conversão dos salários pela URV, com o recálculo de seus vencimentos - Acolhimento da pretensão dos servidores municipais Início da execução - Inadmissibilidade Verificada a ocorrência da reestruturação da carreira dos recorridos Propositura da ação judicial há mais de cinco anos da reestruturação, a implicar o reconhecimento da prescrição quanto a possíveis diferenças remuneratórias - Precedentes Extinção da execução diante da ocorrência da prescrição.
+Recurso provido.
+Opostos declaratórios, foram eles rejeitados (e-STJ fls. 129/134).
+No especial obstaculizado, a parte recorrente apontou violação dos arts. 502, 507, 508, 932, III e 1.022, II, do CPC/2015, defendendo, além de negativa jurisdicional, que aquestão relativa àreestruturação da carreira foi, hámuito tempo resolvida, acarretando na preclusão consumativa.
+Passo a decidir.
+Inexiste ofensa ao art. 1.022 do CPC/2015 quando o Tribunal de origemse manifesta de modo fundamentado acerca das questões que lhe foramsubmetidas, apreciando integralmente a controvérsia posta nos autos,porquanto julgamento desfavorável ao interesse da parte não se confundecom negativa ou ausência de prestação jurisdicional.
+Consoante entendimento desta Corte, o magistrado não está obrigado a responder a todas as alegações das partes, tampouco a rebater um a um todos os seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie. Nesse sentido:
+IPVA. NÃO CONFIGURADA VIOLAÇÃO DO ART. 1.022 DO CPC/2015. CERCEAMENTO DE DEFESA. INCIDÊNCIA DA SÚMULA 283 DO STF. ALIENAÇÃO FIDUCIÁRIA DE VEÍCULO. ILEGITIMIDADE PASSIVA DO CREDOR FIDUCIÁRIO. CONTROVÉRSIA DIRIMIDA COM ANÁLISE DE LEGISLAÇÃO DISTRITAL. INCIDÊNCIA DA SÚMULA 280/STF. LEI LOCAL. ILEGITIMIDADE ATIVA DO DISTRITO FEDERAL. REEXAME DO CONJUNTO PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7 DO STJ. MULTA DO ART. 1026 DO CPC/2015.
+1. Inicialmente, em relação aos arts. 141 e 1022 do CPC, deve-se ressaltar que o acórdão recorrido não incorreu em omissão, uma vez que o voto condutor do julgado apreciou, fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte recorrente. Vale destacar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional.
+ ..
+(REsp 1.671.609/DF, Rel. Ministro HERMAN BENJAMIN, Segunda Turma, DJe 30/06/2017).
+Noutra quadra, observo que não houve impugnação que ampare o acórdão hostilizado, no sentido de que (e-STJ fl. 105):
+cumpre esclarecer que a apuração de eventual prejuízo remuneratório foi postergada para a fase de cumprimento de sentença, sendo aqui pertinente a discussão da questão da reestruturação da carreira.
+E ante a existência da LC 162/95, implica analisar a ocorrência da prescrição, que é matéria de ordem pública, de modo que pode ser alegada em qualquer grau de jurisdição, sem se olvidar do seu reconhecimento até mesmo de ofício.
+Assim, como os referidos fundamentos não foram atacados pela parte insurgente e são aptos, por si só, para manter o decisum combatido, permite-se aplicar na espécie, por analogia, o óbice da Súmula 283 do STF.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a" e "b", do RISTJ, CONHEÇO do agravo para CONHECER PARCIALMENTE do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
