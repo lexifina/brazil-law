@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo interposto por AMADEU VICENTE DIAScontra decisão da Vice-Presidência do Tribunal de Justiça do Estado de Alagoas que não admitiu o seu recurso especial, fundado na alíneaado permissivo constitucional.
+Depreende-se dos autos que o Tribunal de origem manteve a pronúncia do agravante pela prática, em tese, do crime previsto no art. 121, § 2º, IV, do Código Penal (e-STJ fls. 361-373).
+O recurso especial manejado pela defesa, em que foi alegada a violação dos arts. 155 e 413do Código de Processo Penal,não foi admitido por força do óbice da Súmula n. 7/STJ, haja vista a necessidade de revolvimento de questões fático-probatórias para modificar o acórdão recorrido (e-STJ fls. 406-409).
+No agravo em recurso especial, a defesa sustenta a desnecessidade de reexame fático-probatório para o julgamento da pretensão recursal deduzida (e-STJ fls. 420-428).
+Os autos vieram conclusos em razão de impedimento do eminente Ministro-Presidente Humberto Martins (e-STJ fl. 459).
+É o relatório.
+No tocante à controvérsia aduzida pela defesa no recurso especial, esses foram os motivos apresentados pelo Tribunala quo para negar provimento ao recurso em sentido estrito e, assim, manter a pronúncia do réu (e-STJ fls.329-330):
+O auto de exame cadavérico às págs. 26/27 atesta que a vitima José Edmilsonda Silva faleceu por traumatismo crânio-encefálico causado por projétil de arma defogo, apresentando o cadáver lesão compatível com disparo deflagrado com armaencostada no crânio.
+De todas as provas acima descritas, percebe-se: portanto, que a tese deinexistência de elementos probatórios a sustentar a pronuncia, suscitada pelo recorrente,não se mostra absoluta, coexistindo versão dos fatos que ventila em desfavor doacolhimento da pretensão suscitada pelo réu.
+Nesse sentido, existem depoimentos que indicam que o réu Amadeus teria sidoo autor dos disparos que vitimaram Edmilson, em virtude de desavenças anteriores poruma sugestão de "troca de esposas" e por causa de briga com a pessoa de Manoel, naqual o ofendido o agrediu com uma foice.
+Inclusive, o irmão da vitima, Laudelino, narra que a pessoa de Ivo, testemunhaocular do fato, teria lhe confessado que a autoria delitiva recairia sobre a pessoa deAmadeus.
+Além disso, o réu confessou, durante o inquérito policial, que teria sido o autordos disparos, fornecendo explicação a respeito do iter criminis compatível com a lesãoprovocada na vítima, conforme auto de exame cadavérico
+Por outro lado, o réu sustenta que não foi o responsável pelos disparos, poisestava deitado em um salão ao lado de sua casa, tendo confessado o fato na Delegaciaporque foi torturado.
+Não se está aqui a afirmar, com certeza, que o apelante tenha participado docrime de homicídio em apuração. Todavia, não se pode, por outro lado, negar talocorrência com precisão.
+Logo, não havendo prova irrefutável das alegações defensivas a permitir adespronúncia do acusado, deverá o Tribunal Popular, no exercício de sua soberania,dirimir as dúvidas quanto a tal discussão, já que aqui incide a imperatividade contida nobrocardo in dúbio pro societate.
+Acrescente-se que, em instrução plenária, as teses defensivas poderão sernovamente exploradas, e a apreciação final caberá ao Conselho de Sentença, a quemcabe julgar os crimes dolosos contra a vida.
+Ao que se nota, à toda evidência, eventual modificação do acórdão recorrido dependeria necessariamente do revolvimento de questões fático-probatórias, o que, no âmbito do recurso especial, constitui medida vedada pelo óbice da Súmula n. 7/STJ,in verbis:
+Súmula n. 7. A pretensão de simples reexame de prova não enseja Recurso Especial.
+Nesse sentido, cite-se o seguinte precedente:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL.VIOLAÇÃO AO ART. 619 DO CPP. NÃO OCORRÊNCIA. ARGUMENTAÇÃO DE QUE A DECISÃO DOS JURADOS NÃO É CONTRÁRIA À PROVA DOS AUTOS. REEXAME DE PROVAS. SÚMULA 7/STJ. SOBERANIA DOS VEREDICTOS. CONVICÇÃO CONTRÁRIA A PROVA DOS AUTOS. POSSIBILIDADE DE ANÁLISE PELO TRIBUNAL DE APELAÇÃO.
+I - O Tribunal de origem, embora de forma contrária à pretendida pela Defesa, analisou todos os pontos apontados como omissos e contraditórios, não havendo que se falar em malferimento do art. 619 do CPP e demais dispositivos citados tidos como violados no v.acórdão de embargos de declaração. No presente caso, observo de forma clara a intenção da parte recorrente em rediscutir o julgamento da causa, o que foge aos limites estabelecidos pelo legislador no art. 619 do CPP.
+II - O acolhimento do inconformismo atinente à submissão do recorrente a novo tribunal do júri, segundo as alegações vertidas nas razões do especial, demanda, como mencionado no decisum vergastado, o revolvimento do acervo fático-probatório dos autos, situação vedada pela Súmula 7 do STJ.
+III - Os veredictos do Tribunal do Júri não escapam completamente do controle judicial. O art. 593, § 3º, do CPP estabelece a possibilidade de recurso contra decisão do Conselho de Sentença que se divorcia da prova dos autos, mas limita essa supervisão a uma única vez.
+IV - A melhor exegese dos comandos normativos vertidos nos arts. 483, III, § 2º, e 593, III, d, § 3º, do CPP é a de ser possível a absolvição do acusado, mesmo que haja o reconhecimento da materialidade e da autoria delitiva, ainda que única tese defensiva seja a de negativa de autoria. Entretanto, o referido juízo absolutório é passível de ser questionado pela acusação, que poderá manejar apelo fundado no art. 593, III, d, do CPP, sem que o referido recurso signifique desrespeito ou afronta à soberania dos veredictos do Tribunal do Júri. Decisão mantida.
+V - O juízo absolutório dos jurados se estabilizará e ganhará contornos de plenitude somente após novo julgamento pelo Tribunal Popular que tenha sido determinado em razão de provimento de apelação embasada em contrariedade manifesta à prova dos autos. Isso porque, segundo o § 3º do art. 593 do CPP, não se admitirá novo recurso fundado na alínea d do inciso III do referido dispositivo.
+Agravo regimental desprovido.
+(AgRg no REsp 1783954/MT, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 09/04/2019, DJe 15/04/2019)
+Igualmente:
+AGRAVO INTERNO. RECURSO ESPECIAL. PENAL E PROCESSO PENAL. HOMICÍDIO.TRIBUNAL DO JÚRI. CONDENAÇÃO MANIFESTAMENTE CONTRÁRIA À PROVA DOS AUTOS. REVISÃO DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE.INCIDÊNCIA DA SÚMULA 7/STJ. PRECEDENTES. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA.
+1. O juiz não está obrigado a rebater, pormenorizadamente, todas as questões trazidas pela parte. A negativa de prestação jurisprudencial se configura apenas quando o Tribunal deixa de se manifestar sobre ponto que seria indubitavelmente necessário ao deslinde do litígio.
+2. A "soberania dos veredictos" do Tribunal do Júri "não é um principio intangível que não admita relativização. A decisão do Conselho de Sentença quando manifestamente divorciada do contexto probatório dos autos resulta em arbitrariedade que deve ser sanada pelo Juízo recursal, nos termos do art. 593, inciso III, alínea "d", do Código de Processo Penal." (RHC 118.197/ES, Rel. Ministra Rosa Weber, Primeira Turma, DJe de 10/04/2014).
+3. A reforma do acórdão recorrido, que anulou o julgamento para submeter os réus a novo júri, concluindo que a decisão dos jurados seria manifestamente contrária à prova dos autos, demandaria o revolvimento do conteúdo fático-probatório dos autos, procedimento sabidamente inviável nesta instância especial. Incidência da Súmula 7/STJ. Precedentes.
+4. Agravo interno improvido.
+(AgRg no REsp 1626167/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 06/10/2016, DJe 21/10/2016)
+Ante o exposto, com fundamento no art. 21-E, V, c/c o art. 22, ambos do Regimento Interno do Superior Tribunal de Justiça, conheçodo agravo para não conhecer dorecurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PRONÚNCIA. ELEMENTOS INFORMATIVOS DO INQUÉRITO. SUFICIÊNCIA. NECESSIDADEDE REEXAME FÁTICO-PROBATÓRIO. MEDIDA VEDADA PELOÓBICE DA SÚMULA N. 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
