@@ -1,0 +1,60 @@
+DECISÃO
+Trata-se de Recurso Especial, fundamentado na alínea a do permissivo constitucional, interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS, contra acórdão do Tribunal Regional Federal da 1ª Região, publicado na vigência do CPC/2015, assim ementado:
+"PREVIDENCIÁRIO E CONSTITUCIONAL. AUXÍLIO-RECLUSÃO. FILHO MENOR IMPÚBERE.QUALIDADE DE SEGURADO. PERÍODO DE GRAÇA. CONCESSÃO DO BENEFÍCIO.POSSIBILIDADE. JUROS DE MORA. CORREÇÃO MONETÁRIA. HONORÁRIOS ADVOCATÍCIOS.CUSTAS.
+1. Não é aplicável o disposto no § 3º do art. 496 do novo CPC quando a sentença é ilíquida ou não está fundada em súmula deste Tribunal ou jurisprudência do plenário do STF ou de Tribunal Superior, observando-se em tais casos a necessidade de reexame em remessa oficial.
+2. A concessão do auxílio-reclusão pressupõe a qualidade de segurado do preso, independentemente de carência; o recolhimento à prisão do segurado em regime fechado ou semi-aberto; a situação de dependência previdenciária do postulante ao beneficio e, por fim, o requisito relativo à baixa renda do segurado.
+3. Essa Turma, acompanhando a jurisprudência, já se manifestou que "No caso dos autos, o segurado, ao tempo do seu recolhimento à prisão, estava desempregado e não recebia remuneração de empresa nem beneficio previdenciário, mas ainda conservava a qualidade de segurado (período de graça), por isso têm os seus dependentes direito à percepção do auxílio- reclusão"(AC 0030813-39.2013.4.01.9199/MT, Rel. Desembargador Federal Jannil Rosa de Jesus Oliveira, Primeira Turma, e-DJF1 de 08/06/2016).
+4. Comprovada a condição de menor impúbere (absolutamente incapaz) dos autores na data do recolhimento do segurado à prisão, faz jus ao recebimento das parcelas de auxílio-reclusão desde o momento da prisão do segurado.
+5. Quanto aos indexadores/índicesde recomposição monetária e balizamento de juros de mora alusivos ao período pretérito/vencido, aplicam-se os índices/percentuais previstos no Manual de Cálculos da Justiça Federal, sempre em sua "versão mais atualizada"nos termos detalhados no voto.
+7. Honorários advocatícios devidos em 10% das prestações vencidas até a prolação da sentença de procedência, ou do acórdão que a reformou, no caso de improcedência, de acordo com o enunciado da Súmula 111 do STJ.
+8. Nas causas ajuizadas perante a Justiça Estadual, no exercício da jurisdição federal (CF/1988, art. 109, § 3º), o INSS somente está isento do pagamento de custas quando lei estadual contenha previsão de tal benefício, o que ocorre nos Estados de Minas Gerais, Goiás, Rondônia e Mato Grosso. Em causas ajuizadas perante a Justiça Federal, o INSS está isento de custas por força do art. 4º, I, da Lei 9.289/1996.
+9. Apelação do INSS não provida.
+10. Remessa oficial, tida por interposta, parcialmente provida, para determinar à autarquia previdenciária que, no cumprimento do julgado, observe as estipulações relativas à incidência dos juros e correção monetária descritas no voto.
+11. Apelação da parte autora provida, para determinar o termo inicial da concessão do auxílio- reclusão, a data da prisão do segurado" (fls 194/195e).
+Opostos Embargos de Declaração, pelo INSS, foram eles rejeitados (fls. 204/211e).
+Sustenta o recorrenteviolação aos arts. 103, parágrafo único, da Lei 8.213/91 e 1º do Decreto 20.910/32, sob a seguinte fundamentação:
+"III. DO MÉRITO: DAS RAZÕES PARA A REFORMA DO ACÓRDÃO.
+III.1 PRESCRIÇÃO QUINQUENAL  OFENSA AO ART. 103, PARÁGRAFO ÚNICO, DA LEI 8.213/91, BEM COMO ART. 1º DO DECRETO 20.910/1932.
+Vê-se dos autos em questão que esse douto tribunal silenciou-se acerca do instituto da prescrição de toda e qualquer parcela eventualmente devida e vencida há mais de cinco anos anteriores ao ajuizamento da demanda, em atenção ao contido no artigo 103 da Lei n. 8.213/91, artigo este que já resta prequestionado.
+Com efeito, entre a data do fato e a data do ajuizamento da presente ação, transcorreu lapso bastante superior ao lustro prescricional, DE MODO QUE A PRESCRIÇÃO, NA HIPÓTESE ATINGE O PRÓPRIO DIREITO RECLAMADO e não apenas as parcelas vencidas anteriormente ao quinquênio que precede a ação.
+(..)
+Com a devida vênia, embora o v. acórdão não tenha tratado efetivamente da ocorrência da prescrição em relação às parcelas vencidas antes do quinquênio que antecedeu oajuizamento da ação, é incontestável que já encontram-se atingidas pela prescrição as parcelas anteriores ao quinquénio legal, nos termos do artigo 103, parágrafo único, da Lei 8.213/91 e nada obsta que venha a mesma ser alegada e acolhida no presente momento.
+É que, no presente caso, a demanda versa sobre direito indisponível - consubstanciado no patrimônio da autarquia federal - razão pela qual não há obstáculo ao reconhecimento daprescrição.
+Vejamos como dispõe o parágrafo único, do art. 103, da Lei nº8.213/91, verbis:
+(..)
+Preceito aplicável ainda àFazenda Pública em geral, o Decreto 20.910/32 também prevê a prescrição quinquenal:
+(..)
+Imperioso e lógico assim reconhecer a prescrição das parcelas anteriores ao quinquênio da propositura da ação.
+(..)
+Não podemos olvidar que o vetusto entendimento registrado no parágrafo 5ºdo artigo 219 do estatuto processual não se coaduna com o espírito da Constituição da República. Afinal, na aplicação da lei, o juiz deve atentar para princípios maiores que regem o ordenamento jurídico e aos fins sociais a que a lei se destina (artigo 5º, da Lei de Introdução ao Código Civil),de sorte que a prescrição pode e deve, a bem do Estado Democrático de Direito, ser cognoscível de oficio pelo Judiciário, em todas as suas instâncias.
+Ora, a supremacia do interesse público sobre o particular, à qual nos referimos e que justifica o conhecimento ex officio da prescrição em respeito ao patrimônio público, "quer significar um interesse geral ligado a valores de maior relevância, vinculados aos fins sociais e às exigências do bem comum que a vontade própria e atual da lei tem em vista"(STF, RE 90286- 4/PR, Rel. Min. DJACI FALCÃO, j. em 28/09/1979).
+Ainda, pode se aduzir que diz o Código Civil: "violado o direito nasce para o titular a pretensão, a qual se extingue, pela prescrição, nos prazos a que aludem os arts. 205 e 206".(artigo 189);
+Transcorrido o prazo, surge para o réu o direito de rechaçar a pretensão do autor que não exerceu o direito de ação no tempo previsto na lei;
+(..)
+O patrimônio do INSS, por ser público, só é alienável nas situações expressamente previstas na lei. Logo o valor patrimonial que se incorporou a esse patrimônio com a ocorrência da prescrição é direito indisponível, portanto insuscetível de renúncia ou disposição fora das prescrições legais.
+Assim, a prescrição sobre as parcelas anteriores ao lapso temporal de 5 anos anteriores ao ajuizamento deve ser decretada, pois, tratando-se de direito indisponível, não opera sobre ele a preclusão.
+(..)
+A tese ora esposada encontra reforço com a edição da Lei 11.280 de 16/02/2006 que conferiu nova redação ao artigo 193 do Código Civil e revogou o art. 194 do mesmo diploma legal, admitindo-se, hoje, o reconhecimento da prescrição, a qualquer tempo, para todos os tipos de direito, patrimoniais e de ordem pública.
+Assim, sendo evidente a contrariedade a dispositivo de lei federal, deve ser reconhecida a prescrição das parcelas anteriores ao quinquídiolegal, sob pena de ofensa à legislação supracitada.
+Merece, pois, ser provido o presente Recurso Especial, para que o acórdão impugnado seja reformado, julgando-se IMPROCEDENTE o pedido do autor" (fls. 216/222e).
+Por fim, "requer-se de V. Exa. que se digne a conhecer e prover o presente recurso especial, interposto com fundamento na alínea "a", do inciso III, do artigo 105, da Lei Maior, reconhecendo-se a manifesta violação aos artigos acima mencionados" (fl. 223e).
+Sem contrarrazões, o Recurso Especial foi admitido, na origem (fls. 237/238e).
+O Recurso Especial não prospera.
+O Tribunal de origem, na resolução da controvérsia,afastou a ocorrência do prazo prescricional na hipótese, tendo em vista a presença de menor absolutamente incapaz no polo ativo da demanda, firme nos seguintes fundamentos:
+"No caso dos autos, o segurado, ao tempo do seu recolhimento à prisão, estava desempregado, ocorrido em 17/12/2012, e não recebia remuneração de empresa nem benefício previdenciário, mas ainda conservava a qualidade de segurado (período de graça), conforme art.15, §4º, da lei n. 8.213/91, por isso tem o seu dependente direito à percepção do auxílio-reclusão.
+Sobre o termo inicial do benefício de auxílio-reclusão, será a data do efetivo recolhimento do segurado à prisão, se requerido até 30 dias depois desta; ou a data do correspondente requerimento, quando posterior àquele prazo, nos termos do § 4º do art. 116 do Decreto 3.048/99.
+Com efeito, apesar da existência da norma infralegal acima referida (art. 116, § 4º, do Decreto nº 3.048/99), em se tratando de absolutamente incapaz, não há que se falar em fluência de prazo prescricional ou decadencial, a teor do disposto nos arts. 198, inciso I, e 208, ambos do Código Civil de 2002, c/c os artigos 79 e 103, parágrafo único, da Lei de Benefícios.
+Comprovada a condição de menor impúbere (absolutamente incapaz) dos autores na data do recolhimento do segurado à prisão, faz jus ao recebimento das parcelas de auxílio- reclusão compreendidas desde a data da prisão do segurado.
+O benefício será devido apenas durante o período em que o segurado estiver recolhido à prisão, sob regime fechado ou semi-aberto, sendo mantido enquanto permanecer o estado de detenção ou reclusão (§ 5º do art. 116 e caput do art. 117). Assim sendo, o termo final do beneficio é a data da soltura do segurado.
+Portanto, há de ser reformada a sentença, para reconhecer o direito da parte autora ao benefício em todo o período em que recolhido à prisão o seu genitor, seja em regime fechado ou semi-aberto" (fl. 190e).
+Entretanto, verifica-se que referido fundamentonão foi impugnado pela parte recorrente, nas razões do Recurso Especial. Portanto, incide, na hipótese, a Súmula 283/STF, que dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. LIQUIDAÇÃO DE SENTENÇA. AÇÃO REVISIONAL CUMULADA COM REPETIÇÃO DE INDÉBITO. ART. 535 DO CPC/1973. VIOLAÇÃO. NÃO OCORRÊNCIA. FUNDAMENTO SUFICIENTE. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA. SÚMULA Nº 283/STF. HONORÁRIOS ADVOCATÍCIOS. FASE LIQUIDAÇÃO. POSSIBILIDADE. SÚMULA Nº 568/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. A ausência de impugnação de um fundamento suficiente do acórdão recorrido enseja o não conhecimento do recurso, incidindo o enunciado da Súmula nº 283 do Supremo Tribunal Federal.
+4. É possível a fixação de honorários advocatícios na fase de liquidação de sentença com caráter contencioso. Precedentes.
+5. Agravo interno não provido" (STJ, AgInt no AREsp 864.643/PR, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe de 20/03/2018).
+Ante o exposto, com fundamento no art. 255, § 4º, I e II, do RISTJ, não conheço do Recurso Especial.
+Em atenção ao disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já arbitrado, levando-se em consideração o trabalho adicional imposto ao advogado da parte recorrida, em virtude da interposição deste recurso, respeitados os limites estabelecidos nos §§ 2º e 3º do art. 85 do CPC/2015.
+I.
