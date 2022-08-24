@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se  de  agravo  em  recurso  especial  interposto  por  GEAP AUTOGESTÃO EM SAÚDE  (GEAP)  contra  decisão  que  negou  seguimento  ao  seu  apelo  nobre  manejado,  por  sua  vez,  contra  acórdão  do  Tribunal  de  Justiça  do  Distrito Federal e Territórios,  assim  ementado:
+CIVIL. APELAÇÃO. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. PRAZO DE CARÊNCIA. ATENDIMENTO DE EMERGÊNCIA.
+OBRIGATORIEDADE. INTERNAÇÃO. NEGATIVA INDEVIDA. RECURSO ADESIVO. DESERÇÃO. MANUTENÇÃO DA SENTENÇA.
+1. Ao recurso adesivo aplicam-se os mesmos requisitos de admissibilidade impostos ao recurso principal. Deixando a recorrente de comprovar o recolhimento do preparo no ato de interposição do recurso ou de realizar seu recolhimento em dobro, no prazo assinalado pelo § 2º do art. 1.007 do CPC, impõe-se o reconhecimento da deserção do recurso adesivo.
+2. Não obstante o período de carência previsto no contrato, certo é que o art. 35-C, da Lei nº 9.656/98 estabelece que a cobertura é obrigatória nos casos de emergência e urgência. Assim evidenciada a emergência médica, é devida a cobertura da internação e dos procedimentos médicos pela operadora de plano de saúde.
+3. Recurso principal conhecido e não provido. Recurso adesivo não conhecido(e-STJ,  fl.  305).
+Inconformada,  GEAP  manejou  recurso  especial  com  fundamento  no  art.  105,  III,  a  e  c  ,  da  CF,  alegando  a  violação  dos  arts.  12, V,  da  Lei  nº  9.656/98,  e  421 e 422  do  CC/02,  ao  sustentar  que  na hipótese dos autos inexiste o estado de urgência ou emergência da beneficiária que justifique a quebra da carência, o que por consequência afasta qualquer obrigação da operadora de saúde em cobrir os procedimentos solicitados .
+O  recurso  não  foi  admitido  pelo  TJDFT  (e-STJ,  fls.  369/370).
+Dessa  decisão,  GEAP  interpôs  o  presente  agravo  em  recurso  especial,  refutando  os  óbices  aplicados.
+É  o  relatório.
+DECIDO.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial, que não merece prosperar.
+(1)  Da  emergência  do  atendimento.
+Nas  razões  do  recurso  especial,  GEAP  sustentou que,  na hipótese dos autos, inexiste o estado de urgência ou emergência da beneficiária que justifique a quebra da carência, o que por consequência afasta qualquer obrigação da operadora de saúde em cobrir os procedimentos solicitados
+TJDFT soberana  na  análise  do  acervo  fático-probatório  dos  autos,  concluiu  o  seguinte:
+No caso dos autos, constata-se que uma lesão se desenvolveu no dedo indicador da beneficiária, em razão se seu quadro diabético, a qual não apresentou melhora, apesar de inúmeras tentativas de tratamento domiciliar propostas pelo corpo médico do Hospital Santa Marta. Com o agravamento da lesão, decorrente da inflamação e infecção do ferimento, a autora se dirigiu, mais uma vez, ao Hospital Santa Marta em busca de auxílio, contexto em que o médico responsável solicitou sua internação emergencial.
+No entanto, em que pese à situação de emergência, a ré/recorrente principal não autorizou a cobertura do tratamento, sob o argumento de que a contratante não havia cumprido o necessário prazo de carência para o procedimento solicitado, conforme guia de internação de id 27181944.
+Entrementes, em se tratando de quadro de urgência ou emergência, não há que se falar em carência quanto ao tratamento prescrito, devendo ser declarada nula a cláusula que restringir a cobertura.
+ ..
+Na hipótese, não se afigura razoável aguardar-se o prazo de carência de 180 (cento e oitenta) dias disciplinado contratualmente, haja vista que diante do quadro diabético da autora, seu dedo poderia vir a ser amputado, ocasionando lesão indubitavelmente irreparável(e-STJ, fls. 307/308, sem destaque no original).
+Conforme  se  nota,  rever  a  conclusão  alcançada  pelo  TJDFT acerca  do  estado  de  saúde  de  CLAUDIA e  da  emergência  do  atendimento  que afastou o prazo de carência demandaria  reexame  das  provas  coligidas  aos  autos,  o  que  se  revela  inviável  na  estreita  via  do  recurso  especial,  atraindo  a  incidência  da  Súmula  nº  7  do  STJ.
+Diante  deste  contexto,  verifica-se  que  o  acórdão  recorrido  se  encontra  em  consonância  com  o  entendimento  consolidado  nesta  Corte  Superior,  na  esteira  dos  seguintes  precedentes:
+PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  PLANO  DE  SAÚDE.  RECUSA.  INTERNAÇÃO.  CARÊNCIA.  DANOS  MORAIS.
+1.  Ação  de  obrigação  de  fazer  em  razão  da  negativa  de  internação  hospitalar  de  emergência.
+2.  O  período  de  carência  contratualmente  estipulado  pelo  plano  de  saúde  não  prevalece  diante  de  situações  emergenciais  graves  nas  quais  a  recusa  de  cobertura  possa  frustrar  o  próprio  sentido  e  a  razão  de  ser  do  negócio  jurídico  firmado.
+3.  A  recusa  indevida/injustificada,  pela  operadora  de  plano  de  saúde,  em  autorizar  a  cobertura  financeira  de  tratamento  médico  a  que  esteja  legal  ou  contratualmente  obrigada,  pode  ensejar  reparação  a  título  de  dano  moral,  por  agravar  a  situação  de  aflição  psicológica  e  de  angústia  no  espírito  do  beneficiário  Precedentes.
+4.  Agravo  interno  no  agravo  em  recurso  especial  desprovido.
+(AgInt  no  AREsp  1326316/DF,  Rel.  Ministra  NANCY  ANDRIGHI,  Terceira  Turma,  DJe  25/10/2018, sem destaque no original)
+CIVIL.  PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  PLANO  DE  SAÚDE.  NEGATIVA  DE  COBERTURA.  PERÍODO  DE  CARÊNCIA.  EMERGÊNCIA  COMPROVADA.  DANO  MORAL  CONFIGURADO.  VALOR  DA  INDENIZAÇÃO.  PRINCÍPIOS  DA  PROPORCIONALIDADE  E  DA  RAZOABILIDADE.  SÚMULA  N.  7/STJ.  DECISÃO  MANTIDA.
+1.  "A  jurisprudência  desta  Corte  é  no  sentido  de  que  a  cláusula  contratual  que  prevê  prazo  de  carência  para  utilização  dos  serviços  prestados  pelo  plano  de  saúde  não  é  considerada  abusiva,  desde  que  não  obste  a  cobertura  do  segurado  em  casos  de  emergência  ou  urgência,  como  na  hipótese  dos  autos.  Precedentes"  (AgInt  no  AREsp  1269169/SP,  Rel.  Ministro  LUIS  FELIPE  SALOMÃO,  QUARTA  TURMA,  julgado  em  11/09/2018,  DJe  18/09/2018).
+2.  O  recurso  especial  não  comporta  o  exame  de  questões  que  impliquem  revolvimento  do  contexto  fático-probatório  dos  autos,  a  teor  do  que  dispõe  a  Súmula  n.  7/STJ.
+3.  No  caso  concreto,  o  Tribunal  de  origem  analisou  as  provas  dos  autos  para  concluir  pela  existência  de  danos  morais,  decorrentes  da  negativa  de  cobertura  do  atendimento  de  emergência  sob  o  pretexto  de  inobservância  do  prazo  de  carência.  Alterar  esse  entendimento  demandaria  o  reexame  dos  fatos  que  informaram  a  causa,  vedado  em  recurso  especial.
+4.  Somente  em  hipóteses  excepcionais,  quando  irrisório  ou  exorbitante  o  valor  da  indenização  por  danos  morais  arbitrado  na  origem,  a  jurisprudência  desta  Corte  permite  o  afastamento  do  referido  óbice,  para  possibilitar  a  revisão.  No  caso,  o  valor  estabelecido  pelo  Tribunal  de  origem  não  se  mostra  excessivo,  a  justificar  sua  reavaliação  em  recurso  especial.
+5.  Agravo  interno  a  que  se  nega  provimento.
+(AgInt  no  AREsp  1298194/DF,  Rel.  Ministro  ANTONIO  CARLOS  FERREIRA,  Quarta  Turma,  DJe  25/10/2018, sem destaque no original)
+Nessas  condições,  com  fundamento  no  art.  1.042,  §  5º  do  NCPC  c/c  art.  253  do  RISTJ  (com  a  nova  redação  que  lhe  foi  dada  pela  emenda  nº  22  de  16/03/2016,  DJe  18/03/2016),  CONHEÇO  do  agravo  para  NEGAR  PROVIMENTO  ao  recurso  especial.
+Por  oportuno,  previno  que  a  interposição  de  recurso  contra  esta  decisão,  se  declarado  manifestamente  inadmissível,  protelatório  ou  improcedente,  poderá  acarretar  condenação  às  penalidades  fixadas  nos  arts.  1.021,  §  4º,  ou  1.026,  §  2º,  ambos  do  NCPC.
+Publique-se.  Intimem-se.
+EMENTA
+CIVIL.  CONSUMIDOR.  AGRAVO  EM  RECURSO  ESPECIAL.  RECURSO  INTERPOSTO  NA  VIGÊNCIA  DO  NCPC.  AÇÃO  DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE.  ATENDIMENTO  DE  EMERGÊNCIA.  CARÊNCIA.  RECUSA  INJUSTIFICADA.  INVIABILIDADE  DE  REEXAME  DAS  PROVAS  DOS  AUTOS.  AGRAVO  CONHECIDO .  RECURSO  ESPECIAL  NÃO  PROVIDO.
