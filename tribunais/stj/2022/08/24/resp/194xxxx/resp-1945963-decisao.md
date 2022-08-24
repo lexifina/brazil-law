@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de recurso especial interposto pela Fazenda Nacional (fls. 629/642) com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TRF4, assim ementado (fl. 502):
+TRIBUTÁRIO. MANDADO DE SEGURANÇA. CRÉDITOS PRESUMIDOS. ART. 8º DA L 10.925/2004. BENEFICIAMENTO DE SOJA, MILHO ETRIGO. DIREITO AO RESSARCIMENTO OU À COMPENSAÇÃO.
+1. Os produtos comercializados (trigo, soja e milho) passam por processo produtivo (limpeza, secagem e armazenagem) de beneficiamento.
+2. A impetrante vincula-se ao setor agroindustrial de produção de alimentos, considerando o beneficiamento dos grãos e, assim, preenche o requisito do artigo 8º, caput, da Lei nº 10.925/04, podendo utilizar o crédito presumido para compensar com quaisquer tributos devidos.
+Embargos de declaraçãocom efeitos modificativos apenas para determinar a não incidência de correção monetária pela taxa SELIC no caso dos autos. A ementa dos acórdão proferido em embargos de declaração é a seguinte (fl. 598):
+TRIBUTÁRIO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. 1. Os embargos de declaração são destinados a complementar o julgamento da ação, quando da existência de obscuridade, omissão ou contradição.
+2. Acolher parcialmente os embargos declaratórios opostos pela Fazenda Nacional, atribuindo-lhes efeitos infringentes, para dar parcial provimento à apelação da Fazenda Nacional, determinando a não incidência de correção monetária pela taxa SELIC no caso dos autos.
+3. Julgar prejudicado os embargos declaratórios opostos pela impetrante.
+O recorrente alega que o acórdãonega vigência ao §4º, inciso I, do art. 8º da Lei nº 10.925/04 e, por conferir à empresa recorrida enquadramento jurídico distinto do quanto previsto no inciso I do §1º do art. 8º da Lei nº 10.925/04, acaba por negar vigência também a este dispositivo legal
+A conclusão adotada pela Corte de origem foi a de que, ao desempenhar as atividades descritas no inciso I do §1º do art. 8º da Lei nº 10.925/04, a contribuinte recorrida não é cerealista, mas sim, agroindústria.
+Portanto, em síntese, a Fazenda Nacional se insurge quanto ao enquadramento promovido pelo TRF4 à contribuinte.
+Comcontrarrazões.
+Juízo positivo de admissibilidade às fls. 790.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Nos termos da jurisprudência firmada no Superior Tribunal de Justiça, rever o entendimento firmado pelo Tribunal de origem, quanto ao enquadramento da recorrente como agroindústriae, por conseguinte, enquadradá-la como cerealista, o que lhe impediria de aproveitar créditos presumidos, na forma dos arts. 8º da Lei 10.925/2004, demandaria reexame de aspectos fático-probatórios da causa e tal providência não é admissível no âmbito do recurso especial, consoante diretriz firmada na Súmula 7 deste Tribunal: "A pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido, essa mesma questão foi debatida pela Primeira Turma do Superior Tribunal de Justiça, tendo prevalecido a tese de que o recurso especial que verse sobre a temática esbarra no óbice da Súmula 7/STJ:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL.PIS E COFINS. CRÉDITOS PRESUMIDOS. ART. 8º DA LEI N. 10.925/2004.NATUREZA DA ATIVIDADE DESENVOLVIDA PELA EMPRESA FIRMADA PELO TRIBUNAL DE ORIGEM. CEREALISTA OU AGROINDUSTRIAL. REVISÃO.IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO PROVIDO.
+(AgInt no AgInt no REsp n. 1.697.617/RS, relator Ministro Napoleão Nunes Maia Filho, relator para acórdão Ministro Benedito Gonçalves, Primeira Turma, julgado em 19/11/2020, DJe de 30/11/2020.)
+No mesmo sentido, aplicando o óbice da Súmula 7/STJ, são os seguintes precedentes:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. PIS E COFINS. CRÉDITOS PRESUMIDOS. ARTS. 8º DA LEI N. 10.925/2004. NATUREZA DA ATIVIDADE DESENVOLVIDA PELA EMPRESA. FIRMADA PELO TRIBUNAL DE ORIGEM. CEREALISTA OU AGROINDUSTRIAL. REVISÃO. IMPOSSIBILIDADE.. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. A revisão do entendimento a que chegou o Tribunal de origem para descaracterizar a empresa recorrida como cerealista e, por conseguinte, enquadradá-la como agroindústria, para que possa aproveitar créditos presumidos, na forma do art. 8º da Lei 10.925/2004, demanda o reexame dos fatos e provas constantes nos autos, o que é vedado no âmbito do recurso especial. Incide à hipótese a Súmula 7/STJ. Nesse sentido: AgInt no REsp 1.703.248/SC, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 21/2/2018;AgInt no REsp 1.654.190/PR, Rel. Ministro Napoleão Nunes Maia Filho, DJe 27/03/2018.
+2. Agravo interno não provido.
+(AgInt no REsp n. 1.747.269/RS, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 8/9/2020, DJe de 2/10/2020.)
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. PIS E COFINS. CRÉDITOS PRESUMIDOS. ARTS. 8º DA LEI N. 10.925/2004. NATUREZA DA ATIVIDADE DESENVOLVIDA PELA EMPRESA. FIRMADA PELO TRIBUNAL DE ORIGEM. CEREALISTA OU AGROINDUSTRIAL. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. TERMO INICIAL DA CORREÇÃO MONETÁRIA DOS CRÉDITOS FISCAIS. INEXISTÊNCIA DE PROCESSO ADMINISTRATIVO. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF. AGRAVO INTERNO NÃO PROVIDO.
+1. A revisão do entendimento a que chegou o Tribunal de origem para descaracterizar a empresa recorrida como agroindustrial e, por conseguinte, enquadradá-la como cerealista, impedindo-a de aproveitar créditos presumidos, na forma dos arts. 8º da Lei 10.925/2004, demanda o reexame dos fatos e provas constantes nos autos, o que é vedado no âmbito do recurso especial. Incide à hipótese a Súmula 7/STJ. Nesse sentido: AgInt no REsp 1.703.248/SC, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 8/2/2018, DJe 21/2/2018; AgInt no REsp 1.654.190/PR, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 13/3/2018, DJe 27/3/2018.
+2. A ausência de impugnação a fundamento que, por si só, respalda o resultado do julgamento proferido pela Corte de origem impede a admissão do recurso especial. Incide ao caso a Súmula 283/STF.
+3. Agravo Interno não provido.
+(AgInt nos EDcl no REsp n. 1.661.392/PR, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 4/10/2018, DJe de 9/11/2018.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. PIS E COFINS. CREDITAMENTO. ENQUADRAMENTO DA EMPRESA COMO AGROINDUSTRIAL PELO TRIBUNAL DE ORIGEM. REVISÃO. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. INCIDÊNCIA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - In casu, rever o entendimento do Tribunal de origem, que enquadrou a empresa Agravada como agroindustrial, com o objetivo de acolher a pretensão recursal de enquadrá-la no conceito de cerealista, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7/STJ.
+III - A Agravante não apresentou argumentos suficientes para desconstituir a decisão recorrida.
+IV - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo Interno improvido.
+(AgInt no REsp n. 1.715.983/RS, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 16/8/2018, DJe de 14/9/2018.)
+Ante o exposto, não conheço do recurso especial interposto pela Fazenda Nacional.
+Sem honorários recursais, por se tratar de mandado de segurança preventivo, na origem.
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL. TRIBUTÁRIO. RECURSO ESPECIAL.. ANÁLISE DA ATIVIDADE DESENVOLVIDA PELA EMPRESA. CEREALISTA OU AGROINDUSTRIAL. AFERIÇÃO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. RECURSO ESPECIAL NÃO CONHECIDO.
