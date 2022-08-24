@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de embargos de declaração em que a parte embargante alega a existência de omissão quanto à incidência do enunciado n. 224 desta Corte.
+Intimada a parte embargada para apresentar impugnação.
+É o relatório. Decido.
+Conforme ficou claro na decisão embargada não é possível a aplicação isolada do enunciado n. 224 da Súmula esta Corte porquanto não houve a exclusão da União da lide. Assim, o enunciado deve ser interpretado em conformidade com os demais enunciados desta Corte (150 e 254), não havendo que se falar, então, em omissão na decisão embargada.Ademais, também ficou claro que a demanda não foi proposta contra a União.É o que se confere dos seguintes trechos:
+E aqui, o ponto que mais chama a atenção para dirimir a presente controvérsia, a seguinte conclusão exposta pelo nobre relator:
+Entender de maneira diversa seria afastar o caráter solidário da obrigação, o qual foi ratificado no precedente qualificado exarado pela Suprema Corte.
+E continua:
+ .. Por fim, cumpre ressaltar que não se tratando de litisconsórcio passivo necessário da União, é certo que a emenda à inicial para a inclusão de um litigante no polo passivo da lide somente pode ser admitida a pedido da parte demandante, antes da citação ou até o saneamento do feito, nesse último caso com o consentimento do(s) réu(s), já que esse constitui o momento de estabilização da demanda. Efetivamente, não se pode negar à parte que não quer demandar contra a União o seu direito de opção inerente à solidariedade, impelindo-a a emendar a inicial para incluir no feito ente que não é litisconsorte necessário. No caso concreto, como o Juízo Federal, em decisão não recorrida, reconheceu expressamente a inexistência de litisconsórcio passivo necessário da União, concluindo pela sua ilegitimidade passiva e levando em consideração tratar- se de medicamento registrado na Anvisa, deve ser declarada a competência do Juízo Estadual para o processo e o julgamento da demanda, nos termos das Súmulas 150, 224 e 254 do STJ.
+Diante do exposto, verificando-se que o entendimento do STJ não destoa do Tema 793/STF, rejeito o juízo de retratação.
+O voto foi acolhido à unanimidade na sessão de 9 de fevereiro, oportunidade em que tal entendimento também foi acolhido no julgamento do CC n. 174.749/PR, de relatoria do Ministro Gurgel de Faria.
+Desse modo, à consideração de que a situação dos autos, conforme relatado, é de fornecimento de medicamento não incorporado ao elenco da Rename/SUS; mas, não sendo caso de ausência de registro na Anvisa, e, não ajuizada a demanda em desfavor da União, afasta-se a competência da Justiça Federal.
+Cumpre ressaltar que os aclaratórios não se prestam ao reexame de questões já analisadas com o nítido intuito de promover efeitos modificativos ao recurso. No caso dos autos, não há omissão de ponto ou questão sobre as quais o juiz, de ofício ou a requerimento, devia pronunciar-se, considerando que a decisão apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se.
