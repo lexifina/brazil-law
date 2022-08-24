@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo regimental interposto porRENATO CESAR RODRIGUES contra decisão do Presidente desta Corte Superior que não conheceu de agravo em recurso especial devido à ausênciade impugnação específica de todos os fundamentos da decisão agravada - Súmula n. 182/STJ (fls. 548-549).
+Nas razões do agravo regimental, a Defesa argumentaque o Réu não teve direito à defesa técnica no julgamento da apelação, pois "quando da impetração da Apelação, a Secretaria da Vara Criminal de Primeira Instânciajuntou outras razões de apelação de um outro processo do mesmo Réu" (fl. 553).
+O Ministério Público Federal opinou pelo não conhecimento do agravo regimental. Todavia, pleiteou a concessão da ordem de habeas corpus, de ofício, "a fim de reconhecer a nulidade do acórdão que julgou a apelação, devendo ser restituído o prazo à defesa para apresentação das razões recursais" (fl. 567).
+É o relatório. Decido.
+Constatoa existência deilegalidade flagrante,a ser reparadade ofíciopor esta Corte Superior, por força do art. 654, § 2.º, do Código de Processo Penal.
+No caso, o Réu foi condenado pelo delito de roubo majorado praticado em 24/06/2019 (fls. 343-356). Todavia, as razões da apelação foram elaboradas com referência a outro delito de roubo, ocorrido em 05/07/2019, apurado nos autos de ação penal diversa (fls. 373-387). De fato, no próprio endereçamento das razões da apelação consta a referência de que a peça processual destinava-se a processo com numeração diversa.
+A jurisprudência do Superior Tribunal de Justiçaentende sernulo, por ausência de defesa técnica, o julgamento de apelação cujas razões referem-sea crime diverso.Nesse sentido:
+"HABEAS CORPUS. VIAS DE FATO, AMEAÇA E RESISTÊNCIA. CONDENAÇÃO. APELAÇÃO. RAZÕES RECURSAIS APRESENTADAS PELA DEFENSORIA PÚBLICA. PEÇA TOTALMENTE GENÉRICA E QUE FAZ MENÇÃO A OUTRO CRIME. AUSÊNCIA DE DEFESA TÉCNICA. NULIDADE. RECONHECIMENTO. CONCESSÃO, EM MENOR EXTENSÃO.
+ ..
+2. A garantia da ampla defesa biparte-se na autodefesa e na defesa técnica, sendo esta última irrenunciável. Nesse diapasão, revela-se nulo o processo no qual são apresentadas razões de apelação genéricas, com menção a crime diverso daquele tratados nos autos.
+3. Até a formulação das alegações finais, não se constata ilegalidade, pois tal peça processual indicou circunstâncias do caso concreto e argumentos que demonstram o estudo do processo e a existência de suficiente defesa. O vício somente ocorreu com a formulação das razões recursais.
+4. Ordem concedida, em menor extensão, para anular a ação penal a partir do oferecimento das razões recursais, inclusive."(HC n. 419.157/RJ, Relatora Ministra MARIA THEREZA DE ASSIS MOURA, Sexta Turma, julgado em 28/11/2017, DJe de 4/12/2017, sem grifos no original.)
+Ressalte-se, ainda, os argumentos lançados no parecer do Ministério Público Federal, que igualmente adoto como razões de decidir:
+"A defesa constituída pelo réu apresentou as razões de apelação em 05.06.2020 (fls. 373/ 387 e-STJ). Este recurso, todavia, como indicado na folha de rosto, refere-se ao Processo 0647.19.003724-0, que apreciava o crime praticado pelo réu em 05.07.2019 (fl. 373 e-STJ).
+Estes autos, por outro lado, tratam do Processo 0647.16.003722-4, relativo aos fatos ocorridos em 24.06.2019 (fl 343 e-STJ). Correta a irresignação defensiva, portanto, ao apontar o erro pela Secretaria da Vara ao proceder a juntada das razões recursais.
+ ..
+A Corte apreciou razões recursais relativas a feito distinto, sendo manifesto o prejuízo causado a defesa, não podendo o réu ser penalizado pela inércia da defesa, que não apresentou tempestivas razões recursais, e pelo equívoco da secretaria da Vara que juntou petição relativa a feito distinto, razão porque deve ser concedida a ordem de habeas corpus, nos termos deste parecer, para reconhecer a nulidade absoluta decorrente do vício acima apontado." (Fls. 566-567, sem grifos no original).
+Ante o exposto, CONCEDO a ordem de habeas corpus, de ofício, para anular o julgamento da apelação e determinar que, após a abertura de prazo para que a defesa técnica apresente as razões recursais, seja realizado novo julgamento. Por consequência, JULGO PREJUDICADO o agravo regimental.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. AUSÊNCIADE DEFESA TÉCNICA NO SEGUNDO GRAU DE JURISDIÇÃO. RAZÕES DE APELAÇÃO REFERENTES A PROCESSO DIVERSO. ILEGALIDADE FLAGRANTE. NULIDADE DO JULGAMENTO.ORDEM DE HABEAS CORPUS CONCEDIDA, DE OFÍCIO. AGRAVO REGIMENTAL PREJUDICADO.
