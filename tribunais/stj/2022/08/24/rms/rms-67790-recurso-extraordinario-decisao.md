@@ -1,0 +1,63 @@
+DECISÃO
+Trata-se de recurso extraordinário interposto por JJ SÃO BENTO EMPREENDIMENTOS IMOBILIÁRIOS LTDA, com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão deste Superior Tribunal de Justiça, assim ementado (e-STJ fl. 1.418):
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. ATO JUDICIAL. DECISÃO PASSÍVEL DE RECURSO INCIDÊNCIA DO NUNCIADO N.º 267/STF). AUSÊNCIA DE MANIFESTA ILEGALIDADE OU TERATOLOGIA.
+1. Não é cabível o mandado de segurança contra ato judicial impugnável pela via recursal. Aplicação da Súmula 267/STF, por analogia.
+2. A impetração de mandado de segurança contra ato judicial, a teor da doutrina e da jurisprudência, reveste-se de índole excepcional, admitindo-se apenas em hipóteses extraordinárias, a saber: a) decisão judicial manifestamente ilegal ou teratológica; b) decisão judicial contra a qual não caiba recurso; c) para imprimir efeito suspensivo a recurso desprovido de tal atributo; e d) quando impetrado por terceiro prejudicado por decisão judicial.
+3. Circunstâncias excepcionais aludidas não verificadas nos autos.
+4. Não apresentação de argumentos novos capazes de infirmar os fundamentos que alicerçaram a decisão agravada.
+5. AGRAVO INTERNO CONHECIDO E DESPROVIDO.
+Opostos embargos de declaração, foram rejeitados, com aplicação de multa protelatória (e-STJ fls. 1.471-1.475).
+Sustenta a recorrente a existência de repercussão geral da matéria tratada e aponta a violação dos arts. 5º, LV, e 93, IX, da Constituição Federal.
+Aduz que "merece prevalecer no caso em cena os princípios constitucionais da ampla defesa e contraditório" (e-STJ fl. 1.483) e assevera que, "ainda que os aclaratórios anteriores tenham sido rejeitados, não há mínima intenção procrastinatória da recorrente, não se justificando a penalidade aplicada (cuja incidência não é automática)" (e-STJ fl. 1.483).
+Pondera que a interposição de recursos cabíveis, por si só, não implica litigância de má-fé e afirma que "é a maior interessada na rápida solução do litígio, de modo que não merece ser condenada ao pagamento de multa" (e-STJ fl. 1.483).
+Diz que o recurso extraordinário "é interposto em virtude do silêncio absoluto em relação às teses defensivas que são plenamente capazes de alterar a conclusão do julgado" (e-STJ fl. 1.487).
+Alega que o acórdão recorrido é genérico e contrariou frontalmente o dever de fundamentação das decisões judiciais, não estando em sintonia com o tema 339 do Supremo Tribunal Federal, mas que "a repercussão geral já foi reconhecida no recurso extraordinário 719.870/MG (tema 670 do STF)" (e-STJ fl. 1.488).
+Argumenta que o mandado de segurança foi injustamente denegado e que "trata-se de medida adequada, útil, necessária e plenamente cabível no caso vertente" (e-STJ fl. 1.495), pois "a decisão atacada realmente violou diretamente o direito líquido e certo da recorrente de pagar o valor correto do preparo" (e-STJ fl. 1.496) e "a afronta à Lei Estadual não permite a interposição de Recurso Especial e tampouco qualquer outro recurso, remanescendo, portanto, apenas o writ" (e-STJ fl. 1.496).
+Considera que "o ato coator violou a regra estampada no artigo 4º, § 2º da Lei Estadual 11.608/2003, haja vista que determinou o recolhimento do valor atualizado da causa, todavia, a hipótese reclama a utilização do valor da condenação como base de cálculo" (e-STJ fl. 1.502), existindo vários precedentes desta Corte Superior que agasalham esse entendimento.
+Acrescenta que a matéria é exclusivamente de direito, "afastando-se a aplicação, mesmo que analógica, das Súmulas 05 e 07 do STJ" (e-STJ fl. 1.502).
+Pugna para que sejam acolhidas as teses defensivas, referentes ao cabimento do mandado de segurança e à existência de "contradição no tocante ao montante que deverá ser recolhido, pois a sentença é condenatória e o percentual sobre o valor a ser restituído é inferior ao mínimo do preparo da apelação" (e-STJ fl. 1.512).
+Requer a admissão do recurso, com a atribuição de efeito suspensivo, e sua remessa ao Supremo Tribunal Federal.
+Não foram oferecidas contrarrazões (e-STJ fl. 1.529).
+É o relatório.
+Ao interpretar o art. 93, IX, da Constituição Federal, o Supremo Tribunal Federal firmou o entendimento de que, para que uma decisão judicial seja considerada motivada, não se exige o exame pormenorizado de cada alegação ou prova trazida pelas partes, tampouco que sejam corretos os seus fundamentos.
+Nesse sentido é o Tema 339/STF, segundo o qual "o art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão" (QO no Ag n. 791.292/PE).
+Confira-se, por oportuno, a ementa do acórdão:
+Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3º e 4º). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral.
+(AI 791.292 QO-RG, Relator(a): Min. GILMAR MENDES, julgado em 23/06/2010, REPERCUSSÃO GERAL - MÉRITO DJe-149 DIVULG 12-08-2010 PUBLIC 13-08-2010 EMENT VOL-02410-06 PP-01289 RDECTRAB v. 18, n. 203, 2011, pp. 113-118.)
+Na espécie, da leitura do julgado questionado, constata-se que foram declinadas as razões pelas quais o colegiado desproveu o agravo interno, valendo destacar o seguinte excerto (e-STJ fl. 1.422):
+Em que pese o arrazoado, entendo que a ausência de qualquer novo subsídio trazido pela parte agravante, capaz de alterar os fundamentos a decisão ora agravada, faz subsistir incólume o entendimento nela firmado.
+Passo, de todo modo, ao exame do presente agravo interno.
+Consoante destacado no julgado singular, segundo a jurisprudência do Superior Tribunal de Justiça a impetração de mandado de segurança contra ato judicial reveste-se de índole excepcional.
+Tal excepcionalidade apenas poderá ser suplantada nas hipóteses em que, a par da demonstração de direito líquido e certo, inexistir recurso específico cabível ou restar identificada teratologia da decisão impugnada, circunstâncias que, a toda evidência, não refletem a situação do presente apelo.
+Do mesmo modo, foram apresentados os motivos para a rejeição dos embargos declaratórios opostos na sequência (e-STJ fls. 1.474-1.475):
+Eminentes colegas, conforme a orientação jurisprudencial do Superior Tribunal de Justiça, a via dos aclaratórios não se presta à mera rediscussão dos fundamentos da decisão embargada.
+Em verdade, a parte embargante, na hipótese dos autos, deseja apenas a rediscussão da matéria já julgada de maneira inequívoca.
+Nesse contexto, tendo em vista o caráter manifestamente protelatório dos presentes embargos declaratórios, aplico, com fulcro no art. 1.026, § 2º, do NCPC, multa de 2% (dois por cento) sobre o valor atualizado da causa, advertindo-se paraa possibilidade de majoração da multa, em caso de reiteração.
+Conclui-se, portanto, que os acórdãos encontram-se em consonância com a jurisprudência fixada pela Suprema Corte em repercussão geral, no Tema 339/STF.
+Nesse sentido:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO ELEITORAL E CRIMINAL.  ..  ACÓRDÃO RECORRIDO DEVIDAMENTE FUNDAMENTADO. AUSÊNCIA DE OFENSA AO ART. 93, IX, DA CONSTITUIÇÃO FEDERAL (TEMA 339 DA REPERCUSSÃO GERAL). AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.  ..
+III - Conforme assentado no julgamento do AI 791.292-QO-RG (Tema 339 da repercussão geral), de relatoria do Ministro Gilmar Mendes, o art. 93, IX, da Lei Maior exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão.  ..
+V - Agravo regimental a que se nega provimento.
+(ARE 1343342 ED-AgR, Relator(a): RICARDO LEWANDOWSKI, Segunda Turma, julgado em 04/11/2021, PROCESSO ELETRÔNICO DJe-221 DIVULG 08-11-2021 PUBLIC 09-11-2021)
+No mesmo diapasão:
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO.  ..  TEMAS 339, 424 E 660. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.  ..
+2. Esta Corte, ao julgar o AI-QO-RG 791.292, de relatoria do Ministro Gilmar Mendes, DJe 13.08.2010, assentou a repercussão geral do Tema 339 referente à negativa de prestação jurisdicional por ausência de fundamentação e reafirmou a jurisprudência segundo a qual o art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão.  ..
+4. Agravo regimental a que se nega provimento.
+(ARE 1305399 AgR, Relator(a): EDSON FACHIN, Segunda Turma, julgado em 25/10/2021, PROCESSO ELETRÔNICO DJe-224 DIVULG 11-11-2021 PUBLIC 12-11-2021)
+De outro lado, oSupremo Tribunal Federal fixou a tese de que "a questão do preenchimento dos pressupostos de admissibilidade do mandado de segurança tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral, nos termos do precedente fixado no RE n. 584.608, rel. a Ministra Ellen Gracie, DJe 13/03/2009" (Tema 318/STF).
+Confira-se a ementa do acórdão paradigma:
+Requisitos de admissibilidade. Mandado de segurança. Revisão. Recurso Extraordinário. Não cabimento. Matéria infraconstitucional. Inexistência de repercussão geral.
+(AI 800074 RG, Relator(a): GILMAR MENDES, Tribunal Pleno, julgado em 14/10/2010, DJe-235 DIVULG 03-12-2010 PUBLIC 06-12-2010 EMENT VOL-02445-01 PP-00287)
+No caso dos autos, da leitura do acórdão objeto do recurso extraordinário, depreende-se que se concluiu pela ausência de requisito de cabimento do mandado de segurança, inexistindo julgamento de mérito, ou seja, não houve decisão sobre a existência ou não do direito líquido e certo, razão pela qual incide o Tema 318/STF.
+Nessa direção:
+AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. PROCESSUAL PENAL. PODER DE INVESTIGAÇÃO DO MINISTÉRIO PÚBLICO. MATÉRIA DECIDIDA EM SEDE DE REPERCUSSÃO GERAL. RECURSO EXTRAORDINÁRIO 593.727. TEMA 184. ACÓRDÃO RECORRIDO EM CONFORMIDADE COM A JURISPRUDÊNCIA DA CORTE. REQUISITOS DO MANDADO DE SEGURANÇA. MATÉRIA COM REPERCUSSÃO GERAL REJEITADA PELO PLENÁRIO DO STF NO AGRAVO DE INSTRUMENTO 800.074. TEMA 318. AGRAVO INTERNO DESPROVIDO.
+(RE 783143 AgR, Relator(a): LUIZ FUX, Primeira Turma, julgado em 23/08/2019, PROCESSO ELETRÔNICO DJe-191 DIVULG 02-09-2019 PUBLIC 03-09-2019)
+Com igual orientação:
+EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO. EMBARGOS CONHECIDOS COMO AGRAVO REGIMENTAL. ART. 1.024, § 3º, DO CPC. REQUISITOS DO MANDADO DE SEGURANÇA COLETIVO. INEXISTÊNCIA DE REPERCUSSÃO GERAL (TEMA 318). LESÃO OU AMEAÇA A DIREITO. INEXISTÊNCIA. OFENSA REFLEXA. NECESSIDADE DE REEXAME DE PROVAS. SÚMULA 279/STF. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. I - Consoante a Súmula 279/STF, é inviável, em recurso extraordinário, o reexame do conjunto fático-probatório constante dos autos. II - O Supremo Tribunal Federal, ao julgar o AI 800.074-RG/SP (Tema 318 da Repercussão Geral), de relatoria do Ministro Gilmar Mendes, rejeitou a repercussão geral da controvérsia referente ao preenchimento dos requisitos de admissibilidade do mandado de segurança, por estar a matéria restrita ao âmbito infraconstitucional. III - Embargos de declaração conhecidos como agravo regimental, a que se nega provimento.
+(RE 1258018 ED, Relator(a): RICARDO LEWANDOWSKI, Segunda Turma, julgado em 04/05/2020, PROCESSO ELETRÔNICO DJe-118 DIVULG 12-05-2020 PUBLIC 13-05-2020)
+Em arremate, diante da negativa de seguimento ao apelo extremo, o pleito de concessão de efeito suspensivo carece de plausibilidade jurídica, não podendo, assim, ser acolhido.
+Ante o exposto, com fundamento no art. 1.030, I, a, do Código de Processo Civil, nega-se seguimento ao recurso extraordinário.
+Publique-se.
+Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. FALTA DE FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO. NÃO OCORRÊNCIA. TEMA 339/STF. SEGUIMENTO NEGADO. PRESSUPOSTOS DE ADMISSIBILIDADE DO MANDADO DE SEGURANÇA. QUESTÃO INFRACONSTITUCIONAL. REPERCUSSÃO GERAL. AUSÊNCIA. TEMA 318/STF. SEGUIMENTO NEGADO.
