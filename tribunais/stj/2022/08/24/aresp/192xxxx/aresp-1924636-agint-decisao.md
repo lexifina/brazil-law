@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo interno manejadopor JOSE MILTON DE ALMEIDA, contra decisão de minha lavra, de fls. 299/302, que negou provimento ao agravo em recurso especial, com base na incidência das Súmulas 283/STF e 7/STJ.
+Sustenta a parte agravante que "diversamente do fundamentado pela decisão agravada, o agravante impugnou especificamente os fundamentos da decisão recorrida" (fl. 306).
+Aduz que, "No que diz respeito à Súmula 7 desta C. Corte, conforme verifica-se nos itens 8 a 13 do Agravo em Recurso Especial, o agravante deixou bem claro que não pretendia revolver matéria fática, mas sim que se dê a parte a prestação jurisdicional no tocante à ofensa ao artigo 303 do Código de Processo Civil, diante do risco à condição e meios de vida do agravante, e que o caso fosse analisado a luz do princípio de irrepetibilidade dos alimentos, não sendo permitido a restituição de valores recebidos de boa-fé à título de benefício" (fl. 306).
+Alega que "O Agravo em Recurso Especial apontou que, no presente caso, não operou preclusão consumativa. A r. decisão ID 1000537 - fls. 181, determinou o sobrestamento do feito até decisão definitiva, nos termos do artigo 1.036, § 1º do Código de Processo Civil e do ofício nº 0043/16 - GAV-TRF3R." (fl. 306)
+Afirma que, "as infringências legais não foram analisadas pela decisão agravada, de tal sorte que, a entrega da prestação jurisdicional não se realizou de modo completo enfocando os temas levantados, o que, por si só, estaria a viabilizar o conhecimento e julgamento do Agravo por esta C. Corte" (fl. 307).
+Sem impugnação, conforme certidão de fl. 315.
+É o relatório.
+Melhor compulsando os autos, exercendo o juízo de retratação facultado pelo art. 1.021, § 2º, do CPC e 259, § 3º, do RISTJ, reconsidero a decisão agravada, de fls. 299/302, tornando-a sem efeito, passando novamente à analise do recurso.
+Trata-se de agravo manejado por JOSE MILTON DE AMEIDA, contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a e c, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 3ª Região, assim ementado (fl. 255):
+DIREITO PREVIDENCIÁRIO E PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. AGRAVOINTERNO. PRECLUSÃO CONSUMATIVA. OCORRÊNCIA. AGRAVO DESPROVIDO.
+1. O pedido de reconsideração formulado pretendia rediscutir matéria que já fora objeto de recurso, o que implica a preclusão consumativa, sob pena de que o pedido de antecipação de tutela, anteriormente indeferido, fosse discutido em sede de agravo retido e agravo de instrumento.
+2. Agravo desprovido.
+Nas razões do recurso especial, aponta o recorrente, além de divergência jurisprudencial, violação ao art. 303 do CPC, sustentando que "não operou a preclusão consumativa no presente caso. A r. decisão de fls. 181 dos autos principais, determinou o sobrestamento do feito até decisão definitiva, nos termos do artigo 1.036, § 1º do Código de Processo Civil e do ofício nº 0043/16 -GAV-TRF3R.(fl. 260)
+Aduz que " o v. acórdão afronta o artigo 303 do Código de Processo Civil, por ter desconsiderado a situação de "periculum in mora" representada pelo risco à condição e meios de vida do recorrente e a necessidade em receber a aposentadoria por tempo de contribuição em sua integralidade para garantir o sustento e sobrevivência da família, aliada a existência de "fumus boni juris" representado pela boa-fé do recorrente" (fl. 261).
+Alega que "o v. acórdão deixou de julgar o caso sob a observância da garantia constitucional da duração razoável do processo. É fato que o sobrestamento do processo em secretária poderá permanecer por anos, visto que é tema cuja análise seencontra suspensa na sistemática de apreciação de recurso representativo da controvérsia repetitiva (artigo 1.036. § 1º do CPC)" (fl. 261).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não comporta acolhida.
+Isso porque,orecurso especial não impugnou fundamento basilar que amparou o acórdão recorrido qual seja, "O agravante interpôs agravo na forma retida, modalidade recursal manejada por aquele que pretende aguardara sentença e, eventualmente, reiterar o pedido em sede de apelação, quando a urgência do pedido recomendaria a interposição de agravo na forma de instrumento" (fl. 252), o que, por si só, mantém incólume o julgado combatido.
+Registre-se que a parte, ao recorrer, deve buscar demonstrar o desacerto do decisum contra o qual se insurge, refutando todos os óbices por ele levantados, sob pena de vê-lo mantido.
+Logo, sendo o fundamento suficiente para manter o julgado, a irresignação esbarra no obstáculo da Súmula 283/STF, que assim dispõe: "É inadmissívelo recurso extraordinário, quando a decisão recorrida se assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.". A respeito do tema: AgRg no REsp 1.326.913/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 4/2/2013; EDcl no AREsp 36.318/PA, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 9/3/2012.
+No mesmo sentido, anote-se, o seguinte julgado:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. CUMPRIMENTO DE SENTENÇA PROFERIDA EM AÇÃO CIVIL PÚBLICA. EXPURGOS INFLACIONÁRIOS. LEGITIMIDADE ATIVA, LIMITAÇÃO TERRITORIAL E LIQUIDAÇÃO DA SENTENÇA. PRECLUSÃO CONSUMATIVA. FUNDAMENTO NÃO ATACADO.SÚMULANº283DO STF. JUROS DE MORA. INCIDÊNCIA A PARTIR DA CITAÇÃO NA AÇÃO CIVIL PÚBLICA. JUROS REMUNERATÓRIOS. CONDENAÇÃO EXPRESSA. INCLUSÃO DA VERBA. POSSIBILIDADE. TERMO FINAL DOS JUROS CONTRATUAIS E PRESCRIÇÃO. FUNDAMENTO DO ACÓRDÃO INATACADO.SÚMULANº283DO STF NOVAMENTE. ATUALIZAÇÃO MONETÁRIA. PLEITO DE ANÁLISE DE MATÉRIA CONSTITUCIONAL. DESCABIMENTO. RECURSO ESPECIAL CONHECIDO EM PARTE E NELA, NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016)
+serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A falta de impugnação a fundamento suficiente para manter o acórdão recorrido acarreta o não conhecimento do recurso.
+Inteligência daSúmulanº283do STF, aplicável, por analogia, ao recurso especial.
+3. O marco inicial dos juros moratórios é a data da citação efetuada nos autos de ação civil pública. Precedente.
+4. Cabe a inclusão dos juros remuneratórios na fase de cumprimento de sentença de ação civil pública quando houver condenação expressa.
+5. Consoante disposto no art. 105 da Carta Magna, o Superior Tribunal de Justiça não é competente para se manifestar sobre suposta violação de dispositivo constitucional, nem mesmo a título de prequestionamento.
+6. Recurso especial conhecido em parte e, nessa extensão, não provido.
+(REsp 1.940.427/SP, Rel. Min. MOURA RIBEIRO, DJe de 15/08/2022)
+ANTE O EXPOSTO, nego provimento ao agravo em recurso especial.
+Publique-se.
