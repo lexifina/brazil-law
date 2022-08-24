@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de embargos de declaração opostos porCRISTINA KELLY VAZ DA COSTA JUNQUEIRAà decisão monocrática desta relatoria de fls. 630-631 (e-STJ), queconheceu do agravo para não conhecerdo recurso especial interposto pela parte ora embargada, majorando os honorários advocatícios sucumbenciais em desfavor desta última12% para 13% sobre o valor atualizado da causa.
+Em suas razões recursais, a parte embargante alega erro material da decisão, porque o acórdão recorridocondenou a ora embargada ao pagamento dehonorários advocatícios no montante de 12% sobre o valor da condenação, em vez do valor da causa.Assevera que "se os honorários advocatícios forem fixados sobre o valor da causa, existira uma redução e não majoração dos honorários advocatícios, como está previsto no art.85, § 11, do Código de Processo Civil".
+Impugnação não apresentada (e-STJ, fl. 641).
+É o relatório. Decido.
+Razão parcial assiste à embargante, embora por fundamento distinto.
+Os embargos de declaração têm como objetivo esclarecer obscuridade, eliminar contradição ou suprimir omissão de questão ou ponto sobre o qual se devia pronunciar o órgão julgador, de ofício ou a requerimento das partes, bem como corrigir erro material (CPC/2015, art. 1.022). É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide em decorrência do mero descontentamento da parte com o resultado obtido.
+Nesse sentido:
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. VÍCIOS DO ART. 1.022 DO CÓDIGO DE PROCESSO CIVIL/2015. INEXISTÊNCIA. NÍTIDO CARÁTER INFRINGENTE. EMBARGOS REJEITADOS.
+1. O juízo provisório de admissibilidade do recurso especial realizado pelo Tribunal de origem não vincula o Superior Tribunal de Justiça, a quem compete a apreciação definitiva dos pressupostos desse recurso. Precedente.
+2. O acórdão embargado não contém omissão, obscuridade ou contradição, uma vez que foi dirimida a questão pertinente ao litígio, limitando-se a parte embargante a utilizar os aclaratórios com o escopo de revisão do julgado, em manifesta pretensão infringente.
+3. A jurisprudência do STJ é firme no sentido de que o mero descontentamento da parte com o resultado do julgamento não configura negativa de prestação jurisdicional.
+4. Embargos de declaração rejeitados."
+(EDcl no AgInt no REsp 1737181/PR, Rel. MinistroMARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 25/02/2019, DJe 13/03/2019)
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO (ART. 544 DO CPC/73) - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - CUMPRIMENTO PROVISÓRIO DE SENTENÇA - HONORÁRIOS ADVOCATÍCIOS - ACÓRDÃO DESTE ÓRGÃO FRACIONÁRIO QUE NEGOU PROVIMENTO AO RECLAMO, MANTENDO A DECISÃO MONOCRÁTICA QUE DEU PROVIMENTO AO RECURSO ESPECIAL DO EXECUTADO PARA EXCLUIR A VERBA HONORÁRIA DA CONDENAÇÃO. INSURGÊNCIA DO EXEQUENTE.
+1. Não ocorrentes as hipóteses insertas no art. 1022 do CPC, tampouco equívoco manifesto no julgado recorrido, não merecem acolhida os embargos que se apresentam com nítido caráter infringente, por via dos quais se objetiva rediscutir a causa, já devidamente decidida. 2. A contradição que autoriza os embargos de declaração é aquela interna ao acórdão, verificada entre a fundamentação do julgado e a sua conclusão, e não aquela que possa existir, por exemplo, com a prova dos autos, nem a que porventura exista entre a decisão e o ordenamento jurídico; menos ainda a que se manifeste entre o acórdão e a opinião da parte vencida.
+3. Não incidem honorários sucumbenciais recursais na hipótese, pois não há um "acréscimo de sucumbência no grau recursal" ante a interposição do recurso de agravo interno ou embargos de declaração, porquanto gravitam esses reclamos no mesmo nível recursal daqueles que promovem a abertura da instância, motivo pelo qual incabível a majoração estabelecida no art. 85, § 11 do NCPC.
+4. Embargos de declaração rejeitados."
+(EDcl no AgRg no AREsp 539.673/PR, Rel.Ministro  MARCO BUZZI, QUARTA TURMA, julgado em 06/02/2018, DJe 23/02/2018)
+No caso dos autos, houveobscuridade da decisão embargada, a qual passa a ser declarada:
+O banco ora embargado propôs ação de cobrança que foi julgada parcialmente procedente para condenar a parte ora embargante ao pagamento de valor inferior ao inicialmente postulado, mediante a exclusão da cobrança de comissão de permanência.
+O Tribunal de origem, por sua vez, deu provimento ao recurso de apelação interposto pela parte embargante, a fim de declarar a prescrição da pretensão de cobrança.Em razão disso, condenou o banco embargado ao pagamento de honorários advocatícios de 12% sobre o valor da condenação.
+A propósito o dispositivo do acórdão recorrido (e-STJ, fl. 520):
+Nessa confluência, CONHEÇO DO APELO E DOU-LHE PROVIMENTO para, em reforma da sentença combatida, decretar a prescrição da pretensão vazada na exordial.
+Por conseguinte, inverto o ônus sucumbencial e, nos termos do artigo 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios para o patamar de 12% (doze por cento) sobre o valor da condenação.
+Constata-se, portanto, que houve erro materialdo acórdão recorrido em adotar como base de cálculo dos honorários advocatícios condenação inexistente,ante o reconhecimento da prescrição, que é hipótese de extinção da ação, com julgamento de mérito(art. 487, II, do CPC/2015).
+Ao contrário do que alega a parte embargante, mantida a fixação de honorários advocatícios em percentual sobre o valor decondenação inexistente,não haverá nadaa ser pago pela parte embargada, sendo evidente o equívoco do Tribunal de origem.
+Desse modo, como é possível a correçãode ofíciode erro material (art. 494, I,do CPC/2015), por ocasião da majoração dos honorários advocatíciosimposta pelo não conhecimento do recurso especial (art. 85, § 11, do CPC/2015), houve a automática correção da designação dabase de cálculo dos honorários advocatícios para o valor da causa.
+Diante do exposto,acolho os embargos de declaração,sem efeitos infringentes,nos termos da fundamentação ora declinada.
+Publique-se.
