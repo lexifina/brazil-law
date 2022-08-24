@@ -1,0 +1,26 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS contra acórdão prolatado, por unanimidade, pela 15ª câmara do Tribunal de Justiça de Minas Gerais no julgamento de apelação, assim ementado (fl. 186e):
+APELAÇÃO CÍVEL  LAUDO PERICIAL  MERA DISCORDÂNCIA  PEDIDO DE ESCLARECIMENTOS  INADMISSIBILIDADE - ACIDENTE DO TRABALHO  CONSOLIDAÇÃO DAS LESÕES  SEQUELAS  REDUÇÃO DA CAPACIDADE PARA O TRABALHO  AUXÍLIO-ACIDENTE  CONCESSÃO.
+1. A mera discordância com as conclusões do laudo pericial não justifica o pedido de esclarecimentos endereçado ao perito.
+2. O auxílio-acidente será concedido ao segurado quando, após consolidação das lesões decorrentes de acidente de trabalho, resultarem sequelas que impliquem redução da capacidade para o trabalho que habitualmente exercia.
+Opostos embargos de declaração, foram rejeitados (fls. 206/209e).
+Houve juízo de conformidade, consoante ementa de seguinte teor (fl. 303e):
+APELAÇÃO - BENEFÍCIO PREVIDENCIÁRIO - JUROS DE MORA - CADERNETA DE POUPANÇA - ART. 1 0-F DA LEI 9.494197 - PARADIGMA DO RE Nº 870947 DO STF. O Supremo Tribunal Federal consolidou entendimento sobre os índices a serem aplicados em relação à Fazenda Pública, no julgamento do RE 870947, sob o rito da repercussão geral, a tese de que o art. 1 0 F da Lei 9.494197 deve ser aplicado às condenações de natureza não tributária impostas à Fazenda Pública, no tocante aos juros de mora, ou seja, aplica-se a taxa de juros da caderneta de poupança.
+Com amparo no art. 105, III, a e c, da Constituição da República, além de divergência jurisprudencial, aponta-se ofensa ao artigo 535 do Código de Processo Civil, alegando-se, em síntese, que houve omissão acerca do fato de que, não ter sido o benefício concedido na via administrativa como acidentário, não significa dizer que tenha fato gerador diverso de um beneficio enquadrado como acidentário, isso porque se deve ter em conta a doença que ensejou ambos os benefícios.
+Requer a anulação do acórdão para que enfrente a questão suscitada pelo INSS sob a ótica da doença que ensejou ambos os benefícios e não sob a ótica da espécie do beneficio concedido.
+Com contrarrazões (fls. 249/254e), o recurso foi admitido (fl. 256e).
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 1973.
+Nos termos do art. 557, caput, do Código de Processo Civil, combinado com o art. 34, XVIII, do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a negar seguimento a recurso ou a pedido manifestamente inadmissível, improcedente, prejudicado ou em confronto com súmula ou jurisprudência dominante da respectiva Corte ou Tribunal Superior.
+No caso, a autarquia recorrente sustenta a existência de omissão no acórdão recorrido não suprida no julgamento dos embargos de declaração, acerca da doença que ensejou ambos os benefícios.
+Ao prolatar o acórdão mediante o qual os embargos de declaração foram analisados, o tribunal de origem enfrentou a controvérsia apresentada nos seguintes termos (fls. 206/210e):
+No caso em exame, a uma simples análise da peça recursal constata-se que o acórdão embargado não apresenta qualquer omissão ou contradição.
+Em rigor, busca o embargante o reexame da questão decidida, com a prevalência do entendimento por ele esposado, visando modificar a decisão recorrida, o que como já salientado, não é próprio do recurso de embargos de declaração.
+Como ressaltado no acórdão embargado, "o auxilio-doença percebido pelo autor neste período foi previdenciário (código 31) ou seja, não foi ele resultante de acidente de trabalho Desta forma, por serem decorrentes de fatos geradores diversos (cf. item I do laudo pericial, às f. 75) não há possibilidade de serem estes benefícios compensados".
+No caso, não verifico omissão acerca de questão essencial ao deslinde da controvérsia e oportunamente suscitada, tampouco de outro vício a impor a revisão do julgado.
+Com efeito, haverá contrariedade ao art. 535 do Código de Processo Civil quando a omissão disser respeito à fundamentação exposta, e não quando os argumentos invocados não restarem estampados no julgado, como pretende a parte Recorrente.
+O procedimento encontra amparo em reiteradas decisões no âmbito desta Corte Superior, de cujo teor merece destaque a dispensa ao julgador de rebater, um a um, os argumentos trazidos pelas partes (v.g. Corte Especial, EDcl nos EDcl nos EREsp 1.284.814/PR, Rel. Min. Napoleão Nunes Maia Filho, DJe de 03.06.2014; 1ª Turma, EDcl nos EDcl no AREsp 615.690/SP, Rel. Min. Sérgio Kukina, DJe de 20.02.2015; e 2ª Turma, EDcl no REsp 1.365.736/PE, Rel. Min. Humberto Martins, DJe de 21.11.2014).
+Depreende-se da leitura do acórdão integrativo que a controvérsia foi examinada de forma satisfatória, mediante apreciação da disciplina normativa e cotejo ao firme posicionamento jurisprudencial aplicável ao caso.
+Posto isso, com fundamento no art. 557, caput, do Código de Processo Civil, NEGO SEGUIMENTO ao Recurso Especial.
+Publique-se e intimem-se.
