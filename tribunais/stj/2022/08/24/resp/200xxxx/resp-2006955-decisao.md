@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MUNICÍPIO DE SÃO PAULO, com fundamento no art. 105, III, a, da CF, contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 40):
+AGRAVO DE INSTRUMENTO Execução Fiscal Decisão que rejeitou a Exceção de Pré-Executividade Reforma parcial do r. decisório Juros moratórios que devem ser limitados ao parâmetro adotado pela União (Taxa Selic) - Órgão Especial do TJSP a reconhecer a inconstitucionalidade de critério que extrapola, como na hipótese, os limites da referida taxa Limitação a ser observada pela Municipalidade exequente no recálculo da dívida Acerto da adoção do índice IPCA para correção monetária Acolhimento parcial da objeção processual a viabilizar a fixação de verba honorária, em favor do patrono da recorrente, por apreciação equitativa Recurso parcialmente provido.
+Embargos de declaração opostos e rejeitados (fl. 56).
+O recorrente aponta violação dos arts. 161, caput, § 1º, do CTN; 14, 16 e 39 da Lei n. 9.250/1995; 61 da Lei n. 9.430/1996; e 29 e 30 da Lei n. 10.522/2002, argumentando que a atualização dos créditos pela taxa SELIC a diz respeito apenas aos tributos federais, não se impondo aos demais entes federativos, ou seja, nada autoriza extrair das referidas normas "a conclusão de que o Município deva utilizar, como taxa de juros, a taxa SELIC, ou que não possa utilizar taxa de juros de supere a taxa SELIC" (fl. 105), e que não pudesse dispor de modo diverso quanto aos juros de mora.
+Contrarrazões a fls. 112-114.
+Juízo positivo de admissibilidade (fls. 128-130).
+É o relatório. Decido.
+O presente recurso foi interposto na vigência do CPC/2015, razão pela qual incide o Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Na espécie, o acórdão recorrido analisou a questão à luz da jurisprudência do STF, firmada no julgamento da ADI 442, manifestando juízo sobre lei local (fls. 41-44):
+O inconformismo merece parcial acolhimento.
+Com efeito, no que tange aos juros de mora, o Órgão Especial deste E. Tribunal de Justiça, no julgamento da Arguição de Inconstitucionalidade nº 0170909-61.2012.8.26.0000, deu interpretação conforme a Constituição Federal à Lei Estadual nº 13.918/09 e, em consonância com o julgado do E. STF na ADI 442, reconheceu que a taxa de juros aplicável ao crédito tributário não pode exceder aquela incidente na cobrança dos tributos federais, no caso, a SELIC.
+ ..
+Da leitura da ementa acima, é possível verificar que a adoção pelo Município de outro índice de juros, mediante lei, é possível, desde que não supere o índice adotado pela União, qual seja, a Taxa Selic.
+Já no tocante à atualização monetária, deve ser aplicado o índice IPCA-E, em conformidade com o corrente posicionamento do E. STF,  ..  Extrai-se dos julgados supramencionados, em suma, que o índice de atualização monetária adotado pelos entes federados deve ser o IPCA-E, ao passo que os juros de mora devem seguir o parâmetro da SELIC ou outro índice próprio que não a ultrapasse.
+No caso do Município de São Paulo, a Lei 13.275/02, em seu art. 1º, §3º, prevê que os juros moratórios serão de 1% ao mês, totalizando 12% ao ano, o que, aliás, consta das próprias CDA"s apresentadas. E a atualização monetária correrá pelo índice IPCA, conforme aplicado.
+Portanto, enquanto a correção monetária está de acordo com o julgado citado, os juros são, por sua vez, excessivos, o que vai de encontro à limitação da Selic, pois, conforme informação do Banco Central do Brasil, estão, desde 12.04.2017, abaixo dos 12% ao ano (https://www.bcb.gov.br/Pec/Copom/Port/taxaSelic.asp).
+Assim, já que o Município, ora agravado, não previu, em lei, índice de juros inferior ao praticado pela União, os juros a serem incluídos no cálculo do débito exequendo devem seguir o percentual da Taxa SELIC, conforme postulado pela recorrente, mantendo-se a correção monetária pelo IPCA-E, conforme a Lei Municipal.
+De rigor, portanto, a reforma parcial do r. decisório, para que a Municipalidade exequente recalcule a dívida exequenda observando que a taxa de juros deve ser limitada à SELIC.
+Inviável, pois, recurso especial contra acórdão que decide a causa com lastro em fundamento de natureza constitucional, atraindo a competência exclusiva do STF, e interpretando norma local (Súmula 280/STF), sem juízo de valor aos referidos dispositivos infraconstitucionais apontados violados (Súmulas 211/STJ e 282/STF).
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. EXECUÇÃO FISCAL. ACÓRDÃO COM FUNDAMENTO CONSTITUCIONAL. COMPETÊNCIA DO STF. INTERPRETAÇÃO DE NORMA LOCAL. SÚMULA 280/STF. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 211/STJ E 282/STF. RECURSO ESPECIAL NÃO CONHECIDO.
