@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de embargos de declaração opostos pela LUIZ NICHELE, ROZI LINDAMIR NICHELE, DUNIMIR LUIS NICHELE, EROTIDES ANGELO NICHELEcontra decisão em que neguei provimento ao seu recurso especial pela incidência da Súmula 7/STJ.
+A parte embargante alega, em síntese, que o exame das ofensas à legislação federal não exigem apreciação dos fatos e que não é cabível a condenação da parte vencedora ao pagamento de honorários, porquanto reconhecida a prescrição da pretensão executória.
+Sem contraminuta (e-STJ fl. 704).
+Passo a decidir.
+Os embargos de declaração têm por escopo sanar decisão judicial eivada de obscuridade, contradição, omissão ou erro material.
+Após nova análise processual, provocada pela oposição dos embargos declaratórios, observo não haver vício de integração a ser sanado.
+Como consignado na decisão embargada, de modo expresso, coerente e fundamentado, não é cabível a revisão do juízo de equidade que foi realizado pelo magistrado para fixar o valor da verba honorária, nos termos do art. 85, § 8º, do CPC/2015, porquanto esse mister, além de exigir o reexame do histórico processual, notadamente para mensurar o trabalho realizado pelo advogado, não guarda relação direta com a legalidade da decisão atacada, mas sim com a percepção do julgador, que é de cunho estritamente subjetivo.
+Isso porqueo Tribunal a quo consignou que "a autuação fiscal somente ocorreu em razão de não ter sido regularizada a informação referente à propriedade do imóvel em decorrência da alienação e óbito da pessoa que figurava como proprietário. Tanto é assim que a CDA 90 8 07 000026-66 foi prontamente cancelada administrativamente (ev6-OUT3). Já quanto a CDA 90.8.01.008954-65 a extinçãoocorreu em virtude de pagamento. Assim, em que pese tenha a execução fiscal, quanto à CDA 90 8 07000026-66, tenha sido extinta sem pagamento, remanesce a condenação da excipiente a pagar honorários de advogado de sucumbência, pois sua omissão conduziu à constituição do crédito tributário e ao processo, o que seria evita dose houvesse esclarecimento perante a Administração" (e-STJ fl. 472).
+Dito isso, fixou os honorários na alíquota mínima do art. 85, § 3º, II, do CPC/2015, o que não se mostra desarrazoado, sendo o caso de se obstar o presente recurso especial em face da Súmula 7 do STJ.
+Ponderados esses elementos, constato que a insurgência da parte embargante não diz respeito a eventual deficiência de fundamentação do decisum, mas à interpretação que lhe foi desfavorável, possuindo (aquela) caráter meramente infringente e, por isso, sendo de inviável acolhimento no âmbito restrito dos embargos de declaração.
+Ante o exposto, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
