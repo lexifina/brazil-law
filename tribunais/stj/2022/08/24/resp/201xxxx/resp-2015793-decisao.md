@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso especial interposto pela FAZENDA NACIONAL contra acórdão assim ementado:
+TRIBUTÁRIO. EMBARGOS À EXECUÇÃO. ART. 13 DA LEI 8.620/93. RESPONSABILIDADE TRIBUTÁRIA. Previu o art. 13 da Lei 8.620, de 1993, a responsabilidade tributária de titular de firma individual, sócio de empresa por cotas de responsabilidade limitada, acionistas controladores, administradores, gerentes e diretores, por débitos da Seguridade Social, sem levar em conta a caracterização de atos praticados com excesso de poderes ou infração de lei, contrato social ou estatutos. Dispositivo legal declarado inconstitucional pelo Supremo Tribunal Federal (RE 562.276, Rel Min. Ellen Gracie, DJe de 10-2-2001), e posteriormente revogado pela Lei 11.941, de 2009.
+Atribuiu-se à causa o valor de r$ 244.797,60 em janeiro de 2006.
+Os embargos de declaração opostos foram rejeitados.
+No presente recurso especial, a recorrente aponta violação dos arts. 489, §1º, e 1.022, ambos do Código de Processo Civil de 2015, alegando, em síntese, ausência de fundamentação e omissão no acórdão recorrido porquanto deixou de se pronunciar sobre a necessidade do ônus da prova recair sobre o contribuinte quando seu nome constar na CDA, a fim de demonstrar que não infringiu o art. 135 do CTN.
+Alega, também, afronta aos arts. 3º da LEF e 204 do CTN, sustentando, em suma, que o ônus da prova não recai sobre a recorrente, e sim sobre o contribuinte executado, caso queira ilidir a presunção de certeza e liquidez da CDA, quando o nome do sócio constar do título executivo.
+Contrarrazões pela manutenção do acórdão recorrido.
+É o relatório. Decido.
+Assiste razão à recorrente, no que toca à preliminar de ofensa aos arts. 489 e 1.022 do CPC/2015.
+De fato, a Fazenda apresentou questão jurídica relevante, qual seja, a necessidade de que o contribuinte, ora executado, quando seu nome constar na CDA, demonstre que não agiu em desconformidade com art. 135 do CTN. Apesar de provocado, por meio de embargos de declaração, o Tribunal a quo não apreciou especificamente a questão.
+Nesse contexto, diante da referida omissão, apresentam-se violados os referidos dispositivos legais, o que impõe a anulação do acórdão que julgou os embargos declaratórios, com devolução do feito ao órgão prolator da decisão para a realização de nova análise dos embargos.
+Com o mesmo diapasão, destaco o seguinte precedente, in verbis:
+AMBIENTAL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO ANULATÓRIA. MULTA ADMINISTRATIVA. PLATAFORMA DE PRODUÇÃO E ESCOAMENTO DE PETRÓLEO E GÁS NATURAL. RENOVAÇÃO DE LICENÇA. CONTROVÉRSIA ACERCA DA APLICABILIDADE DA RESOLUÇÃO 237/97 DO CONAMA. ALEGADAS OMISSÕES. OFENSA AO ART. 535 DO CPC/73 CARACTERIZADA. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara Recurso Especial interposto contra acórdão publicado na vigência do CPC/73.
+II. Na origem, trata-se de ação anulatória, ajuizada por Petrobrás - Petróleo Brasileiro S/A contra o Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis - IBAMA, objetivando a declaração de nulidade do auto de infração 352363-D e da multa administrativa que lhe fora aplicada pela autarquia. O Tribunal de origem manteve a sentença de procedência da ação.
+III. Constata-se a omissão quando o Tribunal deixa de apreciar questões relevantes para o julgamento, suscitadas pelas partes ou examináveis de ofício, ou quando deixa de se pronunciar acerca de algum tópico da matéria submetida à sua cognição, em causa de sua competência originária ou obrigatoriamente sujeita ao duplo grau de jurisdição.
+IV. Nesse contexto, não tendo sido apreciadas, no acórdão dos Embargos Declaratórios opostos, em 2º Grau, pelo ora agravado, as alegações por ele expendidas sobre matéria relevante à solução da controvérsia, merece ser mantida a decisão agravada, que reconheceu a ofensa ao art. 535 do CPC/73, entendendo necessária a anulação do acórdão recorrido, determinando o retorno dos autos ao Tribunal de origem, para que profira nova decisão, com a análise das alegações da parte ora agravada.
+V. Agravo interno improvido.
+(AgInt no REsp 1537418/RJ, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 08/06/2020, DJe 10/06/2020)
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para anular o acórdão que julgou os embargos de declaração e determinar o retorno dos autos ao Tribunal a quo a fim de que se manifeste especificamente sobre as questões articuladas nos declaratórios.
+Publique-se. Intimem-se.
