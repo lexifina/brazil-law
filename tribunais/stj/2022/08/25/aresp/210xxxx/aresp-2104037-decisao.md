@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por AMIL ASSISTÊNCIA MÉDICA INTERNACIONAL S.A (AMIL)contra decisão que negou seguimento a seu apelo nobre manejado, por sua vez, contra acórdão do Tribunal de Justiça de Pernambuco, assim ementado:
+AGRAVO DE INSTRUMENTO - OBRIGAÇÃO DE FAZER - PLANO DE SAÚDE - DIREITO DO CONSUMIDOR - RN 428/2017 - DEPENDENTE QUÍMICO - PORTADOR DE TRANSTORNOS MENTAIS E COMPORTAMENTAIS - NECESSIDADE DE INTERNAÇÃO HOSPITALAR PSIQUIÁTRICA - IMPOSSIBILIDADE DE APLICAÇÃO DE COPARTICIPAÇÃO - AUSÊNCIA DE PREVISÃO CONTRATUAL - CUSTEIO DO INTERNAMENTO POR TEMPOILIMITADO - OPERADORA QUE COMPROVA A EXISTÊNCIA DE CLÍNICAS ADEQUADAS AO TRATAMENTO DE DEPENDENTES QUÍMICOS EM SUA REDE REFERENCIADA - TRATAMENTO QUE DEVE SER CUSTEADO NOS LIMITES DE VALORES DE TABELA DE CREDENCIADOS DA OPERADORA DE SAÚDE A PARTIR DO MOMENTO DA OFERTA AO SEGURADO - RECURSO DE AGRAVO INTERNO QUE RESTOU PREJUDICADO PELA ANÁLISE DO MÉRITO DO AGRAVO DE INSTRUMENTO - RECURSO PARCIALMENTE PROVIDO - DECISÃO UNÂNIME.
+1. Aplicabilidade da Lei nº 9.656 /98, RN 428/2017 e das normas previstas no Código de Defesa do Consumidor aos contratos de plano de saúde.
+2. A condição do dependente químico, que se encontra em risco de vida reiterado, torna clara a situação de emergência, razão pela qual constata-se imprescindível sua internação.
+3. Apenas em contratos que apresentem cláusulas expressas de mecanismo de regulação financeira através de coparticipação, a aplicação desta será possível.
+4. Demonstrada a existência de instituição apta ao tratamento de saúde do dependente químico nos quadros do plano de saúde, compete a este a obrigação do custeio da internação em clínica não referenciada apenas no valor do limite de tabela pago aos credenciados.
+5. Recurso parcialmente provido. Recurso de Agravo Interno que restou prejudicado. Decisão unânime(e-STJ, fls. 396/397).
+Os embargos de declaração opostos por AMIL foram rejeitados (e-STJ, fls. 428/439).
+Inconformada, AMIL interpôsrecurso especial com base no art. 105, III, alíneaa, da CF, apontando a violação aos arts. 12, VI e16, VIII da Lei 9.656/98; 54,§§ 3º e 4º do CDC e 1.022, II do NCPC, ao sustentar, em síntese (1) negativa de prestação jurisdicional por omissão do aresto recorrido; (2) a legalidade da cláusula que prevê a coparticipação de custeio da internação hospitalar para quadros de transtornos psiquiátricos/dependência química após o 30º dia de internação; e (3) que o reembolso deve ser limitado à relação de preços de serviços médicos e hospitalares praticados pelo respectivo produto, não havendo que se falar em devolução integral das despesas decorrentes do tratamento realizado com profissional não credenciado.
+O recurso não foi admitido pela vice-presidência do Tribunal de Justiça de Pernambucocom fundamento na incidência da Súmula 735, do STF (e-STJ, fls. 480/482).
+Nas razões do presente agravo em recurso especial, AMIL refutou a incidência da Súmula 735, do STF, bem como repisou as razões do apelo nobre (e-STJ, fls. 484/494).
+Não foi apresentada contraminuta.
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que não merece prosperar.
+Conforme se pode constatar, o acórdão recorrido manteve a decisão anteriormente proferida pelo juízo de primeiro grau, que deferiu parcialmente o pedido de tutela de urgênciapara determinar que a demandada autorize e custeie, a partir da data de sua intimação, no prazo de até 05 (cinco) dias, o tratamento médico/internamento indicado, nos moldes prescritos pelo médico assistente do demandante, em sua rede credenciada; ou, em caso de inexistir em sua rede Clínica Habilitada, na clínica/unidade hospitalar indicada pela parte autora, sob pena de, em caso de descumprimento desta decisão, incidir multa diária no importe de R$ 500,00 (quinhentos reais), limitada à alçada de até R$50.000,00 (cinquenta mil reais) (e-STJ, fl. 384).
+Na linha da jurisprudência desta eg. Corte Superior, em regra, não é cabível recurso especial com o objetivo de reexaminar acórdão que defere ou indefere medida liminar ou antecipação de tutela, em virtude da natureza precária do provimento jurisdicional concedido pela origem, e que está sujeito a modificação a qualquer tempo. Incidência, por analogia, da Súmula nº 735 do STF, verbis: não cabe recurso extraordinário contra acórdão que defere medida liminar.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS E LUCROS CESSANTES. TUTELA DE URGÊNCIA ANTECIPADA. DEFERIMENTO. NATUREZA PRECÁRIA DA DECISÃO. AUSÊNCIA DE ESGOTAMENTO DAS INSTÂNCIAS ORDINÁRIAS. PREENCHIMENTO DOS REQUISITOS ENSEJADORES DA CONCESSÃO DA TUTELA REQUERIDA. SÚMULA 7/STJ E 735 /STF. DECISÃO DA PRESIDÊNCIA MANTIDA. AGRAVO INTERNO IMPROVIDO.
+1. A jurisprudência desta Corte é firme no sentido de que é incabível o recurso especial que tem por objeto decisão de natureza precária, sem caráter definitivo, a exemplo das que examinam pedidos de liminar ou antecipação da tutela. Aplica-se, por analogia, a ratio decidendi dos precedentes que deram origem à Súmula n.
+735/STF.
+2. A análise do preenchimento ou não dos requisitos da tutela de urgência demandaria o reexame do acervo fático-probatório dos autos, o que encontra óbice na Súmula n. 7/STJ.
+3. Agravo interno improvido.
+(AgInt no AREsp 1.740.126/GO, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. em 1º/3/2021, DJe 3/3/2021).
+Nessas condições, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. DEPENDENTE QUÍMICO. PORTADOR DE TRANSTORNOS MENTAIS E COMPORTAMENTAIS. NECESSIDADE DE INTERNAÇÃO HOSPITALAR PSIQUIÁTRICA. PEDIDO DE TUTELA DE URGÊNCIA. DEFERIMENTO PARCIAL.DESCONSTITUIÇÃO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA Nº 735 DO STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
