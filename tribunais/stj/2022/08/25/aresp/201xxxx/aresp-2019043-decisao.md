@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que inadmitiu o recurso especial com fundamento nas Súmulas 284/STF e 7/STJ.
+Sustenta o agravante que a matéria deduzida no recurso especial prescinde de revolvimento fático-probatório, estando bem delineada a violação aos artigos de lei federal mencionados no recurso especial, razão pela qual requer o seu provimento.
+Apresentada contraminuta, manifestou-se o Ministério Público pelo não provimento do agravo.
+O agravante foi condenado à pena de 2 anos de detenção, em regime inicial aberto, pela prática do delito previsto art. 302,caput, da foi Lei 9.503/1997, substituída a pena corporal por duas restritivas de direito, determinada ainda a suspensão da habilitação para condução de veículos automotores pelo prazo de 2 anos.
+Interposta apelação, o Tribunal de origem deu parcial provimento ao recurso da defesa para anular a sentença, restituindo os autos à origem, abrindo posterior vista às partes para eventual emenda de suas alegações finais e proferindo nova sentença.
+Para evitar tautologia, traz-se à colação a manifestação do Ministério Público Federal, cuja argumentação passa a ser adotada (fl. 588):
+Constata-se a ocorrência da prescrição da pretensão punitiva do Estado, sendo caso de declaração da extinção da punibilidade por tal razão.
+No caso, a conduta ocorreu no dia 13/5/2017, a denúncia foi recebida em 7/8/2017 e a sentença condenatória publicada em 27/3/2019. Considerando a pena in concreto de 2 anos de detenção, o prazo prescricional aplicável é de 4 anos, nos termos da previsão contida no art. 109, inciso V, do Código Penal.
+Tendo em vista que a sentença condenatória foi anulada pelo Tribunal estadual em recurso exclusivo da Defesa e que o novo quantum sancionatório não pode ser superior a 2 anos, ante a vedação à refomatio in pejus indireta, verifica-se o transcurso do prazo prescricional de 4 anos desde o último marco interruptivo - recebimento da denúncia em 7/8/2017 -, o que torna imperioso o reconhecimento da extinção da punibilidade pela prescrição da pretensão punitiva do Estado.
+Dessa forma, observa-se que deve ser declarada extinta a punibilidade do agravante, conforme disciplina o art. 107, inciso IV, do Código Penal, e nos termos do que determina o art. 61 do Código de Processo Penal.
+Diante daocorrência da prescrição da pretensão punitiva estatal, como constatado pelo Ministério Público Federal,deve ser extinta a punibilidade do réu, de ofício.
+Nos termos da jurisprudência desta Corte, aextinçãodapunibilidadeem razão daprescriçãoda pretensãopunitivaé matéria de ordem pública, da qual se pode conhecer deofício,em qualquer grau de jurisdição, na dicção doart. 61 do Código de Processo Penal. Nesse sentido:RHC n. 154.949/SC, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 24/5/2022, DJe de 26/5/2022;AgRg nos EDcl no REsp n. 1.792.871/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 10/5/2022, DJe de 16/5/2022.
+Ante o exposto, com o parecer de fls. 587-588, declaro extinta a punibilidade do agravante, pela prescrição da pretensão punitiva estatal (art. 61, caput, do CPP). Fica prejudicado o exame do agravo em recurso especial.
+Publique-se.
+Intimem-se.
