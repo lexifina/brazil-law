@@ -1,1 +1,1 @@
-Art. 6º-B Caberá ao Ministério do Trabalho e Previdência regulamentar, acompanhar a execução e subsidiar o Conselho Curador com os estudos técnicos necessários ao seu aprimoramento operacional e estabelecer as metas a serem alcançadas nas operações de microcrédito.
+Art. 6º-B. Caberá ao Ministério do Trabalho e Previdência regulamentar, acompanhar a execução e subsidiar o Conselho Curador com os estudos técnicos necessários ao seu aprimoramento operacional e estabelecer as metas a serem alcançadas nas operações de microcrédito.
