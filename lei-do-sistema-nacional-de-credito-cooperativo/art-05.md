@@ -1,1 +1,12 @@
-Art. 5º As cooperativas de crédito com conselho de administração podem criar diretoria executiva a ele subordinada, na qualidade de órgão estatutário composto por pessoas físicas associadas ou não, indicadas por aquele conselho.
+Art. 5º As cooperativas de crédito e as confederações de serviço constituídas por cooperativas centrais de crédito terão conselho de administração, que será composto de associados eleitos pela assembleia geral e de diretoria executiva a ele subordinada.
+§ 1º O CMN, nos termos da regulamentação, poderá admitir a contratação de conselheiro de administração independente não associado, na forma prevista no estatuto social, desde que a maioria dos conselheiros seja composta de pessoas naturais associadas.
+§ 2º A diretoria executiva, na qualidade de órgão estatutário, será composta de pessoas naturais eleitas pelo conselho de administração, que poderão ser associadas ou não, desde que a maioria dos diretores seja composta de pessoas naturais associadas.
+§ 3º É vedado aos ocupantes dos cargos de presidente ou vice-presidente de conselho de administração ou de diretor executivo em cooperativas de crédito ou em confederações de serviço constituídas por cooperativas centrais de crédito o exercício simultâneo desses cargos com os de:
+I - presidente ou vice-presidente do conselho de administração ou de diretor executivo de cooperativa singular de crédito, cooperativa central de crédito ou confederação integrantes do mesmo sistema cooperativo; e
+II - presidente ou vice-presidente do conselho de administração ou de diretor executivo nos fundos de que trata o inciso IV do caput do art. 12 desta Lei Complementar.
+§ 4º O mandato dos membros do conselho de administração das cooperativas de crédito e das confederações de serviço constituídas por cooperativas centrais de crédito terá duração de até 4 (quatro) anos, vedada a constituição de membro suplente.
+§ 5º O CMN, considerados os riscos, a complexidade, a classificação e o porte da cooperativa de crédito, poderá:
+I - tornar facultativa a constituição do conselho de administração; e
+II - permitir a acumulação de cargos na diretoria executiva em cooperativas de crédito ou em confederações de serviço constituídas por cooperativas centrais de crédito, sem observância do disposto no inciso I do § 3º deste artigo, desde que não identificado conflito de interesses.
+§ 6º Nos casos em que a cooperativa de crédito não constituir conselho de administração, a diretoria executiva será eleita pela assembleia geral.
+§ 7º A política de remuneração dos ocupantes de cargos na diretoria executiva deverá ser aprovada pela assembleia geral, no mínimo ao início de cada mandato.
