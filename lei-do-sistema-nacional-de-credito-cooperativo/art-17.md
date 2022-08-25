@@ -1,1 +1,1 @@
-Art. 17. A assembléia geral ordinária das cooperativas de crédito realizar-se-á anualmente, nos 4 (quatro) primeiros meses do exercício social.
+Art. 17. A assembleia geral ordinária das cooperativas de crédito e das confederações de serviço constituídas por cooperativas centrais de crédito realizar-se-á anualmente, nos 4 (quatro) primeiros meses do exercício social.

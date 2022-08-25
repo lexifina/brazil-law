@@ -1,0 +1,1 @@
+Art. 17-E. A contratação, pelas cooperativas de crédito, de serviços de bancos cooperativos não forma vínculo de emprego de seus empregados com os referidos bancos nem lhes altera a condição profissional.

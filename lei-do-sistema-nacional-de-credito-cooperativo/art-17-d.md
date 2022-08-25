@@ -1,0 +1,1 @@
+Art. 17-D. Os saldos de capital, de remuneração de capital ou de sobras a pagar não procurados pelos associados demitidos, eliminados ou excluídos serão revertidos ao fundo de reserva da cooperativa de crédito após decorridos 5 (cinco) anos da demissão, da eliminação ou da exclusão.

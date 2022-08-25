@@ -1,3 +1,6 @@
-Art. 1º As instituições financeiras constituídas sob a forma de cooperativas de crédito submetem-se a esta Lei Complementar, bem como à legislação do Sistema Financeiro Nacional - SFN e das sociedades cooperativas.
-§ 1º As competências legais do Conselho Monetário Nacional - CMN e do Banco Central do Brasil em relação às instituições financeiras aplicam-se às cooperativas de crédito.
+Art. 1º As instituições financeiras constituídas sob a forma de cooperativas de crédito e as confederações de serviço constituídas por cooperativas centrais de crédito sujeitam-se ao disposto nesta Lei Complementar, bem como, no que couber, à legislação aplicável ao Sistema Financeiro Nacional (SFN) e às sociedades cooperativas.
+§ 1º As competências legais do Conselho Monetário Nacional (CMN) e do Banco Central do Brasil em relação às instituições financeiras aplicam-se às cooperativas de crédito e às confederações de serviço constituídas por cooperativas centrais de crédito.
 § 2º É vedada a constituição de cooperativa mista com seção de crédito.
+§ 3º Para fins desta Lei Complementar, consideram-se:
+I - cooperativas de crédito: as cooperativas singulares de crédito, as cooperativas centrais de crédito e as confederações de crédito constituídas por cooperativas centrais de crédito; e
+II - confederações de serviço: as confederações constituídas exclusivamente por cooperativas centrais de crédito, para prestar serviços pertinentes, complementares ou necessários às atividades realizadas por suas filiadas ou pelas cooperativas singulares filiadas a essas cooperativas centrais, excluídos serviços e operações privativos de instituições financeiras.

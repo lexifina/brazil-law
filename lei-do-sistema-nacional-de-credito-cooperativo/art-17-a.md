@@ -1,0 +1,3 @@
+Art. 17-A. As assembleias gerais das cooperativas de crédito e das confederações de serviço constituídas por cooperativas centrais de crédito poderão ser realizadas de forma presencial, a distância ou de forma presencial e a distância simultaneamente.
+§ 1º A cooperativa de crédito ou a confederação de serviço constituída por cooperativas centrais de crédito deverá possibilitar a participação e a interlocução entre os associados e a assembleia e assegurar a inviolabilidade do processo de votação.
+§ 2º É admitida a representação dos associados por delegados nas assembleias gerais de cooperativas singulares de crédito, observada a regulamentação do CMN.
