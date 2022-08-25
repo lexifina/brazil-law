@@ -1,0 +1,41 @@
+DECISÃO
+Cuida-se de habeas corpus sem pedido de liminar impetrado em favor de DERICKSON SIQUEIRA DA SILVA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS (Processo n. 0031806- 62.2020.8.09.0087).
+Foi o paciente condenado, pelo crime de tráfico de drogas, à pena de6 anos, 9 meses e 20 dias de reclusão, em regime inicial semiaberto, bem como ao pagamento de 680 dias-multa.
+Nos termos da peça acusatória, o paciente transportava "01 (uma) porção de substância denominada de Cannabis Sativa L., vulgarmente conhecida como MACONHA, embaladaem plástico filme, apresentando massa líquida total de 205g (duzentos e cinco gramas), e ainda, 01 (um) aparelho celular da marca Motorola, de cor grafite, modelo XT XT1683 e a quantia pecuniária de R$ 265,00 (duzentos e sessenta e cinco reais)" - e-STJ fl. 109.
+Contra o édito condenatório insurgiu-se a defesa.
+Entretanto, o colegiado local negou provimento ao recurso.
+No Superior Tribunal de Justiça, sustenta o impetrante estarem presentes na espécie todos os requisitos necessários à aplicação da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006.
+Ressalta que a quantidade de droga apreendida, por si só, não justifica o afastamento da minorante.
+Diante disso, pede seja reconhecida a mencionada causa de diminuição de pena, na fração de 2/3, e, consequentemente, alterado o regime inicial de cumprimento da sanção para o aberto, bem como a substituição da reprimenda privativa de liberdade por medidas restritivas de direitos.
+Não houve pedido liminar.
+Ouvido, o Ministério Público Federal manifestou-se pelo não conhecimento do remédio constitucional.
+É o relatório.
+Decido.
+Na espécie, ao apreciar o pedido de aplicação da causa especial de diminuição de pena previsto no art. 33, § 4º, da Lei n. 11.343/2006, o colegiado local esclareceu possuir o paciente "uma condenação definitiva por fato anterior, mas com trânsito em julgado posterior a prática delitiva em questão, também por tráfico de drogas, que embora não seja apta a configurar reincidência, caracteriza os maus antecedentes do agente. Circunstância que afasta a aplicação da benesse pretendida, uma vez que evidencia a sua dedicação às atividades ilícitas"(e-STJ fl. 135).
+Na linha da jurisprudência deste Tribunal Superior, "a condenação definitiva por fato anterior ao crime descrito na denúncia, mas com trânsito em julgado posterior à data do ilícito penal, ainda que não configure a agravante da reincidência, pode caracterizar maus antecedentes, pois diz respeito ao histórico do acusado" (AgRg no AREsp n. 1.073.422/DF, relator Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 22/8/2017, DJe 31/8/2017).
+Nesse contexto, rememoro que a incidência do redutor em desfile pressupõe o preenchimento dos seguintes requisitos legais: a) que o agente seja primário; b) que tenha bons antecedentes; c) que não se dedique às atividades delituosas; e d) que não integre organização criminosa.
+Nessa vereda, mantida a negativação dos antecedentes do paciente e reconhecida sua dedicação ao tráfico de drogas, parece-me inviável a aplicação da causa especial de diminuição de pena prevista no § 4º do art. 33 da Lei n. 11.343/2006.
+A propósito:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO DE INSUMO DESTINADO À PREPARAÇÃO DE DROGAS. NULIDADE. OFENSA AO PRINCÍPIO DO COLEGIADO. ABSOLVIÇÃO. SÚM. 7/STJ. DOSIMETRIA. PENA-BASE. MAUS ANTECEDENTES. PERÍODO DEPURADOR. GRANDE QUANTIDADE DE INSUMO APREENDIDO - 328KG DE CAFEÍNA. CAUSA DE DIMINUIÇÃO PREVISTA NO ART. 33, §4º, DA LEI N. 11.343/2006. REGIME PRISIONAL E PENA SUBSTITUTIVA. DETRAÇÃO. MATÉRIA NÃO APRECIADA PELA CORTE DE ORIGEM. RECURSO DESPROVIDO.
+1. Segundo a orientação firmada nesta Corte Superior de Justiça, pode o relator, monocraticamente, dar ou negar provimento a recurso especial quando, tal como ocorre na hipótese dos autos, houver entendimento dominante sobre a matéria no Tribunal. É o que está sedimentado na Súmula n. 568 do STJ.
+2. Em se tratando de atribuição regimentalmente prevista, o julgamento monocrático do recurso afasta a necessidade de inclusão em pauta para julgamento colegiado e sua respectiva intimação.
+3. Rever os fundamentos utilizados pelo Tribunal Estadual, para decidir pela absolvição, em razão da ausência de provas concretas para a condenação, como requer a defesa, importa revolvimento de matéria fático-probatória, vedado em recurso especial, segundo óbice da Súmula n. 7/STJ.
+4. Ademais, é firme o entendimento do Superior Tribunal de Justiça de que a cafeína constitui insumo comumente utilizado para aumentar a quantidade e o volume de entorpecentes. Sendo assim, sua posse para tal finalidade configura o delito do art. 33, § 1º, I, da Lei n. 11.343/2006 (HC 441.695/SP, Relator Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 15/10/2019, DJe 25/10/2019).
+5. A dosimetria da pena está inserida no âmbito de discricionariedade do julgador, estando atrelada às particularidades fáticas do caso concreto e subjetivas dos agentes, elementos que somente podem ser revistos por esta Corte em situações excepcionais, quando malferida alguma regra de direito.
+6. No presente caso, a pena-base foi exasperada em 1/3, em razão dos desvalor dos antecedentes e da quantidade de insumo apreendido (328kg de cafeína), mostrando-se razoável e proporcional ao caso concreto.
+7. Para aplicação da causa de diminuição de pena do art. 33, § 4º, da Lei n. 11.343/2006, o condenado deve preencher, cumulativamente, todos os requisitos legais, quais sejam, ser primário, de bons antecedentes, não se dedicar a atividades criminosas, nem integrar organização criminosa, podendo a reprimenda ser reduzida de 1/6 (um sexto) a 2/3 (dois terços), a depender das circunstâncias do caso concreto.
+8. No presente caso, o acusado ostenta condenação transitada em julgado configuradora de maus antecedentes, não havendo qualquer ilegalidade no afastamento do benefício do art. 33, § 4º, da Lei n. 11.343/2006.
+9. Embora estabelecida a pena definitiva do acusado em 6 anos e 8 meses de reclusão, os maus antecedentes e a elevada quantidade de insumo apreendido justificam a manutenção do regime prisional mais gravoso, no caso, o fechado.
+10. Mantida a reprimenda em patamar superior a 4 anos de reclusão, é inviável a substituição da pena privativa de liberdade por medidas restritivas de direitos, ante o não atendimento do requisito objetivo previsto no art. 44, I, do Código Penal.
+11. A violação do art. 387 do CPP não foi objeto de debate pela instância ordinária, o que inviabiliza o conhecimento do recurso especial por ausência de prequestionamento. Incide ao caso a Súmula n. 282/STF.
+12. Agravo regimental a que se nega provimento. (AgRg no REsp 1959899/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 8/2/2022, DJe 15/2/2022.)
+Por derradeiro, fixada a pena-base acima do mínimo legal, inviável a modificação do regime inicial de cumprimento da sanção, tendo em vista o disposto no art. 33, § 3º, do Código Penal.
+De mais a mais, na determinação do regime inicial, o magistrado sentenciante deverá observar os critérios apresentados na lei para a fixação da reprimenda básica, em atenção às peculiaridades da situação concreta.
+Desse modo, a quantidade de substância apreendida pode ser analisada nas diferentes fases da dosimetria da pena, com finalidades diversas, sempre objetivando o alcance da sanção necessária, proporcional e adequada, não havendo se falar em bis in idem.
+A propósito, confira-se:
+HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. CONDENAÇÃO. REGIME INICIAL FECHADO. FUNDAMENTAÇÃO IDÔNEA. CIRCUNSTÂNCIAS DO CASO CONCRETO. QUANTIDADE DA DROGA APREENDIDA. BIS IN IDEM. NÃO OCORRÊNCIA. ILEGALIDADE MANIFESTA. INEXISTÊNCIA. NÃO CONHECIMENTO.
+ ..
+3. Não configura bis in idem a utilização do vetor natureza/quantidade da droga para exasperar a pena-base e para impor o regime inicial fechado, porquanto é cabível que um mesmo instituto jurídico seja apreciado em fases distintas na individualização da pena, gerando efeitos diversos.
+4. Habeas corpus não conhecido. (HC 353.993/MS, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 3/5/2016, DJe 12/5/2016.)
+Ante o exposto, denego a ordem de habeas corpus.
+Publique-se. Intimem-se.
