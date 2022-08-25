@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se dehabeas corpuscom pedido liminar impetrado em favor de JOHNATAN SOARES DE OLIVEIRA no qual se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (HC n.5021807-97.2022.4.03.0000).
+Depreende-se dos autos que, durante a "Operação Singular", foi apurado ser o paciente integrante de organização criminosa "dedicada à prática de fraudes bancárias através de captação de dados de cartões bancários pertencentes a terceiros e venda de tais dados, utilizando-se de plataforma de loja virtual SINGULAR STORE" (e-STJ fl. 24), conduta tipificada no art. 2º da Lei n. 12.850/2013.
+O Juízo da 7ª Vara Federal Criminal de São Paulo/SP deferiu a substituição da prisão preventiva mediante o pagamento de fiança no valor de 100 (cem) salários mínimos, na Ação Penal n. 5003163-90.2022.4.03.6181 (Operação Singular 2).
+Impetradohabeas corpuscom pedido liminar na origem, o Desembargador relator indeferiu o pleito emergencial(e-STJ fls. 22/50).
+Nestewrit, a defesa aponta constrangimento ilegal decorrente do valor excessivo da fiança arbitrada.
+Sustenta que o paciente não pode ter a sua liberdade restringida pornão possuir condições financeiras de arcar com o pagamento de 100 salários mínimos.
+Pontua ser ele primário, com bons antecedentes, residência fixa, trabalho lícito e família constituída.
+Ressalta que se mostra suficientea aplicação de outras medidas cautelares, nos termosdo art. 319 do Código de Processo Penal.
+Dessa forma, requer (e-STJ fls. 20/21):
+a) Seja deferida, liminarmente, a liberdade do paciente, com a REVOGAÇÃO DA PREVENTIVA, e consequentemente a expedição do competente Alvará de Soltura; ISENTANDO o paciente ao pagamento de fiança, tendo em a hipossuficiência do impetrante.
+b) Alternativamente, seja aplicada medida cautelar diversa da prisão prevista no art. 319 do Código de Processo Penal; inclusive isentando o impetrante ao pagamento de fiança, e de forma subsidiária, que reduza o valor ao total de 1 (um) salário mínimo.
+c) Seja, ao final, JULGADO PROCEDENTE no mérito com a concessão da ordem do presente Habeas Corpus, para que seja revogado o decretode prisão preventiva e concedido a liberdade provisória do paciente, tendo em vista a INCAPACIDADE financeira do paciente.
+É o relatório.
+Decido.
+A liminar em habeas corpus, bem como em recurso ordinário em habeas corpus, não possui previsão legal, tratando-se de criação jurisprudencial que visa a minorar os efeitos de eventual ilegalidade que se revele de pronto.
+O Superior Tribunal de Justiça tem jurisprudência firmadade não caber habeas corpus impetrado ante decisão que indefere liminar (enunciado 691 da Súmula do Supremo Tribunal Federal), a não ser que fique demonstrada flagrante ilegalidade, o que não ocorre na espécie.
+A propósito:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. IMPETRAÇÃO CONTRA INDEFERIMENTO DE LIMINAR NO TRIBUNAL DE ORIGEM. SUMULA 691/STF. COMPETÊNCIA DESTA CORTE QUE AINDA NÃO SE INAUGUROU. SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE PROVA DO ALEGADO CONSTRANGIMENTO ILEGAL.
+1. Não cabe habeas corpus perante esta Corte contra o indeferimento de liminar em writ impetrado no Tribunal de origem. Aplicação da Súmula 691 do Supremo Tribunal Federal.
+ ..
+3. Agravo regimental improvido.(AgRg no HC n. 349.925/RJ, relatora Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 10/3/2016, DJe 16/3/2016.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. IMPETRAÇÃO INDEFERIDA LIMINARMENTE. SÚMULA 691/STF. AUSÊNCIA DE PATENTE ILEGALIDADE. PEDIDO DE EXPEDIÇÃO DE CONTRAMANDADO DE PRISÃO TEMPORÁRIA. PACIENTE NO EXTERIOR. AGRAVO REGIMENTAL IMPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade, o que não ocorre na espécie. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+2. No caso, não se observa manifesta ilegalidade na decisão que indeferiu o pleito liminar no prévio mandamus, tampouco na decisão primitiva. Na espécie, não há nos autos informações comprobatórias de que todas as diligências requeridas foram cumpridas, valendo ressaltar, ainda, que o decreto prisional, expedido no bojo da mesma decisão, não se efetivou porque o paciente não teria sido localizado, porquanto "potencialmente" estaria no exterior.
+3. Agravo regimental improvido.(AgRg no HC n. 345.456/SP, relator Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 18/2/2016, DJe 24/2/2016.)
+A questão em exame necessita de averiguação mais profunda pelo Tribunal de origem, que deverá apreciar a argumentação contida na impetração no momento adequado, notadamente porqueo Desembargador relator destacou que (e-STJ fls. 48/50):
+Como bem destacou o juízo impetrado, a natureza e as circunstâncias da infração recomendam esse montante, tendo em vista o prejuízo, da ordem de R$125.000.000,00 (cento e vinte e cinco milhões de reais). "Além disso, a quantidade de pessoas alcançadas pelas fraudes é gigantesca: milhares de cartões foram fraudados, inúmeras instituições financeiras e comerciantes. A proporção do crime é tão grande que chega a desacreditar a segurança das operações online. Isso tem o efeito de questionar uma importante fonte de crescimento e riqueza que é o comércio online e os pagamentos via cartão de crédito. Mais do que isso, a forma como os integrantes da OCRIM estão sempre a se gabar do quanto ganham, recomenda igualmente uma fixação de fiança em valor substancial"-ID262081624 pág. 10.
+As medidas cautelares são aplicáveis nas fases investigativa e processual penal, observados, dentre outros requisitos, a gravidade do crime e as circunstâncias do fato.
+Com efeito, a imposição de toda e qualquer medida de natureza cautelar deve observar a necessidade para a aplicação da lei penal, para a investigação ou para a instrução criminal e, nos casos expressamente previstos, para evitar a prática de infrações penais, e, ainda mostrar-se adequada à gravidade do crime, circunstância do fato e condições pessoais do indiciado.
+O arbitramento da fiança deve ser feito em consonância à gravidade da infração, nos termos do artigo 325, , do Código de Processo Penal, :caput in verbis: ..
+Em juízo de cognição sumária, a fiança fixada pela autoridade impetrada no valor de 100 (cem) salários mínimos está em consonância com o disposto no inciso II do artigo 325 e artigo 326, ambos do Código de Processo Penal, haja vista que a natureza e as circunstâncias da infração recomendam esse montante, tendo em vista o prejuízo, da ordem de R$125.000.000,00 (cento e vinte e cinco milhões de reais).Destaca-se que a Polícia estimou um prejuízo aproximado de R$125.000.000,00 (cento e vinte e cinco milhões de reais) considerando que o site realizou a venda de dados de mais de 250.000 (duzentos e cinquenta mil) cartões de crédito.
+Entendo, portanto, não ser o caso de superação do enunciado 691 da Súmula do Supremo Tribunal Federal.
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
