@@ -1,0 +1,21 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto por DOUGLAS MORAES GAMA, com fundamento nas alíneas "a" e "c" do inciso III do art. 105 da CF/1988, contra acórdão proferido peloTRIBUNAL DE JUSTIÇA DO ESTADO DO TOCANTINSassim ementado:
+RECURSOS DE APELAÇÃO CÍVEL - APELOS INTERPOSTOS PELO AUTOR E ESTADO DO TOCANTINS (REQUERIDO) - AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS - SENTENÇA DE PROCEDÊNCIA PARCIAL DOS PEDIDOS - RESOLUÇÃO 89/18 DESTA CORTE - PRETENSÃO DO AUTOR/APELANTE REFORMA PARCIAL DA SENTENÇA PARA MAJORAR O QUANTUM DO VALOR ARBITRADO A TÍTULO DE DANOS MATERIAIS E DOS DANOS MORAIS - PRETENSÃO DO ESTADO APELANTE - EM SEDE DE PRELIMINAR - NULIDADE DA SENTENÇA - SUBSIDIÁRIAMENTE A REFORMA DA SENTENÇA PARA MINORAR O QUANTUM DOS DANOS - REQUER AINDA CONDENAÇÃO DO AUTOR EM HONORÁRIOS - ALEGAÇÃO DE INCOMPETÊNCIA ABSOLUTA- COMPETÊNCIA DISCIPLINADA NA LEI 12.153/09 - COMPETÊNCIA DOS JUIZADOS ESPECIAIS DA FAZENDA PÚBLICA PROCESSAR, CONCILIAR E JULGAR CAUSAS CÍVEIS DE INTERESSE DOS ESTADOS, DO DISTRITO FEDERAL, DOS TERRITÓRIOS E DOS MUNICÍPIOS, ATÉ O VALOR DE 60 (SESSENTA) SALÁRIOS MÍNIMOS - PRELIMINAR ACOLHIDA - SENTENÇA CASSADA - APELO DO ESTADO DO TOCANTINS CONHECIDO E PROVIDO PARA DECLINAR DA COMPETÊNCIA DO FEITO PARA O JUIZADO DA FAZENDA PÚBLICA. APELO DO AUTOR PREJUDICADO.
+O recorrente defende, em síntese, a competência do juízo comum para a ação ajuizada antes da instalação do Juizado Especial da Fazenda Pública (art. 24 da Lei n. 12.153/2009).
+Sem contrarrazões, o recurso especial foi admitido na origem (e-STJ, fls. 277-279).
+É o relatório.
+No ponto, afirmou o acórdão (e-STJ, fl. 232):
+No caso dos autos, verifica-se que a ação originária fora proposta antes da instalação da vara do Juizado da Fazenda no Estado do Tocantins. Assim, as varas comuns exerciam competência completa, tanto nas causas que hoje são direcionadas ao juizado, em função da competência absoluta, quando nas demais ações. Deste modo, vale ressalvar que em que pese o Artigo 24, da Lei 12.153/09 determinar que os feitos ajuizados anteriormente à Lei não serão remetidos, tal fato, por si só, não viola o critério de competência absoluta instituído pela própria Lei.
+Sem razão. Conforme a compreensão desta Corte, a exceção do art. 24 da Lei n. 12.153/2009 prevalece sobre a norma geral, prorrogando-se a competência do juízo comum às causas já propostas antes da instalação do juizado especial. A propósito:
+ ..  1. Cinge-se a controvérsia a estabelecer se a competência para processar e julgar o feito é da Justiça comum ou do Juizado da Fazenda Pública.
+2. O art. 24 da Lei n. 12.153/2009 expressamente ressalva que não serão remetidos para o juizado as demandas propostas até a data de sua instalação, como no caso em questão.
+3. O mencionado dispositivo prevalece sobre o art. 43 do CPC, com base no art. 2º, § 2º, da LINDB, por se tratar de norma específica em relação aos Juizados Especiais da Fazenda Pública. Precedentes.
+4. Recurso especial provido.
+(REsp n. 1.909.993/MT, de minha relatoria, Segunda Turma, julgado em 23/2/2021, DJe de 15/3/2021).
+ ..  2. A jurisprudência deste Superior Tribunal de Justiça firmou-se no sentido de que, tendo o feito tramitado no Juízo Comum, não obstante tratar de infração de menor potencial ofensivo, competente é o órgão jurisdicional hierarquicamente superior, isto é, o Tribunal de Justiça Estadual, para processar e julgar a apelação interposta contra sentença condenatória prolatada pelo Juízo Comum, por força do princípio da perpetuactio jurisdicionis.
+3. Conflito de competência conhecido para declarar competente o Juízo suscitado.
+(CC n. 88.588/SP, relatora Ministra Maria Thereza de Assis Moura, Terceira Seção, julgado em 13/2/2008, DJ de 22/2/2008, p. 162).
+Esta última posição, embora extraída de jurisdição penal, é pacífica neste Tribunal, e possui fundamento plenamente aplicável ao juízo cível.
+Ante o exposto, com fulcro no art. 932, V, do CPC/2015, c/c o art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especialpara reconhecer a competência do Tribunal de Justiça para julgar os recursos interpostos contra sentença de juízo comum em ações propostas antes da instalação do juizado especial da Fazenda Pública.
+Publique-se. Intimem-se.
