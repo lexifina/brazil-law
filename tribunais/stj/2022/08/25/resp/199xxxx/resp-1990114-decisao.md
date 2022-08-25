@@ -1,0 +1,43 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto por MARGARIDA MARIA DO AMARAL LOPES contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO assim ementado:
+ADMINISTRATIVO. DITADURA MILITAR. LEI Nº 10.559/02. PERSEGUIÇÃO POLÍTICA. RESPONSABILIDADE CIVIL DO ESTADO. INDENIZAÇÃO POR DANO MORAL. POSSIBILIDADE DE CUMULAÇÃO COM A REPARAÇÃO ECONÔMICA CONCEDIDA NA VIA ADMINISTRATIVA. INVERSÃO DOS HONORÁRIOS SUCUMBENCIAIS. APELAÇÃO PROVIDA.
+1. A autora pleiteia o recebimento de indenização por danos morais em razão de perseguições, torturas (espancamentos, choques elétricos, palmatória e pau de arara) e prisão a que foi submetida durante a ditadura militar.
+2. A Comissão de Anistia reconheceu todo o sofrimento suportado pela autora naquele período e lhe concedeu a declaração de anistiada política, bem como uma reparação econômica em prestação única, no valor de R$ 12.450,00 (doze mil, quatrocentos e cinquenta reais), correspondentes a 30 salários mínimos, nos termos da Lei n. 10.559/2002.
+3. Diante de tais fatos, a presente demanda foi julgada improcedente em primeiro grau, pois, sob a ótica do juízo a quo, a indenização concedida na via administrativa engloba tanto os danos materiais quanto os morais.
+4. Ocorre, na verdade, que a reparação econômica prevista na Lei n. 10.559/2002 não se confunde com a indenização por danos morais requerida nestes autos.
+5. A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que é possível a cumulação da reparação econômica com indenização por danos morais, por se tratarem de verbas indenizatórias com fundamentos e finalidades diversas, pois, enquanto a primeira visa à recomposição patrimonial, a segunda tem por escopo a tutela da integridade moral.
+6. No caso em apreço, a documentação acostada aos autos prova que a autora, por defender ações contra o regime militar, foi perseguida, detida, torturada e exilada no período do regime militar, sofrendo, em razão disso, efetivo abalo psíquico passível de indenização.
+7. A conclusão possível é a de que, atento às circunstâncias fáticas do caso concreto, e diante dos princípios da razoabilidade e proporcionalidade, é adequada a fixação de indenização por danos morais no importe de R$ 100.000,00 (cem mil reais), a ser rateada entre as rés.
+8. No tocante aos consectários legais, cumpre registrar que, no dia 22.02.2018, a 1ª Seção do STJ julgou repetitivo (REsp 1.492.221) que discutia a aplicabilidade do art.1º-F da Lei 9.494/97, com redação dada pela Lei 11.960/09, em relação às condenações impostas à Fazenda Pública, independentemente de sua natureza, para fins de atualização monetária, remuneração do capital e compensação da mora.
+9. Consignou-se no julgamento que, as condenações judiciais de natureza administrativa em geral, sujeitam-se aos seguintes encargos: "(a) até dezembro/2002: juros de mora de 0,5% ao mês: correção monetária de acordo com os índicesprevistos no Manual de Cálculos da Justiça Federal, com destaque para a incidência do IPCA-E a partir de janeiro/2001; (b) no período posterior à vigência do C/2002 e anterior à vigência da Lei 11.960/2009: juros de mora correspondentes à taxa Selic vedada a cumulação comqualquer outro índice; (c) período posterior à vigência da Lei 11.960/2009: juros de mora segundo o índice de remuneração da caderneta de poupança; correção monetária combase no IPCA-E".
+10. Sendo assim, in casu, os juros de mora devem incidir a partir da citação e a correção monetária a partir do arbitramento, com base nos índices acima mencionados.
+11. De rigor, a inversão do ônus de sucumbência, e, atendidos os critérios do artigo 20, §§3º e 4º, do CPC/1973, em vigor à época do ajuizamento da demanda, a condenação das rés ao pagamento de honorários advocatícios fixados em 10% (dez por cento) sobre o valor da condenação, montante este a ser rateado pela União e pela Fazenda do Estado de São Paulo.
+12. Precedentes.
+13. Apelação provida.
+A recorrente, com fundamento nas alíneas "a" e "c" do inciso III do art. 105 da Constituição da República, aponta violação do art. 398 do CC. Invoca o teor da Súmula n. 54/STJ, defendendo que os juros de mora devem ser computados desde a data do evento danoso.
+Sem contrarrazões.
+É o relatório.
+O Tribunal de origem, relativamente à controvérsia, estabeleceu que, " .. os juros de mora devem incidir a partir da citação e a correção monetária a partir do arbitramento, com base nos índices acima mencionados" (e-STJ, fl. 430).
+Conforme a jurisprudência do Superior Tribunal de Justiça, em se tratando de responsabilidade extracontratual, os juros de mora são devidos desde a data do evento danoso. Essa, a propósito, é a orientação da Súmula n. 54/STJ.
+Esse entendimento tem aplicação inclusive em hipóteses como a presente, como demonstram os seguintes julgados:
+PROCESSUAL CIVIL E ADMINISTRATIVO. ANISTIADO POLÍTICO. INDENIZAÇÃO POR DANOS MORAIS. MAJORAÇÃO DO VALOR FIXADO. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO DE LEI SUPOSTAMENTE VIOLADO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. PRESCRIÇÃO. ACÓRDÃO QUE DECIDE A CONTROVÉRSIA TAMBÉM SOB O ENFOQUE CONSTITUCIONAL. AUSÊNCIA DE RECURSO EXTRAORDINÁRIO. SÚMULA 126/STF. RESPONSABILIDADE CIVIL DO ESTADO. DANOS DECORRENTES DE PERSEGUIÇÃO POLÍTICA NA ÉPOCA DA DITADURA MILITAR. ANISTIA. PEDIDO DE INDENIZAÇÃO POR DANOS MORAIS.CUMULAÇÃO COM A REPARAÇÃO ECONÔMICA DECORRENTE DA LEI 10.559/02.POSSIBILIDADE. MOTIVAÇÃO POLÍTICA COMPROVADA NAS INSTÂNCIAS ORDINÁRIAS. IMPOSSIBILIDADE DE REEXAME DE FATOS E PROVAS NA INSTÂNCIA EXTRAORDINÁRIA. JUROS DE MORA. TERMO INICIAL. SÚMULA 54/STJ. REDUÇÃO DO VALOR FIXADO A TÍTULO DE HONORÁRIOS ADVOCATÍCIOS.SÚMULA 7/STJ.
+ ..
+4. O entendimento firmado do STJ é de que a reparação econômica realizada pela União decorrente da Lei 10.559/02 não se confunde com a reparação por danos morais prevista no art. 5º, V e X, da Constituição Federal.
+5. Com relação ao preenchimento dos requisitos para a concessão do benefício, melhor sorte não assiste à parte. Isso porquanto o acórdão recorrido entendeu tratar-se de prisão com motivação exclusivamente política, não podendo o STJ, em Recurso Especial, alterar esse entendimento, uma vez que exige revolvimento de matéria fática e probatória. Incide, portanto, o óbice da Súmula 7/STJ.
+6. Quanto aos juros moratórios, a orientação do STJ é a de que estes incidem desde a data do evento danoso, na hipótese de responsabilidade extracontratual (Súmula 54/STJ).
+ ..
+9. Agravo de Aramy Viterbo Santolim não provido. Recurso Especial da União parcialmente conhecido e, nessa extensão, não provido.
+(REsp n. 1.778.207/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 26/2/2019, DJe de 23/4/2019).
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ANISTIA. DANO MORAL. JUROS MORATÓRIOS. INÍCIO. EVENTO DANOSO. SÚMULA N.º 54/STJ. CORREÇÃO MONETÁRIA. INÍCIO. FIXAÇÃO DA INDENIZAÇÃO. AGRAVO REGIMENTAL DESPROVIDO.
+I - O entendimento desta c. Corte Superior consolidou-se no sentido de que, nas ações envolvendo responsabilidade civil extracontratual, os juros moratórios fluem a partir do evento danoso, nos moldes da Súmula n.º 54/STJ.
+II - Por outro lado, a correção monetária do valor da indenização do dano moral incide, consoante os termos da Súmula n.º 632/STJ, desde a data do arbitramento, tendo em mente que, no momento em que fixada, já teria o e. Tribunal a quo levado em conta a expressão atual de valor da moeda, devendo, somente a partir daí, operar-se a correção.
+Agravo regimental desprovido.
+(AgRg no REsp n. 1.139.305/RJ, relator Ministro Felix Fischer, Quinta Turma, julgado em 1º/6/2010, DJe de 21/6/2010).
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OMISSÃO CARACTERIZADA. TERMO INICIAL DOS JUROS DE MORA (ADMINISTRATIVO. AGRAVO REGIMENTAL. RESPONSABILIDADE CIVIL DO ESTADO. TORTURA. REGIME MILITAR. DANOS MORAIS E HONORÁRIOS ADVOCATÍCIOS. REVISÃO IMPOSSIBILIDADE. SÚMULA N. 7/STJ.)
+1. Apesar de impugnado o ponto referente ao termo inicial dos juros moratórios no agravo regimental, a Segunda Turma desta Corte Superior manteve-se silente a respeito do tema.
+2. Entretanto, é caso de manter a decisão agravada no ponto, pois consolidou-se nesta Corte o entendimento segundo o qual, tratando-se de responsabilidade extracontratual, os juros de mora incidem a contar do evento danoso. Súmula n. 54 do Superior Tribunal de Justiça.
+3. Embargos de declaração acolhidos sem efeitos modificativos.
+(EDcl no AgRg no REsp n. 1.042.632/GO, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 22/9/2009, DJe de 2/10/2009).
+Ante o exposto, com fulcro no art. 932, V, do CPC, c/c o art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para definir a data do evento danoso como o termo inicial dos juros moratórios.
+Publique-se. Intimem-se.
