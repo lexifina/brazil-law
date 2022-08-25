@@ -1,0 +1,2 @@
+Altera a Lei Complementar nº 130, de 17 de abril de 2009 (Lei do Sistema Nacional de Crédito Cooperativo), para incluir as confederações de serviço constituídas por cooperativas centrais de crédito entre as instituições integrantes do Sistema Nacional de Crédito Cooperativo e entre as instituições a serem autorizadas a funcionar pelo Banco Central do Brasil; e dá outras providências.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei Complementar:
