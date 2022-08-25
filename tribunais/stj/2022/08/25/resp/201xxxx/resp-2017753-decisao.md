@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especial interposto por CAIXA DE ASSISTÊNCIA DOS SERVIDORES DO ESTADO DO MATO GROSSO DO SUL - CASSEMS (CASSEMS), com fundamento no art. 105, III, alíneas a e c, da CF, contra acórdão proferido pelo Tribunal de Justiça de Mato Grosso do Sul,assim ementado:
+EMENTA - APELAÇÃO - AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANOS MORAIS - RECUSA INDEVIDA DE COBERTURA DE EXAME MÉDICO PELO PLANO DE SAÚDE - SEQUENCIAMENTO COMPLETO DO EXOMA (NSG) - DETERMINAÇÃO PARA REALIZAÇÃO DO EXAME - DANO MORAL PURO INDENIZÁVEL - QUANTUM INDENIZATÓRIO MANTIDO - RECURSO CONHECIDO E NÃO PROVIDO.
+1. Discute-se, no presente recurso: a) a responsabilidade da ré em custear procedimento médico; e b) a configuração de dano moral, bem como o quantum indenizatório.
+2. Nos contratos de plano de saúde, quando houver previsão contratual de cobertura da doença e respectiva prescrição de exame médico, é dever da operadora de plano de saúde oferecer a cobertura do tratamento ao usuário, inclusindo-se os exames necessários. O Rol de procedimentos médicos cobertos previsto pela ANS é exemplificativo.
+3. Na negativa de cobertura do exame médico o dano moral é presumido, em razão da medida abusiva da operadora de plano de saúde poder agravar a situação física e psicológica do beneficiário. Precedente do STJ.
+4. O valor estabelecido a título de dano moral deve guardar pertinência com as peculiaridades do caso concreto e estar em consonância com os casos semelhantes já julgados por este Tribunal. Na espécie, mantém-se o valor da indenização por danos morais em R$ 10.000,00.
+5. Apelação conhecida e não provida, com majoração dos honorários advocatícios sucumbenciais (e-STJ, fl. 625).
+Os primeiros embargos de declaração opostos por CASSEMS foram rejeitados (e-STJ, fls. 648/352), assim como os segundos aclaratórios (e-STJ, fls. 721/725).
+Nas razões do presente recurso, CASSEMS alegou, a par de dissídio jurisprudencial, a violação aos arts.10, §4º da Lei 9.656/98; 4º, III,da Lei n. 9.961/2000;e 188 do CC/02;ressaltando, em síntese, que (1)a hipótese dos autos trata de procedimento não prevista no rol taxativo daANS; e (2) que deve ser excluída da condenação dos danos morais.
+Foram apresentadas contrarrazões.
+É o relatório.
+Decido.
+Do dever de cobertura e do rol da ANS
+Nas razões da presente insurgência, CASSEMS sustentou quea hipótese dos autos trata de procedimento não prevista no rol taxativo da ANS.
+ Em julgamento finalizado no dia 8 de junho de 2022, a Segunda Seção desta Corte Superior entendeu ser taxativo, em regra, o rol de procedimentos e eventos estabelecido pela Agência Nacional de Saúde (ANS), não estando as operadoras de saúde obrigadas a cobrirem tratamentos não previstos na lista. Contudo, o colegiado fixou parâmetros para que, em situações excepcionais, os planos custeiem procedimentos não previstos na lista, a exemplo de terapias com recomendação médica, sem substituto terapêutico no rol, e que tenham comprovação de órgãos técnicos e aprovação de instituições que regulam o setor.
+Por maioria de votos, a Seção definiu as seguintes teses:
+1. O rol de procedimentos e eventos em saúde suplementar é, em regra, taxativo;
+2. A operadora de plano ou seguro de saúde não é obrigada a arcar com tratamento não constante do rol da ANS se existe, para a cura do paciente, outro procedimento eficaz, efetivo e seguro já incorporado ao rol;
+3. É possível a contratação de cobertura ampliada ou a negociação de aditivo contratual para a cobertura de procedimento extra rol;
+4. Não havendo substituto terapêutico ou esgotados os procedimentos do rol da ANS, pode haver, a título excepcional, a cobertura do tratamento indicado pelo médico ou odontólogo assistente, desde que (i) não tenha sido indeferido expressamente, pela ANS, a incorporação do procedimento ao rol da saúde suplementar; (ii) haja comprovação da eficácia do tratamento à luz da medicina baseada em evidências; (iii) haja recomendações de órgãos técnicos de renome nacionais (como Conitec e Natjus) e estrangeiros; e (iv) seja realizado, quando possível, o diálogo interinstitucional do magistrado com entes ou pessoas com expertise técnica na área da saúde, incluída a Comissão de Atualização do Rol de Procedimentos e Eventos em Saúde Suplementar, sem deslocamento da competência do julgamento do feito para a Justiça Federal, ante a ilegitimidade passiva ad causam da ANS.
+Nesse contexto, a decisão recorrida albergou tese no sentido da natureza meramente exemplificativa do rol da ANS, em dissonância com o novel entendimento adotado pelo STJ.
+Considerando que o TJMSnão se pronunciou sobre as peculiaridades do caso concreto, à luz do novo posicionamento jurisprudencial, é forçoso o retorno dos autos para que a Corte Estadual averigue se o caso em testilha se enquadra ou não nas exceções suso transcritas, que obrigam a operadora do plano de saúde ao custeio de tratamento independentemente de constar ou não no rol da ANS.
+Nessas condições, DETERMINO o retorno dos autos ao TJMS, nos termos da fundamentação supra.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. TRATAMENTO QUE NÃO CONSTA NO ROL DA ANS. DEVER DE COBERTURA AFASTADO, EM REGRA. EXCEÇÕES. NECESSIDADE DE AVERIGUAÇÃO DAS PECULIARIDADES DO CASO CONCRETO. RECURSO PROVIDO PARA RETORNO DOS AUTOS AO TRIBUNAL DE JUSTIÇA DE ORIGEM PARA APLICAÇÃO DO NOVEL ENTENDIMENTO DO STJ SOBRE A MATÉRIA.
