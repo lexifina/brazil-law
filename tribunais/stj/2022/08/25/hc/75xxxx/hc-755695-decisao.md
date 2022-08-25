@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se dehabeas corpussubstitutivo de recurso próprio, com pedido liminar, impetradoem favor de CARLOS EDUARDO OLIVEIRA LOPEScontradecisão proferida porDesembargador integrante doeg.TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO,que nos autos do writn. 0049642-68.2022.8.19.0000, indeferiu o pedido liminar.
+Depreende-se dos autos que opacientefoicondenado à pena de06 (seis) anos, 02 (dois) meses e 20 (dias) de reclusão e 17 (dezessete) dias-multa, em regime inicial semiaberto, como incurso no art. 157, § 2º, incisos I eII, do Código Penal (fls. 39-52).
+No julgamento da apelação, o eg. Tribunal de origem negou provimento ao recurso da defesa, mantendo incólume a sentença condenatória(fls. 54-58).
+Irresignada, a defesa impetrou habeas corpus perante a Corte a quo, queindeferiu o pedido liminar (fls. 14-16) e ainda não julgou o mérito da impetração.
+Nestewrit,oimpetrante sustenta a necessidade do reconhecimento da prescrição da pretensão executória em favor do paciente.
+Declara, ainda, a possibilidade de superação do enunciado sumular 691/STF, diante da flagrante ilegalidade apontada.
+Requer, ao final,o reconhecimento da prescrição da pretensão executória.
+Liminar indeferida às fls. 97-98.
+O pedido de reconsideração da liminar foi deferido parcialmente, para "determinar a suspensão da execução da pena até o julgamento definitivo do presente mandamus" (fls. 156-159).
+Informaçõesàs fls.167-170.
+OMinistério Público Federal, em parecer de fls. 177-182, manifestou-se pelo não conhecimentoda ordem, nos termos da seguinteementa:
+"HABEAS CORPUS IMPETRADO CONTRA INDEFERIMENTO DE LIMINAR. SÚMULA 691/STF. QUESTÃO AINDA NÃO ANALISADA PELA CORTE DE ORIGEM. CONHECIMENTO DO PEDIDO QUE IMPLICARIA EM INDEVIDA SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE MANIFESTA ILEGALIDADE. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. TERMO INICIAL. TRÂNSITO EM JULGADO DA CONDENAÇÃO PARA AMBAS AS PARTES E NÃO APENAS PARA A ACUSAÇÃO. ENTENDIMENTO QUE SE COADUNA COM A MELHOR INTERPRETAÇÃO DO ART. 112, I, DO CP. CONSIDERANDO-SE O LAPSO PRESCRICIONAL DE 06 ANOS, AINDA NÃO SE OPEROU A PRESCRIÇÃO EXECUTÓRIA DA PENA, CUJO TRÂNSITO EM JULGADO DA CONDENAÇÃO PARA AMBAS AS PARTES (TERMO INICIAL) OCORREU EM 02.03.2017. Parecer pelo não conhecimento do writ" (fl. 177).
+É o relatório.
+Decido.
+Quanto aos punctum saliens, pela análise da quaestio trazida à baila na exordial, verifica-se que o habeas corpus investe contra denegação de liminar. De fato, ressalvadas hipóteses excepcionais, é descabido o instrumento heróico, sob pena de ensejar supressão de instância, a teor da Súmula 691/STF, que dispõe, in verbis: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar."
+Outrossim, em hipóteses excepcionais, que se caracterizam pela flagrante ilegalidade, verificável icto oculi, esta Corte tem admitido a suplantação do óbice contido no enunciado da Súmula 691 do Supremo Tribunal Federal, situação que ocorreu na espécie.
+Destarte, passo ao exame das razões veiculadas nomandamus.
+O impetrante sustenta anecessidade do reconhecimento da prescrição da pretensão executória em favor do paciente.
+Na presente hipótese, verifica-se que assiste razão ao impetrante.
+Isso porque, observa-se que o paciente foi condenado à pena de06 (seis) anos, 02 (dois) meses e 20 (dias) de reclusão e 17 (dezessete) dias-multa, em regime inicial semiaberto,como incurso no art. 157, § 2º, incisos I e II, do Código Penal (fls. 39-52).
+Registre-se que o trânsito em julgado da sentença condenatóriapara a acusação é de 25/05/2015(fl. 148).
+Desta feita, o lapso da prescrição é de 12(doze) anos, nos termos do art. 109, inciso III, do Código Penal.
+Ademais,visto que, na data do crime, o paciente tinha 18 anos e 4 meses, tal prazo deve ser calculado pela metade, a saber, 06 (seis) anos, em razão da idade do réu ao tempo dos fatos, nos termos do art. 115 do Código Penal(fl. 152).
+Com efeito,"a jurisprudência desta Corte Superior de Justiça é no sentido de que, conforme disposto expressamente no art. 112, inciso I, do Código Penal, o termo inicial da contagem do prazo da prescrição executória é a data do trânsito em julgado para a acusação" (AgInt no HC n. 573.231/SP,Quinta Turma, Rel. Min.João Otávio de Noronha, DJe 20/10/2020, grifei).
+No mesmo sentido:
+"AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS.PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. TERMO INICIAL. TRÂNSITO EM JULGADO PARA A ACUSAÇÃO. INCIDÊNCIA APÓS O TRÂNSITO EM JULGADO PARA AMBAS AS PARTES. AGRAVO REGIMENTAL DESPROVIDO.
+1.A jurisprudência majoritária desta Corte Superior é firme em assinalar que o termo inicial para a contagem do prazo prescricional da pretensão executória é o trânsito em julgado da sentença condenatória para a acusação, e não para ambas as partes, prevalecendo a interpretação literal mais benéfica ao condenado. O termo inicial da prescrição executória não se confunde com o momento apropriado para a avaliação da ocorrência ou não dela.
+2. "A avaliação da incidência dessa causa extintiva da punibilidade somente é possível quando há o trânsito em julgado para ambas as partes" (EDcl no AgRg nos EAREsp 1.922.091/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, TERCEIRA SEÇÃO, julgado em 9/3/2022, DJe 16/3/2022).
+3. Agravo regimental desprovido."(AgRg nos EDcl no HC n. 734.867/RJ,Quinta Turma, Rel. Min.Ribeiro Dantas, DJe de 31/5/2022.)
+"AGRAVO REGIMENTAL. HABEAS CORPUS.PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. MARCO INICIAL. TRÂNSITO EM JULGADO PARA A ACUSAÇÃO. ART. 112, I, DO CÓDIGO PENAL. DECISÃO MANTIDA.
+1.O termo inicial do prazo da prescrição da pretensão executória é a data do trânsito em julgado para a acusação (art. 112, I, do Código Penal).
+2.Nos casos em que se discute o termo a quo para a contagem do prazo da prescrição da pretensão executória, mantém-se o entendimento consolidado pelo STJ, a quem compete uniformizar a interpretação da legislação infraconstitucional, pois, embora reconhecida a repercussão geral do tema no ARE n. 848.107/DF, o mérito ainda não foi apreciado pelo STF.
+3. Agravo regimental desprovido."(AgRg no HC n. 717.946/RS,Quinta Turma, Rel. Min.João Otávio de Noronha, DJe de 20/5/2022.)
+"PENAL. AGRAVO REGIMENTAL. HABEAS CORPUS .LESÃO CORPORAL NO ÂMBITO DOMÉSTICO E FAMILIAR CONTRA A MULHER. PRETENSÃO DE RECONHECIMENTO DA EXTINÇÃO DA PUNIBILIDADE. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. PROCEDÊNCIA. ACÓRDÃO CONFIRMATÓRIO DA CONDENAÇÃO QUE SÓ TEM O CONDÃO DE INTERROMPER O LAPSO DA PRESCRIÇÃO DA PRETENSÃO PUNITIVA. DECORRÊNCIA DO LAPSO DE 3 ANOS ENTRE O TRÂNSITO EM JULGADO DA CONDENAÇÃO (PARA A ACUSAÇÃO) E OS DIAS ATUAIS, SEM QUE TENHA OCORRIDO NOVO MARCO INTERRUPTIVO. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+1. Deve ser mantida a decisão monocrática em que se concede liminarmente a ordem quando evidenciado constrangimento ilegal manifesto à liberdade de locomoção, em especial quando configurada a extinção da punibilidade pela prescrição da pretensão executória.
+2.O entendimento mais recente deste Superior Tribunal é no sentido de que o termo inicial do prazo da prescrição da pretensão executória é a data do trânsito em julgado para a acusação (art.
+112, I, do Código Penal) (EDcl no AgRg no HC n. 718.228/RS, Ministro João Otávio de Noronha, Quinta Turma, DJe 6/4/2022).
+3. Agravo regimental improvido."(AgRg no HC n. 731.868/SP,Sexta Turma, Rel. Min.Sebastião Reis Júnior, DJe de 13/5/2022, grifei).
+"AGRAVO REGIMENTAL NO HABEAS CORPUS.PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. CONTAGEM DO PRAZO. TRÂNSITO EM JULGADO PARA A ACUSAÇÃO.OFENSA A DISPOSITIVOS CONSTITUCIONAIS. VIA INADEQUADA. AGRAVO DESPROVIDO.
+I - A parte que se considerar agravada por decisão de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer, dentro de cinco dias, a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+II -Conforme disposto expressamente no art. 112, I, do CP, o termo inicial da contagem do prazo da prescrição executória é a data do trânsito em julgado para a acusação, e não para ambas as partes, prevalecendo a interpretação literal mais benéfica ao condenado.
+III -A existência de precedente recente do Supremo Tribunal Federal em sentido contrário não tem o condão de alterar o posicionamento pacífico deste Sodalício, a quem compete a uniformização da interpretação da legislação infraconstitucional, uma vez que se trata de decisão proferida pela maioria dos integrantes de apenas um dos órgãos fracionários do Pretório Excelso, que, embora tenha reconhecido a repercussão geral do tema no ARE 848.107 RG/DF, ainda não fixou seu entendimento sobre a questão.
+IV - O Superior Tribunal de Justiça tem competência para análise de matéria infraconstitucional, não estando obrigado a se manifestar a respeito de tema constitucional, ainda que para fins de prequestionamento, sob pena de usurpação da competência reservada pela Carta Magna ao Supremo Tribunal Federal.
+Agravo regimental desprovido."(AgRg no HC n. 721.440/SP,Quinta Turma,de minha relatoria, DJe de 13/5/2022, grifei).
+Nesse compasso, como bem salientado na decisão que reconsiderouo pedido liminar, "já transcorreram mais de 7 anos do trânsito em julgado da sentença condenatória para o Ministério Público"(fl. 158, grifei).
+Dessarte,flagrante o constrangimento ilegala que submetido o ora paciente, razão pela qual deve ser reconhecida a ocorrência da prescrição da pretensão executória, nos termos do art. 107, inciso IV, do art. 109, inciso Ve do art. 112, I, do Código Penal.
+Ante o exposto,não conheço do habeas corpus.Contudo,concedo a ordem de ofício,para reconhecer a ocorrência da prescrição da pretensão executória e, por conseguinte, declarar extinta a punibilidade.
+P. e I.
