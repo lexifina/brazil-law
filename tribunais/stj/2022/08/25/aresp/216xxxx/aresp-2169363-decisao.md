@@ -1,0 +1,20 @@
+DECISÃO
+DIREITO PROCESSUAL CIVIL. DOIS RECURSOS - AGRAVO INTERNO E ARESP - INTERPOSTOS CONTRA DECISÃO DA PRESIDÊNCIA DO TRIBUNAL MARANHENSE QUE INDEFERIU O TRÂMITE DE RECURSO ESPECIAL COM FULCRO NO ART. 1.030, I, B, DO CPC/2015. PREVISÃO LEGAL DO AGRAVO INTERNO, ESPÉCIE RECURSAL ADOTADA PELA PARTE INSURGENTE. NÃO CONHECIMENTO DO ARESP.
+1. Trata-se de agravo em recurso especial de ANA MARY ALMEIDA RAMOS interposto contra decisão da Presidência do Tribunal de Justiça do Estado do Maranhão que indeferiu o processamento do recurso especial com esteio no art. 1.030, I,b, do CPC/2015.
+2. Na presente hipótese, relate-se que a parte, contra a aludida decisão, se valeu, em 03.02.2022, de dois recursos: agravo interno perante a Corte de origem(fls. 293/307) e agravo em recurso especial (fls. 277/291), esse último ora sob análise.
+3. A Corte maranhense não conheceu do agravo interno, por entender que não houve a demonstração de distinção do caso-condutor de repercussão geral, aplicado no exame admissional, à causa em andamento. Note-se:
+AGRAVO INTERNO. DECISÃO QUE NEGA SEGUIMENTO A RECURSO ESPECIAL. CONTRARIEDADE APRECEDENTE. TEMA 05 DE REPERCUSSÃO GERAL. DESPROVIMENTO.1. Quando interposto com fundamento no art. 1.030, §2º, do CPC, o ônus de distinguir é pressuposto específico do agravo interno.
+2. A ausência de distinção entre os elementos fático-jurídicos do precedente e os elementos fático-jurídicos do caso concreto conduz necessariamente ao desprovimento do agravo interno.
+3. Agravo desprovido (fls. 322/337).
+4. Ao que se denota dos autos, o exame admissional teve conclusão única, isto é, não processamento do REsp com fundamento no art. 1.030, I,b, do CPC/2015. Não houve partes dispositivas para trechos distintos do exame admissional, mas uma - e somente uma - solução.
+5. Muito embora a decisão tenha feito menção à incidência das Súmulas 7 e 83/STJ, o desfecho da decisão teve apenas um vetor, como dito.
+6. Como se sabe, nos termos do § 2º do art. 1.030 do CPC/2015, as decisões de admissibilidade tomadas com base na alíneabdo inciso I do citado dispositivo se submetem a agravo interno, insurgência de que a parte se valeu.Essa é a compreensão do Superior Tribunal de Justiça:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. NEGATIVA DE SEGUIMENTO (ART. 1.030, I, "B", DO CPC/2015). AGRAVO EM RECURSO ESPECIAL. INADEQUAÇÃO.
+1. É incabível agravo em recurso especial (art. 1.042 do CPC/2015) para impugnar decisão que, tendo como principal fundamento a conformidade do acórdão recorrido com precedente formado em julgamento de recurso especial repetitivo, nega seguimento ao apelo raro com amparo no art. 1.030, I, do CPC/2015.
+2. O agravo interno de que trata o art. 1.030, § 2º, do CPC/2015 é a sede própria para a demonstração de eventual falha na aplicação da tese firmada no paradigma repetitivo em face de realidade do processo.
+3. Hipótese em que o fundamento condutor adotado na decisão a quo é o de que o acórdão recorrido está em sintonia com precedente obrigatório desta Corte Superior, segundo o qual "o sujeito ativo da relação tributária, na vigência do DL 406/68, é o Município da sede do estabelecimento prestador (art. 12); a partir da LC 116/03, é aquele onde o serviço é efetivamente prestado, onde a relação é perfectibilizada, assim entendido o local onde se comprove haver unidade econômica ou profissional (..)" (Tema 355 do STJ).
+4. A menção sobre a existência de outro óbice de admissibilidade do recurso especial relacionado com esse mesmo capítulo da irresignação não guarda autonomia a justificar o cabimento do agravo dirigido para esta Corte Superior.
+5. Agravo interno desprovido(AgInt no AREsp 1.766.715/SP, relator Ministro GURGEL DE FARIA, Primeira Turma, DJe de 01.07.2022).
+7. Assim, não há espaço algum para o agravo em recurso especial, pois a recorribilidade para o exame admissional se esgotou com a interposição do agravo interno perante o Tribunal maranhense. O agravo não está a merecer cognição.
+8. Pelo exposto, não se conhece do agravo em recurso especial da servidora.
+9. Publique-se. Intimações necessárias.
