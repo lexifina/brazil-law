@@ -1,0 +1,66 @@
+DECISÃO
+Trata-se de agravo interposto por LUIZ GUSTAVO TEIXEIRA DA COSTA contra decisão proferida pelo eg. Tribunal de Justiça do Estado de São Paulo que inadmitiu recurso especial fundamentado nas alíneas a e cdo permissivo constitucional.
+Consta dos autos que o juízo singular condenou o agravante como incurso nas sanções do art. 157,§ 2º, II e § 2º-A, I, c.c. art. 14, II, ambosdo Código Penal, à pena de5 (cinco) anos e 11 (onze) meses e 3 (três) dias de reclusão, em regime fechado, mais o pagamento de14 (quatorze) dias-multa (fls. 219-226).
+O eg. Tribunal a quo, em decisão unânime, negaramprovimento ao recurso de apelação criminal da Defesa, em acórdão assim ementado(fls. 295-305):
+"ROUBO TENTADO. Preliminar de nulidade por ausência de manifestação em relação ao pedido de desclassificação. Inocorrência. No mérito, pedido de desclassificação da figura de roubo para a de furto.Descabimento. Abrandamento da pena pelo afastamento da majorante da arma de fogo ou pela aplicação do artigo 68 do Código Penal e, ainda, de concessão de diminuição mais significativa pela tentativa.Descabimento. Regime adequado. Recurso desprovido"
+Nas razões do recurso especial (fls.311-335), interposto com fulcro nas alíneas ae cdo permissivo constitucional, a Defesa alega violação aos arts.381, IIIe 564, III e V, ambos do Código de Processo Penal, arts. 155, §4º, IV , 68, parágrafo único,14, II, e33, §2º, alínea c, todos do Código Penal, bem como divergência jurisprudencial quanto a interpretação desses dispositivos legais e Súmulas 718 e 719 do STF.Para tanto, menciona que:
+a) "No caso em tela restou documentalmente comprovado que a defesa requereu a desclassificação do crime de roubo majorado para o crime de furto qualificado. Apesar do d. Julgador ter condenado o recorrente pelo crime de roubo majorado, deveria expor as razões que impedem a pretendida desclassificação" (fl. 316);
+b) "Destaca-se também que o Tribunal de Justiça de Alagoas, em caso análogo, cassou sentença proferida pelo Juízo de origem, por ausência de apreciação da tese defensiva, em memoriais, assemelhando-se ao caso vertente, conforme extrai-se da ementa a seguir colacionada" (fl. 317);
+c) "(..) conforme se extrai do acórdão paradigma, obviamente se o d. Juízo se limitou em condenar o recorrente por roubo, não fazendo qualquer referência à pretendida desclassificação, justifica a nulidade da sentença, conforme trecho do v. Acórdão do TJAL, que se colaciona uma vez mais" (fl. 319);
+d) "Muito embora a arma de fogo tenha sido localizada próximo ao réu, não há provas de que ela lhe pertencia, o que foi corroborado documentalmente pela prova pericial, reconhecido pelo próprio v. Acórdão" (fl. 320);
+e) "Ora, não seria uma versão fantasiosa, até mesmo porque o Perito, às folhas 95/102, afirmou que a cena do crime foi modificada para induzir a perícia em erro, levando a crer que foi a vítima que teria modificado a cena do crime" (fl. 321);
+f) "A vítima obviamente já tinha uma arma e, quando viu que sua residência iria ser invadida, começou a alvejar disparos em face do apelante Luiz" (fl. 321):
+g) "Logo, é da REVALORAÇÃO das provas lançadas no próprio v. Acórdão, tem-se que não há provas suficientes à ensejar a condenação do recorrente por roubo majorado, mas, no máximo, por furto qualificado (Art. 155, §4º, IV, do CP) ou, subsidiariamente, por roubo sem a incidência da majorante da arma de fogo - Art. 157, §2-A, I, CP)" (fl. 322);
+h) "(..) e rigor seja reconhecida somente uma causa de aumento, dando interpretação ao verbo "poder" como "poder/dever", nos termos do Art. 68, parágrafo único, do Código Penal" (fl.327);
+i) "A nulidade, in casu, é óbvia (Art. 564, inc. V, CPP 2 ), por ausência de fundamentação quanto à fração utilizada na tentativa, justificando-se, portanto, a redução no grau máximo de 2/3 (dois terços), nos termos do Art. 14, inc. II, do Código Penal" (fl. 331);
+j) "À vista dessas considerações, o que ensejam, por si sós, a fixação da fração máxima do redutor da tentativa, salienta-se que o recorrente sequer adentrou na residência, limitando-se em ficar no portão e, após, ter empreendido fuga" (fl. 331);
+k) "O recorrente, primário, com bons antecedentes, neste feito, foi condenado a uma pena total de 5 anos 11 meses e 3 dias de reclusão, tendo o d. Juízo fixado o regime inicial fechado para o início do cumprimento da pena. Fundamentou a necessidade de fixação de regime fechado, de forma abstrata" (fl. 331).
+Por fim, pugna pelo conhecimento e provimento do recurso especial para que (fl. 334).
+"I- Seja cassada a r. sentença e o v. Acórdão, por ausência de fundamentação, nos termos do Art. 564, inc. III, "m", IV e V, do Código de Processo Penal:
+II- Desclassificar o delito de roubo majorado tentado para furto qualificado tentado, nos termos do Art. 155, §4º, IV, do Código Penal c/c Art. 14, II, do Código Penal.
+III- Afastar a causa de aumento de pena do Art. 157, §2º-A, I, do Código Penal.
+IV- Subsidiariamente, aplicação da causa de aumento de pena mais gravosa, nos termos do Art. 68, parágrafo único, do Código Penal.
+V- Aplicar a fração máxima de 2/3 (dois terços) referente à tentativa, observado o iter criminis, nos termos do Art. 14, II, do Código Penal.
+VI- Fixação do regime inicial aberto, nos termos do Art. 33, §2º, c, do Código Penal".
+Apresentada as contrarrazões (fls. 380-392), o especial foi inadmitido na origem em razão dafundamentação deficiente,divergência jurisprudencial não comprovada, ausência de cotejo analítico, incidênciadas Súmulas 7, 182 e 518, todas do STJ e Súmulas 282 e 356, ambas do STF (fls. 396-398).
+Daí o presente agravo, no qual o agravante, em apertada síntese, repisa os argumentos expendidos no apelo nobre (fls. 401-407).
+O Ministério Público Federal manifestou-se pelo nãoprovimento do agravo em recurso especial, em Parecer assim ementado (fls. 448-450):
+"AGRAVO EM RECURSO ESPECIAL. PENAL. ROUBO.DESCLASSIFICAÇÃO PARA FURTO. FASTAMENTO DO AUMENTO POR USO DE ARMA DE FOGO. IMPOSSIBILIDADE. REEXAME DE PROVAS INCIDÊNCIA DA SÚMULA 7/STJ.
+1. A pretensão recursal, no sentido de desclassificar o crime de roubo para furto, ou de afastar a causa de aumento de pena por uso de arma de fogo na prática do delito implicaria reexame do material fático-probatório dos autos, providência inviável em sede de recurso especial diante do óbice da Súmula 7/STJ.
+2. Parecer pelo não provimento do agravo em recurso especial"
+É o relatório.
+Decido.
+O agravo não merece ser conhecido.
+Conforme mencionado, o recurso especial foi inadmitido na origemem razão da fundamentação deficiente, divergência jurisprudencial não comprovada, ausência de cotejo analítico, incidência das Súmulas 7, 182 e 518, todas do STJ e Súmulas 282 e 356, ambas do STF (fls. 396-398).
+Neste agravo (fls. 401-407), contudo, a parte agravante deixou de infirmar, de maneiraadequada e suficiente, todas as razões apresentadas pelo eg. Tribunal de origem para negar trânsito ao recurso especial, qual seja, o fundamento relativo à incidência daSúmula n. 7/STJ.
+Com relação ao óbice daSúmula 7/STJ,em síntese, a parte limitou-se a afirmar que:
+"2. DO CABIMENTO DO RECURSO ESPECIAL.
+2.1. DA NÃO INCIDÊNCIA DA SÚMULA 7/STJ.
+Alega o Presidente da Seção de Direito Criminal que para e chegar a solução contrária à do aresto recorrido, seria necessário o reexame da prova.
+Contudo, sem razão.
+Isto porque o agravante requer deste Colendo Superior Tribunal tão somente a correta valoração adequada das provas constantes da própria decisão recorrida, o que não enseja, portanto, violação ao enunciado da Súmula nº 7.
+Deste modo, colhe-se da jurisprudência:
+ ..  A valoração inadequada da prova dos autos implica error iuris que pode ser apreciado nesta instância sem que se cogite de violação do teor da Súmula nº 7 do STJ.  ..  (REsp 1324482/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 05/04/2016, DJe 08/04/2016, g.n) Diante disso, não deverá incidir a Súmula 7/STJ, razão pela qual deve ser conhecido do Recurso Especial, haja vista a desnecessidade de reexame de prova, mas somente a valoração adequada, nos termos do Recurso Especial interposto"(fl. 403. grifei).
+E em relação a aplicação da Sumula 7/STJ, deveria o agravante demonstrar a desnecessidade da análise do conjunto fático-probatório, deixando claro que os fatos foram devidamente consignados nodecisumaquo, o que não aconteceu,in casu.
+Com efeito, é entendimento desta Corte Superior que, "inadmitido o recurso especial com base na Súm. 7 do STJ, não basta a simples assertiva genérica de que se cuida de revaloração da prova, ainda que feita breve menção à tese sustentada.O cotejo com as premissas fáticas de que partiu o aresto faz-se imprescindível" (AgInt no AREsp 600.416/MG,Segunda Turma, Rel. Min.Og Fernandes, DJe 18/11/2016, grifei).
+Desse modo, a ausência de impugnação adequada de parte dos fundamentos empregados pela eg. Corte de origem para impedir o trânsito do apelo nobre, nos termos do art. 932, inciso III, do CPC, impede o conhecimento do agravo, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles.
+Nesse sentido:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE. SÚMULA 182/STJ. INCIDÊNCIA. CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. IMPOSSIBILIDADE DE EXECUÇÃO PROVISÓRIA DAS PENAS RESTRITIVAS DE DIREITOS. AGRAVO NÃO PROVIDO.
+1. A ausência de impugnação específica aos fundamentos da decisão agravada impede o conhecimento do recurso.
+2. Não assiste razão ao agravante, pois, no caso, incide o óbice da Súmula 182/STJ, uma vez que deixou de impugnar, no seu agravo em recurso especial, de forma específica, ausência/deficiência de cotejo analítico e certidão não juntada/cópia não autenticada/repositório não autorizado/repositório não oficial.
+3. A concessão de habeas corpus, de ofício, ocorre por iniciativa do próprio órgão jurisdicional quando constatada a existência de ilegalidade flagrante ao direito de locomoção, o que ocorre na hipótese.
+4. Em 8/11/2019, o Tribunal Pleno do Supremo Tribunal Federal concluiu o julgamento das Ações Declaratórias de Constitucionalidade n. 43, 44 e 54, e decidiu, por maioria de votos, que é constitucional a regra do Código de Processo Penal que prevê o esgotamento de todas as possibilidades de recurso (trânsito em julgado da condenação) para o início do cumprimento da pena.
+5. Mesmo antes do mencionado julgamento, esta Corte Superior, por sua Terceira Seção, havia pacificado entendimento no sentido de que não se procede à execução provisória de penas restritivas de direitos.
+6. Agravo regimental não provido. Concessão de habeas corpus de ofício para suspender a execução provisória das penas restritivas de direitos."(AgRg no AREsp 1682769/SC,Quinta Turma, Rel. MinistroRibeiro Dantas, DJe 23/06/2020).
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSO PENAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. ENUNCIADO N. 182 DA SÚMULA DO STJ. INSURGÊNCIA DESPROVIDA.
+1. Enquanto a decisão de admissibilidade do recurso especial assentou os óbices das Súmulas n. 7 e 83/STJ quanto ao pedido de desclassificação e da Súmula n. 83/STJ quanto ao pleito de aplicação do princípio da insignificância, no agravo a defesa deixou de impugnar o óbice da Súmula n. 83/STJ com relação ao pedido de desclassificação.
+2. Deixando a parte agravante de impugnar especificamente todos os fundamentos da decisão agravada, é de se aplicar o enunciado n. 182 da Súmula do STJ.
+3. Agravo regimental desprovido."(AgRg no AREsp 1667698/SP,Quinta Turma, Rel. MinistroJorge Mussi,DJe 29/05/2020).
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SUMULAS 7 E 83 DO STJ. ALEGAÇÕES GENÉRICAS INCAPAZES DE INFIRMAR A DECISÃO RECORRIDA. SÚM.182/STJ.
+I - Os recursos devem impugnar, de maneira específica e pormenorizada, os fundamentos da decisão contra a qual se insurgem, sob pena de vê-los mantidos. Não são suficientes alegações genéricas sobre as razões que levaram à inadmissão do agravo ou do recurso especial ou a insistência do mérito da controvérsia, como ocorreu na hipótese.
+II - O entendimento do STJ é de que "não basta, para afastar o óbice da Súmula nº 83/STJ, a alegação genérica de que o acórdão recorrido não está em consonância com a jurisprudência desta Corte, devendo a parte recorrente demonstrar que outra é a positivação do direito na jurisprudência desta Corte, com a indicação de precedentes contemporâneos ou supervenientes aos referidos na decisão agravada (AgRg no AREsp n. 238.064/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, DJe 18/8/2014).
+III - Agravo regimental a que se nega provimento"(AgRg no AREsp n. 1.207.268/MG,Quinta Turma, Rel. Min.Reynaldo Soares da Fonseca, DJe de 19/12/2018).
+Diante do exposto,não conheçodo agravo em recurso especial nos termos do art. 253, parágrafo único, inciso I, do Regimento Interno do Superior Tribunal de Justiça.
+P. e I.
+EMENTA
+PENAL. AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADOTENTADO.AGRAVO EM RECURSO ESPECIAL QUE NÃO REFUTA TODOS OS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
