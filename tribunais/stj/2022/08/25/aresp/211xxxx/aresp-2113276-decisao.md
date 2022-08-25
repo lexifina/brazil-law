@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (e-STJ, fl. 283):
+APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA. SEGURO DE AUTOMÓVEL.FURTO DO VEÍCULO. RECUSA DE COBERTURA PELA SEGURADORA, FUNDADA NO AGRAVAMENTO DO RISCO. SENTENÇA DE IMPROCEDÊNCIA. RECURSO DA PARTE AUTORA.
+ARGUMENTAÇÃO NO SENTIDO DE QUE FAZ JUS À INDENIZAÇÃO PREVISTA NA APÓLICE CONTRATADA PELO FURTO DO VEÍCULO.
+INSUBSISTÊNCIA. AUTOMÓVEL QUE FOI DEIXADO EM VIA PÚBLICA, COM AS CHAVES SOBRE O PNEU DIANTEIRO, ENQUANTO O SEGURADO SURFAVA. CONDUTA CONSCIENTE DO SEGURADO EM DEIXAR AS CHAVES DO AUTOMÓVEL EM ESCONDERIJO PRESUMÍVEL, LONGE DO ALCANCE DOS OLHOS, FACILITANDO, ASSIM, O SEU FURTO. AGRAVAMENTO DO RISCO. PERDA DE DIREITO. INTELIGÊNCIA DO ARTIGO 768 DO CÓDIGO CIVIL. SENTENÇA MANTIDA.
+"CONQUANTO A SEGURADORA GARANTA AO SEGURADO PROTEÇÃO CONTRA EVENTUAIS PREJUÍZOS DECORRENTES DE DETERMINADO RISCO, ESTE, POR SUA VEZ, DEVE ABSTER-SE DE TUDO QUANTO POSSA AGRAVAR A ÁLEA, SOB PENA DE PERDER O DIREITO À COBERTURA DO SEGURO CONTRATADO, NOS TERMOS DO DISPOSTO NO ART. 768 DO CÓDIGO CIVIL, SEGUNDO O QUAL "O SEGURADO PERDERÁ O DIREITO À GARANTIA SE AGRAVAR INTENCIONALMENTE O RISCO OBJETO DO CONTRATO"" (TJSC, APELAÇÃO CÍVEL N. 2011.013549-3, DE CORREIA PINTO, REL. DES.
+LUIZ FERNANDO BOLLER). (TJSC, APELAÇÃO CÍVEL N. 0019944- 22.2013.8.24.0023, DA CAPITAL, REL. RUBENS SCHULZ, SEGUNDA CÂMARA DE DIREITO CIVIL, J. 16-05-2019).
+HONORÁRIOS RECURSAIS. MAJORAÇÃO DA VERBA HONORÁRIA (ARTIGO 85, §11, DO CPC).
+RECURSO CONHECIDO E DESPROVIDO.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, osagravantes apontam violação aos arts. 757, 765 e 766 do Código Civil; e ao art. 6º, III, do Código de Defesa do Consumidor.
+Defendem o pagamento de indenização securitária ao argumento de que a seguradora se obriga a pagar o prêmio contra riscos predeterminados.
+Afirmam que "não estava claro na relação contratual, quais os riscos decorrentes do contrato de seguro que poderiam ensejar a ausência de quitação do prêmio, ou seja, não se tinha clareza que, mesmo diante de uma atitude diligente e ocorrendo uma causa de sinistro, qual seja, o furto, não existiria adimplemento" (e-STJ, fl. 334).
+Argumentam ainda que não houve comprovação de nenhuma conduta inadequada dos recorrentes.
+Contrarrazões apresentadas.
+Assim delimitada a controvérsia, passo a decidir.
+No caso, o Tribunal de origem reconheceu ser legítima a recusa da cobertura pelaseguradora, haja vista oagravamento do risco do contrato pelo condutor do veículo que contribuiu para o sinistro. Assim consignou oacórdão recorrido(e-STJ, fls. 287/288):
+Restou incontroverso nos autos que, em 5-11-2015, o autor Anderson Marques contratou com a ré seguro para o automóvel Novo Fox GIII 1.6 16v Flex, placas QHG-3713, em nome de Marcia Aparecida da Rosa, com vigência de 28-10-2015 a 28-10- 2016 (Evento 1 - INF9 e INF10 - p. 2).
+Também não remanescem dúvidas de que, em 14-9-2016, o veículo em questão foi furtado na Guarda do Embaú, em Palhoça/SC, enquanto o autor surfava (Evento 1 - INF10 - p. 6), cuja cobertura, contudo, foi negada pela ré, ao fundamento de que houve agravamento do risco (Evento 1 - INF10 - p. 8).
+A controvérsia recursal, portanto, gira em torno de definir se a parte autora faz jus, ou não, à cobertura securitária pretendida.
+De plano, salienta-se a aplicabilidade do Código de Defesa do Consumidor à relação jurídica em apreço, dada a presença das figuras do consumidor e do fornecedor de serviços disciplinadas nos artigos 2º e 3º, caput e § 2º, do referido texto legal.
+Dito isso, o contrato de seguro pode ser definido como "o negócio jurídico por meio do qual, mediante o pagamento de um prêmio, o segurado, visando a tutelar interesse legítimo, assegura o direito de ser indenizado pelo segurador em caso de consumação de riscos predeterminados".
+Sobre o tema, é o que prevê o Código Civil:
+Art. 757. Pelo contrato de seguro, o segurador se obriga, mediante o pagamento do prêmio, a garantir interesse legítimo do segurado, relativo a pessoa ou acoisa, contra riscos predeterminados.
+Conforme admitido na própria inicial, o autor digiriu-se até a praia da Guarda do Embaú para surfar, e, estando sozinho, houve por bem esconder as chaves sobre o pneu dianteiro do veículo. Após o surfe, ao retornar até o local em que tinha deixado o carro estacionado, deparou-se com o furto do veículo.
+Ocorre que, conforme salientado pela magistrada de origem, a apólice contratada pelo autor/apelante previa a perda de direitos nos casos em que "o sinistro for devido à culpa grave equiparável ao dolo do Segurado, seu Representante Legal, Beneficiário ou Condutor do veículo, assim como nos seguros de pessoas jurídicas, os atos dolosos praticados pelos sócios controladores, dirigentes e administradores legais, dos beneficiários e de seus representantes legais, bem como tendo o mesmo contribuído, por ação ou omissão, para o agravamento de risco" (Cláusula 12, alínea "g" - Evento 16 - INF 26 - p. 27).
+Em dado cenário, não se pode ignorar o fato de que as chaves do veículo foram "escondidas" em local deveras presumível - que dirá para um larápio -, ao que parece em que via pública, e longe do olhar do condutor, que estava no mar surfando.
+Assim, ainda que por omissão, houve agravamento do risco do contrato, haja vista que o acesso às chaves do automóvel foram facilitadas ao meliante, por meio de conduta livre e consciente do condutor, o que contribuiu para o sinistro, caracterizando, assim, perda do direito segurado, conforme previsto no contrato e no artigo 768 do Código Civil.
+Nesse contexto, modificara conclusão do Tribunal localquanto ao efetivoagravamentodo risco pelo segurado demandaria o reexamedo acervo fático-probatório, bem como a interpretação de cláusulas contratuais, o que se mostra inviável em razão dos óbices dasSúmulas 5 e7 do Superior Tribunal de Justiça. A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.SEGURODEVEÍCULO. ACIDENTE. CONDUTOR MENOR DE IDADE E SEM HABILITAÇÃO PARA DIRIGIR ADICIONADA A OUTRAS CAUSAS.AGRAVAMENTODO RISCO RECONHECIDO PELAS INSTÂNCIAS ORDINÁRIAS. CLÁUSULA DE EXCLUSÃO DE COBERTURA. AUSÊNCIA DE ABUSIVIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. A alteração da conclusão do Tribunal de origem (a respeito doagravamentodo risco por parte do segurado que entregou voluntariamente aschavesdo seuveículoao seu filho menor de idade e inabilitado, caracterizando a denominada culpa in vigilando), demandaria o revolvimento do conjunto fático-probatório do feito e a apreciação das cláusulas contratuais, o que não se admite nesta instância extraordinária, ante os óbices das Súmulas 5 e 7 do STJ.
+2. Agravo interno desprovido.
+(AgInt no AREsp 1775811/PR, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 22/11/2021, DJe 25/11/2021)
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO DE COBRANÇA DE INDENIZAÇÃO SECURITÁRIA - TRANSPORTE RODOVIÁRIO - ROUBO DE CARGA- AGRAVAMENTODO RISCO PELO SEGURADO - DECISÃO MONOCRÁTICA NEGANDO PROVIMENTO AO RECLAMO. INSURGÊNCIA DA TRANSPORTADORA.
+1. A alegação de afronta ao art. 535 do CPC/73 de forma genérica, sem efetiva demonstração de omissão do Tribunal a quo no exame de teses imprescindíveis para o julgamento da lide, impede o conhecimento do recurso especial ante a deficiência na fundamentação (Súmula 284/STF).
+2. Nos termos da jurisprudência desta Corte, a exoneração do dever da seguradora de pagamento da indenização do seguro, somente ocorrerá se a conduta direta do segurado configurar efetivoagravamento(culposo ou doloso) do risco objeto da cobertura contratada, consubstanciando causa determinante para a ocorrência do sinistro.
+3. A revisão da decisão estadual, que concluiu pela presença doagravamentodo risco pela transportadora face a ausência de consulta ao "Telerisco", nos termos do ajuste firmado, exige o reexame de matéria fática e interpretação de cláusulas contratuais, a teor dasSúmulas 5e 7 do STJ.
+4. Agravo interno desprovido.
+(AgInt no REsp 1577162/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 19/10/2017, DJe 25/10/2017)
+Em face do exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites previstos nos §§ 2º e 3º do referido dispositivo legal.
+Intimem-se.
