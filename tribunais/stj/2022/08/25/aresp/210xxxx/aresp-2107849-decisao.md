@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+APELAÇÃO CÍVEL - AÇÃO ORDINÁRIA - USO IRREGULAR DE SOFTWARE - MANUTENÇÃO E ATUALIZAÇÃO - SERVIÇOS NÃO PRESTADOS - LUCROS CESSANTES - NÃO COMPROVAÇÃO - VIOLAÇÃO A DIREITO AUTORAL - INDENIZAÇÃO - FIXAÇÃO - MAJORAÇÃO DEVIDA - CAUTELAR PREPARATÓRIA - PRETENSÃO NÃO RESISTIDA - SERVIÇOS CONTRATADOS - RESSARCIMENTO DESCABIDO - RECURSO PARCIALMENTE PROVIDO. 1. A violação à previsão de exclusividade na prestação dos serviços de manutenção e atualização de software, no período no qual reconhecido o indevido uso do programa, não dá causa à reparação por lucros cessantes, em referência aos serviços não prestados, sob pena de enriquecimento sem causa. 2. Considerando-se não haver o legislador pátrio estabelecido critérios objetivos para a fixação do montante indenizatório decorrente de violação a propriedade intelectual de programa de computador, cabe ao julgador arbitrá-lo, relevando o potencial lesivo da conduta e a medida repressora adequada á inibição de novas práticas, bem assim os proporcionalidade e da razoabilidade. 3. Analisando-se as circunstâncias fáticas descritas nos autos, com base nos critérios recomendados pela doutrina e pela jurisprudência, revela-se adequado o arbitramento da indenização em 10 (dez) vezes o valor programa de computador indevidamente utilizado. 4. Descabida a condenação da parte vencida a ressarcir à vencedora pelos serviços por ela livremente contratados, conforme sua conveniência, nos termos da jurisprudência do C. Superior Tribunal do Justiça. 5. Não havendo resistência ao pedido objeto da cautelar de produção antecipada de prova, inviável a condenação dos Apelados ao pagamento de custas processuais, de honorários advocatícios e de honorários periciais.
+Opostos embargos de declaração pelas partes, ambos foram rejeitados na origem.
+Nas razões do especial, aponta a agravante violação dos artigos 85 e 86 do Código de Processo Civil.
+Alega desacerto no acórdão estadual ao redimensionar os ônus sucumbenciais em recurso de apelação exclusivo da ora agravante, majorando em mais de cinco vezes a sucumbência fixada na sentença.
+Da análise dos autos, observo que suas alegações de ofensa à lei federal não merecem prosperar.
+De início, verifico que, no tocante ao aventado aumento dos ônus sucumbenciais da parte que teve o recurso de apelação provido, a agravante, apesar de interpor embargos de declaração a fim de sanar possível omissão no julgado estadual acerca de tal tema, nas razões do recurso especial não apontou violação ao art. 1.022 do CPC/15, ressaltando-se que na instância ordinária não se aplica o brocardo jura novit curia, de modo que incide o verbete n. 284, do STF.
+De igual teor:
+AGRAVO INTERNO. INTERPOSIÇÃO SOB A ÉGIDE DO CPC/2015. AÇÃO DE INDENIZAÇÃO C/C MANUTENÇÃO NA POSSE. CONTRATO DE ARRENDAMENTO. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 211 DO STJ E 282 DO STJ. INDENIZAÇÃO DE BENFEITORIAS. NÃO CABIMENTO. REVISÃO DE PROVAS E CLÁUSULAS CONTRATUAIS. SÚMULAS N. 5 E 7 DO STJ.
+1. Aplicam-se as Súmulas n. 211 do STJ e 282 do STF quando a questão suscitada no recurso especial não foi apreciada pela Corte de origem.
+2. O acesso à via excepcional, nos casos em que o Tribunal a quo, apesar da oposição de embargos declaratórios, não soluciona a omissão apontada, depende da veiculação, nas razões do recurso especial, de ofensa ao art. 535 do Código de Processo Civil.
+3. Incidem as Súmulas n. 5 e 7 do STJ se a tese defendida no recurso especial reclamar a análise de cláusula contratual e de elementos probatórios produzidos ao longo da demanda.
+4. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp 193.114/MS, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, DJe 18/8/2016)
+Ademais, mesmo que superado o óbice de admissibilidade, constato que a alteração da sucumbência pelo acórdão recorrido encontra respaldo na orientação jurisprudencial do Superior Tribunal de Justiça.
+Confira-se:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. HONORÁRIOS DE PROFISSIONAL LIBERAL. PRESTAÇÃO DE SERVIÇO. DEFEITO. APLICAÇÃO DA SÚMULA 7/STJ. PROVIMENTO DO RECURSO DE APELAÇÃO. ALTERAÇÃO DOS HONORÁRIOS. REFORMATIO IN PEJUS. INOCORRÊNCIA.
+1. A adoção de entendimento diverso por esta Corte acerca da regularidade da prestação de serviço, contrariamente à conclusão do acórdão recorrido, demandaria reexame do acervo fático-probatório dos autos, o que não é possível em recurso especial, nos termos do enunciado 7 da Súmula do STJ.
+2. A alteração da sucumbência das partes, decorrente de provimento de recurso, enseja o redimensionamento dos seus ônus, independentemente de pedido.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.112.813/MG, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 24/4/2018)
+Em face do exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Intimem-se.
