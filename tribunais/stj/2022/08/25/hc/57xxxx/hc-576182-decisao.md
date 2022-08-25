@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpusimpetrado em benefício de MILENA DA SILVA APARECIDO,apontando-se como autoridade coatora o Tribunal de Justiça de São Paulo (HC n. 2019436-13.2020.8.26.0000).
+Extrai-se dos autos que a paciente foi denunciada,ao lado de Ruan Aparecido da Costa, pela suposta práticados crimes previstos nos arts. 33, caput, e 35, caput,da Lei n. 11.343/2006 (Autos n. 0001929-88.2017.8.26.0417, da2ª Vara Judicial da comarca de Paraguaçu Paulista/SP).
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qualdenegou a ordem, em acórdão assim ementado (fl. 75):
+Habeas Corpus. Tráfico de drogas e associação para o tráfico. Trancamento da ação penal. Alegação de ocorrência de "bis in idem" com ação penal em que se apura o cometimento de mesma conduta delitiva. Não acolhimento. Peça acusatória que atende a todos os requisitos legais. Ação penal referida na inicial, em andamento na comarca de Assis, em que consta como acusados vinte e quatro pessoas, ação extremamente complexa, portanto, razão pela qual a análise da exceção de litispendência depende de apreciação profunda das provas, o que escapa aos estreitos limites do writ. Ordem denegada.
+No presente writ, sustenta haver"Bis in Idem", já que pelo mesmo inquérito policial nº 900005/2017 as fls. 1324-1325 (doc. em anexo),  a paciente estásendo julgada no processo nº 0000806-98.2017.8.26.0047 (fl. 4), ou seja, estásendo processada por duas vezes pelo mesmo fato(fl. 5).
+Requer, liminarmente e no mérito, a concessão da ordem para trancar a ação penal.
+A liminar foi indeferida (fls. 82/84).Prestadas informações (fls. 95/101), o Ministério Público Federal opinou pelo não conhecimento do writ (fls. 103/109). Vieram novas informações após solicitação (fls. 113/116 e 117/119).
+É o relatório.
+No caso, háconstrangimento ilegal apto a justificar a concessão da ordem.
+Ora, verifica-se da sentença proferida naAção Penal n. 0000806-98.2017.8.26.0047 (fls. 6.070, 6.089, 6.100, 6.101, 6.117 e 6.118 do documento na origem) que os fatos pelos quais os réus foramcondenadoscomo incursosnos arts. 33 e35 da Lei n.11.343/2006 - entre os quais a apreensão, no dia 21/2/2017, de uma porção de crack e uma balança de precisão no quarto da paciente (em residência localizada na Rua Felício Tarabay, Barra Funda, São Paulo)e a constatação de queo corréu Ruan Aparecido da Costa se utilizava do referido imóvel para guardar drogas -, estão sendo novamente apurados na Ação Penal n. 0001929-88.2017.8.26.0417, sem nenhum elemento novo,embora os inquéritos possuam portarias diferentes de instauração, já queaquela ação penal é bem mais abrangente do que esta.
+Por conseguinte, constata-se havero alegado bis in idem, e, diante dotrânsito em julgado da primeira ação penal (Autos n. 0000806-98.2017.8.26.0047),com a expedição de guia de execução definitiva em desfavor dosréus, o trancamento daação penal objeto deste writ é medida que se impõe.
+Nesses termos é ajurisprudência desta Corte Superior:
+RECURSO EM HABEAS CORPUS. OPERAÇÃO FARAÓ. CRIME CONTRA A ECONOMIA POPULAR. ESTELIONATO. BIS IN IDEM. OCORRÊNCIA. TRANCAMENTO DO PROCESSO QUANTO AOS AVENTADOS CRIMES DE ESTELIONATO. RECURSO PROVIDO.
+1. A controvérsia em análise cinge-se à configuração de crime único e à ocorrência de bis in idem, diante da imputação, ao ora recorrente, da incursão nos arts. 171 do Código Penal e 2º, IX, da Lei n. 1.521/1951.
+2. Importante distinção entre os aspectos material e processual do ne bis in idem reside nos efeitos e no momento em que se opera essa regra. Sob a ótica da proibição de dupla persecução penal, a garantia em tela impede a formação, a continuação ou a sobrevivência da relação jurídica processual, enquanto que a proibição da dupla punição impossibilita tão somente que alguém seja, efetivamente, punido em duplicidade, ou que tenha o mesmo fato, elemento ou circunstância considerados mais de uma vez para se definir a sanção criminal.
+3. No caso em análise, vê-se que a descrição das circunstâncias fáticas que permeiam os ilícitos imputados ao recorrente  crime contra a economia popular e estelionatos  são semelhantes, pois mencionam a prática de "golpe" em que ele e os coacusados induziriam as vítimas em erro, mediante a promessa de ganhos financeiros muito elevados, com o intuito de levá-las a investir em suposta empresa voltada a realizar apostas em eventos esportivos. A diferença está na identificação dos ofendidos nos estelionatos.
+4. Em situação similar, esta Corte Superior já decidiu que, nas hipóteses de crime contra a economia popular por pirâmide financeira, a identificação de algumas das vítimas não enseja a responsabilização penal do agente pela prática de estelionato.
+Precedentes.
+5. Recurso provido para, diante do bis in idem identificado na hipótese, determinar o trancamento do processo, em relação ao ora recorrente, no que atine aos crimes de estelionato (fatos 4º ao 29º da denúncia).
+(RHC n. 132.655/RS, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe30/9/2021 - grifo nosso)
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. CRIME DE TORTURA. TRANCAMENTO DA PERSECUÇÃO PENAL PERANTE A JUSTIÇA COMUM ESTADUAL. POSSIBILIDADE. ABSOLVIÇÃO PERANTE A JUSTIÇA MILITAR. MESMOS FATOS E CONTEXTO TEMPORAL. CAPITULAÇÕES JURÍDICAS DISTINTAS. IRRELEVÂNCIA. BIS IN IDEM CONFIGURADO. PRECEDENTES. AGRAVO REGIMENTAL NÃO PROVIDO.
+- A Corte de origem reconheceu que os fatos imputados nas denúncias, militar e estadual, são os mesmos, não acolhendo, contudo, a tese de exceção de coisa julgada, ao argumento de que, apesar de os fatos terem sido cometidos no mesmo contexto, as condutas imputadas ao impetrante/paciente, ao menos até o que consta, são distintas (e-STJ, fl. 139).
+- Todavia, a circunstância de as imputações se referirem a tipos penais diversos - art. 209, § 1º e § 2º, do Código Penal Militar (lesão corporal de natureza grave), e art. 1º, I, "a" e §§ 1º e 4º, ambos da Lei n. 9.455/1997 (crime de tortura) - não afasta a ocorrência de bis in idem quando os fatos atribuídos aos denunciados são rigorosamente os mesmos, pois o réu se defende dos fatos e não da tipificação penal que lhes é atribuída. Precedentes.
+- Agravo regimental não provido.
+(AgRg no RHC n. 125.997/MG, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe18/6/2020 - grifo nosso)
+Em face do exposto, concedo a ordem para trancar a Ação Penal n. 0001929-88.2017.8.26.0417.
+Comunique-se.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O NARCOTRÁFICO. TRANCAMENTO DA AÇÃO PENAL.BIS IN IDEM. CONFIGURAÇÃO. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Ordem concedida nos termos do dispositivo.
