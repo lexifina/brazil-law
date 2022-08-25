@@ -1,0 +1,19 @@
+DECISÃO
+BANCO TOYOTA DO BRASIL S/A agrava de decisão que indeferiu o processamento do recurso especial, interposto com fundamento na alínea "a" do permissivo constitucional, contra acórdão proferido pelo Tribunal Regional Federal da 2ª Região, que negou provimento ao recurso de apelação, no qual pretendia fosse dado baixa em constrição judicial de sequestro de veículo, visto se tratar de terceiro de boa-fé.
+Em suas razões, afirma o insurgente, em síntese, que a análise do caso prescinde do reexame de provas, ao contrário do que afirmou a decisão impugnada. No particular, assinala que é terceiro de boa-fé e legítimo proprietário do bem, o qual se encontrava sob alienação fiduciária, e que tudo ficou devidamente comprovado.
+Aduz que a baixa na constrição judicial de sequestro ficou condicionada ao depósito das parcelas pagas pelo devedor fiduciante, supostamente envolvido em lavagem de dinheiro. Nessa perspectiva, defende que "tanto o veículo objeto de constrição judicial e as parcelas pagas pelo devedor fiduciante ao financiamento integram o seu patrimônio, não havendo como lhe impor as consequências jurídicas da prática delitiva cometida por terceiro, sob pena de inevitável violação do princípio da individualização das penas" (fl. 229).
+Diante disso, requer seja dado provimento ao agravo, com o devido processamento e exame do mérito do recurso especial.
+Ouvido, manifestou-se o Ministério Público Federal pelo conhecimento do agravo para que não seja conhecido o recurso especial (fls. 251-256).
+Decido.
+A decisão que inadmitiu o processamento do especial não merece reparos, notadamente quando afirma que o reexame do caso encontra óbice na Sumula n. 7 do STJ. Com efeito, malgrado não haja controvérsias quanto à propriedade do veículo, o acórdão proferido na origem, em relação à constrição judicial sobre o bem, destacou o seguinte (fl. 120, destaquei):
+ ..
+Além disso, também é evidente que o apelante é terceiro de boa-fé, já que este não possui nenhuma responsabilidade perante os crimes atribuídos ao devedor fiduciário PASQUALE CAVATERRA.
+Contudo, não merece prosperar a irresignação do apelante. Ora, o bem sofreu constrição porque restara evidenciada, na medida cautelar de sequestro 0502531-71.2016.4.02.5101, a existência de indícios de que os bens do devedor fiduciário foram adquiridos com recursos oriundos da prática de crimes antecedentes ao crime de lavagem, o mesmo ocorrendo com as parcelas pagas por PASQUALE CAVATERRA.
+Dessa forma, é possível inferir que as parcelas adimplidas referentes ao pagamento do financiamento acordado entre o apelante e PASQUALE CAVATERRA também seriam produto dos crimes antecedentes praticados.
+ ..
+No caso, não há que se falar de transferência do veículo do réu ao embargante, mas da hipótese contrária, qual seja, a devolução dos pagamentos feitos com valores obtidos ilicitamente por Pasquale em troca da transferência do veículo apreendido.
+Logo, o que se pretende pela medida atacada a restituição de tais valores, evitando-se o enriquecimento sem causa do terceiro em detrimento da Sociedade.
+Como se observa, a manutenção da constrição se baseia, exclusivamente, no fato de que o insurgente deve restituir os valores pagos pelo devedor fiduciante, os quais supostamente seriam decorrentes da prática de crime. Não há como afastar a existência desses pagamentos ou mesmo como desconsiderá-los, visto que os valores interessam ao processo penal e tiveram suposta origem delituosa.
+De igual forma, tal quadro está lastreado em todo o material cognitivo produzido pelas instâncias ordinárias (premissas fáticas), cujas conclusões, relativamente aos próprios valores utilizados pagamento das parcelas pelo devedor, não podem ser infirmadas por esta Corte, dada a necessidade de reexame de provas (incidência da Súmula n. 7 do STJ).
+À vista do exposto, com fundamento no art. 34, XVIII, "b", do RISTJ, nego provimento ao agravo em recurso especial.
+Publique-se e intimem-se.
