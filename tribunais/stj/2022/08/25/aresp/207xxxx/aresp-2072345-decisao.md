@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto porGEANI VANDEIRA DA SILVA,contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, na(s) alínea(s) "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 08/06/2021.
+Concluso ao gabinete em: 19/05/2022.
+Ação:anulatória de contrato de compra e venda de imóvel, ajuizada pela agravante, em face de ILSON FERREIRA LIMA, em razão de alegado desconhecimento acerca da venda do bem.
+Sentença:declarou a decadência do direito invocado.
+Acórdão:negou provimento à apelação interposta pela agravante, nos termos da seguinte ementa:
+NEGÓCIO JURÍDICO. Ação anulatória. Insurgência contra sentença que extinguiu o feito, com resolução de mérito,reconhecendo a decadência do direito alegado na inicial.Delimitação do termo inicial do prazo de 4anos previsto no art.178, II, do CC. Afastamento do principio da "actio nata".Pessoa capaz e alfabetizada que assinou o contrato sem qualquer ressalva, demonstrando conhecimento inequívoco de seu teor na data de celebração. Decadência verificada. Sentença mantida.Honorários majorados para o importe correspondente a 15% do valor atualizado da causa, com base no trabalho adicional realizado em grau recursal (art. 85, §11, CPC), observada a gratuidade judiciária concedida à parte vencida durante otrâmite do processo. Litigância de má-fé. Alegação afastada.Inteligência do art.80 do CPC. RECURSO DESPROVIDO, majorados os honorários fixados em Primeiro Grau.
+Recurso especial: alega violação do art. 489, §1º, I, II, IV, V e VI, do CPC/15. Sustenta que, tanto na sentença quanto no acórdão, não houve a devida fundamentação nem a apreciação de questões relevantes ao mérito da demanda, qual seja, o dolo praticado pelo agravado.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação doart.489 do CPC/2015
+O TJ/SP foi claro ao concluir que não há como afastar o reconhecimento da decadência. Fundamentou que: i) se tratando de pessoa capaz e alfabetizada que subscreveu o documento sem qualquer ressalva, não prospera a alegação de que seu teor foi assimilado em momento posterior; ii) todas as páginas estão devidamente rubricadas, o que é suficiente para afastar o princípio daactio natana delimitação do termo inicial; iii) a agravante apenas contesta a assinatura do recibo, sem impugnar a que foi lançada no contrato; iv) nos termos do art. 178, II, do CC/02, é de 4 anos o prazo decadencial para pleitear a anulação do negócio jurídico, contado do dia em que se realizou o negócio jurídico, na hipótese de erro, dolo, fraude contra credores, estado de perigo ou lesão.
+Dessa maneira, foram devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional.
+É firme a jurisprudência do STJ no sentido de que inexiste afronta ao art. 489 do CPC/15 quando o órgão julgador se pronuncia de forma clara e suficiente acerca das questões suscitadas nos autos, não havendo necessidade de se construir textos longos e individualizados para rebater uma a uma cada argumentação, quando é possível aferir, sem esforço, que a fundamentação não é genérica (AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/2/2018; e AgInt no REsp 1.683.290/RO, 3ª Turma, DJe de 23/2/2018).
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 489 do CPC/15, incidindo a Súmula 568/STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932,IV, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO do recurso especial e NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 15% sobre o valor atualizado da causa(e-STJ fl. 355) para 20%, observada eventual concessão da gratuidade de justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO ANULATÓRIA DE NEGÓCIO JURÍDICO. CONTRATO DE COMPRA E VENDA DE IMÓVEL. ALEGADO DESCONHECIMENTO ACERCA DA VENDA DO BEM.VIOLAÇÃO DO ART. 489 DO CPC/15. INOCORRÊNCIA.
+1. Ação anulatória de contrato de compra e venda de imóvel em razão de alegado desconhecimento acerca da venda do bem.
+2. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação doart. 489 do CPC/15.
+3. Agravo conhecido. Recurso especial conhecido e não provido.
