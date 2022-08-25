@@ -1,0 +1,11 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por MARCOS VINICIUS DA SILVA PEDRO contra a decisão que não conheceu do pedido de reconsideração diante de sua intempestividade.
+Em suas razões, sustenta a parte embargante que "o decisum não poderia desvirtuar-se de seu objeto, quer seja, decidir nos contornos do requerimento formulado, no sentido de reconhecer a indevida interpretação de que ocorreu um deslocamento tácito da regra que disciplina o agravo regimental/interno do artigo 28, § 5º, da Lei n. 8.038/90 para o artigo 39 do mesmo diploma, sem qualquer alteração legislativa neste sentido, ao invés de reconhecer que cabe à norma revogadora do artigo 28, § 5º, da referida lei, disciplinar o instituto revogado." (fl. 13, expediente avulso).
+Requer, assim, o conhecimento e o acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a retirar ambiguidade, esclarecer obscuridade, eliminar contradição e suprir omissão existentes no julgado, o que não se verifica na hipótese.
+A propósito, a Terceira Seção desta Corte Superior dirimiu a divergência jurisprudencial no concernente à aplicação dos arts. 219, 1.003, § 5º, e 1.070 do Código de Processo Civil no Processo Penal, ao firmar posicionamento no sentido de que o prazo para interposição do agravo regimental é de 5 (cinco) dias corridos, consoante o disposto nos arts. 798 do Código de Processo Penal; 39 da Lei n. 8.038/1990; e 258 do Regimento Interno do STJ.
+Ressalte-se que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, os EDcl no AgRg nos EREsp n. 1.315.507/SP, relator Ministro Luis Felipe Salomão, Corte Especial, DJe de 28/8/2014.
+Assim, não há nenhuma irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou ambiguidade).
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
