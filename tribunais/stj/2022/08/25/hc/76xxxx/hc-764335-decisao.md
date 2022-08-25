@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra acórdão assim ementado (fl. 412):
+HABEAS CORPUS. PACIENTE PRESO PREVENTIVAMENTE E INVESTIGADO PELA SUPOSTA PRÁTICA DO DELITO PREVISTO NO ART. 180, § 1º, DO CÓDIGO PENAL.PRETENSÃO DE REVOGAÇÃO DA PRISÃO PREVENTIVA. MEDIDA QUE VISA GARANTIR A ORDEM PÚBLICA E A CONVENIÊNCIA DA INSTRUÇÃO CRIMINAL DIANTE DA GRAVIDADE CONCRETA DO DELITO. DECISÃO FUNDAMENTADA. EVENTUAIS PREDICADOS FAVORÁVEIS QUE NÃO OBSTAM A SEGREGAÇÃO QUANDO DEMONSTRADA SUA NECESSIDADE. MEDIDAS CAUTELARES DIVERSAS INSUFICIENTES NA HIPÓTESE. CUSTÓDIA PREVENTIVA QUE NÃO CONFIGURA CUMPRIMENTO ANTECIPADO DE REPRIMENDA E NÃO AFRONTA O PRINCÍPIO DA PRESUNÇÃO DE INOCÊNCIA QUANDO EVIDENCIADA SUA NECESSIDADE. CONSTITUIÇÃO FEDERAL, ART.5º, INCISO LXI.
+ORDEM CONHECIDA E DENEGADA.
+Narram os autos que opaciente foi presoem flagrante, custódia essa convertidaem preventiva, pela suposta prática do crime previsto no art. 180, § 1º, do Código Penal.
+Sustenta a defesa, em suma, ausência dos requisitos autorizadores da prisão preventiva, requerendo, liminarmente e no mérito, sua revogação, ainda que aplicadas medidas cautelares diversas do cárcere.
+O rito dohabeas corpusdemanda prova documental pré-constituída do direito alegado pelo impetrante.
+Compulsando o presente feito, constato que a peça inicial veio desacompanhada da fundamentação adotada no éditoprisionalcautelar, apenas constando à fl. 106: "Aberta audiência realizada por videoconferência, presentes os acima nominados. Ao conduzido foi oportunizada entrevista reservada com seu defensor. Ato continuo, o Magistrado questionou o conduzindo acerca de eventual violência, tendo ele respondido negativamente. Em seguida, as partes se manifestaram com relação à decretação da prisão preventiva. Pelo MM. Juiz foi proferida a seguinte decisão: "1) Ante o exposto, HOMOLOGO A PRISÃO EM FLAGRANTE de Arnaldo Adolfo Pinto e, nos termos da fundamentação, a CONVERTO EM PRISÃO PREVENTIVA, conforme fundamento nos argumentos orais; 2) Ao Ministério Público para requerer o que entender de direito".
+A degravação desteaudiovisualédocumento indispensável para odeslindeda controvérsia.
+É pacífico o entendimento desta Corte Superior que o procedimento do habeas corpus não permite a dilação probatória, pois exige prova pré-constituída das alegações, sendo ônus do impetrante trazê-la no momento da impetração (AgRg no HC n. 289076/SP - 5ª T. - unânime - Rel. Min. Regina Helena Costa - DJe 19/5/2014; AgRg no HC n. 291366/PE - 6ª T. - unânime - Rel. Min. Rogério Schietti Cruz - DJe 29/5/2014; HC n. 269077/PE - 6ª T. - Rel. Min. Sebastião Reis Júnior - DJe 2/6/2014).
+A ausência de peçasessenciaisaodeslindeda controvérsia impede a análise, de plano, da plausibilidade do pedido formulado no habeas corpus.
+A juntada de peçasessenciaisaodeslindeda controvérsia é ônus da defesa, a quem cabe protocolizar a degravação da mídia dodecreto prisional.
+Ante o exposto, indefiro liminarmente ohabeas corpus.
+Publique-se.
+Intimem-se.
