@@ -1,0 +1,12 @@
+DECISÃO
+VAGNER DOS SANTOSalega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Alagoas (Apelação Criminal n. 0802262-24.2021.8.02.0000).
+Consta dos autos que o paciente foi condenado a 6 anos de reclusão, em regime inicial semiaberto, mais multa, pela prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006.
+A defesa pretende, por meio deste writ, a fixação do regime inicial semiaberto, por entender não haver fundamento idôneo para imposição do modo mais gravoso.
+Indeferida a liminar e prestadas as informações, o Ministério Público Federal opinou pelo não provimento do recurso.
+Decido.
+Em relação ao modo de cumprimento da reprimenda, faço lembrar que, uma vez reconhecida, incidentalmente, a inconstitucionalidade do óbice contido no § 1º do art. 2º da Lei n. 8.072/1990 (STF, HC n. 111.840/ES, DJ 17/12/2013), a escolha do regime inicial de cumprimento de pena deve levar em consideração a quantidade da reprimenda imposta, a eventual existência de circunstâncias judiciais desfavoráveis, bem como as demais peculiaridades do caso concreto (como, por exemplo, a quantidade, a natureza e/ou a diversidade de drogas apreendidas), para que, então, seja fixado o regime carcerário que se mostre o mais adequado para a prevenção e a repressão do delito perpetrado, nos termos do art. 33 e parágrafos do Código Penal - com observância também ao disposto no art. 42 da Lei n. 11.343/2006.
+No caso, a Corte estadual manteve a fixação do modo mais gravoso, pois "o Magistrado utilizou fundamentação idônea para impor o regime fechado, levando em consideração a expressiva quantidade de droga apreendida- aproximadamente 820g  ..  de maconha- motivação que, inclusive, levou à exasperação da pena-base (circunstâncias do crime)" (fl. 430, grifei).
+Portanto, em homenagem ao princípio do livre convencimento motivado e uma vez que foi apontado argumento concreto e específico dos autos para a escolha do regime prisional fechado, não há como esta Corte simplesmente se imiscuir no juízo de proporcionalidade feito pelo Tribunal de origem para, a pretexto de ofensa do art. 33, § 2º, do CP, fixar regime inicial mais brando de cumprimento de pena ao acusado.
+Não há falar, portanto, em inobservância ao enunciado nas Súmulas ns. 718 e 719 do STF e 440 do STJ. Fica, então, mantida inalterada a fixação do regime inicial fechado de cumprimento de pena.
+À vista do exposto, nego provimento ao recurso em habeas corpus.
+Publique-se e intimem-se.
