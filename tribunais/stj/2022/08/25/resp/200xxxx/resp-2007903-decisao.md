@@ -1,0 +1,58 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto pela UNIÃO contra acórdão prolatado, por unanimidade, pela 3ª Turma do Tribunal Regional Federal da 5ª Região no julgamento de Agravo de Instrumento, assim ementado (fl. 127e):
+PROCESSUAL CIVIL. PROCESSO DE HABILITAÇÃO DE HERDEIRO. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. CAPACIDADE PROCESSUAL. QUESTÃO JÁ SUBMETIDA A JULGAMENTO DESTA CORTE. COISA JULGADA/PRECLUSÃO. AGRAVO DE INSTRUMENTO NÃO PROVIDO.
+1. Agravo de instrumento contra decisão que, em processo incidental de habilitação, deferiu o pedido de habilitação e reexpedição de precatório em favor dos herdeiros de exequente falecido.
+2. A agravante defende, em síntese a inexistência de capacidade processual para a propositura do cumprimento de sentença/execução em epígrafe, por ter o autor falecido antes do ajuizamento da ação de conhecimento.
+3. A questão trazida a julgamento através do presente recurso já foi submetida à apreciação por este egrégio Tribunal e pela interposição, pelo Sindicato dos Servidores do Ministério da Economia, Fazenda e Planejamento do Estado da Paraíba - SINDECON, do Agravo de Instrumento nº 0801488-19.2016.4.05.0000, o qual foi provido por esta Corte (que considerou válida a execução proposta pelo Sindicato mesmo após o óbito do substituído de que trata o feito) e transitou em julgado em 19/03/2020.
+4. O ordenamento processual brasileiro veda o julgamento de decisão de mérito não mais sujeita a recurso (coisa julgada material) e a discussão no curso do processo de questões já decididas a cujo respeito se operou a preclusão, nos termos dos arts. 502 e 207 do Código de Processo Civil.
+5. Agravo de instrumento não provido.
+Opostos Embargos de Declaração, foram rejeitados (fls. 164/165e).
+Com amparo no art. 105, III, a e c, da Constituição da República de 1988, aponta-se, além de divergência jurisprudencial, ofensa ao art. 1.022 do Código de Processo Civil de 2015, bem como aos arts. 313, I, §§ 1º e 2º, II, e 485, IV, do estatuto processual, e 6º, 682, II, e 692 do Código Civil, alegando-se, em síntese, ausência de capacidade processual, uma vez que o servidor já era falecido quando do ajuizamento da ação, não possuindo a entidade sindical legitimidade para substituí-lo, em execução de sentença
+Sem contrarrazões (certidão de fl. 202e), o recurso foi admitido (fl. 203e).
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Nos termos do art. 932, III, do Código de Processo Civil de 2015, combinado com os arts. 34, XVIII, a, e 255, I, ambos do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida.
+Não obstante interposto contra acórdão proferido em agravo de instrumento, entendo relevante registrar o cabimento do presente Recurso Especial, porquanto ausente a possibilidade de modificação do decisum originário, considerando não se tratar de decisão precária. Portanto, a insurgência endereçada a esta Corte é o caminho apropriado para impedir a preclusão da matéria.
+Não obstante interposto contra acórdão proferido em agravo de instrumento, entendo relevante registrar o cabimento do presente Recurso Especial, porquanto ausente a possibilidade de modificação do decisum originário, considerando não se tratar de decisão precária. Portanto, a insurgência endereçada a esta Corte é o caminho apropriado para impedir a preclusão da matéria.
+Quanto ao suscitado vício integrativo, não se pode conhecer da apontada violação ao art. 1.022 do Código de Processo Civil, uma vez que o recurso se cinge a alegações genéricas - limitando-se a repisar a rejeição dos aclaratórios na origem - e, por isso, não demonstra, com transparência e precisão, qual seria o ponto omisso, contraditório ou obscuro do acórdão recorrido, bem como a sua importância para o deslinde da controvérsia, o que atrai o óbice da Súmula n. 284 do Supremo Tribunal Federal, aplicável, por analogia, no âmbito desta Corte.
+Nesse sentido:
+RECURSO FUNDADO NO NOVO CPC/2015. TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALEGADA VIOLAÇÃO DO ART. 1.022 DO CPC/15. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. ALEGAÇÃO DE INFRINGÊNCIA À SÚMULA. IMPOSSIBILIDADE. EXTINÇÃO DA EXECUÇÃO FISCAL. CANCELAMENTO DA CDA. HONORÁRIOS ADVOCATÍCIOS. POSSIBILIDADE.
+1. É deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 1022 do CPC se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Aplica-se, na hipótese, o óbice da Súmula 284 do STF.
+2. No que se refere à alegação de infringência à Súmula, esta Corte firmou entendimento de que enunciado ou súmula de tribunal não equivale a dispositivo de lei federal, restando desatendido o requisito do art. 105, III, a, da CF.
+3. A jurisprudência desta Corte é uníssona no sentido de que, sobrevindo extinção da execução fiscal em razão do cancelamento da certidão de dívida ativa após a citação válida do executado, a Fazenda Pública deve responder pelos honorários advocatícios, em homenagem ao princípio da causalidade. Precedentes: AgRg no AREsp 791.465/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 23/08/2016, DJe 31/08/2016; REsp 1648213/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 14/03/2017, DJe 20/04/2017.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.134.984/MG, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 20/02/2018, DJe 06/03/2018 - destaques meus).
+PROCESSO CIVIL. ADMINISTRATIVO. RECURSO ESPECIAL. DEFICIÊNCIA NA ALEGAÇÃO DE CONTRARIEDADE AO ART. 1.022 DO CPC/2015. INCIDÊNCIA DA SÚMULA 284/STF. SERVIDOR PÚBLICO MUNICIPAL. REENQUADRAMENTO. PRESCRIÇÃO DE FUNDO DE DIREITO. CARACTERIZAÇÃO.
+1. É deficiente a fundamentação do recurso especial em que a alegada ofensa ao art. 1.022 do CPC/2015 se faz sem a demonstração objetiva dos pontos omitidos pelo acórdão recorrido, individualizando o erro, a obscuridade, a contradição ou a omissão supostamente ocorridos, bem como sua relevância para a solução da controvérsia apresentada nos autos. Incidência da Súmula 284/STF.
+2. É cediço que o enquadramento ou o reenquadramento de servidor público é ato único de efeitos concretos, o qual não reflete uma relação de trato sucessivo. Nesses casos, a pretensão envolve o reconhecimento de uma nova situação jurídica fundamental, e não os simples consectários de uma posição jurídica já definida. A prescrição, portanto, atinge o próprio fundo de direito, sendo inaplicável o disposto na Súmula 85/STJ. Precedentes.
+3. Recurso especial conhecido em parte e, nessa extensão, não provido.
+(REsp 1.712.328/MG, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 03/04/2018, DJe 09/04/2018 - destaques meus).
+Por outro lado, verifico que o Recorrente deixou de impugnar especificamente o único fundamento do acórdão recorrido, qual seja, a preclusão por força de coisa julgada, nos termos dos arts. 207 e 502 do estatuto processual de 2015, à vista do trânsito em julgado, em 19.03.2020, de acórdão proferido pela Corte a qua, em sede de Agravo de Instrumento (fl. 122e).
+Dessarte, o recurso não merece prosperar, ante a ausência de pressuposto recursal genérico, consistente na impugnação específica do fundamento da decisão recorrida, o que equivale à conclusão de que a fundamentação do próprio recurso é deficiente, atraindo, mais uma vez, o óbice da Súmula n. 284 do Supremo Tribunal Federal, segundo a qual "é inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia".
+Espelhando tal entendimento, os seguintes precedentes:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AÇÃO COLETIVA. ENTIDADE SINDICAL. INADEQUAÇÃO DA VIA ELEITA. OFENSA AO ART. 535 DO CPC NÃO CONFIGURADA. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO AUTÔNOMO.
+DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULAS 283 E 284/STF. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. A solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 535 do CPC.
+(..)
+3. A fundamentação utilizada pelo Tribunal a quo para firmar seu convencimento não foi inteiramente atacada pela parte recorrente e, sendo apta, por si só, para manter o decisum combatido, permite aplicar na espécie, por analogia, os óbices das Súmulas 284 e 283 do STF, ante a deficiência na motivação e a ausência de impugnação de fundamento autônomo.
+4. Ademais, a revisão do entendimento adotado no acórdão recorrido implica reexame de fatos e provas, obstado pelo teor da Súmula 7/STJ.
+5. Agravo Regimental não provido.
+(AgRg no REsp 1.406.678/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 05/08/2014, DJe 18/08/2014).
+TRIBUTÁRIO. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. EXIGÊNCIA DE SALDO REMANESCENTE. AUSÊNCIA DE DESCONSTITUIÇÃO INTEGRAL DO DÉBITO NO PROCESSO ADMINISTRATIVO. FUNDAMENTO INATACADO. SÚMULA 283/STF. ALCANCE DESSE PROCESSO. SÚMULA 7/STJ.
+1. O fundamento central do acórdão recorrido foi o fato de que não houve a desconstituição integral do lançamento tributário no processo administrativo - sendo que permaneceu válida a exigência dos juros de mora e da multa -, aplicando-se, desse modo, a inteligência do verbete sumular 283 do Supremo Tribunal Federal, pois a recorrente não atacou esse fundamento, tecendo apenas comentários referente à impossibilidade de alteração do critério de interpretação legal em lançamento já realizado, ignorando, por completo referido fundamento do acórdão de que a cobrança refere-se aos valores remanescentes dos juros e da multa.
+(..)
+3. Agravo regimental não provido.
+(AgRg no REsp 1.237.714/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 27/03/2014, DJe 02/04/2014).
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OFENSA AO ART. 535 DO CPC. VIOLAÇÃO GENÉRICA. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. ART. 42 DO CDC. DEVOLUÇÃO EM DOBRO DA TARIFA COBRADA. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 7/STJ. FUNDAMENTO DO ACÓRDÃO RECORRIDO INATACADO. INCIDÊNCIA DA SÚMULA 283/STF.
+1. É deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 535 do CPC se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Aplica-se, na hipótese, o óbice da Súmula 284 do STF.
+(..)
+4. Em relação à legalidade da tarifa progressiva, o recurso especial não impugnou fundamento basilar que ampara o acórdão recorrido sobre o tema e, por isso, o apelo extremo esbarra no obstáculo da Súmula 283/STF.
+5. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 402.148/RJ, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 20/03/2014, DJe 28/03/2014).
+PROCESSO CIVIL - RECURSO ESPECIAL - AGRAVO REGIMENTAL - FGTS - ART. 29-C DA LEI 8.036/90 - FUNDAMENTO INATACADO - SÚMULA 284 DO STF.
+1. Recurso especial que não atacou o fundamento utilizado pelo tribunal de origem. Falta de pressuposto recursal genérico.
+2. Agravo regimental improvido.
+(AgRg no REsp 662.152/CE, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, julgado em 03/05/2005, DJ 13/06/2005, p. 259).
+Posto isso, com fundamento nos arts. 932, III, do Código de Processo Civil de 2015 e 34, XVIII, a, e 255, I, ambos do RISTJ, NÃO CONHEÇO do Recurso Especial.
+Publique-se e intimem-se.
