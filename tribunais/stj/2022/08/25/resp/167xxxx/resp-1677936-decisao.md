@@ -1,0 +1,19 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto peloINSTITUTO BRASILEIRO DO MEIO AMBIENTE E DOS RECURSOS NATURAIS RENOVAVEIS - IBAMA, com fundamento na alínea "a" do inciso III do art. 105 da CF/1988, contra acórdão proferido peloTRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃOassim ementado:
+ADMINISTRATIVO. AMBIENTAL. IBAMA. AUTO DE INFRAÇÃO. MULTA. RESPONSABILIDADE SOLIDÁRIA. DIRETOR-PRESIDENTE DA PESSOA JURÍDICA. POSSIBILIDADE LOTEAMENTO. ART 10 DA LEI 6938/81. AUTORIZAÇÃO MUNICIPAL LEI Nº 6766/79. RECURSO DE APELAÇÃO. DESPROVIDO.
+Os embargos de declaração foram rejeitados (e-STJ, fls. 367-375).
+O recorrente defende, em síntese: i) vício de fundamentação acerca do teor da autorização da municipalidade e da natureza do ilícito administrativo-ambiental (art. 535 do CPC/1973); e ii) inexistência de licenciamento ambiental prévio, de modo a ensejar a multa (arts. 60 e 70, § 1º, da Lei n. 9.605/1998; 2º, II, e 44 do Decreto n. 3.179/1999; e 10, § 2º, da Lei n. 6.938/1981).
+Sem contrarrazões, o recurso especial foi admitido por decisão desta Corte (e-STJ, fls. 429-430).
+Parecer pelo provimento (e-STJ, fls. 424-427).
+Processo com preferência legal (art. 12, § 2º, VII, do CPC/2015, combinado coma Meta 2/CNJ/2022- "Identificar e julgar, até 31/12/2022, pelo menos 99% dos processos distribuídos até 31/12/2017e 95% dos distribuídos em 2018" eMeta 12/CNJ/2022- "Identificar e julgar 65% dos processos relacionados às ações ambientais, distribuídos até 31/12/2021").
+É o relatório.
+Os embargos de declaração são cabíveis para sanar omissão, contradição ou obscuridade do julgado recorrido e corrigir erros materiais.
+Para acolhimento da pretensão de nulidade de julgamento dos aclaratórios por não saneamento de vício de fundamentação, faz-se necessário o preenchimento de alguns requisitos nas razões recursais: i) que a matéria tenha sido invocada anteriormente ao acórdão recorrido, tenha nele surgido de forma inaugural ou, ainda, trate-se de matéria de ordem pública; ii) tenham sido opostos os devidos aclaratórios; iii) a matéria objeto do vício seja fundamental à alteração do resultado da causa, inclusive pela insuficiência de outros argumentos para a manutenção do acórdão; e iv) estejam indicados nas razões do especial, objetivamente, os vícios e suas consequências processuais.
+No caso, o recorrente demonstra objetivamente os pontos viciados do acórdão combatido, individualizando a omissão supostamente ocorridos, tudo articulado comsua relevância para a solução da controvérsia.
+Especificamente, embora devidamente provocada, a origem não esclareceu sua compreensão acerca da natureza do documento da municipalidade. A própria ementa distingue entre a autorização e o licenciamento. Transcrevo (e-STJ, fl. 256):
+7. Verifica-se que o projeto de loteamento havia sido devidamente aprovado pelo Município, conforme se infere do Protocolo 8659/96 (fl. 29). Frise-se, ademais, que, a Empresa de Águas Pádua S. A. não deu prosseguimento ao empreendimento, em razão da impossibilidade de exploração comercial da área, de modo que resta justificada a paralisação do procedimento de licenciamento ambiental (fls.127/131 e 133/146).
+O acórdão integrativo limita-se a reiterar o voto da apelação, sem esclarecer o ponto omisso sobre matéria que pode inviabilizar o acesso às instâncias excepcionais.
+O acolhimento da pretensão prejudica o exame das demais questões.
+Ante o exposto, com fulcro no art. 932, III e V, do CPC/2015, c/c o art. 255, § 4º, I e III, do RISTJ, conheço em parte do recurso especial e, nessa extensão, dou-lhe provimentoparareconhecer o vício de fundamentação acerca da natureza da autorização municipal para o loteamento para fins ambientais. Determino, portanto, o retorno dos autos para a Corte de origem sanar a omissão apontada.
+Publique-se. Intimem-se.
