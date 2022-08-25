@@ -1,0 +1,10 @@
+DECISÃO
+O presente writ, impetrado em benefício de Diego Robatini Leme - cumprindo pena privativa de liberdade em razão de condenação pela prática do crime de tráfico de drogas -, em que se aponta como autoridade coatora o Tribunal de Justiça de São Paulo (Agravo em Execução Penal n. 0002808-37.2022.8.26.0509), não comporta processamento.
+Com efeito, busca a impetração a retificação do cálculo de penas, ao argumento de queanalisando cuidadosamente a legislação vigente, não há mais norma que equipare o tráfico de drogas a crime hediondo para fins exclusivos de imposição de percentuais diferenciados para progressão de regime (fl. 14).
+Ocorre que, segundo entendimento deste Superior Tribunaldiferentemente da conjuntura relativa ao tráfico privilegiado, a própria Constituição Federal, em seu art. 5º, XLIII, rotulou como mais graves, tal qual os crimes hediondos (a serem definidos por lei ordinária), os delitos de tortura, o tráfico ilícito de entorpecentes e o terrorismo. Tal equiparação foi realizada pelo próprio constituinte originário, de modo que não se cogita a hipótese de que o Pacote Anticrime tenha afastado o caráter equiparado a hediondo do crime de tráfico de drogas (AgRg no HC n. 736.796/SC, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 16/5/2022).
+Assim, a revogação do § 2º do art. 2º da Lei 8.072/90 pela Lei 13.964/2019 não tem o condão de retirar do tráfico de drogas sua caracterização como delito equiparado a hediondo, pois a classificação da narcotraficância como infração penal equiparada a hedionda decorre da previsão constitucional estabelecida no art. 5º, XLIII, da Constituição Federal (AgRg no HC n. 729.332/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 25/4/2022).
+Indefiro liminarmente a petição inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+EXECUÇÃO. HABEAS CORPUS. TRÁFICO DE DROGAS.NATUREZA DO DELITO. EQUIPARAÇÃO A CRIME HEDIONDO. ACÓRDÃO IMPUGNADO EM CONFORMIDADE COM A JURISPRUDÊNCIA DO STJ. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Writ indeferido liminarmente.
