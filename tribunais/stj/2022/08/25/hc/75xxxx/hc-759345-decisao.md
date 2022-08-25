@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em favor de ALEXANDRE SILVA DOS SANTOS, no qual aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo, que negou provimento ao agravo em execução defensivo, nos termos do acórdão de e-STJ, fls. 15-19.
+Neste writ, o impetrante alega constrangimento ilegal causado ao paciente relativo ao indeferimento do pedido de retificação do cálculo de penas, para fins de progressão de regime.
+Alega que, "no que diz respeito ao cálculo do crime hediondo (3/5), ao nosso ver, merece ser retificado, haja vista que, de acordo com a nova redação do artigo 112, inciso VII, a exigência de lapso correspondente a 60% (sessenta por cento) da pena para progressão de regime somente se aplica ao reincidente na prática de crime hediondo ou equiparado, ou seja, reincidente específico" (e-STJ, fl. 6).
+Assevera que, embora o sentenciado seja reincidente, não se trata de reincidente específico ou crime com resultado morte e que a jurisprudência desta Corte Superior já uniformizou a questão no Tema n. 1.084, segundo o qual " é  reconhecida a retroatividade do patamar estabelecido no art. 112, V, da Lei n. 13.964/2019, àqueles apenados que, embora tenham cometido crime hediondo ou equiparado sem resultado morte, não sejam reincidentes em delito de natureza semelhante."
+Requer, inclusive liminarmente, que seja aplicada a lei penal mais benéfica, alterando-se o cálculo de penas para constar o prazo de 40% para fins de progressão de regime prisional.
+A liminar foi deferida pelo Ministro Presidente (e-STJ, fls. 231-233).
+Prestadas as informações (e-STJ, fls. 263-273), os autos foram encaminhados ao Ministério Público Federal, que opinou pela concessão da ordem (e-STJ, fls. 275-281).
+É o relatório.
+Decido.
+Compulsando os autos, verifico, de plano, que as instâncias ordinárias decidiram matéria diversa daquela abordada neste habeas corpus.
+Com efeito, a defesa colocou sob exame pedido para que fosse afastado do delito de tráfico drogas a equiparação a crime hediondo, tendo em vista a modificação trazida pela Lei n. 13.964/2019 na Lei n. 8.072/1990, com objetivo de serem alterados os cálculos de pena do paciente, para fins de progressão de regime, aplicando-se os 16% previstos no inciso I do artigo 112 da LEP (sentenciado primário, crime cometido sem violência à pessoa ou grave ameaça).
+Por oportuno, transcrevo os seguintes excertos:
+"Trata-se de pedido de retificação de cálculo de penas formulado pela defesa, a fim de constar, ao crime de tráfico de drogas, os lapsos para obtenção dos benefícios relativos aos crimes comuns. O Ministério Público discordou do pedido.
+É o relatório.
+Decido.
+O pedido é improcedente.
+Em que pesem as alegações da defesa, a Lei nº 13.964/2019 revogou o artigo 2º, §2º da Lei Crimes Hediondos no que tange às frações necessárias de cumprimento da pena para progressão de regime, o que, agora, é regulado pela LEP (artigo 112).
+Conforme apontado pelo Ministério Público, o Pacote Anticrime em nada alterou a natureza do delito de tráfico de drogas, o qual continua ter seu status de crime equiparado aos hediondos, interpretação que se extrai da própria Constituição Federal. Igualmente, a Lei dos Crimes Hediondos, em seu artigo 2º, equipara o tráfico de drogas aos hediondos, ao afirmar que:
+"Art. 2º Os crimes hediondos, a prática da tortura, o tráfico ilícito de entorpecentes e drogas afins e o terrorismo são insuscetíveis de: I - anistia, graça e indulto; II - fiança."
+Como se não bastasse e, atendendo à jurisprudência já firmada, a Lei nº 13.964/2019 trouxe o tráfico de drogas em sua forma privilegiada como crime comum (artigo 112, V), não se enquadrando nesta hipótese, portanto, a condenação pela figura prevista no caput do artigo 33 da Lei nº 11.343/06. Confira-se, a propósito, o entendimento do E. TJSP:  ..
+Posto isso, indefiro o pedido de retificação formulado pela defesa." (decisão de e-STJ, fls. 31-32).
+"Trata-se de agravo em execução interposto por Alexandre Silva dos Santos contra a respeitável decisão proferida em 29 de abril de 2022, que indeferiu pedido do agravante de retificação do cálculo de penas, para constar, em relação ao crime de tráfico de drogas, os lapsos para obtenção dos benefícios relativos aos crimes comuns (fls. 12/13).
+Alega que o cálculo de penas do agravante considerou a necessidade de cumprimento de 2/5 da pena pela prática do crime de tráfico de drogas para a progressão de regime; contudo, com o advento do "Pacote Anticrime", o referido crime deixou de ser equiparado a hediondo. Alega que o legislador omitiu-se em definir a abstrata categoria dos crimes "hediondos equiparados", aduzindo que o sentenciado necessita cumprir apenas 16% da pena para a progressão.
+ ..
+O agravante cumpre pena total de 8 (oito) anos, 10 (dez) meses e 5 (cinco) dias de reclusão, pela prática dos crimes de furto qualificado e tráfico de drogas, com término previsto para 24 de dezembro de 2026 (fls. 142/145).
+No caso, o r. Juízo a quo, considerando que o sentenciado foi condenado pelo crime de tráfico de drogas, mas com reincidência pela prática de crimes comuns (furtos), fez retroagir a lei mais benéfica, considerando, para fins de progressão, a necessidade de cumprimento de 40% da pena (fls. 126/127).
+de apenas 16% da pena para progressão, como quer a Defesa, pois a nova Lei nº 13.964/2019 não revogou a categoria dos crimes equiparados a hediondo, que estão previstos, inclusive, na Constituição Federal (artigo 5º, inciso XLIII), entre eles o tráfico de drogas.
+In casu, o crime de tráfico de drogas praticado pelo sentenciado é equiparado a hediondo, pois não reconhecido o tráfico privilegiado, que retiraria a hediondez do delito apenas para fins de progressão de regime (artigo 112, § 5º, da Lei nº 13.964/2019).
+Ante o exposto, NEGO PROVIMENTO ao agravo em execução, mantendo a r. decisão agravada por seus próprios e jurídicos fundamentos." (e-STJ, fls. 17-19).
+Desse modo, resta obstada a análise deste writ, por afronta ao princípio do duplo grau de jurisdição e incabível supressão de instância.
+Nesse sentido, esta Corte Superior já decidiu que, "em face do obstáculo da supressão de instância, não é possível o exame, por esta Corte, de discussão não apreciada no Tribunal de origem" (HC 376.650/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 14/2/2017, DJe 22/2/2017).
+Ilustrativamente:
+"AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. SENTENÇA CONDENATÓRIA QUE MANTÉM A PRISÃO PREVENTIVA. FUNDAMENTAÇÃO SUFICIENTE. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA DA CONDUTA DELITIVA. REGIME SEMIABERTO FIXADO NA SENTENÇA E MANUTENÇÃO DA PRISÃO PREVENTIVA. COMPATIBILIDADE. CUMPRIMENTO DOS REQUISITOS PARA PROGRESSÃO DE REGIME. TEMA NÃO ANALISADO PELA CORTE DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. RECURSO NÃO PROVIDO.
+1. Conforme preconiza o § 1º do art. 387 do CPP, o magistrado, ao proferir sentença condenatória, decidirá fundamentadamente sobre a manutenção ou, se for o caso, imposição de prisão preventiva ou de outra medida cautelar, sem prejuízo do conhecimento da apelação que vier a ser interposta.
+2. No caso, a segregação cautelar tem como fundamento o acautelamento do meio social, dada a periculosidade do agravante, evidenciada na gravidade concreta da conduta delitiva, uma vez que ele foi condenado por integrar organização criminosa.
+3. É inviável a substituição da prisão preventiva por medidas cautelares diversas quando a gravidade concreta da conduta delituosa indica que a ordem pública não estaria acautelada com a soltura do agravante.
+4. A jurisprudência desta Corte já se manifestou pela compatibilidade da manutenção da prisão preventiva e a fixação de regime semiaberto na sentença, alinhando-se ao entendimento consolidado pelo Supremo Tribunal Federal, que tem admitido a adequação da segregação provisória ao regime fixado na sentença condenatória.
+5. A alegação de que o agravante já cumpriu os requisitos legais para progressão de regime não foi objeto de cognição pelo Tribunal de origem. Logo, inviável o enfrentamento do tema por esta Corte Superior, sob pena de incorrer em indevida supressão de instância.
+6. Agravo regimental não provido." (AgRg no RHC n. 159.177/CE, deste relator, Quinta Turma, julgado em 19/4/2022, DJe de 26/4/2022, grifou-se).
+Ante o exposto, indefiro liminarmente o habeas corpus, revogando a liminar anteriormente concedida.
+Publique-se. Intimem-se.
