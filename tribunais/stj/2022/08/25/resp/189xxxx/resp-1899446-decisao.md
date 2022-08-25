@@ -1,0 +1,9 @@
+DECISÃO
+Consoante decisão prolatada em 19/03/2021, esta Relatora determinou a devolução dos autos ao TJDFT, com a devida baixa neste STJ, para que permanecessem suspensos os recursos interpostos pelas partes até a publicação do acórdão paradigma referente ao Tema repetitivo 1.046 (possibilidade de fixação de honorários advocatícios com fundamento em juízo de equidade, nos termos do art. 85, §§ 2º e 8º, do CPC/15) a ser julgado pela 2ª Seção desta Corte Superior, nos termos do art. 256-L, I, do RISTJ.
+Nos termos da decisão de fls. 769/744 (e-STJ), prolatada em 27/06/2022, a Presidência do Tribunal de origem determinou a remessa dos presentes autos à STJ, para a apreciação do pedido de não sobrestamento do processo em razão da existência de distinção da discussão em hipótese com o referido tema repetitivo, nos termos do art. 1.037, § 9º, do CPC/15.
+Compulsando os autos, não se verifica a existência da alegada distinção requerida às fls. 769/744 (e-STJ), tendo em vista a existência de questionamento a atinente à possibilidade ou não de fixação de honorários advocatícios com fundamento em juízo de equidade, nos termos do art. 85, §§ 2º e 8º, do CPC/15.
+Entretanto, na data 31/05/2022, ocorreu a publicação do acórdão do julgamento do Tema repetitivo 1.076 pela Corte Especial deste STJ (que definiu o alcance da norma inserta no § 8º do art. 85 do CPC/15).
+Dessa forma, considerando a ocorrência de julgamento em sede de recurso repetitivo por este STJ da questão atinente ao alcance da norma contida no § 8º do art. 85 do CPC/15, desnecessária se faz a devolução dos autos à Corte de origem, a fim de aguardar eventual pronunciamento do Tema 1.046.
+Forte nessas razões, TORNO SEM EFEITO a decisão de fls. 686/688 (e-STJ) que determinou a devolução dos presentes autos à Corte de origem.
+Após, retornem os autos conclusos para o julgamento do REsp 1.899.446/DF.
+Publique-se. Intimem-se.
