@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso extraordinário interposto por FUNDAÇAO DE PROTEÇÃO E DEFESA DO CONSUMIDOR PROCON, com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão deste Superior Tribunal de Justiça, assim ementado (e-STJ fl. 1228):
+PROCESSUAL. RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA.LEGITIMIDADE ATIVA AD CAUSAM. ADMINISTRAÇÃO PÚBLICA INDIRETA. FUNDAÇÃO PÚBLICA. REPRESENTATIVIDADE ADEQUADA.NECESSIDADE. RECURSO PROVIDO.
+1. Da mesma forma que as associações, as pessoas jurídicas da administração pública indireta, para que sejam consideradas parte legítima no ajuizamento de ação civil pública, devem demonstrar, dentre outros, o requisito da pertinência temática entre suas finalidades institucionais e o interesse tutelado na demanda coletiva.
+2. Recurso especial provido para extinguir o processo sem julgamento de mérito, ante a ausência de legitimidade ativa ad causam da fundação pública.
+Os embargos de declaração opostos na sequência foram rejeitados (e-STJ fls. 1275/1277).
+Sustenta o recorrentea existência de repercussão geral e a violação do art. 97da Constituição Federal, bem como da Súmula Vinculante n. 10, porquanto esta Corte teria afastado a aplicação do inciso IV do art. 5º da Lei 7347/85,determinando a extinção da ação civil pública ajuizada pelo PROCON, que versava sobre reajuste de plano de saúde, em razão da ausência de pertinência temática.
+Requer, ao final, a admissão do recurso e sua remessa ao Supremo Tribunal Federal.
+As contrarrazões foram apresentadas às e-STJ fls. 1296/1319.
+É o relatório.
+Extrai-se dos autos que o presente recurso extraordinário foi interposto contra acórdão desteSuperior Tribunal de Justiça que, interpretando legislação infraconstitucional, no caso a Lei n. 7.347/1985, concluiu que "tendo o PROCON/SP o objetivo institucional de elaboração e execução da política estadual de defesa do consumidor, e não visando a presente ação coletiva a proteção de relação consumerista, verifica-se ausente o pressuposto da pertinência temática" (e-STJ fl. 1240), o que configuraria falta de legitimidade ativapara o ajuizamento da ação civil pública.
+Desse modo, a análise da alegada violação do art. 97 da Constituição Federal depende do exame de dispositivos da legislação federal mencionada, razão pela qual eventual afronta à cláusula de reserva da plenário, se houvesse, seria meramente reflexa, o que não legitima a interposição do apelo extremo.
+Nesse sentido:
+AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO COM AGRAVO. FUNDAMENTAÇÃO A RESPEITO DA REPERCUSSÃO GERAL. INSUFICIÊNCIA. VIOLAÇÃO À CLÁUSULA DE RESERVA DE PLENÁRIO. INEXISTÊNCIA. OFENSA CONSTITUCIONAL REFLEXA. REAPRECIAÇÃO DE PROVAS. INADMISSIBILIDADE. SÚMULA 279 DO STF.
+1. Os recursos extraordinários somente serão conhecidos e julgados, quando essenciais e relevantes as questões constitucionais a serem analisadas, sendo imprescindível ao recorrente, em sua petição de interposição de recurso, a apresentação formal e motivada da repercussão geral, que demonstre, perante o Supremo Tribunal Federal, a existência de acentuado interesse geral na solução das questões constitucionais discutidas no processo, que transcenda a defesa puramente de interesses subjetivos e particulares.
+2. A obrigação do recorrente em apresentar formal e motivadamente a preliminar de repercussão geral, que demonstre sob o ponto de vista econômico, político, social ou jurídico, a relevância da questão constitucional debatida que ultrapasse os interesses subjetivos da causa, conforme exigência constitucional e legal (art. 102, § 3º, da CF/88, c/c art. 1.035, § 2º, do CPC/2015), não se confunde com meras invocações desacompanhadas de sólidos fundamentos no sentido de que o tema controvertido é portador de ampla repercussão e de suma importância para o cenário econômico, político, social ou jurídico, ou que não interessa única e simplesmente às partes envolvidas na lide, muito menos ainda divagações de que a jurisprudência do Supremo Tribunal Federal é incontroversa no tocante à causa debatida, entre outras de igual patamar argumentativo.
+3. Não há violação à cláusula de reserva de Plenário quando o Tribunal de origem se limita a interpretar a legislação infraconstitucional pertinente.
+4. Tendo o acórdão recorrido solucionado as questões a si postas com base em preceitos de ordem infraconstitucional, não há espaço para a admissão do recurso extraordinário, que supõe matéria constitucional prequestionada explicitamente.
+5. A argumentação do recurso extraordinário traz versão dos fatos diversa da exposta no acórdão, de modo que seu acolhimento passa necessariamente pela revisão das provas. Incide, portanto, o óbice da Súmula 279 desta Corte (Para simples reexame de prova não cabe recurso extraordinário).
+6. Petição 6.320/2019 indeferida. Agravo Interno a que se nega provimento.
+(ARE 1.175.859 AgR, Relator(a): Min. ALEXANDRE DE MORAES, Primeira Turma, julgado em 01/03/2019, PROCESSO ELETRÔNICO DJe-051 DIVULG 14-03-2019 PUBLIC 15-03-2019)
+Ante o exposto, com fundamento no art. 1.030, V, do Código de Processo Civil, não se admite o recurso extraordinário.
+Publique-se.
+Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. ART. 97 DA CONSTITUIÇÃO FEDERAL. CLÁUSULA DE RESERVA DE PLENÁRIO. ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA REFLEXA À CONSTITUIÇÃO FEDERAL. RECLAMO NÃO ADMITIDO.
