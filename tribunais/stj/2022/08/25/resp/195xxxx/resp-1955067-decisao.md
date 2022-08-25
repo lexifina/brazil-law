@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo interposto por LUIS CARLOS ALESINA contra decisão proferida pelo Tribunal de justiça do Estado de São Pauloque inadmitiu recurso especial aviado com fundamento na alínea a do permissivo constitucional (Apelação Criminal n. 0028464-06.2004.8.26.0451).
+O Ministério Público Federal opinou pelo não conhecimento do agravo, mas pela concessão, de ofício, de modificação do regime inicial para modalidade menos gravosa.
+É, em síntese, o relatório.
+Decido.
+Do agravo não se deve conhecer, uma vez que o agravante deixou de impugnar ofundamentoda decisão agravada relativo à incidência da Súmula n. 283/STF.
+Assim, não havendo impugnação específica acerca de fundamentoda decisão questionada, deve ser aplicado, por analogia, o enunciado sumular182 do Superior Tribunal de Justiça.
+Nesse sentido, confira-se:
+PENAL E PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO CONHECIDOS COMO AGRAVO REGIMENTAL. PRINCÍPIO DA FUNGIBILIDADE RECURSAL. DECISÃO DE ADMISSIBILIDADE NEGATIVA. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO. SÚMULA 182/STJ. INCIDÊNCIA CONFIRMADA. PRESCRIÇÃO DA PRETENSÃO PUNITIVA. INOCORRÊNCIA. AGRAVO REGIMENTAL IMPROVIDO.
+ ..
+2. Nos termos da Súmula 182 do STJ, é manifestamente inadmissível o agravo em recurso especial que não impugna, especificamente, todos os fundamentos da decisão confrontada.
+ ..
+4. Embargos de declaração recebidos como agravo regimental, ao qual se nega provimento (EDcl no AREsp 614.968/SP, relator Ministro NEFI CORDEIRO, DJe 29/02/2016, grifei).
+Outrossim, verifico, na hipótese, flagrante ilegalidade quanto ao regimeinicial estabelecido, a atrair a concessão de habeas corpus de ofício. Senão, vejamos.
+Acerca da dosimetria e, por conseguinte, do regime inicial do agravante, assim consignou o Tribunal de origem (e-STJ fls. 1.793/1.794, grifei):
+Quanto à reprimenda, as penas individualmente consideradas, foram bem justificadas e não merecem reparos.
+No estabelecimento da base, considerou a julgadora o elevadíssimo grau de reprovabilidade da conduta, que envolveu articulada rede de aquisição e distribuição de toneladas de drogas para vários estados e cidades.
+Por estes motivos, o cálculo partiu, moderadamente a meu ver, do patamar de 1/3 acima do mínimo.
+Nas segunda e terceira fases não foram verificadas modificadoras e as penas tornaram-se definitivas.
+Aqui, cumpre anotar que a defesa técnica requer a aplicação da redutora de pena prevista no artigo 33, §4º da Lei11.343/06. Sem razão. De um lado, porque os réus foram julgados pela lei anterior, que lhe era mais benéfica, não havendo de se cogitar o retalhamento dos diplomas para a criação de um terceiro como pretende o raciocínio. De outro, porque a benesse se aplica ao tráfico e não à associação. Aliás, só se aplica a pequenos traficantes não envolvidos com organizações criminosas o que evidentemente não é o caso dos acusados.
+Aqui, fica também afastada a alegação de prescrição da pretensão punitiva que ocorreria caso a pena fosse diminuída.
+Quanto ao regime de cumprimento de pena, o fechado era mesmo o único compatível com a concreta periculosidade de que se verificou na conduta perpetrada, reiteradamente referida ao longo de toda exposição e fundamentação.
+Aliás, a modalidade é, na verdade, a única compatível com a gravidade do delito praticado e está em sintonia com o rigor com que o legislador tratou o traficante, negando-lhe benefícios outros que normalmente concede a infratores de normas diversas.
+Com efeito, se não tem ele direito à liberdade provisória, fiança etc., não faria sentido que, condenado, pudesse receber pena alternativa, ou cumprir a reprimenda em outro regime. Pelos mesmos motivos, descabidos quaisquer outros benefícios.
+Nos moldes do art. 33, §§ 1º, 2º e 3º, do Código Penal, para a fixação do regime inicial de cumprimento de pena, o julgador deverá observar a quantidade da sanção aplicada, bem como a eventual existência de circunstâncias judiciais desfavoráveis (art. 59 do Código Penal).
+Ademais, na esteira da jurisprudência desta Corte, admite-se a imposição de regime prisional mais gravoso do que aquele que permitir a pena aplicada, quando apontados elementos fáticos demonstrativos da gravidade concreta do delito.
+Confiram-se:
+HABEAS CORPUS. ROUBO SIMPLES. DIREITO DE RECORRER EM LIBERDADE. FUNDAMENTAÇÃO INSUFICIENTE. REGIME SEMI ABERTO. MOTIVAÇÃO INIDÔNEA. ABRANDAMENTO. ORDEM CONCEDIDA.
+2. A instância de origem não apontou nenhum elemento dos autos que, efetivamente, comprovasse a real exigência de fixação do modo inicialmente mais gravoso para o cumprimento da pena, pois a gravidade excepcional do delito não se sustenta. Nesse sentido, o fundamento apresentado não se reveste da devida idoneidade para sustentar a determinação do regime mais gravoso do que o permitido em razão da sanção aplicada, conforme dicção das Súmulas n. 440 do STJ, 718 e 719 do STF.
+3. Ordem concedida para assegurar ao paciente o direito de responder à ação penal em liberdade se por outro motivo não houver necessidade de ser preso, bem como para determinar o regime aberto para o início do cumprimento da pena. Fica ressalvada a possibilidade de nova decretação da custódia cautelar caso efetivamente demonstrada a superveniência de fatos novos que indiquem a sua necessidade, sem prejuízo de fixação de medida cautelar alternativa, nos termos do art. 319 do Código de Processo Penal. (HC 505.879/SP, Rel. Ministro ROGÉRIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 6/6/2019, DJe 10/6/2019.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. DIREITO PENAL. ROUBO CIRCUNSTANCIADO. ART. 157, § 2.º, INCISOS I E II, DO CÓDIGO PENAL.FIXAÇÃO DE REGIME PRISIONAL MAIS GRAVOSO. INEXISTÊNCIA DE MOTIVAÇÃO CONCRETA. SÚMULA Nº 440/STJ. SÚMULAS N.os 718 e 719/STF. APLICAÇÃO DAS REGRAS PREVISTAS NO ART. 33, § 2.º, ALÍNEA B, E § 3.º, DO CÓDIGO PENAL. FIXAÇÃO DO REGIME CARCERÁRIO INICIAL SEMI ABERTO. AGRAVO DESPROVIDO.
+1. Ausentes circunstâncias judiciais desfavoráveis, não é legítimo agravar o regime de cumprimento da pena sem fundamentação concreta. Conforme o disposto no art. 33, § 2º, alínea b, do Código Penal, "o condenado não reincidente, cuja pena seja superior a 4 (quatro) anos e não exceda a 8 (oito), poderá, desde o princípio, cumpri-la em regime semi-aberto". Outrossim, no § 3º do mesmo artigo, prevê-se que "a determinação do (e-STJ FI.2428) regime inicial de cumprimento da pena far-se-á com observância dos critérios previstos no art. 59 deste Código".
+2. Incidência do entendimento sedimentado nas Súmulas n.os 718 e 719 do Supremo Tribunal Federal e 440 do Superior Tribunal de Justiça. 3. Agravo regimental desprovido. (AgRg no HC 490.954/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 12/3/2019, DJe 28/3/2019.)
+Na presente hipótese, embora a pena definitiva imposta ao requerente não ultrapasse 4 anos de reclusão, a presença de circunstância judicial desfavorável na primeira fase da dosimetria impede, tão somente, a fixação do regime prisional aberto. E, diante da primariedade do agravante, nota-se presente a ilegalidade arguida, alterando-se o regime inicial para o semiaberto, nos termos do art. 33, §§ 2º, alínea "b", e 3º, do CP.
+Ante o exposto, não conheço do agravo em recurso especial. Concedo, todavia, habeas corpus de ofício, para fixar o regime inicial semiaberto para desconto da reprimenda imposta ao agravante LUIS CARLOS ALESINA.
+Publique-se. Intimem-se.
