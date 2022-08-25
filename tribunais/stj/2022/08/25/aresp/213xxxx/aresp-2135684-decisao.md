@@ -1,0 +1,20 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto peloMUNICÍPIO DE GUARULHOScontra decisão que inadmitiu o recurso especial ao argumento de que o aresto recorrido encontra-se devidamente fundamentado e que o exame da tese recursal encontra óbice da Súmula n. 7/STJ.
+O agravante sustenta que houve usurpação de competência do STJ, pois não poderia a Corte de origem ter emitido juízo de mérito a respeito da suscitada afronta aos arts. 489, § 1º, IV e 1.022, II, do CPC.
+Afirma que o aresto recorrido não se manifestou sobre o apontado equívoco depremissa fática da controvérsia. Argumenta que os elementos probatórios dos autos demonstram que eventual erro no atendimento médico ocorreu na rede estatual de saúde, não sendo possível imputá-lo à municipalidade.
+Aduz que a análise a respeito da existência de vício de fundamentação no julgado proferido pela Corte recorridanão atrai o impeditivo da Súmulan. 7/STJ.
+Defende que a responsabilização da administração pública municipal depende da comprovação do nexo de causalidade entre a conduta praticada e os danos sofridos pela vítima, o que não ocorreu neste caso.
+Explicita o seguinte (e-STJ, fls. 415-416):
+Ressalte -se que, da leitura dos esclarecimentos prestados pelo Sr. Perito Judicial às fls. 221/225, depreende -se que inexiste nexo de causalidade entre os atendimentos prestados pelas equipes de saúde pertencentes ao Município (UPA São João -Lavras, UBS Santos Dumont e Hospital Municipal da Criança e do Adolescente) e o desfecho do caso que resultou na necessidade da cirurgia de orquiectomia.
+Com o devido acato, conforme apontado nos embargos de declaração opostos por essa Municipalidade, não foram considerados no v. acórdão, os atendimentos do requerente, ora recorrido, realizados em 16/01/2016, primeiramente perante a UPA São João (unidade de saúde municipal - fls. 62/64), que após avaliação inicial, encaminhou o requerente, no mesmo dia (16/01/2016), ao Hospital Geral de Guarulhos - HGG (HOSPITAL ESTADUAL), onde o menor foi reavaliado e fez exame de ultrassonografia de bolsa escrotal (fl. 161); tendo na ocasião recebido a informação de que não seria caso cirúrgico porque se tratava de uma inflamação do testículo e recebido orientação para usar medicamentos durante uma semana (fl. 144).
+Conforme se observa dos esclarecimentos prestados à fl. 223 (resposta ao quesito nº 4), o Sr. Perito Judicial afirma que "o atendimento havido na UPA São João Lavras no dia 16/01/2016 não representou fator de dano, porque tais medidas foram adotadas em tempo considerado aceitável; as condutas posteriores (conduta expectante) é que demandaram tempo demasiado e significaram a condenação da viabilidade do testículo." (g.n.)
+Requer o deferimento de efeito suspensivo ativo ao recurso, sob a justificativa de que o cumprimento do acórdão recorrido ocasionará danos de grave reparação ao ente público.
+É o relatório.
+O deferimento da tutela de urgência para atribuirefeitosuspensivo(ativo) ao agravo em recurso especial é medida decaráterexcepcional eexige que aparte insurgente demonstre, de maneira efetiva,aprobabilidade de êxitodo recurso, assim como o perigo na demora,consistente no risco de gravedano à parte requerente ou deinutilidadedoprovimento final caso nãodeferida a medida de cautelapleiteada.
+No caso, a parte interessada requer a atribuição de efeito suspensivo aorecurso, mas as razões recursais não contêm fundamentação adequada arespeito desse pedido.
+O recorrente argumenta, genericamente, a existência de risco de grave impacto ao erário, caso não deferida a medida liminar. Não demonstra, contudo, a existência de prejuízos concretos à municipalidade.
+Destaque-se que, em se tratandode obrigação de pagar indenização pelo ente público, a satisfação do comando judicial submete-se ao regime dos precatórios ou das requisições de pequeno valor.
+Portanto, não se verifica no presente recurso a existência derisco de ineficácia da tutela pretendida, caso não concedida atutela de urgência.
+Ante o exposto, indefiro o pedido de liminar.
+Publique-se. Intimem-se.
