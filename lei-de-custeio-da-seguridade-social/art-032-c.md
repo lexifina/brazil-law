@@ -1,8 +1,8 @@
 Art. 32-C. O segurado especial responsável pelo grupo familiar que contratar na forma do § 8º do art. 12 apresentará as informações relacionadas ao registro de trabalhadores, aos fatos geradores, à base de cálculo e aos valores das contribuições devidas à Previdência Social e ao Fundo de Garantia do Tempo de Serviço - FGTS e outras informações de interesse da Secretaria da Receita Federal do Brasil, do Ministério da Previdência Social, do Ministério do Trabalho e Emprego e do Conselho Curador do FGTS, por meio de sistema eletrônico com entrada única de dados, e efetuará os recolhimentos por meio de documento único de arrecadação.
 § 1º Os Ministros de Estado da Fazenda, da Previdência Social e do Trabalho e Emprego disporão, em ato conjunto, sobre a prestação das informações, a apuração, o recolhimento e a distribuição dos recursos recolhidos e sobre as informações geradas por meio do sistema eletrônico e da guia de recolhimento de que trata o caput.
 § 2º As informações prestadas no sistema eletrônico de que trata o caput têm caráter declaratório, constituem instrumento hábil e suficiente para a exigência dos tributos e encargos apurados e substituirão, na forma regulamentada pelo ato conjunto que prevê o § 1º, a obrigatoriedade de entrega de todas as informações, formulários e declarações a que está sujeito o grupo familiar, inclusive as relativas ao recolhimento do FGTS.
-§ 3º O segurado especial de que trata o caput fica obrigado a arrecadar, até o vigésimo dia do mês seguinte ao da competência:
-I - as contribuições previstas nos incisos X, XII e XIII do caput do art. 30;
+§ 3º O segurado especial de que trata o caput deste artigo fica obrigado a arrecadar, até o vigésimo dia do mês seguinte ao da competência:
+I - as contribuições previstas nos incisos X, XII e XIII do caput do art. 30 desta Lei;
 II - os valores referentes ao FGTS; e
 III - os encargos trabalhistas sob a sua responsabilidade.
 § 4º Os recolhimentos devidos, nos termos do § 3º, deverão ser pagos por meio de documento único de arrecadação.
