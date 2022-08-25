@@ -1,0 +1,36 @@
+DECISÃO
+LUCAS FERREIRA BRAGA DOS SANTOS e JHONATAN VICENTE DOS SANTOSalegam sofrer constrangimento ilegal diante do acórdão proferido pelo Tribunal de Justiça do Estado de Mato Grosso do Sulno Agravo Interno n. 1413191-93.2018.8.12.0000/50000.
+Neste writ, o impetranteaduz que o Juiz de primeiro grau indeferiu pedido da defesa de complementação de informações sobre o exame técnico realizado nas amostras da droga apreendida, o que foi mantido pelo Tribunal de origem.
+Afirma a defesa que "Apesar do resultado pericial demonstrar que as amostras examinadas na realizada peritagem constituíam-se somente de cannabis, o polo acusador, o aparato policial e a sentença de mérito proferida (pg. 07/12, f.539 dos autos originários) afirmam que também Skank/Supermaconha foi identificada com os envolvidos" (fl. 5).
+Requer, assim, seja determinado "ao juízo de Bataguassu/MS que proceda à intimação dos profissionais peritos que elaboraram o laudo toxicológico em discussão e, complementando seu conteúdo, dirimam, com bases científicas, (i) se no material analisado havia ou não resquícios de "Skank/Supermaconha," ou, (ii) se as próprias amostras já analisadas podem ser consideradas, dado o seu teórico teor mais elevado de T.H.C., como supermaconha/"Skank"" (fl. 5).
+Indeferida a liminar (fl. 472-475) e prestadas as informações, o Ministério Público Federal opinou pelo não conhecimento do writ.
+Decido.
+O Magistrado de primeiro grau, ao indeferir o pedido de complementação do laudo toxicológico, assim se manifestou (fl. 453, grifei):
+Não socorre a defesa a alegação de que o laudo de f. 331-5, não foi conclusivo no sentido de identificar o princípio ativo do entorpecente apreendido, conhecido como "supermaconha".
+Isso porque, denominada como "supermaconha", o "skank" é uma espécie de maconha (cannabis sativa), cultivada em laboratório e com efeito concentrado. O que a diferencia da maconha comum é a capacidade do entorpecente. Em ambos, o princípio psicoativo é o tetrahidrocanabinol (THC), mas, enquanto na "maconha", a concentração percentual nas folhas, flores e frutos prensados fica em torno de 2,5%, no "skank", estudos apontam que o índice de THC pode ser de até 18%.
+Desse modo, mostra-se irrelevante o índice de THC encontrado em cada amostra encaminhada para perícia para fins de materialidade do crime, até porque apreendida enorme quantidade de ambas as drogas.
+Assim, considerando que o perito foi bem claro ao concluir "que a análise botânica macroscópica e as análises químicas realizadas nas amostras de vegeta, forneceram resultados positivos para maconha, Cannabis sativa Linneu", indefiro o pedido retro.
+O Tribunal de origem, ao negar provimento ao agravo, esclareceu o que segue (fl. 8, grifei):
+Sustentam os agravantes que o laudo pericial acostado aos autos da ação penal nº 0001478-28.2018.8.12.0026 não menciona a existência de Skank/Supermaconha, tampouco estampa que duas grandezas do princípio ativo tenham sido divisadas nos exames.
+Argumentam que tal discriminação se faz necessária ante a possibilidade de exasperação no cálculo das diretivas do artigo 59, do Código Penal, bem como se afigura elemento apto para o cabimento ou não da figura do trafico privilegiado.
+Nada obstante os argumentos expendidos, a pretensão deduzida pelo impetrante não comporta guarida, porquanto ausente a ilegalidade na decisão que indeferiu a complementação da perícia.
+Ocorre que o acervo probatório existente no processo se afigura apto à formação do convencimento do julgador, tornando despiciendos maiores esclarecimentos acerca do laudo pericial apresentado.
+Aliás, cabe ao Juiz decidir sobre a necessidade de produção de provas, podendo indeferir aquelas meramente protelatórias ou desnecessárias à formação do seu convencimento.
+Nessa linha, se o julgador reconheceu estar munido dos elementos necessários para motivar seu convencimento, agiu com acerto em proferir seu decisum, sem que se possa falar em cerceamento de defesa ou mesmo em nulidade do provimento jurisdicional.
+ ..
+Ressaltou a Corte de origem que "A decisão mostra-se devidamente fundamentada, evidenciando os motivos pelos quais reputou inócua, no momento processual, a complementação da perícia realizada, nos termos do que dispõe o artigo 184, do Código de Processo Penal, ressaltando, inclusive, a grande quantidade de droga apreendida como fator principal a ser considerado para a elucidação dos fatos, especialmente considerando que referido laudo foi conclusivo pela presença do tetrahidrocanabinol (THC) nas amostras" (fl. 11).
+O entendimento do STJ é de que o julgador pode indeferir procedimentos/diligências requeridos pelas partes, os quais considere protelatórios ou irrelevantes para o deslinde da causa. Isso, em regra, não caracteriza cerceamento de defesa.
+Nesse sentido:
+ ..  4. Esta Corte possui o entendimento de que ao Magistrado é facultado o indeferimento, de forma fundamentada, do requerimento de produção de provas que julgar protelatórias, irrelevantes ou impertinentes, devendo a sua imprescindibilidade ser devidamente justificada pela parte.
+ ..
+(RHC n. 117.667/SP, Rel. Ministra Laurita Vaz, 6ª T., DJe 27/2/2020)
+ ..  5. As modificações da Lei n. 11.960/08 no art. 212 do Código de Processo Penal não retiraram do juiz a possibilidade de formular perguntas às testemunhas. Não é demais lembrar que nenhum ato será declarado nulo, se da nulidade não resultar prejuízo para a acusação ou para a defesa, o que sequer foi demonstrado no caso dos autos.  ..  7. Agravo regimental desprovido.
+(AgRg no REsp n.1.384.669/RS, Rel. Ministro Joel Ilan Paciornik, 5ª T., DJe 16/10/2017)
+ ..  3. Segundo entendimento reiterado desta Corte, constitui meio válido de prova a declaração de policiais militar responsável pela efetivação da prisão em flagrante, sobretudo quando colhidas no âmbito do devido processo legal e sob o crivo do contraditório.
+4. Habeas corpus não conhecido.
+(HC n. 386.428/SP, Rel.Ministro Ribeiro Dantas, 5ª T., DJe 9/5/2017)
+Na hipótese, a verificação da viabilidade da complementação daprovapretendidapela defesa implica a necessidade de incursão vertical em todo o acervo probatório dos autos, em substituição ao juízo natural da causa. Esse procedimento não é possível no âmbito do habeas corpus.
+Além disso, a Corte de origem consignou que "Em consulta ao sistema SAJ, verifico que em 13.12.2018 foi prolatada sentença, restando a pena-base fixada no mínimo legal previstopara o tipo e, ainda, que a figura do tráfico privilegiado deixou de ser aplicada ante à expressiva quantidade de entorpecente apreendido, qual seja, 300kg (trezentos quilos), a evidenciar que os agravantes seriam agentes dedicados à traficância, nada se mencionando, portanto, a respeito da variedade/qualidade da droga, como receavam" (fl. 12, grifei).
+Portanto, não identifico ilegalidade flagrante passível de ser sanada nesta instância, uma vez que a fundamentação apresentada autoriza o indeferimento, máxime porque "foram apontadas de forma clara as provas que levaram à cognição no sentido da condenação, sendo inconteste o caminho percorrido para formar convicção pela existência da materialidade e autoria delitivas" (fl. 12).
+À vista do exposto, denego o habeas corpus.
+Publique-se e intimem-se.
