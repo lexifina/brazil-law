@@ -1,0 +1,76 @@
+DECISÃO
+RAFAEL CATUSSO alega sofrer coação ilegal pelo Tribunal Regional Federal da 4ª Região (HC n.5018315-70.2022.4.04.0000).
+Nesta Corte, sustenta a defesa a ausência de fundamentação idônea para a prisão processual do paciente, pela suposta prática dos crimes tipificados no art. 1º da Lei n. 9.613/1998e nos arts. 1º, § 1º e § 4º, V, e 2º, ambos da Lei n. 12.850/2013, além do tempo excessivo de constrição, que remonta ao dia 3/2/2022. Aduz a falta de contemporaneidade do decisum prisional, quese reporta afatos de2015 e 2019.Assevera que os 3 filhos do réu dependem do seu sustento.
+Requer, liminarmente e no mérito, a expedição de alvará de soltura ou a fixação de medidas alternativas.
+Indeferiram-se a liminar e o pedido de reconsideração (fls. 307-309; 325-326).
+Prestadas as informações, manifestou-se o Parquet Federal pelo não conhecimento do habeas corpus (fls. 321-323; 336).
+A seguir, os impetrantes questionaram o período que levou o Ministério Público Federal para ofertar o seu parecer (fls. 331-335).
+Decido.
+Expõem os autos que se deflagrou, em 1º/7/2017, a Operação Spectrum, com vistas a apurar condutas de lavagem de capitais, praticadas por membros de organização criminosaliderada por doleiros residentes no Paraguai, a fim de dissimular a origem espúria de valores oriundos do tráfico transnacional de drogas. Para tanto, os integrantes da facçãorealizaram a movimentação bancária de recursos, em nome de empresas de fachada (fls. 138-140).
+Com o aprofundamento das investigações, o referido procedimento policial se desdobrou nas Operações Sucessão, Fluxo de Caixa eCaixa Fria (fls. 138-139; 196).
+O ora paciente, vulgo "Loiro", "Patrão" ou"RAFA CWB", foi custodiado cautelarmente, em 3/2/2022, no âmbito da Operação Status (fls. 196; 204).
+A denúncia lhe imputa estes fatos (fls. 190-207, grifei):
+5.2.1. RAFAEL CATUSSO e JESSICA OCZUST PEREIRA
+RAFAEL CATUSSO surge na investigação a partir das análises telemáticas das contas de e-mail  ..  administradas por ele e sua esposa JÉSSICA OCZUST PEREIRA, identificados como líderes do Núcleo Administrativo e de Coordenação sediado na cidade de Curitiba/PR  .. .
+ ..
+Conforme restou comprovado durante as investigações, RAFAEL CATUSSO e sua esposa JÉSSICA se destacaram dentro do organograma da ORCRIM, pois são encarregados de repassar ordens emanadas do núcleo de doleiros localizados no exterior (Núcleo de Liderança) para as equipes operacionais em território brasileiro. Com isso, verifica-se que o casal é um dos principais operadores financeiros do grupo criminoso.
+ ..  as contas de e-mail utilizadas pela ORCRIM se destinavam a documentar as movimentações financeiras  ..  relacionad a s a empresas fantasma.
+ ..
+RAFAEL CATUSSO atua na ORCRIM movimentando contas bancárias das empresas fictícias, transportando, transferindo e recolhendo numerários. RAFAEL também está envolvido na abertura das empresas fantasmas em nome de laranjas e na locação de salas comerciais que a ORCRIM utiliza para comprovar "endereço" exigido na abertura de contas correntes quando da visita dos agentes bancários  .. .
+ ..
+Também chama atenção o fato de RAFAEL morar em Curitiba, ter veículo (em seu nome e/ou de sua empresa) e, mesmo assim, realizar frequentemente a locação de veículos  ..  para proceder o transporte de numerários, de forma a se esquivar de possíveis fiscalizações nas rodovias  .. .
+ ..
+RAFAEL CATUSSO viaja com frequência a regiões de fronteira para se encontrar com doleiros residentes no Paraguai.
+ ..
+Da análise do afastamento do sigilo bancário de RAFAEL CATUSSO, temos os dados da pessoa física, além da empresa CATUSSO LOCAÇÃO, REMOÇÃO E REVENDA DE VEICULOS  ..  e da empresa MAMA JOANNA COMERCIO DE CALÇADOS LTDA  .. , atualmente chamada de ESTRELA MAIS DO BRASIL COMERCIO LTDA, da qual CATUSSO foi procurador. No período do afastamento do sigilo, as pessoas investigadas movimentaram o total de R$ 5.463.615,40  .. . Os maiores valores movimentados foram na pessoa física de RAFAEL CATUSSO, totalizando R$ 1.732.806,37 a CRÉDITO e R$ 1.733.121,08 a DÉBITO  .. .
+ ..
+No afastamento do sigilo telefônico, restou comprovado que RAFAEL utilizava-se dos terminais  .. , cadastrados em nome de sua esposa JÉSSICA  .. , para tratar de assuntos relacionados às atividades da ORCRIM.
+ ..
+Com a deflagração da Operação STATUS, em data de 11/09/2020, foi realizado o cumprimento de Mandado de Busca e Apreensão na residência do casal RAFAEL CATUSSO e JÉSSICA OCKZUST PEREIRA, oportunidade em que foram apreendidos aparelhos celulares e documentos que comprovam o envolvimento de ambos com as empresas constituídas na região metropolitana de Curitiba/PR para a movimentação de valores pelos doleiros.
+ ..
+Nesse sentido, destaca-se  o  celular apreendido com MURILO, cujo conteúdo demonstra que ele e o Núcleo liderado por RAFAEL CATUSSO continuam atuando de forma ilícita e realizando a movimentação de vultuosa quantia de dinheiro, gerenciando e orientando os laranjas que atuam no interesse da ORCRIM  ..
+ ..
+Nas conversas encontradas nos celulares, MURILO repassa diversas orientações a seus subordinados,identificados como "Ronaldo Fenômeno" e "Pitoko", a respeito da realização de depósitos em espécie de vultuosas quantias, tod o s realizad o s em janeiro/2022. Dentre os valores mencionados, destaco as quantias de R$ 200.000,00, R$ 185.600,00, R$ 400.000,00, R$ 680.000,00, R$ 197.340,00 etc., que revelam a intensa movimentação operada pela ORCRIM, recentemente  .. .
+ ..
+Também merece destaque a conversa na qual fica evidente que MURILO e outros atuam sob o comando de "LOIRO" (isto é, RAFAEL CATUSSO  .. , ao qual referem-se como "PATRÃO", veja-se:  ..
+ ..  Ressalta-se o fato de uma pessoa de alcunha RAFA CWB realizar constantes saques. No caso, é RAFAEL CATUSSO, cônjuge de JÉSSICA OCZUST, e CWB é a sigla para CURITIBA/PR. Dessa forma, fica evidenciado que JÉSSICA e RAFAEL não são meros laranjas, participando efetivamente do controle financeiro de doleiros sediados no exterior, com destaque para o Paraguai  ..
+No e-mail  .. , foram encontradas mensagens que vinculam RAFAEL e JESSICA à INGRAMA MENEGATTI e às empresas PLUS e CLIN, o que comprova o envolvimento do casal CATUSSO e OCZUST com pessoas jurídicas implicadas na lavagem de dinheiro em prol da FAMÍLIA ROCHA de CABEÇA BRANCA.
+No e-mail  ..  há diversas planilhas com controles de custos relacionados às atividades da ORCRIM  .. , o que demonstra nítido profissionalismo e organização do grupo.
+ ..
+O Auto Circunstanciado de Interceptação Telefônica e Telemática nº 08/2020  ..  e  as ações coordenadas com outros integrantes da quadrilha  ..  exprimem a  atuação de RAFAEL CATUSSO como chefe, ou seja, ocupando posição hierarquicamente superior, coordenando os demais integrantes do grupo criminoso.  ..
+Em7/2/2022, o Magistrado de primeiro grau converteu em preventiva a prisão temporária do investigado, in verbis(fls. 123-125, destaquei):
+No caso em apreço, a prática de crimes em série, como a lavagem de dinheiro a diversos "clientes", por meio da movimentação/depósitos de grandes quantias em espécie em contas de "laranjas", bem como a existência de vínculo associativo para a prática de tais crimes, permite a conclusão da existência de risco de reiteração delitiva e, por conseguinte, risco à ordem pública.
+Verificou-se, ainda, que RAFAEL, apontado com papel de liderança do Núcleo Curitiba da ORCRIM desta investigação, também foi investigado anteriormente na Operação Status, de modo  que  as medidas realizadas naquela investigação anteriornão foram suficientes para a interrupção da atividade delitiva, persistindo os investigados em sua prática.
+Ademais, foram apontados elementos suficientes de que o grupo criminoso mantém intensa atuação, diante dos inúmeros depósitos bancários realizados recentemente, no mês de janeiro de 2022, que revelam o risco contemporâneo e iminente à ordem pública, art. 312 do CPP, representado pela reiteração criminosa.
+ ..
+Ante o exposto, converto, pois, a prisão temporária de MURILO FABIO DOS SANTOS ROSA e RAFAEL CATUSSO em PRISÃO PREVENTIVA, a fim de desarticular organização criminosa voltada à lavagem de dinheiro, assim como evitar a reiteração criminosa pelos representados - situações que configuram risco à ordem pública, nos termos do 312 do CPP.
+O Tribunal a quo denegou o writ originário.
+Em consulta ao sítio eletrônico da Corte Regional, verificou o gabinete que, na Ação Penal n. 5012739-48.2022.4.04.7000, vários réus ofereceram resposta à acusação.
+Feitos esses registros, não identifico flagrante coação ilegal.
+A defesa critica o standard probatório que deu ensejo à segregação preventiva do agente. Aduz que o decreto constritivo se apoia em impressões subjetivas da autoridade policial e na mensagem do corréu Murilo com terceiro, com menção a delito praticado por "Loiro". Afirmam que a identificação do acusado pelo apelido "Loiro" nunca foi submetida ao contraditório.
+Nada obstante, evidencia-se lastro probatório bastante para a decretação da medida cautelar extrema do paciente, a quem se imputa a participação em organização criminosa de grande porte, especializada na prática de lavagem de capitais, oriundos de proveitos ilícitos obtidos com o tráfico transnacional de entorpecentes.
+Apontaram as instâncias ordinárias que o acusado é "um dos principais operadores financeiros do grupo criminoso" (fl. 191, grifei) e exerce posição de liderança na estrutura hierárquica da facção criminosa.
+A quebra de sigilo telemático e a análise das contas de e-mailadministradas pelo réu e sua esposa, os autos circunstanciados de interceptação telefônica, os dados recebidos pela Receita Federal, as planilhas que decorreram do afastamento do sigilo bancário,os comprovantes de transferências financeiras, a agenda apreendida na casa do casal (fl. 196) e os depoimentos colhidos afastam a arguição de ilegalidade na preservação do cárcere provisório do acusado.
+Segundo os documentos da ação penal, o paciente está envolvido na abertura das empresas fantasmas, em nome de laranjas, movimenta contas bancárias das sociedades fictícias, transporta numerários e participa da locação de salas comerciaiscom o intuito de comprovar endereço falso. Apesar de possuir veículo próprio, o réu, frequentemente, aluga automóveis, para transportar quantias oriundas do tráfico e se esquivar das fiscalizações nas rodovias.
+Depreende-se que o acusado viaja, regularmente, para regiões de fronteira, a fim de se encontrar com doleiros residentes no Paraguai. Em seguida, o paciente repassa ordens, emanadas do núcleo de doleiros, a outros integrantes do grupo, e coordena os seus subordinados, na estrutura organizada da facção.
+Conforme "magistério jurisprudencial desta Corte, "a participação de agente em organização criminosa sofisticada - a revelar a habitualidade delitiva - pode justificar idoneamente a prisão preventiva, bem como desautorizar sua substituição pelas medidas cautelares previstas no art. 319 do CPP" (HC n. 382.398/SP, relator Ministro ROGERIO SCHIETTI CRUZ,  ..  DJe 11/9/2017)" (HC n. 473.605/MT, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 5/6/2019).
+Dessarte, observo que são suficientes as razões invocadas pelo Juízo singular para embasar a ordem de segregação cautelar do réu.
+O vínculo do paciente com facção criminosa estruturada, com divisão de tarefas definida, na qual figura como um dos líderes e possui diversos subordinados, demonstra a sua periculosidade e ampara o cárcere preventivo, sobretudo quando os elementos do mandamus assinalam a habitualidade no exercício de infrações penais e a probabilidade concreta de persistência no cometimento de crimes.
+Aos mesmos ditames:
+ ..  2. Tem-se por devidamente fundamentada a prisão cautelar, na medida em que o envolvimento dos investigados é dado como relacionado a uma poderosa organização criminosa que trafica em grandes proporções, fazendo do crime um modo habitual de vida, fatos que, consoante a jurisprudência desta Corte, justificam a prisão preventiva para a garantia da ordem pública.
+3. Agravo regimental improvido.
+(AgRg no HC n. 711.533/PB, Rel. Ministro Olindo Menezes, 6ª T., DJe 25/4/2022.)
+ ..  5. A jurisprudência desta Corte é assente no sentido de que "não há coação na manutenção da prisão preventiva quando demonstrado, com base em fatores concretos, que se mostra necessária, para diminuir ou interromper a atuação dos integrantes da associação criminosa, pois há sérios riscos das atividades ilícitas serem retomadas com a soltura" (HC n. 329.806/MS, Quinta Turma, Relator Ministro JORGE MUSSI, julgado em 5/11/2015, DJe de 13/11/2015).
+6. Condições subjetivas favoráveis aos agravantes não são impeditivas à decretação da prisão cautelar, caso estejam presentes os requisitos autorizadores da referida segregação. Precedentes.  ..
+(AgRg no HC n. 723.725/SP, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 25/3/2022.)
+A propósito da contemporaneidade, noto que, ao revés das alegações dos impetrantes, o último ato de lavagem de dinheiro descrito nos autos não é de 2019. Em verdade, a denúncia também narra condutas de movimentação financeira pelos agentes entre os anos de 2020 a 2022.
+Exemplificativamente, ressalto a Informação de Inteligência nº 083/2022, com transferências recentes, operadas pela organização criminosa (fl. 197). O "relatório policial do dia da deflagração das operações (5079610-94.2021.4.04.7000/PR  .. )" foi instruído com "comprovantes de transferências bancárias, prints da tela de aplicativo internet banking, com valores vultosos", efetivados, inclusive, em 2021 (fl. 198, destaquei).
+Extraíram-se das interceptações telefônicas conversas de 2020 e 2021. A inicial acusatória se reporta, ainda, a "depósitos em espécie de vultuosas quantias, tod o s realizad o s em janeiro/2022" (fl. 199, grifei).
+Por sua vez, a decisão do Magistrado de Curitiba menciona "indícios de que a ORCRIM permanecia em atividade, em tese, até o ano 2022". Enuncia que"os fatos investigados nas Operações Fluxo de Capital, Caixa Fria e Sucessão não se esgotaram" na denúncia de fls. 129-242. Outrossim, a "investigação prossegue nos diversos procedimentos correlacionados, conforme destacado pelo MPF" (todos à fl. 246, destaquei).
+Quanto à arguição de tempo desproporcional de processamento do feito, consigno que se trata de demanda complexa, com 22 denunciados, pluralidade de advogados, oriunda de mais de uma operação policial, onde foram expedidos edital de citação e precatórias - fatores que justificam, ao menos por ora, o período para o trâmite processual.
+Aliás, a desarticulação de associação delituosa, com a magnitude e a periculosidade apontadas nos autos, exige, naturalmente, maior esforço do Judiciário e prazo ligeiramente elastecido para a instrução.
+O tempo de prisão provisória do paciente, de aproximadamente 7 meses, não é bastante, in casu, para o reconhecimento da suscitada desídia das instâncias de origem.
+A respeito dos 3 filhos do réu, com 3, 8 e 14 anos (fl. 318), não há, neste writ, peça que leve à constatação da real imprescindibilidade do acusado para os cuidados com as crianças.
+Dadas as circunstâncias do caso em comento, não se mostra adequada e bastante a fixação de providências cautelares alternativas (arts. 282 c/c 319 do CPP).
+À vista do exposto, denego a ordem.
+Publique-se e intimem-se.
