@@ -1,0 +1,18 @@
+DECISÃO
+GEOVANI GERALDOalega sofrer coação ilegal em seu direito de locomoção, em decorrência de acórdão proferido peloTribunal de Justiça do Estado de São Paulo.
+A impetrante busca a retificação dos cálculos penais,ao argumento de que asuperveniência de condenação, posterior à última prisão do paciente, não tem o condão de interromper o prazo de benefícios.
+Decido.
+O Juiz da VEC unificou as penas aplicadas ao paciente, em processos diversos e entendeu que "há de se considerar como data-base, para fins de benefícios executórios, em relação a ambas as condenações, o dia 20 de março de 2019, já que não houve solução de continuidade no cumprimento das penas aplicadas nem o cometimento de falta disciplinar de natureza grave" (fl. 53).
+O Tribunal de origem reformou a decisão, por considerar que a superveniência de nova condenação definitiva no curso da execução criminal sempre altera a data-base da guia penal.
+Owritcomporta pronta solução, pois o acórdão está em confronto com a tese jurídica firmada pela Terceira Seção deste Superior Tribunal, em recurso repetitivo (Tema 1006), a saber: "a unificação de penas não enseja a alteração da data-base para concessão de novos benefícios executórios".
+Aplica-se a caso a compreensão de que:
+ ..
+1. A superveniência de nova condenação no curso da execução penal enseja a unificação das reprimendas impostas ao reeducando. Caso oquantumobtido após o somatório torne incabível o regime atual, está o condenado sujeito a regressão a regime de cumprimento de pena mais gravoso, consoante inteligência dos arts. 111, parágrafo único, e 118, II, da Lei de Execução Penal.
+2. A alteração da data-base para concessão de novos benefícios executórios, em razão da unificação das penas, não encontra respaldo legal. Portanto, a desconsideração do período de cumprimento de pena desde a última prisão ou desde a última infração disciplinar, seja por delito ocorrido antes do início da execução da pena, seja por crime praticado depois e já apontado como falta disciplinar grave, configura excesso de execução.
+3. Caso o crime cometido no curso da execução tenha sido registrado como infração disciplinar, seus efeitos já repercutiram no bojo do cumprimento da pena, pois, segundo a jurisprudência consolidada do Superior Tribunal de Justiça, a prática de falta grave interrompe a data-base para concessão de novos benefícios executórios, à exceção do livramento condicional, da comutação de penas e do indulto. Portanto, a superveniência do trânsito em julgado da sentença condenatória não poderia servir de parâmetro para análise do mérito do apenado, sob pena de flagrante bis in idem.
+4. O delito praticado antes do início da execução da pena não constitui parâmetro idôneo de avaliação do mérito do apenado, porquanto evento anterior ao início do resgate das reprimendas impostas não desmerece hodiernamente o comportamento do sentenciado. As condenações por fatos pretéritos não se prestam a macular a avaliação do comportamento do sentenciado, visto que estranhas ao processo de resgate da pena.
+5. Recurso especial representativo da controvérsia não provido, assentando-se a seguinte tese: a unificação de penas não enseja a alteração da data-base para concessão de novos benefícios executórios.
+(ProAfR no Resp n. 1753512/PR, Rel. Ministro Rogerio Schietti, 3ª S., DJe 11/3/2019).
+Devepermanecer inalterado o termo anterior utilizado para estimar os benefícios da execução, somente interrompido, na hipótese de progressão de regime, pela prática de falta grave.
+À vista do exposto,concedo o habeas corpus,in limine, para determinar que aunificação de penas não altere a data-base para concessão de novos benefíciosao paciente e, por consequência,restabelecer a decisão do Juiz da VEC.
+Publique-se e intimem-se.
