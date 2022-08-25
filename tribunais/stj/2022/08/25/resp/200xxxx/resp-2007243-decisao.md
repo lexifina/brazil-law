@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de recurso especial, interposto pela Fundação Nacional de Saúde - FUNASA, com fundamento no art. 105, III, "a", da Constituição Federal contra acórdão proferido pelo Tribunal Regional Federal da 5ª Região, assim ementado (fl. 834):
+CUMPRIMENTO DE SENTENÇA. HABILITAÇÃO DA. ÚNICA BENEFICIÁRIA DA PENSÃO. LEL Nº 6.858/80 E DECRETO Nº 85.845/81. INCIDÊNCIA. PRECEDENTES. AGRAVO DE INSTRUMENTO IMPROVIDO.
+1. Agravo de instrumento interposto pela FUNDAÇÃO NACIONAL DE SAÚDE - FUNASA contra decisão do Juízo da 3ª Vara Federal de Alagoas, que deferiu o requerimento de habilitação em favor de MARIA DA CONCEIÇÃO DAMASCENO FEITOSA (única pensionista habilitada à pensão por morte), com vistas ao recebimento de valores devidos ao exequente falecido ARISTON ALVES FEITOSA.
+2. Conforme dicção da Lei n.º 6.858/80 e do Decreto 85.845/81, os valores devidos, pela União, a servidor público, em razão de cargo ou emprego, serão pagos a seus dependentes habilitados perante a Previdência Social, ou, na sua falta, aos sucessores previstos na lei civil. Precedentes: PROCESSO:
+08108494820184058000, AC - Apelação Civel - , DESEMBARGADOR FEDERAL ROGÉRIO FIALHO MOREIRA, 3ª Turma, JULGAMENTO: 24/09/2019; PROCESSO: 08042661620154058400, AC - Apelação Civel - , DESEMBARGADOR FEDERAL ROBERTO MACHADO, 1º Turma, JULGAMENTO: 05/05/2020; PROCESSO: 08090308320194050000, AG - Agravo de Instrumento - , DESEMBARGADOR FEDERAL PAULO ROBERTO DE OLIVEIRA LIMA, 2ª Turma, JULGAMENTO: 04/05/2020; PROCESSO: 08036966820194050000, AG - Agravo de Instrumento - , DESEMBARGADOR FEDERAL MANOEL ERHARDT, 4ª Turma, JULGAMENTO: 25/03/2020;
+PROCESSO: 08044951420194050000, AG - Agravo de Instrumento - , DESEMBARGADOR FEDERAL CARLOS VINICIUS CALHEIROS NOBRE (CONVOCADO), 4ª Turma, JULGAMENTO:
+17/07/2020.
+4. Reforça tal entendimento a regra segundo a qual "Independerá de inventário ou de arrolamento o pagamento dos valores previstos na Lei nº 6.858, de 24 de novembro de 1980." (CPC, art. 666).
+5. Agravo de instrumento improvido.
+Embargos de Declaração não acolhidos.
+No recurso especial, a recorrente alega preliminarmente violação dos artigos arts. 489, 1º, e 1.022, II, CPC/2015, alegando vício de omissão, porquanto, "em que pese o teor do acórdão que apreciou os embargos declaratórios opostos pelo recorrente, não restou efetivamente apreciada a matéria em confronto com os dispositivos violados, notadamente o art. 687 e 688, II, do CPC, art. 1829 do CCB, art.183, da Lei 8.112/90, e ainda, o art.1º. da Lei 6.858/80." (fl. 110).
+Na questão de fundo, indica que houve violação dos art. 687 e 688, II, do CPC/2015, 1.829 do CCB; 183da Lei 8.112/90;e, ainda, o art. 1º. da Lei 6.858/80, pois"em se tratando de pensionista de servidor público federal, regido pela Lei 8.112/90, não se aplica a Lei 6.858/80, fundamento do acórdão recorrido, a qual se dirige, EXCLUSIVAMENTE AS PENSÕES DEIXADOS PELOS SEGURADOS DA PREVIDENCIA SOCIAL, REGIDOS PELO RGPS.As pensões/aposentadorias de servidor público federal são mantidas pela União, na forma do art. 183, da Lei 8.112/90, sendo certo afirmar que referido normativo não prevê qualquer pagamento decorrente de decisão judicial, exclusivamente à pensionista, pelo que com certeza inexiste dispositivo legal que corrobore firmado no acórdão recorrido." (fl. 112).
+Sem contrarrazões.
+Juízo positivo de admissibilidade às fls. 119.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Registre-se também que é possível ao Relator dar ou negar provimento ao recurso em decisão monocrática, nas hipóteses em que há jurisprudência dominante quanto ao tema, como autorizado pelo art. 34, XVIII, do RISTJ e pela Súmula 568/STJ.
+Preliminarmente, não conheço da indicada afronta aos artigo 489, 1º, e 1.022, II, CPC/2015, pois a parte recorrente se limitou a afirmar que o acórdão incorreu em vícios de omissão eobscuridade, sem, contudo, demonstrar e particularizar qual questão de direito não foi abordada no acórdão proferido em sede de embargos de declaração e a sua efetiva relevância para fins de novo julgamento pela Corte de origem. Incide à hipótese a Súmula 284/STF. Nesse sentido, confira: REsp 1.728.921/SC, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 24/10/2018; AgInt no AREsp 1.134.984/MG, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 06/03/2018.
+Por outro lado, verifica-se queo recurso especial contém alegações genéricas, imprecisas no que diz respeito a suposta violação do artigos 687 e 688, inciso II, do CPC/2015; 1.829 do Código Civil; 183 da Lei 8.112/90; e, ainda, o art. 1ºda Lei 6.858/80. É dizer, o alegado pelo recorrente sobre eventual ofensa à lei federal não está devidamente particularizado de forma clara e específica e não tem em si correspondência com os fundamentos aplicados pelo acórdão recorrido situação que impede a exata compreensão da controvérsia deduzida, incidindo, por analogia, o óbice da Súmula 284/STF.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. VIOLAÇÃO AO ART. 535 DO CPC.DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DASÚMULAN. 284/STF. JUROS MORATÓRIOS NO CÔMPUTO DA BASE DE CÁLCULO DOS HONORÁRIOS ADVOCATÍCIOS. INCIDÊNCIA DASÚMULAN. 83/STJ. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015.DESCABIMENTO.
+ ..
+II - A jurisprudência desta Corte considera que quando a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se, por analogia, o entendimento daSúmulan.284,do Supremo Tribunal Federal.
+ ..
+VII - Agravo Interno improvido.
+(AgInt no REsp 1.604.668/RS, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 26/6/2019)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO DE LEI FEDERAL VIOLADO.SÚMULA 284DO STF.
+1. A admissibilidade do recurso especial reclama a indicação clara dos dispositivos tidos por violados, bem como a exposição das razões pelas quais o acórdão teria afrontado cada um, não sendo suficiente a mera alegação genérica. O inconformismo apresenta-se deficiente quanto à fundamentação, o que impede a exata compreensão da controvérsia (Súmula284/STF). Entendimento aplicável aos recursos interposto com base na divergência jurisprudencial.
+ ..
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.257.119/RS, Rel. Ministro Og Fernandes, Segunda Turma, DJe 28/3/2019)
+A propósito, nesse sentido, confiram os seguintes julgados: AgInt no REsp 1.604.668/RS, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 26/6/2019; AgInt no REsp 1.530.047/SC, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 02/5/2019; AgInt no REsp 1.909.855/RS, Rel. Ministro Og Fernandes, Segunda Turma, DJe 02/08/2021.
+Ante o exposto, não conheço do recurso, com fundamento no artigo 932, III, do CPC/2015, combinado com os artigos 34, XVIII, a, e 255, I, do RISTJ.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. HABILITAÇÃODE BENEFICIÁRIOSDEPENSÃO. VIOLAÇÃO DOS ARTS. 489 E 1.022 DE 2015. ALEGAÇÕES GENÉRICAS. SÚMULA 284 DO STF. ARTIGOS TIDOS POR VIOLADOS. AUSÊNCIA DE PARTICULARIZAÇÃO. SÚMULA 284 DO STF. RECURSO NÃO CONHECIDO.
