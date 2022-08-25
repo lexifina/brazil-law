@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo interposto por GA Tchalian Ferreira - Microempresa contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (fl. 850):
+TUTELA ANTECIPADA - Agravante que pretende impedir a agravada de realizar cobranças referentes ao contrato de franquia - Probabilidade do direito não verificada - Agravante que tentou negociar parte do débito - Recurso improvido.
+Nas razões do recurso especial, interposto com fundamento no artigo 105, III, alínea"a", da Constituição Federal, a parte ora agravante alega violação aos artigos 294, 300, 489, § 1º, IV, e 1022, parágrafo único, I, do Código de Processo Civil, e artigo 6º, VIII, do Código de Defesa do Consumidor.
+Aduz que o quando o"Colendo Tribunal narra que não há demonstração de que a cobrança indevida se funda na aparência do bom direito, motivo pelo qual teria negado provimento ao agravo de instrumento, resta por violar os artigos 294 e 300, do Código de Processo Civil, visto que se extrai dos aspectos fáticos" narrados nos autos, notadamente a necessidade de assunção de gastos com compras acima do esperado, que a cobrança realizadaem face da recorrente é injusta e decorre da má-fé da recorrida, demonstrando a existência do fumus boni iuris a autorizar a concessão da tutela antecipadapretendida.
+Contrarrazões às fls. 890/897.
+Ultrapassado o juízo de admissibilidade, passo a decidir.
+O Tribunal de origem, ao analisar a controvérsia e negar a antecipação de tutela pretendida, adotou fundamentos claros e suficientes,in verbis:
+Em cognição sumária, diante dos elementos trazidos em sede de contestação, verifica-se que a própria agravante procurou a agravada para negociar parte do débito (fls.705).
+Por sua vez, os documentos de fls.733/823 afastam a alegação da agravante de que a agravada não promovia campanhas publicitárias.
+E, diante do julgamento do REsp 1.061.530/RS pelo E. Superior Tribunal de Justiça ao aplicar a Lei de Recursos Repetitivos (Lei 11 672/08), impõe-se a aplicação do posicionamento adotado por aquela Corte:
+"A abstenção da inscrição/manutenção em cadastro de inadimplentes, requerida em antecipação de tutela e/ou medida cautelar, somente será deferida se, cumulativamente: i) a ação for fundada em questionamento integral ou parcial do debito; ii) houver demonstração de que a cobrança indevida se funda na aparência do bom direito e em jurisprudência consolidada no STF ou STJ; iii) houver depósito da parcela incontroversa ou for prestada caução fixada conforme o prudente arbítrio do juiz." (REsp 1.061.530/RS 2ª Seção Rel. Min. NANCY ANDRIGHI j. 22.10.2 008)
+No caso, não há demonstração de que a cobrança indevida se funda na aparência do bom direito e tampouco foi efetuado o depósito daparcela decisão incontroversa, portanto, escorreita a agravada.
+Desse modo, não há que falar em violação aos artigos 489 e 1.022 Código de Processo Civil/15 quando a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente.
+É certo que o Juiz não está obrigado a responder a todas as alegações das partes, quando já tenha encontrado motivo suficiente para fundamentar a decisão, nem se obriga a ater-se aos fundamentos por elas indicados, tampouco a responder um a um a todos os seus argumentos. Nesse sentido: "não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte"(AgInt no AREsp 629.939/RJ, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe 19/6/2018).
+Ademais, a revisão das premissas adotadas no acórdão recorrido demandaria, necessariamente, o reexame de provas, providência vedada em recurso especial, nos termos daSúmula e 7/STJ.
+Nesse sentido são os seguintes julgados desta Corte:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. AÇÃO DE INDENIZAÇÃO. FALHA NA PRESTAÇÃO DE SERVIÇO MÉDICO-HOSPITALAR. EXISTÊNCIA DE NEXO DE CAUSALIDADE. DANO MORAL E DANO ESTÉTICO. CABIMENTO. VALOR RAZOÁVEL. JUROS DE MORA. TERMO INICIAL. CITAÇÃO. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO E NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Agravo interno contra decisão da Presidência que não conheceu do agravo em recurso especial, em razão da falta de impugnação específica de fundamento decisório. Reconsideração.
+2. Na hipótese, o Tribunal de origem observou que a falha do nosocômio foi demonstrada pela prova produzida pela autora, bem como pelas conclusões do laudo pericial, ficando evidenciado que as lesões tiveram origem na falta de movimentação da autora em seu leito hospitalar, sendo certo que o hospital não adotou as medidas necessárias para evitar as escaras.
+3. A reforma do acórdão recorrido demandaria o revolvimento do suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+4. O valor arbitrado pelas instâncias ordinárias a título de danos morais e estéticos pode ser revisado em sede de recurso especial quando irrisório ou exorbitante. No caso, os montantes fixados em R$ 50.000,00 (cinquenta mil reais), a título de dano moral, e R$ 50.000,00 (cinquenta mil reais), a título de dano estético, não se mostram exorbitantes ou desproporcionais aos danos suportados pela paciente.
+5. Nos casos de responsabilidade contratual, os juros de mora incidem a partir da citação.
+6. Agravo interno provido para conhecer do agravo e negar provimento ao recurso especial.
+(AgInt no AREsp n. 1.900.623/RJ, relator Ministro Raul Araújo, Quarta Turma, julgado em 15/3/2022, DJe de 24/3/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DECLARATÓRIA C/C PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA PARTE RÉ.
+1. As questões trazidas à discussão foram dirimidas pelo Tribunal de origem de forma suficientemente ampla, fundamentada e sem omissões.
+Deve ser afastada a alegada violação aos arts. 489, § 1º, IV e 1.022 do CPC/15.
+2. Rever o entendimento do Tribunal local acerca da suficiência das provas produzidas demandaria o reexame do contexto fático probatório dos autos, o que é vedado pela Súmula 7 do STJ.
+3. As questões envolvendo os elementos ensejadores do dever de indenizar demandam reexame dos elementos fáticos contidos no processo, tarefa não encontrada no rol das competências do Superior Tribunal de Justiça e, portanto, expressamente vedada no âmbito deste Tribunal, conforme teor da Súmula 7 desta Corte.
+(..)
+6. Agravo interno desprovido.(AgInt no AREsp n. 1.925.959/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 14/2/2022, DJe de 21/2/2022.)
+Em face do exposto, nego provimento ao agravo.
+Deixo de majorar os honorários nos termos do art. 85, § 11, do Código de Processo Civil, visto que o recurso especial foi interposto nos autos de agravo de instrumento que ataca decisão interlocutória.
+Intimem-se.
