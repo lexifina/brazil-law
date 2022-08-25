@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (e-STJ, fl. 460):
+CUMPRIMENTO DE SENTENÇA
+- Descumprimento de acordo - Alegação de atividade afetada em razão da pandemia (COVID-19) - Não Cabimento - Impugnação não acolhida - Necessidade- Situação que não pode ser utilizada para descumprimento contratual- Parte que tinha prévio conhecimento da obrigação ajustada:
+- De rigor a manutenção da decisão que não acolheu a impugnação ao cumprimento de sentença, que pretendia o afastamento do vencimento antecipado da dívida e respectiva multa contratual por atraso no adimplemento, uma vez que a causa suscitada para tanto é a pandemia do COVID-19, sendo certo que tal situação pode ser utilizada para descumprimento contratual, porque a agravante tinha prévio conhecimento e cumpria-lhe ressalvar as obrigações ajustadas e honrá-las.
+RECURSO NÃO PROVIDO.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 317 e 393 do Código Civil; bem como divergência jurisprudencial.
+Alega que o motivo do inadimplemento da dívida contraída com a parte recorrida decorreu em razão dos efeitos causados pela pandemia. Defende a impossibilidade de vencimento antecipado da dívida, bem como a inexigibilidade de multa, pois a situação se enquadraria em hipótese decaso fortuito devido àsconsequências advindas da pandemia daCOVID-19.
+Requer, ao final, o acolhimento da impugnação ao Cumprimento de Sentença " para declarar (i) a impossibilidade de vencimento antecipado da dívida, (ii) a inexigibilidade da multa e juros pretendidos pelos Recorridos e (iii) declarar retroativamente a suspensão dos vencimentos das parcelas de abril e maio de 2020, pagamentos estes que já foram retomados, não havendo qualquer parcela em aberto" (e-STJ, fl.488).
+Contrarrazões apresentadas.
+Assim delimitada a controvérsia, passo a decidir.
+No caso, a Corte local manteve a decisão que não acolheu a impugnação ao cumprimento de sentençacom base nos seguintes fundamentos(e-STJ, fls.462/464):
+Infere-se dos autos que as partes entabularam acordo, em que a agravante se obrigou à restituição da quantia de R$ 80.231,99, a ser atualizada pelo INCC-M até o efetivo pagamento, mediante 12 parcelas mensais e sucessivas, sendo a primeira com vencimento no dia 12/11/2019 e as demais no dia 12 dos meses subsequentes, tendo conseguido efetuar o pagamento pontual das 05 primeiras parcelas, atrasando a do mês de abril e de maio, em razão da pandemia do COVID-19 e a decretação da quarentena, por decretos governamentais.
+Afirma que embora o atraso tenha sido insignificante, em 43 dias para a 6ª parcela e 13 dias para a 7ª, a agravada insiste na pretensão de recebimento antecipado da dívida e de exorbitante multa de 30%. Ressalta que os pagamentos das demais parcelas já se regularizaram, e que apenas faltam duas parcelas que vencerão em setembro e outubro de 2020.
+Diante desses elementos, impugnou o cumprimento da sentença requerendo o afastamento do vencimento antecipado e incidência de multa, ou sua redução, o qual não foi acolhida, sendo tal decisão objeto do presente agravo.
+Pois bem. No presente caso, há que ser aplicado o princípio clássico que rege as relações contratuais, o princípio da pacta sunt servanda ou da obrigatoriedade contratual, que determina que o que fora estabelecido entre as partes deverá ser cumprido, não podendo ser modificado, a não ser por mútuo acordo. Isso porque, não há qualquer ilicitude no contrato, nem cláusula contrária ao Direito que o desabone e que permita que ele não seja obedecido por uma das partes.
+As partes pactuaram livremente as clausulas contratuais nele estabelecidas, estando ciente que na ocorrência de eventual descumprimento, haveria vencimento antecipado da dívida, bem como multa contratual em 30%.
+Ademais, a própria agravante admite ter descumprido o prazo de pagamento das parcelas referentes aos meses de abril e maio de 2020 licitamente avençadas e, para tanto, busca se escusar sob a alegação imputada à pandemia atual de saúde doCOVID-19.
+No entanto, essa alegação por si só não se sustenta, porque a agravante tinha prévio conhecimento do quanto acordado, e cumpria-lhe ressalvar as obrigações ajustadas e honrá-las. Na verdade, em nenhum momento a agravante demonstrou concretamente o impedimento para quitar as parcelas nas datas de seus vencimentos, limitando-se a alegar o prejuízo decorrente das ações governamentais de combate à pandemia, sem comprovar seu impacto real na atividade empresarial desenvolvida.
+(..)
+Pelas mesmas razões, mantém-se a multa contratual tal como pelas partes estabelecida, não se cogitando sequer em sua redução.
+Com efeito, alterar aconclusão do acórdão recorrido que não reconheceu a ocorrência de caso fortuito demandaria o reexame do conjunto fático-probatório, o que é inviável em sede de recurso especial, a teor do que dispõe aSúmula7/STJ.
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
