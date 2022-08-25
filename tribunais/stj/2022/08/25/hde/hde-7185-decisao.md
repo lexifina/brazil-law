@@ -1,0 +1,26 @@
+DECISÃO
+O Ministério da Justiça e da Segurança Pública, na qualidade de autoridade central designada pela Lei de Migração, com amparo nos arts. 100 e 101, § 1º, para reconhecimento do acórdão de 1º de outubro de 2015, transitado em julgado em 29 de março de 2016, proferido pelo Tribunal Judicial da Comarca de Lisboa, nos autos do Processo Comum n. 424/13.3JELSB, com a consequente transferência da execução de pena imposta ao nacional guineense Abrão Augusto Inteie, com base na promessa de reciprocidade para casos análogos.
+Consta nos autos que o réu foi condenado pela Justiça portuguesa, por sentença transitada em julgado, à pena de 5 anos e 4 meses de prisão, pela prática do crime de tráfico de drogas.
+O Ministério Público Federal opinou pela homologação da sentença condenatória estrangeira.
+É, no essencial, o relatório. Decido.
+A Lei de Migração (Lei n. 13.445/2017) criou o instituto da transferência de execução da pena a fim de que a sentença penal condenatória àpena privativa de liberdade seja cumprida contra as pessoas que estão fora das fronteiras do Estado que as condenou.
+O art. 100 da citada lei estabelece:
+Nas hipóteses em que couber solicitação de extradição executória, a autoridade competente poderá solicitar ou autorizar a transferência de execução da pena, desde que observado o princípio do non bis in idem.
+O pedido de transferência feito pelo Estado estrangeiro é recebido pelo Ministério da Justiça e da Segurança Pública, autoridade central designada, que, após a verificação da admissibilidade, encaminha esse pleito ao Superior Tribunal de Justiça para a homologação da sentença penal estrangeira.
+É importante pontuar a seguinte questão: diferentemente do que ocorre no processo de extradição, em que o Ministério da Justiça examina somente a documentação indispensável à instrução do procedimento (art. 7º da Portaria MJ n. 217/2018), natransferência de execução da pena, o legislador previu expressamente que a esse órgão cabe o exame do preenchimento dos pressupostos formais de admissibilidade exigidos na legislação brasileira ou em tratado de que o Brasil faça parte (arts. 101, § 1º, da Lei n. 13.445/2017 e 281 do Decreto n. 9.199/2017). Dessa forma, fica patente a competência do aludido órgão para o exame dos pressupostos necessários ao deferimento da transferência. Por conseguinte, ao Superior Tribunal de Justiça resta somente a análise dos requisitos relativos à homologação da sentença estrangeira.
+No presente caso concreto, em juízo de admissibilidade administrativo realizado por esta Autoridade Central, observamos a presença dos requisitos previstos nos incisos I a V do parágrafo único da Lei n. 13.445/2017, constando na documentação encaminhada as seguintes informações:
+I) o condenado em território estrangeiro tem residência habitual e vínculo familiar no Brasil, havendo inclusive seu consentimento em cumprir a pena no Brasil;
+II) asentençacriminalcondenatóriatransitadoem julgado em Portugal;
+III) a duração da condenação a cumprir ou que restar para cumprir for de pelo menos, 1 (um) ano, na data da apresentação do pedido por Portugal;
+IV) salvo melhor juízo, o fato que originou a condenação constitui infração penal perante a lei de ambos os países; e
+V) houver tratado ou promessa de reciprocidade.
+No caso, verifica-se que o condenado tem residência no Brasil (fl. 32), a decisão estrangeira transitou em julgado (fl. 7), a duração da condenação a cumprir é de 5 anos e 4 meses de prisão efetiva (fl. 6), os fatos que originaram a condenação constituem infração penal perante a lei brasileira (art. 33 da Lei n.11.343/2006) e há tratadofirmadoentre Brasil e Portugal, promulgadono Brasil pelo Decreto n.8.049/2013, além da promessa de reciprocidade.
+Presentes os requisitos previstos no art. 100, parágrafo único, da Lei n. 13.445/2017, a solicitação veio ao Superior Tribunal de Justiça para a homologação dasentençapenalque o Estado de Portugal pretende transferir ao Brasil.
+Verifica-se que os documentos necessários à homologação foram devidamente apresentados. Constam dos autos asentençaestrangeiracondenatória(fls. 6-33) e a comprovação do trânsito em julgado (fl. 7). Fica dispensada a autenticação, uma vez que a tramitação ocorreu por via oficial, tendo a comissão sido encaminhada diretamente pela autoridade do país requisitante à instituição intermediária do Brasil (SE n. 11.436, Ministro Felix Fischer, DJe de 21/8/2014).
+Os pressupostos indispensáveis ao deferimento do pedido foram observados (arts. 216-C e 216-D do RISTJ). Ademais, as condenações impostas ao requerido não ofendem a soberania nacional, a dignidade da pessoa humana e/ou a ordem pública nem os bons costumes (arts. 17 da Lei de Introdução às Normas do Direito Brasileiro e 216-F doRISTJ).
+Por fim, cumpre registrar que o Supremo Tribunal Federal deferiu a extradição na sessão virtual realizada de19/3/2021 a 26/3/2021, tendo o trânsito em julgado em 26/5/2022.
+Ante o exposto, homologo otítulojudicialestrangeiro.
+Expeça-se a carta de sentença.
+Oficie-se com urgência ao Ministério da Justiça e da Segurança Pública e à Justiça Federal do Estado de São Paulo para as providências cabíveis à execução dapena.
+Oficie-se também ao Supremo Tribunal Federal.
+Publique-se.
