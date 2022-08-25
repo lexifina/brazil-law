@@ -1,0 +1,15 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por RAFAEL GREIN ao decisum de e-STJ fls. 888/891, que conheceu do agravo para não conhecer do seu recurso especial.
+Em suas razões, a defesa afirma que a decisão foi omissa a alegação de falta de provas necessárias para a condenação, posto que "não há nenhum elemento indicado pelo acórdão recorrido que aponte, acima da dúvida, a participação do réu, ora embargante, no delito previsto no art. 311 do CPP" (e-STJ fl. 897).
+Diante disso, requer o acolhimento dos embargos.
+É o relatório. Decido.
+Consoante prevê o art. 619, do Código de Processo Penal, o recurso de embargos de declaração é restrito às hipóteses de correção de omissão, obscuridade, ambiguidade ou contrariedade no acórdão embargado, ou ainda, segundo a jurisprudência, para corrigir erro material.
+Na hipótese dos autos, a insurgência do embargante cinge-se à aventada ausência de provas hábeis a condenação pela prática do delito previsto no art. 311 do Código Penal.
+A respeito vale esclarecerque o Tribunal de origem expressamente consignou que "Análise dos autos revela que o réu teve em depósito e, depois, vendeu o veículo objeto do furto precedente e para tentar evitar a localização do bem ilícito, realizou falsificação em seus sinais identificadores" (e-STJ fl. 751), de modo que a inversão do julgado,tal como pretende a defesa, não pode ser realizada sem nova incursão no conjunto fático-probatório, providência incabível em sede de recurso especial, ante o óbice contido na Súmula 7/STJ, consoante conclui a decisão ora embargada.
+Logo, não se verifica a necessidade de revisão da decisão monocrática, uma vez que não foram apresentados novos elementos capazes de ensejar a reforma da decisão impugnada.
+No caso, a irresignação submetida ao crivo do Superior Tribunal de Justiça foi devidamente analisada, nos limites do seu conhecimento. Destarte, não há se falar em acolhimento dos presentes embargos, porquanto a mera irresignação com o entendimento apresentado na decisão não autoriza a oposição de embargos de declaração.
+De fato, "os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022), de modo que é inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas no acórdão embargado, já que não são cabíveis para provocar novo julgamento da lide" (EDcl nos EDcl no AgInt nos EDcl no AREsp 1.076.319/MG, Rel. Ministro LÁZARO GUIMARÃES, DJe 22/08/2018).
+Assim, resolvidas as questões com fundamentação satisfatória, caso a parte não se conforme com as razões declinadas ou considere a existência de algum equívoco ou erro de julgamento, não são os embargos, que possuem função processual limitada, a via própria para impugnar o julgado ou rediscutir a causa.
+Com efeito, os presentes embargos declaratórios não merecem acolhimento, porquanto não evidenciada a ocorrência de nenhum dos vícios previstos no art. 619 do Código de Processo Penal.
+Ante o exposto, rejeito os embargos de declaração.
+Intimem-se.
