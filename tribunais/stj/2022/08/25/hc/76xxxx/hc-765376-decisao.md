@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor deVICENTE ROGERIO DE ABREUapontando como autoridade coatora desembargador doTRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO(Habeas Corpus n. 2150511-10.2022.8.26.0000).
+Depreende-se dos autos que o paciente encontra-se em cumprimento de pena.
+Na origem, pleiteoua defesa, "em suma,  ..  que a falta de natureza grave pelo qual o reeducando foi condenado se reveste de nulidade, em razão da ausência do paciente na colheita dos depoimentos dos agentes penitenciários que proferiram as acusações, fato esse que acarretaria violação aos princípios da ampla defesa e do devido processo legal, insistindo que o paciente teve seu direito de defesa cerceado, além de transgressão aos preceitos do art. 59 da Lei nº 7210/84. Aduz que não foi observada a possibilidade de aplicação dos redutores previstos no art. 47 do RIPESP, bemcomo a consequente desconsideração de falta de natureza grave para leve ou média, sendo objeto de nulidade. Por fim, aponta nulidade do procedimento em razão da não realização de oitiva judicial do ora paciente" (e-STJ fls. 110/111).
+O relator, contudo, não conheceu da impetração, ao fundamento que "a presente ação constitucional se volta contra decisão desta C. 4ª Câmara Criminal que, no bojo do julgamento do Agravo de Execução Penal nº 0005158-26.2021.0026, negou provimento ao recurso do ora paciente, mantendo a r. decisão tal qual lançada, a qual determinou a regressão de Vicente Rogerio de Abreu ao regime fechado, em razão da prática de falta grave, e a perda de 1/6 dos dias eventualmente remetidos até a data da falta" (e-STJ fl. 111).
+No presente writ, pugna a defesa,"LIMINARMENTE, O CONHECIMENTO E A CONCESSÃO DE ORDEM DE HABEAS CORPUS para anular a sindicância, ante a ausência da presença do Paciente quando do colhimento dos depoimentos das testemunhas, da ausência da aplicação das atenuantes previstas no artigo 47 do RIPESP e da oitiva judicial, prevista no artigo 188, §2º da LEP  .. " (e-STJ fl. 13).
+É o relatório.
+Decido.
+Não obstante as razões constantes da petição inicial, a impetração não merece seguimento.
+A uma, porque a defesa se insurge contra decisão singular de desembargador doTribunal de Justiça do Estado de São Paulocontra a qual seria cabível agravo regimental, que, aparentemente, não foi interposto, o que impossibilita o conhecimento deste writ.
+E, a duas, porque, se fosse considerar o Agravo de Execução Penal n.0005158-26.2021.0026 como ato coator, ainda assim se verifica deficiência na instrução, porquanto aimpetrante não juntou aos autos cópia do inteiro teor do referido acórdão.
+Ressalte-se que o rito do habeas corpus pressupõe prova pré-constituída do direito alegado, devendo a defesa demonstrar, de maneira inequívoca, por meio de documentos, a existência de constrangimento ilegal imposto ao paciente.
+Nesse sentido, tem-se orientado a jurisprudência desta Corte Superior de Justiça:
+PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. ACÓRDÃO DO TRIBUNAL DE ORIGEM QUE INDEFERIU LIMINARMENTE A INICIAL DO WRIT ORIGINÁRIO. JULGAMENTO DO MÉRITO NESTA CORTE. IMPOSSIBILIDADE. AUSÊNCIA DE PEDIDO PARA DETERMINAR AO TRIBUNAL DE JUSTIÇA QUE JULGUE O PEDIDO. NEGATIVA DE SEGUIMENTO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1 - Indeferida liminarmente a impetração no Tribunal de Justiça do Estado de São Paulo, não tem como esta Corte, na via eleita, julgar o mérito da contenda.
+2 - Não havendo pedido para que a instância de origem julgue a matéria de fundo, a negativa de seguimento a este habeas corpus é de rigor.
+3 - A não ser assim, estará o Superior Tribunal de Justiça censurando a própria decisão de primeiro grau, o que não é possível.
+4 - Agravo regimental não provido. (AgRg no HC n. 344.975/SP, relatora Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, DJe 23/2/2016, grifei.)
+PEDIDO DE RECONSIDERAÇÃO NO HABEAS CORPUS. PRINCÍPIO DA FUNGIBILIDADE. RECEBIMENTO COMO AGRAVO REGIMENTAL. PRISÃO PREVENTIVA. INDEFERIMENTO DA LIMINAR. INSTRUÇÃO DEFICIENTE. POSSIBILIDADE. AUSÊNCIA DE ILEGALIDADE.
+1. Pedido de reconsideração, apresentado dentro do quinquídio legal, deve ser recebido como agravo regimental, em homenagem ao princípio da fungibilidade.
+2.Tendo sido devidamente fundamentado o indeferimento do pedido liminar, diante daausência da cópia do acórdão combatido, documento indispensável ao exame da legalidade da custódiapreventiva, não há ilegalidade a ser sanada.
+3. Pedido de reconsideração recebido como agravo regimental, ao qual se nega provimento.
+(RCD no HC 510.736/PE, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 18/06/2019, DJe 28/06/2019, grifei.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. IMPETRAÇÃO ORIGINÁRIA INDEFERIDA LIMINARMENTE. AUSÊNCIA DE INTERPOSIÇÃO DO AGRAVO REGIMENTAL. EXAURIMENTO DA INSTÂNCIA INFERIOR. INOCORRÊNCIA. MÉRITO DA IMPETRAÇÃO NÃO DISCUTIDO NA IMPETRAÇÃO ORIGINÁRIA. SUPRESSÃO DE INSTÂNCIA. DOCUMENTOS ESSENCIAIS AO EXAME DA CAUSA NÃO JUNTADOS AO MANDAMUS. DEFICIÊNCIA NA INSTRUÇÃO. AGRAVO DESPROVIDO.
+1. Inexiste manifestação sobre o mérito da impetração originária pelo órgão colegiado da Corte Estadual, tendo em vista que não foi interposto o recurso cabível contra a decisão do Desembargador que indeferiu liminarmente o writ lá deduzido. Assim, inexistindo manifestação da Corte Estadual na decisão atacada, fica o Superior Tribunal de Justiça - STJ impedido de manifestar-se sobre ela, vedada a supressão de instância.
+2.O mandamus foi deficientemente instruído, pois não havia sido juntada aos autos acópia do acórdãoao qual o Desembargador faz referência na decisão que não conheceu da segunda impetração, documento essencial à exata compreensão da controvérsia. 3. Em razão da celeridade do rito do habeas corpus, incumbe ao impetrante apresentar prova pré-constituída do direito alegado, sob pena de não conhecimento da impetração. Precedentes.
+4. Agravo Regimental desprovido.
+(AgRg no HC 475.958/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 05/02/2019, DJe 14/02/2019, grifei.)
+Assim, diante da ausência de prova pré-constituída das alegações, torna-se impossível analisar o suposto constrangimento ilegal.
+Ante o exposto, com base no art. 210 do Regimento Interno do Superior Tribunal de Justiça,indefiro liminarmenteo presentehabeas corpus.
+Publique-se. Intimem-se.
