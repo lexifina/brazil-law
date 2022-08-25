@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo interposto por CONDOMÍNIO SHOPPING CENTER GALLERIAcontra decisão do Tribunal de Justiça do Estado de São Paulo, que não admitiu recurso especial, fundado naalínea"c" do permissivo constitucional, o qualdesafia acórdão assim ementado (e-STJ fl. 442):
+Agravo Interno. Decisão Monocrática de indeferimento de pedido de substituição dos depósitos realizados nos autos por seguro garantia. Pretensão de substituição dos depósitos por seguro garantia, em razão do impacto causado pela pandemia de COVID-19 no cenário econômico. Impossibilidade. Entendimento do C.STJ de que a fiança bancária não possui o mesmo status que o depósito em dinheiro (AREsp nº 1.547.429/SP). Precedentes. Decisão mantida.
+Recurso não provido.
+No especial obstaculizado (e-STJ fls. 448/467), a recorrente aponta dissídio com o decidido nos autos doREsp1.838.837/SP, Rel. Min. Nancy Andrighi, argumentandoque, "como o seguro garantia é automaticamente conversível em dinheiro no final do feito, não há razão de existir qualquer argumento que impeça a substituição de um pelo outro"(e-STJ fl. 459).
+Aponta a inaplicabilidadeao casodo decidido no AResp 1.547.429/SP (citado no acórdão recorrido), ante a ausência de similitude entre as situações fáticas subjacentes a cada processo, pois o caso dos autos cuida de ação declaratória de inexistência de relação jurídica tributária, ao passo que o precedente referido trata de execução fiscal, situação em que a dívida já seriacerta e exigível.
+Acrescentaque, "diante de todo o cenário provocado pela pandemia do COVID-19, o Conselho Nacional de Justiça (CNJ), assim como os Egrégios Tribunais Regionais Federais (TRFs) e o próprio E. Tribunal de Justiça do Estado de São Paulo (TJ-SP) já proferiram decisões que divergem do entendimento adotado por esta C. Turma Julgadora" (e-STJ fls. 452/453).
+As contrarrazões foram oferecidas às e-STJ fls. 607/623.
+O recurso não foi admitido diante da inobservância do "requisito previsto no art. 1029, § 1º, do Código de Processo Civil, e no art. 255, § 1º, do RISTJ" e do óbice contido na Súmula 7 do STJ (e-STJ fls. 624/625).
+No agravo em recurso especial (e-STJ fls. 628/639), a parte impugna a fundamentação da decisão agravada e reitera as razões do recurso especial.
+A contraminuta foi apresentada.
+Passo a decidir.
+Orecurso não pode ser conhecido pela divergência (alínea "c" do permissivo constitucional), pois o recorrente deixou de promover o cotejo analítico, com a transcrição dos trechos dos acórdãos em que se funda a divergência, com a exposição das circunstâncias que identificam ou assemelham os casos confrontados, não atendendo, portanto, aos pressupostos específicos à configuração do dissenso jurisprudencial, previstos o anrt. 1.029, § 1º, do Código de Processo Civil de 2015 e no art. 255, §§ 1º e 2º, do Regimento Interno do Superior Tribunal de Justiça.
+Com efeito, "ademonstração do dissenso interpretativo suscitado aperfeiçoa-se, tão somente, a partir da comparação analítica entre os julgados apontados como paradigmas e aquele que se pretende ver reformado; sendo imprescindível a similitude fática dos casos confrontados e a indicação do dispositivo legal objeto da interpretação controvertida, o que não se verifica nos autos" (AgInt no AREsp 812.550/MA, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 01/03/2018, DJe 13/03/2018).
+Sobre a questão:
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 3/STJ.  ..  DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE DEMONSTRAÇÃO DA SIMILITUDE FÁTICO-JURÍDICA. RECURSO ESPECIAL NÃO CONHECIDO.
+ ..
+2. Quanto à interposição do recurso especial pela alínea "c" do permissivo constitucional, convém ressaltar que o recorrente deve cumprir o disposto no art. 1029, § 1º, do CPC/2015, e no art. 255, § 1º, do RISTJ. Assim, considera-se inviável a apreciação de recurso especial fundado em divergência jurisprudencial, quando o recorrente não demonstrar o suposto dissídio pretoriano por meio: (a) da juntada de certidão ou de cópia autenticada do acórdão paradigma, ou, em sua falta, da declaração pelo advogado da autenticidade dessas; (b) da citação de repositório oficial, autorizado ou credenciado, em que o acórdão divergente foi publicado; (c) do cotejo analítico, com a transcrição dos trechos dos acórdãos em que se funda a divergência, além da demonstração das circunstâncias que identificam ou assemelham os casos confrontados, não bastando, para tanto, a mera transcrição da ementa e de trechos do voto condutor do acórdão paradigma; (d) a indicação dos dispositivos de lei federal com interpretação divergente entre os Tribunais.
+ ..
+4. Recurso especial não conhecido.
+(REsp 1790038/PE, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 02/06/2020, DJe 09/06/2020)
+Ainda que fosse possível a superação desse óbice processual, a leitura da peça recursal revela que a recorrente deixou de indicar o dispositivo legal tido por violado pelo acórdão recorrido, razão pela qual se aplica, por analogia, a Súmula 284 do STF ("Inadmissível o recurso extraordinário, quando a deficiência da fundamentação não permitir a exata compreensão da controvérsia").
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. NÃO INDICAÇÃO DO DISPOSITIVO DE LEI FEDERAL VIOLADO. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. AUSÊNCIA DE COMBATE A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO. RAZÕES RECURSAIS DISSOCIADAS. INCIDÊNCIA, POR ANALOGIA, DAS SÚMULAS N. 283 E 284/STF. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+ ..
+II - A jurisprudência desta Corte considera deficiente a fundamentação do recurso que não aponta o dispositivo de lei federal violado pelo acórdão recorrido, bem como quando a parte deixa de impugnar fundamento suficiente para manter o acórdão recorrido, apresentando razões recursais dissociadas dos fundamentos utilizados pela Corte de origem. Incidência, por analogia, das Súmulas n. 283 e 284/STF.
+ ..
+VI - Agravo Interno improvido.
+(AgInt no AgInt no REsp 1.676.827/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 19/06/2018, DJe 25/06/2018).
+PROCESSUAL CIVIL E TRIBUTÁRIO. CONTRIBUIÇÃO SOCIAL. RECURSO ESPECIAL. RECOLHIMENTO OBRIGATÓRIO. MULTA MORATÓRIA. OFENSA AO ART. 535, II, DO CPC/1973. RAZÕES GENÉRICAS. SÚMULA 284/STF. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO DE LEI VIOLADO. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. LEGITIMIDADE DO SENAI PARA PROMOVER AÇÃO DE COBRANÇA DE CONTRIBUIÇÃO ADICIONAL. PRECEDENTES. FUNDAMENTO NÃO ATACADO. SÚMULA 283/STF.
+ ..
+2. Inadmissível o Recurso Especial que não indica com precisão os dispositivos de lei federal supostamente violados ou deixa de especificar de que forma eles teriam sido contrariados pelo acórdão recorrido, nos termos da Súmula 284/STF.
+ ..
+5. Recurso Especial parcialmente conhecido e, nessa parte, não provido.
+(REsp 1.667.771/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 13/06/2017, DJe 20/06/2017).
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
