@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de MARCOS VINICIUS DOS SANTOS- preso cautelarmente pela suposta prática do crime previsto no artigoem concurso formal, no art. 121, § 2º, III e IV, e § 4º, parte final, e, por três vezes, no art. 121, § 2º, III e IV, combinado com o art. 14, II, todos do Cód. Penal- contra decisão liminardo Tribunal de Justiça do Estado de São Paulo(HC n. 2195687-12.2022.8.26.0000).
+Segundo consta dos autos, o pacienteteria consumido um litro de vodka, logo em seguida saiu conduzindo o veículo, perdendo a noção de direção numa curva, ocasionando o acidente que culminou no óbito de uma menina de 12 anos de idade, além de lesões corporais em outras vítimas.
+Homologado o flagrante foi decretada a prisão preventiva (e-STJ fls. 22/26).
+Inconformada, a defesa, impetrou habeas corpus na Corte estadual, alegando naquela oportunidade, ausência de fundamentação para o decreto preventivo. O Relator da ação originária, indeferiu a liminar (e-STJ fls. 12/13).
+Na presente oportunidade, a defesa reafirma que estão ausentes os pressupostos que autorizam a prisão cautelar, ressaltando as condições pessoais favoráveis do paciente - primário, com 25 anos, trabalhador.
+Diante disso, pede, em liminar e no mérito, a revogação da prisão preventiva do paciente, tudo com superação do enunciado 691/STJ.
+É o relatório, decido.
+Com efeito, não se admite habeas corpus contra decisão que indefere liminar proferida em impetração originária, por configurar indevida supressão de instância, consoante dispõe o enunciado n. 691 da Súmula do Supremo Tribunal Federal.
+Em situações excepcionais, entretanto, como forma de garantir a efetividade da prestação jurisdicional nas situações de urgência, uma vez constatada a existência de flagrante ilegalidade, abuso de poder ou teratologia, é possível a superação do mencionado enunciado sumular (HC n. 318.415/SP, Relator Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 4/8/2015, DJe 12/8/2015).
+No caso, segundo o Relator da ação originária, a presente impetraçãoé mera reiteração do HC n. 2157461-35.2022.8.26.0000, cuja ordem foi denegada por votação unânime em 1/8/2022. Ainda, acrescentouque owrit possui o mesmo pedido de anterior impetração, o HC 2177949-11.2022.8.26.0000, em regular processamento naquele Tribunal estadual.
+Com efeito, " r evela-se manifestamente incabível o habeas corpus que veicula pedido idêntico ao formulado em pleito anterior, que tramita nesta Corte." (AgRg no HC 253.038/SP, Rel. Ministra ALDERITA RAMOS DE OLIVEIRA (DESEMBARGADORA CONVOCADA DO TJ/PE), SEXTA TURMA, julgado em 11/04/2013, DJe 23/04/2013).
+Em outras palavras, "é pacífico o entendimento firmado nesta Corte de que não se conhece de habeas corpus cuja questão já tenha sido objeto de análise em oportunidade diversa, tratando-se de mera reiteração de pedido" (AgRg no HC n. 531.227/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 10/09/2019, DJe 18/09/2019).
+Ante o exposto, com base no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o pedido.
+Intimem-se.
