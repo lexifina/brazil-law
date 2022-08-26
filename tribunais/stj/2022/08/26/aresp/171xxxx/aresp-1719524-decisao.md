@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que não admitiu o recurso especial apresentado por Gafisa S.A., com fundamento no art. 105, III, a, da Constituição Federal, desafiando acórdão assim ementado (e-STJ, fl. 436):
+EMBARGOS À EXECUÇÃO. Sentença de improcedência. Apelam os embargantes alegando prescrição. Cabimento. Prescrição. Ocorrência. Anterior ajuizamento de ação de ação de revisão contratual que não afasta a mora, não impede o ajuizamento de execução e não interrompe o curso do prazo prescricional. Inteligência do art. 784, § 1º, do CPC e da súmula 380 do STJ. Precedentes. Recurso provido.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 472-474).
+Nas razões do recurso especial (e-STJ, fls. 446-455), arecorrentealegou violação dos arts.202 e 884 do Código Civil de 2002; 520 e 521 do Código de Processo Civil de 1973; e 474 do Código de Processo Civil de 2015.
+Sustentou, em síntese, a omissão do acórdão recorrido quanto ao marco inicial da prescrição para os relativamente incapazes; a desproporção do valor arbitrado a título de danos morais; e a ocorrência de culpa exclusiva da vítima, argumentando que não teria contribuído para a ocorrência do acidente em questão.
+Foi apresentada contrarrazões (e-STJ, fls. 492-497).
+O Tribunal de origem não admitiu o processamento do recurso especial ante a ausência de demonstração de violação dos dispositivos apontados(e-STJ, fl. 498).
+Brevemente relatado, decido.
+No que diz respeito à alegada afronta aos arts.884 do Código Civil de 2002; 520 e 521 do Código de Processo Civil de 1973; e 474 do Código de Processo Civil de 2015, verifica-se não terem sido eles objeto de exame pela instância ordinária, mesmo após a interposição de embargos declaratórios, razão pela qual incide na espécie a Súmula n. 211 do STJ, ante a ausência do necessário prequestionamento viabilizador do recurso especial, requisito indispensável ao acesso às instâncias excepcionais.
+Com efeito, o prequestionamento ocorre quando a causa tiver sido decidida à luz da legislação federal indicada, com emissão de juízo de valor acerca dos respectivos dispositivos legais, interpretando-se sua aplicação ou não ao caso concreto, o que não se deu na presente hipótese.
+Cumpre destacar que o Colegiado de origem, a despeito dos embargos de declaração suscitados, não se manifestou expressamente sobre a questão.
+Ressalta-se, ainda, que o prequestionamento é exigência inafastável contida na própria previsão constitucional, impondo-se como um dos principais pressupostos ao conhecimento do recurso especial.
+Ademais, sua ocorrência se dá quando a causa tiver sido decidida à luz da legislação federal indicada, com emissão de juízo de valor acerca dos respectivos dispositivos legais, interpretando-se sua aplicação ou não ao caso concreto, situação não verificada na presente hipótese.
+Importante assinalar, ainda, que o prequestionamento ficto, previsto no art. 1.025 do CPC/2015, só é admissível quando, após a oposição de embargos de declaração na origem, o recorrente suscitar a violação ao art. 1.022 do mesmo diploma, porquanto somente dessa forma é que o órgão julgador poderá verificar a existência do vício e proceder à supressão de grau. Contudo, não houve alegação de violação do art. 1.022 do CPC/2015 no recurso especial apresentado.
+Além disso, oTribunal a quo, ao julgar a apelação, consignou o seguinte (e-STJ, fls. 576-579):
+Dispõe o art. 784, § 1º, do CPC que a propositura de qualquer ação relativa a débito constante de título executivo não inibe o credor de promover-lhe a execução.
+Incide no caso, ainda, o disposto na súmula 380 do STJ: "A simples propositura da ação de revisão de contrato não inibe a caracterização da mora do autor".
+Não se desconhece que excepcionalmente se admite a existência de prejudicialidade externa na execução em decorrência de ação de revisão contratual. Confira-se:
+No caso, não se tem notícia de que tenham sido feitos depósitos nos autos da ação de revisão contratual. Portanto, a mora dos apelantes não foi afastada e nada impedia o ajuizamento da execução.
+Nesse contexto, observando o posicionamento mais recente do STJ sobre o tema, conforme colacionado na apelação interposta, não houve interrupção e a pretensão está prescrita.
+Verifica-se que a recorrentenão se desincumbiu de demonstrar as razões pelas quais consideram violadas as normas legais apontadas, tampouco impugnou os fundamentos do acórdão recorrido, incidindo, por analogia, os enunciados sumulares n. 283 e 284 do STF, que dispõem respectivamente: "é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles"; e "é inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Ante o exposto, conheço do agravo paranão conhecerdo recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários fixados na origem para 15% sobre o valor da causa.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. CIVIL. PROCESSO CIVIL. EMBARGOS À EXECUÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. PRESCRIÇÃO. OCORRÊNCIA. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULAS 283 E 284 DO STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
