@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de Embargos de Declaração contra decisão monocrática (fls. 304-308, e-STJ) que negou provimento ao Recurso Especialcom base no entendimento de que:
+Por se tratar de condenação judicial de natureza previdenciária, a atualização do débito deve se dar pelo INPC apenas no que se refere ao período posterior à entrada em vigor da Lei 11.430/2006, que incluiu o art. 41-A na Lei 8.213/1991. No período anterior à vigência da Lei 11.430/2006, devem ser aplicados os índices previstos no Manual de Cálculos da Justiça Federal.
+No que diz respeito aos juros de mora, estes devem incidir segundo a remuneração oficial da caderneta de poupança, consoante o art. 1º-F da Lei 9.494/1997, com redação dada pela Lei 11.960/2009.
+Em síntese, o embargante alega que
+com fundamento no artigo 1022 do Código de Processo Civil, interpor os presentes EMBARGOS DE DECLARAÇÃO, nos termos, a seguir, aduzidos:
+Com a devida vênia ao I. Relator, ousamos firmar que a r. decisão ora embargada, em que pese assim ter sido anotado no seu relatório  parte final do relatório anota artigos da 8.213/91 invocados no recurso (art.62,86, 89 e 101  artigos do Dec. 3048/99) , s.m.j., não julgou o recurso na parte que se refere ao pedido de reabilitação profissional, omissão que nos autoriza a interposição dos presentes embargos de declaração, art. 1022 do Código de Processo Civil.
+Data venia, se bem observado do julgado ora embargado, ficaram apenas decididas as questões da correção monetária e juros.
+Isto posto, aguarda-se o acolhimento dos presentes embargos de declaração, a fim de que a referida questão (da reabilitação), seja também apreciada por esta I. Corte, a evitar, assim, nulidades de ordem formal do julgado.
+Não houve impugnação.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 19 de agosto de 2022.
+Os Embargos de Declaração merecem prosperar, haja vista a presença, na decisão embargada, de umdos vícios listados no art. 1.022 do CPC: a omissão.
+No caso, a não houve manifestação a respeito do benefício da reabilitação.
+Sobre o tema, o ora embargante alegaofensa aos arts. 18, 61, 62, 86-II, 89, 90 e 92 da Lei 8.213/1991 e ao art. 104 do Decreto 3.048/1999.
+A parte afirma (fl. 252, e-STJ):
+Conforme se infere do processado, de fato, ingressou o recorrente com pedido no sentido de que fosse o réu compelido a lhe conceder os benefícios previstos em lei, dentre eles, conforme adiante demonstra-se (previsão em lei da reabilitação) um "serviço" (obrigação de fazer), consistente no devido processo de reabilitação Profissional, qual seja, treinamento, preparação, ensinamento de um novo oficio, já que está incapacitada para os antigos misteres, mas não outros de igual ou menor complexidade (recebe auxílio-acidente  necessidade de mudança de função).
+Contudo, como dito acima, o V. Acórdão negou o pedido autoral sob fundamento de que, embora devido, não seria a reabilitação pressuposto de concessão da indenização.
+De fato a reabilitação não é mesmo pressuposto e concessão a indenização. Entretanto, a reabilitação não deixa de ser um direito garantido por lei ao acidentado (vide adiante). Não pode mesmo deixar de conceder a indenização por falta de reabilitação. Contudo, uma vez exigido esse direito (reabilitação), não pode se deixar de conhecer do mesmo porque foi deferida a indenização, sob pena de se deixar de impor ao réu apenas o cumprimento de uma de suas obrigações. Como dito, com a indenização (auxílio-acidente) cumprida apenas uma das obrigações previstas em lei.
+Data vênia, jamais foi a autora submetida a processo de reabilitação profissional na via administrativa , tendo, partindo-se dessa premissa, havido violação dos vários citados artigos de lei federal, além de divergência jurisprudencial.
+Inclusive, conforme adiante se demonstra, não conceder a reabilitação na via administrativa por ocasião da alta-médica, é decisão administrativa manifestamente ilegal e nula, por violação do artigo 62 da 8.213191, que prevê a reabilitação profissional antes da alta-médica .
+Para melhor compreensão da controvérsia, transcrevo trecho do acórdão recorrido (e-STJ, fls. 219-222):
+Trata-se a espécie de ação em que o obreiro busca a à concessão de indenização acidentária, sob o argumento da existência de prejuízo funcional causado por sequela decorrente de acidente típico.
+Realizada a perícia médica, o perito de confiança do juízo, após proceder ao exame físico, analisar os documentos médicos complementares trazidos ao feito e vistoriar o ambiente de trabalho diagnosticou no laudo de fls. 101/105 que o segurado é portador de amputação parcial da falange distal do polegar direito , como neuroma de coto, assentando que "após a alta médico-pericial retomou ao mesmo setor, com pedido de atividade compatível, mas embora com restrição, tem trabalhado com luva de tecido com proteção do polegar, com finalidade protetora do coto", de modo que "apresenta redução parcial e permanente para a realização de tarefas com exigência de movimentação fina, particularmente para a solicitação da pinça Polegar X Indicador", pois "a sequela apresentada, embora em membro dominante, condiciona limitação parcial para as atividades executadas, tanto em função do encurtamento da falange distal, quanto do neuroma do coto", concluindo, desse modo, que "justifica-se o nexo causal acidentário e a incapacidade parcial permanente para o trabalho habitual, em membro superior dominante".
+E nem se diga, ademais, como insiste a autarquia em afirmar em suas razões recursais , que o autor não estaria incapacitado para o trabalho habitualmente exercido
+(..)
+Fundado nesse raciocínio, não é difícil imaginar que a amputação de um dedo, ou de parcela dele, produza prejuízo da estrutura original do segmento, causando evidente limitação da capacidade de trabalho, ainda mais em funções que priorizam a utilização desse segmento, como é o caso dos autos, porquanto o obreiro é marceneiro.
+(..)
+Assim, não estando o segurado em gozo do "auxílio-doença" e tendo em conta, primordialmente, que ele, com a concessão do "auxílio-acidente", já foi devidamente indenizado em função da redução de sua capacidade laborativa, não era mesmo de rigor o acolhimento do seu apelo.
+Observa-se que a fundamentação supra é apta, por si só, para manter o aresto combatido,e não houve contraposição recursal sobre o ponto.Logo, aplica-se na espécie, por analogia, o óbice da Súmula 283/STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+Observo que o colegiadolocal não emitiu juízo de valor sobre as questões jurídicas levantadas em torno dos dispositivos mencionados.
+O Superior Tribunal de Justiça entende ser inadmissível o conhecimento do Recurso Especial quando os artigos tidos por violados não foram apreciados na origem, ainda que se trate de matéria de ordem pública, como a prescrição, e a despeito dos Embargos de Declaração opostos. Ante a ausência do requisito do prequestionamento, incide na espécie a Súmula 211/STJ.
+Além disso, apenas para esclarecer eventuais dúvidas, ressalto que, mesmo nos casos em que a instância ordinária acolhe os Embargos de Declaração "para efeito de prequestionamento", não é satisfeita a exigência desse requisito se não houver a emissão de juízo de valor sobre a matéria.
+Nota-se que o conflito foi decidido com base no suporte fático-probatório dos autos, cuja análise é inviável no Superior Tribunal de Justiça ante o óbice da Súmula 7/STJ: "a pretensão de simples reexame de prova não enseja Recurso Especial". Afasta-se, assim, a ideia de simples valoração da prova.
+Diante do exposto, acolho os Embargos de Declaraçãocom efeitos integrativos.
+Publique-se.
+Intimem-se.
