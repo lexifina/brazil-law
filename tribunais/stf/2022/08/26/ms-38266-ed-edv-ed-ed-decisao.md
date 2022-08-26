@@ -1,0 +1,31 @@
+Decisão: Trata-se de embargos de declaração opostos contra decisão que rejeitou os embargos de declaração contra a decisão que não conheceu os embargos de divergência.
+
+    Os embargos de divergência não foram conhecidos, por serem manifestamente inadmissíveis (eDOC 44).
+
+    Contra a decisão que resolveu os embargos de divergência, foram opostos embargos de declaração (eDOC 48), os quais foram rejeitados (eDOC 50).
+
+    Nos aclaratórios que ora são apreciados, a embargante sustenta, em síntese, que houve contradição na decisão embargada, ao argumento de que “o artigo 1.043, e seus incisos, do novel CPC, em ambos os casos, o cabimento do remédio jurídico é quando há a divergência do julgamento de qualquer órgão do mesmo tribunal, e no seu inciso IV, § 3º., preleciona que a divergência que autoriza a interposição do recurso pode advir tanto na aplicação do direito material quanto do direito processual, não havendo, pois, rogata maxima venia, o óbice encontrado na decisão vergastada”.
+
+    Requer “o acolhimento e provimento dos presentes embargos de declaração para que se possibilite reavaliar a conclusão exposta no julgamento, e que este ínclito relator, suprindo a contradição apontada e emprestando efeito modificativo ao julgado”.
+
+    É o relatório. Decido.
+
+    Os embargos de declaração são cabíveis para sanar a ocorrência de omissão, contradição, obscuridade ou erro material da decisão embargada (art. 1.022 do CPC/2015). No presente caso, não se verifica nenhuma dessas hipóteses.
+
+    Registre-se que os embargos de declaração não constituem meio processual cabível para reforma do julgado, não sendo possível atribuir-lhes efeitos infringentes, salvo em situações excepcionais, não vislumbradas nesta ação mandamental.
+
+    Conforme demonstrado na decisão embargada, os embargos de divergência foram opostos contra decisão monocrática, de modo que não há previsão legal ou regimental que justifique o seu cabimento.
+
+    Além disso, a jurisprudência desta Corte é firme no sentido de que os embargos de divergência são cabíveis apenas contra acórdãos proferidos pelas Turmas em recurso extraordinário ou agravo em recurso extraordinário, não havendo previsão legal no âmbito de outros mecanismos processuais, como o mandado de segurança.
+
+    Ante o exposto, rejeito os embargos de declaração, tendo em vista seu caráter manifestamente protelatório (art. 1.024, § 2º, do CPC).
+
+    Publique-se.
+
+    Brasília, 26 de agosto de 2022.
+
+Ministro Gilmar Mendes
+
+Relator
+
+Documento assinado digitalmente
