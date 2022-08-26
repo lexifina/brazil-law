@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de petiçãoapresentada por WILSON ROGÉRIO DA SILVAcontra decisão em que postula a aplicação das regras benéficas introduzidas pela Lei n. 14.230/2021 no ordenamento jurídico vigente.
+É o relatório.
+Em 18/6/2022, o Excelso Pretório finalizou o julgamento da questão de mérito da repercussão geral reconhecida no ARE n. 848.989/PR (Pleno, Rel. Ministro Alexandre de Moraes - Tema 1.199/STF).
+A tese de repercussão geral restou definida pelo Plenário do STF nos seguintes termos:
+1) É necessária a comprovação de responsabilidade subjetiva para a tipificação dos atos de improbidade administrativa, exigindo-se - nos artigos 9º, 10 e 11 da LIA - a presença do elemento subjetivo - DOLO;
+2) A norma benéfica da Lei 14.230/2021 - revogação da modalidade culposa do ato de improbidade administrativa -, é IRRETROATIVIDA, em virtude do artigo 5º, inciso XXXVI, da Constituição Federal, não tendo incidência em relação à eficácia da coisa julgada; nem tampouco durante o processo de execução das penas e seus incidentes;
+3) Aplicam-se os princípios da não ultra-atividade e tempus regit actum aos atos de improbidade administrativa culposos praticados na vigência do texto anterior da lei, porém sem condenação transitada em julgado, em virtude de sua revogação expressa pela Lei 14.230/2021; devendo o juízo competente analisar eventual má-fé ou dolo eventual por parte do agente.
+4) O novo regime prescricional previsto na Lei 14.230/2021 é IRRETROATIVO, em respeito ao ato jurídico perfeito e em observância aos princípios da segurança jurídica, do acesso à Justiça e da proteção da confiança, garantindo-se a plena eficácia dos atos praticados validamente antes da alteração legislativa.
+Verifica-se, no caso, que a parte recorrente é suspeitada prática, em tese, de conduta dolosa, como se vê à e-STJ fl. 28:
+Em resumo, conforme apurado nos autos do Inquérito Civil 52/16, o agravante, agindo em conluio com outros agentes, causou prejuízos aos cofres públicos do Município de Mogi Mirim, no valor de R$ 1.753.360,79,obteve enriquecimento ilícito e malferiu os princípios informadores da atuação administrativa, em razão da contratação irregular de uma empresa especializada para prestação de assessoria em serviços técnicos e locação de software, por preços totalmente incompatíveis com os de mercado.
+Assim, em princípio,não se verifica discrepância entre o que decidido nestes autos e a tese fixada no julgamento do ARE n. 848.989/PR (Tema n. 1.199/STF), razão pela qual rejeita-se o pedido em apreço.
