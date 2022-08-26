@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial (art. 105, III, "a", da CF) interposto contra acórdãocuja ementa é a seguinte:
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. CUMPRIMENTO DE SENTENÇA. REVISÃO DE RMI. CÁLCULOS DE ACORDO COM O TÍTULO TRANSITADO EM JULGADO.
+1. Cuida-se de agravo de instrumento interposto pelo INSTITUTO NACIONAL DOSEGURO SOCIAL - INSS, em face de decisão que, em sede de cumprimento de sentença que determinou a revisão da renda do benefício recebido pela parte autora, mediante aplicação dos tetos das Emendas Constitucionais 20/1998 e 41/2003, acolheu o parecer elaborado pela Contadoria do Foro e determinou a intimação do INSS para comprovar a retificação da RMI do benefício previdenciário de titularidade de CELY CHAVES DE MOURA, correspondendo a R$ 4.941,86 (quatro mil, novecentos e quarenta e um reais e oitenta e seis centavos) (id.4058300.16159508), no prazo de 05 (cinco) dias.
+2. Eis a decisão agravada: (..).
+3. Alega o INSS, em síntese, que o método empregado pela contadoria e chancelado na decisão ora agravada, ao afastar o teto do RGPS em todos os meses - e não apenas em dezembro/1998 e em janeiro/2004 - amplia indevidamente o alcance da revisão concedida.
+4. A irresignação recursal não merece guarida. Em verdade, a contadoria do juízo procedeu de acordo com o determinado no título. É que assim restou no dispositivo da sentença transitada em julgado: Posto isso, JULGO PROCEDENTE o pedido, para condenar o INSS a aplicar ao benefício da autora os tetos previstos nas Emendas Constitucionais nº. 20/98 e 41/2003,recompondo o valor da prestação previdenciária a partir da média aritmética integral (sem limitação ao teto) dos com o pagamento ,salários-de-contribuição da aposentadoria utilizados no cálculo da RMI dos valores pretéritos, respeitada a prescrição quinquenal, com marco inicial em 05/05/2011(ajuizamento da Ação Civil Pública nº 0004911- 28.2011.4.03.6183, que interrompeu o prazo prescricional), proferindo-se, em consequência, julgamento com resolução de mérito, nos termos do artigo 269, incisos I, do Código de Processo Civil - CPC.
+5. É dizer, a sentença determinou a correção do salário de benefício sem a observância de teto. A contadoria, por seu turno, considerou o salário de contribuição sem tetar, e, depois, aplicou o coeficiente de 81%, exatamente nos termos definidos pelo título em execução.
+6. No caso de que se cuida, portanto, não há falar em teto de manutenção, porque o juízo expressamente determinou ao INSS aplicar ao benefício da autora os tetos da referidas emendas constitucionais, " recompondo o valor da prestação previdenciária a partir da média aritmética integral (sem limitação ao teto) dos salários-de-contribuição da aposentadoria utilizados no cálculo da RMI",e assim procedeu a contadoria na feitura dos cálculos que apresentou.
+7. Agravo de instrumento desprovido.
+Os Embargos de Declaração foram rejeitados (fl. 540, e-STJ).
+O agravante, nas razões do Recurso Especial, sustenta que ocorreuofensa aos arts. 29, 33e 41- A,§ 1º, da Lei 8.213/1991. Alega:
+Oteto previdenciário de concessão é aquele estabelecido quando do cálculo da renda mensal inicial do benefício previdenciário. Atualmente, está disposto no art.29, §2º da Lei nº 8.213/91.
+Na hipótese dos autos, o acórdão transitado em julgado determinou a revisão dos benefícios com base nas emendas n. 20/1998 e n. 41/2003.
+Ocorre, todavia, que a referida sentença/acórdão não determinou, em nenhum momento, que devesse ser afastado o teto demanutenção do benefício , também previsto na legislação.
+Com efeito, independemente do teto de concessão, aplicando no cálculo da RMI do benefício, o certo é que, no cálculo do valor atual (renda mensal) do benefício há ser aplicado o teto de manutenção estabelecido na legislação vigente, cujo teto é o limite máximo de todo salário-de-benefício.
+(..)
+O que se verifica, portanto, é que a partir da concessão do benefício previdenciário, este passa a ser reajustado anualmente por índice a ser definido em regulamento que melhor reflita a recomposição do valor real do benefício, nos termos do art. 41-A da Lei n.º 8.213/91. Esse reajuste anual visa preservar o valor real do benefício frente às perdas inflacionárias experimentadas no período. Trata-se de reajuste anual e obrigatório.
+Sem contraminuta.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 8.8.2022.
+O Tribunal de origem dirimiu a controvérsia nestes termos:
+Em verdade, a contadoria do juízo procedeu de acordo com o determinado no título. É que assim restou no dispositivo da sentença transitada em julgado:
+Posto isso, JULGO PROCEDENTE o pedido, para condenar o INSS a aplicar ao benefício da autora os tetos previstos nas Emendas Constitucionais nº. 20/98 e 41/2003,recompondo o valor da prestação previdenciária a partir da média aritmética integral (sem limitação ao teto) dos com o pagamento ,salários-de-contribuição da aposentadoria utilizados no cálculo da RMI dos valores pretéritos, respeitada a prescrição quinquenal, com marco inicial em 05/05/2011(ajuizamento da Ação Civil Pública nº 0004911- 28.2011.4.03.6183, que interrompeu o prazo prescricional), proferindo-se, em consequência, julgamento com resolução de mérito, nos termos do artigo 269, incisos I, do Código de Processo Civil - CPC.
+É dizer, a sentença determinou a correção do salário de benefício sem a observância de teto.
+A contadoria, por seu turno, considerou o salário de contribuição sem tetar, e, depois, aplicou o coeficiente de 81%, exatamente nos termos definidos pelo título em execução.
+No caso de que se cuida, portanto, não há falar em teto de manutenção, porque o juízo expressamente determinou ao INSS aplicar ao benefício da autora os tetos da referidas emendas constitucionais, " recompondo o valor da prestação previdenciária a partir da média aritmética integral (sem limitação ao teto) dos salários-de-contribuição da aposentadoria utilizados no cálculo da RMI", e assim procedeu a contadoria na feitura dos cálculos que apresentou. Sob essa ótica, não é dado considerar relevante a fundamentação do agravo de instrumento.
+É evidente que, para modificar o entendimento firmado no acórdão recorrido, seria necessário exceder as razões nele colacionadas, o que demandaria incursão no contexto fático-probatório dos autos, vedada em Recurso Especialconforme a Súmula 7 desta Corte: "A pretensão de simples reexame de prova não enseja Recurso Especial".
+A propósito:
+PREVIDENCIÁRIO.PROCESSUAL CIVIL.COISA JULGADA.CARACTERIZAÇÃO. TRÍPLICE IDENTIDADE. AGRAVAMENTO DA DOENÇA TIDO POR NÃO COMPROVADO PELO TRIBUNAL DE ORIGEM. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. A alteração das conclusões adotadas pela Corte de origem acerca da existência decoisa julgada,bem como se houve ou não o agravamento da doença a ensejar a concessão de benefício por incapacidade, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp 807.835/SP, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe de 17/10/2017.)
+Por tudo isso, conheço do Agravo para não conhecer do Recurso Especial.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se.
+Intimem-se.
