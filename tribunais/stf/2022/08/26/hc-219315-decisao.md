@@ -1,0 +1,59 @@
+Habeas corpus. Crimes de roubo qualificado, extorsão qualificada e extorsão mediante sequestro qualificada. Prisão preventiva. Garantia da ordem pública. Fundamentação idônea. Manifesta ilegalidade ou teratologia não identificadas. Negativa de seguimento.
+
+    Vistos etc.
+
+    Trata-se de habeas corpus, com pedido de liminar, impetrado por Douglas Amoyr Khenayfis Filho em favor de Edvaldo Rogério, contra acórdão do Superior Tribunal de Justiça, da lavra do Ministro Ribeiro Dantas, que negou provimento ao agravo regimental no HC 743.537/SP (evento 5).
+
+    O Paciente foi preso preventivamente pela suposta prática dos crimes de roubo qualificado, extorsão qualificada e extorsão mediante sequestro qualificada (art. 157, §§ 2º, II e IV e 2º-A, I, arts. 158, § 3º e 159, § 1º, todos do Código Penal) (evento 2, fls. 253-8).
+
+    Extraio do ato dito coator:
+
+    “PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. NÃO OCORRÊNCIA. ROUBO MAJORADO, EXTORSÃO QUALIFICADA E EXTORSÃO MEDIANTE SEQUESTRO QUALIFICADA. PRISÃO PREVENTIVA. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA DA CONDUTA DELITUOSA. MODUS OPERANDI. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO. AGRAVO REGIMENTAL NÃO PROVIDO.
+
+    1. O entendimento pacífico deste Superior Tribunal de Justiça é no sentido de que não ofende o princípio da colegialidade a prolação de decisão monocrática pelo relator, quando estiver em consonância com súmula ou jurisprudência dominante desta Corte ou do Supremo Tribunal Federal, como ocorrido na espécie.
+
+    2. A prisão preventiva, nos termos do art. 312 do Código de Processo Penal, poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, desde que presentes prova da existência do crime e indícios suficientes de autoria e de perigo gerado pelo estado de liberdade do imputado.
+
+    3. In casu, os indícios de autoria estão configurados, conforme consignado pelo Juízo de primeiro grau, no fato de o ora agravante ter sido preso em flagrante na posse do caminhão roubado no momento em que as vítimas ainda eram mantidas em cativeiro, tendo havido, inclusive, no curso das negociações realizadas entre os sequestradores e os familiares das vítimas, menção expressa, pelos sequestradores, acerca da prisão do paciente.
+
+    4. É incabível, na estreita via do habeas corpus, a análise acerca da existência, assentada pelas instâncias ordinárias, tanto de prova da existência do crime quanto de indício de autoria suficiente para a decretação da segregação preventiva, por demandar detido e profundo revolvimento fático-probatório dos autos.
+
+    5. Quanto ao periculum libertatis, verifica-se que a custódia cautelar está suficientemente fundamentada na necessidade de garantia da ordem pública, diante da gravidade concreta da conduta delituosa, pois os crimes de roubo, extorsão qualificada e extorsão mediante sequestro qualificada teriam sido praticados mediante o uso de armas de fogo e em concurso de agentes, sendo que a restrição da liberdade das vítimas perdurou por mais de quarenta horas. Essas circunstâncias justificam a prisão cautelar, consoante pacífico entendimento desta Corte no sentido de que não há constrangimento ilegal quando a segregação preventiva é decretada em razão do modus operandi com que o delito fora praticado.
+
+    6. É inviável a aplicação de medidas cautelares diversas da prisão, porquanto a gravidade concreta da conduta delituosa do agravante indica que a ordem pública não estaria acautelada com sua soltura.
+
+    7. O fato de o agravante ter condições pessoais favoráveis, por si só, não impede a decretação de sua prisão preventiva, consoante pacífico entendimento desta Corte.
+
+    8. Agravo regimental não provido.”
+
+    No presente writ, a Defesa alega, em síntese, inidônea a fundamentação para manter a prisão preventiva do Paciente, porquanto lastreada na gravidade abstrata do delito e ausentes os requisitos autorizadores. Aduz insuficiência de provas de autoria dos delitos. Sustenta a possibilidade de aplicação de medidas cautelares diversas da prisão. Assevera a existência de circunstâncias favoráveis ao Paciente, como primariedade, bons antecedentes e residência fixa. Requer, em medida liminar e no mérito, a revogação da prisão preventiva e, sucessivamente, a aplicação de medidas cautelares diversas da prisão.
+
+    É o relatório.
+
+    Decido.
+
+    Sem dúvida, a custódia cautelar, enquanto medida excepcional, exige demonstração inequívoca de sua necessidade, em observância ao princípio constitucional da presunção de inocência ou da não culpabilidade, sob pena de representar mera antecipação da reprimenda a ser cumprida quando da condenação (HC 105.556/SP, Rel. Min. Celso de Mello, 2ª Turma, DJe de 30.8.2013).
+
+    Dessa forma, o decreto de prisão cautelar há de se apoiar nas circunstâncias fáticas do caso concreto, evidenciando que a soltura colocará em risco a ordem pública, a ordem econômica, a instrução criminal ou a aplicação da lei penal, à luz do art. 312 do CPP, e desde que igualmente presentes prova da materialidade do delito e indícios suficientes da autoria.
+
+    Em relação à alegação defensiva de falta de fundamentação idônea da constrição cautelar, o Tribunal de Justiça consignou que “Não há dúvida de que a imputação contida na denúncia ainda deverá ser objeto de cabal comprovação em regular contraditório judicial, com observância da mais ampla defesa. Mas a sua concreta gravidade, a real potencialidade de gerar danos para a sociedade e a premente necessidade de estancar de imediato a atividade criminosa, impedindo que tenha continuidade ou que seja retomada, constituem fundamentos válidos e suficientes para que, neste momento, a prisão provisória seja ordenada e mantida, como única forma de obstar que, junto com os outros acusados, o paciente se valha da liberdade para dar prosseguimento, por qualquer modo, ao comportamento ilícito, ou para influenciar e até comprometer, por variadas formas, a colheita das provas. A mera possibilidade de que o comportamento ilícito atribuído ao paciente se repita ou tenha prosseguimento, ou de que, em liberdade, os integrantes do grupo criminoso se valham da influência que eventual mente possuam se traduz, inequivocamente, em risco para a manutenção da ordem pública e para o bom andamento da instrução, justificando o encarceramento cautelar. Além disso, consoante ressaltadona decisão que decretou a prisão preventiva, a gravidade concreta da conduta, perpetrada com emprego de armas de fogo, em concurso de pessoas e mediante restrição de liberdade dos ofendidos, recomenda a manutenção da custódia cautelar.” (destaquei) (evento 6, fls. 6-7).
+
+    Na mesma toada, o Superior Tribunal de Justiça ratificou as decisões das instâncias antecedentes e manteve a prisão preventiva do Paciente, à consideração de que “Como se vê, os indícios de autoria, nos termos da exigência contida no art. 312 do CPP, estão configurados, conforme consignado pelo Juízo de primeiro grau, no fato de o ora agravante ter sido preso em flagrante na posse do caminhão roubado no momento em que as vítimas ainda eram mantidas em cativeiro, tendo havido, inclusive, no curso das negociações realizadas entre os sequestradores e os familiares das vítimas, menção expressa, pelos sequestradores, acerca da prisão do paciente. Além disso, é incabível, na estreita via do habeas corpus, a análise acerca da existência, assentada pelas instâncias ordinárias, tanto de prova da existência do crime quanto de indício de autoria suficiente para a decretação da segregação preventiva, por demandar detido e profundo revolvimento fático-probatório dos autos. Nessa linha: AgRg no HC 605.702/RJ, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 22/9/2020, DJe 6/10/2020; RHC 114.233/RR, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 25/8/2020, DJe 31/8/2020; e AgRg no RHC 121.001/MG, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 19/5/2020, DJe 2/6/2020. Quanto ao periculum libertatis, verifica-se que a custódia cautelar está suficientemente fundamentada na necessidade de garantia da ordem pública, diante da gravidade concreta da conduta delituosa, pois os crimes de roubo, extorsão qualificada e extorsão mediante sequestro qualificada teriam sido praticados mediante o uso de armas de fogo e em concurso de agentes, sendo que a restrição da liberdade das vítimas perdurou por mais de 40 (quarenta) horas. Essas circunstâncias justificam a prisão cautelar, consoante pacífico entendimento desta Corte no sentido de que não há constrangimento ilegal quando a segregação preventiva é decretada em razão do modus operandi com que o delito fora praticado. (...). Pelo mesmo motivo acima delineado, entendo que, no caso, é inviável a aplicação de medidas cautelares diversas da prisão, porquanto a gravidade concreta da conduta delituosa do agravante indica que a ordem pública não estaria acautelada com sua soltura. Sobre o tema: RHC 91.896/BA, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 15/03/2018, DJe 23/03/2018; HC 426.142/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 5/4/2018, DJe 16/4/2018; e HC 400.411/SE, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 7/12/2017, DJe 15/12/2017. De mais a mais, o fato de o agravante ter condições pessoais favoráveis, por si só, não impede a decretação de sua prisão preventiva, consoante pacífico entendimento desta Corte: RHC 95.544/PA, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 22/3/2018, DJe 2/4/2018; e RHC 68.971/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 26/9/2017, DJe 9/10/2017.” (destaquei).
+
+    Portanto, a fundamentação do ato dito coator não diverge da orientação desta Suprema Corte no sentido de que “[s]e as circunstâncias concretas da prática do ilícito indicam, pelo modus operandi, a periculosidade do agente ou o risco de reiteração delitiva, está justificada a decretação ou a manutenção da prisão cautelar para resguardar a ordem pública, desde que igualmente presentes boas provas da materialidade e da autoria, à luz do art. 312 do CPP (v.g. HC 105.585/SP, HC 112.763/MG e HC 112.364 AgR/DF, precedentes da minha lavra). No mesmo sentido: "Este Supremo Tribunal assentou que a periculosidade do agente evidenciada pelo modus operandi e o risco concreto de reiteração criminosa são motivos idôneos para a manutenção da custódia cautelar. (HC 110.313/MS, Rel. Min. Cármen Lúcia, 1ª Turma, DJe 13.02.2012). Ainda, “O acordão recorrido está alinhado com o entendimento do Supremo Tribunal Federal no sentido de que a gravidade em concreto do crime e a periculosidade do agente, evidenciada pelo modus operandi, constituem fundamentação idônea para a decretação da custódia preventiva (HC 137.234, Rel. Min. Teori Zavascki; HC 136.298, Rel. Min. Ricardo Lewandowski; HC 136.935-AgR, Rel. Min. Dias Toffoli)” (RHC 169.698 AgR/PE, Rel. Min. Roberto Barroso, 1ª Turma, DJe de 26.9.2019).
+
+    Lado outro, a circunstância de o Paciente ostentar primariedade, bons antecedentes e residência fixa não constitui óbice à decretação ou manutenção da prisão preventiva, desde que preenchidos os pressupostos e requisitos do art. 312 do Código de Processo Penal (HC 108.314/MA, Rel. Min. Luiz Fux; e HC 106.816/PE, Rel. Min. Ellen Gracie).
+
+    Dada a necessidade da constrição cautelar do Paciente, carece de plausibilidade jurídica o pleito defensivo de aplicação das medidas cautelares diversas da prisão (arts. 282, § 6º, e 319 do CPP).
+
+    Inexistente, pois, ilegalidade ou arbitrariedade no ato hostilizado passível de correção na presente via.
+
+    Ante o exposto, nego seguimento ao presente habeas corpus (art. 21, § 1º, do RISTF).
+
+    Publique-se.
+
+    Brasília, 26 de agosto de 2022.
+
+Ministra Rosa Weber
+
+Relatora
