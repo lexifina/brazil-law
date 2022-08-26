@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de RODOLFO WEBER CARVALHO TRINDADE contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o paciente foi processado e absolvido da imputaçãodo crime do art.35 da Lei n.11.343/2006,c.c. art. 2º, caput, da Lei n.12.850/2013, com fulcro no artigo 386, VII, do Código de Processo Penal.
+Contra a referida sentença, o |Ministério Público do Estado de São Paulo interpôs apelação, tendo a Corte de origem dado provimento ao recurso condenando o ora pacientecomo incurso no artigo 2º, caput, da Lei n.12.850/2013, ao cumprimento de 3anos e 6 meses de reclusão, em regime inicial semiaberto, e ao pagamento de 11dias-multa, determinando-se a expedição de mandado de prisão(e-STJ, fls. 30/62).
+Na presente oportunidade, a impetrante sustenta, em síntese, a possibilidade de substituição do regime semiaberto pela prisão domiciliar, na medida em que o paciente padece de problemas de saúde e possui mais de 50 anos de idade. Ademais, o paciente reúne condições pessoais favoráveis, já que "exerce trabalho lícito e remunerado há mais de 3 (três) anos, tem endereço fixo, boa conduta social" (e-STJ, fl. 6).
+Sublinha, ainda, que o paciente é responsável por sustentar sua família, além de possuir um filho que "é transplantado e precisa ter cuidados periódicos, sendo assim, a prisão do paciente, levaria um prejuízo absurdo à família." (e-STJ, fl. 7).
+Diante disso, requer, em liminar e no mérito, seja substituído o regime semiaberto pela prisão domiciliar com tornozeleira eletrônica.
+É o relatório. Decido.
+Não há como acolher a irresignação.
+Isso porque, do que se infere dos autos, acerca do pleito de cumprimento da pena em prisão domiciliar, não houve qualquer análise desta questão pela Corte de origem, não podendo o Superior Tribunal de Justiça decidir acerca do tema, sob pena de indevida supressão de instância.
+Como cediço, "matéria não apreciada pelo Juiz e pelo Tribunal de segundo grau não pode ser analisada diretamente nesta Corte, sob pena de indevida supressão de instância" (AgRg no HC n. 525.332/RJ, RelatorMinistro ROGERIO SCHIETTI CRUZ, Sexta Turma, julgado em 17/12/2019, DJe 19/12/2019).
+No mesmo sentido, é entendimento da Corte Maior que "o exaurimento da instância recorrida é, como regra, pressuposto para ensejar a competência do Supremo Tribunal Federal, conforme vem sendo reiteradamente proclamado por esta Corte (HC n. 129.142/SE, Relator Ministro MARCO AURÉLIO, RelatorparaAcórdão MinistroALEXANDRE DE MORAES, Primeira Turma, DJe de 10/8/2017; RHC n. 111.935/DF, Relator Ministro LUIZ FUX, Primeira Turma, DJe de 30/9/2013; HC n. 97.009/RJ, Relator Ministro MARCO AURÉLIO, Relatorpara Acórdão MinistroTEORI ZAVASCKI, Tribunal Pleno, DJe de 4/4/2014; HC n. 117.798/SP, Relator Ministro RICARDO LEWANDOWSKI, Segunda Turma, DJe de 24/4/2014)" (AgRg no HC n. 177.820/SP, Relator Ministro ALEXANDRE DE MORAES, Primeira Turma, julgado em 6/12/2019, DJe 18/12/2019).
+Ademais, tais pedidos devem ser apresentados perante o juízo da execução.
+Dessa forma, não se vislumbra constrangimento ilegal que possa ser reparado por este Superior Tribunal de Justiça.
+Ante o exposto, não conheço do habeas corpus.
+Intimem-se.
