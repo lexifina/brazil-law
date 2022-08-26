@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se dehabeas corpussubstitutivo de recurso ordinário, com pedido liminar, impetrado em favor de DEYBLER SOUZA FERREIRA, GUILHERME AUGUSTO TABANES DE SOUSA, JOAO VICTOR TABANES DE SOUSA e JOSE PERES DA SILVA NETO, contra v. acórdão prolatado pelo eg.Tribunal de Justiça do Estado de Minas Gerais.
+Depreende-se dos autos prisão em flagrante, convertida em preventiva, pela suposta prática dos delitos previstos nos artigos 155, § 4º, inciso IV e no art. 288, ambos do Código Penal.
+Irresignada, a defesa impetrouhabeas corpusperante o eg. Tribunala quo, por meio do qual buscava a revogação do decreto prisional. O eg. Tribunal de origem denegou aordem, em v. acórdão assim ementado:
+"HABEAS CORPUS - FURTO QUALIFICADO E ASSOCIAÇÃO CRIMINOSA -PRISÃO PREVENTIVA - REVOGAÇÃO -IMPOSSIBILIDADE -PRESENÇA DOS REQUISITOS E PRESSUPOSTOS DOS ARTIGOS 312 E 313 DO CPP -PRISÃO FUNDAMENTADA NA GARANTIA DA ORDEM PÚBLICA -RISCO DE REITERAÇÃO CRIMINOSA -INADEQUAÇÃO DA APLICAÇÃO DAS MEDIDAS CAUTELARES DIVERSAS DA PRISÃO -CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO -ORDEM DENEGADA. 1 -Não se vislumbra constrangimento ilegal no decreto da prisão preventiva quando a decisão encontra fundamento na presença dos requisitos e pressupostos dos artigos 312 e 313, ambos do CPP, sobretudo diante da necessidade de garantia da ordem pública, evidenciada pelo risco de reiteração delitiva. 2-Inviável asubstituição da prisão preventiva por medidas cautelares diversas da prisão, previstas no artigo 319 do CPP, quando se revelarem insuficientes. 3 -A desproporcionalidade da prisão preventiva somente pode ser aferida após a sentença, não cabendo, na via eleita, a antecipação da análise quanto à possibilidade de cumprimento de pena em regime menos gravoso que o fechado. 4 -Ordem denegada. V. V. O artigo 93, IX, da Constituição da República, impõe o dever de fundamentação de todas as decisões judiciais, o que adquire maior relevo nos casos em que o pronunciamento judicial repercute sobre a liberdade do jurisdicionado. A necessidade ou não da custódia cautelar para cada coinvestigado demanda uma análise individualizada de suas condutas e de seu papel na associação criminosa. Não havendo demonstração fundada em elementos concretos da satisfação dos requisitos dos artigos 312 e 313 do Código de Processo Penal, mostra-se inviável a manutenção da prisão preventiva, sendo suficientes as medidas cautelares diversas do artigo 319 do CPP".
+Daí o presentemandamus, no qualo impetrante assevera a existência de constrangimento ilegalconsubstanciado na ausência de fundamentação idônea a justificar a decretação de suas segregações cautelares.
+Requer,ao final, a revogação da prisão preventiva dos pacientes.
+A liminar foi indeferida às fls. 178-180.
+As informações foram prestadas às fls. 184-194.
+Petição às fls. 195-196 comunicando homologação de acordo de Não Persecução Penal.
+É o relatório.
+Decido.
+O habeas corpus está prejudicado.
+Isto porque, em conformidade cominformações prestadas às fls. 184-194, o d. juízo de primeiro grau revogou a prisão preventiva dos pacientes, em razão da homologação doacordo de Não Persecução Penal formulado pelo Ministério Público, determinou aremessa dos autos ao arquivo até que seja informado o cumprimento do acordo, bem como determinou a expedição dos respectivos alvarás de solutra.
+Desse modo, forçoso reconhecer a prejudicialidade da presente impetração, ante a perda superveniente de seu objeto.
+Ante o exposto, com fulcro no art. 34, incisos XI e XX, do RISTJ, julgoprejudicadoo presentehabeas corpus.
+P. e I.
