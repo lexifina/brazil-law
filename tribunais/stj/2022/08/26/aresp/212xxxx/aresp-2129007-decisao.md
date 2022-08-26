@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo interposto por JHEISON KENNEDY BORGES DE MOURAcontra decisão do Tribunal de Justiça do Estado de Goiás que inadmitiu o recurso especial fundamentado no art. 105, inciso III, alínea a, da Constituição da República.
+Consta dos autos que o o ora agravante foi condenado, pelo Juízo de primeiro grau, pela prática do crime previsto no art. 180, caput, do Código Penal, à reprimenda de1 anos e 8 meses de reclusão, e ao pagamento de 15 dias-multa, em regime inicial aberto.
+A apelação defensiva foi acolhida em parte para redimensionar a pena 1 anos de reclusão, em regime inicial aberto, mais o pagamento de 10 dias-multa, mantida a negativa de substituição da pena corporal por restritiva de direitos, nos termos doacórdão de e-STJ fls. 392/400.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 406/411).
+Nas razões do recurso especial, a parte recorrente aponta violação dos art. 619 do Código de Processo Penal e art. 44 do Código Penal, em razão de não reconhecimento da possibilidade de substituição a pena privativa de liberdade pela pena restritivade direitos com fundamento emcondenações posteriores.
+Foram apresentadas contrarrazões (e-STJ fls. 477/484). Inadmitido o recurso especial (e-STJ fls. 488/490), adveio o presente agravo.
+O Ministério Público Federal opinou pelo não conhecimentodo agravo(e-STJ fls. 519/520).
+É o relatório. Decido.
+Preenchidos os requisitos formais e impugnado o fundamento da decisão agravada, conheço do agravo.
+No caso, a Corte local,negou a substituição da pena privativa de liberdade por restritivas de direitos porque não se mostra socialmente recomendável, ante os registros criminais do condenado que, ao que parece, enveredou na vida criminosa (e-STJ fl. 398).
+Contudo,ofundamentoadotado não se alinhacom a jurisprudência desta Corte Superior de Justiça, posto que " a  condenação, ainda que definitiva, por fato posterior ao delito em apreço não é elemento idôneo para justificar qualquer alteração na pena aplicada ao paciente, seja majorando sua quantidade na primeira ou na segunda fase da dosimetria, agravando o regime prisional ou impedindo a aplicação do art. 44 do Código Penal" (HC 534.671/RJ, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 07/11/2019, DJe 19/11/2019).
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. ART. 180, CAPUT, DO CÓDIGO PENAL. DECISÃO AGRAVADA. FUNDAMENTOS. IMPUGNAÇÃO. AUSÊNCIA. INCIDÊNCIA. SÚMULA N.º 182 DO STJ. ANÁLISE. MÉRITO. INVIABILIDADE. ILEGALIDADES FLAGRANTES. CONDENAÇÃO DEFINITIVA POR FATO POSTERIOR. UTILIZAÇÃO. CONDUTA SOCIAL. NEGATIVAÇÃO. FUNDAMENTAÇÃO GENÉRICA. AGRAVO REGIMENTAL NÃO CONHECIDO. HABEAS CORPUS CONCEDIDO, DE OFÍCIO.
+ ..
+4. As instâncias ordinárias exasperaram a pena-base, fixaram o regime inicial semiaberto, indeferiram a substituição da pena privativa de liberdade por restritivas de direitos e o sursis, em razão da existência de condenação definitiva decorrente de crime posterior, praticado quando estava em curso a presente ação penal, o que constitui ilegalidade manifesta.
+ ..
+6. Agravo regimental não conhecido. Habeas corpus concedido, de ofício, a fim de reduzir a pena para 1 (um) ano de reclusão e 10 (dez) dias-multa, no valor unitário fixado pelas instâncias ordinárias, fixar o regime aberto e substituir a pena privativa de liberdade por uma restritiva de direitos, a ser especificada pelo Juízo da Execução.(AgRg no AREsp 1.467.184/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 05/09/2019, DJe 17/09/2019).
+Assim, considerando que o ora recorrente à época da condenação era primário e ostenta condenações por fatos posterioresao apurado nos autos, sendo que a condenação em análise ficou a pena-base no mínimo legal, impondoreprimenda finalinferior a4 (quatro) anos de reclusão, écabível a substituição da pena privativa de liberdade por sanções restritivas de direitos.
+A propósito:
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. RECEPTAÇÃO. DOSIMETRIA. REGIME PRISIONAL SEMIABERTO. CIRCUNSTÂNCIAS JUDICIAIS FAVORÁVEIS. PENA-BASE NO MÍNIMO LEGAL. RÉU PRIMÁRIO. SÚMULAS 440/STJ E 718 E 719/STF. CRIME POSTERIOR À PRÁTICA DELITIVA. MOTIVAÇÃO INIDÔNEA PARA AGRAVAR O REGIME E IMPEDIR A SUBSTITUIÇÃO DE PENA. WRIT NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+7. O art. 44, III, do Código Penal estabelece que será admitida a conversão da pena corporal por restritiva de direitos se "a culpabilidade, os antecedentes, a conduta social e a personalidade do condenado, bem como os motivos e as circunstâncias indicarem que essa substituição seja suficiente".
+8. Considerando a inidoneidade do fundamento referente à condenação do paciente por fato praticado posteriormente ao apurado nos autos, bem como a sua primariedade, cuja pena-base foi fixada no mínimo legal, estabelecida abaixo dos 4 anos de reclusão, resta evidente a viabilidade da concessão da benesse prevista no art. 44 do Código Penal.
+9. Writ não conhecido. Ordem concedida, de ofício, a fim de fixar o regime prisional aberto para o desconto da reprimenda imposta ao paciente e substituir a pena privativa de liberdade por restritivas de direitos, a serem definidas pelo Juízo de Execução.(HC 534.671/RJ, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 07/11/2019, DJe 19/11/2019).
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial para substituir a pena privativa de liberdade por uma restritivas de direitos, a serem especificadas pelo Juízo das Execuções Criminais.
+Intimem-se.
