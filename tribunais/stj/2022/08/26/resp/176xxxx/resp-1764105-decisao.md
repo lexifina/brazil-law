@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de recurso especial fundamentado no art. 105, III, "a" e "c", da CF, interposto contra acórdão assim ementado (e-STJ fl. 186):
+AGRAVO REGIMENTAL - Ao Desembargador Relator é permitido proferir decisão monocrática em recurso, cujo objeto é matéria de entendimento consolidado na Turma Julgadora - Inteligência do § 1º-A, do artigo 557 do Código de Processo Civil - Agravo regimental infundado - A multa imposta tem previsão no §2º, do supracitado dispositivo legal - Recurso improvido, com observação.
+Em suas razões (e-STJ fls. 191/213), a parte recorrente aponta, além de dissídio jurisprudencial, violação dos seguintes dispositivos legais:
+(i) art. 557, § 2º, do CPC/1973, por ser "patente a necessidade de afastamento da condenação ao pagamento da multa" (e-STJ fl. 193),
+(ii) art. 16 da Lei n. 7.347/1985, devendo "ser reconhecida a incompetência do juízo e o feito ser julgado extinto, sem resolução de mérito, em razão da ausência de um dos pressupostos de constituição e desenvolvimento válido doprocesso" (e-STJ fl. 195),
+(iii) art. 475, II, do CPC/1973, pois "existem razões de direito e de fato a justificar a necessidade dafase de Liquidação antes da Execução da sentença proferida na ação civil pública" (e-STJ fl. 200),
+(iv) art. 82, IV, da Lei n. 8.078/1990, sob alegação de que "somente podem ser beneficiados pelo título executivo em questão aqueles que, à época da propositura da ação, eram associados ao IDEC" (e-STJ fl. 206),
+(v) arts. 219 do CPC/1973 e 405 do CC/2002, haja vista que "o teor do art. 405 do CC/2002 é por demais claro ao prescrever que contam-se os juros de mora desde a citação. Por seu turno, o art. 219 do CPC estabelece que a citação válida constitui em mora do devedor" (e-STJ fl. 208), e
+(vi) art. 402 do CC/2002, segundo o qual "os poupadores não podem receber mais do que previsto em lei, ou seja, mais do que teriam recebido caso seus valores tivessem sido mantidos na poupança! Assim, eventual sentença condenatória, em sede de liquidação do julgado, deverá fixar a correção monetária igual a que seria obtida caso o valor principal continuasse aplicado em poupança" (e-STJ fl. 212).
+Contrarrazões apresentadas às fls. 271/280 (e-STJ).
+O recurso foi admitido na origem.
+É o relatório.
+Decido.
+Da legitimidade ativa e abrangência dos efeitos da sentença coletiva
+O Tribunal de origem reconheceu, além da abrangência nacional da sentença proferida na ação civil pública ajuizada pelo IDEC, a legitimidade ativa da parte recorrida para a propositura do cumprimento de sentença, independentemente de prova de sua filiação à entidade de classe à época do ajuizamento da demanda coletiva.
+A decisão da Corte local, em tais pontos, está em sintonia com o entendimento firmado pela Segunda Seção no REsp n. 1.391.198/RS, julgado sob o rito do art. 543-C do CPC/1973, a respeito dos temas. Confira-se:
+AÇÃO CIVIL PÚBLICA. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. ART. 543-C DO CPC. SENTENÇA PROFERIDA PELO JUÍZO DA 12ª VARA CÍVEL DA CIRCUNSCRIÇÃO ESPECIAL JUDICIÁRIA DE BRASÍLIA/DF NA AÇÃO CIVIL COLETIVA N. 1998.01.1.016798-9 (IDEC X BANCO DO BRASIL). EXPURGOS INFLACIONÁRIOS OCORRIDOS EM JANEIRO DE 1989 (PLANO VERÃO). EXECUÇÃO/LIQUIDAÇÃO INDIVIDUAL. FORO COMPETENTE E ALCANCE OBJETIVO E SUBJETIVO DOS EFEITOS DA SENTENÇA COLETIVA. OBSERVÂNCIA À COISA JULGADA.
+1. Para fins do art. 543-C do Código de Processo Civil: a) a sentença proferida pelo Juízo da 12ª Vara Cível da Circunscrição Especial Judiciária de Brasília/DF, na ação civil coletiva n. 1998.01.1.016798-9, que condenou o Banco do Brasil ao pagamento de diferenças decorrentes de expurgos inflacionários sobre cadernetas de poupança ocorridos em janeiro de 1989 (Plano Verão), é aplicável, por força da coisa julgada, indistintamente a todos os detentores de caderneta de poupança do Banco do Brasil, independentemente de sua residência ou domicílio no Distrito Federal, reconhecendo-se ao beneficiário o direito de ajuizar o cumprimento individual da sentença coletiva no Juízo de seu domicílio ou no Distrito Federal;
+b) os poupadores ou seus sucessores detêm legitimidade ativa - também por força da coisa julgada -, independentemente de fazerem parte ou não dos quadros associativos do Idec, de ajuizarem o cumprimento individual da sentença coletiva proferida na Ação Civil Pública n. 1998.01.1.016798-9, pelo Juízo da 12ª Vara Cível da Circunscrição Especial Judiciária de Brasília/DF.
+2. Recurso especial não provido.
+(REsp n. 1.391.198/RS, Relator Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 13/8/2014, DJe 2/9/2014.)
+Incide, portanto, a Súmula n. 83/STJ.
+Do termo inicial dos juros de mora
+A Corte Especial do STJ firmou, no julgamento do REsp n. 1.370.899/SP, sob o rito do art. 543-C do CPC/1973, o entendimento de que "os juros de mora incidem a partir da citação do devedor na fase de conhecimento da Ação Civil Pública, quando esta se fundar em responsabilidade contratual, sem que haja configuração da mora em momento anterior" (Ministro SIDNEI BENETI, julgado em 21/5/2014, REPDJe 16/10/2014, DJe 14/10/2014).
+No mesmo sentido: "os juros de mora incidem a partir da citação do devedor na fase de conhecimento da ação civil pública, quando esta se fundar em responsabilidade contratual, sem que haja configuração da mora em momento anterior - REsp n. 1.370.899/SP e REsp n. 1.361.800/SP - Recursos especiais julgados pelo rito dos recursos repetitivos" (AgInt no AREsp n. 1.316.210/MS, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 28/5/2019, DJe 13/6/2019).
+O Tribunal de origem assentou que os juros de mora incidiam a partir da citação da ação de conhecimento, em se tratando de pedido atinente às diferenças da correção monetária das cadernetas de poupança.
+Estando o acórdão combatido em harmonia com o entendimento desta Corte, aplica-se a Súmula n. 83 do STJ.
+Da correção monetária
+Quanto à alegação de violação do art. 402 do CC/2002, não houve pronunciamento do Tribunal a quo sobre essa questão, nem a Corte local foi instada a fazê-lo por via de embargos declaratórios, circunstância que impede o conhecimento da insurgência por falta de prequestionamento. Assim, devem ser aplicadas ao caso as Súmulas n. 282 e 356 do STF.
+Da prévia liquidação da sentença coletiva
+A Segunda Seção do STJ fixou a tese de que "o cumprimento da sentença genérica que condena ao pagamento de expurgos em caderneta de poupança deve ser precedido pela fase de liquidação por procedimento comum, que vai completar a atividade cognitiva parcial da ação coletiva mediante a comprovação de fatos novos determinantes do sujeito ativo da relação de direito material, assim também do valor da prestação devida, assegurando-se a oportunidade de ampla defesa e contraditório pleno ao executado" (EREsp n. 1.705.018/DF, RelatorMinistro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 9/12/2020, DJe 10/2/2021).
+No caso dos autos, a Justiça de origem, ao assentar que bastavam meros cálculos aritméticos para conferir liquidez ao título, destoou da orientação da SEGUNDA SEÇÃO, motivo por que a irresignação do recorrente merece acolhida, a fim de que seja realizada a liquidação por procedimento comum, para conferir liquidez à sentença coletiva objeto de cumprimento individual pela parte recorrida.
+Damulta do Art. 557, § 2º, do CPC/1973
+Assiste razão ao recorrente quanto a inaplicabilidade da multa prevista no art. 557, § 2º, do CPC/1973 ao presente caso.
+Subtrair da parte o direito de pronunciamento do Colegiado sobre a matéria versada na decisão monocrática em sede de recurso de apelação, significa tolher o acesso às instâncias superiores, especialmente em razão da necessidade de esgotamento da instância recursal.
+Nesse sentido, o seguinte precedente:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. EXISTÊNCIA. PRETENSÃO DE APLICAÇÃO DA MULTA PREVISTA NO ART. 557, § 2º, DO CPC. INTUITO PROTELATÓRIO. DESCABIMENTO. ACOLHIMENTO. SANEAMENTO SEM ALTERAÇÃO DO RESULTADO DE JULGAMENTO.
+1. A multa prevista no art. 557, § 2º, do CPC somente pode ser aplicada quando o agravo for manifestamente inadmissível ou infundado, o que não ocorre no caso, uma vez que a parte detém o direito de ver seu recurso apreciado pelo colegiado, conforme previsto nos arts. 557, § 1º, do CPC e 258 do RISTJ.
+2. Embargos de declaração acolhidos, tão somente para esclarecer omissão, sem alteração do resultado de julgamento.
+(EDcl no AgRg no AREsp 650.299/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 3/3/2016, DJe 9/3/2016.)
+Ante o exposto, DOU PARCIAL PROVIMENTO ao recurso especial para determinar que se proceda à liquidação da sentença coletiva epara afastar a multa do art. 557, § 2º, do CPC/1973.
+Publique-se e intimem-se.
