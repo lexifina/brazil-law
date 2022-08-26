@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo interposto por ASSOCIAÇÃO PAULISTA DE EDUCAÇÃO E CULTURA contra decisão que não admitiu recurso especial, este interposto com arrimo na alínea "a" do permissivo constitucional, em face de v. acórdão prolatado pelo eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"AGRAVO DE INSTRUMENTO. Cumprimento de sentença. Ausência de bens. Executado que requereu o parcelamento da dívida. Ausência de fundamento legal. Pedido refutado pelo credor. Inexistência de bens e valores nas pesquisas realizadas. Executado que vem realizando altos depósitos mensais para quitara dívida. Ato atentatório à dignidade da justiça caracterizado. Decisão mantida. Agravo não provido." (e-STJ fl. 449)
+Os embargos de declaração opostos foram rejeitados (e-STJ fl. 544/547).
+Nas razões do apelo nobre, a parte ora agravante aponta ofensa aos arts.8º, 10, V, 314, 489, § 1º, 491, 493, 774, todos do Código de Processo Civil de 2015ao art. 475-J do Código de Processo Civil de 1973, e aos arts. 404 e 405 do Código Civil.
+Contrarrazões às fls. 607/616 (e-STJ).
+A il. Presidência do Tribunal de Justiça não admitiu o apelo nobre, nos termos da r. decisão de fls. 618/620, motivando a interposição de agravo em recurso especial.
+É o relatório. Decido.
+No tocante ao tema de fundo, o eg. Tribunal de Justiça condenou a parte aqui agravante por ato atentatório à dignidade da justiça, ao fundamento de que, embora intimado, em sede de cumprimento de sentença, para realizar o pagamento da quantia executada, estaria ocultando patrimônio ese furtando aos exatos termosordem judicial, senão vejamos:
+"Trata-se de agravo de instrumento interposto nos autos de cumprimento de sentença, em que a agravante se viu condenada a indenizar por danos morais e materiais. O valor da presente execução, em outubro de 2018, era no importe de R$ 2.378.415,15 (dois milhões trezentos e setenta e oito mil quatrocentos e quinze reais equinze centavos).
+O decisum objurgado indeferiu o pedido de parcelamento da dívida; condenou o executado, por litigância de má-fé, ao pagamento de multa de 10% do valor corrigido da causa, bem como a indenizar os prejuízos da parte contrária, arbitrado sem 20% também sobre o valor da causa. Na mesma oportunidade, determinou a penhora online dos bens (fls. 145/146).
+Ato contínuo, a executada realizou depósitos cujo montante variou de 185 (cento e oitenta e cinco) mil a 195 (cento e noventa e cinco) mil reais. Requereu a reconsideração da decisão (fls. 148/170, fls. 191/192, fls. 211/212, fls.227/229).
+Reportou a executada ter sido informada pela Serventia da vara que o juízo a quo teria proferido decisão determinando que não lhe fosse dada ciência (fls. 178/180). Manifestou-se o magistrado de piso (fls. 193/194).
+Opostos embargos de declaração (fls. 196/199), alegando obscuridade e contradição na decisão ora agravada, os quais restaram rejeitados (fls. 201).
+Assim, foi interposto o presente agravo de instrumento.
+Pois bem.
+Em que pese o entendimento esposado pelo E. Relator, Desembargador Sebastião Flávio, no meu sentir o recurso, tal qual manejado, não comporta provimento, sequer em parte.
+De antemão, frise-se que pende de julgamento apenas agravo em recurso especial interposto perante o STJ. Não possuindo efeito suspensivo, autoriza-se a execução, bem como os atos expropriatórios do patrimônio do devedor.
+Observa-se que a execução já se arrasta há mais de quatro anos, sem ainda ter havido garantia da execução.
+Pretende o executado o parcelamento da dívida, o que além de não possuir fundamento legal, foi expressamente refutado pelo exequente. Porém, ainda assim, realiza depósitos mensais, que variam de 185 a 195 mil reais, durante o curso de 6 (seis) meses.
+A agravante está, sim, praticando ato atentatório à dignidade da Justiça, ao ocultar bens e valores necessários ao adimplemento da condenação, pouco importando que, hoje, parte do débito já esteja pago, ou que haja recursos para tribunais superiores.
+Provisória ou definitiva a ordem judicial emanada da decisão condenatória tem que ser cumprida. Não há na legislação, como bem sustenta o MM. Juízo de primeiro grau, autorização para que o depósito/garantia da execução se dê de forma "parcelada".
+O atentado à dignidade da Justiça se verifica perfeitamente caracterizado pela conduta fraudulenta empregada pela devedora, que a despeito de promover depósitos de valores equivalentes e significativos nos autos, indicando a existência segura de fontes de custeio suficientes para o pagamento da obrigação, oculta da Autoridade Judiciária, deliberadamente, os recursos financeiros necessários ao pagamento da condenação, fazendo tábula rasa da lei e agindo em menoscabo do Poder Judiciário, "cumprindo"a condenação ao seu bel-prazer, e confiando na própria impunidade." (e-STJ fls. 449/451, grifou-se)
+A despeito da fundamentação tracejada no v. acórdão recorrido, não se constatsa no comportamento descrito pela eg. Corte local a prática de atosconfiguradores de litigância de má-fé, tampouco menoscabo à dignidade da Justiça. Sem a demonstração do elemento subjetivo, do dolo, consistente na vontade de prejudicar a parte contrária ou deobstruir o regular andamento do feito, inviável a aplicação da sanção processual em comento.
+Com efeito, fazer o executado substanciais depósitos em juízo, buscando adimplir a dívida, ainda que parceladamente, não pode, data venia, ser tido como ato de "litigar de má-fé". Fazer depósitos parciais em juízo não corresponde à conduta de "litigar", tampouco a conduta fraudulenta.
+Pelo contrário, revela esforço no sentido de adimplir a dívida, sem prejuízo de o credor seguir buscando outros meios de resgate do crédito.
+Afinal, é de indagar-se: - caso o devedor executado nada estivesse depositando em juízo, ficaria em melhor situação perante os olhos do julgador  Estaria liberado da pecha de litigante de má-fé, já que não foram localizados bens a excutir
+A propósito, vale mencionar:
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. PEDIDO DE APLICAÇÃO DE MULTA POR LITIGÂNCIA DE MÁ-FÉ (ART. 81 DO CPC/2015). OMISSÃO CONFIGURADA. EMBARGOS ACOLHIDOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022).
+2. Havendo, nas contrarrazões, pedido expresso de condenação por litigância de má-fé, os embargos de declaração devem ser acolhidos para sanar a omissão.
+3. A aplicação da penalidade por litigância de má-fé exige a comprovação do dolo da parte, ou seja, da intenção de obstrução do trâmite regular do processo ou de causar prejuízo à parte contrária, o que não foi demonstrado na hipótese em exame. Precedentes.
+4. Embargos de declaração acolhidos para sanar omissão apontada, sem efeitos infringentes."
+(EDcl no AgInt no AREsp n. 1.733.144/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 24/5/2021, DJe de 30/6/2021)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. INÉRCIA DIANTE DE ORDEM JUDICIAL. ATO ATENTATÓRIO À DIGNIDADE DA JUSTIÇA. NÃO CONFIGURAÇÃO. AGRAVO PROVIDO.
+1. Para aplicação da multa por ato atentatório à dignidade da Justiça, há necessidade de verificação do elemento subjetivo, consistente no dolo ou culpa grave do devedor, que deve ter sido reconhecido pelas instâncias ordinárias.
+2. É insuficiente, para tanto, a mera inércia ou silêncio da parte executada no descumprimento de uma primeira intimação judicial relativa à indicação de endereços de terceiros, coproprietários de imóvel penhorado. Essa conduta omissiva não caracteriza a resistência injustificada, de que trata a norma aplicada (CPC/2015, art. 774, IV).
+3. Agravo interno provido para conhecer do agravo e dar provimento ao recurso especial, a fim de afastar a incidência da multa por ato atentatório à dignidade da Justiça, prevista no art. 774, IV, do CPC/2015."
+(AgInt no AREsp n. 1.353.853/PR, relator Ministro Raul Araújo, Quarta Turma, julgado em 26/2/2019, DJe de 16/4/2019)
+Ademais, o não adimplemento pontual da condenação é previsto pela própria legislação processual, sendo sancionado na forma do art. 523, §§ 1º, 2º e 3º, do Código de Processo Civil de 2015, de modo que, a concomitante aplicação de outras penalidades processuais, desacompanhada de motivação suficiente e específica,acarreta indesejável bis in idem.
+De rigor, portanto, o afastamentodas sanções aplicadas na origem, relativas à ato atentatório à dignidade da Justiça e litigância de má-fé.
+Ante o exposto, com arrimo no art. 253, parágrafo único, II, "c", do RISTJ, conheço do agravo para dar provimento recurso especial.
+Publique-se
