@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Terceira Seção, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Ribeiro Dantas, Antonio Saldanha Palheiro, Joel Ilan Paciornik, Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Jesuíno Rissato (Desembargador Convocado do TJDFT) e João Otávio de Noronha votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, a Sra. Ministra Laurita Vaz.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+RELATÓRIO
+EOLO GENOVES FERRARI opõe os presentes embargos ao acórdão proferido pela Terceira Seção, assim ementado (fls. 3.165):
+AGRAVO REGIMENTAL EM EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. PRESUNÇÃO TRIBUTÁRIA. CONSTITUIÇÃO DEFINITIVA DO CRÉDITO TRIBUTÁRIO. SÚMULA VINCULANTE 24/STF. SÚMULA 168/STJ. NÃO CABEM EMBARGOS DE DIVERGÊNCIA QUANDO A JURISPRUDÊNCIA DO TRIBUNAL ESTIVER FIRMADA NO MESMO SENTIDO DO ACÓRDÃO EMBARGADO.
+1. Os embargos de divergência objetivam a resolução interna de dissenso pretoriano existente entre órgãos colegiados, a fim de que o Tribunal uniformize, internamente, a sua interpretação.
+2. O novo Código de Processo Civil trata dos embargos de divergência nos arts. 1.043 e 1.044, os quais estabelecem que esses são cabíveis quando o acórdão de órgão fracionário, em recurso especial, divergir de qualquer outro órgão do Superior Tribunal de Justiça, sendo os acórdãos, embargado e paradigma, de mérito.
+3. Admite-se a aplicação do entendimento consolidado na Súmula Vinculante 24 a fatos ocorridos antes de sua publicação (AgRg no AREsp n. 1.304.750/SC, Ministro Nefi Cordeiro, Sexta Turma, DJe 14/5/2019).
+4. Inexistindo elementos capazes de alterar os fundamentos da decisão agravada, subsiste incólume o entendimento nela firmado, não merecendo prosperar o presente agravo.
+5. Agravo regimental improvido.
+Nas extensas razões, sustenta, em síntese, a) almeja explicação sobre a utilização do parecer ministerial como fundamento subsidiário para decidir; b) se a pregada retroatividade da Súmula Vinculante n. 24 pode atingir fatos praticados antes mesmo do leading case que, no final das contas, resultou na promulgação do referido enunciado (fl. 3.172); c) não se enfrentou a questão constitucional expressamente articulada no Agravo Regimental, consistente na fato de a aplicação retroativa da Súmula Vinculante n. 24 violar as garantias constitucionais da segurança jurídica e da presunção de não-culpabilidade prévia (fl. 3.174);
+Requer, ao final, o acolhimento dos presentes embargos, in verbis (fl. 3.175):
+ ..
+Requer-se, portanto, que esta col. Terceira Seção acolha estes Embargos de Declaração  inclusive com a possibilidade de atribuir-lhes efeitos infringentes ,de maneira a assentar a inadmissibilidade da aplicação retroativa da Súmula Vinculante nº 24 a fatos anteriores a13.05.2005, data de publicação do leading case do eg. STF(HC nº 87.611), bem como para declarar manifestamente sobre as violações às garantias constitucionais da segurança jurídica e do in dubio pro reo, por ser medida de JUSTIÇA!
+ ..
+Dispensou-se a oitiva da parte contrária.
+Por meio da Petição eletrônica n. 00493921/2022, a defesa técnica requera expedição da certidão de trânsito em julgado e de inteiro teor, em relação ao corréu Clairton Herradon para fins de ser juntada na vara de execuções penais (fl. 3.180).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO EMAGRAVO REGIMENTAL EM EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. PRESUNÇÃO TRIBUTÁRIA. CONSTITUIÇÃO DEFINITIVA DO CRÉDITO TRIBUTÁRIO. SÚMULA VINCULANTE 24/STF. SÚMULA 168/STJ. NÃO CABEM EMBARGOS DE DIVERGÊNCIA QUANDO A JURISPRUDÊNCIA DO TRIBUNAL ESTIVER FIRMADA NO MESMO SENTIDO DO ACÓRDÃO EMBARGADO.PRETENSÃO INFRINGENTE DO JULGADO. DESCABIMENTO.
+1. Verifica-se que não há nenhuma irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria posta à apreciação foi efetivamente julgada, não padecendo o acórdão embargado dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+2. Em essência, a oposição de embargos de declaração almeja o aprimoramento da prestação jurisdicional por meio da integração de julgado que se apresenta ambíguo, omisso, contraditório, obscuro ou com erro material, nos termos do art. 619 do Código de Processo Penal.
+3. No caso, não há vício a ser sanado. Apenas busca a parte embargante, por via oblíqua, a reversão do julgado, o que não tem o condão de viabilizar a oposição dos aclaratórios.
+4.Embargos de declaração rejeitados.
+VOTO
+O recurso não merece acolhida, tendo em vista que inexiste, na decisão embargada, nenhum defeito.
+O acórdão não padece de nenhum dos vícios preconizados no art. 619 do Código de Processo Penal.De fato, os pontos elencados como omissos pelo ora embargante já foram examinados no acórdão embargado (fls. 3.165/3.170), o que reflete o intuito de reversãodo decisumpor meio destes embargos de declaração.
+Assim, verifica-se que não há nenhuma irregularidadesanável por meio dos presentes embargos, porquanto toda a matéria posta à apreciação foi efetivamente julgada, não padecendo o acórdão embargado dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Logo, a prestação jurisdicional exauriu-se satisfatoriamente, não se constatando a presença de quaisquer dos vícios elencados no art. 619 do Código de Processo Penal.
+Cumpre destacar a orientação do Supremo Tribunal Federal, firmada em julgado com repercussão geral, no sentido de que as decisões judiciais não precisam ser necessariamente analíticas, bastando que contenham fundamentos suficientes para justificar suas conclusões (QO no AI n. 791.292, julgado sob a relatoria do Ministro Gilmar Mendes), circunstância verificada no caso; eis a ementa do julgado:
+ ..  Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3º e 4º). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência.
+3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão.
+4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral. Em face do exposto, rejeito os embargos de declaração.
+ ..
+Diante da manifesta improcedência dos aclaratórios, cumpre advertir oembargante de que a oposição de novos embargos de declaração (manifestamente improcedentes) ensejará a aplicação dos consectários delineados na jurisprudência desta Corte, a saber: baixa imediata dos autos com certificação do trânsito em julgado ou a remessa dos autos para o STF (na hipótese de remanescer recurso pendente de competência daquela Corte).
+Nesse sentido:
+PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AMBIGUIDADE, OBSCURIDADE, CONTRADIÇÃO OU OMISSÃO. INEXISTÊNCIA. RECURSO COM NÍTIDO CARÁTER PROTELATÓRIO. ABUSO DO DIREITO DE DEFESA. REMESSA DOS AUTOS AO SUPREMO TRIBUNAL FEDERAL PARA ANÁLISE DO AGRAVO EM RECURSO EXTRAORDINÁRIO PENDENTE. DETERMINAÇÃO DE BAIXA IMEDIATA DOS AUTOS PARA EXECUÇÃO DA PENA DOS DEMAIS EMBARGANTES.
+1. A mera desconformidade do embargante com a rejeição da tese que entende cabível não caracteriza omissão, porquanto insiste em rediscutir matéria que já foi devidamente rechaçada por esta Corte de Justiça em recursos anteriores.
+2. A reiteração recursal sem inovação evidencia o caráter protelatório do recurso, configurando abuso do direito de defesa.
+3. Embargos de declaração rejeitados, determinando-se a imediata remessa dos autos ao Supremo Tribunal Federal para o julgamento do agravo em recurso extraordinário de C A A e determinação da imediata baixa dos autos para execução da pena de Z D L e D F A, procedendo-se à certificação do trânsito em julgado.
+(EDcl nos EDcl no AgRg no AREsp n. 869.043/RJ, Ministro Nefi Cordeiro, Sexta Turma, DJe 11/6/2018)
+Ainda que assim não fosse, verifica-se quenão merece reforma o acórdão impugnado, porquantoincide o disposto na Súmula 168/STJ, segundo a qual não cabem embargos de divergência, quando a jurisprudência do Tribunal se firmou no mesmo sentido do acórdão embargado (AgRg nos EAREsp n. 263.820/DF, Ministro Nefi Cordeiro, Terceira Seção, DJe 30/10/2018).
+Melhor esclarecendo, o acórdão embargado decidiu que, embora as sonegações tenham ocorrido nos anos de 2001, 2002 e 2003, a constituição definitiva do crédito tributário ocorreu apenas em 15/5/2004 (e-STJ fl. 1.245). Nos termos da Súmula Vinculante n. 24 do Supremo Tribunal Federal, "não se tipifica crime material contra a ordem tributária, previsto no art. 1º, incisos I a IV, da Lei n. 8.137/1990, antes do lançamento definitivo do tributo" (fl. 2.914).
+Com efeito, o decisum embargadocoaduna-se com a jurisprudência emanada da Terceira Seção deste Superior Tribunal:
+EMBARGOS DE DIVERGÊNCIA EM AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CRIME CONTRA A ORDEM TRIBUTÁRIA ANTERIOR À EDIÇÃO DA SÚMULA VINCULANTE N. 24/STF. TERMO INICIAL DO PRAZO PRESCRICIONAL. DIVERGÊNCIA CONFIGURADA. ADOÇÃO DO POSICIONAMENTO CONSAGRADO NO SUPREMO TRIBUNAL FEDERAL. NECESSIDADE DA CONSTITUIÇÃO DO CRÉDITO TRIBUTÁRIO. EMBARGOS DE DIVERGÊNCIA PROVIDOS.
+I - Segundo a jurisprudência deste Superior Tribunal de Justiça, os embargos de divergência tem como finalidade precípua a uniformização de teses jurídicas divergentes, aplicadas dentro de um mesmo contexto.
+II - A análise da prescrição dos crimes materiais contra a ordem tributária deve se dar à luz da Súmula Vinculante n. 24 do Supremo Tribunal Federal, que dispõe: "não se tipifica crime material contra a ordem tributária, previsto no art. 1º, incisos I a IV, da Lei 8.137/1990, antes do lançamento definitivo do tributo". Desse modo, nos termos do art. 111, do Código Penal, a prescrição da pretensão punitiva somente tem seu início com a constituição definitiva do crédito, momento em que se consuma o delito.
+III - Constituindo a súmula vinculante n. 24 mera consolidação de remansosa interpretação judicial, tem aplicação aos fatos ocorridos anteriormente à sua edição. Precedentes.
+IV - Não transcorrido o lapso prescricional entre a constituição definitiva do crédito e o recebimento da denúncia, ou entre esta e a prolação de sentença condenatória, impõe-se a reforma do julgado que a declara consumada, com a consequente devolução dos autos à respectiva Turma para apreciação das demais teses recursais levantadas.
+Embargos de divergência providos.
+(EREsp n. 1.318.662/PR, Ministro Felix Fischer, Terceira Seção, DJe 4/12/2018 - grifo nosso)
+Sendo assim, descabe a análise do referido tema nos presentes autos.
+Inclusive, éválida a utilização da técnica da fundamentação per relationem, em que o magistrado se utiliza de trechos de decisão anterior ou de parecer ministerial como razão de decidir(RHC n. 94.488/PA, Relator Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 19/4/2018, DJe 2/5/2018)(HC n. 642.679/PE, Relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 8/3/2022, DJe de 14/3/2022.)
+Ante o exposto, rejeito os embargos de declaração.
