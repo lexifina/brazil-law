@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo interposto por MARIA HELENA RIBEIRO DOS SANTOS, contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a e c, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 3ª Região, assim ementado (fl. 251):
+PREVIDENCIÁRIO - CONCESSÃO DE BENEFÍCIO - APOSENTADORIA POR INVALIDEZ OU AUXÍLIO-DOENÇA - NÃO DEMONSTRADA A INCAPACIDADE HABITUAL - HONORÁRIOS RECURSAIS - APELO DESPROVIDO - SENTENÇA MANTIDA.
+1. Por ter sido a sentença proferida sob a égide do Código de Processo Civil de 2015 e, em razão de sua regularidade formal, conforme certificado nos autos, a apelação interposta deve ser recebida e apreciada em conformidade com as normas ali inscritas.
+2. Os benefícios por incapacidade, previstos na Lei nº 8.213/91, destinam-se aos segurados que, após o cumprimento da carência de 12 (doze) meses (art. 25, I), sejam acometidos por incapacidade laboral: (i) incapacidade total e definitiva para qualquer atividade laborativa, no caso de aposentadoria por invalidez (art. 42), ou (ii) incapacidade para a atividade habitual por mais de 15 (quinze) dias consecutivos, no caso de auxílio-doença (art. 59).
+3. Para a obtenção dos benefícios por incapacidade, deve o requerente comprovar o preenchimento dos seguintes requisitos: (i) qualidade de segurado, (ii) cumprimento da carência, quando for o caso, e (iii) incapacidade laboral.
+4. No caso dos autos, o exame médico, realizado pelo perito oficial, constatou que a parte autora não está incapacitada para o exercício de atividade habitual, como se vê do laudo oficial.
+5. Ainda que o magistrado não esteja adstrito às conclusões do laudo pericial, conforme dispõem o artigo 436 do CPC/73 e o artigo 479 do CPC/2015, estas devem ser consideradas, por se tratar de prova técnica, elaborada por profissional da confiança do Juízo e equidistante das partes.
+6. O laudo em questão foi realizado por profissional habilitado, equidistante das partes, capacitado, especializado em perícia médica, e de confiança do r. Juízo, cuja conclusão encontra-se lançada de forma objetiva e fundamentada, não havendo que falar em realização de nova perícia judicial. Atendeu, ademais, às necessidades do caso concreto, possibilitando concluir que o perito realizou minucioso exame clínico, respondendo aos quesitos formulados, elevou em consideração, para formação de seu convencimento, a documentação médica colacionada aos autos.
+7. Não demonstrada a incapacidade para a atividade laborativa, e sendo tal argumento intransponível, não é de se conceder o benefício postulado. E não havendo comprovação da incapacidade, fica prejudicada a análise dos demais requisitos.
+8. Os honorários recursais foram instituídos pelo CPC/2015, em seu art. 85, § 11, como um desestímulo à interposição de recursos protelatórios, e consistem na majoração dos honorários de sucumbência em razão do trabalho adicional exigido do advogado da parte contrária, não podendo a verba honorária de sucumbência, na sua totalidade, ultrapassar os limites estabelecidos na lei.
+9. Desprovido o apelo da parte autora interposto na vigência da nova lei, os honorários fixados na sentença devem, no caso, ser majorados em 2%, nos termos do art. 85, parágrafo 11, do CPC/2015, observada a suspensão prevista no artigo 98, parágrafo 3º, da mesma lei.
+10. Apelo desprovido. Sentença mantida.
+Opostos embargos de declaração, foram rejeitados (fls. 294/298).
+Nas razões do recurso especial, a parte alega ofensa aos arts. 42 e 59, da Lei 8.213/91, e sustenta, em síntese, quediante da correta valoração dos elementos presentes nos autos, a parte autora faz jus ao benefício de aposentadoria por invalidez ou, subsidiariamente, auxílio-doença.
+Sem contrarrazões (fl. 993).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+O recurso não prospera.
+Isto porqueo Tribunal de origem, com base no conjunto probatório dos autos, concluiu pela ausência dos requisitos autorizadores da concessão dos benefícios de aposentadoria por invalidez, ou mesmo auxílio-doença, diante da não constatação de incapacidade laboral, como se infere do seguinte trecho extraído do acórdão (fl. 248):
+No caso dos autos, o exame realizado pelo perito oficial, constatou que a parte autora não está incapacitada para o exercício da sua atividade habitual, como se vê do laudo oficial.
+Assim, ainda que o magistrado não esteja adstrito às conclusões do laudo pericial, conforme dispõem o artigo 436 do CPC/1973 e o artigo 479 do CPC/2015, estas devem ser consideradas, por se tratar de prova técnica, elaborada por profissional da confiança do Juízo e equidistante das partes.
+O laudo em questão foi realizado por profissional habilitado, equidistante das partes, capacitado, especializado em perícia médica, e de confiança do r. Juízo, cuja conclusão encontra-se lançada de forma objetiva e fundamentada, não havendo que se falar em realização de nova perícia judicial.
+Outrossim, o laudo pericial atendeu às necessidades do caso concreto, possibilitando concluir que o perito realizou minucioso exame clínico, respondendo aos quesitos formulados. Além disso, levou em consideração, para formação de seu convencimento, a documentação médica colacionada aos autos.
+Ressalte-se que a parte autora, ao impugnar o laudo oficial, não apresentou qualquer documento técnico idôneo capaz de infirmar as suas conclusões.
+Deveras, meras alegações não têm o condão de afastar as conclusões do . expert Não demonstrada, pois, a incapacidade para a atividade laborativa habitual, e sendo tal argumento intransponível, não é de se conceder o benefício postulado.
+Assim, nota-se que a questão foi decidida na instância ordinária de acordo com os fatos e provas constantes nos autos, de forma que a alteração destas conclusões, tal como colocado pela parte recorrente, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+A propósito, anotem-se os seguintes julgados:
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. BENEFÍCIO PREVIDENCIÁRIO.AUXÍLIO-DOENÇA. INCAPACIDADE LABORAL. AUSÊNCIA DE PROVA DE NECESSIDADE DEAFASTAMENTO DAS ATIVIDADES LABORAIS. PRETENSÃO DE REEXAME DE PROVAS.SÚMULA 7/STJ.
+1. Na hipótese em exame, o Tribunal de origem, ao decidir a questão, consignou que há incapacidade parcial e temporária, não restando demonstrada a necessidade de afastamento das atividades laborais.
+2. O acolhimento da pretensão recursal, in casu, demanda o reexame do contexto fático-probatório, mormente das conclusões periciais acerca da inexistência de incapacidade. Dessarte, incide o disposto na Súmula 7/STJ.
+3. Agravo Regimental não provido.
+(AgRg no AREsp 576.684/SP, Rel. Min. HERMAN BENJAMIN, DJe de 19/12/2014)
+PREVIDENCIÁRIO. APOSENTADORIA POR INVALIDEZ OU AUXÍLIO-ACIDENTE. INCAPACIDADE LABORATIVA PARCIAL E PERMANENTE. NÃO CARACTERIZADA. PRETENSÃO DE REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ.
+1. O Tribunal de origem, a quem é dada a análise das circunstâncias fático-probatórias da causa, entendeu que a lesão ocupacional que incorreu a autora não a incapacita para atividades laborais, não gerando o pretendido direito à aposentadoria por invalidez ou auxílio-doença.
+2. Modificar o acórdão recorrido, como pretende a recorrente, para entender pelo enquadramento dos requisitos para concessão da aposentadoria por invalidez, demanda reavaliação do conjunto fático-probatório dos autos, o que é vedado na via especial, nos termos da Súmula 7/STJ. Agravo regimental improvido.
+(AgRg no AREsp 586.521/SP, Rel. Min. HUMBERTO MARTINS, DJe de 17/11/2014)
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
