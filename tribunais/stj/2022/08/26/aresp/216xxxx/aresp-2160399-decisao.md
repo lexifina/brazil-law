@@ -1,0 +1,33 @@
+DECISÃO
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ICMS. EMPRESA CONTRIBUINTE. DIFERENCIAL DE ALÍQUOTA. DEVER DE RECOLHIMENTO.RAZÕES RECURSAIS DISSOCIADAS. SÚMULA 284/STF.AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL DA EMPRESA.
+1. Agrava-se dadecisão que inadmitiu o recurso especial interposto por SEVEN COMERCIO DE ALIMENTOS LTDA, com fundamento no art. 105, inciso III, alíneas a e c, da CF/1988, no qual se insurgira contra acórdão proferido pelo Tribunal de Justiça de Mato Grosso, assim ementado:
+APELAÇÃO CÍVEL AÇÃO DECLARATÓRIA - COBRANÇA DO DIFERENCIAL DE ALlQUOTA  EMPRESA CONTRIBUINTE DO ICMS - AQUISIÇÃO DE MATERIAIS DE CONSTRUÇÃO PARA INTEGRAR O ATIVO PEF - UMÂNENTE  DEVER DE RECOLHIMENTO EXEGESE DO ART. 155, II, DA CF E IV, do §1º, do art. 2º, do RICMS - PRECEDENTES DESTA CÂMARA JULGADORA - SENTENÇA REFORMADA - RECURSO PROVIDO.
+O "Diferencial de Alíquota" nada mais é do que uma regra de tributação onde o destinatário, contribuinte do ICMS, apura e recolhe em benefício de seu Estado o ICMS correspondente à diferença entre a alíquota interestadual e a estadual, quando das aquisições de mercadorias, bens ou serviços oriundos de outros Estados e destinados ao seu uso, consumo, integração ao Ativo Permanente ou que não estejam vinculados a uma saída subsequente tributada.(fl. 506).
+2. Os embargos de declaração opostos foram rejeitados (fls. 554/562).
+3. Nasrazões do seurecurso especial (fls. 565/581), a parte agravante sustenta,além de divergência jurisprudencial, violação dos arts. 373 do CPC/2015 e 7º,§ 2º, I, da Lei Complementar n. 116/2003 ao defender ser indevida a cobrança do diferencial de alíquota de ICMS nas operações efetuadas para aquisição de produtos para consumo próprio, ou seja, para incorporar o seu ativo imobilizado.
+4. Aduz que a parte agravada não se desincumbiu do seu ônus de comprovar a legalidade na cobrança do ICMS.
+5.Sobreveio o juízo de admissibilidade negativo (fls. 643/649), razão pela qual se interpôs o presente agravo em recurso especial, ora em análise.
+6. É o relatório.
+7. A irresignação não merece prosperar.
+8. Inicialmente, é importante ressaltar que o presente recurso atrai a incidência do Enunciado Administrativo 3 do STJ, segundo o qual aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+9. Nos  exatos  termos  do  acórdão  recorrido,  o  Tribunal  de  origem  assim  se  manifestou  sobre  o cerne da  insurgência:
+Mostra-se incontroverso" que a empresa autora adquiriu os produtos destinados à edificação da sede de sua empresa. Contudo, não se pode negar que a empresa é contribuinte do "ICMS, fato "que não restou contestado pela autora, inclusive, restou cabalmente demonstrado pela recorrente.
+(..)
+A autorização para cobrança do diferencial de alíquota  está definida no inciso IV, do §1º, do art. 2º, do RICMS, donde se extrai que o imposto incide também sobre a entrada no estabelecimento do contribuinte de bem ou mercadoria destinada ao uso, consumo ou ativo permanente.(fls. 508/509).
+10.Como sevê, oTribunal de origem concluiu que a empresa agravante é contribuinte do ICMS, fato"que não restou contestado pela autora, inclusive, restou cabalmente demonstrado pela recorrente,razão pela considerou legítima a cobrança do diferencial de alíquota do ICMS.A parte recorrente, por sua vez, limitou-se a alegar ser consumidora final dos materiais adquiridos e que não exerce o comércio de produtos no seguimento de construção civil, sendo indevida a incidência de ICMS.
+11.Dessa forma, constata-se que as razões do recurso especial se apresentamdissociadas do quadro fático doacórdão recorrido, razão pela qual atrai a incidência, por analogia, do enunciado sumular284/STF, que estabelece:é inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia. A propósito, cito os seguintes julgados desta Corte Superior, naquilo que interessa:
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL(..). RAZÕES RECURSAIS DISSOCIADAS DO JULGADO. SÚMULA 284/STF.
+(..)
+3. É inadmissível o recurso especial que apresenta razões dissociadas do quadro fático e das premissas jurídicas expostos no acórdão recorrido. Incidência da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.").
+(..)
+7. Agravo interno conhecido parcialmente para, na parte conhecida, negar-se-lhe provimento(AgInt nos EDcl no AREsp 1.700.429/RJ, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 26/4/2021, DJe 29/4/2021).
+PROCESSUAL CIVIL. ADMINISTRATIVO. CONVÊNIO.MODERNIZAÇÃO DA GUARDA MUNICIPAL. EXECUÇÃO. NÃO COMPROVAÇÃO. RESSARCIMENTO. MUNICÍPIO.INTIMAÇÃO ELETRÔNICA DA SENTENÇA. DEFICIÊNCIA NA FUNDAMENTAÇÃO.RAZÕES DISSOCIADAS DOS FUNDAMENTOS DO ACÓRDÃO. APLICAÇÃO DA SÚMULA N. 284 DO STF.
+(..)
+III - A jurisprudência do Superior Tribunal de Justiça, é firme no sentido de que se o recorrente apresenta razões dissociadas dos fundamentos adotados pelo acórdão recorrido, o recurso especial é deficiente na sua fundamentação, o que atrai a aplicação por analogia da Súmula n. 284 do STF.
+(..)
+VIII - Agravo interno improvido(AgInt no REsp 1.806.873/PE, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 23/11/2020, DJe 25/11/2020).
+12. Ademais, não seria o caso de acolhimento da pretensão da parte ora agravante visto que dissentir das conclusões do acórdão recorrido acerca do enquadramento da empresa como contribuinte do ICMS demandaria o reexame de premissas fáticas, o que é vedado em recurso especial a teor da Súmula 7/STJ.
+13. Por fim, épacífico o entendimento desta Corte Superior de queos mesmos óbices impostos à admissão do recurso pela alínea a do permissivo constitucional impedem a análise recursal pela alínea c, ficando prejudicada a apreciaçãodo dissídio jurisprudencial referenteao mesmo dispositivo de lei federalapontado como violado ou à tese jurídica.
+14. Diante dessas considerações, conheço do agravo interposto por SEVEN COMERCIO DE ALIMENTOS LTDApara não conhecer do recurso especial.
+15. Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+16. Publique-se. Intimações necessárias.
