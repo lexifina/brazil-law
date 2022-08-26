@@ -1,0 +1,57 @@
+DECISÃO
+Vistos etc.
+Trata-se de agravo em recurso especial interposto por BRN HOLDING INVESTIMENTOS IMOBILIARIOS LTDA, e, OUTROS,contra inadmissão, na origem, de recurso especial fundamentado nas alíneas "a" e "c" do inciso III do artigo 105 da Constituição Federal, manejado contra acórdão do Tribunal de Justiça do Estado do Paraná, assim resumido:
+EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO. INTERPOSIÇÃO SIMULTÂNEA DERECLAMAÇÃO CÍVEL CONTRA A SENTENÇA RECORRIDA, A FIMDE GARANTIR AUTORIDADE DE DECISÃO DESTE TRIBUNAL(CPC, ART. 988, II). PROVIMENTO DA RECLAMAÇÃO, QUERESULTOU NA CASSÃO INTEGRAL DA SENTENÇA QUE ASPARTES OBJETIVAVAM RECONHECIMENTO DE NULIDADE EREFORMA. ESVAZIAMENTO DO OBJETO DE AMBOS RECURSOS. SUPERVENIENTE FALTA DE INTERESSE DE AGIR, QUE DEVESER LEVADA EM CONSIDERAÇÃO (CPC, ART. 17 E 492).
+RECURSOS DE APELAÇÃO (1) E APELAÇÃO (2) NÃOCONHECIDOS.
+Os embargos de declaração opostos foram rejeitados às fls. 753/795; 833/836(e-STJ).
+Em suas razões do especial, os recorrentes refutaram o indeferimento do pleito relativo aobenefício da assistência judiciária, requerendo sua concessão com suporte nos arts. 98, 99, § 3º, e, 369, do Código de Processo Civil.
+Aduziram que "inaceitável, numa situação como a presente, que a decisão seja tomada pela simples situação nas receitas (ativa) e, ainda, que seja ignorada a declaração que comprova a ausência de movimentação financeira e de encargos fiscais" (e-STJ Fls. 975).
+Argumentaram, ainda,que houve ofensa aos arts. 11, e, 489, § 1º, inciso IV, do CPC/2015, sustentando que o acórdão recorrido padece de ausência de fundamentação, eis que,"deixam de analisar os argumentos e documentos apresentados pela Agravante, tampouco analisa tais argumentos em face dos documentos anexados àação originária; restando clara a sua nulidade!" (e-STJ Fl. 973).
+Não foram apresentadas contrarrazões(e-STJ Fl. 991)).
+Inadmitido o apelo nobre (e-STJ fl. 994/998), vieram os autos conclusosem decorrência da interposição do agravo de fls. 1.030/1.041 (e-STJ).
+Não foi apresentada impugnação ao agravo em recurso especial (e-STJ Fl. 1.050).
+É o relatório.
+Passo a decidir.
+Inicialmente, registro que o acórdão recorrido foi publicadosob avigência da Lei 13.105/2015, razão por que o juízo de admissibilidade será realizado na forma deste novo édito, conforme Enunciado Administrativo nº3/STJ.
+A irresignação não merece prosperar.
+Com efeito, não há que falar em violação aos arts. 11 e 489 do CPC, uma vez que a Corte local apreciou as questões deduzidas, decidindo de forma clara e conforme sua convicção com base nos elementos de prova que entendeu pertinentes, lançando fundamentação jurídica sólida para o desfecho da lide, apenas não foi ao encontro da pretensão das partes recorrentes ora agravantes, o que está longe de significar ausência de fundamentação ou negativa de prestação jurisdicional.
+Por oportuno, "Não se verifica a alegada ofensa aos arts. 11, 489, III, e § 1º, IV e VI , 927, 988 e 1.022, I e II, do Código de Processo Civil, na medida em que a eg. Corte de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, não sendo possível confundir julgamento desfavorável, como no caso, com negativa de prestação jurisdicional ou ausência de fundamentação."(AgInt no AREsp 1591224/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 29/06/2020, DJe 05/08/2020).
+Lado outro, ao apreciar o pedido de assistência judiciária gratuita, a Corte de origem o indeferiu, por entender que os requerentes não comprovaram a hipossuficiência, embora tenham sido intimados para tanto.
+Vejamos (e-STJ Fl. 793/795, gn):
+"4. Em segundo lugar, indefiro o benefício pleiteado, diante da existência de elementos que evidenciam a falta dos pressupostos legais para a concessão da gratuidade.
+5. Veja-se, a apelação em que requerido o benefício foi interposta por cinco pessoas jurídicas e outras seis pessoas físicas, isto é, no total onze pessoas.
+6. Com os embargos de declaração, os recorrentes juntaram diversos recibos de "entrega da declaração de débitos e créditos tributários federais", relativos às pessoas jurídicas. Tais documentos, por si sós, demonstram única e tão somente que não houve recolhimento de tributos federais no período a que se referem. Não demonstram, como querem fazer crer, a inatividade empresarial ou que tais sociedades nãopossuem condições de arcar com o recolhimento do preparorecursal.
+7. Ademais, em consulta ao CNPJ de cada uma delas junto ao endereço eletrônico da Receita Federal, todas se encontram ativas e a Sul Invest, sozinha, possui um capital social declarado na ordem de R$220.000,00 (duzentos e vinte mil reais).
+8. Por outro lado, não é minimamente razoável supor que onze patrimônios em conjunto não tenham recursos suficientes para arcar com os aproximados R$300,00 (trezentos reais) de custas relativos à apelação. Isso representa menos de R$30,00 (trinta reais) para cada uma delas.
+9. Também é necessário lembrar que eventual concessão do benefício não operaria efeitos retroativos, uma vez que "vigora no Superior Tribunal de Justiça o entendimento de que a concessão do benefício da gratuidade de justiça opera efeitos ex nunc." (EDcl no AgInt no REsp 1.456.942/RS - Rel. Ministro Sérgio Kukina - 1 a Turma - DJe 10-11-2017).
+10. Por fim, nem se alegue violação ao contraditório da parte contrária, tendo em vista que, muito embora esta decisão tenha efeito infringente da determinação anterior, o pedido formulado foi indeferido e mantida a determinação para o preparo recursal".
+Assim, para afastar as premissas fixadas no aresto atacado, bem como para alterar a conclusão a que o órgão julgador chegou acerca do tema, seria preciso reexaminar a matéria fática, o que é vedado em sede especial, conforme dispõe a Súmula 7/STJ.
+Destarte, no tocante à justiça gratuita, encontra-se consolidado o entendimento desta Corte de que as pessoas jurídicas fazem jus ao benefício, desde que comprovem a insuficiência de recursos para arcar com as despesas processuais, independentemente de possuírem ou não finalidade lucrativa.
+Nesse sentido, o julgado da Corte Especial deste Superior Tribunal de Justiça:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. ASSISTÊNCIA JUDICIÁRIA GRATUITA. PESSOA JURÍDICA SEM FINS LUCRATIVOS. NECESSIDADE DE COMPROVAÇÃO DA MISERABILIDADE JURÍDICA. 1. A egr. Corte Especial, na sessão de 02.08.2010, passou a adotar a tese já consagrada STF, segundo a qual é ônus da pessoa jurídica comprovar os requisitos para a obtenção do benefício da assistência judiciária gratuita, mostrando-se irrelevante a finalidade lucrativa ou não da entidade requerente. Precedente: EREsp nº 603.137/MG, Corte Especial, de minha relatoria, DJe 23.08.10. 2. Agravo regimental não provido.
+(AgRg nos EREsp 1.103.391/RS, Corte Especial, Rel. Ministro Castro Meira, DJe 23/11/2010 - grifou-se).
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. PESSOA JURÍDICA. ASSISTÊNCIA JUDICIÁRIA GRATUITA. INDEFERIMENTO PELO JUIZ. REVISÃO NO STJ. IMPOSSIBILIDADE. SÚMULA 7/STJ. PRECEDENTES. RECURSO NÃO PROVIDO.
+1. A presunção de pobreza, para fins de concessão dos benefícios da assistência judiciária gratuita, ostenta presunção relativa, podendo o magistrado investigar a situação do requerente caso entenda que os elementos coligidos aos autos demonstram a capacidade de custeio das despesas processuais. Matéria de fato insusceptível de reexame em recurso especial (Súmula 7/STJ).
+2. De acordo com a jurisprudência desta Corte, a pessoa jurídica que pretende se valer das benesses da assistência judiciária gratuita precisa comprovar o efetivo estado de necessidade (Súmula 481/STJ).
+3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 432.961 / RJ. Quarta Turma. Rel. Ministra Maria Isabel Gallotti. DJe 15/04/2014 - grifou-se).
+Ademais, o benefício do art. 2º da Lei 1.060/50 visa garantir o direito constitucional de ação e acesso ao Poder Judiciário para todos os cidadãos, isentando do pagamento das custas processuais aos que não podem arcar com essas despesas, sem prejuízo de seu próprio sustento ou de sua família. Contudo, tal benefício é voltado àqueles que materialmente não podem arcar com as despesas processuais.
+Sobre o tema, compartilho o entendimento de que a necessidade de prova da situação de hipossuficiência econômica emana da própria Constituição Federal, nos termos do art. 5º, inciso LXXIV, que assim dispõe: "o Estado prestará assistência judiciária integral e gratuita aos que comprovarem insuficiência de recursos".
+A assistência judiciária não se reveste do caráter de benevolência, mas se apresenta como meio necessário à viabilização do acesso igualitário a todos os que buscam a prestação jurisdicional. Por conseguinte, por não se tratar de um ato de caridade, deve restar criteriosamente concedido.
+Assim, o Tribunal de origem proferiu a sua decisão de acordo com o atual entendimento do Superior Tribunal de Justiça no sentido de que as pessoas jurídicas fazem jus ao benefício, desde que comprovem a insuficiência de recursos para arcar com as despesas processuais.
+Na espécie, não restou comprovado o estado de miserabilidade jurídica dos recorrentes que justificasse a concessão da gratuidade de justiça. O Tribunal de origem registrou que não foram apresentados documentos capazes de demonstrar a efetiva indisponibilidade financeira dos recorrentes para arcar com as despesas processuais.
+Portanto, elidir as conclusões do aresto impugnado quanto às convicções formadas pelo Tribunal de origem acerca da hipossuficiência das partes recorrentes demandaria o revolvimento do conjunto fático-probatório dos autos, providência vedada nesta sede especial a teor da Súmula nº 7/STJ.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ASSISTÊNCIA JUDICIÁRIA GRATUITA. CARACTERIZAÇÃO. SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+1. O Tribunal de origem, apreciando as peculiaridades fáticas da causa, indeferiu o benefício da assistência judiciária gratuita. A modificação de tal entendimento lançado no v. acórdão recorrido, como ora perseguida, demandaria a análise do acervo fático-probatório dos autos, o que é vedado pela Súmula 7 do STJ.
+2. Agravo regimental a que se nega provimento. (AgRg no AREsp 486.303/SP. Quarta Turma, Rel. Ministro Raul Araújo. Quarta Turma. DJe 13/05/2014 - grifou-se).
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. ASSISTÊNCIA JUDICIÁRIA GRATUITA. CONDIÇÃO DE HIPOSSUFICIÊNCIA. VERIFICAÇÃO. SÚMULA N. 7/STJ. INCIDÊNCIA.
+1. Incide a Súmula n. 7 do STJ na hipótese em que a tese versada no recurso especial reclama a análise dos elementos probatórios produzidos ao longo da demanda.
+2. Agravo regimental desprovido. (AgRg no AREsp 319.696/PE. Terceira Turma, Rel. Ministro João Otávio de Noronha. DJe 28/06/2013).
+Dessarte, o apelo esbarra, ainda, no óbice da Súmula 7/STJ.
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Advirto as partes que a oposição de incidentes manifestamente improcedentes e protelatórios dará azo à aplicação das penalidades legalmente previstas.
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. AUSÊNCIA DE FUNDAMENTAÇÃO. INOCORRÊNCIA. ACÓRDÃO RECORRIDO QUE DECIDIU TODAS AS QUESTÕES POSTAS DE MANEIRA INTEGRAL E COM FUNDAMENTAÇÃO SUFICIENTE.JUSTIÇA GRATUITA. PEDIDO NEGADO PELA CORTE DE ORIGEM. ALEGADAEXISTÊNCIA DE HIPOSSUFICIÊNCIA. SÚMULA 7/STJ.
+AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
