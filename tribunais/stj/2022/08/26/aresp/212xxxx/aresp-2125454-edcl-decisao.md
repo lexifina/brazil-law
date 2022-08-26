@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de embargos de declaração interpostos contra decisão que não conheceu do agravo por ausência de impugnação específica.
+Sustenta o embargante que a decisão é contraditória, na medida em que é possível ao recorrente requerer a valoração de provas, bem como reproduzir o conteúdo dos argumentos deduzidos nas razões de recurso especial(e-STJ, fl. 2388).
+Os embargos de declaração são recurso com fundamentação vinculada, sendo imprescindível a demonstração de que a decisão embargada se mostrou ambígua, obscura, contraditória ou omissa, conforme disciplina o art. 619 do Código de Processo Penal. Podem ser admitidos, ainda, para correção de eventual erro material e, excepcionalmente, para alteração ou modificação do decisum embargado.
+É insuficiente, todavia, a mera irresignação com o entendimento apresentado na decisão, assim como inviável seu uso como mero meio de reanálise das alegações.
+No caso, não se constatam os vícios alegados na decisão embargada proferida com a seguinte fundamentação (e-STJ, fls. 2379/2380):
+Adecisão agravada inadmitiu o recurso especial pela incidência das Súmulas 7 do STJ; 283 e 284 do STF(e-STJ, fls. 2294/2301).
+Não obstante, nas razões do agravo (e-STJ, fls. 2330/2346), a parte agravante não apresentou impugnação específica aos referidos fundamentos, limitando-se a reiterar as razões do recurso especial. Como tem reiteradamente decidido esta Corte, os recursos devem impugnar, de maneira específica e pormenorizada, os fundamentos da decisão contra a qual se insurgem, sob pena de vê-los mantidos. Não são suficientes meras alegações genéricas sobre as razões que levaram à inadmissão do agravo ou do recurso especial, tampouco a insistência no mérito da controvérsia.
+Nesses casos, a ausência de efetiva impugnação aos fundamentos da decisão que inadmitiu o recurso especial, ônus da parte recorrente, obsta o conhecimento doagravo, nos termos dos arts. 932, III, do CPC, e 253, parágrafo único, I, do RISTJ, e da Súmula 182 do STJ, aplicável por analogia.
+O embargante pretende, na realidade,rediscutir matéria já decidida e que foi contrária à sua pretensão, sem demonstrar, todavia, ambiguidade, obscuridade, contradição ou omissão, nos termos do art. 619 do CPP.
+De fato, o entendimento desta Corte é pacífico no sentido de que "os embargos declaratórios não constituem recurso de revisão, sendo inadmissíveis se a decisão embargada não padecer dos vícios que autorizariam a sua oposição (obscuridade, contradição e omissão)"(EDcl no AgRg no REsp 1339703/RS, Rel. Ministro FELIX FISCHER, Quinta Turma, julgado em 4/11/2014, DJe 17/11/2014).
+Manifesta, portanto, a impossibilidade de acolhimento dos presentes aclaratórios, porquanto não demonstrada a ocorrência de nenhuma das hipóteses do art. 619 do Código de Processo Penal.
+Ante o exposto, rejeito os embargos de declaração.
+Intimem-se.
