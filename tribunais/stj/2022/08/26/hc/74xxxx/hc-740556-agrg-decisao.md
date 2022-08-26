@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo regimental interposto por JOAO VICTOR MARTUCI DE JESUS, em face de decisão monocrática da minha relatoria na qual não se conheceu dohabeas corpus.
+Depreende-se dos autos decretação da prisão preventivapelo descumprimento das medidas cautelares impostas pela suposta prática do crime de tráfico ilícito de entorpecentes.
+Irresignada, a defesa impetrouhabeas corpusperante o eg. Tribunala quo, por meio do qual buscava a revogação do decreto prisional. O eg. Tribunal de origem denegou aordem, em v. acórdão assim ementado:
+"Habeas Corpus. Tráfico de drogas. Conversão da prisão em flagrante em preventiva. Decisão do STJ em sede de habeas corpus determinando a soltura do paciente. Decretação da custódia diante de novas circunstâncias. Decisão fundamentada, nada infirmando a segregação. Necessidade de manutenção da ordem pública. Descabimento de medidas cautelares previstas no artigo 319 do mesmo Estatuto Processual. Constrangimento ilegal não verificado de plano. Ordem indeferida liminarmente, dispensados parecer da Procuradoria de Justiça e informações da autoridade apontada como coatora (artigo 663 do CPP)"(fl. 23).
+Daí o presentemandamus,impetrado em 9/5/2022,no qualo impetrante asseverou a existência de constrangimento ilegalconsubstanciado na ausência de fundamentação idônea a justificar a decretação de sua segregação cautelar.
+Requereu,ao final, a revogação da prisão preventiva e, subsidiariamente, a substituição da prisão preventiva por medida cautelar diversa, prevista no art. 319 do Código de Processo Penal.
+A liminar foi indeferida às fls. 44-45
+As informações foram prestadas às fls. 48-52, noticiando acondenação, em 18/4/2022, do paciente à pena de 5 anos e 6 meses, em regime fechado, pela prática do crime de tráfico ilícito de entorpecentes.
+O Ministério Público Federal, às fls. 57-61, manifestou-sepela parcial concessãoda ordem, em parecer assim ementado:
+"HABEAS CORPUS. TRÁFICO DE DROGAS.DESNECESSIDADE DA PRISÃO PREVENTIVA, DADA A POSSIBILIDADE DE SUBSTITUIÇÃO DA PRISÃO POR MEDIDA CAUTELAR DIVERSA. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. PARECER PELA CONCESSÃO PARCIAL DA ORDEM"(fl. 57).
+Neste regimental, a defesa aponta o decreto prisional às fls. 69-90, razão pela qual pugna pela reconsideração dodecisumou a submissão do feito à Turma julgadora.
+É o relatório.
+Decido.
+Presentes os pressupostos processuais,conheçodo presente agravo.
+Sustenta o agravante a inidoneidade do decreto prisional, juntado aos autos a sentença condenatória.
+A juntada do édito condenatório permite a reconsideração de fls. 63-66. Contudo, melhor sorte não socorre o agravante.
+Isso porque, conforme entendimento sedimentado por esta Corte, o presente feito se insurge contra decreto prisional que não mais subsiste devido à superveniência de novo título prisional com novos fundamentos (fl. 88).
+A propósito, os seguintes precedentes desta Corte sobre o tema:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. NOVOS FUNDAMENTOS A EMBASAR A CUSTÓDIA. WRIT PREJUDICADO. APELAÇÃO DEFENSIVA. EXECUÇÃO PROVISÓRIA. AGRAVO DESPROVIDO.
+1. A superveniência de sentença penal condenatória, na qual se nega ao Acusado o direito de recorrer em liberdade, com novos fundamentos para justificar a prisão preventiva conduz à prejudicialidade da ação constitucional de habeas corpus ou do recurso em habeas corpus dirigidos contra decisão antecedente de constrição cautelar. 2. Além disso, é possível a execução provisória da pena após a confirmação da sentença condenatória pelo Tribunal de origem quando exaurida a jurisdição ordinária.
+3. Agravo regimental desprovido" (AgRg no HC n. 461.932/SP, Sexta turma, Relª. Minª. Laurita Vaz, DJe de 19/08/2019, grifei).
+"PROCESSUAL PENAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. NULIDADE. PRODUÇÃO ANTECIPADA DE PROVAS. INOCORRÊNCIA. PREJUÍZO NÃO DEMONSTRADO. PAS DE NULLITÉ SANS GRIEF. INTELIGÊNCIA DO ART. 563 DO CPP. ALEGADA AUSÊNCIA DE FUNDAMENTAÇÃO IDÔNEA DO DECRETO PRISIONAL. PEDIDO PREJUDICADO.SUPERVENIÊNCIA DA PRONÚNCIA. NOVO TÍTULO COM NOVOS FUNDAMENTOS. HABEAS CORPUS NÃO CONHECIDO.
+I - A Terceira Seção desta Corte, nos termos do entendimento firmado pela Primeira Turma do col. Pretório Excelso, sedimentou orientação no sentido de não admitir habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento do writ, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+II - "A decisão que determina a produção antecipada de provas com base no art. 366 do CPP deve ser concretamente fundamentada, não a justificando unicamente o mero decurso do tempo", segundo disposição da Súmula 455/STJ.
+III - No caso, as decisões das instâncias ordinárias não estão fundamentadas somente no mero decurso do tempo, mas também na ausência de comprovação de qualquer prejuízo para o paciente, na medida em que a audiência foi acompanhada pela Defesa Técnica que na ocasião, inclusive, sequer se manifestou sobre a questão. Não há que se falar, pois, em violação ao enunciado n. 455, da Súmula do STJ. Precedentes.
+IV - Ademais, extrai-se das razões expendidas pelo eg. Tribunal de origem que os fatos ocorreram há quase 19 (dezenove) anos, e que o ora paciente permaneceu foragido por dezoito anos. Outrossim, há que se destacar que a informação prestada pelo irmão do paciente de que este compareceria espontaneamente à audiência de instrução, estando ciente da data de sua realização, porém tomou rumo ignorado, o que obstou sua localização para que fosse interrogado, tudo a dificultar a instrução criminal.
+V - A jurisprudência desta Corte de Justiça há muito se firmou no sentido de que a declaração de nulidade exige a comprovação de prejuízo, em consonância com o princípio pas de nullité sans grief, consagrado no art. 563 do CPP, o que não ocorreu na hipótese. Precedentes.
+VI - Pleito de revogação da prisão preventiva ante a alegada ausência de fundamentação do decreto prisional prejudicado pela superveniência da sentença de pronúncia, que constitui novo título, com novos fundamentos para a prisão preventiva, os quais não foram impugnados na presente impetração, tampouco analisados pelo eg. Tribunal de origem.
+Habeas corpus não conhecido" (HC 495.012/SP, Quinta Turma, Minha Relatoria, DJe 25/06/2019, grifei).
+Desse modo, forçoso reconhecer a prejudicialidade da presente impetração, ante a perda superveniente de seu objeto.
+Ante o exposto,dou provimento ao agravo regimental,em sede de juízo de retratação,e julgo prejudicado o presentehabeas corpus.
+P. e I.
