@@ -1,0 +1,39 @@
+Trata-se de agravo contra decisão por meio da qual foi negado seguimento ao recurso extraordinário interposto em desfavor de acórdão assim ementado:
+
+    “AÇÃO DIRETA DE INCONSTITUCIONALIDADE. LEI MUNICIPAL Nº. 10.105/2017. PLANTA DE VALORES IMOBILIÁRIOS DE GOIÂNIA. SUPERVENIÊNCIA DA LEI COMPLEMENTAR Nº. 344/2021. REVOGAÇÃO DO ART. 5º DA LEI MUNICIPAL Nº. 9.704/2015, COM REDAÇÃO DADA PELA LEI ORA IMPUGNADA. PERDA SUPERVENIENTE DO OBJETO. PREJUDICIALIDADE. EXTINÇÃO. I. É fato incontroverso, público e notório que, no curso da presente, o Novo Código Tributário do Município de Goiânia foi instituído pela Lei Complementar nº. 344/2021, que, nos termos de seus arts. 385, VI, ‘b’, e 386, revogou expressamente a integralidade do art. 5º da Lei Municipal nº. 9.704/2015, cuja redação foi dada pela Lei Municipal nº. 10.105/2017, ora impugnada; entrou em vigor na data de sua publicação e passou a, efetivamente, surtir efeitos a partir de 1º de janeiro do corrente ano. II. Resta, portanto, configurada a perda superveniente do objeto da presente ADI, já que a lei revogada não pode ser alvo de controle concentrado de constitucionalidade. AÇÃO DIRETA DE INCONSTITUCIONALIDADE PREJUDICADA. EXTINÇÃO DO FEITO SEM RESOLUÇÃO DO MÉRITO.” (pág. 5 do documento eletrônico 6).
+
+    No RE, fundado no art. 102, III, a, da Constituição, sustentou-se, em suma, violação do art. 5°, XXXV e LXXVIII, da mesma Carta.
+
+    A pretensão recursal não merece acolhida.
+
+    Isso porque os dispositivos constitucionais arguidos pelo recorrente não foram prequestionados. Assim, como tem consignado este Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, não opostos embargos declaratórios para suprir a omissão, é inviável o recurso, nos termos da Súmula 356/STF. Nesse sentido, cito o ARE 772.836-AgR/PE, de relatoria do Ministro Dias Toffoli, Segunda Turma, cuja ementa segue transcrita:
+
+    “Agravo regimental em recurso extraordinário com agravo. Prequestionamento. Não ocorrência. Prequestionamento implícito. Inadmissibilidade. Incidência das Súmulas 282 e 356/STF. Procedimento de retenção de contribuição previdenciária. Fundo de Participação dos Municípios. Debate infraconstitucional. Afronta reflexa.
+
+    1. A Corte não admite a tese do chamado prequestionamento implícito, sendo certo que, caso a questão constitucional não tenha sido apreciada pelo Tribunal a quo, é necessária e indispensável a oposição de embargos de declaração, os quais devem trazer a discussão da matéria a ser prequestionada, a fim de possibilitar ao Tribunal de origem a apreciação do ponto sob o ângulo constitucional.
+
+    2. Para se ultrapassar o entendimento do Tribunal de origem, seria necessário reexaminar a controvérsia à luz da legislação infraconstitucional de regência (Leis nºs 8.212/91; 11.941/09; Decreto 3.048/99 e IN MPS/SRP nº 3/05). A ofensa ao texto constitucional seria, caso ocorresse, apenas indireta ou reflexa, o que é insuficiente para amparar o apelo extremo.
+
+    3. Agravo regimental não provido.” (grifei).
+
+    Com o mesmo entendimento, menciono o seguinte julgado da Primeira Turma deste Tribunal:
+
+    “Ementa: DIREITO ADMINISTRATIVO. CONCURSO PÚBLICO. EDITAL. EXIBIÇÃO DE ESPELHO DO CARTÃO DE RESPOSTAS. RECURSO EXTRAORDINÁRIO INTERPOSTO SOB A ÉGIDE DO CPC/2015. SÚMULAS 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE PREQUESTIONAMENTO. MATÉRIA INFRACONSTITUCIONAL. EVENTUAL VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO DA REPÚBLICA NÃO VIABILIZA O RECURSO EXTRAORDINÁRIO. EVENTUAL VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO DA REPÚBLICA NÃO VIABILIZA O RECURSO EXTRAORDINÁRIO. RECURSO EXTRAORDINÁRIO QUE NÃO MERECE TRÂNSITO. AGRAVO MANEJADO SOB A VIGÊNCIA DO CPC/2015.
+
+    1. Cristalizada a jurisprudência desta Suprema Corte, a teor das Súmulas 282 e 356/STF: ‘Inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada’, bem como ‘O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento.’
+
+    2. As razões do agravo interno não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada, mormente no que se refere à ausência de ofensa direta e literal a preceito da Constituição da República.
+
+    3. Obstada a análise da suposta afronta aos preceitos constitucionais invocados, porquanto dependeria de prévia análise da legislação infraconstitucional aplicada à espécie.
+
+    4. Agravo interno conhecido e não provido” (ARE 1.144.045-AgR/DF, Rel. Min. Rosa Weber – grifei).
+
+    Isso posto, nego seguimento ao recurso (art. 21, § 1º, do RISTF).
+
+    Publique-se.
+
+    Brasília, 26 de agosto de 2022.
+
+Ministro Ricardo Lewandowski
+
+Relator
