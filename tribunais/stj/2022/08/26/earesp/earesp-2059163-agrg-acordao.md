@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Terceira Seção, por unanimidade, não conhecer do agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Ribeiro Dantas, Antonio Saldanha Palheiro, Joel Ilan Paciornik, Olindo Menezes (Desembargador Convocado do TRF 1ª Região) e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+Impedido o Sr. Ministro João Otávio de Noronha.
+Ausente, justificadamente, a Sra. Ministra Laurita Vaz.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+RELATÓRIO
+Trata-se de agravo regimental interposto por Brendow Americo Cesar Brancaglione contra a decisão de fls. 70/775, de minha lavra, assim ementada:
+EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. DUPLA INTERPOSIÇÃO. UNIRRECORRIBILIDADE. PRECLUSÃO CONSUMATIVA. INVIABILIDADE DOS EMBARGOS. AGRAVO REGIMENTAL DESPROVIDO E AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO. INCIDÊNCIA DA SÚMULA N. 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA. FALTA DE ANÁLISE DO MÉRITO. INCIDÊNCIA DA SÚMULA 315/STJ. PRECEDENTES. AUSÊNCIA DE JUNTADA DE CÓPIA DO INTEIRO TEOR DOS ACÓRDÃOS PARADIGMAS E DE COTEJO COM O ACÓRDÃO RECORRIDO. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA.
+Embargos de divergência indeferidos liminarmente.
+No presente regimental, sustenta a defesa o cabimento do recurso especial e a impropriedade das decisões pretéritas (fls. 783/784), reiterando os argumentos de negativa de vigência ao art. 28 da Lei n. 11.343/2006, defendendo a desclassificação da conduta de tráfico para o delito de posse de drogas para consumo pessoal, dada a ausência de provas acerca da mercancia espúria; a reforma da fração adotada para o agravamento da pena, em razão da reincidência; e negativa de vigência ao art. 33, § 2º, b, do Código Penal, sendo necessária a reforma do regime inicial fixado para o resgate da pena corpórea. (fls. 789/815).
+Pede, ao final, a) seja recebido e processado o presente Agravo Interno, e, ao final, b) seja provido para admitir o Recurso Especial ora interposto, reconhecendo o preenchimento dos requisitos para sua admissibilidade e, por conseguinte, c) sejam acolhidos in totum os pleitos expostos no apelo nobre, em virtude da inarredável contrariedade a dispositivos de Lei Federal - ainda que de ofício (fl. 815).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. INVIABILIDADE DOS EMBARGOS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. PROCESSUAL PENAL. SÚMULA 182/STJ.
+1. Nos termos do entendimento consolidado no Superior Tribunal de Justiça, deve o agravo regimental impugnar especificamente os fundamentos da decisão agravada, sob pena de não ser conhecido (Súmula 182/STJ).
+2. Agravo regimental não conhecido.
+VOTO
+O inconformismo não merece abrigo.
+Nos termos do entendimento consolidado do Superior Tribunal de Justiça, deve o agravo regimental impugnar especificamente os fundamentos da decisão agravada, sob pena de não ser conhecido.
+Tal compreensão cristalizou-se na Súmula 182/STJ, de reiterada aplicação nessa Corte, segundo a qual é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.
+Na hipótese dos autos, o agravante deixou de impugnar especificamente os fundamentos de incidência da Súmula 315/STJ e de não comprovação da suposta divergência pretoriana, dada a ausência de juntada da cópia do inteiro teor dos acórdãos apontados como paradigmas, descumprindo as exigências dos arts. 1.043 e 1.044 do Código de Processo Civil e dos arts. 266 a 267 do RISTJ.
+Dessa forma, considerando a falta de impugnação específica dos fundamentos da decisão atacada, tenho que o presente agravo regimental não comporta conhecimento, por não ultrapassar o juízo de admissibilidade.
+Nesse sentido:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS E POSSE DE ARMAS. ACÓRDÃO QUE FEZ REFERÊNCIA, EM PARTE, AO PARECER DO MINISTÉRIO PÚBLICO. FUNDAMENTAÇÃO PER RELATIONEM. POSSIBILIDADE. EMBARGOS DE DIVERGÊNCIA LIMINARMENTE INDEFERIDOS. AUSÊNCIA DE IMPUGNAÇÃO A UM DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182 DO STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. Hipótese em que a decisão agravada da Presidência indeferiu liminarmente os embargos de divergência, consignando que não foram atendidos os requisitos de admissibilidade do recurso porque (i) a parte limitou-se a transcrever a ementa e trecho do voto do acórdão paradigma, o que constitui vício substancial insanável; (ii) a mera menção ao Diário da Justiça, sem a indicação da respectiva fonte, quando os julgados encontram-se disponíveis na rede mundial de computadores ou internet, não supre a exigência da citação do repositório oficial ou autorizado de jurisprudência, visto que se trata de órgão de divulgação em que é publicada somente a ementa do acórdão.
+2. No entanto, o Agravante deixou de impugnar o primeiro fundamento da decisão agravada, suficiente para a manutenção do decisum. Incidência do Verbete Sumular n. 182 desta Corte: "É inviável o agravo do art. 545 do Código de Processo Civil que deixa de atacar especificamente os fundamentos da decisão agravada." No mesmo diapasão, aplicável subsidiariamente (art. 3.º do CPP), o art. 932, inciso III, c.c. o art. 1.021, § 1.º, ambos do Código de Processo Civil. Precedentes.
+3. Ademais, mostra-se evidente que, ao contrário do que sugere o Embargante, o acórdão embargado não adotou tese jurídica contrária ao paradigma, mas ao revés, a ratificou, ao exigir complementação das razões de decidir, além da referência ao parecer ministerial. Ao analisar o caso dos autos, entendeu inexistir nulidade porque "acórdão recorrido utiliza fundamentos próprios e autônomos para julgar improcedente a revisão criminal".
+4. A via dos embargos de divergência - recurso de fundamentação vinculada e de cognição restrita - não se presta a simples rejulgamento do recurso especial ou do respectivo agravo, para correção de eventual equívoco do acórdão embargado na análise do caso concreto, se não há demonstração de dissídio de teses jurídicas.
+5. Agravo regimental não conhecido.
+(AgRg nos EAREsp n. 1.994.948/RS, Ministra Laurita Vaz, Terceira Seção, DJe 13/6/2022)
+AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. INDEFERIMENTO LIMINAR DOS EMBARGOS DE DIVERGÊNCIA. ARTS. 1.073, § 3º, DO CPC/2015 e 266, § 4º, do RISTJ. INDICAÇÃO DE ACÓRDÃO PROFERIDO EM HABEAS CORPUS COMO PARADIGMA. DESCABIMENTO. FUNDAMENTO NÃO IMPUGNADO. DEFICIÊNCIA NA FUNDAMENTAÇÃO RECURSAL. APLICAÇÃO ANALÓGICA DA SÚMULA N. 182 DO STJ.
+1. Os recursos devem impugnar especificamente os fundamentos da decisão cuja reforma é pretendida, não sendo suficientes as alegações genéricas nem a reiteração dos argumentos referentes ao mérito da controvérsia.
+2. A ausência de impugnação dos fundamentos da decisão recorrida atrai, por analogia, a incidência da Súmula n. 182 do STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão gravada").
+3. Agravo regimental não conhecido.
+(AgRg nos EDv nos EAREsp n. 1.662.230/MG, Ministro João Otávio de Noronha, Terceira Seção, DJe 11/12/2020)
+PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO ATACADOS. INCIDÊNCIA DA SÚMULA N. 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. ANÁLISE DE TEMA CONSTITUCIONAL. PREQUESTIONAMENTO. INVIABILIDADE. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. É inviável o agravo que deixa de atacar, especificamente, os fundamentos da decisão agravada. Incidência do verbete n. 182 da Súmula desta Corte.
+2. Não cabe a esta Corte Superior de Justiça examinar, em recurso especial, suposta ofensa a dispositivo ou princípios da Constituição Federal - CF, ainda que a título de prequestionamento, sob pena de usurpação da competência do Supremo Tribunal Federal - STF.
+3. Agravo regimental não conhecido.
+(AgRg nos EDcl nos EAREsp n. 1.534.503/SP, Ministro Joel Ilan Paciornik, Terceira Seção, DJe 29/6/2020)
+Imperioso asseverar que, consoante consignado na decisão agravada, o não conhecimento do agravo emrecurso especial, em razão da incidência da Súmula 182/STJ, impede, a teor do enunciado contido na Súmula 315/STJ, a oposição de embargos de divergência para discutir o mérito da questão ventilada no especial. Além disso, a comprovação da divergência pressupõe a apresentação de cópias do inteiro teor dos acórdãos apontados como paradigmas pela parte recorrente.
+Ante o exposto, não conheço do agravo regimental.
