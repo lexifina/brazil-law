@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por BANCO BRADESCO S/A em face da decisão acostada às fls. 338-340 e-STJ, da lavra deste signatário, em que se deu provimento aorecurso especial manejado pela ora embargada.
+Nas razões dos aclaratórios (fls. 343-349 e-STJ) o embargante alegou omissão no decisum impugnado, pois "não estabelece qualquer contrapartida a ser prestada pela recuperanda enquanto permanecer na posse desses bens ditos como essenciais mas garantias de crédito extraconcursal".
+Pede seja determinada a prestação de "caução idônea para que sirva de reparação à inevitável desvalorização dos bens no período de sua recuperação que é longo e principalmente que fixe uma quantia mensal mínima a ser pago pela recuperanda ao credor fiduciário pelo uso desses bens".
+Impugnação às fls. 353-357 e-STJ.
+É o relatório.
+Decide-se.
+1. Inicialmente, ressalte-se que os embargos de declaração, conforme o disposto no artigo 1.022 do CPC/15, têm fundamentação vinculada às hipóteses legalmente previstas. Destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão ou, ainda, corrigir erro material. Não servem, no entanto, como meio de manifestação do inconformismo da parte com a decisão prolatada.
+Citam-se, a título exemplificativo, os seguintes julgados: EDcl no AgInt no AREsp 1488352/PE, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 10/08/2020, DJe 13/08/2020; EDcl no AgInt no AREsp 1649618/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 29/06/2020, DJe 01/07/2020; EDcl no AgInt no AREsp 895.807/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 29/06/2020, DJe 03/08/2020; EDcl no AgInt no AREsp 1011452/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 29/06/2020, DJe 05/08/2020.
+No caso em tela, as omissões suscitadas pela parte embargante, acima relatadas, constituem indevida inovação recursal.
+Isso porque, os referidos pedidos não foram formulados em qualquer momento anterior - nem no agravo de instrumento interposto na origem, nem nas contrarrazões ao apelo nobre - o que inviabiliza a análise da matéria.
+Em sentido semelhante:
+AGRAVO INTERNO NO RECURSO ESPECIAL. IRRESIGNAÇÃO SUBMETIDA AO NCPC. PLANO DE SAÚDE COLETIVO EMPRESARIAL. RESILIÇÃO UNILATERAL PELA OPERADORA. POSSIBILIDADE. ART. 13, PARÁGRAFO ÚNICO, II, DA LEI Nº 9.656/98. IMPOSSIBILIDADE DE OBRIGAR O PLANO DE SAÚDE A MANTER APÓLICE. PRECEDENTES. INOVAÇÃO RECURSAL. INADMISSIBILIDADE. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO. .. 4. Inviável o conhecimento de teses que não foram discutidas pelo Tribunal bandeirante e nem sequer foram trazidas nas contrarrazões ao recurso especial, cuidando-se, portanto, de inovação recursal e de supressão de instância.5. Agravo interno não provido.(AgInt no REsp n. 1.902.349/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 14/3/2022, DJe de 18/3/2022.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO CIVIL. AÇÃO DE INDENIZAÇÃO. RESPONSABILIDADE SECURITÁRIA. CONTRATO DE MÚTUO HABITACIONAL. PRECLUSÃO CONSUMATIVA. OCORRÊNCIA. JULGAMENTO MONOCRÁTICO. POSSIBILIDADE. INOVAÇÃO RECURSAL. CONFIGURADA. MULTA PROCESSUAL. INCIDÊNCIA. .. 3. Conforme a jurisprudência do Superior Tribunal de Justiça, incabível o exame de tese não exposta nas contrarrazões do recurso especial e invocada apenas em momento posterior, pois configura indevida inovação recursal. .. 6. AGRAVO INTERNO CONHECIDO E DESPROVIDO COM APLICAÇÃO DE MULTA.(AgInt nos EDcl no REsp n. 1.936.474/SP, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 21/2/2022, DJe de 24/2/2022.)
+Logo, não tendo sido suscitada oportunamente, há falar na omissão aventada.
+2. Do exposto, rejeitam-se os embargos de declaração.
+Publique-se.
+Intimem-se.
