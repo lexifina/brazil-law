@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo ESTADO DE SERGIPE contra o acórdão assim ementado:
+Apelação cível - Reexame nos termos do art. 1.030, inciso II, do CPC - Decisão do STF com Repercussão Geral - Entendimento contrário ao do Acórdão recorrido - Revisão do julgado pela Câmara - Ação declaratória e de cobrança - Instituição de programas de incentivos fiscais pelo Estado de Sergipe - Dedução de parcela de ICMS destinado aos Municípios Impossibilidade - Julgamento do RE 572.762/SC pelo STF com repercussão geral - Acolhimento do pedido declaratório que impõe o acolhimento do pleito de cobrança dos valores devidos não pagos desde os últimos OS (cinco) anos antes do ajuizamento da presente ação (parcelas não atingidas pela prescrição quinquenal), tudo com incidência de juros moratórios e correção monetária de acordo com a Lei Complementar no 63/90 - Inversão do ônus sucumbencial - Acórdão reformado.
+I - Julgado pelo Supremo Tribunal Federal recurso com Repercussão Geral, e sendo a decisão proferida por aquele Sodalício contrária ao decidido no Acórdão que julgou a Apelação Cível, deve a Câmara reexaminar a questão, podendo manter ou alterar o entendimento antes manifestado;
+II - No caso, o Acórdão reexaminado acolheu a tese de ser possível o desconto de valores referentes a incentivos fiscais concedidos pelo Estado de Sergipe no repasse da quota de 25% (vinte e cinco por cento) da arrecadação do ICMS devida aos Municípios com base na declaração de constitucionalidade do art. 30 da Lei Estadual N. 3.140/91 em sede de Incidente de Inconstitucionalidade por esta Corte de Justiça. Contudo, o STF fixou que tese em sentido contrário, o que impõe a modificação do Acórdão neste particular;
+III - De acordo com o tema 42, fixado no julgamento do da RE no 572.762/5C, "A retenção da parcela do ICMS constitucionalmente devida aos municípios, a pretexto de concessão de incentivos fiscais, configura indevida interferência do Estado no sistema constitucional de repartição de receitas tributárias";
+IV - Como consequência do acolhimento do pedido declaratório, o pedido condenatório também condenar deve ser acolhido, a fim de se o Estado de Sergipe (requerido/Apelado) a efetuar o pagamento das parcelas devidas desde os últimos 05 (cinco) anos antes do ajuizamento da presente ação, não atingidas pela prescrição quinquenal;
+V - De igual modo, o acolhimento integral dos pedidos autorais exige a inversão do ônus sucumbencial, cabendo ao Estado de Sergipe arcar, em favor do Município demandante, com os honorários advocatícios no montante fixado na sentença, ficando dispensado de arcar com as custas processuais em razão de se tratar do próprio credor (confusão) da referida taxa;
+VI - Acórdão no 9.403/2015 reformado.
+Foi atribuído à causa o valor de R$ 1.000,00.
+Os embargos de declaração opostos foram rejeitados.
+O recorrente aponta como violados os arts. 489, II e §1º, 1.030, III, 1.036 e 1040, todos do CPC/2015.
+O recorrente alega, em síntese, que o Tribunal a quo, ao invés de seguir a determinação do STF para aguardar o julgamento da matéria pela corte suprema, resolveu rever o acórdão recorrido sem qualquer fundamentação.
+É o relatório. Decido.
+O recurso não é cognoscível.
+No tocante à alegada ofensa aos arts. 489 e 1030 do CPC/2015, o recorrente não explicita especificadamente de que forma teria ocorrido a violação aos dispositivos legais, afirmando, de forma geral, que o acórdão foi desfundamentado, entretanto não rebate os argumentos do julgador a quo pela aplicação do art. 1030 do CPC, para adequar a tese fixada pelo STF. Incide na espécie as súmulas 283 e 284, ambas do STF.
+Quanto ao art. 1036 do CPC/2015, a questão ínsita ao referido dispositivo legal não foi abordada no âmbito do acórdão recorrido, atraindo o comando da súmula 282/STF.
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ não conheço do recurso especial.
+Publique-se. Intimem-se.
