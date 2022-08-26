@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo interposto por LUIZ CLAUDIO NOGUEIRA DA SILVA contra decisão que inadmitiu recurso especial. O apelo extremo, com fundamento no artigo 105, III, "a", da Constituição Federal, foi interposto contra acórdão assim ementado:
+"APELAÇÃO CÍVEL. AÇÃO INDENIZATÓRIA POR DANOS MORAISE LUCRO CESSANTE. Sentença de improcedência dos pedidos contidos na inicial. Recurso da parte autora. Alegação de atropelamento em passagem clandestina. Hipótese de responsabilidade objetiva da concessionária de serviço público de transporte de passageiro, nos termos do art. 37, §6º da CRFB/88. Compete à autora a prova da existência do dano e do nexo de causalidade, requisitos da responsabilidade objetiva. O fato de o autor ter sofrido acidente em via férrea, por si só, não caracteriza falha no serviço prestado pela ré a fundamentar a responsabilidade da fornecedora do serviço pelos alegados danos sofridos pela vítima. Não consta nos autos qualquer documento capaz de comprovar a existência do dano ao autor, prova que se presume de fácil produção, uma vez que poderia ser através de foto, prescrição médica ou Raio X, ônus que lhe competia, não demonstrando a presença dos requisitos da responsabilidade objetiva a amparar sua pretensão indenizatória. Sentença mantida. DESPROVIMENTO DO RECURSO" (fl. 121, e-STJ).
+Os embargos declaratórios foram rejeitados (fl. 149, e-STJ).
+No recurso especial, orecorrente alega quehouveviolação dos arts. 945 do Código Civil e369, 370 e 1.022, I, do Código de Processo Civil de 2015.
+Inadmitido na origem, apresentou-se o presente agravo em recurso especial.
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+O recurso não merece prosperar.
+Inicialmente, observa-se que, no caso em apreço, as questões trazidas aos autos foram devidamente analisadas e discutidas, e fundamentado corretamente o aresto impugnado, de modo a exaurir a prestação jurisdicional, não há falar em violação doart. 1.022 do CPC/2015.
+Quanto à culpa pelo infortúnio e sua comprovação, o aresto recorrido consignou:
+"(..)
+Pela decisão do indexador 077, o pedido de produção de provas solicitado pela parte autora foi rejeitado porquanto confessou na inicial que foi atropelado por composição ferroviária em passagem clandestina sofrendo ferimentos. Conforme tenho me manifestado em demandas similares, quem atravessa linha do trem em local não apropriado para tanto, contribui de forma única e exclusiva para o resultado no caso de acidente fatal ou não fatal.
+Com efeito, seja por que motivo for, seja por preguiça, imprudência ou outro qualquer motivo, quem usa passagem clandestina e não apropriada para a travessia de linha férrea contribuiu de forma única e exclusiva para o acidente, não havendo que se falar em culpa da empresa e, em consequência, em indenização por danos morais à vítima sobrevivente.
+Isto, sem contar que é absolutamente incompreensível que alguém se aventure a atravessar linha férrea em local inapropriado e, mesmo assim, não perceba a aproximação de um trem, mesmo que o trem passe pelo local sem acionar a buzina, porquanto a própria locomoção ruidosa da composição torna evidente a sua presença.
+E a situação dos autos não foge à regra, porquanto a vítima empreendeu travessia da linha férrea em local não autorizado, sendo que rigorosamente culpa alguma restou comprovada do condutor da composição.
+Cabe ressaltar que o autor ao descrever os fatos assim se manifestou, in verbis:  .. No dia 13 de julho de 2019, o autor encontrava-se em uma máquina retroescavadeira perada pelo Sr. Clayton, na passagem clandestina localizada entre as estacões  (original não grifado).
+Vale dizer que quem atravessa linha do trem em passagem clandestina atua com denominada culpa contra a legalidade, e não pode, nem seus parentes, se valer de sua própria desídia de modo a obter indenização em detrimento da empresa demandada que em nada contribuiu para o acidente. No caso não é demais destacar que que todas as passagens clandestinasfechadas pela empresa são reabertas pela população que insiste em não se submeter às regras estabelecidas na sociedade"(fls. 115-116, e-STJ - grifou-se).
+Nesse contexto, não é possível a este Tribunal Superior apreciar o entendimento exarado na origem, porquanto teria que, necessariamente, rever o contexto fático-probatório dos autos, procedimento inviável nesta via extraordinária, consoante disposto na Súmula nº 7/STJ.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 10% (dezpor cento) sobre o valor da causa, os quais devem ser majorados para o patamar de 12% (dozepor cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observado o benefício da gratuidade da justiça.
+Publique-se.
+Intimem-se.
