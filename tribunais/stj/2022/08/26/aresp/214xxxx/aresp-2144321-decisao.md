@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo interposto por MILTON JORGE DEL PRETOcontradecisão de inadmissibilidade dorecurso especial apresentadoem desafio a acórdão proferido pelo Tribunal de Justiça do Estado de Mato Grossodo Sulassim ementado:
+"EMENTA - APELAÇÃO CÍVEL - AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C REPETIÇÃO DE INDÉBITO E DANOS MORAIS - CONTRATO DE CARTÃO DE CRÉDITO COM RESERVA DE MARGEM CONSIGNÁVEL - DESCONTOS EM FOLHA DE PAGAMENTO - ABUSO NA CONTRATAÇÃO NÃO CONFIGURADO - LITIGÂNCIA DE MÁ-FÉ - OCORRÊNCIA - RECURSO DESPROVIDO.
+Sem a comprovação de qualquer irregularidade nos descontos efetuados pelo banco réu, não há falar em falha na prestação do serviço, tampouco em obrigação de restituição de valores e compensação por danos morais, notadamente porque está demonstrada a contratação do contrato de reserva de margem para cartão de crédito pela parte autora.
+Diante da ausência de prova do vício de consentimento, é de se dizer que os ajustes firmados entre as partes são válidos e eficazes e que, portanto, devem ser cumpridos.
+Comprovada a existência da relação contratual, configura-se a litigância de má-fé, pois houve alteração da verdade dos fatos e o uso do processo para conseguir objetivo ilegal." (e-STJ, fl. 262)
+Opostos embargos de declaração, foram rejeitados (e-STJ, fls. 295/303)
+Em suas razões de recurso especial, a parte agravante alegou violação dos arts.112, 113 e 884, do CC; 489 e 1.022, do CPC/15,defendendo a negativa de prestação jurisdicional e a irregularidade da contratação de cartão de crédito consignado, diante da inadequação da informação e devício de consentimento sobre amodalidade pactuada.
+É o relatório. Decido.
+De início, rejeita-se a alegada violação dos arts. 489 e 1.022do CPC/2015, uma vez que o eg. TJ/SP analisou os pontos essenciaisao deslinde da controvérsia, dando-lhes robusta e devidafundamentação. Com efeito, é uníssona a jurisprudência desta eg. Corte nosentido de que o magistrado não está obrigado a responder a todos osargumentos apresentados pelos litigantes, desde que aprecie a lide em suainteireza, com suficiente fundamentação.
+Nesse sentido, destaca-se:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 489, §1º, IV e V, e 1.022 do CPC/2015 NÃO CONFIGURADA. DEFICIÊNCIA NAFUNDAMENTAÇÃO. INCIDÊNCIA DAS SÚMULAS 283 E 284 DO STF. COLISÃO ENTREPREMISSAS DE NATUREZA FÁTICA.ÓBICE DA SÚMULA 7/STJ. AUSÊNCIA DEPREQUESTIONAMENTO. SÚMULA 211/STJ.
+1. Não há violação dos arts. 489, § 1º, IV e V, e 1.022do CPC/2015, poiso Tribunal a quo dirimiu as questões pertinentes ao litígio, emitindopronunciamento de forma clara e fundamentada.
+ ..
+9. Agravo Interno não provido." (AgInt no AREsp 1294074/MG, Rel. Ministro
+LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 23/10/2018, DJe29/10/2018)
+No mais, no caso dos autos,à luz das provas dos autos, notadamente do instrumento contratual,o Tribunal de origem concluiupela inexistência de configuração defalha no dever de informação e de vício de consentimento da parte autora sobre a modalidade de contratação,cartão de crédito com autorização de saque mediante reserva de margem consignável(e-STJ, fl. 265):
+"No caso, não se vislumbra o alegado erro substancial, porquanto a vontade da parte autora mostrou-se livre e consciente na formação do contrato.
+Compulsando os autos, denota-se que a recorrente firmou com o banco requerido "Proposta de Adesão - Cartão de Crédito Consignado" (f. 125). Nessa modalidade, o contratante autoriza o banco a realizar o desconto mensal de sua remuneração/salário para o pagamento correspondente ao valor mínimo da fatura do cartão de crédito.
+Já as faturas do cartão de crédito juntadas à f. 22/23, demonstram a evolução da dívida e a origem dos valores descontados mensalmente na folha de pagamento da requerente, e que, desde a contratação foram sacados pela autora.
+Portanto, ao contrário do alegado na inicial, evidencia-se que a parte autora se beneficiou do contrato de reserva de margem para cartão de crédito, mediante termo de adesão, com autorização para desconto em folha de pagamento, não sendo comprovado, todavia, sequer indício de que tenha sido induzido em erro na contratação do empréstimo ou que o banco réu agiu de maneira dolosa, faltando-lhe com o dever de informação, não sendo possível a presunção de má-fé.
+Destarte, não havendo vício de consentimento da autora, nessas circunstâncias, é de se dizer que os ajustes firmados entre as partes são válidos e eficazes e que, portanto, devem ser cumpridos.
+Logo, presente a excludente de responsabilidade civil prevista no art. 14, §3º, inciso I, do CDC, impõe-se a improcedência do pedido declaratório e demais pretensões de restituição do indébito e danos morais."
+Desse modo, é inviável o conhecimento do recurso especial, porque o acolhimento da pretensão recursal-consistente noreconhecimento da irregularidade da contratação, porvício do consentimento-, não prescindiria do reexame direto das provas, inclusive do contrato, a fim de ser extraída conclusão em sentido contrário àquela constante do acórdão recorrido, providências manifestamenteproibidas nesta instância, óbices das Súmulas 5 e 7 do STJ.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, doRISTJ, conheço do agravo para negar provimento ao recurso especial.
+Com supedâneo no art. 85, § 11, do CPC/15, majoro os honorários devidos aoadvogado da recorrida em 1% do valor já arbitrado pelasinstâncias ordinárias, cuja exigibilidade ficará suspensa, conforme art.98, § 3º, do CPC/2015
+Publique-se.
