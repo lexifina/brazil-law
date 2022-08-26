@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especialinterposto por O.I. S.A. - EM RECUPERAÇÃO JUDICIAL. O apelo extremo, fundamentado noartigo 105, inciso III, alínea"a", da Constituição Federal,insurge-se contra acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina assim ementado:
+"APELAÇÃO CÍVEL. AÇÃO DE ADIMPLEMENTO CONTRATUAL EMFASE DE IMPUGNAÇÃO AO CUMPRIMENTO DA SENTENÇA. INSURGÊNCIA CONTRA A DECISÃO QUE ACOLHEU EM PARTE AIMPUGNAÇÃO, ESTABELECEU O VALOR DO DÉBITO E EXTINGUIU AEXECUÇÃO. EXCESSO DE EXECUÇÃO INEXISTENTE. ALTERAÇÕES SOCIETÁRIAS, EVOLUÇÃO ACIONÁRIA, VALOR PATRIMONIAL DA AÇÃO E DIVIDENDOS QUE FORAM APURADOS A PARTIR DOS CRITÉRIOS DA PLANILHA PARA CÁLCULO DA DIFERENÇA DE AÇÕES,DA ASSESSORIA DE CUSTAS DA CORREGEDORIA-GERAL DA JUSTIÇA, CUJA UTILIZAÇÃO FOI RECOMENDADA A TODOS OSCONTADORES JUDICIAIS, MEDIANTE O COMUNICADO N. 67/CGJ. TELEBRÁS. BALANÇO TRIMESTRAL. CONTA QUE OBSERVOU O VALOR PATRIMONIAL VIGENTE NA DATA DA INTEGRALIZAÇÃO. RECURSO DESPROVIDO" (fl. 513 e-STJ).
+Os embargos de declaração opostos foram rejeitados (fl. 546 e-STJ).
+Nas razões do recurso especial, aponta a recorrente violação dos artigos 1.022, I e II, do CPC/2015 e 502,503e 508 do CC. Defende que houve violação ao instituto dacoisa julgada e ao título executivo.
+Sem as contrarrazões e inadmitido o recurso na origem, sobreveio opresente agravo, no qual se busca o processamento do apelo nobre.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se aoexame do recurso especial.
+De início, verifica-se que o acórdão impugnado pelo recurso especial foipublicado na vigência do Código de Processo Civil de 2015 (EnunciadosAdministrativos nºs 2 e 3/STJ).
+O recurso não merece prosperar.
+O argumento de que o acórdão atacado teria incorrido em negativa deprestação jurisdicional é improcedente.
+De fato, o Tribunal de origem indicou adequadamente os motivos que lheformaram o convencimento, analisando de forma clara, precisa e completa asquestões relevantes do processo e solucionando a controvérsia com aaplicação do direito que entendeu cabível à hipótese.
+Não há falar, portanto, em prestação jurisdicional lacunosa oudeficitária apenas pelo fato de o acórdão recorrido ter decidido emsentido contrário à pretensão do recorrente.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE DANOS MATERIAIS.BENFEITORIAS EM IMÓVEL. EFEITO SUSPENSIVO. REQUISITOS. AUSÊNCIA. ART.1.022 DO CPC/2015. VIOLAÇÃO. NÃO OCORRÊNCIA. EMBARGOS DE DECLARAÇÃO.EFEITOS MODIFICATIVOS. POSSIBILIDADE.
+1. A atribuição de efeito suspensivo a recurso especial está circunscritaà presença cumulativa dos requisitos da plausibilidade do direito invocadoe no perigo de dano irreparável ou de difícil reparação, que não se fazempresentes na hipótese.
+2. Não há falar em negativa de prestação jurisdicional se o tribunal deorigem motiva adequadamente sua decisão, solucionando a controvérsia com aaplicação do direito que entende cabível à hipótese, apenas não no sentidopretendido pela parte.
+3. É possível a atribuição de efeitos infringentes aos embargos dedeclaração quando a alteração da decisão surgir como consequência lógicada correção da omissão, contradição ou obscuridade.
+4. Agravo interno não provido" (AgInt no AREsp 1.070.607/RN, Rel. MinistroRICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 25/8/2017).
+Na hipótese dos autos, o Tribunal de origem consignou:
+"No que diz respeito ao alegado excesso de execução, afirma-se que a conta foi elaborada a partir da "Planilha para cálculo da diferença de subscrição de ações de telefonia - BRT", elaborada pela assessoria de custas da Corregedoria-Geral da Justiça, cuja utilização foi recomendada a todos os contadores das comarcas mediante o Comunicado n. 67/CGJ. Em sendo assim, os mencionados equívocos referentes ao número de ações a serem indenizadas, às transformações acionárias, às alterações societárias e aos dividendos ficam afastados.
+Se corretamente utilizada, a referida ferramenta apresenta os valores efetivamente devidos, restando afastado eventual excesso de execução.
+(..)
+Além disso, a Oi S/A, como sucessora da Telebrás, assumiu as obrigações decorrentes dos contratos de participação financeira celebrados (agravo regimental no agravo de instrumento n. 1344222, de Santa Catarina, Terceira Turma, relator o desembargador convocado do Tribunal de Justiça do Rio Grande do Sul Vasco Della Giustina, j. em 17.2.2011). Logo, é sua a responsabilidade pelo pagamento das "transformações acionárias", sendo que a conta do contador observou a evolução acionária decorrente da incorporação da Telesc S/A pela Telepar e a posterior alteração da Telepar para Brasil Telecom de forma correta e foi apurada, como já dito, a partir da "Planilha para cálculo da diferença de subscrição de ações de telefonia - BRT ".
+No que diz respeito ao valor patrimonial da ação, constata-se que a conta observou o valor na data da integralização (para o trimestre de junho a agosto de1987 equivalia a Cz$5,942, o que é extraído da aba "VPA-Telebrás" da "Planilha para cálculo da diferença de subscrição de ações de telefonia - BRT"), como determinado no título executivo judicial (evento 92, petição 85), em consonância com o disposto na súmula n. 371 do Superior Tribunal de Justiça e com o entendimento da Câmara (agravo de instrumento n. 4019752-33.2018.8.24.0900, de Garuva, relatora a desembargadora Soraya Nunes Lins, j. em 14.3.2019 e agravo de instrumento n. 4024354-51.2018.8.24.0000, de Criciúma, relator o desembargador Cláudio Barreto Dutra, j. em 7.2.2019)" (fl. 511e-STJ).
+Nesse contexto, reverter a conclusão do tribunal local para acolher apretensão recursal demandaria a análise e interpretação de cláusulascontratuais e o revolvimento do acervo fático-probatório dos autos, o quese mostra inviável ante a natureza excepcional da via eleita, consoanteenunciado das Súmulas nºs 5 e 7/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Deixo de majorar os honorários sucumbenciais, conforme determina o art. 85, § 11, do Código de Processo Civil de 2015, haja vista a ausência de condenação da parte em honorários nas instâncias ordinárias.
+Publique-se.
+Intimem-se.
