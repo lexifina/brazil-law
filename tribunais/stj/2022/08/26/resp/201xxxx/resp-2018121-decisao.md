@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento na alínea "a" do permissivo constitucional.
+O recorrente foi condenado a 7 anos, 3 meses e 15 dias de reclusão, no regime fechado, e ao pagamento de 729 dias-multa, nos termos do art. 33, caput, da Lei nº 11.343/2006.
+Nas razões de seu recurso, aponta a violação do art. 42 da Lei nº 11.343/2006, alegando, em suma, que"em virtude da natureza da droga apreendida, a qual foi considerada negativa, a pena base do recorrente foi majorada, desconsiderando-se a pequena quantidade da droga" (fl. 470).
+Requer, com base nesses argumentos, que "seja recebido e processado o presente recurso especial, para que no final ele seja provido, com a determinação do afastamento do aumento de pena realizado em virtude da natureza da droga apreendida" (fl. 474).
+Apresentadas as contrarrazões, manifestou-se o Ministério Público Federal pelo desprovimento recursal.
+Acerca da questão aqui trazida, extrai-se do aresto recorrido (fls. 444-446):
+ .. A pena-base do apelante foi fixada em 06 (seis ) anos e 03 (três) meses de reclusão e 625 (seiscentos e vinte e cinco) dias-multa em razão da valoração negativa da do apelante, nos culpabilidade seguintes termos:
+"Culpabilidade: No quesito em análise tenho que a conduta do sentenciado restou exacerbada, na medida em que tem-se considerando a natureza do entorpecente apreendido - cocaína e crack, como justificado o sobrelevo desta circunstância em desfavor do acusado.
+(..)
+Diante da existência de uma circunstância judicial desfavorável ao sentenciado, fixo-lhe a pena-base acima de seu mínimo legal. Levando-se em conta que a pena mínima cominada ao crime é de 05 (cinco) anos e a máxima de 15 (quinze), a diferença entre os extremos é de 10 (dez) anos (cento e vinte meses). Portanto, sendo oito as circunstâncias judiciais, cada uma tem peso de até 15 (quinze) meses na fixação da pena-base.
+Quanto à pena pecuniária, a pena de multa mínima é de 500 (quinhentos) dias e a máxima de 1.500 (mil e quinhentos) dias, a diferença entre os extremos é de 1000 (mil) dias multa. Portanto, sendo oito circunstâncias judiciais, cada um tem peso de até 125 (cento e vinte e cinco) dias multa na fixação da pena base.
+Portanto, estabeleço a pena base em: 06 (seis) anos e 03 (três) meses de reclusão e 625 (seiscentos e vinte e cinco ) dias multa". (Grifo nosso).
+Como se percebe, não há motivos para a alteração de referido entendimento.
+Primeiramente, porque a mencionada no art. 59 do Código Penal se refere ao grau culpabilidade de censurabilidade da conduta do agente, ou seja, avalia se o grau de reprovabilidade da sua conduta é típica da prática do crime descrito na denúncia ou não. Em outras palavras, trata da gravidade concreta do fato.
+E a quantidade e a natureza da droga podem ser levadas em consideração quando da análise das circunstâncias judiciais do artigo 59 do Código Penal, inclusive para a avaliação da culpabilidade doagente, afinal, preceitua o artigo 42 da Lei nº 11.343/2006 que: "O juiz, na fixação as penas, considerará, com preponderância sobre o previsto no artigo 59 do Código Penal, a natureza e a quantidade da substância ou do produto, a personalidade e a conduta social do agente".
+Dessa forma, por expressa previsão legal, admite-se que a pena-base seja majorada em razão da natureza da substância entorpecente, tal qual ocorreu na espécie.E como bem observado pelo D. Procurador de Justiça:
+ ..
+Ademais, a fração utilizada para o cálculo da pena-base não merece reparos, pois como a pena do crime de tráfico de drogas é de reclusão de 5 (cinco) a 15 (quinze) anos e pagamento de 500 (quinhentos) a 1.500 (mil e quinhentos) dias-multa, o acréscimo de 01 (um) ano e 03 (três) meses de reclusão e 125 (cento e vinte e cinco) dias-multa não se mostra desproporcional ou exacerbado, já que equivale a um oitavo entre o intervalo mínimo e máximo da pena, operação que é amplamente aceita pela jurisprudência: ..
+Como visto, majorou-se a sanção basilar, "considerando a natureza do entorpecente apreendido - cocaína e crack". Contudo, diante da não relevante quantidade apreendida de drogas- 10 gramas de crack e 17 gramas de cocaína (fl. 439)-,respectivo acréscimo torna-se desarrazoado, devendo a reprimenda, na fase em apreço, retornar ao seu mínimo legal.
+""Não sendo significativa aquantidadede droga apreendida, não se justifica a exasperação dapena-base"(AgRg no AREsp n. 1.336.868/AL, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 21/05/2019)"(AgRg no HC n. 724.174/SC, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 22/3/2022, DJe de 28/3/2022).
+Logo, em razão da incidência da agravante da reincidência na segunda etapa da dosimetria, no patamar de 1/6 (fls. 447-448), totaliza a pena final do recorrente 5 anos e 10 meses de reclusão, além de 583 dias-multa.
+Ante o exposto, dou provimento ao recurso especial para (re)fixar a pena definitiva do recorrente ao total de5 anos e 10 meses de reclusão, e 583 dias-multa, mantendo-se, no mais, o acórdão condenatório.
+Publique-se.
+Intimem-se.
