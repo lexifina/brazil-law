@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por TRANS-S TRANSPORTES E COMÉRCIO LTDA. - FALIDA (TRANS-S TRANSPORTES) contra decisão que negou seguimento ao seu apelo nobre manejado, por sua vez, contra acórdão do Tribunal Paulista, relatado pelo Des. ALEXANDRE MARCONDES, assim ementado:
+Falência. Termo de Confissão de Dívida. Protesto elaborado com fins falimentares. Falência requerida com fundamento no art. 94, inc. I, da Lei nº 11.101/2005. Notificação que demonstra identificação suficiente da pessoa intimada do protesto, satisfeito assim o requisito da Súmula nº 52 desta Corte. Súmula 361 do STJ. Não comprovação do pagamento parcial da dívida, ausente, ademais, depósito elisivo. Confirmação da insolvência jurídica. Conquanto possa ser afastada a revelia da agravante, pelos argumentos apresentados no recurso, a sentença examinou os fundamentos apresentados na contestação, notadamente a respeito do alegado pagamento parcial da dívida, sendo certo que foi constatada, inclusive, a inatividade da empresa, o que corroborou o decreto de quebra. Título protestado que é líquido, certo e exigível. Juros moratórios convencionados, fixados regularmente. Decisão mantida. Agravo desprovido, revogado o efeito suspensivo (e-STJ, fl. 930).
+Irresignada, TRANS-S TRANSPORTES interpôs recurso especial com base no art. 105, III, alíneas a e c, da CF, apontando a violação aos arts. 107, 238 e 239, §1º, do NCPC e 7º da Lei nº 8.906/94, bem como dissídio jurisprudencial, ao sustentar que (1) a carga rápida realizada por advogado sem poderes para receber citação não pode ser admitida como comparecimento espontâneo; (2) o comparecimento espontâneo ocorreu com a apresentação da peça contestatória; e (3) a parte não pode ser prejudicada por decisão surpresa (e-STJ, fls. 939/965).
+O recurso não foi admitido pelo Tribunal estadual (e-STJ, fls. 996/997).
+Nas razões do presente agravo, TRANS-S TRANSPORTES alegou que não incidem os óbices invocados (e-STJ, fls. 1.000/1.022).
+Foi apresentada contraminuta (e-STJ, fls. 1.025/1.033).
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que não merece prosperar.
+(1) (2) e (3) Do comparecimento espontâneo e da alegada nulidade
+Nas razões do presente recurso, TRANS-S TRANSPORTES afirmou a violação dos arts. 107, 238 e 239, §1º, do NCPC e 7º da Lei nº 8.906/94, bem como dissídio jurisprudencial, ao sustentar que (1) a carga rápida realizada por advogado sem poderes para receber citação não pode ser admitida como comparecimento espontâneo; (2) o comparecimento espontâneo ocorreu com a apresentação da peça contestatória; e (3) a parte não pode ser prejudicada por decisão surpresa.
+Contudo, da acurada análise do acórdão recorrido, é possível verificar que o Tribunal estadual consignou que a revelia reconhecida equivocadamente pelo juízo de primeira instância não influenciou no resultado, visto que o magistrado analisou as alegações formuladas na contestação, confira-se:
+Determinada a citação na ação falimentar, não se obteve a citação pessoal da ré (fl. 304) e, ato subsequente, o advogado da ré tomou ciência dos autos em cartório (fl. 312) em 13 de setembro de 2013, com apresentação de contestação em 27 de setembro de 2013. Decorridos mais de dez dias da ciência inequívoca dos autos, reconheceu-se a revelia na sentença.
+Entretanto, ausente poder específico do advogado para receber citação (fl. 347), não poderia ter sido reconhecido o comparecimento espontâneo do réu, como já reconheceu o E. Superior Tribunal de Justiça:
+ ..
+Não obstante, a sentença examinou os fundamentos apresentados na contestação, notadamente a respeito do alegado pagamento parcial da dívida, sendo certo que foi constatada, inclusive, a inatividade da empresa, o que corroborou o decreto de quebra. Nessas condições, vê-se que a revelia, equivocadamente reconhecida na sentença, não influiu no julgamento do pedido (e-STJ, fl. 932).
+Assim, da análise das razões do presente recurso, verifica-se que o referido fundamento não foi impugnado, o que atrai a incidência da Súmula 283 do STF, por analogia.
+Confira-se o seguinte precedente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO INTERPOSTO CONTRA MERO DESPACHO. AUSÊNCIA DE CONTEÚDO DECISÓRIO. REVISÃO. SÚMULA 7/STJ. INEXISTÊNCIA DE COISA JULGADA. FUNDAMENTO SUFICIENTE NÃO ATACADO. SÚMULA 283/STF. AGRAVO INTERNO DESPROVIDO.
+1. Conforme o disposto no art. 1.001 do Código de Processo Civil de 2015, dos despachos não cabe recurso. No presente caso, é nítida a ausência de conteúdo decisório no referido despacho, tratando-se, tão somente, de ato judicial destinado a dar andamento ao processo, na forma estabelecida pelo art. 203, § 3º, do CPC/2015.
+1.1. Não há como desconstituir o entendimento delineado no acórdão impugnado quanto à ausência de cunho decisório e de prejuízo, sem que se proceda ao reexame dos fatos e das provas dos autos, o que não se admite nesta instância extraordinária, em decorrência do disposto na Súmula 7/STJ.
+2. A manutenção de argumento que, por si só, sustenta o acórdão recorrido torna inviável o conhecimento do apelo especial, atraindo a aplicação do enunciado n. 283 da Súmula do Supremo Tribunal Federal.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.646.320/PR, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. em 21/02/2022, DJe 23/02/2022)
+O recurso, portanto, não pode ser conhecido quanto ao ponto.
+De qualquer forma, conforme reconhecido pela própria TRANS-S TRANSPORTES no recurso especial, houve comparecimento espontâneo no momento da apresentação da contestação (e-STJ, fl. 952).
+A esse respeito, a jurisprudência do STJ é uníssona no sentido de que o comparecimento espontâneo da parte ao apresentar contestação supre a ausência de citação. A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CITAÇÃO. AUSÊNCIA. NULIDADE. COMPARECIMENTO ESPONTÂNEO. APRESENTAÇÃO DE DEFESA. INEXISTÊNCIA DE PREJUÍZO. VÍCIO SUPERADO. ATUAÇÃO CONTRADITÓRIA. INADMISSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. "O comparecimento espontâneo do réu, nos termos do art. 214, §1º, do CPC, supre a falta de citação, ainda que o advogado que comparece e apresenta contestação tenha procuração com poderes apenas para o foro em geral, desde que de tal ato não resulte nenhum prejuízo à parte." (REsp 685.322/SP, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 29/11/2006, DJ 11/12/2006, p. 353) 2. A ninguém é permitido comportar-se contraditoriamente no processo.
+3. Agravo regimental desprovido.
+(AgRg no AREsp n. 593.360/SP, relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. em 23/2/2016, DJe de 3/3/2016.)
+PROCESSUAL CIVIL. CITAÇÃO. SUPRIMENTO. COMPARECIMENTO ESPONTÂNEO DO RÉU. AGRAVO DE INSTRUMENTO. ART. 525, INCISO I, DO CPC. CERTIDÃO DE INTIMAÇÃO. AUSÊNCIA. PRETENSÃO DE SUBSTITUIÇÃO POR "INFORMATIVO JUDICIAL". IMPOSSIBILIDADE. PRECEDENTES JURISPRUDENCIAIS.
+- O comparecimento espontâneo do réu, nos termos do art. 214, §1º, do CPC, supre a falta de citação, ainda que o advogado que comparece e apresenta contestação tenha procuração com poderes apenas para o foro em geral, desde que de tal ato não resulte nenhum prejuízo à parte.
+- Não supre a ausência de certidão de intimação, peça obrigatória do agravo de instrumento, a teor do art. 525, inciso I, do CPC, a juntada de boletim ou serviço de "informativo judicial", contendo transcrição do Diário da Justiça.
+Recurso especial conhecido e provido.
+(REsp n. 685.322/SP, relatora Ministra NANCY ANDRIGHI, Terceira Turma, j. em 29/11/2006, DJ de 11/12/2006, p. 353.)
+Assim, tendo o magistrado analisado as alegações, não há que se falar em prejuízo ao direito de defesa de TRANS-S TRANSPORTES.
+Por fim, é importante destacar que o Tribunal estadual também prosseguiu no exame do mérito da questão, concluindo que o pagamento realizado não correspondia à integralidade da dívida, não obstando o decreto de falência. Veja-se:
+De outra parte, ainda que tenha havido pagamento parcial da dívida, o que não se comprovou do exame dos documentos trazidos aos autos (fls. 353/365), somente o pagamento integral da dívida, com correção monetária, juros e honorários advocatícios poderia elidir a insolvência jurídica. Por não ter sido paga a dívida, justificou-se o protesto realizado que, também por esta razão, deve ser considerado válido (e-STJ, fl. 932).
+Nessas condições, CONHEÇO do agravo para CONHECER EM PARTE do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE FALÊNCIA. CONFISSÃO DE DÍVIDA. PROTESTO. COMPARECIMENTO ESPONTÂNEO. FUNDAMENTO NÃO IMPUGNADO. SÚMULA Nº 283 DO STJ. CONTESTAÇÃO. COMPARECIMENTO ESPONTÂNEO. SUPRIMENTO DA FALTA DE CITAÇÃO. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO EM PARTE E, NESSA EXTENSÃO, NÃO PROVIDO.
