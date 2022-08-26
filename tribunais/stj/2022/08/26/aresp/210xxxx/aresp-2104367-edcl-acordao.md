@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, rejeitar os embargos.
+Os Srs. Ministros Jesuíno Rissato (Desembargador Convocado do TJDFT), João Otávio de Noronha, Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Cuida-se de embargos de declaração de fls. 296/301 opostos por WERICLES JUNIOR MACEDO AMANCIOem face de acórdão de fls. 282/292 que não conheceu do seu agravo regimental. O acórdão ficou assim ementado:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO. FUNDAMENTO DA DECISÃO AGRAVADA NÃO ATACADO NO AGRAVO REGIMENTAL. INCIDÊNCIA DA SÚMULA N. 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. ARTIGOS 932, III, E 1.021, § 1º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. A impugnação específica do fundamento da decisão agravada é requisito para o conhecimento do agravo regimental.
+1.1. No caso em tela, o agravo regimental não impugnou especificadamente o fundamento invocado na decisão monocrática de não conhecimento do agravo em recurso especial.
+2. Agravo regimental não conhecido." (fl. 287)
+O embargante, invocando o art. 1.022 do Código de Processo Civil -CPC/2015, o art. 382 do Código de Processo Penal -CPP, bem como os artigos 5º, XXXV, e93, IX, ambos da Constituição Federal -CRFB/1988, aponta omissão no acórdão embargado, pois não demonstrado qual fundamento da decisão agravada não foi impugnado, ou seja, qual ponto deveria ter sido rebatido.
+Requer seja sanado o vício de fundamentação que gerou nulidade, com análise do recurso especial.
+É o relatório.
+EMENTA
+PENAL. PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AGRAVO REGIMENTAL NÃO CONHECIDO. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO. OMISSÃO. PROPÓSITO DE REDISCUSSÃO DA MATÉRIA JÁ DECIDIDA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Sem a demonstração das hipóteses de cabimento (art. 619 do Código de Processo Penal - CPP, e art. 1022, III, do Código de Processo Civil - CPC), a rejeição dos embargos de declaração é medida que se impõe, notadamente quando o embargante pretende a rediscussão da questão controvertida para modificar o provimento anterior.
+2. Embargos declaratórios rejeitados.
+VOTO
+Conforme estabelece o art. 619 do Código de Processo Penal - CPP, os embargos de declaração são cabíveis nas hipóteses de correção de omissão, obscuridade, ambiguidade ou contrariedade no acórdão embargado. Ainda, admite-se para correção de erro material, conforme art. 1.022, III, do Código de Processo Civil - CPC.
+De plano, não se verifica omissão acerca do ponto que a Defesa deveria ter refutado para que seu agravo regimental fosse conhecido, pois consta no voto embargado que o agravante não refuta especificamente o fundamento relativo à incidência da Súmula n. 182 do STJ, com transcrição da decisão agravada que não conheceu do agravo em recurso especial.
+De fato, consoante constou no acórdão embargado, o agravo em recurso especial não foi conhecido porque na referida peça recursal a Defesa doora embargantedeixou de impugnar o óbice da Súmula n. 282 do STF. Como o agravo regimental visava alterar o não conhecimento do agravo em recurso especial, deveria a Defesa do embargante ter impugnado adeficiência na fundamentação do agravo em recurso especial, o que não foi feito.
+Na peça do regimental apresentada pela Defesa foi asseverado que o agravo em recurso especial foi desprovido e que o recurso especial deveria ser conhecido de ofício (fls. 270/271).
+A realidade processual é que oagravo em recurso especial não foi desprovido, foi não conhecido. Ainda, sobre a falta de impugnação ao óbice da Súmula n. 282 do STF na peça do agravo em recurso especial, a Defesa nada trouxe. Por isso, o agravo regimental não foi conhecido.
+Em verdade, o embargante pretende a modificação do provimento anterior quanto ao não conhecimento do agravo em recurso especial, o que não se coaduna com a medida integrativa, sequer para fins de prequestionamento. No mesmo sentido, citam-se precedentes:
+PENAL E PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO. ALEGADA OMISSÃO NO EXAME DE PONTOS TRAZIDOS PELA DEFESA EM RESPOSTA PRELIMINAR. NÃO OCORRÊNCIA. REDISCUSSÃO DO MÉRITO. IMPOSSIBILIDADE. INVIABILIDADE DE INTEGRAÇÃO DO JULGADO PARA INSERÇÃO DE FUNDAMENTOS, QUANDO AUSENTES VÍCIOS QUE AUTORIZEM O MANEJO DO MEIO IMPUGNATIVO ELEITO.
+ ..
+6. Os Embargos não constituem via própria para fazer prevalecer tese jurídica diferente da que foi acolhida no Acórdão quando, em sua essência e finalidade, não se dirigem à omissão ou outro vício, mas à nova declaração de efeito infringente. Os argumentos de que não foram dissecadas todas as variantes e possibilidades cogitadas pela defesa trazem como consequência a certeza de que pretendem os Embargos a declaração inversa do fundamento jurídico da decisão, o que impede à Corte renovar o julgamento para declarar o que constituiria nova manifestação de mérito em sentido contrário.
+ ..
+14. Aclaratórios que pretendem, em realidade, a modificação do julgado proferido, com nítido conteúdo infringente.
+15. Ausentes os requisitos autorizadores da via integrativa (omissão, contradição, ambiguidade ou obscuridade), a simples pretensão de reexame de provas não tem o condão de viabilizar os Embargos Declaratórios, motivo pelo qual são rejeitados.
+(EDcl na APn 843/DF, Rel. Ministro HERMAN BENJAMIN, CORTE ESPECIAL, DJe 23/4/2018).
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. RECEPTAÇÃO QUALIFICADA, SONEGAÇÃO FISCAL E LAVAGEM DE DINHEIRO. PRELIMINAR DE NULIDADE.IMPOSSIBILIDADE DE REALIZAR SUSTENTAÇÃO ORAL. AGRAVO REGIMENTAL EM MATÉRIA PENAL APRESENTADO EM MESA. POSSIBILIDADE.DISPOSITIVO CONSTITUCIONAL. PREQUESTIONAMENTO. IMPOSSIBILIDADE.ATIPICIDADE DA CONDUTA DE LAVAGEM DE DINHEIRO. VIOLAÇÃO AO PRINCÍPIO DO JUIZ NATURAL. PREJUÍZO NÃO DEMONSTRADO. OMISSÃO E CONTRADIÇÃO. INEXISTÊNCIA. REEXAME DA CAUSA. INVIABILIDADE.
+I - A Terceira Seção do Superior Tribunal de Justiça sedimentou o entendimento de que "o Regimento Interno desta Corte prevê, expressamente, em seu art. 258, que trata do Agravo Regimental em Matéria Penal, que o feito será apresentado em mesa, dispensando, assim, prévia inclusão em pauta. A disposição está em harmonia com a previsão de que o agravo não prevê a possibilidade de sustentação oral (art. 159, IV, do Regimento Interno do STJ)" (EDcl no AgRg nos EREsp n. 1.533.480/RR, Ministro Reynaldo Soares da Fonseca, DJe 31/5/2017).
+II - Não compete a este eg. STJ se manifestar explicitamente sobre dispositivos constitucionais, ainda que para fins de prequestionamento. (Precedentes).
+III - Os embargos declaratórios não constituem recurso de revisão, sendo inadmissíveis se a decisão embargada não padecer dos vícios que autorizariam a sua oposição (obscuridade, contradição e omissão).Na espécie, à conta de omissão e contradição no v. acórdão embargado, pretende o embargante a rediscussão da matéria já apreciada.
+Embargos de declaração rejeitados.
+(EDcl no AgRg no REsp 1478259/PR, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 19/4/2018, DJe 27/4/2018).
+Ademais, "Nos termos do art. 654, § 2.º, do Código de Processo Penal, o habeas corpus de ofício é concedido por iniciativa dos Tribunais ao identificarem ilegalidade flagrante. Tal providência não se presta como meio para que a Defesa obtenha pronunciamento judicial sobre o mérito de pedido deduzido em via de impugnação que não ultrapassou os requisitos de admissibilidade" (AgRg no HC n.702.446/SC, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 15/3/2022, DJe de 22/3/2022).
+Ante o exposto, voto no sentido da rejeição dosembargos de declaração.
