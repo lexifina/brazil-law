@@ -1,0 +1,36 @@
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. ART. 33, CAPUT, DA LEI N. 11.343/2006. PEDIDO DE ABSOLVIÇÃO POR FALTA DE PROVAS. EXISTÊNCIA DE PROVA PRODUZIDA SOB O CRIVO DO CONTRADITÓRIO. DEBATE RELATIVO À SUFICIÊNCIA DA PROVA PARA A CONDENAÇÃO. INCABÍVEL EM HABEAS CORPUS. PLEITO DE DESCLASSIFICAÇÃO DA CONDENAÇÃO. INVIÁVEL REEXAME FÁTICO-PROBATÓRIO. AGRAVO REGIMENTAL DESPROVIDO.
+- A condenação do agravante se fundou em elementos de prova produzidos sob o crivo do contraditório judicial, notadamente, nos depoimentos das testemunhas policiais condutoras do flagrante, que, inclusive, relataram a sua confissão informal de que praticava a mercancia ilícita (fl. 12).
+- Se há prova produzida na instrução criminal para firmar o juízo condenatório, não há ilegalidade flagrante a coartar por meio da via do habeas corpus, que não admite reabertura da instrução ou aprofundado reexame fático-probatório. Por essa razão, não há que falar em absolvição do agravante ou em desclassificação de sua condenação para o tipo criminal de porte de droga para uso próprio.
+- Agravo regimental desprovido.
+ACÓRDÃO
+Visto, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental. Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Jesuíno Rissato (Desembargador Convocado do TJDFT) e João Otávio de Noronha votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA (Relator):
+Trata-se agravo regimental (fls. 44/46) interposto por ARTUR ROBERTO DE ALMEIDA SARAIVA contra decisão (fls. 37/41), de minha relatoria, que não conheceu o habeas corpus anteriormente impetrado.
+No presente recurso, a defesa insiste que não há provas para a condenação do agravante pelo delito de tráfico de entorpecentes.
+Ao final, requer a reconsideração da decisão impugnada ou que este agravo seja levado a julgamento perante a Quinta Turma e provido, com a concessão da ordem, nos termos da impetração.
+É o relatório.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. ART. 33, CAPUT, DA LEI N. 11.343/2006. PEDIDO DE ABSOLVIÇÃO POR FALTA DE PROVAS. EXISTÊNCIA DE PROVA PRODUZIDA SOB O CRIVO DO CONTRADITÓRIO. DEBATE RELATIVO À SUFICIÊNCIA DA PROVA PARA A CONDENAÇÃO. INCABÍVEL EM HABEAS CORPUS. PLEITO DE DESCLASSIFICAÇÃO DA CONDENAÇÃO. INVIÁVEL REEXAME FÁTICO-PROBATÓRIO. AGRAVO REGIMENTAL DESPROVIDO.
+- A condenação do agravante se fundou em elementos de prova produzidos sob o crivo do contraditório judicial, notadamente, nos depoimentos das testemunhas policiais condutoras do flagrante, que, inclusive, relataram a sua confissão informal de que praticava a mercancia ilícita (fl. 12).
+- Se há prova produzida na instrução criminal para firmar o juízo condenatório, não há ilegalidade flagrante a coartar por meio da via do habeas corpus, que não admite reabertura da instrução ou aprofundado reexame fático-probatório. Por essa razão, não há que falar em absolvição do agravante ou em desclassificação de sua condenação para o tipo criminal de porte de droga para uso próprio.
+- Agravo regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA (Relator):
+O presente agravo regimental impugna motivadamente parte da decisão recorrida, não havendo, ademais, outros óbices a que seja submetido a exame de mérito.
+A condenação do agravante se fundou em elementos de prova produzidos sob o crivo do contraditório judicial, notadamente, nos depoimentos das testemunhas policiais condutoras do flagrante, que, inclusive, relataram a sua confissão informal de que praticava a mercancia ilícita (fl. 12).
+Se há prova produzida na instrução criminal para firmar o juízo condenatório, não há ilegalidade flagrante a coartar por meio desta via, que não admite reabertura da instrução ou aprofundado reexame fático-probatório. Por essa razão, não há que falar em absolvição do agravante ou em desclassificação de sua condenação para o tipo criminal de porte de droga para uso próprio.
+Sobre o tema:
+PENAL. PROCESSO PENAL. HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. ILICITUDE DAS PROVAS. VIOLAÇÃO DE DOMICÍLIO E DESCUMPRIMENTO DO AVISO DE MIRANDA. INOCORRÊNCIA. CRIME PERMANENTE. ENTRADA AUTORIZADA. EXISTÊNCIA DE FUNDADAS RAZÕES. FLAGRANTE ILEGALIDADE. INEXISTÊNCIA. PRETENSÃO DE DESCLASSIFICAÇÃO. IMPOSSIBILIDADE. NECESSIDADE DE DILAÇÃO PROBATÓRIA. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+VI - Por fim, importante esclarecer a impossibilidade de se percorrer todo o acervo fático-probatório nesta via estreita do writ, como forma de desconstituir as conclusões das instâncias ordinárias, soberanas na análise dos fatos e provas, providência inviável de ser realizada dentro dos estreitos limites do habeas corpus, que não admite dilação probatória e o aprofundado exame do acervo processual restando inviável, por conseguinte, o acolhimento da pretensão de absolvição ou desclassificação para o delito previsto no art. 28 da Lei n. 11.343/2006.
+VII - Desta forma, verifica-se que o v. acórdão combatido está em consonância com a jurisprudência desta Corte Superior de Justiça, não restando configurada as ilegalidades apontadas.
+Habeas corpus não conhecido. (HC n. 742.003/SP, Rel. Min. JESUÍNO RISSATO (Desembargador Convocado do TJDFT), Quinta Turma, julgado em 21/6/2022, DJe de 27/6/2022.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. SENTENÇA. TRÁFICO DE DROGAS (89,7 G DE MACONHA, 9,4 G DE COCAÍNA E 8,6 G DE CRACK), RESISTÊNCIA E LESÃO CORPORAL. CONDENAÇÃO. ALEGAÇÃO DE OFENSA AO PRINCÍPIO DA CORRELAÇÃO ENTRE ACUSAÇÃO E SENTENÇA. MATÉRIA NÃO ANALISADA PELA CORTE ESTADUAL. INDEVIDA SUPRESSÃO DE INSTÂNCIA. PRECEDENTE. PRETENSÃO DE ABSOLVIÇÃO. NÃO CONHECIMENTO. NECESSIDADE DE AMPLA REAPRECIAÇÃO DO CONJUNTO FÁTICO-PROBATÓRIO. INVIABILIDADE NA VIA ELEITA. PRECEDENTES. ACÓRDÃO IMPUGNADO POR OMISSÃO NA ANÁLISE DE TESES DEFENSIVAS. IMPROCEDÊNCIA. AUSÊNCIA DE OPOSIÇÃO OPORTUNA DE EMBARGOS DE DECLARAÇÃO. PRECLUSÃO. PRECEDENTES. ALEGAÇÃO DE NULIDADE DO ACÓRDÃO DA APELAÇÃO. DECISÃO EM DESACORDO COM A PROVA ORAL COLHIDA NOS AUTOS. IMPROCEDÊNCIA. ACÓRDÃO HOSTILIZADO CONCLUIU QUE A PROVA ORAL SUBSIDIARIA A CONDENAÇÃO. CONCLUIR DE FORMA DIVERSA DEMANDARIA A NECESSIDADE DE REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. INVIABILIDADE. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. WRIT INDEFERIDO LIMINARMENTE. ILEGALIDADE MANIFESTA NÃO EVIDENCIADA. INCONFORMISMO COM A DECISÃO HOSTILIZADA. TENTATIVA DE REDISCUSSÃO DA MATÉRIA ENFRENTADA MONOCRATICAMENTE. IMPOSSIBILIDADE. AGRAVO IMPROVIDO.
+1. Inicialmente, a decisão agravada não conheceu da pretensão de absolvição, acompanhando o entendimento jurisprudencial desta Corte Superior, segundo o qual, para se acolher a pretendida absolvição ou desclassificação, seria necessário reapreciar todo o conjunto fático-probatório dos autos, o que se mostra incabível na via do habeas corpus (AgRg no HC n. 698.636/SP, Ministra Laurita Vaz, Sexta Turma, DJe de 25/10/2021).
+ ..
+3. Agravo regimental improvido. (AgRg no HC n. 743.478/SP, Rel. Min. SEBASTIÃO REIS JÚNIOR, Sexta Turma, julgado em 14/6/2022, DJe de 20/6/2022)
+Por tudo isso, não há razões para modificar o entendimento anterior.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
