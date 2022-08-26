@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por Ductor Implantação de Projetos Ltda. contra decisão de fls. 682/683, que não conheceu de seu agravo, ante a incidência da Súmula 182/STJ, pois não houve impugnação específica aos fundamentos da decisão que negou trânsito ao apelo especial.
+A parte embargante alega a existência de omissão na decisão embargada, a qual "não especificou quais foram os argumentos que não teriam sido rebatidos pela ora Embargante, razão pela qual a referida decisão é omissa, não havendo que se falar em aplicação da Súmula 182 do Superior Tribunal de Justiça ao caso concreto" (fl. 688).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Não prospera a irresignação da parte embargante.
+De acordo com o estatuído no art. 1.022 do CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição ou omissão do decisum atacado e, ainda, para corrigir erro material.
+Entretanto, no caso, não se verifica a existência de quaisquer das deficiências em questão, pois a decisão embargada enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+Com efeito, consta na decisão embargada que o Tribunal de Justiça do Estado de São Paulo inadmitiu o recurso especial dos autos ante os seguintes fundamentos: "(I) não se verifica a apontada ofensa ao art. 1.022 do CPC/2015; (II) o posicionamento alcançado pelos julgadores não traduz desrespeito à legislação enfocada a ponto de permitir que o recurso seja admitido; (III) além de estar em conformidade com o entendimento do Superior Tribunal de Justiça sobre a matéria; (IV) incidência da Súmula 7 do STJ" (fl. 682); e que a parte ora embargante, nas razões do agravo em recurso especial, limitou-se a repisar as razões do apelo especial, alegando que o acórdão recorrido negou vigência aos arts. 4º, 6º do Decreto-Lei 4.048/1942; 3º do Decreto-Lei 4.963/1942; 51, II, 110 do CTN. Dessa forma, foi aplicada a Súmula 182/STJ, pois não foram rebatidos, de modo específico, os fundamentos adotados pelo Tribunal de origem para negar trânsito ao especial, limitando-se a parte recorrente a reeditar os mesmos argumentos apresentados no recurso inadmitido.
+Dessa forma, não podem ser acolhidos embargos declaratórios que, a pretexto da alegada omissão no decisum embargado, traduzem, na verdade, o seu inconformismo com a decisão tomada, pretendendo rediscutir o que já foi decidido.
+Nesse panorama, inexistente qualquer obscuridade, contradição ou omissão
+no julgado embargado, conforme exige o art. 1. 022 do CPC/2015, impõe-se a rejeição dos presentes embargos de declaração.
+ANTE O EXPOSTO, rejeito os embargos de declaração.
+Publique-se.
