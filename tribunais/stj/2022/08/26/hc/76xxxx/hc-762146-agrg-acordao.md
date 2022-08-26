@@ -1,0 +1,45 @@
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PORTE ILEGAL DE ARMA DE FOGO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. PERICULOSIDADE. RISCO DE REITERAÇÃO. WRIT IMPETRADO CONTRA DECISÃO LIMINAR. INCIDÊNCIA DA SÚMULA 691 DO STF. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+2. No caso, a prisão foi decretada em razão da periculosidade do agravante, evidenciada pelas circunstâncias da prisão - os custodiados foram flagrados por policias militares em barreira policial, portando droga, arma e munições no interior do veículo em que foram abordados. Além disso, segundo registrado no decreto, "os custodiados detém extensa ficha criminal, estando, inclusive, respondendo executivos penais - José Carlos responde ao executivo 2000011-55.2020.8.11.0052, bem como à ação penal em curso de nº1000274-15.2021.8.11.0038. Ausência de flagrante ilegalidade. Julgados do STJ.
+3. Agravo regimental desprovido.
+ACÓRDÃO
+Visto, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental. Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Jesuíno Rissato (Desembargador Convocado do TJDFT) e João Otávio de Noronha votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA (Relator):
+Trata-se de agravo regimental interposto por JOSÉ CARLOS PEREIRA DE FREITAS JUNIOR contra decisão monocrática que indeferiu liminarmente o habeas corpus (e-STJ fls. 146/147).
+Segundo consta dos autos, o paciente foi preso em flagrante no dia 02/08/2022, em razão da suposta prática do delito previsto no art. 16, § 1º, IV, da Lei n. 10.826/03. A prisão foi convertida em preventiva.
+Nas razões do presente recurso, a defesa alega, em síntese, que a prisão preventiva do agravante foi decretada com base apenas na gravidade abstrata do suposto crime, sem observar os requisitos legais que autorizam a aplicação da medida extrema - art. 312 do CPP, e pontua ser possível a aplicação de outras cautelares mais brandas.
+Diante disso, pede a reconsideração da decisão agravada ou que o recurso seja julgado pelo colegiado para conceder a ordem de habeas corpus, deferindo o pedido de liberdade provisória.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA (Relator):
+A decisão deve ser mantida.
+O Superior Tribunal de Justiça tem jurisprudência firmada no sentido de não caber habeas corpus contra decisão que indefere liminar, a menos que fique demonstrada flagrante ilegalidade, nos termos do enunciado n. 691 da Súmula do STF, segundo o qual "não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar".
+Assim, salvo excepcionalíssima hipótese de ilegalidade manifesta, não é de se admitir casos como o dos autos. Não sendo possível a verificação, de plano, de qualquer ilegalidade na decisão recorrida, deve-se aguardar a manifestação de mérito do Tribunal de origem, sob pena de se incorrer em supressão de instância e em patente desprestígio às instâncias ordinárias.
+No caso, colhe-se da decisão de primeiro grau (e-STJ fls. 142):
+Conforme narra o boletim de ocorrência, os custodiados foram flagrados por policias militares em barreira policial, estando com droga, arma e munições no interior do veículo em que foram abordados.
+Ambos os custodiados detém extensa ficha criminal, estando, inclusive, respondendo executivos penais. Conforme extrai-se do SEEU, José Carlos responde ao executivo 2000011-55.2020.8.11.0052, bem como à ação penal em curso de nº1000274-15.2021.8.11.0038. Já, José Roberto responde ao executivo 2000014-82.2020.8.11.0028.
+Nesse ponto, justifica-se a manutenção de ambos em cárcere porque é evidente o desrespeito dos flagranteados às medidas cautelares diversas da prisão. Tais medidas não têm surtido efeito para impedir que ambos se enveredem à prática de crimes.
+É certo que um dos presos, embora ostente executivo de pena, não havia ainda sido submetido à audiência admonitória, mas o fato de ostentar ficha criminal considerável, incluíndo um executivo de pena, já demonstra que a Justiça Criminal não tem intimado o suspeito à continuidade da prática delituosa. Lembre-se ainda que o outro preso estava usando até mesmo tornozeleira eletrônica.
+Diante desse contexto fático, o Relator indeferiu o pedido liminar (e-STJ fls. 135/136):
+Em que pese as alegações do impetrante, ao impor a prisão preventiva ao paciente o juízo singular apontou os indícios de autoria e a necessidade de resguardar a ordem pública, com base em premissas que não são manifestamente ilegais, especialmente quanto à reiteração criminosa do agente.
+Saliente-se que a conduta do paciente foi capitulada no artigo 16 do Estado do Desarmamento, de modo que a pena ultrapassa o limite de quatro anos, além de que se trata de reincidente, o que também constituiria exceção à regra do caput do artigo 313 do Código de Processo Penal.
+Com efeito, "admite-se a prisão preventiva quando as circunstâncias concretas do crime revelarem risco à ordem pública. " (HC n. 118.844, Relator Ministro ROBERTO BARROSO, Primeira Turma, julgado em 19/11/2013, publicado em 19/12/2013). Além disso, "a garantia da ordem pública, para fazer cessar a reiteração criminosa, é fundamento suficiente para a decretação e manutenção da prisão preventiva." (RHC n. 55.992/SP, Relator Ministro JORGE MUSSI, QUINTA TURMA, julgado em 19/03/2015, DJe 16/04/2015)
+Assim, verifica-se que o decisum apresenta fundamentação suficiente e idônea a afastar a alegação, neste momento, de manifesta ilegalidade que justificasse a superação do enunciado sumular. Ademais, a questão posta em exame demanda averiguação mais profunda pelo Tribunal estadual, no momento adequado.
+Entendo, portanto, não ser o caso de superação do enunciado nº 691 da Súmula do Supremo Tribunal Federal.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PRISÃO PREVENTIVA. TRÁFICO DE DROGAS. POSSE IRREGULAR DE ARMA DE FOGO. INDEFERIMENTO LIMINAR DO WRIT. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. MITIGAÇÃO DA SÚMULA 691/STF. FUNDAMENTAÇÃO IDÔNEA. MEDIDAS ALTERNATIVAS. INADEQUAÇÃO. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. DECISÃO MANTIDA. AGRAVO REGIMENTAL IMPROVIDO.
+1. No procedimento do habeas corpus, não se permite a produção de provas, pois a ação constitucional deve ter por objeto sanar ilegalidade verificada de plano, razão pela qual não é possível aferir a materialidade e a autoria delitiva.
+2. Apresentada fundamentação concreta, evidenciada no fato de o paciente, apesar de ter sido preso com pequena quantidade de droga (0,3 gramas de maconha) também foi surpreendido portando arma de fogo e munições, bem como de o paciente ser reincidente no crime de tráfico, e responder por outros delitos, não há ilegalidade, não se demonstrando também adequada a apliação de medidas alternativas.
+3. Não havendo manifesta ilegalidade apta a autorizar a mitigação da Súmula 691 do STF, o writ deve ser indeferido liminarmente.
+4. Agravo regimental improvido.
+(AgRg no HC n. 627.042/AL, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 15/12/2020, DJe de 18/12/2020.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS E POSSE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO. WRIT IMPETRADO CONTRA DECISÃO QUE INDEFERIU LIMINAR NO TRIBUNAL A QUO. SÚMULA N. 691/STF. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. CIRCUNSTÂNCIAS CONCRETAS DA PRISÃO. RISCO DE REITERAÇÃO DELITIVA. AUSÊNCIA DE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade, o que não ocorre na espécie. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+2. No caso, a prisão preventiva foi mantida na decisão liminar em razão da periculosidade do indiciado, evidenciada pelas circunstâncias concretas colhidas do flagrante - apreensão de 1, 630kg de maconha, balança digital e arma de fogo e munições - e pelo efetivo risco de reiteração, pois o paciente ostenta vários registros criminais ainda sem trânsito em julgado. Ausência de ilegalidade flagrante que justifique a superação da Súmula 691/STF.
+Precedentes.
+3. Agravo regimental desprovido. Recomenda-se, todavia, que o Juízo a quo examine expressamente as imagens/mídias/relatórios e as alegações da defesa, referentes à prisão do paciente, comunicando o resultado da análise ao eminente Relator do HC originário (TJGO).
+(AgRg no HC n. 586.203/GO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 23/6/2020, DJe de 30/6/2020.)
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
