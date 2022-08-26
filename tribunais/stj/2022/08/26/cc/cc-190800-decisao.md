@@ -1,0 +1,14 @@
+DECISÃO
+Vistos etc.
+Trata-se de conflito de competência suscitado pelo JJUÍZO FEDERAL DO JUIZADO ESPECIAL CÍVEL DE CAMPINAS - SJ/SP em face do JUÍZO DE DIREITO DA 10A VARA CÍVEL DE CAMPINAS - SP, nos autos da ação de suplementação de pensão c/c dano moral movida por IVANISE DA SILVA DANGIO contraFUNDACAO PETROBRAS DE SEGURIDADE SOCIAL PETROS.
+A demanda foi originariamente proposta no juízo estadual (processo nº 1047564-48.2016.8.26.0114), que declinou de sua competência para a Justiça Federal, por entender que a Superintendência Nacional de Previdência Complementar - PREVICdeveria figurar no polo passivo da demanda, tendo em vista que "A partir do momento em que a PREVIC assume posição de proteção dos interesses dos aderentes a planos de benefícios exercendo função fiscalizadora e normativa, essencial é sua intervenção"(e-STJ, fls. 490/491 e 508).
+O juízo federal, por sua vez, acolheu apreliminarde ilegitimidade passiva arguidapela PREVIC ao fundamento de que"Embora a PREVIC esteja vinculada à área de previdência complementar, atuando como ente fiscalizador, regulador e de supervisão, por meio, inclusive, de normas abstratas, não há repercussão dessas atividades na questão em discussão, de modo que a sentença a ser proferida, não terá efeitos na esfera jurídica da PREVIC", e suscitou o presente incidente(e-STJ, fls. 9/11).
+É o relatório. Decido.
+Com fundamento na orientação contida no art. 955, parágrafo único, inc. I, do CPC, e na Súmula 568/STJ, estou em proceder ao julgamento monocrático do presente conflito, tendo em vista a existência de precedentes acerca da questão ora discutida e a necessidade de desbastarem-se as pautas já bastantes numerosas da Colenda 2ª Seção.
+Nos termos da Súmula 150/STJ, "Compete a Justiça Federal decidir sobre a existência de interesse jurídico que justifique a presença, no processo, da União, suas Autarquias ou Empresas Públicas".
+Na espécie, conforme se depreende da decisão que suscitou o presente incidente (e-STJ, fls. 9/11), o juízo federal acolheu apreliminar de ilegitimidade passiva do ente federal, excluído a PREVIC da demanda e reconhecendo sua incompetência para processar e julgar a demanda. Desse modo, excluído o ente federal, compete à Justiça Estadual processar e julgar a ação.
+Ante o exposto, conheço do conflito para declarar a competência do JUÍZO DE DIREITO DA10A VARA CÍVEL DE CAMPINAS - SP, o suscitado.
+Comunique-se ao juízo suscitante acerca da presente decisão.
+Intimem-se.
+EMENTA
+CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA ESTADUAL X JUSTIÇA FEDERAL. AÇÃO DE SUPLEMENTAÇÃO DE PENSÃO C/C DANO MORAL. ILEGITIMIDADE PASSIVA DE ENTE FEDERAL (PREVIC) RECONHECIDA PELO JUÍZO FEDERAL. SÚMULA 150/STJ. COMPETÊNCIA DA JUSTIÇA ESTADUAL PARA PROCESSAR E JULGAR A DEMANDA. CONFLITO CONHECIDO PARA DECLARAR A COMPETÊNCIA DO JUÍZO DE DIREITO DA 10A VARA CÍVEL DE CAMPINAS - SP, O SUSCITADO.
