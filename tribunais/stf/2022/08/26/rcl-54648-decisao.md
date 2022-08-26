@@ -1,0 +1,61 @@
+Reclamação Constitucional. Alegação de afronta ao quanto decidido na ADI 3.395 e no RE 1.288.440-RG (Tema 1.143). Declaração da incompetência pela Justiça do Trabalho. Matéria analisada pelo Supremo Tribunal Federal em sede de agravo em recurso extraordinário. Impugnação, por via oblíqua, de decisões proferidas pela Suprema Corte. Inviabilidade da reclamação. Negativa de seguimento.
+
+    Vistos etc.
+
+    1. Trata-se de reclamação, com pedido de liminar, proposta por Vânia Cristina Lemos, com fulcro no art. 988 do CPC e nos arts. 156 e seguintes do RISTF, contra decisão do Tribunal Superior do Trabalho nos autos do AIRR nº 10045-83.2018.5.15.0133, à alegação de afronta à autoridade ao quanto decidido por esta Suprema Corte na ADI 3.395 e no RE 1.288.440-RG (Tema 1.143 da sistemática de repercussão geral).
+
+    2. A reclamante, servidora municipal contratada sem concurso público em 1º.4.1985, narra tratar-se na origem de reclamação trabalhista, em que objetiva o direito ao adicional de sexta-parte sobre os vencimentos integrais, com os consectários.
+
+    Noticia julgado procedente o pedido, sentença mantida ao exame de recurso ordinário, o que desafiou a interposição de recurso de revista, seguida de agravo de instrumento.
+
+    Reporta que o Tribunal Superior do Trabalho, ao exame singular do agravo de instrumento, assinalou a incompetência da Justiça do Trabalho para apreciar o feito, por se fundar em relação jurídico-administrativa entre a servidora e ente federativo.
+
+    Relata inadmitido o recurso extraordinário conseguinte, à luz do óbice da Súmula 281/STF, não se tratando, a questão, de causa decidida em única ou última instância.
+
+    Na sequência, manejado agravo do art. 1.042 do CPC, os autos foram remetidos a esta Suprema Corte, os quais, autuados sob o nº 1.385.323, tiveram o seguimento negado, com base na Súmula 281/STF. Contra a decisão singular, interposto agravo interno, ao qual negado provimento pelo Tribunal Pleno desta Casa.
+
+    3. A reclamante sustenta ser da Justiça do Trabalho a competência para processar e julgar demandas em que se discute direito de servidor celetista em face da Administração Pública, consoante teria sido decidido na ADI 3.395 e no RE 1.288.440-RG.
+
+    4. Requer a concessão de medida liminar para suspender o processo de origem. No mérito, pugna pela cassação da decisão reclamada, com a manutenção da competência da Justiça do Trabalho para julgar o Processo nº 0010045-83.2018.5.15.0133.
+
+    5. Deixo de determinar a citação da parte beneficiária do ato judicial reclamado e de solicitar informações à autoridade reclamada, em decorrência da manifesta inviabilidade da reclamação. Igualmente, dispenso a intimação da Procuradoria-Geral da República, em razão do caráter repetitivo do litígio.
+
+    É o relatório.
+
+    Decido.
+
+    1. A reclamação é ação autônoma dotada de perfil constitucional, cabível, a teor dos arts. 102, I, l, e 103-A, § 3º, ambos da Constituição Federal, nos casos de usurpação da competência do Supremo Tribunal Federal, descumprimento de autoridade de decisão proferida no exercício de controle abstrato de constitucionalidade ou em controle difuso, desde que, neste último caso, se cuide da mesma relação jurídica e das mesmas partes, ou desobediência a súmula vinculante.
+
+    2. A reclamante indica como ato reclamado, inicialmente, a decisão monocrática proferida pelo Ministro Alexandre Luiz Ramos do Tribunal Superior do Trabalho. No entanto, dos documentos acostados aos autos, é possível verificar que, contra o ato apontado como reclamado, a ora reclamante interpôs recurso extraordinário, ao qual negado seguimento e, na sequência, agravo em recurso extraordinário, que foi remetido a esta Suprema Corte e autuado sob o número 1.385.323.
+
+    3. Em seguida, a Presidência desta Suprema Corte negou seguimento ao agravo em recurso extraordinário, ao entendimento de que inviável o recurso, por não impugnar decisão de última instância, haja vista que manejado contra decisão monocrática do Relator no Tribunal de origem. Por fim, o Plenário deste Supremo Tribunal Federal negou provimento ao agravo interno, mediante acórdão publicado em 28.7.2022, com trânsito em julgado em 09.8.2022.
+
+    4. Como se vê, a questão controvertida foi submetida a julgamento por esta Casa, quadro a inviabilizar o exame da reclamação, sob pena de sua utilização indevida como sucedâneo recursal.
+
+    5. Nesse contexto, ressalto que esta Suprema Corte tem compreendido incabível a reclamação em hipóteses análogas à presente, porque inadmissível (i) a rediscussão de matéria já apreciada, ainda que em sede processual diversa, por este Tribunal, e (ii) a impugnação, por via oblíqua, de decisões proferidas por Ministros, pelas Turmas, ou pelo Plenário desta Corte. Nesse sentido (grifei):
+
+    “EMENTA Agravo interno. Reclamação Constitucional. Alegação de afronta à decisão proferida no RE 837.311-RG. Juízo negativo de admissibilidade realizado com base no art. 1.030, V, do CPC. Interposição de agravo em recurso extraordinário (art. 1.042 do CPC). Determinação de encaminhamento dos autos a esta Suprema Corte. Antecipação da análise por meio da reclamação. Inviabilidade. Precedentes. Agravo a que se nega provimento. 1. Tendo em vista que a questão constitucional controvertida será submetida a julgamento por esta Casa por meio de agravo em recurso extraordinário (ARE), inviável o exame da presente reclamação, sob pena de sua utilização indevida como sucedâneo recursal. 2. A jurisprudência consolidada desta Suprema Corte tem compreendido incabível a reclamação em hipóteses nas quais o ato reclamado já tenha sido objeto de questionamento, neste Tribunal, ainda que em sede processual diversa, porque inadmissível (i) a rediscussão de matéria já apreciada por este Tribunal, e (ii) a impugnação, por via oblíqua, de decisões proferidas por Ministros, pelas Turmas, ou pelo Plenário desta Corte. 3. Agravo interno conhecido e não provido” (Rcl 53070 AgR, da minha lavra, Primeira Turma, DJe 16.8.2022).
+
+    “EMENTA Agravo interno. Reclamação Constitucional. Alegação de violação da ADI 6.678/MC e do ARE 843.989-RG (Tema 1.199). Não incidência da sanção de suspensão dos direitos políticos pela prática de atos culposos de improbidade administrativa que ensejam prejuízo ao erário ou de condutas ímprobas que ofendem os princípios da Administração Pública. Questão não analisada na decisão reclamada. Ausência de estrita aderência. Interposição de agravo em recurso extraordinário na origem (art. 1.042 do CPC). Matéria será analisada pelo Supremo Tribunal Federal em sede de ARE. Impugnação, por via oblíqua, de decisões proferidas pela Corte. Inviabilidade. Precedentes. Agravo a que se nega provimento. 1. É imprescindível que o ato reclamado haja abordado expressamente e sob o ângulo trazido em sede reclamatória o tema versado na referência paradigmática, de modo que não cabe reclamação por omissão. Precedentes. 2. Considerando que o ato reclamado não decidiu sobre o ponto questionado na presente ação reclamatória – sanção de suspensão de direitos políticos aplicada aos condenados por ato de improbidade administrativa, sob o enfoque da ADI 6.678 –, revela-se inadmissível o manejo da reclamação, sob pena de desvirtuamento e indevida expansão do instituto. 3. A jurisprudência consolidada desta Suprema Corte tem compreendido incabível a reclamação em hipóteses nas quais o ato reclamado já tenha sido objeto de questionamento, neste Tribunal, ainda que em sede processual diversa, porque inadmissível (i) a rediscussão de matéria já apreciada por este Tribunal, e (ii) a impugnação, por via oblíqua, de decisões proferidas por Ministros, pelas Turmas, ou pelo Plenário desta Corte. 4. Agravo interno conhecido e não provido” (Rcl 53136 AgR, da minha lavra, Primeira Turma, DJe 29.6.2022).
+
+    “DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO EM RECLAMAÇÃO. RECLAMAÇÃO CONTRA DECISÃO DO PRÓPRIO STF. 1. Reclamação em que se impugna acórdão do TST que já foi objeto de análise por esta Corte, em agravo em recurso extraordinário. 2. Inviável reclamação em que se busca, por via transversa, a reforma de decisão do próprio Supremo Tribunal Federal.3. Agravo interno a que se nega provimento” (Rcl 32.896 AgR, Rel. Luís Min. Roberto Barroso, Primeira Turma, DJe 12.6.2019).
+
+    “DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO EM RECLAMAÇÃO. RECLAMAÇÃO CONTRA DECISÃO DO PRÓPRIO STF. 1. Reclamação em que se impugna decisão que já foi objeto de julgamento pelo Supremo Tribunal Federal em recurso extraordinário com agravo (ARE 1.231.490), o qual teve o seu seguimento negado por ausência de fundamentação suficiente quanto à preliminar de repercussão geral. Inviável reclamação em que se busca, por via transversa, a reforma de decisão do próprio Supremo Tribunal Federal. 2. Agravo interno desprovido, com aplicação da multa prevista no art. 1021, § 4º, do CPC/2015” (Rcl 37.321 AgR, Rel. Min. Luís Roberto Barroso, Primeira Turma, DJe 29.5.2020).
+
+    “PROCESSUAL CIVIL. AGRAVO INTERNO NA RECLAMAÇÃO. REDISCUSSÃO DE MATÉRIA JÁ DECIDIDA POR ESTA SUPREMA CORTE. INVIABILIDADE. RECURSO DE AGRAVO A QUE SE NEGA PROVIMENTO. 1. A reclamação constitucional não pode ser utilizada para rediscutir matéria já decidida por esta SUPREMA CORTE. A impugnação de decisões proferidas por Ministros ou pelos órgãos que compõe o TRIBUNAL, no exercício de suas atribuições, são de competência do próprio STF, somente podendo ser realizada por interposição de recursos adequados. 2. O acórdão reclamado foi objeto de recurso extraordinário, ao qual a eminente Ministra ROSA WEBER negou seguimento. Contra essa decisão, foi interposto o respectivo recurso de agravo, não provido pela colenda Primeira Turma. Desse modo, inviável a presente reclamação. 3. Recurso de agravo a que se nega provimento” (Rcl 35.538 AgR, Rel. Min. Alexandre de Moraes, Primeira Turma, DJe 31.8.2020).
+
+    “Agravo regimental em reclamação. 2. Reclamação contra decisão já analisada por essa Corte em agravo em recurso extraordinário. Não cabimento. 3. Impossibilidade de utilização da reclamação como sucedâneo recursal. 4. Ausência de argumentos capazes de infirmar a decisão agravada. 5. Agravo regimental não provido” (Rcl 37.711 AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe 04.5.2020).
+
+    “RECLAMAÇÃO – ATO DECISÓRIO IMPUGNADO JÁ SUBMETIDO À APRECIAÇÃO DESTA SUPREMA CORTE NO ÂMBITO DE RECURSO EXTRAORDINÁRIO COM AGRAVO – AJUIZAMENTO, NA REALIDADE, CONTRA DECISÃO EMANADA DE MINISTRO DO SUPREMO TRIBUNAL FEDERAL – INADMISSIBILIDADE – PRECEDENTES – INADEQUAÇÃO, AINDA, DO EMPREGO DA RECLAMAÇÃO COMO SUCEDÂNEO RECURSAL – RECURSO DE AGRAVO IMPROVIDO” (Rcl 37.508 AgR, Rel. Ministro Celso de Mello, Segunda Turma, DJe 24.6.2020).
+
+    6. Ademais, a mesma parte não pode fazer uso das diferentes espécies de acesso ao Supremo Tribunal Federal com o objetivo de obter julgamento diverso sobre o mesmo caso concreto, assim considerado como mesmo ato impugnado e mesma questão constitucional controvertida. Entender-se em sentido contrário violaria o art. 505 do CPC, segundo o qual ‘nenhum juiz decidirá novamente as questões já decididas relativas à mesma lide’ (Rcl 37.321-AgR/PE, Rel. Min. Roberto Barroso, Primeira Turma, DJe 28.5.2020), pois o sistema deve fechar, considerada a organicidade e a instrumentalidade do Direito, especialmente o processual” (Rcl 44.314/RS, Rel. Min. Marco Aurélio, decisão monocrática, DJe 21.01.2021).
+
+    7. Ante o exposto, com fundamento no no art. 21, § 1º, do RISTF, nego seguimento à presente reclamação, prejudicado o exame do pedido liminar.
+
+    Publique-se.
+
+    Brasília, 26 de agosto de 2022.
+
+Ministra Rosa Weber
+
+Relatora
