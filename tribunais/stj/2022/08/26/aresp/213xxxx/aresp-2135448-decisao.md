@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo (art. 1.042 do CPC/15) interposto por PALMEIRAS - INVESTIMENTOS IMOBILIARIOS LTDAcontra decisão que não admitiu o recurso especial da insurgente.
+O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a" da Constituição Federal, desafia acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo,assim ementado:
+APELAÇÃO. COMPROMISSO DE COMPRA E VENDA DE IMÓVEL. Pretensão dos adquirentes à devolução dos valores relativos às despesas condominiais originadas em data anterior à sua imissão na posse do imóvel. Parcial procedência em primeiro grau, considerando-se que os compromissários compradores têm responsabilidade pelos débitos a partir da disponibilização física do bem, ainda que tenham recebido as chaves posteriormente. Inconformismo dos autores e da ré. DESPESAS CONDOMINIAIS. Impossibilidade de cobrança dos adquirentes antes da sua imissão na posse. Abusividade de cláusula contratual em sentido diverso, com fundamento no art. 51, IV, do CDC. Precedentes do E. TJSP. Consequências da quitação tardia do preço já previstas contratualmente, tais como a incidência de correção monetária, juros de mora, cláusula penal e até mesmo a resolução do negócio. Sentença reformada. SUCUMBÊNCIA. Redistribuição do ônus. RECURSO DOS AUTORES PROVIDO E RECURSO DA RÉ PREJUDICADO.
+Nas razões do recurso especial, ainsurgente alegou que o acórdão recorrido violou osartigos 421, 422 e 1.334, § 2 2 , do Código Civil e o artigo 9 2 da lei nº 4.591/64, bem com ao princípio da boa-fé objetiva e supremacia da autonomia privada. Sustenta, em síntese, aresponsabilidade do recorrido pelo pagamento das taxas condominiais.
+Em juízo de admissibilidade, o Tribunala quoinadmitiu o recurso especial, dando ensejo a interposição do presente agravo.
+É o relatório.
+Decide-se.
+O inconformismo não merece prosperar.
+1.Quanto àresponsabilidade do recorrido pelo pagamento das taxas condominiais, restou consignado no acórdão recorrido:
+Registre-se que a quitação tardia do preço tem consequências próprias, contratualmente previstas. Por exemplo, foi ajustado que o atraso no pagamento de qualquer parcela por 90 dias conduziria à constituição em mora mediante o envio de notificação por parte da promitente vendedora, após o que, não saldada a dívida em 15 dias, o contrato seria resolvido. Também foi previsto que sobre as parcelas atrasadas incidiria correção monetária, fluiriam juros de 1%ao mês e seria aplicada multa de 2% do valor da prestação (cláusulas 7.1.1, 7.1.2 e 7.1.3 - fls. 19).
+Assim sendo, em que pese a demora na obtenção do financiamento e a consequente quitação do preço em data posterior à ajustada, não podem os adquirentes ser penalizados com a responsabilização pelo adimplemento dos débitos reclamados.
+Uma vez que a imissão dos autores na posse do imóvel adquirido se deu apenas em 25.10.2017 (fls. 27/28), todas as dívidas condominiais anteriores a esta data por eles adimplidas devem ser restituídas pela ré. Os valores deverão ser atualizados desde cada desembolso e acrescidos de juros de mora a partir da citação, tal como já estabelecido na origem.
+Contudo, aora recorrente não se desimcubiu do ônus de impugnar os referidos fundamentos,como manda o princípio da dialeticidade, utilizando-se de fundamentos dissociados do acórdão recorrido, incidindo, na espécie, por analogia, as Súmula 283 e 284 do STF.
+Em outras palavras, verifica-se que a recorrente deixou de infirmar fundamento do acórdão recorrido - suficiente para sua manutenção -, incidindo, na espécie, por analogia, a Súmula 283 do STF,in verbis: É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+Conforme já decidiu o STJ, "à luz do princípio da dialeticidade, que norteia os recursos, deve a parterecorrente impugnar todos os fundamentos suficientes para manter o acórdão recorrido, de maneira a demonstrar que o julgamento proferido pelo Tribunal de origem merece ser modificado, ou seja, não basta que faça alegações genéricas em sentido contrário às afirmações do julgado contra o qual se insurge" (AgRg no Ag 1.056.913/SP).
+Ademais, resta caracterizada a deficiência na fundamentação do apelo extremo no ponto, pois apresenta razões dissociadas do que foi decidido pelo acórdão recorrido, circunstância atrativa do óbice contido na Súmula 284 do STF, que se estende sobre a alegada divergência jurisprudencial.
+Nesse sentido, os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA AGRAVANTE.
+ ..  3. A subsistência de fundamento inatacado, apto a manter a conclusão do aresto impugnado, e a apresentação de razões dissociadas desse fundamento, impõe o reconhecimento da incidência dasSúmulas 283 e 284do STF, por analogia. Precedentes.
+4. Agravo interno desprovido.
+(AgInt no AREsp 1397282/GO, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 02/04/2019, DJe 05/04/2019) AGRAVO INTERNO NO RECURSO ESPECIAL. ALIENAÇÃO FIDUCIÁRIA. AÇÃO DE BUSCA E APREENSÃO. ART. 3º DO DECRETO-LEI 911/1969. NECESSIDADE DE NOTIFICAÇÃO AO DEVEDOR ACERCA DA MORA. PRECEDENTES. SÚMULA 83 DO STJ. FUNDAMENTO INATACADO. FUNDAMENTAÇÃO DEFICIENTE.SÚMULAS 283 E 284DO STF. AGRAVO INTERNO NÃO PROVIDO.
+ ..  2. A falta de impugnação objetiva e direta ao fundamento central do acórdão recorrido, denota a deficiência da fundamentação recursal que se apegou a considerações secundárias e que de fato não constituíram objeto de decisão pelo Tribunal de origem, a fazer incidir, o óbice dasSúmulas 283 e 284do STF.
+3. Agravo interno não provido.
+(AgInt no REsp 1675490/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 13/12/2018, DJe 19/12/2018)
+Ademais, "Conforme o entendimento desta Corte Superior, "o promitente comprador passa a ser responsável pelo pagamento das despesas condominiais a partir da entrega das chaves, tendo em vista ser o momento em que tem a posse do imóvel" (REsp n. 1.847.734/SP, relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 29/3/2022, DJe de 31/3/2022), entendimento aplicado pela Corte de origem. Inafastável, desse modo, a Sumula n. 83/STJ."(AgInt no REsp n. 2.000.677/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 15/8/2022, DJe de 18/8/2022.).
+No mesmo sentido:
+RECURSO ESPECIAL. AÇÃO DE INEXIBILIDADE DE DÉBITO. DESPESAS CONDOMINIAIS. ENTREGA DAS CHAVES. RECUSA. MORA. RESPONSABILIDADE. ADQUIRENTE DO IMÓVEL.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Cinge-se a controvérsia a definir a parte responsável pelo pagamento das despesas condominiais quando há recusa do adquirente do imóvel em receber das chaves.
+3. O promitente comprador passa a ser responsável pelo pagamento das despesas condominiais a partir da entrega das chaves, tendo em vista ser o momento em que tem a posse do imóvel. Precedentes.
+4. A recusa em receber as chaves constitui, em regra, comportamento contrário aos princípios contratuais, principalmente à boa-fé objetiva, desde que não esteja respaldado em fundamento legítimo.
+5. O adquirente deve pagar as taxas condominiais desde o recebimento das chaves ou, em caso de recusa ilegítima, a partir do momento no qual as chaves estavam à sua disposição.
+6. Recurso especial não provido.
+(REsp n. 1.847.734/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 29/3/2022, DJe de 31/3/2022.)
+2.Do exposto, com amparo no artigo 932 do CPC/15 c/c a Súmula 568/STJ,nega-se provimento ao agravo em recurso especial.
+Publique-se.
+Intimem-se.
