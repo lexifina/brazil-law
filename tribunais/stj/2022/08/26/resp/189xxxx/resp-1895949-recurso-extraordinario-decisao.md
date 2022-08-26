@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso extraordinário interposto pelo ESTADO DO PIAUÍ, com
+fundamento no art. 102, III, a, da Constituição Federal, contra acórdão deste Superior Tribunal de Justiça, assim ementado (e-STJ fls. 361/362):
+PROCESSUAL CIVIL E ADMINISTRATIVO. SERVIDORA PÚBLICA. CONTRATAÇÃO SEM CONCURSO PÚBLICO. FGTS. COBRANÇA DE VALORES NÃO PAGOS. OBSERVÂNCIA AO ARE 709.212/DF. PARA OS CASOS EM QUE O PRAZO PRESCRICIONAL JÁ ESTEJA EM CURSO, APLICA-SE O QUE OCORRER PRIMEIRO: 30 ANOS, CONTADOS DO TERMO INICIAL, OU 5 ANOS, APARTIR DESTA DECISÃO. ACÓRDÃO EMCONSONÂNCIA COM ENTENDIMENTO DO STJ E DOSTF. EMBARGOS DE DECLARAÇÃO OPOSTOS COM PROPÓSITO PREQUESTIONADOR. APLICAÇÃO DA MULTA PREVISTA NO ART. 1.026, § 2º, DO CPC/15. AFASTAMENTO. SÚMULA 98/STJ.
+1. No enfrentamento da matéria, o Tribunal de origem lançou os seguintes fundamentos: "No caso em espécie, considerando-se que o início da atividade laboral ocorreu em 1º de fevereiro de 2003 e que a ação fora ajuizada em 18 de dezembro de 2009, o termo final do prazo prescrição quinquenal somente ocorrerá em 13 de novembro de 2019, em observância ao ARE 709.212/DF, julgado em 13/11/2014 pela Suprema Corte, não havendo, pois, que se falar em prescrição".
+2.O STF, no julgamento do ARE 709.212/DF, em repercussão geral, estabeleceu, regra geral, que não é trintenário, e sim quinquenal, o prazo prescricional para a cobrança de valores não depositados no FGTS.
+3.Nada obstante, no mesmo julgamento do ARE 709.212,
+ficou excepcionado que, para aqueles cujo termo inicial da prescrição ocorra após a data do presente julgamento, emprega-se, desde logo, o prazo de cinco anos. Quanto aos casos em que o prazo prescricional já esteja em curso, aplica-se o que ocorrer primeiro: 30 anos, contados do termo inicial, ou 5 anos, a partir dessa decisão.
+4. Dessume-se que o acórdão recorrido está em sintonia com o atual entendimento do STF e do STJ, razão pela qual, nesse ponto, não merece prosperar a irresignação. Incide, in casu, o princípio estabelecido na Súmula 83/STJ: "Não se conhece do Recurso Especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida."
+5.Cumpre ressaltar que a referida orientação vale também para os recursos interpostos pela alínea "a" do art. 105, III, da Constituição Federal de 1988. Nesse sentido: REsp 1.186.889/DF, Segunda Turma, Relator Ministro Castro Meira, DJe de 2.6.2010.
+6.A multa imposta com base no art. 1.026, § 2º do CPC/15 deve ser afastada quando os Embargos de Declaração tenham sido opostos com visível propósito de prequestionamento, de modo a elidir seu caráter protelatório, como assentado na Súmula 98 do STJ e na jurisprudência consolidada do STJ.
+7.Recurso Especial parcialmente provido, apenas para afastar a multa do artigo 1.026, § 2º, do CPC/2015.
+Sustenta o recorrente a repercussão geral da matéria e a violação do art. 97 da Constituição Federal.
+Para tanto, assevera que "O artigo 1º do Decreto 20.910/32 prevê expressamente que as dívidas passivas dos Estados, bem assim todo e qualquer direito ou ação contra a Fazenda estadual, seja qual for a sua natureza, prescrevem em cinco anos contados da data do ato ou fato do qual se originarem" (e-STJ fl. 441).
+Alega que esta Corte Superior afrontou a cláusula de reserva de plenário,prevista no art. 97 da Lei Maior, ao afastar a aplicação do art. 1º do Decreto n. 20.910/1932 ao presente caso, pois "apenas pelo voto da maioria dos membros da Corte Especial, poderia o Superior Tribunal de Justiça, afastar a aplicação do artigo 1º do Decreto 20.910/32, norma federal infraconstitucional válida e aplicável ao caso" (e-STJ fls. 441/442).
+Requer, ao final, a admissão do recurso e sua remessa ao Supremo Tribunal Federal.
+As contrarrazões foram apresentadas às e-STJ fls. 450/461.
+O recurso extraordinário não foi admitido (e-STJ fls. 477/480). Interposto agravo em recurso extraordinário, os autos foram remetidos ao Supremo Tribunal Federal, em 3.8.2022 (e-STJ fl. 511).
+A Suprema Corte determinou o retorno dos autos a este Sodalício, para a aplicação do Tema 608/STF (e-STJ fls. 630/631).
+É o relatório.
+Ao julgar o ARE n. 709.212 RG/DF, o Supremo Tribunal Federal firmou o entendimento de que oprazo prescricional aplicável à cobrança de valores não depositados no Fundo de Garantia por Tempo de Serviço (FGTS) é quinquenal, nos termos do art. 7º, XXIX, da Constituição Federal e, quanto à modulação, atribuiuefeitos ex nunc(Tema 608/STF).
+Confira-se, por oportuno, a ementa do acórdão:
+Recurso extraordinário. Direito do Trabalho. Fundo de Garantia por Tempo de Serviço (FGTS). Cobrança de valores não pagos. Prazo prescricional. Prescrição quinquenal. Art. 7º, XXIX, da Constituição. Superação de entendimento anterior sobre prescrição trintenária. Inconstitucionalidade dos arts. 23, § 5º, da Lei 8.036/1990 e 55 do Regulamento do FGTS aprovado pelo Decreto 99.684/1990. Segurança jurídica. Necessidade de modulação dos efeitos da decisão. Art. 27 da Lei 9.868/1999. Declaração de inconstitucionalidade com efeitos ex nunc. Recurso extraordinário a que se nega provimento.
+(ARE 709212, Relator(a): GILMAR MENDES, Tribunal Pleno, julgado em 13/11/2014, ACÓRDÃO ELETRÔNICO REPERCUSSÃO GERAL - MÉRITO DJe-032 DIVULG 18-02-2015 PUBLIC 19-02-2015)
+No caso dos autos, ao examinar a controvérsia, esta Corte Superior de Justiça assim se manifestou (e-STJ fls. 365/368):
+No enfrentamento da matéria, o Tribunal de origem lançou os seguintes fundamentos:
+No caso em espécie, considerando-se que o início da atividade laboral ocorreu em 1º de fevereiro de 2003 e que a ação fora ajuizada em 18 de dezembro de 2009, o termo final do prazo prescrição quinquenal somente ocorrerá em 13 de novembro de 2019, em observância ao ARE 709212/DF, julgado em 13/11/2014 pela Suprema Corte, não havendo, pois, que se falar em prescrição.
+O STF, no julgamento do ARE 709.212/DF, em repercussão geral, estabeleceu, regra geral, que não é trintenário, e sim quinquenal, o prazo prescricional para a cobrança de valores não depositados no FGTS.
+Nada obstante, no mesmo julgamento do ARE 709.212, ficou excepcionado que, para aqueles cujo termo inicial da prescrição ocorra após a data do presente julgamento, emprega-se, desde logo, o prazo de cinco anos. Por outro lado, para os casos em que o prazo prescricional já esteja em curso, aplica-se o que ocorrer primeiro: 30 anos, contados do termo inicial, ou 5 anos, a partir desta decisão.
+ ..
+Dessume-se que o acórdão recorrido está em sintonia com o atualentendimento do STF e do STJ, razão pela qual, nesse ponto, não merece prosperar a irresignação. Incide, in casu, o princípio estabelecido na Súmula 83/STJ: "Não se conhece do Recurso Especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida."
+Cumpre ressaltar que a referida orientação vale também para os recursos interpostos pela alínea "a" do art. 105, III, da Constituição Federal de 1988. Nesse sentido: REsp 1.186.889/DF, Segunda Turma, Relator Ministro Castro Meira, DJe de 2.6.2010.
+Verifica-se, portanto, que o acórdão proferido por este Sodalício está em consonância com a jurisprudência firmada pelo Pretório Excelso, razão pela qual incide o Tema 608/STF.
+Ante o exposto, com fundamento no art. 1.030, I, a, segunda parte, do Código de Processo Civil, nega-se seguimento ao recurso extraordinário.
+Publique-se.
+Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. DIREITO TRABALHISTA. FUNDO DE GARANTIA POR TEMPO DE SERVIÇO. COBRANÇA DE VALORES NÃO DEPOSITADOS. PRAZO PRESCRICIONAL. MODULAÇÃO. EFEITOS EX NUNC. ACÓRDÃO RECORRIDO EM CONFORMIDADE COM O ENTENDIMENTO DA SUPREMA CORTE. TEMA 608/STF.SEGUIMENTO NEGADO.
