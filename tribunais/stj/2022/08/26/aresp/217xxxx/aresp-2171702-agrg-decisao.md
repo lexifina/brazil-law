@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo regimental interposto por LUIS FERNANDO RODRIGUES DE SOUSAcontra decisão de e-STJ fls. 449/450, proferida pela Presidência do Superior Tribunal de Justiça, que não conheceu do seu agravo.
+Depreende-se dos autos que o ora agravante foi condenado, em Juízo de primeiro grau, como incurso nas sanções do art. 33, caput,c/c o art. 40, III, ambosda Lei n. 11.343/2006 (tráfico de drogas), à pena de 2anos e 4meses de reclusão, em regime aberto, além de 233 dias-multa (e-STJ fls. 299/304).
+O Tribunal de origem deu parcial provimento ao apelo defensivo, conforme a seguinte ementa (e-STJ fls. 380/381):
+Tráfico de drogas nas imediações de estabelecimento prisional. Provas. Depoimento de policiais. Crime Natureza e impossível. Coação moral irresistível. Inexigibilidade de conduta diversa. Causa de aumento. quantidade de droga. Fração de aumento.1 - Os depoimentos prestados por policiais - agentes públicos no exercício de suas atribuições - têm a mesma força probante que os prestados por quaisquer outras testemunhas, sobretudo quando corroborados pelo depoimento do condutor do veículo e do outro passageiro, que conduziram o réu à penitenciária para introduzir a droga no local, e demais provas dos autos. 2 - Crime impossível ocorre quando, por ineficácia absoluta do meio de execução ou por absoluta impropriedade do objeto, é impossível a sua consumação (CP, art. 17). 3 - O crime de tráfico é de ação múltipla alternativa. O fato de transportar droga com objetivo de introduzi-la no sistema penitenciário, sem autorização expressa ou em desacordo com a determinação legal ou regulamentar consuma o crime, inviável reconhecer crime impossível. que o réu transportou substâncias entorpecentes com 4 - Não demonstrada a coação moral irresistível - objetivo de introduzi-las no estabelecimento prisional, porque estaria sendo ameaçado de morte por traficantes em razão de dívida -, não é possível excluir a culpabilidade por inexigibilidade de conduta diversa. 5 - A natureza da droga - cocaína - e a diversidade de droga - maconha (29,72g) e cocaína (1,25g) - se adéquam às circunstâncias especiais do art. 42 da L. 11.343/06 e justificam o aumento da pena-base.6 - O e. STJ consolidou o entendimento de que o acréscimo na pena-base acima da fração de 1/6 da pena mínima cominada para cada circunstância judicial desfavorável - inclusive para os crimes de tráfico de entorpecentes - exige fundamentação concreta. A utilização de fração um pouco superior, devidamente fundamentado, não comporta alteração. 7- Apelação provida em parte.
+Nas razões do recurso especial, a defesa apontou violação doart. 42 da Lei de Drogas, insurgindo-se contra a consideração daquantidade de drogas e sua natureza como circunstancia negativa para elevação da pena.
+O recurso especial não foi admitido (e-STJ fls. 412/414). A defesa interpôs agravo (e-STJ fls. 422/431).
+A Presidência desta Corte não conheceu do agravo por ausência de impugnação específica de fundamentos da decisão que havia inadmitido o recurso especial (e-STJ fls. 449/450).
+Irresignada, a parte interpõe o presente agravo regimental (e-STJ fls. 453/459), alegando que atacou adequadamente todos os fundamentos da decisão agravada.
+Requer, assim, a reconsideração do julgamento para que do agravo em recurso especial seconheça.
+É, em síntese, o relatório.
+Decido.
+Assiste razão ao agravante.
+É que, de fato, compulsando os autos, verifica-se que os fundamentos da decisão de inadmissibilidade do recurso especial foram suficientemente impugnados.
+Ante o exposto, dou provimento ao agravo regimental para determinar o regular processamento do agravo em recurso especial.
+Dê-se vista ao Ministério Público Federal para parecer.
+Após, tornem os autos conclusos.
+Publique-se. Intimem-se.
