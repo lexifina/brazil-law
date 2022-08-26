@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício deDebora Ferreira da Costa - presa preventivamente pela prática, em tese, do delito de tráfico internacional de drogas -, em que se aponta como autoridade coatora o Tribunal Regional Federal da 2ª Região, que denegou a ordem no writ ali impetrado, mantendo a prisão preventiva da paciente decretada pelo Juízo Federal da 2ª Vara Federal do Rio de Janeiro/RJ(Autos n. 5030747-04.2022.4.02.5101).
+Alega-se, em síntese, constrangimento ilegal consistente na decretação e manutenção da prisão preventiva da paciente, ao argumento de insuficiência de fundamentação; sustenta-se, também, excesso de prazo na formação da culpa, bem como argumenta que a ré possui filho menor de 12 anos, razão pela qual entende ser possível a substituição da sua prisão cautelar por prisão domiciliar.
+Postula-se, ao final, a concessão da ordem para que a prisão preventiva seja revogada.
+É o relatório.
+Vislumbro a possibilidade de concessão da ordem, inclusive liminarmente.
+Não obstante as relevantes considerações realizadas pelo Magistrado singular relacionadas à prática do crime, em especial, a quantidade de droga apreendida (fl. 139 - 3.480 g de cocaína) e o fato de a paciente responder a outro delito de tráfico de drogas, sem possuir condenação transitada em julgado(fl. 41), entendo que existem medidas outras suficientes a evitar a reiteração delitiva, considerando tanto a atual situação do sistema prisionalcomo o fato de a ré ser primária e o delito não ter sido cometido com violência ou grave ameaça.
+Assim, mostra-se suficiente, no caso, a aplicação das medidas alternativas, consistentes em: a) comparecimento periódico em juízo, no prazo e nas condições a serem fixadas pelo Juiz, para informar e justificar atividades (art. 319, I, do CPP); b) proibição de acesso ou frequência a lugares a serem identificados pelo Magistrado singular, relacionados com a prática criminosa (art. 319, II, do CPP); c) proibição de se ausentar da comarca, sem autorização judicial (art. 319, IV, do CPP); e d) recolhimento domiciliar no período noturno e nos dias de folga, exceto se estiver trabalhando (art. 319, V, do CPP).
+Em face do exposto, concedo liminarmentea ordempara assegurar à paciente o direito de aguardar em liberdade o julgamento do mérito da ação penal, mediante o cumprimento das medidas cautelares previstas no art. 319, I, II, IV e V, do Código de Processo Penal, salvo prisão por outro motivo e sem prejuízo da aplicação, ou não, de outras medidas alternativas à prisão, fundamentadamente.
+Comunique-se com urgência.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO INTERNACIONAL DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO E EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. PACIENTE TECNICAMENTE PRIMÁRIA. SUBSTITUIÇÃO DA SEGREGAÇÃO CAUTELAR POR MEDIDAS CAUTELARES DO ART. 319 DO CPP. EXCEPCIONALIDADE.CONSTRANGIMENTO ILEGAL MANIFESTO.
+Ordem concedida liminarmente nos termos do dispositivo.
