@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido liminar, impetrado contra o acórdão assim relatado (fl. 26):
+Da decisãoque deferiu o pedido de livramento condicional, o agravante recorreualegando que o sentenciado não preenche o requisito subjetivo para o livramento condicional.
+Apresentadas contrarrazões. Mantida a decisão agravada.
+A douta Procuradoria Geral de Justiça opinoupelo não provimento ao recurso.
+Consta dos autos que o paciente cumpre pena definitivapelo crime de tráfico de drogas, epostulou a concessão do livramento condicional. OJuiz da Execução Penal julgou procedente o pedido do paciente, para conceder o benefício penal, com alvará de soltura cumprido em 4/6/2021. OTribunal de origem, por seu turno, deu provimento ao agravo em execução do Ministério Público, alegando que o requisito subjetivo não havia sido preenchido, já que ostentava faltas graves em seu desfavor.
+O impetrante pretende, liminarmente, a cassação do mandado de prisão em regime semiaberto, e, no mérito, a concessão da ordem paracassar a decisão impugnada, restabelecendo, definitivamente, a sentença concessiva do livramento condicional da pena.
+Argumenta que a prática de faltas disciplinares, por si só, não pode ser utilizada como fundamento para o indeferimento do livramento condicional da pena.
+Indeferida a liminar e prestadas as informações, o Ministério Público manifestou-sepelo concessão parcial, de ofício, para que seja reavaliado o pedido, desconsiderando faltas praticadas há mais de 12 meses.
+Acerca do requisito subjetivo para o livramento condicional, extrai-se do acórdão (fls. 26/28):
+A discussão se limita ao requisito subjetivo.
+Verifico que o sentenciado ostenta mau comportamento, o que contraria frontalmente o artigo 83, III, "a" do Código Penal. Ademais, o sentenciado praticou seis faltas graves em 2020.
+Para a concessão de livramento condicional deve-se atender aos requisitos obrigatórios, previstos no artigo 83, incisos e parágrafo único, do Código Penal, conforme artigo 131 da Lei das Execuções Penais.
+A gravidade do delito, tal qual fundamentado na sentença, não se mostra argumento idôneo para obstar a concessão do benefício.
+Tampouco é fundamento para indeferimento do livramento o fato de ser recente sua progressão ao regime semiaberto, que também não é requisito legal para a concessão do livramento. A progressão para o regime intermediário não é requisito legal, sendo que tal exigência usurpa a função do legislador e fere direito subjetivo do sentenciado.
+ ..
+Ocorre que no caso concreto o sentenciado não demonstra ter subjetivamente feito jus ao livramento, motivo pelo qual a decisão que o concedeu merece ser alterada e o livramento cassado.
+Como visto da transcrição acima, o pedido de livramento condicional foi indeferido uma vez que o apenado, ora paciente, possui mau comportamento, registrando 6 faltas graves em 2020.
+Entende esta Corte que " a  inclusão da alíneabno inciso III do art. 83 do Código Penal pela Lei n. 13.964/2019, não significa que a ausência de falta grave no período de doze meses seja suficiente para satisfazer o requisito subjetivo exigido para a concessão do livramento condicional, tampouco que eventuais faltas disciplinares ocorridas anteriormente não possam ser consideradas pelo Juízo das Execuções Penais para aferir fundamentadamente o mérito do Apenado." (AgRg no HC 666.504/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 01/06/2021, DJe 16/06/2021). No mesmo sentido:
+HABEAS CORPUS. EXECUÇÃO. LIVRAMENTO CONDICIONAL. ART. 83, III,b, DO CP. NÃO COMETIMENTO DE FALTA GRAVE NOS ÚLTIMOS 12 MESES. PRESSUPOSTO OBJETIVO CUMPRIDO. FALTAS GRAVES PRATICADAS OU REABILITADAS HÁ MENOS DE 5 ANOS. REQUISITO SUBJETIVO NÃO PREENCHIDO.HABEAS CORPUSDENEGADO.
+1. Para a concessão do livramento condicional, a teor do art. 83, III, do Código Penal, o reeducando deverá preencher os requisitos de natureza objetiva (lapso temporal) e subjetiva: comprovado comportamento satisfatório durante a execução da pena, bom desempenho no trabalho que lhe foi atribuído e aptidão para prover à própria subsistência mediante trabalho honesto.
+2. O requisito previsto no art. 83, III, b, do Código Penal, inserido pela Lei 3.964/2019, qual seja, comprovada ausência de falta grave nos últimos 12 meses, é pressuposto objetivo para a concessão do livramento condicional. Tal critério não limita a análise do requisito subjetivo, inclusive quanto a fatos anteriores à vigência da Lei Anticrime, de forma que somente haverá fundamento inválido quando consideradas faltas disciplinares muito antigas.
+3. Hipótese em que o pedido foi indeferido pela prática de duas faltas disciplinares graves durante a execução da pena, cometidas no interior do estabelecimento prisional - a primeira ocorrida em 11/11/2016 (data de reabilitação 11/11/2017) e a última datada de 05/09/2017 (reabilitação ocorrida em 10/12/2018) -, de forma que não resulta o preenchido o requisito de natureza subjetiva para fins de obtenção do livramento condicional.
+4.Habeas corpusdenegado. (HC 647.268/SP, por mim relatado, SEXTA TURMA, julgado em 25/05/2021, DJe 31/05/2021).
+Portanto, conforme entendimento desta Sexta Turma, "o requisito previsto no art. 83, III, b, do Código Penal, inserido pela Lei n. 13.964/2019, consistente no fato de o sentenciado não ter cometido falta grave nos últimos 12 meses, é pressuposto objetivo para a concessão do livramento condicional, e não limita a valoração do requisito subjetivo necessário ao deferimento do benefício, inclusive quanto a fatos ocorridos antes da entrada em vigor da Lei Anticrime".
+Assim posta a discussão, não se vislumbra ilegalidade no acórdão impugnado, em razão das peculiaridades do caso concreto que justificam o indeferimento do benefício, por ausência do requisito subjetivo.
+Ante o exposto, denego ohabeas corpus.
+Publique-se.
+Intimem-se.
