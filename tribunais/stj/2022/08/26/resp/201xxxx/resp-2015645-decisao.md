@@ -1,0 +1,51 @@
+DECISÃO
+Cuida-se de recurso especial interposto por NATANIEL DA SILVA NUNES fundamentado naalínea"c" do permissivo constitucional.
+Recurso especial interposto em: 16/05/2022.
+Concluso ao gabinete em: 29/07/2022.
+Ação: revisional de contrato bancário de financiamento de veículocom garantia de alienação fiduciáriaajuizada por NATANIEL DA SILVA NUNES em face de AYMORE CREDITO, FINANCIAMENTO E INVESTIMENTO S/A.
+Sentença: julgou improcedentes os pedidos.
+Acórdão: negou provimento à apelação interposta por NATANIEL DA SILVA NUNES, nos termos da seguinte ementa:
+"APELAÇÃO CÍVEL. AÇÃO REVISIONAL. ALIENAÇÃO FIDUCIÁRIA.BEM MÓVEL.CÓDIGO DE DEFESA DO CONSUMIDOR. APLICABILIDADE.APLICÁVEL O CDC AOS CONTRATOS BANCÁRIOS NOS TERMOS DA SÚMULA 297 DO EGRÉGIO SUPERIOR TRIBUNAL DE JUSTIÇA.. VEDADO O CONHECIMENTO DE OFÍCIO ACERCA DAS ABUSIVIDADES (SÚMULA N.º381 DO STJ) JUROS REMUNERATÓRIOS MANTIDOS. OS JUROS REMUNERATÓRIOS, NO CASO, NÃO SUPERAM SIGNIFICATIVAMENTE A TAXA MÉDIA PRATICADA PELO MERCADO. ABUSIVIDADE NÃO DEMONSTRADA.
+CAPITALIZAÇÃO MANTIDA. POSSÍVEL A CAPITALIZAÇÃO DE JUROS EM PERIODICIDADE INFERIOR À ANUAL, NOS TERMOS DA MEDIDA PROVISÓRIA N.º 2.170-36/2001, DESDE QUE EXPRESSAMENTE PACTUADA. ORIENTAÇÃO DO STJ, ORIUNDA DO RESP N.º973.827/RS E SÚMULA N.º539. CONSTITUCIONALIDADE DA MP 2.170-36/2001 RECONHECIDA PELO EGRÉGIO SUPREMO TRIBUNAL FEDERAL.
+CARACTERIZAÇÃO DA MORA. INEXISTENTE ABUSIVIDADE NOS ENCARGOS DO PERÍODO DA NORMALIDADE. CARACTERIZAÇÃO DA MORA, NOS TERMOS DOS RESPS. NºS 1.061.530/RS E 1.639.320/SP.
+SEGURO DE PROTEÇÃO FINANCEIRA. NÃO CONFIGURADA A VENDA CASADA, NO CASO. AUSÊNCIA DE PROVA ACERCA DA ARGUIDA COMPULSORIEDADE NA CONTRATAÇÃO. RUBRICA MANTIDA.
+COMPENSAÇÃO E REPETIÇÃO DO INDÉBITO. REQUERIMENTO PREJUDICADO ANTE A NÃO REVISÃO DO CONTRATO.
+TUTELA ANTECIPADA. INDEFERIMENTO. NÃO CONSTATADAABUSIVIDADE NOS ENCARGOS DA NORMALIDADE. AUSÊNCIA DOS REQUISITOS SEDIMENTADOS NO JULGAMENTO DO RESP.Nº1.061.530/RS AO DEFERIMENTO.
+APELAÇÃO CÍVEL DESPROVIDA." (fls. 177/178, e-STJ).
+Embargos de Declaração: opostos por NATANIEL DA SILVA NUNES, foram rejeitados.
+Recurso especial:alega divergência jurisprudencial entre o acórdão recorrido e precedentes desta Corte Superior no que diz respeito à interpretação e aplicação dos arts. 6º, 47, 46, 51, IV, § 1º, III, e 52, I a III, todos do CDC e do art. 28, § 1º, I, da Lei10.931/04.
+Sustenta, em síntese:i) a abusividade da taxa de juros remuneratórios cobrada pela instituição financeira, tendo em vista estaracimada taxa média praticada no mercado publicada pelo BACEN;ii) a ilegalidade da cobrança dacapitalização diária de juros, porquanto ausente a sua expressapactuaçãocom indicação da taxa diária aplicada; eiii) a descaracterização da mora ante oreconhecimento da abusividade nos encargos exigidos no período da normalidade contratual (juros remuneratórios e capitalização).
+RELATADO O PROCESSO, DECIDE-SE.
+- Julgamento: aplicação do CPC/2015.
+1. Dos juros remuneratórios (Súmula 568/STJ)
+O acórdão recorridoalinhou-se aoentendimento consolidado do STJ no sentido de que, para que se reconheça abusividade no percentual de juros, não basta o fato de a taxa contratada suplantar a média de mercado, devendo-se observar uma tolerância a partir daquele patamar, de modo que a vantagem exagerada, justificadora da limitação judicial, deve ficar cabalmente demonstrada em cada caso, à luz do caso concreto (AgInt no AREsp n. 1.942.512/RS, 4ª Turma, DJe de 10/3/2022; AgInt no AREsp n. 1.823.166/RS, 4ª Turma, DJe de 24/2/2022; AgInt no REsp n. 1.930.618/RS, 3ª Turma, DJe de 27/4/2022; e AgInt no AREsp n. 1.643.166/SP, 3ª Turma, DJe de 27/11/2020).
+Na hipótese dos autos, o Tribunal de origem concluiu que a taxa de juros remuneratórios pactuada é regular, não caracterizando abusividade.
+Aplica-se a Súmula 568/STJ na espécie.
+2. Da capitalização diária de juros (Súmula 568/STJ)
+A jurisprudência do STJ é no sentido de que a cobrança de juros capitalizados nos contratos de mútuo é permitida quando houver expressa pactuação.
+Especificamente em relação aos juros capitalizados com periodicidade inferior a um ano, qual seja a hipótese dos presentes autos, está em pleno vigor o entendimento de que: i) é permitida a capitalização de juros com periodicidade inferior a um ano em contratos celebrados após 31.3.2000, data da publicação da Medida Provisória n. 1.963-17/2000 (em vigor como MP 2.170-36/2001), desde que expressamente pactuada (Tema 246/STJ); e ii) a capitalização dos juros em periodicidade inferior à anual deve vir pactuada de forma expressa e clara. A previsão no contrato bancário de taxa de juros anual superior ao duodécuplo da mensal é suficiente para permitir a cobrança da taxa efetiva anual contratada (Tema 247/STJ). Nesse sentido: (REsp 973.827/RS, 2ª Seção, DJe 24/09/2012).
+No que se refere à capitalizaçãodiáriade juros e indicação da respectiva taxa, a 2ª Seção desta Corte Superior (REsp 1.826.463/SC, DJe de 29/10/2020) entende ser abusiva a cláusula contratual genérica de capitalização diária, sem informação acerca da taxa diária de juros remuneratórios, por dificultar a compreensão do consumidor acerca de seu alcance, o que configura descumprimento do dever de informação.
+Também nesse sentido está o REsp 1.568.290/RS (3ª Turma, DJe de 02/02/2016), no qual restou consignado que, diante da ausência de informação da taxa diária de juros, é descabida a incidência da capitalização diária, reputando cabível apenas a capitalização mensal.
+Destaque-se ainda: AgInt no AgInt no AREsp 1872355/SC, 3ª Turma, DJe de 25/11/2021; e AgInt no REsp 1.689.156/PR, 4ª Turma, DJe de 03/08/2021.
+Na espécie, o Tribunal de origem reconheceua legalidade da cobrança da capitalização diária de juros, tendo em vista a sua expressa pactuação contratual. Quanto ao ponto, o acórdão recorrido fundamentou-senos seguintes termos:
+"Dessa forma, considerando-se que o contrato prevê expressamente a capitalização (cláusulas M e N - CONTRA9- evento 1) e foi celebrado em data posterior à vigência da referida MP, permite-se a capitalização dos juros em periodicidade inferior à anual, não havendo ilegalidade a corrigir" (fl. 173, e-STJ).
+A confirmar mencionada pactuação, oacórdão que julgou os embargos de declaração assim esclareceu:
+"Apenas para que a questão não fique aqui sem enfrentamento, vale mencionar que a capitalização foi amplamente analisada, sendo que o contrato prevê expressamente a capitalização diária dos juros na cláusula M - Promessa de Pagamento. Os parâmetros estabelecidos pelo egrégio STJ são claros ao permitir a capitalização em periodicidade inferior à anual, não estabelecendo que essa deva ser mensal. Nada a alterar no decisum embargado, portanto." (fl. 203, e-STJ).
+Desse modo, encontrando-se o entendimento do Tribunal de origem em perfeita harmonia com a atual jurisprudência desta Corte Superior sobre o tema, aplica-se a Súmula 568/STJ no particular.
+3. Da divergência jurisprudencial - Deficiência de fundamentação
+Daanálise dos autos, verifica-se que arecorrentenão alegaviolação clara e específica de qualquer dispositivo infraconstitucionala que se teria dado interpretação divergente pelo acórdão recorrido quanto à descaracterização da mora.
+Incide, na hipótese, a Súmula 284/STF.
+Nesse sentido: AgRg no REsp 1.579.618/PR, 3ª Turma, DJe de 01/07/2016; AgRg no REsp 1.283.930/SC, 4ª Turma, DJe de 14/06/2016; e, AgRg no REsp 1.346.588/DF, Corte Especial, DJe de 17/03/2014.
+Forte nessas razões, com fundamento no art. 932, III e IV, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC/2015, considerando o trabalho adicional imposto ao advogado da parte recorrida em virtude da interposição deste recurso, majoro os honorários fixados em 5% sobre o valor atualizado da causa devidos pelarecorrente.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL.AÇÃO REVISIONAL. CONTRATO DE FINANCIAMENTO COM GARANTIA DE ALIENAÇÃO FIDUCIÁRIA. JUROS REMUNERATÓRIOS. CAPITALIZAÇÃO DIÁRIA DE JUROS. HARMONIAENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA 568/STJ. DESCARACTERIZAÇÃO DA MORA.NÃO INDICAÇÃO DO DISPOSITIVO LEGAL COM INTERPRETAÇÃO DIVERGENTE. SÚMULA 284/STF.
+1. Açãorevisional de contrato bancário de financiamento de veículo com garantia de alienação fiduciária.
+2.Os juros remuneratórios incidem à taxa média de mercado em operações da espécie, apurados pelo Banco Central do Brasil, quando verificada pelo Tribunal de origem a abusividade do percentual contratado. Precedente Repetitivo da 2ª Seção.
+3.Para que se reconheça abusividade no percentual de juros, não basta o fato de a taxa contratada suplantar a média de mercado, devendo-se observar uma tolerância a partir daquele patamar, de modo que a vantagem exagerada, justificadora da limitação judicial, deve ficar cabalmente demonstrada em cada caso, à luz do caso concreto. Precedentes.
+4. É permitida a capitalização de juros com periodicidade inferior a um ano em contratos celebrados após 31.3.2000, data da publicação da Medida Provisória n. 1.963-17/2000 (em vigor como MP 2.170-36/2001), desde que expressamente pactuada (Tema 246/STJ); e a capitalização dos juros em periodicidade inferior à anual deve vir pactuada de forma expressa e clara. A previsão no contrato bancário de taxa de juros anual superior ao duodécuplo da mensal é suficiente para permitir a cobrança da taxa efetiva anual contratada (Tema 247/STJ). Precedentes.
+5.No que se refere à capitalização diária de juros, é abusiva a cláusula contratual genérica de capitalização diária, sem informação acerca da taxa diária de juros remuneratórios, por dificultar a compreensão do consumidor acerca de seu alcance, o que configura descumprimento do dever de informação.
+6. Não se conhece do recurso especial quando ausente a indicação expressa do dispositivo legal a que se teria dado interpretação divergente. Súmula 284/STF.
+7. Recurso especial parcialmente conhecido e não provido.
