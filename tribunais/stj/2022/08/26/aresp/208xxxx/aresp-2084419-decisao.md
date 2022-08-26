@@ -1,0 +1,58 @@
+DECISÃO
+RAQUEL RAMOS SILVEIRA DA ROSA(RAQUEL) ajuizou ação de rito ordinário contraCAIXA DE PREVIDÊNCIA DOS FUNCIONÁRIOS DO BANCO DO BRASIL (PREVI) e BANCO DO BRASIL S.A., buscando a revisão de seu benefício previdenciário complementar.
+A sentença julgou improcedenteopedidoinicial(e-STJ, fls. 961/976).
+RAQUEL apelou.
+O Tribunal de Justiça do Distrito Federal e dos Territórios deu parcial provimento aoapelo, parajulgar parcialmente procedentes os pedidos iniciais,em acórdão assim ementado:
+APELAÇÃO CÍVEL. REVISÃO DE BENEFÍCIO PREVIDENCIÁRIO. ACRÉSCIMO DE HORAS EXTRAS DEFERIDAS PELA JUSTIÇA DO TRABALHO. RESP. 1.312.736/RS. RITO DOS RECURSOS REPETITIVOS. MODULAÇÃO DE EFEITOS. AÇÃO AJUIZADA ANTES DO JULGAMENTO DO STJ. POSSIBILIDADE DE REVISÃO. REQUISITOS VERIFICADOS.NECESSIDADE DE RECOMPOSIÇÃO PRÉVIA E INTEGRAL DAS RESERVAS MATEMÁTICAS DA ENTIDADE DE PREVIDÊNCIA COMPLEMENTAR. PATROCINADOR CONSIDERADO PARTE ILEGÍTIMA POR DECISÃO TRANSITADA EM JULGADO. APORTE A SER VERTIDO PELA PARTICIPANTE. COMPENSAÇÃO. POSSIBILIDADE. SENTENÇA REFORMADA.
+1. Ao julgar o REsp. 1.312.736/RS, sob o rito dos recursos repetitivos (Tema 955), o STJ firmou a tese principal de que "quando já concedido o benefício de complementação de aposentadoria por entidade fechada de previdência privada, é inviável a inclusão dos reflexos das verbas remuneratórias (horas extras) reconhecidas pela Justiça do Trabalho nos cálculos da renda mensal inicial dos benefícios de complementação de aposentadoria".
+2. No entanto, para as ações ajuizadas na Justiça Comum antes do julgamento do acórdão paradigma, o STJ modulou os efeitos da decisão para determinar que, "ainda sendo útil ao participante ou assistido, conforme as peculiaridades da causa, admite-se a inclusão dos reflexos de verbas remuneratórias (horas extras), reconhecidas pela Justiça do Trabalho, nos cálculos da renda mensal inicial dos benefícios decomplementação de aposentadoria, condicionada à previsão regulamentar (expressa ou implícita) e à recomposição prévia e integral das reservas matemáticas com o aporte de valor a ser apurado por estudo técnico atuarial em cada caso".
+3. Cabível a revisão pleiteada, visto que comprovada utilidade ao requerente e a previsão no Regulamento do Plano de Benefícios. Porém, faz-se necessária a realização prévia e integral do aporte devido para recompor as reservas matemáticas da entidade de previdência complementar, vedada a compensação com os valores a serem recebidos após o reajuste.
+4. Somente um estudo técnico atuarial específico é capaz de apurar o valor necessário para a recomposição das reservas matemáticas do ente previdenciário, não sendo suficiente o mero cálculo aritmético fruto da atualização de contribuições previdenciárias já recolhidas na Justiça Trabalhista.
+5. Verificado o trânsito em julgado da decisão que considerou o patrocinador parte ilegítima e o extinguiu do processo, cabe à autora/participante desembolsar a quantia necessária para a recomposição das reservas da entidade previdenciária.
+6. Em caso de eventual desembolso de valores pela participante, a apuração dos danos materiais deverá ser feita em ação indenizatória própria, a ser proposta na Justiça Comum.
+7. De acordo com entendimento firmado pelo STJ, nos autos dos Embargos de Divergência no Recurso Especial nº 1.557.698/RS, após apurado em liquidação de sentença o montante a ser aportado pelo participante para revisão do benefício previdenciário, eventual diferença deve ser compensada com os valores a que faz jus.
+8. Ainda que se reconheça o impacto das horas extras sobre o Benefício Especial Temporário (BET), impõe- se a improcedência do pedido de revisão formulado contra a entidade de previdência privada, em virtude da ausência de fonte de custeio das diferenças pleiteadas, já que se esgotaram as reservas destinadas para seu pagamento, pois oriundas de sucessivos resultados superavitários. Ao ex-empregador, por outro lado, é impossível impor tal encargo por não compor o polo passivo da demanda.
+9. Preliminares rejeitadas. Recurso parcialmente provido(e-STJ, fls. 1.169/1.170).
+Irresignada, a PREVI manifestou recurso especial com fulcro no art. 105, III,a, da CF, sustentandoviolação aos arts.(i)368 e 369, ambos do CC/02; (ii)17, parágrafo único, e 18, caput e §3º, ambos da Lei Complementar nº109/01; (iii)85, caput e §2º, do NCPC(e-STJ, fls. 1.211/1.235).
+O apelo nobre não foi admitido em virtude (1)da incidência das Súmulas nºs 7 e 83, ambas do STJ; e (2) de o acórdão recorrido estar emconsonância com as teses fixadas nojulgamentodo REsp 1.312.736/RS, sob o rito dos repetitivos(Tema955)  e-STJ, fls. 1.254/1.257 .
+A PREVI então manejou o presente agravo em recurso especial, em cujas razões, além de reiterar o seu apelo nobre, aduziu que (a) não há que se falar em reexame da prova; e (b)merece reforma a r. Decisão ao considerar o óbice do enunciado da Súmula 83 do Col. STJ, uma vez que o v.Acórdão contraria os termos do REsp 1.312.736/RS, bem comoo que se verifica dos autos é que houve violação a dispositivo de Lei Federal, no que se infere cabível a interposição do Recurso Especial aviado, em consonância com o que preconiza a Constituição Federal de 1988(e-STJ, fls. 1.264/1.285 e 1.350/1.351).
+Acontraminuta foi apresentada (e-STJ, fls. 1.359/1.361).
+É o relatório.
+DECIDO.
+O inconformismo não merece conhecimento.
+De plano, vale pontuar que o presente recurso foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Consoante pacífico entendimento desta Corte, o agravante deve infirmar especificamente todos os fundamentos da decisão agravada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo, não cabendo a impugnação genérica ou a reiteração das razões expostas no recurso especial.
+Da leitura das razões recursais, observo que o inconformismo não se dirigiu de forma específica contra todos os fundamentos da decisão agravada, poisa PREVI não infirmou devidamente os seus esteios, deixando de refutar a incidência daSúmulanº83 do STJ, ao caso.
+Como se sabe,não basta, para afastar o óbice da Súmula nº 83/STJ, a alegação genérica de que o acórdão recorrido não está em consonância com a jurisprudência desta Corte, devendo a parte recorrente demonstrar que outra é a positivação do direito na jurisprudência desta Corte, com a indicação de precedentes contemporâneos ou supervenientes aos referidos na decisão agravada(AgRg no AREsp 238.064/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, DJe 18/8/2014).
+Na espécie, a PREVI deixou dedemonstrarque outra é a positivação do direito na jurisprudência destaCorte, com aindicação de precedentes contemporâneos ou supervenientes aosreferidos nadecisão agravada, qual seja: AgInt no REsp 1.483.278/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, DJe 15/4/2021.
+Assim, não tendo o recurso impugnado especificamente todos os fundamentos da decisão recorrida, é o caso de incidir o art. 932, III, do NCPC.
+A propósito, vejam-se os seguintes julgados:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. ADMISSIBILIDADE. IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. PRINCÍPIO DA DIALETICIDADE. ENFRENTAMENTO DA QUESTÃO SEM MENÇÃO EXPRESSA AO NÚMERO DO ENUNCIADO DA SÚMULA. POSSIBILIDADE. COMPETÊNCIA PARA JULGAMENTO DE AÇÃO DE REPARAÇÃODE DANOS MORAIS. LUGAR DO FATO. REPRESENTAÇÃO PERANTE O CONSELHO NACIONAL DE JUSTIÇA.
+1. Para a satisfação do princípio da dialeticidade, as razões do recurso devem demonstrar o desacerto dos fundamentos da decisão recorrida, independentemente de rígidas formalidades. Assim, não basta, meramente, alegar que não incide a súmula 83, se não houver demonstração de que a jurisprudência do STJ não está consolidada no sentido da decisão recorrida. O princípio é atendido, todavia, mesmo sem a alegação expressa de não incidir a súmula 83, mas sendo demonstrado que a jurisprudência do STJ conforta a tese da parte recorrente.
+2.  ..
+3. Agravo interno provido. Acolhimento da exceção de incompetência.
+(AgInt no AREsp 1.106.545/MA, Rel. Ministro MARCO BUZZI, Rel. p/ Acórdão Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 22/5/2018, DJe 15/6/2018 - sem destaque no original)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. CITAÇÃO POR OFICIAL DE JUSTIÇA. JUNTADA DO MANDADO CITATÓRIO DEVIDAMENTE CUMPRIDO AOS AUTOS. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA83/STJ. ATO DE JUNTADA INSERIDO POR SERVENTUÁRIO DA JUSTIÇA. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1.  ..
+2. Para infirmar a aplicação da Súmula n. 83 do STJ, a recorrente deveria ter demonstrado que as razões de decidir do acórdão recorrido estariam em discordância com o entendimento desta Corte, por meio de julgados recentes, o que não foi feito na hipótese.
+3.  ..
+4. Agravo interno improvido.
+(AgInt no AREsp 1.155.442/MG, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 5/12/2017, DJe 15/12/2017 - sem destaque no original)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO RECORRIDA QUE MANTEVE A INADMISSÃO DO RECURSO ESPECIAL. APLICAÇÃO, POR ANALOGIA, DA SÚMULA 182/STJ. PRINCÍPIO DA DIALETICIDADE, QUE IMPÕE O ATAQUE ESPECÍFICO AOS FUNDAMENTOS. PLEITO DE REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. SÚMULA7/STJ. FALTA DE PREQUESTIONAMENTO NÃO REBATIDO.MANUTENÇÃO DA DECISÃO ORA AGRAVADA. RECURSO NÃO PROVIDO.
+1. O agravo em recurso especial que objetiva conferir trânsito ao recurso especial obstado na origem reclama, como requisito objetivo de admissibilidade, a impugnação específica aos fundamentos utilizados para a negativa de seguimento do apeloextremo, ônus do qual não se desincumbiu a parte insurgente.Aplicação, por analogia, da Súmula 182/STJ.
+3.  ..
+4. Agravo interno não provido.
+(AgInt no AREsp 964.429/SP, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, DJe 16/9/2016 - sem destaque no original)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. ADMISSIBILIDADE. AUSÊNCIA DE IMPUGNAÇÃOESPECÍFICA DADECISÃO AGRAVADA. ART. 544, § 4º, I, DO CÓDIGO DE PROCESSO CIVIL.
+1. Incumbe ao agravante infirmar especificamente todos os fundamentos da decisão agravada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo (art. 544, § 4º, I,do CPC).
+2.  ..
+3. Agravo regimental não provido.
+(AgRg no AREsp 238.064/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, DJe 18/8/2014 - sem destaque no original)
+Nessas condições,NÃO CONHEÇOdo agravo.
+Considerando a aplicabilidade das regras do NCPC e o não conhecimento dorecurso,MAJOROem 5% o valor dos honorários advocatícios anteriormente fixados em favor de RAQUEL, limitados a 20%, nos termos do art. 85, § 11, do NCPC.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se.
+Intimem-se.
+EMENTA
+PROCESSUAL CIVIL.AGRAVO EM RECURSO ESPECIAL MANEJADO SOB A ÉGIDE DO NCPC.RECURSO QUE NÃO INFIRMA TODOS OS FUNDAMENTOS DA DECISÃO QUE NÃO ADMITIU O APELO NOBRE NA ORIGEM. INCIDÊNCIA DO ART. 932, III, DO NCPC.AGRAVO NÃO CONHECIDO.
