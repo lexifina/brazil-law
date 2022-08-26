@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de PERICLES DE SOUZA CRISPIM apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO (HC n. 041818-29.2020.8.19.0000 - relator o Desembargador CLAUDIO TAVARES DE OLIVEIRA JUNIOR).
+Consta dos autos que o paciente foi "preso em flagrante no dia 15/5/2020, e sua prisão foi convertida em custódia preventiva, pela prática dos delitos tipificados nos artigos 121, §2º, I e VI, c/c o §7º, II, do Código Penal  homicídio qualificado  e 12 da Lei nº 10.826/03  posse ilegal de arma de fogo de uso permitido " (e-STJ fl. 27).
+De acordo com o decreto prisional (e-STJ fls. 56/57):
+Segundo apurado, durante uma briga, o custodiado teria executado a vítima fatal com disparos de arma de fogo.
+Após o crime, a polícia militar compareceu ao local e logrou êxito em captar o custodiado ainda no local dos fatos.
+Equipes da Delegacia de Homicídios compareceram ao local do crime, oportunidade em que realizaram a perícia criminal, bem como apreenderam uma arma de fogo do tipo revólver, calibre 22 e uma faca de cozinha suja de sangue, estes próximos ao corpo da vítima fatal.
+Após a realização da perícia criminal, o custodiado foi conduzido à delegacia e confessou a prática do crime, informando que havia descoberto uma traição da vítima fatal e estava sendo ameaçado por ela.
+Conforme narrado, por causa destas ameaças o custodiado havia comprado clandestinamente um revólver calibre 22.
+Por fim, o custodiado informou que, durante uma discussão, a vítima tentou esfaqueá-lo sem sucesso, razão pela qual foi obrigado a sacar seu revolver e efetuar disparos na direção da vítima que, sem receber atendimento médico, morreu no interior da residência.
+Apesar da alegação de legítima defesa, a perícia criminal realizada no local constatou que a vítima foi alvejada com disparo de arma efetuado a curta distância, entre a orelha e a nuca, compatível com a hipótese de execução.
+Buscando a reversão do cárcere, a defesa impetrou prévio writ no Tribunal de origem, que denegou a ordem. Eis a ementa do acórdão proferido (e-STJ fls. 24/27):
+HABEAS CORPUS. PRISÃO EM FLAGRANTE. CRIMES DE HOMICÍDIO E POSSE ILEGAL DE ARMA DE FOGO. ARTIGOS 121, §2º, I E VI, C/C §7º, II, DO CÓDIGO PENAL E 12 DA LEI Nº 10.826/03, N/F 69 DO CP. ALEGAÇÃO DE FALTA DE FUNDAMENTAÇÃO DO DECRETO PRISIONAL E DE RISCO À SAÚDE DO PACIENTE, EM DECORRÊNCIA DA DISSEMINAÇÃO DO NOVO CORONAVÍRUS. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. DENEGAÇÃO DA ORDEM.
+Consoante se afere dos documentos que instruem a inicial, o paciente Péricles foi preso em flagrante delito, no dia 15 de maio de 2020, no interior da sua residência, após desferir disparos de arma de fogo e golpes de faca contra sua companheira, que contava com 67 anos de idade, causando-lhe lesões corporais que a levaram a óbito. O crime foi cometido por motivo torpe, tendo em vista uma suposta traição praticada pela vítima. A peça exordial acusatória narra, ainda, que em dezembro de 2019, o denunciado adquiriu uma arma de fogo de uso permitido - um revólver Rossi calibre 22 - e a mantinha na sua posse, irregularmente, até o dia do crime de homicídio.
+Em decisão datada de 17/5/2020, a autoridade coatora converteu a prisão em flagrante em preventiva e, no recebimento da denúncia, o Juízo designou audiência de instrução e julgamento para 3/11/2020.
+Regularmente citado, o réu apresentou a resposta à acusação em 3/7/2020.
+Infere-se dos autos que não há elementos concretos e capazes de infirmar a legalidade da custódia do acusado.
+Ao contrário do que se sustentam as ilustres impetrantes, o decreto prisional está, adequadamente, fundamentado e ancorado na existência de indícios suficientes de autoria e prova da materialidade do crime que foi imputado ao paciente, consoante os documentos e declarações colhidos em sede policial, configurando o fumus comissi delicti.
+Da mesma forma, resta patente o periculum libertatis, diante das circunstâncias do caso em apreço, com vistas à garantia da ordem pública e da instrução criminal, evitando-se perturbações no âmbito probatório do processo, especialmente, por ocasião da oitiva das testemunhas de acusação, na primeira fase do procedimento do Júri.
+No caso em análise, como bem ressaltado no decisum de primeiro grau, o réu, após efetuar disparos de arma de fogo contra a ofendida, não acionou o socorro médico, a fim de tentar impedir a sua morte. Além disso, destacou o Juízo, que a perícia criminal, realizada no local do crime, constatou que a vítima foi alvejada com um tiro à curta distância, entre a orelha e a nuca, o que é compatível com a hipótese de execução.
+Registre-se, ainda, que a constatação de primariedade, bons antecedentes ou eventual comprovação de residência fixa, não constitui, isoladamente, motivo a ensejar a liberdade provisória, que deve ser analisada em cotejo com os demais elementos de prova nos autos.Precedentes.
+No que tange às alegações acerca da pandemia provocada pelo novo coronavírus, importa destacar que a situação emergencial de saúde, quanto ao Covid-19, por si só, não representa motivação idônea para a concessão de liberdade provisória ou de prisão domiciliar do paciente, devendo-se, também, ponderar a gravidade do delito em análise, tratando-se de conduta praticada no âmbito doméstico e de extrema violência.
+Inobstante a Recomendação nº 62 do CNJ, o STJ tem decidido que a situação de saúde de cada preso deverá ser avaliada, individualmente, pelo Juízo da Execução.
+Embora o réu esteja com sessenta e oito anos de idade, a petição inicial não foi instruída com documentos que indicassem, de plano, ser ele portador de alguma condição especial, qual seja, comorbidade grave, capaz de incluí-lo no grupo de risco.
+Vale acrescentar, inclusive, que, em razão da constante superlotação nos presídios, com a edição da Resolução Conjunta SES/SEAP nº 736 de 16 de março de 2020, as Secretarias de Estado e de Administração Penitenciária estipularam recomendações de prevenção e controle das unidades prisionais do Estado do Rio de Janeiro, com vistas a minimizar o risco da disseminação do vírus nos referidos estabelecimentos.
+Em que pese a irresignação da defesa, diante das circunstâncias em que se deram os fatos, não se afigura razoável a imposição de alguma das medidas cautelares previstas no artigo 319 do Código de Processo Penal, cuja aplicação somente se justifica na hipótese da segregação cautelar não se mostrar extremamente necessária.
+Assim, da análise do decisum impetrado, conclui-se que a prisão preventiva encontra-se, devidamente, fundamentada, em harmonia com o artigo 93, inciso IX, da Constituição da República, restando demonstrada a necessidade da custódia cautelar, diante da presença dos pressupostos ínsitos no artigo 312 do Código de Processo Penal.
+DENEGAÇÃO DA ORDEM.
+Nesta instância, a defesa alega carecer de fundamentação idônea a manutenção da prisão preventiva do agente.
+Ademais, defende a necessidade de aplicação de "uma medida restritiva mais branda em razão da pandemia do Covid-19,  pois  o Paciente está na faixa de pessoas de risco, em face da sua idade, maior de 60 (sessenta) anos ( possui 70 anos de idade e nenhuma anotação em sua FAC, exceto o feito originário)" - e-STJ fl. 4.
+Aduz, ainda, que o réu já se encontra custodiado há mais de 90 dias sem ter a necessidade da sua prisão reavaliada (e-STJ fl. 20).
+Por fim, ressalta que "o Paciente é advogado, o que atrai a prerrogativa de prisão em sala de Estado Maior" (e-STJ fl. 18), o que não estaria sendo atendido pelas instância ordinárias.
+Assim, requer seja concedida (e-STJ fls. 22/23):
+a) LIMINAR para que o Paciente aguarde o julgamento do presente Habeas Corpus em liberdade, expedindo-se o alvará de soltura b) NO MÉRITO, pede a concessão da ordem para revogar a prisão preventiva, reconhecendo-se ao Paciente o direito de responder ao processo em liberdade, ou que sejam aplicadas as medidas cautelares diversas da prisão, expedindo-se alvará de soltura (vide HC 358.077/PB).
+c) SUBSIDIARIAMENTE,  ..  pede-se a concessão da ordem para que o Juízo de primeiro grau reavalie a prisão preventiva, nos termos do art. 4 da Recomendação nº62 CNJ (vide HC nº 570.051/SP). E se ainda assim, considerar imperiosa manutenção da prisão preventiva, que seja determinada o encaminhamento do Paciente a sala de Estado Maior, e na sua ausência seja determinada a prisão domiciliar.
+Liminar indeferida às e-STJ fls. 107/110.
+Prestadas as informações, o Ministério Público Federal opinou pelo não conhecimento da ordem (e-STJ fls. 163/169).
+É o relatório.
+Decido.
+Pois bem. Informações extraídas do endereço eletrônico do Tribunal de origem noticiam a superveniência, em 23/11/2021, de decisão de pronúncia em desfavor do paciente.
+Assim, fica sem objeto este writ, em razão da superveniência de novo título a embasar a custódia, não submetido a pronunciamento do Tribunal de origem.
+A propósito:
+AGRAVO REGIMENTAL. RECURSO EM HABEAS CORPUS. PRISÃO PREVENTIVA. SUPERVENIÊNCIA DE SENTENÇA DE PRONÚNCIA.NOVO TÍTULO.
+1. A superveniente sentença de pronúncia é novo título judicial, apto a prejudicar o exame sobre eventual insuficiência na fundamentação da decisão que decretou a prisão preventiva.
+2. A diversidade dos títulos prisionais, um decorrente de decisão in limine littis, que convola o flagrante em preventiva; e outro que decorre da prolação da sentença de pronúncia, impede o prosseguimento da marcha do inconformismo, sendo irrelevante a manutenção, ou não, dos fundamentos da primeva decisão. (RHC n. 71.692/GO, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 22/6/2016).
+3. Agravo regimental improvido.
+(AgRg no HC 363.643/AL, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 11/10/2016, DJe 04/11/2016.)
+Ante o exposto, com base no art. 34, inciso XX, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente habeas corpus.
+Publique-se. Intimem-se.
