@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no art. 105, inc. III, "a", da Constituição Federal, contra acórdão proferido pelo TJPR assim ementado (fl. 20):
+APELAÇÃO CÍVEL. EXECUÇÃO FISCAL. AUSÊNCIA DE CITAÇÃO. EXTINÇÃO DIANTE DA INFORMAÇÃO DE QUITAÇÃO DO DÉBITO NA ESFERA ADMINISTRATIVA. CONDENAÇÃO DO MUNICÍPIO AO PAGAMENTO DAS CUSTAS PROCESSUAIS. PRETENSÃO DE INVERSÃO DO ÔNUS SUCUMBENCIAL. IMPOSSIBILIDADE. AUSÊNCIA DE TRIANGULARIZAÇÃO PROCESSUAL. DEVEDOR NÃO CITADO. MANUTENÇÃO DA SENTENÇA. RECURSO DESPROVIDO.
+O recorrente alega violação do art. 90 do CPC/2015, sob os seguintes argumentos: a) mesmo constatando que a execução foi extinta em virtude do pagamento, o juízo a quo condenou o Município ao pagamento de custas processuais, mas tal decisão carece totalmente de fundamento legal, pois não cabe ao ente municipal fiscalizar o pagamento de custas processuais; b) tendo o pagamento sido realizado administrativamente posteriormente ao ajuizamento da execução fiscal, cabe ao executado arcar com as custas processuais, tendo em vista que foi ele que deu causa a instauração da execução fiscal; c) segundo o princípio da causalidade as despesas processuais devem ser arcadas por aquele que se comportou de forma a tornar necessária a instauração do processo.
+Sem contrarrazões.
+Juízo positivo de admissibilidade às fls. 32-34.
+É o relatório. Passo a decidir.
+Consigna-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele prevista, conforme Enunciado Administrativo n. 3/2016/STJ.
+O recorrente, ao indicar ofensa ao art. 90 do CPC/2015 e direcionar a sua tese no sentido de que segundo o princípio da causalidade as despesas processuais devem ser arcadas por aquele que se comportou de forma a tornar necessária a instauração do processo - no caso, o contribuinte-recorrido -, deixou de impugnar os fundamentos do acórdão recorrido segundo os quais: a) a ausência de triangularização processual impede a condenação do executado ao pagamento das custas processuais, pois sem a ciência do devedor acerca da propositura da demanda, não há como lhe imputar tal ônus; b) quando ocorre o pagamento do débito tributário na via administrativa, após o ajuizamento da execução, incumbe ao Município, sendo o caso, fazer inserir na cobrança o valor correspondente às custas processuais.
+A referida fundamentação, por si só, mantém o resultado do julgamento ocorrido na Corte de origem e torna inadmissível o recurso que não a impugnou. Incide à hipótese a Súmula 283/STF.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ART. 90 DO CPC/2015. ACÓRDÃO COM FUNDAMENTOS AUTÔNOMOS NÃO IMPUGNADOS. SÚMULA 283/STF. RECURSO ESPECIAL NÃO CONHECIDO.
