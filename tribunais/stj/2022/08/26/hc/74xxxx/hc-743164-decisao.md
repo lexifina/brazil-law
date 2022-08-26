@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor deWELTON CELSO GONCALES, no qual se indica como autoridade coatora o TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, prolator de acórdão assim ementado (e-STJ, fls. 32-38):
+"HABEAS CORPUS. LIBERDADE PROVISÓRIA. MEDIDAS CAUTELARES. FISCALIZAÇÃO. MONITORAMENTO ELETRÔNICO. POSSIBILIDADE. CONSTRANGIMENTO ILEGAL. NÃO OCORRÊNCIA.
+1. Mostra-se adequada a utilização do monitoramento eletrônico para a fiscalização do cumprimento de medidas cautelares alternativas como recolhimento domiciliar no período noturno e nos dias de folga.
+2. Não está na esfera de disponibilidade do autuado a escolha acercado método de controle para cumprimento das condições impostas à concessão da liberdade provisória.
+3. Ordem de habeas corpus denegada".
+Em suas razões, a parte impetrante alega ser ilegal o monitoramento eletrônico determinado pelas instâncias ordinárias. Afirma que "o MM Juiz a quo, fixou como medida cautelar a colocação da tornozeleira eletrônica, mas não fundamentou a necessidade de tal medida, pois, o paciente é primário, tem residência fixa e família constituída na cidade de Umuarama - PR" (e-STJ, fl. 24).
+Liminar indeferida às fls. 137-138 (e-STJ) e informações prestadas às fls. 153-170 (e-STJ).
+Ouvido, o MPF manifestou-se pela denegação da ordem (e-STJ, fls. 177-178).
+É o relatório.
+Decido.
+Esta Corte - HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 - pacificaram orientação de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Nesse contexto, passo ao exame das alegações trazidas pela defesa, a fim de verificar a ocorrência de manifesto constrangimento ilegal que autorize a concessão da ordem, de ofício.
+Ao deliberar pela legalidade da medida cautelar aplicada - monitoramento eletrônico, o Tribunal de origem o fez nos seguintes termos:
+"Da sua análise, não se verifica flagrante constrangimento ilegal ao status libertatis do paciente, tendo o juízo impetrado fundamentado devidamente a imposição do monitoramento eletrônico na hipótese ora em comento.
+Com efeito, como bem salientado pela autoridade inquinada de coatora, o monitoramento eletrônico se faz necessário para fins de fiscalização das demais medidas cautelares aplicadas aos autuados, especialmente no que concerne ao recolhimento domiciliar noturno de segunda a sexta-feira, feriados e fins de semana.
+ .. .
+Outrossim, diversamente do que a defesa quer fazer crer, o Princípio da Isonomia não restou violado, uma vez que a determinação de monitoramento eletrônico foi igualmente aplicada aos demais corréus (após a soltura dos investigados, estes, no prazo de 2 (dois) dias, deverão entrar em contato com a Secretaria desta 1ª Vara Federal, para instalação da tornozeleira eletrônica).
+Nessa mesma linha de entendimento, aliás, o parecer do Ministério Público Federal, da lavra do Procurador Regional da República, Dr. João Carlos Carvalho Rocha, in verbis (evento 10, PARECER_MPF1):
+ .. .
+Nesse contexto, impositiva a denegação da ordem" (e-STJ, fls. 37-38).
+Como se vê, está evidenciada a idoneidade da fundamentação utilizada na origem para a manutenção da medida cautelar de monitoramento eletrônico, não havendo falar, portanto, em existência de flagrante ilegalidade que justifique a concessão da ordem de ofício, na medida em que se encontra devidamente fundamentada, pois "se faz necessário para fins de fiscalização das demais medidas cautelares aplicadas aos autuados, especialmente no que concerne ao recolhimento domiciliar noturno de segunda a sexta-feira, feriados e fins de semana" (e-STJ, fl. 37). Exemplificativamente, cito o seguinte precedente:
+"PROCESSO PENAL. RECURSO EM HABEAS CORPUS. EMBRIAGUEZ AO VOLANTE E DIREÇÃO DE VEÍCULO AUTOMOTOR SEM HABILITAÇÃO. PRISÃO EM FLAGRANTE PELA GUARDA MUNICIPAL. LEGALIDADE. MANIFESTAÇÃO DA DEFESA EM AUDIÊNCIA DE CUSTÓDIA. SUPRESSÃO DE INSTÂNCIA. MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. PROPORCIONALIDADE E ADEQUAÇÃO. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. RECURSO PARCIALMENTE CONHECIDO E DESPROVIDO.
+1. "É assente nesta Corte Superior de Justiça a orientação de que os integrantes da guarda municipal não desempenham a função de policiamento ostensivo; todavia, em situações de flagrante delito, como restou evidenciado ser o caso, a atuação dos agentes municipais está respaldada no comando legal do art. 301 do Código de Processo Penal" (HC 471.229/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 19/2/2019, DJe 1º/3/2019).
+2. Questões não debatidas pelo Tribunal de origem no julgamento do writ originário impedem o conhecimento por este Tribunal Superior, sob pena de indevida supressão de instância, consoante pacífico entendimento desta Corte.
+3. A verificação acerca da não realização do exame de corpo de delito, em contraposição à assertiva do Tribunal de origem, demandaria revolvimento fático-probatório, o que é inviável na via do recurso em habeas corpus.
+4. A questão relacionada à desproporcionalidade da fiança imposta pela autoridade policial está superada com a concessão da liberdade provisória pelo juiz, mediante a imposição de outras medidas cautelares.
+5. Nos termos do art. 282 do CPP, as medidas cautelares de natureza pessoal, na medida em que restringem a liberdade de locomoção, deverão ser impostas, isolada ou cumulativamente, quando necessárias para aplicação da lei penal, para a investigação ou a instrução criminal ou, nos casos expressamente previstos, para evitar a prática de infrações penais, devendo ser observada a adequação da medida à gravidade do crime, às circunstâncias do fato e às condições pessoais do indiciado ou acusado.
+6. In casu, o uso da tornozeleira eletrônica justifica-se como medida de fiscalização do cumprimento das outras medidas imposta ao ora recorrente - como o recolhimento domiciliar -, diante de suas condições pessoais, tendo em vista que ele é reincidente específico no crime de embriaguez na direção de veículo automotor, condenado duas vezes por sentença transitada em julgado, e, inclusive, estava em cumprimento de pena quando foi, novamente, preso em flagrante.
+7. Recurso parcialmente conhecido e desprovido.
+(RHC n. 137.123/MG, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 24/8/2021, DJe de 30/8/2021.)
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do habeas corpus.
+Publique-se. Intimem-se.
