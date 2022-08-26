@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de embargos de declaração (e-STJ fls. 383/386) opostos por CAIXA ECONOMICA FEDERALà decisão de fls. 378/381 e-STJ, que conheceu parcialmente para, nessa extensão, dar provimento ao recurso especial interposto pela parte embargada.
+Em suas razões, aembargante alega que a decisão embargada é contraditória, pois, embora tenha conhecido apenas parcialmente do apelo nobre da parte adversa, a condenou ao pagamento da totalidade dos ônus sucumbenciais.
+Além disso, argumenta que a regra prevista no §2º do art. 85 do CPC/2015 é clara ao determinar que os honorários deverão observar o valor da condenação e do proveito econômico obtido, "somente sendo utilizado o valor da causa como critério quando tais premissas não puderem ser mensuradas" (fl. 384 e-STJ).
+Impugnação anexada às fls. 388/390e-STJ.
+É o relatório.
+DECIDO.
+Não colhe a inconformidade veiculada nos presentes aclaratórios.
+A decisão embargada não padece de nenhum dos vícios ensejadores dos embargos declaratórios, enumerados no artigo 1.022 do Código de Processo Civil de 2015: obscuridade, contradição, omissão ou erro material.
+Com efeito, a decisão embargada é suficientemente clara ao consignar que a sucumbência deve ser integralmente suportada pela ora embargante.
+Como se sabe, "a contradição que enseja o acolhimento dos embargos de declaração é a interna, em que se constata uma inadequação lógica entre a fundamentação posta e a conclusão adotada"(EDcl no REsp n. 1.993.772/PR, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 9/8/2022, DJe de 12/8/2022.),situação não evidenciada na hipótese em julgamento.
+Da mesma forma, a Corte Especial do STJ decidiu que, "em homenagem à natureza processual material e com o escopo de preservar os princípios do direito adquirido, da segurança jurídica e da não surpresa, as normas sobre honorários advocatícios de sucumbência não devem ser alcançadas pela lei processual nova. A sentença (ou o ato jurisdicional equivalente, na competência originária dos tribunais), como ato processual que qualifica o nascedouro do direito à percepção dos honorários advocatícios, deve ser considerada o marco temporal para a aplicação das regras fixadas pelo CPC/2015. Assim, se o capítulo acessório da sentença, referente aos honorários sucumbenciais, foi prolatado em consonância com o CPC/1973, serão aplicadas essas regras até o trânsito em julgado" (STJ, EAREsp 1.255.986/PR, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, DJe de 06/05/2019 - grifou-se).
+Em igual sentido: STJ, AgInt no REsp 1.657.733/RS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 09/10/2019; EDcl no REsp 1.514.775/SE, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, DJe de 05/09/2019; REsp 1.828.624/PE, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 11/10/2019; AREsp 1.361.955/RJ, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 28/06/2019.
+A par disso, não é possível mensuraro valor da condenação oudo proveito econômico obtido com a anulação do leilão na hipótese, o que, mesmo que considerada a aplicação do art. 85 do CPC/2015,afasta a contradição alegada pela embargante.
+Como se sabe, o mero inconformismo com os fundamentos adotados nojulgadonão configura vício passível de correção por meio dos embargosdeclaratórios. Ao contrário, o exclusivo caráter infringente da pretensãoformulada denota a sua manifesta incompatibilidade com anaturezaintegrativa do recurso.
+Assim, não tendo aembarganteevidenciado nenhum dosvíciosensejadoresdos aclaratórios, afigura-se patente o intuitoinfringente dapresenteirresignação, que objetiva não suprimir a omissão,afastar aobscuridade,eliminar a contradição ou corrigir algum erromaterial, mas,sim, reformaro julgado por via inadequada.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se.
+Intimem-se.
