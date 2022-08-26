@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de Agravo contra decisão que inadmitiu Recurso Especial (art. 105, III, "a", da Constituição Federal) interposto de acórdão assim ementado:
+APELAÇÃO CÍVEL. ACIDENTÁRIO. SENTENÇA CONCESSIVA DE AUXÍLIO-DOENÇA. INSURGÊNCIA DO INSS. PLEITO DE IMPROCEDÊNCIA DOS PEDIDOS. INCAPACIDADE PARCIAL E PERMANENTE ATESTADA PELO PERITO MÉDICO DO JUÍZO. HIPÓTESE DE CABIMENTO DO AUXÍLIO-ACIDENTE. IMPOSSIBILIDADE DA ADOÇÃO DE TAL SOLUÇÃO NO CASO CONCRETO, ANTE A AUSÊNCIA DE RECURSO DA PARTE AUTORA, O QUE IMPLICARIA EM REFORMATIO IN PEJUS. DECISÃO QUE DETERMINA A DCB COM A REABILITAÇÃO DA AUTORA PARA O LABOR. BENEFÍCIO DE CARÁTER TRANSITÓRIO. DEVER DO INSS DE SUBMETER OS SEGURADOS A REAVALIAÇÕES PERIÓDICAS, OBSERVADA A AMPLA DEFESA. ACOLHIMENTO NO PONTO. SENTENÇA REFORMADA. APELO PARCIALMENTE PROVIDO.
+Os Embargos de Declaração foram rejeitados.
+Em seu Recurso Especial, o INSS alega violação dos arts. 103 da Lei 8.213/1991; e 1º do Decreto 20.910/1932.Aduz, em suma, que, "tendo a presente ação sido proposta há mais de 5 anos do termo referido, encontra-se totalmente prescrito o direito de pleitear a concessão daquele específico benefício negado, ex vi, artigo 103 da Lei 8.213/91 e artigo 1º do Decreto n o 20.910/32" (fl. 459, e-STJ).Requer, ao final, a reforma do acórdão recorrido para, "reconhecer a ocorrência da prescrição do próprio fundo de direito." (fl. 462, e-STJ).
+Sem contrarrazões.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 22 de agosto de 2022.
+Não se deve conhecer da irresignação.
+Para melhor elucidação da controvérsia, cumpre transcrever, no que interessa, trechos do acórdão proferido pela Corte a quo:
+Trata-se de recurso de apelação cível interposto pelo Instituto Nacional do Seguro Social - INSS contra a sentença que, na ação acidentária proposta por Tatiana da Silva Morais, julgou procedente o pedido formulado na exordial para condenar o réu a restabelecer em favor da parte autora o benefício de auxílio-doença até que seja reabilitada para o exercício de outra função, a contar da data da perícia judicial.
+O ente ancilar insurge-se, pugnando pela reforma in totum da sentença, para tanto sustentou que não há comprovação da incapacidade laborativa atual da autora, bem como, que esta não se trata de trabalhadora de agroindústria ou do ramo de limpeza sujeita a exigência física extrema, mas de operadora comercial, vendedora, cuja limitação referida pelo perito não lhe impede de desenvolver sua atividade profissional.
+Por fim, requer que não lhe seja imputada a obrigação de reabilitação da parte autora, sendo permitida a cessação da prestação caso constatada a recuperação da sua capacidade laborativa, e a isenção das custas processuais.
+(..)
+No caso vertente, infere-se da petição inicial e dos documentos carreados aos autos que a parte autora sofreu acidente de trabalho no dia 30/10/2016 (Evento 1, Informação 11), tendo percebido auxílio-doença de 15/11/2016 a 20/04/2017 (NB 6165215380), de 07/08/2017 a 18/10/2017 (NB 6196246856)(Evento 12, Informação 22).
+(..)
+Com efeito, o expert apontou haver redução da capacidade laborativa, o que poderia ensejar a concessão de auxílio-acidente e não auxílio-doença, contudo, como não foi interposto recurso pela parte autora nesse sentido, não há como conceder referido benefício nesta esfera de jurisdição, sob pena de reformar a sentença em prejuízo da autarquia, vez que o percentual do auxílio-doença (91% do salário-de-benefício) é muito superior ao do auxílio-acidente (50% do salário-de-benefício), aquele é de caráter temporário, sendo devido até que cesse a incapacidade da autora, enquanto este é equiparado a uma indenização ao segurado incapacitado, e é devido, a princípio, até a aposentadoria de qualquer natureza.
+De modo que, a sentença deve ser mantida nos seus exatos termos, permitindo-se que a parte autora receba auxílio-doença acidentário, muito embora, como visto, não seja propriamente o caso deste benefício, mas sim de auxílio-acidente. (fls. 413-415, e-STJ).
+No julgamento dos Aclaratórios, consignou:
+Trata-se de embargos de declaração opostos pelo Instituto Nacional do Seguro Social - INSS em face do acórdão que deu provimento parcial ao apelo para permitir a cessação da prestação caso constatada a recuperação da capacidade laborativa.
+Aduz o(a) embargante, em suma, que o acórdão negou vigência ao § 9º art. 60 da Lei 8.213/91 (na redação dada pela MP 739/16), sem declarar a sua inconstitucionalidade.
+Aponta que o auxílio-doença é uma espécie previdenciária única e deve ser usufruído de igual maneira por todos os segurados que fizerem jus a essa espécie previdenciária, e que o fato de ter sido concedido por força de decisão judicial não transmuda sua natureza temporária, da mesma forma que não modifica os seus requisitos e os seus destinatários, ou altera as regras de manutenção do benefício.
+Sustenta que uma vez proferida decisão judicial sem a fixação do prazo estimado de recuperação que permita a definição da DCB, vale a regra de direito material que estabelece a duração inicial de 120 dias para o auxílio-doença, com possibilidade de prorrogação do benefício.
+Requer assim, que sejam atribuídos efeitos infringentes aos embargos para que seja adotado termo final para o benefício concedido.
+(..)
+No caso concreto, não há justificativa alguma para se falar em erro material, contradição ou omissão, vez que o acórdão embargado fixou prazo final para a concessão do auxílio-doença, qual seja, a reabilitação funcional da autora, com base no art. 62, § 1º da Lei 8.213/91, conforme colhe-se do acórdão (Evento 11): (fls. 447-448, e-STJ).
+O Superior Tribunal de Justiça entende ser inviável o conhecimento do Recurso Especial quando os artigos tidos por violados (arts. 103 da Lei 8.213/1991 e 1º do Decreto 20.910/1932) não foram apreciados pelo Tribunal de origem, a despeito da oposição de Embargos de Declaração, haja vista a ausência do requisito do prequestionamento. Incide, na espécie, a Súmula 211/STJ.
+Ressalta-se que a exigência desse requisito não é mero rigorismo formal, que pode ser afastado pelo julgador a qualquer pretexto. Ele consubstancia a necessidade de obediência aos limites impostos ao julgamento das questões submetidas esta Corte, cuja competência fora outorgada pela Constituição Federal, em seu art. 105.
+E ainda, caberia à parte, em conformidade com a orientação do STJ, alegar, nas razões do seu Recurso, contrariedade ao art. 1.022 do CPC, a fim de que fosse viável averiguar a existência de possível omissão no julgado, o que não ocorreu na espécie.
+Como se não bastasse, verifica-se que o INSS, além de ter apresentado argumentos dissociados do que foi decidido no acórdão recorrido, não atacou fundamento suficiente à manutenção do julgado, atraindo a incidência dos óbices previstos nas Súmulas 283 e 284/STF, por analogia.
+Ante o exposto, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
