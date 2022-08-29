@@ -1,0 +1,22 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 23/08/2022 a 29/08/2022, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Cuida-se de agravo interno ajuizado em face da decisão de fls. 465/466 e-STJ.
+A parte agravante sustenta que as Súmulas n. 5 e 7 do STJ não constituem obstáculo ao conhecimento do recurso especial.
+Impugnação às fls. 482/491 e-STJ.
+É o relatório.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. REEXAME DE PROVAS. SÚMULAS 5 E 7/STJ.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória e a interpretação de cláusulas contratuais (Súmulas 5 e 7/STJ).
+2. Agravo interno a que se nega provimento.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): A decisão recorrida julgou agravo contra o juízo de admissibilidade que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+Ação de rescisão contratual em fase de cumprimento de sentença - Discordância quanto aos valores apresentados - Impugnação acolhida em parte - Pretensão dos agravantes de reforma da decisão com o acolhimento do valor que apresentaram, aplicação do INCC no valor devido a título de alugueres e concessão de indenização pelas benfeitorias Indenização pelas benfeitorias que deveriam ser requeridas na fase de conhecimento - Determinação pelo juízo de perícia para apuração do valor devido pelas partes - Recurso não provido.
+A parte recorrente, ora agravante, pediu a "manutenção do cálculo apresentado pelos Recorrentes, de modo que permaneça o índice previsto no contrato - INCC, como também não haja reajuste dos alugueres de forma mensal".
+Com pertinência à correção monetária dos aluguéis, a Corte de origem assim manifestou seu entendimento:
+Quanto aos cálculos apresentados pelas partes, exequente e executados, diante da apresentação de controvérsia na elaboração de ambos os cálculos, houve por bem o magistrado determinar os parâmetros para a sua elaboração. Não existindo concordância com os novos cálculos, verifica-se que houve determinação pelo juízo de elaboração da planilha por perita: "Vistos, A decisão proferida a fls.149/153 determinou que "o mandado de reintegração de posse somente será expedido após a constatação de que, compensadas as dívidas, há saldo credor da exequente; ou, caso haja saldo credor dos executados, o depósito em juízo, pela exequente, do seu débito". Diante da divergência entre as partes com relação aos valores devidos a cada uma delas, nomeio, para conferência dos cálculos a senhora MARIAEUGÊNIA VITA, arbitrando seus honorários em R$ 2.000,00. Nos termos do artigo 95 do NCPC, cada parte arcará com 50% (cinquenta por cento) dos honorários ora fixados, observando-se, quanto aos executados, os benefícios da gratuidade de justiça. Intime-se a exequente para adiantar os honorários periciais que lhe são devidos (50%), no prazo de 15 dias, sob pena de preclusão da prova. As partes poderão, no prazo de 15 dias, indicar assistentes técnicos e formular quesitos (art. 465, § 1º, NCPC). Após o depósito, intime-se a perita por e-mail para dar início aos trabalhos. Com a apresentação do laudo, intimem-se as partes para se manifestarem em 15 (quinze) dias (art.477, § 1º, NCPC). Quesito do juízo: 1) Após o cálculo do valor devido por cada uma das partes, considerando os parâmetros da decisão de fls. 149/153, aplicando-se o instituto da compensação, a qual das partes pertence o crédito e qual este valor  2) Houve excesso nos cálculos apresentados por cada uma das partes  Apontar o valor do excesso" (fls. 211/212 dos autos originários). Desta forma, diante da determinação de perícia para apuração dos valores devidos por cada parte, de rigor a manutenção da decisão anterior tal como lançada.
+A conclusão do Tribunal revisor, atinente à necessidade de produção da prova pericial para esclarecer o valor realmente devido, foi obtida pela análise do conteúdo fático e contratual dos autos, que se situa fora da esfera de atuação desta Corte, nos termos dos enunciados 5 e 7 da Súmula do STJ.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
