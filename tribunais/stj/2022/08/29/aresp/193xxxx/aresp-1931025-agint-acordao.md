@@ -1,0 +1,75 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 23/08/2022 a 29/08/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  por  FUNDAÇÃO  PETROBRAS  DE  SEGURIDADE  SOCIAL  -  PETROS  contra  a  decisão  desta  relatoria  que  conheceu  do  agravo  para  não  conhecer  do  recurso  especial.
+Naquela  oportunidade,  as  seguintes  questões  foram  decididas:
+(i)  incidência  da  Súmula  nº  211/STJ devido à  ausência  de  prequestionamento  dos  artigos  considerados  violados ;
+(ii)  incidência  da  Súmula  nº  283/STF, visto que há  fundamentação  do  acórdão  recorrido  não  impugnada  pela  recorrente , e
+(iii)  incidência  da  Súmula  nº  735/STF, pois  não  cabe  recurso  especial  para  apreciar  questão  referente  ao  deferimento/indeferimento  de  medida  liminar  ou  antecipação  dos  efeitos  da  tutela.
+Em suas  razões  (fls.  656/671  e-STJ),  a  agravante  sustenta,  em  síntese,  que
+"(..)  a  matéria  foi  amplamente  debatida  pelo  v.  acórdão  recorrido,  não  há  que  se  falar  em  ausência  de  prequestionamento,  afastando-se  o  óbice  do  enunciado  nº  211  da  súmula  da  jurisprudência  do  STJ.
+(..)
+(..)  foram  rebatidos  todos  os  fundamentos  que  sustentam  o  acórdão  recorrido.  (..)
+(..)
+(..)  na  situação  do  Autor  em  questão  não  se  verificam  preenchidos  os  requisitos  para  o  deferimento  da  tutela  de  urgência,  na  medida  em  que  não  há  demonstração  de  patente  ilegalidade  ou  desrespeito  ao  ordenamento  que  rege  a  matéria  na  elaboração  dos  cálculos"  (fls.  663/668  e-STJ).
+Ao  final,  requer  a  reconsideração  da  decisão  atacada  ou  a  submissão  do  feito  ao  órgão  julgador  colegiado.
+Devidamente  intimada,  a  parte  contrária  apresentou  impugnação  (fls.  675/683  e-STJ)  na  qual  pleiteia  a  manutenção  da  decisão  combatida,  a  aplicação  de  multa  e  a  majoração  dos  honorários  advocatícios.
+É  o  relatório.
+EMENTA
+AGRAVO  INTERNO  NO  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  PREVIDÊNCIA.  COMPLEMENTAÇÃO  DE  APOSENTADORIA.  PREQUESTIONAMENTO.  AUSÊNCIA.  SÚMULA  Nº  211/STJ.  ART.  1.025  DO  CÓDIGO  DE  PROCESSO  CIVIL  DE  2015.  FUNDAMENTOS  DO  ACÓRDÃO  RECORRIDO.  NÃO  IMPUGNAÇÃO.  SÚMULA  Nº  283/STF.  MÉRITO  DA  CAUSA.  DISPOSITIVOS  DE  LEI. RELAÇÃO. OFENSA.  SÚMULA  Nº  735/STF.
+1.  Recurso  especial  interposto  contra  acórdão  publicado  na  vigência  do  Código  de  Processo  Civil  de  2015  (Enunciados  Administrativos  nºs  2  e  3/STJ).
+2.  A  falta  de  prequestionamento  da  matéria  suscitada  no  recurso  especial,  a  despeito  da  oposição  de  declaratórios,  impede  seu  conhecimento,  a  teor  da  Súmula  nº  211  do  Superior  Tribunal  de  Justiça.
+3.  A  admissão  de  prequestionamento  ficto  (art.  1.025  do  Código  de  Processo  Civil  de  2015),  em  recurso  especial,  exige  que  no  mesmo  recurso  seja  indicada  violação  do  art.  1.022  do  Código  de  Processo  Civil  de  2015,  para  que  se  possibilite  ao  Órgão  julgador  verificar  a  existência  do  vício  inquinado  ao  acórdão,  que,  uma  vez  constatado,  poderá  dar  ensejo  à  supressão  de  grau  facultada  pelo  dispositivo  de  lei.
+4.  A  ausência  de  impugnação  de  fundamento  suficiente  do  acórdão  recorrido  enseja  o  não  conhecimento  do  recurso,  incidindo  a  Súmula  nº  283/STF.
+5.  O  Superior  Tribunal  de  Justiça  entende  não  ser  cabível  recurso  especial  quanto  à  alegação  de  ofensa  a  dispositivos  de  lei  relacionados  com  a  matéria  de  mérito  da  causa  que,  em  liminar  ou  antecipação  de  tutela,  é  tratada  apenas  sob  juízo  precário  de  mera  verossimilhança,  circunstância  que  atrai,  por  analogia,  a  Súmula  nº  735/STF.
+6.  Agravo  interno  não  provido.
+VOTO
+O  acórdão  impugnado  pelo  recurso  especial  foi  publicado  na  vigência  do  Código  de  Processo  Civil  de  2015  (Enunciados  Administrativos  nºs  2  e  3/STJ).
+A  irresignação  não  merece  prosperar.
+Com  efeito,  no  tocante aos  artigos  considerados  violados,  observa-se  que  o  tribunal  de  origem,  a  despeito  da  oposição  de  aclaratórios,  não  decidiu  a  controvérsia  à  luz  dos  referidos  preceitos  legais.
+Por  certo,  para  que  se  configure  o  prequestionamento,  é  necessário  que  a  Corte  local  se  pronuncie  especificamente  a  respeito  da  matéria  articulada  pela  parte,  emitindo  juízo  de  valor  em  relação  aos  dispositivos  legais  indicados  e  examinando  a  sua  aplicação  ou  não  ao  caso  concreto.  Nessa  circunstância,  ausente  o  requisito  do  prequestionamento,  incide  o  disposto  na  Súmula  nº  211/STJ:  "Inadmissível  recurso  especial  quanto  à  questão  que,  a  despeito  da  oposição  de  embargos  declaratórios,  não  foi  apreciada  pelo  Tribunal  a  quo."
+A  propósito:
+"PROCESSUAL  CIVIL.  VIOLAÇÃO  DO  ART.  535  DO  CPC/1973.  DEFICIÊNCIA  NA  FUNDAMENTAÇÃO.  SÚMULA  284/STF.  AUSÊNCIA  DE  PREQUESTIONAMENTO.  SÚMULA  211/STJ.
+(..)
+3.  É  inadmissível  Recurso  Especial  quanto  a  questão  que,  a  despeito  da  oposição  de  Embargos  Declaratórios,  não  foi  apreciada  pelo  Tribunal  de  origem.  Incidência  da  Súmula  211/STJ.
+4.  A  jurisprudência  do  STJ  firmou-se  no  sentido  de  ser  inadmissível  o  prequestionamento  ficto,  ou  seja,  não  considera  prequestionada  a  matéria  pela  simples  oposição  de  Embargos  Declaratórios.
+5.  Agravo  Interno  não  provido"  (AgInt  no  AREsp  931.048/PB,  Rel.  Ministro  HERMAN  BENJAMIN,  SEGUNDA TURMA,  julgado  em  4/4/2017,  DJe  24/4/2017).
+Observa-se ,  ainda,  que,  de  acordo  com  a  jurisprudência  deste  Tribunal  Superior ,  a  admissão  de  prequestionamento  ficto  em  recurso  especial,  previsto  no  art. 1.025  do  Código  de  Processo  Civil  de  2015,  exige  que  no  mesmo  recurso  seja  indicada  violação  do  art.  1.022  do  Código  de  Processo  Civil  de  2015,  o  que  não  é  o  caso  dos  autos.
+Nesse  sentido:
+"AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  REINTEGRAÇÃO  DE  POSSE.  ALEGADA  ILIQUIDEZ  DO  TÍTULO.  AUSÊNCIA  DE  PREQUESTIONAMENTO  DA  MATÉRIA  VENTILADA  NO  RECURSO  ESPECIAL.  SÚMULAS  282/STF  E  211/STJ.  PREQUESTIONAMENTO  FICTO  PREVISTO  NO  ART.  1.025  DO  CPC/2015.  NECESSIDADE  DE  SE  APONTAR  VIOLAÇÃO  AO  ART.  1.022  DO  CPC/2015.  PRECEDENTE.  RECURSO  NÃO  PROVIDO.
+1.  A  matéria  referente  aos  arts.  783  e  803,  do  CPC  de  2015  não  foi  objeto  de  discussão  no  acórdão  recorrido,  apesar  da  oposição  de  embargos  de  declaração,  não  se  configurando  o  prequestionamento,  o  que  impossibilita  a  sua  apreciação  na  via  especial  (Súmulas  282/STF  e  211/STJ).
+2.  O  STJ  não  reconhece  o  prequestionamento  pela  simples  interposição  de  embargos  de  declaração  (Súmula  211).  Persistindo  a  omissão,  é  necessária  a  interposição  de  recurso  especial  por  afronta  ao  art.  1.022  do  CPC  de  2015  (antigo  art.  535  do  Código  de  Processo  Civil  de  1973),  sob  pena  de  perseverar  o  óbice  da  ausência  de  prequestionamento.
+3.  "A  admissão  de  prequestionamento  ficto  (art.  1.025  do  CPC/15),  em  recurso  especial,  exige  que  no  mesmo  recurso  seja  indicada  violação  ao  art.  1.022  do  CPC/15,  para  que  se  possibilite  ao  Órgão  julgador  verificar  a  existência  do  vício  inquinado  ao  acórdão,  que  uma  vez  constatado,  poderá  dar  ensejo  à  supressão  de  grau  facultada  pelo  dispositivo  de  lei".  (REsp  1639314/MG,  Rel.  Ministra  NANCY  ANDRIGHI,  TERCEIRA  TURMA,  julgado  em  04/04/2017,  DJe  10/04/2017).
+4.  Agravo  interno  a  que  se  nega  provimento"  (AgInt  no  AREsp  1.098.633/MG,  Rel.  Ministro  LUIS  FELIPE  SALOMÃO,  QUARTA TURMA,  julgado  em  12/9/2017,  DJe  15/9/2017  -  grifou-se).
+Além  disso,  não  há  como  afastar  a  incidência  da  Súmula  nº  283/STF,  pois  a  agravante,  ao  se  limitar  a  discorrer  acerca  da  viabilidade  do  equacionamento  do  déficit  do  Plano  de  Benefícios,  deixou  de  infirmar  os  fundamentos  relativos  ao  fato  de  que  "(..)  estão  presentes  os  requisitos  autorizadores  para  a  concessão  da  medida  antecipatória"  (fl.  110  e-STJ).  A  ausência  de  impugnação  de  um  fundamento  suficiente  do  acórdão  recorrido  enseja  o  não  conhecimento  do  recurso,  incidindo  o  óbice  da  Súmula  nº  283/STF.
+Confiram-se:
+"AGRAVO  INTERNO  NO  RECURSO  ESPECIAL  -  AÇÃO  DE  INDENIZAÇÃO  POR  PERDAS  E  DANOS  -  DECISÃO  MONOCRÁTICA  NEGANDO  PROVIMENTO  AO  RECLAMO.  INSURGÊNCIA  RECURSAL  DO  RÉU.
+(..)
+3.  É  inadmissível  o  recurso  especial  que  não  impugna  fundamento  do  acórdão  recorrido  apto,  por  si  só,  a  manter  a  conclusão  a  que  chegou  a  Corte  de  piso  (Súmula  283  do  STF).
+4.  Agravo  interno  desprovido."  (AgInt  no  REsp  1.525.499/SP,  Rel.  Ministro  MARCO  BUZZI,  QUARTA TURMA,  julgado  em  7/2/2017,  DJe  14/2/2017).
+"PROCESSUAL  CIVIL.  AGRAVO  REGIMENTAL.  AGRAVO  DE  INSTRUMENTO.  AUSÊNCIA  DE  IMPUGNAÇÃO  DOS  FUNDAMENTOS  DO  ACÓRDÃO  RECORRIDO.  SÚMULA  N.  283/STF.  DISSÍDIO  JURISPRUDENCIAL.  AUSÊNCIA  DE  COMPROVAÇÃO.  NÃO-REALIZAÇÃO  DO  COTEJO  ANALÍTICO.
+1.  A  ausência  de  impugnação  dos  fundamentos  do  acórdão  recorrido  que  são  suficientes  para  mantê-lo  enseja  o  não-conhecimento  do  recurso.  Incidência  da  Súmula  n.  283  do  STF.
+(..)
+3.  Agravo  regimental  desprovido"  (AgRg  no  Ag  1.109.816/DF,  Rel.  Ministro  JOÃO  OTÁVIO  DE  NORONHA,  QUARTA TURMA,  julgado  em  4/6/2009,  DJe  15/6/2009).
+Ademais,  conforme  asseverado  na  decisão  atacada,  esta  Corte  Superior  entende  não  ser  cabível  recurso  especial  quanto  à  alegação  de  ofensa  a  dispositivos  de  lei  relacionados  com  a  matéria  de  mérito  da  causa  que,  em  liminar  ou  antecipação  de  tutela,  é  tratada  apenas  sob  juízo  precário  de  mera  verossimilhança,
+"(..) porquanto  tal  matéria,  somente  haverá  causa  decidida  em  única  ou  última  instância  com  o  julgamento  definitivo,  atraindo,  analogicamente,  o  enunciado  da  súmula  735  do  STF:  "Não  cabe  recurso  extraordinário  contra  acórdão  que  defere  medida  liminar""  (REsp  765.375/MA,  Rel.  Ministro  Teori  Albino  Zavascki,  Primeira  Turma,  julgado  em  6/4/2006,  DJ  8/5/2006).
+Sobre  o  tema:
+"AGRAVO  REGIMENTAL  NO  AGRAVO  EM  RECURSO  ESPECIAL.  ANTECIPAÇÃO  DOS  EFEITOS  DA  TUTELA.  REVISÃO  EM  RECURSO  ESPECIAL.  IMPOSSIBILIDADE.  SÚMULA  Nº  735  DO  STF.  REEXAME  DO  CONJUNTO  FÁTICO-PROBATÓRIO  DOS  AUTOS.  SÚMULAS  NºS  5  E  7  DO  STJ.  RECURSO  MANEJADO  SOB  A  ÉGIDE  DO  CPC/73.  MANUTENÇÃO  DO  JULGADO.  AGRAVO  REGIMENTAL  NÃO  PROVIDO.
+1.  De  acordo  com  entendimento  sumulado  pelo  Supremo  Tribunal  Federal,  não  cabe  recurso  especial  para  apreciar  questão  relacionada  ao  deferimento  de  medida  liminar  ou  antecipação  dos  efeitos  da  tutela,  a  teor  do  verbete  nº  735,  aplicável  por  analogia.
+(..)
+3.  Não  sendo  a  linha  argumentativa  apresentada  pela  agravante  capaz  de  evidenciar  a  inadequação  do  óbice  invocado  pela  decisão  agravada,  o  presente  agravo  não  se  revela  apto  a  alterar  o  conteúdo  do  julgado  impugnado,  devendo  ser  ele  integralmente  mantido.
+4.  Agravo  regimental  não  provido"  (AgRg  no  AREsp  702.128/MS,  Rel.  Ministro  MOURA  RIBEIRO,  TERCEIRA TURMA,  julgado  em  26/4/2016,  DJe  3/5/2016).
+Assim,  não  prosperam  as  alegações  postas  no  presente  recurso,  incapazes  de  alterar  os  fundamentos  da  decisão  impugnada.
+No tocante  à  multa  requerida  na  impugnação,  a  Segunda  Seção  decidiu  que  a  aplicação  da  penalidade  prevista  no  art.  1.021,  §  4º,  do  Código  de  Processo  Civil  de  2015  não  é  automática,  pois  não  se  trata  de  mera  decorrência  lógica  da  rejeição  do  agravo  interno.
+A  propósito:
+"AGRAVO  INTERNO  NOS  EMBARGOS  DE  DIVERGÊNCIA  EM  RECURSO  ESPECIAL.  PROCESSUAL  CIVIL.  AGRAVO  CONHECIDO  APENAS  NO  CAPÍTULO  IMPUGNADO  DA  DECISÃO  AGRAVADA.  ART.  1.021,  §  1º,  DO  CPC/2015.  EMBARGOS  DE  DIVERGÊNCIA  APRECIADOS  À  LUZ  DO  CPC/73.  ACÓRDÃO  EMBARGADO  QUE  NÃO  CONHECEU  DO  RECURSO  ESPECIAL.  APLICAÇÃO  DA  SÚMULA  7/STJ.  PARADIGMAS  QUE  EXAMINARAM  O  MÉRITO  DA  DEMANDA.  DISSÍDIO  JURISPRUDENCIAL  NÃO  DEMONSTRADO.  REQUERIMENTO  DA  PARTE  AGRAVADA  DE  APLICAÇÃO  DA  MULTA  PREVISTA  NO  §  4º  DO  ART.  1.021  DO  CPC/2015.  AGRAVO  INTERNO  PARCIALMENTE  CONHECIDO  E,  NESSA  EXTENSÃO,  IMPROVIDO.
+1.  Nos  termos  do  art.  1.021,  §  1º,  do  CPC/2015,  merece  ser  conhecido  o  agravo  interno  tão  somente  em  relação  aos  capítulos  impugnados  da  decisão  agravada.
+2.  Não  fica  caracterizada  a  divergência  jurisprudencial  entre  acórdão  que  aplica  regra  técnica  de  conhecimento  e  outro  que  decide  o  mérito  da  controvérsia.
+3.  A  aplicação  da  multa  prevista  no  §  4º  do  art.  1.021  do  CPC/2015  não  é  automática,  não  se  tratando  de  mera  decorrência  lógica  do  não  provimento  do  agravo  interno  em  votação  unânime.  A  condenação  do  agravante  ao  pagamento  da  aludida  multa,  a  ser  analisada  em  cada  caso  concreto,  em  decisão  fundamentada,  pressupõe  que  o  agravo  interno  mostre-se  manifestamente  inadmissível  ou  que  sua  improcedência  seja  de  tal  forma  evidente  que  a  simples  interposição  do  recurso  possa  ser  tida,  de  plano,  como  abusiva  ou  protelatória,  o  que,  contudo,  não  ocorreu  na  hipótese  examinada.
+4.  Agravo  interno  parcialmente  conhecido  e,  nessa  extensão,  improvido"  (EREsp  1.120.356/RS,  Rel.  Ministro  MARCO  AURÉLIO  BELLIZZE,  Segunda  Seção,  julgado  em  24/8/2016,  DJe  29/8/2016  -  grifou-se).
+No  caso  concreto,  não  se  vislumbra  intenção  abusiva  ou  protelatória  na  interposição  de  recurso  previsto  pela  lei,  necessário,  inclusive,  para  esgotar  esta  instância,  requisito  indispensável  à  interposição  de  eventual  recurso  extraordinário.
+Por  fim,  deixa-se  de  aplicar  honorários  sucumbenciais  recursais,  segundo  o  entendimento  do  Enunciado  nº  16  da  Escola  Nacional  de  Formação  e  Aperfeiçoamento  de  Magistrados  Ministro  Sálvio  de  Figueiredo  Teixeira  -  ENFAM,  de  seguinte  teor:  "Não  é  possível  majorar  os  honorários  na  hipótese  de  interposição  de  recurso  no  mesmo  grau  de  jurisdição  (art.  85,  §  11,  do  CPC/2015)."
+Ante  o  exposto,  nego  provimento  ao  agravo  interno.
+É  o  voto.
