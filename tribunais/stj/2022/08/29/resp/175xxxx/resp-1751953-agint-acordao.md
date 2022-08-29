@@ -1,0 +1,61 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 23/08/2022 a 29/08/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (RELATOR): Trata-se de agravo interno manejado pelo Estado do Paraná contra decisão de fls. 991/993, que não conheceu do seu recurso especial sob fundamento de incidência do obstáculo da Súmula 282/STF, pela ausência de prequestionamento das questões nele suscitadas.
+Sustenta a parte agravante, em resumo, que não se aplica o óbice da Súmula 282/STF, pois "a discussão trazida nos autos é quanto a legitimidade do contribuinte de fato ou de direito, no pleito da repetição de indébito" (fl. 1.008). Insiste na tese de que "na qualidade de contribuinte de fato, a parte agravada é ilegítima para pleitear a restituição do tributo eventualmente recolhido a maior" (fl. 1.007).
+Requer a reconsideração do decisum, ou a submissão do feito ao julgamento colegiado.
+Aberta vista à parte agravada, Distribuidora de Bebidas Rovanio Ltda. apresentou impugnação às fls. 1.013/1.017, postulando o desacolhimento do recurso.
+É RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+EMENTA
+TRIBUTÁRIO. PROCESSUAL CIVIL. FABRICANTE DE BEBIDAS. CONTRIBUINTE DE DIREITO. COMPROVAÇÃO DE REPASSE. PREQUESTIONAMENTO. INEXISTÊNCIA. SÚMULA 282/STF.
+1. O Tribunal de origem não se manifestou sobre as alegações de que o contribuinte de direito seria o fabricante de bebidas e de que seria necessária a comprovação de não repasse dos valores recolhidos, situação que atrai o óbice da Súmula 282/STF.
+2. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (RELATOR): A irresignação não merece acolhimento, tendo em conta que a parte agravante não logrou desenvolver argumentação apta a desconstituir os fundamentos adotados pela decisão recorrida, que ora submeto ao Colegiado para serem confirmados:
+Trata-se de recurso especial manejado pelo Estado do Paraná com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado do Paraná, assim ementado (fls. 877/878):
+APELAÇÃO CÍVEL 1: AÇÃO DECLARATÓRIA C/C COMINATÓRIA E CONSTITUTIVA - ILEGITIMIDADE ATIVA - AFASTADA - DISTRIBUIDORA DE BEBIDAS CONTRIBUINTE DE DIREITO QUE É PARTE LEGÍTIMA PARA DEMANDAR JUDICIALMENTE - ENTENDIMENTO EXPLANADO PELO STJ NO RECURSO ESPECIAL Nº 903.394/AL, RELATIVO À INCIDÊNCIA DE IPI SOBRE BEBIDAS - AUSÊNCIA DE DIREITO AO CREDITAMENTO DO ICMS PAGO A MAIOR - AFASTADO - POSTULAÇÃO PELA CONSTITUIÇÃO DE CRÉDITO ORIUNDO DO EXCESSO DE TRIBUTAÇÃO DO PERÍODO DE DEZEMBRO DE 1989 A DEZEMBRO DE 1994 - LEI ESTADUAL Nº 8.933/89, VIGENTE À ÉPOCA DOS FATOS, QUE PREVIA A POSSIBILIDADE DE RESTITUIÇÃO DOS VALORES PAGOS A MAIOR EM CASOS DE PAGAMENTO ANTECIPADO POR FATO GERADOR PRESUMIDO - AUSÊNCIA DE OFENSA AO PRINCÍPIO DA ISONOMIA, AO ART. 108, IV, §2º, OU AO ART. 97, VI, AMBOS DO CTN - CORREÇÃO MONETÁRIA - INCIDÊNCIA - PRINCÍPIO DA ISONOMIA - RECURSO CONHECIDO E NÃO PROVIDO.
+APELAÇÃO CÍVEL 2: AÇÃO CAUTELAR - ESTADO DO PARANÁ QUE APRESENTOU APELAÇÃO CÍVEL NA AÇÃO CAUTELAR COM OS MESMOS FUNDAMENTOS DA APELAÇÃO CÍVEL APRESENTADA NOS AUTOS PRINCIPAIS - REITERAÇÃO DOS FUNDAMENTOS APRESENTADOS NA APELAÇÃO ANTERIOR - RECURSO CONHECIDO E NÃO PROVIDO.
+APELAÇÃO CÍVEL 3: CORREÇÃO MONETÁRIA - ART. 484, §4º, DO DECRETO Nº 2.736/96 - FCA - APLICAÇÃO - AFASTADA - PRETENSÃO DE CREDITAMENTO DO PERÍODO DE DEZEMBRO DE 1989 A DEZEMBRO DE 1994 - IMPOSSIBILIDADE DE APLICAÇÃO DO ÍNDICE DE CORREÇÃO DE FORMA RETROATIVA - RECURSO CONHECIDO E NÃO PROVIDO.
+Em juízo de conformação previsto no art. 543-C do CPC/73 (fls. 932/940), o Tribunal a quo entendeu pela manutenção do acórdão recorrido.
+A parte recorrente aponta violação ao art. 166 do CTN. Sustenta que: (I) "a legitimidade para pleitear a repetição de indébito nos tributos indiretos somente é conferida ao contribuinte de direito, no caso, o fabricante de bebidas" (fl. 898), razão pela qual "o Tribunal de Justiça do Estado do Paraná erroneamente taxou o recorrido, distribuidor de bebidas, de contribuinte de direito" (fl. 900); e (II) "ainda que, por força de argumentação, se considere que o distribuidor de bebidas possui legitimidade para pleitear a repetição de indébito, o acórdão do Tribunal de Justiça do Paraná incidiu em ofensa ao art. 166 do CTN ao conferir legitimidade ao requerente sem exigir a comprovação do não -repasse do encargo financeiro ou a autorização daquele que o teria suportado para fins de reconhecimento da legitimidade do pretendente à repetição" (fls. 901/902).
+Contrarrazões às fls. 911/916.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+In casu, a Corte de origem assim se manifestou acerca da legitimidade ativa da ora recorrida (fls. 882/883):
+Nessa esteira, sustenta o Estado do Paraná que a empresa Apelada não possui legitimidade ativa, haja vista que o ICMS é tributo indireto, e por isso repassa o ônus financeiro ao consumidor final, contribuinte de fato. Assim, a pretensão da Apelada não pode ser deferida com base no art. 166, do CTN, e na Súmula 546, do STF, os quais dispõem que:
+ ..
+Contudo, por meio do julgamento do Recurso Especial nº903.394/AL, relativo à incidência de IPI sobre bebidas, o Superior Tribunal de Justiça reviu o seu entendimento sobre a legitimidade ativa da referida tributação, passando a entender que o contribuinte de direito é quem possui legitimidade para demandar judicialmente, e não o contribuinte de fato.
+Assim, deve ser afastada a preliminar levantada pelo Estado do Paraná.
+Como se vê, o Tribunal de origem não se manifestou sobre as alegações de que o contribuinte de direito seria o fabricante de bebidas e de que seria necessária a comprovação de não repasse dos valores recolhidos. Apesar disso, não foram opostos embargos declaratórios para suprir eventual omissão, situação que atrai o óbice da Súmula 282/STF. A propósito:
+ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO POPULAR. VIOLAÇÃO AO PRINCÍPIO DA IMPESSOALIDADE. PRINCÍPIO DA ADSTRIÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Nos termos do que dispõe o art. 105, III, a, da Constituição Federal, cabe ao Superior Tribunal de Justiça julgar, em recurso especial, as causas decididas, em única ou última instância, pelo órgão colegiado local. Nesse contexto, prevalece no STJ o entendimento de que o prequestionamento da matéria pressupõe o efetivo debate pelo Tribunal a quo sobre a tese jurídica suscitada nas razões do apelo nobre.
+2.  ..
+3. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AgInt no AREsp 1.105.659/RS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 12/8/2019, DJe 15/8/2019)
+Em verdade, chama a atenção o fato de que os referidos argumentos sequer foram aventados em apelação, o que reforça a impossibilidade de conhecimento do apelo nobre, ante a flagrante inovação recursal do ora recorrente e evidente preclusão consumativa. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. FATO NOVO. NÃO CARACTERIZADO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. COISA JULGADA. INEXISTÊNCIA. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO CONTIDO NO ACÓRDÃO RECORRIDO. SÚMULA 283/STF. AÇÃO DE IMPROBIDADE ADMINISTRATIVA. LITISCONSÓRCIO PASSIVO NECESSÁRIO. DESNECESSIDADE. PRECEDENTES. PRESCRIÇÃO INTERCORRENTE. NÃO APLICAÇÃO. PRECEDENTES. JULGAMENTO EXTRA PETITA. NÃO OCORRÊNCIA. REVISÃO IMPOSSIBILIDADE. SÚMULA 7/STJ. ACÓRDÃO QUE CONSIGNA O ELEMENTO SUBJETIVO APTO A CARACTERIZAR O ATO ÍMPROBO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. ALEGADA DESPROPOCIONALIDADE DAS PENAS APLICADAS. QUESTÃO NÃO SUSCITADA NAS RAZÕES DA APELAÇÃO. PRECLUSÃO CONSUMATIVA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ.
+1.  ..
+10. A tese acerca da proporcionalidade das penalidades aplicadas não foi suscitada nas razões de apelação, sendo trazida posteriormente, o que, no ponto, consoante bem asseverado pela Corte de origem (e-STJ fls. 2.531), configura indevida inovação recursal e impede o conhecimento da insurgência, em decorrência da preclusão consumativa. A propósito: AgInt nos EDcl no REsp 1.421.752/SP, Rel. Min. Sérgio Kukina, Primeira Turma, DJe 4/9/2020; AgInt no REsp 1.821.061/PR, Rel. Min. Regina Helena Costa, Primeira Turma, DJe 12/3/2020.
+11.A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de embargos de declaração, impede o seu conhecimento, a teor da Súmula 211/STJ.
+12. Agravo interno não provido.
+(AgInt no REsp 1.872.310/PR, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 5/10/2021, DJe 8/10/2021)
+ANTE O EXPOSTO, não conheço do recurso especial.
+Publique-se.
+Compulsando os autos, o que se extrai, a partir da leitura atenta do aresto recorrido (fls. 876/891), é que os argumentos recursais de que (I) "a legitimidade para pleitear a repetição de indébito nos tributos indiretos somente é conferida ao contribuinte de direito, no caso, o fabricante de bebidas" (fl. 898 - g.n.); e (II) "o acórdão do Tribunal de Justiça do Paraná incidiu em ofensa ao art. 166 do CTN ao conferir legitimidade ao requerente sem exigir a comprovação do não-repasse do encargo financeiro ou a autorização daquele que o teria suportado para fins de reconhecimento da legitimidade do pretendente à repetição" (fls. 901/902) não foram objeto de deliberação no julgamento a quo, nem houve a oposição de embargos de declaração para suprimir eventual omissão a esse respeito.
+Confira-se, mais uma vez, a fundamentação tecida pelo Tribunal paranaense sobre a questão da legitimidade (fls. 882/883):
+Nessa esteira, sustenta o Estado do Paraná que a empresa Apelada não possui legitimidade ativa, haja vista que o ICMS é tributo indireto, e por isso repassa o ônus financeiro ao consumidor final, contribuinte de fato. Assim, a pretensão da Apelada não pode ser deferida com base no art. 166, do CTN, e na Súmula 546, do STF, os quais dispõem que:
+ ..
+Contudo, por meio do julgamento do Recurso Especial nº903.394/AL, relativo à incidência de IPI sobre bebidas, o Superior Tribunal de Justiça reviu o seu entendimento sobre a legitimidade ativa da referida tributação, passando a entender que o contribuinte de direito é quem possui legitimidade para demandar judicialmente, e não o contribuinte de fato.
+Assim, deve ser afastada a preliminar levantada pelo Estado do Paraná.
+Assim, correta a aplicação do óbice sumular 282/STF à espécie.
+Ilustrativamente, confira-se:
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. AUSÊNCIA DE PREQUESTIONAMENTO DOS ARTS. 166 DO CÓDIGO TRIBUTÁRIO NACIONAL E 25, I E II, DA LEI N. 8.212/91. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 282/STF. FUNRURAL. PEDIDO DE RESTITUIÇÃO OU COMPENSAÇÃO. ILEGITIMIDADE. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - A ausência de enfrentamento da questão objeto da controvérsia pelo tribunal a quo impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula 282 do Colendo Supremo Tribunal Federal.
+III - As cooperativas possuem legitimidade para postular a inexigibilidade da contribuição do FUNRURAL, não obstante tal permissão não abrange o pedido de compensação ou restituição de débito. Precedentes.
+IV - A Agravante não apresenta argumentos suficientes para desconstituir a decisão recorrida.
+V - Agravo Interno improvido.
+(AgInt nos EDcl no REsp n. 1.425.555/PR, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 16/8/2017.)
+EM FACE DO EXPOSTO, nega-se provimento ao agravo interno.
+É o voto.
