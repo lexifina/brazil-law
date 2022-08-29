@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 23/08/2022 a 29/08/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Luis Felipe Salomão, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PREPARO. RECOLHIMENTO EM GUIA DIVERSA DA ESPECIFICADA NA RESOLUÇÃO DO STJ. GRU SIMPLES. GRU COBRANÇA. DESERÇÃO. SÚMULA 187/STJ. INCIDÊNCIA.
+1. A Presidência do Superior Tribunal de Justiça, monocraticamente, não conheceu do recurso especial em face da aplicação da Súmula 187/STJ.
+2. No caso, consta que o recolhimento do preparo foi efetuado por meio das guias de recolhimento GRU Simples, e não das guias de recolhimento GRU Cobrança.
+3. Não se desconhece o entendimento exarado no REsp 1.498.623/RJ, de relatoria do Ministro Napoleão Nunes Maia Filho, acórdão publicado no DJe de 13.3.2015, em que a Corte Especial entendeu que seria válido o recolhimento do preparo por meio de GRU Simples até a data de 15.8.2014; no entanto, veja-se que o caso dos autos não se enquadra no referido entendimento, uma vez que o recurso especial foi interposto posteriormente a essa data.
+4. Agravo interno desprovido.
+RELATÓRIO
+EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+Trata-se de agravo interno (fls. 530-552), interposto por ALCIDES PEREIRA DA SILVA e LEONARDO DALEFFE PEREIRA, contra decisão da Presidência, que não conheceu do recurso especial, da qual se decalca o seguinte excerto (fl. 527):
+"Mediante análise do recurso de ALCIDES PEREIRA DA SILVA e OUTRO, o recurso especial foi instruído de forma insuficiente quanto ao preparo, no ato de sua interposição. No caso, não foram recolhidas as custas devidas ao Superior Tribunal de Justiça.
+Ademais, percebeu-se, no Tribunal de origem, haver irregularidade no recolhimento do preparo. A parte, embora regularmente intimada para sanar referido vício, não regularizou, tendo em vista que o recolhimento das custas devidas ao STJ foi realizado em desacordo com o disposto na Resolução do STJ vigente à época da interposição do recurso, a qual dispõe que, no momento do preenchimento da GRU Cobrança, deverão ser indicadas obrigatoriamente as informações exigidas no formulário eletrônico disponível no sítio do Tribunal (http://www. stj. jus. br), de acordo com o tipo de ação ou recurso escolhido.
+De fato, a parte fez a indicação errônea, no momento do preenchimento do formulário eletrônico, do "tipo de ação ou recurso escolhido", ou seja, ao invés de recolher as custas do recurso especial, fez o recolhimento sob a rubrica diversa.
+(..)" (g. n.)
+Os agravantes sustentam que, "(..) por erro material, foi expedida e devidamente paga uma primeira guia GRU-STJ no valor de R$ 174,23, cujo valor estava vigente antes da Instrução Normativa STJ/GP n.º 1, de 26 de janeiro de 2021, eis que o Requerente não se atentou aos novos valores provenientes da nova normativa pela A Resolução STJ/GP n.º 2 de 1 de fevereiro de 2017. Por conta disso, na mesma data foi expedida e devidamente paga uma segunda guia em complementação no valor de R$ 28, 66, adequando-se, portanto, aos valor exato de R$ 202,89 segundo consta do item B da tabela anexa a Instrução Normativa com os valores atualizados pelo Art. 1º da Instrução Normativa STJ/GP n.º 1, de 26 de janeiro de 2021" (fl. 534 - destaques no original).
+Defendem, também, que, "(..) em que pese as informações dispostas na petição de cumprimento de intimação, de fato, o preenchimento da guia no site do STJ (http://www. stj. jus. br) deu-se com mero erro material, inserindo-se no campo da primeira guia no valor de R$ 174,23 a informação "porte de remessa e retorno"" (fl. 535 - destaques no original).
+Asseveram, ainda, que "(..) evidentemente tratou-se de mero erro formal sem gravidade, eis que o recurso é eletrônico, não incidindo a exigência de recolhimento de porte de remessa e retorno (Art. 1.007, caput do CPC), demonstrável pelo fato de que os Agravantes buscaram sempre o pagamento das custas dispostas no item B do anexo a Resolução n.º 2, de 1 de fevereiro de 2017, primeiramente recolhendo o valor de R$ 174,23 e em guia complementar, emitida, paga e juntada aos autos no mesmo dia no valor de R$ 28,66" (fls. 535-536).
+Não foi apresentada impugnação (vide certidão fl. 557).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PREPARO. RECOLHIMENTO EM GUIA DIVERSA DA ESPECIFICADA NA RESOLUÇÃO DO STJ. GRU SIMPLES. GRU COBRANÇA. DESERÇÃO. SÚMULA 187/STJ. INCIDÊNCIA.
+1. A Presidência do Superior Tribunal de Justiça, monocraticamente, não conheceu do recurso especial em face da aplicação da Súmula 187/STJ.
+2. No caso, consta que o recolhimento do preparo foi efetuado por meio das guias de recolhimento GRU Simples, e não das guias de recolhimento GRU Cobrança.
+3. Não se desconhece o entendimento exarado no REsp 1.498.623/RJ, de relatoria do Ministro Napoleão Nunes Maia Filho, acórdão publicado no DJe de 13.3.2015, em que a Corte Especial entendeu que seria válido o recolhimento do preparo por meio de GRU Simples até a data de 15.8.2014; no entanto, veja-se que o caso dos autos não se enquadra no referido entendimento, uma vez que o recurso especial foi interposto posteriormente a essa data.
+4. Agravo interno desprovido.
+VOTO
+EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+A irresignação não merece prosperar.
+Em juízo de admissibilidade, a Presidência do Superior Tribunal de Justiça não conheceu do recurso especial, com os seguintes argumentos (fls. 527-528):
+"Mediante análise do recurso de ALCIDES PEREIRA DA SILVA e OUTRO, o recurso especial foi instruído de forma insuficiente quanto ao preparo, no ato de sua interposição. No caso, não foram recolhidas as custas devidas ao Superior Tribunal de Justiça.
+Ademais, percebeu-se, no Tribunal de origem, haver irregularidade no recolhimento do preparo. A parte, embora regularmente intimada para sanar referido vício, não regularizou, tendo em vista que o recolhimento das custas devidas ao STJ foi realizado em desacordo com o disposto na Resolução do STJ vigente à época da interposição do recurso, a qual dispõe que, no momento do preenchimento da GRU Cobrança, deverão ser indicadas obrigatoriamente as informações exigidas no formulário eletrônico disponível no sítio do Tribunal (http://www.stj.jus.br), de acordo com o tipo de ação ou recurso escolhido.
+De fato, a parte fez a indicação errônea, no momento do preenchimento do formulário eletrônico, do "tipo de ação ou recurso escolhido", ou seja, ao invés de recolher as custas do recurso especial, fez o recolhimento sob a rubrica diversa.
+Este Superior Tribunal de Justiça consolidou o entendimento no sentido de que a irregularidade no preenchimento das guias do preparo, no ato da interposição do recurso especial, caracteriza a sua deserção. Nesse sentido, os seguintes precedentes: AgInt no AREsp 916.926/MS, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 21/11/2019, e AgInt no AREsp 1435121/PE, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 26/9/2019.
+Dessa forma, o recurso especial não foi devida e oportunamente preparado, incidindo, na espécie, o disposto na Súmula n. 187 do STJ, o que leva à deserção do recurso."
+Com efeito, consta dos autos que o recolhimento do preparo foi efetuado por meio das guias de recolhimento GRU Simples, e não das guias de recolhimento GRU Cobrança.
+Sobre o tema, tem-se que o entendimento desta Corte se firmou no sentido de que "o recolhimento em guia diversa daquela prevista na resolução em vigor no momento da interposição do recurso conduz ao reconhecimento da deserção" (AgRg no MS 18.404/DF, Corte Especial, Rel. Ministra Nancy Andrighi, DJe de 18.9.2012).
+Por outro lado, não se desconhece o entendimento exarado no REsp 1.498.623/RJ, de relatoria do Ministro Napoleão Nunes Maia Filho, acórdão publicado no DJe de 13.3.2015, em que a Corte Especial entendeu que seria válido o recolhimento do preparo por meio de GRU Simples até a data de 15.8.2014; no entanto, veja-se que o caso dos autos não se enquadra no referido entendimento, uma vez que o recurso especial foi interposto posteriormente a essa data.
+Ante o exposto, nega-se provimento ao agravo interno.
+É como voto.
