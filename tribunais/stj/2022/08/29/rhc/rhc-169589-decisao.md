@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto por JARED CHRISTIAN DE PROENÇA contra decisão de Desembargador do Tribunal de Justiça do Estado de São Pauloque indeferiu pedido liminar em habeas corpus impetrado perante o Tribunal a quo.
+Consta dos autos que em 7/6/2022 o recorrente teve a prisão preventiva decretada pela suposta prática do crime previsto no art. 157, caput, do Código Penal (e-STJ, fls. 29-30).
+A defesa impetrou habeas corpus na origem, tendo a medida liminar sido indeferida pelo Desembargador Relator (e-STJ, fls. 68-70).
+Em razões, a defesa sustenta, preliminarmente, ser o caso de superação do enunciado sumular n. 691/STF, diante do flagrante constrangimento ilegal.
+Aduz que o decreto prisional não apresentou motivação concreta para a segregação cautelar do recorrente, uma vez que houve prova inequívoca da suposta violência praticada pelo recorrente contra a vítima.
+Alega que o recorrente foi diagnosticado com transtorno mental decorrente do uso de cocaína, associado a um quadro de ansiedade generalizada, apresentando comportamento autolesivo, com recomendação de sessão de terapia duas vezes na semana e, inclusive, com a vigilância familiar.
+Assevera que afirmações genéricas e abstratas não são suficientes para justificar a custódia preventiva, especialmente diante da baixa gravidade da conduta. Ademais, o recorrente possuiemprego lícito e residência fixa. Assim, mostra-se cabível a decretação de outra medida cautelar diversa ou a prisão domiciliar.
+Requer, assim, liminarmente, a concessão da ordem a fim de que seja determinada a suspensão dos efeitos da decisão que decretou a prisão preventiva do recorrente, expedindo-se o competente alvará de soltura.
+No mérito, pugna pela conversão da prisão preventiva em prisão domiciliar ou a imposição de medida cautelar diversa.
+É o relatório.
+Decido.
+Esta Corte possui entendimento pacificado no sentido de que não cabe habeas corpus contra decisão que indefere pedido liminar ou é monocrática e passível de reforma pelo órgão colegiado, salvo em casos de flagrante ilegalidade ou teratologia da decisão impugnada (Súmula 691/STF).
+Sobre o tema, os seguintes precedentes:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. IMPETRAÇÃO INDEFERIDA LIMINARMENTE. SÚMULA 691/STF. AUSÊNCIA DE PATENTE ILEGALIDADE. PLEITO DE APRESENTAÇÃO DE MEMORIAIS ESCRITO E NO PRAZO RAZOÁVEL. ALEGADA COMPLEXIDADE DO FEITO. TEMA A SER EXAMINADO PELO JUÍZO PROCESSANTE. AGRAVO REGIMENTAL IMPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade, o que não ocorre na espécie. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+2. Na espécie, o Juízo de 1º grau, explicitamente, afastou a necessidade de apresentação das alegações finais por escrito, ao afirmar que não se tratava de feito complexo, bem como o número de acusados fora reduzido com o desmembramento da ação penal. Assim, modificar tal entendimento demandaria incursão no acervo probatório dos autos, inviável na sede eleita. Impossibilidade de superação do enunciado sumular 691/STF.
+3. Por outro lado, nada impede que o Juízo Processante, ao final da instrução e pela proximidade com os fatos, possa reavaliar o pleito defensivo de apresentação de alegações finais por escrito, momento em que examinará a verdadeira complexidade do feito, lembrando-se que o cumprimento do princípio constitucional da duração razoável do processo (art. 5º, LXXVIII, da CF) não pode sobrepor às garantias constitucionais do cidadão no processo penal, em especial o respeito ao contraditório e à ampla defesa (art. 5º, LV, da CF).
+4. Agravo regimental improvido."
+(AgRg no HC 495.211/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 21/03/2019, DJe 29/03/2019);
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. IMPETRAÇÃO CONTRA DECISÃO INDEFERITÓRIA DE LIMINAR EM OUTRO HABEAS CORPUS NA ORIGEM, AINDA NÃO JULGADO. IMPOSSIBILIDADE DE SUPERAÇÃO DA SÚMULA N.º 691 DA SUPREMA CORTE. AUSÊNCIA DE TERATOLOGIA. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não se admite habeas corpus contra decisão denegatória de liminar proferida em outro writ na instância de origem, sob pena de indevida supressão de instância. Súmula n.º 691/STF.
+2. No caso, não se constata ilegalidade patente que autorize a mitigação da Súmula n.º 691 da Suprema Corte, tendo em vista que foi demonstrada a necessidade de manutenção da segregação cautelar, em virtude da "participação ativa do paciente na quadrilha voltada ao tráfico de entorpecentes, com a qual foi apreendida mais de 01 (uma) tonelada de cocaína, figurando o paciente na ORCRIM como piloto da aeronave".
+3. Conforme orientação desta Corte, a quantidade e a natureza da droga apreendida, bem como a necessidade de se interromper as atividades de organização criminosa, são circunstâncias aptas a justificar a segregação provisória.
+4. Agravo regimental desprovido."
+(AgRg no HC 496.205/MT, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 19/03/2019, DJe 01/04/2019).
+No caso dos autos, o indeferimento do pleito liminar foi assim fundamentado pelo Desembargador Relator:
+"Pois bem, anote-se de início que a legalidade da prisão preventiva do paciente, decorrente da conversão do flagrante, já foi objeto de apreciação por parte desta colendo 11ª Câmara de Direito Criminal no habeas corpus nº 2148545-12.2022.8.26.0000, quando na sessão permanente e virtual realizada em 3 de agosto p.p., Turma julgadora por votação unânime denegou a ordem, mantendo a prisão preventiva do ora paciente.
+Sobre o pedido de prisão domiciliar, como se sabe, a tutela de urgência em habeas corpus exige prova pré-constituída a demonstrar de imediato o constrangimento que se pretende ver superado, o que não é possível se depreender dos fatos alegados e da documentação juntada, não se colhendo em princípio ilegalidade na r. decisão hostilizada, referindo-se à ausência de documentação comprovando que o paciente não pode ser tratado no estabelecimento prisional em que se encontra custodiado."(e-STJ, fls. 69-70)
+Portanto, não se verifica a ocorrência de flagrante ilegalidade na decisão impugnada, de modo a justificar o processamento da presente ordem e o pronunciamento antecipado desta Corte.
+Ante o exposto, não conheço orecurso emhabeas corpus.
+Publique-se. Intimem-se.
