@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de recurso especial manejado por Itamil Itaoca Mineração Ltda., com base no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 5ª Região, assim ementado (fls. 82/84):
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL.OFERECIMENTO DE IMÓVEL À PENHORA. CONSTRIÇÃO QUE DEVE SERESTRINGIR AO BEM RAIZ (TERRA NUA). AVALIAÇÃO QUE DEVEDESCONSIDERAR EVENTUAL DIREITO DE LAVRA DE JAZIDAS DE CALCÁRIO.TEMA JÁ APRECIADO EM JULGADO ANTERIOR. AVALIAÇÃO POR OFICIAL DEJUSTIÇA. CABIMENTO.
+ ..
+A parte recorrente aponta violação aoart. 79 do CC. Sustenta, em resumo, que "a decisão recorrida violou o conceito de bem imóvel dado pelo art. 79, do Código Civil, pois apenas permitiu a penhora apenas em face da terra nua, sendo que lá não se encontra apenas um pedaço de terra em si, na verdade, é um bem imóvel composto pela jazida encravada no subsolo e as suas outras benfeitorias" (fl. 116).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+De início, destaca-se a seguinte fundamentação do acórdão recorrido (fl. 96):
+Primeiramente, não colhe a alegação de afronta ao art. 79 do CC/02 ao determinar que se desconsidere os direitos de lavra atinentes ao imóvel em sua avaliação. É que a previsão do legislador é abstrata, enquanto no caso de que se cuida o Tribunal já se manifestou acerca da matéria, exatamente nos termos que o Juízo decidiu.
+ ..
+Tampouco colhe a alegação de que o bem deve ser avaliado por profissional especializado, enão por oficial de justiça, devido à sua complexidade. Ora, o oficial de justiça tem habilitaçãopara proceder a penhora e avaliação do imóvel, mormente em se considerando que versará aanálise tão só ao valor da terra nua.
+Por outra, ainda que se alegue que a terra nua em si é insuficiente para garantir a execução, oentendimento da Segunda Turma é no sentido de que a insuficiência da garantia não obsta ooferecimento dos embargos à execução.
+E, mais que isso, o próprio Juízo já registrou na decisão que, efetivada a penhora, fosseintimada a executada para, querendo, no prazo de 30 (trinta) dias, oferecer Embargos àExecução (art. 16, III, LEF).
+Assim, nota-se que o referido dispositivo legal não contém comando capaz de sustentar a tese recursal a fim de que seja afastada apenhora em face da terra nua para alcançar as benfeitorias da terra e infirmar o juízo formulado pelo acórdão recorrido de que (I)"a previsão do legislador é abstrata" e (II) "o próprio Juízo já registrou na decisão que, efetivada a penhora, fosse intimada a executada para, querendo, no prazo de 30 (trinta) dias, oferecer Embargos à Execução (art. 16, III, LEF)", de maneira que se impõe ao caso concreto a incidência da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."). Por oportuno, destacam-se os seguintes precedentes: AgRg no AREsp 161.567/RJ, Rel. Ministro Teori Albino Zavascki, Primeira Turma, DJe 26/10/2012; REsp 1.163.939/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 8/2/2011.
+ANTE O EXPOSTO, não conheço do recurso especial.
+Publique-se.
