@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 23/08/2022 a 29/08/2022, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de embargos de declaração opostos contra acórdão, assim ementado (fl. 484):
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. APLICABILIDADE DO CPC/2015. REAJUSTE DE 28,86%. COMPENSAÇÃO COM OS REAJUSTES PREVISTOS NAS LEIS 8.622/1993 E 8.627/1993. ALCANCE DO TÍTULO EXEQUENDO. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. No tocante ao alcance do título executivo, a alteração das conclusões firmadas no voto condutor, com o objetivo de acolher a alegada violação da coisa julgada, demandaria novo exame do acervo fático-probatório, providência vedada em recurso especial, nos termos da Súmula 7/STJ.
+3. Agravo interno não provido.
+O embargante reitera a necessidade de observar-se, in casu, a autoridade da decisão proferida no REsp repetitivo 1.235.513/AL. Aduz que o decisum, ora embargado, incorreu em omissão quanto à inaplicabilidade da Súmula 7/STJ à espécie pois, segundo afirma, não pode ser aplicada ao caso dos autos solução diversa da estabelecida no julgamento do REsp 1.235.513/AL haja vista que, nos embargos à execução, a compensação só pode ser alegada se evidenciada a impossibilidade de ser invocada no processo de conhecimento, de modo que a sua admissão, sem que o título executivo a tenha estabelecido, afronta diretamente o entendimento firmado pelo STJ na sistemática dos casos repetitivos.
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. ARTIGO 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
+1. Tendo o recurso sido interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+3. Não há vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+4. Embargos de declaração rejeitados.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+No caso, o acórdão embargado registrou, expressamente, que (fls. 486-489):
+De fato, no que tange à suscitada impossibilidade de se alegar, após a fase de conhecimento, a compensação do índice de 28,86% com os reajustes concedidos pelas Leis 8.622/1993 e 8.627/1993, colhe-se do acórdão a quo os seguintes fundamentos (fl. 276):
+No caso, não restou evidenciado o desacerto dos cálculos apresentados pelo Contador Judicial, o qual, de acordo com os elementos constantes nos autos, abateu da conta os valores decorrentes de reajustes diferenciados concedidos aos servidores públicos substituídos pelas Leis 8.622/93 e 8.627/93, não havendo que se falar em nulidade da sentença, por ausência de fundamentação.
+No mérito, conforme entendimento pacífico desta 2ª Turma, deve ocorrer a detração dos aumentos decorrentes de plano de reestruturação de carreira, de modo que a execução de decisões judiciais que consagrem reajustes salariais deve levar em consideração a necessária compensação de valores que já foram implantados em face de terminação legal. "Não se cuida de afrontar o precedente do STJ em sede de recurso repetitivo (REsp 1.235.513/AL), mercê do distinguishing que se impõe reconhecer, porquanto, no caso presente, não se cogita de genuína pretensão à compensação, mas de aferição dos valores já pagos ao exequente, evitando o indesejável e ilegal bis in idem, pagando-se duas vezes o mesmo valor." (PJE0806618-53.2015.4.05.8300, Rel. Des. Federal Paulo Roberto de Oliveira Lima, julg. em 12/11/2019)
+Do que se observa na hipótese vertente, a alteração das conclusões adotadas pela Corte regional acerca do alcance do título executivo, com o objetivo de acolher a alegada violação da coisa julgada, demandaria, necessariamente, novo exame do acervo fático-probatório, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+ ..
+Registre-se, ademais, a "orientação desta Corte, firmada em precedente julgado sob o rito do art. 543-C do Código de Processo Civil, segundo a qual havendo limitação no título judicial transitado em julgado ao pagamento do índice de 28,86%, nos termos das Leis n. 8.622/93 e 8.627/93, não viola a coisa julgada acolher-se, em embargos à execução, a compensação com outros índices remuneratórios, se concedidos por legislação posterior à última oportunidade de alegação da objeção de defesa no processo cognitivo" (AREsp 615.464/PR, Rel. Ministra Regina Helena Costa, DJe 20/9/2016).
+Vê-se, portanto, que a matéria objeto da controvérsia encontra-se devidamente fundamentada e motivada, de modo que a pretensão do embargante evidencia mero inconformismo, na medida em que, sob a pecha de omissão, objetiva o reexame dos seus argumentos, com o intuito claro de atribuir efeito infringente ao decisum, hipótese a que não se destina o recurso integrativo.
+Assim, inexistentes as hipóteses do artigo 1.022 do Código de Processo Civil/2015, os embargos de declaração não merecem acolhimento.
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
