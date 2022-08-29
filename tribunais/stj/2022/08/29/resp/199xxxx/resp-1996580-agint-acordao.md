@@ -1,0 +1,67 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 23/08/2022 a 29/08/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): Trata-se de agravo interno, interposto por EDUARDO LUIZ SIEPIERSKI, contra decisão monocrática da lavra deste signatário, acostada às fls. 817/820, e-STJ, que negou provimento ao recurso especial.
+Depreende-se dos autos que a ora agravante interpôs recurso especial, com
+amparo nas alíneas "a" e "c" do permissivo constitucional, no intuito de reformar o acórdão proferido pelo Tribunal de Justiça do Estado do Acre, assim ementado (fl. 718, e-STJ):
+CIVIL E PROCESSO CIVIL. APELAÇÃO. EMBARGOS À EXECUÇÃO. CONTRATO DE CÂMBIO. LEGITIMIDADE PASSIVA DOS FIADORES. PRAZO PRESCRICIONAL QUINQUENAL. INOCORRÊNCIA. INTERRUPÇÃO DA PRESCRIÇÃO COM A CITAÇÃO DOS DEVEDORES SOLIDÁRIOS. DESÍDIA DO CREDOR NÃO VERIFICADA. IMPUGNAÇÃO AOS EMBARGOS. INTEMPESTIVIDADE. IRRELEVÃNCIA. INAPLICABILIDADE DOS EFEITOS DA REVELIA. SENTENÇA MANTIDA.
+1. Tratando-se dos títulos em execução de contratos de câmbio, tipo exportação, cujas garantias vêm pactuadas em escritura pública de outorga de hipoteca e fiança, e sendo juntado aos autos o respectivo instrumento onde consta serem os Apelantes fiadores e terceiros intervenientes dos contratos firmados com o banco Apelado, não há que se falar em ilegitimidade passiva.
+2. Incide, no caso de pretensão de cobrança de dívidas líquidas constantes de instrumento público ou particular, a prescrição quinquenal, à luz do art. 206, § 5º, 1, do CC/2002. A citação dos coexecutados ensejou a interrupção da prescrição também em relação aos Apelantes, diante da natureza solidária da obrigação pelo pagamento dos contratos objeto da execução (art. 204, § 1º, do CC e art. 240, § 1º do CPC/2015).
+3. A prescrição intercorrente somente incide quando o credor permanece inerte por prazo superior ao da prescrição do direito material vindicado, conforme interpretação extraída do art. 202, parágrafo único, do CC/2002. Ou seja, não basta o mero decurso do prazo prescricional previsto na legislação civil vigente para o reconhecimento da prescrição intercorrente, mas o reconhecimento de desídia do credor na satisfação do seu direito, o que não se verifica no caso concreto.
+4. A boa-fé objetiva, especialmente no âmbito das relações jurídicas contratuais, tem como uma de suas eficácias justamente a de geração de deveres anexos e de proteção, que servem de baliza para a verificação das situações de exercício jurídico inadmissível, e geram efeito inclusive nas fases pré e pás-contratual.
+5. Manifesta intempestividade da impugnação aos embargos à execução que não tem relevância para o deslinde do feito, porquanto inaplicáveis os efeitos da revelia. Precedentes.
+6. Apelação desprovida.
+Nas razões do recurso especial (fls. 730/744, e-STJ), os recorrentes apontaram, além de dissídio jurisprudencial, violação aos artigos 320 e 798 do Código de Processo Civil/15; 77 e 77 do Decreto nº 57.633/1966; 206, § 3º do Código Civil. Sustentaram, em síntese: i) ter havido ofensa à teoria da asserção, no sentido de que as condições da ação devem ser analisadas de acordo com os documentos carreados junto à petição inicial. "No caso, a Execução Fiscal não foi instruída com a escritura de fiança e que o referido o documento somente foi juntado em 16.06.2016 (fls. 302/312), ou seja, após 09 (nove) anos, do ajuizamento da Execução, foi reconhecida a legitimidade passiva do fiador para responder pela execução"; ii) é de três anos o prazo de prescrição aplicado no caso, tendo em vista trata-se de pretensão relativa à execução de nota promissória.
+Contrarrazões (fls. 762/801, e-STJ), e após decisão de admissão do recurso especial (fls. 802/805, e-STJ), os autos ascenderam a esta egrégia Corte de Justiça.
+Em decisão monocrática (fls. 817/820, e-STJ), negou-se provimento ao reclamo, ante a incidência das Súmulas 282 e356 do STF;83 e 7 do STJ.
+Irresignado(fls. 823/834, e-STJ), oora agravante interpõe agravo interno, no qual repisa as alegações do recurso especial, além de sustentar a não incidência das retrocitadas Súmulas.
+Sem impugnação (fl. 837, e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL - EMBARGOS À EXECUÇÃO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DO EMBARGANTE.
+1. A ausência de enfrentamento da questão objeto da controvérsia peloTribunal de origem impede o acesso à instância especial, porquanto nãopreenchido o requisito constitucional do prequestionamento, nos termos daSúmula 282 do STF, aplicável por analogia.
+1.1. Esta Corte admite o prequestionamento implícito dos dispositivostidos por violados, desde que as teses debatidas no apelo nobre sejamexpressamente discutidas no Tribunal de origem, o que não ocorreu nahipótese. Precedentes.
+2. Nos termos do entendimento jurisprudencial desta Corte, as dívidas fundadas em instrumento público ou particular prescrevem em cinco anos, a teor do artigo 206, § 5º, I, do Código Civil. Incidência da Súmula 83 do STJ.
+2.1. O acolhimento do inconformismo recursal,acerca da não ocorrência da prescriçãoreconhecida na origem, demandaria o revolvimento de matéria fático-probatória, providência que esbarra no óbice da Súmula 7/STJ.
+3. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): O agravo interno não merece acolhida, porquanto os argumentos tecidos peloagravante são incapazes de infirmar a decisão objurgada, motivo pelo qual merece ser mantida na íntegra por seus próprios fundamentos.
+1. Consoante asseverado na decisão agravada, o conteúdo normativo dosdispositivos legaistidos por violados no apelo extremo -artigos 320 e 798 do CPC/15, no que diz respeito à tempestividade ou preclusão do ato de juntada da escritura de fiança pela parte exequente/recorrida- não foramobjeto de exame pela instânciaordinária, tampouco foram apresentados embargos de declaração pelo orainsurgente a fim de sanar omissão ou prequestionar a matéria.
+Nos termos do entendimento deste Superior Tribunal de Justiça não ésuficiente, para fins de prequestionamento, que a matéria tenha sidosuscitada pelas partes, mas sim que a respeito tenha havido debate noacórdão recorrido.
+Portanto, inafastável a incidência da Súmula 282 do STF, in verbis: "Éinadmissível o recurso extraordinário, quando não ventilada, na decisãorecorrida, a questão federal suscitada", aplicável por analogia.
+Para que se configure o prequestionamento da matéria, há que se extrair doacórdão recorrido pronunciamento sobre as teses jurídicas em torno dosdispositivos legais tidos como violados, a fim de que se possa, nainstância especial, abrir discussão sobre determinada questão de direito,definindo-se a correta interpretação da legislação federal.
+Neste sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATOS PRETÉRITOS. REVISÃO. EMBARGOS À EXECUÇÃO. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 282/STF. ÔNUS DA PROVA. INVERSÃO. PRECLUSÃO.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Ausente o prequestionamento do dispositivo apontado como violado no recurso especial, incide o disposto na Súmula nº 282 do Supremo Tribunal Federal, por analogia.
+3. Ocorre a preclusão contra o despacho que diz respeito à produção de prova quando a parte não o impugna no momento oportuno.
+4. Agravo interno não provido.
+(AgInt no AREsp 1042317/PR, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 05/06/2018, DJe 11/06/2018).
+Desta forma, fica inviabilizada a apreciação da matéria inserta no aludidodispositivo, ante a ausência do necessário prequestionamento da matéria.
+2. Oagravante insiste na tese de aplicação do prazo prescricional de 3anos aocaso,tendo em vista trata-se de pretensão relativa à execução de nota promissória,não sendo ocaso de crédito líquido e certo constante em contrato de câmbio. Aponta a existência de dissídiojurisprudencial e refuta, no ponto, a incidência dos óbices estabelecidospelas Súmulas 7 e 83 do STJ.
+Razão não lhe assiste, todavia.
+Consoante asseverado na decisão agravada, oCorte local, ao afastar a ocorrência de prescrição, adotou os seguintes fundamentos (fls. 722, e-STJ):
+Defendem os Apelantes a tese da prescrição, alegando a fluência de prazo superior a 03 (três) anos, entre o vencimento da dívida e a citação pessoal dos Apelantes, por desídia do Apelado.
+Conforme registrado na sentença, o banco Apelado promoveu a execução de contratos de câmbio, tipo exportação, cuja inadimplência se verificou em dezembro de 2004, deflagrando-se, naquele ano, a contagem do prazo prescricional, que é de 05 (cinco) anos, por se tratar de "pretensão de cobrança de dividas líquidas constantes de instrumento público ou particular", nos termos do art. 206, § 5º, inciso 1, do Código Civil/2002, conforme jurisprudência desta Corte de Justiçai.
+No caso, a demanda foi ajuizada em 31/08/2007 (p. 01), antes, portanto, do termo final do prazo prescricional, tendo o Juízo de origem determinado a citação dos executados no endereço informado na petição inicial, que são os mesmos constantes dos respectivos instrumentos contratuais. Em 30/05/2008 foi juntada aos autos a carta precatória devidamente cumprida, por meio da qual foram citados os executados/fiadores Jan Siepierski Filho e Nair de Medeiros Siepierski (p. 102).
+Com efeito, estabelece o art. 204, § 1º, do CC que a interrupção operada contra o devedor solidário envolve os demais e seus herdeiros. A Corte Superior 2 inclusive tem precedente sobre o tema quando, tratando dos efeitos da citação do fiador em relação ao devedor principal, assenta a interrupção em relação aos devedores solidários, na forma do art. 240, § 1º do CPC/2015.
+Portanto, tem-se que a citação dos coexecutados ensejou a interrupção da prescrição também em relação aos Apelantes, diante da natureza solidária da obrigação pelo pagamento dos contratos objeto da execução.
+Depreende-se do julgado que a Corte local, diante as peculiaridades do caso concreto, a partir do exame do conjunto fático e probatório dos autos, constatou "o banco Apelado promoveu a execução de contratos de câmbio, tipo exportação, cuja inadimplência se verificou em dezembro de 2004, deflagrando-se, naquele ano, a contagem do prazo prescricional, que é de 05 (cinco) anos, por se tratar de "pretensão de cobrança de dividas líquidas constantes de instrumento público ou particular", (fl. 819, e-STJ).
+Com efeito, o entendimento do Tribunal a quo, ao aplicar, no caso subjudice, o prazo prescricional de 5 anos estabelecido pelo artigo 206, §5º, I, do Código Civil, está em harmonia com a jurisprudência desta CorteSuperior sobre a matéria, no sentido de que "as dívidas fundadas eminstrumento público ou particular prescrevem em cinco anos, nos termos doart. 206, § 5º, I, do Código Civil", o que atrai a incidência do teor daSúmula 83/STJ, a impedir o conhecimento do recurso por ambas as alíneas dopermissivo constitucional.
+Além disso,a conclusão em sentido contrário ao que restou expressamente consignado no acórdão hostilizado - acerca da não ocorrência da prescrição -, enseja, indubitavelmente, o revolvimento do conjunto fático-probatório dos autos, não se limitando à revaloração de provas, o que é vedado pela Súmula 7 desta eg. Corte.
+A propósito, citam-se os precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. 1. CERCEAMENTO DE DEFESA. SUFICIÊNCIA DE PROVAS ATESTADA PELAS INSTÂNCIAS ORDINÁRIAS. LIVRE CONVENCIMENTO MOTIVADO DO JULGADOR. INVERSÃO DO JULGADO. IMPOSSIBILIDADE. REEXAME DE PROVAS. SÚMULA 7/STJ. 2. DÍVIDA LÍQUIDA. INCIDÊNCIA DO PRAZO PRESCRICIONAL QUINQUENAL. ART. 206, § 5º, I, DO CÓDIGO CIVIL. PRECEDENTE. 3. AGRAVO INTERNO DESPROVIDO.
+(..)
+2. Aplica-se a prescrição quinquenal, prevista no art. 206, § 5º, I, do Código Civil,às ações de cobrança em que se pretende o pagamento de dívida líquida constante de instrumento particular. Precedentes.
+3. Agravo interno desprovido.
+(AgInt no AREsp 1215860/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 26/06/2018, DJe 29/06/2018)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PRESCRIÇÃO. COBRANÇA DE DÍVIDA LÍQUIDA E CERTA CONSTANTE EM INSTRUMENTO PÚBLICO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA.
+1. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+2. No caso concreto, o Tribunal de origem concluiu tratar-se de cobrança de dívida líquida e certa resultante de instrumento particular. Alterar esse entendimento demandaria o reexame das provas produzidas nos autos, vedado em recurso especial.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 542.523/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 24/10/2017, DJe 31/10/2017)
+Desse modo, inafastável a incidência dos óbices estabelecidos pelasSúmulas 7 e 83 desta Corte.
+3. Do exposto, negoprovimento ao agravo interno.
+É como voto.
