@@ -1,0 +1,13 @@
+DECISÃO
+RAFAEL CESSETTI agrava da decisão que inadmitiu seu recurso especial, interposto contra acórdão do Tribunal de Justiça do Estado do Paraná.
+No apelo inadmitido, fundamentado no art. 105, III, "a" e "c", da CF, o insurgente apontou as seguintes teses: a) violação do princípio da dialeticidade; b) afronta ao art. 157, do CPP; c) ofensa aos art. 41 e 395, I e II, do CPP; e d) transgressão do art. 397 do CPP.
+O reclamo foi inadmitido na origem - em virtude dos impedimentos das Súmulas n. 284 e 282 do STF e 7 e 211 do STJ e de ausência de cotejo analítico quanto ao dissídio jurisprudencial -, o que ensejou o agravo de fls. 8.127-8.149, no qual a parte impugna os óbices indicados e renova a tese do especial.
+O Ministério Público Federal postulou pelo desprovimento do agravo (fls. 8.937-8.941).
+Decido.
+O agravo é tempestivo, no entanto, não impugnou integralmente a decisão de inadmissibilidade do recurso especial, o que torna forçoso consignar a impossibilidade de conhecimento do recurso.
+Como mencionado no relatório, foram vários os óbices para inadmissão do apelo raro perante a Corte estadual. Contudo, o agravante deixou de impugnar os fundamentos do decisum recorrido, ao cingir-se a apontar os supostos artigos que haveriam sido violados, a fim de justificar a interposição do recurso especial, bem como reiterar as teses anteriormente apresentadas.
+Nessa perspectiva, "a jurisprude ncia desta Corte e" assente no sentido de que, para afastar a incide ncia da Su"mula 182/STJ, na o basta a impugnac a o gene"rica dos fundamentos da decisa o agravada, e" necessa"rio que a contestac a o seja especi"fica e suficientemente demonstrada" (AgInt no AREsp n. 867.735/SE, Rel. Ministro Humberto Martins, 2  T., DJe 10/8/2016, destaquei).
+Dessa forma, verifico que o insurgente deixou de rebater os mencionados óbices da Súmula n. 284 do STF, de ausência de cotejo analítico e de falta de prequestionamento, o que atrai a incidência da Súmula n. 182 do STJ, uma vez que é inviável o agravo que deixa de atacar especificamente os fundamentos da decisão de inadmissibilidade do recurso especial.
+Ressalte-se que o princípio da dialeticidade impõe à parte a demonstração específica do desacerto das razões do decisum atacado, sob pena de não conhecimento do recurso, e não são suficientes, para tanto, meras alegações genéricas, a repetição dos termos já lançados no especial ou a sugestão de verificação do aduzido no recurso anterior.
+A" vista do exposto, com fundamento no art. 932, III, do CPC, c/c o art. 253, para"grafo u"nico, I, do RISTJ, na o conhec o do agravo em recurso especial.
+Publique-se e intimem-se.
