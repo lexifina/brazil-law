@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 23/08/2022 a 29/08/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. MANDADO DE SEGURANÇA. DIREITO DE OBTER A RESTITUIÇÃO DE INDÉBITO PRETÉRITO NA INSTÂNCIA ADMINISTRATIVA. ADEQUAÇÃO.
+1. O Superior Tribunal de Justiça firmou compreensão segundo a qual o mandado de segurança é via adequada para declarar o direito à compensação ou à restituição de indébito tributário pretérito não atingido pela prescrição, sendo que, em ambos os casos, concedida a ordem, os pedidos devem ser requeridos na esfera administrativa, restando inviável a via do precatório, sob pena de conferir indevidos efeitos retroativos ao mandamus.
+2. A conformidade do entendimento adotado no acórdão recorrido com a jurisprudência desta Corte Superior enseja a aplicação do óbice de conhecimento estampado na Súmula 83 do STJ.
+3. Agravo interno desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+Trata-se de agravo interno manejado pelo DISTRITO FEDERAL contra decisão por mim proferida, constante às e-STJ fls. 495/497, em que conheci do agravo para, com fundamento na Súmula 83 do STJ, não conhecer de recurso especial que defende a impossibilidade de em mandado de segurança obter-se a declaração do direito à compensação ou à restituição de indébito tributário recolhido antes da impetração ainda não atingido pela prescrição.
+Nas suas razões (e-STJ fls. 501/511), o agravante sustenta, em resumo, que a jurisprudência citada na decisão agravada não se aplica ao presente caso, visto que o acórdão recorrido concedeu a ordem para declarar não só o direito à compensação mas também à restituição do indébito recolhido antes do ajuizamento do mandamus, o que equivaleria à repetição (cobrança) de indébito pretérito, vedado pela Súmula 271 do STF.
+A parte agravada apresentou impugnação (e-STJ fls. 514/524).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. MANDADO DE SEGURANÇA. DIREITO DE OBTER A RESTITUIÇÃO DE INDÉBITO PRETÉRITO NA INSTÂNCIA ADMINISTRATIVA. ADEQUAÇÃO.
+1. O Superior Tribunal de Justiça firmou compreensão segundo a qual o mandado de segurança é via adequada para declarar o direito à compensação ou à restituição de indébito tributário pretérito não atingido pela prescrição, sendo que, em ambos os casos, concedida a ordem, os pedidos devem ser requeridos na esfera administrativa, restando inviável a via do precatório, sob pena de conferir indevidos efeitos retroativos ao mandamus.
+2. A conformidade do entendimento adotado no acórdão recorrido com a jurisprudência desta Corte Superior enseja a aplicação do óbice de conhecimento estampado na Súmula 83 do STJ.
+3. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+Os argumentos ora deduzidos não convencem.
+A Primeira Seção, quando do julgamento do EREsp 1.770.495/RS, de minha relatoria, firmou o entendimento de que "o reconhecimento do direito à compensação de eventuais indébitos recolhidos anteriormente à impetração ainda não atingidos pela prescrição não importa em produção de efeito pretérito, vedado pela Súmula 271 do STF, visto que não há quantificação dos créditos a compensar e, por conseguinte, provimento condenatório em desfavor da Fazenda Pública à devolução de determinado valor, o qual deverá ser calculado posteriormente pelo contribuinte e pelo fisco no âmbito administrativo segundo o direito declarado judicialmente ao impetrante" (EREsp 1.770.495/RS, de minha relatoria, DJe 17/12/2021).
+Essa orientação jurisprudencial tem plena aplicação ao caso concreto, visto que a Corte estadual concedeu a ordem para "declarar o direito da parte autora à restituição ou à compensação dos valores indevidamente recolhidos atinentes ao ICMS DIFAL, decorrentes das operações de vendas de mercadorias da embargante a consumidores finais não contribuintes, acrescido pela Taxa SELIC, nos últimos cinco anos anteriores ao ajuizamento da ação, observada a legislação tributária aplicável ao Distrito Federal" (Grifos acrescidos).
+Frise-se que na fundamentação do julgado a quo está expresso que, "com a declaração de inexigibilidade do tributo, pode a parte autora pleitear a restituição e/ou a compensação no âmbito administrativo".
+Do que se observa, na hipótese, a declaração do direito à restituição não se equivale à alegado provimento condenatório de repetição de indébito, pois não há a quantificação dos valores a serem devolvidos, tampouco determinação de sua posterior liquidação em sede de execução judicial, a ensejar a sua quitação mediante expedição de precatório, mas sim a autorização para que a parte impetrante possa postular o recebimento de créditos dessa natureza diretamente na instância administrativa, em espécie ou mediante compensação, desde que observada a legislação de regência do ente tributante, momento em que quantum devido segundo os critérios fixados judicialmente será apurado pelas partes.
+Para confirmar essa compreensão, cito os seguintes arestos:
+PROCESSUAL CIVIL E TRIBUTÁRIO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL E VIOLAÇÃO AO PRINCÍPIO DA NÃO SURPRESA. INOCORRÊNCIA. PERDA DE OBJETO. INEXISTÊNCIA. REEXAME DE LEI LOCAL. IMPOSSIBILIDADE. AUSÊNCIA PREQUESTIONAMENTO. AUSÊNCIA. RESTITUIÇÃO DO ICMS/ST. RE/RG 593.849/MG. ART. 166 DO CTN. INAPLICABILIDADE. DECLARAÇÃO DO DIREITO À RESTITUIÇÃO. CRÉDITOS NÃO ATINGIDOS PELA PRESCRIÇÃO. ADEQUAÇÃO.
+ ..
+6. O provimento alcançado em mandado de segurança que visa exclusivamente a declaração do direito à restituição ou à compensação de tributo (Súmula 213 do STJ) tem efeitos exclusivamente prospectivos, os quais somente serão sentidos posteriormente ao trânsito em julgado (art. 170-A do CTN), quando da realização do efetivo encontro de contas, o qual está sujeito à fiscalização pela administração tributária.
+7. Na espécie de pretensão mandamental, o reconhecimento do direito à compensação de eventuais indébitos recolhidos anteriormente à impetração ainda não atingidos pela prescrição não importa em produção de efeito patrimonial pretérito, vedado pela Súmula 271 do STF, visto que não há quantificação dos créditos a compensar e, por conseguinte, provimento condenatório em desfavor da Fazenda Pública à devolução de determinado valor, o qual deverá ser calculado posteriormente pelo contribuinte e pelo fisco no âmbito administrativo segundo o direito declarado judicialmente ao impetrante.
+ ..  (AgInt no AgInt no REsp n. 1.947.689/MG, de minha relatoria, Primeira Turma, julgado em 27/6/2022, DJe de 30/6/2022.)
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. MANDADO DE SEGURANÇA. RESTITUIÇÃO DE INDÉBITO. EXPEDIÇÃO DE PRECATÓRIO. NÃO CABIMENTO.
+ ..
+2. O Superior Tribunal de Justiça firmou compreensão segundo a qual o mandado de segurança é via adequada para declarar o direito à compensação ou restituição de tributos, sendo que, em ambos os casos, concedida a ordem, os pedidos devem ser requeridos na esfera administrativa, restando, assim, inviável a via do precatório, sob pena de conferir indevidos efeitos retroativos ao mandamus.
+ ..  (AgInt no REsp 1895331/SP, de minha relatoria, Primeira Turma, julgado em 24/05/2021, DJe 11/06/2021)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. MANDADO DE SEGURANÇA. CUMPRIMENTO DE SENTENÇA. EXPEDIÇÃO DE PRECATÓRIO. INVIABILIDADE.
+1. A Segunda Turma desta Corte, no REsp 1.873.758/SC, Rel. Min. Herman Benjamin, DJe 17/9/2020, reafirmou que, nos autos do mandado de segurança, a opção pela compensação ou restituição do indébito se refere à restituição administrativa do indébito e não à restituição via precatório ou RPV, uma vez que a pretensão manifestada na via mandamental de condenação da Fazenda Nacional à restituição de tributo indevidamente pago no passado, viabilizando o posterior recebimento desse valor pela via do precatório, implica utilização do mandado de segurança como substitutivo da ação de cobrança, o que não se admite, conforme entendimento cristalizado na Súmula 269/STF.
+2. Agravo interno a que se nega provimento.
+(AgInt no REsp 1928782/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 30/08/2021, DJe 02/09/2021 - destaquei)
+Feitas essa considerações, reafirmo que o acórdão recorrido encontra-se em sintonia com a orientação jurisprudencial desta Corte Superior, ensejando a aplicação do óbice de conhecimento do recurso especial (Súmula 83 do STJ).
+Por fim, embora não merecedor de acolhimento, tenho que o presente inconformismo não representa interposição de agravo interno manifestamente inadmissível ou improcedente, a ensejar, por decisão unânime do Colegiado, a multa processual prevista no § 4º do art. 1.021 do CPC/2015.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
