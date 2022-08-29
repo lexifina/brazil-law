@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de agravo interposto por JOSÉ ROBERTO CORREIA DA SILVA contra decisão do Tribunal de Justiça do Estado de Alagoas, que inadmitiu recurso especial fundamentado no art. 105, inciso III, alíneaa, da Constituição da República na Apelação Criminal n.0703484-26.2015.8.02.0001.
+Consta dos autos que o Juízo de primeiro grau condenou o Agravante às penas de 19 (dezenove) anos, 1 (um) mês e 25 (vinte e cinco) dias de reclusão, em regime inicial fechado, como incurso no art. 121,§ 2.º, inciso IV, do Código Penal. Aplicada a detração- art. 42 do CP e art. 387,§ 2.º, do CPP-, a reprimenda corporal foi estabelecida em 16 (dezesseis) anos, 6 (seis) meses e 10 (dez) dias de reclusão(fls. 527-530).
+Irresignada, a Defesa interpôs apelação, à qual a Corte de origem deu parcial provimento para reconhecer a incidência da atenuante de confissão espontânea e considerá-la preponderante face à agravante preconizada na alínea f do inciso II do art. 61 do Código Penal, reduzir a reprimenda na segunda fase dosimétrica à razão de 1/12 (um doze) avos. Assim, as sanções foram redimensionadas a 15 (quinze) anos e 17 (dezessete) dias de reclusão, mantidas as demais cominações contidas no édito condenatório primevo.
+Sustenta a Defesa, nas razões do apelo nobre, contrariedade ao art. 59 do Estatuto Repressor.
+Argumenta que a pena-base foi elevada de forma desproporcional e sem motivação concreta para a aplicação de fração superior a 1/6 (um sexto) para cada circunstância judicial negativa.
+Foram apresentadas contrarrazões (fls. 615-617). O recurso especial não foi admitido (fls. 619-620). Foi interposto agravo (fls. 626-634).
+O Ministério Público Federal apresentou parecer, opinando pelo desprovimento do agravo em recurso especial (fls. 657-663).
+É o relatório.
+Decido.
+De referência àpena-base, esclareço que a elevação se deu com esteio nos seguintes pontos da sentença, mantidos pela Corte de origem (fls. 528-529; sem grifos no original):
+"Para o delito cometido pelo réu é previsto, em abstrato pena de reclusão de 12 (doze) a 30 (trinta) anos.
+a) A culpabilidade do réu é a medida do grau de reprovabilidade social de sua conduta. No caso em tela, a culpabilidade fora exarcerbada, tendo em vista que o condenado agiu com frieza, ao desferir 08 (oito) facadas na vitima dentro da própria residência. por isso valoro a circunstância como negativa;
+ ..
+g) Quanto as consequências do delito, haverão de ser consideradas desfavoráveis ao acusado, pois criou um ambiente familiar desajustado. já que os filhos do casal terão que conviver com o fato do pai ter retirado a vida da própria mãe, além das consequências psicológicas nefastas causadas nas crianças, portanto julgo a circunstância negativa;
+ ..
+Dessa forma, atento as duas circunstâncias judiciais desfavoráveis ao réu. quaissejam a culpabilidade e as consequências do delito, a serem consideradas, fixo a pena-base em 16 (dezesseis) anos e 05 (cinco) meses de reclusão.
+Quanto à fixação da pena-base, é certo que o Julgador deve, ao individualizar a pena, examinar com acuidade os elementos que dizem respeito ao fato, obedecidos e sopesados todos os critérios estabelecidos no art. 59 do Código Penal, para aplicar, de forma justa e fundamentada, a reprimenda que seja, proporcionalmente, necessária e suficiente para reprovação do crime, além das próprias elementares comuns ao tipo.
+Especialmente quando considerar desfavoráveis as circunstâncias judiciais, deve o Magistrado declinar, motivadamente, as suas razões, pois a inobservância dessa regra implica ofensa ao preceito contido no art. 93, inciso IX, da Constituição da República.
+Na hipótese, conforme se observa das transcrições anteriormente realizadas, no tocante à valoração negativa dos vetores atinentesà culpabilidadeeàs consequências do crime, a fixação dapena-baseacima do mínimo legal foi suficientemente fundamentada, tendo sido declinados elementos que emprestaram à conduta doAgravante especial reprovabilidade e que não se afiguram inerentes ao próprio tipo penal.
+Desse modo, a exasperação das reprimendas foi devidamente justificada nos citados vetores, que se afastaram do normal à espécie.
+Nesse sentido:
+" ..
+3. A desvaloração de circunstância judicial que acarreta exasperação da pena-base deve estar fundada em elementos concretos, não inerentes ao tipo penal.
+3.1. In casu, o desvalor da culpabilidade foi justificado nos 15 golpes de faca efetuados contra diversas partes do corpo da vítima.
+Cabível rechaçar a ocorrência de bis in idem em relação ao montante de redução pela tentativa que está amparado no iter criminis percorrido.
+ ..
+6. Agravo regimental desprovido."(AgRg no AREsp n. 1.238.514/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 12/02/2019, DJe21/02/2019.)
+"PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. HOMICÍDIO DUPLAMENTE QUALIFICADO PRIVILEGIADO. PENA-BASE. VETORIAIS DESFAVORÁVEIS. CULPABILIDADE, CIRCUNSTÂNCIAS E CONSEQUÊNCIAS. FUNDAMENTAÇÃO IDÔNEA. QUANTUM DE PENA. PROPORCIONALIDADE E RAZOABILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+2. O fato de a vítima ser ex-companheira, com a qual o réu teve dois filhos, de o crime haver sido cometido na frente de um deles e o desamparo de ambos (menores), como consequência da morte da mãe e da prisão do pai, são fundamentos que não integram o tipo penal e justificam a avaliação desfavorável das vetoriais culpabilidade, circunstâncias e consequências do delito.
+ ..
+5. Agravo regimental não provido."(AgRg no REsp n. 1.704.633/TO, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 24/09/2019, DJe1º/10/2019.)
+" ..
+5. As instâncias ordinárias não utilizaram de dados genéricos e vagos para justificar a exasperação da pena-base, no tocante à culpabilidade, uma vez que o acusado desferiu grande quantidade de golpes de faca na vítima, o que justifica a valoração negativa dessa circunstância, motivo pelo qual pode ser sopesada, pois aponta para maior reprovabilidade da conduta.
+6. Agravo regimental não provido."(AgRg no AREsp n. 968.444/DF, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 15/09/2016, DJe de 23/09/2016.)
+A propósito da alegação de que houve desrespeito ao princípio da proporcionalidade quando da fixação das sanções basilares, deve-se destacar que o Legislador não delimitou parâmetros exatos para a fixação da pena-base, de forma que a sua majoração fica adstrita ao prudente arbítrio do Magistrado, que deve observar o princípio do livre convencimento motivado e os limites máximos e mínimos abstratamente cominados a cada delito.
+Com efeito, para possibilitar uma distinção entre os diferentes graus de gravidade concreta que um mesmo crime abstratamente previsto pode implicar, a análise da proporcionalidade, na primeira etapa da dosimetria da pena, deve guardar correlação com o número total de circunstâncias judiciais do art. 59 do Código Penal, reconhecidas como desfavoráveis ao réu, sem prejuízo de que, em hipóteses excepcionais, a especial gravidade de alguma dessas circunstâncias justifique uma exasperação mais incisiva.
+Desse modo, não há nenhuma vinculação a critérios puramente matemáticos, mas os princípios da individualização da pena, da proporcionalidade, do dever de motivação das decisões judiciais e da isonomia exigem que o Julgador, a fim de balizar os limites de sua discricionariedade, realize um juízo de coerência entre:(a)o número de circunstâncias judiciais concretamente avaliadas como negativas;(b)o intervalo de pena abstratamente previsto para o crime; e(c)oquantumde pena que costuma ser aplicado pela jurisprudência em casos parecidos.
+Assim, considerando que o aumento da pena-base não está adstrito a critérios matemáticos e, ainda, a gravidade concreta dacondutadevidamente declinadapelas instâncias ordinárias, não se verifica desproporcionalidade na exasperação dapena-baseem 29 (vinte e nove) meses em razão da atribuição de valoração negativa a 2 (duas) vetoriais (culpabilidade e consequências do crime), conforme levado a efeito pelo Tribunal de origem.
+A propósito:
+" ..
+5. Diante do silêncio do legislador, a jurisprudência e a doutrina passaram a reconhecer como critério ideal para individualização da reprimenda-base o aumento na fração de 1/8 por cada circunstância judicial negativamente valorada, a incidir sobre o intervalo de pena abstratamente estabelecido no preceito secundário do tipo penal incriminador. Deveras, tratando-se de patamar meramente norteador, que busca apenas garantir a segurança jurídica e a proporcionalidade do aumento da pena, é facultado ao juiz, no exercício de sua discricionariedade motivada, adotar quantum de incremento diverso diante das peculiaridades do caso concreto e do maior desvalor do agir do réu.
+6. Na hipótese, o incremento por cada vetorial desabonadora, obedecendo os critérios acima explicitados, é de cerca de 2 anos e 3 meses, sendo que as instâncias ordinárias reconheceram duas circunstâncias judiciais desabonadoras ao paciente, e majoraram sua reprimenda em 1 ano na primeira fase da dosimetria. Percebe-se, pois, que a dosimetria da pena-base realizada pelas instâncias ordinárias mostrou-se benevolente com o réu, ao fixá-la em 13 anos reclusão. Por conseguinte, não se cogita qualquer constrangimento ilegal em desfavor do réu na dosimetria, devendo ser mantida a pena-base fixada pelas instâncias ordinárias, em respeito à regranon reformatio in pejus.
+7.Habeas corpusnão conhecido."(HC 592.423/RJ, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 15/09/2020, DJe 21/09/2020.)
+" ..
+2. Na hipótese, uma das três qualificadoras ("motivo torpe","meio cruel"e"emboscada") é utilizada para indicar o crime como qualificado e as demais são deslocadas para a segunda fase da dosimetria, para serem analisadas como agravantes. Tendo em vista que a pena mínima de um homicídio qualificado é de 12 (doze) anos; e que foram consideradas 04 (quatro) circunstâncias judiciais desfavoráveis e concretamente fundamentadas - circunstâncias do crime; consequênciasdo crime; personalidade do agente e culpabilidade do agente -, oquantumde acréscimo é proporcional e adequado, na medida em que se reputou um aumento de 1/8 (um oitavo) para cada vetor negativo.
+ ..
+4. Agravo regimental desprovido."(AgRg no HC 498.376/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 02/06/2020, DJe 15/06/2020.)
+Ante o exposto, CONHEÇO do agravo para CONHECER e NEGAR PROVIMENTO ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. HOMICÍDIO QUALIFICADO. PENA-BASE. VALORAÇÃO NEGATIVA DA CULPABILIDADE E DAS CONSEQUÊNCIAS DO DELITO. FUNDAMENTAÇÃO IDÔNEA. DESPROPORCIONALIDADE. INEXISTENTE. AGRAVO CONHECIDO PARA NÃO CONHECER E NEGAR PROVIMENTO AO RECURSO ESPECIAL.
