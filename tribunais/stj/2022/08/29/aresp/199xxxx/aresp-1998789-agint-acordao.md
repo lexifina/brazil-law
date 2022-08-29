@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 23/08/2022 a 29/08/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de agravo interno interposto por LILIA DE CASSIA NUNES MENDES,contra decisão da Presidência deste Superior Tribunal de Justiça que não conheceu do recurso especial aplicando-se o óbice da Súmula 284/STF e por ausência de prequestionamento.
+A agravante, reproduzindo trechos de seurecurso especial, alega que impugnou especificamente, de forma clara e objetiva, "o elemento decisório que afirma que as razões do recurso especial estão dissociadas do fundamento do acordão recorrido. A agravante impugnou e questionou o argumento central do acordão (..)que o médico deu pleno conhecimento dos riscos a que estaria se submetendo"(e-stj fl. 1.339).
+Defende que, "oque se pretende na realidade é a aplicação do art. 14, § 4ª do CDC do qual não necessita de reanálise do conjunto fático probatória já que a realização da cirurgia embelezadora é fato incontroverso. (..) não se pode negar vigência a este dispositivo legal visto que se revela uma atividade de fim e o resultado deve ser garantido" (e-stj fl. 1.340).
+Alega que "a tese foi apresentada e amplamente decidida e prequestionada na Corte Local, especificamente o art. 14, §4º. (..) Ela analisou o art.14 §4º do CDC, mas negou vigência ao deixar de aplicar sob o viés pretendido pela recorrente que é somente um: cirurgia embelezadora é atividade de fim e se o médico não atingiu o resultado (fato este incontroverso), responde por culpa" (e-stj fls. 1341/1342).
+Aduz que "há similitude fática entre os acórdãos recorrido e paradigma, como também o assunto foi apresentado, decidido e prequestionado na instancia ordinária" (e-stj fl. 1343).
+Impugnação às fls. 1353/1365 e 1366/1369.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ QUE NÃO CONHECEU DO RECURSO ESPECIAL. RAZÕES RECURSAIS DISSOCIADAS DOS FUNDAMENTOS UTILIZADOS NO ARESTO IMPUGNADO. INCIDÊNCIA DA SÚMULA 284/STF. AUSÊNCIA DE PREQUESTIONAMENTO. INEXISTÊNCIA DE FUNDAMENTOS QUE JUSTIFIQUEM A ALTERAÇÃO DA DECISÃO AGRAVADA.
+AGRAVO INTERNO DESPROVIDO.
+VOTO
+Eminentes colegas, a irresignação recursal não merece prosperar.
+Em que pese o arrazoado, entendo que a ausência de qualquer novo subsídio trazido pela agravante, capaz de alterar os fundamentos da decisão ora agravada, faz subsistir incólume o entendimento nela firmado.
+A decisão da Presidência deste Superior Tribunal de Justiça, ora agravada, não conheceu do recurso especial,aplicando-se o óbice da Súmula 284/STF,no tocante à alegação de violação do artigo 14, § 4º,do CDC, visto que as razões recursais delineadas no especial estão dissociadas dos fundamentos utilizados no aresto impugnado. O recurso especial também deixou de ser conhecido em razão daausência de prequestionamento e por não ter sidodemonstrado o dissídio jurisprudencial, ante a inexistência da necessária similitude fática e identidade jurídica entre o acórdão recorrido e aquele apontado como paradigma.
+Com efeito, o acórdão recorrido decidiu com as seguintes razões:
+Como se vê, a recorrente tinha pleno conhecimento dos riscos a que estaria se submetendo ao realizar a cirurgia de mamas, tendo sido cientificada de que o resultado do procedimento cirúrgico dependia não somente da cautela empregada pelo profissional da medicina, mas também da reação de seu próprio organismo durante a recuperação. Mesmo assim, insistiu em continuar com o tabagismo e, além disso, decidiu não se submeter ao procedimento de correção previamente agendado pelo médico.
+Nesse diapasão, aliás, informou o perito que a proposição de uma nova cirurgia para corrigir a cicatriz  marca inerente a todo e qualquer procedimento cirúrgico - é prática comum e habitual pelos profissionais da medicina. Assim, disse que a insurgente, ao abandonar o tratamento oferecido pelo cirurgião, deixou de realizar todos as técnicas possíveis a fim de aperfeiçoar a cicatriz oriunda da operação, fato que evidentemente contribuiu para o aspecto atual da cicatriz e do resultado dos quais se queixa (fl. 1.135).
+Nesse contexto, as razões recursais delineadas no especial, no que concerne à responsabilidade do médico pelos danos experimentados pela recorrente, uma vez que pertencia àquele a obrigação da correta avaliação da paciente,estão dissociadas dos fundamentos utilizados no aresto impugnado, aplicando-se, por analogia, o óbice da Súmula 284/STF.
+Cumpre observar que os recursos devem impugnar, de maneira específica e pormenorizada, todos os fundamentos da decisão contra a qual se insurgem, sob pena de vê-los mantidos.
+Ademais, nota-se que a matéria, na ótica arguida pela parte, não foi objeto de debate no acórdão recorrido, de maneira que o Tribunal a quo não emitiu juízo de valor acerca da tese desenvolvida nas razões recursais.
+Para que reste configurado o prequestionamento da matéria é imprescindível que o Tribunal de origem tenha sobre ela emitido juízo, aplicando-a ou afastando-a na análise do caso concreto, manifestando-se a respeito das teses recursais, o que não ocorreu in casu.
+A falta do necessário prequestionamento, porquanto não apreciada pelo julgado recorrido, inviabiliza o exame da alegada violação em sede de especial.
+Outrossim, verifica-se que não se procedeu ao devido cotejo analítico conforme estabelecido nos nos termos do art. 1.029, § 1º, do CPC e do art. 255, § 1º, do RISTJ.
+A divergência jurisprudencial deve ser demonstrada com a indicação das circunstâncias que identifiquem ou assemelhem os casos confrontados. A comprovação exige a transcrição dos trechos dos acórdãos em confronto, com o necessário cotejo analítico das teses divergentes, a fim de comprovar o dissenso em relação à mesma hipótese fática. Vale ressaltar que a simples transcrição e comparação de ementas não é suficiente para a comprovação do dissídio.
+Assim, não sendo as razões trazidas no agravo interno aptas a desconstituir a decisão recorrida, esta fica mantida por seus próprios fundamentos.
+Ante o exposto, nego provimento ao agravo interno.
+Advirta-se, por fim, que a oposição de incidentes processuais infundados dará ensejo à aplicação de multa (art. 1.026, § 2º, do CPC/2015).
+Por ora, deixo de aplicar a sanção requerida em sede de impugnação ao presente recurso, advertindo-se a parte de que eventual recurso interposto contra este decisum estará sujeito às normas do CPC/2015 (cf. Enunciado Administrativo n. 3/STJ), inclusive no que tange à aplicação de multa (art. 1.021, § 4º, e 1.026, § 2º, do CPC/2015).
+Por fim, não se revela possível o arbitramento de honorários sucumbenciais em sede de agravo interno, uma vez que se trata de recurso que apenas prorroga, no mesmo grau de jurisdição, a discussão travada em recurso especial.
+É o voto.
