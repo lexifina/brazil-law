@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo ESTADO DO MATO GROSSSO com fundamento no art. 105, a, da Constituição Federal, contra o acórdão assim ementado:
+APELAÇÃO CÍVEL  EMBARGOS À EXECUÇÃO  JULGAMENTO ANTECIPADO DA LIDE  SENTENÇA DE IMPROCEDÊNCIA FUNDAMENTADA NA INEXISTÊNCIA DE PROVA DO DIREITO ALEGADO  JULGAMENTO QUE PRIVILEGIOU A VERDADE FORMAL EM DETRIMENTO DA VERDADE REAL - CERCEAMENTO DE DEFESA  NULIDADE DA SENTENÇA  RECURSO PROVIDO.
+O art. 130, do CPC/1973 e o art. 370 do NCPC ao permitir que o juiz, de ofício ou a requerimento da parte, determine a produção de provas necessárias à instrução do processo, consagrou, por via indireta, o princípio da verdade real, também no processo civil, de modo que este prevalece sobre a verdade formal.
+O julgamento antecipado da lide somente se justifica quando a questão for unicamente de direito, ou, sendo de direito e de fato, o Juiz se convencer da desnecessidade da instrução probatória, porque satisfeito com as provas existentes nos autos. Se ao sentenciar, o Juiz sustenta a insuficiência de provas, que não tenha requerido ou oportunizado à parte produzi-las, incorre no cerceamento de defesa, de modo que a nulidade da sentença é medida que se impõe.
+Foi atribuído à causa o valor de R$ 2.546.677,65.
+Os embargos de declaração opostos foram rejeitados.
+O recorrente aponta como violados os arts. 373, caput e I e 942, do CPC/2015, argumentando, em síntese, ser indevido o entendimento sufragado pelo Tribunal a quo no sentido de que a técnica de ampliação de julgamento, disposta no art. 942 do CPC, não valeria no caso de sentença anulada, que não adentra no mérito.
+Adiante, sobre o art. 373, caput e I, o recorrente afirma ser incompatível a decisão que determina a anulação da sentença por cerceamento de defesa com o fato de que o recorrido não teria se desincumbido do ônus probatório.
+Parecer do MPF pelo provimento do recurso.
+É o relatório. Decido.
+Sobre a alegada ofensa ao art. 373 do CPC/2015, diante da alegação de que não houve cerceamento de defesa, verifica-se que a análise da matéria impõe a revisitação do conjunto fático probatório, o que é indevido no âmbito do recurso especial. Incidência da súmula 7/STJ.
+Não obstante, no tocante ao afirmado malferimento do art. 942 do CPC/2015, assiste razão ao recorrente, tendo em vista que é assente o entendimento segundo o qual a técnica de julgamento prevista no art. 942 do CPC/2015 é adotada mesmo que não haja julgamento de mérito, bastando que não tenha havido unanimidade no julgamento da apelação.
+No mesmo diapasão, confira-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 3/STJ. JULGAMENTO MONOCRÁTICO. MATÉRIA PROCESSUAL. ENTENDIMENTO DO STJ.
+1. Nos termos da Súmula 568/STJ é possível o julgamento monocrático do recurso especial quando houver jurisprudência no mesmo sentido dos fundamentos adotados no decisum.
+2. É entendimento sedimentado nesta Corte o cabimento da aplicação da regra do art. 942 do CPC/2015, mesmo que não tenha havido reforma da sentença de mérito, bastando a verificação de julgamento não unânime do recurso de apelação.
+3. Agravo interno não provido.
+(AgInt no REsp n. 1.841.151/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 24/2/2021, DJe de 26/2/2021.)
+PROCESSUAL CIVIL. ART. 942, CAPUT, DO CPC/2015. JULGAMENTO NÃO UNÂNIME DE APELAÇÃO POSTERIOR À ENTRADA EM VIGOR DO CPC/2015. TÉCNICA DE AMPLIAÇÃO DO COLEGIADO. INOBSERVÂNCIA. NULIDADE.
+1. Conforme entendimento do STJ, o art. 942 do CPC/2015 não estabelece nova espécie recursal, mas técnica de julgamento a ser aplicada de ofício, independentemente de requerimento das partes, com o objetivo de aprofundar a análise da questão, de natureza fática ou jurídica, acerca da qual houve dissidência.
+2. Com efeito, o STJ já decidiu que, "diante da natureza jurídica sui generis da técnica de ampliação do colegiado, o marco temporal para aferir a incidência do art. 942, caput, do CPC/2015 deve ser a data da proclamação do resultado não unânime da apelação" (REsp 1.762.236/SP, Rel. Ministro Marco Aurélio Bellizze, Rel. p/ Acórdão Ministro Ricardo Villas Bôas Cueva, terceira turma, DJe de 15/3/2019). No mesmo sentido: REsp 1.798.705/SC, Rel. Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 28/10/2019; AgInt no AREsp 1.309.402/SP, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 23/5/2019).
+3. Consoante a compreensão de ambas as Turmas que compõem a 2ª Seção do STJ, diferentemente dos embargos infringentes regulados pelo CPC/1973, a nova técnica de ampliação do colegiado é de observância automática e obrigatória sempre que o resultado da apelação for não unânime, e não apenas quando ocorrer a reforma de sentença.
+3. Recurso Especial provido para se acolher a preliminar de nulidade, e determinar o retorno dos autos ao Tribunal de origem a fim de que convoque a realização de nova sessão e prossiga no julgamento da Apelação, nos termos do art. 942 do CPC/2015. Ficam prejudicadas, por ora, as demais questões.
+(REsp n. 1.857.426/RJ, relator Ministro Herman Benjamin, Segunda Turma, julgado em 10/3/2020, DJe de 21/8/2020.)
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para determinar o retorno dos autos ao Tribunal a quo para que se proceda ao julgamento da apelação conforme a previsão do art. 942 do CPC/2015.
+Publique-se. Intimem-se.
