@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 23/08/2022 a 29/08/2022, por unanimidade, rejeitar os embargos de declaração, com aplicação de multa, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Luis Felipe Salomão, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+O EXMO. SR. MINISTRO RAUL ARAÚJO:
+Trata-se de embargos de declaração (e-STJ, fls. 311/313) opostos por JOSÉ LEONARDO MULSER contra v. acórdão que deixou de acolher os embargos de declaração. Eis a ementa do v. acórdão embargado:
+"EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. AUSÊNCIA. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS, COM APLICAÇÃO DE MULTA.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022). É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+2. Caráter protelatório na oposição de embargos de declaração infundados, nos quais expostas razões recursais idênticas a anteriores já analisadas e rejeitadas.
+3. Embargos de declaração rejeitados, com aplicação de multa."
+Nas razões dos aclaratórios, o embargante afirma que "a questão posta a julgamento vai além de sanar eventual existência de obscuridade, contradição, omissão ou erro material, pois como já explicado diversas vezes o presente feito é originário dos autos do Inventário de Guimar Camelo Mulser e o julgamento da RCL 1718-GO, nesse STJ, para garantir a eficácia da decisão proferida no Agravo de Instrumento nº. 444.405-GO, também originário dos autos do Inventário de Guimar Camelo Mulser com a interferência do autodeclarado suspeito/impedido Min. Castro Filho foi fraudado por V. Exa. e o Min. Fernando Gonçalves valendo-se da Segunda Seção desse Superior Tribunal de Justiça" (e-STJ, fl. 311).
+Requer, assim, "pedindo a suspensão da multa imposta por ser o embargante beneficiário da assistência judiciária, requer o acolhimento dos presentes aclaratórios com efeito modificativo, para decretar a nulidade da decisão Embargada, o julgamento do Agravo Interno de fl. 277/78 no sentido de que o incidente de suspeição de V. Exa. de fl. 226/27 seja processado, e, por economia processual seja reconhecida por V. Exa. a sua própria suspeição" (e-STJ, fl. 312).
+Intimada, a parte agravada não se manifestou.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE CONTRADIÇÃO E OMISSÃO. QUARTOS EMBARGOS DE DECLARAÇÃO. INTUITO MANIFESTAMENTE PROTELATÓRIO. MAJORAÇÃO DA MULTA. ART. 1.026, § 3º, DO CPC/2015. EMBARGOS REJEITADOS.
+1. Os embargos de declaração são cabíveis quando houver, na decisão ou no acórdão, obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022), não sendo esse o caso dos autos.
+2. Tratando-se de quartos embargos de declaração, sem a indicação de obscuridade, contradição, omissão ou erro material, com intuito manifestamente protelatório, impõe-se a majoração da multa anteriormente imposta, nos termos do art. 1.026, § 3º, do Código de Processo Civil de 2015.
+3. Embargos de declaração rejeitados, com majoração da multa para 5% (cinco por cento) sobre o valor da causa, ficando a interposição de qualquer outro recurso condicionada ao depósito do respectivo valor.
+VOTO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+Não caracterizada nenhuma das hipóteses do artigo 1.022 do Código de Processo Civil de 2015, os presentes embargos de declaração não merecem prosperar.
+Consoante se extrai das razões dos presentes aclaratórios, o embargante, apesar de afirmar a existência de vícios no julgado, limita-se a repetir argumentos já expressamente refutados nos acórdãos anteriores, de modo a deixar nítido o propósito manifestamente protelatório dos embargos de declaração, a ensejar a majoração da multa anteriormente aplicada, nos termos do art. 1.026, § 3º, do CPC/2015. A propósito:
+"EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EFEITOS INFRINGENTES. NÃO CABIMENTO. INEXISTÊNCIA DOS REQUISITOS DO ART. 1.022 E INCISOS DO CPC/15. JULGADO EMBARGADO DEVIDAMENTE FUNDAMENTADO. AUSÊNCIA DE OMISSÃO. REITERAÇÃO DE EMBARGOS MANIFESTAMENTE PROTELATÓRIOS. NECESSIDADE DE MAJORAÇÃO DA MULTA ANTERIORMENTE APLICADA NOS TERMOS DO ART. 1.026, § 3º, DO CPC/15.
+1. Os embargos de declaração objetivam sanar eventual existência de obscuridade, contradição, omissão e/ou erro material no julgado (CPC, art. 1022). A ausência do enquadramento fático às hipóteses mencionadas não permite o acolhimento do presente recurso.
+2. Os embargantes, na verdade, desejam a rediscussão da matéria, já julgada de maneira inequívoca. A referida pretensão não está em harmonia com a natureza e a função dos embargos declaratórios.
+3. O recurso revela-se manifestamente inadmissível e protelatório, a ensejar a majoração da multa anteriormente aplicada, ficando a interposição de qualquer outro recurso condicionada ao depósito prévio de respectiva quantia, nos termos do art. 1.026, § 3º, do CPC/15.
+4. Embargos de declaração rejeitados, com majoração da multa para 5% sobre o valor atualizado da causa." (EDcl nos EDcl nos EDcl no AgInt no AREsp 992.489/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 05/12/2017, DJe 12/12/2017, g.n.)
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. VIOLAÇÃO DO ART. 1.022 DO NCPC. OBSCURIDADE. NÃO VERIFICADA. INOVAÇÃO RECURSAL. SEGUNDO RECURSO PROTELATÓRIO. MAJORAÇÃO DA MULTA DO ART. 1.026, § 3º, DO NCPC. EMBARGOS DE DECLARAÇÃO REJEITADOS, COM MAJORAÇÃO DA MULTA.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Os embargos de declaração destinam-se a suprir omissão, afastar obscuridade ou eliminar contradição eventualmente existentes no julgado combatido, bem como corrigir erro material.
+3. Como não foi demonstrado nenhum vício no acórdão embargado a ensejar a integração do julgado, a pretensão veiculada visa o rejulgamento da causa, o que não é admitido.
+4. É vedada a inovação recursal em sede de embargos de declaração, cujo acolhimento pressupõe omissão, obscuridade ou contradição no julgamento acerca de questão oportunamente suscitada pelas partes, o que não ocorreu na hipótese dos autos.
+5. Em razão da reiteração de embargos de declaração protelatórios, e da anterior advertência em relação à incidência do NCPC, a multa anteriormente fixada fica elevada ao percentual de 10% sobre o valor da causa, nos termos do art. 1.026, § 3º, do NCPC.
+6. Embargos de declaração rejeitados, com majoração da multa." (EDcl nos EDcl no AgInt no AREsp 1.052.817/AM, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 24/04/2018, DJe 30/04/2018,
+g.n.)
+Ante o exposto, rejeitam-se os embargos de declaração, majorando-se a multa anteriormente aplicada para 5% (cinco por cento) sobre o valor da causa e condicionando a interposição de qualquer outro recurso ao depósito do respectivo valor, nos termos do art. 1.026, § 3º, do CPC/2015.
+É como voto.
