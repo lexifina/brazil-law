@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 23/08/2022 a 29/08/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+Trata-se de agravo interno interposto por ESTADO DO CEARÁpara desafiardecisão proferida às e-STJ fls. 403/407, em que dei provimento ao recurso especial para reconhecer a possibilidade de imposição deastreintesem demanda em que se busca o fornecimento de medicamento.
+Sustenta a parte agravante, inicialmente, que o apelo nobre sequer merecia ser conhecido, visto que a eventual aplicação de multa cominatória implica em análise de matéria fático-probatória, o que encontra óbice da Súmula 7 do STJ.
+Afirma que, mesmo que fosse caso de conhecimento do recurso, não há recalcitrância do ente político, o qual tem cumprido a decisão judicial, não havendo, portanto, que se falar emfixação deastreintes.
+Acrescenta que o valor fixado pelo juízo de primeira instância a título de multa cominatória, R$ 1.000,00 (mil reais) deu-se de forma genérica e desproporcional.
+Requer, ao final, a reconsideração do decisum recorrido ou, caso assim não se entenda, seja submetido o presente agravo interno à apreciação da Turma.
+Impugnação apresentada às e-STJ fls. 429.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL.ASTREINTES. FAZENDA PÚBLICA. POSSIBILIDADE. SÚMULA 7 DO STJ. INAPLICABILIDADE. DECISÃO JUDICIAL. PRÉVIO DESCUMPRIMENTO. COMPROVAÇÃO. DESNECESSIDADE.
+1. A Súmula 7 do STJ impede o reexame de matérias fáticas, não proibindo, porém, a intervenção desta Corte de Justiça quando se verifica o equívoco na aplicação dos institutos legais, notadamente quando há confronto com entendimento firmado pelo STJ sobre a matéria.
+2. O STJ, no Tema 98, firmou tesequanto à"possibilidade de imposição de multa diária (astreintes) a ente público, para compeli-lo a fornecer medicamento à pessoa desprovida de recursos financeiros".
+3. Não há necessidade de que haja prévia negativa de cumprimento de decisão judicial para que, então, se venha a fixar astreintes, nos termos do precedente obrigatório, poisa demora na prestação de atendimento adequado, comumente, levaao comprometimento da saúde e/ou vida do paciente, que, em determinadas hipóteses, é irreversível.
+4. Agravo interno desprovido.
+VOTO
+Inicialmente, cumpre afastar desde logo a alegação de incidência da Súmula 7 do STJ, visto quea discussão trazida a debate diz respeito à possibilidade de fixação deastreintescontra a Fazenda Pública em demanda referente ao fornecimento de medicamento.
+A possibilidade de aplicação do referido instituto não demanda a apreciação de elementos de convicção presentes nos autos, mas interpretação de dispositivo legal,tanto é assim que foi objeto de tema submetido à sistemática dos recursos repetitivos, sendo firmada a seguinte tese: "Possibilidade de imposição de multa diária (astreintes) a ente público, para compeli-lo a fornecer medicamento à pessoa desprovida de recursos financeiros" (Tema 98 do STJ).
+Com efeito, a aplicação de tese firmada em precedente obrigatório não ensejaa revisão fático-probatória, não existindo, portanto, óbice ao conhecimento do apelo nobre.
+Registre-se, por oportuno, que os julgados desta Casa de Justiça indicados nas razões do agravo interno, em que houve aplicação da Súmula 7 do STJ, dizem respeito a razoabilidade do valor da multa cominatória então aplicada.
+No caso, em demanda visando o fornecimento de medicamento, o Tribunal de origem deu parcial provimento para agravo de instrumento para suspender a exigibilidade da multa, porque "a Segunda Turma desta Corte possui posicionamento consolidado no sentido da impossibilidade de aplicação de astreintes contra a Fazenda Pública como meio de coação ao cumprimento de obrigação de fazer" (e-STJ fl. 213).
+Devolvido os autos para eventual juízo de retratação, o Colegiado de origem manteve o julgado ao fundamento de que "a razão de decidir do repetitivo diz respeito à recalcitrância do devedor, o que, no caso, inexistira, afinal a previsão de multa fora estabelecida abstratamente e já na própria determinação de fornecimento do fármaco, não sendo possível extrair-se desse contexto qualquer resistência da Fazenda Pública" (e-STJ fl. 378).
+Todavia, conforme destacado na decisão agravada, no julgamento doREsp 1.474.665/RS, submetido à sistemática dos recursos repetitivos, o eminente relator, Ministro Benedito Gonçalves, asseverou que a problemática da efetivação dos provimentos judiciais que impunham cumprimento de obrigação de fazer ou não fazer sempre foi notória,porquantodependiam da colaboração espontânea do devedor, situação que levou o legislador a criar mecanismos que pudessem compeli-lo a cumprir a obrigação, como a imposição de astreintes.
+Nesse contexto, concluiu-se que a multa diária visando compelir a obrigação de fazer tem início "a partir da ciência do obrigado e da sua negativa de adimplir a obrigação voluntariamente", conforme ressaltado por Sua Excelência no referido julgado - REsp 1.474.665/RS (Primeira Seção, DJe 26/04/2017)- do qual também se extrai:
+E a particularidade de impor obrigação de fazer ou de não fazer à Fazenda Pública não ostenta a propriedade de mitigar, em caso de descumprimento, a sanção de pagar multa diária, conforme prescreve o § 5º do art. 461 do CPC/1973.
+Nesse ponto, convém alertar que, em se tratando do direito à saúde, com maior razão deve ser aplicado, em desfavor do ente público recalcitrante, o preceito cominatório, sob pena de ser subvertida garantia fundamental. Em outras palavras, é o direito-meio que assegura o bem maior: a vida.
+A jurisprudência desta Corte, em reiterados precedentes, admite a imposição de multa cominatória (astreintes), ex officio ou a requerimento da parte, a fim de compelir o devedor a adimplir a obrigação de fazer, não importando que esse devedor seja a Fazenda Pública. Confiram-se:
+(..)
+Pois bem, a expressão "tais como", constante do § 5º do art. 461 do CPC/1973 é exemplificativa e garante ao magistrado poder para decidir sobre qual medida irá se valer para o cumprimento da decisão exarada por si. Trata-se do "poder geral de efetivação", concedido ao juiz para dotar de efetividade as suas decisões.
+Infere-se que o legislador, ao conferir ao magistrado a cognominada "cláusula geral executiva", fê-lo no sentido de conceder a ele o poder de dar efetividade às suas decisões judiciais, para, em último plano, assegurar ao jurisdicionado o direito de receber a prestação jurisdicional efetiva (art. 5º, LIV, da Constituição Federal).
+Com efeito, ao contrário do entendimento alcançado pelo Tribunal de origem, não há necessidade de que haja prévia negativa de cumprimento de decisão judicial para que, então, se venha a fixarastreintes.
+Tal requisito poderia, inclusive, ser considerado contraditório com o próprio instituto processual, notadamente em demanda relativa à saúde, em que, comumente, a demora na prestação de atendimentoadequado leva ao comprometimento da saúde e/ou vida do paciente, que, em determinadas hipóteses,é irreversível.
+Além disso, se a ente político cumpre a ordem judicial, ainda que haja fixação deastreintes, por óbvio, não haverá o que ser executado nesse sentido.
+Nesse passo, não há qualquer justificativa para se afastar a possibilidade de fixação deastreintesna demanda em apreço.
+Cumpre ainda ressaltar, conforme já observado na decisão agravada (e-STJ fl. 407)que aastreintesémétodo de coerção ao cumprimento de obrigação de fazer ou não fazer, de modo que não faz coisa julgada.
+Assim, poderá, a qualquer tempo,ser reduzida ou suprimida diante dos contornos fáticos observados pelas instâncias ordinárias, tais comoeventual demora ou atraso no cumprimento da obrigação em decorrência de condutade terceiro.
+Por fim, deixo de aplicar a multa prevista no § 4º do art. 1.021 do CPC/2015, tendo em vista que o mero inconformismo com a decisão agravada não enseja a necessária imposição da sanção, quando não configurada a manifesta inadmissibilidade ou improcedência do recurso, por decisão unânime do Colegiado, como no caso em análise.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
