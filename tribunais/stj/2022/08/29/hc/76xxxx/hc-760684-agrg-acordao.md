@@ -1,0 +1,22 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região) e Laurita Vaz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Trata-se de agravo regimental de Deivid Andriani Batista, ajuizado pela Defensoria Pública da União,contra a decisão monocrática, de minha lavra, na qual indeferi liminarmente o writ, conforme os termos da seguinte ementa (fl. 125):
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL.EXECUÇÃO PENAL. TRÁFICO DE DROGAS. NATUREZA DO DELITO.EQUIPARAÇÃO A CRIME HEDIONDO. ACÓRDÃO IMPUGNADO EM CONFORMIDADE COM A JURISPRUDÊNCIA DO STJ. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Writ indeferido liminarmente.
+O agravante alegaquenão parece adequado presumir a equiparação à hediondez do crime de tráfico de drogas, em razão de insustentabilidade desta posição para a gestão prisional brasileira, levando em conta a realidade do país(fl. 135).
+Aduz que, diante das alterações legislativas recentes, há interpretação extensiva acerca da equiparação dos crimes hediondos para fins de progressão de regime, a qual é vedada quando utilizada em desfavor do acusado. Nesse passo defende que, após a revogação do art. 2º, § 2º, da Lei nº 8.072/1990, não subsiste qualquer norma que induza expressamente à conclusão de ser o crime de tráfico de drogas "equiparado" a hediondo(fl. 142).
+Sustenta que, diante das omissões legislativas, impõe-se a aplicação da analogia in bonam partem e a incidência dos princípios da legalidade, taxatividade e retroatividade da lei mais benéfica, razão pela qual, na análise do pedido de afastamento da hediondez do tráfico ilícito de entorpecentes para fins de progressão de regime, deverão ser aplicados estes mesmos parâmetros hermenêuticos dos delitos comuns(fl. 143).
+Ao final, busca a reconsideração da decisão recorrida ou seja o presente agravo submetido à apreciação da SextaTurma, a fim de que provido para cassar o acórdão proferido pelo Tribunal de Justiça de Santa Catarina.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EMHABEAS CORPUS.EXECUÇÃODA PENA. CÁLCULO DE PENA PARA PROGRESSÃO DE REGIME. REVOGAÇÃO DO § 2º DO ART. 2º DA LEI 8.072/90 (LEI DOS CRIMESHEDIONDOS) PELA LEI 13.964/2019,QUE NÃO AFASTA A CARACTERIZAÇÃO DO CRIME DETRÁFICODE DROGAS COMO DELITO EQUIPARADO AHEDIONDO.
+1. Pacífico o entendimento desta Corte Superior no sentido de que otráficode drogas continua sendo crime equiparado ahediondo,mesmo após a edição da Lei n. 13.964/2019. Precedentes.
+2. Agravo regimental improvido.
+VOTO
+O presente agravo não comporta provimento.
+Conforme expus ao decidir monocraticamente,os precedentes das duas Turmas que compõem a Terceira Seção do Superior Tribunal de Justiça são no sentido deque,diferentemente da conjuntura relativa ao tráfico privilegiado, a própria Constituição Federal, em seu art. 5º, XLIII, rotulou como mais graves, tal qual os crimes hediondos (a serem definidos por lei ordinária), os delitos de tortura, o tráfico ilícito de entorpecentes e o terrorismo. Tal equiparação foi realizada pelo próprio constituinte originário, de modo que não se cogita a hipótese de que o Pacote Anticrime tenha afastado o caráter equiparado a hediondo do crime de tráfico de drogas(AgRg no HC n. 736.796/SC, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 16/5/2022).
+Assim,a revogação do § 2º do art. 2º da Lei 8.072/90 pela Lei 13.964/2019 não tem o condão de retirar do tráfico de drogas sua caracterização como delito equiparado a hediondo, pois a classificação da narcotraficância como infração penal equiparada a hedionda decorre da previsão constitucional estabelecida no art. 5º, XLIII, da Constituição Federal(AgRg no HC n. 729.332/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 25/4/2022).
+Importante destacar, conforme salientado pelo Ministro Rogério Schietti Cruz no julgado supra, que o § 5º do art. 112 da Lei de Execução Penalexcepcionou da regra de progressão dos crimes hediondos e equiparadoso tráfico privilegiadodo § 4º do art. 33 da Lei n. 11.343/2006. Daí é possível inferir que os incisos do caput do art. 112, ao se referirem aos delitos hediondos e equiparados, abarcaram o tráfico de drogas.
+Ante o exposto, nego provimento ao agravo regimental.
