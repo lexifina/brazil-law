@@ -1,0 +1,27 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 23/08/2022 a 29/08/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Og Fernandes.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Agravo Interno contra decisão que não conheceu da irresignação por ausência de impugnação ao fundamento do Juízo prelibador (Súmula 284/STF - por não comprovação da divergência). Fez incidir a Súmula 182/STJ.
+Defende José David Tomazi:
+5. Foi observado o que dispõe o artigo 1.029, § 1º, do Código de Processo Civil, no qual prevê que o Recorrente poderá "fazer prova da divergência com a reprodução de julgado disponível na rede mundial de computadores".
+6. Conforme demonstrado no recurso especial e no agravo em recurso especial, a Segunda Seção do egr. STJ consolidou o entendimento de que é impenhorável a quantia de até quarenta salários mínimos poupada, seja ela mantida em papel moeda, conta corrente ou aplicada em caderneta de poupança propriamente dita, CDB, RDB ou em fundo de investimentos.
+7. Dessa forma, a ora agravante enfrentou os fundamentos da decisão que inadmitiu o prosseguimento do Recurso Especial, conforme telas que colaciona-se abaixo, quais sejam, a prova da divergência com a reprodução de julgado, conforme requer o art. 1.029, §1º, do Código de Processo Civil. Não sendo cabível o enfretamento das questões que não foram enfrentadas pelo julgador do Agravo em Recurso Especial, mas que serão, em verdade, julgadas posteriormente pelo Superior Tribunal de Justiça quando da análise do Recurso Especial.
+Impugnação às fls. 242-247, e-STJ.
+É o Relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. RECURSO QUE DEIXA DE IMPUGNAR ESPECIFICAMENTE OS FUNDAMENTOS DA DECISÃO ORA AGRAVADA. INCIDÊNCIA DA SÚMULA 182 DO STJ.
+1.Trata-se de Agravo Interno contra decisão que não conheceu da irresignação por ausência de impugnação ao fundamento do Juízo prelibador (Súmula 284/STF  por não comprovação da divergência). Fez incidir a Súmula 182/STJ.
+2. À luz do princípio da dialeticidade, que norteia os Recursos, "deve a parte recorrente impugnar todos os fundamentos suficientes para manter o acórdão recorrido, de maneira a demonstrar que o julgamento proferido pelo Tribunal de origem merece ser modificado, ou seja, não basta que faça alegações genéricas em sentido contrário às afirmações do julgado contra qual se insurge". (AgRg no Ag 1.056.913/SP, Rel. Min. Eliana Calmon, Segunda Turma, DJe 26.11.2008).
+3. Da análise do Agravo em Recurso Especial observa-se que a parte agravante deixou de impugnar especificamente os fundamentos da decisão agravada - "A jurisprudência do Superior Tribunal de Justiça orienta-se no sentido de que a parte deve proceder ao cotejo analítico entre os arestos confrontados e transcrever os trechos dos acórdãos que configurem o dissídio jurisprudencial, sendo insuficiente, para tanto, a mera transcrição de ementas".
+4. Desse modo, o argumento da parte de que houve impugnação à Súmula 284/STF, quando ressaltou que fez "prova da divergência com a reprodução de julgado disponível na rede mundial de computadores" está dissociado do que foi ali decidido, não se afigurando a irresignação suficiente para derruir o decisum presidencial em face da Súmula 182/STJ. Veja-se que a refutação apta a infirmar a decisão agravada deve ser efetiva, individualizada, específica e fundamentada (AgRg no AREsp 26.300/PR, Rel. Min. Humberto Martins, Segunda Turma, DJe de 13.12.2012).
+5. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 2 de agosto de 2022.
+À luz do princípio da dialeticidade, que norteia os Recursos, "deve a parte recorrente impugnar todos os fundamentos suficientes para manter o acórdão recorrido, de maneira a demonstrar que o julgamento proferido pelo Tribunal de origem merece ser modificado, ou seja, não basta que faça alegações genéricas em sentido contrário às afirmações do julgado contra qual se insurge". (AgRg no Ag 1.056.913/SP, Rel. Min. Eliana Calmon, Segunda Turma, DJe 26.11.2008).
+Da análise do Agravo em Recurso Especial, observa-se que a parte agravante deixou de impugnar especificamente os fundamentos da decisão agravada - "A jurisprudência do Superior Tribunal de Justiça orienta-se no sentido de que a parte deve proceder ao cotejo analítico entre os arestos confrontados e transcrever os trechos dos acórdãos que configurem o dissídio jurisprudencial, sendo insuficiente, para tanto, a mera transcrição de ementas".
+Desse modo, o argumento da parte de que houve impugnação à Súmula 284/STF, quando ressaltou que fez "prova da divergência com a reprodução de julgado disponível na rede mundial de computadores" está dissociado do que foi ali decidido, não se afigurando a irresignação suficiente para derruir o decisum presidencial face a Súmula 182/STJ. Veja-se que a refutação apta a infirmar a decisão agravada deve ser efetiva, individualizada, específica e fundamentada (AgRg no AREsp 26.300/PR, Rel. Min. Humberto Martins, Segunda Turma, DJe de 13.12.2012).
+Pelo exposto, nego provimento ao Agravo Interno.
+É como voto.
