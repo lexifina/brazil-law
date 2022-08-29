@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 23/08/2022 a 29/08/2022, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Luis Felipe Salomão, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+O SENHOR MINISTRO RAUL ARAÚJO:
+Trata-se de embargos de declaração opostos por TRANSCONTINENTAL EMPREENDIMENTOS IMOBILIÁRIOS LTDA contra acórdão desta colenda Quarta Turma, assim ementado:
+CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. EXECUÇÃO DE GARANTIA REAL, COM SUBJACENTE CAUÇÃO DOS CRÉDITOS HIPOTECÁRIOS PERANTE TERCEIRO. CONDUTA CONTRADITÓRIA DO EXEQUENTE: VENIRE CONTRA FACTUM PROPRIUM. CARACTERIZAÇÃO. AGRAVO INTERNO DESPROVIDO.
+1. No caso dos autos, a ora agravante ajuizou ação de execução hipotecária contra mutuária adquirente de imóvel, demanda fundada em contrato de compra e venda, obtendo a adjudicação judicial do imóvel hipotecado. Todavia, constatando ser incontroverso nos autos que a exequente, ora agravante, dera em caução de dívida própria perante a CEF os mesmos créditos que possuía contra a devedora mutuária executada, créditos esses, por sua vez, garantidos por hipoteca do imóvel, determinou o d. juízo sentenciante "a sub-rogação no imóvel da caução de crédito dada pela exequente em favor da Caixa Econômica Federal, anotando-se na matrícula" (e-STJ, fl. 320).
+2. Desse modo, ao obter, com a execução, o resgate dos créditos hipotecários e a concomitante extinção desse crédito dado em subjacente garantia, a conduta do credor hipotecário foi devidamente ajustada pelo Julgador, por via da sub-rogação do imóvel adjudicado em substituição ao crédito hipotecário executado e anteriormente dado em caução à CEF, ficando esta outra relação jurídica também devidamente composta.
+3. A pretensão do credor hipotecário exequente de adjudicar o imóvel hipotecado para, a um só tempo, resgatar seus créditos e esvaziar a garantia prestada anteriormente a terceiro, de forma livre e voluntária, contrariava a boa-fé objetiva e demandava a atuação do Poder Judiciário a fim de proteger a legítima expectativa dos contratantes.
+4. Acórdão recorrido que se harmoniza com o entendimento desta Corte Superior, impondo-se o desprovimento do recurso especial.
+5. Agravo interno desprovido. (e-STJ, fl. 428)
+Em suas razões, a embargante afirma a existência de obscuridade, porque a adjudicação do imóvel teria extinguido a caução. Além disso, o acórdão também seria omisso quanto à alegação de que a perda da garantia teria decorrido de desídia da Caixa Econômica Federal. Busca, assim, a atribuição de efeitos modificativos ao acórdão embargado.
+O prazo para apresentação de impugnação transcorreu in albis (e-STJ, fl. 447).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE OBSCURIDADE E OMISSÃO. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022). É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+2. Embargos de declaração rejeitados.
+VOTO
+O SENHOR MINISTRO RAUL ARAÚJO (RELATOR):
+As razões apresentadas nos embargos de declaração não demonstram a existência de quaisquer dos vícios previstos no art. 1.022 do CPC/2015. Ao revés, evidenciam tão somente o inconformismo da parte embargante com o resultado do julgamento.
+Isso, porque todas as questões devolvidas no recurso especial foram analisadas e decididas, ainda que contrariamente à pretensão da parte embargante, o que, por si só, inviabiliza o acolhimento dos declaratórios. A questão da extinção da garantia foi expressamente abordada tanto no acórdão ora embargado como no acórdão de origem, afastando os efeitos pretendidos pela ora agravante em razão da manifesta conduta contraditória, violadora da boa-fé objetiva que se impõe aos contratantes.
+Nos termos do voto desta Relatoria, a Quarta Turma negou provimento ao agravo interno, mantendo a decisão agravada à luz da seguinte fundamentação:
+"Extrai-se da decisão agravada que o desprovimento do recurso especial se fundou no reconhecimento de que a atuação da agravante, que resultou na extinção da garantia por ela mesma prestada a terceiro, contrariava a boa-fé objetiva, configurando verdadeiro venire contra factum proprium.
+Ao reiterar o argumento de que a agravante apenas exerceu regularmente seu direito processualmente assegurado, o fundamento da boa-fé objetiva não é infirmado. Com efeito, a proteção da boa-fé objetiva não é afastada pela aparente licitude da conduta praticada. Ao contrário, frequentemente, tem por objeto limitar os atos lícitos para que não sejam praticados em manifesto abuso de direito, como ocorre em caso de evidente contrariedade entre um compromisso voluntariamente assumido perante terceiro e o exercício de uma faculdade jurídica ignorando tal compromisso. Nessa situação, tem-se a legítima expectativa da parte credora, de determinado comportamento futuro da parte devedora, não podendo aquela ser posteriormente surpreendida e frustrada por comportamento contraditório da contraparte.
+Acerca da necessidade de proteção dos contratantes, quanto às legítimas expectativas advindas dos contratos, esta Corte Superior tem entendimento reiterado:
+ ..
+No caso dos autos, a ora agravante ajuizou ação de execução hipotecária contra mutuária adquirente de imóvel, demanda fundada em contrato de compra e venda, obtendo a adjudicação judicial do imóvel hipotecado. Todavia, constatando ser incontroverso nos autos que a exequente, ora agravante, dera em caução de dívida própria perante a CEF os mesmos créditos que possuía contra a devedora mutuária, créditos esses, por sua vez, garantidos por hipoteca do imóvel, determinou o d. juízo sentenciante "a sub-rogação no imóvel da caução de crédito dada pela exequente em favor da Caixa Econômica Federal, anotando-se na matrícula" (e-STJ, fl. 320).
+Correta, portanto, a decisão judicial, pois a ora agravante dera, em caução de dívida própria perante a CEF, os créditos hipotecários detidos contra a devedora executada e mutuária.
+Note-se ter a caução a mesma disciplina legal do penhor, garantia real incidente sobre bem móvel.
+Desse modo, ao obter, com a execução, o resgate dos créditos hipotecários e a concomitante extinção desse crédito dado em subjacente garantia, a conduta do credor hipotecário foi devidamente ajustada pelo Julgador, por via da sub-rogação do imóvel adjudicado em substituição ao crédito hipotecário dado em caução à CEF, ficando esta outra relação jurídica também devidamente composta."
+(e-STJ, fls. 2466-2467, destaques no original)
+Nesse contexto, constata-se que não existem vícios a serem sanados no acórdão ora embargado.
+Ainda, os embargos de declaração têm como objetivo esclarecer obscuridade, eliminar contradição ou suprimir omissão de ponto ou questão sobre a qual se devia pronunciar o órgão julgador de ofício ou a requerimento das partes, bem como corrigir erro material (CPC/2015, art. 1.022). É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+Diante do exposto, rejeitam-se os embargos declaratórios.
+É o voto.
