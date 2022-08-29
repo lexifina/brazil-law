@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 23/08/2022 a 29/08/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de agravo interno interposto por RENATO GONCALVES,contra decisão que conheceu do agravo não conhecer do recurso especial, assim ementada (e-STJ Fls. 330):
+AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AUTOS DE INVENTÁRIO. NOMEAÇÃO DE INVENTARIANTE. BELIGERÂNCIA ENTRE HERDEIROS NA FASE INICIAL DO INVENTÁRIO. POSSIBILIDADE DE NOMEAÇÃO DE DATIVO DA CONFIANAÇA DO JUIZ PARA A MELHOR SOLUÇÃO DA LIDE. FUNDAMENTO SUFICIENTE PARA MANUTENÇÃO DO ACÓRDÃO RECORRDIO E NÃO IMPUGNADO. APLICAÇÃO DA SÚMULA 283/STF.
+AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+O agravante aduziu quenão se aplica o óbice da Súmula 7/STJ, eis que,"o E. Tribunal recorrido equivocou-se ao afirmar que a posse e administração estariam sendo debatidas judicialmente, inexistindo qualquer ação judicial em que se discuta referida questão. Existe apenas uma ação de nulidade que trata sobre a propriedade dos bens doados" (e-STJ Fl. 345).
+No mais, sustentouque não incide oóbicedaSúmula 283/STF à pretensão recursal, tendo em vista que teria impugnado todos os fundamentos do acórdão recorrido, no sentido de que "a remoção do inventariante pode se dar em razão da não observância de seus deveres, mas a sua determinação e preferência não estão sujeitas ao arbítrio do juízo, mas à previsão legal" (e-STJ Fl. 346).
+Pugnoupelo conhecimento do presente agravo interno.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NOAGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AUTOS DE INVENTÁRIO. NOMEAÇÃO DE INVENTARIANTE. BELIGERÂNCIA ENTRE HERDEIROS NA FASE INICIAL DO INVENTÁRIO. POSSIBILIDADE DE NOMEAÇÃO DE DATIVO DA CONFIANAÇA DO JUIZ PARA A MELHOR SOLUÇÃO DA LIDE. FUNDAMENTO SUFICIENTE PARA MANUTENÇÃO DO ACÓRDÃO RECORRDIO E NÃO IMPUGNADO. APLICAÇÃO DA SÚMULA 283/STF. RAZÕES QUE SE MANTÉM. DECISÃO MANTIDA.
+AGRAVO INTERNO DESPROVIDO.
+VOTO
+Eminentes Colegas, o agravo interno não merece prosperar.
+Em que pese o arrazoado, entendo que a ausência de qualquer novo subsídio trazido peloagravante, capaz de alterar os fundamentos da decisão ora agravada, faz subsistir incólume o entendimento nela firmado.
+Com efeito, como registrado na decisão recorrida, relativamente à alegação de violação aoartigo1.797 do Código Civil, o recurso não pode ser conhecido em razão da incidência, por analogia, da Súmula 283/STF.
+Na hipótese, constoudo acórdão recorrido que (e-STJ Fls. 237/239, gn):
+"(..)
+Destaco que o presente recurso se limita a análise da decisão que nomeou inventariante nos autos de inventário dos bens deixados por falecimento de Maria Luiza de Oliveira Pereira.
+E, neste passo, conforme já deixei consignado na decisão liminar, se verifica dos autos de inventário, ainda na fase inicial é que existem divergências entre os herdeiros.
+Há ação de nulidade de escritura pública de doação de imóvel rural manejada em desfavor do agravante, em fase final de julgamento em segundo grau, sob minha relatoria (autos 0003749-72.2014.8.26.0539).
+Denota-se o clima de beligerância instalado entre os herdeiros já vem desde 2014, no mínimo.
+O ora agravante não se conforma com a nomeação do herdeiro filho da autora da herança, sob a alegação de estar na posse dos bens deixados, o que é confirmado pelo inventariante, anotando que tal posse não é mansa e pacífica, havendo questionamentos acerca de propriedade do referido imóvel (págs.192/194 dos autos originais).
+Ocorre que compulsando os autos originais, até o momento não há declaração dos bens deixados pela autora da herança. Não se sabe que a herança está limitada a uma propriedade rural.
+Há necessidade de melhorar aparelhar o inventário, descrevendo os bens que serão inventariados.
+Neste giro, há de se levar em conta que o Poder Judiciário, na administração da justiça, caso específico dos autos de inventário, tem interesse no processamento e posterior partilha, amigável ou não, dos bens deixados pela autora da herança.
+De início, verifico da decisão agravada o cuidado e a diligência do juiz na direção deste processo que não tem em sua essência o contencioso.
+Confira-se, neste sentido a lição de SEBASTIÃOAMORIM e EUCLIDES DE OLIVEIRA, se reportando ao ensinamento Des. BRUNO AFONSO ANDRÉ, "o processo de inventário não tem feição contenciosa estrita, mas, ao contrário, deve prestar-se, de modo flexível e tanto quanto for necessário, ao atendimento de todos os interesses da sucessão mortis causa, nos direitos e deveres. Trata-se de uma forma de prestação de serviço público, por via judiciária, que serve para legitimar situações jurídicas do interesse dos particulares e que exigem o concurso do Estado para sua final constituição" (Inventários e Partilhas Leud- 12ª ed., p. 321).
+Pois bem, nos termos do art. 617, do Código de Processo Civil, considerando a ordem de nomeação ali expressa, o item I é descartado, ante o estado de viúva da autora da herança; o II também, ante o fato da posse e administração estarem sendo debatidas judicialmente; restando o item III, a saber: "qualquer herdeiro, quando nenhum deles estiver na posse e na administração do espólio".
+Foi o que fez o juízo na origem, pelo fato de ser o inventariante nomeado filho da autora da herança e o agravante herdeiro por representação, e ainda, acolhendo a anuência dos demais herdeiros.
+E mais, nos mesmos termos do art. 622 do Código de Processo Civil, assegura que o juiz que dirige o processo de inventário pode promover, a qualquer tempo, a remoção da inventariante até mesmo por ofício, nomeando, se o caso, inventariante dativo de sua confiança.
+A beligerância entre os sucessores da autora da herança, poderá ser motivo de atraso no andamento do feito, no entanto, não se pode esquecer que além do interesse das partes no fim dos autos de inventário, com a partilha efetuada entre os herdeiros, o Estado Juiz também tem o interesse na solução do processo com a aplicação do princípio da celeridade.
+Voltando os olhos para o caso devolvido à esta A. Corte, agiu com acerto o juiz de primeiro grau, ao nomear Luiz Antonio da Silva para o cargo de inventariante, a fim de constituir o acervo hereditário deixado pela autora da herança, nomear seus herdeiros e eventuais legatários, liquidar obrigações e deveres do espólio, inclusive as tributárias, e se o caso, efetuar a respectiva partilha.
+Pelo meu voto NEGO PROVIMENTO ao recurso, devendo a decisão hostilizada ser mantida e prestigiada".
+Entretanto, o recorrente argumentou, tão somente, o malferimento aos arts. 1.727 do Código Civil, deixando de refutar os principaismotivos trazidos pelo acórdão combatido para indeferir seu pleito, que seja:"nos mesmos termos do art. 622 do Código deProcesso Civil, assegura que o juiz que dirige o processo de inventário pode promover, a qualquer tempo, a remoção da inventariante até mesmo por ofício, nomeando, se o caso, inventariante dativo de sua confiança", e, ainda, que "A beligerância entre os sucessores da autora da herança, poderá ser motivo de atraso no andamento do feito, no entanto, não se pode esquecer que além do interesse das partes no fim dos autos de inventário, com a partilha efetuada entre os herdeiros, o Estado Juiz também tem o interesse na solução do processo com a aplicação do princípio da celeridade".
+Desse modo, a subsistência de fundamentos inatacados, apto a manter a conclusão do aresto impugnado, impede a admissão da pretensão recursal, a teor do entendimento da Súmula nº 283/STF: "é inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+No mais, inarredável que elidir as conclusões do aresto impugnado firmadas no sentido de que"nos termos do art. 617, do Código de Processo Civil, considerando a ordem de nomeação ali expressa, o item I é descartado, ante o estado de viúva da autora da herança; o II também, ante o fato da posse e administração estarem sendo debatidas judicialmente",demandaria, necessariamente, o revolvimento do conjunto fático-probatório dos autos, providência vedada nesta sede especial a teor da Súmula 07/STJ.
+Cumpre asseverar que referido óbice aplica-se ao recurso especial interposto por ambas as alíneas do permissivo constitucional.
+Nesse contexto, a decisão recorrida deve ser mantida pelos seus próprios fundamentos, porquanto mantida a validade dos argumentos que a sustentam, uma vez que não foram trazidos elementos aptos a desconstituí-la.
+Advirta-se que eventual recurso interposto contra este decisum estará sujeito às normas do CPC/2015 (cf. Enunciado Administrativo n. 3/STJ), inclusive no que tange à aplicação de multa (art. 1.021, § 4º, e 1.026, § 2º, do CPC/2015).
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
