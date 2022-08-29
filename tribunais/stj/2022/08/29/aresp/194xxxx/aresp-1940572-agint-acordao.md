@@ -1,0 +1,58 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 23/08/2022 a 29/08/2022, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de agravo interno interposto contra decisão de fls. 807/812, na qual neguei provimento ao agravo em recurso especial.
+A parte agravante sustenta que a decisão que não admitiu o recurso especial exorbitou a sua competência ao apreciar o mérito do recurso interposto, pois a verificação ou não de ofensa à lei federal seria competência exclusiva deste Superior Tribunal de Justiça.
+Alega que "ao contrário do que restou assentado na decisão que deixou de conhecer o agravo em recurso especial, tais fundamentos restaram expressa e integralmente impugnados em sede de agravo em recurso especial" (fl. 826).
+Aduz que há violação aos arts. 489, § 1º, e 1.022, II, do Código de Processo Civil, pois o acórdão recorrido não enfrentou todos os argumentos trazidos pela agravante.
+Aponta que há violação à coisa julgada porque acórdão anterior já havia estabelecido a premissa de liquidez da dívida e de incidência do prazo prescricional quinquenal.
+Argumenta que "não pretende a Agravante que se verifique cláusulas contratuais, mas tão somente que o acórdão prolatado pela Corte Local delineou que os documentos trazidos aos autos pela Agravante dão conta de atestar que a Agravada possui um débito junto à Agravante, em razão do contrato firmado entre as partes que a Agravada vem se quedando inerte em quitar".
+Defende que "a cobrança feita pela Agravante na presente ação monitória diz respeito a tal saldo devedor  tal como se dá com o uso de cheque especial  de forma que a regra aplicável ao caso é aquela indicada no art. 206, §5º, inciso I, do Código Civil" (fl. 845).
+Assevera que "qualquer espécie de prova escrita é suficiente para fundamentar uma ação monitória" e que "aplica-se ao caso presente o entendimento jurisprudencial, de que o contrato de abertura de crédito bancário acompanhado do extrato de conta corrente constitui documento hábil a instruir ação monitória, em razão da semelhança existente entre estes e o pacto de intermediação e subcustódia e o extrato da conta investimento objetos da presente ação monitória" (fl. 850).
+Insiste que "o reconhecimento da prescrição e da coisa julgada material não envolve revolvimento de matéria probatória, mas tão somente reconhecimento de uma situação jurídica à luz da legislação vigente" (fl. 853).
+Afirma que "não há discussão acerca dos fatos objeto da demanda  que, aliás, são incontroversos. O que se pretende é o reconhecimento da nulidade do v. acórdão recorrido por violação ao art. 489 do Código de Processo Civil. Ou caso assim não se entenda, pretende a Agravante a correta aplicação do prazo prescricional do art. 206, §5º inciso I do Código Civil e reconhecimento da coisa julgada material quanto a liquidez do título, à situação dos autos" (fl. 858).
+Alega que "não há que se falar em incidência da Súmula nº 284 do e. Supremo Tribunal Federal" (fl. 859).
+Sustenta que não incide o óbice da Súmula 211/STJ porque "ainda em sede de embargos de declaração prequestionou todos os artigos de lei federal violados no v. acórdão atacado", de maneira que "o prequestionamento foi devidamente aperfeiçoado conforme prevê o art. 1.025 do Código de Processo Civil" (fls. 859/860).
+Intimada, a parte agravada apresentou impugnação de fls. 865/867.
+É o relatório.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. OMISSÃO. ALEGAÇÃO GENÉRICA. INCIDÊNCIA DA SÚMULA N. 284 DO STF. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA N. 211/STJ. REEXAME FÁTICO DOS AUTOS. IMPOSSIBILIDADE. SÚMULAS N. 5 E 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Recurso especial que suscita violação aos arts. 489 e 1.022 do CPC/2015 de maneira genérica é deficiente em sua fundamentação e atrai a aplicação do óbice da Súmula 284 do STF.
+2. A ausência de prequestionamento impede o conhecimento da questão pelo Superior Tribunal de Justiça. Incidência da Súmula 211 do STJ.
+3. Não cabe, em recurso especial, reexaminar matéria fático-probatória e a interpretação de cláusulas contratuais (Súmulas 5 e 7/STJ).
+4. Agravo interno a que se nega provimento.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): Os argumentos desenvolvidos pela parte agravante não infirmam a conclusão da decisão impugnada, razão pela qual o presente recurso não merece prosperar.
+O recurso especial foi interposto em face de acórdão assim ementado (fl. 550):
+APELAÇÃO CÍVEL. AÇÃO MONITÓRIA. MERCADO DE AÇÕES. ALEGAÇÃO DE PREJUÍZO NA INTERMEDIAÇÃO DE OPERAÇÕES DE COMPRA E VENDA DE AÇÕES. EXTINÇÃO DO PROCESSO COM RESOLUÇÃO DO MÉRITO. ALEGAÇÃO DE NULIDADE DA SENTENÇA QUE NÃO MERECE QUALQUER ACOLHIMENTO, UMA VEZ QUE O MAGISTRADO DA PRIMEIRA INSTÂNCIA NÃO ESTÁ VINCULADO AO ENTENDIMENTO DO TRIBUNAL, PODENDO, JULGAR DE ACORDO COM AS PROVAS DOS AUTOS E SEU LIVRE CONVENCIMENTO. RECONHECIMENTO DA PRESCRIÇÃO TRIENAL AO FUNDAMENTO DE QUE A REMUNERAÇÃO DA AUTORA TEM NATUREZA JURÍDICA DE PRESTAÇÃO ACESSÓRIA VINCULADA AO INVESTIMENTO. APELO DA AUTORA. ALEGAÇÃO DE PRESCRIÇÃO QUINQUENAL POR SE TRATAR DE COBRANÇA DE DÍVIDA LÍQUIDA E CERTA. DOCUMENTOS TRAZIDOS PELA APELANTE EM QUE NÃO SE VISLUMBRA A LIQUIDEZ E CERTEZA A JUSTIFICAR O ACOLHIMENTO DE SUAS PRETENSÕES. MANUTENÇÃO DA SENTENÇA. IMPROVIMENTO DO RECURSO.
+Quanto à alegada violação aos arts. 489 e 1.022 do CPC, mantenho o entendimento firmado na decisão agravada, que aplicou o óbice da Súmula 284/STF, uma vez que a parte recorrente não particularizou a matéria ou tese específica sobre a qual entende ter ocorrido omissão por parte do Tribunal de origem, se limitando a afirmar, de forma genérica, que as razões dos embargos de declaração e do recurso de apelação não teriam sido enfrentadas.
+A propósito, destaca-se o seguinte precedente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE CONCESSÃO DE BENEFÍCIO DA PREVIDÊNCIA PRIVADA E COBRANÇA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. EXCESSO DE EXECUÇÃO E ENRIQUECIMENTO ILÍCITO. FALTA DE PREQUESTIONAMENTO DAS MATÉRIAS OU TESES. SÚMULA 211/STJ. MARCO DA VIGÊNCIA DO BENEFÍCIO. INVERSÃO DO JULGADO. ANÁLISE DO CONJUNTO FÁTICO-PROBATÓRIO E DE CLÁUSULAS CONTRATUAIS. SÚMULAS N. 5 E 7/STJ. ALEGAÇÃO DE PRESCRIÇÃO. INOVAÇÃO RECURSAL. AGRAVO INTERNO DESPROVIDO.
+1. É deficiente a fundamentação do recurso especial em que a alegação de violação ao art. 1.022 do CPC/2015 se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão tornou-se omisso, contraditório ou obscuro. Aplica-se, na hipótese, o óbice da Súmula 284/STF.
+2. Inadmissível o recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal de origem (Súmula 211/STJ). Também não é o caso de se considerar a ocorrência do prequestionamento ficto previsto no art. 1.025 do CPC/2015.
+(..)
+5. Agravo interno desprovido.
+(AgInt no AREsp 1926284/GO, Relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe 15/12/2021)
+Acrescente-se que as alegações do agravo interno que indicam os pontos sobre os quais a parte entende ter ocorrido omissão configuram indevida inovação, incabível diante da preclusão consumativa, uma vez que as razões do recurso especial deixaram de especificar as teses sobre as quais o acórdão recorrido teria deixado de se manifestar e sua relevância para a solução da controvérsia.
+Com relação ao mérito, mantém-se o entendimento de que o Tribunal de origem não emitiu juízo de valor sobre o disposto nos arts. 341 e 502 do CPC, o que impossibilita o julgamento do recurso quanto aos referidos temas em razão da ausência do necessário prequestionamento, a teor do disposto na Súmula 211/STJ.
+Ademais, não há que se cogitar a ocorrência do prequestionamento ficto, nos termos do art. 1.025 do Código de Processo Civil, haja vista que esse pressupõe a indicação de violação do art. 1.022 do mesmo Diploma e que esta Corte Superior haja constatado o vício apontado, o que não ocorreu na hipótese em razão da incidência da Súmula 284/STF. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE CONCESSÃO DE BENEFÍCIO DA PREVIDÊNCIA PRIVADA E COBRANÇA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. EXCESSO DE EXECUÇÃO E ENRIQUECIMENTO ILÍCITO. FALTA DE PREQUESTIONAMENTO DAS MATÉRIAS OU TESES. SÚMULA 211/STJ. MARCO DA VIGÊNCIA DO BENEFÍCIO. INVERSÃO DO JULGADO. ANÁLISE DO CONJUNTO FÁTICO-PROBATÓRIO E DE CLÁUSULAS CONTRATUAIS. SÚMULAS N. 5 E 7/STJ. ALEGAÇÃO DE PRESCRIÇÃO. INOVAÇÃO RECURSAL. AGRAVO INTERNO DESPROVIDO.
+1. É deficiente a fundamentação do recurso especial em que a alegação de violação ao art. 1.022 do CPC/2015 se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão tornou-se omisso, contraditório ou obscuro. Aplica-se, na hipótese, o óbice da Súmula 284/STF.
+2. Inadmissível o recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal de origem (Súmula 211/STJ). Também não é o caso de se considerar a ocorrência do prequestionamento ficto previsto no art. 1.025 do CPC/2015.
+(..)
+5. Agravo interno desprovido.
+(AgInt no AREsp 1926284/GO, Relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe 15/12/2021)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. ART. 1.022 DO CPC/2015. VIOLAÇÃO. NÃO OCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 211/STJ. INVERSÃO DO ÔNUS DA PROVA. COMPROVAÇÃO MÍNIMA PELA PARTE. DÉBITO. CIÊNCIA PELA PARTE. REVISÃO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+(..)
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de declaratórios, impede seu conhecimento, a teor da Súmula nº 211 do Superior Tribunal de Justiça.
+4. Se a alegada violação não foi discutida na origem e não foi verificada nesta Corte a existência de erro, omissão, contradição ou obscuridade, não há falar em prequestionamento da matéria, nos termos do art. 1.025 do CPC/2015.
+(..)
+7. Agravo interno não provido.
+(AgInt nos EDcl no AREsp 1663481/PR, Relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe 30/11/2021)
+Outrossim, modificar a conclusão das instâncias ordinárias, que concluíram que "os documentos apresentados não materializam uma dívida reconhecida, o que descaracteriza completamente o instituto da ação monitória" (fl. 553), a fim de acolher a pretensão de que seja reconhecido que os documentos juntados aos autos são suficientes para atestar a existência de dívida da recorrida junto à recorrente, demandaria, necessariamente, alterar as premissas fáticas delineadas no acórdão recorrido, o que exigiria reexame de fatos e provas e interpretação de cláusulas contratuais, providência vedada em recurso especial, nos termos das Súmulas 5 e 7 do STJ.
+Assim, não havendo argumentos aptos a infirmar os fundamentos da decisão agravada, esta deve ser integralmente mantida.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
