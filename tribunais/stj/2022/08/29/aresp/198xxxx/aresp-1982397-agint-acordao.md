@@ -1,0 +1,61 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 23/08/2022 a 29/08/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Não participou do julgamento a Sra. Ministra Nancy Andrighi.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+BELAGRÍCOLA COMÉRCIO E REPRESENTAÇÕES DE PRODUTOS AGRÍCOLAS S.A. (BELAGRÍCOLA) ajuizou ação de execução de título extrajudicial contra JOSÉ CARLOS POLVANI e SÔNIA APARECIDA LEIBANTE POLVANI (JOSÉ e outra), consubstanciada na cédula de produto rural n.º 2999/2015.
+No curso da ação, o MM.Juiz a quo inverteu o ônus da prova, com base no art. 6º, VIII, do Código de Defesa do Consumidor. Contra essa decisão interlocutória, BELAGRÍCOLA interpôs agravo de instrumento, ao qual foi negado provimento, pelo Tribunal de Justiçado Paraná, em acórdão assim ementado:
+AGRAVO DE INSTRUMENTO - EMBARGOS A EXECUÇÃO - EXECUÇÃO DE TÍTULO EXTRAJUDICIAL - PRODUTOR RURAL - DECISÃO INTERLOCUTÓRIA QUE CONFIRMA APLICABILIDADE DO CDC E INVERSÃO DO ÔNUS DA PROVA AO CASO - IRRESIGNAÇÃO DA RECORRENTE - IMPOSSIBILIDADE DE REFORMA - APLICABILIDADE AO CASO DA TEORIA FINALISTA MITIGADA - HIPOSSUFICIÊNCIA FÁTICA E TÉCNICA DA PARTE PERANTE A INSTITUIÇÃO FINANCEIRA ACERCA DA MATÉRIA OBJETO DE CONTRATAÇÃO - RECURSO DESPROVIDO (e-STJ, fls. 57/61).
+Irresignada, BELAGRÍCOLA interpôs recurso especial com base no art. 105, III, alíneas a e c, da CF, apontando a violação dos arts. 2º e 6º, VIII, do Código de Defesa do Consumidor, ao sustentar que (1) é equivocada a aplicabilidade do Código de Defesa do Consumidor, com base na Súmula n.º 297 do STJ, tendo em vista que a recorrente não se enquadra na posição de instituição financeira; (2) JOSÉ e outra não podem ser considerados consumidores, visto que não foram destinatários finais dos produtos agrícolas por eles adquiridos. Apontou, ainda, dissídio jurisprudencial, tendo como paradigma o REsp n.º 1.758.901/PR.
+Foram apresentadas contrarrazões (e-STJ, fls. 99/113).
+O recurso não foi admitido pelo TJPR, pela incidência da Súmula n.º 83 e da Súmula n.º 7 do STJ (e-STJ, fls. 114/117).
+Sobreveio agravo em recurso especial, que dele não se conheceu, por decisão monocrática da lavra do Ministro Presidente desta Corte, sob o argumento de que a parte agravante deixou de impugnar especificamente a Súmula n.º 7 do STJ (e-STJ, fls. 162/164).
+Nas razões do presente agravo interno, BELAGRÍCOLA alega que não incidem os óbices apontados na decisão de inadmissibilidade.
+Foi apresentada impugnação (e-STJ, fls. 175/181).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IRRESIGNAÇÃO MANEJADA SOB A ÉGIDE DO NPCP. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA A TODOS OS FUNDAMENTOS DA DECISÃO DENEGATÓRIA DE ADMISSIBILIDADE DE RECURSO ESPECIAL. DESCUMPRIMENTO DOS REQUISITOS PRECONIZADOS PELO ART. 932, III, DO CPC. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NPCP a este julgamento, ante ostermos do Enunciado Administrativo n.º 3, aprovado pelo Plenário do STJ, na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Não se mostra viável o agravo em recurso especial que, apresentado em desacordo com os requisitos preconizados pelo artigo 932, III, do NCPC, não impugna todos os fundamentos da respectiva inadmissibilidade.
+3. Agravo interno não provido.
+VOTO
+O inconformismo não merece acolhida.
+De plano, vale pontuar que o recurso ora em análise foi interposto na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo n.º 3, aprovado pelo Plenário do STJ, na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Depreende-se das razões doagravo em recurso especial que, embora a Súmula n.º 83 do STJ tenha sido devidamente impugnada, BELAGRÍCOLA olvidou-se em se dirigir contra o outro fundamento da decisão que negou seguimento ao apelo nobre, qual seja, a incidência da Súmula n.º 7 do STJ.
+Ficou consignado, na decisão de admissibilidade, que a inversão do ônus da prova é uma determinação que decorre do discernimento do julgador, quando verificadas as hipóteses de verossimilhança da alegação, ou quando hipossuficiente o consumidor, nos seguintes termos:
+Outrossim, a inversão do ônus da prova (..) depende, assim, de circunstâncias concretas a serem apuradas pelo juiz no contexto da facilitação da defesa dos direitos do consumidor. Nessas condições, rever a decisão impugnada neste aspecto demandaria, necessariamente, o reexame de provas, procedimento inviável em sede de recurso especial, nos termos da Súmula 7 do Superior Tribunal de Justiça.
+Com efeito, diante do entendimento firmado pelo TJPR, no sentido de se reconhecer a hipossuficiência técnica de JOSÉ e outra em face de BELAGRÍCOLA, a eventual alteração dessa convicção implicaria no reexame dos elementos fáticos e probatórios dos autos, o que é vedado em recurso especial, a teor da Súmula n.º 7 do STJ.
+Confiram-se, a propósito, os seguintes julgados:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INVERSÃO DO ÔNUS DA PROVA. REVELIA. EFEITOS. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. DECISÃO MANTIDA.
+1. "A inversão do ônus da prova, nos termos do art. 6º, VIII, do Código de Defesa do Consumidor, não é automática, dependendo da constatação, pelas instâncias ordinárias, da presença ou não da verossimilhança das alegações e da hipossuficiência do consumidor" (AgInt no AREsp 1586560/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 09/08/2021, DJe 31/08/2021).
+2. "Os efeitos da revelia são relativos e não acarretam a procedência automática do pedido, devendo o magistrado analisar as alegações do autor e a prova dos autos" (AgInt no AREsp 1915565/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 16/11/2021, DJe 18/11/2021).
+3. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+4. No caso concreto, o Tribunal de origem concluiu pela ausência de comprovação do direito da autora. Alterar esse entendimento demandaria o reexame das provas produzidas nos autos, o que é vedado em recurso especial.
+5. Agravo interno a que se nega provimento
+(STJ, AgInt no AREsp 1.738.687 / PB, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, j. 23/5/2022)
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AÇÃO QUANTI MINORIS C/C INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. AUSÊNCIA DE OBSCURIDADE, CONTRADIÇÃO OU OMISSÃO. INVERSÃO DO ÔNUS DA PROVA. HIPOSSUFICIÊNCIA. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há que falar em violação aos artigos 11, 489, II e § 1º, III e IV e 1.022, II do Código de Processo Civil quando a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido diverso à pretensão da parte agravante.
+2. Rever a conclusão do Tribunal de origem quanto à presença dos requisitos para inversão do ônus probatório exige a incursão na seara probatória dos autos, o que não é permitido nesta instância especial, nos termos da Súmula 7 do STJ.
+3. Agravo interno não provido
+(STJ, AgInt no AREsp 2.039.063 / PR, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, j. 13/06/2022)
+Por outro lado, o agravo em recurso especial não impugnou referido óbice, em clara afronta ao princípio da dialeticidade.
+Conforme já decidiu o Superior Tribunal de Justiça:
+(..) À luz do princípio da dialeticidade, que norteia os recursos, deve a parte recorrente impugnar todos os fundamentos suficientes para manter o acórdão recorrido, de maneira a demonstrar que o julgamento proferido pelo Tribunal de origem merece ser modificado, ou seja, não basta que faça alegações genéricas em sentido contrário às afirmações do julgado contra o qual se insurge. (AgRg no Ag 1.056.913/SP, Rel. Ministra ELIANA CALMON, Segunda Turma, DJe 26/11/2008.
+Vale lembrar que, segundo o entendimento exarado em voto pelo Ministro LUÍS FELIPE SALOMÃO, ao apreciar os EAREsp n.º 746.775/PR, existem regras, tanto no Código de Processo Civil de 1973quanto no atual, que remetem às disposições mais recentes do Regimento Interno do STJ, no sentido da obrigatoriedade de impugnação de todos os fundamentos da decisão recorrida. Ademais, conforme o mesmo entendimento, existem, inclusive, conceitos doutrinários para justificar a impossibilidade de impugnação parcial da decisão de inadmissibilidade do recurso especial, na medida em que tal decisão é incindível e deve ser impugnada em sua integralidade.
+Também foi consignado pelo Ministro relator, no julgamento dos referidos EAREsp n.º 746.775/PR, que a ausência de impugnação a algum dos fundamentos da decisão que negou trânsito ao reclamo especial imporia a esta Corte Superior o exame indevido de questões já atingidas pela preclusão consumativa, decorrente da inércia da parte agravante em insurgir-se no momento oportuno, por meio da simples inclusão dos pontos ausentes nas razões do agravo.
+Nesse sentido, seguem os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO APELO ESPECIAL. ART. 932, III, DO CPC/2015. PEDIDO DE CONDENAÇÃO AO PAGAMENTO DE HONORÁRIOS RECURSAIS. IMPOSSIBILIDADE. VERBA JÁ CONTEMPLADA NA DECISÃO MONOCRÁTICA. GRAVO IMPROVIDO.
+1. Cabe ao agravante, nas razões do agravo, trazer argumentos suficientes para contestar a decisão de inadmissibilidade do recurso especial proferida pelo Tribunal de origem. A ausência de impugnação de todos os fundamentos da decisão agravada enseja o não conhecimento do agravo, nos termos do art. 932, III, do CPC de 2015.
+2. Fixados os honorários recursais no primeiro ato decisório, não cabe novo arbitramento nas demais decisões que derivarem de recursos subsequentes, apenas consectários do principal, tais como agravo interno e embargos de declaração.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.590.969/SP, Relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, DJe08/5/2020)
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. FUNDAMENTOS DA DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO. ARTIGO 932, INCISO III, DO CÓDIGO DE PROCESSO CIVIL DE 2015.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não pode ser conhecido o recurso que não infirma especificamente os fundamentos da decisão agravada, atraindo o disposto no art. 932, inciso III, do Código de Processo Civil de 2015.
+3. Quando o recurso especial não é admitido com fundamento na Súmula nº 83/STJ, a impugnação deve indicar precedentes contemporâneos ou supervenientes aos mencionados na decisão combatida, demonstrando-se que outro é o entendimento jurisprudencial desta Corte, o que não ocorreu no caso.
+4. Agravo interno não provido.
+(AgInt no AgInt no AREsp 937.019/MG, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, DJe 15/5/2020)
+Por tais razões, o agravo em recurso especial não se mostrou viável, uma vez que apresentado em desacordo com os requisitos preconizados pelo art. 932, III, do NCPC, sendo de rigor a manutenção do seu não conhecimento.
+Nessas condições, NEGO PROVIMENTO ao agravo interno.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
