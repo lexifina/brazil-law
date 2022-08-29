@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto pela CAIXA ECONÔMICA FEDERAL, contra acórdão do Tribunal Regional Federal da 5ª Região, assim ementado:
+"CIVIL. SFH. CONTRATO PARTICULAR COM SUB-ROGAÇÃO DE DÍVIDA HIPOTECÁRIA. PRESTAÇÕES EM ATRASO. QUITAÇÃO DO CONTRATO PELO FCVS. IMPOSSIBILIDADE. DANO MORAL. INDENIZAÇÃO. DESCABIMENTO.
+01. Caso em que a sentença condenou a CEF a proceder a quitação do contrato pelo FCVS e, por conseguinte, a liberação da hipoteca, bem assim ao pagamento da indenização por dano moral no importe de 10.000,00 reais.
+02. Hipótese em que os autores, em 20.11.86, firmaram contrato com os mutuários primitivos e o BEC - Banco do Estado do Ceará para aquisição de imóvel residencial, tendo o referido contrato sido posteriormente cedido em 1990 à CEF.
+03. A responsabilidade assumida pelos autores via sub-rogação da dívida (1986) disse respeito ao que então constou no contrato firmado com os mutuários primitivos, com a interveniência do BEC.
+04. Assim, descabe à CEF alegar a existência de débitos relativos a prestações que se vencerem entre 1983 e 1984.
+05. De resto, dado que os autores procederam à liquidação antecipada da divida, nos termos da Lei 10.150/00, fazem jus à liberação da hipoteca, porque pagaram todas a prestações vincendas (restando apenas uma pequena diferença que remonta a R$ 53,64 (dez/99)).
+06. Com efeito, de acordo com a Lei n. 10.150/00, paga a totalidade das prestações inicialmente contratadas, o FCVS arcará com o saldo devedor do financiamento.
+07. Assiste razão a CEF quando afirma que improcede o pedido dos mutuários relativo a indenização por danos morais decorrente do indeferimento da quitação do contrato pelo FCVS e da liberação da hipoteca. A negativa de pedido administrativo não configura motivo suficiente a um abalo moral e psicológico que enseje a indenização. Ademais, restou ausente qualquer demonstração de dano decorrente da suposta ilegalidade.
+08. Apelação da CEF parcialmente provida para considerar devida apenas a diferença de R$ 53,64 (dez/99), nos termos das fls. 74, bem assim para julgar improcedente o pedido de indenização por danos morais" (fl. 163e).
+O acórdão em questão foi objeto de Embargos de Declaração (fls. 168/170e), os quais restaram rejeitados, nos termos da seguinte ementa:
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. SFH. PRETENSÃO A REJULGAMENTO. INOCORRÊNCIA DE OMISSÃO.
+01. É pacífico na jurisprudência o entendimento de que o Magistrado não fica adstrito aos fundamentos invocados pelas partes, nem tampouco está obrigado a responder a todas as suas alegações, quando presentes razões suficientes para embasar o seu julgado.
+02. Inexistência de omissão, obscuridade, ou contradição. Propósito de rejulgamento.
+03. Embargos de declaração improvidos" (fl. 179e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a, da Constituição Federal, a parte ora recorrente aponta violação aos arts. 535 do CPC/73, 6º da LINDB, 346 do Código Civil/2002, 3º, § 2º e 16 da Lei 10.150/2000, sustentando a nulidade do acórdão, por negativa de prestação jurisdicional, bem como ofensa ao ato jurídico perfeito e a impossibilidade de quitação do contrato pelo FCVS, em razão do inadimplemento das prestações pela parte recorrida.
+Por fim, requer o provimento do recurso.
+Contrarrazões às fls. 303/317e.
+O Recurso Especial foi admitido pelo Tribunal de origem (fls. 288/289e).
+A irresignação não merece conhecimento.
+De início, verifica-se que a parte recorrente não demonstrou no que consistiu a suposta ofensa ao art. 535 do CPC/73, o que atrai, por analogia, a incidência da Súmula 284 do Supremo Tribunal Federal ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia").
+Nesse sentido:
+"RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. DANO MORAL NÃO CONFIGURADO. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. APLICAÇÃO DA SÚMULA 284/STF. DIVERGÊNCIA JURISPRUDENCIAL. REQUISITO DE ADMISSIBILIDADE NÃO PREENCHIDO. AUSÊNCIA DE PARTICULARIZAÇÃO DO DISPOSITIVO DE LEI FEDERAL. SÚMULA 284/STF. RECURSO NÃO PROVIDO.
+1. "É deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 535 do CPC/73 se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Aplica-se, na hipótese, o óbice da Súmula 284 do STF". (AgInt no AREsp 1031163/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 20/06/2017, DJe 29/06/2017)
+2. A falta de particularização do dispositivo de lei federal objeto de divergência jurisprudencial consubstancia deficiência bastante a inviabilizar a abertura da instância especial. Incidência da Súmula 284/STF.
+3. Agravo interno a que se nega provimento" (STJ, AgInt no AREsp 1.198.768/SC, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe de 05/03/2018).
+Quanto à alegada ofensa aos arts. 6º da LINDB, 346 do Código Civil/2002e 16 da Lei 10.150/2000, o Recurso Especial não ultrapassa a admissibilidade, ante o óbice da Súmula 282 do Supremo Tribunal Federal ("É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada").
+Isso porque, para que se configure o prequestionamento, não basta que o recorrente devolva a questão controvertida para o Tribunal, é necessário que a causa tenha sido decidida à luz da legislação federal indicada, bem como seja exercido juízo de valor sobre os dispositivos legais indicados e a tese recursal a eles vinculada, interpretando-se a sua aplicação ou não ao caso concreto.
+Nesse contexto, por simples cotejo das razões recursais e os fundamentos do acórdão, percebe-se que as teses recursaisvinculadas aos dispositivos tidos como violados não foramapreciadas no voto condutor, sequer de modo implícito, não tendo servido de fundamento à conclusão adotada pelo Tribunal de origem.
+A propósito:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS DECLARATÓRIOS. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECURSO. SÚMULA N. 284 DO STF. PREQUESTIONAMENTO. LITIGÂNCIA DE MÁ-FÉ. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE.INCIDÊNCIA DA SUMULA N. 7 DO STJ. DECISÃO MANTIDA.
+1. A deficiência na fundamentação do recurso, de modo a impedir a compreensão da suposta ofensa ao dispositivo legal invocado, obsta o conhecimento do recurso especial (Súmula n. 284/STF).
+2. A simples indicação dos dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor da Súmula n. 282 do STF.
+3. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos ou interpretação de cláusula contratual, a teor do que dispõem as Súmulas n. 5 e 7 do STJ.
+4. No caso dos autos, a modificação das conclusões do acórdão recorrido, a respeito da conduta protelatória do agravante, para fins de afastamento da multa por litigância de má-fé, demandaria análise do conteúdo fático dos autos.
+5. Agravo interno a que se nega provimento" (STJ, AgInt no AREsp 273.612/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe de 23/03/2018).
+Na hipótese dos autos, oTribunal de origem, com base no exame dos elementos fáticos dos autos, consignou que;
+"(..) dado que os autores procederam à liquidação antecipada da dívida, nos termos da Lei 10.150/00, fazem jus à liberação da hipoteca, porque pagaram todas a prestações vincendas (restando apenas uma pequena diferença que remonta a R$ 53,64 (dez/99))" (fl. 160e).
+Importante destacar, ainda, ter constado na sentença que:
+"(..) a própria CEF reconhece, às fls. 74, que os promoventes quitaram todas as prestações vincendas do da dívida, isto é, as prestações que se venceram posteriormente à sub-rogação do mútuo.
+Em outras palavras, os autores cumpriram com a obrigação que efetivamente assumiram ao contratar com a CEF, nada mais devendo à ré desde 21 de dezembro de 1999.
+Se, por equívoco que só pode ser imputado à própria CEF, não foi incluído no saldo devedor reconhecido pelos autores em 20 de novembro de 1986 algum valor devido pelos antigos mutuários, cabe a ela, CEF, arcar com esse ônus, e não pretender transferi-lo aos novos contratantes, que cumpriram com as obrigaçõesexpressamente assumidas no contrato de mútuo fruto da sub-rogação" (fl. 121e).
+Nesse contexto, considerando a fundamentação do acórdão objeto do Recurso Especial, os argumentos utilizados pela parte recorrente somente poderiam ter sua procedência verificada mediante o necessário reexame de matéria fática e de cláusulas contratuais, não cabendo a esta Corte, a fim de alcançar conclusão diversa, reavaliar o conjunto probatório dos autos, em conformidade com as Súmulas 5 e 7/STJ.
+Por fim, cumpre destacar que é firme a jurisprudência do SuperiorTribunal de Justiça no sentido de que "observados os critériosestabelecidos na Lei nº 10.150/00, a quitação de 100% do saldo devedor édireito do mutuário e não faculdade da instituição financeira" (STJ, AgRgno AREsp 505.934/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA,DJe de 28/10/2014).
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do Recurso Especial.
+Deixo de majorar os honorários advocatícios, tendo em vista que o Recurso Especial foi interposto contra acórdão publicado na vigência do CPC/73, tal como dispõe o Enunciado administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC").
+I.
