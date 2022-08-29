@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 23/08/2022 a 29/08/2022, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Não participou do julgamento a Sra. Ministra Nancy Andrighi.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por Valeria Maria Moretti Piccolotto Giglio ao acórdão da Terceira Turma desta Corte assim ementado (e-STJ, fl. 363):
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE ADJUDICAÇÃO COMPULSÓRIA. 1. OFENSA AOS ARTS. 489 E 1.022 DO CPC/2015 NÃO CONFIGURADA. 2. CERCEAMENTO DE DEFESA. SUFICIÊNCIA DE PROVAS ATESTADA PELAS INSTÂNCIAS ORDINÁRIAS. LIVRE CONVENCIMENTO MOTIVADO DO JULGADOR. INVERSÃO DO JULGADO.IMPOSSIBILIDADE. REEXAME DE PROVAS. SÚMULA 7/STJ. 3. AGRAVO INTERNO DESPROVIDO.
+1. Não ficou configurada a violação dos arts. 489 e 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou, de forma fundamentada, sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. Os princípios da livre admissibilidade da prova e da persuasão racional autorizam o julgador a determinar as provas que repute necessárias ao deslinde da controvérsia, e a indeferir aquelas consideradas prescindíveis ou meramente protelatórias. Não configura cerceamento de defesa o julgamento da causa sem a produção da prova solicitada pela parte, quando devidamente demonstrada a instrução do feito e a presença de dados suficientes à formação do convencimento.
+2.1. A desconstituição do entendimento do acórdão estadual recorrido (acerca da inexistência de cerceamento de defesa diante da suficiência de provas) é procedimento vedado na via eleita, por exigir o reexame de fatos e provas, em virtude do óbice contido na Súmula 7/STJ.
+3. Agravo interno desprovido.
+Em suas razões, a embargante aponta vícios na decisão embargada. Para tanto, repete a alegação de omissãopor parte do Tribunal de Justiça do Estado de São Paulo, acerca da falta de manifestação quanto à cláusula rebus sic stantibus.
+Dessa forma, aduz que seu reclamo não se volta contra o mérito em si do julgamento, ou contra o indeferimento de alguma prova ou na alegação de cerceamento de defesa ou mesmo na adoção de outras provas, mas no fato de não ter sido apreciada em primeira instância, sem nenhuma justificativa, a aplicação da teoria da imprevisão, cuja omissão não foi sanada pelo acórdão recorrido.
+Impugnação apresentada às fls. 381-385 (e-STJ), na qual a parte embargada pede a condenação da embargante ao pagamento de multa prevista nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015, além da majoração dos honorários recursais.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE VIOLAÇÃO DO ART. 1.022 DO CPC/2015. OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO NO ACÓRDÃO RECORRIDO. NÃO OCORRÊNCIA. MULTA DO ART. 1.026, § 2º, DO CPC/2015. NÃO INCIDÊNCIA. HONORÁRIOS. MAJORAÇÃO INDEVIDA.EMBARGOS REJEITADOS.
+1. Nos termos do art. 1.022, I, II e III, do CPC/2015, destinam-se os embargos de declaração a expungir do julgado eventual omissão, obscuridade ou contradição, ou ainda a corrigir erro material, não se caracterizando via própria ao rejulgamento da causa.
+2.É descabida a pretensão da parte embargada de aplicação da multa prevista no art. 1.026, § 2º, do CPC/2015, na hipótese, porquanto inexistente, por ora,o caráter protelatório apontado.
+3. Consoante dispõe a Segunda Seção do STJ, não é cabível a majoração dos honorários recursais no julgamento de agravo interno ou de embargos de declaração.
+4. Embargos de declaração rejeitados.
+VOTO
+Os embargos de declaração constituem modo de impugnação à decisão judicial de fundamentação vinculada, sendo cabíveis tão somente nas hipóteses previstas no art. 1.022 do Código de Processo Civil de 2015, quais sejam, omissão, obscuridade e contradição, bem como para sanar erro material.
+O recurso em comento visa unicamente aperfeiçoar as decisões judiciais, com o intuito de prestar a tutela jurisdicional de forma clara e completa, não tendo por finalidade revisar ou anular decisões. Apenas, excepcionalmente, ante o aclaramento de obscuridade, desfazimento de contradição ou supressão de omissão, prestam-se os declaratórios a modificar o julgado.
+Dito isso, conforme asseverado no acórdão embargado, não ficou caracterizadas as alegações de violação aos arts. 489 e 1.022 do CPC/2015, pois o Tribunal de origem decidiu a matéria controvertida de forma fundamentada, ainda que contrariamente aos interesses da parte.
+Ressalte-se que o julgador não está obrigado a analisar todos os argumentos invocados pela partequando tiver encontrado fundamentação suficiente para dirimir integralmente o litígio.
+Vale destacar que, no julgamento dos embargos de declaração, ficouesclarecido que a sentença não padecia de nenhuma nulidade, bem comoque a cláusula rebus sic stantibus não era capaz de autorizar que a ora embargante descumprisse o contrato firmado entre as partes (e-STJ, fl. 230).
+Sendo assim, ainda que a solução tenha sido contrária à pretensão da agravante, não se pode negar ter havido, por parte do Tribunal, efetivo enfrentamento e resposta aos pontos controvertidos.
+Além disso, também ficou asseverado inexistir cerceamento de defesa, na medida em queo Tribunal de origem não reconheceu a sua ocorrência, por entender que o Juízo de origem, destinatário do conjunto probatório dosautos, atestou a suficiência das provas para a solução do litígio, sendo desnecessária a dilação probatória (e-STJ, fls. 197-200).
+Outrossim, infirmar o entendimento alcançado pelo acórdão recorrido com base nos elementos de convicção juntados aos autos, a fim de se concluir pela imprescindibilidade de produção de outras provas, tal como busca a insurgente, esbarraria no enunciado n. 7 da Súmula desta Corte.
+Dessa maneira, observa-seque a embargante, na verdade, busca a rediscussão da matéria já decidida de maneira inequívoca pela Turma julgadora, pretensão esta que não se encontra em harmonia com a natureza e a função dos embargos declaratórios.
+Evidente, portanto, a impossibilidade de acolhimento dos presentes declaratórios, porquanto devidamente motivada a decisão, além de não ter sido demonstrada a ocorrência de nenhuma das hipóteses do art. 1.022 do Código de Processo Civil de 2015.
+No que diz respeito ao pleito trazido na impugnação aos declaratórios de aplicação da multa do art. 1.026, § 2º, do CPC/2015, constata-se que não está configurado, por ora, o manifesto intuito protelatório capaz de ensejar a aplicação da sanção.
+Ademais, não merece cabimento a pretensão de imposição da multa do art. 1.021, § 4º, do CPC/2015, por não se aplicar ao caso dos autos.
+Por fim, em relação à majoração dos honorários recursais requerida pela parte embargada, é preciso frisar que este Superior Tribunal possui entendimento jurisprudencial firmado no sentido de considerar indevida a fixação de verba honorária recursal no julgamento de agravo interno ou de embargos de declaração.
+Ante o exposto, rejeito os embargos de declaração.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de novos embargos de declaração manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
