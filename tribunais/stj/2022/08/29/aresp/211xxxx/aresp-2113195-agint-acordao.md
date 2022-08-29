@@ -1,0 +1,30 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 23/08/2022 a 29/08/2022, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):Cuida-se de agravo interno interposto por MARIA CRISTINA BITTAR BERNARDINO DA COSTA, contra decisão proferida pela Presidência desta Corte que, ante as suas atribuições regimentais, não conheceu do agravo em recurso especial, porquanto incidente a Súmula 182/STJ.
+Ação: cobrança de honorários advocatícios, ajuizada por IVONE SUBTIL DE OLIVEIRA CASTRO e MÁRIO JOSÉ DE SÁ, em face de MARIA CRISTINA BITTAR BERNARDINO DA COSTA.
+Sentença: julgou procedente a pretensão dos agravados, condenando a agravante a pagar aos agravados a quantia correspondente ao porcentual sobre o valor dos bens a ela atribuídos no inventário dos bens deixados pelo falecimento de GUILHERME LEÃO BERNARDINO DA COSTA, tudo conforme restar apurado em liquidação de sentença. Desta forma, condenou a agravante a pagar as custas e os honorários, que foram arbitrados em 10% sobre o valor atualizado do débito.
+Acórdão: negou provimento à Apelação interposta pela agravante.
+Decisão monocrática: não conheceu do agravo em recurso especial, porquanto incidente a Súmula 182/STJ, nos termos do art. 21-E, inciso V, c.c. o art. 253, parágrafo único, inciso I, ambos do Regimento Interno do Superior Tribunal de Justiça.
+Agravo interno: sustenta que houve a devida impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE HONORÁRIOS ADVOCATÍCIOS. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ação de cobrança de honorários advocatícios.
+2. O reexame de fatos e provas em recurso especial é inadmissível.
+3. Agravo interno não provido.
+VOTO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):Trata-se de agravo interno interposto por MARIA CRISTINA BITTAR BERNARDINO DA COSTA, contra decisão proferida pela Presidência desta Corte que, ante as suas atribuições regimentais, não conheceu do agravo em recurso especial, porquanto incidente a Súmula 182/STJ.
+Pela análise das razões recursais apresentadas, verifica-se que a agravante não trouxe qualquer argumento novo capaz de ilidir os fundamentos da decisão agravada.
+A agravante se insurge contra a aplicação da Súmula 182/STJ ao caso, sustentando que houve a impugnação específica dos fundamentos da decisão que inadmitiu o recurso especial.
+Malgrado o inconformismo da agravante, mesmo afastando-se a aplicação do óbice sumular 182 desta Corte, é de se observar que razão não lhe assiste, uma vez que em relação ao presente caso incide o óbice sumular 7 desta Corte.
+Nesse sentido, consignou a Corte local que foi colacionado aos autos cópia do Contrato de Prestação de Serviços Advocatícios (movimento 01, arquivo 10 - "b") demonstrando que a agravante contratou os serviços de MARIO DE SÁ ADVOGADOS ASSOCIADOS S.S, naquele ato representado pelo sócio MÁRIO JOSÉ DE SÁ, bem como que a agravada IVONE SUBTIL DEOLIVEIRA CASTRO já atuava na ação de inventário e continuaria atuando naquele feito, em conjunto com a equipe do escritório contratado.
+Ainda, registrou a Corte local que, diante da demonstração de existência do Contrato de Prestação de Serviços Advocatícios entabulado entre as partes, que foi reforçado pela juntada das cópias das procurações correspondentes, não há que se falar em ilegitimidade ativa, em impossibilidade jurídica do pedido de cobrança dos honorários advocatícios correspondentes e, muito menos, em inépcia da exordial.
+Observou a Corte local, também, que não se sustenta a tese de que houve coação para assinatura de contrato de prestação de serviços advocatícios assinado em 20/06/2014, mormente porque os serviços advocatícios eram prestados desde 17/06/2011 e só foram interrompidos em razão da revogação das procurações ocorrida 19/01/2015, até mesmo porque não restou demonstrado qualquer dos vícios invalidantes do contrato entabulado entre as partes.
+Não obstante as argumentações trazidas no agravo interno, é de se registrar que a Corte local, ainda, pontuou que o fato do acordo entabulado ter se concretizado sob a assistência de nova advogada, devido a revogação da procuração pouco tempo antes, não difere, substancialmente, daquele que seria selado em fins de 2014 sob o patrocínio dos agravados, como advogados da agravante, de modo que fazem jus ao recebimento dos honorários contratuais correspondentes, já que finalizaram o processo de inventário com a elaboração do acordo entre a agravante e os irmãos de seu falecido marido, mormente porque, pelos depoimentos colhidos e documentos colacionados, restou patente que o retardamento da sua homologação e demais atos que se procederam (renúncias) caracterizaram como etapas do cumprimento do acordo que, por estratégia, foi homologado em momento posterior.
+Por fim, concluiu que restou evidenciado nos autos a existência do contrato de honorários advocatícios validamente formado entre as partes e a efetividade da prestação dos serviços contratados, a condenação da agravante ao pagamento aos agravados dos honorários correspondentes ao porcentual sobre o valor dos bens a ela atribuídos no inventário, tal como disposto no contrato entabulado, é medida que se impõe, exatamente como decidiu o magistrado sentenciante.
+Desta forma, cumpre ressaltar que, na hipótese em que pretende impugnar a aplicação da Súmula 7/STJ, deve a agravante não apena mencionar que o referido enunciado deve ser afastado, mas, além disso, também deve demonstrar que a solução da controvérsia independe do reexame dos elementos de convicção dos autos, avaliados pelas instâncias ordinárias, o que não restou configurado.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao presente agravo interno.
