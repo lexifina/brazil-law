@@ -1,0 +1,101 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 23/08/2022 a 29/08/2022, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo, Maria Isabel Gallotti e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA (Relator): Trata-se de agravo interno (e-STJ fls. 333/373) interposto contra decisão desta relatoria que negou provimento ao recurso ordinário.
+Em suas razões, a agravante reitera os argumentos do recurso anterior, insistindo na possibilidade de impetração do mandado de segurança para defesa de prerrogativa de advogado inscrito em seus quadros, contra decisão teratológica que o condenou ao pagamento de astreintes por descumprimento de decisão judicial.
+Ao final, requer o provimento do recurso.
+Foram apresentadas contrarrazões (e-STJ fls. 379/391).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO EM MANDADO DE SEGURANÇA. FUNDAMENTOS DA DECISÃO AGRAVADA. IMPUGNAÇÃO. AUSÊNCIA. SÚMULA N. 182/STJ. AGRAVO NÃO CONHECIDO.
+1. É inviável o agravo previsto no art. 1.021 do CPC/2015 que deixa de atacar especificamente os fundamentos da decisão agravada (Súmula n. 182/STJ).
+2. Agravo interno não conhecido.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA (Relator): A insurgência não merece acolhida.
+A agravante não trouxe nenhum argumento capaz de afastar os termos da decisão agravada, razão pela qual deve ser mantida por seus próprios fundamentos (e-STJ fls. 325/331):
+Trata-se de recurso ordinário em mandado de segurança, com pedido de liminar, interposto com fundamento no art. 105, II, "b", da CF contra acórdão do TJGO assim ementado (e-STJ fl. 154):
+MANDADO DE SEGURANÇA. ATO JUDICIAL. IMPETRAÇÃO POR TERCEIRO. NÃO CIÊNCIA INCOMPROVADA. RECURSO CABÍVEL INTERPOSTO. SUCEDÂNEO RECURSAL. INADEQUAÇÃO DA VIA ELEITA.
+1. A interpretação do enunciado da Súmula 202/STJ deve ser conjugada com a do enunciado da Súmula 267/STF, de modo que o terceiro somente pode impetrar o mandamus, ao invés da interpor o recurso cabível ou opor embargos, se não teve condições de tomar ciência do ato processual que lhe acarretou prejuízo, o que não é o caso.
+2. O Mandado de Segurança é via inadequada para o terceiro atacar ato judicial passível de recurso dotado de efeito suspensivo ou correição parcial já utilizado pelo próprio substituído titular do direito subjetivo, de modo que o seu manejo como sucedâneo recursal autoriza o indeferimento da petição inicial, a denegação da segurança e a extinção do processo sem resolução do mérito.
+PETIÇÃO INICIAL INDEFERIDA.
+SEGURANÇA DENEGADA.
+PROCESSO EXTINTO SEM RESOLUÇÃO DO MÉRITO (ART. 6º, § 5º, DA LEI Nº 12.016/09 C/C ART. 485, INCISO I, DO CPC).
+Os embargos de declaração foram rejeitados (e-STJ fls. 207/222).
+Em suas razões (e-STJ fls. 229/258), a parte recorrente esclarece que (e- STJ fl. 241):
+Pois bem, importa, antes de tudo, conforme exposto na exordial, que esta instituição, a Ordem dos Advogados do Brasil  Seção Goiás, está agindo em defesa das prerrogativas de advogado regularmente inscrito, ou seja, titularizando a presente ação em benefício da advogada substituída, o qual foi ilegalmente e teratologicamente condenado, solidariamente, em pagamento de astreintes devidas por parte de mora processual imputada ao cliente.
+Dito isto, o advogado, terceiro da relação processual, não é parte no presente feito, sendo apenas beneficiário de uma eventual decisão favorável. Quem titulariza o presente feito é a própria Ordem dos Advogados do Brasil  Seção Goiás, o que já afasta o entendimento de "que terceiro somente pode impetrar o mandamus, ao invés da interposição do recurso cabível ou dos embargos de terceiro, se não teve condições de tomar ciência do ato processual que lhe acarretou prejuízo".
+Assim sendo, totalmente cabível o presente writ dado o instituto da substituição processual, porquanto este é manejado por institui de classe que compete a defesa das prerrogativas profissionais, não sendo diretamente realizado por terceiro prejudicado em desrespeito às vias dos embargos de terceiros e/ou de recurso cabível.
+Afirma ser cabível a impetração do mandado em decorrência da legitimação extraordinária prevista nos arts. 44, II, e 49, parágrafo único, da Lei n. 8.906/1994 (Estatuto da Advocacia e da OAB), uma vez que "o ato impugnado fere o ordenamento jurídico e ataca um profissional devidamente inscrito na Ordem dos Advogados do Brasil - Seção Goiás, em decorrência de sua autonomia no exercício profissional" (e- STJ fl. 242).
+Defende que, em hipóteses excepcionais, é possível a impetração do mandado de segurança para impugnar decisão judicial passível de recurso, ante a manifesta teratologia, inexistência de efeito suspensivo do recurso cabível e situação de dano efetivo ou potencial.
+Alega ser possível a análise do mérito da ação, pois a causa está madura para julgamento.
+Afirma que o ato coator violou direito líquido e certo da classe, ao condenar o advogado sem a observância do devido processo legal e do entendimento consolidado pelo STF no julgamento da ADI n. 2.652-6/DF em controle concentrado de constitucionalidade.
+Sustenta que deve ser afastada a solidariedade na condenação do advogado EDUARDO TALVANI DE LIMA COUTO ao pagamento de astreintes em decorrência da demora de seu cliente em cumprir a decisão judicial, visto que tal condenação é inconstitucional. Argumenta que (e-STJ fl. 251):
+Outrossim, a perpetuação da solidariedade aqui combatida implicará em flagrante afronta ao texto constitucional e às prerrogativas da advocacia, pois a responsabilidade do advogado CONDENADO somente poderia ser cogitada no âmbito do devido processo legal (art. 5º, inciso LIV da Constituição Federar), o que significaria o ajuizamento de ação própria para esse intento. Por esclarecedor que seja, a redação do art. 32 do Estatuto da Advocacia e da OAB (Lei nº 8.906/94) não deixa dúvidas: (..)
+Requer a concessão de medida liminar e, ao final, pede o provimento do recurso para a concessão da segurança, determinando-se "a retirada da eficácia da execução da solidariedade da multa pessoal imposta à parte (astreintes) em relação ao advogado advogado Eduardo Talvani de Lima Couto - OAB/GO nº 7.909" (e-STJ fl. 258).
+O MPF opinou pelo desprovimento do recurso (e-STJ fls. 301/303).
+É o relatório.
+Decido.
+Cuida-se de mandado de segurança impetrado pela ORDEM DOS ADVOGADOS DO BRASIL - SEÇÃO GOIÁS, "em substituição ao advogado devidamente inscrito nos quadros desta Seccional, Dr. Eduardo Talvani de Lima Couto, OAB/GO 7.909" (e-STJ fl. 2).
+A impetrante afirma que tem legitimidade, como substituta processual, para atuar em defesa de seus inscritos quando violadas suas prerrogativas profissionais.
+Aponta como ato coator decisão que teria entendido ser cabível a solidariedade do advogado para responder pela astreinte imposta ao seu cliente.
+Indica como direito líquido e certo: (i) a previsão do art. 77, § 6º, do CPC/2015, (ii) a decisão vinculante proferida na ADI n. 2.652 pelo STF, (iii) o art. 32, parágrafo único, da Lei n. 8.906/1994, que garante a prerrogativa do advogado de ter sua conduta analisada por ação própria, (iv) o art. 506 do CPC/2015, que dispõe que a sentença não prejudicará terceiros e (v) a garantia constitucional do devido processo legal.
+O TJGO indeferiu a petição inicial e denegou a ordem mediante os seguintes fundamentos (e-STJ fls. 159/165):
+2.1 Analisando o caderno processual verifico, de plano, que o presente mandado de segurança deve ser denegado, porquanto utilizado como sucedâneo recursal.
+2.1.1 Em proêmio, ressalto que o Impetrante fora devidamente intimado para manifestar previamente acerca da inadmissibilidade do presente writ, restando satisfeito, portanto, o princípio da não-surpresa.
+(..)
+2.3.1 Via de regra, o mandamus não é o instrumento adequado para questionar decisão judicial, mormente se houver previsão legal de recurso cabível, consoante estabelece o artigo 5º, inciso II, da Lei federal nº 12.016, de 07 de agosto de 2009:
+(..)
+2.3.4 Logo, como o mandado de segurança não deve servir de sucedâneo recursal, substituindo a via de impugnação própria, o writ em apreço não deve ser admitido por ter como objeto decisão judicial da qual cabe recurso ao qual pode se concedido efeito suspensivo.
+2.3.5 Tal assertiva se mostra de tal modo verdadeira que o advogado substituído Eduardo Talvani de Lima Couto, interpôs recursos excepcionais contra a decisão colegiada ora reputada ato coator, conforme se verifica das movs. 46 e 47 dos autos de origem (PJD nº 0104252.24.2005.8.09.0076).
+2.4 Nesse contexto, verifica-se que o órgão de classe, ao impetrar o presente writ, criou uma lide, de mesma causa de pedir e pedido, paralela àquela em que o próprio substituído já defende os seus interesses, o que é inadmissível.
+2.5 Conforme já ressaltado por este Relator na mov. 25, a interpretação do enunciado da Súmula 202/STJ deve ser conjugada com a do enunciado da Súmula 267/STF, de modo que o terceiro somente pode impetrar o mandamus, ao invés da interposição do recurso cabível ou dos embargos de terceiro, se não teve condições de tomar ciência do ato processual que lhe acarretou prejuízo, o que não é o caso dos autos. Nesse sentido:
+(..)
+2.6 Com efeito, o ato judicial combatido poderia ser (e foi) desafiado por recurso com possibilidade de concessão de efeito suspensivo, previsto genericamente no art. 995, parágrafo único, do CPC e mais especificamente no art. 1.029, § 5º, do CPC, verbis:
+(..)
+2.6.1 Desta forma, se o comando judicial proferido poderia ser desafiado (e o foi) por meio do recurso adequado, o descabimento do mandamus é evidente, dado o nítido intento, na espécie, de sucedâneo recursal.
+(..)
+2.8 Nesses termos, aplicável se mostra ao caso o art. 10, caput, da Lei nº 12.016/2009, que estabelece que "a inicial será desde logo indeferida, por decisão motivada, quando não for o caso de mandado de segurança ou lhe faltar algum dos requisitos legais ou quando decorrido o prazo legal para a impetração", o que, como se sabe, gera a extinção do processo sem resolução do mérito, conforme determina o artigo 485, inciso I, do Código de Processo Civil.
+2.8.1 Por sua vez, o artigo 6º, § 5º, da Lei federal nº 12.016, de 07 de agosto de 2009, determina que o mandado de segurança deve ser denegado quando configurada qualquer das hipóteses do artigo 267 do revogado Código de Processo Civil de 1973 (artigo 485 na vigente norma processual), verbis:
+(..)
+2.9 Desse modo, o indeferimento da petição inicial com a denegação do mandado de segurança e a extinção do processo sem resolução de mérito, são medidas que se impõem.
+O entendimento da Corte estadual acerca da impossibilidade de se utilizar o mandado de segurança como sucedâneo recursal, visto que no caso era cabível a interposição de recurso com possibilidade de atribuição de efeito suspensivo, está em consonância com a jurisprudência do STJ. Confiram-se:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. ATO JUDICIAL. DECISÃO PASSÍVEL DE RECURSO INCIDÊNCIA DO NUNCIADO N.º 267/STF). AUSÊNCIA DE MANIFESTA ILEGALIDADE OU TERATOLOGIA.
+1. Não é cabível o mandado de segurança contra ato judicial impugnável pela via recursal. Aplicação da Súmula 267/STF, por analogia.
+2. A impetração de mandado de segurança contra ato judicial, a teor da doutrina e da jurisprudência, reveste-se de índole excepcional, admitindo-se apenas em hipóteses extraordinárias, a saber: a) decisão judicial manifestamente ilegal ou teratológica; b) decisão judicial contra a qual não caiba recurso; c) para imprimir efeito suspensivo a recurso desprovido de tal atributo; e d) quando impetrado por terceiro prejudicado por decisão judicial.
+3. Circunstâncias excepcionais aludidas não verificadas nos autos.
+4. Não apresentação de argumentos novos capazes de infirmar os fundamentos que alicerçaram a decisão agravada.
+5. AGRAVO INTERNO CONHECIDO E DESPROVIDO.
+(AgInt nos EDcl no RMS n. 67.790/SP, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 11/4/2022, DJe de 19/4/2022.)
+PROCESSUAL CIVIL. RECURSO ORDINÁRIO. MANDADO DE SEGURANÇA. ATO JUDICIAL. TERATOLOGIA. ILEGALIDADE. ABUSO DE PODER. INEXISTÊNCIA.
+1. O Superior Tribunal de Justiça tem entendimento uniforme de que o mandado de segurança - instituto que visa à proteção de direito líquido e certo contra ato abusivo ou ilegal de autoridade pública - não pode ser utilizado como sucedâneo recursal, sob pena de se desnaturar a sua essência constitucional.
+2. Em situações excepcionais, quando o ato judicial for eivado de ilegalidade, teratologia ou abuso de poder, esta Corte tem abrandado referido posicionamento, situação inocorrente na presente hipótese.
+3. "O enunciado da Súmula 202 do STJ socorre apenas o terceiro que não teve condições de tomar ciência da decisão que lhe prejudicou, com a consequente impossibilidade de utilizar-se do recurso no prazo legal, situação que não ocorre na hipótese dos autos" (AgInt no MS 22.882/DF, Rel. Ministro OG FERNANDES, CORTE ESPECIAL, julgado em 06/09/2017, DJe 14/09/2017).
+4. Agravo interno desprovido.
+(AgInt nos EDcl no RMS n. 65.548/DF, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 25/10/2021, DJe de 25/11/2021.)
+CONSTITUCIONAL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. ATO JUDICIAL. DECISÃO PASSÍVEL DE RECURSO DE AGRAVO DE INSTRUMENTO (SÚMULA 267/STF). AUSÊNCIA DE MANIFESTA ILEGALIDADE OU TERATOLOGIA. SEGURANÇA DENEGADA. AGRAVO IMPROVIDO.
+1. Não é cabível o mandado de segurança contra ato judicial impugnável pela via recursal. Aplicação da Súmula 267/STF, por analogia. Precedentes.
+2. A impetração de mandado de segurança contra ato judicial, a teor da doutrina e da jurisprudência, reveste-se de índole excepcional, admitindo-se apenas em hipóteses extraordinárias, a saber: a) decisão judicial manifestamente ilegal ou teratológica; b) decisão judicial contra a qual não caiba recurso; c) para imprimir efeito suspensivo a recurso desprovido de tal atributo; e d) quando impetrado por terceiro prejudicado por decisão judicial, circunstâncias não verificadas nos autos.
+3. Agravo interno não provido.
+(AgInt no RMS n. 61.373/BA, relator Ministro Raul Araújo, Quarta Turma, julgado em 28/9/2021, DJe de 1/10/2021.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO MANDADO DE SEGURANÇA. ATO JUDICIAL. INEXISTÊNCIA DE TERATOLOGIA, ILEGALIDADE OU ABUSO DE PODER. IMPOSSIBILIDADE DE UTILIZAÇÃO COMO SUCEDÂNEO RECURSAL.
+1. Não é admitida a utilização do mandado de segurança impetrado contra ato judicial quando não eivado de patente teratologia, ilegalidade ou abuso de poder, sendo certa a impossibilidade de manejo dessa ação constitucional com intuito de sucedâneo recursal. Precedentes. (Súmula 267/STF)" (AgRg no MS 20.981/DF, Rel. Ministro Sidnei Beneti, Corte Especial, DJe 20/08/2014).
+2. No caso concreto, o ato acoimado de coator consistiu na negativa de provimento ao recurso especial em virtude da inexistência de impugnação a todos os fundamentos da decisão recorrida, tendo sido apresentada fundamentação sucinta e suficiente, o que tem o condão de afastar a pecha de teratologia, o mesmo ocorrendo com relação à multa aplicada nos embargos declaratórios.
+3. Agravo interno não provido.
+(AgInt no MS n. 25.098/SP, relator Ministro Luis Felipe Salomão, Segunda Seção, julgado em 26/6/2019, DJe de 28/6/2019.)
+A parte alega ser cabível a impetração do remédio constitucional por ser terceira estranha à relação processual e afirma que a impetração do mandado se dá em substituição processual ao advogado condenado ao pagamento da multa.
+Ocorre que referido advogado interpôs os recursos que considerou cabíveis e a impetrante não demonstrou a existência de interesse jurídico apto a lhe conferir legitimidade para a interposição do presente mandamus. Tanto que informou na inicial que participou do processo como amicus curiae (e-STJ fl. 4).
+Ademais, a decisão objeto do mandado de segurança (e-STJ fls. 24/27 e 28/31), ao contrário do alegado, não analisou a questão da solidariedade do advogado para o pagamento das astreintes, apenas entendeu que tal matéria estaria preclusa, pois decidida na fase de conhecimento, não podendo ser novamente discutida na fase executiva.
+Registre-se que o advogado ajuizou duas reclamações no STF, apontando afronta à autoridade da decisão proferida no ADI n. 2.652-6/DF, sendo negado seguimento a ambas.
+Na Rcl n. 25.524, por se entender que, "tendo em vista que o processo encontra-se em fase de execução, com juízo de cognição já exaurido, a pretensão do reclamante de desconstituir a decisão que lhe impôs o pagamento de multa diária encontra óbice no art. 988, 5º, I, do CPC/2015, segundo o qual é inadmissível a reclamação proposta após o trânsito em julgado da decisão reclamada, e na Súmula 734/STF, cujo teor é o seguinte: não cabe reclamação quando já houver transitado em julgado o ato judicial que se alega tenha desrespeitado decisão do Supremo Tribunal Federal". Na Rcl n. 45.853, por se concluir que, "no presente caso, considerando a decisão anexada à inicial, verifico que foi imposta à parte e ao seu procurador, ora reclamante, a multa do art. 814 do CPC, por atraso no cumprimento da obrigação. Não houve condenação pela conduta descrita no art. 14, V e parágrafo único, do CPC - norma apreciada no paradigma invocado - ou por equivalente seu no novo CPC".
+Dessa forma, considerando que a impetrante não logrou demonstrar o cabimento do presente mandado de segurança, deve ser mantido o acórdão recorrido, que extinguiu o processo.
+Ante o exposto, NEGO PROVIMENTO ao recurso ordinário. Fica prejudicado o pedido de atribuição de efeito suspensivo.
+Publique-se e intimem-se.
+Em obediência ao princípio da dialeticidade recursal e conforme previsto no art. 1.021, § 1º, do CPC/2015, "na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada".
+No agravo interno (e-STJ fls. 333/373), todavia, a agravante insurge-se contra o resultado que lhe foi adverso, reiterando os mesmos argumentos do recurso ordinário, sem proceder à impugnação dos fundamentos da decisão monocrática, tanto que em suas razões se refere ao acórdão do Tribunal de origem.
+A agravante não impugnou os fundamentos da decisão agravada referentes à ausência de demonstração de interesse jurídico apto a lhe conferir legitimidade para impetração do mandado de segurança, ao fato de a decisão objeto do mandamus não ter analisado a questão da solidariedade do advogado e ao fato de o STF ter negado seguimento às reclamações apresentadas pelo advogado.
+Deixando a recorrente de rebater especificamente cada ponto da decisão ora agravada, incide a Súmula n. 182/STJ:
+É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.
+Ante o exposto, NÃO CONHEÇO do agravo interno.
+É como voto.
