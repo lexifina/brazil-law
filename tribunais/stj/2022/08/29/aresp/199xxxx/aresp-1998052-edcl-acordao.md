@@ -1,0 +1,30 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 23/08/2022 a 29/08/2022, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Og Fernandes.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Cuida-se de embargos de declaração manejados por ARIM TRANSPORTES RODOVIÁRIOS LTDA em face de acórdão desta Segunda Turma resumido da seguinte forma:
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ADEQUADA AO FUNDAMENTO DO JUÍZO NEGATIVO DE ADMISSIBILIDADE RECURSAL QUE APLICOU O ÓBICE DA SÚMULA Nº 83 DO STJ. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA Nº 182 DO STJ.
+1. Da análise das razões do agravo de fls. 361-373 e-STJ, verifica-se que a agravante não impugnou de forma adequada o fundamento do juízo de admissibilidade que aplicou o óbice da Súmula nº 83 do STJ, uma vez que, no ponto, a agravante limitou-se a afirmar a ausência entendimento consolidado no STJ sobre o mérito, citando precedente desta Corte nos autos do REsp 1.691.748/PR, Rel. Min. Ricardo Villas Boas Cueva, Terceira Turma, DJe 17/11/2017, o qual não foi tomado no âmbito da discussão relativa à equiparação do seguro garantia a depósito integral em dinheiro para fins de suspensão da exigibilidade do crédito tributário na forma do art. 151 do CTN.
+2. É cediço nesta Corte que a impugnação a fundamento do juízo negativo de admissibilidade que aplica a Súmula nº 83 do STJ pressupõe a demonstração, através de precedentes atuais, que a jurisprudência do STJ não estaria no mesmo sentido do acórdão recorrido, ou que o caso dos autos seria distinto daqueles veiculados nos precedentes citados no decisum, o que não ocorreu na hipótese, sobretudo porque o caso citado não é atual nem trata de suspensão da exigibilidade do crédito tributário.
+3. Merece confirmação a decisão da Presidência do STJ que não conheceu do agravo em razão da ausência de impugnação adequada a fundamento da negativa de admissibilidade recursal, o que atraiu a incidência, por analogia, da Súmula nº 182 desta Corte.
+4. Agravo interno não provido.
+O embargante alega erro material e contradição no que tange à possibilidade de suspensão da exigibilidade do crédito tributário em razão da indicação de seguro garantia. Alega que o fato de o acórdão paradigma citado nas razões recursais (REsp 1.691.748)não tratar de débitos de natureza tributária não significa que a recorrente não tenha demonstrado a existência de entendimentos dissonantes entre o TJPR e esta Corte, não sendo razoável negar-lhe o pleito em razão da diferença de natureza dos créditos, o que seria irrelevante na hipótese. Afirma que foi impugnado o fundamento que aplicou a Súmula nº 83 do STJ no caso.
+Requer a acolhida dos embargos para sanar os vícios apontados e dar provimento ao agravo interno.
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO OU OBSCURIDADADE. REJULGAMENTO DA CAUSA. IMPOSSIBILIDADE. REJEIÇÃO DOS EMBARGOS.
+1. Os embargos de declaração constituem instrumento processual com o escopo de eliminar do julgamento obscuridade, contradição ou omissão sobre tema cujo pronunciamento se impunha pelo acórdão ou, ainda, de corrigir evidente erro material, servindo, dessa forma, como instrumento de aperfeiçoamento do julgado. Não havendo tais vícios no acórdão embargado, impõe-se a rejeição dos aclaratórios.
+2. A motivação contrária ao interesse da parte não se traduz em maltrato ao artigo 1.022 do CPC/2015.
+3. Embargos de declaração rejeitados.
+VOTO
+A irresignação não merece acolhida.
+Em que pesem as alegações da embargante, oacórdão embargado se manifestou de forma clara e fundamentada no sentido de quea agravante não impugnou de forma adequada o fundamento do juízo de admissibilidade que aplicou o óbice da Súmula nº 83 do STJ, uma vez que, no ponto, limitou-se a afirmar a ausência entendimento consolidado no STJ sobre o mérito, citando precedente desta Corte nos autos do REsp 1.691.748/PR, Rel. Min. Ricardo Villas Boas Cueva, Terceira Turma, DJe 17/11/2017, o qual não foi tomado no âmbito da discussão relativa à equiparação do seguro garantia a depósito integral em dinheiro para fins de suspensão da exigibilidade do crédito tributário na forma do art. 151 do CTN.É cediço nesta Corte que a impugnação a fundamento do juízo negativo de admissibilidade que aplica a Súmula nº 83 do STJ pressupõe a demonstração, através de precedentes atuais, que a jurisprudência do STJ não estaria no mesmo sentido do acórdão recorrido, ou que o caso dos autos seria distinto daqueles veiculados nos precedentes citados no decisum, o que não ocorreu na hipótese, sobretudo porque o caso citado não é atual nem trata de suspensão da exigibilidade do crédito tributário.
+Não há que se falar, portanto, em omissão no acórdão embargado, o qual baseou- se em premissas harmônicas e suficientes para o deslinde da controvérsia, chegando, contudo, à conclusão que não agradou a parte ora embargante.
+É cediço, outrossim, que a motivação contrária ao interesse da parte não se traduz em maltrato ao artigo 1.022 do CPC/2015.
+Os embargos de declaração constituem instrumento processual com o escopo de eliminar do julgamento obscuridade, contradição ou omissão sobre tema cujo pronunciamento se impunha pelo acórdão ou, ainda, de corrigir evidente erro material, servindo, dessa forma, como instrumento de aperfeiçoamento do julgado que incorre em errorin procedendo, não servindo, contudo, para novo julgamento da causa em eventual tentativa de correção deerrorin judicando.
+Registro que a interposição de novos embargos de declaração para tratar de questão já enfrentada poderá ensejar a aplicação da multa prevista no § 2º do art. 1.026 do CPC/2015.
+Ante o exposto, rejeito os presentes embargos de declaração.
+É como voto.
