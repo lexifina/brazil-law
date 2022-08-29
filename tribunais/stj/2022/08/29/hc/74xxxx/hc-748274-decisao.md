@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de JOSE LUIS BARROS FERREIRA apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (HC n. 2104257-76.2022.8.26.0000).
+Depreende-se dos autos que o paciente encontra-se preso preventivamente pela prática, em tese, do crime de tráfico de drogas, pois "teria em depósito, para fins de venda e entrega ao consumo de terceiros, as seguintes drogas: 21 pedras de crack, pesando conjuntamente 11,59g  onze gramas e cinquenta e nove centigramas ; 2 pedras de crack, pesando conjuntamente 16,79g  dezesseisgramas e setenta e nove centigramas ; 34 porções de cocaína, acondicionadas em microtubos plásticos (as quais pesaram, juntamente dos eppendorfs, 28,93g  vinte e nove gramas e noventa e três centigramas )" (e-STJ fl. 16).
+Impetrado prévio habeas corpus na origem, a ordem foi denegada nos termos da seguinte ementa (e-STJ fl. 15):
+Habeas corpus. Tráfico de drogas. Prisão em flagrante convertida em preventiva. Pretensão de revogação da custódia cautelar, com a imposição da medida cautelar de comparecimento periódico em juízo, apontando ausência de fundamentação idônea. Impossibilidade Expressiva quantidade e variedade de drogas de alto potencial lesivo. Risco indiscutível à ordem pública, instrução criminal e aplicação da lei penal. Réu com envolvimento anterior em crime. Agente que não comprovou ocupação lícita e ter família constituída. Circunstâncias que permitem afirmar que, em caso de prematura soltura, poderá prejudicar o curso da ação penal. Medidas cautelares diversas da prisão insuficientes. Irrelevância de ter o Paciente outras eventuais circunstâncias pessoais favoráveis. Precedentes. Inexistência de abuso de autoridade ou ilegalidade manifesta. Ordem denegada.
+Daí o presente writ, no qual alega a defesa que a decisão que decretou a prisão preventiva do paciente carece de fundamentação idônea. Acrescentando ser desnecessária a custódia cautelar, já que se revelariam adequadas e suficientes medidas diversas da prisão.
+Requer, ao final, "a concessão da medida liminar, com a expedição de alvará de soltura em nome do paciente; ao final, requer-se a concessão definitiva da ordem para que o paciente responda o processo de conhecimento em liberdade, substituindo a prisão preventiva por medidas diversas da prisão, conforme manda o artigo 319 do Código de Processo Penal" (e-STJ fl. 13).
+Liminar indeferida às e-STJ fls. 27/28.
+Prestadas as informações, o Ministério Público Federal opinou pelo não conhecimento da ordem (e-STJ fls. 64/70).
+É o relatório.
+Decido.
+Pois bem. Informações extraídas do endereço eletrônico do Tribunal de origem noticiam a superveniência, em 22/8/2022, de sentença condenatória em desfavor do paciente na ação penal de que cuidam estes autos.
+Assim, fica sem objeto este writ, em razão da superveniência de novo título a embasar a custódia, não submetido a pronunciamento do Tribunal de origem.
+A propósito:
+EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. PRINCÍPIO DA FUNGIBILIDADE RECURSAL. PRISÃO PREVENTIVA. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA QUE MANTENHA A CUSTÓDIA CAUTELAR. NOVO TÍTULO.PREJUDICIALIDADE DO RECURSO EM HABEAS CORPUS. AGRAVO REGIMENTAL IMPROVIDO.
+1. Cediço que não cabe a interposição de embargos de declaração contra decisão monocrática que julga prejudicado recurso, mas, em consonância ao princípio da fungibilidade recursal, há que se receber esta irresignação como agravo regimental.
+2. Prevalece no âmbito da Sexta Turma desta Corte o entendimento no sentido de que constitui novo título a expedição de sentença condenatória que mantenha a custódia preventiva, mesmo que não lance mão de novos fundamentos para a manutenção daquela. Precedentes.
+3. Embargos de declaração recebidos como agravo regimental, ao qual se nega provimento. (EDcl no RHC n. 78.448/MG, relator Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 16/3/2017, DJe 23/3/2017.)
+Ante o exposto, com base no art. 34, inciso XX, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente habeas corpus.
+Publique-se. Intimem-se.
