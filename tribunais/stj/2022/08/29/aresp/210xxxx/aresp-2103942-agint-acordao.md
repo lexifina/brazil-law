@@ -1,0 +1,52 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 23/08/2022 a 29/08/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Luis Felipe Salomão, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+O SENHOR MINISTRO RAUL ARAÚJO (Relator):
+Trata-se de agravo interno interposto por BRASIF S/A EXPORTAÇÃO IMPORTAÇÃO contra decisão do em. Ministro Presidente do Superior Tribunal de Justiça, que não conheceu do agravo em recurso especial em razão da ausência de impugnação específica dos fundamentos da decisão primeva de admissibilidade exercida pela Corte de origem.
+Nas razões do agravo interno, a parte ora agravante alega que todos os fundamentos da decisão foram impugnados. Ao final, pleiteia o enfrentamento do recurso especial.
+A parte agravada apresentou impugnação do agravo interno (fls. 688-697).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO EM FASE DE CUMPRIMENTO DE SENTENÇA. IMPOSSIBILIDADE DE EXAME DE OFENSA A DISPOSITIVO CONSTITUCIONAL EM SEDE DE RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO NO ACÓRDÃO ESTADUAL. CARTA DE CITAÇÃO ENTREGUE NA SEDE DA EMPRESA RÉ. TEORIA DA APARÊNCIA. VALIDADE. CONSONÂNCIA DO ARESTO RECORRIDO COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO E NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. É válida a citação da pessoa jurídica, realizada no endereço de sua sede, mesmo que recebida por pessoa que não tinha poderes expressos para tal, mas não recusou a qualidade de funcionário, tampouco fez qualquer ressalva, devendo prevalecer, no caso, a teoria da aparência. Precedentes.
+2. Agravo interno provido para reconsiderar a decisão agravada e, em novo exame, conhecer do agravo para negar provimento ao recurso especial.
+VOTO
+O SENHOR MINISTRO RAUL ARAÚJO (Relator):
+Assiste razão à parte ora agravante quanto à impugnação dos fundamentos da decisão agravada. Com isso, reconsidera-se a decisão agravada de fls. 660-661, na parte em que não conheceu do recurso especial interposto pela recorrente, passando-se a novo exame do apelo.
+Trata-se de agravo manejado por BRASIF S/A EXPORTAÇÃO IMPORTAÇÃO contra decisão que não admitiu recurso especial, interposto com fundamento no art. 105, III, "a" e "c", da Constituição Federal, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+"EMENTA: AGRAVO DE INSTRUMENTO - AÇÃO DE INDENIZAÇÃO EM FASE DE CUMPRIMENTO DE SENTENÇA - CARTA DE CITAÇÃO ENTREGUE NA SEDE DA EMPRESA RÉ - TEORIA DA APARÊNCIA - APLICAÇÃO - NULIDADE DE CITAÇÃO - NÃO CONFIGURAÇÃO. O STJ já se manifestou no sentido de que é válida a citação da pessoa jurídica quando, encaminhada ao endereço da pessoa jurídica, é recebida por quem se apresenta como representante legal da empresa, sem ressalvas quanto à inexistência de poderes de representação em juízo." (fl. 350)
+Os embargos de declaração foram rejeitados (fls. 388-393).
+Nas razões do recurso especial, a parte ora agravante alega violação dos arts. 11, 239, 242, 248, § 2º, 489, § 1º, IV, e 1.022 do Código de Processo Civil de 2015; arts. 4º, I, e 166, I, do Código Civil de 2002; e arts. 5º, LIV e LV, e 93, IX, da Constituição Federal, bem como divergência jurisprudencial, sustentando, em síntese: (a) negativa de prestação jurisdicional; e (b) nulidade da citação da pessoa jurídica recorrente, pois foi recebida por menor aprendiz.
+Apresentadas contrarrazões ao apelo nobre (fls. 478-486).
+De início, registre-se a impossibilidade de análise de ofensa a dispositivo da Constituição Federal, em sede de recurso especial, pois este não se enquadra no conceito de lei federal, previsto no art. 105, III, da CF.
+Lado outro, afasta-se a alegação de negativa de prestação jurisdicional, porque o Tribunal de origem enfrentou a matéria debatida, apenas decidindo em sentido contrário à pretensão da recorrente - v.g. EDcl no AgRg no AREsp 617.798/DF, Rel. Ministro Raul Araújo, Quarta Turma, julgado em 27/10/2015, DJe de 25/11/2015; e AgRg no Ag 1.160.319/MG, Rel. Ministro Vasco Della Giustina (Desembargador convocado do TJ/RS), Terceira Turma, julgado em 26/4/2011, DJe de 6/5/2011.
+O eg. Tribunal a quo consigna que, "considerando que a carta de citação foi enviada para a sede da empresa agravante e foi recebida por um de seus funcionários, que, diga-se, não fez qualquer ressalva no momento da assinatura do AR, não há como negar que essa citação foi válida, pouco importando que tal funcionário seja um menor aprendiz, de acordo, como já dito, com a "Teoria da Aparência" (fl. 354).
+Dessa forma, verifica-se que o v. acórdão recorrido está em consonância com a jurisprudência desta Corte de Justiça acerca da aplicação da Teoria da Aparência aos atos citatórios de pessoas jurídicas, realizada na pessoa de quem não recusa a qualidade de funcionário da empresa e recebe o ato sem ressalvas.
+A propósito:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. AGRAVO DE INSTRUMENTO. VIOLAÇÃO AOS ART. 489 E 1.022 DO CPC/2015. FUNDAMENTAÇÃO DEFICIENTE. INCIDÊNCIA DA SÚMULA 284/STF. VIOLAÇÃO AOS ARTS. 502 E 504 DO CPC/2015. NULIDADE DO CUMPRIMENTO DE SENTENÇA. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA 211/STJ. NÃO PREENCHIMENTO DOS REQUISITOS PARA POSSIBILITAR O PREQUESTIONAMENTO FICTO. NULIDADE DA CITAÇÃO. FUNDAMENTO NÃO ATACADO. INCIDÊNCIA DA SÚMULA 283/STF. CITAÇÃO. PESSOA JURÍDICA. TEORIA DA APARÊNCIA. SÚMULA 83/STJ. MULTA DO ART. 1.021, § 4º, DO CPC/2015. INAPLICABILIDADE. AGRAVO INTERNO IMPROVIDO.
+1. É deficiente a fundamentação do recurso especial em que a alegação de ofensa aos arts. 489 e 1.022 do CPC/2015 se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Aplica-se, na hipótese, o óbice da Súmula 284 do STF.
+2. Incide a Súmula 211 do STJ, na espécie, porquanto ausente o prequestionamento. Também não é o caso de se considerar a ocorrência do prequestionamento ficto previsto no art. 1.025 do CPC/2015.
+3. A manutenção de argumento que, por si só, sustenta o acórdão recorrido torna inviável o conhecimento do apelo especial, atraindo a aplicação do enunciado n. 283 da Súmula do Supremo Tribunal Federal.
+4. Nos termos da jurisprudência sedimentada nesta Corte, com base na teoria da aparência, considera válida a citação realizada na pessoa de quem se identifica como representante da empresa e recebe o ato sem ressalvas. Precedentes.
+5. O mero não conhecimento ou a improcedência de recurso interno não enseja a automática condenação à multa do art. 1.021, § 4º, do NCPC, devendo a imposição ser analisada caso a caso.
+6. Agravo interno improvido." (AgInt no REsp n. 1.931.444/TO, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 14/2/2022, DJe de 21/2/2022, g.n.)
+"AGRAVO INTERNO NO RECURSO ESPECIAL. CERCEAMENTO DE DEFESA. AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTO DO ACÓRDÃO RECORRIDO. SÚMULA 283/STF. CITAÇÃO. TEORIA DA APARÊNCIA. SÚMULA 83/STJ. AGRAVO NÃO PROVIDO.
+1. Os fundamentos do acórdão proferido pelo Tribunal de origem não foram devidamente impugnados, o que atrai a incidência da Súmula 283 do Supremo Tribunal Federal.
+2. Conforme jurisprudência do Superior Tribunal de Justiça, em atenção à teoria da aparência, considera-se válida a citação da pessoa jurídica na sede ou filial da empresa a uma pessoa que não recusa ter poderes para tanto. Precedentes.
+3. Agravo interno a que se nega provimento." (AgInt no REsp n. 1.922.468/CE, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 29/11/2021, DJe de 1/12/2021, g.n.)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - EMBARGOS DE TERCEIRO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO AGRAVO. INSURGÊNCIA DO EMBARGANTE.
+1. A ausência de enfrentamento da matéria pelo Tribunal de origem impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento. In casu, deixou o recorrente de apontar, nas razões do apelo extremo, a violação do artigo 1.022 do CPC/15, a fim de que esta Corte pudesse averiguar a existência de possível omissão no julgado quanto ao tema afeto à nulidade da execução.
+2. Nos termos da jurisprudência pacífica desta Corte Superior, é válida a citação da pessoa jurídica, realizada no endereço de sua sede principal, mesmo que recebida por pessoa que não tenha poderes expressos para tal, em razão da teoria da aparência. Incidência da Súmula 83/STJ.
+2.1. A revisão do aresto impugnado no sentido pretendido pela recorrente exigiria derruir a convicção formada nas instâncias ordinárias no tocante à validade da citação, medida vedada em sede de recurso especial. Incidência da Súmula 7 do STJ. Precedentes.
+3. Agravo interno desprovido." (AgInt no AREsp n. 1.847.835/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 20/9/2021, DJe de 23/9/2021, g.n.)
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. CITAÇÃO REALIZADA NO ENDEREÇO DA PESSOA JURÍDICA E RECEBIDA POR PESSOA DEVIDAMENTE IDENTIFICADA, SEM PODERES DE REPRESENTAÇÃO. VALIDADE. INCIDÊNCIA DAS SÚMULAS 7 E 83/STJ. DECISÃO MANTIDA. RECURSO NÃO PROVIDO.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+2. O recurso especial é inviável quando o tribunal de origem decide em consonância com a jurisprudência do STJ (Súmula 83/STJ).
+3. "É válida a citação da pessoa jurídica, realizada no endereço de sua sede, mesmo que recebida por pessoa que não tinha poderes expressos para tal, mas não recusou a qualidade de funcionário, devendo prevalecer, no caso, a teoria da aparência. Precedentes" (AgInt no AREsp 1.385.801/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, DJe 24/4/2019).
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.706.937/RS, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 12/4/2021, DJe de 14/4/2021, g.n.)
+Assim, estando o acórdão recorrido em harmonia com a orientação firmada nesta Corte Superior, incide, na espécie, o óbice previsto na Súmula 83 do STJ.
+Diante do exposto, dou provimento ao agravo interno para reconsiderar a decisão de fls. 660-661 e, em nova análise, conhecer do agravo a fim de negar provimento ao recurso especial.
+É como voto.
