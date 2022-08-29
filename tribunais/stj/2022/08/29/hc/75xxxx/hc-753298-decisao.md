@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor deLIDIOMAR RODRIGUES em que se aponta como autoridade coatoraoTribunal de Justiça do Estado de Minas Gerais(Agravo em Execuçãon.1.0079.15.005879-4/001).
+O Juízo de primeiro grau deixou de reconhecer a prescrição da infração disciplinar imputada ao reeducando, a qual foi reconhecida, na oportunidade, como falta grave, acarretando a alteração do marco temporal necessário para a obtenção de benefícios da execução.
+Interposto agravo em execução pela defesa, o Tribunal de origem negouprovimento ao recurso em acórdão assim ementado (fl. 94):
+AGRAVO EM EXECUÇÃO PENAL - FALTA GRAVE - RECONHECIMENTO DA PRESCRIÇÃO - INVIABILIDADE - LAPSO TEMPORAL NÃO ATINGIDO - PEDIDO DE ABSOLVIÇÃO DA INFRAÇÃO DISCIPLINAR - IMPOSSIBILIDADE - RECURSO DESPROVIDO. 1. Inexistindo previsão legal acerca do prazo prescricional de falta grave, certo é que a jurisprudência do Superior Tribunal de Justiça vem admitindo a utilização do menor prazo dentre os previstos no art. 109 do Código Penal, qual seja, o de três anos para fatos ocorridos após a alteração dada pela Lei 12.234, de 5 de maio de 2010, ou de dois anos se a falta tiver ocorrido antes desta data. 2. Restando devidamente comprovado nos autos o envolvimento do reeducando com o fato que lhe foi imputado, tendo ele demonstrado senso de indisciplina e irresponsabilidade para o cumprimento de sua pena, imperiosa a manutenção da decisão que reconheceu a prática da infração disciplinar constante do art. 50, III da Lei de Execuções Penais.
+Sustenta a defesa que o entendimento jurisprudencial anterior, da aplicação por analogia do art. 109 do CP para a prescrição de falta grave, deve ser substituído pela aplicação extensiva do art. 83, III, b, do mesmo Código, que diz respeito ao livramento condicional. Sendo assim, necessário o reconhecimento da prescrição da falta cometida no dia 30/03/2020.
+Requer a concessão da ordempara que seja declarada a extinção da punibilidade ou seja o reeducando absolvido da falta disciplinar ocorrida em 30/3/2020.
+As informações foram prestadas às fls. 121-262 e 264-283.
+O Ministério Público Federal manifestou-se pelo não conhecimento do writ(fls. 289-298).
+É o relatório. Decido.
+Ainda que inadequada a impetração dehabeas corpusem substituição à revisão criminal ou ao recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o Superior Tribunal de Justiça considera passível de correção de ofício o flagrante constrangimento ilegal.
+Não se constata a existência de flagrante constrangimento ilegal que autorize a atuação ex officio.
+O Juízo das execuções deixou de reconhecer a prescrição da infração disciplinar imputada ao reeducando, adotando os seguintes fundamentos (fls. 18-19):
+Trata-se da execução de pena deLIDIOMAR RODRIGUES , atualmente no regime fechado.
+Juntada de comunicado interno informando que no dia 30/03/2020 foi encontrado escondido entre o pé e sandália do reeducando faca artesanal (seq. 56).
+Audiência de justificativa realizada (seq. 80). Em audiência a Defensoria Pública requereu juntada das imagens da câmera de segurança e relatório médico acerca da deficiência no pé do reeducando. Juntada de relatório médico (seq. 85).
+Juntada de Comunicado Interno referente a fato ocorrido no dia 09/08/2021 (seq. 91).
+Juntada de ofício informando que não consta as imagens gravadas no dia 30/03/2020 no HD do DVR (seq. 92).
+O Ministério Público requereu o reconhecimento da falta grave cometida (seq. 98). A Defesa pugnou pela extinção da punibilidade em razão da prescrição da pretensão punitiva disciplinar e improcedência da comunicação de falta disciplinar, em razão da ausência de prova de autoria (seq. 102).
+É o relatório. Decido.
+1- Da prescrição do fato noticiado no seq. 56.
+Compulsando os autos, verifico que no dia 30/03/2020 o reeducando evidentemente incorreu na falta prevista no art. 52, VI da LEP.
+Não há lei que regulamenta a questão da prescrição das faltas disciplinares. Da doutrina colhe-se:
+".. Todavia, não é possível admitir que existam faltas disciplinares imprescritíveis, já que nem mesmo os crimes (que são infrações mais graves à sociedade) são imprescritíveis (exceto as exceções constitucionais). Coube a jurisprudência regulamentar a questão, pacificando o entendimento de que o prazo prescricional das faltas disciplinares é de 3 anos, a contar da sua prática. No caso, aplica-se aanalogia ao prazo mínimo prescricional dos crimes (CP, art. 109, inc. VI)". MIRANDA, Rafael de Souza. Manual de Execução Penal Teoria e Prática. Editora JusPodvim, Salvador, 2019. p. 225. (GRIFO NOSSO).
+Eis o teor do seguinte aresto:
+(..) 2. O Superior Tribunal de Justiça reconhece a aplicação, por analogia, do prazo prescricional previsto no art. 109, inciso VI, do Código penal, para apuração das faltas graves praticadas no curso da execução penal. Desde a publicação da Lei . 12.234, de 5/5/510, o prazo para que a infração disciplinar seja apurada e homologada em Juízo é de 3 anos, a contar do cometimento da referida falta disciplinar (..). (STJ, HC 410.757/SP, Rel. min. Joel Ilan Paciornik, Quinta Turma, j. 20.02.2018).
+No caso dos autos, verifico que da data da prática da falta até o momento não decorreu o prazo de 03 (três) anos.
+Ante o exposto, INDEFIROrequerimento defensivo.
+O Tribunal de origem negou provimento ao recurso, mantendo a decisão agravada nos seguintes termos (fls. 96-97):
+Consta dos autos que o réu cumpria pena total de 37 (trinta e sete) anos, 01 (um) mês e 15 (quinze) dias de reclusão, quando, durante procedimento de revista das celas, foi apontado como possuidor de uma faca artesanal de 24cm (vinte e quatro centímetros) (fl. 34/37 do documento único do JPe).
+Inicialmente, registro que sem razão o pleito defensivo de aplicação do art. 83, III, "b" do Código Penal, em substituição ao art. 109, do mesmo diploma legal.
+Como cediço, a prescrição é matéria de ordem pública e de interesse social, e, por isso, deve ser tratada por meio de lei em sentido estrito e não por meio de ato normativo infralegal.
+A par disso, diante da inexistência de legislação específica quanto ao prazo prescricional para a aplicação da sanção disciplinar, decorrente da falta grave, certo é que a jurisprudência do colendo Superior Tribunal de Justiça vem admitindo a utilização do menor prazo dentre os previstos no art. 109 do Código Penal, in casu, o de três anos, conforme alteração promovida pela Lei 12.234/10, vigente à época do cometimento da aludida falta.
+ ..
+Muito embora a defesa tente argumentar que a Lei 13.964/2018 instituiu novo prazo prescricional, tem-se que o artigo 83, inciso III, alínea "b" do CPP apenas dispõe sobre condição à concessão do livramento condicional, consistente no não cometimento de infração disciplinar nos últimos 12 (doze) meses, nada determinando sobre prazo prescricional de faltas graves. Destarte, considerando que entre a data da prática de infração disciplinar, em 30/03/2020, e a presente data, não houve o transcurso de lapso temporal suficiente, inviável se falar em reconhecimento da prescrição.
+O entendimento do Tribunal a quo se coaduna com a jurisprudência do STJ de que a prescrição das faltas disciplinares de natureza grave, em virtude da inexistência de legislação específica, regula-se, por analogia, pelo menor dos prazos previstos no art. 109, VI, do Código Penal, ou seja, o de 3 anos.
+Confiram-se os seguintes julgados a respeito do tema:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PRESCRIÇÃO. PRAZO. APLICAÇÃO ANALÓGICA DO ART. 109, VI, DO CP. OITIVA JUDICIAL. PRESCINDIBILIDADE. PRESENÇA DE DEFESA TÉCNICA NA APURAÇÃO DE FALTA DISCIPLINAR. AUSÊNCIA DE NULIDADE. TESE DE NÃO CONFIGURAÇÃO DA FALTA GRAVE. REVISÃO. VIA IMPRÓPRIA. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. AGRAVO IMPROVIDO.
+1. As Turmas que compõem a Terceira Seção desta Corte firmaram o entendimento de que, em razão da ausência de legislação específica, a prescrição da pretensão de se apurar falta disciplinar, cometida no curso da execução penal, deve ser regulada, por analogia, pelo prazo do art. 109 do Código Penal, com a incidência do menor lapso previsto, atualmente de três anos, conforme dispõe o inciso VI do aludido artigo (HC 527.625/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 12/11/2019, DJe 26/11/2019).
+ ..
+5. Agravo regimental improvido. (AgRg no HC n. 618.536/SP, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 17/2/2021.)
+HABEAS CORPUS. EXECUÇÃO. FALTA GRAVE. PRESCRIÇÃO. TEMA SUBMETIDO À REPERCUSSÃO GERAL DO STF. SOBRESTAMENTO DO RECURSO PELO TRIBUNAL DE ORIGEM. SUSPENSÃO DO LAPSO PRESCRICIONAL. AUSÊNCIA DE PREVISÃO LEGAL. INTERPRETAÇÃO IN MALAM PARTEM. IMPOSSIBILIDADE. MANIFESTA ILEGALIDADE. OCORRÊNCIA.
+1. A prescrição das faltas disciplinares de natureza grave, em virtude da inexistência de legislação específica, regula-se, por analogia, pelo menor dos prazos previstos no art. 109, VI, do Código Penal, de 3 (três) anos.
+2. Em observância ao princípio da legalidade, as causas suspensivas da prescrição demandam expressa previsão legal, o que não se vislumbra na hipótese prevista no art. 1.030, III, do CPC, utilizada para sobrestar o processo no Tribunal de origem, não sendo admissível a analogia in malam partem.
+3. Como a decisão proferida na QO no RE n. 966.177/RS refere-se especificamente à hipótese prevista no art. 1.035, § 5º, do CPC, e não houve o sobrestamento dos processos, nem a suspensão do prazo prescricional, pelo Supremo Tribunal Federal no RE n. 972.598/RS - tema 941, verifica-se a ocorrência de manifesta ilegalidade.
+4. Decorrido lapso superior a 3 (três) anos, previsto no art. 109, VI, do CP, desde a prática da falta disciplinar grave e o seu reconhecimento, em juízo de retratação, pelo Tribunal de origem, deve ser reconhecida a prescrição.
+5. Habeas corpus concedido para afastar o reconhecimento da falta disciplinar e de seus consectários legais. (HC n. 682.633/MG, relator Ministro Olindo Menezes,Quinta Turma, DJe de 11/10/2021.)
+Ante o exposto,com fundamento no art. 34, XX, do RISTJ,não conheço do presentehabeas corpus.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
