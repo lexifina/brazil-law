@@ -1,0 +1,60 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 23/08/2022 a 29/08/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Impedida a Sra. Ministra Nancy Andrighi.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de agravo interno interposto por LUIZ CARLOS SILVA JUNIOR e VIVIAN MARTINS PIVA E SILVA contra decisão proferida pela Presidência desta Corte, que não conheceu do recurso especial por eles interposto, em razão de sua intempestividade,nos termos da seguinte transcrição(e-STJ, fls. 470-471):
+Mediante análise do recurso de VIVIAN MARTINS PIVA E SILVA e OUTRO, a parte recorrente foi intimada do acórdão recorrido em 26/05/2021, sendo o recurso especial interposto somente em 17/06/2021.
+O recurso é, pois, manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias úteis, nos termos do art. 994, VI, c/c os arts. 1.003, § 5º, 1.029, e 219, caput, todos do Código de Processo Civil.
+A propósito, nos termos do § 6º do art. 1.003 do mesmo código, "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso", o que impossibilita a regularização posterior.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+Neste agravo interno (e-STJ, fls. 474-479), os agravantes afirmam atempestividade do recurso especial, ao argumento de que comprovaram, por ocasião de sua interposição,a ocorrência do feriado local de Corpus Christi em 3/6/2021, através de documento extraído do site doTribunal de Justiça do Estado de São Paulo, motivo pelo qual tempestivo o reclamo apresentadoem 17/6/2021.
+Ao final, pleiteiam a reconsideração da decisão ou a apreciação do agravo interno pelo colegiado.
+Impugnação às fls. 482-484 (e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.PROCESSUAL CIVIL. INTEMPESTIVIDADE DO RECURSO ESPECIAL. FERIADO LOCAL. NECESSIDADE DE COMPROVAÇÃO POR MEIO DE DOCUMENTOIDÔNEO. MANUTENÇÃO DA DECISÃO DA PRESIDÊNCIA. AGRAVO INTERNO DESPROVIDO.
+1. Nos termos do art. 219, c/c o art. 1.003, § 5º, ambos do Código deProcesso Civil de 2015, é intempestivo o recurso interposto com fundamentona respectiva lei adjetiva após escoado o prazo de 15 (quinze) dias úteis.
+2. A Corte Especial do Superior Tribunal de Justiça, ao interpretar os arts. 932, parágrafo único, e1.003, § 6º, do CPC/2015, bem como os princípios consagrados pelo novocódigo, por maioria, firmou orientação de que a parte recorrente devecomprovar "a ocorrência de feriado local no ato de interposição dorecurso", sendo inviável a apresentação de documento hábil, em momentoposterior, para demonstrar a tempestividade (AgInt no AREsp 957.821/MS,Rel. Ministro Raul Araújo, Rel. p/ acórdão Ministra Nancy Andrighi, Corte Especial, julgado em 20/11/2017, DJe 19/12/2017).
+3. Para efeito de tempestividade, a prova do feriado local ou suspensãodo expediente forense deve ser feita pela parte interessada por meio dedocumento idôneo, não servindo cópia do calendário do Judiciário ounotícia extraídas da internet. Precedentes.
+4. Razões recursais insuficientes para a revisão do julgado.
+5. Agravo interno desprovido.
+VOTO
+O recurso não comporta provimento, porquanto as razões expendidas sãoinsuficientes para a reconsideração da decisão.
+Na presente insurgência, defende a parte agravante a tempestividade dorecurso especial.
+Primeiramente, é importante salientar que se aplica ao caso dos autos oEnunciado Administrativo 3/STJ, segundo o qual "aos recursos interpostoscom fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18de março de 2016) serão exigidos os requisitos de admissibilidade recursalna forma do novo CPC".
+Em face disso, o prazo para a interposição do recurso especial é de 15(quinze) dias, contados em dias úteis, nos termos dos arts. 219, caput,994, VI e VIII, 1.003, § 5º, 1.029, § 3º, e 1.042, caput, todos do Códigode Processo Civil de 2015.
+Tal prazo, contudo, conforme consignado na decisão ora agravada (e-STJ,fls. 470-471), não foi observado pelos agravantes.
+Com efeito, em relação à tempestividade dos recursos interpostos após apublicação do Código de Processo Civil de 2015, a Corte Especial do Superior Tribunal de Justiça, nojulgamento do AREsp n. 957.821/MS, em 20/11/2017, ao interpretar osarts. 932, parágrafo único, e 1.003, § 6º, do CPC/2015, bem como osprincípios consagrados pelo novo código, por maioria, firmou orientação deque a parte recorrente deve comprovar "a ocorrência de feriado local noato de interposição do recurso", sendo inviável a apresentação dedocumento hábil, em momento posterior, para demonstrar a tempestividade(AgInt no AREsp 957.821/MS, Rel. Ministro Raul Araújo, Rel. p/ acórdãoMinistra Nancy Andrighi, Corte Especial, julgado em 20/11/2017, DJe19/12/2017), nos termos da seguinte ementa:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FERIADO LOCAL. COMPROVAÇÃO.ATO DE INTERPOSIÇÃO DO RECURSO.
+1. O propósito recursal é dizer, à luz do CPC/15, sobre a possibilidade dea parte comprovar, em agravo interno, a ocorrência de feriado local, queensejou a prorrogação do prazo processual para a interposição do agravo emrecurso especial.
+2. O art. 1.003, § 6º, do CPC/15, diferentemente do CPC/73, é expresso nosentido de que "o recorrente comprovará a ocorrência de feriado local noato de interposição do recurso".
+3. Conquanto se reconheça que o novo Código prioriza a decisão de mérito,autorizando, inclusive, o STF e o STJ a desconsiderarem vício formal, o §3º do seu art. 1.029 impõe, para tanto, que se trate de "recursotempestivo".
+4. A intempestividade é tida pelo Código atual como vício grave e,portanto, insanável. Daí porque não se aplica à espécie o disposto noparágrafo único do art. 932 do CPC/15, reservado às hipóteses de víciossanáveis.
+5. Seja em função de previsão expressa do atual Código de Processo Civil,seja em atenção à nova orientação do STF, a jurisprudência construída peloSTJ à luz do CPC/73 não subsiste ao CPC/15: ou se comprova o feriado localno ato da interposição do respectivo recurso, ou se considera intempestivoo recurso, operando-se, em consequência, a coisa julgada.
+6. Agravo interno desprovido (AgInt no AREsp n. 957.821/MS, Rel. Ministro RAUL ARAÚJO, Relator p/ Acórdão Ministra Nancy Andrighi, Corte Especial, julgado em 20/11/2017, DJe 19/12/2017).
+No mais, de acordo com a jurisprudência do Superior Tribunal de Justiça, aprova do feriado local deve ser feita pela parte interessada por meio dedocumento idôneo, não servindo notícia extraída da internet, tal como aapresentadaàs fls. 371-372 (e-STJ).
+Na mesma linha de cognição:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EMRECURSO ESPECIAL. AÇÃO DE COBRANÇA. DECISÃO DE INADMISSIBILIDADE DORECURSO ESPECIAL. INTERPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO. ERRO GROSSEIRO.NÃO INTERRUPÇÃO DO PRAZO RECURSAL. ADMISSIBILIDADE DO RECURSO ESPECIAL.SISTEMA BIFÁSICO. INTEMPESTIVIDADE. FERIADO LOCAL. PROVA POR MEIO DEDOCUMENTO IDÔNEO. ATO DE INTERPOSIÇÃO DO RECURSO. COMPROVAÇÃOPOSTERIOR. IMPOSSIBILIDADE. APLICAÇÃO DO CPC/15.
+1. Cuida-se, na origem, de ação de cobrança, em fase de cumprimento desentença.
+2. O único recurso cabível contra a decisão que nega seguimento ao recursoespecial é o agravo, previsto no art. 1.042 do CPC/15. Dessa forma, aoposição de embargos de declaração revela erro grosseiro, motivo pelo qualnão tem o condão de interromper o prazo para interposição do agravo emrecurso especial. Precedentes.
+3. O art. 1.003, § 6º, do CPC/2015, estabelece que o recorrente comprovaráa ocorrência de feriado local no ato de interposição do recurso, o queimpossibilita a regularização posterior.
+4. A análise da admissibilidade do recurso especial realizada peloTribunal de origem não vincula esta Corte, em razão de se tratar deprocedimento bifásico. Precedentes.
+5. Para efeito de tempestividade, a prova do feriado local ou suspensão doexpediente forense deve ser feita pela parte interessada por meio dedocumento idôneo, não servindo cópia do calendário do judiciário ounotícia extraídos da internet.Precedentes.
+6. Considerando que o recurso especial foi interposto sob a égide doCPC/15 e que não houve a comprovação da suspensão de prazos, quando de suainterposição, não há como ser afastada a sua intempestividade.
+7. Agravo interno não provido (AgInt nos EDcl no AREsp 1.894.296/SP, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 27/09/2021, DJe 30/09/2021).
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DECLARATÓRIA DENULIDADE DE REGISTRO - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUENÃO CONHECEU DO APELO EXTREMO, ANTE A SUA INTEMPESTIVIDADE. INSURGÊNCIARECURSAL DA PARTE AUTORA.
+1. É intempestivo o recurso especial interposto após o prazo de 15(quinze) dias úteis previsto nos artigos 219 e 1.003, § 5º, do CPC/15.
+1.1. Para efeito de tempestividade, a prova do feriado local ou suspensãodo expediente forense deve ser feita pela parte interessada por meio dedocumento idôneo, não servindo cópia do calendário do judiciário ounotícia extraídos da internet.Precedentes.
+1.2. Esta Corte Superior entende que a simples menção, no bojo das razõesrecursais, da ocorrência do feriado local não é meio idôneo para acomprovação da suspensão do prazo processual, a teor do art.1.003, § 6º, do CPC/15. Precedentes.
+1.3. A Corte Especial, no julgamento do ARESP 1.481.810/SP, afetado pelaQuarta Turma, reafirmou o entendimento de que é preciso comprovar aocorrência de feriado local no ato de interposição do recurso, nos termosdo § 6º do artigo 1.003 do CPC/15. Portanto, para os recursos sujeitos aosrequisitos de admissibilidade do referido diploma processual, não seadmite a comprovação posterior da suspensão do expediente forense emdecorrência de feriado local.
+1.4. Segundo a modulação de efeitos determinada pela Corte Especial noREsp 1.813.684/SP, a possibilidade de comprovação da ocorrência de feriadolocal restringe-se apenas ao feriado de segunda-feira de carnaval, emrecursos interpostos até a data da publicação do acórdão mencionado, quenão é caso dos autos.
+2. Agravo interno desprovido (AgInt no AREsp 1.596.842/GO, Rel. Ministro Marco Buzzi, Quarta Turma, julgado em 07/06/2021, DJe 11/06/2021).
+No caso em apreço, verifica-se que ocorreu a intimação do acórdãorecorrido em 26/5/2021 (e-STJ, fl. 422), iniciando-se o prazo parainterposição do recurso em 27/5/2021 (quinta-feira) e findando em16/6/2021 (quarta-feira).
+Entretanto, o recurso especial somente foiapresentado em 17/6/2021 (e-STJ, fl. 345), ou seja, após o prazo de 15(quinze) dias previsto nos arts. 219 e 1.003, § 5º, do Código de ProcessoCivil de 2015, sem a devida comprovação da existência de suspensão deprazo no momento da interposição do recurso especial por meio de documento idôneo.Evidente, portanto, a sua intempestividade.
+Considerando, pois, que as alegações feitas no agravo interno não sãocapazes de modificar a conclusão a que chegou a Presidência desta Corte arespeito da intempestividade do recurso especial, impõe-se confirmar adecisão.
+Ante o exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada noprosseguimento do feito, caracterizada pela oposição de embargosmanifestamente inadmissíveis ou protelatórios a este acórdão, ensejará aimposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
