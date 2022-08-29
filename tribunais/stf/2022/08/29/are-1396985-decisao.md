@@ -1,0 +1,89 @@
+DECISÃO
+
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. AÇÃO CIVIL PÚBLICA. INTERESSES DIFUSOS, COLETIVOS E INDIVIDUAIS HOMOGÊNEOS. LEGITIMIDADE ATIVA DO MINISTÉRIO PÚBLICO: PRECEDENTES. DISCUSSÃO QUANTO À NATUREZA JURÍDICA DE DIREITOS INDIVIDUAIS HOMOGÊNEOS OU HETEROGÊNEOS: AUSÊNCIA DE REPERCUSSÃO GERAL (TEMA 861). FORNECIMENTO DE ENERGIA ELÉTRICA. INTERRUPÇÃO. PRINCÍPIO DA LEGALIDADE: SÚMULA N. 636 DO SUPREMO TRIBUNAL FEDERAL. ALEGAÇÃO DE CONTRARIEDADE AOS INCS. LIV E LV DO ART. 5º DA CONSTITUIÇÃO DA REPÚBLICA: TEMA 660. RECURSO EXTRAORDINÁRIO COM AGRAVO DESPROVIDO.
+
+Relatório
+
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República contra o seguinte julgado do Tribunal de Justiça de São Paulo:
+
+    “Prestação de Serviços. Reconhecimento de que - pelo débito de que trata esta ação - não pode, ainda, a concessionária cessar o fornecimento de energia. Sentença mantida. Agravo retido e apelação improvidos” (e-doc. 25).
+
+    Os embargos de declaração opostos foram rejeitados (e-doc. 28).
+
+    2. No recurso extraordinário, a agravante alega ter o Tribunal de origem contrariado os incs. II, LIV e LV do art. 5º, o inc. IX do art. 93, o caput do art. 127 e o inc. III do art. 129 da Constituição da República.
+
+    Argumenta que “o Ministério Público não detém legitimidade para tutelar interesses que não são indisponíveis e nem homogêneos, sob pena de violação dos preceitos estabelecidos nos artigos 127, caput e 129, inciso III, da CF“ (fl. 11, e-doc. 32).
+
+    Ressalta que, “ainda que não se entenda pela ilegitimidade ativa do Recorrido, mesmo assim é de rigor o provimento deste recurso extraordinário, em face da manifesta violação ao artigo 5º, inciso II, da Constituição da República, uma vez que não há nenhuma ilegalidade a amparar a decretação da nulidade dos procedimentos adotados pela Recorrente” (fl. 17, e-doc. 32).
+
+    Salienta que “as concessionárias estão obrigadas, por lei e pelo contrato de concessão, a cumprir e fazer cumprir as normas legais e regulamentares do serviço de fornecimento de energia elétrica, sob pena de declaração da caducidade da concessão pelo Poder Concedente, não lhes sendo, portanto, facultado agir livremente dentro dos limites dessa legislação que visa coibir práticas que coloquem em risco a segurança de todo o setor“ (fl. 17, e-doc. 32).
+
+    Assevera que “a observância, pela Recorrente, da resolução questionada não resulta de mera liberalidade, mas sim de obrigação estabelecida na Lei Federal nº 8.987/95, que dispõe sobre o regime de concessão e permissão da prestação de serviços públicos previsto no artigo 175 da Constituição Federal“ (fl. 17, e-doc. 32).
+
+    3. O recurso extraordinário foi inadmitido sob o fundamento de ausência de contrariedade à Constituição da República (e-doc. 36).
+
+    4. No recurso extraordinário com agravo, a agravante alega “a perda de objeto da Ação Civil Pública haja vista a existência de dois fatos supervenientes, a saber: a existência de TAC assinado na Comarca de Guarujá, haja vista a extinção do Foro Distrital de Vicente de Carvalho e a alteração da legislação (Resolução da ANEEL nº 414/10), que fundamentou o pedido da ACP que ora se recorre” (fl. 7, e-doc. 39).
+
+    Sustenta que “este c. Supremo Tribunal Federal poderá apreciar o Recurso Extraordinário em tela, pois inexiste qualquer necessidade de reexame de provas, tendo todos os artigos violados sido devidamente prequestionados, não havendo, portanto qualquer incompatibilidade com a Súmula 7, do STJ” (fl. 13, e-doc. 39).
+
+    Pede o provimento do presente recurso extraordinário com agravo.
+
+    Examinados os elementos havidos no processo, DECIDO.
+
+    5. Razão jurídica não assiste à agravante.
+
+    6. A alegação de nulidade do acórdão por contrariedade ao inc. IX do art. 93 da Constituição da República não pode prosperar. Embora em sentido contrário à pretensão da agravante, o acórdão recorrido apresentou suficiente fundamentação.
+
+    Conforme a jurisprudência do Supremo Tribunal Federal, “o que a Constituição exige, no art. 93, IX, é que a decisão judicial seja fundamentada; não, que a fundamentação seja correta, na solução das questões de fato ou de direito da lide: declinadas no julgado as premissas, corretamente assentadas ou não, mas coerentes com o dispositivo do acórdão, está satisfeita a exigência constitucional” (Recurso Extraordinário n. 140.370, Relator o Ministro Sepúlveda Pertence, Primeira Turma, DJ 21.5.1993).
+
+    7. Na espécie, o Tribunal de origem assentou que “o Ministério Público é parte legítima para a ação, que versa sobre tema de interesse meta individual. Sua atuação se faz necessária pelo manejo da ação civil pública, pelo conteúdo da discussão havida nos autos e pelas características de atuação da ré, que, ao exercer o seu mister, desenvolve poder de grande importância social e jurídica (fornecimento de produto e serviço essencial ao povo) e de grande conteúdo econômico. Há, nas questões elencadas na inicial, interesse público evidente, que reveste de legitimidade e interesse a intervenção Ministerial” (fls. 3-4, e-doc. 25).
+
+    O acórdão recorrido harmoniza-se com a jurisprudência deste Supremo Tribunal, que assentou ser legítima a atuação do Ministério Público na defesa de interesse da coletividade, mesmo quando de natureza individual homogênea. Assim, por exemplo:
+
+    “DIREITO PROCESSUAL CIVIL E DO TRABALHO. RECURSO EXTRAORDINÁRIO INTERPOSTO SOB A ÉGIDE DO CPC/2015. MINISTÉRIO PÚBLICO DO TRABALHO. AÇÃO CIVIL PÚBLICA. DIREITOS INDIVIDUAIS HOMOGÊNEOS. LEGITIMIDADE ATIVA. CONSONÂNCIA DA DECISÃO RECORRIDA COM A JURISPRUDÊNCIA CRISTALIZADA DO SUPREMO TRIBUNAL FEDERAL. RECURSO EXTRAORDINÁRIO QUE NÃO MERECE TRÂNSITO. REELABORAÇÃO DA MOLDURA FÁTICA. PROCEDIMENTO VEDADO NA INSTÂNCIA EXTRAORDINÁRIA. AGRAVO MANEJADO SOB A VIGÊNCIA DO CPC/2015. 1. O entendimento da Corte de origem, nos moldes do assinalado na decisão agravada, não diverge da jurisprudência firmada no Supremo Tribunal Federal. Compreensão diversa demandaria a reelaboração da moldura fática delineada no acórdão de origem, a tornar oblíqua e reflexa eventual ofensa à Constituição, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. 2. As razões do agravo interno não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada. 3. Agravo interno conhecido e não provido” (ARE n. 1.221.526-AgR, Relatora a Ministra Rosa Weber, Primeira Turma, DJe 1º.10.2019).
+
+    “MINISTÉRIO PÚBLICO – LEGITIMIDADE – AÇÃO CIVIL PÚBLICA – INTERESSES DIFUSOS, COLETIVOS E INDIVIDUAIS HOMOGÊNEOS. O Ministério Público é parte legítima para o ajuizamento de ação civil pública, tendo como objeto a defesa de interesse da coletividade, mesmo quando de natureza individual homogênea. Precedente: recurso extraordinário nº 163.231, relator ministro Maurício Corrêa, acórdão publicado no Diário de Justiça de 29 de junho de 2001” (RE n. 460.923-AgR, Relator o Ministro Marco Aurélio, Primeira Turma, DJe 29.6.2018).
+
+    “Agravo regimental em agravo de instrumento. 2. Ação civil pública. Interesse individual homogêneo. 3. Relevância social. Ministério Público. Legitimidade. 4. Jurisprudência dominante. 5. Agravo regimental a que se nega provimento”(AI n. 516.419-AgR/PR, Relator o Ministro Gilmar Mendes, Segunda Turma, DJ 30.11.2010).
+
+    8. A controvérsia sobre a natureza do direito tutelado pelo Ministério Público, individual homogêneo ou heterogêneo, não tem repercussão geral (Tema 861):
+
+    “PROCESSUAL CIVIL. RECURSO EXTRAORDINÁRIO COM AGRAVO. RECLAMATÓRIA TRABALHISTA AJUIZADA POR SINDICATO, NA QUALIDADE DE SUBSTITUTO PROCESSUAL. CONTROVÉRSIA ACERCA DA NATUREZA DOS DIREITOS DEMANDADOS, SE INDIVIDUAIS HOMOGÊNEOS OU HETEROGÊNEOS. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL. 1. A controvérsia relativa à natureza, se individual homogênea ou heterogênea, dos direitos postulados por Sindicato em reclamação trabalhista, na qualidade de substituto processual, é de natureza infraconstitucional. 2. É cabível a atribuição dos efeitos da declaração de ausência de repercussão geral quando não há matéria constitucional a ser apreciada ou quando eventual ofensa à Carta Magna ocorra de forma indireta ou reflexa (RE 584.608-RG, Rel. Min. ELLEN GRACIE, DJe de 13/3/2009). 3. Ausência de repercussão geral da questão suscitada, nos termos do art. 543-A do CPC” (ARE n. 907.209, Relator o Ministro Teori Zavascki, Plenário Virtual, DJe 6.11.2015).
+
+    Confira-se também o seguinte julgado:
+
+    “Agravo regimental no recurso extraordinário com agravo. Ação civil pública. Controvérsia acerca dos direitos demandados, se individuais homogêneos ou heterogêneos. Ausência de repercussão geral. Precedentes. Legislação infraconstitucional. Ofensa reflexa. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. Ausência de repercussão geral da matéria relativa à natureza jurídica dos direitos postulados na demanda, se individuais homogêneos ou heterogêneos (ARE nº 907.209/DF, Relator o Ministro Teori Zavascki, Tema 861, DJe de 6/11/15). 2. É inviável, em sede de recurso extraordinário, o reexame do conjunto fático-probatório da causa, bem como a análise da legislação infraconstitucional. Incidência das Súmulas nºs 279 e 636/STF. 3. Agravo regimental não provido, com imposição de multa de 1% (um por cento) do valor atualizado da causa (art. 1.021, § 4º, do CPC). 4. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita” (ARE n. 1.156.788-AgR, Relator o Ministro Dias Toffoli, Plenário, DJe 13.12.2018).
+
+    9. A alegada inobservância do princípio da legalidade, na forma posta nos autos, esbarra no óbice da Súmula n. 636 do Supremo Tribunal Federal, pela qual se dispõe não caber recurso extraordinário por contrariedade ao princípio constitucional da legalidade quando a verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida, como ocorre na espécie vertente. Confiram-se, por exemplo, os seguintes julgados:
+
+    “EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO. CONVERSÃO EM AGRAVO REGIMENTAL. PROCESSUAL CIVIL. ALEGAÇÃO DE CONTRARIEDADE AO PRINCÍPIO DA LEGALIDADE E DE JULGAMENTO EXTRA PETITA. NECESSIDADE DE EXAME PRÉVIO DE NORMAS INFRACONSTITUCIONAIS. INCIDÊNCIA DA SÚMULA N. 636 DO SUPREMO TRIBUNAL FEDERAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE n. 631.736-ED, de minha relatoria, Primeira Turma, DJe 8.4.2011).
+
+    “Agravo regimental no recurso extraordinário com agravo. Energia elétrica. Interrupção. Restabelecimento. Sobrecarga. Incêndio. Dano. Dever de indenizar. Legislação infraconstitucional. Ofensa reflexa. Reexame de fatos e provas. Impossibilidade. Precedentes. 1. A Corte de origem concluiu, com base no Código de Defesa do Consumidor e nos fatos e nas provas dos autos, que restaram demonstrados os pressupostos legais da responsabilidade civil e que a agravante tinha o dever de indenizar o agravado pelos danos por ele sofridos em razão de incêndio em imóvel de sua propriedade ocasionado por falha no fornecimento do serviço de energia elétrica. 2. Inadmissível, em recurso extraordinário, a análise da legislação infraconstitucional e o reexame do conjunto fático-probatório da causa. Incidência das Súmulas nºs 636 e 279/STF. 3. Agravo regimental não provido” (ARE n. 748.959-AgR, Relator o Ministro Dias Toffoli, Primeira Turma, DJe 28.8.2013).
+
+    “EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO COM AGRAVO. VIOLAÇÃO AO DEVIDO PROCESSO LEGAL, AO DIREITO ADQUIRIDO, AO ATO JURÍDICO PERFEITO E À COISA JULGADA. OFENSA CONSTITUCIONAL REFLEXA. TEMA 660. VIOLAÇÃO AO PRINCÍPIO DA LEGALIDADE. SÚMULA 636 DO STF. DECISÃO RECORRIDA EM CONFORMIDADE COM A JURISPRUDÊNCIA DESTA SUPREMA CORTE. REAPRECIAÇÃO DE PROVAS. INADMISSIBILIDADE. SÚMULA 279 DO STF. 1. O órgão julgador pode receber, como agravo interno, os embargos de declaração que notoriamente visam a reformar a decisão monocrática do Relator, sendo desnecessária a intimação do embargante para complementar suas razões quando o recurso, desde logo, exibir impugnação específica a todos os pontos da decisão embargada. Inteligência do art. 1.024, § 3º, do Código de Processo Civil de 2015. 2. O STF, no julgamento do ARE 748.371-RG/MT (Rel. Min. GILMAR MENDES, Tema 660), rejeitou a repercussão geral da violação ao direito adquirido, ao ato jurídico perfeito, à coisa julgada ou aos princípios da legalidade, do contraditório, da ampla defesa e do devido processo legal, quando se mostrar imprescindível o exame de normas de natureza infraconstitucional. 3. Em relação à ofensa ao art. 37, caput, da Constituição Federal, aplica-se neste caso a restrição da Súmula 636/STF: Não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida. 4. No que diz respeito à legitimidade do Ministério Público para propor a presente demanda, o acórdão recorrido está em consonância com a jurisprudência desta CORTE . 5. A argumentação recursal traz versão dos fatos diversa da exposta no acórdão, de modo que o acolhimento do recurso passa necessariamente pela revisão das provas. Incide, portanto, o óbice da Súmula 279 desta CORTE: Para simples reexame de prova não cabe recurso extraordinário. 6. Quanto à alegada impossibilidade de ressarcimento de dano presumido, trata-se de matéria situada no contexto normativo infraconstitucional, de forma que as alegadas ofensas à Constituição seriam meramente indiretas (ou mediatas), o que inviabiliza o conhecimento do referido apelo. 7. Embargos de Declaração recebidos como Agravo Interno, ao qual se nega provimento. Na forma do art. 1.021, §§ 4º e 5º, do Código de Processo Civil de 2015, em caso de votação unânime, fica condenado o agravante a pagar ao agravado multa de um por cento do valor atualizado da causa, cujo depósito prévio passa a ser condição para a interposição de qualquer outro recurso (à exceção da Fazenda Pública e do beneficiário de gratuidade da justiça, que farão o pagamento ao final)” (ARE n. 1.331.650-ED, Relator o Ministro Alexandre de Moraes, Primeira Turma, DJe 20.9.2021).
+
+    “Inviável o prosseguimento do recurso extraordinário quando a averiguação da afronta ao princípio da legalidade demanda análise de legislação infraconstitucional. Verbete 636 da Súmula desta Corte. 3. Ausência de argumentos suficientes para infirmar a decisão recorrida. 4. Agravo regimental a que se nega provimento” (AI n. 745.965-AgR, Relator o Ministro Gilmar Mendes, Segunda Turma, DJe 26.6.2011).
+
+    10. Quanto ao argumento de afronta aos incs. LIV e LV do art. 5º da Constituição da República, este Supremo Tribunal assentou inexistir repercussão geral nas alegações de contrariedade aos princípios do devido processo legal, dos limites da coisa julgada, do contraditório e da ampla defesa quando o exame da questão depende de prévia análise da adequada aplicação de normas infraconstitucionais, Tema 660:
+
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral” (ARE n. 748.371-RG, Relator o Ministro Gilmar Mendes, Plenário, DJe 1º.8.2013).
+
+    Declarada a ausência de repercussão geral, os recursos extraordinários e agravos nos quais suscitada a mesma questão constitucional devem ter o seguimento negado pelos respectivos relatores, conforme o § 1º do art. 327 do Regimento Interno do Supremo Tribunal Federal.
+
+    11. Em relação à alegação de fato novo, suscitado unicamente em recurso extraordinário, além de carecer de prequestionamento, o recurso extraordinário não é o instrumento processual adequado para verificar a alegada ocorrência de fato novo. Nesse sentido, por exemplo:
+
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. DIREITO PROCESSUAL CIVIL. ALEGAÇÃO DE PERDA SUPERVENIENTE DO OBJETO DECORRENTE DE FATO NOVO. INAPLICABILIDADE, NA VIA EXTRAORDINÁRIA, DO DISPOSTO NO ART. 493 DO CPC (ART. 462 DO CPC/1973). PRECEDENTES. INEXISTÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. DESPROVIMENTO DO AGRAVO. 1. A jurisprudência do STF firmou-se no sentido da inaplicabilidade do art. 493 do CPC/2015 (art. 462 do CPC/1973) em sede de recurso extraordinário. 2. Na hipótese dos autos, a parte agravante não impugnou os fundamentos da decisão agravada, limitando-se a apontar a existência de fato novo, descumprindo o disposto no art. 1.021, § 1º, CPC. 3. Agravo regimental a que se nega provimento” (RE n. 628.138-AgR, Relator o Ministro Edson Fachin, Primeira Turma, DJe 10.2.2017).
+
+    Nada há a prover quanto às alegações da agravante.
+
+    12. Pelo exposto, nego provimento ao recurso extraordinário com agravo (als. a e b do inc. IV do art. 932 do Código de Processo Civil e § 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal).
+
+    Anote-se que eventual recurso manifestamente inadmissível contra esta decisão demonstraria apenas inconformismo e resistência em pôr termo a processos que se arrastam em detrimento da eficiente prestação jurisdicional, o que sujeitaria a parte à aplicação da multa processual do § 4º do art. 1.021 do Código de Processo Civil.
+
+    Publique-se.
+
+    Brasília, 29 de agosto de 2022.
+
+Ministra CÁRMEN LÚCIA
+
+Relatora
