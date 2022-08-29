@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de pedido formulado por JOAO VICTOR DA MOTTA, no qual pleiteia a extensão dos efeitos da decisão em que concedi a ordem dehabeas corpusem favor do Corréu JHONATAN VALENTIM DE SOUZA, prolatada no dia 17/08/2022 (fls. 78-82).
+Alega que, "ao discorrer sobre a concessão da prisão cautelar, o D. Juízo, em nenhuma vez, menciona os motivos pelos quais o encarceramento do paciente seria necessário, se atentando somente aos fatos principais - crime praticado por LUIZ CARLOS PEDRO DA SILVA e EVERTON DA SILVA FREITAS - do feito, ou seja, ao "elevado volume de tráfico de drogas, em especial a cocaína, em montante equivalente ao valor de um veículo Gol"e ao "uso de violência na cobrança de valores, com ameaças a familiares de usuários, em conduta extorsiva"" (fls. 89-90).
+Requer, desse modo (fl. 107):
+"seja CONHECIDO o pedido de extensão da ordem, em interpretação ampliativa do artigo 580 do Código de Processo Penal, para que seja deferida a ordem para determinar a soltura de JOÃO VICTOR DA MOTTA, revogando-se a prisão preventiva decretada em seu desfavor, determinando-se, via de consequência, a imediata expedição de alvará de soltura, haja vista a violação aos artigos 312, 313 § 2º, 315, todos do Código de Processo Penal.
+Caso não for o entendimento de Vossa Excelência, requer a concessão de medidas cautelares previstas no artigo 319 do Código de Processo Penal, conforme anteriormente requerido pelo Ministério Público do Estado de São Paulo."
+É o relatório. Decido.
+Presente a similitude fático-processual entre os Corréus, observo que estão preenchidos os requisitos para a extensão dos efeitos da decisão de fls. 268-272 ao ora Requerente, pois são idênticas as situações objetivas que os envolvem. Decidir de outra forma seria negar obediência ao princípio da isonomia e ao disposto no art. 580 do Código de Processo Penal.
+Ante o exposto, com fundamento no art. 580 do Código de Processo Penal, DEFIRO o pedido de extensão dos efeitos da decisão de fls. 78-82 ao RequerenteJOAO VICTOR DA MOTTA para revogar a prisão preventiva, se por outro motivo não estiver preso, advertindo-o da necessidade de permanecer no distrito da culpa e atender aos chamamentos judiciais, sem prejuízo de nova decretação de prisão provisória, por fato superveniente, a demonstrar a necessidade da medida, ou da fixação de medidas cautelares alternativas (art. 319 do Código de Processo Penal), desde que de forma fundamentada.
+Comunique-se, com urgência, ao Juízo de primeira instância.
+Publique-se. Intimem-se.
+EMENTA
+PEDIDO DE EXTENSÃO NO HABEAS CORPUS.ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO ABSTRATA. CONSTRANGIMENTO ILEGAL EVIDENCIADO. IDENTIDADE DE SITUAÇÕES CONFIGURADA. PEDIDO DEFERIDO.
