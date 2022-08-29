@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso emhabeas corpusinterposto porIgor Iago Martinscontra o acórdão prolatado pelo Tribunal de Justiça de Minas Geraisno HC n.1.0000.22.142455-9/000.
+Narram os autos que o recorrente teve a prisão temporária decretada em razão da suposta prática de um crime de roubo circunstanciado, ocorrido em 21/3/2022.
+Neste recurso, a defesa alega, de início, a incompetência do Juízo da 1ª Vara Criminal da comarca de Araxá/MG, destacando que o Juízo da 2ª Vara Criminaljá estaria prevento, pois, anteriormente, indeferiu pedido de prisão temporária nos autos que investigam o roubo praticado, em14/3/2022,contra a empresa SOLTEC (Autos n. 0040.22.000.407-7), e o roubo praticado, em 21/3/2022, contra a empresa MCCAIN (Autos n.0040.22.000840-9) seria continuidade delitiva, logo, tudo deveria tramitar no Juízo da2ª Vara Criminal de Araxá/MG.
+Afirma, também, a ilicitude da prova colhida, uma vez que policiaisconduziram o investigado CHERYS GABRIEL para a delegacia, onde sem mandado de prisão e sem estar em situação de flagrância, e sem mandado de busca e apreensão, forçaram o seu depoimento, inclusive gravando imagens do seu depoimento sem autorização do mesmo(fl. 187).
+Aduz, ainda, ausência de fundamentos concretos para aprisão temporária do recorrente.
+Não houve pedido liminar.
+Requer o provimento do recurso,expedindo-se alvará de soltura em favor do ora recorrente.
+Admitido, o recurso subiu a esta Corte.
+O Ministério Público Federal opinou, pelas palavras da Subprocuradora-Geral da República Mônica Nicida Garcia, pelonão conhecimento do recurso ordinário. Na eventualidade de ultrapassada a preliminar, por seu conhecimento parcial e, nessa extensão, pelo não provimento, prejudicado o exame da alegação de ilegalidade da prisão temporária(fl. 210).
+É o relatório.
+O recurso não deve prosperar.
+Acerca da alegação de incompetência, observa-se que a Corte estadual não enfrentou a matéria, poistal questão não foi submetida à apreciação do Juízo a quo, de forma que incorreríamos em indevida supressão de instância acaso procedêssemos a qualquer análise nesse momento. Não é possível, então, avaliar qualquer constrangimento ilegal no caso(fl. 163).
+Assim, inviável a análise do tema pelo Superior Tribunal de Justiça, sob pena de dupla supressão de instância.
+Quanto à ilicitude da prova, disse o Tribunal mineiro o seguinte(fl. 164):vejo que as alegações defensivas acerca da ilicitude das provas não foram acompanhadas de prova pré-constituída que demonstre, de plano, sua procedência. Afinal, não se extrai dos autos qualquer excesso perpetrado pelos investigadores que macule as declarações prestadas pelo investigado "Cherys"  .. Exame mais apurado da questão exige análise aprofundada do acervo probatório dos autos, e até a produção de provas, com acurada apreciação das circunstâncias do caso, incabível em sede de habeas corpus. Afinal, o presente remédio constitucional dirige-se contra ato atentatório da liberdade de locomoção e, apesar de sua ampla possibilidade de incidência, o uso desse mecanismo não pode ser banalizado, cabendo tão somente nas hipóteses de urgência que se compatibilizem com a natureza célere da medida.
+E, mais, conclui a Corte estadual,eventual discussão que demande uma análise aprofundada do conjunto probatório, como no caso em tela, deve ser reservada ao processo crime, com a devida instrução, por ser o momento oportuno para que a defesa técnica seja apresentada e faça provas em favor do requerente, sendo, por isso, o habeas corpus, a princípio, a via imprópria para suscitar tais alegações(fl. 165).
+Sobre a ilegalidade da prisão temporária, observa-se dos autos que foi decretada a prisão preventiva do recorrente (fl. 216). Assim, essa decisão que decretou a prisão preventiva,proferida em 26/5/2022, constitui novo título judicial a motivar a custódia cautelar, razão pela qual prosseguir na análise deste feito implicaria inadmissível supressão de instância. Afinal, o novo decreto não foi ainda submetido à análise da instância originária.
+Ante o exposto, nego provimento, em parte, ao recurso e, no mais,julgo-o prejudicado.
+Publique-se.
+EMENTA
+RECURSO EM HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. TESE DE INCOMPETÊNCIA. SUPRESSÃO DE INSTÂNCIA. ILICITUDE DE PROVAS. REEXAME FÁTICO-PROBATÓRIO. PRISÃO TEMPORÁRIA. POSTERIOR DECRETAÇÃO DA PRISÃO PREVENTIVA. PERDA DO OBJETO.
+Recurso, em parte, improvido e, no mais, prejudicado.
