@@ -1,0 +1,71 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 23/08/2022 a 29/08/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de agravo interno interposto por SPE SÁ CAVALCANTE INCORPORAÇÕES IMOBILIÁRIAS MA XII LTDA.contra a decisão que negou provimento ao recurso especial a fim de manter o acórdão do Tribunal de Justiça do Estado do Maranhão, que entendeu cabível a indenização por danos moraisà promitente compradora em virtude do atraso excessivo na entrega do imóvel.
+Isso porque,no caso dos autos, ficou evidenciada situação excepcional capaz de superar o mero inadimplemento contratual.Destacou-se, ainda, que a revisão do entendimento exarado na origemdemandaria, necessariamente, o reexame do contexto fático-probatório dos autos e do contrato, procedimentos inviáveis em recurso especial, consoante disposto nas Súmulas nºs 5 e 7/STJ.
+A decisão atacada fez incidir, ainda, os óbices das Súmulas nºs 283 e 284/STF, pois a recorrente não impugnou todos os fundamentos do acórdão recorrido.Além disso, não demonstrou de forma direta, clara e particularizada como o acórdão combatido violou os artigos186, 402, 403 e 410do Código Civil de 2002 e 926 e 927, III, do Código de Processo Civil de 2015.
+Em suas razões, aagravante rebate a incidência das Súmulas nºs 5 e 7/STJ enº 284/STF. Aduz que impugnou de forma específica todos os pontos necessários, além de ter demonstrado fundamentação detalhada quanto ao dissídio jurisprudencial.
+Reitera a insurgência veiculada em seu apelo especial,de que não é cabívelo pagamento de indenização por danos morais pelo mero atraso de obra.
+Destaca, ainda, que seria possível "arevalorização da decisão recorrida, a fim de analisar as questões trazidas na discussão disposta nos autos, o que não se assemelha com o mero reexame de provas"(fl. 746, e-STJ).
+Sustenta quea jurisprudência do Superior Tribunal de Justiça possui entendimento sedimentado quanto "ao descabimento de dano moral pelo mero atraso de obra"(fl. 746, e-STJ).
+Ao final, requera reconsideração da decisão atacada para dar provimento ao recurso especial.
+Devidamente intimada, a parte contrária deixou transcorrer o prazo para impugnar o recurso (certidão de fl. 752, e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA.IMÓVEL. ENTREGA. ATRASO.FUNDAMENTAÇÃO.  DEFICIÊNCIA.  SÚMULA  Nº  284/STF.  CLÁUSULA DE TOLERÂNCIA. INADIMPLEMENTO. DANOS MORAIS. OCORRÊNCIA. CONJUNTO FÁTICO-PROBATÓRIO E CLÁUSULAS CONTRATUAIS. REEXAME.  SÚMULAS  NºS  5  E  7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Considera-se deficiente de fundamentação o recurso especial que, apesar de apontar o preceito legal tido por violado, não demonstra, de forma clara e precisa, de que modo o acórdão recorrido o teria contrariado, circunstância que atrai, por analogia, a Súmula nº 284/STF.
+3. O tribunal local decidiu que a hipótese dos autos não se trata de simples inadimplemento contratual, mas, sim, de uma situação extraordinária que causou abalo moral à consumidora.
+4. Na hipótese, rever a conclusão do tribunal de origempara afastar a ocorrência dos danos morais a partir da tese de que teria havido mero inadimplemento contratualexigiria exceder os fundamentos do acórdão impugnado e adentrar no exame das provas e do contrato, procedimentos vedados em recurso especial, a teor das Súmulas nºs 5 e 7/STJ.
+5.Anecessidade do reexame da matéria fática impede a admissão do recurso especial tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional. Precedente.
+6. Agravo interno não provido.
+VOTO
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+A agravanteinsurge-se contra a decisãoque negou provimento ao recurso especiala fim de manter a decisão do Tribunal local quanto aopagamento deindenização por danos morais em virtude do descumprimento da promessa de compra e venda firmada entre as partes.
+De início,conforme assinalado na decisão atacada, a agravante apontou, nas razões do recurso especial, violação dos arts. 186, 402, 403 e 410do CC/2002 e 926 e 927, III, do CPC/2015.
+Todavia, não demonstrou, de forma direta, clara e particularizada, como o acórdão estadual violou os dispositivos de lei federal trazidos como malferidos, o que faz incidir, nesse ponto, o óbice da Súmula nº 284/STF:"É inadmissível o recurso extraordinário, quando a deficiência de fundamentação não permitir a exata compreensão da controvérsia."
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE ANULAÇÃO. CONSÓRCIO. VÍCIO DE CONSENTIMENTO. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA Nº 284/STF. CONJUNTO FÁTICO-PROBATÓRIO E CLÁUSULAS CONTRATUAIS. REEXAME. SÚMULAS NºS 5 E 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Considera-se deficiente de fundamentação o recurso especial que, apesar de apontar o preceito legal tido por violado, não demonstra, de forma clara e precisa, de que modo o acórdão recorrido o teria contrariado, circunstância que atrai, por analogia, a Súmula nº 284/STF.
+3. Acolher a tese pleiteada pela parte agravante exigiria exceder os fundamentos do acórdão impugnado e adentrar no exame das provas e cláusulas contratuais, procedimentos vedados em recurso especial, a teor das Súmulas nºs 5 e 7/STJ.
+4. Agravo interno não provido"(AgInt no AREsp nº 1.118.820/DF, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 04/5/2020, DJe 7/5/2020).
+Cumpre assinalar queajurisprudência deste Tribunal Superiorpossui entendimento sedimentado no sentido de que,via de regra, o descumprimento contratual, por si só, não acarreta dano de ordem moral, mas mero dissabor, cabendo ao autor demonstrar que a violação do pacto existente entre as partes ultrapassou os limites do simples aborrecimento.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL. SUPOSTA VIOLAÇÃO AO ARTIGO 1.022, INCISO II, DO CPC DE 2015.NÃO OCORRÊNCIA. AUSÊNCIA DE VIOLAÇÃO AO ARTIGO 489, § 1º, INCISO IV, DO CPC DE 2015. DANO MORAL, NO CASO CONCRETO, CONFIGURADO.APLICAÇÃO DA SÚMULA N. 7/STJ. REVISÃO DO QUANTUM INDENIZATÓRIO DO DANO MORAL. IMPOSSIBILIDADE. APLICAÇÃO DA SÚMULA N. 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+3.Em relação aos danos morais, a jurisprudência desta Corte firmou-se no sentido de que o simples descumprimento contratual, por si só, não é capaz de gerar danos morais. É necessária a existência de uma consequência fática capaz de acarretar dor e sofrimento indenizável por sua gravidade.
+4.No caso concreto, o Tribunal de origem, amparado no acervo fático - probatório dos autos, concluiu pela existência de danos morais.Assim, alterar o entendimento do acórdão recorrido demandaria necessariamente, reexame de fatos e provas, o que é vedado em razão do óbice da Súmula n. 7 do STJ.
+5. A alteração do valor fixado a título de compensação por danos morais somente é possível, em recurso especial, nas hipóteses em que a quantia estipulada pelo Tribunal de origem revela-se irrisória ou exagerada, o que não ocorreu no caso em comento.
+6. Agravo interno a que se nega provimento."(AgInt no AREsp 1.701.482/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 30/11/2020, DJe 02/12/2020 - grifou-se).
+"AGRAVO INTERNO NOS EMBARGOS E DECLARAÇÃO NO RECURSO ESPECIAL. ATRASO NA ENTREGA DE IMÓVEL AUSÊNCIA DE CASO FORTUITO OU FORÇA MAIOR.CONFIGURAÇÃO DE FORTUITO INTERNO. SÚMULAS 7 E 83/STJ. LUCROS CESSANTES . CABIMENTO. SÚMULA 83/STJ. INDENIZAÇÃO. SÚMULA 7/STJ.DANOS MORAIS. EXCESSIVIDADE NO ATRASO DA DISPONIBILIZAÇÃO DA UNIDADE IMOBILIÁRIA. OFENSA DEMONSTRADA. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1.Ocorrido o descumprimento contratual, entendeu-se que a mora da recorrente estaria configurada. Isso porque os motivos alegados para o atraso na entrega do imóvel não podiam configurar caso fortuito ou força maior, mas sim fortuito interno (Súmula 7/STJ).
+(..)
+4.No caso, o Tribunal a quo, à luz dos princípios da livre apreciação da prova e do livre convencimento motivado, bem como mediante análise soberana do contexto fático-probatório dos autos, entendeu pela existência de danos morais diante da excessiva demora na entrega do imóvel (quase quatro anos), gerando transtorno de ordem psíquica ao comprador(AgRg no AREsp 684.176/RS, Rel.Ministro Raul Araújo, Quarta Turma, julgado em 9/6/2015, DJe 30/6/2015).
+5. Agravo interno desprovido."(AgInt nos EDcl no REsp 1.869.642/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA,julgado em 19/10/2020, DJe 26/10/2020 - grifou-se).
+Na espécie, todavia, o Tribunal de origem consignou que foram configurados os danos morais, amparado na seguinte fundamentação:
+"(..) ahipótese não retrata um simples inadimplemento contratual, mas sim uma situação extraordinária que causou abalo moral à consumidora adquirente, que reside em localidade diversa e aguardava a entrega do bem para mudar-se para esta Capital e se encontrava impossibilitada de fazê-lo.
+Em situação semelhante, este E. Tribunal de Justiça reconheceu o direito à indenização por danos extrapatrimoniais na hipótese de atraso demasiado na solução dos direitos do consumidor" (fl. 542, e-STJ).
+Dessa maneira, ultrapassar e infirmar a conclusão alcançada pelo acórdão recorrido demandaria o reexame da relação contratual estabelecida e dos fatos e das provas presentes no processo, procedimentos inviáveis na estreita via dorecurso especial em virtude dos óbices das Súmulas nºs 5 e 7/STJ.
+Confiram-se:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COMPROMISSO DECOMPRA E VENDADE IMÓVEL. VENDEDORA QUE ATRASOU INJUSTIFICADAMENTE OS PROCEDIMENTOS NECESSÁRIOS À LIBERAÇÃO DO FINANCIAMENTO, POSTERGANDO A IMISSÃO NA POSSE DO BEM. DANOS MORAIS CONFIGURADOS. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. A convicção a que chegou o acórdão de que restou comprovado nos autos a demora da ré em providenciar a documentação pedida pela Instituição Financeira para instruir o procedimento de financiamento, o que deu ensejo a procrastinação da imissão na posse do imóvel pela parte autora, bem como a ocorrência de danos morais no presente caso, decorreu da análise do conjunto fático-probatório, e o acolhimento da pretensão recursal demandaria o reexame do mencionado suporte, obstando a admissibilidade do especial à luz do enunciado 7 da Súmula desta Corte.
+2. Agravo interno não provido"(AgInt no AREsp nº 1.555.679/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 3/3/2020, DJe 10/3/2020).
+"AGRAVO EM RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL.CONTRATO DE PROMESSA DECOMPRA E VENDA.ATRASO NA ENTREGA DA OBRA.INOVAÇÃO RECURSAL. PRELIMINAR NÃO CONHECIDA. DANOS MORAIS RECONHECIDOS. SÚMULA 7/STJ. LUCROS CESSANTES PRESUMIDOS. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO"(AgInt no REsp 1.733.118/AM, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 17/2/2020, DJe de 26/2/2020).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE PELOATRASODAENTREGADO IMÓVEL.CASO FORTUITOOUFORÇA MAIOR.AUSÊNCIA. RESTITUIÇÃO INTEGRAL DAS PARCELAS PAGAS. TERMO INICIAL DOS JUROS DE MORA. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83 DO STJ. MATÉRIA QUE DEMANDA REEXAME DE FATOS, PROVAS E CLÁUSULA CONTRATUAL. SUMULAS 5 E 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. O acórdão recorrido está em consonância com a Jurisprudência desta Corte Superior, que possui firme o entendimento no sentido de que deve ocorrer a restituição integral dos valores pagos pelo promitente comprador, em caso de resolução de contrato de promessa decompraevendade imóvel, por culpa exclusiva do promitente vendedor. Precedentes.
+2. A Corte Estadual fixou a data da citação como o termo inicial dos juros de mora incidente sobre o valor a ser restituído, e o momento dos respectivos desembolsos como termo inicial da correção monetária das parcelas pagas, alinhando-se ao entendimento desta Corte Superior. Incidência da Súmula 83 do STJ.
+3.As conclusões do acórdão recorrido no tocante à culpa exclusiva da recorrente pela rescisão contratual, ausência decaso fortuitoouforça maior,e pagamento da multa estipulada no contrato, não podem ser revistas por esta Corte Superior, pois demandaria, necessariamente, reexame do conjunto fático - probatório dos autos, e análise de cláusulas contratuais, o que é vedado em razão dos óbices das Súmulas 5 e 7 do STJ.
+4. Agravo interno não provido"(AgInt nos EDcl no AREsp 1.590.626/DF, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 10/03/2020, DJe 17/03/2020 - grifou-se).
+Por fim, de acordo com iterativa jurisprudência desta Corte, a necessidade de reexame da matéria fática impede a admissão do recurso especial tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+Sobre o tema:
+"PROCESSUAL CIVIL E ADMINISTRATIVO. ENUNCIADO ADMINISTRATIVO 3/STJ. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. (..) CERCEAMENTO DE DEFESA. PRODUÇÃO DE PROVA PERICIAL. VALOR DA MULTA. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. EXAME PREJUDICADO. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+4. "Resta prejudicada a análise da divergência jurisprudencial se a tese sustentada esbarra em óbice sumular quando do exame do recurso especial pela alínea "a" do permissivo constitucional" (EDcl nos EDcl no REsp 1.065.691/SP, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 18/6/2015).
+5. Agravo interno não provido"(AgInt no AREsp 1.219.550/SP, Rel. Ministro MAURO CAMPBELL MARQUES, Segunda Turma, julgado em 17/5/2018, DJ 24/5/2018).
+Desse modo, não prosperam as alegações postas no presente recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
