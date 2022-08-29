@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 23/08/2022 a 29/08/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (RELATOR): Trata-se de agravo interno interposto por ASSOCIAÇÃO FLUMINENSE DE EDUCAÇÃO contra decisão, assim ementada (fl. 1.706):
+PROCESSUAL CIVIL. RECURSO ESPECIAL. CEAS. RENOVAÇÃO. REQUISITOS NÃO PREENCHIDOS. REVISÃO DO JUÍZO. SÚMULA 7/STJ. RAZÕES DISSOCIADAS. SÚMULA 284/STF. RECURSO ESPECIAL NÃO CONHECIDO.
+A agravante alega que o seu direito imunizatório por ser possuidora do CEBAS já foi reconhecido, havendo nos autos documento comprobatório do seu direito para todos os períodos subsequentes e sustenta o cumprimento de todos os requisitos essenciais do art. 14 do CTN. Aduz argumentação de cunho constitucional, para alegar a não incidência da Súmula 7/STJ. Sustenta a não aplicação da Súmula 284/STF, ao argumento de que as razões recursais atinentes ao art. 14 do CTN são suficientes para a compreensão da controvérsia.
+Impugnação a fls. 1.733 - 1.736.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CEAS. RENOVAÇÃO. REQUISITOS. NÃO PREENCHIMENTO. REVISÃO DO JUÍZO. SÚMULA 7/STJ. FUNDAMENTAÇÃO RECURSAL DEFICIENTE. SÚMULA 284/STF.
+1. A teor do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+2. A Corte Regional firmou que a ora agravante não comprovou o preenchimento dos requisitos necessários para a renovação do CEAS. Inviável de revisão daconclusãofirmadano acórdão, sem o reexame dos elementos fáticos considerados pela Corte Regional, medidaque, no âmbito do recurso especial, esbarra no óbice da súmula 7/STJ.
+3. A apresentação de razões recursais dissociadas, em razão das quais remanesce incólume o entendimento expendido no acórdão, configura deficiência insanável da fundamentação recursal e impede o conhecimento do recurso especial. Aplicação da Súmula 284/STF.
+4. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (RELATOR): A teor do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A recorrente, nas razões do especial, alegou que houve a comprovação da aplicação de mais de 20% em gratuidade, tendo o Conselho Nacional de Assistência Social reconsiderado o indeferimento inicial e concedendo o certificado para o triênio de 2001 a 2003, e que " a  fruição do direito previsto no art. 195, § 7º, da CF inicia-se com o preenchimento dos requisitos do art. 14 do CTN, o que no presente caso é possível observar pela simples leitura do Estatuto, militando em favor da Requerente a presunção de ser entidade beneficente de assistência social, ficando a cargo da Fiscalização da Receita Federal do Brasil a prova em sentido contrário" (fl. 1.566).
+Na espécie, a Corte Regional firmou que a ora agravante não comprovou o preenchimento dos requisitos necessários para a renovação do CEAS (fls. 1.520-1.521, com grifos nossos):
+Não obstante o entendimento exposto na sentença, deve ser afastada a alegação de direito adquirido em regime jurídico anterior, uma vez que o fato de a autora ser reconhecida como entidade filantrópica não impede que esteja submetida à necessidade renovação dos certificados pertinentes ao usufruto da imunidade em comento e ao preenchimento dos requisitos necessários para a renovação do CEAS.
+ ..
+A exigência do referido Certificado e a obrigação de renová-lo periodicamente não traduz limitação à imunidade preconizada no art. 195, § 7º , da Constituição Federal, mas mero instrumento de controle da Administração sobre a satisfação dos requisitos peculiares às entidades beneficentes de assistência social, únicas destinatárias da norma excludente da tributação.
+No presente caso, a parte autora obteve Certificado de Entidade Beneficente de Assistência Social (CEAS) primeiramente em 14/3/1980. Foi renovado em 7/10/1981, com validade de 14/3/1980 a 31/12/1994. Depois, foi deferida nova renovação com validade de 1 2 /1/1995 até 31/12/1997 e 12/1/1998 a 31/12/2000. Não conseguiu, porém, renová-lo para o triênio seguinte, por não aplicar pelo menos 20% da sua receita bruta em gratuidade (inciso IV do art. 22 do decreto n. 75293 e no inciso VI do art. 32 do Decreto n. 2.536/98)- fls. 64-67.
+Além disso, a documentação constante nos autos não é suficiente para demonstrar o enquadramento da parte autora como beneficiária da imunidade tributária prevista na Constituição, uma vez que não preenchidos os requisitos do art. 14 do CTN. Ademais, também, não foram cumpridas as exigências para o gozo da isenção do art. 195, § 7º, da Carta Magna, contidas no art. 55 da Lei 8.212/1991.
+Com efeito, por primeiro, inviável de revisão daconclusãofirmadano acórdão, sem o reexame dos elementos fáticos considerados pela Corte Regional, medidaque, no âmbito do recurso especial, esbarra no óbice da Súmula 7/STJ.
+Por segundo, a apresentação de razões recursais dissociadas, em razão das quais remanesce incólume o entendimento expendido no acórdão, configura deficiência insanável da fundamentação recursal e impede o conhecimento do recurso especial. Aplicação da Súmula 284/STF.
+A propósito:
+Configura fundamentação recursal deficiente, a ensejar a aplicação da Súmula 284/STF, a alegação genérica de violação, a falta de demonstração da suposta ofensa ao normativo legal, considerando a fundamentação adotada na decisão recorrida para o deslinde da causa, a ausência de comando normativo do dispositivo legal, a argumentação deficiente com a apresentação de razões dissociadas, bem como a falta de particularização do dispositivo legal contrariado ou sobre o qual se sustenta pender divergência interpretativa.
+(AgInt no REsp n. 1.923.779/RS, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 30/9/2021)
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
