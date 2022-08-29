@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 23/08/2022 a 29/08/2022, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Cuida-se de agravo interno interposto por AMIL ASSISTÊNCIA MÉDICA INTERNACIONAL S.A contra decisão que conheceu do agravo para conhecer parcialmente do recurso especial e negar-lhe provimento.
+Ação: de obrigação de fazer c/c compensação por danos morais ajuizada por EVERSON RIBEIRO DA SILVA em face da agravante visando o restabelecimento de seu plano de saúde, cancelado unilateralmente.
+Sentença: julgou parcialmente procedente a demanda para determinar à agravante a migração do agravado para plano de saúde individual sem carência e condenar no pagamento de compensação por danos morais no valor de R$ 2.000,00.
+Acórdão: negou provimento à apelação da agravante e deu provimento ao apelo do agravado, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. CONSUMIDOR. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZATÓRIA. CANCELAMENTO DE PLANO DE SAÚDE COLETIVO, APÓS APOSENTADORIA POR INVALIDEZ. SENTENÇA QUE JULGOU PARCIALMENTE PROCEDENTE O PEDIDO AUTORAL. APLICAÇÃO DA RESOLUÇÃO NORMATIVA Nº 19, DA ANS, E DA LEI Nº 9.656/98. IN CASU, NÃO HÁ PROVAS DE QUE A RÉ, AMIL, TENHA OFERTADO AO AUTOR A MIGRAÇÃO PARA OUTRO PLANO, BEM COMO QUE, EFETIVAMENTE, REALIZOU A PRÉVIA NOTIFICAÇÃO DO DEMANDANTE, DE QUE IRIA CANCELAR O CONTRATO. FALHA NA PRESTAÇÃO DO SERVIÇO CONFIGURADA. A QUANTIA DE R$ 8.000,00 (OITO MIL REAIS) MELHOR SE ADEQUA À REPARAÇÃO DO DANO MORAL SUPORTADO PELO AUTOR, BEM COMO ATENDE OS PRINCÍPIOS DA RAZOABILIDADE E PROPORCIONALIDADE. PRIMEIRO RECURSO DESPROVIDO (DA RÉ). SEGUNDO RECURSO PROVIDO (DO AUTOR).
+Recurso Especial: alega violação dos arts. 1022 do CPC, 478 do CC e 13, parágrafo único, II, da Lei 9656/98. Além de negativa de prestação jurisdicional, sustenta a não obrigatoriedade de migração para plano de saúde individual quando a operadora não comercializa tal produto. Defende a possibilidade de rescisão unilateral do contrato de saúde coletivo, independente de prévia notificação ao consumidor.
+Decisão unipessoal: conheceu do agravo para conhecer parcialmente do recurso especial e negar-lhe provimento, em virtude de não se verificar a apontada negativa de prestação jurisdicional e pela incidência da Súmula 284/STF na alegada ofensa do art. 478 do CC e da Súmula 211/STJ nas violações apontadas aos arts. 478 do CC e 13 da Lei 9656/98.
+Agravo interno: o agravante reitera a alegada ofensa ao art. 1022, apontando a falta de decisão a respeito da regularidade da rescisão de contrato coletivo e da impossibilidade de oferta de plano de saúde na modalidade individual para a operadora que não comercializa tal produto. Aduz a inaplicabilidade da Súmula 284/STF, uma vez que a violação do art. 478 do CC teria sido devidamente demonstrada. Alega que o tema da regularidade da rescisão do contrato coletivo foi devidamente prequestionado.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C COMPENSAÇÃO POR DANOS MORAIS. PLANO DE SAÚDE. CANCELAMENTO UNILATERAL. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF.
+1. Ausentes os vícios do art. 1022 do CPC, rejeitam-se os embargos de declaração.
+2. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+3. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+4. Agravo interno não provido.
+VOTO
+A despeito das alegações aduzidas neste recurso, percebe-se que a parte agravante não trouxe qualquer argumento novo capaz de ilidir o entendimento firmado na decisão ora agravada.
+Com efeito, a Corte de origem decidiu integralmente e de forma fundamentada sobre a ilegalidade da rescisão unilateral do contrato, como se verifica do seguinte trecho:
+Com efeito, após analisar a citada legislação, infere-se, facilmente, que o legislador prolongou a obrigação da Operadora de Plano de Saúde, quanto à continuidade na prestação dos serviços ao empregado demitido ou aposentado, de forma a não frustrar suas expectativas de segurança, quanto à eliminação de riscos à sua saúde, que tinha ao ingressar no contrato coletivo.
+No caso concreto, não há provas de que a Ré tenha ofertado ao Autor a migração para outro plano, bem como que, efetivamente, realizou a prévia notificação do mesmo, de que iria cancelar o contrato.
+Destarte, a postura da Parte Ré, ao cancelar o contrato do Autor, após a sua aposentadoria, sem prévia notificação, viola o princípio da boa-fé contratual que veda o comportamento contraditório, na forma do que dispõe o artigo 422,do Código Civil; "Os contratantes são obrigados a guardar, assim na conclusão do contrato, como em sua execução, os princípios de probidade e boa-fé". (fls. 610/611, e-STJ).
+Quanto ao tema da impossibilidade de oferta de plano de saúde na modalidade individual para a operadora que não comercializa tal produto, tem-se que a Corte de origem não se manifestou sobre o assunto, uma vez que o tema não foi devolvido à Corte nem em sede de apelação ou mesmo, por ocasião daoposição de embargos de declaração.
+Não há falar, portanto, em omissão alguma a ser sanada.
+No que se refere ao art. 478 do CC apontado como violado, tem-se que, de fato, nas razões do recurso especial, a parte então recorrente não relaciona o disposto no referido artigo com o decidido no acórdão recorrido ou com a tese da não obrigatoriedade de migração de beneficiário para plano de saúde individual quando a operadora não comercializa tal produto. Deve ser mantida, portanto, a aplicação da Súmula 284/STF, uma vez que mal fundamentado o recurso quanto a este ponto.
+Ademais, a Corte de origem não decidiu a lide a partir do disposto no art. 478 do CC, ou ainda, do art. 13, parágrafo único, II, da Lei 9656/98 , faltando-lhes, o necessário prequestionamento.
+Mantida, portanto, a decisão agravada integralmente.
+Forte nessas razões, NEGO PROVIMENTO ao presente agravo interno no agravo em recurso especial.
