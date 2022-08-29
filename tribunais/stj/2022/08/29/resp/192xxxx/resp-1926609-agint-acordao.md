@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 23/08/2022 a 29/08/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Og Fernandes.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão que não conheceu do recurso especial fundado no art. 105, III,a, da Constituição Federal, que visa reformar acórdão proferido pelo Tribunal de Justiça do Estado do Estado Tocantins, com o seguinte resumo de ementa:
+APELAÇÃO. AÇÃO DE OBRIGAÇÃO DE FAZER C/C DECLARAÇÃO DE INEXISTÊNCIA DE DÉBITO. PRELIMINARES. DESERÇÃO NÃO VERIFICADA. RECOLHIMENTO DO PREPARO RECURSAL EM DOBRO (ART. 1.007, § 4º, DO CPC). OFENSA A DIALETICIDADE RECURSAL AFASTADA. APELO CONHECIDO.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial."
+No agravo interno, a parte recorrente traz, resumidamente, os seguintes argumentos:
+Isto porque, mesmo tendo interposto embargos declaratórios, o tribunal de origem teria deixado de analisar, ainda que implicitamente, a aplicação do suscitado 2º, 5º e 22, inciso I da Lei Nº 11.445, DE 5 DE JANEIRO DE 2007, e, Art. 1.331, 1.336 e 1.510-C §1º, INCISO III DO CÓDIGO CIVIL -Interpretação equivocada da Lei 6.766, nos termos propostos no recurso, conforme segue: (..)
+ ..
+Importante ainda ressaltar que o prequestionamento solicitado só pode ser provocado em sede de embargos de declaração quando a questão federal ou constitucional não houver sido enfrentada na decisão embargada, ainda que implicitamente, o que ocorreu no presente caso, tendo em vista que após a interposição do agravo de instrumento, a parte opôs novos embargos declaratórios que, rejeitados, decorreram a interposição do recurso especial.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. DIREITO DO CONSUMIDOR. FORNECIMENTO DE ÁGUA.INEXISTÊNCIA DE DÉBITOS. ÓRGÃODE PROTEÇÃO DE CRÉDITO. AUSÊNCIA DE PREQUESTIONAMENTO. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de ação objetivando que seja declarada a inexistência de débitos e, consequentemente, que a requerida se abstenha de suspender o fornecimento de água e de incluir o nome da requerente nos órgãos de proteção de crédito. Na sentença o pedido foi julgado improcedente. No Tribunala quo, a sentença foi parcialmentereformada.
+II - Esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF. Nesse sentido:AgInt no AREsp n. 1.661.808/SP, relatorMinistro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 14/9/2020, DJe 21/9/2020;AgInt no REsp n. 1.800.628/PE, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 24/8/2020, DJe 15/9/2020.
+III - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A parte agravante repisa os mesmos argumentos já analisados na decisão recorrida.
+Esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF. Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENERGIA ELÉTRICA. TRANSFERÊNCIA DE ATIVOS DE ILUMINAÇÃO PÚBLICA. INEXISTÊNCIA DE VIOLAÇÃO DO ART. 1.022 DO CÓDIGO FUX. FALTA DE INTERESSE DE AGIR E INÉPCIA DA INICIAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. MATÉRIA CONSTITUCIONAL. COMPETÊNCIA RECURSAL DO STF. NÃO CABIMENTO DO APELO NOBRE POR EVENTUAL VIOLAÇÃO DE NORMAS INFRALEGAIS. PRESENÇA DOS REQUISITOS PARA FIXAÇÃO DOS HONORÁRIOS RECURSAIS, EM RAZÃO DO NÃO CONHECIMENTO DO RECURSO ESPECIAL, NA DECISÃO MONOCRÁTICA AGRAVADA. AGRAVO INTERNO DA CONCESSIONÁRIA A QUE SE NEGA PROVIMENTO.
+(..)
+2. Não houve prequestionamento dos dispositivos legais atinentes às teses de inépcia da inicial e incongruência entre seus fundamentos e pedidos. A jurisprudência desta Corte considera que a ausência de enfrentamento da questão objeto da controvérsia pelo Tribunal de origem, não obstante a oposição de Embargos de Declaração, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula 211/STJ.
+3. É importante reiterar que não pode ser admitido o prequestionamento ficto das referidas teses, pois, ao tratar da violação do art. 1.022 do Código Fux, o Recurso Especial não discorreu sobre eventual omissão do acórdão recorrido quanto a elas. Julgados: AgInt no AREsp. 1.017.912/RS, Rel. Min. ASSUSETE MAGALHÃES, DJe 16.8.2017; REsp. 1.639.314/MG, Rel. Min. NANCY ANDRIGHI, DJe 10.4.2017.
+4. O requisito do prequestionamento é exigido por este STJ inclusive para as matérias de ordem pública. Julgados: AgInt no AREsp. 1.284.646/CE, Rel. Min. FRANCISCO FALCÃO, DJe 21.9.2018; EDcl no AgRg no AREsp. 45.867/AL, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, DJe 31.8.2017.
+(..)
+8. Agravo Interno da Concessionária a que se nega provimento.
+(AgInt no AREsp 1661808/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 14/09/2020, DJe 21/09/2020.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. RESPONSABILIDADE CIVIL DO ESTADO. TERMO INICIAL. JUROS MORATÓRIOS. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282/STF E 356/STF. VALOR DA INDENIZAÇÃO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não houve apreciação pelo Tribunal de origem sobre a tese de que os juros moratórios deveriam incidir desde o evento danoso e não desde a citação, o que impossibilita o julgamento do recurso nesse aspecto, por ausência de prequestionamento. Outrossim, eventual omissão sequer foi suscitada pela ora recorrente por meio de embargos declaratórios, o que impossibilita o julgamento do recurso neste aspecto, por ausência de prequestionamento, nos termos das Súmulas 282 e 356/STF. Efetivamente, para a configuração do questionamento prévio, não é necessário que haja menção expressa dos dispositivos infraconstitucionais tidos como violados. Todavia, é imprescindível que no aresto recorrido a questão tenha sido discutida e decidida fundamentadamente, sob pena de não preenchimento do requisito do prequestionamento, indispensável para o conhecimento do recurso. Acrescente-se que a jurisprudência do STJ é no sentido de que, inclusive em relação às matérias de ordem pública, é indispensável o prequestionamento para o conhecimento do recurso especial.
+(..)
+3. Agravo interno não provido.
+(AgInt no REsp n. 1.800.628/PE, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 24/8/2020, DJe 15/9/2020.)
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
