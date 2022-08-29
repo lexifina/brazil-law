@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se derecurso especial interposto porFERNANDO HENRIQUE MACEDO RODRIGUES, comfundamentono art. 105, inciso III, alíneaa, da Constituição da República, contra acórdão prolatado pelo Tribunal de Justiça do Estado do Pará no julgamento daApelação Criminaln.0006085-29.2016.814.0049.
+Consta nos autos que o Recorrente foi condenado como incurso noart. 33, caput, da Lei n. 11.343/2006, àspenasde 5 (cinco) anos, 2 (dois) meses e 15 (quinze) dias de reclusão, em regime inicial semiaberto,e 520 (quinhentos e vinte) dias-multa, por trazer consigo, para fins de tráfico,18,2g de cocaína (fls. 170-177).
+Irresignada, a Defesa recorreu ao Tribunal de origem, que negou provimento à apelação defensiva(fls. 235-244).
+No recurso especial, a Defesa aponta ofensa ao art. 59 do Código Penal, aduzindo que a valoração negativa da culpabilidade do Recorrente carece de fundamentação idônea, pois simplesmente repete elementos que integram o conceito analítico de crime.
+Contrarrazões às fls. 265-272.
+O Ministério Público Federal opinou pelo provimento do recurso(fls. 296-299).
+É o relatório.Decido.
+O Juízo de origem, cuja sentença foi integralmente ratificada pelo Tribunal estadual, fundamentou apena-base do Recorrente nos seguintes termos:
+"1.1 Culpabilidade DESFAVORÁVEL, pois o acusado, ao tempo do crime, tinha plena consciência dos efeitos maléficos de seus atos, tendo praticado a ação sem nenhum juízode reprovabilidade, embora tivesse condições de assim não atuar;
+1.2 Antecedentes FAVORÁVEIS, pois o réu não foi anteriormente condenado por contravenção ou por crime com trânsito em julgado após os fatos, ora apurados, conforme se denota da Certidão constante nos autos. Em nome da presunção de inocência, desconsidera os inquéritos e processos instaurados e não concluídos;
+1.3 Conduta Social FAVORÁVEL, dada a ausência de elementos suficientes para fins de melhor análise de tal circunstância judicial;
+1.4 Personalidade, enquanto índole do acusado, maneira de sentir e agir do mesmo, considero-a, em seu beneficio, FAVORÁVEL, dado a ausência de laudos psicológicos/psiquiátricos, de formação e informações adequadas ao presente julgador;
+1.5 Motivo do crime FAVORÁVEL, não havendo elementos para perquirir tal circunstância, sendo comuns ao tipo penal testilhado a obtenção devantagem por meio da mercantilização de drogas ilícitas;
+1.6 Circunstâncias da infração penal FAVORÁVEIS, pois dado o lugar do crime, o tempo de sua duração ea atitude do réu, não o toma mais reprovável do que já é;
+1.7 Consequências do crime FAVORÁVEIS, pois não identificamos maiores danos a coletividade, além do próprio efeito nocivo das drogas a saúde pública e a sociedade de uma forma em geral;
+1.8 Comportamento da Vítima FAVORÁVEL, pois tal circunstância não pode ser valorada em detrimento ao réu, conforme reiteradas decisões dos tribunais.
+À vista das circunstancias acima expostas e em observância ao Art. 42 da Lei nº. 11.343/06, fixo a pena base acima do mínimo legal em 06 (seis) anos e03 (três) meses de reclusão e625 (seiscentos e vinte ecinco) dias-multa." (fls. 175-176, sem grifos no original.)
+Com efeito, constata-se que a avaliação negativa da culpabilidade do Recorrente está amparada apenas em afirmações genéricase inerentes ao próprio conceito analítico de crime, o que não autoriza o aumento da sanção penal.
+A esse respeito, confiram-se:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. RECEPTAÇÃO, CONTRABANDO E USO DE DOCUMENTO FALSO. ABSORÇÃO DO CRIME DE USO DE DOCUMENTO FALSO PELO CONTRABANDO. MATÉRIA QUE NÃO FOI OBJETO DA IMPETRAÇÃO. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE. DOSIMETRIA. PENA-BASE. CIRCUNSTÂNCIAS CONCRETAS QUE DENOTAM A MAIOR REPROVABILIDADE DA CONDUTA E JUSTIFICAM A EXASPERAÇÃO DAS PENAS-BASE. REGIME INICIAL MAIS GRAVOSO E NEGATIVA DE SUBSTITUIÇÃO DAS PENAS. EXISTÊNCIA DE CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. FUNDAMENTAÇÃO CONCRETA E IDÔNEA. ILEGALIDADES NÃO CONFIGURADAS. AGRAVO REGIMENTAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO.
+1. Não se admite que a parte amplie as causas de pedir e os pedidos formulados na petição inicial em superveniente agravo regimental, pois tal procedimento traduz indevida inovação recursal.Precedentes.
+2. A dosimetria da pena insere-se dentro de um juízo de discricionariedade do julgador, atrelado às particularidades fáticas do caso concreto e subjetivas do agente, somente passível de revisão por esta Corte no caso de inobservância dos parâmetros legais ou de flagrante desproporcionalidade.
+3. Elementos próprios do tipo penal, alusões à potencial consciência da ilicitude, à gravidade do delito, ao perigo da conduta, à busca do lucro fácil e outras generalizações, sem suporte em dados concretos, não podem ser utilizados para aumentar a pena-base.Precedentes.
+ .. "(AgRg no HC n. 685.600/RR, Rel.Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 15/3/2022, DJe 18/3/2022, sem grifos no original.)
+"HABEAS CORPUS. TRÁFICO DE ENTORPECENTES E ASSOCIAÇÃO PARA O TRÁFICO. DOSIMETRIA DAS PENAS. PENA-BASE ACIMA DO MÍNIMO LEGAL. AFIRMAÇÕES CONCRETAS RELATIVAMENTE ÀS CIRCUNSTÂNCIAS DO CRIME E À CIRCUNSTÂNCIA ESPECIAL DO ART. 42 DA LEI N. 11.343/2006. CULPABILIDADE, CONSEQUÊNCIAS E PERSONALIDADE AFASTADAS. AFIRMAÇÕES GENÉRICAS. APLICAÇÃO DA CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA (ART. 33, § 4º, DA LEI DE TÓXICOS). IMPOSSIBILIDADE. CONDENAÇÃO PELO CRIME DE ASSOCIAÇÃO PARA O TRÁFICO.
+1. Na esteira da orientação jurisprudencial desta Corte, por se tratar de questão afeta a certa discricionariedade do magistrado, a dosimetria da pena é passível de revisão em habeas corpus apenas em hipóteses excepcionais, quando ficar evidenciada flagrante ilegalidade, constatada de plano, sem a necessidade de maior aprofundamento no acervo fático-probatório.
+2. Na espécie, o Magistrado sentenciante afirmou ser acentuada a culpabilidade do paciente, pois conhecia a ilicitude do comportamento e os malefícios causados pela disseminação dos entorpecentes na sociedade. Entretanto, tal fundamentação não se mostra adequada para a exasperação da pena-base, pois a circunstância judicial em análise em nada se relaciona com a culpabilidade, terceiro substrato do crime. O art. 59 do Código Penal, ao anunciar a culpabilidade como circunstância judicial, objetiva avaliar o maior ou menor grau de reprovabilidade da conduta do acusado ou menosprezo especial ao bem jurídico violado. Desse modo, carente de fundamentação, no pormenor, o aumento da pena-base.Precedentes.
+ .. "(HC 698.362/RO, Rel.Ministro ANTÔNIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 08/02/2022, DJe 15/02/2022, sem grifos no original.)
+Fixadaessapremissa, passo a redimensionar as penas.
+Na primeira fase, ausente fundamentação idônea para avaliação negativa da culpabilidade, fixo a pena-base doRecorrente no mínimo legal: 5 (cinco) anos de reclusão e 500 (quinhentos) dias-multa.
+Na segunda fase, apesar da atenuante da menoridade relativa, a pena-base permanece inalterada, em atenção à Súmula n. 231/STJ.
+Na terceira fase, ausentes causas de aumento ou diminuição, torna-se definitiva a pena de5 (cinco) anos de reclusão e 500 (quinhentos) dias-multa.
+Em razão doquantumda pena imposta, mantenho oregime inicial semiaberto, nos termos do art. 33, §§ 2.º e 3.º,do Código Penal.
+Ante o exposto, DOU PROVIMENTO ao recurso especial, a fim de afastar a valoraçãonegativa da culpabilidade e reduzir a pena imposta, nos termos desta decisão.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ESPECIAL. PENAL. TRÁFICO DE DROGAS. MAJORAÇÃO DA PENA-BASE. VALORAÇÃO DA CULPABILIDADE. FUNDAMENTAÇÃO GENÉRICA. ELEMENTOS INERENTES AO CONCEITO ANALÍTICO DE CRIME. RECURSO ESPECIAL PROVIDO.
