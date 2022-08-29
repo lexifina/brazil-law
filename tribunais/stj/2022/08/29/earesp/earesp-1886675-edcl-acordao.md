@@ -1,0 +1,63 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Terceira Seção, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Ribeiro Dantas, Antonio Saldanha Palheiro, Joel Ilan Paciornik, Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Jesuíno Rissato (Desembargador Convocado do TJDFT), Laurita Vaz e João Otávio de Noronha votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por Juliana da Costa de Araujo (outro nome: Juliana da Costa Araújo) ao acórdão da Terceira Seção, assim ementado (fl. 5.450):
+PROCESSO PENAL. AGRAVO REGIMENTAL EM EMBARGOS DE DECLARAÇÃO EM EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DE NÃO CONHECIMENTO DO AGRAVO. INCIDÊNCIA DA SÚMULA 182/STJ. NÃO IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. ACÓRDÃO EMBARGADO QUE RATIFICA ESSA DECISÃO. AUSÊNCIA DE ANÁLISE DO MÉRITO DO RECURSO ESPECIAL. MANIFESTA INADMISSIBILIDADE DOS EMBARGOS DE DIVERGÊNCIA. INCIDÊNCIA DA SÚMULA 315/STJ. PRECEDENTES. EMBARGOS LIMINARMENTE INDEFERIDOS. PRECEDENTES. ARESTO PARADIGMÁTICO ORIUNDO DE HABEAS CORPUS. DESCABIMENTO.
+1. Não cabem embargos de divergência quando o acórdão embargado não julga o mérito do recurso especial. Aplicação da Súmula 315 do STJ por analogia. Precedentes.
+2. Não se admite a utilização de acórdãos oriundos de julgados proferidos em habeas corpus, recurso em habeas corpus, mandados de segurança, recurso em mandado de segurança e habeas data como paradigma para configuração da divergência (Precedentes).
+3. Agravo regimental improvido.
+Alega a embargante, em suma, que o acórdão é omisso quanto à redação legal em voga, qual seja, o art. 1043, III, do Novo Código de Processo Civil, que é categórico ao afirmar que "É embargável o acórdão de órgão fracionário que:  ..  III - em recurso extraordinário ou em recurso especial, divergir do julgamento de qualquer outro órgão do mesmo tribunal, sendo um acórdão de mérito e outro que não tenha conhecido do recurso, embora tenha apreciado a controvérsia;  .. ". De mais a mais, à luz dos §§ 1º, 2º e 4º do precitado artigo 1043 do NCPC, " .. . § 1º Poderão ser confrontadas teses jurídicas contidas em julgamentos de recursos e de ações de competência originária. § 2º A divergência que autoriza a interposição de embargos de divergência pode verificar-se na aplicação do direito material ou do direito processual (fls. 5.459/5.460).
+Requer, assim, o acolhimento dos embargos para que sejasuprida a omissão apontada (aplicabilidade do inciso III do artigo 1.043 do NCPC para o caso concreto), com a atribuição de efeitos modificativos, com o fim de julgar os embargos de divergência originalmente interpostos (fl. 5.460).
+É o relatório.
+EMENTA
+PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM EMBARGOS DE DECLARAÇÃO EM EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. ALEGAÇÃO DE OMISSÃO. INEXISTÊNCIA. PRETENSÃO DE REDISCUSSÃO DE MATÉRIA DEVIDAMENTE ABORDADA E DECIDIDA. DESCABIMENTO.
+1. Nos termos dos arts. 619 e 620 do Código de Processo Penal, os embargos de declaração, como recurso de correção, destinam-se ao suprimento de omissão, contradição, ambiguidade ou obscuridade existente no julgado. Não se prestam, portanto, para sua rediscussão ou no caso de mero inconformismo da parte.
+2. No caso dos autos, a parte embargante não se desincumbiu de demonstrar a ocorrência de nenhum vício, sobretudo porque o acórdão embargado, de maneira sólida e fundamentada, foi expresso ao afirmar que houve o descumprimento de regras técnicas alusivas ao presente recurso, em especial do disposto nos arts. 1.043, § 1º, do Código de Processo Civil e 266, § 1º, do RISTJ, pois, além do mérito do recurso especial não ter sido examinado pelo acórdão embargado, não se admite a utilização de acórdãos oriundos de julgados proferidos em habeas corpus, recurso em habeas corpus, mandados de segurança, recurso em mandado de segurança e habeas data como paradigma para configuração da divergência.
+3. Embargos de declaração rejeitados.
+VOTO
+O recurso não merece acolhida, tendo em vista que inexiste, no acórdão embargado, nenhum defeito.
+Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração são cabíveis quando houver no julgado ambiguidade, obscuridade, contradição ou omissão, o que não se verifica na hipótese.
+Segundo a jurisprudência do Superior Tribunal de Justiça, a admissão dos embargos de divergência está condicionada ao atendimento dos requisitos exigidos pelos arts. 266 do RISTJe 1.043 do Código de Processo Civil, situação não ocorrente no caso em exame.
+Consta do acórdão embargado a seguinte fundamentação (fls. 5.453/5.456 - grifo nosso):
+ ..  O inconformismo não prospera.
+Isso porque se mostra correta a incidência da Súmula 315/STJ.
+Com efeito, o cabimento dos embargos de divergência está condicionado ao atendimento dos requisitos exigidos pelo art. 266 do RISTJ, o que não foi cumprido na hipótese dos autos.
+No caso em exame, ao contrário do que se defende, o mérito do recurso especial não foi examinado pelo acórdão embargado, que apenas confirmou a decisão monocrática de não conhecimento do agravo em recurso especial, corroborando a incidência da Súmula 182/STJ (fls. 2.940/2.949).
+Logo, se não houve análise do mérito da insurgência inaugural, mas aplicação de óbice ao seu conhecimento, inviáveis os embargos, que possuem a finalidade específica de uniformizar a jurisprudência dos órgãos julgadores desta Corte que divergirem sobre a interpretação do Direito Federal.
+Inafastável, pois, a aplicação do entendimento sufragado na Súmula 315/STJ: Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial.
+No mesmo sentido, o Supremo Tribunal Federal já proclamou que são incabíveis embargos de divergência contra acórdão proferido em julgamento de agravo regimental em agravo de instrumento cujo seguimento foi negado por ausência de requisitos processuais, sem ter havido exame do mérito da questão (AI n. 836.992 AgR-EDv-AgR/SC, Tribunal Pleno, Ministro Ricardo Lewandowski, DJe 30/5/2012).
+A esse respeito, confiram-se os precedentes desta Corte:
+ ..
+Por fim, é firme nesta Corte o entendimento segundo o qual acórdão proferido em habeas corpus não é admitido como paradigma para fins de comprovação do dissídio jurisprudencial. Nessa linha:  ..
+Da transcrição acima, infere-se que o acórdão foi claro ao afirmar que, no caso em exame, mostrou-se correta a incidência da Súmula 315/STJ, pois o mérito do recurso especial não foi examinado pelo acórdão embargando, que apenas confirmou a decisão monocrática de não conhecimento do agravo em recurso especial, corroborando a incidência da Súmula 182/STJ.
+Outrossim, afirmou-se, ainda, que houve o descumprimento de regras técnicas alusivas ao presente recurso, sobretudo o disposto nos arts. 1.043, I e III, e § 1º, do Código de Processo Civil e 266, § 1º, do RISTJ, pois não servem como paradigma os julgados relativos a ações constitucionais, tais como habeas corpus.
+Logo, verifica-se que não há nenhuma irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria posta à apreciação foi efetivamente julgada, não padecendo o acórdão dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Em verdade, o ponto elencado como omisso traduz simples retórica e inconformismo com o julgado, o que é descabido em sede de aclaratórios.
+Confiram-se:
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. PREQUESTIONAMENTO DE DISPOSITIVOS CONSTITUCIONAIS. NÃO CABIMENTO. REVISÃO DA DOSIMETRIA. REDISCUSSÃO DE MATÉRIA DECIDIDA NOS ACLARATÓRIOS ANTERIORES. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1.Não caracteriza omissão o não enfrentamento de dispositivos constitucionais, sob pena de usurpação do mister do Supremo Tribunal Federal. Precedentes.
+2. A pretensão de rediscussão de matéria já decidida é incompatível com a natureza dos embargos declaratórios.
+3. Embargos de declaração rejeitados.
+(EDcl nos EDcl nos EREsp n. 1.530.637/SP, Ministro Ribeiro Dantas, Terceira Seção, DJe 29/11/2021)
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. ALEGAÇÃO DE OMISSÃO. AUSÊNCIA DE VÍCIO. PRETENSÃO DE ANÁLISE MERITÓRIA. CARÁTER PROTELATÓRIO DO RECURSO.
+I - Dispõe o artigo 620 do Código de Processo Penal, somente são cabíveis embargos de declaração quando configurada ambiguidade, obscuridade, contradição ou omissão, o que inexiste na hipótese.
+II - Na espécie, observa-se a exclusiva intenção de rediscutir a matéria já definida no julgamento dos primeiros embargos de declaração, o que é inadmissível.
+Embargos de declaração rejeitados.
+(EDcl nos EDcl no AgRg nos EDcl nos EAREsp n. 1.659.080/PR, Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Terceira Seção, DJe 2/12/2021)
+EMBARGOS DECLARATÓRIOS NO AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. INEXISTÊNCIA DE OMISSÃO, CONTRADIÇÃO OU ERRO NO ACÓRDÃO EMBARGADO. INSATISFAÇÃO COM O RESULTADO. INVIABILIDADE. EMBARGOS REJEITADOS.
+1. Os embargos de declaração são cabíveis quando houver ambiguidade, obscuridade, contradição ou omissão, nos termos do art. 619 do Código de Processo Penal - CPP, pressupostos não caracterizados na hipótese dos autos. Conforme outrora aduzido, tendo a egrégia Sexta Turma julgadora negado provimento a agravo regimental em recurso especial, porquanto os argumentos de mérito trazidos no especial esbarravam na Súmula n. 7 desta Corte, é inadmissível a interposição de embargos de divergência, posto que não houve análise o mérito do especial, ex vi do enunciado enunciado n. 315 da Súmula deste Sodalício. Nesse contexto, inócua se mostra a discussão acerca dos paradigmas apontados, diversos daqueles oriundos de recurso em habeas corpus, por não ter pertinência com a questão meritória a qual este Tribunal não conheceu, por, repita-se, esbarrar no enunciado sumular n. 7. Observa-se que o embargante pretende, em verdade, a modificação do provimento anterior, com a rediscussão da questão, o que não se coaduna com a medida integrativa. Ressalta-se ainda que ""a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via dos aclaratórios." (EDcl no AgInt na CR n. 11.165/EX, Rel. Ministra LAURITA VAZ, CORTE ESPECIAL, julgado em 6/12/2017, DJe 9/2/2018)." (EDcl no AgRg no REsp 1.683.591/PI, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 2/4/2018).
+2. Embargos declaratórios rejeitados.
+(EDcl no AgRg nos EREsp n. 1.660.765/MA, Ministro Joel Ilan Paciornik, Terceira Seção, DJe 5/8/2019)
+DIREITO PROCESSUAL CIVIL - EMBARGOS DE DECLARAÇÃO - OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO - INEXISTÊNCIA - PRETENSÃO DE REJULGAMENTO DA CAUSA - IMPOSSIBILIDADE.
+1. Inexistentes as hipóteses do art. 535, do CPC, não merecem acolhida os embargos de declaração que têm nítido caráter infringente.
+2. A contradição que dá ensejo aos embargos de declaração é aquela interna, isto é, aquela que decorre dos próprios termos do julgado.
+3. Os Embargos de Declaração não se prestam à manifestação de inconformismo ou à rediscussão do julgado.
+4. Nos termos da Súmula nº 356/STF, a mera oposição dos embargos declaratórios preenche o requisito do prequestionamento.
+5. Embargos de declaração rejeitados.
+(EDcl nos EDcl no AgRg no REsp n. 1.270.282/RS, Ministro Moura Ribeiro, Quinta Turma, DJe 12/8/2014)
+Dessarte, inexistindo vício no julgado, não cabe, nesta sede, rediscutir o entendimento adotado pelo acórdão hostilizado.
+Cumpre advertir a embargante que a oposição de novos embargos de declaração (manifestamente improcedentes) ensejará a aplicação dos consectários delineados na jurisprudência desta Corte, inclusive a determinação de baixa dos autos à origem, com certificação do trânsito em julgado. Na mesma linha: EDcl nos EDcl no AgRg no AREsp n. 869.043/RJ, Ministro Nefi Cordeiro, Sexta Turma, DJe 11/6/2018.
+Cito, também: AgRg na TutPrv nos EDcl nos EDcl no AgRg nos EDcl no AREsp n. 1.808.891/SP, Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Quinta Turma, DJe 3/5/2022; e EDcl nos EDcl no AgRg no RE no AgRg nos EAREsp n. 1.651.827/ES, Ministro Jorge Mussi, Corte Especial, DJe 16/12/2021.
+Ante o exposto, rejeito os embargos de declaração.
