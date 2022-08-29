@@ -1,0 +1,69 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 23/08/2022 a 29/08/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Não participou do julgamento a Sra. Ministra Nancy Andrighi.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DECLARATÓRIA. CONTRATO DE FINANCIAMENTO DE VEÍCULO. OFENSA À COISA JULGADA. PRETENSÃO RECURSAL QUE ENVOLVE O REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A alteração das conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula nº 7 do STJ.
+3. Agravo interno não provido.
+RELATÓRIO
+FERNANDO ANTÔNIO DE OLIVEIRA NÓBREGA(FERNANDO) promoveu ação declaratória cumulada com indenização por danos materiais contra AYMORÉ, CRÉDITO, FINANCIAMENTO E INVESTIMENTO (AYMORÉ), objetivando que sejam declaradas nulas as obrigações acessórias (juros) de todas as tarifas, com a restituição em dobro dos valores indevidamente cobrados.
+Em primeira instância, o pedido foi julgado parcialmente procedente para declarar a nulidade dos juros incidentes sobre a tarifa de cadastro e a tarifa de serviços de terceiros prestados no contrato de financiamento firmado entre as partes, bem como paracondenar a restituir, de forma simples, os valores ora declarados ilegais, corrigidos monetariamente pelo INPC desde cada desembolso dos valores e juros de mora de 1% ao mês a partir da citação (e-STJ, fls. 84/88).
+A apelação interposta por AYMORÉ não foi provida pelo Tribunal de Justiça da Paraíba, nos termos do v. acórdão assim ementado:
+APELAÇÃO CÍVEL. PRELIMINAR DE COISA JULGADA. COBRANÇA DOS JUROS INCIDENTES SOBRE AS TARIFAS ANALISADAS E DECLARADAS ILEGAIS EM PROCESSO ANTERIOR. PEDIDO DISTINTO AO DA PRESENTE AÇÃO. NÃO OCORRÊNCIA DE COISA JULGADA. REJEIÇÃO.
+- O entendimento pacificado nos Tribunais é no sentido de que o pedido de restituição dos juros remuneratórios relativos a tarifas reputadas ilegais em processo anterior não é atingido pela coisa julgada, uma vez que não há identidade entre o pedido e a causa de pedir imediata.
+MÉRITO. COBRANÇA DE JUROS RELATIVOS ÀS TARIFAS DECLARADAS ILEGAIS.
+CABIMENTO. ENCARGOS ACESSÓRIOS QUE SEGUEM A OBRIGAÇÃO PRINCIPAL. INTELIGÊNCIA DO ART. 184 DO CC. DEVOLUÇÃO SIMPLES. MANUTENÇÃO DO DECISUM. DESPROVIMENTO DO APELO.
+- Devem ser devolvidos os juros remuneratórios que incidiram sobre as tarifas e encargos a serem restituídos, a fim de evitar o enriquecimento sem causa.
+- A repetição em dobro do indébito, prevista no art. 42, parágrafo único, do Código de Defesa do Consumidor, tem como pressuposto de sua aplicabilidade a demonstração da conduta de má-fé do credor, o que fica afastado, no caso dos autos, ante a pactuação livre e consciente celebrada entre as partes (e-STJ, fl. 157).
+Inconformada, AYMORÉ manejou recurso especial, com base no art. 105, III, a e c, da CF alegando, a par de divergência jurisprudencial, a violação do art. 337, §§ 1º, 2º e 4º, do NCPC, ante a ocorrência de coisa julgada em relação aos valores pagos pelo recorrido relacionados a tarifas, acessórios e consectários considerados ilegais, os quais foram alvo de outra ação judicial.
+O recurso foi admitido pelo Tribunal paraibano (e-STJ, fls. 234/236).
+Em decisão monocrática de minha lavra, não conheci do apelo nobre, nos seguintes termos:
+CIVIL. PROCESSUAL CIVIL. RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DECLARATÓRIA. CONTRATO DE FINANCIAMENTO DE VEÍCULO. OFENSA À COISA JULGADA. REEXAME DE PROVAS. DESCABIMENTO. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. RECURSO ESPECIAL NÃO CONHECIDO (e-STJ, fl. 247 - com destaque no original).
+Nas razões do presente agravo interno, AYMORÉ, repisando os argumentos trazidos nas razões recursais, alegou a não incidência da Súmula nº 7 do STJ, por não haver necessidade do reexame fático-probatório.
+Não houve impugnação ao recurso (e-STJ, fl. 264).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DECLARATÓRIA. CONTRATO DE FINANCIAMENTO DE VEÍCULO. OFENSA À COISA JULGADA. PRETENSÃO RECURSAL QUE ENVOLVE O REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A alteração das conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula nº 7 do STJ.
+3. Agravo interno não provido.
+VOTO
+O recurso não merece provimento.
+De plano, vale pontuar que o presente agravo interno foi interposto contra decisão publicada na vigência do novo Código de Processo Civil, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Na hipótese, a decisão agravada consignou que, em relação a alegada violação do art. 337, §§ 1º, 2º e 4º, do NCPC, no que concerne a ocorrência de coisa julgada em relação aos valores pagos pelo recorrido relacionados a tarifas, acessórios e consectários considerados ilegais, os quais teriam sido objeto de outra ação judicial, que o v. acórdão afirmou resta patente a inexistência de coisa julgada material, consoante se vê dos seguintes trechos:
+Ocorre que a presente demanda objetiva a devolução dos reflexos (juros) que a cobrança das taxas ocasionaram ao longo do financiamento, pugnando pela sua devolução em dobro.
+Nesse cenário, resta patente a inexistência de coisa julgada material, pois, para a sua configuração, é necessária a identidade das partes, da causa de pedir e do pedido (e-STJ, fl. 159).
+Dessa forma, conforme se nota, a Corte local assim decidiu com amparo no contexto fático-probatório da causa, de modo que a revisão do julgado, com o consequente acolhimento da pretensão recursal, demandaria, necessariamente, o reexame das provas, o que não se admite no âmbito do recurso especial, ante o óbice da Súmula nº 7 do STJ.
+A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. FALÊNCIA. CUSTAS DO PROCESSO. PAGAMENTO. PRIORIDADE. REALIZAÇÃO. ATIVO. ALIENAÇÃO. IMÓVEL. COTAS CONDOMINIAIS. EDITAL. OMISSÃO. COISA JULGADA. ARREMATAÇÃO. QUITAÇÃO. DESPESAS. PREQUESTIONAMENTO. AUSÊNCIA. INÉRCIA DO INTERESSADO. REVISÃO. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. No caso, o acórdão recorrido, ao determinar o pagamento precedente das despesas do processo, sem afastar a prioridade das taxas condominiais, não descumpriu o disposto no artigo 124, § 1º, do Decreto-Lei nº 7.661/1945. Precedente.
+3. A falta de prequestionamento da matéria suscitada no recurso especial impede seu conhecimento. Incidência da Súmula nº 211/STJ.
+4. Na hipótese, rever a conclusão da Corte local, que entendeu que não constou do edital de alienação do imóvel a existência de dívidas condominiais devido à inércia do condomínio credor, demandaria o reexame de fatos e provas dos autos, providência que esbarra na censura da Súmula nº 7/STJ.
+5. Agravo interno não provido.
+(AgInt no REsp n. 1.749.776/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 25/4/2022, DJe de 5/5/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. 1. ART. 1.022 DO CPC/2015. ALEGAÇÃO GENÉRICA. SÚMULA N. 284/STF. 2. REJEIÇÃO DA ALEGAÇÃO DE COISA JULGADA, LEGITIMIDADE PASSIVA DA AGRAVANTE E CONFIGURAÇÃO DE ATO ILÍCITO A ENSEJAR INDENIZAÇÃO POR DANOS MORAIS. ALTERAÇÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. 3. ANÁLISE DO DISSÍDIO JURISPRUDENCIAL PREJUDICADA. 4. LITIGÂNCIA DE MÁ-FÉ. NÃO OCORRÊNCIA. 5. AGRAVO INTERNO IMPROVIDO.
+1. A falta de indicação, de forma clara e precisa, dos dispositivos legais que teriam sido eventualmente violados ou que tiveram sua interpretação divergente à jurisprudência desta Corte impede o conhecimento do recurso, por deficiência na sua fundamentação, conforme preceitua a Súmula n. 284 do Supremo Tribunal Federal.
+2. O Tribunal estadual, ao dirimir a controvérsia, concluiu pela rejeição da alegação de coisa julgada, legitimidade passiva da agravante e configuração de ato ilícito a ensejar indenização por danos morais. A revisão do julgado, com o consequente acolhimento da pretensão recursal, demandaria o reexame do acervo fático-probatório da causa, o que não se admite em recurso especial, ante o óbice da Súmula 7/STJ.
+3. O dissídio jurisprudencial não ficou devidamente comprovado, por ausência de identidade fática entre os acórdãos confrontados, haja vista que as peculiaridades do caso não se encontram presentes no acórdão paradigma.
+4. A interposição de recursos cabíveis não implica litigância de má-fé nem ato atentatório à dignidade da justiça, ainda que com argumentos reiteradamente refutados pelo Tribunal de origem ou sem alegação de fundamento novo.
+5. Agravo interno improvido.
+(AgInt no AREsp n. 2.016.117/RS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 11/4/2022, DJe de 25/4/2022.)
+RECURSO ESPECIAL. PROCESSUAL CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. SÚMULA 284/STF. JULGAMENTO EXTRA E ULTRA PETITA. AUSÊNCIA DE PREQUESTIONAMENTO. SUSPEIÇÃO. IMPEDIMENTO. NULIDADE. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 284/STF. LITISPENDÊNCIA. VIOLAÇÃO À COISA JULGADA. SÚMULA 7/STJ. SÚMULA 283/STF. LEGITIMIDADE ATIVA. TEORIA DA ASSERÇÃO. REGISTROS IMOBILIÁRIOS. NULIDADE. REEXAME. IMPOSSIBILIDADE. SÚMULA 5/STJ. SÚMULA 7/STJ.
+1- Recursos especiais interpostos em: 13/5/2019, 15/5/2019 e 16/5/2019. Conclusos ao Gabinete em: 5/6/2020.
+2- O propósito recursal consiste em dizer se: a) estaria caracterizada negativa de prestação jurisdicional; b) a sentença da ação civil pública representou julgamento ultra e extra petita; c) haveria ocorrido usurpação da competência da Corte de origem para apreciar exceção de suspeição; d) estaria cristalizada litispendência e violação à coisa julgada; e) o Ministério Público estadual possuiria legitimidade para ajuizar a presente ação civil pública; e f) os registros de propriedade relativos às matrículas em exame deveriam ser anulados.
+3- No que diz respeito à alegada negativa de prestação jurisdicional, os recorrentes limitam-se a aduzir, genericamente, que o acórdão recorrido não estaria devidamente fundamentado, o que caracteriza deficiência de fundamentação a atrair a incidência, por analogia, da Súmula 284/STF.
+4- No que tange à tese relativa à caracterização de julgamento extra e ultra petita, tem-se, no ponto, inviável o debate, porquanto não se vislumbra o efetivo prequestionamento, o que inviabiliza a apreciação da tese recursal apresentada, sob pena de supressão de instâncias.
+5- As teses aduzidas pelos recorrentes relativas à nulidade em virtude da suspeição e do impedimento não foram enfrentadas pelo TJRJ, o que torna inviável o debate em virtude da ausência de prequestionamento. 6- Os recorrentes, nas razões recursais, não impugnam os fundamentos adotados pelo Tribunal a quo relativos à alegação de suspeição e impedimento, o que caracteriza deficiência de fundamentação, atraindo, por analogia, a incidência da Súmula 284/STF.
+7- A pretensão recursal esbarra no óbice da Súmula 7 do STJ, máxime porque os argumentos relativos à existência de litispendência e de violação à coisa julgada não podem ser apreciados sem o revolvimento do acervo fático-probatório dos autos. Precedentes.
+8- Os recorrentes deixaram de impugnar o fundamento do acórdão recorrido, consubstanciado no fato de que em ação civil pública seria possível a relativização da coisa julgada, o que atrai a incidência, por analogia, da Súmula 283/STF.
+9- Do exame abstrato, in status assertionis, das razões desenvolvidas na petição inicial, notadamente a partir da alegada busca pela tutela de interesses transindividuais, verifica-se que está caracterizada a legitimidade do Ministério Público do Estado do Rio de Janeiro para o ajuizamento da presente ação civil pública.
+10- Derruir a conclusão a que chegou o Tribunal a quo, que, com base em amplo exame no arcabouço fático-probatório acostado aos autos, apontou a existência de irregularidade nos registros imobiliários em testilha, demandaria revolvimento de fatos e provas, bem como o exame do acordo celebrado com a municipalidade, o que é vedado pelos enunciados das Súmulas 5 e 7 do STJ.
+11- Recurso especial não conhecido.
+(REsp n. 1.960.721/RJ, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 5/4/2022, DJe de 7/4/2022.)
+Assim, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, que não conheceu do apelo nobre, devendo ser ele mantido.
+Nessas condições, pelo meu voto, NEGO PROVIMENTO ao agravo interno.
