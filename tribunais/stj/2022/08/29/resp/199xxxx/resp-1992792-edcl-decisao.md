@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por EDIO DALLA TORRE JÚNIOR E OUTROS contra decisão unipessoal que conheceu e deu parcial provimento ao recurso especial interposto pelo BRADESCO SAÚDE S/A, nos termos da seguinte ementa (fl. 777, e-STJ):
+RECURSO ESPECIAL. AÇÃO DECLARATÓRIA. CONTRATO DE PLANO DE SAÚDE. CONTRATO COLETIVO COM MENOS DE TRINTA BENEFICIÁRIOS. REAJUSTES ANUAIS. APLICAÇÃO DE ÍNDICE DE REAJUSTE ESTABELECIDO PELA ANS PARA CONTRATOS INDIVIDUAIS E FAMILIARES. DESCABIMENTO. MECANISMO DO AGRUPAMENTO DE CONTRATOS. RESOLUÇÃO NORMATIVA 309/2012 DA ANS. NECESSIDADE DE VERIFICAÇÃO DA ABUSIVIDADE NA HIPÓTESE.
+1. Cuida-se, na origem, de ação declaratória com pedido de tutela de provisória, relativa a contrato de plano de saúde empresarial com 8 (oito) beneficiários, em que se discute a abusividade nos reajustes anuais das mensalidades praticados pela operadora do plano de saúde.
+2. Consoante jurisprudência desta Corte "diante da vulnerabilidade dos planos coletivos com quantidade inferior a 30 (trinta) usuários, cujos estipulantes possuem pouco poder de negociação em relação à operadora, sendo maior o ônus de mudança para outra empresa caso as condições oferecidas não sejam satisfatórias, e para dissipar de forma mais equilibrada o risco, a ANS editou a RN nº 309/2012, dispondo sobre o agrupamento desses contratos coletivos pela operadora para fins de cálculo e aplicação de reajuste anual." (REsp 1.553.013/SP, 3ª Turma, DJe 20/03/2018). Dessa forma, descabe a aplicação dos percentuais de reajuste anual para contratos individuais/familiares aos contratos coletivos que possuem menos de 30 (trinta) beneficiários. Precedentes.
+3. Recurso especial conhecido e parcialmente provido.
+Em suas razões recursais, apontam os embargantes possível omissão na decisão embargada, sustentando que o recurso especial da embargada teria sido parcialmente provido apenas para determinar que o Tribunal de origem informe se a parte embargada cumpriu as determinações insertas na Resolução nº 309/2012 da ANS, e que, no entanto, já consta expressamente no acórdão do TJ/SP que não cumpriu os termos da referida resolução, de modo que deveria ser negado provimento ao recurso especial.
+É O BREVE RELATÓRIO. DECIDE-SE.
+Nos termos do art. 1.022 do CPC/15, somente é cabível o recurso de embargos de declaração nas hipóteses em que haja, no julgado impugnado, obscuridade, contradição, omissão ou erro material.
+Na espécie, não ocorreu nenhum dos vícios mencionados.
+Efetivamente, nenhuma obscuridade, contradição, omissão ou erro material existe na decisão embargada que justifique a oposição desse recurso, que, como é cediço, não se presta para o reexame da causa.
+No particular, verifica-se que a decisão embargada foi devidamente clara e fundamentada no sentido de que no bojo do acórdão recorrido, em que pese o reconhecimento de que a embargada não demonstrou que o reajuste atendeu ao disposto na Resolução Normativa nº 309/2012, não ficou consignado expressamente se os reajustes das mensalidades praticados pela operadora do plano de saúde são abusivos em face do previsto na referida Resolução Normativa nº 309/2012 da ANS, em especial em seus arts. 3º e 12, situação que não pode ser analisada por este STJ, em razão da incidência da Súmula 7/STJ.
+A rigor, as questões trazidas pela parte embargante não constituem pontos omissos, contraditórios ou obscuros do julgado como quer fazer crer, mas mero inconformismo com os fundamentos adotados na decisão embargada.
+Observa-se, dessa forma, que os fundamentos dos presentes aclaratórios revelam o claro desejo de atribuir a eles efeitos infringentes, de abrangência incompatível com a natureza desse recurso.
+Assim, dissociado o pleito de qualquer um dos pressupostos de interposição dos embargos de declaração, desautorizada está a pretensão ora declinada, impondo-se, então, a rejeição dos embargos de declaração.
+Forte nessas razões, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. INEXISTÊNCIA. MULTA.
+1. Rejeitam-se os embargos de declaração quando ausente omissão, contradição, obscuridade ou erro material a ser sanado.
+2. Embargos de declaração no recurso especial rejeitados.
