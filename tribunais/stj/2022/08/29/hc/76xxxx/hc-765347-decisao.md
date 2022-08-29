@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de habeas corpussubstitutivo de recurso próprio, com pedido liminar, impetrado em favor deKELLY LUANNA DE OLIVEIRA, em que se aponta como autoridade coatora o Tribunal de Justiça do Estado do Minas Gerais.
+Consta dos autos que a paciente foi condenada à pena de 4 anos e 7 meses de reclusão, em regime fechado, mais pagamento de 467 dias-multa, como incursa no art. 33,capute § 4º, da Lei n. 1.343/2006, sendo-lhe concedido o direito de apelar em liberdade.
+Em sede recursal, o Tribunal de origem negou provimento ao apelo defensivo e acolheu o da acusação para afastar o redutor do tráfico privilegiado,redimensionandoa sanção finalda paciente para 5 anos e 6 meses de reclusão mais pagamento de 560 dias-multa, mantido o modo prisional mais gravoso.
+Nestehabeas corpus, alega o impetrante que a quantidade e a natureza do entorpecente apreendido não constituemelementos idôneos e suficientes para afastar o redutor do tráfico privilegiado.
+Salienta ser a paciente primária, de bons antecedentes, bem como que inexiste prova da habitualidade delitiva e do envolvimento com grupo criminoso, tanto que foi absolvida da prática do crime de associação para o tráfico de drogas.
+Aduz que o regime mais gravoso foi estabelecido com amparo na gravidade abstrata e na hediondez do delito, em contrariedade às Súmulas 718 e 719 do STF.
+Requer, assim, a incidência da minorante do art. 33, § 4º, da Lei de Drogas na fração máxima, a fixação do modo prisional mais brando e a substituição da pena corporal por restritivas de direitos.
+É o relatório.
+Decido.
+Esta Corte - HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Sob tal contexto, passo ao exame das alegações trazidas pela defesa, a fim de verificar a ocorrência de manifesta ilegalidade que autorize a concessão da ordem, de ofício.
+A Corte de origem, ao prover o recurso ministerial, afastou a redutora do tráfico privilegiado com base nos seguintes fundamentos:
+"As degravações de fl. 112 (autos em apenso), informam ainda que há conversas entre Kelly e Emanuel, bem como entre ela e sua própria mãe, que a aconselha a não frequentar o local onde ocorria o armazenamento e desdobramento das drogas. Vejamos:
+Tuta liga para Kelly e diz que alugou a roça e que no dia seguinte ele iria leva-la para conhecer o local. Kelly pergunta onde ele está. Tuta responde, "to dividindo o pó aqui".
+Em 02:30, a mãe de Kelly diz para ela "rachar fora desse trem" de frequentar a roça. Kelly pergunta por que. Sua mãe responde "cê sabe Kelly, isso não é trem de conversar pelo telefone não". Kelly diz "eu sei que não tem jeito, mais isso ai que ocê tá pensando não tem lá não". A mãe de Kelly diz: "É pra isso Kelly, vai ser pra isso, ocê mesmo contou pra mim".
+Sendo Kelly companheira de Emanuel, sabedora de que o imóvel por ele alugado se destinava ao armazenamento e preparo da droga para o tráfico, a autoria delitiva, por parte de Kelly, decorre da comprovação de que ela ainda frequentava o local, como consta das degravações acima.
+Ademais, além de absolutamente ciente das negociações envolvendo entorpecentes praticadas pelo seu companheiro, Kelly ainda o ajudava com o transporte das drogas, conforme se verifica pelas degravações de fls. 129/130  autos em apenso).
+Nas mesmas degravações, Kelly pede a Emanuel para que não conte a ninguém que iria buscar "os negócio".
+Assim, entendo suficientemente demonstrado nos autos o envolvimento de Geraldo e Kelly com a prática delitiva, sobretudo desempenhando funções ligadas a Emanuel, seja transportando, negociando ou até mesmo vendendo drogas.
+Destarte, tenho que a prova produzida em juízo, ratificando os elementos colhidos na fase inquisitória, é suficiente, segundo o artigo 155 do Código de Processo Penal, para embasar com idoneidade o édito condenatório de Geraldo e Kelly pela prática do delito descrito no artigo 33da Lei 11.343/06.
+Por fim, conforme já procedido em relação a Emanuel e Weder, impõe-se o acolhimento do recurso acusatório no que tange ao pedido de decote da minorante do artigo 33. §4º, da Lei 11.343/06, já que os fatos denotam o profundo envolvimento dos agentes com o tráfico, com intenso comércio, envolvendo elevada quantidade de droga.
+Deste modo, as penas de cada um deles, em relação ao delito de tráfico, devem permanecer no patamar inicialmente imposto. equivalentes a 05 (cinco) anos e 06 (seis) meses de reclusão e pagamento de 560 (quinhentos e sessenta) dias-multa.
+Considerando que a apelante Kelly somente foi condenada pelo delito do artigo 33 da Lei 11.343/06. sua reprimenda final torna-se definitiva no patamar acima, devendo ser mantido o regime fechado e o valor do dia- multa equivalente ao mínimo legal. Mantém-se também o regime fechado imposto em relação ao acusado Geraldo.
+Destaco que a manutenção do regime fechado não decorre da hediondez do delito, mas sim dos fatores concretos examinados no caso em tela, envolvendo tráfico de elevadíssima quantidade de drogas, de alta periculosidade" (e-STJ, fls. 105-107)
+A teor do disposto no § 4º do art. 33 da Lei n. 11.343/2006, os condenados pelo crime de tráfico de drogas terão a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrarem organizações criminosas.
+Na hipótese, o Tribunal a quoafastou a redutora do tráfico privilegiado por entender que as provas colhidas nos autos denotam a habitualidade delitiva da paciente no tráfico de entorpecentes, pois, além da quantidade e natureza das drogas apreendidas (500g de cracke 521g de pasta-base de cocaína), a paciente auxiliava seu companheiro, o corréu Emanuel, o qual estava associado ao grupo criminoso, no transporte, negociação e até mesmo na venda dos entorpecentes.
+Portanto, assentado pela instância ordinária, soberana na análise dos fatos, que a paciente faz do comércio ilícito de entorpecentes uma atividade habitual, a modificação desse entendimento - a fim de fazer incidir a minorante da Lei de Drogas - enseja o reexame do conteúdo probatório dos autos, o que é inadmissível em sede de habeas corpus.
+A propósito:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. MINORANTE PREVISTA NO § 4º DO ART. 33 DA LEI 11.343/2006. ELEVADA QUANTIDADE DE DROGAS. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. RECURSO NÃO PROVIDO.
+1. Para a aplicação da minorante descrita no § 4º do art. 33 da Lei de Drogas, são exigidos, além da primariedade e dos bons antecedentes do acusado, que este não integre organização criminosa e que não se dedique a atividades delituosas.
+2. Este Superior Tribunal tem decidido que a apreensão de grande quantidade de drogas, a depender das peculiaridades do caso concreto, é hábil a denotar a dedicação do acusado a atividades criminosas e, consequentemente, a impedir a aplicação da causa especial de diminuição de pena prevista no § 4º do art. 33 da Lei n. 11.343/2006, porque indica maior envolvimento do agente com o mundo das drogas.
+3. Agravo regimental não provido."
+(AgRg no AREsp 1052340/SC, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 4/5/2017, DJe 11/5/2017);
+"HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. CONDENAÇÃO. ALEGAÇÃO DE NULIDADE. INTERROGATÓRIO. INÍCIO DA AUDIÊNCIA DE INSTRUÇÃO E JULGAMENTO. PROCEDIMENTO ESPECIAL DA LEI N. 11.343/2006. ILEGALIDADE. AUSÊNCIA. PENA-BASE. REDUÇÃO. RECONHECIMENTO DA ATENUANTE DA CONFISSÃO ESPONTÂNEA. PROVIDÊNCIAS INÓCUAS. SÚMULA N. 231/STJ. CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA. NÃO INCIDÊNCIA. CONCLUSÃO DE QUE OS PACIENTES DEDICAVAM-SE ÀS ATIVIDADES CRIMINOSAS.
+AFERIÇÃO. REVOLVIMENTO FÁTICO-PROBATÓRIO. INVIABILIDADE. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITOS. IMPOSSIBILIDADE. PENA SUPERIOR A 4 ANOS. REGIME INICIAL FECHADO. FUNDAMENTAÇÃO IDÔNEA. CIRCUNSTÂNCIAS DO CASO CONCRETO. ILEGALIDADE. AUSÊNCIA. DENEGAÇÃO DA ORDEM.
+ ..
+3. Concluído pela Corte de origem, com arrimo nos fatos da causa, que os pacientes dedicavam-se às atividades criminosas, não incide a causa especial de diminuição de pena, porquanto não preenchidos os requisitos previstos no art. 33, § 4º, da Lei n. 11.343/2006. Para concluir em sentido diverso, há necessidade de revolvimento do acervo fático-probatório, providência incabível na via estreita do habeas corpus.
+ ..
+Habeas corpus denegado."
+(HC 385.941/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 27/4/2017, DJe 8/5/2017).
+No tocante ao pleito de alteração do regime prisional, constata-se que o presente habeas corpus constitui mera reiteração do pedido formulado nos autos do AREsp n. 1.212.640/MG, isso porque há identidade de partes e da causa de pedir, impugnando os dois feitos o acórdão proferido no Apelação Criminal n. 1.0074.14.003969-9/001, o que constitui óbice ao seu conhecimento.
+A propósito:
+"AGRAVO REGIMENTAL EM RECURSO EM HABEAS CORPUS. REITERAÇÃO DE ANTERIOR MANDAMUS IMPETRADO. RECURSO EM HABEAS CORPUS QUE NÃO DEVE SER CONHECIDO. AGRAVO REGIMENTAL IMPROVIDO.
+1. Veiculando o presente feito as mesmas partes, causa de pedir e pedido esposado em outro habeas corpus anteriormente impetrado e já decidido, então não deve ser conhecido, por ser reiteração de pedido anterior, o que o torna inadimissível, nos termos do art. 34, XVIII, do Regimento Interno desta Corte.
+2. Agravo Regimental improvido."
+(AgRg no RHC 76.771/RS, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 1º/12/2016, DJe 13/12/2016)
+Por fim, estabelecia a sanção em patamar superior a 4 anos de reclusão, inviável a substituição da pena corporal por restritivas de direitos, nos termos do art. 44, I, do Código Penal.
+Ante o exposto,não conheçodohabeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
