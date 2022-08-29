@@ -1,0 +1,26 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 23/08/2022 a 29/08/2022, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Cuida-se de agravo interno ajuizado em face da decisão de fls. 1724/1726 e-STJ.
+A parte agravante sustenta que o acórdão estadual é omisso, e que as Súmulas n. 284/STF e 7/STJ não constituem obstáculo ao conhecimento do recurso especial.
+Sem impugnação.
+É o relatório.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. ART. 1.022 DO CPC. OMISSÃO. INEXISTÊNCIA. REEXAME DE PROVAS. SÚMULA 7/STJ. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA N. 284/STF.
+1. O acórdão recorrido analisou todas as questões necessárias ao deslinde da controvérsia, não se configurando ausência de fundamentação na prestação jurisdicional.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula 7/STJ).
+3. Não se conhece do recurso especial quando a deficiência de sua fundamentação impedir a exata compreensão da controvérsia (Súmula 284 do STF).
+4. Agravo interno a que se nega provimento.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): A decisão agravada julgou recurso especial interposto por RIO SÃO FRANCISCO COMPANHIA SECURITIZADORA DE CRÉDITOS FINANCEIROS em face de acórdão assim ementado:
+DIREITO CIVIL. DIREITO PROCESSUAL CIVIL. AÇÃO MONITÓRIA. RECURSOS DE APELAÇÃO. AGRAVO RETIDO. INÉPCIA DA PETIÇÃO INICIAL. INOCORRÊNCIA. CERCEAMENTO DE DEFESA. HIPÓTESE NÃO PRESENTE NOS AUTOS. COISA JULGADA. PRECLUSÃO LÓGICO-CONSUMATIVA. ART.700 DA LEI N.13.105/2015. DECISÃO JUDICIAL QUE JULGOU PARCIALMENTE PROCEDENTE OS PEDIDOS INICIALMENTE DEDUZIDOS. ESCRITURA PÚBLICA DE CONFISSÃO DE DÍVIDA. DEMANDA FUNDAMENTADA EM PROVA ESCRITA QUE ALBERGA A CONSTITUIÇÃO DE MANDADO MONITÓRIO. PROVA PERICIAL. ANÁLISE CONTRATUAL. ADEQUAÇÃO DO VALOR DO DÉBITO ÀS CLÁUSULAS CONTRATADAS. PARCIAL PROVIMENTO. DISTRIBUIÇÃO DA SUCUMBÊNCIA MANTIDA. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS, EM SEDE RECURSAL. MAJORAÇÃO QUANTITATIVA. APLICABILIDADE DO §11 DO ART. 85 DA LEI N.13.105/2015 (CÓDIGO DE PROCESSO CIVIL).
+Argumentou a parte recorrente, ora agravante, que o acórdão estadual é omisso; após o vencimento, o valor devido deve ser corrigido monetariamente não pelo índice pactuado pelas partes, mas pela tabela do TJPR; os ônus sucumbenciais devem ser redistribuídos reconhecendo-se sua sucumbência mínima.
+Quanto à alegada violação aos arts. 489, § 1º, IV, e 1.022, I, II, do Código de Processo Civil, sem razão a recorrente, haja vista que enfrentadas fundamentadamente todas as questões levantadas pela parte, porém em sentido contrário ao pretendido, o que afasta a invocada declaração de nulidade.
+Relativamente ao art. 1º, § 2º, da Lei 6.899/1981, incide a Súmula n. 284/STF, pois essa norma não trata de substituição de correção monetária pactuada por índices oficiais previstos em normas de tribunais. Assim, a conclusão buscada pela embargante não decorre logicamente da legislação invocada como ofendida, o que dificulta a compreensão da controvérsia oferecida a debate no recurso especial.
+Com pertinência ao mesmo tema, o dissídio jurisprudencial não foi demonstrado nos moldes legais e regimentais, notadamente no que toca à comprovação de similitude dos substratos fáticos dos julgados confrontados e ao cotejo analítico entre acórdãos.
+No que toca ao grau de sucumbência, nos termos da jurisprudência desta Corte, a verificação da sucumbência recíproca ou em parte mínima estabelecida pelo Tribunal de origem, envolve o reexame do contexto fático-probatório, cuja análise e revisão revelam-se interditadas a esta Corte Superior, em face do óbice contido na Súmula n. 7 do STJ. Confira-se:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CONTRATOS. MULTA ESTABELECIDA EM CONTRATO PARA O CASO DE PROPOSITURA DE AÇÃO JUDICIAL. SÚMULAS n. 5 E 7/STJ. LEGALIDADE DA RESTRIÇÃO AO DIREITO DE AÇÃO. TESE NÃO DEBATIDA PELA ÚLTIMA INSTÂNCIA ESTADUAL. SÚMULAS N. 282 E 356/STF. GRAU DE SUCUMBÊNCIA. REVISÃO OBSTADA PELA SÚMULA N. 7/STJ. PRECEDENTES.1. A conclusão do acórdão estadual acerca da incidência da multa contratual decorreu da análise do instrumento contratual. Súmulas n. 5 e 7/STJ.2. A tese relativa à legalidade da cláusula contratual que prevê restrição ao direito de ação não foi debatida pela última instância estadual, não havendo, por isso, que se falar em causa decidida, conforme exigido pelo art. 105, III, da Constituição Federal. Súmulas n. 282 e 356/STF.3. A sucumbência recíproca ou em parte mínima, estabelecida pelo Tribunal de origem, envolve contexto fático-probatório, cuja análise e revisão revelam-se interditadas a esta Corte Superior, em face do óbice contido na Súmula 7 do STJ. Precedentes.4. Agravo regimental a que se nega provimento.(AgRg no AREsp 371.701/MG, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, DJe 16/03/2016)
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
