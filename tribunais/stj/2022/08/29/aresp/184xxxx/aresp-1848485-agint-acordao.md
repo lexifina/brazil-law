@@ -1,0 +1,20 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 23/08/2022 a 29/08/2022, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Cuida-se de agravo interno ajuizado por POSTO DE GASOLINA TIJUCANO LTDA em face da decisão de fls. 1262/1264 e-STJ.
+A parte agravante sustenta que "há erro de fato da decisão que, não estando em harmonia com as provas apresentadas aos autos, deu parcial provimento ao agravo interno interposto pelos ora Agravados, entendendo tratar-se de endosso-mandato e, entendendo, também, não estar presente a culpa do Agravado Banco Rendimento, retirando-o do polo passivo da presente ação" (fl. 1400 e-STJ).
+Impugnação às fls. 1492/1497 e-STJ.
+É o relatório.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. CIVIL. CIVIL E PROCESSUAL CIVIL. LEGITIMIDADE PASSIVA. ENDOSSO-MANDATO. AUSÊNCIA DE EXTRAPOLAÇÃO DOS PODERES DE MANDATÁRIO. SÚMULA 476/STJ.
+1. "O endossatário de título de crédito por endosso-mandato só responde por danos decorrentes de protesto indevido se extrapolar os poderes de mandatário" (Súmula 476/STJ).
+2. Agravo interno a que se nega provimento.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): À guisa de "sanar erro de fato" ocorrido na decisão agravada, prolatada "em desarmonia com as provas apresentadas nestes autos", afirma a agravante tratar-se de uma relação de endosso translativo entre ela e os agravantes
+Entretanto, colhe-se da sentença (fls. 800/801 e-STJ):
+No tocante à 2ª ré, na qualidade de endossatária, recebeu os títulos por endosso impróprio. Este apresenta como característica principal a ausência de transferência da obrigação para um terceiro, tendo em vista que o que se transfere é tão somente a cártula. Comporta duas modalidades: o endosso caução e o endosso mandato. Na hipótese dos autos, discute-se a responsabilidade do endossatário no endosso-mandato. A matéria encontra-se sumulada pelo Tribunal de Justiça do Rio de Janeiro, expressado na Súmula 99: "Tratando-se de endosso mandato, devidamente comprovado nos autos, não responde o endossatário por protesto indevido, salvo se lhe era possível evitá-lo". A conduta negligente dos prepostos da 2ª ré, deixando de conferir a origem do negócio jurídico, evidencia a culpa para os fins do artigo 186 do Código Civil.(..)Em relação ao segundo réu, considerando que o endosso-mandato não transfere a propriedade do título ao endossatário e que este não age em nome próprio. Pela mesma linha de entendimento, o mandante é que é responsável pelos atos praticados pelo mandatário por sua ordem. O mandatário somente poderia responder pelo ato de protesto em decorrência de endosso mandato se acaso restasse demonstrado que o mesmo agiu com culpa, ou seja, que tenha extrapolado o limite de seu mandato, ou que tenha realizado o protesto mesmo ciente da invalidade ou do pagamento, se o caso.(..) Assim, não há qualquer responsabilidade do banco segundo réu pelo protesto indevido, já que se trata de endosso-mandato, o que não afasta eventual direito de regresso em face dele.
+Com efeito, houve manifestação expressa da instância ordinária acerca do tema, conclusão lastreada no exame das provas no contrato, a qual merece subsistir sobre o que afirmou o acórdão estadual, o qual simplesmente afirmou tratar-se de endosso translativo sem se referir a qualquer prova constante dos autos. Importa, ainda, enfatizar que o endosso sob exame foi o que se estabeleceu entre a RODOPETRO e o BANCO RENDIMENTO, para a cobrança dos títulos de crédito objeto da inicial, estabelecendo a sentença que o endosso seu deu não para transferência dos direitos inerentes aos títulos, mas simplesmente para sua cobrança.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
