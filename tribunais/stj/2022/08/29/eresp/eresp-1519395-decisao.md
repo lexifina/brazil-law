@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de embargos de divergência interpostos por VIPLAN VIAÇÃO PLANALTO LTDA, com fundamento no art. 1.043, II, do CPC/2015 e arts. 266 e 267, ambos do RISTJ, apresentando como acórdão embargado o abaixo ementado:
+TRIBUTÁRIO. PROCESSO CIVIL. VIOLAÇÃO AO ART. 535 DO CPC/73. AUSÊNCIA DE INTERESSE RECURSAL. ACÓRDÃO RECORRIDO. FUNDAMENTO NÃO ATACADO. SÚMULA 283/STF. FUNDAMENTAÇÃO EMINENTEMENTE CONSTITUCIONAL. DIVERGÊNCIA JURISPRUDENCIAL. COTEJO ANALÍTICO. INEXISTÊNCIA.
+1. Inexiste interesse recursal em se apontar ofensa ao art. 535 do CPC/73 quando o argumento trazido não tem o condão de reverter o julgado a seu favor.
+2. Inafastável a aplicação do obstáculo da Súmula 283/STF, pois restou inatacado o fundamento basilar do acórdão recorrido no que afirmou que decisão desoneratória de tributo proferida na Justiça do Estado de Goiás não faz coisa julgada no Distrito Federal.
+3. O Tribunal de origem decidiu a controvérsia à luz de fundamentos eminentemente constitucionais, matéria insuscetível de ser examinada em sede de recurso especial. Outrossim, da própria fundamentação recursal, verifica-se que, a despeito de haver apontado no apelo raro afronta à legislação federal, o recorrente, em verdade, visa travar discussão com enfoque constitucional.
+4. Impossibilidade de se conhecer do alegado dissídio pretoriano, pois a parte recorrente não procedeu ao necessário cotejo analítico entre os julgados, deixando de evidenciar o ponto em que os acórdãos confrontados, diante da mesma base fática e jurídica, teriam adotado a alegada solução jurídica diversa.
+5. Agravo interno não provido.
+No presente recurso, o embargante afirma que o acórdão recorrido está em dissonância com a jurisprudência apresentada no julgamento do REsp 731250/PE, cuja ementa se transcreve abaixo:
+PROCESSUAL CIVIL E TRIBUTÁRIO - EMBARGOS À EXECUÇÃO FISCAL - CONTRIBUIÇÃO SOCIAL - ALCANCE DA SÚMULA 239/STF - COISA JULGADA: VIOLAÇÃO - ART. 471, I DO CPC NÃO CONTRARIADO.
+1. A Súmula 239/STF, segundo a qual "decisão que declara indevida a cobrança do imposto em determinado exercício, não faz coisa julgada em relação aos posteriores", aplica-se tão-somente no plano do direito tributário formal porque são independentes os lançamentos em cada exercício financeiro. Não se aplica, entretanto, se a decisão tratou da relação de direito material, declarando a inexistência de relação jurídico-tributária.
+2. A coisa julgada afastando a cobrança do tributo produz efeitos até que sobrevenha legislação a estabelecer nova relação jurídico-tributária.
+3. Hipótese dos autos em que a decisão transitada em julgado afastou a cobrança da contribuição social das Leis 7.689/88 e 7.787/89 por inconstitucionalidade (ofensa aos arts. 146, III, 154, I, 165, § 5º, III, 195, §§ 4º e 6º, todos da CF/88).
+4. As Leis 7.856/89 e 8.034/90, a LC 70/91 e as Leis 8.383/91 e 8.541/92 apenas modificaram a alíquota e a base de cálculo da contribuição instituída pela Lei 7.689/88, ou dispuseram sobre a forma de pagamento, alterações que não criaram nova relação jurídico-tributária. Por isso, está impedido o Fisco cobrar a exação relativamente aos exercícios de 1991 e 1992 em respeito à coisa julgada material.
+5. Violação ao art. 471, I do CPC que se afasta.
+6. Recurso especial improvido.
+Sustenta, em suma, que no acórdão paradigma se afasta o entendimento de que não há ofensa à coisa julgada quando na relação jurídica continuativa ocorre alteração no estado de fato ou de direito, sendo de rigor reconhecer a inexistência da relação jurídica tributária diante da coisa julgada.
+Requer o provimento dos embargos para prevalecer o entendimento sufragado no acórdão paradigma e consequente reforma do acórdão recorrido.
+É o relatório. Decido.
+O art. 1.043, III, do CPC/2015 prevê o conhecimento de embargos de divergência quando o recurso especial "divergir do julgamento de qualquer outro órgão do mesmo tribunal, sendo um acórdão de mérito e outro que não tenha conhecido do recurso, embora tenha apreciado a controvérsia".
+Assim, embora o novo CPC tenha viabilizado o cabimento de embargos de divergência entre acórdãos com julgamento de mérito e acórdãos que não conheceram do recurso, foi condicionado que esses acórdãos que não conheceram do recurso tenham apreciado a controvérsia.
+Após tais considerações, verifico que no acórdão recorrido não foi analisada a matéria apresentada pelo recorrente, tão somente a admissibilidade do recurso especial, tendo afastado a alegada omissão, indicado súmula 283/STF, além de reconhecer a preponderância de matéria constitucional e a imprestabilidade do dissídio apresentado.
+Nesse contexto, verificado que a matéria apresentada pelo embargante não foi apreciada nos acórdãos em confronto, apresenta-se evidente a inadmissibilidade recursal, não tendo o recorrente atendido aos requisitos constantes dos arts. 1.043, III, do CPC/2015 e 266 do RI/STJ.
+Ante o exposto, com fundamento no art. 34, XVIII, a, do RI/STJ, não conheço dos embargos de divergência.
+Publique-se. Intimem-se.
