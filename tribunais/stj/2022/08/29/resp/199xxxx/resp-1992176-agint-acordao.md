@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 23/08/2022 a 29/08/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Luis Felipe Salomão, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO, NA ORIGEM. ENTIDADE DE PREVIDÊNCIA COMPLEMENTAR. ALEGAÇÃO DE IMPENHORABILIDADE DOS VALORES DO FUNDO PREVIDENCIÁRIO. MATÉRIA PRECLUSA. AUSÊNCIA DE IMPUGNAÇÃO DO FUNDAMENTO DO ACÓRDÃO. SÚMULA 283/STF. ALEGADA OFENSA AO ART. 854, § 3º, I, DO CPC/2015. AUSÊNCIA DE PERTINÊNCIA TEMÁTICA COM A TESE DO APELO. SÚMULA 284/STF. AGRAVO INTERNO IMPROVIDO.
+1. A ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do acórdão recorrido atrai o óbice da Súmula 283 do STF, segundo a qual: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+2. A indicação de dispositivo legal sem pertinência temática e a menção a artigo de lei, desprovida de clareza e sem fundamentaçãoprecisa para remover a razão de decidir do acórdão recorrido, revelam a patente falha de fundamentação do apelo especial, circunstância que atrai a incidência da Súmula 284 do Supremo Tribunal Federal.
+3. Agravo interno improvido.
+RELATÓRIO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+Trata-se de agravo interno interposto por PORTUS INSTITUTO DE SEGURIDADE SOCIAL - "SOB INTERVENÇÃO" em face de decisão desta relatoria, que negou provimento ao recurso especial.
+A agravante sustenta, em síntese: (a) desincumbiu-se "de impugnar especificamente os pontos violadores da legislação federal suscitados no âmbito do v acórdão desafiado" (fl. 109), o que afasta a aplicação das Súmulas 283 e 284/STF; e (b) "Dentro deste cenário, onde os recursos existentes têm nítido caráter alimentar e devem custear, principalmente, a formação das reservas capazes de suportar os benefícios concedidos (aposentados) e os que serão concedidos no futuro referentes aos benefícios dos participantes ativos, não há dúvidas de que se trata o valor penhorado de quantia impenhorável" (fl. 114).
+Requer, ao final, a reconsideração da decisão agravada ou sua reforma pelo Órgão Colegiado competente (fls. 108/117).
+Impugnação às fls. 120/132.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO, NA ORIGEM. ENTIDADE DE PREVIDÊNCIA COMPLEMENTAR. ALEGAÇÃO DE IMPENHORABILIDADE DOS VALORES DO FUNDO PREVIDENCIÁRIO. MATÉRIA PRECLUSA. AUSÊNCIA DE IMPUGNAÇÃO DO FUNDAMENTO DO ACÓRDÃO. SÚMULA 283/STF. ALEGADA OFENSA AO ART. 854, § 3º, I, DO CPC/2015. AUSÊNCIA DE PERTINÊNCIA TEMÁTICA COM A TESE DO APELO. SÚMULA 284/STF. AGRAVO INTERNO IMPROVIDO.
+1. A ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do acórdão recorrido atrai o óbice da Súmula 283 do STF, segundo a qual: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+2. A indicação de dispositivo legal sem pertinência temática e a menção a artigo de lei, desprovida de clareza e sem fundamentação precisa para remover a razão de decidir do acórdão recorrido, revelam a patente falha de fundamentação do apelo especial, circunstância que atrai a incidência da Súmula 284 do Supremo Tribunal Federal.
+3. Agravo interno improvido.
+VOTO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+Apontou-se na decisão agravada que, no tocante ao pedido de suspensão da execução, ante a intervenção decretada na entidade de previdência, o Tribunal de origem nem sequer debateu o fundo da matéria, destacando apenas que essa matéria já havia sido examinada quando do julgamento de anterior apelação, interposta ainda na fase de conhecimento. Citou-se no aresto:
+"Quanto à questão da intervenção federal, não assiste razão ao agravante/executado, porquanto no recurso de apelação por ele interposto contra a sentença que ora se cumpre, a matéria foi debatida e rechaçada, nos seguintes termos (autos número 1003231-20.2019.8.26.0562):"
+Ao se referir aos fundamentos do aresto prolatado na citada apelação, a Corte de origem acrescentou que, "apesar do art. 62 da Lei Complementar nº 109/20013 admitir a incidência da Lei nº 6.024/74 às entidades de previdência complementar, não cabe aplicação do art.6º da referida lei às entidades sem fins lucrativos que prestam serviços securitários e previdenciários, ante o caráter assistencial e alimentar dos benefícios concedidos" (fl. 40).
+Contudo, referidos fundamentos do aresto - relativos à preclusão da matéria e à inaplicabilidade, ao caso, da Lei 6.024/74 - não foram impugnados de forma específica nas razões do recurso especial.
+Foi por isso que, corretamente, aplicou-se à espécie a Súmula 283/STF ("É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles").
+Ainda nesse tema, não constitui excesso ressaltar que, nas razões do agravo interno, a agravante postula o afastamento do óbice da Súmula 283/STF de forma genérica, sem indicar os trechos do apelo especial que, em tese, teriam atacado especificamente os fundamentos do acórdão de 2º grau.
+De igual modo, não se verifica nenhum equívoco na aplicação da Súmula 284/STF.
+Consoante sedimentado nesta Corte, é dever da parte recorrente, em sede de recurso especial, apontar a ofensa a dispositivo legal cuja norma guarde pertinência temática com a tese objeto do apelo, sob pena de incidência do óbice da Súmula 284/STF. Nesse sentido:
+"PROCESSUAL CIVIL E CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. VIOLAÇÃO AO ART. 70 DO DECRETO Nº 57.663/66. FUNDAMENTAÇÃO DEFICIENTE DO RECURSO. SÚMULA 284/STF. AFRONTA AO ART. 71 DO DECRETO Nº 57.663/66. AUSÊNCIA DE PREQUESTIONAMENTO. CITAÇÃO DO DEVEDOR PRINCIPAL. INTERRUPÇÃO DO PRAZO PRESCRICIONAL EM FACE DOS DEVEDORES SOLIDÁRIOS. ART. 204, § 1º, DO CÓDIGO CIVIL. DECISÃO DE ACORDO COM A JURISPRUDÊNCIA DESTA CORTE. INCIDÊNCIA DA SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. A indicação de dispositivo legal sem pertinência temática e a menção a artigo de lei, desprovida de clareza e sem fundamentação precisa para remover a razão de decidir do acórdão recorrido, revelam a patente falha de fundamentação do apelo especial, circunstância que atrai a incidência da Súmula 284 do Supremo Tribunal Federal.
+2. Fica inviabilizado o conhecimento de tema trazido no recurso especial, mas não debatido e decidido nas instâncias ordinárias, tampouco suscitado nos embargos de declaração opostos, para sanar eventual omissão, porquanto ausente o indispensável prequestionamento.
+Aplicação, por analogia, das Súmulas 282 e 356 do STF.
+3. A jurisprudência do STJ é no sentido de que, "Havendo a citação válida de um dos devedores solidários interrompe-se a prescrição também em relação aos demais. " (AgRg no REsp 1386161/RS, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 16/06/2015, DJe 22/06/2015). Precedentes.
+4. Agravo interno a que se nega provimento."(AgInt no REsp n. 1.976.663/RJ, desta relatoria, Quarta Turma, julgado em 27/6/2022, DJe de 29/6/2022.)
+"PROCESSUAL CIVIL E TRIBUTÁRIO. EFEITOS DA CITAÇÃO. INTERRUPÇÃO DA PRESCRIÇÃO. AÇÕES DECLARATÓRIA E DE REPETIÇÃO DE INDÉBITO. COISA JULGADA. LIMITAÇÃO DOS EFEITOS. NATUREZA DA LIDE. PRESCRIÇÃO TRIBUTÁRIA. TESE DOS CINCO MAIS CINCO ANOS. FUNDAMENTAÇÃO RECURSAL DEFICIENTE. SÚMULA 284/STF.
+1. A interrupção da prescrição pela citação válida somente produz efeitos no processo no qual se produziu o ato processual (CPC, art. 219).
+2. O reconhecimento da prescrição nos autos de ação de repetição de indébito tributário, via compensação, não implica em ofensa à coisa julgada oriunda de ação de natureza diversa, como a declaratória, na qual apenas se declarou a inconstitucionalidade das majorações de alíquota da contribuição ao FINSOCIAL.
+3. A indicação de artigo de lei federal tido por violado que não guarda pertinência temática com a matéria discutida nos autos obsta o conhecimento do recurso especial, a teor da Súmula 284/STF.
+4. As razões do recurso especial devem exprimir, com transparência e objetividade, os motivos pelos quais a recorrente visa reformar o decisum. Na espécie, deixou de apontar ela qual dispositivo legal daria sustentação à sua tese em torno da prescrição tributária. Incidência da Súmula 284/STF.
+5. Recurso especial conhecido em parte e, nessa parte, improvido." (REsp n. 846.049/SP, relatora Ministra Eliana Calmon, Segunda Turma, julgado em 12/8/2008, DJe de 8/9/2008, g.n.)
+Na espécie, a recorrente apontou ofensa ao art. 854, § 3º, I, do CPC/2015, cuja norma dispõe acerca do prazo para o executado impugnar a penhora on-line, sem vinculação, portanto, com a tese de impenhorabilidade dos valores de fundo de previdência complementar.
+Ante o exposto, nega-se provimento ao agravo interno.
+É como voto.
