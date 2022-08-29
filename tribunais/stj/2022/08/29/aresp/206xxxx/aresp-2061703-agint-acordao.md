@@ -1,0 +1,29 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 23/08/2022 a 29/08/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Og Fernandes.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de agravo interno interposto por MARIA TEREZINHA MENDES CIDcontra decisão monocrática, de minha relatoria, assim ementada:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. RECONSIDERAÇÃO DA DECISÃO AGRAVADA. RECURSO ESPECIAL TEMPESTIVO. COMPROVAÇÃO DE FERIADO LOCAL NO ATO DE INTERPOSIÇÃO DO RECURSO. VIOLAÇÃO AOS ARTS. 1022, I, 489, § 1º, IV, DO CPC/2015. CONTRADIÇÃO. INOCORRÊNCIA. AGRAVO INTERNO PROVIDO PARA, EM JUÍZO DE RETRATAÇÃO, CONHECER DO RECURSO ESPECIAL E NEGAR-LHE PROVIMENTO.
+No presente recurso, reitera-se a ocorrência de contradição no acórdãoa quo, porque
+incompreensível a relação da citação da EC 41/2003, feita no acórdão da apelação para meramente justificar a obrigatoriedade da aplicação do teto remuneratório, com a conclusão lançada no dispositivo daquele mesmo pronunciamento, no sentido de que a pensão não deve observar os critérios de concessão e revisão definidos pela lei vigência à época do óbito do segurado, mas sim da EC 41/2003.
+Pugna, por fim, a reconsideração da decisão, em juízo de retratação, ou a remessa do presente recurso ao órgão colegiado.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. ART. 1.022 DO CPC/2015.EMBARGOS DE DECLARAÇÃO NA ORIGEM. INEXISTÊNCIA DE VÍCIOS NO JULGADO.
+1. Os embargos de declaração opostos na origemtêm a finalidade simples e única de completar, aclarar ou corrigir uma decisão omissa, obscura ou contraditória, o que não se vislumbra no caso em apreço.
+2.Agravo interno não provido.
+VOTO
+O presente agravo não merece lograr êxito.
+Em que pese o arrazoado, observa-se que a parte agravante não trouxe argumentos novos capazes de infirmar os fundamentos que embasaram a decisão agravada, o que faz subsistir o entendimento nela externado.
+Não há contradição entre o voto e o dispositivo no acórdão a quo, uma vez que o desprovimento do apelo na origem foi motivado nos argumentos apresentados no voto condutor do acórdão recorrido.
+Veja a esse respeito que a em. Desembargadora Relatora do feito também apresenta fundamento para manter a incidência da regra prevista na EC nº 41/03, nos seguintes termos (e-STJ fls. 170/172, sem grifo no original):
+Ab initio, esclareça-se que a ocorrência do óbito do Fiscal de Rendas deste Estado, Paulo Cesar Lima Cid deu-se em 25 de outubro de 2003, conforme anexos 00013/00015, portanto, na vigência da EC nº 20, de 15.12.1998. Registre-se que a pensão por morte, na hipótese, obedece aos princípios da integralidade e da paridade, como disposto no artigo 40, parágrafos 7º e 8º, da Constituição da República. Nesse sentido é a súmula nº 340 do Superior Tribunal de Justiça, in verbis: "A lei aplicável à concessão de pensão previdenciária por morte é aquela vigente na data do óbito do segurado" A jurisprudência do nosso Tribunal de Justiça é no sentido de que a pensão por morte de servidor falecido deve corresponder a 100% da remuneração a que teria direito se vivo fosse, estando a matéria inclusive sumulada através do enunciado nº 68, a saber: .. Desse modo, a demandante faz jus à pensão por morte de servidor falecido, correspondente a 100% da remuneração a que teria direito se vivo fosse, como determinado na sentença. Observada a discrepância entre o valor devido e o efetivamente pago, resta obrigatória a revisão da pensão, inclusive as vencidas, na forma do disposto no já referido § 8º, ou seja, na mesma proporção e na mesma data, sempre que se modificar a remuneração dos servidores em atividade. ..  Saliente-se para fins do valor da fixação da pensão, a incidência do teto remuneratório estabelecido pela Emenda Constitucional nº 41/2003, tendo em vista a moralidade administrativa, a preservação do erário e a racionalização da despesa pública. Observe-se que, como bem decidiu o magistrado de 1º grau, a autora sendo pensionista de servidor público estadual o teto a ser aplicado é do Governador de Estado, com as vantagens pertinentes.
+Relembre-se que o objetivo e a finalidade dos embargos não podem ser a infringência, a qual, por ventura, ocorreria como consequência da supressão de omissão, ou da resolução de obscuridade ou de contradição (cf. NERY JUNIOR, Nelson. NERY, Rosa Maria de Andrade. Código de Processo Civil comentado  livro eletrônico . 3. ed. São Paulo: Thomson Reuters Brasil, 2018). Assim, "é totalmente estranho aos embargos de declaração o escopo de julgar outra vez, repensar os termos do julgamento anterior, percorrer todos os passos que conduziram à formação do ato para chegar a idêntico resultado" (ASSIS, Araken de. Manual dos recursos  livro eletrônico . 10. ed. São Paulo: Thomson Reuters Brasil, 2021).
+Na verdade, a parte busca a revisão do mérito do julgado, pois, conforme argumenta, a pensão por morte não sofreria o redutor, pois
+a EC 41/2003 ao dispor sobre o teto de retribuição não regulamenta atos concessão e de revisão de pensão por morte, estes atos são orientados, sempre e exclusivamente, segundo a lei vigente ao tempo em que ocorrido o fato ensejador de sua concessão.
+Nesse aspecto, a alegação de violação docontido no art. 1.022 do CPC é insuficiente para o desiderato no especial.
+Esclareço, outrossim, que a decisão que se pretende cassar é com base no art. 932, inciso III, c.c. o art. 1.030, § 2º, do Código de Processo Civil de 2015, não trazendo a parte qualquer motivo hábil para sua anulação.
+Com essas considerações, nego provimento ao agravo interno.
+É como voto.
