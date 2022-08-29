@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão que deu parcial provimento ao recurso em sentido estrito do ora recorrido.
+Alega o Ministério Público estadual violação ao art. 121, § 2º, III, do CP e aos arts. 74, § 1º, 413, caput e § 1º, e 414, do CPP, ao argumento de que a qualificadora do emprego de meio cruel não é manifestamente improcedente, devendoser submetida ao Tribunal do Júri.
+Contra-arrazoado e admitido, o Ministério Público Federal manifestou-se pelo provimento do recurso especial.
+O recorrido foi pronunciado como incursoincurso no art. 121, § 2º, I (motivo torpe),III (meio cruel), IV (recurso que dificultou a defesa do ofendido), do Código Penal.
+Interpostos recursos em sentido estrito, o Tribunal de origem negou provimento ao recurso do corréu VERTON PINHEIRO e deu parcial provimento ao recurso do recorrido, estendendo os efeitos, de ofício, ao corréu GILBERTO DE SOUZA TAMBASCO, para afastar a qualificadora do meio cruel, pelos seguintes fundamentos (fls. 1.741-1.742):
+Por fim, no que concerne à qualificadora do meio cruel, constante no inciso III do § 2º do art. 121 do Código Penal, voto pelo seu afastamento.
+Isto porque, não se verificam elementos probatórios nos autos capazes de sustentar a incidência da qualificadora em questão.
+O juízo a quo, ao fundamentar a pronúncia da prática de homicídio qualificado por meio cruel, referiu que "é possível observar que os laudos apontam que o ofendido foi atingido por 18 tiros de arma de fogo".
+No entanto, embora as circunstâncias levem à conclusão de uma possível execução brutal, ante disparo de dezoito tiros contra indivíduo desarmado, não há indícios de que o ofendido tenha suportado qualquer sofrimento excessivo em vida, no exato momento que precede a morte.
+A crueldade, por si só, não deve ser confundida com a intensidade do dolo, que se identifica, no caso concreto, pela execução com inúmeros tiros à queima-roupa. O meio cruel, para ser configurado, impõe a ocorrência de um padecimento físico maior e inútil do que aquele necessário para a consumação do homicídio  o que não restou configurado no caso concreto.
+Assim, deve ser afastada a qualificadora do meio cruel, prevista no inciso III, §2º, do artigo 121 do Código Penal.
+Nos termos da jurisprudência desta Corte, na decisão de pronúncia, a qual constitui mero juízo de admissibilidade da acusação, somente se admite a exclusão de qualificadoras quando manifestamente improcedentes ou descabidas, sob pena de afronta à soberania do Júri. Nesse sentido:HC 483.788/RS, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 19/03/2019, DJe 28/03/2019;AgRg no HC 429.228/PR, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 26/02/2019, DJe 12/03/2019.
+Na hipótese, tendo sido destacado que a vítima, ao ser alvejada, foi atingida por 18 tiros de arma de fogo, condição análoga ao que se conhece como "fuzilamento",não se verifica manifesta improcedência da qualificadora referente ao meio cruel.
+Aplica-se, mutatis mutandis, o entendimento desta Corte no sentido de que"a reiteração de golpes na vítima, ao menos em princípio e para fins de pronúncia, é circunstância indiciária do "meio cruel" previsto no inciso III do parágrafo 2º do artigo 121 do Código Penal, não se tratando, pois, de qualificadora manifestamente improcedente que autorize o excepcional decote pelo juiz da pronúncia, sob pena de usurpação da competência constitucionalmente atribuída ao Tribunal do Júri" (REsp 1241987, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, DJe 24/02/2014).
+Nesse sentido, confira-se ainda:HC n. 456.093/PR, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 23/8/2018, DJe de 29/8/2018.
+Ante o exposto, dou provimento ao recurso especial para restabelecer a qualificadora relativa ao meio cruel, nos termos da sentença de pronúncia.
+Publique-se.
+Intimem-se.
