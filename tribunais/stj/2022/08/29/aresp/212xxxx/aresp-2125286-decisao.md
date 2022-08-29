@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo contra decisão que, com fundamento na Súmula 283/STF, inadmitiu o recurso especial.
+Alega o recorrente que os fundamentos do acórdão recorrido foram devidamente impugnados, requerendo o provimento do recurso.
+Oferecida contraminuta, o Ministério Público Federal manifestou-se pelo não provimento do agravo.
+O agravo é tempestivo e ataca os fundamentos da decisão agravada, devendo ser conhecido, entretanto, não comporta provimento.
+Nas razões do recurso especial, alega o Ministério Público estadualviolação aos arts.1º, 38, 39 e 117, todos da LEP e artigo 90 do Código Penal, ao argumento de que, "Se forem descumpridas as condições impostas quando da concessão da prisão domiciliar, o período de tempo durante o qual a sentenciada permaneceu no gozo desse benefício não deve ser computado como pena cumprida" (fl. 121).
+O Juízo a quo declarou extinta a punibilidade da recorrida.Interposto recurso em sentido estrito pelo Ministério Público, o Tribunal de origem negou-lhe provimento, na parte que interessa, pelos seguintes fundamentos(fl. 853):
+De fato, como bem ressaltou o nobre Magistrado primevo, a execução da apenada restou tumultuada por diversas diligências relativas ao período em que cumpria a pena em prisão domiciliar na comarca de Ribeirão das Neves. Entretanto, embora noticiado dois fatos que indicavamo descumprimento da benesse, não foi reconhecida a falta grave e revogado o benefício, ou seja, todo esse período deve ser considerado como pena cumprida já que a benesse permanecia em vigência
+Ora, com relação ao primeiro fato noticiado, observo que o ente ministerial sequer se insurgiu contra a decisão que deixou de reconhecer a falta grave. E, quanto ao segundo fato, também se verifica que, não obstante os requerimentos ministeriais, não foi instaurado o devido procedimento judicial a tempo e modo, não podendo a mora estatal prejudicar a apenada, com a desconsideração do tempo de pena cumprida em domiciliar em razão de infrações supostamente cometidas nesse período que não foram devidamente apuradas.
+A despeito da argumentação lançada no recurso especial, verifica-se que o recorrente deixou de impugnar os referidos fundamentos, autônomos e suficientes para a manutenção do julgado, a incidir, no caso, o óbice da Súmula 283/STF, aplicável por analogia, in verbis: "Éinadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Aferir se asintercorrências na execução penal da recorrida podem ou não caracterizar óbices à extinção da punibilidade, na forma pretendida pelo recorrente, demandaria revolvimento fático-probatório, o que encontra óbice na Súmula 7/STJ.
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Publique-se.
+Intimem-se.
