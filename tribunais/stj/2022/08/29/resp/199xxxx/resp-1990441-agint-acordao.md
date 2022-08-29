@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 23/08/2022 a 29/08/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão, assim ementada (fl. 788):
+PROCESSUAL CIVIL. RECURSO ESPECIAL. TAXA DE REGULAÇÃO DE SERVIÇOS PÚBLICOS DELEGADOS DE INFRAESTRUTURA. AGEPAR. DESNCESSIDADE DE INSTAURAÇÃO DO INCIDENTE DE ARGUIÇÃO DE INCONSTITUCIONALIDADE. FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO ESTRITAMENTE CONSTITUCIONAL E BASEADO EM ESTUDO DE LEI LOCAL. SÚMULA 280/STF. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO.
+O agravante alega que os precedentes do STFutilizados pelo acórdão recorrido não se correlacionam com a hipótese debatida nos autos, motivo pelo qual deveria ter observado a regra disposta no art. 949, II, do CPC/2015. De outro lado, defende que sobre a base de cálculo da taxa ora discutida, a controvérsia gira em torno do art. 77 do CTN, não sendo o caso de análise de matéria constitucional ou local.
+Com impugnação (fls. 813/836).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. TAXA DE REGULAÇÃO DE SERVIÇOS PÚBLICOS DELEGADOS DE INFRAESTRUTURA. AGEPAR. DESNECESSIDADE DE INSTAURAÇÃO DO INCIDENTE DE ARGUIÇÃO DE INCONSTITUCIONALIDADE. FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO ESTRITAMENTE CONSTITUCIONAL.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Entendimento desta Corte no sentido de ser desnecessária a instauração do incidente de arguição de inconstitucionalidade no Tribunal de origem diante da existência de precedentes do STF a respeito da questão.
+3. Aanálise a respeito da aplicação de precedentes do STF e a sua adequação ao caso concreto é de competência da Corte Suprema, sendo inviável em sede de recurso especial.
+4. Na espécie,a Corte local ao decidir pela inconstitucionalidade da taxa de regulação utilizou-se de fundamentos constitucionais para dirimir a controvérsia, especificamente, o princípio da legalidade tributária, de modo que o recurso especial se apresenta inviável quanto ao ponto, sob pena de se usurpar a competência reservada pela Constituição ao Supremo Tribunal Federal.
+5. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator):Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+A pretensão recursal não prospera.
+Com efeito, consoante exposto na decisão agravada,o aresto recorrido entendeu pela desnecessidade de instauração do incidente de arguição de inconstitucionalidade, tendo em vista a existência de precedentes do STF a respeito da matéria. Veja-se (fl. 470):
+No tocante à necessidade de instauração de incidente de declaração de inconstitucionalidade, os recorrentes também carecem de razão, já que o Supremo Tribunal Federal, por seu Tribunal Pleno, vem decidindo de forma reiterada que a instituição de taxas de polícia que não guardam relação direta com o custo efetivo da atividade estatal contraria a Constituição Federal.
+Assim, embora os casos concretos enfrentados pela Corte Suprema digam respeito "ao exercício de poder de polícia/fiscalização ambiental incidente sobre a atividade de", como dito pelas exploração de recursos hídricos e/ou pela indústria de petróleo e gás recorrentes em suas razões de embargos, resta evidente que a questão de direito é a mesma -proporcionalidade entre o custo da atividade de fiscalização e o valor cobrado a título de taxa de polícia -, de modo que os referidos precedentes se amoldam perfeitamente à questão posta nestes autos.
+ ..
+Com relação ao precedente invocado pela parte, qual seja, o acórdão proferido na ação direta de inconstitucionalidade nº 1.948/RS em setembro de 2002, vê-se que o entendimento adotado pelo Supremo Tribunal Federal na ocasião encontra-se superado. Naquela oportunidade, a Corte Suprema entendeu que a utilização do faturamento com o critério para incidência de taxas de regulação/fiscalização é constitucional.
+ ..
+Contudo, não restam dúvidas de que tal julgado não se coaduna com o atual entendimento do Pretório Excelso, já que, pelo simples fato de variar em função de critério que não está diretamente ligado ao custo da atividade de regulação - renda auferida com a prestação de serviços públicos delegados -, conclui-se que a taxa de polícia instituída pela Lei Complementar nº 94/2002 atenta contra os princípios da proporcionalidade e da capacidade contributiva.
+Tal entendimento encontra-se em consonância com a jurisprudência desta Corte. A propósito:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AUSÊNCIA DE OFENSA AO ART.1.022, II, DO CPC. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. SÚMULA 7 DO STJ. DESNECESSIDADE DE INSTAURAÇÃO DE PROCEDIMENTO DE CONTROLE DE CONSTITUCIONALIDADE DIFUSO.
+1. Não se configurou a ofensa aos arts. 489 e 1.022, II, do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, como lhe foi apresentada. Ademais, verifica-se que o acórdão impugnado está bem fundamentado, inexistindo omissão ou contradição.
+2. Quanto à mácula aos arts. 948 e 949 do CPC, ela não ocorreu. O acórdão recorrido foi enfático em demonstrar que o STF já tinha apreciado a questão da inconstitucionalidade do art. 1-F da Lei 9.494/1999 ao julgar as ADI 4.357 e 4.425. Dessa forma, desnecessário o Tribunal gaúcho instaurar o incidente de controle de constitucionalidade difuso.
+3. Consigne-se que a alteração da conclusão da Corte local sobre a inexistência de afronta à coisa julgada, no caso, implica revolvimento do conjunto fático-probatório, inadmissível na via especial, ante o óbice da Súmula 7 do STJ.
+4. Ademais, como muito bem salientado pelo ilustre representante do Ministério Público Federal em seu parecer de fls. 1.838-1.843, e-STJ, o art. 26 do Decreto-lei 3365/41 estabelece que o valor da indenização será contemporâneo à avaliação. Portanto, a legislação não socorre a pretensão da agravante.
+5. Agravo Interno não provido.
+(AgInt no AREsp 1.815.154/RS, Relator Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 4/11/2021)
+Ademais, a análise a respeito da aplicação de precedentes do STF e a sua adequação ao caso concreto é de competência da Corte Suprema, sendo inviável em sede de recurso especial.
+Em relação aos efeitos da declaração de inconstitucionalidade e quanto à legalidade da taxa cobrada, o acórdão recorrido dispôs que (fls. 471/472):
+As recorrentes também sustentam que os efeitos da declaração de inconstitucionalidade devem ser limitados/modulados, uma vez que houve efetiva prestação de serviços pela agência reguladora e a sua remuneração não pode simplesmente ser dispensada.
+Em que pese a argumentação dos embargantes, nota-se que os efeitos da decisão embargada estão restritos às partes, de modo que não se justifica a modulação de efeitos da decisão, já que a aplicação de tal instituto mostra-se cabível apenas em face de razões de segurança jurídica ou excepcional interesse social (artigo 27 da Lei nº 9.868/1999 5 ), as quais não estão presentes no caso em análise. Ademais, o simples fato de ter havido efetivo exercício do poder de polícia não pode justificar a cobrança ilegal de uma taxa, sob pena de afronta ao princípio da legalidade tributária.
+No mesmo sentido, não há falar-se em inobservância do disposto nos artigos 20 e 21 do Decreto-Lei nº 4.657/1942 (Lei de Introdução às Normas do Direito Brasileiro),
+ ..
+Ora, a decisão embargada não se fundamentou em valores jurídicos abstratos e, além disso, estão expressas no acórdão a necessidade e a adequação da medida ante a manifesta ilegalidade da base de cálculo da taxa de regulação, inexistindo outra alternativa além da declaração de inexigibilidade do tributo. Do mesmo modo, não se mostra possível a convalidação da irregularidade apontada, já que a norma que instituiu a taxa de regulação elegeu como critério para sua quantificação uma base de cálculo que não guarda relação com o custo efetivo do serviço, o que viola frontalmente a Constituição Federal.
+Realmente, observa-se que a Corte local utilizou-se de fundamentos constitucionais para dirimir a controvérsia, especificamente, o princípio da legalidade tributária,de modo que o recurso especial se apresenta inviável quanto ao ponto, sob pena de se usurpar a competência reservada pela Constituição ao Supremo Tribunal Federal.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
