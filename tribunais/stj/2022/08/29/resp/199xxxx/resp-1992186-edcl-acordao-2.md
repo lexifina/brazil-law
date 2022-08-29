@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 23/08/2022 a 29/08/2022, por unanimidade, não conhecer do recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+ESTADO DO PARÁ opõe embargos de declaração contra o acórdão proferido em sede de agravo interno, que, por unanimidade, negou-lhe provimento, cuja ementa transcrevo (fls. 435/436e):
+ADMINISTRATIVO. CONCURSO PÚBLICO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. ALEGAÇÃO GENÉRICA DE OFENSA A DISPOSITIVO DE LEI FEDERAL E AUSÊNCIA DE COMANDO NORMATIVO EM DISPOSITIVO LEGAL APTO A SUSTENTAR A TESE RECURSAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. ANÁLISE DE LEI LOCAL. PROVIDÊNCIA VEDADA NO RECURSO ESPECIAL. SÚMULA 280 DO SUPREMO TRIBUNAL FEDERAL. OFENSA À SÚMULA. CONCEITO DE TRATADO OU LEI FEDERAL. NÃO ENQUADRAMENTO. INCIDÊNCIA DA SÚMULA N. 518/STJ. ACÓRDÃO RECORRIDO ASSENTADO EM FUNDAMENTOS CONSTITUCIONAL E INFRACONSTITUCIONAL. AUSÊNCIA DE INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. INCIDÊNCIA DA SÚMULA N. 126/STJ. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - A jurisprudência desta Corte considera que quando a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se, por analogia, o entendimento da Súmula n. 284, do Supremo Tribunal Federal.
+III - Aplicável à espécie, por analogia, o enunciado da Súmula 280 do Supremo Tribunal Federal segundo o qual, por ofensa ao direito local não cabe recurso extraordinário, porquanto a lide foi julgada pelo tribunal de origem à luz de interpretação de legislação local, qual seja, a Lei Complementar Estadual n. 84/2014, demandando a sua análise para o deslinde da controvérsia. Precedentes.
+IV - Consoante pacífica jurisprudência deste Superior Tribunal de Justiça, o conceito de tratado ou lei federal, previsto no art. 105, inciso III, a, da Constituição da República, deve ser considerado em seu sentido estrito, não compreendendo súmulas de Tribunais, bem como atos administrativos normativos. Incidência da Súmula n. 518 do Superior Tribunal de Justiça.
+V - A matéria constitucional decidida no acórdão não foi impugnada por meio de Recurso Extraordinário, circunstância que atrai o óbice da Súmula n.126 do Superior Tribunal de Justiça.
+VI - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VII - Agravo Interno improvido.
+Sustenta, em síntese, que " ..  o v. acórdão ora embargado é omisso, na medida em que não apreciou os argumentos alinhavados no Agravo Interno interposto pelo Estado do Amapá, o qual, com clareza solar, impugnou especificamente os óbices apontados ao conhecimento do RESP" (fl. 462e).
+Requer o acolhimento dos embargos de declaração para aclarar os pontos suscitados como omissos.
+Sem impugnação, consoante certidão à fl. 469e.
+É o relatório.
+EMENTA
+ADMINISTRATIVO. CONCURSO PÚBLICO. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. INTERPOSIÇÃO DE DOIS RECURSOS CONTRA O MESMO ACÓRDÃO. INADMISSIBILIDADE. PRECLUSÃO CONSUMATIVA.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - O presente recurso de embargos de declaração revela-se manifestamente inadmissível, porquanto, no momento de sua protocolização, por provável erro, já ocorrera o fenômeno da preclusão consumativa, diante da anterior interposição de recurso com idêntico teor, inclusive submetido a julgamento na mesma assentada.
+III - Embargos de declaração não conhecidos.
+VOTO
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Os Embargos de Declaração (fls. 460/464e) revelam-se manifestamente inadmissíveis, porquanto, no momento de sua protocolização, por provável erro, já ocorrera o fenômeno da preclusão consumativa, diante da anterior oposição do recurso de fls. 454/458e, inclusive submetido a julgamento na mesma assentada.
+Conforme o magistério de Nélson Nery Júnior e Rosa Maria Andrade Nery, "diz-se consumativa a preclusão, quando a perda da faculdade de praticar o ato processual decorre do fato de já haver ocorrido a oportunidade para tanto, isto é, de o ato já haver sido praticado e, portanto, não pode tornar a sê-lo" (Código de Processo Civil Comentado e Legislação Extravagante, 18ª ed., Editora Revista dos Tribunais, 2014, p. 726, nota 5 ao art. 223).
+Nesse sentido, é pacífica a jurisprudência do Supremo Tribunal Federal e desta Corte, consoante precedentes assim ementados:
+AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. INTERPOSIÇÃO DE DOIS RECURSOS CONTRA A MESMA DECISÃO. INADMISSIBILIDADE: PRINCÍPIO DA UNIRRECORRIBILIDADE. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.
+A interposição cumulativa de dois recursos contra a mesma decisão enseja o conhecimento apenas do primeiro protocolizado, com a consequente preclusão consumativa em relação ao segundo. Precedentes. (AI 629.337 AgR, Relatora: Min. CÁRMEN LÚCIA, Primeira Turma, julgado em 28/10/2008, DJe-079 DIVULG 29/04/2009, PUBLIC 30/04/2009, EMENT VOL-02358-06, PP-01079).
+AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA. INTERPOSIÇÃO DE DOIS RECURSOS. PRINCÍPIO DA UNIRRECORRIBILIDADE RECURSAL. PRECLUSÃO CONSUMATIVA. EXTEMPORANEIDADE. AUSÊNCIA DE DEMONSTRAÇÃO DA DIVERGÊNCIA JURISPRUDENCIAL. IMPROVIMENTO.
+1.- Apresentados dois recursos pela mesma parte contra a mesma decisão, não se conhece daquele apresentado em segundo lugar, por força do princípio da unirrecorribilidade e da preclusão consumativa.
+2.- É extemporâneo o recurso de Embargos de Divergência que foi interposto e ratificado antes da publicação do Acórdão dos Embargos de Declaração.
+3.- O conhecimento dos embargos de divergência exige a demonstração do dissídio jurisprudencial, mediante o cotejo analítico entre os acórdãos paradigma e recorrido e por meio da comprovação de que foram adotadas soluções diversas em litígios semelhantes, nos moldes preconizados pelo arts. 266, § 1º, c/c 255, §§ 1º e 2º, do RISTJ.
+4.- Agravo regimental improvido.
+(AgRg nos EREsp 983.690/SP, Rel. Ministro SIDNEI BENETI, CORTE ESPECIAL, julgado em 18/12/2013, DJe 03/02/2014).
+Ante o exposto, NÃO CONHEÇO dos embargos de declaração de fls. 460/464e.
