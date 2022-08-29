@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de RAICAN GABRIEL RIBEIRO JOSE VITOR contra acórdão do Tribunal de Justiça do Estado de São Paulo proferido no Agravo de Execução Penal n.0004320-19.2022.8.26.0521.
+Consta nos autos que o Juízo da Execução Penal indeferiu o pleito de retificação de cálculo de penas.
+Irresignada, a Defesa interpôs agravo emexecução penal, que foi desprovido pelo Tribunal estadual (fls. 12-22).
+Daí o presente writ, em que a Parte Impetrante,em razões confusas,narra sobre o pedido de novo cálculo da pena, mas discorre sobre amitigação da Súmula n. 691 do Supremo Tribunal Federalpara poder ocorrer arevogação da prisão preventiva.
+Requer (fls. 10-11; sem grifos no original):
+"Recapitulando a tudo que foi dito e demonstrado, o Impetrante requer, com o absoluto respeito, o conhecimento deste habeas corpus (subtópico II. a) e, em corolário, em caráter liminar, a concessão de ordem liberatória em favor do Paciente Raican Gabriel Ribeiro Jose Vitor cessando-se assim, a coação ilegal que este último encontra-se experimentando, expedindo-se o competente alvará de soltura.
+Não entendendo pelo livramento in limine, suplica-se à Vossas Excelências que a final, após as informações prestadas e oitiva da d. Procuradoria, seja concedida a ordem de habeas corpus ao Paciente, retrazendo novamente a este sua tão almejada liberdade por meio do documento sublinhado suso até o julgamento definitivo do apelo a ser interposto."
+É o relato do necessário. Decido.
+A pretensão ora formulada não pode ser conhecida.
+Como se sabe,compete à Defesa narrar e instruir completa e adequadamente ohabeas corpus. No caso, embora a Defesa tenha requerido na inicial destewrit a revogação da prisão preventivado Paciente, as peças juntadas ao presente feito dizem respeito ao pleito de novo cálculo da pena para progressão de regime, porque o tráfico de drogas não seria considerado delito hediondo ou equiparado, conforme oacórdão apontado como impugnado.
+Assim ocorre óbice ao seguimento do pedido, pois a narrativa dos autos não corresponde à situação processual na origem.Ou seja, a Parte Impetrante não se desincumbiu do seu ônus de desenvolver adequadamente os fundamentos defensivos.
+Com igual conclusão, cito os seguintes precedentes do Superior Tribunal de Justiça,mutatis mutandis:
+"AGRAVO REGIMENTAL EMHABEAS CORPUS. PROCESSUAL PENAL. INSTRUÇÃO E NARRATIVA DEFICIENTE. AUSÊNCIA DE DOCUMENTAÇÃO E ESCLARECIMENTOS ESSENCIAIS À ANÁLISE DA CONTROVÉRSIA.MANUTENÇÃO DA DECISÃO DE INDEFERIMENTO LIMINAR DA PETIÇÃO INICIAL QUE SE IMPÕE. AGRAVO DESPROVIDO.
+1.Compete à Defesa narrar e instruir completa e adequadamente o remédio constitucional dohabeas corpus(ou seu respectivo recurso), por cuidar-se de procedimento que"pressupõe prova pré-constituída do direito alegado"(STJ, HC 437.808/RJ, Rel. Min. JORGE MUSSI, Quinta Turma, DJe de 28/06/2018). Assim, ao não se desincumbir do ônus de formar e narrar adequadamente os autos quando da impetração dowrit, a Parte Impetrante impede a apreciação do mérito .. .
+2. Agravo regimental desprovido." (AgRg no HC 526.388/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 05/09/2019, DJe 17/09/2019; sem grifos no original.)
+"AGRAVO REGIMENTAL NOHABEAS CORPUS.SÚMULA 691/STF. TRÁFICO DE DROGAS. CORRUPÇÃO DE MENORES. DIREITO DE RECORRER EM LIBERDADE.INSTRUÇÃO DEFICIENTE. REGIME SEMIABERTO. COMPATIBILIDADE COM A PRISÃO PREVENTIVA. ILEGALIDADE. AUSÊNCIA. APLICAÇÃO DA RECOMENDAÇÃO N. 62/2020 DO CNJ. REITERAÇÃO DELITIVA. GRUPO DE RISCO. AUSÊNCIA DE COMPROVAÇÃO.WRITINDEFERIDO LIMINARMENTE. DECISÃO MANTIDA. AGRAVO IMPROVIDO.
+1.É pacífico o entendimento desta Corte Superior no sentido de que ohabeas corpus, porquanto vinculado à demonstração de plano de ilegalidade, não se presta à dilação probatória, exigindo prova pré-constituída das alegações, sendo ônus do impetrante trazê-la no momento da impetração, máxime quando se tratar de advogado constituído. Precedentes.
+2. .. .
+4. Não havendo ilegalidade para justificar a mitigação do enunciado da Súmula 691 do STF, owritdeve ser indeferido liminarmente.
+5. Agravo regimental improvido."(AgRg no HC 586.212/BA, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 18/08/2020, DJe 26/08/2020; sem grifos no original.)
+No mais, vale referir que o art. 6.º do Código de Processo Civil dispõe que "todos os sujeitos do processo devem cooperar entre si para que se obtenha, em tempo razoável, decisão de mérito justa e efetiva". Ou seja, não compete apenas ao Estado-Juiz a condução da causa. É essencial que as partes formulem suas pretensões de forma clara, objetiva, acompanhadas dos documentos que amparem de forma precisa o direito invocado, tanto para evitar o prolongamento desnecessário da marcha processual, como o indeferimento de seus pedidos por questões formais que lhes competem observar.
+Ante o exposto, com fundamento nos arts. 34, inciso XX, e 210, todos do Regimento Interno do Superior Tribunal de Justiça, INDEFIRO LIMINARMENTE a petição inicial.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS.EXECUÇÃO PENAL. PLEITO DE REVOGAÇÃO DE PRISÃO PREVENTIVA. NARRATIVA DEFICIENTE, QUE NÃO CORRESPONDE À SITUAÇÃO PROCESSUAL DEMONSTRADA PELOS DOCUMENTOS QUE ACOMPANHAM O WRIT.PETIÇÃO INICIAL INDEFERIDALIMINARMENTE.
