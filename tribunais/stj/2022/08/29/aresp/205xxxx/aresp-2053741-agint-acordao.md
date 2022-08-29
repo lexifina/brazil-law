@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 23/08/2022 a 29/08/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Og Fernandes.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Agravo Interno interposto contra a decisão de fls. 1.426-1.427, e-STJ, proferida pela Presidência do Superior Tribunal de Justiça, que não conheceu do Agravo em Recurso Especial, em face da aplicação da Súmula 182/STJ.
+O agravante sustenta, em suma (fl. 1.436-1.437, e-STJ):
+(..) a parte recorrente impugnou especificamente os fundamentos da decisão recorrida o que pode ser observado da simples leitura das razões do Agravo em Recurso Especial, bem como comprovou a divergência alegada, especificamente às fls. e-STJ Fl. 1417 e 1418.
+Ainda, quando da interposição do Recurso Especial, também impugnou o ora Agravante de forma específica os fundamentos do Acordão recorrido, demonstrando, também, a alegada divergência, qual seja, divergência aos artigos 489, § 1º, IV, artigo 357, II, IV, § 2º e § 3º, ambos do Código de Processo Civil, artigo 5º, inciso XXXIV, "a", XXXV, LIII e LV e artigo 37, ambos da Constituição Federal; às fls. e-STJ Fl. 1350/1360 há demonstração inequívoca da alegada divergência.
+Ao contrário do fundamentado, houve, sim, adequado cotejo analítico, com demonstração dos aspectos similares de fato e de direito, demonstrando a identidade das situações, inclusive com transcrição das conclusões diversas alcançadas nesta Casa Superior, às fls. fls. e-STJ Fl. 1350/1360 e fls. e-STJ Fl. 1417 e 1418, como narrado.
+Sem impugnação.
+Por não ser caso de retratação, determinou-se a distribuição do Recurso (fl. 1.445, e-STJ).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO A FUNDAMENTO DA DECISÃO DENEGATÓRIA DE ORIGEM. SÚMULA 182 DO STJ. INCIDÊNCIA. AGRAVO INTERNO NÃO PROVIDO. DECISÃO DA PRESIDÊNCIA DO STJ MANTIDA.
+1. O Recurso Especial do agravante não foi admitido com base nos seguintes argumentos: I) inviabilidade do apelo nobre por ofensa a dispositivos constitucionais; II) ausência de maltrato às normas federais invocadas; III) incidência do óbice da Súmula 7 do STJ; e IV) ausência de cotejo analítico.
+2. Constata-se que na petição de Agravo em Recurso Especial não há sequer menção, muito menos demonstração, do cumprimento do cotejo analítico para a divergência jurisprudencial indicada no Recurso Especial.
+3. Sedimentou-se, na Corte Especial do STJ, o entendimento de que "a decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais" (EAREsp 701.404/SC, EAREsp 746.775/SC e EAREsp 831.326/SC, Rel. p/ acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe de 30/11/2018).
+4. Importante registrar que o momento adequado para impugnação dos fundamentos da decisão que inadmite o Recurso Especial é a interposição do Agravo em Recurso Especial, sob pena de preclusão, caso feita posteriormente.
+5. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 1º.7.2022.
+Não obstante os argumentos expendidos, o inconformismo não merece guarida.
+O Recurso Especial do agravante não foi admitido com base nos seguintes argumentos: I) inviabilidade do apelo nobre por ofensa a dispositivos constitucionais; II) ausência de maltrato às normas federais invocadas; III) incidência do óbice da Súmula 7 do STJ; e IV) ausência de cotejo analítico ("Quanto à letra "c" do permissivo constitucional, deixou o recorrente de atender ao requisito previsto no art. 1029, § 1º, do Código de Processo Civil, e no art. 255, § 1º,do RISTJ" - fls. 1.400, e-STJ).
+Constata-se que na petição de Agravo em Recurso Especial (fls. 1.403-1.418, e-STJ), não há sequer menção, muito menos demonstração, do cumprimento do cotejo analítico para a divergência jurisprudencial supostamente indicada no Recurso Especial.
+O Superior Tribunal de Justiça perfilha o entendimento de ser necessária a impugnação específica de todos os fundamentos da decisão que inadmitiu o Recurso Especial, sob pena de não conhecimento pela aplicação da Súmula 182/STJ.
+Com efeito, sedimentou-se, na Corte Especial do STJ, o entendimento de que "a decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais" (EAREsp 701.404/SC, EAREsp 746.775/SC e EAREsp 831.326/SC, Rel. p/ acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe de 30/11/2018).
+No mesmo sentido: AgInt no REsp n. 1.783.482/MS, Relatora Min. Assusete Magalhães, Segunda Turma, DJe de 15/6/2022.
+Importante registrar que o momento adequado para impugnação dos fundamentos da decisão que inadmite o Recurso Especial é a interposição do Agravo em Recurso Especial, sob pena de preclusão, caso feita posteriormente.
+De todo o exposto, conclui-se que o Agravo em Recurso Especial não merece conhecimento, devendo ser mantida a decisão da Presidência.
+Ante o exposto, nego provimento ao Agravo Interno.
+É como voto.
