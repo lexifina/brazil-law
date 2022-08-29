@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 23/08/2022 a 29/08/2022, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+Trata-se de agravo interno manejado pelo ESTADO DA PARAÍBA contra decisão por mim proferida, constante às e-STJ fls. 375/380, em que, reconsiderando decisum anterior, conheci do agravo para conhecer parcialmente do recurso especial e, nessa parte, negar-lhe provimento para impugnar o reconhecimento de abandono de causa pela falta de recolhimento das despesas com o transporte do oficial de justiça para realizar diligência.
+Nas suas razões (e-STJ fls. 393/407), o agravante sustenta que: (a) há infringência do art. 1.022 do CPC pela Corte a quo, pois "a decretação do abandono em função da inobservância do regramento específico do art. 40 da Lei nº 6.830/80, a aplicação da Súmula 240/STJ e a violação aos termos do art. 485, § 1º, do CPC são temas fundamentais para a melhor conclusão do julgado e devem ser necessariamente examinados pelo órgão julgador"; (b) "a extinção do processo por abandono exige a prévia intimação do exequente para suprir a ausência no prazo de cinco dias"; (c) "a violação também persiste contra os dispositivos legais que expressamente isentam a Fazenda Pública do adiantamento das custas e diligências no processo"; (d) "a Lei n. 9.586/2011, instituidora do plano de cargos do Tribunal de Justiça da Paraíba, em seu art. 38, criou o auxílio-transporte para os Oficiais de Justiça que se encontrarem no efetivo exercício das atribuições do seu cargo, destinada ao custeio das despesas realizadas para cumprimento de suas diligências".
+A parte agravada apresentou impugnação (e-STJ fls. 418/419).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. DECISÃO AGRAVADA. FUNDAMENTOS. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA.
+1. Nos termos do art. 1.021, § 1º, do CPC/2015 e da Súmula 182 do STJ, o agravante deve infirmar, nas razões do agravo interno, os fundamentos da decisão impugnada, sob pena de não ser conhecido o seu recurso.
+2. Hipótese em que a recorrente não se desincumbiu do ônus de impugnar, de forma clara e objetiva, os motivos da decisão ora agravada.
+3. Agravo interno não conhecido.
+VOTO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+De início, considerando os parâmetros estabelecidos pela Corte Especial do Superior Tribunal de Justiça, no julgamento do EREsp 1.424.404/SP (rel. Ministro LUIS FELIPE SALOMÃO, julgado em 20/10/2021, DJe 17/11/2021), para a aplicação da Súmula 182 do STJ no tocante aos agravos internos manejados contra decisões proferidas em recurso especial ou em agravo em recurso especial, tem-se o seguinte:
+a) incide o verbete quando: i) o único ou todos os capítulos da decisão agravada não foi ou não foram impugnados; ii) não houver a impugnação de todos os fundamentos adotados na análise de determinado capítulo autônomo (quer dizer, ausência de ataque a fundamento capaz, por si só, de manter a conclusão alcançada na decisão agravada);
+b) não se aplica o óbice sumular no caso em que houver vários capítulos autônomos e a parte agravante não se insurgir contra algum deles, pois isso acarreta apenas a preclusão da matéria não impugnada, devendo ser analisado o que remanesceu.
+Dito isso, vê-se que, na hipótese dos autos, o agravo interno não merece ser conhecido.
+Com efeito, o decisum ora recorrido desacolheu o recurso especial fazendário, que discute a necessidade de intimação prévia para o reconhecimento do abandono de causa e de prévio recolhimento das despesas de transporte do oficial de justiça, com os seguintes fundamentos:
+i) inocorrência da alegada infringência ao art. 1.022 do CPC/2015, pois a fundamentação empregada no acórdão recorrido foi clara ao assentar que as despesas de transporte para realização de diligência por oficial de justiça não se enquadram no conceito de custas processuais e, por isso, devem ser adiantadas pela Fazenda Pública exequente; a gratificação recebidas pelos oficiais de justiça do TJPB não se destinam ao cumprimento de diligências postuladas pela Fazenda Pública; resolução do CNJ não infirma orientação jurisprudencial do STJ; a impossibilidade de reconhecimento do abandono de causa configura inovação recursal em sede de aclaratórios, porquanto não suscitada oportunamente na apelação;
+ii) os apontados arts. 485, III e § 1º, do CPC/2015 e 40 da LEF, carecem do requisito do prequestionamento, nos termos da Súmula 211 do STJ;
+iii) o entendimento adotado no acórdão recorrido acerca da necessidade de adiantamento das despesas do oficial de justiça para realização de diligência está em conformidade com a orientação jurisprudencial, o que enseja a aplicação da Súmula 83 do STJ;
+iv) o recurso especial é inadequado para examinar ofensa a resolução do CNJ, em razão desse ato normativo não se enquadrar no conceito de lei federal;
+v) a alegação de que os oficiais de justiça já receberiam gratificação para cobrir com as despesas em questão pressupõe exame de direito local, o que é inviável em sede de recurso especial, segundo inteligência da Súmula 280 do STF.
+Da leitura das razões do agravo interno, observa-se que a parte agravante não atacou nenhum dos fundamentos acima identificados.
+Destaco, por oportuno, que, inadmitido o recurso especial com base na Súmula 83 do STJ, caberia ao agravante apontar precedentes contemporâneos ou supervenientes aos referidos na decisão impugnada, procedendo ao devido cotejo analítico, a fim de demonstrar que a orientação desta Corte não se firmou no sentido do acórdão recorrido, ou, ainda, demonstrar a não subsunção do caso concreto à jurisprudência citada pela decisão de inadmissibilidade, o que não ocorreu na espécie. Com efeito, o agravante limitou-se a mencionar julgados que, à toda evidência, não cuidam da hipótese tratada nos presentes autos.
+Desse modo, forçosa se apresenta a observância do contido no art. 1.021, § 1º, do Código de Processo Civil de 2015 e na Súmula 182 do STJ.
+Deixo de aplicar a multa prevista no § 4º do art. 1.021 do CPC/2015, tendo em vista que o mero inconformismo com a decisão agravada não enseja a necessária imposição da sanção quando não configurada a manifesta inadmissibilidade ou improcedência do recurso, por decisão unânime do Colegiado, como no caso em análise.
+Ante o exposto, NÃO CONHEÇO do agravo interno.
+É como voto.
