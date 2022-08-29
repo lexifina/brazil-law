@@ -1,0 +1,44 @@
+DECISÃO
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. MANDADO DE SEGURANÇA. IPVA.REDUÇÃO DE ALÍQUOTA.DIREITO LÍQUIDO E CERTO NÃO COMPROVADO. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA.AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Agrava-se dadecisão que inadmitiu o recurso especial interposto por CAIENA LOGISTICA LTDA, com fundamento no art. 105, inciso III, alínea a, da CF/1988, no qual se insurgira contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+MANDADO DE SEGURANÇA. CADASTRAMENTO DE LOCADORA DE VEÍCULOS. REDUÇÃO ALÍQUOTA. IPVA.
+Pleito da impetrante de anulação do ato administrativo de indeferimento de seu cadastro como locadora de veículo, permissão de adesão ao PPD 2017, bem como permissão de licenciamento independentemente do pagamento do IPVA.
+R. sentença denegatória da segurança.
+Apelo da impetrante. Não acolhimento. Indeferimento do cadastro como locadora de veículos e, consequentemente, dos benefícios da redução de alíquota de IPVA (art. 9º, §§1º e 2º da Lei Estadual nº 13.296/2008) que não foi concedida à impetrante para os exercícios de 2014 e 2015, em virtude de a impetrante estar inserida no CADIN Estadual.
+Alegação pela impetrante de que a inscrição no CADIN Estadual se deu em virtude de débito relativo a IPVA de veículos que sofreram apropriação indébita nos anos de 1995 e 1998. Não comprovação nos autos da alegada apropriação indébita de referidos veículos na data do pedido de cadastramento (2014 e 2015). Boletim de Ocorrência somente realizado no ano de 2017.
+Indeferimento, ainda, do pedido da impetrante, em virtude de débitos de IPVA relativos a outros dois veículos. Manutenção do ato administrativo de indeferimento do cadastramento como locadora de veículos.
+Pedido de adesão ao PPD 2017 que também não merece acolhimento. Impetração do presente "mandamus" no final do último dia para adesão ao parcelamento do débito, mesmo tendo sido notificada em tempo hábil. Não demonstração, ainda, de preenchimento dos requisitos para adesão ao programa de parcelamento.
+Impossibilidade de licenciamento de seus veículos sem pagamento dos débitos. Não aplicação da Súmula nº 127 C. STJ, no caso concreto. Inexistência de alegação pela impetrante de não foi notificação da lavratura de eventuais multas. Observância do disposto no art. 131, §2º do CTB.
+R. sentença mantida.
+RECURSO DE APELAÇÃO DA IMPETRANTE DESPROVIDO (fls. 525/526).
+2. Os embargos de declaração opostos foram rejeitados (fls. 571/579).
+3. Nasrazões do seurecurso especial (fls. 552/562), a parte agravante sustenta,sob a alegação de violação dos arts.489 e 1.022 do CPC/2015, que a discussão acerca do benefício de redução de alíquota do IPVA não foi adequadamente apreciadapelo TJSP, bem como foi de encontro à jurisprudência da Corte local.
+4. Devidamente intimada, a parte agravada não apresentou as contrarrazões (certidão de fl. 588).
+5. Sobreveio o juízo de admissibilidade negativo (fls. 589/590), razão pela qual se interpôs o presente agravo em recurso especial, ora em análise.
+6. É o relatório.
+7. A irresignação não merece prosperar.
+8. Inicialmente, é importante ressaltar que o presente recurso atrai a incidência do Enunciado Administrativo 3 do STJ, segundo o qual aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+9. Nos  exatos  termos  do  acórdão  recorrido,  o  Tribunal  de  origem  assim  se  manifestou  sobre  o cerne da  insurgência:
+O cerne da questão é saber se é possível ou não o reconhecimento da apropriação indébita dos veículos de placas BKH 9713 e BKH 9018 nos anos de 1995 e 1998 e o consequente cancelamento dos IPVAs lançados nos anos de 2001 a 2015, permitindo, em tese, o deferimento de seu pedido de cadastramento como locadora de veículos nos anos de 2014 e 2015 com a redução em 50% dos IPVAs de seus veículos.
+(..)
+Desta feita, é possível a dispensa do pagamento do IPVA de veículo que sofreu apropriação indébita, pois esta se equipara a furto ou roubo.
+Contudo, no caso em tela, não há comprovação de que houve apropriação indébita dos veículos de placas BKH 9713 (em 1995) e BKH 9018 (em 1998) antes do pedido de cadastramento como locadora de veículos nos anos de 2015 e 2016.
+Extrai-se dos autos que o Boletim de Ocorrência relativo a supra referida apropriação indébita foi lavrado somente em 02.08.2017 (fls. 48/49), de forma que as cobranças de IPVA relativos aos exercícios de 2001 até 01.08.2017 são devidas.
+Saliento que a própria impetrante sustenta que não localizou os boletins de ocorrência lavrados à época da alegada apropriação indébita, razão pela qual efetivou um novo no ano de 2017.
+Por outro lado, a impetrante sustenta que a apropriação indébitaestá caracterizada pelo fato de não haver apontamento nos sistemas informatizados do DETRAN, de licenciamento dos veículos há quase 20 (vinte) anos, tampouco indicação de que estes sofreram multa de trânsito no período.
+De fato, ao que parece, de consulta realizada pela impetrante no "site" do DETRAN/SP, o último licenciamento do veículo de placa BKH 9018 foi relativo ao exercício de 1998 (fls. 50) e o do veículo de placa BKH 9713 foi relativo ao exercício de 1995 (fls. 51).
+No entanto, supra mencionadas informações não são capazes de afastar a cobrança de IPVA até a comprovação da apropriação indébita.
+Importa dizer que, de mencionadas fls. 50/51, também é possível extrair a informação de que havia IPVA em atraso (IPVA: VAL NÃO INF EM ATRASO), bem como de que nada constava acerca de restrição por bloqueio de furto/roubo (Restrição por bloqueio de furto/roubo: NADA CONSTA).
+Corroboram a não comprovação da apropriação indébita dos veículos BKH 9713 (em 1995) e BKH 9018 (em 1998), as informações prestadas nos processos administrativos instaurados pela impetrante, nas quais há afirmação de que, em consulta aos sistemas da Fazenda e MFDETRAN não se verificou qualquer bloqueio aos veículos relativo à comunicação de venda ou furto/roubo (fls. 310/311 e 325/326).
+Deste modo, tratando-se de mandado de segurança, o direito líquido e certo deve ser comprovado de plano, o que não ocorreu no caso em tela, pois não há comprovação acerca da apropriação indébita demencionados veículos até a lavratura do boletim de ocorrência em 2017.Assim, quando dos pedidos de cadastramento como locadora em 2015 e 2016, as cobranças da impetrante de pagamento dos IPVAs relativos aos veículos de placas BKH 9713 e BKH 9018 ainda eram devidas (fls. 537/540 - sem destaques no original).
+10.Constata-se, assim, que não se configura a alegada ofensa aos arts. 489 e 1.022 do CPC/2015, visto que o Tribunal de origem apreciou as questões relevantes ao deslinde da controvérsia de modo integral e adequado, ainda que sob ótica diversa daquela daora recorrente, não havendo falar em negativa de prestação jurisdicional.
+11.Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução, o que foi feito no presente caso.
+12.Vale destacar que o simples descontentamento da parte com o julgado não tem o condão de tornar cabíveis os embargos de declaração, que servem ao aprimoramento da decisão, mas não à sua modificação, que só excepcionalmente é admitida. Confira-se:
+TRIBUTÁRIO E PROCESSUAL CIVIL. ALEGADA VIOLAÇÃO AO ART. 535 DO CPC/1973. INEXISTÊNCIA DE VÍCIOS, NO ACÓRDÃO RECORRIDO. INCONFORMISMO.
+(..)
+5. Não se configura a alegada ofensa ao art. 535 do CPC/1973, uma vez que o Tribunal a quo julgou integralmente a lide e solucionou, de maneira amplamente fundamentada, a controvérsia, em conformidade com o que lhe foi apresentado.
+6. O simples descontentamento da parte com o julgado não tem o condão de tornar cabíveis os Embargos de Declaração, que servem ao aprimoramento da decisão, mas não à sua modificação, que só muito excepcionalmente é admitida. In casu, fica claro que não há vícios a serem sanados e que os Aclaratórios veiculam mero inconformismo com o conteúdo da decisão embargada, que foi desfavorável à recorrente.
+7. Recorde-se, ademais, que o órgão julgador não é obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+8. Agravo conhecido para conhecer do Recurso Especial, apenas quanto à ofensa ao art. 535 do CPC e, nessa parte, negar-lhe provimento (AREsp 1.579.801/BA, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 25/06/2020).
+13. Diante do exposto, conheço do agravo interposto por CAIENA LOGISTICA LTDA para negar provimento ao recurso especial.
+14.Publique-se. Intimações necessárias.
