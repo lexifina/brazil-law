@@ -1,0 +1,99 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 23/08/2022 a 29/08/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): Cuida-se de agravo interno interposto por LUDGERO FRANKINI CRUZ em face de decisão monocrática da lavra deste signatário que negou provimento ao agravo em recurso especial.
+O aludido apelo extremo, fundado nas alíneas "a" e "c" do permissivo constitucional, desafiou acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (e-STJ, fl. 246):
+APELAÇÃO CÍVEL. POSSE (BENS IMÓVEIS). INTERDITO PROIBITÓRIO. INVALIDADE DA ASSEMBLEIA CONDOMINIAL POR SUPOSTA INOBSERVÂNCIA DO QUORUM NECESSÁRIO. PRINCÍPIO DA ESTABILIDADE OBJETIVA DA DEMANDA. Pelo princípio da estabilidade objetiva da demanda as partes não podem alterar o pedido nem as questões e os fatos suscitados na petição inicial e na contestação. As questões e os fatos não deduzidos pelas partes no momento processual próprio configuram afronta ao princípio supramencionado. No caso concreto, a alegação de falta de quorum para a aprovação da nova regra do condomínio quanto à utilização de áreas de lazer ocorreu apenas na réplica. Apelação não conhecida no ponto. INTERDITO PROIBITÓRIO. O possuidor direto ou indireto, que tenha justo receio de ser molestado na posse, poderá impetrar ao juiz que o segure da turbação ou esbulho iminente, mediante mandado proibitório, em que se comine ao réu determinada pena pecuniária, caso transgrida o preceito. Tratando-se de condomínio, as deliberações aprovadas em assembleia regulamentando o uso de áreas comuns devem ser observados por todos os condôminos. Na hipótese dos autos, o fato de o condomínio ter deliberado em assembleia a vedação do uso de piscinas, ofurô e spa pelos locatários temporários não corresponde a um ato real e concreto de ameaça de esbulho ou turbação à posse exercida pelo autor, o qual, na condição de condômino, continua com a possibilidade de utilização das áreas de lazer. APELAÇÃO PARCIALMENTE CONHECIDA E, NESTA PARTE, DESPROVIDA.
+Opostos embargos de declaração, esses foram rejeitados (e-STJ, fls. 283-288).
+Nas razões do especial (e-STJ, fls. 296-341), a parte recorrente sustentou violação aos seguintes dispositivos:
+a) arts. 489 e 1022 do Código de Processo Civil de 2015, defendendo que a Corte de origem não sanou omissões supostamente perpetradas pelo acórdão embargado, mesmo diante da oposição dos embargos declaratórios, o que teria configurado negativa de prestação jurisdicional;
+b) arts. 1.196, 1.197 e 1.210, 1.333, 1.351, 1.228, 1.332, III, 1.335 I e II, 1.336, 1.339, caput, 1.196, 1.197 e 1.210, todos do Código Civil Brasileiro; art. 567, do CPC, e art. 48, da Lei nº 8.245/91, alegando que a assembleia na qual foi estipulada a restrição de uso das áreas de lazer pelos locatários não contou com o quórum de 2/3 exigido pela lei, razão pela qual restou configurado o esbulho pelo condomínio ao proibir o uso das áreas de lazer por locatários por temporada;
+c) arts. 329 e 1.014, do CPC, aduzindo a inexistência de inovação recursal;
+d) art. 5º, XXII, da CF/88.
+Apontou, ainda, divergência jurisprudencial.
+Oferecidas as contrarrazões às fls. 410-421 (e-STJ).
+Em sede de juízo provisório de admissibilidade, o Tribunal local negou seguimento ao recurso especial (fls. 424-430, e-STJ), o que ensejou o manejo do agravo (fls. 447-495, e-STJ), buscando destrancar o processamento daquela insurgência.
+Em decisão monocrática (e-STJ, fls. 585-592), este signatário negou provimento ao recurso especial em razão da ausência de negativa de prestação jurisdicional; não cabimento de recurso especial para examinar matéria constitucional e incidência das Súmulas 283/STF e 284/STF.
+No presente agravo interno (e-STJ, fls. 595-607), o ora agravante combate os fundamentos supracitados e reitera os mesmos argumentos lançados nas razões do apelo extremo.
+Requer, por fim, a reconsideração da decisão monocrática ou sua reforma pelo Colegiado.
+Impugnação às fls. 609-619 (e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EMRECURSO ESPECIAL - AÇÃO DE INTERDITO PROIBITÓRIO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA RECURSAL DO AUTOR.
+1. Não há falar em ofensa ao art. 1022 do CPC/15, porquanto todas as questões fundamentais ao deslinde da controvérsia foram apreciadas pelo Tribunal a quo, sendo que não caracteriza omissão ou falta de fundamentação a mera decisão contrária ao interesse da parte, tal como na hipótese dos autos.
+2. Não cabe ao Superior Tribunal de Justiça, em sede de recurso especial, o exame de eventual ofensa a dispositivo da Constituição Federal, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal.
+3. A subsistência de fundamento inatacado, apto a manter a conclusão do aresto impugnado, e a apresentação de razões dissociadas desse fundamento, impõe o reconhecimento da incidência das Súmulas 283 e 284 do STF, por analogia.
+4. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): O agravo interno não merece acolhida, porquanto os argumentos tecidos pela parte agravante são incapazes de infirmar a decisão agravada, motivo pelo qual merece ser mantida na íntegra, por seus próprios fundamentos.
+1. Consoante asseverado na decisão singular, a apontada violação aos arts. 489 e 1.022 do CPC/15 não se configura.
+Constata-se, da leitura do aresto objurgado, que a Corte estadual, ao apreciar o recurso interposto pela parte, dirimiu a controvérsia e decidiu as questões postas à apreciação de forma suficientemente fundamentada, sem omissões, manifestando-se expressamente no sentido de que o fato de o Condomínio ter deliberado em assembleia a vedação do uso de determinadas áreas pelos locatários temporários não corresponde a um ato real e concreto de ameaça de esbulho ou turbação à posse exercida pelo autor, porém, em sentido contrário ao pretendido pela recorrente, o que não configura negativa de prestação jurisdicional ou deficiência de fundamentação.
+Assim constou do acórdão (fl. 242, e-STJ):
+Não se desconhece que a sentença rapidamente chegou a mencionar que o quorum de 2/3 para a aprovação da nova regra fora atingido. Porém, o que se verifica é que a alegação de falta de quorum só veio na réplica, o que viola o princípio da estabilidade objetiva da demanda e, por consequência, implica o seu não conhecimento. Enfim, ausente o requisito extrínseco da regularidade formal, o recurso não pode ser conhecido no ponto.
+(..)
+O fato de o Condomínio ter deliberado em assembleia a vedação do uso de determinadas áreas pelos locatários temporários não corresponde a um ato real e concreto de ameaça de esbulho ou turbação à posse exercida pelo autor. Em outras palavras, dos fatos narrados não se extrai um justo receio de que o Condomínio, efetivamente, está na iminência de molestar a posse do requerente, inclusive e principalmente porque a restrição de uso impugnada restou estabelecida por assembleia condominial, cujo procedimento - conforme já destacado - não é  e nem poderia ser  impugnado pelo presente interdito proibitório. A composse dos condôminos nas áres comuns - piscinas, ofurô e spa - continua expressamente assegurada ao condômino, inclusive com a possibilidade de se fazer acompanhar por até três convidados.
+(..)
+A vedação de utilização das piscinas, ofurô e spa por locatários por temporada caracteriza-se como regra de convivência que não atinge o direito de propriedade dos condôminos, motivo pelo qual por todos deve ser observada.
+Não é demais lembrar a orientação desta Corte no sentido de que o julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, nem a indicar todos os dispositivos legais suscitados, quando tenha encontrado motivação satisfatória para dirimir o litígio.
+Nesse sentido, confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO. SUFICIÊNCIA. AGRAVO DE INSTRUMENTO INTERPOSTO CONTRA DECISÃO QUE PÔS TERMO À EXECUÇÃO. INAPLICABILIDADE DO PRINCÍPIO DA FUNGIBILIDADE, PORQUANTO NÃO HÁ DÚVIDA A RESPEITO DO RECURSO ADEQUADO. AGRAVO NÃO PROVIDO.
+1. Não há violação aos arts. 489 e 1.022 do Código de Processo Civil de 2015, tendo em vista que o v. acórdão recorrido, embora não tenha examinado individualmente cada um dos argumentos suscitados pela parte, adotou fundamentação suficiente, decidindo integralmente a controvérsia.
+2. A interposição de agravo de instrumento contra sentença que extingue processo de execução configura erro grosseiro e inviabiliza a aplicação do princípio da fungibilidade recursal. Precedentes.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1520112/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 04/02/2020, DJe 13/02/2020)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. OMISSÃO. INEXISTÊNCIA. ACÓRDÃO DEVIDAMENTE FUNDAMENTADO. ENTENDIMENTO NO SENTIDO DA AUSÊNCIA DE NOVAÇÃO. MERO PARCELAMENTO DA DÍVIDA. SÚMULAS 5 E 7/STJ. APLICAÇÃO.
+AGRAVO INTERNO DESPROVIDO.
+1. Inexistem omissões ou mesmo contradição a serem sanadas no julgamento estadual, portanto inexistentes os requisitos para reconhecimento de ofensa aos arts. 10, 489, § 1º, IV e VI, e 1.022 do CPC/2015 do novo CPC. O acórdão dirimiu a controvérsia com base em fundamentação sólida, sem tais vícios, o que não se confunde com omissão ou contradição, tendo em vista que apenas resolveu a celeuma em sentido contrário ao postulado pela parte insurgente. Ademais, o órgão julgador não está obrigado a responder a questionamentos das partes, mas apenas a declinar as razões de seu convencimento motivado, como de fato ocorre nos autos.
+(..)
+3. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp 1445088/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 16/12/2019, DJe 19/12/2019)
+Ressalta-se que não há falar em omissão quando não acolhida a tese ventilada pelo recorrente, mormente se o acórdão abordar todos os pontos relevantes ao deslinde do feito, como ocorre na hipótese.
+Inexiste, portanto, violação ao artigo 1.022 do CPC/15, visto que as questões foram apreciadas pelo Tribunal de origem, cuja fundamentação foi clara e suficiente para o deslinde da controvérsia.
+2. Em suas razões de recurso especial, a parte alegou violação ao art. 5º, XXII, da Constituição Federal;.
+Todavia, consoante asseverado na decisão singular, esta Corte tem entendimento firmado no sentido de que a via especial é inadequada para análise de arguição de contrariedade a texto constitucional, sob pena de usurpação da competência atribuída ao STF.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - CUMPRIMENTO DE SENTENÇA - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO - INSURGÊNCIA DA AGRAVANTE. (..) 2. Nos termos do artigo 102 da Constituição Federal, reserva-se ao Supremo Tribunal Federal a competência para apreciar ofensas a dispositivos constitucionais. Desse modo, sob pena de usurpação, não pode o Superior Tribunal de Justiça analisar alegadas violações a dispositivos constitucionais. Precedentes. (..) 6. Agravo interno parcialmente conhecido e, nessa extensão, desprovido. (AgInt no AREsp 899.863/DF, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 10/04/2018, DJe 17/04/2018)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO INCAPAZ DE ALTERAR O JULGADO. ANÁLISE DE DISPOSITIVO CONSTITUCIONAL. IMPOSSIBILIDADE. ADMISSIBILIDADE. DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO. ART. 932, INCISO III, DO CPC/2015. (..) 2. Não cabe ao Superior Tribunal de Justiça, em recurso especial, o exame de eventual ofensa a dispositivo da Constituição Federal, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal. (..) 4. Agravo interno não provido. (AgInt no AREsp 1206969/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 10/04/2018, DJe 13/04/2018)
+3. Em relação à alegada ofensa aos arts. 1.196, 1.197 e 1.210, 1.333, 1.351, 1.228, 1.332, III, 1.335 I e II, 1.336, 1.339, caput, 1.196, 1.197 e 1.210, todos do Código Civil Brasileiro; art. 567, do CPC, e art. 48, da Lei nº 8.245/91, a decisão agravada merece ser mantida.
+No caso, o recorrente sustentou que a assembleia na qual foi estipulada a restrição de uso das áreas de lazer pelos locatários não contou com o quórum de 2/3 exigido pela lei, razão pela qual restou configurado o esbulho pelo condomínio ao proibir o uso das áreas de lazer por locatários por temporada. Apontou, ainda, ofensa aos arts. 329 e 1.014, do CPC, alegando a inexistência de inovação recursal quanto à referida tese.
+Sobre o tema, a Corte estadual asseverou o seguinte (fl. 242, e-STJ):
+Não se desconhece que a sentença rapidamente chegou a mencionar que o quorum de 2/3 para a aprovação da nova regra fora atingido. Porém, o que se verifica é que a alegação de falta de quorum só veio na réplica, o que viola o princípio da estabilidade objetiva da demanda e, por consequência, implica o seu não conhecimento. Enfim, ausente o requisito extrínseco da regularidade formal, o recurso não pode ser conhecido no ponto.
+(..)
+O fato de o Condomínio ter deliberado em assembleia a vedação do uso de determinadas áreas pelos locatários temporários não corresponde a um ato real e concreto de ameaça de esbulho ou turbação à posse exercida pelo autor. Em outras palavras, dos fatos narrados não se extrai um justo receio de que o Condomínio, efetivamente, está na iminência de molestar a posse do requerente, inclusive e principalmente porque a restrição de uso impugnada restou estabelecida por assembleia condominial, cujo procedimento - conforme já destacado - não é  e nem poderia ser  impugnado pelo presente interdito proibitório. A composse dos condôminos nas áreas comuns - piscinas, ofurô e spa - continua expressamente assegurada ao condômino, inclusive com a possibilidade de se fazer acompanhar por até três convidados.
+(..)
+A vedação de utilização das piscinas, ofurô e spa por locatários por temporada caracteriza-se como regra de convivência que não atinge o direito de propriedade dos condôminos, motivo pelo qual por todos deve ser observada.
+Como se vê, a Corte concluiu que o agravante trouxe a tese referente ao quorum da assembleia somente na réplica, violando o princípio da estabilidade da objetiva da demanda, razão pela qual a apelação não foi conhecida no ponto.
+O Tribunal consignou, ainda, que a ação possessória não seria a via adequada porque não se vislumbra ameaça de esbulho ou turbação à posse; consignou que a vedação de utilização das piscinas, ofurô e spa por locatários por temporada caracteriza-se como regra de convivência, e não como restrição à posse, e que a composse do recorrente continua assegurada, podendo ele utilizar as referidas áreas com até três convidados.
+Contudo, malgrado o esforço argumentativo, a parte recorrente não logrou infirmar, nas razões do especial, os fundamentos acima destacados, tecendo argumentos dissociados e insistindo nas teses de ameaça à posse e ausência de quórum na assembleia.
+Desse modo, tendo em vista a falta de impugnação específica ao principal fundamento do acórdão e a apresentação de razões dissociadas do que foi decidido pela Corte estadual, a pretensão reformatória encontra obstáculo nas Súmulas n. 283 e 284 do STF.
+A propósito:
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. PREQUESTIONAMENTO. SÚMULA 211 DO STJ. NULIDADE. AUSÊNCIA DE PREJUÍZO. PRECEDENTES. ARTS. 489 E 1.022, DO CPC/2015 NÃO VERIFICADA. OMISSÕES E DEFICIÊNCIA DE FUNDAMENTAÇÃO. NÃO OCORRÊNCIA. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. EXCESSO DE EXECUÇÃO. INCIDÊNCIA DE JUROS REMUNERATÓRIOS DE 12% AO ANO, COM CAPITALIZAÇÃO MENSAL. PRETENSÃO DE ALTERAÇÃO DE CRITÉRIOS DE CÁLCULO QUE OFENDE A COISA JULGADA.REVISÃO. SÚMULA 7/STJ. FUNDAMENTO INATACADO E ARGUMENTAÇÃO DEFICIENTE. SÚMULAS 283 E 284 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+5. Ademais, verifica-se a falta de impugnação objetiva e direta ao fundamento central do acórdão recorrido, o que denota a deficiência da fundamentação recursal que se apegou a considerações secundárias e que de fato não constituíram objeto de decisão pelo Tribunal de origem, a fazer incidir, no particular, as Súmulas 283 e 284 do STF.
+(..)
+7. Agravo interno não provido. (AgInt no AREsp 1319574/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 19/03/2019, DJe 29/04/2019)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. PROCESSO CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. HONORÁRIOS ADVOCATÍCIOS. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. REEXAME. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO IMPROVIDO.
+(..)
+3. A falta de impugnação de fundamento suficiente para manter, por si só, o acórdão impugnado, a argumentação dissociada bem como a ausência de demonstração da suposta violação à legislação federal impedem o conhecimento do recurso, incidindo, por analogia, os enunciados n. 283 e 284 da Súmula do Supremo Tribunal Federal.
+4. A revisão das conclusões estaduais demandaria, necessariamente, o revolvimento do acervo fático-probatório dos autos, providência vedada na via estreita do recurso especial, ante o óbice da Súmula n. 7 do STJ.
+5. Agravo interno improvido.
+(AgInt no AREsp 1521318/DF, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 16/03/2020, DJe 20/03/2020)
+4. Por fim, cabe salientar que a incidência da Súmula 283 do STF sobre o tema objeto da suposta divergência também impede o conhecimento do recurso lastreado na alínea c do inciso III do art. 105 da Constituição Federal.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE PRESTAÇÃO DE CONTAS. 1. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA A TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. FUNDAMENTO QUE PERMANECE INCÓLUME. PRINCÍPIO DA DIALETICIDADE. 2. VIOLAÇÃO DE DISPOSITIVO CONSTITUCIONAL. IMPOSSIBILIDADE DE EXAME PELO STJ. 3. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. OMISSÃO NO ACÓRDÃO RECORRIDO. NÃO OCORRÊNCIA. 4. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA 283/STF. 5. ACÓRDÃO QUE DECIDIU COM BASE NOS ELEMENTOS DOS AUTOS E DO CONTRATO FIRMADO ENTRE AS PARTES. REVISÃO. SÚMULAS 5 E 7 DO STJ. 6. AGRAVO IMPROVIDO.
+(..)
+4.1. Com efeito, se a pretensão do recorrente foi afastada por ausência de impugnação ao fundamento central do acórdão recorrido, suficiente para mantê-lo, o conhecimento do recurso especial fica inviabilizado tanto em relação à alínea a como pela alínea c, em razão do óbice da Súmula n. 283 do STF.
+(..)
+(AgInt no AREsp 1290870/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 28/08/2018, DJe 05/09/2018)
+AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - AÇÃO DE RESPONSABILIDADE SECURITÁRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DOS AUTORES.
+(..)
+2. A ausência de impugnação a fundamento do acórdão recorrido atrai o óbice da Súmula 283/STF, aplicável por analogia.
+3. Outrossim, "o óbice da Súmula 283/STF aplica-se indistintamente aos recursos especiais apresentados com fundamento na alínea "a" e na alínea "c" do permissivo constitucional" (AgInt no AREsp 1207118/SP, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 03/04/2018, DJe 06/04/2018). Precedentes.
+4. Agravo interno desprovido.
+(AgInt no AREsp 1102946/PR, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 08/05/2018, DJe 17/05/2018)
+De rigor, portanto, a manutenção da decisão agravada.
+5. Do exposto, nega-se provimento ao agravo interno.
+É como voto.
