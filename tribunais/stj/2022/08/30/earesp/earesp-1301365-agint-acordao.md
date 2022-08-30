@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA SEÇÃO do Superior Tribunal de Justiça, em sessão virtual de 24/08/2022 a 30/08/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Luis Felipe Salomão, Raul Araújo, Paulo de Tarso Sanseverino, Maria Isabel Gallotti, Ricardo Villas Bôas Cueva, Marco Buzzi e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Antonio Carlos Ferreira.
+RELATÓRIO
+Trata-se de agravo interno interposto porCaixa de Previdência dos Funcionários do Banco do Brasil - PREVI contra a decisão que indeferiu liminarmente os embargos de divergência, assim ementada:
+EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL.ACÓRDÃO EMBARGADO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. INCIDÊNCIA DA SÚMULA 168/STJ.EMBARGOS INDEFERIDOS LIMINARMENTE.
+Sustenta a agravante, em síntese, que "inexiste um uníssono entendimento acerca do tema, vislumbrando-se, a bem da verdade, uma certa oscilação nos entendimentos que vêm sendo adotados por esta Corte de Uniformização de Jurisprudência" (e-STJ, fl. 421), razão pela qual deve ser afastada a incidência do óbice da Súmula 168/STJ, a fim de permitir o processamento dos embargos de divergência.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL.ACÓRDÃO EMBARGADO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. INCIDÊNCIA DA SÚMULA 168/STJ.EMBARGOS INDEFERIDOS LIMINARMENTE. MANUTENÇÃO DA DECISÃO AGRAVADA. AGRAVO DESPROVIDO.
+1. Estandoo acórdão embargado em consonância com o atual entendimento desta Corte Superior, no sentido de não se admitir o ajuizamento de ação rescisória se, no momento da prolação do acórdão rescindendo, havia divergência jurisprudencial a respeito da interpretação da referida legislação, nos estritos limites da Súmula n. 343/STF, não se mostra possível o processamento dos embargos de divergência, tendo em vista o óbice da Súmula 168/STJ.
+2. Agravo interno desprovido.
+VOTO
+O agravo não merece provimento.
+Conforme consignado na decisão agravada,constata-se que o acórdão embargado está em consonância com o atual entendimento da Terceira Turma desta Corte Superior, no sentido de não se admitir o ajuizamento de ação rescisória se, no momento da prolação do acórdão rescindendo, havia divergência jurisprudencial a respeito da interpretação da referida legislação, nos estritos limites da Súmula n. 343/STF: "Não cabe ação rescisória por ofensa a literal disposição de lei, quando a decisão rescindenda se tiver baseado em texto legal de interpretação controvertida nos Tribunais".
+Confira-se, a propósito, julgado posterior ao acórdão apontado como paradigma, tratando, inclusive, do mesmo assunto aqui discutido, in verbis:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO RESCISÓRIA FUNDADA EM VIOLAÇÃO LITERAL A ARTIGO DE LEI E EM ERRO DE FATO. AUXÍLIO-CESTA-ALIMENTAÇÃO. EXTENSÃO AOS INATIVOS. CONVENÇÃO COLETIVA DE TRABALHO.COMPLEMENTAÇÃO DE APOSENTADORIA. ORIENTAÇÃO DO STJ PACIFICADA NOS TERMOS DO ART. 543-C DO CPC/1973. NATUREZA INDENIZATÓRIA. NÃO INCORPORAÇÃO. IMPOSSIBILIDADE DE RESCISÃO DO ACÓRDÃO QUE DETERMINOU A INCLUSÃO DESSA VERBA NO BENEFÍCIO PREVIDENCIÁRIO DOS ORA RECORRIDOS.PACIFICAÇÃO APÓS A PUBLICAÇÃO DO ARESTO RESCINDENDO.DESCABIMENTO DA AÇÃO RESCISÓRIA. SÚMULA 343/STF. ERRO DE FATO NÃO EVIDENCIADO. ILEGITIMIDADE PASSIVA DO ADVOGADO DA PARTE NO FEITO ORIGINÁRIO. AUTONOMIA DA VERBA HONORÁRIA EM RELAÇÃO AO MÉRITO DA DEMANDA. AGRAVO INTERNOIMPROVIDO.
+1. A atual jurisprudência da Segunda Seção está consolidada no sentido de não admitir o ajuizamento de ação rescisória se, no momento da prolação do acórdão rescindendo, havia divergência jurisprudencial a respeito da interpretação da referida legislação, nos estritos limites da Súmula n. 343/STF: "Não cabe ação rescisória por ofensa a literal disposição de lei, quando a decisão rescindenda se tiver baseado em texto legal de interpretação controvertida nos Tribunais".
+2. Nesse contexto, para fins da incidência da Súmula n. 343/STF, o momento a ser considerado como de pacificação jurisprudencial é aquele em que proferida a decisão rescindenda, e não a data de seu trânsito em julgado. Assim sendo, considerando que, no caso, a alteração do posicionamento jurisprudencial a respeito do tema controvertido - impossibilidade da inclusão do auxílio cesta- alimentação na complementação de aposentadoria - foi posterior à manifestação judicial que se pretende modificar, não é viável o manejo da rescisória.
+2.1. Não há erro de fato capaz de justificar a propositura de ação rescisória quando a questão foi devidamente debatida na ação originária.
+3. O advogado em favor de quem foram arbitrados honorários sucumbenciais na ação rescindenda é parte ilegítima para figurar no polo passivo da ação rescisória.
+4. Agravo interno improvido.
+(AgInt no AREsp n. 1.857.848/RS, de minha Relatoria, DJe de 14/10/2021)
+A Segunda Seção do STJ, inclusive, já ratificou esse entendimento:
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. AÇÃO RESCISÓRIA. HIPÓTESES DE CABIMENTO.POSTERIOR ALTERAÇÃO JURISPRUDENCIAL. INADMISSIBILIDADE.SÚMULA 343/STF. JURISPRUDÊNCIA CONSOLIDADA NO SUPREMO TRIBUNAL FEDERAL E NO SUPERIOR TRIBUNAL DE JUSTIÇA. SÚMULA 168/STJ. INADMISSIBILIDADE DOS EMBARGOS DE DIVERGÊNCIA.AGRAVO INTERNO DESPROVIDO.
+1. Nos moldes da Súmula 168/STJ, "não cabem embargos de divergência, quando a jurisprudência do Tribunal se firmou no mesmo sentido do acórdão embargado".
+2. O acórdão impugnado fez incidir no caso em análise o entendimento consolidado do Superior Tribunal de Justiça e do col. Supremo Tribunal Federal (AR 2.236), de que não cabe ação rescisória para a alteração de julgados com fundamento em posterior consolidação jurisprudencial da matéria em sentido diverso, mesmo que resultante de julgamento realizado sob o rito de resolução de recursos repetitivos ou no controle difuso de constitucionalidade.
+3. No julgamento das Ações Rescisórias nº 5.311/RJ e 5.160/RJ, a eg.
+Segunda Seção desta Corte consolidou entendimento no sentido de ser descabida a pretensão rescisória de, sob o argumento da ocorrência de violação a literal disposição de lei, fazer prevalecer o novo entendimento da Corte acerca da matéria, em sentido diverso daquele adotado anteriormentepelo acórdão rescindendo.
+4. Na oportunidade, destacou-se que o colendo Supremo Tribunal Federal, reafirmando o teor de sua Súmula 343 (Não cabe ação rescisória por ofensa a literal disposição de lei, quando a decisão rescindenda se tiver baseado em texto legal de interpretação controvertida nos Tribunais), esclareceu que não é apropriado o manejo de ação rescisória para "uniformização da jurisprudência" (RE 590.809).
+5. Agravo interno a que se nega provimento.
+(AgInt nos EREsp 1.717.140/RS, Relator o Ministro Raul Araújo, DJe de 27/8/2019)
+Ressalte-se, ainda,que os precedentes trazidos pela agravante para tentar comprovar a existência de divergência sobre o tema são todos anteriores aosjulgados acima colacionados, evidenciando que, embora houvesse divergência anteriormente, esta não mais subsiste, notadamente após o julgamento da questão pela Segunda Seção do STJ no AgInt nos EREsp 1.717.140/RS.
+Dessa forma, tem incidência, na espécie, o teor da Súmula 168/STJ, que assim dispõe:
+Não cabem embargos de divergência, quando a jurisprudência do Tribunal se firmou no mesmo sentido do acórdão embargado.
+Ante o exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de embargos manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
