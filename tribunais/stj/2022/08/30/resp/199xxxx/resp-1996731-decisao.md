@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso especial interposto pela FAZENDA NACIONALcom fundamento na alínea "a" do permissivo constitucionalcontra acórdão proferido pelo Tribunal Regional Federal da 4ª Região assim ementado (e-STJ fl. 175):
+TRIBUTÁRIO. IMPOSTO DE RENDA. CONTRATO DE REPRESENTAÇÃO COMERCIAL. RESCISÃO SEM JUSTO MOTIVO. NÃO INCIDÊNCIA DO TRIBUTO. INTELIGÊNCIA DO ART. 27, "J" C/C ART. 35 DA LEI 4.886, DE 1965. JURISPRUDÊNCIA UNIFORME DA 1ª E 2ª TURMAS DO SUPERIOR TRIBUNAL DE JUSTIÇA.
+Nas razões de recurso (e-STJ fls. 185/188), a parte recorrente aponta violação do art. 27, "j", da Lei n. 4.886/1965.
+Sustenta, em síntese, que incidiria imposto de renda sobre o valor recebido a título de rescisão bilateral, sem justa causa, de contrato de representação comercial, pois a verba, no caso, teria natureza remuneratória e não indenizatória.
+Contrarrazões às e-STJ fls. 194/199.
+Recurso especial admitido (e-STJ fl. 202).
+Passo a decidir.
+Na instância originária, cuida-se de ação declaratória de inexistência de relação jurídico-tributária, cumulada com pedido de repetição de indébito, mediante a qual se busca "declarar a inexigibilidade do crédito tributário caracterizado pelo IRRF código de receita 9385 dos Comprovantes de Arrecadaçãocom valores R$ 66.449,64 (sessenta e seis mil quatrocentos e quarenta e nove reais e sessenta e quatro centavos) e R$ 66.176,47 (sessenta e seis mil cento e setenta e seis reais e quarenta e sete centavos) recolhidas em 03/04/2019 e 13/02/2020 respectivamente sobre verbas de caráter indenizatória decorrente de rescisão de contrato de representação" (e-STJ fl. 10), bem como a repetição do indébito tributário.
+Pedido julgado procedente, por sentença.
+Apelação desprovida.
+A pretensão recursal não merece acolhimento, pois destoa da orientação jurisprudencial deste Superior Tribunal.
+De fato, "a jurisprudência do STJ se firmou no sentido de que o pagamento feito com base no art. 27, "j", da Lei 4.886/1965, a título de indenização, multa ou cláusula penal, pela rescisão antecipada do contrato de representação comercial, é isento, nos termos do art. 70, § 5º, da Lei 9.430/1996, do Imposto de Renda. Precedentes de ambas as Turmas da Seção de Direito Público do STJ" (AgRg no REsp 1556693/RS, rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 02/02/2016, DJe 20/05/2016).
+Ilustrativamente:
+PROCESSUAL CIVIL. TRIBUTÁRIO. RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 1973. APLICABILIDADE. AUSÊNCIA DE PRÉ-QUESTIONAMENTO DOS ARTS. 70, § 5º, DA LEI N. 9.430/96, E 681, § 5º, DO DECRETO N. 3.000/99. IMPOSTO SOBRE A RENDA. INCIDÊNCIA SOBRE VALORES ORIUNDOS DE RESCISÃO IMOTIVADA DE CONTRATO DE REPRESENTAÇÃO COMERCIAL. ART. 27, J, DA LEI N. 4.886/65. NATUREZA INDENIZATÓRIA. HIPÓTESE DE INCIDÊNCIA AFASTADA. PEDIDO DE RESTITUIÇÃO. RETORNO DOS AUTOS À ORIGEM PARA JULGAMENTO DA CASUÍSTICA DA REPETIÇÃO DO INDÉBITO. HONORÁRIOS ADVOCATÍCIOS. FIXAÇÃO PELA CORTE A QUO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 1973.
+II - É entendimento pacífico desta Corte que a ausência de enfrentamento da questão objeto da controvérsia pelo Tribunal a quo impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do pré-questionamento, nos termos da Súmula n. 282 do Supremo Tribunal Federal.
+III - Na espécie, controverte-se acerca da incidência do Imposto de Renda sobre os valores oriundos da rescisão unilateral imotivada de contrato de representação comercial, estabelecida pelo art. 27, j, da Lei n. 4.886/65, com a redação dada pela Lei n. 8.420/92.
+IV - Esta Corte possui entendimento segundo o qual não incide Imposto de Renda sobre a verba recebida em virtude de rescisão sem justa causa de contrato de representação comercial disciplinado pela Lei n. 4.886/65, porquanto a sua natureza indenizatória decorre da própria lei que a instituiu. Precedentes.
+V - Tratando-se de ação com pedido cumulado de repetição de indébito, impõe-se o retorno dos autos à origem, a fim de que sejam examinados, sob pena de supressão de instância e de incorrer-se em reexame fático-probatório, os consectários da modificação do entendimento firmado pela instância ordinária, especialmente, mas não só, a prova do pagamento indevido.
+VI - Honorários advocatícios que deverão ser fixados pelo Tribunal de origem após a conclusão do julgamento do pedido de repetição do indébito.
+VII - Recurso Especial parcialmente provido.
+(REsp 1317641/RS, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 10/05/2016, DJe 18/05/2016).
+TRIBUTÁRIO E PROCESSUAL CIVIL. AUSÊNCIA DE OMISSÃO. ART. 1.022, II, DO CPC. FALTA PARCIAL DE PREQUESTIONAMENTO. SÚMULA 211/STJ. DISTRATO. REPRESENTAÇÃO COMERCIAL.
+1. Não se configurou a ofensa ao art. 1.022, II, do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia como lhe foi apresentada.
+2. A indicada afronta ao art. 489, § 1º, do CPC/2015 não pode ser analisada, pois o Tribunal de origem não emitiu juízo de valor sobre esse dispositivo legal. O Superior Tribunal de Justiça entende ser inviável o conhecimento do Recurso Especial quando os artigos tidos por violados não foram apreciados pelo Tribunal a quo, a despeito da oposição de Embargos de Declaração, haja vista a ausência do requisito do prequestionamento. Incide, na espécie, a Súmula 211/STJ.
+3. Depreende-se pela análise detida dos autos que houve infringência aos dispositivos legais mencionados, visto que a Corte de origem interpretou incorretamente tais normas. A jurisprudência do STJ se firmou no sentido de que o pagamento feito com base no art. 27, "j", da Lei 4.886/1965, a título de indenização, multa ou cláusula penal, pela rescisão antecipada do contrato de representação comercial, é isento, nos termos do art. 70, § 5º, da Lei 9.430/1996, do Imposto de Renda.
+4. Recurso Especial parcialmente conhecido e, nessa parte, provido.
+(REsp 1737954/PE, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 07/06/2018, DJe 28/11/2018).
+Com efeito, sendo a natureza indenizatória, nos expressos termos da jurisprudência citada, decorrência da própria lei instituidora, não há mesmo como incidir imposto de renda sobre o pagamento da verba, no caso.
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Majoro, em desfavor da parte recorrente, em 10% o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, caso aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo.
+Publique-se. Intimem-se.
