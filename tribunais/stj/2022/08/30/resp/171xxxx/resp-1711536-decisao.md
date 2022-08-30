@@ -1,0 +1,34 @@
+DECISÃO
+Tarcisio Dias dos Santos e Sandra Mattos dos Santosajuizaramaçãocontra Uniãopleiteando, em suma, anulação do processo administrativo que demarcou a linha de preamar média de 1831 no litoral do Estado do Rio de Janeiro, por ausência de intimação pessoal, e por erro na fixação da linha.
+A sentença julgou os pedidos procedentespara anular o processo administrativo, as averbações já realizadas em cartório, a inscrição em dívida ativa, e determinar à União que procedesse a intimação da parte autora e a ciência à Fazenda quanto à extinção das execuções fiscais(fls. 139-160).
+O Tribunal Regional Federal da 2ª Regiãomanteve a sentença, nos termos assim ementados (fl. 429):
+DIREITO ADMINISTRATIVO. APELAÇÃO. TERRENO DE MARINHA. TAXA DE OCUPAÇÃO. FORO/LAUDÊMIO. PROCEDIMENTO DEMARCATÓRIO. PRESCRIÇÃO. INOCORRÊNCIA. LINHA PREAMAR. PIRATININGA. INTIMAÇÃO PESSOAL DOS INTERESSADOS. NECESSIDADE.
+1. A sentença invalidou o procedimento demarcatório nº 10768-007612/97-20, em relação aos autores, a partir da publicação do Edital nº 1/2001, determinando a notificação pessoal para oferecer impugnação, em 10 (dias), acerca da fixação da linha preamar, e só depois desse prazo, ou da decisão administrativa final, em caso de recurso, poderão ser retomadas as cobranças individuais e averbações nos Cartórios, anulando as últimas realizadas e também a inscrição em dívida ativa dos débitos decorrentes.
+2. A Primeira Seção do STJ, em 08/09/2010, no REsp 1.183.546/ES, sob o rito dos recursos repetitivos, decidiu que no processo demarcatório da Linha Preamar, os interessados devem ser notificados pessoalmente, e mesmo depois da Lei nº 11.481/07,que instituiu a intimação exclusivamente por edital, o STF, em 16/3/2011, na Medida Cautelar em ADin nº 4264, declarou que a intimação pessoal do interessado é necessária para assegurar o devido processo legal no processo demarcatório.
+3. De forma genérica, os interessados foram convidados pelo edital nº 1/1997 para apresentar plantas ou documentos dos terrenos abrangidos na área a ser demarcada e, depois, notificados da aprovação da demarcação, para eventual impugnação, por meio dos Edital nº 1/2001.
+4. A mera intimação por edital é ineficaz para legitimar o processo demarcatório da faixa de marinha, sendo mister a notificação pessoal, não realizada na época própria, nem a posteriori.
+5. O art. 13 do DL 9760/46, que prevê a ciência dos interessados acerca da fixação da LPM também por edital, deve ser interpretado conforme a Constituição, para admitir-se a citação editalícia apenas de interessados incertos, observando-se, assim, princípios constitucionais da ampla defesa e do contraditório.
+6. Apelação e remessa necessária desprovidas.
+Os embargos de declaração opostos foram rejeitados(fls. 455-464).
+Ministério Público Federalinterpôs recurso especial, com fundamento no art. 105, III, a, da Constituição Federal, alegando violação dos arts. 82, III, e 83, II, do CPC/1973, e do art. 1º e 5º, I, da LC n. 75/1993, por omissão da Corte de origem quanto àargumentaçãoesposadano parecer ministerial apresentado junto com provas documentais demonstrativas de tais argumentos
+Pleiteou, assim, a anulação do acórdão integrativo e o retorno dos autos à origem para novo julgamento dos embargos de declaração opostos.
+Foram apresentadas contrarrazões (fls. 510-515).
+O Ministério Público Federal opinou pelo conhecimento e pelo provimento do recurso especial (fls. 536-545).
+É o relatório. Decido.
+Como a decisão recorrida foi publicada sob a égide da legislação processual civil anterior, observam-se, em relação ao cabimento, processamento e pressupostos de admissibilidade dos recursos, as regras do CPC/1973, diante do fenômeno da ultra-atividade e do Enunciado Administrativo n. 2do Superior Tribunal de Justiça.
+Vê-se que os arts. 82, III, e 83, II, do CPC/1973, e do art. 1º e 5º, I, da LC n. 75/1993, vinculados à tese de omissão no acórdão recorrido, indicados como violados não contêm comando normativo capaz de sustentar a tese suscitada. Aplica-se à hipótese a Súmula 284/STF. Nesse sentido:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. DISPOSITIVO INDICADO COMO VIOLADO. COMANDO NORMATIVO. AUSÊNCIA. FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO. IMPUGNAÇÃO. INEXISTÊNCIA.
+1. Conforme entendimento sedimentado na Súmula 284 do STF, não se conhece de recurso especial quando o dispositivo apontado como violado não contém comando normativo para sustentar a tese defendida.
+2. O art. 12, II, da LIA, que trata das penas previstas para a prática de improbidade administrativa, não é capaz de infirmar os fundamentos do acórdão recorrido, que versou sobre a impossibilidade de vários pedidos de naturezas distintas na mesma ação, porém, contra réus diferentes.
+3. Incide a Súmula 283 do STF, em aplicação analógica, quando não impugnado fundamento autônomo e suficiente à manutenção do aresto recorrido, sendo considerada deficiente a fundamentação do recurso.
+4. Agravo interno desprovido.
+(AgInt no REsp 1899386/RO, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 14/06/2021, DJe 16/06/2021)
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. VIOLAÇÃO AO ART. 1.022 DO CPC. INOCORRÊNCIA. AUSÊNCIA DE COMANDO NORMATIVO EM DISPOSITIVO LEGAL APTO A SUSTENTAR A TESE RECURSAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. APLICAÇÃO DO ART. 1º-F DA LEI 9.494/97 (COM REDAÇÃO DADA PELA LEI 11.960/2009) ÀS CONDENAÇÕES IMPOSTAS À FAZENDA PÚBLICA. CASO EM QUE DEVE SER APLICADO O IPCA-E A TÍTULO DE CORREÇÃO MONETÁRIA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - A Corte de origem apreciou todas as questões relevantes apresentadas com fundamentos suficientes, mediante apreciação da disciplina normativa e cotejo ao posicionamento jurisprudencial aplicável à hipótese. Inexistência de omissão, contradição ou obscuridade.
+III - A jurisprudência desta Corte considera deficiente a fundamentação do recurso quando os dispositivos apontados como violados não têm comando normativo suficiente para infirmar os fundamentos do aresto recorrido, circunstância que atrai, por analogia, a incidência do entendimento da Súmula n. 284 do Supremo Tribunal Federal.
+ ..
+VIII - Agravo Interno improvido.
+(AgInt no REsp 1888761/DF, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 23/02/2021, DJe 01/03/2021)
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Publique-se. Intimem-se.
