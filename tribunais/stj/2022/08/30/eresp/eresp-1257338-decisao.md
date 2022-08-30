@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de embargos de divergência interpostos por UNAFISCO SINDICAL, nos autos em epígrafe, contra decisão prolatada pela Primeira Turma do Superior Tribunal de Justiça, sob o seguinte resumo de ementa:
+PROCESSUAL CIVIL. AGRAVO INTERNO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. EXECUÇÃO DE SENTENÇA. AUSÊNCIA DE PROCURAÇÃO. REGULARIZAÇÃO. IMPOSSIBILIDADE NA INSTÂNCIA ESPECIAL. PRECEDENTES DO STF E STJ. INCIDÊNCIA DA SÚMULA N. 115/STJ. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA PROFERIDA SOB O REGIME DO CÓDIGO DE PROCESSO CIVIL DE 1973.
+A parte embargante alega existir divergência com relação à Corte Especial deste Superior Tribunal de Justiça, aduzindo, em síntese, que:
+(..) resta incompreensível o rigor da aplicação da Súmula STJ n.º 115 e a rejeição do Agravo Interno e subsequente Embargos de Declaração, de fls. 1.371/1.380 e fls. 1.432/1.440, uma vez que demonstrado à exaustão a justa causa para a ausência do instrumento de procuração nos autos, que decorreu exclusivamente de uma sucessão de erros cometidos pelo Poder Judiciário e, cuja atribuição não pode recair sobre a parte, uma vez que em nada concorreu para esse resultado. (..) Nesse toar, é óbvio ululante que há, de fato, divergência jurisprudencial entre os Órgãos fracionários desse Tribunal da Cidadania, como efetivamente demonstrado acima, divergindo fundamentalmente nas decisões em foco no que concerne à aplicação da Súmula 115 do Eg. STJ.
+Parecer ministerial pelo não conhecimento do recurso.
+Relatados. Decido.
+Como bem apontado no parecer ministerial, cujos fundamentos adoto:
+No caso dos autos, contudo, o dissídio não restou comprovado. Isso porque o Acórdão embargado registrou que, "No que se refere à alegação de falha da digitalização do processo, a orientação desta Corte é no sentido de ser ônus da parte diligenciar para a correta digitalização dos autos, não sendo suficiente a mera alegação, sem comprovação documental", fls. 1416. Portanto.
+Portanto, tem-se que diante da inexistência de similitude fática entre os apontados julgados, não há lugar para reconhecimento da divergência alegada.
+Diante do exposto, não conheço dos embargos de divergência.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 1% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Publique-se. Intimem-se.
