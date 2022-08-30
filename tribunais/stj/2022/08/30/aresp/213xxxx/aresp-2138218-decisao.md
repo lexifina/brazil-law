@@ -1,0 +1,7 @@
+DECISÃO
+PROCESSUAL  CIVIL.  RECURSO  ESPECIAL.  COMPETÊNCIA  PARA  O  PROCESSAMENTO  E  JULGAMENTO  DE  RECURSO  INTERPOSTO  EM  AÇÃO DE OBRIGAÇÃO DE FAZER C/C DECLARAÇÃO DE INEXIGIBILIDADE DE TÍTULO C/C PEDIDO DE RESTITUIÇÃO E TUTELA ANTECIPADA  .  NATUREZA  PRIVADA  DA  CONTROVÉRSIA.  REDISTRIBUIÇÃO  A  UM  DOS  MINISTROS  DA  SEGUNDA  SEÇÃO.
+1.  Trata-se  de  recurso  especial  interposto  porCOMERCIAL EXPORTADORA IMPORTADORA E DISTRIBUIDORA MARC 4 LTDAobjetivando  a  reforma  do  acórdão  proferido  pelo  Tribunal  de  Justiça  do  Estado  de São Paulo,  que,  nos  autos  de Agravo de Instrumento oriundo de Ação de Obrigação de Fazer c/c Declaração de Inexigibilidade de Título c/c Pedido de Restituição e Tutela Antecipada, deu-lhe parcial provimento,nos termos da seguinte ementa:
+AGRAVO DE INSTRUMENTO. Etapa de cumprimento de julgado. Obrigação de fazer (readequação de plano de telefonia). Limites de multa cominatória. Recurso da devedora. Parcial provimento.
+2.  A  matéria  objeto  da  ação,  no  entanto,  não  está  afeta  à  Primeira  Seção  do  Superior  Tribunal  de  Justiça,  porquanto  não  envolve  falha  no  serviço  público  em  si,  mas  sim  devolução  de  valores  referentes  a  serviços  telefônicos  supostamente não  solicitados, bem como abusividade de cláusulas contratuais.
+3.  Assim  sendo,  declina-se  da  competência  para  apreciar  e  julgar  o  presente  feito  e  determina-se  a  redistribuição  dos  autos  a  um  dos  ministros  integrantes  da  Segunda  Seção  deste  Tribunal  Superior.
+4.  Publique-se.  Intimem-se.
