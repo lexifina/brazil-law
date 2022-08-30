@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de agravo (art. 1042 do CPC/15), interposto por TNC COMÉRCIO DE ALIMENTOS LTDA, em face de decisão de inadmissibilidade de recurso especial.
+O apelo extremo, fundamentado nas alíneas "a" e "c" do permissivo constitucional, objetivou reformar acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado (fl. 156, e-STJ):
+APELAÇÃO CÍVEL - PROCESSUAL CIVIL - EMBARGOS À EXECUÇÃO -TÍTULO EXECUTIVO EXTRAJUDICIAL - CONTRATO - CÓPIA AUTENTICADA - VALIDADE. É possível aparelhar a execução de título executivo extrajudicial mediante cópia autenticada quando não se tratar de cambial, sendo, no caso em exame, desnecessária a juntada do original do instrumento particular firmado pela credora, pela devedora e por duas testemunhas.
+Opostos embargos declaratórios, estes foram rejeitados (fls. 184-188, e-STJ).
+Nas razões do recurso especial (fls. 191-197, e-STJ), o insurgente aponta ofensa ao art. 614, I, do CPC/73, e aos arts. 321 e 798, I, do CPC/15, sustentando que a ação executiva deve ser extinta, pois lastreada em cópia do título executivo extrajudicial.
+Contrarrazões às fls. 201-207, e-STJ.
+Em juízo de admissibilidade (fls. 211-214, e-STJ), negou-se processamento ao recurso.
+Daí o agravo (fls. 217-224, e-STJ), em que o recorrente impugna a decisão agravada.
+Sem contraminuta.
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+1. Cinge-sea controvérsia recursal sobre a validade do título executivo. O recorrente aponta ofensa ao art. 614, I, do CPC/73, e aos arts. 321 e 798, I, do CPC/15, e sustenta que a ação executiva deve ser extinta, pois lastreada em cópia do título executivo extrajudicial.
+No particular, a Corte local assim decidiu (fl. 158, e-STJ):
+"Conforme decidido, "o título está revestido dos requisitos extrínsecos e intrínsecos, hábil à cobrança executiva, sendo despicienda a juntada de sua via original".
+Isso porque se trata de título executivo que não admite circulação. Não se trata de cambial, mas de instrumento particular assinado pela credora, pela devedora e duas testemunhas, produzindo efeitos somente em relação às partes contratantes.
+Com isso, não é necessária a apresentação do documento original, sendo suficiente a apresentação de sua cópia para aparelhar a presente execução."
+Como se verifica,o Tribunal de origem concluiu que estão presentes os requisitos necessários ao título executivo, sendo desnecessária a juntada da via original por não se tratar de título cambial.
+Com efeito, constata-se que o acórdão recorrido está em consonância com a jurisprudência dessa Casa, o que atrai a incidência da Súmula 83/STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO. TÍTULO EXECUTIVO. CÓPIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO. 1. Ação de execução de título executivo extrajudicial. 2. É possível o ajuizamento de execução aparelhada por cópia autenticada de título executivo extrajudicial, quando não se tratar de cambial. Precedentes. 3. A ausência de decisão acerca dos argumentos invocados pelo recorrente em suas razões recursais impede o conhecimento do recurso especial. 4. Em virtude do exame do mérito, por meio do qual foi rejeitada a tese sustentada pela recorrente, fica prejudicada a análise da divergência jurisprudencial. 5. Agravo interno no recurso especial não provido. (AgInt no REsp n. 1.805.935/RS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 26/8/2019, DJe de 28/8/2019.) (grifou-se)
+RECURSO ESPECIAL. PROCESSUAL CIVIL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. EXECUÇÃO. CONTRATO. CÓPIA AUTENTICADA. POSSIBILIDADE. EXECUÇÃO PARA ENTREGA DE COISA. CONVERSÃO AUTOMÁTICA. EXECUÇÃO POR QUANTIA CERTA. POSSIBILIDADE. CONTRATO. SACAS DE SOJA. CORRESPONDÊNCIA EM REAIS. LIQUIDEZ DO TÍTULO. CONTRADITÓRIO OBSERVADO. NULIDADE. AUSÊNCIA. PREJUÍZO NÃO DEMONSTRADO. 1. A jurisprudência desta Corte se firmou no sentido de que é possível aparelhar a execução com título executivo extrajudicial por cópia autenticada quando não se tratar de cambial. Precedentes. 2. No caso, conquanto o contrato previsse o pagamento em sacas de soja, já trazia o correspondente em reais. Os valores executados foram submetidos ao contraditório, tendo havido a oposição de embargos à execução. 3. Não demonstrada a existência de prejuízo com a adoção do rito da execução por quantia, deve-se afastar a alegação de nulidade da execução em homenagem aos princípios da instrumentalidade das formas e da economia processual. 4. Recurso especial não provido. (REsp n. 1.377.396/PR, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 27/9/2016, DJe de 7/10/2016.) (grifou-se)
+Incide, portanto, o óbice da Súmula 83/STJ.
+Por fim, quanto à divergência jurisprudencial, frisa-se que este Tribunal Superior tem entendimento no sentido de que a incidência do supracitado óbice impede o exame do dissídio, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual o Tribunal de origem deu solução a causa.
+No mesmo sentido, precedentes: AgInt no REsp 1532989/RS, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 16/11/2020, DJe 20/11/2020; AgInt no REsp 1605449/CE, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 20/10/2020, DJe 20/11/2020; AgInt no AREsp 1609466/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 08/09/2020, DJe 23/09/2020.
+2. Do exposto, nego provimento ao agravo em recurso especial. Por conseguinte, nos termos do art. 85, § 11, do CPC/2015, majoro os honorários advocatícios arbitrados na origem em mais 1% (um por cento), totalizando em 13% (treze por cento) sobre o valor da causa, observado, se for o caso, o disposto no art. 98, § 3º, do CPC/2015.
+Publique-se.
+Intime-se.
