@@ -1,0 +1,18 @@
+DECISÃO
+JÂNIO CLÁUDIO PEREIRA AMORIMagrava da decisão que inadmitiu o recurso especial que interpôs, fundado no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado da Bahia no Recurso em Sentido Estrito n.0009950-81.2020.8.05.0110.
+Nas razões do especial, a defesa apontou a violação dos arts.155, 156, 158 e158-Ado CPP, ao argumento de que não há indícios suficientes de autoria delitiva para pronunciar o réu.
+A Corte local não admitiu o recurso em virtude das Súmulas n. 7 e 83 do STJ, o que ensejou esta interposição.
+O Ministério Público Federal opinou pelo não conhecimento ou pelo não provimento do agravo (fls. 583-587).
+Decido.
+O agravo é tempestivo, mas não infirmou adequadamente as motivações lançadas na decisão de inadmissibilidade do recurso especial, razão pela qual não merece conhecimento.
+No presente caso, a Corte local não admitiu o recurso pelos seguintes motivos (fls. 539-541, grifei):
+Da leitura detida do in folio, vislumbra-se inviável exercer um juízo prévio de admissibilidade positivo do Recurso Especial em testilha, haja vista a salutar aplicação do verbete sumular nº 7, da Corte Infraconstitucional, cuja redação leciona que "A pretensão de simples reexame de prova não enseja recurso especial." O pleito veiculado nas razões da irresignação excepcional acerca da impronúncia, demanda incursão no acervo fático-probatório. Nesse sentido, mostra-se salutar trazer à baila julgados relativos ao assunto em debate, senão vejamos:
+ ..
+Acrescente-se que o pleito do recorrente encontra-se em desarmonia com a jurisprudência do Superior Tribunal de Justiça incidindo no caso em tela o quanto previsto na súmula 83/STJ: "Não se conhece do recurso especial pela divergência, quando a orientação do tribunal se firmou no mesmo sentido da decisão recorrida." Repise-se, nessa esteira intelectiva, a respeito do mencionado verbete, que "Também se aplica o referido enunciado sumular quando o recurso especial tiver fundamento na alínea a do permissivo constitucional." (AgRg no AREsp 330747/RS).
+ ..
+O mesmo enunciado sumular supra, ressalte-se, aplica-se às seguintes matérias, uma vez que o aresto vergastado encontra-se em perfeita simetria com o quanto esposado pela jurisprudência pacífica oriunda do E. STJ: utilização de elementos colhidos no inquérito - corroborados na fase judicial - para embasar a condenação.
+A defesa, contudo, não rebateu, especificamente, os fundamentos da inadmissão do especial. A parte limitou-se a reiterar as razões recursais, notadamente a inadequação do princípio doin dubio pro societate como standard probatório para subsidiar a pronúncia e a impossibilidade de se usar apenas depoimentos indiretos para fundamentar a decisão.
+Assim, o agravante nada mencionou para refutar a incidência das Súmulas n. 7 e 83 do STJ e, portanto, não observou o princípio da dialeticidade. Deveras, a defesa deveria haverdemonstrado, com particularidade, que a alteração do entendimento adotado pelo Tribunal de origem independe da apreciação fático-probatória dos autos.Além disso, precisariacomprovarque o entendimento desta Corte Superior destoa da conclusão a que chegou o Tribunal de origem.
+Desse modo, o agravante não se desincumbiu do ônus de expor integral, específica e detalhadamente os motivos de fato e de direito por que entende incorreta a decisão agravada, a atrair, à espécie, a Súmula n. 182 do STJ, segundo a qual "É inviável o agravo do art. 1.021, § 1º, do novo CPC que deixa de atacar especificamente todos os fundamentos da decisão agravada".
+À vista do exposto, com fundamento no art. 932, III, do CPC, c/c o art.253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Publique-se e intimem-se.
