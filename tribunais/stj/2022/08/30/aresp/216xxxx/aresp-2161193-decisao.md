@@ -1,0 +1,8 @@
+DECISÃO
+1. Cuida-se de agravo interposto por CONDOMINIO SHOPPING CENTER IGUATEMIcontra decisão que negou seguimento ao recurso especial, por sua vez manejado em combate a acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado:
+LOCAÇÃO EM SHOPPING CENTER. AÇÃO DE RESCISÃO CONTRATUAL C.C. CONSIGNATÓRIA DE CHAVES E DECLARATÓRIA. Sentença de procedência. Declaração de inexigibilidade da multa contratual pela rescisão antecipada do contrato de locação. Apelo do réu. Alegação de cabimento da cobrança. Fato pandêmico que ensejou nas restrições de funcionamento do comércio. Imprevisibilidade e inevitabilidade dos eventos que autorizam a intervenção judicial para restabelecer o reequilíbrio da obrigação em observância à teoria da imprevisão.Situação que, todavia, atingiu também o locador réu, motivo pelo qual a multa não deve ser integralmente afastada. Reequilíbrio obtido apenas com a repartição dos efeitos negativos da pandemia.Multa devida, portanto, pela metade. Ação parcialmente procedente com redistribuição dos ônus da sucumbência. Sentença parcialmente reformada.
+RECURSO PARCIALMENTE PROVIDO.
+Nas razões recursais (fls. 348/360), sustenta violação aos artigos 54 da Lei n. 8.245/1991; 317, 421, parágrafo único e421-A, incisos II e III, do Código Civil.
+É o relatório.DECIDO.
+2. Em face das circunstâncias que envolvem a controvérsia e para melhor exame do objeto do recurso, com fundamento no artigo 34, inciso VII, do Regimento Interno do Superior Tribunal de Justiça, DOU PROVIMENTO ao presente agravo para determinar a sua conversão em recurso especial, sem prejuízo de novo exame acerca de seu cabimento, a ser realizado no momento processual oportuno.
+Publique-se. Intimem-se.
