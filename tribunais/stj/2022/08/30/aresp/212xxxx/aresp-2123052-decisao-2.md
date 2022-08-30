@@ -1,0 +1,25 @@
+DECISÃO
+SILAS DE FRANÇA SILVAagrava de decisão que não conheceu do recurso especial, interposto com fundamento no art. 105, III, "a", da Constituição Federal,em face deacórdão proferido pelo Tribunal de Justiça do Estado de São Paulo(ApelaçãoCriminal n. 1501065-50.2020.8.26.0617).
+Depreende-se dos autos que o agravantefoi condenado a 10 anos e 10mesesde reclusão, em regime inicial fechado, mais multa, pela prática docrimeprevistonoart. 33, caput, e 35, ambos da Lei n. 11.343/2006.
+Nas razões do recurso especial, aponta a defesa violação doart. 35 da Lei n. 11.343/2006 ebusca sejao acusado absolvidodocrimede associação para o tráfico, reconhecidas i) a nulidade das provas pela violação de domicílio, ii) a quebra da cadeia de custódia da prova eiii) a suspeição dos policiais militares responsáveis pela prisão,afastada a agravante da calamidade pública ereconhecida a desproporcionalidade da pena de multa.
+O recurso especial foi inadmitido durante o juízo prévio de admissibilidade realizado pelo Tribunal local, o que ensejou a interposição deste agravo.
+O Ministério Público Federal opinou pelo não conhecimento do agravo em recurso especial.
+Decido.
+O agravo é tempestivo e infirmou os fundamentos da decisão agravada,razões pelas quais comporta conhecimento.
+O recurso especial, todavia, comporta parcial conhecimento, haja vista aincidência da Súmula n. 284 do STF, pois a defesa, ao expor suas razõesacerca dos pleitos dereconhecimento dai)quebra da cadeia de custódia da prova e ii) suspeição dos policiais militares responsáveis pela prisão ereconhecimento da desproporcionalidade da pena de multa,se absteve de indicar odispositivo de lei federal violado.
+Além disso, quantoà alegada violação do art. 5º, X e XI, da Constituição Federal, ressalto que não compete a esta Corte Superior, por expressa determinação da Constituição Federal, a análise dessa matéria, razão pela qual não conheço do recurso especial nesse ponto. Nesse sentido, menciono:
+A violação de preceitos, dispositivos ou princípios constitucionais
+revela-se quaestio afeta à competência do Supremo Tribunal Federal,provocado pela via do extraordinário; motivo pelo qual não se podeconhecer do recurso especial nesse aspecto, em função do disposto no art.105, III, da Constituição Federal.
+(AgRg nos EDcl no REsp n. 1.351.592/SC, Rel. Ministro Sebastião Reis Júnior, 6ªT., DJe 5/8/2014)
+Passo, portanto, à análise da matéria conhecida, a qualsuplanta ojuízode prelibação, por haver sido prequestionada, além de estarempresentes osdemais pressupostos de admissibilidade (cabimento,legitimidade,interesse, inexistência de fato impeditivo, tempestividade eregularidadeformal).
+I.Impossibilidade de absolvição (Crime de associação para o tráfico)
+O Tribunal de origem entendeu por também condenar o acusado pelo crime de associação para o tráfico, conforme trechos abaixo (fl. 683,grifei):
+É que o cenário fático desenhado nos autos não deixa dúvidas de que os apelantes não atuavam em mera comparsaria, mas com profundo vínculo. Ora, Leonardo levava considerável quantidade de drogas à biqueira gerenciada por Silas, o qual, a seu turno, mantinha insumos para a produção de mais drogas; nota-se, assim, evidente divisão de tarefas, uma vez que Leonardo era o responsável pelo transporte das drogas, levando-as da residência do segundo até o ponto de venda, ao passo que Silas armazenava drogas e insumos, gerenciando, também, a comercialização.
+Considerando a expressão utilizada pelo legislador, de que a associação entre duas ou mais pessoas para o fim de praticar, reiteradamente ou não, qualquer dos crimes previstos nos arts. 33, caput e § 1º, e 34, da Lei de Drogas, a jurisprudência deste Superior Tribunal firmou o entendimento de que, para a subsunção da conduta ao tipo previsto no art. 35 da Lei n. 11.343/2006, é necessária a demonstração concreta da estabilidade e da permanência da associação criminosa.
+A propósito, confira-se o seguinte julgado: HC n. 220.231/RJ, Rel.Ministro Rogerio Schietti, 6ª T., DJe 18/4/2016.
+Assim, para a caracterização do delito previsto no art. 35 da Lei de Drogas, é necessário que o animus associativo seja efetivamente provado. Isso porque, se assim não fosse, estaria evidenciado mero concurso de agentes para a prática do crime de tráfico de drogas.
+No caso, ainstânciade origem, após uma análise minuciosa dos elementos fático-probatórios colacionados aos autos, apontouelementos concretos que efetivamente evidenciam a estabilidade e a permanência exigidas para a configuração de crime autônomo, de maneira que não identifico nenhum constrangimento ilegal pelo qual estaria sendo vítima o recorrente nesse ponto.
+Saliento, ademais, que qualquer outra solução que não a adotada pela instância ordinária implicaria o revolvimento do material fático-probatório amealhado ao processo, providência incabível em recurso especial,em razão do óbice da Súmula n. 7 do STJ.
+II. Dispositivo
+À vista do exposto,conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se e intimem-se.
