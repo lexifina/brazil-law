@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de agravo (art. 1042 do CPC/15), interposto por EDUARD MARIA CONSTANTIN HEINRICH FRIEDRICH ALFRED SCHONBURG, em face de decisão de inadmissibilidade de recurso especial.
+O apelo extremo, fundamentado na alínea "a" do permissivo constitucional, objetivou reformar acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 100, e-STJ):
+AGRAVO DE INSTRUMENTO. GESTÃO DE NEGÓCIOS. INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. PRESCRIÇÃO. Incabível o acolhimento da tese do réu quanto à prescrição trienal, sendo evidente que a relação contratual entre as partes resulta na prescrição decenal. Embargos de Divergência em Recurso Especial n.º 1.280.825/ RJ - STJ. Decisão mantida. Recurso desprovido.
+Não foram opostos embargos de declaração.
+Nas razões do recurso especial (fls. 105-112, e-STJ), o insurgente aponta ofensa ao art. 206, § 3º, V, do Código Civil, sustentando que o prazo prescricional da pretensão de reparação civil é de três anos, tendo se operado a prescrição no caso sub judice.
+Contrarrazões às fls. 117-125, e-STJ.
+Em juízo de admissibilidade (fls. 126-127, e-STJ), negou-se processamento ao recurso.
+Daí o agravo (fls. 130-137, e-STJ), em que o recorrente impugna a decisão agravada.
+Sem contraminuta.
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+1. Cinge-se a controvérsia recursal sobre o prazo prescricional aplicável ao caso em análise. O recorrente aponta ofensa ao art. 206, § 3º, V, do Código Civil, e sustenta que o prazo prescricional da pretensão de reparação civil é de três anos, tendo se operado a prescrição na hipótese dos autos.
+No particular, o Tribunal local assim decidiu (fls. 101-103, e-STJ):
+"De fato, não há que se falar em reconhecimento da prescrição trienal estabelecida no artigo 206, § 3º, inciso V.
+Isto porque o autor busca indenização por danos materiais e morais, em razão de contrato de gestão de negócio/ investimento.
+E, por se tratar de ação oriunda de uma relação contratual pretérita, o prazo para o ajuizamento da lide é o fixado no artigo 205 do CC, qual seja, o de dez anos, computados a partir do momento em que se deu a ciência do dano, ou seja, da data em que decorreu, supostamente, o prazo para devolução dos valores, isto é, 10 de fevereiro de 2017.
+(..)
+Desse modo, incabível o acolhimento da tese do apelante quanto à prescrição trienal, sendo evidente que a relação contratual entre as partes resulta na prescrição decenal e, sendo a ação ajuizada três anos após a verificação do suposto descumprimento contratual, não há que se falar em prescrição da lide."
+Como se verifica,o órgão julgador afirmou que, por se tratar de ação oriunda de relação contratual, é aplicável o prazo prescricional decenal previsto no art. 205 do Código Civil, e não o prazo trienal, não tendo se operado a prescrição no caso sub judice.
+Com efeito, constata-se que o acórdão recorrido está em consonância com a jurisprudência dessa Casa, segundo a qual "Nas pretensões relacionadas à responsabilidade contratual, aplica-se a regra geral de prescrição decenal (CC/2002, art. 205)" (AgInt no AREsp n. 1.910.592/RJ, relator Ministro Raul Araújo, Quarta Turma, julgado em 25/4/2022, DJe de 23/5/2022.), o que atrai a incidência da Súmula 83/STJ.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO CONTRA CONSTRUTORA. IMÓVEL ADQUIRIDO EM PLANTA. INADIMPLEMENTO CONTRATUAL. PRESCRIÇÃO. PRAZO DECENAL. TERMO A QUO. DATA DA LESÃO. 1. Segundo decidido por esta Corte Superior, "O prazo de prescrição de pretensão fundamentada em inadimplemento contratual, não havendo regra especial para o tipo de contrato em causa, é o decenal, previsto no art. 205 do Código Civil" 2. Ademais, segundo o reiterado entendimento deste Tribunal Superior, o termo inicial da prescrição, nos termos do art. 189 do Código Civil, é a data em que ocorre a efetiva violação (ou inobservância) de um direito, consoante o viés objetivo da teoria da actio nata. 3. Agravo interno não provido. (AgInt no REsp n. 1.957.468/MA, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 20/6/2022, DJe de 24/6/2022.) (grifou-se)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. AÇÃO DE REPETIÇÃO DE INDÉBITO C/C INDENIZAÇÃO POR DANOS MORAIS. SEGURO DE VIDA EM GRUPO. PRAZO PRESCRICIONAL DECENAL. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM O ENTENDIMENTO DO SUPERIOR TRIBUNAL DE JUSTIÇA. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO. 1. Segundo a jurisprudência do Superior Tribunal de Justiça, às ações propostas com base em responsabilidade contratual aplica-se o prazo prescricional de 10 (dez) anos previsto no art. 205 do CC/2002. (..) 3. Agravo interno desprovido. (AgInt no AREsp n. 2.030.970/PR, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 13/6/2022, DJe de 15/6/2022.) (grifou-se)
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. CONTRATO DE PRESTAÇÃO DE SERVIÇO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA N. 284 DO STF. QUESTÃO DE ORDEM PÚBLICA. PREQUESTIONAMENTO FICTO. NÃO CARACTERIZAÇÃO. RESPONSABILIDADE CONTRATUAL. PRESCRIÇÃO DECENAL. DECISÃO MANTIDA. (..) 3. Segundo a jurisprudência da Segunda Seção e da Corte Especial, "nas controvérsias relacionadas à responsabilidade contratual, aplica-se a regra geral (artigo 205 do Código Civil) que prevê dez anos de prazo prescricional (EREsp 1.280.825/RJ, Rel. Ministra Nancy Andrighi, Segunda Seção, julgado em 27.06.2018, DJe 02.08.2018; e EREsp 1.281.594/SP, Rel. Ministro Benedito Gonçalves, Rel. p/ Acórdão Ministro Felix Fischer, Corte Especial, julgado em 15.05.2019, DJe 23.05.2019)" (REsp 1805558/SP, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 11/03/2020, DJe 03/06/2020). 4. Agravo interno a que se nega provimento. (AgInt no AREsp n. 1.358.825/SC, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 16/5/2022, DJe de 19/5/2022.) (grifou-se)
+Inafastável, portanto, o óbice da Súmula 83/STJ.
+2. Do exposto, nego provimento ao agravo em recurso especial.
+Publique-se.
+Intime-se.
