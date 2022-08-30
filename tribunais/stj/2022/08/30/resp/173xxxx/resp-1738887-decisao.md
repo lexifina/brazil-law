@@ -1,0 +1,26 @@
+DECISÃO
+1. Cuida-se de recurso especial interposto por FRANÇOIS MUGUET e CHRISTINE MUGUET, com fundamento no art. 105, III, a e c, da Constituição da República, contra acórdão proferido peloTRIBUNAL DE JUSTIÇA DO ESTADO DA PARAÍBA,assim ementado:
+AGRAVO DE INSTRUMENTO PRELIMINAR AUSÊNCIA DE INTERESSE RECURSAL REJEIÇÃO MÉRITO TUTELA DE URGÊNCIA BLOQUEIO DE BENS IMÓVEIS E INTERRUPÇÃO DA CONSTRUÇÃO DE EVENTUAL OBRA NO LOCAL FRAUDE QUE NÃO SE PRESUME AQUISIÇÃO DE IMÓVEIS PELOS AGRAVANTES QUE A PRINCÍPIO DEU-SE DE BOA-FÉ DECLARAÇÃO À RECEITA FEDERAL PAGAMENTO DE IPTU PARALISAÇÃO DAS OBRAS QUE ACARRETARÁ EVIDENTE PREJUÍZO POSSIBILIDADE DE INDENIZAÇÃO AOS AUTORES EM CASO DE PROCEDÊNCIA DO PLEITO INICIAL DECISÃO CASSADA PROVIMENTO DO RECURSO
+Em suas razões recursais, aponta a parte recorrente, além de dissídio jurisprudencial, ofensa ao disposto nos arts.45 e 485 do CCe 18 do CPC.
+Sustenta, em síntese, que "os ora recorridos careciam de interesse e legitimidade recursais, na medida em que o suposto prejuízo decorrente da decisão de primeira instância afetou interesses próprios de empresa da qual eram sócios, cujos direitos lhes são estranhos."(e-STJ Fl.786)
+Contrarrazões ao recurso especial às fls. 817-823 e-STJ.
+Crivo positivo de admissibilidade parcial na origem (fls. 829-832).
+É o relatório.
+DECIDO.
+2. O Tribunal local, após a análise dos elementos fático-probatórios dos autos, rejeitou a preliminar de ausência de interesse recursal, pois verificadaa possibilidade de prejuízo dos agravantes, ora recorridos(e-STJ Fl.765):
+Preambularmente, no tocante à preliminar arguida, entendo que deve ser rejeitada.
+A esse respeito, importa destacar que, embora os imóveis cujo bloqueio se determinou na decisão agravada sejam de propriedade da promovida Prestige Andrade Marinho LMF Construções SPE Ltda, conforme se extrai do registro de escritura pública de permuta de bens imóveis (ID 601708), não se pode olvidar que essa permuta foi firmada com a demandada Meira Lago Empreendimentos Imobiliários Ltda, que teria, em razão dessa permuta, direito a 621,36 m  da área construída nos referidos imóveis (ID 601651).
+A propósito, os ora agravantes Marcos e Ismar são os únicos sócios proprietários da empresa Meira Lago Empreendimentos Imobiliários Ltda, que, por meio do Contrato de Constituição de Sociedade Limitada datado de 09 de abril de 2014, adquiriu dos agravantes, por incorporação, os imóveis objetos do imbróglio (IDs 601655 e 601663).
+Assim, resta evidente o prejuízo que poderão sofrer com a paralisação das obras já iniciadas ou com a proibição de que sejam realizadas, porquanto, sendo os únicos sócios da empresa que receberá, pela permuta realizada com a demandada Prestige Andrade Marinho, 621,36m  de área construída, em havendo prejuízo à demandada Meira Lago, serão, obviamente, prejudicados.
+Ante o exposto, rejeito a preliminar arguida.
+Infirmar a conclusão a que chegou a Corte local implica no revolvimento da matéria de fato e provas dos autos, o que é vedado pela Súmula 7/STJ.
+3. Ademais, verifica-se a ausência de prequestionamento quanto aos artigos apontados como violados no recurso especial. Apesar do Tribunal local ter se manifestado sobre a preliminar de ausência de interesse recursal, não se observa o debate no sentido apontado pelos recorrentes nas razões do especial.
+Ou seja, quanto aos artigos 45 e 485 do CC e 18 do CPC apontados no recurso especial, verifica-se que seus conteúdos normativos não foram objeto de apreciação pelo Tribunal de origem e o recorrente não interpôs embargos de declaração objetivando suprir eventual omissão quanto a esse ponto. Portanto, ausente o prequestionamento, entendido como a necessidade de o tema objeto do recurso ter sido examinado na decisão atacada.
+O prequestionamento é exigência inafastável contida na própria previsão constitucional, impondo-se como um dos principais pressupostos ao conhecimento do recurso especial. Por isso que, não decidida a questão pela instância ordinária e não opostos embargos de declaração, a fim de ver suprida eventual omissão, incidem, por analogia, os enunciados n. 282 e 356 da Súmula do Supremo Tribunal Federal.
+4. Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. ALEGAÇÃO DE AUSÊNCIA DE INTERESSE RECURSAL. SÚMULA 7 DO STJ. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. RECURSO ESPECIAL NÃO CONHECIDO.
+1.O Tribunal local, após a análise dos elementos fático-probatórios dos autos, rejeitou a preliminar de ausência de interesse recursal, pois verificada a possibilidade de prejuízo dos agravantes, ora recorridos.Infirmar a conclusão a que chegou a Corte local implica no revolvimento da matéria de fato e provas dos autos, o que é vedado pela Súmula 7/STJ.
+2.Ademais, verifica-se a ausência de prequestionamento quanto aos artigos apontados como violados no recurso especial (45 e 485 do CC e 18 do CPC). Apesar do Tribunal local ter se manifestado sobre a preliminar de ausência de interesse recursal, não se observa o debate no sentido apontado pelos recorrentes nas razões do especial.Incidem, por analogia, os enunciados n. 282 e 356 da Súmula do Supremo Tribunal Federal.
+3. Recurso especial não conhecido.
