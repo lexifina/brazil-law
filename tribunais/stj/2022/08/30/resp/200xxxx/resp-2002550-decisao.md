@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de recurso especial, interposto por CLEALCO ACUCAR E ALCOOL S/A - EM RECUPERAÇÃO JUDICIAL e OUTROS , com amparo nas alíneas "a" e "c" do permissivo constitucional, no intuito de reformar o acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo.
+Na origem, a demanda versa sobre pedido de recuperação judicial. Aprovado o plano pela Assembleia Geral de Credores, foi interposto agravo de instrumento pela ora recorrida, o qual restou parcialmente provido em acórdão assim ementado:
+RECUPERAÇÃO JUDICIAL Modificativo ao plano de recuperação judicial Hipótese em que a concessionária agravante busca a anulação do modificativo e repete as tese se alegações já desenvolvidas quando da interposição do Agravo de Instrumento nº 2137496-76.2019.8.26.0000, o qual teve como objeto o plano de recuperação original Aditivo que, basicamente, repetiu as cláusulas constantes no plano original Controle de legalidade já exercido - Adoção integral do parecer do Administrador Judicial e reprodução da fundamentação do acórdão anteriormente julgado Ilegalidade somente da cláusula 14.3. do plano, nos termos do aresto anterior Recurso parcialmente provido, nos termos do acórdão.
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial, a recorrente aponta violação, pelo aresto estadual, aoart. 61 da Lei 11.101/2005.
+Sustenta, em síntese:
+a) impossibilidade de o prazo de supervisão judicial ter termo inicial diverso do previsto na Lei de Recuperação e Falências.
+Contrarrazões apresentada pela parte adversa.
+Após decisão de admissão do recurso especial , os autos ascenderam a esta egrégia Corte de Justiça.
+É o relatório.
+Decido.
+A irresignação merece prosperar.
+1.ACorte Estadualhouve por bem dar provimento parcial ao agravo de instrumento interposto para fixar como início do prazo de supervisão o decurso do prazo de carência aprovado pela assembleia geral de credores.
+É o que se extrai do seguinte excerto do aresto hostilizado (fls. 233, e-STJ):
+"Dessarte, o caso é de acolhimento parcial do recurso para reconhecer a ilegalidade da cláusula 14.3 do aditivo do plano de recuperação judicial, devendo ser observado, ainda, que: (a) o biênio de supervisão judicial tem início após o decurso do prazo de carência, nos termos do Enunciado n. II do Grupo Reservado de Direito Empresarial desta Corte; e (..)"
+Não obstante, verifica-se que a Lei de Recuperação e Falências (LRF), em seu art. 61, estabeleceu que a empresa devedora permanecerá em recuperação judicial até que cumpra com as obrigações assumidas no plano pelo período de 2 (dois) anos após a concessão do pedido. Expirado esse prazo, ainda que remanesçam obrigações a serem efetivadas, ou existam impugnações de crédito pendentes de julgamento ou de trânsito em julgado, encerra-se o processo de recuperação, e o credor fica com a garantia de um título executivo judicial.
+Nesse sentido, conforme o art. 62, c/c art. 94, III, g, da referida lei, em caso de descumprimento de qualquer obrigação prevista no plano, é facultada ao credor a execução específica da obrigação pelas vias individuais ou o requerimento de falência do devedor. Ressalta-se que o credor não sofrerá prejuízo, tendo em vista que terão seus direitos e garantias reconstituídos nas condições originalmente contratadas.
+Cumpre esclarecer que a intenção do legislador foi a de não alongar em demasia a recuperação judicial até que sejam decididas todas as impugnações de crédito e cumpridas todas as obrigações assumidas no plano, que, por vezes, se estendem por muitos anos.
+A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. EMPRESARIAL. RECUPERAÇÃO JUDICIAL. POSSIBILIDADE DE ENCERRAMENTO DO PROCESSO DE RECUPERAÇÃO JUDICIAL. FINDO O PRAZO DE 2 (DOIS) ANOS. OBRIGAÇÕES VINCENDAS E IMPUGNAÇÕES DE CRÉDITO PENDENTES DE JULGAMENTO NÃO IMPEDEM O ENCERRAMENTO DA RECUPERAÇÃO JUDICIAL. SUPRESSÃO DE INSTÂNCIA. SÚMULA 211/STJ. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. INAPLICABILIDADE DA MULTA POR LITIGÊNCIA DE MÁ-FÉ. AGRAVO INTERNO IMPROVIDO.
+1. A Lei de Recuperação e Falências (LRF), no art. 61, estabeleceu que a empresa devedora permanecerá em recuperação judicial até que cumpra com as obrigações assumidas no plano pelo período de 2 (dois) anos após a concessão do pedido. Expirado esse prazo, ainda que remanesçam obrigações a serem efetivadas, ou existam impugnações de crédito pendentes de julgamento ou de trânsito em julgado, encerra-se o processo de recuperação, e o credor fica com a garantia de um título executivo judicial.
+2. Conforme o art. 62, c/c art. 94, III, g, da referida lei, em caso de descumprimento de qualquer obrigação prevista no plano, é facultada ao credor a execução específica da obrigação pelas vias individuais ou o requerimento de falência do devedor. Ressalta-se que o credor não sofrerá prejuízo, tendo em vista que terão seus direitos e garantias reconstituídos nas condições originalmente contratadas.
+(..)
+6. Agravo interno improvido. ( AgInt no REsp 1710482 / MS, Rel. Min. MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 10/02/2020, DJe 13/02/2020)
+DIREITO EMPRESARIAL. RECUPERAÇÃO JUDICIAL. APROVAÇÃO DO PLANO. NOVAÇÃO. EXECUÇÕES INDIVIDUAIS AJUIZADAS CONTRA A RECUPERANDA. EXTINÇÃO.
+1. A novação resultante da concessão da recuperação judicial após aprovado o plano em assembleia é sui generis, e as execuções individuais ajuizadas contra a própria devedora devem ser extintas, e não apenas suspensas.
+2. Isso porque, caso haja inadimplemento da obrigação assumida por ocasião da aprovação do plano, abrem-se três possibilidades: (a) se o inadimplemento ocorrer durante os 2 (dois) anos a que se refere o caput do art. 61 da Lei n. 11.101/2005, o juiz deve convolar a recuperação em falência; (b) se o descumprimento ocorrer depois de escoado o prazo de 2 (dois) anos, qualquer credor poderá pedir a execução específica assumida no plano de recuperação; ou (c) requerer a falência com base no art. 94 da Lei.
+3. Com efeito, não há possibilidade de a execução individual de crédito constante no plano de recuperação - antes suspensa - prosseguir no juízo comum, mesmo que haja inadimplemento posterior, porquanto, nessa hipótese, se executa a obrigação específica constante no novo título judicial ou a falência é decretada, caso em que o credor, igualmente, deverá habilitar seu crédito no juízo universal.
+4. Recurso especial provido. (REsp 1272697/DF, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 02/06/2015, DJe 18/06/2015)
+Esse entendimento foi corroborado, inclusive, pela nova redação dada ao art. 61 da Lei 11.101/05 pela Lei n. 14.112/2020.
+Confira-se:
+Art. 61. Proferida a decisão prevista no art. 58 desta Lei, o juiz poderá determinar a manutenção do devedor em recuperação judicial até que sejam cumpridas todas as obrigações previstas no plano que vencerem até, no máximo, 2 (dois) anos depois da concessão da recuperação judicial, independentemente do eventual período de carência.
+Verifica-se, portanto, que a decisão de origem destoa do entendimento existente neste Tribunal Superior, merecendo reforma neste ponto.
+2. Ante o exposto, douprovimento ao recurso especial para limitar o período de supervisão judicial ao prazo de dois anos, nos termos da fundamentação supra, contados da decisão que homologou o plano de recuperação em primeira instância.
+Publique-se. Intimem-se.
