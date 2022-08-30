@@ -1,0 +1,41 @@
+DECISÃO
+Cuida-se de recurso especial interposto por UNIMED DO CE FED DAS COOP DE TRAB MED DO EST DO CE LTDA, fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Recurso especial interposto em: 03/06/2022.
+Concluso ao gabinete em: 25/08/2022.
+Ação: cominatória, ajuizada por MARCELO PINHEIRO KLEIN FILHO, em face da recorrente, pretendendo a condenação da requerida em obrigação de fazer (fornecimento de bomba de infusão contínua de insulina e de tratamento pelo método de infusão contínua por tempo indeterminado).
+Sentença: julgou improcedente o pedido.
+Acórdão: deu provimento à apelação interposta pelo recorrido, nos termos da seguinte ementa:
+EMENTA: APELAÇÃO CíVEL. DIREITO DO CONSUMIDOR. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. NEGATIVA DE COBERTURA. DIABETES MELLITUS TIPO 1. PRESCRIÇÃO MÉDICA PARA USO DE BOMBA DE INFUSÃO CONTINUA DE INSULINA, RECONHECIMENTO DE CLÁUSULAS ABUSIVAS. DEVER DE FORNECER O TRATAMENTO INDICADO POR MÉDICO ESPECIALISTA. INCIDÊNCIA DO CDC. RECURSO CONHECIDO E PROVIDO. SENTENÇA REFORMADA.
+01. Cuida-se de Recurso de Apelação interposto por beneficiário de plano de saúde contra a r. sentença que julgou improcedente a Ação de Obrigação de Fazer, que visava compelir a operadora demanda a custear o tratamento para diabetes mellitus tipo 1;
+02. Incide à hipótese, o Código de Defesa do Consumidor, a teor da Súmula nº 608 do Superior Tribunal de Justiça: "Aplica-se o Código de Defesa do Consumidor aos contratos de plano de saúde, salvo os administrados por entidades de autogestão";
+03. A negativa foi motivada pelo plano de saúde sob fundamento de cláusula contratual que exclui a cobertura de tratamento de diabetes nos moldes exigidos;
+04. Estando prescrito pelo médico assistente o procedimento indicado na busca da melhoria das condições de saúde acometida de doença grave cujo contrato celebrado com o plano de saúde demandado prevê cobertura, é seu dever ofertar tal tratamento, ainda que no âmbito domiciliar. Precedentes do STJ.
+05. Recurso conhecido e provido, julgando procedente a ação de piso e, via de consequência, invertendo o ônus sucumbencial.
+Embargos de Declaração: opostos pela recorrente, foram rejeitados.
+Recurso especial: alega violação dos arts. 10, II e VII, e § 4º, e 35-A, I e III, da Lei 9.656/98; e 4º, III, da Lei 9.961/00, bem como dissídio jurisprudencial.
+Afirma que a bomba de infusão continua de insulina é uma órtese não ligada a ato cirúrgico a ser utilizada em tratamento domiciliar, razão pela qual não se encontra obrigada contratualmente a cobri-la. Afirma a taxatividade do rol da ANS.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da ausência de obrigação de custeio nas hipóteses de exceção previstas nos incisos do art. 10 da Lei nº 9.656/1998
+Com efeito, a despeito da natureza exemplificativa do rol da ANS, a Lei nº 9.656/1998 prevê, nos incisos de seu art. 10, hipóteses expressas de exceção da cobertura obrigatória pelo plano-referência.
+Verifica-se que estão incluídas nessa exceção o fornecimento de medicamentos para tratamento exclusivamente domiciliar e o fornecimento de próteses, órteses e seus acessórios não ligados ao ato cirúrgico, conforme os incisos VI e VII do referido dispositivo.
+Nos termos da jurisprudência desta Corte élícita a exclusão, na Saúde Suplementar, do fornecimento de medicamento para tratamento domiciliar, a que alude o art. 10, VI, da Lei 9.656/1998, isto é, "aquele prescrito para ser adquirido por pessoas físicas em farmácias de acesso ao público para administração em ambiente externo à unidade de saúde, que não exige a intervenção ou supervisão direta de profissional de saúde habilitado - é autoadministrado pelo paciente - e cuja indicação não tenha por fim substituir o tratamento ambulatorial ou hospitalar, nem esteja relacionada à continuidade da assistência prestada em âmbito de internação hospitalar.É, pois, o medicamento que pode ser adquirido diretamente pelo paciente para ser autoadministrado por ele em seu ambiente domiciliar" (REsp 1927566/RS, 3ª Turma, DJe 30/08/2021). Confira-se, ainda: REsp 1.692.938/SP, 3ª Turma, DJe 04/05/2021; AgInt no REsp 1890823/SP, 4ª Turma, DJe 28/04/2022; eAgInt no REsp 1.973.853/SP , 4ª Turma, DJe 11/05/2022.
+Na hipótese em julgamento, destaca-se do acórdão recorrido:
+Após a formação do contraditório e, ultimado a rito processualísticopertinente ao feito, sobreveio sentença de fls. 171/177, a qual decidiu:
+Quanto aos análogos de insulina, afasta-se de logo qualquer vinculação ao lamentável episódio de câncer no pâncreas, que acometeu o autor e foi, originariamente, a causa de ele ter desenvolvido o diabetes. O tratamento em questão não é para aquela doença, mas para a diabetes, não se tratando de "cobertura para tratamentos antineoplásicos", sejam ambulatoriais ou domiciliares, conforme a previsão das alíneas "c" do inciso I e "g" do inciso II do art. 12 da Lei 9.656. Portanto, o medicamento não é de fornecimento obrigatório, valendo a respeito as considerações já apresentadas na decisão de tutela provisória (fls. 33/38) (..).
+Finalmente, acolhendo-se a argumentação da requerida no tocante ao descabimento da obrigação de fornecimento da bomba de insulina,resta ela desobrigada também de apresentar os insumos necessários a seu funcionamento, que são os demais itens prescritos pelo médico assistente no relatório juntado nas fls. 25/28, importando na improcedência do pedido formulado pela parte autora.
+(..)
+É de comezinha sabença que a diabetes, doença que não possui cura, deve ser tratada visando o controle dos níveis de açúcar no sangue, tratamento o qual poderá indicar dieta alimentar, medicamentos de uso oral eaplicação de insulina, sendo necessária a medição diária da glicemia para o correto uso medicamentoso de controle da enfermidade.
+(..)
+Assiste, pois, razão o apelante na medida em que uma vez estando prescrito pelo médico assistente o procedimento indicado na busca da melhoria das condições de saúde acometida de doença grave cujo contrato celebrado com o plano de saúde demandado prevê cobertura, é seu dever ofertar tal tratamento, ainda que no âmbito domiciliar.
+(e-STJ, fls. 307/316)
+Trata-se, portanto, de equipamentos que podem ser adquiridos diretamente pelo paciente em farmácias de acesso público, para ser autoadministrado por ele em seu ambiente domiciliar, sem a necessidade de intervenção médica.
+Desse modo, conforme a jurisprudência desta Corte,não há a obrigação de a operadora de plano de saúde custear tais equipamentos, de modo que o acórdão recorrido merece ser reformado.
+Forte nessas razões, com fundamento no art. 932, V, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO do recurso especial e DOU-LHE PROVIMENTO, para julgar improcedente o pedido formulado na inicial.
+Invertida a sucumbência, condeno orecorridoao pagamento das custas processuais e honorários advocatícios de sucumbência, os quais fixo em R$ 2.000,00 (dois mil reais), observada eventual concessão da gratuidade de justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO COMINATÓRIA. CONTRATO DEPLANO DE SAÚDE. DIABETES. EQUIPAMENTO DE MONITORAMENTO DE GLICOSE. ROL DE PROCEDIMENTOS E EVENTOS EM SAÚDE DA ANS. EXCEÇÃO. TRATAMENTO DOMICILIAR. EQUIPAMENTO NÃO LIGADO A ATO CIRÚRGICO. RECUSA DE COBERTURA DEVIDA.
+1. Segundo a jurisprudência desta Corte, é lícita a exclusão, na Saúde Suplementar, do fornecimento de medicamentos para tratamento domiciliar, isto é, aqueles prescritos pelo médico assistente para administração em ambiente externo ao de unidade de saúde, salvo os antineoplásicos orais (e correlacionados), a medicação assistida (home care) e os incluídos no Rol da ANS para esse fim.
+2. Hipótese em que são pleiteados equipamentos para monitoramento de glicose, os quais são caracterizados como tratamento domiciliar, porquanto podem ser adquiridos diretamente pelo paciente em farmácias de acesso público, para ser autoadministrado por ele em seu ambiente domiciliar, sem a necessidade de intervenção médica, razão pela qual é devida a recusa de cobertura.
+3. Recurso especial conhecido e provido.
