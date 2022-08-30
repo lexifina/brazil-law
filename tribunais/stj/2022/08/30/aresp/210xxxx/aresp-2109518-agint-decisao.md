@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de agravo interno interposto por REDENÇÃO ALIMENTOS EIRELI contra a decisão da Presidência desta Corte Superior de fls. 243-245 (e-STJ), que não conheceu do agravo em recurso especial.
+O apelo especial foi fundado nas alíneas a e c do permissivo constitucional, no qual se insurgiu contra acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios assim ementado (e-STJ, fls. 177-178):
+DIREITO CIVIL E PROCESSUAL CIVIL. GRATUIDADE DE JUSTIÇA. PESSOA JURÍDICA. HIPOSSUFICIÊNCIA FINANCEIRA NÃO DEMONSTRADA. BENEFÍCIO INDEFERIDO. SENTENÇA. FUNDAMENTAÇÃO IDÔNEA. NULIDADE INEXISTENTE. AÇÃO MONITÓRIA. NOTAS FISCAIS ACOMPANHADAS DOS COMPROVANTES DE RECEBIMENTO DAS MERCADORIAS. PROVA ESCRITA HÁBIL AO EXERCÍCIO DA PRETENSÃO MONITÓRIA. CONSTITUIÇÃO DO TÍTULO JUDICIAL MANTIDA.
+I. A concessão de gratuidade de justiça à pessoa jurídica pressupõe efetiva comprovação de insuficiência de recursos para pagar as custas, as despesas processuais e os honorários advocatícios, consoante a inteligência dos artigos 98, caput, e 99, § 3º, do Código de Processo Civil.
+II. O juiz não está adstrito a enfrentar todos os argumentos deduzidos pelas partes, senão aqueles capazes de infirmar a sua conclusão, segundo o disposto no artigo 489, § 1º, inciso IV, do Código de Processo Civil.
+III. Notas fiscais acompanhadas dos comprovantes de recebimento das mercadorias atendem aos requisitos legais para o exercício da ação monitória, na medida em que emprestam alto grau de convicção sobre o vínculo contratual, sobre a entrega das mercadorias e sobre o valor do débito.
+IV. O simples recebimento das mercadorias, mediante a aposição de assinatura na nota fiscal, não representa ato negocial, de maneira que pode ser realizado por qualquer empregado, preposto, responsável ou colaborador do adquirente das mercadorias.
+V. Em razão da informalidade do ato de entrega de mercadorias, a teoria da aparência empresta juridicidade ao recebimento das mercadorias por qualquer pessoa que o faça em nome ou em proveito do comprador.
+VI. Recurso conhecido e desprovido.
+No recurso especial, a recorrente apontou, além de divergência jurisprudencial, ofensa aos arts. 373 e 700 do novo CPC.
+Esclareceu que se opôs ao aresto ao estabelecer oentendimento de que a ação monitória estaria devidamente instruída e seria caso de manter seu provimento.
+Frisou que o aresto desconsiderou que o ônus da prova incumbe ao autor quanto a fato constitutivo do seu direito. Nesse sentido, apontou que o recorrido não trouxe aos autos nenhum documento hábil que comprovasse a suposta relação contratual e a efetiva prestação dos servidos alegados; sendo certo que a empresa trouxe apenas os canhotos com assinaturas sem identificação e as notas fiscais, documentos estes produzidos unilateralmente, portando inábeis a embasar o reconhecimento do direito reclamado.
+Argumentou que a petição inicial da demanda monitória não teria sido devidamente instruída nem havia prova paraseu acolhimento. Requereu o provimento do recurso especial(e-STJ, fls. 200-205).
+Negado seguimento ao recurso especial, foi interposto agravo em recurso especial, o qual foi julgado pela Presidência deste Tribunal Superior. Contra esse decisum interpõe a demandante o agravo interno.
+Neste recurso, frisa que atacou todos os fundamentos da decisão de inadmissibilidade do recurso especial, inclusive a aplicação da Súmula 7/STJ. Reafirma as teses lançadas no apelo especial acima sumariadas. Pugna pelo conhecimento e provimento do agravo (e-STJ, fls. 248-253).
+Contraminuta não apresentada (e-STJ, fl. 254).
+Brevemente relatado, decido.
+Reexaminando a petição de agravo em recurso especial, observa-se que o insurgente questionou todos os pontos da decisão de inadmissibilidade do recurso especial, conforme as fls. 228-231 (e-STJ), inclusive a incidência do verbete sumular n. 7 desta Corte Superior(e-STJ, fls. 229-231).
+Logo, é caso de reconsideração da decisão da Presidência desta Corte Superior, estabelecendo o conhecimento do agravo em recurso especial, em atenção ao art. 259, § 6º, do RISTJ.
+A segunda instância manteve a sentença, justificando que a petição inicial protocolada pelo autor não ostentaria nenhum vício,conteria memória de cálculo da dívida e respeitaria o teor do art. 700, I, do atual CPC.
+Destarte, firmou o Tribunal estadual quedocumentos, como notas fiscais e comprovantes de recebimento da mercadoria,que instruíram a petição inicial, amparariam o exercício da ação monitória.
+Veja-se(e-STJ, fls. 182-186):
+A petição inicial foi instruída com a "memória de cálculo" de fls. 9/10 ID 20863212 e por isso observou a exigência prevista no artigo 700, § 2º, inciso I, do Código de Processo Civil.
+Não há quanto a esse aspecto formal, portanto, qualquer lapso da petição inicial. Os documentos que instruem a petição inicial amparam o exercício da ação monitória.
+A r. sentença acolheu a pretensão monitória mediante a seguinte fundamentação:
+ ..
+Notas fiscais acompanhadas dos comprovantes de recebimento das mercadorias (1/30 ID 20863216) preenchem os requisitos que o artigo 700, inciso I, do Código de Processo Civil, estabelece para o exercício da ação monitória, na medida em que emprestam alto grau de convicção sobre o vínculo contratual, sobre a entrega das mercadorias e sobre o valor do débito.
+Nesse sentido é o magistério jurisprudencial do Superior Tribunal de Justiça, como ilustram os seguintes julgados:
+ ..
+A defesa da Apelante se baseou fundamentalmente na alegação de que os canhotos das notas fiscais não estão datados nem contêm a identificação do recebedor.
+Porém, apesar de colocar em dúvida a aptidão dessa prova documental até mesmo para demonstrar a existência de relação contratual entre as partes, a Apelante em nenhum momento afirmou, direta e categoricamente, que não adquiriu os produtos ou que não os recebeu.
+Significa dizer que a Apelante invoca a falta de identificação das pessoas que receberam as mercadorias com o intuito de fragilizar a pretensão monitória, mas na verdade foi evasiva na sua defesa e não produziu nenhum elemento de convicção hábil a desmerecê-la.
+Note-se que o simples recebimento das mercadorias, mediante a aposição de assinatura no canhoto das notas fiscais, não representa ato negocial, de maneira que pode ser realizado por qualquer empregado, preposto ou responsável do adquirente.
+Em razão dessa informalidade, tem-se adotado nesse campo a teoria da aparência, no sentido de emprestar juridicidade ao recebimento das mercadorias por qualquer pessoa que o faça em nome ou em proveito do comprador.
+Acerca do tema, vale colacionar os seguintes julgados desta Corte de Justiça:
+ ..
+Portanto, o entendimento deque a base documental da ação monitória seria suficiente para a rejeição dos embargos opostos pela insurgente atrai o óbice da Súmula 7/STJ, verbete que se aplica a ambas as alíneas do permissivo constitucional.
+Nessa linha, reconheceu-se não haver vícios na petição inicial e a prova reclamada na ação monitória, questões extraídas das provas dos autos.
+Ante o exposto, em juízo de retratação, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do advogado da parte ora recorrida em mais 10% (dez por cento) sobre o valor já fixado na sentença.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À MONITÓRIA. ATAQUE A TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL. RECONSIDERAÇÃO. CONCLUSÃO DAS INSTÂNCIAS ORDINÁRIAS A RESPEITO DA VIABILIDADE DA AÇÃO MONITÓRIA FUNDADA NA APRECIAÇÃO FÁTICO-PROBATÓRIA DA CAUSA. SÚMULA 7/STJ. EM JUÍZO DE RECONSIDERAÇÃO, AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
