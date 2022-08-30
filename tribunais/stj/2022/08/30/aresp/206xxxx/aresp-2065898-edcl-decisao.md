@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de embargos declaratórios opostos por MANOEL LESSA SILVEIRAcontra decisão monocrática, de minha relatoria, assim ementada:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. CONFIGURAÇÃO. OMISSÃO RELEVANTE NÃO SANADA PELA CORTE DE ORIGEM. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
+Nas razões recursais, oembargante alega contradição na decisão embargada, aduzindo que a pretensão do Ibama, quando da oposição dos embargos de declaração na origem, era simplesmente a reanálise de matéria probatória, não tendo o ora embargado suscitado nenhuma omissão, contradição ou obscuridade, razão pela qual o recurso especial não poderia ser provido para determinar um novo julgamento daquele recurso.Sobre o ponto, afirma(e-STJ, fls. 400/402):
+Ocorre que, data máxima vênia ao entendimento exarado, há patente contradição na decisão da qual se embarga de declaração. Isso porque o Ilustre Ministro mencionou no curso da sua decisão monocrática que houve omissão não sanada quando da apreciação dos aclaratórios, alegando que o Tribunal a quo "não se pronunciou de modo suficiente sobre tal questão, limitando-se a repetir fundamentos já lançados no julgamento de apelação" (sic).
+Pois bem, contradiz-se o Ilustre Ministro nesse ponto, uma vez que nos aclaratórios opostos pelo IBAMA naquela oportunidade suscitaram tão somente a reanálise da provaapresentada aos autos, não suscitando NENHUMA OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE ao longo dos Embargos de Declaração apresentados.
+Frisa-se que sequer há a utilização de tais termos ao longo da peça processual apresentada, não havendo objetivamente nenhuma omissão, obscuridade ou contradição a ser sanada pelo Desembargador relator.
+(..)
+Ou seja, contradiz-se o Ilustre Ministro ao mencionar que o Desembargador a quo não se manifestou de maneira suficiente, quando, em verdade, utilizou de inúmeros argumentos para apontar que os aclaratórios, PARA O FIM PARA O QUAL É LEGALMENTE PREVISTO, não mereciam guarida diante do apresentado pelo então Embargante.
+Ou seja, apontou o Desembargador que nos Embargos de Declaração opostos pelo IBAMA não foram apontadas contradições, omissões ou obscuridade a serem sanadas, o que se pode concluir da simples leitura da peça apresentada, da qual se extrai um trecho a seguir colacionado:
+(..)
+Ou seja, só há a menção de obscuridade e omissão no tópico dos pedidos, de modo que ao longo da peça não há nenhum apontamento de onde se encontra a omissão/obscuridade alegada, tampouco as razões para o seu saneamento.
+Assim, contradiz-se o Ilustre Ministro ao acatar o pleito do Agravante sob argumento que, em análise profunda dos autos, não foi suscitado pelo mesmo em seus Embargos de Declaração e, por corolário lógico, não tem o Desembargador a obrigação de justificar seu entendimento sobre matéria não trazida à baila pelos aclaratórios.
+Não houve impugnação.
+É o relatório.
+Passo a decidir.
+O recurso não merece acolhimento.
+A teor do art. 1.022 do Código de Processo Civil, os embargos de declaração supõem omissão, contradição ou obscuridade no julgado, nenhum desses vícios presente no caso.
+Na espécie,a decisão embargada encontra-se devidamente fundamentada, de forma clara, adequada e suficiente acerca do tema que lhe foi submetido, tendo reconhecidoaexistênciade omissão no acórdão proferido pelo Tribunal Regional Federal da 4ª Região, que deixou de enfrentar as teses apresentadas pelo IBAMA quanto à aplicação subsidiária das regras do direito civil referentes ao depósito e sobre ainaplicabilidade do princípio da proporcionalidade quanto à pena de perdimento de bens no direito ambiental.
+Nesse cenário,verifica-se que, sob argumento de ocorrência de contradição na decisão embargada, o que buscar o embargante, irresignado, é a alteração do resultado do julgado. Entretanto, os embargos de declaração possuem função meramente integrativa, não servindo paraque se adeque a decisão impugnada ao entendimento da parte embargante, nem para o acolhimento de pretensões que refletem mero inconformismo, e, menos ainda, para rediscussão de matéria já resolvida (cf. EDcl no AgInt no RE nos EDcl no AgInt no RMS 52.333/GO, Rel. Ministro HUMBERTO MARTINS, CORTE ESPECIAL, DJe 29/06/2018; EDcl no MS 20.816/DF, Rel. Ministro JORGE MUSSI, CORTE ESPECIAL, DJe 17/04/2018; EDcl nos EDcl nos EDcl no AgInt nos EDcl nos EREsp 1491187/SC, Rel. Ministro MAURO CAMPBELL MARQUES, CORTE ESPECIAL, DJe 23/03/2018).
+Sobre o tema, confira-se:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. PRETENSÃO DE REEXAME E ADOÇÃO DE TESE DISTINTA. INEXISTÊNCIA DE VÍCIOS NO JULGADO.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração são cabíveis para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual se deveria pronunciar o juiz de ofício ou a requerimento e/ou corrigir erro material.
+2. Verifica-se que a parte embargante, na verdade, pretende a rediscussão da matéria já decidida de maneira inequívoca pela Corte Especial, revelando mero inconformismo com o resultado do julgamento. Todavia, o recurso aclaratório possui finalidade integrativa e, portanto, não se presta à reforma do entendimento aplicado ou ao rejulgamento da causa.
+Embargos de declaração rejeitados.
+(EDcl no AgInt no RE nos EDcl no AgInt no RMS 65.585/BA, Rel. Ministro HUMBERTO MARTINS, CORTE ESPECIAL, DJe 24/03/2022).
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS
+1.Tendo o recurso sido interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. De acordo com a disposição normativa do artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+3. Nos termos da jurisprudência desta Corte Especial, os "Embargos Declaratórios não constituem instrumento adequado para a rediscussão da matéria de mérito, nem ao prequestionamento de dispositivos constitucionais com vistas à interposição de Recurso Extraordinário" (EDcl no AgInt nos EDcl nos EAREsp 1.202.915/SP, Rel. Ministro HERMAN BENJAMIN, CORTE ESPECIAL, julgado em 13/08/2019, DJe 28/08/2019).
+Assim, inexistentes omissão, contradição ou obscuridade na decisão embargada, os embargos de declaração devem ser rejeitados, notadamente quando contêm elementosde mero inconformismo.
+Diante do exposto, REJEITO os embargos de declaração.
+Publique-se e intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE VÍCIOS NA DECISÃO. REDISCUSSÃO DE MATÉRIA EFETIVAMENTE DECIDIDA.IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
