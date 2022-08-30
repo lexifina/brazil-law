@@ -1,0 +1,21 @@
+DECISÃO
+1. Cuida-se de agravo interposto por MARILENE LOPES contra decisão que não admitiu o seu recurso especial, por sua vez manejado em combate a acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL, assim ementado:
+RECURSO DE APELAÇÃO - DEMANDA DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO CUMULADA COM REPETIÇÃO DE INDÉBITO E COMPENSAÇÃO POR DANOS MORAIS - SEGURO - AUSÊNCIA DE CONTRATAÇÃO - DESCONTOS INDEVIDOS - RESTITUIÇÃO - DANO MORAL - MERO ABORRECIMENTO.
+01. Nos termos do art. 14 do Código de Defesa do Consumidor, o fornecedor de serviços responde, independentemente da existência de culpa, pela reparação dos danos causados aos consumidores por defeitos relativos à prestação dos serviços, bem como por informações insuficientes ou inadequadas sobre sua fruição e riscos.
+02. Diante da ausência de contratação do seguro pelo consumidor, é necessário o retorno das partes ao status quo ante, com a restituição do valor descontado.
+03. Não cabe a fixação de compensação por dano moral quando há apenas seis descontos indevidos no benefício previdenciário da autora, e o montante é ínfimo. Mero aborrecimento.
+Recurso conhecido não provido
+Opostos embargos de declaração, foram acolhidos.
+Nas razões do recurso especial, aponta a parte recorrente, além de dissídio jurisprudencial, ofensa ao disposto nos arts. 186 e 927, do CC.
+Em apertada síntese, sustenta que "resta caracterizado, o dano moral sofrido pela recorrente, pessoa idosa, que teve descontados de sua conta corrente onde recebe seu benefício previdenciário, portanto, verba de caráter alimentar."
+É o relatório. DECIDO.
+2. Cinge-se a controvérsia na existência ou não de dano moral decorrente de desconto indevido em conta corrente.
+No caso dos autos, em que pese o reconhecimento da existência de descontos indevidos na conta corrente de titularidade daagravante, o Tribunal de origem entendeu que a situação dos autos não caracterizada hipótese de dano moral. Confira-se:
+Apesar de ter sido declarada a inexistência de relação jurídica entre as partes em relação ao contrato de seguro descrito na inicial, as circunstâncias do caso concreto afastam a presunção da ocorrência de dano moral. Isso porque houve apenas seis descontos indevidos no benefício previdenciário da parte autora, no valor total de R$ 239,00 (duzentos e trinta e nove reais). Essa situação não ultrapassa o mero dissabor ou aborrecimento.
+Deve-se considerar, além disso, que, caso o autor eventualmente sofresse algum sinistro, se beneficiaria do respectivo seguro de vida. Logo, não estão preenchidos os requisitos do dever de indenizar. Em casos semelhantes:
+Nesse contexto, verifico que o acolhimento da pretensão recursal, a fim de acolher as alegações da parte agravante e reconhecer a ocorrência dos danos morais, exigiria a alteração das premissas fático- probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, atraindo o óbice da Súmula 7 do STJ.
+Merece destaque, sobre o tema, o consignado no julgamento do Resp 336.741/SP, Rel. Min. Fernando Gonçalves, DJ 07/04/2003, "(..) se, nos moldes em que delineada a questão federal, há necessidade de se incursionar na seara fático- probatória, soberanamente decidida pelas instâncias ordinárias, não merece trânsito o recurso especial, ante o veto da súmula 7-STJ".
+3. Por fim, impõe-se anotar que a incidência da Súmula n. 7/STJ prejudica o exame do recurso especial pela alínea "c" do permissivo constitucional. Nesse sentido: REsp 1.086.048/RS, Rel. Ministro Arnaldo Esteves Lima, Quinta Turma, julgado em 21/06/2011, DJe de 13/09/2011; EDcl no Ag 984.901/SP, Rel. Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 16/03/2010, DJe de 05/04/2010; AgRg no REsp 1.030.586/SP, Rel. Ministro Felix Fischer, Quinta Turma, julgado em 30/05/2008, DJe de 23/06/2008.
+4. Ante o exposto, nego provimento ao agravo.
+Havendo nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
