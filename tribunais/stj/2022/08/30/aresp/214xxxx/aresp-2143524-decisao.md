@@ -1,0 +1,98 @@
+DECISÃO
+1. Cuida-se de agravo interposto por SOCIEDADE CAMPINEIRA DE EDUCAÇÃO E INSTRUÇÃO contra decisão que não admitiu o seu recurso especial, por sua vez manejado em combate a acórdão proferido peloTRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado:
+Ação monitória - Pretensão de reforma da sentença, que reconheceu a ocorrência de prescrição intercorrente - Insubsistência - Sob a égide do CPC/73, aplica-se analogicamente o disposto no art. 40, §2º, da Lei de Execução Fiscal, segundo o qual a contagem do prazo da prescrição intercorrente das execuções suspensas por ausência de bens começa a fluir após um ano da suspensão - Prazo prescricional quinquenal, ex vi do que preceitua o art. 206, § 5º, inc. I, do CC - Súmula 150, do STF - Inaplicabilidade, in casu, do art. 1.056, do CPC/15 - Precedente do Incidente de Assunção de Competência no REsp nº 1.604.421-SC - Sentença mantida - Recurso não provido.
+Nas razões do recurso especial, aponta a parte recorrente, além de dissídio jurisprudencial, ofensa ao disposto noart. 791, III, do CPC/1973.
+Alega que a suspensão dos processos por ausência de bens penhoráveis interrompe o prazo prescricional por tempo indeterminado. Afirma ainda ser indispensável a prévia intimação pessoal do credor para a declaração da prescrição intercorrente, o que não ocorreu no presente caso.
+Não foram apresentadas contrarrazões ao recurso especial, consoante certidão à fl. 261.
+É o relatório.
+DECIDO.
+2. A irresignação não prospera, seja pela alínea "a", seja pela alínea "c" do permissivo constitucional.
+Trata-se de ação monitória convertida em execução em que a Corte local manteve a extinção do feito por ocorrência de prescrição intercorrente, com a seguinte fundamentação no acórdão recorrido:
+"Por proêmio, ressalto que a prescrição intercorrente não foi introduzida ao ordenamento jurídico brasileiro com a vigência do Código de Processo Civil de 2015, tendo sido apenas regulamentada formalmente pelo novo diploma processual.
+Deveras, mesmo na vigência da lei processual civil anterior, os tribunais superiores já admitiam a prescrição intercorrente nas hipóteses em que o processo ficasse paralisado por determinado lapso temporal, em razão da inércia da parte em buscar a satisfação do seu crédito.
+Isso porque se adotava o entendimento de que nenhum processo poderia ser suspenso por prazo indeterminado, pois, do contrário, o executado viveria eternamente com uma espada de Dâmocles sobre a cabeça.
+ ..
+Com efeito, a jurisprudência passou a aplicar, analogicamente, as regras previstas no art. 265, §5º, do Código de Processo Civil de 1973 e art. 40, §2º, da Lei nº 6.830/80, consoante se verifica de trecho abaixo transcrito do voto proferido pelo Ministro Paulo de Tarso Sanseverino no julgamento do REsp nº 1.522.092/MS (DJe 19/10/2015):
+ ..
+Desse modo, findo o prazo razoável de 1 (um) ano para a suspensão da execução, o prazo prescricional é retomado.
+Sobreleva acrescentar, por oportuno, que não se desconhece o entendimento acerca da necessidade de prévia intimação do exequente como condição para a caracterização de sua desídia e, consequentemente, reconhecimento da prescrição intercorrente.
+Todavia, referida orientação jurisprudencial foi recentemente revista pelo Superior Tribunal de Justiça, o qual fixou a tese de que é prescindível a intimação pessoal prévia do exequente, bastando que seja respeitado o princípio do contraditório (AgInt. no Resp 1615303/PR, Rel. Min. Marco Aurélio Belizze, Terceira Turma, j. 25/04/2017).
+Tecidas referidas considerações, observo que a presente ação executiva está fulminada pela prescrição.
+Deveras, compulsando os autos, verifica-se que a execução foi suspensa em abril de 2009 (fl. 91), com fulcro no art. 791, inc. III, do CPC/73 e que, apenas em maio de 2016, quando a pretensão executória já se encontrava prescrita, o exequente compareceu aos autos para requerer o desarquivamento dos autos (fl. 95).
+Com efeito, cuida-se de ação de monitória, convertida em execução, fundada em contrato de prestação de serviços educacionais (fls. 25/29), a qual prescreve em 5 (cinco) anos, ex vi do que preceitua o art. 206, §5º, I, do Código Civil e a súmula 150 do Supremo Tribunal Federal (Prescreve a execução no mesmo prazo de prescrição da ação).
+Considerando-se que a execução foi suspensa em abril de 2009 e que o prazo suspensivo findou após um ano, ou seja, em abril de 2010, o prazo prescricional intercorrente começou a fluir em abril de 2010 e se consumou em abril de 2015.
+Regularmente intimada a exequente, em homenagem e respeito ao seu direito de contraditório e ampla defesa, não logrou êxito no sentido de demonstrar eventual causa interruptiva ou suspensiva da prescrição.
+Por derradeiro, cumpre consignar que a existência de regra de transição prevista no art. 1.056 do Novo Código de Processo Civil, não é apta a infirmar a conclusão adotada, pois aplicável, exclusivamente, aos processos executivos em tramitação que se encontravam suspensos por ocasião da sua entrada em vigor.
+Nesse sentido, aos prazos prescricionais já transcorridos ou iniciados na vigência do Código de Processo Civil de 1973, como no caso em testilha, ainda que se aplique imediatamente o Código de Processo Civil de 2015, não serão eles reiniciados, nem tampouco reabertos, devendo sua contagem observar a legislação então vigente.
+Esse, aliás, foi o entendimento consolidado pelo E. Superior Tribunal de Justiça no Incidente de Assunção de Competência no REsp nº 1.604.412-SC julgado em 27/06/2018, sob relatoria do Ministro Marco Aurélio Belizze, cuja ementa se transcreve:
+ .. " (g.n.)
+Verifica-se que o acórdão recorrido está em consonância com a jurisprudência do STJ.
+Como sabido, a Segunda Seção do STJ, em sede de Incidente de Assunção de Competência, no âmbito do REsp 1604412/SC, definiu as seguintes teses a respeito da prescrição intercorrente:
+RECURSO ESPECIAL. INCIDENTE DE ASSUNÇÃO DE COMPETÊNCIA. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PRESCRIÇÃO INTERCORRENTE DA PRETENSÃO EXECUTÓRIA. CABIMENTO. TERMO INICIAL. NECESSIDADE DE PRÉVIA INTIMAÇÃO DO CREDOR-EXEQUENTE. OITIVA DO CREDOR. INEXISTÊNCIA. CONTRADITÓRIO DESRESPEITADO. RECURSO ESPECIAL PROVIDO.
+1. As teses a serem firmadas, para efeito do art. 947 do CPC/2015 são as seguintes:
+1.1 Incide a prescrição intercorrente, nas causas regidas pelo CPC/73, quando o exequente permanece inerte por prazo superior ao de prescrição do direito material vindicado, conforme interpretação extraída do art. 202, parágrafo único, do Código Civil de 2002.
+1.2 O termo inicial do prazo prescricional, na vigência do CPC/1973, conta-se do fim do prazo judicial de suspensão do processo ou, inexistindo prazo fixado, do transcurso de um ano (aplicação analógica
+do art. 40, § 2º, da Lei 6.830/1980).
+1.3 O termo inicial do art. 1.056 do CPC/2015 tem incidência apenas nas hipóteses em que o processo se encontrava suspenso na data da entrada em vigor da novel lei processual, uma vez que não se pode extrair interpretação que viabilize o reinício ou a reabertura de prazo prescricional ocorridos na vigência do revogado CPC/1973 (aplicação irretroativa da norma processual).
+1.4. O contraditório é princípio que deve ser respeitado em todas as manifestações do Poder Judiciário, que deve zelar pela sua observância, inclusive nas hipóteses de declaração de ofício da prescrição intercorrente, devendo o credor ser previamente intimado para opor algum fato impeditivo à incidência da prescrição.
+2. No caso concreto, a despeito de transcorrido mais de uma década após o arquivamento administrativo do processo, não houve a intimação da recorrente a assegurar o exercício oportuno do contraditório.
+3. Recurso especial provido.
+(REsp 1604412/SC, Rel. Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 27/06/2018, DJe 22/08/2018)
+Do voto do il Relator, Min. Bellizze, é possível ainda se aferir as seguintes ponderações:
+Quanto ao termo inicial, convém ainda ter-se em consideração que o referido Código contém previsão taxativa das hipóteses de interrupção da prescrição, entre as quais figura o despacho positivo do juiz, ainda que incompetente (art. 202, I, do CC/2002), ao lado das demais causas extrajudiciais interruptivas. Acrescentou ainda o legislador que, uma vez interrompida a prescrição, o prazo prescricional é retomado por inteiro "da data do ato que a interrompeu ou do último ato do processo para interrompê-la" (parágrafo único do art. 202 do CC/2002), o que a princípio coincidiria com o despacho de arquivamento.Todavia, como esse despacho decorreu de decisão que deferiu a suspensão do processo, situação para a qual, de fato, o CPC/1973 não estabelecia prazo limite, cabe ao Judiciário a integração da norma por meio da analogia.
+Nesse sentido, bem sinalizou o Min. Paulo de Tarso Sanseverino no mencionado voto proferido perante a Terceira Turma (REsp n. 1.522.092/MS, Rel. Min. Paulo de Tarso Sanseverino, Terceira Turma, DJe 13/10/2015):
+ ..
+Findo prazo razoável de 1(um) ano para suspensão da demanda, também o prazo prescricional deve ser retomado e, uma vez consumado, reconhecida a prescrição com observância do contraditório.
+ ..
+A alteração de entendimento jurisprudencial propugnada pela Terceira Turma do STJ não promove a aplicação do novo Código de Processo Civil a situações pretéritas. Definitivamente, não. O CPC/1973 sequer regulou a prescrição intercorrente e, como consectário lógico de sua imprevisão, em momento algum dispôs que o início do prazo da prescrição intercorrente estaria condicionado à intimação da parte exequente. Tratava-se de uma interpretação analógica, atrelada ao instituto do abandono da causa, que, conforme demonstrado, em nada tangencia a prescrição, a evidenciar a inadequação do entendimento então adotado. Desse modo, não se pode afirmar que o NCPC modificou o tratamento a ser dado à matéria, ao expressamente preceituar - aliás, em absoluta consonância com o instituto - a desnecessidade de intimação do exequente, para efeito de início do prazo da prescrição intercorrente.
+Tampouco se afigura adequado concluir que o CPC/2015, ao assim dispor, inovou, propriamente, sobre a questão. Na verdade, o novo Código de Processo Civil normatizou a prescrição intercorrente, a ela conferindo exatamente o mesmo tratamento então ofertado pela Lei de Execução Fiscal. Anteriormente à vigência do CPC/2015, diante da existência de uma lacuna na lei para regular uma situação absolutamente similar a outra que, por sua vez, encontra-se devidamente disciplinada por lei, absolutamente recomendável, se não de rigor, a aplicação analógica, como forma primeira de integração do direito.
+Logo, a interpretação conferida à prescrição intercorrente que ora se propõe observa detidamente a natureza do instituto, considerado, ainda, o correlato tratamento das leis substantiva e adjetiva à época vigentes (Código Civil, Código de Processo Civil de 1973 e Lei de Execuções Fiscais).
+A existência de regra de transição não infirma tal conclusão - antes a confirma -, devendo-se, naturalmente, bem explicitar a sua hipótese de incidência, coerente com a compreensão até aqui externada.
+ ..
+Dispõe o art. 1.056 do NCPC: "Considerar-se-á como termo inicial do prazo da prescrição prevista no art. 924, inciso V, inclusive para as execuções em curso, a data de vigência deste Código".
+Conforme anotado, exaurido o ato judicial de suspensão do processo executivo, que se dá com o esgotamento do período em que o processo ficou suspenso (por no máximo um ano), o prazo prescricional da pretensão executiva volta a correr por inteiro, automaticamente.
+ ..
+Por conseguinte, a regra de transição tem aplicação, exclusivamente, aos processos executivos em tramitação, que se encontrem suspensos, por ausência de bens penhoráveis, por ocasião da entrada em vigor do Código de Processo Civil de 2015. Assim, encontrando-se suspenso o processo executivo, o prazo da prescrição intercorrente começa a fluir um ano contado da entrada em vigor do NCPC, em interpretação conjunta dos arts. 1.056 e §§ 1º e 4º, do art. 921 do mesmo diploma legal.
+ ..
+Nessa linha de raciocínio, deve-se concluir que, para os prazos prescricionais já transcorridos ou iniciados na vigência do Código de Processo Civil de 1973, ainda que se aplique imediatamente o Código de Processo Civil de 2015, não serão eles reiniciados, tampouco reabertos, devendo sua contagem observar a legislação então vigente, com as interpretações conferidas por esta Corte Superior.
+Essa conclusão, afinal, não afasta a incidência do referido dispositivo que, contudo, tem incidência apenas para aqueles processos que se encontravam suspensos na data da entrada em vigor do Código de Processo Civil de 2015. Para esses casos, o prazo ânuo da suspensão do processo será contado não do despacho de arquivamento, mas da entrada em vigor do novel diploma processual.
+ ..
+Consta dos autos que o processo de execução foi suspenso, sine die, em 17/3/2000 (e-STJ, fl. 53), a requerimento do credor, tendo ficado paralisado até 2014. O prazo de prescrição começou a fluir em 17/3/2001, um ano após a suspensão, pelo prazo geral de 20 anos. Em 2003, com a entrada em vigor do novo Código Civil, recomeçou a contagem pelo prazo quinquenal, por se tratar de dívida líquida constante em instrumento particular, estando fulminada a pretensão em 2008 (art. 206, § 5º, inciso I, do Código Civil).
+2. Imprescindibilidade de intimação prévia do credor.
+Diante da distinção ontológica entre a prescrição intercorrente e o abandono da causa, nota-se que a prescrição intercorrente independe de intimação para dar andamento ao processo. Esta intimação prevista no art. 267, § 1º, do CPC/1973 era exigida para o fim exclusivo de caracterizar comportamento processual desidioso, dando ensejo à punição processual cominada na forma de extinção da demanda sem resolução de mérito.
+Porém, mesmo sendo reconhecível de ofício, a prescrição não é indiferente à necessidade de prévio contraditório.
+ ..
+Nessa ordem de ideias, a viabilização do contraditório, ampliada pelo art. 10 do novo CPC - que impõe sua observância mesmo para a decisão de matérias conhecíveis de ofício -, concretiza a atuação leal do Poder Judiciário, corolária da boa-fé processual hoje expressamente prevista no art. 5º do novo CPC e imposta a todos aqueles que atuem no processo. Ao mesmo tempo, mantém-se a limitação da exposição do devedor aos efeitos da "litispendência", harmonizando-se a prescrição intercorrente ao direito fundamental à razoável duração do processo, conforme lição de Araken de Assis (Manual da execução. 17ª ed. São Paulo: RT, 2014, p. 531).
+Essa mesma exigência foi incorporada no novo CPC, em que se passou a prever expressamente regra paralela ao art. 40 da LEF, nos seguintes termos:
+Art. 921. Suspende-se a execução:
+..
+§ 4º. Decorrido o prazo de que trata o § 1o sem manifestação do exequente, começa a correr o prazo de prescrição intercorrente.
+§ 5º. O juiz, depois de ouvidas as partes, no prazo de 15 (quinze) dias, poderá, de ofício, reconhecer a prescrição de que trata o § 4º e extinguir o processo.
+Destarte, para o eventual reconhecimento de ofício da prescrição intercorrente, em ambos os textos legais - tanto na LEF como no novo CPC - prestigiou-se a abertura de prévio contraditório, não para que a parte dê andamento ao processo, mas para assegurar-lhe oportunidade de apresentar defesa quanto à eventual ocorrência de fatos impeditivos, interruptivos ou suspensivos da prescrição. Portanto, frisa-se, não para promover, extemporaneamente, o andamento do processo.
+Essa nova arquitetura legal torna mais técnica a solução a ser aplicada, amoldando-se à lógica dos sistemas processual e material civil, em que a acomodação das relações jurídicas pelo transcurso do tempo associado à inércia é indiscutivelmente a regra, limitando-se a imprescritibilidade às situações expressamente previstas no ordenamento jurídico.
+ ..
+Diante desse contexto e com os fundamentos acima expostos, conheço do recurso especial, e dou-lhe provimento para determinar o retorno dos autos para atendimento do devido processo legal à luz do entendimento ora firmado.
+É como voto.
+No mesmo sentido:
+_______________
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO. PRESCRIÇÃO INTERCORRENTE. TERMO INICIAL. INTIMAÇÃO DO EXEQUENTE. DESNECESSIDADE. DECISÃO MANTIDA.
+1. A Segunda Seção do STJ, no julgamento do REsp n. 1.604.412/SC (IAC n. 1, Relator Ministro MARCO AURÉLIO BELLIZZE, DJe 22/8/2018), decidiu ser desnecessária a prévia intimação do exequente para que o prazo da prescrição intercorrente se inicie.
+2. Estando o acórdão recorrido em consonância com o posicionamento firmado em precedente uniformizador desta Corte, impõe-se a aplicação da Súmula n. 83/STJ.
+3. Agravo a que se nega provimento.
+(AgInt no AREsp 1486569/DF, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 29/10/2019, DJe 07/11/2019)
+_______________
+AGRAVO INTERNO NO RECURSO ESPECIAL. PRESCRIÇÃO INTERCORRENTE. INTIMAÇÃO PESSOAL. NOVA ORIENTAÇÃO. DESNECESSIDADE. IAC NO REsp 1.604.412/SC. EFEITOS. MODULAÇÃO. INEXISTÊNCIA. TESE. APLICAÇÃO IMEDIATA. NÃO PROVIMENTO.
+1. A Segunda Seção desta Corte firmou entendimento de que não há necessidade de intimação pessoal do exequente para que tenha curso a prescrição intercorrente.
+2. Entendimento que tem aplicação imediata, porquanto não houve modulação de efeitos.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1769992/PR, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 19/09/2019, DJe 24/09/2019)
+_______________
+2.1Assim, considerando a moldura fática delineada no acórdão recorrido, mostram-se atendidos todos os requisitos exigidos no referido precedente da Segunda Seção do STJ para fins de reconhecimento da prescrição intercorrente:
+i) incidência da prescrição intercorrente, nas causas regidas pelo CPC/73, quando o exequente permanecer inerte por prazo superior ao de prescrição do direito material vindicado,conforme interpretação extraída do art. 202, parágrafo único, do Código Civil de 2002;
+ii) quanto ao termo inicial "o referido Código contém previsão taxativa das hipóteses de interrupção da prescrição, entre as quais figura o despacho positivo do juiz, ainda que incompetente (art. 202, I, do CC/2002), ao lado das demais causas extrajudiciais interruptivas  ..  uma vez interrompida a prescrição, o prazo prescricional é retomado por inteiro "da data do ato que a interrompeu ou do último ato do processo para interrompê-la" (parágrafo único do art. 202 do CC/2002), o que a princípio coincidiria com o despacho de arquivamento". Todavia, não localizado o devedor ouinexistindo bens passíveis de penhora, "o termo inicial do prazo prescricional, na vigência do CPC/1973, conta-se do fim do prazo judicial de suspensão do processo ou, inexistindo prazo fixado, do transcurso de um ano";
+Conforme consta do acórdão recorrido, "Considerando -se que a execução foi suspensa em abril de 2009 e que o prazo suspensivo findou após um ano , ou seja, em abril de 2010, o prazo prescricional intercorrente começou a fluir em abril de 2010" (fl. 238),dessa forma ressalta-se que "os prazos prescricionais já transcorridos ou iniciados na vigência do Código de Processo Civil de 1973, ainda que se aplique imediatamente o Código de Processo Civil de 2015, não serão eles reiniciados, tampouco reabertos, devendo sua contagem observar a legislação então vigente, com as interpretações conferidas por esta Corte Superior".
+iii) adesnecessidade da intimação pessoal para dar prosseguimento ao feito; e
+iv) orespeito ao contraditório.
+Incidência da Súmula 568 do STJ.
+3. Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
