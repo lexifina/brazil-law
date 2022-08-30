@@ -1,0 +1,27 @@
+DECISÃO
+1. Cuida-se de agravo interposto por CONSÓRCIO NACIONAL VOLKSWAGEN - ADMINISTRADORA DE CONSÓRCIO LTDA contra decisão que não admitiu o seu recurso especial, por sua vez manejado em combate a acórdão proferido peloTRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim ementado:
+APELAÇÃO. CONSÓRCIO. VIOLAÇÃO AO PRINCIPIO DA DIALETICIDADE. REJEIÇÃO. RESCISAO DE CONTRATO DE CONSÓRCIO. POSSIBILIDADE. RESTITUIÇÃO DOS VALORES PAGOS. CDC. APLICABILIDADE. RETENÇÃO. POSSIBILIDADE. RECURSO QUE ATENDE AOS REQUISITOS DO ARTIGO 1010 DO CPC DEVE SER CONHECIDO, AUSENTE VIOLAÇÃO AO PRINCÍPIO DA DIALETICIDADE. A RELAÇÃO HAVIDA ENTRE O CONSORCIADO E A ADMINISTRADORA POSSUI NATUREZA DE CONSUMO, FIGURANDO ESTA ÚLTIMA COMO TÍPICA FORNECEDORA DE SERVIÇOS, CONFORME OS ARTIGOS 2º E 3º DO CDC. NÃO HAVENDO FALHA NA PRESTAÇÃO DO SERVIÇO A ENSEJAR A RESCISÃO DO CONTRATO, ESTA SE DÁ POR REQUERIMENTO DO CONSORCIADO, QUE TEM DIREITO A RECEBER OS VALORES PAGOS, OBSERVADA A RETENÇÃO.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, aponta a parte recorrente, além de dissídio jurisprudencial, ofensa ao disposto nos arts.489 e 1.022, II do CPC e 10, § 5º, 27, 31 e 32 da Lei n. 11.795/98, alegando em síntese, omissão no acórdão recorrido e que deveria ser descontado do valor devido os valores referentes a taxa de administração, fundo de reserva, seguro de vida em grupo e multa pecuniária.
+Contrarrazões ao recurso especial às fls. 413/416.
+É o relatório.
+DECIDO.
+2. A irresignação não prospera.
+3. Inicialmente, observa-se que não se viabiliza o recurso especial pela indicada violação do artigo 1.022 do Código de Processo Civil de 2015. Isso porque, embora rejeitados os embargos de declaração, o Tribunal de origem indicou adequadamente os motivos que lhe formaram o convencimento, analisando de forma clara, precisa e completa as questões relevantes do processo e solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+Não há falar, portanto, em prestação jurisdicional lacunosa ou deficitária apenas pelo fato de o acórdão recorrido ter decidido em sentido contrário à pretensão do recorrente.
+4. No que tange os valores a serem devolvidos, bem como os valores descontados desse valor, o Tribunal de origem se manifestou nos seguintes termos (e-STJ fls. 297/298):
+No presente caso, constata-se que a rescisão do contrato se deu por requerimento da embargada, não sendo constatadas falha na prestação de serviço, nem ao menos onerosidade excessiva pela embargante, ao alterar o valor do veículo base do contrato. Portanto, declarada a rescisão, os valores pagos pela embargada, devem lhe ser restituídos, observadas as retençõesprevistas nas cláusulas 29.1 e 29.2 do contrato, não sendo permitido que a mesma perca parte considerável do valor investido. Ao contrário do alegado pela embargante, as referidas cláusulas contemplam a incidência de multa, bem como o percentual a ser retido em decorrência de prejuízos causados ao grupo, em face da saída do mesmo. A pretensão aqui deduzida pelo embargante caracteriza inovação, haja vista que deveria tê-la sido produzida em recurso próprio para tanto e assim não o fez.  g.m.
+Sendo assim,alterar o v. acórdão demandaria, necessariamente, a incursão no acervo fático-probatório dos autos e na interpretação de cláusulas contratuais. Contudo, tal medida encontra óbice nas Súmulas 5 e 7 do STJ.
+5. No mais, aincidência do óbice contido na Súmula 7 do STJ impede a análise do dissídio jurisprudencial, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão recorrido, tendo em vista a situação fática do caso, com base na qual a Corte de origem deu solução à causa.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.AÇÃO DE DISSOLUÇÃO PARCIAL DE SOCIEDADE. PREQUESTIONAMENTO.AUSÊNCIA. SÚMULA 211/STJ. REEXAME DE FATOS E PROVAS.INADMISSIBILIDADE. QUEBRA DA AFFECTIO SOCIETATIS. PREPONDERÂNCIA DO LIAME SUBJETIVO ENTRE OS SÓCIOS. POSSIBILIDADE DE DISSOLUÇÃO DA SOCIEDADE ANÔNIMA. ENTENDIMENTO DO ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE. CERCEAMENTO DE DEFESA. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO.
+1. Ação de dissolução parcial de sociedade.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+3. O reexame de fatos e provas em recurso especial é inadmissível.
+4. A jurisprudência do STJ reconhece a possibilidade jurídica da dissolução parcial de sociedade anônima fechada, em que prepondere o liame subjetivo entre os sócios, ao fundamento de quebra da affectio societatis.
+5. A incidência da Súmula 7 do STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+6. Agravo interno no agravo em recurso especial não provido.
+(AgInt no AREsp 1861293/RS, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 20/09/2021, DJe 22/09/2021)  g.m.
+6. Ante o exposto, nego provimento ao agravo.
+Havendo nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
