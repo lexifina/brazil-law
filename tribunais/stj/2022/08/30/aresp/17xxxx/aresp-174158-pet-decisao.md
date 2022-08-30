@@ -1,0 +1,5 @@
+DECISÃO
+Trata-se de petição, autuada como expediente avulso, por meio da qual os requerentes sustentam a nulidade da intimação da decisão de fls. 359-3620/e-STJ, que negou provimento ao agravo em recurso especial, requerendo sua republicação, com a consequente devolução do prazo para recurso.
+Considero relevante a alegação dos requerentes de que, embora desde 2007 sejam representados pelo advogado José Xavier Marques, OAB/SP nº 53.722, conforme procuração de fl. 58/e-STJ - advogado que subscreveu o recurso de apelação, o recurso especial e o agravo em recurso especial -, a publicação questionada foi feita no nome do antigo patrono das partes.
+Em face do exposto, determino o restabelecimento dos autos e a retificação da autuação, fazendo constar José Xavier Marques, OAB/SP nº 53.722, como procurador dos recorrentes, ficando sem efeito a certificação de trânsito em julgado para os requerentes, aos quais deve ser restituído o prazo para interposição de recurso, iniciando-se da intimação desta decisão, que deverá ser juntada aos autosdo agravo em recurso especial.
+Intimem-se.
