@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo (art. 1042 do CPC/15), interposto por BRAGA NASCIMENTO E ZILIO ADVOGADOS ASSOCIADOS, contra decisão que não admitiu recurso especial (fls. 878/879, e-STJ).
+O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, desafia acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fls. 745/746, e-STJ):
+RECURSO - APELAÇÃO CÍVEL - PRESTAÇÃO DE SERVIÇOS - CAPTAÇÃO DE CLIENTES EM FAVOR DE ESCRITÓRIO DE ADVOCACIA - AÇÃO DE COBRANÇA DE HONORÁRIOS CONTRATUAIS. Advogado requerente que alega ter prestado serviços de captação de clientes em favor do escritório de advocacia requerido e remuneração com base no proveito econômico obtido em ações judiciais movidas contra companhia de saneamento básico. Alegação de inadimplência dos honorários advocatícios contratuais devidos. Pleito de cobrança. Sentença de improcedência com aplicação de multa ao requerente por litigância de má-fé. Apelo do requerente defendendo a inversão do julgado. Prova acostada pelo escritório requerido que demonstra, indene de dúvidas, a quitação da obrigação reclamada pelo advogado requerente, ante todos os detalhes que relacionam o recibo ao serviço prestado. Correta a aplicação de multa ao requerente por alteração da verdade dos fatos ao propor ação contra fato que, incontestavelmente, restou provado pela parte contrária. Improcedência. Sentença mantida. Recurso de apelação do requerente não provido, majorada a verba honorária advocatícia sucumbencial da parte adversa, atento ao conteúdo do parágrafo 11 do artigo 85 do Código de Processo Civil, de 10% ( dez por cento ) para 12% ( doze por cento ) sobre o valor atualizado da causa.
+RECURSO - ADESIVO - PRESTAÇÃO DE SERVIÇOS - CAPTAÇÃO DE CLIENTES EM FAVOR DE ESCRITÓRIO DE ADVOCACIA - AÇÃO DE COBRANÇA DE HONORÁRIOS CONTRATUAIS. Recurso adesivo do escritório requerido pleiteando a majoração da multa por litigância de má-fé e a condenação com base no artigo 940 do Código Civil. Valor da multa cominada que é suficiente face a conduta processual do requerente, enquanto que a majoração pretendida implicaria em enriquecimento sem causa, o que não se admite. Impossibilidade de cobrança em dobro, ausente prejuízo ao requerido. Improcedência. Sentença mantida. Recurso adesivo do requerido não provido, descabida a majoração da verba honorária advocatícia sucumbencial da parte adversa, pois não houve fixação de verba honorária na origem em seu favor.
+Opostos embargos de declaração, restaram rejeitados (fls. 782/786, e-STJ).
+Em suas razões de recurso especial (fls. 819/831, e-STJ), o recorrente aponta ofensa ao artigo 940 do CC/02.
+Sustenta, em síntese, ser necessária a condenação do Recorrido ao pagamento em dobro do valor indevidamente pleiteado.
+Contrarrazões (fls. 842/855, e-STJ).
+Em juízo de admissibilidade, negou-se o processamento do recurso especial, pelos seguintes fundamentos: (i) não houve demonstração das vulnerações legais suscitadas; e (ii) incidência da Súmula 7/STJ.
+Daí o presente agravo (art. 1042 do CPC/15) de fls. 895/904, e-STJ, buscando destrancar o processamento daquela insurgência.
+Contraminuta às fls. 908/919 (e-STJ).
+É o relatório.
+Decido.
+O inconformismo não merece prosperar.
+1.Depreende-se dos autos que o conteúdo normativo doartigo940 do CC/02 - sob a perspectiva da má-fé -, não foi objeto de exame pelo acórdão recorrido, razão pela qual, incide, na espécie, o óbice inscrito na Súmula 211/STJ, ante a ausência de prequestionamento.
+Tampouco cabe falar em prequestionamento ficto face ao art. 1025 do CPC/15.
+Nos termos da jurisprudência desta Casa, para se possibilitar a sua incidência, cabe a parte alegar, quando de suas razões do recurso especial, a necessária ofensa ao art. 1022 do CPC/15 de modo a permitir sanar eventual omissão através de novo julgamento dos aclaratórios, caso existente, o que não foi feito no presente feito.
+Tal como dito, "a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei"(REsp 1639314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 04/04/2017, DJe 10/04/2017).
+2. Além disso, aCorte de origem, ao decidir a demanda, assim dispôs (fl. 752, e-STJ):
+Da mesma forma, não há amparo para o pedido de condenação do requerido ao pagamento em dobro do valor pretendido, com espeque no artigo 940 do Código Civil.
+Ora, na hipótese, não há prova de prejuízo material decorrente da cobrança, a amparar a pretensão a favor do escritório de advocacia.
+Nesta toada, à maneira do pedido de majoração da multa por litigância de má-fé, a condenação pretendida implicaria em evidente desproporcionalidade e risco de enriquecimento sem causa, devendo ser afastada.
+Ocorre, com relação à fundamentação delineada pela Corte de origem acerca da ausência de prejuízo, desproporcionalidade e risco de enriquecimento ilícito, não houve impugnação nas razões do recurso especial.
+Desse modo, a subsistência de fundamentos inatacados aptos a manter a conclusão do aresto impugnado, impõe o não conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula 283/STF ("É inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles").
+Outrossim, reexaminar o entendimento da instância inferior demandaria revolvimento de matéria fático-probatória, inadmissível no apelo especial, por óbice da Súmula 7/STJ.
+3. Do exposto, com amparo no artigo 932 do CPC/15 c/c a Súmula 568/STJ, nego provimento ao recurso.
+Publique-se.
+Intimem-se.
