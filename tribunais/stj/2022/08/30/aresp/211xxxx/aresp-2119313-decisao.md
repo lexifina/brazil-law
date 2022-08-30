@@ -1,0 +1,16 @@
+DECISÃO
+1. Cuida-se de agravo interposto por SUBSEA 7 DO BRASIL SERVIÇOS LTDA eSUBSEA 7 GESTAO BRASIL S.A. contra decisão que não admitiu o seu recurso especial, por sua vez manejado em combate a acórdão proferido peloTRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, assim ementado:
+AGRAVO INTERNO em face de decisão monocrática que não conheceu do agravo de instrumento. Recurso interposto em face de sentença que julgou extinta a ação de desconsideração da personalidade jurídica por inadequação da via eleita. Recurso adequado que seria o de Apelação, face à redação clara e expressa do art. 1.009 do CPC. Erro inescusável que afasta a aplicação do Princípio da Fungibilidade. Inexistência de novos argumentos. Questões já abordadas quando da decisão monocrática, que se mantém. NEGADO PROVIMENTO AO AGRAVO INTERNO.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, aponta a parte recorrente, além de dissídio jurisprudencial, ofensa ao disposto nos arts. 136 e 1.015, IV, ambos do CPC.
+Sustenta, emsíntese, que"muito embora tenha o magistrado de origem nomeado a decisão recorrida como "sentença", sabe-se que, nos termos do Código de Processo Civil, a decisão que resolve o incidente de desconsideração da personalidade jurídica é qualificada como decisão interlocutória, portanto, o recurso cabível é o agravo de instrumento, sendo incabível recurso de apelação, este sim, caso interposto, seria um erro grosseiro" (Fl. e-STJ 112).
+Uma das recorridas não apresentou contrarrazões ao recurso especial, consoante certidão à Fl. e-STJ 197, ao tempo em que as contrarrazões da outra se encontram acostadas às Fls. e-STJ 188-196.
+É o relatório.
+DECIDO.
+2. A irresignação não prospera.
+3. Nota-se que muito embora oacórdão recorrido esteja assentado em mais de um fundamento suficiente para mantê-lo,arecorrente não cuidou de impugnar todos eles, como seria de rigor.
+Desta forma, subsistindo fundamento inatacado apto a manter a conclusão do aresto impugnado - qual seja:o fato de que"os agravantes interpuseram agravo em face da sentença que extinguiu o feito de desconsideração de personalidade jurídica, uma vez que propuseram ação autônoma ao invés de incidente nos autos principais"  g.n. (Fl. e-STJ 67)-, tem-se que o não conhecimento da pretensão recursal é medida que se impõe, a teor do entendimento disposto na Súmula nº 283/STF("É inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+4. No mais, "Fica prejudicada a análise da divergência jurisprudencial quando a tese sustentada já foi afastada no exame do Recurso Especial pela alínea "a" do permissivo constitucional." (REsp 1797534/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 11/06/2019, DJe 01/07/2019).
+5. Ante o exposto, nego provimento ao agravo.
+Havendo nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
