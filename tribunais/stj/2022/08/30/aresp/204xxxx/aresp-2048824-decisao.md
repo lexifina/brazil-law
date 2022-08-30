@@ -1,0 +1,23 @@
+DECISÃO
+1. Cuida-se de agravo interposto por ELSON MULLER E OUTROS contra decisão que não admitiu o seu recurso especial, por sua vez manejado em combate a acórdão proferido peloTRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, assim ementado:
+APELAÇÃO CÍVEL. DIREITO PRIVADO NÃO ESPECIFICADO. TELEFONIA. CUMPRIMENTO DE SENTENÇA. CRÉDITO CONCURSAL. TRÂNSITO EM JULGADO ANTERIOR AO DEFERIMENTO DO PEDIDO DE PROCESSAMENTO DO PLANO DE RECUPERAÇÃO JUDICIAL. SUBMISSÃO AOS SEUS EFEITOS. HIPÓTESE DOS AUTOS EM QUE HOUVE A HOMOLOGAÇÃO DO LAUDO PERICIAL E O CRÉDITO É LÍQUIDO. CORRETA EXTINÇÃO DO FEITO NA ORIGEM E EXPEDIÇÃO DE CERTIDÃO PARA FINS DE HABILITAÇÃO DO CRÉDITO PERANTE O JUÍZO DA RECUPERAÇÃO JUDICIAL. SENTENÇA MANTIDA.
+RECURSO DESPROVIDO. UNÂNIME.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial (fls. 1.071-1.080), aponta a parte recorrente ofensa ao disposto noart. 1.022, II, do CPC/2015, arguindo omissão da Corte local sobre a possibilidade de expedição de alvará para levantamento dos valores devidos, determinada pelo juízo de recuperação judicial, independente de quando efetivamente liquidado tal valor. Defende que deve ser determinada a "expedição de alvará para levantamento do valor depositado em 21.07.2008, cuja impugnação à fase de cumprimento de sentença transitou em 01.12.2010, já que encontra-se, o caso em tela, dentro das exceções previstas no processo de recuperação judicial".
+Contrarrazões ao recurso especial às fls. 1.085-1.098.
+É o relatório.
+DECIDO.
+2.A irresignação merece prosperar, diante da existência de omissão não esclarecida no acórdão dos embargos de declaração.
+Embora a parte recorrente tenha aduzido, na apelação - fls. 1.011-1.017, e nos aclaratórios - fls. 1.051-1.057, acerca da questão das hipóteses excepcionais para o levantamento de valores pelo credor conforme determinação do juízo da recuperação judicial, a Corte de origem não se posicionou sobre este ponto, rejeitando os embargos de declaração.
+Na espécie, a Corte local entendeu que o crédito é concursal submetido aos efeitos do plano de recuperação judicial, mantendo a sentença de extinção do feito e expedição de certidão para fins de habilitação do crédito perante o juízo da recuperação judicial (fls. 1.039-1.047), não abordando especificamente a tese da parte recorrente sobre as hipóteses excepcionais para o levantamento de valores pelo credor conforme determinação do próprio juízo da recuperação judicial.
+Nota-se a relevância da questão suscitada:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE ADIMPLEMENTO CONTRATUAL. RECUPERAÇÃO JUDICIAL. OMISSÃO. NÃO OCORRÊNCIA. LEVANTAMENTO DE VALORES. POSSIBILIDADE. SÚMULA 7/STJ. CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO. TRÂNSITO EM JULGADO. HABILITAÇÃO. DESNECESSIDADE. NÃO PROVIMENTO.
+1. O acórdão recorrido analisou todas as questões necessárias ao deslinde da controvérsia, não se configurando omissão alguma ou negativa de prestação jurisdicional.
+2. No processo de recuperação judicial da OI S/A foi proferida decisão estabelecendo ser possível a liberação de valores nos seguintes casos: (a) quando o depósito judicial/bloqueio tenha sido realizado pela OI S/A em data anterior a 21.06.2016 e (b) quando acontecer quaisquer das seguintes situações: (i) o depósito tenha sido feito com a expressa finalidade de pagamento pela OI S/A antes de 21/06/2016; (ii) já tenha ocorrido o trânsito em julgado de embargos à execução ou da impugnação ao cumprimento de sentença, antes de 21/06/2016, ou (iii) já tenha ocorrido a preclusão do incidente de impugnação ao cumprimento de sentença, antes de 21/06/2016.
+3. Preenchidos os requisitos estabelecidos no âmbito do processo de recuperação, desnecessária a habilitação do crédito para a liberação ao credor dos valores depositados ou bloqueados antes de 21.6.2016.
+4. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.782.886/RS, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 10/5/2021, DJe de 12/5/2021.)(g.n.)
+Desse modo, recusando-se a Corte de origem a se manifestar sobre a questão federal, fica obstaculizado o acesso à instância extrema, cabendo à parte vencida invocar, como no caso, a infringência ao art. 1.022 do CPC/2015, a fim de anular o acórdão recorrido, para que o Tribunal a quo supra a omissão existente.
+3. Ante o exposto, conheço do agravo para dar provimentoao recurso especial paracassar o acórdão dos embargos de declaração, a fim de que o eg. Tribunal de origem supra a omissão apontada.
+Publique-se. Intimem-se.
