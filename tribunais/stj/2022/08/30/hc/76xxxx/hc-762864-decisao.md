@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio impetrado em benefício deMARCO AURELIO MARQUES DA COSTA, contra acórdão do Tribunal de Justiça do Estado de São Paulo (Apelação Criminal n. 1501716-66.2021.8.26.0320).
+Consta dos autos que o Juízo de primeiro grau condenou o paciente a 2 anos de reclusão, inicialmente no regime semiaberto, como incurso no art. 155, § 4º, II, do Código Penal (furto qualificado).
+Interposta apelaçãopela defesa, o Tribunal a quo negou provimento ao recurso, emjulgamento que ficou assim resumido (fl. 22):
+"Apelação. Furto qualificado. Pedido de absolvição por atipicidade da conduta, com aplicação do princípio da insignificância. Impossibilidade. Autoria e materialidade comprovadas. Existência de amplo conjunto probatório, suficiente para sustentar a condenação do réu nos moldes em que proferida. Conduta típica. Pedido de afastamento da qualificadora. Não cabimento. Pena e regime bem fixados e que não comportam reparo. Recurso defensivo não provido, expedindo-se mandado de prisão, após o trânsito em julgado."
+Daí opresente writ, no qual aimpetrante assevera ser imperativa a cassação do decreto condenatório, em razão da atipicidade material da conduta do réu, por incidência do princípio da insignificância,eis que"a subtração de fios de cobre, não atinge o patrimônio de ninguém, principalmente de uma concessionária de energia, assim como não tem o condão de enriquecer nem empobrecer quem quer que seja" (fl. 8).
+OMinistério Público Federal opinou pelo não conhecimento do mandamuse, subsidiariamente, pela denegação da ordem, em parecer que recebeu a seguinte ementa (fl. 41):
+"HABEAS CORPUS. DIREITO PROCESSUAL PENAL. FURTO QUALIFICADO. PRINCÍPIO DA INSIGNIFICÂNCIA. NÃO INCIDÊNCIA.REINCIDÊNCIA DO AGENTE. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO.
+1. Não é cabível habeas corpus substitutivo de recurso, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+2. Não é possível a aplicação do princípio da insignificância quando ficar demonstrado que o agente ostenta outra anotação penal pela prática de crime contra o patrimônio, a revelar a periculosidade social e reprovabilidade da conduta praticada. Precedentes do STJ.
+3. Parecer pelo não conhecimento do writ. Caso assim não se entenda, pela denegação da ordem."
+É o relatório.
+Decido.
+Nos termos da jurisprudência desta Corte, o presente habeas corpus não merece ser conhecido, pois impetrado em substituição ao recurso próprio (cf.: HC 358.398/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 09/08/2016).
+Embora seja possível a concessão da ordem, de ofício, casoconstatada a existência de manifesta ofensa à liberdade de locomoção do paciente, essa não é a hipótese dos autos.
+Isso porque, conforme muito bem ressaltou o Parquetem suas manifestações, que adoto como fundamentos dessa decisão, é "inviável a incidência do princípio em questãoconsiderando as condições subjetivas dopaciente, que é reincidente e praticou o crime em comento quando estava em liberdade provisória em decorrência da prática de outro furto, o que denota sua habitualidade delitiva e afasta o reduzidíssimo grau de reprovabilidade da conduta, requisito exigido pela jurisprudência dos Tribunais Superiores para concessão da benesse"(fl. 43).
+Assim,"deve ser mantido o decisum reprochado, no que concerne à impossibilidade de aplicação do princípio da insignificância, pois, conforme " a  jurisprudência desta Corte Superior está firmada no sentido da não incidência do princípio da insignificância nas hipóteses de reiteração de delitos e reincidência, como é o caso dos autos" (AgRg no AREsp n. 896.863/RJ, Sexta Turma, Rel. Min. Sebastião Reis Júnior, DJe de 13/06/2016). Agravo regimental desprovido."(AgRg no AREsp 1651813/SE, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 28/05/2020).
+Com efeito,"o princípio da insignificância é verdadeiro benefício na esfera penal, razão pela qual não há como deixar de se analisar o passado criminoso do agente, sob pena de se instigar a multiplicação de pequenos crimes pelo mesmo autor, os quais se tornariam inatingíveis pelo ordenamento penal. Imprescindível, no caso concreto, porquanto, de plano, aquele que é contumaz na prática de crimes não faz jus a benesses jurídicas" (HC 544.468/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 14/02/2020).
+Dessa forma, inexiste flagrante constrangimento ilegal aautorizara concessão da ordem de ofício.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intime-se.
