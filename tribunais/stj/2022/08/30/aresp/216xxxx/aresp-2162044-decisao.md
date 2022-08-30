@@ -1,0 +1,61 @@
+DECISÃO
+Cuida-se  de  agravo  (art.  1.042  do  CPC),  interposto  por  DEPP WEST LTDA.,  contra  decisão  que  não  admitiu  recurso  especial.
+O  apelo  extremo,  fundamentado  nas  alínea  s  "a"  e "c"  do  permissivo  constitucional,  desafiou  acórdão  proferido  pelo  Tribunal  de  Justiça  do  Estado  do Rio de Janeiro,  assim  ementado  (fl.  263,  e-STJ):
+DIREITO PROCESSUAL CIVIL. Ação de embargos à execução. Sentença de improcedência. Determinação judicial para prosseguimento da execução. Compulsando os autos, verifica-se que a embargante requereu expressamente em sua peça de embargos à execução a produção de prova pericial contábil. No entanto, mesmo sendo deferida a produção do elemento probatório, veja-se que foi decretada a perda da prova, por ausência de recolhimento das despesas necessárias à realização da perícia pela embargante. Importa registrar que o artigo 95 do CPC preceitua, no que diz respeito ao adiantamento dos honorários periciais, ser incumbência da parte que requereu a perícia. E ao que se observa, não logrou êxito a embargante comprovar a impossibilidade de pagamento das despesas da perícia contábil, de forma a corroborar a sua tese. Em razão da falta de comprovação do fato constitutivo do direito da embargante, ônus que lhe cabia, é que se mantém a sentença de improcedência por seus próprios fundamentos. Toda a narrativa apresentada, buscando a nulidade e revisão de cláusulas de contrato celebrado entre as partes, amparado em suposto excesso configurado em execução de título extrajudicial, não encontra guarida qualquer, face a ausência de verossimilhança nos termos expostos pela embargante, a se ver. Recurso desprovido.
+Os embargos de declaração foram rejeitados (fls. 300-306, e-STJ).
+Em  suas  razões  de  recurso  especial,  o  recorrente  aponta  , além do dissídio jurisprudencial,  ofensa  aos  artigos  98 do CPC e 5º, XXXV e LV, da Constituição.
+Sustenta,  em  síntese:  a)  a  concessão da gratuidade de justiça, em razão da situação de hipossuficiência da recorrente; b)a ocorrência de prejuízo à recorrente, em razão da necessidade de realização da perícia contábil.
+Em  juízo  de  admissibilidade,  negou-se  o  processamento  do  recurso  especial,  dando  ensejo  ao  presente  agravo  (fls.  369-375,  e-STJ).  Sem contraminuta.
+É  o  relatório.
+Decido.
+A  irresignação  não  merece  prosperar.
+1. De início, alega o recorrente violação aos arts.98 do CPC e 5º, XXXV e LV, da Constituição, sustentandoa  concessão da gratuidade de justiça, em razão da situação de hipossuficiência da recorrente.
+Nesse ponto, o aresto recorrido (fl. 265-266, e-STJ):
+Decisão às fls. 250, deferindo a gratuidade, tão somente para efeito de admissibilidade recursal.
+ ..
+Compulsando os autos, verifica-se que a embargante requereu expressamente em sua peça de embargos à execução a produção de prova pericial contábil.
+No entanto, mesmo sendo deferida a produção do elemento probatório (fls. 52), veja-se que, às fls. 163, foi decretada a perda da prova, por ausência de recolhimento das despesas necessárias à realização da perícia pela embargante.
+Pois bem, importa registrar que o artigo 95 do CPC preceitua, no que diz respeito ao adiantamento dos honorários periciais, ser incumbência da parte que requereu a perícia:
+"Art. 95. Cada parte adiantará a remuneração do assistente técnico que houver indicado, sendo a do perito adiantada pela parte que houver requerido a perícia ou rateada quando a perícia for determinada de ofício ou requerida por ambas as partes."
+E ao que se observa, não logrou êxito a embargante comprovar a impossibilidade de pagamento das despesas da perícia contábil, de forma a corroborar a sua tese.
+Assim, em razão da falta de comprovação do fato constitutivo do direito da embargante/apelante, ônus que lhe cabia, é que se mantém a sentença de improcedência por seus próprios fundamentos.
+Enfim, toda a narrativa apresentada, buscando a nulidade e revisão de cláusulas de contrato celebrado entre as partes, amparado em suposto excesso configurado em execução de título extrajudicial, não encontra guarida qualquer, face a ausência de verossimilhança nos termos expostos pela embargante, a se ver.
+Verifica-se que o Tribunal a quo, a partir de elementos dos autos,decide pelo não cabimento da concessão da gratuidade para fins de afastar o pagamento das despesas da perícia contábil, reconhecendo, no relatório, que a gratuidade foi deferida tão somente para a admissibilidade recursal, conforme decisão à fls. 250.
+Para afastar as razões de decidir do aresto recorrido,  na  forma  como  posta,  seria  necessário  novo  exame  do  acervo  fático-probatório  constante  dos  autos,  providência  vedada  em  recurso  especial,  conforme  previsto  na  Súmula  7/STJ.  Nesse sentido:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. GRATUIDADE DE JUSTIÇA. PESSOA JURÍDICA. ESTADO DE NECESSIDADE. COMPROVAÇÃO. SÚMULA 7-STJ.
+1. Deve ser comprovado o estado de necessidade que impede a pessoa jurídica de arcar com as custas e despesas do processo. Precedentes.
+2. A compreensão desenvolvida pelo tribunal de origem quanto à inexistência de elementos que comprovam a situação de incapacidade financeira depende do exame de matéria fática da lide, não podendo ser modificada em face da Súmula 7 do STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no AgInt no AREsp n. 1.950.564/MS, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 8/8/2022, DJe de 12/8/2022.)  grifou-se
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO POR DANOS MORAIS. GRATUIDADE DE JUSTIÇA. ENTIDADE EDUCACIONAL SEM FINS LUCRATIVOS. NECESSIDADE DE COMPROVAÇÃO DA HIPOSSUFICIÊNCIA ECONÔMICA. AUSÊNCIA DE PRESUNÇÃO DE MISERABILIDADE. SÚMULA 481/STJ. SÚMULA 83/STJ. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL DESPROVIDO.
+1. "A jurisprudência desta Corte entende que é possível a concessão do benefício da gratuidade da justiça à pessoa jurídica somente quando comprovada a precariedade de sua situação financeira, não havendo falar em presunção de miserabilidade. Súmula 481 do STJ" (AgInt no AREsp 1.976.408/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 22/02/2022, DJe de 07/03/2022).
+2. No caso dos autos, o Tribunal de origem concluiu pela manutenção da condenação da agravante ao pagamento das custas processuais e dos honorários advocatícios em razão da ausência de comprovação da condição de miserabilidade.
+3. Agravo interno provido para reconsiderar a decisão agravada e, em nova análise, conhecer do agravo para negar provimento ao recurso especial.
+(AgInt no AREsp n. 2.064.349/MA, relator Ministro Raul Araújo, Quarta Turma, julgado em 13/6/2022, DJe de 29/6/2022.)  grifou-se
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NEGÓCIOS JURÍDICOS BANCÁRIOS. GRATUIDADE DE JUSTIÇA. PESSOA JURÍDICA. NECESSIDADE DE PROVA DA INSUFICIÊNCIA DE RECURSOS. SÚMULA 481/STJ. AUSÊNCIA DE COMPROVAÇÃO. REEXAME DE PROVAS. DECLARAÇÃO DE HIPOSSUFICIÊNCIA FIRMADA PELOS RECORRENTES, PESSOAS FÍSICAS. PRESUNÇÃO IURIS TANTUM. AGRAVO INTERNO PARCIALMENTE PROVIDO.
+1. Nos termos da jurisprudência desta Corte, a concessão do benefício de gratuidade da justiça a pessoa jurídica somente é possível quando comprovada a precariedade de sua situação financeira, inexistindo, em seu favor, presunção de insuficiência de recursos. Súmula 481/STJ.
+2. O Tribunal de origem reconheceu que não foi comprovada a alegada insuficiência de recursos para arcar com as custas processuais pela pessoa jurídica, de modo que não é possível o deferimento do benefício de gratuidade de justiça pleiteado.
+3. No caso, a modificação do entendimento lançado no v. acórdão recorrido demandaria revolvimento do suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório. ..
+5. Agravo interno parcialmente provido, para deferir o benefício da justiça gratuita aos recorrentes pessoas físicas indicados.
+(AgInt no AREsp n. 1.995.577/RS, relator Ministro Raul Araújo, Quarta Turma, julgado em 25/4/2022, DJe de 24/5/2022.)  grifou-se
+Inafastável, nesse ponto, o óbice da Súmula 7/STJ.
+2. Impossível conhecer da alegada divergência interpretativa, pois a incidência da Súmula 7/STJ na questão controversa apresentada é, por consequência, óbice também para a análise do apontado dissídio, na medida em que falta identidade entre o paradigma apresentado e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução a causa o Tribunal de origem, o que impede o conhecimento do recurso pela alínea "c" do permissivo constitucional.
+Nesse sentido: AgInt no AREsp 1357975/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 04/12/2018, DJe 17/12/2018; AgInt no AREsp 1.065.134/RJ, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 14/11/2017, DJe de 23/11/2017; AgInt no AREsp 1120663/SE, Rel. Ministro LÁZARO GUIMARÃES, QUARTA TURMA, julgado em 13/03/2018, DJe 16/03/2018.
+3. Aduz também a recorrente violação ao  art.5º, LV, da Constituição, sustentando aocorrência de prejuízoem razão da necessidade de realização da perícia contábil.
+Quanto à indicação, no âmbito de recurso especial, da violação de dispositivo constitucional, a jurisprudência deste Tribunal é uníssona pelo não conhecimento da matéria, sob pena de usurpação da competência da Corte Constitucional, tendo em vista o conteúdo do art. 102, III, "a", da Constituição. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. DECISÃO DA PRESIDÊNCIA DO STJ. SÚMULA N. 182 DO STJ. RECONSIDERAÇÃO. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO CARACTERIZAÇÃO. 2. DISPOSITIVO CONSTITUCIONAL. VIOLAÇÃO. NÃO CONHECIMENTO. 3. SÚMULA. OFENSA. SÚMULA N. 518 DO STJ. 4. CERCEAMENTO DE DEFESA. PERSUASÃO RACIONAL E SÚMULA N. 7 DO STJ. 5. ÔNUS DA PROVA. SÚMULA N. 7 DO STJ. 6. DISPOSITIVO LEGAL. ESPECIFICAÇÃO. FALTA. SÚMULA N. 284 DO STF. 7. PREQUESTIONAMENTO. NÃO OCORRÊNCIA. SÚMULAS N. 282 E 356 DO STF. 8. DISPOSITIVO LEGAL. AFRONTA. DEMONSTRAÇÃO. AUSÊNCIA. SÚMULA N. 284 DO STF. 9. AGRAVO INTERNO PROVIDO. AGRAVO EM RECURSO ESPECIAL DESPROVIDO.  ..
+2. Não cabe ao STJ manifestar-se acerca de suposta violação de dispositivos constitucionais, sob pena de usurpação da competência do STF.  ..
+(AgInt no AREsp 1781061/SC, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 23/08/2021, DJe 26/08/2021)  grifou-se
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. MATÉRIA CONSTITUCIONAL. IMPOSSIBILIDADE DE APRECIAÇÃO. AÇÃO ANULATÓRIA. NULIDADE. DANOS MORAIS. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO LEGAL. UTILIZAÇÃO DA FÓRMULA ""E SEGUINTES"". FUNDAMENTAÇÃO DEFICIENTE. SÚMULA N. 284 DO STF. DECISÃO MANTIDA.
+1. O recurso especial não constitui via adequada para análise de suposta violação de dispositivos constitucionais, sob pena de usurpação da competência do Supremo Tribunal Federal.  ..
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1839853/GO, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 16/08/2021, DJe 19/08/2021)  grifou-se
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. EXAME DE MÉRITO EM DECISÃO DE ADMISSIBILIDADE DE RECURSO ESPECIAL. POSSIBILIDADE. SÚMULA N. 123/STJ. OFENSA A DISPOSITIVO CONSTITUCIONAL. NÃO CONHECIMENTO. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AOS ARTS. 489 E 1.022 DO CPC/2015. RESPONSABILIDADE PELO ACIDENTE. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA.  ..
+2. Não cabe ao Superior Tribunal de Justiça manifestar-se acerca de suposta violação de dispositivos constitucionais, sob pena de usurpação da competência do Supremo Tribunal Federal.  ..
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1809488/PR, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 16/08/2021, DJe 19/08/2021)  grifou-se
+Impossível, portanto, a análise da supostaviolação de dispositivo constitucional.
+4. Do exposto, nego provimento ao agravo.
+Com base no art. 85, § 11, do CPC, majoro para 16% os honorários sucumbenciais.
+Publique-se.
+Intimem-se.
