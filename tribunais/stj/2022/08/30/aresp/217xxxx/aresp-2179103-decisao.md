@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por BANCO DO BRASIL S.A. (BANCO DO BRASIL) contra decisão que negou seguimento ao seu apelo nobre manejado, por sua vez, contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+APELAÇÃO CÍVEL. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO REVISIONAL. CONTRATOS DE EMPRÉSTIMO. PRELIMINAR DE INÉPCIA DA INICIAL. NÃO CONFIGURADA. OS PEDIDOS SÃO CLAROS E OBJETIVOS, ARROLANDO A PARTE AUTORA AS OPERAÇÕES E OS ENCARGOS QUE PRETENDE REVISAR, BEM COMO APRESENTANDO A CÓPIA DOS CONTRATOS, POSSIBILITANDO O EXERCÍCIO DA DEFESA E O JULGAMENTO DOS PEDIDOS, SATISFAZENDO, ASSIM, AS EXIGÊNCIAS DOS ARTS. 319 E 320 DO CPC. PRELIMINAR REJEITADA. POSSIBILIDADE DA REVISÃO JUDICIAL DOS CONTRATOS. AMPARADA EM PRECEITOS CONSTITUCIONAIS E NAS REGRAS DE DIREITO COMUM, A REVISÃO JUDICIAL DOS CONTRATOS BANCÁRIOS É JURIDICAMENTE POSSÍVEL, SEM QUE ISSO ACARRETE OFENSA AOS PRINCÍPIOS DA LEALDADE, PROBIDADE E BOA-FÉ CONTRATUAL. CÓDIGO DE DEFESA DO CONSUMIDOR. A LEI N. 8.078/90 (CÓDIGO DE DEFESA DO CONSUMIDOR - CDC) É APLICÁVEL ÀS INSTITUIÇÕES FINANCEIRAS, PORTANTO, APLICA-SE AOS CONTRATOS DE EMPRÉSTIMO. SÚMULA Nº 297 DO STJ. NO ENTANTO, A SUA APLICAÇÃO DEPENDE DA COMPROVAÇÃO DE ABUSIVIDADE. JUROS REMUNERATÓRIOS. POSSIBILIDADE DA LIMITAÇÃO DA COBRANÇA DE JUROS REMUNERATÓRIOS, QUANDO COMPROVADA A ABUSIVIDADE, COMO NO CASO DOS AUTOS. LIMITAÇÃO À TAXA MÉDIA DO MERCADO PREVISTA PARA AS OPERAÇÕES DA ESPÉCIE. COMPENSAÇÃO E REPETIÇÃO DO INDÉBITO. EM RESPEITO AO PRINCÍPIO QUE VEDA O ENRIQUECIMENTO SEM CAUSA, CABE A COMPENSAÇÃO E A REPETIÇÃO DO INDÉBITO, DE FORMA SIMPLES, DIANTE DA AUSÊNCIA DE PROVA DA MÁ-FÉ DA PARTE RÉ. HONORÁRIOS ADVOCATÍCIOS. REDUÇÃO. PLEITO DESACOLHIDO, UMA VEZ QUE A VERBA HONORÁRIA FIXADA NA SENTENÇA ESTÁ DENTRO DOS PARÂMETROS ADOTADOS POR ESTA CÂMARA JULGADORA EM FEITOS ANÁLOGOS. PREQUESTIONAMENTO. EM QUE PESE A EXIGÊNCIA DE PREQUESTIONAMENTO PARA FINS DE INTERPOSIÇÃO RECURSAL ÀS CORTES SUPERIORES, O ÓRGÃO JULGADOR NÃO É OBRIGADO A APONTAR EXPRESSAMENTE EVENTUAL VIOLAÇÃO QUANTO AOS DISPOSITIVOS LEGAIS INDICADOS PELAS PARTES. PRELIMINAR REJEITADA E, NO MÉRITO, APELAÇÃO CÍVEL DESPROVIDA, POR UNANIMIDADE(e-STJ, fls. 308/309).
+Irresignado, BANCO DO BRASIL interpôs recurso especial com fulcro no art. 105, III, a e c, da CF, sustentando a ocorrência de violação dos arts. 5º da CF,e 6º,§ 1º, da Lei de Introdução às Normas do Direito Brasileiro e 52 do CDC,e divergência jurisprudencial, aduzindo, em síntese, que (1)que a revisão das cláusulas contratuais viola o princípio do ato jurídico perfeito; e (2)não épossível a fixação de limite para os bancos descontarem as parcelas de empréstimos pessoais de contas-correntes.
+O recurso não foi admitido pelo Tribunal gaúcho (e-STJ, fls. 389/393).
+Nas razões do presente agravo, BANCO DO BRASILalegou que seu recurso merece seguimento, uma vez que, devem ser afastados os óbices sumulares aplicados.
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial, que não merece prosperar
+(1) Da alegada violação dos arts. 5º da CF,6º, § 1º, da Lei de Introdução as Normas do Direito Brasileiro.
+O BANCO DO BRASIL sustentou quea revisão das cláusulas contratuais viola o princípio do ato jurídico perfeito.
+Quanto a alegada violação dos arts. 5º da CF, 6º, § 1º da Lei de Introdução às Normas do Direito Brasileiro, esta Corte não se presta ao exame de matéria de índole constitucional, cuja análise é afeta ao Supremo Tribunal Federal.
+Com efeito, com relação à apontada violação do art. 6º da Lei de Introdução às Normas do Direito Brasileiro - LINB, sob alegação de maltrato ao ato jurídico perfeito, é de se reconhecer que sua análise não é cabível em recurso especial, porquanto os princípios ali contidos (ato jurídico perfeito, direito adquirido e coisa julgada), têm natureza eminentemente constitucional.
+A propósito, confiram-se precedentes:
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. ACIDENTE EM VIA FÉRREA. CÁLCULO REALIZADO POR CONTADOR JUDICIAL. ALEGAÇÃO DE VIOLAÇÃO AO ART. 535 DO CPC. INOCORRÊNCIA. OFENSA AO ARTIGO 6º DA LINDB. MATÉRIA DE NATUREZA CONSTITUCIONAL. NECESSIDADE DE REVOLVIMENTO DO CONTEXTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. INCIDÊNCIA. AGRAVO NÃO PROVIDO.
+1. Não há falar em violação ao art. 535 do Código de Processo Civil, pois o Tribunal a quo resolveu as questões pertinentes ao litígio, mostrando-se dispensável que tivesse examinado uma a uma as alegações e fundamentos expendidos pela parte.
+ .. .
+3. A análise de ofensa ao art. 6º da Lei de Introdução ao Código Civil não é cabível em sede de recurso especial, porquanto os princípios ali contidos (ato jurídico perfeito, direito adquirido e coisa julgada) têm natureza eminentemente constitucional. Precedentes.
+4. Agravo regimental não provido
+(AgRg no AREsp 535.876/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, DJe 11/11/2014, sem destaque no original).
+PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. NÃO ALEGAÇÃO DE VIOLAÇÃO DO ART. 535 DO CPC. COISA JULGADA. VIOLAÇÃO DO ART. 6º DA LICC. REPRODUÇÃO DA NORMA CONSTITUCIONAL. IMPOSSIBILIDADE DE EXAME. COMPETÊNCIA DO STF.  .. . DISSÍDIO JURISPRUDENCIAL. NÃO INDICAÇÃO DO DISPOSITIVO LEGAL AO QUAL FOI DADA INTERPRETAÇÃO DIVERGENTE. FUNDAMENTAÇÃO DEFICIENTE. INCIDÊNCIA DA SÚMULA 7/STJ. 1. A Corte de origem não examinou a controvérsia à luz dos arts. 6º, caput e § 3º, do Decreto-Lei n. 4.657/1942 (Lei de Introdução às Normas do Direito Brasileiro - LINDB); e 1º da Resolução n. 14/1995 do Senado Federal. Desse modo, impõe-se o não conhecimento do recurso especial por ausência de prequestionamento.
+2. Não cabe analisar princípios (direito adquirido, ato jurídico perfeito e coisa julgada) contidos na Lei de Introdução do Código Civil, hoje denominada Lei de Introdução às Normas do Direito Brasileiro, por estarem revestidos de carga eminentemente constitucional.
+3. No recurso especial não se admite novo exame dos elementos do processo a fim de apurar a existência de coisa julgada já afastada pelo Tribunal local, com fundamento em análise das provas colhidas nos autos.
+ .. . Agravo regimental improvido
+(AgRg no RESp 1.474.317/SC, Rel. Ministro HUMBERTO MARTINS, Segunda Turma, DJe. 30/10/2014, sem destaque no original).
+(2) Da alegada violação do art. 52 do CDC.
+O BANCO DO BRASIL sustentou quenão épossível a fixação de limite para os bancos descontarem as parcelas de empréstimos pessoais de contas-correntes.
+Observa-se que a questão tal como posta nas razões do recurso especial não foi objeto de debate no acórdão recorrido, e nem foram opostos os necessários embargos de declaração a fim de suscitar a discussão neles contidos no Tribunal estadual.
+Assim, ausente o prequestionamento da questão federal invocada, incide, no ponto, o óbice contido no enunciado nº 282 do STF.
+A esse respeito, confiram-se:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE.  .. . 3. VIOLAÇÃO AO ART. 54, § 4º, DO CDC. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356/STF.  ..  5. AGRAVO INTERNO IMPROVIDO.
+ .. .
+3. Incidem as Súmula 282 e 356/STF, na espécie, porquanto ausente o prequestionamento.
+ .. .
+5. Agravo interno improvido.
+(AgInt no REsp 1.899.665/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 22/3/2021, DJe 25/3/2021)
+Nessas condições, com fundamento no art. 1.042, § 5º, do NCPC c/c o art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/3/2016, DJe 18/3/2016), CONHEÇOdo agravo paraNEGARPROVIMENTO ao recurso especial.
+MAJORO os honorários advocatícios anteriormente fixados em desfavor do BANCO DO BRASIL, deR$ 1.300,00 (um mil e trezentos reais) para R$ 1.600,00 (um mil e seiscentos reais), nos termos do art. 85, § 11 do NCPC.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO REVISIONAL. CONTRATOS DE EMPRÉSTIMO.MALTRATO AO ART. 6º, § 1º, DA LEI DE INTRODUÇÃO ÀS NORMAS DO DIREITO BRASILEIRO - LINDB. ATO JURÍDICO PERFEITO. MATÉRIA DE ÍNDOLE CONSTITUCIONAL. PRECEDENTES. IMPOSSIBILIDADE DE FIXAÇÃO DE LIMITES PARA DESCONTOS DAS PARCELAS DE EMPRÉSTIMO PESSOAL.PREQUESTIONAMENTO. AUSÊNCIA. SÚMULAS NºS 282 E 356 DO STF, POR ANALOGIA. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO PROVIDO.
