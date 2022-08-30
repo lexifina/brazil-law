@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de conflito positivo de competência, com pedido liminar, suscitado por MASSA FALIDA DE ASSOCIAÇÃO DOS PROFISSIONAIS LIBERAIS UNIVERSITÁRIOS DO BRASIL - APLUBem face do JUÍZO DE DIREITO DA VARA DE DIREITO EMPRESARIAL, RECUPERAÇÃO DE EMPRESAS E FALÊNCIAS DE PORTO ALEGRE - RS e do JUÍZO DE DIREITO DA 11ª VARA CÍVEL DE VITÓRIA - ES.
+Ação em trâmite perante o Juízo de Direito da Vara Empresarial, Recuperação de Empresas e Falências de Porto Alegre: falência da suscitante.
+Ação em trâmite perante o Juízo de Direito da 11ª Vara Cível de Vitória:execução cível n. 0021728-88.2015.5.04.0017, ajuizada por WILSON VALADÃO DE AZEVEDO em face da suscitante.
+Conflito de competência: alega, em síntese, que, nos termos da jurisprudência do STJ, o juízo onde tramita o processo falimentaré o único competente para dirimir questões que afetem o patrimônio da sociedade empresária devedora, sob pena de violação do princípio da preservação da empresa.
+Tutela antecipada: deferida às fls. 79/80, e-STJ.
+Parecer do MPF: manifestou-se pelo conhecimento do conflito a fim de que seja declarada a competência do juízo falimentar.
+RELATADO O PROCESSO, DECIDE-SE.
+O STJ assentou o entendimento de que, tanto após o deferimento do pedido de recuperação judicial quanto após a decretação da quebra, o destino do patrimônio da sociedade devedora não pode, em regra, ser afetado por decisões prolatadas por juízo diverso do que é competente para a recuperação ou falência. Nesse sentido: CC 79170/SP, Primeira Seção, DJe 19/09/2008; e CC 106.768/RJ, Segunda Seção, DJe 02/10/2009.
+Na hipótese dos autos, entretanto, observa-se, consoante as informações prestadas pelo juízo da execução cível, que o processo, que subjaz ao presente conflito,continha valores de duas origens totalmente distintas, sendo: (i) "relativos a penhora, na fase de cumprimento de sentença, de ativos financeiros da executada Massa Falida de Associação dos Profissionais Liberais Universitários do Brasil - Aplub Prev e que, por integrarem o patrimônio da parte executada que veio a falir, foi deferida a transferência deles para o Juízo da falência"; e ii) "relativos a depósitos feitos, na fase de conhecimento, pelo autor Wilson Valadão de Azevedo, em garantia ao valor das contribuições mensais as quais, com o julgamento da causa, verificou-se que correspondem ao percentual de somente 16% dos depósitos em garantia feitos pelo próprio autor, com o que o excedente (84%) deve ser devolvido a este, a quem pertence, já que nunca integrou o patrimônio da demanda, e portanto, não se submete ao Juízo universal falimentar" (e-STJ, fl. 108).
+Ressaltou aquele juízo, por fim, que "determinou que o patrimônio afeto à Massa Falida fosse encaminhado àquele, limitando-se a deliberar a destinação ao autor Wilson Valadão de Azevedo de valor, que nunca integrou e nem integra o patrimônio da pessoa jurídica falida" (e-STJ, fl. 109).
+Assim, não se verifica a prática de atos de constrição sobre o acervo patrimonial de titularidade da sociedade falida,de modo que não está configurado o conflito de competência.
+Forte nessas razões, NÃO CONHEÇO do conflito de competência e revogo a liminar anteriormente deferida.
+Expeçam-se ofícios aos juízos suscitados, comunicando-lhes.
+Intime-se.
+EMENTA
+CONFLITO POSITIVO DE COMPETÊNCIA. EXECUÇÃO CÍVELE FALÊNCIA. ATOS DE CONSTRIÇÃO SOBRE O ACERVO PATRIMONIAL DA FALIDA. INEXISTÊNCIA. CONFLITO. NÃO OCORRÊNCIA.
+1. O STJ assentou o entendimento de que, tanto após o deferimento do pedido de recuperação judicial quanto após a decretação da quebra, o destino do patrimônio da sociedade devedora não pode, em regra, ser afetado por decisões prolatadas por juízo diverso do que é competente para a recuperação ou falência.
+2. A ausência de prática de atos de constrição sobre o acervo patrimonial de titularidade da sociedade falida por juízo diverso daquele competente para a falência, inviabiliza a caracterização do conflito de competência.
+3. Conflito não conhecido. Revogada a liminar anteriormente deferida.
