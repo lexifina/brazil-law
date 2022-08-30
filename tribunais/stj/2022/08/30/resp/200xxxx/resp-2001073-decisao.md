@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso especial interposto por Derivelto Pereira contra acórdão do Tribunal de Justiça do Estado de Minas Gerais assim ementado:
+ADMINISTRATIVO. MANDADO DE SEGURANÇA PREVENTIVO.TRANSPORTE PARTICULAR CLANDESTINO DE PASSAGEIROS.PENALIDADE DE APREENSÃO. LEI ESTADUAL Nº 19.445/2011.CONCRETIZAÇÃO DA COMPETÊNCIA DO ESTADO DE MINAS GERAIS PARA ORGANIZAR OS SERVIÇOS DE TRANSPORTE INTERMUNICIPAL (ART. 25, § 1º, CF, ART. 30, CE E ART. 17, I, DA LEI FEDERAL Nº 12.587/2012). EXERCÍCIO DO PODER DE POLÍCIA.INCONSTITUCIONALIDADE REJEITADA. SUPERAÇÃO DO ENTENDIMENTO DO ÓRGÃO ESPECIAL EM AÇÃO DIRETA DE INCONSTITUCIONALIDADE EM FACE DO JULGAMENTO DO RE Nº 661.702 (TEMA 546), JULGADO SOBRE O REGIME DA REPERCUSSÃO GERAL. MULTAS, TAXAS E DESPESAS DE TRANSBORDO.IMPOSSIBILIDADE DE COBRANÇA. CABIMENTO SOMENTE DAS DESPESAS DE REBOQUE E GUARDA DO AUTOMÓVEL QUANDO HÁ LICITAÇÃO ANTERIOR FEITA PELO PODER PÚBLICO. SENTENÇA PARCIALMENTE REFORMADA.
+- É competência implícita do Estado-membro no âmbito da Constituição Federal, explicitada posteriormente pela Constituição Estadual e pelo art.
+17, I, da Lei Federal nº 12.587/2012, a incumbência de organizar e disciplinar o serviço de transporte coletivo de passageiros intermunicipal.
+- A ratio decidendi contida no RE nº 661.702, julgado sob o regime da repercussão geral, consiste em reconhecer que o poder público que detém o poder de polícia para organizar seus serviços pode estabelecer as sanções respectivas para reprimir os atos ilegais cometidos por particulares.
+- É constitucional a Lei Estadual nº 19.445/2011 que permite a apreensão de veículo particular que realiza o transporte clandestino de passageiros em desconformidade com as regras estabelecidas pelo órgão estadual competente.
+- Fica, em consequência, superada a declaração parcial de inconstitucionalidade feita pelo Órgão Especial no julgamento do Incidente de Inconstitucionalidade nº 1.0024.11.195198-4/002 em face do RE nº 661.702.
+- A exigência de multas, taxas e despesas com transbordo como condição para a liberação do veículo apreendido constitui sanção política e é inconstitucional, exceto se o serviço de reboque e guarda de veículo for executado por particular por autorização do poder público.
+Os embargos de declaração foram rejeitados.
+No recurso especial, o recorrente aponta violação aos arts. 231, VIII, e 271, § 9º, do Código de Trânsito Brasileiro, sustentando, essencialmente, que a remoção do veículo era desnecessária, pois sanável a irregularidade no local da infração com o desembarque dos passageiros do transporte clandestino, por isso o acórdão recorrido merece reforma na parte em que admitiu a cobrança do serviço de reboque e guarda para fins de liberação do veículo apreendido.
+Houve contrarrazões.
+O Ministério Público Federal, em seu parecer, opina pelo provimento do recurso especial.
+É o relatório. Passo a decidir.
+A insurgência não prospera.
+A apreensão de veículo por transporte irregular de passageiros é medida prevista em lei estadual (Lei Estadual 19.445/2011, considerada constitucional pelo TJ/MG); por isso, nos termos da Súmula 280/STF, não há como rever o fundamento do acórdão recorrido em que reconhecida a validade da apreensão.
+Ainda que assim não fosse, a Corte de origem assentou que o desembarque de passageiros não bastaria para sanar a irregularidade e dispensar a remoção do veículo, pois remanesceriaa necessidade de autorização do Poder Público para prestar o serviço de transporte coletivo de passageiros.
+Ocorre que, a fim de demonstrar o seu entendimento em sentido diverso, o recorrente invocou oOfício-Circular nº 1415/2019/CGATF- DENATRAN/DENATRAN/SNTT, porém, sem refutar o fundamento do acórdão recorrido de que tal ofício "Não tem caráter vinculante, e foi rechaçada pelos órgãos de trânsito locais, conforme publicação do Diário Oficial de 10.07.2020, na forma da reunião do Conselho Estadual de Trânsito" (fl. 405-e, sublinhei).
+Ademais, quanto às despesas de reboque e estadia (limitada a 30 dias), o TJ/MG consignou que podem ser exercidas "quando o poder público transferiu, por licitação, o exercício desta atividade ao particular" (fl. 411-e), o que seu deu por meio da Lei Estadual 12.219/1996.
+Ocorre que tal fundamento não foi objetivamente impugnado no recurso especial, por isso o óbice da Súmula 283/STF aqui se impõe, novamente.
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+ADMINISTRATIVO. TRANSPORTE IRREGULAR DE PASSAGEIROS. REMOÇÃO DO VEÍCULO.MEDIDA PREVISTA EM LEI ESTADUAL. REVISÃO DO ACÓRDÃO RECORRIDO. IMPOSSIBILIDADE. SÚMULA 280/STF. EXIGÊNCIA DE PAGAMETNO DE DESPESAS DE REBOQUE E ESTADIA QUANDO O SERVIÇO FOR PRESTADO POR PARTICULAR, CONTRATADO POR MEIO DE LICITAÇÃO. FUNDAMENTO SUFICIENTE INATACADO. SÚMULA 283/STF. RECURSO ESPECIAL NÃO CONHECIDO.
