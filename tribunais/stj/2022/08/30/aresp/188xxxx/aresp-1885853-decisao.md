@@ -1,0 +1,75 @@
+DECISÃO
+1. Trata-se de agravo interposto por HAPVIDA ASSISTENCIA MEDICA S.A, contra decisão que não admitiu o seu recurso especial, por sua vez manejado com fulcro no art. 105, III, "a", da Constituição Federal, em face de acórdão do Tribunal de Justiça do Estado de Pernambuco, assim ementado (fl. 242):
+APELAÇÕES CÍVEIS - AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZAÇÃO DANOS MORAIS - NEGATIVA ABUSIVA DE COBERTURA CONTRATUAL DE PROCEDIMENTO DE IMPLANTE DE CATÉTER PARA A REALIZAÇÃO DE QUIMIOTERAPIA DE PACIENTE COM CÂNCER DE FÍGADO METASTÁTICO - DANO MORAL CONFIGURADO - MAJORAÇÃO DA INDENIZAÇÃO - PROVIDO O RECURSO DA PARTE AUTORA - RECURSO DA RÉ NÃO PROVIDO.
+- A condenação reparadora deve ser eficaz no sentido de coibir a repetição da ofensa e de compensar, de alguma forma, a frustração e os danos causados à autora. Cabível a majoração do quantum indenizatório.
+Nas razões do recurso especial (fls. 247-256), aponta a parte recorrente ofensa ao disposto nos arts. 186, 188, 407 e 927, do Código Civil, art. 373, I, do Código de Processo Civil.
+Em apertada síntese, sustenta "não haver qualquer responsabilidade da Operadora Recorrente em relação ao alegado "dano moral", que também inexiste."
+Além disso, alega que "na hipótese dos presentes autos, em que as partes são signatárias de um contrato, os juros devem ser contados a partir da sua fixação."
+Contrarrazões ao recurso especial às fls. 286-297.
+É o relatório.
+DECIDO.
+2. Ao analisar a demanda, a Corte de origem assim dispôs a respeito dos danos morais (fl.241):
+Em conclusão, as chamadas máximas de experiência, previstas no artigo 375 do CPC/2015, não permitem ao juiz atribuir credibilidade à alegação da parte ré quando advoga que não houve recusa de cobertura no âmbito administrativo, máxime quando a parte autora junta aos autos pendrive no qual consta a negativa em áudio do tratamento (ID 10419294 a 10419296) e a parte ré não o impugna especificamente.
+Anote-se que o documento de ID 10419293 demonstra que o médico auditor vinculado ao plano de saúde réu busca descaracterizar a situação de urgência narrada pelo médico assistente, tornando mais lento o procedimento para autorização de procedimentos.
+Assim, tem-se que a operadora deixou de autorizar o procedimento pleiteado, devendo responder pelos danos causados.
+O Superior Tribunal de Justiça pacificou o entendimento segundo o qual "conquanto geralmente nos contratos o mero inadimplemento não seja causa para ocorrência de danos morais, a jurisprudência desta Corte vem reconhecendo o direito ao ressarcimento dos danos morais advindos da injusta recusa de cobertura de seguro saúde, pois tal fato agrava a situação de aflição psicológica e de angústia no espírito do segurado, uma vez que, ao pedir a autorização da seguradora, já se encontra em condição de dor, de abalo psicológico e com saúde debilitada" (RE 735.168-RJ).
+Certamente, a negativa abusiva de cobertura contratual de procedimento de implante de cateter para a realização de quimioterapia de paciente com câncer de fígado metastático, é suficiente para agravar a angústia, a insegurança, a aflição e a dor psíquica das quais inexoravelmente já se acham acometidos o paciente e seus familiares próximos. Noutras palavras, com a recusa da cobertura, o paciente e seus familiares, já desgastados, aflitos e inseguros quanto aos desdobramentos da doença e à eficácia, dor e efeitos colaterais dos tratamentos ambulatoriais ou cirúrgicos, veem-se inesperadamente desamparados por aquele que foi contratado e remunerado, muitas vezes durante anos, exatamente para ampará-los naquelas circunstâncias. E nesse contexto, as preocupações, inicialmente centradas nas decisões de cunho médico, passam a dividir espaço com novas angústias, desta vez relacionadas aos aspectos financeiros e burocráticos referentes ao tratamento.
+Sendo assim, de rigor o reconhecimento do dano moral.
+A jurisprudência do STJ é no sentido de que a recusa indevida/injustificada, pela operadora de plano de saúde em autorizar a cobertura financeira de tratamento médico a que esteja legal ou contratualmente obrigada gera direito de ressarcimento a título de dano moral, em razão de tal medida agravar a situação tanto fisicamente quanto psicologicamente do beneficiário, sendo o referido dano in re ipsa.
+Nesse sentido, colhem-se os seguintes julgados:
+AGRAVO REGIMENTAL EM AGRAVO (ARTIGO 544 DO CPC) - DEMANDA POSTULANDO INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS EM RAZÃO NA NEGATIVA DE COBERTURA DO PLANO DE SAÚDE - DECISÃO MONOCRÁTICA CONHECENDO DO RECLAMO DA CONSUMIDORA PARA DAR PARCIAL PROVIMENTO AO RECURSO ESPECIAL, RECONHECENDO A OCORRÊNCIA DO DANO MORAL E ARBITRADA A INDENIZAÇÃO CORRESPONDENTE. INSURGÊNCIA DA OPERADORA DO PLANO DE SAÚDE.
+1. A jurisprudência do STJ é no sentido de que a recusa indevida/injustificada, pela operadora de plano de saúde, em autorizar a cobertura financeira de tratamento médico, a que esteja legal ou contratualmente obrigada, enseja reparação a título de dano moral, por agravar a situação de aflição psicológica e de angústia no espírito do beneficiário. Caracterização de dano moral in re ipsa. Precedentes.
+2. Pretensão voltada à redução do valor fixado a título de dano moral na decisão monocrática agravada, a qual se fundou no artigo 257 do RISTJ (aplicação do direito à espécie). Quantum indenizatório arbitrado em R$ 30.000,00 (trinta mil reais), o que não se distancia dos princípios da razoabilidade e da proporcionalidade, considerando-se as peculiaridades do caso em apreço, nos termos da orientação jurisprudencial desta Corte.
+3. Responsabilidade solidária do hospital, da clínica e do médico credenciados pela operadora de plano de saúde. Condutas perpetradas por todos os demandados que resultaram em sucessivas negativas por parte da operadora e, por conseguinte, na desarrazoada demora na realização do procedimento cirúrgico.
+4. Agravo regimental desprovido.
+(AgRg no AREsp 144.028/SP, QUARTA TURMA, Rel. Ministro MARCO BUZZI, DJe 14/04/2014)
+____________
+AGRAVO REGIMENTAL. PLANO DE SAÚDE. TRATAMENTO. RECUSA INDEVIDA. DANOS MORAIS. QUANTUM INDENIZATÓRIO. FIXAÇÃO.
+1. A recusa a cobertura de tratamento é causa de fixação de indenização por danos morais.
+2. Agravo regimental desprovido.
+(AgRg no AREsp 380.684/RJ, TERCEIRA TURMA, Rel. Ministro JOÃO OTÁVIO DE NORONHA, DJe 20/06/2014)
+____________
+DIREITO CIVIL E PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E COMPENSAÇÃO POR DANOS MORAIS. PLANO DE SAÚDE. EXCLUSÃO DE COBERTURA RELATIVA À PRÓTESE. ABUSIVIDADE. DANO MORAL.
+1. Recurso especial, concluso ao Gabinete em 06.12.2013, no qual discute o cabimento de compensação por danos morais decorrente de negativa de fornecimento de prótese ortopédica por plano de saúde.
+Ação de cobrança ajuizada em 06.01.2011.
+2. É nula a cláusula contratual que exclua da cobertura órteses, próteses e materiais diretamente ligados ao procedimento cirúrgico a que se submete o consumidor.
+3. Embora o mero inadimplemento contratual não seja causa para ocorrência de danos morais, é reconhecido o direito à compensação dos danos morais advindos da injusta recusa de cobertura de seguro saúde, pois tal fato agrava a situação de aflição psicológica e de angústia no espírito do segurado, uma vez que, ao pedir a autorização da seguradora, já se encontra em condição de dor, de abalo psicológico e com a saúde debilitada.
+4. Recurso especial provido.
+(REsp 1.421.512/MG, TERCEIRA TURMA, Rel. Ministra NANCY ANDRIGHI, DJe 30/05/2014)
+____________
+CONSUMIDOR. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PLANO DE SAÚDE. CLÁUSULA EXCLUDENTE DA COBERTURA DETERMINADO PROCEDIMENTO OU MEDICAMENTO NECESSÁRIO AO TRATAMENTO DE DOENÇA. ABUSIVIDADE. CLÁUSULA DECLARADA ILEGAL À LUZ DOS PRECEITOS DO CÓDIGO DE DEFESA DO CONSUMIDOR. PRINCÍPIO DO MUTUALISMO E PACTA SUNT SERVANDA QUE NÃO AUTORIZAM A IMPOSIÇÃO DE DESVANTAGEM EXCESSIVA EM PREJUÍZO DO CONSUMIDOR. INAFASTABILIDADE DA ANÁLISE DA ILEGALIDADE PELO PODER JUDICIÁRIO. PREJUÍZO IMATERIAL RECONHECIDO PELAS INSTÂNCIAS ORDINÁRIAS. VALOR DA INDENIZAÇÃO DENTRO DOS PARÂMETROS DA RAZOABILIDADE. AGRAVO IMPROVIDO.
+1. É assente nesta Corte Superior o entendimento pela ilegalidade de cláusula contratual que exclua da cobertura do plano de saúde determinado tipo de procedimento ou medicamento necessário para assegurar o tratamento de doenças previsto na contratação.
+2. A aplicação do princípio do mutualismo e do pacta sunt servanda não autoriza a imposição de cláusula que configure desvantagem excessiva em prejuízo do consumidor, condição que a lei tipifica como ilegal, devendo ser declarada sua nulidade (CDC, art. 51, § 1º, IV).
+3. Em circunstâncias da espécie, o dano moral caracteriza-se in re ipsa, não se exigindo a efetiva comprovação de sua ocorrência.
+Precedentes do STJ.
+Omissis.
+6. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1.334.008/DF, QUARTA TURMA, Rel. Ministro ANTONIO CARLOS FERREIRA, DJe 26/08/2014)
+Confiram-se, ainda, os seguintes julgados mais recentes sobre o assunto:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO DE OBRIGAÇÃO DE FAZER - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA REQUERIDA.
+1. Nos termos da jurisprudência desta Corte, revela-se abusivo o preceito excludente do custeio, pelo plano de saúde, dos meios e materiais necessários ao melhor desempenho do tratamento clinico ou do procedimento cirúrgico ou de internação hospitalar relativos a doença coberta. 1.1. Incide nos óbices das Súmulas 5 e 7/STJ a pretensão voltada para discutir a conduta da operadora recorrente, as características dos serviços envolvidos e a premente necessidade de utilização de medicamento prescrito, ante a fragilidade da saúde do paciente, que se encontra acometido de doença grave. 1.2. Afigura-se abusiva a exclusão do custeio do tratamento consistente no uso off label de medicamento, o qual era imprescindível à conservação da vida e saúde do beneficiário. Incidência da Súmula 83 do STJ.
+2. A jurisprudência desta Corte é no sentido de que a recusa indevida/injustificada pela operadora de plano de saúde em autorizar a cobertura financeira de tratamento médico-assistencial, a que esteja legal ou contratualmente obrigada, enseja reparação a título de dano moral, por agravar a situação de aflição psicológica e de angústia no espírito do beneficiário. Aplicação da Súmula 83/STJ.
+3. Agravo interno desprovido.
+(AgInt no REsp 1680415/CE, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 31/08/2020, DJe 11/09/2020)
+____________
+AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE. TRATAMENTO MEDICAMENTOSO. CÂNCER DE MAMA. RECUSA INADMISSÍVEL. DANO MORAL. OCORRÊNCIA.
+1. A jurisprudência desta Corte é no sentido de que os planos de saúde podem, por expressa disposição contratual, restringir as enfermidades cobertas, sendo-lhes vedado, no entanto, limitar os tratamentos a serem realizados, inclusive os experimentais. Considera-se abusiva a negativa de cobertura de plano de saúde quando a doença do paciente não constar na bula do medicamento prescrito pelo médico que ministra o tratamento (uso off-label). (AgInt no REsp 1795361/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 19/08/2019, DJe 22/08/2019)
+2. A recusa indevida pela operadora do plano de saúde em autorizar a cobertura de tratamento gera dano moral, porquanto agrava a situação de aflição psicológica e de angústia do paciente, não se tratando apenas de mero aborrecimento.
+3. Verificada ofensa clara a direitos da personalidade, deve ser reconhecida a existência de dano moral.
+4. Não se pode reputar, diante do caso concreto, como excessiva a quantia fixada, qual seja, R$ 10.000,00 (dez mil reais)
+5. Agravo interno não provido.
+(AgInt no REsp 1806691/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 30/03/2020, DJe 01/04/2020)
+____________
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. PLANO DE SAÚDE. PACIENTE PORTADORA DE ESCLEROSE MÚLTIPLA. NEGATIVA DE COBERTURA DE MEDICAMENTO NÃO PREVISTO NO ROL OBRIGATÓRIO DA ANS. RECUSA ABUSIVA. DANOS MORAIS. OCORRÊNCIA. QUANTUM INDENIZATÓRIO. VALOR RAZOÁVEL. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO E NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. A necessidade de impugnação específica - prevista no art. 932, III, do CPC/2015 e Súmula 182/STJ - não se aplica ao fundamento relativo à violação de norma constitucional, pois se trata de matéria a ser apreciada no recurso extraordinário. Com isso, reconsidera-se a decisão agravada, passando-se a novo exame do recurso.
+2. Não configura ofensa aos arts. 489 e 1.022 do CPC/2015 o fato de o col. Tribunal de origem, embora sem examinar individualmente cada um dos argumentos suscitados pela recorrente, adotar fundamentação contrária à pretensão da parte, suficiente para decidir integralmente a controvérsia.
+3. É abusiva a recusa da operadora do plano de saúde de arcar com a cobertura do medicamento prescrito pelo médico para o tratamento do beneficiário, sendo ele off label, de uso domiciliar, ou ainda não previsto em rol da ANS, e, portanto, experimental, quando necessário ao tratamento de enfermidade objeto de cobertura pelo contrato. Precedentes.
+4. "É pacífica a jurisprudência da Segunda Seção no sentido de reconhecer a existência do dano moral nas hipóteses de recusa injustificada pela operadora de plano de saúde, em autorizar tratamento a que estivesse legal ou contratualmente obrigada, por configurar comportamento abusivo" (AgInt no AREsp 1.379.491/PE, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 29/4/2019, DJe de 2/5/2019).
+5. O valor arbitrado pelas instâncias ordinárias a título de danos morais somente pode ser revisado em sede de recurso especial quando irrisório ou exorbitante. No caso, o montante fixado em R$ 8.000,00 (oito mil reais) não é exorbitante nem desproporcional aos danos causados à vítima, que teve negado indevidamente o fornecimento de medicamento indispensável para seu tratamento.
+6. Agravo interno provido para conhecer do agravo e negar provimento ao recurso especial.
+(AgInt no AREsp 1490311/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 17/09/2019, DJe 03/10/2019)
+3. De outra parte, ajurisprudência do STJ é firme no sentido de que, tratando-se de danos morais decorrentes deresponsabilidade contratual,os juros moratórios incidem a partir dacitação.
+Portanto, o acórdão combatido encontra-se em harmonia com o entendimento desta Corte, o que atrai a aplicação da Súmula 83 do STJ.
+4.Ante o exposto, nego provimento ao agravo em recurso especial.
+Havendo nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte Recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2.º e 3.º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
