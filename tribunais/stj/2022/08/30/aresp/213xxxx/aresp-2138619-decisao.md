@@ -1,0 +1,34 @@
+DECISÃO
+1. Cuida-se de agravo interposto por MULTI SAUDE - ASSISTENCIA MEDICA E HOSPITALAR LTDA contra decisão que não admitiu o seu recurso especial, por sua vez manejado em combate a acórdão proferido peloTRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS, assim ementado:
+EMENTA: APELAÇÃO CÍVEL. AÇÃO DE EMBARGOS DE TERCEIRO.PROTOCOLO APÓS A ASSINATURA DA CARTA DE ADJUDICAÇÃO.EXTEMPORANEIDADE. FLEXIBILIZAÇÃO DO PRAZO.DESCABIMENTO. SEM HONORÁRIOS RECURSAIS. 1. Consoante dispõe o art. 675 do Código de Processo Civil, os embargos de terceiro, no processo de execução, podem ser opostos até 5 (cinco) dias depois da arrematação, adjudicação ou remição, mas sempre antes da assinatura da respectiva carta. 2. Opostos os embargos após a assinatura da carta de adjudicação, flagrante sua extemporaneidade. 3. Descabe-se falar em flexibilização do prazo, pois a parte embargante tinha plena ciência dos atos constritivos, eis que seus sócios são os próprios executados na lide principal. 4. Incabível a majoração dos honorários advocatícios, porquanto não arbitrados na origem. 5. RECURSO DE APELAÇÃO CONHECIDO E DESPROVIDO.
+Nas razões do recurso especial, aponta a parte recorrente, além de dissídio jurisprudencial sobre o art. 675 do CPC, ofensa ao disposto noart. 844 do CPC.
+Alega dissídio jurisprudencial sobre a flexibilização do prazo para oposição dos embargos de terceiros em benefício dos terceiros de boa-fé. Afirma que não existem provas de que a recorrente teve ciência da execução através de seu corpo diretivo. Sustenta que os recorridos não promoveram o registro da penhora na matrícula do imóvel.
+Contrarrazões ao recurso especial às fls. 166-171.
+É o relatório.
+DECIDO.
+2. Amatéria do art. 844 do CPC não foi objeto de discussão no acórdão recorrido e a parte ora agravante não opôs embargos de declaração a fim de suprir eventual omissão, carecendo elado indispensável prequestionamento. Aplicam-se, à espécie, as Súmulas 282 e 356/STF.
+3. Quanto ao dissídio jurisprudencial, o inconformismo também não prospera.
+3.1 Ressalta-se queo conhecimento do recurso fundado na alínea "c" do permissivo constitucional pressupõe a demonstração analítica da alegada divergência, devendo ser demonstrado nos moldes exigidos pelos artigos 1.029, §1º, do CPC/2015 (art. 541, parágrafo único, do CPC/73) e 255, § 1º, do Regimento Interno do Superior Tribunal de Justiça. Para tanto, faz-se necessário a transcrição dos trechos que configurem o dissenso, mencionando as circunstâncias que identifiquem os casos confrontados, ônus do qual não se desincumbiu a parte recorrente ora agravante.
+A propósito, "A divergência jurisprudencial deve ser comprovada, cabendo a quem recorre demonstrar as circunstâncias que identificam ou assemelham os casos confrontados, com indicação da similitude fática e jurídica entre eles. Indispensável a transcrição de trechos do relatório e do voto dos acórdãos recorrido e paradigma, realizando-se o cotejo analítico entre ambos, com o intuito de bem caracterizar a interpretação legal divergente. O desrespeito a esses requisitos legais e regimentais impede o conhecimento do Recurso Especial, com base na alínea "c" do inciso III do art. 105 da Constituição Federal." (AgInt no REsp 1903321/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 08/03/2021, DJe 16/03/2021 - g.n.)
+No mesmo sentido:
+_____________
+AGRAVOS EM RECURSO ESPECIAL. ADMINISTRATIVO. IMPROBIDADE ADMINISTRATIVA. OBRA INACABADA.
+ ..
+XII - Com relação ao dissídio jurisprudencial, deixou o recorrente de realizar o imprescindível cotejo analítico, limitando-se a colacionar ementas dos julgados que entendia pertinentes ao deslinde da controvérsia. No entanto, esta Corte assentou entendimento no sentido de que a simples transcrição de ementas ou de trecho isolado do v. acórdão paradigma, sem o necessário cotejo com trechos do v. acórdão embargado, não atende aos dispositivos legais e regimentais aplicáveis à espécie (AgRg nos EREsp n. 1.488.618/RS, Rel. Ministro Felix Fisher, Terceira Seção, julgado em 23/9/2015, DJe 29/9/2015).
+XIII - Agravo conhecido para não conhecer do recurso especial.
+(AREsp 1565328/PB, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 10/03/2020, DJe 17/03/2020)(g.n.)
+_____________
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - EMBARGOS À EXECUÇÃO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA PARTE EMBARGANTE.
+ ..
+3. Para caracterização da divergência jurisprudencial, é imprescindível a colação de trechos do relatório e do voto dos acórdãos paradigma e paragonado, com a realização do devido cotejo analítico, sendo insuficiente a mera transcrição de ementas e/ou de trechos dos arestos paradigmas, como ocorreu no caso.
+4. Agravo interno desprovido.
+(AgInt no AREsp 1352761/PR, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 21/11/2019, DJe 27/11/2019)(g.n.)
+_____________
+No caso em tela, a não realização do necessário cotejo analítico, não obstante a transcrição de ementas dos acórdãos paradigmas e trechoisolado de voto de um delesnas razões do recurso especial, impede a demonstração das circunstâncias identificadoras da divergência entre o caso confrontado e os julgados paradigmas, como é o caso dos autos, ensejando o não conhecimento do recurso.
+3.2 Ademais, a Corte local, com base nos elementos fático-probatórios dos autos, afastou a flexibilização do prazo ao fundamento de que a parte embargante ora agravante tinha plena ciência dos atos constritivos. Segue trecho do acórdão recorrido:
+"Registre-se, por fim, não ser aplicável a flexibilização do prazo, pois a Embargante/Apelante tinha plena ciência dos atos constritivos, eis que seus sócios LUIZ AUGUSTO DO ESPÍRITO SANTO e SAMEDH ASSISTÊNCIA MÉDICO-HOSPITALAR são os próprios executados na lide principal.
+Não se trata, aqui, de presunção, como quer fazer crer a Recorrente, mas sim uma simples constatação, eis que os sócios da mesma foram cientificados de todos os atos do feito executivo." (fl. 133)
+Desse modo, rever esse entendimento da Corte local quanto à ciência pela parte agravantedos atos constritivos eacolher a pretensão recursal demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, o que é vedado em sede de recurso especial, nos termos da Súmula 7 do STJ.
+Impõe-se anotar que a incidência da Súmula 7/STJ prejudica o exame do recurso especial pela alínea "c" do permissivo constitucional. Nesse sentido: REsp 1.086.048/RS, Rel. Ministro Arnaldo Esteves Lima, Quinta Turma, julgado em 21/06/2011, DJe de 13/09/2011; EDcl no Ag 984.901/SP, Rel. Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 16/03/2010, DJe de 05/04/2010; AgRg no REsp 1.030.586/SP, Rel. Ministro Felix Fischer, Quinta Turma, julgado em 30/05/2008, DJe de 23/06/2008.
+4. Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
