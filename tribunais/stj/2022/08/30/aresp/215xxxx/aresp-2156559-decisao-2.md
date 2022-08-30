@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo manejado porASSOCIAÇÃO DE BENEFICÊNCIA E FILANTROPIA SÃO CRISTÓVÃO contra decisão que não admitiu seu recurso especial, este por sua vez, interposto, com fundamento no art. 105, inciso III,a, da Constituição Federal, visando reformar acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado (e-STJ, fl. 318):
+PLANO DE SAÚDE Obrigação de fazer Pretensão à manutenção do contrato de plano de saúde coletivo por adesão, objeto de resilição unilateral, por falta de pagamento de uma mensalidade Cabimento Aplicabilidade do art. 13, parágrafo único, II, da Lei 9.656/98, pois o destinatário final do produto é uma pessoa física Plano "falso coletivo" Formalidades legais não observadas Notificação prévia não demonstrada Hipótese de manutenção do contrato de plano de saúde Sentença mantida Recurso desprovido.
+Os opostos embargos de declaração opostos foram rejeitados (e-STJ, fls. 347-349).
+Nas razões do recurso especial (e-STJ fls. 321-320), a insurgente alegou violação aos art.13, parágrafo único, II, da Lei n. 9.656/1998, ao argumento de que o mencionado dispositivo de lei não se aplica ao contrato coletivo de plano de saúde, defendendo a legalidade da rescisão do pacto em virtude da inadimplência do recorrido.
+Sem contrarrazões.
+O Tribunal de origem não admitiu o recurso especial, o que levou a insurgente à interposição de agravo.
+Contraminutaàs fls. 398-404 (e-STJ).
+Brevemente relatado, decido.
+No caso em estudo, o Tribunal de origem concluiu pelocancelamento indevido do contrato de plano de saúde firmado entre as partes,conforme as seguintes justificativas (e-STJ, fls. 307-309 - sem grifo no original):
+Como se lê da petição inicial, pretende o autor a manutenção do contrato coletivo de plano de saúde por adesão, objeto de resilição unilateral em 31 de novembro de 2019, por não ter efetuado o pagamento da mensalidade vencida em1º de novembro de 2019.
+Cumpre ressaltar que, em princípio, o art. 13, parágrafo único, II, da Lei 9.656/98, aplica-se somente aos contratos firmados na categoria individual ou familiar; entretanto, in casu, como já decidido por esta Corte, "o destinatário final do produto é uma pessoa física, que merece igual proteção, sob pena de se dar ensejo a tratamento diferente para situações similares e abusos por parte das empresas contratadas" (Agravo de Instrumento 2258044-33.2019.8.26.0000; Relator (a): RuiCascaldi; Órgão Julgador: 1ª Câmara de Direito Privado do Tribunal de Justiça do Estado de São Paulo; Foro de Boituva - 1ª Vara; Data do Julgamento: 17/12/2019;Data de Registro: 18/12/2019).
+Em verdade, cuidando-se de contrato com número de beneficiários inferior a trinta, trata-se de falso coletivo, a que se aplica, segundo consolidada orientação do Superior Tribunal de Justiça, a disciplina dos planos de saúde individuais e/ou familiares.
+Diante disso, a rescisão unilateral do contrato pode dar-se apenas nas hipóteses de fraude ou não pagamento da mensalidade por prazo superior a sessenta dias, consecutivos ou não, nos últimos doze meses de vigência do contrato, desde que o consumidor tenha sido comprovadamente notificado até o quinquagésimo dia de inadimplência.
+Neste sentido é, também, o entendimento firmado pela Súmula 94 deste Egrégio Tribunal de Justiça: "A falta de pagamento da mensalidade não opera, per si, a pronta rescisão unilateral do contrato de plano ou seguro de saúde, exigindo-se a prévia notificação do devedor com prazo mínimo de dez dias para purga da mora.".
+Ocorre, entretanto, que não restaram observadas as formalidades legais exigidas para rescisão do contrato celebrado pelas partes, não tendo comprovado a ré a notificação do autor acerca do cancelamento da prestação dos serviços.
+Assim, reconhece-se ter havido indevido cancelamento do contrato de plano de saúde, o qual é de ser mantido, nos termos estabelecidos na sentença.
+Com efeito, a recorrente, nas razões do apelo especial, limita-se a afirmar que art. 13, parágrafo único, II, da Lei 9.656/98 tem aplicação restritaaos contratos firmados na categoria individual ou familiar, sendo lícita a rescisão do plano de saúde por inadimplemento do recorrido.
+Nota-se, todavia, que o confronto entre o acórdão impugnado e as razões do recurso especial revela que os fundamentos utilizados pelo Tribunal estadual (acima destacados) não foram rebatidos pela parte insurgente, isto é,a caracterização do contrato como "falso coletivo" e a ausência de comprovação danotificação prévia do consumidor acerca do cancelamento da prestação dos serviços. Desse modo, tendo em vista que tais fundamentos são suficientes para manutenção da conclusão do julgado, incide o óbice da Súmula 283 do STF no caso.
+Ilustrativamente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REVISIONAL. CONTRATO. BANCÁRIO. EMPRÉSTIMO. FOLHA DE PAGAMENTO. FUNDAMENTO. AUSÊNCIA DE IMPUGNAÇÃO. DIGNIDADE DA PESSOA HUMANA. RESERVA DO MÍNIMO LEGAL. SUBSISTÊNCIA. BOA-FÉ. CDC. IMPENHORABILIDADE. VERBA SALARIAL. SÚMULAS NºS 283 E 284/STF.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A subsistência de fundamento não atacado apto a manter a conclusão do aresto impugnado impõe o não conhecimento da pretensão recursal. Súmula nº 283/STF.
+3. Encontrando-se as razões recursais dissociadas dos fundamentos do julgado atacado, é de se aplicar, por analogia, o óbice previsto na Súmula nº 284/STF.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.798.359/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 30/8/2021, DJe de 3/9/2021.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor da advogada da parte recorrida em 2% (dois por cento) sobre o valor atualizado da causa.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. RESCISÃO UNILATERAL INDEVIDA.AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. INCIDÊNCIA DA SÚMULA 283/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL DE ASSOCIAÇÃO DE BENEFICÊNCIA E FILANTROPIA SÃO CRISTÓVÃO.
