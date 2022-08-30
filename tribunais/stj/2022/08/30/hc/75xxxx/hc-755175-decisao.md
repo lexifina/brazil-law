@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se dehabeas corpussubstitutivo de recurso próprio, com pedido liminar, impetrado em favor deRHAIANE DE FATIMA CABRAL BAIRROS e LUCAS GABRIEL BERTOTTI DE CAMPOS, em que se aponta como autoridade coatora o Tribunal de Justiça do Estado do Rio Grande do Sul.
+Consta dos autos que os pacientes foram condenados àpena totalde 8 anos de reclusão, em regime fechado, mais pagamento de 1.200 dias-multa, como incursos nos arts. 33,caput, e 35,caput, da Lei n. 11.343/2006.
+Em sede recursal, o Tribunal de origem negou provimento aos recursos defensivos.
+Nestehabeas corpus, alega o impetrante que a quantidade de drogas, assim como a gravidade abstrata e a hediondez do delito não constituem elementos idôneos para fixar o regime prisional mais gravoso, em contrariedade às Súmulas 440 do STJ, 718 e 719 do STF.
+Requer, assim, a fixação do modo prisional intermediário.
+Liminar indeferida (e-STJ, fls. 212-213).
+Informações prestadas (e-STJ, fls. 217-281).
+O Ministério Público Federal opinou pela denegação da ordem (e-STJ, fls. 286-291).
+É o relatório.
+Decido.
+Esta Corte - HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Sob tal contexto, passo ao exame das alegações trazidas pela defesa, a fim de verificar a ocorrência de manifesta ilegalidade que autorize a concessão da ordem, de ofício.
+A Corte de origem, ao desprover os recursos defensivos, manteve o modo prisional fechado, com base nos seguintes fundamentos:
+"Quanto ao regime de cumprimento de pena, mantenho o regime inicial fechado fixado na sentença (art. 33, § 2º, a, do Código Penal), mesmo para os réus Rhaiane e Lucas Gabriel, em que as penas foram fixadas em 08 anos de reclusão, diante do quantitativo total de pena e com base no disposto no art. 42 da Lei de Drogas, considerando as drogas e o volume comercializados" (e-STJ, fls. 29).
+Na identificação do modo inicial de cumprimento de pena, necessário à prevenção e à reparação da infração penal, o magistrado deve expor motivadamente sua escolha, atento às diretrizes do art. 33 do Código Penal, e, na hipótese de condenação por crime de tráfico de drogas, ao disposto no art. 42 da Lei n. 11.343/2006, segundo o qual serão consideradas com preponderância a natureza e a quantidade de substância entorpecente, a personalidade e a conduta social do agente sobre as demais circunstâncias judiciais do art. 59 do Código Penal.
+Na hipótese, estabelecida a sanção em 8 anos de reclusão, sendo favoráveis as circunstâncias judicias e primários os pacientes, o modo prisional é o adequado e suficiente para o início do cumprimento da pena reclusiva, nos termos do art. 33, § 2º, "b", do Código Penal.
+Nesse sentido:
+"HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. CONDENAÇÃO. CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA. NÃO INCIDÊNCIA. CONCLUSÃO DE QUE O PACIENTE DEDICAVA-SE ÀS ATIVIDADES CRIMINOSAS. AFERIÇÃO. REVOLVIMENTO FÁTICO-PROBATÓRIO. INVIABILIDADE. CAUSA ESPECIAL DE AUMENTO DE PENA PREVISTA NO ART. 40, III, DA LEI N.º 11.343/06. MANIFESTA ILEGALIDADE. AUSÊNCIA. DELITO COMETIDO NAS IMEDIAÇÕES DE ESTABELECIMENTO DE ENSINO. COMPROVAÇÃO DE MERCANCIA NO REFERIDO LOCAL. DESNECESSIDADE. PROXIMIDADE. SUFICIÊNCIA. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITOS. IMPOSSIBILIDADE. PENA SUPERIOR A 4 ANOS. REGIME INICIAL FECHADO. AUSÊNCIA DE FUNDAMENTAÇÃO IDÔNEA. CONSTRANGIMENTO ILEGAL OCORRÊNCIA. REGIME SEMIABERTO. POSSIBILIDADE. ORDEM PARCIALMENTE CONCEDIDA.
+ ..
+4. A Corte de origem não logrou motivar de maneira idônea a imposição do regime inicial fechado, porquanto não declinou motivação suficiente para o regime inicial mais gravoso. Ora, fixada a pena-base no mínimo legal, sendo a reprimenda final 5 anos e 10 meses de reclusão, é possível o estabelecimento do regime inicial semiaberto, a teor do disposto no art. 33, § 2º, b, do Código Penal.
+5. Habeas corpus parcialmente concedido a fim de fixar o regime inicial semiaberto para o cumprimento da reprimenda corporal imposta ao paciente."
+(HC 401.235/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 5/10/2017, DJe 13/10/2017);
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. TRÁFICO ILÍCITO DE ENTORPECENTES. ART. 33 DA LEI N. 11.343/2006. PACIENTE CONDENADO À PENA CORPORAL DE 5 ANOS DE RECLUSÃO, NO REGIME INICIAL FECHADO. NÃO APLICAÇÃO DO REDUTOR PREVISTO NO § 4º DO ART. 33 DA LEI N. 11.343/2006. CIRCUNSTÂNCIAS CONCRETAS QUE EMBASAM A CONCLUSÃO DE QUE O PACIENTE DEDICA-SE A ATIVIDADES CRIMINOSAS. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. PLEITO DE ABRANDAMENTO DO REGIME PRISIONAL. CIRCUNSTÂNCIAS JUDICIAIS FAVORÁVEIS E PEQUENA QUANTIDADE DA DROGA QUE ENSEJAM O REGIME INICIAL SEMIABERTO. CONSTRANGIMENTO ILEGAL EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+- O Plenário do Supremo Tribunal Federal, em 27/7/2012, ao julgar o HC n. 111.840/ES, por maioria, declarou incidentalmente a inconstitucionalidade do art. 2º, § 1º, da Lei n. 8.072/1990, com a redação que lhe foi dada pela Lei n. 11.464/2007, afastando, dessa forma, a obrigatoriedade do regime inicial fechado para os condenados por crimes hediondos e equiparados.
+- Para a imposição de regime prisional mais gravoso do que a pena comporta, é necessário fundamentação específica, com base em elementos concretos extraídos dos autos. Inteligência das Súmulas n.
+440/STJ e 718 e 719 do STF.
+- Hipótese em que as instâncias ordinárias não apresentaram fundamentação concreta acerca da necessidade do regime mais gravoso, destacando, apenas, a gravidade abstrata do delito, o que configura constrangimento ilegal. Assim, embora o caso em questão envolva o tráfico de droga nociva (cocaína), a pequena quantidade apreendida, a análise favorável dos vetores do art. 59 do CP e o fato de a pena aplicada ser superior a 4 e inferior a 8 anos de reclusão, resta cabível o regime inicial semiaberto, nos termos do art. 33, § 2º, "b", do Código Penal e do art. 42 da Lei n. 11.343/2006.
+Precedentes.
+- Habeas corpus não conhecido. Ordem concedida ex officio, apenas para modificar o regime de cumprimento da pena do paciente para o inicial semiaberto.
+(HC 413.244/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 5/10/2017, DJe 16/10/2017).
+Ante o exposto,não conheçodohabeas corpus.Contudo,concedoa ordem, de ofício, para fixar o modo prisional semiaberto para o início do desconto da reprimenda.
+Publique-se. Intimem-se.
