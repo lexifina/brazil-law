@@ -1,0 +1,17 @@
+DECISÃO
+EROS RIBEIRO DE SOUZAalega sofrer constrangimento ilegal emdecorrência de acórdão prolatado peloTribunal de Justiça do Estado de Goiásno AgRg no HC n.5183568-80.2022.8.09.0051.
+A defesapostula a "extensão dos efeitos da decisão que indeferiu pedido de cerceamento de liberdade do corréu Norival Soares Caetano, visto que  ..  se encontra no mesmo contexto fático-jurídico daquele" (fl. 88). Subsidiariamente, pretende a substituição do encarceramento por medidas cautelares diversas.
+O writ, inicialmente, foi indeferido liminarmente por estar deficientemente instruído.
+Trazidos os documentos faltantes, reconsiderei o decisum e indeferi a liminar.
+Depois de prestadas as informações, o Ministério Público Federal opinou "pelo não conhecimento, em parte, do recurso, e pelo desprovimento na extensão conhecida" (fl. 163).
+Decido.
+Em que pesem os argumentos defensivos, o acórdão ora recorrido destacou que "nãorestou comprovado, de forma inequívoca, que o paciente se encontra em idêntica situação fático-processual do corréu que não teve decretada sua prisão preventiva" (fl. 78, grifei).
+Nessa extensão, averiguar se o paciente e o coacusado ostentavam, de fato, condições processuais idênticas, aponto de concluir que deve ser aplicado o princípio da isonomia, demandaria o exame aprofundado das provas do processo, providência inviável no habeas corpus.
+Quanto à manutenção da prisão preventiva do insurgente, lembro que elaé compatível com a presunção de não culpabilidade do réu desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado (art. 313, § 2º, CPP). Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+Apoiado nessa premissa, verifico que se mostram suficientes as razões invocadas na instância de origem para embasar a ordem de prisão dopaciente,porquanto contextualizaram, em dados dos autos, a necessidade cautelar de segregação do réu.
+Com efeito,noto que o pacienteostenta diversas ações penais contra si em andamento, as quais denotam a possibilidade de reiteração delitiva, a justificar, segundo a orientação desta Corte, a constrição cautelar.
+Conforme entendimento deste Superior Tribunal, "a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade" (RHC n. 108.629/MG, Rel. MinistroAntonio Saldanha Palheiro, 6ª T., DJe 11/6/2019).
+As mesmas circunstâncias evidenciam queas medidas cautelares alternativas à prisão não se mostram adequadas e suficientes, ao menos por ora, para evitar a prática de novas infrações penais.
+Nesse sentido: "Adequada fundamentação do decisum a quo demonstrando a real possibilidade de reiteração das condutas delitivas, portanto, não se faz viável a substituição da custódia por medidas cautelares diversas da prisão, em razão dos múltiplos riscos à ordem pública" (AgRg na PET no RHC n. 90.040/RJ, Rel. Ministro Felix Fischer, 5ª T., DJe 13/4/2018).
+À vista do exposto, conheço em parte do recurso e, nessa extensão, nego-lhe provimento.
+Publique-se e intimem-se.
