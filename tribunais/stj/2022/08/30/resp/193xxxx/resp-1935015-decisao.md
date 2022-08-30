@@ -1,0 +1,38 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto peloESTADO DO RIO DE JANEIRO,contra acórdão prolatado, por unanimidade, pela 10ª Câmara Cível do Tribunal de Justiça do Estado do Rio de Janeiro no julgamento de Agravo de Instrumento, assim ementado (fl. 35/47e):
+Agravo Instrumental. Cumprimento de Sentença. Deficiência na instrução. Advertência ao agravante que a desprezou. Recurso não conhecido.
+Opostos embargos de declaração, foram rejeitados (fls. 65/67e).
+Com amparo no art. 105, III,a, da Constituição da República, aponta-se ofensa ao art. 1.017, § 5º, do Código de Processo Civil de 2015, alegando-se, em síntese, que em se tratando de processo eletrônico, o agravo de instrumento não precisa ser instruído com os documento referidos nos incisos I e II do art. 1.017 do CPC, mas apenas com aquelesque forem úteis para a compreensão da controvérsia.
+Com contrarrazões (fls. 84/86e), o recurso foi admitido (fls. 88/90e).
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo,in casu, aplica-se o Código de Processo Civil de 2015.
+Nos termos do art. 932, III, do Código de Processo Civil de 2015, combinado com os arts. 34, XVIII, a, e 255, I, ambos do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida.
+Não obstante impugne acórdão proferido em agravo de instrumento, entendo relevante registrar o cabimento do presente recurso especial, porquanto ausente a possibilidade de modificação do decisum originário, considerando não se tratar de decisão precária. Portanto, a insurgência endereçada à Corte é o caminho apropriado para impedir a preclusão da matéria.
+Observo, de pronto, que o tribunal de origem afastou a aplicação do § 5º do art. 1017 do CPC, sob o fundamento de que seu comando encerra uma faculdade, havendo o Recorrente desprezado a oportunidadeconcedida, no presente caso, de correta instrução de seuagravo de instrumento com a identificação do conteúdo material dos arquivos correspondentes aos documentos do inciso I, de apresentação obrigatória, conforme se extrai dos seguintes excertos do acórdão recorrido (fls. 36/37e):
+6. O presente recurso não merece ser conhecido.
+7. Com efeito, com ele não vieram as peças mencionadas no art. 1.017, I do CPC, cuja redação é imperativa.
+8. Trata-se assim de recurso manifestamente inadmissível, por deficiência de instrução;
+9. Não se argumente com o § 5º do art. 1.017 do CPC, pois ali encerra-se uma faculdade.
+10. Ao agravante foi concedida a oportunidade de instruir corretamente o recurso, e a desprezou.
+11. Daí porque o recurso não merece ser conhecido.
+12. Questão semelhante a esta já fora objeto de julgamento pelo TJ/RS, proferido na A. C. nº 0397658-48.2017.8.21.7000, em 25/04/2018, de cujo acórdão se pinçam os seguintes fundamentos:
+"(..) Considerando que em autos eletrônicos é imprescindível o agravante identificar o conteúdo material de todos os arquivos anexados; e considerando o agravante não cumprir tal princípio, uma vez que apresentou petição apenas detalhando o sistema anterior utilizado, ao invés de identificar de forma específica as peças que integram os referidos conjuntos de folhas de cada arquivo enviado conforme referido (CPC, art. 1.017, III), foi-lhe concedida oportunidade de sanar o vício (CPC, art. 1.017, § 3º, c/c o art. 932, parágrafo único).
+No entanto, conforme bem explicado na decisão, peticionou repetindo o mesmo vício, motivo por que - inclusive na esteira de precedentes cujos números foram mencionados - foi negado trânsito ao recurso por inadmissibilidade (CPC, art. 932, parágrafo único).
+Com efeito, a inconformidade não merece acolhida, e para tanto evidencio três pontos: (1) princípio da identificação do teor material dos arquivos nos autos eletrônicos; (2) julgamento monocrático; e (3) caso sub judice.
+Nas razões do Recurso Especial, tal fundamentação não foi refutada, implicando a inadmissibilidade do recurso, visto que esta Corte tem firme posicionamento, segundo o qual a falta de combate a fundamento suficiente para manter o acórdão recorrido justifica a aplicação, por analogia, da Súmula n. 283 do Colendo Supremo Tribunal Federal: "é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Nessa linha, destaco os seguintes julgados de ambas as Turmas que compõem a 1ª Seção desta Corte:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OCUPAÇÃO DE TERRA PÚBLICA. ÁREA DE PRESERVAÇÃO PERMANENTE. DEMOLIÇÃO DE CONSTRUÇÃO. OMISSÃO NÃO CARACTERIZADA. INTERPRETAÇÃO DE LEI LOCAL. SÚMULA N. 280 DO STF. ACÓRDÃO A QUO QUE CONCLUI, COM BASE NOS FATOS E PROVAS DOS AUTOS, PELA IRREGULARIDADE DA EDIFICAÇÃO. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. FUNDAMENTO AUTÔNOMO INATACADO. SÚMULA N. 283 DO STF. ALEGADA VIOLAÇÃO À LEI FEDERAL. DISPOSITIVOS NÃO INDICADOS. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA N. 284 DO STF.
+(..)
+4. A argumentação do recurso especial não atacou o fundamento autônomo e suficiente empregado pelo acórdão recorrido para decidir que o Código de Edificações do Distrito Federal autoriza à Administração Pública, no exercício regular do poder de polícia, determinar a demolição de obra irregular, inserida em área pública e de preservação permanente. Incide, no ponto, a Súmula 283/STF.
+5. Revelam-se deficientes as razões do recurso especial quando o recorrente limita-se a tecer alegações genéricas, sem, contudo, apontar especificamente qual dispositivo de lei federal foi contrariado pelo Tribunal a quo, fazendo incidir a Súmula 284 do STF.
+6. Agravo regimental não provido.
+(AgRg no AREsp 438.526/DF, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 05/08/2014, DJe 08/08/2014 - destaque meu).
+ADMINISTRATIVO E PROCESSUAL CIVIL. FASE DE EXECUÇÃO DE SENTENÇA CONDENATÓRIA POR ATO DE IMPROBIDADE. BENS IMÓVEIS PENHORADOS, LEVADOS A HASTA PÚBLICA E ARREMATADOS. SUPERVENIÊNCIA DE DECISÃO EM AÇÃO RESCISÓRIA, RESCINDINDO O ACÓRDÃO CONDENATÓRIO. PRETENSÃO DE ANULAÇÃO DAS ARREMATAÇÕES. NECESSIDADE DE AÇÃO PRÓPRIA. IMÓVEIS QUE TERIAM SIDO ARREMATADOS POR PREÇO VIL. INDENIZAÇÃO QUE DEVE SER BUSCADA EM AÇÃO PRÓPRIA. ACÓRDÃO RECORRIDO CUJOS FUNDAMENTOS NÃO SÃO IMPUGNADOS PELAS TESES DO RECORRENTE. SÚMULA N. 283 DO STF. INEXISTÊNCIA DE VIOLAÇÃO DO ART. 535 DO CPC.
+(..)
+4. Com relação aos demais pontos arguidos pelo recorrente, forçoso reconhecer que o recurso especial não merece conhecimento, porquanto, além da ausência de prequestionamento das teses que suscita (violação dos artigos 687, 698 do CPC e 166, inciso IV, e 1.228 do Código Civil) (Súmula n. 211 do STJ), tem-se que as razões recursais não impugnam, especificamente, os fundamentos do acórdão recorrido, o que atrai o entendimento da Súmula n. 283 do STF.
+5. Não sendo possível o retorno ao status quo ante, deve o prejudicado pedir indenização por meio de ação própria, caso entenda que aquela arbitrada pelo juízo da execução é insuficiente para recompor sua indevida perda patrimonial.
+Recurso especial não conhecido.
+(REsp 1.407.870/PR, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 12/08/2014, DJe 19/08/2014 - destaque meu).
+Posto isso, com fundamento nos arts. 932, III, do Código de Processo Civil de 2015 e 34, XVIII,a, e 255, I, ambos do RISTJ,NÃO CONHEÇOdo Recurso Especial.
+Publique-se e intimem-se.
