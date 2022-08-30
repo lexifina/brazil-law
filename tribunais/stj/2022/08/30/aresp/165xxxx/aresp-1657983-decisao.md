@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo em recurso especial manejado pelo DISTRITO FEDERAL, em face de decisão que inadmitiu recurso especial interposto contra acórdão assim ementado:
+DIREITO CIVIL E TRIBUTÁRIO. APELAÇÃO CÍVEL. FAZENDA PÚBLICA. PARTILHA AMIGÁVEL. EXPEDIÇÃO DO FORMAL DE PARTILHA. PRÉVIA QUITAÇÃO DOS TRIBUTOS DEVIDOS À FAZENDA PÚBLICA. DESNECESSIDADE. ART. 659 DO CPC. SENTENÇA MANTIDA.
+1 - Ação de inventário em que se discute a expedição de formal de partilha sem prévio recolhimento de tributos.
+2 - Havendo conflito aparente de normas entre o art. 659, § 2º, do CPC/2015 e o art. 192 do Código Tributário Nacional, entende-se que a aplicação do critério cronológico é o que melhor se adequa à intenção do legislador ao modificar as regras da partilha amigável, devendo prevalecer a nova regra processual civil.
+3 - A inovação trazida pelo Novo Código de Processo Civil de 2015, no § 2º, do artigo 659, com foco na celeridade processual, permite que o formal de partilha seja expedido anteriormente ao recolhimento do imposto de transmissão , e somente após sua expedição ou da carta de adjudicação é que a causa mortis Fazenda Pública será intimada para providenciar o lançamento administrativo dos impostos, supostamente devidos.
+4 - Negou-se provimento ao recurso.
+Embargos de declaração opostos e rejeitados (fl. 306).
+No recurso especial interposto pela alínea "a" do permissivo constitucional, o recorrente aponta violação dos arts. 192 do CTN; 31 da Lei n. 6.830/1980; e 663 e 664, §§ 4º e 5º, do CPC/2015 alegando que deve haver a prévia quitação dos débitos tributários devidos pelo espólio, a despeito de se tratar de partilha amigável, com a ação de inventário sendo processada sob rito do arrolamento sumário. Sustenta que, como houve a oposição de embargos de declaração, fica atendido o requisito do prequestionamento do art. 1.025 do CPC/2015.
+Contrarrazões a fls. 344-348.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Decido.
+Registra-se que os recursos interpostos com fulcro no CPC/2015 sujeitam-se aos requisitos de admissibilidade nele previstos, conforme diretriz contida no Enunciado Administrativo 3 do Plenário do STJ.
+A questão jurídica referente "à necessidade de se comprovar, no arrolamento sumário, o pagamento do Imposto de Transmissão Causa Mortis e Doação - ITCMD como condição para a homologação da partilha ou expedição da carta de adjudicação, à luz dos arts. 192 do CTN e 659, § 2º, do CPC/2015" (Tema n. 1.074 do STJ) foi submetida à Primeira Seção, para ser julgada pela sistemática dos recursos repetitivos (REsps n. 1.896.526/DF e 1.895.486/DF), sob a relatoria da Ministra Regina Helena Costa, como representativos da controvérsia, determinando-se a "suspensão do processamento de todos os processos pendentes, individuais ou coletivos, que versem acerca da questão delimitada e tramitem no território nacional".
+Encontrando-se o tema afetado à sistemática dos repetitivos, esta Corte Superior orienta que os recursos que tratam da mesma controvérsia devem aguardar o julgamento do paradigma representativo no Tribunal de origem, viabilizando, assim, o juízo de conformação, hoje disciplinado pelo art. 1.040 do CPC/2015.
+Nesse sentido, citem-se : REsp n. 1.946.188/DF, rel. Ministro Benedito Gonçalves, DJe 16/4/2022; AREsp n. 1.741.818/DF, rel Ministro Gurgel de Faria, DJe 27/8/2021.
+Nesse contexto, somente depois de realizado o necessário juízo de conformação, que representa o exaurimento da instância ordinária, é que os autos poderão ser encaminhados a esta Corte Superior, para análise de questões jurídicas suscitadas que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Ante o exposto, determino a devolução dos autos à Corte de origem, com a respectiva baixa, para que, após a publicação do acórdão a ser prolatado em sede de julgamento dos recursos repetitivos, o tribunal a quo proceda ao juízo de conformidade (art. 1.040 do CPC/2015)
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. TRIBUTÁRIO. RECURSO ESPECIAL. ITCMD. EXIGÊNCIA. ARROLAMENTO SUMÁRIO. PARTILHA AMIGÁVEL. QUESTÃO AFETADA PARA JULGAMENTO SOB O RITO DOS RECURSOS REPETITIVOS. TEMA 1.074/STJ. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM.
