@@ -1,0 +1,60 @@
+DECISÃO
+Cuida-se de agravo interposto por RONEY LOPES DE AMORIM contra decisão que inadmitiu o recurso especial.
+Com fulcro no art. 105, III, a e c, da Constituição Federal, o recorrente visa à reforma do acórdão proferido pela Segunda Câmara de Direito Privado do Tribunal de Justiça do Estado do Mato Grosso, assim ementado (e-STJ, fls. 179-180):
+RECURSO DE APELAÇÃO CÍVEL - AÇÃO DE NULIDADE DE ATO JURÍDICO POR FALTA DE NOTIFICAÇÃO E INDENIZAÇÃO POR DANOS MORAIS - IMPROCEDÊNCIA - INSCRIÇÃO DO NOME DO AUTOR JUNTO AOS CADASTROS DE INADIMPLENTES - PRELIMINAR: ILEGITIMIDADE PASSIVA - ANÁLISE QUE SE CONFUNDE COM O MÉRITO - MÉRITO: NOTIFICAÇÃO PRÉVIA NOS MOLDES DO ART. 43, §2º, DO CDC - COMPROVAÇÃO - PRESCINDIBILIDADE DA JUNTADA DO AVISO DE RECEBIMENTO (AR) - SÚMULA 404 DO STJ - ILEGALIDADE NÃO CONFIGURADA - SENTENÇA MANTIDA - RECURSO DESPROVIDO.
+Não se constata qualquer ilicitude, se demonstrado que o órgão mantenedor dos cadastros de proteção ao crédito enviou a notificação prévia ao consumidor acerca da inclusão de seu nome nos bancos de dados da empresa, mediante correspondência enviada ao endereço informado pelo credor.
+A teor da Súmula nº 404 do STJ, não se exige do órgão de proteção ao crédito a comprovação do recebimento pelo consumidor da notificação mediante "Aviso de Recebimento - AR".
+Insurge-se o ora recorrente contra o acórdãoque, nos autos de ação de nulidade de ato jurídico cumulada com danos morais, desproveu o recurso de apelação, mantendo íntegra a sentença proferida pelo Juízo singular.
+Opostos os embargos de declaração, o Tribunal local os rejeitou, conforme ementa abaixo reproduzida (e-STJ, fls. 217-218):
+EMBARGOS DE DECLARAÇÃO - ACÓRDÃO PROFERIDO EM RECURSO DE APELAÇÃO CÍVEL - AÇÃO DE NULIDADE DE ATO JURÍDICO POR FALTA DE NOTIFICAÇÃO PRÉVIA C/C INDENIZAÇÃO POR DANOS MORAIS - ALEGAÇÃO DE OMISSÃO E OBSCURIDADE NO ACORDÃO -INOCORRÊNCIA - PRETENDIDA REDISCUSSÃO DA MATÉRIA - VIA INADEQUADA - EMBARGOS REJEITADOS.
+Se ausente do acórdão embargado a omissão e a obscuridade apontadas, a teor do art. 1.022 do CPC/15, a rejeição dos aclaratórios é medida que se impõe, notadamente quando se constata que, em verdade, o que pretende o embargante é rediscutir matéria já apreciada, valendo-se de via recursal inadequada.
+Mesmo nos embargos de declaração com o fim específico de prequestionamento é necessário observar os limites previstos no artigo 1.022 do CPC/15, impondo-se sua rejeição quando não se verificarem os vícios nele elencados.
+Irresignado,RONEY LOPES DE AMORIM interpôs recurso especial, apontando violação ao art. 43,§ 2º, da Lei n. 8.078/1990; aos arts. 186 e 927 do Código Civil; e ao art. 489 do CPC/2015.
+Em suas razões, alegou que a ausência de notificação prévia para realizar o cadastro em banco de dados ensejaria a responsabilidade objetiva daora recorrida. Asseverou, ainda, que da conduta ilícita da parte adversadecorreria o dever de indenizar, independente de culpa.
+Foram apresentadas as contrarrazões (e-STJ, fls. 247-253).
+Com o juízo de admissibilidade negativo, houve a interposição do presente agravo (e-STJ, fls. 261-274).
+Brevemente relatado, decido.
+No caso sob julgamento, cinge-se a controvérsia quanto à necessidade de notificação prévia nos moldes do art.43, § 2º, doCDC.
+De início, a violação ao art. 489 do CPC/2015 não merece conhecimento, tendo em vista que o recorrente fez apenas mera menção ao dispositivo sem, contudo, argumentar de maneira clara e precisa as razões pelas quais o acórdão proferido fora omisso, contraditório ou obscuro.
+Com efeito, a jurisprudência desta Corte Superior é pacífica no sentido de que a alegação genérica do art. 489 do CPC/2015 atrai a incidência da Súmula n. 284/STF.
+Na mesma linha de cognição (sem grifos no original):
+RECURSO ESPECIAL. CIVIL E CONSUMIDOR. COMPETÊNCIA DA SEGUNDA SEÇÃO. CARACTERIZAÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. PRINCÍPIOS DA PREVENÇÃO E PRECAUÇÃO. SÚMULA 7/STJ. PROVA DE FATO NEGATIVO. NÃO CARACTERIZAÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. DANO AMBIENTAL. POLUIÇÃO ATMOSFÉRICA. DANOS INDIVIDUAIS. CONSUMIDOR POR EQUIPARAÇÃO. CARACTERIZAÇÃO. RELAÇÃO DE CONSUMO. INVERSÃO DO ÔNUS DA PROVA. POSSIBILIDADE. REEXAME. SÚMULA 7/STJ.
+1- Recurso especial interposto em 27/7/2021 e concluso ao gabinete em 2/2/2022.
+2- O propósito recursal consiste em dizer se: a) estaria caracterizada negativa de prestação jurisdicional; b) os recorridos podem ser considerados consumidores por equiparação por sofrerem os danos decorrentes do exercício de atividade empresarial poluidora;
+c) são aplicáveis as disposições do CDC em ação compensatória por danos morais fundada em dano ambiental; e d) a inversão do ônus da prova deve ser mantida.
+3- A causa de pedir da presente ação encontra-se fundada em questão eminentemente privada, inexistindo discussão acerca de eventual responsabilidade do Estado, tampouco pedido de restauração do próprio meio ambiente, motivo pelo qual esta Terceira Turma é competente para apreciação do presente processo.
+4- Não se pode conhecer da apontada violação dos arts. 1.022 e 489 do CPC, pois as alegações que a fundamentam são genéricas, sem discriminação específica dos pontos efetivamente omissos, contraditórios ou obscuros sobre os quais teria incorrido o acórdão impugnado, motivo pelo qual incide, na espécie, por analogia, a Súmula 284/STF.
+ ..
+10- Recurso especial conhecido em parte e, nesta extensão, não provido.
+(REsp n. 2.009.210/RS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 9/8/2022, DJe de 12/8/2022.)
+PROCESSUAL CIVIL E BANCÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SÚMULA 182. NÃO INCIDÊNCIA. RECONSIDERAÇÃO DA DECISÃO DA PRESIDÊNCIA. AÇÃO DE INEXISTÊNCIA DE DEBITO C/C INDENIZAÇÃO POR DANOS MORAIS. OFENSA AOS ARTS. 489 E 1.022 DO CPC/2015. ALEGAÇÃO GENÉRICA. SÚMULA 284/STF. MULTA POR LITIGÂNCIA DE MÁ-FÉ. AFASTAMENTO. IMPOSSIBILIDADE. REEXAME DE PROVAS. SÚMULA 7/STJ. AGRAVO INTERNO PROVIDO. DECISÃO RECONSIDERADA. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. É deficiente a fundamentação do recurso especial em que a alegação de ofensa aos arts. 489 e 1.022 do CPC/2015 se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Incidência da Súmula 284 do STF.
+2. Na hipótese, o Tribunal a quo, após o exame acurado dos autos e das provas, concluiu pela caracterização de litigância de má-fé da agravante, que alterou a verdade dos fatos com o intuito de locupletar-se ilicitamente.
+3. A modificação da conclusão do Tribunal de origem sobre a litigância de má-fé da parte agravante demandaria o revolvimento do suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7/STJ.
+4. Agravo interno provido para reconsiderar a decisão ora agravada e, em novo julgamento, conhecer do agravo para negar provimento ao recurso especial.
+(AgInt no AREsp n. 1.803.276/RS, relator Ministro Raul Araújo, Quarta Turma, julgado em 27/6/2022, DJe de 29/6/2022.)
+No que concerne à questão de fundo, aduziu orecorrente que a notificação fora enviadapara endereço diverso, motivo pelo qual considera indevida a inserção de seu nome no cadastro de inadimplentes. Nesse ponto, sem razão o insurgente.
+É cediço que o Código de Defesa do Consumidor, almejando maior proteção ao polo mais frágil da relação consumerista, estabeleceu o dever de notificação prévia prevista no43, § 2º. Contudo, nos termos da jurisprudência desta Corte Superior, para o cumprimento do dispositivo invocado, basta o envio da correspondência, sendo desnecessário o aviso de recebimento.
+Ilustrativamente (sem grifos no original):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AO ART. 535. NÃO OCORRÊNCIA. CONSUMIDOR. CADASTRO DE INADIMPLENTES. NOTIFICAÇÃO PRÉVIA. OCORRÊNCIA. SÚMULA 404 DO STJ. ALTERAÇÃO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. VERBA HONORÁRIA. REDUÇÃO. PROPORCIONALIDADE E RAZOABILIDADE. POSSIBILIDADE.
+1. A decisão recorrida foi publicada antes da entrada em vigor da Lei n. 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do Código de Processo Civil de 1973, conforme Enunciado Administrativo 2/2016 desta Corte.
+2. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões, deve ser afastada a alegada ofensa ao artigo 535 do Código de Processo Civil de 1973.
+3. Segundo jurisprudência do Superior Tribunal de Justiça, fixado em julgamento submetido ao rito dos repetitivos, para que se cumpra o disposto no art. 43, § 2º, do Código de Defesa do Consumidor, basta o envio de correspondência dirigida ao endereço do consumidor, sendo desnecessário aviso de recebimento (REsp. 1.083.291/RS, Relatora Ministra Nancy Andrighi, Segunda Seção, julgado em 9.9.2009, DJe 20.10.2009). (Súmula 404 do STJ).
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 902.752/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 17/11/2016, DJe de 30/11/2016.)
+Sendo assim, colhe-se da leitura dos autos que para o Tribunal local, à luz das provas dos autos, a recorrida realizou o envio da prévia notificação para o recorrente, de modo a afastar a conduta ilícita daquela.
+Confira-se (e-STJ, fls. 184-185):
+No entanto, o Superior Tribunal de Justiça consolidou entendimento, através da Súmula nº 404, dispondo que é dispensável o aviso de recebimento (AR) na carta de comunicação ao consumidor sobre a negativação de seu nome em bancos de dados e cadastros de proteção ao crédito.
+Assim, a comunicação a que se refere o artigo 43, §2º, do Código de Defesa do Consumidor, independe de maior formalidade e prescinde de comprovação por aviso de recebimento, bastando prova da postagem ao consumidor no endereço constante do contrato.
+Observa-se que a apelada comprovou a expedição da notificação para o endereço fornecido pelos credores do autor/apelante, não lhe cabendo verificar se o endereçamento indicado está correto ou não (ID nº 106740979 pag.06 a 08).
+Aliás, o endereço para onde fora enviada a notificação em11/08/2017 é o mesmo declarado pelo autor na inicial, e do que se constata, foi encaminhada em tempo hábil ao apelante para que este pudesse adimplir seu débito, porém, não o fez.
+Logo, restou comprovado o envio da prévia notificação ao consumidor/apelante, conforme determina o artigo 43, §2º, do Código de Defesa do Consumidor.
+(..)
+Desse modo, comprovado que a notificação ocorreu de forma prévia, não há que se falar em responsabilização do órgão de proteção de crédito.
+À vista disso, conquanto o recorrente alegue violação a dispositivos de leis federais, a fim de justificar a responsabilização civil por suposta conduta ilícita da recorrida, fica nítida a pretensão de que este Superior Tribunal proceda ao reexame do substrato fático-probatório com a finalidade de modificar o entendimento daSegunda Câmara de Direito Privado do Tribunal de Justiça do Estado do Mato Grosso. Entretanto, dada a excepcionalidadedo recurso especial, tal pretensão revela-se indevida por óbice estabelecido na Súmula n. 7/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do advogado da parte recorrida em 14% do valor atualizado da causa, observando-se a gratuidade de justiça deferida ao recorrente.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE NULIDADE DE ATO JURÍDICO. NOTIFICAÇÃO PRÉVIA. DIREITO PROCESSUAL CIVIL. VIOLAÇÃO AO ART. 489 DO CPC/2015. ARGUMENTAÇÃO GENÉRICA. INCIDÊNCIA DA SÚMULA N. 284/STF. DEVER DE NOTIFICAÇÃO. CÓDIGO DE DEFESA DO CONSUMIDOR. ATO ILÍCITO. RESPONSABILIDADE CIVIL. CÓDIGO CIVIL. REEXAME DE ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
