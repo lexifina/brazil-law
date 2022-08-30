@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de recurso especial interposto por DAUDT, CASTRO E GALLOTTI OLINTO ADVOGADOS, FORD MOTOR COMPANY BRASIL LTDA contra acórdão proferido peloTRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULOassim ementado:
+APELAÇÃO CÍVEL. AÇÃO ANULATÓRIA DE AIIM. CUMPRIMENTODE SENTENÇA. VERBA HONORÁRIA SUCUMBENCIAL. CPC/1973.
+1. PRELIMINAR. Juiz convocado, designado para atuar na Unidade Remota de Julgamento (URJ), criada pela Portaria Conjunta nº50/2018, deste E. TJSP, com o objetivo de promover a devida prestação jurisdicional, em atenção ao princípio da razoável duração do processo (CF, art. 5º, LXXVIII). Inexistência de violação ao princípio do juiz natural, especialmente porque observados critérios objetivos e com expressa autorização legal. Precedentes do STF e STJ. Preliminar afastada.
+2. Sentença proferida e publicada na vigência do CPC/1973. Regras sobre honorários que devem observar a legislação vigente.
+3. Pretensão ao recebimento dos honorários advocatícios deforma proporcional, considerando o valor do proveito econômico obtido por cada parte. Descabimento. Título executivo que reconheceu a sucumbência recíproca e expressamente determinou às partes a compensação dos honorários advocatícios entre si, fixados em 10% do valor dado à causa (R$29.431.889,98). Ausência de qualquer menção à proporcionalidade em relação ao montante do débito considerado insubsistente. Conformismo da autora e de seus patronos, que não recorreram quanto a esse aspecto. Inviabilidade do prosseguimento do cumprimento de sentença em relação aos honorários advocatícios cobrados. Manutenção dar. sentença, que acolheu a impugnação da FESP.
+4. Recurso não provido.
+Os embargos de declaração foram rejeitados.
+No recurso especial, fundamentado nas alíneas "a" e "c" do permissivo constitucional, arecorrente alega, além da divergência jurisprudencial, violação dos seguintes dispositivos: a) art. 1.022 do Código de Processo Civil de 2015, aduzindo que os vícios do aresto combatido não foram sanados a despeito da oposição de aclaratórios na origem; b)art. 21 do Código de Processo Civil de 1973, sustentando que a distribuição da verba honorária deveria ocorrer em proporções distintas e desiguais na medida em que houve sucumbência recíproca.
+Houve contrarrazões ao recurso especial (e-STJ fls. 527/539).
+É o relatório. Decido.
+Preliminarmente, com relação às omissões apontadas, a insurgência não merece prosperar.
+Isso porque, ao acolhimento da preliminar,não basta a simples oposição dos embargos de declaração na origem. É necessária a demonstração, de forma fundamentada que: (a) a questão supostamente omitida foi tratada na apelação, no agravo ou nas contrarrazões a estes recursos, ou, ainda, que se cuida de matéria de ordem pública a ser examinada de ofício, a qualquer tempo, pelas instâncias ordinárias; (b) houve interposição de aclaratórios para indicar à Corte local a necessidade de sanear a omissão; (c) a tese omitida é fundamental à conclusão do julgado e, se examinada, poderia levar à sua anulação ou reforma.
+Tais demonstrações não ocorreram in casu, razão pela qual incide o óbice da Súmula n. 284/STF.
+Nesse sentido:
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRARIEDADE AOS ARTS. 489 E 1.022 DO CPC. RAZÕES. DEFICIÊNCIA. INCIDÊNCIA DA SÚMULA N. 284/STF. REEXAME DE LEI LOCAL. IMPOSSIBILIDADE.
+1. É deficiente a fundamentação do recurso especial em que a alegada ofensa aos arts. 489 e 1.022 do CPC faz-se sem a demonstração objetiva dos pontos omitidos pelo acórdão combatido, individualizando o erro, a obscuridade, a contradição ou a omissão supostamente ocorridos, bem como sua relevância para a solução da controvérsia apresentada nos autos. Incidência, por analogia, da Súmula n. 284/STF.
+2. O Colegiado de origem decidiu com base na interpretação da legislação local, especialmente da Lei estadual n. 8.927/1988 e do Decreto Estadual n. 9.172/2010. Portanto, a análise da controvérsia posta e a desconstituição da conclusão alcançada demandam o exame de legislação local.
+3. Inviável, assim, o acolhimento do recurso especial, de acordo com a aplicação analógica do enunciado n. 280 constante da Súmula do STF.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.712.653/PR, relator Ministro Og Fernandes, Segunda Turma, DJe de 5/4/2022.)
+No mérito, melhor sorte não assiste a parte.
+Isso porque a questão referente aos honorários advocatícios restou solucionada na origem à luz do CPC/15, de forma que o art. 21 do CPC/73 carece de necessário prequestionamento, atraindo a incidência da Súmula n. 211/STJ.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. APOSENTADORIA. ALEGADA VIOLAÇÃO DO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. PRESCRIÇÃO DE FUNDO DE DIREITO RECONHECIDA. AÇÃO PROPOSTA CONTRA INSS. AUÊNCIA DE INTERRUPÇÃO OU SUSPENSÃO DO PRAZO PRESCRICIONAL. EFEITO INTER PARTES DA COISA JULGADA. ART. 472 DO CPC/1973. AUSÊNCIA DE PREQUESTIONAMENTO DA QUESTÃO DE FUNDO. INCIDÊNCIA DA SÚMULA N. 211/STJ. INAPLICABILIDADE DO ART. 1.025 DO CPC. RECURSO NÃO PROVIDO.
+1. Não houve violação do art. 1.022 do CPC, porquanto o acórdão impugnado fundamentou, claramente, o posicionamento por ele assumido, de modo a prestar a jurisdição que lhe foi postulada, resolvendo as questões suscitadas pelo recorrente.
+2. A posição firmada pelo Tribunal de origem está em plena consonância com a jurisprudência desta Corte de que, em hipóteses como a dos autos, na qual se pretende a modificação do ato de aposentação do servidor público a pretexto de computar-se, de forma diferenciada, o tempo de serviço prestado em condições especiais insalubres, a prescrição atinge o próprio fundo de direito. Precedentes.
+3. Na ocasião em que foi concedida a aposentadoria, a insurgente já tinha ciência do período laborado em condições especiais, motivo pelo qual poderia, desde aquela época, ter pleiteado perante o instituto recorrido a contagem diferenciada do tempo de serviço ou, ainda, ter ajuizado ação também contra a entidade municipal.
+4. Como não o fez, não houve interrupção ou suspensão da prescrição, pois a ação promovida em oposição ao INSS não alterou o prazo prescricional da pretensão contra o recorrido, ante o efeito inter partes da coisa julgada oriunda daquela demanda, consoante o art. 472 do CPC/1973.
+5. Nesse contexto, como a aposentadoria foi concedida em 3/3/2005 e a presente ação apenas foi ajuizada em 27/11/2018, inevitável o reconhecimento da prescrição do próprio fundo do direito, nos moldes do art. 1º do Decreto n. 20.910/1932.
+6. As demais teses recursais - relativas à questão de fundo - não foram objeto de debate e deliberação pela Corte de origem, mesmo com a oposição dos embargos de declaração, o que redunda em ausência de prequestionamento da matéria, aplicando-se ao caso a orientação firmada na Súmula n. 211/STJ.
+7. Quanto ao art. 1.025 do CPC, apenas no caso de reconhecimento de vício de omissão no acórdão recorrido, é possível a supressão de instância para conhecimento da matéria fictamente prequestionada, o que não ocorreu no caso, na medida em que o Tribunal de origem não conheceu desse fundamento recursal, ante o acolhimento da prejudicial de prescrição.
+8. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.907.477/SP, relator Ministro Og Fernandes, Segunda Turma, julgado em 20/6/2022, DJe de 24/6/2022.)
+Ademais, o óbice aplicado ao conhecimento da matéria pela alínea "a" impede também o conhecimento do especial pela divergência.
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ARGUMENTAÇÃO DEFICIENTE. SÚMULA N. 284/STF. VIOLAÇÃO DO ART. 21 DO CPC/73. CARÊNCIA DE NECESSÁRIO PREQUESTIONAMENTO. SÚMULA N. 211/STJ. RECURSO ESPECIAL NÃO CONHECDO.
