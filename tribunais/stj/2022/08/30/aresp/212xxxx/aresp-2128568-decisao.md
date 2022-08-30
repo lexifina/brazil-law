@@ -1,0 +1,26 @@
+DECISÃO
+1. Cuida-se de agravo interposto por AUGUSTO DE PAIVA SIQUEIRA, MARILIA DE PAIVA SIQUEIRA eMURILO DE PAIVA SIQUEIRA contra decisão que não admitiu o seu recurso especial, por sua vez manejado em combate a acórdão proferido peloTRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS, assim ementado:
+AGRAVOS DE INSTRUMENTO CONEXOS. JULGAMENTO CONJUNTO. CUMPRIMENTO DE SENTENÇA ARBITRAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. CABIMENTO. DILAÇÃO PROBATÓRIA DESNECESSÁRIA. BEM DE FAMÍLIA. COMPROVAÇÃO DE PLANO. DOCUMENTOS SUFICIENTES. FIADOR. CONTRATO DE LOCAÇÃO COMERCIAL. BEM DE FAMÍLIA IMPENHORÁVEL. SÚMULA 549 DO SUPERIOR TRIBUNAL DE JUSTIÇA. DISTINGUISH. PRECEDENTES DO SUPREMO TRIBUNAL FEDERAL. PRINCÍPIO DA ISONOMIA. QUESTÃO SUBMETIDA AO RITO DOS RECURSOS REPETITIVOS. DECISÃO REFORMADA.
+1. A despeito das decisões recorridas terem sido prolatadas no bojo de cumprimentos de sentenças arbitrais distintas, constata-se que analisaram e indeferiram o mesmo pedido de desconstituição de penhora realizada no bem imóvel de propriedade de Carlos da Cunha Neto e Elizabeth Ferreira da Cunha, formulado em sede de exceção de pré-executividade. Desse modo, por serem conexos, com fundamento 55, § 1º, do Código de Processo Civil, passo a julgar os recursos em testilha simultaneamente.
+2. Tratando-se a impenhorabilidade do bem de família de matéria de ordem pública e tendo a parte interessada comprovado, de plano, que o seu imóvel preenche essa condição, plenamente cabível a exceção de pré-executividade oposta.
+3. Em que pese o teor do enunciado sumular nº 549 do Superior Tribunal de Justiça, recentemente, a 1ª Turma do Supremo Tribunal Federal, no julgamento do RE nº 605.709/SP (DJe de 18/2/2019), cuja relatora foi a Ministra Rosa Weber, decidiu, por maioria, que a "restrição do direito à moradia do fiador em contrato de locação comercial tampouco se justifica à luz do princípio da isonomia."
+4. Ao analisar o caso tratado no RE nº 605.709/SP, o Supremo Tribunal Federal realizou o devido distinguish com relação à tese jurídica fixada pelo Superior Tribunal de Justiça com base em discussão relativa à penhorabilidade de bem de família quando se tratar de fiança prestada em contrato de locação residencial.
+5. Nesse contexto, muito embora a matéria seja controvertida, tendo inclusive sido submetida ao rito dos repetitivos (tema 1091), ainda pendente de julgamento, razoável que seja aplicado na situação sub judice o entendimento mais recente da Corte Constitucional, no sentido de distinguir a fiança prestada nos contratos de locação residencial e comercial para fins de penhorabilidade ou não dos bens de família de propriedade do fiador.
+RECURSOS DE AGRAVO DE INSTRUMENTO CONHECIDOS E PROVIDOS.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, aponta a parte recorrente, além de dissídiojurisprudencial,ofensa tanto ao disposto noart. 3º, VII, da Lei nº 8.009/90, quanto ao disposto na Súmula nº 549/STJ.
+Sustenta, em síntese, ser válida a penhora de bem de família pertencente a fiador não apenas de contrato de locação residencial, como também de contrato de locação comercial.
+Contrarrazões ao recurso especial às Fls. e-STJ 134-140.
+É o relatório.
+DECIDO.
+2. De início, imperioso afirmar que não se admite recurso especial por negativa de vigência ou violação de súmula, uma vez que esta não se equipara a dispositivo de lei federal para fins de interposição do referido recurso.
+A propósito, "incabível a análise de recurso especial, por quaisquer das alíneas do permissivo constitucional, que tenha por fundamento violação de enunciado ou súmula de Tribunal Superior"(AgRg no AREsp 462.700/MG, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 22/05/2014, DJe 05/06/2014).
+Nesse sentido, foi editada a Súmula 518 do STJ que preleciona: "Para fins do art. 105, III, a, da Constituição Federal, não é cabível recurso especial fundado em alegada violação de enunciado de súmula".
+3. No mais, emque pesem os coerentesargumentos utilizados pelo Tribunal a quo no bojodecisum impugnado, firmou-se a Segunda Seção deste STJ no seguinte sentido, sobre a matéria em pauta:
+PROCESSO CIVIL. DIREITO CIVIL. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. ART. 1.036 DO CPC. EXECUÇÃO. LEI N. 8.009/1990. ALEGAÇÃO DE BEM DE FAMÍLIA. FIADOR EM CONTRATO DE LOCAÇÃO COMERCIAL E RESIDENCIAL. PENHORABILIDADE DO IMÓVEL. POSSIBILIDADE. PRECEDENTES DO STF E DO STJ.
+1. Para fins do art. 1.036 do CPC: "É válida a penhora do bem de família de fiador apontado em contrato de locação de imóvel, seja residencial, seja comercial, nos termos do inciso VII do art. 3º da Lei n. 8.009/1990."
+2. No caso concreto, recurso especial provido.
+(REsp n. 1.822.033/PR, relator Ministro Luis Felipe Salomão, Segunda Seção, julgado em 8/6/2022, DJe de 1/8/2022.)  g.n.
+Deste modo, em estando o entendimento da Corte de origem em desacordo com a mais recente jurisprudência deste Superior Tribunal de Justiça, tem-se queo provimento do presente apelo, com vistas a alterar o acórdão impugnado nos termos da hodierna compreensão acima transcrita, é medida que se impõe.
+4. Anteo exposto, CONHEÇO do agravo e DOU PROVIMENTO ao recurso especial a fim de determinar a penhorabilidade do bem de família pertencente ao fiador de contrato de locação comercial, nos termos do precedente supra.
+Publique-se. Intimem-se.
