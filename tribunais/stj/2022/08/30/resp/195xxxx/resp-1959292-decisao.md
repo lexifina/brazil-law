@@ -1,0 +1,35 @@
+DECISÃO
+1. Trata-se de recurso especial de BANCO SANTANDER (BRASIL) S.A. interposto em face de acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, assim ementado, na parte em que interessa:
+APELAÇÃO CÍVEL NEGÓCIOS JURÍDICOS BANCÁRIOS AÇÃO REVISIONAL JUROS REMUNERATÓRIOSA limitação dos juros remuneratórios nos contratos Nacional submetidos ao da Sistema Financeiro depende comprovação da abusividade, verificada caso a caso a partir da taxa média de mercado registrada pelo BACEN à época da contratação e conforme a natureza do crédito alcançado, não se caracterizando somente pelo fato da pactuação ser em percentual superior a 12% ao ano.
+Verificado que os encargos praticados no contrato encontram-se abaixo da taxa média de mercado divulgada pelo Banco Central, inviável a revisão pretendida.
+CAPITALIZAÇÃO DE JUROS.
+De acordo com o atual entendimento do Superior Tribunal de Justiça, a incidência da capitalização nos contratos de mútuo, em qualquer periodicidade, somente é admitida quando pactuada de forma expressa. REsp Repetitivo n 2 1.388.972/SC.
+lnexistindo previsão expressa, haja vista a ausência de juntada do contrato objeto da lide, incabível a incidência do encargo em qualquer periodicidade.
+ ..
+Nas razões do recurso especial, a parte recorrente aponta violação doart. 9º da Lei 4.595/64. Sustenta, em síntese, a possibilidade de capitalização dos juros.
+Retornadosos autos para juízo de retratação, o julgado foi mantido.
+O recurso especial foi admitido na origem.
+Decido.
+2.A eg. Segunda Seção, ao julgar o REsp 973.827/RS nos moldes da Lei dos Recursos Repetitivos, decidiu ser permitida a capitalização de juros com periodicidade inferior a um ano em contratos celebrados após 31/3/2000, data da publicação da MP 1.963-17/2000, em vigor como MP nº 2.170-01, desde que expressamente pactuada. A capitalização dos juros em periodicidade inferior à anual deve vir pactuada de forma expressa e clara. A previsão no contrato bancário de taxa de juros anual superior ao duodécuplo da mensal é suficiente para permitir a cobrança da taxa efetiva anual contratada.
+Ademais, vale conferir as seguintes súmulas:
+É permitida a capitalização de juros com periodicidade inferior à anual em contratos celebrados com instituições integrantes do Sistema Financeiro Nacional a partir de 31/3/2000 (MP n. 1.963-17/2000, reeditada como MP n. 2.170-36/2001), desde que expressamente pactuada.(Súmula 539, SEGUNDA SEÇÃO, julgado em 10/06/2015, DJe 15/06/2015)
+A previsão no contrato bancário de taxa de juros anual superior ao duodécuplo da mensal é suficiente para permitir a cobrança da taxa efetiva anual contratada.(Súmula 541, SEGUNDA SEÇÃO, julgado em 10/06/2015, DJe 15/06/2015)
+Na espécie, quanto à capitalização mensal dos juros, importa destacar as seguintes ponderações do acórdão recorrido:
+"No presente caso, então, ausentes as condições gerais do pacto sub judice, mesmo tendo sido o réu intimado para juntada, e não havendo previsão expressa de pactuação no extrato colacionado às fls. 14, a verdade é que resta inviável a sua cobrança, em qualquer periodicidade."
+Nesse contexto, o acolhimento da pretensão recursalexigiria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, bem como a interpretação de cláusula contratual, atraindo os óbices das Súmulas 5 e 7 do STJ.
+Nessa linha:
+PROCESSO CIVIL. AGRAVO INTERNO. RECURSO ESPECIAL. AÇÃO REVISIONAL. CAPITALIZAÇÃO MENSAL DE JUROS. MEDIDA PROVISÓRIA 2.170-36/2001. MATÉRIA OBJETO DE RECURSO REPETITIVO. FALTA DE PACTUAÇÃO EXPRESSA. SÚMULA 7 DO STJ. PRAZO PRESCRICIONAL DECENAL. INTERRUPÇÃO DA PRESCRIÇÃO COM A CITAÇÃO NA AÇÃO DE PRESTAÇÃO DE CONTAS ANTERIOR.
+1.A jurisprudência da Segunda Seção, em sede de recurso repetitivo da controvérsia, erigiu-se no sentido de que: (a) "É permitida a capitalização de juros com periodicidade inferior a um ano em contratos celebrados após 31.3.2000, data da publicação da Medida Provisória n. 1.963-17/2000 (em vigor como MP 2.170-36/2001), desde que expressamente pactuada"; e (b) "A capitalização dos juros em periodicidade inferior à anual deve vir pactuada de forma expressa e clara. A previsão no contrato bancário de taxa de juros anual superior ao duodécuplo da mensal é suficiente para permitir a cobrança da taxa efetiva anual contratada" (REsp 973.827/RS, Rel. p/ acórdão Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, julgado em 08/08/2012, DJe de 24/09/2012).
+2. No caso concreto, o Tribunal de origem concluiu pela ausência de previsão expressa de capitalização mensal de juros. Alterar esse entendimento demandaria o reexame das provas produzidas nos autos, o que é vedado em recurso especial. Inteligência da Súmula 7 do STJ.
+3. A jurisprudência desta Corte Superior se firmou no sentido de ser aplicável às ações revisionais de contrato bancário o prazo prescricional vintenário na vigência do CC/1916, ou o decenal quando vigente o CC/2002.
+4. A citação válida em ação de prestação de contas anteriormente ajuizada, no prazo e na forma da lei processual é suficiente para interromper a prescrição para o ajuizamento de ação de revisão de cláusulas contratuais referente ao mesmo contrato. Precedentes.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 1.990.413/PR, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 28/3/2022, DJe de 30/3/2022.)
+3. Ante o exposto, não conheço do recurso especial.
+Havendo nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ESPECIAL. CONTRATO BANCÁRIO. CAPITALIZAÇÃO DOS JUROS.SÚMULAS 5 E 7/STJ.
+1.A jurisprudência da Segunda Seção, em sede de recurso repetitivo da controvérsia, erigiu-se no sentido de que: (a) "É permitida a capitalização de juros com periodicidade inferior a um ano em contratos celebrados após 31.3.2000, data da publicação da Medida Provisória n. 1.963-17/2000 (em vigor como MP 2.170-36/2001), desde que expressamente pactuada"; e (b) "A capitalização dos juros em periodicidade inferior à anual deve vir pactuada de forma expressa e clara. A previsão no contrato bancário de taxa de juros anual superior ao duodécuplo da mensal é suficiente para permitir a cobrança da taxa efetiva anual contratada" (REsp 973.827/RS, Rel. p/ acórdão Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, julgado em 08/08/2012, DJe de 24/09/2012).
+2. No caso concreto, o Tribunal de origem concluiu que não ficou comprovada a contratação expressa de capitalização mensal de juros. Alterar esse entendimento demandaria o reexame das provas produzidas nos autos, o que é vedado em recurso especial. Inteligência da Súmula 7 do STJ.
+3. Recurso especial não conhecido.
