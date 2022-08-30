@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Segunda Seção, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Ricardo Villas Bôas Cueva, Marco Buzzi, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Ausentes, justificadamente, os Srs. Ministros Nancy Andrighi e Paulo de Tarso Sanseverino.
+Presidiu o julgamento o Sr. Ministro Antonio Carlos Ferreira.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. INEXISTÊNCIA. EFEITOS INFRINGENTES. IMPOSSIBILIDADE.
+1. Nos termos do artigo 1.022 do CPC de 2015, cabem embargos de declaração contra decisão judicial para esclarecer obscuridade ou eliminar contradição, corrigir erro material e/ou suprir omissão de ponto sobre o qual deveria ter se pronunciado o julgador, aí incluídas as condutas descritas no § 1º do artigo 489 do novel Codex, caracterizadoras de carência de fundamentação válida. Nada obstante, não se prestam os aclaratórios ao simples reexame de questões já analisadas, com o intuito de dar efeito infringente ao recurso integrativo.
+2. Embargos de declaração rejeitados.
+RELATÓRIO
+O SENHOR MINISTRO LUIS FELIPE SALOMÃO (Relator):
+1. Cuida-se de embargos de declaração opostos por José Corsino em face de acórdão da Segunda Seção, de minha relatoria, que negou provimento ao agravo interno do ora insurgente, nos termos da seguinte ementa:
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM PEDIDO DE INDENIZAÇÃO POR DANO MORAL. ATRASO NA ENTREGA DE EMBARCAÇÃO E DA RESPECTIVA DOCUMENTAÇÃO. DISSÍDIO JURISPRUDENCIAL. NÃO COMPROVAÇÃO. SIMILITUDE FÁTICO-JURÍDICA. AUSÊNCIA. APLICAÇÃO DA SÚMULA 168/STJ.
+1. A admissão dos embargos de divergência reclama a comprovação do dissídio jurisprudencial na forma prevista no RISTJ, com a demonstração das circunstâncias fáticas e processuais que assemelham os casos confrontados, bem como a adoção de soluções diversas aos litígios. Isso porque o escopo dos embargos de divergência é tão somente a uniformização da jurisprudência interna corporis e não a análise acerca do acerto ou desacerto da decisão embargada.
+2. Na hipótese, não se verifica similitude fático-jurídica entre os arestos confrontados. O acórdão embargado trata de ação de obrigação de fazer cumulada com pedido de indenização por dano moral, cuja causa de pedir funda-se em contrato de compra e venda de embarcação, sem gravame de alienação fiduciária e, por consequência, sem debate sobre a necessidade da respectiva baixa. Os julgados paradigmas, por seu turno, versam sobre a existência ou não de dano moral decorrente da demora em promover a baixa do gravame atinente à alienação fiduciária.
+3. Agravo interno não provido.
+Em suas razões, o embargante sustenta que o acórdão impugnado omitiu-se quanto ao exame da totalidade da argumentação apresentada no agravo interno no sentido da inaplicabilidade da Súmula 168/STJ e da comprovação do dissídio jurisprudencial.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. INEXISTÊNCIA. EFEITOS INFRINGENTES. IMPOSSIBILIDADE.
+1. Nos termos do artigo 1.022 do CPC de 2015, cabem embargos de declaração contra decisão judicial para esclarecer obscuridade ou eliminar contradição, corrigir erro material e/ou suprir omissão de ponto sobre o qual deveria ter se pronunciado o julgador, aí incluídas as condutas descritas no § 1º do artigo 489 do novel Codex, caracterizadoras de carência de fundamentação válida. Nada obstante, não se prestam os aclaratórios ao simples reexame de questões já analisadas, com o intuito de dar efeito infringente ao recurso integrativo.
+2. Embargos de declaração rejeitados.
+VOTO
+O SENHOR MINISTRO LUIS FELIPE SALOMÃO (Relator):
+2. Não merece guarida o reclamo.
+Nos termos do artigo 1.022 do CPC de 2015, cabem embargos de declaração contra decisão judicial para esclarecer obscuridade ou eliminar contradição, corrigir erro material e/ou suprir omissão de ponto sobre o qual deveria ter se pronunciado o julgador, aí incluídas as condutas descritas no § 1º do artigo 489 do novel Codex, caracterizadoras de carência de fundamentação válida. Nada obstante, não se prestam os aclaratórios ao simples reexame de questões já analisadas, com o intuito de dar efeito infringente ao recurso integrativo.
+No caso, não se vislumbra qualquer vício de fundamentação no acórdão embargado que, além de atestar a falta de similitude fático-jurídica entre os arestos confrontados, considerou aplicável a Súmula 168/STJ à espécie, nos seguintes termos:
+A admissão dos embargos de divergência reclama a comprovação do dissídio jurisprudencial na forma prevista no RISTJ, com a demonstração das circunstâncias fáticas e processuais que assemelham os casos confrontados, bem como a adoção de soluções diversas aos litígios. Isso porque o escopo dos embargos de divergência é tão somente a uniformização da jurisprudência interna corporis, e não a análise acerca do acerto ou desacerto da decisão embargada.
+Na hipótese, não se verifica similitude fático-jurídica entre os arestos confrontados. O acórdão embargado trata de causa de pedir fundada em contrato de compra e venda, sem gravame de alienação fiduciária e, por consequência, sem debate sobre a necessidade de sua baixa. Por sua vez, os julgados paradigmas versam sobre as consequências jurídicas da demora em promover a baixa do gravame atinente à alienação fiduciária.
+Ainda que assim não fosse, o óbice da Súmula 168/STJ ("Não cabem embargos de divergência, quando a jurisprudência do Tribunal se firmou no mesmo sentido do acórdão embargado.") inviabiliza o conhecimento do reclamo.
+Consoante cediço na Segunda Seção, por ocasião de julgamento de recursos especiais repetitivos, "o atraso, por parte de instituição financeira, na baixa de gravame de alienação fiduciária no registro de veículo não caracteriza, por si só, dano moral in re ipsa" (REsps 1.881.453/RS e 1.881.456/RS, relator Ministro Marco Aurélio Bellizze, Segunda Seção, julgado em 30.11.2021, DJe 7.12.2021).
+No presente caso, a Terceira Turma considerou não configurado dano moral, ante as seguintes considerações:
+Na hipótese dos autos, o Tribunal de origem consignou que "não se entende que a frustração pela impossibilidade de fruição imediata da embarcação e os momentos de estresse e indignação sofridos pela parte, embora indesejáveis, importem significativa e anormal violação a direito da personalidade" (e-STJ, fl. 973).
+Assim, não foram na espécie em julgamento configuradas particularidades que evidenciassem a existência de circunstância excepcional que extrapole o mero aborrecimento decorrente do atraso na entrega da embarcação e respectiva documentação. Nesse sentido: AgInt no AREsp 1609609/RS, 4ª Turma, DJe 30/06/2020; AgInt no REsp 1715930/RO, 3ª Turma, Dje de 01/07/2019 e AgInt no AREsp 1430928/SP, 4ª Turma, Dje de 28/06/2019.
+Logo, o acórdão recorrido não merece reforma, sendo mantido o afastamento da compensação por danos morais por incidência da Súmula 568/STJ.
+Em resumo, a incognoscibilidade dos embargos de divergência assenta-se: (i) na ausência de similitude fático-jurídica entre os arestos confrontados; e, ainda que assim não fosse, (ii) na incidência do óbice da Súmula 168/STJ à espécie.
+Desse modo, não merece reforma a decisão monocrática que indeferiu liminarmente os embargos de divergência.
+Nesse quadro, é certo que os restritos limites dos embargos de declaração não permitem a reapreciação do pedido, revelando-se descabido o efeito modificativo pretendido pela embargante, que somente é possível em casos excepcionais e uma vez comprovada obscuridade, contradição, omissão ou erro material do julgado, o que não ocorreu na hipótese.
+3. Ante o exposto, rejeito os embargos de declaração.
+É como voto.
