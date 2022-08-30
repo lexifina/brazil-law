@@ -1,0 +1,25 @@
+DECISÃO
+GUILHERME DOS SANTOS CORDEIROalega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Mato Grosso do Sul, que denegou o HC n. 1408910-55.2022.8.12.0000.
+Sustenta a defesa, em síntese, que "A necessidade da prisão preventiva não se mostra suficientemente fundamentada, não havendo falar em preenchimento dos requisitos legais peculiares à espécie, posto que se observa irregularidade capaz de demandar a revogação almejada" (fl. 79).
+O Ministério Público Federal opinou pelo não provimento do recurso(fls. 104-111).
+Decido.
+Quanto à apontada ausência de quaisquer dos fundamentos previstos no art. 312 do CPP, faço lembrar que a prisão preventiva é compatível com apresunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, da natureza abstrata do crime ou do ato processual praticado (art. 313, § 2º, CPP).
+Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+No caso dos autos, o Tribunal a quo, aochancelara fundamentação utilizada pelo juízo de primeiro grau, assim consignou(fls. 62-65, grifei):
+Da mesma forma, presente o periculum libertatis, visto que a custódia dos pacientes interessa à ordem pública, notadamente considerando que o tráfico de entorpecentes constitui atualmente o flagelo da humanidade. É responsável pela destruição de crianças, adolescentes, enfim, famílias inteiras, em números superlativos, face aos desdobramentos e repercussão que ocasiona, já que gera e fomenta o cometimento, por usuários, de vários outros delitos.
+E esse quadro não se amolda à paz social por todos almejada, principalmente tendo em vista que o caso versando estaria a realçar concretos indicativos do envolvimento de várias pessoas, algumas não identificadas e, ao que consta, domiciliadas em outra unidade da Federação, observando-se, também, que a situação versa sobre expressiva quantidade de entorpecente, quase quatro toneladas de maconha, mais precisamente 3.843.400g, distribuídos em 156 fardos, escondidos em cargas do caminhão baú então interceptado, bem como celulares, armas de fogo e outros veículos supostamente envolvidos na operação ilícita, além de valores.
+Aliás, consta que na ocasião desencadeou-se operação conjunta das equipes policiais visando apurar atuação de organização criminosa, conforme investigação da polícia judiciária e da PRF, iniciada cerca de 20 dias antes. O paciente seria, nesse contexto, o responsável pela administração do trafico de drogas.
+Frente à complexidade da trama, aos valores e quantidades envolvidos, emerge que os componentes do grupo, ainda que eventualmente restritos ao caso presente, somente lançariam mão de pessoas com as quais mantivessem vínculo de confiança, desenvolvendo a ilicitude com cuidados e eliminação de riscos, seja para evitar delações ou seja para evitar prejuízos. E operação desse porte, com tamanha grandiosidade, não se elabora tampouco executa-se de um dia para outro, apressadamente, e sim orquestrada e cuidadosamente, através de pessoas ligadas por vínculo de comprometimento, o que, nesse contexto, estaria a delinear a gravidade concreta das condutas.
+ .. .
+Diante desse panorama, evidentemente restrito aos elementos de convicção até o momento reunidos, inegável se afigura a necessidade da custódia, máxime considerando que as particularidades, as circunstâncias fáticas dos delitos penais, a própria dinâmica dos acontecimentos, culminam por delinear a gravidade concreta das condutas que teriam sido praticadas, ensejando indicativos sobre a periculosidade do paciente, nociva à segurança e à incolumidade social.
+Dessa forma, verifico que as razões invocadas na instância de origem se mostram suficientes para embasar a ordem de prisão do acusado, porquanto contextualizaram, em dados dos autos, a necessidade cautelar de segregação do réu.
+Esse também é o entendimento do Superior Tribunal de Justiça em relação às circunstâncias acima elencadas, que justificaram a manutenção do condenado no cárcere.
+Nesse sentido:
+ .. .
+2. São fundamentos idôneos para a decretação da segregação cautelar no caso de tráfico ilícito de entorpecentes a quantidade, a variedade ou a natureza das drogas apreendidas, bem como a gravidade concreta do delito, o modus operandi da ação delituosa e a periculosidade do agente.
+ .. .
+6. Agravo regimental desprovido.
+(AgRg nos EDcl no HC n. 739.988/MG, relator Ministro João Otávio de Noronha, 5ª T., julgado em 9/8/2022, DJe de 12/8/2022, grifei)
+Assim, em razão da gravidade do crime e do indicado risco de reiteração delitiva, as medidas cautelares alternativas à prisão não se mostram adequadas e suficientes para evitar a prática de novas infrações penais.
+À vista do exposto, nego provimento ao recurso em habeas corpus.
+Publique-se e intimem-se.
