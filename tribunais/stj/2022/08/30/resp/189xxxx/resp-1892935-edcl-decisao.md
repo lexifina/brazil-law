@@ -1,0 +1,21 @@
+DECISÃO
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. TAXA DE ILUMINAÇÃO PÚBLICA. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. PARCIAL ACOLHIMENTO. HONORÁRIOS EM FAVOR DO EXECUTADO. VÍCIOS DO ART. 1.022 DO CPC/2015. NÃO CONFIGURAÇÃO.EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Trata-se de Embargos de Declaração no Recurso Especial opostos por ALVARO LUIZ TAROSSO e OUTROS contra decisão desta relatoria, assim ementada:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. LIQUIDAÇÃO E EXECUÇÃO DE SENTENÇA DE AÇÃO CIVIL PÚBLICA. TAXA DE ILUMINAÇÃO PÚBLICA. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. HONORÁRIOS ADVOCATÍCIOS.VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. RECURSO ESPECIAL A QUE SE NEGA PROVIMENTO.(fls. 921/922)
+2. Oembargante reitera o fundamento do recurso especial no tocante àviolação ao art 1.022 do CPC/2015 acerca da data do arbitramento dos honorários na origem, alegando erro material na aplicação das disposições do CPC/73.
+3.Requer o acolhimento dos presentes Embargos de Declaração.
+4. É o relatório.
+5. O art. 1.022 do CPC/2015 é peremptório ao prescrever as hipóteses de cabimento dos Embargos de Declaração; trata-se, pois, de recurso de fundamentação vinculada, restrito a situações em que patente a incidência do julgado em obscuridade, contradição, omissão ou erro material.
+6. Destarte, infere-se que, não obstante pacífica a orientação acerca da natureza recursal dos Declaratórios, singularmente, não se prestam ao rejulgamento da lide, mediante o reexame de matéria já decidida, mas apenas à elucidação ou ao aperfeiçoamento do decisum em casos justamente nos quais eivado de obscuridade, contradição ou omissão; não têm, pois, de regra, caráter substitutivo ou modificativo, é dizer, o condão de alterar, livre e substancialmente, o decisório em seu dispositivo, mas aclaratório ou integrativo, daí não sendo seu processamento norteado pelos princípios do contraditório e da igualdade.
+7. Com efeito, os Embargos de Declaração não podem ser utilizados com a finalidade de sustentar eventual incorreção do decisum hostilizado ou de propiciar novo exame da própria questão de fundo, em ordem a viabilizar, em sede processual inadequada, a desconstituição de ato judicial regularmente proferido.
+8. A decisão ora embargada negou provimento ao recurso especial dos embargantes afastando a violação ao art. 1.022 do CPC/2015, posto que consignado no acórdão do tribunal de origem que a fixação de honorários sucumbenciais fora arbitrada com base no CPC/73, norma vigente à época da decisão.
+9.Observa-se que a parte embargante demonstra, tão somente, insatisfação com o deslinde da controvérsia, pretendendo afixação da verba honorária em relação ao pedido que a Fazenda perdeu (juros moratórios) na impugnação ao cumprimento de sentença, nos termos do CPC/2015.
+10. OTribunal de origem negou provimento à demanda, se manifestandonos seguintes termos:
+(..) A decisão agravada foi clara ao ressaltar, que, ainda que o acolhimento da impugnação seja parcial, cabível a fixação somente em benefício do executado, já que em favor do procurador dos credores já foi fixado honorários para o cumprimento da sentença.
+Tal entendimento deu-se de acordo com jurisprudência firmada nos tribunais.
+O feito originário trata-se de taxa de iluminação pública, geralmente são propostas centenas de ações individuais, patrocinadas pelo mesmo causídico, contra a Fazenda Pública Municipal, fato este que deve ser considerado quando do arbitramento dos honorários.
+Nos autos originários, considerando o litisconsórcio ativo formado por diversas pessoas, ojuízo singular fixou os honorários advocatícios de acordo com o Enunciado n. 02 desta corte, e por ocasião do julgamento da impugnação, ao reconhecer o excesso de execução arbitrou honorários advocatícios em favor dos agravados em 10% sobre o excesso de execução.
+Verifica-se que a fixação dos honorários sucumbenciais foi arbitrada com base no CPC/73, norma esta vigente à época da decisão (fls. 365/366).
+11. Como se vê, não há que se falar em omissão, obscuridade, contradição ou erro material passível de correção, à luz do art. 1.022 do CPC/2015.
+12.Diante do exposto, rejeitam-se os Embargos Declaratórios opostos por ALVARO LUIZ TAROSSO e Outros.
+13. Publique-se. Intimações necessárias.
