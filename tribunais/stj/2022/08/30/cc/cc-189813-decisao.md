@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de Conflito negativo de Competência, instaurado entre o Juízo da 1ª Vara do Trabalho de Franca - SP, suscitante, e o Juízo Federal da 1ª Vara do Juizado Especial Cível de Franca - SJ/SP, suscitado, nos autos da ação regressiva proposta por LABORATÓRIO DE ANÁLISES CLÍNICAS CARDOSO II LTDA em face do Instituto Nacional do Seguro Social, objetivando o ressarcimento de despesas suportadas com o pagamento de salários a empregada, que em razão da pandemia (COVID 19), teve contrato de trabalho suspenso.
+O Juízo suscitado declarou a incompetência absoluta da Justiça Federal e declinou da competência para a Justiça Especializada do Trabalho. Destaca-se da decisão (fls. 31-32) os trechos a seguir:
+CONSIDERANDO que nestes autos a parte autora litiga em face do INSS objetivando a concessão do pagamento dos salários das empregadas gestantes durante todo o período de emergência de saúde pública decorrente da Pandemia COVID-19; bem como requereu reconhecimento de incompatibilidade de realização de atividades laborais pelas empregadas gestantes em teletrabalho;
+CONSIDERANDO que o estado de gravidez das trabalhadoras gestantes não se equipara à doença comum para fins de percepção de Auxílio-doença;
+CONSIDERANDO que a Lei 14.151/2021 tem por objetivo regular as relações de trabalho, sem qualquer efeito previdenciário;
+CONSIDERANDO que, em se tratando de relação de trabalho, a Justiça do Trabalho tem competência absoluta;
+DECLINO A COMPETÊNCIA deste Juizado Especial Federal para livre distribuição a uma das varas da Justiça do Trabalho em Franca, nos termos da CF, 114, I. Proceda a Secretaria a remessa do feito à Justiça do Trabalho, para lá o feito ser distribuído, conhecido, processado e julgado, com o traslado da documentação em arquivo PDF único, com as homenagens de estilo.
+O Juízo da Vara Especializada do Trabalho, por sua vez, decidiu suscitar o presente conflito negativo de competência por entender que "Não se trata de ação que se discute relação de trabalho, mas que tem por finalidade a reparação de alegado prejuízo suportado pela empregadora, pessoa jurídica, que alega a responsabilidade pela satisfação dos salários no período declinado na petição de ingresso seria da União" e que "como a presente ação funda-se em suposta responsabilidade do INSS pela satisfação de parcela paga pelo empregador e que seria incumbência da União, não se encontra inserida em nenhuma das hipóteses previstas no art. 114 da Constituição Federal, de maneira que falece competência material a esta Justiça Especializada para sua apreciação". (fl. 3-7).
+Informações às fls. 40-44.
+Parecer do Ministério Público Federal pela declaração de competência do Juízo Federal, o suscitado.
+É o relatório. Decido.
+Conheço do conflito, pois se insere no que dispõe o artigo 105, I, "d", da Constituição Federal.
+Doutrina e jurisprudência firmaram compreensão de que, em regra, o deslinde dos conflitos de competência entre Juízos em razão da matéria deve ser dirimido com a observância da relação jurídica controvertida, notadamente no que se refere à causa de pedir e ao pedido indicados pelo autor da demanda. Nesse sentido, confiram-se: CC 117.722/BA, Rel. Min. Castro Meira, Primeira Seção, DJe 02/12/2011; CC 108.138/SC, Rel. Min. Nancy Andrighi, Segunda Seção, DJe 06/09/2010; e AgRg no CC 104.283/RJ, Rel. Min. Og Fernandes, Terceira Seção, DJe 24/02/2012.
+No caso dos autos, a pretensão voltada contra o Instituto Nacional do Seguro Social, autarquia responsável pelos benefícios previdenciários, em razão do pedido relacionado à compensação do "valor dos salários-maternidade quando do pagamento das contribuições sociais previdenciárias".
+Assim sendo, na hipótese, é de ser reconhecida a competência do Juízo Comum Federal, na medida em que o pedido principal e a causa de pedir são voltados contra a Autarquia Previdenciária com o fito de condená-la a arcar com o salário-maternidade das gestantes afastadas do trabalho por força da Lei 14.151/2021.
+Dessa forma, a competência para processar e julgar a causa é da Justiça Federal, conforme art. 109, I, da CF, segundo o qual:
+Art. 109. Aos juízes federais compete processar e julgar:
+I - as causas em que a União, entidade autárquica ou empresa pública federal forem interessadas na condição de autoras, rés, assistentes ou oponentes, exceto as de falência, as de acidentes de trabalho e as sujeitas à Justiça Eleitoral e à Justiça do Trabalho.
+Nesse sentido, os seguintes julgados:
+CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA FEDERAL E JUSTIÇA ESTADUAL. AÇÃO PREVIDENCIÁRIA DE CONVERSÃO DE AUXÍLIO-DOENÇA EM APOSENTADORIA POR INVALIDEZ. NATUREZA PREVIDENCIÁRIA DO BENEFÍCIO. COMPETÊNCIA DA JUSTIÇA FEDERAL. JUÍZO SUSCITADO.
+1. Conflito Negativo de Competência instaurado entre o Juízo de Direito da 4ª Vara Cível de Cáceres/MT e o Juízo Federal do Juizado Especial Adjunto de Cáceres-SJ/MT, em ação previdenciária de conversão de auxílio-doença em
+aposentadoria por invalidez.
+2. No caso concreto, não se extrai da petição inicial qualquer alusão à ocorrência de acidente laboral que, como causa de pedir, estivesse a respaldar o pedido de aposentadoria por invalidez formulado pelo segurado ao INSS, cujo contexto desautoriza a tramitação da lide perante a Justiça Estadual.
+ ..
+4. Conflito de Competência conhecido para declarar competente para o processamento do feito o Juízo Federal do Juizado Especial Adjunto de Cáceres-SJ/MT, o suscitado (CC 164.335/MT, Rel. Min. Herman Benjamin, Primeira Seção, DJe 12/6/2019).
+Em situação idêntica a dos autos, ilustrativamente, confira-se as seguintes decisões monocráticas: CC n. 188.395, Min. Regina Helena Costa, DJe de 25/5/2022; (CC n. 188.123, Min. Og Fernandes, DJe de 24/5/2022; CC n. 185.305, Min. Mauro Campbell Marques, DJe de 30/3/2022; CC n. 182.962/MT, Min. Herman Benjamin, DJe de 2/12/2021.
+Ante o exposto, conheço do Conflito para declarar competente o JuízoFederal,suscitado.
+Publique-se. Intimem-se.
+EMENTA
+CONFLITO DE COMPETÊNCIA. JUSTIÇADO TRABALHO E JUSTIÇA FEDERAL. RESSARCIMENTO DE SALÁRIO DE EMPREGADA GESTANTE SUPORTADO PELO EMPREGADOR DURANTE PERÍODO DE EMERGÊNCIA DE SAÚDE PÚBLICA DECORRENTE DA PANDEMIA COVID 19. AÇÃO DE ÍNDOLE PREVIDENCIÁRIA. COMPETÊNCIA DO JUÍZO FEDERAL, SUSCITADO.
