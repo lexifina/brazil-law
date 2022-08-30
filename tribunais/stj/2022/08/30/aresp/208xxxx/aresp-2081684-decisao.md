@@ -1,0 +1,22 @@
+DECISÃO
+GABRIEL TREVIZAN RODRIGUESagrava de decisão que inadmitiu seu recurso especial, interposto com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão doTribunal Regional Federal da 3ª Região(Apelação n. 5000064-20.2019.4.03.6181).
+Nas razões do recurso especial, a defesaaponta a violação dos arts. 14, II, e 157 do Código Penal.Para tanto, sustenta que "a ausência de valor econômico dos bens subtraídos impede a consumação do delito de roubo, sendo hipótese de desclassificação para a modalidade tentada" (fl. 954).
+O recurso especial foi inadmitido no juízo prévio de admissibilidade realizado pelo Tribunal local (fls. 975-978), o que ensejou a interposição deste agravo (fls. 997-1.005).
+O Ministério Público Federal manifestou-se pelo não provimento do agravo (fls. 1.031-1.036).
+Decido.
+Consta dos autos que oagravantefoi condenado, em primeira instância,pela prática do delito de roubo majorado. Sobre o pretendido reconhecimento da tentativa, assim ficou consignado na sentença (fls. 732-733):
+Conforme explicitado acima, o conjunto probatório amealhado demonstra à saciedade a ocorrência de haja vista que foram subtraídas, mediante roubo consumado, grave ameaça, encomendas de conteúdos variados, assinalados em lista de objeto dos Correios (LOEC) - as quais o carteiro trazia consigo.
+Destarte, não há falar-se em impropriedade absoluta, tampouco relativa do objeto, porquanto, ainda que se tratassem de documentos - cuida-se se de objeto idôneo - coisa alheia móvel - efetivamente subtraída do servidor dos correios.
+Assim, a situação fática descrita reúne todos os elementos da definição legal do crime de roubo, nos termos do art. 14, inciso I, do Código Penal, de sorte que eventual descarte da coisa furtada a consumação do crime não possui a repercussão jurídica após alguma em sua configuração, em face da ausência de amparo legal.
+O Tribunal a quo refutou a incidência da tentativa, nos seguintes termos (fl. 935):
+A circunstância de o objeto sobre o qual incide a conduta do agente ser desprovido de valor econômico não implica a descaracterização do crime de roubo, considerada a sua natureza complexa. A conduta do agente, ainda nesse caso, é voltada para agredir o patrimônio da vítima mediante violência ou grave ameaça, elementos que satisfazem o tipo penal, como já decidiu o Supremo Tribunal Federal:  ..
+ ..
+Rejeito a alegação de não consumação do roubo por relativa impropriedade de seu objeto material, ao argumento de que os bens subtraídos não teriam valor econômico, sendo por isso inaptos à configuração de delito contra o patrimônio.
+Extrai-se dos autos que os agentes abordaram a vítima e efetivamente exerceram agrave ameaça característica do roubo; assim agindo, lograram obter a posse de coisas alheias móveis, consistentes em encomendas descritas no auto de exibição e apreensão como correspondências diversas, revistas e três pacotes com códigos de rastreamento, que foram recuperados ainda fechados (Id n. 165151671, pp. 4/5).
+Todas as circunstâncias elementares restaram, assim, satisfatoriamente demonstradas, sendo os objetos transportados pelos Correios coisas alheias móveis que configuram circunstância elementar típica do roubo, ainda que, após a consumação do crime, tenham os acusados dispensado parte das encomendas por supostamente não lhes servir.
+A partir dos trechos acima transcritos, verifico que, diferentemente do alegado pela defesa, as instâncias antecedentes não concluíram pela ausência de valor dos objetos roubados pelos agentes.
+O acórdão registrou que os agentes, mediante a grave ameaça característica do roubo, "lograram obter a posse de coisas alheias móveis" (fl. 935), que estavam em poder da vítima. Salientou, ainda, que a dispensa pelos agentes de parte das encomendas furtadas (por supostamente não lhes servir) não afasta a ocorrência do crime.
+Assim,rever o entendimento consignado na instância ordinária,para afirmar que os bens não possuem valor, de modo a configurar a forma tentada do crimecomo quer o recorrente, demanda imprescindível revolvimento do acervo fático-probatório delineado nos autos, procedimento vedado em sede de recurso especial, a teor da Súmulan. 07 do Superior Tribunal de Justiça.
+À vista do exposto, com fundamento no art. 932, VIII, do CPC, c/c o art.
+253, parágrafo único, II, "b", parte final, do RISTJ,conheço do agravo para não conhecer do recurso especial.
+Publique-se e intimem-se.
