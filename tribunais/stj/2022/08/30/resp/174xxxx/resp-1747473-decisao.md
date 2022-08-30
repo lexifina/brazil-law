@@ -1,0 +1,3 @@
+DECISÃO
+Diante do noticiado pelas informações prestadas às fls. 1.003-1.010, as quais assinalaram que houve a superveniência de sentençaque condenou apenas os réus José Fagundes Maia Neto e Antonio Cesar Maia, fica sem objeto este recurso especial, o qual se voltava contra medidas cautelares assecuratórias de indisponibilidade de ativos financeiros e arresto de bens móveis e imóveis decretadas no curso do processo, cuja manutenção, agora somenteem relaçãoàJosé Fagundes, lastreia-seem novo título judicial. Assim, com fundamento no art. 34, XI, do RISTJ, julgo prejudicado o recurso especial.
+Publique-se e intimem-se.
