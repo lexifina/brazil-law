@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de conflito negativo de competência em que figura como Suscitante o JUÍZO DE DIREITO DA VARA DE EXECUÇÕES PENAIS - MEIO FECHADO E SEMIABERTO - SEEU - DE FLORIANÓPOLIS/SC e, como Suscitado, o JUÍZO DE DIREITO DA VARA DE EXECUÇÃO EM MEIO FECHADO E SEMIABERTO DO RIO DE JANEIRO - RJ.
+OJuízo Suscitado declinou de sua competência, encaminhando os autos da execução penal ao Juízo de Florianópolis/SC, em decisão com os seguintes fundamentos (fl. 21):
+"Trata-se de apenado preso no Estado de Santa Catarina, desde 28/04/2021, com pedido de transferência da execução para a Comarca de Florianópolis/SC.
+A Defesa não se opôs a transferência da execução para a Comarca de Florianópolis/SC, conforme sequência 13.1.
+O Ministério Público, em Parecer na sequência 7.1, manifestou-se pela transferência da execução.
+Diante de todo o exposto e tendo em vista a documentação acostada aos autos na seq. 1.7, na forma do artigo 86, da Lei de Execução Penal, c/c artigo 7º da Resolução CNJ nº 113/ 2010, DETERMINO a transferência da execução para a Comarca de Florianópolis/SC.
+Dê-se vista ao MP e à Defesa.
+Remetam-se os autos para aquela Comarca.
+Após, dê-se baixa e arquive-se."
+O Juízo Suscitante, por sua vez, declarou-se incompetente e suscitou o presente conflito, nos termos da fundamentação a seguir (fls. 2-4; grifos diversos do original):
+"Verifica-se que o sentenciado foi preso nesta Comarca mas unicamente em razão do mandado de prisão expedido no Estado do Rio de Janeiro.
+O Juízo da Vara de Execução do Rio de Janeiro declinou competência em favor da autoridade judiciária desta Comarca, em razão do cumprimento do mandado de prisão com o consequente recolhimento do apenado em estabelecimento prisional desta Comarca (Sequência 16.1).
+Decido.
+A transferência do sentenciado para outro estabelecimento prisional constitui providência administrativa que se funda em razões de conveniência, oportunidade e possibilidade do Estado.
+Na hipótese, a situação de superlotação em que se encontram as unidades prisionais de Florianópolis, torna inviável a permanência do sentenciado nesta Comarca, notadamente porque inúmeros são os detentos deste Estado, condenados definitivamente, que aguardam vagas para o cumprimento de suas reprimendas em local adequado.
+Por fim, convém salientar que o sentenciado não possui condenações neste Estado.
+Logo, deve ser recambiado para unidade prisional do Estado do qual expediu-se a ordem de prisão, sob pena de transferir-se indevidamente o ônus de cumprimento da reprimenda.
+ ..
+Ante o exposto, considerando que este Juízo entende que a competência para a execução da pena imposta é do Juízo suscitado pois a condenação é proveniente daquela Comarca, tendo-se tão somente cumprido o mandado nesta localidade, não aceito a competência e, nos termos do art. 115, III, do Código de Processo Penal, suscito conflito negativo de jurisdição, na forma do art. 116, § 1º, do Código de Processo Penal."
+O MinistérioPúblico Federal manifesta-se pela competência do Juízo Suscitado, em parecer assim sintetizado (fl. 28):
+"CONFLITO NEGATIVO DE COMPETÊNCIA. EXECUÇÃO PENAL. ART. 65, DA LEI Nº 7.210/84. PRISÃO EFETUADA EM COMARCA DIVERSA DA CONDENAÇÃO NÃO TEM O CONDÃO DE ALTERAR A COMPETÊNCIA.TANTO OS INTERESSES DO CONDENADO, COMO A CONVENIÊNCIA DA ADMINISTRAÇÃO PÚBLICA DEVEM SER AVALIADOS NO CUMPRIMENTO DA EXECUÇÃO DA PENA.AUSÊNCIA DE REALIZAÇÃO DE CONSULTA AO JUÍZO SUSCITANTE SOBRE A DISPONIBILIDADE DE VAGA.RECONHECIMENTO DO ESTADO DE EMERGÊNCIA EM QUE SE ENCONTRA O SISTEMA PRISIONAL DE SANTA CATARINA, POR ESSA CORTE SUPERIOR.PARECER PELO CONHECIMENTO DO CONFLITO, DECLARANDO-SE A COMPETÊNCIA DO JUÍZO DE DIREITO DA VARA DE EXECUÇÃO EM MEIO FECHADO E SEMIABERTO DO RIO DE JANEIRO/RJ, O SUSCITADO."
+É o relatório.
+Decido.
+De acordo com a jurisprudência do Superior Tribunal de Justiça, não provoca o deslocamento de competência para a execução da pena o mero fato de o réu, em decorrência do cumprimento de mandado de prisão expedido pelo Juízo que prolatou a sentença, ter sido preso em comarca distinta daquela em que fora condenado.
+Nesse sentido:
+"PROCESSO PENAL. CONFLITO NEGATIVO DE COMPETÊNCIA. EXECUÇÃO PENAL. MANDADO DE PRISÃO CUMPRIDO EM LOCALIDADE DIVERSA DO JUÍZO DA CONDENAÇÃO. COMPETÊNCIA PERMANECE COM O JUÍZO CONDENATÓRIO. POSSIBILIDADE DE FISCALIZAÇÃO PELO JUÍZO DO NOVO DOMICÍLIO POR MEIO DE CARTA PRECATÓRIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. "A Terceira Seção desta Corte Superior orienta-se no sentido de que o cumprimento do mandado de prisão do Apenado em Estado da Federação diverso daquele onde foi processado não implica deslocamento da competência, sendo aplicável o disposto no art. 65 da Lei de Execuções Penais, que consagra ser competente o Juiz indicado na lei local de organização judiciária ou, na sua ausência, o que proferiu a sentença condenatória." (CC 161.783/DF, Rel. Ministra LAURITA VAZ, TERCEIRA SEÇÃO, julgado em 28/11/2018, DJe 14/12/2018). 2. Assim, " .. o simples fato de o condenado estar preso em Comarca diversa daquela competente para a execução da sentença, em cumprimento de mandado de prisão preventiva expedido por um terceiro Juízo, não constitui causa legal de deslocamento da competência originária para a execução da pena." (CC 148.926/RS, Rel. Ministro REYNALDO SOARES DA FONSECA, TERCEIRA SEÇÃO, julgado em 28/09/2016, DJe 27/10/2016).
+ ..
+4. Agravo regimental não provido." (AgRg no CC 166.472/RO, Rel. Ministro RIBEIRO DANTAS, TERCEIRA SEÇÃO, julgado em 09/10/2019, DJe 15/10/2019.)
+"CONFLITO NEGATIVO DE COMPETÊNCIA. JUÍZOS VINCULADOS A TRIBUNAIS DISTINTOS. EXECUÇÃO DE PENA. PRISÃO EM CUMPRIMENTO DE MANDADO EM COMARCA DIVERSA. COMPETÊNCIA DO JUÍZO DA EXECUÇÃO DO LOCAL EM QUE FOI PROFERIDA A SENTENÇA CONDENATÓRIA DEFINITIVA. INAPLICABILIDADE DA SÚMULA 192 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. FIXAÇÃO DE TERCEIRO JUÍZO. COMPETÊNCIA DO JUÍZO SUSCITADO.
+1. O presente conflito negativo de competência deve ser conhecido, por se tratar de incidente instaurado entre juízos vinculados a Tribunais distintos, nos termos do art. 105, inciso I, alínea "d" da Constituição Federal - CF.
+2. "A Terceira Seção desta Corte Superior orienta-se no sentido de que o cumprimento do mandado de prisão do Apenado em Estado da Federação diverso daquele onde foi processado não implica deslocamento da competência, sendo aplicável o disposto no art. 65 da Lei de Execuções Penais, que consagra ser competente o Juiz indicado na lei local de organização judiciária ou, na sua ausência, o que proferiu a sentença condenatória" Precedente: CC 161.783/DF, Rel. Ministra LAURITA VAZ, TERCEIRA SEÇÃO, DJe 14/12/2018.
+3. "Ressalte-se que o enunciado n. 192 da Súmula do STJ se restringe aos casos nos quais o sentenciado já estava cumprindo pena em estabelecimento prisional estadual" Precedente: CC 156.747/BA, TERCEIRA SEÇÃO, de minha relatoria, DJe 11/5/2018.
+4. O cumprimento da execução penal deve levar em conta não apenas as conveniências pessoais e familiares do preso, mas também os da Administração Pública, sendo condicionada à transferência legal, com prévia consulta de existência de vagas e anuência do Juízo consultado.
+5. A jurisprudência da Corte tem admitido a declaração de competência de terceiro juízo, estranho ao conflito. Precedente: CC 142.934/PR, Rel. Ministro NEFI CORDEIRO, TERCEIRA SEÇÃO, DJe 30/11/2015. 6. Conflito conhecido a fim de determinar que a pena fixada pelo Juízo Federal da 1ª Vara de Umuarama - SJ/PR, o suscitado, deve ser executada pelo Juízo de Direito designado para as execuções penais da Comarca de Umuarama/PR, conforme lei de organização judiciária do Estado do Paraná." (CC 167.064/SC, Rel. Ministro JOEL ILAN PACIORNIK, TERCEIRA SEÇÃO, julgado em 28/08/2019, DJe 06/09/2019.)
+Ante o exposto, CONHEÇO do conflito e declaro competente o JUÍZO DE DIREITO DA VARA DE EXECUÇÃO EM MEIO FECHADO E SEMIABERTO DO RIO DE JANEIRO - RJ, o Suscitado.
+Publique-se. Intimem-se.
+EMENTA
+CONFLITO NEGATIVO DE COMPETÊNCIA. EXECUÇÃO PENAL. RÉU PRESO EM COMARCA DIVERSA DAQUELA EM QUE FOI CONDENADO. EXECUÇÃO. COMPETÊNCIA. JUÍZO DA CONDENAÇÃO.CONFLITO CONHECIDO PARA DECLARAR COMPETENTE O JUÍZO SUSCITADO.
