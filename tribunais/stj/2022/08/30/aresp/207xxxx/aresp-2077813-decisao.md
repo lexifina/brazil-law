@@ -1,0 +1,16 @@
+DECISÃO
+1. Cuida-se de agravo interposto por BANCO PAN S.A. contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido peloTRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA, assim ementado:
+APELAÇÃO CÍVEL E RECURSO ADESIVO. AÇÃO DECLARATÓRIA DE NULIDADE CONTRATUAL DE EMPRÉSTIMO CONSIGNADO DE CARTÃO DE CRÉDITO COM RMC CUMULADA COM PEDIDO DE REPETIÇÃO DE INDÉBITO E INDENIZAÇÃO POR DANOS MORAIS. SENTENÇA DE PARCIAL PROCEDÊNCIA. INSURGÊNCIA DE AMBAS AS PARTES. EMPRÉSTIMO CONSIGNADO E TERMO DE ADESÃO A CARTÃO DE CRÉDITO COM DESCONTO DE "RESERVA DE MARGEM" (RMC) DIRETAMENTE NO BENEFÍCIO PREVIDENCIÁRIO RECEBIDO PELO DEMANDANTE. NULIDADE DO PACTO DECLARADA. RECURSO DA INSTITUIÇÃO FINANCEIRA. DEFENDIDA A LEGALIDADE DO CONTRATO. TESE AFASTADA. PRÁTICA ABUSIVA EVIDENCIADA. FALHA NA PRESTAÇÃO DO SERVIÇO QUE MERECE REPRIMENDA JUDICIAL AMPARADA NO CÓDIGO DE DEFESA DO CONSUMIDOR. DECISUM MANTIDO.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, aponta a parte recorrente ofensa ao disposto nos arts.171, inciso II,177 do CC,373, inciso I, § 2º, do CPC c/c 6ºno CDC.Assevera ser hígida a contração, diante da autonomia da vontade. Busca a manutenção do contrato de cartão de crédito consignado.Sustenta que não houve falha no dever de informação.
+Decido.
+2. Acerca da legalidade da contratação, oTribunal de origem, pautadonas provas constantes dos autos, concluiuque não foram prestadas as informações necessárias a respeito do tipo de contrato que seria realizado entre as partes, reconhecendo a nulidade do contrato.Nesse prisma, rever o entendimento firmado no acórdão recorrido encontra óbice nasSúmulas 5 e 7 do STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.CARTÃO DE CRÉDITO. ABUSIVIDADE. AFERIÇÃO. REEXAME DO CONTRATO E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. DECISÃO MANTIDA.
+1. O recurso especial não comporta o exame de questões que impliquem interpretação de cláusula contratual ou revolvimento do contexto fático-probatório dos autos (Súmulas n. 5 e 7 do STJ).
+2. O Tribunal de origem, com base na interpretação dos elementos de convicção anexados aos autos, concluiu pela caracterização do contrato como de cartão de crédito, pela ciência da parte quanto à modalidade de contratação e pela inexistência de abuso na taxa de juros remuneratórios praticada. A alteração das conclusões do julgado demandaria o reexame da matéria fática, o que é vedado em sede de recurso especial.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1518620/MG, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 17/02/2020, DJe 20/02/2020 - grifei)
+3. Ante o exposto, nego provimento ao agravo.
+Havendo nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
