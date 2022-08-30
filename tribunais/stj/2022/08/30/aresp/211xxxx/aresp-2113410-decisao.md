@@ -1,0 +1,27 @@
+DECISÃO
+Na origem trata-se de embargos à execução, objetivando a desconstituição do título que aparelha a Execução Fiscal nº 0090325-27.2015.4.02.5101. Na sentença julgou-se improcedentes os embargos. No Tribunal a quo a sentença foi mantida. O valor da causa foi fixado em R$ 199.636,80.
+O recurso especial foi interposto no TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO, contra acórdão com o seguinte resumo de ementa:
+APELAÇÃO CÍVEL. ADMINISTRATIVO. EMBARGOS À EXECUÇÃO FISCAL. ANS. MULTA. NEGATIVA DE COBERTURA. ARREPENDIMENTO VOLUNTÁRIO E EFICAZ. INAPLICABILIDADE. JUROS DE MORA. AUSÊNCIA DE ILEGALIDADE. RECURSO DESPROVIDO.
+1. Trata-se de Apelação interposta pela Embargante em face da Sentença que julgou improcedente os pedidos formulados nos embargos à execução fiscal que objetivavam a anulação da multa aplicada.
+2. A Agência Reguladora possui autonomia e discricionariedade, incumbindo-lhe prolatar escolhas fundadas na natureza técnica-científicas do setor, mostrando-se indevida a intromissão do Judiciário na seara discricionária.
+3. No caso, a Embargante foi autuada pela ANS por ter "deixado de garantir cobertura assistencial obrigatória ao procedimento Tomografia de Abdômen Total", solicitado em caráter de emergência, infringindo o disposto no art. 35-C da Lei nº 9.656/98.
+4. Restou suficientemente demonstrada a recusa ao atendimento, tendo a beneficiária ingressado com ação judicial para obter a realização do procedimento, configurando-se como ilegal a conduta da Embargante.
+5. Afastada a aplicação da regra inerente ao arrependimento voluntário e eficaz, uma vez que a Operadora autorizou a cobertura do procedimento somente após determinação judicial.
+6. A incidência dos juros de mora deve ter como termo inicial a data do vencimento do prazo previsto para pagamento da multa pecuniária, tendo o recurso que a impugna o efeito apenas de suspender o pagamento do débito, cujos valores poderão ser cobrados após a confirmação da penalidade, acrescidos dos respectivos juros moratórios.
+7. A multa foi aplicada pela autoridade competente, estando embasada na legislação aplicável ao caso, não cabendo ao Poder Judiciário interferir na autonomia e discricionariedade da agência reguladora, que aplicou a sanção em conformidade com os parâmetros legais.
+8. A CDA satisfaz todos os requisitos de validade, tratando-se de documento apto a embasar a Execução Fiscal, cabendo a manutenção da decisão de Primeiro Grau.
+9. Apelação desprovida.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+Considerando que restou suficientemente demonstrada a recusa ao atendimento, tendo a beneficiária inclusive ingressado com ação judicial para obter a realização do procedimento, configura-se como ilegal a condutada Embargante, passível de aplicação de sanção.
+Outrossim, deve ser afastada a aplicação da regra inerente ao arrependimento voluntário e eficaz, uma vez que a Operadora autorizou a cobertura do procedimento somente após determinação judicial, o que descaracteriza a voluntariedade exigida pelo instituto.
+ ..
+Assim, a multa foi aplicada pela autoridade competente, estando embasada na legislação aplicável ao caso, não cabendo ao Poder Judiciário interferir na autonomia e discricionariedade da agência reguladora, que aplicou a sanção em conformidade com os parâmetros legais.
+Não há, portanto, violação do art. 1.022 do CPC/2015quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a fundamentadamente (art. 165 do CPC/73 e do art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+Conforme entendimento pacífico desta Corte, "o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão". A prescrição trazida pelo art. 489 do CPC/2015 confirma a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, "sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida". (EDcl no MS 21.315/DF, relatora Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016.)
+Ademais,verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 1% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
