@@ -1,0 +1,38 @@
+DECISÃO
+Trata-sede agravo interposto contra decisão que não admitiu o recurso especial apresentado por Adriana Cristina Ferreira da Silva, com base no art. 105, III,a,da Constituição Federal, desafiando acórdão assim ementado (e-STJ, fl. 654):
+APELAÇÃO CÍVEL - AÇÃO DE MANUTENÇÃO DE POSSE -SERVIDÃO ADMINISTRATIVA - LINHA DE TRANSMISSÃO - TURBAÇÃO COMPROVADA -INDENIZAÇÃO BENFEITORIAS - AUSENCIA DE BOA-FÉ
+1. A Cemig tem direito de constituir as servidões administrativas permanentes ou temporárias exigidas para o estabelecimento das respectivas linhas de transmissão e de distribuição.
+2. Comprovada a turbação por meio de prova pericial, deve ser mantida a sentença que julgou procedente o pedido de manutenção de posse formulado pela Cemig.
+3. A ausência de prova da boa-fé inviabiliza o direito à indenização pelas benfeitorias necessárias e úteis realizadas.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 703-706).
+Nas razões do recurso especial (e-STJ, fls. 709-721), a recorrente alegou, violação aos arts. 489, § 1º e 1.022, parágrafo único do Código de Processo Civil de 2015; e 1.233 do Código Civil.
+Sustentou, em síntese,que houve negativa de prestação jurisdicional e ausência de fundamentação, ante a omissão do Colegiado local em analisar questões relevantes para o deslinde da controvérsia,notadamente a respeito "da arbitrariedade da CEMIG ao definir os imóveis demolidos, tendo em vista que existiam obras antigas ao longo da faixa de segurança delimitada" (e-STJ, fl. 718).
+Argumentou sobre o cabimento de indenização pelas acessões realizadas.
+O Tribunal de Justiça deixou de admitir o recurso especial, tendo sido interposto agravo em recurso especial às fls. 737-743(e-STJ).
+Brevemente relatado, decido.
+Observa-se que, na origem, a concessionária ora agravada ajuizouação de manutenção de posse em decorrência deconstrução irregular dentro da faixa de segurança da linha de distribuição de energia elétrica, objetivandoa desocupação da área serviente invadida, assim como a imediata demolição da referida construçãorealizada,sendo, desse modo, a matéria de contorno de direito público, afeta à Primeira Seção desta Corte.
+Nos termos do art. 9º,caput, do Regimento Interno desta Casa, a competência das Seções e das respectivas Turmas é estabelecida em função da natureza da relação jurídica litigiosa.
+A título exemplificativo, confiram-se:
+PROCESSUAL CIVIL E ADMINISTRATIVO. JULGAMENTO MONOCRÁTICO PELO RELATOR. POSSIBILIDADE. SÚMULA 568/STJ. SERVIDÃO ADMINISTRATIVA. DECISÃO DO TRIBUNAL DE ORIGEM QUE DEFERIU O INGRESSO DO ADQUIRENTE DO DIREITO DE EXPLORAÇÃO DA ÁREA ATINGIDA PELA RESTRIÇÃO ADMINISTRATIVA. AUSÊNCIA, NO CASO CONCRETO, DE INTERESSE JURÍDICO.
+1. A decisão ora hostilizada está fundamentada na atual e dominante jurisprudência do STJ, sendo incogitável violação do princípio da colegialidade. Não há, portanto, afronta ao art. 932, IV, do CPC/2015. Precedentes: EDcl no REsp 1.269.844/RS, Rel. Min. Luis Felipe Salomão, Quarta Turma, DJe 23.10.2018; AgInt no AREsp 204.231/SP, Rel. Min. Sérgio Kukina, Primeira Turma, DJe 9.10.2018;
+AgInt no REsp 1.504.933/PB, Rel. Min. Og Fernandes, DJe 27.9.2018;
+AgInt no REsp 1.504.439/SP, Rel. Min. Paulo de Tarso Sanseverino, Terceira Turma, DJe 19.12.2017; AgInt no REsp 1.688.594/SP, Rel. Min. Marco Aurélio Bellizze, Terceira Turma, DJe 15.12.2017; AgInt no AREsp 748.359/RS, Rel. Min. Assusete Magalhães, Segunda Turma, DJe 16.11.2017.
+2. O Tribunal de origem deferiu o pedido de ingresso da assistente, ora agravante, porquanto demonstrado nos autos o interesse jurídico de que trata o art. 119 do CPC/2015. Consignou que, "no caso, evidencia-se a relação jurídica havia entre a agravada Araçuaí Mineração S/A, atualmente denominada Sigma, e a agravada Arqueana de Minérios e Metais Ltda. - ME, tendo em vista ter adquirido direitos minerários sobre os quais passam a Linha de Transmissão da CEMIG, objeto da presente Ação de Constituição de Servidão, conforme o documento de f. 206/2017-TJ" (fl. 189, e-STJ).
+3. "A lei processual exige, para o ingresso de terceiro nos autos como assistente simples, a presença de interesse jurídico, ou seja, a demonstração da existência de relação jurídica integrada pelo assistente que será diretamente atingida pelo provimento jurisdicional, não bastando o mero interesse econômico, moral ou corporativo" (AgRg na PET nos EREsp 910.993/MG, Rel. Ministra Eliana Calmon, Corte Especial, DJe 1º.2.2013).
+4. Todavia, no presente caso, não se vislumbra interesse jurídico da empresa Sigma no resultado da demanda. Isso porque a empresa Arqueana, detentora original do direito de lavra, não se opôs à constituição da Servidão Administrativa, discordou apenas do valor da indenização.
+5. Por outro lado, a cessão do direito de lavra para a empresa Sigma ocorreu após a constituição da Servidão Administrativa, de modo que, ao decidir pela aquisição, já sabia dos impactos gerados pela restrição imposta pelo Estado.
+6. Logo, alegações ligadas ao prejuízo que a Servidão Administrava tenha causado no direito de exploração adquirido não se relacionam com o objeto da presente demanda.
+7. Agravo Interno não provido.
+(AgInt no REsp n. 1.804.927/MG, relator Ministro Herman Benjamin, Segunda Turma, julgado em 29/4/2020, DJe de 7/5/2020.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. AÇÃO DE CONSTITUIÇÃO DE SERVIDÃO ADMINISTRATIVA. LINHA DE TRANSMISSÃO DE ENERGIA ELÉTRICA. INEXISTÊNCIA DE NULIDADE POR OFENSA AO ART. 1.022 DO CÓDIGO FUX. APESAR DE REJEITADA A PRETENSÃO ACLARATÓRIA, TODOS OS ARGUMENTOS FORAM ENFRENTADOS DE MANEIRA CLARA, SUFICIENTE E FUNDAMENTADA. ALEGAÇÃO DE NULIDADE DO PROCEDIMENTO DE JULGAMENTO DAS APELAÇÕES POR INOBSERVÂNCIA DA NOVA PREVISÃO TRAZIDA NO ART. 942 DO CÓDIGO FUX, EM RELAÇÃO À PARTE DO JULGADO NÃO UNÂNIME. JULGAMENTO REALIZADO ANTERIORMENTE AO INÍCIO DA VIGÊNCIA DO NOVO CÓDIGO DE PROCESSO CIVIL. IMPOSSIBILIDADE DE APLICAÇÃO RETROATIVA. ATO JURÍDICO PERFEITO. RECURSO ESPECIAL DA ELETRONORTE AO QUAL SE NEGA PROVIMENTO.
+1. A nulidade do acórdão dos Aclaratórios, a teor do art. 1.022 do Código Fux somente ocorre quando, apesar da oposição do Recurso Integrador, a Corte local não enfrentar tal argumentação ou as apreciando, restar a presença dos vícios previstos naquele dispositivo legal. Neste caso, houve o enfrentamento fundamentado das matérias levantadas nos Aclaratórios, razão pela qual tal alegação é incabível.
+2. Os Enunciados Administrativos publicados pelo Pleno do STJ, de números 3, 5 e 6, apontados pela parte recorrente dizem respeito aos requisitos de admissibilidade ou saneamento de vícios, não sendo aplicáveis ao presente caso.
+3. Não assiste razão à parte recorrente quando pretende declaração deste STJ de que, no julgamento das Apelações realizado em 16.32016, dois dias antes da vigência do Código Fux, onde resultou parte não unânime, seria aplicável a providência do art. 942 desta nova legislação.
+4. A hipótese é de ato jurídico perfeito, não sendo admissível, a aplicação retroativa deste dispositivo que ainda não estava em vigor.
+5. Recurso Especial da Empresa a que se nega provimento.
+(REsp n. 1.649.424/RO, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 24/11/2020, DJe de 3/12/2020.)
+Diante disso, evidencia-se a competência de uma das Turmas que compõem a Primeira Seção (art. 9º, § 1º, inciso XIV, do RI/STJ).
+Ante o exposto, determino sejam os autos encaminhados para redistribuição a um dos Ministros integrantes das Turmas da Primeira Seção.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. CONSTRUÇÃO IRREGULAR DENTRO DE FAIXA DE SEGURANÇA DE LINHA DE TRANSMISSÃO. SERVIDÃO ADMINISTRATIVA.ART. 9º, § 1º,XIV, DO RISTJ. MATÉRIA DA COMPETÊNCIA DA PRIMEIRA SEÇÃO. ENVIO DOS AUTOS PARA REDISTRIBUIÇÃO.
