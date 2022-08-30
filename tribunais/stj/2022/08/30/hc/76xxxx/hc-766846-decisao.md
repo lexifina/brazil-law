@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de Lucas Azenha Nunes, preso preventivamente pela prática, em tese, do crime de associação para o tráfico.
+Ataca-se o acórdão proferido pelo Tribunal de Justiça de São Paulo no HC n.2177832202022.8.26.0000 (fls. 361/370), que manteve a prisão preventiva do paciente decretada nos Autos n. 1511961-64.2021.8.26.0344, da 1ª Vara Criminal da comarca de Marília/SP. O acórdão impugnado está assim ementado (fl. 362):
+HABEAS CORPUS - (i) PRISÃO PREVENTIVA - ASSOCIAÇÃO AO NARCOTRÁFICO - Artigo 35, caput, da Lei nº 11.343/06 - Objeto similar àquele do Habeas Corpus nº 2301794-17.2021.8.26.0000 - Reiteração de remédio heroico julgado em Sessão Permanente e Virtual por esta Colenda Câmara aos 07 de fevereiro de 2022 - Ausência de alteração dos quesitos autorizadores da excepcional custódia cautelar, mormente por se tratar de paciente reincidente e portador de antecedentes desabonadores - (ii) EXCESSO DE PRAZO PARA A FORMAÇÃO DA CULPA - Autos de origem que estão na iminência do encerramento da fase instrutória - Descabimento - Princípio da razoabilidade, mormente em face da excepcionalidade provocada pela pandemia causada pelo vírus SARS-CoV-2, gerador da doença COVID-19 - ORDEM CONHECIDA EM PARTE E , NESTA , DENEGADA .
+Alega-se constrangimento ilegal consistente em deficiência de fundamentação do decreto preventivo e excesso de prazo para a formação da culpa.
+Requer-se, então, a concessão da ordem, inclusive em caráter liminar, a fim de que o paciente seja posto em liberdade.
+É o relatório.
+Inicialmente, registre-se que, no tocante aos fundamentos da prisão preventiva, já foram objeto de análise por esta Corte no julgamento do HC n. 745.512/SP, configurando o presente writ mera reiteração de pedido, o que não se admite. Destaco que o acórdão impugnado já mencionou que, com relação ao pleito de revogação da prisão preventiva, o remédio heroico originário possui similar objeto àquele do Habeas Corpus n. 2301794-17.2021.8.26.0000, julgado em Sessão Permanente e Virtual aos 7/2/2022, exatamente o que foi objeto de impugnação no referido HC n. 745.512/SP.
+Já quanto ao excesso de prazo, o caso é de aplicação do entendimento consolidado naSúmula 52/STJ, considerando a informação contida no acórdão impugnado de queos autos de origem estão no aguardo do iminente encerramento da fase instrutória, já tendo sido o réu interrogado, inclusive, com oferta das alegações finais escritas por ambas as partes, não havendo falar em excesso de prazo na formação da culpa do paciente (fl. 368).
+Em razão disso, indefiro liminarmente o presente writ.
+Publique-se.
+EMENTA
+HABEAS CORPUS. PRISÃO PREVENTIVA. ASSOCIAÇÃO PARA O TRÁFICO. GARANTIA DA ORDEM PÚBLICA E CONVENIÊNCIA DA INSTRUÇÃO CRIMINAL. MERA REITERAÇÃO DE ANTERIOR IMPETRAÇÃO. INADMISSIBILIDADE. ALEGAÇÃO DE EXCESSO DE PRAZO PARA A FORMAÇÃO DA CULPA. SÚMULA 52/STJ. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO.
+Writ indeferido liminarmente.
