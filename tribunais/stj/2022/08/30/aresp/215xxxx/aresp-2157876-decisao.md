@@ -1,0 +1,17 @@
+DECISÃO
+RENAN PEREIRA DE MELOagrava de decisão que inadmitiu o recurso especial, fundado no art. 105, III, "a", da Constituição Federal, contra acórdão proferido peloTribunal de Justiça do Estado do CearánaApelação Criminal n. 0050334-08.2021.8.06.0051.
+Nas razões do recurso especial, a defesa aponta que violação ao art. 59 do Código Penal, por entender que "o juiz não individualizou as condutas de cada um acusado, por ocasião da aplicação da circunstância judiciais, impondo aos dois apenados a mesma circunstância desfavorável, quando apenas um quem supostamente foi violento" (fl. 300).
+O recurso especial foi inadmitido durante o juízo prévio de admissibilidade realizado pelo Tribunal local, o que ensejou a interposição deste agravo.
+Instado a se manifestar, o Ministério Público Federal opinou pelo não provimento do agravo.
+Decido.
+Verifico, de pronto, que a defesa não suscitou ofensa à dosimetria da pena em seu recurso de apelação, situação apontada no julgamento da apelação defensiva peloTribunal estadual, que consignou que "a Defesa limita-se a inquirir questão relacionada ao regime prisional fixado na origem" (fl. 286).
+Dessa forma, as alegações defensivas carecem do necessário prequestionamento.
+Aplica-se ao caso, portanto, o óbice da Súmula n. 282 do STF, in verbis: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada".
+Ainda que assim não fosse, nos autos em exame, o Juízo singular destacou o seguinte ao dosar a pena (fls. 214-215):
+RENAN PEREIRA DE MELO
+Na primeira fase da dosimetria, ao analisarmos as circunstâncias judiciais elencadas no art. 59 do Código Penal, concluímos que a pena base deve ficar acima do mínimo legal, pela seguinte fundamentação:  .. avaliando as circunstâncias vislumbramos elementos objetivos (forma e natureza da ação delituosa, os tipos e meios utilizados, objeto, tempo, lugar, forma de execução, dentre outros) que se sobressaiam à conduta de subtração de um bem mediante grave ameaça. Com efeito, ficou evidenciado que o crime foi cometido com exacerbada violência contra a vítima, derrubando-a no chão, arrastando-a pelos cabelos e colocando arma de fogo na sua cabeça, o que demonstra grande uma violência que transborda os limites convencionais do crime de roubo  .. .
+Assim, ancorado na diretriz traçada pelo art. 68 do CP, exaspero a pena mínima em 1/6, pelo que fixo-lhea pena privativa de liberdade em 04 (quatro) anos e 8 (oito) meses de reclusão, considerando a presença de circunstância judicial desfavorável.
+Assim, uma vez que foramapontados argumentos concretos e específicos dos autos para a fixação da pena-base acima do mínimo legal,não há como esta Corte simplesmente se imiscuir no juízo de proporcionalidade feito pelas instâncias de origem, para, a pretexto de ofensa aos princípios da proporcionalidade e da individualização da pena, ou mesmo de violação do art. 59 do Código Penal, reduzir a reprimenda-base estabelecida ao acusado.
+Diante de tais considerações, não identifico a apontada violação do art. 59 do Código Penal, pois, além de serem concretos os fundamentos mencionados e atinentes às peculiaridades do caso,entendo ser também proporcional o aumento de 1/6 para o crime em comento.
+À vista do exposto, conheço do agravo para, com fundamento no art. 932, III, do CPC, c/c o art. 253, parágrafo único, II, "a", do RISTJ, não conhecer do recurso especial.
+Publique-se e intimem-se.
