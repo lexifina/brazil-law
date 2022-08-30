@@ -1,0 +1,36 @@
+DECISÃO
+Vistos etc.
+Trata-se de recurso especial interposto por PÂMELLA PEREIRA PUPULIN, comfundamento no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, interposto contra acórdão proferido pelo Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementado:
+"CIVIL E PROCESSUAL CIVIL. AÇÃO DE RESCISÃO CONTRATUAL. PRELIMINAR DE NÃO CONHECIMENTO DO RECURSO REJEITADA. MÉRITO: CONTRATO DE COMPROMISSO DE COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA DO BEM. RESCISÃO DO NEGÓCIO JURÍDICO POR CULPA DA PROMITENTE VENDEDORA. DEVOLUÇÃO INTEGRAL DOS VALORES PAGOS PELA PROMITENTE COMPRADORA. RETENÇÃO DE VALORES A TÍTULO DE CLÁUSULA PENAL E DE COMISSÃO DE CORRETAGEM. NÃO CABIMENTO. INDENIZAÇÃO POR LUCROS CESSANTES. IMÓVEL RESIDENCIAL NÃO EDIFICADO. NÃO CABIMENTO.
+1. Evidenciado que a parte ré, no recurso de apelação interposto, não invocou fatos novos, tem-se por inviabilizado o acolhimento da preliminar de inovação recursal.
+2. A rescisão do contrato de compromisso de compra e venda de imóvel e parcelamento imobiliário de loteamento por culpa da promitente vendedora, em razão de atraso injustificado na entrega da obra concluída, impõe o retorno das partes ao status quo ante, com a devolução das parcelas pagas pela promitente compradora, de modo integral e imediato, sem direito a retenção de valores, seja a título de arras ou de comissão de corretagem.
+3. Os lucros cessantes recaem em bem ou interesse futuro, ainda não inserido na esfera patrimonial da parte lesada, de modo que consiste na perda do ganho esperável, na frustração da expectativa de lucro, na diminuição potencial do patrimônio da vítima.
+4. Tratando-se de imóvel não edificado, para fins residenciais, não há como ser admitida a presunção de que perda de rendimentos com a exploração do imóvel.
+5. Apelação Cível conhecida. Preliminar rejeitada. No mérito, recurso parcialmente provido."
+Os embargos de declaração opostosforam rejeitados.
+Em suas razões, orecorrente alega, em síntese, a violação doartigo1.014do Código de Processo Civil, bem comodos artigos 389 e 402 do Código Civil, sob os argumentos de que houve inovação recursal e de que a recorrida deve ser condenada ao pagamento de lucros cessantes, pois, "ainda que se trate de lote e que não haja edificação no momento da entrega, é só a partir desta que o adquirente pode fruir do bem, seja para locá-lo ou para iniciar construção", e "ofato de não haver edificação não torna os danos hipotéticos, tendo em vista que a recorrente poderia locar o bem para auferir renda" (e-STJ fl. 361).
+É o breve relatório.
+Passo a decidir.
+Inicialmente, rejeito as preliminares suscitadas nas contrarrazões (e-STJ fls. 418-433), pois a matéria está devidamente prequestionada no acórdão recorrido e é desnecessário o reexame do conjunto fático-probatório dos autos para a análise da desconformidade do acórdão recorrido com a jurisprudência deste Superior Tribunal de Justiça.
+A insurgência recursal merece ser acolhida no que tange ao mérito da matéria referente aos lucros cessantes.
+Com efeito,o acórdão recorrido está em confronto com a orientação desta Corte Superior no sentido de que, mesmo nas hipóteses de atraso na entrega de loteamento não edificado, é devido o pagamento de lucros cessantes à parte adquirente, sendopresumido o prejuízo que lhe foi causado.
+Sobre o tema, confiram-se os seguintes julgados:
+AGRAVO INTERNO NO RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL. TESES JURÍDICAS ACERCA DA IMPUTAÇÃO DA MORA E DA QUALIFICAÇÃO DA PARTE ADVERSA. INOVAÇÃO RECURSAL. NÃO CABIMENTO. ATRASO NA ENTREGA DO BEM. LUCROS CESSANTES. PREJUÍZO PRESUMIDO. PRECEDENTES. REDUÇÃO DO PATAMAR INDENIZATÓRIO. ANÁLISE INVIABILIZADA. DEFICIÊNCIA DO COTEJO ANALÍTICO. AGRAVO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO.
+1. É vedado à parte insurgente, nas razões do agravo interno, apresentar teses que não foram aventadas no momento da interposição do recurso especial, em virtude da preclusão.
+2. A jurisprudência desta Corte Superior é firme no sentido de que, descumprido o prazo para a entrega do imóvel, o prejuízo do comprador é presumido, consistente na injusta privação do uso do bem, a ensejar o pagamento dos lucros cessantes. Esse entendimento, inclusive, vem sendo aplicado por este Colegiado aos casos de atraso na entrega de lote não edificado.
+3. A análise da pretensão de redução do patamar indenizatório, deduzida por meio da alínea c do permissivo constitucional, encontra-se obstada em razão da deficiência do cotejo analítico.
+4. Agravo interno parcialmente conhecido e, nessa extensão, desprovido.
+(AgInt no REsp n. 1.818.212/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 22/3/2021, DJe de 25/3/2021.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. COMPRA E VENDA DE IMÓVEL (TERRENO). ATRASO NA ENTREGA DAS OBRAS DE INFRAESTRUTURA DO LOTEAMENTO. RESCISÃO CONTRATUAL. RECURSO DA CORRÉ EMPREENDEDORA. MORA CONFIGURADA. PRESUNÇÃO DE PREJUÍZO. SÚMULA Nº 568 DO STJ. DANO MATERIAL (LUCROS CESSANTES) DEFERIDOS PELA PRIVAÇÃO DO USO DA COISA. FUNDAMENTO NÃO ATACADO. SÚMULA Nº 283 DO STF. GRATUIDADE JUDICIÁRIA. PREPARO EXISTENTE. INCOMPATIBILIDADE DO PEDIDO. PRECEDENTE. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016)serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Rever a decisão do Tribunal estadual quanto a responsabilidade da agravante pelo atraso na entrega da obra de infraestrutura em loteamento por ela administrado, esbarra necessariamente no óbice das Súmulas nºs 5 e 7 do STJ. Precedentes.
+3. O STJ firmou o entendimento de que, descumprido o prazo para a entrega do imóvel objeto do compromisso de compra e venda, é cabível a condenação por lucros cessantes, sendo presumido o prejuízo do promissário comprador. Precedentes. Incidência da Súmula Nº 568 do STJ.
+4. Correção, de ofício, de erro material verificado na decisão agravada, no tocante à aplicação do enunciado da Súmula nº 283 do STF, ao caso dos autos.
+5. O entendimento desta Corte Superior consolidou-se no sentido de que o pagamento das custas - como no caso concreto, em que a parte recolheu o preparo do recurso especial - é incompatível com o pedido de gratuidade de justiça.
+6. Agravo interno não provido, com observação.
+(AgInt nos EDcl no REsp n. 1.866.351/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 19/10/2020, DJe de 22/10/2020, grifei.)
+Ante o exposto, com base no art. 932, incisoV, alínea "b", do CPC/2015 c/c a Súmula 568/STJ, dou provimento ao recurso especial para restabelecer a sentença quanto à condenação da ré ao pagamento de lucros cessantes e, por decorrência lógica, ao pagamento dos ônus sucumbenciais.
+Intimem-se.
+EMENTA
+RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL. ATRASO NA ENTREGA DE IMÓVEL. CONDENAÇÃO DA VENDEDORA AO PAGAMENTO DE LUCROS CESSANTES. PRESUNÇÃO DE PREJUÍZO DA COMPRADORA MESMO NAS HIPÓTESES DE AQUISIÇÃO DE LOTEAMENTO NÃO EDIFICADO. ACÓRDÃO RECORRIDO EM CONFRONTO COM A ORIENTAÇÃO DESTA CORTE SUPERIOR.
+RECURSO ESPECIAL PROVIDO.
