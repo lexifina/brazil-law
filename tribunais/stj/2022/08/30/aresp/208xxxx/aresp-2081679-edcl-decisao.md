@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por COTIPLAS IND E COMERCIO DE ARTEFATOS PLASTICOS LTDA e OUTRA, em face de decisão monocrática da lavra deste signatário (fls. 928/930, e-STJ), a qual deu parcial provimento ao recurso especial interposto pelo ora embargada, para "anular o acórdão que julgou os embargos de declaração (fls. 789/795, e-STJ) e determinar a devolução dos autos ao Tribunal a quo a fim de que profira novo julgamento, sanando as omissões apontadas".
+Irresignadas(fls. 932/943, e-STJ), asembargantes alegam a existência de omissão "sobre os documentos: E-STJ 693/699 - Ata Notarial; E-STJ 683/687 - Catálogo da infratora DIVERTOYS; E-STJ 688/689 - Revista Espaço Brinquedo; e, E-STJ 690/692 - Comprovação de continuidade de vendas dos produtos contrafeitos em rede de Lojas".
+Afirmam que "o v. acórdão proferido nos autos já decidiu sobre a existência de descumprimento da ordem judicial no curso do processo originário, com fundamento nas PROVAS ROBUSTAS E INCONTORNÁVEIS de que a Embargada-DIVERTOYS manteve a exposição, fabricação e comércio do produto contrafeito "Miudinhas" com a mesma característica, em flagrante desrespeito ao Poder Judiciário e suas decisões, em razão das PROVAS JÁ EXISTENTES NOS AUTOS ACIMA ELENCADAS, DISPENSANDO A PRODUÇÃO DE OUTRAS PROVAS" (fl. 942, e-STJ)
+Impugnação às fls. 947/949, e-STJ.
+É o relatório.
+Decido.
+Sem razão asembargantes, impondo-se a rejeição do recurso.
+1. Com efeito, inexiste, no caso, qualquer mácula a ser sanada por meio da oposição de embargos de declaração. Consoante se depreende do artigo 1.022 do Código de Processo Civil de 2015, os aclaratórios apenas são cabíveis quando constar, na decisão embargada, obscuridade, contradição ou omissão em ponto sobre o qual deveria ter se pronunciado, bem como na hipótese de erro material. Não se revelando, por conseguinte, meio processual adequado para análise da irresignação da parte que ficou insatisfeita com o resultado do julgamento que lhe foi desfavorável.
+Na presente hipótese, o decisum embargado contém fundamentação suficiente para justificar a negativa de provimento do apelo.
+Não se vislumbra, portanto, quaisquer das máculas do art. 1.022 do CPC/15 na decisão hostilizada, cuidando-se o presente reclamo de mera irresignação da parte quanto à solução adotada, o que resta vedado na estreita via recursal sob foco.
+A propósito:
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. AÇÃO RESCISÓRIA. VIOLAÇÃO A LITERAL DISPOSIÇÃO DE LEI. NÃO CONFIGURAÇÃO. JULGADO FUNDADO NA ANÁLISE DE FATOS E PROVAS. NOVO REJULGAMENTO DA CAUSA EM RESCISÓRIA. IMPOSSIBILIDADE. AÇÃO DE ÍNDOLE RESTRITA. DECISÃO MANTIDA PELOS PRÓPRIOS FUNDAMENTOS. 1. Os embargos de declaração não se prestam para sanar o inconformismo da parte com o resultado desfavorável no julgamento ou para rediscutir matéria já decidida. Logo, o seu não acolhimento, quando manejados nesses termos, não acarreta ofensa ao artigo 535 do Código de Processo Civil. (..) 5. Agravo regimental não provido. (AgRg no AREsp 450787/GO, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 15/04/2014, DJe 26/05/2014)  grifou-se
+2. Não obstante a rejeição dos aclaratórios, deixa-se de se aplicar a multa prevista no artigo 1026, § 2º, do CPC/15, pois, em se tratando de primeiros embargos de declaração que não ostentam caráter manifestamente protelatórios, pressuposto para aplicação da medida, descabida a sua incidência neste momento.
+No entanto, desde já se adverte que a reiteração de embargos de declaração, com intuito de rediscussão do julgado, poderá caracterizar o aludido caráter manifestamente protelatório, ensejando a aplicação da multa citada.
+3. Ante o exposto, rejeitoos embargos de declaração.
+Publique-se.
+Intimem-se.
