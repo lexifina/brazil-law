@@ -1,0 +1,37 @@
+DECISÃO
+JAMES ARAUJO MAGALHÃES alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, que denegou o HC n. 2079525-31.2022.8.26.0000.
+A defesa aduz, em síntese, que "a tentativa de localização do Paciente ocorrera apenas e tão somente UMA ÚNICA VEZ tendo restada infrutífera devida a negligência judicial que não atentou para os endereços constantes nos autos nem fez as diligências de praxe para a efetiva localização do Paciente" (fl. 105).
+Requer, assim, o provimento do recurso, para seja reconhecida a nulidade da intimação, feita por edital.
+O Ministério Público Federal manifestou-se pelo não provimento do recurso (fls. 190-192).
+Decido.
+I. Intimação do réu da sentença condenatória
+Na hipótese, o Tribunal local, ao denegar a ordem no writ originário, assentou (fls. 93-96, grifei):
+Segundo o apurado, o paciente, juntamente com diversos outros corréus, foi condenado por associação para o tráfico por ser um dos responsáveis por fazer chegar nesta capital a droga comercializada pela associação criminosa, tendo sido decretada a sua prisão preventiva em 01 de julho de 2009 e posteriormente determinado a expedição de alvará de soltura em 17 de março de 2010 por excesso de prazo na formação da culpa.
+Em consulta aos autos digitais verifica-se que o paciente não foi "citado por edital", como afirma a impetração, mas sim intimado da sentença por edital. Respondeu parte da instrução preso preventivamente, sendo interrogado em juízo em fevereiro de 2010 (fl. 2915), informando seu endereço como sendo aquele constante a fl. 57.
+Foi assistido pela defensora dativa, Dra.Helenita Márcia Carlos Terraguso, sendo no curso do processo substituída pela Dra. Elizabeth Sotter (fl. 4752 dos autos principais).
+Em 18 de março de 2010, o juízo a quo, estendendo em favor do paciente a decisão que beneficiou outros diversos corréus por excesso de prazo na formação da culpa, determinou a expedição de alvará de soltura em favor de James, sendo cumprido com impedimento aos 18/03/2010 (fl. 3773-autos principais).
+Proferida sentença em 18 de novembro de 2014, o paciente foi condenado na origem à pena de 08 anos, 04 meses e 24 dias de reclusão, em regime fechado. Foi expedida carta precatória para intimação no endereço que ele forneceu em Juízo quando de seu interrogatório (fl. 2915 dos autos principais). O Sr. Oficial de Justiça certificou não ter localizado o paciente, motivo pelo qual não o intimou (fl. 81). Em virtude de tal fato, foi realizada a intimação da sentença por meio de edital e a intimação da defensora dativa pela imprensa (fl. 3795 autos principais).
+Entendo por denegar a ordem.
+Em que pesem os esforços despendidos pela d. Defesa, não cabe o reconhecimento de nulidade absoluta a macular o feito.
+Cabe sim destacar que, após ser solto pelo juízo a quo, caberia ao paciente manter atualizado seu endereço perante a autoridade impetrada, o que, nitidamente, não ocorreu, mudando-se para outro Estado, onde lá cumpria liberdade condicionada.
+Ora, tratando-se de réu solto, proferida a sentença, o juízo determinou expedição de carta precatória para sua intimação em endereço até então fornecido nos autos, não lhe cabendo, na hipótese, o ônus de diligenciar a localização do acusado.
+Com efeito, o paciente foi assistido por defensora dativa, interrogado, informando seu endereço o qual foi devidamente diligenciado pelo juízo após sua soltura - o que demonstra inequívoca ciência da imputação. Na hipótese, portanto, o ônus de manter atualizado seu endereço nos autos recai ao paciente e àsua Defesa, não cabendo à Magistrada singular realizar buscas no presente caso concreto. Portanto, correta a intimação do paciente por edital.
+ .. .
+Por fim, da mesma forma não assiste razão à Defesa diante da expedição de ofício para substituição dadefensora dativa que renunciou ao feito, visto que o paciente, a qualquer momento, é livre para exercer seu direito de nomear defensor constituído, independentemente da intimação do juízo para tanto. Dessa forma, não há ilegalidade no despacho que determinou a nomeação de outra defensora dativa, dada renúncia da causídica anterior.
+Como cediço, o reconhecimento de nulidade, relativa ou absoluta, exige a indicação oportuna de fórmula legal descumprida e a demonstração do prejuízo suportado pela parte, a teor do art. 563 do CPP.
+Ainda que, em minha concepção, seja direito de todo acusado ser informado a respeito do resultado do julgamento da ação penal, com os meios e recursos a ele inerentes, nos termos do art. 5º, LV, da CF, independentemente de disposição expressa no CPP, as Turmas que compõem a Terceira Seção são firmes em assinalar que, consoante a previsão do art. 392, II, do CPP, em caso de réu solto (não declarado revel), é suficiente a intimação do defensor acerca da sentença condenatória, procedimento que garante a observância da ampla defesa e do contraditório.
+Ilustrativamente:
+ ..  nos termos do art. 392, inciso II, do Código de Processo Penal, tratando-se de réu solto, é suficiente a intimação do defensor nomeado a respeito da sentença condenatória. E no caso concreto, ainda que desnecessário, tentou-se intimar o acusado pessoalmente, mas ele não foi encontrado, tendo se procedido à intimação por edital. ..
+(HC n. 406.079/PR, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 16/10/2017, destaquei)
+ ..
+I - A jurisprudência desta Corte Superior firmou-se no sentido de que, consoante o disposto no art. 392, II, do Código de Processo Penal, tratando-se de réu solto, mostra-se suficiente a intimação do defensor constituído acerca da sentença condenatória, não havendo qualquer cerceamento ao direito de defesa pela ausência de intimação pessoal do réu.
+II - Em que pese a r. sentença condenatória tenha determinado a intimação pessoal do ora recorrente, tal providência não era obrigatória ou necessária por ausência de expressa previsão legal, sendo suficiente a intimação do advogado então constituído pelo recorrente, inexistindo o alegado cerceamento ao direito de defesa. ..
+(RHC n. 74.553/RJ, Rel. Ministro Felix Fischer, 5ª T., DJe 18/8/2017, grifei).
+Por conseguinte, a intimação do advogado do réu - in casu, o DefensorDativo- já era o bastante para atender ao que dispõe o art. 392, II, do CPP (fl. 94).
+Outrossim, este Superior Tribunal possui o entendimento de que é dever do acusado informar a mudança de endereço, conforme disciplina o art. 367 do Código de Processo Penal. Não cabe ao Poder Judiciário realizar diligências infindáveis para localizar seu paradeiro quando frustradas todas as tentativas de intimação no endereço dos autos.
+Além disso, o acórdão impugnado esclareceu que foram empreendidas diligências para localizar e intimar pessoalmente o recorrente, todas infrutíferas (fl. 94).
+Dessa forma, entendo que declarar a nulidade do ato judicial quando o postulante deixou de ser intimado porque mudou de endereço sem informar o novo local que poderia ser encontrado seria beneficiá-lo pela própria torpeza, o que não se mostracompatível com os princípios processuais previstosno ordenamento jurídico brasileiro, sobretudo os da cooperação e da boa-fé objetiva.
+Assim, observo que o acórdão recorrido está em harmonia com a jurisprudência desta Corte Superior, motivo pelo qual não há nenhuma nulidade a ser reconhecida.
+II. Dispositivo
+À vista do exposto, nego provimento ao recurso em habeas corpus.
+Publique-se e intimem-se.
