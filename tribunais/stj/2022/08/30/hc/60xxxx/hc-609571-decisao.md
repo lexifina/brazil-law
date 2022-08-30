@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado, em favor de ALINE NAYARA ROCHA DE CAMPOScontra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, prolatado no julgamento do Agravo em Execução n.0002528-83.2020.8.26.0041.
+Consta que a Paciente cumpre pena de 10 (dez) anos, 10 (dez) meses e 20 (vinte) dias de reclusão, em regime inicial fechado, pela condenação em razão da prática dos ilícitos tipificados no art. 33, caput, e art. 35, caput, ambos da Lei n.11.343/2006, com previsão de término de cumprimento da reprimenda em 30/09/2027.
+Em 17/10/2019, foi concedidaà Paciente a progressão ao regime prisional intermediário, após o cumprimento de 1/8 (um oitavo) da pena que lhe foi imposta (fl. 35).
+Após cumprir essa mesma fração de 1/8 (um oitavo) da reprimenda no regime semiaberto, a Defesa formulou pedido de progressão ao regime aberto ao Juízo da execução, que indeferiu o pleito (fls. 46-47).
+Inconformada, impetrouhabeas corpusna Corte de origem, que denegou a ordem, em acórdão, assim, ementado (fl. 49):
+"AGRAVO EM EXECUÇÃO. PROGRESSÃO DE REGIME. Recurso interposto diante do indeferimento da promoção da sentenciada ao regime aberto por ausência do requisito objetivo. Recorrente que cumpre pena por tráfico de drogas e associação destinada a tal fim, a denotar envolvimento com organização criminosa inviabilizando, a rigor, a aplicação da fração "especial"prevista no artigo 112, § 3º, da LEP. Quadro que, ademais, somado ao longo período de pena pendente de cumprimento, recomenda maior cautela do magistrado na aferição do mérito indispensável à promoção de regime. Atestado de bom comportamento carcerário num curto lapso temporal insuficiente para indicar, com a certeza necessária, a absorção da ensinança à qual submetida a presa durante a permanência no cárcere. Agravo improvido."
+Neste writ, a Parte Impetrante sustenta, em suma, que: (i)a Paciente, que seria mãe de uma menor impúbere,faria jus à progressão ao regime prisional aberto, pois já teria preenchido o requisito legal objetivo exigido para tal obter tal benefício, de acordo com o art. 112, § 3.º, da Lei n.7.210/1984; (ii) o Tribunal estadual teria se equivocado ao negar provimento ao agravo em execução, pois teria considerado que a Custodiada, que foi condenada por associação para o tráfico, estaria envolvida com organização criminosa, o que inviabilizaria a concessão da progressão em razão do disposto no art. 112, § 3.º, inciso V, da Lei n.7.210/1984; e (iii) não seria salutar à Reeducanda permanecer cumprindo pena no regime intermediário no atual cenário de pandemia da Covid-19.
+Requer, em medida liminar e no mérito, a concessão da progressão ao regime aberto, considerando que já teria sido cumprida a fração de 1/8 (um oitavo) exigida para tal benefício, nos termos do art. 112, § 3.º, da Lei n.7.210/1984.
+O pedido liminar foi deferido às fls. 58-65.
+As judiciosas informações foram prestadas às fls. 71-77 e 97-120.
+O Ministério Público Federal, em parecer juntada às fls. 88-95,opinoupela concessão da ordem de ofício.
+É o relatório Decido.
+Segundo os esclarecimentos do Juízo da Execução Penal (Autos n. 0011320-69.2018.8.26.0502),orequisito objetivo para a progressão da Reeducanda ao regime aberto ocorreu em 09/01/2022(fl. 101), situação que esvazia a pretensão defensiva formulada neste writ.
+Ante o exposto, com fundamento no art. 34, inciso XX, do RISTJ, JULGO PREJUDICADO o pedido de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL.PROGRESSÃO AO REGIME ABERTO. REQUISITO OBJETIVO. PLEITO DE UTILIZAÇÃO DA FRAÇÃO DE 1/8 (UM OITAVO). POSTERIOR CUMPRIMENTO DO REQUISITO OBJETIVO. PERDA SUPERVENIENTE DE INTERESSE PROCESSUAL. PEDIDO DE HABEAS CORPUS PREJUDICADO.
