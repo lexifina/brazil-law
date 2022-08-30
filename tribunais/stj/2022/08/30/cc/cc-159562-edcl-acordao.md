@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA SEÇÃO do Superior Tribunal de Justiça, em sessão virtual de 24/08/2022 a 30/08/2022, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Luis Felipe Salomão, Raul Araújo, Paulo de Tarso Sanseverino, Maria Isabel Gallotti, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Impedido o Sr. Ministro Antonio Carlos Ferreira.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator):
+Cuida-se de embargos de declaração opostos pela FUNDAÇÃO DOS ECONOMIÁRIOS FEDERAIS (FUNCEF) (fls. 630/640) contra acórdão exarado pela eg. Segunda Seção, assim ementado:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO CONFLITO DE COMPETÊNCIA - INCORPORAÇÃO DA VERBA DENOMINADA CTVA - CUMULAÇÃO DE PEDIDOS - CARÁTER PREJUDICIAL DO PEDIDO TRABALHISTA EM RELAÇÃO AO PREVIDENCIÁRIO - DELIBERAÇÃO MONOCRÁTICA QUE FIXOU A COMPETÊNCIA DA JUSTIÇA DO TRABALHO. INSURGÊNCIA DA RÉ.
+1. As demandas relativas ao pagamento do reajuste das verbas salariais por meio da inclusão da parcela denominada CTVA possuem caráter eminentemente trabalhista, produzindo de forma reflexa efeitos previdenciários. Precedentes: AgInt nos EDcl no REsp 1716658/SC, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 23/03/2020, DJe 25/03/2020; AgInt nos EDcl no CC 138.011/SC, Rel. Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 22/02/2017, DJe 07/03/2017; AgRg no CC 144.129/SP, Rel. Ministro MOURA RIBEIRO, SEGUNDA SEÇÃO, julgado em 22/06/2016, DJe 01/07/2016.
+2. Ressai a relação de prejudicialidade do reconhecimento do direito ao referido reajuste no âmbito laboral, em relação ao pedido de ordem previdenciária, de modo que, na esteira da jurisprudência do STJ, aplica-se o teor da Súmula n.º 170/STJ, com adaptações ao caso concreto, pois, apesar da ação ter sido proposta inicialmente perante a Justiça Federal, é de rigor a fixação da competência para a causa, primeiro, na Justiça do Trabalho. Precedente: AgInt no CC 152.217/RS, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 22/11/2017, DJe 29/11/2017.
+3. Agravo interno a que se nega provimento.
+Em suas razões, a ora embargante - FUNCEF - sustenta omissão consubstanciada na circunstância segundo a qual aduz que a competência seria da Justiça Comum. Aponta violado o art. 202, §2º e 114, ambos da Constituição Federal.
+Pede, assim, o acolhimento da insurgência. (fls. 630/640)
+Impugnação às fls. 643/646.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO CONFLITO DE COMPETÊNCIA - NCORPORAÇÃO DA VERBA DENOMINADA CTVA - CUMULAÇÃO DE PEDIDOS - CARÁTER PREJUDICIAL DO PEDIDO TRABALHISTA EM RELAÇÃO AO PREVIDENCIÁRIO - DELIBERAÇÃO MONOCRÁTICA QUE FIXOU A COMPETÊNCIA DA JUSTIÇA DO TRABALHO. INSURGÊNCIA DA RÉ.
+1. Os embargos de declaração somente são cabíveis quando houver, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material, consoante dispõe o artigo 1.022 do NCPC (art. 535 do CPC/73), o que não se configura na hipótese em tela, porquanto o aresto deste órgão fracionário encontra-se devida e suficientemente fundamentado uma vez que esta eg. Segunda Seção, ao examinar a controvérsia, foi clara ao sustentar as razões do desprovimento do agravo interno interposto porque, nos termos da jurisprudência do STJ, havendo cumulação de pretensões distintas, sendo um pedido antecedente, de reconhecimento da natureza salarial da verba CTVA, em face da ex-empregadora (CEF), deve a ação prosseguir primeiramente na Justiça do Trabalho. (Súmula 170/STJ) Precedente.
+2. Embargos de declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator):
+Os embargos de declaração não merecem acolhida, pois, além de não demonstrarem a existência de qualquer vício a macular o julgado, reiteram os mesmos argumentos já afastados de forma fundamentada no acórdão embargado.
+1. Nos estreitos lindes do artigo 1.022 do NCPC (art. 535 do CPC/1973), o recurso de embargos de declaração objetiva somente suprir omissão, dissipar obscuridade, afastar contradição ou sanar erro material encontrável em decisão ou acórdão, não podendo ser utilizado como instrumento para a rediscussão do julgado, como pretende a embargante.
+Nesse sentido, cito precedentes desta Corte:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM AGRAVO NO RECURSO ESPECIAL. ANTECIPAÇÃO DOS EFEITOS DA TUTELA. VIOLAÇÃO DOS ARTS. 165, 458 E 535 DO CPC QUE NÃO SE VERIFICA. PENHORA DE COTAS SOCIAIS. IMPOSSIBILIDADE. REEXAME DE PROVAS. NECESSIDADE. INCIDE A SÚMULA Nº 7 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Os embargos de declaração somente são cabíveis quando houver no julgado omissão, contradição ou obscuridade, nos termos do art. 535 do CPC, o que não se observa no caso dos autos, pois houve manifestação suficiente pelo Tribunal de origem, acerca da matéria recorrida, ainda que em sentido contrário à pretensão do recorrente.
+ ..
+3. Agravo regimental não provido.
+AgRg no AREsp 609.464/DF, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 02/06/2015, DJe 12/06/2015.
+E ainda: EDcl nos EDcl nos EDcl nos EDcl no AgRg no AREsp 552.667/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 05/11/2015, DJe 10/11/2015.
+Na hipótese em foco, o decisum embargado não possui vício a ser sanado pela via dos embargos declaratórios, uma vez que esta eg. Segunda Seção, ao examinar a controvérsia, foi clara ao sustentar as razões do desprovimento do agravo interno interposto porquanto de acordo com a jurisprudência deste eg. órgão colegiado, havendo cumulação de pretensões distintas, sendo um pedido antecedente, de reconhecimento da natureza salarial da verba CTVA, em face da ex-empregadora (CEF), deve a ação prosseguir primeiramente na Justiça do Trabalho.
+Na oportunidade, para corroborar o referido entendimento, foram citados diversos precedentes, a saber: AgInt nos EDcl no REsp 1716658/SC, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 23/03/2020, DJe 25/03/2020; AgInt nos EDcl no CC 155.053/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 22/08/2018, DJe 27/08/2018; AgRg no CC 144.129/SP, Rel. Ministro MOURA RIBEIRO, SEGUNDA SEÇÃO, julgado em 22/06/2016, DJe 01/07/2016.
+Diante disso, não havendo notícia de alteração na situação fática, não há razão para modificar a decisão impugnada, bem como por inexistir nenhuma das máculas prevista no art. 1.022 do Código de Processo Civil.
+Por fim, assevera-se que, não obstante a rejeição dos aclaratórios, deixa-se de aplicar a multa prevista no artigo 1.026, § 2º, do CPC/2015, na medida em que se trata de primeiros embargos de declaração que não ostentam caráter manifestamente protelatórios.
+2. Do exposto, rejeito os presentes embargos declaratórios.
+É o voto.
