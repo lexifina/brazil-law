@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo interno interposto por Estado de Goiáscontra decisão monocrática, de minha relatoria, assim ementada:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. SERVIDOR PÚBLICO. INTEMPESTIVIDADE. FAZENDA PÚBLICA. PROCURADOR ESTADUAL. INAPLICABILIDADE DA PRERROGATIVA DE INTIMAÇÃO PESSOAL. PRECEDENTES. RECURSO ESPECIAL NÃO PROVIDO.
+No presente recurso, sustenta-se que, mesmoapós a carga dos autos físicos, quandoocorrida a intimação pessoal do ente estadual, foi declarada a intempestividade do recurso, olvidando-se o disposto no art. 183, § 1º, do CPC/2015, sob "a equivocada compreensão de que a prerrogativa de intimação pessoal não se aplicaria à Fazenda Pública Estadual!"
+Pugna, por fim, a reconsideração da decisão, em juízo de retratação, ou a remessa do presente recurso ao órgão colegiado.
+É o relatório. Passo a decidir.
+O presente agravo merece lograr êxito.
+O Estado de Goiás defende a tempestividade de sua apelação, a qual já foi interposta durante a vigência do CPC/2015.
+A premissa dos autos é de que não houve a intimação eletrônica, nos moldes dos arts. 1.050, 246, § 2º, e 270, parágrafo único, do CPC/2015, apenas se considerou os ditames do art. 272 do CPC/2015 - "quando não realizadas por meio eletrônico, consideram-se feitas as intimações pela publicação dos atos no órgão oficial".
+Transcrevo trecho do acórdão objurgado:
+Como foi explicado na decisão monocrática, a sentença recorrida foi publicada em 22/11/2017 (mov. 3 - arquivo 000019). Por outro lado, opostos embargos de declaração, a sentença que deu parcial provimento aos aclaratórios foi publicada no DJ 2718, na data de 03.06.2019, e o recurso de apelação interposto em 5/12/2019, quando já havia escoado o referido lapso recursal, atento ao comando dos artigos 219 e 224, ambos do Estatuto Processual Civil.
+Alega o ente público que à época da sentença, estes autos ainda eram físicos e não se realizou a intimação pessoal do Estado de Goiás, portanto, "o início da contagem do prazo processual se iniciou apenas com a carga dos autos em 08/11/2019".
+Ao que acrescentei que os representantes das Fazendas Públicas e de outras pessoas jurídicas de direito público, ressalvadas as exceções previstas em lei (Execução Fiscal e Mandado de Segurança), não gozam da prerrogativa à intimação pessoal, devendo prevalecer a intimação realizada pela imprensa onde houver órgão de publicação dos atos oficiais, caso haja a comprovação da publicação no Diário da Justiça, segundo a regra do art. 272 do Código de Processo Civil. De modo que inviável que a contagem do prazo se faça a partir da carga dos autos feita pelo representante judicial do ente público.
+Desse modo, os fundamentos embasadores do inconformismo do recorrente não possuem força satisfativa para agasalhar a pretensão, pois, em nada inovaram no feito, até porque a jurisprudência deste Tribunal de Justiça é assente no sentido de afirmar que para eventual reconsideração da decisão atacada, faz-se mister a superveniência de fatos novos, o que não se vislumbra in casu.
+A esse respeito, o art. 230 do CPC/2015 assevera que: "O prazo para a parte, o procurador, a Advocacia Pública, a Defensoria Pública e o Ministério Público será contado da citação, da intimação ou da notificação." Ademais, nos termos do art. 183,capute § 1º, do CPC/2015, os Estados também devem ser intimadas pessoalmente, a qual pode ocorrer ou por carga, ou por remessa, ou por meio eletrônico.
+Dessa forma, oSuperior Tribunal de Justiça declara que,nos termos do 183, § 1º, do CPC/2015, os Estados gozam da prerrogativa de intimação pessoal, não considerada como tal a publicação pelo Diário da Justiça Eletrônico. Cito:
+PROCESSUAL CIVIL. CPC/2015. ESTADOS. PRERROGATIVA DE INTIMAÇÃO PESSOAL. INOBSERVÂNCIA.
+1. Nos termos do 183, § 1º, do CPC/2015, os Estados gozam da prerrogativa de intimação pessoal, não considerada como tal a publicação pelo Diário da Justiça Eletrônico. Precedentes.
+2. Hipótese em que o Tribunal de origem considerou válida a intimação do Estado de São Paulo apenas por meio da publicação no DJE.
+3. Agravo interno desprovido.
+(AgInt nos EDcl no AgInt no AREsp n. 1.592.804/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 11/10/2021, DJe de 22/10/2021.)
+PROCESSUAL CIVIL E TRIBUTÁRIO. FUNDAMENTO AUTÔNOMO NÃO ATACADO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULAS 283 E 284 DO STF. INTIMAÇÃO PESSOAL DA FAZENDA PÚBLICA POR MEIO ELETRÔNICO. POSSIBILIDADE. PRINCÍPIO DA DURAÇÃO RAZOÁVEL DO PROCESSO. NULIDADE DO JULGAMENTO POR CERCEAMENTO DO DIREITO DE DEFESA. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. SÚMULA 7 DO STJ. EXECUÇÃO FISCAL. ISS. ICMS. CONTROVÉRSIA DECIDIDA À LUZ DE NORMA LOCAL. SÚMULA 280/STF. DIVERGÊNCIA JURISPRUDENCIAL. EXAME PREJUDICADO.
+ .. O entendimento sobre a prerrogativa de intimação pessoal da Fazenda Pública é protegida pela atual legislação processual, a qual confere, expressamente, o direito a todas as unidades federativas e entes públicos.
+4. O Código de Processo Civil/2015 prevê ser possível a intimação pessoal por meio eletrônico, baseando-se no princípio da duração razoável do processo a fim de acelerar a tramitação. ..
+(AgInt nos EDcl no AREsp n. 1.777.429/GO, relator Ministro Herman Benjamin, Segunda Turma, julgado em 28/6/2021, DJe de 1/7/2021.)
+Dessa forma, o recurso especial deve ser provido para determinar a remessa dos autos para o Tribunal de origem para que esse realize novo exame da apelação cível do Estado do Goiás considerando, como termo inicial do prazo da apelação, o momento em que a Procuradoria Geral do Estado realizou a carga dos autos.
+Ante o exposto, em conheço doagravo interno para, em juízo de reconsideração, dar provimento ao recurso especial do ente estadual nos termos da fundamentação.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. SERVIDOR PÚBLICO. ESTADOS. PRERROGATIVA DE INTIMAÇÃO PESSOAL. INOBSERVÂNCIA. "NOS TERMOS DO 183, § 1º, DO CPC/2015, OS ESTADOS GOZAM DA PRERROGATIVA DE INTIMAÇÃO PESSOAL, NÃO CONSIDERADA COMO TAL A PUBLICAÇÃO PELO DIÁRIO DA JUSTIÇA ELETRÔNICO". PRECEDENTE DO STJ. AGRAVO INTERNO CONHECIDOPARA, EM JUÍZO DE RECONSIDERAÇÃO, DAR PROVIMENTO AO RECURSO ESPECIAL.
