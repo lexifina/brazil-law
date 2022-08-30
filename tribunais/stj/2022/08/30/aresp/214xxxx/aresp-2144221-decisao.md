@@ -1,0 +1,24 @@
+DECISÃO
+1. Cuida-se de agravo interposto por GERSIO BONADIO e OUTRAcontra decisão que não admitiu o seu recurso especial, por sua vez manejado em combate a acórdão proferido peloTRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado:
+AGRAVO INTERNO - Recurso manejado contra decisão monocrática do Relator que indeferiu a gratuidade judiciária - Ausência de elementos capazes de modificar o entendimento - Manutenção da decisão Recolhimento das custas recursais que se impõe - Recurso desprovido.
+Nas razões do recurso especial, aponta a parte recorrente, além de dissídio jurisprudencial, ofensa ao disposto nos arts. 98 e 99, §§ 3º e 4º, do CPC de 2015.
+Alegam, em síntese, que "adecisão em questão, portanto, desconsiderou a presunção de veracidade da alegação de pobreza dos Recorrentes, amparada pelas declarações de impostos de renda dos exercícios fiscais de 2019 e 2020, período em que a economia mundial foi gravemente afetada pela COVID-19, para indeferir a justiça gratuita".
+É o relatório.DECIDO.
+2. Observa-se que o Superior Tribunal de Justiça entende que é relativa a presunção de hipossuficiência oriunda da declaração feita pelo requerente do benefício da justiça gratuita, sendo possível a exigência, pelo magistrado, da devida comprovação (AgRg no AREsp 815.190/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 19/04/2016, DJe 25/05/2016).
+Ademais, o pedido de assistência judiciária gratuita pode ser indeferido quando o magistrado tiver fundadas razões para crer que o requerente não se encontra no estado de miserabilidade declarado. (AgRg no Ag 881.512/RJ, Rel. Ministro CARLOS FERNANDO MATHIAS (JUIZ FEDERAL CONVOCADO DO TRF 1ª REGIÃO), QUARTA TURMA, julgado em 02/12/2008, DJe 18/12/2008).
+No caso dos autos, o Tribunal de origemmantevea decisão que indeferiu o pedido de justiça gratuita.Nesse contexto, a convicção formada pela Corte local, ao manter a decisão que indeferiu o benefício da gratuidade de justiça, decorreu dos elementos existentes nos autos, de forma que rever a decisão recorrida e acolher a pretensão recursal demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, o que é vedado em sede de recurso especial, nos termos da Súmula n. 7 do STJ.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ.
+DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. DECISÃO MANTIDA.
+1. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+2. No caso concreto, o Tribunal de origem concluiu que o recorrente possui condições de arcar com as custas do processo, não fazendo jus ao benefício da justiça gratuita. Alterar esse entendimento demandaria o reexame das provas produzidas nos autos, o que é vedado em recurso especial.
+3. A incidência da referida súmula também obsta o conhecimento do recurso especial pela alínea "c" do permissivo constitucional, consoante a jurisprudência desta Corte.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 980.401/CE, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 02/05/2017, DJe 09/05/2017)
+AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - EMBARGOS À EXECUÇÃO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO EM RAZÃO DO ÓBICE DAS SÚMULAS 7 E 83 DO STJ.IRRESIGNAÇÃO DOS EMBARGANTES.
+1. A presunção de pobreza, para fins de concessão dos benefícios da assistência judiciária gratuita, ostenta caráter relativo, podendo o magistrado indeferir o pedido de assistência se encontrar elementos que infirmem a hipossuficiência do requerente.Encontra óbice na Súmula 7/STJ a pretensão de revisão das conclusões do acórdão na hipótese em que, apreciando o conjunto probatório, para fins de concessão da gratuidade de justiça para a pessoa jurídica e seu sócio, as instâncias ordinárias não se convencem da hipossuficiência das partes, cuja declaração goza de presunção relativa de veracidade nos termos da jurisprudência desta Corte Superior.
+2. Agravo interno desprovido.
+(AgInt no AREsp 854.626/MS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 23/08/2016, DJe 30/08/2016).
+3. Por fim, impõe-se anotar que a incidência da Súmula 7/STJ prejudica o exame do recurso especial pela alínea "c" do permissivo constitucional. Nesse sentido: REsp 1.086.048/RS, Rel. Ministro Arnaldo Esteves Lima, Quinta Turma, julgado em 21/06/2011, DJe de 13/09/2011; EDcl no Ag 984.901/SP, Rel. Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 16/03/2010, DJe de 05/04/2010; AgRg no REsp 1.030.586/SP, Rel. Ministro Felix Fischer, Quinta Turma, julgado em 30/05/2008, DJe de 23/06/2008.
+4. Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
