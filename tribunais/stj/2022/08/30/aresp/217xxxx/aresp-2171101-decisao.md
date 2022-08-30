@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu recurso especial interposto por MARIA ÂNGELAGONÇALVES QUEIROZ e OUTRO, com fundamento nas alíneas a e c do permissivo constitucional, no qual se insurgiramcontra acórdão do Tribunal de Justiça de Minas Geraisassim ementado (e-STJ, fl. 638):
+APELAÇÃO CÍVEL - AÇÃO DE MANUTENÇÃO DE POSSE - INÉPCIA DA RECONVEÇÃO - AUSÊNCIA - NATUREZA DÚPLICE - PEDIDO CONTRAPOSTO - ESCRITURA PÚBLICA DE COMPRA E VENDA - CLÁUSULA DE CONSTITUTO POSSESSÓRIO - TRANSMISSÃO DA POSSE - RESISTÊNCIA EM SAIR DO IMÓVEL ESBULHO POSSESSÓRIO - CARACTERIZAÇÃO.
+As ações possessórias tem natureza dúplice, de modo que não é necessária reconvenção para que o réu, na sua defesa, alegue a violação da sua posse pelo autor, demandando proteção possessória e mesmo indenização pelos danos decorrentes da turbação/esbulho por parte do autor (ad. 556 CPC).
+O constituto possessório é cláusula que permite tradição ficta, transferindo ao adquirente a posse por força do contrato, independente de atos de ingerência. Não induzem posse os atos de mera permissão ou tolerância (ad. 1.208 CC). Caracteriza esbulho possessório a resistência dos adquirentes em entregarem a posse direta do imóvel ao alienante, possuidor por força da cláusula de constituto Dossessório.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 679-691).
+No recurso especial, os recorrentes apontaram, além de divergência jurisprudencial, violação dos arts. 6º, 369, 374, 389, 435 e 1.022 do novo CPC.
+Esclareceram que se opuseramao acórdão que, sem apreciar todas as suas teses recursais, embora opostos e julgados os embargos de declaração, negou sua pretensão possessória sobre o imóvel.
+Afirmaram queo julgador não pode, em um primeiro momento, determinar de apuração dos fatos via instauração de inquérito policial, de ofício, gerando reais expectativas nas partes de que tal documento será hábil à instrução; mas,depois, no momento do julgamento, informar que a prova produzida pelo próprio Estado,por sua determinação, não tem força probatória suficiente.
+Alegaram que asegunda instância não poderia desconsiderar a prova pericial realizada pelaPolícia Civil de Minas Geraisno citadoinquérito policial. Nesse sentido, pontuaram que asescrituras de alienação do imóvelforam lavradas tendo como suporte original uma procuração falsa, como ficou demonstrado e comprovado no citado procedimento policial e não foi questionado pela parte ora recorrida.
+Suscitaram a demonstração de prova de sua posse, sendo que para esse reconhecimento não se necessita da análise fático-probatória da causa. Enfatizaram que sua boa-fé processual deve ser privilegiada, o que não acontece com a desconsideração da prova técnica realizada no instância policial.Requereram o provimento do recurso especial (e-STJ, fls. 695-720).
+Nas razões do agravo, os agravantes impugnam os fundamentos da decisão denegatória do recurso, reiterando, no mais, as razões do mérito recursal (e-STJ, fls. 760-778).
+Contraminuta não apresentada (e-STJ, fl. 780).
+Brevemente relatado, decido.
+Não há nenhuma omissão, carência de fundamentação ou mesmo contradição a ser sanada no julgamento estadual, portanto inexistentes os requisitos para reconhecimento de ofensa ao art. 1.022 do novo CPC.
+O acórdão dirimiu a controvérsia com base em fundamentação sólida, sem tais vícios, tendo apenas resolvido a celeuma em sentido contrário ao postulado pela parte insurgente. Ademais, o órgão julgador não está obrigado a responder a questionamentos das partes, mas tão só a declinar as razões de seu convencimento motivado, como de fato ocorreu nos autos.
+Após análise cuidadosa dos elementos de convicção constantes nos autos, concluiu o Tribunal estadual que os autores, ora recorrentes,não comprovaram a prática de atos de turbação pela parte ré, ora agravada. Ao contrário, firmou o aresto a ocorrência deatos de esbulho pelos insurgentes, justificando o acolhimento do pedido contraposto e o indeferimento do pleito possessório.
+Veja-se (e-STJ, fls. 641-644):.
+Estabelecida a validade das escrituras públicas lavradas para aquisição da propriedade de cinco imóveis dos autores pela ré, devidamente averbadas nas suas respectivas matrículas, pelos fundamentos erigidos nos autos da apelação cível n. 1.0231.15.026025. e1001, cinge-se a controvérsia recursal à análise do acertamento da sentença que negou aos autores proteção possessória.
+Nos termos do art. 560 do CPC e art. 1.210 do CC, o possuidor tem direito a ser mantido na posse em caso de turbação e reintegrado em caso de esbulho. Para tanto, incumbe ao autor da açãopossessória provar sua posse anterior, a data da turbação praticada pelo réu, bem como a continuação da posse (art. 561 do CPC).
+Após análise cuidadosa dos elementos de convicção produzidos, concluo que os autores não comprovaram a prática de atos de turbação pela ré. Ao contrário, verifico demonstração da prática de atos de esbulho pelos autores, justificando o acolhimento do pedido contraposto.
+Não se olvida que, no bojo de ação possessória, sobressai o fato da posse, sendo vã a tentativa de oposição da propriedade do imóvel ao exercício de fato. Todavia, na hipótese dos autos, para a transmissão da posse à adquirente do imóvel, a ré/apelada, os contratantes incluíram nas escrituras de compra e venda dos imóveis cláusula de constituto possessório.
+Veja-se:
+ ..
+O constituto possessório é forma de tradição ficta, por meio da qual ao adquirente é transferida posse indireta por força do contrato, independente de atos de ingerência. Eis a previsão do ad. 1267, parágrafo único, do Código Civil:
+ ..
+Com isso, tem-se que a permanência dos autores na posse direta do imóvel, em verdade, não caracterizava posse, mas mera detenção, eis que, por força do ad. 1.208 do CC, "não induzem posse os atos de mera permissão ou tolerância".
+Com isso, a resistência dos autores em permitirem o acesso da adquirente também a posse direta do bem caracterizou esbulho possessório, justificando o acolhimento do pedido contraposto.
+Neste sentido já se pronunciou este Tribunal em casos similares:
+ ..
+Essas ponderações - acerca da ausência de prova da posse e da ocorrência de esbulho possessório -foram extraídas do acervo fático-probatório dos autos, ensejando o óbice da Súmula 7/STJ, que incide sobre ambas as alíneas do permissivo constitucional.
+Os insurgentes apenas aventaram a necessidade de consideração das conclusões da perícia técnica realizada em procuração no inquérito policial, mas não atacaram especificamente a premissa acerca da validade das escrituras dos imóveis estabelecida em outra apelação civil.
+Nota-se (e-STJ, fl. 641):
+Estabelecida a validade das escrituras públicas lavradas para aquisição da propriedade de cinco imóveis dos autores pela ré, devidamente averbadas nas suas respectivas matrículas, pelos fundamentos erigidos nos autos da apelação cível n. 1.0231.15.026025. e1001, cinge-se a controvérsia recursal à análise do acertamento da sentença que negou aos autores proteção possessória.
+Esse contexto ocasiona o óbice da Súmula 283/STF, tendo em vista que esse ponto do decisum é relevante para considerar que os agravados seriam os proprietários legítimos do imóvel.
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, na extensão conhecida, negar-lhe provimento.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do advogado da parte ora recorrida em mais 2% (dois por cento) sobre o valor da causa.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. DEMANDA POSSESSÓRIA. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE INEXISTENTES. ACÓRDÃO DEVIDAMENTE FUNDAMENTADO. ENTENDIMENTO NO SENTIDO DA AUSÊNCIA DE PROVA DA POSSE E A OCORRÊNCIA DE ESBULHO POSSESSÓRIO. SÚMULA 7/STJ. RELEVANTE FUNDAMENTO NO ARESTO INATACADO ESPECIFICAMENTE NO APELO ESPECIAL. SÚMULA 283/STF. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NA EXTENSÃO CONHECIDA, NEGAR-LHE PROVIMENTO.
