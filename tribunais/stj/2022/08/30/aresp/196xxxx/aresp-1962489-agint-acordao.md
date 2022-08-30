@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro-Relator.
+Os Srs. Ministros Mauro Campbell Marques, Assusete Magalhães, Francisco Falcão e Herman Benjamin votaram com o Sr. Ministro Relator.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNONOAGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. APLICAÇÃO DO ART. 932, III, DO CPC.
+1. As razões do agravo deixaram de refutar, de forma específica, o fundamento adotado pelo Tribunal local, atraindo, portanto, a aplicação do disposto no art. 932, III, do Código de Processo Civil.
+2. Cabia à parteinsurgente realizar a distinção do caso tratado nos autos ou indicar julgados atuais deste Tribunal Superior sobre a matéria, a fim de demonstrar que a orientação desta Corte é diversa da adotada pelo Tribunal local. Precedentes.
+3. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno manejado contra decisão que não conheceu do agravo em recurso especial diante da ausência de impugnação específica dos fundamentos da decisão que negou admissibilidade ao recurso especial.
+Afirmaa parte agravanteque seria inaplicável ao caso o óbice da Súmula n. 182 do STJ, porquanto teriarebatidotodos os pontos da decisão questionada.
+Argumenta, nesse contexto,que "refutou em item específico e expressamente o óbice da Súmula 83/STJ em seu recurso, o que atesta a dialeticidade do recurso e afasta o óbice da Súmula 182/STJ, sendo viável o conhecimento do presente agravo"(e-STJ, fl. 296).
+Requer, assim, a reconsideração da decisão ou a submissão do feito ao colegiado.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNONOAGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. APLICAÇÃO DO ART. 932, III, DO CPC.
+1. As razões do agravo deixaram de refutar, de forma específica, o fundamento adotado pelo Tribunal local, atraindo, portanto, a aplicação do disposto no art. 932, III, do Código de Processo Civil.
+2. Cabia à parteinsurgente realizar a distinção do caso tratado nos autos ou indicar julgados atuais deste Tribunal Superior sobre a matéria, a fim de demonstrar que a orientação desta Corte é diversa da adotada pelo Tribunal local. Precedentes.
+3. Agravo interno a que se nega provimento.
+VOTO
+Conforme registrado na decisão combatida,as razões do agravo deixaram de refutar de forma específica o pressuposto adotado pelo Tribunal local para negar admissibilidade ao recurso especial - que o acórdão recorrido estaria em consonânciado entendimentodo firmado pelo Superior Tribunal de Justiça.
+Com efeito, é pacífico o entendimento desta Corte de que a parte agravante deve infirmar especificamente todos os fundamentos da decisão impugnada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não se conhecer do agravo.
+Como a decisão proferida na origem inadmitiu o recurso especial ao fundamento de queo acórdão recorrido estaria em consonância do entendimento do firmado pelo Superior Tribunal de Justiça, cabia àparteinsurgenterealizara distinção do caso tratado nos autos ou indicarjulgados atuais deste Tribunal Superior sobre a matéria, a fim de demonstrar que a orientação desta Corte é diversa da adotada pelo Colegiado local ou que não se encontra pacificada, o que não ocorreu no caso em tela.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DE INADMISSIBILIDADE. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 182/STJ. INCIDÊNCIA. OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO. AUSÊNCIA. ACÓRDÃO DEVIDAMENTE FUNDAMENTADO. APLICAÇÃO DO ART. 253, PARÁGRAFO ÚNICO, II, "B", DO RISTJ. POSSIBILIDADE.
+1. A jurisprudência do Superior Tribunal de Justiça entende ser necessária a impugnação dos fundamentos da decisão denegatória da subida do recurso especial para que se conheça do respectivo agravo.
+2. Como registrado na primeira oportunidade, a parte agravante não infirma especificamente a incidência do óbice da Súmula 83/STJ.Logo, a Súmula 182 desta Corte foi corretamente aplicada ao caso.
+3. Inadmitido o recurso especial com base na Súmula 83 do STJ, incumbiria à parte interessada apontar precedentes contemporâneos ou supervenientes aos referidos na decisão impugnada, procedendo ao cotejo analítico entre eles. Precedentes.
+4. Inexiste contrariedade ao art. 1.022, II, do CPC/2015 quando a Corte de origem decide clara e fundamentadamente todas as questões postas a seu exame. Ademais, não se deve confundir decisão contrária aos interesses da parte com ausência de prestação jurisdicional.
+5. A questão ora controvertida - inexistência de contrariedade ao art. 1.022, II, do CPC/2015 quando a Corte de origem decide todas as questões postas a seu exame - possui entendimento sedimentado nesta Corte, fato esse que autoriza a apreciação monocrática do apelo, nos termos do art. 253, parágrafo único, II, "b", do RISTJ, bem como da Súmula 568/STJ ("O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema").
+6. "A alegada existência de omissão no acórdão do Tribunal de origem (violação do art. 535 do CPC/1973 atual 1.022 do CPC/2015) pode ser apreciada monocraticamente nesta Corte Superior, tanto pela negativa quanto pelo provimento do recurso, por preencher as exigências constantes no art. 932 do CPC/2015" (AgInt no REsp 1.274.568/MG, Rel. Min. Luis Felipe Salomão, Quarta Turma, DJe 19/4/2018).
+7. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.322.384/RJ, de minha relatoria, julgado em 26/2/2019, DJe de 11/3/2019).
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. ADMISSIBILIDADE.IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. PRINCÍPIO DA DIALETICIDADE. ENFRENTAMENTO DA QUESTÃO SEM MENÇÃO EXPRESSA AO NÚMERO DO ENUNCIADO DA SÚMULA. POSSIBILIDADE. COMPETÊNCIA PARA JULGAMENTO DE AÇÃO DE REPARAÇÃO DE DANOS MORAIS. LUGAR DO FATO. REPRESENTAÇÃO PERANTE O CONSELHO NACIONAL DE JUSTIÇA.
+1. Para a satisfação do princípio da dialeticidade, as razões do recurso devem demonstrar o desacerto dos fundamentos da decisão recorrida, independentemente de rígidas formalidades. Assim, não basta, meramente, alegar que não incide a súmula 83, se não houver demonstração de que a jurisprudência do STJ não está consolidada no sentido da decisão recorrida. O princípio é atendido, todavia, mesmo não sem a alegação expressa de não incidir a Súmula 83, mas sendo demonstrado que a jurisprudência do STJ conforta a tese da parte recorrente.
+2. A competência para julgamento da ação de reparação de danos é do foro do lugar do fato, de acordo com a regra do art. 100, V, "a", do Código de Processo Civil de 1973 (correspondente ao art. 53, inciso IV, alínea "a", do CPC/2015). O fato alegado como causador do dano moral, no caso, é a representação perante o Conselho Nacional de Justiça, ou seja, ato praticado no Distrito Federal.
+3. Agravo interno provido. Acolhimento da exceção de incompetência.
+(AgInt no AREsp n. 1.106.545/MA, relator Ministro MARCO BUZZI, relatorapara Acórdão Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 22/5/2018, DJe de 15/6/2018).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182 DO STJ. AGRAVO NÃO CONHECIDO.
+1. O presente agravo interno foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo n. 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. O agravo interno não impugnou nenhuma das razões da decisão agravada, pois não refutou, de forma fundamentada, a aplicação das Súmulas n. 284 do STF e 83 do STJ, ao caso. Incidência da Súmula n. 182 do STJ.
+3. Na hipótese em que se pretende impugnar a incidência da Súmula nº 83 do STJ, deveria a parte agravante demonstrar que os precedentes indicados na decisão agravada não se aplicavam ao caso, ou então trazer precedentes contemporâneos ou supervenientes aos referidos na decisão agravada, de forma a demonstrar que outra é a orientação jurisprudencial nesta Corte Superior, ou, que a divergência é atual, o que deixou de fazer.
+4. Agravo interno não conhecido.
+(AgInt no AREsp n. 885.406/MS, relator Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 20/3/2018, DJe de 3/4/2018).
+Na petição de agravo em recurso especial, a parterecorrentenão indicaoutro julgado mais moderno do que osacostados na decisão de inadmissibilidade.Contudo,"à luz do princípio da dialeticidade, que norteia os recursos, compete àparte agravante, sob pena de não conhecimento do agravo de instrumento,infirmar especificamente os fundamentos adotados pelo Tribunal de origempara negar seguimento ao reclamo, sendo insuficiente apresentar alegaçõesgenéricas de inaplicabilidade do óbice invocado (AgInt no AREsp n. 941.148/RJ, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em14/2/2017, DJe de 20/2/2017).
+Acrescento que ajurisprudência desta Corte Superiorfirmou entendimento deque o óbice da Súmula n.83/STJ não se restringe aos recursos especiaisinterpostos com fundamento na alínea "c" do permissivo constitucional,sendo também aplicável nos recursos fundados na alínea "a".
+Logo,não há como reconhecer que tenha ocorrido a necessária impugnação da decisão de admissibilidade, sendo,assim, inafastável a incidência do disposto no art. 932, III, do CPC/2015 e do óbice da Súmula n. 182/STJ.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
