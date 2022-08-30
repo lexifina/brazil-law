@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de JULIANO CÂNDIDO RAMOS em que se aponta como autoridade coatora oTribunal de Justiça do Estado do Paraná(Processo n. 0028919-12.2022.8.16.0000).
+O paciente foi preso em flagrantepela suposta prática do crime previsto nos arts. 33 da Lei n. 11.343/2006,329 e 330 do Código Penal. A prisão em flagrante foi convertida em preventiva.
+A defesa sustenta ilegalidade na manutenção da segregação provisória do paciente. Argumenta que "a quantidade de droga apreendida demonstra a suficiência, a adequação e a proporcionalidade da fixação das medidas menos severas previstas no art. 319 do Código de Processo Penal" (fl. 6).
+Afirma que "o paciente possua outro processo em andamento, este é de 2020, não havendo contemporaneidade" (fl. 7).
+Requer a concessão da ordem de habeas corpus para que seja determinado o relaxamento da prisão preventiva do paciente, ou a substituição da prisão por medida cautelar prevista na lei processual.
+O pedido de liminar foi indeferido (fls. 22-23).
+Informações prestadas às fls. 26-35.
+O Ministério Público Federal manifestou-sepela denegação da ordem (fls. 39-43).
+É o relatório. Decido.
+O Supremo Tribunal Federal e o Superior Tribunal de Justiça não admitem a impetração de habeas corpus em substituição ao recurso ordinário próprio, uma vez que a competência do STF e a do STJ estão relacionadas com a análise de matéria de direito estrito prevista taxativamente na Constituição Federal. Esse entendimento tem sido adotado sem prejuízode eventual deferimento da ordem de ofício em caso de flagrante ilegalidade, o que não se verifica no caso em apreço.
+Aprisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que comprovema necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 2/9/2020).
+No caso, está justificada a manutenção da preventiva, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP, não sendo recomendável a aplicação de medida cautelar referida no art. 319 do CPP.
+A propósito, assim se manifestou o Tribunal a quo (fl. 11):
+Frisa-se que a decisão vem assentada em fundamentação adequada, mostrando claramente a necessidade de garantia da ordem pública, por fazer o paciente do tráfico o seu meio de sustento.
+É certo que os fatos serão melhor apurados no decorrer da investigação criminal e instrução processual. No entanto, por ora, verifica-se a necessidade da custódia cautelar, posto que, ao destacar a reprovabilidade de sua ação em elementos concretos (modus operandi- quantidade da droga apreendida 1 kg de "maconha" , além das anotações criminais pela prática do mesmo crime que indicam a habitualidade delitiva), demonstrou a potencial gravidade de seu proceder, revelando-se a necessidade de se manter sua segregação do convívio social, para garantia da ordem pública.
+Desta forma, correta a decisão que decretou a custódia cautelar justificada na necessidade de garantia da ordem pública, valendo ressaltar que o crime de tráfico fomenta a prática de inúmeros outros crimes, principalmente daqueles contra o patrimônio e contra a vida, o que justifica a intranquilidade da sociedade e o desejo de que os mesmos sejam segregados do convívio social.
+Portanto, a decisão impugnada encontra-se devidamente fundamentada em elemento concreto cujas hipóteses encontram-se expressas no art. 312, do Código de Processo Penal - na garantia da ordem pública.
+Tendo a necessidade da prisão cautelar sido exposta de forma fundamentada e concreta, é incabível a substituição por medidas cautelares mais brandas (RHC n. 133.153/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 21/9/2020).
+Nopresente caso,aquantidadedeentorpecentes apreendidos, a gravidade concreta da conduta e as anotações criminaisforam considerados pelo Tribunal de origem para a manutenção da prisão preventiva.
+Conforme a orientação jurisprudencial do STJ, inquéritos policiais ou ações penais em curso justificam a imposição de prisão preventiva como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública (AgRg no HC n. 603.774/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 28/9/2020; e HC n. 602.698/RS, relator Ministro Felix Fischer, Quinta Turma, DJe de 6/10/2020).
+Ademais, oSupremo Tribunal Federal assentou que "a gravidade concreta do crime, omodus operandida ação delituosa e a periculosidade do agente, evidenciados pela expressiva quantidade e pluralidade de entorpecentes apreendidos, respaldam a prisão preventiva para a garantia da ordem pública" (HC n. 130.708/SP, relatora Ministra Cármen Lúcia, Segunda Turma, DJe de 6/4/2016).
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.Intimem-se.
