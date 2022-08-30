@@ -1,0 +1,7 @@
+DECISÃO
+PROCESSUAL CIVIL.  AGRAVO  EM  RECURSO  ESPECIAL.  COMPETÊNCIA  PARA  O  PROCESSAMENTO  E  JULGAMENTO  DE  CAUSA  QUE  DISCUTE  INDENIZAÇÃO  POR  DANOS MORAIS. COBRANÇA POR SERVIÇOS TELEFÔNICOS NÃO SOLICITADOS.NATUREZA  PRIVADA  DA  CONTROVÉRSIA.  REDISTRIBUIÇÃO  A  UM  DOS  MINISTROS  DA  SEGUNDA  SEÇÃO.
+1.  Agrava-se  de  decisão  que  inadmitiu  Recurso  Especial  interposto  por  TERESINHA DE JESUS BEMFICA BIER  objetivando  a  reforma  do  acórdão  proferido  pelo  Tribunal  de  Justiça  do  Estado  do Rio Grande do Sul- TJRS,  assim ementado:
+AGRAVO INTERNO. RECLAMAÇÃO. EXTINÇÃO DA AÇÃO SEM RESOLUÇÃO DO MÉRITO. Questão posta que não se amolda às hipóteses previstas na Resolução 03/2016 do STJ e art. 33, § 2º, do RITJRS, não servindo a reclamação como sucedâneo recursal. Extinção de plano. Precedentes do STJ. Razões constantes do agravo interno que não se mostram aptas à reforma do julgado monocrático. AGRAVO INTERNO NÃO PROVIDO.
+2.  A  matéria  objeto  da  ação,  no  entanto,  não  está  afeta  à  Primeira  Seção  do  Superior  Tribunal  de  Justiça,  porquanto  não  envolve  falha  no  serviço  público  em  si, mas sim devolução de valores referentes aserviçostelefônicos supostamente nãosolicitados,bem como abusividade de cláusulas contratuais.
+3.  Assim  sendo,  declina-se da  competência  para  apreciar  e  julgar  o  presente  feito  e  determina-se a redistribuição dos  autos  a  um  dos  Eminentes  Ministros  integrantes  da  Segunda  Seção  deste  Tribunal  Superior.
+4.  Publique-se.  Intimem-se.
