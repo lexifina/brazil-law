@@ -1,0 +1,73 @@
+DECISÃO
+rata-se de recurso especial interposto por DARLO JOAQUIM PADILHA com fundamento no artigo 105, III, "a" e"c", da Constituição Federal, contra acórdão proferido pelo TRF da 4ª Região, assim ementado (e-STJ Fl.58):
+PREVIDENCIÁRIO. AGRAVO DE INSTRUMENTO. APURAÇÃO DA RMI.HOMOLOGAÇÃO DE CÁLCULOS. SERVIÇOS DE TRANSPORTE RODOVIÁRIO DE CARGAS. SALÁRIO DE CONTRIBUIÇÃO. LIMITAÇÃO AO TETO PREVISTO PARA A FUNÇÃO. 20%. COISA JULGADA.OBSERVÂNCIA.
+1. Nos termos da coisa julgada, a revisão do benefício ocorre de acordo com os recibos de pagamentos dos serviços de transporte rodoviário constantes nos autos, observado o teto respectivo.
+2. Aplicação da disciplina prevista no Decreto nº 3.048/1999, art.
+201, §4º, segundo a qual a base de cálculo da contribuição da empresa corresponde a vinte por cento do valor registrado na nota fiscal, na fatura ou no recibo, quando esses serviços forem prestados sem vínculo empregatício por condutor autônomo de veículo rodoviário, auxiliar de condutor autônomo de veículo rodoviário, inclusive por taxista e motorista de transporte remunerado privado individual de passageiros, e operador de máquinas.
+3. Os valores das notas e recibos possuem outros componentes, como pedágio, combustível, despesas de administração, tributos, taxas e demais custos do frete, não sendo o valor integralmente revertido em favor do trabalhador como remuneração, de modo que não pode ser integralmente utilizado como salário de benefício.
+Embargos de declaração do recorrente rejeitados.
+O recorrente alega violação do artigo 1.022, II, do CPC/2015, ao argumento de que a Corte de origem não se manifestou a respeito da seguinte questão:  .. "ao acolher a impugnação ao cumprimento de sentença do INSS a decisão do juízo da execução ofendeu a coisa julgada" .. (e-STJ Fl.94).
+Quanto à questãode fundo, sustenta ofensa aosartigos 502 e 503 do CPC/2015 e dissídio jurisprudencial, aduzindo argumentaçãono que concerne ao reconhecimento de que "a execução deve observar estritamente os termos do título judicial, sendo vedada a redução ou a ampliação dos respectivos limites, sob pena de violação à coisa julgada e ao direito adquirido, garantias alçadas pelo texto constitucional como autênticos direitos fundamentais" (e-STJ Fls.97-98).
+Sem contrarrazões.
+Juízo positivo de admissibilidade às fls. (e-STJ Fl.110).
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Preliminarmente, quanto à alegada afronta ao artigo 1.022 do CPC/2015,afasta-se a alegada violação,porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+No caso dos autos, evidencia-se ter o acórdão assim tratado da matéria suscitada de ofensa à coisa julgada (e-STJ Fls.55-57):
+ ..
+O Juízo a quo acolheu parcialmente a impugnação, homologando o cálculo da Contadoria, de acordo com o julgado.
+Segundo constou da sentença transitada em julgado (evento 45), o pedido revisional do autor foi acolhido, autorizando-se a utilização dos recibos de pagamentos constantes da inicial no período de 6-2003 a 10-2006 para o cálculo do salário de benefício do autor, desde que observado o teto do salário de contribuição.
+ ..
+Nenhum valor foi expressamente homologado, apenas determinou- se a utilização dos recibos no cálculo, de acordo com o regramento aplicável.
+Logo, perfeitamente incidente na espécie a disciplina prevista no Decreto nº 3.048/1999, art. 201, §4º:
+ ..
+Evidencia-se que o percentual de 20% caracteriza-se como teto dos salários de contribuição dos serviços de transporte rodoviário, justamente porque os valores das notas e recibos possuem outros componentes, como pedágio, combustível, despesas de administração, tributos, taxas e demais custos do frete, não sendo o valor integralmente revertido em favor do trabalhador como remuneração, de modo que incabível acolher o pedido de utilização do valor integral das notas.
+Conforme bem destacado pelo INSS em contrarrazões, a própria parte autora bem esclareceu a remuneração do segurado autônomo motorista na petição inicial, veja-se:
+O procedimento para apuração do salário-de-contribuição - previdenciário - é peculiar no caso do segurado autônomo motorista.
+A Lei 10.666/2003 determina que as empresas procedam à retenção e recolher ao INSS a contribuição devida por contribuinte individual a seu serviço.
+De conformidade com o § 2º do art. 75 da Instrução Normativa INSS (IN INSS) nº 100/2003, art. 69 Instrução Normativa MPS/SRP nº 3, de 14 de julho de 2005, art. 55 da Instrução Normativa RFB nº 971, de 13 de novembro de 2009, bem como art. 111-I da mesma Instrução Normativa RFB nº 971, de 13 de novembro de 2009, o salário-de-contribuição do condutor autônomo de veículo rodoviário (inclusive o taxista), do auxiliar de condutor autônomo e do operador de máquinas, corresponde a 20% do valor bruto auferido pelo frete, carreto, transporte, não se admitindo a dedução de qualquer valor relativo a dispêndios com combustível e manutenção de veículo, ainda que figure discriminada no documento a parcela a este título.
+Consigna-se que as contribuições da empresa ocorrem com base no valor do salário de contribuição, de modo que a decisão agravada mostra-se em consonância com o pedido e a coisa julgada formada nos autos.
+ ..
+Desnecessário, portanto, qualquer esclarecimento ou complemento ao que já decidido pela Corte de origem, pelo que se afasta a ofensa ao artigo 1.022 do CPC/2015.
+Quanto à alegada vulneração aos artigos502 e 503 do CPC/2015 e à tese de que a execução deve observar estritamente os termos do título executivo judicial, oalegado pelo recorrente sobre eventual ofensa à lei federal não está devidamente particularizado de forma clara e específica e não tem em si correspondência com os fundamentos aplicados pelo acórdão recorrido, situação que impede a exata compreensão da controvérsia deduzida. Aplica-se à hipótese a Súmula 284/STF.
+Na hipótese dos autos, mais uma vez transcrevo trecho do acórdãoonde estãofundamentos relativamente ao qual a parte não se insurgiu em sua petição de recurso especial, limitando-se a apresentar razões dissociadas em sua peça recursal (e-STJ Fls.56-57):
+ ..
+Nenhum valor foi expressamente homologado, apenas determinou- se a utilização dos recibos no cálculo, de acordo com o regramento aplicável.
+Logo, perfeitamente incidente na espécie a disciplina prevista no Decreto nº 3.048/1999, art. 201, §4º:
+ ..
+Evidencia-se que o percentual de 20% caracteriza-se como teto dos salários de contribuição dos serviços de transporte rodoviário, justamente porque os valores das notas e recibos possuem outros componentes, como pedágio, combustível, despesas de administração, tributos, taxas e demais custos do frete, não sendo o valor integralmente revertido em favor do trabalhador como remuneração, de modo que incabível acolher o pedido de utilização do valor integral das notas.
+ ..
+Consigna-se que as contribuições da empresa ocorrem com base no valor do salário de contribuição, de modo que a decisão agravada mostra-se em consonância com o pedido e a coisa julgada formada nos autos
+ ..
+Nesse sentido, patente queas razões recursais delineadas no especial estão dissociadas dos fundamentos utilizados no aresto impugnado, tendo em vista que a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+A esse respeito, cita-se o seguinte julgado de minha relatoria:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. COMPETÊNCIA DO JUIZADO ESPECIAL FEDERAL. RETIFICAÇÃO DO VALOR DA CAUSA. DEFICIÊNCIA NA ARGUMENTAÇÃO RECURSAL. SÚMULA 284/STF. VALOR DA INDENIZAÇÃO POR DANOS MORAIS. REEXAME. IMPOSSIBILIDADE. SÚMULA 7/STJ. DISSÍDIO NÃO DEMONSTRADO. PRECEDENTES.
+1. Na espécie, resta evidente que a argumentação recursal se revela deficiente e inapta a demonstrar efetivamente a alegada impugnação, porquanto as razões do recurso revelam-se dissociadas dos fundamentos aplicados pelo aresto a quo, o que impede o conhecimento do apelo especial, ante à incidência da Súmula 284/STF.
+2. É assente na jurisprudência do Superior Tribunal de Justiça que a indenização por danos morais fixada em quantum sintonizado aos princípios da razoabilidade e da proporcionalidade não enseja a possibilidade de interposição do recurso especial, dada a necessidade de exame de elementos de ordem fática, cabendo sua revisão apenas em casos de manifesta excessividade ou irrisoriedade do valor arbitrado, o que não se evidencia no presente caso.
+Incidência da Súmula 7 do STJ.
+3. A jurisprudência desta Corte Superior se firmou no sentido de que a interposição do recurso especial pela alínea "c" do permissivo constitucional está sujeita aos requisitos previstos no art. 541 do CPC/1973 (art. 1029, § 1º, do CPC/2015), e no art. 255, § 1º, do RISTJ.
+4. Agravo interno não provido.
+(AgInt no AREsp 1885754/RS, Rel . Ministro Benedito Gonçalves, Primeira Turma, julgado em 21/03/2022, Dje de 24/03/2022) (grifo meu).
+Ainda que assim não fosse, consigne-se que aalteração das conclusões adotadas pela Corte de origem acerca dos limites dotítulo executivo judicialtransitado em julgado, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto naSúmula 7/STJ.
+Nesse sentido:
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. VIOLAÇÃO AO ART. 1.022 DO CPC/2015 NÃO VERIFICADA. MULTA. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO VIOLADO. SÚMULA 284/STF. CERCEAMENTO DE DEFESA. INOCORRÊNCIA. OFENSA À COISA JULGADA. AVERIGUAÇÃO.SÚMULA 7/STJ.
+1. Não se vislumbra na hipótese vertente que o v. acórdão recorrido padeça de qualquer dos vícios descritos nos arts. 489, § 1º, e 1.022, II, do CPC/2015, porquanto o órgão julgador apreciou, com coerência, clareza e devida fundamentação, as teses suscitadas pelo jurisdicionado.
+2. No que diz respeito à alegação de que houve aplicação indevida de multa em embargos de declaração, a ausência de indicação do dispositivo legal tido por violado implica deficiência de fundamentação do recurso especial, bem anotada na decisão agravada, atraindo a incidência da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.").
+3. Esta Corte possui entendimento no sentido de que, oportunizada a apresentação dos cálculos pela parte, a ausência de sua intimação quanto aos cálculos da contadoria judicial não implica cerceamento de defesa.
+4. A alteração das conclusões adotadas pela Corte de origem acerca dos limites dotítulo executivo judicialtransitado em julgado, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto naSúmula 7/STJ.
+5. Agravo interno não provido.
+(AgInt no AgInt no AREsp 1581258/SP, Rel. Ministro Sérgio Kukina, Primeira Turma, julgado em 13/06/2022, Dje de 20/06/2022) (grifei)
+Ademais, segundo entendimento desta Corte, a inadmissão do recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, em razão da incidência de enunciado sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial se o dissídio alegado diz respeito ao mesmo dispositivo legal ou tese jurídica, o que ocorreu na hipótese.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO DE PRINCÍPIOS CONSTITUCIONAIS. IMPOSSIBILIDADE DE EXAME NESTA CORTE. NÃO INDICAÇÃO DE DISPOSITIVO DE LEI FEDERAL SUPOSTAMENTE VIOLADO. SÚMULA 284/STF. DISSÍDIO JURISPRUDENCIAL. ANÁLISE PREJUDICADA.
+1. Tendo sido o recurso interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado n. 3/2016/STJ.
+2. É inviável a análise, em recurso especial, da irresignação fundada na violação a princípios constitucionais. A uma, por se tratar de matéria reservada à apreciação do Supremo Tribunal Federal e, a duas, por não se inserirem no conceito de lei federal, nos termos do art. 105, III, da Constituição Federal.
+3. Revelam-se deficientes as razões do recurso especial quando o recorrente limita-se a expor alegações genéricas e não indica qual dispositivo de lei federal ou tratado foi contrariado pelo acórdão recorrido, situação que se evidencia nos autos e impede o conhecimento do recurso. Aplica-se à hipótese a Súmula 284/STF.
+4. Segundo entendimento desta Corte a inadmissão do recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, em razão da incidência de enunciado sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial se o dissídio alegado diz respeito ao mesmo dispositivo legal ou tese jurídica, o que ocorreu na hipótese. Nesse sentido: AgInt no REsp 1.590.388/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 24/3/2017; AgInt no REsp 1.343.351/SP, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 23/3/2017.
+5. Agravo interno não provido.
+(AgInt no REsp 1973876/RS, Rel. Ministro Benedito Gonçalves, Primeira Turma, julgado em 16/05/2022, Dje de 19/05/2022) (grifei).
+Ante o exposto, não conheço do recurso especial.
+Caso tenham sido fixados honorários sucumbenciais anteriormente pelas instâncias ordinárias, majoro em 10% os honorários advocatícios, observados os limites e parâmetros dos §§ 2º, 3º e 11 do artigo 85 do CPC/2015 e eventual Gratuidade da Justiça (§ 3º do artigo 98 do CPC/2015).
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. RECURSO ESPECIAL. APLICABILIDADE DO CPC/2015. CUMPRIMENTO DA SENTENÇA.AGRAVO DE INSTRUMENTO. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA.A DECISÃO AGRAVADA MOSTRA-SE EM CONSONÂNCIA COM O PEDIDO E A COISA JULGADA FORMADA NOS AUTOS. ARGUMENTAÇÃO DEFICIENTE. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 284/STF.DISSÍDIO JURISPRUDENCIAL. ANÁLISE PREJUDICADA. RECURSO NÃO CONHECIDO.
