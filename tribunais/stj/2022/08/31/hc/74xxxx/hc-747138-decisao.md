@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra acórdão assim ementado (fl. 363):
+REVISÃO CRIMINAL. CONDENAÇÃO NA SENTENÇA PELO DELITO DE NARCOTRÁFICO (ARTIGO 33, CAPUT, DA LEI Nº 11.343/06, C/C O ARTIGO 61, I, do CP), O QUE FOI REFERENDADO NO ACÓRDÃO QUE JULGOU O APELO, COM MANUTENÇÃO DO APENAMENTO MANTIDO, POR MAIORIA.
+A Revisão Criminal não é uma segunda apelação, destinada a mero reexame de matérias anteriormente analisadas, devendo enquadrar-se em uma das restritas hipóteses do artigo 621, do CPP. Tangente à postulação de redução da pena, quanto ao delito em apreço, nada a alterar, tendo sido esta fixada dentro dos parâmetros de lei. A revisão não serve à reapreciação da matéria já decidida.
+REVISÃO CRIMINAL IMPROCEDENTE. POR MAIORIA.
+Consta dos autos que o paciente foi condenado às penas de 10anos e 6meses de reclusão, em regime fechado, e 1.000 dias-multa, como incurso no art. 33, caput, da Lei11.343/06, c/c art. 61, I, do Código Penal.
+O impetrante alega que é inidônea a fundamentação utilizada para a exasperação dapena-base, sendo desproporcional o aumento de 4 anos acima do mínimo legal, o que viola o art. 59 do CP.
+Requer, liminarmente e no mérito, o redimensionamento da pena do paciente.
+Indeferida a liminar e prestadas as informações, manifestou-se o Ministério Público Federal pelo não conhecimento do writ.
+Assim dispôs a sentença condenatória quanto à dosimetria da pena (fls. 192-193):
+Passo ao cálculo das penas, considerando de forma conjunta os vetores contidos nos artigos 59 do CP e 42 da Lei nº 11.343/06.
+Culpabilidade elevada, o réu tinha plena consciência da ilicitude de seus atos, além disso, estava em liberdade condicional e voltou a cometer delitos; não possui maus antecedentes (folhas 99/100v); conduta social abonada; personalidade sem maiores esclarecimentos nos autos; os motivos são a obtenção do lucro fácil por intermédio do comércio ilícito; circunstâncias dentro da normalidade; as consequências do delito estão vinculadas à saúde pública e, neste caso, foram minoradas em razão da atuação policial. Além disso, atento ao disposto no artigo 42, da Lei nº11.343/06, pesa em desfavor do réu a qualidade (crack) e a quantidade (por volta de 145g) de droga apreendida, justificando a fixação da pena-base em 09 (nove) anos de reclusão.
+Presente a circunstância agravante pela reincidência (artigo 61, inciso I, do Código Penal), ostentando condenação transitada em julgado em 12 de novembro de 2014, nos autos do processo nº 022/2.12.0003044-9, motivo pelo qual entendo como proporcional e adequado o aumento da pena em 1/6, considerado patamar paradigma e mínimo para exasperar a pena na hipótese de aplicação da referida agravante. Sendo assim, resta a pena provisória em 10 (dez) anos e 06 (seis) meses de reclusão, apenamento o qual torno DEFINITIVO ante a ausência de demais operadoras.
+Do regime prisional
+Fixo o regime inicialmente fechado para o cumprimento da reprimenda, considerando o quantum de pena aplicado e o fato de ser reincidente.
+Da Substituição da Pena Privativa de Liberdade
+Incabíveis as substituições previstas nos artigos 44; 60, § 2º, bem como a suspensão da pena prevista no artigo 77, todos do Código Penal, porquanto não preenchidos os requisitos legais.
+Da Pena Pecuniária
+Condeno o réu ao pagamento de pena pecuniária, fixada em 1000 (mil) dias-multa, atendendo às circunstâncias judiciais do artigo 59, do CP, no valor unitário de 1/30 do salário-mínimo vigente ao tempo do fato o dia-multa,
+O Tribunal de origem manteve a dosimetria quando do julgamento da apelação. Ao julgar a revisão criminal, assim dispôs(fl. 366):
+Ultrapassada esta fase, a defesa reedita inconformidade via Revisão Criminal, dando a pena por inadequada e excessiva.
+De toda sorte, enfatiza-se aqui que inexiste erro técnico na fixação da pena.
+Esta obedece critérios subjetivos do julgador e pode oscilar entre os limites objetivos estabelecidos em lei, no caso, 05 e 15 anos, sendo que o quantum daí derivado e que culminou com pena-base de 09 anos de reclusão, não configura erro ou enseja o desbaste pretendido, eis que fixada de modo fundamentado. A valoração do artigo 59, do CP, foi efetuada a contento, sendo que o acréscimo pela agravante da reincidência, na fração de 1/6, também se mostra adequado e consentâneo com ditames da lei.
+A Revisão Criminal não é uma segunda apelação, destinada a mero reexame de matérias anteriormente analisadas, devendo enquadrar-se em uma das restritas hipóteses do artigo 621, do CPP.
+Tangente à redução da pena, quanto ao delito em apreço, nada a alterar, tendo sido esta fixada dentro dos parâmetros de lei, sendo confirmada no acórdão.
+Destaco que somente em se verificando erro grosseiro ou técnico na fixação da pena poderá ela ser revista e, frise-se, tal não ocorreu no caso vertente.
+Assim, as questões suscitadas foram objeto de exame prévio, sendo que o acórdão da apelação aferiu a questão em momento pretérito, modo adequado.
+Como se observa, a pena-base do delito foi exasperada em 4anos, tendo em vista a negativação da culpabilidade, bem como a qualidade (crack) e aquantidade (145g) dadrogaapreendida.
+A vetorial da culpabilidade foi idoneamente exasperada, uma vez que o paciente quando praticou o delito "estava em liberdade condicional", evidenciando a maior reprovabilidade da conduta, que efetivamente desborda das elementares do tipo. Nesse sentido:
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. TRÁFICO DE ENTORPECENTES. DOSIMETRIA. PENABASE. FUNDAMENTAÇÃO IDÔNEA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+II - A via do writ somente se mostra adequada para a análise da dosimetria da pena, quando não for necessária uma análise aprofundada do conjunto probatório e houver flagrante ilegalidade.
+III - Acerca do punctum saliens, o Tribunal de origem apreciou concretamente a intensidade da reprovabilidade da conduta do paciente, assentando que "o acusado se encontrava na traficância enquanto usufruía de regime aberto, vale dizer, em gozo de beneficio prisional  ..  frustrando-se ao cumprimento de pena.", fatores que apontam maior censura na conduta e exigem resposta penal superior, em atendimento aos princípios da proporcionalidade e da individualização da pena. Qualquer incursão que escape a moldura fática ora apresentada, demandaria inegável revolvimento fático-probatório, não condizente com os estreitos lindes deste átrio processual, ação constitucional de rito célere e de cognição sumária. Precedente.
+Habeas corpus não conhecido. (HC 541.985/SP, Rel. Ministro LEOPOLDO DE ARRUDA RAPOSO, DESEMBARGADOR CONVOCADO DO TJPE, QUINTA TURMA, julgado em 21/11/2019, DJe 28/11/2019)
+Por outro lado, no que diz respeito ao tráfico de drogas, o entendimento firmado pelo STJ é no sentido de que a natureza e a variedade da droga apreendida, desde que associadasa uma quantidade expressiva, constituemfundamentação idônea tanto para justificar a elevação da pena-base,a incidência da minorante em índice diverso do máximo, a imposição deregime prisional mais severo e a vedação à substituição das penas.
+No caso, a quantidade e a natureza da droga apreendida (145g de crack) pode ser considerada significativa, de sorte a justificar a elevação da pena-base. A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA DA PENA. PENA-BASE ACIMA DO MÍNIMO LEGAL. QUANTIDADE DA DROGA (100G DE CRACK). FUNDAMENTAÇÃO SUFICIENTE. ART. 42 DA LEI N. 11.343/2006. QUANTUM DE AUMENTO. DESPROPORCIONALIDADE. INOCORRÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. O refazimento da dosimetria da pena em habeas corpus tem caráter excepcional, somente sendo admitido quando se verificar de plano e sem a necessidade de incursão probatória, a existência de manifesta ilegalidade ou abuso de poder.
+2. A quantidade e natureza da droga justificam a exasperação da pena-base, nos termos do art. 42 da Lei n. 11.343/2006. No caso, o aumento de 1 ano na pena base, considerando a quantidade de drogas apreendidas (100g de crack), não se mostra desproporcional.
+3. Diferentemente do que alega o Agravante, apenas a quantidade de droga foi levada em consideração para a fixação da pena na primeira fase da dosimetria.
+4. Agravo Regimental no habeas corpus desprovido.(AgRg no HC n. 716.699/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 26/4/2022, DJe de 3/5/2022.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. DECISÃO MONOCRÁTICA. TRÁFICO DE DROGAS. DOSIMETRIA. EXASPERAÇÃO DA PENA-BASE COM FUNDAMENTO NA NATUREZA E QUANTIDADE DA DROGA (ART. 42, DA LEI N. 11.343/06). POSSIBILIDADE. INEXISTÊNCIA DE NOVOS ARGUMENTOS APTOS A DESCONSTITUIR A DECISÃO AGRAVADA. AGRAVO REGIMETNAL DESPROVIDO.
+I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos.
+II - No presente caso, as instâncias ordinárias, de forma motivada e fundamentada de acordo com o caso concreto, atento as diretrizes do art. 42 da Lei de Drogas e do art. 59, do Código Penal, consideraram mormente a natureza e a quantidade do entorpecentes (53g de crack), para exasperar a reprimenda-base, inexistindo, portanto, flagrante ilegalidade, a ser sanada pela via do writ.
+III - A toda evidência, o decisum agravado, ao confirmar o aresto impugnado, rechaçou as pretensões da defesa por meio de judiciosos argumentos, os quais encontram amparo na jurisprudência deste Sodalício.
+Agravo regimental desprovido.(AgRg no HC n. 694.072/SC, relator Ministro Jesuíno Rissato (Desembargador Convocado do Tjdft), Quinta Turma, julgado em 19/10/2021, DJe de 28/10/2021.)
+Não obstante, considerando-se a negativação do vetorculpabilidade e mesmo em face da quantidade e nocividade da droga apreendida (145g de crack), mostra-se desproporcional o aumento da pena-base em 4 anos na forma como procederamas instâncias de origem.
+Assim, mostra-se aconselhável aplicar o patamar de 1/6 sobre o mínimo legal para cada circunstância judicial negativa em obediência aos princípios da proporcionalidadee da individualização da pena, bem como ao comando dos arts. 42 da Lei n. 11.343/2006 e 59 do Código Penal.
+Passo, assim, ao redimensionamento das penas.
+Na primeira fasefixo a pena-base em 6 anos e 8meses de reclusão e 667dias-multa. Na segunda fase, mantém-se a majoração da pena pelo reconhecimento da agravante da reincidência, resultando a pena intermediária em 7 anos, 9meses e 10dias de reclusão, e 778dias-multa, a qual se torna definitiva na ausência de outras circunstâncias modificadoras.
+Ante o exposto, concedo em parte o habeas corpus para reduzir a pena do paciente a 7 anos, 9meses e 10dias de reclusão, além de 778dias-multa, mantidos os demais termos da condenação.
+Comunique-se.
+Publique-se.
+Intimem-se
