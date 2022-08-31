@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo interposto por BANCO DO BRASIL S. A. contra a decisão que inadmitiu o recurso especial.
+O apelo extremo, fundamentado no artigo 105, inciso III, alínea"a", da Constituição Federal, impugna acórdão proferido peloTribunal de Justiça do Estado de Minas Gerais assim ementado:
+"AGRAVO DE INSTRUMENTO - CUMPRIMENTO PROVISÓRIO DE SENTENÇA - AÇÃO CIVIL PÚBLICA - CÉDULA DE CRÉDITO RURAL - CHAMAMENTO AO PROCESSO - IMPOSSIBILIDADE - LITISCONSÓRCIO PASSIVO NECESSÁRIO -INEXISTÊNCIA - DESLOCAMENTO DOS AUTOS PARA A JUSTIÇA FEDERAL -IMPOSSIBILIDADE - SÚMULA 508, DO STJ - AUSÊNCIA DE HIPÓTESE DO ART. 109, DA CF/88 - MANUTENÇÃO DOS AUTOS NA JUSTIÇA ESTADUAL - APRESENTAÇÃO DE DOCUMENTOS ORIGINAIS EM PODER DO EXECUTADO - INTELIGÊNCIA DO ART. 524, §§4ºE 5º, D O CPC. O chamamento ao processo é um instrumento previsto no art.130 do CPC, colocado à disposição da parte devedora que, ao ser acionada judicialmente, de forma isolada, requer a inclusão dos demais devedores solidários na lide. Nos termos do art. 275, do CC, é facultado ao credor requerer o recebimento total do crédito devido somente de um dos devedores solidários, sendo que cabe ao devedor, posteriormente, sub-rogar-se nos direitos do credor e cobrara cota parte de cada devedor solidário não executado, em ação própria. Nos termos da Súmula 508, do STF, a Justiça Estadual é competente para apreciar as demandas propostas em face do Banco do Brasil S. A. Considerando a ausência de qualquer hipótese que atraia a competência da Justiça Federal para o julgamento da demanda (art.109 da CRFB/88), de rigor a manutenção dos autos na Justiça Estadual. Nos termos do art. 524, §§4º e 5º, do CPC, quando a complementação do demonstrativo de crédito depender de dados adicionais em poder do executado, o magistrado poderá requisitá-los, sob pena de considerar corretos os cálculos apresentados pela parte exequente, em caso de não cumprimento da determinação" (e-STJ fl. 510).
+No especial (e-STJ fls. 534/540), o recorrente alega violação do artigo130, III, do Código de Processo Civil/2015.
+Aduz que o réu tem o direito de chamar ao processo os codevedores.
+Sustenta que
+"(..) Interpretação diversa torna o artigo supérfluo, uma vez que desnecessária a existência de previsão para facultar ao réu promover a constituição processual de litisconsórcio passivo, posto que isso se trata de pressuposto processual cujo cumprimento compete ao autor" (e-STJ fls. 539/540).
+Ao final, requer o provimento do recurso para que o feito seja deslocado para a Justiça Federal a fim de que seja determinado o chamamento ao feito da União e do Banco Central.
+Sem as contrarrazões e inadmitido o recurso, sobreveio o presente agravo, no qual se busca o processamento do apelo nobre.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo recurso especial foi publicado em data anterior à publicação da Emenda Constitucional nº 125, não se aplicando ao caso o requisito de admissibilidade por ela inaugurado, ou seja, a demonstração da relevância das questões de direito federal infraconstitucional.
+A irresignação não merece prosperar.
+Consta dos autos que a presente liquidação de sentença foi apresentadaunicamente em desfavor do Banco do Brasil, sociedade de economia mista, motivo por que aJustiça Federal declinou da competência e remeteu os autos àJustiça Estadual.
+Irresignado, o recorrente alega a possibilidade de chamar ao feito os codevedores.
+Sobre o tema,a Corte de origem assim consignou:
+"(..)tendo em vista que o banco agravante foi condenado solidariamente junto a União e o Banco Central do Brasil ao pagamento das diferenças apuradas na Ação Civil Pública, cabe ao credor, deliberar se quer cobrar dívida apenas de um devedor solidário, ou, ainda, de todos em conjunto. Nesse sentido é o que dispõe o art. 275 do CC (..)
+Desse modo, consoante a faculdade prevista no artigo supracitado, pode o credor, ora exequente, requerer o recebimento total do crédito devido somente de um dos devedores solidários, cabendo, posteriormente, ao devedor sub-rogar-se nos direitos do credor e cobrar a cota parte de cada devedor solidário não executado em ação própria" (e-STJ fls. 523/524).
+Não há reparo a fazer a tal entendimento, porquantono que diz respeito ao litisconsórcio passivo necessário, o entendimento desta Corte Superior é no sentido de que a solidariedade obrigacional não tem comoconsequência a exigibilidade da obrigação em litisconsórcio passivo necessário.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. AGRAVO DE INSTRUMENTO. SUSPENSÃO DO PROCESSO. AFASTAMENTO. VIOLAÇÃO AO ART 1.022 DO NCPC. NÃO OCORRÊNCIA. COMPETÊNCIA DA JUSTIÇA ESTADUAL PARA O JULGAMENTO DA EXECUÇÃO INDIVIDUAL DE SENTENÇA COLETIVA. DEMANDA DIRIGIDA EXCLUSIVAMENTE EM FACE DO BANCO DO BRASIL S/A. CHAMAMENTO AO PROCESSO. DESCABIMENTO. OBRIGAÇÃO SOLIDÁRIA PASSIVA. CREDOR PODE REQUERER O CUMPRIMENTO DA PRESTAÇÃO DE QUALQUER DOS DEVEDORES. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL DESPROVIDO.
+(..)
+3. A jurisprudência do Superior Tribunal de Justiça é no sentido de que compete à Justiça Estadual o processamento do feito ajuizado em face de sociedade de economia mista e, ainda, a possibilidade de o credor escolher cobrar a condenação de quaisquer dos devedores solidários.
+4. O entendimento adotado no acórdão recorrido coincide com a jurisprudência assente desta Corte Superior, circunstância que atrai a incidência da Súmula 83/STJ.
+5. Agravo interno provido para reconsiderar a decisão agravada e, em novo exame, conhecer do agravo para negar provimento ao recurso especial"(AgInt no AREsp n. 1.898.289/RS, relator Ministro Raul Araújo, Quarta Turma, julgado em 13/12/2021, DJe de 17/12/2021.)
+"AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL C/C RESTITUIÇÃO DE VALORES. COMPRA E VENDA DE VEÍCULO. DENUNCIAÇÃO DA LIDE. AUSÊNCIA DE ACEITAÇÃO PELO DENUNCIADO. INEXISTÊNCIA DE LITISCONSÓRCIO PASSIVO. INAPLICÁVEL O PRAZO EM DOBRO PREVISTO NO ART. 191 DO CPC/1973. AGRAVO DESPROVIDO.
+1. Tendo o acórdão recorrido decidido em consonância com a jurisprudência desta Casa, incide, na hipótese, o enunciado n. 83 da Súmula do Superior Tribunal de Justiça.
+2. Nos termos da jurisprudência sedimentada por esta Corte Superior, no julgamento do Recurso Especial repetitivo n. 1.145.146/RS (Primeira Seção, Relator Ministro Luiz Fux, julgado em 9/12/2009, DJe 1º/2/2010), "a solidariedade obrigacional não importa em exigibilidade da obrigação em litisconsórcio necessário (art. 47 do CPC)".
+3. Agravo interno desprovido" (AgInt no REsp 1.743.193/MG, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 24/9/2018, DJe de 27/9/2018.)
+Assim, verifica-se que a Corte estadual se alinhou ao posicionamento deste Tribunal Superior, de modo que se aplica a Súmula nº 568/STJ à hipótese.
+Ante o exposto, conheço do agravo para negarprovimento ao recurso especial.
+Deixa-se de tratar dos honorários recursais (art. 85, § 11, do CPC/2015), tendo em vista que o recurso especial ao qual se negou provimento é oriundo de acórdão proferido por ocasião de julgamento de agravo de instrumento, sem fixação de honorários sucumbenciais.
+Publique-se.
+Intimem-se.
