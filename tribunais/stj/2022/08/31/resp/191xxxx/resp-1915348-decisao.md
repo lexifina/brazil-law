@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto por HENDERSON ROCHA CARDOZO, contra acórdão Tribunal Regional Federal da 3ª Região, assim ementado:
+"DIREITO PREVIDENCIÁRIO. PRELIMINAR CERCEAMENTO DE DEFESA.
+REJEITADA. APOSENTADORIA ESPECIAL. TRABALHO ESPECIAL PARCIALMENTE RECONHECIDO. REQUISITOS LEGAIS NÃO PREENCHIDOS.
+I. A Lei nº 8.213/91 preconiza, no art. 57, que o benefício previdenciário da aposentadoria especial será devido, uma vez cumprida a carência exigida, ao segurado que tiver trabalhado sujeito a condições especiais que prejudiquem a saúde ou a integridade física, durante 15 (quinze), 20 (vinte) ou 25 (vinte e cinco) anos, conforme dispuser a lei.
+II. Tempo de serviço especial parcialmente reconhecido.
+III. A somatória do tempo de serviço laborado pela parte autora não autoriza a concessão do benefício pleiteado, ante o não preenchimento dos requisitos legais.
+IV. Condenação equitativa ao pagamento de honorários advocatícios, conforme a sucumbência recursal das partes.
+V. Matéria preliminar rejeitada, apelação do autor improvida e apelo do INSS parcialmente provido" (fl. 872e).
+Opostos Embargos de Declaração (fls. 879/887e), restaram rejeitados, nos termos da seguinte ementa:
+"PREVIDENCIÁRIO. APOSENTADORIA ESPECIAL. EMBARGOS DE DECLARAÇÃO. OBSCURIDADE, CONTRADIÇÃO E OMISSÃO NÃO CARACTERIZADAS. EFEITO INFRINGENTE.
+1 - Inexistência de obscuridade, contradição ou omissão na decisão embargada.
+2 - Inadmissibilidade de reexame da causa por meio de embargos de declaração para conformar o julgado ao entendimento da parte embargante. Caráter nitidamente infringente.
+3 - Embargos de declaração rejeitados" (fl. 1.022e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, ae c, da Constituição Federal, a parte ora recorrente aponta, além de divergência jurisprudencial,violação aos arts. 369 doCPC/2015, 1º, 55, §3º, 57 da Lei 8.213/91, alegando, em síntese, que, "no caso dos autos, a análise das provas emprestadas, assim a possibilidade da produção de prova testemunhal, depoimento pessoal e prova pericial foram suprimidos, negando ao Recorrente um direito constitucional"(fl. 1.031e). No seu entendimento, "as provas emprestadas na presente demanda comprovam de forma técnica e exaustiva, que dada a natureza especial da atividade do Recorrente, caracterizada pela insalubridade, o seu tempo de trabalho deverá ser reduzido para 25 anos de serviço, uma vez que exercia seu labor de forma habitual e permanente, exposto a agentes nocivos, em níveis além da tolerância legal, sem a utilização de EPI e em face de EPC inexistentes" (fl. 1.032e).
+Por fim, requer o provimento do recurso.
+Não foram apresentadas as contrarrazões.
+O Recurso Especial foi admitido pelo Tribunal de origem (fls. 1.046/1.048e).
+A irresignação não merece acolhimento.
+Inicialmente, do simples cotejo entre as razões do Recurso Especial e os fundamentos do acórdão recorrido, observa-se que a tese recursal relativa à possibilidade de utilização de provas emprestadas para a resolução do caso concreto,sequer implicitamente, foi apreciada pelo Tribunal de origem, não obstante terem sido opostos Embargos de Declaração, para tal fim.
+Por essa razão, à falta do indispensável prequestionamento, não pode ser conhecido o Recurso Especial, no ponto, incidindo o teor da Súmula 211 do STJ, segundo a qual é "inadmissível recurso especial quanto à questão que, a despeito da oposição dos embargos declaratórios, não foi apreciado pelo Tribunal a quo".
+Para que se configure o prequestionamento, não basta que o recorrente devolva a questão controvertida para o Tribunal. É necessário que a causa tenha sido decidida à luz da legislação federal indicada, bem como seja exercido juízo de valor sobre os dispositivos legais indicados e a tese recursal a eles vinculada, interpretando-se a sua aplicação ou não, ao caso concreto.
+Acrescente-se que, se a parte recorrente entendesse persistir algum vício no acórdão impugnado, imprescindível a alegação de violação ao art. 1.022, do CPC/2015, por ocasião da interposição do Recurso Especial, sob pena de incidir no intransponível óbice da ausência de prequestionamento
+Outrossim, para a adoção do denominado prequestionamento ficto, previsto no art. 1.025, do CPC/2015 - segundo o qual a oposição dos Embargos de Declaração seria suficiente ao suprimento do requisito do prequestionamento - faz-se necessária, além da invocação da questão, por ocasião dos Embargos de Declaração, opostos contra o acórdão do Tribunal de origem, que a Corte superior considere a existência de erro, omissão, contradição ou obscuridade no referido decisum, em razão da alegação de contrariedade ao art. 1.022 do CPC/2015, nas razões do Recurso Especial.
+Sobre o tema, confira-se o seguinte precedente do STJ:
+"CIVIL. PROCESSUAL CIVIL. RECURSO ESPECIAL. INVENTÁRIO. - LIQUIDAÇÃO PARCIAL DE SOCIEDADE LIMITADA. PARTICIPAÇÃO NOS LUCROS PROPORCIONAIS ÀS COTAS INVENTARIADAS - HERDEIROS SÓCIOS EM CONDOMÍNIO - CABIMENTO - PRESCRIÇÃO DO DIREITO - NÃO OCORRÊNCIA.
+01. Inviável o recurso especial na parte em que a insurgência recursal não estiver calcada em violação a dispositivo de lei, ou em dissídio jurisprudencial.
+02. Avaliar o alcance da quitação dada pelos recorridos e o que se apurou a título de patrimônio líquido da empresa, são matérias insuscetíveis de apreciação na via estreita do recurso especial, ante o óbice da Súmula 7/STJ.
+03. Inviável a análise de violação de dispositivos de lei não prequestionados na origem, apesar da interposição de embargos de declaração.
+04. A admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei.
+05. O pedido de abertura de inventário interrompe o curso do prazo prescricional para todas as pendengas entre meeiro, herdeiros e/ou legatários que exijam a definição de titularidade sobre parte do patrimônio inventariado.
+06. Recurso especial não provido" (STJ, REsp 1.639.314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe de 10/04/2017).
+Destaco, ainda, que, nos termos do art. 1.029, § 1º, do CPC/2015, e do art. 255, § 1º, do RISTJ, a divergência jurisprudencial, com fundamento na alínea c do permissivo constitucional, exige comprovação e demonstração, em qualquer caso, com a transcrição dos trechos dos acórdãos que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações, providência não realizada na hipótese.
+A propósito, confira-se:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VIOLAÇÃO. INEXISTÊNCIA. RECONHECIMENTO DE CONEXÃO ENTRE AÇÃO INDENIZATÓRIA INDIVIDUAL E AÇÃO COLETIVA. REEXAME DE FATOS. SÚMULA Nº 7/STJ. DISSÍDIO. AUSÊNCIA DE DEMONSTRAÇÃO.
+(..)
+3. A divergência jurisprudencial, nos termos do art. 1.029, § 1º, do Código de Processo Civil de 2015 e do art. 255, § 1º, do RISTJ, exige comprovação e demonstração, esta, em qualquer caso, com a transcrição dos julgados que configurem o dissídio, a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações, o que não restou evidenciado na espécie.
+4. Agravo interno não provido" (STJ, AgInt no REsp 1620860/RO, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe de 01/03/2017).
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do Recurso Especial.
+Em atenção ao disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já arbitrado, levando-se em consideração o trabalho adicional imposto ao advogado da parte recorrida, em virtude da interposição deste recurso, respeitados os limites estabelecidos nos §§ 2º e 3º do art. 85 do CPC/2015.
+Ressalte-se que, em caso de reconhecimento do direito à gratuidade de justiça, permanece suspensa a exigibilidade das obrigações decorrentes de sua sucumbência, nos termos do § 3º do art. 98 do CPC/2015.
+I.
