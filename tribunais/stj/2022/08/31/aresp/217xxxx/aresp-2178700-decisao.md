@@ -1,0 +1,52 @@
+DECISÃO
+Da leitura da minuta do agravo de instrumento que deu origem ao presente recurso, pode-se aferir que COOPERATIVA AGROPECUÁRIA DO VALE DO PARACATU LTDA. (COOPERATIVA)ingressou com ação de execução de título judicial - sentença proferida em ação monitória - contra SUPERSÃOJOÃO PRODUTOS ALIMENTÍCIOS LTDA. - MICROEMPRESA (SUPERSÃOJOÃO), indicando como devido o valor originário de R$ 3.551,01(três mil, quinhentos e cinquenta e um reais e um centavo).
+No curso da ação, o Juízo da causa rejeitou a impugnação oferecida por SUPERSÃOJOÃO, tendo sido a decisão objeto de agravo de instrumento, sob a alegação de que a execução não foi instruída em consonância com o que dispõe o art. 524 do NCPC.
+O Tribunal de Justiça do Distrito Federal e dos Territóriosnegou provimento ao recurso, nos termos do acórdão assim ementado:
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. REJEIÇÃO. REQUISITOS DO ART. 524 DO CPC. PREENCHIMENTO. RECURSO DESPROVIDO. AGRAVO INTERNO PREJUDICADO.
+1. Agravo de instrumento contra decisão que rejeitou a impugnação ao cumprimento de sentença pela qual os executados alegaram a ausência dos requisitos mínimos necessários para o início da fase executiva.
+2. O art. 524 do CPC dispõe que o requerimento de cumprimento de sentença será instruído com o demonstrativo discriminado e atualizado do crédito, devendo a petição conter: "I - o nome completo, o número de inscrição no Cadastro de Pessoas Físicas ou no Cadastro Nacional da Pessoa Jurídica do exequente e do executado, observado o disposto no art. 319, §§ 1º a 3º; II - o índice de correção monetária adotado; III - os juros aplicados e as respectivas taxas; IV - o termo inicial e o termo final dos juros e da correção monetária utilizados; V - a periodicidade da capitalização dos juros, se for o caso; VI - especificação dos eventuais descontos obrigatórios realizados; VII - indicação dos bens passíveis de penhora, sempre que possível".
+3. O exequente observou essas diretrizes, eis que a qualificação das partes já estava explicitada nos autos, o índice de correção monetária e os juros aplicados, assim como os respectivos termos inicial e final, foram informados no demonstrativo de cálculos, e a indicação de bens passíveis de penhora deve ser realizada apenas se possível.
+4. Agravo de instrumento desprovido. 4.1. Agravo interno prejudicado (e-STJ, fls. 624/625).
+Os embargos de declaração opostos por SUPERSÃOJOÃOforam rejeitados.
+Inconformado, SUPERSÃOJOÃOinterpôsrecurso especial com base no art. 105, III, alínea a, da CF, alegando a violação dos arts. 11, 489, § 1º, IV e VI,524, I, II, e VII, e 1.022, II,do NCPC, ao sustentar, em síntese, (1) ausência de fundamentação eomissão do acórdão recorrido acerca das questões suscitadasem embargos de declaração; e (2) que o cumprimento de sentença não foi instruído com o demonstrativo discriminado e atualizado do crédito, notadamente, no que se refere à qualificação das partes, ao índice de correção monetária utilizado no cálculo e à indicação dos bens passíveis de penhora.
+O recurso não foi admitido pelo Tribunal de Justiça do Distrito Federal e dos Territórios (e-STJ, fls. 656/657).
+Nas razões do presente agravo, SUPERSÃOJOÃOalegou que não incidem os óbices apontados na decisão de inadmissibilidade.
+Não foi apresentada contraminuta.
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que não merece prosperar.
+(1) Da violação aos arts. 11, 489,§ 1º, IV e VI, e 1.022, II, do NCPC
+Nas razões do recurso especial, SUPERSÃOJOÃO alegou ausência de fundamentação e omissão do acórdão recorrido acerca das questões suscitadas em embargos de declaração
+Contudo, não houve a indicação das teses omitidas, em evidente alegação genérica de contrariedade aos referidos dispositivos.
+Nestes casos, ante a deficiente fundamentação do recurso, incide a Súmula nº 284 do STF, por analogia: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Esse é o entendimento desta Corte, confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALEGAÇÃO GENÉRICA DE VIOLAÇÃO AO ART. 1.022 DO CPC/2015. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. DANOS MORAIS. VALOR DA INDENIZAÇÃO. QUANTIA FIXADA DENTRO DOS PADRÕES DE RAZOABILIDADE E PROPORCIONALIDADE. SÚMULA 7/STJ. FALTA DE IMPUGNAÇÃO DE FUNDAMENTO SUFICIENTE À MANUTENÇÃO DO JULGADO. SÚMULA 283/STF. PEDIDO DE NOVA CONDENAÇÃO AO PAGAMENTO DE HONORÁRIOS RECURSAIS. IMPOSSIBILIDADE. VERBA JÁ CONTEMPLADA NA DECISÃO MONOCRÁTICA. AGRAVO INTERNO DESPROVIDO.
+1. É deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 1.022 do Código de Processo Civil de 2015 se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão foi omisso, contraditório ou obscuro. Aplica-se, na hipótese, o óbice da Súmula 284 do STF.
+2. A alteração das conclusões adotadas pela Corte de origem quanto à ocorrência de responsabilidade civil apta a gerar danos morais indenizáveis, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto no enunciado sumular n. 7/STJ.
+3. O valor fixado a título de indenização por danos morais pelas instâncias ordinárias, nos termos da jurisprudência deste Tribunal, pode ser revisto tão somente nas hipóteses em que a condenação se revelar irrisória ou exorbitante, distanciando-se dos padrões de proporcionalidade e de razoabilidade, os quais não se evidenciam no presente caso, de modo que a sua revisão também encontra óbice na Súmula 7 do STJ.
+4. Consoante entendimento do STJ, "a ausência de impugnação de um fundamento suficiente do acórdão recorrido enseja o não conhecimento do recurso, incidindo o enunciado da Súmula nº 283 do Supremo Tribunal Federal" (AgInt no AREsp 842.261/SP, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 27/2/2018, DJe 08/03/2018).
+5. Fixados os honorários recursais no primeiro ato decisório, não cabe novo arbitramento nas demais decisões que derivarem de recursos subsequentes, apenas consectários do principal, tais como agravo interno e embargos de declaração.6. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1594388/PE, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, DJe 1º/9/2020 - sem destaque no original)
+Não se conhece, portanto, da alegada negativa da prestação jurisdicional.
+(2) Da inobservância dos requisitos do art. 524, I, II e VII, do NCPC
+Por sua vez,SUPERSÃOJOÃO sustentou que o cumprimento de sentença não foi instruído com o demonstrativo discriminado e atualizado do crédito, notadamente, no que se refere à qualificação das partes, ao índice de correção monetária utilizado no cálculo e à indicação dos bens passíveis de penhora.
+Sobre o tema, ao negar provimento ao agravo de instrumento interposto pelo ora insurgente, confirmando os termos da sentença que rejeitou a impugnação,o TJDFT assim se pronunciou:
+Inicialmente, verifica-se que os requisitos suscitados na impugnação não estão em consonância com o rol estabelecido no artigo 525 do CPC. Desse modo, resta claro que as matérias que autorizam a impugnação ao cumprimento de sentença não estão presentes na petição ora apreciada.
+Ademais, é de se notar que a qualificação das partes já constavanestes autos, sendo, portanto, prescindível a determinação de emenda.
+No que concerne ao índice de correção monetária, observo que o referido dado consta no demonstrativo de cálculos de ID 96174746.
+Por fim, a indicação de bens passíveis de penhora deve ser realizada, tão somente, se possível conforme expresso no artigo 524, VII,do CPC.
+Desse modo, não há qualquer vício que impeça o prosseguimento deste cumprimento de sentença (e-STJ, fl. 626).
+Sob esse prisma, verifica-se que a revisão do julgado, com o consequente acolhimento da pretensão recursal, não prescindiria do reexame do acervo fático-probatório da causa, o que não se admite em âmbito de recurso especial, ante o óbice da Súmula nº 7 do STJ.
+Sobre o tema:
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.AGRAVO DE INSTRUMENTO.CUMPRIMENTO DE SENTENÇA.AÇÃO INDENIZATÓRIA. EXCESSO DE EXECUÇÃO. REVISÃO DE CÁLCULOS. MATÉRIA QUE DEMANDAREEXAMEDE FATOS E PROVAS. SUMULA 7 DO STJ. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. As questões referentes aos arts. 85, §9º e 478 do Código de Processo Civil e 884 do Código Civil, não foram objeto de debate no acórdão impugnado, não obstante a oposição dos embargos de declaração na origem. Para que se configure o prequestionamento, é necessário que o Tribunal a quo se pronuncie especificamente sobre a matéria articulada pelo recorrente, emitindo juízo de valor em relação aos dispositivos legais indicados e examinando a sua aplicação ou não ao caso concreto Desatendido orequisitodo prequestionamento, incide, no caso, a Súmula 211/STJ.
+2. As conclusões do acórdão recorrido no tocante à manutenção da decisão que rejeitou aimpugnaçãoao cálculo apresentado, em observância ao titulo executivo judicial, estão amparadas no exame de elementos fático - probatórios dos autos, e sua revisão é vedada em sede de recurso especial, em razão do óbice da Súmula 7 do STJ.
+3. Agravo interno não provido.
+(AgInt no AgInt no AREsp 1.859.762/SP, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, j. 25/10/2021, DJe 28/10/2021).
+Nessas condições, CONHEÇO do agravo para CONHECER EM PARTE do recurso especial, NEGANDO-LHE PROVIMENTO.
+Inaplicável ao caso a majoração de honorários advocatícios.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. EXECUÇÃO DE TÍTULO JUDICIAL.(1) VIOLAÇÃO DOS ARTS. 11, 489 E 1.022 DO NCPC. ALEGAÇÕES GENÉRICAS. INCIDÊNCIA DA SÚMULA Nº 284 DO STF, POR ANALOGIA.(2) IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA QUE FOI REJEITADA. REEXAME DE PROVAS. DESCABIMENTO. SÚMULA Nº 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E NÃO PROVIDO.
