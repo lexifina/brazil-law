@@ -1,0 +1,52 @@
+DECISÃO
+Cuida-se de agravo interno, interposto por UNIMED SÃO JOSÉ DOS CAMPOS - COOPERATIVA DE TRABALHO MÉDICO, contra decisão monocrática, da lavra do Ministro Presidente do STJ (fls. 597-599 e-STJ), que não conheceu do agravo (art. 1.042 do CPC/15), por meio do qual a parte ora insurgente pretendia ver admitido o recurso especial.
+Pois bem. O apelo nobre, fundamentado no art. 105, inciso III, alínea "a", da Constituição Federal, foi interposto em desafio a acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fls. 495 e-STJ):
+APELAÇÃO CÍVEL. PLANO DE SAÚDE. OBRIGAÇÃO DE FAZER E DE NÃO FAZER CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. APELO DAS RÉS. ILEGITIMIDADE PASSIVA COOPERATIVAS UNIMED INTEGRANTES DA MESMA REDE DE INTERCÂMBIO. PRELIMINAR REJEITADA. NEGATIVA DE COBERTURA DE EXAME PET-SCAN. ALEGAÇÃO DE INCONSTÂNCIA NA COMUNICAÇÃO ENTRE OS ESTABELECIMENTOS. INADMISSIBILIDADE. OBRIGAÇÃO DE CUSTEIO. INTELIGÊNCIA DA SÚMULA 96 DO TJSP. RECURSOS NÃO PROVIDOS.
+1. A Operadora do Plano de Saúde que integra a mesma rede de intercâmbio daquela contratada pelo consumidor é parte legítima para responder pelo custeio do tratamento necessário a este, especialmente se ele acontece na sua área de abrangência.
+2. É inadmissível a negativa de cobertura de exame sob a alegação de inconstância na comunicação entre os estabelecimentos prestadores de serviços, sobretudo quando existe prescrição médica indicando-o. Súmula 96 do TJSP. Precedentes deste E. Tribunal.
+Opostos embargos de declaração (fls. 525-529 e-STJ), esses foram rejeitados (fls. 530-532 e-STJ).
+Em suas razões de recurso especial (fls. 538-550 e-STJ), a recorrente aponta que o acórdão recorrido violou os artigos 265, 421, 422 do Código Civil; 4º, inc. III, 51, inc. IV, do Código de Defesa do Consumidor; 10 da Lei n.º 9.656/98; e 4º, inc. III, da Lei nº 9.961/00; 6º, incs. I e II, da Lei nº 5.764/71, sustentando, em suma, que não houve negativa de cobertura no caso dos autos, visto que a Central Nacional Unimed e Unimed São José dos Campos são singulares e independentes entre si, não havendo nexo causal entre suas condutas, o que exclui a responsabilidade da recorrente.
+Sem contrarrazões.
+Em sede de juízo provisório de admissibilidade (fls. 566-567 e-STJ), o Tribunal de origem inadmitiu o recurso especial, sob os seguintes fundamentos: a) não ficou demostrada a alegada vulneração aos dispositivos legais arrolados; e b) aplicação do óbice da Súmula 7 do STJ.
+Daí o agravo (fls. 570-587 e-STJ), buscando destrancar o processamento daquela insurgência, no qual a parte insurgente refuta os óbices aplicados pela Corte estadual.
+Sem contraminuta.
+Em juízo monocrático (fls. 597-599 e-STJ), o Ministro Presidente do STJ não conheceu do agravo, por ofensa ao princípio da dialeticidade.
+Daí o presente agravo interno (fls. 602-609 e-STJ), no qual a parte agravante sustenta a inaplicabilidade do referido óbice.
+Sem impugnação.
+É o relatório. Decide-se.
+Ante as razões expendidas, reconsidera-se a decisão de fls. 597-599 e-STJ, porquanto verificada a efetiva impugnação ao fundamento da decisão da inadmissibilidade a quo, passando-se a nova análise do reclamo.
+1. De início, com relação à apontada violação aos arts. 421, 422 do Código Civil; 4º, inc. III, 51, inc. IV, do Código de Defesa do Consumidor; 10 da Lei n.º 9.656/98; e 4º, inc. III, da Lei nº 9.961/00, observa-se que a parte agravante alega genericamente violação aos dispositivos citados sem apresentar fundamentação que guarde correlação com a norma supostamente violada, bem como sem demonstrar, de forma clara e precisa, de que modo o acórdão recorrido a teria contrariado.
+Com efeito, a alegação de ofensa à lei federal pressupõe a realização do cotejo entre o conteúdo preceituado na norma e os argumentos aduzidos nas razões recursais, de maneira a demonstrar a devida correlação jurídica entre o fato e o mandamento legal.
+Nesse sentido, a simples alusão a dispositivos, desacompanhada da necessária argumentação que sustente a alegada ofensa à lei federal, não se mostra suficiente para o conhecimento do recurso especial. Incide, no ponto, o disposto na Súmula 284/STF, que se aplica por analogia.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. ARTIGO 35-G DA LEI Nº 9.656/1998. SÚMULA Nº 284/STF. HOME CARE. RECUSA. SÚMULA Nº 7/STJ. DANO MORAL. INDENIZAÇÃO. REVISÃO.
+ ..
+2. É inadmissível o inconformismo por deficiência na fundamentação quando o recurso especial não indica, de modo preciso, de que forma o dispositivo legal foi infringido. Incidência da Súmula nº 284/STF.
+ ..
+5. Agravo interno não provido.
+(AgInt no AREsp 1264572/PE, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 14/08/2018, DJe 24/08/2018)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS DECLARATÓRIOS. AUSÊNCIA DE VÍCIO. MATÉRIA CONSTITUCIONAL. PREQUESTIONAMENTO. AÇÃO CIVIL PÚBLICA. ASSOCIAÇÃO. LEGITIMIDADE ATIVA. INTERESSE DE AGIR REEXAME DO CONTRATO E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DAS SUMULAS N. 5 E 7 DO STJ. PERCENTUAL DE RETENÇÃO. RESCISÃO DE COMPROMISSO DE COMPRA E VENDA. ENTENDIMENTO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. JUROS DE MORA. TERMO INICIAL. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. DECISÃO MANTIDA.
+ ..
+3. A simples indicação dos dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor das Súmulas n. 282 e 356 do STF.
+4. A deficiência na fundamentação do recurso, de modo a impedir a compreensão da suposta ofensa ao dispositivo legal invocado, obsta o conhecimento do recurso especial (Súmula n. 284/STF).
+ ..
+9. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1202430/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 26/06/2018, DJe 29/06/2018)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. INOVAÇÃO RECURSAL. INADMISSIBILIDADE. MATÉRIA CONSTITUCIONAL. VIA IMPRÓPRIA. NULIDADE. AUSÊNCIA DE PREJUÍZO. PAS DE NULLITÉ SANS GRIEF. REEXAME DE PROVAS. REVISÃO DE CLÁUSULA CONTRATUAL. SÚMULAS N. 5 E 7 DO STJ. DEFICIÊNCIA DE FUNDAMENTAÇÃO RECURSAL. SÚMULA N. 84/STF. DECISÃO MANTIDA.
+ ..
+6. Se a tese apresentada nas razões do especial não tiver relação com os dispositivos apontados como violados, é inafastável a incidência da Súmula n. 284/STF, por deficiência de fundamentação recursal.
+7. Agravo regimental improvido.
+(AgRg no REsp 1358635/ES, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 17/09/2015, DJe 24/09/2015)
+2. Por outro lado, no tocante à alegada contrariedade aos arts. 265 do Código Civil; e 6º, incs. I e II, da Lei nº 5.764/71, incide, na espécie, o óbice da Súmula 211/STJ, ante a ausência de prequestionamento da matéria, porquanto, mesmo após o julgamento dos embargos de declaração, a questão relativa à ausência de solidariedade entre a Central Nacional Unimed e a Unimed São José dos Camposnão teveo competente juízo de valor aferido, nem interpretada ou a sua aplicabilidade afastada ao caso concreto pelo Tribunal de origem.
+Para que se configure o prequestionamento da matéria, há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos como violados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal.
+Nas razões do especial deixou a insurgente de apontar eventual violação do artigo 1.022 do CPC/15, razão pela qual incide, na espécie, a Súmula 211 desta Corte, de seguinte teor: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+3. Por fim, observa-se que a revisão acerca da existência da indevida negativa de cobertura de procedimento médico no caso dos autos, demandaria o reexame das provas dos autos, juízo obstado pela Súmula 7 do STJ. Confira-se, a propósito, a fundamentação do acórdão recorrido (fls. 499-502 e-STJ):
+De fato. Reconhecida a abusividade da negativa da cobertura, era mesmo de rigor a condenação das apelantes ao custeio do exame pleiteado na inicial e também do tratamento médico indicado, decorrente da enfermidade do autor (págs. 19, 68/69, 367, 369).
+Ocorre que, além de ser incontroversa a existência de contrato entre o apelado e a Unimed São José dos Campos (pág. 18) e estar evidente que a Central Nacional Unimed integra a mesma rede de intercâmbio, tanto que figura como contratada na autorização dos procedimentos (pág. 215). restou demonstrado que o recorrido é portador de Neoplasia Maligna com diagnóstico de sarcoma pleomórfico de mandíbula comprovado por biópsia (pág. 19/21) e que necessita do exame de Cintilografia de Corpo Inteiro com 18 - FDG (PET - SC AN), conforme indicação médica.
+Apesar de a corré Unimed São José dos Campos alegar que não houve negativa de utilização do Hospital A. C. Camargo para o procedimento solicitado, afirmando que teria havido, apenas, uma inconstância na comunicação entre os estabelecimentos envolvidos, os e-mails acostados aos autos (págs. 29/54) demonstram que houve cancelamento do exame pela Central Nacional Unimed (pág. 41). Dessa forma, ainda que o exame tenha sido autorizado posteriormente, restou evidente que, em um primeiro momento, houve sim a negativa.
+A propósito, a alegação de inconstância na comunicação entre os estabelecimentos envolvidos não tem o condão de excluir a responsabilidade das apelantes. Pelo contrário, ela comprova que o serviço foi defeituoso, na medida em que não forneceu a segurança que o consumidor esperava.
+Ademais, as prestadoras de serviço não podem, quando existe expressa indicação médica, negar-se a cobrir o tratamento em razão de falhas internas. (..).
+Enfim, a vigência do contrato restou incontroversa e não há nos autos prova que justifique a recusa de cobertura do exame e do tratamento do paciente.
+4. Do exposto, reconsidera-se a decisão de fls. 597-599 e-STJ e, com amparo no artigo 932 do CPC/15 c/c a Súmula 568/STJ, nega-se provimento ao agravo em recurso especial e, com base no art. 85, § 11, do CPC/2015, majora-se os honorários sucumbenciais em 10% (dez por cento), incidentes sobre o valor já arbitrado pela origem, em favor da parte recorrida.
+Publique-se.
+Intimem-se.
