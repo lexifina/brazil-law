@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo interposto por ANTONIO FIGUEIREDO RUSSO eMARIA ROSA GOMES RUSSO,contra a decisão que inadmitiu o recurso especial. O apelo extremo fundamentado no art. 105, inciso III, alínea"a", da Constituição Federal desafia o acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+"REINTEGRAÇÃO DE POSSE. Medida liminar. Indeferimento. Esbulho alegadamente praticado há menos de ano e dia. Pleito de imediata reintegração dos autores na posse do imóvel litigioso. Descabimento. Circunstâncias fáticas que recomendam que se aguarde a dilação probatória. Possibilidade, no entanto, de reapreciação da questão em etapa processual mais adiantada.
+Decisão mantida. Recurso improvido. Dispositivo: negaram provimento ao recurso"(fl. 52, e-STJ).
+Os embargos de declaração opostos foram rejeitados.
+No especial, osrecorrente apontam violação do art. 561 do Código de Processo Civil de 2015, aduzindo que coprovaram a posse do imóvel, sendo que o esbulho praticado ocorreu a menos de um ano e dia.
+Aduzem por fim, que não se justifica o indefermento da liminar pleiteada, visto que as provas dos autos se mostram totalmente contrárias.
+Postulam ao final, a reforma do acórdão atacado, para deferir a liminar de reintegração de posse.
+Com as contrarrazões e inadmitido o recurso na origem, sobreveio o presente agravo, no qual se busca o processamento do apelo nobre.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo presente recurso especial foi publicado em data anterior à publicação da Emenda Constitucional nº 125, não se aplicando ao caso o requisito de admissibilidade por ela inaugurado, ou seja, a demonstração da relevância da questão de direito federal infraconstitucional.
+A irresignação não merece prosperar.
+Com efeito,verifica-se que aCorte estadual indeferiu opedido de liminar de reintegração de posse, sob os seguintes fundamentos:
+"(..)como bem salientou o magistrado, a prova documental produzida pelos autores não é mesmo bastante para demonstrar que o esbulho tenha ocorrido a menos de ano e dia; aliás, ainda que assim não fosse, consoante se dessume do exame dos autos, os próprios agravantes admitiram que a posse do imóvel já havia sido transferida para o espólio de Zenaide Dias Azeredo, em meados de abril de 2019, de sorte que, ao que tudo indica, sequer exerciam os autores a posse direta ou indireta sobre o imóvel litigioso no momento em que verificado o questionado esbulho possessório.
+Assim, faz-se prudente no caso que se aguarde a dilação probatória para a completa elucidação da questão posta em juízo, ausente, nesta fase processual, pressuposto mínimo imprescindível à concessão de liminar voltada à imediata reintegração dos autores na posse do bem imóvel objeto do litígio, conquanto se ressalve a possibilidade de que a questão volte a ser examinada em etapa mais adiantada do feito, quando reunidos nos autos elementos de convicção mais concretos, sob a forma de tutela de urgência"(fls. 52-53, e-STJ).
+Dessa forma, a alteração das premissas estabelecidas no acórdão recorridoimplicaria necessariamente o reexame fático-probatório, procedimentovedado na via do recurso especialpor força do disposto na Súmula nº7/STJ.
+Ademais, esta Corte Superiorentende não ser cabível recurso especial quanto à alegação de ofensa adispositivos de lei relacionados com a matéria de mérito da causa que, emliminar ou antecipação de tutela, é tratada apenas sob juízo precário demera verossimilhança, porquanto tal matériasomente haverá causa decididaem única ou última instância com o julgamento definitivo, atraindo,analogicamente, o enunciado da Súmula nº735/STF: "Não cabe recursoextraordinário contra acórdão que defere medida liminar"(REsp 765.375/MA,Rel. Ministro Teori Albino Zavascki, Primeira Turma, julgado em 6/4/2006,DJ 8/5/2006).
+Sobre o tema:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.DECISÃO DA PRESIDÊNCIA DO STJ. SÚMULA N. 182 DO STJ. RECONSIDERAÇÃO.RECUPERAÇÃO JUDICIAL. CRÉDITOS. SUSPENSÃO. PREQUESTIONAMENTO.AUSÊNCIA. MEDIDA LIMINAR. SÚMULA N. 735/STF. AGRAVO INTERNO PROVIDO.AGRAVO EM RECURSO ESPECIAL DESPROVIDO.
+1. A ausência do exame da matéria pelo Tribunal de origem obsta o conhecimento do recurso especial, por falta de prequestionamento, incidindo a Súmula n. 211/STJ.
+2. É "incabível, via de regra, o recurso especial que postula o reexame do deferimento ou indeferimento de medida acautelatória ou antecipatória, ante a natureza precária e provisória do juízo de mérito desenvolvido em liminar ou tutela antecipada, cuja reversão, a qualquer tempo, é possível no âmbito da jurisdição ordinária, o que configura ausência do pressuposto constitucional relativo ao esgotamento de instância, imprescindível ao trânsito da insurgência extraordinária" (AgRg no AREsp n. 504.073/GO, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 16/5/2017, DJe 23/5/2017).
+3. Agravo interno a que se dá provimento para reconsiderar a decisão da Presidência desta Corte e negar provimento ao agravo nos próprios autos"(AgInt no AREsp 1.925.233/ES, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 22/11/2021, DJe 26/11/2021).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OPERADORA DE PLANO DE SAÚDE. CONSUMIDOR. OBRIGAÇÃO DE FAZER. TRATAMENTO MULTIDISCIPLINAR.COBERTURA DEVIDA. ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA.DISPOSITIVOS LEGAIS. PREQUESTIONAMENTO. SÚMULA Nº 211/STJ.ANTECIPAÇÃO DE TUTELA. MÉRITO DA CAUSA. RELAÇÃO. OFENSA. MATÉRIA FÁTICO-PROBATÓRIA. REEXAME. IMPOSSIBILIDADE. SÚMULAS Nº 735/STF E Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. Na hipótese, a ausência de discussão, pelo tribunal de origem, acerca da tese ventilada no recurso especial acarreta a falta de prequestionamento, atraindo a incidência da Súmula nº 211/STJ.
+4. A jurisprudência do Superior Tribunal de Justiça entende que não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, haja vista a natureza precária da decisão, a teor do que dispõe a Súmula nº 735/STF.
+5. No caso, rever as conclusões do tribunal recorrido demandaria o reexame de matéria fático-probatória, procedimento inviável em recurso especial, nos termos da Súmula nº 7 do Superior Tribunal de Justiça.
+6. Agravo interno não provido"(AgInt no AREsp 1.814.741/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 4/10/2021, DJe 8/10/2021).
+Ante o exposto, conheço do agravo para nãoconhecer do recursoespecial.
+Deixa-se de majorar os honorários sucumbenciais, nos termos do artigo 85, § 11, do CPC/2015, tendo em vista que não foram arbitrados na origem.
+Publique-se.
+Intimem-se.
