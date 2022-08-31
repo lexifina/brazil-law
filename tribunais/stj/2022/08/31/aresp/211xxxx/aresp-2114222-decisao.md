@@ -1,0 +1,84 @@
+DECISÃO
+Cuida-se de agravo (artigo 1.042 do CPC/15), interposto por UNIMED CUIABÁ - COOPERATIVA DE TRABALHO MÉDICO, em face de decisão que não admitiu recurso especial da ora insurgente.
+O apelo extremo, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, fora deduzido em desafio ao acórdão de fls. 582-591, e-STJ, proferido pelo Tribunal de Justiça do Estado do Mato Grosso,assim ementado (fl. 582-583, e-STJ):
+APELAÇÃO CÍVEL - CAUTELAR ANTECIPATÓRIA E AÇÃO DE OBRIGAÇÃO DE FAZER - QUADRO GRAVE DE CÂNCER DE MAMA - CIRURGIA DE URGÊNCIA - INDICAÇÃO MÉDICA - MITIGAÇÃO DO PERÍODO DE CARÊNCIA - RECUSA INDEVIDA -DANOS MORAIS CARACTERIZADOS - VALOR ARBITRADO RAZOÁVEL - SENTENÇA MANTIDA - RECURSO DESPROVIDO.
+A relativização da cláusula de carência é possível, de modo a garantir ao contratante a ampla cobertura na hipótese de urgência decorrente de alteração inesperada em seu estado de saúde.
+A recusa de cobertura do plano de saúde para a realização de procedimento cirúrgico em caráter de urgência gera danos morais.
+Não comporta redução a indenização por danos morais arbitrada com razoabilidade.
+Em suas razões de recurso especial (fls. 606-623,e-STJ), a recorrente aponta, além de divergência jurisprudencial, violação aos artigos12, V, "b", da Lei n. 9.656/98;186 e 927 do Código Civil, aduzindo, em suma, que a conduta da operadora, em negar o atendimento médico pleiteado por não cumprimento do período de carência, não configura dano moral indenizável.
+Contrarrazões às fls. 630-633, e-STJ.
+Em juízo prévio de admissibilidade (fls. 634-368, e-STJ), a Corte de origem negou seguimento ao apelo nobre, dando ensejo à interposição do presente agravo (fls. 640-648, e-STJ), buscando destrancar o processamento daquela insurgência.
+Contraminuta às fls. 6551-654, e-STJ.
+É o relatório.
+Decide-se.
+A irresignação não merece prosperar.
+1.De início, ressalte-se que,nos termos da jurisprudência desta Corte Superior, o período de carência do plano de saúde não pode ser oposto ao contratante para a negativa de cobertura, quando este se encontre em situação de emergência médica, precisando de atendimento médico-hospitalar urgente, tema sobre o qual há o enunciado de Súmula 597, o qual versa: "a cláusula contratual de plano de saúde que prevê carência para utilização dos serviços de assistência médica nas situações de emergência ou de urgência é considerada abusiva se ultrapassado o prazo máximo de 24 horas contado da data da contratação".
+Nesse sentido, confira-se os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. PERÍODO DE CARÊNCIA. COBERTURA DE EMERGÊNCIA. RECUSA INDEVIDA. DANO MORAL. CABIMENTO. AGRAVO INTERNO NÃO PROVIDO.
+1. A jurisprudência desta Corte é no sentido de que a cláusula contratual que prevê prazo de carência para utilização dos serviços prestados pelo plano de saúde não é considerada abusiva, desde que não obste a cobertura do segurado em casos de emergência ou urgência, como na hipótese dos autos.
+2. Nos termos da jurisprudência reiterada do STJ, "a recusa indevida à cobertura pleiteada pelo segurado é causa de danos morais, pois agrava a sua situação de aflição psicológica e de angústia no espírito" (REsp 657717/RJ, Rel. Ministra NANCY ANDRIGHI, DJ 12/12/2005).
+3. Agravo interno não provido.
+(AgInt no AgInt no AREsp 1640198/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 26/04/2021, DJe 28/04/2021)  grifou-se
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ALEGAÇÕES GENÉRICAS. INCIDÊNCIA DA SÚMULA 284 DO STF. RECUSA DE ATENDIMENTO EM SITUAÇÃO DE EMERGÊNCIA. NECESSIDADE DE CUMPRIMENTO DE CARÊNCIA. ABUSIVIDADE. OMISSÃO DE DOENÇA PREEXISTENTE. FRAUDE. NÃO OCORRÊNCIA. REEXAME. SÚMULA 7 DO STJ.
+1. Apresenta-se deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 1.022 do CPC se faz de forma genérica, não havendo a demonstração clara dos pontos do acórdão que se apresentam omissos, contraditórios ou obscuros.
+2. De acordo com a jurisprudência desta Corte, é abusiva a negativa de cobertura para tratamento de emergência ou urgência do segurado sob o argumento de necessidade de cumprimento do período de carência.
+3. "Não se limita a cobertura de urgência e de emergência ao que foi despendido apenas nas primeiras doze horas de tratamento, tendo em vista o disposto na súmula 302 do STJ: É abusiva a cláusula contratual de plano de saúde que limita no tempo a internação hospitalar do segurado. Precedentes." (AgInt no AgInt no AREsp 1458340/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 28/10/2019, DJe 30/10/2019) 4. O Tribunal de origem, amparado no acervo fático-probatório, concluiu que o quadro de saúde da beneficiária era de conhecimento da operadora do plano de saúde, não havendo omissão quanto à doença preexistente. Desse modo, insindicável a conclusão do Tribunal por esta Corte Superior, ante o óbice da Súmula 7/STJ.
+5. Agravo interno não provido.
+(AgInt no AREsp 1571523/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 15/03/2021, DJe 18/03/2021)  grifou-se
+Nesse contexto, a Corte de origem entendeu que a recusa de atendimento médico de urgência configura dano moral indenizável. Veja-se (fl. 589, e-STJ):
+Por fim, a apelante se insurge contra a condenação ao pagamento de indenização por danos morais, porém o agravamento da situação já fragilizada da apelada que teve recusado o tratamento urgente de que necessitava, não há como afastar a condenação ao pagamento da indenização grifou-se
+Importante frisar que a jurisprudência desta Corte Superior é firme no sentido de que o mero descumprimento contratual não gera, por si só, dano moral indenizável.
+Ademais, em relação aos casos de indevida negativa de cobertura por parte do plano de saúde, a mais recente orientação da jurisprudência deste Tribunal é de que não há dano moral in re ipsa. Neste sentido, os recentes precedentes:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. DECISÃO DE ADMISSIBILIDADE. PLANO DE SAÚDE. TRATAMENTO MÉDICO. NEGATIVA DE COBERTURA. DANO MORAL. NÃO CONFIGURAÇÃO. DÚVIDA RAZOÁVEL. SÚMULAS 5 E 7/STJ.
+1. A recusa da cobertura de tratamento por operadora de plano de saúde, por si só, não configura dano moral, notadamente quando fundada em razoável interpretação contratual. Precedentes.
+2. Não cabe, em recurso especial, reinterpretar cláusulas contratuais ou reexaminar matéria fático-probatória (Súmulas 5 e 7/STJ).
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1717629/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 14/05/2019, DJe 17/05/2019)  grifou-se
+RECURSO ESPECIAL. PLANO DE SAÚDE. CIRURGIA CARDÍACA. NEGATIVA DE COBERTURA DA UTILIZAÇÃO DE STENTS. ABUSIVIDADE DA CLÁUSULA CONTRATUAL RECONHECIDA PELAS INSTÂNCIAS ORDINÁRIAS. AUTOR QUE SOMENTE TEVE CONHECIMENTO DA RECUSA PELA OPERADORA DE SAÚDE APÓS ALTA HOSPITALAR. MERO INADIMPLEMENTO CONTRATUAL. AUSÊNCIA DE DANOS MORAIS. RECURSO DESPROVIDO.
+1. Cinge-se a controvérsia quanto à ocorrência ou não de dano moral em razão da recusa, considerada indevida pelas instâncias ordinárias, da operadora de plano de saúde em arcar com o pagamento da colocação de stents utilizados em cirurgia cardíaca realizada pelo autor (recorrente).
+2. A negativa indevida de cobertura de plano de saúde, por si, não acarreta dano moral, devendo-se verificar, pelas especificidades de cada caso, se a conduta ilícita transbordou o mero inadimplemento contratual ensejando significativo abalo a direitos da personalidade do segurado. Logo, não se trata de dano moral in re ipsa (presumido).
+3. Não se pode olvidar, ainda, que "há situações em que existe dúvida jurídica razoável na interpretação de cláusula contratual, não podendo ser reputada ilegítima ou injusta, violadora de direitos imateriais, a conduta de operadora que optar pela restrição de cobertura sem ofender, em contrapartida, os deveres anexos do contrato, tal qual a boa-fé, o que afasta a pretensão de compensação por danos morais" (AgInt no AREsp n. 1.134.706/SC, Relator o Ministro Ricardo Villas Bôas Cueva, DJe de 23/11/2017).
+4. Na hipótese, o procedimento cirúrgico foi realizado sem qualquer empecilho por parte da operadora de plano de saúde, sendo que o autor somente tomou conhecimento da negativa de cobertura dos stents utilizados quando teve alta hospitalar. Dessa forma, conquanto tenha sido reconhecida pelas instâncias ordinárias a abusividade na respectiva negativa de cobertura do procedimento, tal fato não comprometeu a saúde do recorrente, tampouco acarretou atrasos ou embaraços em seu tratamento, o que afasta a ocorrência de dano moral.
+5. Recurso especial desprovido.
+(REsp 1800758/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 07/05/2019, DJe 10/05/2019)  grifou-se
+AGRAVO INTERNO NO RECURSO ESPECIAL. OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZATÓRIA. PLANO DE SAÚDE. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. INEXISTÊNCIA. RECUSA DE COBERTURA DE ATENDIMENTO MÉDICO. DANO MORAL. AFASTAMENTO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+ ..
+2. O entendimento adotado pelo acórdão recorrido coincide com a jurisprudência assente no Superior Tribunal de Justiça, no sentido de que o descumprimento contratual por parte da operadora de saúde que culmina em negativa ilegítima de cobertura para procedimento de saúde somente enseja reparação a título de danos morais quando houver agravamento da condição de dor, abalo psicológico e prejuízos à saúde já debilitada do paciente. Precedentes.
+3. No caso, o Tribunal de origem concluiu que, apesar da injusta negativa de autorização, não ficou comprovado o abalo excepcional na esfera moral a justificar o acolhimento do pleito quanto à indenização por danos morais, porquanto "é certo que não chegou o autor a sofrer risco concreto de agravamento de sua saúde, não se podendo dizer que a conduta da ré tenha ultrapassado o desconforto inerente a controvérsia sobre interpretação contratual".
+4. A modificação do entendimento lançado no v. acórdão recorrido demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp 1791952/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 14/05/2019, DJe 24/05/2019)  grifou-se
+Todavia, nos casos de urgência e emergência, tem esta Corte Superior entendido que a recusa indevida de cobertura gera agravamento ou aflição psicológica ao paciente, ante a situação vulnerável em que se encontra.
+Em semelhante sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. SÚMULA 182/STJ. NÃO INCIDÊNCIA. RECONSIDERAÇÃO DA DECISÃO DA PRESIDÊNCIA. PLANO DE SAÚDE. NEGATIVA DE ATENDIMENTO. ÔNUS PROBATÓRIO. SÚMULA 7/STJ. ESTADO DE URGÊNCIA. PRAZO DE CARÊNCIA. DANOS MORAIS RECONHECIDOS. SÚMULA 83/STJ. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO NO RECURSO ESPECIAL. SÚMULA 283/STF. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO E NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. "A jurisprudência desta Corte é no sentido de que o mero descumprimento contratual não enseja indenização por dano moral. No entanto, nas hipóteses em que há recusa de cobertura por parte da operadora do plano de saúde para tratamento de urgência ou emergência, segundo entendimento jurisprudencial desta Corte, há configuração de danos morais indenizáveis" (AgInt no REsp 1.838.679/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 03/03/2020, DJe de 25/03/2020).
+2. O Tribunal a quo, examinando as circunstâncias da causa, concluiu que o consumidor se desincumbiu do ônus de comprovar a recusa ilegítima da operadora do plano de saúde, assim como a urgência do atendimento e do exame. A revisão desse entendimento demandaria o revolvimento fático-probatório dos autos, providência inviável em sede de recurso especial (Súmula 7 do STJ).
+3. Agravo interno provido para conhecer do agravo e negar provimento ao recurso especial.
+(AgInt no AREsp 1657744/SE, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 01/03/2021, DJe 22/03/2021)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE OBRIGAÇÃO DE FAZER C/C PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA QUE CONHECEU DO RECLAMO E PROVEU EM PARTE O APELO NOBRE.
+INSURGÊNCIA DA DEMANDADA.
+1. Nos termos da jurisprudência do STJ, a negativa de cobertura por operadora de plano de saúde, por si só, não configura dano moral.
+1.1. Todavia, em situações excepcionais, como nos casos de urgência/emergência, a recusa indevida enseja o dever de indenizar, em razão do agravamento ou aflição psicológica ao beneficiário, ante a situação vulnerável em que se encontra. Precedentes.
+2. Agravo interno desprovido.
+(AgInt no AREsp 1681636/SC, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 21/09/2020, DJe 24/09/2020)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. PLANO DE SAÚDE. 1. NEGATIVA DE COBERTURA A PROCEDIMENTO CIRÚRGICO SUBSCRITO PELO MÉDICO. EXCLUSÃO CONTRATUAL EXPRESSA E AUSÊNCIA DE PREVISÃO NO ROL DA ANS. CIRCUNSTÂNCIAS QUE NÃO SE MOSTRAM SUFICIENTES A AFASTAR A OBRIGAÇÃO DE COBERTURA DO PROCEDIMENTO PELO PROFISSIONAL DE SAÚDE. 2. ROL EXEMPLIFICATIVO DA ANS E URGÊNCIA EVIDENCIADA. SÚMULAS 7 E 83/STJ. 3. AGRAVO IMPROVIDO.
+ ..
+2. Por derradeiro, que a recusa indevida pela operadora de plano de saúde à cobertura de tratamento médico emergencial ou de urgência constitui dano moral presumido, como na hipótese em apreço, não havendo que se falar em mero inadimplemento contratual. Súmula 83/STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1553980/MS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 09/12/2019, DJe 12/12/2019)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. DANOS MATERIAIS E MORAIS. PLANO DE SAÚDE. ENTIDADE DE AUTOGESTÃO. NÃO INCIDÊNCIA DO CDC. SÚMULA 608/STJ. ATENDIMENTO DE URGÊNCIA FORA DA REDE CREDENCIADA. REEMBOLSO. LIMITAÇÃO. PREÇOS DE TABELA EFETIVAMENTE CONTRATADOS COM A OPERADORA. DEMORA NA AUTORIZAÇÃO DE CONSULTA E CIRURGIA DE URGÊNCIA. DANO MORAL CONFIGURADO. AGRAVO PARCIALMENTE PROVIDO.
+1. Em casos de urgência ou emergência, em que não seja possível a utilização dos serviços médicos próprios, credenciados ou conveniados, a operadora do plano de saúde responsabiliza-se pelo custeio das despesas de assistência médica realizadas pelo beneficiário, mediante reembolso. A obrigação, nessas circunstâncias, é limitada aos preços e tabelas efetivamente contratados com o plano de saúde, à luz do art. 12, VI, da Lei 9.656/98. Precedentes desta Corte.
+2. A jurisprudência do STJ é no sentido de que a recusa indevida à cobertura médica enseja reparação a título de dano moral, uma vez que agrava a situação de aflição psicológica e de angústia no espírito do segurado.
+3. Hipótese em que o Tribunal de origem consignou que a demora de sete dias em autorizar a realização de consulta de emergência, ensejando o custeio de consulta e de cirurgia de urgência, ante o risco de vida do paciente recém-nascido, caracterizou recusa indevida por parte do plano de saúde e causou desespero e angústia aos pais, configurando danos morais.
+4. Agravo interno parcialmente provido para dar parcial provimento ao recurso especial.
+(AgInt no AREsp 1344058/MS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 07/05/2019, DJe 22/05/2019)  grifou-se
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZATÓRIA DE DANOS MORAIS E MATERIAIS. PLANO DE SAÚDE. RECUSA DE TRATAMENTO MÉDICO. CÓDIGO DE DEFESA DO CONSUMIDOR. INAPLICABILIDADE. CONTRATO DE ADESÃO. INTERPRETAÇÃO EM FAVOR DO ADERENTE. PRECEDENTE DA TERCEIRA TURMA. DANO MORAL DEMONSTRADO NAS INSTÂNCIAS ORDINÁRIAS. INVIABILIDADE DE REEXAME DAS PROVAS DOS AUTOS. QUANTUM INDENIZATÓRIO. VALOR QUE NÃO SE REVELA EXCESSIVO. DECISÃO MANTIDA. MULTA DO ART. 1.021, § 4º, DO NCPC. AGRAVO INTERNO NÃO PROVIDO, COM IMPOSIÇÃO DE MULTA.
+ ..
+3. Consoante a jurisprudência desta Corte há caracterização do dano moral, quando a operadora do plano de saúde recusa indevidamente a cobertura do tratamento médico emergencial ou de urgência, não havendo que se falar, na hipótese, em mero inadimplemento contratual. Incidência, no ponto, da Súmula nº 83 do STJ.
+ ..
+6. Agravo interno não provido, com imposição de multa.
+(AgInt no AREsp 1406287/PR, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 15/04/2019, DJe 22/04/2019)  grifou-se
+Logo, incide, no ponto, o óbice contido na Súmula 83/STJ, aplicável por ambas as alíneas do permissivo constitucional.
+2. Do exposto, com amparo no artigo 932 do CPC/15 c/c a Súmula 568/STJ,negoprovimento ao reclamo.
+Publique-se.
+Intimem-se.
