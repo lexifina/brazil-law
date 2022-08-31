@@ -1,0 +1,37 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos porANA MÁRCIA DE LIMA eMARIA UMBELINA DE LIMA SILVEIRAcontra decisão unipessoal que conheceu do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negou-lhe provimento, nos termos da seguinte ementa:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO DE DANOS MORAIS E COMPENSAÇÃO DE DANOS MATERIAIS. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DE DISPOSITIVO CONSTITUCIONAL E DE SÚMULA. DESCABIMENTO. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+2. A interposição de recurso especial não é cabível quando ocorre violação de dispositivo constitucional, de súmula ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+3. O reexame de fatos e provas em recurso especial é inadmissível.
+4. Agravo conhecido. Recurso especial parcialmente conhecido e, nessa extensão, desprovido.
+Em suas razões recursais, a parte embargante alega omissão quanto à análise de violação dos dispositivos infraconstitucionais. Defende que não houve trabalho adicional da parte contrária, o que afastaria a majoração dos honorários.
+É O BREVE RELATÓRIO.
+Nos termos do art. 1.022 do CPC/15, somente é cabível o recurso de embargos de declaração nas hipóteses em que haja obscuridade, contradição, omissão ou erro material no julgado impugnado.
+Como exposto na decisão agravada, além de não ter sido constatada omissão no acórdão recorrido, foi reconhecida a incidência da Súmula 7/STJ na hipótese, bem como a impossibilidade de interposição de recurso especial por violação de Súmula,veja-se os seguintes trechos (e-STJ fls. 869/870):
+- Da violação do art. 1.022 do CPC/2015
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente acerca das provas do acidente e da legitimidade da agravante ANA MÁRCIA de maneira que os embargos de declaração opostos pela parte agravante, de fato, não comportavam acolhimento.
+Veja-se os seguintes trechos retirados dos autos do processo (e-STJ fls. 560/561):
+Inicialmente, considerando as ponderações feitas pelo perito nomeado por este Juízo, Sr. Edson Siqueira de Souza, no sentido de que o exame pericial realizado in loco "serve apenas e tão somente para esclarecer ao douto Juízo a ausência de indícios ou sinais que propiciem, tecnicamente, a elucidação da controvérsia" (f. 405) e que a perícia indireta - com base nos laudos e documentos acostados aos autos - não seria viável para mostrar a realidade material do acidente, este Juízo, procedeu a uma reanálise mais acurada dos laudos apresentados pelas partes, concluindo que, em verdade, eles se complementam e se esclarecem, em que pesem alguns pontos de superável controvérsia, o que, à luz do art. 370 do CPC, permite dispensar a prova pericial requerida pela autora à f. 262.
+No que tange à prova oral requerida pelas partes (ti. 262/264), considerando que as testemunhas referidas no boletim de ocorrência somente presenciaram a ação policial após o ocorrido, logo, não poderão trazer maiores esclarecimentos sobre a dinâmica do acidente e o principal cerne da controvérsia que, consoante se verá ao longo da fundamentação, consiste em aferir o local de impacto entre as partes, indefiro a prova testemunhal.
+Por outro lado, as requeridas pugnaram pelo depoimento pessoal da parte autora (f. 263/264), todavia, considerando tratar-se de mãe do falecido Emerson, que não participou do acidente e, portanto, nada poderá confessar quanto a tanto, indefiro a realização desta prova.
+Desta feita, considerando que não há necessidade de se realizar outras provas além daquelas que já foram trazidas aos autos pelas partes, passa-se ao julgamento antecipado do mérito na forma do art. 355, inciso 1 do CPC, esclarecendo que o depoimento pessoal das rés também será dispensado nos termos expostos na fundamentação.
+Das preliminares e questões processuais
+No que tange à preliminar de ilegitimidade passiva suscitada pelas contestantes, o veículo Fiat Strada conduzido por Maria Umbelina na ocasião do acidente estava registrado em nome de Ana Márcia de Lima, conforme documento de f 65, o que é o suficiente para caracterizar a legitimidade passiva daquela in casu pela teoria da culpa in eligendo - segundo a qual os donos de veículo respondem por aqueles que dirigem o seu veículo - notadamente, quando se observa não ter havido comunicação de transferência ao órgão de trânsito e que o seguro facultativo pode ser contratado por aquele que não seja o proprietário do bem.
+Ademais, o simples fato de conduzir um veículo não é suficiente para evidenciar a propriedade deste e; consoante se observa, a requerida Maria Umbelina sequer instruiu a contestação com comprovante de pagamento dos encargos tributários atinentes à propriedade veicular, momento preclusivo para tanto (art. 434 do CPC), dado não se tratar das hipóteses excepcionais do art. 435 do CPC.
+E, considerando que as partes nem mesmo alegam negócio de compra e venda entre elas, dispensável a prova oral neste sentido, até mesmo porque somente são objeto de prova os fatos alegados pelas partes.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC/15, incidindo, quanto ao ponto a Súmula 568/STJ.
+- Da violação de dispositivo constitucional e de súmula
+A interposição de recurso especial não é cabível quando ocorre violação de súmula, de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+- Do reexame de fatos e provas
+Ademais, alterar o decidido no acórdão impugnado, no que se refere ao alegado cerceamento de defesa, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Por fim, quanto a majoração dos honorários, esta é devida, tendo em vista que, nos termos da orientação jurisprudencial consolidada pela Segunda Seção do STJ, "é dispensada a configuração do trabalho adicional do advogado para a majoração dos honorários na instância recursal, que será considerado, no entanto, para quantificação de tal verba" (AgInt nos EREsp 1.539.725/DF,Segunda Seção, julgado em 9/8/2017, DJe 19/10/2017)
+Assim, dissociado, o pleito, de qualquer um dos pressupostos de oposição dos embargos de declaração, desautorizada está a pretensão declinada, impondo-se, então, a sua rejeição.
+Forte nessas razões, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. INEXISTÊNCIA. IMPOSSIBILIDADE.
+1. Rejeitam-se os embargos de declaração quando ausentes omissão, contradição, obscuridade ou erro material a ser sanado.
+2. Embargos de declaração no agravo em recurso especial rejeitados.
