@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que, com fundamento nas Súmulas 7 e 83/STJ, inadmitiu o recurso especial.
+Sustenta a defesa que não demanda a matéria discutida revolvimento fático-probatório e que a tese recursal encontra respaldo na jurisprudência desta Corte. Assim, requer o provimento do recurso.
+Apresentada a contraminuta, manifestou-se o Ministério Público Federal pelo não conhecimento ou, caso conhecido, pelo não provimento do agravo.
+O agravo é tempestivo e ataca os fundamentos da decisão agravada, devendo ser conhecido, entretanto, não comporta provimento.
+Nas razões do recurso especial, a defesa alega violação aos arts. 384 e 413, § 1º, do CPP. Sustenta que a qualificadora do motivo fútil é impertinente e divorciada das provas dos autos, requerendo sua exclusão.
+O recorrente foi pronunciado como incurso no art. 121, § 2º, II, III e IV, c/c o art. 121, § 2º, IIIe IV, c/c o art. 14, II, do Código Penal. Interposto recurso em sentido estrito pela defesa, o Tribunal de origem negou-lhe provimento.
+Destacou-se no acórdão recorrido que, "no que pertine ao afastamento das circunstâncias qualificadoras, estampadas, nos incisos II, III e IV, §2º, do art. 121, do CPB, que o modus operandi do recorrente impede, ao menos, nesta fase procedimental, que a tese defensiva seja albergada, sem se pretender, contudo, formular juízo apriorístico exauriente, mas, apenas e tão-somente, fazendo incursão péripla e superficial, nos elementos probatórios, sob pena de elidir-se a competência do Tribunal Popular" (fl. 609).
+Nos termos da jurisprudência desta Corte, na decisão de pronúncia, a qual constitui mero juízo de admissibilidade da acusação, somente se admite a exclusão de qualificadoras quando manifestamente improcedentes ou descabidas, sob pena de afronta à soberania do Júri. Nesse sentido:HC 483.788/RS, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 19/03/2019, DJe 28/03/2019;AgRg no HC 429.228/PR, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 26/02/2019, DJe 12/03/2019.
+Incide, assim, a Súmula 83 do STJ, segundo a qual não se conhece do recurso especial, quando a orientação do Tribunal firmou-se no mesmo sentido da decisão recorrida.
+Na hipótese, não se verifica manifesta improcedência da qualificadora referente ao motivo fútil (art. 121, § 2º, II, do CP), tendo a decisão de pronúncia destacado que "há indícios de que o crime teria sido cometido pelo fato  de a  vítima Edmilson ter aconselhado a vítima Enilda" (fl. 144), observado que a denúncia descreve que avítima Edmilson erairmão da vítima Enilda, que tinha relacionamento conturbado com o réu. Alterar as referidas premissas fáticas demandaria reexame fático-probatório, o que encontra óbice na Súmula 7/STJ.
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Publique-se.
+Intimem-se.
