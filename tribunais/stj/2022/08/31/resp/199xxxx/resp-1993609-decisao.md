@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de recurso especial interposto porGILBERTO MALAFAIA HUANIcom fundamento no art. 105, III, alínea "a", da Constituição Federal - CF, contra acórdão proferido peloTRIBUNAL DE JUSTIÇA DO ESTADO DO AMAZONASem julgamento de agravo em execução n. 0001389-37.2020.8.04.0000.
+Consta dos autos que o Juízo de Direito da Vara de Execuções Penais indeferiu pedido de transferênciade execução de pena para a Comarca de Tabatinga/AM.
+Inconformada, adefesa interpôs agravo em execução penal, que foi desprovido. O acórdão ficou assim ementado:
+"AGRAVO EM EXECUÇÃO PENAL - PEDIDO DE TRANSFERÊNCIA DA CAPITAL PARA COMARCA DE TABATINGA - IMPOSSIBILIDADE DE TRANSFERÊNCIA -PENA SUPERIOR A 08 (OITO) ANOS -CRIME DE TRÁFICO DE DROGA DE CARÁTER TRANSNACIONAL - RECURSO CONHECIDO E NÃO PROVIDO.
+I - O MM. Juízo de Direito da Vara de Execuções Penais, indeferiu o pedido de transferência de execução de pena para a Comarca de Tabatinga.
+II - Primeiramente, não podemos ignorar o fato de que constitui direito do preso a assistência social e familiar, com a possibilidade de recebimento de visitas de seus parentes e amigos de acordo com o artigo 41, VII e X, da LEP, motivo pelo qual, dentro do possível, torna-se aconselhável que cumpra a reprimenda próximo a seus familiares conforme o artigo 103, da LEP.
+III - Não se observa qualquer ilegalidade que dê suporte a nulidade da decisão do juízo primevo, eis que, nos termos da fundamentação supra, não se apresenta necessária a prévia manifestação à Seap para que se manifeste acerca da existência de vagas na Comarca de Tabatinga/AM, quando as circunstâncias do caso concreto determinam que o custodiado permaneça na unidade prisional onde se encontra, o que na hipótese, foi devidamente motivada pelo juízo de piso.
+IV - Assevero ainda, que a Lei de Execução Penal prevê que as penas privativas de liberdade aplicadas pela Justiça de uma unidade federativa podem ser executadas em outra unidade, em estabelecimento local ou da União, como é o caso dos autos. O Agravante cumpre pena superior a 08 anos de reclusão por ter praticado o crime de tráfico de entorpecente de caráter transnacional, considerado equiparado a hediondo. Logo, a competência do juízo da condenação é mantida.
+V -RECURSO CONHECIDO E DESPROVIDO." (fl. 43).
+Em sede de recurso especial (fls. 63/71), a Defesa apontou violação dos art. 315, 2º, I, e 381 do CPP, porque o TJ manteve a decisão do juiz a quo,sem fundamentação idônea.
+Aduz que a decisão carece de fundamentação idônea, pois não comprovada a suposta superlotação da unidade prisional para negar o direito do preso à transferência para presídio próximo a sua família.
+Afirma que "não houve qualquer comunicação com o estabelecimento prisional de Tabatinqa/AM para saber da existência de vagas, ou seja, não houve qualquer comprovação da suposta superlotação." (fl. 66).
+Argumenta que o parecer do Ministério Público Estadual foi favorável ao pedido, manifestando-se pelo provimento do agravo em execução para anular a decisão impugnada.
+Alega que "a fundamentação utilizada pelo juízo da execução, no tocante a suposta "superlotação" da unidade prisional de Tabatinga, restou desprovida de comprovação, ou seja, não passaram de presunções, para se ver negado o direito do recorrente." (fl. 67).
+Requer a reforma do acórdão e anulação da decisão do juiz a quo.
+Contrarrazões doMINISTÉRIO PÚBLICO DO ESTADO DO AMAZONAS(fls. 76/81).
+Admitido o recurso no TJ (fls. 82/83) os autos foram protocolados e distribuídos nesta Corte. Aberta vista ao MINISTÉRIO PÚBLICO FEDERAL - MPF, este opinou pelo provimento do recurso especial (fls. 98/103).
+É o relatório.
+Decido.
+OTRIBUNAL DE JUSTIÇA DO ESTADO DO AMAZONASmanteve a decisão do magistrado a quo, nos seguintes termos do voto do relator:
+"Primeiramente, não podemos ignora o fato de que constitui direito do preso a assistência social e familiar, com a possibilidade de recebimento de visitas de seus parentes e amigos de acordo com o artigo 41, VII e X, da LEP, motivo pelo qual, dentro do possível, torna-se aconselhável que cumpra a reprimenda próximo a seus familiares conforme o artigo 103, da LEP.
+Art. 103. Cada comarca terá, pelo menos 1 (uma) cadeia pública a fim de resguardar o interesse da Administração da Justiça Criminal e a permanência do preso em local próximo ao seu meio social e familiar.
+Do caderno processual, observa-se que o magistrado indeferiuo pleito dadefesa, sob o argumento de que o Agravante cumpre pena superior a 08 anos de reclusão e não preenche os requisitos subjetivos. In verbis:
+"Pelo simples compulsar dos autos, e possível observar que o apenado cumpre pena de 10 anos, 01 mês e 15 dias de reclusão, em regime fechado, com prazo para progressão ao regime semiaberto em 08/10/2022.
+Nesse sentido é evidente que o apenado não preenche os requisitos elencados no Provimento 319 da Corregedoria Geral de Justiça do Estado do Amazonas para ser transferido para a Comarca de Tabatinga.
+Isso porque, o estabelecimento carcerário da pretendida comarca apresenta população excedente ao limite previsto, em circunstâncias que dificultam abrigar os presos locais.
+Em que pese o comando do artigo 86, da Lei de Execução Penal permitir, a execução das penas privativas de liberdade imposta pela justiça em uma unidade, ou, ainda, naquela próximo aos familiares do condenado não se interpreta como requisito subjetivo do apenado".
+Ante tais considerações, não se observa qualquer ilegalidade que dê suporte a nulidade da decisão do juízo primevo, eis que, nos termos da fundamentação supra, não se apresenta necessária a prévia manifestação à Seap para que se manifeste acerca da existência de vagas na Comarca de Tabatinga/AM, quando as circunstâncias do caso concreto determinam que o custodiado permaneça na unidade prisional onde se encontra, o que na hipótese, foi devidamente motivada pelo juízo de piso.
+Imperioso ressaltar que para a transferência prisional não basta somente a menção à residência familiar em local diverso, mas a existência de vagas disponíveis no estabelecimento prisional pretendido, como também o interesse público, portanto, não trata-se, de direito absoluto do preso. Nesse sentido:
+ ..
+Assevero ainda, que a Lei de Execução Penal prevê que as penas privativas de liberdade aplicadas pela Justiça de uma unidade federativa podem ser executadas em outra unidade, em estabelecimento local ou da União, como é o caso dos autos. O Agravante cumpre pena superior a 08 anos de reclusão por ter praticado crime de tráfico de entorpecente de caráter transnacional, considerado equiparado a hediondo. Nesse sentido, o provimento 309/2017-CGJ/AM, dispõe:
+Artigo 1º. - Estabelecer aos Juízes de / a Entrãncia que somente remetam para cumprimento de pena privativa de liberdade em Manaus aqueles condenados em regime fechado, que tenham sido submetidos a uma pena de no mínimo 12 (doze) anos de reclusão, nos casos de crime comum, e a 8 (oito) anos de reclusão, nos casos de crime hediondo, salvo casos de absoluta singularidade, submetidos a análise e autorização do juiz da vara de execução penal da capital, observando-se, concomitantemente, as hipóteses de transferência do artigo 4º desde provimento.
+Logo, a competência do juízo da condenação é mantida, pois está amparado noprovimento 309/2017-CGJ/AM.
+Ante o exposto, em dissonância com o parecer ministerial, conhecimento e não provimento do recurso." (fls. 46/49).
+Consta do judicioso parecer ministerial (fls. 98/103):
+"A hipótese é de provimento do recurso.
+O indeferimento do pedido de transferência formulado pelo recorrente foi mantido pela Corte Estadual nos seguintes termos (e-STJ, fls. 46-49):
+ ..
+7. É cediço que a transferência do preso para estabelecimento prisional situado próximo ao local onde reside sua família não é direito absoluto do apenado, uma vez que cabe à Administração penitenciária verificar sua conveniência e oportunidade.
+Contudo, ainda que se trate de decisão discricionária, é certo que a negativa do pedido de transferência deve ser embasada em fundamentação suficiente e idônea, o que não ocorreu na hipótese sob análise.
+Consoante bem destacado pelo MINISTÉRIO PÚBLICO DO ESTADO DO AMAZONAS, o art. 1º do Provimento 309/2017-CGJ/AM "versa acerca da transferência de presos de Comarcas do interior para a Capital, situação inversa a do presente caso" (fls. 27).
+Nessas condições, considerando que o recorrente pretende cumprir pena em Tabatinga, e não em Manaus (local onde já se encontra), com efeito, referido regramento não poderia ser utilizado para subsidiar o indeferimento do pleito.
+Outrossim, a mera afirmação acerca da indisponibilidade de vagas na Comarca de Tabatinga também não tem aptidão para sanar a deficiência na fundamentação da decisão de primeiro grau e do acórdão hostilizado, sobretudo diante da ausência de elementos que atestem sua plausibilidade.
+Assim, presente ilegalidade manifesta, o caso demanda a anulação das decisões hostilizadas e a remessa dos autos ao Juízo de origem, para que proceda à reavaliação do pedido formulado pelo recorrente com base nas peculiaridades do caso concreto e em elementos com aptidão para evidenciar eventual inexistência de vagas no estabelecimento prisional da Comarca de Tabatinga/MA." (fls. 101/103).
+Como visto das bem lançadas razões do parecer ministerial, as quaisadotam-se como fundamentos para decidir, não se oficiou a Secretaria de Administração Penitenciária ou o Juízo de Tabatinga/AM acerca da disponibilidade de vagas no presídio para a tranferência da execução.
+Assim, ante a falta de elementos que fundamentem a decisão impugnada, dou provimento ao recurso para anular a decisão do juízo das execuções, determinando o retorno à origem para que seja proferida nova decisão, após consulta ao Juízo da Comarca de Tabatinga/AM.
+Ante o exposto, conheço do recurso especial e, com fundamento na Súmula n. 568 do STJ, dou-lhe provimento.
+Publique-se. Intimem-se.
