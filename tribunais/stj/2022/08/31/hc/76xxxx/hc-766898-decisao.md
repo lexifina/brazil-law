@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se dehabeas corpusimpetrado em benefício deANDERSON MATEUS FRANCISCO RODRIGUES contra ato de Desembargador Relator do Tribunal de Justiça do Estado de São Paulo (HC nº 2197385-53.2022.8.26.0000).
+Extrai-se dos autos que foi decretada a prisão preventiva do paciente, acusado dasuposta prática dos delitos tipificados nos arts. 33 e 35 da Lei nº 11.343/2006.
+Contra a decisão, a defesa impetrou a ordem originária, cuja liminar foi indeferida pelo Desembargador Relator (e-STJ fls. 228/233).
+No presentewrit, a defesa alega que não estão presentes os requisitos autorizadores da custódia cautelar. Defende a suficiência da aplicação de medidas previstas no art. 319 do Código de Processo Penal.
+Requer, assim, em liminar e no mérito, a revogação da prisão, inclusive com fixação de medidas cautelares alternativas.
+É o relatório. Decido.
+O Superior Tribunal de Justiça tem jurisprudência firmada no sentido de não caber habeas corpus contra decisão que indefere liminar, a menos que fique demonstrada flagrante ilegalidade, nos termos do enunciado n. 691 da Súmula do STF, segundo o qual "não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar".
+Assim, salvo excepcionalíssima hipótese de ilegalidade manifesta, não é de se admitir casos como o dos autos. Não sendo possível a verificação, de plano, de qualquer ilegalidade na decisão recorrida, deve-se aguardar a manifestação de mérito do Tribunal de origem, sob pena de se incorrer em supressão de instância e em patente desprestígio às instâncias ordinárias.
+No caso, verifica-se que o decisum apresenta fundamentação suficiente e idônea a afastar a alegação, neste momento, de manifesta ilegalidade que justificasse a superação do enunciado sumular, notadamente se considerado o que foi enfatizado pelo Desembargador Relator, o qual, ao indeferir a liminar, aduziu o seguinte (e-SJT fls. 10/13):
+Indefiro a liminar pleiteada.
+Está suficientemente demonstrado, neste momento de cognição sumária, o fummus comissi delicti, uma vez que foi decretada a prisão preventiva do paciente pela prática, em tese, dos delitos tipificados no artigo 33, caput, e artigo 35, ambos da Lei Antidrogas.
+Analisados os argumentos expostos na impetração, não se vislumbram, de plano, os imprescindíveis fumus boni juris e periculum in mora autorizadores de sua concessão.
+A providência ora pretendida é excepcional, cabível nas hipóteses em que a ilegalidade é patente e constatável da singela leitura da inicial e documentos a ela acostados.
+Não é o caso presente.
+Destaco inicialmente que, posteriormente à decretação da prisão preventiva de todos os envolvidos indicados acima, constatou-se que um dos investigados, que logrou empreender fuga na data da apreensão das drogas, era o paciente Anderson Mateus Francisco Rodrigues e não Adrian Vitor Marçal dos Santos, motivo pelo qual, após representação da autoridade policial, foi decretada a prisão preventiva, fazendo referência à decisão que converteu o flagrante dos demais investigados (fls. 219/224), bem como expedido contramandado de prisão em relação a Adrian (fls. 05/06).
+Constata-se que o paciente, de alcunha "Andi", situação que resultou noequivocado apontamento do investigado Adrian, foi reconhecido e indicado como um dos integrantes da associação objeto de investigação prévia, sendo responsável, juntamente com seu líder, o também investigado Rubens, pela coordenação do comércio ilícito no local. Além disso, as decisões apontaram que, na data da apreensão de quantidade não inexpressiva de cocaína, o paciente foi um dos agentes surpreendidos em plena atividade de tráfico, porém teve sucesso na fuga e se encontra foragido.
+As circunstâncias indicadas acima, especialmente o nível de atuação do paciente com o grupo criminoso, em sede de cognição sumária, justificam a decretação da custódia cautelar para garantia da ordem pública.
+Nesse contexto, mostra-se insuficiente a aplicação das medidas cautelares alternativas ao cárcere previstas no artigo 319 do Código de Processo Penal.
+Observa-se que a decisão que indeferiu a liminar encontra-se devidamente fundamentada, tendo demonstrado que não há ilegalidade patente imposta ao paciente, de modo a justificar o deferimento do pedido de urgência.
+Nesse sentido, o Desembargador Relator destacou os indícios de vinculação do paciente a grupo criminoso, sendo-lhe atribuída acoordenação do comércio ilícito local.
+Além disso, durante abordagem policial, teria empreendido fuga, o que inclusive levou os agentes a efetivarem, por engano, a prisão de seu vizinho em seu lugar.Não há notícias de sua posterior captura, de modo que, ao que parece, se encontra foragido.
+Portanto, ao menos em um juízo superficial, a custódia encontra-se devidamente fundamentada na necessidade de interromper as atividades criminosas, obstando, assim, novas práticas delitivas.
+Outrossim, "esta Corte Superior possui entendimento consolidado acerca da manutenção da custódia preventiva diante da periculosidade do acusado, evidenciada pela fuga no momento da abordagem, demonstrando total desinteresse na aplicação da lei penal. Julgados nesse sentido" (HC n. 512.663/SP, Relator Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 6/8/2019, DJe 13/8/2019).
+Vê-se, pois, que a questão posta em exame demanda averiguação mais profunda pelo Tribunal estadual, no momento adequado.
+Entendo, portanto, não ser o caso de superação do enunciado nº 691 da Súmula do Supremo Tribunal Federal.
+Ante o exposto, com fundamento no artigo 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o pedido.
+Intimem-se.
