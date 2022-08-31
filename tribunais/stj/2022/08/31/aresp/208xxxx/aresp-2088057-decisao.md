@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo interposto por CAIXA DE PREVIDÊNCIA DOS FUNCIONÁRIOS DO BANCO DO BRASIL -PREVI - contra decisão que inadmitiu recurso especial. O apelo extremo, com fundamento no artigo 105, III, "a", da Constituição Federal, foi interposto contra acórdão assim ementado:
+"AGRAVO DE INSTRUMENTO. PREVIDÊNCIA PRIVADA. DECISÃO QUE DEFERE TUTELA PARA DETERMINAR O PAGAMENTO DE BENEFÍCIO POST MORTEM A FILHO MENOR INVÁLIDO DO SEGURADO. SUA REFORMA. AUSÊNCIA DE PROVA A CORROBORAR A PREEXISTÊNCIA DE INVALIDEZ OU DE DEPENDÊNCIA ECONÔMICA. PERICULUM IN MORAESVAZIADO PELO LONGO INTERREGNO ENTRE O ÓBITO E A HABILITAÇÃO DO SEDIZENTE BENEFICIÁRIO. SEGUNDA AGRAVADA QUE ADMITE CUIDAR DO FILHO, DE MODO QUE PODE, ELA PRÓPRIA, DESTINAR PARTE DA PENSÃO QUE HOJE RECEBE PARA ESTE DESIDERATO. PARECER MINISTERIAL EM RESPALDO. SEM PREJUÍZO, AFIGURA-SE ABSOLUTAMENTE ABUSIVA A RETENÇÃO, PELA RÉ, DE PERCENTUAL DOS PROVENTOS A FIM DE FORMAR RESERVA PARA O CASO DE EVENTUAL PROCEDÊNCIA DOS PEDIDOS. SE A ENTIDADE DE PREVIDÊNCIA INDEFERE O PEDIDO ADMINISTRATIVO, É ELA QUEM DEVE ARCAR COM OS RISCOS DA DECISÃO EM VEZ DE TRANSFERI-LOS A QUEM APENAS POSTULA UM DIREITO DE QUE SE JULGA TITULAR. DEFERITÓRIA MANTIDA NESTA EXTENSÃO" (fl. 108, e-STJ).
+Os embargos declaratórios foram rejeitados (fl. 159, e-STJ).
+No recurso especial, a recorrente alega que houveviolação dos arts. 141, 492 e 1.022 do Código de Processo Civil de 2015.
+Inadmitido na origem, apresentou-se o presente agravo em recurso especial.
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+O recurso não merece prosperar.
+Inicialmente, observa-se que, no caso em apreço, as questões trazidas aos autos foram devidamente analisadas e discutidas, e fundamentado corretamente o aresto impugnado, de modo a exaurir a prestação jurisdicional, não há falar em violação doart. 1.022 do CPC/2015.
+Ademais, no tocante ao apontado julgamento ultra petita, registra-se, por oportuno, a fundamentação do aresto recorrido:
+"(..)
+No mérito, permaneço convencido das razões articuladas às fls. 23/26.
+Permita-se-me, então, nelas insistir:
+Em cognição sumária, noto que, de fato, os agravados não apresentaram provas eloquentes de que a invalidez geradora do benefício previdenciário precedesse ao falecimento do instituir (sic).
+Em verdade, o único elemento neste sentido - o unilateral laudo de fls. 30 - dá conta apenas de que, desde novembro de 1994, a parte estaria em tratamento médico. Mas nada informa acerca do efetivo comprometimento de suas funções laborais.
+Por outro lado, a leitura contextualizada dos documentos de fls. 45/46 do caderno principal faz ver que o SEGUNDO AGRAVANTE - ROBERTO NUNES aposentadoria própria, o que, em um primeiro momento, infirmaria a dependência econômica em relação a seu pai. Afinal, em linha de princípio, conta com fonte de renda autônoma.
+Note-se, ainda, que também o INSTITUTO NACIONAL DO SEGURO SOCIAL - I. N. S. S negou a habilitação do requerente na pensão deixada pelo de cujus e sob o mesmo argumento agora encampado pela agravante (cf. fls. 42/44 dos autos de origem).
+Nesta ordem de ideias, a presunção de veracidade e legitimidade dos atos públicos, tomada de empréstimo, dá fé à versão fática defendida neste recurso.
+Por fim e também a comprometer a tese da inicial, vê-se de fls. 19 que a sentença de interdição do recorrido somente se houve em 24/05/2019, de modo que seus efeitos constitutivos não colhem o tempo do óbito (em maio de 1997, conforme certidão de fls. 20, também dos autos principais).
+A par da insegurança quanto ao direito autoral, ressente-se a pretensão à tutela provisória de urgência do indispensável periculum in mora, na medida em que já correram mais de duas décadas desde o fato gerador do benefício e o seu requerimento judicial. De todo modo, conforme confessa na própria peça de propositura, a PRIMEIRA AGRAVADA -ARLETTE NUNES cuida de seu filho, de modo que pode lhe destinar, independentemente da intervenção judicial, parte dos proventos que receberá em cota integral.
+Por isso, até para precatar o equilíbrio atuarial do plano previdenciário, a cautela sugere suspender a decisão agravada.
+Ainda a corroborar, os substanciosos fundamentos do parecer ministerial:
+Com efeito, para que haja a concessão de benefício decorrente de pensão por morte do genitor ao filho inválido, necessária a comprovação da invalidade quando do óbito, assim como a dependência econômica.
+No entanto, pelo que dos autos consta, apesar de o autor alegar incapacidade desde 1994, em tal data é possível tão somente aferir que o mesmo se encontrava em tratamento de saúde.
+Por outro lado, ainda de acordo com as provas dos autos originários, a sentença que decretou a interdição do apelado foi proferida apenas em 24/05/2019. Ainda que de fato tenha ocorrido a incapacidade em momento anterior, não é possível concluir, em sede de cognição sumária, que a mesma alcance a data de óbito do instituidor da pensão, ocorrido em maio de 1997.
+Ressalte-se, ainda, que o recorrido foi aposentado por invalidez no ano de 2000, o que reforça a tese de que ao tempo da morte de seu pai ainda não era incapaz, bem como afasta, a princípio, o requisito da dependência econômica em relação a seu genitor, tendo em vista que se consubstancia em fonte de renda própria.
+Além de tais fatos, há que se destacar, como bem expõe a decisão do Relator (Box 000023), que não se encontra presente na hipótese o periculum in mora a justificar a antecipação de tutela, isto porque, desde o fato gerador do benefício até seu requerimento judicial transcorreram mais de duas décadas. Ademais, estando o recorrido sob os cuidados de sua genitora, como ele mesmo afirma em razões recursais, e recebendo esta a pensão em sua integralidade, não se vislumbra qualquer prejuízo em seu sustento.
+Necessário, porém, que para que não se configure, de fato, qualquer prejuízo, seja determinado à instituição ré, ora apelante, que se abstenha de efetuar qualquer desconto ou retenção indevida na pensão paga à primeira autora, que, ao menos até o deslinde da causa, deve recebê-la em sua integralidade.
+Nada obstante, é de total iniquidade a retenção de percentual do pensionamento destinado à PRIMEIRA AGRAVADA -ARLETTE NUNES sob ofundamento de que se está a constituir reserva para o caso de vir a ser necessário o pagamento retroativo de valores devidos ao SEGUNDO AGRAVADO -ROBERTO NUNES.
+Ora, se a recorrente não reconhece a justiça do pleito, deve assumir os riscos desta decisão em vez de transferi-los a quem apenas pleiteia direito de se julga titular.
+Neste sentido, mostra-se absolutamente abusivo e desarrazoado que, ao mesmo tempo, a recorrente negue a inscrição do filho maior inválido e obrigue a sua mãe a custear, com prejuízo dos pagamentos alimentares, espécie de seguro para o caso de procedência do pleito deduzido por ela própria.
+Diga-se, ademais, que este duplo prejuízo imputado de maneira autoritária nem sequer é necessário: afinal, acaso venha a ser reconhecido o direito do segundo AGRAVADO -ROBERTO NUNES, a sua inclusão será prospectiva, de modo que eventuais diferenças pretéritas serão cobradas de quem as recebeu e não do devedor que pagou, de boa-fé, ao credor putativo"(fls. 11-114, e-STJ).
+Nesse contexto, não é possível a este Tribunal Superior apreciar o entendimento exarado na origem, porquanto teria que, necessariamente, rever o contexto fático-probatório dos autos, procedimento inviável nesta via extraordinária, consoante disposto na Súmula nº 7/STJ.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Deixo de tratar dos honorários recursais (artigo 85, § 11, do CPC/2015), haja vista não ter havido condenação em honorários sucumbenciais na origem.
+Publique-se.
+Intimem-se.
