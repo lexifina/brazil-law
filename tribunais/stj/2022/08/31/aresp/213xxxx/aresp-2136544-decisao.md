@@ -1,0 +1,17 @@
+DECISÃO
+BRADESCO SEGUROS S.A. interpôsrecurso especial contra acórdão proferido pelo TJSP assim ementado (e-STJ fl. 1.307):
+APELAÇÃO. Seguro Habitacional. Ação indenizatória. Empreendimento financiado com recursos do SFH em 01.04.1983. Há de se repelir as preliminares arguidas de inépcia da inicial, prescrição; legitimidade da Caixa Econômica Federal, com deslocamento da competência àJustiça Federal, falta de interesse de agir e denunciação da lide à Caixa Econômica Federal, pois, já enfrentadas quando do julgamento do Agravo de Instrumento n. 2242602-66.2015.8.26.0000 em 06 de abril de 2016. Ilegitimidade passiva do réu. Não cabimento.Requerido que integra um "pool" de seguradoras que atuam junto ao Sistema Financeiro de Habitação (SFH), e, como não há qualquer elemento a demonstrar tenha ele deixado de atuar neste sistema securitário, não há porque excluí-lo da lide.Litisconsórcio passivo. Inexistência. Questão de seguro habitacional que comportaria, quando muito, ação de regresso.Incidência do CDC. Partes que se adequam nos conceitos de fornecedor e consumidor previstos na legislação consumerista (ares. 2º e 39. Precedentes do STJ e desta C. Câmara. Vícios construtivos no imóvel. Risco previsto na apólice.Admissibilidade da indenização securitária pretendida. Prova técnica que, ademais, revelou os defeitos indicados no libelo.Multa decendial que pertence ao autor. Termo inicial a partir do aviso de sinistro. Juros devidos por se tratar de penalidade distinta. Limitação, todavia, do castigo e dos juros, atendida sua indo %,_à -obrigação principal. Responsabilidade  contratual - inafastável. Sentença mantida. RECURSO DESPROVIDO.
+O recurso foi admitido na origem(e-STJ fls. 1.385/1.386), sendo distribuído a esta relatoria (REsp n.1.848.341/SP).
+Considerando a existência da repercussão geral da matéria tratada no Recurso Extraordinário n. 827.996/PR, igualmentediscutida no recurso especial,determinou-se a devoluçãodos autos ao Tribunal de origem,para que, após a publicação do acórdão objeto do temarepresentativo da controvérsia, fosse implementada a sistemáticaprevistanos arts. 1.040 e 1.041, § 2º, do CPC/2015 (e-STJ fl. 1.395).
+A Corte paulista exerceujuízo de retratação (art. 1.040, II, do CPC/2015) 421/426), "para dar provimento parcial ao agravo de instrumento com a finalidade de reconhecer a competência da Justiça Federal para processamento e julgamento da demanda" (e-STJ fl. 1.424).
+Com isso, considerou"prejudicado o recurso especial" (e-STJ fl. 1.426).
+O recorrente se manifestou nos autos apenas para informar ao Desembargador Presidente do TJSP que oagravo de instrumento havia sido provido "para o fim de declinar a competência para a Justiça Federal e, ainda, proceder a juntada do Acórdão do referido Recurso" (e-STJ fl. 1.429/1.445).
+Essa petição foi recebida como agravo em recurso especial, tendo sido determinada a remessa dos autos ao STJ, nos temos do art. 1.042,§ 4º, do CPC/2015(e-STJ fl. 1.448).
+A parte agravada não apresentou contraminuta (e-STJ fl. 1.447).
+É o relatório.
+Decido.
+Nota-se que a petição de fls. 1.429/1.445 (e-STJ)foi recebidacomo agravo nos próprios autos. Todavia,não se identifica, em seu conteúdo, o propósito de impugnar a decisão que julgou prejudicado o recurso especial.
+O exame dos autos revela, portanto, a inexistência de pretensão recursal dirigidaaesta Corte pendente de apreciação.
+Ante do exposto,com fundamento no art. 34, XVIII, "a", primeira parte, do RISTJ, NÃO CONHEÇO do agravo.
+Devolvam-se os autos à origem.
+Publique-se e intimem-se.
