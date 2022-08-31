@@ -1,0 +1,80 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial. O apelo extremo, interposto com base no art. 105, inciso III, alínea "c", da Constituição Federal, insurge-se contra acórdão proferido pelo Tribunal de Justiça do Estado de Pernambuco assim ementado:
+"APELAÇÃO CÍVEL. AÇÃO DE RESCISÃO CONTRATUAL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA DA OBRA. CULPA DA CONSTRUTORA. DEVOLUÇÃO INTEGRAL DE VALORES AO COMPRADOR. JUROS DE MORA. TERMO INICIAL. DATA DA CITAÇÃO. ADEQUAÇÃO. COBRANÇA CORRETAGEM E TAXAS CONDOMINIAIS E TRIBUTOS. INDEVIDOS. INDENIZAÇÃO. DANOS MORAIS. INCABÍVEIS. PARCIAL PROVIMENTO À APELAÇÃO. SENTENÇA REFORMADA EM PARTE.
+Caracterizado o inadimplemento contratual injustificado do vendedor, abre-se a possibilidade de resolução do contrato pelo comprador, cabendo àConstrutora devolver integralmente os valores pagos, isto é, sem qualquer retenção compensatória.
+Adequada a fixação de juros de mora em 1% (um por cento) ao mês sobre o valor a ser restituído e sobre a multa contratual devida, com termo inicial a partir da data da citação, consoante disposto no Arts. 397, parágrafo único e 405 do CC. A incidência de juros de mora a partir do trânsito emjulgado tem lugar nos, casos de rescisão por iniciativa e culpa/inadimplemento do comprador, ou seja, quando não há mora da construtora, não sendo este o caso dos autos.
+À míngua de cláusula prevendo a transferência dessa obrigação ao comprador e em se tratando de demanda resolutória desencadeada pelo inadimplemento contratual da promitente vendedora, ora ré/apelante, descabida a retenção de percentual pertinente à comissão de corretagem.
+No que se refere às despesas do imóvel - taxa de condomínio e tributos -estas só seriam devidas após a entrega do empreendimento. Contudo, considerando que o habite-se foi concedido  20.09.2016  após o prazo final para conclusão das obras  20.05.2016  e que os autores jamais tomaram posse da unidade habitacional em litígio, descabido imputar-lhe qualquer a obrigação de pagar valores a esse título.
+Com efeito, é entendimento assente no STJ de que o mero inadimplemento contratual, por si só, não dá margem ao dano extrapatrimonial (AgInt no REsp 1713597/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 03/05/2018, DJe 14/05/2018), sendo necessária, para tanto, a demonstração de ofensa a direitos da personalidade, o que não ocorreu na lide em apreço.
+Apelações a que se nega provimento, mantendo-se integralmente a sentença vergastada" (fls. 360/361 e-STJ).
+Os embargos de declaração opostos foram rejeitados.
+As razões do recurso sustentam divergência jurisprudencial em relação à interpretação dos arts. 43-A e 67-A da Lei nº 4.591/1964, 394, 395, 396 e 884 do Código Civil.
+Afirmam que a culpa do atraso na obra se deu por culpa da prefeitura, devido à demora na expedição do habite-se.
+Alegam que os juros de mora devem ser contados a partir do trânsito em julgado.
+Por fim, aduzem que deve incidir a taxa Selic sobre os valores a serem devolvidos, em lugar de juros de mora e correção monetária.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+No que tange à suposta culpa de terceiro pelo atraso na entrega das obras, sobre o tema, o Tribunal de origem afirmou o seguinte:
+"De início, cumpre esclarecer que, embora a resolução contratual tenha se dado por inciativa do comprador, este foi motivado pela Construtora, haja vista o atraso na conclusão e entrega da obra, pois o bem, mesmo que os demandantes tivessem efetivado o pagamento do saldo restante, através de financiamento bancário e este transferido paraa empresa ré, ainda assim, não teriam recebido seu imóvel no prazo contratual estipulado, considerando que a data prevista de entrega era 30.11.2015 que aplicado o prazo de tolerância de 120 dias úteis, passaria para 20.05.2016  data termo de conclusão e entrega , o habite-se do empreendimento só foi expedido em 20.09.2016, ou seja, a entrega do imóvel se deu após o prazo máximo previsto.
+Caracterizando que de fato, inobstante tenha a demora da concessão do habite-se se dado ou não por culpa da prefeitura, ainda assim, houve o descumprimento contratual pela Construtora com relação ao prazo de conclusão e entrega do imóvel, considerando que a prática burocrática junto a órgão público leva a construtora ter cautela na data de solicitação do documento liberatório para expedição de tal instrumento ocorrera tempo da data limite de conclusão das obras" (fls. 355/356 e-STJ).
+Desse modo, para modificar as conclusões contidas no acórdãoa fim de rediscutir a ocorrência ou não deculpada recorrente, segundo as razões vertidas no apelo extremo, seria imprescindível o reexame de matéria fático-probatória, providência vedada pela Súmula 7/STJ.
+A propósito:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO DAS OBRIGAÇÕES. CONTRATOS. IMÓVEL EM CONSTRUÇÃO. ATRASO NA ENTREGA. MULTA. INTERPRETAÇÃO LÓGICO-SISTEMÁTICA DO PEDIDO. JULGADOS DO STJ. PLEITO QUE CONSTA NA PETIÇÃO INICIAL ADEMAIS. CULPA DA CONSTRUTORA PELO DESCUMPRIMENTO DO PRAZO DE ENTREGA. FORTUITO INTERNO. FATO INERENTE À ATIVIDADE EMPRESARIAL. ENTENDIMENTO DESTA CORTE. CONCLUSÕES COM BASE NO CONTRATO E NAS PROVAS. SUCUMBÊNCIA RECÍPROCA. REDIMENSIONAMENTO. IMPOSSIBILIDADE NA VIA ELEITA. APLICAÇÃO À ESPÉCIE DAS SÚMULAS 5, 7 E 83 DO STJ.
+1. Segundo entendimento do STJ, não há julgamento extra petita quando o juiz, fazendo uma interpretação lógico-sistemática, examina a petição apresentada pelo autor como um todo. Além disso, no caso concreto, há, no pedido inicial, expressa referência à multa por atraso na entrega da obra. Tem-se ainda que o Tribunal de origem, quanto à questão, aplicou a jurisprudência desta Corte materializada em repetitivos e ainda se valeu do contrato e das provas dos autos.
+Aplicação, no particular, das Súmulas 83, 5 e 7 do STJ.
+2. Fixado no acórdão do Tribunal de origem que o atraso na entrega da obra não decorreu da culpa exclusiva de terceiro, mas de fortuito interno, inerente à atividade empresarial, está o julgado de acordo com o entendimento desta Corte, atraindo a Súmula 83/STJ.
+Não há como afastar as conclusões sobre a culpa, sem reexame das provas, vedado pela Súmula 7/STJ.
+3. Aferir se está ou não correta a distribuição dos ônus da sucumbência, se os percentuais debitados a cada parte estão proporcionais ao quanto do decaimento recíproco do pedido, é pretensão que também não merece conhecimento, ante a Súmula 7/STJ.
+4. Agravo interno não provido."
+(AgInt no REsp n. 1.927.588/MG, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 21/3/2022, DJe de 24/3/2022.)
+"AGRAVO INTERNO NO RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL.ATRASONAENTREGADO IMÓVEL. JUROS DEOBRA.COBRANÇA NO PERÍODO DA MORA.IMPOSSIBILIDADE. JURISPRUDÊNCIA REPETITIVA DO STJ. REVISÃO DO JULGADO. INCIDÊNCIA DOS ENUNCIADOS N.º 5 E 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Segundo a jurisprudência repetitiva da Segunda Seção do STJ "é ilícito cobrar do adquirente juros deobraou outro encargo equivalente, após o prazo ajustado no contrato para aentregadas chaves da unidade autônoma, incluído o período de tolerância" (REsp n. 1.729.593/SP, Relator Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 25/9/2019, DJe 27/9/2019).
+2. O Tribunal de Justiça de origem, a partir do exame dos elementos de prova e da interpretação do contrato, concluiu pelaculpada vendedora peloatrasonaentregadaobra,motivo pelo qual rejeitou o pedido de ressarcimento dos juros deobraexigidos do adquirente.
+Dessa forma, é inviável alterar tal conclusão em recurso especial, ante o óbice dos Enunciado n.º 5 e 7/STJ.
+3. Agravo interno não provido."
+(AgInt no REsp 1923835/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 24/05/2021, DJe 27/05/2021)
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. IMÓVEL.ENTREGA.ATRASOMULTA. SÚMULA Nº 282/STF. LUCROS CESSANTES. PRESUNÇÃO DE PREJUÍZO.CULPA.SÚMULA Nº 7/STJ.
+1. Ausente o prequestionamento, até mesmo de modo implícito, de matéria suscitada no recurso especial, incide, por analogia, o disposto na Súmula nº 282 do Supremo Tribunal Federal.
+2. Esta Corte Superior já firmou o entendimento de que, descumprido o prazo paraentregado imóvel objeto do compromisso de compra e venda, é cabível a condenação por lucros cessantes, havendo presunção de prejuízo do promitente comprador.
+3. Rever as conclusões do acórdão recorrido acerca daculpapeloatrasonaentregado imóvel demandaria o reexame de matéria fático-probatória, o que é vedado em recurso especial, nos termos da Súmula nº 7 do Superior Tribunal de Justiça.
+4. Agravo regimental não provido."
+(AgRg no AREsp 763.829/DF, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 23/06/2016, DJe 01/08/2016)
+A jurisprudência desta Corte é no sentido deque, em casoderescisão de contrato de compra e venda de imóvel por culpa dapromitente vendedora, os juros de mora sobre o valor a ser restituídoincidem a partir da citação.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL AÇÃO DE RESCISÃO CONTRATUALCUMULADA COM INDENIZAÇÃO. ATRASO NA ENTREGA DE IMÓVEL.CULPA DO VENDEDORCONFIGURADA. DEVOLUÇÃO DA INTEGRALIDADE DOS VALORES PAGOS CUMULADA COMLUCROS CESSANTES ATÉ A IMISSÃO NA POSSE DO COMPRADOR. JUROS DE MORA. TERMOINICIAL. CITAÇÃO. AGRAVO INTERNO NÃO PROVIDO.
+1. "Na hipótese de resolução de contrato de promessa de compra e venda de imóvel submetido ao Código de Defesa do Consumidor, deve ocorrer a imediata restituição das parcelas pagas pelo promitente comprador - integralmente, em caso de culpa exclusiva do promitente vendedor/construtor, ou parcialmente, caso tenha sido o comprador quem deu
+causa ao desfazimento" (Súmula 543/STJ).
+2. A jurisprudência do STJ firmou o entendimento, em recurso repetitivo, de que, no caso de descumprimento do prazo para a entrega do imóvel, incluído o período de tolerância, o prejuízo do comprador é presumido, consistente na injusta privação do uso do bem, a ensejar o pagamento de indenização, na forma de aluguel mensal, com base no valor locatício de imóvel assemelhado, com termo final na data da disponibilização da posse direta ao adquirente da unidade autônoma (REsp 1.729.593/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Segunda Seção, DJe de 27/9/2019 (Tema 996). Incidência da Súmula 568 do STJ.
+3. No caso dos autos, a Corte de origem consignou expressamente que a rescisão contratual decorreu de culpa exclusiva da vendedora, haja vista o descumprimento dos prazos contratados. A modificação quanto à responsabilidade pela rescisão contratual demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso
+especial, a teor do que dispõe a Súmula 7 deste Pretório.
+4. A jurisprudência desta Corte orienta que, em caso de rescisão de contrato de compra e venda de imóvel por culpa da promitente-vendedora, os juros de mora sobre o valor a ser restituído incidem a partir da citação.
+5. Agravo interno a que se nega provimento"
+(AgInt no AREsp 1.761.193/DF, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 22/3/2021, DJe 13/4/2021).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. RESCISÃO DE CONTRATO DE COMPRA E VENDA DE IMÓVEL. ATRASONA ENTREGA DE IMÓVEL. RESTITUIÇÃO INTEGRAL.CABIMENTO. DANOS MORAIS CONFIGURADOS. QUANTUM ADEQUADO. CORREÇÃO MONETÁRIA DESDE O DESEMBOLSO.JUROS DE MORA DESDE A CITAÇÃO.SUCUMBÊNCIA RECÍPROCA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. FUNDAMENTOS INATACADOS. SÚMULAS283 E 284 DO STF. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO E NEGARPROVIMENTO AO RECURSO ESPECIAL.
+1. Agravo interno contra decisão da Presidência que conheceu do agravo para não conhecer do recurso especial, em razão da falta de impugnação específica de fundamento decisório. Reconsideração.
+2. Em caso de rescisão de contrato de promessa de compra e venda de imóvel por culpa exclusiva do promitente-vendedor, deve haver a restituição imediata e integral das parcelas pagas.
+3. O simples inadimplemento contratual, em razão do atraso na entrega do imóvel, não é capaz, por si só, de gerar dano moral indenizável, sendo necessária a comprovação de circunstâncias específicas que podem configurar lesão extrapatrimonial, como reconhecido pela Corte de origem.
+4. Quanto ao valor da indenização, o Superior Tribunal de Justiça firmou orientação de que somente é admissível o exame do valor fixado a título de danos morais em hipóteses excepcionais, quando for verificada a exorbitância ou a índole irrisória da importância arbitrada, em flagrante ofensa aos princípios da razoabilidade e da proporcionalidade, o que, no entanto, não ocorreu no caso em exame.
+5. A Corte Estadual fixou a data da citação como o termo inicial dos juros de mora incidentes sobre o valor a ser restituído, e o momento dos respectivos desembolsos como termo inicial da correção monetária das parcelas pagas, alinhando-se ao entendimento desta Corte Superior.
+Incidência da Súmula 83 do STJ.
+(..)
+8. Agravo interno provido para, reconsiderando a decisão agravada, conhecer do agravo e negar provimento ao recurso especial"
+(AgInt no AREsp 1.698.841/MS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 1º/3/2021, DJe 22/3/2021).
+No que diz respeito à incidência da taxa Selic sobre os valores a serem devolvidos, ao invés de juros de mora e correção monetária, o recurso não merece conhecimento.
+Nos termos dos artigos 1.029, § 1º, do Código de Processo Civil/2015 (art. 541, parágrafo único, do Código de Processo Civil/1973) e 255, §§ 1º e 2º, do Regimento Interno do Superior Tribunal de Justiça, inviável o conhecimento do recurso especial pela alínea "c" do permissivo constitucional, quando não demonstrada, como na hipótese, a similitude fática entre as hipóteses confrontadas, inviabilizando a análise da divergência de interpretação da lei federal invocada. Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO (ART. 1042 DO NCPC) - AÇÃO CAUTELAR INOMINADA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA PARTE AUTORA.
+1. A interposição do recurso especial pela alínea c do permissivo constitucional exige que o recorrente cumpra o disposto nos arts. 1029, § único, do NCPC e 255, § 1º, a, e § 2º, do RISTJ. Na espécie, o recorrente limitou-se a transcrever a ementa do julgado paradigma, não atendendo aos requisitos estabelecidos pelos dispositivos legais supramencionados, restando ausente o necessário cotejo analítico a comprovar o dissídio pretoriano e a similitude fática.
+2. Outrossim, a ausência de indicação clara e precisa dos dispositivos de lei federal em torno dos quais haveria divergência jurisprudencial, caracteriza a deficiência na fundamentação do recurso, a atrair o óbice da Súmula 284 do STF. Precedentes.
+3. Agravo interno desprovido."
+(AgInt no AREsp 1.103.058/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 13/03/2018, DJe 23/03/2018)
+"AGRAVO REGIMENTAL EM RECURSO ESPECIAL. DISSÍDIO PRETORIANO. AUSÊNCIA DESIMILITUDE FÁTICA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. A dessemelhança fática entre o paradigma citado e o acórdão recorridoimpede a configuração da divergência jurisprudencial, em virtude daausência de tese divergente tratada por outro Tribunal a respeito doassunto discutido no recurso especial.
+2. Agravo regimental a que se nega provimento."
+(AgRg no REsp1.100.486/RS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em03/05/2011, DJe 06/06/2011)
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 10% (dez por cento) sobre o valor da condenação, os quais devem ser majorados para o patamar de 12,5% (doze e meio por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
