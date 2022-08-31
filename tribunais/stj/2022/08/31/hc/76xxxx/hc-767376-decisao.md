@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se dehabeas corpussubstitutivo de recurso próprio, com pedido de liminar, impetrado em favor de SEVERIANO PEDRO DE BARROS, contra acórdão do Tribunal de Justiça do Estado de São Paulo, que deu provimento ao apelo defensivo "somente para corrigir erro de cálculo em benefício dos réus, devendo a sanção ser determinada em 09 anos de reclusão, e o pagamento de 1.349 dias-multa, no piso" - pelos delitos de tráfico de drogas e associação para o tráfico.
+Nestehabeas corpus, a defesa alega que "o paciente é primário, consoante às folhas de antecedentes e certidões de objeto e pé juntadas ao processo cognitivo e que instruem o habeas corpus. Sua última condenação com cumprimento de pena ocorreu há muito mais do que 05 anos da sua prisão em flagrante, a qual originou o presente caso!
+Requera "CONCESSÃO DA ORDEM DE OFÍCIO em caráter LIMINAR para AFASTAR a reincidência e redimensionar as penas, estabelecendo-as no mínimo legal ao compensar a atenuante de maior de 70 anos com a circunstância negativa consistente na quantidade de droga."
+É o relatório.
+Decido.
+A tese sustentada pela defesa - primariedade do réu - nãofoi objeto de exame no acórdão impugnado, o que impede seu conhecimento por este Tribunal Superior, sob pena de indevida supressão de instância, consoante entendimento desta Corte:
+PEDIDO DE RECONSIDERAÇÃO NO HABEAS CORPUS RECEBIDO COMO AGRAVO REGIMENTAL. AFASTAMENTO DA REINCIDÊNCIA COMO FUNDAMENTO DA PRISÃO PREVENTIVA. SUPRESSÃO DE INSTÂNCIA. REVOGAÇÃO DA CUSTÓDIA CAUTELAR. REITERAÇÃO DE PLEITO ANTERIOR. AGRAVO NÃO PROVIDO.
+1. Por se tratar do segundo pedido de reconsideração apresentado contra a decisão que indeferiu liminarmente a impetração, bem como em face da identidade do prazo recursal e da inexistência de erro grosseiro, recebe-se como agravo regimental.
+2. Como já salientado em duas oportunidades nos autos, a questão referente à impossibilidade da utilização de reincidência não específica para justificar a prisão preventiva do réu não foi apreciada pelo Tribunal a quo, o que inviabiliza o exame do tema, por configurar supressão de instância.
+3. A revogação da prisão preventiva do postulante já foi objeto de anterior impetração em trâmite nesta Corte Superior, a evidenciar que se trata de reiteração de pedido anteriormente formulado.
+4. Pedido de reconsideração recebido como agravo regimental. Agravo regimental não provido.
+(RCD no HC n. 742.105/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 21/6/2022, DJe de 27/6/2022.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. DECISÃO MONOCRÁTICA PROFERIDA NA FORMA DO CPC E DO RISTJ. PRISÃO PREVENTIVA. REVOGAÇÃO. IMPOSSIBILIDADE. PREENCHIMENTO DOS REQUISITOS LEGAIS. GARANTIA DA ORDEM PÚBLICA. SUBSTITUIÇÃO POR MEDIDAS CAUTELARES ALTERNATIVAS. NÃO CABIMENTO. RISCO DE REITERAÇÃO DELITIVA. APREENSÃO DE EXPRESSIVA QUANTIDADE DE DROGAS. REINCIDÊNCIA. SUPRESSÃO DE INSTÂNCIA. MATÉRIA NÃO APRECIADA PELO TRIBUNAL DE ORIGEM. DECISÃO FUNDAMENTADA. AGRAVO REGIMENTAL DESPROVIDO.
+1. O relator no STJ está autorizado a proferir decisão monocrática, que fica sujeita à apreciação do respectivo órgão colegiado mediante a interposição de agravo regimental, não havendo violação do princípio da colegialidade (arts. 932, III, do CPC e 34, XVIII, a e b, do RISTJ).
+2. A imprescindibilidade da prisão preventiva justificada no preenchimento dos requisitos dos arts. 312, 313 e 315 do CPP impede a aplicação das medidas cautelares alternativas previstas no art. 319 do CPP.
+3. São fundamentos idôneos para a decretação da segregação cautelar no caso de tráfico ilícito de entorpecentes a quantidade, a variedade ou a natureza das drogas apreendidas, bem como a gravidade concreta do delito, o modus operandi da ação delituosa e a periculosidade do agente.
+4. Os maus antecedentes e a reincidência evidenciam o maior envolvimento do agente com a prática delitiva, podendo ser utilizados para justificar a manutenção da segregação cautelar para garantia da ordem pública, com o objetivo de conter a reiteração delitiva.
+5. O exame pelo Superior Tribunal de Justiça de matéria que não foi apreciada pelas instâncias ordinárias enseja indevida supressão de instância, com explícita violação da competência originária para o julgamento de habeas corpus (art. 105, I, c, da Constituição Federal).
+6. Agravo regimental desprovido.
+(AgRg no HC n. 721.594/RS, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 15/3/2022, DJe de 18/3/2022.)
+Ademais, segundo se infere da folha de antecedentes acostadas aos autos, o paciente registra duas condenações definitivas pelo tráfico de drogas, em processos distintos, e não há a data do cumprimento das penas, o que impede o exame, de pronto, da manifesta ilegalidade.
+Ante o exposto, indefiro liminarmente o writ.
+Publique-se. Intimem-se.
