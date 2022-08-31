@@ -1,0 +1,60 @@
+DECISÃO
+Trata-se de agravo em recurso especial desafiando decisão que não admitiu recurso especial interposto por IRAGENI BEZERRA DA SILVA BUENO com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+APELAÇÃO Ação declaratória de inexistência de débito c.c. indenização por danos morais Inscrição negativa - Autora que alega desconhecimento do débito anotado pela ré Débito relativo à fatura de cartão de crédito Devida comprovação pela ré - Atendimento ao art. 373, II, CPC Aplicação de multa por litigância de má-fé, nos termos dos art. 80, II e 81, CPC Ciência inequívoca da autora quanto à contratação junto à ré - Sentença mantida Recurso da autora desprovido.
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial, sustenta a recorrente, ora agravante, que o Tribunal a quo negou vigência aos arts. 489 e 1.022 do CPC/2015, pois não fundamentou a questão da viabilidade do registro no SERASA, considerando que não houve a comprovação legal da dívida.
+Defende, ainda, que o Tribunal a quo violou osarts. 79, 80, 81, 373, II, 339, § 1º, 186, 187, 225, 927, do CC, 43, §1º, 73, do Código de Defesa do Consumidor, na medida em que a inscrição junto ao banco de dados do SERASA se deu indevidamente, pois nãohá um documento que lhe vincule a uma dívida e que a litigância de má-fé exige a demonstração de que a parte tenha agido com dolo ou culpa grave.
+É o relatório. Passo a decidir.
+O recurso especial é oriundo de ação declaratória de inexigibilidade de dívida.
+Em preliminar, cumpre enfrentar a alegada violação dos arts. 489 e 1.022 do CPC/2015.
+A irresignação não prospera.
+Em verdade, acerca da ausência de comprovação da dívida para fins de inscrição no SERASA, o Tribunal a quo esclareceu acerca da força probante dos extratos da conta corrente da ora agravante.
+Quanto ao ponto, confira-se trecho esclarecedor do voto condutor do acórdão recorrido:
+Incontroverso nos autos a autora teve seu nome negativado pelo réu. Ademais, às fls. 30/31 há comprovante da negativação.
+Ao contrário do que pretende a parte, não se vislumbra qualquer irregularidade na anotação restritiva.
+No caso, o banco réu demonstrou por meio dos documentos de fls. 159 e ss. a contratação de cartão de crédito pela autora, inclusive com o uso do plástico desde abril de 2016, fato não impugnado pela requerente.
+Ademais, a própria autora não nega o inadimplemento do débito relativo à fatura de cartão no valor de R$ 1.159,16 (hum mil, cento e cinquenta e nove reais e dezesseis centavos), e que teria sido fundamentado o apontamento em discussão (27/04/2019, fls. 30 e 198).
+Ao contrário, apenas sustenta irregularidade formal da inscrição, pois realizada pelo Banco IBI, com que não teria relação jurídica.
+Este argumento, contudo, não se sustenta.
+Observa-se das faturas juntadas pelo réu que o cartão utilizado pela parte é o IBICARD C&A VISA INTERNACIONAL, de forma que a inscrição negativa realizada pelo Banco IBI não afasta a regularidade da cobrança, vez que a parte sabia de qual débito estava sendo demandada.
+Assim, e diante da não comprovação do fato constitutivo de seu direito (art. 373, I, CPC), tem-se pela improcedência do pedido autoral.
+Deveras, não há nenhuma omissão ou mesmo ausência de fundamentação a ser sanada no julgamento estadual. Inexistentes, portanto,os requisitos para reconhecimento de ofensa aos arts. 489 e 1.022 do CPC/2015. O acórdão dirimiu a controvérsia com base em fundamentação sólida, tendo apenas resolvido a celeuma em sentido contrário ao postulado pela parte insurgente.
+No mesmo sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA. OMISSÃO OU CONTRADIÇÃO INEXISTENTES. ACÓRDÃO DEVIDAMENTE FUNDAMENTADO. CONCLUSÃO NO SENTIDO DA LEGITIMIDADE PASSIVA DA INSURGENTE. PREMISSA DE QUE TODAS AS RÉS FARIAM PARTE DA CADEIA DE CONSUMO EM RELAÇÃO JURÍDICA REGIDA PELOCÓDIGO DE DEFESA DO CONSUMIDOR.APLICAÇÃO DAS SÚMULAS 5 E 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Não há nenhuma omissão ou mesmo contradição a ser sanada no julgamento estadual, portanto inexistentes os requisitos para reconhecimento de ofensa ao art. 1.022, II, do CPC/2015. O acórdão dirimiu a controvérsia com base em fundamentação sólida, sem tais vícios, tendo apenas resolvido a celeuma em sentido contrário ao postulado pela parte insurgente.
+2. A Corte de origem concluiu que todas as requeridas, ou seja, inclusive a insurgente, Thá Pronto Consultoria de Imóveis S.A., teriam feito parte da cadeia de consumo, logo ela também ostentaria legitimidade passiva para responder pela ação e suportar as consequências da condenação. Essas ponderações (acerca da legitimidade passiva da insurgente) foram fundadas na apreciação fático-probatória e em termos contratuais, ocasionando os óbices das Súmulas 5 e 7/STJ, que incidem sobre ambas as alíneas do permissivo constitucional.
+3. Agravo interno desprovido.
+(AgInt no AREsp 2033926/PR, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 6/6/2022, DJe de 8/6/2022)
+Outrossim, quanto à legalidade da inscrição negativa, o Tribunal a quo, com amparo no art. 43 do CDC, asseverou e concluiu ser regular a negativação.No caso,a conclusão exarada pelas instâncias ordinárias em relação à regularidade da negativação, demandaria, necessariamente, a incursão na seara fático-probatória constante nos autos, vedada pela Súmula 7/STJ.
+No mesmo sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLATAFORMA "SERASALIMPA NOME". ALEGAÇÃO DE INSCRIÇÃO INDEVIDA. INEXISTÊNCIA. NECESSIDADE DE REVOLVIMENTO DE MATÉRIA FÁTICA. SÚMULA 7/STJ. OMISSÃO E NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA. PREQUESTIONAMENTO EXIGIDO. ART. 1025 DO CPC. PREQUESTIONAMENTO FICTO NÃO EVIDENCIADO. INCIDÊNCIA DA SÚMULA 211 DO STJ. Agravo interno a que se nega provimento.
+1. É entendimento pacífico desta Corte de que a ausência de enfrentamento expresso acerca da questão objeto da controvérsia pelo Tribunal a quo impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula 211 do STJ.
+2. Na exegese do art. 1.025 do Código de Processo Civil de 2015, considera-se prequestionada determinada matéria apenas caso alegada e reconhecida a violação ao art. 1.022 do mesmo estatuto, o que não se evidencia na hipótese. Precedentes.
+3. Ademais, a conclusão exarada pelas instâncias ordinárias em relação à comprovação do débito e, ainda, de que a plataformaSerasaLimpa Nome "não se trata, propriamente, de um órgão de restrição de crédito, mas, sim, de uma plataforma com o fim de viabilizar a renegociação entre consumidor e credor" demandaria, necessariamente, a incursão na seara fático-probatória constante nos autos, situação que atrai o óbice da Súmula nº 7 do STJ.
+4. Ausentes alegações que infirmem os fundamentos da decisão atacada, permanecem incólumes os motivos expendidos pela decisão recorrida.
+5. Agravo interno desprovido.
+(AgInt no AREsp 2034651/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 26/4/2022, DJe de 4/5/2022, g.n.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO INDENIZATÓRIA.CADASTRODEINADIMPLENTES.ANOTAÇÃO INDEVIDA. DANOS MORAIS. NÃO CARACTERIZAÇÃO. SÚMULA Nº 385/STJ. INSCRIÇÕES ANTERIORES. REGULARIDADE. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. No tocante à anotação irregular emcadastrode proteção ao crédito, não cabe indenização por dano moral quando preexistente legítima inscrição, ressalvado o direito ao cancelamento. Súmula nº 385/STJ.
+3. Na hipótese, rever a conclusão do tribunal de origem acerca da regularidade das anotações anteriores do nome do agravante noscadastrosdeinadimplentesexigiria a incursão nos elementos fático-probatórios dos autos, procedimento que esbarra no óbice da Súmula nº 7/STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp 1545364/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 14/2/2022, DJe de 22/2/2022, g.n.)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INEXISTÊNCIA DE DÉBITO C/C DANOS MORAIS. AUSÊNCIA DE AFRONTA AO ART. 535 DO CPC. CERCEAMENTO DE DEFESA NÃO VERIFICADO. FALTA DE COMPROVAÇÃO DA INDEVIDANEGATIVAÇÃOEM ÓRGÃOS DE PROTEÇÃO AO CRÉDITO. LEGALIDADE DO VALOR COBRADO. ANÁLISE DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 535 do CPC quando o acórdão recorrido analisou todas as questões pertinentes para a solução da lide, pronunciando-se, de forma clara e suficiente, sobre a controvérsia estabelecida nos autos.
+2. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7 do STJ.
+3. No caso concreto, o Tribunal de origem avaliou o conjunto probatório dos autos e considerou não configurado o cerceamento de defesa, concluindo pela inexistência de provas da alegada inscrição indevida e pelaregularidadedos valores exigidos. Alterar esse entendimento demandaria o reexame das provas produzidas nos autos, o que é vedado em recurso especial.
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 450647/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 21/10/2014, DJe de 31/10/2014)
+Por fim, o óbice da súmula 7/STJ também incide em relação ao pedido de afastamento da multa por litigância de má-fé. Isso, porque a Corte local, à luz dos princípios da livre apreciação da prova e do livre convencimento motivado, tendo como base o acervo fático- probatório dos autos, concluiu que a parte recorrente agiu de forma temerária, contrária à verdade dos fatos diante da alegação de desconhecimento da contrataçãoe aplicou-lhe a multa por litigância de má-fé. Nessa mesma linha de intelecção, destacam-se:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO CUMULADA COM REPETIÇÃO DE INDÉBITO E INDENIZATÓRIA. DANO MORAL.INEXISTÊNCIA. SÚMULA 7/STJ. APLICAÇÃO DE MULTA POR LITIGÂNCIA DE MÁ-FÉ. AFASTAMENTO. REEXAME DE PROVAS.IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+(..)
+4. Rever a conclusão adotada no v. Acórdão recorrido sobre a caracterização da litigância de má-fé do agravante demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+5. Agravo interno a que se nega provimento." (AgInt no AREsp 1.399.945/MS, Rel. MIN. RAUL ARAÚJO, QUARTA TURMA, julgado em 21/03/2019, DJe de 02/04/2019 - g. n.)
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS DECLARATÓRIOS. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECURSO. SÚMULA N. 284 DO STF.PREQUESTIONAMENTO. LITIGÂNCIA DE MÁ-FÉ. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS.INADMISSIBILIDADE. INCIDÊNCIA DA SUMULA N. 7 DO STJ.DECISÃO MANTIDA.
+(..)
+3. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos ou interpretação de cláusula contratual, a teor do que dispõem as Súmulas n. 5 e 7 do STJ.
+4. No caso dos autos, a modificação das conclusões do acórdão recorrido, a respeito da conduta protelatória do agravante, para fins de afastamento da multa por litigância de má-fé, demandaria análise do conteúdo fático dos autos.
+5. Agravo interno a que se nega provimento." (AgInt no AREsp 273.612/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe de 23/3/2018 - g. n.)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, a e b, do RISTJ, conheço do agravo para conhecer em parte do recurso especial, e nessa parte, negar-lhe provimento. E, quanto ao ônus da sucumbência recursal, em observância ao art. 85, §11, do CPC/2015,majoro os honoráriosadvocatícios de 10% para 11% sobre o valor da causa, observada a gratuidadeconcedida.
+Publique-se.
