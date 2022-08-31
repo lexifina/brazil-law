@@ -1,0 +1,55 @@
+DECISÃO: Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+
+    O apelo extremo foi interposto com fundamento na alínea "a" do permissivo constitucional.
+
+    O acórdão recorrido ficou assim ementado:
+
+    DIREITO ADMINISTRATIVO E PROCESSUAL CIVIL. REMESSA NECESSÁRIA E APELAÇÃO CÍVEL. CONTRATOS DE CONCESSÃO E ARRENDAMENTO. SERVIÇO PÚBLICO (TRANSPOSRTE FERROVIÁRIO). ALEGADO ABANDONO POR PARTE DA CONCESSIONÁRIA. ENTIDADE INTERESSADA. INGRESSO NO FEITO COMO AMICUS CURIAE. POSSIBILIDADE (ARTIGO 138, CPC/2015). AUTORIZAÇÃO DE OFÍCIO. INGRESSO NA LIDE DOS ESTADOS COM POPULAÇÃO AFETADA (RJ E MG). DESNECESSIDADE. INGRESSO DA ANTT NA LIDE. NEGATIVA DA AGÊNCIA REGULADORA. PODER DE POLÍCIA (ARTIGOS 24 E 25, LEI Nº 10.233/2001) QUE NÃO EXCLUI O INTERESSE PROCESSUAL DA UNIÃO FEDERAL. TRANSAÇÃO REALIZADA ENTRE A FCA E A ANTT (RESOLUÇÃO ANTT Nº 4.131/2013). PERDA DE INTERESSE SUPERVENIENTE DA UNIÃO. NÃO CONFIGURAÇÃO.
+
+    1. União Federal, na qualidade de sucessora da Autora originária (RFFSA), que postula a condenação das Rés (FCA - Ferrovia Centro-Atlântica S/A e MRS Logística S/A) nos seguintes provimentos: (i) condenação da "arrendatária Ferrovia Centro Atlântica S/A a restaurar todos os bens arrendados vinculados aos trechos ferroviários aqui mencionados, e solidariamente a MRS nos trechos Barão de Angra-Paraíba do Sul e Japeri-Ambaí, no Estado do Rio de Janeiro e Pátio de Transbordo de Granéis - Patrag, no Ramal da Açominas, fixando prazo razoável para cumprimento, com pena diária em caso de descumprimento"; (ii) indenizar a RFFSA nos danos sofridos que vierem a ser apurados em liquidação de sentença, relativos a material rodante e outros materiais furtados ou destruídos nesses trechos, bem como na eventual diferença do preço mínimo em face do método de avaliação que considerou, para esse efeito, investimentos previstos"; e (c) "pagar multa contratual, incidente sobre os anteriores, bem como as despesas [com] que a RFFSA eventualmente vier a arcar em face da reparação dos danos causados, com acréscimo de atualização monetária, juros e honorários advocatícios".
+
+    2. Pedidos fundamentados em contrato de concessão/arrendamento celebrado entre a extinta RFFSA e a FCA, em agosto de 1996, relativo à prestação de serviço público (transporte ferroviário), em trechos da Malha Centro-Leste, no qual se alega descumprimento consubstanciado em abandono dos trechos mencionados na exordial, permitindo-se a sua depredação, furto de materiais arrendados e a consequente não utilização dos trechos, em prejuízo dos usuários.
+
+    3. Manifestações da FAEF - Federação das Associações de Engenheiros Ferroviários que autorizam o ingresso da entidade no feito, na qualidade de amicus curiae, conforme admitido de ofício pelo Relator, com fulcro no Artigo 138, CPC/2015, com base na possibilidade de que sejam trazidos subsídios relevantes para enriquecer a discussão e possibilitar uma solução ainda mais equilibrada da controvérsia, diante da relevância e da repercussão social da presente demanda, que diz respeito a alegado abandono, pela concessionária de serviço de transporte ferroviário, de vários trechos localizados na Malha Centro-Leste, conforme bem ressaltou o digno representante do Ministério Público Federal em detalhado parecer. Possibilitados à entidade o peticionamento nos autos e também a sustentação oral, esta última desde que também possível às outras partes.
+
+    4. Ingresso na lide dos Estados do Rio de Janeiro e de Minas Gerais, conforme requerido pelo Parquet Federal, que não se entende cabível in casu, já que, ainda que suas populações sejam efetivamente prejudicadas pela degradação da malha ferroviária alegada na exordial, a atribuição para buscar a reparação por esse estado é da União Federal, na qualidade de sucessora da extinta RFFSA, de modo indelegável e, quanto ao dano coletivo, em ação a ser movida pelo MPF.
+
+    5. Requerido o ingresso da ANTT - Agência Nacional dos Transportes Terrestres no feito, tanto pela então Autora RFFSA como pelo MPF, e declarado expressamente pela agência reguladora não ter interesse na lide, e ainda que, por opção legislativa (Artigos 24 e 25, Lei nº 10.233/2001), tenham sido acometidas atribuições de administração dos contratos de concessão e arrendamento, bem como de fiscalização do cumprimento de suas cláusulas, tal circunstância não retira o interesse de agir da União Federal, nem define o entendimento dessa parte quanto ao mérito da lide.
+
+    6. A realização de transação entre a FCA (Primeira Ré) e a ANTT, mediante a Resolução ANTT nº 4.131, de 03.07.2013, não caracteriza, ao contrário do que entendeu o r. Juízo a quo, a perda superveniente do interesse de agir da União Federal (que sequer participou da referida transação), não se constituindo em novação mas, conforme informações prestadas pelo Ministério dos Transportes, e no máximo, cumprimento parcial da obrigação da concessionária, a ensejar a anulação da sentença atacada, com a consequente devolução dos autos à 1ª Instância, com vistas a nova produção de prova, inclusive pericial, de modo a aquilatar o grau desse cumprimento parcial, diante da vedação à supressão de instância vigente no ordenamento jurídico brasileiro.
+
+    7. Interesse processual da União Federal que remanesce "em relação aos pedidos de condenação das Rés a indenizar a RFFSA nos danos sofridos, relativos a material rodante e outros materiais furtados ou destruídos, nos trechos apontados, bem como na eventual diferença do preço mínimo em face do método de avaliação que considerou, para esse efeito, investimentos previstos; e a pagar multa contratual e as despesas [com] que a RFFSA viesse a arcar em decorrência da reparação dos danos sofridos, com atualização monetária, juros e honorários advocatícios".
+
+    8. Em que pese haver prova pericial de Engenharia já produzida nos autos, o referido laudo não é suficiente para definir o montante dos prejuízos causados, ou o valor da indenização ora pleiteada, já que trata-se de perícia conduzida no período de 08.08 a 04.09.2007 (mais de dez anos após a celebração do contrato mencionado na exordial, em 1996), que teve como objetivo, tão-somente, "vistoriar e atestar o estado de conservação dos trechos ferroviários contidos na inicial da Autora", não sendo suficiente para determinar o quantum correspondente a eventual indenização devida em razão da degradação das linhas férreas em questão mas, apenas, constatar o seu estado de conservação no ano de 2007.
+
+    9. Embora não haja elementos, no referido laudo pericial, que possibilitem aferir o exato quantum, em termos financeiros, da degradação causada nos trechos de ferrovias que constituem o objeto da presente ação, foi possível verificar que as afirmações da MRS Logística S/A, no sentido de que teria recolocado o terceiro trilho nos trechos reclamados, cumprindo a obrigação de fazer postulada nos autos, não é exata, diante das conclusões do expert do Juízo, no sentido de que "A MRS recolocou o terceiro trilho que compunha a bitola mista dos trechos entre BARÃO DE ANGRA-PARAÍBA DO SUL e JOAQUIM MURTINHO-AÇOMINAS (PATRAG). No trecho BARÃO DE ANGRA-PARAÍBA DO SUL falta o devido travamento da via permanente, seus elementos de fixação e a reposição de dois AMVs para que o mesmo esteja em condições de suportar o tráfego ferroviário de cargas, pois, da maneira que o trecho se encontra, não há como haver tráfego de cargas no local. No trecho JOAQUIM MURTINHO-AÇOMINAS (PATRAG), o mesmo problema de travamento e elementos de fixação acontece, sendo que neste não existe ausência de AMVs".
+
+    10. Necessidade que ora se constata, de análise mais acurada do mérito global da lide, mas que somente poderá ser efetuada a partir da produção de novas provas, voltadas a esclarecer: (i) qual o montante do prejuízo causado à União Federal em razão da retirada, pela MRS Logística S/A, do terceiro trilho dos trechos identificados na exordial, e da sua recolocação posterior, sem os elementos apontados no laudo pericial produzido em 2007; e (ii) quais trechos, daqueles mencionados na exordial, foram ou não objeto de recomposição por parte da FCA, como resultado da efetiva implementação das providências mencionadas na Resolução ANTT nº 4.131/2013, deduzindo-se, da indenização total postulada na exordial, eventuais quantias pagas por força dessa Resolução.
+
+    11. Remessa necessária e apelação da União Federal providas em parte, com anulação da sentença atacada e devolução dos autos à 1ª Instância, na forma da fundamentação.
+
+    Opostos os embargos de declaração, foram rejeitados.
+
+    No recurso extraordinário sustenta-se violação dos arts. 5º, inciso XXXVII; e 93, inciso IX, da Constituição Federal.
+
+    Decido.
+
+    Analisados os autos, verifica-se que o Plenário da Corte, em sede de repercussão geral, reafirmou a orientação de que o artigo 93,inciso IX, da Constituição não exige que o órgão judicante se manifeste sobre todos os argumentos apresentados pela defesa, mas sim que ele fundamente, ainda que sucintamente, as razões que entendeu suficientes à formação de seu convencimento (AI nº 791.292/PE-RG-QO, Tribunal Pleno, Rel. Min. Gilmar Mendes, DJe de 13/8/10).
+
+    Ademais, verifica-se que a afronta aos dispositivos constitucionais suscitados no recurso extraordinário seria, se ocorresse, indireta ou reflexa, o que é insuficiente para amparar o apelo extremo. Ademais, o acolhimento da pretensão recursal demandaria o reexame do conjunto fático-probatório dos autos e das cláusulas do contrato celebrado entre as partes, o que se mostra incabível em sede extraordinária. Incidência das Súmulas 279, 280 e 454 desta Corte. Sobre o tema, a propósito:
+
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Administrativo. 3. Controle pelo Judiciário da legalidade dos atos dos demais Poderes. Violação ao princípio da separação dos poderes. Inexistência. Precedentes. 4. Aplicação de penalidade administrativa. 5. Matéria debatida pelo Tribunal de origem restringe-se ao âmbito local. Ofensa reflexa à Constituição Federal. Matéria infraconstitucional. 6. Reexame do acervo fático-probatório e das cláusulas contratuais. 7. Incidência das Súmulas 279, 454 e 280 do STF. 8. Ausência de argumentos capazes de infirmar a decisão agravada. 9. Agravo regimental a que se nega provimento” (ARE nº 1.170.026/SP, Segunda Turma, Rel. Min. Gilmar Mendes, DJe de 17/5/19).
+
+    Ex positis, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+
+    Publique-se.
+
+    Brasília, 31 de agosto de 2022.
+
+Ministro LUIZ FUX
+
+Presidente
+
+Documento assinado digitalmente
