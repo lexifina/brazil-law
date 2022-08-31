@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que inadmitiu o recurso especial, com fundamento nas Súmulas 7/STJ e 284/STF.
+Nas razões do recurso especial, aponta a defesa violação do art. 593, III, d, c/c § 3º, do CPP e do art. 121, II, c/c arts. 14, inciso II, e 15do Código Penal.
+Sustenta que a decisão dos jurados seria contrária à prova dos autos, porquanto teria restado evidenciada nos autos a desistência voluntária, e não a tentativa.
+Argumenta que "o crime não foi consumado em razão da própria vontade do agente, que decidiu, autonomamente, interromper a execução do fato, sem que houvesse concorrido qualquer circunstância alheia à sua vontade que o interrompesse" (fl. 895).
+Requer, assim, o provimento do recurso especial,para anular a decisão proferida pelo conselho de sentença, submetendo o acusado a novo julgamento.
+Apresentada a contraminuta, manifestou-se o Ministério Público Federal pelo improvimento do agravo.
+O recurso é tempestivo e ataca os fundamentos da decisão agravada. Passo, portanto, à análise do mérito.
+O recorrente foi condenado, como incurso noart. 121, § 2º, II c/c art. 14, II, do CP, à pena de 8 anos de reclusão, em regime inicial semiaberto.
+O Tribunal a quo afastou a tese de julgamento contrário às provas dos autos pelos seguintes fundamentos (fls. 871-873):
+No presente caso, o apelante FRANCISCO HÉLIO CARDOSO MENDES foi denunciado pela tentativa de homicídio de sua companheira GENI LIMA VASCONCELOS, ocorrido no dia 27 do mês de setembro de 2010, por volta das 10h:00 min da manhã, por meio de golpes de faca, só não atingindo o resultado morte por circunstâncias alheias a sua vontade. Tendo, o Tribunal do Júri, admitido a tese da acusação de tentativa de homicídio qualificado - art. 121, § 2º, II c/c o art. 14, II, ambos do Código Penal.
+Observa-se que a decisão do Júri por intermédio dos depoimentos prestados em plenário que havia o animus necandi por parte do Apelante em tentar ceifar a vida da vítima.
+Desta forma, durante a instrução processual subsistiram duas teses controversas e plausíveis, as quais foram apresentadas ao Conselho de Sentença, que soberanamente decidiu. Assim, não merece guarida a pretensão do Apelante de anular o julgamento do Apelado pelo Tribunal do Júri, porque contrário à prova dos autos.
+ ..
+Portanto, vê-se que, no caso em análise, os jurados se convenceram da não incidência do instituto da desistência voluntária, mas sim, pela tentativa de homicídio, não tendo chegado ao fim almejado, por circunstâncias alheias à sua vontade, respaldada nos autos pelos depoimentos das testemunhas, e pela própria declaração da vítima. Assim, não há o que se falar em decisão manifestamente contrária à prova dos autos, mas sim, de opção soberana dos juízes leigos.
+ ..
+No caso, não se discute o acerto da decisão dos jurados, mas tão somente a existência de lastro probatório nos autos, relacionado à versão vencedora quando da votação dos quesitos. E neste aspecto, após estudar o caderno processual, entendo não ser o veredicto condenatório divorciado do contexto probatório dos presentes autos.
+Por não vislumbrar qualquer contrariedade manifesta existente entre a decisão do corpo de jurados e o conjunto probatório contido nos autos, não há que se falar em submissão do apelante a novo Júri.
+Nos termos da orientação jurisprudencial desta Corte, "não é manifestamente contrária à prova dos autos a decisão dos jurados que acolhe uma das versões respaldadas no conjunto probatório produzido, quando existente elemento probatório apto a amparar a decisão dos jurados" (AgRg no REsp 1885871/DF, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 02/03/2021, DJe 05/03/2021).
+Na hipótese, como ressaltou o acórdão, "os jurados se convenceram da não incidência do instituto da desistência voluntária, mas sim, pela tentativa de homicídio, não tendo chegado ao fim almejado, por circunstâncias alheias à sua vontade, respaldada nos autos pelos depoimentos das testemunhas, e pela própria declaração da vítima", razão por que não há falar em julgamento manifestamente contrárioà prova dos autos.
+Confira-se:
+PENAL. PROCESSO PENAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO. QUALIFICADORAS. MOTIVO FÚTIL E DISSIMULAÇÃO. RECONHECIMENTO DAS QUALIFICADORAS MANIFESTAMENTE CONTRÁRIAS À PROVA DOS AUTOS. NÃO VERIFICADO. ESCOLHA POR UMA DAS TESES APRESENTADAS EM PLENÁRIO. ORDEM DENEGADA.
+1. Nos termos da orientação desta Casa, a "anulação do julgamento proferido pelo Conselho de Sentença pelo Tribunal de origem nos termos do artigo 593, III, d, do CPP, somente é possível quando tenha sido aquele manifestamente contrário às provas dos autos. E decisão manifestamente contrária às provas dos autos é aquela que não encontra amparo nas provas produzidas, destoando, desse modo, inquestionavelmente, de todo o acervo probatório. Havendo duas versões a respeito do fato, ambas amparadas pelo conjunto probatório produzido nos autos, deve ser preservada a decisão dos jurados, em respeito ao princípio constitucional da soberania dos veredictos" (HC n. 538.702/SP, relator Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 7/11/2019, DJe 22/11/2019).
+2. No caso, as qualificadoras do motivo fútil e da dissimulação foram reconhecidas pelo Conselho de sentença com esteio nas versões apresentadas no Tribunal do Júri.
+3. Com relação à motivação fútil, o Tribunal de origem consignou que "a tese acolhida pelos jurados foi a da acusação, firme no fato de que há evidente desproporção da atitude do réu que jamais poderia ter adentrado na residência da vítima, querendo se vingar, matando-a, o que qualifica a sua atitude". E, no tocante à dissimulação, destacou que "houve sim dissimulação do réu que fez parecer que se tratava de uma conversa e estava com arma escondida dentro do casaco (este ponto é admitido pelo réu em seu interrogatório) e, na oportunidade correta, sacou a arma e atirou".Assim, ausente qualquer ilegalidade no reconhecimento das qualificadoras.
+4. Ordem denegada.
+(HC n. 629.019/PR, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 16/8/2022, DJe de 19/8/2022.)
+Incide, assim, a Súmula 83 do STJ, segundo a qual não se conhece do recurso especial, quando a orientação do Tribunal firmou-se no mesmo sentido da decisão recorrida.
+Outrossim, revera conclusão do acórdão implicaria revolvimento fático-probatório, o que não se permite na via do recurso especial, conforme a Súmula 7/STJ.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+Intimem-se.
