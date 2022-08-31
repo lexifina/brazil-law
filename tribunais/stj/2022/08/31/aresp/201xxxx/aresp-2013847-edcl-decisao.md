@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de embargos de declaração, opostos por ISRAEL MADEIRAS EIRELI e OUTROS, em facededecisão monocrática da lavra deste signatário (fls. 571/576, e-STJ), quedeu provimentoao agravo interno para reconsiderar a decisão de fl. 523/525, e-STJ, e, em nova análise do agravo em recurso especial, dele conhecer para, de plano, negar provimento ao recurso especial.
+Irresignados(fls. 578/584, e-STJ), os embargantes alegam que todos os pressupostos para a concessão da tutela de urgência foram preenchidos. porquanto não restou dúvida de que à execução está fundada em cláusulas abusivas.
+Impugnação às fls. 587/590, e-STJ.
+É o relatório.
+Decido.
+Os embargos de declaração não merecem acolhida.
+1. Nos estreitos limites do artigo 1.022 do CPC/2015, os embargos dedeclaração visam somente suprir omissão, dissipar obscuridade, afastarcontradição ou sanar erro material existente em decisão ou acórdão, nãopodendo ser utilizado como instrumento para a rediscussão do julgado, comopretende osembargantes.
+Nesse sentido, precedentes desta Corte:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NA PETIÇÃONO CONFLITO DE COMPETÊNCIA. OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO.INEXISTÊNCIA. PRETENSÃO DE REJULGAMENTO DA CAUSA. IMPOSSIBILIDADE. CARATERPROTELATÓRIO. MAJORAÇÃO DA MULTA. EMBARGOS DECLARATÓRIOS REJEITADOS.
+1. Inexistentes as hipóteses do art. 535 do CPC/73, e 1.022 do NCPC, nãomerecem acolhida os embargos de declaração que têm nítido caráterinfringente.
+2. Os embargos de declaração não se prestam à manifestação deinconformismo ou à rediscussão do julgado.
+3. Inexistindo a alegadaomissão no acórdão embargado, mostra-se incabível o acolhimento dosaclaratórios. Precedentes.
+4. Embargos de declaração rejeitados.
+(EDcl noAgRg na PET no CC 133.509/DF, Rel. Ministro MOURA RIBEIRO, SEGUNDA SEÇÃO,julgado em 11/05/2016, DJe 18/05/2016)
+No presente caso, o decisum embargado contém fundamentação suficiente parajustificar o provimento do apelo, pois aplicou, no ponto, a Súmula 7 do STJ, bem como a jurisprudênciadesta Corte Superior, segundo a qual"Não cabe recurso extraordinário contra acórdão que defere medida liminar" - Súmula 735 do STF.
+Confira-se os seguintes excertos do decisum pertinente à insurgência ora em exame (fls. 573/574, e-STJ):
+3. Os recorrentes sustentam que estão presentes os requisitos para a concessão da antecipação de tutela. Ao analisar a controvérsia posta nos autos,assim se manifestou o Tribunal local (fls. 174/177, e-STJ):
+Em sede de tutela de urgência, os agravantes pleitearam a abstenção da inscrição dos nomes nos cadastros de restrição ao crédito e do encaminhamento de títulos para protesto, bem ainda a suspensão ou o cancelamento dos leilões do imóvel dado em garantia de alienação fiduciária na cédula de crédito bancário n. 5002040-2019.000562-0.
+O pedido de tutela de urgência foi indeferido pelo digno magistrado condutor do feito (evento n. 30 dos autos de origem), motivando a interposição do presente recurso.
+A concessão da tutela de urgência reclama a demonstração da presença dos requisitos bem especificados no artigo 300 do Código de Processo Civil de 2015, sem oque se deve aguardar o desfecho normal de todo e qualquer procedimento judicial. Trata-se de medida que se reveste de caráter excepcional e que exige prudência em sua análise, atendendo ao comando inserto no artigo 5º, inciso LIV, da Constituição Federal, que cuida do devido processo legal, imperativo da ordem jurídica vigente.
+Além da presença dos "elementos que evidenciam a probabilidade do direito "invocado pela parte, a concessão da medida exige a demonstração do "perigo de dano" ou do "risco ao resultado útil do processo" (artigo 300, "caput", do Código de Processo Civil de 2015) e da ausência do "perigo de irreversibilidade dos efeitos da decisão" (§ 3ºdo artigo 300 do Código de Processo Civil de 2015).
+O deferimento do pedido de cancelamento ou de abstenção da inscrição do nome do devedor nos cadastros de inadimplentes reclama o preenchimento simultâneo de3 (três) requisitos, a saber: 1) discussão judicial do débito; 2) demonstração de que a cobrança é indevida; e 3) depósito da parte incontroversa ou prestação de caução idônea(Orientação n. 4 do Superior Tribunal de Justiça, emitida por ocasião do julgamento do recurso especial n. 1.061.530/RS, submetido ao rito do artigo 543- C do Código de Processo Civil de 1973).
+No caso, "a probabilidade do direito" invocado consiste na alegação de que os juros remuneratórios pactuados seriam abusivos (estariam acima da taxa média de mercado e capitalizados). Em relação aos juros remuneratórios, sabe-se que o exame de eventual abusividade da taxa praticada é feito a partir daquela que é apontada pelo Banco Central como sendo a média de mercado (enunciado n. IV do Grupo de Câmaras de Direito Comercial e artigo 51, inciso IV, e § 1º, inciso III, do Código de Defesa do Consumidor).
+(..)
+A tutela de urgência pleiteada, logo, encontra resistência incontornável(ausência da demonstração da probabilidade do direito invocado, notadamente se os agravante confessaram o inadimplemento voluntário da obrigação e os encargos discutidos são, aparentemente, devidos), não se mostrando viável impedir a inserção dos nomes dos agravantes em cadastros de restrição ao crédito ou o protesto de títulos em decorrência dos contratos examinados, ou, ainda, suspender ou cancelar o procedimento de alienação extrajudicial do imóvel dado em garantia da cédula de crédito bancário n. 5002040-2019.000562-0.
+Nesse cenário, para desconstituir a conclusão do Tribunal a quo e analisar o o preenchimento dos requisitos autorizadores da antecipação dos efeitos da tutela jurisdicional, tal como posta nas razões do apelo extremo, seria necessária a reapreciação do contexto fático-probatório dos autos, providência inviável em sede derecurso especial, ante o óbice da Súmula 7 do STJ.
+(..)
+Outrossim, revela-se incabível, em sede de recurso especial, o reexame do deferimento ou indeferimento de medida acautelatória ou antecipatória, ante a natureza precária e provisória do juízo de mérito desenvolvido em tutela antecipada,
+Com efeito, entende esta Corte ser descabido, via de regra, o recurso especial que pretende o reexame do deferimento ou indeferimento de medidas acautelatórias ou antecipatórias, proferidas em sede liminar.
+Trata-se, na espécie, de provimentos judiciais de natureza precária, cuja reversão, a qualquer tempo, é possível, e que demandam posterior ratificação por decisão de cunho definitivo, proferida após cognição exauriente dos elementos de prova. Não constituem, portanto, causas decididas em última ou única instância por Tribunais Estaduais ou Regionais Federais, nos termos do art. 105, III, da Constituição da República, razão pela qual não são sindicáveis por recurso especial.
+Aplicação, por analogia, da Súmula 735/STF, a saber: "Não cabe recurso extraordinário contra acórdão que defere medida liminar".
+Ausente, portanto, a apontada a omissão e ou contradição, não se revelamos embargos de declaração como a via adequada à revisão do julgado, emmanifesta pretensão infringente. Com efeito, a jurisprudência do STJ éfirme no sentido de que o mero descontentamento da parte como resultadodo julgamento não configura violação do art. 1.022 do CPC/15.
+2. Do exposto, rejeito os embargos de declaração.
+Publique-se.
+Intimem-se.
