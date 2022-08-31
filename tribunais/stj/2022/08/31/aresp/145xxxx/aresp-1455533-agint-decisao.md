@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo interno interposto por EGO EMPRESA GERAL DE OBRAS S/A, em face da decisão de fls. 530-533, e-STJ, da lavra deste relator, que negou provimento ao agravo em recurso especial.
+O apelo extremo, fundado nas alíneas "a" e "c" do permissivo constitucional, fora deduzido em desafio ao acórdão proferido pelo Tribunal de Justiça do Estado do Maranhão, assim ementado (fl. 213, e-STJ):
+APELAÇÃO CÍVEL. PROCESSO CIVIL. EMBARGOS À EXECUÇÃO. PRESCRIÇÃO. ART. 219, §3º E §4º DO CÓDIGO DE PROCESSO CIVIL. CITAÇÃO. FATO INTERRUPTIVO DA PRESCRIÇÃO. PRETENSÃO AJUIZADA E RECEBIDA ANTES DO IMPLEMENTO DO PRAZO. COMPARECIMENTO ESPONTÂNEO DO RÉU. PRESCRIÇÃO QUE RETROAGE À DATA DA PROPOSITURA DA DEMANDA. PRESCRIÇÃO AFASTADA. SENTENÇA ANULADA.
+1. A ação de execução foi proposta em 14/12/2011, antes, portanto, do encerramento da janela prescricional. Isto significa que o comparecimento espontâneo do devedor aos autos em 01/02/2013, com a apresentação dos embargos à execução, supre a citação, nos exatos termos do artigo 214, §1º do CPC 1973.
+2. Tendo o réu exercido o contraditório e ampla defesa que demonstram suficientemente seu conhecimento sobre a propositura da demanda, deve ser aplicada a regra do §1º do artigo 219 do CPC1973, de que considera-se interrompida a prescrição a contar da data da propositura da demanda.
+3. Apelo conhecido e provido.
+Os embargos de declaração opostos restaram desacolhidos (fls. 252-256, e-STJ).
+Nas razões do especial, a recorrente alegou, além de divergência jurisprudencial, que o acórdão impugnado incorrera em violação aos seguintes normativos: arts. 489, § 1º e 1022, II, do CPC/15; 12, VI, 214, § 2º, 219, §§ 2º, 3º e 4º e 232, I e III, do CPC/73 e 302, I, CC.
+Sustentou, em suma: (i) negativa de prestação jurisdicional face a ausência de pronunciamento sobre matéria fática probatória relevante ao deslinde da causa; (ii) ausência de citação válida para interromper a prescrição; (iii) impossibilidade de retroagir a citação ao ajuizamento da demanda, pois o comparecimento do réu deu-se apenas para arguir a nulidade da citação.
+Apresentada contrarrazões às fls. 411-429, e-STJ.
+Em razão do juízo prévio de admissibilidade (fls. 431-435, e-STJ), a Corte de origem inadmitiu o apelo nobre, ensejando a interposição do respectivo agravo (art. 1042 do CPC/15), cuja minuta está acostada às fls. 473-507, e-STJ, por meio do qual pretende ver admitido o recurso especial.
+Sem contraminuta.
+Em decisão monocrática (fls. 530-533, e-STJ), negou-se provimento ao reclamo, ante a inocorrência da alegada negativa de prestação jurisdicional e por óbice da Súmula 7/STJ.
+Daí o presente agravo interno (fls. 537-549, e-STJ), no qual a insurgente reitera as teses de mérito do apelo nobre e aduz a inaplicabilidade da Súmula 7/STJ.
+Sem impugnação.
+É o relatório.
+Decide-se.
+Ante as razões expostas, reconsidera-se a decisão agravada, passando-se a nova análise do recurso.
+1. Este Superior Tribunal de Justiça reconhece a ocorrência de negativa de prestação jurisdicional quando a Corte de origem, a despeito da oposição de embargos de declaração, omite-se a respeito de ponto essencial ao deslinde da controvérsia.
+Nesse sentido, confira-se:
+AGRAVO INTERNO EM RECURSO ESPECIAL. PERSONALIDADE JURÍDICA. DESCONSIDERAÇÃO. FUNDAMENTAÇÃO INIDÔNEA. ART. 1.022 DO CPC. VIOLAÇÃO.1. Configura-se a violação do artigo 1.022 do Código de Processo Civil quando o Tribunal de origem, a despeito da oposição de embargos de declaração, deixa de examinar questão relevante para o deslinde da controvérsia.2. "Nos casos em que a aplicação do direito à espécie exige a incursão no substrato fático-probatório dos autos, é imperioso o retorno do feito à instância ordinária, para que a causa seja julgada conforme os parâmetros estabelecidos por este STJ." (AgInt nos EDcl no REsp 1754743/DF, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 10/12/2019, DJe 12/12/2019) 3. Agravo interno a que se nega provimento.(AgInt no REsp 1831870/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 30/03/2020, DJe 02/04/2020)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE COBRANÇA. SEGURO DE VIDA. VIOLAÇÃO AO ART. 1.022 DO CPC/2015 CONFIGURADA. ACÓRDÃO ESTADUAL OMISSO QUANTO A PONTO ESSENCIAL AO DESLINDE DA CONTROVÉRSIA. AGRAVO DESPROVIDO.1. Decisão atacada que deu provimento ao recurso especial da parte ora agravada para, reconhecendo violação ao art. 1.022 do CPC/2015, anular o acórdão que julgou os aclaratórios e determinar o retorno dos autos ao Tribunal de origem para novo julgamento dos embargos de declaração, como entender de direito, sanando a omissão reconhecida.2. Fica configurada a ofensa ao art. 1.022 do CPC/2015 quando o Tribunal a quo, apesar de devidamente provocado nos embargos de declaração, não se manifesta sobre tema essencial ao deslinde da controvérsia.3. Agravo interno desprovido.(AgInt no REsp 1754832/MG, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 28/03/2019, DJe 11/04/2019)
+No caso, a insurgente alega que a Corte de origem deixou de apreciar a questão relativa à nulidade da citação declarada pelo juízo de primeiro grau.
+Assim, alega omissão quanto à ausência de citação válida apta a interromper a prescrição, bem como quanto à impossibilidade de retroagir a citação ao ajuizamento da demanda, pois o comparecimento do réu deu-se apenas para arguir a nulidade da citação.
+Ao julgar o recurso, a Corte local nada tratou acerca da nulidade da citação.
+Todavia, o Tribunal apenas fundamenta que o comparecimento espontâneo supre a citação, e que, por isso, a prescrição retroage à data da propositura da demanda, sem fazer qualquer alusão, à validade ou não, da citação.
+Dessa forma, para que a prescrição seja considerada interrompida a contar da data da propositura da demanda, é necessário que tenha havido citação válida e a mesma tenha sido promovida na forma e nos prazos previstos na legislação processual. No caso, não houve essa análise pelo Tribuna estadual.
+Imperioso, portanto, o reconhecimento da existência de violação aos artigos 489 e 1.022 do CPC/15.
+2. Ante o reconhecimento da negativa de prestação jurisdicional e a necessidade de retorno dos autos à Corte local para correção do vício inferido - omissão - fica prejudicada a análise das demais questões veiculadas no recurso especial.
+3. Do exposto, reconsidera-se a decisão impugnada e, com amparo no artigo 932 do CPC/15 c/c a Súmula 568/STJ, conhece-se do agravo para dar parcial provimento ao recurso especial, a fim de cassar o acórdão proferido em sede de embargos de declaração, determinando que outro seja proferido, sanando-se a omissão apontada.
+Publique-se.
+Intimem-se.
