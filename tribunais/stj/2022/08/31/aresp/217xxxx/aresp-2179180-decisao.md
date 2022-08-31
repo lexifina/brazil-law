@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial, interposto por MASSA FALIDA DE MAGAZINE INCORPORAÇÕES S.A, fundado no art. 105, III, alínea "a" da Constituição Federal, em face de acórdão proferido pelo eg. Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (fl. 659):
+AGRAVO INTERNO. GRATUIDADE DA JUSTIÇA. PESSOA JURÍDICA. REQUISITOS DECISÃO OBJETIVOS MANTIDA. NÃO IMPLEMENTADOS.
+Nos termos do que dispõe a Súmula nº 481 do Superior Tribunal de Justiça, a concessão da gratuidade da justiça à pessoa jurídica está condicionada à demonstração de sua incapacidade econômica.
+Nesse sentido, mantém-se o indeferimento do pedido, pois não comprovada a insuficiência financeira alegada pela parte, tampouco a incapacidade processuais de arcar com as custas NEGARAM PROVIMENTO AO AGRAVO INTERNO.
+Nas razões do recurso especial, a agravante alega violação aos arts. 98 e 99, §2º do CPC. Para tanto, sustenta, em síntese, que "foi cabalmente demonstrada a hipossuficiência econômica da recorrente e a impossibilidade da mesma em arcar com o pagamento das custas processuais e honorários de sucumbência, não devendo ser negada vigência à garantia constitucional prevista no art. 5º, inciso LXXIV, em que é estabelecido o acesso de todos à Justiça, independente do pagamento de despesas processuais" - (fl. 678).
+É o relatório.
+Quanto ao pedido de gratuidade judiciária, a Corte de origem consignou, in verbis, que (fls. 663/664):
+"Desta decisão (de indeferimento do pedido de gratuidade judiciária), decorreu o prazo sem manifestação da parte (fl. 464), sobrevindo decisão que a intimou para o recolhimento do preparo recursal (f1.466), ensejando o presente agravo interno (fl. 469).
+Assim, em que pese afirme a parte ter comprovado a hipossuficiência financeira, tal fato não prospera, eis que, conforme mencionado à fl. 460, "embora tenha sido decretada sua falência, este fato, por si só, não resulta na impossibilidade de quitação das custas processuais, em especial pelo porte da empresa".
+Portanto, mesmo que informada da insuficiência probatória, a parte somente traz ao recurso novos dados, os quais não condizem cabalmente com os "históricos de saldos e pagamentos" anexados aos autos (fls. 421/453), de modo que não há como deferir a gratuidade requerida sob meras alegações"
+Com efeito, o acórdão recorrido está em consonância com o posicionamento desta Corte de Justiça, a qual interpreta que "a concessão do benefício de gratuidade da justiça a pessoa jurídica somente é possível quando comprovada a precariedade de sua situação financeira, inexistindo, em seu favor, presunção de insuficiência de recursos" - (AgInt nos EDcl no AREsp n. 2.035.202/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 27/6/2022, DJe de 29/6/2022).
+Em reforço:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO POR DANOS MORAIS. GRATUIDADE DE JUSTIÇA. ENTIDADE EDUCACIONAL SEM FINS LUCRATIVOS. NECESSIDADE DE COMPROVAÇÃO DA HIPOSSUFICIÊNCIA ECONÔMICA. AUSÊNCIA DE PRESUNÇÃO DE MISERABILIDADE. SÚMULA 481/STJ. SÚMULA 83/STJ. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL DESPROVIDO.
+1. "A jurisprudência desta Corte entende que é possível a concessão do benefício da gratuidade da justiça à pessoa jurídica somente quando comprovada a precariedade de sua situação financeira, não havendo falar em presunção de miserabilidade. Súmula 481 do STJ" (AgInt no AREsp 1.976.408/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 22/02/2022, DJe de 07/03/2022).
+2. No caso dos autos, o Tribunal de origem concluiu pela manutenção da condenação da agravante ao pagamento das custas processuais e dos honorários advocatícios em razão da ausência de comprovação da condição de miserabilidade.
+3. Agravo interno provido para reconsiderar a decisão agravada e, em nova análise, conhecer do agravo para negar provimento ao recurso especial.
+(AgInt no AREsp n. 2.064.349/MA, relator Ministro Raul Araújo, Quarta Turma, julgado em 13/6/2022, DJe de 29/6/2022).
+Forçosa, portanto, a incidência da Súmula 83/STJ.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
