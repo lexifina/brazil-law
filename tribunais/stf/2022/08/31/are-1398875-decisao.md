@@ -1,0 +1,35 @@
+DECISÃO: Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+
+    O apelo extremo foi interposto com fundamento na alínea "a" do permissivo constitucional.
+
+    O acórdão recorrido ficou assim ementado:
+
+    "PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO DE INSTRUMENTO. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. DECISÃO QUE REJEITOU A IMPUGNAÇÃO AOS CÁLCULOS APRESENTADA PELO MUNICÍPIO EXECUTADO. (I) PEDIDO DE APLICAÇÃO DA REGRA DE TRANSIÇÃO DE QUE TRATA O ART. 23 DA LEI DE INTRODUÇÃO ÀS NORMAS DO DIREITO BRASILEIRO (LINDB). INOVAÇÃO. TEMA NÃO LEVADO À CONSIDERAÇÃO DO JUIZ DE ORIGEM. RECURSO NÃO CONHECIDO NESTE ASPECTO. (II) ALEGAÇÃO DOS AGRAVADOS EM CONTRARRAZÕES RECURSAIS DE PERDA DE OBJETO QUANTO AO QUESTIONAMENTO ACERCA DO CÁLCULO DE JUROS DAS PARCELAS VINCENDAS. QUESTÃO NÃO SUPERADA NA ORIGEM. CONHECIMENTO DO RECURSO NESTE ASPECTO. (III) INCOMPETÊNCIA ABSOLUTA DO JUÍZO DA VARA DA FAZENDA PÚBLICA. AFASTAMENTO. AÇÃO COLETIVA QUE TRAMITOU NA VARA DA FAZENDA PÚBLICA. COMPETÊNCIA DO JUÍZO QUE DECIDIU A CAUSA PARA O PROCESSAMENTO DO CUMPRIMENTO DE SENTENÇA. INTELIGÊNCIA DO ART. 516, II, DO CPC. DECISÃO VINCULATIVA DO STJ. TEMA 1.029. (IV) EXECUÇÃO DE SENTENÇA. EXCESSO. SERVIDORES PÚBLICOS MUNICIPAIS. HORAS EXTRAS. BASE DE CÁLCULO SOBRE A REMUNERAÇÃO TOTAL DO SERVIDOR E NÃO SOBRE O VENCIMENTO BASE. CÁLCULO EM DESACORDO COM A SENTENÇA EXEQUENDA. MATÉRIA NÃO DISCUTIDA NO PROCESSO DE CONHECIMENTO, QUE TRATOU SOMENTE DO CRITÉRIO DE CÁLCULO (DIVISOR) DAS HORAS EXTRAS, E NÃO DA ALTERAÇÃO DA BASE DE CÁLCULO ENTÃO APLICADA PELO MUNICÍPIO. CUMPRIMENTO DE SENTENÇA QUE DEVE SEGUIR O QUE DETERMINADO NA DECISÃO FORMADORA DO TÍTULO EXECUTIVO, SOB PENA DE VIOLAÇÃO À COISA JULGADA. HORAS EXTRAS QUE DEVEM SER CALCULADAS SOBRE O SALÁRIO-BASE DOS SERVIDORES. (V) JUROS DE MORA. PARCELAS/DIFERENÇAS VENCIDAS APÓS A CITAÇÃO. CÔMPUTO DESDE O VENCIMENTO DE CADA UMA DAS PARCELAS DE DIFERENÇAS DEVIDAS. (VI) PROCEDÊNCIA PARCIAL DA IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. HONORÁRIOS ADVOCATÍCIOS FIXADOS AO PROCURADOR DO EXECUTADO NO CORRESPONDENTE A 10% DO EXCESSO RECONHECIDO. RECURSO PARCIALMENTE CONHECIDO E, NA PARTE CONHECIDA, PROVIDO."
+
+    Opostos os embargos de declaração, foram rejeitados.
+
+    No recurso extraordinário sustenta-se violação dos arts. 7º, IV, e 39, § 3º, da Constituição Federal.
+
+    Decido.
+
+    Analisados os autos, verifica-se que o Tribunal de origem decidiu a controvérsia com fundamento na legislação infraconstitucional local aplicável à espécie e no conjunto fático-probatório dos autos, cuja análise se revela inviável em sede de recurso extraordinário.
+
+    Incidem, na espécie, os óbices das Súmulas 279 e 280 do STF, in verbis: “Para simples reexame de prova não cabe recurso extraordinário” e “Por ofensa a direito local não cabe recurso extraordinário”. Nesse sentido:
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO AMBIENTAL. AÇÃO CIVIL PÚBLICA. OBRA PARA RECUPERAÇÃO DE IMÓVEL. IMPOSSIBILIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO E DA LEGISLAÇÃO LOCAL: SÚMULAS 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (ARE 1.085.165-AgR, Rel. Min. Cármen Lúcia, Plenário,DJe de 26/3/2018)
+
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO – ALEGADA VIOLAÇÃO A PRECEITOS CONSTITUCIONAIS – DIREITO LOCAL – SÚMULA 280/STF – REEXAME DE FATOS E PROVAS – IMPOSSIBILIDADE – SÚMULA 279/STF – SUCUMBÊNCIA RECURSAL (CPC, ART. 85, § 11) – NÃO DECRETAÇÃO, NO CASO, POR TRATAR-SE DE RECURSO DEDUZIDO CONTRA DECISÃO PUBLICADA SOB A ÉGIDE DO CPC/73 – AGRAVO INTERNO IMPROVIDO”. (ARE 949.507-AgR, Rel. Min. Celso de Mello, Segunda Turma, DJe de 9/10/2020)
+
+    Ex positis, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+
+    Publique-se.
+
+    Brasília, 31 de agosto de 2022.
+
+Ministro LUIZ FUX
+
+Presidente
+
+Documento assinado digitalmente
