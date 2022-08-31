@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de conflito de competência suscitado no mandado de segurança impetrado por Endrew Luy Pinto Silva contra o Município de Macapá, objetivando asuspensão do ato da autoridade que desligou o Impetrante do Programa de Saúde Familiar, sendo este reintegrado imediatamente àfunção de Cirurgião Dentista com o respectivo salário.
+A ação foi aviada perante o Juízo de Direito da 5ª Vara Cível e de Fazenda Pública de Macapá, que declinou de sua competência, sob o fundamento de que a Lei Complementar Municipal nº 20/2006 dispõe que as equipes de saúde da família serão regidas pela CLT, o que atrairia a competência da Justiça do Trabalho.
+Distribuído o feito ao Juízo da 5ª Vara do Trabalho de Macapá, foi suscitado o conflito perante o Superior Tribunal de Justiça, tendo o suscitante consignado que as partes mantém vínculo administrativo estatutário, sendo competência da Justiça Estadual Comum o processamento e julgamento do feito.
+É o relatório. Decido.
+Compulsando os autos, verifica-se que o Autor na ação principal não ostentava vínculo estatutário ou celetista (como Agente Comunitário de Saúde), mormente porque não teria sido aprovado em concurso público.
+Assim, sendo contratação para cargo de livre nomeação e exoneração ou, até mesmo, contratação temporária, na forma do entendimento cristalizado nesteSuperior Tribunal de Justiça, a competência para processamentoe julgamento do feito será daJustiça Comum, Estadual ou Federal, conforme o caso
+Nesse sentido, os seguintes precedentes:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA COMUM E JUSTIÇA TRABALHISTA. CONTRATO TEMPORÁRIO DE TRABALHO. COMPETÊNCIA DA JUSTIÇA COMUM ESTADUAL. AGRAVO REGIMENTAL DO PARTICULAR DESPROVIDO.
+1. A competência para processar e julgar ações cujo objeto é a relação jurídica estabelecida entre o Poder Público e seus Servidores contratados por prazo determinado, em face de necessidade temporária de excepcional interesse público, é da Justiça Comum.
+2. Agravo Regimental do Particular desprovido.
+(AgRg no CC 140.643/SC, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA SEÇÃO, julgado em 19/03/2019, DJe 28/03/2019)
+CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇAS ESTADUAL E TRABALHISTA. AÇÃO NA QUAL SE POSTULAM VERBAS DECORRENTES DE CONTRATAÇÃO TEMPORÁRIA FUNDADA NO ART. 37, IX, DA CF/1988. VÍNCULO EXISTENTE ENTRE CONTRATANTE E CONTRATADO. NATUREZA JURÍDICO-ADMINISTRATIVA. COMPETÊNCIA DA JUSTIÇA COMUM.
+1. Compete à Justiça Comum estadual ou federal, conforme o caso, processar e julgar demanda decorrente de contrato temporário de trabalho fundado no art. 37, IX, da Constituição Federal. Precedentes do STJ e do STF.
+2. Conflito negativo conhecido, declarando-se, no caso concreto, a competência do Juízo de Direito da Vara da Fazenda Pública da Comarca de Paranaguá/PR, o suscitante.
+(CC 160.644/PR, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA SEÇÃO, julgado em 26/09/2018, DJe 03/10/2018)
+PROCESSUAL CIVIL. ADMINISTRATIVO. EMPREGADO PÚBLICO. CARGO COMISSIONADO. REGIME DA CLT. VERBAS RESCISÓRIAS. COMPETÊNCIA. JUSTIÇA DO TRABALHO.
+I - Na origem, trata-se de conflito negativo de competência instaurado entre o Juízo de Direito do Juizado Especial Cível e Criminal de Barra Bonita-SP e o Tribunal Regional do Trabalho da 15ª Região, nos autos da reclamação trabalhista, objetivando o recebimento de verbas rescisórias pelo exercício de cargo comissionado, no regime da CLT, na Prefeitura do Município. Nesta Corte, conheceu-se do conflito para declarar competente o Tribunal Regional do Trabalho da 15ª Região, suscitado.
+II - O tradicional entendimento desta Corte superior, a respeito do tema em comento, encontra-se sedimentado no enunciado da Súmula n. 218 do STJ, em que estabelece que "compete à Justiça dos Estados processar e julgar ação de servidor estadual decorrente de direitos e vantagens estatutárias no exercício do cargo em comissão".
+III - No entanto, o STJ afasta o comando contido na mencionada súmula, admitindo a competência da Justiça do trabalho para processar e julgar a demanda, quando a legislação municipal determina expressamente que a relação estabelecida entre o servidor, ocupante de cargo em comissão, e o ente municipal é regida pela CLT.A propósito: (STJ, AgInt no CC n. 155.556/SP, relator Ministro Sérgio Kukina, Primeira Seção, DJe de 16/5/2018 e AgInt no CC n. 154.408/SP, relator Ministro Gurgel de Faria, Primeira Seção, julgado em 20/6/2018, DJe 20/8/2018).
+IV - No caso, a lei do Município de Barra Bonita dispõe que o regime dos ocupantes de empregos públicos em comissão é o da CLT. Ademais, constata-se que os pedidos do reclamante possuem natureza trabalhista, o que afasta o disposto na Súmula n. 218/STJ.
+V - Agravo interno improvido.
+(AgInt no CC n. 171.025/SP, relator Ministro Francisco Falcão, Primeira Seção, julgado em 11/11/2020, DJe de 17/11/2020.)
+PROCESSUAL CIVIL. AGRAVO INTERNO EM CONFLITO DE COMPETÊNCIA. EXISTÊNCIA, VALIDADE E NATUREZA DO VÍNCULO LABORAL. EXERCÍCIO DE CARGO COMISSIONADO. SÚMULA 218/STJ.
+1. Segundo orientação do STJ, compete à Justiça Comum, Estadual ou Federal, processar e julgar as ações nas quais são colocadas em causa a existência, a validade e a natureza jurídica do vínculo entre o ente público e seus agentes.
+2. O exercício de cargo em comissão firma a competência da Justiça Comum para processar e julgar as lides daí decorrentes. Súmula 218/STJ ("Compete à Justiça dos Estados processar e julgar ação de servidor estadual decorrente de direitos e vantagens estatutárias no exercício de cargo em comissão").
+3. Outrossim, como bem pontuado pelo Juízo suscitante, em peça contestatória foi esclarecido que in casu deve ser observada a Lei 5.110/2010, a qual dispõe sobre o Estatuto dos Servidores Públicos do Município de Americana, não incidindo a CLT.
+4. Ademais, a finalidade do Conflito de Competência é apenas resolver o juízo competente para o julgamento do feito, não sendo possível adentrar no mérito da causa (onde suscitado o Conflito), ainda que a controvérsia se refira à contratação irregular da parte autora, visto que tal matéria deve ser analisada no bojo da Ação Ordinária.
+5. Agravo Interno não provido.
+(AgInt no CC n. 170.793/SP, relator Ministro Herman Benjamin, Primeira Seção, julgado em 16/6/2020, DJe de 23/6/2020.)
+Ante o exposto, com fundamento no art. 34, XXII, do RISTJ, conheço do presente conflito e declaro competente o Juízo de Direito da 5ª Vara Cível e de Fazenda Pública de Macapá, ora suscitado.
+Publique-se. Intimem-se.
