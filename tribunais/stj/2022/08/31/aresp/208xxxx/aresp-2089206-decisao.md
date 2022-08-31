@@ -1,0 +1,8 @@
+DECISÃO
+Às fls. 357-358 (e-STJ), a requerente AMIL ASSISTÊNCIA MÉDICA INTERNACIONAL S.A, agravante,e GENI DA CONCEIÇÃO CAVADAS FERREIRA, agravada,noticiam a celebração do acordo, expõem os termos da avença (fls. 359-362, e-STJ) e requerem abaixa dos autos à origempara homologação da avença.
+É o breve relatório. Decide-se.
+1. A realização de acordo entre as partes, sem qualquer reserva, representa ato incompatível com a vontade de recorrer, o que foi reforçado pelas partes no referido pacto, no qualexpressamente renunciam ao prazo para a interposição de qualquer recurso contra a decisão homologatória da composição amigável edesistem dos recursos que se encontremaguardando julgamento(fls. 361-362, e-STJ).
+Nesse contexto, observo que os advogadosROBERTA DE ALENCAR LAMEIRO DA COSTA e SÉRGIO PARRA MIGUEL,subscritores da minuta do acordo, possuem poderes para transigir e para desistir, conforme, respectivamente, as procurações de fls. 345-348 e 5, e-STJ. Assim, encontram-se cumpridas as formalidades dos artigos 104 e 105 do CPC/2015.
+Embora a homologação de acordo esteja ente as atribuições do relator, nos termos do art. 34, inciso IX, do RISTJ, é recomendável o retorno dos autos à origem,pois, considerando os termos da avença, a execução do pacto e eventuais divergências acerca de seu cumprimento deverão ser processadas e decididas em primeira instância.
+2. Do exposto, com fundamento no art. 932, inciso III, do CPC/2015 e art. 34, inciso XI, do RISTJ, julgo extinto o procedimento recursal, ante a perda do objeto, e determino o retorno dos autos à origem para homologação e acompanhamento do acordo.
+Publique-se. Intimem-se.
