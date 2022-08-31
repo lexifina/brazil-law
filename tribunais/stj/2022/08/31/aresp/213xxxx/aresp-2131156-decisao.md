@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial, por aplicação das Súmulas n. 284do STF e 7 do STJ.
+O acórdão recorrido está assim ementado (e-STJ fl. 83):
+AGRAVO DE INSTRUMENTO - AÇÃO REGRESSIVA - ACIDENTE DE TRÂNSITO - CUMPRIMENTO DE SENTENÇA - IMPENHORABILIDADE DE VALORES BLOQUEADOS - APOSENTADORIA - Comprovação de que parte do valor bloqueado advém de aposentadoria do agravado - Impenhorabilidade nos termos do art. 833, IV, do CPC - Liberação da quantia que se impõe - POUPANÇA - Dispõe o art. 833, inciso X, do Código de Processo Civil, ser impenhorável a quantia depositada em caderneta de poupança, até o limite de quarenta salários-mínimos - Interpretação extensiva - Valores podem estar depositados em cadernetas de poupança, contas-correntes, fundos de investimento ou até serem mantidos em espécie, mantendo, em qualquer desses casos, a característica da impenhorabilidade, ressalvado eventual abuso, má-fé, ou fraude - Precedentes do STJ e deste TJSP - Levantamento integral da penhora que se impõe - Manutenção da decisão - Negado provimento.
+No recurso especial (e-STJ fls. 93/99), fundamentado no art. 105, III, "a",da CF, o recorrente alegou ofensaao art. 833, IV e X, do CPC/2015, defendendo a penhorabilidade de valores na conta-corrente do recorrido, a fim de quitar o débito de R$ 35.905,79 (trinta e cinco mil, novecentos e cinco reais e setenta e nove centavos).
+Defendeu a penhorabilidade dos valores bloqueados da conta bancária do agravado que excederam os seus proventos, a fim de saldar a execução.
+Aduziu que "caso se impeça o bloqueio de contas correntes nas quais são depositados proventos, acabará sendo dificultado, em muito, qualquer tipo de execução" (e-STJ fl. 98).
+Não foram apresentadas contrarrazões (e-STJ fl. 104).
+O recurso não foi admitido na origem, nos termos da decisão de fls. 109/110 (e-STJ).
+No agravo (e-STJ fls. 113/118), afirma a presença de todos os requisitos de admissibilidade do especial.
+Não foi oferecida contraminuta (e-STJ fl. 120).
+Juízo negativo de retratação (e-STJ fl. 121).
+É o relatório.
+Decido.
+O Tribunal de origem, com base nos fatos e nas provas dos autos, assim entendeu (e-STJ fls. 85/90):
+In casu, porém, verifico que a quantia bloqueada(R$ 9.015,60) é de fato impenhorável, já que comprovado que parte da quantia é proveniente de aposentadoria e outra parte não supera o limite de 40salários mínimos previsto no mencionado art. 833, X do CPC.
+Nas fls. 44/57 consta extrato de conta corrente, na qual se verifica que, em 30.06.2021, o agravado havia recebido a quantia de R$ 2.756,80 a título de aposentadoria pelo serviço público e, em 07.07.2021, recebeu R$ 1.969,77 a título de aposentadoria pelo INSS. No mesmo documento é possível aferir que nos meses anteriores o agravadotambém recebeu os referidos benefícios.
+Logo, indiscutivelmente impenhorável a quantia de R$ 4.726,57 que estava depositada na conta bancária do agravante junto à Caixa Econômica Federal na data do bloqueio efetivado em 20.07.2021.
+Verifico, ainda, que mesmo a diferença restante do valor bloqueado deve ser liberado, tendo em vista que, diferentemente doque afirma a municipalidade em suas razões recursais, aplica-se ao caso a previsão do art. 833, X do CPC, que dispõe ser impenhorável "a quantia depositada em caderneta de poupança, até o limite de 40 (quarenta) salários-mínimos".
+O dispositivo em tela é alvo de crítica doutrinária, haja vista que cria injustificável distinção quanto aos investimentos passíveis de guarida, preocupando-se mais em conferir proteção à poupança do que ao princípio da dignidade humana e à manutenção de um patrimônio mínimo ao executado que justificam o instituto da impenhorabilidade.
+(..)
+Atento a essa realidade, o Superior Tribunal de Justiça, em paradigmático acórdão, decidiu que a impenhorabilidade aproveita a qualquer reserva financeira existente, desde que somente dela disponha seutitular:
+(..)
+Noutros termos, realizando uma interpretação extensiva da norma contida no art. 649, inciso X, do Código de Processo Civil de 1973, reproduzida praticamente em sua integralidade no diploma que o substituiu (art. 833, X do CPC/15), aquela Colenda Corte alargou a garantia para que também passasse a alcançar pequenas reservas de capital poupadas em outros investimentos.
+(..)
+Destaco, ademais, que inexistem no caso dos autos motivos para flexibilização da impenhorabilidade, tendo em vista que a dívida perseguida pelo MUNICÍPIO não tem natureza alimentar.
+Assim, entendo que o valor bloqueado é decorrente de aposentadoria percebida pelo executado e que o restante deve ser protegido a título de poupança, os quais são impenhoráveis nos termos do disposto no art. 833, IV e X, do CPC, motivo pelo qual devem ser liberados.
+O entendimentoestá em conformidade com a jurisprudência da Segunda Seção do STJfirmada no julgamentodoREsp n. 1.230.060/PR, de relatoriada Ministra MARIA ISABEL GALLOTTI(DJ 13/8/2014, DJe 29/8/2014), segundo a qualse reveste "de impenhorabilidade a quantia de até quarenta salários mínimos poupada, seja ela mantida em papel moeda, conta corrente ou aplicada em caderneta de poupança propriamente dita, CDB, RDB ou em fundo de investimentos, desde que a única reserva monetária em nome do recorrente, e ressalvado eventual abuso, má-fé ou fraude, a ser verificado caso a caso, de acordo com as circunstâncias do caso concreto (inciso X)", e ainda,que a simples movimentação atípica não é capaz de caracterizar má-fé ou fraude por parte do devedor.Nesse mesmo sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROVENTOS DE APOSENTADORIA. PENHORA DE SALDO REMANESCENTE EM CONTA CORRENTE. VALOR INFERIOR A 40 SALÁRIOS MÍNIMOS. IMPOSSIBILIDADE. INTERPRETAÇÃO SISTEMÁTICA E TELEOLÓGICA A SER CONFERIDA AO ART. 833, incisos IV e X, e §2º, do CPC/2015. PRECEDENTES. SÚMULA 83 DO STJ. RECURSO QUE NÃO ATACA OS FUNDAMENTOS DA DECISÃO AGRAVADA. AGRAVO INTERNO NÃO PROVIDO.
+1. A jurisprudência assente do STJ garante ao devedor "poupar valores sob a regra da impenhorabilidade no patamar de até quarenta salários mínimos, não apenas aqueles depositados em cadernetas de poupança, mas também em conta-corrente ou em fundos de investimento, ou guardados em papel-moeda" (EREsp 1330567/RS, Rel. Ministro Luis Felipe Salomão, Segunda Seção, julgado em 10/12/2014, DJe 19/12/2014).
+2. A penhora sobre alegado valor remanescente em conta corrente do devedor a qual era utilizada para a percepção de verba remuneratória - fato incontroverso nos autos - somente poderá ocorrer em se tratando de valor superior a 40 (quarenta) salários-mínimos.
+3. Licitude da conduta do executado de poupar, ainda que na própria conta corrente, montante de até quarenta salários mínimos. (REsp 191 4284/DF, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 20/04/2021, DJe 04/05/2021) 4. Não tendo a parte agravante apresentado argumentos hábeis a infirmar os fundamentos da decisão regimentalmente agravada, é de rigor a manutenção da decisão por seus próprios fundamentos.
+5. Agravo interno não provido.
+(AgInt no REsp n. 1.971.321/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 26/4/2022, DJe de 4/5/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PENHORA DE VALORES EM CONTA CORRENTE. LIMITE DE IMPENHORABILIDADE DO VALOR CORRESPONDENTE A 40 SALÁRIOS MÍNIMOS. PRECEDENTES. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A jurisprudência desta Corte Superior é firme no sentido da impenhorabilidade de valor até 40 salários mínimos poupados ou mantidos pelo devedor em conta corrente ou em outras aplicações financeiras, ressalvada a comprovação de má-fé, abuso de direito ou fraude, o que não foi demonstrado nos autos.
+3. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo interno não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+4. Agravo interno não provido.
+(AgInt no AREsp 1718297/SP, Rel. Ministro MouraRibeiro, Terceira Turma, julgado em 16/8/2021, DJe de 18/8/2021.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PENHORA POR BACENJUD. VALOR DEPOSITADO EM CONTA POUPANÇA COM MOVIMENTAÇÃO DE CONTA CORRENTE. SALDO INFERIOR A 40 (QUARENTA) SALÁRIOS MÍNIMOS. IMPENHORABILIDADE. PRECEDENTES. RECURSO NÃO PROVIDO.
+1. A Segunda Seção desta Corte Superior pacificou o entendimento de que "é possível ao devedor poupar valores sob a regra da impenhorabilidade no patamar de até quarenta salários mínimos, não apenas aqueles depositados em cadernetas de poupança, mas também em conta-corrente ou em fundos de investimento, ou guardados em papel-moeda" (EREsp 1.330.567/RS, Rel. Ministro Luis Felipe Salomão, Segunda Seção, DJe de 19/12/2014).
+2. Agravo interno não provido.
+(AgInt no AREsp n. 1.767.245/PR, Rel. Ministro RaulAraújo,Quarta Turma, julgado em 28/6/2021, DJe de 5/8/2021.)
+Incide, portanto, a Súmula n. 83do STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo em recurso especial.
+Publique-se e intimem-se.
