@@ -1,0 +1,81 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial, interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL, contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, que inadmitiu o Recurso Especial, manejado em face de acórdão assim ementado:
+"ACIDENTE DO TRABALHO TÍPICO - REEXAME NECESSÁRIO - QUADRIL E TORNOZELO DIREITO - REDUÇÃO DA CAPACIDADE LABORAL - INDENIZAÇÃO DEVIDA - As sequelas constatadas pericialmente no quadril e no tornozelo direito do obreiro, reduzindo parcial e permanentemente sua capacidade laboral, dão ensejo ao pagamento de benefício acidentário.
+D.I.B. mantida a partir do dia seguinte ao da alta médica (06.07.2013), respeitada a prescrição quinquenal.
+CORREÇÃO MONETÁRIA - Incidência dos índices pertinentes nos termos do que ficou decidido nos temas 810 do S.T.F. e 905 do S.T.J.
+JUROS DE MORA - Juros moratórios, incidentes a partir da citação (20.02.2019), em conformidade com a Lei nº 11.960/09.
+HONORÁRIOS ADVOCATÍCIOS - Fixação sob a égide do N.C.P.C. Ausência de valor líquido Arbitramento na fase executiva.
+Sentença concessiva do auxílio-acidente mantida - Reexame necessário desprovido, com observação (honorários advocatícios)" (fl. 253e).
+Opostos Embargos de Declaração (fls. 272/276e), restaram rejeitados, nos termos da seguinte ementa:
+"EMBARGOS DE DECLARAÇÃO - Pretensão à modificação do julgado - Caráter infringente - Ausência de erro material, omissão, contradição ou obscuridade - Tentativa de rediscutir matéria de fundo - O prequestionamento não dispensa os critérios do artigo 1.022 do C.P.C. - Embargos rejeitados" (fl. 280e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a, da Constituição Federal, a parte ora agravante aponta violação aos arts. 11, 240, 489, II, § 1º, IV, e 1.022, I e II, do CPC/2015, 1º do Decreto 20.910/32, c/c 2º do Decreto-lei 4.597/42, sustentando que:
+"3.1 CONTRARIEDADE AOS ARTIGO 11, 489, II, PARÁGRAFO 1º, INCISOS IV e ARTIGO 1022, INCISO II E PARÁGRAFO ÚNICO, INCISO II, DO CÓDIGO DE PROCESSO CIVIL
+Em razão de a Corte de origem ter deixado de asseverar no acórdão regional todas as questões jurídicas e informações fático-probatórias indispensáveis à admissão e julgamento do recurso especial, o recorrente opôs embargos de declaração, para o devido esclarecimento da matéria e o prequestionamento da questão federal.
+Ocorre que os nobres julgadores, ao julgarem os embargos declaratórios, limitaram-se a apontar que o acórdão embargado abordou todas as questões suscitadas pelo embargante, inexistindo qualquer contradição, omissão ou obscuridade, não dispensando uma única frase sobre as questões efetivamente ventiladas naquele recurso.
+Efetivamente, não foi apreciada pela Corte de origem a tese levantada pelo embargante acerca da necessidade de ser declarada a extinção da pretensão de conceder o benefício desde o requerimento administrativo em razão de já ter escoado o prazo previsto no artigo 1º do Decreto 20910/32, combinado com o artigo 2º, do Decreto 4597/92.
+O INSS não requereu que fosse declarada prescrição do direito ao benefício, mas que fosse declarada a prescrição para reivindicar o benefício desde o seu requerimento, pois a ação foi proposta após 05 anos do referido ato.
+Dessa forma, a Corte de Origem não apreciou o sentido e alcance do artigo 1º do Decreto 20.910/32, artigo 2º do Decreto-lei nº 4597/42, e artigo 240 do Código de Processo Civil, deixando de fundamentar o acórdão e de fazer constar as questões fáticas probatórias.
+Como se vê, houve negativa da prestação jurisdicional e cerceamento do direito de defesa, quando é certo que a jurisprudência das Cortes Superiores é no sentido de que a falta de prequestionamento e a necessidade de incursão no conjunto fático-probatório, inviabilizam a abertura das vias extraordinárias, violando, assim, o artigo 1.022, inciso I e II, do CPC, ao retirar toda a eficácia recursal do dispositivo, obrigando o recorrente a levar todo o questionamento a instância especial, diante da recusa firmada pelo Tribunal Regional.
+Requer, assim, que o acórdão que julgou os embargos de declaração seja anulado porquanto contraria o disposto nos artigos 11, 489, inciso II e parágrafo 1º, IVartigo 1022, incisos I e II, do atual Código de Processo Civil, para que haja a adequada prestação jurisdicional pleiteada, bem como que haja a devida fundamentação quanto às questões ventiladas pelo embargante, ora recorrente.
+4.1 DA CONTRARIEDADE AO ART. 1º DO DECRETO Nº 20.910/1932, ARTIGO 2º DO DECRETO-LEI Nº 4597/42, E ARTIGO 240 DO CPC
+No caso, a parte autora se insurge contra o ato de indeferimento do benefício em 2013, propondo a ação somente em 2019, quando decorridos mais de 5 anos do ato impugnado.
+O ato de indeferimento de concessão ou restabelecimento de benefício previdenciário, por ser ato único de efeito permanente, constitui a situação jurídica fundamental, sendo facultado ao seu destinatário o prazo de 05 (cinco) anos, contados da data do ato, para propor ação contra o mesmo, nos termos do disposto no art. 1º, do Decreto nº 20.910/1932 e artigo 2º do Decreto-lei nº 4597/42, de teor seguinte:
+(..)
+Ora, o ato administrativo em questão teve efeito concreto, qual seja a negativa de concessão de auxílio acidente em 2013.
+Verifica-se, assim, que a Súmula nº 85/STJ ("Nas relações jurídicas de trato sucessivo em que a Fazenda Pública figura como devedora, quando não tiver sido negado o próprio direito reclamado, a prescrição atinge apenas as prestações vencidas antes do quinquênio anterior à propositura da ação.") está sendo observada na sua plenitude, pois o próprio direito foi negado, incidindo, assim, a prescrição acto nata.
+Logo, por aplicação do disposto no art. 1º do Dec. nº 20.910/32, HAVENDO RECUSA FORMAL DO DIREITO RECLAMADO, HOUVE A PRESCRIÇÃO DA PRETENSÃO DE CONCEDER OU RESTABALECER O BENEFÍCIO quando ajuizada ação após o prazo de 5 (cinco) anos, a contar da data da ciência do indeferimento administrativo ou do cancelamento benefício previdenciário.
+Nesse sentido, acórdão proferido pelo STJ em 08/05/2018, no RESP 1731258-PE:
+(..)
+Ressalte-se que a parte autora poderia, a qualquer momento, formalizar novo requerimento, haja vista que inexiste prescrição em relação ao direito ao benefício em si, não podendo, porém, com a devida vênia, insurgir-se contra ato de indeferimento ocorrido há mais de cinco anos.
+Dessa forma, é de rigor a reforma do acórdão recorrido para declarada a extinção da pretensão de conceder o benefício desde o indeferimento administrativo, fixando o termo inicial na data da citação, nos termos do artigo 240 do CPC" (fls. 266/270e).
+Requer, ao final:
+"(..) seja conhecido e provido esse recurso especial, eis que demonstrados os requisitos da alínea "a", do inciso III, do artigo 105, da Constituição Federal, para que seja reformado o acórdão recorrido reconhecendo a prescrição da pretensão de conceder o benefício desde o requerimento administrativo.Caso assim V. Exas. não entendam, requer a anulação do acórdão que julgou os embargos de declaração, por negativa da prestação jurisdicional e cerceamento de defesa, para que o Tribunal De justiça de São Paulo profira outra decisão, com a adequada prestação jurisdicional, bem como a devida fundamentação quanto às questões ventiladas pelo embargante, ora recorrente" (fls. 270/271e).
+Contrarrazões apresentadas (fls. 292/297e), foi o Recurso inadmitido na origem (fls. 298/299e), ensejando a interposição do presente Agravo (fls. 319/332e).
+A irresignação não merece prosperar.
+Para melhor elucidação, transcrevo a fundamentação do acórdão recorrido, no que interessa à espécie:
+"2.1) Do nexo laboral
+Embora ausente C.A.T., o acidente de trabalho restou incontroverso, tendo a autarquia concedido, administrativamente, o auxílio-doença acidentário (fls. 98).
+Não bastasse, o I.N.S.S. não trouxe qualquer elemento de prova que pudesse afastar a origem laboral do infortúnio, muito pelo contrário, sequer interpôs recurso voluntário.
+Deste modo, está provado o nexo da sequela com o labor.
+2.2) Da incapacidade
+A perícia oficial (fls. 217/220), da lavra do Dr. Marcel Eduardo Pimenta, ao exame físico, constatou as seguintes limitações:
+(..)
+Após a análise dos documentos médicos juntados aos autos (fls. 218), constatou que o obreiro "foi vítima de acidente de trabalho em 13/04/2012 que resultou em fratura na bacia e tornozelo direito, foi tratado cirurgicamente, mas ficou com sequela em ambos os seguimentos com prejuízo da mobilidade normal e dor. Sequela incurável." (fls. 218).
+Diante disso, concluiu o perito pela existência de incapacidade parcial e permanente para o trabalho habitual, in verbis:
+(..)
+Perícia produzida de acordo com os princípios do contraditório e da ampla defesa, devidamente fundamentada, com elementos suficientes para o adequado julgamento da lide, sem contrariedade técnica aos seus termos e conclusões, merecendo crédito e respaldo, pois realizada por especialista imparcial, da inteira confiança do juízo.
+2.3) Do benefício cabível
+Frente às conclusões da perícia oficial, evidencia-se o direito do obreiro à indenização acidentária, porque sua capacidade laboral está reduzida devido às sequelas decorrentes do acidente típico sofrido em 13.04.2012, o que justifica a concessão do benefício acidentário.
+Portanto, correta a concessão do auxílio-acidente de 50% do salário-de-benefício, além de abono anual, com fundamento no art. 86, §1º, da Lei nº 8.213/91, aplicando-se as modificações introduzidas pela Lei nº 9.528/97, vigente ao tempo do acidente.
+Quando da oportuna implantação do auxílio-acidente, a renda mensal será calculada com base no salário-de-benefício do auxílio-doença que o antecedeu, utilizados os índices previdenciários em seus reajustes futuros.
+2.4) Do marco inicial do benefício
+A D.I.B. deve ser mantida no dia seguinte ao da alta médica, pois, além de ser essa a expressa determinação do artigo 86, §2º, da Lei nº 8.213/91, a autarquia já estava ciente, àquela época, de que a lesão ocupacional reduzia parcial e permanentemente a capacidade do obreiro para o trabalho, fazendo ele, pois, jus ao recebimento do auxílio-acidente desde aquela data (06.07.2013 fls. 98), respeitada a prescrição quinquenal.
+Consigne-se que a D.I.B. não é o cerne da controvérsia (que reside em ser ou não devido o benefício), tratando-se de questão acessória, nada obstando que esta Câmara proceda ao julgamento, fixando o marco inicial do benefício conforme os parâmetros legais, ressalvando-se, desde já, eventual necessidade de adequação aos parâmetros do que vier a ser definido pelo C. S.T.J. no julgamento dos Recursos Especiais n.º 1.729.555/SP e n.º 1.786.736/SP (Tema nº 862).
+Fica observado que o benefício ora concedido ficará suspenso nos períodos em que o obreiro tenha recebido ou venha a receber auxílio-doença, acidentário ou previdenciário, por conta das sequelas ora indenizadas.
+(..)
+2.6) Dos honorários advocatícios
+No que tange aos honorários advocatícios, aplica-se ao caso o disposto no inc. II do § 4º do art. 85 do C.P.C.: ".. não sendo líquida a sentença, a definição do percentual, nos termos previstos nos incisos I a V, somente ocorrerá quando liquidado o julgado..".
+Desta forma, precoce qualquer discussão sobre o arbitramento da verba honorária, devendo a questão ser tratada quando da fase executiva, depois de liquidado o julgado, cabendo, então, ao nobre Juízo singular, na ocasião, decidir acerca do tema.
+2.7) Da conclusão
+Posto isso, mantendo-se a r. sentença concessiva de auxílio- acidente (item 2.3), nega-se provimento ao reexame necessário, com observação em relação aos honorários advocatícios (item 2.6).
+3) DISPOSITIVO
+Ante o exposto, pelo meu voto, nego provimento ao reexame necessário, com observação" (fls. 254/257e).
+Inicialmente, em relação aos arts. 11, 489 e 1.022 do CPC/2015, deve-se ressaltar que o acórdão recorrido não incorreu em qualquer vício, uma vez que o voto condutor do julgado apreciou, fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte recorrente.
+Vale ressaltar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, REsp 1.666.265/MG, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 21/03/2018; STJ, REsp 1.667.456/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 18/12/2017; REsp 1.696.273/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 19/12/2017.
+No mais, em relação a alegada prescrição,verifica-se que tal tese não foi objeto da Contestação(fls. 83/88e), somente tendo sido suscitada pela parte agravante nas razões dos Embargos de Declaração, em indevida inovação recursal, além de a matéria estar acobertada pela preclusão consumativa.
+A propósito:
+"PROCESSUAL CIVIL. ADMINISTRATIVO. IMPROBIDADE ADMINISTRATIVA. AGRAVO INTERNO NO AGRAVO INTERNO NO RECURSO ESPECIAL. INOVAÇÃO DE TESE RECURSAL. IMPOSSIBILIDADE. AUSÊNCIA DE IMPUGNAÇÃO DO FUNDAMENTO DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 182/STJ.
+1. Com efeito, na linha dos precedentes do STJ, os argumentos apresentados em momento posterior à interposição do recurso especial não são passíveis de conhecimento por importar inovação recursal, indevida em virtude da preclusão consumativa (AgInt no REsp 1.800.525/SP, Relator Ministro MARCO BUZZI, QUARTA TURMA, DJe 3/6/2019).
+2. É firme a jurisprudência deste Superior Tribunal no sentido de que mesmo as matérias de ordem pública exigem o prequestionamento, como tem decidido este STJ. Precedentes: AgInt no AREsp. 1.284.646/CE, Rel. Min. FRANCISCO FALCÃO, DJe 21.9.2018; EDcl no AgRg no AREsp. 45.867/AL, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, DJe 31.8.2017 (REsp 1.860.269/PE, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, DJe 9/12/2020).
+(..)
+6. Agravo interno não conhecido" (STJ, AgInt no AgInt no REsp 1.585.938/PB, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 06/05/2021).
+Ademais, é firme a jurisprudência no sentido de que "mesmo as matérias de ordem pública exigem o prequestionamento, como tem decidido este STJ. Precedentes: AgInt no AREsp. 1.284.646/CE, Rel. Min. FRANCISCO FALCÃO, DJe de 21.9.2018; EDcl no AgRg no AREsp. 45.867/AL, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, DJe 31.8.2017" (STJ, REsp 1.860.269/PE, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, DJe de 09/12/2020).
+A propósito:
+"PROCESSUAL CIVIL. ADMINISTRATIVO. IMPROBIDADE ADMINISTRATIVA. AGRAVO INTERNO NO AGRAVO INTERNO NO RECURSO ESPECIAL. INOVAÇÃO DE TESE RECURSAL. IMPOSSIBILIDADE. AUSÊNCIA DE IMPUGNAÇÃO DO FUNDAMENTO DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 182/STJ.
+1. Com efeito, na linha dos precedentes do STJ, os argumentos apresentados em momento posterior à interposição do recurso especial não são passíveis de conhecimento por importar inovação recursal, indevida em virtude da preclusão consumativa (AgInt no REsp 1.800.525/SP, Relator Ministro MARCO BUZZI, QUARTA TURMA, DJe 3/6/2019).
+2. É firme a jurisprudência deste Superior Tribunal no sentido de que mesmo as matérias de ordem pública exigem o prequestionamento, como tem decidido este STJ. Precedentes: AgInt no AREsp. 1.284.646/CE, Rel. Min. FRANCISCO FALCÃO, DJe 21.9.2018; EDcl no AgRg no AREsp. 45.867/AL, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, DJe 31.8.2017 (REsp 1.860.269/PE, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, DJe 9/12/2020).
+(..)
+6. Agravo interno não conhecido" (STJ, AgInt no AgInt no REsp 1.585.938/PB, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 06/05/2021).
+Ante o exposto, com fulcro no art. 253, parágrafo único, II, a e b, do RISTJ, conheço do Agravo, para conhecer, em parte, do Recurso Especial, e, nessa parte, negar-lhe provimento.
+Em atenção ao disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já arbitrado, levando-se em consideração o trabalho adicional imposto ao advogado da parte recorrida, em virtude da interposição deste recurso, respeitados os limites estabelecidos nos §§ 2º e 3º do art. 85 do CPC/2015.
+I.
