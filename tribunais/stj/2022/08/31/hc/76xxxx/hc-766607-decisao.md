@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido liminar, impetrado em face de acórdão assim ementado:
+APELAÇÃO CRIMINAL. TRÁFICO ILÍCITO DE DROGAS PRELIMINAR. ILICITUDE DAS PROVAS OBTIDAS POR INVASÃO DOMICILIAR. 1- A aventada tese de ilicitude das provas decorrentes de invasão domiciliar já foi objeto de julgamento em habeas corpus, cuja ordem foi denegada.MÉRITO. ABSOLVIÇÃO. REDUÇÃO DA PENA BASE.APLICAÇÃO DA REDUTORA DO TRÁFICO PRIVILEGIADO.MODIFICAÇÃO DO REGIME PRISIONAL. SUBSTITUIÇÃO POR RESTRITIVAS DE DIREITOS. 2- Resultando das provas dos autos a certeza da conduta ilícita do processado, concernente à prática do crime de tráfico ilícito de drogas, descrito no artigo 33, caput, da Lei 11.343/06, não sobra espaço ao pleito absolutório. 3- Inócuo o pleito de redução da basilar se aplicada no mínimo legal. 4- Incomportáveis a aplicação da minorante prevista no artigo 33, § 4º, da Lei 11.343/06, a alteração do regime prisional e a substituição por restritivas de direitos pela reincidência, esta também pelo quantitativo de pena imposto. 5- Recurso conhecido e desprovido.
+Narram os autos que o paciente foi condenado como incurso nas sanções do art.33,caput, da Lei 11.343/06, à pena de5anos e 10 meses de reclusão, em regime inicial fechado, e ao pagamento de 583dias-multa.
+Sustenta a defesa, em suma, nulidade processual decorrente deinvasão de domicílio.
+Requer, liminarmente e no mérito, a concessão da ordem, para declarar"a nulidade das provas obtidas por meios ilícitos, invasão de domicílio sem ordem judicial ou fundadas razões que justificasse tal ato, reconhecendo a ABSOLVIÇÃO do paciente nos termos do art.386 do CPP, sendo expedido o competente alvará de soltura" (fls. 11-12).
+Em consulta ao sistema processual desta Corte Superior, verifico que a pretensão trazida neste writ é mera reiteração do pedido formulado no HC 751.854/GO, cujaliminar foi indeferida por decisão publicada em 30/6/2022,e aguardao julgamento demérito.
+Ante o exposto, não conheço do presente habeas corpus.
+Publique-se.
+Intimem-se.
