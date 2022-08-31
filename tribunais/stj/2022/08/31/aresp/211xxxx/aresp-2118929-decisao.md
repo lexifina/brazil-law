@@ -1,0 +1,28 @@
+DECISÃO
+Na origem trata-se de agravo de instrumento interposto contra decisão que deferiu penhora de imóvel em fase de cumprimento de sentença.No Tribunal a quoo agravo de instrumento foi desprovido.
+O recurso especial foi interposto no TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, contra acórdão com o seguinte resumo de ementa:
+CUMPRIMENTO DE SENTENÇA PENHORA DE IMÓVEL DESTINADO PARA REALIZAÇÃO DE ATIVIDADES PROFISSIONAIS - ESCRITÓRIO DE ADVOCACIA -. INSURGÊNCIA DESCABIDA. IMPENHORABILIDADE INEXISTENTE. SITUAÇÃO FORA DO ALCANCE DO ART. 833, V, DO CÓDIGO DE PROCESSO CIVIL PRECEDENTES DO E. SUPERIOR TRIBUNAL DE JUSTIÇA E DESTA CORTE. NULIDADE DO DECISUM INOCORRENTE. RECURSO DESPROVIDO.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+Antes do mais, afasto a denúncia de nulidade da r. decisão por se tratar de pedido de realização de nova penhora e não de substituição, a dispensar o pretendido prévio contraditório.
+ ..
+No entanto, não se pode afastar essa penhora sob singela alegação de ser bem imóvel destinado às atividades profissionais do agravante, advogado, porque, com a devida vênia, a constrição não inviabiliza ou impede a continuidade dessa atividade em local outro mediante transferência dos bens necessários ou úteis ao seu exercício, a resultar em ser possível a penhora.
+Demais disso, de relevo notar abranger a impenhorabilidade prevista no artigo 1º da Lei nº 8.009/901 apenas o imóvel destinado a moradia do devedor, circunstância nem sequer ventilada ou comprovada.
+Conforme entendimento pacífico desta Corte, "o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão". A prescrição trazida pelo art. 489 do CPC/2015 confirma a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, "sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida". (EDcl no MS 21.315/DF, relatora Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016.)
+Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Sobre a alegada violação dos arts. 490 e 842 do CPC/15, verifica-se que, no acórdão recorrido, não foi analisado o conteúdo dos dispositivos legais, nem foram opostos embargos de declaração para tal fim, pelo que carece o recurso do indispensável requisito do prequestionamento. Incidência dos Enunciados Sumulares n. 282 e 356 do STF.
+Não constando do acórdão recorrido análise sobre a matéria referida no dispositivo legal indicado no recurso especial, restava ao recorrente pleitear seu exame por meio de embargos de declaração, a fim de buscar o suprimento da suposta omissão e provocar o prequestionamento, o que não ocorreu na hipótese dos autos.
+Ademais, é cediço que o requisito do prequestionamento é exigido por esta Corte Superior inclusive nas matérias de ordem pública.
+No mesmo sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENERGIA ELÉTRICA. TRANSFERÊNCIA DE ATIVOS DE ILUMINAÇÃO PÚBLICA. INEXISTÊNCIA DE VIOLAÇÃO DO ART. 1.022 DO CÓDIGO FUX. FALTA DE INTERESSE DE AGIR E INÉPCIA DA INICIAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. MATÉRIA CONSTITUCIONAL. COMPETÊNCIA RECURSAL DO STF. NÃO CABIMENTO DO APELO NOBRE POR EVENTUAL VIOLAÇÃO DE NORMAS INFRALEGAIS. PRESENÇA DOS REQUISITOS PARA FIXAÇÃO DOS HONORÁRIOS RECURSAIS, EM RAZÃO DO NÃO CONHECIMENTO DO RECURSO ESPECIAL, NA DECISÃO MONOCRÁTICA AGRAVADA. AGRAVO INTERNO DA CONCESSIONÁRIA A QUE SE NEGA PROVIMENTO.
+(..)
+2. Não houve prequestionamento dos dispositivos legais atinentes às teses de inépcia da inicial e incongruência entre seus fundamentos e pedidos. A jurisprudência desta Corte considera que a ausência de enfrentamento da questão objeto da controvérsia pelo Tribunal de origem, não obstante a oposição de Embargos de Declaração, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula 211/STJ.
+3. É importante reiterar que não pode ser admitido o prequestionamento ficto das referidas teses, pois, ao tratar da violação do art. 1.022 do Código Fux, o Recurso Especial não discorreu sobre eventual omissão do acórdão recorrido quanto a elas. Julgados: AgInt no AREsp. 1.017.912/RS, Rel. Min. ASSUSETE MAGALHÃES, DJe 16.8.2017; REsp. 1.639.314/MG, Rel. Min. NANCY ANDRIGHI, DJe 10.4.2017.
+4. O requisito do prequestionamento é exigido por este STJ inclusive para as matérias de ordem pública. Julgados: AgInt no AREsp. 1.284.646/CE, Rel. Min. FRANCISCO FALCÃO, DJe 21.9.2018; EDcl no AgRg no AREsp. 45.867/AL, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, DJe 31.8.2017.
+(..)
+8. Agravo Interno da Concessionária a que se nega provimento.
+(AgInt no AREsp 1661808/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 14/09/2020, DJe 21/09/2020.)
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
