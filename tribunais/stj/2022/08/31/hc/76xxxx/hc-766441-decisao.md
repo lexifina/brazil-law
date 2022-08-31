@@ -1,0 +1,9 @@
+DECISÃO
+LUIZ CARLOS ALVES DE LIMA JUNIOR alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal a quo na Apelação n. 0097076-44.2018.8.26.0050, em que foi mantida sua condenação "por infração ao artigo 155, § 4º, I e IV, do Código Penal.  ..  às penas de dois anos e oito meses de reclusão, em regime semiaberto, e 13 dias-multa, no piso" (fl. 40).
+Irresignada, assere a defesa que " o  paciente sofre evidente constrangimento ilegal, sendo como autoridade coatora os Eminentíssimos Desembargadores da 12ª Câmara de Direito Criminal do Tribunal de Justiça/ SP, uma vez que a fundamentação dada pelos nobres magistrados se tornou inidônea, sendo que não justificaram de forma objetiva os motivos para a não concessão de regime de cumprimento inicial de pena como sendo o regime aberto" (fl. 4).
+Todavia, urge consignar que, apesar de o quantum de pena ser inferior a 4 anos de reclusão, foi imposto o regime inicial semiaberto, "pois, não obstante seja o réu Luiz Carlos reincidente, o crime praticado não se caracterizou pela violência ou grave ameaça contra a pessoa" (fl. 33), fundamento que, segundo o entendimento consolidado do Superior Tribunal de Justiça, permite o estabelecimento de regime inicial mais gravoso, in verbis:
+ ..
+IV - Na hipótese, inexiste constrangimento ilegal a ser sanado, eis que a paciente é reincidente, sendo aplicável, destarte, o regime mais gravoso sequente, qual seja, o semiaberto, nos termos do art. 33, parágrafo 2º, alínea b, do Código Penal  ..  (AgRg no HC n. 708.627/SP, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), 5ª T., DJe 27/4/2022).
+Dessa forma, ainda que operada a detração do período de prisão preventiva, há motivação idônea para a inserção do paciente no regime intermediário.
+À vista do exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
