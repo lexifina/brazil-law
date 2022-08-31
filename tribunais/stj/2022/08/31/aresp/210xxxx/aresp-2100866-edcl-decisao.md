@@ -1,0 +1,14 @@
+DECISÃO
+LUIZ FERNANDO PEREIRA ANDRADEopõeembargos de declaração àdecisão que conheceu do agravo para não conhecer do recurso especial (fls. 351-356).
+O embargante aponta contradição no decisum, argumentandoque faz jus àcausa de diminuição de pena do art. 33, § 4º, da Lei n. 11.343/2006, porquantoo depoimento do policial militar -que embasou a não concessão do benefício -foi tirado de contexto. Segundo alega, o policial não teria dito que eleera conhecido pelo envolvimento com o tráfico de drogas. Aduzaindaque houve apreensão de pequena quantidade de drogas (43g de maconha).
+Requer, assim,o conhecimento e provimento do recurso para que seja reconhecida a contradição e concedido o redutor do tráfico privilegiado (§ 4º do art. 33 da Lei de Drogas).
+É o relatório. Decido.
+Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a desfazerambiguidade, esclarecer obscuridade, eliminar contradição e suprir omissão existentes no julgado.
+Conforme exposto na decisão ora embargada, segundo a jurisprudência desta Corte,anatureza e quantidade das drogas apreendidaspodem ser utilizadas na terceira fase da dosimetria da pena, para afastamento da diminuição de pena prevista no § 4º do art. 33 da Lei n. 11.343/2016, apenas quando esse vetor for conjugado com outras circunstâncias do caso concreto que, unidas, caracterizem a dedicação do agente à atividade criminosa ou a integração a organização criminosa.
+No caso, o vetor quantidade dos entorpecentes não foi o único motivo utilizado pelas instâncias ordinárias para afastar a minorante; foram consideradosoutros elementos para se chegar à conclusão acerca dadedicação do ora embargante a atividades delituosas(o fato de ser conhecido no meio policial pelo envolvimento com o tráfico de drogas), estando o entendimento de acordo com a jurisprudênciado STJ.
+Ademais, se as instâncias ordinárias,com base na análise do acervo probatório e de modo fundamentado, consideraram que não houve demonstração do preenchimento dos requisitos legais para a concessão do benefício, para infirmar referidas conclusões, seria necessário revolver o conjuntofático-probatório dos autos,o que é vedado ao Superior Tribunal de Justiça nesta via (Súmula n. 7 do STJ).
+Verifica-se, assim,que não há contradição nem omissão a serem sanadas, porquanto o que a parte deseja, de fato, é rediscutir o mérito do recurso especial.
+Ressalte-se que a pretensão derediscutir matéria devidamente abordada e decidida no decisum embargado, motivada pela mera insatisfação com o resultado do julgamento, não se coaduna com a via eleita (EDcl no AgRg nos EREsp n. 1.315.507/SP, relator Ministro Luis Felipe Salomão, Corte Especial, DJe de 28/8/2014).
+Assim, é incabível o acolhimento dos aclaratórios.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
