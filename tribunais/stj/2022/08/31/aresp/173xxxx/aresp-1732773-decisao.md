@@ -1,0 +1,65 @@
+DECISÃO
+GABRIEL VIANA DA SILVAagrava da decisão que inadmitiu o recurso especial que interpôs, fundado no art. 105, III, "a", da Constituição Federal, contra acórdãos do Tribunal de Justiça do Estado de Goiásproferidos em revisãocriminal e em embargos de declaração (5545296-13.2019.8.09.0000).
+O agravante foi condenado à pena de 18 anos de reclusão pela prática do crime previsto no art. 121, § 2º, I e IV, do Código Penal. Em revisão criminal, a Corte de origem "julgou o autor carecedor do direito de ação" (fl. 338), mas adentrou no mérito do pedido. O acusado opôs embargos declaratórios, os quais foram rejeitados.
+Nas razões do recurso especial, o insurgente aponta violação doart.59do Código Penal. Afirma que houve "atecnia na avaliação das circunstâncias judiciais previstas no art. 59 do CP" (fl. 396). Requer seja revisada a dosimetria, com a consequente redução da pena-base.
+O especial foi inadmitido na origem por incidência da Súmulan. 7 do Superior Tribunal de Justiça.
+Nas razões do agravo, a defesa sustenta que "a insurgência pode ser analisada medianterevaloração e readequação jurídica dos fatos incontroversos constantes do acórdão recorrido" (fl. 421). Busca o conhecimento do agravo para que seja dado provimento ao recurso especial.
+O Ministério Público Federal opinou pelo desprovimento do agravo.
+Decido.
+I. Pressupostos de conhecimento do AREsp
+O agravo é tempestivo e preencheu os demais requisitos de admissibilidade, razões pelas quais comporta conhecimento.
+II. Admissibilidade do recurso especial
+O recurso é tempestivo e preenche os demais requisitos de admissibilidade, fundamentos pelos quais conheço do especial e passo à análise da impugnação.
+III. Contextualização
+O agravante foi denunciado e pronunciado como incurso nas penas do art. 121, § 2º, II e IV, do Código Penal.
+Submetido a julgamento perante o Conselho de Sentença, o réu foi condenado à pena de 18 anos de reclusão, tendo o Juiz Presidente realizado a dosimetria da seguinte forma (fls. 93-95, grifei):
+Culpabilidade  Vislumbro ser a conduta do réu reprovável, tendo em vista que, ao tempo do fato era plenamente imputável, possuía potencial condição de entender o caráter ilícito do fato e de ter conduta compatível com o ordenamento jurídico. A reprovabilidade deve ser considerada elevada, tendo em vista os diversos disparos direcionados à vítima.
+Antecedentes  Consoante aponta a certidão de fls. 645/649, o réu possui maus antecedentes, tendo em vista a sentença condenatória com trânsito em julgado relativa à ação penal de protocolo nº 200701758206.
+Personalidade do agente  Demonstra tendência para a prática delituosa.
+Conduta Social  Face à carência de elementos coligidos ao feito, não há como valorar a conduta social do sentenciado.
+Motivos que o levaram à prática do crime  Pelo que consta dos autos, não houve nenhum motivo nobre.
+Circunstâncias do crime  O fato ocorreu na BR -153, no início da noite, enquanto a vítima trafegava em uma motocicleta, na companhia de sua companheira, quando foram ultrapassados por um veiculo, momento em que a pessoa que estava ao lado do motorista sacou uma arma de fogo e disparou contra a vitima que caiu no chão após perder o controle da moto. Em seguida, a vítima, após correr, foi alcançada e novamente alvejada.
+Consequências penais  As próprias do crime.
+Comportamento da vitima  Pelo que consta dos autos, não contribuiu para o desfecho do crime.
+Ante o exposto, fixo a pena base em 17(dezessete) anos de reclusão.
+Em virtude da presença da agravante da reincidência, tendo em vista a sentença condenatória proferida nos autos de nº200805818264, aumento a pena em 01 (um) ano, passando essa a 18 (dezoito) anos de reclusão, que a torno definitiva, em razão de não haveroutras circunstâncias agravantes e atenuantes e causas de aumento ou de diminuição da pena.
+Inconformada, a defesa interpôs recurso de apelação perante a Corte estadual que, à unanimidade, negou provimento ao apelo.Naquela oportunidade, o acusado não impugnou a dosimetria da pena, como se infere do seguinte trecho(fl. 174, destaquei):
+Noutro turno, apesar de não ter sido objeto de insurgência da defesa do acusado GABRIEL, verifico que agiu com acerto o juiz sentenciante quando da fixação da pena imposta, não merecendo reparos, vez que elegeu umquantumrazoável e indicado para a repressão e prevenção do delito em apreço.
+Após o trânsito em julgado, o apenado ajuizou revisão criminal requerendo a redução da reprimenda. A açãofoi indeferida nos seguintes termos(fls. 341-342, grifei):
+Ressalta-se que, na imposição da reprimenda basilar, o magistrado singular motivou suficientemente os vetores judiciais desfavoráveis ao requerente, contidos no artigo 59 do Código Penal, estabelecendo patamar razoável e condizente com a análise das circunstâncias judiciais do caso em tela.
+ ..
+Por conseguinte, tem-se por incomportável a redução da pena base, no caso, fixada em 17 (dezessete) anos, em sede de revisão criminal, exceto quando há flagrante erro material na sua aplicação ou afronta a texto expresso da lei, situação inocorrente, especialmente porque a aferição dos critérios de individualização da pena situa-se no âmbito do legítimo poder discricionário do julgador e resultante abaixo da semissoma dos extremos. Por conseguinte, vislumbra-se que a presente revisão criminal está totalmente dissociada das hipóteses alinhavadas pelo artigo 621 do Código de Processo Penal, pretendendo, unicamente, o reexame de matéria já apreciada na sentença condenatória e no acórdão que a confirmou.
+IV. Violação do art. 59do Código Penal
+A fixação da pena é regulada por princípios e regras constitucionais e legais previstos, respectivamente, nos arts. 5º, XLVI, da Constituição Federal, 59 do Código Penal e 387 do Código de Processo Penal.
+Todos esses dispositivos remetem o aplicador do direito à individualização da medida concreta para que, então, seja eleito o quantum de sanção a ser aplicada ao condenado criminalmente, com vistas à prevenção e à reprovação do delito perpetrado.
+Assim, para obter-se uma aplicação justa da lei penal, o julgador, dentro dessa discricionariedade juridicamente vinculada, há de atentar para as singularidades do caso concreto e deve, na primeira etapa do procedimento trifásico, guiar-se pelas oito circunstâncias relacionadas no caput do art. 59 do Código Penal. São elas: a culpabilidade; os antecedentes; a conduta social; a personalidade do agente; os motivos; as circunstâncias e as consequências do crime e o comportamento da vítima.
+Na hipótese, infere-se do trecho acima transcrito que o Juiz Presidente do Tribunal do Júri elevou a pena-base em 5 anos em razão da análise desfavorável da culpabilidade, dos antecedentese dapersonalidade do agente, bem como das circunstâncias do delito.
+Destaco, por oportuno, que, ao contrário do constante do recurso especial, não constato, a partir da leitura da sentença, que o Juízo tenhavalorado negativamente os vetores "comportamento da vítima" e "motivo" do crime. Parece-me, em verdade, queas circunstâncias em tela foram sopesadas como neutras, uma vez queconstou da decisão que "não houve nenhum motivo nobre" (fl. 94) eque a vítima "não contribuiu para o desfecho do crime" (fl. 94).
+Relativamente à culpabilidade e à personalidade, observo que as instâncias ordinárias utilizaram fundamentação abstrata parasopesar negativamente as referidas vetoriais.
+Não basta o julgador mencionar que a "reprovabilidade deve ser considerada elevada" (fl. 93),nem consignar que o acusado "demonstra tendência para a prática delituosa"(fl. 93),sem que evidencie dados concretos para justificar essa análise.Nessa perspectiva:
+ ..
+Fundamentos abstratos e genéricos não podem ser usados para valorarnegativamente as circunstâncias judiciais previstas no art. 59 do CódigoPenal.  ..
+(HC n. 345.010/PE, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe4/11/2016, grifei)
+ ..
+2. O julgador deve, ao individualizar a pena, examinar com acuidade oselementos que dizem respeito ao fato, obedecidos e sopesados todos oscritérios estabelecidos no art. 59 do Código Penal, para aplicar, de formajusta e fundamentada, a reprimenda que seja, proporcionalmente, necessáriae suficiente para reprovação do crime. Especialmente, quando considerardesfavoráveis as circunstâncias judiciais, deve o magistrado declinar,motivadamente, as suas razões, pois a inobservância dessa regra ofende opreceito contido no art. 93, inciso IX, da Constituição da República.
+3.Relativamente à circunstância judicial da culpabilidade, o Tribunal deorigem fundamentou seu juízo de forma abstrata e genérica, limitando-se aconsignar que a censurabilidade da conduta e o grau do dolo foramelevadíssimos.  ..
+(AgRg no REsp n. 1.191.856/SE, Rel. Ministra Laurita Vaz, 5ª T., DJe13/3/2013, destaquei)
+Cumpre destacar que aculpabilidade prevista no art. 59 do Código Penal enquanto circunstância judicial não se confunde com a culpabilidade integrante do conceito analítico de delito.
+Há um equívoco, portanto, na valoração realizada pelo Juízo de origem, durante o cálculo dosimétrico,consubstanciada na constatação de que "ao tempo do fato  o réu  era plenamente imputável, possuía potencial condição de entender o caráter ilícito do fato e de ter conduta compatível com o ordenamento jurídico" (fl. 93). No mesmo sentido:
+ ..
+A culpabilidade, para fins do art. 59 do CP, deve ser compreendida comojuízo de reprovabilidade sobre a conduta, apontando maior ou menorcensurabilidade do comportamento do réu. Não se trata de verificação daocorrência dos elementos da culpabilidade, para que se possa concluir pelaprática ounão de delito, mas, sim, do grau de reprovação penal da condutado agente, mediante demonstração de elementos concretos do delito.- Naespécie, o sentenciante, no que foi acompanhado pelo acórdão recorrido,não apreciou concretamente a intensidade da reprovação penal, deixando deminudenciar a maior reprovabilidade da conduta praticada, assentandoapenas, de forma genérica, a culpabilidade exacerbada, ressaltando que aculpabilidade ressoa grave, traduzida na intensa reprovação pessoal daconduta, não se podendo olvidar que o réu poderia ter se comportadoconforme o direito, em afronta ao art. 93, IX, da CF/88, que exige amotivação das decisões judiciais.
+ ..
+(HC n. 395.081/PE, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe27/9/2017, grifei)
+Também, no que concerne à avaliação sobre a "tendência para a prática delituosa", cabe enfatizar que aTerceira Seção desta Corte Superior de Justiça, por ocasião do julgamento do REsp n. 1.794.854, publicado em 1º/7/2021, fixou a seguinte tese: "Condenações criminais transitadas em julgado, não consideradas para caracterizar a reincidência, somente podem ser valoradas, na primeira fase da dosimetria, a título de antecedentes criminais, não se admitindo sua utilização para desabonar a personalidade ou a conduta social do agente".
+Naquela oportunidade, ficou repelida a "possibilidade jurídica de o magistrado sentenciante valorar negativamente  ..  as circunstâncias judiciais da personalidade e da conduta social, quando se utiliza, para esse efeito, de condenações criminais anteriores, ainda que transitadas em julgado, pois esse específico aspecto (prévias condenações penais) há de caracterizar, unicamente, maus antecedentes".
+Assim, deve ser reputadainadequada a argumentação atrelada à "tendência para a prática delituosa" (fl. 93) para qualificar negativamente a personalidade do paciente.
+Em relação aos maus antecedentes e às circunstâncias do delito, observo que agiram com acerto as instâncias ordinárias, apresentando fundamentação concreta e exauriente, como se conclui do trecho da sentença transcrito acima, devendo ser respeitada a discricionariedade vinculada realizadapelo Juízoa quo.
+Por todo o exposto, afasto a análise negativa da personalidade e da culpabilidade.
+Passo, portanto, à nova dosimetria.
+A reprimenda-base do paciente foi fixadaem 17 anos de reclusãopara o crime de homicídio qualificado. Tendo em vista que a pena mínima atribuída ao crime em questão é de 12 anos, o Juizde primeiro grau adicionou à pena-base 1 anoe 3meses para cada uma das quatro circunstâncias judiciais classificadas negativamente.
+Diante do afastamento da valoração desfavorável da personalidade e daculpabilidade, estabeleço a pena-base do delito de homicídio qualificado em 14 anos e 6 meses de reclusão.
+Mantido o aumento de pena em 1 ano decorrente da agravante da reincidência, em razão da ausência de impugnação específica,fixo a pena intermediária em 15 anos e 6 meses de reclusão,tornando-a definitiva.
+V. Dispositivo
+À vista do exposto,com fundamento no art. 932, VIII, do CPC, c/c o art. 253, parágrafo único, II, "c", do RISTJ,conheço do agravo e dou parcial provimento ao recurso especial para reduzir a reprimenda para 15 anos e 6 meses de reclusão, mantidos os demais termos da decisão impugnada.
+Comunique-se, com urgência, o inteiro teor desta decisão às instâncias ordinárias para adoção das providências cabíveis.
+Publique-se e intimem-se.
