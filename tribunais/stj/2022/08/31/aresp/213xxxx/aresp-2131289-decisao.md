@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão publicada na vigência do CPC/2015, que inadmitiu o recurso especial por incidência da Súmula n. 83 do STJ (e-STJ fls. 111/113).
+O acórdão recorrido encontra-seassim ementado (e-STJ fl. 46):
+AGRAVO DE INSTRUMENTO - FIXAÇÃO DE HONORÁRIOS SOBRE VALOR DE CAUSA - EXTINÇÃO DO FEITO EXECUTIVO POR MEIO DE PRESCRIÇÃO INTERCORRENTE SUSCITADA NOS EMBARGOS À EXECUÇÃO - ADOÇÃO DO VALOR DADO À EXECUÇÃO COMO BASE PARA APRECIAÇÃO DOS HONORÁRIOS - AGRAVO DESPROVIDO.
+Nas razões do recurso especial (e-STJ fls. 55/68),fundamentado no art. 105, III, "a" e "c", da CF, a parte alegou, além de dissídio jurisprudencial, violação do art. 85, § 2º, do CPC/2015, porque (e-STJ fls. 64/66):
+ .. se trata da análise INTERPRETATIVA DO COMANDO JUDICIAL. Veja-se que o art. 85 do CPC é claro ao expor a semântica da sentença com a utilização da conjunção "OU".
+Desta forma, resta evidente que o art. 85, § 2º, do Código de Processo Civil, determina que a sucumbência seja fixada sobre: a) valor da condenação; OU b) proveito econômico obtido; OU c) valor atualizado da causa.
+Ilustres Julgadores, diferentemente do exarado na decisão ora sub judice, não se pode dizer que, fixado o parâmetro em relação ao valor da causa, não se deva aceitar o proveito econômico e/ou valor da condenação, já que uma alternativa EXCLUI a outra  ..
+Assim, é evidente que o DISPOSITIVO LEGAL, ART. 85, §2º DO CPC, estabeleceu, de forma clara e sem interpretação diversa, conforme trazido acima, a fixação sobre o VALOR ATRIBUÍDO À CAUSA autônoma, e não sobre o proveito econômico, ou então sobre o valor da execução.
+Desta forma, não há o que se falar que o dispositivo em questão "se deu em relação ao valor da causa executiva", sendo que o mesmo não delimitou tal entendimento naquela oportunidade, o que impediu inclusive o direito de defesa da ora Agravante, exarando APENAS que o valor de fixação se deu sobre o valor da causa (ação de embargos à execução). Por isso e por outros motivos que o acórdão vergastado não merece prosperar!
+No agravo (e-STJ fls. 120/136), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta não apresentada(e-STJ fl. 141).
+É o relatório.
+Decido.
+Foram julgados procedentes os embargos à execução, pelo reconhecimento da prescrição intercorrente, sendo fixado os honorários advocatícios em desfavor do ora recorrente, então exequente, em "20% (vinte por cento) sobre o valor atribuído à causa, com fundamento (e) na ordem estabelecida pelo artigo 85, § 2º, do Código de Processo Civil  .. " (e-STJ fl. 47).
+Em razão do trânsito em julgado da decisão, arecorrida iniciou o cumprimento da sentença, para cobrar honorários advocatícios em 20% sobre o valor atribuído na petição executiva. Arecorrente impugnou, alegando que o valor de 20% deveria incidir sobre o valor atribuído à causa dos embargos de execução, e não sobre o valor da causa da ação de execução.
+O juízo da primeira instância, "ao avaliar essa circunstância, entendeu que o valor dado à causa mencionado no título executivo fazia referência aos autos de execução, eis que compreendem o proveito econômico do devedor" (e-STJ fl. 47).
+O Tribunal de origem manteve a decisão monocrática, sob o fundamento de que,"na hipótese da ação executiva ter sido provida, caberia ao embargante efetuar o pagamento sobre 20% da pretensão dada pelo agravante à sua peça exordial; agora, uma vez que essa pretensão não obteve êxito, por que os patronos do devedor haveriam de receber valor menor a título de remuneração pelo seu serviço prestado  .. . Importante então vincular o "valor da causa"mencionado pelo magistrado à ação de execução, vez a quo que representa o real ganho econômico das duas partes (do exequente, no provimento, e do devedor, no desprovimento)" (e-STJ fl. 48).
+A parte, no recurso especial, alega violação do art. 85, §2º, do CPC/2015, sob oargumento de que a parte dispositiva da decisãoque julgou os embargos à execuçãofoi clara "ao determinar que a sucumbência fora fixada sobre o VALOR ATRIBUÍDO À CAUSA (EMBARGOS À EXECUÇÃO - AÇÃO AUTÔNOMA), e não sobre o proveito econômico da própria execução" (e-STJ fl. 65).
+O entendimento do Tribunal de origem não pode ser desconstituído apenas com base no art. 85 do CPC/2015, porque a norma em referência nada dispõe sobre a interpretação da parte dispositiva de decisão transitada em julgado.
+Dessa forma, está caracterizadaa deficiência na fundamentação recursal, a teor da Súmula n. 284 do Supremo Tribunal Federal: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."Nesse sentido:
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE RECUPERAÇÃO JUDICIAL. IRREGULARIDADES. AFERIÇÃO. INEXISTÊNCIA DE ALCANCE NORMATIVO DO ARTIGO INDICADO. SÚMULA N. 284/STF. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO E DA DECISÃO AGRAVADA. SÚMULAS N. 283 DO STF E 182 DO STJ. REEXAME DE MATÉRIA FÁTICA. SÚMULAS N. 5 E 7 DO STJ. DECISÃO MANTIDA.
+1. Considera-se deficiente, a teor da Súmula n. 284 do STF, a fundamentação recursal que alega violação de dispositivos legais cujo conteúdo jurídico não tem alcance normativo para amparar a tese defendida no recurso especial.  ..
+(AgInt no REsp 1723093/MS, de minha relatoria, QUARTA TURMA, julgado em 29/11/2021, DJe 02/12/2021.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO - INSURGÊNCIA RECURSAL DA DEMANDADA.
+1. A indicação de dispositivo legal sem pertinência temática e a menção a artigo de lei, desprovida de clareza e sem fundamentação precisa para remover a razão de decidir do acórdão recorrido, revelam a patente falha de fundamentação do apelo especial, circunstância que atrai a incidência da Súmula 284 do Supremo Tribunal Federal.  ..
+2. Agravo interno desprovido.
+(AgInt no AREsp 1910158/RO, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 29/11/2021, DJe 01/12/2021.)
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
