@@ -1,0 +1,32 @@
+DECISÃO
+KAIRO VICTOR FERREIRA CAMARGOalega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, que denegou o HC n. 1.0000.22.118578-8/000.
+Sustenta a defesa, em síntese, que "para a decretação da prisão preventiva, tanto o fumus comissi delicti quanto o periculum libertatis devem estar presentes no caso concreto, ou seja, não se trata de condição alternativa, mas sim aditiva, pois depende da existência fundamentada de ambos, o que não ocorre no caso sub judice, haja vista que restou comprovada a ausência do periculum libertatis sob a perspectiva do ora recorrente" (fl. 88).
+Requer a concessão da ordem, para que seja revogada a prisão preventiva.
+O Ministério Público Federal opinou pelo não provimento do recurso(fls. 474-478).
+Decido.
+Quanto à apontada ausência de quaisquer dos fundamentos previstos no art. 312 do CPP, faço lembrar que a prisão preventiva é compatível com apresunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, da natureza abstrata do crime ou do ato processual praticado (art. 313, § 2º, CPP).
+Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+No caso dos autos, o Tribunal a quo, aochancelara fundamentação utilizada pelo juízo de primeiro grau, assim consignou(fls. 70-72, grifei):
+Norteando-me pela certeza de que não existem direitos absolutos e de que é preciso que todos eles convivam harmonicamente na ordem jurídica, vejo que, no caso dos autos, há motivação idônea amparando a constrição cautelar do paciente.
+Isso porque, não vislumbro qualquer irregularidade na r. decisão proferida, estando devidamente calcada em dados concretos dos autos e fundamentada na garantia da ordem pública, permitindo, desta forma, saber os reais motivos que ensejaram a adoção da medida cautelar extrema, senão vejamos:
+(..) Verifica-se que, há necessidade do cárcere cautelar por conveniência da instrução processual e para garantir a ordem pública.
+Ainda, contata-se que o alegado pela Defesa de Kairo são questões meritórias, sendo necessário o curso das investigações e, considerando a natureza do crime, a manutenção da prisão do referido é medida que se impõe.
+Ora, o crime é grave e, em tese, foi cometido com grave ameaça contra pessoa, evidenciando periculosidade, notadamente, pelo concurso de agentes, devendo aguardar aprofundamento nas investigações e conclusão do inquérito policial.
+Pelo exposto, com fundamento nos artigos 310, §2º, c/c, 312, c/c, 313, todos do Código de Processo Penal, converto a prisão em flagrante em prisão preventiva. (..). (Decisão de Decretação da Prisão Preventiva - doc. de ordem n.º 07). Grifos.
+Assim, não há que se falar em ausência de fundamentação, vez que a d. autoridade apontada como coatora expôs, ainda que de maneira sucinta, a necessidade da segregação do agente, em especial para a garantia da ordem pública, tendo em vista a gravidade concreta dos fatos apurados.
+Com efeito, sem a pretensão de se adentrar o mérito da causa, bem como de revolver as provas dos autos, o que é incabível nesta sede, o delito imputado ao paciente encerra elevada reprovabilidade social, visto cuidar-se, em tese, de um roubo majorado, praticado em concurso de pessoas e mediante emprego de arma de fogo, que teve por objeto bem de expressivo valor econômico (uma caminhonete), o que justifica, por ora, a manutenção da segregação.
+Deste modo, percebe-se facilmente que a infração supostamente cometida pelo paciente encerra elevada gravidade concreta, extrapolando os níveis ínsitos ao tipo penal teoricamente infringido, o que demonstra a periculosidade do agente, ensejando, assim, a manutenção da segregação cautelar, ora fustigada, como forma de garantia da ordem pública, conforme bem exposto pelo d. Magistrado primevo, notadamente face ao reprovável modus operandi empregado.
+ .. .
+Somado ao exposto, depreende-se da FAC acostada aos autos (doc. de ordem n.º 10), que o ora paciente ostenta outro registro policial (Inquérito Policial n.º 9462212/2020), pelo suposto envolvimento com o delito de tráfico de drogas, tendo sido beneficiado com alvará de soltura, em 26/04/2020, o que corrobora a necessidade de manutenção da prisão, como forma de resguardar a ordem pública.
+Dessa forma, verifico que as razões invocadas na instância de origem se mostram suficientes para embasar a ordem de prisão do acusado, porquanto contextualizaram, em dados dos autos, a necessidade cautelar de segregação do réu.
+Em situação semelhante, o STJ assim decidiu:
+ .. .
+2. No caso, a custódia cautelar está suficientemente fundamentada na necessidade de garantia da ordem pública, diante da gravidade concreta da conduta delituosa, pois o crime de roubo teria sido praticado em concurso de agentes - dentre eles um menor de idade -, mediante o uso de simulacro de arma de fogo e com o emprego de violência real contra a vítima, que teria sido agredida com coronhadas no capacete. Tais circunstâncias autorizam a segregação provisória, segundo entendimento consolidado desta Corte no sentido de que não há constrangimento ilegal quando a prisão preventiva é decretada em razão do modus operandi com que o crime fora praticado, como ocorreu neste caso.
+3. É inviável a aplicação de medidas cautelares diversas da prisão, pois a gravidade concreta da conduta delituosa indica que a ordem pública não estaria acautelada com a soltura do agravante.
+ .. .
+8. Agravo regimental não provido.
+(AgRg no HC n. 745.729/SP, relator Ministro Ribeiro Dantas, 5ª T., DJe de 10/8/2022, grifei)
+Saliento, ainda, que, nos termos da jurisprudência pacífica desta Corte Superior,"a existência de inquéritos, ações penais em curso, anotações pela prática de atos infracionais ou condenações definitivas denotam o risco de reiteração delitiva e, assim, constituem fundamentação idônea a justificar a segregação cautelar. Precedentes do STJ" (RHC n. 106.326/MG, 6ª T., Relª.Minª. Laurita Vaz, DJe de 24/04/2019, destaquei).
+Assim, em razão da gravidade do crime e do indicado risco de reiteração delitiva, as medidas cautelares alternativas à prisão não se mostram adequadas e suficientes para evitar a prática de novas infrações penais.
+À vista do exposto, nego provimento ao recurso em habeas corpus.
+Publique-se e intimem-se.
