@@ -1,0 +1,22 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+RELATÓRIO
+MURILO SANTOS DANTASinterpõe agravo regimental contra a decisão de fls. em que, com fundamento no art. 34, XX, do RISTJ, deneguei a ordem in limine.
+A defesa sustenta "a demora irrazoável para julgamento do recurso de embargos de declaração no tribunal de origem, o qual padece de julgamento desde 11/04/2022, ou seja, havia quase 120dias, estando o Paciente preso desde 28/02/2020".
+Entende que"não sendo julgados os Embargos, o v. Acórdão não está pacificado, ou seja, não se fez coisa material, necessitando o julgado de correção", visto que"o recurso de apelo não fez coisa material, padecem de acerto, de correção, de julgamento".
+Pleiteia seja "dado provimento para concessão da ordem, relaxando a prisão cautelar do Paciente".
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO. ALEGADO EXCESSO DE PRAZO PARA O JULGAMENTO DOS ACLARATÓRIOS OPOSTOS CONTRA O ACÓRDÃO DA APELAÇÃO. SÚMULA N. 52 DO STJ. INCIDÊNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O caso comporta o julgamento antecipado, diante da pacífica orientação deste Superior Tribunal, segundo a qual "Uma vez encerrada a instrução criminal, fica superado o constrangimento advindo do excesso de prazo na formação da culpa" (Súmula n. 52 do STJ), motivo pelo qual foi denegada a ordem in limine.
+2. Com efeito, no que tange à alegação de excesso de prazo para o julgamento dos embargos de declaração opostos contra o acórdão proferido no julgamento da apelação, ao menos por ora, não há demora irrazoável, que autorize a mitigação da súmula em apreço. Desde a prisão preventiva do paciente, em 24/2/2020, o processo seguiu trâmite regular, sendo que o paciente já teve a sua condenação confirmada pela Corte local.
+3. Aplica-se ao caso o entendimento de que "Eventual constrangimento ilegal por excesso de prazo não resulta de um critério aritmético, mas de uma aferição realizada pelo julgador, à luz dos princípios da razoabilidade e proporcionalidade, levando em conta as peculiaridades do caso concreto, de modo a evitar retardo abusivo e injustificado na prestação jurisdicional"
+4. Agravo regimental não provido.
+VOTO
+Informam os autos que o paciente está custodiado desde 24/2/2020, motivo pelo qual impetrou o writ originário.
+A Corte local, ao negar provimento à apelação,manteve sua condenação às penas de 5 anos de reclusão, no regime inicial fechado, como incurso no artigo 33, "caput", da Lei n.11.343/2006.
+Na decisão ora agravada, entendi que ocaso comporta o julgamento antecipado, diante da pacífica orientação deste Superior Tribunal, segundoaqual "Uma vez encerrada a instrução criminal, fica superado o constrangimento advindo do excesso de prazona formação da culpa" (Súmula n. 52 do STJ), motivo pelo qual deneguei a ordem in limine.
+Com efeito, no que tange à alegação de excesso de prazo para o julgamento dos embargos de declaração opostos contra o acórdão proferido no julgamento da apelação, ao menos por ora, não há demora irrazoável, que autorize a mitigação da súmula em apreço. Desde a prisão preventiva do paciente, em24/2/2020,o processo seguiu trâmite regular, sendo que o paciente já teve a sua condenação confirmada pela Corte local.
+Aplica-se ao caso o entendimento de que "Eventual constrangimento ilegal porexcessode prazo não resulta de um critérioaritmético,mas de uma aferição realizada pelo julgador, à luz dos princípios da razoabilidade e proporcionalidade, levando em conta as peculiaridades do caso concreto, de modo a evitar retardo abusivo e injustificado na prestação jurisdicional"(AgRg no HC 717.921/SP, Rel. MinistroReynaldo Soares Da Fonseca, 5ª T., DJe 25/3/2022).
+E ainda: " ..  Uníssona é a jurisprudência no sentido de que a ilegalidade da prisão porexcessodeprazosó pode ser reconhecida quando a demora for injustificada, impondo-se adoção de critérios derazoabilidadeno exame da ocorrência indevida coação"(AgRg no HC n. 711.679/SP, Rel. MinistroOlindo Menezes- Desembargador convocado do TRF 1ª Região, DJe 11/3/2022).
+À vista do exposto, nego provimento ao agravo regimental.
