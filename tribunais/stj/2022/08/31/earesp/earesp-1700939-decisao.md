@@ -1,0 +1,29 @@
+DECISÃO
+Vistos etc.
+Trata-se de embargos de divergência opostos pelo MAIS PVC INDÚSTRIA E COMÉRCIO LTDA - EM RECUPERAÇÃO JUDICIAL e OUTROScontra acórdão da Quarta Turma, ementado nos seguintes termos:
+COMERCIAL E RECUPERACIONAL. AGRAVOINTERNO NO AGRAVO EM RECURSO ESPECIAL.AGRAVO DE INSTRUMENTO NA RECUPERAÇÃOJUDICIAL. PROPRIEDADE FIDUCIÁRIA DE BEMESSENCIAL À ATIVIDADE DA EMPRESARECUPERANDA. CONVERSÃO DO CRÉDITO EMQUIROGRAFÁRIO. DESCABIMENTO. CONSOLIDAÇÃODA PROPRIEDADE EM FAVOR DO CREDOR.IMPEDIMENTO TRANSITÓRIO. PERÍODO DESUSPENSÃO DA RECUPERAÇÃO JUDICIAL. AGRAVOINTERNO PROVIDO PARA CONHECER DO AGRAVO EPROVER O RECURSO ESPECIAL.
+1. O agravo interno merece acolhida e conduz a novo exame dorecurso.
+2. O acórdão do Tribunal de Justiça, data venia, violou os arts.47 e 49 da Lei 11.101/2005 ao transformar em quirografário ocrédito sobre a propriedade fiduciária, em razão de o bemalienado fiduciariamente integrar a atividade essencial dodevedor.
+3. O recurso especial é acolhido, pois o impedimento à Superior Tribunal de Justiçaconsolidação da propriedade em favor do credor é transitório,perdurando apenas no período de suspensão da recuperaçãojudicial. "(..) Em razão de os imóveis dados em garantiafiduciária constituírem o local onde são exercidas atividades deadministração, gerenciamento, plantio e produção de maçãs(objeto social das recuperandas), não se revela possível aconsolidação da propriedade fiduciária em favor da partecredora" (AgInt no AREsp 1.677.661/SC, Rel. MinistroMARCO BUZZI, Quarta Turma, j. em 19/10/2020, DJe de23/10/2020).
+4. Agravo interno provido para conhecer do agravo e darprovimento ao recurso especial.
+Em suas razões, o embargante apontaa existência de divergência jurisprudencial acerca da possibilidade de inclusão na recuperação judicial de contratos com garantia de alienação fiduciária incidente sobre bens essenciais à empresa em recuperação judicial.
+Para tanto, aponta como paradigmas os acórdãos proferidos no julgamentos dos AgInt no AgInt no AgInt no CC 149.561/MT(2ª S, Min. Luis Felipe Salomão) e AgInt no CC 162.066/CE (2ª S., Min. Luis Felipe Salomão).
+Impugnação apresentada às fls. 1.093/1.109 (e-STJ).
+É o relatório.
+Decido.
+De início, cumpre registrar que, embora inicialmente admitidos os embargos de divergência, o relator poderá, em nova análise dos autos, abordar os pressupostos extrínsecos e/ou intrínsecos do recurso uniformizador.
+Nesse contexto, os embargos de divergência não prosperam.
+A teor do disposto nos arts. 1.043 do CPC/2015 e 266 do RISTJ, são cabíveis embargos de divergência, recurso cujo escopo é a uniformização da jurisprudência desta Corte, eliminando as dissidências internas quanto à interpretação do direito em tese, quando determinado órgão fracionário, julgando recurso especial, dissente de julgamento atual de qualquer outro órgão do mesmo tribunal.
+No caso, entretanto, o dissídio aventado pelos embargantes não está configurado, na medida em que não há similitude fática e jurídica entre o julgado recorrido e os acórdãos paradigmas da 2ª Seção.
+Isso porque a 4ª Turma do STJ, ao dar provimento ao agravo interno - e reformar, via de consequência, a decisão que não conhecera do recurso especial dos ora embargantes -, bem assim ao acolher os embargos de declaração para esclarecer fundamento utilizado no voto condutor do acórdão ora recorrido, entendeu, com base nas peculiaridades do caso, que "os bens alienados fiduciariamente, quando integram a atividade essencial da empresa recuperanda, devem permanecer com o devedor durante o período de suspensão previsto no art. 6º, § 4º, da Lei 11.101/2005", todavia, tal entendimento "não altera a natureza do crédito que recai sobre os bens alienados fiduciariamente, cuja propriedade permanece do credor fiduciário e, portanto, não sujeito à recuperação judicial". Asseverando, também,que "oefeito jurídico decorrente, portanto, é apenas o de impedir a consolidação da propriedade fiduciária em favor do credor durante esse período".
+De outro lado, os acórdãos paradigmas cuidam de questões relacionadas à definição da competência dejuízos para apreciarem atos constritivos eventual mente praticados sobre o patrimônio das empresas em recuperação ou para determinação a respeito da natureza do crédito ali discutido,não obstante, para esse fim, tenham se referido à controvérsia presente no caso julgado pela 4ª Turma.
+Bem se vê, portanto, que os precedentes colacionados, por não se referirem às mesmas circunstâncias, não infirma a orientação adotada pelo acórdão ora embargado.
+Por fim, ressalto apenas que "os embargos de divergência são cabíveis para compor eventual dissídio de teses jurídicas em sede de recurso especial, não sendo admissíveis para revisar acerto ou desacerto da decisão embargada" (AgRg nos EAREsp 744.127/RN, Rel. Ministro RAUL ARAÚJO, CORTE ESPECIAL, julgado em 15/02/2017, DJe 24/02/2017).
+Ante o exposto, com fulcro no art. 266-C, do RISTJ, indefiro os embargos de divergência.
+A apresentação de novos incidentes manifestamente infundados ou protelatórios será reputada litigância de má-fé.
+Intimem-se.
+EMENTA
+EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. DISSÍDIO NÃO DEMONSTRADO. AUSÊNCIA DE SIMILITUDE FÁTICA E JURÍDICA ENTRE OS CASOS CONFRONTADOS.
+1. A teor do disposto nos arts. 1.043 do CPC/2015 e 266 do RISTJ, são cabíveis embargos de divergência, recurso cujo escopo é a uniformização da jurisprudência desta Corte, eliminando as dissidências internas quanto à interpretação do direito em tese, quando determinado órgão fracionário, julgando recurso especial, dissente de julgamento atual de qualquer outro órgão do mesmo tribunal.
+2. No caso, entretanto, o dissídio aventado pelo embargante não está configurado, na medida em que não há similitude fática e jurídica entre o julgado recorrido e os acórdãos paradigmas da 2ª Seção (AgInt no AgInt no AgInt no CC 149.561/MT e AgInt no CC 162.066/CE).
+3. EMBARGOS DE DIVERGÊNCIA INDEFERIDOS.
