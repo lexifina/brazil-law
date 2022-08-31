@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se dehabeas corpuscom pedido liminar impetrado em favor de CLAUDINEI ANTONIO FERREIRA OLIVEIRA apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (Apelação n. 0000540-35.2015.8.26.0580).
+Os autos dão conta de que o ora paciente foi condenado, por infração ao art. 33, § 4º, da Lei n. 11.343/2006, à pena de 2 (dois) anos e 6 (seis) meses de reclusão, em regime aberto, além do pagamento de 250 (duzentos e cinquenta) dias-multa, tendo sido a pena privativa de liberdade substituída por 2 (duas) restritivas de direitos, consistentes em prestação de serviços à comunidade e prestação pecuniária de 1 (um) salário mínimo(e-STJ fls. 11/17).
+Irresignado, o Ministério Público interpôs recurso de apelação no Tribunal de origem, que lhe deu provimento "para majorar as penas de CLAUDINEI ANTONIO FERREIRA OLIVEIRA e MARCOS ELI DA SILVA para 05 (cinco) anos de reclusão, em regime inicial fechado e pagamento de 500 (quinhentos) dias multa, no valor mínimo"(e-STJ fl. 24). Eis a ementa do mencionado acórdão(e-STJ fl. 20):
+Apelação Criminal - Tráfico Ilícito de Entorpecentes.
+Recurso Ministerial -Redimensionamento da pena - Afastamento da causa de diminuição do artigo 33, § 4º -Cabimento- Recurso provido.
+No presentewrit,o impetrante afirma que a sentença de primeiro grau deve ser restabelecida, uma vez que o ora paciente faz jus ao redutor previsto no § 4º do art. 33 da Lei n. 11.343/2006.
+Alega que a matéria trazida no presentehabeas corpusnão foi enfrentada noHabeas Corpusn. 504.440/SP e que, por isso, a presente impetração não é mera reiteração do mencionado remédio constitucional.
+Acrescenta que, "AINDA QUE ASSIM ENTENDA, NÃO HOUVE ENFRENTAMENTO DO TEMA PELO COLEGIADO, O QUE OBSTA UMA IMPETRAÇÃO JUNTO AO STF"(e-STJ fl. 5).
+Assevera que "A QUANTIDADE DE DROGAS NÃO É EXPRESSIVA, POIS, FORAM APREENDIDAS 11 PORÇÕES, QUE PESARAM 110 GRAMAS DE COCAÍNA.TANTO QUE NÃO HOUVE EXASPERAÇÃO DA PENA EM RELAÇÃO À QUANTIDADE DE DROGA APREENDIDA, NUMA DEMONSTRAÇÃO QUE REALMENTE NÃO FORAM APREENDIDAS QUANTIDADES EXPRESSIVAS DE DROGAS.LADO OUTRO A PRÁTICA DE ATIVIDADES CRIMINOSAS NÃO SE PRESUME, DEVE ESTAR COMPROVADA, NÃO BASTANDO MERAS ILAÇÕES OU CITAÇÕES"(e-STJ fl. 7).
+Por isso, requer, inclusive liminarmente, seja concedida a ordem, a fim de que seja restabelecida a sentença de primeiro grau (e-STJ fls. 3/8).
+É, em síntese, o relatório.
+Decido.
+Depreende-se dos autos que o presentehabeas corpusimpugna o acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo nos autos da Apelação n. 0000540-35.2015.8.26.0580(e-STJ fls. 18/25), tendo sido distribuído a este relator em 29/8/2022(e-STJ fl. 34).
+Ocorre que a causa de pedir e o pedido desta impetraçãosão idênticos aos doHabeas Corpusn. 504.440/SP, impetrado nesta Corte e atribuído a este relator no dia 15/4/2019, que igualmente impugna o mesmo acórdão prolatado naApelação n. 0000540-35.2015.8.26.0580pelo Tribunal de Justiça do Estado de São Paulo.
+Ademais, ao contrário do que alega o impetrante, a matéria trazida na presente impetraçãofoi sim tratada nos autos daquelehabeas corpus, tendo sido, no julgamento do mérito, concedidaparcialmentea ordem a fim de estabelecer o regime semiaberto para início de cumprimento das penas impostas aos pacientes. Destaco que, naquela oportunidade, foi reconhecido o acerto do Tribunal de origem em afastaro reconhecimento da causa especial de redução de pena, prevista no § 4º do art. 33 da Lei n. 11.343/2006.
+Aliás, essa não é primeira tentativa do impetrante de trazer- diga-senovamente -essa questão à apreciação desta Corte, veja que oHabeas Corpusn. 642.153/SP foi por mim indeferido liminarmente por ser, também, mera reiteração do HC 504.440/SP.
+Dessa forma, diante da constatação de que este remédio constitucionalé mera reiteração doHabeas Corpusn. 504.440/SP,indefiro-o liminarmente.
+Publique-se. Intimem-se.
