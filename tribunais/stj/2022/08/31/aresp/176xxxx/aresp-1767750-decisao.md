@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão publicada na vigência do CPC/2015, que inadmitiu o recurso especial em razão da incidência das Súmulas n. 5 e 7 do STJ (e-STJ fls. 468/473).
+O acórdão recorrido encontra-seassim ementado (e-STJ fl. 400):
+APELAÇÃO CIVEL - AÇÃO DE COBRANÇA - PRELIMINAR EM CONTRARRAZÕES - NÃO CONHECIMENTO DA APELAÇÃO - INÉPCIA RECURSAL - REPRODUÇÃO DA CONTESTAÇÃO - REJEIÇÃO -DETERMINAÇÃO DE PAGAMENTO - OBSERVÂNCIA AO COMANDO SETENCIAL DA AÇÃO REVISIONAL - LAUDO PERICIAL - NULIDADE AFASTADA - RECURSO DESPROVIDO. Conforme entendimento do Superior Tribunal de Justiça, "a reprodução na apelação das razões já deduzidas na contestação não determina a negativa de conhecimento do recurso, desde que haja compatibilidade com os temas decididos na sentença" (REsp 924.378/PR, Rel. Ministra NANCY ANDRIGHI, DJ 11.4.2008). Não há que se falar em reforma da sentença quando o valor apurado para pagamento foi calculado em observância ao determinado em sentença anterior proferida na ação revisional, não englobando os juros remuneratórios contra os quais a recorrente se insurge. Inexiste óbice na utilização dos cálculos realizados pelo perito na ação revisional quando iniciada a liquidação de sentença, mesmo que posteriormente esta tenha sido extinta, uma vez que submetidos ao crivo do contraditório, tendo a apelada tido a oportunidade dele se opor, por questão de economia e celeridade processual. Recurso desprovido.
+Os embargos de declaração foram rejeitados (e-STJ fls. 438/443).
+Nas razões do recurso especial (e-STJ fls. 446/453),fundamentado no art. 105, III, "a" e "c", da CF, a parte alega, além de dissídio jurisprudencial, violação dos arts. 503 e 505 do CPC/2015.
+Sustenta que (e-STJ fls. 450/452):
+(..) a recorrente havia ajuizado ação judicial em face do recorrido, visando a revisão contratual acerca da previsão que vinculava o salário mínimo à correção das parcelas, processo 0287558-23.2000.8.13.0702.
+A sentença, a qual foi confirmada pelo Egrégio TJMG, reconheceu expressamente a ausência de previsão contratual de incidência de juros de mora.
+(..)
+NÃO HÁ DÚVIDAS DE QUE A AUSÊNCIA DE PACTUAÇÃO DE JUROS DE MORA NO CONTRATO FIRMADO ENTRE AS PARTES TRATA-SE DE FATO INCONTROVERSO.
+Eis a razão pela qual a decisão recorrida viola expressamente o texto legal do CPC/2015, especificamente os artigos 503 e 505.
+(..)
+Ora, se a sentença proferida nos autos do processo nº. 0287558-23.2000.8.13.0702, a qual transitou em jugado, reconheceu expressamente a não pactuação de juros de mora no contrato firmado entre as partes, não há dúvidas de que o v. acórdão viola expressamente a coisa julgada material, eis que desconsiderada para fins de liquidação dos cálculos apresentados pelo recorrido.
+No agravo (e-STJ fls. 476/485), afirmaa presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada às fls. 492/499 (e-STJ).
+É o relatório.
+Decido.
+Consta nos autos que o Tribunal de origem (e-STJ fls. 405/406):
+A apelante apresenta insurgência em face dos cálculos apresentados pela Contadoria e que serviram para embasar o valor pretendido pela autora na ação de cobrança, alegando a incidência de juros remuneratórios, não previstos no contrato. Contudo, da simples análise do laudo constante às fls. 583/625, observa-se tão somente a incidência de juros de mora nos moldes determinados na decisão de fls. 582, senão vejamos:
+Face a inércia das partes quanto a determinação de f. 580, determino nova remessa dos autos ao Contador Judicial para realização dos cálculos conforme requerido às f. 568/569, aplicando a taxa de juros de 0,5% ao mês até 01/01/2002, entrada em vigor do novo CCB e a partir de então juros de 1,0% ao mês
+Neste contexto, não há que se falar em nova liquidação sem a incidência de juros remuneratórios, pois estes não integram o cálculo apresentado. De igual forma, rejeito o pedido de desconsideração do laudo pericial que embasou a ação de cobrança. Primeiramente por questão de economia processual, uma vez que o laudo, embora produzido, a princípio, inutilmente, foi submetido ao crivo do contraditório, tendo a própria apelante se manifestado no sentido de concordar com a sua produção, "considerando que o contador judicialtem condições técnicas de produzir o referido cálculo, bastando que observe os quesitos anteriormente apresentados". Ademais, na ação de cobrança novamente lhe foi oportunizada a impugnação, o que foi feito em contestação, com apresentação dos valores que entende devidos.
+Deste modo, não verifico qualquer nulidade na confecção do laudo contábil que possa macular o processo, sendo ainda nesse sentido a orientação do art. 277 e 283 do CPC:
+Art.277: Quando a lei prescrever determinada forma, o juiz considerará válido o ato se, realizado de outro modo, lhe alcançar a finalidade.
+Art. 283; O erro de forma do processo acarreta unicamente a anulação dos atos que não possam ser aproveitados, devendo ser praticados os que forem necessários a fim de se observarem as prescrições legais.
+Parágrafo único. Dar-se-á o aproveitamento dos atos praticados desde que não resulte prejuízo à defesa de qualquer parte.
+Modificar o entendimento do acórdão impugnado, que concluiu pela observância dos parâmetros estabelecidos na sentençana realização dos cálculos, demandaria reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7/STJ. Nessa linha de entendimento, anotem-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. DECISÃO MONOCRÁTICA. ENTENDIMENTO DOMINANTE. POSSIBILIDADE. JULGAMENTO COLEGIADO. SUPERAÇÃO DE EVENTUAL VÍCIO. AGRAVO INTERNO. ALEGAÇÕES DISSOCIADAS DA DECISÃO AGRAVADA. FUNDAMENTAÇÃO ADEQUADA. VIOLAÇÃO DOS ARTS. 11 E 489 DO NCPC. AUSÊNCIA. REEXAME DE FATOS E PROVAS. INVIABILIDADE. SÚMULA Nº 7 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016)serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.
+3. A apreciação do tema pelo órgão colegiado no agravo interno supera eventual nulidade da decisão singular.
+4. É inviável o conhecimento do agravo interno no que tange a alegações dissociadas dos termos da decisão agravada.
+5. A adequada fundamentação da decisão agravada afasta a alegação de ofensa aos arts. 11 e 489 do NCPC.
+6. O acórdão vergastado assentou que não houve excesso de execução, haja vista que os cálculos foram efetivados nos termos do título executivo. Alterar as conclusões do acórdão impugnado exigiria incursão fático-probatória, em afronta à Súmula nº 7 do STJ.
+7. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+8. Agravo interno não provido.
+(AgInt no AREsp n. 1.825.424/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 25/10/2021, DJe de 28/10/2021.)
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. AÇÃO INDENIZATÓRIA. EXCESSO DE EXECUÇÃO. REVISÃO DE CÁLCULOS. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULA 7 DO STJ. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. As questões referentes aos arts. 85, §9º e 478 do Código de Processo Civil e 884 do Código Civil, não foram objeto de debate no acórdão impugnado, não obstante a oposição dos embargos de declaração na origem. Para que se configure o prequestionamento, é necessário que o Tribunal a quo se pronuncie especificamente sobre a matéria articulada pelo recorrente, emitindo juízo de valor em relação aos dispositivos legais indicados e examinando a sua aplicação ou não ao caso concreto Desatendido o requisito do prequestionamento, incide, no caso, a Súmula 211/STJ.
+2. As conclusões do acórdão recorrido no tocante à manutenção da decisão que rejeitou a impugnação ao cálculo apresentado, em observância ao titulo executivo judicial, estão amparadas no exame de elementos fático - probatórios dos autos, e sua revisão é vedada em sede de recurso especial, em razão do óbice da Súmula 7 do STJ.
+3. Agravo interno não provido.
+(AgInt no AgInt no AREsp n. 1.859.762/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 25/10/2021, DJe de 28/10/2021.)
+Ante o exposto, NEGO PROVIMENTO ao recurso.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
