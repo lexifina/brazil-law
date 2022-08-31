@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que negou seguimento a recurso especial manejado em face de acórdão assim ementado:
+EMENTA: APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA C/CRESSARCIMENTO E REPETIÇÃO DE INDÉBITO. TARIFA DE AVALIAÇÃO DE BEM E TARIFA DE CADASTRO, COBRANÇA LEGAL. MATÉRIAS COM PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA EM RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA Nº 1.251.331/RS E 1.578.553 (TEMAS 620 E 972).SEGURO PRESTAMISTA. CONTRATAÇÃO. AUSÊNCIA DE ILEGALIDADE. LIVRE PACTUAÇÃO. JUROS PROPORCIONAIS SOBRE TARIFAS DECLARADAS INDEVIDAS. LEGALIDADE DA COBRANÇA. AUSÊNCIA DE VALORES A SEREM DEVOLVIDOS.MANUTENÇÃO DA SENTENÇA. DESPROVIMENTO DO APELO.
+Opostos embargos de declaração, esses foram rejeitados.
+Nas razões do especial, o recorrente aponta a existência de violação doart. 39 do Código de Defesa do Consumidor, assim como divergência jurisprudencial. Argumenta que houve negativa de prestação jurisdicional.
+Alega que "O entendimento do E. Tribunal a quo diverge do entendimento do Tribunal de Justiça de São Paulo e deste próprio STJ, firmado no REsp. de nº 1639259/SP, submetido à sistemática dos Recursos Repetitivos, através do qual se estabeleceu que a cobrança de seguros, por parte de instituições financeiras, como é o caso dos presentes autos, configura-se em prática abusiva, ensejando a devolução dos valores cobrados" (fl. 392).
+Sustenta que, "Com efeito, a cobrança da referida tarifa, empreendida pelo RECORRIDO, é absolutamente abusiva, tendo em vista que foram objetos de venda casada; (..). Com efeito, à época da celebração do mencionado contrato, o RECORRENTE não solicitou a prestação de qualquer serviço securitário, concluindo-se que, em verdade, o RECORRIDO impingiu os mencionados seguros sem prévia solicitação daquele" (fl. 394).
+Assim delimitada a controvérsia, passo a decidir.
+Da leitura dos autos, observo que, no acórdão recorrido, constou o seguinte (fls. 316-318e-STJ):
+Antes de adentrar na questão referente a cobrança de seguro prestamista, é de bom alvitre esclarecer que o seguro prestamista objetiva o pagamento de prestações ou a quitação do saldo devedor de bens ou planos de financiamento adquiridos pelo segurado, em caso de morte, invalidez permanente, invalidez temporária e desemprego. Este seguro configura-se como uma proteção financeira para empresas que vendem a crédito, bem como ao segurado que fica livre da responsabilidade em caso de sinistro.
+Dito isso, pela prova carreada aos autos, verifica-se que o apelante firmou contrato de mútuo com o banco apelado, havendo livre opção do financiado quanto à contratação do referido seguro, conforme expressa disposição contratual, vez que possibilitou a opção de contratá-lo ou não, esclarecendo o valor, qual seja, R$ 700,00 (setecentos reais), optando o autor pela sua contratação.
+Nesse ponto vejamos o que restou assentado na sentença:
+"A saber, nos contratos bancários em geral, o consumidor não pode ser compelido a contratar seguro com a instituição financeira ou com seguradora por ela indicada.
+Nesse sentido, extrai-se que a validade da cobrança das tarifas administrativas está sujeita à sua prévia autorização por normativa bancária, e à demonstração da efetiva contraprestação do serviço pela instituição financeira.
+In casu, o seguro de proteção financeira não se encontra eivado de abusividade, e deve ser mantido. O seguro prestamista não foi inserido no contrato sem a devida anuência e liberdade contratual da parte requerente, eis que pactuado em instrumento aditivo, com a devida informação acerca dos produtos."
+(..).
+Desta forma, verificando a inequívoca contratação por vontade do próprio apelante do seguro prestamista, não há nenhum ilícito a ser imputado ao banco apelado.
+Nesse contexto, verifico que, no julgamento do REsp n. 1.639.320/SP, da Relatoria do Ministro Paulo de Tarso Sanseverino, julgado em 12/12/2018, DJe 17/12/2018, a Segunda Seção firmou o entendimento de que, nos contratos bancários em geral, o consumidor não pode ser compelido a contratar seguro com a instituição financeira ou com seguradora por ela indicada. Nesse contexto, veja-se o julgado:
+RECURSO ESPECIAL REPETITIVO. TEMA 972/STJ. DIREITO BANCÁRIO.DESPESA DE PRÉ-GRAVAME. VALIDADE NOS CONTRATOS CELEBRADOS ATÉ 25/02/2011. SEGURO DE PROTEÇÃO FINANCEIRA. VENDA CASADA.RESTRIÇÃO À ESCOLHA DA SEGURADORA. ANALOGIA COM O ENTENDIMENTO DA SÚMULA 473/STJ. DESCARACTERIZAÇÃO DA MORA.NÃO OCORRÊNCIA. ENCARGOS ACESSÓRIOS.
+1. DELIMITAÇÃO DA CONTROVÉRSIA: Contratos bancários celebrados a partir de 30/04/2008, com instituições financeiras ou equiparadas, seja diretamente, seja por intermédio de correspondente bancário, no âmbito das relações de consumo.
+2. TESES FIXADAS PARA OS FINS DO ART. 1.040 DO CPC/2015: 2.1 - Abusividade da cláusula que prevê o ressarcimento pelo consumidor da despesa com o registro do pré-gravame, em contratos celebrados a partir de 25/02/2011, data de entrada em vigor da Res.-CMN 3.954/2011, sendo válida a cláusula pactuada no período anterior a essa resolução, ressalvado o controle da onerosidade excessiva .
+2.2 - Nos contratos bancários em geral, o consumidor não pode ser compelido a contratar seguro com a instituição financeira ou com seguradora por ela indicada.
+2.3 - A abusividade de encargos acessórios do contrato não descaracteriza a mora.
+3. CASO CONCRETO.
+3.1. Aplicação da tese 2.3 ao caso concreto, mantendo-se a procedência da ação de reintegração de posse do bem arrendado.
+4. RECURSO ESPECIAL DESPROVIDO.
+(REsp 1639320/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, SEGUNDA SEÇÃO, julgado em 12/12/2018, DJe 17/12/2018.)
+No caso, o Colegiado local deixou consignado que "Desta forma, verificando a inequívoca contratação por vontade do próprio apelante do seguro prestamista, não há nenhum ilícito a ser imputado ao banco apelado" (fl. 318)
+Nesse sentido, verifico que afastar esse entendimento, no presente caso, demandaria nova investigação acerca das cláusulas contratuais pactuadas entre as partes e outro exame dos fatos e provas contidos no processo, de modo que o recurso especial esbarra nas Súmulas 5 e 7 do STJ.
+Em face do exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do Código de Processo Civil de 2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do mesmo artigo, considerando-se suspensas as exigibilidades em caso de concessão de assistência judiciária gratuita.
+Intimem-se.
