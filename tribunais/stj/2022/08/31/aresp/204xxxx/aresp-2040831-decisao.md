@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo de PATRÍCIA BUZOLIN MOZAQUATROem face de decisão proferida noTRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO - TJ que inadmitiu seu recurso especial interposto com fundamento no art. 105, III, alíneas "a" e "c", da Constituição Federal - CF, contra acórdão proferido no julgamento de apelação criminal n.0039832-44.2012.8.26.0576.
+Consta dos autos que aagravante foi condenadapela prática do delito tipificado no art. 1º, I, da Lei n. 8.137/1990 (supressão ou redução de tributo), c.c. os arts. 29 e 71 do Código Penal, à pena de 6 anos e 8 meses de reclusão, em regime inicial fechado, e 33dias-multa. A pena privativa de liberdade foi substituída por restritivas de direito (fls. 1237/1268).
+Recurso de apelação interposto pela Defesafoi parcialmente provido para reduzir as penas para 4 anos, 5 meses e 10 dias de reclusão, em regime inicial semiaberto, e pagamento de 21 dias-multa (acórdão de fls. 1515/1532).
+Embargos de declaração opostos pelaDefesaforam desacolhidos, "posto inexistir omissão, contradição ou obscuridade, na fundamentação ou na parte dispositiva do julgado" (acórdão de fls. 1587/1599).
+Em sede de recurso especial (fls. 1603/1644), a Defesa apontou violação aos arts. 383, 384 e 619 do Código de Processo Penal - CPC, sustentando ofensa ao princípio da correlação entre a denúncia e a sentença e nulidade do acórdão por não apreciação da referida ofensa.
+Em seguida, a Defesa apontou litispendência com o processo n. 0001707-32.2006.403.61242, da 1ª Vara Federal de Jales/SP, se "for eventualmente reconhecido que COFERFRIGO e FRIVERDE são, em essência, uma única empresa" (fl. 1625), e com o processo n.0011585-53.2012.8.13.0111, da Comarca de Campina Verde/MG.
+Também apontou afronta ao art. 386, V, do Código de Processo Penal, por falta de prova da autoria, e ao art. 12, I, da Lei n. 8.137/1990, porque o acórdão teria aplicado de forma equivocada a referida causa de aumento de pena.
+Requer o provimento do recurso.
+Contrarrazões doMINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO- MP(fls. 1975/1987).
+O recurso especial foi inadmitido no TJ em razão de: a) incidência da Súmula n. 284/STF; b) deficiência de cotejo analítico; c) óbice da Súmula n. 7/STJ; e d) incidência da Súmula n. 518/STJ (fls. 2082/2083).
+Agravo em recurso especial às fls. 2096/2023.
+Contraminuta do MP (fls. 2231/2239).
+Os autos vieram a esta Corte, sendo protocolados e distribuídos. Aberta vista ao MINISTÉRIO PÚBLICO FEDERAL - MPF, este opinou pelo não conhecimento do agravo (fls. 2283/2285).
+É o relatório.
+Decido.
+Observa-se que não estão presentes todos os pressupostos de admissibilidade do agravo em recurso especial. Isso porque a Defesa não impugnou todos os óbices levantados na decisão agravada.
+A decisão proferida pelo TJSPnegou trânsito ao recurso especial em razão daincidência da Súmula n. 284/STF; dadeficiência de cotejo analítico; doóbice da Súmula n. 7/STJ; e daincidência da Súmula n. 518/STJ (fls. 2082/2083).
+O agravo em recurso especial não impugnou, sequer genericamente, a incidência da Súmula n. 518/STJ na hipótese.
+Dessa forma, faz-se necessária a aplicação dos arts. 932, inc. III e 1.021, § 1º, do Código de Processo Civil de 2015 - CPC e da Súmula n. 182 do STJ, que consideram ser inviável o agravo que deixa de atacar especificamente todos os fundamentos da decisão agravada. Nesse sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS DA DECISÃO QUE NÃO ADMITIU O APELO NOBRE. NÃO IMPUGNAÇÃO. SÚMULA 182/STJ. INCIDÊNCIA. AGRAVO NÃO PROVIDO.
+1. A ausência de impugnação específica aos fundamentos da decisão que não admite o recurso especial impede o conhecimento do agravo, nos termos do que dispõe a Súmula 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+2. No caso, o agravante deixou de refutar o fundamento segundo o qual, o acórdão recorrido foi proferido em consonância com jurisprudência do STJ, no sentido de que a tipificação dos crimes de sonegação fiscal prescinde da demonstração do dolo específico, o que atrai o impeditivo da Súmula 182 deste Superior Tribunal, segundo a qual "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+3. Acrescente-se que, de acordo com o entendimento pacificado nesta Corte Superior, quando o inconformismo excepcional não é admitido pela instância ordinária, sob o fundamento de que a orientação do Tribunal se firmou no mesmo sentido da jurisprudência do STJ, tal como ocorrido na espécie, a impugnação deve indicar precedentes contemporâneos ou supervenientes, em sentido contrário aos mencionados na decisão combatida, o que não se verifica no caso em apreço.
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 1716359/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 10/05/2021).
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PENAL. ARTS. 306 E 307 DA LEI N. 9.503/1997. MINUTA DE AGRAVO QUE NÃO INFIRMA ESPECIFICAMENTE OS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA. SÚMULA N. 7 DO STJ. RAZÕES RECURSAIS. IMPUGNAÇÃO GENÉRICA. AGRAVO REGIMENTAL DESPROVIDO. EXECUÇÃO PROVISÓRIA DA PENA. IMPOSSIBILIDADE. NOVO ENTENDIMENTO DO SUPREMO TRIBUNAL FEDERAL. ADC"S N. 43, 44 E 54. HABEAS CORPUS CONCEDIDO, DE OFÍCIO.
+1. Nas razões do agravo em recurso especial, não foram rebatidos, especificamente, os fundamentos da decisão agravada relativos à incidência das Súmulas 284 do Supremo Tribunal Federal e 7 do Superior Tribunal de Justiça, atraindo, à espécie, a incidência da Súmula n. 182 do Superior Tribunal de Justiça.
+2. No tocante à incidência da Súmula n. 7/STJ, o Agravante se limitou a sustentar genericamente que a matéria seria apenas jurídica, sem explicitar, à luz da tese recursal trazida no recurso especial, de que maneira a análise não dependeria do reexame de provas. Assim, não houve a observância da dialeticidade recursal, motivo pelo qual careceu o referido de pressuposto de admissibilidade, qual seja, a impugnação efetiva e concreta aos fundamentos utilizados para inadmitir o recurso especial, no caso, a incidência da Súmula n. 7 do Superior Tribunal de Justiça. ..
+4. Agravo regimental desprovido. Habeas corpus concedido, de ofício, para revogar a determinação de execução provisória da pena.
+(AgRg nos EDcl no AREsp 1619957/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, DJe 4/8/2020).
+Ante o exposto, com fundamento no art. 932, inc. III, do CPC, e no art. 253, I, do Regimento Interno do STJ, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
