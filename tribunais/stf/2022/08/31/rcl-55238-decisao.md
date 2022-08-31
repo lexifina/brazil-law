@@ -1,0 +1,63 @@
+DECISÃO:
+
+    Cuida-se de reclamação constitucional, com pedido de tutela de urgência, ajuizada por Bandeirantes Deicimar Logística Integrada S.A. contra decisão do Juiz do Trabalho da 6ª Vara do Trabalho de Santos, nos autos do Processo nº 1000205-21.2021.5.02.0446, mediante a qual teria desrespeitado o entendimento firmado na ADPF nº 324, a tese do Tema nº 725 da repercussão geral e a eficácia da Súmula Vinculante nº 10, afrontando a autoridade do Supremo Tribunal Federal.
+
+    A parte reclamante aduz que é demandado no Processo nº 1000205-21.2021.5.02.0446, em litisconsórcio passivo com a COOPERATIVA DE TRABALHO DOS MOTORISTAS AUTÔNOMOS DE SANTOS/SP (COOPEMARS), por Wilson Braga Rodrigues, o qual pretende o reconhecimento de vínculo de emprego e o pagamento de verbas trabalhistas referente ao serviço prestado no período de 2º/11/2001 a 22/3/2019.
+
+    Sustenta que,
+
+    “conforme o Tema de Repercussão Geral 725 de repercussão geral, ADPF 324 e Súmula Vinculante 10 do Colendo Supremo Tribunal Federal, é licita a terceirização de toda e qualquer atividade (essencial, meio ou fim), ou qualquer outra forma de divisão do trabalho entre pessoas jurídicas distintas, não se configurando relação de emprego entre a Contratante e o Cooperado”.
+
+    Bandeirantes Deicimar Logística Integrada S.A. defende que, “na terceirização, conforme o modelo de produção adotado pode estar configurada quaisquer uma das dimensões da subordinação (clássica, objetiva ou estrutural) entre o tomador dos serviços (contratante) e o empregado da contratada”.
+
+    Alude ao julgado nas Rcl nºs 39.351 AgR e 47.843 AgR (nas quais debateu-se sobre o instituo da “pejotização”) e na Rcl nº 54.838 (na qual se teria decidido matéria análoga à da presente reclamação) como reforço de sua tese de que “não há falar em irregularidade na contratação de pessoa jurídica formada por profissionais para prestar serviços terceirizados na atividade-fim da contratante”.
+
+     Requer que seja deferido o pedido liminar para suspender os efeitos da decisão reclamada. No mérito, pede que seja julgada procedente a reclamação,
+
+    “cassando-se, definitivamente, a decisão exorbitante de seu julgado, pois não subsiste eventual tese no sentido de que poderia estar configurada eventual subordinação estrutural (inserção do trabalhador na dinâmica do tomador de seus serviços), ou objetiva (integração do trabalhador nos fins e objetivos do empreendimento do tomador de serviços), tampouco subordinação direta, para o fim de descaracterizar a licitude da terceirização de quaisquer das atividades empresariais, meio ou fim.”
+
+    É o relatório. Decido.
+
+    Nos julgamentos da ADPF nº 324/DF e do RE nº 958.252/MG (vinculado ao Tema 725 da repercussão geral), realizados conjuntamente na sessão plenária de 30/8/18, o STF concluiu, após amplo debate, pela compatibilidade dos valores do trabalho e da livre iniciativa na terceirização do trabalho, conclusão explicitada pelo Ministro Luiz Fux na ementa do acórdão exarado no referido recurso extraordinário. Vide:
+
+    “[...] 4. Os valores do trabalho e da livre iniciativa, insculpidos na Constituição (art. 1º, IV), são intrinsecamente conectados, em uma relação dialógica que impede seja rotulada determinada providência como maximizadora de apenas um desses princípios, haja vista ser essencial para o progresso dos trabalhadores brasileiros a liberdade de organização produtiva dos cidadãos, entendida esta como balizamento do poder regulatório para evitar intervenções na dinâmica da economia incompatíveis com os postulados da proporcionalidade e da razoabilidade. [...] 9. A terceirização não fragiliza a mobilização sindical dos trabalhadores, porquanto o art. 8º, II, da Constituição contempla a existência de apenas uma organização sindical para cada categoria profissional ou econômica, mercê de a dispersão territorial também ocorrer quando uma mesma sociedade empresarial divide a sua operação por diversas localidades distintas. [...] 11. A cisão de atividades entre pessoas jurídicas distintas não revela qualquer intuito fraudulento, consubstanciando estratégia, garantida pelos artigos 1º, IV, e 170 da Constituição brasileira, de configuração das empresas para fazer frente às exigências dos consumidores, justamente porque elas assumem o risco da atividade, representando a perda de eficiência uma ameaça à sua sobrevivência e ao emprego dos trabalhadores. [...] 16. As leis trabalhistas devem ser observadas por cada uma das empresas envolvidas na cadeia de valor com relação aos empregados que contratarem, tutelando-se, nos termos constitucionalmente assegurados, o interesse dos trabalhadores. [...] 21. O escrutínio rigoroso das premissas empíricas assumidas pela Corte de origem revela insubsistentes as afirmações de fraude e precarização, não sendo suficiente para embasar a medida restritiva o recurso meramente retórico a interpretações de cláusulas constitucionais genéricas, motivo pelo qual deve ser afastada a proibição, em homenagem às liberdades fundamentais consagradas na Carta Magna (art. 1º, IV, art. 5º, II, e art. 170). 22. Em conclusão, a prática da terceirização já era válida no direito brasileiro mesmo no período anterior à edição das Leis nº. 13.429/2017 e 13.467/2017, independentemente dos setores em que adotada ou da natureza das atividades contratadas com terceira pessoa, reputando-se inconstitucional a Súmula nº. 331 do TST, por violação aos princípios da livre iniciativa (artigos 1º, IV, e 170 da CRFB) e da liberdade contratual (art. 5º, II, da CRFB) [...]” (Plenário, DJe de 13/9/19).
+
+    Essa conclusão foi veiculada, também, na ementa do acórdão formado na ADPF nº 324/DF, de relatoria do Ministro Roberto Barroso:
+
+    “[...] O direito do trabalho e o sistema sindical precisam se adequar às transformações no mercado de trabalho e na sociedade. 2. A terceirização das atividades-meio ou das atividades-fim de uma empresa tem amparo nos princípios constitucionais da livre iniciativa e da livre concorrência, que asseguram aos agentes econômicos a liberdade de formular estratégias negociais indutoras de maior eficiência econômica e competitividade. 3. A terceirização não enseja, por si só, precarização do trabalho, violação da dignidade do trabalhador ou desrespeito a direitos previdenciários. É o exercício abusivo da sua contratação que pode produzir tais violações. 4. Para evitar tal exercício abusivo, os princípios que amparam a constitucionalidade da terceirização devem ser compatibilizados com as normas constitucionais de tutela do trabalhador, cabendo à contratante: i) verificar a idoneidade e a capacidade econômica da terceirizada; e ii) responder subsidiariamente pelo descumprimento das normas trabalhistas, bem como por obrigações previdenciárias (art. 31 da Lei 8.212/1993) [...]” (Plenário, DJe de 6/9/19).
+
+    Esse entendimento foi mantido pelo Plenário do STF no julgamento do paradigma da controvérsia do Tema 739 da RG (ARE nº 791.932/DF, Rel. Min. Alexandre de Moraes, DJe de 6/3/19).
+
+    Nesses precedentes, rechaçaram-se os argumentos concernentes à precarização da relação de trabalho ou à fragilização da representação sindical como decorrentes do fenômeno da terceirização do trabalho, destacando-se: i) a permanência da obrigatoriedade de a empresa prestadora de serviços respeitar os direitos mínimos consagrados aos trabalhadores; ii) a existência da responsabilidade subsidiária da tomadora de serviços na hipótese de descumprimento desses direitos pela empresa contratada e iii) a necessidade de o direito sindical e o direito do trabalho de se adequarem à transformação do sistema produtivo ao longo da história.
+
+    Também não desconheço precedentes da Primeira Turma do STF que, com fundamento na ADPF nº 324 e no Tema nº 725, julgou-se procedente reclamação constitucional para afastar decisão da Justiça do Trabalho que declarara a ilicitude de relação jurídica conhecida como “pejotização” (v.g. Rcl nº 47843 AgR, DJe de 7/4/22), agregando conteúdo aos precedentes de observância obrigatória do STF.
+
+    Entendo, entretanto, que o debate instaurado no Processo nº 1000205-21.2021.5.02.0446 - decidido a partir de fatos e provas dos autos, no sentido da fraude na constituição da cooperativa e da existência de subordinação direta do trabalhador diretamente com a empresa tomadora de serviços - distingue-se substancialmente
+
+–     tanto da interpretação que orienta a decisão na ADPF nº 324/DF e no RE nº 958.252/MG (vinculado ao Tema 725 da repercussão geral), especialmente à a permanência da obrigatoriedade de a empresa prestadora de serviços respeitar os direitos mínimos consagrados aos trabalhadores;
+
+–     como das razões de decidir que justificaram co caráter integrativo conferido à reclamação constitucional em referência ao fenômeno da “pejotização”, em especial a presença de ambiente legítimo de escolha do trabalhador identificado como pessoa jurídica na constituição do vínculo com o tomador do serviço.
+
+    Reforço esse entendimento na referência feita pela própria reclamante, na peça vestibular, ao julgado na ADC nº 48, na qual o STF afirmou a constitucionalidade da Lei nº 11.442/2007, em especial a natureza comercial da contratação de autônomos para exercício da atividade de transporte de cargas e a competência da Justiça comum para análise das controvérsias dela decorrentes; do que não se trata na presente reclamação.
+
+    A presente reclamação constitucional tem como objeto situação jurídica formal e materialmente diversa daquela que se extrai do pacto comercial cuja previsão normativa foi julgada constitucional pelo STF na ADC nº 48.
+
+    A desigualdade entre o debate instaurado no Processo nº 1000205-21.2021.5.02.0446 com o conteúdo das decisões do STF de observância obrigatória (ADPF nº 324, ADC nº 48 e Tema nº 725 RG) não permite a análise de conformidade própria à via reclamatória, não se instaurando, validamente, a jurisdição originária dessa Suprema Corte. Nesse sentido:
+
+    “Os atos questionados em qualquer reclamação - nos casos em que se sustenta desrespeito à autoridade de decisão do Supremo Tribunal Federal - hão de se ajustar, com exatidão e pertinência, aos julgamentos desta Suprema Corte invocados como paradigmas de confronto, em ordem a permitir, pela análise comparativa, a verificação da conformidade, ou não, da deliberação estatal impugnada em relação ao parâmetro de controle emanado deste Tribunal” (Rcl nº 6.534/MG-AgR, Tribunal Pleno, Relator o Ministro Celso de Mello, DJe de 17/10/08).
+
+    “AGRAVO REGIMENTAL NA RECLAMAÇÃO. CONSTITUCIONAL. PROCESSO DE CRIME DE RESPONSABILIDADE DE PREFEITO MUNICIPAL. ALEGAÇÃO DE AFRONTA AO ENUNCIADO DA SÚMULA VINCULANTE 46. INVIABILIDADE DE UTILIZAÇÃO DA RECLAMAÇÃO COMO SUCEDÂNEO RECURSAL. AUSÊNCIA DE ADERÊNCIA ENTRE PARADIGMA E ATO RECLAMADO. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. 1. A reclamação, por expressa determinação constitucional, destina-se a preservar a competência desta Suprema Corte e garantir a autoridade de suas decisões, ex vi do artigo 102, I, l, da CF, além de salvaguardar o estrito cumprimento dos enunciados da Súmula Vinculante, nos termos do artigo 103-A, § 3º, da Constituição, incluído pela EC 45/2004. Neste particular, a jurisprudência desta Suprema Corte estabeleceu diversas condicionantes para a utilização da via reclamatória, de sorte a evitar o uso promíscuo do referido instrumento processual. 2. A reclamação é impassível de ser manejada como sucedâneo de recurso ou ação rescisória, bem como é inadmissível a sua utilização em substituição a outras ações cabíveis. 3. A aderência estrita entre o objeto do ato reclamado e o conteúdo da decisão do STF dotada de efeito vinculante e eficácia erga omnes apontada pelo reclamante é requisito para a admissibilidade da reclamação constitucional. 4. Agravo regimental a que se nega provimento” (Rcl nº 37.075 AgR, Rel. Min. Edson Fachin, Segunda Turma, DJe de 3/6/20).
+
+    No tocante à alegada violação à Súmula Vinculante nº 10, registro que, além de a parte reclamante não indicar atos normativos cuja aplicação tenha sido afastada pela autoridade reclamada por fundamento constitucional, a decisão ora questionada foi proferida por juízo de primeira instância, sendo, portanto, absolutamente inadequado o paradigma, o qual se refere á observância da cláusula de reserva de Plenário do art. 97 da CF/88.
+
+    Ante o exposto, com fundamento no art. 21, § 1º, do RI/STF, nego seguimento à reclamação. Prejudicada a análise do pedido liminar.
+
+    Publique-se.
+
+    Brasília, 31 de agosto de 2022.
+
+Ministro DIAS TOFFOLI
+
+Relator
+
+Documento assinado digitalmente
