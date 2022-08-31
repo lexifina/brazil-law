@@ -1,0 +1,37 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto por GILMAR BARRETO contra acórdão prolatado, por unanimidade, pela 9ª Turma do Tribunal Regional Federal da 3ª Região no julgamento de apelação, assim ementado (fls. 211/213e):
+PREVIDENCIÁRIO. CONCESSÃO DE APOSENTADORIA.
+ENQUADRAMENTO DE ATIVIDADE ESPECIAL. RUÍDO. CONSECTÁRIOS. RECURSO ADESIVO IMPROVIDO. APELAÇÃO AUTÁRQUICA PARCIALMENTE PROVIDA. REMESSA OFICIAL PARCIALMENTE PROVIDA.
+- Discute-se o enquadramento de tempo especial e a concessão de aposentadoria especial.
+- Até a entrada em vigor do Decreto n. 2.172, de 5 de março de 1997, regulamentador da Lei n. 9.032/95, de 28 de abril de 1995, não se exigia (exceto em algumas hipóteses) a apresentação de laudo técnico para a comprovação do tempo de serviço especial, pois bastava o formulário preenchido pelo empregador (SB-40 ou DSS-8030), para atestar a existência das condições prejudiciais. Contudo, para o agente agressivo o ruído, sempre houve necessidade da apresentação de laudo técnico.
+- A exposição superior a 80 decibéis era considerada atividade insalubre até a edição do Decreto n. 2.172/97, que majorou o nível para 90 decibéis. Com a edição do Decreto n. 4.882, de 18/11/2003, o limite mínimo de ruído para reconhecimento da atividade especial foi reduzido para 85 decibéis, sem possibilidade de retroação ao regulamento de 1997. Nesse sentido: Recurso Especial n. 1.398.260, sob o regime do artigo 543-C do CPC, do C. STJ.
+- Com a edição da Medida Provisória n. 1.729/98 (convertida na Lei n. 9.732/98), foi inserida na legislação previdenciária a exigência de informação, no laudo técnico de condições ambientais do trabalho, quanto à utilização do Equipamento de Proteção Individual (EPI).
+- Desde então, com base na informação sobre a eficácia do EPI, a autarquia deixou de promover o enquadramento especial das atividades desenvolvidas posteriormente a 3/12/1998.
+- Sobre a questão, entretanto, o C. Supremo Tribunal Federal, ao apreciar o ARE n. 664.335, em regime de repercussão geral, decidiu que: (i) se o EPI for realmente capaz de neutralizar a nocividade, não haverá respaldo ao enquadramento especial; (ii) havendo, no caso concreto, divergência ou dúvida sobre a real eficácia do EPI para descaracterizar completamente a nocividade, deve-se optar pelo reconhecimento da especialidade; (iii) na hipótese de exposição do trabalhador a ruído acima dos limites de tolerância, a utilização do EPI não afasta a nocividade do agente.
+- Sublinhe-se o fato de que o campo "EPI Eficaz (S/N)" constante no Perfil Profissiográfico Previdenciário (PPP) é preenchido pelo empregador considerando-se, tão somente, se houve ou não atenuação dos fatores de risco, consoante determinam as respectivas instruções de preenchimento previstas nas normas regulamentares. Vale dizer: essa informação não se refere à real eficácia do EPI para descaracterizar a nocividade do agente.
+- Quanto ao intervalo de janeiro de 1981 a fevereiro de 2012; consta laudo pericial, o qual anota a exposição, habitual e permanente, a ruído superior aos limites de tolerância estabelecidos na norma em comento.
+- Viável a concessão do benefício de aposentadoria especial, por se fazer presente o requisito temporal insculpido no artigo 57 da Lei n. 8.213/91.
+- Em razão da comprovação do trabalho especial somente ser possível nestes autos, mormente em razão da produção de laudo pericial, o termo inicial do benefício será a data da citação, momento em que a autarquia teve ciência da pretensão e a ela pôde resistir.
+(..)
+- Recurso adesivo improvido.
+- Remessa oficial parcialmente provida.
+- Apelação do INSS parcialmente provida. (Destaque meu).
+Opostos embargos de declaração, foram rejeitados (fls. 232/236e).
+Com amparo no art. 105, III, a e c, da Constituição da República, além de divergência jurisprudencial, aponta-se ofensa aos artigos 54, 49, II e 57, § 1º da Lei n. 8.213/1991, alegando-se, em síntese, que para se fixar a DIB da aposentadoria especial não interessa saber quando o litígio foi deduzido perante o Poder Judiciário ou quando foi juntado aos autos o laudo pericial, mas sim, quando a legítima pretensão autoral fora exteriorizada perante a autarquia ré na data do requerimento administrativo.
+Requer o restabelecimento da DIB fixada na sentença na data do requerimento administrativo em 08/03/2012.
+Sem contrarrazões, o recurso foi admitido (fls.277/279e).
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Nos termos do art. 932, V, do Código de Processo Civil de 2015, combinado com os arts. 34, XVIII, c, e 255, III, do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a dar provimento a recurso se o acórdão recorrido for contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ:
+O Relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.
+No caso, verifico que o acórdão recorrido adotou entendimento contrário ao pacificado nesta Corte, quanto ao reconhecimento do direito à aposentadoria especial no momento do requerimento administrativo, quando preenchidos os requisitos para a concessão do benefício, sendo irrelevante que a comprovação do labor em condições especiais tenha se dado apenas durante a instrução judicial.
+Confira-se:
+PREVIDENCIÁRIO. INCIDENTE DE UNIFORMIZAÇÃO DE JURISPRUDÊNCIA. APOSENTADORIA ESPECIAL. TERMO INICIAL: DATA DO REQUERIMENTO ADMINISTRATIVO, QUANDO JÁ PREENCHIDOS OS REQUISITOS PARA A CONCESSÃO DO BENEFÍCIO. INCIDENTE DE UNIFORMIZAÇÃO DE JURISPRUDÊNCIA PROVIDO.
+1. O art. 57, § 2o., da Lei 8.213/91 confere à aposentadoria especial o mesmo tratamento dado para a fixação do termo inicial da aposentadoria por idade, qual seja, a data de entrada do requerimento administrativo para todos os segurados, exceto o empregado.
+2. A comprovação extemporânea da situação jurídica consolidada em momento anterior não tem o condão de afastar o direito adquirido do segurado, impondo-se o reconhecimento do direito ao benefício previdenciário no momento do requerimento administrativo, quando preenchidos os requisitos para a concessão da aposentadoria.
+3. In casu, merece reparos o acórdão recorrido que, a despeito de reconhecer que o segurado já havia implementado os requisitos para a concessão de aposentadoria especial na data do requerimento administrativo, determinou a data inicial do benefício em momento posterior, quando foram apresentados em juízo os documentos comprobatórios do tempo laborado em condições especiais.
+4. Incidente de uniformização provido para fazer prevalecer a orientação ora firmada.
+(Pet 9.582/RS, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA SEÇÃO, julgado em 26/08/2015, DJe 16/09/2015).
+Posto isso, com fundamento nos arts. 932, V, do Código de Processo Civil de 2015 e 34, XVIII, c, e 255, III, ambos do RISTJ DOU PROVIMENTO ao Recurso Especial para restabelecer o termo inicial do benefício fixado na sentença.
+Publique-se e intimem-se.
