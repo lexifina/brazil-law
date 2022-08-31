@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo interposto por LOURDES BAREA RIBEIRO contra decisão que inadmitiu recurso especial. O apelo extremo, com fundamento no artigo 105, III, "a", da Constituição Federal, foi interposto contra acórdão assim ementado:
+"AGRAVO DE INSTRUMENTO E EMBARGOS DE DECLARAÇÃO. CUMPRIMENTO DE SENTENÇA INTENTADO POR OPERADORA DEPLANO DE SAÚDE, VISANDO REAVER OS VALORES DESPENDIDOSEM RAZÃO DE TUTELA DE URGÊNCIA DEFERIDA EM CARÁTERLIMINAR, REVOGADA POR ULTERIOR DECISÃO DESFAVORÁVEL. INTERLOCUTÓRIO QUE REJEITOU A IMPUGNAÇÃO OFERTADA PELADEVEDORA. AGRAVO DE INSTRUMENTO. POSSIBILIDADE DE PERSECUÇÃO DOSALUDIDOS VALORES PREVISTA NO ART. 302 DO DIGESTOPROCESSUAL. PRETENSÃO HIGIDA. DECISUM MANTIDO. ACLARATÓRIOS DA EXECUTADA DESAFIANDO A DECISÃOUNIPESSOAL QUE INDEFERIU O EFEITO SUSPENSIVO. NÃOCONHECIMENTO. ANÁLISE PREJUDICADA ANTE O JULGAMENTODEFINITIVO DO MÉRITO. AGRAVO DE INSTRUMENTO CONHECIDO E DESPROVIDO. EMBARGOS DE DECLARAÇÃO NÃO CONHECIDOS" (fl. 97, e-STJ).
+No recurso especial, a recorrente alega quehouveviolação doart. 302 do Código de Processo Civil de 2015, "(..)uma vez que no caso dos autos não houve a fase de liquidação de sentença" (fl. 124, e-STJ).
+Inadmitido na origem, apresentou-se o presente agravo em recurso especial.
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+O recurso não merece prosperar.
+O tribunal local, ao analisar a controvérsia, consignou:
+"(..)bem se sabe que o advento da sentença substitui, em todos os seus termos, a decisão provisória outrora exarada pela instância a quo, ocasionando a extinção do provimento jurisdicional anteriormente prolatado.
+Bem por isso, é que a Lei Instrumental estabelece, em seu art. 296,que:"a tutela provisória conserva sua eficácia na pendência do processo, mas pode, a qualquer tempo, ser revogada ou modificada".
+Por consectário lógico é que, independentemente de revogação expressa, a decisão que julga improcedentes os pedidos iniciais põe termo a tutela anteriormente concedida que beneficiou a parte postulante.
+Nessa linha de intelecção, o art. 302 do Código de Processo Civil, estabelece que: (..)
+Logo, a pretensão vindicada pela credora decorre de lei, uma vez que, tendo arcado com valores decorrentes de provimento judicial liminar, lhe é permitido, pelo dispositivo alhures mencionado, buscar o seu ressarcimento"(fl. 102, e-STJ).
+De fato, não há reparo a fazer a tal entendimento, porquanto está em sintonia com a orientação jurisprudencial desta Corte.
+A saber:
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. PREVIDÊNCIA PRIVADA. AUXÍLIO-CESTA-ALIMENTAÇÃO. 1. BENEFÍCIOS PREVIDENCIÁRIOS. REVERSIBILIDADE DA MEDIDA ANTECIPATÓRIA. SÚMULA 83/STJ. 2. GRATUIDADE DE JUSTIÇA INDEFERIDA COM BASE NO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. 3. AGRAVO INTERNO DESPROVIDO.
+1. O acórdão recorrido encontra-se em harmonia com a jurisprudência desta Corte no sentido de que "os valores recebidos por força de tutela antecipada posteriormente revogada devem ser devolvidos"(AgInt nos EDcl no AREsp 1.224.853/RS, Relator Ministro Ricardo Villas Bôas Cueva, DJe 31/8/2018).
+2. A jurisprudência do STJ possui a orientação de que reverter a conclusão do Tribunal local para acolher a pretensão recursal (quanto ao preenchimento dos requisitos para a concessão da justiça gratuita) demandaria o revolvimento do acervo fático-probatório dos autos, medida defesa ante a natureza excepcional da via eleita, conforme enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+3. Agravo interno a que se nega provimento"
+(AgInt nos EDcl no AREsp n. 1.362.200/RS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 8/3/2021, DJe de 15/3/2021-grifou-se.)
+"RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. DESISTÊNCIA DA DEMANDA APÓS A CONCESSÃO DA TUTELA PROVISÓRIA. EXTINÇÃO DO FEITO, SEM RESOLUÇÃO DE MÉRITO. CUMPRIMENTO DE SENTENÇA FORMULADO PELA PARTE RÉ PLEITEANDO O RESSARCIMENTO DOS VALORES DESPENDIDOS EM RAZÃO DO DEFERIMENTO DA TUTELA PROVISÓRIA. CABIMENTO. DESNECESSIDADE DE PRONUNCIAMENTO JUDICIAL PRÉVIO NESSE SENTIDO. OBRIGAÇÃO EX LEGE. INDENIZAÇÃO QUE DEVERÁ SER LIQUIDADA NOS PRÓPRIOS AUTOS. ARTS. 302, CAPUT, INCISO III E PARÁGRAFO ÚNICO, E 309, INCISO III, DO CÓDIGO DE PROCESSO CIVIL DE 2015. REFORMA DO ACÓRDÃO RECORRIDO QUE SE IMPÕE. RECURSO PROVIDO.
+1. A questão jurídica discutida consiste em definir se é possível proceder à execução, nos próprios autos, objetivando o ressarcimento de valores despendidos a título de tutela antecipada, posteriormente revogada em virtude de sentença que extingue o processo, sem resolução de mérito, por haver a autora desistido da ação.
+2. O Código de Processo Civil de 2015, seguindo a mesma linha do CPC/1973, adotou a teoria do risco-proveito, ao estabelecer que o beneficiado com o deferimento da tutela provisória deverá arcar com os prejuízos causados à parte adversa, sempre que: i) a sentença lhe for desfavorável; ii) a parte requerente não fornecer meios para a citação do requerido no prazo de 5 (cinco) dias, caso a tutela seja deferida liminarmente; iii) ocorrer a cessação da eficácia da medida em qualquer hipótese legal; ou iv) o juiz acolher a decadência ou prescrição da pretensão do autor (CPC/2015, art. 302, caput e incisos I a IV).
+3. Em relação à forma de se buscar o ressarcimento dos prejuízos advindos com o deferimento da tutela provisória, o parágrafo único do art. 302 do CPC/2015 é claro ao estabelecer que "a indenização será liquidada nos autos em que a medida tiver sido concedida, sempre que possível", dispensando-se, assim, o ajuizamento de ação autônoma para esse fim.
+4. Com efeito, a obrigação de indenizar a parte adversa dos prejuízos advindos com o deferimento da tutela provisória posteriormente revogada é decorrência ex lege da sentença de improcedência ou de extinção do feito sem resolução de mérito, como no caso, sendo dispensável, portanto, pronunciamento judicial a esse respeito, devendo o respectivo valor ser liquidado nos próprios autos em que a medida tiver sido concedida, em obediência, inclusive, aos princípios da celeridade e economia processual.
+5. Recurso especial provido"
+(REsp n. 1.770.124/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 21/5/2019, DJe de 24/5/2019.)
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Deixo de tratar dos honorários recursais (artigo 85, § 11, do CPC/2015), haja vista não ter havido condenação em honorários sucumbenciais na origem.
+Publique-se.
+Intimem-se.
