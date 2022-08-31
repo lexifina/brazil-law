@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial fundado no art. 105, III, "a", da Constituição Federal, interposto contra v. acórdão do Eg. Tribunal de Justiça do Estado do Mato Grosso do Sul, assim ementado:
+"EMENTA - AGRAVO DE INSTRUMENTO - EXECUÇÃO EXTRAJUDICIAL - PRELIMINAR DE FALTA DE INTERESSE DE AGIR - NÃO CONHECIDA - IMPOSSIBILIDADE DE JULGAMENTO PER SALTUM - LEGITIMIDADE ATIVA "AD CAUSAM" - HERDEIROS - INVENTÁRIO FINALIZADO - SENTENÇA TRANSITADA EM JULGADO - INDIVIDUALIZAÇÃO DOS QUINHÕES - PENDÊNCIA DE EXPEDIÇÃO DE FORMAIS DE PARTILHA - CIRCUNSTÂNCIA ISOLADA QUE NÃO RETIRA A LEGITIMIDADE CONCORRENTE DOS HERDEIROS PARA SE MANIFESTAREM NOS AUTOS - LITIGÂNCIA DE MÁ-FÉ NÃO CONFIGURADA - RECURSO CONHECIDO E PROVIDO.
+I - As questões não apreciadas pelo Juízo de origem não se apresentam passíveis de conhecimento per saltum, no âmbito do agravo de instrumento, sob pena de acarretar supressão de instância.
+II - A pendência de expedição de formais de partilha nos autos de inventário do executado, por si só, não é suficiente para afastar a legitimidade ativa dos herdeiros. Não obstante a regra indicar que enquanto não houver partilha a legitimidade "ad causam" será do espólio, a existência de inventário com trânsito em julgado, e que tenha estabelecido o quinhão de cada herdeiro, define as premissas fáticas do interesse de agir, conferindo, assim, legitimidade aos herdeiros. Ademais, a herança constitui uma universalidade de bens e direitos, atribuindo aos herdeiros legitimidade ativa para ingressar em juízo em defesa do patrimônio deixado por aquele, em concorrência com o próprio espólio, já que nesta situação a indivisibilidade da herança atrai a aplicação das regras previstas para condomínio (art. 1791, do Código Civil), atribuindo a cada titular a possibilidade de exercer todos os direitos compatíveis com a indivisão.
+III- Inexistência de dolo processual no agir da parte agravante capaz de ensejar a aplicação da penalidade prevista no artigo 80 do CPC/2015 ." (e-STJ fl. 5054/5055)
+Nas razões do recurso especial, o agravante alega violação dos arts. 75, VII, e art. 618, I, do Código de Processo Civil, sustentando, em síntese, que enquanto não perfectibilizada a partilha, os recorridos, na condição de herdeiros do devedor, não tem legitimidade para para formularem pretensão em nome próprio nos autos de execução movida contra o de cujus.
+É o relatório. Decido.
+O Tribunal de origem, no que diz respeito à legitimidade dos recorridos, expressamente consignou o seguinte:
+"Vale anotar que encerrado o inventário, não se há de falar em legitimidade do espólio, pois extinta tal figura jurídica, cabendo tal condição aos herdeiros.
+(..)
+Diante disso, conclui-se que com a realização do inventário judicial ou administrativo e a formalização da partilha, divide-se entre os herdeiros os bens deixados pelo autor da herança, situação que leva ao desaparecimento da figura do espólio, uma vez que a universalidade de bens não mais existe, pois estes foram transmitidos de forma individualizada.
+In casu, o procedimento de inventário do Espólio de Alfredo Neder se encerrou já que houve a homologação da partilha e trânsito em julgado da sentença, o que leva à extinção da universalidade respectiva, voltando-se a responsabilidade aos herdeiros.
+Logo, encerrado o inventário com a homologação da partilha por sentença transitada em julgado, falece a capacidade processual do espólio, sendo esta transferida aos herdeiros, que passarão a ter capacidade para litigar em juízo. (e-STJ fl. 5064/5065) (grifei)
+O entendimento acima encontra-se de acordo com a jurisprudência desta Corte Superior:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RAZÕES QUE NÃO ENFRENTAM O FUNDAMENTO DA DECISÃO AGRAVADA.. ALEGAÇÃO DE OMISSÃO NO ACÓRDÃO ESTADUAL. AUSÊNCIA. AÇÃO RESCISÓRIA. IMPROCEDÊNCIA. COBRANÇA DE HONORÁRIOS PELOS HERDEIROS DO FALECIDO. AJUIZAMENTO CONJUNTO. ALEGAÇÃO DE NECESSIDADE DE SOBREPARTILHA. INVENTÁRIO ENCERRADO. LEGITIMIDADE VERIFICADA. PRECEDENTES. REEXAME DE PROVAS. SÚMULAS 7/STJ. TENTATIVA DE FRAUDAR A FAZENDA PÚBLICA. VIOLAÇÃO NÃO DEMONSTRADA. ENUNCIADO 284 DA SÚMULA DO STF.
+1. As razões do agravo interno não enfrentam adequadamente o fundamento da decisão agravada.
+2. Os embargos de declaração só se prestam a sanar obscuridade, omissão ou contradição porventura existentes no acórdão, não servindo à rediscussão da matéria já julgada no recurso.
+3. Realizada a partilha, extingue-se o espólio e cada herdeiro passa a responder pelo respectivo quinhão, de modo que possuem legitimidade para ajuizar, conjuntamente, ação de cobrança de honorários devidos ao falecido. Precedentes.
+4.Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula 7/STJ).
+5. Ante a deficiência na motivação, aplica-se, por analogia, o óbice da Súmula 284 do STF.
+6. Agravo interno a que se pega provimento.
+(AgInt no AREsp n. 1.844.612/MG, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 9/8/2021, DJe de 12/8/2021.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO. RECÁLCULO DA DÍVIDA. CUMPRIMENTO DE SENTENÇA. FALECIMENTO DO EXECUTADO. PEDIDO DE INTIMAÇÃO DAS HERDEIRAS DO FALECIDO PARA INTEGRAREM O POLO PASSIVO. IMPOSSIBILIDADE. PROCESSO DE INVENTÁRIO AINDA NÃO FINALIZADO. LEGITIMIDADE DO ESPÓLIO. DECISÃO MANTIDA. RECURSO DESPROVIDO.
+1. Não configura ofensa ao art. 535 do CPC/73 o fato de o col.
+Tribunal de origem, embora sem examinar individualmente cada um dos argumentos suscitados, adotar fundamentação contrária à pretensão da parte, suficiente para decidir integralmente a controvérsia.
+2. É o espólio - universalidade de bens deixados pelo de cujus - que, por expressa determinação legal (arts. 597 do CPC/73 e 1.997 do CC), responde pelas dívidas do autor da herança e tem legitimidade passiva para integrar a lide, enquanto ainda não há partilha.
+3. Mostra-se correta a conclusão do acórdão recorrido, ao indeferir o pedido de intimação das herdeiras do executado para ingressarem no polo passivo da lide, revelando-se inadequado o prosseguimento do feito em face delas.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.039.064/PR, de minha Relatoria, Quarta Turma, julgado em 27/11/2018, DJe de 4/12/2018.)
+Ademais, a modificação do entendimento lançado no v. acórdão recorrido quanto à finalização da partilha demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
