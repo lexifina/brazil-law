@@ -1,0 +1,6 @@
+DECISÃO
+CICERO THIAGO CAETANO RODRIGUES, acusadopor ameaça emâmbito doméstico,alega ser vítima de constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, que manteve a sua constrição cautelar, a qual pretende seja revogada ousubstituída por prisão domiciliar.
+Entretanto, constato que suas alegações vieram desacompanhadas de documentoessencial que permitisse o exame fidedigno da controvérsia. Segundo o acórdão impugnado, além da decisão primeva que decretou a preventiva, também foi proferida outra que a manteve. Esta última não foi trazida pela defesa no writ, emborahaja sido feito referência a elano acórdão impugnado, situação que não afasta a necessidade deque a defesa traga asuacópia integral.
+A possibilidade de se impetrar habeas corpus, destituído de qualquer formalidade essencial, não se traduz na desnecessidade de instruí-lo com os documentos essenciais que possibilitem avaliar a existência ou não de constrangimento ilegal. Nesse sentido é pacífica a orientação desta Corte (AgRg no HC n. 285.578/AM, Rel. Ministro Marco Aurélio Bellizze, DJe 2/5/2014).
+À vista do exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
