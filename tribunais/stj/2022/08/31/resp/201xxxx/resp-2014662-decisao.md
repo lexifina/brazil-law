@@ -1,0 +1,57 @@
+DECISÃO
+Trata-se de recurso especial fundamentado no art. 105, III, "c", da CF, interposto contra acórdão assim ementado (e-STJ fls. 196/197):
+APELAÇÃO CÍVEL. AÇÃO REVISIONAL. ALIENAÇÃO FIDUCIÁRIA. BEM MÓVEL.
+CÓDIGO DE DEFESA DO CONSUMIDOR. APLICABILIDADE. APLICÁVEL O CDC AOS CONTRATOS BANCÁRIOS NOS TERMOS DA SÚMULA 297 DO EGRÉGIO SUPERIOR TRIBUNAL DE JUSTIÇA.VEDADO O CONHECIMENTO DE OFÍCIO ACERCA DAS ABUSIVIDADES (SÚMULA N.º 381 DO STJ)
+JUROS REMUNERATÓRIOS MANTIDOS. OS JUROS REMUNERATÓRIOS, NO CASO, NÃO SUPERAM SIGNIFICATIVAMENTE A TAXA MÉDIA PRATICADA PELO MERCADO. ABUSIVIDADE NÃO DEMONSTRADA.
+CAPITALIZAÇÃO MANTIDA. POSSÍVEL A CAPITALIZAÇÃO DE JUROS EM PERIODICIDADE INFERIOR À ANUAL, NOS TERMOS DA MEDIDA PROVISÓRIA N.º 2.170-36/2001, DESDE QUE EXPRESSAMENTE PACTUADA. ORIENTAÇÃO DO STJ, ORIUNDA DO RESP N.º 973.827/RS E SÚMULA N.º539. CONSTITUCIONALIDADE DA MP 2.170-36/2001 RECONHECIDA PELO EGRÉGIO SUPREMO TRIBUNAL FEDERAL.
+CARACTERIZAÇÃO DA MORA. INEXISTENTE ABUSIVIDADE NOS ENCARGOS DO PERÍODO DA NORMALIDADE. CARACTERIZAÇÃO DA MORA, NOS TERMOS DOS RESPS. NºS 1.061.530/RS E 1.639.320/SP.
+TARIFA DE CADASTRO. LEGALIDADE. PRESENTE EXPRESSA PACTUAÇÃO, EM PATAMAR RAZOÁVEL. LEGALIDADE DA COBRANÇA NOS TERMOS DOS RESP N.ºS 1.251.331/RS E 1.255.573/RS. SÚMULA N.º566DO STJ.
+SEGURO DE PROTEÇÃO FINANCEIRA. NÃO CONFIGURADA A VENDA CASADA, NO CASO. AUSÊNCIA DE PROVA ACERCA DA ARGUIDA COMPULSORIEDADE NA CONTRATAÇÃO. RUBRICA MANTIDA.
+COMPENSAÇÃO E REPETIÇÃO DO INDÉBITO. REQUERIMENTO PREJUDICADO ANTE A NÃO REVISÃO DO CONTRATO.
+TUTELA ANTECIPADA. INDEFERIMENTO. NÃO CONSTATADA ABUSIVIDADE NOS ENCARGOS DA NORMALIDADE. AUSÊNCIA DOS REQUISITOS SEDIMENTADOS NO JULGAMENTO DO RESP. Nº1.061.530/RS AO DEFERIMENTO.
+APELAÇÃO CÍVEL DESPROVIDA.
+Os embargos de declaração opostos pelo recorrente foram rejeitados (e-STJ fls. 229/232).
+Em suas razões (e-STJ fls. 247/262), a parte recorrente aponta, além de dissídio jurisprudencial, violação dos seguintes dispositivos legais:
+(i) art. 1.030, II, do CPC/2015, porque (e-STJ fl. 251):
+ ..  a Segunda Seção do Colendo Superior Tribunal de Justiça julgou o Recurso Especial 1.112.879/PR, repetitivo, que trata da taxa abusiva de juros remuneratórios, consolidando o tema 234 do STJ. Acerca da mesma matéria o tema 27 da Corte Superior, igualmente contrariado no acórdão recorrido.  ..
+A orientação do Superior Tribunal de Justiça é de que, em havendo abusividade dos juros remuneratórios, a adequação desta taxa à média de mercado é medida impositiva. Prevalece a mais favorável ao consumidor
+(ii) arts. 6º, 46, 47, 51, IV, § 1º, III, e 52, I, II e III, do CDC e 28, § 1º, da Lei n. 10.931/2004, pois (e-STJ fls. 257/259):
+ ..  a orientação adotada no acórdão do Tribunal Gaúcho, que aferiu a legalidade da capitalização DIÁRIA de juros através do cálculo do duodécuplo, ignorando que o contrato sub judice não prevê a respectiva taxa diária de juros capitalizados.
+ ..  Inexistente a informação da taxa diária capitalizada de juros e cobrada a capitalização diária sobre o valor financiado, tem-se informação omitida do consumidor no negócio debatido, que resta absolutamente onerado por cláusula contratual que não lhe foi devidamente levada a conhecimento pelo Banco.
+ ..  Existente a diferença para mais da taxa de juros do contrato em relação à taxa média, a adequação é autorizada pela jurisprudência desta Colenda Corte, portanto. Descabe que o Tribunal de Justiça Estadual impeça que o entendimento do Superior Tribunal de Justiça seja aplicado aos casos típicos, como é o presente.
+Contrarrazões apresentadas às fls. 314/318 (e-STJ).
+O recurso foi admitido na origem.
+É o relatório.
+Decido.
+Dos juros
+No julgamento do Recurso Especial n. 1.061.530/RS (Relatora Ministra NANCY ANDRIGHI, SEGUNDA SEÇÃO, julgado em 22/10/2008, DJe 10/3/2009), submetido à sistemática dos recursos repetitivos (art. 543-C do CPC), esta Corte Superior consolidou as seguintes orientações sobre juros remuneratórios em contratos bancários:
+(..) ORIENTAÇÃO 1 - JUROS REMUNERATÓRIOS
+a) As instituições financeiras não se sujeitam à limitação dos juros remuneratórios estipulada na Lei de Usura (Decreto 22.626/33), Súmula 596/STF;
+b) A estipulação de juros remuneratórios superiores a 12% ao ano, por si só, não indica abusividade;
+c) São inaplicáveis aos juros remuneratórios dos contratos de mútuo bancário as disposições do art. 591 c/c o art. 406 do CC/02;
+d) É admitida a revisão das taxas de juros remuneratórios em situações excepcionais, desde que caracterizada a relação de consumo e que a abusividade (capaz de colocar o consumidor em desvantagem exagerada - art. 51, §1º, do CDC) fique cabalmente demonstrada, ante às peculiaridades do julgamento em concreto. (..)
+Portanto, não há óbice à revisão contratual, com fundamento no CDC (Súmula n. 297/STJ), nas hipóteses em que, após dilação probatória, ficar cabalmente demonstrada a abusividade da cláusula de juros, sendo insuficiente o fato de o índice estipulado ultrapassar 12% (doze por cento) ao ano (Súmula n. 382/STJ) ou de haver estabilidade inflacionária no período.
+A taxa média de mercado apurada pelo Banco Central para operações similares na mesma época do empréstimo pode ser utilizada como referência no exame do desequilíbrio contratual, mas não constitui valor absoluto a ser adotado em todos os casos. Com efeito, a variação dos juros praticados pelas instituições financeiras decorre de diversos aspectos e especificidades das múltiplas relações contratuais existentes (tipo de operação, prazo, reputação do tomador, garantias, políticas de captação e empréstimo, aplicações da própria entidade financeira etc.).
+Em seu voto, a eminente Ministra Relatora destacou que a jurisprudência do Superior Tribunal de Justiça tem considerado abusivas, diante do caso concreto, taxas superiores a uma vez e meia, ao dobro ou ao triplo da média. Destaca a Ministra Relatora (fl. 24 do inteiro teor do acórdão supracitado):
+(..) A jurisprudência, conforme registrado anteriormente, tem considerado abusivas taxas superiores a uma vez e meia (voto proferido pelo Min. Ari Pargendler no REsp 271.214/RS, Rel. p. Acórdão Min. Menezes Direito, DJ de 04.08.2003), ao dobro (Resp 1.036.818, Terceira Turma, minha relatoria, DJe de 20.06.2008) ou ao triplo (REsp 971.853/RS, Quarta Turma, Min. Pádua Ribeiro, DJ de 24.09.2007) da média.
+Todavia, esta perquirição acerca da abusividade não é estanque, o que impossibilita a adoção de critérios genéricos e universais. A taxa média de mercado, divulgada pelo Banco Central, constitui um valioso referencial, mas cabe somente ao juiz, no exame das peculiaridades do caso concreto, avaliar se os juros contratados foram ou não abusivos. (..).
+Na espécie, o acórdão ora recorrido entendeu que a taxa dos juros remuneratórios, fixada em 28,93% (vinte e oito vírgula noventa e trêspor cento) ao ano, não discrepa da taxa média do mercado na respectiva modalidade de crédito, que era de 18,88% (dezoito vírgula oitenta e oito por cento) ao ano (e-STJ fl. 191).
+Desse modo, ultrapassando a taxa contratada uma vez e meia a taxa média de mercado (28,32% - vinte e oito vírgula trinta e dois por cento), vai provido o recurso no ponto, para limitar os juros remuneratórios àtaxa média demercado.
+Da capitalização
+No julgamento do REsp n. 973.827/RS (Relatora para acórdão a Ministra MARIA ISABEL GALLOTTI, julgado em 8/8/2012, DJe 24/9/2012), submetido ao rito dos recursos especiais repetitivos (art. 543-C do CPC/1973), firmou-se o seguinte entendimento sobre a capitalização de juros:
+"(..) - É permitida a capitalização de juros com periodicidade inferior a um ano em contratos celebrados após 31.3.2000, data da publicação da Medida Provisória n. 1.963-17/2000 (em vigor como MP 2.170-36/2001), desde que expressamente pactuada.
+- A capitalização dos juros em periodicidade inferior à anual deve vir pactuada de forma expressa e clara. A previsão no contrato bancário de taxa de juros anual superior ao duodécuplo da mensal é suficiente para permitir a cobrança da taxa efetiva anual contratada (..)"
+É possível, portanto, a cobrança de capitalização diária de juros em contratos bancários. Todavia, conforme precedente da Segunda Seção do STJ, é necessária a informação acerca da taxa de juros diária a ser aplicada, ainda que haja expressa previsão quanto à periodicidade no contrato:
+RECURSO ESPECIAL. DIREITO CIVIL, PROCESSUAL CIVIL E DO CONSUMIDOR. (EN. 3/STJ). CÉDULA DE CRÉDITO BANCÁRIO. CAPITALIZAÇÃO DIÁRIA DE JUROS REMUNERATÓRIOS. TAXA DIÁRIA NÃO INFORMADA. VIOLAÇÃO AO DEVER DE INFORMAÇÃO. ABUSIVIDADE.
+1. Controvérsia acerca do cumprimento de dever de informação na hipótese em que pactuada capitalização diária de juros em contrato bancário.
+2. Necessidade de fornecimento, pela instituição financeira, de informações claras ao consumidor acerca da periodicidade da capitalização dos juros adotada no contrato, e das respectivas taxas.
+3. Insuficiência da informação acerca das taxas efetivas mensal e anual, na hipótese em que pactuada capitalização diária, sendo imprescindível, também, informação acerca da taxa diária de juros, a fim de se garantir ao consumidor a possibilidade de controle "a priori" do alcance dos encargos do contrato. Julgado específico da Terceira Turma.
+4. Na espécie, abusividade parcial da cláusula contratual na parte em que, apesar de pactuar as taxas efetivas anual e mensal, que ficam mantidas, conforme decidido pelo acórdão recorrido, não dispôs acerca da taxa diária.
+5. RECURSO ESPECIAL DESPROVIDO, COM MAJORAÇÃO DE HONORÁRIOS.
+(REsp 1826463/SC, Rel. Ministro PAULO DE TARSO SANSEVERINO, SEGUNDA SEÇÃO, julgado em 14/10/2020, DJe 29/10/2020.)
+No caso dos autos, o acórdão consignou a existência de cláusula prevendo a capitalização diária (e-STJ fl. 224):
+Apenas para que a questão não fique aqui sem enfrentamento, vale mencionar que a capitalização foi amplamente analisada, sendo que o contrato prevê expressamente a capitalização diária dos juros na cláusula M - Promessa de Pagamento. Os parâmetros estabelecidos pelo egrégio STJ são claros ao permitir a capitalização em periodicidade inferior à anual, não estabelecendo que essa deva ser mensal. Nada a alterar no decisum embargado, portanto.
+No entanto, "de acordo com entendimento firmado na Segunda Seção do STJ, a capitalização diária dos juros somente pode ser cobrada quando, além de estar prevista expressamente em cláusula contratual, o contrato contenha indicação da taxa diária de juros" (AgInt no REsp 1914532/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 14/12/2021, DJe 17/12/2021).
+Com efeito, "afastado o fundamento jurídico do acórdão recorrido, cumpre a esta Corte Superior julgar a causa, aplicando o direito à espécie, nos termos do art. 257 do RISTJ e da Súmula n. 456/STF. Porém, se a apreciação da causa necessitar do reexame do conjunto fático probatório, os autos devem retornar ao Tribunal de origem para novo julgamento, considerando-se, agora, o entendimento perfilhado pela Corte Superior" (REsp n. 1.025.633/RJ, Relator Ministro MASSAMI UYEDA, TERCEIRA TURMA, julgado em 24/5/2011, DJe 29/9/2011).
+Ante o exposto, DOUPROVIMENTO ao recurso especial para limitar os juros remuneratórios à taxa média de mercado, afastar a mora e determinar o retorno dos autos à origem, onde o pedido de capitalização diária de juros deverá ser reapreciado conforme a orientação desta Corte sobre a matéria.
+Publique-se e intimem-se.
