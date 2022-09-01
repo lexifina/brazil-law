@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por BRUNO SANTOS SANTANA contra decisão do Tribunal de Justiça do Estado do Estado de São Paulo, que inadmitiu recurso especial, apresentado com fundamento no art. 105, inciso III, alíneaa, da Constituição da República.
+O Ministério Público Federal apresentou parecer, opinando peloprovimento do agravo em recurso especial para não conhecer e, caso conhecido, desprover o apelo nobre(fls. 349-357).
+É o relatório.
+Decido.
+A Corte de origem não admitiu o apelo nobre calcada nas seguintes razões de decidir (fls. 311-312); sem grifos no original):
+"Não estão presentes os requisitos de admissibilidade necessários ao seguimento do inconformismo.
+Com efeito, o recurso especial foi interposto sem a fundamentação necessária, necessária, apta a autorizar o seu processamento, consoante determina o artigo 1.029 do Código de Processo Civil, uma vez que, apesar de terem sido transcritos os argumentos do aresto, não foram rebatidos em sua integralidade.
+Deficiente a fundamentação, um dos requisitos formais de qualquer recurso, resta, necessariamente, afastada a possibilidade do conhecimento do reclamo.
+Nesta linha, vale transcrever a ementa lançada em julgamento do Superior Tribunal de Justiça que, em caso símile, consignou que (..) as razões recursais devem fazer a demonstração explicativa dos pontos nos quais os fundamentos do julgado (supostamente) atentam contra a norma positiva, sob pena de não conhecimento do recurso, com base na Súmula 284 do STF, aplicada por analogia: ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia").
+Ademais, incide ao caso o óbice da Súmula nº 7 do STJ, que dispõe: "A pretensão de simples reexame de prova não enseja recurso especial.".
+ ..
+Ante o exposto, não preenchidos os requisitos exigidos, NÃO ADMITO o recurso especial. Procedidas as anotações de praxe, devolvam-se os autos à origem."
+Como se vê, o apelo nobre não foi admitido na origem com esteio na incidência das Súmulas n. 284/STF e 7/STJ.No entanto, oAgravante, nas razões do agravo em recurso especial, deixou de rebater, especificamente, ofundamentorelativoà aplicação da Súmula n. 7/STJ.
+Incide, portanto, o óbice do Enunciado n. 182 da Súmula desta Corte Superior, que dispõe: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada". Ilustrativamente: "É ônus do agravante impugnar as causas específicas de inadmissão do recurso especial, sob pena de incidência da Súmula n. 182 do STJ" (AgRg no AREsp 743.772/ES, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 14/08/2018, DJe 22/08/2018).
+Ademais, no tocante à aplicação da Súmula n. 7 do Superior Tribunal de Justiça, nas razões do agravo em recurso especial, o Agravante se limitou a sustentar genericamente que a matéria seria apenas jurídica, sem explicitar, à luz da tese recursal trazida no recurso especial, de que maneira a análise não dependeria do reexame de provas. Assim, não houve a observância da dialeticidade recursal, motivo pelo qual careceu o referido recurso de pressuposto de admissibilidade, qual seja, a impugnação efetiva e concreta aos fundamentos utilizados para inadmitir o recurso especial, no caso, a incidência da citada súmula desta Corte.
+Portanto, de rigor o não conhecimento do agravo em recurso especial, pela falta de impugnação a fundamentoda decisão agravada. Nesse sentido: " ..  os recursos devem impugnar, de maneira específica e pormenorizada, todos os fundamentos da decisão contra a qual se insurgem, sob pena de vê-los mantidos. Não são suficientes meras alegações genéricas sobre as razões que levaram à inadmissão do agravo ou do recurso especial ou a insistência no mérito da controvérsia" (AgRg no AREsp 1.422.004/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 07/05/2019, DJe 20/05/2019).
+Ante o exposto, NÃO CONHEÇO do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. MINUTA DE AGRAVO QUE NÃO INFIRMA ESPECIFICAMENTE FUNDAMENTO DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182/STJ. SÚMULA N. 7/STJ. RAZÕES RECURSAIS. IMPUGNAÇÃO GENÉRICA. AGRAVO NÃO CONHECIDO.
