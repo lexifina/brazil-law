@@ -1,0 +1,39 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. OMISSÃO. AUSÊNCIA. REDISCUSSÃO DE MATÉRIA JÁ DECIDIDA. NÃO CABIMENTO.
+1. A questão apontada como não examinada foi apreciada por esta Terceira Turma, que concluiu no sentido de que o Tribunal de origem enfrentou a matéria relativa à correlação entre as postagens e os maus-tratos supostamente praticados pela recorrente em desfavor de seus funcionários, inexistindo, assim, negativa de prestação jurisdicional.
+2. A pretexto de apontar suposto vício, a embargante pretende, em verdade, a rediscussão de questão já decidida, o que é descabido na via dos aclaratatórios.
+3. Embargos de declaração rejeitados.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Terceira Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas constantes dos autos, por unanimidade, rejeitar os embargos de declaração nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com a Sra. Ministra Relatora.
+Ausente, justificadamente, o Sr. Ministro Moura Ribeiro.
+RELATÓRIO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):
+Cuida-se de embargos de declaração opostos por CENTRAL DEVELOPMENT SERVICES LTDA que conheceu e deu provimento ao recurso especial que interpusera, conforme a seguinte ementa:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. PEDIDO DE REMOÇÃO DE PUBLICAÇÕES ALEGADAMENTE ILÍCITAS E CONCESSÃO DE REGISTROS DE CONEXÃO E ACESSO. LITISCONSÓRCIO PASSIVO NECESSÁRIO ENTRE O PROVIMENTO DE APLICAÇÃO E O SUPOSTO AUTOR DO CONTEÚDO. AUSÊNCIA.
+1. Ação de obrigação de fazer ajuizada em 02/12/2020, da qual foi extraído o presente recurso especial interposto em 01/07/2021 e concluso ao gabinete em 25/01/2022.
+2. O propósito recursal consiste em dizer se houve negativa de prestação jurisdicional e se há litisconsórcio passivo necessário entre o provedor de aplicação e o autor do conteúdo publicado on-line.
+3. É de ser afastada a existência de omissão no acórdão recorrido, pois a matéria indicada como não examinada foi enfrentada de forma objetiva e fundamentada no julgamento do recurso.
+4. A responsabilidade dos provedores de aplicações por conteúdos gerados por terceiros é subjetiva, tornando-se responsável solidariamente com aquele que gerou o conteúdo ofensivo a partir do conhecimento da lesão que determinada informação causa, se não tomar as providências necessárias para a sua remoção e caso o fato tenha se verificado quando não estava em vigor a Lei nº 12.965/14, ou a partir da notificação judicial para remoção do conteúdo, nos termos do art. 19 do MCI.
+5. São dois os fundamentos do litisconsórcio necessário: (i) a existência de específica determinação legal, em razão do juízo de conveniência formulado pelo legislador; (ii) a incindibilidade das situações jurídicas de dois ou mais sujeitos (art. 114 do CPC/2015). O segundo fundamento refere-se aos casos de litisconsórcio passivo unitário, nos quais não é possível que um sujeito da relação jurídica suporte determinado efeito sem atingir todos os que dela participam.
+6. Tratando-se de demanda na qual se busca impor ao provedor de aplicação a obrigação de remover determinadas publicações e de fornecer registros de acesso e conexão, não há litisconsórcio passivo necessário com o autor dos conteúdos. Tais providências incumbem ao provedor, mantenedor da rede social. Ou seja, eventual procedência dos pedidos não atingirá a esfera jurídica do autor das publicações. Ademais, eventual ilicitude do conteúdo da publicação e que poderá, eventualmente, resultar na responsabilização do seu autor, não acarretará, necessariamente, a responsabilidade do provedor.
+7. Recurso especial conhecido e provido.
+Nas razões do presente recurso, sustenta haver omissão no acórdão embargado, no ponto relativo à negativa de prestação jurisdicional, uma vez que o Tribunal de origem não se manifestou sobre todas as publicações, referindo, de forma genérica, que as postagens objeto da extensão da liminar não guardam relação com o objeto da lide. Refere que as publicações apresentadas no recurso de agravo interno guardam estreita relação com os fatos narrados, sendo imprescindível a determinação da sua exclusão.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. OMISSÃO. AUSÊNCIA. REDISCUSSÃO DE MATÉRIA JÁ DECIDIDA. NÃO CABIMENTO.
+1. A questão apontada como não examinada foi apreciada por esta Terceira Turma, que concluiu no sentido de que o Tribunal de origem enfrentou a matéria relativa à correlação entre as postagens e os maus-tratos supostamente praticados pela recorrente em desfavor de seus funcionários, inexistindo, assim, negativa de prestação jurisdicional.
+2. A pretexto de apontar suposto vício, a embargante pretende, em verdade, a rediscussão de questão já decidida, o que é descabido na via dos aclaratatórios.
+3. Embargos de declaração rejeitados.
+VOTO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):
+A recorrente alega que o acórdão embargado contém omissão.
+No entanto, a questão foi apreciada por esta Terceira Turma, que concluiu no sentido de que o Tribunal de origem enfrentou a matéria relativa à correlação entre as postagens e os maus-tratos supostamente praticados pela recorrente em desfavor de seus funcionários, inexistindo, assim, negativa de prestação jurisdicional.
+Por oportuno, convém transcrever o seguinte trecho do aresto recorrido:
+1. Segundo alega a recorrente, a Corte local silenciou a respeito de avaliações ofensivas publicadas na rede social mantida pelo recorrido em virtude da postagem supostamente promovida por um de seus ex-funcionários.
+2. Todavia, diversamente do sustentado, a matéria foi devidamente analisada no acórdão recorrido, conforme se depreende do trecho a seguir colacionado:
+Com efeito, e do que se extrai das próprias razões recursais apresentadas pela Recorrente, não há como se extrair, com razoável certeza, que as novas publicações elencadas são relacionadas especificamente, e em sua totalidade, às acusações formuladas por seu ex-funcionário, bastante a leitura, "v. g.", do teor das publicações finais de fl. 05, na qual, as avaliações negativas não são apenas relacionadas aos supostos maus-tratos em relação aos seus funcionários, como também, a qualidade do produto e dos serviços prestados. Assim, por ora, deve ser restringida a liminar deferida aos termos previstos na r. Decisão de fls. 60/62, sob pena de implicar-se uma generalidade irrestrita e descabida favorecendo a Recorrente, apta a inibir a publicação de qualquer avaliação negativa em relação aos seus produtos e serviços.
+Portanto, para a efetiva análise da extensão das publicações supostamente desairosas realizadas, bem como, para examinar se tais estão efetivamente relacionadas com o teor do quanto exposto pelo seu ex-funcionário, se mostra necessário o exercício da análise exauriente dos Autos, o que se mostra incompatível com o juízo superficial objeto dos pedidos desta estirpe. (e-STJ, fls. 174-175)
+3. Desse modo, devidamente analisadas e discutidas as questões de mérito, e fundamentado suficientemente o acórdão recorrido, não há que se falar em violação dos arts. 489 do e 1.022 do CPC/2015. (e-STJ, fls. 258-259)
+Ressalte-se, como se depreende do trecho colacionado, que o Tribunal de origem examinou a questão em sede de tutela provisória, o que significa que ainda não houve cognição exauriente acerca do tema, o que certamente ocorrerá no momento adequado para tanto.
+Nesse contexto, a pretexto de apontar suposto vício, a embargante pretende, em verdade, a rediscussão de questão já decidida, o que é descabido na via dos aclaratatórios.
+Forte nessas razões, REJEITO os embargos de declaração.
