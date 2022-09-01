@@ -1,0 +1,9 @@
+DECISÃO
+ANTONIO DOS SANTOS alega sofrer coação ilegal pelo Tribunal Regional Federal da 4ª Região. A exordial aponta como ato coator o acórdão prolatado noHC n. 5031007-04.2022.4.04.0000evisa combater a prisão preventiva decretada no Processo n. 5001563-21.2022.4.04.7017).
+De acordo com o impetrante: a) o decreto de prisão é nulo, por ofensa aos arts 93,IX, da CF e 315, § 2º, do CPP; b) "a prisão cautelar foi plagiada em sua literalidade, sem qualquer fundamentação, com nítida subversão do papel do processual penal"; c) o "processo é nulo, a base jurídica da denúncia é, entre outras, a prisão preventivacontaminada pela nulidade, a luz do artigo 157, do Código de Processo Penal" (fls. 4-5) e d) é patente a "nulidade do processo por ausência de fundamentação da decisão que decretou a quebra de sigilo de dados telefônicos e superveniente compartilhamento" (fl. 5).
+Decido.
+De plano, não identifico a juntada dos atos judiciais atacados na impetração. A defesa deixou de colacionar ao writ acópia da decisão prolatada noInquérito Policial n. 5002037262021404701, quedeferiu a quebra de sigilo de dados armazenados em aparelho celular apreendido, e o inteiro teor da decisão que decretou a prisão preventiva do paciente. O vício de instrução do habeas corpus impede o exame da pretensa ilegalidade ao direito de ir e vir do paciente.
+Ação constitucional de natureza mandamental, o writ tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente exige prova pré-constituída das alegações e não comporta dilação probatória.
+É cogente ao impetranteapresentar documentos que permitam a esta Corte sondar aexistência de constrangimento ilegal no ato atacado na impetração, o que não ocorreu in casu.
+À vista do exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o processamento do habeas corpus.
+Publique-se e intimem-se.
