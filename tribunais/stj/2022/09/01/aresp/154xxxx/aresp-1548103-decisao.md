@@ -1,0 +1,80 @@
+DECISÃO
+JESSIONE FARIAS DA CRUZ (JESSIONE) ajuizou ação de revisão de contrato de financiamento de veículo cumulada com pedido consignatória contra BANCO TOYOTA DO BRASIL S/A (BANCO), a qual foi julgada improcedente, com a condenação de JESSIONE no pagamento das custas, despesas processuais e honorários de advogado fixados em 10% do valor dado a causa (e-STJ, fls. 176/179).
+Interposta apelação por JESSIONE, o Tribunal de Justiça de Goiás deu parcial provimento ao recurso, nos termos do acórdão assim ementado:
+APELAÇÃO CÍVEL. AÇÃO REVISIONAL C/CCONSIGNATÓRIA. APLICABILIDADE DO CÓDIGO DEDEFESA DO CONSUMIDOR. CAPITALIZAÇÃO MENSAL DEJUROS. TAXA DE JUROS ANUAL SUPERIOR AO DUODÉCUPLO DA MENSAL. TABELA PRICE. COMISSÃODE PERMANÊNCIA. NÃO PACTUAÇÃO. PEDIDO PREJUDICADO. JUROS MORATÓRIOS. ABUSIVIDADE. ÔNUS DA SUCUMBÊNCIA EM PRIMEIRO GRAU. HONORÁRIOS RECURSAIS. 1. A relação jurídica existente entre as partes é regida pelo Código de Defesa do Consumidor - CDC, conforme determina a Súmula nº 297 do STJ.
+2. Havendo previsão no contrato bancário de taxa de juros anual superior ao duodécuplo da mensal, constata-se que houve a pactuação da capitalização dos juros em periodicidade superior à mensal, o que permite a sua cobrança (REsp 973.827/RS).
+3. A aplicação da Tabela Price no contrato entabulado é consectário lógico da cobrança de capitalização mensal de juros, portanto, uma vez reconhecida a legalidade desta, reconhece-se também a legalidade da aplicação daquela.
+4. A comissão de permanência, cujo valor não pode ultrapassar a soma dos encargos remuneratórios e moratórios previstos no contrato, deve ser aplicada na sua forma isolada nos períodos de anormalidade, ou seja, excluídos todos os demais encargos remuneratórios, moratórios e multa contratual (REsp1255573/RS).
+5. Não havendo pactuação quanto a incidência de comissão de permanência, incabível a análise, restando o pedido prejudicado.
+6. De acordo com o entendimento sedimentado pela Súmula 379 do STJ "Nos contratos bancários não regidos por legislação específica, os juros moratórios poderão ser convencionados até o limite de 1% (um por cento) ao mês".
+7. Mostrando-se abusiva a incidência dos juros de mora nos termos previstos no contrato, no percentual de 5% (cinco por cento) ao mês, a taxa prevista deverá ser reduzida para 1% ao mês.
+8. Observados os preceitos legais previstos nos arts. 85, § 2º e 8º, c/c parágrafo único do artigo 86 do Código de Processo Civil, bem como os princípios da razoabilidade e proporcionalidade no momento da fixação dos honorários advocatícios, não há que falar em valor exorbitante, tampouco em minoração do quantum arbitrado. APELAÇÃO CÍVEL CONHECIDA E PARCIALMENTE PROVIDA.
+Embargos de declaração do BANCO foram rejeitados.
+Inconformado, BANCO interpôs recurso especial com fundamento no art. 105, III, a, da CF, alegando violação dos arts. 141, 492 e 1.013, do Código de Processo Civil, 406 do Código Civil e 51, IV, 52, II, do Código de Defesa do Consumidor, 4º, IX, da Lei nº 4595/1964 ao sustentar (1) o julgamento se deu de forma extra petita porque em momento algum a parte recorrida pretendeu a redução dos juros moratórios; (2) não houve desvantagem exagerada ou iniquidade abusiva para a limitação aplicada; (3) tanto a legislação civil como a consumerista possibilitam a livre pactuação dos juros moratórios, ficando o limite legal estabelecido de forma residual para casos específicos ou naqueles em que não seja convencionada a taxa contratual (e-STJ, fls. 316/334).
+Não houve apresentação de contrarrazões por JESSIONE e o Tribunal estadual não admitiu o recurso especial ao fundamento de que os artigos 51, IV, 52, II, do CDC, 4º, IX, da Lei nº 4.595/1964 não foram objeto de discussão no acórdão recorrido, portanto, não prequestionada a matéria por óbice da Súmula nº 282/STF (e-STJ, fls. 348/349).
+Contra referida decisão, BANCO interpôs agravo em recurso especial sustentando que (1) o fato de os artigos 51, IV, 52, II, do CDC, 4º, IX, da Lei nº 4.595/1964 não terem constado expressamente na decisão não ilide o prequestionamento implícito diante da abordagem pelo acórdão recorrido da matéria neles contida; (2) para análise da matéria atinente ao alegado julgamento extra petita observado na espécie (ofensa aos arts. 141, 492 e 1013 do NCPC), não se faz necessário o reexame de prova, o que afasta a incidência da Súmula nº 7/STJ ao caso (e-STJ, fls. 352/360).
+JESSIONE não apresentou contraminuta.
+É o relatório.
+DECIDO.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial.
+De plano vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+(1) Do adequado prequestionamento dos artigos 51, IV, do CDC.
+Conforme se vê do acórdão recorrido, no único ponto em que desfavorável ao BANCO, o Tribunal estadual, a par de limitar os juros de mora a 1% ao mês ao entendimento que as normas de regência das cédulas de crédito bancário não fazem referência aos juros da inadimplência (Lei nº 10.931/2004, Decreto-Lei nº 911/1969, Resoluções BACEN números 2309/1996 e 3516/2007), de fato reconheceu a nulidade da cláusula contratual nº 20 do contrato, e o fez nos seguintes termos:
+No caso destes autos, foi previsto na cláusula 20 do contrato, com cláusula de alienação fiduciária, a incidência de juros de mora de 5% ao dia. Nota-se, pois, ser abusiva a incidência dos juros de mora nos termos previstos no contrato, motivo pelo qual a taxa prevista deverá ser reduzida para 1% ao mês (e-STJ, fls. 276 - sem destaque no original).
+Nesse ponto, é verificado o prequestionamento implícito da matéria e que permite o conhecimento do apelo nobre, quanto a esse ponto.
+E, conforme já se decidiu:
+EXIGÊNCIA. PREQUESTIONAMENTO. OCORRÊNCIA. NECESSIDADE DE REEXAME FÁTICO. NÃO OCORRÊNCIA. DISSÍDIO JURISPRUDENCIAL. COMPROVAÇÃO. LIVRE CONVENCIMENTO. DECISÃO AGRAVADA. FUNDAMENTOS NÃO COMBATIDOS. ART. 1021, § 1º, DO CÓDIGO DE PROCESSO CIVIL/2015. ENUNCIADO 182 DA SÚMULA DO STJ. NÃO PROVIMENTO.
+1. A matéria posta em discussão no especial foi devidamente prequestionada, ressaltando-se que em sede especial exigível, tão somente, o prequestionamento implícito.
+ ..  (
+AgInt nos EDcl no AREsp 591.695/RS, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, j. 14/2/2017, DJe 21/2/2017)
+ADMINISTRATIVO. EMPRÉSTIMO. CONSIGNAÇÃO EM FOLHA DE PAGAMENTO. VERBA SALARIAL DE NATUREZA ALIMENTAR. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E N. 356 DO STF. TUTELA ANTECIPADA. REQUISITOS. REVISÃO. MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA N. 7 DO STJ. RECURSO ESPECIAL NÃO CONHECIDO.
+ ..
+II - A ocorrência de prequestionamento implícito pressupõe a análise e discussão da matéria pelo Tribunal a quo. Não é o caso dos presentes autos.
+ ..
+(AgInt no REsp 1.376.898/ES, Rel. Ministro FRANCISCO FALCÃO, Segunda Turma, j. 18/4/2017, DJe 27/4/2017)
+(2) Da ausência de prequestionamento válido dos arts. 52, II, do CDC, 4º, IX, da Lei nº 4.595/1964.
+Já no que tange às matérias relativas aos arts. 52, II, do CDC, 4º, IX, da Lei nº 4.595/1964, o prequestionamento fora deficiente.
+De fato, nem no julgado principal, nem nos subsequentes embargos de declaração opostos por BANCO, houve discussão sobre eventual cumprimento do dever de informação sobre taxas de juros de mora no contrato como causa de manutenção daquelas praticadas no presente caso.
+Não houve a defesa ou o enfrentamento pelo Tribunal de tal tese e nem da questão do dirigismo contratual quanto à limitação de juros pelo Conselho Monetário Nacional, previsto para casos expressos previstos no artigo 4º, IX, da Lei nº 4595/1969.
+Nesse sentido, inafastável mesmo a incidência da Súmula nº 211/STJ e 282/STF, esta por analogia.
+(3) Da ausência de violação dos arts. 141, 492 e 1.013, do Código de Processo Civil, 406 do Código Civil e 51, IV, do CDC.
+Alega BANCO que o acórdão impugnado conhecera de ofício da abusividade de cláusula ao reduzir a taxa dos juros moratórios, porquanto em nenhum momento do apelo teria JESSIONE pleiteado tal redução, donde a ocorrência de julgamento extra petita. Salientou, ademais, que também não se vê nas previsões contratuais a aduzida desproporção e abusividade ensejadoras da limitação da taxa de juros moratórios, tal como vislumbrado pelo acórdão recorrido.
+Todavia, além de tal ponto já ter sido devidamente esclarecido no acórdão, conforme transcrição do excerto supra, ficou certo que o Tribunal estadual, na análise soberana do conjunto fático-probatório, mais uma vez se pronunciou quanto ao ponto, conforme se confere também no aresto dos embargos de declaração:
+Alega que no apelo manejado pela parte ora embargada não houve qualquer alegação de abusividade em relação aos juros moratórios, sustentando, em razão disso, que o julgado foi extra petita.
+Consabido que compete ao julgador decidir a lide nos limites em que foi proposta, sendo vedada a prolação de decisão "extra petita", "citra petita" ou "ultra petita", ou seja, que decide fora, aquém ou além do pedido, conforme estabelecem os artigos 141 e 489 do CPC.
+Ocorre que tal vício não ocorreu no caso dos autos, uma vez que, da simples leitura das razões do apelo, trasladadas na fl. 21 (evento 356), bem como da peça inicial (fl. 11 - evento n.01), verifica-se que o apelante defende todo o momento, a limitação de juros de mora a 1% ao ano.
+De igual forma, não se fala em omissão quanto eventual violação ao artigo 406 do Código Civil, por considerar que referido artigo somente pode ser aplicado quando não restar convencionado o percentual dos juros moratórios.
+Conforme exposto no acórdão embargado, o Código de Consumidor é aplicável às instituições financeiras, mostrando-se viável a revisão das cláusulas contratuais abusivas, relativizando o princípio do pacta sunt servanda e, de consequência, modificando a cláusula que prevê juros moratórios abusivos, como o caso dos autos (e-STJ, fls. 306 - sem destaque no original).
+Ao ensejo, o reexame da cláusula 20 reformada pelo acórdão, bem como a abusividade ou não da pactuação da taxa de juros moratórios a 5% ao dia, também representaria indevida incursão no material de conhecimento, vedada pelas Súmulas nºs. 5 e 7/STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. ARTS. 2º E 515 DO CPC/1973. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 211/STJ. NATUREZA DO CRÉDITO. LIMITAÇÃO DOS JUROS REMUNERATÓRIOS E MORATÓRIOS. REVERSÃO DO JULGADO. IMPOSSIBILIDADE. SÚMULAS NºS 5 E 7/STJ. 1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Ausente o prequestionamento, até mesmo de modo implícito, de dispositivos apontados como violados no recurso especial, incide o disposto na Súmula nº 211/STJ.
+3. Rever as conclusões do acórdão recorrido acerca da natureza do crédito e da abusividade dos juros remuneratórios e moratórios demandaria o reexame de matéria fático-probatória e do contrato firmado entre as partes, o que é inviável em recurso especial, nos termos das Súmulas nºs 5 e 7 do Superior Tribunal de Justiça.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 874.010/MG, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 21/11/2017, DJe de 30/11/2017 - sem destaque no original)
+No mais, ainda que assim não fosse, o acórdão recorrido está em sintonia com o entendimento deste Superior Tribunal de Justiça de que nos contratos bancários, não regidos por legislação específica, os juros moratórios poderão ser convencionados até o limite de 1% ao mês.
+Confere-se:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CÉDULA DE CRÉDITO BANCÁRIO.
+CORREÇÃO MONETÁRIA. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL INTERPRETADO. SÚMULA 284/STF. JUROS MORATÓRIOS. LIMITAÇÃO. SÚMULA 379/STJ. ACÓRDÃO RECORRIDO EM HARMONIA COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. AUSÊNCIA DE PREQUESTIONAMENTO DO ARTIGO SUPOSTAMENTE VIOLADO. SÚMULA 211/STJ. AGRAVO DESPROVIDO.
+1. Correção monetária. Inexistência de indicação de dispositivo cuja interpretação tenha sido divergente a fim de viabilizar o conhecimento da matéria, o que é imprescindível para correta configuração do dissídio jurisprudencial. Incidência da Súmula 284/STF.
+2. Limitação dos juros moratórios. Os juros poderão ser convencionados até o limite de 1% ao mês nos contratos bancários não regidos por legislação específica, como na presente hipótese.
+Súmula 379/STJ. Acórdão recorrido em harmonia com a jurisprudência desta Corte. Súmula 83/STJ.
+(..)
+4. Agravo regimental desprovido.
+(AgRg no REsp 1.395.828/PR, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 15/10/2015, DJe 26/10/2015, sem destaque no original)
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. CONTRATOS BANCÁRIOS.
+JUROS REMUNERATÓRIOS. ENTENDIMENTO CONSOLIDADO NOS MOLDES DO ART. 543-C. JUROS MORATÓRIOS. CAPITALIZAÇÃO DE JUROS. ENTENDIMENTO CONSOLIDADO NOS MOLDES DO ART. 543-C.
+(..)
+2. Nos contratos bancários, não-regidos por legislação específica, os juros moratórios poderão ser convencionados até o limite de 1% ao mês (Recurso Especial Repetitivo n. 1.061.530/RS, Rel. Min. NANCY ANDRIGHI, DJe de 10/03/2009).
+3. a) "É permitida a capitalização de juros com periodicidade inferior a um ano em contratos celebrados após 31.3.2000, data da publicação da Medida Provisória n. 1.963-17/2000 (em vigor como MP 2.170-36/2001), desde que expressamente pactuada"; b) "A capitalização dos juros em periodicidade inferior à anual deve vir pactuada de forma expressa e clara. A previsão no contrato bancário de taxa de juros anual superior ao duodécuplo da mensal é suficiente para permitir a cobrança da taxa efetiva anual contratada". (REsp 973.827/RS, Rel. p/ acórdão Min. MARIA ISABEL GALLOTTI, DJe de 24/09/2012).
+4. Agravo regimental não provido.
+(AgRg no AREsp 574.590/RS, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 9/12/2014, DJe 16/12/2014, sem destaque no original)
+Tal entendimento ficou consolidado com a edição da Súmula 379/STJ, que dispõe que: Nos contratos bancários não regidos por legislação específica, os juros moratórios poderão ser convencionados até o limite de 1% ao mês.
+Nessas condições, com fundamento no art. 1.042, § 5º, do NCPC c/c o art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/3/2016, DJe 18/3/2016), CONHEÇO em parte do agravo para conhecer em parte o recurso especial, e, nessa extensão, NEGAR-LHE PROVIMENTO.
+Inexistindo hipótese de prévia fixação de honorários no presente recurso em desfavor do recorrente, deixo de aplicar a regra do art. 85, § 11, do NCPC.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REVISÃO DE CONTRATO DE FINANCIAMENTO DE VEÍCULO. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. DISPOSITIVOS LEGAIS PARCIALMENTE PREQUESTIONADOS DE MANEIRA IMPLÍCITA. RECONHECIMENTO.INCIDÊNCIA, ENTRETANTO, DA SÚMULA Nº 211/STF QUANTO AOS DEMAIS. JUROS MORATÓRIOS. LIMITAÇÃO A 1% AO MÊS PELO ACÓRDÃO. ALEGADO JULGAMENTO EXTRA PETITA POR FALTA DE INVOCAÇÃO PELA AUTORA. INOCORRÊNCIA. APONTAMENTO PELO TRIBUNAL ESTADUAL DO REFERIDO PLEITO, BEM COMO DAABUSIVIDADE DA TAXA ANTERIORMENTE PACTUADA. INCURSÃO NO MÉRITO QUE ESBARRA NOS ÓBICES DAS SÚMULAS NºS 5 E 7/STJ. ENTENDIMENTO ADOTADO QUE, ADEMAIS, COADUNA-SE COM O DA SÚMULA Nº 379/STJ. ACÓRDÃO RECORRIDO EM HARMONIA COM A JURISPRUDÊNCIA DESTA CORTE. AGRAVO CONHECIDO EM PARTE PARA, NESSA EXTENSÃO, NEGAR PROVIMENTO AO RECURSO ESPECIAL.
