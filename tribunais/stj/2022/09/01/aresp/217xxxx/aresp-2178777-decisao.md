@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por SILVANA MARINHO DE MENEZES (SILVANA)contra decisão que negou seguimento ao seu apelo nobre manejado, por sua vez, contra acórdão assim ementado:
+APELAÇÃO CÍVEL. DIREITO DO CONSUMIDOR. VÍCIO NO PRODUTO. PROVA PERICIAL CONCLUIU SER MERA INTERCORRÊNCIA DO USO NORMAL. AUSÊNCIA DE ARGUMENTOS APTOS A AFASTAR A CONCLUSÃO DO PERITO. REQUISITOS DA RESPONSABILIDADE CIVIL NÃO PREENCHIDOS. DANO NÃO CONFIGURADO. SENTENÇA MANTIDA. RECURSO CONHECIDO E NÃO PROVIDO.(e-STJ, fl. 558)
+Irresignada, SILVANA interpôs/interpuseram recurso especial com base no art. 105, III, alíneaa, da CF, apontando a violação aos arts. 6º, 14, 18, § 1º,, I e II, do CDC; 186 e 927do CC/2002, ao sustentar (1) ficar caracterizado o vício oculto no produto, existindo, no caso em tela, a responsabilidade solidária e objetiva; (2) o fornecedor responde pela reparação independente de culpa; (3) é direito do consumidor obter informações claras e adequadas sobre o bem adquirido; (4) caracterizado o ilícito exsurge o deverem indenizara recorrente pelos danos materiais e morais.
+O recurso não foi admitido na origem com suporte na Súmula nº 7 do STJ.
+Nas razões do presente agravo, SILVANA reiterou ad literatimos termos do recurso especial.
+Foi apresentada contraminuta.
+É o relatório.
+Decido.
+O agravonão comporta conhecimento.
+Verifica-se que a petição de agravo não refutou de forma arrazoada os termos da decisão agravada, restringindo-se a repetir a fundamentaçãodeduzida no recurso nobre.
+Consoante pacífico entendimento desta Corte, o agravante deve infirmar especificamente todos os fundamentos da decisão agravada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo.
+Demanda o princípio da dialeticidade, que norteia os recursos, competir à parte recorrente, sob pena de não conhecimento do agravo em recurso especial, infirmar especificamente os fundamentos adotados pelo Tribunal de origem para negar seguimento ao recurso nobre, consoante expressa previsão contida nos arts. 932, III, do NCPC e 253, I, do RISTJ, ônus da qual não se desincumbiu a parte insurgente.
+Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DENEGATÓRIA DE ADMISSIBILIDADE DE RECURSO ESPECIAL. DESCUMPRIMENTO DOS REQUISITOS PRECONIZADOS PELO ART. 932, III, DO NCPC. VÍCIOS DO ACÓRDÃO EMBARGADO. INEXISTÊNCIA. RECURSO PROTELATÓRIO. APLICAÇÃO DE MULTA. ART. 1.026, § 2º, DO NCPC. INTEGRATIVO REJEITADO. 1. O presente recurso foi interposto contra acórdão publicado na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC. 2. O acórdão embargado não foi omisso e, com clareza, concluiu fundamentadamente que não se mostrou viável o agravo em recurso especial que, apresentado em desacordo com os requisitos preconizados pelo art. 932, III, do NCPC, não impugnou todos os fundamentos da respectiva inadmissibilidade (descabimento de análise de afronta a normas constitucionais). (..) (EDcl no AgInt no AREsp 1530392 - RS, desta relatoria, j. 15/04/2019, DJe 22/04/2019 - sem destaque no original).
+Nessas condições, NÃO CONHEÇO do agravo em recurso especial.
+MAJORO em 5% o valor dos honorários advocatícios anteriormente fixados em favor da recorrida, limitados a 20%, nos termos do art. 85, § 11, do NCPC.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+DIREITO DO CONSUMIDOR. AGRAVO EM RECURSO ESPECIAL INTERPOSTO NA ÉGIDE DO NCPC. AGRAVO EM RECURSO ESPECIAL QUE NÃO IMPUGNA OS FUNDAMENTOS DA DECISÃO AGRAVADA. APLICAÇÃO DO ART. 932, III, DO NCPC. AGRAVO NÃO CONHECIDO.
