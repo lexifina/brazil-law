@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso especial (CPC/2015, art. 1.029) interposto contra acórdão do TJSP assim ementado (e-STJ fl. 238):
+APELAÇÃO AÇÃO CIVIL PÚBLICA EXPURGOSINFLACIONÁRIOS EXECUÇÃO INDIVIDUAL Sentença que julgou extinta a execução por falta de título executivo. Cabimento Extratos trazidos comprovam que as contas indicadas na inicial faziam aniversário na segunda quinzena de janeiro de 1989 Extrato de fevereiro demonstra a existência de saldo em janeiro do mesmo ano Desnecessidade de inversão do ônus da prova Sentença mantida. Recurso desprovido.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 290/292).
+Nas razões do recurso especial (e-STJ fls. 242/257), fundamentado no art. 105, III, "a" e "c", da CF, os recorrentes apontam dissídio jurisprudencial e violaçãodos arts. 400, I e II, do CPC/2015e 6º, VIII, do CDC, afirmando que seria devido determinar a inversão do ônus da prova para que a instituição financeira apresentasse os extratos da conta-poupança nos mesesde dezembro de 1988 e de janeiro de 1989.
+Argumentam que:
+(a) "ao banco recorrido basta, apenas e tão somente apresentar os extratos de dezembro/88 e janeiro/89 para que ele possa provar se havia ou não saldo no período da primeira quinzena do mês de janeiro de 1989, conforme determina o art. 6º do Código de Defesa do Consumidor, e em homenagem ao principio da cooperação" (e-STJ fl. 244), e
+(b) "no caso dos autos, além do que determina a lei consumeirista, acerca da inversão do ônus da prova, tem-se que as partes devem cooperar para um resultado justo, cabendo ao Juiz determinar, até mesmo quando nenhuma das partes requerer a medida, todos os meios de prova para a elucidação do processo, por ser questão de ordem pública, razão pela qual aguarda-se pela juntada dos extratos pleiteados na inicial" (e-STJ fl. 253).
+Não foram apresentadas contrarrazões (e-STJ fl. 295).
+O recurso especial foi admitido na origem (e-STJ fls. 306/308).
+É o relatório.
+Decido.
+A fim de sustentar a tese de que seria devido inverter o ônus da prova para que a instituição financeira recorrida fornecesse os extratos da conta no período informado, os recorrentes apontaram violação do art. 400, I, e II, do CPC/2015, dispositivo que não guarda pertinência temática com a alegação, nem possui alcance normativo para sustentar a tese.
+Constatada a deficiência da fundamentação, aplicável, por analogia, a Súmula n. 284 do STF, como óbice ao recurso. Nesse sentido:AgInt no REsp n. 1.975.398/MA, de minha relatoria, QUARTA TURMA, julgado em 9/5/2022, DJe de 16/5/2022, eAgInt no REsp n. 1.976.663/RJ, relator Ministro Raul Araújo, Quarta Turma, julgado em 27/6/2022, DJe de 29/6/2022.
+Nas razões recursais, a parterecorrente não indicou a legislação federal que teria sido objeto de violação pela Corte local, ao argumentar a necessidade de aplicar o princípio da cooperação nos autos (e-STJ fls. 251/254).
+Ausente tal providência, a fundamentação recursal mostra-se deficiente e atrai a aplicação, por analogia, da Súmula n. 284/STF como óbice ao recurso. A propósito: "No recurso interposto pela alínea "a" do permissivo constitucional é imprescindível a individualização do artigo de lei federal tido por violado, sem o que incide, por analogia, a Súmula 284/STF" (AgInt no AREsp n. 623.110/GO, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 26/9/2017, DJe 2/10/2017).
+Outrossim, referida tese não foi objeto de debate pela Corte local, não estando prequestionada.
+O conhecimento do recurso pela alínea "c" do permissivo constitucional exige a indicação do dispositivo legal ao qual foi atribuída interpretação dissonante e a demonstração da divergência, mediante o cotejo analítico do acórdão recorrido e dos arestos paradigmas, de modo a se verificarem as circunstâncias que assemelhem ou identifiquem os casos confrontados (arts. 255, §§ 1º e 2º, do RISTJ e 541, parágrafo único, do CPC/1973), ônus dos quais os recorrentes não se desincumbiram.
+Além disso, o dissídio interpretativo baseado emparadigma do mesmo tribunal prolator do acórdão recorrido esbarra no óbice daSúmula n.13do STJ.
+Por fim, ao rejeitar os aclaratórios, oTribunal de origem ainda assentou que (e-STJ fl. 292):
+Apenas por amor ao argumento, registre-se que a extinção aqui se deu porque o extrato que acompanhou a inicial aponta saldo em conta-poupança com aniversário na segunda quinzena do mês, o que inviabiliza a reparação pretendida na inicial e a inversão do ônus da prova, porquanto ainda que venham aos autos extratos do mês de janeiro, a conta vai continuar fazendo aniversário na segunda quinzena.
+A respeito de tal razão de decidir, suficiente para manter o acórdão recorrido, os recorrentes não se manifestaram, o que atrai a aplicação da Súmula n. 283/STF, por analogia, como óbice ao recurso.
+Ante o exposto, NEGO PROVIMENTO ao recurso.
+Publique-se e intimem-se.
