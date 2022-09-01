@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no art. 105, inc. III, "a", da Constituição Federal, contra acórdão proferido pelo TRF4 assim ementado (fl. 279):
+ANULATÓRIA. PRESCRIÇÃO INTERCORRENTE. EXTINÇÃO DA EXECUÇÃO FISCAL. RECONHECIMENTO DA PROCEDÊNCIA DO PEDIDO. HONORÁRIOS ADVOCATÍCIOS. IMPOSSIBILIDADE DE CONDENAÇÃO DA UNIÃO. PRINCÍPIO DA CAUSALIDADE.
+Interposto agravo interno, não foi conhecido (fl. 314).
+A recorrente alega violação dos arts. 85, caput e §3º, do CPC/2015 e 22 da Lei 8906/1994, sob os seguintes argumentos: a) o Estatuto da Advocacia preconiza que os honorários são a contraprestação pelo serviço profissional prestado por aqueles devidamente habilitados para tanto; b) como a extinção da execução se deu e o executado constituiu advogado que ajuizou ação anulatória de débito, há sucumbência a impor a condenação ao pagamento de honorários advocatícios, pois, de fato, é assente o entendimento, no STJ, de que são devidos os honorários advocatícios pela exequente se, para a extinção do feito, a parte executada foi obrigada a constituir advogado e apresentar defesa.
+Com contrarrazões.
+Juízo positivo de admissibilidade à fl. 341.
+É o relatório. Passo a decidir.
+Consigna-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele prevista, conforme Enunciado Administrativo n. 3/2016/STJ.
+Dito isso, no que diz respeito aos arts. 85, caput e §3º, do CPC/2015 e 22 da Lei 8906/1994, verifica-se que não houve juízo de valor por parte da Corte de origem, o que acarreta o não conhecimento do recurso especial pela falta de cumprimento ao requisito do prequestionamento. Aplica-se ao caso a Súmula 282/STF.
+Outrossim,ainda no que diz respeito à alegação de ofensa aos dispositivos indicados, a pretensão é inadmissível porque a recorrente não impugnou o fundamento do acórdão recorrido segundo o qual "(..) foi a executada (ora autora desta demanda) quem deu causa às execuções fiscais extintas e, consequentemente, a esta ação anulatória, em razão do inadimplemento das suas obrigações tributárias, não tendo a Fazenda feito mais do que cumprir a sua obrigação legal ao ajuizar a execução fiscal." (fl. 281). Essa situação enseja a aplicação da Súmula 283/STF.
+Finalmente, evidencia-se que a recorrente apresentou argumentos genéricos, vagos a respeito da suposta ofensa aos arts. 85, caput e §3º, do CPC/2015 e 22 da Lei 8906/1994, e que se encontram dissociados dos fundamentos aplicados pelo acórdão recorrido, situação que não permite a exata compreensão da controvérsia e impede o conhecimento do recurso, sendo ainda de acrescentar que os dispositivos em exame não contêm comando normativo capaz de infirmar o juízo formulado no julgado. Aplica-se à hipótese, por ambos os motivos, a Súmula 284/STF.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ARTS. 85, CAPUT E §3º, DO CPC/2015 E 22 DA LEI 8906/1994. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. ACÓRDÃO COM FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF. DEFICIÊNCIA NA ARGUMENTAÇÃO RECURSAL E AUSÊNCIA DE COMANDO NORMATIVO. SÚMULA 284/STF. RECURSO ESPECIAL NÃO CONHECIDO.
