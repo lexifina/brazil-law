@@ -1,0 +1,90 @@
+DECISÃO
+GDE O F M (G), menor de idade,neste ato representada por sua genitoraP A DE O (P), opôsAção de Indenização por Danos Morais com pedido de inversão do ônus da prova em face deLOCALFRIO S.A. ARMAZÉNS GERAIS FRIGORÍFICOS (LOCALFRIO).
+Na espécie, a autoraasseverouque no dia 14 de janeiro de 2016 ocorreu um incêndio na sede da LOCALFRIO, ocasionando incineração de diversos containeres que continhamprodutos químicos, situação que afetou seu meio de vida, saúde, residência e trabalho em razão da fumaça tóxica dispersa no ar, mormente porque reside nas imediações do porto de Santos, local onde a empresa encontra-se instalada.
+Aduziu que os fatos narrados são notórios, sendo certo que a nuvem de fumaça se alastrou por toda a região do Guarujá, Santos e São Vicente, sendo necessária a evacuação de diversas áreas.
+Sustentoupela responsabilidade objetiva da LOCALFRIO, devendo esta, de acordo com o art. 14, § 1º, da Lei nº6.938/81, reparar os danos causados ao meio ambiente e a terceiros afetados por sua atividade, independentemente de culpa ou dolo.
+Requereu (1) indenização por danos morais no valor de R$ 30.000,00 (trinta mil reais); (2) a produção de provas; e (3) a inversão do ônus probatório (Súmula nº 618/STJ).
+Em primeira instância os pedidos foram julgados improcedentes com a condenação da autora em honorários na quantiacorrespondente a 10% do valor da causa:
+De início, anoto a absoluta desnecessidade de produção de provas, que fica indeferida, nos termos do artigo 370 do Estatuto de Processo Civil. E explico. A inicial descreve de forma confessada a aparente inobservância das regras de segurança propaladas pelas equipes da Prefeitura e de segurança locais, indicando a culpa exclusiva da vítima (causa excludente de ilicitude),fato que, sendo confessado, não demanda prova (artigo 374, inciso II do CPC). Ademais, os fatos objetos do pleito reparatório estão inseridos naqueles que não estão passíveis de indenização, visto que configurados como inseridos nos decorrentes da própria vida em sociedade.
+ ..
+Como dito, a própria inicial descreve diversas medidas preventivas tomadas pela Municipalidade e órgãos de segurança, fato que foi notório e de ciência da própria subscritora que estava na região na ocasião dos fatos (artigo 375 do CPC) e, observando todas as recomendações, nada sofreu. E, nos autos, não há sequer a descrição na inicial de forma detalhada e expressa como necessário de ocorrências médicas graves (internações, por exemplo) aptas a configurar danos maiores do que aqueles assimiláveis por qualquer cidadão comum.
+ ..
+E, assim, embora alegue incômodo, os fatos não poderiam ser considerados como uma dor com intensidade suficiente para ensejar o reconhecimento da dor moralindenizável, notadamente porque não houve qualquer outra circunstância apta a ensejar danos de maior monta à honra objetiva ou subjetiva da parte autora. Apenas deve ser relacionado como dano moral a dor, o vexame, o sofrimento e a humilhação INTENSOS e DURADOUROS que, fugindo à normalidade do cotidiano, causem aflições, angústias ou notórios desequilíbrios ao bem estar do indivíduo.(e-STJ, fls. 1.119/1.124)
+Houve apelação por parte daautora, oportunidade em que o Tribunal de Justiça do Estado de São Pauloconheceu dorecurso,mas negou-lheprovimento:
+APELAÇÃO. Reparação civil. Incêndio em terminal portuário. Indenização perseguida indevida. PRECEDENTES. Ausência de demonstração de dano decorrente da fumaça expelida no curso do reclamado incidente (a exemplo de eventual necessidade de internação, complicações respiratórias ou qualquer outra intercorrência afim). Multiplicidade de demandas envolvendo idêntico plano de fundo que bem respaldam a exegese adotada na origem. Cerceamento de defesa. Inocorrência. Robusto repertório documental, somado ao nível dos debates travados nos autos, mais do que suficientes à formação do convencimento do órgão julgador. Sentença mantida. Adoção do art. 252 do RITJ. RECURSODESPROVIDO.(e-STJ, fls. 1.562/1.573).
+Foram opostos embargos de declaração com alegação de (i) contrariedade na negativa de produção probatória (prova emprestada); e(ii) omissão no pedido de reforma ou anulação da sentença.
+Os aclaratórios foram rejeitados em acórdão assim ementado:
+EMBARGOS DE DECLARAÇÃO. Acórdão que não contém omissão, contradição, obscuridade ou erro material. Caráter infringente do recurso. Almejada rediscussão de matéria superada que não prospera. Medida manifestamente protelatória. Prequestionamento que não dispensa a observância das hipóteses do art. 1.022 do CPC, com ressalva ao disposto no art. 1.025 do mesmo diploma. EMBARGOSREJEITADOS. (e-STJ, fls. 2.023/2.026)
+Irresignada, Ginterpôsrecurso especial com fulcro no art. 105, III, ae c, da CF, alegando violação dos arts.319, 355, 356, 361, 369 e 370, 489,1.022 e 1.025 do CPC; 4º e 14, § 1º, da Lei nº 6.938/81 e 927, único, do CC, sustentando que(1) houve negativa de prestaçãojurisdicional, considerando-se que as omissões e contradições apontadasnão foram apreciadas, bem como os dispositivos de lei federal invocados;(2)houve cerceamento de defesa, tendo em vista ojulgamentoantecipado dalide sem o deferimento da produção de provas; e(3)deve serreconhecido opedido de indenização por dano moral(e-STJ fls. 1.579/1.619).
+Foram apresentadas as contrarrazões (e-STJ, fls. 2.034/2.047).
+O apelo nobre não foi admitido por falta de demonstração da alegada violação aos dispositivos arrolados, bem como em virtude da incidência da Súmula nº 7/STJ (e-STJ, fls. 2.057/2.058).
+Nas razões do presente agravo em recurso especial, G, repisando as razões contidas no recurso especial, aduz que(1) houve ofensa aos arts. 489 e 1.022 do NCPC; (2) a Súmula nº 7 do STJé inaplicável ao caso; (3) a ofensa aos dispositivos de lei federal foidemonstrada; e(4) a divergência jurisprudencial foi devidamentecomprovada.
+É o relatório.
+DECIDO.
+De início, vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto, ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na Sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/15 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+(1) Das alegadas omissão e contradição no julgado
+Nas razões do recurso especial, G alegou a violação dos arts. 489,1.022 e 1.025 do NCPC, sustentando que houve negativa de prestaçãojurisdicional, tendo em vista que as omissões e contradições apontadas nãoforam apreciadas, bem como os dispositivos de lei federal invocados.
+Contudo,não houve a indicação das teses, em evidente alegação genérica decontrariedade aos referidos dispositivos. É de se ressaltar que tãosomente a referência da violação dedispositivos da lei federal, sem aparticularização das teses e dos fundamentos sobre os quais o Tribunalpaulista teria se omitido ou se pronunciado de forma obscura oucontraditória, constitui alegação genérica e mera irresignação.
+Assim, nessescasos, ante a deficiente fundamentação do recurso, incide aSúmula nº 284 do STF, por analogia: "É inadmissível o recursoextraordinário, quando a deficiência na sua fundamentação não permitir aexata compreensão da controvérsia".
+Confira-se a jurisprudência desta Corte:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. MENSALIDADES. COBRANÇA. PLANO DE SAÚDE. RESCISÃO CONTRATUAL. EXCEÇÃO DO CONTRATO NÃO CUMPRIDO. TESE NÃO COMPROVADA. RESCISÃO. ILEGALIDADE. NÃO CABIMENTO. ART. 1.022 DO CPC/2015. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. CONJUNTO FÁTICO-PROBATÓRIO. RELAÇÃO CONTRATUAL. REEXAME. SÚMULAS NºS 5 E 7/STJ. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA Nº 284/STF. DISSÍDIO JURISPRUDENCIAL. DEMONSTRAÇÃO. AUSÊNCIA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+ ..
+4. Considera-se deficiente de fundamentação o recurso especial que, apesar de apontar o preceito legal tido por violado, não demonstra, de forma clara e precisa, de que modo o acórdão recorrido o teria contrariado, circunstância que atrai, por analogia, a Súmula nº 284/STF.
+ ..
+(AgInt no AREsp n. 1.938.687/SP, relator MINISTRO RICARDO VILLAS BÔAS CUEVA, Terceira Turma, julgado em 8/8/2022, DJe de 15/8/2022.)
+RECURSO ESPECIAL. CIVIL E CONSUMIDOR. COMPETÊNCIA DA SEGUNDA SEÇÃO. CARACTERIZAÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. PRINCÍPIOS DA PREVENÇÃO E PRECAUÇÃO. SÚMULA 7/STJ. PROVA DE FATO NEGATIVO. NÃO CARACTERIZAÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. DANO AMBIENTAL. POLUIÇÃO ATMOSFÉRICA. DANOS INDIVIDUAIS. CONSUMIDOR POR EQUIPARAÇÃO. CARACTERIZAÇÃO. RELAÇÃO DE CONSUMO. INVERSÃO DO ÔNUS DA PROVA. POSSIBILIDADE. REEXAME. SÚMULA 7/STJ.
+ ..
+4- Não se pode conhecer da apontada violação dos arts. 1.022 e 489 do CPC, pois as alegações que a fundamentam são genéricas, sem discriminação específica dos pontos efetivamente omissos, contraditórios ou obscuros sobre os quais teria incorrido o acórdão impugnado, motivo pelo qual incide, na espécie, por analogia, a Súmula 284/STF.
+ ..
+(REsp n. 2.009.210/RS, relatora MINISTRA NANCY ANDRIGHI, Terceira Turma, julgado em 9/8/2022, DJe de 12/8/2022.)
+Não se conhece, portanto, da ofensa aos dispositivos de lei federalmencionados.
+(2 e 3) Da necessidade do revolvimento fático-probatório
+G alegou violação dos arts. 319, 355, 356, 361, 369 e370do NCPCe dissídio jurisprudencial,sustentandoque houve cerceamento de defesa,tendo em vista o julgamento antecipado da lide sem o deferimento daprodução de provas em instrução processual.
+Nos termos da jurisprudência desta Corte, o Juiz é o destinatário finaldas provas, a quem cabe avaliar sua efetiva conveniência e necessidade,advindo daí a possibilidade de indeferimento das diligências inúteis oumeramente protelatórias, em consonância com o disposto na parte final doart. 370 do NCPC.
+No caso concreto, o Tribunal estadual afastou o alegado cerceamento dedefesa por entender que a solução da controvérsia levada a juízoindependia da pretendida dilação probatória. Confira-se:
+Inicialmente, a preliminar de cerceamento de defesa deve ser AFASTADA.
+É dizer que suficientemente instruída a lide ao convencimento do órgão julgador.
+Basta atentar ao robusto repertório documental colacionado ao processo,POR AMBOS OS LITIGANTES, ao nível dos debates experimentados e aos inúmeros julgados existentes acerca do tema: TODOS DE IDÊNTICO PLANO DE FUNDO.
+Iníquo, senão temerário, querer a parte recorrente suscitar nulidade onde não existe: tanto mais porque as provas que busca produzir, já poderiam ter sido entranhadas ao feito para a comprovação do seu EFETIVO DANO (ex: laudo médico, ficha de internação, etc)(e-STJ, fls. 1.566/1.567).
+Nesse contexto, não se confirma o alegado cerceamento de defesa, sendocerto que a revisão dos fundamentos que levou a tal entendimentodemandaria uma nova apreciação do conjunto probatório, o que é vedado emrecurso especial, a teor da Súmula nº 7 do STJ.
+Nesse sentido, confiram-se os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO EXTRA PETITA NÃO CONFIGURADA. CERCEAMENTO DE DEFESA. CONJUNTO FÁTICO-PROBATÓRIO. REEXAME. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. AUSÊNCIA DE INDICAÇÃO DOS ARTIGOS DE LEI TIDOS POR VULNERADOS. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECLAMO. SÚMULA 284/STF. MANUTENÇÃO DA DECISÃO DA PRESIDÊNCIA. AGRAVO INTERNO DESPROVIDO.
+ ..
+2. Reverter a conclusão do Tribunal local, para acolher a pretensão recursal quanto à existência ou não de cerceamento de defesa, demandaria o revolvimento do acervo fático-probatório dos autos, o que é vedado em face da natureza excepcional da via eleita, consoante enunciado da Súmula n. 7/STJ.
+ ..
+(AgInt no AREsp n. 2.066.904/MG, relator MINISTRO MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 8/8/2022, DJe de 10/8/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO COMBATIDA. ART. 932, III, DO CPC/2015. SÚMULA N. 7 DO STJ. ART. 1.029, § 3º, DO CPC/2015. APLICABILIDADE RESTRITA A VÍCIOS ESTRITAMENTE FORMAIS. AGRAVO IMPROVIDO.
+1. Apesar de sustentar que, nas razões do agravo, defendeu a não incidência da Súmula n. 7/STJ, a parte agravante não trouxe argumentação efetiva e voltada a afastar as conclusões da decisão combatida, demonstrando quais os fatos admitidos pelo Tribunal de origem que embasariam o seu direito, sem a necessidade de modificação das premissas adotadas no acórdão recorrido.
+2. Não basta a assertiva genérica de que não se pretende o reexame de provas, ainda que seja feita breve menção à tese sustentada. É imprescindível o cotejo entre o acórdão combatido e a argumentação trazida no recurso especial que pudesse justificar o afastamento do referido óbice processual. Precedentes.
+ ..
+(AgInt no AREsp n. 1.891.981/PE, relator MINISTRO OG FERNANDES, Segunda Turma, julgado em 2/8/2022, DJe de 10/8/2022.)
+Incide sobre o tema a Súmula nº 7 do STJ.
+Por oportuno, éde se ressaltar que esta Corte firmou o entendimento de não ser possívelo conhecimento do recurso especial interposto pela divergênciajurisprudencial, na hipótese em que o dissídio é apoiado em fatos e não nainterpretação da lei. Isso porque a Súmula nº 7 do STJ também se aplicaaos recursos especiais interpostos pela alínea cdo permissivoconstitucional.
+Nesse sentido, veja-se a jurisprudência:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. NEGÓCIOS JURÍDICOS BANCÁRIOS. CÉDULA RURAL. PIGNORATÍCIA. CUMPRIMENTO DE SENTENÇA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. CÁLCULOS. CRITÉRIOS. REEXAME DE PROVAS. NECESSIDADE. SÚMULAS NºS 5 E 7/STJ. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 282/STF. DIVERGÊNCIA NÃO DEMONSTRADA. SIMILITUDE FÁTICA. AUSÊNCIA.
+ ..
+5. A demonstração do dissídio jurisprudencial pressupõe a ocorrência de similitude fática entre o acórdão atacado e os paradigmas.
+6. A jurisprudência do Superior Tribunal de Justiça entende que a necessidade do reexame da matéria fática impede a admissão do recurso especial tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+7. Agravo interno não provido.
+(AgInt no AREsp n. 1.811.595/RS, relator MINISTRO RICARDO VILLAS BÔAS CUEVA, Terceira Turma, julgado em 8/8/2022, DJe de 15/8/2022.)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. ACÓRDÃO RECORRIDO. OMISSÃO. AUSÊNCIA. FUNDAMENTOS DO ACÓRDÃO. NÃO IMPUGNAÇÃO. INCIDÊNCIA DA SÚMULA 283/STF. REEXAME FÁTICO DOS AUTOS. IMPOSSIBILIDADE. SÚMULAS N. 5 E 7/STJ. DISSÍDIO JURISPRUDENCIAL. SIMILITUDE FÁTICA. AUSÊNCIA. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+4. Dissídio jurisprudencial não comprovado, ante a incidência da Súmula 7/STJ e a ausência de demonstração da similitude fática entre os acórdãos confrontados.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.961.648/PR, relatora MINISTRA MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 8/8/2022, DJe de 12/8/2022.)
+No caso em comento, o TJSP, em sede de apelação,adotou os fundamentos da sentença de 1º Grau queapontou a falta de indicação de qualquer dano efetivoque a ora recorrente tenha sofrido.
+Confira-se parte da sentença adotada pelo Tribunal local:
+Como dito, a própria inicial descreve diversas medidas preventivas tomadas pela Municipalidade e órgãos de segurança, fato que foi notório e de ciência da própria subscritora que estava na região na ocasião dos fatos (artigo 375 do CPC) e, observando todas as recomendações, nada sofreu. E, nos autos, não há sequer a descrição na inicial de forma detalhada e expressa como necessário de ocorrências médicas graves (internações, por exemplo) aptas a configurar danos maiores do que aqueles assimiláveis por qualquer cidadão comum.
+ ..
+E, assim, embora alegue incômodo, os fatos não poderiam ser considerados como uma dor com intensidade suficiente para ensejar o reconhecimento da dor moral indenizável, notadamente porque não houve qualquer outra circunstância apta a ensejar danos de maior monta à honra objetiva ou subjetiva da parte autora. Apenas deve ser relacionado como dano moral a dor, o vexame, o sofrimento e a humilhação INTENSOS e DURADOUROS que, fugindo à normalidade do cotidiano, causem aflições, angústias ou notórios desequilíbrios ao bem estar do indivíduo.(e-STJ, fls. 1.122/1.123)
+Dessa forma, rever a conclusão a que chegou o TJSPdemandaria novaincursão no arcabouço fático-probatório carreado aos autos, procedimentosabidamente inviável na instância especial, pois vedado pela Súmula nº 7desta Corte.
+Nessas condições, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+MAJOROem 5% o valor dos honorários advocatícios anteriormente fixados emfavor de LOCALFRIO, limitados a 20%, nos termos do art. 85, § 11, do NCPC.
+Por oportuno, previnoque a interposição de recurso contraesta decisão, se declarado manifestamente inadmissível, protelatório ouimprocedente, poderá acarretar condenação às penalidades fixadas nos arts.1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE REPARAÇÃO DE DANOS. INCÊNDIO.NEGATIVA DE PRESTAÇÃO JURISDICIONAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIADASÚMULA Nº 284 DO STF, POR ANALOGIA. CERCEAMENTO DE DEFESA. LIVRE CONVENCIMENTO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULANº 7 DO STJ. DANOS MORAIS NÃO CONFIGURADOS. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA Nº 7 DO STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO ANTE A INCIDÊNCIA DE ÓBICE SUMULAR. AGRAVO CONHECIDO.RECURSO ESPECIAL NÃO CONHECIDO.
