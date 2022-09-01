@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo regimental interposto por Thiago Augusto Medeiros do Espírito Santocontra a decisão que deu parcial provimento ao recurso especial manejado pelo Ministério Público de São Paulo (fls. 275/278):
+RECURSO ESPECIAL. PROCESSUAL PENAL. LEGISLAÇÃO EXTRAVAGANTE. TRÁFICO DE DROGAS (228,67 G DE MACONHA). DISSÍDIO JURISPRUDENCIAL E VIOLAÇÃO DOS ARTS. 301 E 303, AMBOS DO CPP. ALEGAÇÃO DE LICITUDE DAS PROVAS. ATUAÇÃO DE GUARDAS MUNICIPAIS. LEGALIDADE. JURISPRUDÊNCIA DO STJ. PREVALÊNCIA DO VOTO-VENCIDO DA APELAÇÃO CRIMINAL QUE SE IMPÕE. RESTABELECIMENTO DA SENTENÇA CONDENATÓRIA. INVIABILIDADE, SOB PENA DE SUPRESSÃO DE INSTÂNCIA. DETERMINADO O RETORNO DOS AUTOS PARA ANÁLISE DAS DEMAIS TESES DEFENSIVAS CONSTANTES DO RECURSO DE APELAÇÃO.
+Recurso especial parcialmente provido nos termos do dispositivo.
+O agravante diz que não desconhece, de fato, a jurisprudência desse C. STJ no sentido de que a prisão em flagrante pode ser realizada por Guardas Civis Metropolitanos, ou por qualquer do povo, não havendo nulidade nesse aspecto.  ..  Porém, no presente caso, a apreensão da droga não decorreu de flagrante, mas, somente após diligência e abordagem realizadas pela Guarda Civil Municipal (fl. 284).
+Assevera, no ponto, que os Guardas Civis estavam ajudando a equipe de limpeza urbana e faziam abordagem de diversas pessoas. E que, somente após tais abordagens, o recorrido teria fugido e dispensado a droga apreendida.  ..  Ou seja, não houve flagrante de tráfico anterior que justificasse a ação dos guardas, pois, a droga foi encontrada apenas após abordagem.  ..  Antes da abordagem e revista, não havia qualquer situação que indicasse flagrância de tráfico de drogas.  ..  Logo, a apreensão da droga não decorreu de flagrante, mas, de verdadeiras diligências realizadas - abordagem e revista pessoal por guardas civis que, todavia, não possuem essa função, conforme clara disposição do art. 144, § 8º da CF.  ..  As diligências levadas a cabo, todavia, absolutamente ilegais e inconstitucionais por afronta ao art. 144, § 8º, CF, acabaram por condenar o recorrido por tráfico de drogas (fl. 285).
+Ao final da peça recursal, requer o agravante seja reconsiderada a r. decisão monocrática de fls., ou provido o presente Agravo Regimental e, consequentemente, improvido o recurso ministerial em sua integralidade (fl. 287).
+Foi dispensada a oitiva da parte agravada.
+Em petição subsequente, foi juntado pedido de desistência (fl. 297).
+É o relatório.
+É o caso de atender o pedido subsidiário e homologar a desistência do agravo regimental interposto, pois não há dúvida de que o causídico detém plenos poderes para atuar na defesa do agravante, inclusive para desistir do recurso já interposto.
+Ante o exposto, homologo o pedido de desistência do agravo regimental.
+Por conta do quanto homologado, providencie a Coordenadoria da Sexta Turma a retirada de pauta deste feito da Sessão de julgamento do dia 13/9/2022.
+Publique-se.
