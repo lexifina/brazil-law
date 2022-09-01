@@ -1,0 +1,36 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por DEUSARINA DE JESUS TRAVASSOS PINTO, contra decisão interlocutória que negou seguimento a recurso especial, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 22/03/2022.
+Concluso ao gabinete em: 17/06/2022.
+Ação: de cobrança c/c dano moral, ajuizada pela agravante, em face de SULAMÉRICA COMPANHIA NACIONAL DE SEGUROS, em razão de indevida negativa de pagamento de indenização securitária decorrente de acidente de veículo automotor.
+Sentença: julgou procedentes os pedidos, para condenar a agravada ao pagamento da indenização securitária contratada, declarar a inexistência de débito pela estadia do veículo nas dependências da empresa, além de condenar a agravada ao pagamento de R$ 10.000,00 a título de compensação por danos morais.
+Acórdão: deu provimento à apelação interposta pela agravada, para declarar a improcedência dos pedidos, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. CONSUMIDOR. SEGURO DE VEÍCULO. SINISTRO. RECUSADO PAGAMENTO DO VALOR SEGURADO. PROVA TÉCNICA EM SEDE POLICIAL. CONDUTOR DO VEÍCULO QUE AO DIRIGIR COM A FALTA DE ATENÇÃO E CAUTELA NECESSÁRIA PERDEU O CONTROLE DO AUTOMÓVEL, CAUSANDO O ACIDENTE QUE ACARRETOU A PERDA TOTAL DO BEM. BOLETIM DE ATENDIMENTO MÉDICO. MOTORISTA QUE SE ENCONTRAVA SOB O EFEITO DE ÁLCOOL. PROVA QUE NÃO FOI DESCONSTITUÍDA. INGESTÃO DE BEBIDA ALCOÓLICA. REDUÇÃO DA CAPACIDADE PSICOMOTORA. SUBSTANCIA QUE CONTRIBUI PARA A FALTA DE ATENÇÃO E CAUTELA DO CONDUTOR DO VEÍCULO. AGRAVAMENTO DE FORMA INTENCIONAL DO RISCO. PRESENÇA DOS ELEMENTOS QUE JUSTIFICAM A RECUSA DO PAGAMENTO DO VALOR SEGURADO. PRECEDENTES. IMPROCEDÊNCIA DO PEDIDO.
+PROVIMENTO DO RECURSO DE APELAÇÃO.
+Embargos de declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: alega violação do art. 1.022, II, do CPC/15 e do art. 768 do CC/02.
+Afirma haver omissão quantoao art. 768 do CC/02, relativo ao agravamento intencional do risco.
+Sustenta que a culpa exclusiva do condutor do seu veículo na ocorrência do sinistro, por dirigir embriagado, não seria causa da perda do direito à indenização, por não caracterizar agravamento do risco imputável à sua conduta.
+É O RELATÓRIO. DECIDO.
+- Da violação do art. 1.022 do CPC/15
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese, soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte. A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente, acerca da questão relativa ao agravamento intencional do risco (e-STJ fl. 311/315), de maneira que os embargos de declaração opostos pela agravante de fato não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC/2015, incidindo, quanto ao ponto, a Súmula 568/STJ.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere à conclusão de que a agravada não poderia ser compelida ao pagamento do valor segurado, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+- Da Súmula 568/STJ
+Ademais, as duas Turmas de Direito Privado do STJ entendem que a perda da garantia securitária deve se dar quando "demonstrado que o condutor estava sob os efeitos do álcool durante a dinâmica do acidente de trânsito, não importando se a direção estava sob a responsabilidade do próprio segurado (ato doloso) ou de terceiro a quem ele confiou (culpa grave), ainda mais se este for preposto ou integrante da entidade familiar, salvo prova em contrário de que o sinistro ocorreria sem a influência do estado de embriaguez" (AgInt no AREsp n. 1.039.613/SP, 3ª Turma, DJe de 29/10/2020).
+Ainda nesse sentido: AgInt no AREsp n. 1.534.052/ES, 3ª Turma, DJe de 20/2/2020; AgInt nos EDcl no REsp 1.602.690/PE, 4ª Turma, DJe 4/12/2018; AgInt no AREsp 1.326.226/RS, 4ª Turma, DJe 4/12/2018; e REsp n. 1.485.717/SP, 3ª Turma, DJe de 14/12/2016.
+Na hipótese, o Tribunal de origem concluiu que a seguradora agravada não poderia ser compelida ao pagamento do valor segurado, após consignar que o condutor do veículo, que seria neto da segurada agravante, teria causado o acidente ao dirigir sem a cautela necessária e sob efeito de bebida alcoólica, de modo que teria agravado intencionalmente o risco objeto do contrato, e que a agravante não poderia se furtar ao seu ônus, por ter confiado em terceiro que não honrou com o compromisso de dirigir em conformidade com o estabelecido nas cláusulas contratuais. Além disso, destacou que não restou comprovado que o acidente ocorreria mesmo que o condutor não estivesse embriagado (e-STJ, fls. 311/317).
+Diante da consonância com o entendimento dominante sobre o tema nesta Corte, aplica-se a Súmula 568/STJ no particular.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC/15, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 10% do valor da causa (e-STJ, fls. 317) para 15%.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA C/C DANO MORAL. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA 568/STJ. HONORÁRIOS DE SUCUMBÊNCIA RECURSAL. MAJORAÇÃO.
+1. Ação de cobrança c/c dano moral, ajuizada em razão de indevida negativa de pagamento de indenização securitária decorrente de acidente de veículo automotor.
+2. Ausentes os vícios do art. 1.022 do CPC/15, rejeitam-se os embargos de declaração.
+3. O reexame de fatos e provas em recurso especial é inadmissível.
+4. A perda da garantia securitária deve se dar quando demonstrado que o condutor estava sob os efeitos do álcool durante a dinâmica do acidente de trânsito, não importando se a direção estava sob a responsabilidade do próprio segurado (ato doloso) ou de terceiro a quem ele confiou (culpa grave), ainda mais se este for preposto ou integrante da entidade familiar, salvo prova em contrário de que o sinistro ocorreria sem a influência do estado de embriaguez. Precedentes. Ante o entendimento do tema nesta Corte Superior, aplica-se, no particular, a Súmula 568/STJ.
+5. Agravo em recurso especial conhecido. Recurso especial parcialmente conhecido e, nesta parte, não provido, com majoração de honorários.
