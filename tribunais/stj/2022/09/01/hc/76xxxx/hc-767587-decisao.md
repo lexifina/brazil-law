@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido liminar, impetrado em favor de LORRAYNE SILVA DE OLIVEIRA contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que a paciente foi presa em flagrante, em 13/4/2022em razão de suposto cometimento do delito previsto no art. 155, § 4º, do Código Penal. Em audiência de custódia, lhe foi concedida a prisão domiciliar (e-STJ fl. 22/25).
+A denúncia foi recebida pelo juízo de primeiro grau, ocasião em que foi determinada a citação da paciente. Após infrutíferas tentativas de localização da paciente,o Ministério Público pugnou pela revogação da prisão domiciliar, sendo decretada sua prisão preventiva, por ter descumprido as condições estabelecidas em audiência de custódia (e-STJ fls. 33/34).
+Inconformada, a defesa impetrouhabeas corpusperante o Tribunal local, tendo a ordem sido denegada, nos seguintes termos (e-STJ fls. 65/73):
+HABEAS CORPUS - Furto qualificado - Revogação da prisão preventiva - Impossibilidade - Descumprimento de medida cautelar imposta - Ré não localizada para a citação pessoal - Presença de pressupostos legais que autorizam a manutenção da paciente no cárcere - Despacho suficientemente fundamentado - Insuficiência de imposição de medidas cautelares diversas da prisão - Ordem denegada.
+A sentença foi proferida pelo juízo de primeiro grau, tendo a paciente sido condenada como incursa no art. 155, § 4º, inciso IV, do Código Penal, à pena de 3 anos de reclusão, em regime inicial semiaberto, bem como ao pagamento de 15 dias-multa, vedado o direito de recorrer em liberdade (e-STJ fls. 74/84).
+Irresignada, a defesa alega que impetrouhabeas corpusse insurgindo quanto à negativa do direito de recorrer em liberdade, tendo o Tribunal local denegado a ordem (e-STJ fl. 6)
+No presentewrit(e-STJ fls. 3/9), o impetrante alega que a paciente está sofrendo constrangimento ilegal, em razão da manutenção da prisão preventiva. Alega, em síntese, que, tendo em vista que a paciente se encontra presa por 4 meses, ao final do julgamento de seu recurso de apelação, já terá cumprido toda sua pena.
+Diante disso, requer, em liminar e no mérito, a revogação da prisão preventiva, com a expedição do respectivo alvará de soltura, e, subsidiariamente, a aplicação de medidas cautelares previstas no art. 319 do CPP.
+É o relatório. Decido.
+O writ não comporta conhecimento.
+Isso porque o habeas corpus não foi devidamente instruído, uma vez que uma vez que não foi colacionada peça processual indispensável à compreensão da tese levantada na inicial, qual seja, cópiado acórdão proferido pelo Tribunal de origem que denegou a ordem requerida para conceder àpaciente o direito derecorrerem liberdade o julgamento da apelação.
+Ora, "a jurisprudência do Supremo Tribunal Federal é firme no sentido de inadmitir o conhecimento de habeas corpus, não instruídos os autos com peça necessária à confirmação da efetiva ocorrência do constrangimento ilegal" (AgRg no HC n. 168.676/BA, Relatora Ministra ROSA WEBER, Primeira Turma, julgado em 29/11/2019, DJe 11/12/2019).
+No mesmo sentido, esta Corte assentou que "em sede de habeas corpus, a prova deve ser pré-constituída e incontroversa, cabendo ao impetrante apresentar documentos suficientes à análise de eventual ilegalidade flagrante no ato atacado" (AgRg no HC n. 549.417/SC, Rel. Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 10/12/2019, DJe 17/12/2019).
+Ante o exposto, com base no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o habeas corpus.
+Intime-se.
