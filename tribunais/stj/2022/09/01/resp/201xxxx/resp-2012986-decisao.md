@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial interposto por MAURA SOUZA LIMA PAIAS E OUTROS com fundamento na alínea "a" do permissivo constitucional em face de acórdão proferido pelo Eg. Tribunal de Justiça do Estado do Paraná, assim ementado (e-STJ Fl. 1.272):
+" APELAÇÃO CÍVEL - RESPONSABILIDADE SECURITÁRIA - SEGURO OBRIGATÓRIO FIRMADO POR FORÇA DE CONTRATO DE MÚTUO HABITACIONAL - ILEGITIMIDADE PASSIVA DA RÉ RECONHECIDA - COMPANHIA EXCELSIOR DE SEGUROS RESPONSÁVEL PELOS CONTRATOS DOS AUTORES - HONORÁRIOS RECURSAIS - CABIMENTO.
+RECURSO DE APELAÇÃO DESPROVIDO.
+Tendo a seguradora logrado êxito em demonstrar que não possui qualquer vínculo com o seguro pactuado nos presentes autos, deve ser reconhecida sua ilegitimidade passiva "ad causam".
+Opostos embargos de declaração, foram rejeitados às fls. 1.342/1.344.
+Nas razões do recurso especial, o recorrente alega ofensa aos arts. 371, 1.026, §2º do CPC/15. Para tanto, sustenta, em síntese, que: (i) deve ser afastada a multa arbitrada em razão da oposição de embargos de declaração, uma vez que foram opostos de maneira fundamentada, com o fim de prequestionamento; (ii) "o único meio de prova possível para comprovar à qual apólice estão vinculados os mutuários é o contrato originário de financiamento, o qual, conforme a inversão do ônus da prova prevista no Código de Defesa do Consumidor, é dever da Recorrida apresentar" - (fl. 1.356); (iii) "os mutuários, ao assinarem seus contratos de financiamentos, nos quais, constava a cláusula contratando o seguro habitacional, não tinham qualquer informação sobre quem era a seguradora responsável pela sua apólice ou, ao menos, se essa tinha, ou não, sido excluída de sua posição como seguradora líder, tendo ciência, apenas, por meio da apólice, quais eram as seguradoras líderes naquele momento" - (fl. 1.360).
+É o relatório. Decido.
+Quanto à legitimidade, a Corte de origem consignou que "deveriam os requerentes confirmar junto ao agente financeiro qual a seguradora responsável por seus contratos, já que este pacto é firmado de forma individual e exclusiva, não competindo à seguradora demonstrar sua ilegitimidade" - (fl. 1.274).
+Nesse contexto, a modificação de tal entendimento lançado no v. acórdão para aferir a existência ou não de vínculo da seguradora com o seguro pactuado nos autos recorrido demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório. Em reforço:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO SECURITÁRIA. ILEGITIMIDADE PASSIVA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. DECISÃO MANTIDA.
+1. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos e interpretação de cláusulas contratuais (Súmulas n. 5 e 7 do STJ).
+2. No caso concreto, o Tribunal de origem, a partir do exame dos elementos de prova e da interpretação das cláusulas contratuais, concluiu que a recorrente não demonstrou o vínculo da apólice dos recorridos com outra seguradora. Entender de modo contrário implicaria reexame de matéria fática e interpretação do ajuste celebrado, o que é vedado em recurso especial.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.299.412/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 4/10/2018, DJe de 16/10/2018.)
+Por sua vez, assiste razão à parte recorrente quanto ao pleito de afastamento da multa prevista no artigo 1.026, §2º do CPC.
+Nos termos da jurisprudência desta Corte, a condenação à penalidade prevista no parágrafo único do art. 1.026, § 2º, do CPC exige que os embargos aclaratórios sejam reputados, fundamentadamente, "manifestamente protelatórios". Por sua vez, quando opostos com o intuito de prequestionamento, nos termos da Súmula 98/STJ, não se evidencia o caráter protelatório. Nesse sentido:
+"PROCESSUAL CIVIL. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. RECURSO PROTELATÓRIO. MULTA. CABIMENTO.
+1. Não se configura ofensa ao art. 1.022 do CPC/2015 quando o Tribunal de origem aprecia integralmente a controvérsia, apontando as razões de seu convencimento, mesmo que em sentido contrário ao postulado, circunstância que não se confunde com negativa ou ausência de prestação jurisdicional.
+2. O art. 1.026, § 2º, do CPC/2015 permite a aplicação de multa não excedente a dois por cento do valor atualizado da causa quando interpostos embargos de declaração reputados, fundamentadamente, manifestamente protelatórios.
+3. Hipótese em que a parte opôs embargos declaratórios consecutivos, em que foram trazidos aspectos já examinados anteriormente no acórdão impugnado, o que torna claro seu caráter manifestamente protelatório, cabendo ressaltar que não evidenciado neles (aclaratórios) o propósito de prequestionamento, motivo por que inaplicável ao caso o enunciado da Súmula 98 do STJ.
+4. Agravo interno desprovido."
+(AgInt no AREsp n. 1.517.347/RJ, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 27/6/2022, DJe de 1/7/2022, g.n.)
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO, ERRO MATERIAL OU OBSCURIDADE. AUSÊNCIA. MULTA POR EMBARGOS PROTELATÓRIOS. NÃO INCIDÊNCIA.
+1. Os embargos de declaração constituem-se em recurso de natureza integrativa destinado a sanar vício - obscuridade, contradição, omissão ou erro material -, não podendo, portanto, serem acolhidos quando a parte embargante pretende, exclusivamente, reformar o decidido.
+2. Não incide a multa do art. 1.026, § 2º, do CPC/15 quando não se caracteriza o intento protelatório na interposição dos embargos de declaração.
+3. Embargos de declaração rejeitados."
+(EDcl no AgInt no AREsp n. 1.828.757/PE, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 14/3/2022, DJe de 18/3/2022, g.n.)
+No presente caso, não restou evidenciado o caráter protelatório dos únicos embargos, que foram opostos com o intuito de prequestionamento, de modo que deve ser afastada a multa aplicada na origem.
+Diante do exposto, nos termos do art. 255, § 4º, III, do RISTJ, dou parcial provimento ao recurso especial para afastar a multa prevista no artigo 1.026, §2º do CPC/15.
+Publique-se.
