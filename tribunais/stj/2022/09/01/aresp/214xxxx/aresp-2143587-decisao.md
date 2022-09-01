@@ -1,0 +1,15 @@
+DECISÃO
+Cuida-se de agravo em recurso especial, interposto por CONDOMÍNIO DO EDIFÍCIO CAP FERRAT, contra decisão que negou seguimento ao recurso especial, fundado na alínea a do inciso III do art. 105 da Constituição Federal, em desafio a acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, assim ementado (e-STJ, fl. 38):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO POR TÍTULO EXECUTIVO EXTRAJUDICIAL. COTAS CONDOMINIAIS. DÍVIDA OBJETO DE ACORDO JUDICIAL NÃO CUMPRIDO. Trata-se, na origem, de execução de título executivo extrajudicial, na qual o condomínio autor busca o adimplemento de dívida referente a cotas condominiais vencidas e não pagas. Realizado acordo entre as partes, homologado por sentença, transformou-se o título extrajudicial em judicial, pelo que, diante do inadimplemento do pactuado, buscou o credor a satisfação do seu crédito por meio de cumprimento de sentença. Inércia do devedor que deu origem a penhora do imóvel objeto da execução. Somente após a indicação de leiloeiro para realização da hasta pública, apresentou o devedor requerimento de parcelamento do débito, que restou deferido, apesar da manifestação expressa de discordância do credor, dando origem ao presente agravo de instrumento. Entendimento do STJ de que cabível o requerimento de parcelamento do débito oriundo de título executivo judicial, na forma do artigo 916 do CPC, em sede de cumprimento de sentença. Não obstante seja direito do credor aceitar o pagamento de forma parcelada, verifica-se que já foram pagas quatro das seis parcelas da dívida, conforme determinado pela decisão agravada. Manutenção da decisão que se impõe, a fim de se observarem os princípios da celeridade, economia processual e execução menos gravosa. RECURSO DESPROVIDO.
+Opostos embargos de declaração, esses foram rejeitados (e-STJ, fls. 60-64).
+Nas razões do especial (e-STJ, fls. 66-72), a parte recorrente sustentou violação art. 916 do CPC/15, alegando a impossibilidade de se deferir o parcelamento requerido, pois, além de não se aplicar na execução fundada em título judicial, deve ser realizado no prazo para a apresentação dos embargos à execução, o que não foi observado.
+Oferecidas contrarrazões às fls. 81-93 (e-STJ).
+Em sede de juízo provisório de admissibilidade, o Tribunal local negou seguimento ao recurso especial (fls. 95-99, e-STJ), o que ensejou o manejo do presente agravo (fls. 111-118, e-STJ), buscando destrancar o processamento daquela insurgência.
+Contraminuta às fls. 121-136 (e-STJ).
+É o relatório.
+Decide-se.
+Atendidos os pressupostos de admissibilidade do agravo.
+1.Da análise do recurso especial, constata-se a relevância das razões deduzidas, o que autoriza a reautuação dos autos, nos termos do artigo 34, inciso XVI, do RISTJ,sem prejuízo do ulterior juízo definitivo de admissibilidade acerca do apelo extremo.
+2.Do exposto, dá-se provimento ao agravo para determinar a reautuação dos autos como recurso especial para melhor exame da controvérsia, com sua oportuna inclusão inclusão na pauta de julgamentos da Quarta Turma.
+Publique-se.
+Intimem-se.
