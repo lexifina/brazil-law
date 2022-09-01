@@ -1,0 +1,26 @@
+DECISÃO
+Vistos etc.
+OI S.A - EM RECUPERAÇÃO JUDICIAL - interpõe recurso especial, forte na alínea "a" do permissivo constitucional, em face do acórdão oriundo do Tribunal de Justiça do Estado do Rio Grande do Sul, exarado no curso do feito em que contende com ALZEMIRO SPANIOL, cuja ementa transcreve-se:
+AGRAVO DE INSTRUMENTO. CONTRATOS DE PARTICIPAÇÃO FINANCEIRA. CUMPRIMENTO DE SENTENÇA. RESERVA DEHONORÁRIOS CONTRATUAIS. CERTIDÃO DE CRÉDITO. POSSIBILIDADE. 1. O titular dos honorários advocatícios contratuais é o advogado que prestou os serviços profissionais ao seu cliente constituinte, na esteira do art. 22, caput, da Lei nº 8.906/94. 2. O Estatuto da Advocacia deixou claro -e indiscutível -nos seus artigos 22 e 23, que a verba honorária pertence ao advogado e a ninguém mais, isso sem contar a natureza alimentar da verba honorária advocatícia, reconhecida tanto pelo STF como pelo STJ.3. Dessa forma, não há razão legal para obstar a expedição de certidão de crédito referente aos honorários contratuais reservados nos autos, diante do seu caráter alimentar e da previsão constante no art. 22, § 4º, da Lei n. 8.906/94. AGRAVO DE INSTRUMENTO DESPROVIDO.
+Opostos embargos de declaração, foram desacolhidos.
+Em suas razões, sustenta o recorrente a existência de negativa de prestação jurisdicional, em violação ao art. 1.022 do CPC. Aduz que apontou em seu recurso que a recorrida não poderia habilitar honorários contratuais no juízo recuperacional, pois se trata de verba devida pelo credor ao seu procurador, diante do contrato entre eles ajustado, não se tratando de verba sucumbencial devida pela Companhia executada. Discorre sobre a diferença entre os honorários sucumbenciais e os honorários contratuais. Afirma que os honorários contratuais são devidos apenas pela parte autora, não devendo a recuperanda arcar com esse débito. Invoca o disposto no art. 22, §4º da Lei 8.906/94. Refere não ser caso de expedição de mandado de pagamento ou precatório, sendo portanto inaplicável referido comando legal. Requer o provimento do recurso.
+Não foram apresentadas contrarrazões.
+O recurso foi admitido pela Presidência da Corte de origem.
+É o relatório.
+Decido.
+A pretensão recursal consiste em ver afastada a ordem de reserva dos honorários contratuaisem prol do advogado da parte autora recorrida, determinada pelo juízo singular no curso do cumprimento de sentença em ação de subscrição de ações da companhia telefônica.
+Referida reserva de honorários foi determinada em prol do advogado da parte autoracom base no art. 22, §4º da Lei 8.906/94, que assim dispõe:
+Art. 22 A prestação de serviço profissional assegura aos inscritos na OAB o direito aos honorários convencionados, aos fixados por arbitramento judicial e aos de sucumbência.(..)
+§ 4º o advogado fizer juntar aos autos o seu contrato de honorários antes de expedir-se o mandado de levantamento ou precatório, o juiz deve determinar que lhe sejam pagos diretamente, por dedução da quantia a ser recebida pelo constituinte, salvo se este provar que já os pagou.
+Contudo, apontou o recorrente, tanto em seu recurso de agravo de instrumento quanto nos embargos de declaração opostos em face do acórdão, que a verba que estava sendo equivocadamente reservadaera aquela pertencente aos advogados da outra parte - parte autora - em relação a quema OI não havia firmado qualquer contrato de prestação de serviços advocatícios, faltando portanto opressuposto lógico e jurídico para a reserva de honorários contratuais.
+De fato, ao que se verifica da questão de fundo, indicia-se que não há comose reservar honorários contratuais em prol do advogado da parte autora e atribuí-los à ré OI, à qualsó poderia ser imposto o ônus de reservar os honorários contratuais do seu própriocausídico por si contratado, e não o contratado pela parte adversa.
+Este argumento, relevante eimprescindívelao deslinde da controvérsia, não foi analisado pela Corte de origem, em razão do que se afiguraefetivamente omisso o acórdão no ponto, à luz do art. 1.022 do CPC.
+Com razão o recorrente, portanto, ao apontar negativa de prestação jurisdicional na espécie, devendo os autos retornar ao juízo de origem, para que outro julgamento seja proferido, observada a questão sobre qual não houve manifestação específica.
+Ante o exposto, DOU PROVIMENTO ao recurso especial, reconhecendo a omissão no acórdão, para que outro seja proferido, com manifestação acerca do ponto apontado pela recorrente.
+Intimem-se.
+EMENTA
+RECURSO ESPECIAL. SUBSCRIÇÃO DE AÇÕES. HONORÁRIOS ADVOCATÍCIOS CONTRATUAIS. RESERVA EM PROL DO ADVOGADO QUE NÃO CONTRATOU COM A RÉ. OMISSÃO.
+1. O acórdão recorrido desproveu o agravo de instrumento interposto pela ré, mantendo a ordem de reserva de honorários contratuais em prol do advogado da parte autora, com quem a ré não possui relação jurídica contratual de prestação de serviços advocatícios.
+2. Inexistente, portanto, aparentemente, fundamento jurídico hábil a justificar a ordem de reserva, uma vez queo contrato prevendo honorários advocatícios foi firmado entre a parte autora e seu causídico, e não entre aquele e a empresa ré. Ausente opressuposto contido no art. 22, §4º da Lei 8.906/94 para a reserva.
+2. Omissão relevante constatada, com a necessidade de integração do decisum na origem. Art. 1.022 do CPC.
+3. RECURSO ESPECIAL PROVIDO.
