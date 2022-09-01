@@ -1,0 +1,42 @@
+DECISÃO
+Cuida-se de agravo (artigo 1.042, CPC/15), interposto por Rubem Vogt de Oliveira eMarli Dilce Mrás, em face de decisão que não admitiu recurso especial.
+O apelo nobre (art. 105, III, alíneas "a" e "c", CF) desafiou acórdão proferido pelo Tribunal de Justiça do Rio Grande do Sul, assim ementado (fl. 175, e-STJ):
+APELAÇÃO CÍVEL. HONORÁRIOS DE PROFISSIONAIS LIBERAIS. CONTRATO DE PRESTAÇÃO DE SERVIÇOS ADVOCATÍCIOS. COBRANÇA DE HONORÁRIOS. PRESCRIÇÃO QUINQUENAL. TERMOINICIAL. TRÂNSITO EM JULGADO. AUSÊNCIA DE PROVA DE CAUSASUSPENSIVA OU INTERRUPTIVA DO PRAZO. ÔNUS DA PROVADA PARTE AUTORA. PRESCRIÇÃO RECONHECIDA. SENTENÇAMANTIDA. A prescrição para o ajuizamento de ação de cobrança de honorários é quinqüenal etem seu termo inicial contabilizado da data do encerramento do mandato outorgadoque, no caso concreto, coincide com a data do trânsito em julgado da decisãoproferida nos autos do processo no qual foram prestados os serviços advocatícios. Era ônus da parte autora comprovar a alegada causa interruptiva e/ou suspensiva dacontagem do prazo prescricional. Ainda, ausente comprovação de diligênciasextrajudiciais para formalizar a averbação da usucapião na matrícula do imóvel,tampouco de que as partes teriam ajustado o pagamento dos honoráriosapós concretizada a referida averbação. Considerando a data do trânsito em julgado e o ajuizamento da presente ação, impõe-se manter a sentença que reconheceu a prescrição da pretensão da parte autora. RECURSO DE APELAÇÃO DESPROVIDO.
+Nas razões do recurso especial (fls. 191/202, e-STJ), os agravantes apontam, além de dissídio jurisprudencial, ofensa aos artigos206, § 5º, II, do CC e 25 da Lei 8.906/94, sustentando que omarco inicial da contagem do prazo prescricional para a cobrança dos honorários contratuais deve ser a data em que foi concluído o serviço.
+Contrarrazões às fls. 209/218, e-STJ.
+Em juízo de admissibilidade, o Tribunal de origem negou seguimento ao reclamo (fls. 221/224, e-STJ), dando ensejo ao presente agravo (fls. 234/241, e-STJ), por meio do qual os agravantes pretendem a reforma da decisão impugnada e o processamento do apelo.
+Contraminuta às fls. 247/254, e-STJ.
+É o relatório.
+Decido.
+A pretensão não merece acolhimento.
+1. Nos termos da jurisprudência do STJ, "O prazo prescricional para exercício da pretensão de arbitramento e cobrança de honorários advocatícios é de 5 (cinco) anos, contados do encerramento da prestação do serviço (trânsito em julgado da decisão final, último ato praticado no processo, ou revogação do mandato)" (REsp n. 1748404/SP, Relator Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 11/12/2018, DJe 19/12/2018).
+Relevante, ainda, a menção aos seguintes precedentes:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE COBRANÇA DE HONORÁRIOS ADVOCATÍCIOS. INEXISTÊNCIA DE OFENSA AOS ARTS. 489 E 1.022 DO CPC/2015. ACÓRDÃO ESTADUAL DEVIDAMENTE FUNDAMENTADO. PRESCRIÇÃO. TERMO INICIAL DA CONTAGEM DO PRAZO. PRETENSÃO DE REEXAME E REINTERPRETAÇÃO DE CLÁUSULA CONTRATUAL E DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. INCIDÊNCIA DAS SÚMULAS 5 E 7, AMBAS DO STJ. ACÓRDÃO ESTADUAL EM SINTONIA COM JURISPRUDÊNCIA DO STJ. SÚMULA 83/STJ. AGRAVO DESPROVIDO.
+1. Não constitui ofensa aos arts. 489, § 1º, IV, e 1.022, II, do CPC/2015 o fato de o Tribunal de origem, embora sem examinar individualmente cada um dos argumentos suscitados pelo recorrente, adotar fundamentação contrária à pretensão da parte, suficiente para decidir integralmente a controvérsia.
+2. "A contagem do prazo prescricional a que se refere o artigo 25, inciso V, da Lei nº 8.906/1994 se inicia na data em que ocorre a ciência da renúncia ou revogação do mandato ou o término da prestação dos serviços" (AgInt no AREsp 1.398.468/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 14/05/2019, DJe de 23/05/2019).
+3. Estando o acórdão estadual em consonância com a jurisprudência do STJ, o apelo nobre encontra óbice na Súmula 83/STJ, a qual é aplicável ao recurso especial tanto pela alínea a como pela alínea c do permissivo constitucional.
+4. Agravo interno desprovido.
+(AgInt no REsp n. 1.702.880/RS, relator Ministro Raul Araújo, Quarta Turma, julgado em 21/2/2022, DJe de 10/3/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSO CIVIL. HONORÁRIOS ADVOCATÍCIOS. ARBITRAMENTO. COBRANÇA. PRESCRIÇÃO. PRAZO. CONTAGEM. EFETIVA FINALIZAÇÃO DA ATUAÇÃO. DIES A QUO. ARTS. 25 DA LEI N. 8.906/1994.
+1. A contagem do prazo prescricional a que se refere o artigo 25, inciso V, da Lei nº 8.906/1994 se inicia na data em que ocorre a ciência da renúncia ou revogação do mandato ou o término da prestação dos serviços.
+2. Agravo interno não provido.
+(AgInt no AREsp n. 1.398.468/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 14/5/2019, DJe de 23/5/2019.)
+No presente caso, o Tribunal de origem concluiu que a pretensão de cobrança dos honorários estava prescrita, in verbis (fl. 173, e-STJ):
+Portanto, deve ser averiguada a data de encerramento da prestação do serviço, comtermo inicial do trânsito em julgado da decisão definitiva. Desimporta, assim, a data em que houve a transmissão da propriedade do imóvel ao apelado - com o registro da sentença no álbum imobiliário. Do mesmo modo, mero peticionamente na ação de usucapião - ulterior ao trânsito em julgado - nãotem o condão de suspender e/ou interromper o termo inicial do prazo prescricional. No caso em apreciação, verifica-se que a sentença de procedência da ação deusucapião transitou em julgado em 26.07.2013 (como se vê do Evento 34, OUT2 - p. 2). A partirdesta data, então, nasceu a pretensão dos autores de cobrar a verba honorária pactuada, iniciando-seo transcurso do prazo prescricional. Dessa forma, quando ingressaram com a ação de cobrança - em 28.06.2019 (Evento1) - já havia transcorrido o prazo prescricional quinquenal para cobrarem a pretensão honorária.
+Nesse contexto, o acolhimento da pretensão recursal implicaria no reexame de todo o acervo fático e probatório dos autos, o que encontra óbice na Súmula 7 do STJ.
+Precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE ARBITRAMENTO E COBRANÇA DE HONORÁRIOS ADVOCATÍCIOS. PRESTAÇÃO DE SERVIÇOS EXTRAJUDICIAIS. PRESCRIÇÃO. REFORMA DO JULGADO DEMANDA REEXAME DE PROVAS. SÚMULA 7 DO STJ. HONORÁRIOS. COMPENSAÇÃO. VIGÊNCIA DO CPC/1973. POSSIBILIDADE. NÃO INCIDÊNCIA DO CPC/2015. AGRAVO INTERNO NÃO PROVIDO.
+1. O acórdão estadual reconheceu a ocorrência da prescrição para a cobrança dos honorários, amparado no contexto fático-probatórios dos autos. A reforma do acórdão estadual no tocante ao termo inicial da prescrição, demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, o que é vedado em sede de recurso especial. Incidência da Súmula 7 do STJ.
+2 Súmula 306 do STJ: "Os honorários advocatícios devem ser compensados quando houver sucumbência recíproca, assegurado o direito autônomo do advogado à execução do saldo sem excluir a legitimidade da própria parte."
+3. "O marco temporal para a aplicação das normas do CPC/2015 a respeito da fixação e distribuição dos ônus sucumbenciais é a data da prolação da sentença" (EDcl na MC 17.411/DF, Rel. Ministro BENEDITO GONÇALVES, CORTE ESPECIAL, DJe de 27/11/2017).
+4. Agravo interno não provido.
+(AgInt nos EDcl no AREsp n. 1.340.900/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 30/5/2019, DJe de 4/6/2019.)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. COBRANÇA DE HONORÁRIOS ADVOCATÍCIOS. PRESCRIÇÃO. REVOGAÇÃO TÁCITA DO MANDATO. INCIDÊNCIA DA SÚMULA Nº 7/STJ.
+1. Para prevalecer a pretensão em sentido contrário à conclusão do tribunal de origem, mister se faz a revisão do conjunto fático-probatório dos autos, procedimento vedado na estreita via do especial, consoante entendimento da Súmulas nº 7 desta Corte.
+2. Agravo regimental não provido.
+(AgRg no REsp n. 1.306.324/RR, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 18/8/2015, DJe de 25/8/2015.)
+Inafastável, portanto, o teor da Súmula 7 do STJ, cuja incidência prejudica a análise do apontado dissídio jurisprudencial.
+2. Do exposto, nega-se provimento ao recurso.
+Majora-se em 10% (dez por cento) o valor dos honorários sucumbenciais já fixados na origem em desfavor dosora agravantes, nos termos do artigo 85, § 11, do CPC, observado eventual deferimento de gratuidade de justiça.
+Publique-se.
+Intimem-se.
