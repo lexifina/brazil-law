@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial, ante a aplicação das Súmulas n. 284do STF e 7 do STJ(e-STJ fls. 527/533).
+O acórdão do Tribunal de origem está assim ementado (e-STJ fls. 349/350):
+APELAÇÃO CÍVEL. AÇÃO INDENIZATÓRIA. PROMESSA DE COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA. RESPONSABILIDADE DAS PROMITENTES-VENDEDORAS. LUCROS CESSANTES. CABIMENTO. DANO MORAL RECONHECIDO NA SENTENÇA. RECURSO DAS RÉS.
+1- Comprovado que a construtora atrasou a entrega do imóvel, ainda que por circunstâncias alheias a sua vontade, não se vê rompido o nexo causal que justifica o dever de reparação, uma vez que se trata de risco do negócio.
+2- Lucros cessantes. Decidiu o STJ que: "A tese a ser firmada, para efeito do art. 1.036 do CPC/2015, é a seguinte: A cláusula penal moratória tem a finalidade de indenizar pelo adimplemento tardio da obrigação, e, em regra, estabelecida em valor equivalente ao locativo, afasta-se sua cumulação com lucros cessantes."
+3- De tal entendimento se deflui que incabível a cumulação da verba indenizatória prefixada no contrato com o pedido de lucros cessantes.
+4- Dano moral caracterizado, notadamente pelo fato de que o atraso na entrega frustrou a expectativa dos autores.
+5- Verba indenizatória que se mantem em R$ 10.000,00, considerando a extensão do dano decorrente da mora de dois anos em relação à data estipulada em contrato.
+6- RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+Os embargos de declaração foram rejeitados (e-STJ fls. 380/383 e 412/415).
+No recurso especial (e-STJ fls. 417/449), fundamentado no art. 105, III, alíneas "a" e "c", da CF, arecorrente, requerendo em preliminar a concessão deefeitosuspensivo ao recurso, prosseguiu sustentando:
+(a)cerceamento de defesa, ante a falta de julgamento dos aclaratórios opostos tempestivamente ao acórdão de apelação,
+(b)que,"em que pese tenha sido afastado os lucros cessantes em acórdão, permaneceu a condenação da recorrente ao pagamento de multa de 2%, além de juros de 1% ao mês de atraso. 34. Este STJ já entende a impossibilidade de cumulação de lucros cessantes de 0,5% com multa. É claro que a condenação da recorrente ao pagamento de juros de 1% e multa onera ainda mais a parte recorrente" (e-STJ fl. 427), e
+(c) nesse contexto, "deve prevalecer somente a condenação com relação à multa moratória" (e-STJ fl. 434).
+Alegou desrespeito aos arts. 138, 171, II, 186, 422, 427 e 927 do CC/2002, 2º, § 2º, e 6º, § 1º, da LINDB e 6º, XXXVI, da CF, afirmando a inexistência de mora daempresaquanto ao prazo de entrega da obra, mas a ocorrência de inadimplemento dos adquirentes, o que justificaria reter as chaves da unidade e afastar as condenações impostas pelas instâncias de origem.
+Suscitou, além de dissídio jurisprudencial, desrespeito aos arts. 5º, X, da CF, 6º, VI, do CDC e 186 e 188, I, do CC/2002, porque o mero atraso na entrega da obra não justificaria a condenação por danos morais.
+Foram ofertadas contrarrazões (e-STJ fls. 518/525).
+A Corte local, em juízo de retratação, na sistemática dos recursos repetitivos,decidiu que (e-STJ fl. 611):
+AGRAVO INTERNO INTERPOSTO CONTRA DECISÃO DA TERCEIRA VICE-PRESIDÊNCIA QUE APLICOU A SISTEMÁTICA DOS RECURSOS REPETITIVOS E, COM BASE NO TEMA Nº 970 DO STJ, NEGOU SEGUIMENTO AO RECURSO ESPECIAL. Correta aplicação da tese fixada no Tema nº 970 STJ: "A cláusula penal moratória tem a finalidade de indenizar pelo adimplemento tardio da obrigação, e, em regra, estabelecida em valor equivalente ao locativo, afasta-se sua cumulação com lucros cessantes.". Manutenção da decisão. Negado provimento ao recurso.
+No agravo (e-STJ fls. 506/520), afirmaa presença de todos os requisitos de admissibilidade do especial.
+Sem contraminuta (e-STJ fl. 534).
+É o relatório.
+Decido.
+Inviável a análise de ofensa a dispositivos constitucionais em sede de recurso especial, sob pena de usurpação da competência da Suprema Corte.A propósito: AgInt no REsp n. 1.542.764/PR, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 15/9/2016, DJe 22/9/2016.
+A parte deixou de indicar os dispositivos legais supostamente ofendidos, ou que tiveram sua aplicação negada sobre a tese de cerceamento de defesa e quanto ao pedido de limitação da indenização pordanos materiais ao valor da multa moratória.
+Ausente tal requisito, a fundamentação recursal mostra-se deficiente e torna inviável o conhecimento do recurso, ante o óbice da Súmula n. 284/STF, aplicada por analogia.Nesse contexto: AgRg no AREsp n. 410.404/RS, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 6/12/2016, DJe 14/12/2016, e AgRg no AREsp n. 816.653/PR, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 17/3/2016, DJe 4/4/2016.
+A fim de sustentar a descaracterização da mora daempresa,com base na teoria da exceção de contrato não cumprido, arecorrenteindicou contrariedade aosarts. 138, 171, II, 422 e 427 do CC/2002 e 2º, § 2º, e 6º, § 1º, da LINDB.
+Ocorre que tais dispositivos legais não possuem o alcance normativo pretendido, porque nada dispõem a respeito da mencionada teoria.Dessa forma, a fundamentação recursal mostra-se deficiente e atrai, por analogia, a Súmula n. 284/STF.
+Nesse aspecto: AgInt no AgInt no AREsp n. 984.530/SP, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 21/9/2017, DJe 20/10/2017, e AgInt no REsp n. 1.505.441/SC, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 27/6/2017, DJe 2/8/2017.
+A Corte de origem não se manifestou quanto aos arts. 2º, § 2º, e 6º, § 1º, da LINDB e 138, 171, II, 422 e 427 do CC/2002. Dessa forma, sem terem sido objeto de debate na decisão recorrida e ante a falta de aclaratórios para suscitar tais temas, as matérias contidas em tais dispositivos carecem de prequestionamento e sofrem, por conseguinte, o empecilho das Súmulas n. 282 e 356 do STF.
+O Tribunal de origem sedimentou que existiu mora darecorrentena entrega das chaves do imóvel, e não inadimplemento da parte recorrida (e-STJ fls. 353/354).
+Não há como derruir tal entendimento em recurso especial, a fim de admitir a ocorrência de mora dos consumidores, excluindo, desse modo, o dever daempresade indenizar a parte recorrida, bem como possibilitando a retenção das chaves da unidade imobiliária, ante os óbices das Súmulas n. 5 e 7 do STJ.
+Nesse aspecto:AgInt no AREsp n. 908.722/MG, de minha relatoria, QUARTA TURMA, julgado em 8/11/2016, DJe 16/11/2016,eAgInt no AREsp n. 979.162/RS, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 21/2/2017, DJe 24/2/2017.
+Ajurisprudência do STJ entende que o simples descumprimento contratual do prazo para entrega de imóvel objeto de compra e venda não é capaz de gerar danos morais, sendo necessário reconhecer a presença de consequência fática capaz de acarretar dor e sofrimento indenizável por sua gravidade. A propósito:
+AGRAVO REGIMENTAL NO AGRAVO (ART. 544 DO CPC) - AÇÃO DE ANULAÇÃO DE NEGÓCIO JURÍDICO DE COMPRA E VENDA - VÍCIOS NA AVENÇA. INADIMPLEMENTO CONTRATUAL - DANO MORAL - NÃO CABIMENTO - DECISÃO AGRAVADA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS.
+1. A jurisprudência consolidada nesta Corte Superior permeia-se no sentido de que o mero inadimplemento contratual não se revela suficiente a ensejar dano de ordem moral hábil a perceber indenização, porquanto considerado como hipótese de dissabor do cotidiano, razão pela qual o entendimento perfilhado pela Corte de origem se coaduna com o posicionamento adotado por esta Casa. Incidência da Súmula 83/STJ. Precedentes. AgRg no REsp 1408540, REsp 1129881/RJ, REsp 876.527/RJ,.
+2. Ainda assim, a Corte Estadual com base na análise acurada dos autos concluiu que o caso vertente afasta-se de hipótese extraordinária autorizadora à indenização por danos extramateriais, derruir o entendimento exarado implicaria no revolvimento das matéria fática e probatória da demanda, o que incide no óbice da Súmula 7/STJ, em ambas alíneas.
+3. Agravo regimental desprovido.
+(AgRg no AREsp n. 362.136/SP, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 3/3/2016, DJe 14/3/2016.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. IMÓVEL. COMPROMISSO DE COMPRA E VENDA. ENTREGA. ATRASO. DESCUMPRIMENTO CONTRATUAL. DANO MORAL. INEXISTÊNCIA. PRECEDENTES.
+1. Esta Corte tem firmado o posicionamento de que o mero descumprimento contratual, caso em que a promitente vendedora deixa de entregar o imóvel no prazo contratual injustificadamente, embora possa ensejar reparação por danos materiais, não acarreta, por si só, danos morais.
+2. Na hipótese dos autos, a construtora recorrida foi condenada ao pagamento de danos materiais e morais, sendo estes últimos fundamentados apenas na demora na entrega do imóvel, os quais não são, portanto, devidos.
+3. Agravo regimental não provido.
+(AgRg no AREsp n. 570.086/PE, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 20/10/2015, DJe 27/10/2015.)
+Cabe analisar, portanto, se, no caso concreto, o descumprimento contratual ultrapassou o mero dissabor, devendo-se levar em conta apenas as premissas fáticas descritas no acórdão recorrido, para que não incida a vedação da Súmula n. 7/STJ.
+O Tribunal de origem, soberano na análise do material cognitivo dos autos, assentou que o atraso na entrega do empreendimento imobiliário provocou abalos morais nosrecorridos, pois a situação a que foramexpostos ultrapassou o mero dissabor, razão pela qual admitiu a incidência de indenização sob esse título (e-STJ fls. 353/354).
+Rever o entendimento da Corte local, quanto às circunstâncias específicas que originaram os danos morais, demandaria o revolvimento do conjunto fático-probatório dos autos, providência vedada nesta sede especial, a teor da Súmula n. 7/STJ.
+Inalteradas tais premissas fáticas, verifica-se que o aresto impugnado está em conformidade coma jurisprudência assente nesta Corte Superior, motivo por que incide a Súmula n. 83/STJ, que se aplicatanto aos recursos interpostos com base na alínea "c" quanto àqueles fundamentados pela alínea "a" do permissivo constitucional.
+O conhecimento do recurso especial interposto com fundamento na alínea "c" do permissivo constitucional exige, além da indicação do dispositivo legal objeto de interpretação divergente, a demonstração do dissídio, mediante a verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados e a realização do cotejo analítico entre elas, nos termos definidos pelos arts. 255, §1º, do RISTJ e 1.029, § 1º, do CPC/2015, ônus dos quais arecorrentenão se desincumbiu.
+Desprovido o recurso, descabe cogitar de efeito suspensivo.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios, em favor da causídica dos recorridos, em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
