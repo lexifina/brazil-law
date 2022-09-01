@@ -1,0 +1,41 @@
+DECISÃO
+Vistos etc.
+Trata-se de recurso especial interposto por BANCO DO BRASIL SA com fundamento no art. 105, inciso III, alínea "a", da Constituição da República contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (fl. 395):
+CONTRATOS BANCÁRIOS - Ação de rescisão contratual - Sentença de improcedência - Contrato de financiamento com pacto de alienação fiduciária - Pretensão de devolução do bem dado em garantia - Possibilidade - Previsão contratual e concordância do Banco réu expressa em contestação, com indicação de endereço para entrega Direito de cobrar eventual saldo devedor após a alienação do bem que fica ressalvado - Inteligência do art. 1.366 do CC - Tutela de urgência restabelecida Astreintes - Não comprovação de descumprimento pelo banco da tutela de urgência - Pedido de levantamento do valor depositado Impossibilidade - Ação procedente em parte - Decaimento invertido - Sentença substituída - Recurso parcialmente provido.
+Cuida-se na origem deação de rescisão contratual, com pedido de tutela antecipada, ajuizada porJOÃO LOZANO FILHO, JOÃO LOZANO NETTO eLUCIANA NOGUEIRA LOZANO em face de BANCO DO BRASIL S.A., objetivando que o demandado abstenha-se de incluir o nome dos autores nos órgãos de proteção ao crédito e de cobrar as parcelas referentes à operação de abertura de crédito fixo.
+O juízo de primeiro grau julgou improcedentes os pedidos formulados na exordial, além de condenar os demandantes ao pagamento dos ônus sucumbenciais.
+Irresignados, interpuseramrecurso de apelação.
+O Tribunal de Justiça de origem deu parcial provimento ao apelo paradeclarar rescindido o contrato e determinar a entrega do bem dado em garantia ao bancopara que providencie a sua alienação, ressalvado o seu direito de cobrar eventual saldo remanescente após a alienação do bem e determinou o restabelecimentoda tutela de urgênciaconforme a ementa acima transcrita.
+Opostos embargos de declaração, esses restaram rejeitados nos seguintes termos (fls. 411/424):
+EMBARGOS DE DECLARAÇÃO Ação de rescisão contratual Acórdão que deu parcial provimento ao recurso de apelação dos embargados, julgando parcialmente procedente a ação Alegação de contradição e omissão Possibilidade de cobrança de débito e condições do bem devolvido - Inocorrência Questões conhecidas e julgadas - Intuito de revisão Oposição para fins de prequestionamento Desnecessidade de menção expressa de artigos de lei, bastando conhecimento e julgamento das questões de direito articuladas na lide Precedentes do C. STF e C. STJ CPC/ 2015, art. 1025 Embargos declaratórios rejeitados.
+EMBARGOS DE DECLARAÇÃO Ação de rescisão contratual - Acórdão que rejeitou os embargos de declaração opostos em relação ao acórdão que deu parcial provimento ao recurso de apelação dos embargados, julgando parcialmente procedente a ação - Alegação de omissão - Inocorrência - Questões conhecidas e julgadas --Intuito de revisão - Embargos declaratórios rejeitados.
+Em suas razões de recurso especial, o banco recorrente alegou violação aos arts. 489, § 1º, incisoIV e 1.022, ambos do Código de Processo Civil, ao argumento de que houve negativa de prestação jurisdicional.Requereu o provimento do recurso especial.
+Não houve apresentação de contrarrazões.
+É o relatório.
+Passo a decidir.
+O recurso especial não merece provimento.
+Em suas razões, o banco recorrente asseverou queo Tribunal de Justiça, ao dar parcial provimento ao recurso de apelação dos autores, restabeleceu a tutela de urgência sem fixar quem seria o responsável pela suspensão do cadastro da dívida.
+Aduziu queoTribunal a quo se recusou ao pronunciamento sobre a questão central dos embargos declaratórios opostos, qual seja, quem éo destinatário da ordem de suspensão do cadastro da divida no SCR, sistema operado pelo Banco Central do Brasil, em razão do restabelecimento da tutela de urgência deferida às fls. 87, bem como não houve esclarecimentos quanto à extensão da tutela deferida.
+No entanto, não assiste razão ao recorrente.
+O Tribunal de Justiça, ao julgar os segundos embargos de declaração, destacou oseguinte (fls. 424/425):
+(..)
+Não há omissão a ser suprida, contradição a ser eliminada, ou obscuridade a ser sanada, e nem erro a ser corrigido.
+A tutela deferida às fls. 87, e restabelecida pelo v. acórdão defls. 3311336, foi nos seguintes termos: "Considerando que no contrato consta a obrigação do autor (financiado) de devolver o bem em caso de inadimplemento e que não há proibição legal de devolução do bem para evitar futura ação judicial de busca e apreensão e outros prejuízos, é possível a devolução do bem para quitação. Assim, acolho os argumentos e defiro a liminar de tutela antecipada nos termos de fls. 10, º 06, itens 1, 2 e 3, sob pena de multa diária de R$ 500,00  ..  ".
+Tais itens, conforme se depreende da petição inicial, correspondem aos seguintes pedidos: "1) Para suspender os descontos das parcelas do financiamento junto à conta do requerente (crédito fixo nº 40/00963-7) agência 2034-6, conta nº 77400-6); 2) para que o banco se abstenha de incluir os nomes, CPFICNPJ dos autores junto aos órgãos de proteção ao crédito (SCPCISERASAIBACEN--SCR); 3) oficiar ao Bacen (Banco Central do Brasil) para suspender o valor da referida dívida de seus cadastros/sistemas -- SCR (crédito fixo B. B. S/A n"40100963-7- agência 2034-6) " (fls. 10).
+E consignou-se no v. acórdão de fls. 346/350: "Percebe-se que a tutela restabelecida pelo v. acórdão foi para impedir que o Banco embargante continue a descontar parcelas ou proceda à negativação do nome dos autores em razão dos débitos do contrato de financiamento que foi rescindido  .. j. " (fls. 348/349).
+Assim, a pretensão do embargante trata-se de nítido inconformismo diante do decidido, pronunciado de forma clara e objetiva.
+O que se pretende é o efeito modificativo do julgado, para nova análise de questões já decididas, a tomar claro o caráter infringente dos embargos.
+Extrai-se dos autos, portanto, que o Tribunal de Justiça destacou que o autor ao requerer a concessão de tutela de urgência, solicitou a emissão de ofício ao Banco Central do Brasil para que a dívida fosse suspensa no SCR, bem comoo juízo de primeira instância, ao conceder a tutela de urgência, determinou a expedição de ofício ao Banco Central do Brasil, porquanto o Sistema de Informações de Créditos (SCR) é administrado pelo Banco Central.
+Nesse contexto, não subsiste a alegada ofensa ao art. 1.022, do CPC/2015, pois o Tribunal de Justiça de origem enfrentou as questões postas, não havendo no aresto recorrido omissão, contradição, obscuridade ou erro material.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE DISSOLUÇÃO PARCIAL DE SOCIEDADE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. APURAÇÃO DE HAVERES. EXCLUSÃO DO FUNDO DE COMÉRCIO. REVISÃO. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. No caso, não subsiste a alegada ofensa ao art. 1.022 do CPC/2015, pois o tribunal de origem enfrentou as questões postas, não havendo no aresto recorrido omissão, contradição, obscuridade ou erro material.
+3. Na hipótese, rever o entendimento da Corte de origem acerca d a exclusão da verba referente ao fundo de comércio do cálculo dos haveres dos sócios excluídos demandaria o revolvimento do acervo fático-probatório dos autos, procedimento inviável ante a natureza excepcional da via eleita, consoante o disposto na Súmula nº 7/STJ.
+4. Agravo interno não provido.(AgInt no AREsp n. 1.584.833/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 15/8/2022, DJe de 17/8/2022.)
+Ante o exposto, com arrimo no art. 932, inciso IV, do Código de Processo Civil, conheço e nego provimento ao recurso especial.
+Intimem-se.
+EMENTA
+RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. AÇÃO DE REVISÃO DE CONTRATOS BANCÁRIOS. ALEGAÇÃO DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA.
+1. Não subsiste a alegada ofensa ao art. 1.022, do CPC/2015, pois o tribunal de origem enfrentou as questões postas, não havendo no aresto recorrido omissão, contradição, obscuridade ou erro material.
+2. RECURSO ESPEICIAL CONHECIDO E DESPROVIDO.
