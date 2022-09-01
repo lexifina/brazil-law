@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de conflito negativo de competência suscitado peloJuízo Federal da 27ª Vara Cível de Brasília nos autos do Mandado de Segurança n. 1032533-43.2022.4.01.3400,impetrado contra atoomissivo imputado ao Presidente do Conselho de Recursos da Previdência Social.
+Conforme informa o impetrante (e-STJ fl. 18), o Juízo Federal da Primeira Vara deSão Paulo, nos autos do MS n.5008677-73.2022.4.03.6100, proferiu decisão no sentido de sua incompetência, com declinação para a Seção Judiciária de Jundiaí, comarca de domicílio da parte autora. No entanto, o referido juízo federal também declinou de sua competência, devolvendo os autos para a vara federal da capital paulista, que extinguiu o feito por considerar que a competência seria da sede da autoridade impetrada.
+Após ajuizar novo writ perante o Juízo da 27ª Vara Federal da Seção Judiciária de Brasília, este suscitou o presente conflito (e-STJ 27/28).
+O Ministério Público Federal oficiou pelonão conhecimento do conflito pelas seguintes razões (e-STJ fls. 39/40):
+24. Por essa razão, também não se poderia conceber a existência de conflito de competência decorrente da previsão do artigo 66, III, do Código de Processo Civil, para reunião ou separação de processos.
+25. Apesar de cientificado quanto à extinção do processo do Mandado de Segurança nº 5008677-73.2022.4.03.6100, sem julgamento de mérito, o impetrante não apresentou recurso. É certo que, diante da divergência entre os Juízos da Justiça Federal do Estado São Paulo, resolveu o segurado da Previdência Social logo ajuizar sua açãomandamental perante a Justiça Federal do Distrito Federal.
+26. O novo Mandado de Segurança impetrado perante a Justiça Federal do DistritoFederal, como demonstrado, não foi submetido a declínio.
+27. Além disso, a controvérsia quanto à competência de juízos do Tribunal Regional Federal 3ª Região, em processo diverso (Mandado de Segurança nº 5008677-73.2022.4.03.6100), não atrai a competência do Superior Tribunal de Justiça para dirimir o eventual conflito, caso fosse suscitado.
+É o breve relatório.
+O art. 34, XXII, do RISTJ permite ao relator "decidir o conflito de competência quando for inadmissível, prejudicado ou quando se conformar com tese fixada em julgamento de recurso repetitivo ou de repercussão geral, a entendimento firmado em incidente de assunção de competência, a súmula do Superior Tribunal de Justiça ou do Supremo Tribunal Federal, a jurisprudência dominante acerca do tema ou as confrontar".
+Considerado isso, cumpre registrar que, no presente caso a questão da competência encontra-se superada, haja vista a existência de decisão proferida por um dos juízos envolvidos no conflito, com trânsito em julgado.
+Incideno pontoa Súmula 59 do Superior Tribunal de Justiça, segundo a qual "não há conflito de competência se já existe sentença com trânsito em julgado, proferida por um dos juízos conflitantes".
+Nesse sentido:
+PROCESSO CIVIL. ARBITRAGEM. CONFLITO DE COMPETÊNCIA. PERDA DE OBJETO. PROLATAÇÃO DE DECISÃO DEFINITIVA. SÚMULA 59 DO STJ.
+1. O pedido dos embargos à execução foi julgado improcedente em 6/2/2012, ao fundamento principal de que a transação celebrada entre as partes consubstancia reconhecimento da existência da dívida exequenda devendo prosseguir a execução, o que foi confirmado pelo Tribunal estadual.
+2. O Juízo arbitral, por seu turno, também proferiu sentença de improcedência do pedido em 7/12/2012, concluindo pela existência da dívida (decisão desentranhada dos autos em virtude de pedido de confidencialidade), sendo certo que tal decisão, consoante disposição do art. 31 da Lei n. 9.307/1996, reveste-se de definitividade, constituindo título executivo (art. 475-N, IV, do CPC).
+3. Dessarte, não mais se vislumbra a existência de conflito de competência entre os juízos suscitados quanto ao cerne dos embargos à execução, porquanto, nos termos da Súmula 59 desta Corte: "Não há conflito de competência se já existe sentença com trânsito em julgado, proferida por um dos juízos conflitantes".
+4. Conflito de competência prejudicado. (CC 122.439/RJ, Rel. Ministro MASSAMI UYEDA, Rel. p/ Acórdão Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 11/09/2013, DJe 12/02/2014) (Grifos acrescidos).
+Ante o exposto, com base no art. 34, XVIII, "a", do RISTJ, NÃO CONHEÇO dopresente conflito ante a perda do objeto.
+Publique-se. Intimem-se.
