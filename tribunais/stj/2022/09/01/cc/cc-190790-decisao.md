@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de conflito de competência entre o JUÍZO DE DIREITO DA VARA ÚNICA DE CHAVANTES/SP,ora suscitante, e o JUÍZO DA VARA DO TRABALHO DE OURINHOS, ora suscitado.
+Consta dos autos que foi proposta reclamação trabalhista por TSUNEO ODA, contratado para exercerocargo de Secretário de Obras, por meio da qual busca direitos laborais.
+A ação foi proposta na Justiça especializada, que, declinando da competência, remeteu os autos à Justiça comum (e-STJ fls. 145/156), que, por sua vez, suscitou o presente conflito (e-STJ fls. 216/220).
+Manifestou-se o Ministério Público Federal para que seja declarado competente o Juízo estadual (e-STJ fls. 265/268).
+Passo a decidir.
+Nos termos do art. 34, XXII, do RISTJ, o relator poderá "decidir o conflito de competência quando for inadmissível, prejudicado ou quando se conformar com tese fixada em julgamento de recurso repetitivo ou de repercussão geral, a entendimento firmado em incidente de assunção de competência, a súmula do Superior Tribunal de Justiça ou do Supremo Tribunal Federal, a jurisprudência dominante acerca do tema ou as confrontar".
+Dito isso, o Supremo Tribunal Federal, quando do julgamento da ADI 3.395-6/DF, suspendeu toda e qualquer interpretação conferida ao inciso I do art. 114 da CF, na redação dada pela EC n. 45/2004, que inclua na competência da Justiça do Trabalho a "apreciação de causas que sejam instauradas entre o Poder Público e seus servidores, a ele vinculados por típica relação de ordem estatutária ou de caráter jurídico-administrativo".
+Nesse sentido, conferir ainda: Rcl 6.527 AgR-segundo, rel.MinistroLUIZ FUX, Primeira Turma, DJe 16/10/2015;Rcl 7.857 AgR/CE, rel. Ministro DIAS TOFFOLI, Tribunal Pleno, DJe 1º/03/2013.
+Perfilhando aquele posicionamento, esta Corte tem entendido que "o exercício de cargo em comissão, com regular nomeação e posse, atrai a competência da Justiça Comum para julgamento de demanda decorrente dessa relação jurídica" (CC 145.393/ES, rel. MinistroASSUSETE MAGALHÃES, Primeira Seção, DJe 12/04/2016),
+Nessa linha, foi editada a Súmula 218, que assim prescreve: "Compete à Justiça dos Estados processar e julgar ação de servidor estadual decorrente de direitos e vantagens estatutárias no exercício de cargo em comissão."
+Ademais, "segundo o entendimento firmado no Superior Tribunal de Justiça, a relação entreagentes políticose o Poder Público não tem natureza trabalhista e, por isso, as demandas relativas ao pagamento de diferenças de remuneração devem ser processadas e julgadas pela Justiça Comum" (CC 163.638/GO, Rel. Min. ASSUSETE MAGALHÃES, Primeira Seção, DJe 18/03/2019).
+Nesse sentido, assim já decidiu esta Corte:
+"COMPETÊNCIA. AÇÃO PROPOSTA POR PREFEITO MUNICIPAL E SECRETÁRIA DE EDUCAÇÃO PLEITEANDO O PAGAMENTO DE SALÁRIOS ATRASADOS.
+1. O vínculo existente entre as partes não é o celetista. O Poder Público ao remunerar seusagentes políticosnão exerce atividade econômica e, por isso, não pode ser equiparado a empregador, nos termos em que Constituição Federal adota a expressão (art. 114 da CF).
+2. Conflito conhecido para declarar a competência do Juízo de Direito de Glória de Goiatá-PE, o suscitado" (C 21.916/PE, Rel. Min.FERNANDO GONÇALVES, TERCEIRA SEÇÃO, DJude 17/02/1999).
+"COMPETÊNCIA. ADMINISTRATIVO. VEREADOR. AÇÃO CAUTELAR OBJETIVANDO O PAGAMENTO DE DIFERENÇAS DE REMUNERAÇÃO. RELAÇÃO DE DIREITO PÚBLICO.
+1. Considerando que os membros das Câmaras Legislativas Municipais, os Vereadores, recebem seus subsídios na qualidade deagentes políticos,através do Poder Público, inexistente qualquer vínculo empregatício característico das relações de trabalho, tem-se como competente para processar e julgar o feito a Justiça Comum Estadual.
+2. Conflito conhecido, declarado competente o Juízo de Direito do Morro do Chapéu-BA, o suscitado" (CC 19.927/BA, Rel. Min.ANSELMO SANTIAGO, TERCEIRA SEÇÃO, Dju de 09/11/1998).
+Confiram-se, ainda, as seguintes decisões monocráticas: CC 112.043/AM, Rel. Min. ELIANA CALMON, DJe de 01/07/2010; CC 104.018/GO, Rel. Min. MARIA THEREZA DE ASSIS MOURA, DJe de 05/06/2009; CC 82.628/PI, Rel. Min. JANE SILVA (DESEMBARGADORA ESTADUAL CONVOCADA DO TJ/MG), Dje de 28/04/2008; CC 54.807/MS, Rel. Min. PAULO MEDINA, Dje de 25/08/2006; CC 56.731/MG, Rel. Min. LAURITA VAZ, Dje de 31/05/2006.
+Ante o exposto, com arrimo no art. 955, parágrafo único, I, do CPC/2015, CONHEÇO do conflito para declarar a competência doJUÍZO DE DIREITO DA VARA ÚNICA DE CHAVANTES/SP, ora suscitante.
+Publique-se. Intimem-se.
