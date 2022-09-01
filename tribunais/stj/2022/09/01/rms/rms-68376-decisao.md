@@ -1,0 +1,52 @@
+DECISÃO
+Cuida-se, originariamente, de mandado de segurança preventivo impetrado pelo Município de Votuporanga, contra futuras decisões a serem proferidas pelo Juízo do SAF - Serviço de Anexo Fiscal - Foro de Votuporanga do Tribunal de Justiça do Estado de São Paulo.
+O Tribunal Bandeirante denegou a segurança, em aresto assim ementado (fl. 18):
+MANDADO DE SEGURANÇA PREVENTIVO - Município de Votuporanga - Ato judicial - Alegada violação de direito líquido e certo - Decisões a serem futuramente proferidas, em sede de execuções fiscais, em que a entidade tributante alega que serão acolhidas as exceções de pré- executividade opostas pelos promitentes-vendedores - Não cabimento da via eleita - Impossibilidade de ingressar com "mandamus" quando viável a interposição de recurso com efeito suspensivo, agravos de instrumento ou apelações, conforme o caso, nos termos do comando normativo previsto no artigo 5º, II, da Lei nº 12.016/09 - Incidência do enunciado de Súmula nº 267 do E. STF - Direito líquido e certo não verificado - Decisões judiciais sequer proferidas, de maneira que não se pode reputá-las por revestidas de manifesta ilegalidade ou teratológicas - Via processual inadequada - Ordem denegada.
+No recurso ordinário, a parte recorrente sustenta, em resumo, que: (I) "plenamente cabível a impetração do Mandado de Segurança, eis que o recorrente tem o direito líquido e certo de que os juízes e tribunais observem a jurisprudência dos tribunais superiores" (fl. 41); (II) deve ser concedida a segurança para "determinar que impetrado, ora recorrido, não excluam os promitentes vendedores, proprietários tabulares, do polo passivo das execuções que exigem o pagamento de IPTU dos imóveis por eles comercializados" (fl. 46).
+O Ministério Público Federal, em parecer da lavra da Subprocuradora-Geral da República Maria Iraneide Olinda Santoro Facchini (fls. 59/62), manifestou-se pelo desprovimento do recurso, consoante resume a seguinte ementa (fl. 59):
+RECURSO EM MANDADO DE SEGURANÇA PREVENTIVO. IMPETRAÇÃO CONTRA DECISÕES A SEREM FUTURAMENTE PROFERIDAS, EM SEDE DE EXECUÇÕES FISCAIS. NÃO CABIMENTO DA VIA ELEITA. Parecer pelo desprovimento do recurso.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+O êxito do recurso ordinário interposto contra acórdão que denega a segurança vai condicionado à demonstração, pelo recorrente, da ocorrência de erro - de procedimento ou na aplicação do direito - verificado durante a prolação do aresto impugnado.
+Na presente hipótese, a recorrente requer a reforma do anterior julgado por compreender que a Corte local não aplicou bem o direito à espécie, ao reconhecer a inadmissibilidade de manejo do mandamus como sucedâneo de recurso (Súmula 267/STF) e a ausência de teratologia da decisão judicial ora atacada.
+A irresignação, todavia, não merece prosperar.
+De início, considerando-se que contra a decisão proferida pelo Juízo de 1º Grau era cabível a interposição de recurso, tal fato afasta a possibilidade de cabimento do subjacente mandado de segurança, nos termos do art. 5º, II, da Lei 12.016/2009:
+Art. 5º. Não se concederá mandado de segurança quando se tratar:
+ ..
+II - de decisão judicial da qual caiba recurso com efeito suspensivo;
+ ..
+Ilustrativamente, confira-se:
+CONSTITUCIONAL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. ATO JUDICIAL. DECISÃO PASSÍVEL DE RECURSO DE AGRAVO DE INSTRUMENTO (SÚMULA 267/STF). AUSÊNCIA DE MANIFESTA ILEGALIDADE OU TERATOLOGIA. SEGURANÇA DENEGADA. AGRAVO IMPROVIDO.
+1. Não é cabível o mandado de segurança contra ato judicial impugnável pela via recursal. Aplicação da Súmula 267/STF, por analogia. Precedentes.
+2. A impetração de mandado de segurança contra ato judicial, a teor da doutrina e da jurisprudência, reveste-se de índole excepcional, admitindo-se apenas em hipóteses extraordinárias, a saber: a) decisão judicial manifestamente ilegal ou teratológica; b) decisão judicial contra a qual não caiba recurso; c) para imprimir efeito suspensivo a recurso desprovido de tal atributo; e d) quando impetrado por terceiro prejudicado por decisão judicial, circunstâncias não verificadas nos autos.
+3. Agravo interno não provido.
+(AgInt no RMS 61.373/BA, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, DJe 1º/10/2021) - Grifo nosso
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. IMPETRAÇÃO CONTRA ATO JUDICIAL. PREVISÃO DE RECURSO PRÓPRIO. IMPETRAÇÃO COMO SUCEDÂNEO RECURSAL. NÃO CABIMENTO. TERATOLOGIA. INEXISTÊNCIA. SÚMULA 267/STF. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - A jurisprudência desta Corte Superior Tribunal de Justiça é no sentido de que admite-se Mandado de Segurança contra decisão judicial apenas em casos de flagrante ilegalidade ou de manifesta teratologia. Precedentes.
+III - Ademais, a Lei n. 12.016/2009 é taxativa ao estabelecer como regra a não concessão da segurança contra ato judicial em que exista espécie recursal com efeito suspensivo para sua impugnação ou quando a decisão judicial houver transitado em julgado.
+IV - Não cabe mandado de segurança contra ato judicial passível de recurso ou correição, nos termos da Súmula 267 do Supremo Tribunal Federal.
+V - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+VI - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VII - Agravo Interno improvido.
+(AgInt no RMS 61.893/MS, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe 13/4/2020) - Grifo nosso
+Ademais, a jurisprudência do STJ se firmou no sentido de que "mandado de segurança preventivo não pode ser utilizado com o intuito de obter provimento genérico aplicável a todos os casos futuros de mesma espécie" (REsp 1.064.434/SP, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 21/6/2011)
+Nessa mesma linha de raciocínio:
+PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. CARÁTER NORMATIVO. DESCABIMENTO. DIVERGÊNCIA JURISPRUDENCIAL. REQUISITOS. AUSÊNCIA.
+1. "Não é cabível mandado de segurança preventivo visando à concessão da ordem para declaração de caráter meramente normativo, a ser aplicada em casos futuros e genéricos" (AgInt no RMS 53.399/SP, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 15/03/2019).
+2. A conformidade do acórdão recorrido com a orientação jurisprudencial desta Corte Superior atrai o óbice de conhecimento do recurso especial estampado na Súmula 83 do STJ.
+3. A demonstração de divergência jurisprudencial pressupõe a similitude fática e jurídica dos casos comparados, inexistente na espécie.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 1.648.130/SP, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 19/4/2022.)
+PROCESSUAL CIVIL. ADMINISTRATIVO. PAGAMENTO DE TAXAS. MANDADO DE SEGURANÇA. IMPETRAÇÃO CONTRA LEI EM TESE. IMPOSSIBILIDADE. SÚMULA N. 266/STF.
+I - Na origem, trata-se de mandado de segurança coletivo preventivo contra ato do Conselho Superior da Magistratura que fixou valores a serem cobrados para a obtenção de informações da Secretaria da Receita Federal, das instituições bancárias e do cadastro de registro de veículos, via Infojud, BacenJud e Renajud. No Tribunal de origem, a ordem foi denegada. Nesta Corte, negou-se provimento ao recurso ordinário.
+II - A recorrente apontou, como ato coator na inicial do mandamus, os respectivos provimentos, pretendendo que fosse afastada a cobrança neles imposta. Ainda que a impetrante possa argumentar e voltar-se contra a imposição da respectiva taxa, o fato é que não há como afastar a hipótese de que a impetração está voltada contra lei em tese, a incidir o óbice da Súmula n. 266/STF, nos moldes do firme posicionamento jurisprudencial deste Tribunal em situações análogas.
+III - O remédio constitucional do mandado de segurança é direcionado ao ataque de ato administrativo. Assim, considera-se o mandado de segurança "contra lei em tese" quando pretende-se com o mandamus atacar ato normativo de caráter geral e abstrato, não necessariamente lei. Nesse sentido: MS 32012 AgR, Relator(a): Min. LUIZ FUX, Primeira Turma, julgado em 16/08/2016, PROCESSO ELETRÔNICO DJe-184 DIVULG 30-08-2016 PUBLIC 31-08-2016; MS 31647 AgR, Relator(a): Min. ROBERTO BARROSO, Tribunal Pleno, julgado em 21/08/2017, PROCESSO ELETRÔNICO DJe-221 DIVULG 27-09-2017 PUBLIC 28-09-2017; MS 34432 AgR, Relator(a): Min. LUIZ FUX, Tribunal Pleno, julgado em 07/03/2017, PROCESSO ELETRÔNICO DJe-056 DIVULG 22-03-2017 PUBLIC 23-03-2017.
+IV - Conforme consta no acórdão recorrido a autoridade coatora informou que: "a taxa judiciária impugnada nestes autos foi instituída pela Lei Estadual n. 14.838, de 23-6-2012, e não por provimentos do Conselho Superior da Magistratura, os quais apenas definiram os custos para a obtenção das informações constantes dos sistemas conveniados do Bacenjud, Renajud, Infojud e Serasajud, o que não implica em indevida delegação de competência tributária".
+V - A Corte de origem, portanto, decidiu em conformidade com a jurisprudência desta Corte. Nesse sentido: AgInt no RMS 61.592/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 21/11/2019, DJe 27/11/2019.
+VI - Ademais, o "mandado de segurança preventivo não pode ser utilizado com o intuito de obter provimento genérico aplicável a todos os casos futuros de mesma espécie" (REsp 1.064.434/SP, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 21/6/2011; AREsp 1562579/MG, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 07/11/2019, DJe 22/11/2019.
+VII - Nesse panorama, o decisum não merece censura, na medida em que considerou que a impetração volta-se, de fato, contra lei em tese.
+VIII - Agravo interno improvido.
+(AgInt no RMS n. 58.652/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 19/12/2019.)
+Assim, escorreito o acórdão recorrido, não estando a merecer qualquer reparo.
+ANTE O EXPOSTO, nego provimento ao recurso ordinário.
+Publique-se.
