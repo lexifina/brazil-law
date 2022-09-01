@@ -1,0 +1,66 @@
+DECISÃO
+Trata-se de recurso especial interposto porJOAO BATISTA DIAS GOMES com fundamento no artigo 105, III, "a" e"c", da Constituição Federal, contra acórdão proferido pelo TRF da 3ª Região, assim ementado (e-STJ Fls.552-553):
+DIREITO PREVIDENCIÁRIO. REVISÃO DE BENEFÍCIO DE APOSENTADORIA POR TEMPO DE SERVIÇO. TEMPO ESPECIAL RECONHECIDO.ELETRICIDADE. TEMPO INSUFICIENTE À ALTERAÇÃO DA ESPÉCIE PARA APOSENTADORIA ESPECIAL. MAJORAÇÃO DO TEMPO DE SERVIÇO.CONSECTÁRIOS LEGAIS.
+I - Com o advento da Emenda Constitucional nº 20/98, a aposentadoria por tempo de serviço foi convertida em aposentadoria por tempo de contribuição, tendo sido excluída do ordenamento jurídico a aposentadoria proporcional, passando a estabelecer o artigo 201 da Constituição Federal o direito à aposentadoria no regime geral de previdência social, nos termos da lei, ao completar 35 (trinta e cinco) anos de contribuição, se homem e 30 (trinta) anos de contribuição, se mulher.
+II - Entretanto, o art. 3º da referida Emenda garantiu o direito adquirido à concessão da aposentadoria por tempo de serviço a todos aqueles que até a data da sua publicação, em 16 de dezembro de 1998, tivessem cumprido todos os requisitos legais, com base nos critérios da legislação então vigente.
+III - Ao segurado inscrito perante o Regime Geral de Previdência Social anteriormente à promulgação da Emenda Constitucional nº 20/98, mas que, nessa data (16 de dezembro de 1998), ainda não tivesse preenchido os requisitos necessários à sua aposentação, mesmo na forma proporcional, aplicam-se as regras de transição estabelecidas pelo art. 9º da referida normação constitucional.
+IV - Foram contempladas, portanto, três hipóteses distintas à concessão da benesse: segurados que cumpriram os requisitos necessários à concessão do benefício até a data da publicação da EC 20/98 (16/12/1998); segurados que, embora filiados, não preencheram os requisitos até o mesmo prazo; e, por fim, segurados filiados após a vigência daquelas novas disposições legais.
+V - No caso dos autos, restou comprovada a especialidade do labor.
+VI - O tempo apurado não é suficiente para alterar a espécie do benefício para aposentadoria especial, mas possível a revisão da aposentadoria por tempo de contribuição.
+VII - Tratando-se de revisão do ato de aposentadoria, o termo inicial deve ser mantido na data da concessão da benesse em sede administrativa, compensando-se, por ocasião da fase de liquidação, os valores pagos administrativamente.
+VIII - Os juros de mora são devidos a partir da citação na ordem de 6% (seis por cento) ao ano, até a entrada em vigor da Lei nº 10.406/02, após, à razão de 1% ao mês, consonante com o art. 406 do Código Civil e, a partir da vigência da Lei nº 11.960/2009 (art. 1º-F da Lei 9.494/1997), calculados nos termos deste diploma legal.
+IX - A correção monetária deve ser aplicada em conformidade com a Lei n.
+6.899/81 e legislação superveniente (conforme o Manual de Cálculos da Justiça Federal), observados os termos da decisão final no julgamento do RE n. 870.947, Rel.
+Min. Luiz Fux.
+X - Os honorários advocatícios deverão ser fixados na liquidação do julgado, nos termos do inciso II, do § 4º, c.c. § 11, do artigo 85, do CPC/2015.
+XI - Matéria preliminar rejeitada e apelação do autor parcialmente provida.
+Embargos de declaração do INSS e da parte autora rejeitados.
+Em sua petição de recurso especial, sustenta ofensa aosartigos 369, 370 e 372 do CPC/2015 e dissídio jurisprudencial, argumentando quantoà necessidade de que seja determinado o retorno dos "autos ao Tribunal Regional Federal, para que seja determinada, na forma do artigo 938 do CPC, a realização de perícia na Companhia do Metropolitano de São Paulo, a fim de apurar o exercício de atividade especial pela Recorrente ou que seja determinado o acolhimento das provas emprestadas, nos termos do artigo 372, do Código de Processo Civil" (e-STJ Fl.683).
+Sem contrarrazões.
+Juízo negativo de admissibilidade às fls. (e-STJ Fls.703-708).
+Interposição do agravo previsto no artigo 1.042 do CPC/2015, às fls. (e-STJ Fls.715-729), e sua conversão em recurso especial à fl. (e-STJ Fl.747).
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Registre-se também que é possível ao Relator dar ou negar provimento ao recurso em decisão monocrática, nas hipóteses em que há jurisprudência dominante quanto ao tema, como autorizado pelo art. 34, XVIII, do RISTJ e pela Súmula 568/STJ.
+Cinge-se a controvérsia emque seja determinado o retorno dos "autos ao Tribunal Regional Federal, para que seja determinada, na forma do artigo 938 do CPC, a realização de perícia na Companhia do Metropolitano de São Paulo, a fim de apurar o exercício de atividade especial pela Recorrente ou que seja determinado o acolhimento das provas emprestadas, nos termos do artigo 372, do Código de Processo Civil" (e-STJ Fl.683).
+No que diz respeito à alegada violação aos artigos 369, 370 e 372 do CPC/2015, a Corte de origem, após ampla análise do conjunto fático probatório, firmou compreensão de que (e-STJ Fls.550-551):
+ ..
+que teria trabalhado sujeito a agentes agressivos, tendo juntado a documentação abaixo discriminada:
+- 08/03/1982 a 31/03/1990: Perfil Profissiográfico Previdenciário (nº 141050168-53/54) - agente operacional I e II e agente de terminal rodoviário III e IV: inviabilidade de reconhecimento ante a ausência de indicação, no formulário apresentado, acerca da exposição do segurado a agentes agressivos, bem como em razão da falta de previsão de suas atividades nos decretos que regem a matéria em apreço;
+- 01/04/1990 a 13/02/2013: Perfil Profissiográfico Previdenciário (nº 141050168-53/54) - exposição a tensão elétrica superior a 250 volts: enquadramento em razão do desempenho de atividade perigosa.
+A exposição à tensão elétrica superior a 250 volts é considerada atividade perigosa.
+ ..
+Como se vê, restou demonstrado o exercício de atividade em condições especiais no lapso de01/04/1990 a 13/02/2013.
+Considerando-se apenas os períodos de atividade especial, o demandante contava com 22 anos, 10 meses e 13 dias de tempo de serviço, insuficientes à concessão da aposentadoria especial, a qual exige o tempo mínimo de 25 anos de trabalho.
+Verifico, por outro lado, que, no cômputo total, na data do requerimento administrativo (13/02/2013 - nº 141050168-30), contava a parte autora com 44 anos, 01 mês e 24 dias de tempo de serviço.
+ ..
+Assim, percebe-se da decisão recorrida que a Turma deu parcial provimento à apelação da parte autora para reformar a sentença de primeiro grau e reconhecer como especial apenas o período de 01/04/1990 a 13/12/2013 e, como não foi possível a concessão de aposentadoria especial, procedeu à revisão do benefício de aposentadoria por tempo de contribuição.
+Impende ressaltar que a Corte de origem, para chegar a essa conclusão, se utilizou de ampla análise do conjunto fático probatório dos autos.
+Portanto, tem-se que a revisão da conclusão a que chegou o Tribunal de origem sobre a questão demanda o reexame dos fatos e provas constantes nos autos, o que é vedado no âmbito do recurso especial. Incide ao casoa Súmula 7/STJ.
+A propósito:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. LABOR RURAL. ATIVIDADE COM MANEJO DE ANIMAIS. EQUIPARAÇÃO. CATEGORIA PROFISSIONAL. ATIVIDADE AGROPECUÁRIA. DECRETO 53.831/1964. POSSIBILIDADE. INVERSÃO DO JULGADO. INVIABILIDADE.
+REEXAME FÁTICO-PROBATÓRIO.SÚMULA 7/STJ. AGRAVO INTERNO DO INSS A QUE SE NEGA PROVIMENTO.
+1. A orientação desta Corte Superior de Justiça firmou-se no sentido de "não ser possível equiparar a categoria profissional de agropecuária, constante no item 2.2.1 do Anexo ao Decreto 53.831/1964, à atividade exercida pelo empregado rural na lavoura da cana-de-açúcar" (AgInt no AREsp 1915920/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 14/03/2022, DJe 28/03/2022).
+2. Entretanto, conforme destacado na decisão agravada, as instâncias ordinárias consideraram passível de enquadramento, comoatividade especial,o período anterior a 28/04/1995, por categoria profissional - Código 2.2.1 do Quadro Anexo do Decreto 53.831/1964 -, por ter sido demonstrado que a parte autora "trabalhava com máquinas (trator), na agricultura, em lavoura de soja e criação de animais (gado, ovelha)" (fl. 666). Em relação ao período posterior a 28/04/1995, foi reconhecida a especialidade ante a comprovação de exposição habitual a agentes insalubres.
+3. Assim, para se chegar à conclusão diversa, seria necessário o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção. Inafastável, portanto, o óbice da Súmula 7 do STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+4. Agravo interno do INSS a que se nega provimento.
+(AgInt no REsp 1973496/RS, Rel. MinistroMANOEL ERHARDT (DESEMBARGADOR CONVOCADO DO TRF5), Primeira Turma, julgado em 23/05/2022, Dje de 25/05/2022) (grifei)
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. TEMPO DE SERVIÇO. ATIVIDADE ESPECIAL. ENQUADRAMENTO. AUSÊNCIA. REEXAME. IMPOSSIBILIDADE.
+1. A jurisprudência iterativa desta Corte possui a compreensão de ser possível o reconhecimento da especialidade de atividade não enquadrada nos regulamentos da Previdência Social (Decretos n. 53.831/1964 e 83.080/1979), desde que demonstrada, por meio de perícia técnica, a equiparação com atividade enquadrada ou a própria nocividade do serviço desenvolvido pelo profissional.
+2. Tendo o Tribunal de origem decidido a questão, pertinente ao tempo de serviço de atividade especial, com base na realidade que se delineou à luz do suporte fático-probatório constante nos autos, a sua revisão é inviável no âmbito do recurso especial ante o óbice estampado na Súmula 7 do STJ.
+3. Agravo interno desprovido.
+(AgInt no AREsp 1681867/SP, Rel. Ministro Gurgel de Faria, Primeira Turma, julgamento em 01/03/2021, Dje de 11/03/2021) (grifo meu).
+Ademais, segundo entendimento desta Corte a inadmissão do recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, em razão da incidência de enunciado sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial se o dissídio alegado diz respeito ao mesmo dispositivo legal ou tese jurídica, o que ocorreu na hipótese.
+Veja-se o seguinte precedente de minha relatoria:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO DE PRINCÍPIOS CONSTITUCIONAIS. IMPOSSIBILIDADE DE EXAME NESTA CORTE. NÃO INDICAÇÃO DE DISPOSITIVO DE LEI FEDERAL SUPOSTAMENTE VIOLADO. SÚMULA 284/STF. DISSÍDIO JURISPRUDENCIAL. ANÁLISE PREJUDICADA.
+1. Tendo sido o recurso interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado n. 3/2016/STJ.
+2. É inviável a análise, em recurso especial, da irresignação fundada na violação a princípios constitucionais. A uma, por se tratar de matéria reservada à apreciação do Supremo Tribunal Federal e, a duas, por não se inserirem no conceito de lei federal, nos termos do art. 105, III, da Constituição Federal.
+3. Revelam-se deficientes as razões do recurso especial quando o recorrente limita-se a expor alegações genéricas e não indica qual dispositivo de lei federal ou tratado foi contrariado pelo acórdão recorrido, situação que se evidencia nos autos e impede o conhecimento do recurso. Aplica-se à hipótese a Súmula 284/STF.
+4. Segundo entendimento desta Corte a inadmissão do recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, em razão da incidência de enunciado sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial se o dissídio alegado diz respeito ao mesmo dispositivo legal ou tese jurídica, o que ocorreu na hipótese. Nesse sentido: AgInt no REsp 1.590.388/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 24/3/2017; AgInt no REsp 1.343.351/SP, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 23/3/2017.
+5. Agravo interno não provido.
+(AgInt no REsp 1973876/RS, Rel. Ministro Benedito Gonçalves, Primeira Turma, julgado em 16/05/2022, Dje de 19/05/2022) (grifei).
+Ante o exposto, não conheço do recurso especial.
+Caso tenham sido fixados honorários sucumbenciais anteriormente pelas instâncias ordinárias, majoro em 10% os honorários advocatícios, observados os limites e parâmetros dos §§ 2º, 3º e 11 do artigo 85 do CPC/2015 e eventual Gratuidade da Justiça (§ 3º do artigo 98 do CPC/2015).
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL E PREVIDENCIÁRIO. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3 DO STJ. ATIVIDADE ESPECIAL RECONHECIDO. ELETRICIDADE. TEMPO INSUFICIENTE PARA APOSENTADORIA ESPECIAL. ALTERAÇÃO. IMPOSSIBILIDADE.REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. ANÁLISE PREJUDICADA. RECURSO ESPECIAL NÃO CONHECIDO.
