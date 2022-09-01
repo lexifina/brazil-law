@@ -1,0 +1,47 @@
+DECISÃO
+Cuida-se  de  agravo  (art.  1.042  do  CPC),  interposto  por  MICROSOFT INFORMÁTICA LTDA.,  contra  decisão  que  não  admitiu  recurso  especial.
+O  apelo  extremo,  fundamentado  na  alínea  "a"  do  permissivo  constitucional,  desafiou  acórdão  proferido  pelo  Tribunal  de  Justiça  do  Estado  de  Minas Gerais,  assim  ementado  (fl.  290,  e-STJ):
+APELAÇÃO CÍVEL -AÇÃO DE OBRIGAÇÃO DE FAZER -CRIAÇÃO DE E-MAIL -PRÁTICA DE ESTELIONATO -INFORMAÇÃO DO IP PELO PROVEDOR DE INTERNET -NECESSIDADE -DEFERIMENTO -DADOS CADASTRAIS -IMPOSSIBILIDADE -MULTA DIÁRIA -INCIDÊNCIA -RECURSO PARCIALMENTE PROVIDO. -Incumbe aos provedores de hospedagem identificar o autor de possíveis ofensas ou práticas de crimes direcionadas a terceiros mediante o IP de usuário utilizado para a prática de tal conduta antijurídica. -O Superior Tribunal de Justiça, já decidiu que o dever do provedor da internet de manter dados mínimos que possibilitem a identificação dos usuários deriva do art. 6º, III, do Código de Defesa do Consumidor, que estabelece o dever de informação e consagra o princípio da transparência. -Nos termos da jurisprudência do Col STJ, a parte ré, para adimplir sua obrigação de identificação do usuário, basta que informe o número IP correspondente ao endereço de e-mail indicado. Logo, não há que se falar em fornecimento dos dados cadastrais, como RG, CPF e endereço do usuário da conta de e-mail, mas tão somente os registros de acesso a internet, contendo a data, horário, e o endereço de IP utilizado. -Considerando que para o recebimento do e-mail o IP do remetente passa pelo provedor até chegar ao destinatário, não procede a alegação da recorrente de impossibilidade técnica de fornecer em juízo tais dados. -Deve ser fixada multa diária em prol do cumprimento da obrigação deferida, ressaltando sempre que o objetivo das astreintes não é obrigar o réu a pagar o valor da multa, mas obrigá-lo a cumprir a obrigação na forma específica.
+Os embargos de declaração foram acolhidos para sanar erro material e contradição consistente no prazo para cumprimento da obrigação (fls. 394-398, e-STJ).
+Em  suas  razões  de  recurso  especial,  o  recorrente  aponta  ofensa  ao art. 15da Lei 12.965/2014.
+Sustenta,  em  síntese, oafastamento da obrigação de fornecimento dos dados faltantes, tendo em vista estar ultrapassado o prazo legal de 6 meses para a guarda das informações, não possuindo mais a recorrente acesso aos dados solicitados
+Em  juízo  de  admissibilidade,  negou-se  o  processamento  do  recurso  especial,  dando  ensejo  ao  presente  agravo  (fls.  511-522,  e-STJ).  Contraminuta  às  fls.  588-610,  e-STJ.
+É  o  relatório.
+Decido.
+A  irresignação não  merece  prosperar.
+1. A recorrente alega violação ao art. 15 da Lei 12.965/2014, sustentandoo afastamento da obrigação de fornecimento dos dados faltantes, tendo em vista estar ultrapassado o prazo legal de 6 meses para a guarda das informações, não possuindo mais a recorrente acesso aos dados solicitados.
+Nesse ponto, o aresto recorrido (fls. 294, e-STJ):
+Restringe a insurgência recursal em constatar se a tutela deferida restou integralmente cumprida pela parte ré, bem como se é possível a determinação para que esta cumpra conforme requerido pela parte autora.
+Requer a parte apelante que seja a parte ré condenada a apresentar os dados cadastrais do criador do referido e-mail, bem como o s IP"s utilizados para criação e movimentação da conta, botolini100@hotmail. com, sob pena de multa diária não inferior a R$5.000,00. Alternativamente, caso a apelada não cumpra com a obrigação, requer a sua condenação em perdas e danos.
+Extrai-se da documentação apresentada pela parte ré (ordens 48 e 49) que a informação referente à conta valle210@hotmail. com, restou devidamente cumprida, sendo exibido o IP utilizado para a criação do e-mail.
+Lado outro, pelo documento de ordem nº 47, tem-se que o IP referente ao e-mail botolini100@hotmail.com não foi apresentado pela ré.
+ ..
+Ou seja, informa que estava apresentando todos os dados de acesso das contas que possuía, inexistindo outros dados a serem exibidos.
+Não apresenta qualquer justificativa plausível para exibir o IP de uma das contas e não apresentar da outra que, conforme se observa, pertencem à mesma plataforma de e-mail (Hotmail).
+Em sua manifestação de ordem nº 67 a ré reitera que todos os dados existentes em relação às contas foram exibidos, inexistindo qualquer outra informação sobre sua posse, requerendo o reconhecimento do cumprimento da liminar. Todavia, contradiz sua própria afirmação de que, na qualidade de provedor de aplicação tem o papel de guardar os registros de acesso que correspondente ao IP data e horário de acesso ao e-mail.
+Como a requerida não comprovou sua impossibilidade de cumprir na íntegra a ordem judicial, impõe-se a sua obrigação de fornecer os registros de acesso à internet, contendo a data, horário, e o endereço de IP utilizado para movimentação e criação da conta referente ao e-mail botolini100@hotmail.com.
+ ..
+Tem-se que incumbe aos provedores de hospedagem identificar o autor de possíveis ofensas ou práticas de infrações penais direcionadas a terceiros mediante o IP de usuário utilizado para a prática de tal conduta antijurídica. Desse modo, embora dispensada da obrigação de fiscalização do conteúdo das publicações/operações realizadas por aqueles que se utilizam de seus serviços, a ré, ora recorrida, deve apresentar o endereço de protocolo de internet acaso constatada a necessidade de divulgação do referido conteúdo.
+ ..
+Quanto à obrigação de manutenção dos registros no período de seis meses, colaciona-se dispositivo da Lei nº 12.965/2015:
+ ..
+Cumpre ressaltar que o Juiz a quo deferiu a medida liminar para determinar que a ré/apelada fornecesse todos os dados necessários para a identificação do remetente, conforme requerido pela parte autora na inicial, sendo que referida decisão interlocutória não foi objeto de recurso e encontra-se preclusa.
+ ..
+Salienta-se que, nos termos da jurisprudência do Col STJ, a parte ré, para adimplir sua obrigação de identificação do usuário, basta que informe o número IP correspondente ao endereço de e-mail indicado.
+Considerando que para o recebimento do e-mail o IP do remetente passa pelo provedor até chegar ao destinatário, não procede a alegação da recorrente de impossibilidade técnica de fornecer em juízo tais dados.
+Ainda, o fato de poder fornecer os IP"S não implica possibilidade técnica de a apelada identificar e localizar os responsáveis pelos e-mails enviados. O provedor de internet tem acesso aos IP"S por se tratar de informação que está atrelada ao conteúdo da mensagem, não estando vinculado ao usuário.
+ grifou-se
+Com efeito, constata-se que o recorrente não enfrentou pontualmente todos os fundamentos do acórdão, em especial os seguintes: a) a preclusão da decisão que determinou o fornecimento de todos os dados necessários para a identificação do remetente; b) a falta de justificativa plausível para exibir o IP de uma das contas e não apresentar o da outra. Tais fundamentos se mostram suficientes para a manutenção do decisum, atraindo a aplicação da Súmula 283/STF, por analogia.
+  Nos  termos  da  jurisprudência  desta  Corte,  a  existência  de  fundamentos  inatacados,  aptos  à  manutenção  do  aresto  recorrido , e a constatação de  razões  dissociadas  do  recurso  em  relação  ao  acórdão  impugnado  atraem  a  incidência  das  Súmulas  283  e  284  do  STF,  aplicáveis  por  analogia.  Nesse  sentido,  confira-se:
+AGRAVO  INTERNO  NOS  EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AÇÃO  INDENIZATÓRIA.  ATRASO  NA  ENTREGA  DO  IMÓVEL.  LUCROS  CESSANTES.  FUNDAMENTO  INATACADO.  MORA  DO  COMPRADOR.  SÚMULA  283  E  284  DO  STF.  MATÉRIA  QUE  DEMANDA  REEXAME.  SÚMULAS  5  E  7  DO  STJ.  AGRAVO  INTERNO  NÃO  PROVIDO.
+ 1.  A  subsistência  de  fundamento  inatacado  apto  a  manter  a  conclusão  do  aresto  impugnado  impõe  o  não  conhecimento  da  pretensão  recursal,  a  teor  do  entendimento  disposto  na  Súmula  nº  283/STF:  "É  inadmissível  o  recurso  extraordinário  quando  a  decisão  recorrida  assenta  em  mais  de  um  fundamento  suficiente  e  o  recurso  não  abrange  todos  eles.".
+  ..
+3.  Agravo  interno  não  provido.  (AgInt  nos  EDcl  no  AREsp  874.193/RJ,  Rel.  Ministro  LUIS  FELIPE  SALOMÃO,  QUARTA  TURMA,  julgado  em  01/09/2016,  Dje  08/09/2016)  grifou-se
+AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  PRESCRIÇÃO.  HONORÁRIOS  ADVOCATÍCIOS.  PRINCÍPIO  DA  CAUSALIDADE.  INÉRCIA  DO  EXEQUENTE  NA  PROPOSITURA  DO  CUMPRIMENTO  DE  SENTENÇA.  RAZÕES  DISSOCIADAS  DOS  FUNDAMENTOS  DO  ACÓRDÃO  ATACADO.  SÚMULA  284/STF.  AGRAVO  CONHECIDO  PARA  NEGAR  PROVIMENTO  AO  RECURSO  ESPECIAL.
+  ..
+4.  É  inadmissível  o  inconformismo  por  deficiência  na  fundamentação  quando  as  razões  do  recurso  estão  dissociadas  do  decidido  no  acórdão  recorrido.  Aplicação  da  Súmula  284  do  Supremo  Tribunal  Federal.
+5.  Agravo  interno  provido  para  afastar  a  falta  de  dialeticidade  recursal,  conhecer  do  agravo  e  negar  provimento  ao  recurso  especial.  (AgInt  no  AREsp  1680324/SC,  Rel.  Ministro  RAUL  ARAÚJO,  QUARTA  TURMA,  julgado  em  19/10/2020,  DJe  16/11/2020)  grifou-se
+Inafastáveis, no ponto, os óbices das Súmulas 283/STF e 284/STF.
+2. Do exposto, nego provimento ao agravo.
+Publique-se.
+Intimem-se.
