@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão proferido pelo TJTOassim ementado (e-STJ fl. 66):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO EXTRAJUDICIAL. DECISÃO QUE DETERMINOU QUE A PENHORA RECAÍSSE APENAS SOBRE A ÁREA DO IMÓVEL PERTENCENTE AO EXECUTADO. TOTALIDADE DO BEM DADO EM GARANTIA POR MEIO DE ESCRITURA PÚBLICA. PROPRIETÁRIA FIGUROU COMO GARANTIDORA. DECISÃO REFORMADA.
+1. Inicialmente, consigno não assistir razão a parte ora agravante quanto à sua alegação de inadequação da via eleita, tendo em vista que o art. 917, §1º do CPC aduz que a penhora incorreta ou de avaliação poderá ser impugnada por simples petição, no prazo de 15 (quinze) dias, contado da ciência do ato, o que ocorreu no presente caso, nos termos da decisão exarada pelo Juízo de origem.
+2. O processo de origem trata-se de Ação Executiva em que o título extrajudicial cobrado é uma Escritura Pública de Confissão de Dívida com Garantia Hipotecária. Na Claúsula Sexta do referido instrumento foi dado como garantia o imóvel penhorado nos autos de origem, constando, inclusive, na Certidão de Matrícula do imóvel.
+3. Nota-se, portanto, que quando ainda em vida a proprietária do imóvel atuou como interveniente hipotecante na Escritura Pública ora cobrada, tendo dado a totalidade do imóvel como garantia hipotecária, de modo que mesmo tendo o bem sido partilhado posteriormente com seus sucessores, não impede que seja objeto de penhora, haja vista que já havia sido dado em garantia anteriormente.
+4. Assim, em atenção ao disposto no art. 835, § 3º do CPC deve ser a decisão de origem reformada para manter a penhora sobre a totalidade do bem dado em garantia, bem como ser determinada a intimação dos sucessores da garantidora.
+5. Recurso conhecido e provido em parte.
+Osembargos de declaração foram rejeitados (e-STJ fls. 113/114).
+Nas razões recursais (e-STJ fls. 120/126), fundamentado no art. 105, III, "a" e "c", da CF, a parte recorrente aponta ofensa aos arts. 421 e 422 do CC/2002 e1.022 do CPC/2015, sustentando, em síntese, negativa de prestação jurisdicional e inobservância do contrato firmado entre as partes.
+Segundo afirma, "os respeitáveis relatórios, votos e acórdão proferidos por esta E. Corte, partiram da EQUIVOCADA PREMISSA que a Impetrante estaria a obrigada aceitar uma penhora total de um bem quando na verdade o que foi estabelecido pelas partes era que a penhora iria recais somente em parte do imóvel conforme estabelecido em contrato" (e-STJ fl. 126).
+Postula o benefício da justiça gratuita.
+Foram apresentadas contrarrazões (e-STJ fls. 139/150).
+Juízo positivo de admissibilidade (e-STJ fls. 156/157).
+É o relatório.
+Decido
+Inicialmente, no que diz respeito à renovação da assistência judiciária gratuita, a Corte Especial deste Superior Tribunal de Justiça, ao apreciar o AgRg nos EAREsp 86.915/SP, decidiu que o referido benefício, uma vez concedido, prevalecerá em todas as instâncias e para todos os atos processais, nos termos da ementa abaixo transcrita:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. JUSTIÇA GRATUITA (LEI 1.060/50, ARTS. 4º, 6º E 9º). CONCESSÃO. EFICÁCIA EM TODAS AS INSTÂNCIAS E PARA TODOS OS ATOS DO PROCESSO. RENOVAÇÃO DO PEDIDO NA INTERPOSIÇÃO DO RECURSO. DESNECESSIDADE. AGRAVO PROVIDO.
+1. Uma vez concedida, a assistência judiciária gratuita prevalecerá em todas as instâncias e para todos os atos do processo, nos expressos termos do art. 9º da Lei 1.060/50.
+2. Somente perderá eficácia a decisão deferitória do benefício em caso de expressa revogação pelo Juiz ou Tribunal.
+3. Não se faz necessário para o processamento do recurso que o beneficiário refira e faça expressa remissão na petição recursal acerca do anterior deferimento da assistência judiciária gratuita, embora seja evidente a utilidade dessa providência facilitadora. Basta que constem dos autos os comprovantes de que já litiga na condição de beneficiário da justiça gratuita, pois, desse modo, caso ocorra equívoco perceptivo, por parte do julgador, poderá o interessado facilmente agravar fazendo a indicação corretiva, desde que tempestiva.
+4. Agravo interno provido, afastando-se a deserção.
+(AgRg nos EAREsp 86.915/SP, Rel. Ministro RAUL ARAÚJO, CORTE ESPECIAL, julgado em 26/02/2015, DJe 04/03/2015).
+Portanto, ficou assentado que eventual pedido de renovação apenas teria necessidade no caso de revogação do benefício no curso do processo ou de indeferimento anterior, não havendo previsão legal que determine referido pedido no caso da gratuidade de justiça concedida anteriormente.
+Assim, considerando a parte recorrente afirma que foideferida a assistência judiciária anteriormente pela instâncias de origem(e-STJ fl. 120), fica dispensado novo exame do pedido em sede de recurso especial.
+Não há falar em ofensa ao art. 1022 do CPC/2015, pois o Tribunal a quo pronunciou-se, de forma clara e suficiente, sobre as questões suscitadas nos autos. Não há negativa de prestação jurisdicional quando os fundamentos utilizados tenham sido suficientes para embasar a decisão, ainda que em sentido diverso do sustentado pela parte, como de fato ocorreu.
+Sobre o tema em debate, as instâncias de origem assim se manifestaram (e-STJ fls. 104/107):
+Não obstante os argumentos externados pelos embargantes, o fatoé que a realização de acordo, onde o exequente aceitou a cota parte pertencente ao executado Gilberto Alves Gleide Feitosa, foi alegada apenas em sede de embargos de declaração, uma vez que nada foi trazido nesse sentido nas contrarrazões ao agravo de instrumento manejado pelo exequente. Assim sendo, resta evidente que não se pode inovar em sede de Embargos Declaratórios, ainda que se trate de matéria de ordem pública. Esse é o posicionamento jurisprudencial, conforme se destaca:
+(..)
+Ademais, mesmo que assim não fosse, observo que tal matéria também foi abrangida pela preclusão, uma vez que a questão atinente à validade do ajuste iniciado entre as partes em audiência, foi definida pelo Juízo de origem na decisão agravada, contra a qual aqueles não interpuseram o recurso pertinente. Resta evidente, portanto, que o magistrado a quo não deferiu o pedido de desconstituição parcial da penhora com base no acordo iniciado em audiência. Pelo contrário, o que consta da decisão agravada é que o acordo não poderia ser levado em consideração, pois não houve a sua homologação, oque serviu de fundamento para o indeferimento do pedido de excesso de execução, conforme se infere do trecho abaixo transcrito:
+(..)
+Portanto, na espécie, os executados deveriam, conforme acima consignado, ter se insurgido contra essa parte da decisão, não o fazendo, tal matéria tornou-se preclusa.
+O recurso deve observar o princípio da dialeticidade, ou seja, apresentar os motivos pelos quais a parte recorrente não se conforma com o acórdão proferido pelo Tribunal de origem, a fim de permitir ao órgão colegiado cotejar os fundamentos lançados na decisão judicial com as razões expendidas no recurso.
+No caso, a Corte localreconheceu a existência de inovação recursal e de preclusão quanto a insurgênciarecursal.
+Portanto, as razões recursais apresentadas encontram-se dissociadas do que foi decidido pelo Tribunal de origem, o que caracteriza deficiência na fundamentação do recurso especial e atrai, por analogia, o óbice da Súmula n. 284/STF.
+Além disso, com o reconhecimento dainovação recursal e dapreclusão,o conteúdo dos arts.421 e 422 do CC/2002 não foi analisado pela Corte local. Incidente, portanto, a Súmula n. 211/STJ, por falta de prequestionamento.
+Ante o exposto, NEGO PROVIMENTO ao recurso especial.
+Publique-se e intimem-se.
