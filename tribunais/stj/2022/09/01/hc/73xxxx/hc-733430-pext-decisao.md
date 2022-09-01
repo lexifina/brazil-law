@@ -1,0 +1,12 @@
+DECISÃO
+Cuida-se de pedido de extensão formulado por ISMAEL VICTOR SILVA MATOS, no qual se busca a extensão da ordem concedida em favor do corréu LUIS AUGUSTO MOURA GONÇALVESna decisão de fls. 338/340.
+Extrai-se dos autos que o requerente teve a prisão preventiva decretada em 02/9/2021, na denominada "Operação Balada", na qual se apura a prática dos delitos de organização criminosa, tráfico de drogas e de armamentos e lavagem de dinheiro. Posteriormente, foi denunciado pela suposta prática dos crimes previstos no art. 2º, caput, §§ 2º e 4º, IV, da Lei n. 12.850/2013 e no art. 35 da Lei n. 11.343/2006 (organização criminosa e associação para o narcotráfico).
+Em 18/3/2022,o Juízo de primeiro grau, no feito n. 0175064-83.2021.8.13.0702, concedeu a liberdade provisória ao acusado, mediante a aplicação de medidas cautelares alternativas, entre elas a fiança, que foi arbitrada no valor de R$ 50.000,00 (trinta mil reais) fls. 402/403 e 414/419.
+Em 06/4/2022 deferi liminar para reduzir o valor da fiança arbitrada ao corréu (fls. 52/55), e, em 10/5/2022 concedi a ordem, de ofício, confirmando a liminar deferida, estendendo a ordem a outros corréus.
+Daí o presente pedido de extensão, no qual o requerente afirma que se encontra submetido à situação idêntica ado corréu e faz jus à redução do valor da fiança arbitrada, em consonância com o art. 580 do CPP, ante a incidência da aplicação do princípio da isonomia.
+Pugna, assim, pela extensão da ordem concedida em favor do corréu, para que seja reduzida a fiança arbitrada.
+Solicitadas informações específicas quanto ao requerente (fl. 411), foram elas prestadas pelo Juízo às fls. 414/492.
+É o relatório.
+Decido.
+Conforme se observa dos autos, o ora requerente encontra-se na mesma situação fático-processual verificada pelo corréu, tendo em vista que o Juízo de primeiro grau, em ação penal relativa à denominada "Operação Balada" deferiu a liberdade provisória em seu favor, em 18/3/2022, mediante a aplicação de medidas cautelares alternativas, entre elas a fiança, arbitrada em R$ 50.000,00 (trinta mil reais), a ser recolhido no prazo de 30 dias (fls. 402/403). Assim, nos termos do art. 580 do CPP, o requerente faz jus à extensão da ordem concedida no presentemandamus.
+Diante do exposto, defiro o pedido apenas para estender ao ora requerente a ordem concedida ao corréu, reduzindo o valor arbitrado a título de fiança no feito n.5012261-34.2022.8.13.0702 para R$ 15.000,00 (quinze mil reais).
