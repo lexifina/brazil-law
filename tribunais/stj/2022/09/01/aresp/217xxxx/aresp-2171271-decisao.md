@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especialinterposto por GRACE SHERLEY DENNYcom fundamento no art. 105, III,aec, da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de Rondônia, assim ementado:
+"Apelação cível. Cartão de crédito consignado. Margem consignável. RMC. Relação jurídica comprovada. Assinatura do contratante. Ausência de vício. Recurso provido.Recurso adesivo não provido.
+Havendo prova da contratação do cartão de crédito com margem consignável, com assinatura do beneficiário, não há que se falar em ilegalidade da RMC, tampouco de dano moral, devendo-se operar o princípio do pacta sunt servanda."(fl. 443)
+Os embargos de declaração foram rejeitados (e-STJ, fls. 866/869).
+Nas razões do recurso especial, sustenta arecorrente,além de dissídio jurisprudencial, que o Tribunala quonegou vigência aos arts. 6º,III, 39, VII 46, 52, do CDC, na medida em que não reconheceu a vulnerabilidade do consumidor diante do contrato de cartão de crédito.
+Reforça que não foi cumprido por parte da instituição financeira o dever de informação dos termos do contrato, refletindo a ilicitude do negócio jurídico diante da fragilidade da parte,a que foi imputada a qualidade de contratante.
+É o relatório.Decido.
+O recurso especial é oriundo de ação declaratória de inexigibilidade de débito cumuladacom repetição de indébito e indenização por danos morais ajuizada pelaora agravante em face do agravado.
+A sentença julgou o pedido procedente em parte, em sede de apelação, o Tribunala quo, ao prover o recurso, julgou o pedido improcedente, considerando que houve a contratação de forma espontânea, não havendo qualquer ilegalidade no negócio jurídico.
+Confira-se por oportuno o voto condutor do acórdão recorridoin verbis:
+"O cerne da questão limita-se a analisar a legalidade, ou não, do contrato de cartão de crédito a título de RMC - Reserva de Margem Consignável, firmado entre as partes.
+Analisando detidamente os autos, percebe-se que o banco réu, ora apelante/recorrido, colacionou o contrato de cartão de crédito consignado BMG de nº 37833931 firmado pela autora em 11/05/2015, com liberação de saque no valor de R$ 4.383,00, bem como o contrato de cartão de crédito consignado BMG de nº 37836480, igualmente firmado pela autora em 11/05/2015, com liberação de saque no valor de R$ 3.351,00, ambos remetidos para conta indicada junto aos contratos (id. n.
+10218531/10218533), pelo que não merece prosperar a alegação da apelada/recorrente de ter celebrado um contrato de empréstimo consignado.
+A própria denominação do instrumento já aponta se tratar de um contrato de cartão de crédito, havendo cláusula expressa quanto ao desconto mensal do valor mínimo indicado na fatura:
+(..)
+Veja que a apelada/recorrida aproveitou-se de dois saques realizados do cartão de crédito consignado para a sua conta-corrente, a respeito do que, frise-se, a apelada não refutou o seu recebimento, limitando-se a alegar o desconhecimento da modalidade de contratação a título de cartão de crédito, quando entendia ser empréstimo consignado.
+Como se vê, era de conhecimento da apelada/recorrente o desconto mensal nos moldes acima transcritos, restando cristalina a autorização dada por ela, como atestou a sua assinatura aposta nos ajustes, e que não fora impugnada, não podendo, neste momento, alegar falta de informação.
+Dessa forma, alternativa não há, a não ser a de que o banco agiu no estrito exercício regular do direito, ao efetuar os descontos em debate, ante a autorização de próprio punho da requerente/apelada.
+Ressalte-se que o consumidor deve provar, mesmo que minimamente, o fato constitutivo de seu direito, quando comprovado, pela empresa ré, fato extintivo, impeditivo ou modificativo do direito pleiteado, e desse ônus não se desincumbiu a parte autora.
+Desta maneira, concluo não haver restado comprovado o ato lesivo descrito, o dano alegado e o nexo de causalidade, sendo totalmente descabida a pretensão autoral.
+Vale salientar, ainda, que a constituição de Reserva de Margem Consignável (RMC) para utilização de cartão de crédito não é ilícita, sendo possível mediante solicitação formal firmada pelo titular do benefício, conforme dispõe o artigo 15, inciso I, da Instrução Normativa INSS/PRES n.
+28/2008, como ocorrera no presente caso."(fls. 824/825)
+Com efeito, depreende-se do contexto firmado pelo Tribunala quo, que o dever de informação não foi violado, poisa adesão ao contrato foi embasada na presença declara informação acerca da contratação do cartão de crédito e da cobrança da renda mensal consignável. O enfrentamento da pretensão recursal em ver reconhecida a abusividade na cobrança de valores pela instituição financeira, para fins de repetição do indébito e ressarcimento por danos morais, implica o revolvimento de fatos e provas, vedado pela Súmula 7/STJ.
+Outrossim,é impossível conhecer da alegada divergência interpretativa, poisa incidência da Súmula 7 do STJ na questão controversa apresentada é, por consequência, óbice também para a análise do apontado dissídio, o que impede o conhecimento do recurso pela alínea c do permissivo constitucional.
+No mesmo sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REPETIÇÃO DO INDÉBITO CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. CARTÃO DE CRÉDITO CONSIGNADO. CONTRATAÇÃO COMPROVADA POR PROVA DOCUMENTAL. EXERCÍCIO REGULAR DE DIREITO. SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+1. O Tribunal a quo expressamente consignou que a prova documental acostada nos autos comprova que o recorrente celebrou, através do sistema de autoatendimento e mediante utilização de cartão magnético e senha pessoal, contrato de reserva de consignação. Aduziu, ainda, que a reserva de margem consignável constituiu exercício regular de direito do banco recorrido resultante da contratação do serviço de cartão de crédito, consignando expressamente que em momento algum foi realizado qualquer desconto no benefício previdenciário do recorrente referente à reserva de margem consignável. Alterar esse entendimento demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial. Incidência da Súmula 7/STJ.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1349476/SP, de minha Relatoria, QUARTA TURMA, julgado em, 26/3/2019, DJe de 11/4/2019)
+Dessa forma, entende-se que o acórdão recorrido deve ser confirmado pelos seus próprios fundamentos.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, doRISTJ, conheço do agravo para negar provimento ao recurso especial.
+Com supedâneo no art. 85, § 11, do Código de Processo Civil, majorooshonorários advocatícios devidos à parte recorrida de 10% sobre o valor da causa para 11% do respectivo valor,ressalvado o disposto no art.98, § 3º, doCódigo de Processo Civil de 2015, dada aeventual concessão de justiça gratuita.
+Publique-se.
