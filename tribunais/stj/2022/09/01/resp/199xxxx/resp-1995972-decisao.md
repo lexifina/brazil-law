@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especial interposto por JOSÉ AUGUSTO DOS SANTOS eOUTROS, com respaldo naalínea"a" do permissivo constitucional, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SERGIPE assim ementado (e-STJ fl. 717):
+AGRAVO INTERNO. DECISÃOMONOCRÁTICA QUE NEGOU PROVIMENTO A APELAÇÃO CÍVEL, COM ESTEIO NO ART.NCPC.932, IV, "C" DO NCPC. AÇAÕ REVISIONAL DE VENCIMENTOS. SERVIDOR PÚBLICO ESTADUAL. DIFERENÇAS SALARIAIS DECORRENTES DA CONVERSÃO DA URV EM REAL. PREJUDICIAL DE PRESCRIÇÃO DO FUNDO DE DIREITO. MATÉRIA DECIDIDA POR ESTA CORTE EM INCIDENTE DE RESOLUÇÃO DE DEMANDAS REPETITIVAS - IRDR N. 201700628748. APLICAÇÃO DA TESE FIXADA. PUBLICAÇÃO DO ACÓRDÃO. DESNECESSIDADE DE TRÂNSITO EM JULGADO.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 627/644).
+Em suas razões, a parte recorrente aponta violação do art. 982,§ 5º, do CPC/2015 e do art. 22 da Lei n. 8.880/1994, argumentando que os servidores possuem direito às diferenças salariais decorrentes da conversão da URV em real. Afirma que o Tribunala quoincorreu em ilegalidade ao aplicarentendimento de IRDR que não transitou em julgado, bem como defende que não ocorreu a prescrição do fundo de direito, em razão do previsto na Súmula 85 do STJ.
+Afirma que a Lei estadual n. 3.563/94 teve como objetivo tão somente promover um reajuste salarial, e nunca uma reestruturação da carreira.
+Contrarrazões às e-STJ fls. 531/545.
+Passo a decidir.
+Verifico que a pretensão recursal não merece prosperar.
+O Superior Tribunal de Justiça firmou o entendimento de que "o prazo prescricional começa a correr com a entrada em vigor de norma que reestrutura a carreira, com a instituição de um novo regime jurídico remuneratório, limitando a existência de possíveis diferenças salariais" (STJ, AgRg no REsp 1.424.052/SC, rel. Ministro MAURO CAMPBELL MARQUES, Segunda Turma, DJe de 26/03/2014).
+A propósito:
+ADMINISTRATIVO E PROCESSUAL CIVIL. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. SERVIDORES PÚBLICOS MUNICIPAIS. URV. PRESCRIÇÃO. REESTRUTURAÇÃO DE CARREIRA.
+1. Sabe-se que é vedada a compensação de perdas salariais com reajustes determinados por lei superveniente. Quando há reajuste remuneratório, com reestruturação de carreira, tem-se, contudo, o limite temporal, e, também, o marco inicial da contagem do prazo prescricional para a cobrança dos possíveis prejuízos decorrentes da errônea conversão de vencimentos em URV, que atinge todo o direito reclamado após o prazo de cinco anos. Precedentes.
+2. Agravo interno não provido.
+(AgInt no REsp 1.815.756/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 03/10/2019, DJe 14/10/2019).
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. URV. REESTRUTURAÇÃO DA CARREIRA. LIMITAÇÃO TEMPORAL. MARCO INICIAL DO PRAZO PRESCRICIONAL. VALORES PRETÉRITOS QUE SE ENCONTRAM PRESCRITOS. AGRAVO INTERNO DOS SERVIDORES A QUE SE NEGA PROVIMENTO.
+1. Cuida-se, na origem, de Ação Ordinária ajuizada por Servidores do Poder Judiciário do Estado do Rio de Janeiro, em que pleiteiam a incorporação aos seus vencimentos do percentual de 11,98% decorrente da errônea conversão de Cruzeiros Reais para Unidade Real de Valor-URV.
+2. A instância originária reconheceu que a Lei 4.620/2005, do Estado do Rio de Janeiro, que reestruturou a carreira dos Servidores do Poder Judiciário daquela unidade federativa, é o marco inicial da contagem do prazo prescricional, e tendo a presente ação sido ajuizada somente no ano de 2014, ou seja, nove anos após a entrada em vigor do respectivo diploma normativo, inexistem parcelas a serem pagas no quinquênio anterior ou posterior ao ajuizamento da ação.
+3. O entendimento do Tribunal a quo se alinha a jurisprudência desta Corte Superior de que a reestruturação da carreira dos Servidores é o marco inicial da contagem do prazo prescricional para a cobrança dos possíveis prejuízos decorrentes da errônea conversão de vencimentos em URV, que atinge todo o direito reclamado após o prazo de cinco anos. Precedentes: EDcl no REsp. 1.233.500/MG, Rel. Min. MAURO CAMPBELL MARQUES, DJe 23.2.2017; AgRg no AREsp. 811.567/MS, Rel. Min. HERMAN BENJAMIN, DJe 23.5.2016; AgInt no AREsp. 935.728/SP, Rel. Min. SÉRGIO KUKINA, DJe 22.9.2016; AgRg no REsp. 1.565.046/SP, Rel. Min. DIVA MALERBI, DJe 31.8.2016.
+4. Agravo Interno dos Servidores a que se nega provimento.
+(AgInt no AREsp 1.035.843/RJ, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 22/08/2017, DJe 31/08/2017).
+Na hipótese, tendo o aresto recorrido registrado que a Lei estadual n. 3.563/1994 reestruturou a carreira da ora recorrente esendo a ação ajuizada somente em 11/12/2017, a pretensão encontra-se totalmente fulminada pela prescrição.
+Em caso idêntico, vide decisão monocrática proferida no REsp 1.915.479/SE, Primeira Turma, rel. Min. Sérgio Kukina, DJe 22/02/2021.
+Incidena hipótesea Súmula 83 do STJ.
+Registre-se que a modificação do julgado, a partir da desconstituição da premissa de que a Lei estadual n. 3.563/1994 efetivamente reestruturou a carreira da ora recorrente, demanda análise de legislação local, o que é incompatível com a via estreita do recurso especial, nos termos da Súmula 280 do STF.
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
