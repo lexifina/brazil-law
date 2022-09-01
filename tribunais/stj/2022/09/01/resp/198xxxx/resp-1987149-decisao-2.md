@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por Paraná Clínicas Planos de Saúde S/A contra decisãonegativade admissibilidade às fls. 797/808, que teve por fundamento a falta de prequestionamento, a Súmula 7/STJ, a Súmula 284/STF e a impossibilidade de análise de ofensa a normativo interno.
+É o relatório. Passo a decidir.
+Consigne-se que os recursos foram interpostos contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Nos termos do que dispõem os artigos 932, III, do CPC/2015 e 253, parágrafo único, I, do RI/STJ (redação dada pela Emenda Regimental n. 22, de 2016), compete ao agravanteimpugnarespecificamente os fundamentos da decisão que obstou o recurso especial na origem.
+Assim, além da manifestação do inconformismo, inerente ao ato de irresignação, impõe-se ao recorrente o ônus de contrapor-se, de forma clara e específica, aos fundamentos da decisão agravada, conforme determina a lei processual civil e o princípio da dialeticidade.
+Com efeito, encontra-se consolidado nesta Corte o entendimento de que incumbe ao agravante infirmar, especificamente, todos os fundamentos da decisão que não admitiu o processamento do recurso especial. A propósito: EAREsp 701.404/SC, Rel. Ministro João Otávio de Noronha, Rel. p/ Acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe 30/11/2018.
+No caso dos autos, a agravante não impugnou, especificamente, a falta de prequestionamento e a impossibilidade a análise de ofensa a normativo interno, o que acarreta o não conhecimento do agravo. Nesse sentido: AgInt no AREsp 1.276.237/RS, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 19/12/2018; AgInt no AREsp 718.118/MT, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 18/12/2018;
+AgInt no AREsp 1.345.064/SP, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 13/12/2018.
+Ante o exposto, não conheço do agravo em recurso especial da Paraná Clínicas Planos de Saúde S/A. Caso tenham sido fixados honorários sucumbenciais anteriormente pelas instâncias ordinárias, majoro-os em 10%, observados os limites e parâmetros dos §§ 2º, 3º e 11 do artigo 85 do CPC/2015 e eventual Gratuidade da Justiça (§ 3º do artigo 98 do CPC/2015).
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. ARESP. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. AGRAVO NÃO CONHECIDO.
