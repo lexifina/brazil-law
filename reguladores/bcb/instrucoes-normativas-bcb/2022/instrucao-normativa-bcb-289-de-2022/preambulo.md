@@ -1,0 +1,4 @@
+INSTRUÇÃO NORMATIVA BCB Nº 289, DE 29 DE JULHO DE 2022
+Reestabelece a fluência do decurso dos prazos aos quais se sujeitam os requerentes nos processos de abertura de conta Reservas Bancárias, de Conta de Liquidação e de Conta Pagamentos Instantâneos (Conta PI), e para participação direta no Sistema de Transferência de Reservas (STR) e no Sistema de Pagamentos Instantâneos (SPI), de que tratam as Instruções Normativas BCB nº 287, de 27 de julho de 2022, e nº 243, de 16 de março de 2022.
+O Chefe do Departamento de Operações Bancárias e de Sistema de Pagamentos (Deban), no uso da atribuição conferida pelo art. 23, inciso I, alínea “a”, e pelo art. 111, inciso V, todos do Regimento Interno do Banco Central do Brasil, anexo à Portaria nº 84.287, de 27 de fevereiro de 2015, e tendo em conta o disposto nos Regulamentos anexos à Resolução BCB nº 105, de 9 de junho de 2021, e à Resolução BCB nº 195, de 3 de março de 2022,
+R E S O L V E :
