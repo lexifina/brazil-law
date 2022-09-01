@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo DEPARTAMENTO NACIONAL DE PRODUÇÃO MINERAL - DNPM, com base no art. 105, III, "a", da CF/1988 contra acórdão doTribunal Regional Federal da 1ª Região assim ementado (e-STJ fl. 161):
+PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. TAXA ANUAL POR HECTARE.NATUREZA JURÍDICA DE PREÇO PÚBLICO. PRESCRIÇÃO QUINQUENAL.
+1. "O STF firmou o entendimento de que a Taxa Anual por Hectare - TAH não tem natureza jurídica de taxa - por não decorrer do poder de polícia do Estado, tampouco da utilização efetiva ou potencial de serviço público específico e divisível prestado ao contribuinte ou posto a sua disposição (art. 145, II, da Constituição da República de 1988) -, mas sim de preço público decorrente da exploração de bem da União pelo particular (art. 20, IX, c/c o art. 175 e §§, da Carta Magna de 1988)" (TRF1, AGA 0011110-16.2009.4.01.0000 / MT, Rel. Desembargadora Federal Maria do Carmo Cardoso, Oitava Turma, e-DJF1 p.1255 de 30/08/2013).
+2. A Taxa Anual por Hectare, assim, como a taxa de ocupação de terreno de marinha, é preço público e, como tal, é regida pelo prazo prescricional qüinqüenal previsto no art. 47 da Lei nº 9.636/98. (TRF1, AC 0004118-29.2012.4.01.4302(TO, Rel. Desembargador Federal Luciano Tolentino Amaral, Sétima Turma, e-DJF1 de 06/12/2013).
+3. O vencimento da divida ocorreu entre 30/07/2004 e 29/07/2005, tendo a execução sido proposta somente em 18/08/2014, ou seja, após o transcurso do prazo quinquenal.
+4. Não evidenciada a suspensão ou a interrupção do prazo prescricional, resta configurada a incidência do referido instituto.
+5. Apelação não provida.
+Embargos de declaração rejeitados (e-STJ fls. 169/172).
+No recurso especiala parte apontouviolação dos arts.1.022 do CPC/2015, por negativa de prestação jurisdicional.
+No mérito, alegou ofensa ao art. 47 da Lei n. 9.636/1998, argumentando quea prescrição não se operou porque, "somente com a notificação do interessado acerca da última decisão do processo administrativo de constituição do crédito, este deve ser reputado definitivamente constituído. A partir de então, tem início o prazo prescricional para que o DNPMefetive os atos concretos de cobrança, como por exemplo, a inscrição em débito em dívida (que, diga-se de passagem, irá suspender o curso do prazo prescricional por cento e oitenta dias, na forma do § 3ºdo art. 2ºda Lei n.6.830/1980) e o ajuizamento da execução fiscal respectiva" (e-STJ fl. 180).
+Afirma que "resta, assim, demonstrada a ofensa ao art. 47, da Lei n. 9.636/98, que estabelece o prazo dccadencia 10 (dez) anos para a constituição dos créditos originados de receita patrimonial referente à Taxa Anual por He / (TAH) do DNPM, como no caso em comento" (e-STJ fl. 182).
+Sem contrarrazões, oapelo nobre recebeu juízo positivo de admissibilidade pelo Tribunal de origem (e-STJ fls. 190/191).
+Passo a decidir.
+No que concerne à alegada negativa de prestação jurisdicional, saliente-se que o art. 1.022 do Código de Processo Civil/2015 prevê que os embargos de declaração são cabíveiscontra qualquer decisão judicial, no intuito de esclarecer obscuridade, eliminar contradição, suprir omissão ou para correção de eventual erro material, in verbis:
+Art. 1.022. Cabem embargos de declaração contra qualquer decisão judicial para:
+I - esclarecer obscuridade ou eliminar contradição;
+II - suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento;
+III - corrigir erro material.
+Especificamente quanto à hipótese do inciso II, a novel legislação processual definiu como omissão as seguintes situações: (i) deixar de se manifestar sobre tese firmada em sede de recursos repetitivos ou em incidente de assunção de incompetência, e (ii) incorra a decisão judicial em qualquer das condutas descritas no artigo 489, § 1º, do CPC/2015.
+Esse dispositivo, por sua vez, trata dos casos em que a decisão judicial carece de fundamentação, senão vejamos:
+§ 1º Não se considera fundamentada qualquer decisão judicial, seja ela interlocutória, sentença ou acórdão, que:
+I - se limitar à indicação, à reprodução ou à paráfrase de ato normativo, sem explicar sua relação com a causa ou a questão decidida;
+II - empregar conceitos jurídicos indeterminados, sem explicar o motivo concreto de sua incidência no caso;
+III - invocar motivos que se prestariam a justificar qualquer outra decisão;
+IV - não enfrentar todos os argumentos deduzidos no processo capazes de, em tese, infirmar a conclusão adotada pelo julgador;
+V - se limitar a invocar precedente ou enunciado de súmula, sem identificar seus fundamentos determinantes nem demonstrar que o caso sob julgamento se ajusta àqueles fundamentos;
+VI - deixar de seguir enunciado de súmula, jurisprudência ou precedente invocado pela parte, sem demonstrar a existência de distinção no caso em julgamento ou a superação do entendimento.
+Para a admissão do recurso especial com base no referido dispositivo, a omissão tem que ser manifesta, ou seja, imprescindível para o enfrentamento da quaestio.
+No presente caso, a insurgência do recorrente se amolda à hipótese elencada no inciso IV do art. 489, § 1º, do CPC/2015, tendo em vista que a Corte de origem não exprimiu juízo de valor sobre a alegação feita inicialmente na apelação e reiterada nos embargos de declaração, de que no caso da Taxa Anual por Hectare - TAH, há prazo decadencial para constituição do crédito, e somente após esse prazo é que se inicia o prazo prescricional, aduzindo que (e-STJ fl. 166):
+Para constituir esse crédito (lançar) o Legislador fixou, primeiramente, o prazo decadencial de cinco anos (Lei 9.821, de 24/08/1999) e, posteriormente, alterou tal prazo para dez anos (Lei 10.852, de 30/03/2004). Como tal alteração ocorreu antes de completado o primeiro qüinqüênio de vigência da Lei 9.821/99, tem-se que os débitos aindanão estavam caducos, devendo o novo prazo ser aplicado aos mesmos. Isso ocorre porque "a prescrição e a decadênciasubordinam-se à lei em vigor na data do termo prescricional ou preclusivo." (BATALHA, Direito intertemporal, p. 241), inexistindo direito adquirido a determinado prazo decadencial, nos termos do art. 5º, XXXVI da CF/88 e do art. 6º da LICC.
+Após a constituição do crédito pelo lançamento, tem-se o inicio do prazo prescricional para o DNPM inscrevê-lo em divida ativa e ajuizar a execução fiscal, nos termos do art. 47, 11, Lei 9.636/98, com a redação dada pela Lei 10.852/2004.
+Com efeito, é de suma importância a verificação da referida tese, visto que o cômputo do prazo pode vir a alterar o resultado do julgamento.
+Assim, a ocorrência de vício de integração justifica a nulidade do acórdão recorrido, por violação do art. 1.022 do CPC/2015, para que as questões levantadas pela recorrente sejam apreciadas pelo Tribunal de origem, à luz do caso concreto, até mesmo para fins de efetivo prequestionamento, sob pena de inviabilizar o acesso à instância especial, nos termos da Súmula 211 do STJ.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OFENSA AO ART. 1.022 DO CPC. OMISSÃO NO ACÓRDÃO CONFIGURADA. ANÁLISE DE QUESTÕES EMINENTEMENTE FÁTICAS EM SEDE DE RECURSO ESPECIAL. IMPOSSIBILIDADE. NECESSIDADE DE RETORNO DOS AUTOS À CORTE DE ORIGEM. AGRAVO IMPROVIDO.
+1. Reconhecida a existência de omissão no acórdão recorrido e referindo-se o vício a questões eminentemente fáticas, impõe-se o retorno dos autos à Corte de origem para novo julgamento, tendo em vista a impossibilidade de esta Corte Superior adentrar a análise do acervo fático-probatório dos autos.
+2. Agravo interno improvido.
+(AgInt no AREsp 1.149.082/DF, Relator Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, DJe 14/12/2017).
+PROCESSUAL CIVIL E TRIBUTÁRIO. QUESTÃO RELEVANTE SUSCITADA EM EMBARGOS DE DECLARAÇÃO. AUSÊNCIA DE PRONUNCIAMENTO NO ACÓRDÃO RECORRIDO. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. RETORNO DOS AUTOS À CORTE DE ORIGEM.
+1. Incide em violação ao art. 1.022 do CPC/2015 o órgão julgador que, instado a se pronunciar sobre questão relevante para o deslinde da controvérsia, permanece silente a seu respeito, causando prejuízo à parte embargante.
+2. Deve-se reconhecer a existência de omissão no acórdão impugnado; daí a necessidade de que seja proferido novo julgamento dos Embargos, analisando-se, desta vez, o ponto apresentado pela parte recorrente: "por força da previsão no edital e expresso entendimento do ilustre Magistrado da 4ª Vara Especializada de Execuções Fiscais, os Arrematantes/Embargados, no caso concreto, são responsáveis pelo pagamento dos tributos com fatos geradores anteriores à arrematação".
+3. Recurso Especial provido, determinando-se o retorno dos autos ao Tribunal de origem para que se manifeste sobre o ponto suscitado nos aclaratórios. (REsp 1.695.486/SP, Relator Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 19/12/2017).
+Pelo exposto, com base no art. 255, § 4º, III, do RISTJ, DOU PROVIMENTO ao recurso especial, para, anulando o acórdão prolatado em sede de embargos declaratórios, determinar o retorno dos autos ao Tribunal a quo,a fim de que seja analisada a questão omitida.
+Publique-se. Intimem-se.
