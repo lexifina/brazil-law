@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de NAZEU BRITO HONORATO em que se aponta como autoridade coatora o Tribunal de Justiça do Estado do Amazonas (Revisão Criminal n. 4004912-86.2020.8.04.0000).
+O paciente foi condenado às penas de 9 anos e 8 meses de reclusão em regime inicial fechado e de 1.500 dias-multa, pela prática dos delitos descritos nos arts. 33, caput, e 35 da Lei n. 11.343/2006. A pena-base foi fixada acima do mínimo legal, reconhecida a atenuante da confissão com reflexo na pena e afastado o tráfico privilegiado.
+A defesa requer, liminarmente, o redimensionamento da pena, aplicando-se a fração de 1/6 a cada circunstância judicial negativa.
+Indeferido o pedido de liminar e prestadas as informações, o Ministério Público Federal opinou pela denegação da ordem.
+É o relatório. Decido.
+Ainda que inadequada a impetração de habeas corpus em substituição à revisão criminal ou ao recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o STJ considera passível de correção de ofício o flagrante constrangimento ilegal.
+Não se identifica ilegalidade que autorize a concessão da ordem ex officio.
+A dosimetria da pena é o procedimento em que o magistrado, utilizando-se do sistema trifásico de cálculo, chega ao quantum ideal da pena com base em suas convicções e nos critérios previstos abstratamente pelo legislador.
+Conforme a orientação jurisprudencial do STJ, o cálculo da pena é questão afeta ao livre convencimento do juiz, passível de revisão por este Tribunal somente nos casos de notória ilegalidade, para resguardar a observância da adequação, da proporcionalidade e da individualização da pena (AgRg no AREsp n. 1.843.362/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 14/5/2021; HC n. 405.765/SP, relator Ministro Felix Fischer, Quinta Turma, DJe de 11/10/2017; e AgRg no HC n. 524.277/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 18/5/2020).
+Na primeira fase da dosimetria da pena, nos termos do art. 42 da Lei n. 11.343/2006, a quantidade, a diversidade e a natureza da droga apreendida, bem como a personalidade e a conduta social do agente, são preponderantes sobre as demais circunstâncias judiciais do art. 59 do Código Penal e podem justificar a exasperação da pena-base.
+Assim, com base no princípio do livre convencimento motivado, por força do quadro fático-probatório que envolve o tráfico de drogas e da aplicação do princípio da especialidade, o julgador poderá concluir pela necessidade de exasperação e escolher a fração que considerar razoável para aplicar ao caso concreto.
+Por esse motivo, a revisão da dosimetria da pena pelo Superior Tribunal de Justiça só é admitida em situações excepcionais de manifesta ilegalidade ou de abuso de poder que possam ser aferidas de plano, sem necessidade de dilação probatória (AgRg no REsp n. 1.492.977/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 24/3/2021; e AgRg no HC n. 644.934/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 15/3/2021).
+Ressalte-se que, na ausência de previsão legal, o STJ sedimentou a orientação de que a exasperação da pena-base na fração de 1/6 para cada circunstância judicial valorada negativamente atende os princípios da razoabilidade e da proporcionalidade (HC n. 458.799/DF, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 10/12/2018).
+Todavia, com base no princípio do livre convencimento motivado, ainda que valorado um único vetor, considerada sua preponderância, o julgador poderá concluir pela necessidade de exasperação da pena-base em fração superior se considerar expressiva a quantidade da droga, sua diversidade e/ou natureza (art. 42 da Lei n. 11.343/2006).
+No caso, de modo fundamentado, a pena-base foi exasperada em 3 anos, em razão da natureza do delito e da quantidade da droga apreendida (45,07kg de maconha e 183,225kg de cocaína), não evidenciando a ilegalidade suscitada pela defesa.
+Portanto,a persuasão racional dos julgadores para majorar a pena-base para 8 anos de reclusão, em razão da exorbitante quantidade de entorpecente apreendida, não revela flagrante ilegalidade.
+Não se constata, pois, a existência de flagrante constrangimento ilegal que autorize a atuação ex officio.
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
