@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no art. 105, III, "a" e "c", da CF, contra acórdão do TJRJassim ementado (e-STJ fl. 719):
+APELAÇÃO CÍVEL. AÇÃO DE EXIGIR CONTAS. PRIMEIRA FASE EM QUE SE VISA DECLARAR A EXISTÊNCIA OU INEXISTÊNCIA DO DEVER DE PRESTAR CONTAS. SENTENÇA QUE DETERMIOU AO RÉU QUE PRESTE À PARTE AUTORA AS CONTAS NO PRAZO DE 15 DIAS. RECURSO DE APELAÇÃO INCABÍVEL. ERRO GROSSEIRO. INEXISTÊNICA DE DÚVIDA OBJETIVA QUANTO AO RECURSO CABÍVEL, UMA VEZ QUE COM A VIGÊNCIA DO ATUAL CÓDIGO DE PROCESSO CIVIL NÃO HÁ MAIS DIVERGÊNCIA DOUTRINÁRIA OU DISSÍDIO JURISPRUDENCIAL ACERCA DE QUE O AGRAVO DE INSTRUMENTO É O RECURSO PREVISO PARA ATACAR DECISÃO QUE JULGA A PRIMEIRA FASE DA AÇÃO DE EXIGIR CONTAS. ARTIGO 1.015, II, DO CPC. SEGUNDO PACÍFICA JURISPRUDÊNCIA DO E.STJ O ATO JUDICIAL QUE JULGA PROCEDENTE A PRIMEIRA FASE DA AÇÃO PARA TOMAR CONTAS TEM NATUREZA INTERLUCOTÓRIA, DEVENDO SER IMPUGNÁVEL POR AGRAVO DE INSTRUMENTO. ERRO CRASSO A INVIABILIZAR A APLICAÇÃO DO PRINCÍPIO DA FUNGIBILIDADE. PRECEDENTES DESTA CORTE DE JUSTIÇA. RECURSO NÃO CONHECIDO.
+Os embargos de declaração foram rejeitados (e-STJ fls. 770/774).
+Nas razões do recurso especial (e-STJ fls. 784/800), fundamentado no art. 105, III, "a" e "c", da CF, o recorrente aduz ofensa aos arts. 489 e 1.022 do CPC/2015, afirmando haver negativa de prestação jurisdicional.
+Suscita dissídio jurisprudencial e contrariedade aos arts. 4º e550, § 5º,do CPC/2015, argumentando que o Juiz reconheceu o seu dever de prestar contas à parte recorrida, mediante ato judicial intitulado de sentença.
+Nesse contexto, defende que a interposição de apelação contra a referida decisão seria decorrência de indução da parte em erro pelo julgador de primeira instância, o que autorizaria a Corte local receber sua apelação como agravo deinstrumento, com base na aplicação do princípio da fungibilidade recursal.
+Foram ofertadas contrarrazões (e-STJ fls. 862/868).
+O recurso foi admitido na origem (e-STJ fls. 870/874).
+É o relatório.
+Decido.
+Não assiste razão ao recorrente quanto à tese de negativa de prestação jurisdicional, uma vez que o Tribunal a quo decidiu a matéria controvertida, não incorrendo em omissão, contradição ou obscuridade.
+Ressalte-se que o fato de o julgamento ser contrário aos interesses do recorrente não configura nenhum dos vícios do art. 458 do CPC/1973 (atual art. 489 do CPC/2015), tampouco é o caso de cabimento dos aclaratórios.
+A fim de sustentar a aplicação do princípio da fungibilidade recursal, a parte recorrente apontou violação dos arts. 4º e 550, § 5º, do CPC/2015.
+Ocorre que tais dispositivos legais não possuem o alcance normativo pretendido para sustentar a alegação, porque nada dispõem a respeito do mencionado princípio.
+Dessa forma, a fundamentação recursal mostra-se deficiente e atrai, por analogia, a Súmula n. 284/STF.Nesse aspecto: AgInt no AgInt no AREsp n. 984.530/SP, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 21/9/2017, DJe 20/10/2017, e AgInt no REsp n. 1.505.441/SC, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 27/6/2017, DJe 2/8/2017.
+O Tribunal de origem não debateu o conteúdo do art. 4º do CPC/2015, a despeito dos aclaratórios opostos, porque a solução jurídica encontrada independia da aplicação desse normativo.Inafastável, dessa maneira, o óbice das Súmulas n. 282 do STF e 211 do STJ.
+Conforme o entendimento desta Corte Superior, "a interposição equivocada de recurso contra expressa disposição legal acerca do recurso cabível afasta a dúvida objetiva e constitui erro inescusável, inviabilizando a aplicação do princípio da fungibilidade recursal" (AgInt no AREsp n. 1.689.309/MS, relator Ministro Raul Araújo, Quarta Turma, julgado em 21/6/2021, DJe de 1º/7/2021).
+Do mesmo modo:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DE ADMISSIBILIDADE. AGRAVO DO ART. 1.042 DO CPC/2015. EQUÍVOCO. TRIBUNAL ESTADUAL. FUNGIBILIDADE. CONFIGURAÇÃO. AUSÊNCIA. ERRO GROSSEIRO.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A interposição equivocada de recurso diverso daquele expressamente previsto em lei, quando ausente dúvida objetiva, constitui manifesto erro grosseiro, que inviabiliza a aplicação do princípio da fungibilidade. Precedente.
+(..)
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.904.574/DF, relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 25/4/2022, DJe de 5/5/2022.)
+Além disso, a TERCEIRA TURMA do STJ no julgamento do Recurso Especial n. 1.746.337/RS, Relatoria da Ministra NANCY ANDRIGHI, julgado em 9/4/2019, DJe 12/4/2019, concluiu que "o ato judicial que encerra a primeira fase da ação de exigir contas possuirá, a depender de seu conteúdo, diferentes naturezas jurídicas: se julgada procedente a primeira fase da ação de exigir contas, o ato judicial será decisão interlocutória com conteúdo de decisão parcial de mérito, impugnável por agravo de instrumento; se julgada improcedente a primeira fase da ação de exigir contas ou se extinto o processo sem a resolução de seu mérito, o ato judicial será sentença, impugnável por apelação".
+E ainda, a QUARTA TURMA do STJ no julgamento do Recurso Especial n. 1.680.168/SP, Relator p/ Acórdão Ministro RAUL ARAÚJO, julgado em 9/4/2019, DJe 10/6/2019 entendeu que, "não acarretando a decisão o encerramento do processo, o recurso cabível será o agravo de instrumento (CPC/2015, arts. 550, § 5º, e 1.015, II).No caso contrário, ou seja, se a decisão produz a extinção do processo, sem ou com resolução de mérito (arts. 485 e 487), aí sim haverá sentença e o recurso cabível será a apelação".
+No caso, a decisão que condenou o recorrente a prestar contas à parte recorrida foi proferida em 18 de setembro de 2020 (e-STJ fl. 616), sendo a parte recorrente intimada em 21/9/2020 (e-STJ fl. 618).
+Ademais, a controvérsia referente ao recurso cabível na espécie estava pacificada, desde abril de 2019, entre as Turmas que compõem a Segunda Seção desta Corte Superior, ou seja, antes do ato judicial impugnado.
+Logo, não há falar em dúvida objetiva para justificar o princípio da fungibilidade recursal.
+Por fim, o conhecimento do recurso pela alínea "c" do permissivo constitucional exige a indicação do dispositivo legal ao qual foi atribuída interpretação dissonante e a demonstração da divergência, mediante o cotejo analítico do acórdão recorrido e dos arestos paradigmas, de modo a se verificarem as circunstâncias que assemelhem ou identifiquem os casos confrontados (arts. 255, § 1º, do RISTJ e 1.029, § 1º, do CPC/2015), ônus dos quais orecorrente não se desincumbiu.
+Diante do exposto, NEGO PROVIMENTO ao recurso especial.
+Publique-se e intimem-se.
