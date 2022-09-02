@@ -1,0 +1,6 @@
+DECISÃO
+LUCAS HENRIQUE PEREIRA, condenado por tráfico de drogas, alega ser vítima de constrangimento ilegal em decorrência de decisão proferida por Desembargador do Tribunal de Justiça do Estado de São Paulo, que indeferiu pedido de liminar em habeas corpus impetrado na origem, o qual pretendia a revogação da prisão preventiva mantida na sentença condenatória, objetivo este reiterado liminarmente nesta oportunidade.
+Entretanto, constato que suas alegações vieram desacompanhadas de documentoessencial que permitisse o exame fidedigno da controvérsia. De fato, segundo a sentença condenatória, a constrição cautelar foi mantida com base nos fundamentosexternados na decisão primeva que decretou a preventiva, a qual não foi trazida pela defesa no writ.
+A possibilidade de se impetrar habeas corpus, destituído de qualquer formalidade essencial, não se traduz na desnecessidade de instruí-lo com os documentos essenciais que possibilitem avaliar a existência ou não de constrangimento ilegal. Nesse sentido é pacífica a orientação desta Corte (AgRg no HC n. 285.578/AM, Rel. Ministro Marco Aurélio Bellizze, DJe 2/5/2014).
+À vista do exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
