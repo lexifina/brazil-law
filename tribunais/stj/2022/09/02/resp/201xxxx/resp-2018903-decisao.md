@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo CONSELHO REGIONAL DE FARMÁCIA DO ESTADO DO RIO DE JANEIRO contra acórdão assim ementado:
+APELÇÃO. EMBARGOS À EXECUÇÃO FISCAL. CONSELHO PROFISSIONAL. CRF/RJ. MULTA ADMINISTRATIVA. AUSÊNCIA DE RESPONSÁVEL TÉCNICO NO ESTABELECIMENTO FARMACÊUTICO. VALOR DA MULTA APLICADO ACIMA DO MÍNIMO LEGAL. REDUÇÃO. RECURSO PARCIALMENTE PROVIDO.
+1. Cuida-se de recurso de apelação interposto contra r. sentença que julgou improcedentes os embargos à execução fiscal que objetiva desconstituir o crédito perseguido pelo Conselho Regional de Farmácia do Estado do Rio de Janeiro, na forma do artigo 24, parágrafo único, da Lei nº 3.820/60 e do artigo 15, § 1º, da Lei nº 5.991/73, por não manter no estabelecimento comercial profissional farmacêutico devidamente registrado.
+2. Consoante se verifica do artigo 10, "c", da Lei 3.820/60, que cria o Conselho Federal e os Conselhos Regionais de Farmácia, cabe ao Conselho Regional de Farmácia a fiscalização de drogarias e farmácias quanto à manutenção de responsável técnico durante todo o período de funcionamento ,punindo eventuais infrações.
+3. De acordo com o artigo 24 do referido diploma legal, as farmácias devem possuir profissional farmacêutico, habilitado e registrado no Conselho Regional de Farmácia, durante todo o período de funcionamento do estabelecimento.
+4. Nos termos do artigo 1º, da Lei nº 5.724/71, as multas previstas no artigo 24, da Lei nº 3.820/60,deverão ser graduadas entre um e três salários-mínimos regionais e serão elevadas ao dobro no caso de reincidência.
+5. A graduação legal permite determinada discricionariedade na conduta do Conselho Profissional na escolha da sanção cabível; entretanto, tal discricionariedade não pode incorrer em arbitrariedade, devendo sempre estar pautada pela aplicação dos princípios da razoabilidade, proporcionalidade e motivação. Assim, ao aplicar a multa em valores superiores ao mínimo legal, deve o Conselho Profissional motivar a razão do gravame, a fim de oportunizar o direito de defesa por parte do autuado.
+6. No presente caso, não obstante a regular aplicação da multa, verifica-se do processo administrativo que a multa foi aplicada acima do limite máximo estabelecido no artigo 1º da Lei nº 5.724/71, sem, entretanto, estar devidamente fundamentada.
+7. Verifica-se, ainda, da Instrução de Processo Fiscal pelo Serviço de Fiscalização, que a parte embargante, ora apelante, não era reincidente no momento da autuação, motivo pelo qual não deve ser elevado ao dobro a multa aplicada no presente caso.
+8. Tendo em vista a ausência de motivação clara, bem como a não reincidência do embargante, ora apelante, deve o valor da multa ser reduzido ao mínimo previsto no artigo 1º da Lei nº 5.724/71, que atualizou o valor das multas previstas no parágrafo único do artigo 24 da Lei nº 3.820/60.
+9. Recurso de apelação parcialmente provido.
+Atribuiu-se à causa o valor de R$ 7.488,54 em novembro de 2020.
+Os embargos de declaração opostos foram rejeitados.
+No presente recurso especial, o recorrente aponta violação do art. 1º da Lei n. 5.724/1971, sustentando, em suma, que a redução do valor da multa aplicada pelo Conselho ora recorrente foi realizado sem motivação e que não é atribuição do Poder Judiciário a imposição de novos limites ou regramentos não previstos em lei.
+É o relatório. Decido.
+Compulsando detidamente os autos verifica-se que a irresignação do recorrente, de que a redução da multa aplicada foi equivocada e não cumpriu os ditames legais, vai de encontro às convicções do julgador a quo, que, com lastro no conjunto fático-probatório constante dos autos, decidiu:
+No que concerne ao valor estipulado da multa aplicada, nos termos do artigo 1º, da Lei nº 5.724/71, as multas previstas no artigo 24, da Lei nº 3.820/60, deverão ser graduadas entre um e três salários-mínimos regionais e serão elevadas ao dobro no caso de reincidência.
+Essa graduação legal permite determinada discricionariedade na conduta do Conselho Profissional na escolha da sanção cabível; entretanto, tal discricionariedade não pode incorrer em arbitrariedade, devendo sempre estar pautada pela aplicação dos princípios da razoabilidade, proporcionalidade e motivação.
+Assim, ao aplicar a multa em valores superiores ao mínimo legal, deve o Conselho Profissional motivara razão do gravame, a fim de oportunizar o direito de defesa por parte do autuado.
+No presente caso, analisando o voto do conselheiro relator no processo administrativo fiscal nº 83619 (Evento 28 - OUT2), verifica-se que apresenta defeitos de impressão ou escaneamento eletrônico, com o conteúdo apagado, não permitindo a visualização dos motivos expostos para a aplicação da multa além do limite previsto no artigo 1º da Lei 5.724/1971.
+(..)
+Devidamente intimado para apresentar o referido documento de maneira legível (Evento 7), o Conselho Profissional de manteve inerte, permanecendo, assim, a impossibilidade e se analisar a motivação.
+Ademais, considerando que o valor do salário-mínimo no ano da autuação em questão era de R$998,00, tem-se que o limite legal seria de R$ 2.994,00 (3 x R$ 998,00), o qual elevado ao dobro em caso de reincidência chegaria ao patamar máximo de R$ 5.988,00.
+Contudo, a multa aplicada pelo Conselho Profissional foi de R$ 7.160,16 (sete mil, cento e sessenta reais e dezesseis centavos), ou seja, acima do limite máximo estabelecido no artigo 1º da Lei nº 5.724/71.
+Por fim, verifica-se da Instrução de Processo Fiscal pelo Serviço de Fiscalização, que a parte embargante, ora apelante, não era reincidente no momento da autuação, motivo pelo qual não deve ser elevado ao dobro a multa aplicada no presente caso.
+Desse modo, infirmar as conclusões do acórdão recorrido, que reconheceu a irregularidade da autuação e reduziu o valor da multa aplicada nos termos prescritos pela própria lei, exigiria o reexame de elementos fático-probatórios do processo, providência esta que se encontra vedada no âmbito estreito do recurso especial consoante a Súmula n. 7/STJ.
+Assim, também a jurisprudência:
+PROCESSUAL CIVIL E ADMINISTRATIVO. MULTA PREVISTA EM EDITAL DE LICITAÇÃO. VALOR EXORBITANTE. CONSTATAÇÃO. REDUÇÃO. POSSIBILIDADE.
+1. A jurisprudência do STJ, via de regra, reputa incabível na via especial a revisão do valor estabelecido pelas instâncias ordinárias a título de multa, ante a impossibilidade de análise de fatos e provas, conforme a Súmula 7 do STJ.
+2. Em caráter excepcional, admite-se a alteração da penalidade quando o quantum imposto se mostrar irrisório ou exorbitante, ou seja, em descompasso com os princípios da razoabilidade e da proporcionalidade (REsp 1.859.535/SP, Rel. Ministro SÉRGIO KUKINA, Primeira Turma, julgado em 10/03/2020, DJe 26/06/2020).
+(..)
+5. Agravo desprovido.
+(AgInt no AREsp n. 1.456.402/ES, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 8/3/2021, DJe de 17/3/2021.)
+PROCESSUAL CIVIL. ADMINISTRATIVO. PROPAGANDA ENGANOSA. PROCON. MULTA ADMINISTRATIVA. ANULAÇÃO. PROCEDÊNCIA PARCIAL DO PEDIDO. ALEGAÇÃO DE OFENSA AO ART. 1.022 DO CPC/2015. INEXISTÊNCIA. PRETENSÃO DE REEXAME FÁTICO-PROBATÓRIO. APLICAÇÃO DA SÚMULA N. 7 DO STJ.
+I - Na origem, trata-se de ação ajuizada por Grendene S.A. contra a Fundação de Proteção ao Consumidor de São Paulo - Procon/SP objetivando a anulação de autos de infração, em razão da veiculação de duas campanhas publicitárias que teriam violado o Código de Defesa do Consumidor.
+II - Na sentença, julgou-se improcedente o pedido. No Tribunal a quo, a sentença foi reformada para afastar uma multa e determinar o recálculo da outra, tomando por base o faturamento médio do trimestre anterior à lavratura do auto de infração. Esta Corte conheceu do agravo para negar provimento ao recurso especial.
+III - A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que, se a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+(..)
+VI - Acerca da alegada violação dos arts. 57 do CDC e 8º do CPC/2015, tem-se que a pretensão consistente em ofensa aos princípios da proporcionalidade e da razoabilidade da multa exigiria adentrar aos critérios de dosimetria da sanção em que se sustentaram a autoridade administrativa e as instâncias ordinárias que referendaram tais critérios.
+VII - Não cabe, quanto estes dois fundamentos recursais, o conhecimento da pretensão recursal, que implicaria revisão sobre o juízo de fato exarado pela instância ordinária. Incidência do Enunciado Sumular n. 7/STJ.
+(..)
+X - O Tribunal de origem apreciou a causa mediante o fundamento suficiente de que a dosimetria da multa atendeu aos critérios da proporcionalidade e razoabilidade.
+XI - No acórdão dos declaratórios, foram observados os critérios previstos nas normas infralegais aplicáveis, que levam em consideração para a sua quantificação a capacidade financeira do fornecedor; a gravidade das infrações; e a vantagem auferida.
+XII - A alegação de omissão consistiu, pois, em mero descontentamento com as conclusões a que chegou o Tribunal de origem.
+XIII - Agravo interno improvido.
+(AgInt no AREsp n. 1.795.132/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 13/6/2022, DJe de 15/6/2022.)
+E em relação à interposição do recurso com fundamento na divergência jurisprudencial, nos termos da jurisprudência do Superior Tribunal de Justiça, o óbice imposto à admissão do recurso pela alínea a do permissivo constitucional impede a análise recursal pela alínea c. (AgInt no AREsp 1474339/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 03/10/2019, DJe 07/10/2019, REsp 1780760/RN, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 03/10/2019, DJe 11/10/2019).
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Publique-se. Intimem-se.
