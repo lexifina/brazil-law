@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu recurso especial interposto porQUINZE DE MAIO INCORPORAÇÃO IMOBILIÁRIA LTDA.,com base no art. 105, III, a e c, da Constituição Federal, desafiando acórdão do Tribunal de Justiça doEstado do Rio de Janeiro, assim ementado (e-STJ, fl. 48):
+AGRAVO DE INSTRUMENTO. AÇÃO RESCISÓRIA CUMULADA COM PERDAS E DANOS. DECISÃO QUE AFASTOU A COMPETÊNCIA DO JUÍZO ARBITRAL. EM VERDADE, A CLÁUSULA COMPROMISSÓRIA DE ARBITRAGEM CONSTA DO ARTIGO 32 DO CONTRATO DENOMINADO INSTRUMENTO PARTICULAR DE CONTRATO DE CONSTITUIÇÃO DE SOCIEDADE EM CONTA DE PARTICIPAÇÃO, FIRMADO PELA AGRAVANTE COM OUTRAS DUAS PESSOAS JURÍDICAS, ATO JURÍDICO QUE OS AUTORES, ORA AGRAVADOS, NÃO PARTICIPARAM. ADEMAIS, A INTELIGÊNCIA DO ART. 4º DA LEI 9307/96, ESTABELECE A OBRIGATORIEDADE, NOS CONTRATOS DE ADESÃO, QUE É O CASO DOS AUTOS, DO ADQUIRENTE CONCORDAR, EXPRESSAMENTE, COM A INSTITUIÇÃO DA ARBITRAGEM, POR ESCRITO EM DOCUMENTO ANEXO OU EM NEGRITO, COM A ASSINATURA OU VISTO ESPECIALMENTE PARA ESSA CLÁUSULA, O QUE INEXISTE NA PRESENTE HIPÓTESE. POR OUTRO LADO, NA ESCRITURA DE COMPRA E VENDA PACTUADA ENTRE OS AUTORES E A EMPRESA RÉ, FICOU ESTABELECIDO, NA CLÁUSULA 20, QUE O FORO ELEITO PARA A RESOLUÇÃO DE QUALQUER PROBLEMA ENVOLVENDO A ALUDIDA ESCRITURA SERIA O FORO DA SITUAÇÃO DO IMÓVEL. ENTENDIMENTO DESTE C. TRIBUNAL SOBRE O TEMA. DESPROVIMENTO.
+Os embargos de declaração foram rejeitados.
+Em suas razões de recurso especial, a agravante alegou, além da existência de divergência jurisprudencial, violação ao art.492, do CPC/2015; art. 422, do CC/2002;art. 109, §3º, da Lei 6.404/1976; e arts.8º e 20 da Lei n. 9.307/1996.
+Sustentou, em síntese, as seguintes teses: a) violação da competência arbitral; b) ofensa a força obrigatória das convenções; c) ocorrência de decisão extra petita; e c) indevido afastamento do compromisso arbitral convencionado no contrato social.
+Contrarrazões às fls. 179-180(e-STJ).
+O processamento do apelo especial não foi admitido pela Corte local, levando a insurgente a interpor o presente agravo.
+Brevemente relatado, decido.
+Considerando os fundamentos trazidos no recurso e atendidos os pressupostos de admissibilidade, dou provimento ao agravo para determinar, com fulcro no art. 34, XVI, do RISTJ, sua conversão em recurso especial para melhor análise da matéria, sem prejuízo de uma nova análise dos pressupostos recursais.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL C/C REPARAÇÃO DE DANOS. AQUISIÇÃO DE UNIDADE IMOBILIÁRIA EM REDE HOTELEIRA. CLÁUSULA DE COMPROMISSO ARBITRAL.NECESSIDADE DE MELHOR EXAME DA MATÉRIA. AGRAVO PROVIDO PARA CONVERTÊ-LO EM RECURSO ESPECIAL.
