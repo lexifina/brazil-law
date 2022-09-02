@@ -1,0 +1,20 @@
+DECISÃO
+Na origem trata-se de ação ordinária, em que se pretende o reconhecimento de atividade especial no período de 29/04/1995 a 08/03/2016, para fins de revisão da RMI do benefício de aposentadoria por tempo de contribuição (NB 175.319.399-8), desde a DER em08/03/2016.Na sentença julgou-se o pedido improcedente. No Tribunal a quo a sentença foi reformada, dando-se provimento à apelação da parte autora.O valor da causa foi fixado em R$ 62.635,72.
+O recurso especial foi interposto no TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, contra acórdão com o seguinte resumo de ementa:
+PREVIDENCIÁRIO. REVISÃO. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. ATIVIDADE ESPECIAL. AGENTES NOCIVOS. RECONHECIMENTO. CONVERSÃO. VIBRAÇÃO. PROVA. USO DE EQUIPAMENTOS DE PROTEÇÃO INDIVIDUAL (EPI). EFICÁCIA. DESCONSIDERAÇÃO. ENTENDIMENTO DO SUPREMO TRIBUNAL FEDERAL.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+Fixadas estas premissas, prossegue-se com o exame do período questionado.
+No caso dos autos, a controvérsia diz respeito à especialidade - ou não - do período de 29/04/1995 a 08/03/2016, em que a parte autora desempenhou atividade de motorista de ônibus.
+A sentença examinou as provas e decidiu a questão nos seguintes termos:
+ ..
+Embora referida a exposição habitual à vibração em níveis nocivos, nota-se que o agente nocivo era ínsito à atividadedesempenhada, não havendo, ademais, neutralização eficaz do agente de risco.
+Assim, dou provimento à apelação da parte autora, para reconhecer a especialidade da atividade exercida na empresa Viação Gato Branco Ltda no intervalo de 29/04/1995 a08/03/2016 em razão da exposição ao agente nocivo vibração, determinando sua conversão em tempo comum (fator 1,4)para fins de revisão da aposentadoria da parte autora, com efeitos financeiros a partir da DER(08/03/2016),observada a prescrição quinquenal.
+Não há, portanto, violação do 535 do CPC/1973 (art. 1.022 do CPC/2015) quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a fundamentadamente (art. 165 do CPC/73 e do art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Conforme entendimento desta Corte, não há incompatibilidade entre a inexistência de ofensa ao art. 1.022 do CPC/2015 e a ausência de prequestionamento, com a incidência do enunciado n. 211 da Súmula do STJ, quanto às teses invocadas pela parte recorrente, que, entretanto, não são debatidas pelo tribunal local, por entender suficientes para a solução da controvérsia outros argumentos utilizados pelo colegiado. Nesse sentido: AgInt no AREsp 1.234.093/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 24/4/2018, DJe 3/5/2018; AgInt no AREsp 1.173.531/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 20/3/2018, DJe 26/3/2018.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 1% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
