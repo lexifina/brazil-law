@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso especial interposto por IBMF INDÚSTRIA DE MATERIAIS PARA CONSTRUÇÃOLTDA., com fundamento nas alíneas "a" e "c" do permissivo constitucional, mediante o qual se impugna acórdão proferido pelo Tribunal Regional Federal da 4ª Região assim ementado (e-STJ fl. 40):
+AGRAVO DE INSTRUMENTO. MANDADO DE SEGURANÇA. QUESTÃO JURÍDICA DISCUTIDA NOS TRIBUNAIS SUPERIORES EM RECURSO REPETITIVO. TEMA. SOBRESTAMENTO DO PROCESSO ANTES DA NOTIFICAÇÃO DA AUTORIDADE IMPETRADA. URGÊNCIA PARA O EXAME DO RECURSO NÃO DEMONSTRADA. RECURSO DE AGRAVO DE INSTRUMENTO INCABÍVEL.
+Embargos de declaração rejeitados (e-STJ fls. 62/64).
+Nas razões de seu recurso especial, a ora recorrente aponta a existência de dissenso pretoriano e ofensa aos arts. 239, caput, 240, § 1º, 489,II e § 1º, IV, e1.022, II e parágrafo único, II, do CPC/2015. Sustenta, preliminarmente, que o acórdão recorrido padeceria de omissão, bem como estaria carente de fundamentação, uma vez que a tese jurídica apresentada pela parte não teria sido examinada. No mérito, argumenta, em síntese, que"a ausência de notificação do Agravado acarretará a não triangularização processual, o que pode dar ensejo a uma futura alegação de prescrição a segurança perseguida. Sabe-se que a interrupção do prazo prescricional ocorre somente após despacho do juiz que ordena a citação. Conforme infere-se do artigo 202, inciso I, do Código Civil: (..). Ora. Mostra-se inegável que a suspensão do processo antes mesmo da notificação da parte contrária dará ensejo a alegação de prescrição" (e-STJ fls. 80/81).
+Sem contrarrazões.
+Recurso especial admitido (e-STJ fl. 97).
+Passo a decidir.
+Na origem, cuida-se de mandado de segurança mediante o qual se busca "obstar que a base de cálculo para fins de apuração de contribuições devidas a terceiros/outras entidades ultrapasse o valor-limite de 20 (vinte) o maior salário mínimo vigente no país" (e-STJ fl. 7).
+Em razão da afetação do tema para julgamento segundo o regime dos recursos repetitivos, foi determinado o sobrestamento do curso do processo.
+Contra essa decisão de sobrestamentoinsurgiu-se a ora recorrente, ao fundamento de que, não tendo sido ainda determinada a notificação da autoridade impetrada, o sobrestamento do curso doprocesso poderia provocar-lhe prejuízo, pela possível falta de interrupção do prazo prescricional.
+Agravo de instrumento não conhecido.
+Não há quecogitaromissão nemfalta de fundamentação no acórdão recorrido. A questão concernente à necessidade de notificação da autoridade impetrada, antes da determinação do sobrestamento do curso da demanda, foi assim clara e expressamente decidida, no âmbito doTribunal a quo(e-STJ fls. 42/43):
+"Conforme estabelecido pelo STJ no julgamento de recursos repetitivos, O rol do art. 1.015 do CPC é de taxatividade mitigada, por isso admite a interposição de agravo de instrumento quando verificada a urgência decorrente da inutilidade do julgamento da questão no recurso de apelação (cf. STJ, REsp 1704520/MT, CORTE ESPECIAL, DJe 19/12/2018).
+No caso, a matéria tratada na decisão agravada não está prevista no art. 1.015 do CPC e tampouco a parte agravante demonstra urgência suficiente a aplicar o entendimento antes referido.
+Com efeito, a notificação no mandado de segurança é para a autoridade impetrada meramente prestar informações, sendo que o art. 240 doCódigo de Processo Civil indicado pela parte agravante também prevê a retroação da interrupção do prazo prescricional (cf. §1º), bem assim que aparte não será prejudicada pela demora imputável exclusivamente ao serviço judiciário (cf. §3º).
+Portanto, o presente agravo de instrumento é incabível (cf. TRF4, AgIn em AG nº 5024318-75.2021.4.04.0000/RS, Segunda Turma, julgado em10-08-2021).
+Ante o exposto, voto por não conhecer do agravo de instrumento.".
+De outro lado, em seu recurso especial, a ora recorrente não impugnou esse fundamento do decisum atacado, no sentido de que a regra do CPC/2015, a qual determina a retroação da interrupção do prazo prescricional à data do ajuizamento da demanda, aplica-se na hipóteseem tela, em que a demora na efetivação do procedimento decorreexclusivamente por culpa da máquina judiciária. Aplica-se, assim, ao caso em tela, por analogia, as Súmulas 283e 284 do STF.
+Ante o exposto, com base no art. 255, § 4º, I e II, do RISTJ, CONHEÇO EM PARTE do recurso especial e, NESSA EXTENSÃO, NEGO-LHE PROVIMENTO.
+Sem honorários recursais, por se tratar de recurso interposto em autos de mandado de segurança.
+Publique-se. Intimem-se.
