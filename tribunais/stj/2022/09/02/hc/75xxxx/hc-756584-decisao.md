@@ -1,0 +1,63 @@
+DECISÃO
+Trata-se dehabeas corpussubstitutivo de recurso próprio, com pedido liminar, impetrado em favor de WILLIAN PEREIRA, em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de Mato Grosso do Sul.
+Consta dos autos que o paciente teve a prisão preventiva decretada pela suposta prática do delito tipificado no art. 33,caput, da Lei n. 11.343/2006.
+Inconformada, a defesa impetrou préviowritno Tribunal de origem, que denegou a ordem.
+Nestehabeas corpus, alega o impetrante ausência de elementos concretos para custódia cautelar, a qual está amparada na gravidade abstrata do delito e em meras alusões aos requisitos do art. 312 do Código de Processo Penal.
+Aduz que o paciente possui bons antecedentes, residência fixa e emprego lícito, além de um filho com 1 ano e 6 de idade e duas enteadas que dependem financeiramente dele.
+Requer, assim, a revogação da prisão preventiva, aplicando-se medidas cautelares do art. 319 do Código de Processo Penal.
+Liminar indeferida (e-STJ, fls. 127-128).
+Informações prestadas (e-STJ, fls. 131-141).
+O Ministério Público Federal opinou pelo não conhecimento dowrit(e-STJ, fls. 145-153).
+É o relatório.
+Decido.
+Esta Corte - HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Sob tal contexto, passo ao exame das alegações trazidas pela defesa, a fim de verificar a ocorrência de manifesta ilegalidade que autorize a concessão da ordem, de ofício.
+O Juízo de primeiro grau decretou a custódia cautelar do paciente com base nos seguintes fundamentos:
+"Imputa-se ao(à)(s) custodiado(a)(s) o cometimento do crime de Tráfico de Drogas e Condutas Afins (art. 33, da Lei 11.343/06) e Receptação (Art. 180 do CP).
+O flagrante está formalmente em ordem, com a devida observância dosprazos do artigo 306, §1º e §2º, do CPP. Outrossim, a princípio, foram cumpridas as formalidades do art. 5º, incisos LXII e LXIII, da CF/88. Foram mantidas as algemas em razão da justificativa da guarda e escolta relativa à segurança.
+Não lhe(s) foi concedida fiança pela autoridade policial, em razão da vedação legal, representando pela decretação da prisão preventiva, nos termos do artigo 324, IV, do CPP.
+Nos termos do art. 312, do CPP, a prisão preventiva poderá ser decretada como garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, quando houver prova da existência do crime e indício suficiente de autoria e de perigo gerado pelo estado de liberdade do imputado, conforme redação dada pela Lei 13.964/2019.
+Aliado a isso, prevê o art. 313, do CPP que, será admitida a decretação da prisão preventiva nos crimes dolosos punidos com pena privativa de liberdade máxima superior a 4 (quatro) anos; ou se condenado por outro crime doloso, em sentença transitada em julgado; bem como, para os casos em que haja dúvida sobre a identidade civil da pessoa.
+Na hipótese dos autos, verifica-se pelas condições do delito, em especial pela natureza do crime, equiparado a hediondo, espécie e quantidade de substância apreendida (1.860g - 1 saco de cocaína), conforme Laudo Preliminar acostado ao APF (f.28/32), que há prova da materialidade.
+O contexto da apreensão descrito no APF indica envolvimento em atividade de traficância, com indícios suficientes de autoria, tendo o(a)(s) autuado(a)(s) sido, supostamente, flagrado(a)(s) com o entorpecente em veículo produto de crime, o qual dirigia nesta urbe.
+Ademais, um dos crimes imputados ao(à)(s) custodiado(a)(s) é extremamente grave, tratando-se de comércio ilegal de entorpecente e em razão do volume de drogas apreendido, bem como em decorrência dos efeitos maléficos ocasionados à saúde pública, como um todo, a alta possibilidade de psicodependência da substância apreendida, somados ao modus operandis da suposta conduta imputada ao autor do fato, da gravidade em concreto, julgo não ser recomendável a concessão de medida cautelar mais branda.
+Destarte, presentes o fumus comissi delicti e o periculum libertatis, entendo necessária a conversão da prisão em flagrante em prisão preventiva, à luz do artigo 312, do CPP, imprescindível no caso ora em análise para garantia da ordem pública, bem como o perigo gerado pelo estado de liberdade do imputado, conforme descrito acima.
+Ressalto, outrossim, embora haja Recomendação do Conselho Nacional de Justiça acerca da máxima excepcionalidade na decretação de novas ordens de prisão preventiva no Período de Pandemia, verifica-se, in casu, o fato do crime de tráfico de drogas ser equiparado a hediondo, de modo que infiro não ser recomendável a concessão de medidas cautelares mais brandas, por se demonstrarem claramente insuficientes.
+ISTO POSTO, preenchidos os requisitos legais, HOMOLOGO o Auto dePrisão em Flagrante e, acolho a representação feita pelo Delegado de Polícia Dr. Rafael Kenji Koshimizu, e com o parecer favorável do Ministério Público, converto a prisão em flagrante delito em PRISÃO PREVENTIVA de WILLIAN PEREIRA, nos termos do artigo 310, II, in fine, c.c artigos 312 e 313, do CPP. Serve cópia do presente como mandado" (e-STJ, fls. 97-98)
+Consta, ainda, do acórdão impugnado:
+"A despeito, portanto, da irresignação lançada neste writ, não se verifica eventual inidoneidade de fundamentação do decreto judicial ou desproporcionalidade na imposição da prisão preventiva.
+Isto porque, conforme se infere da decisão acima, foram exteriorizadas as razões de fato e de direito que justificaram não apenas a decretação e a manutenção da custódia processual, mas também a consequente ineficácia das medidas cautelares substitutivas.
+Vejamos.
+Com efeito, os fatos amoldam-se, em tese, aos crimes de tráfico de drogas e receptação dolosa, de forma a preencher o pressuposto do art. 313, inc. I, do Código de Processo Penal.
+O fumus comissi delicti (indícios suficientes de autoria e prova da materialidade delitiva) se encontra consubstanciado nos elementos produzidos a partir do auto de prisão em flagrante, especialmente pelos depoimentos dos agentes públicos, informações sobre recuperação de veículo automotor e laudo preliminar de constatação de n. 871/2022.
+O periculum libertatis também encontra-se atendido, pois o episódio em apuração é dotado de gravidade concreta, já que paciente aparentemente empregava um veículo com restrição de roubo ou furto para transportar robusta quantidade de drogas de natureza extremamente perniciosa (1,8 kg de cocaína).
+Ademais, ele registra o cometimento de atos infracionais durante a juventude (consoante certidão judicial de p. 34-35 dos autos 0005798-88.2022), de modo a evidenciar que o envolvimento em atos ilícitos não representa ineditismo em seu histórico comportamental.
+Nesse prospecto, a prisão preventiva realmente revela-se necessária para a garantia da ordem pública, meio pelo qual procura-se evitar a reprodução de delitos em razão da possibilidade que o agente, propenso à práticas delituosas, encontre em liberdade os mesmos estímulos relacionados à infração cometida.
+ ..
+Impende ressaltar que muito embora as anotações de atos infracionais não sirvam para fundamentar eventual exasperação da reprimenda (mormente em face do verbete sumular 444 do e. Superior Tribunal de Justiça), devem ser consideradas para aferir a real necessidade de imposição de custódia cautelar, consoante orienta a jurisprudência.
+ ..
+Evidente, desse modo, a gravidade concreta dos fatos e consequente risco contemporâneo representado pela liberdade, aspecto que, de um lado, justifica a imposição da prisão preventiva para resguardar a ordem pública e, de outro, demonstra ser incabível a imposição de medidas substitutivas, pois notadamente insuficientes aos fins cautelares que exsurgem do caso concreto.
+ ..
+Vale destacar que condições pessoais favoráveis, mesmo quando fielmente comprovadas, não possuem o condão de infirmarem o decreto de segregação cautelar se presentes os requisitos autorizadores da prisão preventiva.
+ ..
+Assim, reunidos cumulativamente os requisitos e pressupostos dos arts. 312 e 313 do Código de Processo Penal, não se vislumbra, nesse momento, qualquer ilegalidade que venha a macular o decreto prisional, impossibilitando, por conseguinte, que a prisão preventiva seja substituída por outras medidas cautelares, tendo em vista que a restrição ao direito de locomoção encontra-se inequivocadamente justificada.
+Destarte, com o parecer, denego a ordem" (e-STJ, fls. 26-30)
+A teor do art. 312 do Código de Processo Penal, havendo prova da existência do crime e indícios suficientes de autoria, a prisão preventiva poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal.
+No caso, a custódia cautelar está suficientemente fundamentada na garantia da ordem pública, haja vista a gravidade concreta da conduta delitiva, em que o paciente foi flagrado transportando em veículo produto de crime 1 saco de cocaína, pesando 1.860 gramas.
+Esta Corte, inclusive, possui entendimento reiterado de que a quantidade e a natureza dos entorpecentes encontrados, quando evidenciarem a maior reprovabilidade do fato, podem servir de fundamento para a prisão preventiva.
+A propósito:
+" ..
+2. Em vista da natureza excepcional da prisão preventiva, somente se verifica a possibilidade da sua imposição quando evidenciado, de forma fundamentada e com base em dados concretos, o preenchimento dos pressupostos e requisitos previstos no art. 312 do Código de Processo Penal - CPP. Deve, ainda, ser mantida a prisão antecipada apenas quando não for possível a aplicação de medida cautelar diversa, nos termos previstos no art. 319 do CPP.
+No caso dos autos, a prisão preventiva foi adequadamente mantida na sentença, a qual indeferiu o direito de recorrer em liberdade com base em elementos concretos, a gravidade concreta da conduta e a periculosidade do agente, evidenciadas pela natureza e elevada quantidade das drogas apreendidas (177 porções de "cocaína", com peso de 40,36g e 01 uma porção de "maconha", com peso de 23,59g), o que denota a necessidade da prisão para resguardar a ordem pública, não havendo falar em existência de evidente flagrante ilegalidade.
+ ..
+Habeas corpus não conhecido."
+(HC 393.308/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 20/3/2018, DJe 6/4/2018).
+"HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTOS. GRAVIDADE CONCRETA. GARANTIA DA ORDEM PÚBLICA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. PARECER ACOLHIDO.
+1. A prisão preventiva constitui medida excepcional ao princípio da não culpabilidade, cabível, mediante decisão devidamente fundamentada e com base em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos do art. 312 e seguintes do Código de Processo Penal.
+2. No caso, a prisão cautelar foi decretada para a garantia da ordem pública, com base na gravidade concreta do delito, evidenciada pela quantidade e natureza da droga apreendida (170 invólucros plásticos, contendo cocaína, pesando 68,1 g e 20 invólucros plásticos contendo maconha, pesando 40,5 g), aliada às circunstâncias em que se deu a prisão em flagrante.
+3. É consabido que eventuais condições subjetivas favoráveis ao paciente não são impeditivas à decretação da prisão cautelar, caso estejam presentes, como na hipótese, os requisitos autorizadores da referida segregação.
+4. Ordem denegada."
+(HC 425.704/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 27/2/2018, DJe 8/3/2018).
+Ademais, consigne-se que é inviável a substituição da prisão preventiva por medidas cautelares diversas, pois a gravidade concreta da conduta delituosa indica que a ordem pública não estaria acautelada com a soltura do paciente. Sobre o tema: RHC 81.745/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 01/06/2017, DJe 09/06/2017; RHC 82.978/MT, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 01/06/2017, DJe 09/06/2017; HC 394.432/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 01/06/2017, DJe 09/06/2017).
+Ante o exposto não conheço do habeas corpus.
+Publique-se. Intimem-se.
