@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de recurso especial interposto porEDUARDO MUNHOZ BAPTISTA, com fundamento naalínea"a" do permissivo constitucional, que desafia acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃOassim ementado:
+DIREITOS TRIBUTÁRIO E PROCESSUAL CIVIL. HONORÁRIOS EMCUMPRIMENTO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. MAJORAÇÃO. ART. 85 DO CPC/2015.
+Não incidem honorários específicos relacionados ao processamento do cumprimento da sentença condenatória a pagar contra a Fazenda Pública, seja em regime de precatório, ou mediante expedição de RPV. Nesta perspectiva, não há falar em majoração da verba honorária.
+Os embargos declaratórios opostos pelo recorrente foram rejeitados.
+Passo a decidir.
+A questão jurídicaa respeito dos honorários advocatícios nos procedimentos individuais de cumprimento de sentença decorrente de ação coletiva foi submetidaa Corte Especial do STJ, no julgamento do REsp 1.648.238/RS,vinculado ao Tema 973.
+Naquela oportunidade, firmou-sea seguinte orientação:
+Para o fim preconizado no art. 1.039 do CPC/2015, firma-se a seguinte tese: "O art. 85, § 7º, do CPC/2015 não afasta a aplicação do entendimento consolidado na Súmula 345 do STJ, de modo que são devidos honorários advocatícios nos procedimentos individuais de cumprimento de sentença decorrente de ação coletiva, ainda que não impugnados e promovidos em litisconsórcio.
+Assim, uma vez que o tema afetado à sistemática dos repetitivos já foi julgado, esta Corte orienta que os recursos que tratam da mesma controvérsia devam retornar ao Tribunal de origem para eventual juízo de conformação, hoje disciplinado pelo art. 1.040 do CPC/2015.
+A esse respeito, confiram-se os seguintes precedentes: EDcl no REsp 1.456.224/MS, Rel. Ministro Humberto Martins, Segunda Turma, DJe 05/02/2016; AgRg no AgRg no AREsp 552.103/RS, Rel. Min. Herman Benjamin, Segunda Turma, DJe 28/11/2014; AgRg no AREsp 153.829/PI, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 23/5/2012. Nesse mesmo sentido, as seguintes decisões monocráticas: REsp 1.588.019/GO, Rel. Min. Regina Helena Costa, DJe 17/03/2016; REsp 1.533.443/RS, Rel. Min. Benedito Gonçalves, DJe 17/03/2016.
+Somente depois de realizada essa providência, que representa o exaurimento da instância ordinária, é que o recurso especial deverá ser encaminhado para esta Corte, para que aqui possam ser analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Registre-se que essa medida visa evitar, também, o desmembramento do apelo especial e, em consequência, eventual ofensa ao princípio da unirrecorribilidade ou da unicidade recursal.
+Ante o exposto, DETERMINO a devolução dos autos ao Tribunal de origem, com a respectiva baixa, para que, em observância ao art. 1.040 do CPC/2015: a) negue seguimento ao recurso se o acórdão recorrido coincidir com a orientação emanada pelo Tribunal Superior; ou b) proceda ao juízo de retratação na hipótese de o acórdão vergastado divergir da decisão sobre o tema repetitivo.
+Publique-se. Intimem-se.
