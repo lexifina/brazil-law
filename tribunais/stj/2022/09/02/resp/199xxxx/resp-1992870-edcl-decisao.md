@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de embargos de declaração interpostos por RPEI EMPREENDIMENTOS IMOBILIARIOS S/A contra decisão unipessoal queconheceu parcialmente do recurso especial que interpusera e, nessa parte, deu-lhe parcial provimento, apenas para alterar o critério de apuração da indenização por lucros cessantes, com a seguinte ementa:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DECLATÓRIA DE OBRIGAÇÃO DE FAZER CUMULADA COM COMPENSAÇÃO POR DANOS MORAIS. PROMESSA DE COMPRA E VENDA. ATRASO NA ENTREGA DE IMÓVEL. PREQUESTIONAMENTO.AUSÊNCIA. SÚMULA 211/STJ. REEXAME DE FATOS E PROVAS.INADMISSIBILIDADE. RELAÇÃO DE CONSUMO. RESPONSABILIDADE SOLIDÁRIA DE TODOS OS INTEGRANTES DA CADEIA DE PRESTAÇÃO DE SERVIÇOS. LUCROS CESSANTES. CABIMENTO. PREJUÍZO PRESUMIDO. FIXAÇÃO EM ALUGUÉIS. PERÍODO DE MORA. TERMO FINAL. DATA DA DISPONIBILIZAÇÃO DAS CHAVES AOS ADQUIRENTES.
+1. Ação declaratória de obrigação de fazer cumulada com compensação por danos morais em razão de atraso na entrega de imóvel objeto de promessa de compra e venda.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+3. O reexame de fatos e provas em recurso especial é inadmissível.
+4. Na hipótese de relação de consumo, impõe-se a responsabilidade solidária,perante o consumidor, de todos aqueles que tenham integrado a cadeia de prestação de serviço, em caso de defeito ou vício. Precedentes.
+5. O atraso na entrega do imóvel enseja pagamento de indenização por lucros cessantes durante o período de mora do promitente vendedor, sendo presumido o prejuízo do promitente comprador. Precedente.
+6. Reconhecida a culpa do promitente vendedor no atraso da entrega de imóvel, os lucros cessantes são presumidos e devem corresponder à média do aluguel que o comprador deixaria de pagar. Precedentes.
+7. É cabível a indenização por lucros cessantes até a data da efetiva disponibilização das chaves por ser o momento a partir do qual os adquirentes passam a exercer os poderes inerentes ao domínio, dentre os quais o de fruir do imóvel. Precedentes.
+8. Recurso especial parcialmente conhecido e parcialmente provido.
+No presente recurso, aponta a embargante suposta obscuridade na decisão embargada. Sustenta que: i) o pagamento da média do aluguel que o comprador deixaria de pagar a título de lucros cessantes representa dano hipotético, eventual e de incerta ocorrência (não presumido); ii) o entendimento consolidado do STJ, na realidade, diz respeito ao pagamento de lucros cessantes correspondente ao valor locatício de imóvel assemelhado ao da discussão e não do suposto e eventual aluguel que seria pago pelo comprador do imóvel, de forma indiscriminada.
+É O BREVE RELATÓRIO.
+Nos termos do art. 1.022 do CPC/15, somente é cabível o recurso de embargos de declaração nas hipóteses em que haja, na decisão impugnada, obscuridade, contradição, omissão ou erro material.
+Na hipótese, não ocorreu nenhum dos vícios mencionados. Efetivamente, nenhuma obscuridade, contradição, omissão ou erro material existe no corpo da decisão que justifique a oposição desse recurso.
+De fato, a decisão embargada foi clara quanto ao valor da indenização por lucros cessantes. Fundamentou que o acórdão recorrido, ao decidir que o montante devido a título de lucros cessantes deve ser calculado com base no percentual de 0,5% ao mês, incidente sobre o preço pago pelo imóvel, divergiu da jurisprudência do STJ firmada no sentido de que,reconhecida a culpa do promitente vendedor no atraso da entrega de imóvel, os lucros cessantes são presumidos e devem corresponder à média do aluguel que o comprador deixaria de pagar.
+Ao contrário do alegado pelaembargante, não é necessário qualquer esclarecimento.Na verdade, revela-se inequívoca a pretensão dos embargantes de se valerem dos embargos de declaração para rediscutir matéria já decidida, fazendo com que prevaleça o seu entendimento sobre o tema, intuito esse incompatível com a natureza desse recurso. Como se sabe, os embargos declaratórios não são via adequada para corrigir suposto error in judicando, não sendo possível atribuir eficácia infringente ao recurso se ausentes erro material, omissão, obscuridade ou contradição.
+Ressalta-se que a a obscuridade só está presente quando a decisão não é compreensível total ou parcialmente, como na hipótese de ambiguidade ou utilização de linguagem inapropriada.
+Assim, dissociado o pleito de qualquer um dos pressupostos de interposição dos embargos de declaração, desautorizada está a pretensão declinada, impondo-se, então, a sua rejeição.
+Forte nessas razões, REJEITO os embargos de declaração.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. VÍCIOS. INEXISTÊNCIA.
+1. Devem ser rejeitados os embargos de declaração quando inexiste qualquer vício a ser sanado na decisão embargada.
+2. Embargos de declaração rejeitados.
