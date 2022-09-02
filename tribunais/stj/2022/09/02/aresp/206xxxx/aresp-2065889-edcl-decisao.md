@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por H. G.da C. e G. M. G. àdecisão monocrática proferida por este signatário, que conheceu do agravopara não conhecer do recurso especial dosembargantes, nos termos da seguinte ementa(fl. 1.041, e-STJ):
+AGRAVO EM RECURSO ESPECIAL. ACIDENTE DE TRÂNSITO. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS JULGADA PROCEDENTE. ALEGADA OFENSA DE ENUNCIADO DE SÚMULA. SÚMULA N. 518 DO STJ. DANOS MORAIS. QUANTUM. REVISÃO. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+Em suas razões (fls. 1.058-1.062, e-STJ), sustenta a parte embarganteofensa ao art. 1.022 do CPC/2015, alegando omissão no julgado, aoargumento de que não foram analisados todos os pontos trazidos no recursoespecial que propiciariam seu provimento.
+Em especial aponta ausência de análise acerca da violação dos arts. 927 e 950 doCódigo Civil de 2002, constante das razões do recurso especial não conhecido, no tocante aospedidos de pensionamento vitalício mensal e do pagamento dessa verba em parcela única.
+Sem impugnação, conforme certificado às fls. 1.073-1.074(e-STJ).
+Brevemente relatado, decido.
+Os embargos de declaração constituem modo de impugnação à decisãojudicial de fundamentação vinculada, sendo cabíveis apenas nas hipótesesprevistas no art. 1.022 do Código de Processo Civil de 2015, quais sejam,omissão, obscuridade, contradição e erro material.
+O recurso em comento visa unicamente aperfeiçoar as decisões judiciais,de modo a prestar a tutela jurisdicional de forma clara e completa, nãotendo por finalidade revisar ou anular decisões.
+Apenas excepcionalmente,ante o aclaramento de obscuridade, desfazimento de contradição, supressãode omissão ou correção de erro material, prestam-se os aclaratóriosa modificar o julgado, o que não se observa no caso em análise.
+Ilustrativamente:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. ALEGAÇÃODE EXISTÊNCIA DOS VÍCIOS TIPIFICADOS EM LEI. OCORRÊNCIA. MATÉRIA DEORDEM PÚBLICA. NOVA ANÁLISE. IMPOSSIBILIDADE. JULGAMENTO PRÉVIO.INOVAÇÃO RECURSAL FLAGRANTE. IMPOSSIBILIDADE.
+1. Conforme a jurisprudência da Terceira Turma do Superior Tribunalde Justiça, a atribuição de efeitos infringentes aos embargos dedeclaração épossível, em hipóteses excepcionais, para corrigir premissa equivocadano julgamento, bem como nos casos em que, sanada a omissão, a contradiçãoou a obscuridade, a alteração da decisão surja como consequêncianecessária.
+(..)
+4. EMBARGOS DECLARATÓRIOS CONHECIDOS E ACOLHIDOS COM EFEITOS INFRINGENTES(EDcl no AgInt no REsp 1.746.065/SP, Rel. Ministro Paulo de TarsoSanseverino, Terceira Turma, julgado em 29/11/2021, DJe 01/12/2021).
+No caso, a decisão embargada realmente se mostra omissa, porquanto nãodiscorreu sobre a tese constante das razões do recurso especial não conhecido,no que se refere à alegação de vulneração dos arts. 927 e 950 do CódigoCivil, o que se passa a fazer nesse momento.
+Quanto à suposta afronta ao aludidos normativos - relativamente aos pedidos de pensão mensal vitalícia, bem como do pagamento dessa verba em parcela única -, o Tribunal de origem, ao dirimir a controvérsia, considerou ser indevido o pagamento de pensão mensal vitalícia, o que, consequentemente, torna prejudicada a análise do pedido de seu desembolsoem parcela única, nos termos da seguinte transcrição (fls. 680, e-STJ, sem grifos no original):
+Em seu recurso, os requerentes pedem seja fixada pensão vitalícia, em razão de dependência financeira da falecida.
+Ocorre que, como bem delimitado pela sentença, os requerentes não fazem prova do decréscimo de rendimentos em razão do óbito, ao contrário, constando benefício previdenciário ( pensão por morte ), no valor mensal de cerca de R$ 2.160,00 ( dois mil, cento e sessenta reais).
+Desta forma, não há prejuízo a reparar neste tocante, eis que, o valor do benefício não se afigura inferior à contribuição da "de cujus" para o orçamento familiar, observando-se que percebia salário mensal de cerca de R$ 880,00 ( oitocentos e oitenta reais), conforme o indicado pelos próprios requerentes ( folha 14 ).
+É o caso, pois, de manutenção da respeitável sentença guerreada tocante a rejeição do pensionamento vitalício.
+Dessa forma, reverter a conclusão do Tribunal local para assim acolher a pretensão recursal nos moldes em que pretendido, demandaria o revolvimento do acervo fático-probatório dos autos o que é vedado no âmbito do recurso especial, dado o óbice da Súmula 7 do Superior Tribunal de Justiça.
+Por fim, quanto ao dissídio jurisprudencial, tendo o Tribunal local concluído com base no conjunto fático-probatório, impossível se torna o confronto entre o paradigma e o acórdão recorrido, uma vez que a comprovação do alegado dissenso reclama consideração sobre a situação fático-probatória de cada julgamento, medida defesa nesta via excepcional, por força da Súmula n. 7 desta Corte.
+Diante do exposto, acolho os embargos de declaração apenas para prestar osesclarecimentos acima, ficando mantido, contudo, o julgado.
+Fiquem as partes cientificadas de que a insistência injustificadano prosseguimento do feito, caracterizada pela apresentação derecursos manifestamente inadmissíveis ou protelatórios contra estadecisão, ensejará a imposição, conforme o caso, das multas previstas nosarts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Após a publicação desta decisão, voltem os autos conclusos.
+Publique-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO VERIFICADA.OFENSA AOS ARTS. 927 E 950 DO CÓDIGO CIVIL DE 2002 NÃO ANALISADA. REVISÃO DAS CONCLUSÕES ESTADUAIS. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. EMBARGOSACOLHIDOS, MAS SEM EFEITOS INFRINGENTES.
