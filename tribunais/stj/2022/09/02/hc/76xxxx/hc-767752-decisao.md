@@ -1,0 +1,33 @@
+DECISÃO
+Cuida-se de habeas corpus com pedido de liminar impetrado em favor de ANDERSON SILVA DOS SANTOS em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS (HC n. 0725917-42.2022.8.07.0000).
+O paciente, preso em flagrante no dia 27/7/2022, teve a prisãoconvertida em preventiva na audiência de custódia realizada em29/7/2022, pela suposta prática do delito tipificado no art. 33 da Lei n. 11.343/2006.Inconformada, a defesa impetrou habeas corpus perante o Tribunal de origem, que indeferiu a tutela antecipada.
+Sustenta a impetrante a ilegalidade da prisão, uma vez que teria sido decretada de ofício pelo magistrado singular, em flagrante ofensa ao art. 311 do Código de Processo Penal.
+Alega que estariam ausentes, no caso, os requisitos autorizadores da segregação cautelar, insculpidos no art. 312 do Código de Processo Penal.
+Ressalta a diminuta quantidade de entorpecente apreendida em poder do acusado.
+Requer, liminarmente e no mérito, a concessão da ordem para que seja revogada a prisão preventiva do paciente.
+É, no essencial, o relatório.
+A matéria não pode ser apreciada pelo Superior Tribunal de Justiça, pois não foi examinada pelo Tribunal de origem, que ainda não julgou o mérito do writ originário.
+A jurisprudência do Superior Tribunal de Justiça firmou-se no sentido de que não cabe habeas corpus contra indeferimento de pedido de liminar em outro writ, salvo no caso de flagrante ilegalidade, conforme demonstra o seguinte precedente:
+PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO REGIMENTAL EM HABEAS CORPUS. PRISÃO PREVENTIVA. ESTELIONATO. INDEFERIMENTO LIMINAR DO WRIT. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. MITIGAÇÃO DA SÚMULA 691/STF. EXCESSO DE PRAZO PARA ENCERRAMENTO DA INSTRUÇÃO. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. DECISÃO MANTIDA. AGRAVO REGIMENTAL IMPROVIDO.
+1. A decisão deve ser mantida por seus próprios fundamentos, pois o decisum apresenta fundamentação que deve ser entendida como válida para a negativa da liminar, uma vez ausentes os requisitos legais para sua concessão, não se evidenciando, na espécie, a plausibilidade jurídica do pedido.
+2. Com relação aos prazos consignados na lei processual deve atentar o julgador às peculiaridades de cada ação criminal, impondo-se a aferição casuística da situação processual.
+3. Não se manifesta claramente ilegal a prisão ocorrida em 21 de julho de 2020, pela imputada prática do delito de estelionato.
+4. Não havendo manifesta ilegalidade apta a autorizar a mitigação da Súmula 691 do STF, o writ deve ser indeferido liminarmente.
+5. Agravo regimental improvido.
+(RCD no HC 629.087/RS, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 15/12/2020, DJe 18/12/2020.)
+Confira-se, também, a Súmula n. 691 do STF: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar".
+No caso, não visualizo, em juízo sumário, manifesta ilegalidade que autorize o afastamento da aplicação do mencionado verbete, especialmente porque o relator consignou que (e-STJ fls. 107-110):
+No caso em tela, incontroverso ter havido conversão, pelo Juiz de Direito do Núcleo de Audiências de Custódia, da prisão em flagrante em preventiva, com fundamento nos arts. 310, 312 e 313, todos do CPP, em 29/07/2022 (ID 37955695, pg. 46). A propósito, eis o teor do referido ato judicial impugnado:
+ ..
+Consoante já demonstrado pela impetrante, o Superior Tribunal de Justiça firmou entendimento no sentido de que, "em razão do advento da Lei n. 13.964/2019, não é mais possível a conversão exofficio da prisão em flagrante em prisão preventiva. Interpretação conjunta do disposto nos arts. 3º-A, 282, §2º, e 311, todos do CPP (RHC n. 131.263/GO, relator Ministro Sebastião Reis Júnior, Terceira Seção, DJe de 15/4/2021)".
+O caso dos autos, todavia, parece ser diverso dos precedentes apontados pela defesa.
+Na hipótese, tem-se que o Ministério Público, embora tenha se manifestado pela regularidade do flagrante, opinou pela concessão da liberdade provisória ao autuado, com medidas cautelares diversas da prisão.
+Em recente julgamento, o Supremo Tribunal Federal decidiu que, "muito embora o juiz não possa decretar a prisão de ofício, o julgador não está vinculado a pedido formulado pelo Ministério Público" (HC n. 203.208 AgR, Rel. Ministro Gilmar Mendes, 2ª T., DJe 30/8/2021).
+Em termos semelhantes, entendeu o Superior Tribunal de Justiça, no julgamento do RHC n. 145225-RO, deRelatoria do Ministro Rogério Schietti Cruz, que "a decisão do magistrado em sentido diverso do requerido pelo Ministério Público, pela autoridade policial ou pelo ofendido não pode ser considerada como atuação exofficio, uma vez que lhe é permitido atuar conforme os ditames legais, desde que previamente provocado, no exercício de seu poder de jurisdição" (RHC n. 145.225/RO, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 15/2/2022, DJe de 22/3/2022).
+No caso analisado pelo STJ, havia o Ministério Público, como na hipótese dos presentes autos, opinado pela homologação do auto de prisão em flagrante e pela liberdade provisória, com aplicação de medidas cautelares alternativas, inclusive o monitoramento eletrônico. O magistrado de origem, no entanto, decidiu por decretar a cautelar máxima, por entender preenchidos os requisitos dos arts. 312 e 313, inciso III, do CPP, a fim de assegurar a garantia da ordem pública.
+ ..
+Acrescente-se que a decisão ora hostilizada está fundamentada na manutenção da ordem pública, pressuposto inserido no art. 312 do diploma processual penal, em razão da gravidade concreta do delito. Argumentou o juiz de origem que o autuado é conhecido na região como envolvido na comercialização de substâncias entorpecentes, tendo sido encontrados dezessete pinos de cocaína no muro onde foi filmado pelos policiais. Acrescentou, ainda, a existência de condenações anteriores e o fato de responder em liberdade pelo crime de homicídio, o que pode ser confirmado a partir da leitura da folha de antecedentes criminais em ID 37955695, pg. 26.
+Assim, em uma análise perfunctória, não verifico a presença de ilegalidade na conversão em prisão preventiva apta a ensejar a expedição do alvará de soltura em favor do paciente, pois ausente a atuação oficiosa do magistrado, bem como foram demonstrados indícios de que nova concessão de liberdade provisória com medidas diversas da prisão não é recomendável no caso concreto.
+Ante o exposto, com fundamento no art. 21, XIII, c, c/c o art. 210, ambos do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
