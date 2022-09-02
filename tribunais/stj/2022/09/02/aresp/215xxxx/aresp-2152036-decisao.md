@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo interposto pelaCOMISSÃO DE VALORES MOBILIÁRIOS - CVM contra decisão de inadmissibilidade de recurso especial, fundado naalínea"a" do permissivo constitucional, que desafia acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO assim ementado:
+TRIBUTÁRIO. AGRAVO INTERNO. AGRAVO DE INSTRUMENTO. PENHORA. SISTEMA BACENJUD.
+1. A proteção prevista no art. 833, X, do CPC não se dirige apenas ao saldo imobilizado em caderneta de poupança, de modo que a impenhorabilidade até o valor de 40 salários mínimos não faz distinção entre poupança, conta-corrente, fundos de investimento, ou guardados em papel-moeda.
+2. Conforme determina a Súmula 108 desta Corte: "É impenhorável a quantia depositada até quarenta salários mínimos em caderneta de poupança (art. 833, X, NCPC), bem como a mantida em papel moeda, conta-corrente ou aplicada em CDB, RDB ou em fundo de investimentos, desde que seja a única reserva monetária, e ressalvado eventual abuso, má-fé, ou fraude".
+Os embargos declaratórios opostos pelarecorrenteforam rejeitados.
+Em suas razões, aponta violação dosarts. 5º, 789,797, 835, I, 854, §§ 3º, I, e 1.022,II, do CPC/2015 e dos arts. 7º, II, 9º, 10 e11, I, da Lei n. 6830/80.
+Em síntese, sustenta:
+(i) a existência de negativa de prestação jurisdicional, ante a falta de enfrentamentopela Corte a quodas questões agitadas nos embargos de declaração;
+(ii)que o Tribunal regional afastou a possibilidade de penhora sobrevalores inferiores a 40 salários mínimos sem consideraro ônus da provaque recai sobre o executado de arguir a impenhorabilidade desse montante, acrescentando que a penhora de ativos financeiros encontra-se em primeiro lugar na ordem de preferência do art. 11 da Lei n. 6830/80.
+Sem apresentação de contrarrazões.
+A Cortea quo inadmitiu o recurso especial ante a ausência de violação do art. 1.022, I e II, do CPC/2015 e pela incidência da Súmula 83 do STJ, fundamentos com os quaisnão concorda a parte agravante.
+Passo a decidir.
+O recurso especial origina-se de agravo de instrumento interposto pela CVM contra decisão nos autos da execução fiscalque indeferiu pedido de conversão em renda do valor bloqueado pelo SISBAJUD, uma vez quetratade penhora de ativos financeiros devalor inferior a quarenta salários mínimos.
+O magistrado de primeira instância deferiu o pedido de antecipação de tutela recursal para manter o bloqueio dos valores via SISBAJUD.(e-STJ fl.26)
+A Corte regional negou provimento ao recurso do ente público, adotando os seguintes fundamentos(e-STJ fls. 49/52).:
+Dispõe o art. 833 do CPC, em seu inciso X, sobre a impenhorabilidade absoluta dos valores inferiores a quarenta salários mínimosencontrados em caderneta de poupança, verbis:
+Art. 833. São absolutamente impenhoráveis:
+X - a quantia depositada em caderneta de poupança, até o limite de 40(quarenta) salários mínimos;
+Tal impenhorabilidade é absoluta e visa a proteção do pequeno investimento, criado para proteger o indivíduo de eventual imprevisto em seu núcleo familiar, devendo ser determinada a liberação da totalidade de valores encontrados em conta poupança, sempre quando inferiores a quarenta salários mínimos.
+(..)
+Ademais, cabe referir que a proteção prevista no art. 833, X, do CPC não se dirige apenas ao saldo imobilizado em caderneta de poupança, de modo que a impenhorabilidade até o valor de 40 salários mínimos não faz distinção entre poupança, conta-corrente, fundos de investimento, ou guardados em papel-moeda, segundo julgado da Quarta Turma do Superior Tribunal de Justiça, verbis:
+(..)
+Em sintonia com o julgado acima, este Tribunal editou a súmula nº 108 que dispõe sobre a impenhorabilidade de quantia depositada até o valor de quarenta salários mínimos, mesmo que não seja em caderneta de poupança, isto é, mesmo que a quantia referida esteja depositada em aplicação financeira tipo CDB, RDB ou fundo de investimentos. Eis o teor da súmula: É impenhorável a quantia depositada até quarenta salários mínimos em caderneta de poupança (art. 833, X, NCPC), bem como a mantida em papel moeda, conta-corrente ou aplicada em CDB, RDB ou em fundo de investimentos, desde que seja a única reserva monetária, e ressalvado eventual abuso, má-fé, ou fraude. Sendo assim, entendo acertada a decisão agravada. Ante o exposto, voto por negar provimento ao agravo de instrumento.
+Pois bem.
+Primeiramente, não há violação do art.1.022, incisos I e II,do CPC quando o órgão julgador, de forma clara e coerente, externa fundamentação adequada e suficiente à conclusão do acórdão embargado.
+Da leitura do excerto do acórdão supracitado, constata-se que o Tribunal de origem demaneira clara e objetivamanteve a decisão que indeferiu o pedido de conversão em renda do valor bloqueado pelo SISBAJUD por tratar deimpenhorabilidade absoluta de ativos financeiros inferiores a quarenta salários mínimos, tendo em vista o disposto no art. 833, inciso X, do CPC.
+Desse modo, não se vislumbra nenhum equívoco ou deficiência na fundamentação contida no acórdão recorrido, sendo possível observar que o Tribunal apreciou integralmente a controvérsia, apontando as razões de seu convencimento, não se podendo confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Ademais, consoante entendimento jurisprudencial pacífico, o órgão julgador não está obrigado a se manifestar sobre todos os argumentos levantados pelas partes para expressar a sua convicção, notadamente quando encontrar motivação suficiente ao deslinde da causa. Nesse sentido: AgInt no AREsp 520.705/SC, Relator Ministro Benedito Gonçalves, Primeira Turma, DJe 6/10/2016 e REsp 1.349.293/SP, Relator Ministro Mauro Campbell Marques, Segunda Turma, DJe 14/8/2018.
+No mais, o recurso especial não deve ser conhecido.
+Cumpre observar que, na vigência do antigo estatuto processual,o art. 649 já previa a proteção da segurança alimentar e de provimentos do devedor e de sua família.
+Após a reforma em 2006, a proteção ficou ainda mais explícita com a previsão no inciso X do art. 649 da impenhorabilidadedas poupanças até 40 salários mínimos, também previsto no atual instituto processual (art. 833, X, do CPC/2015), sendo este o valor considerado pelo legislador como apto a ensejar um padrão de vida digno mínimo ao devedor e a sua família, assegurando-lhe bens indispensáveis à preservação do mínimo existencial.
+Registre-se, por oportuno que, apesar de a legislação processual fazer menção devalor em caderneta de poupança, oquantumpode estar depositado ou aplicado em outros tipos de contas ou investimentos, como conta corrente e fundos de investimentos.
+Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. VALORES BLOQUEADOS EM CONTA POUPANÇA. IMPENHORABILIDADE. LIMITE DE ATÉ 40 SALÁRIOS MÍNIMOS. AGRAVO INTERNO DA FAZENDA NACIONAL NÃO PROVIDO.
+1. É entendimento desta Corte Superior que são impenhoráveis os saldos inferiores a 40 salários-mínimos depositados não só em caderneta de poupança mas, também, a mantida em fundo de investimento, em conta-corrente ou guardada em papel-moeda, ressalvado eventual abuso, má-fé ou fraude. (AgInt no REsp 1.858.456/RO, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 15/6/2020, DJe 18/6/2020).
+2. Agravo Interno da FAZENDA NACIONAL não provido. (AgInt no AREsp 1.853.515/RS, Rel. Ministro MANOEL ERHARDT, DESEMBARGADOR CONVOCADO DO TRF5, PRIMEIRA TURMA, julgado em 04/10/2021, DJe 07/10/2021).
+EXECUÇÃO FISCAL. APLICAÇÃO FINANCEIRA. IMPENHORABILIDADE DO LIMITE PREVISTO NO ART. 649, X, DO CPC. AFASTAMENTO DA CONSTRIÇÃO EM RELAÇÃO AO LIMITE DE QUARENTA SALÁRIOS MÍNIMOS.
+1. O Superior Tribunal de Justiça possui jurisprudência que entende serem impenhoráveis os valores que alcancem até o montante de quarenta salários mínimos depositados em poupança, como também aqueles depositados em conta-corrente ou fundo de investimento.
+2. O STJ também já decidiu que a simples movimentação atípica apurada pelas instâncias ordinárias, por si só, não constitui má-fé ou fraude a ensejar a mitigação da impenhorabilidade estabelecida pelo art. 833, X, do novo CPC.
+3. Agravo Interno não provido. (AgInt no REsp 1.897.212/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 19/04/2021, DJe 01/07/2021).
+Com efeito, a previsão de impenhorabilidade das aplicações financeiras do devedoraté o limite de 40 salários-mínimos é presumida, cabendo ao credor demonstrar eventual abuso, má-fé ou fraude do devedor, a ser verificado caso a caso, de acordo com as circunstâncias de cada hipótese trazida à apreciação do Poder Judiciário.
+Na hipótese, verifico que aCorte regional adotou entendimento em harmonia com a jurisprudência do Superior Tribunal de Justiça, circunstância que atrai a aplicação da Súmula 83 do STJ ("Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida"), que é cabível quando o recurso especial é interposto com base nas alíneas "a" e/ou "c" do permissivo constitucional.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a" e "b", do RISTJ, CONHEÇO do agravo para CONHECER PARCIALMENTE do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO.
+Sem arbitramento de honorários recursais, pois o recurso especial se origina de agravo de instrumento.
+Publique-se. Intimem-se.
