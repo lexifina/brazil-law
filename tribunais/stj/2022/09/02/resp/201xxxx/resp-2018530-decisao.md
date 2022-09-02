@@ -1,0 +1,14 @@
+DECISÃO
+Cuida-se de recurso especial interposto pelo FAZENDA DO ESTADO DE SÃO PAULO, fundamentado na alínea "a" do permissivo constitucional, em face de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 49, e-STJ):
+CUMPRIMENTO DE SENTENÇA - Impugnação - Rejeição - Desacolhimento de tese de necessidade de observância do título executivo judicial, com trânsito em julgado, com expressa determinação de aplicação da Lei nº 11.960/2009, para a correção monetária do crédito da agravada - Ausência de ofensa à coisa julgada ou de afronta ao que foi decidido, pelo STF, no julgamento do RE nº 730.462/SP (Tema nº 733), ou ao que foi decidido, pelo STJ, no julgamento do REsp nº 1.495.144/RS (Tema nº 905), decorrente da aplicação do quanto decidiu o STF, no tocante à correção monetária, ao ensejo do julgamento do RE nº 870.947/SE (Tema nº 810) - Ausência de modulação dos efeitos da decisão proferida no julgamento do RE nº 870.947/SE (Tema nº 810), à qual foi atribuída eficácia retroativa, o que implicou a nulidade, desde a data da edição da Lei nº 11.960/2009, do índice de correção monetária declarado inconstitucional - Trânsito em julgado da decisão condenatóriaque não obsta a aplicação, "in casu", do quanto decidiuo STF, no julgamento do RE 870.947/SE (Tema nº 810) - Matéria de ordem pública - Normas que versam sobrejuros e correção monetária que são também de cunho processual - Desnecessidade de ajuizamento de ação rescisória para o afastamento do índice de correção monetária constante do título executivo - Ausência de violação a qualquer dos dispositivos legais invocados pela agravante - Precedentes do TJSP - Confirmação da decisão agravada- Recurso improvido.
+Nas razões do especial (fls. 67-75, e-STJ), a recorrente aponta violação dos arts. 502, 503 e 927, III ,do CPC/15. Sustenta, em síntese, a violação à coisa julgada acerca da alteração do índicede correção monetária.
+Contrarrazões (fls. 102-112, e-STJ).
+Admitido o processamento do recurso na origem (fls. 116-117, e-STJ), ascenderam os autos a esta Corte.
+É o relatório.
+Decido.
+Nos termos do art. 9º, caput, do RISTJ, a competência das Seções e dasrespectivas Turmas do Superior Tribunal de Justiça é fixada em função danatureza da relação jurídica litigiosa.
+No caso dos autos, a controvérsia reside a verificar eventual ofensa a coisa julgada, em razão da alteração do índice de correção monetária na fase de cumprimento de sentença, Temas 905 do STJ, 733 e 810 do STF.
+A causa de pedir, portanto, é de direito público, atraindo a competência da Primeira Seção deste Tribunal, nos termos do artigo 9º, § 1º, inciso XIV, do Regimento Interno do Superior Tribunal de Justiça.
+2. Do exposto, determino a remessa dos autos à Coordenadoria de Classificação de Processos Recursais para redistribuição do feito a uma das Turmas que integram a Primeira Seção.
+Publique-se.
+Intimem-se.
