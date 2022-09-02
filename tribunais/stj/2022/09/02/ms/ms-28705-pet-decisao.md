@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de Mandado de Segurança,impetrado por BRUNO HENRIQUE LINS DUARTE, em face de suposto ato ilegal do MINISTRO DA CIDADANIA, ante a demora no julgamento do seu recurso administrativo contra a penalidade de destituição do cargo em comissão, imposta no âmbito do Processo Administrativo Disciplinar 58000.104.005/2017-07.
+A fls. 597/883e, 885/1.172e e 1.174/1.301e, foram prestadas informações pela autoridade impetrada.
+A União manifestou o seu interesse no feito (fls. 1.302/1.303e).
+O impetrante apresentoupedido de reconsideração, a fls. 127/129e.
+O Ministério Público Federal, a fls. 1.304/1.305e, manifestou-se pela intimação do impetrante para dizer se subsistia o seu interesse no julgamento do feito, ante a apreciação do recurso administrativo.
+Afls. 1.311/1.312e, o impetrante requereu adesistênciadopresentemandamus,cujo pedido foi subscrito por advogado, com poderes especiais paradesistir (fl. 9e).
+O Plenário do Supremo Tribunal Federal, no julgamento do RecursoExtraordinário 669.367/RJ, sob o regime da repercussão geral, adotou oentendimento segundo o qual adesistênciaem mandado de segurança éprerrogativa de quem o propõe, podendo ocorrer a qualquer tempo, sem aanuência da parte contrária e independentemente de já ter havido decisãode mérito, ainda que favorável ao impetrante.
+Confira-se a ementa:
+RECURSO EXTRAORDINÁRIO. REPERCUSSÃO GERAL ADMITIDA. PROCESSO CIVIL.MANDADO DE SEGURANÇA. PEDIDO DEDESISTÊNCIADEDUZIDO APÓS A PROLAÇÃO DESENTENÇA. ADMISSIBILIDADE. "É lícito ao impetrante desistir da ação demandado de segurança, independentemente de aquiescência da autoridadeapontada como coatora ou da entidade estatal interessada ou, ainda, quandofor o caso, dos litisconsortes passivos necessários" (MS26.890-AgR/DF,Pleno, Ministro Celso de Mello, DJe de 23.10.2009), "a qualquer momentoantes do término do julgamento" (MS24.584-AgR/DF, Pleno, Ministro RicardoLewandowski, DJe de 20.6.2008), "mesmo após eventual sentença concessivado "writ" constitucional, (..) não se aplicando, em tal hipótese, a normainscrita no art. 267, § 4º, do CPC" (RE 255.837-AgR/PR, 2ª Turma, MinistroCelso de Mello, DJe de 27.11.2009). Jurisprudência desta Suprema Cortereiterada em repercussão geral (Tema 530- Desistênciaem mandado desegurança, sem aquiescência da parte contrária, após prolação de sentençade mérito, ainda que favorável ao impetrante). Recurso extraordinárioprovido" (STF, RE 669367, Relator(a) p/ Acórdão Ministra ROSA WEBER,TRIBUNAL PLENO, DJe de 29/10/2014).
+Nesse sentido, decidiu a Corte Especial do Superior Tribunal de Justiça:
+"AGRAVO REGIMENTAL. HOMOLOGAÇÃO DE PEDIDO DEDESISTÊNCIADA AÇÃOMANDAMENTAL APÓS A PROLAÇÃO DE SENTENÇA. EXTINÇÃO DO FEITO SEM RESOLUÇÃODO MÉRITO. POSSIBILIDADE. PRECEDENTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Conforme orientação jurisprudencial do Supremo Tribunal Federal, oImpetrante pode desistir da ação de mandado de segurança a qualquer tempo,mesmo após a prolação de sentença de mérito (RE 669.367/RJ,Rel. Min. LUIZFUX, Relator(a) p/ Acórdão: Min. ROSA WEBER, Tribunal Pleno, DJe de30/10/2014).
+2. Adesistênciada ação não implica renúncia ao direito discutido, sendoincidente a regra processual que determina a extinção do processo semjulgamento de mérito.
+3. Agravo regimental desprovido" (STJ, AgRg nos EDcl nos EDcl na DESIS noRE nos EDcl no AgRg no REsp 999.447/DF, Rel. Ministra LAURITA VAZ, CORTEESPECIAL, DJe de 15/06/2015).
+Ante o exposto, nos termos do art. 34, IX, do RISTJ, homologo o pedido dedesistênciado Mandado de Segurança.
+I.
