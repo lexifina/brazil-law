@@ -1,0 +1,4 @@
+DECISÃO
+Cuida-se de carta rogatória por meio da qual a Justiça portuguesa (Juiz Local Criminal de Setúbal - Juiz 4) solicita anotificação de WERDER DE JESUS COSTA GUIMARÃES para que, no prazo de 10 (dez) dias, proceda ao pagamento da pena de multa aplicada ou, alternativamente, indique e comprove quais as razões que o impedem de o fazer, restando advertido que a falta de pagamento da multa, não sendo demonstrado que a omissão não lhe é imputável, implicará a instauração de execução patrimonial com penhora de bens e direitos e, não sendo esta possível, o cumprimento de prisão subsidiária.
+Devidamente cumprida a comissão, conforme atestam os documentos de fls. 133-136, devolvam-se os autos à Justiça rogante por intermédio da autoridade central competente (art. 216-X do RISTJ), independentemente do trânsito em julgado.
+Publique-se.
