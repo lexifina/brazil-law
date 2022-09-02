@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de embargos de declaração, opostos por FRANCISCO LUCAS DE MORAIS eOUTRO, em face de decisão monocrática da lavra deste signatário (fls. 345-350, e- STJ), que, em juízo de reconsideração, conheceu do agravo para dar provimento ao recurso especial dos ora embargantes.
+Daí os presentes embargos de declaração (fls. 352-354, e-STJ), no qual os insurgentes sustentam, em síntese: i) a existência de omissão quanto à declaração de reversão do ônus sucumbencial, e ii) a configuração de erro material pois "na letra "b" da decisão embargada constou que "o vencimento da última parcela do preço deu-se em outubro de 1997 (fl. 195, e-STJ)". No entanto,em outubro de 1997 iniciou-se o inadimplemento, mas a data do vencimento da última parcela do preço foi 24/07/2005, como se vê em fls. 284 (e-STJ)." (fls. 352-353, e-STJ).
+Não foi apresentada impugnação (fls. 358-359, e-STJ).
+É o relatório.Decido.
+Os aclaratórios merecem acolhimento.
+1. Com efeito, nos estreitos lindes do artigo 1.022, CPC/2015, os embargos de declaração objetivam suprir omissão, dissipar obscuridade, afastar contradição ou sanar erro material encontráveis em decisão ou acórdão.
+1.1. Razão assiste à embargante quanto à existência de erro material na decisão singular ora combatida.
+Com efeito, à fl. 350 (e-STJ, grifou-se), consta:
+No caso, tem-se que: a) a pretensão do recorrente é de resolução do contrato, reintegração na posse do bem imóvel litigioso c/c perdas e danos; b) o vencimento da última parcela do preço deu-se em outubro de 1997 (fl. 195, e-STJ), e c) a petição inicial do feito foi ajuizada em 07/06/2017, ou seja, quando da entrada em vigor do novo Código Civil transcorreram apenas 6 anos, não tendo se passado metade do prazo prescricional da lei revogada, no caso, 10 anos. Portanto, na hipótese, aplica- se o prazo da nova lei (decenal), sendo a contagem por inteiro, a partir de 11/01/2003.
+Portanto, merece acolhida os aclaratórios para sanar o erro material, a fim de que a decisão no citado parágrafo fique assim redigida:
+No caso, tem-se que: a) a pretensão do recorrente é de resolução do contrato, reintegração na posse do bem imóvel litigioso c/c perdas e danos; b) o inadimplementodeu-se em outubro de 1997 (fl. 195, e-STJ), e c) a petição inicial do feito foi ajuizada em 07/06/2017, ou seja, quando da entrada em vigor do novo Código Civil transcorreram apenas 6 anos, não tendo se passado metade do prazo prescricional da lei revogada, no caso, 10 anos. Portanto, na hipótese, aplica- se o prazo da nova lei (decenal), sendo a contagem por inteiro, a partir de 11/01/2003.
+1.2. De fato, verifica-se que não houve o pronunciamento acerca dos honorários sucumbenciaisna decisão singular embargada.
+Com efeito, o Tribunal local, ao fixar a verba honorária, assim concluiu (fl.198-199, e-STJ, e-STJ):
+Diante do exposto, pois, pelo meu voto, DOU PROVIMENTO ao recurso para julgar parcialmente procedente o pedido autoral, reconhecendo o desfazimento do contrato, condenada a parte requerida a restituir o bem à parte autora, autorizada a reintegração na posse, invertido o ônus sucumbencial, arbitrada a verba honoráriadevida pelos requeridos em 20% do valor da causa (à causa se cinco mil e duzentos reais), atribuiu o valor de R$ 25.200,00 (vinte e tudo nos termos da fundamentação supra.
+No caso, o recurso especial foi provido para jugar extinto o feito pelo reconhecimento da prescrição.Assim, de rigor, a inversão dos ônus sucumbenciais, fixados em 20% sobre o valor da causa.
+2. Do exposto, acolho os embargos de declaração opostos a fim de sanar o erro material apontado, bem como a omissão, invertendo os ônus sucumbenciais.
+Publique-se.Intimem-se.
