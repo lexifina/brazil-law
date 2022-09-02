@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo interposto por K2 MADEIRAS LTDA.contra decisão que, na origem, não admitiu o processamento do recurso especial, interposto contra acórdão proferido pelo Tribunal de Justiça do Estado do Mato Grosso a seguir ementado (e-STJ, fls. 63-64):
+APELAÇÃO CÍVEL - EMBARGOS À EXECUÇÃO - CITAÇÃO POR EDITAL- NÃO ESGOTAMENTO DOS MEIOS PARA LOCALIZAÇÃO DA PARTE - NULIDADE- OCORRÊNCIA - SENTENÇA MANTIDA - RECURSO DESPROVIDO. A citação por edital é medida excepcional, só admissível diante do esgotamento de diligências para tentativa de localização do requerido, o qual será considerado em local ignorado ou incerto se infrutíferas as tentativas de sua localização, inclusive mediante requisição pelo juízo de informações sobre seu endereço nos cadastros de órgãos públicos ou de concessionárias de serviçospúblicos, nos termos do art. 256, § 3º, do CPC.
+Nas razões do recurso especial (e-STJ, fls. 77-83), a recorrente alegou,além de divergência jurisprudencial, ofensa ao art. 256, § 3º, do Código de Processo Civil de 2015,sustentando, em síntese, que houve equívoco do Tribunal de origem quanto à conclusão de ausência dos pressupostos necessários à validade da citação editalícia.
+Asseverou que foraminexitosas as tentativas de citação pelo correio e por oficial de justiça, sendo cabível a citação por edital, ressaltando, ainda, o princípio da instrumentalidade das formas.
+O Tribunal de origem deixou de admitir o recurso especial, tendo sido interposto agravo em recurso especial às fls. 108-112 (e-STJ).
+Brevemente relatado, decido.
+Sobre a citação por edital,o Tribunal de Justiça se manifestou nos seguintes termos (e-STJ, fl. 66, sem grifos no original):
+A citação por edital é espécie de citação ficta, em que se presume o efetivo conhecimento do réu acerca da existência da demanda proposta em seu desfavor, constituindo medida excepcional cabível nas hipóteses elencadas no artigo 256 do CPC. Tratando-se de réu em local incerto e não sabido, o CPC impõe, expressamente, a realização de tentativas de sua localização, inclusive com o auxílio do juízo para a obtenção de informações sobre seu endereço, reputando-se nula a citação por edital não precedida do esgotamento de tais tentativas.
+Na hipótese em mesa, conforme bem lançado na sentença, houve uma única tentativa de localização do devedor/executado, não restando demonstrado o exaurimento prévio dos meios de localização do mesmo.
+Ao que se infere dos autos de origem no Id 65143409 - pág 51, houve uma única tentativa de localização do executado, onde o Meirinho certificou que "não logrei êxito em encontrar a empresa (..) haja vista que no endereço mencionado no mandado este oficial encontrou a casa fechada (com sinais de estar inabitada), onde fui alertado por vizinho e populares que os mesmos se mudaram desta Comarca há vários meses para a cidade de Alta Floresta/MT (..)". (sic)
+Após ser intimado para manifestação sobre a certidão o exequente já pugnou pela citação por edital, sem qualquer outra indicação de endereço ou pedido de medida localização do devedor.
+Dessa forma, sendo a citação por edital medida excepcional e, não tendo sido esgotados todos os meios para a localização da parte executada, acertada a sentença que acolheu a preliminar de nulidade da citação, devendo permanecer irretocável, inclusive, quanto a condenação da parte exequente ao pagamento das custas e honorários sucumbenciais.
+Como se observa do excerto transcrito, o Tribunal de Justiça, soberano na análise do acervo probatório constante dos autos, constatou que não foram exauridas todos os meios para a localização daexecutada, confirmando, assim, anulidade da citação por edital, já que preenchidos os requisitos legais.
+A revisão do entendimento originário acerca do exaurimento das possibilidades de localização do devedoresbarra no teor da Súmula 7/STJ, pois demandaria reexame de fatos e provas.
+A propósito:
+PROCESSUAL CIVIL. EXECUÇÃO FISCAL.CITAÇÃO POR EDITAL. MEIOS PARA A LOCALIZAÇÃO DO DEVEDOR. ESGOTAMENTO. REEXAME DAS PREMISSAS FÁTICAS. IMPOSSIBILIDADE.
+1. A Primeira Seção, por ocasião do julgamento do REsp 1.103.050/BA (repetitivo), firmou a orientação de que a citação por edital, por ser medida excepcional, somente é admitida depois de esgotadas as tentativas de localização do endereço do devedor, para fins de citação pessoal, pelos correios ou por oficial de justiça.
+2. Hipótese em que o conhecimento do recurso especial encontra óbice nas Súmulas 7 e 83 do STJ, pois Tribunal local, atento ao conjunto fático-probatório, decidiu que é válida a citação por edital na presente execução uma vez que houve exaurimento dos meios tendentes à localização do endereço da parte executada.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 1.909.660/GO, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 25/10/2021, DJe de 25/11/2021.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. CITAÇÃO POR EDITAL. DILIGÊNCIAS EFETIVADAS EM DIVERSOS ENDEREÇOS. TENTATIVAS INFRUTÍFERAS DE LOCALIZAÇÃO DA PARTE RÉ. REEXAME. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Nos termos da jurisprudência desta Corte, a citação por edital somente é admitida quando previamente esgotadas as tentativas de localização da parte demandada.
+2.No caso, a reforma do acórdão recorrido, no tocante ao exaurimento das tentativas para localização da parte ré, demandaria o reexame do conjunto fático-probatório dos autos, providência inviável no recurso especial, a teor do disposto na Súmula 7 do STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.763.916/DF, relator Ministro Raul Araújo, Quarta Turma, julgado em 21/6/2021, DJe de 1/7/2021.) (sem grifo no original)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, ambos do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO.CITAÇÃO POR EDITAL. EXAURIMENTO DOS MEIOS DE LOCALIZAÇÃO DISPONÍVEIS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
