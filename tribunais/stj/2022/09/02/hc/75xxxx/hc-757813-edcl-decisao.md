@@ -1,0 +1,15 @@
+DECISÃO
+PATRÍCIA GALANTE opõe embargos de declaração contra a decisão de fls. 85-88, em que indeferi liminarmente o habeas corpus.
+A defesa aponta omissão e obscuridade no decisum embargado, porquanto a nulidade suscitada não foi analisada. Afirma: "Quando a nulidade é do teor do desenhando no processo não se exige revisão criminal para desconstituir-se o acórdão" (fl. 96).
+Aduz: "a decisão embargada torna-se obscura quando afirma "a defesa não comprovou haver manifestado oposição ao julgamento virtual", e da obscuridade resulta a omissão. A defesa não teve tempo de se manifestar de nada no segundo grau" (fl. 97).
+Busca ao fim a integração do julgado, com efeitos infringentes, a fim de que seja anulado o acórdão proferido pelo Tribunal de origem.
+Decido.
+Os embargos de declaração são cabíveis somente nas hipóteses do art.619 do Código de Processo Penal, isto é, nos casos de ambiguidade, obscuridade, contradição ou omissão no acórdão embargado.
+São inadmissíveis, portanto, quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam, em essência, o rejulgamento do feito.
+No caso, observo que os aclaratórios não comportam acolhimento, uma vez que o mérito do habeas corpus não foi analisado em virtude de o writ ser substitutivo de revisão criminal, a qual deveria haver sido ajuizada perante o Tribunal de origem.
+Ademais, adecisão embargada foi clara em asseverar a ausência de constatação de flagrante ilegalidade que autorizasse a concessão da ordem de ofício. Deveras, a defesa busca a declaração de nulidade do acórdão de apelação, uma vez que não foi intimada do seu julgamento virtual, a inviabilizar, portanto, sua sustentação oral.
+Todavia, tal como afirmei,a despeito de a parte haver sido intimada, não foi comprovada a manifestação de oposição ao julgamento virtual nem mesmo o requerimento de realização de sustentação oral, o qual poderia haver sido feito nas próprias razões ou contrarrazões recursais.
+Reitero não haver obscuridade no decisum embargado, pois, embora a defesa alegue não ter tido tempo hábil para impugnar a matéria, nem sequer evidenciou que a irresignação foi submetida ao Tribunal estadual, ainda que em embargos declaratórios. Ademais, consoante noticiou a Corte local (fls. 33 e 63), a parte protocolou petição após o julgamento da apelação, com requerimento de juntada de comprovantes de intimação e da Resolução n. 549/2011, mas nada mencionou acerca de eventual insurgência.
+Dessa forma, o que se constata é a real intenção do insurgente em alterar o julgado, haja vista a inexistência de vícios na decisão embargada. É certo que o mero inconformismo da parte com o resultado do julgamento não se coaduna com a via do recurso integrativo. Nesse sentido: "Os embargos de declaração não se prestam para sanar o inconformismo da parte com o resultado desfavorável no julgamento ou para rediscutir matéria já decidida" (EDcl no AgRg no RMS n.38.465/RJ, Rel. Ministro Moura Ribeiro, 5ª T., DJe 6/9/2013).
+À vista do exposto, rejeito os embargos de declaração.
+Publique-se e intimem-se.
