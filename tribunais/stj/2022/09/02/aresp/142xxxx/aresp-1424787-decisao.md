@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo interposto por ANA RITA MENEZES MICHAUD E OUTROScontra a decisão que inadmitiu o recurso especial fundado no art. 105, III, a, da Constituição Federal.
+Na origem, a parte autorainterpôs Agravo de Instrumento contra decisão proferida nos autos de cumprimento de sentença de nº 0004992-15.2016.8.16.0004 que deixou de condenar o executado em honorários para o cumprimento de sentença, em razão da ausência de impugnação do Estado do Paraná ao cálculo apresentado.
+OTRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁdeu parcial provimento ao agravo de instrumento da parte autora, para determinar a incidência dos honorários advocatícios em execução mediante requisição de pequeno valor (RPV) fixados em R$ 2.000,00 (dois mil reais).
+O referido acórdão foi assim ementado, in verbis:
+AGRAVO DE INSTRUMENTO - EXECUÇÃO DE SENTENÇA CONTRA A FAZENDA PÚBLICA - OBRIGAÇÃO DE PEQUENO VALOR (RPV). FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS - CABIMENTO - PRECEDENTES DO STJ -APLICAÇÃO DO ARTIGO 85, DO CÓDIGO DE PROCESSO CIVIL. DECISÃO REFORMADA. RECURSO CONHECIDO E PROVIDO.
+Não foram opostos embargos de declaração.
+Contra a decisão cuja ementa se encontra acima transcrita, ANA RITA MENEZES MICHAUDE OUTROSinterpuseram recurso especial, apontando violação doart. 85, § 3º, II, do CPC/15.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+Após decisum que inadmitiu o recurso especial, com base na Súmula nº 7/STJ, foi interposto o presente agravo, tendo o recorrente apresentado argumentos visando rebater os fundamentos da decisão agravada.
+É o relatório. Decido.
+O presente recurso atrai a incidência do Enunciado Administrativo n.3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC."
+Considerando que o agravante, além de atender aos demais pressupostos de admissibilidade deste agravo, logrou impugnar a fundamentação da decisão agravada, passo ao exame do recurso especial interposto.
+O Tribunal a quo fixou a verba honorária de sucumbência nos seguintes termos, in verbis:
+Concluindo-se pela necessidade de fixação de honorários advocatícios em execução de obrigação de pequeno valor - RPV, observados os critérios estabelecidos no artigo 85 do CPC, e atentando-se aos parâmetros adotados pela 4ª Câmara Cível, já considerada a interposição do presente recurso, nos termos do artigo 85, § 11º CPC, os honorários advocatícios devem ser fixados R$ 2.000,00 (dois mil reais).
+(..)
+A conclusão final que se impõe é que o recurso deve ser conhecido e provido para o fim de reformar a decisão recorrida e, em consequência, determinar a incidência dos honorários advocatício sem execução mediante requisição de pequeno valor (RPV) fixados em R$ 2.000,00 (dois mil reais).
+Vota-se, portanto, para CONHECER do recurso de Agravo de Instrumento e para DAR-LHE PROVIMENTO para determinar incidência dos honorários advocatícios em execução mediante requisição de pequeno valor (RPV) fixados em R$ 2.000,00 (dois mil reais). (fls. 362-363)
+Na hipótese, verifica-se que, emboraexistaum proveito econômico aferível, qual seja, o valor da RPV expedida,os honorários sucumbenciais foram arbitrados em R$ 2.000,00 (dois mil reais) pelo Tribunal de origem.
+É cediço que a verba honorária somente poderá ser arbitrada por apreciação equitativa nas hipóteses em que ovalor da condenação ou do proveito econômico obtido ou o valor atualizado da causa for líquido ou liquidável, ou ainda, nas causas em que for inestimável ou irrisório o proveito econômico, o que não é o caso dos autos.
+Dessa forma, os percentuais estabelecidos para os honorários advocatícios oscilam entre o mínimo de 10% e o máximo de 20% do valor da causa, até 200 salários-mínimos (art. 85, § 3º, I).
+Assim, evidente o descompasso do aludido arbitramento com as disposições do § 3º do art. 85 do CPC/2015.
+No mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. LOCAÇÃO. EMBARGOS DE RETENÇÃO POR BENFEITORIAS. DECISÃO DA PRESIDÊNCIA DESTA CORTE. RECONSIDERAÇÃO. HONORÁRIOS ADVOCATÍCIOS. SENTENÇA PROLATADA NA VIGÊNCIA DO CPC/2015. CRITÉRIOS DE FIXAÇÃO. RESP N. 1.746.072/PR. APRECIAÇÃO EQUITATIVA. IMPOSSIBILIDADE. LIMITES PERCENTUAIS. OBSERVÂNCIA. RECURSO PROVIDO. VERBA HONORÁRIA DE 20% SOBRE O VALOR ATUALIZADO DA CAUSA. RECURSO PROVIDO.
+1. Para fixação dos honorários sucumbenciais, deve-se observar "a seguinte ordem de preferência: (I) primeiro, quando houver condenação, devem ser fixados entre 10% e 20% sobre o montante desta (art. 85, § 2º); (II) segundo, não havendo condenação, serão também fixados entre 10% e 20%, das seguintes bases de cálculo: (II.a) sobre o proveito econômico obtido pelo vencedor (art. 85, § 2º); ou (II.b) não sendo possível mensurar o proveito econômico obtido, sobre o valor atualizado da causa (art. 85, § 2º); por fim, (III) havendo ou não condenação, nas causas em que for inestimável ou irrisório o proveito econômico ou em que o valor da causa for muito baixo, deverão, só então, ser fixados por apreciação equitativa (art. 85, § 8º)" (REsp n. 1.746.072/PR, Relatora Ministra NANCY ANDRIGHI, Relator para Acórdão Ministro RAUL ARAÚJO, SEGUNDA SEÇÃO, julgado em 13/2/2019, DJe 29/3/2019).
+2. No caso concreto, diante do julgamento de improcedência dos pedidos deduzidos, não se tratando de demanda de valor inestimável ou irrisório, é impositivo o arbitramento da verba honorária, nos termos do art. 85, § 2º, do CPC/2015.
+3. Agravo interno a que se dá provimento para reconsiderar a decisão da Presidência desta Corte e conhecer do agravo nos próprios autos a fim de dar provimento ao recurso especial.
+(AgInt no AREsp n. 1.489.773/RS, Rel. Ministro ANTONIO CARLOS FERREIRA, DJe 14/10/2019.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO POR TÍTULO EXTRAJUDICIAL. CONTRATO DE PRESTAÇÃO DE SERVIÇOS DE OPERAÇÃO E ADMINISTRAÇÃO DE CARTÕES VALE-REFEIÇÃO, DESACOMPANHADOS DE EXTRATOS OU CUPONS DOS PERÍODOS RECLAMADOS. EXECUTIVIDADE NÃO CONFIGURADA. HONORÁRIOS DE ADVOGADO. RECURSO NÃO PROVIDO.
+1. Ressalvadas as exceções previstas nos §§ 3º e 8º do art. 85 do CPC/2015, na vigência da nova legislação processual o valor da verba honorária sucumbencial não pode ser arbitrado por apreciação equitativa ou fora dos limites percentuais fixados pelo § 2º do referido dispositivo legal.
+2. Segundo dispõe o § 6º do art. 85 do CPC/2015, " o s limites e critérios previstos nos §§ 2º e 3º  do mesmo art. 85  aplicam-se independentemente de qual seja o conteúdo da decisão, inclusive aos casos de improcedência ou de sentença sem resolução de mérito".
+3. Agravo interno não provido.
+(AgInt no AREsp n. 1.324.439/SP, Rel. Ministro LUIS FELIPE SALOMÃO, DJe 10/9/2019.)
+Assim, os autos devem ser encaminhados ao Tribunal de origem para que os honorários advocatícios sejam fixados na forma do art. 85, §§ 2º e 3º, do CPC/2015.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, c, do RISTJ, conheço do agravo para dar provimento ao recurso especial, determinando a remessa dos autos ao Tribunal de origem para que sejam fixados os honorários advocatícios na forma do art. 85, §§ 2º e 3º, do CPC/2015.
+Publique-se. Intimem-se.
