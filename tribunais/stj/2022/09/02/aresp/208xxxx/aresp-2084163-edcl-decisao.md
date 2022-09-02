@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por PURUBA ADMINISTRAÇÃO DE BENS PRÓPRIOS E PARTICIPAÇÕES LTDA. à decisão monocrática proferida por este signatário, que conheceu do agravo para negar provimento ao recurso especial, nos termos da seguinteementa (fl. 3.653, e-STJ):
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE NULIDADE DE ATO JURÍDICO JULGADA IMPROCEDENTE.VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015 NÃO CONFIGURADA. ACÓRDÃO EM HARMONIA COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. REVISÃO DAS CONCLUSÕES ESTADUAIS. IMPOSSIBILIDADE. NECESSIDADE DE INCURSÃO NO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+Em suas razões (fls. 3.666-3.696, e-STJ), sustenta a parte embargante ofensa ao art. 1.022 do CPC/2015, alegando omissão no julgado, ao argumento de que não foram analisados todos os pontos trazidos no recurso especial que propiciariam seu provimento.
+Impugnação às fls. 3.699-3.704 (e-STJ), em cujas razões pleiteia a embargada a aplicação da multa disposta no art. 1.026 do CPC/2015 à embargante, em virtude da interposição de recurso inadmissível, posto que ausentes quaisquer das omissões apontadas.
+É o relatório.
+Os embargos de declaração, nos termos do art. 1.022, do CPC/2015, apenastêm cabimento quando efetivamente existir omissão, contradição,obscuridade ou erro material no julgado embargado, situação que não seobserva na espécie.
+Não há nenhuma omissão ou contradição a ser sanada, portanto inexistentesos requisitos para cabimento dos presentes embargos declaratórios, nostermos do art. 1.022 do novo CPC.
+A decisão monocrática embargada dirimiu a questão com base emfundamentação sólida, sem omissões ou contradições. O decisum embargadoesclareceu a controvérsia, apontando fundamentação consistente, o que nãose confunde com omissão ou contradição, tendo em vista que apenasapresentou fundamentos diferentes dos pretendidos pela recorrente.
+Ademais, o órgão julgador não está obrigado a responder a questionamentosdas partes, mas apenas a declinar as razões de seu convencimento motivado,o que de fato ocorre nos autos.
+Dito isso, cabe rememorar que nas razões do recurso especial, a insurgentealegou:
+(i)negativa de prestação jurisdicional ante a omissão do Colegiado estadual em analisar questões relevantes para o deslinde da controvérsia, bem como ausência de fundamentação na decisão impugnada;
+(ii)inviabilidade de apresentação de contestação antes da citação e da decisão do juiz, por atropelar as fases do processo;
+(iii)nulidade do processo, por ausência de abertura de prazo para impugnação à contestação, não se encontrando preclusa a oportunidade de impugná-la;
+(iv)possibilidade de juntada dos documentos novos para defesa de seus direitos, sendo necessária sua análise; e
+(v)ser nula a garantia ofertada, em razão da ausência de poderes expressos e específicos para alienação do imóvel objeto da presente lide; bem como não haver informação acerca do valor do imóvel.
+Na decisão embargada, reconheceu-se: a) não estar configurada a alegada violação dos arts. 489 e 1.022 do CPC/2015, porquanto as questões trazidas pela recorrente foram analisadas, de forma fundamentada, apenas em sentido contrário à sua pretensão; b) aplicação da Súmula 7/STJ para revisão das conclusões estaduais; e c)incidência da Súmula 83/STJ, haja vista o acórdão recorrido encontrar-se em consonância com a jurisprudência desta Corte, em relação a estar preclusa a possibilidade de alegação da alegada nulidade, pois não apontadana primeira oportunidade em que a parte teve para se manifestar nos autos, óbice que tornou prejudicada a análise da divergência jurisprudencial apontada.
+Dessa forma, constata-se que a decisão embargada não possui vício a ser sanado por meiodos embargos de declaração, apenas se constata o nítido carátermodificativo pretendido pela parte embargante, medida inadmissível nestaespécie recursal.
+Evidente, portanto, a impossibilidade de acolhimento dos presentesaclaratórios, pois devidamente motivada e fundamentada a decisão, além denão ter sido demonstrada a ocorrência de nenhuma das hipóteses do art.1.022 do Código de Processo Civil/2015.
+Quanto ao pedido de aplicação da multa prevista no art. 1.026, § 2º, doCódigo de Processo Civil de 2015 pela parte adversa, impende destacar que,no presente caso, não se verifica o nítido caráter protelatório dosaclaratórios que autorizaria a sua aplicação.
+Diante do exposto, rejeito os embargos de declaração.
+Fiquem as partes cientificadas de que a insistência injustificadano prosseguimento do feito, caracterizada pela apresentação derecursos manifestamente inadmissíveis ou protelatórios contra estadecisão, ensejará a imposição, conforme o caso, das multas previstas nosarts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVOEM RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. INEXISTÊNCIA. NÍTIDA PRETENSÃO DE REJULGAMENTO DO RECURSO. IMPOSSIBILIDADE. MULTA DO ART. 1.026 DO CPC/2015. DESCABIMENTO.EMBARGOS DE DECLARAÇÃO REJEITADOS.
