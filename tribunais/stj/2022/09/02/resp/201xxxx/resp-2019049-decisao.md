@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "a" da CF/1988) interposto contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo cuja ementa é a seguinte (fls. 226-227, e-STJ):
+Acidente do Trabalho - Lesões de punho e antebraço direito -Auxílio acidente - Comprovado onexo causal entre o infausto e a redução parcial e permanente da capacidade laborativa, o benefício é devido  Inteligência do art. 86 da Lei nº 8.213/91.Auxílio-acidente  Termo inicial  Dia seguinte ao da cessação do último auxílio-doença deferido antes da propositura da demanda  Inteligência do art. 86, § 29, da Lei no 8.213/91.Débitos em atraso do INSS  Atualização e juros moratórios  Considerando que a data de início do pagamento do benefício é posterior ao início da vigência da Lei nº 11.960/09, em 30.06.2009, deverão ser aplicados os índices definidos pelo artigo 1º-F da Lei 9.494/97, até a modulação dos efeitos nas ADIs nº 4.357, 4.372, 4.440 e 4.425, julgadas pelo Supremo Tribunal Federal.Processual Civil  Acidente do Trabalho  HonoráriosAdvocatícios  Fixação em 15% do valor das prestações devidas até a prolação da sentença  Montante inferior não remuneraria condignamente o advogado do segurado, a teor do disposto na Súmula 111 do E. STJ e do entendimento ia pacificado por esta E. Câmara Especializada.CONFERE-SE PARCIAL PROVIMENTO AOS RECURSOS OFICIAL E VOLUNTÁRIO DO INSS E NEGA-SE PROVIMENTO AO RECURSO DO AUTOR.
+Os Embargos de Declaração foram rejeitados (fls. 242-248, e-STJ).
+O recorrente apontaviolação aos arts.20 daLei9.711/1998 e 209, § 5º, da Lei8.880/1994 e busca oafastamento "da TR como fator de correção monetária e a aplicação do IGP-DI em seu lugar, ou outro fator que o venha substituir, uma vez que não se trata o caso de atualização de precatório, mas sim de conta de liquidação a ser objeto de futuro precatório" (fls. 254, e-STJ).
+Sem contrarrazões (fls. 259,e-STJ).
+Em juízo de adequação aosTemas 810/STF e 905/STJ, decidiu-se (fls. 276-277, e-STJ):
+Em suma, a contar da Lei 11.430/06, de 26 de dezembro de 2006, a correção monetária deve ser feita pelo INPC, até o advento da Lei 11.960/09, datada de 29 de junho de 2009, a partir de quando passará ela a ser feita pelo IPCA-E.
+Portanto, considerando o termo inicial do beneficio (12/09/2012 - fl. 213), deve ser aplicado, para correção monetária dos atrasados, o IPCA-E.
+Os juros de mora serão estabelecidos conforme o índice de remuneração das cadernetas de poupança (artigo 1º-F da Lei 9.494/97, com as alterações introduzidas pela Lei 11.960/2009, com vigência em 30/06/2009).
+É o relatório.
+Decido.
+Os autos foram recebidos no Gabinete em 25 de agosto de 2022.
+Quanto ao tema em discussão, observa-se que não houve correta adequação do julgado de origem aos Temas 810 do STF de905 do STJ.
+Em observância àdecisão do STF, a Primeira Seção do STJ, nos termos do Tema 905/STJ (Recursos Especiais 1.495.146/MG, 1.492.221/PR e 1.495.144/RS, Rel. Ministro Mauro Campbell Marques), determinou que as condenações impostas à Fazenda Pública de natureza previdenciária sujeitam-se à incidência do INPC, para fins de correção monetária, no que se refere ao período posterior à vigência da Lei 11.430/2006, que incluiu o art. 41-A na Lei 8.213/1991. Quanto aos juros de mora, incidem segundo a remuneração oficial da caderneta de poupança (art. 1º-F da Lei 9.494/1997, com redação dada pela Lei 11.960/2009).
+Dessume-se que o acórdão recorrido não estáem sintonia com o atual entendimento do STJ, motivo pelo qual merece prosperar a irresignação.
+Assim, por se tratar de condenação judicial de natureza previdenciária, incide o INPC, para fins de correção monetária, no que concerne ao período posterior à vigência da Lei 11.430/2006, que incluiu o art. 41-A na Lei 8.213/1991. No período anterior à vigência da Lei 11.430/2006, devem ser aplicados os índices previstos no Manual de Cálculos da Justiça Federal.
+Os juros de morarecaem segundo a remuneração oficial da caderneta de poupança, consoante art. 1º-F da Lei 9.494/1997, com redação dada pela Lei 11.960/2009 (AgInt no REsp 1.862.174/SP, Rel. MinistroHerman Benjamin, Segunda Turma, DJe 29.10.2020; e AgRg no REsp 1.186.941/SP, Rel. Ministro Ribeiro Dantas, Quinta Turma, DJe 15.6.2020).
+Diante do exposto, conheço do Recurso Especial para dar-lhe parcial provimento, nos termos da fundamentação.
+Publique-se.
+Intimem-se.
