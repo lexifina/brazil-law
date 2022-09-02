@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo regimental em agravo em recurso especial interposto por SAMMER MUHAMMAD FERREIRA contra a decisão proferida pelo Tribunal de Justiça do Distrito Federal e dos Territóriosque não admitiu seu recurso especial fundado no art. 105, inciso III, alínea a, da Constituição Federal.
+A controvérsia tratada nos autos foi bem relatada no parecer ministerial às e-STJ fls. 186/192, in verbis:
+Trata-se de agravo em recurso especial interposto por SAMMER MUHAMMAD FERREIRA, contra decisão da Presidência do Tribunal de Justiça do Distrito Federal e dos Territórios, que negou seguimento ao recurso especial ofertado pela defesa.
+Consoante se extrai dos autos, a autoridade judiciária da Vara de Execuções Penais do Distrito Federal indeferiu o pedido de autorização para visita formulado pela genitora do agravante, Halima Abdel Hamid Muhammad de Oliveira, pois "a requerente foi autuada em flagrante delito por tráfico ilícito de drogas, em data recente, após ter sido flagrada com substâncias entorpecentes ilícitas, quando ingressou em presídio do Distrito Federal, conforme informações constantes do sistema de andamentos processuais deste Tribunal de Justiça (autos nº 2019.01.1.002997-9 da 3" Vara de Entorpecentes do DF) e também do SIAPEN/WEB." (fl. 51).
+Irresignada, a Defesa interpôs agravo em execução, tendo a 2ª Turma Criminal do Tribunal de Justiça do Distrito Federal e dos Territórios, por unanimidade, negado provimento ao recurso, nos termos assim ementado (fls. 101/114):
+EMENTA: RECURSO DE AGRAVO À EXECUÇÃO PENAL. INCONSTITUCI-ONALIDADE DO ARTIGO 5º, CAPUT, DA PORTARIA 8/2016 DA VEP. AFASTADA. PRESUNÇÃO DE CONSTITUCIONALIDADE DA NORMA. DIREITO DE VISITA. GENITORA DO APENADO. INTE-RESSADA CONDENADA POR TRÁFICO DE DROGAS EM INTE-RIOR DE PRESÍDIO. ÓBICE PARA A AUTORIZAÇÃO DE VISITAS. RECURSO DESPROVIDO.
+1. A confirmação da presunção de constitucionalidade de leis e atos normativos não se submete à cláusula de reserva de plenário prevista no artigo 97 da Constituição Federal.
+2. As restrições ao direito de visita previstas no artigo 5º, "caput", da Portaria 8/2016 da VEP são plenamente compatíveis com a Constituição Federal de 1988, pois se mostram adequadas, razoáveis e proporcionais, tendo em conta o sopesamento entre o direito de visitas e outros princípios e direitos, como o dever do Estado de promover a disciplina e a segurança dentro dos estabelecimentos prisionais, manter a integridade física dos detentos e visitantes e assegurar a adequada instrução processual penal.
+3. O direito do preso, com o objetivo de ressocialização, à visita do cônjuge, da companheira, de parentes e amigos, em dias determinados, conforme preceitua o art. 41, inciso X, da LEP, não se trata de direito absoluto, de maneira que pode ser suspenso ou restringido por decisão fundamentada, diante das peculiaridades do caso concreto.
+4. Correta a decisão que indeferiu o direito de visita à genitora do apenado, em razão de estar sendo processada por adentrar em estabelecimento prisional, em momento anterior, com entorpecentes ilícitos.
+5. Recurso desprovido.
+Sobreveio recurso especial, com fundamento no artigo 105, inciso III, alíneas"a", da Constituição da República, alega o recorrente que o acórdão recorrido violou o artigo 41, inciso X, e o artigo 1º, ambos da Lei nº 7.210/84; bem como o artigo 1º do Código Penal.
+O recurso especial não foi admitido por incidência do óbice inserto no enunciado nº 7 dessa Corte (fls. 134/135).
+No agravo em recuso especial, a defesa sustentou em síntese que "se o Superior Tribunal de Justiça vem decidindo essa matéria, conforme os precedentes acima colacionados, certo é que prescinde de qualquer revolvimento fático-probatório para o seu enfrentamento, pois se trata, unicamente, de verificação da legalidade do óbice apontado pelo acórdão recorrido. Neste contexto, portanto não está definitivamente presente o óbice da súmula 7 invocada." (fl. 143).
+O Ministro Presidente do STJ conheceu do agravo para não conhecer o recurso especial, dada incidência dos enunciados nº 211/STJ.
+Daí o presente agravo regimental, no qual a Defesa pleiteia a reconsideração da decisão agravada ou a submissão de sua apreciação pelo colegiado.
+O Parquet opinou pelo conhecimento do agravo e provimento do recurso especial (e-STJ fls. 186/192).
+É o relatório.
+Decido.
+Em consulta aos autos da Ação Penal n. 0001049-43.2019.807.0001, verifica-se que a genitora do agravante foi condenada e a sentença transitou em julgado, esvaziando a tese de que a vedação ao direito de visita não pode se pautar apenas no fato de a mãe do agravante responder à ação penal.
+Ante o exposto, julgo prejudicado o recurso.
+Publique-se. Intimem-se.
