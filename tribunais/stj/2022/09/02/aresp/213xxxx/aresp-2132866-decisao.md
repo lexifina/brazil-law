@@ -1,0 +1,34 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por CNF - ADMINISTRADORA DE CONSÓRCIOS NACIONAL LTDA, contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 04/12/2020.
+Concluso ao gabinete em: 14/07/2022.
+Ação: cumprimento de sentença de ação civil pública requerido por JOSE VICENTE PEREIRA, contra CNF - ADMINISTRADORA DE CONSÓRCIOS NACIONAL LTDA.
+Decisão interlocutória: indeferiu o pedido de extinção do processo por ilegitimidade ativa do exequente.
+Acórdão: negou provimento ao agravo de instrumento da agravante, nos termos da ementa:
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA DE AÇÃO CIVIL PÚBLICA. DECISÃO AGRAVADA EM QUE FOI REJEITADA A ALEGAÇÃO DE ILEGITIMIDADE ATIVA DO EXEQUENTE. PROTEÇÃO DA COISA JULGADA. ENTENDIMENTO EXARADONO JULGAMENTO DO RECURSO EXTRAORDINÁRIO Nº573.232/SC TRANSITADO EM JULGADO. DESNECESSIDADE DE REPRESENTAÇÃO ESPECÍFICA PELA ASSOCIAÇÃO. LEGITIMIDADE DE TODOS OS CONSUMIDORES QUE TIVERAM OS SEUS DIREITOS LESADOS, INCLUSIVE DAQUELES SEM VÍNCULO ASSOCIATIVO COM A ASSOCIAÇÃO DE DEFESA E ORIENTAÇÃO DO CIDADÃO (ADOC) AO TEMPO DO AJUIZAMENTO DA DEMANDA COLETIVA. CUMPRIMENTO INDIVIDUAL DA SENTENÇA. POSSIBILIDADE. REVOGAÇÃO DO EFEITO SUSPENSIVO ATRIBUÍDO. RECURSO NÃO PROVIDO. (E-STJ FL. 94)
+Embargos de Declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 485, VI, 489, § 1º, IV, 502, 525,927, III, 1.022, I e II, 1.036, 1.037, II, 1.040, II,do CPC/15; 103, III, do CDC; e 16 da Lei 7.347/85. Além de negativa de prestação jurisdicional, sustenta a ilegitimidade da parte agravada para executar a sentença coletiva porquanto não era vinculada à associação que promoveu a ação coletiva (ADOC),bem como residia no estado de São Paulo, área de abrangência diversa das atividades da ADOC (Paraná).Defende que seria necessária a autorização da parte agravada uma vez que a associação ADOC agiu por representação processual, não por substituição.Alega que se aplica ao presente o caso o decisum proferido pelo STF no RE 573.232/SC. Aduz que o REsp repetitivo 1.391.198/RS somente se aplica às execuções da sentença proferida na ação coletiva n. 1998.01.1.016798-9 da 12ª Vara Cível da Circunscrição Especial Judiciária de Brasília.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação do art. 1.022 do CPC/2015
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente acerca das questões submetidas a julgamento, de maneira que os embargos de declaração opostos pela parte agravante, de fato, não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC/15, incidindo, quanto ao ponto a Súmula 568/STJ.
+- Da Súmula 568/STJ
+A jurisprudência do STJ é no sentido de que:
+(a) As teses de repercussão geral resultadas do julgamento do RE 612.043/PR e do RE 573.232/SC tem seu alcance expressamente restringido às ações coletivas de rito ordinário, as quais tratam de interesses meramente individuais, sem índole coletiva, pois, nessas situações, o autor se limita a representar os titulares do direito controvertido, atuando na defesa de interesses alheios e em nome alheio. Nesse sentido: AgInt no REsp n. 1.799.930/MG, Terceira Turma, DJe de 28/8/2019; REsp 1.800.726/MG, TerceiraTurma, DJe de 04/04/2019; e REsp 1.649.087/RS, TerceiraTurma, DJe de 04/10/2018.
+(b)Em ação civil pública proposta por Associação, na condição de substituta processual de consumidores, possuem legitimidade para a liquidação e execução da sentença todos os beneficiados pela procedência do pedido, independentemente de serem filiados à Associação promovente (Tema 948/STJ).
+(c) Os efeitos e a eficácia da sentença coletiva não estão circunscritos a lindes geográficos, mas aos limites objetivos e subjetivos do que foi decidido, razão pela qual a presente sentença coletiva tem validade em todo o território nacional. Tese repetitiva. Tema 1.075/STF.Nesse sentido: REsp n. 1.693.885/SP, Terceira Turma, DJe de 1/7/2021 eAgInt no AREsp n. 1.616.571/PR, Quarta Turma, DJe de 26/8/2022.
+Desse modo, encontrando-se o entendimento da Corte de origem inteiramente em consonância com a jurisprudência deste Tribunal, bem como com a jurisprudência do STF, não há que falar na alteração do julgado. Incidência da Súmula 568/STJ.
+CONHEÇO do agravo e, com fundamento no art. 932, IV, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO do recurso especial e NEGO-LHE PROVIMENTO.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados na instância de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. NÃO OCORRÊNCIA.
+AÇÕES COLETIVAS PARA DEFESA DE DIREITOS INDIVIDUAIS HOMOGÊNEOS. HIPÓTESE DE SUBSTITUIÇÃO PROCESSUAL. LEGITIMAÇÃO PARA CUMPRIMENTO DE SENTENÇA COLETIVA. INDEPENDE DA CONDIÇÃO DE FILIADO (TEMA 948/STJ). EFICÁCIA DA SENTENÇA COLETIVA. TOTALIDADE DO TERRITÓRIO NACIONAL. SÚMULA 568/STJ
+1. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+2.As teses de repercussão geral resultadas do julgamento do RE 612.043/PR e do RE 573.232/SC tem seu alcance expressamente restringido às ações coletivas de rito ordinário, as quais tratam de interesses meramente individuais, sem índole coletiva, pois, nessas situações, o autor se limita a representar os titulares do direito controvertido, atuando na defesa de interesses alheios e em nome alheio. Precedentes.
+3.Em ação civil pública proposta por Associação, na condição de substituta processual de consumidores, possuem legitimidade para a liquidação e execução da sentença todos os beneficiados pela procedência do pedido, independentemente de serem filiados à Associação promovente (Tema 948/STJ).
+4. Os efeitos e a eficácia da sentença coletiva não estão circunscritos a lindes geográficos, mas aos limites objetivos e subjetivos do que foi decidido, razão pela qual a presente sentença coletiva tem validade em todo o território nacional. Tese repetitiva. Tema 1.075/STF. Precedentes.
+5. Agravo conhecido. Recurso especial conhecido e não provido.
