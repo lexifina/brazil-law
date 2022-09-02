@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de GERALDO CESAR DE CARVALHO SEIXAScontra decisão de Desembargador integrante do TRIBUNAL DE JUSTIÇA DO ESTADO DE RORAIMA, que indeferiu a liminar no HC n.9002019-38.2022.8.23.0000.
+Noticiam os autos que opaciente encontra-se presopreventivamente pela suposta prática do delito previsto no art. 121, §2º, I c/c o art. 14, II, ambos do Código Penal.
+Nesta via, oimpetrante alega a ocorrência de constrangimento ilegalcapaz de autorizar a mitigação do óbice previsto no enunciado da Súmula 691/STF, diante da ausência de fundamentaçãoidônea que justifique o decreto da prisão preventiva do paciente, reputando não atendidos os requisitos autorizadores da medida extrema, insculpidos no art. 312 do CPP.
+Requer a concessão sumária e definitiva da ordem constitucional paraque a constrição cautelar seja revogada, ainda que mediante a incidência demedidas alternativas do art. 319 do CPP, expedindo-se o competente contramandado de prisãoem seu favor.
+É o relatório.
+Esta Corte Superior, nos termos da Súmula 691 do Supremo Tribunal Federal, pacificou orientação no sentido de que "não se admite habeas corpus contra decisão negativa de liminar proferida em outro writ na instância de origem, sob pena de indevida supressão de instância" (AgRg no HC 252.412/SP, Rel. Ministra LAURITA VAZ, QUINTA TURMA, julgado em 9-10-2012, DJe 17-10-2012), destacando que "O referido óbice é ultrapassado tão somente em casos excepcionais, nos quais a evidência da ilegalidade é tamanha que não escapa à pronta percepção do julgador" (AgRg no HC 300.610/MG, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 4-9-2014, DJe 15-9-2014).
+E, da análise da documentação acostada aos autos, verifica-se que não está caracterizada flagrante ilegalidade suficiente para superar o óbice do referido enunciado sumular. É que a decisão objurgada não se mostrou teratológica, restando devidamente fundamentado o indeferimento do pleito liminar, pois a autoridade tida como coatora não entendeu presentes os requisitos necessários para a concessão sumária da ordem, tecendo ainda as seguintes considerações (e-STJ fls. 120/122):
+Em primeiro lugar quanto ao argumento de que não foi o autor dos fatos imputados, cumpre esclarecer que essas matérias devem ser debatidas no decorrer da devida instrução processual, sob pena de se invadira seara relativa ao próprio mérito da demanda, que depende de prévia instrução processual para que o julgador possa formar seu convencimento.
+ ..
+Quanto à insurgência em relação à decisão que decretou a prisão preventiva cumpre esclarecer, de início, que recentemente foi impetrado Habeas Corpus com essa mesma alegação, cuja relatoria coube a este Desembargador, o qual teve a ordem denegada por unanimidade, no dia 16 de agosto de 2022 (Habeas Corpus nº 9001414-92.2022.8.23.0000), sendo o teor da ementa:
+ ..
+Logo, não se vislumbra mudança na situação do Paciente desde a recente data do julgamento do Habeas Corpus. Quanto à alegação de primariedade e residência fixa, cumpre esclarecer que eventuais condições pessoais favoráveis ao paciente, tais como residência fixa, trabalho lícito e bons antecedentes, não são garantidoras ao direito de responder ao processo em liberdade, se existem outras circunstâncias que recomendam a sua segregação.
+ ..
+Inaplicável medida cautelar alternativa quando as circunstâncias evidenciam que as providências menos gravosas seriam insuficientes para a manutenção da ordem pública.
+Desse modo, em que pesem as argumentações do impetrante, não vislumbro a presença dos requisitos para a concessão da liminar requerida, razão pela qual indefiro-a.
+Assim, os argumentos lançados pela autoridade apontada como coatora, em cotejo com os elementos que instruem os presentes autos, autorizam a conclusão do acerto do indeferimento da medida sumária.
+Além disso, mister destacar que o revolvimento dessa questão certamente acarretaria a indevida supressão de instância, pois será alvo de exame oportuno na Corte de Justiça indicada como coatora, quando do julgamento do seu mérito.
+Ante o exposto, com fundamento no artigo 210 do Regimento Interno deste Superior Tribunal de Justiça, indefiroliminarmente o presente habeas corpus.
+Publique-se. Intime-se.
+Cientifique-se o Ministério Público Federal.
