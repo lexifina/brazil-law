@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de Embargos de Declaração contra decisão que conheceu do Agravo para não conhecer do Recurso Especial. Baseou-se a decisão na incidência da Súmula 7/STJ.
+Defende Biovida Saúde Ltda.:
+Entretanto, a r. decisão foi omissa ao não verificar que, em primeiro lugar, não se trata de matéria de mérito, que necessitaria do exame das provas dos autos.
+Entretanto, a r. decisão foi omissa ao não verificar que, em primeiro lugar, não se trata de matéria de mérito, que necessitaria do exame das provas dos autos.
+Em segundo lugar, não teria relação a aplicação da Súmula 07, visto que tratou de pedido de efeitos suspensivo ao recurso de apelação, a fim de evitar qualquer prejuízo para a Embargante até o trânsito em julgado da ação.
+Ainda, a r. decisão monocrática, adotou como fundamento outra decisão proferida nos autos, que se baseou no artigo 1.012, § 1º, V do CPC, que não pode servir de base para o indeferimento do efeito suspensivo pretendido pela Embargante, visto que a ação anulatória de débito fiscal é regida pela Lei nº 6.830/80 no que tange a possibilidade de conversão em renda do montante integral, somente podendo ser efetuado após o trânsito em julgado da ação judicial.
+Por fim, a r. decisão se mostra contraditória, ao não dar provimento ao recurso especial interposto pela Embargante e, ao mesmo tempo, reconhecer que os valores depositados só poderiam ser levantados com o trânsito em julgado da r. sentença proferida nos autos, sendo justamente este o pedido da Embargante para a concessão do efeito suspensivo ao recurso de apelação interposto.
+Impugnação às fls. 655-658, e-STJ.
+É o Relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 17 de agosto de 2022.
+A irresignação não merece acolhida. Assim decidi:
+Discute-se nos autos o indeferimento monocrático do efeito suspensivo em razão do depósito integral da multa, que foi confirmado pelo acórdão do Agravo Interno, sem adentrar no mérito da causa.
+O Tribunal de origem consignou (fls. 551-553, e-STJ):
+Trata-se de Agravo Interno interposto por BIOVIDA SAÚDE LTDA objetivando a modificação da decisão monocrática deste Relator de Evento 8, acrescentada pela decisão em sede de Embargos de Declaração de Evento 19, que indeferiu o requerimento de concessão de efeito suspensivo nos autos da Apelação interposta em face da sentença de Evento 61, acrescentada pela decisão em Evento 67, ambos dos autos originários, proferida pelo Juiz Federal Julio Emilio Abranches Mansur, da 14ª Vara Federal do Rio de Janeiro, que julgou improcedente a pretensão autoral em ação proposta em face da AGÊNCIA NACIONAL DE SAÚDE SUPLEMENTAR - ANS, almejando a anulação de multa administrativa de nº 59.124/15.
+ ..  Persistem imaculados e impassíveis os argumentos nos quais o entendimento foi firmado, subsistindo em si as mesmas razões expendidas na decisão agravada:
+"A concessão de efeito suspensivo ou a antecipação da pretensão recursal, conforme o caso, pressupõe a demonstração, por parte do recorrente, de dois requisitos, a saber: probabilidade de êxito recursal e risco de dano (art.1.012, § 4º, do Código de Processo Civil/2015).
+No caso em exame, todavia, não vislumbro a presença de todos os requisitos.
+Em uma análise perfunctória dos autos, que é a exigível no momento, verifico que o Juízo singular promoveu análise dos autos de forma diligente, dentro da razoabilidade jurídica ao afirmar que: "neste contexto e ante a comprovação documental de que a proposta fora assinada e adimplida pecuniariamente (Evento 24 - OUT25 p.12) verifica-se que restou adequadamente demonstrada a subsunção das normas ao caso, não se confirmando as alegações de inexistência de violação ao art. 13, parágrafo único, inciso II da Lei 9.656/98.
+(..) Destaque-se que a multa foi aplicada em atendimento as expressas normas previstas na Resolução nº 124/2006 considerando-se além da gravidade e da quantidade de pena prevista para as condutas descritas do art.18 ao 88, as circunstâncias agravantes (art. 7º) e atenuantes (art. 8º), fatores de compatibilização para os ilícitos que produzam efeitos de natureza coletiva (art. 9º) e critério de proporcionalidade, tomado como parâmetro o número de beneficiários da Operadora (art. 10) (Evento 24 - OUT25 p.37/38)."
+Além disso, destaco que compete ao Juiz natural de primeiro grau de jurisdição, diante do imediato contato com os elementos de convicção, decidir sobre medidas liminares cautelares e/ou antecipatórias.
+Ademais, conforme dispõe o art. 1.012, § 1º, V do CPC/15, começa a produzir efeitos imediatamente após a publicação a sentença que revoga a tutela provisória.
+Diante do exposto, INDEFIRO o requerido, nos termos da fundamentação supra.
+Destaco que os parâmetros para quantificação do valor da multa devem ser apreciados mediante critérios de conveniência e oportunidade da Administração, não cabendo ao Poder Judiciário substituir-se ao administrador público, mormente quando se tratar do controle exercido pelas Agências Reguladoras em setores específicos dos agentes fiscalizadores.
+É firme a orientação jurisprudencial do Superior Tribunal de Justiça acerca da impossibilidade de rever, em Recurso Especial, os fundamentos de existência ou não dos requisitos suficientes para a concessão de medida urgente, em virtude do óbice da Súmula 7/STJ. E, por não representar pronunciamento definitivo, mas provisório, a respeito do direito afirmado na demanda, sujeito a modificação a qualquer tempo, incide, por analogia, a Súmula 735/STF. Nesse sentido: AgInt no REsp 1.813.658/RS, Rel. Min. Og Fernandes, Segunda Turma, DJe 22.10.2020; e AgInt no REsp 1.755.457/RJ, Rel. Min.Herman Benjamin, Segunda Turma, DJe 14.10.2020.
+Ademais, verifico que condicionou-se o levantamento dos valores depositados judicialmente (evento 14) ao trânsito em julgado a sentença (fls. 377-383, e-STJ), se confirmada. Dessa forma, ausente o interesse de agir.
+Por todo o exposto, conheço do Agravo para não conhecer do Recurso Especial.
+Verifico que não há omissão alguma ou ausência de fundamentação na apreciação das questões suscitadas. Por intermédio da citação do julgado paradigma afirmou-se a impossibilidade de rever, nas medidas liminares cautelares e/ou antecipatórias, em Recurso Especial, os fundamentos de existência ou não dos requisitos suficientes para a concessão de medida urgente, em virtude do óbice das Súmulas 7/STJ e 735/STF. Assim não mereceu conhecimento o Recurso Especial.
+Esclareço que a ausência no interesse de agir constatada deu-se em obiter dictum, caso fosse possível ultrapassar o conhecimento do recurso.
+Ante o exposto, rejeito os Embargos de Declaração.
+Publique-se.
+Intimem-se.
