@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo manejado por Rondobel Serviços Florestais - EIRELI contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado do Pará, assim ementado (fl. 1.296):
+APELAÇÃO CÍVEL. DESISTÊNCIA DA AÇÃO. HONORÁRIOS DE SUCUMBÊNCIA. FIXAÇÃO. PARÂMETROS LEGAIS. VALOR DA CAUSA. INEXISTÊNCIA DE PROVEITO ECONÔMICO. RECURSO CONHECIDO, MAS DESPROVIDO.
+1. Adentrando ao mérito recursal, o apelante insurge-se quanto a sua condenação ao pagamento de honorários de sucumbência sobre o valor da causa, argumentando que tais honorários devem ser fixados com base no proveito econômico obtido por ele, uma vez que este como autor da ação acabou desistindo da mesma.
+2. Dessa forma, em atendimento aos critérios legais, deve-se utilizar como parâmetro o valor atualizado da causa, conforme o § 2º do artigo 85 acima transcrito.
+3. Apelação Cível conhecida, mas desprovida, à unanimidade.
+Opostos embargos declaratórios, foram rejeitados (fls. 1.329/1.337).
+Nas razões do recurso especial, a parte agravante aponta violação aoart. 85, § 2º, do CPC. Sustenta, em síntese, que: (I) "se não houve condenação, a base de cálculo para o arbitramento da verba honorária é o proveito econômico obtido pelo Recorrido, que no caso concreto, é o valor efetivamente pago pela Recorrente via PROREFIS, qual seja, sobre o valor de R$ 7.972,39 (sete mil, novecentos e setenta e dois reais e trinta e nove centavos)" e (II)os honorários advocatícios sucumbenciais devem ser fixados, em regra, com observância dos percentuais e na ordem de gradação da base de cálculo estabelecida na norma processual.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignaçãonão merece acolhida. Com efeito, a tese relativa àexistência de gradação legal na escolha da base de cálculo dos honorários sucumbenciaisnão foi apreciada pela instância judicante de origem, tampouco constou dos embargos declaratórios opostos para suprir eventual omissão. Portanto, ante a falta do necessário prequestionamento, incidem os óbices das Súmulas 282 e 356/STF. A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. LIQUIDAÇÃO INDIVIDUAL DE SENTENÇA COLETIVA CONTRA A FAZENDA PÚBLICA. PRESCRIÇÃO. NÃO OCORRÊNCIA. FIXAÇÃO DE HONORÁRIOS. FALTA DE PREQUESTIONAMENTO. AGRAVO INTERNO DESPROVIDO.
+1. A jurisprudência desta Corte Superior é firme na compreensão de que o prazo prescricional para o ingresso da liquidação ou cumprimento de sentença é de 5 (cinco) anos contados do trânsito em julgado da sentença condenatória. Precedentes.
+2. No tocante à tese recursal de que não seria cabível a fixação de honorários advocatícios na liquidação de sentença, a ausência de enfrentamento pelo Tribunal de origem da matéria impugnada, objeto do recurso excepcional, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento. Incidência, por analogia, das Súmulas 282 e 356 do STF.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.050.071/MG, relator Ministro Manoel Erhardt (Desembargador Convocado do Trf5), Primeira Turma, julgado em 15/8/2022, DJe de 17/8/2022.)
+ANTE O EXPOSTO, nego provimento ao agravo.Levando-se em conta o trabalho adicional realizado em grau recursal, impõe-se à parte recorrente o pagamento de honorários advocatícios equivalentes a 20% (vinte por cento) do valor a esse título já fixado no processo (art. 85, § 11, do CPC).
+Publique-se.
