@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo interno manejado por RANDEL MILLER DE ASSIS SANTOScontra decisão da Presidência do STJ, constante às e-STJ fls. 635/637, em que não foi conhecido o agravo em recurso especial.
+Em suas razões,sustenta, em síntese, ter impugnado especificamente a fundamentação adotada na decisão que inadmitiu o apelo nobre.
+Sem impugnação.
+Passo a decidir.
+Em face das razões trazidas no agravo interno, exerço o juízo de retratação.
+De outro lado, consigno que aquestão jurídica referente à aplicação da Lei n. 14.230/2021 - em especial, no tocante à necessidade da presença do elemento subjetivo dolo para a configuração do ato de improbidade administrativa e da aplicação dos novos prazos de prescrição geral e intercorrente - teve a repercussão geral reconhecida pelo Supremo Tribunal Federal (Tema 1199 do STF), tendo sido determinada, em 03/03/2022, a suspensão do processamento dos recursos especiais em que trazido, mesmo que, por simples petição, o assunto da aplicação retroativa do aludido diploma legal (ARE 843.989).
+O Plenário do Supremo Tribunal Federal, no dia 18/8/2022, apreciando o Tema 1.199 da repercussão geral, por unanimidade, fixou as seguintes teses:
+1) É necessária a comprovação de responsabilidade subjetiva para a tipificação dos atos de improbidade administrativa, exigindo-se - nos artigos 9º, 10 e 11 da LIA - a presença do elemento subjetivo - DOLO;
+2) A norma benéfica da Lei 14.230/2021 - revogação da modalidade culposa do ato de improbidade administrativa -, é IRRETROATIVA, em virtude do artigo 5º, inciso XXXVI, da Constituição Federal, não tendo incidência em relação à eficácia da coisa julgada; nem tampouco durante o processo de execução das penas e seus incidentes;
+3) A nova Lei 14.230/2021 aplica-se aos atos de improbidade administrativa culposos praticados na vigência do texto anterior da lei, porém sem condenação transitada em julgado, em virtude da revogação expressa do texto anterior; devendo o juízo competente analisar eventual dolo por parte do agente; e
+4) O novo regime prescricional previsto na Lei 14.230/2021 é IRRETROATIVO, aplicando-se os novos marcos temporais a partir da publicação da lei.
+Assim, nos termos dos arts. 1.039 e 1.040 do CPC/2015, os autos devem retornar à Corte de origem, para a realização do juízo de conformação com a decisão vinculativa proferida pelo STF.
+Somente depois de realizada essa providência, que representa o exaurimento da instância ordinária, é que o recurso especial (ou agravo em recurso especial), se for o caso, deverá ser encaminhado a este Órgão Superior, para que possam ser analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Ante o exposto, RECONSIDERO a decisão agravada de e-STJ fls. 635/637e DETERMINO A DEVOLUÇÃO DOS AUTOS ao Tribunal de origem, com a respectiva baixa, para que, em observância ao art. 1.040 do CPC/2015: a) negue seguimento ao recurso se a decisão recorrida coincidir com a orientação emanada pela Suprema Corte; ou b) proceda ao juízo de retratação na hipótese de o acórdão vergastado divergir da decisão sobre o tema posto em repercussão geral (Tema 1.199 do STF).
+Publique-se. Intimem-se.
