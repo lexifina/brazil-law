@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo em recurso especialinterposto em face de acórdão assim ementado (fls. 170/171, e-STJ):
+PROCESSUAL CIVIL. AGRAVO INTERNO OPOSTO CONTRA DECISÃO QUE NÃO CONHECEU A RECLAMAÇÃO CÍVEL. UTILIZAÇÃO OBJETIVANDO A ANÁLISE, NO CASO CONCRETO, DA APLICAÇÃO DE TESE FIRMADA EM RECURSO ESPECIAL REPETITIVO. NÃO CABIMENTO CONFORME ENTENDIMENTO FIXADO PELA CORTE ESPECIAL DO STJ NA RECLAMAÇÃO Nº 36.476/SP. ARGUMENTOS INSUFICIENTES PARA INFIRMAR A DECISÃO AGRAVADA QUE SE MANTÊM POR SEUS PRÓPRIOS FUNDAMENTOS. AGRAVO INTERNO CONHECIDO E IMPROVIDO.
+Nas razões do recurso especial, a parte ora agravante alega violação ao art. 3º, II, § 1º, II, da Lei 6.194/74, bem como aos enunciados 474 e 544 da Súmula do Superior Tribunal de Justiça.
+Sustenta, em síntese, que o valor da indenização pelo seguro obrigatório DPVAT deve guardar proporção com o grau de lesão do acidentado. Afirma que, no caso dos autos, a lesão foi parcial, de modo que a indenização não poderia ter sido fixada no grau máximo.
+Não foram apresentadas contrarrazões, conforme certidão de fl. 215, e-STJ.
+Assim delimitada a controvérsia, passo a decidir.
+A Súmula nº 568 desta Corte dispõe que "relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Anoto, de início, que, conforme enunciado nº 518 da Súmula deste Superior Tribunal de Justiça, "para fins da CF/88, art. 105, III, "a", da Constituição Federal, não é cabível recurso especial fundado em alegada violação de enunciado de súmula".
+No mais, registro que o recurso não merece provimento, por encontrar obstáculo nas Súmulas 283 e 284 do Supremo Tribunal Federal.
+Com efeito, o Tribunal de Justiça do Maranhão, por meio do acórdão recorrido, negou provimento ao agravo interno, mantendo-se a decisão monocrática de não conhecimento da reclamação cível, sob o argumento de não cabimento desse instrumento no caso dos autos.
+Em recurso especial, todavia, a parte ora recorrente aponta, tão somente, a violação ao art. 3º, II, § 1º, II, da Lei 6.194/74, discorrendo sobre a matéria de fundo do processo - a indenização do seguro obrigatório DPVAT. Assim, a subsistência de fundamento não atacado, apto a manter a conclusão do acórdão impugnado, e a apresentação de razões dissociadas desse fundamentoimpõe o reconhecimento da incidência das Súmulas 283 e 284 do STF, por analogia.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. PROCESSO CIVIL. AGRAVO DE INSTRUMENTO. DENUNCIAÇÃO À LIDE DA CONSTRUTORA. NÃO CONFIGURADA HIPÓTESE DE LITISCONSÓRCIO PASSIVO NECESSÁRIO. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. AGRAVO INTERNO DESPROVIDO.
+1. A falta de impugnação de argumento suficiente para manter, por si só, o acórdão impugnado, a argumentação dissociada bem como a ausência de demonstração da suposta violação à legislação federal impedem o conhecimento do recurso, na esteira dos enunciados n. 283 e 284 da Súmula do Supremo Tribunal Federal.
+2. O entendimento desta Corte Superior é de que, em se tratando de relação de consumo, descabe a denunciação da lide, nos termos do art. 88 do Código de Defesa do Consumidor.
+3. A jurisprudência do STJ se firmou no sentido de que "o Código de Processo Civil de 2015 não prevê a obrigatoriedade da denunciação da lide em nenhuma de suas hipóteses. Ao contrário, assegura o exercício do direito de regresso por ação autônoma quando indeferida, não promovida ou proibida (CPC/2015, art 125, caput, e § 1º) (AgInt no AREsp n. 1.962.768/RJ, Relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 14/12/2021, DJe 17/12/2021) 4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.026.035/RN, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 30/5/2022, DJe de 2/6/2022.)
+SERVIDOR PÚBLICO. EXECUÇÃO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. VIOLAÇÃO AO ART. 1.022 DO CPC. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. REAJUSTE DE 3,17%. COMPENSAÇÃO. POSSIBILIDADE. DESRESPEITO À COISA JULGADA. NÃO OCORRÊNCIA. AUSÊNCIA DE COMBATE A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO. RAZÕES RECURSAIS DISSOCIADAS. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DAS SÚMULAS N. 283 E 284/STF. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - A jurisprudência desta Corte considera que quando a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se, por analogia, o entendimento da Súmula n. 284, do Supremo Tribunal Federal.
+III - O acórdão recorrido adotou entendimento consolidado nesta Corte, segundo o qual a limitação à incidência do índice de 3,17%, advinda da Medida Provisória n. 2.225-45/01, não implica violação da coisa julgada.
+IV - A jurisprudência desta Corte considera deficiente a fundamentação quando a parte deixa de impugnar fundamento suficiente para manter o acórdão recorrido, apresentando razões recursais dissociadas dos fundamentos utilizados pela Corte de origem.
+Incidência, por analogia, das Súmulas n. 283 e 284/STF.
+V - Os Agravantes não apresentam, no agravo, argumentos suficientes para desconstituir a decisão recorrida.
+VI - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VII - Agravo Interno improvido.
+(AgInt no REsp n. 1.960.867/DF, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 30/5/2022, DJe de 2/6/2022.)
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
