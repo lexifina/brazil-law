@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de embargos de declaração (fls. 1.446-1.455 e-STJ) opostos por A S P (MENOR) em face da decisão acostada às fls. 1.431-1.437 e-STJ, da lavra deste signatário, que deu parcial provimento ao recurso especial da parte adversa, para cassar o acórdão e sentença.
+Nas razões dos aclaratórios (fls. 1.446-1.455 e-STJ), a parte embargante aduz a existência de omissão no decisum embargado, quanto ao fato de que não há mais razão para negativa de cobertura "dos tratamentos de terapias ABA prescritos à parte Autora, seja pela própria Nota Técnica da ANS n.º196/2017, seja pela RN nº 469/2021, sejam pelos conteúdos normativos bem determinados pela ANS na nova RN n.º539/2022 e no novo Comunicado n.º95/2022, ambos de 23/06/2022, seja pelo entendimento da 2ª Seção deste STJ - EREsp n. 1886929/SP e n. 1889704/SP, especialmente a fundamentação do voto vista do Excelentíssimo Ministro Villas Bôas Cueva" (fls. 1.453-1.454 e-STJ). Requer, ao final, o acolhimento dos embargos declaratórios.
+Impugnação às fls. 1.457-1.458 e-STJ.
+É o relatório.
+Decide-se.
+1. Inicialmente, ressalte-se que os embargos de declaração, conforme o disposto no artigo 1.022 do CPC/15, têm fundamentação vinculada às hipóteses legalmente previstas. Destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão ou, ainda, corrigir erro material. Não servem, no entanto, como meio de manifestação do inconformismo da parte com a decisão prolatada.
+Citam-se, a título exemplificativo, os seguintes julgados: EDcl no AgRg no Ag 1329960/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 04/10/2016, DJe 19/10/2016; EDcl no REsp 1597129/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 06/10/2016, DJe 17/10/2016; EDcl no AgRg na PET na Rcl 22.564/MS, Rel. Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 10/08/2016, DJe 18/08/2016.
+No caso em tela, a parte embargante sustenta a existência de omissão no decisum embargado, quanto ao fato de que não há mais razão para negativa de cobertura "dos tratamentos de terapias ABA prescritos à parte Autora, seja pela própria Nota Técnica da ANS n.º 196/2017, seja pela RN nº 469/2021, sejam pelos conteúdos normativos bem determinados pela ANS na nova RN n.º 539/2022 e no novo Comunicado n.º 95/2022, ambos de 23/06/2022, seja pelo entendimento da 2ª Seção deste STJ - EREsp n. 1886929/SP e n. 1889704/SP, especialmente a fundamentação do voto vista do Excelentíssimo Ministro Villas Bôas Cueva" (fls. 1.453-1.454 e-STJ).
+Razão não lhe assiste.
+A parte embargante manifesta mera inconformidade com o teor da decisão, não havendo falar em omissão, pois as teses recursais constantes do recurso especial foram devidamente tratadas.
+Observa-se, ainda, que o pedido inicial incluiu terapias outras além daquelas tratadas no recente precedente da Segunda Seção deste STJ.
+Além disso, conforme restou pontuado pela decisão embargada, eventual inclusão superveniente de procedimento ao rol da ANS, e os efeitos desta, poderão ser oportunamente apreciados pelo Juízo de origem, com o retorno do feito.
+Deste modo, não se vislumbra quaisquer dos vícios descritos do artigo 1.022 do CPC/15 na decisão hostilizada, cuidando-se o presente reclamo de mera irresignação da parte quanto à solução adotada, o que resta vedado na seara recursal em foco.
+2. Em que pese a rejeição dos aclaratórios, deixa-se de aplicar a multa prevista no artigo 1.026, § 2º, do CPC/15, pois, em se tratando da primeira oposição, não sobressai o caráter protelatório do recurso.
+No entanto, desde já, adverte-se que a reiteração dos embargos de declaração com o intuito de rediscutir o julgado poderá resultar na qualificação como protelatório, ensejando a aplicação da correspondente penalidade.
+3. Do exposto, rejeitam-se os embargos de declaração.
+Publique-se.
+Intimem-se.
