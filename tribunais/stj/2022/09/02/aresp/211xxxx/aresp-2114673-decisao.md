@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por DIVISA - EDITORA & ARTES GRÁFICAS LTDA. EPP e OUTROS contra decisão que negou seguimento ao recurso especial, fundado na alínea a do inciso III do art. 105 da Constituição Federal, em desafio a acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado (e-STJ, fl. 739):
+EMBARGOS DE DEVEDOR Execução lastreada em cédula de crédito bancário Título firmado com a intenção de novar as operações de crédito contratadas anteriormente entre as partes - Valor expressamente reconhecido como líquido certo e exigível Impossibilidade de discussão das relações anteriormente entabuladas Sentença reformada Recurso do banco provido. AÇÃO REVISIONAL Contrato de abertura de crédito (BB Giro Recebíveis) Operação que se pretende a revisão não juntada aos autos Declaração de ausência de tal título mantida Recurso dos autores não provido. TESES DEFENDIDAS PELOS AUTORES/EMBARGANTES NOS AUTOS DA AÇÃO REVISIONAL (EM RELAÇÃO À CÉDULA DE CRÉDITO BANCÁRIO) E NOS EMBARGOS DE DEVEDOR Aplicabilidade do Código de Defesa do Consumidor (Súmula 297 do C. STJ) - Observância, contudo, do contrato firmado entre as partes, de outros diplomas legais incidentes ao caso e do entendimento jurisprudencial uniformizado sobre o tema Juros remuneratórios - Inexistência de abusividade nas taxas ajustadas, por não haver expressiva disparidade entre elas e a taxa indicada pelos autores/embargantes como sendo a praticada pelo mercado à época da contratação Capitalização de juros em relação à cédula de crédito bancário Inocorrência, em sua acepção legal, quando da celebração do contrato Incidência, apenas, de método composto de formação da taxa de juros, calculada previamente ao início da relação contratual Procedimento que não se confunde com a capitalização de juros propriamente dita, tampouco é proibido pelo ordenamento jurídico vigente, de acordo com o entendimento do C. STJ, sedimentado na forma do art. 543-C do CPC de 1973 (REsp 973.827/RS) Ação revisional e embargos monitórios julgados improcedentes nesta oportunidade.
+Opostos embargos de declaração, esses foram rejeitados (e-STJ, fls. 757-760).
+Nas razões do especial (e-STJ, fls. 763-780), a parte recorrente sustentou violação aos seguintes dispositivos:
+a) art. 1022 do Código de Processo Civil de 2015, defendendo que a Corte de origem não sanou omissão e contradição supostamente perpetradas pelo acórdão embargado no tocante à ofensa ao art. 369 do CPC/15, ante o requerimento de produção de prova pericial, e sobre a violação ao art. 369 do CPC/15, mesmo diante da oposição dos embargos declaratórios, o que teria configurado negativa de prestação jurisdicional.
+b) arts. 396 e 369 do CPC/15, alegando a ocorrência de cerceamento de defesa ante o julgamento antecipado do mérito, notadamente pela impossibilidade de se produzir a prova pericial requerida e de não terem sido exibidos os documentos requeridos, mas posteriormente a ação ter sido extinta por falta de apresentação dos mesmos.
+Sem contrarrazões.
+Em sede de juízo provisório de admissibilidade, o Tribunal local negou seguimento ao recurso especial (fls. 786-788, e-STJ), o que ensejou o manejo do presente agravo (fls. 791-801, e-STJ), buscando destrancar o processamento daquela insurgência.
+Sem contraminuta.
+É o relatório.
+Decido.
+O inconformismo merece prosperar no que diz respeito à aventada negativade prestação jurisdicional.
+1. Quanto à ofensa ao artigo 1022 do Novo Código de Processo Civil, calcada no fato de o Tribunal de origem, não obstante a existência de omissão no acórdão, ter rejeitado os embargos de declaração, razão assiste à recorrente, conforme será exposto.
+Com efeito, a recorrente requereu, em sede de embargos de declaração, que a Corte de origem se pronunciasse sobre os seguintes argumentos:
+(i) violação ao art. 396 do CPC/15, posto que o juízo de origem asseverou que na fase de saneamento a questão dos instrumentos contratuais faltantes seria resolvida e, posteriormente, julgou antecipadamente a lide por falta de apresentação de documentos;
+(ii) violação ao art. 369 do CPC/15, ante a ausência de pronunciamento sobre a prova pericial requerida a fim de comprovar a abusividadedos juros.
+Contudo, da leitura do acórdão que julgou os embargos de declaração opostos pela ora recorrente, verifica-se que, de fato, tais questões suscitadas nos aclaratórios não foram devidamente analisadas pelo Tribunal de origem.
+Esta Corte tem entendimento no sentido de que deve ser acolhida a preliminar de ofensa ao artigo 1.022 do Novo Código de Processo Civil, quando houver deficiência na prestação jurisdicional realizada na origem, em razão de omissão a respeito de pontos relevantes para o deslinde do feito.
+Nesse sentido, confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DECLARATÓRIA - DECISÃO MONOCRÁTICA QUE RECONHECEU A NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INSURGÊNCIA RECURSAL DO AUTOR.
+1. Configurada a ocorrência de negativa de prestação jurisdicional, impõe-se o reconhecimento da ofensa ao artigo 489, §1º, IV, do CPC/2015, com anulação do acórdão proferido no julgamento dos embargos de declaração, determinando-se o retorno dos autos ao Tribunal de origem, para que sejam sanados os vícios apontados. Precedentes.
+2. Agravo interno desprovido.
+(AgInt no AREsp 1877486/TO, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 22/11/2021, DJe 24/11/2021)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE COBRANÇA - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO PARA DAR PARCIAL PROVIMENTO AO RECLAMO INTERPOSTO PELA PARTE ADVERSA QUANTO À NEGATIVA DE PRESTAÇÃO JURISDICIONAL.
+INSURGÊNCIA RECURSAL DA PARTE AUTORA.
+1. Embora o julgador não esteja obrigado a responder um a um dos argumentos sustentados pela parte postulante, ao fundamentar sua decisão, não deve se omitir acerca de pontos essenciais ao bom andamento do processo, sob pena de violar o art. 1022 do CPC/15.
+1.1. Na hipótese, tendo o Tribunal a quo deixado de analisar questão imprescindível ao deslinde da controvérsia, adequada a determinação de retorno dos autos para o saneamento da omissão.
+2. Agravo interno desprovido.
+(AgInt no AREsp 1111044/RJ, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 23/08/2018, DJe 03/09/2018)
+Desta forma, considerando que as referidas teses foram postas à apreciação do Tribunal a quo, sem que houvesse, contudo, quando do julgamento dos embargos declaratórios, pronunciamento judicial a respeito, devem ser devolvidos os autos ao Tribunal de origem a fim de que profira novo julgamento, sanando a omissão apontada.
+2. Do exposto, com fulcro no artigo 932 do NCPC c/c Súmula 568 do STJ, conheço do agravo e dou parcial provimento recurso especial para anular o acórdão que julgou os embargos de declaração (fls. 757-760, e-STJ) e determinar a devolução dos autos ao Tribunal de origem a fim de que profira novo julgamento, com enfrentamento do ponto tido por omisso.
+Julgo prejudicadas as demais questões ventiladas no recurso especial.
+Publique-se.
+Intimem-se.
