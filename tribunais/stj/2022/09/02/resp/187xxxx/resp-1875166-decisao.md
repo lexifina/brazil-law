@@ -1,0 +1,33 @@
+DECISÃO
+Lucas Alceu Ribeiro Lopes ajuizou ação declaratória de nulidade de negócio jurídico contra Wagner Antônio de Oliveira e Breno Teixeira de Melo visando à "declaração de nulidade do negócio jurídico realizado entre as partes, reconhecendo-se o vício de vontade, com a anulação/cancelamento da 11ª Alteração Contratual da Empresa FADEN Materiais e Serviços levada a registro na Jucemg, mantendo-se os Réus na sociedade em conformidade com a 10ª Alteração Contratual registrada". (e-STJ fls. 1-12). O juízo rejeitou o pedido. (e-STJ fls. 398-405).
+O autor interpôs apelação (e-STJ fls. 424-442) à qual a corte revisora negou provimento. (e-STJ fls. 530-531, 555-580). Os embargos de declaração opostos pelo autor (e-STJ fls. 588-604) foram rejeitados. (e-STJ fls. 608-609 e 611-619).
+Insatisfeito com esse desfecho, o autor interpôs recurso especial (CF, art. 105, III, a e c) sustentando, em resumo, a negativa de vigência de lei federal e a divergência jurisprudencial. (e-STJ fls. 630-652). Os recorridos não apresentaram contrarrazões. (e-STJ fl. 667).
+O recurso não foi admitido. (e-STJ fls. 668-672). O autor interpôs agravo requerendo o provimento respectivo para desde logo conhecer e dar provimento ao recurso especial, nos termos do pedido. (e-STJ fls. 676-679). Inicialmente, esta Relatora negou provimento ao agravo. (e-STJ fls. 707-712). O autor interpôs agravo interno. (e-STJ fls. 715-718). Em seguida, esta Relatora reconsiderou a decisão agravada internamente e deu provimento ao agravo para convertê-lo em recurso especial. (e-STJ fls. 731-732).
+É o relatório. Passo a decidir.
+I
+A. O Plenário desta Corte, "em sessão administrativa em que se interpretou o art. 1.045 do novo Código de Processo Civil, decidiu, por unanimidade, que o Código de Processo Civil aprovado pela Lei n. 13.105/2015, entrouem vigor no dia 18 de março de 2016." (STJ, Enunciado Administrativo Nº 1.)
+Ademais, igualmente decidiu o Plenário desta Corte:
+Enunciado administrativo n. 2
+Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça.
+Enunciado administrativo n. 3
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Em consequência, a lei regente do recurso é a que está em vigor na data da publicação da decisão recorrida.
+B. No presente caso, a sentença e o acórdão impugnado foram prolatados na vigência do CPC 2015, sendo essa codificação, portanto, a lei processual regente do presente recurso.
+II
+A. Nos termos do art. 487, III, a, do CPC 2015, " h averá resolução de mérito quando o juiz", dentre outros casos, "homologar:  ..  o reconhecimento da procedência do pedido formulado na ação ou na reconvenção".
+Na petição datada de 9 de agosto de 2017, subscrita pelos réus e por seu advogado, consta o seguinte:
+Os Réus confessam e concordam com os termos da presente ação, inclusive no tocante ao total desconhecimento do Autor com relação a existência de vários débitos em nome dos Réus e das Empresas vinculadas aos mesmos.
+Confessam que o autor Lucas Alceu Ribeiro Lopes, nunca exerceu a administração de fato da empresa - FADEN MATERIAIS E SERVIÇOS LTDA - EPP esta sediada na Avenida Presidente Tancredo Neves, nº 2284 - Bairro Paquetá - Belo Horizonte/MG, CEP: 31.330-472, com CNPJ sob o nº 25.472.879/0002-86, ficando a administração da mesma a cargo exclusivamente dos Réus Wagner e Breno.
+Os Réus concordam com a anulação do negócio jurídico com o cancelamento da última alteração contratual - 11ª Alteração Contratual da Empresa FADEN MATERIAIS E SERVIÇOS LTDA - EPP, p a ra que haja a exclusão do Autor do referido contrato social, voltando os Réus a figurarem como sócios da referida Empresa.
+Diante da existência de vários débitos em nome dos Réus o cancelamento da última alteração contratual - 11ª Alteração Contratual da Empresa FADEN MATERIAIS E SERVIÇOS LTDA EPP somente poderá ser efetivamente concluído através de ofício judicial, pelo que as partes concordam e suplicam pela expedição de ofício à JUCEMG - Junta Comercial do Estado de Minas Gerais para que seja procedido o cancelamento da citada alteração contratual.
+Com o cancelamento efetivo da última alteração contratual pretendida pelo Autor as partes darão quitação pelo objeto do pedido, pugnando pela extinção do feito, com resolução de mérito nos termos do art. 487, III, "b" do Código de Processo Civil.
+As partes cada uma arcarão com os honorários de seus advogados e as custas serão suportadas pelos Réus.(e-STJ fls. 395-397).
+Embora as partes aleguem tratar-se de transação (CPC 2015, art. 487, III, b), a afirmação dos réus de que "confessam e concordam com os termos da presente ação" equivale ao reconhecimento do pedido formulado pelo autor. CPC 2015, art. 487, III, a. Nesse sentido, em caso similar, esta Corte decidiu que " o  acordo celebrado quanto ao pagamento do reajuste de 28,86% representa, efetivamente, o reconhecimento do pedido pelo réu". (STJ, EDcl no REsp n. 223.522/PR, relator Ministro VICENTE LEAL, SEXTA TURMA, julgado em 16/12/1999, DJ de 21/2/2000, p. 212.)
+Assim sendo, é indubitável que os réus, ora recorridos, reconheceram a procedência do pedido. Havendo os réus, ora recorridos, reconhecido o pedido, impõe-se a homologação respectiva.
+B. Por outro lado, esta Corte decidiu que é possível a homologação do reconhecimento do pedido na via especial. Além disso, a homologação do reconhecimento do pedido acarreta a perda do interesse processual no julgamento do recurso especial, cujo exame fica, assim, prejudicado. Assim, e, " à  vista da homologação do reconhecimento do pedido postulado na exordial do presente mandamus, pela parte impetrada, acarretando a extinção do feito com resolução do mérito, com fundamento no art. 487, III, a, do Código de Processo Civil de 2015, resta prejudicada a análise dos aclaratórios." (STJ, EDcl no AgInt no REsp n. 1.620.600/SP, relatora Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 14/9/2021, DJe de 17/9/2021.)
+III
+Em face do exposto:
+A) homologo o reconhecimento do pedido procedido pelos réus e julgo extinto o processo, com resolução do mérito (CPC 2015, art. 487, III, a), a fim de acolher o pedido formulado na petição inicial em todos os seus termos;
+B) julgo prejudicado o exame do recurso especial;
+C) cada parte responderá pelos honorários de seus respectivos advogados e os réus responderão pelas custas processuais.
+Intimem-se.
