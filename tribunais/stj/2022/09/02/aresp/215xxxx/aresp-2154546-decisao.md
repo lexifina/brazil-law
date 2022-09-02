@@ -1,0 +1,39 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC/15) interposto por DINO BANI JUNIORem face da decisão que, em juízo prévio de admissibilidade, inadmitiu o recurso especial manejado pelo ora agravante.
+O apelo extremo, fundado nas alíneas "a" e "c" do permissivo constitucional, fora deduzido em desafio ao acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 24, e-STJ):
+AGRAVO DE INSTRUMENTO - Ação indenizatória - Cumprimento de sentença - Decisão agravada que homologou o laudo pericial contábil - Exequente que não logrou êxito em refutar as conclusões periciais - Decisão mantida - RECURSO DESPROVIDO.
+Nas razões de recurso especial (fls. 28-40e-STJ), alegou o insurgente que o acórdão recorrido violou osarts. 139, III, e 398 do CPC, sustentando, em suma, cerceamento de defesa ante a homologação de laudo pericial inconclusivo.
+Contrarrazões às fls. 56-58e-STJ.
+Em juízo prévio de admissibilidade, a Corte de origem inadmitiu o apelo nobre indicando insuficiência de fundamentação recursal e por aplicação da Súmula 7/STJ.
+Inconformado, interpôs o presente agravo (art. 1.042 do CPC/15), cuja minuta está acostada às fls. 67-71e-STJ, por meio do qual pretende ver admitido o recurso especial.
+Contraminuta às fls. 81-83,e-STJ.
+É o relatório.
+Decide-se.
+A pretensão recursal não merece prosperar.
+1. Cinge-se a controvérsia recursal quanto à violação aos arts.139, III, e 398 do CPC, sustenta a agravante a ocorrência de cerceamento de defesa ante a homologação de laudo pericial que considera inconclusivo.
+No particular, decidiu o Tribunal de piso:
+O agravante/exequente não concordou com o resultado da perícia técnica contábil cujos termos foram integralmente ratificados pelo perito judicial quando instado a prestar esclarecimentos(fls.1070/1097), sobrevindo a r. decisão agravada.
+Diversamente do sustentado pelo agravante/exequente, o laudo pericial não é confuso, tampouco inconclusivo.
+O perito judicial bem fundamentou os métodos utilizados para a apuração do valor devido pela executada, bem como elucidou todos os cálculos elaborados. Extrai-se das razões do inconformismo que o agravante/exequente pretende que o valor do faturamento da empresa executada utilizado para calcular a quantia a ele devida -, seja fixado nos termos apontados pelo laudo que apresentou antes de ter sido designada a perícia técnica contábil.
+Entretanto, esse valor, muito superior à quantia fixada na perícia judicial que ora se impugna, não pode ser utilizado como critério, pois diz respeito à empresa que não se confunde com a executada, partindo suas conclusões do "plano de negócios correspondente à proposta inicial para a instalação de uma representação comercial exclusiva no Território Nacional, da empresa AliBaba. com, com sede em Hangzhou, República Popular da China. Empresa estranha ao objeto da lide. Sendo que, para cálculo desses dados não foram juntados os Balanços Patrimoniais e DRE Demonstração de Resultado do Exercício e nenhum outro documento de natureza fisco-contábil da LUDATRADE capazes de demonstrar efetivamente os valores de fluxo de caixa apontados em seu trabalho."(fls.1007).
+Outrossim, o perito judicial esclareceu que utilizouo método de valor contábil para a apuração da quantia devida, destacando"anecessidade do ajuste no Balanço de Determinação elaborado pela perícia do valorcorrespondente à Avaliação Patrimonial apurada no cálculo pelo Método do Fluxo de Caixa Descontado (Quadros III e IV) encartados no laudo pericial de natureza contábil"., pelo que não se sustenta a alegação do agravante/exequente de que o métodode fluxo de caixa descontado não foi utilizado.
+Não bastasse, para a avaliação patrimonial observou o perito judicial o disposto na Consolidação do Contrato Social (artigo 8º) da empresa executada, destacando, novamente, a necessidade do ajuste no balanço de determinação do valor correspondente à avaliação patrimonial apurada no cálculo pelo método do fluxo de caixa (fls.1076).
+Não logrou êxito o agravante/exequente em refutaras conclusões periciais, pelo que a impugnação que apresentou ao laudo pericial não se sustenta, sendo de rigor a manutenção da r. decisão agravada.
+Contudo, o ora recorrente não se desimcubiu do ônus de impugnar os referidos fundamentos, como manda o princípio da dialeticidade, apenas cingindo-se a insistir nos argumentos veiculados em sede de agravo de instrumento, de sua vez dissociados dos fundamentos do acórdão recorrido, incidindo, na espécie, por analogia, as Súmula 283 e 284 do STF.
+Nesse interim, resta caracterizada a deficiência na fundamentação do apelo extremo no que tange à violação do dispositivo apontado, pois apresenta razões dissociadas do que foi decidido pelo acórdão recorrido, circunstância atrativa do óbice contido na Súmula 284 do STF.
+Nesse sentido, os seguintes precedentes:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. EMBARGOS À EXECUÇÃO. OFENSA A ARTIGO DE LEI FEDERAL NÃO DEMONSTRADOS. SÚMULA N. 284/STF. FALTA DE PERTINÊNCIA TEMÁTICA COM A TESE DO ESPECIAL. CERCEAMENTO DE DEFESA. TÍTULO EXECUTIVO. REQUISITOS. REVISÃO. INTERPRETAÇÃO DE CLÁUSULA CONTRATUAL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULAS N. 5 E 7 DO STJ. FUNDAMENTO DO ACÓRDÃO RECORRIDO. IMPUGNAÇÃO. AUSÊNCIA. SÚMULAS N. 283 E 284 DO STF. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. DECISÃO MANTIDA.
+ ..
+5. A subsistência de fundamento não refutado, apto a manter a conclusão do aresto impugnado, impõe o não conhecimento da pretensão recursal, a teor do entendimento consolidado nas Súmulas n. 283 e 284 do STF.
+ ..
+7. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.071.528/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 27/6/2022, DJe de 1/7/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM PEDIDO DE REINTEGRAÇÃO DE POSSE E INDENIZAÇÃO. PRECARIEDADE NA COMPROVAÇÃO DO INADIMPLEMENTO. AUSÊNCIA DE COMPROVAÇÃO DA CONSTITUIÇÃO DO DÉBITO. NEGÓCIO REALIZADO EM 1999, COM AS PRIMEIRAS PROVIDÊNCIAS PARA COBRANÇA REALIZADAS APENAS EM 2013. INCIDÊNCIA DA SUPRESSIO. FUNDAMENTOS NÃO ATACADOS. SÚMULAS 283 E 284 DO STF. CONCLUSÃO ACERCA DA APLICAÇÃO DA SUPRESSIO. SÚMULA 7 DO STJ. RECURSO NÃO PROVIDO.
+1. Ao examinar o feito, o Tribunal local concluiu que, diante da precariedade de provas da constituição do débito, do longo decurso de tempo entre o suposto inadimplemento e a tomada de providências para cobrança dos réus, ocasionaram a incidência da "supressio". Todavia, tais fundamentos autônomos e suficientes para a manutenção do acórdão recorrido não foram rebatidos pelo recorrente em seu apelo especial. Desse modo, verifica-se a falta de impugnação objetiva e direta ao fundamento central do acórdão recorrido, o que denota a deficiência da fundamentação recursal, a fazer incidir, no particular, as Súmulas 283 e 284 do STF.
+ ..
+(AgInt no AREsp 1500950/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 05/11/2019, DJe 12/11/2019)
+Inafastável, no ponto os óbices das Súmulas 283 e 284 do STF, por analogia.
+Ademais, mesmo que ultrapassados os referidos óbices, na hipótese, a Corte estadual entendeu que as provas dos autos, especificamente o laudo pericial, mostraram-se conclusivas a respeito dos fatos. Assim, para afastar esse entendimento seria necessário o revolvimento de fatos e provas, vedado pela Súmula 7/STJ.(AgInt no AREsp 1441961/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 20/08/2019, DJe 09/09/2019)(AgInt nos EDcl no AREsp 1569596/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 08/06/2020, DJe 12/06/2020)
+2. Do exposto, com amparo no artigo 932 do CPC/15 c/c a Súmula 568/STJ, nega-se provimento ao agravo em recurso especial.
+Publique-se.
+Intimem-se.
