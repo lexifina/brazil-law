@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo contra o juízo de admissibilidade que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+APELAÇÃO CÍVEL. EXECUÇÃODE TÍTULO EXTRAJUDICIAL. CONTRATOPARTICULAR SEM EFICÁCIA EXECUTIVA. AUSÊNCIA DE ASSINATURA DE DUASTESTEMUNHAS. EXTINÇÃODOFEITO. PEDIDODECONVERSÃOEM AÇÃOMONITORIA. SUPRESSÃO INSTÂNCIA.
+1. O contrato de mútuo realizado pela internet, ainda que certificado digitalmente, sem assinatura do contratante e de testemunhas, não possui força de título executivo extrajudicial, já que não se encontra revestido das formalidades exigidas nos artigos 783 e 784, inciso III, do Código de Processo Civil.
+2. Os pedidos não apreciados no juízo de origem não podem ser conhecidos por esta Corte, sob pena de supressão de instância. APELAÇÃO CÍVEL CONHECIDA EDESPROVIDA.
+A parte agravante sustenta que o acórdão estadual é omisso. Afirma que o documento que instrui a inicial da execução é título executivo judicial. Argumenta, subsidiariamente, ser possível a convolação da execução em monitória ou ação de cobrança, pois o pedido para tanto foi efetuado antes da citação do devedor.
+Quanto à alegada violação ao art. 1.022, II, do Código de Processo Civil, sem razão o recorrente, haja vista que enfrentadas fundamentadamente todas as questões levantadas pela parte, porém em sentido contrário ao pretendido, o que afasta a invocada declaração de nulidade.
+Relativamente à caracterização do documento como título executivo, a Corte de origem assim se pronunciou:
+Com efeito, a exigência de assinatura por duas pessoas estranhas ao contrato celebrado entre as partes, conforme previsto na legislação processual, tem por objetivo a declaração de veracidade do pacto, razão pela qual, não observada tal formalidade, não há que se atribuir força executiva ao referido documento. Nesse contexto, cumpre registrar que, inobstante a assinatura eletrônica do documento por meio da certificação digital, carece o título de ausência de confirmação da realização do negócio, com a assinatura de 02 (duas) testemunhas que atestem sua existência, o que enseja, de consequência, a extinção da presente execução, como bem decidiu o douto magistrado a quo.
+Com efeito, a parte agravante deixou de impugnar a necessidade da assinatura de duas testemunhas, motivo porque incide, quanto ao tema, a Súmula n. 283/STF. O dissídio jurisprudencial suscitado, no ponto, também não abrange essa questão, não havendo semelhança fática entre as hipóteses confrontadas.
+No que se refere à questão da conversão da execução em ação de conhecimento, o art. 278 não guarda pertinência com o tema suscitado - especificamente no tange ao pedido efetuado antes da efetiva citação do devedor - motivo porque incide a Súmula n. 284/STF.
+Além disso, o STJ consolidou entendimento em conformidade com o acórdão estadual, como se depreende do seguinte precedente:
+AGRAVO REGIMENTAL. DECISÃO EM RECURSO ESPECIAL. CONTRATO DE ABERTURA DE CRÉDITO EM CONTA-CORRENTE. EXECUÇÃO. AUSÊNCIA DE TÍTULO EXECUTIVO. CONVERSÃO EM AÇÃO MONITÓRIA. IMPOSSIBILIDADE. MATÉRIA DEFINIDA EM RECURSO REPETITIVO.
+1. "Para fins do art. 543-C, do Código de Processo Civil, é inadmissível a conversão, de ofício ou a requerimento das partes, da execução em ação monitória após ter ocorrido a citação, em razão da estabilização da relação processual a partir do referido ato;".
+Entendimento pacificado pela Segunda Seção, em sede de recurso repetitivo, com o julgamento do REsp 1.129.938/PE (2ª Seção, Rel. Ministro Massami Uyeda, unânime, DJe de 28.3.2012).
+2. Características como a executividade do título, que é requisito essencial para a possibilidade jurídica da execução, constituem matéria de direito, não de fato.
+3. Agravo regimental a que se nega provimento.
+(AgRg no REsp n. 1.235.799/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 25/11/2014, DJe de 10/12/2014.)
+Em face do exposto, nego provimento ao agravo. Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
