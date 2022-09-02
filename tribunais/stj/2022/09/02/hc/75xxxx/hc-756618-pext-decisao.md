@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de pedido de extensão formulado porSERGIO HENRIQUE QUEIROZ GALDINO, em que requer a extensão dos efeitos da decisão na qual concedi a ordem, de ofício,para reduzir as sanções iniciais ao mínimo legal e redimensionar a sanção final do paciente Gustavo Gracia Arguello para 8 anos de reclusão e pagamento de 1.200 dias-multa, bem como para fixar o regime semiaberto (e-STJ, fls. 1.259-1.273).
+Alega o requerente que, embora a pena final seja distinta por ser reincidente, as sanções iniciais dos crimes de tráfico de drogas e de associação para esse fim foram exasperadas com base nos mesmos elementos genéricos e próprios do tipo penal utilizados para elevar as penas iniciais de Gustavo.
+Requer, assim, a extensão dos efeitos da referida decisão, para reduzir as sanções iniciais dos crimes descritos nos arts. 33,caput, e 35,caput, da Lei n. 11.343/2006, nos termos do art. 580 do Código de Processo Penal.
+É o relatório.
+Decido.
+A teor do art. 580 do Código de Processo Penal, "no caso de concurso de agentes (Código Penal, art. 25), a decisão do recurso interposto por um dos réus, se fundado em motivos que não sejam de caráter exclusivamente pessoal, aproveitará aos outros".
+Na espécie, da leitura atenta do acórdão impugnado, observa-se que o requerente Sergio Henrique faz jus ao deferimento do pedido de extensão, pois, apesar de asanção final ser distinta da imposta ao corréu, visto que é reincidente, as sanções iniciais dos crimes de tráfico de drogas e de associação para esse fim foram indevidamente exasperadas com amparo em elementos genéricos e próprios do tipo penal, relacionados ao dolo intenso, aos danos à saúde pública e ao imensurável número de usuários que as substâncias poderiam atingir (e-STJ, fls. 39-40).
+Passo à dosimetria penal.
+-Do crime de tráfico de entorpecentes (art. 33,caput, da Lei n. 11.343/2006):
+Fixo a pena-base em 5 anos de reclusão e pagamento de 500 dias-multa, por serem favoráveis as circunstâncias judicias, nos termos dos arts. 59 do Código Penal e 42 da Lei n. 11.343/2006. Na segunda etapa, compensada parcialmente a agravante de reincidência com a atenuante de confissão espontânea, a sanção foi elevada em 1/12, resultando em 5 anos e 5 meses de reclusão e pagamento de 524 dias-multa, a qual permanece inalterada na última fase, diante da ausência de causas de aumento ou de diminuição de pena.
+-Do crime de associação para o tráfico de entorpecentes (art. 35,caput, da Lei n. 11.343/2006):
+Fixo a pena-base em 3 anos de reclusão e pagamento de 700 dias-multa, por serem favoráveis as circunstâncias judicias, nos termos dos arts. 59 do Código Penal e 42 da Lei n. 11.343/2006. Na segunda etapa, compensada parcialmente a agravante de reincidência com a atenuante de confissão espontânea, a sanção foi elevada em 1/12, resultando em 3 anos e 3meses de reclusão e pagamento de 758 dias-multa, a qual permanece inalterada na última fase, diante da ausência de causas de aumento ou de diminuição de pena.
+Reconhecido o concurso material entre os referidos delitos, nos termos do art. 69 do Código de Processo Penal, torno a pena definitiva em 8 anos e 8 meses de reclusão e pagamento de 1.282 dias-multa.
+Estabelecia a sanção em patamar superior a 8 anos de reclusão, fica mantido o modo prisional fechado, nos termos do art. 33, § 2º, "a", do Código Penal.
+Ante o exposto, defiroo pedido de extensãoem favor deSERGIO HENRIQUE QUEIROZ GALDINO,para redimensionar a sanção final para 8 anos e 8 meses de reclusão e pagamento de 1.282 dias-multa, mantido o regime fechado.
+Publique-se. Intimem-se.
