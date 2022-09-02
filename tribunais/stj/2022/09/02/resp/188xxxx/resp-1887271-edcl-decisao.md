@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de embargos declaratórios opostos contra a decisão de e-STJ fls. 298/304, na qual não se conheceudo recurso especial.
+Nesta oportunidade, a combativa defesa alega que não foi enfrentada a tese de aplicação equivocada da Súmula n. 192/STJ pelo acórdão proferido pelo Tribunal Regional Federal da 4ª Região.
+Requer o recebimento dos embargos com efeitos infringentes.
+É o relatório.
+Decido.
+Os embargos de declaração, nos termos do art. 619 do Código de Processo Penal, supõem defeitos na mensagem do julgado, em termos de ambiguidade, omissão, contradição ou obscuridade, isolada ou cumulativamente.
+Essa é a vocação legal do recurso, sempre enfatizada nos precedentes desta Corte, como se depreende do aresto a seguir:
+PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO.  ..  ART. 619 DO CPP. AMBIGUIDADE, OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. AUSÊNCIA.
+1. Os embargos de declaração são cabíveis nas hipóteses de haver ambiguidade, obscuridade, contradição e/ou omissão no acórdão prolatado (artigo 619 do Código de Processo Penal).
+2. No caso, percebe-se claramente a oposição do recurso tão somente para rediscutir o mérito do que fora decidido. Sob o pretexto da alegação de omissão ou inexatidão, pretende o embargante apenas renovar a discussão com os mesmos argumentos com os quais a Corte Especial do Superior Tribunal de Justiça não concordou.
+ ..
+7. Embargos de declaração rejeitados.
+(EDcl na APn n. 613/SP, relator Ministro OG FERNANDES, CORTE ESPECIAL, DJe 3/2/2016.)
+No caso em tela, não se faz presente nenhum dos citados defeitos, sendo o presente recurso uma mera tentativa de se rediscutir a tese de mérito, o que não se admite na presente via.
+Com efeito, consta dodecisumembargado que o Juízo estadual invadiu competência da Justiça Federal ao conceder indulto à pena de multa, sobretudo quando considerado que, conforme consta do aresto combatido, "o juiz federal prosseguiu com a execução penal na justiça federal, intimando o réu para pagamento das custas e da multa penal"(e-STJ fl. 89).
+Destaco o seguinte trecho do acórdão recorrido (e-STJ fls. 76/89):
+A decisão recorrida se encontra assim conformada:
+(..).
+Não obstante, a declinação da competência ao Juízo Estadual restringe-se à execução da pena privativa de liberdade, permanecendo a cargo deste Juízo Federal a competência para a execução da pena de multa. Tanto assim que, posteriormente à expedição e encaminhamento da guia de execução provisória, solicitou este Juízo o cálculo dos valores devidos a título de multa e custas processuais e procedeu à intimação do executado para pagamento do montante devido, expedindo-se os modelos das respectivas guias (eventos47, 55, 56 e 61).
+Gize-se que a incompetência do Juízo Estadual da Vara de Execuções Penais em relação à pena de multa imposta cumulativamente com pena privativa de liberdade guarda consonância com a orientação do Conselho Nacional de Justiça e com a Consolidação Normativa da Justiça Federal da 4ª Região.
+(..).
+Frise-se que, no tocante à pena de multa, em momento algum, foi submetida à apreciação do Juízo Estadual.
+Em seu Plano de Gestão das Varas Criminais e de Execução Penal e no Manual Prático de Rotinas das Varas Criminais e de Execução Penal, o Conselho Nacional de Justiça, em vista da alteração promovida pela Lei nº9.268/96 no Código Penal, que passou a conferir à multa penal a natureza de dívida de valor, teceu orientação para que o juízo do processo de conhecimento, após o trânsito em julgado da sentença condenatória, providenciasse a intimação do condenado para o pagamento da multa e, não se verificando a satisfação do débito, expedisse certidão da multa, para posterior remessa à Fazenda Pública.
+O fato de o réu já estar cumprindo pena pelo delito da Lei 7492/86 -cuja sanção corporal foi objeto do indulto pelo juízo estadual - quando sobreveio notícia de nova condenação proferida na Ação Penal nº 5048276-57.2012.4.04.7000, pelo Juízo da 14ª Vara Federal de Curitiba/PR, por infração ao disposto no artigo 1º, inciso I, da Lei nº 8.137/90, não altera os procedimentos a serem adotados pelo juízo da condenação e pelo juízo da execução penal no âmbito federal, apenas torna desnecessária a expedição do mandado de prisão.
+Assim, em caso de réu que já está preso para cumprimento de pena em estabelecimento administrado pelo Estado da Federação, devem ser tomadas as providências de protocolo e distribuição pelo juízo da condenação do processo de execução penal dirigido ao juízo federal competente ou envio de cópias a juízo federal prevento, se já houver processo de execução penal na Justiça Federal da 4ª Região; de expedição da guia de recolhimento pelo juízo da execução penal destinada à autoridade competente para a execução da pena privativa de liberdade (ou, em caso de eventual declinação antecipada pelo juízo da condenação, a confirmação, junto ao juízo estadual de execução penal, sobre se a ficha individual remetida pelo juízo da condenação fora recebida como guia de recolhimento); de intimação do condenado pelo juízo da execução penal para o pagamento das custas processuais e da multa. Observo que nada disso sofre modificação por conta da declinação da competência para a Justiça Estadual baseada na Súmula nº 192 do Superior Tribunal de Justiça (..).
+Destaco, ainda, que mesmo após declinar da competência para a execução da pena privativa de liberdade, o juiz federal prosseguiu com a execução penal na justiça federal, intimando o réu para pagamento das custa se da multa penal.
+Não há o alegado descumprimento da Súmula n. 192/STJ, tendo em vista que, desde o trânsito em julgado da sentença condenatória, excetuou-se a pena de multaao deprecar ao Juízo estadual a execução da pena, tendo em vista que os procedimentos para suacobrança já haviam sido encaminhados.
+Curioso, diga-se de passagem, que airresignaçãoora apresentada pela defesa não tenha surgido após o trânsito em julgado da condenação, no momento em que cindidasa execução da pena privativa de liberdade e da pena de multa em juízos distintos. Ora, na ocasião, o recorrente permaneceu silente quando intimado, pelo Juízo federal,para recolhimento da multa penal,não invocou a interpretação da Súmula n. 192/STJ, que agora pretende emplacar com vias de fazer prevalecer decisão exarada por juízo incompetente.
+Dessa forma, acolher a tese da defesa implica em usurpar do Ministério Público Federal e da União a legitimidade para executar e cobrara pena de multa imposta pelo Juízo federal. Tanto que a jurisprudência desta Corte Superior é uníssona no sentido de que, uma vez convertida a pena de multa em dívida de valor, não há jurisdição do Juízo da execução para fins de indulto e tal entendimento não viola o teor da Súmula n. 192/STJ.
+Nesse sentido:
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PENA DE MULTA. NATUREZA JURÍDICA. DÍVIDA DE VALOR. COMPETÊNCIA. JUÍZO DA EXECUÇÃO FISCAL. RECURSO DESPROVIDO.
+1. Conforme o entendimento da Terceira Seção desta Corte, a pena pecuniária é considerada dívida de valor e, assim, possui caráter extrapenal, de modo que sua execução é de competência exclusiva da Procuradoria da Fazenda Pública.
+2. Não cabe ao Juízo das execuções penais decidir acerca do eventual indulto da pena de multa convertida em dívida de valor, pois, independentemente da origem penal da sanção, transmudou-se esta em obrigação de natureza fiscal, motivo pelo qual sua execução passou a ser da competência exclusiva da autoridade fiscal.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 441.809/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 30/5/2019, DJe de 4/6/2019.)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO PENAL. INDULTO. PENA DE MULTA. APRECIAÇÃO. COMPETÊNCIA. JUÍZO DA EXECUÇÃO FISCAL. AGRAVO REGIMENTAL DESPROVIDO.
+1. A decisão agravada está em sintonia com o entendimento do Superior Tribunal de Justiça, no sentido de não competir ao Juízo da Execução Penal, mas ao Juízo da Execução Fiscal, a apreciação do pedido de indulto em relação à pena de multa convertida em dívida de valor.
+2. Agravo regimental desprovido.
+(AgInt no REsp n. 1.753.653/SC, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 12/3/2019, DJe de 29/3/2019.)
+Ademais, dos trechos acima colacionados, verifica-se que os fundamentos em destaque, sobretudo o fato de o apenado ter sido intimado pelo Juízo federal para recolhimento da multa, suficientes à manutenção do acórdão recorrido, não foram impugnados, de forma específica, nas razões recursais, sendo forçoso o reconhecimento do óbice da Súmula n. 283 do Supremo Tribunal Federal.
+A propósito:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. OFENSA AO ART. 370, § 1º, DO CPP. (I) - ACÓRDÃO ASSENTADO EM MAIS DE UM FUNDAMENTO SUFICIENTE. RECURSO QUE NÃO ABRANGE TODOS ELES. SÚMULA 283/STF. (II) - AUSÊNCIA DE DEMONSTRAÇÃO DE PREJUÍZO. PAS DE NULLITÉ SANS GRIEF. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Verificando-se que o v. acórdão recorrido assentou seu entendimento em mais de um fundamento suficiente para manter o julgado, enquanto o recurso especial não abrangeu todos eles, aplica-se, na espécie, o enunciado 283 da Súmula do STF.
+ ..
+3. Agravo regimental a que se nega provimento.(AgRg no REsp 1.597.699/SC, relatora Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 1º/9/2016, DJe 12/9/2016.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROGRESSÃO DE REGIME. NULIDADE DA DECISÃO DO JUÍZO DAS EXECUÇÕES. FUNDAMENTO DO ACÓRDÃO RECORRIDO NÃO ATACADO. SÚMULA N. 283 DO STJ. NOVO EXAME DO APENADO POR MÉDICO PARTICULAR. SÚMULA N. 7 DO STJ. RECURSO NÃO PROVIDO.
+1. A falta de impugnação a fundamento do acórdão recorrido, suficiente para a manutenção do decisum, justifica a aplicação da Súmula n. 283 do STJ.
+2. Para afastar a conclusão motivada do acórdão estadual - desnecessidade de realização de novo exame criminológico por médico particular para fins de progressão de regime, porquanto o apenado não registra intercorrência em seu histórico carcerário e os "exames psicossociais realizados intramuros" são favoráveis a ele -, seria necessário o reexame de elementos fáticos e probatórios dos autos, providência inadmissível na via do recurso especial. Súmula n. 7 do STJ.
+3. Agravo regimental não provido.(AgRg no AREsp 903.700/MT, relator Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 2/8/2016, DJe 16/8/2016.)
+Ante o exposto, rejeito os embargos declaratórios.
+Publique-se. Intimem-se.
