@@ -1,0 +1,13 @@
+DECISÃO
+RUI SIMAO DA SILVA FILHO alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação n.1002464-28.2019.8.26.0288.
+A defesa aduz constrangimento ilegal em razão da omissão na análise de nova prova trazida pelo paciente em apelo, que demonstraria a inocorrência do delito de corrupção passiva. Requer a consequente anulação do julgamento realizado pelo Tribunal estadual.
+O parecer do MPF é pelo não conhecimento do habeas corpus (fls. 471-477).
+Decido.
+Infere-se dos autos que o paciente foi condenado pela prática dos crimes previstos nos arts. 2º, § 4º, II, da Lei n. 12.850/2013 e 317, caput, na forma do art. 69, ambos do CP, à pena de 7 anos, 10 meses e 4 dias de reclusão e 29 dias-multa.
+O TJSP deu parcial provimento ao recurso do apelante para redimensionou suareprimendapara 6 anos e 4 meses de reclusão, em regime inicial semiaberto e 23 dias-multa.
+Em consulta aos autos principais (Apelação n. 1002464-28.2019.8.26.0288) e de acordo com as informações prestadas, verifica-se que, concomitantemente à presente impetração, foram "ajuizados recursos especial e extraordinário em favor do ora paciente e recurso especial pelo Ministério Público, estão eles em processamento" (fl. 291, grifei).
+A esse respeito, urge salientar que o Superior Tribunal de Justiça, na esteira do que vem decidindo o Supremo Tribunal Federal, salienta que " a  existência de um complexo sistema recursal no processo penal brasileiro permite à parte prejudicada por decisão judicial submeter ao órgão colegiado competente a revisão do ato jurisdicional, na forma e no prazo previsto em lei. Eventual manejo de habeas corpus, ação constitucional voltada à proteção da liberdade humana, constitui estratégia defensiva válida, sopesadas as vantagens e também os ônus de tal opção" (HC n. 482.549/SP, Rel. Ministro Rogerio Schietti, 3ª S., DJe 3/4/2020, grifei).
+Ademais, o entendimento consolidado desta Corte Superior é que"a interposição do recurso cabível contra o ato impugnado e a contemporânea impetração de habeas corpus para igual pretensão somente permitirá o exame do writ se for este destinado à tutela direta da liberdade de locomoção ou se traduzir pedido diverso em relação ao que é objeto do recurso próprio e que reflita mediatamente na liberdade do paciente" (Ibidem), o que não é a hipótese dos autos.
+Ainda que assim não fosse, busca o paciente, em última análise, a absolvição do delito de corrupção passiva, diante do surgimento de nova prova, o que demandaria a ampla dilação probatória, incompatível com a via estreita do habeas corpus.
+À vista do exposto, não conheço do writ.
+Publique-se e intimem-se.
