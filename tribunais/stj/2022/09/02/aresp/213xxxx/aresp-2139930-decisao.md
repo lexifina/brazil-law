@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial interposto em face de acórdão com a seguinte ementa:
+APELAÇÃO CÍVEL - EXECUÇÃO DE TÍTULO EXECUTIVO EXTRAJUDICIAL - PRESCRIÇÃO INTERCORRENTE - OCORRÊNCIA - EXTINÇÃO DO PROCESSO.
+- Tratando-se de dívida líquida, nos termos do artigo 206, § 5º, I, do CC/2002, o prazo de prescrição é de cinco anos. Ocorre a prescrição intercorrente no mesmo prazo que para os títulos de crédito.
+Alegou-se, no especial, violação dos artigos 1.022, 85 e 921 do Código de Processo Civil sob o argumento de que o acórdão local é omisso, que não corre a prescrição durante a suspensão do processo e que a hipótese de prescrição intercorrente não enseja a condenação do credor em honorários advocatícios.
+Assim delimitada a controvérsia, passo a decidir.
+De início, o Tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+Não há falar, portanto, em omissão ou negativa de prestação jurisdicional apenas pelo fato de o acórdão recorrido ter decidido em sentido contrário à pretensão da parte.
+Sobre o tema, os seguintes precedentes: AgRg no REsp 965.541/RS, Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 17/5/2011, DJe 24/5/2011, e AgRg no Ag 1.160.319/MG, Desembargador Convocado Vasco Della Giustina, Terceira Turma, julgado em 26/4/2011, DJe 6/5/2011.
+Quanto à prescrição, esta Corte tem entendimento de que, transcorrido um ano da suspensão do processo, começa o curso da prescrição intercorrente.
+Colhe-se do acórdão estadual, pelo voto da Desembargadora 1ª vogal, "que a ação de execução foi ajuizada em 2004, não havendo citação dos devedores até o ano de 2016" (e-STJ, fl. 387).
+No que toca, de outro lado, sobre os honorários advocatícios, não é mesmo do credor o ônus de arcar com eles, porque quem deu causa à execução foi o devedor, com sua inadimplência.
+Sobre ambas as teses, leia-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. DECISÃO DE ADMISSIBILIDADE DO RECURSO ESPECIAL. FUNDAMENTOS IMPUGNADOS. RECONSIDERAÇÃO. ACORDO NA ORIGEM. TRANSAÇÃO SOBRE HONORÁRIOS DE TITULARIDADE DO ADVOGADO DA PARTE EXECUTADA. EXECUÇÃO. PRESCRIÇÃO INTERCORRENTE NA VIGÊNCIA DO CPC/1973. PARALISAÇÃO DO PROCESSO POR TEMPO SUPERIOR AO PRAZO PRESCRICIONAL DA PRETENSÃO DE DIREITO MATERIAL. OCORRÊNCIA. IAC N. 1. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. RESISTÊNCIA À PRETENSÃO DE EXTINÇÃO. SUCUMBÊNCIA DA PARTE EXEQUENTE. PRECEDENTES. AGRAVO INTERNO PROVIDO. AGRAVO EM RECURSO ESPECIAL CONHECIDO. RECURSO ESPECIAL DESPROVIDO.
+1. Em virtude da impugnação dos fundamentos da decisão de inadmissibilidade do recurso especial, o agravo interno merece provimento.
+2. Conforme entendimento da Segunda Seção do STJ, consolidado no IAC 1, "incide a prescrição intercorrente, nas causas regidas pelo CPC/73, quando o exequente permanece inerte por prazo superior ao de prescrição do direito material vindicado, conforme interpretação extraída do art. 202, parágrafo único, do Código Civil de 2002". E, ainda, "o termo inicial do prazo prescricional, na vigência do CPC/1973, conta-se do fim do prazo judicial de suspensão do processo ou, inexistindo prazo fixado, do transcurso de um ano (aplicação analógica do art. 40, § 2º, da Lei 6.830/1980)".
+3. Embora, em regra, na extinção da execução pelo reconhecimento da prescrição intercorrente, a causalidade imponha ao executado arcar com as despesas e os honorários advocatícios sucumbenciais, na hipótese de resistência à pretensão, a efetiva sucumbência da parte exequente implicará sua condenação ao pagamento das verbas sucumbenciais. Precedentes. Caso concreto de manutenção da condenação da parte executada ao pagamento de honorários advocatícios, em decorrência da non reformatio in pejus.
+4. Agravo interno provido para reconsiderar a decisão agravada e, em nova análise, conhecer do agravo do art. 1.042 do CPC/2015 para negar provimento ao recurso especial.
+(AgInt no AREsp n. 2.023.731/PR, relator Ministro Raul Araújo, Quarta Turma, julgado em 20/6/2022, DJe de 1/7/2022.)
+Diante do exposto, conheço do agravo e dou parcial provimento ao recurso especial apenas para afastar a sucumbência imposta à recorrente.
+Intimem-se.
