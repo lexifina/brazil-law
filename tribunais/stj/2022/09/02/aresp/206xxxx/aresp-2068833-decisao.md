@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial sob os seguintes fundamentos: (a) ausência de ofensa aos artigos de lei apontados e (b) aplicação das Súmulas n. 5 e 7 do STJ (e-STJ fls. 298/303).
+O acórdão do Tribunal de origem está assim ementado (e-STJ fl. 225):
+APELAÇÃO CÍVEL Responsabilidadecivil - Anatocismo - Inaplicável àsinstituições financeiras o Decreto de1922, e que, por força do da MP2.170, passou a ser licita a cobrançade juros capitalizados comperiodicidade inferior a um ano.Necessidade de prova técnicacontábil a comprovar outrasirregularidades - Ônus da prova querecai sobre o autor, a teor do artigo373, I do CPC. Mera alegação  improcedência dos pedidos ante aausência de prova do anatocismo-
+Valores e taxas devidamenteinformadas ao autor, e pactuadaslivremente PROVIMENTO DORECURSO DEFENSIVO.
+Os embargos de declaração foram rejeitados (e-STJ fls. 251/256).
+Nas razões do recurso especial (e-STJ fls. 259/268), fundamentado no art. 105, III, "a", da CF, o recorrente apontou violação:
+(a) doart. 1.022, II, do CPC/2015, afirmando que, apesar dos aclaratórios, a Corte de origem não teria se manifestado quanto àtese deofensa aos arts. 39, V, 42, parágrafo único, 51, IV, do CDC e 876 e 877 do CC/2002, e
+(b) dosarts. 39, V, 42, parágrafo único, 51, IV, do CDC e 876 e 877 do CC/2002, visto quea capitalização de juros exigida no contrato de adesão deveria ser considerada abusiva por estar acima da média de mercado, não tendo a recorridacomprovado que as taxas praticadas seriam válidas, motivo por que seria devido considerar nula a cláusula que asestabeleceu.
+Aduziuainda que "énotório o caráter abusivo das cláusulas contratuais que estabelecem cobranças excessivas, que são nulas de pleno direito em razão da violação ao princípio da boa-fé objetiva, norteador de todas as relações de consumo, que devem ser pautadas pelos padrões éticos da confiança e da lealdade, devendo os valores referentes a essas cobranças serem devolvidos em dobro, conforme estabelecido na r. sentença" (e-STJ fl. 268).
+Foram ofertadas contrarrazões (e-STJ fls. 282/296).
+No agravo (e-STJ fls. 313/324), afirma a presença de todos os requisitos de admissibilidade do especial.
+Foi apresentada contraminuta (e-STJ fls. 328/334).
+É o relatório.
+Decido.
+Não há falar em contrariedade aoart. 1.022 do CPC/2015, pois o Tribunal de origem pronunciou-se, de forma clara e suficiente, sobre as questões suscitadas nos autosao assentar que o recorrente não se desincumbiu do ônus de provar o anatocismo apontado no contrato.
+Não há negativa de prestação jurisdicional quando os fundamentos utilizados tenham sido suficientes para embasar a decisão, ainda que em sentido diverso do sustentado pela parte, como de fato ocorreu.
+A Justiça de origem não analisou a tese de que os juros exigidos seriam abusivos,porque reconheceu que o recorrente, a quem incumbia, nos termos do art. 373, I, do CPC/2015,o dever de provar o anatocismo e a indução aerro na celebração da avença, conforme afirmado, sequer pleiteoua produção de provas técnicae oralnecessárias para tanto, segundo se extrai do seguinte excerto (e-STJ fl. 228):
+De imediato, cumpre salientar que naaudiência designada, em sua petição inicial, o autorrequer, tão somente, a produção de provadocumental, não havendo, em momento algum,requerimento de prova pericial contábil, única provaapta a indicar o anatocismo reclamado.
+Com efeito, toda a controvérsia dos autossitua-se em se saber se a autora foi induzida em errosobre as transações e se nestas havia anatocismo.
+Pela desídia das partes, as provasnecessárias a comprovar tais alegações não foramrealizadas. Para comprovar a indução em erro, eranecessária prova oral. E para o anatocismo,realização de prova pericial.
+E tal prova não foi produzida nos autos.
+A respeito de tais razões de decidir, suficientes para manter o acórdão recorrido, o recorrente não se manifestou, o que atrai a aplicação da Súmula n. 283/STF, por analogia, como óbice ao recurso.
+A Justiça local não se manifestou quanto àstesesde ofensa aos arts.39, V, 42, parágrafo único, 51, IV, do CDC e 876 e 877 do CC/2002pelo enfoque apresentado pelo recorrente.Dessa forma, sem terem sido objeto de debate na decisão recorrida, a despeito dos aclaratórios opostos, as matérias carecem de prequestionamento e sofrem, por conseguinte, o empecilho da Súmula n. 211/STJ.
+Ressalte-se que, segundo a jurisprudência desta Corte Superior, "não há contradição em afastar a violação do art. 1.022 do CPC/2015 e, ao mesmo tempo, não conhecer do mérito da demanda por ausência de prequestionamento, desde que o acórdão recorrido esteja suficientemente fundamentado" (AgInt no AREsp n. 1.251.735/MS, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 7/6/2018, DJe 14/6/2018).
+Nas razões recursais, a parte recorrente não indicou a legislação federal objeto de afronta pela Corte de origem ou a respeito da qual haveria dissídio jurisprudencial ao argumentar que "é notório o caráter abusivo das cláusulas contratuais que estabelecem cobranças excessivas, que são nulas de pleno direito em razão da violação ao princípio da boa-fé objetiva, norteador de todas as relações de consumo, que devem ser pautadas pelos padrões éticos da confiança e da lealdade, devendo os valores referentes a essas cobranças serem devolvidos em dobro, conforme estabelecido na r. sentença" (e-STJ fl. 268).
+Ausente citada providência, a fundamentação recursal mostra-se deficiente e atrai a aplicação, por analogia, da Súmula n. 284/STF como óbice ao recurso.A propósito: "No recurso interposto pela alínea "a" do permissivo constitucional é imprescindível a individualização do artigo de lei federal tido por violado, sem o que incide, por analogia, a Súmula 284 do STF" (AgInt no AREsp n. 623.110/GO, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 26/9/2017, DJe 2/10/2017).
+Orecorrente citou de passagem os arts. 42, parágrafo único, 51, IV, do CDC e 876 e 877 do CC/2002.Contudo, a ausência de indicação clara e precisa do modo pelo qual o aresto impugnado teria afrontado ou negado vigência a tais dispositivos torna a fundamentação recursal deficitária, justificandoa aplicação analógica da Súmula n. 284/STF como óbice ao recurso no ponto.Nesse contexto:
+RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. RECURSO DE APELAÇÃO.EFEITO DEVOLUTIVO AMPLO. AUSÊNCIA DE OFENSA AOS ARTS. 515 E 535 DO CPC. ALEGAÇÃO DE OFENSA A DISPOSITIVOS CONSTITUCIONAIS. INADEQUAÇÃO DA VIA ELEITA. VIOLAÇÃO AO ART. 159 DO CC DE 1916. MERA INDICAÇÃO.SÚMULA 284/STF. VEDADA A REAPRECIAÇÃO DE PROVAS NESSA INSTÂNCIA.SÚMULA 07/STJ. DIVERGÊNCIA NÃO COMPROVADA. RECURSO ESPECIAL NÃO CONHECIDO.
+ ..  4. A mera indicação de artigos de lei pretensamente violados não enseja o conhecimento do recurso especial, porquanto este é apelo de fundamentação vinculada e não incide o brocardo iura novit curia.
+(..)
+8. Recurso especial não conhecido.
+(REsp n. 794.537/MT, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 5/3/2009, DJe 6/2009.)
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA AUTORA.
+1. A ausência de indicação clara e precisa dos dispositivos de lei federal em torno dos quais haveria divergência jurisprudencial, caracteriza a deficiência na fundamentação do recurso, a atrair o óbice daSúmula 284do STF. Precedentes.
+2. "Acitação de passagemde artigos de lei não é suficiente para caracterizar e demonstrar a contrariedade a lei federal, já que impossível identificar se o foram citados meramente a título argumentativo ou invocados como núcleo do recurso especial interposto." (AgInt no REsp 1615830/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 05/06/2018, DJe 11/06/2018)
+3. Agravo interno desprovido.
+(AgInt no AgInt no AREsp n. 925.917/SP, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 9/10/2018, DJe 22/10/2018.)
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
