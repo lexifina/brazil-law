@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de recurso especial interposto contra Acórdão proferido no TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO, com o seguinte resumo de ementa:
+ADMINISTRATIVO. SERVIDOR PÚBLICO. AGENTE PENITENCIÁRIO FEDERAL. ADICIONAL DE HORAS EXTRAS E ADICIONAL NOTURNO. DIREITO. SISTEMADE PLANTÕES. 24 HORAS DE TRABALHO POR 72 HORAS DE FOLGA. REALIZAÇÃO DE MISSÕES NOS DIAS DE DESCANSO. CARGA HORÁRIA QUE EXCEDEU O LIMITE DE 192 HORAS/MENSAIS. TRABALHO REALIZADO ENTRE 22:00 H E 5:OO H HORAS DO DIA SEGUINTE. COMPROVAÇÃO. JUNTADA DAS FOLHAS DE PONTO E DOS RELATÓRIOS DE MISSÕES. HORAS DE TRABALHO NÃO COMPENSADAS. APELAÇÃO IMPROVIDA.
+O recurso foi admitido na origem e vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo nº 3/STJ: aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+O tribunal de origem fundamentou sua decisão também nos art. 7º e 39, da Constituição Federal/88, porém, a parte recorrente não interpôs Recurso Extraordinário. Ora, não é viável o recurso especial quando a parte não impugnar, através da via processual adequada, fundamento constitucional registrado no julgado combatido. Aplica-se, no caso, o teor da Súmula 126/STJ.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 1% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Ante o exposto, nos termos do art. 255, §4º, inciso I, do Regimento Interno do STJ, não conheço do recurso especial.
+Publique-se. Intimem-se.
