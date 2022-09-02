@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de habeas corpussubstitutivo de recurso, com pedido liminar, impetrado em benefício de EDIANE HATEMANN DE ALMEIDA,contra acórdão proferido peloTRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SULno julgamento do Recurso em Sentido Estrito n. 0000863-97.2020.8.12.0016.
+Extrai-se dos autos que a paciente foi denunciada, juntamente com outros agentes, pela suposta prática dos crimes previstos no art. 121, §2º, I e IV, c/c o art. 14, II; no art. 121, §2º, I, c/c o art. 14, II; no art. 121, §2º, II e IV; no art. 121, §2º, I e IV, todos do Código Penal, e no art. 2º,caput, e §2º, da Lei 12.850 (dois homicídios qualificados tentados, dois homicídios qualificados consumados e organização criminosa armada). A denúncia não foi recebida quanto ao delito de organização criminosa.
+Em 23/7/2021, foi proferida sentença pronunciando a ora paciente como incursa nos arts. 121, caput, c/c o art. 14, II e 29, e no art. 121, §2º, IV, c/c o art. 29, todos do Código Penal (um homicídio tentado e um homicídio qualificado consumado) (fls. 1539/1568).
+Irresignada, a defesa interpôs recurso em sentido estritoperante o Tribunal de origem, o qual negou provimento ao reclamo,nos termos do acórdão que restou assim ementado:
+"RECURSO EM SENTIDO ESTRITO - DEFENSIVO - HOMICÍDIO QUALIFICADO TENTADO - SENTENÇA DE PRONÚNCIA - PRETENDIDA IMPRONÚNCIA SOB ALEGADA INEXISTÊNCIA DE INDÍCIOS MÍNIMOS DA AUTORIA - AFASTAMENTO DAS QUALIFICADORAS ADMITIDAS NA SENTENÇA - TESES NÃO EVIDENCIADAS DE PLANO - PRESENÇA DE ELEMENTOS INDICIÁRIOS CONTRAPOSTOS - NECESSIDADE DE CERTEZA CLARA E INCONTESTE - QUESTÕES QUE DEMANDAM APRECIAÇÃO PELO JÚRI - PRONUNCIA MANTIDA - RECURSOS DESPROVIDOS.
+Deve ser mantida a pronúncia que esteja alicerçada em provas da materialidade e indícios suficientes de autoria, conquanto, nessa fase de prelibação, é vedada a solução definitiva da controvérsia, sob pena de usurpação da competência constitucionalmente prevista ao Tribunal do Júri. De igual forma, revela-se inviável o afastamento prematuro das qualificadoras incidentes na hipótese, quando no contexto fático-probatório verifique-se indícios de sua ocorrência, cabendo ao Conselho de Sentença dirimi sobre a aplicação ou não no caso concreto. Recursos desprovidos, de acordo como parecer."(fls. 1818).
+No presentewrita defesa afirma que, a partir dos documentos juntados aos autos do processo, verifica-sea total ausência de provas da autoria delitiva em relação à paciente. Alega que, na instrução do feito ficou clara a ausência de participação da paciente nos delitos imputados.
+Indica que a pronúncia teria se baseado apenas em provas e indícios fracos acerca da autoria, colhidos apenas na fase policial, não ratificados em juízo, em afronta ao art. 155 do CPP.
+Afirma que a paciente não tem envolvimento nos delitos imputados.
+Requer em liminar a suspensão do processo até o julgamento do presente mandamus. No mérito pugna pela concessão da ordem com a despronúncia da paciente.
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça. Contudo, considerando as alegações expostas na inicial, razoável o processamento do feito para verificar a existência de eventual constrangimento ilegal.
+No caso, ao menos em juízo perfunctório, não é possível identificar de plano o constrangimento ilegal aventado ou, ainda, a presença do fumus boni iuris e do periculum in mora, elementos autorizadores para a concessão da tutela de urgência.
+Confundindo-se com o mérito, a pretensão deve ser submetida à análise do órgão colegiado, oportunidade na qual poderá ser feito exame aprofundado das alegações relatadas após manifestação do Parquet.
+Por tais razões, indefiro o pedido de liminar.
+Oficie-se à autoridade coatora, bem como ao juízo de primeiro grau, a fim de requisitar-lhes, no prazo legal, as informações pertinentes a serem prestadas, preferencialmente, pela Central do Processo Eletrônico - CPE do STJ. Requisita-se, também, o envio de senha para acesso ao processo no site do Tribunal, se for o caso.
+Após, encaminhem-se os autos ao Ministério Público Federal para parecer.
+Publique-se.
+Intimem-se.
