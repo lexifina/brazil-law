@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus,sem pedido liminar,impetrado em favor de RAFAEL WILLIAM DE OLIVEIRA MONTE contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro (Apelação n. 0178382-46.2019.8.19.0001).
+Consta do relatório dee-STJ fls. 50/51 queo paciente foi condenado, em primeiro grau de jurisdição, às penas de 4 anos e 4 meses de reclusão, em regime inicial semiaberto, e 50 dias-multa, pela prática do crime previsto noart. 157, caput, Código Penal.
+Irresignado, o Ministério Público interpôs recurso de apelação, o qual foi provido para exasperar a pena-base em maior extensão eafastar a atenuante da confissão espontânea, razão pela qual as penas definitivas do paciente foram redimensionadas para 6 anos, 2 meses e 20 dias de reclusão e 15 dias-multa, além de fixar o regime inicial fechado(e-STJ fls. 48/54). Segue a ementa doacórdão:
+APELAÇÃO CRIMINAL. ROUBO SIMPLES (ART. 157, CAPUT, DO CÓDIGO PENAL).
+ACUSADO QUE, EM MARECHAL HERMES, NESTA CIDADE, MEDIANTE GRAVE AMEAÇA EXERCIDA COM EMPREGO DE UM SIMULACRO DE ARMA DE FOGO E DAS PALAVRAS DE ORDEM: "PASSA O DINHEIRO E O CARRO! PENSA BEM, SE NÃO O TIRO VAI SER NA SUA FILHA", O VEÍCULO NISSAN SENTRA, PLACA KOS1J01, E UMA ALIANÇA DE PRATA, TUDO DE PROPRIEDADE DA VÍTIMA ROBERTA.
+PRETENSÃO MINISTERIAL À EXASPERAÇÃO DA PENA-BASE, PELAS CIRCUNSTÂNCIAS E CONSEQUÊNCIAS DO DELITO, QUE SE CONCEDE. APELADO, QUE, AGINDO COM EXTREMA VIOLÊNCIA E GRAVE AMEAÇA, UTILIZOU UMA CRIANÇA DE APENAS 02 ANOS DE IDADE PARA ATERRORIZAR A GENITORA, VISANDO INCUTIR MAIOR MEDO NA OFENDIDA, TUDO COM O OBJETIVO DE FACILITAR A SUBTRAÇÃO.
+AFASTAMENTO DA ATENUANTE DA CONFISSÃO ESPONTÂNEA POSSÍVEL. ACUSADO QUE ADMITIU PARCIALMENTE OS FATOS IMPUTADOS, NEGANDO A PRÁTICA DA GRAVE AMEAÇA. A CONFISSÃO COMPLETA, CONSOANTE PREVISÃO LEGAL, DEVE CONTER TODOS OS REQUISITOS PARA SUA CONFIGURAÇÃO, A FIM DE SE PRESTIGIAR A SINCERIDADE DO INFRATOR, NÃO ESTANDO ABRANGIDA PELO CITADO ART. 65, III, "D", DO CÓDIGO PENAL, A CONFISSÃO PARCIAL.
+REGIME FECHADO QUE SE IMPÕE. DELITO PRATICADO MEDIANTE GRAVE AMEAÇA CONTRA A OFENDIDA, O QUE JUSTIFICA A FIXAÇÃO DE REGIME MAIS GRAVE, NA FORMA DOS ARTS. 33, § 3.º, E 59, AMBOS DO CÓDIGO PENAL.
+AUSÊNCIA DE VIOLAÇÃO À NORMA CONSTITUCIONAL OU INFRACONSTITUCIONAL.
+PROVIMENTO DO APELO MINISTERIAL PARA MAJORAR A PENA-BASE IMPOSTA, AFASTAR A ATENUANTE DA CONFISSÃO E FIXAR O REGIME INICIAL FECHADO.
+Os embargos de declaração opostos pela defesa foram rejeitados (e-STJ fls. 41/44).
+No presente mandamus (e-STJ fls. 3/13), aimpetrantesustentaque o paciente sofre constrangimento ilegal, pois o Tribunal a quo negativou a vetorial circunstâncias do crimesem fundamentação idônea. Aduz que,ao contrário do que a Corte Estadual afirmou, o paciente não agiu com "extrema violência e grave ameaça"(e-STJ fl. 9), tratando-se de violência inerente à configuração do ilícito penal.
+Além disso, impugna o afastamento da atenuante da confissão espontânea, pois o fato de a confissão ser parcial não inviabiliza o reconhecimento do benefício. Aplicada a atenuante, defende a sua integral compensação com a agravante dareincidência.
+Atendidos os pleitos defensivos, defende ser possível o abrandamento do regime inicial para semiaberto.
+Ao final, pede a concessão da ordem para que a pena-base do paciente seja reduzida e o reconhecimento da atenuante da confissão espontânea, procedendo-se à sua integralcompensação com a agravante da reincidência.
+É o relatório. Decido.
+Não obstante as razões constantes da petição inicial, a impetrante não instruiuo habeas corpuscomcópia da sentença condenatória, documento que, junto dos acórdãos proferidos pela Corte local, é imprescindível para o exame das aventadas ilegalidades.
+Ressalta-se que o rito do habeas corpus pressupõe prova pré-constituída do direito alegado,devendo a parte demonstrar, de maneira inequívoca, por meio de documentos, a existência de constrangimento ilegal imposto ao paciente. Nesse sentido, segue a jurisprudência desta Corte:
+PROCESSO PENAL. HABEAS CORPUS. SENTENÇA CONDENATÓRIA E NEGATIVA DO DIREITO DE RECORRER EM LIBERDADE. EXCESSO DE PRAZO PARA JULGAMENTO DO RECURSO DE APELAÇÃO. INOCORRÊNCIA. PRISÃO PREVENTIVA. SUPRESSÃO DE INSTÂNCIA E DEFICIÊNCIA NA INSTRUÇÃO. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO. ORDEM PARCIALMENTE CONHECIDA E, NESSA EXTENSÃO, DENEGADA.
+ ..
+4. Em sede de habeas corpus, a prova deve ser pré-constituída e incontroversa, cabendo ao impetrante apresentar documentos suficientes à análise de eventual ilegalidade flagrante no ato atacado. Na espécie, o processo não foi instruído com a sentença condenatória, peça processual imprescindível para exame da aventada ilegalidade da prisão preventiva.
+5. Ordem parcialmente conhecida e, nessa extensão, denegada, com recomendação. (HC 521.587/RS, Rel. Ministro RIBEIRO DANTAS, Quinta Turma, DJe 20/8/2019)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. AUSÊNCIA DE PEÇA ESSENCIAL À COMPREENSÃO DA CONTROVÉRSIA. DEFICIÊNCIA NA INSTRUÇÃO QUE IMPOSSIBILITA A ANÁLISE DO PEDIDO. AGRAVO NÃO PROVIDO.
+1. Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente exige prova pré-constituída das alegações e não comporta dilação probatória.
+2. Não instruída a impetração com documento essencial ao deslinde da controvérsia, mostra-se inviável o exame do sustentado constrangimento ilegal. 3. Agravo regimental não provido. (AgRg no HC 456.701/ES, Rel. Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, DJe 25/10/2018)
+Ante o exposto, com base no art. 34, inciso XX, do Regimento Interno do STJ, indefiro liminarmente a petição inicial do habeas corpus.
+Intimem-se.
