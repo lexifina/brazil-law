@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar,impetradoem favor de Francisco das Chagas Diniz Filho,condenadoà pena de 2anos de reclusão, e 10dias-multa,pela prática do delito descrito no art. 184, § 2º, do Código Penal(Processo n. 5000087-98.2013.8.21.0018, da 1ª Vara Criminal da comarca de Montenegro/RS), apontando-se como autoridade coatora o Tribunal de Justiça do Rio Grande do Sul, que manteve a condenação imposta ao pacienteno julgamento da Apelação Criminal n.5000087-98.2013.8.21.0018/RS.
+Sob alegação de atipicidade da conduta calcada nos princípios da adequação social e insignificância,requer-se, em liminar e no mérito, a absolvição dopaciente.
+É o relatório.
+Owrité inadmissível.
+Em consultaaos autos da apelação criminal na origem, obtive a informação de que a condenação em referência já transitou em julgado.
+O presentewrit, pois, ésucedâneo de revisão criminal,sendo esta Cortemanifestamenteincompetentepara análise do pleito revisional, notadamente porque inexiste julgamento de mérito, neste Tribunal, passível de revisão.
+Nesse sentido, confiram-se:
+AGRAVO REGIMENTAL EMHABEAS CORPUS. WRITIMPETRADO CONTRA ACÓRDÃOTRANSITADO EM JULGADO, SUBSTITUTIVO DE REVISÃO CRIMINAL. NÃO INAUGURADA ACOMPETÊNCIA DO STJ. SUPRESSÃO. INADMISSIBILIDADE. PEDIDO DE CONCESSÃO DEHABEAS CORPUSDE OFÍCIO. DESCABIMENTO. INICIATIVA DO ÓRGÃO JULGADOR.
+Agravo regimental improvido.
+(AgRg no HC n. 494.794/MA, da minha relatoria, Sexta Turma, DJe 11/4/2019)
+ ..
+1. Ohabeas corpusfoi impetrado contra acórdão do Tribunal deJustiça do Estado de São Paulo transitado em julgado; é, portanto,substitutivo de revisão criminal. Por força do art. 105, I, "e", daConstituição Federal, a competência desta Corte para processar e julgarrevisão criminal limita-se às hipóteses de seus próprios julgados. Comonão existe, neste Tribunal, julgamento de mérito passível de revisão emrelação à condenação sofrida pelo paciente, forçoso reconhecer aincompetência deste Tribunal para o processamento do presente pedido.
+ ..
+(HC n. 288.978/SP, da minha relatoria, Rel. p/ Acórdão Ministro RogerioSchietti Cruz, Sexta Turma, DJe 21/5/2018)
+Tampouco diviso ilegalidade flagrante que justifique a concessão dehabeas corpusde ofício, notadamente porque a conclusão da Corte de origem, no sentido da improcedência da tese de atipicidade da conduta tipificadano art. 184,§ 2º, do CP (calcada nos princípios da adequação social e insignificância) guarda perfeita harmonia com a orientação jurisprudencial desta Corte:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. VIOLAÇÃO DE DIREITO AUTORAL. AFRONTA AO PRINCÍPIO DA COLEGIALIDADE. NÃO ACOLHIMENTO. INÉPCIA DA DENÚNCIA. NORMA PENAL EM BRANCO SEM INDICAÇÃO DO COMPLEMENTO. DEMONSTRAÇÃO PELA DEFESA DE PLENO CONHECIMENTO DA NORMA COMPLEMENTAR. DENÚNCIA APTA. AGRAVO NÃO PROVIDO.
+1. "A decisão monocrática proferida por Relator não afronta o princípio da colegialidade e tampouco configura cerceamento de defesa, ainda que não viabilizada a sustentação oral das teses apresentadas, sendo certo que a possibilidade de interposição de agravo regimental contra a respectiva decisão, como ocorre na espécie, permite que a matéria seja apreciada pela Turma, o que afasta absolutamente o vício suscitado pelo agravante" (AgRg no HC 485.393/SC, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 28/3/2019).
+2. A mera ausência de indicação expressa da norma complementadora não deve conduzir automaticamente ao trancamento da ação penal pela inépcia da denúncia sobretudo quando a parte demonstrar pleno conhecimento do complemento, formulando inclusive seu pedido de trancamento do processo com expressa referência a ela. Afinal, se o próprio denunciado enfatiza que está ciente da norma complementadora do tipo penal a ele imputado, não se pode alegar que houve dificuldade na compreensão da acusação e, por conseguinte, no exercício do direito de defesa. Na hipótese, a recorrente é advogada, tem sua defesa patrocinada pela OAB/MT, e citou expressamente as normas complementares do do artigo 184, §1º, do Código Penal em suas manifestações no feito criminal.
+3. Esta Corte Superior possui pacificado entendimento segundo o qual é inaplicável o princípio da insignificância ao delito de violação de direito autoral. Precedentes. Além disso, tratando-se de delito em tese praticado por advogada no exercício da profissão, entendeu o Tribunal de Justiça que a conduta da acusada revestiu-se de alta grau de reprovabilidade, o que afasta a incidência da bagatela.
+4. Agravo regimental não provido.
+(AgRg nos EDcl nos EDcl no AgRg no RHC n. 110.831/MT, Ministro Ribeiro Dantas, Quinta Turma, DJe 6/4/2021 - grifo nosso)
+HABEAS CORPUS. VIOLAÇÃO DE DIREITO AUTORAL. PRINCÍPIOS DA ADEQUAÇÃO SOCIAL E DA INSIGNIFICÂNCIA. NÃO APLICAÇÃO. ABOLITIO CRIMINIS DETERMINADA PELA LEI N. 10.695/2003. NÃO OCORRÊNCIA. ORDEM PARCIALMENTE CONHECIDA E DENEGADA.
+1. A Terceira Seção desta Corte de Justiça, ao julgar o REsp n. 1.193.196/MS, representativo de controvérsia, firmou-se no sentido de "considerar típica, formal e materialmente, a conduta prevista no artigo 184, § 2º, do Código Penal, afastando, assim, a aplicação do princípio da adequação social, de quem expõe à venda CD"S e DVD"S "piratas"" (REsp n. 1.193.196/MG, Rel. Ministra Maria Thereza de Assis Moura, 3ª S., DJe 4/12/2012).
+2. O Tribunal de origem não apreciou a matéria acerca da suposta abolitio criminis da conduta de expor à venda ou comercializar "videogramas" - decorrente, segundo o impetrante, da modificação, determinada pela Lei n. 10.695/2003, da redação do preceito normativo em comento (§ 2º do art. 184 do Código Penal). O exame da questão por esta Corte Superior implicaria a indevida supressão de instância.
+3. In casu, o paciente tinha em depósito e expôs à venda, em estabelecimento comercial, 1.731 DVDs e 517 CDs falsificados, com o intuito de obter lucro.
+4. A jurisprudência desta Corte Superior admite a utilização de condenações anteriores transitadas em julgado como fundamento para a fixação da pena-base acima do mínimo legal, diante da valoração negativa dos maus antecedentes, vedado o bis in idem.
+5. Na hipótese, o réu ostenta duas outras condenações definitivas, também por violação de direitos autorais. Em uma delas, o crime foi cometido anteriormente ao da demanda originária, embora a condenação com trânsito em julgado seja posterior aos fatos de que aqui se trata. Na primeira fase da dosimetria da sanção, estabeleceu-se a reprimenda acima do mínimo legal. Compensou-se a outra condenação, objeto de reincidência, com a atenuante da confissão espontânea.
+6. Ordem conhecida em parte e, na extensão, denegada.
+(HC n. 531.030/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 1º/7/2020 - grifo nosso)
+No mesmo sentido, confira-se o teor da Súmula 502/STJ:
+Presentes a materialidade e a autoria, afigura-se típica, em relação ao crime previsto no art. 184, § 2º, do CP, a conduta de expor à venda CDs e DVDs piratas.
+Ante o exposto,não conheçodohabeas corpus(art. 34, XVIII,a, do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS. CRIME CONTRA PROPRIEDADE IMATERIAL. DIREITO AUTORAL. ART. 184, § 2º, DO CP. PLEITODEABSOLVIÇÃO (ATIPICIDADE MATERIAL). CONDENAÇÃO TRANSITADA EM JULGADO. SUCEDÂNEO DE REVISÃO CRIMINAL.INCOMPETÊNCIA DO STJ. INEXISTÊNCIA DE ILEGALIDADE FLAGRANTE. INAPLICABILIDADE DOS PRINCÍPIOS DA ADEQUAÇÃO SOCIAL E INSIGNIFICÂNCIA. SÚMULA 502/STJ.
+Writ não conhecido.
