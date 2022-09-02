@@ -1,0 +1,60 @@
+DECISÃO
+Trata-se de recurso especial interposto por Aymoré Crédito, Financiamento e Investimento S.A., com fundamento no art. 105, III, c, da Constituição Federal, contra acórdão assim ementado (e-STJ, fl. 136):
+APELAÇÃO CÍVEL. ALIENAÇÃO FIDUCIÁRIA. AÇÃO DE BUSCA E APREENSÃO. AUSÊNCIA DA NOTIFICAÇÃO VÁLIDA. MORA NÃO CONFIGURADA. EXTINÇÃO DA DEMANDA.
+A PROVA DA MORA É IMPRESCINDÍVEL À BUSCA E APREENSÃO (SÚMULA 72, STJ), E DEVE DAR-SE VIA CARTA COM AVISO DE RECEBIMENTO, NA FORMA DO ARTIGO 2º, § 2º, DO DL 911/69, COM NOVA REDAÇÃO DADA PELA LEI Nº 13.043/14. NOTIFICAÇÃO NÃO ENTREGUE NO ENDEREÇO DO DEVEDOR INDICADO NO CONTRATO, AUSÊNCIA DE CONSTITUIÇÃO VÁLIDA EM MORA.
+MANUTENÇÃO DA SENTENÇA DE EXTINÇÃO DA AÇÃO, DIANTE DA AUSÊNCIA DE PRESSUPOSTOS PROCESSUAIS, NOS TERMOS DO ARTIGO 485, IV, DO CPC.
+APELO DESPROVIDO.
+Nas razões do apelo especial, a recorrente alegaexistência de divergência jurisprudencial, em relação aos arts. 2º, § 2º, e 3º do Decreto-Lei n. 911/1969;113 e 422 do CC/2002; e 4º, 10, 85, 139, X, 188, 277, 320 e 321 do CPC/2015.
+Pugna pelareforma do acórdão recorrido. Para tanto, sustenta: a)validade da notificação juntada aos autos, haja vista que a carta registrada com aviso de recebimento foi enviada ao endereço informado no contrato pelo devedor e não foi recebida pelo motivo "ausente", além de ressaltar os princípios da lealdade nos negócios jurídicos, da probidade e da boa-fé; b)possibilidade de a notificação extrajudicial ser realizada após o ajuizamento da ação, tendo em conta a inexistência de exigência legal, bem como a necessidade de ser oportunizar às partes a regularização de eventuais vícios processuais, devendo ser oportunizado ao recorrente a emenda à inicial; e c) os ônus sucumbenciais devem recair integralmente sobre o recorrido, por ter dado causa à propositura da demanda.
+Sem contrarrazões.
+O Tribunal de origem admitiu o processamento do recurso especial, vindo os autos a esta Corte (e-STJ, fls. 181-186).
+Brevemente relatado, decido.
+Com efeito, em que pese às alegações deduzidas pela agravante,na hipótese dos autos verifica-se que o Tribunal de origem entendeu que não ficou demonstrada a regular constituição do devedor em mora e, por conseguinte, manteve a decisão que extinguiu a ação de busca e apreensão, com base nos seguintes fundamentos (e-STJ, fls. 132-135 - sem grifo no original):
+A constituição em mora do devedor é requisito extrínseco para formulação do pleito de busca e apreensão.
+Na dicção do artigo 2º, § 2º do DL 911/69, "a mora decorrerá do simples vencimento do prazo para pagamento e poderá ser comprovada por carta registrada com aviso de recebimento, não se exigindo que a assinatura constante do referido aviso seja a do próprio destinatário".
+Ressabidamente, a "comprovação da mora é imprescindível à busca e apreensão do bem alienado fiduciariamente" (STJ, súmula 72).
+Trata-se, pois, de uma das condições de admissibilidade da ação cautelar manejada.
+A comprovação da mora solvendi dá-se via carta com aviso de recebimento, consoante nova redação do dispositivo legal suso elencado, alterado pela Lei nº 13.043/14.
+Dita notificação, consoante entendimento há muito pacificado junto ao eg. STJ, deve ser remetida ao endereço domiciliar do devedor, consoante constar do contrato, sendo desnecessário que seja recebida pessoalmente pelo destinatário.
+(..)
+Porém, no presente caso, o autor quando do ajuizamento da ação de busca e apreensão, juntou comprovante dos correios de que o destinatário estava ausente em três tentativas de entrega da notificação (evento 01 - doc. 07). Nesse caso, deveria ter procedido com o protesto via edital, para que assim tornasse a notificação válida, e então constituir em mora o ora apelado.
+A respeito da notificação por edital, assim preconiza o art. 15 da Lei nº 9.492/97:
+A intimação será feita por edital se a pessoa indicada para aceitar ou pagar for desconhecida, sua localização incerta ou ignorada, for residente ou domiciliada fora da competência territorial do Tabelionato, ou, ainda, ninguém se dispuser a receber a intimação no endereço fornecido pelo apresentante.
+Assim, ausente a notificação a que aludimos, incabível a procedência da ação, poisque incomprovada a mora do apelado, devendo ser mantida a sua extinção, nos termos do artigo 485, inciso IV, do CPC.
+Pelo exposto, voto por negar provimento ao apelo. Considerando o disposto no art.85, § 11, do CPC, deixo de fixar os honorários advocatícios, em face da ausência de angularização processual.
+Dito isso, o fundamento do acórdão recorrido acerca da necessidade de proceder o protesto via editalnão foi especificamente impugnado pela recorrente nas razões do recurso especial, ensejando a aplicação, por analogia, do óbice da Súmula 283/STF, segundo o qual "é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO DECLARATÓRIA C/C PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA PARTE AUTORA.
+1. Não há falar em ofensa ao art. 1022 do CPC/15, porquanto todas as questões fundamentais ao deslinde da controvérsia foram apreciadas pelo Tribunal a quo, sendo que não caracteriza omissão ou falta de fundamentação a mera decisão contrária ao interesse da parte, tal como na hipótese dos autos.
+2. É inadmissível o recurso especial que não impugna fundamento do acórdão recorrido apto, por si só, a manter a conclusão a que chegou a Corte Estadual (enunciado 283 da Súmula do STF).
+3. A ausência de enfrentamento, pelo Tribunal de origem, da tese de que o dano moral seria in re ipsa impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula 282 e 356 do STF, aplicável por analogia.
+4. Os óbices das Súmulas 282/STF e 283/STF aplicam-se indistintamente aos recursos especiais apresentados com fundamento na alínea "a" e na alínea "c" do permissivo constitucional, restando prejudicada a análise do dissídio jurisprudencial alegado.
+5. Agravo interno desprovido. (AgInt no REsp n. 1.970.022/SP, relator Ministro MARCO BUZZI, Quarta Turma, julgado em 2/5/2022, DJe de 6/5/2022 - sem grifo no original)
+Além disso, da leitura dos trechos acima, ficou consignado que astentativas de notificação extrajudicial expedida ao endereço constante no contrato, para fins de comprovação da mora do devedor, foram devolvidas com a anotação "ausente", concluindo o Colegiado estadual, por esse motivo, que o procedimento foi insuficiente para alcançar a finalidade pretendida pelo credor, já que a carta não foi efetivamente entregue no endereço do destinatário.
+Acerca do tema, o entendimento mais recente da Terceira Turma do Superior Tribunal de Justiça é no sentido de que, nos contratos regidos pelo Decreto-Lei n. 911/1969, o simples fato de o devedor estar ausente de sua residência não importa em violação à boa-fé objetiva, exigindo-se, para a comprovação da mora, a efetiva entrega da notificação no seu endereço cadastral.
+A propósito:
+RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. ALIENAÇÃO FIDUCIÁRIA EM GARANTIA. DECRETO-LEI 911/1969. COMPROVAÇÃO DA MORA. NOTIFICAÇÃO FRUSTRADA PELO MOTIVO "AUSENTE". VIOLAÇÃO À BOA-FÉ OBJETIVA PELO DEVEDOR.NÃO OCORRÊNCIA. CONSOLIDAÇÃO PROPRIEDADE EM FAVOR DO CREDOR FIDUCIÁRIO. DESCABIMENTO.
+1. Controvérsia acerca da comprovação da mora na ação de busca e apreensão fundada no Decreto-Lei 911/1969 na hipótese em que a notificação enviada ao endereço do devedor frustrou-se pelo motivo "Ausente".
+2. Nos termos do art. 2º, § 2º, do Decreto-Lei nº 911/1969, "A mora decorrerá do simples vencimento do prazo para pagamento e poderá ser comprovada por carta registrada com aviso de recebimento, não se exigindo que a assinatura constante do referido aviso seja a do próprio destinatário".
+3. Existência de divergência na jurisprudência desta Corte Superior acerca da necessidade, ou não, de efetiva entrega da notificação no endereço cadastral do devedor, para se comprovar a mora.
+4. Caso concreto em que a notificação sofreu três tentativas de entrega, todas frustradas pelo motivo "Ausente".
+5. Inviabilidade de se extrair do simples fato da ausência do devedor de sua residência qualquer conduta contrária à boa-fé objetiva.
+6. Existência de recente precedente desta turma acerca da validade da notificação frustrada pelo motivo "Mudou-se".
+7. Inaplicabilidade das razões de decidir daquele precedente ao caso dos autos, pois a mudança de endereço do devedor, sem comunicação à credora fiduciária, importa violação à boa-fé objetiva, diversamente da mera ausência do devedor de sua residência.
+8. Invalidade da notificação no caso em tela.
+9. RECURSO ESPECIAL DESPROVIDO. (REsp n. 1.848.836/RS, Relator Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 24/11/2020, DJe 27/11/2020)
+No mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL.RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE BUSCA E APREENSÃO. ALIENAÇÃO FIDUCIÁRIA. NOTIFICAÇÃO EXTRAJUDICIAL. CONSTITUIÇÃO EM MORA. REALIZADA NO ENDEREÇO DA DEVEDORA.RETORNO NEGATIVO PELO MOTIVO "AUSENTE". PROTESTO DE TÍTULO. EDITAL. NÃO ESGOTAMENTO DOS MEIOS PARA LOCALIZAÇÃO DA DEVEDORA. FUNDAMENTO DO ARESTO COMBATIDO NÃO IMPUGNADO. SÚMULA Nº 283 DO STF, POR ANALOGIA. ARTS. 113 E 422 DO CC/02. PREQUESTIONAMENTO.AUSÊNCIA. SÚMULAS NºS 282 E 356 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A jurisprudência desta Corte é firme no sentido de que se faz necessária a comprovação do efetivo recebimento da notificação para a constituição em mora do devedor. Precedente.
+ ..
+5. Agravo interno não provido. (AgInt no REsp 1.928.759/DF, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 1º/6/2021, DJe 8/6/2021 - sem grifo no original)
+Sendo assim, não há motivo para reformar o acórdão recorrido, uma vez que a conclusão alcançada pela segunda instância está ajustada ao entendimento da Terceira Turma do Superior Tribunal de Justiça.
+Outrossim, não há como alterar a convicção adotada pelo Colegiado estadual (acerca da notificação do ora insurgente), sem que se proceda ao necessário revolvimento fático-probatório do feito, providência vedada no âmbito do recurso especial, em razão do disposto na Súmula n. 7/STJ.
+Ademais, quanto à aduzida violação ao art. 113 e 422 do CC/2002; e 4º, 10, 85, 139, X, 188, 277, 320 e 321 do CPC/2015 do CDC, verifica-se que o conteúdo normativo dos referidos dispositivos legais não foi objeto de debate pelo Tribunal de origem. Dessa forma, não tendo sido enfrentada a questão relacionada ao artigo apontado como violado pelo acórdão recorrido, fica obstado o conhecimento do recurso especial pela ausência de prequestionamento.
+Assim, havendo compatibilidade lógica no presente caso, incidem as Súmulas 282 e 356 do STF, aplicável a ambas as alíneas do permissivo constitucional.
+Diante do exposto, nego provimento ao recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. AÇÃO DE BUSCA E APREENSÃO. ALIENAÇÃO FIDUCIÁRIA. 1.AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA 283/STF. 2. NOTIFICAÇÃO EXTRAJUDICIAL. COMPROVAÇÃO DA CONSTITUIÇÃO EM MORA DO DEVEDOR. ENVIO DA NOTIFICAÇÃO AO ENDEREÇO DO CONTRATO. ACÓRDÃO EM HARMONIA COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULAS N. 7 E 83/STJ. 3. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. 4. RECURSO IMPROVIDO.
