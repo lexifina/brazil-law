@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por CARLOS ALBERTO DONASSOLOcontra decisão de minha lavra, em que conhecido agravopara não conhecer dorecurso especial.
+Sustentaa parte embargante a ocorrência de contradição na aplicação da Súmula 7 do STJ, uma vez que "por um lado o fundamento menciona que a admissibilidade "não depende de valoração de prova" e no mesmo fundamento menciona a Súmula 7 que trata do exame de prova (..reexame de prova não enseja recurso especial), daí a contradição que ora se aponta." (e-STJ fl. 296)
+Intimada, a parte embargada não formulou impugnação (e-STJ fl. 303).
+Passo a decidir.
+Nos termos do art. 1.022 do CPC/2015, são admitidos embargos de declaração quando houver obscuridade, contradição, omissão e erro material na decisão.
+No caso, conforme registrado na decisão embargada,o Tribunala quodecidiu integralmente a controvérsia, nos seguintes termos (e-STJ fls. 123/124):
+A decisão agravada declarou a inexistência de saldo a executar e determinou, após intimação das partes, a baixa do processo, o que, nos termos do art. 203, §1º, do Código de Processo Civil e dada a natureza evidentemente terminativa do provimento, implica natureza de sentença e a necessidade de ser interposto Recurso de Apelação (art. 1.009 do CPC).
+Reitere-se que não é aplicável à espécie o princípio da fungibilidade recursal, por não se estar diante de dúvida objetiva sobre qual o recurso cabível, mas de erro grosseiro, como afirma a jurisprudência do Superior Tribunal de Justiça e desta Corte Regional, sendo inadmissível a interposição de Agravo de Instrumento.
+Sequer há falar na admissibilidade mitigada do recurso, tratada no Tema 988 do STJ, pois em se tratando de cumprimento de sentença, o agravo de instrumento seria admitido independentemente da mitigação, por expressa disposição do parágrafo único do art. 1.015 do CPC (Parágrafo único. Também caberá agravo de instrumento contra decisões interlocutórias proferidas na fase de liquidação de sentença ou de cumprimento de sentença, no processo de execução e no processo de inventário.). Contudo, tal como disciplinado no texto legal, a decisão necessariamente haveria de ser interlocutória.
+Postas tais considerações, tem-se que, no caso concreto, não seestá diante de hipótese que permita a mitigação do rol estabelecido no art. 1.015 do CPC e a interposição de Agravo de Instrumento em lugar do Recurso de Apelação, porquanto manifestação incabível o recurso interposto.
+Daí porque foi consignado que "a modificação do julgado, a partir da verificação da natureza do ato decisório, não depende de simples análise do critério de valoração da prova, mas do reexame dos elementos de convicção postos no processo, providência incompatível com a via estreita do recurso especial, nos termosda Súmula 7 do STJ." (e-STJ fl. 292)
+As alegações da parte embargante, na realidade, mostram-se deficientes.
+Primeiro, porque não apontam o inciso em que se funda a pretensão.
+Segundo, porqueo argumento trazido nos aclaratórios se mostra desconexo com o conteúdo da decisão embargada, ao se alegar que existiria contradição naaplicação da Súmula 7 do STJ, uma vez que "por um lado o fundamento menciona que a admissibilidade "não depende de valoração de prova" e no mesmo fundamento menciona a Súmula 7 que trata do exame de prova (..reexame de prova não enseja recurso especial), daí a contradição que ora se aponta." (e-STJ fl. 296)
+Ao que parece, houve confusão da parte entreanálise decritério de valoração da prova,o que é viável em sede de recurso especial, e reexame de prova,o que não é possível na via estreita.
+Com essas considerações, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
