@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por NC EDITORA LTDA, contra decisão que negou seguimento a recurso especial fundamentado nas alínea"a"do permissivo constitucional.
+Agravo em recurso especial interposto em: 29/06/2022.
+Concluso ao gabinete em: 29/08/2022.
+Ação: ação monitória ajuizada por LILIAN COMUNICAÇÃO LTDA - ME em desfavor deNC EDITORA LTDA.
+Sentença: julgou procedente o pedido inicial e improcedentes os embargos monitórios, constituindo o título executivo judicial.
+Acórdão: negou provimento à apelação interposta pelo agravante, nos termos da seguinte ementa:
+"APELAÇÃO CÍVEL. Prestação de serviços. Ação monitória. Sentença que julgou procedente o pedido inicial e improcedentes os embargos monitórios, constituindo o título executivo judicial. Inconformismo da ré. Não acolhimento. Aplicação da exceção do contrato não cumprido. Impossibilidade. Ausência de demonstração de inadimplemento por parte da autora. Prestação de serviço pela autora que restou evidenciada, assim como a falta de pagamento pela ré. Valores devidos. Autora que demonstrou a existência de fato constitutivo do direito alegado, enquanto a ré não se desincumbiu do ônus de comprovar fato impeditivo, modificativo ou extintivo do direito da autora (artigo 373, incisos I e II, do CPC). Sentença mantida. RECURSO DESPROVIDO." (e-STJ, fl. 427).
+Embargos de declaração: opostos pelo agravante, foram rejeitados.
+Recurso especial: alegou violação dos arts. 489 e 1.022, do CPC/2015 e 476 do Código Civil. Sustentou: i) omissão e falta de fundamentação do julgado; ii) falha na prestação do serviço por parte da agravada que,mesmo sem quitar sua obrigação, promoveu a cobrança da Recorrente; iii) o cerceamento de defesa da parte agravante, ao não ser deferida a prova requerida.
+RELATADO O PROCESSO, DECIDE-SE.
+Da análise da decisão agravada, constata-se que o recursoespecialinterposto pelo agravante foi inadmitido com base na ausênciadedemonstração de ofensa aos dispositivos tidos por violados e incidência da Súmula 7 do STJ.
+No entanto, no agravo em recurso especial, a parte agravante nãoimpugnouadequadamente, de forma clara e específica, os óbices aplicados,apenasrepisando os mesmos argumentos já expendidos no recurso especial emdefesade sua tese.
+Ressalte-se que não basta a mera alegação de que a hipótese prescindedereexame de provas, alegando genericamente sobre a questão ser dedireitoou de que se requer a revaloração ou a correta aplicação dalegislação queentende violada.
+Deve também ser demonstrada a efetiva desnecessidadedoreexame, na hipótese em que o Tribunal de origem declara que "ao decidir da forma impugnada, a Turma Julgadora fê-lo diante das provas e das circunstâncias fáticas próprias do processo sub judice, certo que as razões do recurso ativeram-se a uma perspectiva de reexame desses elementos. Mas isso é vedado pelo enunciado na Súmula 7 do Superior Tribunal de Justiça."(e-STJ fl. 474), o que não foi feito.
+Consoante o entendimento desta Corte, firmado à luz do princípio dadialeticidade, cumpre à parte recorrente o ônus de evidenciar,nasrazõesdo agravo em recurso especial, o desacerto da decisão agravada.Descumprido esse ônus, ou seja, se ausente a impugnação pontualeconsistente do fundamento da decisão agravada, o conhecimento do agravoéinadmissível, a teor do disposto na Súmula 182 deste Tribunal e nosarts.932, III do CPC/2015.Nesses termos, não havendo a impugnação dos fundamentos dadecisãoagravada da forma exigida, aplicável o óbice da Súmula 182 do STJ.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial,comfundamento no art. 932, III, do CPC/2015.
+Previno as partes que a interposição de recurso contra esta decisão,sedeclarado manifestamente inadmissível, protelatório ou improcedente,poderá acarretar na condenação ao pagamento das penalidades fixadasnosarts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
