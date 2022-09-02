@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de agravo interposto porEDMUNDO BEZERRA NOBREcontra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que oagravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão doTRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁcuja ementa guarda os seguintes termos (fl. 184):
+RECURSO APELATÓRIO EM AÇÃO DE REPARAÇÃO DE DANOS. CONSTITUCIONAL. ADMINISTRATIVO. RESPONSABILIDADE OBJETIVA DO ESTADO. ERRO MÉDICO NÃO CONFIGURADO. AUSÊNCIA DE NEXO CAUSAL ENTRE A CONDUTA DA ADMINISTRAÇÃO E OS DANOS SUPORTADOS PELO AUTOR. PRECEDENTES. RECURSO CONHECIDO E NÃO PROVIDO. SENTENÇA MANTIDA
+1. Afirma o autor ser portador de diabetes (CID 10 L08), cuja doença causa dormência nos pés, impossibilitando o paciente de sentir pequenos machucados nessa região, com a demora de cicatrização, o que causou a amputação de sua perna direita, na altura da coxa. Defende que a amputação poderia ter sido evitada se o serviço público municipal de saúde tivesse sido prestado de forma eficiente, imputando, por conseguinte, imperícia, imprudência ou negligência aos médicos oficiantes.
+2. Defende a responsabilidade objetiva do ente público municipal, sustentando a configuração do dano pelo sofrimento e angústia suportados, em razão dos sucessivos erros médicos configurados pela privação do encaminhamento para a sala do pé diabético em Juazeiro do Norte/CE.
+3. Não restou demonstrado nos autos o nexo causal entre os atos/fatos atribuídos ao ente de mandado e os danos sofridos pelo demandante, razão pela qual a possibilidade de indenização deve ser afastada.
+4. A mera narrativa do apelante, de ocorrência de erro médico, não é capaz de provar a suposta negligência ou imperícia do ente administrativo. Portanto, tendo em vista incumbir ao autor o ônus de provar os fatos constitutivos de seu direito, nos termos do art. 373, inciso I, do CPC, e levando em conta que a decretação de revelia parcial do demandado não implica na presunção de veracidade das alegações do autor (arts. 344 e 345, inciso II, CPC - decisão de fl. 83), subsiste a ausência de verossimilhança do pleito autoral.
+5. Tais razões amparam a improcedência do pedido autoral, estando o julgamento em total consonância com o direito e contexto probatório dos autos, motivo pelo qual não merece provimento o presente apelo.
+6. Recurso conhecido e desprovido. Sentença mantida.
+Sem embargos de declaração.
+No recurso especial, a parte recorrente alegaque o acórdãoestadual contrariou as disposições contidas nos arts. 186 e 927do Código Civil.
+Aduz, em síntese, que "claro está que a conduta do Município em não encaminhar o recorrente para um tratamento adequado - como o próprio recorrido diz que faz com outras pessoas na mesma situação do recorrente - demonstra o nexo de causalidade entre a conduta e o dano suportado pelo recorrente, apto a enseja a responsabilização por danos morais e materiais, pois além da dor, angústia e vergonha pela amputação da perna, o recorrente gastou milhares de reais na aquisição das próteses e, ao contrário do afirmado pelo magistrado, tal fato não demonstra possibilidade financeira, mas desespero para voltar a andar" (fl. 205).
+Sem contrarrazões ao recurso especial.
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 222-226), o que ensejou a interposição do presente agravo.
+Não apresentadacontraminuta do agravo.
+É, no essencial, o relatório.
+Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, por encontrar óbicenas Súmulas 282 e 356/STF e Súmula 7/STJ.
+Entretanto, a parte agravante deixou de impugnar especificamente a incidência dasSúmulas 282 e 356/STF.
+Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, não admitiu o recurso especial. A propósito, cito:
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E COMPENSAÇÃO POR DANOS MORAIS. IMPUGNAÇÃO ESPECÍFICA DA DECISÃO DE ADMISSIBILIDADE DO RECURSO ESPECIAL. AUSÊNCIA. SÚMULA 182/STJ.
+1. Ação de indenização por danos materiais e compensação por danos morais.
+2. O agravo interposto contra decisão denegatória de processamento de recurso especial. Agravo em recurso especial que não impugna, especificamente, todos os fundamentos por ela utilizados, não deve serconhecido.
+3. Agravo interno não provido. (AgInt no AREsp n. 1.904.501/MG, relatora Ministra Nancy Andrighi, Terceira Turma, DJe 25/11/2021.)
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO ATACADOS NO AGRAVO EM RECURSO ESPECIAL. INCIDÊNCIA DA SÚMULA N. 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA STJ. ARTIGO 1021, § 1º, DO CÓDIGO DE PROCESSO CIVIL CPC. CORREÇÃO DAS DEFICIÊNCIAS EM SEDE DE AGRAVO REGIMENTAL. PRECLUSÃO CONSUMATIVA. INVIABILIDADE. JUÍZO DE ADMISSIBILIDADE NÃO ULTRAPASSADO. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. "É inviável o agravo regimental ou interno que deixa de atacar especificamente todos os fundamentos da decisão agravada, consoante o disposto no art. 1.021, § 1º, do CPC e na Súmula 182 do STJ. Precedentes" (AgRg nos EAREsp 1206558/RS, Rel. Ministro NEFI CORDEIRO, TERCEIRA SEÇÃO, DJe 18/9/2018).
+2. Pela ocorrência de preclusão consumativa, mostra-se inviável buscar, no agravo regimental, suprir as deficiências existentes na fundamentação das razões do agravo em recurso especial.
+3. Agravo regimental não conhecido. (AgRg no AREsp n. 1.929.489/GO, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJede 3/11/2021.)
+Ressalte-se que, em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182 do STJ.
+Ante o exposto, com fundamento no art. 253, parágrafo único, I, doRISTJ,não conheço do presente agravo em recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil,deixo de majorar os honoráriosde advogado em desfavor da parte recorrente, tendo em vista que o valor já arbitrado nas instâncias de origem alcança o percentual máximo de 20% previstonos §§ 2º e 3º do referido dispositivo legal, bem como que foi concedida justiça gratuita na origem.
+Publique-se. Intimem-se.
