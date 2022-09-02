@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial por inexistência de violação de lei federal e incidência da Súmula n. 7 do STJ (e-STJ fls. 893/895).
+O acórdão recorrido está assim ementado (e-STJ fl. 846):
+EMENTA: Agravo de Instrumento. Locação de Imóvel. Fase de cumprimento de sentença. Decisão agravada rejeitou a impugnaçãoe homologou o laudo de avaliçãodo bem imóvel penhorado elaborado pelo expert judiciai Irresignaçãodos agravados/executados  Inadmissibilidade - Contrariamente ao alegado pelos agravantes, o perito judicial analisou não só os imóveis paradigmas, mas, também, as caraterísticasdo imóvel em questão. Com efeito, a análise do laudo pericial dá conta de que o expert descreveu a situação do imóvel quando da avaliação o que compreende, sim, por óbvio, o seu estado de conservação e o seu padrão construtivo, aliás, atestado pelos registros fotográficos constantes do trabalho. Consigne-se, outrossim, que o perito contrariamente ao alegado pelos agravantes considerou, sim, o imóvel ou apartamento, como "padrão superior" (sic). Mas não é só. Não pode passar sem observação que o laudo elaborado pelo assistente técnico dos réus que também se valeu do método comparativo, não difere substancialmente do lado apresentado pelo perito judicial, a não ser no tocante ao valor atribuído bem imóvel. Sucede, porém, que a análise levada a efeito pelo expert judicial, foi mais abrangente, na medida em que, como pode ser verificado no laudo, sem deixar de considerar as características e estado do bem constrito, contextualizou sua situação, como lhe competia, perante imóveis similares e localização. Em outras palavras, o perito não só analisou os imóveis paradigmas, mas, também, as características do imóvel, sua metragem, localização, características de acesso, qualidade de serviços públicos. Destarte de rigor o acolhimento do laudo pericial, posto que o raciocínio expendido pelo perito judicial é irrecusável visto que a avaliação deve ser consentânea às características do imóvel, contextualizada sua situação perante imóveis simulares e localização. Recurso improvido.
+Os embargos de declaração foram rejeitados (e-STJ fls. 859/865).
+Nas razões do recurso especial (e-STJ fls. 868/877), fundamentado no art. 105, III, "a", da CF, a parte recorrente alega afronta aos arts. 480, caput, e 873, I, do CPC/2015, sustentando, em síntese,a necessidade de realização de nova prova pericial.
+Segundo argumenta,"o Laudo produzido utilizou parâmetros equivocados para constatar o real valor do imóvel avaliando, especialmente quando se observa a discrepância entre o laudo particular produzido pelo assistente técnico dos Recorrentes" (e-STJ fl. 875).
+Contrarrazões apresentadas com requerimento de aplicação de multa(e-STJ fls. 884/892).
+No agravo (e-STJ fls. 898/905), afirma a presença de todos os requisitos de admissibilidade do especial.
+Foi apresentada contraminuta (e-STJ fls. 908/916).
+É o relatório.
+Decido.
+Extraem-se as seguintes razões de decidir do aresto impugnado (e-STJ fls. 850/851):
+Com efeito, em avaliações da espécie, utiliza-se o método comparativo, tendo em vista que nele são consideradas variantes concretas e informações reais acerca do mercado imobiliário do perímetro em que inserido o bem constrito.
+Compulsando-se os autos, verifico que assim agiu o perito, como pode ser verificado a fls. 22/104.
+De fato, o estudo pericial foi muito bem justificado, na medida em que analisou não só os imóveis paradigmas, mas, também, contrariamente ao alegado, as caraterísticas do imóvel em questão.
+Nesse sentido, oportuno destacar fls. 39/43, nas quais o expert descreve a situação do imóvel quando da avaliação o que compreende, sim, por óbvio o seu estado de conservação e o seu padrão construtivo, aliás, atestado pelos registros fotográficos constantes do laudo.
+Consigne-se que o perito contrariamente ao alegado pelos agravantes considerou, sim, como se vê a fls. 43, o imóvel ou apartamento, como "padrão superior" (sic).
+Mas não é só.
+Não pode passar sem observação que o laudo elaborado pelo assistente técnico dos réus que também se valeu do método comparativo, não difere substancialmente do laudo apresentado pelo perito judicial,a não ser no tocante ao valor atribuído bem imóvel.
+De fato, o assistente técnico atribuiu ao bem o valor de R$ 1.200.000,00 enquanto o perito judicial, R$ 1.060.000,00. A propósito, confira-se fls. 105/121.
+Sucede, porém, que a meu ver a análise levada a efeito pelo expert judicial, foi mais abrangente, na medida em que, como pode ser verificado no laudo, sem deixar de considerar as características e estado do bem constrito, contextualizou sua situação, como lhe competia, perante imóveis similares e localização.
+Em outras palavras, o perito não só analisou os imóveis paradigmas, mas, também, as características do imóvel, sua metragem, localização, características de acesso, qualidade de serviços públicos.
+Destarte de rigor o acolhimento do laudo pericial, tal como fez o I. Julgador de Primeiro Grau, posto que o raciocínio expendido pelo perito judicial é irrecusável visto que a avaliação deve ser consentânea às características do imóvel, contextualizada sua situação perante imóveis simulares e localização.
+Para alterar taisfundamentos e reconhecer a necessidade de realização de nova prova pericial, seria imprescindível o reexame do conjunto fático-probatório dos autos, o que é inviável em recurso especial, haja vista o teor daSúmulan.7 do STJ.
+Diante do exposto, NEGO PROVIMENTO ao agravo em recurso especial.
+Indefiro o pedido de aplicação da multa, porque não evidenciada até o momento conduta maliciosa ou temerária a justificar tal sanção.
+Publique-se e intimem-se.
