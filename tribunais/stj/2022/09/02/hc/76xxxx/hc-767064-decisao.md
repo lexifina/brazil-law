@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de RAFAEL SOARES LOPES contra acórdão do Tribunal de Justiça do Estado do Espírito Santoproferido na Apelação Criminal n. 0014763-33.2018.8.08.0048.
+Narra a Impetrante que oPaciente foi condenado, em primeiro grau de jurisdição, às penas de 9 (nove) anos, 1 (um) mês e 10 (dez) dias de reclusão, em regime inicial fechado, e 22 (vinte e dois) dias-multa, pela prática do crime previsto no art. 157, § 2.º, inciso II e § 2.º-A, inciso I, do Código Penal.
+O Sentenciado interpôs recurso de apelação, o qual foi desprovido pela Corte estadual (fls. 25-27).
+Neste writ, a Impetrante sustenta, em suma, a existência de nulidade em razão da violação ao procedimento de reconhecimento pessoal previsto no art. 226 do Código de Processo Penal.
+Requer, em liminar e no mérito, seja reconhecida a nulidade do feito, com a consequente absolvição do Paciente.
+É o relatório. Decido.
+No caso, não é possível analisar a viabilidade do pleito deduzido, na medida em que os autos foram mal instruídos. Com efeito, aImpetrantenão juntou cópia integralda sentença condenatória (ausênciadas páginas numeradas por números pares)e do acórdão de apelação (juntou apenas a ementa).
+Ocorre que, como se sabe, a "adequada instrução dohabeas corpus, ação de rito sumário e de limitado espectro de cognoscibilidade, é ônus do impetrante, sendo imprescindível que omandamusvenha aparelhado com provas documentais pré-constituídas, as quais devem viabilizar o exame das alegações veiculadas nowrit" (STF, HC 197.833-AgR, Rel. Ministro LUIZ FUX-Presidente-, TRIBUNAL PLENO, julgado em 19/04/2021, DJe 12/05/2021).
+A propósito, o art. 6.º do Código de Processo Civil dispõe que "todos os sujeitos do processo devem cooperar entre si para que se obtenha, em tempo razoável, decisão de mérito justa e efetiva". Ou seja, não compete apenas ao Estado-Juiz a condução da causa. É essencial que as partesformulem suas pretensões de forma clara, objetiva, acompanhadas dos documentos que amparem de forma precisa o direito invocado, tanto para evitar o prolongamento desnecessário da marcha processual, como o indeferimento de seus pedidos por questões formais que lhes competem observar.
+Nesse contexto, a petição inicial deve ser liminarmente indeferida, porque a Defesa não se desincumbiu do seu ônus de instruir adequadamente os autos.
+No mesmo sentido: RHC 112.662/PR, Rel. Ministro REYNALDO SOARES DA FONSECA, DJe 30/05/2019; RHC 113.063/PR, Rel. Ministro JORGE MUSSI, DJe 23/05/2019; RHC 113.776/PR, Rel. Ministro FELIX FISCHER, DJe 10/06/2019; RHC 118.057/PR, Rel. Ministro ROGERIO SCHIETTI CRUZ, DJe 19/09/2019; RHC 113.276/PR, Rel. Ministro ROGERIO SCHIETTI CRUZ, DJe 29/05/2019;RHC 112.496/PR, Rel. Ministro SEBASTIÃO REIS JÚNIOR, DJe 14/05/2019; AgRg noHC 526.388/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 05/09/2019, DJe 17/09/2019; AgRg no HC 586.212/BA, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 18/08/2020, DJe 26/08/2020.
+Ressalto que não há óbice ao manejo denovowritpara a análise da controvérsia,desde que seja juntada eventualdocumentação faltante.
+Ante o exposto, com fundamentonos arts. 34, inciso XX, e 210 do Regimento Interno do Superior Tribunal de Justiça, INDEFIRO LIMINARMENTE a petição inicial.
+Publique-se.  Intimem-se.
+EMENTA
+HABEAS CORPUS. INSTRUÇÃO DEFICIENTE. AUSÊNCIA DE DOCUMENTOS ESSENCIAISÀ ANÁLISE DA CONTROVÉRSIA.PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA.
