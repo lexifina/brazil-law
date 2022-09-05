@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de Embargos de Declaração contra a decião de fls. 221-222, e-STJ, que, pela segunda vez, indeferiu o pedido de antecipação de tutela na presente Ação Rescisória.
+Alega a parte embargante existir contradição nodecisum, pelos seguintes motivos (fls. 225-234, e-STJ):
+Curial se faz referir, e este ponto negritado na transcrição acima deve ser levado em relevo, há contradição nos termos lançados. Neste ponto, duas são as considerações que devem ser levadas em relevo: primeira, a Embargada não apresentou oposição ao mérito posto na causa; segunda, não se aplica a tutela de evidência os requisitos do perigo de dano. Vejamos o caso com mais vagar.
+(..)
+Com relação ao instituto da tutela de evidência - que efetivamente é excepcional, não se desconhece esta realidade - possui contornos firmados na jurisprudência do STJ. E o ponto que se utiliza para a sua utilização, baseada nosontornos postos na petição inicial e na petição de pedido de concessão da tutela provisória, é a evidência fática de que os Embargantes restaram desassistidos por advogado em boa parte do desenvolvimento do processo. À guisa de demonstração argumentativa, os Embargantes tiveram sonegadas as realizações de importantes e fundamentais atos processuais de defesa de seus interesses, notadamente, não apresentaram memoriais ou realizaram sustentação oral na sessão de julgamento - fatos que já seriam prejudiciais. No entanto, mais do que isto, pelo menos dois recursos possíveis de serem manejados não foram apresentados pela inexistência da assistência por advogado habilitado, notadamente, não foram apresentados Embargos de Declaração e Embargos de Divergência, dois recursos que poderiam ter alterado substancialmente o resultado do julgado. O STJ, tendo direito cristalino, com dispensa de perigo de dano, portanto, sem entrar no mérito de que valores poderão ser buscados a posteriori, aplica o instituto, vejamos:
+(..)
+Nesta quadra cabe um parêntesis que demonstra a contradição da decisão ora embargada na medida em que se submete aos termos da contestação: não há como infirmar certeza quanto ao acerto do mérito do acordão rescindendo. A falta de recurso com relação a este impossibilita esta certeza.
+Sem contrarrazões.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 30.8.2022.
+Ao indeferir a tutela antecipada com base na alegada evidência do direito, afirmei:
+Conforme consignado na decisão de fls. 170-172, e-STJ, que já havia indeferido o pedido de tutela provisória, a sua concessão em Ação Rescisória é medida excepcionalíssima, por força da necessidade de preservação da coisa julgada, garantia processual de natureza constitucional (art. 5º, XXXVI, da CF) e, em última análise, do princípio da segurança jurídica.
+Registre-se que o fato de ter sido comprovada a morte do procurador antes do julgamento do Recurso Especial não importa na evidência do direito à rescisão do julgado, ante as restritíssimas hipóteses previstas no art. 966 do CPC. Averiguar se o referido fato jurídico dá ensejo à rescisão do julgado é a verdadeira questão de mérito desta Ação, que será oportunamente julgada pela Primeira Seção desta Corte Superior.
+Além disso, o simples fato de a parte ré não ter impugnado especificamente ofato que deu ensejo à presente Ação não caracteriza abuso do direito de defesa ou manifesto propósito protelatório, especialmente porque a Universidade procurou demonstrar o acerto, no mérito, do acórdão da Primeira Turma.
+Por fim, caso a presente Ação Rescisória seja julgada procedente e o julgamento do Recurso Especial venha a ser favorável aos autores, os valores poderão ser objeto de cumprimento de sentença contra a Fazenda Pública.
+A jurisprudência do Superior Tribunal de Justiçapreconiza que "a contradição remediável por embargos de declaração, é aquela interna ao julgado embargado, a exemplo da grave desarmonia entre a fundamentação e as conclusões da própria decisão, capaz de evidenciar uma ausência de logicidade no raciocínio desenvolvido pelo julgador, ou seja, o recurso integrativo não se presta a corrigir contradição externa, bem como não se revela instrumento processual vocacionado para sanar eventual error in judicando" (EDcl no HC 290.120/SC, Rel. Min. Regina Helena Costa, Quinta Turma, julgado em 26/8/2014, DJe 29/8/2014).
+Portanto, não há contradição a ser senada.A real intenção da parte embargante érediscutir o que aqui ficou claro e coerentemente decidido.
+Ante o exposto, rejeito os Embargos de Declaração.
+Publique-se.
+Intimem-se.
