@@ -1,4 +1,4 @@
-Art. 75-C. A prestação de serviços na modalidade de teletrabalho ou trabalho remoto deverá constar expressamente do contrato individual de trabalho.
+Art. 75-C. A prestação de serviços na modalidade de teletrabalho deverá constar expressamente do instrumento de contrato individual de trabalho.
 § 1º Poderá ser realizada a alteração entre regime presencial e de teletrabalho desde que haja mútuo acordo entre as partes, registrado em aditivo contratual.
 § 2º Poderá ser realizada a alteração do regime de teletrabalho para o presencial por determinação do empregador, garantido prazo de transição mínimo de quinze dias, com correspondente registro em aditivo contratual.
-§ 3º O empregador não será responsável pelas despesas resultantes do retorno ao trabalho presencial, na hipótese do empregado optar pela realização do teletrabalho ou trabalho remoto fora da localidade prevista no contrato, salvo disposição em contrário estipulada entre as partes.
+§ 3º O empregador não será responsável pelas despesas resultantes do retorno ao trabalho presencial, na hipótese de o empregado optar pela realização do teletrabalho ou trabalho remoto fora da localidade prevista no contrato, salvo disposição em contrário estipulada entre as partes.
