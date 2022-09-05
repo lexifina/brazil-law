@@ -1,0 +1,27 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 30/08/2022 a 05/09/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+Trata-se de agravo interno interposto por LAPELE MÓVEIS TAPETES E CARPETES LTDA. contra decisão de minha lavra, em que não conheci do agravo, visto quenão impugnou especifica e completamente os fundamentos da decisão que inadmitiuo recurso especial.
+A parte agravante alega, em síntese, que são inaplicáveis ao recurso especial os precedentes firmados em recursos repetitivos (Temas 287 e 578 do STJ) e que os fundamentos da decisão do Tribunala quoforam todos impugnados no agravo em recurso especial, havendo erro material na decisão ora agravada por referir-se a tema não submetido no recurso (honorários).
+Impugnação apresentada.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. JUÍZO DE PRELIBAÇÃO NEGATIVO. DECISÃO DO TRIBUNAL DE ORIGEM. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA.
+1. De acordo com o disposto nos arts. 253, parágrafo único, I, do RISTJ e 932, III, do CPC/2015, compete à parte agravante infirmar especificamente os fundamentos adotados pela Corte de origem para obstar o seguimento do recurso especial, mostrando-se inadmissível o agravo que não se insurge contra todos eles.
+2. Hipótese em que o recorrente não se desincumbiu do ônus de impugnar, de forma clara e objetiva, as razões que levaram à inadmissibilidade do apelo nobre.
+3. Agravo interno desprovido.
+VOTO
+Os argumentos ora deduzidos já foram suficientemente analisados e desacolhidos quando proferi a decisão ora impugnada, razão por que a mantenho pelos seus próprios fundamentos.
+Como assinalado na decisão agravada,a controvérsia relativa à legitimidade da penhora ocorrida sobre estabelecimento comercial eà verificação,no caso concreto, do respeito à menor onerosidade da execução (assim como relativa ao ônus de se demonstrar a imperiosa necessidade de afastar a penhora sobre determinado bem),comoafirmado no juízo denegatório, estãorelacionadas àsteses consolidadas por esta Corte Superior no julgamento dos Recursos Especiaisrepetitivos 1.337.790/PR (Tema578) e1.114.767/RS (Tema287).
+Assim, tendo o juízo de admissibilidade negado seguimento ao apelo extremo, quanto ao ponto, com base no art. 1.030, I, "b", do CPC/2015, eventual discussão dos tópicos acima referidos deveria ser provocada por meio de agravo interno ao Tribunal de origem, nos termos do art. 1.030, § 2º, c/c 1.021 do CPC/2015, o que não ocorreu na presente hipótese. Logo, inviável a análise desse tema pelo STJ.
+Dito isso, não obstantet o erro material apontado pelo agravante acerca da referência aos honorários de sucumbência na decisão ora agravada, no que concerne à inadmissão com fulcro no inciso "v"do art. 1.030 do CPC, constatoque a parte deixou de impugnar, específica e corretamente, a aplicação do óbice da Súmula 211 do STJ à alegada violação do art. 873, III, do CPC/2015 e a incidênciada Súmula 7 do STJ quanto à penhorabilidade do bem imóvel em questãoe quanto à excessiva onerosidade da penhora promovida.
+Isso porque a parte adotouargumentação genérica para afastar os mencionados óbices sumulares, consoante se extrai do seguinte trecho das razões de agravo(e-STJ fls. 404/405):
+A decisão recorrida que negou seguimento ao Recurso Especial ponderou que para análise do recurso há óbice em precedentes do STJ, bem como encontra óbice na Súmula 07 do STJ, além da súmula 211 do STJ, no tocante a alegação de violação ao art. 873, inc. III do CPC.
+O Recurso Especial foi negado sob o fundamento do óbice da Súmula 211 e 07, do STJ, contudo, todas as matérias foram prequestionadas nos autos da ação, bem como com relação a Súmula 07 quanto a alegação de violação ao princípio da menor onerosidade, não há que se falar em reexame de prova, isso porque, a agravante amplamente demonstrou violação a legislação infraconstitucional.
+Sendo assim, espera o ora agravante, seja apreciado o agravo, com acolhimento do Recurso Especial, vez que restou configurada a violação ao art. 1.238 do CC, ao art. 835 do CPC, ao art. 833, inc. V do CPC, ao art. 873, inc. III do CPC, ao art. 805 do CPC, o que impende que seja acolhido o recurso especial, pois devidamente demonstrada a divergência de interpretação a legislação federal e jurisprudencial em relação a outros tribunais.
+Especialmente em relação à Súmula 7 do STJ,é de rigor que, além da contextualização do caso concreto, a impugnação contenha as devidas razões pelas quais se entende ser possível o conhecimento da pretensão independentemente do reexame fático-probatório, mediante, por exemplo, a apresentação do cotejo entre as premissas fáticas e as conclusões delineadas no acórdão recorrido e sua tese recursal, a fim de demonstrar a prescindibilidade do reexame fático-probatório, o que não se observa no presente caso.
+Por fim, embora não merecedor de acolhimento, o agravo interno, no caso, não se revela manifestamente inadmissível ou improcedente, razão pela qual não deve ser aplicada a multa do § 4º do art. 1.021 do CPC/2015.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
