@@ -7,6 +7,7 @@ II - (VETADO).
 § 4º O benefício de que trata este artigo não pode ser acumulado pelo beneficiário com qualquer outro no âmbito da seguridade social ou de outro regime, salvo os da assistência médica e da pensão especial de natureza indenizatória.
 § 5º A condição de acolhimento em instituições de longa permanência não prejudica o direito do idoso ou da pessoa com deficiência ao benefício de prestação continuada.
 § 6º A concessão do benefício ficará sujeita à avaliação da deficiência e do grau de impedimento de que trata o § 2º, composta por avaliação médica e avaliação social realizadas por médicos peritos e por assistentes sociais do Instituto Nacional de Seguro Social - INSS.
+§ 6º-A. O INSS poderá celebrar parcerias para a realização da avaliação social, sob a supervisão do serviço social da autarquia.
 § 7º Na hipótese de não existirem serviços no município de residência do beneficiário, fica assegurado, na forma prevista em regulamento, o seu encaminhamento ao município mais próximo que contar com tal estrutura.
 § 8º A renda familiar mensal a que se refere o § 3º deverá ser declarada pelo requerente ou seu representante legal, sujeitando-se aos demais procedimentos previstos no regulamento para o deferimento do pedido.
 § 9º Os rendimentos decorrentes de estágio supervisionado e de aprendizagem não serão computados para os fins de cálculo da renda familiar per capita a que se refere o § 3º deste artigo.
