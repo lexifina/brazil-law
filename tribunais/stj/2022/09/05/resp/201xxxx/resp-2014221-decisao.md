@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de Recurso Especial, com fundamento no art. 105, III, "a" e "c", da Constituição da República, contra acórdão assim ementado:
+DIREITO PROCESSUAL CIVIL. RECURSO DE APELAÇÃO. AGRAVO INTERNO. JULGAMENTO PELO RELATOR. DECISÃO MONOCRÁTICA. DESENVOLVIMENTO, COM FUNDAMENTAÇÃO E DISPOSITIVO (PER RELATIONEM). ADOÇÃO DOS FUNDAMENTOS E DOS DISPOSITIVOS DA SENTENÇA, O PARECER JUSTIFICADO DO MPE E OS ARGUMENTOS LANÇADOS NAS PEÇAS RECURSAIS. NULIDADE INEXISTENTE. JURISPRUDÊNCIAS PACIFICADAS PELO SUPREMO TRIBUNAL FEDERAL, SEDIMENTADAS PELO SUPERIOR TRIBUNAL DE JUSTIÇA E SOLIDIFICADAS PELOS TRIBUNAIS ESTADUAIS. REPETIÇÃO DOS ARGUMENTOS. MATÉRIAS JÁ CONHECIDAS E TRATADAS POR FORTES JULGADOS DOS TRIBUNAIS SUPERIORES E DOS TRIBUNAIS ESTADUAIS. DECISÃO MONOCRÁTICA MANTIDA.
+I - O uso da motivação per relationem, também denominada de motivação aliunde, motivação por referência, motivação referenciada, motivação por remissão ou motivação remissiva, a qual o relator adota, na sua decisão, fundamentos contidos na sentença, parecer do membro do MPE, dos argumentos contidos nas peças recursais, jurisprudências, precedentes, Súmulas, Súmulas Vinculantes dos Tribunais Superiores. Acórdãos dos Tribunais Estaduais ou de decisões pacificadas e calcificadas pelas Câmaras Isoladas Cíveis. O Ministro do STF que jamais deixará de ser um ícone, o Mestre Aires de Britto reafirmou que o Judiciário deve ser proativo, neutro e apartidário. E disse que a justiça brasileira pode adotar o processo de otimização (rendimento ótimo, criando condições favoráveis e gestão eficiente dos processos) e o tempo de duração dos processos judiciais, desde que haja bom senso da sociedade e vontade dos juízes. Ora, otimizar significa julgar sem entraves e obstáculos. O uso da técnica monocrática traduz inúmeros vieses na administração dos processos: a superação de indicadores negativos; quebra dos gargalos das fases processuais; novas texturas dos processos; identificação das falhas; e resultados eficientes. O cidadão brasileiro quer que o seu processo seja decidido. Seja favorável ou não. É uma conquista do Estado Democrático de Direito. E jamais provocará quebras, contorcionismos, quiasmas, feridas profundas no artigo 93, inciso IX, da Bíblia Republicana Constitucional.
+II - A reiteração, em agravo interno, de argumentos já examinados e repelidos, de forma clara e coerente, pelo relator, ao julgar monocraticamente o recurso de apelação, impõe o desprovimentodo recurso.
+III - Agravo interno desprovido.
+A parte recorrente afirma que houve, além de divergência jurisprudencial, ofensa aos arts.489, § 1º, 927, 1.022 e 1.025 do CPC/2015. Alega:
+No caso em concreto não poderia ocorrer da limitação temporal da coisa julgada do processo coletivo - nº. 14.440/2000, por força do Incidente de Assunção de Competência - nº.18.193/2018, instaurado no recurso de apelação - nº. 53.236/2017 - no Egrégio TJMA, derivado do pedido de cumprimento de sentença individual da sentença coletiva, uma vez que não ocorreu nos autos principais do Processo Coletivo - nº. 14.440/2000, ofendendo a coisa julgada e descumprindo precedente qualificado - Resp 1.235.513/AL.
+Sobretudo, com a máxima vênia, o julgamento posto aos autos não seguiu o precedente qualificado - Resp 1.235.513/AL, de caráter obrigatório inclusive com aplicação de ofício por força do art. 489, §1º, inciso VI do NCPC c/c art. 1.022, parágrafo único, inciso I do NCPC c/c art. 927, inciso III do NCPC.
+Outrossim, a questão central objeto do apelo nobre, ultrapassa o enunciado sumular 282 do STF (aplicável por analogia), uma vez que questão federal suscitada, não foi apreciada adequadamente, sendo que na decisão recorrida foi ventilada a matéria objeto do recurso.
+Contrarrazões às fls. 592-610, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 28.7.2022.
+Preliminarmente, constata-se que não se configura a ofensa aos arts. 489 e 1.022 do Código de Processo Civil/2015, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, tal como lhe foi apresentada. A propósito:
+ADMINISTRATIVO. PROCESSUAL CIVIL. (..) VIOLAÇÃO AOS ARTS. 489, § 1º E 1.022, II, DO CPC/15. (..)
+1. Verifica-se não ter ocorrido ofensa aos arts. 489, § 1º e 1.022, II do CPC/15, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos presentes autos.
+(..)(AgInt no REsp 1.630.265/RS, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 06/12/2016)
+PROCESSUAL CIVIL E ADMINISTRATIVO. (..) VIOLAÇÃO DOS ARTIGOS 489 E 1.022 DO CPC/2015. INOCORRÊNCIA. (..)
+1. Inexiste violação aos artigos 489 e 1.022 do CPC/2015, quando não se vislumbra omissão, obscuridade ou contradição no acórdão recorrido capaz de torná-lo nulo, especialmente se o Tribunal a quo apreciou a demanda de forma clara e precisa.
+(..)(AgInt no AREsp 801.104/DF, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 13/10/2016).
+No mérito, a irresignação não pode ser conhecida.
+Isso porque o art. 927 do Código de Processo Civil não tem comando para infirmar as conclusões do aresto no que tange à ausência de legitimidade da parte para a execução.
+Na ausência de pertinência do dispositivo legal citado, aplica-se, no ponto, por analogia, a Súmula 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".A jurisprudência do STJ é pacífica nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. CORREÇÃO MONETÁRIA E JUROS DE MORA. TERMO INICIAL. ALEGADA VIOLAÇÃO AOS ARTS. 397 E 398 DO CÓDIGO CIVIL E AO ART. 1º, § 1º, DA LEI 6.899/91. AUSÊNCIA DE PREQUESTIONAMENTO.SÚMULAS 211 DO STJ E 282/STF. DEFICIÊNCIA DE FUNDAMENTAÇÃO DO RECURSO ESPECIAL. SÚMULA 284/STF. AGRAVO REGIMENTAL IMPROVIDO.
+(..)
+V. Os dispositivos apontados como violados, nas razões do Recurso Especial, são incapazes de infirmar a conclusão do acórdão recorrido. Nesse contexto, a ausência de pertinência dos dispositivos legais tidos por violados implica deficiência de fundamentação, nos termos da Súmula 284/STF. Nesse sentido: STJ, AgRg no AREsp 78.802/PR, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 15/05/2012.
+VI. Agravo Regimental improvido.
+(AgRg no AREsp 678.998/MG, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe 22/11/2016)
+Da mesma maneira, éinviável o Recurso Especial, fundado na alínea "a" do permissivo constitucional, que não especifica quais normas legais foram violadas, por incidência da mesma súmula.Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE.ALEGADA VIOLAÇÃO À LEI FEDERAL.DISPOSITIVOS NÃO INDICADOS. FUNDAMENTAÇÃO DEFICIENTE.SÚMULA N. 284 DO STF. AFASTAMENTO PARA TRATAMENTO DE HANSENÍASE. REPARAÇÃO DE DANOS MORAIS. AUSÊNCIA DE SIMILITUDE ENTRE OS ARESTOS CONFRONTADOS. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+(..)
+II - Quanto à alegação de imprescritibilidade, observo que o Recorrente não apontou o dispositivo de lei federal que teria sido violado pelo acórdão recorrido, circunstância que atrai, por analogia, a incidência da orientação contida na Súmula 284, do Supremo Tribunal Federal.
+(..)
+VI - Agravo Interno improvido.
+(AgInt nos EDcl no REsp 1.905.034/SC, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe 1/7/2021)
+PROCESSUAL CIVIL. ACIDENTE DO TRABALHO. EXECUÇÃO.CONTROVÉRSIA A RESPEITO DA POSSIBILIDADE DE INCIDÊNCIA DE JUROS MORATÓRIOS APÓS A DATA DA ELABORAÇÃO DA CONTA ORIGINAL. ALEGADA VIOLAÇÃO DO ART. 1.022 DO CPC/2015.DEFICIÊNCIA NA FUNDAMENTAÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO DE MATÉRIA.
+(..)
+III - Evidencia-se a deficiência na fundamentação recursal quando o recorrente não indica qual dispositivo de lei federal teria sido violado, bem como não desenvolve argumentação a fim de demonstrar em que consiste a ofensa aos dispositivos tidos por violados.
+IV - A via estreita do recurso especial exige a demonstração inequívoca da ofensa ao dispositivo mencionado nas razões do recurso, bem como a sua particularização, a fim de possibilitar exame em conjunto com o decidido nos autos, sendo certo que a falta de indicação dos dispositivos infraconstitucionais tidos como violados caracteriza deficiência de fundamentação, fazendo incidir, por analogia, o disposto no enunciado n. 284 da Súmula do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia." (..)
+VII - Agravo interno improvido.
+(AgInt no AREsp 1.746.177/SP, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe 2/6/2021)
+Conforme o Enunciado Administrativo 7/STJ, condeno o recorrente ao pagamento de honorários advocatícios em 10% (dez por cento) sobre o valor total da verba sucumbencial fixada nas instâncias ordinárias, com base no § 11 do art. 85 do CPC/2015.
+Por tudo isso, conheço parcialmente do Recurso Especial, tão somente quanto à violação dos arts. 489 e 1.022 do CPC/2015, e, nessa extensão, nego-lhe provimento.
+Publique-se.
+Intimem-se.
