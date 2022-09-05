@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial (art. 105, III, "a" e "c", da CF) interposto contra acórdãocuja ementa é a seguinte:
+PREVIDENCIÁRIO. PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO. REVISIONAL. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. ATIVIDADE ESPECIAL. EXPOSIÇÃO A AGENTES NOCIVOS. RUÍDO. NÍVEL SUPERIOR AO LIMITE DE TOLERÂNCIA. PREENCHIMENTO DO PPP.
+I - O objetivo dos embargos de declaração, de acordo com o art.
+1.022 do Novo Código de Processo Civil de 2015, é sanar eventual obscuridade, contradição, omissão ou erro material.
+II - Tendo em vista o dissenso jurisprudencial sobre a possibilidade de se aplicar retroativamente o disposto no Decreto 4.882/2003, para se considerar prejudicial, desde 05.03.1997, a exposição a ruídos de 85 decibéis, a questão foi levada ao Colendo STJ que, no julgamento do Recurso Especial 1398260/PR, em 14.05.2014, submetido ao rito do artigo 1.036 do Novo Código de Processo Civil de 2015, Recurso Especial Repetitivo, fixou entendimento pela impossibilidade de se aplicar de forma retroativa o Decreto 4.882/2003, que reduziu opatamar de ruído para 85 decibéis (REsp 1398260/PR, Rel. Ministro HERMAN BENJAMIN, PRIMEIRA SEÇÃO, julgado em 14/05/2014, DJe 05/12/2014).
+III - Mantidos os termos do acórdão embargado que reconheceu a especialidade dos períodos de 01.07.1974 a 26.11.1978 (MAR-GIRIUS CONTINENTAL ICE LTDA.), por exposição a ruído de 88 decibéis, nível superior ao limite de 80dB; e de 02.03.2012 a 31.01.2013 (DISTRIBUIDORA DE CER MICA NOVA IMAGEM, por exposição a ruído de 85,1 decibéis, nível superior ao limite de 85dB, conforme laudo pericial judicial, agente nocivo previsto nos códigos 1.1.6 do Decreto 53.831/1964 e 2.0.1 do Decreto 3.048/1999 (Anexo IV).
+IV - Deve-se atentar ao fato de que o PPP não traz campo específico para preenchimento da metodologia adotada para fins de aferição do ruído, motivo pelo qual a ausência de indicação de histograma ou memória de cálculo não elide as conclusões vertidas no formulário previdenciário. Nesse sentido: AC n. 0031607-94.2014.4.03.9999/SP, TRF3, Oitava Turma, Rel. Des. Fed. Luiz Stefanini, DJ 24.04.2019, DJ-e 17.06.2019.
+V - Embargos de declaração opostos pelo réu rejeitados.
+Em seu Recurso Especial, o agravante sustenta, em síntese:
+Como se vê, o acórdão regional ao reconhecer período especial em razão do agente ruído com exposição inferior ao limite legal, , o qual não observou o julgado proferido pelo STJ no RESP repetitivo nº 1.398.260 não fez qualquer tipo de ressalva, muito menos com relação à média ou pico do ruído. , violando, dessa forma, 27 as normas acima mencionadas que determinam a observância pelos Tribunas dos julgados proferidos em sede de recursos repetitivos.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 7.7.2022.
+O Tribunal de origem, ao decidir avexata quaestio,consignou:
+Assim, mantidos os termos do acórdão embargado que reconheceu a especialidade dos períodos de 01.07.1974 a 26.11.1978 (MAR-GIRIUS CONTINENTAL ICE LTDA.), por exposição a ruído de 88 decibéis, nível superior ao limite de 80dB; e de 02.03.2012 a 31.01.2013 (DISTRIBUIDORA DE CERÂMICA NOVA IMAGEM, por exposição aruído de 85,1 decibéis, nível superior ao limite de 85dB, conforme laudo pericial judicial (fls. 398/411), agente nocivo previsto nos códigos 1.1.6 do Decreto 53.831/1964 e 2.0.1 do Decreto 3.048/1999 (Anexo IV).
+Ademais, deve-se atentar ao fato de que o PPP não traz campo específico para preenchimento da metodologia adotada para fins de aferição do ruído, motivo pelo qual a ausência de indicação de histograma ou memória de cálculo não elide as conclusões vertidas no formulário previdenciário. Nesse sentido: AC n. 0031607-94.2014.4.03.9999/SP, TRF3, Oitava Turma, Rel.Des. Fed. Luiz Stefanini, DJ 24.04.2019, DJ-e 17.06.2019.
+Na hipótese dos autos, extrai-se do acórdão recorrido e das razões de Recurso Especial que o acolhimento da pretensão recursal demanda reexame do contexto fático-probatório, mormente para reavaliar a natureza especial do trabalho desenvolvido pelo segurado, o que não se admite ante o óbice da Súmula 7/STJ.
+Por tudo isso, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
