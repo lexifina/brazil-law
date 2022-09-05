@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido liminar, impetrado em favor de ANDERSON ARIEL BOTELHO contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação n. 0069556-92.2010.8.26.0114.
+Consta nos autos que o Paciente foi denunciado como incurso no art. 33,caput, da Lei n. 11.343/2006, em razão da apreensão de49,3g de cocaína.
+O Juízo de primeira instância julgou parcialmente procedente a denúncia, para desclassificar a conduta para aquela prevista no art. 28 da Lei n. 11.343/2006, fixando ao réu a pena de prestação de serviços à comunidade, pelo prazo de 3 (três) meses.
+O Ministério Público estadual interpôs recurso de apelação, que foi provido pelo Tribunal de origem, para condenar o Paciente às penas de 5 (cinco) anos de reclusão, em regime inicial fechado, e 500 (quinhentos) dias-multa, como incurso no art. 33 da Lei de Drogas.
+Após concessão dehabeas corpuspelo Supremo Tribunal Federal, no qual foi determinada a aplicação da causa de diminuição prevista no § 4.º do art. 33 da Lei n. 11.343/2006, o Tribunal de origem redimensionou as penas, que ficaram em 4 (quatro)anos e 2 (dois) meses de reclusão e 416 (quatrocentos e dezesseis) dias-multa.
+Nestewrit, o Impetrante sustenta a nulidade da condenação, em razão de a busca e apreensão e prisão do Paciente ter sido realizada por guardas municipais.
+Requer, liminarmente e no mérito, seja declarada a nulidade do feito.
+É o relatório. Decido.
+Constato que o presentehabeas corpusfoi impetrado contra acórdão do Tribunal de Justiça do Estado de São Paulojá transitado em julgado. Diante dessa situação, não deve ser conhecido o presentewrit,manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte.
+De fato, nos termos do art. 105, inciso I, alíneae, da Constituição da República, compete ao Superior Tribunal de Justiça,originariamente, "as revisões criminais e as ações rescisórias de seus julgados". Sobre a questão, cito os seguintes precedentes das Turmas que compõem a Terceira Seção desta Corte:
+"HABEAS CORPUS.PENAL. PROCESSO PENAL. HOMICÍDIO. TRÂNSITO EM JULGADO. SUBSTITUTIVO DE REVISÃO CRIMINAL. NÃO INAUGURADA A COMPETÊNCIA DO STJ. SUPRESSÃO. NULIDADE. AUSÊNCIA DE INTIMAÇÃO PESSOAL DA SENTENÇA CONDENATÓRIA. RÉU INDEFESO EM PLENÁRIO. NÃO OCORRÊNCIA.HABEAS CORPUSNÃO CONHECIDO.
+1. Ohabeas corpusfoi impetrado contra acórdão do Tribunal de Justiça do Estado de São Paulo transitado em julgado; é, portanto, substitutivo de revisão criminal. Por força do art. 105, I,"e", da Constituição Federal, a competência desta Corte para processar e julgar revisão criminal limita-se às hipóteses de seus próprios julgados.Como não existe, neste Tribunal, julgamento de mérito passível de revisão em relação à condenação sofrida pelo paciente, forçoso reconhecer a incompetência deste Tribunal para o processamento do presente pedido.
+2. Ademais, as questões aventadas nestehabeas corpusnão foram sequer objeto de análise pelo Tribunal a quo, o que impede também o seu conhecimento nesta Corte Superior, sob pena de indevida supressão de instância, pois até mesmo as nulidades absolutas devem ser objeto de prévio exame na origem a fimde que possam inaugurar a instância extraordinária. ..
+5.Habeas corpusnão conhecido." (HC 288.978/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, Rel. p/ acórdão Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 15/03/2018, DJe 21/05/2018; sem grifos no original.)
+"AGRAVO REGIMENTAL EMHABEAS CORPUS.PORTE ILEGAL DE ARMA DE FOGO DE USO RESTRITO.WRITIMPETRADO CONTRA ACÓRDÃO TRANSITADO EM JULGADO SUBSTITUTIVO DE REVISÃO CRIMINAL. INEXISTÊNCIA DE JULGAMENTO DE MÉRITO NESTA CORTE. NÃO INAUGURADA A COMPETÊNCIA DO STJ. INADMISSIBILIDADE. FUNDAMENTO SUBSIDIÁRIO. APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA. TEMA NÃO ANALISADO NA ORIGEM. INDEVIDA SUPRESSÃO DE INSTÂNCIA.
+Agravo regimental improvido."(AgRg no HC 561.185/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 10/03/2020, DJe 16/03/2020; sem grifos no original.)
+"AGRAVO REGIMENTAL EMHABEAS CORPUS.TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O NARCOTRÁFICO. DOSIMETRIA DE PENA. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS.QUANTUMDE AUMENTO. DISCRICIONARIEDADE DO JULGADOR. CAUSA DE DIMINUIÇÃO DE PENA DO ART. 33, § 4º, DA LEI N. 11.343/2006. INAPLICABILIDADE. CONDENAÇÃO PELO ART. 35 DA LEI DE DROGAS. SENTENÇA TRANSITADA EM JULGADO. INEXISTÊNCIA DE FLAGRANTE ILEGALIDADE NA APLICAÇÃO DA REPRIMENDA. HIPÓTESE DE NÃO CONHECIMENTO DOMANDAMUS.MANUTENÇÃO DA DECISÃO POR SEUS PRÓPRIOS FUNDAMENTOS. AGRAVO REGIMENTAL IMPROVIDO.
+ ..
+4. Tratando-se de impetração que se destina a atacar acórdão proferido em sede de apelação criminal, já transitado em julgado, contra o qual seria cabível a interposição de revisão criminal, depara-se com flagrante utilização inadequada da via eleita, circunstância que impede o seu conhecimento.
+ ..
+6. Agravo regimental improvido." (AgRg no HC 486.185/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 23/04/2019, DJe 07/05/2019; sem grifos no original.)
+Ressalte-se que não se verifica ilegalidade patente a ser sanada de ofício, pois atesesuscitadana impetração não foiapreciadapelo Tribunala quo, de modo que não podeser conhecidaoriginariamente por este Superior Tribunal de Justiça, sob pena de supressão de instância.
+A propósito:
+"EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL NOHABEAS CORPUS.PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA.MODUS OPERANDIE PERICULOSIDADE DO AGENTE. AUSÊNCIA DE CONTEMPORANEIDADE. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL IMPROVIDO.
+ ..
+4.A alegada ausência de contemporaneidade não foi apreciada pelo Tribunal de origem, de modo que o debate diretamente por esta Corte superior incorreria em indevida supressão de instância, inexistindo, desse modo, omissão a ser sanada.
+5. Embargos de declaração recebidos como agravo regimental, ao qual se nega provimento."(EDcl no HC 542.121/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 17/12/2019, DJe 03/02/2020; sem grifos no original.)
+Ante o exposto, com fundamento nos arts. 34, inciso XX, e 210, do RISTJ, INDEFIRO LIMINARMENTE a petição inicial.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO ILÍCITO DE ENTORPECENTES. INSURGÊNCIA CONTRA ACÓRDÃO TRANSITADO EM JULGADO. MANEJO DOWRITCOMO REVISÃO CRIMINAL. DESCABIMENTO. ART. 105, INCISO I, ALÍNEAE, DA CONSTITUIÇÃO FEDERAL. PETIÇÃO INICIAL INDEFERIDA LIMINARMENTE.
