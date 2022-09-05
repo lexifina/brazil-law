@@ -1,2 +1,4 @@
 Art. 26-B. O auxílio-inclusão será devido a partir da data do requerimento, e o seu valor corresponderá a 50% (cinquenta por cento) do valor do benefício de prestação continuada em vigor.
 § 1º Ao requerer o auxílio-inclusão, o beneficiário autorizará a suspensão do benefício de prestação continuada, nos termos do art. 21-A desta Lei.
+§ 2º O auxílio-inclusão será concedido automaticamente pelo INSS, observado o preenchimento dos demais requisitos, mediante constatação, pela própria autarquia ou pelo Ministério da Cidadania, de acumulação do benefício de prestação continuada com o exercício de atividade remunerada.
+§ 3º Na hipótese do § 2º deste artigo, o auxílio-inclusão será devido a partir do primeiro dia da competência em que se identificou a ocorrência de acumulação do benefício de prestação continuada com o exercício de atividade remunerada, e o titular deverá ser notificado quanto à alteração do benefício e suas consequências administrativas.
