@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de THAIS RODRIGUES DE CARVALHO SANTOS em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (Apelação n. 1501311-06.2019.8.26.0189).
+Em primeiro grau, a pacientefoicondenadaàs penas de 5 anos de reclusão em regime inicial semiaberto e de 500 dias-multa, pela prática do crime descrito no art. 33, caput, da Lei n. 11.343/2006, c/c o art. 29, caput, do Código Penal.
+O Tribunal de origem deu provimento ao recurso da acusação para exasperar a pena-base em 1/6, diante da quantidade de entorpecentes apreendida (1.970 g de maconha), mantendo o afastamento do redutor.
+Nesta Corte, foi impetrado o HC n. 662.528/SP, tendo sido concedida a ordempara reconhecer o direito à consideração, na dosimetria da pena, da aplicação da causa de diminuição de pena prevista no § 4º do art. 33 da Lei n. 11.343/2006, que deverá ser adequadamente modulada pelo julgador em fração a ser motivadamente fixada.
+O Juízo de primeiro grau refez a dosimetria nos termos da decisão supra. Anova pena da paciente ficou estabelecida em 1 ano e 8 meses de reclusãono regime inicial abertoe em 166 dias-multa,substituídaa pena privativa de liberdade por duas penas restritivas de direito.
+Entretanto, o Ministério Público estadual interpôs nova apelação e a Corte a quo deu provimento paraaumentar apena da paciente para 4 anos, 10 meses e 10 dias de reclusão, no regime inicial fechado e, ainda, afastando a substituição da pena privativa de liberdade por restritiva de direito.
+Nas razões do presente writ, a defesa sustenta que a paciente está sofrendo constrangimento ilegal ocasionado pelodescumprimento da decisão que concedeu o direito ao regime adequado e à conversão da pena privativa de liberdade por restritivas de direitos.
+É o relatório. Decido.
+Ainda que inadequada a impetração dehabeas corpusem substituição à revisão criminal ou ao recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o STJ considera passível de correção de ofício o flagrante constrangimento ilegal.
+Nos casos em que a pretensão esteja em conformidade ou em contrariedade com súmula ou jurisprudência pacificada dos tribunais superiores, a Terceira Seção desta Corte admite o julgamento monocrático da impetração antes da abertura de vista ao Ministério Público Federal, em atenção aos princípios da celeridade e da efetividade das decisões judiciais, sem que haja ofensa às prerrogativas institucionais do parquet ou mesmo nulidade processual (AgRg no HC n. 674.472/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 10/8/2021; AgRg no HC n. 656.521/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 26/4/2021; e AgRg no HC n. 530.261/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 7/10/2019).
+Sendo essa a hipótese dos autos, passo ao exame do mérito da impetração.
+O impetrante alega o descumprimento pelo Juízo de primeiro grau da ordem concedida de ofício nos termos da decisão do HC n.662.528/SP.
+Ressalte-se que a via manejada é manifestamente imprópria aos fins pretendidos, uma vez que noticia descumprimento de decisão do STJ, o que atrairia para a espécie o manejo de reclamação, nos termos dos arts. 105, I, f, da Constituição Federal, 988 do Código de Processo Civil e 187 do Regimento Interno desta Corte.
+Ante o exposto,com fundamento no art. 34, XX, do RISTJ,não conheço do presentehabeas corpus, ficando prejudicado o pedido de liminar.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
