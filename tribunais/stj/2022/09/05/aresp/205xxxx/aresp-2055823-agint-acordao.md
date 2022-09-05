@@ -1,0 +1,65 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 30/08/2022 a 05/09/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão da Presidência desta Corte, que conheceu do agravo para não conhecer do recurso especial, por incidência da Súmula 284/STF e não comprovação do dissídio jurisprudencial.
+O agravante alega que (e-STJ Fl.555):
+ ..
+Na sequencia, o douto Ministro Presidente alega que incide a Súmula 284 do STF, porém, com a devida vênia, não há qualquer deficiência na fundamentação do recurso especial, sendo claramente possível compreender a controvérsia, eis que a parte autora postula a aplicação proporcional do fator previdenciário, ou seja, aplicação do fator apenas sobre o tempo de serviço comum, tese que não foi analisado por esta Colenda Corte.
+ ..
+Ainda, que(e-STJ Fl.555):
+ ..
+Aliás, cumpre destacar que o recorrente atendeu expressamente os requisitos do art. 1.029, § 1º, do CPC, tendo em vista que promoveu escorreitamente o cotejo analítico frente ao paradigma sinalizado, bem como por ter apontado o dispositivo de Lei Federal afrontado, estando evidentemente rebatidos todos os pontos que serviram como razão de decidir.
+ ..
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APLICABILIDADE DO CPC/2015. INCIDÊNCIA PROPORCIONAL DO FATOR PREVIDENCIÁRIO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. RAZÕES DISSOCIADAS. SÚMULA 284/STF. DIVERGÊNCIA JURISPRUDENCIAL. ANÁLISE PREJUDICADA.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Estando as razões recursais dissociadas da fundamentação do acórdão recorrido, o recurso especial não pode ser conhecido no particular, nos termos da Súmula 284/STF.
+3. A jurisprudência desta Corte é firme no sentido de que a análise da divergência jurisprudencial fica prejudicada quando a tese sustentada já foi afastada no exame do recurso especial pela alínea a do permissivo constitucional.
+4.Não se conhece do recurso especial interposto com base na alínea "c" do permissivo constitucional quando a divergência não é demonstrada nos termos em que exigido pela legislação processual de regência (1.029, § 1º, do CPC/2015 e do art. 255, §§ 1º e 2º, do RISTJ). No caso, o dissídio não foi comprovado, tendo em vista que não foi realizado o devido cotejo analítico, com a demonstração clara do dissídio entre os casos confrontados, identificando os trechos que os assemelhem, não se oferecendo, como bastante, a simples transcrição de ementas ou votos.
+5. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Dito isso, observa-se que o presente recurso não merece prosperar, tendo em vista que dos argumentos apresentados no agravo internonão se vislumbram razões para reformar a decisão agravada.
+Isso porqueo alegado pelo recorrente sobre eventual ofensa à lei federal não está devidamente particularizado de forma clara e específica e não tem em si correspondência com os fundamentos aplicados pelo acórdão recorrido, situação que impede a exata compreensão da controvérsia deduzida.
+No caso dos autos, conforme bem delineado na decisão da Presidência, o acórdão doTribunal de origem trouxe em sua fundamentação os seguintes aspectos (e-STJ Fl.444):
+ ..
+Requer ainda o autor a aplicação proporcional do fator previdenciário, ou seja, sua incidência apenas sobre os períodos não considerados especiais. Não há no ordenamento jurídico pátrio qualquer previsão legal em tal sentido. No caso concreto, em 16.12.1998 o autor não completava o tempo de serviço/contribuição mínimo necessário à concessão do benefício. Assim, impõe-se a aplicação do fator previdenciário, devendo essa ocorrer de forma integral, ante a total ausência de previsão de maneira diversa. Neste sentido:
+Não há de se falar na aplicação proporcional do fator previdenciário, com sua exclusão para períodos em que exercidas atividades especiais, pois o que determina a incidência do fator previdenciário é a espécie do benefício e não a natureza da atividade prestada nos períodos contabilizados para sua concessão.(TRF4, Apelrex 0018838-90.2015.4.04.9999, Quinta Turma, Relator Franciso Donizete Gomes, D.E. 09.06.2017).
+ ..
+Tem-se, pois, quea parte recorrente não impugnou, de forma específica, referidos fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia". Incidência, ao caso, da Súmula 284/STF.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. COMPETÊNCIA DO JUIZADO ESPECIAL FEDERAL. RETIFICAÇÃO DO VALOR DA CAUSA. DEFICIÊNCIA NA ARGUMENTAÇÃO RECURSAL.SÚMULA 284/STF. VALOR DA INDENIZAÇÃO POR DANOS MORAIS. REEXAME. IMPOSSIBILIDADE. SÚMULA 7/STJ. DISSÍDIO NÃO DEMONSTRADO. PRECEDENTES.
+1. Na espécie, resta evidente que a argumentação recursal se revela deficiente e inapta a demonstrar efetivamente a alegada impugnação, porquanto as razões do recurso revelam-se dissociadas dos fundamentos aplicados pelo aresto a quo, o que impede o conhecimento do apelo especial, ante à incidência da Súmula 284/STF.
+2. É assente na jurisprudência do Superior Tribunal de Justiça que a indenização por danos morais fixada em quantum sintonizado aos princípios da razoabilidade e da proporcionalidade não enseja a possibilidade de interposição do recurso especial, dada a necessidade de exame de elementos de ordem fática, cabendo sua revisão apenas em casos de manifesta excessividade ou irrisoriedade do valor arbitrado, o que não se evidencia no presente caso. Incidência da Súmula 7 do STJ.
+3. A jurisprudência desta Corte Superior se firmou no sentido de que a interposição do recurso especial pela alínea "c" do permissivo constitucional está sujeita aos requisitos previstos no art. 541 do CPC/1973 (art. 1029, § 1º, do CPC/2015), e no art. 255, § 1º, do RISTJ.
+4. Agravo interno não provido.
+(AgInt no AREsp 1885754/RS, Rel . Ministro Benedito Gonçalves, Primeira Turma, julgado em 21/03/2022, Dje de 24/03/2022) (grifo meu).
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL AMBIENTAL. FUNDAMENTAÇÃO DO JULGADO. RAZÕES RECURSAIS DISSOCIADAS. APLICAÇÃO DA SÚMULA 284/STF. RESPONSABILIDADE OBJETIVA. NEXO DE CAUSALIDADE. IMPRESCINDIBILIDADE. MODIFICAÇÃO DAS CONCLUSÕES DO JULGADO A QUO. REEXAME DE CONTEÚDO FÁTICO-PROBATÓRIO. ÓBICE DA SÚMULA 7/STJ.
+1. Estando as razões recursais dissociadas da fundamentação do acórdão recorrido, o recurso especial não pode ser conhecido no particular, nos termos da Súmula 284/STF.
+2. Segundo a jurisprudência desta Corte, "Em que pese a responsabilidade por dano ambiental seja objetiva (e lastreada pela teoria do risco integral), faz-se imprescindível, para a configuração do dever de indenizar, a demonstração da existência de nexo de causalidade apto a vincular o resultado lesivo efetivamente verificado ao comportamento (comissivo ou omissivo) daquele a quem se repute a condição de agente causador" (REsp 1.596.081/PR, Rel. Ministro Ricardo Villas Bôas Cueva, Segunda Seção, julgado em 25/10/2017, DJe 22/11/2017).
+3. A alteração das conclusões adotadas pela instância de origem, tal como colocada a questão nas razões recursais, a fim de asseverar a existência de nexo de causalidade apto a ensejar a responsabilidade civil ambiental na espécie, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 2045914/PR, Rel. Ministro Sérgio Kukina, Primeira Turma, julgado em 16/05/2022, Dje de 19/05/2022) (grifei).
+Ainda,segundo entendimento desta Corte, a inadmissão do recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, em razão da incidência de enunciado sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial se o dissídio alegado diz respeito ao mesmo dispositivo legal ou tese jurídica, o que ocorreu na hipótese.
+Quanto a este ponto, transcreve-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO DE PRINCÍPIOS CONSTITUCIONAIS. IMPOSSIBILIDADE DE EXAME NESTA CORTE. NÃO INDICAÇÃO DE DISPOSITIVO DE LEI FEDERAL SUPOSTAMENTE VIOLADO. SÚMULA 284/STF. DISSÍDIO JURISPRUDENCIAL. ANÁLISE PREJUDICADA.
+1. Tendo sido o recurso interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado n. 3/2016/STJ.
+2. É inviável a análise, em recurso especial, da irresignação fundada na violação a princípios constitucionais. A uma, por se tratar de matéria reservada à apreciação do Supremo Tribunal Federal e, a duas, por não se inserirem no conceito de lei federal, nos termos do art. 105, III, da Constituição Federal.
+3. Revelam-se deficientes as razões do recurso especial quando o recorrente limita-se a expor alegações genéricas e não indica qual dispositivo de lei federal ou tratado foi contrariado pelo acórdão recorrido, situação que se evidencia nos autos e impede o conhecimento do recurso. Aplica-se à hipótese a Súmula 284/STF.
+4. Segundo entendimento desta Corte a inadmissão do recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, em razão da incidência de enunciado sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial se o dissídio alegado diz respeito ao mesmo dispositivo legal ou tese jurídica, o que ocorreu na hipótese. Nesse sentido: AgInt no REsp 1.590.388/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 24/3/2017; AgInt no REsp 1.343.351/SP, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 23/3/2017.
+5. Agravo interno não provido.
+(AgInt no REsp 1973876/RS, Rel. Ministro Benedito Gonçalves, Primeira Turma, julgado em 16/05/2022, Dje de 19/05/2022) (grifei).
+Ademais, ainda que assim não fosse, o alegado dissídio jurisprudencial não foi comprovado nos moldes estabelecidos nos artigos 1.029, § 1º, do CPC/2015 e 255, § 1º do RISTJ, tendo em vista que não foi realizado o devido cotejo analítico, com a demonstração clara do dissídio entre os casos confrontados, identificando os trechos que os assemelhem, não se oferecendo, como bastante, a simples transcrição de ementas ou votos.
+Ratificando tal conclusão, este Superior Tribunal de Justiça, em julgado de minha relatoria, concluiu:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. APLICABILIDADE DO CPC/2015. AUSÊNCIA DE INDICAÇÃO EXPRESSA DE DISPOSITIVO DE LEI FEDERAL SUPOSTAMENTE VIOLADO. SÚMULA 284/STF DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO ENTRE OS JULGADOS CONFRONTADOS. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF
+1. Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC, nos termos do Enunciado Administrativo 3/STJ.
+2. A não indicação clara e específica, no recurso especial, do normativo supostamente violado reflete carência de fundamentação e conduz ao não conhecimento do recurso, pois não permite a exata compreensão da controvérsia. Incidência da Súmula 284/STF.
+3. Não se conhece do recurso especial interposto com base na alínea "c" do permissivo constitucional quando a divergência não é demonstrada nos termos em que exigido pela legislação processual de regência (1.029, § 1º, do CPC/2015 e do art. 255, §§ 1º e 2º, do RISTJ). No caso, o dissídio não foi comprovado, tendo em vista que não foi realizado o devido cotejo analítico, com a demonstração clara do dissídio entre os casos confrontados, identificando os trechos que os assemelhem, não se oferecendo, como bastante, a simples transcrição de ementas ou votos.
+4. Agravo interno não conhecido.
+(AgInt no REsp 1952382/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, Dje de 01/12/2021) (grifo meu).
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
