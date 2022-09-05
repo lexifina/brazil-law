@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido liminar, impetrado em benefício deCarlos Alberto Lima(ouCarlos Alberto Lima Sobrinho), apontando-se como autoridade coatora o Tribunal de Justiça de São Paulo, que denegou o HC n.2100015-74.2022.8.26.0000(fls. 29/32).
+Consta dos autos que,por estarem preenchidos os requisitos legais, o paciente ingressou com pedido de progressão de regime e livramento condicional em 4/2/2022(fl. 4).
+Sustenta-se que, até a presente data, os pedidos efetuados ao Juízo da execução ainda não foram analisados. Aponta-se, assim, a existência de constrangimento ilegal, diante da morosidade para apreciar o requerimento da defesa.
+Postula-se, então, a concessão de liminarpara determinar ao Desembargador da Sexta Câmara de Direito Criminal/SPque imediatamente julgue os benefícios executórios pendentes e, ao final, caso não atendida a determinação da Corte, que seja o paciente colocado em semiaberto até o efetivo julgamento dos benefícios pendentes(fl. 9).
+A liminar foi indeferida (fls. 36/37).
+As informações foram prestadas às fls. 40/44.
+O Ministério Público Federal opinou nos termos desta ementa (fl. 46):
+HABEAS CORPUS COMO SUBSTITUTIVO DE RECURSO PRÓPRIO. EXECUÇÃO PENAL. EXCESSO DE PRAZO NA APRECIAÇÃO DOS PLEITOS DE PROGRESSÃO DE REGIME PRISIONAL E DE LIVRAMENTO CONDICIONAL. PROGRESSÃO DE REGIME JÁ APRECIADA. DEMORA NA ANÁLISE DOS PEDIDOS JUSTIFICADA EM FATOS CONCRETOS. PARECER PELO NÃO CONHECIMENTO DO HABEAS CORPUS. SE CONHECIDO, PELA DENEGAÇÃO DA ORDEM, COM RECOMENDAÇÃO AO JUÍZO DA EXECUÇÃO PENAL.
+1. De pronto, colhe-se das informações prestadas que o Juízo da Execução já apreciou o pleito de progressão de regime prisional, de modo que, nesse ponto, resta prejudicada a análise ante a evidente perda de objeto do mandamus;
+2. Quanto ao pleito de concessão do benefício de livramento condicional, já foi determinada a atualização do cálculo de penas do Paciente, para que o pleito seja enfim apreciado;
+3. Ademais, observa-se que inexiste desídia na atuação do Juízo da Execução, sendo a maior demora na apreciação dos pleitos defensivos justifica-se na necessidade de se atender o projeto de digitalização dos processos de executórios em trâmite na comarca de origem;
+4. Ainda assim, em respeito ao princípio constitucional da duração razoável do processo, não pode o Paciente esperar indefinidamente a apreciação do seu pleito, de modo que deve ser recomendado ao Juízo da Execução que aprecie, com urgência, o requerimento de livramento condicional do ora Paciente;
+5. Parecer pelo NÃO CONHECIMENTO do habeas corpus e, caso conhecido, pela DENEGAÇÃO DA ORDEM, com recomendação ao Juízo da Execução Penal.
+É o relatório.
+O presente writ não comporta acolhimento.
+De início, observa-se que o pleito relacionado com a demora para analisar o pedido de progressão de regime está prejudicado.Isso porque, de acordo com as informações prestadas às fls. 40/44, o mencionado pedido foi apreciado pelo Juízo da execução, em 24/6/2022, oportunidade em que foi indeferidoem razão do não preenchimento do requisito objetivo, decisão que, inclusive,já foi impugnada por agravo em execução.
+Quanto à apreciação do pedido de livramento condicional, consoante as informações prestadas, o Magistrado já determinou a atualização do cálculo da penapara posterior análise do requerimento.
+No mais, o constrangimento ilegal foi afastado pelo Tribunal de origem com os seguintes fundamentos (fls. 31/32 - grifo nosso):
+Com efeito, reclama o impetrante de demora na apreciação do pedido de benefícios formulado em 4 de fevereiro último, daí o suposto constrangimento ilegal.
+De proêmio, realça-se ser inservível a estreita via da ação constitucional para "acelerar" decisões no âmbito do juízo das Execuções Criminais, superando etapas processuais em prol da celeridade.
+Nesta esteira, o Habeas Corpus "Não se trata, portanto, de instrumento processual próprio para acelerar o trâmite de processos, nem ordenar urgência em julgamento de questões da competência do Juízo da Vara de Execuções Criminais." (TJESP, Habeas Corpus nº 0036045-71.2021.8.26.0000,RelatorDesembargador ROBERTO PORTO, julgado 06-10-2021).
+Ademais, registre-se que a apreciação de pedido de benefícios não enseja prazos peremptórios, havendo uma série de fatores impedindo a pronta análise em primeiro grau, segundo as peculiaridades de cada caso.
+E o pedido, de fato, pende de apreciação, mas, conforme apontado pelo magistrado, de acordo com o Comunicado Conjunto nº 2775/2021a partir de 01/12/2021 foi dado início ao Projeto de Digitalização do acervo dos processos físicos da 1ª e 2ª Vara de Execuções Criminais da Comarca de Araçatuba, estando suspensos os prazos processuais com a convocação de 100% dos escreventes notrabalho presencial para a atividade específica de saneamento de mais de 12.000 processos de execução para remessa para São Paulo com metas estabelecidas pela CGJ para cumprimento,prorrogada a suspensão nos termos do Comunicado Conjunto 265/2022 até 09/06/2022.Logo,durante o período de suspensão será mantido apenas o atendimento para os casos urgentes, algo a justificar o interstício decorrido.
+A situação, pois,não denota desídia do magistrado capaz de configurar constrangimento ilegal,cabendo apenas recomendar à autoridade impetrada que, tão logo encerrada a suspensão dos prazos (09 de junho próximo - se não houver prorrogação, diga-se), pronuncie-se sobre o pedido.
+À vista do exposto, pelo meu voto, sem se deparar com constrangimento ilegal decorrente de ato da autoridade apontada como coatora, DENEGO O HABEAS CORPUS, com recomendação.
+Assim, com razão o parecerista, pois,diante das informações prestadas e do consignado pela Corte a quo, observa-se que inexiste desídia na atuação do Juízo da Execução, sendo a maior demora na apreciação dos pleitos defensivos justifica-se na necessidadede se atender o projeto de digitalização dos processos de executórios em trâmite na comarca de origem (fls. 48/49).
+No entanto, o requerimento da defesa não pode esperar indefinidamente, ainda mais quando relacionado com eventual benefício em execução penal, sendo, assim, pertinente a recomendação para que o Juízo da execução empregue celeridade na análise do pedido de livramento condicional.
+Ante o exposto, julgo parcialmente prejudicado o writ e, nomais, denegoa ordem, com recomendação ao Juízo da execução de que empregue celeridade na apreciação do pleito de livramento condicional.
+Comunique-se.
+Publique-se.
+EMENTA
+HABEAS CORPUS.EXECUÇÃO PENAL. EXCESSO DE PRAZO NA APRECIAÇÃO DOS PLEITOS DE PROGRESSÃO DE REGIME PRISIONAL E DE LIVRAMENTO CONDICIONAL.PEDIDO DE PROGRESSÃO DE REGIME JÁ ANALISADO NA INSTÂNCIA DE ORIGEM. PERDA DO OBJETO. DEMORA NA ANÁLISE DOS REQUERIMENTOS, JUSTIFICADA EM FATOS CONCRETOS. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Writ prejudicado em parte e, no mais, ordem denegada com recomendação.
