@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 30/08/2022 a 05/09/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+Trata-se de agravo interno interposto porTRANSAFE TRANSPORTES LTDA.contra decisão em que conheci do agravo paranão conhecer de recurso especial, ante o óbice da Súmula 83 do STJ (e-STJ fls. 1.186/1.189).
+A agravante alega, em síntese, que a parte autora não faz jus ao benefício de aposentadoria por invalidez, visto que "alimitação funcional leve, a idade, a escolaridade e a eventual dificuldade da parte obreira de recolocação profissional não podem ser consideradas, em matéria previdenciária,como impeditivos de retorno ao trabalho" (e-STJ fl. 1.216).
+Segundo aduz, não há incapacidadetotal e permanente, conforme atesta o laudo pericial.Requer, assim, a reconsideração do decisum impugnado ou a sua submissão ao Órgão colegiado.
+Contraminuta não apresentada (e-STJ fl. 1.228).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. APOSENTADORIA PORINVALIDEZ. INCAPACIDADE PARCIAL ALIADA ÀSCONDIÇÕES PESSOAIS. ANÁLISE. POSSIBILIDADE.
+1. "Ainda que o laudo pericial tenha concluído pela incapacidade parcial para o trabalho, pode o magistrado considerar outros aspectos relevantes, tais como, a condição socioeconômica, profissional e cultural do segurado, para a concessão da aposentadoria por invalidez" (AgRg no AREsp 308.378/RS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 16/05/2013, DJe 21/05/2013).
+2. "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida". Súmula 83 do STJ.
+3. Agravo interno desprovido.
+VOTO
+O presente agravo não merece prosperar.
+Como assinalado na decisão ora agravada, a aposentadoria por invalidez foi concedida, com fundamento na redução da capacidade da parte autora, aliada às suas condições pessoais adversas, nos seguintes termos(e-STJ fls. 1.002/1.003):
+Todavia, em que pese a incapacidade funcional ser parcial e não total, à luz da Lei8.213/91, vislumbro que, diante do quadro apresentado, o segurado, fatidicamente, encontrará dificuldades para ser reinserido ao mercado de trabalho, diante da sua idade (52 anos), grau de escolaridade fundamental e da perda permanente para atividades que exijam movimentação repetitiva de flexo-extensão de coluna lombar e carregamento de peso.
+Assim, a incapacidade parcial e permanente do autor para o exercício das atividades descritas, pode ser considerada invalidez, pois o autor é motorista de caminhão, e assim dada a sua função, está sujeito a trepidações, mantém o corpo sentado por períodos prolongado Ademais, toda a vasta documentação médica, acostada aos autos, como relatórios médicos, receituários de medicamentos, exames como radiografia, realizados por diversos especialistas da área, demonstram que o autor é incapacitado, possuindo dificuldade de locomoção e restrição funcional.
+Dessa forma, nos termos decididos pelo juízo singular, diante da limitação permanente para atividades que exijam movimentação repetitiva de flexo-extensão de coluna lombar e carregamento de peso e considerando a sua idade e condição socioeconômica que lhe alberga, sobressai o direito à concessão do benefício de aposentadoria por invalidez, devendo receber os respectivos proventos enquanto permanecer nessa condição.
+Nãocabe o afastamento do óbice contido na Súmula 83 do STJ, porquanto o referido julgado está em consonância com o entendimento desta Corte Superior, no sentido de ser viável a apreciação de outros aspectosnecessários para a concessão de benefício previdenciário.
+Nesse mesmo sentido:
+PREVIDENCIÁRIO. AGRAVO REGIMENTAL. SUPOSTA VIOLAÇÃO AO ART. 535 DO CPC. NÃO OCORRÊNCIA. APOSENTADORIA POR INVALIDEZ. REQUISITOS. ART. 42 DA LEI 8213/91. INCAPACIDADE PARCIAL ATESTADA EM LAUDO PERICIAL. NÃO VINCULAÇÃO. ASPECTOS ECONÔMICOS, SOCIAIS E CULTURAIS DO SEGURADO. REVISÃO DAS PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Verifica-se não ter sido demonstrada ofensa ao artigo 535 do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos presentes autos.
+2. A aposentadoria por invalidez, nos termos do art. 42 da Lei n. 8.213/91, é devida ao segurado que for considerado incapaz e insusceptível de reabilitação para o exercício de atividade que lhe garanta a subsistência.
+3. Assim, ainda que o laudo pericial tenha concluído pela incapacidade parcial para o trabalho, pode o magistrado considerar outros aspectos relevantes, tais como, a condição socioeconômica, profissional e cultural do segurado, para a concessão da aposentadoria por invalidez. Precedentes.
+4. No caso dos autos, o juízo de origem, ao examinar o contexto fático probatório dos autos, concluiu que ficou demonstrada a incapacidade do segurado, de forma que o exame da controvérsia, tal como apresentada no especial, esbarra no óbice da Súmula 7/STJ ("A pretensão de simples reexame de prova não enseja recurso especial").
+5. Agravo regimental a que se nega provimento. (AgRg no AREsp 308.378/RS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 16/05/2013, DJe 21/05/2013).
+PREVIDENCIÁRIO. APOSENTADORIA POR INVALIDEZ. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. REQUISITOS PARA A CONCESSÃO DO BENEFÍCIO. CONSIDERAÇÃO DOS ASPECTOS SOCIOECONÔMICOS, PROFISSIONAIS E CULTURAIS DO SEGURADO. DESNECESSIDADE DE VINCULAÇÃO DO MAGISTRADO À PROVA PERICIAL. PRECEDENTES. REVISÃO DO ACÓRDÃO. IMPOSSIBILIDADE. REEXAME DE FATOS E DAS PROVAS. SÚMULA N. 7/STJ.
+I - Na origem, cuida-se de ação ajuizada em desfavor do Instituto Nacional do Seguro Social - INSS objetivando a concessão de benefício por incapacidade.
+II - Impõe-se o afastamento de alegada violação ao art. 1.022, do CPC/2015, quando a questão apontada como omitida pelo recorrente foi examinada no acórdão recorrido, caracterizando o intuito revisional dos embargos de declaração.
+III - No caso dos autos, o Tribunal de origem determinou a implementação do benefício da aposentadoria por invalidez por entender que a condição de saúde da segurada, seus aspectos socioeconômicos, profissionais e culturais a tornam incapaz para o exercício do trabalho habitual e inviabilizam seu retorno ao mercado de trabalho.
+IV - Verifica-se que o acórdão regional está em conformidade com o entendimento jurisprudencial desta Corte no sentido de que "a concessão da aposentadoria por invalidez deve considerar, além dos elementos previstos no art. 42 da Lei 8.213/91, os aspectos socioeconômicos, profissionais e culturais da segurada, ainda que o laudo pericial apenas tenha concluído pela sua incapacidade parcial para o trabalho" (REsp n. 1.568.259/SP, Rel. Ministro Humberto Martins, Segunda Turma, julgado em 24/11/2015, DJe 1/12/2015).
+Outros julgados: AgRg no AREsp n. 712.011/SP, Rel. Min. Assusete Magalhães, DJe 4.9.2015; AgRg no AREsp n. 35.668/SP, Rel. Ministro Nefi Cordeiro, Sexta Turma, julgado em 5/2/2015, DJe 20/2/2015 e AgRg no AREsp n. 497.383/SP, Rel. Ministra Assusete Magalhães, Segunda Turma, julgado em 18/11/2014, DJe 28/11/2014.
+V - Assim, havendo o Tribunal de origem concluído pela incapacidade laborativa da segurada, o acolhimento da tese recursal de modo a inverter o julgado demandaria necessariamente o revolvimento do conjunto fático-probatório dos autos, o que é inviável na instância especial diante do enunciado n. 7 da Súmula do STJ.
+VI - Recurso especial improvido.
+(AREsp n. 1.348.227/PR, relator Ministro Francisco Falcão, Segunda Turma, julgado em 11/12/2018, DJe de 14/12/2018).
+Por fim, embora não merecedor de acolhimento, o agravo interno, no caso, não se revela manifestamente inadmissível ou improcedente, razão pela qual não deve ser aplicada a multa do § 4º do art. 1.021 do CPC/2015.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
