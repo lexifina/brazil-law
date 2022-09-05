@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "a" da CF/1988) interposto contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo cuja ementa é a seguinte (fls. 312,e-STJ):
+ACIDENTÁRIA -Auxiliar de serviços gerais- Lesões nos membros superiores - Nexo causal reconhecido - Redução parcial e permanente da capacidade laborativa - Auxílio-acidente devido a partir da juntada do laudo pericial - Valores em atraso que devem ser atualizados na forma do art. 41 da Lei nº 8.213/91 - Incidência do IPCA-E a partir da elaboração da conta de liquidação - Juros de mora devidos desde o termo inicial do benefício, mês a mês, de forma decrescente - Aplicação do art. 5º da Lei nº 11.960/09, porém apenas no que concerne aos juros, ante o resultado do julgamento da ADI nº 4.357 pelo STF - Honorários advocatícios que devem ser fixados segundo a orientação da Súmula nº 111 do STJ - Exclusão da imposição de custas ao INSS - Recurso da autora desprovido, parcialmente providos os recursos autárquico e oficial.
+Os Embargos de Declaração foram rejeitados (fls. 330-332, e-STJ).
+O recorrente sustenta ter havido ofensa aoart. 31 da Lei 10.741/2003, 41-A da Lei 8.213/1991(com a redação dada pela Lei 11.430/2006), 5º da Lei 11.960/2009 e1º-F da Lei 9.494/1997. Defende "a aplicação, para fins do correção monetária do débito, o índice INPC a partir do advento da Lei 10.741/03, bem como a TR como índice de atualização das parcelas em atraso a partir da Lei 11.960/2009, excluindo-se a aplicação do IGP-DI nos moldes determinados pelo v. acórdão recorrido" (fl. 406, e-STJ).
+Contrarrazões às fls. 411-416, e-STJ.
+Em juízo de adequação aosTemas 810/STF e 905/STJ, decidiu-se (fls. 437-439, e-STJ):
+Adequação do acórdão para: a) admitir a aplicação do INPC em relação a débito posterior à vigência da Lei nº 11.430/06 (Tema nº 905 STJ), porém até junho/2009, passando então a ser aplicado o decidido pelo STF no julgamento do RE 870.947/SE (repercussão geral Tema nº 810); b) fixar como termo inicial do benefício o dia seguinte ao da cessação do auxílio-doença (Tema nº 862 STJ)
+É o relatório.
+Decido.
+Os autos foram recebidos no Gabinete em 25 de agosto de 2022.
+Quanto ao tema em discussão, observa-se que não houve correta adequação do julgado de origem aos Temas 810 do STF de905 do STJ.
+Em observância àdecisão do STF, a Primeira Seção do STJ, nos termos do Tema 905/STJ (Recursos Especiais 1.495.146/MG, 1.492.221/PR e 1.495.144/RS, Rel. Ministro Mauro Campbell Marques), determinou que as condenações impostas à Fazenda Pública de natureza previdenciária sujeitam-se à incidência do INPC, para fins de correção monetária, no que se refere ao período posterior à vigência da Lei 11.430/2006, que incluiu o art. 41-A na Lei 8.213/1991. Quanto aos juros de mora, incidem segundo a remuneração oficial da caderneta de poupança (art. 1º-F da Lei 9.494/1997, com redação dada pela Lei 11.960/2009).
+Dessume-se que o acórdão recorrido não estáem sintonia com o atual entendimento do STJ, motivo pelo qual merece prosperar a irresignação.
+Assim, por se tratar de condenação judicial de natureza previdenciária, incide o INPC, para fins de correção monetária, no que se refere ao período posterior à vigência da Lei 11.430/2006, que incluiu o art. 41-A na Lei 8.213/1991. No período anterior à vigência da Lei 11.430/2006, devem ser aplicados os índices previstos no Manual de Cálculos da Justiça Federal.
+Os juros de morarecaem segundo a remuneração oficial da caderneta de poupança, consoante art. 1º-F da Lei 9.494/1997, com redação dada pela Lei 11.960/2009 (AgInt no REsp 1.862.174/SP, Rel. MinistroHerman Benjamin, Segunda Turma, DJe 29.10.2020; e AgRg no REsp 1.186.941/SP, Rel. Ministro Ribeiro Dantas, Quinta Turma, DJe 15.6.2020).
+Diante do exposto, conheço do Recurso Especial para dar-lhe parcial provimentonos termos da fundamentação.
+Publique-se.
+Intimem-se.
