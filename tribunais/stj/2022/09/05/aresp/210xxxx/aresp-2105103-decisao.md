@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto porCAIXA CONSÓRCIOS S/A ADMINISTRADORA DE CONSÓRCIOS,contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, na(s) alínea(s) "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 06/10/2021.
+Concluso ao gabinete em: 09/06/2022.
+Ação:obrigação de fazer cumulada com compensação por danos morais, ajuizada por ERONILDA SOUZA PELENTIER, em face da agravante, em razão de recusade pagamento de seguro de vida em contrato de consórcio imobiliário.
+Sentença:julgou procedente o pedido, para condenar a agravante ao pagamento do montante de R$ 59.295,27.
+Acórdão:negou provimento à apelação interposta pela agravante, nos termos da seguinte ementa:
+Ação de cobrança c.c. indenização por dano moral julgada parcialmente procedente - Contrato de consórcio com cobertura securitária - Falecimento do consorciado/segurado - Pedido de indenização apresentado pela companheira - Recusa da administradora sob a alegação de inadimplência do consorciado ainda em vida - Aplicação dos arts. 6º, VIII, 47, 51, IV e XI, e §1º, I e III, 54, §4º, do CDC - Contrato de adesão com venda casada - Ausência de prova de comunicação prévia ao segurado - Resolução do ajuste securitário que não ocorre automaticamente - Justa causa da recusa não conhecida - Precedentes do STJ - Recurso improvido
+Embargos de Declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: alega violação do art. 1.022, II e III, do CPC/15. Sustenta a existência de negativa de prestação jurisdicional, porquanto o acórdão recorrido se omitiu quanto às inúmeras notificações enviadas pela agravante, que informou à agravadadevidamente, via e-mails, que o não pagamento das parcelas pendentes obstaria o pagamento da indenização pretendida; e quanto à necessidade de que, sobre o valor restante da cota, sejam realizados os necessários descontos previstos em contrato.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da negativa de prestação jurisdicional
+As razões recursais tecidas acerca da suposta omissão do Tribunal de origem residem, entre outras, na alegação de que, apesar de instado a se manifestar por meio de embargos declaratórios, ficou silente no que concerne ao seguinte argumento trazido pelaagravante: necessidade de que, sobre o valor restante da cota, sejam realizados os necessários descontos previstos em contrato.
+Da análise do processo, constata-se que o TJ/SP, ao julgar os embargos de declaração interpostos pelaagravante, foi omisso quanto a esteargumento. Entretanto, verifica-se que a questão foi objeto de devida insurgência nas razões dos embargos declaratórios interpostos.
+É firme a jurisprudência do STJ no sentido de que há ofensa ao art. 1.022 do CPC/15 nas hipóteses em que o Tribunal de origem, mesmo após a interposição de embargos de declaração, omite-se no exame de questão pertinente para a resolução da controvérsia (REsp 1.693.086/SP, 3ª Turma, DJe de 20/10/2017; e AgInt no AREsp 429.547/RJ, 4ª Turma, DJe de 8/9/2016).
+Assim, observando o entendimento dominante desta Corte, impõe-se a cassação do acórdão que apreciou os declaratórios, a fim de que este se pronuncie, na esteira do devido processo legal, acerca do ponto anteriormente elencado, incidindo, portanto, a Súmula 568/STJ.
+Logo, merece provimento o recurso especial e tem-se como prejudicado o exame das demais discussões aventadas no presente recurso.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, V, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO do recurso especial e DOU-LHE PROVIMENTO, para: a) anular o acórdão que julgou os embargos de declaração interpostos pelaagravante; b) determinar a remessa dos autos ao TJ/SP, a fim de que se pronuncie, na esteira do devido processo legal, a respeito doargumentotrazidopelaagravante quanto à necessidade de que, sobre o valor restante da cota, sejam realizados os necessários descontos previstos em contrato.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM COMPENSAÇÃO POR DANOS MORAIS. RECUSA DE PAGAMENTO DE SEGURO DE VIDA EM CONTRATO DE CONSÓRCIO IMOBILIÁRIO.EMBARGOS DE DECLARAÇÃO INTERPOSTOS PERANTE O TRIBUNAL DE ORIGEM. OMISSÃO APTA, EM TESE, PARA A MODIFICAÇÃO DA CONCLUSÃO DO ACÓRDÃO RECORRIDO. AUSÊNCIA DE APRECIAÇÃO.
+1. Ação de obrigação de fazer cumulada com compensação por danos morais em razão de recusa de pagamento de seguro de vida em contrato de consórcio imobiliário.
+2.Caracteriza-se a ofensa ao art. 1.022 do CPC/15 na hipótese em que o Tribunal de origem, mesmo após a interposição de embargos de declaração, omite-se no exame de questão pertinente para a resolução da controvérsia.
+3. Agravo conhecido. Recurso especial provido.
