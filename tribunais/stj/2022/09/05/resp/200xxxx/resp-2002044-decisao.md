@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso especial interposto peloInstituto Nacional do Seguro Social, com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão do Tribunal Regional Federal da 3ªRegião, assim ementado (fl. 408):
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO.AUSÊNCIA DE VÍCIOS NO ACÓRDÃO. REDISCUSSÃO DA MATÉRIA.PREQUESTIONAMENTO. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+I. A intenção de rediscutir a matéria e obter novo julgamento pela Turma não encontra nos embargos de declaração a via processual adequada, já que é cabível tal recurso quando na decisão prolatada houver obscuridade, contradição, omissão ou correção de erro material, inocorrentes na espécie.
+2. Ainda que se pretenda a análise da matéria destacada para fins de pré-questionamento, em momento algum ficou demonstrada a existência de quaisquer dos vícios elencados no art. 1.022, incisos I, II e III do Novo CPC, de modo que se impõe a rejeição dos presentes embargos de declaração.
+3. Embargos de declaração rejeitados.
+Nas razões do recurso especial, a parte recorrente alega violação dos arts.2º, II, e 8º, § 1º, da Lei 8.460/92. Sustenta que "inexiste qualquer ilegalidade no ato da administração que promoveu a retificação do enquadramento do recorrido no cargo que veio a ocupar." (fl. 416).
+Sem contrarrazões.
+Juízo positivo de admissibilidade às fls. 464-467.
+É o relatório. Passo a decidir.
+Consigna-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo 3/2016/STJ.
+Registre-se também que é possível ao Relator dar ou negar provimento ao recurso em decisão monocrática, nas hipóteses em que há jurisprudência dominante quanto ao tema, como autorizado pelo art. 34, XVIII, do RISTJ e pela Súmula 568/STJ.
+O presente recurso não merece êxito.
+A partir do simples cotejo entre as razões do recurso especial e os fundamentos do acórdão recorrido, observa-se que a tese recursal contida nos arts. 2º, II, e 8º, § 1º, da Lei 8.460/92, tal qual posta nas razões recursais não foi apreciada pelo Tribunal de origem. Por essa razão, à falta do indispensável prequestionamento, não pode ser conhecido o Recurso Especial, no ponto, incidindo o teor da Súmula 211 do STJ. A propósito: AgInt no AREsp 1.382.885/SP, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 29/04/2021.
+Além disso, embora a parte recorrente tenha indicado ofensa aos arts.art. 2º, II, e 8º, § 1º, da Lei 8.460/92, sob o argumento de que inexiste qualquer ilegalidade no ato da administração que promoveu a retificação do enquadramento do recorrido no cargo que veio a ocupar,não particularizou de que forma os mensionados dispositivosforam malferidos, o que implica deficiência de fundamentação do recurso especial, atraindo, por analogia, a incidência da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."). Acerca do tema, os seguintes julgados ganham relevo: AgInt no REsp 1894935/PR, Rel. Ministra Assusete Magalhães, Dje 22/3/2021; AgInt no AREsp 1689201/PB, Rel. Ministro Raul Araújo, Dje 22/3/2021; AgInt no AREsp 1738090/SP, Rel. Ministro Herman Benjamin, Dje 1º/3/2021.
+Ante o exposto, não conheço do recurso especial, com fundamento no artigo 932, III, do CPC/2015, combinado com os artigos 34, XVIII, a, e 255, I, do RISTJ.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. APOSENTADORIA POR TEMPO DE CONTROBUIÇÃO. VIOLAÇÃO DOS ARTS. 2º, II, E 8º, § 1º, DA LEI 8.460/92. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211 DO STJ. ILEGALIDADE NO ATO DE RETIFICAÇÃO DO ENQUADRAMENTO. AUSÊNCIA DE PARTICULARIZAÇÃO. ARGUMENTAÇÃO GENÉRICA. SÚMULA 284 DO STF. RECURSO NÃO CONHECIDO.
