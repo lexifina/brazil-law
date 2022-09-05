@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de conflito negativo de competência entre oJUÍZO FEDERAL DA 11ªVARA CÍVEL DE SÃO PAULO - SJ/SP, suscitante, e oTRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, suscitado,nos autos da ação de obrigação de fazer c/c indenização por danos moraise requerimento de tutela de urgência,ajuizada por ANDRÉLUIZ DIAS DE OLIVEIRA contra a Associação Unificada Paulista de Ensino Renovado Objetivo - ASSUPERO.
+A ação foi proposta originariamente na 22ª Vara Cível do Foro Central João Mendes, cuja sentença de procedência do pedido foi anulada pela 25ª Câmara de Direito Privado do Tribunal de Justiça de São Paulo.
+A Justiça estadual declarou-se incompetente sob o entendimento de que compete à Justiça Federal o processamento e julgamento de demandas que versem sobre o registro de diploma de ensino superior.
+O Juízo da 11ª Vara Federal de São Paulo, por seu turno, suscitou o presente conflito de competência, sob o argumento de desinteresse da União em integrar a lide. Alegou, ademais (fl. 188):
+A negativa de diploma decorreu da impossibilidade de concessão de diploma de pós-graduação ao autor que não tem diploma de graduação.
+O autor assinou um contrato com a faculdade, tendo se comprometido a juntar os documentos para expedição do diploma, mas no momento da expedição foi verificado que ele não tinha diploma de graduação.
+Essa relação jurídica foi firmada exclusivamente entre o autor e a universidade. Não há interesse da União nesta situação, pois não se trata da prática de atos omissivos ou comissivos pelo MEC, que necessite de fiscalização da União.
+O parecer do Ministério Público Federal é no sentido de declarar competente a Justiça estadual (fls. 193-195).
+É, no essencial, o relatório.
+Inicialmente, conheço do conflito, pois trata-se de controvérsia instaurada entre juízes vinculados a tribunais distintos, a teor do que preceitua o art. 105, inciso I, alínea "d", da CF/88.
+A presente controvérsia diz respeito à ação de obrigação de fazer c/c indenização por danos moraisdecorrentes de obstáculo à obtenção de diploma após a conclusão de curso de pós-graduação.
+Não se trata aqui da aplicação do Tema n. 1.154/STF.
+Nos termos da jurisprudência do STJ, as causas que envolvam instituições de ensino superior, a União possui interesse apenas quando se tratar de: expedição e registro de diploma no órgão público competente (inclusive credenciamento junto ao MEC) ou (II) mandado de segurança, na linha do entendimento da Suprema Corte quando do julgamento do Tema n. 1.154.
+Confira-se a ementa do julgado:
+RECURSO EXTRAORDINÁRIO. REPRESENTATIVO DA CONTROVÉRSIA. CONSTITUCIONAL. COMPETÊNCIA. INSTITUIÇÃO DE ENSINO SUPERIOR. SISTEMA FEDERAL DE ENSINO. CONTROVÉRSIA RELATIVA À EXPEDIÇÃO DE DIPLOMA DE CONCLUSÃO DE CURSO SUPERIOR. INTERESSE DA UNIÃO. COMPETÊNCIA DA JUSTIÇA FEDERAL. ARTIGO 109, I, DA CONSTITUIÇÃO FEDERAL. PRECEDENTES. ACÓRDÃO RECORRIDO DIVERGE DA JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. MULTIPLICIDADE DE RECURSOS EXTRAORDINÁRIOS. CONTROVÉRSIA CONSTITUCIONAL DOTADA DE REPERCUSSÃO GERAL. REAFIRMAÇÃO DA JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. RECURSO EXTRAORDINÁRIO PROVIDO. (RE n. 1.304.964/SP, Tribunal Pleno, relatorMinistroPresidente,publicação em20/8/2021.)
+No presente caso, não há falar em interesse da União nas lides que digam respeito a questões privadas concernentes ao contrato de prestação de serviço firmado entre essas instituições e seus alunos, de modo a evidenciar a competência da Justiça estadual.
+Extrai-se da peça exordial que oautor, ao fazer o curso de pós-graduação, não apresentou o diploma de graduação, o que estaria impedindo a parte ré de expedir o diploma de pós-graduação. Segundo a instituição de ensino, odiploma de graduação é requisito exigido pelo Ministério da Educação - Resolução CNE/CES1/2018 DOU - 9/4/2018.
+Ante o exposto, com fundamento no art. 955, parágrafo único, II, do CPC/2015 e no art. 34, XXII, do RISTJ, conheço do conflito de competência para declarar competente o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, o suscitado.
+Publique-se. Intimem-se.
