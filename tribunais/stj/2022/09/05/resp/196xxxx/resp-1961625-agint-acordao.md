@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 30/08/2022 a 05/09/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  por  SRH  PARTICIPAÇÕES,  INDÚSTRIA  E  COMÉRCIO  LTDA.  e  OUTROS  contra  a  decisão  (fls.  3.230/3.234  e-STJ)  que  não  conheceu  do  recurso  especial.
+Em  suas  razões,  os  agravantes  argumentam  que
+"(..)  o  Juízo  monocrático  jamais  poderia  decidir  o  que  já  decidiu,  ou  seja,  há  decisão  anterior  que  deu  provimento  ao  recurso  dos  agravantes  para  sua  reautuação  como  recurso  especial,  descabendo  a  duplicidade  de  decisão  monocrática  acerca  da  mesma  matéria,  cabendo  à  Turma  decidir  a  questão  do  provimento  do  recurso  especial,  em  cumprimento  ao  princípio  da  Colegialidade"  (fls.  3.243 / 3.244  e-STJ).
+Defendem  ter  havido  o  prequestionamento  ficto  dos  temas  deduzidos  no  apelo  nobre,  sendo  inaplicável  a  Súmula  nº  211/STJ.
+Insistem  na  tese  de  que  inexistiu  motivo  para  a  cobrança  das  custas  processuais  na  hipótese  e  refutam  a  incidência  dos  óbices  das  Súmulas  nºs  283  e  284/STF.
+Além  disso,  afirmam  que  os  precedentes  lançados  na  decisão  agravada  não  tratam  de  casos  análogos,  o  que  também  afastaria  a  incidência  da  Súmula  nº  83/STJ.
+Ao  final,  requerem  a  reconsideração  da  decisão  atacada  ou  a  sua  submissão  ao  crivo  do  Colegiado.
+Não  houve  impugnação  (fl.  3.257  e-STJ).
+É  o  relatório.
+EMENTA
+AGRAVO  INTERNO  NO  RECURSO  ESPECIAL.  PROCESSUAL.  AÇÃO  DECLARATÓRIA.  DESISTÊNCIA.  CITAÇÃO.  NÃO  OCORRÊNCIA.  SENTENÇA.  EXTINÇÃO.  CUSTAS  PROCESSUAIS.  PAGAMENTO.  JULGAMENTO  MONOCRÁTICO.  POSSIBILIDADE.  PREQUESTIONAMENTO.  AUSÊNCIA.  FUNDAMENTAÇÃO.  DEFICIÊNCIA.  ACÓRDÃO.  CONSONÂNCIA.  JURISPRUDÊNCIA.  SÚMULAS  NºS  83  E  211/STJ.  SÚMULAS  NºS  283  E  284/STF.  INCIDÊNCIA.  DECISÃO  AGRAVADA.  MANUTENÇÃO.
+1.  Recurso  especial  interposto  contra  acórdão  publicado  na  vigência  do  Código  de  Processo  Civil  de  2015  (Enunciados  Administrativos  nºs  2  e  3/STJ).
+2.  É  possível  o  julgamento  por  decisão  unipessoal  quando  houver  entendimento  majoritário  a  respeito  da  matéria  controvertida  ou  se  tratar  de  recurso  manifestamente  inadmissível,  prejudicado  ou  que  não  tenha  impugnado  especificamente  os  fundamentos  da  decisão  recorrida  (art.  932,  III  e  IV,  do  Código  de  Processo  Civil  de  2015).
+3.  De  acordo  com  a  jurisprudência  deste  Tribunal  Superior,  a  admissão  de  prequestionamento  ficto  em  recurso  especial,  previsto  no  art.  1.025  do  CPC/2015,  exige  que  no  mesmo  recurso  seja  reconhecida  a  existência  de  violação  do  art.  1.022  do  CPC/2015.
+4.  É  manifesta  a  deficiência  na  fundamentação  recursal,  haja  vista  que  a  linha  argumentativa,  além  de  dissociada  das  razões  de  decidir  apontadas  pela  Corte  estadual,  mostra  -se  incapaz  de  evidenciar  o  malferimento  à  legislação  federal  invocada,  atraindo  à  espécie  as  Súmulas  nºs  283  e  284/STF.
+5.  Na  hipótese,  inviável  a  análise  do  conteúdo  do  art.  1.040  do  CPC/2015,  visto  se  tratar  de  evidente  inovação  recursal.
+6.  A  divergência  jurisprudencial  deve  ser  demonstrada  a  partir  da  transcrição  dos  trechos  dos  arestos  que  configurem  o  dissídio,  mencionando-se  as  circunstâncias  que  identifiquem  ou  assemelhem  os  casos  confrontados.
+7.  Agravo  interno  não  provido.
+VOTO
+  O  acórdão  impugnado  pelo  recurso  especial  foi  publicado  na  vigência  do  Código  de  Processo  Civil  de  2015  (Enunciados  Administrativos  nºs  2  e  3/STJ).
+A  irresignação  não  merece  prosperar.
+Em  primeiro  lugar,  deve  ser  afastado  o  argumento  de  que  o  recurso  especial  não  poderia  ser  julgado  monocraticamente, pois,  ao  contrário  do  alegado,  a  primeira  decisão  (fls.  3.223/3.224  e-STJ)  atestou  a  admissibilidade  apenas  do  agravo,  convertendo-o  em  recurso  para  melhor  exame  da  controvérsia.
+Como  sabido,  o  entendimento  jurisprudencial  consolidado  no Superior Tribunal de Justiça  é  no  sentido  de  ser  possível  o  julgamento  por  decisão  unipessoal  quando  houver  entendimento  majoritário  a  respeito  da  matéria  controvertida  ou  se  tratar  de  recurso  m  anifestamente  inadmissível,  prejudicado  ou  que  não  tenha  impugnado  especificamente  os  fundamentos  da  decisão  recorrida  (artigo  932,  III  e  IV,  do  Código  de  Processo  Civil  de  2015).
+A  par  disso,
+"(..) é  firme,  nesta  Corte,  o  entendimento  de  que  o  art.  932  do  CPC/2015  e  a  Súmula  568/STJ  admitem  que  o  relator  julgue  monocraticamente  recurso  inadmissível  ou  aplique  jurisprudência  consolidada  nesta  Corte.  Ademais,  a  possibilidade  de  interposição  de  recurso  ao  órgão  colegiado  afasta  qualquer  alegação  de  ofensa  ao  princípio  da  colegialidade"  (AgInt  no  REsp  1.974.289/SP,  Rel.  Ministra  Nancy  Andrighi,  Terceira  Turma,  julgado  em  20/6/2022,  DJe  de  22/6/2022).
+No  caso,  conforme  já  ressaltado  pela  decisão  agravada,  as  matérias  versadas  nos  artigos  884  e  885  do  Código  Civil,  apontados  como  violados  no  recurso  especial,  não  foram  objeto  de  debate  pelas  instâncias  ordinárias,  embora  opostos  embargos  de  declaração.  Ausente  o  requisito  do  prequestionamento,  incide  o  disposto  na  Súmula  nº  211/STJ:  "Inadmissível  recurso  especial  quanto  à  questão  que,  a  despeito  da  oposição  de  embargos  declaratórios,  não  foi  apreciada  pelo  Tribunal  a  quo."
+Ademais,  em  que  pese  a  alegação  dos  agravantes,  de  acordo  com  a  jurisprudência  deste  Tribunal Superior  ,  a  admissão  de  prequestionamento  ficto  em  recurso  especial,  previsto  no  art.  1.025  do  CPC/2015,  exige  que  no  mesmo  recurso  seja  reconhecida  a  existência  de  violação  do  art.  1.022  do  CPC/2015,  o  que  foi  expressamente  afastado  pelo  julgado  ora  impugnado.
+Da  mesma  forma,  restou  consignado  que,  estando  o  acórdão  recorrido  fundado  na  literalidade  do  art.  90  do  CPC/2015,  que  nem  sequer  foi  mencionado  pelos  recorrentes,  é  manifesta  a  deficiência  na  fundamentação  recursal,  haja  vista  que  a  linha  argumentativa,  além  de  dissociada  das  razões  de  decidir  apontadas  pela  Corte  estadual,  mostra-se  incapaz  de  evidenciar  o  malferimento  à  legislação  federal  invocada,  atraindo  à  espécie  as  Súmulas  nºs 283  e  284/STF.
+Também  deve  ser  registrado  que  o  conteúdo  do  art.  1.040  do  CPC/2015,  invocado  apenas  em  agravo  interno,  configura  indevida  inovação  recursal,  motivo  pelo  qual  o  recurso  não  deve  ser  conhecido  nesse  ponto.
+Por  fim,  não  ficou  demonstrada  a  divergência  jurisprudencial  alegada  em  relação  ao  precedente  invocado  pelos  agravantes  (EDcl  na  AR  3.998/RJ),  haja  vista  que  não  houve  o  cotejo  analítico  apto  a  demonstrar  a  similitude  fática  entre  os  casos  confrontados.
+Assim,  as  alegações  postas  no  presente  recurso  são  incapazes  de  alterar  os  fundamentos  da  decisão  impugnada.
+Ante  o  exposto,  nego  provimento  ao  agravo  interno.
+É  o  voto.
