@@ -1,0 +1,31 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 30/08/2022 a 05/09/2022, por unanimidade, não conhecer do recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relator):
+Cuida-se de agravo interno interposto por ANDRÉ LUIS RINHEL VICENTIM, contra decisão da Presidência do STJ que conheceu do agravo para não conhecer do recurso especial que interpusera, com base no art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça.
+Ação: obrigação de fazer apresentada pelo agravante, em face de MULTIPLUS S./A. E LATAM AIRLINES BRASIL.
+Agravo interno interposto em: 14/06/2022.
+Concluso ao gabinete em: 15/08/2022.
+Sentença: julgou parcialmente procedente o pedido para condenar a agravada a reativar a conta do agravante no programa de fidelidade, permitindo-lhe usufruir do saldo existente em 19 de dezembro de 2018, sem limitação na emissão de passagens em nome de terceiros.
+Acórdão: negou provimento ao recurso interposto pelo agravante, nos termos da seguinte ementa:
+Agravo interno visando à gratuidade da justiça, negada em decisão monocrática.
+Recurso especial: alega violação do art. 98 e seguintes do CPC, no que concerne à concessão do benefício da gratuidade da justiça, em razão da presunção da veracidade da alegação da recorrente, assim como em razão da comprovação da sua hipossuficiência.
+Decisão unipessoal: conheceu do agravo para não conhecer do recurso especial com base no art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça, em razão da incidência das Súmulas 7 do STJ, 284 do STF e da ausência de prequestionamento.
+Agravo interno: nas razões do presente recurso, o agravante aduz a inaplicabilidade da Súmula 7 do STJ.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. FUNDAMENTO DA DECISÃO NÃO IMPUGNADO. SÚMULA 283/STF.
+1. Ação de obrigação de fazer.
+2. A existência de fundamento da decisão recorrida não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso.
+3. Agravo interno não conhecido.
+VOTO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relator):
+A decisão agravada não conheceu do recurso especial interposto pelo agravante com base na seguinte fundamentação:
+Quanto à controvérsia dos autos, incide o óbice da Súmulas n. 284/STF uma vez que há indicação genérica de violação de lei federal em razão do uso da expressão "e seguintes", sem que sejam particularizados quais dispositivos teriam sido contrariados, o que revela fundamentação recursal deficiente e atrai, por conseguinte, o referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido: "Segundo a jurisprudência do STJ, "o uso da fórmula aberta "e seguintes" para a indicação dos artigos tidos por violados revela fundamentação deficiente, o que faz incidir a Súmula n. 284/STF. Isso porque o especial é recurso de fundamentação vinculada, não lhe sendo aplicável o brocardo iura novit curia e, portanto, ao relator, por esforço hermenêutico, não cabe extrair da argumentação qual dispositivo teria sido supostamente contrariado a fim de suprir deficiência da fundamentação recursal, cuja responsabilidade é inteiramente do recorrente" (AgInt no AREsp n. 1.411.032/SP, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 24/9/2019, DJe 30/9/2019)." (AgInt no REsp n. 1.449.307/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 13/12/2019.)Ademais, não houve o prequestionamento da tese recursal quanto à presunção de veracidade da declaração da recorrente, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente. Nesse sentido: "Quanto à segunda controvérsia, o Distrito Federal alega violação do art. 91, § 1º, do CPC. Nesse quadrante, não houve prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente no sentindo de que a realização de perícia por entidade pública somente ser possível quando requerida pela Fazenda Pública, pelo Ministério Público ou pela Defensoria Pública. " (AgInt no AREsp n. 1.582.679/DF, relator Ministro Herman Benjamin, Segunda Turma, DJe de 26/05/2020.)Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.514.978/SC, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17/6/2020; AgInt no AREsp 965.710/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19/9/2018; e AgRg no AREsp 1.217.660/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/5/2018. Além disso, o Tribunal de origem se manifestou nos seguintes termos:
+Assim, como as alegações declinadas nas razões recursais do agravo interno não são capazes de infirmar os fundamentos da decisão recorrida, e ainda considerando que não há provas documentais formadas nos autos a respeito da incapacidade financeira do agravante, mantém-se a r. decisão agravada pelos seus próprios fundamentos e pelos que ora lhe são acrescidos neste voto (fl. 1.250).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o reexame da premissa fixada pela Corte de origem quanto à existência ou não dos requisitos para a concessão da gratuidade de justiça às partes exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em sede de recurso especial. (e-STJ, fl. 1296/1298)
+Pela análise das razões recursais apresentadas, verifica-se que a parte agravante não trouxe qualquer argumento novo capaz de ilidir os fundamentos da decisão agravada. Isso porque, nas razões presente recurso, não teceu qualquer consideração quanto aos fundamentos da decisão ora agravada, no tocante à ausência de prequestionamento e a incidência da Súmula 284/STF. Aplica-se portanto à Súmula 283 do STF.
+Forte nessas razões, não conheço do agravo interno.
