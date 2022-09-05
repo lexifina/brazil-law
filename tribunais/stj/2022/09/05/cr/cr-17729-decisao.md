@@ -1,0 +1,7 @@
+DECISÃO
+Cuida-se de carta rogatória por meio da qual a justiça portuguesa solicitou a notificação de Arthur Gabriel de Souza Silvério para manifestação e comparecimento à audiência de instrução e julgamento designada para o dia 26.09.2022.
+Concedido o exequatur (fls. 49/50), foram os autos remetidos à Seção Judiciária do Estado de São Paulo. O juízo federal de primeiro grau, na data de 26.08.2022, noticiou que o interessado reside atualmente na cidade de Lisboa, acostando certidão exarada nos seguintes termos:
+Certifico e dou fé que, em cumprimento ao presente mandado, no dia 12/08/2022, às 14h50, dirigi-me à Rua Aprígio de Araújo, 2092, apto 101, na cidade de Sertãozinho, onde não notifiquei Arthur Gabriel de Souza Silvério, porque ele reside atualmente na cidade de Lisboa, em Portugal, segundo sua genitora Izilda Aparecida de Souza Silvério (fone 016-99307.6903), que informou que seu filho poderia ser contatado através do telefone nº  351 968.039512.
+Contatei o Sr. Arthur pelo aplicativo do WhatsApp do telefone acima indicado, quando Arthur Gabriel declarou que reside atualmente na Calçada de Arroios, 41, 3º andar, 1000025, na cidade de Lisboa, em Portugal. (certidão de fl. 83).
+Diante do exposto, constatada a impossibilidade de cumprimento da carta rogatória, determino a devolução dos autos à Justiça rogante por intermédio da autoridade central competente, nos termos do art. 216-X, do RISTJ, independentemente do trânsito em julgado.
+Publique-se.
