@@ -1,0 +1,14 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por CYNTHIA INGRID DE OLIVEIRA DIAS à decisão de fls. 692/696, que não conheceu do recurso.
+Sustenta a parte embargante que (fl. 701):
+Com efeito, da leitura da decisão embargada, verifica-se que os precedentes citados pelo Exmo. Sr. Min. Presidente dizem respeito a pedido de licença remunerada, com exercício provisório, para acompanhar cônjuge (art. 84, § 2º, da Lei nº 8.112/90), enquanto que no caso concreto a parte ora embargante busca a concessão de licença NÃO remunerada, para acompanhar cônjuge (art. 97 da Lei Estadual do Amapá nº 0066/93, correspondente ao art. 84, caput e § 1º, da Lei nº 8.112/90). Trata-se, portanto, de situação diversa.
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+No caso dos autos, como bem fixado na decisão ora embargada o pleito recursal não esbarra no fato da concessão da licença ser ou não remunerada; mas se de fato ocorreu o instituto do deslocamento que justificaria o direito à licença.
+O cônjuge da ora embargante não fora deslocado por interesse da administração; mas tomou posse para exercer cargo de Juiz Substituto na Comarca de Aratuba/CE em 25/06/2016 e; como bem ficou fundamentado na decisão ora embargada, há entendimento jurisprudencial contrário ao pleito da embargante, uma vez que, não é possível "(..) a concessão do benefício no caso de provimento originário do cônjuge no serviço público, quando a ruptura da união familiar decorre de ato voluntário." (AgInt no REsp n. 1.565.070/MS, relator Ministro Og Fernandes, Segunda Turma, julgado em 7/3/2017, DJe de 13/3/2017.)
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
