@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de habeas corpus com pedido liminar impetrado em favor de SAULO DE SOUZA em que se aponta como autoridade coatora o Tribunal de Justiça do Estado do Rio de Janeiro (HC n. 0040202-48.2022.8.19.0000, relatora a Desembargadora SUIMEI CAVALIERI).
+Narra o impetrante que o paciente cumpre pena pela prática dos crimes de tráfico de drogas e porte ilegal de arma de fogo de uso permitido, desde 3/1/2015, porém, esteve foragido desde 4/8/2016, sendo recapturado em 22/6/2020.
+Alega, contudo, que o estabelecimento prisional onde o paciente encontra-se recluso, até a presente data, não teria realizado o devido procedimento administrativo para apuração da falta grave.
+Relata que a defesa formulou pedidode reconhecimento da prescrição da falta grave, que foi indeferido, bem como de aplicação retroativa da Lei n. 13.964/2019, para afastar o caráter hediondo do crime de tráfico de drogas para fins de progressão de regime e, ainda, de progressão do paciente ao regime semiaberto, não tendo o Juízo das execuções analisado os dois últimos pleitos.
+No Superior Tribunal de Justiça, oimpetrante sustenta que o paciente sofre constrangimento ilegal, em razão do excesso de prazo para apreciação do pedido de progressão de regime, e salienta que o réu se encontra há mais de 60 dias em regime mais rigoroso do que aquele aque faria jus.
+Requer, liminarmente e no mérito, a concessão ao paciente da progressão ao regime semiaberto; a aplicação retroativa da Lei n. 13.964/2019, para fins de retirar o caráter hediondo do crime de tráfico de drogas em relação àprogressão de regime, devendo ser utilizado o mesmo percentual aplicado aos crimes comuns, qual seja, 1/6 da pena, determinando novo cálculo para fins de progressão ao regime aberto; ou, subsidiariamente, seja determinado que, no prazo de 10 dias, a autoridade coatora se manifeste sobre os pedidos de progressão e de aplicação retroativa da Lei n.13.964/2019, para fins de progressão.
+O pedido liminar foi indeferido.
+Ouvido, o Ministério Público Federal manifestou-se pelo não conhecimento do presente inconformismo.
+É o relatório.
+Decido.
+Consoante se observa do relatório, busca a defesaa progressão do réu ao modo intermediário e a aplicação retroativa da Lei n.13.964/2019, para fins de retirar o caráter hediondo do crime de tráfico de drogas em relação àprogressão de regime.
+No entanto, verifico que das questões não podeconheceresta Casa, diante da falta de manifestação do Tribunal de origem sobre os temas.
+Nessa alheta, fica impossibilitado o pronunciamento deste Sodalício, sobrepujando a competência da Corte estadual, sob pena de configuração do chamado habeas corpus per saltum, a ensejar supressão de instância e violação dos princípios do duplo grau de jurisdição e do devido processo legal substancial.
+Adequado à espécie, nessa perspectiva, o ensinamento de Renato Brasileiro que, ao apreciar a matéria, destacou a inviabilidade do "pedido de julgamento de habeas corpus per saltum, ou seja, do julgamento do remédio heroico pelas instâncias superiores sem prévia provocação das instâncias inferiores acerca do constrangimento ilegal à liberdade de locomoção, sob pena de verdadeira supressão de instância e consequente violação do princípio do duplo grau de jurisdição" (LIMA, Renato Brasileiro. Manual de processo penal: volume único - 4. ed. rev., ampl. e atual. - Salvador: Ed. JusPodivm, 2016,p. 2.470).
+No mesmo sentido foi a manifestação do Ministério Público Federal.
+Transcrevo, por oportuno, estes trechos do parecer (e-STJ fls. 87/91):
+Compulsando os autos, observo que os pedidos de progressão ao regime semiaberto e de afastamento do caráter hediondo do delito de tráfico ilícito de entorpecentes não foram apreciados pelas instâncias ordinárias.
+A Corte de origem destacou que: a tese acerca da retirada da equiparação do delito de tráfico de drogas aos crimes hediondos, com o advento da Lei nº 13.964/19 (Pacote Anticrime), a ensejar a aplicação das frações de progressão de regime previstas na LEP para os crimes comuns, deve ser primeiramente analisada pelo juízo impetrado quando da avaliação da progressão, sob pena de supressão de instância (fl. 49 e-STJ).
+Assim, não tendo sido analisada a matéria pelas instâncias ordinárias, inviabiliza-se o exame do tema diretamente por esse Superior Tribunal de Justiça, sob pena de incorrer-se em indevida supressão de instância.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
