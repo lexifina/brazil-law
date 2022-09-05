@@ -1,0 +1,75 @@
+DECISÃO
+Trata-se de Recursos Especiais interpostos, com fundamento no art. 105, III, "a" e "c", da Constituição da República, contra acórdão do Tribunal Regional Federal da 4ª Região assim ementado:
+EXECUÇÃO FISCAL. CANCELAMENTO ADMINISTRATIVO DO DÉBITO. EXTINÇÃO DO FEITO. HONORÁRIOS ADVOCATÍCIOS.
+1. É firme a jurisprudência deste Tribunal e do STJ no sentido de que, sendo cancelada a inscrição da dívida ativa e já tendo ocorrido a citação do devedor, mesmo sem resposta, a extinção do feito implica a condenação da Fazenda Pública ao pagamento das custas processuais e honorários advocatícios.
+2. No caso concreto, embora se justifique a fixação dos honorários em favor da executada - uma vez que a extinção da execução fiscal ocorreu após a citação e apresentação de defesa -, a referida extinção não implicou efetivo proveito econômico, uma vez que as inscrições se encontram ativas e poderão ser exigidas após decisão definitiva na via administrativa,
+3. Assim, os honorários devem ser fixados por equidade, nos termos do art. 85, § 8º, do CPC, em R$ 20.000,00 (vinte mil reais), atualizado monetariamente pelo IPCA-E, atendidos os critérios do artigo 85, § 2º, I a IV, especialmente a natureza e a importância da causa.
+A União afirma que houve, além de divergência jurisprudencial, ofensa ao art. 26 da Lei 6.830/1980.
+Defende a recorrente:
+Como se vê, o art. 26 da LEF é claro em dizer que se a Dívida Ativa for cancelada antes da decisão de primeiro grau a execução fiscal será extinta sem qualquer ônus para as partes.
+Essa regra, por certo, reclama contexto para a sua aplicação. Faz sentido o seu uso em se considerando o ajuizamento de demandas por equívoco do exequente. Não há lógica em dispensar o pagamento de honorários em tais casos se o exequente foi induzido a propor a demanda por dispor de informações errôneas prestadas pelo próprio contribuinte.
+O particular aponta violação do art. 85, §§ 2º e 8º, do CPC edissídio pretoriano sobre a matéria.
+A parte aduz:
+Excelências, o Tribunal Regional Federal acolheu o recurso de apelação, mas a decisão fixou honorários sucumbenciais em R$ 20.000,00 (vinte mil reais) quando deveria ter sido obedecido as regras do art. 85, § 3º do CPC.
+(..)
+Veja que por este entendimento somente aplicaria a regra do § 8º somente para quando a causa for de VALOR BAIXO o que não é o caso. Ainda quando a FAZENDA NACIONAL existe uma moderação no CPC que permite valores inferiores a 10%, no caso em questão o valor seria de 3% como determinou o Relator Originário.
+Contrarrazões às fls. 4.390-4.400, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 8.7.2022.
+Preenchidos os pressupostos de admissibilidade, passo ao exame dos Recursos em separado.
+1. Recurso Especial da Fazenda Nacional
+Preliminarmente, constata-se que não se configura a ofensa aos arts. 489 e 1.022 do Código de Processo Civil. O Tribunal de origem examinou e decidiu, fundamentadamente, todas as questões postas ao seu crivo. Julgou integralmente a lide e solucionou a controvérsia. Portanto, não cabe falar em negativa de prestação jurisdicional.
+Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+Na hipótese dos autos, a parte insurgente busca a reforma do aresto impugnado, sob o argumento de que nele não houve manifestação sobre o tema ventilado nos Embargos de Declaração.
+Todavia, constata-se que o acórdão impugnado está bem fundamentado, inexistindo omissão, contradição, obscuridade ou erro material:
+Assim, a despeito da argumentação invocada pela embargante, inexiste o vício apontado, uma vez que a decisão embargada encontra-se devidamente fundamentada, com a apreciação dos pontos relevantes e controvertidos da causa, em harmonia com a jurisprudência dominante desta Corte e do STJ, referindo, inclusive, decisão tomada em sede de Recurso Repetitivo, de obrigatória observância (Resp 1111002/SP). Na linha da decisão, o fato de a extinção da execução fiscal ter por causa erro da exequente, conforme descrito no E20, e não na prescrição, alegada na exceção de pré-executividade, é irrelevante, pois interessa quem deu causa à extinção da execução fiscal após a contratação de advogado e a apresentação de defesa pelo executado.
+Dessa forma, não pode se eximir de arcar com os ônus sucumbenciais.
+No mérito, melhor sorte não assiste à parte insurgente.
+No julgamento do REsp 1.111.002/SPsob o rito dos Recursos Especiais Repetitivos, o STJ entendeu que, "em casos de extinção de execução fiscal em virtude de cancelamento de débito pela exequente, define a necessidade de se perquirir quem deu causa à demanda a fim de imputar-lhe o ônus pelo pagamento dos honorários advocatícios".Cito ementa do julgado:
+PROCESSUAL CIVIL. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. ART. 543-C, DO CPC. EXECUÇÃO FISCAL. EXTINÇÃO. CANCELAMENTO DO DÉBITO PELA EXEQUENTE. ERRO DO CONTRIBUINTE NO PREENCHIMENTO DA DECLARAÇÃO DE DÉBITOS E CRÉDITOS TRIBUTÁRIOS FEDERAIS - DCTF. HONORÁRIOS ADVOCATÍCIOS. APLICAÇÃO DO PRINCÍPIO DA CAUSALIDADE. IMPRESCINDIBILIDADE DA VERIFICAÇÃO DA DATA DE APRESENTAÇÃO DA DECLARAÇÃO RETIFICADORA, SE HOUVER, EM COTEJO COM A DATA DO AJUIZAMENTO DA EXECUÇÃO FISCAL.
+(..)
+3. É jurisprudência pacífica no STJ aquela que, em casos de extinção de execução fiscal em virtude de cancelamento de débito pela exequente, define a necessidade de se perquirir quem deu causa à demanda a fim de imputar-lhe o ônus pelo pagamento dos honorários advocatícios. Precedentes: AgRg no REsp nº 969.358 - SP, Segunda Turma, Rel. Min. Mauro Campbell Marques, julgado em 6.11.2008; EDcl no AgRg no AG nº 1.112.581 - SP, Segunda Turma, Rel. Min. Mauro Campbell Marques, julgado em 23.7.2009; REsp nº 991.458 - SP, Segunda Turma, Rel. Min. Mauro Campbell Marques, julgado em 2.4.2009; REsp nº 626.084 - SC, Primeira Turma, Rel. Min. Denise Arruda, julgado em 7.8.2007; AgRg no REsp nº 818.522/MG, 1ª Turma, Rel. Min. José Delgado, DJ de 21.8.2006; AgRg no REsp nº 635.971/RS, 1ª Turma, Rel. Min. Luiz Fux, DJ de 16.11.2004.
+4. Tendo havido erro do contribuinte no preenchimento da Declaração de Débitos e Créditos Tributários Federais - DCTF, é imprescindível verificar a data da apresentação do documento retificador, se houver, em cotejo com a data do ajuizamento da execução fiscal a fim de, em razão do princípio da causalidade, se houver citação, condenar a parte culpada ao pagamento dos honorários advocatícios.
+5. O contribuinte que erra no preenchimento da Declaração de Débitos e Créditos Tributários Federais - DCTF deve ser responsabilizado pelo pagamento dos honorários advocatícios, por outro lado, o contribuinte que a tempo de evitar a execução fiscal protocola documento retificador não pode ser penalizado com o pagamento de honorários em execução fiscal pela demora da administração em analisar seu pedido.
+6. Hipótese em que o contribuinte protocolou documento retificador antes do ajuizamento da execução fiscal e foi citado para resposta com a consequente subsistência da condenação da Fazenda Nacional em honorários.
+(..)
+(REsp 1.111.002/SP, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO,DJe 1º/10/2009)
+No mesmo sentido:
+TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. EXTINÇÃO DA EXECUÇÃO FISCAL. CANCELAMENTO DA CDA APÓS A CITAÇÃO DO DEVEDOR. HONORÁRIOS ADVOCATÍCIOS DEVIDOS. SÚMULA 83/STJ. REVISÃO DE QUANTUM. APRECIAÇÃO EQUITATIVA. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO DO ESTADO NÃO PROVIDO.
+1. A jurisprudência do STJ possui firme entendimento no sentido de que a extinção da execução fiscal, por cancelamento da CDA, após a citação da parte executada, implica na condenação de honorários advocatícios. Incidência da Súmula 83/STJ.
+(..)
+4. Agravo interno do estado não provido.
+(AgInt no REsp 1.942.661/RJ, Rel. Ministro Manoel Erhardt (Desembargador Convocado do TRF5), Primeira Turma, DJe 24/3/2022)
+RECURSO FUNDADO NO NOVO CPC/2015. TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALEGADA VIOLAÇÃO DO ART. 1.022 DO CPC/15. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. ALEGAÇÃO DE INFRINGÊNCIA À SÚMULA. IMPOSSIBILIDADE. EXTINÇÃO DA EXECUÇÃO FISCAL. CANCELAMENTO DA CDA. HONORÁRIOS ADVOCATÍCIOS. POSSIBILIDADE.
+(..)
+3. A jurisprudência desta Corte é uníssona no sentido de que, sobrevindo extinção da execução fiscal em razão do cancelamento da certidão de dívida ativa após a citação válida do executado, a Fazenda Pública deve responder pelos honorários advocatícios, em homenagem ao princípio da causalidade. Precedentes: AgRg no AREsp 791.465/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 23/08/2016, DJe 31/08/2016; REsp 1648213/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 14/03/2017, DJe 20/04/2017.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.134.984/MG, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 6/3/2018)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. CANCELAMENTO DA CDA. PAGAMENTO EXTRAJUDICIAL POSTERIOR AO AJUIZAMENTO DA AÇÃO DE COBRANÇA. HONORÁRIOS ADVOCATÍCIOS. CABIMENTO. DESNECESSIDADE DE REVOLVIMENTO DAS PROVAS DOS AUTOS. INAPLICABILIDADE DA SÚMULA 7/STJ.
+1. O Superior Tribunal de Justiça possui entendimento de ser devida a condenação ao pagamento de honorários advocatícios quando a quitação extrajudicial do débito excutido ocorrer após o ajuizamento da ação executiva, mesmo antes de efetivada a citação, em homenagem ao princípio da causalidade, não devendo incidir a exceção prevista no art. 26 da LEF.
+2. Ao contrário do que alega a agravante, as questões referentes às datas do ajuizamento da ação, do pagamento do crédito tributário e da citação da parte executada encontram-se discriminadas na própria ementa do aresto recorrido, não demandando qualquer investigação dos elementos dos autos, razão pela qual incabível o óbice da Súmula 7/STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.067.906/PE, Rel. Ministro Og Fernandes, Segunda Turma, DJe 13/12/2017)
+TRIBUTÁRIO. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. CONDENAÇÃO EM HONORÁRIOS ADVOCATÍCIOS. POSSIBILIDADE - ART. 26 DA LEF. SÚMULA 83 DO STJ
+(..)
+2. Quanto ao mérito, a jurisprudência desta Corte é uníssona no sentido de que, sobrevindo extinção da execução fiscal em razão do cancelamento da certidão de dívida ativa após a citação válida do executado, a Fazenda Pública deve responder pelos honorários advocatícios, em homenagem ao princípio da causalidade.
+3. Com efeito, o STJ, a partir do EREsp 80257/SP, julgado pela Primeira Seção, vem adotando o entendimento de que é cabível a condenação da Fazenda Pública em honorários de advogado na hipótese de desistência da execução fiscal, em razão de a parte executada ter contratado os serviços de advogado com o objetivo de extinguir o processo.
+4. A Corte de origem adotou o posicionamento pacificado do STJ.
+Incidência da Súmula 83 do STJ.
+5. Recurso Especial não provido.
+(REsp 1.648.213/RS, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 20/4/2017)
+O entendimento adotado está de acordo com a jurisprudência desta Corte. Portanto,a reapreciaçãoda conclusão adotada - no sentido de que a União deu causa irregularmente ao ajuizamento do feito - é inviável em Recurso Especialante o óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial".
+2. Recurso Especial de Acriltec Acrilicos Ltda.
+Ocolegiado regional consignou que,no caso, os honorários deveriam ser fixados por equidade(fl. 4.314, e-STJ):
+Assim, os honorários devem ser fixados por equidade, nos termos do art. 85, § 8º, do CPC, em R$ 20.000,00 (vinte mil reais), atualizado monetariamente pelo IPCA-E, atendidos os critérios do artigo 85, § 2º, I a IV, especialmente a natureza e a importância da causa.
+Relativamente aos critérios para arbitramento de honorários advocatícios de sucumbência, a Corte Especial do STJ, como se sabe, afetou a matéria para julgamento sob o rito dos Recursos Repetitivos (REsp 1.850.512/SP, REsp 1.877.883/SP, REsp 1.906.618/SP e REsp 1.906.623/SP).
+O objeto específico da pretensão recursal neles veiculada consiste em definir a exegese do art. 85, § 8º, do CPC - isto é, se a norma desse dispositivo legal é aplicável nas hipóteses em que a adoção dos parâmetros estabelecidos nos §§ 2º e 3º do art. 85 do CPC poderia resultar na fixação de verba exorbitante ou excessiva, ou, por qualquer modo, desproporcional.
+O julgamento do Tema 1.076/STJ ("Definição do alcance da norma inserta no § 8º do artigo 85 do Código de Processo Civil nas causas em que o valor da causa ou o proveito econômico da demanda forem elevados") foi concluído com o estabelecimento das seguintes teses: i) a fixação dos honorários por apreciação equitativa não é permitida quando os valores da condenação, da causa ou o proveito econômico da demanda forem elevados. É obrigatória nesses casos a observância dos percentuais previstos nos §§ 2º ou 3º do art. 85 do CPC - a depender da presença da Fazenda Pública na lide -, os quais serão subsequentemente calculados sobre o valor: (a) da condenação, ou (b) do proveito econômico obtido, ou (c) do valor atualizado da causa; e ii) apenas se admite arbitramento de honorários por equidade quando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo.
+O acórdão proferido no julgamento de cada um dos Recursos Especiais acima indicados foi publicado no DJe de 31.5.2022, e, como consequência, tem-se que "As teses fixadas nos julgamentos vinculativos deste Superior Tribunal de Justiça e do Supremo Tribunal Federal podem ser aplicadas imediatamente nos feitos respectivos, ainda que não tenha ocorrido o trânsito em julgado dos precedentes de observância obrigatória e mesmo na pendência de eventuais aclaratórios. Precedentes do STJ e do STF" (AgInt nos EmbExeMS 6.318/DF, Rel. Ministro Jorge Mussi, Terceira Seção, julgado em 22.8.2018, DJe de 3.9.2018).
+In casu, a decisão adotada nainstânciaoriginária não se encontra em sintonia com a orientação do STJ, motivo pelo qual - ressalvados o meu posicionamento a respeito desse ponto (disponível no endereço/link <<https://processo.stj.jus.br/processo/revista/documento/mediado/ componente=ATC&sequencial=145446622&num_registro=201903526617&data=20220531&tipo=4&formato=PDF>>) e a análise da compatibilidade da norma com a Constituição Federal de 1988 - merece reforma o acórdão hostilizado.
+Dada a necessidade de valoração dos critérios fáticos estabelecidos no art. 85, § 2º, do CPC, que serão utilizados também para individualização das alíquotas a serem aplicadas conforme as margens definidas no art. 85, § 3º, do CPC, determino o retorno dos autos à Corte a quo, responsável pelo arbitramento dos honorários de sucumbência nos moldes acima
+3. Conclusão
+Por tudo isso, nego provimento ao Recurso Especial da Fazenda Nacional e dou provimento ao Recurso Especial de Acriltec Acrilicos Ltda.
+Publique-se.
+Intimem-se.
