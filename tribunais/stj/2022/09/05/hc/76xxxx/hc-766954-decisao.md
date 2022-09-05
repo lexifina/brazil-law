@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido de liminar, impetrado contra acórdão assim ementado (fl. 63):
+Agravo em execução. Progressão de regime. Retificação de cálculo de penas. Aplicação da fração de 1/6 (um sexto) para o crime de tráfico de drogas. Inadmissibilidade. Não provimento ao recurso.
+Consta dos autos que o paciente foi condenadoà pena de 10 anos de reclusão, em regime fechado, pela prática do crime de tráfico de drogas, encontrando-se atualmente cumprindo a referida pena.
+Sustenta o impetrante, em suma, que os cálculos para progressão de regime do paciente devem ser refeitos, considerando-se queo lapso necessário para fins de progressão de regimeaos condenados não reincidentespassou a ser de 1/6 (com base no art. 112, II da Lei 7.320/1984) e não de 2/5.
+Salienta queo reeducandocumpre portráfico de drogas, delito considerado de natureza comum, o qual, com o advento da Lei n. 13.946/2019 (que revogou o § 2º do art. 2º da Lei 8.072/1990), não possuiria mais o caráter hediondo.
+Requer, liminarmente e no mérito, seja afastada a hediondez do crime de tráfico de drogas, com a consequente aplicação da fração de 1/6 para a progressão de regime do paciente.
+Não havendo divergência da matéria no órgão colegiado, admissível seu exame in limine pelo relator, nos termos do art. 34, XVIII e XX, do RISTJ.
+Quanto ao tema, assim se manifestou a Corte estadual (fls. 64-65):
+Inconsistente o recurso.
+A questão é simples.
+O Agravante requereu a retificação do cálculo de cumprimento de pena, entendendo que, de acordo com a nova redação do artigo 112, inciso I, da Lei nº 7.210/84, dada pela Lei nº 13.964/19, a exigência de lapso correspondente a 16% (dezesseis cento) é a adequada, porque mais benéfica, pela revogação do § 2º do artigo 2º da Lei nº 8.072/90 por aquele novo diploma.
+Nada mais teratológico.
+É certo que o citado § 2º foi revogado, mas não houve solução de continuidade à situação fática ali imposta, ou seja, os não reincidentes devem continuar a cumprir 40% (quarenta por cento) - equivalente a 2/5 (dois quintos) - de sua pena para aquisição do requisito objetivo à progressão de regime (artigo 112, inciso V, da Lei nº 7.210/84, coma redação dada pela Lei nº 13.964/19).
+O raciocínio exposto nas razões recursais é tortuoso e falacioso, estando correta a ponderação feita pelo Ministério Público de Primeira Instância: "Ademais, vale ressaltar que a Lei n 13.964/19 tão somente afastou a hediondez para fins de progressão de regime em casos em que haja aplicação da causa de diminuição de pena prevista no artigo 33, § 4º, da Lei n.11.343/06, conforme disposto no artigo 112, §5º, da Lei de Execução Penal. Logo, considerando a reincidência do executado, e o entendimento firmado pelo Superior Tribunal de Justiça no julgamento do AgRg no HC 616.267 SP e 613.268, o lapso aplicável ao caso é de 40% para progressão de regime, nos termos do inciso V, do artigo 112, da LEP" (fls.58).
+Como visto, o entendimento da instância ordinária está em consonância com a jurisprudência desta Corte Superior, pois a Lei n. 13.964/2019 não retirou o caráter de equiparado a hediondo do crime de tráfico de drogas. Ressalta-se que o caráter hediondo somente é retirado quando incide a figura do tráfico privilegiado, o que não é o caso dos autos, conforme já decidido há muito tempo pelo Supremo Tribunal Federal no HC 118.533/MS e devidamente acompanhado por esta Corte Superior. Nesse sentido:
+HABEAS CORPUS. EXECUÇÃO PENAL. TRÁFICO DE DROGAS PRIVILEGIADO. REVISÃO DO ENTENDIMENTO ANTERIORMENTE CONSOLIDADO PELA TERCEIRA SEÇÃO. CANCELAMENTO DO ENUNCIADO SUMULAR Nº 512/STJ. AFASTAMENTO DO CARÁTER HEDIONDO. LIVRAMENTO CONDICIONAL. INAPLICABILIDADE DO ART. 83, INCISO V, DO CÓDIGO PENAL. ORDEM CONCEDIDA.
+1. A Terceira Seção desta Corte, em 23/11/2016, ao julgar a Petição nº 11.796/DF, reviu o entendimento consolidado no Recurso Especial Representativo da Controvérsia n.º 1.329.088/RS (DJe 26/4/2013), o que repercutiu no afastamento do caráter hediondo do crime de tráfico de drogas privilegiado e, por conseguinte, no cancelamento do enunciado n.º 512 da Súmula deste Superior Tribunal de Justiça.
+2. A partir de uma interpretação sistemática e teleológica da legislação de regência, conclui-se que, em se tratando de condenado pela prática de "tráfico privilegiado" (art. 33, § 4º, da Lei n.º 11.343/2006), cuja natureza não se equipara a dos crimes hediondos, incabível a aplicação do inciso V do art. 83 do Código Penal.
+Precedentes deste Sodalício e da Suprema Corte.
+3. Ordem concedida para, confirmando a liminar, restabelecer a decisão de primeiro grau que deferiu ao paciente o livramento condicional.(HC 403.891/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 05/09/2017, DJe 18/09/2017.)
+Dessa forma, tendo sido o paciente condenado por tráfico de drogas, delito equiparado a hediondo, e sendo primário, adequada a imposição da fração de 40% para fins de progressão de regime, nos termos do art. 112, V, da Lei de Execuções Penais, de onde não há que se falar em recálculo da pena.
+Ante o exposto, indefiro liminarmenteohabeas corpus.
+Publique-se.
+Intimem-se.
