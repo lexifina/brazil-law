@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto por LEONARDO DIAS FERREIRA contra acórdão do Tribunal de Justiça do Estado de Minas Gerais (HC n. 1.0000.22.173259-7/000).
+Orecorrente foi preso preventivamente27/4/2022 diante de representação da autoridade policialpelasuposta prática dos delitos descritos nos arts. 33, caput, e 35da Lei n. 11.343/2006.
+O decreto prisional fundou-se na gravidade concreta da conduta e no suposto fato de o recorrente integrar organização criminosa.
+Impetrado writ originário, a ordem foi denegada.
+Orecorrente alega que está sendo vítima de constrangimento ilegal, pois não estariam presentes os requisitos autorizadores para a segregação cautelar previstos no art. 312 do CPP.
+Defende que seencontrapreso há122 sem que tenha havido, até o momento, o oferecimento da denúncia, motivo pelo qual haveria excesso de prazo para a formação da culpa, a representar violação à duração razoável do processo.
+Pondera que, ainda que seja condenado,fará jus àminorante prevista no art. 33, § 4º, da Lei n. 11.343/2006, sendo a segregação cautelar mais gravosa do que aquela que eventualmente venha cumprir em razão dacondenação final.
+Sustenta que é primário, ostenta bons antecedentes, tem trabalho lícito e épai de umacriança de apenas 5 meses, a qual depende diretamente do seu sustento.
+Requer, liminarmente e no mérito, a expedição de alvará de soltura ou a substituição da prisão preventiva por medidas cautelares diversas.
+É o relatório. Decido.
+Nos casos em que a pretensão esteja em conformidade ou em contrariedade com súmula ou jurisprudência pacificada dos tribunais superiores, a Terceira Seção desta Corte admite o julgamento monocrático do recurso em habeas corpus antes da abertura de vista ao Ministério Público Federal, em atenção aos princípios da celeridade e da efetividade das decisões judiciais, sem que haja ofensa às prerrogativas institucionais do parquet ou mesmo nulidade processual (AgRg no HC n. 674.472/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 10/8/2021; AgRg no HC n. 656.521/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 26/4/2021; e AgRg no HC n. 530.261/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 7/10/2019).
+Sendo essa a hipótese dos autos, passo ao exame do mérito do recurso em habeas corpus.
+Consoante a jurisprudência do STJ, "a aferição do excesso de prazo reclama a observância da garantia da duração razoável do processo, prevista no art. 5º, LXXVIII, da Constituição Federal. Tal verificação, contudo, não se realiza de forma puramente matemática" (AgRg no RHC n. 123.274/RJ, relator Ministro Antonio Saldanha Palheiro, DJe de 4/8/2020).
+Assim, devem ser sopesados o tempo de prisão provisória, as peculiaridades da causa, sua complexidade e outros fatores que eventualmente possam influenciar no curso da ação penal.
+Na situação dos autos, o Tribunal de origem manifestou-se da seguinte forma (fl. 104, destaquei):
+Depreende-se dos autos que o paciente foi preso preventivamente, em 27.04.2022, por suposta violação do disposto nos arts. 33 e 35, ambos da Lei 11.343/06, portanto, há 118 dias.
+A respeito dos prazos previstos para a realização dos atos processuais em matéria penal, devem os mesmos ser contados globalmente.
+Assim, a demora em uma das fases do processo poderá ser compensada em outra. E como sabido, o prazo para encerramento da instrução, nos delitos de tráfico, é de 180 dias, não tendo, portanto, transcorrido o lapso temporal a caracterizar eventual constrangimento ilegal e, por conseguinte, ensejar o relaxamento da prisão do paciente.
+O entendimento acima está em consonância com a jurisprudência do STJ de que, "não havendo notícia de  ..  ato procrastinatório por parte das autoridades públicas, consideradas as especificidades da causa e estando próximo o término da instrução criminal, não há falar em excesso de prazo na espécie (RHC n. 102.868/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 12/3/2019).
+Além disso, "os prazos processuais previstos na legislação pátria devem ser computados de maneira global e o reconhecimento do excesso deve-se pautar sempre pelos critérios da razoabilidade e da proporcionalidade (art. 5º, LXXVIII, da CF), considerando cada caso e suas particularidades" (AgRg no HC n. 588.513/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 4/8/2020).
+Por derradeiro, no que diz respeito às alegaçõesde que os requisitos para a prisão preventiva não estariam preenchidos e de que a segregação cautelar é mais gravosa do que eventual pena aplicada ao recorrente nocasode condenação, as questões não foram enfrentadas pela instância de origem, também não foram opostos embargos de declaração para provocar a referida manifestação. Assim, o STJ não pode apreciar a matéria, sob pena de supressão de instância (RHC n. 98.880/CE, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 14/9/2018).
+Portanto, nestes pontos, o recurso não merece conhecimento.
+Ante o exposto, com fundamento no art. 34, XVIII, b, do RISTJ, conheço em partedo recurso ordinário em habeas corpus e, nesta extensão, nego-lhe provimento, ficando prejudicado o pedido de liminar.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
