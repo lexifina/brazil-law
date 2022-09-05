@@ -1,0 +1,4 @@
+DECISÃO
+O Supremo Tribunal Federal, ao julgar emconjunto a Ação Direta de Inconstitucionalidade (ADI) 4412, de relatoria do ministro Gilmar Mendes, da Petição (Pet) 4770, de relatoria do ministro Luís Roberto Barroso, e da Reclamação (Rcl) 33459, relatada pela ministra Rosa Weber, fixou a seguinte tese:"Nos termos do artigo 102, inciso I, alínea "r", da Constituição Federal, é competência exclusiva do Supremo Tribunal Federal processar e julgar originariamente todas as decisões do Conselho Nacional de Justiça e do Conselho Nacional do Ministério Público proferidas nos exercício de suas competências constitucionais respectivamente previstas nos artigos 103-B, parágrafo 4º, e 130-A, parágrafo 2º, da Constituição Federal".
+ANTE O EXPOSTO,declaro a incompetência absolutado Superior Tribunal de Justiça para processar e julgar o presente feito e determinoa remessa dos autos ao Supremo Tribunal Federal, para os fins de direito.
+Publique-se.
