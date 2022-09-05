@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 30/08/2022 a 05/09/2022, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+Trata-se de agravo interno manejado por MICHEL NOBRE MUZA para desafiar decisão proferida às e-STJ fls. 1538/1545, em que não conheci do recurso especial, considerandoque o recurso especial não é remédio processual adequado para conhecer de irresignação fundada em suposta afronta a preceito constitucional e que incide, no caso,os óbices das Súmulas 7, 83 e 211 do STJ e 282 e 284 do STF.
+Sustenta a parte agravante que (a) houve prequestionamento da matéria relativa aos artigos da Lei n. 9.784/1999, uma vez que, se o recorrente tivesse incorrido em tal deficiência, o apelo nobre sequer teria sido admitido pelo TRF da 4ª Região; (b) os embargos de declaração opostos na origem foram suficientes para prequestionar a matéria relacionada aosartigos da Lei n. 9.784/1999, considerando que foram providos em parte apenas para estes fins; (c) quanto ao pedido subsidiário para que fossem preservados os efeitos do provimento liminar do mandado de segurança, não há qualquer negativa de lei federal, mas sim pleito para que o STJ atuasse em juízo de razoabilidade, na hipótese de o recurso não ser conhecido ou ser desprovido.
+O Ministério Público Federal opina pelo não conhecimento do agravo interno (e-STJ fls. 1559/1563).
+Sem impugnação (e-STJ fls. 1564/1565).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. DECISÃO AGRAVADA. FUNDAMENTOS. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA.
+1. Nos termos do art. 1.021, § 1º, do CPC/2015 e da Súmula 182 do STJ, o agravante deve infirmar, nas razões do agravo interno, os fundamentos da decisão impugnada, sob pena de não ser conhecido o seu recurso.
+2. Hipótese em que o recorrente não se desincumbiu do ônus de impugnar, de forma clara e objetiva, os motivos da decisão ora agravada.
+3. Agravo interno não conhecido.
+VOTO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+De início, considerando os parâmetros estabelecidos pela Corte Especial do Superior Tribunal de Justiça, no julgamento do EREsp 1.424.404/SP (Rel. Ministro LUIS FELIPE SALOMÃO, julgado em 20/10/2021, DJe 17/11/2021), para a aplicação da Súmula 182 do STJ no tocante aos agravos internos manejados contra decisões proferidas em recurso especial ou em agravo em recurso especial, tem-se o seguinte:
+a) incide o verbete quando: i) o único ou todos os capítulos da decisão agravada não foi ou não foram impugnados; ii) não houver a impugnação de todos os fundamentos adotados na análise de determinado capítulo autônomo (quer dizer, ausência de ataque a fundamento capaz, por si só, de manter a conclusão alcançada na decisão agravada);
+b) não se aplica o óbice sumular no caso em que houver vários capítulos autônomos e a parte agravante não se insurgir contra algum deles, pois isso acarreta apenas a preclusão da matéria não impugnada, devendo ser analisado o que remanesceu.
+Dito isso, vê-se que, na hipótese dos autos, o agravo interno não merece ser conhecido.
+Com efeito, no decisum ora recorrido, não conheci do recurso especial, havendo os seguintes capítulos autônomos:
+a) em relação ao art. 5º, XXXVI, da CF/1988, o recurso especial não é remédio processual adequado para conhecer de irresignação fundada em suposta afronta a preceito constitucional, sendo essa atribuição da Suprema Corte, em sede de recurso extraordinário (art. 102, III, da CF/1988);
+b) incidência das Súmulas 211 do STJ e 282 do STF, tendo em vista que os dispositivos legais(arts. 2º, parágrafo único, I, IV, VI, VII, VIII, X, XII e XIII, 56, caput e § 1º, da Lei n. 9.784/1999,arts. 107 e 108 da Lei n. 8.112/1990 earts. 5º e 924, §4º, do CPC/2015), assim como as teses a eles relacionadas não foram prequestionados e que os embargos de declaração apresentados não cumpriram com a finalidade de suprir essa omissão;
+c) incidência das Súmulas 7 e 83 do STJ; e
+d) o art. 927, § 4º, do CPC/2015 não possui comando normativo capaz de sustentar a tese de quesejam preservados os efeitos da liminar concedida, ainda que indeferido o mérito, para que se mantenha hígido o recurso administrativo apresentado em 12/04/2017, em respeito à legítima confiança das partes.
+Contudo, da leitura das razões do agravo interno, observa-se que a parte agravante deixou de atacar devidamente todos os fundamentos da decisão agravada.
+Com efeito, registre-se que o ora agravante sequer tratou dos óbices dos itens "a" e "c" do parágrafo anterior que, por si sós, já são capazes de manter a decisão agravada.
+Acrescente-se que os argumentos de que(i) houve prequestionamento da matéria relativa aos artigos da Lei n. 9.784/1999, uma vez que, se o recorrente tivesse incorrido em tal deficiência, o apelo nobre sequer teria sido admitido pelo TRF da 4ª Região; e (ii) os embargos de declaração opostos na origem foram suficientes para prequestionar a matéria relacionada aos artigos da Lei n. 9.784/1999, considerando que foram providos em parte apenas para estes fins, não se prestam a combater devidamente o fundamento do item "b".
+Destaque-seque o Tribunal de origem, ao realizar o juízo de admissibilidade do apelo nobre, deve analisar os pressupostos específicos e constitucionais concernentes ao mérito da controvérsia, não havendo que se falar em usurpação da competência do STJ. Nesse sentido: AgRg no AREsp 173.359/AM, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 17/03/2015, DJe 24/03/2015, e AgInt no AREsp 933.131/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 25/10/2016, DJe 27/10/2016.
+Todavia,o apelo nobre está submetido aduplo juízo de admissibilidade,competindo a esta Corte de Justiça, enquanto destinatário do recurso especial, o juízo definitivo de admissibilidade mediante nova análise dos pressupostos recursais.
+Ademais, vale dizer, para que se configure o prequestionamento da matéria, não basta que ela seja simplesmente mencionada no acórdão recorrido, mas exige-se o efetivo debate sobre a tese recursal na instância de origem, o que não foi demonstrado nas razõesdo agravo interno, limitando-se o ora agravantea afirmar que os embargos de declaração foram suficientes para fins de prequestionamento, mas sem efetivamente comprovar que os acórdãos recorrido eo integrativo trataramdos temas e dos artigos apontados como violados.
+Por fim, saliento que, segundo pacífica orientação da jurisprudência do STJ, "nos recursos de fundamentação vinculada, como é o caso de recurso especial, a simples demonstração de insatisfação não possibilita o reexame da questão" (AgRg no REsp 1.478.870/PR, rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma,DJe 12/02/2015).
+No caso, o ora agravante não rebateu o fundamento do item "d", cingindo-se a repisar as razões do apelo nobre e a afirmar que, quanto ao pedido subsidiário, não há qualquer negativa de lei federal, mas sim pleito para que o STJ atuasse em juízo de razoabilidade, na hipótese de o recurso não ser conhecido ou ser desprovido, sem apresentar legítima argumentação para tal.
+Desse modo, forçosa se apresenta a observância do contido no art. 1.021, § 1º, do Código de Processo Civil de 2015 e na Súmula 182 do STJ.
+Deixo de aplicar a multa prevista no § 4º do art. 1.021 do CPC/2015, tendo em vista que o mero inconformismo com a decisão agravada não enseja a necessária imposição da sanção quando não configurada a manifesta inadmissibilidade ou improcedência do recurso, por decisão unânime do Colegiado, como no caso em análise.
+Ante o exposto, NÃO CONHEÇO do agravo interno.
+É como voto.
