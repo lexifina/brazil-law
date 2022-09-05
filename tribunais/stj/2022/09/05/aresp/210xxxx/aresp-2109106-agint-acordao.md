@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 30/08/2022 a 05/09/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno interposto peloInstituto Nacional de Metrologia, Qualidade e Tecnologia (INMETRO)desafiando decisão que negou provimento ao agravo em recurso especial, com base nos seguintes fundamentos: (I) não se verifica ofensa aoart. 1022, II, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas; e (II) o acórdão recorrido está em consonância com o entendimento do Superior Tribunal de Justiça, no sentido de que a quantia inferior a 40 salários mínimosdepositadaem conta bancáriadecorrente de verbas salariaisestá acobertada pela proteção legal da impenhorabilidade absoluta, nos termos do art. 833, IV, do Código de Processo Civil.
+Inconformada, a parte agravante sustenta que: (I) há omissão noacórdão recorrido, pois o Tribunal de origem não se manifestou sobre a tese da impossibilidade de o magistrado decretar, de ofício, aimpenhorabilidade dos ativos financeiros; e (II) a regra prevista no art. 833, X, do CPC deve ser interpretada de forma restritiva, de modo que só é possível deferir a proteção legal à parcela dos valores necessária à manutenção da dignidade do devedor e de seus dependentes. Em acréscimo, ressalta que cabe ao executado o ônus de demonstrar a impenhorabilidade dos valores, não podendo o magistrado decretar de ofício a referida proteção.
+Requer a reconsideração da decisão agravada ou a submissão do feito ao julgamento colegiado.
+É o relatório.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 833, X, DO CPC. IMPENHORABILIDADE DE VALORES DEPOSITADOS EM CADERNETA DE POUPANÇA OU CONTA-CORRENTE. LIMITE DE ATÉ 40 SALÁRIOS MÍNIMOS.
+1. Ajurisprudência do Superior Tribunal de Justiça trilha o entendimento de que a quantia inferior a quarenta salários mínimos depositada em conta-corrente, conta poupança ou em qualquer fundo de investimentodecorrente de verbas salariaisdeve ser acobertada pela proteção legal da impenhorabilidade absoluta, nos termos do art. 833, IV e X, do Código de Processo Civil.
+2. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator):A insurgência não merece prosperar.
+Como visto, oInstituto Nacional de Metrologia, Qualidade e Tecnologia (INMETRO)interpôs recurso especial com o fim de reformar acórdão proferido pelo Tribunal Regional Federal da 4ª Região, que concluiu pela impenhorabilidade da quantia de até 40 (quarenta) salários mínimos depositada em caderneta de poupança, na forma prevista no art. 833, X, do CPC.
+A decisão agravada, no ponto objeto do presente agravo interno, concluiu que o acórdão recorrido está em consonância com a jurisprudência do Superior Tribunal de Justiça.
+Nas razões dopresente agravo interno, o INMETRO sustenta a existência de omissão no acórdão proferido pelo Tribunal a quo. Defendeu a tese de quea regra da impenhorabilidade deve ser interpretada de forma restritiva, a fim de assegurar a impenhorabilidadeapenasdos valores destinados à manutenção da subsistência do devedor e de seus dependentes. Por fim, aduziu ser incabível a decretaçãode ofício,pelo magistrado, da impenhorabilidade prevista no art. 833, X, do CPC.
+Sem razão, contudo.
+Inicialmente, não se constata ofensa ao art. 1022 do CPC, tendo vista que a matéria tida como olvidada foi expressamente enfrentada pela Corte Regional. Confira-se (fl. 65):
+Acresce que não se trata de reconhecimento ex officio de impenhorabilidade, mas de conformação da ordem de constrição às regras de impenhorabilidade: porque a Lei estabelece a impenhorabilidade de até 40 salários mínimos, o juízo de origem conformou a ordem de penhora para que incida apenas sobre os valores que superem esse montante (cf. art. 832 do CPC), o que não pode ser tido como inadequado a ponto de justificar a reforma da decisão.
+Quanto ao mérito da controvérsia, inúmeros são os precedentes desta Corte Superior no sentido da impenhorabilidade de valores depositados em caderneta de poupança ou em conta-corrente, até o limite de 40 (quarenta) salários mínimos.
+Confiram-se, nesse sentido, os seguintes arestos:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. PROCESSUAL CIVIL. IMPENHORABILIDADE DE VALOR DE ATÉ 40 (QUARENTA) SALÁRIOS MÍNIMOS MANTIDO EM CONTA BANCÁRIA. ART. 833, X, DO CPC/2015. APLICABILIDADE. PRECEDENTES. AGRAVO DESPROVIDO.
+1. A Segunda Seção desta Corte Superior pacificou o entendimento de que "é possível ao devedor poupar valores sob a regra da impenhorabilidade no patamar de até quarenta salários mínimos, não apenas aqueles depositados em cadernetas de poupança, mas também em conta-corrente ou em fundos de investimento, ou guardados em papel-moeda" (EREsp 1.330.567/RS, Rel. Ministro Luis Felipe Salomão, Segunda Seção, DJe de 19/12/2014).
+2. "A jurisprudência do Superior Tribunal de Justiça manifesta-se no sentido de que todos os valores pertencentes ao devedor, até o limite de 40 (quarenta) salários mínimos, mantidos em conta-corrente, caderneta de poupança ou fundos de investimentos são impenhoráveis, assim como que a simples movimentação atípica, por si só, não seria capaz de caracterizar má-fé ou fraude." (AgInt no REsp 1951550/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 11/10/2021, DJe 14/10/2021) 3. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no REsp n. 1.910.772/DF, relator Ministro Raul Araújo, Quarta Turma, julgado em 20/6/2022, DJe de 1/7/2022.)
+PROCESSUAL CIVIL. DIREITO ADMINISTRATIVO. DÍVIDA ATIVA NÃO TRIBUTÁRIA. MULTAS E DEMAI S SANÇÕES. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de agravo de instrumento contra decisão que determinou a liberação de bloqueio de conta poupança de devedor. No Tribunal a quo, negou-se provimento ao recurso.
+II - Quanto à suposta afronta ao art. 854, §3º, I, do CPC/2015, verifica-se que a decisão proferida pelo Tribunal de origem, de que os valores inferiores a 40 salários-mínimos são impenhoráveis, vai ao encontro da jurisprudência do Superior Tribunal de Justiça.
+Confira-se: AgInt no AREsp 1.706.667/RJ, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 11/11/2020, DJe 17/11/2020.
+III - Agravo interno improvido.
+(AgInt no AREsp n. 2.054.335/RS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 27/6/2022, DJe de 29/6/2022.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. AGRAVO DE INSTRUMENTO. 1. CONTA-POUPANÇA. DESVIRTUAMENTO DO USO. RAZÃO INSUFICIENTE PARA AFASTAR A IMPENHORABILIDADE. PRECEDENTES. 2. ADEQUAÇÃO AO ENTENDIMENTO JURISPRUDENCIAL DESTA CORTE SOBRE O TEMA. 3. AGRAVO INTERNO DESPROVIDO.
+1. De fato, o posicionamento do colegiado estadual diverge da jurisprudência do Superior Tribunal de Justiça, a qual possui o entendimento no sentido de que todos os valores pertencentes ao devedor, até o limite de 40 (quarenta) salários mínimos, mantidos em conta-corrente, caderneta de poupança ou fundos de investimentos, são impenhoráveis, bem como que a simples movimentação atípica, por si só, não seria capaz de caracterizar má-fé ou fraude.
+2. A decisão agravada dirimiu a questão central, aplicando o entendimento jurisprudencial firmado neste Superior Tribunal. Assim, tem-se como inaplicável o óbice sumular apontado pelo agravante.
+3. Agravo interno desprovido.
+(AgInt no REsp n. 1.973.857/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 23/5/2022, DJe de 25/5/2022.)
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSOESPECIAL. EXECUÇÃO FISCAL. VALORES BLOQUEADOS EM CONTA POUPANÇA.IMPENHORABILIDADE. LIMITE DE ATÉ 40 SALÁRIOS MÍNIMOS.AGRAVO INTERNO DAFAZENDA NACIONAL NÃO PROVIDO.
+1. É entendimento desta Corte Superior que são impenhoráveis os saldosinferiores a 40 salários-mínimos depositados não só em caderneta depoupança mas, também, a mantida em fundo de investimento, emconta-corrente ou guardada em papel-moeda, ressalvado eventual abuso,má-fé ou fraude. (AgInt no REsp 1.858.456/RO, Rel. Ministra REGINA HELENACOSTA, PRIMEIRA TURMA, julgado em 15/6/2020, DJe 18/6/2020).
+2. Agravo Interno da FAZENDA NACIONAL não provido.
+(AgInt no AREsp 1853515/RS, Rel. Ministro MANOEL ERHARDT (DESEMBARGADORCONVOCADO DO TRF5), PRIMEIRA TURMA, julgado em 04/10/2021, DJe 07/10/2021)
+PROCESSUAL CIVIL. EXECUÇÃO FISCAL. CONTA-CORREMNTE. 40 (QUARENTA) SALÁRIOSMÍNIMOS. IMPENHORABILIDADE.
+1. De acordo com a jurisprudência firme desta Corte Superior, éimpenhorável a quantia de até quarenta salários mínimos depositada emconta-corrente, aplicada em caderneta de poupança ou outras modalidades deinvestimento, exceto quando comprovado abuso, má-fé ou fraude.Precedentes.
+2. Hipótese em que se reconheceu a impenhorabilidade dos valores emconta-corrente do executado até o limite de 40 (quarenta) saláriosmínimos.
+3. Agravo interno desprovido.
+(AgInt no AREsp 1721805/DF, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA,julgado em 27/09/2021, DJe 07/10/2021)
+No caso, a Corte Regional asseverou (fls. 47/48):
+O agravo de instrumento foi interposto contra decisão que estabeleceu a liberação de ativos financeiros inferiores a 40 salários mínimos nas contas de pessoa física, por conta da manifesta impenhorabilidade.
+Ora, conforme entende esta Segunda Turma, pode o juiz deixar de bloquear os ativos financeiros caso seja aferido que os valores sujeitos ao bloqueio são inferiores a 40 salários-mínimos (cf. TRF4, AG nº 5006254- 90.2016.404.0000, 2ª Turma, juntado aos autos em 20-05-2016; AG nº 5048090- 38.2019.4.04.0000/RS, 2ª Turma, julgado em 18-02-2020).
+Nesse contexto, e levando em consideração que o Superior Tribunal de Justiça firmou entendimento de que é impenhorável a quantia de até quarenta salários mínimos poupada, ainda que mantida em conta corrente, salvo se demonstrado abuso, má-fé ou fraude praticadas pela parte executada (cf. STJ, REsp 1230060/PR, Segunda Seção, julgado em 13/08/2014, DJe 29/08/2014), orientação sintetizada no enunciado 108 da Súmula deste Tribunal, agiu acertadamente o magistrado de primeiro grau ao determinar a liberação de valores localizados nas contas bancárias do executado caso inferiores a 40 salários-mínimos.
+Acresce que a impenhorabilidade é situação que pode ser aferida de plano por ocasião da consulta ao extrato do próprio Bacenjud/Sisbajud, pois o bloqueio foi inferior ao valor total da execução, sendo evidente que o executado não possui saldo em depósitos superior a 40 salários mínimos.
+Daí porque a decisão agravada concluiu pela conformidade do acórdão recorrido com a jurisprudência desta Corte Superior.
+Ressalte-se, por fim, que, sendoa impenhorabilidade de tais valores a regra vigente no ordenamento jurídico, caberá à parte exequente provar a ocorrência de fraude ou abuso.
+Assim, não há motivos para a reforma da decisão alvejada, a qual deve ser confirmada pelo Colegiado.
+ANTE O EXPOSTO, nega-se provimento ao agravo interno.
+É o voto.
