@@ -42,7 +42,7 @@ I - de 5,60% (cinco inteiros e sessenta centésimos por cento), nas operações 
 II - de 7,60% (sete inteiros e sessenta centésimos por cento), na situação de que trata a alínea "b" do inciso II do § 5º do art. 2º desta Lei; e
 III - de 4,60% (quatro inteiros e sessenta centésimos por cento), nos demais casos.
 § 18. No caso de devolução de vendas efetuadas em períodos anteriores, o crédito calculado mediante a aplicação da alíquota incidente na venda será apropriado no mês do recebimento da devolução.
-§ 19. A empresa de serviço de transporte rodoviário de carga que subcontratar serviço de transporte de carga prestado por:
+§ 19. As pessoas jurídicas que contratem serviço de transporte de carga prestado por:
 I - pessoa física, transportador autônomo, poderá descontar, da Cofins devida em cada período de apuração, crédito presumido calculado sobre o valor dos pagamentos efetuados por esses serviços;
 II - pessoa jurídica transportadora, optante pelo SIMPLES, poderá descontar, da Cofins devida em cada período de apuração, crédito calculado sobre o valor dos pagamentos efetuados por esses serviços.
 § 20. Relativamente aos créditos referidos no § 19 deste artigo, seu montante será determinado mediante aplicação, sobre o valor dos mencionados pagamentos, de alíquota correspondente a 75% (setenta e cinco por cento) daquela constante do art. 2º desta Lei.

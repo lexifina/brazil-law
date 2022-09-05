@@ -2,3 +2,4 @@ Art. 282-A. O órgão do Sistema Nacional de Trânsito responsável pela autuaç
 § 1º O proprietário e o condutor autuado deverão manter seu cadastro atualizado no órgão executivo de trânsito do Estado ou do Distrito Federal.
 § 2º Na hipótese de notificação prevista no caput deste artigo, o proprietário ou o condutor autuado será considerado notificado 30 (trinta) dias após a inclusão da informação no sistema eletrônico e do envio da respectiva mensagem.
 § 3º O sistema previsto no caput será certificado digitalmente, atendidos os requisitos de autenticidade, integridade, validade jurídica e interoperabilidade da Infraestrutura de Chaves Públicas Brasileira (ICP-Brasil).
+§ 4º A coordenação do sistema de que trata o caput deste artigo é de responsabilidade do órgão máximo executivo de trânsito da União.
