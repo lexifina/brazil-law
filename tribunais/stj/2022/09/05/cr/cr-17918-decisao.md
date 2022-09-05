@@ -1,0 +1,9 @@
+DECISÃO
+Cuida-se de carta rogatória por meio da qual a Justiça argentina solicita a notificação da Federação das Indústrias do Estado de São Paulo para que informe se os certificados de origem do ano de 2006, detalhados na tabela anexada ao pedido foram validamente emitidos pela FIESP,se são autênticos, além de juntaros destinos de origem relacionados aos certificados, conforme foram apresentados pelo produtor/exportador (fl. 79/80).
+A Federação das Indústrias do Estado de São Paulo, por intermédio de advogados regularmente constituídos, informou que, muito embora constem em seusregistros informações que permitam identificar os documentos relacionados na carta rogatória, não foi possível confirmar-se a emissão, a autenticidade e a veracidade dos certificados de origem, uma vez que a entidade não maispossui cópia daqueles, uma vez que osdocumentos são mantidos pelo período de 2 anos, a partir da data de emissão, nos termos do art. 20 do 77º Protocolo Adicional ao Acordo de Complementação Econômica n. 18, incorporado ao direito interno brasileiro pelo Decreto n. 5.455, de 2/6/2005. (fls. 445-449).
+O Ministério Público Federalopina pela devolução do processo à origem, cumprida a diligência rogada (fls. 2452-453).
+É, o relatório. Decido.
+Oobjeto da presente carta rogatória não atenta contra a soberania nacional, a dignidade da pessoa humana e/ou a ordem pública, razão pela qual, com fundamento no art. 216-O, combinado com o art. 216-P do RISTJ, concedo oexequatur.
+Diante do cumprimento da diligência rogada (fls. 452-453), considero consumado o objeto da comissão, sendo desnecessária a remessa dos autos à Justiça Federal.
+Ante o exposto, determino a devolução dos autos à Justiça rogante (art. 216-X do RISTJ) por intermédio da autoridade central competente, independentemente do trânsito em julgado.
+Publique-se.
