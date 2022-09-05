@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de Agravo contra inadmissão de Recurso Especial interposto (art. 105, III, "a", da Constituição da República) a acórdão assim ementado (fl. 42, e-STJ):
+TRIBUTÁRIO. AGRAVO INTERNO. EXECUÇÃO FISCAL, DESBLOQUEIO DE VALORES. SISBAJUD. IMPENHORABILIDADE DE 40 SALÁRIOS MÍNIMOS. SÚMULA 108 DO TRF4. INTERPRETAÇÃO EXTENSIVA DO ART. 833 DO CPC.
+1. O Superior Tribunal de Justiça indica necessidade de uma interpretação extensiva das normas sobre impenhorabilidade, para alcançar pequenas reservas de capital poupadas, mesmo que não o sejam através de depósitos em caderneta de poupança.
+2. A Súmula 108 deste Tribunal Regional Federal da Quarta Região indica ser impenhorável a quantia depositada até quarenta salários mínimos em caderneta de poupança (art. 833, X, NCPC), bem como a mantida em papel moeda, conta-corrente ou aplicada em CDB, RDB ou em fundo de investimentos, desde que seja a única reserva monetária, e ressalvado eventual abuso, má-fé, ou fraude.
+Os Embargos de Declaração foram rejeitados (fl. 60, e-STJ).
+Em seu Recurso Especial, o agravante aponta violação, em preliminar, dos arts. 489 e 1.022 do CPC; no mérito, dos arts. 835, I, 854, §§ 3º, I, e 5º, 789 e 797do CPC; e 7º, II, 9º, 10 e 11, I, da LEF. Defende:
+(..) acerca de eventual impenhorabilidade dos valores depositados em instituições financeiras, o juízo da execução simplesmente e de modo antecipado, sem a provocação da parte, afastou a chance de penhora dos valores.
+Ora, uma vez proposta a execução fiscal, o devedor é citado para pagar ou nomear bens, nos termos do art. 7º, II c/c art. 9 da LEF. E, se o devedor não pagar nem indicar bens, como no presente caso, abre-se ao exequente o direito penhorar tantos bens quantos os necessários para satisfazer o credor, conforme art. 10 do mesmo Diploma legal.
+Nesse desiderato, não se pode olvidar que a penhora de ativos financeiros se encontra em primeiro lugar na ordem de preferência, nos termos do art. 11, I, da LEF c/c art. 835 I, do CPC.
+O juízo, portanto, não substitui a manifestação da parte executada, que pode, inclusive, silenciar ou adimplir o débito. A prescrição legal apenas corrobora o entendimento de que se trata de direito patrimonial disponível, à alçada do devedor, que pode optar por não se opor à constrição.
+Não se pode impedir a penhora de valores cuja impenhorabilidade sequer foi objeto de arguição (pela parte executada), visto que tal negativa retiraria da execução qualquer garantia, em afronta ao princípio segundo o qual a execução deve ser promovida no interesse do credor (art. 797 do CPC).
+Ademais, a decisão agravada subverte a regra geral da responsabilidade patrimonial executória, de que "o devedor responde com todos os seus bens presentes e futuros para o cumprimento de suas obrigações, salvo as restrições estabelecidas em lei." (art. 789 do CPC).
+Assim, não pode ser mantido o decreto de impenhorabilidade de todo e qualquer valor apenas em razão do limite de 40 SM.
+É o relatório.
+Decido.
+Os autos foram recebidos neste gabinete em 9 de agosto de 2022.
+Preliminarmente, constata-se que não se configura a ofensa ao art. 1.022 do Código de Processo Civil. O Tribunal a quo examinou e decidiu, fundamentadamente, todas as questões postas ao seu crivo. Julgou integralmente a lide e solucionou a controvérsia. Portanto, não cabe falar em negativa de prestação jurisdicional.
+Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+No caso em tela, a parte insurgente busca a modificação do julgado, asseverando que a Corte regional não se pronunciou sobre o tema ventilado nos aclaratórios. Todavia, verifica-se que o acórdão controvertido está bem fundamentado, sem quaisquer dos vícios previstos no aludido dispositivo legal.
+Vale destacar que o simples inconformismo da parte não tem a propriedade de tornar cabíveis os Embargos de Declaração, que servem ao aprimoramento do decisum, mas não à sua reforma, só muito excepcionalmente admitida.
+Observo que o colegiado local não emitiu juízo de valor sobre as questões jurídicas levantadas em torno dos dispositivos mencionados.
+O Superior Tribunal de Justiça entende ser inadmissível o conhecimento do Recurso Especial quando os artigos tidos por violados não foram apreciados na origem, ainda que se trate de matéria de ordem pública, como a prescrição, e a despeito dos Embargos de Declaração opostos. Ante a ausência do requisito do prequestionamento, incide na espécie a Súmula 211/STJ.
+Além disso, apenas para esclarecer eventuais dúvidas, ressalto que, mesmo nos casos em que a instância ordinária acolhe os Embargos de Declaração "para efeito de prequestionamento", essa exigência não é satisfeita. Isso porque, para que se tenha por atendido esse requisito, não basta que se dê por prequestionado o dispositivo, é indispensável também a emissão de juízo de valor sobre a matéria
+A impenhorabilidade da quantia de até quarenta salários mínimos poupada alcança não somente as aplicações em caderneta de poupança, mas também as mantidas em fundo de investimentos, em conta-corrente ou guardadas em papel- moeda, ressalvados eventuais abuso, má-féou fraude, a serem verificados de acordo com as circunstâncias do caso concreto.
+Dessume-se que o aresto recorrido está em sintonia com o atual entendimento deste Tribunal Superior, motivo pelo qual não merece prosperar a irresignação. Incide, no caso, o princípio estabelecido na Súmula 83/STJ: "Não se conhece do Recurso Especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida."
+Nessa linha:
+AGRAVO REGIMENTAL - AGRAVO EM RECURSO ESPECIAL - EXECUÇÃO DE SENTENÇA - PENHORA DE NUMERÁRIO - JUNTADA DE DOCUMENTOS SEM VISTA À PARTE CONTRÁRIA - AUSÊNCIA DE PREJUÍZO - IMPENHORABILIDADE QUE PODE SER DECLARADA DE OFÍCIO - DECISÃO AGRAVADA MANTIDA - IMPROVIMENTO.
+1.- A jurisprudência desta Corte orienta, há muito, que "por regra geral do Código de Processo Civil, não se dá valor a nulidade, se dela não resultou prejuízo para as partes" (REsp 449.099/PR, Rel. Min. FELIX FISCHER, DJ 28.10.2003).
+2.- "Há que ser reconhecida nulidade absoluta da penhora quando esta recai sobre bens absolutamente impenhoráveis. Cuida-se de matéria de ordem pública, cabendo ao magistrado, de ofício, resguardar o comando insculpido no artigo 649 do CPC. Tratando-se de norma cogente que contém princípio de ordem pública, sua inobservância gera nulidade absoluta consoante a jurisprudência assente neste STJ" (REsp 864.962/RS, Rel. Min. MAURO CAMPBELL MARQUES, DJe 18.2.2010).
+3.- O Agravo não trouxe nenhum argumento novo capaz de modi c ar a conclusão alvitrada, a qual se mantém por seus próprios fundamentos.
+4.- Agravo Regimental improvido.
+(AgRg no AREsp 55.742/RS, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, DJe 1º/2/2012)
+Por tudo isso, conheço do Agravo para conhecer parcialmente do Recurso Especial, apenas com relação à afronta ao art. 1.022 do CPC, e, nessa parte, negar-lhe provimento.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se.
+Intimem-se.
