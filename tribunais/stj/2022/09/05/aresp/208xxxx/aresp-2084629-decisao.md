@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo manejado por Leo Castro da Silva contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a e c, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (fl. 301):
+RESPONSABILIDADE CIVIL. INSCRIÇÃO EM CADASTRO NEGATIVO DECRÉDITO. INOCORRÊNCIA. FATOS CONSTITUTIVOS. NÃOCOMPROVADOS. SERASA "LIMPA NOME". DANO MORAL. NÃOOCORRÊNCIA.
+Caso em que o autor alega ter tido seu crédito prejudicado em razão de anotação de dívida prescrita em seu nome. Débito que não se encontra em cadastro restritivo de crédito. À parte autora incumbe a prova dos fatos constitutivos do seu Direito (art.373, I do CPC). SERASA LIMPA NOME Portal que visa à negociação entre o consumidor e as empresas conveniadas. Dívida prescrita, sem prova de que a parte retenha praticado qualquer ato de exigibilidade. Indevido novo reconhecimento da prescrição. Ausência de cobrança vexatória. Dano moral não configurado. Sentença mantida. APELAÇÃO DESPROVIDA.
+Opostos embargos declaratórios, foram rejeitados ante a inexistência dos vícios elencados no art. 1.022 do CPC/2015 (fls. 351/354).
+Nas razões do recurso especial, a parte agravante aponta violação ao art. 1.022, II do CPC,206, § 5º, I, do CCB, 37, § 1º, 46, 47 e 51 do CDC. Sustenta tese de negativa de prestação jurisdicional. Defende, em síntese, que "não cobrada na justiça a dívida após 5 anos do seu vencimento (data em que deveria ter sido paga), estará prescrito o direito de cobrança da mesma e ela não poderá constar de qualquer registro negativo" (fl. 396). Assevera que "o cadastro SERASA LIMPA NOME possui o caráter restritivo de crédito, pois, a partir das informações fornecidas pelos conveniados acerca das dívidas dos consumidores, "registra no sistema com acesso a todos" o comportamento do consumidor em suas relações negociais passadas, em 95% dívidas prescritas e/ou decaídas, fazendo que seu crédito seja negado no mercado" (fl. 403). Invoca a aplicação do princípio da interpretação mais favorável ao consumidor.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+O inconformismo não prospera.
+Não se vislumbra a alegada ofensa ao art. 1.022, II do CPC, porquanto a instância ordinária solucionou, de forma clara e fundamentada, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não havendo que se confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+A tanto, verifica-se, pela fundamentação do acórdão recorrido (fls. 298//302), integrada em sede de embargos declaratórios (fls. 351/354), que o Tribunal de origem motivou adequadamente sua decisão e solucionou a controvérsia com a aplicação do direito que entendeu cabível à hipótese. Outrossim, não se descortina negativa de prestação jurisdicional, ao tão só argumentode o acórdão recorrido ter decidido em sentido contrário à pretensão da parte.
+Por sua vez, a matéria de fundo trazida à discussão restou assim decidida no acórdão recorrido(fls. 298/300):
+Com efeito, da análise da prova trazida ao processo, a despeito da incidência do Código de Defesa do Consumidor ao caso em tela, entendo que ainda assim remanesce à parte autora a incumbência de comprovar minimamente os fatos constitutivos do seu direito, à luz do que dispõe o art. 373, I do CPC, obrigação que o postulante não se desincumbiu a contento.
+Pretende a parte autora, em suma, a declaração de inexistência de débito, reconhecimento da prescrição, pois vencida a dívida em 2013. Também pede a exclusão do registro negativo e dano moral, atribuindo a responsabilidade desse suposto prejuízo à demandada, por ter armazenado dados de dívida já prescrita.
+Conforme documento juntado no Evento 1 - OUT8, o nome do autor não está anotado em "Registro Negativo" por inciativa da ré.
+O referido indica que o autor está incluso no serviço denominado "serasa limpa nome".
+Essa plataforma  onde apontada pendência de débito, geralmente prescrito  é um serviço ofertado ao consumidor, que pode consultar a existência de dívidas, inscritas ou não, sendo que não há disponibilização para terceiros do seu conteúdo para fins de concessão ou não de crédito.
+Daí a razão de o "serasa limpa nome" não ser um cadastro restritivo de crédito.
+A ferramenta possibilita eventual acordo para pagamento de débitos já atingidos pela prescrição.
+Da declaração de inexistência de débito e do reconhecimento da prescrição.
+Conforme documentos trazidos pela ré, há prova da existência da dívida do autor frente a demandada.
+Logo, não há fundamento legal para declará-la inexistente.
+Esse débito venceu no ano de 2013. Era exigível, portanto, até meados de 2018.
+Após essa data não há qualquer adminículo de prova de que a credora tenha praticado qualquer ato que configure exigibilidade.
+Se não exigiu o crédito, disso se infere que observou a prescrição, daí da razão de ser indevido um novo reconhecimento do fenômeno jurídico.
+Logo, não há necessidade de intervenção judicial para solucionar conflito que inexiste.
+De outro, considerando que a prescrição não tem o efeito liberatório da quitação, descabe o reconhecimento da inexistência da dívida.
+(..)
+Em conclusão, tenho que a utilização da plataforma "limpa nome" está no espectro das outras consequências da existência da dívida que não sejam a exigibilidade.
+Não é demais repetir, a prescrição não atinge o direito subjetivo em si mesmo, motivo pelo qual ainda é viável a oferta de acordo que possibilite o eventual pagamento, contanto que não seja feita uma cobrança vexatória.
+Isso decorre da própria existência da obrigação natural.
+De outro, anoto que a Súmula 323 do STJ diz com a possibilidade de manutenção do nome do devedor nos cadastros de proteção ao crédito até o prazo máximo de cinco anos.
+Não é o caso dos autos, pois os dados do Serasa Limpa Nome estão disponíveis apenas ao consumidor e não a terceiros (quando se admite fiquem disponíveis por cinco anos).
+Assim, inexistindo registro disponível em seu nome ao mercado, deveria a parte comprovar que teve seu crédito abalado em virtude do serviço questionado, o que deixou de fazer, descumprindo seu ônus processual de comprovar os fatos constitutivos de seu direito.
+Dessa forma, a improcedência dos pedidos era medida que se impunha.
+No presente caso, o recurso especial não impugnou fundamento basilar que ampara o acórdão recorrido, qual seja, "a prescrição não tem o efeito liberatório da quitação, descabe o reconhecimento da inexistência da dívida" esbarrando, pois, no obstáculo da Súmula 283/STF, que assim dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".A respeito do tema:AgInt no REsp 1711262/SE, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 17/2/2021; AgInt no AREsp 1679006/SP, Rel. Ministro Raul Araújo, Quarta Turma, DJe 23/2/2021.
+Ademais, a desconstituição das premissas lançadas pela instância ordinária, na forma pretendida, demandaria o reexame de matéria de fato, procedimento que, em sede especial, encontra óbice na Súmula 7/STJ, bem anotada pelo decisório agravado.
+Pelos mesmos motivos, segue obstado o recurso especial pela alínea c do permissivo constitucional, sendo certo que não foram atendidas as exigências dos arts. 1.029, §1º, do CPC e 255, §1º, do RISTJ.
+ANTE O EXPOSTO, nego provimento ao agravo. Levando-se em conta o trabalho adicional realizado em grau recursal, impõe-se à parte recorrente o pagamento de honorários advocatícios equivalentes a 20% (vinte por cento) do valor a esse título já fixado no processo (art. 85, § 11, do CPC), observando-se, contudo, o disposto no art. 98, § 3º, do CPC, em razão da concessão do benefício da assistência judiciária gratuita.
+Publique-se.
