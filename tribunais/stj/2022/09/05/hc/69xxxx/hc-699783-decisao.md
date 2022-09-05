@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de Edielson de Oliveira Danin - preso preventivamente pela prática, em tese, dos crimes de falsidade ideológica, uso de documento falso e associação criminosa -, em que se aponta como autoridade coatora o Tribunal de Justiça do Pará.
+Narram os autos que, em razão de investigação destinada a desvendar uma associação criminosa altamente articulada e supostamente voltada para prática de lavagem de dinheiro, falsificação de documentos públicos e privados (fl. 18), denominada Operação Boca da Cobra II, o Juízo de Direito da 3ª Vara da comarca de Belém/PA, acolhendo representação da autoridade policial, decretou a prisão preventiva do paciente, sob os fundamentos da garantia da ordem pública e da instrução criminal (fls. 17/22 - Autos n. 080.2021.8.14.0093).
+Inconformada, a defesa impetrou habeas corpus na colenda Corte de origem, que indeferiu o pedido liminar (Habeas Corpus n. 0811110-64.2021.8.14.0000).
+Aqui, o impetrante alega constrangimento ilegal na decretação e manutenção da prisão cautelar imposta ao paciente, uma vez que ele se encontraria há mais de 5 dias preso, sem que tenha ocorrido audiência de custódianem concluído o inquérito policial.
+Acrescenta que o pacientenão possui nenhum grau de periculosidade, muito pelo contrário, possui profissão lícita (de onde sustenta a sua família) atuando como empresário, e todos os requisitos subjetivos, seja a primariedade, residência fixa,condições estas reconhecidas pela própria Justiça (fl. 10).
+Postula, então, a superação da Súmula 691/STF para que, deferida a liminar, seja revogada a prisão preventiva imposta ou substituída por medidas alternativas.
+Em 11/10/2021, deferi o pedido liminar para substituir a prisão cautelar imposta ao paciente por medidas alternativas (fls. 94/98).
+Prestadas as informações pelas instâncias ordinárias (fls. 101/104,105/108 e 110/114), o Ministério Público Federal opinou pelo não conhecimento do writ (fls. 134/136):
+HABEAS CORPUS. ORGANIZAÇÃO CRIMINOSA. LAVAGEM DE DINHEIRO. ADULTERAÇÃO DE DOCUMENTOS PÚBLICOS E PARTICULAR. DECISÃO DO RELATOR DO TRIBUNAL DE JUSTIÇA QUE INDEFERIU A LIMINAR EM HABEAS CORPUS. SÚMULA Nº 691/STF.
+- Parecer, em preliminar, pelo não conhecimento deste habeas corpus.
+Em 6/4/2022, o writ originário foi extinto sem julgamento do mérito.
+Em 30/8/2022, o impetrante requereu a revogação das medidas cautelares impostas.
+É o relatório.
+Busca a impetração, inicialmente,a revogação da prisão cautelar imposta ao paciente em razão de investigação que lhe imputa os crimes defalsidade ideológica, uso de documento falso e associação criminosa, aos argumentos da falta derequisitos para a imposição da medida extrema e excesso de prazo para o encerramento do inquérito policial.
+Posteriormente, informa o impetrante que, passados quase onze meses do deferimento da tutela de urgência neste writ, para substituir a prisão preventiva por medidas alternativas, ainda não há oferecimento de denúncia, além do que o Juízo de primeiro grau declinou de sua competência para a Vara do Crime Organizado da comarca de Belém/PA (fls. 141/142), tendo os autos sido redistribuídos em 10/5/2022, razão pela qual requer a revogação, também, das medidas cautelares alternativas.
+O presente pedido comporta acolhimento.
+Primeiro, porque não há notícia de descumprimento das medidas anteriormente impostas ao investigado.
+Depois, porque, passadoquase um ano da decretação da prisão preventiva (fls. 17/22), ainda não há a instauração da competente ação penal.
+Além de que, conforme tenho me manifestado,assim como a segregação cautelar, a manutenção das cautelares alternativas não pode ocorrer de forma indefinida, de modo a transmudar-se em sanção penal sem sentença condenatória, razão pela qual o momento se mostra adequado para a concessão da liberdade, pois, não só em se tratando de prisão preventiva, mas de qualquer medida cautelar, deve ser observado o princípio da provisoriedade.
+A propósito:
+PROCESSUAL PENAL. RECURSO EM HABEAS CORPUS. PECULATO- DESVIO (OPERAÇÃO MIDAS). SUBSTITUIÇÃO DA SEGREGAÇÃO CAUTELAR POR MEDIDAS ALTERNATIVAS À PRISÃO. CAUTELARES QUE JÁ PERDURAM POR APROXIMADAMENTE TRÊS ANOS. READEQUAÇÃO. POSSIBILIDADE. NECESSIDADE DE EVITAR A TRANSMUTAÇÃO DAS MEDIDAS EM SANÇÃO PENAL, SEM SENTENÇA CONDENATÓRIA. CENÁRIO ATUAL (PANDEMIA) QUE DEMANDA A RELATIVAÇÃO DE ALGUMAS CAUTELARES. CONSTRANGIMENTO ILEGAL EVIDENCIADO. PREJUÍZO À INSTRUÇÃO CRIMINAL E PROBABILIDADE DE REITERAÇÃO DELITIVA. AUSÊNCIA.
+1. Caso em que as medidas cautelares aplicadas datam de setembro de 2017, ou seja, há aproximadamente três anos, circunstância que revela possível excesso das restrições impostas.
+2. Com a atual situação de pandemia causada pelo "novo coronavírus", não há como negar a existência de mora processual ocasionada pela ocorrência de suspensão de prazos processuais.
+3. Assim como a segregação cautelar, a manutenção das cautelares alternativas não pode ocorrer de forma indefinida, de modo a transmudar-se em sanção penal sem sentença condenatória, razão pela qual o momento se mostra adequado para realizar a flexibilização de tais medidas. Precedente.
+4. Situação que demanda a readequação de algumas medidas, sem prejuízo da instrução criminal ou de possibilitar a reiteração delitiva.
+5. Recurso em habeas corpus provido para flexibilizar as medidas cautelares diversas da prisão aplicadas ao recorrente, que ficarão assim impostas: a) comparecimento periódico em juízo para informar e justificar suas atividades (art. 319, I, do CPP); b) proibição de acesso às dependências da Empresa Municipal de Urbanização de Rio Branco/AC (art. 319, II, do CPP); c) proibição de manter contato com os demais corréus e qualquer pessoa relacionada aos fatos objeto da investigação e ação penal, exceto se forem membros da mesma família (art. 319, III, do CPP); d) proibição de ausentar-se do País, mediante a entrega do passaporte, com possibilidade de ausentar-se da comarca mediante autorização judicial (art. 319, IV, do CPP); e e) suspensão do exercício da atividade econômica, apenas em relação à Empresa Municipal de Urbanização de Rio Branco/AC (art. 319, VI, do CPP).
+(RHC n. 128.216/AC, da minha lavra, Sexta Turma, DJe 2/9/2020)
+Em face do exposto, concedo a ordem impetrada para revogar a prisão cautelar imposta ao paciente, podendo o Juízo de primeiro grau novamente decretá-la ou impor medidas alternativas, desde que sobrevenham motivos concretos e idôneos para tanto.
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS.FALSIDADE IDEOLÓGICA, USO DE DOCUMENTO FALSO E ASSOCIAÇÃO CRIMINOSA. PRISÃO PREVENTIVA. CONCESSÃO DO PEDIDO LIMINAR. SUBSTITUIÇÃO POR MEDIDAS ALTERNATIVAS. MEDIDAS QUE PERDURAM POR APROXIMADAMENTE UM ANO. AUSÊNCIA DE INSTAURAÇÃO DA AÇÃO PENAL. DECLINAÇÃO DA COMPETÊNCIA PELO JUÍZO DE PRIMEIRO GRAU NO QUAL O INQUÉRITO POLICIAL TRAMITA HÁ APROXIMADAMENTE UM ANO. INEXISTÊNCIA DE NOTÍCIA DO DESCUMPRIMENTO DAS MEDIDAS APLICADAS NA DECISÃO LIMINAR. REVOGAÇÃO DA CUSTÓDIA QUE SE IMPÕE.
+Ordem concedida nos termos do dispositivo.
