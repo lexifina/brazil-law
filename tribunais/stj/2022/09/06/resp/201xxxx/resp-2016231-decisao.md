@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão assim ementado (fls. 273/274, e-STJ):
+AGRAVO INTERNO - AÇÃO DE COBRANÇA DE INDENIZAÇÃO SECURITÁRIA DPVAT - INDENIZAÇÃO SECURITÁRIA DEVIDA - ÔNUS SUCUMBENCIAL E REAJUSTE DA VERBA HONORÁRIA MANTIDOS - IMPOSSIBILIDADE DE FIXAÇÃO NOS TERMOS DO ARTIGO 85, § 2.º DO CPC/15 - VALOR QUE SE MOSTRARIA DESPROPORCIONAL AO CASO EM TELA - VERBA DE CARÁTER ALIMENTAR - NECESSIDADE DE CÁLCULO POR EQUIDADE, CONSOANTE § 8.º, ARTIGO 85 DO MESMO DIPLOMA LEGAL - DECISUM MANTIDO - RECURSO DESPROVIDO.
+Embora o Autor tenha logrado êxito em parte do valor preterido, esta Corte vem decidindo que a condenação em quantia abaixo do pleiteado pela parte não caracteriza sucumbência recíproca, em alusão ao Verbete 326 da Súmula do STJ.
+A respeito dos honorários advocatícios, se calculada a verba nos termos da regra geral, ainda que em percentual máximo permitido em lei (20%) e sobre o valor da condenação de R$ 1.687,50 (um mil seiscentos e oitenta e sete reais e cinquenta centavos), ela seria desproporcional à situação em apreço, o que não se mostrava devido ante ao caráter alimentar dos honorários advocatícios. Assim, não havia outro caminho a não ser estipular tal verba nos ditames do § 8.º, artigo 85 do CPC/15.
+Inexistindo elementos novos capazes de infirmar decisão recorrida, deve ela prevalecer em todos os seus termos.
+Em suas razões, a parte recorrente alega, além de divergência jurisprudencial, violação aos arts. 85, § 2º, e 1.021, § 4º, do Código de Processo Civil de 2015
+Questiona, de início, a incidência automática da multa do art. 1.021, § 4º, do CPC/15, pelo mero não provimento do agravo interno.
+Argumenta, também, que os honorários advocatícios deveriam ter sido fixados em atenção aos parâmetros do art. 85, § 2º, do Código de Processo Civil de 2015, isso é, com a utilização dos percentuais de 10% (dez por centoa 20% vinte por cento).
+Foram apresentadas contrarrazões às fls. 445/456, e-STJ.
+O recurso especial foi admitido na origem, nos termos da decisão de fls. 541/544, e-STJ.
+Assim delimitada a controvérsia, passo a decidir.
+A Súmula nº 568 desta Corte dispõe que "relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Afasto, inicialmente, a multa aplicada pelo Tribunal de origem, quando do julgamento do agravo interno, uma vez que, conforme jurisprudência do Superior Tribunal de Justiça, a mera improcedência do referido recurso não implica, automaticamente, a incidência da penalidade, como operado pelo TJMT.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. PLANO DE SAÚDE. RECUSA INJUSTIFICADA DE TRATAMENTO MÉDICO. DANO MORAL. EXISTÊNCIA. PRECEDENTES. MULTA. NÃO INCIDÊNCIA. AGRAVO DESPROVIDO.
+1. Conforme a jurisprudência desta Corte Superior, o mero inadimplemento contratual não configura danos morais. Contudo, é reconhecido o direito à indenização por danos morais quando houver recusa indevida de cobertura de tratamento de saúde, pois tal fato agrava a situação de aflição psicológica e abala psicologicamente o paciente já com a saúde debilitada.
+2. O arbitramento da indenização em R$ 10.000,00 (dez mil reais) está de acordo com os padrões adotados pela jurisprudência pátria e observa os princípios da proporcionalidade e da razoabilidade.
+3. O mero não conhecimento ou improcedência de recurso interno não enseja a automática condenação à multa do art. 1.021, § 4º, do NCPC, devendo ser analisado caso a caso.
+4. Agravo interno desprovido.
+(AgInt no REsp 1849785/PR, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 8/6/2021, DJe 10/6/2021)
+O Tribunal de origem fixou os honorários advocatícios por equidade, na forma do art. 85, § 8º, do CPC/15, expondo os seguintes argumentos (fls. 280/281, e-STJ):
+Irresignada, a Seguradora alega a necessidade de redistribuição do ônus sucumbencial, vez que a Agravada sucumbiu na maior parte e que os honorários advocatícios foram arbitrados em quantia que considera exorbitante, o que implica em redução, nos termos do artigo 85, § 2.º, do CPC.
+Consoante se vê em decisão supra, foi devidamente fundamentado o motivo da manutenção da distribuição do ônus sucumbencial. Cumpre salientar que, embora a Autora tenha logrado êxito em parte do valor preterido, esta Corte vem decidindo que a condenação em quantia abaixo do pleiteado pela parte não caracteriza sucumbência recíproca, em alusão ao Verbete 326 da Súmula do STJ.
+Por fim, a respeito dos honorários advocatícios, se calculada a verba nos termos da regra geral, ainda que em percentual máximo permitido em lei (20%) e sobre o valor da condenação de R$ 1.687,50 (um mil seiscentos e oitenta e sete reais e cinquenta centavos), ela seria desproporcional à situação em apreço, o que não se mostrava devido ante ao caráter alimentar dos honorários advocatícios. Assim, não havia outro caminho a não ser estipular tal verba nos ditames do § 8.º, artigo 85 do CPC/15.
+Por isso, diante da natureza da ação de cobrança, em tramitação desde 2019, o trabalho desenvolvido pelo causídico ao distribuir a demanda, comparecer à audiência de conciliação, acompanhar o feito, bem como a condenação em indenizar a vítima no valor de R$ 1.687,50 (um mil seiscentos e oitenta e sete reais e cinquenta centavos), mostrou-se apropriada a manutenção da verba honorária em R$ 950,00 (novecentos e cinquenta reais).
+Dessa forma, inexistindo elementos novos capazes de infirmar o decisum enfrentado, deve ele prevalecer em todos os seus termos
+Observo que a Corte local decidiu em conformidade com a jurisprudência do Superior Tribunal de Justiça, segundo a qual "somente se admite arbitramento de honorários por equidade quando, havendo ou não condenação, o proveito econômico obtido pelo vencedor for inestimável ou irrisório, ou o valor da causa for muito baixo" (AgInt no AREsp n. 1.846.890/MS, relator Ministro Marco Buzzi, Quarta Turma, julgado em 15/8/2022, DJe de 18/8/2022).
+Incidente, no ponto, o óbice da Súmula 83/STJ.
+Anoto, ademais, que a alteração da premissa firmada pelo TJMT -de que a fixação dos honorários pelo § 2º do art. 85 do CPC/15, mesmo no percentual máximo, não remuneraria de maneira adequada o advogado -exigiria o reexame de provas, providência vedada em recurso especial, nos termos da Súmula 7/STJ.
+Em face do exposto, conheço em parte do recurso especial e, na parte conhecida, a ele dou provimento para afastar a multa aplicada quando do julgamento do agravo interno.
+Intimem-se.
