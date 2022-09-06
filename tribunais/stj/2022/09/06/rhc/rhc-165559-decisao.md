@@ -1,0 +1,7 @@
+DECISÃO
+MATHEUS MARQUES ROSAalega sofrer constrangimento ilegal diante de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulono HC n. 2045707-88.2022.8.26.0000, que manteve a prisão preventiva pela prática, em tese, do crime de tráfico de drogas.
+Em consulta ao sitedo TJSP, o gabinete verificou que, em 31/3/2022, foi determinado o arquivamento do processo investigatório, conforme abaixo:
+Trata-se de inquérito policial para a apuração de suposto crime previsto no art. 33, caput, da Lei 11.343/2006, atribuído ao supra qualificado, fato supostamente ocorrido em 01/03/2022. O Ministério Público promoveu o arquivamento dos autos, em que figura como indiciado, dada a insuficiência probatória, com a ressalva do art. 18 do CPP. Portanto, acolho as razões do órgão ministerial e determino o arquivamento dos presentes autos. Ainda, inexistente denúncia ou possibilidade de sua futura propositura, não há possibilidade de futura condenação do autuado. Assim, deixam de subsistir motivos para sua segregação cautelar. À luz do exposto acima, revogo a decisão que decretou a prisão preventiva. Expeça-se alvará de soltura, se por outra razão não estiver preso.  ..
+Assim, evidenciada a prejudicialidade desta impetração, em que a defesa pleiteava a liberdade doréu.
+À vista do exposto,julgo prejudicado este recurso habeas corpus, pela perda superveniente de seu objeto.
+Publique-se e intimem-se.
