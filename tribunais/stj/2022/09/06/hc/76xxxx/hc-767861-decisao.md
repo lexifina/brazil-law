@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado contra acórdão assim ementado (fl. 207):
+AGRAVO DE EXECUÇÃO PENAL LIVRAMENTOCONDICIONAL COMETIMENTO DE FALTA GRAVEDURANTE O CUMPRIMENTO DE PENA AUSÊNCIADOREQUISITODENATUREZASUBJETIVACONCESSÃO INADMISSIBILIDADE. Descabe a concessão do livramento condicional quando não preenchido o requisito de natureza subjetiva, nos termos do artigo 131 da Lei de Execução Penal, tendo em vista o cometimento de infrações disciplinares de natureza grave durante o cumprimento de pena. RECURSOMINISTERIAL PROVIDO.
+Consta dos autos que o juízo da execução deferiu à paciente o livramento condicional, tendo o Ministério Público, inconformado, interposto agravo em execução junto ao Tribunal de origem, que deu provimento ao agravo para cassar a decisão do juízo da execução.
+No presente writ, a impetrante sustenta que, "entender que há necessidade de a paciente estar cumprindo pena em regime semiaberto por um determinado período para, só então, poder conceder o benefício de livramento condicional e/ou progressão ao regime aberto é impor, ilegalmente, condições restritivas ao cumprimento de pena do paciente. Mais do que isso é tornar absolutamente inviável o benefício da livramento condicional, tornando em letras mortas os dispositivos que o regulamentam" (fl. 8).
+Requer, liminarmente e no mérito, a concessão do livramento condicional.
+Em consulta ao sistema de dados desta Corte, verificou-se que foi impetrado anteriormente o HC n. 763.755/SP, também em favor da paciente, com o mesmo pedido e impugnando o mesmo acórdão, cuja liminar foi indeferida em 17/8/2022, incidindo, portanto, na hipótese, o disposto no art. 210 do Regimento Interno desta Corte, segundo o qual"quando o pedido for manifestamente incabível, ou for manifesta a incompetência do Tribunal para dele tomar conhecimento originariamente, ou for reiteração de outro com os mesmos fundamentos, o relator o indeferirá liminarmente".
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+Intimem-se.
