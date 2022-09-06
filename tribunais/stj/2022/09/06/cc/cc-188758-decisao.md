@@ -1,0 +1,18 @@
+DECISÃO
+JRA - Empreendimentos e Engenharia Ltda. - Em Recuperação Judicial apresenta o presente conflito de competência, apontando como suscitados o Juízo de Direito da 2ª Vara de Falências e Recuperações Judiciais de São Paulo - SP e o Juízo da 3ª Vara do Trabalho de Sorocaba - SP.
+Narra que, diante das suas dificuldades financeiras, viu-se obrigada a requerer cautelar antecedente de recuperação judicial, com base no art. 20-B, § 1º, da Lei n. 11.101/2005, tendo sido autuado o pedido sob o n. 1053832-87.2021.8.26.0100 e distribuído ao Juízo de Direito da 2ª Vara de Falências e Recuperações Judiciais do Foro Central de São Paulo - SP, que acolheu a pretensão, em 2/6/2021, determinando a suspensão de todas as ações e execuções em desfavor da postulante pelo prazo de 60 (sessenta) dias, além da suspensão do curso do prazo prescricional.
+Aponta que, não obstante tal determinação, o Juízo da 3ª Vara do Trabalho de Sorocaba - SP, perante o qual tramita em seu desfavor a ReclamaçãoTrabalhista n. 0002741-81.2013.5.15.0109, negou-se a atendê-la, determinando-se, ao revés, a instauração de incidente de desconsideração da personalidade jurídica para alcançar os bens dos sócios da sociedade em recuperação judicial, caracterizando, assim, a existência de decisões conflitantes.
+Afirma que, nos termos da jurisprudência do STJ, "os atos de disposição do patrimônio de empresa em recuperação ou atos que possam prejudicar o procedimento somente - e tão somente - podem ser decididos pelo Juízo processante da Recuperação Judicial, sendo vedado o ato de disposição dos bens que compõem o ativo da Recuperanda ou os meios de sua subsistência por juízo diverso do recuperacional", ressaltando, ainda, "que as ações de natureza trabalhista serão processadas pela Justiça do Trabalho até a apuração e liquidação do respectivo crédito, e a habilitação ou modificação deverão ser apresentados perante o administrador judicial, que, após análise, definirá sobre a inscrição dos créditos trabalhistas no quadro geral de credores pelo valor determinado em sentença" (e-STJ, fl. 5).
+Por essas razões, pleiteia "o imediato sobrestamento do Processo nº 0002741-81.2013.5.15.0109 em trâmite perante a 3ª Vara do Trabalho de Sorocaba, designando, por sua vez, o MM. Juízo da 2ª Vara de Falências e Recuperações Judiciais do Estado de São Paulo para resolver, em caráter provisório, as medidas urgentes" (e-STJ, fl. 13), e, no mérito, seja reconhecida a competência do Juízo da Recuperação Judicial.
+Intimada a empresa requerente para complementar a documentação, colacionando ao feito a decisão supostamente prolatada pelo Juízo trabalhista que caracterizasse o conflito suscitado, foram apresentados os documentos de fls. 31-70 (e- STJ).
+A liminar foi indeferida (e-STJ, fls. 73-75).
+As informações foram prestadas às fls. 79-81 e 94-97 (e-STJ).
+Instado a se manifestar, o Ministério Público Federal opinou pelo não conhecimento do conflito.
+Brevemente relatado, decido.
+O conflito não merece conhecimento.
+Conformeinformado pelo Juízo Laboral à fl. 95 (e-STJ), "atualmente o feito encontra-se na Fase de Liquidação, ainda pendente de decisão de homologação de cálculos, pois a Sentença de mérito não foi líquida", sendo que "nenhum ato de constrição foi realizado em face da reclamada em Recuperação Judicial".
+Ora, não havendo qualquer ato constritivo determinado pelo Juízo Trabalhista no patrimônio da suscitante, não se revela caracterizado o conflito de competência.
+Ante o exposto, não conheço do conflito.
+Publique-se.
+EMENTA
+CONFLITO POSITIVO DE COMPETÊNCIA. SUPOSTA DECISÃO DO JUÍZO TRABALHISTA EM DISSONÂNCIA COM A DECISÃO DO JUÍZO DA RECUPERAÇÃO JUDICIAL. NÃO DEMONSTRAÇÃO. INEXISTÊNCIA DE DECISÕES CONFLITANTES. CONFLITO NÃO CONHECIDO.
