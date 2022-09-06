@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado entre o Juízo de Direito daVara de ExecuçõesPenais de Brasília - DF, o suscitante, e o Juízo de Direito da Vara de Execuções Penais e Corregedoria dos Presídios de Foz do Iguaçu - PR, o suscitado.
+Consta dos autos queIgor Wesley Martins Capiara cumpria pena privativa de liberdade em regime aberto, ocasião em que foiexpedido mandado de prisão em seu desfavor emrazão do descumprimento das condições impostas peloJuízo de Direito da Vara de Execuções Penais e Corregedoria dos Presídios de Foz do Iguaçu - PR(Processon. 0013443-43.2019.8.16.0030).
+No entanto, o apenado veio a ser preso no Distrito Federal, circunstância essa que subsidiou a decisão do Juízo suscitado no sentido de remeter aguia de execução definitiva ao Juízo suscitante, que se declarou incompetente para processar a execução e suscitou o conflito, nos seguintes termos(fl. 298):
+ ..
+O apenado está preso no Distrito Federal somente em razão do mandado de prisão expedido pelo supracitado juízo, sendo certo que não existe ordem de segregação ou execução penal no âmbito da justiça desta unidade da federação.
+Nada obstante, o i. e mencionado juízo determinou a transferência da execução para esta VEP/DF.
+Saliento que eventuais mudanças voluntárias de endereço, prática de novo crime ou mesmo recolhimento em localidade distinta - no caso o Distrito Federal- não são motivos para alteração da competência, consoante o entendimento do STJ. In verbis:
+ ..
+Ademais, consoante pacífica jurisprudência do STJ, não há direito subjetivo à escolha do local onde cumprirá a reprimenda, devendo o Juízo de Execuções Penais avaliar a conveniência da referida medida, visto que o acolhimento do pedido de transferência do preso para presídio próximo de onde residem seus familiares está condicionado à existência de vagas e estabelecimentos adequados.
+Registro, por oportuno, que o sistema prisional do Distrito Federal não dispõe vagas para acolher o interno, pois está superlotado, com quase o dobro da sua capacidade. O sistema prisional distrital está consoante dados do CNJ acessíveis em ,superlotado e é o 4º (quarto) mais deficitário de todo o país (Geopresídios - CNJ). Não há possibilidade de se abrigar http://www. cnj. jus. br/inspecao_penal/mapa.php condenados por outras unidades da Federação.
+ ..
+Instado a se manifestar na condição decustos legis, o Ministério Público Federal opinou pela declaração de competência do Juízo suscitado, nos termos do parecer assim ementado (fl. 305):
+CONFLITO NEGATIVO DE COMPETÊNCIA. EXECUÇÃO PENAL. MANDADO DE PRISÃO EXPEDIDO PELA COMARCA DE FOZ DO IGUAÇU-PR. APENADO QUE CUMPRE PENA NO DISTRITO FEDERAL, LOCAL DA PRISÃO. ENTRETANTO, DEMONSTRADO PELO JUÍZO SUSCITANTE A INEXISTÊNCIA DE VAGAS PARA A PERMANÊNCIA DO APENADO, A EXECUÇÃO DA PENA DEVE SER FIXADA COM O JUÍZO DA SENTENÇA. PARECER PELO CONHECIMENTO DO CONFLITO, DECLARANDO-SE A COMPETÊNCIA DO JUÍZO DE DIREITO DA VARA DE EXECUÇÃO PENAL DE FOZ DO IGUAÇU-PR.
+É o relatório.
+Com razão o parecerista.
+Nos termos do art. 65 da Lei de Execuções Penais, compete ao Juízo da sentença, em regra, a execução da pena:
+Art. 65. A execução penal competirá ao Juiz indicado na lei local de organização judiciária e, na sua ausência, ao da sentença.
+No caso dos autos, o apenado foi condenado no Estado do Paraná, circunstância que atrai a competência do Juízo daquela localidade para executar a pena.
+O fato de o apenado estar preso em comarca de outro estado da Federaçãonão modifica a competência, ante a ausência de previsão legal.
+A propósito, destaco:
+AGRAVO REGIMENTAL EM CONFLITO NEGATIVO DE COMPETÊNCIA. INEXISTÊNCIA DE DISSENSO. FUNDAMENTO SUBSIDIÁRIO. MANDADO DE PRISÃO CUMPRIDO EM COMARCA DIVERSA DA EXECUÇÃO. IRRELEVÂNCIA. CIRCUNSTÂNCIA QUE NÃO MODIFICA A COMPETÊNCIA PARA EXECUÇÃO PENAL, ANTE AUSÊNCIA DE PREVISÃO LEGAL. POSSIBILIDADE DE TRANSFERÊNCIA, MEDIANTE PRÉVIA AQUIESCÊNCIA DO JUÍZO PARA O QUAL SE ALMEJA A TRANSFERÊNCIA.PRECEDENTE DA TERCEIRA SEÇÃO. PARECER ACOLHIDO.
+ ..
+2. Ainda que se cogitasse de conflito negativo de competência, não seria o caso de declarar a competência do Juízo da comarca de Rio do Sul/SC, poiso fato de a ordem de prisão ter sido cumprida em comarca diversa da execução não modifica a competência para executar a pena, ante a ausência de previsão legal. Precedente da Terceira Seção.
+3. Agravo regimental improvido.
+(AgRg no CC n. 172.429/SC, de minha relatoria, Terceira Seção, DJe 27/11/2020 - grifo nosso)
+CONFLITO NEGATIVO DE COMPETÊNCIA. JUÍZOS CRIMINAIS ESTADUAIS: EXECUÇÃO DE PENA. PRISÃO PREVENTIVA EM OUTRA COMARCA. AUSÊNCIA DE TRANSFERÊNCIA LEGAL - ART. 86 DA LEP. COMPETÊNCIA DO JUÍZO DA EXECUÇÃO DO LOCAL EM QUE FOI PROFERIDA A SENTENÇA CONDENATÓRIA DEFINITIVA.
+1. O simples fato de o condenado estar preso em Comarca diversa daquela competente para a execução da sentença, em cumprimento de mandado de prisão preventiva expedido por um terceiro Juízo, não constitui causa legal de deslocamento da competência originária para a execução da pena. Precedentes.
+2. Conflito conhecido, para declarar a competência do Juízo de Direito da Comarca de Rio Meleiro/SC, o suscitado, para a execução da pena do condenado.
+(CC n. 148.926/RS, Ministro Reynaldo Soares da Fonseca, Terceira Seção, DJe 27/10/2016 - grifo nosso).
+Ressalto, ainda, que, embora possível a transferência subsequente da execução (art. 86 da Lei de Execução Penal), a alteração de competência, em tais casos, demanda aprévia aquiescência dos Juízes envolvidos,circunstância não verificada no caso.
+Nesse sentido, a Terceira Seção já decidiu:
+CONFLITO NEGATIVO DE COMPETÊNCIA. JUÍZOS VINCULADOS A TRIBUNAIS DISTINTOS. EXECUÇÃO DE PENA. PRISÃO EM CUMPRIMENTO DE MANDADO EM COMARCA DIVERSA. COMPETÊNCIA DO JUÍZO DA EXECUÇÃO DO LOCAL EM QUE FOI PROFERIDA A SENTENÇACONDENATÓRIA DEFINITIVA. INAPLICABILIDADE DA SÚMULA 192 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. FIXAÇÃO DE TERCEIRO JUÍZO. COMPETÊNCIA DO JUÍZO SUSCITADO.
+1. O presente conflito negativo de competência deve ser conhecido, por se tratar de incidente instaurado entre juízos vinculados a Tribunais distintos, nos termos do art. 105, inciso I, alínea "d" da Constituição Federal - CF. 2. "A Terceira Seção desta Corte Superior orienta-se no sentido de que o cumprimento do mandado de prisão do Apenado em Estado da Federação diverso daquele onde foi processado não implica deslocamento da competência, sendo aplicável o disposto no art. 65 da Lei de Execuções Penais, que consagra ser competente o Juiz indicado na lei local de organização judiciária ou, na sua ausência, o que proferiu a sentença condenatória" Precedente: CC 161.783/DF, Rel. Ministra LAURITA VAZ, TERCEIRA SEÇÃO, DJe 14/12/2018.
+3. "Ressalte-se que o enunciado n. 192 da Súmula do STJ se restringe aos casos nos quais o sentenciado já estava cumprindo pena em estabelecimento prisional estadual" Precedente: CC 156.747/BA, TERCEIRA SEÇÃO, de minha relatoria, DJe 11/5/2018.
+4. O cumprimento da execução penal deve levar em conta não apenas as conveniências pessoais e familiares do preso, mas também os da Administração Pública, sendo condicionada à transferência legal, com prévia consulta de existência de vagas e anuência do Juízo consultado.
+5. A jurisprudência da Corte tem admitido a declaração de competência de terceiro juízo, estranho ao conflito. Precedente: CC 142.934/PR, Rel. Ministro NEFI CORDEIRO, TERCEIRA SEÇÃO, DJe 30/11/2015.
+6. Conflito conhecido a fim de determinar que a pena fixada pelo Juízo Federal da 1ª Vara de Umuarama - SJ/PR, o suscitado, deve ser executada pelo Juízo de Direito designado para as execuções penais da Comarca de Umuarama/PR, conforme lei de organização judiciária do Estado do Paraná.
+(CC n. 167.064/SC, Ministro Joel Ilan Paciornik, Terceira Seção,DJe 6/9/2019 - grifo nosso)
+AGRAVO REGIMENTAL. CONFLITO DE COMPETÊNCIA. TRANSFERÊNCIA DE CONDENADO. CUMPRIMENTO DA PENA. AUSÊNCIA DE ESTRUTURA E DE VAGAS. IMPOSSIBILIDADE DE DECISÃO UNILATERAL DO JUÍZO DEPRECANTE. NECESSIDADE DE PRÉVIA ACEITAÇÃO DO JUÍZO DEPRECADO. INOCORRÊNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O exame de um conflito de competência não pode se imiscuir na solução de controvérsias de fato ou de direito suscitadas dentro do processo, cujo esclarecimento se dará no decorrer da execução. Deve, tão somente, se ater aos elementos incontroversos do incidente processual para, com base neles, extrair o melhor critério de definição da competência, tendo em conta, em qualquer caso, o momento processual e a possibilidade de sua modificação posterior por circunstâncias supervenientes.
+2. A jurisprudência desta Corte firmou a compreensão de que a transferência da execução da pena não pode ser determinada de maneira unilateral: é necessária a prévia consulta ao juízo para o qual o sentenciado pretende ser transferido, notadamente a fim de se verificar a disponibilidade de vagas ou de condições adequadas para o cumprimento da reprimenda no sistema prisional local.
+3. No caso, o suscitado destacou a deficiência estrutural do sistema carcerário da Comarca de Goiânia - GO, que nem sequer dispõe de tornozeleira eletrônica para implementar o início da execução penal, o que, a priori, justifica a inviabilidade de transferência do condenado.
+4. Agravo regimental não provido.
+(AgRg no CC n. 150.563/CE, Ministro Rogerio Schietti Cruz, Terceira Seção, DJe 2/10/2018 - grifo nosso)
+Em face do exposto, acolhendo o parecer,conheço do conflito para declarar a competência do Juízo de Direito da Vara de Execuções Penais e Corregedoria dos Presídios de Foz do Iguaçu - PR, o suscitado, paraprocessar a execução de Igor Wesley Martins Capiara.
+Dê-se ciência aos Juízes envolvidos, inclusive com o inteiro teor da decisão.
+Publique-se.
+EMENTA
+CONFLITO NEGATIVO DE COMPETÊNCIA. EXECUÇÃO PENAL. PENA PRIVATIVA DELIBERDADE. MANDADO DE PRISÃO CUMPRIDO EM LOCALIDADE DISTINTA DACONDENAÇÃO. IRRELEVÂNCIA. CIRCUNSTÂNCIA QUE NÃO MODIFICA A COMPETÊNCIA,POR AUSÊNCIA DE PREVISÃO LEGAL. PRECEDENTES DA TERCEIRA SEÇÃO. PARECER ACOLHIDO.
+Conflito conhecido para declarar a competência do Juízo de Direito da Vara de Execuções Penais e Corregedoria dos Presídios de Foz do Iguaçu - PR, o suscitado, para processar a execução de Igor Wesley Martins Capiara.
