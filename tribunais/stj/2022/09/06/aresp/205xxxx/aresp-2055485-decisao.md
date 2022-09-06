@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIScontra a decisão proferida pelo Tribunal de Justiça do Estado de Minas Geraisque não admitiu seu recurso especial fundado no art. 105, inciso III, alíneaa, da Constituição Federal.
+A controvérsia tratada nos autos foi bem relatada no parecer ministerial às e-STJ fls. 290/291,in verbis:
+Trata-se de agravo contra a decisão do Tribunal de Justiça do Estado de Minas Gerais, que não admitiu o recurso especial interposto em face de acórdão da 8ª Câmara Criminal daquele Tribunal, no Agravo em Execução Penal nº 1.0000.21.081218-6/001.
+Consta dos autos que Luís Carlos Fernandes cumpre pena de 09 anos, 08 meses e 03 dias de reclusão, em regime fechado, pela prática do crime descrito no art. 157, § 2º, II, art. 251 § 1º, c/c art. 250, § 1º, I e II, "b", na forma do art. 70 do CP. O Término da pena está previsto para 09/04/2029 (fls. 111/113).
+O Juízo da VEC deferiu o pedido da defesa de progressão do apenado para o regime semiaberto (fls. 131/133).
+O Ministério Público interpôs agravo em execução perante o Tribunal de Justiça, que foi desprovido, nos termos de acórdão resumido na seguinte ementa (fl. 176):
+EMENTA: PROCESSO PENAL - AGRAVO EM EXECUÇÃO PENAL - PROGRESSÃO DE REGIME - EXAME CRIMINOLÓGICO - RELATÓRIO DA COMISSÃO TÉCNICA DE CLASSIFICAÇÃO. Com o advento da Lei nº 10.792/03, que alterou a redação do art. 112 da Lei n.º 7.210/84, afastou-se a exigência de exame criminológico ou relatório da Comissão Técnica de Classificação para fins de progressão de regime.Entretanto, o Superior Tribunal de Justiça firmou entendimento no sentido de que o Magistrado, diante das circunstâncias do caso concreto, poderá determinar a realização do referido estudo para a formação de seu convencimento acerca do merecimento do apenado, desde que por decisão fundamentada, baseada em fatos ocorridos na execução, e não na gravidade do fato praticado.
+Os embargos de declaração do MPMG foram rejeitados (fls. 201/205).
+No recurso especial, interposto com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, o MPMG alega violação aos artigos 8º e 112, § 1º e 2º, da LEP (fls. 216/223).
+O recurso especial não foi admitido no Tribunal de origem, por aplicação das Súmulas 7 e 83 do STJ (fls. 248/250).
+Adveio o agravo em recurso especial às fls. 260/270. Contraminuta às fls.274/275.
+Nas razões do presente agravo, o Ministério Público do Estado de MinasGerais afirma que "a decisão que negou seguimento ao recurso especial está a merecer reforma, porquanto os óbices nela apontados inexistem no caso em tela" (e-STJ fl. 263).
+Assevera que "a análise do fato de o Tribunal de origem ter deixado de solicitar o exame criminológico do penitente, de forma alguma torna necessário o reexame da prova dos autos, sobretudo porque não há dúvidas quanto à existência dofatoensejadordetalpedidoministerial,qualseja,agravidadeconcretadocrimepraticado. O recurso especial inadmitido, portanto, discorda tão-somente da conclusão jurídica que restou enunciada no acórdão e não dos pressupostos fáticos nele consignados"(e-STJ fl. 265).
+Alega ser "equivocada a decisão ora agravada ao negar seguimento ao recurso especial ministerial na suposta harmonia existente entre o acórdão recorrido e o entendimento esposado pelo Superior Tribunal de Justiça"(e-STJ fl. 266).
+Destaca que "há recentes decisões proferidas por este Superior Tribunal de Justiça, acolhendo entendimento idêntico ao defendido no recurso especial ministerial, qual seja, a possibilidade de realização do exame criminológico quando as peculiaridades da causa as- sim o recomendarem, como se verifica no presente caso"(e-STJ fl. 267).
+Por isso, requer "seja o presente agravo admitido e provido, para fins de conhecer o recurso especial e, ao final, dar-lhe provimento"(e-STJ fl. 270).
+O Ministério Público Federal,ao se manifestar, opinou "pelo conhecimento do agravo para desprover o recurso especial"(e-STJ fl. 294).
+É, em síntese, o relatório.
+Decido.
+Presentes os requisitos de admissibilidade, conheço do agravo e passo à análise das razões expendidas no recurso especial.
+Com a nova redação dada ao art. 112 da Lei n. 7.210/1984, pela Lei n. 10.792/2003, suprimiu-se a realização de exame criminológico como expediente obrigatório, mantendo-se apenas como requisitos legais o cumprimento de determinada fração da pena aplicada e o bom comportamento carcerário, a ser comprovado pelo diretor do estabelecimento.
+Confira-se:
+Art. 112. A pena privativa de liberdade será executada em forma progressiva com a transferência para regime menos rigoroso, a ser determinada pelo juiz, quando o preso tiver cumprido ao menos 1/6 (um sexto) da pena no regime anterior e ostentar bom comportamento carcerário, comprovado pelo diretor do estabelecimento, respeitadas as normas que vedam a progressão.
+Contudo, a despeito de o exame não ser requisito obrigatório para a progressão do regime prisional, em hipóteses excepcionais, os Tribunais Superiores vêm admitindo a sua realização para a aferição do mérito do apenado.
+Segundo esse entendimento, o magistrado de primeiro grau, ou mesmo o tribunal, diante das circunstâncias do caso concreto, pode determinar a realização da referida prova técnica para a formação de seu convencimento.
+Tal entendimento foi consolidado no enunciado da Súmula n. 439 desta Corte:
+Admite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada.
+O tema também foi objeto da Súmula Vinculante n. 26, do Supremo Tribunal Federal:
+Para efeito de progressão de regime no cumprimento de pena por crime hediondo, ou equiparado, o juízo da execução observará a inconstitucionalidade do art. 2º da Lei n. 8.072, de 25 de julho de 1990, sem prejuízo de avaliar se o condenado preenche, ou não, os requisitos objetivos e subjetivos do benefício, podendo determinar, para tal fim, de modo fundamentado, a realização de exame criminológico.
+No caso dos autos,o Juízo da Vara de Execuções Penais da Comarca de Uberaba/MG promoveu o ora agravado ao regime semiaberto e autorizou o trabalho externo, dispensando a realização de exame criminológico, com a seguinte fundamentação (e-STJ fls. 131/132):
+O reeducando alcançou na data 15.03.2021 o requisito objetivo para a progressão para o regime semiaberto.
+O Ministério Público manifestou-se contrariamente à progressão de regime em razão da ausência da avaliação técnica pela CTC ou exame criminológico.
+Em relação ao requisito subjetivo, o art. 112 da LEP exige a análise de bom comportamento carcerário, comprovado pelo diretor do estabelecimento prisional e, no caso, o atestado carcerário mostra-se favorável ao reeducando, estando presente referido requisito.
+Destaco que a necessidade da juntada de avaliação técnica deve ser avaliada no caso concreto, sendo exceção e não a regra. De qualquer forma, em face do quadro de pandemia pelo COVID-19, houve recomendação do CNJ no sentido de se dispensar momentaneamente a avaliação técnica.
+ ..
+Ainda, cumpre mencionar que justamente em face das restrições impostas pela pandemia, a Comissão Técnica de Classificação tem realizado poucas reuniões, conforme informado pela direção da Unidade Prisional, que inclusive foram totalmente suspensas nesta fase de "onda roxa" e não seria razoável aguardar o regular retorno das atividades para só então avaliar a presença do requisito subjetivo, se o caso.
+OTribunal de origem, por sua vez, negou provimento ao agravo do Ministério Público, com a seguinte fundamentação(e-STJ fls. 178/179):
+Conforme se infere dos autos, insurge-se a parte agravante contra a decisão que permitiu a progressão de regime ao condenado sem a realização de relatório pela Comissão Técnica de Classificação.
+De início, cumpre registrar que o relatório feito pela Comissão Técnica de Classificação, bem como o exame criminológico, tem como intuito avaliar a evolução do reeducando, visando construir um prognóstico de periculosidade.
+Tais exames, com o advento da Lei n. 10.792/03, que alterou o artigo 112 da Lei de Execução Penal (LEP), perderam seu caráter obrigatório para fins de análise e progressão de regime.
+Entretanto, diante das circunstâncias do caso concreto, poderá o Juízo da execução determinar a realização do referido estudo, a afim de auxiliar na formação de seu convencimento, desde que o faça por meio de decisão fundamentada.
+Nesse sentido, destaca-se o teor da Súmula Vinculante nº 26 do Supremo Tribunal Federal e da Súmula 439 do Superior Tribunal de Justiça:
+"Súmula Vinculante nº 26: Para efeito de progressão de regime no cumprimento de pena por crime hediondo, ou equiparado, o juízo da execução observará a inconstitucionalidade do art. 2º da Lei n.8.072, de 25 de julho de 1990, sem prejuízo de avaliar se o condenado preenche, ou não, os requisitos objetivos e subjetivos do benefício, podendodeterminar, para tal fim, de modo fundamentado, a realização de exame criminológico".
+"Súmula 439 STJ: Admite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada".
+Desse modo, preenchidos os pressupostos legais para a obtenção de benefícios em sede de execução penal, a imposição de qualquer outra condição dependerá da demonstração de circunstâncias excepcionais.
+Feitas tais considerações, a jurisprudência se firmou no sentido de que a necessidade da perícia deve ser aferida mediante a indicação de fatos concretos ocorridos no curso da execução, e não com base na gravidade do delito.
+ ..
+Assim, embora inegável a gravidade do delito praticado, não cabe ao judiciário impor restrições que a própria lei não determina, razão pela qual mantenho inalterada a decisão impugnada(grifei).
+Nessas circunstâncias,não havendo fundamento que demonstre, efetivamente, a necessidade de realização do exame criminológico, devemser mantidos a decisão de primeiro grau e o acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais que afastaram a sua exigência.
+Aliás, nesse mesmo sentido foi a manifestação do Ministério Público Federal, a saber (e-STJ fl. 293):
+ .. no caso dos autos, entendo inexistir circunstância concreta que justifique a anulação da progressão de regime para que seja realizado o exame criminológico.O apenado cumpriu os requisitos objetivo e subjetivo para a obtenção do benefício, inexistindo nos autos informações sobre a prática de falta grave durante o cumprimento da pena. Ademais, o recorrente não apontou elementos concretos da execução da pena que justifique a realização do referido exame, tendo justificado o seu pedido, apenas, na gravidade do crime praticado pelo apenado.
+Assim, a gravidade dos crimes praticados e o tempo de pena a cumprir, quando ausentes outras circunstâncias que desaconselham a progressão de regime, não constituem motivação idônea para a negativa do benefício, conforme entendimento jurisprudencial desse Superior Tribunal de Justiça(grifei).
+Ante o exposto,conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
