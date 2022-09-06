@@ -1,0 +1,49 @@
+DECISÃO
+ADMINISTRATIVO.  AGRAVO  EM  RECURSO  ESPECIAL.  AÇÃO  DECLARATÓRIA.  DETRAN.  CNH.  AUTO  DE  INFRAÇÃO.  NOTIFICAÇÃO.  REMESSA  POSTAL.  CONDUTOR.  PROPRIETÁRIO.  MANTER  ENDEREÇO  ATUALIZADO  PERANTE  O  DETRAN.  FUNDAMENTO  NÃO  IMPUGNADO.  SÚMULA  283/STF.  AGRAVO  CONHECIDO  PARA  NEGAR  PROVIMENTO  AO  RECURSO  ESPECIAL  INTERPOSTO  POR  ALINE  BALIEIRO  MARTINS.
+  1.  Agrava-se  de  decisão  que  inadmitiu  o  recurso  especial  interposto  por  ALINE  BALIEIRO  MARTINS,  com  fundamento  no  art.  105,  III,  alínea  a,  da  CF/1988,  contra  acórdão  proferido  pelo  Tribunal  de  Justiça  do  Estado  do  Estado  de  São  Paulo,  assim  ementado:
+AÇÃO  DECLARATÓRIA.  CNH.  Aplicação  de  penalidade  de  suspensão  do  direito  de  dirigir.  Alegação  de  ausência  de  recebimento  da  notificação  da  decisão  administrativa  que  indeferiu  seu  recurso.  Inocorrência.  Prova  dos  autos  que  indica  o  envio  das  notificações  exigidas  pela  lei.  Nulidade  não  verificada.  CBT  que  não  exige  aviso  de  recebimento  das  notificações  enviadas,  bastando  a  comprovação  da  postagem  para  o  endereço  cadastrado.  Art.  282  do  CBT.  Resolução  nº  404/12do  CONTRAN.  Sentença  mantida.  Recurso  improvido  (fl.  149).
+
+2.  Nas  razões  do  seu  recurso  especial  (fls.  157/164),  a  parte  agravante  alega  violação  do  art.  282  do  Código  Brasileiro  de  Trânsito,  sustentando,  em  síntese,  a  ausência  de  notificação  válida.  Para  tanto,  afirma:  "Posto  que  a  ausência  de  entrega  da  notificação  do  endereço  da  recorrente,  isoladamente  macula  o  ato  administrativo,  por  ofensa  ao  devido  processo  legal,  contraditório  e  ampla  defesa"  (fl.  162).
+3.  Devidamente  intimada,  a  parte  agravada  não  apresentou  as  contrarrazões  (fl.  169).
+4.  Sobreveio  o  juízo  de  admissibilidade  negativo  (fl.  170),  fundado  no  óbice  da  Súmula  7  do  STJ,  razão  pela  qual  se  interpôs  o  presente  agravo  em  recurso  especial,  ora  em  análise.
+5.  É  o  relatório.
+6.  A  irresignação  não  merece  prosperar.
+7.  Inicialmente,  é  importante  ressaltar  que  o  presente  recurso  atrai  a  incidência  do  Enunciado  Administrativo  3  do  STJ,  segundo  o  qual,  aos  recursos  interpostos  com  fundamento  no  CPC/2015  (relativos  a  decisões  publicadas  a  partir  de  18  de  março  de  2016),  serão  exigidos  os  requisitos  de  admissibilidade  recursal  na  forma  do  novo  Código.
+8.  No  que  toca  à  controvérsia  travada  no  presente  recurso,  o  Tribunal  de  origem  assim  se  manifestou  sobre  o  tema:
+Trata-se  de  ação  declaratória  de  nulidade  ajuizada  por  Aline  Balieiro  Martins  em  face  do  Departamento  Estadual  de  Trânsito  do  Estado  de  São  Paulo  -  DETRAN/SP,  em  que  pretende  a  anulação  do  processo  administrativo  nº  1210-5/2015,  bem  como  da  penalidade  de  suspensão  do  direito  de  dirigir.
+A  r.  sentença  julgou  improcedente  a  ação.
+3.  Segundo  consta,  foi  instaurado  processo  administrativo  para  suspensão  do  direito  de  dirigir  (fls.  84),  sendo  a  autora  notificada  (fls.  85).  Ato  continuo,  apresentou  defesa  (fls.  86/92)  e  houve  decisão  administrativa,  indeferindo  seu  recurso  (fls.  97).  A  autora  foi  notificada  desta  decisão  (fls.  98),  mas  não  apresentou  recurso  ao  JARI,  transitando  em  julgado  a  decisão,  com  a  aplicação  da  penalidade  (fls.  99),  sendo  a  apelante  novamente  notificada  (fls.  100).
+Todavia,  a  apelante  afirma  que  não  foi  notificada  da  decisão  que  indeferiu  seu  recurso  administrativo,  não  tendo  oportunidade  de  interpor  recurso  ao  JARI.
+Assim,  sob  alegação  de  cerceamento  de  defesa,  ajuizou  a  presente  ação,  afirmando  a  ocorrência  de  vício  no  procedimento  administrativo  instaurado.
+4.  Depreende-se  dos  autos  que  todas  as  notificações  acima  descritas  foram  endereçadas  ao  endereço  constante  na  petição  inicial  (Rua  Eduardo  Peixoto  Sampaio,  nº  125,  Vila  Romana,  Marília  fls.  01  e  27).
+Como  é  cediço,  a  notificação  deve  ser  envidada  para  o  endereço  que  consta  dos  registros  do  veículo  no  DETRAN.
+Note-se  que  a  lei  não  exige  que  haja  comprovante  do  recebimento  assinado  pelo  destinatário.
+Neste  sentido  o  art.  3º  da  Resolução  nº  404/12  do  CONTRAN.
+Ademais,  o  documento  de  fls.  26  comprova  o  envio  das  notificações  à  Apelante,  no  endereço  que  consta  no  cadastro  da  Apelada  (Rua  Eduardo  Peixoto  Sampaio,  125,  Vila  Romana,  Marília).
+Note-se  que  houve  três  tentativas  pelo  Correio  e  em  todas  a  apelante  estava  ausente.
+Em  consequência,  os  documentos  juntados  pela  Apelada  às  fls.  83/106  e  os  documentos  de  fls.  22  e  26  são  suficientes  à  demonstração  de  que  as  notificações  pertinentes  foram  enviadas  ao  endereço  da  Apelante  que  consta  dos  cadastros  públicos,  não  havendo  qualquer  vício.
+  5.  Note-se  que  é  função  do  condutor  manter  seu  cadastro  atualizado,  considerando-se  válida  a  notificação  enviada  ao  endereço  cadastrado,  independentemente  de  prova  do  recebimento  (§  1º  do  artigo  282  c/c  241  da  Lei  Federal  nº  9.503/97).
+Nesse  passo,  os  comprovantes  de  postagem  demonstram  o  envio  das  notificações  ao  correio,  de  forma  que  a  autoridade  administrativa  cumpriu  todas  as  formalidades  legalmente  exigidas,  conforme  estabelecem  os  arts.  281  e  282  do  Código  de  Trânsito  Brasileiro:
+(..)
+Como  já  citado,  a  Resolução  nº  404/12  do  CONTRAN  em  seu  art.  3º,  não  exige  que  a  notificação  seja  acompanhada  de  aviso  de  recebimento(AR),  considerando-se  expedida  se  tiver  como  destino  o  endereço  constante  do  cadastro  do  DETRAN  e  for  enviada  aos  correios.
+Tanto  é  assim  que  mesmo  que  devolvida  a  notificação,  por  mudança  de  endereço,  ela  será  considerada  válida.  Neste  sentido  a  regra  do  art.  282  §  1º.
+Neste  sentido,  seguem  precedentes  deste  E.  Tribunal  de  Justiça:
+(..)
+Ademais,  o  ato  administrativo  goza  de  presunção  de  legitimidade  e  veracidade,  que  decorre  do  princípio  da  legalidade  da  Administração,  estando  ausente  prova  da  inadequação  do  processo  administrativo.
+Portanto,  o  argumento  da  autora  de  que  não  houve  regular  notificação  não  pode  ser  aceito.
+Logo,  é  de  se  considerar  regular  o  procedimento  administrativo  que  determinou  a  suspensão  do  direito  de  dirigir  da  autora.  (fls.  150/154,  destaques  do  original)
+
+9.  Como  se  vê,  na  hipótese  dos  autos,  não  houve  a  impugnação  particularizada  do  fundamento  basilar  que  ampara  o  acórdão  hostilizado,  qual  seja,  é  função  do  condutor/proprietário  manter  endereço  atualizado  junto  ao  Detran.  Sendo  assim,  como  tal  fundamento  não  foi  atacado  pela  parte  insurgente  e  sendo  apto,  por  si  só,  para  manter  o  decisum  combatido,  permite-se  aplicar  na  espécie,  por  analogia,  o  óbice  da  Súmula  283  do  STF  (é  inadmissível  o  recurso  extraordinário,  quando  a  decisão  recorrida  assenta  em  mais  de  um  fundamento  suficiente  e  o  recurso  não  abrange  todos  eles).  Nesse  sentido:
+PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  FALHA  NA  PRESTAÇÃO  DO  SERVIÇO  PÚBLICO  DE  FORNECIMENTO  DE  ENERGIA  ELÉTRICA.  VIOLAÇÃO  DOS  ARTS  489  E  1.022  DO  CPC/2015.  INOCORRÊNCIA.  RAZÕES  DISSOCIADAS.  INCIDÊNCIA  DAS  SÚMULAS  283  E  284  DO  STF.  INCIDÊNCIA  DO  ÓBICE  DA  SÚMULA  7/STJ.  AGRAVO  INTERNO  DO  ENTE  MINISTERIAL  DESPROVIDO.
+1.  (..)
+2.  A  argumentação  do  recurso  especial  não  atacou  o  fundamento  autônomo  e  suficiente  empregado  pelo  acórdão  recorrido.  Incide,  no  ponto,  as  Súmula  283  e  284/STF.
+3.  (..)
+4.  Agravo  Interno  do  ente  ministerial  desprovido.  (AgInt  no  AREsp  1811189/RJ,  Rel.  Ministro  MANOEL  ERHARDT  -  DESEMBARGADOR  CONVOCADO  DO  TRF5,  PRIMEIRA  TURMA,  julgado  em  14/02/2022,  DJe  16/02/2022  -  sem  destaques  no  original).
+PROCESSUAL  CIVIL.  AGRAVO  INTERNO.  RECURSO  ESPECIAL.  SUBMISSÃO  À  REGRA  PREVISTA  NO  ENUNCIADO  ADMINISTRATIVO  03/STJ.  EXECUÇÃO  FISCAL.  RETENÇÃO  DO  IMPOSTO  DE  RENDA.  JUROS  DE  MORA.  AÇÃO  TRABALHISTA.  AUSÊNCIA  DE  PREQUESTIONAMENTO.  ÓBICE  DAS  SÚMULAS  282  E  356/STF.  EXISTÊNCIA  DE  FUNDAMENTO  AUTÔNOMO  NÃO  IMPUGNADO  DE  MODO  ADEQUADO  NAS  RAZÕES  RECURSAIS.  FUNDAMENTAÇÃO  DEFICIENTE.  ÓBICES  DAS  SÚMULAS  283  E  284  DO  STF,  RESPECTIVAMENTE.  QUESTÃO  ATRELADA  AO  REEXAME  DA  MATÉRIA  DE  FATO.  ÓBICE  DA  SÚMULA  07/STJ.
+1.  (..)
+2.  É  inadmissível  o  recurso  especial  quando  o  acórdão  recorrido  assenta  em  mais  de  um  fundamento  suficiente  e  o  recurso  não  abrange  todos  eles,  bem  como  quando  deficiente  a  fundamentação  recursal  (Súmula  283  e  284  do  STF,  por  analogia).
+3.  (..)
+4.  Agravo  interno  não  provido  (AgInt  no  REsp  1942024/RS,  Rel.  Ministro  MAURO  CAMPBELL  MARQUES,  SEGUNDA  TURMA,  julgado  em  14/02/2022,  DJe  17/02/2022  -  sem  destaques  no  original).
+10.  Diante  dessas  considerações,  conheço  do  agravo  para  negar  provimento  ao  recurso  especial  do  particular.
+11.  Por  fim,  caso  exista  nos  autos  prévia  fixação  de  honorários  sucumbenciais  pelas  instâncias  de  origem,  majoro,  em  desfavor  da  parte  recorre  nte,  em  10%  (dez  por  cento)  o  valor  já  arbitrado  (na  origem),  nos  termos  do  art.  85,  §  11,  do  CPC/2015,  observados,  se  aplicáveis,  os  limites  percentuais  previstos  nos  §§  2º  e  3º  do  referido  dispositivo,  bem  como  os  termos  do  art.  98,  §  3º,  do  mesmo  diploma  legal.
+12.  Publique-se.  Intimações  necessárias.
