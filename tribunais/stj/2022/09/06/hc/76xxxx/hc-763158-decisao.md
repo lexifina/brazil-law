@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se dehabeas corpus,com pedido de liminar, impetrado em benefício de Dhione Ferreira da Silva, em que se aponta como autoridade coatorao Tribunal de Justiçade Goiás, que denegou a ordem ali impetrada (Habeas Corpus n.5405100-85.2022.8.09.0000), mantendo a decisão do Juízo de Direito da 2ª Vara Criminal da comarca de Uruaçu/GO,que homologou a prisãoem flagrante do paciente ea converteu em preventiva, pela suposta prática dodelitode tráfico de drogas - com apreensão de 181,5 g de maconha e 277,3 g de crack - e de posse ilegal de arma de fogo - calibre .38 com munições (Autos n. 5352693-34.2022.8.09.0152).
+Neste writ,sustenta a defesaausência de fundamentação idônea a justificar a prisão preventiva, já que imposta com base em elementos abstratos.
+Aduz que o paciente exerce trabalho lícito, não possui nenhum apontamento em sua ficha criminal e que não há nos autos nenhum indício de periculosidade por parte do réu.
+Pleiteia, em liminar e no mérito, a concessão da ordem, a fim de revogar a prisão preventiva do paciente, com a imediata expedição de alvará de soltura.
+Liminar deferida às fls. 38/41.
+Informações prestadas às fls. 45/47 e 49/51.
+Parecer do Ministério Público Federal opinando pela concessão parcial daordem(fls. 54/59).
+É o relatório.
+Busca o paciente a revogação da prisão cautelar imposta a ele na açãopenal que lhe imputa os crimes de tráfico de drogas e posse ilegal de arma de fogo.
+Eis o que asseverou o Magistrado(fl. 32- grifo nosso):
+ ..
+Inicialmente, verifica-se que o delito possui pena máxima superior a 04 (quatro) anos, razão pela qual se revela preenchido o requisito estabelecido pelo artigo 313, inciso I, do CPP.
+Infere-se ainda, que o flagrante versa sobre imputação do cometimento de crime grave, com reflexos negativos com relação ao sentimento geral de insegurança, que cresce a cada dia diante do aumento de práticas dessa natureza (tráfico de drogas).
+Vale dizer que o tráfico ilícito de drogas possui enorme repercussão no tecido social, mormente em virtude de decorrer outros crimes direta ou indiretamente, tais como da venda e do consumo de drogas, razão pela qual o Poder Público deve apresentar resposta aos delitos que causam repulsa a sociedade. Todavia, a gravidade do delito, per si, não pode ensejar a decretação ou manutenção da prisão preventiva.
+Verifica-se que o autuado não possui emprego fixo, levando-se a crer que a sua principal fonte de renda vem da prática do ilícito.
+Deste modo, presente está uma das hipóteses que autoriza a decretação da prisão preventiva, qual seja, a garantia da ordem pública, pois ela visa não só impedir que o agente se solto volte a delinquir, mas também acautelar o meio social, nos crimes que provoquem clamor popular, garantindo a credibilidade da Justiça.
+De mais a mais, se faz necessária para a conveniência da instrução criminal, na medida em que há ainda elementos de prova a serem colhidos, sem que haja o constrangimento das testemunhas e familiares ou qualquer risco de evasão de culpa, o que atrapalharia o bom andamento processual.
+Deste modo, a liberdade do autuado colocaria em risco a instrução criminal e a aplicação da lei penal, sem também olvidar da ordem pública, razão pela qual incabível a aplicação de medidas diversas da sua segregação cautelar.
+ ..
+Conforme reiteradamente decidido pelo Superior Tribunal de Justiça, a custódia cautelar não pode ser imposta com base, essencialmente, na gravidade abstrata do delito, assentada a motivação em elementosinerentes ao próprio tipo penal. Cumpre ao Magistrado vincular seu decisum a fatores reais de cautelaridade, o que não ocorreu na espécie.
+Diz-se, acima, que a prisão se justifica na garantia da ordem pública, pois o paciente não comprovou emprego lícito.
+No entanto, como se sabe, já decidiu esta Corte que o argumento de que o paciente não comprovou endereço fixo e trabalho lícito não pode ser considerado suficiente para a decretação da medida extrema (HC n. 533.233/RJ, Ministra Laurita Vaz, Sexta Turma, DJe 25/10/2019) - (AgRg no HC n. 685.737/SP, Ministro da minha relatoria, Sexta Turma, julgado em 28/9/2021, DJe 30/9/2021 - grifo nosso).
+Ademais, o Juiz justificou a prisão na necessidade de salvaguardar aconveniência da instrução criminal, por entender que há ainda elementos de prova a serem colhidos.Contudo, oJuízo, na hipótese, não trouxe nenhuma informação do caso concreto esclarecendo o motivo pelo qual, neste caso, diferentemente dos demais, é devida a prisão. Houve alguma tentativa de destruir as provas por parte do paciente  Soube-se que o réu tentou intimidar alguma testemunha  Ora, o Juiz não justificou com fundamento concreto algum a necessidade de salvaguardar a instrução criminal. O argumentoutilizado serviria para qualquer crime cometido por qualquer pessoa, o que não é aceito pela jurisprudência.
+Como afirmei na decisão que deferiu o pedido liminar, entendo devidaaconcessão da liberdade provisóriacom medidas cautelares diversas, umavez que, na decisão que decretou a preventiva, nenhum fundamento concreto foi utilizado.
+Como se sabe, deve-se justificar a prisão com fundamentos concretos, advindos das informações dos autos. Se assim não fosse, caberia ao legislador imputar a prisão nos casos em que julgasse necessário, a exemploda presente situação, determinando a prisão em todos os casos em que cometido tráfico de drogas e de posse irregular de arma de fogo.
+A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA. FUNDAMENTAÇÃO INIDÔNEA. ORDEM CONCEDIDA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Sabe-se que o ordenamento jurídico vigente traz a liberdade do indivíduo como regra. Desse modo, a prisão revela-se cabível tão somente quando estiver concretamente comprovada a existência do periculum libertatis, sendo ilegal o recolhimento de alguém ao cárcere caso se mostrem inexistentes os pressupostos autorizadores da medida extrema, previstos na legislação processual penal.
+2. Na espécie, o agravante não apontou nenhuma circunstância concreta que pudesse evidenciar a necessidade da custódia cautelar da agravada, nos moldes do que preconiza o art. 312 do Código de Processo Penal. Ao contrário, deteve-se a fazer ilações acerca da gravidade abstrata do crime; a mencionar a prova de materialidade e os indícios de autoria; e a invocar a quantidade de droga apreendida em poder da acusada, o que não autoriza a medida extrema de prisão, já que não se está diante de grande quantidade de entorpecentes - aproximadamente 48g (quarenta e oito gramas) de crack. .
+3. Agravo regimental desprovido.
+(AgRg no HC n. 745.511/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 2/8/2022, DJe 8/8/2022 - grifo nosso)
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. RÉU PRIMÁRIO. PEQUENA QUANTIDADE. INADEQUAÇÃO DA MANUTENÇÃO DA PRISÃO PREVENTIVA. AGRAVO DESPROVIDO.
+1. Não é vedado ao relator revalorar o quadro fático para chegar a entendimento diverso quanto à justeza da motivação declinada para fins de prisão preventiva, sendo descabido falar em constrangimento ilegal na revogação do decreto prisional no julgamento do agravo regimental defensivo.
+2. O Tribunal a quo decretou a prisão preventiva do paciente com base em fundamentos genéricos relacionados à gravidade abstrata do crime de tráfico de drogas e em elementos inerentes ao próprio tipo penal, deixando de observar o disposto no art. 312 do CPP.
+3. Não foram apontados dados concretos a justificar a segregação provisória. Nem mesmo a quantidade de entorpecentes apreendida - 73 gramas de cocaína - pode ser considerada relevante a ponto de autorizar, por si só, a custódia cautelar do paciente, sobretudo quando considerada sua primariedade e seus bons antecedentes.
+4. Agravo regimental desprovido.
+(AgRg no AgRg no HC n. 725.285/SP, Ministro Ribeiro Dantas, Quinta Turma, julgado em 14/6/2022, DJe 20/6/2022 - grifo nosso)
+No mesmo sentido, o parecer do Ministério Público Federal,pugnandopelaconcessão parcial da ordem para substituir a prisão por medidas cautelares diversas, ressaltando queo decreto preventivo supratranscrito carece de fundamentação válida para embasar a constrição cautelar do paciente (fl. 58).
+Em face do exposto, acolhendo o parecer ministerial, concedo a ordem,confirmando a liminar anteriormente deferida, para substituir a prisãocautelar imposta ao paciente por medidas alternativas à prisão a seremestabelecidas e fiscalizadas pelo Magistrado singular - dando prioridade ao monitoramento eletrônico(caso disponível na comarca) -, salvo prisão poroutro motivo, podendo o Juízo de primeiro grau decretar novamente asegregação cautelar, desde que fundamentadamente.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS E POSSE ILEGAL DE ARMA DE FOGO. PRISÃO PREVENTIVA. FUNDAMENTOS INIDÔNEOS. GRAVIDADEABSTRATA. ILEGALIDADE MANIFESTA. LIMINAR CONFIRMADA. PARECER ACOLHIDO.
+Ordem concedida nos termos do dispositivo.
