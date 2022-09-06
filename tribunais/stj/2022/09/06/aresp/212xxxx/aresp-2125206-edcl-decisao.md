@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por VANESSA SANTORO, à decisão de fls. 481/482, que não conheceu do recurso.
+Sustenta a parte embargante que:
+Inicialmente cumpri esclarecer que houve renúncia da anterior advogada da senhora Vanessa Santoro, sendo nomeada a presente advogada para representar a ora agravante, conforme procuração juntada às fls. 465/466 dos autos do recurso de Agravo em Recurso Especial.
+E conforme se verifica às fls. 465 foi requerido que todas as intimações passassem a serem publicadas em nome da Dra. Marcia Pereira Batista, OAB/SP n. 201.066, sob pena de nulidade dos atos, vejamos: (fl. 485).
+ ..
+Em que pese a modificação da representação, bem como, a devida comunicação nos autos conforme acima narrado, todos os atos posteriores não foram publicados em nome da atual advogada da senhora Vanessa, portanto, tais atos gozam de nulidade e não podem surtir efeitos com relação à presente advogada, bem como, com a Agravante.
+Diante do acima exposto, gozando o feito de nulidade requer a devolução do prazo para manifestação sobre as decisões proferidas nos autos posteriormente a juntada aos autos no instrumento de procuração de fls. 465/466 (fl. 486).
+Alega ainda:
+A decisão acima julgou o recurso intempestivo, contudo, No atual Código de Processo Civil os prazos são contados em dias úteis, excluindo-se finais de semana e feriados.
+Como é sabido o dia 12 de outubro é feriado nacional, sendo que, no ano de 2021 ocorreu feriado prolongado devido ao fato do feriado de 12 de outubro de 2021 ter ocorrido na terça feira. Conforme Decreto nº 66.078/2021, publicado no DOE de 05/10/2021, ficou suspenso o expediente nas repartições públicas do estado de São Paulo, pertencentes à Administração Direta e Autarquias nos dias 11 de outubro, assim, a suspensão do prazo no dia 11 de outubro de 2021 não se deu em virtude de feriado local e sim de suspensão nacional, de modo que não era dever da parte comprovar nos autos a ocorrência do feriado (fl. 487).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Inicialmente, tendo em vista a nulidade verificada na intimação da decisão de fls. 481/482, torno sem efeito a certidão de decurso de prazo de fl. 491 e passo à análise dos embargos de declaração.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Cumpre esclarecer, pois se encontra pacificado nesta Corte, que a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada, no ato da interposição do recurso que pretende seja conhecido por este Tribunal, por documento oficial ou certidão expedida pelo Tribunal de origem, não bastando a mera menção ao feriado local nas razões recursais, tampouco a apresentação de documento não dotado de fé pública.
+Nesse sentido, AgInt no AREsp 1542214/SP, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 9/6/2020; AgInt nos EDcl no AREsp 1553768/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 27/4/2020; e AgInt nos EDcl no AREsp 1379051/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 3/10/2019.
+É certo que o feriado nacional de 12/10/2021 não precisa ser comprovado. Porém, o dia 11/10/2021 é supostamente feriado local, razão pela qual deveria ter sido comprovado no momento da interposição do recurso, providência que não foi cumprida.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
