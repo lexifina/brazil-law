@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por VIBRA ENERGIA S.A, contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 28/02/2022
+Concluso ao gabinete em: 13/07/2022.
+Ação: de rescisão contratual com pedido alternativo de revisão de cláusulas contratuais, pronunciamento de nulidade e outros pedidos ajuizada por AUTO POSTO ROCAS LTDA, contra PATROBRÁS DISTRIBUIDORA S/A.
+Sentença: julgou improcedentes os pedidos da inicial.
+Acórdão: deu provimento à apelação da parte agravada, determinando a anulação da sentença e prosseguimento do feito para instrução probatória, nos termos da ementa:
+"CONTRATO DE PROMESSA DE COMPRA E VENDAMERCANTIL COM LICENÇA DE USO DE MARCA E OUTROS PACTOS. FORNECIMENTO DE COMBUSTÍVEL. PRETENSÃO DE RESCISÃO CONTRATUAL. Sentença de improcedência do pedido principal e procedência do reconvencional. Apelo da autora. Cerceamento de defesa constatado. Processo que não estava em termos para julgamento. Fatos que demandam ampla instrução probatória, a exemplo da alegada prática comercial desleal, a qual deve ser elucidada pela prova técnica, já requerida pela autora. Feito que deve prosseguir nos termos do art. 357, do CPC. Precedentes desta Câmara e desta Corte. Sentença anulada. RECURSO PROVIDO. "(e-STJ fl. 1825)
+Embargos de Declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: alega violação dos arts.4º, 8º, 139, II, 276, 355, I, 370, parágrafo único, 373, I, 489, §1º, IV, e 1.022, II, do CPC. Além de negativa de prestação jurisdicional, sustenta que a sentença que julgou improcedentes os pedidos da inicial da parte agravada deve ser mantida uma vez que não há qualquer necessidade na produção de provas. Aduz que foi correto o julgamento antecipado da lida porquanto desnecessárias e inúteis as provas requeridas pelo agravado. Alega que aanulação da decisão para reabertura da fase probatória seria cabível apenas se existissem teratologias ou arbitrariedades na decisão de indeferimento das provas, que não é a hipótese.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação dos arts. 489 e 1.022 do CPC/2015
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente acerca da necessidade de reabertura da instrução probatória uma vez que é imprescindível à constatação da alegação de prática ou não desleal pela ora agravante, consubstanciada na prática de preços discriminatórios,e consequente responsabilizaçãopela rescisão contratual.
+Conforme se nota, não há omissão do Tribunal de origem quanto à controvérsia posta a exame, mas mero inconformismo da parte agravante que não concorda com o retorno dos autos para a primeira instância e reabertura da fase de instrução probatória.
+Devidamente analisadas e discutidas as questões de mérito, e fundamentado suficientemente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, os embargos de declaração opostos pela parte agravante, de fato, não comportavam acolhimento, não havendo que se falar em violação dos art. 489 e 1.022 do CPC.
+- Do cerceamento de defesa
+É certo que ajurisprudência do STJ é no sentido de que, sendo o juiz o destinatário da prova, à luz dos princípios da livre apreciação da prova e do livre convencimento motivado, o entendimento pelo julgamento antecipado da lide não acarreta cerceamento de defesa (AgInt no REsp 1.429.272/MA, 4ª Turma, DJe de 20/8/2018; e AgInt no AREsp 1.015.060/RS, 3ª Turma, DJe de 12/5/2017).
+Ocorre que o Tribunal de origem, ao analisar os presentes autos, levando em conta aspectos fáticos específicos da ação, entendeu que seria necessária a reabertura da fase de instrução probatóriauma vez que se mostrouimprescindível para aconstatação da alegada práticadesleal pela ora agravante, consubstanciada na prática de preços discriminatórios.
+Assim,modificar a conclusão do Tribunal de origem no sentido de que é necessária a produção das provas requeridas na inicialimplica reexame de fatos e provas. Incide a Súmula 7 do STJ quanto ao tema.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL.AÇÃO DE RESCISÃO CONTRATUAL COM PEDIDO ALTERNATIVO DE REVISÃO DE CLÁUSULAS CONTRATUAIS, PRONUNCIAMENTO DE NULIDADE E OUTROS PEDIDOS.EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA.CERCEAMENTO DE DEFESA. INEXISTÊNCIA. JULGAMENTO ANTECIPADO DA LIDE. SUFICIÊNCIA PROBATÓRIA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1.Açãode rescisão contratual com pedido alternativo de revisão de cláusulas contratuais, pronunciamento de nulidade e outros pedidos.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+4. A jurisprudência do STJ é no sentido de que, sendo o juiz o destinatário da prova, à luz dos princípios da livre apreciação da prova e do livre convencimento motivado, o entendimento pelo julgamento antecipado da lide não acarreta cerceamento de defesa. Precedentes.
+5. modificar a conclusão do Tribunal de origem no sentido de que é necessária a produção das provas requeridas na inicial implica reexame de fatos e provas. Incide a Súmula 7 do STJ quanto ao tema.
+6. Agravo conhecido. Recurso especial parcialmente conhecido e, nesta extensão, não provido.
