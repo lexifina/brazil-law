@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de recurso ordinário interposto por ANA VIEIRA DA SILVA, MARIA APARECIDA VIEIRA DA SILVA SOUZA, DIOGO JACOB RAKOWSKI e DENES ANTONIO TAVEIRA DE SOUSA em face dedecisão unipessoal proferida pelo Relator de habeas corpus impetrado perante o TJ/GO, por meio da qual foi indeferida a petição inicial do writ.
+Nas razões recursais (fls. 84/90, e-STJ), alega-se, em síntese, que o paciente teria sido impositivamente internado em lar para idosos por um de seus irmãos, ARISTEU VIEIRA DA SILVA, contra a sua vontade e de parcela de seus familiares, existindo, a partir daí, atos de dilapidação do patrimônio amealhado pelo paciente.
+Relatados os fatos, decide-se.
+01) Inicialmente, anote-se que o presente recurso ordinárioimpugna a decisão unipessoal do Relator de habeas corpus perante o TJ/GO, por meio daqual foi indeferida a petição inicial do writ ao fundamento de que a pretensão deduzida era manifestamente inadmissível (fls. 78/80, e-STJ).
+02) Ocorre que, na esteira da firme jurisprudência desta Corte, é inviável o recurso ordinário que impugna decisão unipessoal de Relator na origem, tendo em vista a ausência de exaurimento da instância e a inexistência de decisão colegiada a ser contrastada. Nesse sentido: AgInt no HC 515.112/SP, 2ª Turma, DJe 09/10/2019, RHC 95.852/SP, 3ª Turma, DJe 19/04/2018 e AgRg no RHC 36.802/SP, 4ª Turma, DJe 30/08/2013.
+03) De outro lado, ainda que se entenda ser possível superar o referido e conhecer do pedido como habeas corpus originário, fato é que melhor sorte não assiste aos impetrantes.
+04) Com efeito, conforme registrado na decisão proferida em 1º grau, "épossível perceber que o paciente,deacordo com o relatório médico acostado à prefacial, detém "rebaixamento cognitivo importante", não sendoconsiderado "apto para atos da vida civil"". E complementou:
+O idoso possui diagnóstico de deficiência cognitiva (CID F71) e comagitação, sem sinais de agressividade.
+Em visitas anteriores foi constatado que o usuário possui hábitosacumuladores necessita de acompanhamento de um cuidador em tempointegral. Já houve casos em que o Sr. Lazaro haviao acumulo de lixo emquantidade exorbitante. O usuário possuía cuidadora, mas segundorelatos ela não podia realizar a higienização da residência pois o Sr.Lazaro não permitia que ela jogasse suas as coisas no lixo.
+A família recorreu a uma casa de longa permanência como forma degarantir uma qualidade de vida melhor a o Sr. Lázaro, sendo essa emmunicípio vizinho e de fácil acesso para os mesmo.
+Ressaltamos que é de conhecimento da Assistência Social do municípioque o Sr. Lazaro necessita de acompanhamento em tempo integral comoforma de garantir a integridade física.
+05) De outro lado, a decisão do Relator do habeas corpus impetrado perante o TJ/GO ressaltou a existência de ação de interdição cumulada com curatela em curso perante o Juízo Cível competente, cujo conteúdo sequer foi trazido ao conhecimento desta Corte, oportunidade em que se debaterá, com a profundidade e adequaçãonecessária, todas as questões relacionadas ao objeto da impetração.
+06) Em suma, não se vislumbra, nesse momento, manifesta ilegalidade ou teratologia que justifique a intervenção desta Corte, sobretudo no estreito âmbito da via mandamental.
+07) Forte nessas razões, NÃO CONHEÇO do recurso ordinário com base no art. 932, III, do CPC/15.
+Publique-se. Intimem-se.
