@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto porBNDES PARTICIPACOES S.A. BNDESPAR e BANCO NACIONAL DE DESENVOLVIMENTO ECONÔMICO E SOCIAL,contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente,na alínea"a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 13/12/2021.
+Concluso ao gabinete em: 22/08/2021.
+Ação: falência de NOBRECEL S.A. CELULOSE E PAPEL e FERNANDO BORGES - ADMINISTRAÇÃO, PARTICIPAÇÕES E DESENVOLVIMENTO DE NEGÓCIOS LTDA.
+Decisão interlocutória: autorizou a administradora judicial a concluir o contrato de aquisição de maquinário pertencente à falida, bem como a cessão da posse provisória do parque industrial à proponente Indústria de Papéis Sudeste Ltda., para que esta possa, por sua conta e risco, iniciar os trabalhos de limpeza e conservação do local.
+Acórdão: negou provimento ao agravo de instrumento interposto pelas recorrentes, nos termos da seguinte ementa (e-STJ, fl. 237):
+AGRAVO DE INSTRUMENTO - FALÊNCIA - Decisão agravada que autorizou a Administradora Judicial a concluir o contrato de aquisição, locação e comodato de maquinário e instalações à proponente - Alegação de impossibilidade da negociação nos moldes propostos, ante a ausência de previsão legal e o risco assumido com a sua efetivação - Não acolhimento - Possibilidade de alienação atípica de bens - Art. 144 da Lei 11.101/05 - Empresa proponente que demonstrou se encontrar em situação econômica confortável para realização da avença - Medida que previne a deterioração do parque industrial da falida, dando-lhe função social e permitindo a quitação dos débitos pendentes - Decisão mantida - Recurso improvido.
+Recurso especial: alegam violação dos arts. 114, 142 e 144 da Lei 11.101/2005.Aduzem que a aceitação da propostade aquisição de maquinário ede aluguel de terreno e edificaçõesda massa falidaformulada pela empresa Indústria de Papéis Sudeste Ltda. acaba por negar"vigência aos princípios do processo falimentar relativos à celeridade do processo e à maximização do valor dos ativos do falido" (e-STJ, fl. 260),além de não observar a regra para alienação de bens da massa falida.
+Afirmam quenão foi apontada a vantagem e a eficiência da opção de alienação proposta, tampouco foi demonstrada a capacidade satisfativa da proponente, não havendo justificativa para autorizar a alienação do ativo.
+Acentuam que a proponente está em recuperação judicial e isso traz sérias dúvidas quanto a sua capacidade financeira de retomar as atividades da falida e de realizar os pagamentos assumidos perante credores,requerendo seja suspensa a referida autorização e elaborado novo plano de alienação dos bens da massa falida.
+RELATADO O PROCESSO, DECIDE-SE.
+- Do reexame de fatos e provas
+Ao rechaçar as alegações dos recorrentes, consignou o Tribunal de origem que o caso dos autos se amolda aoart. 144 da Lei 11.101/2005, que "permite que, em casos excepcionais, haja a alienação dos bens da falida sem leilão judicial ou processo competitivo" (e-STJ, fl. 239), tendo em vista que "houve diversas tentativas de alienação do patrimônio nos termos do art. 140 da Lei deRecuperação Judicial e Falência, sem sucesso em relação ao parque industrial da empresa falida que, por atuar em remo específico (fabricação de celulose e papel), encontra maiores dificuldades de alienação por um preço que permita a quitação dos débitos com seus credores" (e-STJ, fls. 240/241).
+Acrescentou aquela Corte, ainda, que:
+ ..  o negócio jurídico proposto se coaduna com a legislação vigente, permitindo um meio pelo qual os débitos ainda pendentes possam ser quitados, ainda que em um prazo mais dilatado.
+Outrossim, a manutenção e conservação dos maquinários e instalações não deve ser desprezada no caso em comento, considerando-se especialmente o lapso temporal decorrido desde a falência da empresa, ocorrida em 02.08.2013  .. .
+Outrossim, o simples fato de a proponente se encontrar em recuperação judicial não constitui óbice no presente caso, especialmente porque foi acostado aos autos um detalhado relatório de informações financeiras, demonstrando sua plena recuperação desde o pedido de soerguimento, ocorrido em 2008. (fls. 241/242)
+Concluiu, assim, que "não restam dúvidas que a aquisição nos termos pretendidos se coaduna com os preceitos basilares do processo falimentar, delineados no art. 75 da lei de regência, recentemente modificado pela Lei 14.112/20", acentuando que"a proposta de aquisição, locação e comodato por um período mais longo permite que a empresa adquirente não prejudique suas finanças com a indigitada aquisição e, ao mesmo tempo, evita a deterioração do parque industrial, gerando empregos na região em que está sediada a planta"(e-STJ, fl. 242)
+Como se observa, as alegações dos recorrentes todas no sentido de justificar a irregularidade da alienação de bens da falidaforam contraditadas pelo acórdão impugnado, que afirma justamente o contrário. Portanto, diante dessa discrepância no quadro fático e jurídico entre o que se alega e aquilo que consta do acórdão, inevitável a incidência da Súmula 7/STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC/15, NÃO CONHEÇO do recurso especial.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados no julgamento do recurso pelo Tribunal de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. FALÊNCIA.REEXAME DE FATOS E PROVAS OUINTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE.
+1. Falência.
+2. O reexame de fatos e provas em recurso especial é inadmissível.
+3. Agravo conhecido. Recurso especial não conhecido.
