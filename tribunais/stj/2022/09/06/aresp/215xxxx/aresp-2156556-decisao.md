@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (e-STJ, fl. 296):
+DANO MORAL Banco de dados Apelante que pleiteou lançamento de ressalva junto à apontamentos em seu nome diante da existência de discussão judicial Inadmissibilidade Órgão de proteção ao crédito que somente reproduz os dados fornecidos pelo credor Recurso não provido.
+Foram opostos embargos de declaração, que ficaram retratados na seguinte ementa (e-STJ, fl. 463):
+RECURSO Embargos de declaração Alegação de omissão Inocorrência Banco de dados - Apelante que pleiteou lançamento de ressalva junto à apontamentos em seu nome diante da existência de discussão judicial Inadmissibilidade - Órgão de proteção ao crédito que somente reproduz os dados fornecidos pelo credor Embargos rejeitados.
+Nas razões do recurso especial, a parte agravante aponta violação dos arts. 489, § 1º, inc. IV, e § 2º, e art. 1.022do Código de Processo Civil;art.43, §§ 1º e 3º, do Código de Defesa do Consumidor; art.4º, § 2º, da Lei 9.507/97; arts.186, 187 e 927, "a", do Código Civil;bem como divergência jurisprudencial.
+Sustenta que o órgão de proteção de crédito tem o dever de retificar o cadastro de interessados para que conste anotação referente à litigiosidade da dívida.
+Adverte que o pedido é de que a restrição não oculte a litigiosidade, não se requerendo suspensão ou cancelamento do registro de dados.
+Contrarrazões apresentadas.
+Assim delimitada a controvérsia, passo a decidir.
+A parte agravante alega que houve omissão no acórdão recorrido quanto àtese referente à existência de direito à ressalva de informações acerca da litigiosidade de débitos nos banco de dados dos órgãos de proteção ao crédito.
+Inicialmente, com relação à suposta ofensa aos arts. 489 e 1.022 do CPC, verifico que não existe omissão ou ausência de fundamentação na apreciação das questões suscitadas.
+Além disso, não se exige do julgador a análise de todos os argumentos das partes, a fim de expressar o seu convencimento. O pronunciamento acerca dos fatos controvertidos, a que está o magistrado obrigado, encontra-se objetivamente fixado nas razões do acórdão recorrido.
+Observo, nesse sentido, que o Tribunal de origem entendeu ser incabível o pedido deretificação das informações, haja vista que a instância capaz de analisar a viabilidade do pedido é aquela emque se analisa a própria litigiosidade do débito (e-STJ, fls. 296/298):
+O apelante requer em sua petição inicial:
+(..) A) seja lançada(s) a(s) RESSALVA(s) junto ao(s) apontamento(s) do Banco Bradesco, em razão do mesmo estar sub judice, processo 1013305-91.2020.8.26.0554, em trâmite pela 1ª Vara Cível de Santo André; B) determinar que deve apresentar com a contestação, a cópia do título apontado, pois, notificada que não havia lastro, nada fez, sob pena de uma multa diária de R$ 200,00 até o limite de R$ 5.000,00; C) além de condenar a Ré, a título de danos morais, em montante que sugere no equivalente a vinte mil reais, acrescido das cominações decorrentes, em razão do ilícito praticado, conforme alhures demonstrado.
+Ora, se o apelante ajuizou ação para discussão do apontamento, pode formular o seu pedido nos autos da referida ação, porquanto o Magistrado tem condições de analisar a sua viabilidade.
+Ressalte-se que os órgãos de proteção ao crédito simplesmente reproduzem os dados fornecidos pelos credores, não lhe cabendo analisar as informações colhidas. Como asseverou o d. Magistrado:
+Por outro lado, sendo lícita a atividade do réu, não pode ser responsabilizado pelo simples exercício de sua atividade precípua ou mesmo pelo eventual mau uso dos dados transmitidos aos destinatários. (..) Observe-se que eventual defesa contra a existência da dívida apenas pode ser veiculada contra credor, jamais contra o órgão de proteção ao crédito.
+Desta forma, o pedido formulado na petição inicial não pode ser acolhido, sendo imperiosa a manutenção da r. sentença tal como lançada.
+Assim entendendoo tribunal local, faz-se impossível a desconstituição dessas conclusões, sob pena de incidência do óbice sumular de número 7, deste Superior Tribunal de Justiça.
+Ainda, oSTJ entende que não há obrigatoriedade legal para que o arquivista dê cumprimento ao pedido do agravante, não se aplicando na hipótese a norma do parágrafo 3ºdo art. 43 do CDC, porque referida norma tem aplicação somente quando o consumidor encontrar inexatidão nos seus dados e cadastros, o que não é o caso dos autos.
+A propósito:
+CIVIL. PROCESSUAL CIVIL. CONSUMIDOR. GRAVO EM RECURSO ESPECIAL. RECURSO INTERPOSTO SOB A ÉGIDE DO NCPC. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZAÇÃO POR DANO MORAL. AUTORA QUE PRETENDEU A ATUALIZAÇÃO DE INFORMAÇÕES DE SEU CADASTRO MANTIDO PELO ARQUIVISTA PARA FAZER CONSTAR A EXISTÊNCIA DE DISCUSSÃO JUDICIAL A RESPEITO DA DÍVIDA LEVADA À ANOTAÇÃO. AUSÊNCIA DE DEVER LEGAL DA RÉ NESSE SENTIDO, ENQUANTO ORGÃO DE PROTEÇÃO AO CRÉDITO. RÉ QUE TEM DEVER APENAS DE CORREÇÃO DE INFORMAÇÕES EQUIVOCADAS E INEXATAS, O QUE NÃO É O CASO DOS AUTOS. DANO MORAL NÃO COMPROVADO. REFORMA. SÚMULA Nº 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO PROVIDO. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2.Cinge-se a controvérsia a ação de indenização por dano moral, em virtude do descumprimento de pedido de inserção de ressalva em apontamento feito pelo arquivista, quanto à existência de discussão judicial do débito que ensejou a inserção do nome da autora em órgão de proteção ao crédito.
+3. Não há obrigatoriedade legal para que o arquivista dê cumprimento ao pedido da agravada, não se aplicando na hipótese a norma do artigo 3º, do art. 43 do CDC, porque referida norma tem aplicação somente quando o consumidor encontrar inexatidão nos seus dados e cadastros, o que não é o caso dos autos.
+4. A modificação das conclusões adotadas na Corte estadual encontra óbice no enunciado da Súmula nº 7 do STJ.
+5. Agravo interno não provido.
+(AgInt no AREsp 1675509 / SP. Terceira Turma. Rel. Ministro MOURA RIBEIRO. DJe 02/02/2021)
+Diante da incidência da Súmula 7/STJ, fica prejudicada a análise das supostas violações à legislação federal.
+Ademais, fica impedido o exame de dissídio jurisprudencial, "na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução à causa a Corte de origem" (AgInt no AREsp 1691094/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, DJe 1.10.2020).
+Em face do exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites previstos nos §§ 2º e 3º do referido dispositivo legal.
+Intimem-se.
