@@ -1,0 +1,9 @@
+DECISÃO
+O presente recurso em habeas corpus interposto por Jose Wellington dos Santos, no qual se requer a revogação da prisão preventiva, perdeu seu objeto diante da superveniência de alteração fático-processual.
+Como bem salientou anobre parecerista, de acordo com as informações extraídas do site do Tribunal de Justiça do Estado de Alagoas (TJ/AL), sobre o andamento do processo n.º 0700145-50.2018.8.02.0067, na 8ª Vara Criminal da Comarca de Maceió/AL, o ora recorrente foi condenado à pena de 12 anos de reclusão, em regime fechado, em 01/06/2022  .. Desse modo, ante a superveniência de novo título judicial, que manteve a prisão preventiva do ora paciente, acrescentando novos fundamentos, ainda não debatidos pela Corte de origem, resta clara a perda de objeto da presente impetração. (fls. 198/199).
+Na linha da jurisprudência desta Corte, ficaprejudicadoopedidodeanálise dos fundamentos da prisão preventiva, umavezqueacustódiadecorre, agora, de título diverso (sentençacondenatória),consubstanciadoem nova motivação, ou seja, nosefeitosdacondenaçãopenal (quantidade depena e regime prisional de cumprimentoaplicado), cujorequisito específico desafia impugnação própria no Tribunal de origem. Nesse sentido, os seguintes julgados: AgRgno RHCn. 112.178/SP,MinistraLaurita Vaz, Sexta Turma, DJe 15/6/2020;eAgRgno RHC n.92.522/AL,daminha relatoria, Sexta Turma, DJe16/3/2020.
+Ante o exposto, acolhendo o parecer ministerial, julgo prejudicado o recurso em habeas corpus.
+Publique-se.
+EMENTA
+RECURSO EM HABEAS CORPUS. PRISÃO PREVENTIVA. HOMICÍDIO.SUPERVENIÊNCIA DE SENTENÇA. DIREITO DE RECORRER EM LIBERDADE NEGADO.NOVO TÍTULO JUDICIAL LEGITIMADOR DA CONSTRIÇÃO CAUTELAR. NOVO FUNDAMENTO (EFEITOS DA CONDENAÇÃO). ALTERAÇÃO DO PANORAMA FÁTICO-PROCESSUAL. PERDA DO OBJETO. PARECER ACOLHIDO.
+Recurso prejudicado.
