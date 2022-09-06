@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo interposto por IGOR EROPEU DOS SANTOS contra decisão monocrática proferida pelo Presidente do Tribunal de Justiça do Estado de Goiásque não admitiu o recurso especial interposto (e-STJ fls. 264/265).
+A controvérsia tratada nos autos foi devidamente relatada no parecer ministerial (e-STJ fls. 292/293):
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto, com base na alínea a do permissivo constitucional, em face de acórdão da 2ªCâmara Criminal do tribunal goiano que negou provimento ao agravo em execução interposto em favor de Igor Eropeu dos Santos a fim manter a decisão do juízo das execuções penais que lhe indeferira o benefício da detração referente ao tempo em que permaneceu preso provisoriamente nos autos de outro processo.
+Segundo a corte local, somente é possível a aplicação da benesse da detração penal de prisão preventiva cumprida em outro processo, desde que absolvido o sentenciado ou declarada a extinção da punibilidade da pretensão punitiva e quando a datado cometimento do crime de que trata a execução seja anterior ao período pleiteado (fls.214).
+No apelo especial, a defesa sustentou violação ao art. 42 do CódigoPenal, pois a data do cometimento do crime é anterior ao período a ser descontado (fls.247). Argumentou que o fato delituoso que ensejou o processo de execução do embarganteIgor não foi aquele ocorrido em 3/5/2017 (data que, de fato, é posterior às prisões preventivas). Conforme se extrai de seu atestado de pena a cumprir, o fato delituoso que deu ensejo a sua primeira pena ocorreu em 17/3/2016, portanto, conclui-se que as prisões provisórias cuja detração fora requerida (ocorridas a partir de 17/03/2016) não ocorreram em datas pretéritas aos delitos objeto desta execução penal (praticados em 17/03/2016 e03/05/2017) (fls. 247). Assim, requereu a detração porquanto sua prisão provisória ocorreu em data posterior a data do cometimento do primeiro crime de que trata a execução (fls.248).
+Todavia, o apelo foi barrado com base na Súmula 7/STJ.
+Ao se manifestar, o Ministério Público Federal opinou pelo provimento do recurso especial(e-STJ fls. 292/293).
+É o relatório.
+Decido.
+Ante a presença de impugnação dos fundamentos da decisão agravada, conheço do agravo.
+Passo à análise do recurso especial.
+O Juízo das Execuções procedeu àunificação de duas penas, uma por porte ilegal de arma de fogo, delito este ocorrido em 17/3/2016, e outra por associação para o tráfico de entorpecentes, praticado em 3/5/2017.
+O aresto recorrido manteve a decisão do Juízo das execuções que indeferiu o pedido de detração do período de prisão preventiva, afirmando o que segue(e-STJ fls. 214/215):
+Nada obstante, somente é possível a aplicação da benesse da detração penal de prisão preventiva cumprida em outro processo, desde que absolvido o sentenciado ou declarada a extinção da punibilidade da pretensão punitiva e quando a data do cometimento do crime de que trata a execução seja anterior ao período pleiteado.
+Consolidou-se o entendimento jurisprudencial na linha de que apenas é cabível a detração penal, nos termos do art. 42, do Código Penal Brasileiro, para descontar o período da prisão cautelar em processo distinto, quando a data do cometimento do crime de que trata a execução é anterior ao período indicado e desde que tenha havido absolvição ou extinção da punibilidade.
+Em que pese tais entendimentos encontrarem respaldo na jurisprudência desta Corte Superior, vê-se que a análise feita pelas instâncias ordinárias ignorou o fato de que a data do cometimento do delito é anterior ao período a ser descontado, razão pela qual procede o pedido formulado pela defesa.
+Destaquem-se os seguintes precedentes:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO PENAL. DETRAÇÃO DO TEMPO DE PRISÃO CAUTELAR. ARTS. 42 DO CP E 111 DA LEP. CRIME POSTERIOR AO PERÍODO PLEITEADO. IMPOSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Segundo entendimento firmado por esta Corte Superior, a detração do tempo de segregação preventiva efetivada em processo diverso somente pode ocorrer se o crime pelo qual se cumpre pena atualmente for anterior ao período pleiteado.
+2. Agravo regimental improvido.
+(AgRg no REsp n. 1.912.614/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 11/5/2021, DJe de 14/5/2021.)
+PENAL E PROCESSUAL PENAL. EXECUÇÃO PENAL. HABEAS CORPUS. AGRAVO EM EXECUÇÃO JULGADO. WRIT SUBSTITUTIVO DE RECURSO ESPECIAL. INVIABILIDADE. VIA INADEQUADA. DETRAÇÃO POR PRISÃO PREVENTIVA ANTERIOR AO FATO QUE ENSEJOU A CONDENAÇÃO ATUAL. IMPOSSIBILIDADE. FLAGRANTE ILEGALIDADE. INEXISTÊNCIA. HABEAS CORPUS NÃO CONHECIDO.
+1. Ressalvada compreensão pessoal diversa, uniformizou o Superior Tribunal de Justiça ser inadequado o writ em substituição a recursos especial e ordinário, ou de revisão criminal, admitindo-se, de ofício, a concessão da ordem ante a constatação de ilegalidade flagrante, abuso de poder ou teratologia.
+2. Na hipótese em apreço, inexiste flagrante ilegalidade, pois é admitida a detração em relação a fato diverso daquele que deu azo à prisão processual; contudo, somente em relação a delitos anteriores à segregação provisória, sob risco de se criar uma espécie de crédito contra a Justiça Criminal. Precedentes. (HC 261.455/RS, Rel. Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 14/05/2014).
+3. Habeas corpus não conhecido.
+(HC n. 276.287/RS, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 15/10/2015, DJe de 5/11/2015.)
+Destaque-se trecho do parecer oferecido pelo Parquet, que adoto como razão de decidir, que apresenta com extrema clareza a procedência do pleito defensivo,in verbis(e-STJ fl. 293):
+Segundo se colhe dos autos, houve a unificação de duas penas relativas às condenações por porte ilegal de arma de fogo e tráfico e associação para o tráfico de drogas. O primeiro delito foi praticado em 17.3.2016 e o segundo em 3.5.2017. Portanto, todo o tempo de prisão preventiva compreendido entre 17.3.2016 a 3.5.2017 só pode servir para desconto da pena relativa ao crime de porte ilegal de arma de fogo, não servindo, portanto, para a detração relativamente ao crime que ainda ocorreria, em 3.5.2017.
+Ante o exposto, conheço do agravo paradar parcial provimento aorecurso especial, nos termos do parecer ministerial.
+Publique-se. Intimem-se.
