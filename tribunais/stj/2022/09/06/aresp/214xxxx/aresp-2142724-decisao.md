@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (e-STJ, fl. 153):
+DIREITO CIVIL. PRESTAÇÃO DE SERVIÇO. OBRIGAÇÃO NÃO CUMPRIDA. RESTITUIÇÃO DO VALOR PAGO. FATO CONSTITUTIVO DO DIREITO. FALTA DE COMPROVAÇÃO. I - A contestação por negativa geral apresentada pela Curadoria Especial torna controvertidas as questões suscitadas, ficando afastado o ônus da impugnação específica, nos termos do art. 341, parágrafo único, do CPC, de maneira que incumbiria à autora comprovar o fato constitutivo de seu direito, qual seja, a contratação do réu, o serviço a ser prestado, bem como o valor da respectiva remuneração, e ao réu o fato extintivo do direito da autora, ou seja, a efetiva prestação da obrigação que assumiu. II - A única prova constante dos autos é um recibo com o nome e a assinatura que seriam supostamente do réu, datado de novembro de 2017, em cujo documento o subscritor apenas declara que recebeu determinada importância por alguns serviços que foram prestados à autora, que sequer se sabe quais seriam. Nesse contexto, não há como, apenas diante do documento juntado com a petição inicial, inferir que houve inadimplemento da obrigação assumida pelo apelante, nos termos declinados na petição inicial. Assim, mostra-se incabível o pedido de destituição de qualquer valor. Por fim, considerando-se a falta de demonstração da existência de ato ilícito, inexiste dano moral a ser indenizado. III - Deu-se provimento ao recurso.
+Foi interposto recurso extraordinário (e-STJ, fls.172/176).
+Nas razões do recurso especial, a parte agravante aponta violação ao art. do 373, inciso I, do Código de Processo Civil.
+Sustenta quefez prova do fato constitutivo e que cabe à parte agravada comprovar fato impeditivo ou extintivo. Acrescenta que embora a presunção de veracidade não seja absoluta, quando o autor demonstra o requisito de existência do fato alegado e este não é refutado pelo réu, presume-se que deveesseserconsideradopara fins de procedência dos pedidos autorais. Aduz, ainda, que não houve uma adequada valoração do conjunto probatório dos autos.
+Contrarrazões apresentadas (e-STJ, fls. 182/183).
+Assim delimitada a controvérsia, passo a decidir.
+Não merece prosperar o agravo.
+A decisão recorrida deu provimento ao recurso de apelação da parte ora agravada adotando os seguintes fundamentos (e-STJ fls. 155/156) :
+No entanto, a única prova constante dos autos é um recibo com o nome e a assinatura que seriam supostamente do réu, datado de novembro de 2017, em cujo documento apenas declara que recebeu a importância de R$4.000,00, referentes a alguns serviços que foram prestados à autora, sem especificar quais seriam (ID 24318609).
+Nesse contexto, não há como, apenas diante do documento juntado com a petição inicial, inferir que houve inadimplemento da obrigação narrada.
+Assim, mostra-se incabível o pedido de restituição de qualquer valor.
+Por fim, considerando-se a falta de demonstração da existência de ato ilícito, inexiste dano moral a ser indenizado. Ante o exposto, DOU PROVIMENTO ao recurso para, reformando a respeitável sentença, JULGAR IMPROCEDENTES os pedidos.
+A parte agravante, nas razões do especial, alega que houve equívoco na decisão recorrida porque o "douto magistrado considerou o recibo assinado pelo Réu, insuficiente para comprovar sua lesão",pugnando, assim, pela revaloração de provas. Na realidade, como fica evidente, a parte pretende o reexame de provas.
+Na hipótese, a alteração das conclusões do acórdão recorrido acerca da não comprovação do ato ilícito exige, imprescindivelmente, areapreciaçãodo acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula nº7do STJ.
+Nesse sentido:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. INDENIZAÇÃO POR DANOS MORAIS. EMPRÉSTIMO BANCÁRIO. DESCONTO EM CONTA CORRENTE ONDE É DEPOSITADO SALÁRIO. LIMITAÇÃO EM 30% DOS VENCIMENTOS. AUSÊNCIA DE ATO ILÍCITO. REEXAME DE PROVAS. SÚMULA 7/STJ.
+1. A jurisprudência desta Corte orienta que são lícitos os descontos em conta corrente autorizados para pagamento de prestações contratadas com a instituição financeira, sendo indevida a aplicação analógica do limite legal aos descontos relativos a empréstimo consignado e que, em princípio, não há dano moral ou repetição de indébito caso as instâncias ordinárias tenham limitado os descontos.
+2. Caso em que o Tribunal de origem entendeu não configurado ato ilícito passível de reparação. A reforma do acórdão recorrido, no ponto, requer incursão nos elementos fático-probatórios do processo, o que é inviável em recurso especial (Súmula 7 do Superior Tribunal de Justiça - STJ).
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.884.652/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 13/12/2021, DJe de 15/12/2021.)
+Em face do exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites previstos nos §§ 2º e 3º do referido dispositivo legal.
+Intimem-se.
