@@ -1,0 +1,21 @@
+DECISÃO
+PROCESSUAL CIVIL E PREVIDENCIÁRIO.  RECURSO  ESPECIAL.  MULTA.ORDEM JUDICIAL PARA FAZER OU NÃO FAZER. NECESSIDADE DE PRÉVIA INTIMAÇÃO PESSOAL DO DEVEDOR. SÚMULA 410/STJ. RECURSO  ESPECIAL  DO  INSS A QUE SE DÁ PROVIMENTO.
+1.  Trata-se  de  recurso  especial  interposto  pelo INSTITUTO NACIONAL DO SEGURO SOCIAL,  com  fundamento  no  art.  105,  inciso  III,  alínea a,  da  CF/1988,  no  qual  se  insurge  contra  acórdão  proferido  pelo  TRF  da  4ª  Região,  assim  ementado:
+AGRAVO DE INSTRUMENTO. PROCESSO CIVIL. CUMPRIMENTO DE SENTENÇA. MULTA DIÁRIA. PRAZO. INTIMAÇÃO PESSOAL DA GERÊNCIA EXECUTIVA DO INSS. DESNECESSIDADE.
+É desnecessária a intimação da gerência executiva do INSS para implantar benefício previdenciário deferido judicialmente, bastando a intimação do procurador federal que representa a autarquia em juízo. Precedentes do STJ e desta Corte.(fls.  900/901).
+2. Os embargos de declaração opostos foram rejeitados (fls. 925/926).
+3. Nas  razões  do  seu  recurso  especial  (fls.  935/940),  a  parte  recorrente  sustenta  a  violação  doart.10 da Lei 10.480/02 e do art.37 da MP 2.229-43/01, além de inobservância da Súmula 410/STJ .Alega, em suma, que oacórdão recorrido merece reforma, uma vez que é incabível a cobrança da multa por descumprimento da obrigação de fazer quando ausente a intimação pessoal do devedor, nos termos da Súmula 410 do STJ.
+4.  Devidamente  intimada ,  a  parte  recorrida  apresentou  as  contrarrazões (fls. 946/954) .  O  recurso  especial  foi  admitido  na  origem  (fls.  957/958).
+5.  É  o  relatório.
+6.  A  irresignação  merece  prosperar.
+7.  Inicialmente, é importante ressaltar que o presente recurso atrai a incidência do Enunciado Administrativo 3 do STJ, segundo o qual aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+8. OTribunal a quo,por maioria de votos,compreendeuser desnecessária a intimação pessoal do executado para cumprimento da obrigação de fazer imposta na decisão, para fins de aplicação das astreintes, bastando a intimação do procurador daautarquia federal (fl. 902).
+9.  Verifica-seque o acórdão recorrido diverge do entendimento do Superior Tribunal de Justiçade que é indispensável a prévia intimação pessoal do devedor para a cobrança de multa pelo descumprimento de obrigação de fazer ou não fazer, nos termos da Súmula 410/STJ, cujo teor permanece hígido mesmo após a entrada em vigor do CPC/2015.A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 03/STJ. ORDEM JUDICIAL PARA FAZER OU NÃO FAZER. NECESSIDADE DE PRÉVIA INTIMAÇÃO PESSOAL DO DEVEDOR. ENTENDIMENTO APLICÁVEL EM RELAÇÃO ÀS CONDENAÇÕES IMPOSTAS APÓS A VIGÊNCIA DA LEI 11.232/2005.
+1. "É necessária a prévia intimação pessoal do devedor para a cobrança de multa pelo descumprimento de obrigação de fazer ou não fazer antes e após a edição das Leis n. 11.232/2005 e 11.382/2006, nos termos da Súmula 410 do STJ, cujo teor permanece hígido também após a entrada em vigor do novo Código de Processo Civil" (EREsp 1360577/MG, Rel. p/ Acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 19/12/2018, DJe 07/03/2019).
+2. Agravo interno não provido(AgInt no AREsp 1.533.830/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 05/03/2020, DJe 17/03/2020).
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. OBRIGAÇÃO DE FAZER.DESCUMPRIMENTO. MULTA DIÁRIA. NECESSIDADE DA INTIMAÇÃO PESSOAL DO EXECUTADO. SÚMULA 410 DO STJ.
+1. É necessária a prévia intimação pessoal do devedor para a cobrança de multa pelo descumprimento de obrigação de fazer ou não fazer antes e após a edição das Leis n. 11.232/2005 e 11.382/2006, nos termos da Súmula 410 do STJ, cujo teor permanece hígido também após a entrada em vigor do novo Código de Processo Civil.
+2. Embargos de divergência não providos(EREsp 1.360.577/MG, Rel. Ministro HUMBERTO MARTINS, Rel. p/ Acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 19/12/2018, DJe 07/03/2019).
+10. Ante  o  exposto,  dou parcial provimento ao  recurso  especial  da autarquia federal.
+11.  Publique-se.  Intimações  necessárias.
