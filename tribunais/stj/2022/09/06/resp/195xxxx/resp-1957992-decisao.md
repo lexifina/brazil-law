@@ -1,0 +1,32 @@
+DECISÃO
+ADMINISTRATIVO.RECURSO ESPECIAL. EXECUÇÃO FISCAL. MULTA FIXADA EM SALÁRIO MÍNIMO. ACÓRDÃO RECORRIDO COM FUNDAMENTO EMINENTEMENTE CONSTITUCIONAL. NÃO CABIMENTO. USURPAÇÃO DE COMPETÊNCIA DO STF.RECURSO ESPECIAL NÃO CONHECIDO.
+1. Trata-se de recurso especial interposto pelo CONSELHO REGIONAL DE FARMÁCIA DO ESTADO DE SÃO PAULO, com fundamento no art. 105, inciso III, alíneaa, da CF/1988, no qual se insurgecontra acórdão proferido pelo Tribunal Regional Federal da 3ª Região, assim ementado:
+APELAÇÃO. EXECUÇÃO FISCAL. CONSELHO PROFISSIONAL. MULTA FIXADA EM SALÁRIO MÍNIMO. INCONSTITUCIONALIDADE. RECURSO PREJUDICADO.
+- O Plenário do E. Supremo Tribunal Federal examinou questão análoga no RE 237.965 e considerou que a fixação da multa administrativa em número de salários mínimos, ofende o artigo 7º, inciso IV, da CF, conforme assentado na ADI 1.425.
+- Nulidade da cobrança das multas aplicadas pelo conselho, em razão da vedação da vinculação do seu valor ao salário-mínimo (artigo 7º, IV, da Constituição Federal).
+- Nulidade do título reconhecida, de oficio. Apelação prejudicada (fls. 429/434).
+2. Os embargos de declaração opostos foram rejeitados (fls. 482/489).
+3. Nas razões do seu recurso especial (fls. 499/522), aparte recorrente sustenta violaçãodoart. 24, parágrafo único, da Lei 3.820/1960.Argumenta, para tanto, ser cabível a fixação de multa pecuniária com base no salário-mínimo
+4. Devidamente intimada, aparte recorrida não apresentouas contrarrazões recursais. O recurso especial foi admitido na origem (fls. 637/641).
+5.Éo relatório.
+6. A irresignação não merece prosperar.
+7. Inicialmente, é importante ressaltar que o presente recurso atrai a incidência do Enunciado Administrativo 3 do STJ, segundo o qual aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+8. O Tribunal de origem assim se manifestou sobre a matéria controvertida:
+O E. Supremo Tribunal Federal, no RE 237.965 considerou que a fixação da multa administrativa em número de salários mínimos ofende o artigo 7º, inciso IV, da CF, conforme assentado na ADI 1.425:
+(..)
+Assim, revejo meu entendimento anterior para reconhecer a nulidade da cobrança das multas aplicadas pelo conselho, em razão da vedação da vinculação do seu valor ao salário-mínimo (artigo 7º, IV, Constituição Federal) - fls. 430/431.
+9.No caso em questão, embora se tenha indicado nas razões do recurso especial violação de dispositivos de lei federal, é incabível o recurso, pois interposto contra acórdão com fundamento eminentemente constitucional.
+10. Com efeito, o Tribunal de origem afastou a pretensão autoral com amparo no julgamento do RE 237.965 pelo Supremo Tribunal Federal, com repercussão geral reconhecida.
+11. Dessa forma, é forçoso reconhecer que, possuindo o acórdão recorrido fundamento eminentemente constitucional, descabida se revela a revisão do acórdão pela via do recurso especial, sob pena de usurpação de competência do Supremo Tribunal Federal prevista no art. 102 da CF/1988. O exame do alcance e dos limites de tese jurídica fixada, com primazia, pelo Supremo Tribunal Federal, no julgamento do recurso extraordinário, com repercussão geral reconhecida, demanda interpretação de preceitos e dispositivos constitucionais, cuja competência é exclusiva da Suprema Corte.
+12. Nesse sentido, cito os seguintes julgados doSuperior Tribunal de Justiça:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ICMS. BASE DE CÁLCULO. PIS E COFINS. NÃO INCIDÊNCIA. FORMA DE CÁLCULO. ICMS DESTACADO NAS NOTAS FISCAIS VERSUS ICMS A RECOLHER NA COMPETÊNCIA. ACÓRDÃO RECORRIDO FUNDADO EM PRECEDENTE DO SUPREMO TRIBUNAL FEDERAL EM REPERCUSSÃO GERAL. AGRAVO INTERNO DA FAZENDA NACIONAL A QUE SE NEGA PROVIMENTO.
+(..)
+2. O Tribunal de origem apenas interpretou o precedente do Supremo Tribunal Federal em repercussão geral para aplicá-lo ao caso concreto, razão pela qual não cabe ao Superior Tribunal de Justiça dirimir a controvérsia em sede de Recurso Especial no pertinente à interpretação constitucional do referido RE 574.706 RG/PR, sob pena de usurpação da competência do Supremo Tribunal Federal prevista no art. 102 da Constituição Federal.
+3. Agravo Interno da FAZENDA NACIONAL a que se nega provimento (AgInt no AREsp 1.578.077/SP, de minha relatoria, PRIMEIRA TURMA, julgado em 19/4/2021, DJe 29/4/2021 - sem destaques no original).
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PENSÃO MILITAR. FILHA. REQUISITOS DO ART. 7º DA LEI 3.765/60 C/C LEI 8.216/91. ALEGADA OMISSÃO ACERCA DE VIOLAÇÃO A DISPOSITIVOS CONSTITUCIONAIS. AFERIÇÃO. IMPOSSIBILIDADE DE ANÁLISE, EM SEDE DE RECURSO ESPECIAL. ALEGADA OFENSA AO ART. 535 DO CPC/73. NÃO OCORRÊNCIA. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL QUE, EM TESE, TERIA RECEBIDO INTERPRETAÇÃO DIVERGENTE DAQUELA FIRMADA POR OUTROS TRIBUNAIS. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF, APLICADA POR ANALOGIA. IMPOSSIBILIDADE DE APRECIAÇÃO DE MATÉRIA CONSTITUCIONAL, EM SEDE DE RECURSO ESPECIAL, SOB PENA DE USURPAÇÃO DA COMPETÊNCIA DO STF. AGRAVO INTERNO IMPROVIDO.
+(..)
+V. Do exame do julgado combatido e das razões recursais, verifica-se que a solução da controvérsia possui enfoque eminentemente constitucional. Dessa forma, compete ao Supremo Tribunal Federal eventual reforma do acórdão recorrido, no mérito, sob pena de usurpação de competência inserta no art. 102 da Constituição Federal. Precedentes do STJ (AgRg no AREsp 584.240/RS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 03/12/2014; AgRg no REsp 1.473.025/PR, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 03/12/2014).
+VI. Agravo interno improvido (AgInt no REsp 1.377.313/CE, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 18/4/2017, DJe 26/4/2017 - sem destaques no original).
+13. Ante o exposto, não conhecido o recurso especial do Conselho.
+14.Por fim, caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+15. Publique-se. Intimações necessárias.
