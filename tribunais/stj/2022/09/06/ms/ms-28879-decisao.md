@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de mandado de segurança com pedido liminar impetrado por MARIO DE CARVALHO FILHOno qual aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo, que negou provimento à Apelação n. 0005057-67.2022.8.26.0506 interposta contra a decisão que deferiu a alienação antecipada de bens.
+O impetrantealegaquepossui os seguintes direitos líquidos e certos: "o direito à propriedade e ao devido processo legal, insculpido no art. 5º, caput, XXIIe LIV da CF/88 2 ; o direito ao contraditório e ampla defesa, presentes no art. 5º, caput, LV da CF/88 3 ; o direito do acusado de demonstrar nos autos de qualquer ação criminal a evolução lícita do patrimônio impugnado, conforme previsão contida no art. 63-F, §3º da lei 11.343/06 4 c/c art. 91-A, §2º do CP 5 ; o dever do parquet em pleitear o perdimento dos bens da denúncia realizada com o direito da parte de se defender somente daquilo que consta na denúncia, conforme art. 91-A, §3º do CP" (e-STJ fl. 7).
+É, em síntese, o relatório.
+O mandamus não merece conhecimento.
+Com efeito, o art. 105, inciso I, alínea b, da Constituição Federal estatui que compete ao Superior Tribunal de Justiça processar e julgar, originariamente, os mandados de segurança impetrados contra ato de Ministro de Estado, dos Comandantes da Marinha, do Exército e da Aeronáutica ou do próprio Tribunal.
+É cediço que a competência originária do Superior Tribunal de Justiça para julgar mandado de segurança submete-se a regime de direito estrito, fixada em numerus clausus, no mencionado art. 105 da Constituição Federal, no qual estão incluídos, repise-se, apenas os comandantes titulares das respectivas armas, não havendo atribuição de competência para o julgamento de atos de outros tribunais ou dos seus respectivos órgãos.
+Da mesma forma, a Súmula n. 41 desta Corte determina que"oSuperior Tribunal de Justiça não tem competência para processar e julgar, originariamente, mandado de segurança contra ato de outros tribunais ou dos respectivos órgãos".
+Portanto, o Superior Tribunal de Justiça é incompetente para julgar o presente mandado de segurança.
+Tal o contexto, indefiro liminarmente o presente mandado de segurança.
+Publique-se. Intimem-se.
