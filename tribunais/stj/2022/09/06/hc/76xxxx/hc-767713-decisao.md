@@ -1,0 +1,9 @@
+DECISÃO
+RONALDO PAULO MARTINS,condenado por tortura, alega ser vítima de constrangimento ilegal em decorrência de acórdão proferido peloTribunal de Justiça do Estado de São Paulo, que maneve a sua condenação, a qual pretende seja desconstituída por falta de provas ou, subsidiariamente, que seja reduzida a pena imposta.
+Sem pedido de liminar, foram os autos encaminhados aoMinistério Público Federal, queopinou pela inadmissibilidade do habeas corpus, visto que não se encontra devidamente instruído (fls. 345-350).
+Com razão o Parquet Federal.
+A despeito da impossibilidade do exame vertical e aprofundado de todo o material congitivo produzido na instrução criminal,a fim de avaliar o acerto da condenação, situação que já obstaria a análise do pedido principal formulado no writ,constato que as alegações do impetrantevieram desacompanhadas de documentoessencial que permitisseaté mesmoexame da controvérsia relativamente ao pedido subsidiário.
+De fato, não foi trazido pela defesaa cópiado acórdão impugnado, situação que inviabiliza até mesmo o exame de eentual constrangimento ilegal na fixação da pena. Vale dizer, "não se revela possível apreciar as alegações defensivas, uma vez que a impetração veio desacompanhada de documentação indispensável para comprovar o quanto alegado: cópia do acórdão impugnado" (fl. 346).
+Como sabido, apossibilidade de se impetrar habeas corpus, destituído de qualquer formalidade essencial, não se traduz na desnecessidade de instruí-lo com os documentos essenciais que permitam avaliar a existência ou não de constrangimento ilegal.Nesse sentido é pacífica a orientação desta Corte (AgRg no HC n. 285.578/AM, Rel. Ministro Marco Aurélio Bellizze, DJe 2/5/2014).
+À vista do exposto, com fundamento no art. 34, XVIII, "a", do RISTJ, não conheço do habeas corpus.
+Publique-se e intimem-se.
