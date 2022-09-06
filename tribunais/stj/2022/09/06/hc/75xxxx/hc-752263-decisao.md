@@ -1,0 +1,12 @@
+DECISÃO
+SHEILA DE SOUZA, CLAUDIO LEANDRO SILVA DE OLIVEIRA, DIEGO JARDEL LOPES DA SILVA, MARCIO NEI DOS PASSOS e VITOR GILMAR LOPES DA SILVAalegamsofrer constrangimento ilegal pelo Tribunal de Justiça do Estado do Rio Grande do Sul(Apelação Criminal n. 5000567-33.2020.8.24.0147/RS).
+Sustenta a defesa, em síntese, a ausênciada materialidade do delito de tráfico de drogas.Requer, portanto, sejam os pacientes absolvidos.
+Indeferida a liminar, o Ministério Público Federal opinou pelo não conhecimento do mandamus.
+Decido.
+Em princípio, esclareço que a tese de imprescindibilidade de apreensão da droga com o acusado para a condenação não foi analisada pelo Tribunal de origem, de modo que é inviávelo exame diretamente por esta Corte Superior, sob pena de supressão de instância.
+Ainda que assim não fosse, observo que oTribunal de origem, ao manter a condenação dos réus pelo delito de tráfico de drogas, esclareceu que demonstrada a materialidade do crime imputado com a apreensão de droga em poder do réu João Vitor e Claudio, extraiu-se informações dos celulares apreendidos. Dessas conversas e dos demais elementos dos autos, foi possível identificar que Vitor Gilmar e Márcio Nei "coordenavam e comandavam a execução do tráfico a partir de ordens repassadas aos demais corréus de dentro da cela", sendo que Diego e Sheila "mantinham pontos de tráfico em suas casas"(ambos à fl. 130).
+Logo, embora nãotenha sido localizada droga com os pacientes, certo é que a instância ordinária entendeu, como bem apontou o Ministério Público Federal, em seu parecer,que ficou "evidenciado  pel a prova produzida que todos os acusados, inclusive os pacientes,em comunhão de vontades e união de esforços, se consorciavam para aquisição, guarda, exposição à venda, venda, oferecimento, fornecimento e entrega das drogas ao consumo de terceiros" (fl. 162, grifei).
+Saliento, nessa circunstância, que, nos termos da jurisprudência desta Corte Superior, "O fato de as drogas não haverem sido apreendidas com o paciente, mas com um dos corréus, não afasta a comprovação da materialidade delitiva"(HC n. 533.110/RS, Rel. Ministro Jorge Mussi, 5ª T., DJe de 27/5/2020). Confira-se ainda:AgRg no HC n. 711.926/MG, Rel. Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), 6ª T., DJe de 25/4/2022.
+Assim, não há qualquer constrangimento ilegal relativo à condenação dos pacientes pelo crime de tráfico de drogas.
+À vista do exposto, denego a ordem.
+Publique-se e intimem-se.
