@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (e-STJ, fl. 609):
+EMENTA: AGRAVO DE INSTRUMENTO CDHU -Quitação do contrato por morte do mutuário - Denunciaçãoda lide - Não cabimento - Aplicação do art. 88 do CDC - Alegação da agravada de ilegitimidade passiva por ser meraestipulante do seguro habitacional obrigatório -Impertinência da denunciação da lide quando se pretendeapenas transferir responsabilidades pelo evento danoso, nãodemonstrando o direito de regresso e por cuidar-se derelação de consumo - Recurso provido.
+Não houve oposição de embargos de declaração.
+Nas razões do recurso especial, a parte agravante aponta violação dos arts. 186 e 188, inciso I, do Código Civil.
+Sustenta que a decisão recorrida teria incorrido em erro de julgamento ao indeferir a denunciação à lide à Caixa Econômica Federal, e pugna porsua reforma para que a empresa pública federal passe a integrar a lide principal.
+Contrarrazões apresentadas.
+Assim delimitada a controvérsia, observo, inicialmente, que as questões suscitadas no recurso especial não foram ventiladas na decisãorecorrida. Esta não faz referência alguma aos dispositivos legais que se alega terem sido violados. Tampouco foram opostos embargos de declaração para fins de prequestionamento.
+Conforme a jurisprudência sedimentada deste Tribunal, asimples indicação de dispositivo legal tido por violado, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento. Incide, na hipótese, o enunciado da Súmula282 do STF.
+Nesse sentido:
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. DECISÃO AGRAVADA. FUNDAMENTOS. IMPUGNAÇÃO. AUSÊNCIA. SÚMULA N. 182/STJ. BEM DE FAMÍLIA. REQUISITOS. VERIFICAÇÃO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. A simples indicação dos dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor das Súmulas n. 282 e 356 do STF.
+2. É inviável o agravo previsto no art. 1.021 do CPC/2015 que deixa de atacar especificamente os fundamentos da decisão agravada (Súmula n. 182/STJ). 3. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+4. No caso concreto, o Tribunal de origem concluiu que a agravante não se desincumbiu do ônus de comprovar a natureza de bem de família do imóvel constrito, motivo por que manteve sua penhora. Alterar esse entendimento demandaria o reexame das provas produzidas nos autos, o que é vedado em recurso especial.
+5. Agravo interno parcialmente conhecido e, nessa extensão, desprovido.
+(AgInt no AREsp n. 1.827.561/MG, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 15/8/2022, DJe de 18/8/2022.) (grifou-se)
+Ainda que não fosse esse o caso, a discussão travada na decisão recorrida envolvia a denunciação à lide em matéria consumerista, considerando a vedação do art. 88 do Código de Defesa do Consumidor. A parte agravante, no entanto, limitou-se a arguir violações aos arts. 186 e 188 do CC, sem abordar a discussão do acórdão, deficiência que impede a exata compreensão da controvérsia e atrai anegativa de trânsito ao recurso especial por aplicação analógica da Súmula 284 do STF.
+Não é demais destacar, por derradeiro, que a decisão recorrida também encontra-se em consonância com a jurisprudência deste Tribunal, senão vejamos:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. PROCESSO CIVIL. AGRAVO DE INSTRUMENTO. DENUNCIAÇÃO À LIDE DA CONSTRUTORA. NÃO CONFIGURADA HIPÓTESE DE LITISCONSÓRCIO PASSIVO NECESSÁRIO. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. AGRAVO INTERNO DESPROVIDO.
+1. A falta de impugnação de argumento suficiente para manter, por si só, o acórdão impugnado, a argumentação dissociada bem como a ausência de demonstração da suposta violação à legislação federal impedem o conhecimento do recurso, na esteira dos enunciados n. 283 e 284 da Súmula do Supremo Tribunal Federal.
+2. O entendimento desta Corte Superior é de que, em se tratando de relação de consumo, descabe a denunciação da lide, nos termos do art. 88 do Código de Defesa do Consumidor.
+3. A jurisprudência do STJ se firmou no sentido de que "o Código de Processo Civil de 2015 não prevê a obrigatoriedade da denunciação da lide em nenhuma de suas hipóteses. Ao contrário, assegura o exercício do direito de regresso por ação autônoma quando indeferida, não promovida ou proibida (CPC/2015, art 125, caput, e § 1º) (AgInt no AREsp n. 1.962.768/RJ, Relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 14/12/2021, DJe 17/12/2021) 4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.026.035/RN, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 30/5/2022, DJe de 2/6/2022.) (grifou-se)
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
