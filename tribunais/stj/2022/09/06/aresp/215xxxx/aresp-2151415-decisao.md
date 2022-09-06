@@ -1,0 +1,39 @@
+DECISÃO
+Cuida-se de agravo apresentado por ZOCCA TEXTIL LTDA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO - CONSELHEIRO FURTADO - PÁTIO DO COLÉGIO, assim resumido:
+HONORÁRIOS PROFISSIONAIS. SERVIÇOS DE ADVOCACIA. AÇÃO DE COBRANÇA. PROCEDÊNCIA DE DEMANDA PRINCIPAL E IMPROCEDÊNCIA DE RECONVENÇÃO (REPARAÇÃO POR DANO MORAL). APELO DA RÉ. RECONVINTE. AUSÊNCIA DE PREPARO. NÃO CONHECIMENTO DO RECURSO.
+Quanto à controvérsia recursal, alega violação do art. 99, caput, do CPC, no que concerne à ausência de exame do pedido de gratuidade de justiça pelo acórdão de origem antes de se julgar o recurso deserto, trazendo o(s) seguinte(s) argumento(s):
+Logo, com a devida vênia, o TJSP deveria analisar o pedido de gratuidade, para deferir ou indeferir fundamentadamente a decisão, mas não o fez.
+O TJSP sem analisar o pedido de gratuidade recursal julgou o recurso deserto, mas em momento algum deferiu ou indeferiu a gratuidade à recorrente.
+ ..
+A recorrente, por sua vez, tornou a pedir a concessão da gratuidade recursal conforme consta da petição de fls.
+5946, no entanto, sem pedido se quer foi analisado, sobrevindo o v.
+acórdão cuja ementa consta:
+ ..
+Nota-se que o pedido de gratuidade recursal se quer foi analisado, aliás, mesmo interpondo embargos de declaração o pedido se manteve sem análise.
+ ..
+Ora, o recorrente formulou o pedido de gratuidade recursal, mas o pedido se quer foi analisado pela autoridade judiciária.
+Logo, como o requerente tem direito de pedir, também tem o direito de que seu pedido seja analisado, no entanto, no presente caso, o pedido do requerente não foi analisado, sobrevindo acórdão que julgou deserto o recurso.
+Frente a esta situação jurídica, pretende o requerente a anulação do v. acórdão para que seja analisado o pedido formulado de gratuidade recursal antes do julgamento do recurso de apelação.
+Ora, se é possível o pedido de gratuidade por ocasião do recurso, é corolário que este pedido deve ser analisado e não simplesmente ignorado como no presente caso (fls. 5986/5990).
+É, no essencial, o relatório. Decido.
+Na espécie, incide o óbice da Súmula n. 284/STF em razão da ausência de comando normativo do(s) dispositivo(s) apontado(s) como violado(s), o que atrai, por conseguinte, o referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Segundo a jurisprudência do STJ, o óbice de ausência de comando normativo do artigo de lei federal apontado como violado ou como objeto de divergência jurisprudencial incide nas seguintes situações: quando não tem correlação com a controvérsia recursal, por versar sobre tema diverso; e quando sua indicação não é apta, por si só, para sustentar a tese recursal, seja porque o dispositivo legal tem caráter genérico, seja porque, embora consigne em seu texto comando específico, exigiria a combinação com outros dispositivo legais.
+Ressalte-se, por oportuno, que a indicação genérica do artigo de lei que teria sido contrariado induz à compreensão de que a violação alegada é somente de seu caput, pois a ofensa aos seus desdobramentos também deve ser indicada expressamente.
+Nesse sentido, vale citar os seguintes julgados:
+PROCESSUAL CIVIL E TRIBUTÁRIO. IPTU. IMUNIDADE. FUNDAMENTAÇÃO DEFICIENTE. EXECUÇÃO FISCAL. RFFSA E UNIÃO. TRANSFERÊNCIA PATRIMONIAL. CURSO DA DEMANDA. SUCESSORA. REDIRECIONAMENTO. POSSIBILIDADE. SUBSTITUIÇÃO DA CDA. DESNECESSIDADE.
+1. Os apontados arts. 130 e 131 do CTN não têm comando normativo para amparar a tese de imunidade do IPTU em favor da RFFSA, visto que tais dispositivos legais cuidam de tema diverso, referente à responsabilidade tributária por sucessão, sendo certo que a deficiência da irresignação recursal nesse ponto enseja a aplicação da Súmula 284 do STF.
+ ..  (AgInt no REsp n. 1.764.763/PR, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 27/11/2020.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. BANCÁRIO. CÉDULO DE CRÉDITO BANCÁRIO. JUROS REMUNERATÓRIOS. CÉRTIFICADO DE DEPÓSITO INTERBANCÁRIO (CDI). PREQUESTIONAMENTO. AUSÊNCIA. FUNÇÃO DESEMPENHADA PELO CÉRTIFICADO DE DEPÓSITO INTERBANCÁRIO (CDI). REEXAME. IMPOSSIBILIDADE. SÚMULAS 5 E 7 DO STJ. VIOLAÇÃO À SÚMULA. IMPOSSIBILIDADE. SÚMULA 284/STF. DISSÍDIO JURISPRUDENCIAL PREJUDICADO.
+ ..
+4. No que tange à aduzida ofensa ao art. 12, § 1º, VI, da Lei n. 10.931/04, o presente recurso não merece prosperar, porquanto o referido dispositivo não confere sustentação aos argumentos engendrados. Incidência da Súmula 284/STF.
+5. O mesmo óbice representado pelo enunciado da Súmula 284/STF incide no que diz respeito à alegada ofensa aos arts. 421 e 425 do Código Civil, que veiculam comandos normativos demasiadamente genéricos e que não infirmam as conclusões do Tribunal de origem.
+ ..
+7. Agravo interno não provido. (AgInt no AREsp n. 1.674.879/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 12/03/2021.)
+Confiram-se ainda os seguintes julgados: REsp n. 1.798.903/RJ, relator para o acórdão Ministro Reynaldo Soares da Fonseca, Terceira Seção, DJe de 30/10/2019; AgInt no REsp n. 1.844.441/RN, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 14/8/2020; AgInt no AREsp n. 1.524.220/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 18/5/2020; AgRg no AREsp n. 1.280.513/RJ, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 27/5/2019; AgRg no REsp n. 1.754.394/MT, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 17/9/2018; AgInt no REsp n. 1.503.675/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 27/3/2018; AgInt no REsp n. 1.846.655/PR, Terceira Turma, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 23/4/2020; AgInt nos EDcl no REsp n. 1.709.059/RJ, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 18/12/2020; AgInt no REsp n. 1.790.501/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19/03/2021.
+Ademais, incide o óbice da Súmula n. 211/STJ, uma vez que a questão não foi examinada pela Corte de origem, a despeito da oposição de embargos de declaração. Assim, ausente o requisito do prequestionamento.
+Nesse sentido: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo - Súmula n. 211 - STJ". (AgRg no EREsp n. 1.138.634/RS, relator Ministro Aldir Passarinho Júnior, Corte Especial, DJe de 19/10/2010.)
+Confiram-se ainda os seguintes julgados: AgRg nos EREsp n. 554.089/MG, relator Ministro Humberto Gomes de Barros, Corte Especial, DJ de 29/8/2005; AgInt no AREsp n. 1.264.021/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 1º/3/2019; AgInt no AREsp n. 953.171/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 23/8/2022; AgInt no AREsp n. 1.506.939/MS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 26/8/2022; AgRg no AREsp 1.647.409/SC, relator Ministro Rogério Schietti Cruz, Sexta Turma, DJe de 1º/7/2020; AgRg no REsp n. 1.850.296/PR, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 18/12/2020; AgRg no REsp n. 2.004.417/MT, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 9/8/2022, DJe de 16/8/2022.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
