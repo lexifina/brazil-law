@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de JOSÉ ERNANDES DA SILVA FILHOem que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (HC n. 2186039-08.2022.8.26.0000).
+Requerida a progressão para o regime semiaberto, o Juízo da execução condicionou a análise do pedido à prévia submissão a exame criminológico. Essa decisão foi mantida pela Corte estadual em acórdãoassim ementado (fl. 41):
+Habeas Corpus. Pleito de progressão ao regime semiaberto. Conversão do julgamento em diligência consistente na realização de exame criminológico. Decisão fundamentada. Necessidade de verificação do preenchimento do requisito subjetivo para a obtenção do benefício. Constrangimento ilegal não configurado. Ordem denegada.
+O impetrante aponta constrangimento ilegal decorrente da decisão que determinou a realização do exame criminológico sem fundamentação idônea.Ressalta que a decisão fora baseada na gravidade dos delitos e no quantumda pena a cumprir.
+Sustenta que os requisitos legais estão preenchidos e que o paciente possui bom comportamento carcerário.
+Cita haverexcessode prazopara a realização do exame criminológico nas unidades prisionais do Estado de São Paulo (SP).
+Requer, liminarmente,seja concedidaa progressão deregime, independentemente da realização do exame criminológico. No mérito, pugna pela cassação da decisão que determinou a realização do referido exame.
+É o relatório. Decido.
+Ainda que inadequada a impetração dehabeas corpusem substituição à revisão criminal ou ao recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o Superior Tribunal de Justiça considera passível de correção de ofício o flagrante constrangimento ilegal.
+Nos casos em que a pretensão esteja em conformidade ou em contrariedade com súmula ou jurisprudência pacificada dos tribunais superiores, a Terceira Seção desta Corte admite o julgamento monocrático da impetração antes da abertura de vista ao Ministério Público Federal, em atenção aos princípios da celeridade e da efetividade das decisões judiciais, sem que haja ofensa às prerrogativas institucionais do parquet ou mesmo nulidade processual (AgRg no HC n. 674.472/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 10/8/2021; e AgRg no HC n. 530.261/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 7/10/2019).
+Sendo essa a hipótese dos autos, passo ao exame do mérito da impetração.
+O pleito formulado no presentewrité dotado de plausibilidade jurídica, circunstância que autoriza a atuaçãoexofficio.
+A respeito da questão, o Juízo da execução adotou os seguintes fundamentos ao requerer o exame criminológico (fl. 27):
+Ainda, por considerar que os crimes atribuídos ao sentenciado são de maior gravidade (tráfico de drogas, roubo majorado, homicídio qualificado, porte ilegal de arma de fogo), descumprimento de benefício anteriormente concedido, bem como a quantidade de pena imposta com vencimento previsto para 30/06/2028, determino a realização da avaliação preconizada pela Resolução SAP 88, de 28-4-2010, a fim de que o pedido de progressão ao regime semiaberto possa ser analisado de forma mais criteriosa em relação ao sentenciado Jose Ernandes da Silva Filho .. .
+O Tribunal de origem denegou a ordem do writ com amparo nos seguintes fundamentos (fls. 42-43):
+Trata-se de paciente reincidente que cumpre pena total de 11 anos e 22 dias de reclusão, em regime inicial fechado, por roubo qualificado, com término de cumprimento de pena previsto para 02/04/2017 (fls. 07/12).
+Consta o registro de três faltas graves consistentes em desobediência (praticada em 05/02/2007), posse de aparelho celular (23/08/2010) e tentativa de subversão da ordem (23/08/2010), conforme fls.10.
+Vale salientar que além do critério objetivo deve o juízo das execuções verificar o preenchimento do requisito subjetivo para concessão de benefícios.
+E o juízo das execuções bem justificou a necessidade de realização do exame criminológico, devendo haver cautela na concessão de benefícios a reeducando que comete crime patrimonial com violência ou grave ameaça à pessoa, além de praticar faltas graves durante o cumprimento da pena.
+Pelo que se vê a r. decisão encontra-se devidamente fundamentada:
+Correta, pois, a conversão do julgamento em diligência, sendo que não há elementos para verificar a assimilação da terapêutica penal, e tal fato aliado ao crime praticado enseja maior rigor e certa cautela para a concessão de qualquer benefício da execução penal.
+Sem a realização de exame criminológico para se aferir a assimilação da terapêutica penal bem como se reúne elementos indicativos que não voltará a delinquir, não se mostra razoável ser promovido ao regime mais brando, devendo demonstrar ser merecedor da almejada progressão para que não coloque em risco a sociedade.
+ ..
+E esse é o caso sub judice não havendo como se analisar a possibilidade da concessão de benefício relativo à execução penal sem que seja comprovada a realização do exame criminológico.
+Isso posto, denega-se a ordem.
+Essa conclusão é contrária à jurisprudência firmada pelo STJ de que, para que seja indeferida a progressão de regime ou determinada a realização de exame criminológico, é necessária motivação idônea e concreta relacionada a fatos ocorridos no curso da execução da pena que possam impedir a concessão do benefício ou ensejar a necessidade da perícia.
+No caso, a instância ordinária reconheceu a necessidade de exame criminológico, considerando a gravidade do crime praticado pelo paciente e anotação de faltas disciplinares em seu desfavor, sendo que a última ocorrera em 23/8/2010(fl. 18).
+Ademais, extrai-se dos autos que o paciente apresenta bom comportamento carcerário.Portanto, constata-se a existência de flagrante constrangimento ilegal, o que autoriza a atuação ex officio, na medida em que a decisão da instância ordinária diverge da jurisprudência do STJ.
+Confiram-se estes precedentes sobre a questão:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. LONGA PENA A CUMPRIR E GRAVIDADE ABSTRATA. FALTAS GRAVES ANTIGAS. FUNDAMENTAÇÃO INIDÔNEA. CONSTRANGIMENTO ILEGAL EVIDENCIADO. AGRAVO REGIMENTAL DESPROVIDO.
+1. É vedado ao órgão julgador determinar a submissão do apenado ao exame criminológico, a não ser que o faça de maneira fundamentada, em estrita observância à garantia constitucional de motivação das decisões judiciais, expressa no art. 93, IX, da CF, bem como à própria previsão do art. 112, § 1º, da Lei de Execução Penal: "A decisão será sempre motivada e precedida de manifestação do Ministério Público e do defensor." Referido entendimento é objeto da Súmula n. 439/STJ ("Admite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada").
+2. Todavia, no caso dos autos, observa-se que a autoridade coatora cassou a decisão do juízo de execução, condicionando a apreciação do pedido de progressão de regime à realização de exame criminológico, utilizando-se de fundamentação inidônea, relativa à gravidade abstrata dos delitos e de faltas graves antigas.
+3. Agravo regimental desprovido. (AgRg no HC n. 705.594/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 17/12/2021.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROGRESSÃO DE REGIME. EXAME
+CRIMINOLÓGICO. NÃO CABIMENTO. FATORES RELACIONADOS AO CRIME. FUNDAMENTAÇÃO GENÉRICA E ABSTRATA. REQUISITO SUBJETIVO. ELEMENTOS CONCRETOS. FATOS OCORRIDOS NO CURSO DA EXECUÇÃO PENAL. CONSTRANGIMENTO ILEGAL VERIFICADO. DECISÃO MANTIDA.
+1. Os fatores relacionados ao crime praticado são determinantes para a pena aplicada, não se justificando tratamento diferenciado para a realização de exame criminológico com a finalidade de avaliação do requisito subjetivo necessário à progressão de regime.
+2. A avaliação do requisito subjetivo somente poderá fundar-se em elementos concretos relacionados a fatos ocorridos no curso da execução penal.
+3. Mantém-se integralmente a decisão agravada cujos fundamentos estão em conformidade com o entendimento do STJ sobre a matéria suscitada.
+4. Agravo regimental desprovido. (AgRg no HC n. 630.829/SP, de minha relatoria, Quinta Turma, DJe de 29/3/2021.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROGRESSÃO DE REGIME. FALTA DISCIPLINAR ANTIGA. FUNDAMENTO INIDÔNEO. AGRAVO. NÃO PROVIMENTO.
+1. Consolidou-se neste Tribunal diretriz jurisprudencial no sentido de que faltas graves antigas, já reabilitadas pelo decurso do tempo, não justificam o indeferimento da progressão de regime prisional (HC n. 544.368/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 17/12/2019).
+2. In casu, o agravante não apresentou argumentos novos capazes de infirmar aqueles que alicerçaram a decisão agravada, razão pela qual deve ser mantida por seus próprios fundamentos.
+3. Agravo regimental improvido. (AgRg no HC n. 638.571/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 1º/3/2021.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME INDEFERIDA PELO JUÍZO DAS EXECUÇÕES PENAIS, QUE EXIGIU A PRÉVIA REALIZAÇÃO DE EXAME CRIMINOLÓGICO. ALEGADO EXCESSO DE PRAZO PARA A REALIZAÇÃO DO EXAME CONFIGURADA. EXAME CRIMINOLÓGICO DETERMINADO COM BASE NA GRAVIDADE ABSTRATA DOS DELITOS E NA LONGA PENA A CUMPRIR. FUNDAMENTAÇÃO INIDÔNEA. DETERMINAÇÃO DE QUE O PEDIDO DE PROGRESSÃO SEJA ANALISADO SEM A EXIGÊNCIA DO REFERIDO EXAME. AGRAVO REGIMENTAL DESPROVIDO.
+1. Além de se constatar a existência de excesso de prazo para a realização do exame criminológico, o qual sequer tem previsão de realização, observa-se da decisão que a exigiu que não houve fundamentação idônea para sua realização, pois determinada com base na gravidade abstrata dos crimes pelos quais o Agravado foi condenado e na longa pena a cumprir.
+2. Fundamentos genéricos, abstratos e relacionados aos crimes cometidos, como os apresentados pelo Juízo de origem, não justificam a exigência de exame criminológico, bem como a análise do preenchimento do requisito subjetivo para a progressão de regime somente poderá fundar-se em fatos praticados durante a execução penal, o que não foi demonstrado, no caso.
+3. Agravo regimental desprovido. (AgRg no HC n. 593.758/SP, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 2/12/2020.)
+Ante o exposto, não conheço do habeas corpus, mas concedo a ordem de ofício, de acordo com o art. 654, § 2º, do Código de Processo Penal, para determinar que o Juízo da execução penal reavalie o pedido de progressão de regime formulado pelo paciente, com observância da fundamentação acima.
+Fica prejudicado o pedido de liminar.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
