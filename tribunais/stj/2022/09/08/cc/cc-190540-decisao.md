@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de conflito negativo de competência em que é suscitante o Juízo de Direito da Vara de Fartura/SPe suscitado o Juízo Federal da 1ª Vara de Bragança Paulista/SJSP.
+Consta dos autosque o reeducando foi condenado pelo Juízo da 1ª Vara Federal de Bragança Paulista/SJSPà pena privativa de liberdade de 2 (dois) anos de reclusão, em regime inicial aberto. A pena corporal foi substituída por duas penas restritivas de direitos -prestações pecuniária ede serviços à comunidade.
+Expedida a guia de recolhimentoe distribuída a execução ao Juízo Federal de Bragança Paulista/SJSP, este declinou da competência ao Juízo Federal das Execuções Penais da Subseção Judiciária de Ourinhos/SJSP, pois o condenado reside em Fartura/SP.
+Este último remeteu os autos ao Juízo de Direito da Vara Única de Fartura/SP, ora suscitante, que assevera ser competente a autoridade judiciária prolatora da sentença condenatória, nos termos do art. 65 da Lei de Execução Penal.
+Em regular trâmite, o Ministério Público Federal opinou pela fixação da competência do Juízo suscitado(e-STJ fls. 18-20).
+É o relatório.
+De início, conheço do presente conflito de competência, por tratar-se de incidente instaurado entre Juízos vinculados a Tribunais distintos, nos termos do art. 105, I,d, da Constituição da República.
+Na espécie, o Juízo suscitante consignou que não se aplicaria ao caso a Resolução CNJ n. 280/2019, que "Estabelece diretrizes e parâmetros para o processamento da execução penal nos tribunais brasileiros por intermédio do Sistema Eletrônico de Execução Unificado - SEEU e dispõe sobre sua governança", pois tal diploma normativonão versa sobre a competência da Justiça Estadual em locais em que ausente a sede da Justiça Federal.
+O MPF, de igual modo, manifestou-seno sentido da fixação da competência do Juízo prolator da sentença, no caso, o suscitado.
+Esta Corte reconhece, com efeito, ser competente para execução da pena, nas circunstâncias retratadas nopresente feito, o Juízo prolator da sentença condenatória, validandoa possibilidade deserem deprecados ao Juízo do domicílio do apenado o acompanhamento e a supervisão do cumprimento da pena.
+Confira-se:
+CONFLITO POSITIVO DE COMPETÊNCIA. EXECUÇÃO PENAL. PENA PRIVATIVA DE LIBERDADE SUBSTITUÍDA POR RESTRITIVAS DE DIREITOS. CARTA PRECATÓRIA EXPEDIDA PELO JUÍZO SUSCITANTE. RECUSA DO JUÍZO SUSCITADO QUE AVOCA A EXECUÇÃO. COMPETÊNCIA DO JUÍZO DA CONDENAÇÃO. ART. 65 DA LEI DE EXECUÇÃO PENAL - LEP. SISTEMA ELETRÔNICO DE EXECUÇÃO UNIFICADA (SEEU) IMPLEMENTADO PELO CONSELHO NACIONAL DE JUSTIÇA - CNJ. DECISÃO LIMINAR NA ADIn 6259/2019 NO SUPREMO TRIBUNAL FEDERAL - STF.
+EFICÁCIA DOS ARTS. 2º, 3º, 9º, 12 e 13 DA RESOLUÇÃO CNJ 280/2019 SUSPENSA. COMPETÊNCIA DO JUÍZO SUSCITANTE.
+1. O presente conflito de competência deve ser conhecido, por se tratar de incidente instaurado entre juízos vinculados a Tribunais distintos, nos termos do art. 105, inciso I, alínea d, da Constituição Federal - CF.
+2. "A competência para a execução penal cabe ao Juízo da condenação, sendo deprecada ao Juízo do domicílio do apenado somente a supervisão e acompanhamento o cumprimento da pena determinada, inexistindo deslocamento de competência" (CC 113.112/SC, Terceira Seção, Rel Ministro Gilson Dipp, DJe 17/11/2011).
+3. O novo Sistema Eletrônico de Execuções Unificado - SEEU tem proporcionado facilidade de acesso aos autos e otimizado a prestação jurisdicional, contudo, não tem o condão de alterar a competência para a execução da pena que é fixada na Lei n. 7.210/84.
+"Cabe aos Juízes envolvidos no uso desse novo instrumento lançar mão de procedimentos que extraíam os benefícios da nova ferramenta, sem, contudo, desrespeitar as diretrizes estabelecidas na legislação, sob pena de que a tecnologia prevaleça em detrimento da vontade do legislador" (CC 170.280, DJe 11/2/2020 e CC 170.458, DJe 4/5/2020, ambos de relatoria do Ministro Sebastião Reis Júnior.
+4. "Ademais, em 16/12/2019, o Ministro do STF Alexandre de Moraes, Relator da ADIn 6259/2019, deferiu liminar, determinando a suspensão da eficácia dos arts. 2º, 3º, 9º, 12 e 13 da "Resolução CNJ nº 280/2019" que determinavam, a partir de 31/12/2019, que todos os processos de execução penal de tribunais brasileiros tramitassem obrigatoriamente pelo "Sistema Eletrônico de Execução Unificado - SEEU", sem que, até o momento, tenha sido a causa submetida a julgamento ou referenda pelo plenário" (CC 172.411, DJe 2/6/2020, Rel. Ministro Reynaldo Sorares da Fonseca).
+5. Conflito de competência conhecido para declarar que a execução da pena compete ao Juízo Federal da 9ª Vara Criminal do Rio de Janeiro - SJ/RJ, o suscitante, e que incumbe ao Juízo Federal da 1ª de São Bernardo do Campo - SJ/SP, o suscitado, o cumprimento da carta precatória para acompanhamento e fiscalização da execução das penas restritivas de direitos e da pena de multa.
+(CC n. 172.445/RJ, relator Ministro Joel Ilan Paciornik, Terceira Seção, julgado em 24/6/2020, DJe de 29/6/2020.)
+Nesse contexto, é caso de manutenção da competência do Juízo suscitado.
+Ante o exposto, conheço do conflito e declaro competente o Juízo da 1ª Vara Federal de Bragança Paulista/SJSP, ora suscitado.
+Publique-se.
+Dê-se ciência aos juízos em conflito.
+Cientifique-se o Ministério Público Federal.
