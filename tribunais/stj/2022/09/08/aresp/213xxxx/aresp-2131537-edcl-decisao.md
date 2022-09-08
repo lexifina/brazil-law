@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por S M EMPREENDIMENTOS EMPRESARIAIS LTDA em face da decisão que conheceu do agravo para não conhecer do recurso especial, em razão da aplicação de súmulas de admissibilidade recursal, nos termos do art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça.
+Em suas razões, sustenta a parte embargante que:
+3. No caso dos autos, entende a embargante, permissa venia, que o v. acórdão prolatado apresenta omissão, uma vez que não se trata de reexame do quadro-fático probatório, colidindo com a Súmula 7, mas sim de elucidação necessária para a demonstração da negativa de vigência aos dispositivos legais invocados.
+4. O que se requer no presente recurso é a análise de questão de direito - exclusivamente - não a reapreciação de fatos ou provas.
+5. É cediço que, é direito das partes, utilizarem-se dos recursos disponíveis como meio de melhor adequação e interpretação da norma.
+E esse é o caminho que o agravante têm-se utilizado para ter o seu direito atendido.
+6. Na presente lide, não há comprovação fático- probatória que ensejam a prolatação da sentença em primeiro grau, no qual restou o agravante condenado ao pagamento de indenização e ressarcimento por danos.
+7. Ressalte-se: não há revisão de provas, e sim a possibilidade da revaloração jurídica de fatos incontroversos.
+8. No tocante à majoração dos honorários advocatícios sucumbenciais no importe de 15% sobre o valor já arbitrado, temos que há excesso em seu arbitramento, uma vez que o Código de Processo Civil em seu art. 85, §2º, enumera que os honorários serão fixados entre o mínimo de dez e o máximo de vinte por centro sobre o valor da condenação.
+9. Considerando que em sentença prolatada pelo Juízo de piso, o agravante restou condenado ao pagamento de honorários advocatícios sucumbenciais fixados em 10% sobre o valor da condenação, têm- se claro excesso de fixação de honorários sucumbenciais (fls. 395/396).
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Quanto à aplicação da Súmula 7/STJ pela decisão embargada, ressalto que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, o EDcl no AgRg nos EREsp n. 1.315.507/SP, relator Ministro Luis Felipe Salomão, Corte Especial, DJe de 28/8/2014.
+Quanto à majoração dos honorários, o novo Código de Processo Civil, ao prever o instituto da majoração dos honorários advocatícios em razão do julgamento de recurso, condicionou sua aplicação aos processos cíveis, desde que haja prévia fixação de honorários pela instância a quo.
+Ademais, conforme dicção do Enunciado Administrativo n. 7 deste Superior Tribunal de Justiça, "somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC".
+No presente caso, tendo em vista que estão preenchidos os requisitos acima delineados, correta a majoração dos honorários recursais.
+Ressalte-se que os honorários recursais foram fixados em desfavor da parte recorrente de forma clara, no importe de 15% sobre o montante já arbitrado, ou seja, os honorários sucumbenciais fixados nas instâncias ordinárias, seja de forma equitativa, seja em percentual sobre o valor da condenação, da causa ou do proveito econômico obtido, servirão como base de cálculo sobre a qual incidirão os 15% da majoração, observados, sempre que aplicáveis, os limites previstos nos §§ 2º e 3º do art. 85 do Código de Processo Civil.
+Veja-se que não se trata de um percentual excessivo ou irrisório, porque condizente com os preceitos do Enunciado Administrativo n. 7 e com os limites estabelecidos no art. 85, § 2º, do Código de Processo Civil de 2015.
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se. Intimem-se.
