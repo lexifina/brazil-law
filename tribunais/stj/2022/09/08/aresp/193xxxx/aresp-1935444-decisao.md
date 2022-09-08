@@ -1,0 +1,35 @@
+DECISÃO
+Vistos etc.
+Trata-se de agravo em recurso especial interposto por ALTANA - PALAZZO EMPREENDIMENTO IMOBILIARIO LTDA,em face da decisão que negou seguimento a recurso especial, interposto com fundamento no art. 105, III, alínea "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ Fl. 268):
+Compromisso de compra e venda - Ação de resolução contratualcumulada com repetição de indébito Dificuldades financeiras dos compromissários compradores - Celebração de distrato - Compromissários compradores que visam à restituição de 90% dos valores pagos - Sentença de parcial procedência, determinando-sea restituição de 80% dos valores pagos, ressalvada a quantia já restituída pela ré e não compreendida a comissão de corretagem,que não havia sido pleiteada pelos autores Irresignação somenteda ré - Afastamento da impugnação aos benefícios da justiçagratuita concedidos aos autores e da preliminar de falta de interesse de agir em razão de prévia celebração de distrato No mérito, inaplicabilidade dos dispositivos da Lei nº 13.786/2018 ("Lei do Distrato") e do "Pacto para Aperfeiçoamento das Relações Negociais entre Incorporadores e Consumidores" - Abusiva retenção operada por meio do distrato - Inaplicabilidadedos critérios previstos na cláusula 7.6 do instrumento contratual - Restituição de 80% dos valores pagos, determinada pelo juízo a quo, em consonância com a jurisprudência deste Egrégio Tribunalde Justiça - Recurso desprovido, majorando-se a verbasucumbencial devida pela ré, ora apelante, para 15% (quinze por cento) sobre o valor da condenação.
+Nas razões do recurso especial, a parte alegou,ofensa aos seguintes dispositivos legais: 485, inciso IV, e, 1.022, do CPC/2015; 360, 416, caput,e, § único, 421, 422 do Código Civil, e, 67-A, § 13 da Lei 4.591/64.
+Defendeu, em síntese, negativa de prestação jurisdicioanal, eis que,"esclarece a Recorrente que oposição de embargos de declaração exclusivamente com esta finalidade de prequestionamento, na qual restou invocado todos os dispositivos legais ora suscitados" (e-STJ Fl. 292).
+Por fim, aduziu a falta de interesse de agir da parte agravada, pois,"os Recorridos firmaram distrato com a Recorrente, por meio do qual através de manifestação expressa de vontade, deu-lhe a mais plena, rasa, segura e irrevogável quitação pela rescisão do instrumento firmado entre as partes (49/51)" (e-STJ Fl. 292).
+Pediuo provimento do recurso.
+É o relatório.
+Passo a decidir.
+Inicialmente, registro que o acórdão recorrido foi publicado já sob a vigência da Lei 13.105/2015, razão por que o juízo de admissibilidade é realizado na forma deste novo édito, conforme Enunciado Administrativo nº 3/STJ.
+Com efeito, aponto que se apresenta deficiente a fundamentação do recurso especial em que a alegação de ofensa aos art. 1.022, II, do CPC/15 se faz de forma genérica, não havendo a demonstração clara dos pontos do acórdão que se apresentam omissos, contraditórios ou obscuros.
+Aplica-se, assim, o óbice da Súmula284/STF.Nesse sentido: AgRg no Ag 1.130.264/SP, 6ª Turma, Rel. Min. Vasco Della Giustina (Desembargador Convocado do TJ/RS), DJe de 01/07/2011; REsp 1.253.231/SC, 2ª Turma, Rel. Min. Castro Meira, DJe de 03/11/2011; REsp 1.268.469/SP, 2ª Turma, Rel. Min. Mauro Campbell Marques, DJe de 27/02/2012; e REsp 1.190.865/MG, 3ª Turma, Rel. Min. Massami Uyeda, DJe de 01/03/2012.
+Saliente-se, a propósito, que é imprescindível, para que seja configurada anegativadeprestaçãojurisdicional (ofensa ao art. 1.022 do CPC/2015), a explanação acerca da relevância da apreciação da questão tida por omissa e do modo em que ela repercutiria no resultado do julgamento.
+No mais, relativamente à suposta violação aos demais artigos tidos por violados, o acórdão recorrido asseverou que(e-STJ Fl. 272/2385, gn):
+"(..)
+A apelante alega, ainda, ter sido equivocada a rejeiçãoda preliminar de faltade interesse de agir arguida em contestação.
+Cumpre observar que, à luz da jurisprudência do Colendo Superior Tribunal de Justiça, a apreciação das condições da ação norteia-se pelo exame do relato fático exposto na petição inicial, em consonância com a teoria da asserção:
+(..)
+À luz de tais considerações, reputo que o interesse de agir faz-se presente no caso em testilha, visto que o meio processual eleito pelos autores é adequado ao alcance de sua pretensão. Nesse sentido, convém consignar a lição de Cândido Rangel Dinamarco:
+(..)
+Sob outro vértice, consigno que o fato de ter sido celebrado distrato entre as partes não representa óbice ao ajuizamento da presente demanda, consoante vem decidindo este Egrégio Tribunal de Justiça de São Paulo:
+(..)
+Ademais, como bem observou o juízo a quo, "os autores firmaram contrato com a ré na compra do imóvel e tem o interesse na devolução de valores pagos, ao passo que a ré resiste à pretensão"(fl. 190). É dizer, verifica-se ter havido pretensão resistida - fundamento este que não foi atacado pela apelante em suas razões recursais.
+Assim, a demanda apresentada atende ao binômio necessidade-adequação, pelo que se observa o interesse de agir dos apelados, devendo ser rejeitada, por conseguinte, a preliminar arguida pela apelante.
+(..)
+Entretanto, no distrato, a restituição operada não alcançou sequer 30% dos valores pagos pelos apelados, afigurando-se, pois, evidentemente abusiva, haja vista que nem mesmo os termos do contrato que preveem, conforme supratranscrito, a restituição do percentual de 70% sobre o valor pago, com deduções de determinados valores - foram observados".
+Assim, elidir as conclusões do acórdão recorrido no sentido de que "a demanda apresentada atende ao binômio necessidade-adequação, pelo que se observa o interesse de agir dos apelados",e que,"a restituição operada não alcançou sequer 30% dos valores pagos pelos apelados, afigurando-se, pois, evidentemente abusiva, haja vista que nem mesmo os termos do contrato que preveem, conforme supratranscrito, a restituição do percentual de 70% sobre o valor pago, com deduções de determinados valores - foram observados",demandaria o reexame das provas dos autos, providência esta vedada em recurso especial, a teor da orientação contida noverbetedaSúmulas7/STJ.
+Advirta-se que eventual recurso interposto contra este decisum estará sujeito às normas do CPC/2015 (cf. Enunciado Administrativo n. 3/STJ).
+Com fundamento noart. 85, § 11, do CPC, majoro o percentual dos honorários sucumbenciais a que condenado o recorrente na origem em 2%, totalizando 17% sobre o valor da condenação, observada a eventuale anterior concessão da gratuidade judiciária, e, a distriuição do ônus de sucumbência fixada na origem.
+Ante o exposto,conheço do agravo para não conhecer dorecurso especial.
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL.AÇÃO MONITÓRIA JULGADA IMPROCEDENTE. NEGATIVADEPRESTAÇÃOJURISDICIONAL. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA284/STF. ALEGAÇÃO DE AUSÊNCIA DE INTERESSE DE AGIR RECHAÇADA PELA CORTE DE ORIGEM. RESTITUIÇÃO ABUSIVA. REVISÃO DESTES ENTENDIMENTOS. IMPOSSIBILIDADE. INCIDÊNCIA DASÚMULA7/STJ.
+AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
