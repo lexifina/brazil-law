@@ -1,0 +1,18 @@
+DECISÃO
+Estes autos foram a mim redistribuídos por prevenção do processo HC n. 458.173/RS (fl. 30).
+Trata-se de agravo regimental interposto, na forma de expediente avulso (Petição AgRg n. 690485/2022), porCarlos William Santos de Morais, após o trânsito em julgado da decisão da Presidência desta Corte, que não conheceu do agravo em recurso especial por ele manejado, dada a incidência da Súmula 182/STJ (fls. 1.441/1.442).
+Afirma o peticionante que Porto Alegre-RS e região metropolitana, bem como municípios do Rio Grande do Sul foram assolados por um ciclone extratropical no dia 15 de agosto de 2022 (fl. 3 do expediente avulso) e que tal caso fortuito/força maior impediu o procurador de interpor o recurso, eis que ficou sem energia elétrica e internet (fl. 4 do expediente avulso). No mérito, sustenta, superficialmente, queas razões foram amplamente concretas, a olhos nus devidamente pormenorizadas, sendo jamais genéricas(idem).
+É o relatório.
+O presente agravo regimental é intempestivo.
+Com efeito, a petição foi oferecida por meio de expediente avulso após o trânsito em julgado da decisão agravada (certidão de fls. 1.445 dos autos principaise de fl. 21 do expediente avulso). Portanto, fora do prazo previsto nos arts. 39 da Lei n. 8.038/1990 e 258 do RISTJ.
+Anoto, por oportuno, que é necessária a comprovação, no ato de interposição do recurso, da existência de feriado local ou suspensão processual por meio de documento idôneo(AgInt nos EDcl no AREsp n. 1.533.643/MG, Ministro Luis Felipe Salomão, Quarta Turma, DJe 25/11/2021), não se prestando a tal fim,a simplesjuntada de notícia ou calendário extraídos do sítio eletrônico do Tribunal ou a mera alegação de suspensão de prazo nas razões do recurso(EDcl no AgInt nos EDcl no AREsp n. 1.661.491/SP, Ministro Manoel Erhardt (Desembargador convocado do TRF5), Primeira Turma, DJe 16/2/2022).
+Assim, tenho que a defesa não comprovou, por meio de documentação idônea, a efetiva impossibilidade de atuação gerada por caso fortuito ou força maior no ato da interposição do recurso, circunstância que, caso comprovada oportunamente, seria apta a obstar oinícioda fluência do prazo recursal, sendodescabida comprovação subsequente, nos termos da orientação consolidada nestaCorte, inclusive em precedente da Corte Especial:
+AGRAVO INTERNO. EMBARGOS DE DIVERGÊNCIA. COMPROVAÇÃO POSTERIOR DE FERIADO LOCAL. MATÉRIA PACIFICADA PELA CORTE ESPECIAL. SÚMULA 168 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. A Corte Especial, por ocasião do julgamento do Agint no AREsp 1.481.810/SP, em sessão realizada em 19/5/2021 - acórdão pendente de publicação -, tornou pacífica a aplicação do entendimento fixado no julgamento do REsp n 1.813.684-SP, no sentido de quea falta de comprovação prévia da tempestividade do recurso, em razão de todo e qualquer feriado ou recesso forense local, configura vício insanável, de modo que não pode ser feita posteriormente no agravo interno,à exceção do feriado da segunda-feira de carnaval, no caso de recursos interpostos até 18/11/2019, consoante decidido na Questão de Ordem no REsp 1.813.684-SP.
+2. Agravo interno não provido.
+(AgInt nos EAREsp n. 1.375.252/TO, Ministro Luiz Felipe Salomão, Corte Especial, DJe 29/6/2021 - grifo nosso)
+Ante o exposto,não conheçodo agravo regimental,determinando o arquivamento do expediente.
+Publique-se.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. INTERPOSIÇÃO POR MEIO DE EXPEDIENTE AVULSO APÓS O TRÂNSITO EM JULGADO. INTEMPESTIVIDADE. ALEGAÇÃO DE CASO FORTUITO OU FORÇA MAIOR DECORRENTE DE CICLONE EXTRATROPICAL. AUSÊNCIA DE COMPROVAÇÃO POR DOCUMENTO IDÔNEO.
+Agravo regimental não conhecido.
