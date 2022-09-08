@@ -1,0 +1,11 @@
+DECISÃO
+Tratam-se de Embargos de Declaração opostos pela Fazenda Nacional contra decisão monocrática por mim proferida às fls. 494/496 (e-STJ), cuja ementa assim estabelece:
+PROCESSO CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. OFENSA AOS ARTIGOS 489 E 1.022, AMBOS, DO CÓDIGO DE PROCESSO CIVIL. NÃO CARACTERIZAÇÃO. REPETIÇÃO OU COMPENSAÇÃO DE INDÉBITOS. LEI COMPLEMENTAR 118/2005. PRESCRIÇÃO QUINQUENAL. PRECEDENTES.RECURSO ESPECIAL CONHECIDO PARA LHE NEGAR PROVIMENTO.
+Nas razões dos aclaratórios, fundamentado sob o artigo 1.022, inciso II, do CPC/2015, o recorrente pugna pela integração da decisão sobredita, arrematando que a decisão recorrida não estipulou os honorários recursais.
+É o relatório. Passo a decidir.
+Com efeito, a teor do Enunciado Administrativo n. 7 do Superior Tribunal de Justiça, "somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários recursais, na forma do art. 85, § 11, do novo CPC". Logo, considerando-se que o acórdão recorrido foi prolatado já na vigência do CPC/2015 e, outrossim, tendo em vista o não acolhimento da pretensão recursal da parte ora recorrente, é cabível a condenação desta em honorários advocatícios recursais, na forma do art. 85, § 11, do CPC/2015.
+Nesse sentido:
+PROCESSUAL CIVIL. ENUNCIADO ADMINISTRATIVO Nº 3 E 7/STJ. EMBARGOS DE DECLARAÇÃO. VÍCIO NO JULGADO. OCORRÊNCIA. SUPRESSÃO. HONORÁRIOS DE SUCUMBÊNCIA RECURSAL. ART. 85, § 11, DO CPC/2015. FIXAÇÃO. EMBARGOS DE DECLARAÇÃO ACOLHIDOS. 1. Tendo em vista o disposto no art. 85, § 11, do CPC/2015, c/c o Enunciado Administrativo nº 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC") e o trabalho adicional realizado em grau recursal, impõe-se a fixação dos honorários advocatícios a título de sucumbência recursal. 2. Embargos de declaração acolhidos. (EDcl no AREsp 1.679.208/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURM A, DJe 3/12/2020)
+Ante o exposto, acolho os embargos de declaração para condenar a parte recorrente ao pagamento de honorários advocatícios recursais arbitrados, nos termos do art. 85, § 11, do CPC, em 10% sobre a verba honorária fixada nas instâncias ordinárias.
+Publique-se.
+Intimem-se
