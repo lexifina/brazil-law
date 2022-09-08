@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de agravo regimental interposto pelo Ministério Público Federal contra decisão monocrática de minha lavra que não conheceu do habeas corpus impetrado em seu favor, em que se pleiteou a permanência do executado no regime semiaberto de pena, com a dispensa de exame psiquiátrico (e-STJ, fls. 47/53).
+Neste recurso, o Ministério Público federal alega, previamente, que ao Relator somente é facultado decidir monocraticamente, sem a oitiva do Ministério Público, se a matéria for objeto de jurisprudência consolidada do STJ ou do STF - que não é o caso.
+Informa que foi dado cumprimento à decisão monocrática dessa Relatoria - o Juiz executório determinou orestabelecimento do regime semiaberto, com observância dos termos da Súmula Vinculante 56 do Supremo Tribunal Federal, bem como, caso a inclusão na nova unidade não se realize em até 30 dias, que o sentenciado sejacolocado em prisão domiciliar monitorada, conforme parâmetros definidos no RE641.320/RS STF.
+Mostra que conforme a guia de execução à STJ,fl. e-STJ 25, é possível identificar condenação por crime de furto com data do delito de 2017, última oportunidade em que o executado foi colocado em liberdade e, nas datas anteriores, em todas as vezes em que foi solto, voltou a cometer delitos.
+Conclui, assim, quemostra-se imperiosa uma avaliação mais completa no caso em questão, de modo a elucidar o preenchimento do requisito subjetivo para progredir de regime.
+Em vista do exposto, requer a reconsideração da decisão agravada ou que o feito seja submetido a julgamento perante a Quinta Turma desta Corte (conhecimento e provimento).
+É o relatório. Decido.
+O agravo regimental é tempestivo e rechaçou os fundamentos da decisão combatida, razões pelas quais merece conhecimento.
+No mérito, constato elementos suficientes para reconsiderar a decisão.
+Estes foram os fundamentos adotados na decisão agravada, no que importa (e-STJ, fls. 49/53):
+Do exame psiquiátrico
+O Tribunal determinou a cassação do regime semiaberto e uma avaliação com médico psiquiatra, porque (e-STJ, fls. 16/18):  ..
+Do voto acima, verifico que a autoridade coatora julgou pertinente uma avaliação psiquiátrica ao paciente, tendo em vista o registro de uma falta grave praticada em 2011, bem como porque os relatórios social e psicológico foram inconclusivos, limitando-se a narrar sobre o apenado e que ele assumiu os delitos.
+Em que pese a respeitável decisão, tem razão a defesa.
+Primeiro, porque há uma única falta grave registrada no boletim informativo, e ainda, antiga, de 2011, ou seja, praticada há mais de 10 anos (e-STJ, fls. 21/27).
+Esta Corte vem entendendo que as faltas graves cometidas em período longínquo e já reabilitadas não constituem fundamento idôneo para indeferir a progressão de regime, menos ainda para justificar a realização de exames.
+ ..
+E segundo porque os relatórios social e psicológico não foram inconclusivos. O psicólogo e o assistente social mencionaram apenas aspectos positivos, como laços familiares preservados, ausência de faltas disciplinares, pretensão de trabalho, humor estável, boa educação e, ainda, que o executado assume os delitos do passado, fator muito importante, já que mostra sinceridade e honestidade consigo mesmo, um dos caminhos para o progresso (e-STJ, fls. 33/36).
+ ..
+Com efeito, postergar a concessão da progressão de regime prisional ao apenado, sob a alegação de necessidade de complementação do exame criminológico com laudo psiquiátrico, sem ter sido a providência recomendada por nenhum setor técnico da unidade, mostra-se desarrazoado.
+ ..
+Ante o exposto, com amparo no art. 34, XX, do Regimento Interno do STJ, não conheço do habeas corpus. Contudo, concedo a ordem de ofício, a fim de cassar o acórdão coator e determinar o restabelecimento da decisão do Juízo executório.
+Conforme transcrição acima, um dos motivos para o restabelecimento do regime semiaberto se deu em razão do registro, no boletim informativo, de uma única falta disciplinar, de 2011, antiga.
+Ocorre que, analisando melhor o documento, conforme manifestação ministerial, observo que realmente consta, ainda, uma interrupção do regime aberto, de 29/12/2016 a 29/12/2018, ou seja, de quase 2 anos (e-STJ, fl. 25).
+Desse modo, o apenado apresenta falta grave não antiga, demonstrando um comportamento audacioso e indisciplinado, sobretudo em razão do tempo em que foi interrompido o regime.
+Nesse sentido,a prática de faltas graves é indicativa da ausência de cumprimento do requisito subjetivo da progressão de regime. A circunstância de o paciente já haver se reabilitado, pela passagem do tempo, desde o cometimento das sobreditas faltas, não impede que se invoque o histórico de infrações praticadas no curso da execução penal, como indicativo de mau comportamento carcerário(HC n. 347.194/SP, Rel. Ministro FELIX FISCHER, julgado em 28/6/2016).
+Asinfrações graves justificam a realização de um exame psiquiátrico:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROGRESSÃO DE REGIME. DETERMINAÇÃO DE EXAME PSIQUIÁTRICO CONCOMITANTEMENTE AO EXAME CRIMINOLÓGICO. FUNDAMENTAÇÃO IDÔNEA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. RECURSO DESPROVIDO.
+1. Havendo fundamentação concreta, pautada no conturbado histórico prisional do paciente, não se verifica a existência de constrangimento ilegal na determinação da realização do exame psiquiátrico concomitantemente ao exame criminológico antes da análise dos requisitos subjetivos necessários à progressão de regime.
+2. Agravo Regimental desprovido.
+(AgRg no HC 507.005/SP, Rel. Ministro JOEL ILAN PACIORNIK, Quinta Turma, julgado em 6/8/2019, DJe 13/8/2019)
+EXECUÇÃO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. NÃO CABIMENTO. NOVA ORIENTAÇÃO JURISPRUDENCIAL. PROGRESSÃO DE REGIME. REQUISITO SUBJETIVO. EXAME CRIMINOLÓGICO. NECESSIDADE DE COMPLEMENTAÇÃO. LAUDO PSIQUIÁTRICO. DECISÃO FUNDAMENTADA EM DADOS CONCRETOS DOS AUTOS. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. HABEAS CORPUS NÃO CONHECIDO.
+I - A Primeira Turma do col. Pretório Excelso firmou orientação no sentido de não admitir a impetração de habeas corpus substitutivo ante a previsão legal de cabimento de recurso ordinário (v.g.: HC n. 109.956/PR, Rel. Min. Marco Aurélio, DJe de 11/9/2012; RHC n. 121.399/SP, Rel. Min. Dias Toffoli, DJe de 1º/8/2014 e RHC n. 117.268/SP, Rel. Min. Rosa Weber, DJe de 13/5/2014). As Turmas que integram a Terceira Seção desta Corte alinharam-se a esta dicção, e, desse modo, também passaram a repudiar a utilização desmedida do writ substitutivo em detrimento do recurso adequado (v.g.: HC n. 284.176/RJ, Quinta Turma, Rel. Min. Laurita Vaz, DJe de 2/9/2014; HC n. 297.931/MG, Quinta Turma, Rel. Min. Marco Aurélio Bellizze, DJe de 28/8/2014; HC n. 293.528/SP, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 4/9/2014 e HC n. 253.802/MG, Sexta Turma, Rel. Min. Maria Thereza de Assis Moura, DJe de 4/6/2014).
+II - Portanto, não se admite mais, perfilhando esse entendimento, a utilização de habeas corpus substitutivo quando cabível o recurso próprio, situação que implica o não-conhecimento da impetração.
+Contudo, no caso de se verificar configurada flagrante ilegalidade apta a gerar constrangimento ilegal, recomenda a jurisprudência a concessão da ordem de ofício.
+III - Para a concessão do benefício da progressão de regime, deve o acusado preencher os requisitos de natureza objetiva (lapso temporal) e subjetiva (bom comportamento carcerário), nos termos do art. 112 da Lei de Execuções Penais.
+IV - Com as inovações trazidas pela Lei 10.792/03, alterando a redação do art. 112 da Lei 7.210/84 (Lei de Execução Penal), afastou-se a exigência do exame criminológico para fins de progressão de regime. Por outro lado, este eg. Superior Tribunal de Justiça firmou entendimento de que o magistrado de primeiro grau, ou mesmo o Tribunal a quo, diante das circunstâncias do caso concreto, podem determinar a realização da referida prova técnica para a formação de seu convencimento, desde que essa decisão seja adequadamente motivada (enunciado sumular de n. 439/STJ e Súmula Vinculante de n. 26/STF).
+V - Não se vislumbra qualquer ilegalidade ou arbitrariedade na decisão impugnada, tendo em vista as peculiaridades do caso concreto - faltas graves cometidas durante o cumprimento da pena - que justificam o indeferimento da progressão de regime prisional e a submissão do apenado ao exame psiquiátrico, com o fim de aferir o preenchimento do requisito subjetivo pelo apenado.
+VI - Esta Corte possui entendimento consolidado no sentido de ser inviável, na via estreita do habeas corpus, examinar se estão ou não presentes os requisitos subjetivos e objetivos para a progressão de regime prisional, pois demandaria dilação probatória aprofundada.
+Habeas Corpus não conhecido.
+(HC 322.871/SP, Rel. Ministro FELIX FISCHER, Quinta Turma, julgado em 3/12/2015, DJe 16/12/2015)
+EXECUÇÃO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. PROGRESSÃO DE REGIME. AUSÊNCIA DO REQUISITO SUBJETIVO. DETERMINAÇÃO DE COMPLEMENTAÇÃO DO EXAME CRIMINOLÓGICO COM LAUDO PSIQUIÁTRICO. DECISÃO MOTIVADA. CONSTRANGIMENTO ILEGAL. INOCORRÊNCIA. HABEAS CORPUS NÃO CONHECIDO. AGRAVO REGIMENTAL DESPROVIDO.
+I - Pretende o agravante sustar a determinação de complementação de exame criminológico exarada pelo eg. Tribunal a quo.
+II - Contudo, não se vislumbra, in casu, a ocorrência de constrangimento ilegal, uma vez que o enunciado n. 439, da Súmula do STJ afirma que "admite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada".
+III - A peculiaridade do caso concreto - falta grave cometida durante o cumprimento da pena - justifica o indeferimento da progressão de regime e a submissão do apenado ao exame psiquiátrico, com o fim de aferir o preenchimento do requisito subjetivo.
+Agravo regimental desprovido.
+(AgRg no HC 306.950/SP, Rel. Ministro FELIX FISCHER, Quinta Turma, julgado em 5/11/2015, DJe 26/11/2015)
+Ante o exposto, em juízo de retratação, próprio do agravo regimental, reconsidero a decisão agravada,a fim de manter o acórdão impugnado, determinando, em consequência, que o Juízo das execuções determine a complementação do exame criminológico (avaliação com médico psiquiatra), para posterior apreciação do requisito subjetivo da progressão ao regime semiaberto.
+Comunique-se, com urgência.
+Intimem-se.
