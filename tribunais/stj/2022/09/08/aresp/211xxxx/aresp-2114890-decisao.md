@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial interposto em face de acórdão com a seguinte ementa:
+PENHORA - Bloqueio de valores em conta corrente. Admissibilidade. Penhora que observa a ordem preferencial prevista no art.835, I, do CPC/2015. Inexistência de comprovação da impenhorabilidade. Conta dotada de natureza circulatória da moeda. Inaplicabilidade do art. 833, X, do CPC/2015. Decisão mantida. Recurso desprovido.
+Alegou-se, no especial, violação do artigo 833, X, do Código de Processo Civil sob o argumento de que são impenhoráveis quaisquer valores depositados até o limite de 40 (quarenta) salários-mínimos.
+Assim delimitada a controvérsia, passo a decidir.
+Colhe-se dos autos que o recorrente interpôs "Agravo de instrumento contra a decisão proferida  em  execução de título extrajudicial e que indeferiu o desbloqueio dos valores constritos nas contas do coexecutado-agravante" (e-STJ, fl. 337).
+O Tribunal local consignou que foi "bloqueada a quantia de R$ 8.300,72 em conta bancária do agravante (cf. fls. 272 dos autos de origem)" (e-STJ, fl. 837) econcluiu que a "impenhorabilidade aduzida pelo agravante é aquela cabível para os casos de conta poupança, nos termos do art. 833, X, do CPC/2015 e não pode ser estendida à conta corrente cuja movimentação tem natureza circulatória" (e-STJ, fl. 338).
+Esta Corte Superior, todavia, tem entendimento no sentido de que o limite de 40 (quarenta) salários-mínimos se aplica a depósitos realizados em quaisquer aplicações financeiras, inclusive conta-corrente.
+Assim:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. PENHORA DE VALOR DEPOSITADO EM CONTA CORRENTE. SALDO INFERIOR A 40 (QUARENTA) SALÁRIOS MÍNIMOS. IMPENHORABILIDADE. MITIGAÇÃO. ART. 833, § 2º DO CPC/2015. HONORÁRIOS ADVOCATÍCIOS. IMPOSSIBILIDADE. DECISÃO DE ACORDO COM A JURISPRUDÊNCIA DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. O STJ possui jurisprudência no sentido de ser impenhorável "a quantia de até quarenta salários mínimos poupada, seja ela mantida em papel moeda, conta-corrente ou aplicada em caderneta de poupança propriamente dita, CDB, RDB ou em fundo de investimentos, desde que a única reserva monetária em nome do recorrente, e ressalvado eventual abuso, má-fé ou fraude, a ser verificado caso a caso, de acordo com as circunstâncias do caso concreto (inciso X, do art. 649)" (REsp n. 1.230.060/PR, Rel. Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, julgado em 13/8/2014, DJe 29/8/2014).
+2. "No julgamento do REsp 1.815.055/SP, (julgado em 03/08/2020, DJe 26/08/2020), a Corte Especial decidiu que a exceção contida na primeira parte do art. 833, § 2º, do CPC/15 é exclusivamente em relação às prestações alimentícias, independentemente de sua origem, isto é, oriundas de relações familiares, responsabilidade civil, convenção ou legado, não se estendendo às verbas remuneratórias em geral, dentre as quais se incluem os honorários advocatícios" (AgInt no REsp 1956593/DF, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 14/02/2022, DJe 16/02/2022).
+3. Agravo interno não provido.
+(AgInt no AREsp n. 2.075.161/PR, relator Ministro Raul Araújo, Quarta Turma, julgado em 8/8/2022, DJe de 26/8/2022.)
+Está o Tribunal de origem, portanto, em dissonância com o entendimento desta Casa.
+Diante do exposto, conheço do agravo e dou provimento ao recurso especial para afastar a constrição em questão.
+Intimem-se.
