@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de embargos de divergência opostos contra acórdão proferido pela Terceira Turma desta Corte, de Relatoria do Ministro Ricardo Villas Bôas Cueva, assim ementado:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. PLANO DE SAÚDE. NEGATIVA DE COBERTURA. ANS. ROL EXEMPLIFICATIVO. REEMBOLSO. REDE CREDENCIADA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 211/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. O rol de procedimentos da Agência Nacional de Saúde Suplementar (ANS) tem caráter meramente exemplificativo, sendo abusiva a negativa da cobertura pelo plano de saúde do tratamento considerado apropriado para resguardar a saúde e a vida do paciente.
+3. É abusiva a negativa da cobertura pelo plano de saúde de tratamento/medicamento considerado apropriado para resguardar a saúde e a vida do paciente, ainda que se trate da hipótese de tratamento experimental ou off label.
+4. A falta de prequestionamento da matéria suscitada no recurso especial impede o conhecimento do apelo nobre (Súmula nº 211/STJ).
+5. Agravo interno não provido.
+A recorrente, em suas razões, alega divergência em relação à decisão singular proferida pela Ministra Nancy Andrighi no REsp nº 1.928.156/RS e aos acórdãos cujas ementas encontram-se assim redigidas:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. REEMBOLSO DE DESPESAS. PREVISÃO CONTRATUAL. LIMITAÇÃO. POSSIBILIDADE. JULGADO RECORRIDO PROFERIDO EM SINTONIA COM O ENTENDIMENTO DESTA CORTE. VERBETE N. 83 DA SÚMULA DO STJ. ALEGADA FALHA NA PRESTAÇÃO DE SERVIÇO. REEXAME DE PROVAS. SÚMULAS 5 E 7/STJ. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO DA DECISÃO AGRAVADA. NÃO CONHECIMENTO. SÚMULA 182/STJ. NÃO PROVIMENTO. 1. Em que pese ser devido o atendimento em entidade não credenciada ou referenciada pela operadora de saúde, é lícita a cláusula que limita o reembolso à tabela da prestadora de assistência à saúde, nos termos do artigo 12, VI, da Lei 9.656/98.
+2. O Tribunal de origem julgou nos moldes da jurisprudência desta Corte. Incidente, portanto, o enunciado n. 83 da Súmula do STJ.
+3.Não cabe, em recurso especial, reexaminar matéria fático-probatória e a interpretação de cláusulas contratuais (Súmulas 5 e 7/STJ).
+4. Nos termos do art. 1021, § 1º, do Código de Processo Civil/2015 e da Súmula 182/STJ, é inviável o agravo interno que deixa de atacar especificamente os fundamentos da decisão agravada.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.385.892/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 31/5/2019.)
+PROCESSO CIVIL. AGRAVO INTERNO. RAZÕES QUE NÃO ENFRENTAM O FUNDAMENTO DA DECISÃO AGRAVADA. PLANO DE SAÚDE. HOSPITAL NÃO CREDENCIADO. SITUAÇÃO EXCEPCIONAL. REEMBOLSO PARCIAL DE DESPESAS. LIMITES DA TABELA PRATICADA PELO PLANO. REVALORAÇÃO JURÍDICA. INEXISTÊNCIA DOS ÓBICES PREVISTOS NAS SÚMULAS 5 E 7, DO STJ.
+1. As razões do agravo interno não enfrentam adequadamente o fundamento da decisão agravada.
+2. Em que pese ser devido o atendimento em entidade não credenciada ou referenciada pela operadora de saúde, é lícita a cláusula que limita o reembolso à tabela da prestadora de assistência à saúde, nos termos do artigo 12, VI, da Lei 9.656/98. Precedentes.
+3. Nos termos da jurisprudência já consolidada desta Corte, a análise do recurso especial não esbarra nos óbices previstos nas Súmulas 5 e 7, do STJ, quando se exige somente o reenquadramento jurídico das circunstâncias de fato e cláusulas contratuais expressamente descritos no acórdão recorrido.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.338.267/DF, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 28/5/2019.)
+Argumenta, em breve síntese, que o reembolso, devido em virtude de atendimento fora da rede credenciada, deve ser limitado à tabela praticada pela operadora do plano de saúde.
+Da análise dos autos e do julgado trazido nas razões do recurso, destaco que é assente nesta Corte que "decisão singular não pode ser adotada como paradigma para fins de comprovação de divergência" (AgInt nos EREsp n. 1.813.497/RN, relatora Ministra Maria Isabel Gallotti, Corte Especial, DJe de 2/9/2021).
+Ainda que assim não o fosse, assevero que não foi demonstrada a divergência suscitada, nos moldes do estabelecido pelo artigo 266, do Regimento Interno do STJ, c/c artigo 1.043, § 4º, do novo Código de Processo Civil.
+Isso porque, em relação ao reembolso nos limites da tabela praticada pela embargante, verifico que o recurso especial esbarrou no óbice contido na Súmula nº 211/STJ, visto que o tema "não foi objeto de debate pelas instâncias ordinárias, sequer de modo implícito", de modo que incide à presente hipótese o óbice contido na Súmula nº 315/STJ, que impede o conhecimento dos embargos de divergência quando o acórdão embargado não julga o mérito do recurso especial.
+Confiram trecho pertinente do voto condutor do acórdão embargado (fl. 493):
+"No que se refere ao reembolso do valor desembolsado pelo autor, a questão referente à realização do exame ter sido em rede não credenciada não foi objeto de debate pelas instâncias ordinárias, sequer de modo implícito. Ausente o requisito do prequestionamento, incide o disposto na Súmula nº 211/STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+Desse modo, os argumentos expostos no presente recurso são incapazes de alterar os fundamentos da decisão atacada."
+A propósito:
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. ACÓRDÃO EMBARGADO QUE DESPROVEU O AGRAVO INTERNO, APLICANDO OS ÓBICES DAS SÚMULAS N. 284 DO STF E 211 DO STJ. AUSÊNCIA DE ANÁLISE DO MÉRITO DO RECURSO ESPECIAL. INCIDÊNCIA DA SÚMULA N. 315 DO STJ. MANIFESTA INADMISSIBILIDADE DOS EMBARGOS DE DIVERGÊNCIA, LIMINARMENTE INDEFERIDOS PELA PRESIDÊNCIA. HONORÁRIOS ADVOCATÍCIOS. MAJORAÇÃO. DESCABIMENTO. AGRAVO INTERNO PARCIALMENTE PROVIDO.
+1. Mesmo sob a égide do Novo Código de Processo Civil (art. 1.043, incisos I e III), "o não cabimento dos embargos de divergência no caso concreto é bastante claro, em virtude de não ter sido analisado o mérito do recurso especial no acórdão embargado, atraindo a incidência da Súmula 315 do STJ: "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial" (AgInt nos EAREsp 1.441.916/SC, Rel. Ministro OG FERNANDES, CORTE ESPECIAL, julgado em 19/08/2020, DJe 26/08/2020).
+2. Mostra-se inequívoco, no caso, o não enfrentamento do mérito do recurso especial, a obstar a admissibilidade dos embargos de divergência - recurso de fundamentação vinculada e de cognição restrita, que não se presta à revisão do acerto ou desacerto do acórdão embargado -, porquanto não evidenciada divergência de teses jurídicas, nos termos do art. 266, § 1.º, do Regimento Interno do Superior Tribunal de Justiça, na esteira da farta jurisprudência da Corte Especial.
+3. "Consoante a literalidade do parágrafo 11 do art. 85 do CPC/2015, a majoração da verba honorária em sede recursal está condicionada à sua prévia fixação nas instâncias ordinárias, o que não ocorreu na hipótese dos autos" (AgInt nos EDv nos EREsp 1599372/PR, Rel. Ministra NANCY ANDRIGHI, CORTE ESPECIAL, julgado em 12/02/2019, DJe 22/02/2019).
+4. Agravo interno parcialmente provido, tão somente para afastar a determinação de majoração de honorários advocatícios.
+(AgInt nos EAREsp n. 1.702.288/RJ, relatora Ministra Laurita Vaz, Corte Especial, DJe de 1/2/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. RECURSO ESPECIAL. REQUISITOS DE ADMISSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 7 E 211 DO STJ. EMBARGOS DE DIVERGÊNCIA. NÃO CABIMENTO. INCIDÊNCIA DA SÚMULA N. 315/STJ. DECISÃO MANTIDA.
+1. A jurisprudência desta Corte está sedimentada no sentido de que "não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial", a teor do que dispõe a Súmula n. 315/STJ.
+2. No caso concreto, o acórdão embargado concluiu incidir a Súmula n. 7/STJ no que se refere à responsabilidade civil da agravada.
+3. Agravo interno a que se nega provimento.
+(AgInt nos EDv nos EREsp n. 1.862.661/SP, relator Ministro Antonio Carlos Ferreira, Segunda Seção, DJe de 16/4/2021.)
+Em face do exposto, não conheço dos embargos de divergência.
+Intimem-se.
