@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por TRESCINCO DISTRIBUIDORA DE AUTOMOVEIS LTDA em face da decisão que conheceu do agravo para não conhecer do recurso especial, em razão da aplicação de súmulas de admissibilidade recursal, nos termos do art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça.
+Em suas razões, sustenta a parte embargante que:
+Destarte, não é questionado o múnus do julgador de não acolher os embargos de declaração na origem, por ter compreendido não existirem vícios a serem sanados - em que pese terem sido acolhidos anteriormente - entretanto, não parece crível a imposição de multa, independentemente do valor, pela ausência de caráter protelatório, a qual revela a incorreta aplicação pelo eg. Tribunal a quo do §2º, art. 1.026 do CPC.
+Mais do que isso. A insegurança jurídica decorre principalmente do fato de que sobre os mesmos embargos de declaração, a primeira decisão foi no sentido de seu acolhimento in totum e a segunda, de modo diametralmente oposto, que seriam protelatórios, o que revela a incorreta aplicação pelo eg. Tribunal a quo do §2º, art. 1.026 do CPC.
+No limite, se o magistrado de origem decidisse por alterar o entendimento outrora exposto e, assim, rejeitar os embargos de declaração - o que, per se, é uma insegurança jurídica -, de modo algum poderia aplicar multa sobre os mesmos aclaratórios.
+Além disso, ainda que o magistrado compreendesse por não acolher os embargos, sua oposição foi essencial não apenas como exercício de direito, mas para prequestionamento da matéria, para que pudesse ser analisada posteriormente no agravo de instrumento.
+Acerca desse ponto, não há o que se falar em reexame fático pela simples análise pelo col. STJ de que os embargos de declaração possuíam notório propósito de prequestionamento e, dessa forma, os aclaratórios não tinham caráter protelatório - no exato molde da Súmula 98/STJ.
+Com o devido respeito, não exige-se análise fática para que ocorra uma simples análise do pedido de prequestionamento contido nos embargos de declaração, que (i) primeiro foram acolhidos, na primeira decisão; e (ii) posteriormente, na segunda decisão, não apenas foram rejeitados, sem que a questão fosse analisada, como houve a aplicação de multa.
+ ..
+Os precedentes acima revelam que a alegação de violação ao art. 1.026, §2º, do Código de Processo Civil, por si, não exige reexame fático, afastando-se o óbice da Súmula 7/STJ, vez que o recurso especial versou única e exclusivamente sobre matéria de direito, mais precisamente sobre a violação ocorrida do referido dispositivo legal.
+Como se vê, não se faz necessário entrar na subjetividade do julgamento, mas sim, na realidade jurídica vivenciada nos autos, que impunha um resultado diverso daquele constante do entendimento firmado na origem - valoração que é distinta ao reexame fático.
+ ..  (fls. 534/536).
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Registre-se que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, o EDcl no AgRg nos EREsp n. 1.315.507/SP, relator Ministro Luis Felipe Salomão, Corte Especial, DJe de 28/8/2014.
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se. Intimem-se.
