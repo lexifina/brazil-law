@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravointerposto por SARA NOVAES DOS SANTOS CORTEZINI e THIAGO CORTEZINIcontra decisão que inadmitiurecurso especial, este fundamentado na alínea "a" do permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado do Espírito Santo, assim ementado (e-STJ, fl. 350):
+"EMENTA: AGRAVO DE INSTRUMENTO - AÇÃO DE INDENIZAÇÃO - CADEIA DE FORNECEDORES - RESPONSABILIDADE SOLIDÁRIA - TEORIA DA ASSERÇÃO - NARRATIVA DA CONDUTA - HONORÁRIOS ADVOCATICIOS - RECURSO PARCIALMENTE PROVIDO.
+1 - Sendo a relação jurídica firmada entre as partes regulada pelo Código de Defesa do Consumidor, possuem responsabilidade solidáriapelo defeito na prestação do serviço todos os fornecedores da cadeia de serviço. Inteligência do art. 7ºdo CDC.
+2 - Com base na Teria da Asserção, deve o autor narrar a conduta ilícita praticada pelo réu, sob pena deste ser considerado ilegítimo para figurar no polo passivo da ação indenizatória.
+3 - Os honorários advocatícios devem ser fixados levando-se em consideração as diretrizes do art. 20, §3ºdo CPC.
+4 - Recurso conhecido e parcialmente provido."
+O referido acórdão julgou agravo de instrumento interposto contra decisão que, na ação de indenização ajuizada pelos ora recorrentes, acolheu a preliminar de ilegitimidade passiva, excluindo da lide AVANCE NEGÓCIOS IMOBILIÁRIOS S/A e PAULO SARDENBERG IMÓVEIS LTDA., prosseguindo a demanda somente em face de GOLDFARB PDG1 INCORPORAÇÕES LTDA.
+O TJES deu parcial provimento ao recurso, apenas para apontar como legítimos parafigurar no polo passivo da demanda GOLDFARB PDG1 INCORPORAÇÕES LTDA e AVANCE NEGÓCIOS IMOBILIÁRIOS S/A.
+Nas razões do recurso especial, os ora agravantes pedem a reinclusão na lide da empresa PAULO SARDENBERB IMÓVEIS LTDA.
+É o relatório. Decido.
+Supervenientemente à interposição do recurso especial, os recorrentesSARA NOVAES DOS SANTOS CORTEZINI e THIAGO CORTEZINI peticionaram nos autos (e-STJ, fls. 525/527), informando que: "a empresa GLOBAL CONSULTORIA IMOBILIÁRIA LTDA noticiou expressamente que sucedeu a empresa agravada SARDENBERG CONSULTORIA IMOBILIÁRIA LTDA.Nesta mesma petição, a GLOBAL também apresenta documentos que comprovam, sem margem de dúvidas, que é sucessora da empresa AVANCE NEGÓCIOS IMOBILIÁRIOS LTDA.Nos referidos documentos, a GLOBAL registra expressamente que é responsável por todo o ativo e passivo das duas empresas SARDENBERG e AVANCE (fls. 465 e ss), em conformidade com o art. 1.116 do Código Civil" (e-STJ, fl. 525).
+Pedem seja declarada a perda de objeto do presente recurso: "Considerandoque houve o trânsito em julgado do acórdão no que tange à manutenção da AVANCE no polo passivo da demanda; que esta empresa foi incorporada pela empresa GLOBAL; que a SARDENBERG também foi incorporada pela GLOBAL, verifica-se que houve PERDA DO OBJETO do presente agravo e do recurso especial, vez que a GLOBAL constará no polo passivo da demanda que aguarda julgamento em primeira instância" (e-STJ, fl. 526).
+Diante disso, observa-se que já não há interesse no julgamento do presenterecurso, em razão da inequívoca perda superveniente de objeto, fato reconhecido pelos próprios recorrentes.
+Ante o exposto, com fundamento no artigo 34, XI, do RISTJ, julgoprejudicado o recurso pela superveniente perda de objeto.
+Publique-se.
