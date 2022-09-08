@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto porADRIANO MORAIS DOS SANTOS contra acórdão do Tribunal de Justiça do Estado do Maranhão (Habeas Corpus n. 0809593-98.2022.8.10.0000).
+O recorrente foi preso em flagrante por suposta prática dos crimes de tráfico de drogas, associação para o tráfico e falsa identidade, sendo a prisão em flagrante convertida em preventiva. Impetrado habeas corpus perante a Corte de origem, a ordem foi denegada.
+Sustenta o recorrente excesso de prazo na formação da culpa, ao argumento de que a audiência de instrução e julgamento foi encerrada em 24/11/2021, sendo o julgamento convertido em diligência, que não foi inteiramente cumprida até o momento e, consequentemente, não houve abertura de prazo para que as partes pudessem apresentar alegações finais.
+Alegacarência de motivação idônea para a decretação emanutenção de sua constrição cautelar, ante a ausência dos requisitos autorizadores da medida extrema.Destaca a possibilidade de aplicação das medidas cautelares alternativas previstas no art. 319 do Código de Processo Penal.
+Requerseja concedida a sua liberdade, ainda que com a aplicação de medidas cautelares alternativas à prisão.
+O Ministério Público Federal manifestou-se pelodesprovimento do recurso ordinário em habeas corpus, com a recomendação ao juízo processante para que seja designada, com brevidade, a data de julgamento da sentença condenatória (fls. 385-388).
+É o relatório. Decido.
+Em informações prestadas pela Juíza de primeiro grau, verifica-se que proferida sentença em 25/8/2022, sendo concedida liberdade provisória ao recorrente, conforme o trecho a seguir (fl. 387, destaquei):
+Aos 25 de agosto de 2022 foi prolatada a sentença, absolvendo o Acusado Rick Kelvis dos Santos com fundamento no art. 386, V, do CPP dos crimes tipificados no artigo 33, caput, e art. 35, da Lei 11.343/06 E condenando Adriano Morais dos Santos nas sanções dos ilícitos previstos no artigo 33, caput, da Lei nº 11.343/06 e artigo 307 do Código Penal, na forma do artigo 69 do citado Código Penal. Ocasião em que concedeu ao réu Adriano Morais dos Santos o direito de recorrer em liberdade, tendo em vista que não se encontram mais preenchidos os motivos que embasaram a decretação de sua preventiva, considerando-se também o regime de cumprimento da pena. Bem como determinou a expedição de alvará de soltura em nome de Rick Kelvis dos Santos, considerando-se a absolvição nos presentes autos, devendo ser posto imediatamente em liberdade, se por outro motivo não estiver preso.
+Considerando a nova realidade fático-processual, evidencia-se a prejudicialidade do pedido ora formulado, tendo em vista a perda superveniente de objeto.
+Ante o exposto, julgo prejudicado o presente recurso em habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
