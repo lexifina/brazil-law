@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE GOIÁS contra decisão do TJGO, que inadmitiu o seu recurso especial.
+Consta dos autos que o agravado foicondenado à pena de 21 anos, 9 meses e 10dias, cumprindo, atualmente, pena remanescente de 4 anos, 4 meses e 7dias, no regime aberto domiciliar, sem o uso de tornozeleira eletrônica, tendo,durante o cumprimento da pena, cometido novos delitos tipificados pelos arts. 147, 329 e 331 do Código Penal, motivo pelo qual foi determinada a regressão cautelar para o regime fechado.
+Inconformada, a defesa impetrouhabeas corpus perante a Corte local, que concedeu a ordem para determinar que o reeducando fosse colocado em regime semiaberto.
+Interposto recurso especial pelo Parquet,com fulcro na alínea a do permissivo constitucional, este não foi admitido pela instância de origem em razão do óbice da Súmula 7/STJ, ensejando a presente insurgência, na qual o recorrente sustenta que o óbice indicado na decisão objurgada não incidiria in casu.
+Requer o provimento do agravo a fim de que seja conhecido e provido o recurso especial.
+O Ministério Público Federal manifestou-se pelo provimento do apelo nobre (e-STJ fs. 132-136).
+É o relatório.
+Devidamente impugnada a decisão objurgada, merece exame o inconformismo.
+No recurso especial, alegando contrariedade ao art. 118, I,da Lei de Execução Penal, o recorrente defende apossibilidade de regressão cautelar per saltum de regime de cumprimento de pena.
+Enfrentando a questão submetida ao crivo deste Sodalício, a Corte estadual assim se manifestou (e-STJ fls. 70-71):
+Não obstante a lei de execução penal legitime a regressão de regime em razão de falta grave praticada pelo apenado, é incontroverso que, em razão do sistema progressivo, a regressão deve ser gradativa, impondo-se, assim, a concessão da ordem para que seja fixado o regime gravoso intermediário, imediatamente anterior ao que se encontra, qual seja, o regime semiaberto.
+Tem-se que a modificação do modo de cumprimento da sanção "per saltum", do aberto, diretamente para o fechado, como aconteceu no caso em testilha, constitui medida excepcional. Deve, antes, o reeducando, passar para o regime intermediário, ou seja, o semiaberto.
+Em casos semelhantes à situação descrita nos autos, este Tribunal de Justiça enfrentou a questão, manifestando o entendimento de que a regressão "per saltum" ofende o princípio da proporcionalidade e razoabilidade.
+ ..
+Destarte, contém ilegalidade a decisão que, em incidente de execução penal, verificada a prática de falta grave pelo paciente, ainda que consistente em novo crime, decreta-lhe a regressão cautelar do regime penitenciário aberto para o fechado, sem a passagem pelo intermediário, o que configura involução saltada, devendo ser modificada para o semiaberto, conforme a interpretação da Súmula 491, do Superior Tribunal de Justiça. Não se desconhece que o cumprimento da pena no regime semiaberto, na circunstância atual, de pandemia, equivale praticamente ao regime aberto ou domiciliar, com vistas a evitar a disseminação da doença viral no presídio, mas isso não é motivo suficiente para a regressão per saltum, impondo-se a observância das regras e orientação jurisprudencial prevalecentes.
+Ao teor do exposto, desacolhido o parecer ministerial, conheço da ordem e a concedo, para determinar que o paciente seja colocado em regime prisional semiaberto.
+Da leitura do excerto transcrito, constata-se que o acórdão recorrido destoa do entendimento assente nesta Corte no sentido de que "o art. 118, I, da Lei 7.210, de 11/07/1984 (LEP), estabelece que o apenado ficará sujeito à transferência para o regime mais gravoso, mesmoper saltum,se praticar fato definido como crime doloso ou falta grave. Outrossim, o não cumprimento das condições impostas por ocasião do deferimento do regime aberto ao sentenciado caracteriza falta grave, implicando naregressãode regime prisional. Precedentes" (AgRg no HC n. 660.178/SP, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 17/8/2021, DJe de 20/8/2021.)
+No mesmo sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PRÁTICA DE NOVO DELITO NO CURSO DA EXECUÇÃO (POSSE OU PORTE ILEGAL DE ARMA DE FOGO DE USO RESTRITO). RECONHECIMENTO DE FALTA DISCIPLINAR DE NATUREZA GRAVE. REGRESSÃO DE REGIME PER SALTUM. POSSIBILIDADE. PRECEDENTES. RECURSO DESPROVIDO.
+1. Na espécie, o Agravante cumpre pena total de 7 (sete) anos, 6 (seis) meses e 15 (quinze) dias de reclusão, atualmente no regime fechado, com término previsto para 03/05/2026. O Juízo das Execuções reconheceu a prática de falta grave, haja vista o cometimento de novo delito, bem como determinou a regressão para o regime fechado.
+2. O Superior Tribunal de Justiça adota o entendimento de que é possível a regressão de regime per saltum, no caso de cometimento de falta grave no curso da execução penal, não havendo que se observar a forma progressiva prevista no art. 112 da Lei de Execução Penal.Precedentes.
+3. Agravo regimental desprovido.(AgRg no HC n. 740.078/MG, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 24/5/2022, DJe de 31/5/2022.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO. FALTAS GRAVES. PRÁTICA DE NOVO CRIME DOLOSO. DESCUMPRIMENTO DE CONDIÇÕES IMPOSTAS AO REGIME ABERTO. REGRESSÃO DE REGIME. POSSIBILIDADE. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+1. O art. 118, I, da Lei 7.210, de 11/07/1984 (LEP), estabelece que o apenado ficará sujeito à transferência para o regime mais gravoso, mesmo per saltum, se praticar fato definido como crime doloso ou falta grave. Outrossim, o não cumprimento das condições impostas por ocasião do deferimento do regime aberto ao sentenciado caracteriza falta grave, implicando na regressão de regime prisional.
+Precedentes.
+ ..
+3. Agravo regimental improvido;(AgRg no HC n. 660.178/SP, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 17/8/2021, DJe de 20/8/2021.)
+Por tais razões, conheço do agravo e dou provimento ao recurso especial, nos termos do art. 253, parágrafo único, II, c, do Regimento Interno do Superior Tribunal de Justiça, a fim de restabelecer a decisão que determinou a regressão do agravado ao regime fechado.
+Publique-se. Intimem-se
+Cientifique-se o Ministério Público Federal.
