@@ -1,0 +1,27 @@
+DECISÃO
+Infere-se do agravo de instrumento que deu origem ao presente recursoque JAIME VICTOR MANASTERIOS MORALES(JAIME) foi beneficiadopela ação civil pública intentada pelo INSTITUTO DE DEFESA DO CONSUMIDOR (IDEC) contra o BANCO DO BRASIL S.A. (BANCO DO BRASIL), nos termos da qual houve a condenação do réu a pagarosexpurgos inflacionários correspondentes aos titulares dos valores com atualização por índice ilegal.
+Iniciado o cumprimento individual de sentença, JAIME exigiu o adimplemento da obrigação, tendo o Juízo da causa acolhido em parte a impugnação ao pedido de cumprimento de sentença apresentada por BANCO DO BRASIL paraexcluir a incidência de juros remuneratórios e adoção de critério decorreção monetária diverso da Tabela Prática do TJSP.
+O agravo de instrumento foi desprovidopelo Tribunal de Justiça da Bahia, nos termos do acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. EXPURGOS INFLACIONÁRIOS. PLANO VERÃO.AJUIZAMENTO DO CUMPRIMENTO INDIVIDUAL DA SENTENÇA NO JUÍZO DE DOMICÍLIO DO POUPADOR OU NO DISTRITO FEDERAL.DESNECESSIDADE DE LIQUIDAÇÃO DO JULGADO E DE DILAÇÃO PROBATÓRIA. SIMPLES CÁLCULOS ARITMÉTICOS. RECURSO CONHECIDO E IMPROVIDO(e-STJ, fl. 154).
+Irresignado, o BANCO DO BRASIL interpôs recurso especial com fundamento no art. 105, III, a e c, da CF,sustentandoviolação dos arts. 17, 240, 485, VI, e 509, II, do NCPC, 1º, § 2º, da Lei nº 6.899/81, e 2º-A da Lei nº 7.347/85
+Sustentou, em síntese,(1)ausência decondição de associado para postular a execução de sentença proferida emação civil pública;(2) serimprescindível a prévia liquidação da sentença para a definição do quantum debeatur e também para aferição da titularidade do crédito e consequente formação do título executivo;(3) que o termo inicial dos juros de mora deveria ser contado a partir da citação nas liquidações/execuções individuais; e (4) quea atualizaçãodas diferenças somente pode ser feita de acordo com os índices oficiais aplicados às cadernetas de poupança.
+Em juízo de admissibilidade, a Segunda Vice-presidência doTribunal baiano admitiu o apelo nobre(e-STJ, fls. 276/281).
+É o relatório.
+DECIDO.
+De plano vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+(2)Da liquidação de sentença
+A Segunda Seção dessa Corte, no julgamento do EREsp n. 1.705.018/DF, firmou entendimento no sentido de que o cumprimento da sentença genérica proferida em ação civil pública que condena ao pagamento de expurgos em caderneta de poupança deve ser precedido pela fase de liquidação por procedimento comum para a definição da titularidade do crédito e do valor devido, assegurando-se a oportunidade de ampla defesa e contraditório pleno ao executado.
+Referido julgado negou provimento aos embargos de divergência mantendo o acórdão proferidopela Quarta Turma desta Corte, no julgamento do REsp nº 1.705.018/DF, da relatoria do Ministro LUIS FELIPE SALOMÃO, assim ementado:
+EMBARGOS DE DIVERGÊNCIA. EXECUÇÃO INDIVIDUAL DE SENTENÇA COLETIVA. EXPURGOS INFLACIONÁRIOS. NECESSIDADE DE PRÉVIA LIQUIDAÇÃO.
+1. A condenação oriunda da sentença coletiva é certa e precisa - haja vista que a certeza é condição essencial do julgamento e o comando da sentença estabelece claramente os direitos e as obrigações que possibilitam a sua execução -, porém não se reveste da liquidez necessária ao cumprimento espontâneo da decisão, devendo ainda ser apurados em liquidação os destinatários (cui debeatur) e a extensão da reparação (quantum debeatur). Somente nesse momento é que se dará, portanto, a individualização da parcela que tocará ao exequente segundo o comando sentencial proferido na ação coletiva.
+2. O cumprimento da sentença genérica que condena ao pagamento de expurgos em caderneta de poupança deve ser precedido pela fase de liquidação por procedimento comum, que vai completar a atividade cognitiva parcial da ação coletiva mediante a comprovação de fatos novos determinantes do sujeito ativo da relação de direito material, assim também do valor da prestação devida, assegurando-se a oportunidade de ampla defesa e contraditório pleno ao executado.
+3. Embargos de divergência não providos.
+(EREsp n. 1.705.018/DF, relatora Ministra Nancy Andrighi, relator para acórdão Ministro Luis Felipe Salomão, Segunda Seção, j. 9/12/2020, REPDJe de 5/4/2021, DJe de 10/02/2021.)
+(1, 3 e4)Da ilegitimidade ativa do poupador, do termo inicial dos juros de mora e da correção monetária
+Tendo em vista o reconhecimento da necessidade de liquidação da sentença coletiva, a análise das referidas questões fica prejudicada.
+Nessas condições, DOU PROVIMENTO ao recurso especial paradeterminar a prévia liquidação dasentença.
+Por oportuno, previnoque a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. IRRESIGNAÇÃO SUBMETIDA AO NCPC. AÇÃO CIVIL PÚBLICA. EXPURGOS INFLACIONÁRIOS. CUMPRIMENTO INDIVIDUAL DE SENTENÇA.LIQUIDAÇÃO DA SENTENÇA. NECESSIDADE.RECURSO ESPECIAL PROVIDO.
