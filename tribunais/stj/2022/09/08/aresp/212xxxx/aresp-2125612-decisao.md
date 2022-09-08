@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (e-STJ, fl.138 ):
+APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO.NEGATIVA DE PAGAMENTO. PRELIMINAR DE CARÊNCIA DE AÇÃO REJEITADA. TÍTULO EXECUTIVO EXTRAJUDICIAL. PECÚLIO (SEGURO DE VIDA). NO MÉRITO, ALEGAÇÃO DE NÃO CUMPRIMENTO DE PRAZO DE CARÊNCIA. CLÁUSULA RESTRITIVA NÃO DESTACADA. INOBSERVÂNCIA DO ART. 54, 8 4º, DO CDC PAGAMENTO DEVIDO. APELAÇÃO IMPROVIDA, SENTENÇA MANTIDA.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, a parte agravante aponta violação aos art. 585, III, do Código de Processo Civil de 1973; ao art. 784 do Código de Processo Civil; e ao art. 797do Código Civil.
+Sustenta que, quando do ajuizamento da presente ação de execução, a lei processual vigente era o CPC/73, de sorteque a execução foi fundada em seuart. 585, inciso III.
+Afirma que "oTribunal de Justiça de origem manteve a sentença sustentando que o contrato celebrado pelo falecido é passível de execução por se ASSEMELHAR AO SEGURO DE VIDA, todavia está completamente equivocado"(e-STJ, fl.164).
+Aduz que com relação à natureza do contrato celebrado pelo falecido, não se trata de seguro de vida, mas sim de um plano de pecúlioque não se enquadra no rol do art. 585 do CPC/73.
+Alega que inexiste abusividade na estipulação do prazo carencial de dois anos em razão da permissão prevista pelo art. 797 do CC.
+Contrarrazões apresentadas.
+Assim delimitada a controvérsia, passo a decidir.
+No caso, ao analisar a matéria, o Tribunal assim se manifestou (e-STJ, fls.139/142):
+Examino, inicialmente, a preliminar de carência de ação.
+Pois bem, o art. 757 do Código Civil define o seguro como o contrato pelo qual " ..  o segurador se obriga, mediante o pagamento do prêmio, a garantir interesse legítimo do segurado, relativo a pessoa ou coisa, contra riscos predeterminados ".
+Na espécie, a Apelante, mercê do percebimento de prestações mensais do de cujus, obrigou-se a pagar, em caso de morte deste, em parcela única, determinada importância em dinheiro a beneficiários previamente indicados por aquele.
+A similitude desse pacto com a definição legal de seguro é eloquente, nada dizendo com a complementação paga aos aderentes de plano de previdência privada, que de ordinário ingressam no fundo na qualidade de mantenedores e com isto capitalizam suas próprias reservas para delas usufruírem por ocasião da velhice, em prestações de trato sucessivo.
+Portanto, se "nas declarações de vontade se atenderá mais à sua intenção que ao sentido literal da linguagem "(art. 112, CC/02;art. 85, CC/16), o contrato acostado às fls. 27/34 da execucional, porque vocacionado ao pagamento de uma importância em dinheiro em caso de morte do participante (cláusula 4, fl. 27), mediante o pagamento de um prêmio, ostenta natureza jurídica de seguro de vida.
+Em suma, o contrato que está a base da execucional, muito embora tenha sido nominado "Plano de Pecúlio", trata-se contrato de seguro de vida e, por conseguinte, constitui título executivo extrajudicial, ex vido art. 585, III, do CPC (Cf: TJSC - ACv. n. , Rel:Des. Mazoni Ferreira).
+Nesse sentido:
+"AGRAVO DE INSTRUMENTO - EXECUÇÃO DE TÍTULO EXTRAJUDICIAL - EXCEÇÃO DE PRÉ-EXECUTIVIDADE NÃO ACOLHIDA - NATUREZA DO CONTRATO - SEGURO - PRESENÇA DOS REQUISITOS DE LIQUIDEZ CERTEZA E EXIGIBILIDADE. RECURSO NÃO PROVIDO.
+O contrato de pecúlio por morte apresentado, cujo objeto é o pagamento de valor em parcela única, por ocasião da morte do contratante, possui natureza jurídica de seguro, tratando-se, portanto, de título executivo extrajudicial.
+Presentes os pressupostos de liquidez, certeza e exigibilidade deve ser mantida a decisão que não acolheu exceção de pré-executividade (TJSC - AIn., Rel. Des. Dionízio Jenczak - grifei).
+Rejeito a preliminar, pois.
+"De meritis", tenho por injusta a recusa da seguradora em pagar a indenização em face da morte do segurado.
+Efetivamente, os documentos trazidos à colação socorrem ao direito dos Apelados, pois não se sustenta a recusa da Ré/Apelante, de modo que é presente o dever de efetuar-lhes o pagamento do benefício securitário pleiteado.
+É que, em que pese exista a cláusula prevendo carência de 2 (dois) anos, ao contrário do que alega a pessoa jurídica Apelante não se encontrava esta em destaque, cuja fonte e tamanho são os mesmos utilizados em todo o documento de fl. 27.
+Ademais, há um quadro no contrato firmado (fl. 27), que reporta à possibilidade de pagamento a partir do 6º mês de contratação, sem evidenciar a necessidade de preenchimento de eventual Declaração de Saúde. A propósito, observe-se que o documento referido, foi preenchido por terceira pessoa, certamente preposto da entidade seguradora, já que a letra é totalmente diversa da assinatura da contratante constante à fl. 28.
+Nesse sentido:
+(..)
+Logo, da análise dos autos infere-se que a matéria dispensa maiores considerações, posto que o douto Magistrado aplicou eficazmente o direito ao caso concreto, consoante se extrai do seguinte trecho da "sententia" "No presente caso, tendo sido redigida sem destaque, bem como não tendo a embargante demonstrado que o falecido/contratante, por ocasião da assinatura do contrato, tomou conhecimento da restrição do seu direito, a referida cláusula de carência deve ser considerada abusiva e, portanto, nula de pleno direito". (fl.67) E, com propriedade, com relação à abusividade da cláusula, ainda que estivesse em destaque, afirmou:
+"Ad argumentandum tantum, ainda que a clásula supra mencionada tivesse redigida com destaque, ainda assim, nos termos do art. 51, IV, do CDC, se relevaria plenamente nula uma vez que, ao determinar o período de carência para o evento morte natural, está o embargante impondo ao consumidor/embargado à renúncia de seus direitos, uma vez que, o risco futuro está sendo lançado para uma data mais incerta do que seja razoável vislumbrar." (fl. 67)
+Deste modo, evidente que o período de carência de dois anos para o caso de morte natural do segurado, traduz desvantagem excessiva ao consumidor e enriquecimento sem causa à seguradora, devendo ser declarada nula. "Tollitur Quaestio"
+Quanto à alegação de ausência de título executivo, a Corte local entendeu que o plano de pecúlio objeto da presente execução preenche os requisitos do art. 585 do CPC/73, equiparando-se a seguro de vida.
+Com efeito, modificar a conclusão daCorte estadual, no sentido que o contrato de pecúlio da parte recorrida se assemelha a um contrato de seguro, possuindo os requisitos necessários de um título executivo judicial, demandaria oreexame do conjunto fático probatório e de análise de cláusulas contratuais, de maneira a incidir osóbicesdas Súmulas 5 e 7 do STJ. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. LIQUIDEZ, CERTEZA E EXIGIBILIDADE DO TÍTULO EXECUTIVO EXTRAJUDICIAL. TÍTULO DE PECÚLIO. ANÁLISE DE CLÁUSULA CONTRATUAL. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULAS 5 E 7/STJ. REGIMENTAL NÃO PROVIDO.
+1. Tendo o Tribunal de origem concluído que o título de pecúlio se assemelha a um contrato de seguro, ostentado liquidez, certeza e exigibilidade, nos termos do art. 585 do CPC, não há falar em conhecimento do recurso. Incidência das Súmulas 5 e 7/STJ.
+2. A matéria referente aos arts. 5º, "f", 6º, "f" e "h", parágrafo único, do Decreto-Lei n. 806/1969 não foi objeto de discussão no acórdão recorrido, apesar da oposição de embargos de declaração, não se configurando o prequestionamento, o que impossibilita a sua apreciação na via especial (Súmulas 282/STF e 211/STJ).
+3. A recorrente não cumpriu o disposto § no 2º do art. 255 do RISTJ, pois a demonstração da divergência não se satisfaz com a simples transcrição de ementas, mas com o confronto entre trechos do acórdão recorrido e das decisões apontadas como divergentes, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados. Além disso, a conclusão de que se trata de título executivo foi fundada em fatos, provas e termos contratuais, o que, inclusive, inviabiliza a demonstração da similitude fática.
+4. Agravo regimental não provido.
+(AgRg no REsp 1327558/SC, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 27/10/2015, DJe 05/11/2015)
+Ademais, com relação à tese de ausência de abusividade na estipulação do prazo carencial de dois anos, verifico que, embora exista previsão legal a amparar tal limitação, conforme preceitua o art.797do Código Civil, a Corte local afastou o prazo de carência em razão do descumprimento denormas consumeristas.
+Dessa forma, o fundamento do acórdão recorrido quanto àabusividade da cláusulade carência que foiredigida sem destaque, não foi impugnado pela recorrente, de forma a atrair o disposto no verbete n. 283 da Súmula do Supremo Tribunal Federal.
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
