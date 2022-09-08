@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de LEANDRO SILVA DA CONCEICAOem que se aponta como autoridade coatora oTribunal de Justiça do Estado do Rio de Janeiro(HC n. 0037494-25.2022.8.19.0000).
+Opaciente teve a prisão em flagrante- ocorrida em 28/7/2020-convertida em preventiva a pedido do Ministério Público(fls. 37-40) por suposta prática do delito descrito no arts. 121, § 2º, II e IV, c/c o art. 14, II, e 129, na forma do art. 69 todos do Código Penal.
+O decreto prisional fundou-se na gravidade concreta da conduta-o custodiadosem qualquer motivo aparente, desferiu um chute na perna da vitima. Em seguida,desferiu socos no rosto da vítima. Nessa ocasião, a vítima Luiz Henrique conseguiu conter o custodiado  .. o custodiado lesionou a vítima Luiz Henrique no joelho, no cotovelo e conseguiu fugir do local  .. Após os agentes saírem do local, o custodiado reapareceu em posse de um tijolo de alvenaria, com o qual desferiu um golpe na cabeça da vítima Edmilson, que caiu no chão desacordado-, além deameaçarmatar as testemunhas quando fosse solto, e no fato pacienteostentar anotação em sua folha de antecedentes por lesão corporal (fls. 38-39).
+Impetrado writ originário, a ordem foi denegada.
+A defesa alega que o paciente está sendo vítima de constrangimento ilegal, porquanto configurado excesso de prazo na formação da culpa.
+Esclarece que o paciente está preso há mais de 2 anos, sem que hajaprevisão para término da instrução processual, tampouco que seja prolatada sentença de pronuncia.
+Justifica queno dia 2/6/2022, o Juízo de natural,designou para o dia 21/9/2022 a continuação da Audiência de Instrução e Julgamento, em virtude o Ministério Publico ter insistido na oitiva de uma testemunha.
+Afirma que para a manutenção da custódia preventiva devem restar fundamentadamente excluídas todas as demais medidas cautelares previstas no art. 319do CPP, o que não seria o caso em tela.
+Sustenta que o prazo máximo para o encerramento da instrução criminal, é de 148 diasconforme o Manual Prático de Rotinas das Varas Criminais e de Execução Penal do CNJ.
+Pondera quehá contrassenso à razoabilidade e à celeridade na dinâmica procedimental, além de violação dos princípios da presunção de inocência.
+Defende quea manutenção da decisão que secombate fará com que o paciente responda a boa parte do processo no cárcere, o que caracteriza cumprimento antecipado de pena.
+Requer, liminarmente e no méritoa revogação da prisão preventiva do paciente subsidiariamentea imposição demedidas cautelares alternativas.
+É o relatório. Decido.
+Ainda que inadequada a impetração de habeas corpus em substituição à revisão criminal ou ao recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o STJ considera passível de correção de ofício o flagrante constrangimento ilegal.
+Nos casos em que a pretensão esteja em conformidade ou em contrariedade com súmula ou jurisprudência pacificada dos tribunais superiores, a Terceira Seção desta Corte admite o julgamento monocrático da impetração antes da abertura de vista ao Ministério Público Federal, em atenção aos princípios da celeridade e da efetividade das decisões judiciais, sem que haja ofensa às prerrogativas institucionais do parquet ou mesmo nulidade processual (AgRg no HC n. 674.472/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 10/8/2021; AgRg no HC n. 530.261/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 7/10/2019).
+Sendo essa a hipótese dos autos, passo ao exame do mérito da impetração.
+Consoante a jurisprudência do STJ, "a aferição do excesso de prazo reclama a observância da garantia da duração razoável do processo, prevista no art. 5º, LXXVIII, da Constituição Federal. Tal verificação, contudo, não se realiza de forma puramente matemática" (AgRg no RHC n. 123.274/RJ, relator Ministro Antonio Saldanha Palheiro, DJe de 4/8/2020).
+Assim, devem ser sopesados o tempo de prisão provisória, as peculiaridades da causa, sua complexidade e outros fatores que eventualmente possam influenciar no curso da ação penal.
+Na situação dos autos, o Tribunal de origem manifestou-se da seguinte forma (fls. 31-32, destaquei):
+No dia 27/04/2022 teve início a instrução criminal, com oitiva de testemunhas, designando-se a continuação para 02/06/2022.
+Na ocasião, compareceu a testemunha faltante Marcio Novaes da Silva, arrolada pelo Ministério Público, não sendo o acusado apresentado pela SEAP. A Defesa não concordou com a oitiva da testemunha sem a presença do acusado. Desse modo, o ato foi redesignado para 21/09/2022.
+Como é cediço, em que pese a fixação, pelo legislador, de balizas temporais para o término da instrução criminal, a ocorrência ou não de excesso de prazo na tramitação processual deve ser avaliada de acordo com as circunstâncias de cada caso concreto, tendo-se em mira a razoabilidade e a proporcionalidade, considerando-se, para tanto, a deflagração da ação penal, as diligências reputadas como imprescindíveis à apuração dos fatos, a atuação das partes, bem como o estado em que se encontra o processo.
+ ..
+No caso, em que pese não se extrair do feito a celeridade desejada, não se verifica, por ora, delonga injustificada capaz de configurar o excesso de prazo, impondo-se o aguardo audiência designada para 21/09/2022.
+Logo, não há que se falar em ilegalidade da prisão por excesso de prazo, ao menos por ora, sem prejuízo do reexame da situação prisional do paciente caso a audiência não venha a se realizar na data designada.
+O entendimento acima está em consonância com a jurisprudência do STJ de que, "não havendo notícia de  ..  ato procrastinatório por parte das autoridades públicas, consideradas as especificidades da causa e estando próximo o término da instrução criminal, não há falar em excesso de prazo na espécie" (RHC n. 102.868/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 12/3/2019).
+Além disso, "os prazos processuais previstos na legislação pátria devem ser computados de maneira global e o reconhecimento do excesso deve-se pautar sempre pelos critérios da razoabilidade e da proporcionalidade (art. 5º, LXXVIII, da CF), considerando cada caso e suas particularidades" (AgRg no HC n. 588.513/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 4/8/2020).
+Portanto, não se constata a existência de flagrante constrangimento ilegal que autorize a atuação ex officio.
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do presente habeas corpus, ficando prejudicado o pedido de liminar.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
