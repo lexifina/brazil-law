@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por CAOA MONTADORA DE VEÍCULOS LTDA. O apelo extremo, fundamentado no art. 105, III, "a" e "c", da Constituição Federal, insurge-se contra acórdão do Tribunal de Justiça do Estado de Goiás assim ementado:
+"AGRAVO DE INSTRUMENTO. CUMPRIMENTO PROVISÓRIO DE SENTENÇA. SEGURO GARANTIA COM PRAZO DE VALIDADE DETERMINADO. INIDONEIDADE. PRECEDENTES DO COLENDO SUPERIOR TRIBUNAL DE JUSTIÇA E DESTE EGRÉGIO SODALÍCIO. DECISÃO MANTIDA.
+1. Conforme a jurisprudência pacífica do colendo Superior Tribunal de Justiça e deste egrégio Tribunal de Justiça, o oferecimento de apólice de seguro garantia ou de carta de fiança bancária com prazo de validade determinado, sem aceitação do credor, não se presta à garantia da execução, pois, com a longa duração de um processo judicial, pode haver o risco de inexistirem efeitos práticos à garantia oferecida.
+2. No caso dos autos a executada ostenta grande capacidade financeira, não sendo prejudicada pela restrição sobre imóvel ou penhora online. Por outro lado, o seguro garantia judicial ofertado em substituição não garante à exequente tanto quanto a penhora em dinheiro, até porque, além da natural dificuldade processual de satisfação de garantia, dadas as possibilidades recursais, no caso concreto, o seguro garantia está submetido a validade determinada.
+3. AGRAVO DE INSTRUMENTO CONHECIDO, MAS DESPROVIDO. AGRAVO INTERNO PREJUDICADO" (e-STJ fl. 341).
+Os embargos de declaração opostos na origem foram rejeitados.
+No recurso especial (e-STJ fls. 385-434), a recorrente aponta, além de divergência jurisprudencial, violação dos arts. 8º, 11, 489, § 1º, IV e V, 520, IV, 805, 835, § 2º, e 1.022, II, do Código de Processo Civil de 2015 e 760 do Código Civil.
+Alega, em síntese, que: a) o órgão julgador incorreu em negativa de prestação jurisdicional ao deixar de enfrentar os questionamentos formulados nos embargos de declaração; b) a previsão de prazo de validade do Seguro Garantia decorre de exigência legal, mas que tal estipulação não prejudica a liquidez da garantia, tendo em vista que está sujeita a renovação compulsória e automática; c) mesmo que o trânsito em julgado de decisão final da ação de cobrança demore anos para ocorrer, o crédito ainda assim estará plenamente garantido; d) o condicionamento do pagamento da indenização securitária ao trânsito em julgado da decisão final na ação de cobrança se mostra irrelevante, dado que eventual levantamento de valores no cumprimento provisório de sentença se sujeita, senão à mesma condição, ao menos à apresentação de caução pelo exequente; e) o seguro garantia representa garantia idônea, líquida e suficiente, sendo inclusive equiparado ao dinheiro, além de compatibilizar os interesses do credor à menor onerosidade do devedor.
+Apresentadas as contrarrazões (e-STJ fls. 680-696), o recurso foi inadmitido na origem, resultando daí o presente agravo, no qual se busca o processamento do apelo nobre.
+É o relatório.
+DECIDO.
+Verifica-se estarem presentes os pressupostos de admissibilidade doagravo.
+Por tal motivo, e por entender que a matéria merece melhor exame, douprovimento ao agravo para determinar a sua reautuação como recursoespecial, nos termos do art. 34, XVI, do Regimento Interno doSuperior Tribunal de Justiça.
+Publique-se.
+Intimem-se.
