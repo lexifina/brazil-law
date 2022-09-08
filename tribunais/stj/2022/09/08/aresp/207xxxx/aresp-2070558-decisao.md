@@ -1,0 +1,50 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo em recurso especial interposto por JOAO BOSCO DA SILVA OLIVEIRAcontra decisão do Tribunal de Justiça do Distrito Federal e Territórios, que não admitiu recurso especial manejado contra acórdão assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DE REVISÃO DE CONTRATO. CARTÃO DE CRÉDITO CONSIGNADO. PAGAMENTO MÍNIMO. LEGALIDADE. AUSÊNCIA DE ABUSIVIDADE. OBSERVÂNCIA DO DEVER DE INFORMAÇÃO. APELAÇÃO CONHECIDA E DESPROVIDA.
+1. O código consumerista assegura "a informação adequada e clara sobre os diferentes produtos e serviços, com especificação correta de quantidade, características, composição, qualidade, tributos incidentes e preço, bem como sobre os riscos que apresentem" (art. 6º, III do CDC). Assim sendo, deve o contrato de prestação de serviço financeiro especificar, de forma clara e suficiente, os serviços contratados.
+2. Evidenciado o esclarecimento das condições contratadas, a conformidade com as cláusulas do negócio jurídico e observado o direito de informação, afasta-se a sua nulidade, que deverá ser cumprido pela consumidora conforme pactuado.
+3. APELAÇÃO CONHECIDA E DESPROVIDA. (e-STJ, fl. 275)
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial a parte alega violação ao (i) artigo 1.022, incisos I e II, do Código de Processo Civil, sustentando que a turma julgadora, mesmo instada a fazê-lo, por intermédio dos embargos de declaração, não sanou os vícios apontados, ficando caracterizada a deficiência na prestação jurisdicional; (ii) aos artigos 6º, inciso III, 46, 52, 54-B e 54-D, todos do Código de Defesa do Consumidor, asseverando não ser válido o contrato entabulado pelas partes, porquanto não houve a informação prévia e adequada ao consumidor acerca do valor da parcela, juros e encargos moratórios; (iii) aoartigo 51, inciso IV, do Código de Defesa do Consumidor, defendendo que a consignação por cartão de crédito implica em desvantagem exagerada imposta ao consumidor, uma vez que as informações a respeito dos descontos não estaria claras; e (iv) aosartigos 6º, incisos III e VIII, do Código de Defesa do Consumidor, e 373, inciso II e §1º, e 400, ambos do Código de Processo Civil, argumentando que o recorrido não se desincumbiu de seu ônus de comprovar que o recorrente obteve a ciência inequívoca dos termos contratuais, razão pela qual deve ser aplicada a presunção de veracidade dos fatos alegados pelo insurgente. Aponta, no aspecto, divergência jurisprudencial, colacionando julgados do TJMG e do STJ.
+As contrarrazões foram apresentadas (e-STJ, fls. 393/405).
+É o relatório.
+Decido.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à analise do recurso especial.
+Inicialmente, no que tange à alegada violação do art. 1.022 do Código de Processo Civil de 2015, constato não estar configurada a sua ocorrência.
+Ocorre que o Tribunal de origem assim se manifestou acerca da controvérsia:
+Inicialmente, salienta-se que, mesmo com ausência de contrato físico com assinatura das partes, ficou comprovada a celebração do contrato entre as partes, que ocorreu por meio de ligação telefônica, conforme demonstra a gravação juntada na peça de defesa, ID 19378959 - Pág. 6.
+Na ocasião, o demandante ouviu as condições sobre o crédito ofertado, forneceu à instituição financeira os seus dados pessoais e confirmou o seu interesse em realizar o contrato. Após a celebração do contrato, a instituição financeira enviou ao autor o respectivo regulamento.
+No regulamento do cartão consignado consta todas as informações sobre as condições de regência, o que evidencia que a informação sobre a modalidade do negócio jurídico foi adequadamente prestada ao consumidor (ID 19378944). Por sua vez, assim estabelece a cláusula 1.7 do regulamento:
+"1.7. CONSIGNAÇÃO: É a forma através da qual será efetuado o pagamento do valor mínimo indicado na fatura conforme opção excedida pelo TITULAR no momento da assinatura do TERMO DE ADESÃO. A opção pelo TITULAR por esta modalidade de pagamento permitirá com que o EMPREGADOR/AVERBADOR/CONVENIADO efetue um desconto sobre o valor do salário/vencimentos/benefícios de aposentaria/pensão do TITULAR, nos termos da autorização concedida pelo mesmo no momento da contratação do CARTÃO e em observância às regras constantes no convênio firmado entre o EMISSOR e o AVERBADOR/CONVENIADO, sendo o valor descontado utilizado para pagamento do valor mínimo indicado na fatura." (ID 19378944 - Pág. 1)
+Consoante a planilha apresentada pela instituição financeira, o pagamento mínimo debitado da folha de pagamento do autor era superior ao montante cobrado a título de encargos, razão pela qual houve diminuição da dívida mês a mês (ID 19378960 - Pág. 48/52).
+Conforme se vê, o contrato celebrado assegurou o direito à informação adequada e clara sobre as condições pactuadas, com especificação correta da sua modalidade, tributos incidentes e forma de pagamento, em observância à norma insculpida no artigo 6º, inciso III, da Lei nº 8078/90. Assim, não se pode impingi-lo de abusivo, razão pela qual fica afastada a hipótese de ilegalidade. (e-STJ, fl. 279 - grifou-se)
+Por ocasião do julgamento dos embargos de declaração opostos, as razões acima foram confirmadas.
+Da leitura dos trechos acima transcritos, verifica-se que a Corte estadual julgou fundamentadamente a matéria devolvida à sua apreciação, expondo as razões que levaram às suas conclusões quanto à presença de informação adequada e clara quanto às condições pactuadas e ausência de abusividade.
+Portanto, a pretensão ora deduzida, em verdade, traduz-se em mero inconformismo com a decisão posta, o que não revela, por si só, a existência de qualquer vício nesta.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA. SEGURO DE VIDA EM GRUPO. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO VERIFICADA. 2. COBERTURA DE INVALIDEZ FUNCIONAL PERMANENTE TOTAL POR DOENÇA. INTERPRETAÇÃO SOB A LUZ DO CÓDIGO DE DEFESA DO CONSUMIDOR. DESCUMPRIMENTO DO DEVER DE INFORMAÇÃO ACERCA DOS LIMITES DA COBERTURA CONTRATADA. RECONHECIMENTO NA ORIGEM. INCIDÊNCIA DAS SÚMULAS 5 E 7/STJ. 3. PEDIDO DE APLICAÇÃO DE MULTA PREVISTA NO ART. 1.021, § 4º, DO CPC/2015. NÃO CABIMENTO. 4. LITIGÂNCIA DE MÁ-FÉ. INEXISTÊNCIA. 5. AGRAVO IMPROVIDO.
+1. Não há violação ao art. 1.022 do CPC de 2015, porquanto o acórdão recorrido dirimiu a causa com base em fundamentação sólida, sem nenhuma omissão ou contradição. Ademais, o órgão julgador não está obrigado a responder a questionamentos das partes, mas apenas a declinar as razões de seu convencimento motivado, o que de fato ocorreu nos autos.
+ ..
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp 1697809/SC, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 05/12/2017, DJe 19/12/2017, grifou-se)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. LEVANTAMENTO DE GRAVAME. DESCUMPRIMENTO DE ACORDO HOMOLOGADO JUDICIALMENTE. DANO MORAL. VIOLAÇÃO AO ARTIGO 1.022 DO CPC/2015. NÃO OCORRÊNCIA. VALOR INDENIZATÓRIO. PROPORCIONALIDADE E RAZOABILIDADE. MANUTENÇÃO. ENTENDIMENTO ADOTADO NESTA CORTE. HONORÁRIOS ADVOCATÍCIOS. REVISÃO DO VALOR. REEXAME DE MATÉRIA FÁTICA DA LIDE. SÚMULA N. 7 DO STJ.
+1. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla e fundamentada, apenas que contrariamente ao pretendido pela parte, deve ser afastada a alegada violação ao art. 1.022 do Código de Processo Civil/2015.
+ ..
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1098101/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 28/11/2017, DJe 04/12/2017, grifou-se)
+Nesta perspectiva, conforme as razões fáticas dos autos acima expostas,acerca dalegalidadeda contratação, o Tribunal de origem, pautado nas provas constantes dos autos, concluiu queforam prestadas asinformaçõesnecessárias a respeito do tipo de contrato que seria realizado entre as partes, afastando a nulidade do contrato.
+Nesse prisma, rever o entendimento firmado no acórdão recorrido encontra óbice nas Súmulas 5 e 7 do STJ.
+Desse modo, verifica-se que o Tribunal de origem, pautado nas provas constantes dos autos, concluiu que não foram prestadas asinformaçõesnecessárias a respeito do tipo de contrato que seria realizado entre as partes, reconhecendo a nulidade do contrato, inclusive em razão de ato comercial desleal. Nesse prisma, rever o entendimento firmado no acórdão recorrido encontra óbice nas Súmulas 5 e 7 do STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CARTÃO DE CRÉDITO.ABUSIVIDADE.AFERIÇÃO. REEXAME DO CONTRATO E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. DECISÃO MANTIDA.
+1. O recurso especial não comporta o exame de questões que impliquem interpretação de cláusula contratual ou revolvimento do contexto fático-probatório dos autos (Súmulas n. 5 e 7 do STJ).
+2. O Tribunal de origem, com base na interpretação dos elementos de convicção anexados aos autos, concluiu pela caracterização do contrato como de cartão de crédito, pela ciência da parte quanto à modalidade de contratação e pela inexistência de abuso na taxa de juros remuneratórios praticada. A alteração das conclusões do julgado demandaria o reexame da matéria fática, o que é vedado em sede de recurso especial.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1518620/MG, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 17/02/2020, DJe 20/02/2020 - grifou-se)
+Advirta-se que eventual recurso interposto contra este decisum estará sujeito às normas do CPC/2015 (cf. Enunciado Administrativo n. 3/STJ).
+Ante o exposto, conheço oagravo para conhecer parcialmente o recurso especial e, nesta extensão, negar provimento aorecurso especial.
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. CARTÃO DE CRÉDITO. FALHA NAINFORMAÇÃOAO CONSUMIDOR. AFASTADA. LEGALIDADE DA CONTRATAÇÃO. REEXAME DO CONTRATO E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ.
+AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE O RECURSO ESPECIAL, E NESTA EXTENSÃO,NEGAR PROVIMENTO.
