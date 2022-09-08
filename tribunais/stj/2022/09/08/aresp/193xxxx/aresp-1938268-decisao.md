@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se de agravo interposto por REGINA LEITE DA SILVA contradecisão do Tribunal de Justiça do Estado de São Paulo, que inadmitiu o recurso especial, fundamentado no art. 105, inciso III, alínea a, da Constituição da República, manifestado contra o acórdão prolatado na Apelação Criminal n. 0001508-56.2016.8.26.0022.
+Consta nos autos que a Agravante foi condenada, em primeiro grau, como incursa no art. 140, § 3.º, do Código Penal, à pena de 1 (um) ano e 4 (quatro) meses de reclusão, em regime aberto, mais o pagamento de 13 (treze) dias-multa.
+Contra a sentença a Defesa interpôs apelação, que não foi provida (fls. 362-368).
+Os embargos de declaração opostos foram rejeitados (fls. 390-393).
+Nas razões do recurso especial, a Defesa alega ofensa aos arts. 381, inciso III, e 619, ambos do Código de Processo Penal, "diante da constatada falta de declaração nos Embargos Declaratórios opostos para sanar a incontestável ausência de qualquer menção e cotejo relativo a presença nosautos do depoimento de duas testemunhas presenciais que negaram (taxativamente) a própria ocorrência do fato antijurídico no dia, local e período temporal colocado na peça acusatória" (fls. 377/378).
+Sustenta contrariedade ao art. 383,caput, do Código de Processo Penal, "em razão da quebra do princípio da correlação, na medida em que o aresto hostilizado chancela decisão extra petita ao não guardar a perfeita correspondência entre o fato/situação temporal e espacial imputado à Recorrente na denúncia e o fato/situação temporal e espacial identificado pelos julgadores no acórdão" (fl. 378).
+Afirma que "não fora oportunizado à Defesa a produção de prova com relação a supostos fatos que teriam ocorrido em datas e momentos distintos do objeto da peça inaugural acusatória" (fl. 383).
+Oferecidas contrarrazões (fls. 401-412). Inadmitido o recurso (fls. 415/416), adveio o presente agravo (fls. 419-426), contraminutado às fls. 429-434.
+O Ministério Público Federal opinou pelo "conhecimento do agravo para conhecer o recurso especial e, no mérito, negar-lhe provimento" (fl. 449).
+É o relatório.
+Decido.
+Evidenciada a viabilidade do agravo, prossegue-se na análise do recurso especial.
+No que diz respeito à contrariedade aos arts. 381, inciso III, e 619, ambos do Código de Processo Penal, verifica-se que o Tribunal de origem apresentou fundamentos suficientes para rejeitar os aclaratórios opostos pela Defesa.
+A propósito, da atenta leitura do acórdão recorrido, constata-se que o Tribunal a quo solucionou a quaestio juris de maneira clara e coerente, pois ressaltou a existência de prova suficiente para a condenação da Agravante pela prática do crime do art. 140, § 3.º, do Código Penal, tendo em vista, em especial, o depoimento da Vítima e de seu filho(fls. 365/366; sem grifos no original):
+"Em solo policial, REGINA negou as agressões verbais, disse que não ofendeu a vítima. Foi Fátima quem veio em sua direção para agredi-la, mas as filhas da declarante intervieram (fls. 21).
+Em Juízo, REGINA disse que naquela data se dirigia até a casa de sua patroa, quando a vítima, munida de um pedaço de pau, a esperava. Fátima foi para cima de suas filhas, vindo a fraturar o braço após uma queda. Fátima fica brava toda vez que a interroganda se deslocava para chamar seu marido na residência dela.
+Suas escusas não mereciam mesmo vingar, pois rechaçadas pelo restante das provas, em especial as testemunhas ouvidas em contraditório.
+Fátima disse que há algum tempo REGINA vinha lhe injuriando, quando passava próximo de sua residência, se deslocando ao seu trabalho, chamando-a de "negra, imunda", além de dizer que "lugar de macaco é na árvore quebrando o galho e não no chão", por acreditar ser avítima amante de seu marido. No domingo, após chegar do serviço, REGINA avistou a declarante e, com a rua cheia de gente, disse: "macaca, negra, suja, imunda, você rouba todo o dinheiro do meu marido, negra suja, negra imunda".
+Disse, ainda, que o marido de REGINA é alcoólatra e distribui dinheiro para o povo que está no bar, levando até mesmo para o marido da declarante, acreditando que por isso REGINA acha que ela é amante de seu marido.
+Luis Carlos, marido da vítima, narrou que REGINA sempre ofendia sua mulher, chamando-a de "negra, suja, macaca". No dia dos fatos não presenciou tais ofensas.O marido de REGINA tinha muita amizade com eles e frequentava a residência deles, o que enciumava REGINA, no mesmo sentido o depoimento do filho da vítima, Everton de Angeli. Este disse que REGINA havia injuriado sua mãe, chamando a de "King Kong, negra suja", dizendo que ela tinha que "subir na árvore", chamando-a de "macaca", não sendo a primeira oportunidade.
+Portanto, não resta dúvida de que as provas reunidas são mais que suficientes para escorar a condenação lançada, como bem registrou a r. sentença, onde se destacou que "as partes contavam com animosidade acirrada datada de tempos"."
+Vale ressaltar que, ainda que a Agravante entenda equivocada ou insubsistente a fundamentação que alicerça o acórdão recorrido, isso não implica, necessariamente, que esta seja ausente. Há significativa distinção entre a decisão que peca pela inexistência de fundamentos e aquela que traz resultado desfavorável à pretensão do litigante.
+A jurisprudência desta Corte Superior de Justiça é firme no sentido de que o órgão judicial, para expressar sua convicção, não está obrigado a aduzir comentários a respeito de todos os argumentos levantados pelas partes, quando decidir a causa com fundamentos capazes de sustentar sua conclusão.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AO ART. 619 DO CÓDIGO DE PROCESSO PENAL. EIVA INEXISTENTE. ACÓRDÃO ESTADUAL QUE DECIDIU A QUESTÃO DE FORMA FUNDAMENTADA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. AGRAVO IMPROVIDO.
+1. No recurso especial, a parte pretende a declaração de nulidade do acórdão recorrido por ofensa ao art. 619 do CPP, ao argumento de que o Tribunal a quo não teria se manifestado em relação à omissão apontada pelo agravante.
+2. É cediço que o puro e simples inconformismo do recorrente com a solução dada pela Corte a quo à controvérsia não dá ensejo à oposição de embargos de declaração.
+3. O julgador não está obrigado a refutar expressamente todos os argumentos declinados pelas partes na defesa de suas posições processuais, desde que pela motivação apresentada seja possível aferir as razões pelas quais acolheu ou rejeitou as pretensões deduzidas.
+4. Na hipótese dos autos não se vislumbra a aventada negativa de prestação jurisdicional pela Corte a quo no julgamento dos embargos declaratórios, uma vez que foram refutadas todas as alegações do réu, ainda que de forma contrária aos interesses da defesa.
+ ..
+Agravo improvido." (AgRg no AREsp 463.300/PR, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 13/03/2018, DJe 23/03/2018.)
+No mesmo sentido, confira-se o seguinte trecho do parecer apresentado pelo Ministério Público Federal (fl. 449; sem grifos no original):
+"A ausência de menção expressa a duas testemunhas da defesa - Sr. Antônio Lázaro e Sra. Maria de Lourdes - não configura os vícios apontados no presente recurso especial, nem violação aos arts. 381, III, e 619, ambos do CPP, já que o Tribunal de origem fez menção expressa aos elementos probatórios em que se fundou sua decisão pela manutenção do decreto condenatório."
+Em relação à suposta ofensa ao art. 383,caput, do Código de Processo Penal, o Tribunal de origem destacou o seguinte:
+"A preliminar não vinga. A r. sentença não padece de qualquer vício.
+A denúncia é clara, descreve o fato imputado, suas circunstâncias e aponta o rol de testemunhas.
+A ré REGINA, ao final, foi condenada pelo crime descrito na peça matriz, injúria racial.
+Onde a incongruência " (Fl. 364; sem grifos no original)
+"Todas as teses apesentadas no apelo, preliminar e mérito, foram sopesadas e encontram-se decididas no v. Acórdão basta a simples leitura, claro que com olhos de quem quer ler.
+Constam os motivos pelos quais foi mantida a condenação pelos fatos injuriosos que ocorreram naquele dia, 05 de março de 2015, conforme descreve a denúncia, mas os autos revelam que as injurias raciais também ocorreram em outras oportunidades, havia animosidade entre ré e vítima desde longa data." (Fl. 392; sem grifos no original)
+Consta dos autos que a Agravante "foi denunciada pelo Ministério Público do Estado de São Paulo, como incursa no art.140, § 3º, do Código Penal, acusada de ter, no dia 05 de março de 2016, por volta das 14h00min, na Rua João Rodrigues Fontes, 21, Jardim América, nesta cidade e Comarca, injuriado, utilizando elementos referentes à raça, Fátima Aparecida Rodrigues" (fl. 290).
+Constata-se que, na hipótese, a Recorrente foi condenada precisamente pelo fato delituoso descrito na peça acusatória, pois o Magistrado singular consignou que a "Vítima e a testemunha Everton bem salientaram as expressões indecorosas e absolutamente reprováveis verbalizadas pela ré" (fl. 294), bem como registrou que " n ão restam dúvidas, pelo teor das ofensas e contexto fático da ocorrência, que a ré buscou aviltar, em público, a honra da vítima, menosprezando-a quanto à sua raça" (fl. 294).
+Nesse sentido:
+"PROCESSO PENAL. AGRAVO REGIMENTAL. DECISÕES PROFERIDAS NA 2ª INSTÂNCIA. IMPUGNAÇÃO A TODOS OS SEUS FUNDAMENTOS. INEXISTÊNCIA. INADMISSIBILIDADE. DENÚNCIA. REQUISITOS. PRESENÇA. CORRELAÇÃO ENTRE ACUSAÇÃO E SENTENÇA. EMENDATIO LIBELLI. POSSIBILIDADE. RECURSO IMPROVIDO.
+ ..
+4. Conforme a dicção do art. 383, do Código do Processo Penal, que estabelece a possibilidade de emendatio libelli, "o juiz, sem modificar a descrição do fato contida na denúncia ou queixa, poderá atribuir-lhe definição jurídica diversa, ainda que, em consequência, tenha de aplicar pena mais grave", não havendo que se falar em ofensa à correlação entre a acusação e a sentença quando a condenação se baseia em fatos criminosos claramente descritos na inicial acusatória.
+5. Agravo regimental conhecido e improvido."(AgRg no AREsp n. 1.203.591/MS, relator Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 2/8/2022, DJe de 10/8/2022; sem grifos no original.)
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FALSIDADE DOCUMENTAL E APROPRIAÇÃO INDÉBITA DE CONTRIBUIÇÃO PREVIDENCIÁRIA. PRINCÍPIO DA CORRELAÇÃO NÃO VIOLADO NA SENTENÇA. INOVAÇÃO RECURSAL INCABÍVEL. PEDIDO DE HABEAS CORPUS DE OFÍCIO PARA BURLAR O NÃO CONHECIMENTO DA MATÉRIA. IMPOSSIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Fica afastada a tese de violação do art. 383 do CPP se, observado o princípio da correlação, o réu foi condenado por fato descrito na denúncia, em conformidade com a narrativa acusatória.
+ ..
+4. Agravo regimental não provido."(AgRg no AREsp n. 1.235.019/SP, relator Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, julgado em 18/8/2020, DJe de 25/8/2020; sem grifos no original.)
+Ante o exposto, CONHEÇO do agravo para NEGAR PROVIMENTO ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. INJÚRIA RACIAL.ALEGAÇÃO DE CONTRARIEDADE AOS ARTS. 381, INCISO III, E 619, AMBOS DO CÓDIGO DE PROCESSO PENAL. NÃO OCORRÊNCIA. OFENSA AO PRINCÍPIO DA CORRELAÇÃO. INEXISTÊNCIA.AGRAVO CONHECIDO PARANEGAR PROVIMENTO AO RECURSO ESPECIAL.
