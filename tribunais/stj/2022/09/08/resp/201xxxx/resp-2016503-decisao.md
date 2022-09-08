@@ -1,0 +1,46 @@
+DECISÃO
+Cuida-se de recurso especial interposto por INGRID COMERCIO DE COMBUSTIVEIS LTDA , fundamentadonas alíneas "a" e "c" do permissivo constitucional, em face de acórdãoproferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado(fl. 169, e-STJ):
+AGRAVO INTERNO -ARGUIÇÃO DE INADMISSIBILIDADE -VIOLAÇÃO AO ARTIGO 1.018, §2º E §3º DO CPC/15 - NEGADO PROVIMENTO AO RECURSO. Nos termos do artigo 1.018, §2º e §3º do CPC/15, em se tratando de processo físico, incube a parte agravante apresentar a cópia da petição do agravo de instrumento, o comprovante de sua interposição e a relação dos documentos que instruíram o recurso, sob pena de inadmissibilidade da peça recursal, desde que, arguida e provada pela parte agravada.
+Nas razões do apelo (fls. 175/186, e-STJ), o insurgente aponta, além dedissídio jurisprudencial, ofensa aoartigo 1.018,§ 2º, do Código de Processo Civil/15,sustentando, em síntese: i) que cumpriu com todas as exigências legais, tendo em visto que interpôs o recurso na modalidade 100% eletrônico; ii)o acórdão recorrido ofende o princípio da instrumentalidade das formas e evidencia excesso de formalismo do Tribunal a quo, sobretudo quando não há informação e prova pelo Agravado a respeito de eventual prejuízo
+Contrarrazões, às fls. 204/211, e-STJ.
+Admitido o apelo (fls. 215/218, e-STJ), os autos ascenderam a esta egrégiaCorte de Justiça.
+É o relatório.
+Decido.
+A irresignação merece prosperar.
+1. A jurisprudência do Superior Tribunal de Justiça, no tocante à determinação contida no art. 526 do CPC/1973, que encontra semelhante correspondência no art. 1.018 do CPC/2015, firmou entendimento no sentido de que a finalidade da regra prevista neste dispositivo é "principalmente, proporcionar à parte contrária o exercício de sua defesa, evitando-se qualquer prejuízo processual. Inexistindo prejuízo à parte agravada e tendo esta exercido o seu direito de defesa, não há que se falar em nulidade.Precedentes" (AgRg no AREsp 636.518/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 22/9/2015, DJe de 13/10/2015).
+No mesmo sentido, os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA DEMANDADA.
+1. Nos termos da jurisprudência do STJ, não havendo prejuízo à parte agravada e tendo esta exercido o seu direito de defesa, não há falar em nulidade pelo descumprimento da regra prevista no artigo 1.018 do CPC/15. Incidência da Súmula 83 desta Corte.
+2. A análise acerca do levantamento do valor penhorado e depositado judicialmente, bem como a determinação de atualização do crédito, referente à diferença entre a data de apresentação dos cálculos e a efetiva penhora, na forma como posta, demandaria a reapreciação do contexto fático-probatório dos autos, providência inviável em sede de recurso especial, ante o óbice da Súmula 7/STJ.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 1.858.661/GO, relator Ministro Marco Buzzi, Quarta Turma, julgado em 21/2/2022, DJe de 24/2/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO NÃO CONHECIDO. ART. 526 DO CPC/1973. DESCUMPRIMENTO DE ÔNUS PROCESSUAL. EXERCÍCIO DA DEFESA. AUSÊNCIA, NO CASO, DE PREJUÍZO DA PARTE AGRAVADA. EXCESSO DE FORMALISMO. INADMISSIBILIDADE DO AGRAVO DE INSTRUMENTO AFASTADA. PRECEDENTES. AGRAVO INTERNO DESPROVIDO.
+1. Tendo a parte agravada exercido o seu direito de defesa e não configurado prejuízo processual a esta, não há que se falar em nulidade, considerando-se cumprida a exigência do art. 1.018, §§ 2º e 3º, do CPC/2015 (art. 526 do CPC/1973). Precedentes.
+2. Agravo interno desprovido.
+(AgInt no AREsp n. 1.813.257/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 11/4/2022, DJe de 25/4/2022.)
+RECURSO ESPECIAL. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. NÃO CONHECIMENTO. ART. 1.018, §§ 2º E 3º, DO CPC/2015. APLICABILIDADE. AUTOS FÍSICOS. JUÍZO DE ORIGEM. COMUNICAÇÃO TARDIA. PRAZO. TRÊS DIAS. MERA POSSIBILIDADE. PREJUÍZO. INEXISTÊNCIA. IMPRESCINDIBILIDADE.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. O art. 1.018, §§ 2º e 3º, do CPC/2015 visa propiciar à parte agravada a sua defesa e a demonstração de eventual prejuízo processual decorrente da não comunicação da interposição de agravo de instrumento ao juízo de origem.
+3. Na hipótese, o recorrido, em contraminuta, limitou-se a alegar a não observância do prazo de comunicação ao juízo de origem em 3 (três) dias, sem demonstrar o vício ou prejuízo.
+4. A lei faculta a prática do ato, motivo pelo qual deve ser afastado o excesso de rigor formal, à luz do princípio da instrumentalidade das formas.5. Recurso especial provido.(REsp 1758943/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 23/06/2020, DJe 26/06/2020)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO NÃO CONHECIDO. ART. 1.018, §§ 2º E 3º, DO CPC/2015. COMUNICAÇÃO AO JUÍZO DE ORIGEM SOBRE A INTERPOSIÇÃO DO RECURSO REALIZADA ALÉM DO TRÍDUO LEGAL. AUSÊNCIA, NO CASO, DE PREJUÍZO DA PARTE ADVERSA. APELO NOBRE PROVIDO MONOCRATICAMENTE. AGRAVO INTERNO NÃO PROVIDO.
+1. A finalidade da regra do art. 526 do CPC/73, que encontra correspondência no art. 1.018 do CPC/2015, é "principalmente, proporcionar à parte contrária o exercício de sua defesa, evitando-se qualquer prejuízo processual. Inexistindo prejuízo à parte agravada e tendo esta exercido o seu direito de defesa, não há que se falar em nulidade. Precedentes" (AgRg no AREsp 636.518/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 22/9/2015, DJe de 13/10/2015).
+2. No caso, tendo a agravada apresentado contrarrazões ao agravo de instrumento e exercido seu direito de defesa, não há que se falar na inadmissibilidade do agravo de instrumento pelo descumprimento da exigência do art. 1.018, §§ 2º e 3º, do CPC/2015.
+3. Agravo interno não provido.
+(AgInt no REsp 1727899/DF, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 02/04/2019, DJe 25/04/2019)
+AGRAVO INTERNO NO RECURSO ESPECIAL. ADMISSIBILIDADE DO AGRAVO DE INSTRUMENTO INTERPOSTO NA ORIGEM. EFEITO DA INOBSERVÂNCIA DO PRAZO PREVISTO NO ARTIGO 526 DO CPC DE 1973.
+1. A jurisprudência desta Corte é no sentido de que o decreto da inadmissibilidade do agravo de instrumento, em razão do descumprimento da providência prevista no artigo 526 do CPC de 1973, condiciona-se à constatação do prejuízo da parte agravada. Precedentes.
+2. Agravo interno não provido.
+(AgInt no REsp 1458972/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 04/12/2018, DJe 12/12/2018)
+Na hipótese dos autos, o Tribunal de origem não conheceu do agravo de instrumento, em razão do descumprimento do artigo 1.018, § 2º, do CPC/15, consignando que (fls. 171/172, e-STJ):
+Apesar dos argumentos utilizados pelo agravante, verifico que há óbice intransponível o qual impede o conhecimento do presente recurso, pelo que, desde já, indefiro o seu processamento.
+O artigo 1.018, §2º e 3º do CPC/15 dispõe taxativamente que, se tratando de processo físico, incube a parte agravante apresentar a cópia da petição do agravo de instrumento, o comprovante de sua interposição e a relação dos documentos que instruíram o recurso perante o juízo a quo, sob pena de inadmissibilidade da peça recursal.
+(..)
+Deste modo, conclui-se que o prazo para requerer a juntada dos documentos inerentes ao recurso de agravo de instrumento ao processo originário, começa a contar a partir da data de distribuição do recurso, no presente em 21/10/2019 (fl. 56 -TJ).
+Assim, considerando que as informações foram devidamente prestadas apenas em 25/10/2019 (fl. 111 -TJ), verifica-se o não cumprimento do prazo processual interposto, e consequente violação a norma supracitada, o que de plano, impede o devido seguimento do recurso.
+Além disso, consoante dispõe o artigo 8º do Código de Processo Civil o marco teórico disponibilizado para o Magistrado fundamentar suas decisões ainda é a lei, entendendo-se como válida aquela oriundado Poder Legislativo. Assim, nenhum magistrado está submisso à jurisprudência, devendo no caso, para atender seu dever funcional ínsito do inciso IV do artigo 489 do Código de Processo Civil, somente demonstrar que está seguindo a legislação, demonstrando a distinção no caso.
+A Corte local, na hipótese, não especificou qualquer circunstância especialcapaz de demonstrar qualquer prejuízo ao contraditório e ampla defesa apto a invalidar a interposição do agravo de instrumento, visto que a parte agravada apresentou contrarrazões ao referido recurso.
+Deve, portanto, ser reformado o acórdão recorrido para determinar o retorno dos autos ao Tribunal de origem, a fim de que, superada a questão quanto ao descumprimento do art. 1.018 do CPC/15, prossiga no julgamento do reclamo como entender de direito.
+2. Do exposto,com fulcro no art. 932 do NCPC c/c Súmula 568/STJ, douprovimento ao recurso especial,a fim de determinar o retorno dos autos à origem para que, superada a questão quanto ao cumprimento do art. 1.018 do CPC/15, prossiga no julgamento do reclamo como entender de direito.
+Publique-se.
+Intimem-se.
