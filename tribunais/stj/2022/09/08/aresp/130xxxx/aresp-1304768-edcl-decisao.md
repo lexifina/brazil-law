@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de embargos de declaração opostos pelo Estado do Mato Grosso do Sul contra decisão de fls. 3.169/3.171, que negou provimento ao agravo em recurso especial, sob os fundamentos de que: (I) o Tribunal de origem não examinou a controvérsia sob o enfoque da tese recursal suscitada no apelo raro de que a lei processual civil estabelece 10% como percentual mínimo para os honorários e não 1/10 disso, apesar de instado a fazê-lo por meio de embargos de declaração, nem houve indicação de ofensa ao art. 1.022 do CPC, pelo que aplicável a Súmula 211/STJ; e (II) a angusta via especial não se prestaria mesmo à reforma do entendimento da Corte local de que "A verba honorária fixada em 1% sobre o valor do débito satisfaz acertadamente às particularidades da demanda, valendo lembrar que o feito foi julgado de forma antecipada e não exigiu qualquer trabalho transcendente do Procurador responsável. Assim, ponderados os princípios da sucumbência e da proporcionalidade, confirmo os ônus financeiros do processo fixados na origem" (fl. 2.672), por demandar, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+O embargante, em suas razões, sustenta que há omissão na decisão alvejada quanto aos precedentes mencionados no apelo raro em favor de sua tese.
+Impugnação às fls. 3.185/3.188.
+É O RELATÓRIO.
+De acordo com o previsto no artigo 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão do acórdão atacado ou para correção de erro material. Entretanto, no caso, não se verifica a existência de quaisquer das referidas deficiências.
+Com efeito, a decisão embargada negou provimento ao agravo em recurso especial, por vislumbrar que o apelo raro do ora embargante não logra ultrapassar a barreira de admissibilidade recursal, ante a incidência das Súmulas 211/STJ e 7/STJ.
+Nesse panorama, não há como tachar o decisum de omisso acerca de precedentes, referentes ao tema de mérito, colacionados no arrazoado recursal especial.
+Não há, portanto, qualquer omissão a suprir.
+Em verdade, o que se extrai das razões de embargos de declaração é a mera irresignação da parte com a decisão ora embargada, objetivando a reforma do decidido, o que, como cediço, não se coaduna com o recurso integrativo.
+Nesse panorama, inexistente qualquer obscuridade, contradição, omissão ou erro material no julgado embargado, conforme exige o artigo 1.022 do CPC, impõe-se a rejeição dos presentes embargos de declaração.
+ANTE O EXPOSTO, rejeito os embargos declaratórios.
+Publique-se.
