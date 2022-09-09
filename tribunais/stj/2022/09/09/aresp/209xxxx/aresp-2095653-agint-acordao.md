@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Quarta Turma, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO LUIS FELIPE SALOMÃO (Relator):
+1. Cuida-se de agravo interno interposto por BAC FLOORIDA BANK e outros contra decisão da Presidência que não conheceu do agravo em recurso especial, aplicando o enunciando 182/STJ, uma vez que a parte não teria impugnado especificamente os fundamentos da decisão de inadmissibilidade do recurso especial, notadamente quanto à incidência da Súmula 7/STJ.
+Nas razões do presente agravo interno, a parte ora agravante sustenta, em síntese, que teria contraditado especificamente o enunciado 7/STJ de modo expresso, o que seria evidenciado inclusive em razão da abertura de tópico próprio, nas razões do agravo de instrumento.
+Pede a reforma da decisão.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO RECLAMO, ANTE A AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 7/STJ. INSURGÊNCIA GENÉRICA. ARGUMENTO CIRCULAR. TAUTOLOGIA. SÚMULA 182; NEGADO PROVIMENTO.
+1. Consoante expressa previsão contida nos artigos 932, III, do CPC/15 e 253, I, do RISTJ e em razão do princípio da dialeticidade, deve o agravante demonstrar, de modo fundamentado, o desacerto da decisão que inadmitiu o apelo extremo.
+2. No caso, a parte agravante, a despeito de abrirtópico próprio para se insurgir contra o óbice da Súmula 7/STJ, limitou-se aconcluir pelo afastamento do óbice sumular aludido com fundamento na inexistência dos próprios pressupostos desseenunciado, sem confrontar efetivamente ostermos do acórdão recorrido; argumento circular, redundando em tautologia. Incidência da Súmula 182/STJ.
+3. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO LUIS FELIPE SALOMÃO (Relator):
+2. In casu,como revela a atenta leitura das razões de fls. 945-993, a parte agravante não rebateu, como lhe competia, os fundamentos da decisão agravada, notadamente em relação à incidência do óbice da Súmula 7/STJ.
+Com efeito, com base no princípio da dialeticidade, compete à parte recorrente impugnar especificamente todos os fundamentos da decisão de admissibilidade do recurso especial, autônomos ou não, sob pena de atrair o óbice contido no enunciado da Súmula 182 do STJ ("É inviável o agravo do art. 545 do CPC/73 que deixa de atacar especificamente os fundamentos da decisão agravada"). Nesse sentido, confira-se: AgInt no AREsp 727.579/PR, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe 19/12/2017; AgInt no AREsp 1039553/PR, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe 26/05/2017.
+No caso dos autos, o Tribunal local negou seguimento ao recurso da ora agravante (fls. 939-942) com base nos seguintes argumentos: (a) ausência de dialeticidade, uma vez que não confrontado o acórdão recorrido com os dispositivos legais supostamente violados; (b) incidência do óbice da Súmula 7/STJ, porquanto a o acolhimento da pretensão recursal demandaria o revolvimento das premissas fáticas adotadas no acórdão recorrido.
+Todavia, a parte, na razões do agravo de instrumento(fls. 952-954), a despeito de abrir tópico próprio para se insurgir contra o óbice da Súmula 7/STJ, limitou-se a concluir pelo afastamento do óbice sumular aludido com fundamento na inexistência dos próprios pressupostos desse enunciado, sem confrontar efetivamente os termos do acórdão recorrido.
+Trata-se de argumento circular, redundando em tautologia, razão pela qual deve ser aplicado de fato o Enunciado 182/STJ, a teor do que decidido pela Presidência desta Corte.
+Em relação à incidência do óbice da Súmula 7/STJ, a jurisprudência desta Corte é uníssona em considerar que: "  ..  a alegação genérica de que o tema discutido no recurso especial representa matéria de direito(incluídas aí as hipóteses de qualificação jurídica dos fatos e valoração jurídica das provas), e não fático-probatória, não é apta a impugnar, de modo específico, o fundamento da decisão atacada. Ao revés, deve a parte agravante refutar o citado óbice mediante a exposição da tese jurídica desenvolvida no recurso especial e a demonstração da adoção dos fatos tais quais postos nas instâncias ordinárias." (AGInt no ARESp n. 1.490.629/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe 25/08/2021)
+A propósito, confira-se a ementa do acórdão aludido, verbis:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO PROFERIDA PELO TRIBUNAL DE ORIGEM. PRINCIPIO DA DIALETICIDADE. ART. 932, III, DO CPC DE 2.015. INSUFICIÊNCIA DE ALEGAÇÃO GENÉRICA.
+1. À luz do princípio da dialeticidade, que norteia os recursos, compete à parte agravante, sob pena de não conhecimento do agravo em recurso especial, infirmar especificamente os fundamentos adotados pelo Tribunal de origem para negar seguimento ao reclamo.
+2. O agravo que objetiva conferir trânsito ao recurso especial obstado na origem reclama, como requisito objetivo de admissibilidade, a impugnação específica aos fundamentos utilizados para a negativa de seguimento do apelo extremo, consoante expressa previsão contida no art. 932, III, do CPC de 2.015 e art. 253, I, do RISTJ, ônus da qual não se desincumbiu a parte insurgente, sendo insuficiente alegações genéricas de não aplicabilidade do óbice invocado.
+3. Esta Corte, ao interpretar o previsto no art. 932, parágrafo único, do CPC/2015 (o qual traz disposição similar ao § 3º do art. 1.029 do do mesmo Código de Ritos), firmou o entendimento de que este dispositivo só se aplica para os casos de regularização de vício estritamente formal, não se prestando para complementar a fundamentação de recurso já interposto.
+4. Agravo interno não provido.
+(AgInt no AREsp 1490629/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 05/08/2021, DJe 25/08/2021)  g.n.
+Diante desse contexto, é incensurável a decisão agravada quanto àincidência da Súmula 182 do STJ, porquanto inexistiu ataque específico a todos os fundamentos da decisão que obstou a ascensão do recurso especial ao Superior Tribunal de Justiça.
+3. Ante o exposto, nego provimento ao agravo interno.
+É o voto.
