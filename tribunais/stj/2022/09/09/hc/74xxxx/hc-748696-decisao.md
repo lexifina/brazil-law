@@ -1,0 +1,66 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de JULIO MARTINS GONSALES apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelação Criminal n. 1525147-51.2020.8.26.0228).
+Depreende-se dos autos que o paciente foi condenado pela prática do delito tipificado no art. 155, caput, c.c. o art. 61, II, j, ambos do Código Penal, à pena de 1 ano, 5 meses e 15 dias de reclusão, em regime inicial fechado (e-STJ fls. 24/31).
+A apelação defensiva foi desprovida pelo Tribunal de origem (e-STJ fls. 44/54, sem ementa).
+Nestewrit, alegoua defesa que as instâncias ordinárias incorreram em equívoco quando fizeram incidir, na dosimetria da pena do paciente, a agravante prevista no art.61, II, j, do Código Penal.
+Sustentou, outrossim, que "o regime inicial para o cumprimento da pena não pode ser o fechado, porquanto foi o paciente condenado a uma pena muito inferior a quatro anos, e  .. , pelo quantum fixado, impõe-se o regime inicial aberto, conforme artigo 33, §§2º e 3º, do Código Penal, nada havendo de excepcional no caso que indique ser necessário o estabelecimento do regime mais gravoso que o permitido" (e-STJ fl. 11).
+Argumentou, ainda,que deveria ter sido levado em consideração o tempo de prisão preventiva do paciente quando da fixação do regime inicial de cumprimento da pena.
+Requereu, nestes termos, a concessão da ordem para redimensionar a pena do paciente e para que fosse fixado regime menos gravoso para o início de cumprimento da pena.
+Liminar indeferida (e-STJ fls. 57/58).
+Informações prestadas.
+O Ministério Público Federal manifestou-se pela concessão parcial da ordem para excluir da dosimetria a agravante prevista no art. 61, II, j, do Código Penal (e-STJ fls. 93/97).
+É o relatório.
+Decido.
+Preliminarmente, cumpre ressaltar que, na esteira da orientação jurisprudencial desta Corte, por se tratar de questão afeta a certa discricionariedade do magistrado, a dosimetria da pena é passível de revisão em habeas corpus apenas em hipóteses excepcionais, quando ficar evidenciada flagrante ilegalidade, constatada de plano, sem a necessidade de maior aprofundamento no acervo fático-probatório.
+No caso, o Tribunal de origem assim consignou quanto à dosimetria do paciente (e-STJ fls. 49/53):
+Inicialmente, a pena-base foi exasperada em razão dos péssimos antecedentes de JÚLIO, que ostenta quatro condenações anteriores definitivas pela prática de crimes contra o patrimônio (fls. 51/55). Ademais, quando da prática delitiva, o acusado estava em cumprimento de pena em regime aberto, o que torna sua conduta especialmente reprovável. Assim, a fração de  (um quatro) revela-se proporcional.
+Sobre a possibilidade de reconhecer condenações alcançadas pelo período depurador como maus antecedentes, confira-se julgado do C. Superior Tribunal de Justiça:
+ ..
+Em recente julgamento, realizado em 18 de agosto de 2020, o Pretório Excelso sufragou tal entendimento:
+ ..
+Na segunda fase, a agravante da reincidência foi compensada com a atenuante da confissão espontânea.
+Vale ressaltar que, ao contrário do ventilado pela combativa Defensoria, a valoração do pretérito do apelante não importa em bis in idem, desde que os maus antecedentes sejam reconhecidos com base em condenação diversa daquela que serviu para configuração da reincidência e consequente elevação da pena- provisória.
+Por outro lado, não há que se falar no afastamento da agravante prevista no artigo 61, inciso II, alínea "j" (delito praticado em ocasião de calamidade pública - pandemia de Covid-19), diante da maior reprovabilidade da conduta, sem contar a ofensa ao isolamento social necessário para a não propagação da doença.
+Ademais, é sabido que a pandemia causou dificuldades operacionais também nos serviços de SegurançaPública, decorrentes do afastamento de servidores por infecção, deslocamento de policiais para o auxílio na fiscalização de medidas restritivas, dentre outras. Assim, deflui-se que o quadro pandêmico propicia maior facilidade para a prática de crimes, sendo de rigor a manutenção da agravante.
+ ..
+Na derradeira etapa dosimétrica, não incidiram causas de aumento ou diminuição.
+Correta a fixação da modalidade prisional fechada, em razão dos péssimos antecedentes e da reincidência de JÚLIO, bem como da existência de circunstância judicial desfavorável a evidenciar que a fixação do regime ameno seria insuficiente à consecução das finalidades preventiva e retributiva da pena.
+No mais, a aplicação do instituto previsto no artigo 387, § 2º, do Código de Processo Penal não se revela adequada neste momento processual, devendo ser objeto de análise na fase de execução da sentença, após o trânsito em julgado e expedição da guia de recolhimento.(Grifei)
+Pois bem.
+Agravante de calamidade pública
+Deve ser decotada a agravante de calamidade pública, pois o entendimento esposado no acórdão destoa da jurisprudência desta Corte, segundo a qual "a incidência da agravante da calamidade pública pressupõe a existência de situação concreta dando conta de que o paciente se prevaleceu da pandemia para a prática delitiva" (HC n. 625.645/SP, relatorMinistro FELIX FISCHER, DJe 4/12/2020).
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. IRRESIGNAÇÃO MINISTERIAL. ROUBO SIMPLES. AGRAVANTE DO CRIME PRATICADO EM ESTADO DE CALAMIDADE PÚBLICA. NÃO DEMONSTRAÇÃO DE QUE O AGENTE SE PREVALECEU DESSA CIRCUNSTÂNCIA PARA A PRÁTICA DO DELITO. AGRAVANTE AFASTADA, COM A CONSEQUENTE REDUÇÃO DA PENA E ABRANDAMENTO DO REGIME INICIAL.DECISÃO MANTIDA. AGRAVO NÃO PROVIDO.
+1. A incidência da agravante da calamidade pública pressupõe a existência de situação concreta dando conta de que o paciente se prevaleceu da pandemia para a prática delitiva(HC 625.645/SP, Rel.Ministro FELIX FISCHER, DJe 04/12/2020). No mesmo sentido, dentre outros: HC 632.019/SP, Rel. Ministro FELIX FISCHER, DJe 10/2/2021;HC 629/981/SP, Rel. Ministro JOEL ILAN PACIORNIK, DJe 9/2/2021; HC 620.531/SP, Ministro SEBASTIÃO REIS JÚNIOR, DJe 3/2/2021.
+2. Hipótese em que a agravante prevista no art. 61, inciso II, alínea j, do Código Penal foi aplicada apenas pelo fato de o delito ter sido praticado na vigência do Decreto Estadual nº 64.879 e do Decreto Legislativo nº 06/2020, ambos de 20.03.2020, que reconhecem estado de calamidade pública no Estado de São Paulo em razão da pandemia da COVID-19, sem a demonstração de que o agente se aproveitou do estado de calamidade pública para praticar o crime em exame, o que ensejou o respectivo afastamento, com o redimensionamento da pena e o abrandamento do regime inicial.
+3. Agravo regimental não provido.
+(AgRg no HC n. 655.339/SP, relator Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 13/4/2021, DJe 19/4/2021.)
+No caso,a agravante prevista no art. 61, inciso II, alíneaj, do Código Penal foi aplicada pelo fato de o delito ter sido praticado na vigência da pandemia do coronavírus, que "causou dificuldades operacionais também nos serviços de Segurança Pública, decorrentes do afastamento de servidores por infecção, deslocamento de policiais para o auxílio na fiscalização de medidas restritivas, dentre outras", propiciando a pandemia "maior facilidade para a prática de crimes".
+Contudo,não foi demonstradoque o agente efetivamente se aproveitou do estado de calamidade pública para a prática do crime apurado nos autos, o que corrobora o respectivo afastamento, com o redimensionamento da pena.
+Assim, mantidos os demais parâmetros dosimétricos estabelecidos na origem e afastada a agravante prevista no art. 61, II,j, do Código Penal, fica a pena do paciente agora consolidada em 1 ano e 3 meses de reclusão.
+Regime prisional e detração
+Nos termos do art. 33, §§ 1º, 2º e 3º, do Código Penal, para a fixação do regime inicial de cumprimento de pena, o julgador deverá observar a quantidade da reprimenda aplicada, a primariedade do réu e a eventual existência de circunstâncias judiciais desfavoráveis.
+No caso, não obstante a pena aplicada ao paciente, depreende-se dos autos que lhe foram consideradas desfavoráveis as circunstâncias judiciaisbem como o fato deele serreincidente.
+Nesse sentido, não há nenhuma ilegalidade diante da fixação do regime mais gravoso para o início de cumprimento da pena, fixado em conformidade com o entendimento desta Corte sobre o tema, senão vejamos:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL. FURTO QUALIFICADO. REGIME PRISIONAL FECHADO. PACIENTE REINCIDENTE. RECONHECIMENTO DE CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. FUNDAMENTAÇÃO IDÔNEA. PENA MENOR DE QUATRO ANOS DE RECLUSÃO. IRRELEVÂNCIA. PRECEDENTES. ORDEM DE HABEAS CORPUS DENEGADA. AGRAVO REGIMENTAL DESPROVIDO.
+1. "O relator no STJ está autorizado a proferir decisão monocrática, que fica sujeita à apreciação do respectivo órgão colegiado mediante a interposição de agravo regimental, não havendo violação do princípio da colegialidade (arts. 932, III, do CPC e 34, XVIII, a e b, do RISTJ)" (AgRg no RHC 160.457/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUINTA TURMA, julgado em 15/03/2022, DJe 18/03/2022).
+2. A despeito do estabelecimento de sanção penal inferior a 4 (quatro) anos de reclusão, o Paciente é reincidente e foram reconhecidas circunstâncias judiciais desfavoráveis. Assim, a fixação do regime fechado para o início do cumprimento da pena foi devidamente fundamentado. Precedentes.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 722.608/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 5/4/2022, DJe de 8/4/2022, grifei.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. DECISÃO MONOCRÁTICA. FURTO QUALIFICADO TENTADO. PLEITO DE DETRAÇÃO PARA FINS DE PROGRESSÃO DE REGIME. DESCABIMENTO. JUÍZO DA EXECUÇÃO PENAL (ART. 66, INCISO III, "C", DA LEI N. 7.210/84). PACIENTE PORTADOR DE REINCIDÊNCIA E CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. REGIME FECHADO ADEQUADO. PRECEDENTES. INEXISTÊNCIA DE NOVOS ARGUMENTOS APTOS A DESCONSTITUIR A DECISÃO AGRAVADA. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+II - Ainda que a pena tenha permanecido em patamar abaixo de 4 (quatro) anos de reclusão, a  reincidência  e a presença de circunstâncias judiciais desfavoráveis justifica a fixação do regime mais gravoso, impossibilitando, portanto, a subsunção dos fatos ao disposto pelo artigo 33, § 2º, alíneas b ou c, do Código Penal.
+ ..
+Agravo regimental desprovido.
+(AgRg no HC n. 607.519/SP, relator Ministro Felix Fischer, Quinta Turma, julgado em 20/10/2020, DJe de 26/10/2020, grifei.)
+No mais, deve-se asseverar que, ante a presença decircunstância judicial desfavorável, bem como da reincidência do paciente, eventual detração do período em que ele ficou preso provisoriamente não teria o condão de alterar o regime prisional fixado.
+No mesmo sentido:
+PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. ESTELIONATO. ASSOCIAÇÃO CRIMINOSA. REGIME PRISIONAL FECHADO. MOTIVAÇÃO IDÔNEA. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. GRAVIDADE CONCRETA DO DELITO. DETRAÇÃO PENAL. TEMPO DE PRISÃO PROVISÓRIA. DESCONTO QUE NÃO REPERCUTE NO REGIME PRISIONAL FIXADO. INEXISTÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A individualização da pena é submetida aos elementos de convicção judiciais acerca das circunstâncias do crime, cabendo às Cortes Superiores apenas o controle da legalidade e da constitucionalidade dos critérios empregados, a fim de evitar eventuais arbitrariedades. Assim, o reexame das circunstâncias judiciais e dos critérios concretos de individualização da pena mostram-se inadequados à estreita via do habeas corpus, por exigirem revolvimento probatório, salvo flagrante ilegalidade, como evidenciado na hipótese dos autos.
+2. Na hipótese, as instâncias ordinárias fixaram devidamente o regime mais gravoso, considerando a quantidade de pena imposta - entre 4 e 8 anos de reclusão -, bem como o fato de se tratar de réu com circunstâncias judiciais desfavoráveis, e em razão da gravidade concreta do delito, não havendo que se falar em fixação do regime prisional semiaberto, por não restarem preenchidos os requisitos do art. 33, § 2º, "b", c/c § 3º, do Código Penal.
+3. Com o advento da Lei 12.736/12, o Juiz processante, ao proferir sentença condenatória, deverá detrair o período de custódia cautelar para fins de fixação do regime prisional. Forçoso reconhecer que o § 2º do art. 387 do Código de Processo Penal não versa sobre progressão de regime prisional, instituto próprio da execução penal, mas, sim, acerca da possibilidade de se estabelecer regime inicial menos severo, descontando-se da pena aplicada o tempo de prisão cautelar do acusado.
+4. Considerando que a pena do paciente foi fixada em 4 anos e 8 meses de reclusão, mesmo descontando os cerca de 8 meses e 9 dias de prisão provisória, a aplicação da detração não repercute no regime prisional, especialmente em razão do agravamento do regime ter se dado com base na existência de circunstâncias judiciais desfavoráveis e na gravidade concreta das condutas praticadas, que justificam, ainda que a pena seja reduzida a patamar inferior a 4 anos, o regime prisional mais gravoso.
+5. Agravo regimental não provido.
+(AgRg no HC n. 719.106/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 5/4/2022, DJe de 8/4/2022, grifei.)
+Ante o exposto, concedo parcialmente a ordem para redimensionar a pena do paciente para 1 ano e 3 meses de reclusão, mantidos os demais termos da condenação.
+Publique-se. Intimem-se.
