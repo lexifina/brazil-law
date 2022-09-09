@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo interposto por MAICON MACIEL CARDOSO contra decisão do Tribunal de Justiça do Estado do Rio Grande do Sulque inadmitiu recurso especial fundamentado no art. 105, inciso III, alíneaa, da Constituição da República, manifestado contra acórdão prolatado na Apelação Criminal n.0046167-07.2019.8.21.7000.
+O Ministério Público Federal opinou pelo conhecimento do agravo, para conhecer em parteo recurso especial e, nesta extensão, negar-lhe provimento (fls. 682-684).
+É o relatório. Decido.
+O agravo em recurso especial não reúne condições de admissibilidade, pois não foram concretamente impugnados todos os fundamentos da decisão agravada.
+No caso, aCorte de origem nãoadmitiu o recurso especial em razão: a) da inexistênciade violaçãoao art. 619 do Código de Processo Penal; b) da conformidade entre o acórdão recorrido e a jurisprudência desta Corte quanto à utilização de elementos do inquérito na fundamentação da condenação(Súmula n. 83/STJ); c) da necessidade de reexameprobatóriopara a análise dopleito de absolvição(Súmula n. 7/STJ); d) da ausência de prequestionamentodo art. 8.2, h, do Pacto de San Joséda Costa Rica
+Todavia, nas razões do agravo contra essa decisão, o Agravante não impugnou concretamente esses fundamentos.
+De fato, em relação à Súmula n. 7/STJ, o Agravante não demonstrou como seria possível, sem amplo reexame fático-probatório, elidir a conclusão alcançada peloTribunal de origem no sentido de que as provas produzidas no curso do inquérito,em conjuntocom os testemunhosprestados sob o crivo do contraditório, demonstram o exercíciodo tráficopelo Recorrente, bem como sua participação em associação estável voltada a essa finalidade.
+Ressalte-se que, conforme a jurisprudência desta Corte Superior, "para afastar a aplicação da Súmula n. 7 do STJ, não é bastante a mera afirmação de sua não incidência na espécie, devendo a parte apresentar argumentação suficiente a fim de demonstrar que, para o STJ mudar o entendimento da instância de origem sobre a questão suscitada, não é necessário reexame de fatos e provas da causa." (AgRg no AREsp 1.750.146/PR, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUINTA TURMA, julgado em 09/03/2021, DJe 12/03/2021), o que não ocorreu no caso em preço.
+No mesmo sentido:
+" ..
+5. Relativamente à Súmula 7/STJ, mostra-se insuficiente "sustentar genericamente que a matéria seria apenas jurídica, sem explicitar, à luz da tese recursal trazida no recurso especial, de que maneira a análise não dependeria do reexame de provas" (AgRg no AREsp n. 1.677.886/MS, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 3/6/2020).
+6. O momento adequado para impugnação dos fundamentos da decisão que ensejou a inadmissão do recurso especial é a interposição do agravo, sob pena de preclusão, não cabendo fazê-lo nas razões do agravo regimental.
+7. Agravo regimental improvido." (AgRg nos EDcl no AREsp 1.856.037/RS, Rel. Ministro OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF/ 1.ª REGIÃO), SEXTA TURMA, julgado em 22/06/2021, DJe 28/06/2021, sem grifos no original.)
+De outra parte, em relação à ausência de impugnação concreta do óbice contido na Súmula n. 83/STJ, o Agravante não demonstrou de que maneira seria inaplicável ao caso a jurisprudência colacionada na decisão de inadmissão, seja quanto à inexistência de omissão na prestação jurisdicional pelo Tribunal local, seja quanto à possibilidade de emprego dos elementos colhidos noinquérito policial para fundamentar a condenação.
+Ressalte-se que, nos termos da jurisprudência desta Corte Superior, "para impugnar a incidência da Súmula n. 83 do STJ, o agravante deve demonstrar que os precedentes indicados na decisão agravada são inaplicáveis ao caso ou deve colacionar precedentes contemporâneos ou supervenientes aos indicados na decisão para comprovar que outro é o entendimento jurisprudencial do STJ" (AgRg no AREsp 1.780.561/PR, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUINTA TURMA, DJe 20/09/2021), o que igualmente não foi observado.
+Sobre o tema:
+" ..
+3. Ainda, "para impugnar a incidência da Súmula n. 83 do STJ, o agravante deve demonstrar que os precedentes indicados na decisão que inadmitiu o recurso especial são inaplicáveis ao caso ou deve colacionar precedentes contemporâneos ou supervenientes aos indicados na decisão para comprovar que outro é o entendimento jurisprudencial do STJ" (AgRg no AREsp n. 1823881/PR, Rel. Ministro João Otávio de Noronha, 5ª T., DJe 26/4/2021), o que não ocorreu.
+ ..
+5. Agravo regimental não provido." (AgRg no AREsp 1.827.996/PR, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 10/08/2021, DJe 16/08/2021; sem grifos no original.)
+Em razão de o Agravante não ter rebatidoconcretamente os fundamentos empregados pela decisão agravada, não é possível o conhecimento do agravo, conforme se extrai da Súmula n. 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Ante o exposto, NÃO CONHEÇO do agravo emrecurso especial.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL. MINUTA DE AGRAVO QUE NÃO INFIRMA ESPECIFICAMENTE OS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA.AGRAVO NÃO CONHECIDO.
