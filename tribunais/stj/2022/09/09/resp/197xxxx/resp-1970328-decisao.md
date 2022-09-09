@@ -1,0 +1,28 @@
+DECISÃO
+Vistos etc.
+Trata-se de recurso especial interposto por CLECI TEREZINHA DOS SANTOSem face de acórdão do TJRS que negou provimento à sua apelação, mantendo a sentença de improcedência dos pedidos da ação declaratória da nulidade da negativa de renovação de contrato de seguro de vida c.c. obrigação de fazer e indenizatória de danos morais e materiais, nos termos da seguinteementa:
+APELAÇÃO CÍVEL. SEGURO DE VIDA. RENOVAÇÃO AUTOMÁTICA.INEXISTÊNCIA DE OBRIGAÇÃO. CANCELAMENTO DA APÓLICE.POSSIBILIDADE. ABUSIVIDADE NÃO CONFIGURADA. NOTIFICAÇÃO DO CONTRATANTE. PRECEDENTE DO SUPERIOR TRIBUNAL DE JUSTIÇA.
+1. AS PARTES DEVEM OBSERVAR OS REQUISITOS A QUE ALUDEM OS ARTIGOS 421 E 422, AMBOS DO CÓDIGO CIVIL, QUANDO DA EFETIVAÇÃO DO PACTO, OU SEJA, ATENTAR AOS PRINCÍPIOS DA FUNÇÃO SOCIAL DO CONTRATO E DA BOA-FÉ.
+2. DECISÃO PROFERIDA PELO SUPERIOR TRIBUNAL DE JUSTIÇA NO JULGAMENTO DO ARESP. N.º 363.599/RS, QUE RECONHECEU A AUSÊNCIA DE ABUSIVIDADE DA CLÁUSULA CONTRATUAL QUE PERMITE À SEGURADORA A NÃO RENOVAÇÃO DO PACTO.
+3. ASSIM, CUMPRINDO A SEGURADORA COM A DETERMINAÇÃO PREVISTA NO PACTO FIRMADO COM A PARTE SEGURADA, INCLUSIVE COM A DEVIDA NOTIFICAÇÃO DESTE, DESCABE A MANUTENÇÃO DO CONTRATO SECURITÁRIO.
+4. HONORÁRIOS RECURSAIS DEVIDOS A PARTE QUE OBTEVE ÊXITO NESTE GRAU DE JURISDIÇÃO, INDEPENDENTE DE PEDIDO A ESSE RESPEITO, DEVIDO AO TRABALHO ADICIONAL NESTA INSTÂNCIA, DE ACORDO COM OS LIMITES FIXADOS EM LEI. INTELIGÊNCIA DO ART. 85 E SEUS PARÁGRAFOS DO CÓDIGO DE PROCESSO CIVIL.
+NEGADO PROVIMENTO AO APELO.
+Opostos embargos de declaração, foram rejeitados.
+No recurso especial, interposto com fundamento nas alíneasaecdo permissivo constitucional, a recorrente apontou, além do dissídio jurisprudencial, ofensa aosarts. 6º, V, 51, XI e XIII, e 39, X, do CDC, alegando que a negativa de renovação do contrato pela seguradora somente é permitida nos contratos de seguro de vida em grupo,sendo abusivanosegurode vida individual, que é a hipótese versada no caso concreto, renovadoperiodicamente a cada ano, até 2019.
+Requer, ao final, o reconhecimento da abusividade da negativa de renovação e a condenação da recorrida a manter inalterados os termos da apólice primitiva.
+Contrarrazões ao recurso especial às fls. 418/428.
+É o relatório.
+Passo a decidir.
+O presente recurso não merece ser provido.
+A jurisprudência da Segunda Seçãodeste Superior Tribunal de Justiça é de que, nos seguros de vida submetidos aoregime de repartição simples, como são o seguroem grupo e também o seguro de vida individual que não tenha sido contratadoem caráter vitalício ou plurianual, em que não há a formação de reserva matemática de benefícios a conceder por qualquer dos contratantes, é lícitaacláusula contratual que prevê a possibilidade de não renovação automáticado pacto, desde que hajaprévia notificação da outra parte.
+Com efeito, a orientação firmada pela Segunda Seção é de que "àexceção dos contratos de seguro de vida individuais, contratados em caráter vitalício ou plurianual, nos quais há a formação de reserva matemática de benefícios a conceder, as demais modalidades são geridas sob o regime financeiro de repartição simples, de modo que os prêmios arrecadados do grupo de segurados ao longo do período de vigência do contrato destinam-se ao pagamento dos sinistros ocorridos naquele período. Dessa forma, não há que se falar em reserva matemática vinculada a cada participante e, portanto, em direito à renovação da apólice sem a concordância da seguradora, tampouco à restituição dos prêmios pagos em contraprestação à cobertura do risco no período delimitado no contrato." (REsp n. 1.569.627/RS, relatora Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, julgado em 22/2/2018, DJe de 2/4/2018, g.n.).
+Na hipótese dos autos, a despeito de a recorrente ter oposto embargos de declaração na origem, visando obter do referido órgão jurisdicional manifestação a respeito da natureza de seu contrato, não requereu esclarecimento a respeito do caráter vitalício ou plurianual, tampouco acerca de eventualformação de reserva matemática exclusivamente a seu favor.Ademais, apesar da rejeição dos embargos, não alegou a ocorrência de suposta negativa de prestação jurisdicional, tampouco apontou como violado o art. 1.022 do CPC.
+Nesse cenário, avançar sobre a interpretação da natureza do contrato, a fim de verificar se o seguro era individual e se firmado em caráter vitalício ou plurianual, com eventual formação de reserva matemática exclusivamente em favor da recorrente, demandaria o reexame de cláusulas contratuais, o que esbarraria no óbice da Súmula 5/STJ.
+Assim, à luz das moldura fática delimitada no acórdão recorrido, as conclusões do Tribunal de origem se encontram em harmonia com a jurisprudência da Segunda Seção, razão pela qual o recurso especial não merece provimento.
+Ante o exposto, com amparo na Súmula 568/STJ, NEGO PROVIMENTO ao recurso especial.
+Com fundamento noart. 85, § 11, do CPC, majoro o percentual dos honorários sucumbenciais a que condenada a recorrente na origem para R$ 3.000,00, observada a eventuale anterior concessão da gratuidade judiciária.
+Advirto as partes que a oposição de incidentes manifestamente improcedentes e protelatórios dará azo à aplicação das penalidades legalmente previstas.
+Intimem-se.
+EMENTA
+RECURSO ESPECIAL. DIREITO CIVIL. SEGURO DE VIDA. NEGATIVA DE RENOVAÇÃO. ABUSIVIDADE. NATUREZA DO CONTRATO. VERIFICAÇÃO. REEXAME DE CLÁUSULAS CONTRATUAIS. SÚMULA 5/STJ. DIREITO À RENOVAÇÃO COMPULSÓRIA.EXCEÇÃO NÃO DEMONSTRADA. CONSONÂNCIA ENTRE AS CONCLUSÕES DO ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DA SEGUNDA SEÇÃO.
+RECURSO ESPECIAL NÃO PROVIDO.
