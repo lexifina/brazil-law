@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo emrecurso especial interposto em face de decisão que inadmitiu o recurso especial, ante a incidência da Súmula 7/STJ.
+Sustenta o recorrente violação dosarts.44, caput e §3º, e 59, do CP e 381, III, 387, II e III, 564, V, e 654, §2º, do CPC.
+Alega falta de fundamentação para a negativa do benefício da substituição das penas.
+Requer o provimento do recurso para que seja concedida a substituição das penas reclusivas por restritivas de direitos.
+Contra-arrazoado e inadmitido na origem, manifestou-se o Ministério Público Federal pelodesprovimento do recurso.
+Cinge-se a controvérsia à análise da tese de falta de fundamentação para o indeferimento do benefício da substituição das penas.
+Acerca da questão, a sentença condenatória, mantida peloTribunal de origem, assim se pronunciou (fl. 138),in verbis:
+No caso, trata-se de réu reincidente em crime doloso, sendo incabível a substituição da pena, ainda que a reincidência não seja específica (art. 44, § 3.º, do Código Penal).
+Isto porque o contexto de violência empregado para tentar impedir o flagrante, o qual motivou que a PRF tivesse que perseguir o veículo do acusado por cerca de 20 km e utilizar da força para contê-lo, após a colisão do automóvel, revela a elevada gravidade da sua conduta e periculosidade do agente, a demonstrar que a pena restritiva é insuficiente para reprimir e prevenir novos delitos.
+Com efeito, o art. 44, II, do Código Penal não admite a substituição da pena privativa de liberdade por restritiva de direitos ao réu reincidente em crime doloso, sendo que a recidiva, isoladamente, não tem o condão de afastar a aplicação da medida, tendo em vista que o § 3º oferece a possibilidade de concessão da benesse para os casos em que se entenda socialmente recomendável a medida e a reincidência não se tenha operado em virtude da prática do mesmo crime.
+Na espécie, consoante se verifica da sentença confirmada em 2º Grau, foi negado o benefício do art. 44 do CP, tendo em vista não apenas sua condição de reincidente, mas o fato de que "o contexto de violência empregado para tentar impedir o flagrante, o qual motivou que a PRF tivesse que perseguir o veículo do acusado por cerca de 20 km e utilizar da força para contê-lo, após a colisão do automóvel, revela a elevada gravidade da sua conduta e periculosidade do agente, a demonstrar que a pena restritiva é insuficiente para reprimir e prevenir novos delitos, razão pela qual reputou-sea medida não socialmente recomendável.
+Nesse contexto, tem-se por devidamente fundamentado o indeferimento da benesse, inexistindo, pois, ilegalidade a ser sanada na estreita via do especial, a teor da Súmula 7/STJ. A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECEPTAÇÃO. 1) SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS. ART. 44, § 3º, DO CÓDIGO PENAL - CP. 2) REINCIDÊNCIA NÃO ESPECÍFICA. MEDIDA QUE NÃO SE MOSTRA SOCIALMENTE RECOMENDÁVEL. 3) REVISÃO DE ENTENDIMENTO QUE DEMANDA REEXAME FÁTICO-PROBATÓRIO. ÓBICE DA SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. 4) AGRAVO REGIMENTAL DESPROVIDO.
+1. O art. 44, § 3º, do Código Penal admite a substituição a pena privativa de liberdade por restritiva de direitos a reincidentes, desde que, em face da condenação anterior, a medida seja socialmente recomendada e a reincidência não tenha se operado em razão da prática do mesmo delito (reincidência não específica).
+2. No caso dos autos, embora o recorrente seja reincidente não específico e a pena-base tenha sido fixada no mínimo legal, entendeu-se que a substituição da pena não se mostra medida socialmente recomendável, uma vez que "o acusado receptou veículo automotor, bem de elevado valor e ao fugir danificou telhado de uma residência ao lado. Ademais, tem contra si feito envolvendo homicídio tentado. Tais circunstâncias tornam não recomendável a substituição" (fl. 286).
+3. Tendo as instâncias ordinárias, diante da discricionariedade motivada, concluído que a substituição da pena corporal por restritiva de direitos não se mostra socialmente recomendável, a inversão do entendimento firmado pelas instâncias ordinárias demandaria o reexame do conteúdo fático-probatório dos autos, providência inviável nesta instância especial, nos termos da Súmula 7/STJ.
+4. Agravo desprovido.
+(AgRg no AREsp n. 1.898.739/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 28/9/2021, DJe de 4/10/2021.)
+Ante o exposto, nego provimento ao agravo.
+Intimem-se.
+Publique-se.
