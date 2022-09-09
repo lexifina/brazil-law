@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por MARCOS ALEXANDRINO MARTINS ASTOLPHO contra a decisão que não conheceu do agravo em recurso especial em razão da ausência de impugnação dos fundamentos da decisão que inadmitiu o recurso especial, nos termos do art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça.
+Em suas razões, sustenta a parte embargante que
+".. Da omissão - Impugnação à falta de prequestionamento Como mencionado nas linhas anteriores, o primeiro fundamento apresentado pelo i. Ministro Presidente deste c. STJ para não conhecer do agravo interposto pela defesa é o de que não houve impugnação específica da decisão de exame de admissibilidade do recurso especial na parte em que apontou a falta de prequestionamento.
+Nota-se, contudo, que o embargante destinou tópico específico em seu agravo para tratar do tema (fls. 08/10). Nesse ponto, cuidou a defesa de demonstrar, de forma clara, que o argumento utilizado pelo d. Julgador para inadmitir o recurso demonstrou que não houve aprofundamento no confronto entre as decisões proferidas e o conteúdo das peças defensivas apresentadas. (fl. 2279).
+ ..
+Da omissão - Impugnação ao óbice das súmulas n.ºs 283 e 284 do STF A mesma inobservância retratada no tópico anterior é vista também no que toca à alegada ausência de impugnação específica sobre a afronta do óbice decorrente das súmulas n.ºs 283 e 284 do STF, porquanto a defesa cuidou de tratar da questão de forma expressa em seu agravo em recurso especial (fls. 08/10) .. (fl. 2282)
+ ..
+Da obscuridade - Impugnação ao óbice da súmula n.º 518 do STJ Por fim, afirma o i. Ministro Presidente deste c. STJ, ao não conhecer do agravo em recurso especial apresentado, que o embargante deixou de impugnar de forma específica, também, o óbice da súmula n.º 518 do STF.
+No entanto, é de se registrar que o d. Desembargador Federal Vice-Presidente do e. TRF- 02, ao examinar a admissibilidade do recurso especial, sequer mencionou o referido verbete sumular. Logo, se isso não foi invocado na decisão para justificar a inadmissão do recurso, não caberia ao embargante suscitar a temática em sede de agravo." (fl. 2284)
+Requer, assim, o conhecimento e o acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a retirar ambiguidade, esclarecer obscuridade, eliminar contradição e suprir omissão existentes no julgado, o que não se verifica na hipótese.
+A propósito, da análise do recurso de agravo em recurso especial observa-se que a parte agravante deixou de impugnar especificamente os fundamentos da decisão agravada, conforme exigido pelo art. 253, parágrafo único, do RISTJ, a saber: ausência de prequestionamento, Súmula 518/STJ, Súmula 283/STF (artigo 65, do Código Penal) e Súmula 284/STF (artigo 65, do Código Penal).
+Veja-se que a refutação apta a infirmar a decisão agravada deve ser efetiva, individualizada, específica e fundamentada (AgInt no REsp n. 1.535.657/MT, relator Ministro Luís Felipe Salomão, Quarta Turma, DJe de 26/8/2020, e AgRg no RHC n. 128.660/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 24/8/2020).
+Importante registrar que o momento adequado para impugnação dos fundamentos da decisão que não admite o recurso especial é a interposição do agravo em recurso especial, sob pena de preclusão caso feita posteriormente.
+Ressalte-se que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, os EDcl no AgRg nos EREsp n. 1.315.507/SP, relator Ministro Luis Felipe Salomão, Corte Especial, DJe de 28/8/2014.
+Assim, não há nenhuma irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou ambiguidade).
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
