@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de recurso emhabeas corpuscom pedido de liminar interposto por LUISMAR ANTONIO DE ASSIS contra acórdão do Tribunal de Justiça do Estado de Minas Gerais(Processo n. 0001723-51.2018.8.16.0180).
+Depreende-se dos autos que orecorrente foi condenado, pela prática da condutadescritanoart. 33,caput, c/c oart. 40,V, ambos da Lei n. 11.343/2006, à pena de 6anos e 5 meses de reclusão em regime inicial fechado, em decorrência da apreensão de aproximadamente 17kg (dezessete quilos) de maconha.
+Impetradohabeas corpusna origem, a ordem foi denegada nos termos da seguinte ementa(e-STJ fl. 1.040):
+HABEAS CORPUS - TRÁFICO DE DROGAS - APLICAÇÃO DA MINORANTE DO TRÁFICO PRIVILEGIADO E ABRANDAMENTO DO REGIME PRISIONAL-VIA INADEQUADA-APURAÇÃO DE FLAGRANTE ILEGALIDADE - CONHECIMENTO - DEDICAÇÃO À ATIVIDADE CRIMINOSA - ART. 42 DA LEI  11.343/06 - ILEGALIDADE NÃO CONFIGURADA. Embora exista recurso próprio para impugnar questões afetas ao mérito da ação penal, é possível conhecer do writ a fim de verificar a existência de manifesta coação indevida, decorrente de ilegalidade flagrante, abuso de poder ou teratologia. Não se vislumbra flagrante ilegalidade na decisão que negou o benefício do tráfico privilegiado, considerando a dedicação à atividade criminosa e aquantidade de entorpecente apreendido. Em se tratando de elevada quantidade de droga, a fixação do regime fechado se mostra socialmente recomendável para o alcance da tríplice finalidade da pena, diante da maior reprovabilidade da conduta, tudo nos termos do art. 42 da Lei nº 11.343/06.
+Nesta oportunidade, adefesa requer, inclusive liminarmente, a concessão da minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006, ao argumento de que a benesse não pode ser afastada com base na quantidade de drogas, notadamente em virtude da primariedade do réu. Requer, outrossim, o abrandamento do regime inicial.
+É o relatório.
+Decido.
+Preliminarmente cumpre ressaltar que, na esteira da orientação jurisprudencial desta Corte, por se tratar de questão afeta a certa discricionariedade do magistrado, a dosimetria da pena é passível de revisão em habeas corpusapenas em hipóteses excepcionais, quando ficar evidenciada flagrante ilegalidade, constatada de plano, sem a necessidade de aprofundamento no acervo fático-probatório.
+No caso, acerca da controvérsia, o Tribunal de origem assim consignou(e-STJ fls. 1.043/1.046):
+Na sentença condenatória, o MM. Juiz negou a concessão do benefício do artigo 33, §4º, da Lei nº 11.343/06, sob os seguintes fundamentos:
+(..) O auto de apreensão de ID 5487208142, pg. 11 e os exames toxicológicos preliminares de ID 5487208142, pgs. 13/15 demonstram a apreensão de 16,9 Kg (dezesseis vírgula nove quilogramas) de maconha, circunstância que evidencia a habitualidade da conduta ilícita.
+À parte disso, conforme se extrai da CAC e FAC de ID 5487058146, pág. 24, ID 5487058148, págs. 24-25 e ID 5846208013, pág. 6, o réu é portador de maus antecedentes, devendo ser afastado o tráfico privilegiado. (documento de ordem nº 05, f. 6).
+Não vislumbro manifesta teratologia na decisão impugnada, visto que a sentença encontra-se, a princípio, bem fundamentada.
+Para aplicação da referida minorante, o acusado deve preencher, cumulativamente, todos os requisitos exigidos, quais sejam:ser primário, de bons antecedentes, não se dedicar a atividades delituosas e não integrar organização criminosa.
+Da leitura da CAC (f. 10, ID 5846208013 - PJE autos 0030678- 21.2021.8.13.0035), verifico que o paciente possui duas ações penais em curso pelo delito de tráfico de drogas no estado de Goiás.
+Ademais, a quantidade de droga apreendida é expressiva  16,9 kg (dezesseis vírgula nove quilogramas) de maconha  e denota, nesta análise perfunctória, o envolvimento habitual do acusado com a criminalidade.
+Ora, é certo que a minorante prevista no art. 33, §4º, da Lei nº 11.343/06 deve ser aplicada para os traficantes que ainda não se mostram envolvidos na criminalidade, o que não é o caso do paciente.
+A propósito:
+ ..
+No mesmo diapasão, considerando o quantum da pena fixada em 06 (seis) anos e 05 (cinco) meses de reclusão, bem como aquantidade de droga apreendida, não vislumbro ilegalidade patente na fixação do regime inicial fechado para o cumprimento da pena, na forma do art. 42 da Lei nº 11.343/06.
+In casu, o regime mais gravoso se mostra socialmente recomendável e necessário para o alcance da tríplice finalidade da pena. A propósito:
+ ..
+Por fim, ainda que mantida a sentença impugnada nesta oportunidade, certo é que a questão será amplamente debatida em sede própria, visto que já foi interposto recurso de apelação criminal pelo réu (c.f. consulta aos autos eletrônicos do sistema PJE - nº 0030678-21.2021.8.13.0035, ID 9098013101 e seguintes).
+Mediante tais considerações, inexistindo constrangimento ilegal, DENEGO A ORDEM.
+Da análise dos trechos transcritos, constato que não assiste razão à defesa.
+É que, na linha da jurisprudência deste Tribunal Superior, "a condenação anterior existente, ainda que alcançada pelo período depurador de cinco anos previsto no art. 64, I, do Código Penal, embora não seja apta a caracterizar a agravante da reincidência, configura maus antecedentes, razão pela qual fica impedida a aplicação do redutor previsto no art. 33, § 4º, da Lei de Drogas, diante da ausência do preenchimento dos requisitos legais" (HC n. 446.042/RJ, relator Ministro FELIX FISCHER, QUINTA TURMA, julgado em 24/5/2018, DJe 29/5/2018).
+Ainda nesse sentido, confiram-se:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. DESCABIMENTO. TRÁFICO DE DROGAS. LEI N. 11.343/06. MINORANTE. CAUSA ESPECIAL DE DIMINUIÇÃO. § 4º. REQUISITOS. OBJETIVO. MAUS ANTECEDENTES. BIS IN IDEM. NÃO EVIDENCIADO. PRECEDENTES. REGIME INICIAL FECHADO. CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. QUANTUM DE PENA APLICADO. POSSIBILIDADE. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. WRIT NÃO CONHECIDO.
+1. Em consonância com a orientação jurisprudencial da Primeira Turma do Supremo Tribunal Federal - STF, esta Corte não admite habeas corpus substitutivo de recurso próprio, sem prejuízo da concessão da ordem, de ofício, se existir flagrante ilegalidade na liberdade de locomoção do paciente.
+2. A incidência da causa especial de redução da pena prevista no § 4º do art. 33 da Lei de Drogas pressupõe a ocorrência, cumulativa de 4 requisitos: (a) ser primário; (b) possuir bons antecedentes; (c) não dedicar-se a atividades criminosas; (d) não integrar organização criminosa.
+Na hipótese, o acórdão recorrido destacou que o paciente possui maus antecedentes, o que afasta, de plano, a concessão da causa especial de redução da pena pretendida, estando esse fundamento em consonância com o entendimento desta Corte. Ressalta-se, ainda, que a jurisprudência deste Tribunal Superior entende que não resta configurado indevido bis in idem a utilização de tal vetor para aumentar a pena-base e, concomitantemente, afastar a minorante em questão.
+3. Para a fixação do regime inicial deve-se observar o disposto no art. 33, §§ 2º e 3º; c.c. o art. 59, ambos do Código Penal - CP, e art. 42 da Lei de Drogas, tendo em vista o afastamento, pelo Supremo Tribunal Federal - STF, da obrigatoriedade do regime fechado para os condenados por crimes hediondos e equiparados. In casu, a presença de circunstância judicial desfavorável justifica a fixação do regime inicial fechado.
+4. Habeas corpus não conhecido.
+(HC 520.497/SP, Rel. Ministro JOEL ILAN PAC IORNIK, QUINTA TURMA, julgado em 3/9/2019, DJe 12/9/2019, grifei.)
+PENAL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. MAUS ANTECEDENTES. EXASPERAÇÃO DA PENA-BASE E INAPLICABILIDADE DA MINORANTE. BIS IN IDEM. INOCORRÊNCIA. PEDIDO DE ALTERAÇÃO DO REGIME PRISIONAL. INOVAÇÃO RECURSAL. AGRAVO NÃO PROVIDO.
+1. Os condenados pelo crime de tráfico de drogas terão a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrarem organizações criminosas (art. 33, § 4º, da Lei n. 11.343/2006).
+2. Hipótese em que as instâncias de origem negaram a incidência da referida minorante, pela falta do atendimento dos pressupostos legais, pois o recorrente é portador de maus antecedentes (registra duas condenações anteriores definitivas).
+3. Não configura bis in idem a utilização dos maus antecedentes para exasperar a pena-base e, ao mesmo tempo, para afastar a aplicação da causa de diminuição do tráfico privilegiado.
+4. O pedido de alteração do regime prisional para o inicial semiaberto configura indevida inovação recursal, pois não foi objeto de questionamento nas razões do recurso especial.
+5. Agravo regimental não provido.
+(AgInt no AREsp 1350765/RS, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 20/9/2018, DJe 26/9/2018, grifei.)
+Na hipótese, o Juízo de primeira instância e o Tribunal de origem consideraram os maus antecedentes do recorrente, tanto que a referida vetorial foi negativada na primeira fase da dosimetria da pena.
+É digno de nota que,uma vez que as instâncias de origemutilizaram fundamentação idônea para a exasperação da pena-base pelo demérito dos maus antecedentes, o acolhimento das teses trazidas pela defesa em relação a cada uma das condenações anteriores do recorrente demandaria, inevitavelmente, o revolvimento do acervo fático-probatório, providência incabível na via do recurso emhabeas corpus.
+Não vislumbro, portanto, as alegadas ilegalidades.
+À vista de todo o exposto, nego provimento ao recurso.
+Publique-se. Intimem-se.
