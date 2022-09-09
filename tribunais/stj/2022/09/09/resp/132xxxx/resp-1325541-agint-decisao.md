@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo interno interposto por BANCO SANTANDER BRASIL S/A contra decisão de fls. 777/784, integrada pela decisão dos embargos de declaração de fls. 804/806, que negou provimento ao recurso especial de fls. 416/458, sob os seguintes fundamentos:
+(a) inexistência de negativa de prestação jurisdicional;
+(b) incidência da Súmula 83/STJ, porque as questões relativas (i) à legitimidade do banco agravante; (ii) à incidência do IPC como como forma de cálculo dos expurgos inflacionários; e (iii) do prazo prescricional aplicado ao caso estão em consonância com a jurisprudência desta Corte Superior.
+Por sua vez, nas razões do presente agravo a instituição financeira sustenta, preliminarmente, anecessidade de suspensão do feito porque o STF reconheceu a repercussão geral da matéria no RE 1.141.156/RJ (Tema 1.016), com determinação de sobrestamento dos feitos.
+É o relatório. Decido.
+Assiste razão à parte agravante.
+Nas razões do recurso especial, a parte recorrente discute sobre a inclusão de expurgos inflacionários dos planos econômicos na correção monetária incidente sobre valores depositados judicialmente.
+Ocorre que o Plenário do egrégio Supremo Tribunal Federal, no RE 1.141.156/RJ, por maioria de votos, reconheceu a repercussão geral da matéria constitucional referente à inclusãodos expurgos inflacionários na correção monetária dos depósitos judiciais (Tema 1.016), determinando a suspensão nacional de todos os processos que envolvam o tema. nos termos da seguinte ementa:
+"EMENTA: RECURSO EXTRAORDINÁRIO. REPERCUSSÃO GERAL. DEPÓSITO JUDICIAL. CORREÇÃO MONETÁRIA. INCIDÊNCIA DE EXPURGOS INFLACIONÁRIOS. 1. Há repercussão geral da questão constitucional referente à inclusão dos expurgos inflacionários na correção monetária dos depósitos judiciais. 2. Repercussão geral da questão constitucional reconhecida."(RE 1141156 RG, Relator(a): Min. EDSON FACHIN, julgado em 15/11/2018, PROCESSO ELETRÔNICO DJe-048 DIVULG 11-03-2019 PUBLIC 12-03-2019)
+Nesse contexto, por medida de economia processual e para evitar decisões dissonantes entre a Corte Suprema e o Superior Tribunal de Justiça, os recursos que tratam da mesma controvérsia no STJ devem aguardar, no Tribunal de origem, a solução do recurso extraordinário afetado, viabilizando, assim, o juízo de conformação, atualmente disciplinado pelos arts. 1.039 e 1.040 do CPC de 2015.
+Em julgado recente da Corte Especial, o STJ reconheceu a necessidade de manutenção dos recursos especiais que tratam sobre o tema, tendo em vista queo Pleno do Supremo Tribunal Federal ainda nãofinalizou o julgamento do recurso extraordinário. A propósito:
+"AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. DEPÓSITO JUDICIAL. EXPURGOS INFLACIONÁRIOS. REPERCUSSÃO GERAL RECONHECIDA. TEMA 1.016/STF. SOBRESTAMENTO DO FEITO. DESPROVIMENTO DO RECLAMO.
+1. Nos autos do RE 1.141.156 RG, o Supremo Tribunal Federal reconheceu a existência de repercussão geral da questão referente à "inclusão dos expurgos inflacionários na correção monetária dos depósitos judiciais" (Tema 1.016/STF).
+2. Nas razões do recurso extraordinário, a parte alega a preclusão e ausência de impugnação quanto à tese referente aos índices de correção monetária aplicáveis aos depósitos judiciais.
+3. Ocorre que o Pleno do Supremo Tribunal Federal ainda não finalizou o julgamento do recurso extraordinário, o que impõe a manutenção do sobrestamento deste recurso, a teor do contido no art. 1.030, III, do Código de Processo Civil.
+4. Agravo interno não provido."
+(AgInt nos EDcl no RE nos EDcl no AgInt no AREsp n. 194.304/SP, relator Ministro Jorge Mussi, Corte Especial, julgado em 24/5/2022, DJe de 27/5/2022.)
+É importante salientar que apenas após essa providência, que representa o exaurimento da instância ordinária, é que o recurso especial, se for o caso, deverá ser reencaminhado a este Órgão Superior, a fim de que possam ser analisadas as questões jurídicas nele suscitadas e que não ficarem prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Ante o exposto, dou provimento ao agravo internopara reconsiderar as decisõesde fls. 777/784 e 804/806, determinando a remessa dos autos ao Tribunal de origem, com a respectiva baixa, para que, após a publicação do acórdão a ser proferido no recurso extraordinário com repercussão geral reconhecida e em observância aos citados arts. 1.039 e 1.040 do CPC/2015:
+i) negue-se seguimento ao recurso, se a decisão recorrida coincidir com a orientação emanada pela Suprema Corte; ou
+ii) proceda-se ao juízo de retratação, na hipótese de o acórdão vergastado divergir da decisão sobre o tema submetido à repercussão geral.
+Publique-se.
