@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido de liminar, impetrado contraacórdão assim relatado:
+1. Trata-se de agravo regimental interposto em face da r. decisão que negou conhecimento ao habeas corpus impetrado pelos Advogados Bruno Humberto Neves e Christopher Abreu Ravagnani. Sustenta o agravante, em síntese, o cabimento do writ. Alega que o regime prisional imposto pode ser reapreciado em sede de habeas corpus. Afirma que "a jurisprudência consolidada no Col. Supremo Tribunal Federal expõe que é admissível a adoção do regime aberto aos reincidentes condenados a pena igual ou inferior a quatro anos se favoráveis as circunstâncias judiciais e ser tal regime proporcional com as circunstâncias do delito". Aponta, ainda, que as circunstâncias judiciais são favoráveis ao paciente no presente caso, e sua pena-base foi estabelecida no mínimo legal, devendo ser fixado regime prisional menos gravoso. Requer, diante disso, o provimento do presente agravo regimental, reformando-se a r. decisão agravada, para que o habeas corpus impetrado seja conhecido e a ordem concedida, para fins de fixação do regime inicial aberto. A r. decisão agravada foi mantida por seus próprios fundamentos, encaminhando-se o presente recurso à mesa. É o relatório.
+Consta dos autos que o pacientefoi condenado, como incurso no artigo 304 c.c. o artigo 297, caput, ao cumprimento de 2 anos e 4 meses de reclusão, em regime inicial semiaberto, além do pagamento de 11 dias-multa.
+Impetrado prévio writ na origem, a ordem foi denegada.
+Na presente impetração, a defesa sustenta que o paciente faz jus à fixação do regime aberto para o cumprimento da pena, não sendo a reincidência capaz de agravar sua situação prisional.
+Requer, liminarmente e no mérito, a imposição de modo menos gravoso.
+A liminar foi indeferida, as informações foram prestadas e o Ministério Público manifestou-se pelo não conhecimento.
+Verifica-se que o Tribunal de origem assim se pronunciou, nos termos do voto do relator(fls. 20-22):
+1. Trata-se de agravo regimental interposto em face da r. decisão que negou conhecimento ao habeas corpus impetrado pelos Advogados Bruno Humberto Nevese Christopher Abreu Ravagnani.
+Sustenta o agravante, em síntese, o cabimento do writ. Alega que o regime prisional imposto pode ser reapreciado em sede de habeas corpus. Afirma que "a jurisprudência consolidada no Col. Supremo Tribunal Federal expõe que é admissível a adoção do regime aberto aos reincidentes condenados a pena igual ou inferior a quatro anos se favoráveis as circunstâncias judiciais e ser tal regime proporcional com as circunstâncias do delito". Aponta, ainda, que as circunstâncias judiciais são favoráveis ao paciente no presente caso, e sua pena-base foi estabelecida no mínimo legal, devendo ser fixado regime prisional menos gravoso. Requer, diante disso, o provimento do presente agravo regimental, reformando-se a r. decisão agravada, para que o habeas corpus impetrado seja conhecido e a ordem concedida, para fins de fixação do regime inicial aberto.
+A r. decisão agravada foi mantida por seus próprios fundamentos, encaminhando-se o presente recurso à mesa.
+É o relatório.
+2. O presente agravo não comporta provimento.
+O habeas corpus foi rejeitado nestes termos:
+"2. O writ não pode ser sequer admitido.
+Verifica-se que o paciente foi condenado à pena de 2 anos e 4 meses de reclusão, em regime inicial semiaberto, e 11 dias-multa, pela prática do crime de uso de documento falso.
+Não houve interposição de recurso e a sentença condenatória transitou em julgado em 18 de maio de 2020 para o Ministério Público1, e em 2 de agosto de 2021para a Defesa2.
+Ao que consta, o mandado de prisão expedido em desfavor do paciente foi cumprido em 18 de março de 2022.
+De ver-se que o estreito âmbito de cognição do habeas corpus não se coaduna com a questão atinente à correção de regime inicial de cumprimento de pena motivadamente fixado em sentença.
+Trata-se de matéria dependente de análise de provas, incompatível com o direito líquido e certo tutelado por meio do remédio heroico; afinal, pode o órgão ad quem, em apelação, sede própria para a discussão da questão, à luz de dados probatórios constantes dos autos, valer-se de motivação diversa daquela empregada pelo juízo a quo para preservar o regime por ele estabelecido.
+Não constitui, pois, o habeas corpus sucedâneo do recurso de apelação.
+Muito embora, no caso em apreço, o paciente não tenha apelado, poderá, se vislumbrar cabimento, ajuizar revisão criminal.3.
+Isto posto, monocraticamente, indefiro o processamento do habeascorpus."Manifestamente descabido discutir em sede de habeas corpus o regime imposto, como se de apelação se tratasse.
+Confira-se, a propósito, decisão do Supremo Tribunal Federal:
+"Ementa: AGRAVO REGIMENTAL NO HABEAS CORPUS. (..) HABEASCORPUSSUBSTITUTIVODERECURSOORDINÁRIO.INADMISSIBILIDADE. (..) 4. O habeas corpus é inadmissível como substitutivo do recurso cabível, sendo evidente, ainda, a ausência de julgamento do agravo regimental interposto da decisão do Tribunal a quo." (HC 149197 AgR, Relator(a): Min. LUIZ FUX, Primeira Turma, julgado em 07/05/2018, PROCESSO ELETRÔNICO DJe-096 DIVULG 16-05-2018 PUBLIC 17-05-2018).
+3. Posto isso, pelo meu voto, nega-se provimento ao agravo regimental.
+Como se observa, a Corte estadual nãoanalisou o mérito da questão objeto da presente impetração.
+Nessa toada, fica obstada a análise dessas alegações de forma inaugural no presentewrit, sob pena de indevida supressão de instância e de violação da competência que foi constitucionalmente definida para esta Corte. Nesse sentido: HC 652933 / PR, Relator(a) Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 01/06/2021, DJe 08/06/2021; AgRg no HC 441592 / DF, Relator(a) Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 13/04/2021, DJe 16/04/2021.
+Por outro lado,na hipótese em exame,não se pode subtrair do Tribunal estadual a verificação quanto à existência de ilegalidade flagrante, caso em que deverá conceder a ordem de ofício.
+Desse modo, constatando-se do acórdão impugnado que a Corte de origem não examinou a matéria essencial dowrit, restou configurado constrangimento ilegal diante da negativa de prestação jurisdicional, conforme jurisprudência desta Corte:
+EXECUÇÃO PENAL.HABEAS CORPUSSUBSTITUTIVO DE RECURSO ORDINÁRIO. EXCESSO DE PRAZO NA APRECIAÇÃO DO PEDIDO DE PROGRESSÃO DE REGIME PELA VARA DE EXECUÇÃO. TESE NÃO ANALISADA PELO TRIBUNAL A QUO.
+SUPRESSÃO DE INSTÂNCIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL EVIDENCIADA. CONSTRANGIMENTO ILEGAL CARACTERIZADO.
+ ..  III - In casu, a tese de excesso de prazo para apreciação do pleito de progressão de regime não foi sequer analisada pelo Tribunal a quo, o que impede esta Corte Superior apreciá-la, diretamente, sob pena de indevida supressão de instância. Contudo, noto que a não manifestação do eg. Tribunal a quo configurou indevida negativa de prestação jurisdicional. (Precedentes).
+ ..  Habeas corpus não conhecido. Ordem concedida de ofício, tão somente, para determinar que a Vara de Execuções Penais aprecie o pedido de progressão de regime, como entender de direito. (HC 334.762/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 4/2/2016, DJe 26/2/2016)
+RECURSO ORDINÁRIO EMHABEAS CORPUS. CRIME AMBIENTAL. FALTA DE JUSTA CAUSA PARA A PERSECUÇÃO PENAL. AUSÊNCIA DE COMPROVAÇÃO DA MATERIALIDADE DELITIVA. ATIPICIDADE DA CONDUTA IMPUTADA AO RECORRENTE. ILEGALIDADE DE UMA DAS CONDIÇÕES IMPOSTAS NA PROPOSTA DE SUSPENSÃO CONDICIONAL DO PROCESSO. IMPETRAÇÃO DE MANDAMUS NO TRIBUNAL A QUO. MATÉRIAS NÃO APRECIADAS PELA CORTE DE ORIGEM.
+SUPRESSÃO DE INSTÂNCIA. REJEIÇÃO DOS EMBARGOS DE DECLARAÇÃO OPOSTOS PELA PARTE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. CONCESSÃO DA ORDEM DE OFÍCIO.
+ ..  2. Da leitura do acórdão objurgado, observa-se que em momento algum tais questões foram enfrentadas pela Corte de origem, que mesmo depois da oposição de embargos de declaração pela defesa deixou de analisar os temas, o que evidencia a negativa de prestação jurisdicional, ensejando constrangimento ilegal passível de ser remediado com a concessão da ordem dehabeas corpus, ainda que de ofício. Precedente.
+ ..  4. Recurso não conhecido. Habeas corpus concedido de ofício para determinar a baixa dos autos ao Tribunal de Justiça do Estado de São Paulo para que aprecie o mérito domandamuslá impetrado. (RHC 55.949/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 7/5/2015, DJe 20/5/2015)
+Ante o exposto, concedo ohabeas corpusapenas para determinar que o Tribunal local examine, como entender de direito, opleito da defesa doPaciente.
+Comunique-se.
+Publique-se.
+Intimem-se.
