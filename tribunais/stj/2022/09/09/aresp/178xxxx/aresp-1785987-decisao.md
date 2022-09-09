@@ -1,0 +1,31 @@
+DECISÃO
+Adinilso Siricoopôs embargos à execução proposta pelo Ministério Público do Estado de Goiás, fundada em acórdão proferido peloTribunal de Contas Estadual, alegando, em suma, a ilegitimidade ativa do Parquet, bem assim aausência de eficácia do título e de sua nulidade.
+A sentença rejeitou os embargos e determinou o seguimento da execução(fls. 113-116).
+OTribunal de Justiça do Estado de Goiásreformou a sentença para extinguir o feito sem resolução do mérito ante a ilegitimidade do Ministério Pública Estadual para figurar como exequente do título. O julgado recebeu a seguinte ementa(fl. 193):
+APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO. AÇÃO CIVIL PÚBLICA DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. RESOLUÇÃO DE IMPUTAÇÃO DE DÉBITO EMANADA DO TRIBUNAL DE CONTAS DOS MUNICÍPIOS. ILEGITIMIDADE ATIVA DO MINISTÉRIO PÚBLICO.
+1. Cabe ao ente público beneficiado pela decisão do Tribunal de Contas que resultou em imputação de débito, enquanto credor do título executivo, propor a ação competente para que a obrigação seja satisfeita, falecendo ao Ministério Público legitimidade para tanto. Precedentes do STF e STJ.
+2. Assim, deve a sentença objurgada ser reformada, com a consequente extinção do processo executivo sem resolução do mérito, nos termos do art. 485, inciso VI, do CPC.
+APELAÇÃO CONHECIDA E PROVIDA. EXECUÇÃO EXTINTA.
+Os embargos de declaração opostos foram rejeitados(fls. 223-236).
+Ministério Público do Estado de Goiásinterpôs recurso especial, com fundamento no art. 105, III, ae c, da Constituição Federal, alegando violação dos arts. 505 e 507 do CPC/2015, porquanto, tendo o juízo singular decidido a respeito da legitimidade ativa do Ministério Público Estadual, em decisão passível de insurgência por meio de agravo de instrumento, tal matéria não poderia ser arguida, tampouco conhecida no recurso de apelação, ante a ocorrência de preclusão consumativa.
+Alegou, em síntese, que "o recorrido poderia ter insurgido contra a decisão do magistrado de piso, por meio de agravo de instrumento, cabível segundo regramento do artigo 522 do antigo Código de Processo Civil de 1973 - ainda vigente à época da prolação da decisão que reconheceu a legitimidade ministerial em sede de execução - por se tratar de pronunciamento judicial capaz de gerar lesão grave e de difícil reparação, porém não o fez, deixando transcorrer vários anos para arguir a matéria novamente em sede de apelação já no bojo dos embargos à execução" (fl. 250).
+Foram apresentadas contrarrazões (fls. 263-273) e o Tribunal de origeminadmitiu o recurso especial (fls. 275-276), tendo sido interposto o presente agravo.
+O Ministério Público Federal opinou pelo provimento do recurso especial(fls. 355-359).
+É o relatório. Decido.
+Considerando que a parteagravante impugnou a fundamentação apresentada na decisão agravada, e atendidos os demais pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Sem razão o eminenteParquetrecorrente.
+Com efeito, as manifestações do juízo singular no sentido de se reconhecer a legitimidade ativa do Ministério Público Estadual poderiam ensejar a preclusão do direito do executado de insurgir sobre o entendimento por não terem sido objeto de agravo de instrumento no momento processual oportuno.
+Entretanto, ocorre que, suscitada a questão na peça de defesa da execução, o julgador optou por conhecê-la e adentrar seu mérito, julgando-a de forma fundamentada em um dos capítulos da sentença. Confira-se (fl. 114):
+Primus modus quanto a propalada ausência de legitimatio ad causam do M.P., esta jurisdição tem exegese própria e centrada em que inegavelmente está o parquetcredenciado, por força da interpretação sistemática dos artigos 129, III/CF; 6ºVII, alínea "b"/LC 75/93 e 25 IV, alíneas "a" e "b"/Lei 8.625/93, para lançar no mundo jurídico a exigência de débito advindo de RID(que aliás ostenta por si só e afora inscrição em dívida ativa, os requisitos a certeza, liquidez e exigibilidade).
+Seria inominável despautério, mormente cm um país onde a classe política infelizmente nunca ostentou qualquer compromisso com as burras públicas, campeando em seu agere o fisiologismo, a troca bruta de favores e a vinculação desabrida de interesses, tolher-se do Ministério Público a legitimação para perseguir aquilo que um de seus integrantes, aos olhos da Lei e da Corte de Contas, malbaratou em defluência de sua ação gestora.
+Neste passo O Manual de Atuação na Defesa do Património Publico feito pela Escola Superior do Ministério Publico/GO, rememorado na peça inaugural, fez uma colocação absolutamente feliz eque derriba qualquer ponderação que vise desconstitui a dita visão de legitimidade do parquetnesta seara, isto quando cogitou ele da situação fática onde o devedor ainda está à frente da gerência dos cofres do presumido credor.
+Pergunta-se: a exigênciaem um pais como o nosso, iria adiante,..
+Ora,sendo o M. P. o guardião da lei o principal esculca da defesa do patrimônio público, como então se dizê-lodeslegitimado para perseguir aquilo que restou desviado dos cofres públicos pela má gestão do imputado
+Desta feita, houve a abertura material para que a defesa, em apelação, devolvesse ao tribunal a matéria outrora tratada em decisões anteriores, nos moldes do art. 1.013,§ 1º e§ 2º, do CPC/2015, não havendo que se falar em preclusão, portanto.
+Ademais, o reexame do acórdão recorrido, em confronto com as razões do recurso especial, revela que os fundamentos apresentados naquele julgado, acerca da ausência de natureza decisória das manifestações anteriores à sentença, e à ausência de contraditório (fl. 233), utilizados de forma suficiente para manter a decisão proferida no Tribunal a quo, não foram rebatidos no apelo nobre, o que atrai os óbices das Súmulas n. 283 e 284, ambas do STF, in verbis:
+Súmula n. 283.
+É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+Súmula n. 284
+É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, ae b, do RISTJ, conheço do agravo para conhecer parcialmente do recurso especial e, nessa parte, negar-lhe provimento.
+Publique-se. Intimem-se.
