@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se dehabeas corpusimpetrado em benefício deWILDO BATISTA DA SILVA DUARTE, apontando-se como autoridade coatora o Desembargador doTRIBUNAL DE JUSTIÇA DE SÃO PAULO, que indeferiu o pedido liminar nos autos doHabeas Corpusn. 2183635-81.2022.8.26.0000.
+Verifica-se dos autos que, em 5/8/2022, o Juízo de Vara de Execuções Criminais e Infância e Juventude da comarca de Itapetininga/SP (Autos n.1006225-56.2021.8.26.0269) indeferiu o pedido do paciente de progressão ao regime aberto, destacando a necessidade de realização de exame criminológico (fl. 420).
+Nestemandamus, os impetrantes alegam, em síntese, que a gravidade abstrata do crime, a longa pena a cumprir e as faltas praticadas durante a execução da pena, já reabilitadas, não servem de motivação idônea para exigir a realização do exame criminológico e impedir a progressão para o regime aberto.
+Requerem, inclusive liminarmente, a concessão da ordem a fim de queo Juiz de piso analise o pedido de progressão de regime, afastando a necessidade de realização de exame criminológico.
+É o relatório.
+Owritnão comporta seguimento.
+Não obstanteos argumentos dispostos na inicial dohabeas corpus,esta Corte possui entendimento sumulado de que se admite o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada (Súmula 439/STJ).
+É assente na jurisprudência do Superior Tribunal de Justiça quenão há constrangimento ilegal na exigência de exame criminológico, mesmo após a edição da Lei n. 10.792/2003, desde que fundamentada a decisão na gravidade concreta do delitoou em dados concretos da própria execução(AgRg no HC n. 302.033/SP, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 16/9/2014 - grifo nosso). Na mesma linha, HC n. 523.840/MG, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 29/10/2019; e AgRg no HC n. 562.274/SP, Ministro Felix Fischer, Quinta Turma, DJe 28/5/2020.
+Afora isso,ainda que haja atestado de boa conduta carcerária, a análise desfavorável do mérito do condenado feita  .. , com base nas peculiaridades do caso concreto e levando em consideração fatos ocorridos durante a execução penal, justifica o indeferimento do pleito de progressão de regime prisional pelo inadimplemento do requisito subjetivo" e, ainda, "não se aplica limite temporal à análise do requisito subjetivo, devendo ser analisado todo o período de execução da pena, a fim de se averiguar o mérito do apenado"(HC n. 564.292/SP, Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 16/6/2020, DJe 23/6/2020).Na mesma linha, ainda o HC n. 714.712/SP, Ministro JESUÍNO RISSATO (Desembargador convocado do TJDFT), QUINTA TURMA, DJe 21/3/2022.
+Assim, se, na origem, foi aferida a ausência do requisito subjetivo do paciente, em razão da prática de faltas disciplinares, nesta via, não há como afastar tal conclusão, ante a necessidade de reexame fático-probatório, providência inadmissível neste âmbito.
+Ante o exposto,indefiro liminarmenteo habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS.EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. NECESSIDADE DE REALIZAÇÃO DE EXAME CRIMINOLÓGICO. POSSIBILIDADE. PRECEDENTES. AUSÊNCIADO REQUISITO SUBJETIVO. REEXAME FÁTICO-PROBATÓRIO. INADMISSIBILIDADE.
+Writindeferido liminarmente.
