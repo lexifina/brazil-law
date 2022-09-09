@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS, com amparo no art. 105, III, "a", da Constituição da República, contra acórdão do Tribunal de Justiça da mesma unidade federativa, assim ementado:
+"APELAÇÃO CRIMINAL - TRÁFICO DE DROGAS - ABSOLVIÇÃO - IMPOSSIBILIDADE - DESCLASSIFICAÇÃO PARA O DELITO DE POSSE ILEGAL DE DROGAS PARA CONSUMO PESSOAL - INVIABILIDADE - FINALIDADE MERCANTIL DEMONSTRADA - PALAVRA DOS POLICIAIS - CONDENAÇÃO MANTIDA - ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS - ABSOLVIÇÃO - DESCABIMENTO - ANIMUS ASSOCIATIVO COMPROVADO - PORTE ILEGAL DE MUNIÇOES - ABSOLVIÇÃO - INVIABILIDADE - CONFISSÃO ESPONTÂNEA (QUALIFICADA) - ATENUANTE RECONHECIDA.
+- Comprovadas a materialidade e autoria delitivas do tráfico iIcito de drogas, por meio do robusto acervo probante, em especial pelas declarações dos policiais e apreensão de significativa quantidade de droga, não há que se falar em absolvição.
+- O valor probante dos depoimentos prestados por policiais é igual ao de qualquer outra testemunha, a teor do disposto no art. 202 do CPP, sendo que a condição de agente do Estado não retira a confiabilidade das palavras do agente.
+- O crime previsto no art. 28, da Lei de Drogas, ao contrário do tipificado no art. 33, do mesmo Diploma, exige, para a sua configuração, elemento subjetivo específico, consistente no exclusivo uso próprio.
+- Se a defesa não cuidou de produzir qualquer elemento de prova que corrobore as alegações do acusado, de que a droga apreendida em seu poder destinava-se unicamente ao uso próprio, a condenação deste pelo crime previsto no art. 33, da Lei nº. 11.343/2006 é imperativa.
+- Comprovado que os recorrentes se reuniram para praticarem reiteradamente o comércio de substância entorpecente, dividindo entre eles tarefas e funções, é evidente a existência de uma sociedade espúria voltada para o tráfico de drogas, sendo de rigor a condenação pela prática do delito do ad. 35 da Lei 11.343106.
+- Nos moldes da Súmula 545/STJ do Colendo Superior Tribunal de Justiça, a atenuante da confissão espontânea deve ser reconhecida, ainda que tenha sido parcial ou qualificada, quando tal manifestação for utilizada para fundamentar o juízo condenatório." (e-STJ, fl. 760, grifou-se).
+Os embargos de declaração opostos foram rejeitados (e-STJ, fl. 789).
+O Parquet aponta negativa de vigência dos arts. 59, 65, inciso III, "d", e 68 do Código Penal.
+Sustenta que a atenuante da confissão espontânea "somente pode ser reconhecida em favor daqueles que confessam a autoria do delito que lhe é imputado" (e-STJ fl. 845).
+Todavia, no caso, "o réu não confessou o delito de tráfico ilícito de entorpecentes, mas somente confirmou a propriedade da substância entorpecente, afirmando que a droga era para o seu uso pessoal" (e-STJ fl. 846).
+Requer, assim, seja decotada a atenuante da confissão espontânea.
+Foram apresentadas as contrarrazões (e-STJ, fls. 861-863).
+Admitido o recurso, os autos ascenderam ao STJ.
+O Ministério Público Federal opina pelo provimento do recurso especial (e-STJ, fls. 925-930).
+É o relatório.
+Decido.
+A pretensão recursal merece acolhimento.
+No tocante ao crime previsto no art. 33, caput, da Lei 11.343/2006, o Tribunal de origem reconheceu a incidência da atenuante da confissão espontânea, nos seguintes termos:
+"Já em relação, a Sirley, há que se reconhecer na segunda fase a atenuante da confissão espontânea, uma vez que confirmou a propriedade da droga, mas negou apenas a destinação mercantil. Desse modo, contribuiu para a elucidação dos fatos. Assim, ausentes agravantes, atenuo a pena para 05 anos de reclusão e 500 dias-multa, a qual fica definitivamente aplicada à mingua de causas de aumento e diminuição." (e-STJ fl. 770).
+Entretanto, de acordo com a jurisprudência desta Corte, a confissão do agente, condenado pelo delito de tráfico de drogas, no sentido de que é mero usuário, não induz a incidência da atenuante prevista no art. 65, III, "d", do Código Penal (HC 488.991/PR, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 26/03/2019, DJe 08/04/2019; HC 398.722/SC, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 28/11/2017, DJe 04/12/2017).
+Corroboram:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO DE DROGAS. LICITUDE DA PROVA. ALEGADA VIOLAÇÃO DE DOMICÍLIO. INOCORRÊNCIA. FUNDADAS RAZÕES. ATENUANTE DA CONFISSÃO. NÃO INCIDÊNCIA. SÚMULA 630/STJ. RECURSO NÃO PROVIDO.
+1. Na esteira do decidido em repercussão geral pelo Pleno do Supremo Tribunal Federal, no julgamento do RE n. 603.616, para a adoção da medida de busca e apreensão domiciliar sem mandado judicial, faz-se necessária a caracterização de justa causa, consubstanciada em fundadas razões as quais indiquem a situação de flagrante delito no imóvel.
+2. No caso, o Tribunal de origem reconheceu a busca domiciliar como válida, porque precedida de justa causa, constando dos autos que os policiais, após denúncias de que o recorrente cultivava e comercializava maconha, investigaram junto a vizinhos e populares, que confirmaram a intensa movimentação de veículos na referida residência, além de intensa atividade do próprio acusado.
+3. "A incidência da atenuante da confissão espontânea no crime de tráfico ilícito de entorpecentes exige o reconhecimento da traficância pelo acusado, não bastando a mera admissão da posse ou propriedade para uso próprio" (Súmula n. 630, TERCEIRA SEÇÃO, julgado em 24/4/2019, DJe 29/4/2019).
+4. Agravo regimental não provido."
+(AgRg no REsp n. 2.000.062/PR, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 16/8/2022, DJe de 22/8/2022.)
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. DESCLASSIFICAÇÃO PARA USO PRÓPRIO. ANÁLISE. INVIABILIDADE. ENUNCIADO N. 7 DO STJ. NÃO APLICAÇÃO. ATENUANTE DA CONFISSÃO ESPONTÂNEA. IMPOSSIBILIDADE. SÚMULA N. 630 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL. ACÓRDÃOS PROFERIDOS EM HABEAS CORPUS. UTILIZAÇÃO. IMPRESTABILIDADE. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Tribunal de origem concluiu que, na espécie, a Acusação produziu provas hábeis a alicerçar a condenação do Agravante pelo delito de tráfico de entorpecentes, não tendo havido inversão do ônus probatório. Rever esse entendimento, com o intuito de desclassificar a conduta imputada para a do delito previsto no art. 28 da Lei n. 11.343/2006, implicaria no reexame do acervo fático-probatório, providência inviável em recurso especial, nos termos do Enunciado n. 7 da Súmula do STJ.
+2. O acórdão recorrido, ao deixar de reconhecer a atenuante da confissão, está em conformidade com a Súmula n. 630 do Superior Tribunal de Justiça, segundo a qual, " a  incidência da atenuante da confissão espontânea no crime de tráfico ilícito de entorpecentes exige o reconhecimento da traficância pelo acusado, não bastando a mera admissão da posse ou propriedade para uso próprio".
+3. Não cabe o apelo nobre, mesmo pela alínea c da previsão constitucional, pois colacionados como paradigmas acórdãos proferidos em habeas corpus.
+4. Agravo regimental desprovido."
+(AgRg no AREsp n. 1.777.377/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 27/4/2021, DJe de 4/5/2021.)
+O referido entendimento, inclusive, está sumulado no enunciado 630/STJ ("A incidência da atenuante da confissão espontânea no crime de tráfico ilícito de entorpecentes exige o reconhecimento da traficância pelo acusado, não bastando a mera admissão da posse ou propriedade para uso próprio").
+No caso, o recorrido, em juízo, alegou "que os fatos narrados na denúncia não são verdadeiros; que não é traficante; que a droga apreendida é para seu uso próprio" (e-STJ, fl. 440).
+Nota-se, dessa forma, que o réu buscou afastar sua conduta do tipo penal pelo qual foi denunciado, limitando-se a declarar ser mero usuário de entorpecentes e proprietário da droga apreendida.
+Desse modo, é inviável a aplicação da atenuante prevista no art. 65, inciso III, d, do Código Penal, razão pela qual impõe-se o seu decote no cálculo da reprimenda.
+A pena-base parte de 5 anos e 6 meses de reclusão, mais pagamento de 550 dias-multa, conforme estabelecido pelo Tribunal local. Em razão da exclusão da atenuante da confissão espontânea que ora se determina, e diante da ausência de demais causas de aumento ou de diminuição de pena, torna-se definitiva a pena neste montante.
+Ante o exposto, com fulcro no art. 34, XVIII, "c", do RISTJ, dou provimento ao recurso especial para afastar a atenuante da confissão espontânea, restabelecendo a pena fixada pelo magistrado de primeiro grau, quanto ao delito de tráfico de drogas, no patamar de 5 anos e 6 meses de reclusão, mais 550 (quinhentos e cinquenta) dias-multa, nos termos da sentença condenatória.
+Publique-se. Intimem-se.
