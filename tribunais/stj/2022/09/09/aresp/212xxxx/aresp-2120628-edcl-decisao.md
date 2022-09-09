@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por RF TRANSPORTES EIRELI em face da decisão que conheceu do agravo para não conhecer do recurso especial, em razão da aplicação de súmulas de admissibilidade recursal, nos termos do art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça.
+Em suas razões, sustenta a parte embargante que:
+1) Em que pese a decisão monocrática ter alegado que incidiria a Súmula n. 13/STJ uma vez que "a divergência entre julgados do mesmo tribunal não enseja recurso especial", deixou de analisar, ocorrendo omissão, que o primeiro julgado apontado como divergente é do Tribunal de Justiça de São Paulo.
+Os demais julgados foram expostos no recurso apenas para fins informativos.
+Assim, infere-se que a divergência apontada é de julgado de Tribunal diverso do prolator da decisão impugnada.
+Diante disso, não há que se falar em violação à Súmula 13 do STJ, sendo que a decisão monocrática foi omissa ao deixar de observar que a divergência é entre julgados dos Tribunais de Justiça de Santa Catarina e de São Paulo.
+Existe omissão, ainda, quanto à alegação de que de ausência de cotejo analítico, isso porque da análise dos precedentes de fls. 5-9 do Recurso Especial, observa-se o extenso debate sobre os julgados ali mencionados, havendo ainda a devida justificação acerca das características que assemelham o caso paradigma com o caso em análise e a demonstração da divergência de entendimentos.
+Embora tenha afirmado que não foi indicada a semelhança entre os casos, deixou de apresentar qualquer hipótese de divergência entre eles.
+Certo é que a decisão foi genérica e não condiz com a realidade do recurso interposto.
+O que se requer aqui é apenas que o recurso seja analisado atentamente, suprindo as omissões acima apontadas, já que deixou se observar que o julgado apontado como divergente é do Tribunal de Justiça de São Paulo e a decisão recorrida é do Tribunal de Justiça de Santa Catarina, portanto distintos e, ainda, deixou de observar que foi feito o devido cotejo analítico (fls.162-163)
+2) Por fim, aponta-se outra omissão, quanto à majoração de honorários sucumbenciais, já que não há honorários previamente fixados, considerando que a decisão recorrida foi proferida em sede de Agravo de Instrumento (fls. 163)
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado.
+Com efeito, o ora embargante, na petição de recurso especial, à fl. 88, afirma que: "Conforme será demonstrada a seguir, ocorreu divergência jurisprudencial, devendo ser reformada a decisão hostilizada". Na sequência, apresenta julgados do TJSP e do TJSC, sem deixar absolutamente claro sobre qual julgado haveria o dissídio. Assim, correta a incidência da Súmula 13/STJ ao caso.
+Registre-se que "não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução. Nesse sentido: REsp 927.216/RS, Segunda Turma, Relatora Ministra Eliana Calmon, DJ de 13.8.2007; e REsp 855.073/SC, Primeira Turma, Relator Ministro Teori Albino Zavascki, DJ de 28.6.2007". (EDcl nos EDcl no REsp 1642531/SC, relator Ministro Herman Benjamin, Segunda Turma, DJe de 22/4/2019.)
+Por fim, ressalto que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, o EDcl no AgRg nos EREsp n. 1.315.507/SP, relator Ministro Luis Felipe Salomão, Corte Especial, DJe de 28/8/2014.
+Contudo, em relação à majoração dos honorários advocatícios, os embargos comportam acolhimento.
+O novo Código de Processo Civil, ao prever o instituto da majoração dos honorários advocatícios em razão do julgamento de recurso, condicionou sua aplicação desde que haja prévia fixação de honorários pela instância a quo.
+Assim dispõe o art. 85, § 11, do Código de Processo Civil, acerca dos honorários recursais:
+§ 11. O tribunal, ao julgar recurso, majorará os honorários fixados anteriormente levando em conta o trabalho adicional realizado em grau recursal, observando, conforme o caso, o disposto nos §§ 2o a 6o, sendo vedado ao tribunal, no cômputo geral da fixação de honorários devidos ao advogado do vencedor, ultrapassar os respectivos limites estabelecidos nos §§ 2o e 3o para a fase de conhecimento.
+Como se vê, o referido dispositivo prevê que, no julgamento do recurso, o tribunal majorará os honorários fixados anteriormente. Em outras palavras, é condição para majoração a prévia fixação de honorários advocatícios pelas instâncias de origem.
+No presente caso, verifica-se que não foram fixados honorários na instância de origem. Assim, tendo em vista que não estão preenchidas as condições acima delineadas, descabe a pleiteada majoração dos honorários recursais.
+Ante o exposto, acolho parcialmente os embargos de declaração para tão somente afastar da decisão embargada a questão referente à majoração dos honorários recursais.
+Publique-se. Intimem-se.
