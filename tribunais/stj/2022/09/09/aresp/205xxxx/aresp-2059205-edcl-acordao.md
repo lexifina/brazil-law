@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Quarta Turma, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+RELATÓRIO
+1. Trata-se de embargos de declaração opostos contra acórdão desta relatoria assim ementado:
+AGRAVO INTERNO. RECURSO ESPECIAL. VIOLAÇÃO AO ART. 1.022 DO CPC. INCIDÊNCIA DA SÚMULA 284 DO STF. FALTA DE PREQUESTIONAMENTO.
+1. Quando a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se, por analogia, o entendimento da Súmula 284 do STF.
+2. Ademais, a falta de menção no acórdão recorrido quanto ao argumento de que o valor do aluguel fixado foi apurado para o ano de 2017 e o período renovando se iniciou em maio de 2015 caracteriza a falta de prequestionamento do tema e, por conseguinte, a impossibilidade de sua análise em recurso especial.
+3. Agravo interno não provido.
+Sustenta que a omissão do Tribunal de origem quanto à alegaçãode que o valor do aluguel deveria ter sido fixado com referência ao período renovando que iniciou em maio de 2015 impõe o reconhecimento do vício em sede de recurso especial, porquanto alegada a violação ao art. 1.022 do CPC.
+É o relatório.
+EMENTA
+PROCESSUAL  CIVIL.  EMBARGOS  DE  DECLARAÇÃO.  RECURSO  ESPECIAL.  OMISSÃO.  NÃO  OCORRÊNCIA.  EFEITOS  INFRINGENTES.  IMPOSSIBILIDADE.  ART.  1.022  DO  NOVO  CPC.
+1.  A  pretensão  de  reformar  o  julgado  não  se  coaduna  com  as  hipóteses  de  omissão,  contradição,  obscuridade  ou  erro  material  contidas  no  art.  1.022  do  novo  CPC,  razão  pela  qual  inviável  o  seu  exame  em  sede  de  embargos  de  declaração.
+2.  Embargos  de  declaração  rejeitados.
+VOTO
+2. Consoante consignado na decisão embargada:
+3. No tocante à alegação de que o valor do aluguel deveria ser fixado com base na planta do imóvel, assim se manifestou o Tribunala quo(fls. 1.087-1.088):
+De fato, a discussão nos autos se restringiu ao valor a ser fixado a título de aluguel mensal e, não tendo as partes chegado a um consenso, houve por bem o Magistrado primevo se valer de perícia técnica para apuração do montante a ser arbitrado.
+A ""expert"" nomeada pelo Juízo, valendo-se dos critérios técnicos que elenca no laudo n. 163 e seu complemento n. 197 apontam o valor como sendo de R$ 32.500,00 (trinta e dois mil e quinhentos reais), valor esse acatado na sentença, não merecendo reparos.
+Cumpre destacar queo resultado a que chegou à perita judicial nos esclarecimentos periciais juntados aos autos às fls. 587/588, teve como base umaplanta do imóvel juntado pelo Autor/Apelante de forma unilateral, extemporânea,a qual não condiz com o conjunto probatório dos autos.
+Assim, deve ser considerado o resultado a que chegou a perita técnica, no laudo pericial, no qual a ""expert"" concluiu que o valor médio estimado da locação é de R$ 32.500,00 (trinta e dois e quinhentos reais), mantendo-se na íntegra a sentença quanto a este ponto.
+A sentença também considerou o parecer da perícia designada nos autos para fixação do valor do aluguel, após o cotejo entre os pareceres de avaliação imobiliária apresentados pelas partes (fl. 811):
+Da perícia designada nos autos, fls. 359/393, o valor médio estimado da locação é de R$ 32.500, sendo adotada como limite inferior a quantia de R$ 30.080,00 e superior, R$ 33.920,00. O assistente técnico nomeado pelos réus, fls. 394/426, a guisa de conclusão, apontou como valor real do aluguel o importe de R$ 35.046,00.
+Assim, a despeito da insurgência do autor, uma vez que a perícia realizada adotou método propício à aferição do valor do aluguel relativo ao imóvel sobre o qual recai a pretensão renovatória, coletando e explicitando dados concretos, aferindo o montante devido em linguagem direta e acessível não vislumbro qualquer nulidade.
+E, por mostrar-se adequado o importe apurado na perícia técnica aos parâmetros praticados no mercado, o caso é de se adotar a quantia de R$ 32.500,00 (..) para fins de fixação do valor locativo na ação renovatória.
+Ressoa inequívoco que reexaminar tal premissa  a adoção do laudo do perito designado nos autos e as razões para tal medida esbarraria no óbice da Súmula 7 do STJ, ante a evidente fundamentação arrimada em matéria fático-probatória.
+Como se vê, no acórdão proferido pelo Tribunal de origem não houve em momento algum menção aos argumentos ora tecidos pelo embargante, caracterizando a falta de prequestionamento do tema e, por conseguinte, a impossibilidade de sua análise.
+Ainda que a questão tenha sido suscitada em sede de embargos de declaração na origem, evidenciando quenão foi somente naquele acórdão que inexistiu qualquer referência ao alegado,é fato que o reconhecimento de omissão do Tribunala quofoi possível ante a incidência da Súmula 284 do STF, como se extrai do seguinte excerto da decisão:
+2. Devidamente impugnados os fundamentos da decisão agravada, analisa-se o recurso especial. Por primeiro, alega o recorrente omissão e contradição em virtude de não terem sido examinados os precedentes invocados nas razões de apelação, sem precisar exatamente no que consistira tal omissão e contradição. A única alegação foi a de que (fl. 1.198):
+ ..  uma vez evidente a violação aos artigos 489, §1º, VI, 1022, I e II, do Código de Processo Civil requer seja anulado v. acórdão para determinar que o E. TJMG sane a omissão e contradição existentes no v. acórdão e, com isso, "(i) fixe o valor do aluguel no importe de R$ 25.205,63, para maio de 2015, com base na planta do imóvel, sob pena de caracterização de flagrante enriquecimento sem causados Embargados em detrimento do Embargante e, consequente, violação ao artigo 884 do Código Civil, servindo, inclusive, os presentes para prequestionar o aludido artigo;(ii) ainda que não acolha o valor com base na planta do imóvel, o que se admite apenas em atenção ao princípio da eventualidade, se manifeste acerca da necessidade da retroação do valor para o início do período a renovar (maio de 2015) e, com isso, fixe o aluguel no importe deR$29.094,78".
+Como se vê, ressoa inequívoca a impossibilidade de compreensão exata da controvérsia no ponto alegado, não tendo havido nenhum comentário acerca de tais precedentes, supostamente tão importantes para o deslinde da causa, sobre quais as matérias estariam sendo debatidas para que fosse então requerido que o aluguel fosse fixado em R$ 25.205,63. Com efeito, a jurisprudência desta Corte considera que quando a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se, por analogia, o entendimento da Súmula 284 do STF.
+3. Ante o exposto, rejeito os embargos de declaração.
+É como voto.
