@@ -1,0 +1,27 @@
+DECISÃO
+Vistos etc.
+Trata-se de recurso especial interposto por PACIFIC MOTORS COMÉRCIO DE VEÍCULOSLTDA em face de acórdão do TJMG que deu parcialprovimento a sua apelação para exonerá-la da condenação àindenização de danos morais, mantendo, no maisa sentença de procedência do pedido de ação de indenização de danos materiais em virtude da frustração da entrega de veículo, alienado a terceiro, nos termos da seguinte ementa:
+EMENTA: APELAÇÃO - INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS - CONTRATO DE COMPRA E VENDA DE VEÍCULO - PAGAMENTO COMPROVADO - VEÍCULO NÃO ENTREGUE - RESTITUIÇÃO DOS VALORES PAGOS - DANOS MORAIS NÃO CONFIGURADOS.
+- Comprovados os prejuízos materiais sofridos pela parte autora, vez que adquiriu um veículo, pagou por ele e não o recebeu, tem direito ao ressarcimento da quantia paga, sob pena de enriquecimento sem causa.
+- O dano moral é o prejuízo decorrente da dor imputada a uma pessoa, em razão de atos que, indevidamente, ofendem seus sentimentos de honra e dignidade, provocando mágoa e atribulações na esfera interna pertinente à sensibilidade moral. O mero descumprimento contratual não é fato suficiente para caracterizar a ofensa aos sentimentos, honra ou dignidade do contratante, por existirem meios legais para que seja exigida observância das regras ajustadas.
+- VV. Os autores despenderam uma considerável quantia para a aquisição do veículo, de modo que a frustração ao não receber o bem, que foi alienado para terceira pessoa, com retenção dos valores pagos pelos requerentes, que precisaram acionar a Justiça para seu ressarcimento constitui situação que ultrapassa a normalidade das relações comerciais, traduzindo-se em verdadeiro dano moral. (Des. Valdez Leite Machado).
+Opostos embargos de declaração, foram rejeitados.
+No recurso especial, interposto com fundamento naalíneaaecdo permissivo constitucional, a recorrente apontou, além do dissídio jurisprudencial, ofensa aos arts. 368 e 373 do CC, alegando que a prova pericial reconheceu a existência de crédito em seu favor e em face dos recorridos no valor de R$ 11.510,00 (onze mil, quinhentos e dez reais), cuja compensação deveria ter sido autorizada nos presentes autos, independentemente da diferença de origem entre as dívidas.
+Contrarrazões ao recurso especial às fls. 1.583/1.588.
+É o relatório.
+Passo a decidir.
+O presente recurso não merece ser conhecido.
+De início, registra-se que o conteúdo normativo inserto nos 368 e 373 do CCnão foi objeto de apreciação pelo Tribunal deorigem, mesmo com a oposição de embargos de declaração, dando azo àaplicação do óbice da Súmula 211/STJ.
+Vale lembrar que "o prequestionamento é exigência inafastável contida naprópria previsão constitucional, impondo-se como um dos principaispressupostos ao conhecimento do recurso especial. Sua ocorrência se dáquando a causa tiver sido decidida à luz da legislação federal indicada,com emissão de juízo de valor acerca dos respectivos dispositivos legais,interpretando-se sua aplicação ou não ao caso concreto" (AgInt no AREsp 1733343/SC, Rel. MinistroMARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 01/03/2021, DJe03/03/2021), o que não ocorreu, na espécie.
+Com relação à interposição do recurso especial pela alínea "c" do permissivo constitucional, melhor sorte não acompanha a parte recorrente, porquanto odissídio jurisprudencial não foi comprovado conforme estabelecido nos arts. 1.029, § 1º, do CPC e 255, § 1º, do RISTJ.
+Com efeito, está ausente, na espécie, o necessário cotejo analítico ademonstrar a identidade fática e jurídica entre a hipótese dos autos e aquela expressa no paradigma, sendo certo que a simples transcrição de ementas e de trechos dos julgados não é suficiente para a comprovação do dissídio.
+É indispensável que a parte recorrente transcreva os trechos aptos a demonstrar que o aresto paradigma tenha apreciado matéria idêntica a dos autos, à luz da mesma legislação federal analisada pelo acórdão recorrido - dando-lhe solução distinta - para que se tenha por demonstrada a divergência jurisprudencial, o que não se verificou no presente caso.
+Vale lembrar que o recurso especial possui fundamentação vinculada, com forma e conteúdo próprios, e se destina a atribuir a adequada interpretação e uniformização da lei federal, e não ao rejulgamento da causa, razão por que não basta apenas dizer da existência de dissídio, senão demonstrá-lo efetivamente, como o exige a lei e na forma como reiteradas vezes já expôs esta Corte Superior.
+Assim, não conheço do especial com fundamento no alegado dissídio jurisprudencial.
+Ante o exposto, com substrato no art. 932, III, do CPC,NÃO CONHEÇO do recurso especial.
+Com fundamento noart. 85, § 11, do CPC, majoro o percentual dos honorários sucumbenciais a que condenado o recorrente na origem em 1%, totalizando 16% sobre o valor atualizado da condenação, observada a eventuale anterior concessão da gratuidade judiciária.
+Advirto as partes que a oposição de incidentes manifestamente improcedentes e protelatórios dará azo à aplicação das penalidades legalmente previstas.
+Intimem-se.
+EMENTA
+RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. AÇÃO DE INDENIZAÇÃO DE DANOS MATERIAIS E MORAIS. FRUSTRAÇÃO NA ENTREGA DE VEÍCULO. COMPENSAÇÃO DE CRÉDITOS. MESMA RELAÇÃO PROCESSUAL. OPOSIÇÃO DE EMBARGOS. PREQUESTIONAMENTO AUSENTE. SÚMULA 211/STJ. DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO E DE COMPROVAÇÃO DA SIMILUTUDE FÁTICA. NÃO DEMONSTRAÇÃO.
+RECURSO ESPECIAL NÃO CONHECIDO.
