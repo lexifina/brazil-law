@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em benefício de MARCIO NASCIMENTO DA SILVA contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que, no Agravo de Execução Penal n.0007973-50.2021.8.26.0590, cassou a progressão de regime do paciente, com recomendação de realização de exame criminológico, oportunamente:
+"No caso vertente, verifica-se que o sentenciado, reincidente (fls. 245 dos autos principais), foi condenado à pena de dezesseis anos, oito meses e vinte e dois dias de reclusão, em regime inicial fechado, pela prática de tráfico de entorpecentes, receptação e porte ilegal de arma de fogo, crimes graves a demandarem indagações e respostas adequadas para a verificação sobre se o reeducando reúne, efetivamente, condições do ponto-de-vista subjetivo para a progressão de regime. O término do cumprimento da reprimenda deverá ocorrer apenas em 01/10/2028, se nada de anormal ocorrer até lá, destacando-se que os tipos de crimes e o "quantum" das reprimendas corporais servem também, "data venia", para demonstrar a periculosidade do reeducando.
+Consta, ainda, que o agravante registra a prática de duas (02) faltas disciplinares de natureza grave, a última delas por evasão, vindo a ser preso em flagrante pela prática de novo crime em 18/03/2020 (fls. 248).
+E, "in casu", em que pese o fato de os subscritores do atestado terem afirmado que o sentenciado ostenta boa conduta disciplinar, não há qualquer documentação que, eventualmente, possa comprovar tal assertiva.
+Assim, no caso vertente, razão assiste ao douto Promotor de Justiça oficiante, vez que se insurgiu contra o deferimento de progressão de regime prisional ao ora agravado, por constatar que, se por um lado, preenchido o requisito objetivo (de ordem temporal), por outro, ausente o subjetivo, que é caracterizado por elementos de ordem social capazes de demonstrar ser ele merecedor do benefício.
+Aliás, não se pode olvidar que está em discussão a reintegração à sociedade de pessoa que cometeu delito grave, com longa pena a cumprir, fazendo-se mister que o Estado-Juiz tenha elementos seguros para deferir a benesse.
+De se observar, mais uma vez, que o término da pena está previsto para o longínquo ano de 2028.
+Observa-se, a propósito, que o sentenciado foi condenado por tráfico de drogas, crime equiparado aos hediondos.
+Na verdade, o reeducando não possui, efetivamente, bom comportamento carcerário, ao menos por ora.
+Não basta apenas o atestado. O teor do que se atesta deve vir comprovado.
+Contudo, oportunamente, poderá ser determinada arealização de exame criminológico no sentenciado para se aquilatar se ele ostenta condições pessoais para progredir de regime.
+Os tipos de crimes praticados e a longa pena a cumprir aconselham a realização de exame para a verificação das condições subjetivas do agravado.Portanto, somente depois de atendidos os requisitos de ordem objetiva e subjetiva é que seria possível a progressão.
+Oportuno salientar que em sede de execução de pena vigora o princípio "in dubio pro societate", ou seja, se há dúvida, decide-se contra o sentenciado e a favor da sociedade.
+Ante o exposto, dá-se provimento ao agravo para cassara r. sentença e determinar o retorno do reeducando ao regime fechado, onde deverá permanecer, oficiando-se, com urgência."(fls. 21/23)
+O impetrante requer, em liminar e no mérito, a concessão do referido benefício, o qual teria sido indeferido com fundamentação inidônea, qual seja, a gravidade dos delitos e a longevidade da pena. Ressalta que o paciente estava em regime semiaberto há 7 meses e que, desde maio de 2022, aguarda a realização do exame criminológico em regime fechado.
+É o breve relatório.
+Decido.
+Primeiramente, verifico que o habeas corpus não merece ser conhecido, pois foiimpetrado em substituição ao recurso próprio. Nesse sentido: HC 358.398/SP, RelatorMinistro JORGE MUSSI, QUINTA TURMA, DJe 09/08/2016.
+Também não se mostra cabível a concessão da ordem, de ofício, uma vez que o histórico prisional do paciente, marcado por fugae prática de novodelitodurante a execução da pena, justificao indeferimento da progressão por ausência do requisito subjetivo, bem como a exigência de realização de exame criminológico.
+Nesse sentido:
+AGRAVO REGIMENTAL. HABEAS CORPUS. PROGRESSÃO DE REGIME PRISIONAL.INADIMPLEMENTO DO REQUISITO SUBJETIVO. INDICAÇÃO DE ELEMENTO CONCRETO. PRÁTICA DE NOVO CRIME DURANTE A EVASÃO DO SISTEMA PRISIONAL. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+1. Deve ser mantida a decisão monocrática na qual se indefere liminarmente a inicial, quando não evidenciado constrangimento ilegal manifesto à liberdade de locomoção do apenado.
+2. Hipótese em que a progressão de regime prisional foi indeferida não só com base na gravidade abstrata dos crimes pelos quais o apenado cumpre pena nem da longa reprimenda aplicada, mas em razão da notícia da reiteração delitiva praticada durante a evasão do sistema prisional.
+3. Agravo regimental improvido.
+(AgRg no HC 669.713/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA,DJe 18/06/2021)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO. PROGRESSÃO. ATESTADO DE BOA CONDUTA CARCERÁRIA. ANÁLISE DESFAVORÁVEL DO MÉRITO DO APENADO PELO JUÍZO DAS EXECUÇÕES COM BASE EM PECULIARIDADES DO CASO CONCRETO. FALTAS GRAVES DURANTE A EXECUÇÃO. RECORRENTE QUE INTEGRA FACÇÃO CRIMINOSA. INDEFERIMENTO DO PLEITO DEVIDAMENTE JUSTIFICADO.ALEGAÇÕES DE RISCO DE CONTAMINAÇÃO POR COVID-19 NÃO SUBMETIDAS AO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. AGRAVO DESPROVIDO.
+1. Esta Corte Superior pacificou o entendimento segundo o qual, ainda que haja atestado de boa conduta carcerária, a análise desfavorável do mérito do condenado feita pelo Juízo das execuções, com base nas peculiaridades do caso concreto e levando em consideração fatos ocorridos durante a execução penal, justifica o indeferimento do pleito de progressão de regime prisional pelo inadimplemento do requisito subjetivo.
+2. Não se aplica limite temporal à análise do requisito subjetivo, devendo ser analisado todo o período de execução da pena, a fim de se averiguar o mérito do apenado.
+No caso, o pedido de progressão de regime pleiteado pelo paciente foi indeferido pela ausência do preenchimento do requisito subjetivo, tendo sido levado em consideração, além da longevidade da pena, o conturbado histórico prisional do apenado, destacando a presença de falta disciplinar de natureza grave, indicação de que o apenado integra facção criminosa e o fato de ter sido necessário colocá-lo por um período em regime disciplinar diferenciado.
+3. A questão relativa à necessidade de progressão de regime, ante o risco de contaminação pela COVID-19, não foi sequer submetida à análise das instâncias ordinárias, não podendo ser diretamente examinada por esta Corte Superior, sob pena de se incidir em indevida supressão de instância.
+4. Agravo desprovido.
+(AgRg no HC 571.485/SP, de minha relatoria, QUINTA TURMA,DJe 29/06/2020)
+Anoto que"a circunstância de o paciente já haver se reabilitado, pela passagem do tempo, desde o cometimento das sobreditas faltas, não impede que se invoque o histórico de infrações praticadas no curso da execução penal, como indicativo de mau comportamento carcerário (HC n. 347.194/SP, Rel. Min. FELIX FISCHER, julgado em 28/6/2016)"(AgRg no HC 682.913/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA,DJe 04/10/2021).
+Por fim, o alegado constrangimento ilegal decorrente da demora na realização do exame criminológico deve ser submetido, primeiramente, à análise do Tribunal de origem, sob pena de indevida supressão de instância.
+Ante o exposto, não conheço do habeas corpus, com fundamento no art. 34, XX, do RISTJ.
+Publique-se.
+Intimações necessárias.
