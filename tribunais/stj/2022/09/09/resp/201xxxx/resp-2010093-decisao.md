@@ -1,0 +1,15 @@
+DECISÃO
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. IMPOSTO DE RENDA. INCIDÊNCIA SOBRE A CORREÇÃO MONETÁRIA EM APLICAÇÕES FINANCEIRAS.MATÉRIA AFETADA À SISTEMÁTICA DOS RECURSOS REPETITIVOS. RECURSOS ESPECIAIS1.996.013/PR, 1.996.014/RS, 1.996.685/RS, 1.996.784/SC e 1.986.304/RS (TEMA 1.160/STJ).RETORNO DOS AUTOS DO PROCESSO, SOBRESTANDO-O NO TRIBUNAL DE ORIGEM. APÓS, PROSSEGUIR COM O FEITO NOS TERMOS DOS ARTS. 1.040 E 1.041 DO CPC/2015.
+1. Trata-se de recurso especial interposto por LUIS FELIPE SCHUTZ, com fundamento no art. 105, inciso III, alíneaa, da CF/1988, no qual se insurge contra acórdão proferido pelo TRF da 4ª Região, assim ementado:
+TRIBUTÁRIO. MANDADO DE SEGURANÇA. IRPF. APLICAÇÕES FINANCEIRAS. CORREÇÃO MONETÁRIA. INCIDÊNCIA. LEGALIDADE.
+É legal a incidência do IRPF sobre os rendimentos auferidos em aplicações financeiras, ainda que se trate de variações patrimoniais decorrentes de diferença de correção monetária (fl. 122).
+2. Os embargos de declaração opostos foram rejeitados (fls. 155/160).
+3. Nas razões do seurecurso especial (fls. 171/181), a parte recorrentesustenta violação dos arts. 489 e1.022 do CPC/2015 e 43 do CTN ao defender que o acréscimo patrimonial advindo de correção monetária em aplicações financeiras não deveser tributadopelo imposto de renda (IRPF).
+4. Devidamente intimada, a parte recorridaapresentou as contrarrazões (fls. 191/197). O recurso especial foi admitido na origem (fls.200/201).
+5. É o relatório.
+6.No caso dos autos, o Tribunal de origem, adotando os fundamentos da sentença,consideroulegítima a incidência do imposto de renda sobre os rendimentos decorrentes de aplicações financeiras, incluindo a correção monetária.
+7. Consignou, ademais, que, embora os precedentes utilizados para resolver a controvérsia versassem, especificamente, sobre o IRPJ,a mesma linha de intelecção deve ser aplicada, por certo, ao IRPF, haja vista que a hipótese de incidência do imposto de renda é uma só: a aquisição da disponibilidade econômica ou jurídica de acréscimo patrimonial (fl. 126).
+8.A discussão acerca da possibilidade de incidência de IRPF sobre o total dos rendimentos e ganhos líquidos de operações financeirasencontra-se afetada à Primeira Seção desta Corte Superior, aguardando ojulgamento dos REsps 1.996.013/PR, 1.996.014/RS, 1.996.685/RS, 1.996.784/SC e 1.986.304/RS, de relatoria do Ministro MAURO CAMPBELL MARQUES, sob o rito dos recursos repetitivos (Tema1.160/STJ).
+9. A admissão de recurso especial como representativo da controvérsiaimpõe o sobrestamento dos autos do processo em que foram interpostosrecursos na origem, cuja matéria se identifique com o tema afetado, paraque, uma vez concluído o julgamento no Superior Tribunal de Justiça,seja o inconformismo apreciado na forma dos arts. 1.040 e 1.041 doCPC/2015.
+10. Pelo exposto, determino a devolução dos autos,com a devida baixa nesta Corte Superior, para que, em observância aosarts. 1.039 a 1.041 do CPC/2015, após a publicação do acórdão dosrespectivos recursos excepcionais representativos da controvérsia, oTribunal de origem proceda nos termos doart. 1.040 e seguintedoCPC/2015.
+11. Publique-se. Intimações necessárias.
