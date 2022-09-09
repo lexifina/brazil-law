@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de recurso especial, interposto por BANCO ITAUCARD S.A., fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Recurso especial interposto em: 08/02/2022.
+Concluso ao gabinete em: 01/06/2022.
+Ação: de busca a apreensão movida pela recorrente, contra OZIAS MAIA BANDEIRA, em razão de alegado inadimplemento de parcelas de veículo objeto de alienação fiduciária.
+Sentença: julgou extinto o processo, sem resolução de mérito, por falta de condenação de dar andamento regular ao processo, haja vista a falta de notificação válida constituindo o devedor em mora (e-STJ fls. 114/117)
+Acórdão: negou provimento à apelação da recorrente, nos termos da ementa:
+"DIREITO PROCESSUAL CIVIL. APELAÇÃO EM AÇÃO DE BUSCA E APREENSÃO. DECRETO LEI Nº. 911/69. EXTINÇÃO DA AÇÃO SEM RESOLUÇÃO DO MÉRITO POR AUSÊNCIA DE PRESSUPOSTO DE CONSTITUIÇÃO E DE DESENVOLVIMENTO VÁLIDO DO PROCESSO (ART. 485, IV. CPC/15). NOTIFICAÇÃO EXTRAJUDICIAL DEVOLVIDA PELOS CORREIOS COM O AVISO DE "RETORNOU AO REMETENTE". ENTREGA AO DESTINATÁRIO NÃO EFETIVADA. NÃO OCORRÊNCIA DA CONSTITUIÇÃO EM MORA. RECURSO CONHECIDO E IMPROVIDO. SENTENÇA MANTIDA. 01. Em síntese, o Banco Apelante arguiu que o promovido restou inadimplente no contrato de financiamento para aquisição de bens, razão pela qual ingressou com a presente Ação de Busca e Apreensão. 02. No entanto, observa-se que a exigência legal da efetiva entrega da notificação extrajudicial não fora cumprida, restando inviável o prosseguimento da ação, pois o mero envio da notificação ao endereço constante no contrato não enseja a constituição em mora o devedor (art. 2º, § 2º, Decreto-Lei nº 911/69). Precedentes. 03. Portanto, considerando a ausência de comprovação da mora do devedor, resta hígida a sentença de extinção do feito, sem resolução do mérito, vez que não preenchido pressuposto de constituição e de desenvolvimento válido e regular do processo, com esteio no art. 485, IV, CPC/15. 04. Recurso conhecido e improvido. Sentença mantida. ACÓRDÃO Vistos, relatados e discutidos a Apelação Cível nº. 0265360-52.2020.8.06.0001, em que litigam as partes, acima nominadas, ACORDA, a TURMA JULGADORA DA TERCEIRA CÂMARA DIREITO PRIVADO DO TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ, por UNANIMIDADE, em CONHECER DO RECURSO, PARA NEGAR-LHE PROVIMENTO, nos termos do voto da Relatora. MARIA VILAUBA FAUSTO LOPES Desembargadora Relatora"(e-STJ fl. 156)
+Recurso especial: alega violação dos arts. 2º, § 2º, do Decreto Lei 911/69; 113 e 422 do CC/02, bem como dissídio jurisprudencial. Sustenta que o devedor foi devidamente constituídoem mora com a notificação acostada aos autos. Sustenta que houve tentativas de entrega da notificação no endereço fornecido, mas que retornaram com a informação "AUSENTE".
+Alega que o credor não pode ser prejudicado, já que o local do contrato é informado pelo próprio devedor. Defende que merece atenção os princípios da probidade e da boa-fé inerentes às relações contratuais.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos argumentos invocados pelo agravante em seu recurso especial quanto aos arts. 113 e 422 do CC/02, o que inviabiliza o seu julgamento. Aplica-se, na hipótese, a Súmula 282/STF.
+- Da Súmula 568/STJ
+De fato, oentendimento mais recente da Terceira Turma do STJ é no sentido de que, nos contratos regidos pelo Decreto-Lei n. 911/1969, o simples fato de o devedor estar ausente de sua residência não importa em violação à boa-fé objetiva, exigindo-se, para a comprovação da mora, a efetiva entrega da notificação no seu endereço cadastral, como é a hipótese dos autos.
+Nesse sentido:REsp n. 1.848.836/RS, Terceira Turma, DJe de 27/11/2020 e AgInt no REsp n. 1.927.803/RS, Terceira Turma, DJe de 5/5/2021.
+Desse modo, encontrando-se o entendimento da Corte de origem em consonância com a jurisprudência deste Tribunal, não há que falar na alteração do julgado. Incidência da Súmula 568/STJ.
+Forte nessas razões, com fundamento no art. 932, III e IV, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados na instância de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE BUSCA E APREENSÃO.PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. ALIENAÇÃO FIDUCIÁRIA. NOTIFICAÇÃO NÃO ENTREGUE NO ENDEREÇO DO DEVEDOR. MOTIVO DE AUSÊNCIA. NECESSIDADE DE EFETIVA ENTREGA DA NOTIFICAÇÃO NO ENDEREÇO CADASTRADO DO DEVEDOR. MORA NÃO CONFIGURADA. PRECEDENTES DA TERCEIRA TURMA.
+1. Ação de busca e apreensão.
+2.A ausência de decisão acerca dos argumentos invocados pelo agravante em suas razões recursais impede o conhecimento do recurso especial.
+3. o entendimento mais recente da Terceira Turma do STJ é no sentido de que, nos contratos regidos pelo Decreto-Lei n. 911/1969, o simples fato de o devedor estar ausente de sua residência não importa em violação à boa-fé objetiva, exigindo-se, para a comprovação da mora, a efetiva entrega da notificação no seu endereço cadastral, como é a hipótese dos autos.. Precedentes do STJ.
+4. Recurso especial parcialmente conhecido e, nesta extensão, não provido.
