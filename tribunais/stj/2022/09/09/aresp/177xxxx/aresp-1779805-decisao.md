@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por CARLOS EDUARDO DUBAY ENCINA contra a decisão proferida pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO que não admitiu seu recurso especial fundado no art. 105, inciso III, alínea a, da Constituição Federal.
+A controvérsia tratada nos autos foi bem relatada no parecer ministerial às e-STJ fls. 118/124, in verbis:
+Trata-se de agravo em recurso especial, interposto por CARLOS EDUARDO DUBAY ENCINA, contra decisão da Vice-Presidência do TRF da 4ªRegião que inadmitiu seu recurso especial ante a incidência das Súmulas nº 7 e83/STJ (fls. 86-88).
+No presente agravo, alega a não incidência da Súmula 83/STJ ao presente caso, pois a jurisprudência colacionada na decisão ora atacada trata de tema diferente do posto no recurso especial. Aduz que não há no texto legal citado a possibilidade de o juízo estabelecer que o ônus da fiscalização da pena recaia sobre o próprio executado, que deve recair sobre o Estado. Alega, ainda, não incidir a Súmula 7/STJ ao presente caso, pois é possível superar amencionada súmula quando a análise do recurso for realizada através de leitura de decisões, como se requereu no recurso especial interposto.
+No apelo excepcional, alega, em síntese, contrariedade aos artigos66, V, "a", e VI, da LEP, argumentando que: a) não é possível, por falta de previsão legal, de imposição de ônus ou obrigação ao apenado na fiscalização de sua pena, a qual é dever do Estado; b) o modelo de monitoração eletrônica autorizada, a ser realizada por meio de WhatsApp, representa a imposição de ônus financeiro demasiadamente alto ao apenado, porquanto exige a utilização de smartphone com acesso a internet de boa qualidade; c) o condenado enfrenta dificuldade econômicas, pois encontra-se desempregado, obtendo renda mensal de aproximadamente R$ 1.000,00 mensais com trabalho informal, valor este já destinado ao pagamento de contas de aluguel, água, luz, comida e vestuário; e d) a imposição de obrigação do condenado a auxiliar o estado na fiscalização do cumprimento da sua pena contraria o princípio da não auto incriminação, uma vez que seu descumprimento ensejaria a conversão da pena restritiva de direito empena privativa de liberdade.
+O Parquet opinou pelo conhecimento do agravo para negar provimento ao recurso especial (e-STJ fls. 118/124).
+É o relatório.
+Decido.
+O reclamo está prejudicado.
+Isso,porque, apósconsulta aos autos da execução penalno sitedo Tribunal Regional Federal da 4ª Região(5002031-36.2013.404.7005/PR), verifica-se que a pena do agravante passou a ser monitorada por tornozeleira eletrônica, inclusive com registro de violações de perímetro em agosto passado, esvaziando o objeto recursal.
+Ante o exposto, julgo prejudicado o recurso.
+Publique-se. Intimem-se.
