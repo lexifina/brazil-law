@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido de liminar,impetrado em favor de TAWAN DA SILVA MARQUESem que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO(0016325-81.2019.8.19.0001).
+Opaciente foi condenado àpenade 6 anos e 8 meses de reclusão, em regime fechado, pelaprática do crime tipificado no art.157, § 2º, II, e § 2º-A, I, do Código Penal.
+A impetrante sustenta que o paciente é primário e de bons antecedentes. Alega que inexistefundamentação idônea quantoaoregime fechado, pois agravidade em abstrato do delito de roubo em concurso de agentes e com uso de arma de fogoarma, por si só, não acarreta estabelecimento de regime mais gravoso.
+Requer, liminarmente e no mérito, a concessão da ordem para concederao paciente o regime semiaberto como regime inicial de cumprimento da pena.
+A liminar foi indeferida, as informações foram prestadas e o Ministério Público Federal manifestou-se pela concessão da ordem.
+Quanto ao regime inicial, o acórdão impugnado foi assimfundamentado (fl. 95):
+ .. .No tocante ao regime, considerando a pena alcançada - 06 (seis) anos e 08 (oito) meses de reclusão (TAWAN) e 09 (nove) anos e 26 (vinte e seis) dias de reclusão (JONATHAN)- e as circunstâncias do caso concreto, deve ser mantido o regime inicialmente fechado, com fulcro no artigo 33, parágrafos 2º e 3º, do Código Penal.
+Frise-se que o crime imputado aos acusados foi praticado em concurso de agentes, fato que reduziu significativamente a capacidade de reação da vítima, e com o emprego de arma de fogo, aumentando ainda mais o temor da vítima. .. .
+A sentença, por sua vez, possui os seguintes fundamentos (fl. 45):
+ .. .Considerando-se, tão somente, o quantum de pena aplicado, o agente Tawan estaria autorizado a iniciar o cumprimento de pena no Regime Semiaberto (artigo 33, § 2º, "b", Código Penal).
+Contudo, deve ser considerada a norma contida no artigo 33, § 3º, do mesmo diploma legal, razão pela estabeleço o REGIME INICIAL FECHADO.
+E isso, porque, in casu, a situação narrada na denúncia não pode ser tida como um fato simples, pois evidenciado o cometimento de delito de roubo em concurso de agentes e com emprego de arma de fogo, circunstâncias essas que somente não foram utilizadas para aumentar a pena-base, uma vez que causas de aumento especiais, em observância ao artigo 59 do Código Penal, tudo a indicar maior rigor no cumprimento da pena imposta. .. .
+Como se vê, em relação ao paciente,oregime prisional mais gravoso foi fixado apenas em razão do concurso de agentes eda utilização de arma de fogo, com base, portanto, na gravidade inerente ao delito de roubo, o que não se admite, nos termos da orientação jurisprudencial deste STJ e do STF, consolidada nas Súmulas 440/STJ e 718 e 719/STF.A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. FIXAÇÃO DO REGIME PRISIONAL MAIS GRAVOSO. PENA-BASE NO MÍNIMO LEGAL. CIRCUNSTÂNCIAS JUDICIAIS FAVORÁVEIS. AUSÊNCIA DE MOTIVAÇÃO IDÔNEA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Da análise da fundamentação deduzida pela Corte estadual, verifica-se que o regime inicial fechado foi fixado com alicerce apenas nas elementares do tipo penal e na gravidade em abstrato do delito de roubo circunstanciado, sem indicar elementos concretos dos autos que demonstrassem a real necessidade de imposição de regime prisional mais gravoso, o que vai de encontro ao teor dos enunciados das Súmulas n. 718 e 719 do Supremo Tribunal Federal, bem como do enunciado da Súmula n. 440 desta Corte.
+2. Agravo regimental desprovido.(AgRg no HC n. 692.276/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 15/2/2022, DJe de 18/2/2022.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. ROUBO MAJORADO. REGIME INICIAL FECHADO. AUSÊNCIA DE MOTIVAÇÃO CONCRETA. PENA-BASE NO MÍNIMO LEGAL. PENA DEFINITIVA SUPERIOR A 4 E INFERIOR A 8 ANOS DE RECLUSÃO. FUNDAMENTAÇÃO BASEADA EM ELEMENTOS QUE SE AMOLDAM À DESCRIÇÃO DO DELITO DE ROUBO MAJORADO. JURISPRUDÊNCIA PACÍFICA. CONSTRANGIMENTO ILEGAL CONFIGURADO. REGIME SEMIABERTO CONCEDIDO DE OFÍCIO. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+- A jurisprudência desta Corte firmou-se no sentido de que, fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito - enunciado n. 440 da Súmula deste Tribunal. Na mesma esteira, são os enunciados n. 718 e 719 da Súmula do Supremo Tribunal Federal.
+- Na hipótese, o Tribunal a quo fixou o regime inicial fechado destacando, para tanto, apenas os elementos descritivos do crime, no caso, no inciso I, do § 2º, do art. 157, do Código Penal.
+- Diante disso, nos termos da jurisprudência firmada nesta Corte, o regime inicial fechado foi fixado com base na gravidade em abstrato do delito, sem exame dos requisitos constantes do art. 33, § 2º, "b", e § 3º, e do art. 59 do Código Penal.
+- Considerando que a reprimenda final aplicada não ultrapassa oito anos, que o paciente é primário e que a pena-base foi fixada no mínimo legal, por ausência de circunstâncias judiciais desfavoráveis, a teor do disposto no art. 33, §§ 2º e 3º do Código Penal, o regime adequado ao caso é o semiaberto.
+- Agravo regimental a que se nega provimento (AgRg no HC 581.539/RJ, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 16/06/2020, DJe 25/06/2020).
+Ante o exposto, concedo ohabeas corpuspara fixar o regime prisional inicialsemiaberto.
+Comunique-se.
+Publique-se.
+Intimem-se.
