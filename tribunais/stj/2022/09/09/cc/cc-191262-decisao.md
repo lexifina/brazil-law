@@ -1,0 +1,70 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado entre oJuízo Federal da 23ª Vara de Curitiba - SJ/PR, o suscitante, e oJuízo de Direito da Vara Criminal e Anexos de Lapa/PR, o suscitado.
+Colhe-se da decisão do Juízo suscitante que acontrovérsia veiculada no incidente diz respeito acerca da existência ou não de indícios de transnacionalidade no crime de tráfico de drogas objeto deinquérito policial iniciado na Justiça estadual (fls. 138/141):
+ ..
+1. Trata-se de Auto de Prisão em Flagrante Delito nº 0002950- 74.2022.8.16.0103 oriundo da 9.ª DELEGACIA REGIONAL DE POLÍCIA DA LAPA, lavrado em 12/08/2022, para apurar a prática da conduta tipificada nos artigos 33, caput e § 1º, 34 e 36 da Lei nº 11.343/2006 e art. 180 do Código Penal, uma vez que ALTAIR FERNANDO DA SILVA SIQUEIRA estaria transportando 647,9 kg de maconha no veículo Toyota/Corolla, placas, roubado em Medianeira/PR, equipado com dispositivo de fumaça para fuga e com rádio comunicador. AMANDA ALMEIDA DAS NEVES e PEDRO HENRIQUE KLEIN DE OLIVEIRA foram, também, presos em flagrante por supostamente desempenharem a função de batedores com o veículo VW/Saveiro.
+Na fl. 29 do evento 1, DOC1 encontra-se juntado o Auto de Apreensão.
+Pelo MM. Juiz de Direto da Comarca da Lapa/PR o flagrante foi homologado em 12/08/2022 (fl. 61 do evento 1, DOC1).
+Na fl. 72 do evento 1, DOC1 foi realizada a Audiência de Custódia, na qual foi decretada a prisão preventiva de PEDRO HENRIQUE KLEIN DE OLIVEIRA e de ALTAIR FERNANDO DA SILVA SIQUEIRA.
+Em relação á flagrada AMANDA ALMEIDA DAS NEVES foi substituída a prisão preventiva pela prisão domiciliar, nos termos do artigo 317 e artigo 318, inciso V, ambos do CPP, sob as seguintes condições ( . 84 do evento 1, DOC1):
+a) Permanência (recolhimento) na própria residência, só podendo se ausentar desta para realizar tratamento de saúde, caso necessário;
+b) A ausência deve ser previamente solicitada ao Juízo, devendo-se aguardardecisão judicial a respeito;
+c) Monitoração eletrônica.
+Instado a se manifestar, o Ministério Público Federal opinou pelo reconhecimento da competência deste Juízo para processar e julgar o feito, pelos fundamentos abaixo transcrito:
+ ..  No caso, segundo consta, após a Polícia Rodoviária Federal informar ao Centro de Comunicações da 9ª Delegacia Regional da Polícia de Lapa sobre percurso de três veículos suspeitos na BR 476 sentido a Lapa, foram abordados no KM 1, da BR 476 o veículo: i) Saveiro Cross, cor preta, placas HFD6A00, batedor do veículo Corolla, com PEDRO HENRIQUE KLEIN DE OLIVEIRA e sua esposa AMANDA ALMEIDA DAS NEVES em seu interior e ii) Toyota Corolla, cor prata, placas BAZ1I36, transportando 647,9 kg de maconha, conduzido por ALTAIR FERNANDO DA SILVA SIQUEIRA.
+Observa-se que o veículo Toyota Corolla foi roubado no dia 29/07/2022 na cidade de Medianeira/PR (ev. 1, INQ1,  s. 35-40), igualmente localizada na região de fronteira.
+A utilização de veículo com registro de roubo, o uso de radio comunicador, a atuação de batedor e os autuados residirem em Foz do Iguaçu/PR, cidade que se encontra na fronteira com o Paraguai e que dista, aproximadamente, 612 quilômetros de Lapa/PR, são indícios que demonstram a internacionalidade e, ainda, que eles possam integrar organização criminosa voltada para o tráfico de drogas na região de fronteira.
+Nesse contexto, as circunstâncias do fato apontam pela transnacionalidade da conduta no crime de tráfico e de associação para o tráfico, a justificar a competência da Justiça Federal para processar e julgar a questão criminal.
+ ..
+É o breve relato.
+2. Da competência:
+Da análise detida dos autos verifica-se que não existem indícios concretos a indicar a transnacionalidade do tráfico de drogas no caso em apreço e, assim, firmar a competência deste Juízo Federal.
+Neste sentido destaca os seguintes precedentes:
+ ..
+Destaco, ademais que a quantidade de droga apreendida (647,9kg de maconha), tampouco o fato dos autuados residirem em região de fronteira (Foz do Iguaçu) são suficientes para comprovar a transnacionalidade do tráfico de drogas.
+Entretanto, inexistem indícios que assegurem a origem estrangeira da droga ou, ainda, a transnacionalidade da mercancia.
+Destarte, não existindo indícios sólidos da procedência estrangeira da droga apreendida, carece este Juízo Federal de competência para o processamento e julgamento do feito em relação a esse delito, a contrario sensu do disposto no artigo 109, inciso V, da Constituição Federal e no artigo 70 da Lei nº 11.343/2006.
+Neste contexto, diante dos elementos apresentados até o momento, suscito conflito negativo de competência.
+ ..
+Devidamente autuado nesta Corte, os autos seguiram ao Ministério Público Federal para confecção de parecer.
+Nesse ínterim, sobreveio petição da defesa de Pedro Henrique Klein de Oliveira pugnando pela indicação de um Juízo provisório para decidir, em caráter provisório, as medidas urgentes (fl. 167).
+É o relatório.
+A jurisprudência do Superior Tribunal de Justiça tem-se orientado no sentido de que, não restando caracterizado, deforma concretae comsólidos elementos, e não com base em probabilidades, que a droga tenha procedência do exterior, não há como afirmar a transnacionalidade do tráfico de entorpecentes, sobressaindo, por conseguinte, a competência da Justiça estadual para processar e julgar o feito(CC n. 107.624/RJ, Ministra Assusete Magalhães, Terceira Seção, DJe 5/5/2014).
+No mesmo sentido, confiram-se:
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. ASSOCIAÇÃO AO TRÁFICO. JUSTIÇA FEDERAL. INTERCEPTAÇÃO TELEFÔNICA. IMPRESCINDIBILIDADE DA MEDIDA. PRORROGAÇÕES. LICITUDE DAS PROVAS OBTIDAS. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Comprovado, de forma concreta e com sólidos elementos, que a droga apreendida era proveniente do exterior - Paraguai - e que a conduta delituosa teve início nesse país vizinho, evidenciada está a transnacionalidade do delito e, por conseguinte, a competência da Justiça Federal para processar o feito, nos termos dos arts. 109, V, da Constituição Federal e 70, caput, da Lei n. 11.343/2006.
+2. A lei permite a prorrogação das interceptações diante da demonstração de indispensabilidade da prova, sendo que as razões tanto podem manter-se idênticas às do pedido original quanto podem alterar-se, desde que a medida ainda seja considerada indispensável.
+Essas posteriores decisões não precisam reproduzir os fundamentos da decisão inicial, na qual já se demonstrou, de maneira pormenorizada e concretamente motivada, o preenchimento de todos os requisitos necessários à autorização da interceptação, à luz dos requisitos constantes da Lei n. 9.296/1996.
+3. Agravo regimental não provido.
+(AgRg no REsp n. 1.592.259/RS, Ministro Rogerio Schietti Cruz, Sexta Turma,DJe 26/6/2020 - grifo nosso)
+ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. JUSTIÇA FEDERAL X JUSTIÇA ESTADUAL. INVESTIGAÇÃO CRIMINAL. AUSÊNCIA DE ELEMENTOS PROBATÓRIOS APTOS A INDICAR A INTERNACIONALIDADE DO DELITO.COMPETÊNCIA DA JUSTIÇA COMUM ESTADUAL.
+1. Compete à Justiça Federal o julgamento dos crimes previstos nos artigos 33 a 37 da Lei nº 11.343/2006, desde que caracterizado ilícito transnacional, a teor do art. 70 do mesmo diploma legal.
+2. No caso, as evidências até o momento coletadas na investigação e na instrução criminal não revelaram a existência de tráfico internacional de drogas, devendo a ação penal ser mantida na Justiça Estadual.
+3. Mera suposição de que a droga (maconha) viria do Paraguai, não é suficiente para deslocar a competência para a Justiça Federal. Por outro lado, não se descarta, é bem verdade, a possibilidade de surgimento de novas provas, ao longo da instrução criminal, que evidenciem a transnacionalidade do tráfico de drogas, o que poderá deslocar a competência para a Justiça Federal.
+4. Recurso ordinário em habeas corpus improvido.
+(RHC n. 99.550/MS, Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 7/8/2018, DJe 15/8/2018 - grifo nosso)
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. TRÁFICO INTERNACIONAL DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. NULIDADE. INCOMPETÊNCIA DA JUSTIÇA FEDERAL. TRANSNACIONALIDADE. MATÉRIA FÁTICO-PROBATÓRIA NÃO ANALISADA PELO TRIBUNAL A QUO. SUPRESSÃO DE INSTÂNCIA. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA DA CONDUTA. RISCO DE REITERAÇÃO DELITIVA. ORGANIZAÇÃO CRIMINOSA. REINCIDENTE ESPECÍFICO. EXCESSO DE PRAZO. FEITO COMPLEXO. PLURALIDADE DE RÉUS. DEMORA JUSTIFICADA. ORDEM NÃO CONHECIDA. RECOMENDAÇÃO DE CELERIDADE.
+1. Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+2. Nos termos do artigo 70 da Lei n. 11.343/2006, "o processo e o julgamento dos crimes previstos nos arts. 33 a 37 desta Lei, se caracterizado ilícito transnacional, são da competência da Justiça Federal".
+3. A jurisprudência desta Corte, na interpretação do art. 70 da Lei n. 11.343/2006, firmou-se no sentido de que a competência para processar e julgar os crimes previstos na Lei de Drogas é da Justiça Federal quando restar demonstrada a transnacionalidade da ação, sendo insuficiente a suspeita da origem estrangeira das substâncias entorpecentes. Nesse sentido: (CC 136.975/MT, Rel. Ministro ERICSON MARANHO - Desembargador convocado do TJ/SP, TERCEIRA SEÇÃO, DJe 19/12/2014).
+4. A verificação da transnacionalidade do tráfico demandaria em incursão nos elementos fático-probatórios dos autos, o que é inviável na via eleita, razão pela qual a questão não foi analisada pelo Tribunal a quo no julgamento do writ originário, pois não pode ser analisada perante esta Corte, sob pena de indevida supressão de instância.
+5. A segregação cautelar é medida excepcional, mesmo no tocante ao crime de tráfico de entorpecentes. O decreto de prisão processual exige a especificação de que a segregação atende a pelo menos um dos requisitos do art. 312 do Código de Processo Penal, sendo certo que a proibição abstrata da liberdade provisória também se mostra incompatível com a presunção de inocência, para não antecipar a reprimenda a ser cumprida no caso de uma possível condenação.
+6. Cabe ao julgador interpretar restritivamente os pressupostos consignados na Lei Processual, fazendo-se mister a configuração empírica dos referidos requisitos, sendo que razões outras desprovidas de cunho acautelatório não podem ser utilizadas para a imposição da medida constritiva.
+7. Paciente que é tido como membro de um intricado esquema criminoso de tráfico internacional de drogas formado por 4 (quatro) organizações criminosas com células espalhadas por diversos Estados da Federação, responsáveis pela internação de cocaína proveniente da Bolívia.
+8. Evidenciada a gravidade concreta da conduta imputada ao paciente e a real possibilidade de reiteração delitiva, devendo ser ressaltada a sua reincidência específica, o que, "indica risco concreto da retomada das atividades ilícitas do grupo, se restabelecida a sua liberdade de locomoção" (e-STJ, fl. 953).
+9. As circunstâncias descritas nos autos corroboram a necessidade de mantença da segregação acautelatória do paciente, considerando a sua periculosidade e a real possibilidade de reiteração delitiva.
+10. A Suprema Corte tem entendimento pacificado no sentido de que "não há lógica em permitir que o réu, preso preventivamente durante toda a instrução criminal, aguarde em liberdade o trânsito em julgado da causa, se mantidos os motivos da segregação cautelar" (STF, HC 89.824/MS, Rel. Min. AYRES BRITTO, PRIMEIRA TURMA, DJe de 28/08/2008).
+11. Não há que se falar em constrangimento ilegal devido a excesso de prazo no julgamento da apelação por descaso injustificado do Juízo em virtude de se tratar de feito complexo com multiplicidade de envolvidos, 18 (dezoito) réus, com patronos distintos, cuja sentença condenatória conta com mais de duzentas laudas.
+12. Ordem não conhecida. Recomendação de imprimir maior celeridade no julgamento da apelação.
+(HC n. 338.293/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 27/4/2016 - grifo nosso)
+No caso dos autos, ao menos por ora, não se verifica nenhum elemento concreto apto a firmar o caráter transnacional do tráfico de drogas ou mesmo da associação investigada nos autos do inquérito policial.
+Ora, embora a grande quantidade de drogas, a estrutura do transporte e o local deresidência dos indiciados (região de fronteira)consubstanciem indícios de tráfico transnacional,não há evidência concreta, atéentão, de que a droga traficada sejade origem estrangeira ou de associação transnacional.
+Logo, por ora, compete à Justiça estadual processar o inquérito.
+Ressalto, no entanto, que,se,no curso da investigação,surgirem novoselementos concretos que indiquem a prática de crime transnacional de competência federal,nada obstao envio dos autos aoJuízo Federal.
+Ora, em sede de inquérito policial, o julgamento do conflitonão implica decisão definitiva, pois a competência, nesse caso, é estabelecida considerando os indícios colhidos até a instauração do incidente, sendo possível que, no curso da investigação, surjam novos elementos que indiquem a necessidade de modificação da competência (EDcl no CC n. 161.123/SP, de minha relatoria, Terceira Seção, DJe 20/2/2019).
+Ante o exposto,conheçodo conflito paradeclarara competência do Juízo de Direito da Vara Criminal e Anexos de Lapa/PR, o suscitado (Processo n.0002950-74.2022.8.16.0103).
+Dê-se ciência aos Juízes em conflito.
+Publique-se.
+EMENTA
+CONFLITO NEGATIVO DE COMPETÊNCIA. INQUÉRITO POLICIAL. JUSTIÇA FEDERAL E JUSTIÇA ESTADUAL. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. INEXISTÊNCIA DE INDÍCIOS CONCRETOS DE TRANSNACIONALIDADE NAS CONDUTAS INVESTIGADAS. COMPETÊNCIA, POR ORA, DA JUSTIÇA ESTADUAL, SEM PREJUÍZO DA POSSIBILIDADE DE MODIFICAÇÃO SUBSEQUENTE DA COMPETÊNCIA DECORRENTE DOADVENTO DE NOVOS INDÍCIOS NO CURSO DA INVESTIGAÇÃO.
+Conflito conhecido para declarar a competência doJuízo de Direito da Vara Criminal e Anexos de Lapa/PR, o suscitado.
