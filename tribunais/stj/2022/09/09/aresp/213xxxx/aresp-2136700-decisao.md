@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo manejado porTania Maria Togicontra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a e c, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (fls. 83/84):
+AGRAVO INTERNO. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA DE MULTA ESTABELECIDA EM TUTELA. VALOR MILIONÁRIO QUE FERE OS PRINCÍPIOS DA PROPORCIONALIDADE E RAZOABILIDADE, BEM COMO PROMOVE ENRIQUECIMENTO ILÍCITO DA PARTE AUTORA. MANUTENÇÃO DA DECISÃO QUE REDUZIU O VALOR. DECISÃO RATIFICADA. DESPROVIMENTO DO RECURSO.
+1. Na hipótese, o processo se encontra em fase de cumprimento de sentença de ação de obrigação de fornecer medicamentos, tendo a decisão agravada fixado a multa total devida pelo descumprimento da tutela, que antes era de R$ 1.531.450,00 (R$ 545,00 - diária), no valor único de R$ 10.000,00.
+2. O art. 537, § 1º, do CPC, prevê que o juiz poderá, de ofício ou a requerimento, modificar o valor ou a periodicidade da multa vincenda ou excluí-la, caso verifique que se tornou insuficiente ou excessiva.
+3. Portanto, tendo em vista o valor milionário da multa que pretende o agravante executar, tem-se por caracterizado o seu excesso, o que autoriza a sua redução.
+4. Ademais, o valor fixado pelo Juízo a quo se coaduna com os princípios da razoabilidade e da proporcionalidade, enquanto a multa que oagravante pretendia executar não só os infringia, como seria capaz de causar o enriquecimento ilícito da agravante. PRECEDENTES TJRJ.
+5. Registre-se, ainda, que a decisão que fixa multa cominatória não preclui nem faz coisa julgada material, podendo ser revista a qualquer tempo, pelo que por todos os ângulos, deve ser mantida a decisão. PRECEDENTES STJ.
+6. Decisão ratificada.
+7. DESPROVIMENTO DO RECURSO.
+Nas razões do recurso especial, a parte agravante aponta, além de divergência jurisprudencial,violação ao art. 537, § 1º, I, do CPC. Sustenta, em resumo, que a multa por descumprimento daobrigação de fornecer medicamento foi reduzida a patamar ínfimo, no valor de R$ 10.000,00. Afirma que "é vedada a análise da multa em seu valor global - e, sim, permitida a análise no seu valor unitário" (fl. 108).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+De início, verifica-se que a insurgência não merece prosperar.
+Com efeito, cumpre dizer que o recurso especial não pode ser conhecido no tocante à alínea c do permissivo constitucional, porque o dissídio jurisprudencial não foi demonstrado na forma exigida pelos arts. 1.029, § 1º, do CPCe 255, § 1º, do RISTJ. Com efeito, a parte recorrente não procedeu ao necessário cotejo analítico entre os julgados, deixando de evidenciar o ponto em que os acórdãos confrontados, diante da mesma base fática, teriam adotado a alegada solução jurídica diversa.
+Por sua vez, otema de fundo trazido à discussão restou assim decidido no acórdão recorrido (fl. 85):
+Na hipótese, o processo se encontra em fase de cumprimento de sentença de ação de obrigação de fornecer medicamentos, tendo a decisão agravada fixado a multa total devida pelo descumprimento da tutela, que antes era de R$ 1.531.450,00 (R$ 545,00 -diária), no valor único de R$ 10.000,00. Veja-se:
+"O objetivo da multa diária é a coerção da parte e não enriquecimento da outra. Pacífica a jurisprudência quanto à redução proporcional da multa a valor compatível com valor econômico da obrigação. FIXO a multa total devida em R$ 10.000,00. Venha planilha atualizada e requeira a parte exequente o que for de direito." (fl. 149).
+O art. 537, § 1º, do CPC, prevê que"o juiz poderá, de ofício ou a requerimento, modificar o valor ou a periodicidade da multa vincenda ou excluí-la, caso verifique que: se tornou insuficiente ou excessiva; o obrigado demonstrou cumprimento parcial superveniente da obrigação ou justa causa para o descumprimento."
+Portanto, tendo em vista o valor milionário da multa que pretende o agravante executar, tem-se por caracterizado o seu excesso, o que autoriza a sua redução.
+Ademais, o valor fixado pelo Juízo a quo (R$ 10.000,00) se coaduna com os princípios da razoabilidade e da proporcionalidade, enquanto a multa que o agravante pretendia executar não só os infringia, como seria capaz de causar o enriquecimento ilícito da agravante.
+Nesse contexto, é certo que aalteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
