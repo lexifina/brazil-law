@@ -1,0 +1,13 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido de liminar, impetrado em favor de WELDER LOPES COUTO, impugnando acórdão do Tribunal de Justiça de São Paulo no Habeas Corpus Criminal nº 2139034-87.2022.8.26.0000.
+Consta que o paciente cumpre pena na Penitenciária I "Dr. Paulo Luciano Campos" de Avaré -SP, matriculado sob o n. 404.596, Execução n. 876.418 - processo Digital n. 7007741-60.2016.8.26.0050.
+Formulado pedido de progressão ao regime semiaberto em 19/12/2018, de acordo com a defesa, não foi ainda apreciado.
+Impetrado habeas corpus perante a Corte de origem, apontando excesso de prazo, a ordem foi denegada, ao fundamento de que não haveria desídia do Juízo de execuções, pois "A Vara em questão apresenta peculiaridades, diante da expressiva quantidade de feitos em processo de digitalização, o que torna justificável algum retardamento na marcha processual" (e-STJ fl. 71).
+Na presente impetração, a defesa insiste no constrangimento ilegal sofrido pelo paciente em virtude do excesso de prazo para apreciação de seu pleito de progressão de regime.
+Afirma que "a promessa de celeridade do juízo de piso que levou o Tribunal de Justiça do Estado de São Paulo a entender que o feito teria andamento não ocorreu!! Após prestar as informações ao TJSP o benefício continua na mesma situação, parado e aguardando o julgamento!!" (e-STJ fls. 5/6).
+Pondera que "Por mais que se compreenda que ocorreram mudanças administrativas e digitalização dos processos, e que se reconheça a deficiência na máquina estatal, isso não deve se sobrepor à garantia individual e o direito à tramitação célere do processo, erigido à categoria de direito fundamental, tanto assim que insculpido no artigo 5º, LXXVII, da Constituição Federal" (e-STJ fl. 6), tanto mais que o pleito está pendente de deliberação há mais de três anos e o paciente já cumpriu mais de 43% do total de suas penas no regime fechado.
+Pede, assim, liminarmente e no mérito, "seja CONCEDIDA A ORDEM APENAS PARA QUE SE DETERMINE AO JUÍZO DA VARA DE EXECUÇÕES CRIMINAIS DA COMARCA DE SÃO PAULO que TOME AS MEDIDAS CABÍVEIS para a MAIS RÁPIDA ENTREGA DA TUTELA JURISDICIONAL do pedido de PROGRESSÃO AO REGIME SEMIABERTO" (e-STJ fl. 10).
+Às fls. 75/77, indeferi a liminar e solicitei informações ao Juízo das Execuções.
+Em petição protocolada em 06/09/2022, a defesa desistiu da presente impetração, afirmando ter ocorrido a perda de objeto do habeas corpus, tendo em conta que foi sanado o excesso de prazo no julgamento do pedido de progressão de regime, único tema de controvérsia posto nestes autos.
+Ante o exposto, homologo o pedido de desistência da impetração.
+Intimem-se.
