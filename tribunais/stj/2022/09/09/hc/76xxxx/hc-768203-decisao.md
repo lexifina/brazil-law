@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra decisão que indeferiu o pedido liminar no writ originário.
+Narram os autos que o paciente responde pela prática do crime de homicídio.
+Sustenta a defesa, em síntese, violação à ampla defesa e ao contraditório em razão daimpossibilidade do paciente participar de audiência virtual, ainda que esteja foragido.
+Requer, liminarmente e no mérito, a concessão da ordem para que participe da sessão do Tribunal do Júri marcada para 29/9/2022
+Não havendo divergência da matéria no órgão colegiado, admissível seu exame in limine pelo relator, nos termos do art. 34, XVIII e XX, do RISTJ.
+Nos termos da Súmula 691 do Supremo Tribunal Federal, não se admite a utilização de habeas corpus contra decisão que indeferiu a liminar em writ impetrado no Tribunal de origem, sob pena de indevida supressão de instância.
+Admite-se, entretanto, sua mitigação quando evidenciada a presença de decisão teratológica ou desprovida de fundamentação.
+Na origem, a liminar foi indeferida pelo e. Relator, nos seguintes termos (fls. 17/19):
+A pretensão do requerente não encontra respaldo legal.
+A princípio, se faz necessário registrar que a sessão de julgamento designada nestes autos ocorrerá de forma presencial.
+Não há qualquer previsão legal de acusado "foragido" ser interrogado por videoconferência, pois o art. 185, caput, do CPP, estabelece que o réu que perante a autoridade será comparecer interrogado. Portanto, o pressuposto para o ato do interrogatório é o comparecimento do acusado.
+Por outro lado, o art. 185, § 2º, do CPP, excepcionalmente, admite a realização de do réu por sistema de videoconferência, quando houver o enquadramento a interrogatórioo caso em questão, pela linha dos argumentos da algum dos seus incisos (I, II, III, IV), mas, no caso em questão, pela linha dos argumentos daDefesa, não há nenhuma das hipóteses de excepcionalidade prevista na referida norma que se adeque à situação do réu, de maneira que não se aplicam ao caso.
+Por sua vez, a questão também não de enquadra nas hipóteses do art. 220, do CPC, não sendo o caso de impossibilidade de enfermidade ou velhice do acusado.
+Na verdade, no caso dos autos, o acusado se encontra na condição de foragido, está com prisão preventiva decretada, passou toda instrução processual da primeira fase ausente do distrito da culpa, foi pronunciado e, agora, pleitea participar da sessão de seu próprio julgamento e ser interrogado por meio de recuso virtual.
+Ora, se é cediço que o réu foragido não tem obrigação legal de se entregar à justiça, também não se pode almejar que, com essa conduta, persiga benefício sem respaldo legal, sob o argumento de malferimento aos princípios da ampla defesa (autodefesa) e contradiório. A forma como o acusado vem escolhendo para responder ao processo, isto é, participar de seu julgamento perante o Conselho de Sentença, à distância, significa premiar a condição de foragido e reforça, de certa forma, a conduta de evasão, em tentar escapar de eventual mostrando evidente a intenção de furtar-se à aplicação da lei penal. Contudo, é segregação, certo que ninguém pode se beneficiar da sua própria torpeza e isso não autoriza a justiça a compactuar com tal conduta.
+ ..
+Finalmente, o art. 457 do Código de Processo Penal permite que o julgamento possa se realizar quando não comparecer o acusado, não fazendo distinção quanto à condição de solto foragido ou em liberdade.
+Assim, em harmonia com o parecer ministerial, indefiro o pedido.
+No caso, não visualizo, em juízo sumário, manifesta ilegalidade que autorize o afastamento da aplicação do mencionado verbete sumular n. 691/STF. Como pontuado pelo Tribunal de origem, "a pretexto de garantir o exercício das garantias constitucionais, busca-se a chancela do Poder Judiciário para permitir que o réu permaneça foragido e, mesmo assim, participe da audiência. Cumpre destacar que a participação presencial do acusado na audiência não está proibida, de maneira que não há prejuízo ao exercício das garantias do contraditório e da ampla defesa." (AgRg no HC n. 761.853/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 16/8/2022, DJe de 22/8/2022.).
+Dessa forma, a fim de continuar se furtando ao cumprimento do mandado de prisão, a defesa almeja que o paciente seja beneficiado pela sua própria torpeza, o que não se coaduna com o ordenamento jurídico. Nesse sentido:
+PRISÃO PREVENTIVA. FUNDAMENTOS. ELEMENTOS CONCRETOS. LATROCÍNIO CONSUMADO. ORGANIZAÇÃO CRIMINOSA. EXCESSO DE PRAZO. INEXISTÊNCIA. NULIDADE. PRETENSÃO AO INTERROGATÓRIO VIRTUAL. INAPLICABILIDADE DO ART. 220 DO CPP. ORDEM DENEGADA.
+1. O Tribunal estadual, transcrevendo toda a cronologia dos atos processuais, afastou qualquer desídia do julgador na condução do feito, considerando, ainda, justificada a determinação de redesignação de audiências. Os fundamentos da determinação de prisão já foram exaustivamente examinados em outros habeas corpus impetrados e distribuídos a esta C. 13ª Câmara de Direito Criminal (HC 2105207-56.2020.8.26.0000, 2079157-90.2020.8.26.0000 e 2009225-15.2020.8.26.0000), destacada a gravidade concreta do crime supostamente praticado, latrocínio consumado e organização criminosa.
+2. Não cabe a pretensão de realizar o interrogatório de forma virtual. Situação do paciente, foragido por considerável período, que não se amolda ao disposto no art. 220 do CPP.
+3. Habeas corpus denegado. (HC n. 640.770/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 15/6/2021, DJe de 21/6/2021.)
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+Intimem-se.
