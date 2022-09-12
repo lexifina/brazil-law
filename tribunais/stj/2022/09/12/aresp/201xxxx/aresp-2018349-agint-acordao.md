@@ -1,0 +1,28 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/09/2022 a 12/09/2022, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de agravo interno interposto por ROBERTO KIYOKAZU KIMURA contra a decisão de fls. 548/549, que negou provimento ao seu agravo em recurso especial. A decisão agravada, para tanto, concluiu pela impossibilidade de reexame quanto aos temas suscitados no recurso especial, em razão da incidência da Súmula 7/STJ.
+O agravante insiste nos argumentos anteriormente expendidos no recurso especial acerca da ausência de interesse do autor na prestação de contas. Afirma a inaplicabilidade do óbice, uma vez que a questão independe de reexame probatório, apenas de revaloração jurídica das provas apresentadas. Defende que os documentos espontaneamente apresentados ensejam o reconhecimento da perda superveniente do objeto da ação de prestação de contas. Requer, ao final, a reforma da decisão.
+Intimado, o agravado pugna pela manutenção da decisão, com imposição de multa (fls. 566/569).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE PRESTAÇÃO DE CONTAS. PRIMEIRA FASE. DOCUMENTOS APRESENTADOS. INSUFICIÊNCIA. REEXAME. APLICAÇÃO DA SÚMULA 7/STJ.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+2. Agravo interno a que se nega provimento.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): Depreende-se dos autos que o agravado ajuizou ação de prestação de contas da empresa da qual é sócio e que é administrada exclusivamente pelo agravante.
+A sentença julgou procedente o pedido e o Tribunal de origem manteve a condenação do agravante na obrigação de apresentar as contas, pelos seguintes fundamentos (fls. 471/472):
+No mais, não prospera a alegação de falta de interesse de agir por falta de resistência e por prévia entrega ao autor de todos os documentos pretendidos. Como diz o próprio apelante, entregou ele ao sócio os balancetes contábeis dos exercícios de 2009 a 2014, mas a exigência de contas não diz respeito a esses documentos, em si, mas a aspecto complementar, relacionado a elementos lacunosos vislumbrados pelo autor no tocante aos documentos efetivamente entregues.
+A pretensão, enfim, é complementar, e não coincidente com os documentos já entregues. E, quanto a esses, muito embora acene o apelante com a falta de resistência, o fato é que acabou por admitir a existência de documentação faltante disponível para apresentação ao alegadamente juntá-la no curso do processamento (diz-se alegadamente porque não foi submetida essa documentação ao crivo do contraditório, não se sabendo se suficiente à luz da pretensão do autor).
+Justamente por isso, aliás, não é de se reconhecer a perda do objeto da demanda, como erroneamente sugerido, ainda uma vez, neste apelo. Fosse o caso de reconhecer a procedência do pedido inicial e desde logo prestar as contas pretendidas, tornando desnecessária a segunda fase do procedimento, deveria tê-lo feito o réu no prazo para defesa; obviamente, a juntada de um grande volume de documentos com os memoriais de alegações finais, quando encerrada a instrução, não se presta a esvaziar o objeto da demanda, nem tampouco a r. sentença condenatória proferida, mesmo porque não foram discutidos esses documentos pela parte contrária.
+O acórdão recorrido recebeu a seguinte ementa (fls. 469):
+Societário. Prestação de contas. Ação proposta pelo sócio minoritário em face do sócio-administrador. Alegação de prestação anterior das contas e entrega dos documentos pertinentes. Descabimento. Pedido de contas que foi motivado justamente por lacunas existentes na documentação entregue por força de anterior acordo entre as partes, envolvendo pois interesse distinto, em torno da respectiva complementação. Juntada a esmo de documentos pelo réu, outrossim, após encerrada a instrução, que não é causa de perecimento superveniente do objeto da demanda, até mesmo pela falta de contraditório em torno dos documentos e de sua aptidão para o esclarecimento dos fatos apontados. Sentença de procedência da primeira fase, com condenação à apresentação das contas, confirmada. Apelação do réu desprovida.
+No recurso especial e no presente agravo interno o agravante insiste Nos seus argumentos acerca do interesse de agir do autor da prestação de contas e da perda superveniente do seu objeto com a documentação já apresentada anteriormente e espontaneamente nos autos.
+Ocorre que, conforme reconhecido na decisão agravada, a adoção de entendimento diverso por esta Corte quanto ao interesse de agir e à perda superveniente do objeto da ação de prestação de contas no caso concreto, demandaria reexame do acervo fático-probatório dos autos, o que é vedado, a teor da Súmula 7/STJ.
+Não se cuida de revaloração jurídica das provas analisadas e delineadas pelo acórdão recorrido, mas de seu reexame para que se chegue a conclusão diversa a respeito de sua suficiência quanto à elucidação das lacunas apontadas pela parte contrária.
+O recurso, na realidade, não trouxe nenhum elemento ou argumento novo capaz de alterar a decisão agravada, que ora confirmo.
+De outro lado, em que pese o não provimento do agravo interno, não observo intuito protelatório ou malicioso na interposição do recurso capaz de ensejar a aplicação de multa ao agravante.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
