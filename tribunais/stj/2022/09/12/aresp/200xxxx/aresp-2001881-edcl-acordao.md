@@ -1,0 +1,28 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/09/2022 a 12/09/2022, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por WAGNER CANHEDO AZEVEDOcontra acórdão assim ementado (e-STJ, fls. 584-594):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA QUE NÃO CONHECEU DO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. DESOBEDIÊNCIA AO COMANDO DO ART. 1.021, § 1.º, DO CPC/15. VIOLAÇÃO AO PRINCÍPIO DA DIALETICIDADE RECURSAL. SÚMULA 182/STJ. ALEGAÇÃO DE NULIDADE DA DECISÃO AGRAVADA. INOCORRÊNCIA. PEDIDO DE CONDENAÇÃO AO PAGAMENTO DE MULTA DO ART. 1.021, §4º DO CPC/15. DESPROVIDO.
+AGRAVO INTERNO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO.
+Em suas razões recursais, aduziu, em resumo, que houve omissão no acórdão embargado, no que diz respeito à impugnação dosseguintes fundamentosno agravo interno:ausência de afronta ao artigo 1022 do CPC,súmula 5/STJ,súmula 7/STJ, ausência de prequestionamento e ausência de indicação do dispositivo objeto da divergência -Súmula 284/STF.
+É o breve relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 1.022 DO CÓDIGO DE PROCESSO CIVIL DE 2015. REITERAÇÃO DE ARGUMENTAÇÃO REJEITADA. PRETENSÃO DE REDISCUTIR A CAUSA. INVIABILIDADE.
+EMBARGOS DE DECLARAÇÃO REJEITADOS.
+VOTO
+Eminentes Colegas, os embargos não merecem acolhimento.
+Nos rígidos limites estabelecidos pelo artigo 1.022 do Código de Processo Civil de 2015, os embargos de declaração destinam-se apenas a esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento, corrigir erro material eventualmente existentes no julgado e, excepcionalmente, atribuir-lhe efeitos infringentes, quando algum desses vícios for reconhecido.
+No caso sob apreciação, não houve a configuração no aresto ora embargado de qualquer omissão que permitaa oposição dos aclaratórios. Senão vejamos:
+Como exposto alhures, a decisão da presidência não conheceu do agravo em recurso especial interposto pelo agravante em razão da inexistência de impugnação específica dos seguintes fundamentos da decisão de admissibilidade do recurso especial: ausência de afronta ao artigo 1.022 do CPC, Súmula 5/STJ, Súmula 7/STJ, ausência de prequestionamento e ausência de indicação do dispositivo objeto da divergência - Súmula 284/STF; isto, com fulcro no art.932, inciso III, do CPC/15 e no art. 253, parágrafo único, inciso I, do RISTJ, além no enunciado sumular nº 182 do STJ.
+Não obstante, a parte agravante, não se desincumbindo de seu ônus argumentativo, deixou de trazer aos autos na oportunidade elementos que comprovassem a impugnação, no agravo em recurso especial, dos pontos da decisão de admissibilidade do recurso especial acima relatados. Não indicou o agravante um trecho sequer do agravo em recurso especial capaz de infirmar as conclusões da decisão de admissibilidade na origem.
+Neste ponto, cumpre destacar que os argumentos traçados no agravo interno com o intuito de impugnar os óbices relativos àausência de afronta ao artigo 1.022 do CPC, Súmula 5/STJ, Súmula 7/STJ, ausência de prequestionamento e ausência de indicação do dispositivo objeto da divergência - Súmula 284/STF (e-STJ fls. 553-555), se mostram desconexos dos fundamentos da decisão. Constato que a presidência não conheceu do agravo em recurso especial ante a ausência de impugnação específica dos fundamentos da decisão de admissibilidade do recurso especial acima relatados. Logo, os fundamentos dessa decisão não se traduzem na aplicação dos ditos óbices, mas na ausência de sua impugnação quando da interposição do agravo em recurso especial, o que não foi combatido no agravo interno.
+Ademais, convém ressaltar que o recorrente, ao invés de rebatar os fundamentos da decisão agravada de forma específica, limitou-se à alegação genérica de que " .. impugnou todos os fundamentos da decisão. Tanto os dispositivos legais, como os fatos narrados como fundamentos da decisão. Basta verificar o teor do Agravo e do RESP Portanto, tal consignação fabricou uma indevida abstração do mérito decisório" (e-STJ fls. 555-556).Em casos tais, entende esta Corte de Justiça que alegações genéricas não são suficientes para impugnar a decisão.
+ ..
+Nesse contexto, em face da violação do princípio da dialeticidade recursal, não se revela possível o conhecimento do agravo internono que tange à matéria acima individualizada em razão da incidência, na espécie, doart. 1.021, § 1º, do CPC/2015 e da Súmula 182/STJ,in verbis: "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Portanto, não conheço dessa parte doagravo interno. (e-STJ fls. 586-591 - g.n.).
+Assim, verifica-se que os presentes embargos de declaração, sob o pretexto de identificarem a existência de vício previsto no art. 1.022 do CPC/15, em verdade, apenas traduzem inconformismo com o acórdão embargado.
+Por ora, deixo de aplicar a sanção legal, advertindo a parte embargante de que eventual reiteração de embargos de declaração com intuito protelatório estará sujeita à aplicação de multa (art. 1.026, § 2º, do CPC/15).
+Ante o exposto, rejeito os embargos de declaração.
+É o voto.
