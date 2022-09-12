@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/09/2022 a 12/09/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (RELATOR): Trata-se de agravo interno interposto por EVERGAME COMÉRCIO E DISTRIBUIDORA DE ACESSÓRIOS DE INFORMÁTICA LTDA contra decisão, assim ementada (fl. 2.005):
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ANULATÓRIA DE DÉBITO FISCAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. VIOLAÇÃO DE NORMA LOCAL. NÃO CABIMENTO. SÚMULA 280/STF. RECURSO ESPECIAL NÃO CONHECIDO.
+A recorrente alega o prequestionamento, argumentando a desnecessidade de citação numérica no acórdão. Sustenta a aplicação do art. 1.025 do CPC/2015, uma vez que houve oposição de embargos na origem. Quanto à norma local, alega que sua referência serviu para dar destaque à alegação de violação das normas federais.
+Sem impugnação (fl. 2.021).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ANULATÓRIA DE DÉBITO FISCAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. ART. 1.025 DO CPC/2015. HIPÓTESE NÃO CONFIGURADA. VIOLAÇÃO DE NORMA LEGAL. NÃO CABIMENTO. SÚMULA 280/STF.
+1. O presente recurso foi interposto na vigência do CPC/2015, razão pela qual incide o Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+2. As normas dos arts. 141 e 375 do CPC/2015 carecem do cumprimento do requisito do prequestionamento, não tendo a parte nem sequer buscado a manifestação da Corte a quo, quando da oposição dos embargos na origem, a respeito dos referidos normativos com base nos quais aduz sua tese recursal de violação. Aplicação da Súmula 282/STF.
+3. A análise da hipótese do art. 1.025 do CPC/2015 requer que a questão a respeito da qual se reconhece a ausência de prequestionamento tenha sido arguida nas razões dos embargos de declaração opostos na origem e não configure indevida inovação recursal; no recurso especial, deve a parte alegar violação do art. 1.022 do CPC/2015, com a demonstração de sua pertinência com a matéria e de sua relevância para o correto deslinde da causa, e requerer a aplicação do disposto do art. 1.025 do CPC/2015. Precedentes.
+4. A alegação de violação de norma local é incabível no âmbito do recurso especial, pois, não se tratando de lei federal, o referido diploma legislativo não se enquadra na hipótese prevista na alínea "a" do permissivo constitucional. Incidência da Súmula 280/STF.
+5. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (RELATOR): O presente recurso foi interposto na vigência do CPC/2015, razão pela qual incide o Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Confere-se que as normas dos arts. 141 e 375 do CPC/2015 carecem do cumprimento do requisito do prequestionamento, não tendo a parte nem sequer buscado a manifestação da Corte a quo, quando da oposição dos embargos na origem, a respeito dos referidos normativos com base nos quais aduz sua tese recursal de violação (julgamento ultra/extra petita e imperfeita valoração das provas). Aplicação da Súmula 282/STF.
+A análise da hipótese do art. 1.025 do CPC/2015 requer que a questão a respeito da qual se reconhece a ausência de prequestionamento tenha sido arguida nas razões dos embargos de declaração opostos na origem e não configure indevida inovação recursal; no recurso especial, deve a parte alegar violação do art. 1.022 do CPC/2015, com a demonstração de sua pertinência com a matéria e de sua relevância para o correto deslinde da causa, e requerer a aplicação do disposto do art. 1.025 do CPC/2015.
+A propósito, na parte que interessa:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA EM AÇÃO COLETIVA. OFENSA À COISA JULGADA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 211/STJ.
+ ..
+1. Os arts. 502, 503, 507 e 508 do CPC/2015, tidos por violados, não foram debatidos pelo Tribunal de origem, nem opostos os embargos de declaração para fins de prequestioná-los, o que obsta o conhecimento do recurso especial quanto ao ponto, pois consoante entendimento desta Corte, a admissão de prequestionamento ficto, em recurso especial, exige que no mesmo recurso seja indicada violação aos arts. 1.022 e 1.025 do CPC/2015, para que se possibilite ao órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei, o que não ocorreu no presente feito, sendo, portanto, inafastável a incidência da Súmula 211 do STJ. A propósito: AgInt no REsp 1.802.458/RS, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 11/03/2020.
+ ..
+(AgInt no AREsp 1.800.286/PR, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 238/2021, DJe 25/8/2021)
+PROCESSUAL CIVIL. ADMINISTRATIVO.  ..  ALEGADA VIOLAÇÃO DO ART. 1022 DO CPC/2015. NÃO VERIFICADA. AUSÊNCIA DE PREQUESTIONAMENTO.  ..
+ ..
+IV - Ademais, o julgador não está obrigado a decidir com base em todas as alegações das partes quando já tenha encontrado motivos suficientes para fundamentar a decisão.
+V - A previsão do art. 1.025 do Código de Processo Civil de 2015 não invalidou o enunciado n. 211 da Súmula do STJ (Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo).
+VI - Para que o art. 1.025 do CPC/2015 seja aplicado, e permita-se o conhecimento das alegações da parte recorrente, é necessário não só que haja a oposição dos embargos de declaração na Corte de origem (e. 211/STJ) e indicação de violação do art. 1.022 do CPC/2015, no recurso especial (REsp n. 1.764.914/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 8/11/2018, DJe 23/11/2018). A matéria deve ser: i) alegada nos embargos de declaração opostos (AgInt no REsp n. 1.443.520/RS, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 1º/4/2019, DJe 10/4/2019); ii) devolvida a julgamento ao Tribunal a quo (AgRg no REsp n. 1.459.940/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 24/5/2016, DJe 2/6/2016) e ; iii) relevante e pertinente com a matéria (AgInt no AREsp n. 1.433.961/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 17/9/2019, DJe 24/9/2019).
+ ..
+(AgInt no AREsp 1.502.338/RJ, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 25/10/2021, DJe 28/10/2021)
+Na espécie, pois, não configurada hipótese para aplicação do art. 1.025 do CPC/2015.
+Quanto à aplicação da Súmula 280/STF, por alegação de violação de norma local, no recurso especial consta (fl. 1.887): " ..  interpor RECURSO ESPECIAL, o que faz tempestivamente, com fundamento no artigo 105, inciso III, letra "a", da Constituição Federal, por violação aos artigos 141 e 371, ambos, do Código de Processo Civil c/c o artigo 85, II, alínea "j", da Lei nº 6.374/1989  .. ".
+A alegação de violação de norma local é incabível no âmbito do recurso especial, pois, não se tratando de lei federal, o referido diploma legislativo não se enquadra na hipótese prevista na alínea "a" do permissivo constitucional. Incidência da Súmula 280/STF.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
