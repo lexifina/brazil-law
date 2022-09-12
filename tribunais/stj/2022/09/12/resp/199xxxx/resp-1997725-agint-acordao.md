@@ -1,0 +1,30 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/09/2022 a 12/09/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão, assim ementada (fl. 832):
+PROCESSUAL CIVIL. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 1.013, § 2º, DO CPC/2015. EFEITO DEVOLUTIVO DA APELAÇÃO. ACÓRDÃO RECORRIDO EM DISSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. RECURSO PARCIALMENTE PROVIDO.
+O agravante alega que há omissão relevante no acórdão recorrido, em ofensa ao art. 1.022 do CPC/2015.
+Argui que o Tribunal de origem não declinou "os motivospelos quais, no seu entendimento, ainda se fazia necessária a realização de uma perícia se os Exames juntados à Ação de Origem pelos próprios Agravados mostravam cabalmente que a alegada contaminação por arsênio em seus organismos não existia".
+Aponta, assim, a necessidade de que haja manifestação expressa a respeito dos exames apresentados pelos agravados, inclusive para que, a partir dessa, reduza-se oespaço de eventual perícia a ser realizada, já que o perito teria que verificar apenas se existia contaminação por arsênio no imóvel em que os Agravados afirmam residir, e não nos seus respectivos organismos.
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. AGRAVO INTERNO NÃO PROVIDO.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Não se verifica alegada violação do artigo 1.022 do CPC/2015, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+3. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Dito isso, observa-se que o presente recurso não merece prosperar, tendo em vista que dos argumentos apresentados no agravo internonão se vislumbram razões para reformar a decisão agravada.
+Com efeito, não se verificaalegada violação do artigo 1.022 do CPC/2015, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+Evidencia-se quea controvérsia posta nos autos foi enfrentada,nos seguintes termos (fl. 716-717, grifos acrescidos):
+Em leitura atenta ao acórdão embargado, não vislumbro os vícios narrados pelo Réu/Apelado/Embargante, posto que no acórdão, consta claramente que "O Magistrado primevo, após emissão do laudo formulado na ação civil pulica n. 0046527-69.2015.8.13.0470, juntada a estes autos (fls. 4991576) proferiu sentença de improcedência sem oportunizar aos Autores/Apelantes que se manifestassem sobre referido laudo (..) Assim, os Autores/Apelantes foram surpreendido com a sentença, sem que lhe tenha sido dada a oportunidade de produzir provas para demonstrar que, a despeito de ter existido um parecer desfavorável à seu direito nos autos da ação civil publica n.0046527-69.2015.8.13.0470, os parâmetros lá utilizados não serviriam para julgamento desta lide por se tratar de assuntos diversos.".
+Ademais, diante do reconhecimento do cerceamento de defesa, não havendo intimação sobre o laudo colacionado aos autos, ferindo o principio do contraditório e ampla defesa, decidiu-se em cassar a sentença "determinando o retorno dos autos à origem, para a regular instrução do feito, oportunizando aos Autores/Apelantes a produção dasprovas requeridas e o exercício do contraditório sobre os documentos colacionados, advindos da ação civil publica n. 0046527-69.2015.8.13.0470.".
+Quanto à alegada preliminar de ilegitimidade ativa, não houve insurgência em contrarrazões recursais a demanda a sua apreciação.
+Já em relação aos autos apresentados pelo Réu/Apelado/Embargante como parâmetro para julgamento destes autos, também sem razão na medida em que, a insurgência daqueles autos é direcionada ao indeferimento da perícia médica e não àausência de intimação para manifestação sobre laudo colacionado aos autos, antes da sentença, violando o art. 10 do CPC/15.
+Desnecessário, portanto, qualquer esclarecimento ou complemento ao que já decidido pela Corte de origem, que concluiu pela necessidade de regular instrução do feito, ante a ocorrência decerceamento de defesa, pelo que se afasta a ofensa ao artigo 1.022 do CPC/2015.
+Frise-se que a jurisprudência deste Superior Tribunal é firme no sentido de que "o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida" (EDcl no AgRg nos EREsp 1.483.155/BA, Rel. Ministro Og Fernandes, Corte Especial, DJe 3/8/2016).
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
