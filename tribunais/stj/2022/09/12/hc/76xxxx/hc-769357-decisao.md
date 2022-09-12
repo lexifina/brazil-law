@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício deRONALD OVIDIO MACHICADO CASTILLO- cumprindo pena privativa de liberdade de 7 anosde reclusão, em razão de condenação pela prática docrimeprevisto noart. 1º, caput, II, § 3º, parte A, daLei n. 9.455/1997, c/c o art. 61, caput, II, f, do CP -, em que se aponta como autoridade coatora oTRIBUNAL DE JUSTIÇADE SÃO PAULO(HC n. 2172231-33.2022.8.26.0000).
+Eis a ementa do acórdão ora impugnado (fl. 16):
+Habeas Corpus - Execução - Insurgência em face da determinação de realização de exame criminológico - Pleito que demanda análise de circunstâncias fáticas para aferição da correção ou não do reclamo, providência que não se coaduna com a sede sumária do habeas corpus -Reconhecimento - Precedentes - Decisão executória, ademais, suficientemente fundamentada, com indicação das razões de convencimento que levaram à imprescindibilidade de se aferir com maior acuidade a existência do requisito subjetivo, em face das peculiaridades do caso concreto - Não conhecimento ditado pela inadequação da via e, especialmente, pela constatação da inexistência de manifesta nulidade, flagrante ilegalidade ou, ainda, qualquer defeito teratológico na decisão impugnada - Writ não conhecido.
+Assim, foi mantida a decisão do Juízo de Direito da Vara de Execuções Criminais da comarca de Bauru/SP (PEC n.0008238-03.2018.8.26.0026), que, ao analisar o pedido de progressão de regime formulado pela defesa, determinou a realização de exame criminológico.
+Alega a impetrante, em síntese, constrangimento ilegal na imposição do exame criminológico ao paciente, ao argumento de que não há motivos idôneos para a confecção de perícia para atestar o requisito subjetivo do apenado.
+Postula, então, a concessão da ordem para que seja cassada a decisão do Juízo da execução, com determinação de análise e apreciação do pedido de progressão de regime, independentemente da realização de exame criminológico (fl. 12).
+É o relatório.
+É certo que o habeas corpus tem suas hipóteses de cabimento restritas e não deve ser utilizado a fim de provocar a discussão de temas afetos a apelação criminal, a recurso especial, a agravo em execução, recurso em sentido estrito, tampouco deve vir como sucedâneo de revisão criminal.
+A ilegalidade passível de justificar a impetração desse remédio constitucional deve ser manifesta, de constatação evidente, restringindo-se a questões de direito que não demandem incursão em fatos e provas da ação penal ou exijam dilação probatória, inclusive no que diz respeito à execução penal.
+No caso, o Magistrado singular, corroborado pelo Tribunal de origem, condicionou a análise da progressão de regime do paciente à realização de exame criminológico,por considerar queo sentenciado foi condenado pelo crime de tortura, previsto no art.1º, "caput", II, § 3º, Parte A, da LEI n. 9.455/1997, c/c o art. 61 "caput", II, "f", do CP, no qual demonstrou periculosidade e insensibilidade moral na prática do delito(fl. 24).
+Ocorre que esta Corte possui entendimento sumulado de que se admite o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada (Súmula 439/STJ).
+No entanto, nem a gravidade abstrata dos crimes cometidos nem a longa pena a cumprir são fatores que indicam a necessidade da perícia, é o que se depreende da leitura destes precedentes, por exemplo: HC n. 620.368/SP, Ministra Laurita Vaz, Sexta Turma, DJe 2/12/2020; eAgRg no HC n. 702.817/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 19/11/2021.
+É nítida a existência de ilegalidade na espécie, a ponto de justificar a concessão da ordem imediatamente.
+Em face do exposto, concedo liminarmente a ordem a fim dedeterminar a análise do preenchimento dos requisitos necessários à progressão de regime, independentemente da realização do exame criminológico(PEC n. 0008238-03.2018.8.26.0026, daVara de Execuções Criminais da comarca de Bauru/SP-Unidade Regional de Departamento Estadual de Execução Criminal - DEECRIM 3ª RAJ).
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. IMPOSIÇÃO DE EXAME CRIMINOLÓGICO. GRAVIDADE ABSTRATA DOS CRIMES PELOS QUAIS O APENADO CUMPRE PENA. FUNDAMENTAÇÃO INIDÔNEA. PRECEDENTES. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Ordem liminarmente concedida nos termos do dispositivo.
