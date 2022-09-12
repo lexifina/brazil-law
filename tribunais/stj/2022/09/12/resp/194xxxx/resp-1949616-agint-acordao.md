@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/09/2022 a 12/09/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  por  BANCO  DO  BRASIL  S.A.  contra  a  decisão  (fls.  254/257  e-STJ)  ,  declarada  às  fls.  280/281,  que  conheceu  do  recurso  para  dar-lhe  provimento  devido à  aplicação  da  Súmula  nº  568/STJ.
+Em suas razões  (fls.  284/294  e-STJ),  o  agravante  alega,  em  síntese,  que  a  "questão  sobre  a  legitimidade  do  Ministério  Público  promover  protesto  para  interrupção  de  prescrição  de  direitos  individuais  disponíveis  não  está  pacificada  nessa  e.  Corte  Superior"  (fl.  287  e-STJ),  tendo  sido  afetada  para  julgamento  pelo  rito  dos  recursos  repetitivos.
+Nesse  contexto,  busca o  sobrestamento  do  feito  até  o  julgamento  do  Tema  nº  1.033/STJ.
+Por  outro  lado,  alega  que  o  Ministério  Público  não  tem  legitimidade  para  pleitear  o  protesto  interruptivo  da  prescrição.
+Ao  final,  requer  a  reforma  da  decisão  atacada.
+Devidamente  intimada,  a  parte  contrária  ofereceu  impugnação  (fls.  297/303,  e-STJ).
+É  o  relatório.
+EMENTA
+AGRAVO  INTERNO  NOS  EMBARGOS  DE  DECLARAÇÃO  NO  RECURSO  ESPECIAL.  TERMO  INICIAL.  PRESCRIÇÃO.  INTERRUPÇÃO.  DEMANDA  JUDICIAL.  ÚLTIMO  ATO  DO  PROCESSO.  MINISTÉRIO  PÚBLICO.  ILEGITIMIDADE  .  PROTESTO.  INTERRUPTIVO.  MATÉRIA. PREQUESTIONAMENTO. AUSÊNCIA.  INOVAÇÃO  RECURSAL.
+1.  Recurso  especial  interposto contra acórdão  publicado  na  vigência  do  Código  de  Processo  Civil  de  2015  (Enunciados  Administrativos  nºs  2  e  3/STJ).
+2.  Não  há  falar  em  sobrestamento  do  feito  em  virtude  do  Tema  nº  1.033/STJ,  haja  vista  que  não  houve  debate  no  tribunal  de  origem  acerca  da  ilegitimidade  e  da  ausência  de  interesse  do  Ministério  Público  do  Distrito  Federal  e  dos  Territórios  para  propor  medida  cautelar  de  protesto  interruptivo  de  prescrição.  Súmula  nº  282/STJ,  por  analogia.
+3.  Impossível  a  análise  de  teses  alegadas  apenas  nas  razões  do  agravo  interno  por  se  tratar  de  evidente  inovação  recursal.
+4.  A  orientação  traçada  nesta  Corte  é  no  sentido  de  que,  quando  a  interrupção  de  prescrição  se  der  em  virtude  de  demanda  judicial,  o  novo  prazo  só  correrá  da  data  do  último  ato  do  processo,  que  é  aquele  pelo  qual  o  processo  se  finda.  Precedentes.
+5.  Agravo  interno  não  provido.
+VOTO
+O  acórdão  impugnado  pelo  recurso  especial  foi  publicado  na  vigência  do  Código  de  Processo  Civil  de  2015  (Enunciados  Administrativos  nºs  2  e  3/STJ).
+A  irresignação  não  merece  prosperar.
+Com  efeito,  não  há  falar  em  sobrestamento  do  feito  em  virtude  do  Tema  nº  1.033/STJ,  haja  vista  que  não  houve  debate  no  tribunal  de  origem  acerca  da  ilegitimidade  e  da  ausência  de  interesse  do  Ministério  Público  do  Distrito  Federal  e  dos  Territórios  para  propor  medida  cautelar  de  protesto  interruptivo  de  prescrição.
+Desse  modo,  ausente  o  requisito  do  prequestionamento,  incide  o  disposto  na  Súmula  nº  282/STF:  "É  inadmissível  o  recurso  extraordinário,  quando  não  ventilada,  na  decisão  recorrida,  a  questão  federal  suscitada."
+Aliás,  verifica-se  que  essa  questão  configura  inovação  recursal,  tendo  em  vista  que  nem mesmo  foi  suscitada  nas  contrarrazões  do  recurso  especial  (fls.  233/243,  e  -STJ).
+Na  hipótese,  cinge-se  a  controvérsia  a  saber  o  marco  inicial  para  recontagem  de  prazo  prescricional  interrompido  por  demanda  judicial.
+No  caso,  a  decisão  atacada  deu  provimento  ao  apelo nobre  do  ora  recorrido,  pois  o  tribunal  de  origem  divergiu  do  entendimento  firmado  nesta  Corte  acerca  do  tema.
+Naquela  oportunidade,  transcreveu-se  trecho  do  acórdão  recorrido,  no  qual  a  instância  ordinária  entendeu  que,
+"(..)  após  a  propositura  da  ação  de  protesto  interruptivo,  o  termo  inicial  da  recontagem  do  prazo  prescricional  é  a  data  do  ajuizamento  da  própria  cautelar,  excluindo-se  do  cômputo  a  data  do  início  do  prazo  e  incluindo-se  o  dia  do  seu  vencimento,  nos  precisos  termos  do  artigo  132  do  Código  Civil  e  do  artigo  224  do  Novo  Estatuto  Adjetivo  Civil"  (fl.  177  e-STJ).
+Tal  posicionamento  diverge  da  orientação  traçada  nesta  Corte,  no  sentido  de  que,  quando  a  interrupção  de  prescrição  se  der  em  virtude  de  demanda  judicial,  o  novo  prazo  só  correrá  da  data  do  último  ato  do  processo,  que  é  aquele  pelo  qual  o  processo  se  finda.
+A  propósito:
+"AGRAVO  INTERNO  NO  RECURSO  ESPECIAL.  CIVIL.  AÇÃO  REGRESSIVA.  PRESCRIÇÃO.  INTERRUPÇÃO  POR  PROTESTO  JUDICIAL.  RECONTAGEM  DO  PRAZO.  ÚLTIMO  ATO  PROCESSUAL.  INTELIGÊNCIA  DO  ART.  202,  PARÁGRAFO  ÚNICO,  PARTE  FINAL,  DO  CÓDIGO  CIVIL.  DECISÃO  MANTIDA.  AGRAVO  DESPROVIDO.
+1.  Nos  termos  da  jurisprudência  do  STJ,  "quando  a  interrupção  de  prescrição  se  der  em  virtude  de  demanda  judicial,  o  novo  prazo  só  correrá  da  data  do  último  ato  do  processo.  Precedentes"  (AgInt  no  AREsp  1.010.473/SP,  Rel.  Ministro  LUIS  FELIPE  SALOMÃO,  QUARTA  TURMA,  julgado  em  6/4/2017,  DJe  de  18/4/2017).
+2.  Agravo  interno  não  provido"  (AgInt  no  RCD  no  REsp  1.827.137/SP,  Rel.  Ministro  RAUL  ARAÚJO,  QUARTA  TURMA,  julgado  em  23/11/2020,  DJe  17/12/2020  -  grifou-se).
+"AGRAVO  INTERNO  NO  RECURSO  ESPECIAL.  AÇÃO  DE  COBRANÇA  E  AÇÃO  CAUTELAR.  DESPESAS  MÉDICO-HOSPITALARES.  1.  PRESCRIÇÃO.  NÃO  OCORRÊNCIA.  ATO  PRATICADO  PELO  DEVEDOR  QUE  IMPORTOU  EM  RECONHECIMENTO  DO  DIREITO  DO  CREDOR.  PRESCINDIBILIDADE  DE  QUE  ESTE  ATO  TENHA  SE  DADO  EM  FACE  DO  CREDOR.  PROPOSITURA  DE  AÇÃO  JUDICIAL.  RETOMADA  DO  PRAZO  EXTINTIVO  QUE  OCORRE  A  PARTIR  DA  DATA  DO  ÚLTIMO  ATO  DO  PROCESSO  QUE  O  INTERROMPEU.  DATA  DO  TRÂNSITO  EM  JULGADO  DO  FEITO.  2.  JULGAMENTO  ULTRA  PETITA.  INEXISTÊNCIA.  TRIBUNAL  DE  ORIGEM  QUE  SOLVEU  A  LIDE  NOS  EXATOS  TERMOS  DELINEADOS  PELAS  PARTES.  3.  AGRAVO  INTERNO  DESPROVIDO.
+1.  A  interrupção  da  prescrição  dispensa  que  o  ato  inequívoco  de  reconhecimento  do  direito  pelo  devedor  seja  direcionado  ao  credor,  nos  moldes  preconizados  pelo  art.  172,  V,  do  CC/1916  (equivalente  ao  art.  202,  VI,  do  CC/2002).  Precedente.
+2.  Além  disso,  se  o  ato  interruptivo  for  oriundo  de  processo  judicial,  a  fluência  do  novo  prazo  somente  será  retomada  da  data  do  último  ato  do  processo,  assim  entendendo-se  aquele  pelo  qual  o  processo  se  encerra.
+3.  A  jurisprudência  desta  Corte  Superior  firmou  entendimento  no  sentido  de  que  "inexiste  o  alegado  julgamento  ultra  petita,  pois  o  julgador  não  violou  os  limites  objetivos  da  pretensão,  tampouco  concedeu  providência  jurisdicional  diversa  do  pedido  formulado  na  inicial,  porquanto  o  pedido  deve  ser  extraído  a  partir  de  interpretação  lógico-sistemática  de  toda  a  petição  inicial,  sendo  desnecessária  a  sua  formulação  expressa  na  parte  final  desse  documento,  podendo  o  Juiz  realizar  análise  ampla  e  detida  da  relação  jurídica  posta  em  exame"  (AgRg  no  AREsp  n.  420.451/RJ,  Rel.  Ministro  Raul  Araújo,  Quarta  Turma,  julgado  em  5/12/2013,  DJe  19/12/2013).
+4.  Agravo  interno  desprovido"  (AgInt  no  REsp  1.475.681/SP,  Rel.  Ministro  MARCO  AURÉLIO  BELLIZZE,  TERCEIRA  TURMA,  julgado  em  19/8/2019,  DJe  22/8/2019  -  grifou-se).
+"AGRAVO  INTERNO  NO  RECURSO  ESPECIAL.  CIVIL.  AÇÃO  REGRESSIVA.  PRESCRIÇÃO.  INTERRUPÇÃO  POR  PROTESTO  JUDICIAL.  RECONTAGEM  DO  PRAZO.  ÚLTIMO  ATO  PROCESSUAL.  INTELIGÊNCIA  DO  ART.  202,  PARÁGRAFO  ÚNICO,  PARTE  FINAL,  DO  CÓDIGO  CIVIL.  DECISÃO  MANTIDA.  AGRAVO  DESPROVIDO.
+1.  Nos  termos  da  jurisprudência  do  STJ,  "quando  a  interrupção  de  prescrição  se  der  em  virtude  de  demanda  judicial,  o  novo  prazo  só  correrá  da  data  do  último  ato  do  processo.  Precedentes"  (AgInt  no  AREsp  1.010.473/SP,  Rel.  Ministro  LUIS  FELIPE  SALOMÃO,  QUARTA  TURMA,  julgado  em  06/04/2017,  DJe  de  18/04/2017).
+2.  Agravo  interno  não  provido.  "  (AgInt  no  RCD  no  REsp  1.827.137/SP,  Rel.  Ministro  RAUL  ARAÚJO,  QUARTA  TURMA,  julgado  em  23/11/2020,  DJe  17/12/2020  -  grifou-se).
+"RECURSO  ESPECIAL.  CIVIL.  PRESCRIÇÃO.  INTERRUPÇÃO  POR  PROTESTO  JUDICIAL.  RECONTAGEM  DO  PRAZO.  EXTINÇÃO  DO  PROCESSO.
+1.  Ação  ajuizada  em  26/4/2013.  Recurso  Especial  interposto  em  23/7/2014  e  atribuído  a  este  Gabinete  em  25/8/2016.
+2.  O  propósito  recursal  consiste,  simplesmente,  em  verificar  qual  o  exato  termo  de  reinício  de  recontagem  do  prazo  prescricional  interrompido  por  protesto  judicial.
+3.  É  fato  que  o  art.  202,  II,  do  CC/2002  dispõe  que  o  protesto  judicial  se  encontra  entre  as  causas  de  interrupção  da  prescrição.  O  parágrafo  único  do  mencionado  dispositivo,  por  sua  vez,  afirma  expressamente  que  "a  prescrição  interrompida  recomeça  a  correr  da  data  do  ato  que  a  interrompeu,  ou  do  último  ato  do  processo  para  a  interromper".
+4.  Quando  a  interrupção  de  prescrição  se  der  em  virtude  de  demanda  judicial,  o  novo  prazo  só  correrá  da  data  do  último  ato  do  processo,  que  é  aquele  pelo  qual  o  processo  se  finda.  Precedentes.
+5.  Recurso  especial  conhecido  e  provido"  (REsp  1.512.283/SP,  Rel.  Ministra  NANCY  ANDRIGHI,  TERCEIRA  TURMA,  julgado  em  14/8/2018,  DJe  17/8/2018  -  grifou-se).
+Assim,  as  razões  do  presente recurso  não  são  suficientes  para  reformar  a  decisão  atacada.
+Ante  o  exposto,  nego  provimento  ao  agravo  interno.
+É  o  voto.
