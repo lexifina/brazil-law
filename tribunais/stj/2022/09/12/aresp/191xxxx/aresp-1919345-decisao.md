@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se  de  agravo  interposto  por  VINÍCIUS OLIVEIRA FIVELAS E ACESSÓRIOS EIRELI, contra  a decisão  que  negou  seguimento  ao  recurso  especial.  O  apelo  extremo,  fundamentado  no  artigo  105,  inciso  III,  alínea s  "a" e "c",  da  Constituição  Federal,  insurgiu-se  contra  o  acórdão  proferido  pelo  Tribunal  de  Justiça  do  Estado de São Paulo,  assim  ementado:
+"AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE TÍTULO MERCANTIL E SUSTAÇÃO DE PROTESTO - DUPLICATA SENTENÇA DE IMPROCEDÊNCIA - APELAÇÃO DA AUTORA Autora que contratou a empresa ré para o transporte de mercadorias do Município de Limeira/SP até o Município de Toritama/PE Autuação das mercadorias no posto da Secretaria da Fazenda pela ausência de recolhimento de imposto (ICMS) Cobrança da taxa de armazenagem, previamente informada pela ré à autora, que gerou a emissão da duplicata discutida nos autos Sentença de improcedência - Insurgência da autora Não cabimento Ré que logrou êxito em demonstrar o negócio que ensejou a emissão dos título protestado - Sentença mantida por seus próprios fundamentos.Recurso não provido"  (fl.  209,  e-STJ).
+Os embargos de declaração opostos foram rejeitados(fls. 223-225, e-STJ).
+No  recurso  especial,  além de divergência jurisprudencial a  recorrente  apontaviolação  dos  arts.  20, § 3º, da Lei nº 5.474/1968; 784, I, e 803, I,do Código de Processo Civil de 2015.
+Sustentaque
+"(..) conforme se observa dos documentos anexados aos autos, inexiste qualquer título executivo a permitir o direito de protesto junto ao 1º Tabelião de Notas e Protestos de Letras e Título de Limeira/SP, posto que não houve qualquer aceitação da Recorrente em relação ao armazenamento e valores unilateralmente fixados pela Recorrida a título de taxa de armazenamento, correspondente a TRÊS VEZES o valor da mercadoria transportada, diante do que não houve prévia contratação e aceitação por parte da Recorrente em relação à taxa de armazenamento.
+Daí porque, ausente a contratação (vínculo contratual) entre as partes e o aceite da Recorrente em relação à duplicata mercantil emitida pela Recorrida, não há que se falar em causa subjacente para o saque da duplicata mercantil em desfavor da Recorrente" (fl. 235, e-STJ).
+Suscita divergência jurisprudencial com julgado do Tribunal de Justiça do Estado do Paraná, sob o fundamento de que
+"(..)tanto o acórdão recorrido como o paradigma possuem como processo de origem uma ação declaratória de inexigibilidade/nulidade de título, tendo por objeto duplicata emitida pela Recorrida, sem aceite da remetente da mercadoria (no caso, da Recorrente), para cobrança de taxa de armazenagem de mercadoria apreendida pela SEFAZ por falta de recolhimento de imposto.
+Porém, no acórdão recorrido, mesmo diante da ausência de comprovação da contratação (vínculo contratual), da previsão de responsabilidade pelo pagamento da taxa de permanência, do aceite e da expressa concordância da Recorrente acerca do armazenamento e respectiva taxa e seu valor, o Tribunal a quo entendeu ser a Recorrente responsável pelo pagamento da taxa de permanência sob o fundamento de ter a Recorrida demonstrado (  ) o negócio que deu causa a emissão do título e a fim de se evitar o enriquecimento sem causa. Nada mais absurdo" (fl. 243, e-STJ).
+Contrarrazões  apresentadas às fls. 323-337, e-STJ.
+É o relatório.
+DECIDO.
+O  acórdão  impugnado  pelo  recurso  especial  foi  publicado  na  vigência  do  Código  de  Processo  Civil  de  2015  (Enunciados  Administrativos  nºs  2  e  3/STJ).
+Ultrapassados  os  requisitos  de  admissibilidade  do  agravo,  passa-se  à  análise  do  recurso  especial.
+A  irresignação  não  merece  prosperar.
+Ao adotar os fundamentos dasentença como razões de decidir, o Tribunal de origem dispôs o seguinte:
+"Certo é que a duplicata é um título de crédito causal que deve ter como fundamento uma compra e venda mercantil ou uma prestação de serviços (artigos 2º e 20 da Lei 5.474/1968) e, no presente caso, a empresa ré emitiu o título e demonstrou o negócio que lhe deu causa.
+(..)
+Como bem constou da r. sentença recorrida:
+"A contratação dos serviços de frete pelaparte autora é incontroversa nos autos.
+Controvertem as partes em relação à responsabilidade, ou não, da parte autora no pagamento da despesa de armazenamento.
+A mensagem eletrônica enviada pela ré à autora (fls. 114), assim como as demais provas presentes no presente feito, comprovam que os produtos remetidos pela parte requerente permaneceram retidos pela Secretaria da Fazenda de Pernambuco.
+Conforme documentos juntados aos autos, a retenção ocorreu devido à ausência de pagamento de ICMS. Assim, tendo a ré sido contratada apenas para a realização do frete dos produtos e quanto a esses serviços não existe qualquer reclamação nos autos necessário o pagamento, pela autora, pelos serviços de permanência/armazenamento dos bens retidos pela Fazenda Pública.
+Dispôs a ré de espaço para armazenar os produtos remetidos pela autora, até que quitados os impostos devidos. Nesse particular, a correspondência eletrônica de fls. 114 alerta acerca da cobrança de permanência após o decurso de prazo de 07 (sete) dias.
+Necessário constar que a ré apenas cumpriu ordem emitida pela Secretaria da Fazenda, que condicionou a liberação dos produtos ao pagamento de impostos, compelindo a ré a depositar os bens remetidos pela autora em armazém particular, de modo que o repassedos gastos é de responsabilidade da autora, a fim inclusive de se evitar enriquecimento sem causa."
+E mais não é preciso dizer para que seja mantida, por seus próprios fundamentos, a r. sentença recorrida" (fls. 212-214, e-STJ).
+Como se vê, a Corte de origem decidiu a controvérsia à luz do conjunto fático-probatório dos autos, de sorte que amodificação das conclusões adotadas no acórdão recorrido é providência que esbarra no óbice da Súmula nº 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial".
+Ante  o  exposto,  conheço  do  agravo  para  negar  provimento  ao  recurso  especial.
+Na origem, os honorários advocatícios foram fixados em 15% (quinze por cento) sobre o valor atualizado da causa, os quais deverão ser majorados para 18% (dezoito por cento), em favor dos advogados da parte recorrida, nos termos do art. 85, § 11, do CPC/2015, observada a gratuidade da justiça, se for o caso.
