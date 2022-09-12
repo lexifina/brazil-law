@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de LEANDRO DE OLIVEIRA DA MATA em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo(Agravo de Execução Penal n. 0004894-20.2022.8.26.0496).
+Os autos dão conta de que o pacienteteve o pedido de retificação do cálculo depenas indeferido pelo Juízo da Unidade Regional de Departamento Estadual de Execução Criminal da Comarca de Ribeirão Preto - DEECRIM 6ª RAJ(e-STJ fls. 30/31).
+Irresignada, a defesa interpôs recurso de agravo em execução no Tribunal de origem, que lhenegou provimentonos termos do acórdão assim ementado (e-STJ fl. 16):
+Agravo em execução -Retificação de cálculos -Progressão de regime -Decisão mantida -Recurso desprovido.
+No presente writ, oimpetrante sustenta que o paciente não é reincidente por crimes equiparados a hediondo, mas sim por um hediondo e o restante por crime comume, por isso, faria jus aaplicação retroativa da Lei n. 13.964/2020.
+Alega que, de acordo com a nova redação do art.112, VII, da Lei de Execução Penal, a exigência de lapso correspondente a 60%da pena para progressão de regime somente se aplica ao reincidente na prática de crime hediondo ou equiparado, ou seja, reincidente específico, o que não seria o caso do reeducando.
+Requer, liminarmente e no mérito, a concessão da ordem para determinar que o Juiz da execução aplique a lei penal mais benéfica ao condenado, retificando o cálculo de penas.
+Indeferida a liminar (e-STJ fls. 180/181) e prestadas as informações (e-STJ fls. 187/195), manifestou-se o Ministério Público Federal pela denegação da ordem (e-STJ fls. 197/198).
+É, em síntese, o relatório.
+Decido.
+No caso dos autos,oJuízo da Unidade Regional de Departamento Estadual de Execução Criminal da Comarca de Ribeirão Preto - DEECRIM 6ª RAJindeferiu o pedido de retificação do cálculo de penas com a seguinte fundamentação (e-STJ fl. 30):
+O cálculo de pena elaborado encontra-se correto, pois em conformidade com os acontecimentos processuais e com as normas de regência.
+De observar-se, inicialmente, que o sentenciado é considerado reincidente específico, pois entre a data do cumprimento da pena definitivamente imposta na ação penal indicada a fls. 20/21 - execução n. 1 (processo 0003187-23.2013.8.26.0596) e a data do cometimento do crime que gerou a presente execução não decorreu o prazo depurador previsto no art. 64, I, do Cód. Penal, ademais, em relação a ambos os delitos o sentenciado foi condenado como incurso no artigo 33, caput, da lei 11.343/06.
+Posto isso, INDEFIRO o pedido de fls. 232/237 e HOMOLOGO o cálculo de pena elaborado(grifei).
+O Tribunal de origem, ao negar provimento ao recurso da defesa, manteve a decisão de primeiro grau, consignando, para tanto, que(e-STJ fls. 16/17):
+O recurso não comporta provimento.
+Com efeito, é dos autos o que sentenciado é, incontroversamente, reincidente e que, por oportunidade da elaboração do cálculo de pena, com apoio ao art. 2º, §2º, da Lei dos Crimes Hediondos (vigente à época), foi aplicado o percentual de 3/5 (equivalente a 60% da pena) para progressão, como requisito objetivo a ser observado.
+No presente caso, o agravante é reincidente específico em crime hediondo, de modo que a discussão sobre eventual lei penal mais benéfica sequer se faz necessária.
+Conforme consta, o sentenciado foi condenado como incurso no artigo 33, caput, da Lei 11.343/06, sendo que a sentença transitou em julgado em 07/08/2015 e a pena foi extinta pelo cumprimento no dia 28/11/2019 (autos nº 0003187-23.2013.8.26.0596).Em seguida, em 22/07/2021 o recorrente praticou novo crime previsto no artigo 33, caput, da Lei 11.343/06 (autos nº 1500757-64.2021.8.26.0589), cuja pena está em execução no PEC 0000696-37.2022.8.26.0496.
+A reincidência específica, inclusive, foi reconhecida na sentença condenatória.
+Não merece prosperar a argumentação da defesa.
+Com efeito, agiu com seu costumeiro acerto o Juízo "a quo" ao indeferir os cálculos nos moldes pleiteados pelo agravante(grifei).
+Nessas circunstâncias,não verifico a existência de constrangimento ilegal apto a ensejar a concessão da ordem;pois, consoante se extrai dos autos, o paciente é reincidente específico naprática de crimes equiparados a hediondos. Dessa forma, correta a exigência do cumprimento de 3/5 (trêsquintos) ou60% (sessenta por cento) da pena para fins de progressão de regime.
+A propósito:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL.PROGRESSÃO DE REGIME. CÁLCULO DE PENAS. REINCIDÊNCIA NÃO ESPECÍFICA EM CRIME HEDIONDO. PACOTE ANTICRIME. OMISSÃO LEGISLATIVA. ANALOGIA IN BONAM PARTEM. APLICAÇÃO DO ART. 112, V, DA LEP. PLEITO DE RECONHECIMENTO DA REINCIDÊNCIA COMUM. TRÁFICO PRIVILEGIADO DE DROGAS. REVISÃO DO ACÓRDÃO ESTADUAL. IMPOSSIBILIDADE. REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. O STJ havia firmado, inicialmente, o entendimento de que a entrada em vigor da Lei n. 13.964/2019 não alterou a aplicação, ao reincidente simples, da porcentagem de 60% do cumprimento de pena para a progressão de regime prisional, pois "a condição de reincidente, uma vez adquirida pelo sentenciado, estende-se sobre a totalidade das penas somadas, não se justificando a consideração isolada de cada condenação e tampouco a aplicação de percentuais diferentes para cada uma das reprimendas" (HC 307.180/RS, MINISTRO FELIX FISHER, QUINTA TURMA, DJe 13/5/2015).
+2. Todavia, essa orientação foi revista em recentes julgados de ambas as Turmas Criminais, que passaram a adotar posicionamento segundo o qual a alteração promovida pelo Pacote Anticrime no art.112 da LEP não autoriza a aplicação do percentual de 60%, relativo aos reincidentes em crime hediondo ou equiparado, aos reincidentes não específicos. Isso porque, ante a omissão legislativa, impõe-se o uso da analogia in bonam partem, para se aplicar, na hipótese, o inciso V do artigo 112, que prevê o lapso temporal de 40% ao primário e ao condenado por crime hediondo ou equiparado.
+3.No caso em concreto,trata-se de reincidente específico, havendo o acórdão estadual consignado que se trata de cumprimento de penas privativas de liberdade relativas aos delitos de roubo majorado e tráfico de drogas, sem especificação acerca da modalidade privilegiada.
+4. Assim, para alterar a decisão, nos moldes em que pleiteia a defesa, seria imprescindível adentrar o conjunto fático-probatório dos autos, sendo isso um procedimento incompatível com a estreita via do writ.
+5. Agravo regimental não provido(AgRg no HC 609.283/SP, relator o Ministro Ribeiro Dantas, Quinta Turma, DJe de 26/2/2021, grifei).
+Ante o exposto,denego a ordem.
+Publique-se. Intimem-se.
