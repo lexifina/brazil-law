@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/09/2022 a 12/09/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão assim ementada (fl. 938):
+PROCESSUAL CIVIL. RECURSO ESPECIAL. VIOLAÇÃO DOS ARTIGOS 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. AGRAVO DE INSTRUMENTO. ALEGAÇÃO DE ILEGITIMIDADE DOS SUBSTITUÍDOS EM FACE DA CONDENAÇÃO EM HONORÁRIOS. AUSÊNCIA DE COMANDO NORMATIVO NOS DISPOSITIVOS INDICADOS COMO MALFERIDOS. DEFICIÊNCIA NA ARGUMENTAÇÃO RECURSAL. SÚMULA 284/STF. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO.
+O agravante repisa as razões alusivas à violação dos artigos 489, § 1º, IV, e 1.022, II, e parágrafo único, I, do CPC/2015. Afirma que a Súmula 284/STF não é aplicável ao caso em apreço, pois todos os dispositivos indicados nas razões recursais demonstram as violações em que incorre o acórdão regional ao condenar ao pagamento da verba honorária os substituídos que não são exequentes, eis que se trata de execução promovida em substituição processual.
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO DOS ARTIGOS 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. ALEGAÇÃO DE ILEGITIMIDADE DOS SUBSTITUÍDOS EM FACE DA CONDENAÇÃO EM HONORÁRIOS. AUSÊNCIA DE COMANDO NORMATIVO NOS DISPOSITIVOS INDICADOS COMO MALFERIDOS. DEFICIÊNCIA NA ARGUMENTAÇÃO RECURSAL. SÚMULA 284/STF.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Não há falar em violação dos artigos 489 e 1.022 do CPC/2015, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A aplicação do direito ao caso, ainda que por meio de solução jurídica diversa da requerida por um dos litigantes, não induz negativa ou ausência de prestação jurisdicional.
+3. Configura deficiência na argumentação recursal, a impedir a exata compreensão da controvérsia, o desenvolvimento de temática ou de argumentos dissociados dos fundamentos aplicados pelo acórdão a quo ou quando o dispositivo de lei indicado não contém comando normativo capaz de amparar a pretensão deduzida. Incidência da Súmula 284/STF.
+4. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Dito isso, verifica-se que o presente recurso não merece prosperar, tendo em vista que dos argumentos apresentados no agravo interno não se vislumbram razões para reformar a decisão agravada.
+Como assinalado, afasta-se a alegada infringência aos artigos 489 e 1.022 do CPC/2015, pois a Corte de origem manifestou-se de forma suficientemente fundamentada sobre as questões relevantes para a solução da controvérsia, apenas não adotando as razões da recorrente, o que não configura violação dos dispositivos invocados. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+Repise-se, ainda nessa esteira, que a jurisprudência deste Superior Tribunal é firme no sentido de que "o julgador não está obrigado a rebater, um a um, todos os argumentos invocados pelas partes quando, por outros meios que lhes sirvam de convicção, tenha encontrado motivação satisfatória para dirimir o litígio. As proposições poderão ou não ser explicitamente dissecadas pelo magistrado, que só estará obrigado a examinar a contenda nos limites da demanda, fundamentando o seu proceder de acordo com o seu livre convencimento, baseado nos aspectos pertinentes à hipótese sub judice e com a legislação que entender aplicável ao caso concreto" (AgInt no AREsp 1.344.268/SC, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 14/2/2019).
+De outro lado, observa-se ter a instância ordinária consignado que "no que diz respeito à determinação, pela decisão agravada, de que caberia aos substituídos o pagamento de honorários advocatícios, em caso de sucumbência parcial ou total, tem-se que o Sindicato não possui legitimidade para recorrer de condenação à pagamento de honorários advocatícios que recaia sobre os substituídos" (fl. 695).
+Em suas razões, o recorrente defende a impossibilidade de atribuição de ônus sucumbenciais aos substituídos pelo sindicato, já que não são parte no processo. Aduz, assim, afronta aos artigos 490 e 506 do CPC/2015.
+Os dispositivos legais supracitados, possuem a seguinte redação:
+Art. 490. O juiz resolverá o mérito acolhendo ou rejeitando, no todo ou em parte, os pedidos formulados pelas partes.
+Art. 506. A sentença faz coisa julgada às partes entre as quais é dada, não prejudicando terceiros. (Lei 13.105/2015)
+Ao que se vê, os artigos 490 e 506 do CPC/2015, apontados como malferidos, não contêm comando normativo capaz de sustentar a tese deduzida e infirmar o juízo formulado no acórdão recorrido, o que atrai a aplicação analógica da Súmula 284/STF.
+O Superior Tribunal de Justiça tem reiteradamente decidido no sentido de que o recurso especial não pode ser conhecido quando os dispositivos legais indicados como violados não possuem comando normativo para sustentar a tese defendida pela parte recorrente e infirmar os fundamentos do acórdão recorrido, caracterizando deficiência na argumentação recursal, o que autoriza a aplicação do teor da Súmula 284/STF.
+Além do mais, resta evidente que a argumentação recursal se revela deficiente e inapta a demonstrar efetivamente a suposta ofensa aos artigos apontados como ofendidos. Assim, as razões do recurso revelam-se dissociadas dos fundamentos aplicados pelo aresto a quo, situação que não permite a exata compreensão da controvérsia e impede o conhecimento do apelo especial. Aplica-se à hipótese a Súmula 284/STF.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. VIOLAÇÃO AO ART. 535 DO CPC. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. JUROS MORATÓRIOS NO CÔMPUTO DA BASE DE CÁLCULO DOS HONORÁRIOS ADVOCATÍCIOS. INCIDÊNCIA DA SÚMULA N. 83/STJ. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+ ..
+II - A jurisprudência desta Corte considera que quando a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se, por analogia, o entendimento da Súmula n. 284, do Supremo Tribunal Federal.
+ ..
+VII - Agravo Interno improvido (AgInt no REsp 1.604.668/RS, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 26/6/2019).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO DE LEI FEDERAL VIOLADO. SÚMULA 284 DO STF.
+1. A admissibilidade do recurso especial reclama a indicação clara dos dispositivos tidos por violados, bem como a exposição das razões pelas quais o acórdão teria afrontado cada um, não sendo suficiente a mera alegação genérica. O inconformismo apresenta-se deficiente quanto à fundamentação, o que impede a exata compreensão da controvérsia (Súmula 284/STF). Entendimento aplicável aos recursos interposto com base na divergência jurisprudencial.
+ ..
+3. Agravo interno a que se nega provimento (AgInt no REsp 1.257.119/RS, Rel. Ministro Og Fernandes, Segunda Turma, DJe 28/3/2019).
+PROCESSUAL CIVIL E ADMINISTRATIVO. DESAPROPRIAÇÃO PARA FINS DE REFORMA AGRÁRIA. INDENIZAÇÃO. SUPOSTO ERRO DE FATO. SÚMULA 7 DO STJ. INCIDÊNCIA. ATUALIZAÇÃO DO NUMERÁRIO DEPOSITADO. INTERESSE RECURSAL. AUSÊNCIA. JUROS COMPENSATÓRIOS. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284 DO STF. LEI SUPERVENIENTE. EXAME. JUÍZO DE ADMISSIBILIDADE NÃO ULTRAPASSADO. IMPOSSIBILIDADE.
+ ..
+4. A aplicação da Súmula 284 do STF deve ser mantida, no que diz respeito aos arts. 15-A e 15-B do Decreto-Lei n. 3.365/1941, visto que o agravante não desenvolveu, nas razões do recurso especial, nenhum argumento para demonstrar de que modo o aludido dispositivo teria sido violado, referentes aos critérios de cálculos dos juros compensatórios, não bastando, por certo, a mera indicação da norma federal supostamente contrariada, circunstância que revela a deficiência do recurso.
+ ..
+7. Agravo interno desprovido (AgInt no REsp 1.451.044/PE, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 4/12/2018).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RAZÕES DISSOCIADAS. AUSÊNCIA DE COMANDO NORMATIVO FALTA DE INDICAÇÃO DO DISPOSITIVO LEGAL OBJETO DE INTERPRETAÇÃO DIVERGENTE. SÚMULA 284/STF.
+1. Configura fundamentação deficiente, a impedir a exata compreensão da controvérsia, o desenvolvimento, nas razões recursais, de temática ou argumentação dissociada do dispositivo legal apontado violado ou quando o artigo de lei indicado não contém comando normativo capaz de amparar a pretensão recursal induzindo ao direito pleiteado. Incidência da Súmula 284/STF.
+2. A falta de indicação do dispositivo legal objeto da interpretação divergente entre os acórdãos recorrido e paradigma constitui fundamentação deficiente e inviabiliza a abertura da instância especial. Aplicação à hipótese da Súmula 284/STF.
+3. Agravo interno não provido (AgInt no REsp 1.470.232/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 23/3/2018).
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. GRATIFICAÇÃO DE DESEMPENHO. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA.EXTENSÃO AOS SERVIDORES INATIVOS. PROPORCIONALIDADE.DESCABIMENTO. LIMITAÇÃO. REVISÃO. IMPOSSIBILIDADE. VALOR DA GDARA. DEFICIÊNCIA NA ARGUMENTAÇÃO. SÚMULA 284/STF.
+ ..
+III - A indicação de violação do art. 186 da Lei n. 8.112/90, quando realizada de forma genérica, sem questionar os aspectos mais salientes da fundamentação do acórdão recorrido e sem desenvolver argumentos para demonstrar especificamente a suposta mácula, caracteriza deficiência desta parcela recursal. Incidência do enunciado n. 284 da Súmula do STF.
+IV - Agravo interno improvido (AgInt no REsp 1.656.293/PR, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 11/10/2017).
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
