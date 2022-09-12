@@ -1,0 +1,65 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/09/2022 a 12/09/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  por  LÍDIA  VILHALVA  VAREIRO  que  conheceu  do  agravo  para  negar  provimento  ao  recurso  especial  devido  aos  seguintes  fundamentos:
+(i)  conforme  disposição  do  artigo  105  da  Constituição  Federal,  o  Superior  Tribunal  de  Justiça  não  é  competente  para  se  manifestar  acerca de  suposta  ofensa  a  dispositivo  da  Constituição  Federal,  nem  sequer  a  título  de  prequestionamento;
+(ii)  não  ocorrência de  ofensa  aos  artigos  489  e  1.022  do  Código  de  Processo  Civil  de  2015,  visto  que  não  houve  prestação  jurisdicional  lacunosa  ou  deficitária  pelo  tribunal  de  origem;
+(iii)  incidência  do  óbice  da  Súmula  nº  284/STF,  porque  o  acórdão  estadual  acolheu  a  pretensão  da  agravante  quanto  ao  pedido  de  indenização  por  danos  morais;
+(iv)  não  cabimento  do  pleito  relativo  à  majoração  do  valor  arbitrado  na  origem  a  título  de  danos  morais, visto que  demandaria  o  reexame  do  contexto  fático-probatório  dos  autos,  a atrair  o  óbice  da  Súmula  nº  7/STJ,  e
+(v)  a  necessidade  de  reexame  de  matéria  fática  impede  a  admissão  do  recurso  especial  por  ambas  as  alíneas  do  permissivo  constitucional.
+Nas  presentes  razões,  a  agravante  refuta  o  óbice  da  Súmula  nº  284/STF  afirmando  que,  "ao  contrário  do  entendimento  contido  no  despacho  denegatório,  houve  impugnação  específica  de  todos  os  fundamentos  contidos  no  despacho  denegatório"  (fl.  474,  e-STJ).
+Defende  a  não  incidência  da  Súmula  nº  7/STJ  ,  tendo em vista  que  "não  haveria  a  necessidade  de  uma  reincursão  no  acervo  fático  probatório,  mas  sim,  de  se  atribuir  uma  definição  jurídica  diversa  aos  fatos  expressamente  mencionados  no  acórdão  do  tribunal"  (fl.  480,  e-STJ).
+Ao  final,  requer  a  reforma  da  decisão  atacada  para  conhecer  e  dar  provimento  ao  recurso  especial.
+Devidamente  intimada,  a  parte  contrária  impugnou  o  recurso  às  fls.  506-510,  (e-STJ).
+É  o  relatório.
+EMENTA
+AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  PRINCÍPIO  DA  UNIRECORRIBILIDADE.  PRECLUSÃO  CONSUMATIVA.  FUNDAMENTAÇÃO  DEFICIENTE.  SÚMULA  Nº  284/STF.  DANO  MORAL.  MAJORAÇÃO.  RAZOABILIDADE  E  PROPORCIONALIDE.  NÃO  CABIMENTO.  SÚMULA  Nº  7/STJ.
+  1.  Recurso  especial  interposto  contra  acórdão  publicado  na  vigência  do  Código  de  Processo  Civil  de  2015  (Enunciados  Administrativos  nºs  2  e  3/STJ).
+2.  Na  hipótese  de  interposição  de  dois  recursos  pela  mesma  parte  e  contra  a  mesma  decisão,  apenas  o  primeiro  poderá  ser  conhecido,  haja  vista  a  ocorrência  da  preclusão  consumativa  e  do  princípio  da  unicidade  recursal,  que  vedam  a  interposição  simultânea  de  mais  de  um  recurso  contra  a  mesma  decisão  judicial.
+3.  O  dispositivo  legal  indicado  como  malferido  não  tem  comando  normativo  suficiente  para  infirmar  os  fundamentos  do  acórdão  recorrido,  tampouco  para  sustentar  a  tese  defendida  pelo  recorrente,  o  que  configura  deficiência  de  fundamentação  do  recurso  especial,  atraindo  o  óbice  da  Súmula  nº  284/STF.
+4.  Na  hipótese,  rever  os  fundamentos  do  acórdão  estadual,  a  fim  de  majorar  o  valor  fixado  na  origem  a  título  indenização  por  danos  morais  ,  demandaria  o  reexame  do  conjunto  fático-probatório,  procedimento  inadmissível  em  recurso  especial  em  virtude  das disposições da  Súmula  nº  7/STJ.
+5.  Agravo  interno  não  provido.
+VOTO
+O  acórdão  impugnado  pelo  recurso  especial  foi  publicado  na  vigência  do  Código  de  Processo  Civil  de  2015  (Enunciados  Administrativos  nºs  2  e  3/STJ).
+A  irresignação  não  merece  prosperar.
+Inicialmente,  à  luz  do  princípio  da  unirecorribilidade,  não  se  conhece  do  segundo  agravo  interno,  interposto  às  fls.  485-497  (e-STJ),  tendo  em  vista  a  preclusão  consumativa.
+Nesse  mesmo  sentido,  o  Superior  Tribunal  de  Justiça  já  decidiu  que  "defeso  a  interposição  de  02  (dois)  agravos  regimentais  contra  o  mesmo  ato  judicial  ante  o  princípio  da  unirrecorribilidade  recursal,  o  que  demanda  o  não  conhecimento  do  agravo  apresentado  após  o  primeiro  recurso"  (AgRg  nos  EAREsp  395.314/SP,  Rel.  Ministro  Luis  Felipe  Salomão,  Corte  Especial,  DJe  28/8/2014).
+Quanto  ao  mais,  os  argumentos  do  agravante  são  insuficientes  para  reformar  a  decisão  agravada.
+Com  efeito,  a  recorrente  defende  o  cabimento  do  pedido  de  indenização  por  danos  morais.  Todavia,  verifica-se  que  o  tribunal  estadual  acolheu  a  pretensão  da  recorrente  nesse  ponto, atraindo  o  óbice  da  Súmula  nº  284/STF:  "É  inadmissível  o  recurso  extraordinário,  quando  a  deficiência  de  fundamentação  não  permitir  a  exata  compreensão  da  controvérsia."
+Nesse sentido:
+"AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  EMBARGOS  À  EXECUÇÃO.  ART.  489  DO  CPC/2015.  ART.  1.022  DO  CPC/2015.  VIOLAÇÃO.  NÃO  OCORRÊNCIA.  DEFICIÊNCIA  DE  FUNDAMENTAÇÃO.  SÚMULA  284/STF.  ART.  1.021,  §  3º,  DO  CPC/2015.  FUNDAMENTOS  DA  DECISÃO  AGRAVADA.REITERAÇÃO.  POSSIBILIDADE.
+1.  Recurso  especial  interposto  contra  acórdão  publicado  na  vigência  do  Código  de  Processo  Civil  de  2015  (Enunciados  Administrativos  nºs  2  e  3/STJ).
+2.  Não  há  falar  em  negativa  de  prestação  jurisdicional  se  o  tribunal  de  origem  motiva  adequadamente  sua  decisão,  solucionando  a  controvérsia  com  a  aplicação  do  direito  que  entende  cabível  à  hipótese,  apenas  não  no  sentido  pretendido  pela  parte.
+3.  O  dispositivo  legal  indicado  como  malferido  não  tem  comando  normativo  suficiente  para  infirmar  os  fundamentos  do  acórdão  recorrido,  tampouco  para  sustentar  a  tese  defendida  pelo  recorrente,  o  que  configura  a  deficiência  de  fundamentação  do  recurso  especial  a  atrair  a  incidência  da  Súmula  nº  284/STF.
+4.  O  julgador  pode  reiterar  os  fundamentos  da  decisão  recorrida  quando  não  deduzidos  novos  argumentos  pela  parte  recorrente,  pelo  que  o  art.  1.021,  §  3º,  do  CPC/2015  não  impõe  ao  julgado  a  obrigação  de  reformular  a  decisão  agravada.
+5.  Agravo  interno  não  provido"  (AgInt  no  AREsp  1.395.429/SP,  Rel.  Ministro  RICARDO  VILLAS  BÔAS  CUEVA,  TERCEIRA  TURMA,  julgado  em  18/11/2019,  DJe  21/11/2019  ).
+Além  disso,  o  tribunal  local,  ao  fixar  a  quantia  indenizatória,  assim consignou:
+"(..)
+No  que  se  refere  ao  quantum  indenizatório,  observo  que  tanto  a  Autora  quanto  o  Requerido  insurgem-se  contra  o  valor  arbitrado  a  título  de  indenização  por  danos  morais.  A  parte  autora  requer  a  majoração  da  indenização,  enquanto  a  ré  pleiteia  a  sua  minoração.
+Pois  bem.  Em  consulta  ao  SAJ,  constata-se  que  a  Autora/Apelante  tem  outras  5  (cinco)  ações  em  curso  semelhantes  à  presente  junto  à  Comarca  de  Caarapó,  todas  contra  instituições  financeiras,  tendo  já  havido  condenação  por  danos  morais  em  um  desses  autos,  circunstância  que  demonstra  a  evidente  pulverização  de  ações.  Tal  prática  vem  sendo  comumente  utilizada  na  inequívoca  tentativa  de  auferir  indenização  por  danos  morais  em  patamares  mais  elevados,  chance  que  é  maior  em  ações  isoladas  do  que  em  conjunto.  No  entanto,  pode  render  ao  consumidor  somas  vultosas,  que  acarretam  um  desvirtuamento  da  finalidade  do  instituto  da  responsabilidade  civil.
+Outro  ponto  que  merece  destaque  é  o  fato  de  que  foram  descontados  do  benefício  previdenciário  da  Autora  tão  somente  30  parcelas  de  R$  12,53  (f.  44),  de  tal  sorte  que  a  imposição  de  condenação  por  danos  morais  na  forma  em  que  pretende  a  Requerente  (R$  20.000,00),  sem  sombra  de  dúvidas,  destoa  da  razoabilidade  e  da  proporcionalidade.
+Assim  sendo,  diante  da  peculiaridade  do  caso  em  apreço,  tenho  em  vista  que  há  outras  demandas  ajuizadas  objetivando  a  declaração  de  nulidade  de  contratos  bancários,  o  arbitramento  deve  ser  feito  com  moderação,  em  obediência  aos  princípios  da  proporcionalidade  e  da  razoabilidade.
+Não  menos  importante,  impõe-se  ressaltar  que  a  ofensa  moral  não  foi  tão  elevada  conforme  assevera  a  parte  autora,  uma  vez  que  ingressou  em  juízo  somente  após  mais  de  3  anos  do  início  dos  descontos.
+Em  suma,  a  indenização  por  danos  morais  deve  ser  reduzida  para  o  patamar  de  R$  1.500,00,  valor  que  reputo  suficiente  para  a  punição  do  ofensor,  bem  como  para  reparar  as  aflições  sofridas  pela  consumidora  em  razão  dos  dissabores  causados  pelo  evento  danoso  e,  principalmente,  evitar  enriquecimento  sem  causa"  (fls.  365-366,  e-STJ).
+Nesse  aspecto,  a  pretensão  da  recorrente  de  majorar  o  valor  arbitrado  a  título  de  danos  morais  não  é  possível  na  estreita  via  do  recurso  especial,  porquanto  demandaria  o  reexame  do  contexto  fático-probatório,  procedimento  inadmissível  em  recurso  especial,  nos  termos  da  Súmula  nº  7/STJ:  "A  pretensão  de  simples  reexame  de  prova  não  enseja  recurso  especial."
+Confiram-se  :
+"PROCESSO  CIVIL.  AGRAVO  INTERNO.  AGRAVO  EM  RECURSO  ESPECIAL.  REVISÃO  DO  JULGADO.  REEXAME  DE  MATÉRIA  FÁTICA  DA  LIDE.  SÚMULA  7  DO  STJ.  VALOR  INDENIZATÓRIO  MANTIDO.  NÃO  PROVIMENTO.
+1.  Não  cabe,  em  recurso  especial,  reexaminar  matéria  fático-probatória  (Súmula  7/STJ).
+2.  Admite  a  jurisprudência  do  Superior  Tribunal  de  Justiça,  excepcionalmente,  em  recurso  especial,  reexaminar  o  valor  fixado  a  título  de  indenização  por  danos  morais,  quando  ínfimo  ou  exagerado.
+Hipótese,  todavia,  em  que  o  valor  foi  estabelecido  atendendo  às  circunstâncias  de  fato  da  causa  adequadamente  ponderadas,  de  forma  condizente  com  os  princípios  da  proporcionalidade  e  razoabilidade.
+3.  Agravo  interno  a  que  se  nega  provimento"  (AgInt  no  AREsp  1.576.474/SP,  Rel.  Ministra  MARIA  ISABEL  GALLOTTI,  QUARTA  TURMA,  julgado  em  30/3/2020,  DJe  2/4/2020).
+"AGRAVO  INTERNO  NO  RECURSO  ESPECIAL  -  AÇÃO  DE  OBRIGAÇÃO  DE  FAZER  C/C  PEDIDO  CONDENATÓRIO  -  DECISÃO  MONOCRÁTICA  QUE  DEU  PARCIAL  PROVIMENTO  AO  RECLAMO.  INSURGÊNCIA  DO  DEMANDANTE.
+1.  Violação  aos  artigos  489  e  1022  do  CPC/15,  não  configurada.
+Acórdão  estadual  que  enfrentou  todos  os  aspectos  essenciais  à  resolução  da  controvérsia  de  forma  ampla  e  fundamentada,  sem  omissão.  O  julgador  não  está  obrigado  a  rebater,  um  a  um,  os  argumentos  invocados  pelas  partes,  quando  tenha  encontrado  motivação  satisfatória  para  dirimir  o  litígio.  Precedentes.
+2.  A  indenização  por  danos  morais  fixada  em  quantum  sintonizado  aos  princípios  da  razoabilidade  e  da  proporcionalidade  não  enseja  a  possibilidade  de  interposição  do  recurso  especial,  dada  a  necessidade  de  exame  de  elementos  de  ordem  fática,  cabendo  sua  revisão  apenas  em  casos  de  manifesta  excessividade  ou  irrisoriedade  do  valor  arbitrado,  o  que  não  se  evidencia  no  presente  caso.
+Incidência  da  Súmula  7  do  STJ.
+3.  Agravo  interno  desprovido"  (AgInt  no  REsp  1.795.636/SP,  Rel.  Ministro  MARCO  BUZZI,  QUARTA  TURMA,  julgado  em  30/3/2020,  DJe  1º/4/2020).
+"DANOS  MORAIS.  INSCRIÇÃO  INDEVIDA  EM  CADASTRO  DE  INADIMPLENTE.  AUMENTO  DA  INDENIZAÇÃO.  INVIABILIDADE.  RAZOABILIDADE  NA  FIXAÇÃO  DO  QUANTUM.  DECISÃO  MANTIDA.
+(..)
+2.  No  caso  concreto,  o  Tribunal  de  origem  destacou  as  circunstâncias  fáticas  que  o  levaram  à  redução  do  valor  dos  danos  morais.  Dessa  forma,  o  exame  da  pretensão  recursal,  no  sentido  de  majorar  a  quantia  fixada,  demandaria  a  análise  de  provas,  inviável  em  recurso  especial.
+3.  Agravo  regimental  a  que  se  nega  provimento"  (AgRg  no  AREsp  577.843/DF,  Rel.  Ministro  ANTONIO  CARLOS  FERREIRA,  QUARTA  TURMA,  julgado  em  12/5/2015,  DJe  19/5/2015  -  indenização  por  dano  moral  fixada  em  R$  1.000,00  -  mil  reais).
+Assim,  não  prosperam  as  alegações  postas  no  presente  recurso,  incapazes  de  alterar  os  fundamentos  da  decisão  impugnada.
+Ante  o  exposto,  nego  provimento  ao  agravo  interno.
+É  o  voto.
