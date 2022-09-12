@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/09/2022 a 12/09/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  por  MAX  AGP  COMUNICAÇÕES  LTDA.  contra  a  decisão  que  acolheu  os  embargos  de  declaração  para  declarar  que,  na  origem,  os  honorários  sucumbenciais  foram  fixados  em  10%  (dez por cento) sobre  o  valor  da  causa  (R$  27.065.490,76),  os  quais  devem  ser  majorados  para  15%  (quinze por cento) em  favor  do  advogado  da  parte  ora  agravada,  nos  termos  do  artigo  85,  §  11,  do  Código  de  Processo  Civil  de  2015  (fls.  5.326/5.328,  e-STJ).
+Nas  suas  razões  (e-STJ  fls.  5.334/5.341),  a  agravante  postulam  a  reforma  da  decisão  atacada  argumentando,  em  síntese,  que  "a  majoração  da  verba  de  sucumbência  de  10%  para  15%  é  absolutamente  desproporcional,  considerando  que  o  valor  da  causa  é  de  R$  27.065.490,76".
+É  o  relatório.
+EMENTA
+AGRAVO  INTERNO  NO  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  PROCESSUAL  CIVIL.  HONORÁRIOS  RECURSAIS.  MAJORAÇÃO.  REQUISITOS  E  LIMITES.  ATENDIMENTO.  ART.  85,  §§  2º,  3º  E  11º,  DO  CÓDIGO  DE  PROCESSO  CIVIL  DE  2015.
+1.  Recurso  especial  interposto  contra  acórdão  publicado  na  vigência  do  Código  de  Processo  Civil  de  2015  (Enunciados  Administrativos  nºs  2  e  3/STJ).
+2.  Preenchidos  os  requisitos  para  a  majoração  dos  honorários  recursais,  estes  devem  ser  mantidos  nos  termos  da  decisão  monocrática,  visto  que  foram  observados  os  limites  percentuais  previstos  nos  §§  2º  e  3º  do  art.  85  do  Código  de  Processo  Civil  de  2015.
+3.  Agravo  interno  não  provido.
+VOTO
+O  acórdão  impugnado  pelo  recurso  especial  foi  publicado  na  vigência  do  Código  de  Processo  Civil  de  2015  (Enunciados  Administrativos  nºs  2  e  3/STJ).
+A  irresignação  não  merece  prosperar.
+No  caso  dos  autos,  o  tribunal  de  origem  fixou  os  honorários  de  sucumbência  em  10%  (dez  por  cento)  sobre  valor  da  causa.
+A  decisão  atacada  concluiu  ser  cabível  na  espécie  a  majoração  dos  honorários,  nos  termos  do  art.  85,  §  11,  do  Código  de  Processo  Civil  de  2015  ,  elevandoo  montante  para  15%  (quinze  por  cento).
+Com  efeito,  o  Superior  Tribunal  de  Justiça  consolidou  o  entendimento  de  ser  devida  a  majoração  da  verba  honorária  sucumbencial,  na  forma  do  art.  85,  §  11,  do  Código  de  Processo  Civil  de  2015,  quando  estiverem  presentes  os  seguintes  requisitos,  simultaneamente:  (a)  decisão  recorrida  publicada  a  partir  de  18/3/2016,  quando  entrou  em  vigor  o  Código  de  Processo  Civil  de  2015,  (b)  recurso  não  conhecido  integralmente  ou  não  provido,  monocraticamente  ou  pelo  órgão  colegiado  competente,  e  (c)  condenação  em  honorários  advocatícios  desde  a  origem,  no  feito  em  que  interposto  o  recurso.
+Estabeleceu,  ainda,  a  necessidade  de  observância  dos  limites  previstos  nos  §§  2º  e  3º  do  art.  85  do  Código  de  Processo  Civil  de  2015.
+Portanto,  preenchidos  os  requisitos  para  a  majoração  dos  honorários  recursais,  devem  ser  mantidos  os  termos  da  decisão  monocrática,  visto  que  observados  os  limites  percentuais  previstos  nos  §§  2º  e  3º  do  art.  85  do  Código  de  Processo  Civil  de  2015
+A  propósito:
+"RESPONSABILIDADE  CIVIL.  ATROPELAMENTO  EM  LINHA  FÉRREA.  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  ATO  ILÍCITO  E  DANO  ESTÉTICO.  NÃO  INCIDÊNCIA  DE  EXCLUDENTE  DE  RESPONSABILIDADE.  DANOS  ESTÉTICOS  E  MORAIS.  VALOR.  REEXAME  DE  PROVAS.  IMPOSSIBILIDADE.  SÚMULA  N.  7/STJ.  HONORÁRIOS  RECURSAIS.  ART.  85,  §  11,  DO  CPC/2015.  DECISÃO  MANTIDA.
+(..)
+4.  De  acordo  com  a  jurisprudência  da  Corte  Especial  do  STJ,  "é  devida  a  majoração  da  verba  honorária  sucumbencial,  na  forma  do  art.  85,  §  11,  do  CPC/2015,  quando  estiverem  presentes  os  seguintes  requisitos,  simultaneamente:  a)  decisão  recorrida  publicada  a  partir  de  18.3.2016,  quando  entrou  em  vigor  o  novo  Código  de  Processo  Civil;  b)  recurso  não  conhecido  integralmente  ou  desprovido,  monocraticamente  ou  pelo  órgão  colegiado  competente;  e  c)  condenação  em  honorários  advocatícios  desde  a  origem  no  feito  em  que  interposto  o  recurso.  ..  É  dispensada  a  configuração  do  trabalho  adicional  do  advogado  para  a  majoração  dos  honorários  na  instância  recursal,  que  será  considerado,  no  entanto,  para  quantificação  de  tal  verba"  (AgInt  nos  EAREsp  n.  762.075/MT,  Relator  para  o  acórdão  Ministro  HERMAN  BENJAMIN,  CORTE  ESPECIAL,  julgado  em  19/12/2018,  DJe  7/3/2019),  sendo  essa  a  situação  evidenciada  nos  autos.
+5.  Agravo  interno  a  que  se  nega  provimento"  (AgInt  no  AREsp  1.637.993/RJ,  Rel.  Ministro  ANTONIO  CARLOS  FERREIRA,  QUARTA  TURMA,  julgado  em  29/3/2021,  DJe  6/4/2021).
+"AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  PROCESSUAL  CIVIL.  PROMESSA  DE  CESSÃO  DE  DIREITOS  HEREDITÁRIOS.  IMÓVEL.  DISTRATO.  SINAL.  DEVOLUÇÃO  SIMPLES.  ANUÊNCIA.  DANO  MORAL.  INEXISTÊNCIA.  CONJUNTO  FÁTICO-PROBATÓRIO.  CLÁUSULAS  CONTRATUAIS.  REEXAME.  IMPOSSIBILIDADE.  SÚMULAS  NºS  5  E  7/STJ.  SUCUMBÊNCIA  MÍNIMA.  VERIFICAÇÃO.  INVIABILIDADE.  SÚMULA  Nº  7/STJ.  HONORÁRIOS  ADVOCATÍCIOS.  MAJORAÇÃO.  REQUISITOS  E  LIMITES.  POSSIBILIDADE.  ART.  85,  §§  2º,  3º  E  11,  DO  CÓDIGO  DE  PROCESSO  CIVIL  DE  2015.
+(..)
+4.  Na  hipótese,  tendo  sido  preenchidos  os  requisitos  para  majoração  dos  honorários  recursais,  estes  devem  ser  mantidos  nos  termos  da  decisão  monocrática,  visto  que  foram  observados  os  limites  percentuais  previstos  nos  §§  2º  e  3º  do  art.  85  do  Código  de  Processo  Civil  de  2015.
+5.  Agravo  interno  não  provido"  (AgInt  no  AREsp  1.571.169/RJ,  Rel.  Ministro  RICARDO  VILLAS  BÔAS  CUEVA,  TERCEIRA  TURMA,  julgado  em  8/3/2021,  DJe  12/  3/2021).
+Assim,  não  prosperam  as  alegações  postas  no  presente  recurso,  incapazes  de  alterar  os  fundamentos  da  decisão  impugnada.
+Ante  o  exposto,  nego  provimento  ao  agravo  interno.
+É  o  voto.
