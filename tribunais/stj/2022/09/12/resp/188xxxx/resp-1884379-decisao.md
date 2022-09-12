@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de recurso especial interposto por CONSTRUTORA ATERPA S/A., com fundamento no art. 105, inciso III, alínea"a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"AGRAVO DE INSTRUMENTO. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS C/C DANOS MORAIS. Insurgência à decisão que afastou preliminar de prescrição trienal e falta de interesse de agir para a demanda. Superveniência da sentença de mérito que não afasta o interesse ao julgamento do recurso em relação à prescrição.
+Prescrição não verificada. Menção a lucros cessantes contida na inicial que não conduziu à formulação de pedido de indenização a este título. Ademais, conforme firme entendimento jurisprudencial, do STJ e TJSP, as ações de indenização por vício construtivo são regidas pelo artigo 205 do CC. Precedentes. RECURSO CONHECIDO EM PARTE, E NA PARTE CONHECIDA, IMPROVIDO" (fl. 1.181 e-STJ).
+Os embargos de declaração opostos foram rejeitados.
+O recurso especial aponta violação dos arts.206, § 3º, V, do Código Civil;17, 357, 485, VI, 946, 1.009, § 1º e 1.022, do Código de Processo Civil de 2015 e26, II, do Código de Defesa do Consumidor.
+Quanto à alegada deficiência na prestação jurisdicional, sustenta que a Corte de origem não se manifestou sobre a decadência, e não fundamentou a decisão acerca da perda de objeto decorrente da ausência de interesse de agir.
+No mérito, aponta a ocorrência do prazo decadencial de noventa dias,por assim entender:
+"Com efeito, a decadência dos vícios aparentes é flagrante no caso dosautos, bastando-se, para o seu reconhecimento, a observância das alegaçõesautorais quanto aos supostos vícios construtivos nas residências dos Recorridos -quais sejam, (i) deformidade das paredes; (ii) incompletude do revestimentocerâmico; (iii) imperfeições na instalação das esquadrias; (iv) pintura externadivergente daquela prevista no memorial; (v) registro localizado sobre a laje; (vi)quadro de distribuição de energia instalado na altura de 0,98 metros do chão; (vii)ausência de abrigo externo para gás - para que se constate que as hipotéticasimperfeições são, quando muito, vícios aparentes e, nesta esteira, restam fulminadospelo prazo do art. 26, II e § 1º do Código de Defesa do Consumidor (..)" (fl. 1.198, e-STJ).
+Aduzque que não houve perda do objeto em razão da prolação de sentença, pois,"se a preliminar em questão poderia ser devolvida para reapreciação deste eg. Tribunal em sede de preliminar de apelação, a toda evidência, a mesma lógica também se aplica ao presente recurso" (fl. 1.199, e-STJ).
+Sustenta a incidência do prazo prescricional trienal, especialmente quanto à indenização por danos morais, visto que "o acórdão embargado considerou ser aplicável o prazo prescricional atinente à reparação pelos supostos vícios ocultos, ainda queos Recorridos tenham pleiteado, efetivamente, por reparação civil" (fl. 1.201, e-STJ).
+Sem contrarrazões (fl. 555, e-STJ).
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+O argumento de que o acórdão atacado teria incorrido em negativa de prestação jurisdicional é improcedente.
+De fato, o Tribunal de origem indicou adequadamente os motivos que lhe formaram o convencimento, analisando de forma clara, precisa e completa as questões relevantes do processo e solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese, como se vê às fls. 1.251-1.252, e-STJ.
+Não há falar, portanto, em prestação jurisdicional lacunosa ou deficitária apenas pelo fato de o acórdão recorrido ter decidido em sentido contrário à pretensão do recorrente.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE DANOS MATERIAIS. BENFEITORIAS EM IMÓVEL. EFEITO SUSPENSIVO. REQUISITOS. AUSÊNCIA. ART. 1.022 DO CPC/2015. VIOLAÇÃO. NÃO OCORRÊNCIA. EMBARGOS DE DECLARAÇÃO. EFEITOS MODIFICATIVOS. POSSIBILIDADE.
+1. A atribuição de efeito suspensivo a recurso especial está circunscrita à presença cumulativa dos requisitos da plausibilidade do direito invocado e no perigo de dano irreparável ou de difícil reparação, que não se fazem presentes na hipótese.
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. É possível a atribuição de efeitos infringentes aos embargos de declaração quando a alteração da decisão surgir como consequência lógica da correção da omissão, contradição ou obscuridade.
+4. Agravo interno não provido" (AgInt no AREsp 1.070.607/RN, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 25/8/2017 - grifou-se).
+Nos que diz respeito à decadência, o Tribunal de origem consignou que "Assentado expressamente que se está diante de prazoprescricional, restou refutado, por coerência lógica, a invocação do prazo decadencial doartigo 26 do CDC" (fl. 1.252, e-STJ).
+A recorrente não impugnou esse fundamento, que é capaz de, por si só, manter incólume o acórdão recorrido. Com efeito, não demonstrou, por exemplo, que a incidência de prazo prescricional não teria o condão de afastar o prazo decadencial por ela alegado. Assim, incide na espécie o óbice das Súmulas nºs 283 e 284/STF quanto ao ponto.
+Ao decidir sobre a prescrição, o TJSP afirmou que "o pedido é de indenização por danos materiais e morais decorrentes de vícios construtivos, e estes, conforme entendimento consagrado pela jurisprudência, submete-se ao prazo decenal do artigo 205 do Código Civil" (fl. 1.185, e-STJ).
+A modificação dessa premissa esbarra no óbice das Súmulas nº 7 e 83/STJ, porquanto, a Corte de origem solucionou a controvérsia à luz da jurisprudência do STJ, e do conjunto fático-probatório dos autos. A propósito:
+"PROCESSUAL CIVIL E CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO. ALEGAÇÃO GENÉRICA DE VIOLAÇÃO DO ART. 1.022 DO CPC/15. SÚMULA Nº 284/STJ. VÍCIOS DE CONSTRUÇÃO. PRAZO DECADENCIAL. AFASTAMENTO. SÚMULA Nº 568 DO STJ. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+3. A conclusão adotada pelo Tribunal Estadual está em consonância com o entendimento do Superior Tribunal de Justiça no sentido de que, sendo a pretensão de natureza indenizatória, não há que se falar em incidência de prazo decadencial, sujeitando-se a pretensão de indenização a prazo prescricional, que, no CC/02, é de dez anos.
+(..)
+5. Agravo interno não provido"(AgInt no AREsp 1.983.710/RS, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 9/5/2022, DJe de 11/5/2022).
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO COMINATÓRIA E INDENIZATÓRIA. VÍCIOS CONSTRUTIVOS. PRETENSÃO INDENIZATÓRIA. PRAZO DECADENCIAL (CDC, ART. 26). INAPLICABILIDADE. PRESCRIÇÃO DECENAL (CC/2002, ART. 205). INADIMPLEMENTO. DESCARACTERIZAÇÃO. DANOS MORAIS. AFASTAMENTO. IMPOSSIBILIDADE. REEXAME DO CONTRATO E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. DECISÃO MANTIDA.
+1. "A pretensão de natureza indenizatória do consumidor pelos prejuízos decorrente dos vícios do imóvel não se submete à incidência do prazo decadencial, mas sim do prazo prescricional" (AgInt no AREsp n. 1.711.018/PR, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 12/4/2021, DJe 12/5/2021), o que foi observado pela Corte local.
+2. Inadmissível o recurso especial quando o entendimento adotado pelo Tribunal de origem coincide com a jurisprudência do STJ (Súmula n. 83/STJ).
+(..) 6. Agravo interno a que se nega provimento" (AgInt no AREsp 1.690.627/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 28/3/2022, DJe de 31/3/2022).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS. VIOLAÇÃO AO PRINCÍPIO DA COLEGIALIDADE. DECISÃO MONOCRÁTICA. POSTERIOR RATIFICAÇÃO PELO COLEGIADO, EM JULGAMENTO DE AGRAVO INTERNO. AUSÊNCIA DE NULIDADE. PRECEDENTES. VÍCIOS DE CONSTRUÇÃO. PRAZO DECADENCIAL. INAPLICABILIDADE. PRECEDENTES. AGRAVO INTERNO IMPROVIDO.
+(..)
+2. Com efeito, a jurisprudência do Superior Tribunal de Justiça orienta que, sendo a pretensão do consumidor de natureza indenizatória, não há que se falar em incidência de prazo decadencial, sujeitando-se a pretensão de indenização por danos materiais a prazo prescricional, que no CC/2002 é de dez anos 3. Agravo interno improvido"(AgInt no AREsp n. 1.830.078/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 11/10/2021, DJe de 14/10/2021).
+Ante o exposto, nego provimento ao recurso especial.
+Não cabe, na hipótese, a majoração dos honorários sucumbenciais prevista no art. 85, § 11, do Código de Processo Civil de 2015, pois o recurso tem origem em decisão interlocutória sem a prévia fixação de honorários.
+Publique-se.
+Intimem-se.
