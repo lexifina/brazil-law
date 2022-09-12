@@ -1,0 +1,52 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por USINA RIO PARDO S.A. EM RECUPERACAO JUDICIAL, à decisão de fls. 213/214, que não conheceu do recurso.
+Sustenta a parte embargante que:
+8. Ocorre que, a r. decisão monocrática é contraditória, tendo em vista que o Agravo em Recurso Especial é tempestivo e, além do mais, sua tempestividade foi devidamente comprovada nos Autos através de tópico específico no corpo do Agravo em Recurso Especial, bem como diante dos documentos anexo ao presente Recurso (Doc. 2, Doc. 3, Doc. 4 e Doc. 4.1) (fl. 220).
+ ..
+11. Neste ínterim, analisando a r. decisão monocrática, fica evidente que esta é contraditória sobre a tempestividade, tendo em vista que a Embargante devidamente comprovou no Agravo em Recurso Especial a contagem do prazo para sua interposição, acostando nos Autos o calendário do TJ/SP comprovando os dias que não houve contagem de prazo processual (fl. 222).
+Alega ainda:
+13. Douto Ministro, depois de comprovada a tempestividade do Agravo em Recurso Especial no tópica acima, demonstraremos a contradição decorrente da não concessão de prazo para regularização processual desta Embargante.
+ ..
+15. Neste ínterim, devemos destacar que no presente caso temos 3 (três) ações conexas, vejamos:
+  Ação de Execução nº. 1121786-92.2017.8.26.0100;
+  Embargos à Execução nº. 1015785-49.2018.8.26.0100;
+  Agravo de Instrumento nº. 2056001-44.2018.8.26.0000;
+16. Referidas ações citadas acima estavam sob responsabilidades dos antigos patronos da Embargante, os quais, em várias oportunidades, alegaram o seguinte nos referidos processes citados acima. Vejamos: (fl. 224).
+ ..
+17. De mais a mais, verifica-se que os antigos patronos da Embargante sempre afirmaram nos Autos que juntaram procuração e/ou substabelecimento em nome deste patrono.
+18. Após a interposição do Recurso Especial, é possível verificar nos Autos que os antigos patronos peticionaram informando que já existe substabelecimento acostado aos autos, salientando que não é mais patrono da parte Embargante, requerendo exclusão do antigo patrono das demais publicações. (Doc. 8) 19. Diante das afirmações acima do antigo patrono que afirmou que juntou procuração e o substabelecimento em nome do patrono peticionante, presumiu-se que a Embargante estava devidamente representada.
+ ..
+21. No entanto, o Superior Tribunal de Justiça intimou o presente patrono para regularizar a representação processual e, diante dos fatos ocorridos acima, além da falta de retornos dos antigos patronos da Embargante para verificar e superar esta questão da regularização processual, não restou alternativa pelo pedido de concessão de prazo para verificar o ocorrido e regularizar a representação processual o quanto antes (fl. 224).
+ ..
+25. Ocorre que, após a falta de retorno dos antigos patronos e o pedido de concessão de prazo, os presentes patronos diligenciaram até a diretoria da Embargante, a qual se prontificou de imediato a enviar nova procuração anexa nos Embargos (Doc. 1), assinada eletronicamente.
+26. De tal modo, vale destacar que se justifica o pedido de prazo nos Autos, diante dos fatos ocorridos e descritos acima.
+27. Além do mais, é neste ponto que a r. decisão é contraditória, pois a preclusão ventilada na decisão é aquela que a parte perde o direito de realizar um ato específico, ou seja, perde um prazo estipulado para tal ato (fl. 225).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Cumpre esclarecer, pois se encontra pacificado nesta Corte, que a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada, no ato da interposição do recurso que pretende seja conhecido por este Tribunal, por documento oficial ou certidão expedida pelo Tribunal de origem, não bastando a mera menção ao feriado local nas razões recursais, tampouco a apresentação de documento não dotado de fé pública.
+Nesse sentido, AgInt no AREsp 1542214/SP, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 9/6/2020; AgInt nos EDcl no AREsp 1553768/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 27/4/2020; e AgInt nos EDcl no AREsp 1379051/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 3/10/2019.
+Ademais, no caso, o calendário juntado à fl. 153, sem o inteiro teor do respectivo ato normativo, não tem o condão de afastar a intempestividade do recurso.
+A propósito: EDcl no AgInt no AREsp 1678668/RJ, relator Ministro Moura Ribeiro, Terceira Turma, Dje de 18/03/2021; AgRg no AREsp 1716583/AM, relator Ministro João Otávio de Noronha, Quinta Turma, Dje de 17/12/2020; AgInt no AREsp 1727320/SP, relator Ministro Marco Buzzi, Quarta Turma, DJe de 16/12/2020; AgInt no AREsp 1692102/GO, relator Ministro Herman Benjamin, Segunda Turma, DJe de 14/10/2020.
+É certo que o feriado nacional de 12/10/2021 não precisa ser comprovado. Porém, o dia 11/10/2021 é supostamente feriado local, razão pela qual deveria ter sido comprovado no momento da interposição do recurso.
+No que se refere à representação processual, no caso, a parte recorrente, no momento da interposição do recurso, não procedeu à juntada da cadeia completa de procuração e/ou substabelecimento conferindo poderes ao subscritor do agravo e do recurso especial, Dr. William Matheus Martinez.
+Entretanto, o marco temporal de aplicação do Código de Processo Civil de 2015 é a intimação do decisum recorrido que, no presente caso, foi realizada após 18/3/2016, já sob a égide do novo codex processual.
+Assim, nos termos do Enunciado Administrativo n. 3 do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC", em observância ao princípio do tempus regit actum, ou seja, no presente caso aplicam-se as regras do Código de Processo Civil de 2015.
+Dessa forma, nos termos do art. 76 do Código de Processo Civil, foi intimada a parte recorrente para regularizar a representação processual, no prazo improrrogável de 5 (cinco) dias, sob pena de não conhecimento do recurso.
+Mesmo diante da intimação da parte para sanear o vício, não houve a devida regularização, uma vez que se limitou a requerer a dilação de prazo de 10 (dez) dias para comprovação da regularidade da representação, sem trazer qualquer justificativa para tanto (fl. 209).
+Não tem o condão de sanar tal vício a alegação da existência de procuração em autos principais ou conexos, pois cabe à parte providenciar a juntada de cópia ou novo instrumento aos autos onde pretende interpor o recurso. A responsabilidade pelo traslado do instrumento é da parte.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE PROCURAÇÃO. REGULARIZAÇÃO. DESCUMPRIMENTO NO PRAZO ESTABELECIDO. INÉRCIA. DOCUMENTO NOS AUTOS ORIGINAIS. ART. 1.017, § 5º, do CPC/2015. INAPLICABILIDADE. DECISÃO MANTIDA.
+1. Conforme prevê o art. 76, § 2º, I, do CPC/2015, não se conhece do recurso quando a parte recorrente, apesar de intimada, deixa de sanar vício na representação processual no prazo estabelecido.
+2. "A jurisprudência do STJ entende que a procuração juntada em outro processo conexo ou incidental, não apensado, não produz efeito em favor do recorrente neste Tribunal Superior." (AgInt no AREsp n. 1.447.689/DF, Relator Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 14/10/2019, DJe 16/10/2019).
+3. Inaplicável o art. 1.017, § 5º, do CPC/2015 no âmbito do recurso especial ou do respectivo agravo contra sua inadmissibilidade.
+Precedentes.
+4. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp 1496951/MS, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 6/5/2020.)
+No mais, veja-se que o processo deve ser uma sequência de atos ordenados, com o propósito de servir à prestação jurisdicional. Por outro lado, a prestação jurisdicional não pode durar para sempre. O processo nasce direcionado a um fim e ao seu próprio fim. Não pode ser um instrumento de perseguição infinita do direito material. Nesse sentido, a observância dos prazos constitui direito das partes, representa a garantia de segurança jurídica, bem como garante a característica temporal do processo.
+Nesse sentido, o prazo para a parte comprovar a regularidade da representação era peremptório e não houve apresentação de justa causa para a sua reabertura. Assim, tendo sido encerrado o prazo sem a prática do ato, desaparece a possibilidade de praticá-lo. É o que se chama de preclusão e, no caso, temporal. Dessa forma, para fins de regularização da representação do recurso, objeto da intimação, o instrumento de mandato trazido aos autos agora, em sede destes aclaratórios, não pode ser conhecido para os fins que se propõe, uma vez que preclusa a oportunidade. (AgInt no AREsp 1520555/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 30/6/2020; AgInt no REsp 1788526/TO, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17/6/2020; e AgInt no REsp 1830797/SE, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 18/3/2020.)
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
