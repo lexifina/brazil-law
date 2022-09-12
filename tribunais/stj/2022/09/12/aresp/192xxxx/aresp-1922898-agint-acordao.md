@@ -1,0 +1,63 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/09/2022 a 12/09/2022, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de agravo interno interposto por DAIANA DE REZENDE CRUZ E SILVA , em face da decisão de fls. 378 - 381, que não acolheu as razões do agravo em recurso especial em virtude da incidência das Súmulas 5 e 7 do STJ.
+A agravante sustenta que: "No que concerne ao percentual máximo aplicado, a Corte Superior também entendeu que a redução importaria em reexame de provas, o que é vetado pelas Súmulas 5 e 7 do STJ. Entretanto, o caso em apreço não demanda reanálise de provas ou de fatos. Conforme já suscitado no Recurso Especial, o intuito pelo qual a Agravante percorreu às instâncias superiores foi, justamente, a violação de Lei Federal, no que se refere à aplicação do artigo 81, caput do CPC/2015" (e-STJ, fl. 387).
+Repisa os fundamentos de mérito do recurso especial.
+A parte agravada apresentou impugnação (e-STJ, fl. 397 - 406 reforçando os óbices das Súmulas n. 5 e 7 do STJ.
+Requer a aplicação de multa dado o caráter protelatório do recurso.
+É o relatório.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. MULTA POR LITIGÂNCIA DE MÁ-FÉ. AFASTAMENTO. REEXAME DE PROVAS. SÚMULAS 5 E 7/STJ.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória e a interpretação de cláusulas contratuais (Súmulas 5 e 7/STJ).
+2. Agravo interno a que se nega provimento.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): As razões do agravo interno não comportam acolhimento.
+A decisão agravada ficou assim disposta:
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+EMENTA: APELAÇÃO CÍVEL - AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C INDENIZAÇÃO POR DANOS MORAIS - LITIGÂNCIA DE MÁ-FÉ - HIPÓTESES LEGAIS - CONFIGURAÇÃO - MANUTENÇÃO DA CONDENAÇÃO. - Tendo em vista que a apelante ajuizou a demanda narrando fatos inverídicos, como a inexistência da relação jurídica, a qual interfere diretamente no mérito da lide, deve a sentença ser mantida nesse tópico, nos termos do art. 80 do CPC. V.V.
+I- Mostra-se inadequado o reexame de ofício dos requisitos da justiça gratuita, sem que haja indícios da alteração da situação de carência de recursos, sendo que a revogação do benefício só pode ocorrer depois de oportunizado à parte a comprovação da miserabilidade legal por ela afirmada, não sendo cabível o afastamento da benesse em razão do reconhecimento de litigância de má-fé. A revogação do beneficio da assistência judiciária só pode ocorrer depois de oportunizado à parte a comprovação da miserabilidade legal por ela afirmada, não sendo cabível o afastamento da benesse em razão do reconhecimento da litigância de má-fé. II- Deve ser afastada a multa imposta a autora/recorrente por litigância de má-fé, quando não demonstrado ter faltado com seu dever processual de expor os fatos e alegações em juízo conforme a verdade, nem tendo deduzido pretensão infundada e/ou manifestamente contrária ao teor das provas documentais produzidas nos autos. III- Não configurada qualquer uma das hipóteses legais que caracterizam a litigância de má-fé (art.80 do CPC), não há que se falar na condenação da parte autora e de seu advogado nas penalidades previstas no art.81 do CPC/15. IV- Comparecendo à audiência de conciliação advogado munido de instrumento de mandato, com poderes especiais para negociar e transigir, a falta de comparecimento pessoal da parte, por ele representada, não configura ato que, passível de caracterização como atentatório à dignidade da Justiça, pudesse dar ensejo à aplicação da multa prevista no § 8.º do artigo 334 do CPC.
+Os embargos de declaração opostos foram acolhidos sem efeitos modificativos (fls. 277 - 280, e-STJ).
+Nas razões de recurso especial, alega a parte agravante, em suma, violação ao artigo 81 do Código de Processo Civil de 2015.
+Sustenta que: "O Relator foi enfático em cravar que a Recorrente não se pautou pela má-fé, que o ocorrido se deu por equívoco justificável, tornando a condenação por litigância de má-fé injusta"; bem como que: "Além da injustiça da condenação, o percentual cravado foi no patamar máximo atribuído pelo art. 81, caput, do CPC, 10% (dez por cento)" - e-STJ, fl. 295.
+Defende que: "Asseverou o TJMG, após a oposição de embargos de declaração para que fosse sanada a omissão quanto ao pedido de redução da multa, que "à causa foi atribuído o valor de R$20.203,06 e a multa por litigância de má-fé foi arbitrada no patamar de 10%, o que perfaz um montante de pouco mais de R$2.000,00, valor este que coaduna com a realidade dos fatos narrados nos autos e respeita a equidade e proporcionalidade. Com todas as vênias, a desproporcionalidade é flagrante, posto que, segundo consta do acórdão que resolveu os embargos de declaração, a Recorrente " ..  aufere mensalmente pouco mais de R$1.200,00 e que a multa imposta perfaz um montante de R$2.000,00  .. " - e-STJ, fls. 295 - 296.
+Sopesa que: "deve ser levado em conta para a redução do percentual da multa, além da desproporção em relação aos rendimentos auferidos pela Recorrente, o fato atestado no acórdão: "logo após ter conhecimento de tal fato, a autora efetuou o pagamento da obrigação anteriormente inadimplida (doc. 60)"" - e-STJ, fl. 296.
+Apresentadas contrarrazões (e-STJ fls. 301 - 306), pugnando o não provimento do recurso.
+O recurso não foi admitido na origem, nos termos da decisão de fls. 309 - 311, e-STJ.
+Assim delimitada a controvérsia, passo a decidir.
+Destaca-se que a decisão recorrida foi publicada após a entrada em vigor da Lei 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do novo Código de Processo Civil, conforme Enunciado Administrativo 3/2016 desta Corte.
+Não assiste razão à parte agravante.
+A Corte de origem, manteve a aplicação da multa de má-fé, registrando que (e-STJ, fls. 255):
+Ora, a alteração da veracidade dos fatos se caracteriza por alegações que a parte sabe ser falsa, negando fato que existiu ou afirmando fato inexistente, tudo com o objetivo consciente de induzir o julgador em erro.
+É de ponderar que os documentos juntados com a contestação demonstram claramente que o Hospital Veterinário é parceiro da ré, visto que o contrato e o boleto demonstram a Apelada como beneficiária do serviço prestado, inclusive, tendo o seu logo nas referidas páginas.
+Ainda, no contrato de doc. 53 consta que o Instituto de Estudos Avançados em Veterinária "José Caetano Borges" está localizado na Avenida Tutunas, "Campus FAZU" (g.n), não deixando dúvida, portanto, da ligação do Hospital Veterinário com a Apelada.
+Dessa forma, tendo em vista que a Apelante ajuizou a demanda em curso, narrando fatos inverídicos, como a inexistência de relação jurídica, os quais interferem diretamente no mérito da lide, deve a sentença ser mantida nesse tópico, nos termos do artigo supramencionado (grifos renovados).
+Conforme se verifica, a Corte de origem, após a análise das cláusulas contratuais e demais fatos e provas levadas aos autos, concluiu pela necessidade de condenação da parte agravante em multa por litigância de má-fé, no importe de 10% sobre o valor da causa, por alterar a verdade dos fatos, influindo no mérito da demanda. Nesse contexto, a revisão da conclusão adotada na origem, para que se afaste a multa aplicada, ou para que seja reduzido o correspondente valor, é medida que encontra veto nas Súmulas 5 e 7 do STJ, por demandar necessário reexame de cláusulas contratuais, fatos e provas.
+A propósito:
+AGRAVO REGIMENTAL EM AGRAVO (ART. 544 DO CPC) - AÇÃO DE OBRIGAÇÃO DE FAZER - PRETENSÃO DE REDUÇÃO DO QUANTUM INDENIZATÓRIO - MULTA IMPOSTA POR LITIGÂNCIA DE MÁ-FÉ - IMPOSSIBILIDADE DE REVISÃO - SÚMULA N. 7/STJ. INSURGÊNCIA DA RÉ.
+1. A jurisprudência desta Corte é firme no sentido de que o valor estabelecido pelas instâncias ordinárias, a título de indenização por dano moral, pode ser revisto, no âmbito de recurso especial, apenas nas hipóteses que a condenação revele-se irrisória ou excessiva, distanciando-se dos princípios da razoabilidade e da proporcionalidade, o que não se verifica no caso concreto.
+Incidência da Súmula 7/STJ.
+2. Descabe a esta Corte Superior de Justiça apreciar as razões que levaram as instâncias ordinárias a aplicar a multa por litigância de má-fé (arts. 16, 17 e 18 do CPC), porquanto seria necessário rever o suporte fático-probatório dos autos, o que se revela inviável face a incidência do óbice da Súmula 7/STJ. Precedentes.
+3. Agravo regimental desprovido.
+(AgRg no AREsp 440.550/RJ, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 11/02/2014, DJe 18/02/2014) AGRAVO REGIMENTAL - AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS - TERCEIRA INSCRIÇÃO INDEVIDA EM ÓRGÃO DE RESTRIÇÃO AO CRÉDITO, EMBORA TENHAM SIDO PROFERIDAS EM DOIS OUTROS PROCESSOS DETERMINAÇÕES PARA O CANCELAMENTO DAS INSCRIÇÕES PELA MESMA DÍVIDA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO AGRAVO DE INSTRUMENTO. INSURGÊNCIA DA CASA BANCÁRIA.
+1. A modificação do entendimento do julgado do Tribunal de origem exige que se verifiquem os elementos configuradores da litispendência entre ações, o que demanda reexame do conjunto fático-probatório dos autos.
+Súmula 7/STJ.
+2. Descabe a esta Corte Superior de Justiça apreciar as razões que levaram as instâncias ordinárias a aplicar a multa por litigância de má-fé (arts. 16, 17 e 18 do CPC), porquanto seria necessário rever o suporte fático-probatório dos autos, o que se revela inviável face a incidência do óbice da súmula 7/STJ. Precedentes.
+3. Agravo regimental não provido.
+(AgRg no Ag 1234988/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 27/08/2013, DJe 03/09/2013)
+Em face do exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
+Conforme se depreende dos fundamentos da decisão agravada, a Corte de origem concluiu pela necessidade de aplicação de multa por litigância de má-fé, destacando, após a análise de cláusulas contratuais, fatos e provas, que a parte agravante alterou a verdade dos fatos.
+Nesse contexto, reitero que a revisão da conclusão adotada na origem, para que seja afastada a multa em análise, é medida que encontra veto nas Súmulas 5 e 7 do STJ, por demandar necessário reexame de cláusulas contratuais, fatos e provas. A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL NA PLANTA. ATRASO INJUSTIFICADO NA ENTREGA DO IMÓVEL. 1. LUCROS CESSANTES. POSSIBILIDADE. PRECEDENTES. SÚMULA 83/STJ. 2. INEXISTÊNCIA DE CASO FORTUITO OU FORÇA MAIOR. CONCLUSÃO FIRMADA COM BASE NA APRECIAÇÃO FÁTICO-PROBATÓRIA E DE CLÁUSULAS CONTRATUAIS. 3. ABUSIVIDADE DA CLÁUSULA DE TOLERÂNCIA E PRAZO FINAL DA MORA. APLICAÇÃO DO CDC AO CASO. REVISÃO. SÚMULAS 5 E 7/STJ. 4. AGRAVO IMPROVIDO.
+1. Consoante entendimento desta Corte, o atraso na entrega do imóvel enseja o pagamento de lucros cessantes, ante a impossibilidade de fruição do bem durante o tempo da mora.
+2. Afastada a ocorrência de caso fortuito ou força maior e tendo concluído o Tribunal de origem pela mora contratual da promitente vendedora, com base no exame do contexto fático-probatório dos autos, rever tal premissa atrai a incidência das Súmulas n. 5 e 7 desta Corte.
+3. Reconhecida, da mesma forma, pela Corte local a abusividade da cláusula de tolerância, tendo como base o fato de que a relação existente entre a promitente vendedora e o promitente comprador se qualifica como de consumo, com a aplicação das regras do Código de Defesa do Consumidor, e que o termo final da mora se daria com a efetiva entrega das chaves ao compromissário comprador, impossível o acolhimento da alegação no sentido da validade da referida cláusula, ou mesmo do argumento de que o final da obrigação se daria com o habite-se sem incorrer nos já citados óbices.
+4. Agravo interno improvido.
+(AgInt no REsp 1661238/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 27/06/2017, DJe 02/08/2017)
+Em face do exposto, nego provimento ao agravo interno.
+Por fim, inviável a aplicação da multa pretendida pela parte agravada, pois a mera interposição de recurso legalmente previsto não caracteriza, por si só, intuito manifestamente protelatório.
+É como voto.
