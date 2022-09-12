@@ -1,0 +1,65 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/09/2022 a 12/09/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA (Relator): Trata-se de agravo interno (e-STJ fls. 958/965) interposto por OSWALDO PACHECO DE ANDRADE contra decisão desta relatoria que conheceu em parte do agravo nos próprios autos da ora agravada e deu parcial provimento ao respectivo recurso especial para determinar o retorno dos autos à origem, para que seja sanada omissão.
+Em suas razões, o agravante sustenta a inexistência de afronta ao art. 1.022 do CPC/2015, argumentando que seria desnecessário o retorno dos autos à origem, pois o TJSC teria examinado a lide não apenas com base nas normas consumeristas, "mas também pela ilicitude da conduta da agravada ao negar a cobertura do material usado e prescrito pelos médicos. Nesse contexto, mesmo não se aplicando o Código de Defesa do Consumidor para solucionar a controvérsia, prevalece o segundo fundamento do acórdão recorrido - descumprimento de obrigação contratual" (e-STJ fl. 962).
+Ao final, pede a reconsideração da decisão monocrática ou sua apreciação pelo Colegiado.
+A parte agravada, intimada, apresentou impugnação (e-STJ fls. 968/971 e 973/989).
+É o relatório.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. CONTRATOS. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO DO ACÓRDÃO RECORRIDO. TEMA RELEVANTE. DEVOLUÇÃO À ORIGEM. DECISÃO MANTIDA.
+1. Deixando a Corte local de se manifestar sobre questão relevante apontada em embargos de declaração, tem-se por configurada a violação do art. 1.022 do CPC/2015, devendo o recurso especial ser provido para anular o acórdão, com determinação de retorno dos autos à origem, para que seja suprido o vício.
+2. Agravo interno a que se nega provimento.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA (Relator): A insurgência não merece ser acolhida.
+O agravante não trouxe nenhum argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (e-STJ fls. 945/949):
+Trata-se de agravo nos próprios autos interposto pela FUNDAÇÃO CODESC DE SEGURIDADE SOCIAL contra decisão que negou seguimento ao recurso especial, sob fundamento de incidência da Súmula n. 7 do STJ.
+O acórdão recorrido apresenta a seguinte ementa (e-STJ fl. 633):
+APELAÇÕES CÍVEIS. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAL E MORAL DECORRENTE DE CONTRATO DE PLANO DE SAÚDE. JUÍZO DA ORIGEM QUE JULGA PROCEDENTES OS PEDIDOS INICIAIS. INSURGÊNCIA DE AMBAS AS PARTES. AGRAVO RETIDO DA PRIMEIRA RÉ. PRELIMINAR DE ILEGITIMIDADE PASSIVA SUSCITADA. INSUBSISTÊNCIA. DEMANDADA QUE, POR INTEGRAR A CADEIA DE CONSUMO, RESPONDE SOLIDARIAMENTE PELOS DANOS CAUSADOS AOS CONSUMIDORES. AGRAVO NÃO ACOLHIDO.
+AGRAVO RETIDO DA SEGUNDA REQUERIDA. PLEITO DE RECONHECIMENTO DE SUA ILEGITIMIDADE PASSIVA. INSUBSISTÊNCIA. DOCUMENTOS ANEXADOS AOS AUTOS QUE DEMONSTRAM A VINCULAÇÃO DA RÉ COM A PRESTAÇÃO DO SERVIÇO DE SAÚDE. APLICAÇÃO DA TEORIA DA APARÊNCIA. LEGITIMIDADE PASSIVA RECONHECIDA. PRETENDIDA DENUNCIAÇÃO DA LIDE À ENTIDADE RESPONSÁVEL PELA ADMINISTRAÇÃO DOS PLANOS DE SAÚDE. INACOLHIMENTO.
+AUSÊNCIA DE DEMONSTRAÇÃO DE QUE A PRETENSA DENUNCIADA ESTARIA OBRIGADA A INDENIZAR A RECORRENTE EM AÇÃO REGRESSIVA. RECONHECIMENTO, OUTROSSIM, DA RELAÇÃO DE CONSUMO. APLICAÇÃO DO ART. 88 DO CÓDIGO DE DEFESA DO CONSUMIDOR. ALEGADA INAPLICABILIDADE DO CÓDIGO DE DEFESA DO CONSUMIDOR. INSUBSISTÊNCIA. CAUSA DE PEDIR QUE NÃO VERSA SOBRE QUESTÃO PREVIDENCIÁRIA, MAS SOBRE PLANO DE SAÚDE. INCIDÊNCIA DA LEGISLAÇÃO CONSUMERISTA AO CASO CONCRETO.
+MÉRITO. INVOCADA NULIDADE DA SENTENÇA POR AUSÊNCIA DE ANÁLISE DAS TESES APRESENTADAS EM CONTESTAÇÃO. REJEIÇÃO. MAGISTRADA QUE NÃO ESTÁ OBRIGADA A APRECIAR TODAS AS TESES INVOCADAS PELAS PARTES. SENTENÇA QUE APRESENTA FUNDAMENTOS SUFICIENTES A REFUTAR OS ARGUMENTOS TRAZIDOS PELA DEMANDADA. DEFENDIDA AUSÊNCIA DE ABUSIVIDADE NA RECUSA DE COBERTURA DA PRÓTESE IMPORTADA. REJEIÇÃO. DEMANDANTE QUE POSSUI INDICAÇÃO MÉDICA PARA CIRURGIA CARDÍACA COM COLOCAÇÃO DE PRÓTESE. ALEGAÇÃO DE AUSÊNCIA DE OBRIGAÇÃO DE COBERTURA DE PRÓTESE IMPORTADA. INSUBSISTÊNCIA DO ARGUMENTO. CONTRATO QUE PREVÊ EXPRESSAMENTE A PRESTAÇÃO DE SERVIÇO DO ATO CIRÚRGICO COM COLOCAÇÃO DE PRÓTESE. AUSÊNCIA DE QUALQUER LIMITAÇÃO AO TIPO DE PRÓTESE. IMPOSSIBILIDADE DE EXCLUSÃO DA COBERTURA. NEGATIVA INDEVIDA. OBRIGAÇÃO DE RESSARCIMENTO. SENTENÇA MANTIDA.
+DANO MORAL. CASO CONCRETO NO QUAL O AUTOR TEVE QUE CONTRAIR EMPRÉSTIMOS PARA QUITAR A PRÓTESE, CUJA COBERTURA FOI RECUSADA PELAS REQUERIDAS. DANO MORAL EVIDENCIADO. PRECEDENTES DESTA CORTE. QUANTUM INDENIZATÓRIO. ALMEJADA A REDUÇÃO DO MONTANTE FIXADO NA SENTENÇA PELAS RÉS E, MAJORAÇÃO, PELO AUTOR. CONDENAÇÃO QUE DEVE POSSUIR CARÁTER PEDAGÓGICO E COMPENSATÓRIO. VALORAÇÃO IMPOSTA NA ORIGEM QUE SE MOSTRA ADEQUADA ÀS CIRCUNSTÂNCIAS DOS AUTOS E AO PRECEDENTE DESTE TRIBUNAL. MODIFICAÇÃO INDEVIDA. CORREÇÃO MONETÁRIA EXIGÍVEL A CONTAR DO ARBITRAMENTO. JUROS MORATÓRIOS DEVIDOS A CONTAR DA CITAÇÃO. SENTENÇA MANTIDA.
+HONORÁRIOS SUCUMBENCIAIS. PEDIDO DE MAJORAÇÃO FORMULADO PELO AUTOR. REJEIÇÃO. PECULIARIDADES DOS AUTOS QUE ATENDERAM AO COMANDO DO ARTIGO 20, §3º, DO CÓDIGO DE PROCESSO CIVIL DE 1973, VIGENTE À ÉPOCA. ELEVAÇÃO DESCABIDA.
+AGRAVOS RETIDOS DAS REQUERIDAS CONHECIDOS DESPROVIDOS. APELOS DAS PARTES CONHECIDOS E ACOLHIDOS.
+Os embargos de declaração foram rejeitados (e-STJ fls. 690/695).
+Sobreveio o recurso especial (e-STJ fls. 712/733), fundamentado no art. 105, III, "a", da CF, no qual a parte recorrente indicou inobservância do art. 3º do CDC, argumentando, em síntese, que, havendo plano de autogestão, não seria aplicável o CDC para reger a hipótese.
+Sustentou que haveria afronta aos arts. 186 do CC/2002 e 485, VI, do CPC/2015, pois teria comprovado sua ilegitimidade passiva para responder pelo pleito autoral, além de ser necessária a denunciação da lide, de modo que deve ser anulado o acórdão impugnado e reaberta a fase instrutória.
+Apontou ainda violação dos arts. 489 e 1.022, II, do CPC/2015, por omissão do acórdão recorrido.
+No agravo (e-STJ fls. 854/877), afirma a presença dos requisitos de admissibilidade do recurso especial.
+É o relatório.
+Decido.
+Da análise dos autos, verifica-se que, de fato, ocorreu afronta ao art. 1.022 do CPC/2015.
+O Tribunal de origem entendeu que era aplicável o Código de Defesa do Consumidor para reger a relação jurídica travada entre as partes, pois o contrato seria de plano de saúde (e-STJ fl. 640).
+Ocorre que, na petição do seu apelo, a parte ré, ora recorrente, expressamente alegou que o CDC não teria incidência, ante a natureza de autogestão do plano de saúde (e-STJ fls. 365/367).
+Esse argumento foi reiterado nos embargos de declaração opostos ao acórdão recorrido (e-STJ fls. 662/663).
+No entanto, o Tribunal de origem não examinou o referido tema, mesmo diante da oposição dos aclaratórios, os quais foram rejeitados sob o fundamento de inexistência dos vícios previstos no art. 1.022 do CPC/2015 (e-STJ fls. 690/695).
+Desse modo, ante o vício da decisão recorrida e nos termos do pedido constante do recurso especial, impõe-se o provimento parcial do recurso, a fim de anular o acórdão recorrido, para que o Tribunal a quo se pronuncie sobre a questão, sanando, assim, o vício apontado.
+A propósito:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS CONFIGURADOS.
+1. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+2. Embargos de declaração acolhido, com efeitos infringentes, para conhecer do agravo para dar parcial provimento ao recurso especial, no sentido de anular o julgamento dos embargos declaratórios realizados pelo Tribunal de origem e determinar o retorno dos autos para novo julgamento dos declaratórios, com o devido enfrentamento da questão omissa.
+(EDcl no AREsp 1.600.412/SP, Relator Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 18/8/2020, DJe 27/8/2020.)
+Ainda nesse sentido, as seguintes decisões monocráticas: AREsp 1.731.840/DF, Relatora Ministra MARIA ISABEL GALLOTTI, publicada em 8/3/2021, AREsp 1.653.325/SP, Relator Ministro RAUL ARAÚJO, publicada em 2/3/2021, e AREsp n. 1.761.972/RS, Relator Ministro LUIS FELIPE SALOMÃO, publicada em 18/2/2021.
+Ressalte-se que essa alegação poderia justificar o provimento do apelo da ora recorrente, uma vez que, segundo a orientação desta Corte Superior, o Código de Defesa do Consumidor é inaplicável para reger os planos de saúde organizados no formato de autogestão, sendo que o Tribunal de origem não indicou nenhum distinguishing que pudesse justificar excepcionalmente essa incidência. Confira-se:
+RECURSO ESPECIAL. ASSISTÊNCIA PRIVADA À SAÚDE. PLANOS DE SAÚDE DE AUTOGESTÃO. FORMA PECULIAR DE CONSTITUIÇÃO E ADMINISTRAÇÃO. PRODUTO NÃO OFERECIDO AO MERCADO DE CONSUMO. INEXISTÊNCIA DE FINALIDADE LUCRATIVA. RELAÇÃO DE CONSUMO NÃO CONFIGURADA. NÃO INCIDÊNCIA DO CDC.
+1. A operadora de planos privados de assistência à saúde, na modalidade de autogestão, é pessoa jurídica de direito privado sem finalidades lucrativas que, vinculada ou não à entidade pública ou privada, opera plano de assistência à saúde com exclusividade para um público determinado de beneficiários.
+2. A constituição dos planos sob a modalidade de autogestão diferencia, sensivelmente, essas pessoas jurídicas quanto à administração, forma de associação, obtenção e repartição de receitas, diverso dos contratos firmados com empresas que exploram essa atividade no mercado e visam ao lucro.
+3. Não se aplica o Código de Defesa do Consumidor ao contrato de plano de saúde administrado por entidade de autogestão, por inexistência de relação de consumo.
+4. Recurso especial não provido.
+(REsp 1.285.483/PB, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 22/6/2016, DJe 16/8/2016.)
+Esse entendimento, aliás, foi sumulado com o seguinte teor: "Aplica-se o Código de Defesa do Consumidor aos contratos de plano de saúde, salvo os administrados por entidades de autogestão" (Súmula 608, Segunda Seção, julgado em 11/4/2018, DJe 17/4/2018).
+Diante do exposto, CONHEÇO em parte do agravo e DOU PROVIMENTO PARCIAL ao recurso, para anular o acórdão recorrido e determinar o retorno dos autos ao Tribunal de origem a fim de que seja analisada a questão omissa. Prejudicadas as demais alegações recursais.
+Publique-se. Intimem-se.
+Conforme explicitado na decisão agravada, o acórdão recorrido foi omisso, pois o Tribunal a quo, mesmo provocado, não se pronunciou quanto à alegação de que o plano de saúde do ora agravante seria gerido por entidade de autogestão (FUNDAÇÃO CODESC DE SEGURIDADE SOCIAL), sendo esse argumento, em tese, passível de alterar o entendimento do aresto recorrido.
+Ao contrário do que o agravante postula, a afirmação do descumprimento contratual tem como premissa a aplicação do CDC, sendo tal norma decisiva para o desfecho do feito, pois o Tribunal de origem reconheceu que "a operadora de plano de saúde faz parte da cadeia de consumo, razão pela qual responde solidariamente pelos danos causados aos consumidores" (e-STJ fl. 638).
+O TJSC também afastou os argumentos de inexistência de legitimidade passiva e de denunciação da lide promovidos pela ora agravada FUNDAÇÃO CODESC DE SEGURIDADE SOCIAL, sob o fundamento de que "o art. 88 do Código de Defesa do Consumidor, cuja aplicabilidade será analisada adiante, proíbe a denunciação da lide em demandas envolvendo relação de consumo" (e-STJ fls. 639/640).
+Ademais, segundo a Corte local, seria "evidente que a teoria da aparência deve ser aplicada ao caso em comento, segundo a qual é parte legítima para figurar no polo passivo aquele que se mostra como responsável perante o consumidor" (e-STJ fl. 639).
+Nesse contexto, sendo eventualmente afastada a incidência do CDC, o alegado descumprimento contratual, bem como a suscitada ilegitimidade passiva e o pleito de denunciação da lide devem ser apreciados a partir de outros pressupostos normativos.
+Ressalte-se, por fim, que, no acórdão recorrido, não se fez referência a dispositivo legal fora do Código de Defesa do Consumidor, o que corrobora o entendimento de que a Corte de origem apreciou a lide com base somente nas normas consumeristas.
+Portanto, o recurso especial deve ser provido parcialmente, a fim de os autos serem devolvidos à origem para novo julgamento, suprindo-se a omissão, relacionada à natureza do plano de saúde e à incidência do CDC.
+Assim, não prosperam as alegações deduzidas, incapazes de alterar os fundamentos da decisão impugnada.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
