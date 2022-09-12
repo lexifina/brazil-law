@@ -1,0 +1,68 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/09/2022 a 12/09/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno manejado por SOFIA APARECIDA PARENTE DIAScontra decisão de minha relatoria, fls. 332/337, que negou provimento aoagravo em recurso especial pelos seguintes fundamentos: (I) ausência de negativa de prestação jurisdicional e (II) "Em relação ao juros de mora, o acórdão regional não destoou da jurisprudência desta Corte, que firmou entendimento no sentido de que, em se tratando de débitos relativos a benefícios previdenciários, os juros de mora incidem a partir da citação válida" (Súmula 204 do STJ).
+Em suas razões, a parte agravante sustenta que "a V. decisão agravada - assim como o V. Acórdão "a quo"- não observou cuidar-se de discussão em execução de AÇÃO MONITÓRIA, cuja obrigação de pagar já era líquida e certa ANTES de seu aforamento" (fl. 342).
+Aduz que "A hipótese diverge das ações tipicamente previdenciárias, com pedidos geralmente voltados ao reconhecimento do direito a determinado benefício, o que justifica a fluência dos juros somente a partir da citação" (fl. 342).
+Alega que "Não é essa a situação dos autos, em que a concessão do benefício se deu na própria via administrativa. Nessaoportunidade, a autarquia assumiu-se devedora das prestações em atraso, porém, deixou de satisfazê-las, obrigando a segurada-credora ao ajuizamento da ação monitória" (fls. 342/343).
+Devidamente intimado, o INSS não apresentou impugnação, conforme certidão de fl. 349.
+É o relatório.
+EMENTA
+PREVIDENCIÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AFRONTA AOART. 1.022, I e II, do CPC. INEXISTÊNCIA. JUROS DE MORA. SÚMULA 204/STJ.
+1. Não se vislumbra na hipótese vertente que o v. acórdão recorrido padeçade qualquer dos vícios descritos no art. 1.022, II, do CPC/2015. Comefeito, o órgão julgador apreciou, com coerência, clareza e devidafundamentação, as teses suscitadas pelo jurisdicionado. A propósito,observa-se que o Colegiado a quo se manifestou expressamente acerca dostemas necessários à integral solução da lide, não sendo legítimo confundirfundamentação deficiente com a sucinta, porém suficiente,mormente quando contrária aos interesses da parte.
+2. Em se tratando de débitos relativos a benefícios previdenciários, os juros de moraincidema partir da citação válida (Súmula 204 do STJ).
+3. Agravo interno a que se nega provimento.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): A irresignação não merece acolhimento, tendo em conta que a parte agravante não logrou desenvolver argumentação apta a desconstituir os fundamentos adotados pela decisão recorrida.
+Consoante afirmado na decisão impugnada, não há falar em omissão no acórdão recorrido. A propósito, cite-se o seguinte trecho do voto proferido pelo Tribunal de origem (fl. 253/256):
+No caso concreto, trata-se de execução de ação monitória na qual se objetiva a cobrança de valores em atraso decorrentes da concessão do beneficio de aposentadoria por tempo de contribuição deferido em 15/12/2000 e com data de inicio de beneficio em 10/10/1992.
+O exequente pugna pela incidência dos juros de mora desde a data do deferimento administrativo do beneficio. Por sua vez, a autarquia previdenciária sustenta ser devido os juros moratórios desde a citação.
+A demora injustificada pelo INSS, em liberar o pagamento dos valores em atraso configura conduta omissiva. Outrossim, o artigo 41, § 6º., da Lei n. 8.213/91, vigente à época dos fatos, atualmente revogado pela Lei ri. 11.430/2006, concedia à autoridade administrativa o prazo de 45 dias para efetuar o pagamento da primeira renda mensal do beneficio, após a apresentação pelo segurado da documentação necessária.
+(..).
+Assim considerando, faz jus o autor ao recebimento dos atrasados com correção monetária e juros de mora.
+Quanto aos juros de mora, esta Turma já firmou posicionamento no sentido de que devem ser fixados em 0,5% (meio por cento) ao mês, a partir da citação, por força dos artigos 1062 do Código Civil de 1916 e 219 do Código de Processo Civil, até a vigência do novo Código Civil (11/01/2003), quando tal percentual é elevado para 1% (um por cento) ao mês, por força dos artigos 406
+Como visto, não se vislumbra na hipótese vertente que o v. acórdão recorrido padeça dequalquer dos vícios descritos no art. 1.022, I e II, do CPC/2015. Com efeito,o órgão julgador apreciou, com coerência, clareza e devida fundamentação,as teses suscitadas pelo jurisdicionado. A propósito, observa-se que oColegiado a quo se manifestou expressamente acerca dos temas necessários àintegral solução da lide, não sendo legítimo confundir fundamentaçãodeficiente com a sucinta, porém suficiente, mormente quandocontrária aos interesses da parte.
+O julgado abordou as questões apresentadas pelas partes de forma eficaz afim de formar e demonstrar seu convencimento, elucidando as suas razões dedecidir de maneira clara e transparente, não se vislumbrando a alegadaviolação legal.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. AÇÃO DE REPARAÇÃODE DANOS. JUROS DE MORA. TERMO INICIAL. RESPONSABILIDADECONTRATUAL. DATADA CITAÇÃO
+1. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal deorigem, de forma suficientemente ampla, fundamentada e sem omissões,obscuridades ou contradições, devem ser afastadas as alegadas ofensas aoartigo 1.022 do Código de Processo Civil de 2015.
+2. O Superior Tribunal de Justiça firmou orientação no sentido de que otermo inicial dos juros de mora, nas indenizações pordanos materiais emorais decorrentes de ilícito contratual, é a data da citação.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1364146/MG, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTATURMA, julgado em 05/09/2019, DJe 19/09/2019).
+Registre-se que o mero inconformismo da parte não autoriza a reabertura doexame de matérias já apreciadas e julgadas, ou a introdução de questãonova, conforme já se manifestou este Superior Tribunal:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADOADMINISTRATIVO 3/STJ. UTILIZAÇÃO DE ÁGUA SUBTERRÂNEA PROVENIENTE DE POÇOARTESIANO PARA CONSUMO HUMANO. LOCAL ABASTECIDO PELA REDE PÚBLICA.NECESSIDADE DE OUTORGA. QUESTÃO DECIDIDA PELO TRIBUNAL DE ORIGEM MEDIANTEANÁLISE DE LEGISLAÇÃO LOCAL. OFENSA REFLEXA. INCIDÊNCIA, POR ANALOGIA, DASÚMULA 280/STF. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 1022 DOCPC/2015. REDISCUSSÃO DE QUESTÕES JÁ RESOLVIDAS NA DECISÃO EMBARGADA. MEROINCONFORMISMO. PRETENSÃO DE EFEITOS INFRINGENTES. IMPOSSIBILIDADE.EMBARGOS REJEITADOS.
+1 - Para que os aclaratórios, como recurso de fundamentação vinculada queé, possam prosperar, se faz necessário que o embargante demonstre, deforma clara, a ocorrência de obscuridade, contradição ou omissão em algumponto do julgado, sendo tais vícios capazes de comprometer a verdade e osfatos postos nos autos.
+2 - Eventual violação de lei federal, tal como posta pela embargante,seria reflexa, e não direta, uma vez que para o deslinde da controvérsiaseria imprescindível a interpretação do Decreto Estadual nº 23.430/74,descabendo, portanto, o exame da questão em recurso especial.
+3 - Embargos rejeitados
+(EDcI no Aglnt no AREsp 875.208/RS, Rel. MinistroMAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 13/09/2016, DJe20/09/2016).
+No mérito, como asseverado na decisão agravada, em relação aos juros de mora, reitera-se que o acórdão regional não destoou da jurisprudência desta Corte, que firmou entendimento no sentido de que, em se tratando de débitos relativos a benefícios previdenciários,são incidentes juros moratóriosa partir da citação válida (Súmula 204 do STJ).
+Em reforço, anotem-se os seguintes julgados:
+PROCESSUAL CIVIL. PENSÃO POR MORTE. COBRANÇA DAS PENSÕESINDEVIDAMENTE PAGAS À VIÚVA DE EX-SERVIDOR MUNICIPAL APÓS ELA TERCONTRAÍDO NOVAS NÚPCIAS. TERMO INICIAL DOS JUROS DE MORA E CORREÇÃOMONETÁRIA. DATA DA SENTENÇA. IMPOSSIBILIDADE DE FIXAR A INCIDÊNCIADOS CONSECTÁRIOS ANTES DO TERMO INICIAL DO PRINCIPAL.INAPLICABILIDADE DA SÚMULA N. 204/STJ. CONFIGURAÇÃO DO ATO ILÍCITO.AUSÊNCIA DE PREQUESTIONAMENTO. SUMULAS N. 282 E 356 DO STF. REEXAME
+DOS ELEMENTOS FÁTICO-PROBATÓRIOS. SÚMULA N. 7 DO STJ.
+I - Na origem, trata-se de ação de cobrança contra pensionista queteria informado estado civil de viúva, quando já contraíra novomatrimônio, o que seria causa legal para extinção do benefíciorecebido. O processo correu à revelia, e a sentença julgouprocedente o pedido em favor do IPREM.
+II - O recurso especial insurge-se contra acórdão proferido peloTribunal de Justiça do Estado de São Paulo, que manteve a sentençano tocante aos juros e a reformou em favor do IPREM, com relação àcorreção monetária.
+III - O Superior Tribunal de Justiça possui entendimento pacífico,cristalizado na Súmula n. 204, no sentido de que os juros de mora,nas ações relativas a benefícios previdenciários, incidem a partirda citação válida. Confiram-se: AgInt no AREsp n. 1.086.861/PE,relator Ministro Sérgio Kukina, Primeira Turma, julgado em20/2/2018, DJe 7/3/2018; AgInt no REsp n. 1.791.053/SP, relatorMinistro Mauro Campbell Marques, Segunda Turma, julgado em 4/6/2019,DJe 10/6/2019; e REsp n. 1.635.159/SP, relator Ministro FranciscoFalcão, Segunda Turma, julgado em 16/8/2018, DJe 27/8/2018.
+IV - Dessa forma, aplica-se, à espécie, o enunciado da Súmula n.83/STJ: "Não se conhece do recurso especial pela divergência, quandoa orientação do Tribunal se firmou no mesmo sentido da decisãorecorrida." Ressalte-se que o teor do referido enunciado aplica-se,inclusive, aos recursos especiais interpostos com fundamento naalínea a do permissivo constitucional.
+V - (..).
+VI - (..)
+VII - (..)
+VIII - Ademais, ainda que assim não fosse, a interpretação dedispositivos legais que exija o reexame dos elementosfático-probatórios (configuração e momento do ato ilícito e extinçãodo benefício) não é viável em recurso especial, em vista do óbicecontido no enunciado n. 7 (A pretensão de simples reexame de provanão enseja recurso especial) da Súmula do STJ.
+IX - Agravo interno improvido.
+(AgInt no REsp 1748027/SP, Rel. Min. FRANCISCO FALCÃO, DJe de 15/03/2021)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PREVIDENCIÁRIO. APOSENTADORIAPOR TEMPO DE SERVIÇO. PRECLUSÃO. INEXISTÊNCIA. EFEITOS INFRINGENTESDOS ACLARATÓRIOS. REVISÃO DE HONORÁRIOS ADVOCATÍCIOS. SÚMULA 7/STJ.JUROS MORATÓRIOS. INCIDÊNCIA DO ART. 1º-F DA LEI 9.494/97, COMREDAÇÃO DADA PELA LEI 11.960.2009. TERMO INICIAL. AGRAVO IMPROVIDO.
+1. A possibilidade de efeitos infringentes ou modificativos nosembargos de declaração não configura ofensa ao art. 535 do CPC,quando consequência necessária do reconhecimento dos víciosautorizadores da oposição do recurso.
+2. (..)
+3. O Supremo Tribunal Federal, ao examinar a nova redação dada aoart. 1º-F da Lei n. 9.494/97 pela Lei n. 11.960/2009, emsetembro/2017, julgou o RE 870.947/SE, em sede de repercussão geral,assentando o tema 810. A par da orientação jurisprudencial, tem-seque a condenação de natureza previdenciária imposta à FazendaPública deve se sujeitar à incidência do INPC, para fins de correçãomonetária, no que se refere ao período posterior à vigência da Lei11.430/2006, que incluiu o art. 41-A na Lei 8.213/91. Quanto aosjuros de mora, devem incidir segundo a remuneração oficial dacaderneta de poupança (art. 1º-F da Lei 9.494/97, com redação dadapela Lei n. 11.960/2009). Após, no âmbito desta Corte Superior,cita-se: REsp 1.495.144/RS, Rel. Ministro MAURO CAMPBELL MARQUES,PRIMEIRA SEÇÃO, julgado em 22/02/2018, DJe 20/03/2018.
+4. "O entendimento pacífico do Superior Tribunal de Justiça emrelação ao termo inicial dos juros de mora nas açõesprevidenciárias, expresso na Súmula 204/STJ, é de que os juros demora nas ações relativas a benefícios previdenciários incidem apartir da citação válida da Autarquia." (AgInt no REsp 1776083/SP,Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em21/10/2019, DJe 08/11/2019).
+5. Agravo interno improvido.
+(AgRg no REsp 1221496/SP, Rel. Min. RIBEIRO DANTAS, DJe de 23/05/2020)
+PREVIDENCIÁRIO. AGRAVO INTERNO NA DESISTÊNCIA NO RECURSO ESPECIAL.PROCESSUAL CIVIL. JUROS DE MORA. TERMO INICIAL: CITAÇÃO VÁLIDA.ORIENTAÇÃO PACIFICADA NESTA CORTE. HONORÁRIOS FIXADOS EM 15%.AUSÊNCIA DE RAZÕES QUE JUSTIFIQUEM A SUA MAJORAÇÃO. AGRAVO INTERNODO PARTICULAR A QUE SE NEGA PROVIMENTO.
+1. O entendimento pacífico do Superior Tribunal de Justiça emrelação ao termo inicial dos juros de mora nas açõesprevidenciárias, expresso na Súmula 204/STJ, é de que os juros demora nas ações relativas a benefícios previdenciários incidem apartir da citação válida da Autarquia.
+2. A orientação desta Corte Superior é de que a revisão doshonorários advocatícios fixados pelas instâncias ordinárias somenteé admissível em situações excepcionais, quando o valor revelar-semanifestamente irrisório ou excessivo, por demandar, em tese, aaveriguação e a avaliação do contexto fático-probatório dos autos.
+3. Na hipótese dos autos, a verba honorária foi arbitrada em 15%sobre o valor da condenação, não se revelando qualquerparticularidade que justifique a sua majoração.
+4. Agravo Interno do Particular a que se nega provimento.
+(AgInt no REsp 1776083/SP, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, DJe de 08/11/2019)
+ANTE O EXPOSTO, nego provimento ao agravo interno.
+É como voto.
