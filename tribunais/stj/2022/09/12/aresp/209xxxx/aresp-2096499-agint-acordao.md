@@ -1,0 +1,29 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/09/2022 a 12/09/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (RELATOR): Trata-se de agravo interno interposto pelo Estado do Tocantins desafiando decisão da Presidência da Corte, que conheceu do agravo para não conhecer do recurso especial, sob ofundamentode incidência dos óbices das Súmulas 280 e 284/STF.
+A parte agravante, em suas razões, sustenta que "não há se cogitar da aplicação dos óbices das Súmulas 284 e 280 do STF, pois os fundamentos do acórdão foram efetivamente atacados, tendo em vista que as alegações do Recurso Especial confrontam, de forma direta e específica, todos os fundamentos do acórdão exarado pelo Egrégio TJTO. Além disso, houve claro prequestionamento da matéria de direito relativamente à violação aos artigos 1º e 9º do Decreto 20.910/32, não sopesando dúvida que possuem comando normativo para amparar a tese recursal. Os dispositivos legais tidos por violados são do Decreto 20.910/32, o que revela inaplicável ao caso o enunciado da Súmula 280/STF, segundo a qual "Por ofensa a direito local não cabe recurso extraordinário"." (fls. 310/311)
+As razões do recurso não foram impugnadas.
+É o relatório.
+EMENTA
+SERVIDOR PÚBLICO. PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. POLICIAL MILITAR. REPOSIÇÃO SALARIAL. OCORRÊNCIA DE PRESCRIÇÃO. LEIS LOCAIS. EXAME. NECESSIDADE. SÚMULA 280/STF. INCIDÊNCIA.
+1. A alteração das conclusões adotadas pela Corte de origem demandaria, necessariamente, a análise de legislação local, providência vedada em recurso especial, conforme o óbice previsto na Súmula 280/STF.
+2. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (RELATOR): A irresignação não merece acolhimento, tendo em conta que a parte agravante não logrou desenvolver argumentação apta a desconstituir o fundamento principal adotado pela decisão recorrida.
+Verifica-se que o voto-condutor do acórdão, examinando a questão, concluiu, in verbis (fls. 161/164):
+(..) a Administração Pública reconhece o direito do autor/apelado, não podendo se escusar na falta de pagamento da obrigação, sob o fato de o Estado do Tocantins estar enfrentando uma crise econômica, conforme defendido pelo apelante; e, por essa razão, não pode ser utilizado como aval à não implementação de direitos adquiridos pelos servidores.
+Os limites de gastos previstos na Lei de Responsabilidade Fiscal, relacionados às despesas da Administração Pública com pessoal, por si só, não são capazes de justificar o descumprimento de direito subjetivo do apelado, mormente em se tratando de reposição salarial decorrente de lei, como no caso; uma vez que, gera presunção de reserva de valores pelo ente público, o que afasta a alegação de ofensa as regras previstas na Lei de Responsabilidade Fiscal.
+Com efeito, o ente estatal não pode se eximir de promover os reajustes anuais e as progressões funcionais, oriundos de leis editadas há muito tempo, como no caso, em que as Leis Estaduais nºs 3.174, de 2016 e 2.985, de 2015, geram presunção de reserva de valores pelo Estado; afastando a alegação de ausência de dotação orçamentária.
+(..)
+Desse modo, sendo devida a reposição salarial, e estando a administração em atraso no pagamento das parcelas relativa à data-base retroativa, não há a atração da exceção que escusaria o pagamento vindicado pelo servidor demandante. Haja vista o reconhecimento do direito do autor/apelado, concedida através da Lei Estadual nº 2.426/2016, ao pagamento da obrigação passa a ser implementado sob a natureza de decisão judicial, sendo excluídos do limite supracitado.
+Além disso, essa decisão não configura interferência no mérito administrativo, tampouco ofensa ao Princípio da Separação dos Poderes, posto que cabe ao judiciário zelar pela garantia dos direitos dos servidores públicos garantidos em lei, não observados pelo ente público. Desta forma, não se aplica ao caso as normas insculpidas nos artigos 15, 17, 19 e 20, da LC 101/00 - Lei de Responsabilidade Fiscal, restando respeitado o princípio da separação dos Poderes, contido no artigo 2º da Carta Magna.
+(..)
+Assim, não pode o Estado se eximir de promover a reposição reconhecida expressamente na legislação, em favor dos integrantes do Quadro de Militares do Estado do Tocantins, em virtude da má gestão dos recursos públicos que acabem por extrapolar eventuais limites estabelecidos na Lei de Responsabilidade Fiscal, cabendo ao gestor público adotar medidas que possibilitem a concretização dos aludidos direitos dentro das limitações que lhe são impostas.
+Noutro ponto, diferente do alegado pelo recorrente, a Medida Provisória nº 2, de 1º de fevereiro de 2019, posteriormente convertida na Lei Estadual nº 3.462, de 25 de abril de 2019, não se aplica à presente demanda, que trata de cobrança de acordo, convertido em lei, para pagamento de data- base dos militares, uma vez que referida norma diz respeito à matéria diversa.
+Ademais, ação originária foi ajuizada (02.10.2018) antes da edição da referida MP, não fazendo sentido sua aplicação à hipótese dos autos.
+Nesse contexto, ainda que se afaste a aplicação doóbiceda Súmula 284/STF, está correto o decisum ao estabelecer que a alteração das conclusões adotadas pela Corte de origem demandaria, necessariamente, a análise de legislação local, providência vedada em recurso especial, conforme o óbice previsto na Súmula 280/STF.
+Em face do exposto, nega-se provimento ao agravo interno.
+É o voto.
