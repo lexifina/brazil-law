@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo interposto por ODIR DE LOROIS BRENS FRANZOI contra a decisão que inadmitiu recurso especial. O apelo extremo, com fundamento no artigo 105, III, "a" e "c", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado de Santa Catarina, assim ementado:
+"APELAÇÃO CÍVEL. DIREITO DO CONSUMIDOR. SEGURO DE VIDA EM GRUPO. AÇÃO DE COBRANÇA. COBERTURA DE INVALIDEZ PERMANENTE POR DOENÇA. IMPROCEDÊNCIA NA ORIGEM. PRESCRIÇÃO ÂNUA RECONHECIDA. LAPSO INICIAL DA FLUÊNCIA DAPRESCRIÇÃO. CIÊNCIA INEQUÍVOCA DO SEGURADO A RESPEITO DAINCAPACIDADE. ENUNCIADO 278 DA SÚMULA DO SUPERIOR TRIBUNAL DE JUSTIÇA. DEMANDA PRESCRITA. SENTENÇAMANTIDA. RECURSO CONHECIDO E DESPROVIDO." (fl. 383, e-STJ).
+No especial, o recorrente aponta, além de divergência jurisprudencial, violação dos arts. 206, § 1º, II, do Código Civil e 373, II, do Código de Processo Civil de 2015,argumentando, em síntese, a necessidade de afastamento da prescrição, visto que é a ciência inequívoca do caráter permanente da invalidez, que determina o termo inicial do prazo prescricional e que "o ônus de produzir prova da ciência inequívoca do segurado acerca do caráter permanente da invalidez compete à seguradora" (e-STJ fl. 429).
+Aduz, ainda, que o acórdão violou as Súmulas nºs 668 e 875/STJ.
+O Presidente do tribunal de origem inadmitiu o recurso especial, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+De início, no tocante à alegada violação do artigo 373do Código de Processo Civil de 2015, verifica-se o tribunal de origem não decidiu a controvérsia à luz da tese alegada (ônus probatório),e embora opostos embargos de declaração com a finalidade de sanar omissão porventura existente, não indicou a parte recorrente a contrariedade ao art. 1.022 do CPC, motivo pelo qual, ausente o requisito do prequestionamento, incide o disposto na Súmula n.º 211 do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo."
+No mais, otribunal de origem dirimiu a controvérsia nos seguintes termos:
+"(..)
+Em se tratando de ação indenizatória de seguro de vida, é pacífico o entendimento jurisprudencial de que o termo inicial da contagem da prescrição (artigo 206,§ 1º, inciso II, do Código Civil, corroborado pelo Enunciado 101 da súmula do Superior Tribunal de Justiça) deve ser o momento em que o segurado teve ciência inequívoca da sua incapacidade laboral. Há, inclusive, Súmula do Superior Tribunal de Justiça nesse sentido (Enunciados n. 278 e 229).
+Dos autos, especialmente do relato dos fatos trazidos na exordial, dos exames e receituários médicos (evento 1, INF5), observa-se que o demandante, em meados de 2011, começou a sentir fortes dores nos ombros e pés, procurou auxílio de especialistas, foi submetido a tratamentos medicamentosos e fisioterápicos, e acabou sendo transferido de função, justamente porque os exames por ele realizados indicavam "comprometimento da função dos membros afetados"(evento 1, PET1, p. 2-3).
+Quer dizer, mesmo que o recorrente tenha continuado em tratamento médico, e tenha realizado novos exames, como alegado por ele, fato é que, desde fevereiro de 2016, sabia ser portador de "tendinopatia do supraespinhal"e apresentar "sinais de osteoartrose acremioclavicular"no ombro esquerdo (evento 1, INF5, p. 6), e, desde então tinha plena consciência que podia fazer jus à eventual recebimento de indenização securitária decorrente de doença.
+E, inexistindo nos autos qualquer outra informação a indicar a data em que o autor, efetivamente, teve ciência inequívoca das patologias e das limitações que o acometiam, as quais, por si só, já evidenciavam seu quadro clínico incapacitante, tanto que sustentou ter sido transferido de função a pedido do próprio médico da sua empregadora, toma-se a data apontada pelo indigitado exame de ultrassonografia como tal.
+Desta feita, considerando que o termo inicial da contagem da prescrição ânua deve ser, repita-se, o momento em que o segurado teve ciência inequívoca da sua invalidez, cujo marco, no caso dos autos, ocorreu, frisa-se, em 19-2-2016 (evento 1, INF5,p. 6), e que a comunicação do sinistro administrativamente somente ocorreu em 19-4-2017, consoante se infere do AR acostado com a inicial (evento 1, INF6), vê-se com facilidade que, já à época do pedido administrativo, o direito autoral encontrava-se prescrito e, por conseguinte, a presente demanda, porquanto ajuizada somente em 20-11-2017." (fl. 385, e-STJ).
+Quanto ao mérito, verifica-se que a Corte estadual acerca do prazo prescricional decidiu em conformidade com a jurisprudência deste Superior Tribunal de Justiça, atraindo a incidência da Súmula nº 568/STJ.
+Ademais, diante das premissas fáticas estabelecidas no acórdão, a reforma do aresto no tocante à ciência inequívoca da incapacidade demandaria o reexame de matéria fático-probatória, providência inviável em recurso especial, haja vista o óbice da Súmula nº 7/STJ.
+A propósito:
+"PROCESSUAL CIVIL. AGRAVO INTERNO AO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE INDENIZAÇÃO SECURITÁRIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ação de cobrança de indenização securitária.
+2. A ausência de decisão acerca dos argumentos invocados pela parte recorrente impede o conhecimento do recurso especial quanto ao ponto.
+3. A pretensão envolvendo o pagamento de indenização em contrato de seguro de vida em grupo prescreve no prazo de ano, contado a partir da ciência inequívoca da incapacidade laboral pelo segurado. Súmula 568/STJ.
+4. Alterar o decidido no acórdão impugnado, no que se refere à data da ciência inequívoca da invalidez permanente e do termo inicial do prazo de prescrição, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+5. Agravo interno não provido" (AgInt no AREsp n. 1.919.317/MS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 13/12/2021, DJe de 15/12/2021).
+"AGRAVO INTERNO NO RECURSO ESPECIAL. SEGURO DE VIDA. INVALIDEZ. PRESCRIÇÃO. TERMO INICIAL. CIÊNCIA INEQUÍVOCA. REEXAME. SÚMULAS N. 7, 83 E 278/STJ. NÃO PROVIMENTO.
+1. O termo inicial do prazo prescricional, na ação de indenização, é a data em que o segurado teve ciência inequívoca da incapacidade laboral.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+3. Agravo interno a que se nega provimento" (AgInt no REsp n. 1.683.488/MT, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 24/4/2018, DJe de 2/5/2018).
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Na origem, os honorários advocatícios foram fixados em R$ 750,00 (setecentos e cinquenta reais), os quais devem ser majorados para R$ 1.000,00 (milreais) em favor do advogado da recorrida, observada a assistência gratuita, se for o caso.
+Publique-se.
+Intimem-se.
