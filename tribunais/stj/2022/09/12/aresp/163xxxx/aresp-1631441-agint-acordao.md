@@ -1,0 +1,27 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/09/2022 a 12/09/2022, por unanimidade, dar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator):A Primeira Turma do STJ, às e-STJ fls. 1.184-1.187, negou provimento ao agravo internoda União, com base na jurisprudência desta Corte no sentido de que havendodeterminação para que os juros de mora incidam até o efetivo pagamento, como evidenciado no caso concreto,em respeito à coisa julgada, deve prevalecer o comando expresso na sentença exequenda que determinou a incidência dos juros moratórios até o efetivo e integral pagamento do precatório.
+Os embargos de declaração foram rejeitados (e-STJ fls. 1.219-1.220).
+A União interpôsrecurso extraordinárioàs e-STJ fls. 1.226-1.241, contra referido acórdão.
+Às e-STJ fls. 1.255-1.258 os autos foram encaminhados ao meu gabinete pela Vice-Presidência do STJpara a hipótese de análisede retratação, nos termos do artigo 1.040, II, do CPC/2015.
+Às e-STJ fls. 1.268-1.269 proferi despachoafirmando que"o caso sub judice não se amolda ao Tema 1.037/STF, haja vista que, na hipótese dos autos, o recurso de e-STJ fls. 1.184-1.187, discute a existência de coisa julgada que garante a apuração dos juros moratórios até o efetivo depósito da dívida, e não há controvérsia alusiva à incidência dos juros da mora no período compreendido entre a expedição do precatório ou requisição de pequeno valor e o efetivo pagamento, conforme o art. 100, § 12, da CF/1988, inserido pela Emenda Constitucional 62/2009".
+Admitido o RE da União, a Corte Suprema deu-lhe provimento (e-STJ fls. 1.289-1.300) para "determinar o retorno dos autos ao Tribunal de origem para que seja observada a jurisprudência desta Corte" sob os seguintes fundamentos:
+Observo que o Tribunal de origem deixou de aplicar o entendimento firmado por esta Corte nos autos do RE 590.751/SP - Tema 132; do RE 591.085-RG-QO/MS - Tema 147; do RE 870.947/SE - Tema 810; e do RE 1.169.289/SC - Tema 1.037, sob o fundamento da inafastabilidade da coisa julgada.
+A jurisprudência desta Suprema Corte fixou entendimento no sentido de que a aplicação da Súmula Vinculante 17 aos precatórios oriundos de sentenças já transitadas em julgado não ofende a coisa julgada.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNONO AGRAVO EM RECURSO ESPECIAL.JUÍZO DE RETRATAÇÃO. ART. 1.040, II, DO CPC/2015. SERVIDOR PÚBLICO FEDERAL. EXECUÇÃO DE SENTENÇA. SALDO REMANESCENTE. JUROS DE MORA. INCIDÊNCIA ATÉ O DEPÓSITO DA INTEGRALIDADE DA DÍVIDA. OFENSA À COISA JULGADA. NÃO OCORRÊNCIA. APLICAÇÃODO ENTENDIMENTO DO STF. TEMA 1.037 DA REPERCUSSÃO GERAL.
+1. Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo 3/2016/STJ.
+2. Autos devolvidos peloSupremo Tribunal Federal, após provimento do recurso extraordinário, pararetratação, conforme previsão do artigo 1.040, II, do CPC/2015.
+3. O Supremo Tribunal Federal, ao julgar o RE 1.169.289/SC (Tema 1.037 da Repercussão Geral), da relatoria do Ministro Marco Aurélio, fixou a seguinte tese: "O enunciado da Súmula Vinculante 17 não foi afetado pela superveniência da Emenda Constitucional 62/2009, de modo que não incidem juros de mora no período de que trata o § 5º do art. 100 da Constituição. Havendo o inadimplemento pelo ente público devedor, a fluência dos juros inicia-se após o "período de graça"".
+4. Impositiva, assim, a adequação do julgado para reconhecer a inexistência de ofensa à coisa julgada na hipótese em que a sentença exequendadeterminou a incidência dos juros moratórios até o efetivo e integral pagamento do precatório.
+5. Agravo internoda União provido para conhecer do agravoe negar provimento ao recurso especial dos autores,nos termos do artigo 1.040, II do CPC/2015.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator):Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo 3/2016/STJ.
+Com efeito, o Supremo Tribunal Federal, ao julgar o RE 1.169.289/SC (Tema 1.037 da Repercussão Geral), da relatoria do Ministro Marco Aurélio, fixou a seguinte tese: "O enunciado da Súmula Vinculante 17 não foi afetado pela superveniência da Emenda Constitucional 62/2009, de modo que não incidem juros de mora no período de que trata o § 5º do art. 100 da Constituição. Havendo o inadimplemento pelo ente público devedor, a fluência dos juros inicia-se após o "período de graça"".
+Dessa forma, impõe-se a adequação do julgado da Primeira Turma à orientação jurisprudencial acima externada, para reconhecer a inexistência de ofensa à coisa julgada na hipótese dos autos, restabelecendo-se as decisõesdas instâncias ordinárias.
+Ante o exposto, dou provimento ao agravo internoda União para conhecer do agravo e negarprovimento aorecurso especial dos autores,nos termos do artigo 1.040, II do CPC/2015.
+É como voto.
