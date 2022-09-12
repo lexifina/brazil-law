@@ -1,0 +1,497 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+2ª Câmara Cível
+Processo N.MANDADO DE SEGURANÇA CÍVEL 0722645-40.2022.8.07.0000IMPETRANTE(S)MARTA MIRANDA RODRIGUESIMPETRADO(S)SECRETARIO DE SAUDE DO DISTRITO FEDERALRelatorDesembargador ALVARO CIARLINI Acórdão Nº1620515
+
+EMENTA
+
+MANDADO DE SEGURANÇA. CONSTITUCIONAL E ADMINISTRATIVO. FORNECIMENTO DE MEDICAMENTO NÃO PADRONIZADO. LITISCONSÓRICIO PASSIVO DA UNIÃO. INOCORRÊNCIA. ÚNICO TRATAMENTO POSSÍVEL. ORDEM CONCEDIDA.
+
+1. A hipótese consiste em examinar a necessidade de formação de litisconsórcio passivo necessário com a União, para que responda pela obrigação em exame em virtude da eventual ausência de incorporação de medicamento para uso no âmbito do Sistema Único de Saúde.
+
+2. A controvérsia ora reinante neste Egrégio Tribunal de Justiça ficou limitada à afirmação segundo a qual não há registro expresso a respeito da tese sobre a incorporação do medicamento ao SUS nas razões adotadas no julgamento dos Embargos de Declaração no Recurso Extraordinário nº 855.178-SE (Tema nº 793), não sendo o caso de afirmar-se que a competência da Justiça do Distrito Federal, no presente caso, decorreria do fato de que o aludido fármaco conta com registro na Agência Nacional de Vigilância Sanitária (Anvisa), apesar de não padronizado para disponibilização pelo Sistema Único de Saúde.2.1. Faz parte da política nacional de dispensação de medicamentos, adotada pelo SUS, a elaboração de um rol padronizado de fármacos com o objetivo de ofertar esses produtos regularmente aos utentes do sistema, sendo oportuno sublinhar que, nos moldes do art. 198 da Constituição Federal, o SUS envolve os três segmentos da federação brasileira, quais sejam a União, os estados e o Distrito Federal e os municípios. 2.2. incorporação de novas tecnologias ou novos fármacos, ao SUS, deve resultar de procedimento administrativo dotado de duas fases, sendo a primeira delas a análise técnica adequada, ou seja, a devida consideração da Administração Pública a respeito das evidências “científicas” comprobatórias da eficácia, acurácia, efetividade e segurança do fármaco, produto ou procedimento em exame. A segunda consiste na avaliação econômica comparativa dos benefícios e dos custos em relação às tecnologias já incorporadas, inclusive em relação aos atendimentos domiciliar, ambulatorial ou hospitalar, nos casos em que essas providências se mostrarem admissíveis 2.3. No caso dos autos a União não é autora, ré, assistente ou opoente, e, mesmo que tivesse requerido sua participação nos autos, a simples intervenção anômala da referida entidade não tem o condão de promover o deslocamento da competência para a Justiça Federal. 2.4. encontra em curso, na Administração Pública, a construção de um modelo de participação de cada uma das três entidades federadas no tema da promoção e execução de políticas públicas na esfera da assistência farmacêutica. Pode-se observar que essas medidas estão razoavelmente em sintonia com a necessária natureza descentralizada, não só da gestão, mas também, e por isso mesmo, do próprio sistema federativo, a exigir o devido cuidado com a coordenação das atividades cooperadas desempenhadas por cada um dos entes integrantes, que se encontram orientados por critérios de financiamento específicos, 2.5. A dinâmica ora exposta  sinaliza para o fato de que a atribuição do caráter de solidariedade às eventuais obrigações impostas ao sistema deve ser analisada com merecida acuidade, pois nesse caso a intervenção do Poder Judiciário, mesmo que embasada no argumento de defesa de um específico direito fundamental, contrariaria o fundamento central do nosso sistema federativo “de cooperação”, justamente sua natureza descentralizada e autônoma, mas coordenada e legitimamente justificada pelo imperativo de obtenção da máxima eficácia de seus meios. 2.6. O “Componente Especializado da Assistência Farmacêutica”, regulamentado pela Portaria GM-MS nº 1554, de 30 de julho de 2013, tem por escopo proceder ao tratamento de doenças raras ou de baixa prevalência, bem como de doenças de alta prevalência, nas quais o paciente apresentou alterações como intolerância, refratariedade aos medicamentos de primeira linha do tratamento, ou mesmo, nos casos de agravamento do quadro clínico dos pacientes. Os medicamentos que integram esse componente em particular estão divididos em três distintos grupos, dotados de peculiares características, responsabilidades e modos de organização: a) no primeiro grupo, previsto no art. 5º da Portaria 1554, constam os medicamentos sob responsabilidade da União, justamente aqueles concernentes à (ao): a.1) maior complexidade da doença a ser tratada em ambulatório; a.2) caráter refratário relacionado à primeira e/ou à segunda linha de tratamento, ou intolerância do paciente aos respectivos fármacos; a.3) elevado impacto financeiro do medicamento; e a.4)  inclusão dos medicamentos em ações de desenvolvimento produtivo no complexo industrial da saúde. b) no segundo, estabelecido no art. 6º da Portaria 1554, os medicamentos sob responsabilidade dos Estados e Distrito Federal, ou seja, aqueles que são dotados de: b.1) complexidade menor da doença a ser tratada ambulatorialmente em relação aos elencados no primeiro grupo e b.2) refratariedade à primeira linha de tratamento ou intolerância do paciente. c) no terceiro, nos termos da previsão contida no art. 13 da mesma portaria, os medicamentos sob responsabilidade dos Municípios e do Distrito Federal, “e compõem parte do elenco do Componente Básico da Assistência Farmacêutica” e sua disponibilização se dará, em caso de demanda, “para a garantia das linhas de cuidados definidas nos Protocolos Clínicos e Diretrizes Terapêuticas” a serem definidos pelo Ministério da Saúde. 2.7. No caso de doença que deve ser enquadrada no segundo grupo, previsto no art. 5º da Portaria 1554/2013 anteriormente aludida, justifica-se a responsabilidade atribuída ao Distrito Federal, nos moldes do art. 3º do referido ato administrativo, notadamente em virtude da ausência de padronização para dispensação do fármaco pelo SUS, observada a complexidade do quadro de saúde da paciente com previsão de tratamento ambulatorial e o caráter refratário relacionado à linha de tratamento “padronizado”. 2.8. A hipótese, portanto, não é de litisconsórcio passivo necessário da União, preservando-se a competência deste órgão colegiado.
+
+3. No presente caso a pretensão ora em exame consiste na obtenção do fármaco "Cloridrato de Prasugrel", estando devidamente registrado, nas informações prestadas pelo Distrito Federal, que o agravo de saúde relatado não pode ser adequadamente controlado com as linhas de tratamento “padronizadas” pelo Sistema Único de Saúde, havendo risco de trombose arterial no segmento do stent e AVC subsequente. 3.1. O Colendo Superior Tribunal de Justiça, no julgamento do Recurso Especial nº 1.657.156-RJ, submetido ao rito dos recursos repetitivos (Tema nº 106), decidiu pela possibilidade do fornecimento pelo poder público de medicamentos não constantes em ato normativo do Sistema Único de Saúde, em caráter excepcional, desde que observadas a presença cumulativa de três requisitos: a) comprovação, por meio de laudo médico fundamentado e circunstanciado expedido por médico que assiste o paciente, da imprescindibilidade ou necessidade do medicamento, assim como da ineficácia, para o tratamento da moléstia, dos fármacos fornecidos pelo SUS; b) incapacidade financeira de arcar com o custo do medicamento prescrito e c) existência de registro do medicamento na ANVISA. 3.2. No caso em exame foi devidamente demonstrada a incapacidade financeira da impetrante para arcar com o custo do uso do medicamento indicado, a existência de registro do medicamento na ANVISA e o esgotamento terapêutico por meio da utilização dos medicamentos já incorporados ao SUS.
+
+4. Segurança concedida.
+
+ACÓRDÃO
+
+Acordam os Senhores Desembargadores do(a) 2ª Câmara Cível do Tribunal de Justiça do Distrito Federal e dos Territórios, ALVARO CIARLINI - Relator, LEONARDO ROSCOE BESSA - 1º Vogal, ARQUIBALDO CARNEIRO - 2º Vogal, JOSE FIRMO REIS SOUB - 3º Vogal, EUSTAQUIO DE CASTRO - 4º Vogal, SONÍRIA ROCHA CAMPOS D'ASSUNÇÃO - 5º Vogal, LUCIMEIRE MARIA DA SILVA - 6º Vogal, VERA ANDRIGHI - 7º Vogal e ARNOLDO CAMANHO - 8º Vogal, sob a Presidência do Senhor Desembargador JOAO EGMONT, em proferir a seguinte decisão: Segurança concedida, unânime, de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 20 de Setembro de 2022
+
+Desembargador ALVARO CIARLINIRelator
+
+RELATÓRIO
+
+Trata-se de mandado de segurança com requerimento de tutela liminar impetrado por Marta Miranda Rodrigues contra o ato atribuído ao Secretário de Saúde do Distrito Federal.
+
+Em sua causa de pedir afirma a impetrante que foi diagnosticada com “aneurisma sacular de segmento oftálmico da artéria carótida interna direita” e tem quadro de convulsão de difícil controle. Em decorrência do aludido diagnóstico, foi recomendada a utilização, de modo contínuo, dos medicamentos "ácido acetilsalicílico" (AAS) e "EFFIENT" (cloridrato de prasugrel).
+
+Narra que a aquisição do medicamento “cloridrato de prasugrel”, para que seja ministrado do modo indicado pelo médico, tem o custo mensal médio de R$ 397,10 (trezentos e noventa e sete reais e dez centavos).
+
+Verbera que a única fonte renda atual da impetrante limita-se ao benefício social de R$ 400,00 (quatrocentos reais) ao mês. Por essa razão, não tem condições financeiras que permitam custear o aludido medicamento sem prejuízo do próprio sustento. Afirma que não foi submetida ao tratamento determinado pelo médico em virtude da ausência de fornecimento gratuito do aludido fármaco pelo Sistema Público de Saúde e da impossibilidade de comprá-lo com recursos próprios.
+
+Aduz que preenche os requisitos estabelecidos no âmbito do Tema Repetitivo nº 106 do Colendo Superior Tribunal de Justiça.
+
+Requer, ao final, a concessão de tutela antecipada, com fundamento no art. 7º, inc. III, da LMS, para que seja determinada à autoridade impetrada que promova o fornecimento do fármaco “cloridrato de prasugrel” por tempo indeterminado, enquanto perdurar a necessidade do tratamento médico.
+
+Requereu também a concessão de gratuidade de justiça.
+
+Foi indeferido o requerimento de antecipação da tutela de urgência (Id. 37148847).
+
+A gratuidade de justiça foi deferida em favor da impetrante (Id. 37148847).
+
+O Distrito Federal se manifestou nos autos (Id. 37500084 a Id. 37500087), tendo informado que o fármaco indicado pelo médico que acompanha o impetrante não pode ser substituído pelo eventual análogo denominado “Plavix”, pois apresenta eficácia inferior, isso sem falar no risco de trombose arterial no “segmento do stent” e AVC subsequente.
+
+A douta Procuradoria de Justiça oficiou pela necessidade de formação de litisconsórcio passivo com a União, requerendo o subsequente deferimento da tutela antecipada recursal requerida (Id. 37598412).
+
+ É o relatório.
+
+VOTOS
+
+O Senhor Desembargador ALVARO CIARLINI - Relator
+
+A douta Procuradoria de Justiça suscitou a preliminar no sentido da indispensabilidade da formação de litisconsórcio passivo necessário com a União, na hipótese tratada nos autos, razão pela qual pugna pela remessa dos autos à Justiça Federal, nos moldes do art. 109 da Constituição.
+
+Na mesma ocasião requereu o deferimento da antecipação de tutela recursal.
+
+Destaco que, a esse respeito, a questão consiste em determinar a alegada obrigatoriedade do fornecimento, pelo Distrito Federal, do medicamento "EFFIENT" (Cloridrato de Prasugrel) que, apesar de contar com registro na ANVISA, não se encontra “padronizado” para disponibilização por meio do Sistema Único de Saúde (Id. 37133341).
+
+Pretende-se saber, portanto, se o caso deve ser, de fato, nos moldes que que fora decidido no RE nº 855178, submetido à Justiça Federal, sob a justificativa de que é atribuição do Ministério da Saúde “a incorporação, exclusão ou alteração de novos medicamentos, produtos, procedimentos, bem como constituição ou a alteração de protocolo clínico ou de diretriz terapêutica, nos moldes do art. 19-Q da Lei nº 8.080/1990”. Ou seja, pretende-se saber se a hipótese é de formação de litisconsórcio passivo necessário com a União, para que responda pela obrigação em exame em virtude da eventual ausência de incorporação do medicamento para uso no Sistema Único de Saúde.
+
+A respeito do tema convém inicialmente ressaltar que as considerações a seguir articuladas não estão estritamente relacionadas à questão de saber se a remessa dos autos para a Justiça Federal estaria, ou não, a depender da apreciação do conteúdo do julgamento dos Embargos de Declaração no Recurso Extraordinário nº 855.178-SE (Tema nº 793), ou seja, se pode haver a anotada “assimilação” do tema ora em exame nestes autos ao fato de que certos medicamentos ou procedimentos não estariam registrados na Agência Nacional de Vigilância Sanitária, o que justificaria o reconhecimento do litisconsórcio passivo necessário em relação à União, para que, também nas demandas cujo objeto disser respeito aos medicamentos não padronizados para dispensação pelo Sistema Único de Saúde, deveria haver a fixação da competência em favor da Justiça Federal.
+
+De fato, sabe-se que a controvérsia ora reinante neste Egrégio Tribunal de Justiça ficou limitada à afirmação segundo a qual não há registro expresso a respeito da tese sobre a incorporação do medicamento ao SUS nas razões adotadas no julgamento dos Embargos de Declaração no Recurso Extraordinário nº 855.178-SE (Tema nº 793) e não pretendo afirmar aqui que a competência da Justiça do Distrito Federal, no presente caso, decorreria do fato de que o aludido fármaco conta com registro na Agência Nacional de Vigilância Sanitária (Anvisa), apesar de não padronizado para disponibilização pelo Sistema Único de Saúde.
+
+Diante da análise detida dos argumentos articulados por esses dois posicionamentos, pude concluir que a tese defendida no douto voto que instaurou a divergência, em obediência ao entendimento já firmado pelo Excelso Supremo Tribunal Federal, parte da premissa de que nos casos de ausência de incorporação seria o Ministério da Saúde, por meio de sua Comissão Nacional de Incorporação de Tecnologias no SUS – CONITEC, que é o responsável pela elaboração do relatório de recomendação para a eventual incorporação dos respectivos medicamentos.
+
+Esse argumento, de fato, foi a sustentação do entendimento firmado no julgamento dos Embargos de Declaração no Recurso Extraordinário nº 855178, mas essa premissa não é consentânea, com a devida vênia, com a própria razão de ser da CONITEC.
+
+A esse respeito convém lembrar que foi engendrada, a partir do ano de 2004, no âmbito próprio do SUS, a Política Nacional de Assistência Farmacêutica, aprovada pelo Conselho Nacional de Saúde, como figura claramente na Resolução nº 338, de 6 de maio de 2004[1]. Essa política pública está fundamentada basicamente nos três pilares já anteriormente fixados na Política Nacional de Medicamentos, revelada pela Portaria nº 3916, de 30 de outubro de 1998[2], que são os seguintes: 1) garantia da segurança, eficácia e qualidade dos medicamentos; 2) promoção do seu uso racional; e 3) acesso da população aos medicamentos considerados essenciais, previstos na Relação Nacional de Medicamentos Essenciais - RENAME.
+
+É importante ressaltar que faz parte da política nacional de dispensação de medicamentos, adotada pelo SUS, a elaboração de um rol padronizado de fármacos com o objetivo de ofertar esses produtos regularmente aos utentes do sistema, sendo oportuno sublinhar que, nos moldes do art. 198 da Constituição Federal, o SUS envolve os três segmentos da federação brasileira, quais sejam a União, os estados e o Distrito Federal e os municípios.
+
+Por isso o SUS deve promover uma seleção de medicamentos ofertados pelo “mercado farmacêutico” com a utilização de critérios de razoável cientificidade, visando à segurança e eficácia no tratamento dispensado aos utentes do sistema.
+
+Essa escolha é plenamente justificável, pois, ao alterar a Lei nº 8080/1990, a Lei nº 12.401/2011 pretendeu estabelecer requisitos juridicamente aceitáveis para a própria definição da integralidade[3]. Ou seja, esse atributo será plenamente atendido no caso em que o medicamento previsto estiver em protocolo clínico ou diretriz terapêutica, ou mesmo, em sua falta, com base nas relações de medicamentos instituídas pelo gestor federal do SUS, ou ainda, de modo suplementar, com respaldo nas listas de medicamentos dos gestores estaduais ou municipais do Sistema.
+
+Para que os protocolos e as diretrizes instituídos pelo Poder Público contemplem efetivamente a melhor tecnologia e se orientem pelos critérios racionais de dispensação de medicamentos, com o intuito de conferir a máxima efetividade ao art. 196 da Constituição Federal, o art. 19-P da Lei nº 8.080/1990 previu a submissão da matéria à Comissão Nacional de Incorporação de Tecnologias - CONITEC, tema devidamente regulamentado pelo Decreto nº 7.646, de 21 de dezembro de 2011, que se encontra louvado nos seguintes critérios: a) análise das evidências “científicas” a respeito da eficácia,  efetividade e segurança do medicamento, produto ou procedimento, devidamente acatadas pelo órgão competente para o registro ou a autorização de uso; e b) avaliação econômica comparativa dos benefícios e dos custos em relação às tecnologias já incorporadas, inclusive no que se refere aos atendimentos domiciliar, ambulatorial ou hospitalar.[4]
+
+Com o objetivo de obstar a omissão ou o descompasso dos protocolos, diretrizes e listas, em relação aos produtos ofertados pelo “mercado farmacêutico”, foi fixado o prazo de 180 dias para o exame da matéria pela CONITEC, nos moldes do art. 19-R da mesma lei, contados da data em que foi protocolado o pedido pelo interessado na incorporação, exclusão e alteração de listas e protocolos clínicos e diretrizes terapêuticas (§ 1º, inciso I), a partir da instauração do procedimento administrativo aludido, com a possibilidade de prorrogação por 90 (noventa) dias corridos, desde que devidamente justificada pelas circunstâncias peculiares de cada caso.
+
+Percebe-se, então, que a incorporação de novas tecnologias ou novos fármacos, ao SUS, deve resultar de procedimento administrativo dotado de duas fases, sendo a primeira delas a análise técnica adequada, ou seja, a devida consideração da Administração Pública a respeito das evidências “científicas” comprobatórias da eficácia, acurácia, efetividade e segurança do fármaco, produto ou procedimento em exame. A segunda consiste na avaliação econômica comparativa dos benefícios e dos custos em relação às tecnologias já incorporadas, inclusive nas hipóteses de atendimentos domiciliar, ambulatorial ou hospitalar, nos casos em que essas providências se mostrarem admissíveis (art. 19-Q, § 2º, da Lei nº 8.080/1990)[5].
+
+Em síntese pode-se dizer que os preceitos da universalidade e da integralidade das ações de saúde no âmbito do SUS estão respaldados: 1) no melhor conhecimento técnico-científico disponível; 2) na proteção do cidadão por meio das ações de assistência, prevenção e promoção à saúde, por intermédio de procedimento seguro de incorporação de tecnologias pelo SUS; 3) na incorporação de tecnologias por critérios racionais e parâmetros de eficácia, eficiência e efetividade adequados às necessidades do sistema de saúde; e 4) na incorporação de tecnologias que sejam relevantes para o cidadão e para o sistema de saúde, baseada na relação custo-efetividade.
+
+Assim, com a devida vênia, a atuação do Ministério da Saúde, por meio da CONITEC, consiste em estratégia contemplada no âmbito do próprio sistema de saúde, que é formado por todos os entes federados (art. 198 da Constituição Federal) e, por essa razão, não atribui interesse específico à União a esse respeito, com a devida licença (art. 109, inc. I, da Constituição Federal).
+
+Ademais, tenho sustentado que, em verdade, a peculiaridade de não ter havido ainda a atuação da CONITEC, no caso em exame, isoladamente, não revela a existência de “interesse jurídico” da União, que possa atrair a aplicação da regra prevista no art. 109, inc. I, da Constituição Federal.
+
+Com efeito, nos estritos termos do art. 109, inc. I, da Constituição Federal, a Justiça Federal não é a competente para apreciar ações em que figurem como partes uma pessoa natural, no polo ativo, e o Distrito Federal no passivo, como é a hipótese dos autos.
+
+Assim, confira-se:
+
+Art. 109. Aos juízes federais compete processar e julgar:
+
+I - as causas em que a União, entidade autárquica ou empresa pública federal forem interessadas na condição de autoras, rés, assistentes ou oponentes, exceto as de falência, as de acidentes de trabalho e as sujeitas à Justiça Eleitoral e à Justiça do Trabalho;
+
+(omissis...) (Ressalvam-se os grifos)
+
+Há de se ponderar, ademais, o disposto no art. 5º, parágrafo único, da Lei nº 9.469/1997, que assim dispõe:
+
+Art. 5º  A União poderá intervir nas causas em que figurarem, como autoras ou rés, autarquias, fundações públicas, sociedades de economia mista e empresas públicas federais.
+
+Parágrafo único. As pessoas jurídicas de direito público poderão, nas causas cuja decisão possa ter reflexos, ainda que indiretos, de natureza econômica, intervir, independentemente da demonstração de interesse jurídico, para esclarecer questões de fato e de direito, podendo juntar documentos e memoriais reputados úteis ao exame da matéria e, se for o caso, recorrer, hipótese em que, para fins de deslocamento de competência, serão consideradas partes. (Ressalvam-se os grifos)
+
+O art. 5º, caput, da Lei nº 9.469/1997, trata de intervenção da União apenas nos processos em que forem autores, ou réus, autarquias, fundações públicas, sociedades de economia mista e empresas públicas federais.
+
+Para Leonardo José Carneiro da Cunha (Aspectos polêmicos e atuais sobre os terceiros no processo civil e assuntos afins. Coordenação Fredie Didier Jr., Tereza Alvim Wambier – São Paulo: Editora Revista dos Tribunais, 2004, p. 582), esse tipo de intervenção não consubstancia modalidade de assistência. A doutrina tem denominado essa criatividade legislativa de “intervenção anômala”.
+
+No caso dos autos a União não é autora, ré, assistente ou opoente, e, mesmo que tivesse requerido sua participação nos autos, a simples intervenção anômala da referida entidade não tem o condão de promover o deslocamento da competência para a Justiça Federal.
+
+Assim, para o intuito de examinar a eventual competência da Justiça Federal, na presente hipótese, é necessário avaliar se a situação jurídica reinante pediria a formação de litisconsórcio passivo necessário, nos moldes do art. 114 do Código de Processo Civil. A resposta, à vista dos argumentos acima articulados, deve ser negativa, com a devida licença.
+
+Outra questão que merece destaque é a natureza do Sistema Único de Saúde, ente complexo e multifacetado que conta com a participação da União, dos estados, do Distrito Federal e dos municípios. Essa peculiar estrutura sistêmica requer a necessária avaliação a respeito do espaço reservado aos respectivos partícipes como responsáveis pela promoção e recuperação da saúde dos cidadãos.
+
+Assim, é preciso também aquilatar no presente caso se é, ou não, juridicamente justificável a compreensão hoje em curso no Poder Judiciário brasileiro a respeito do reconhecimento da solidariedade das entidades que compõem nossa federação[6].
+
+Com efeito, o enfoque agora em destaque parte da preocupação consequencial (art. 20 da LINDB) com os resultados práticos da deliberação a respeito da atribuição de responsabilidade a cada um dos entes que formam a aludida federação.
+
+Por isso, em que pese a designação da saúde como um direito fundamental de segunda dimensão[7] devemos nos posicionar com a devida circunspecção a respeito do persistente problema da judicialização de suas demandas[8] e da correlata percepção de que a efetividade dessas pretensões exige também a previsão e aplicação de recursos financeiros. Isso deve nos levar à constatação inexorável de que, em decorrência dos custos financeiros desses serviços[9], é indispensável a alocação estratégica de recursos orçamentários suficientes e necessários para seu financiamento[10].
+
+Firmada essa premissa, ressalte-se que a efetividade dos direitos subjetivos constitucionais se relaciona diretamente com o grau de organização política da sociedade[11]. Por essa razão é viável a afirmação de que o direito à saúde é essencialmente positivo[12], a necessitar que, além da alocação de recursos, proceda-se também à prática de ações estatais eficientes de planejamento e de execução de programas de gestão. Assim, pode-se deduzir que existe uma correlação necessária entre 1) a possibilidade de atendimento aos direitos fundamentais, 2) a alocação e a aplicação de recursos públicos, e 3) a correta execução dessas estratégias de gestão.
+
+Essas considerações são suficientes para demonstrar a existência de uma tensão permanente entre a ocorrência de um déficit na efetividade dos direitos fundamentais[13], principalmente em virtude da "lei da escassez"[14] e as expectativas nutridas pelos sujeitos de direito, na seara constitucional, de que sejam observados os respectivos direitos fundamentais[15].
+
+Estabelecido o pressuposto de que o direito à saúde deve ser financiado e levado a efeito por ações administrativas específicas, decorrentes da elaboração e execução de políticas públicas, ou seja, diante da compreensão de que a cobertura dos custos da realização dos direitos representa, ao lado da estruturação dos meios administrativos de gestão do sistema, um autêntico critério de efetividade desses serviços à população, é viável supor, convém insistir, que o atendimento ao direito à saúde não pode prescindir da observância dos mencionados critérios de organização, financiamento e gestão dos meios que permitam o cumprimento desses programas financeiros e orçamentários[16]. Essa constatação pode ser obtida diante da mera leitura do art. 196, segunda parte, da Constituição Federal.
+
+Para levar adiante a execução de políticas públicas com a finalidade de tornar efetivos esses direitos subjetivos constitucionais devem ser aplicadas as normas previstas nos artigos 196, 197 e 198 da Constituição, que preceituam a regulamentação, fiscalização e controle do Sistema Único de Saúde. Como diretrizes centrais do sistema foram eleitas a descentralização, o atendimento integral e a participação da comunidade[17], em uma rede regionalizada e hierarquizada[18], não é demais rememorar.
+
+É importante destacar ainda que no tema da efetividade dos direitos sociais os entendimentos jurisprudenciais hoje reinantes no Superior Tribunal de Justiça e no Supremo Tribunal Federal já se consolidaram ao afirmar que as normas constitucionais garantidoras do direito à saúde têm aplicabilidade imediata, em virtude da “preponderância do direito à vida” e da fundamentalidade das pretensões à saúde[19]. Como elemento deontológico justificador dessa assertiva tem sido utilizado o princípio constitucional da dignidade da pessoa[20].
+
+Fixados esses lineamentos e 1) diante da atual percepção a respeito da fundamentalidade do direito à saúde, bem como dos desafios financeiros à consecução de sua efetividade; 2) a partir das características do Sistema Único de Saúde, notadamente tendo-se em perspectiva a previsão constitucional de sua natureza de ente descentralizado; e finalmente 3) em virtude da realidade da autonomia das entidades que formam a federação brasileira, pode-se indagar: qual deve ser a real participação de cada ente federado nas ações e serviços de saúde no sistema hierarquizado e regionalizado previsto no art. 198 da Constituição?
+
+Enfim, convém perguntar ainda: é coerentemente justificável atribuir à União, aos estados e Distrito Federal e aos municípios o lugar de devedores solidários ao cumprimento da pretensão ao recebimento de medicamentos e serviços de saúde?
+
+É necessário observar inicialmente que o sistema jurídico brasileiro instituiu a obrigação solidária passiva como um dado complexo objetivado em uma relação jurídica obrigacional. Nesse caso, a vinculação jurídica se forma com a participação de dois ou mais sujeitos passivos obrigados.
+
+Para Álvaro Villaça Azevedo[21], na constituição do vínculo obrigacional solidário devem coexistir, em uma determinada relação jurídica, mais de um credor, um ou mais devedores ou, simultaneamente, vários credores e devedores. Nesse caso, cada credor poderá exercer a pretensão de exigir e cada devedor terá o dever de prestar, integralmente, in solidum, o objeto da obrigação.
+
+Esse mesmo conceito se encontra descrito no artigo 512 do Código Civil português[22] e do artigo 264 do Código Civil[23] brasileiro.
+
+De acordo com a premissa firmada no art. 264 do Código Civil[24] pátrio a ocorrência da solidariedade pede a constituição do objeto da relação jurídica obrigacional como um todo, situação em que cada um dos credores pode exigir a totalidade da prestação, ou mesmo, cada um dos devedores poderá pagar a dívida integralmente. Por força do art. 266 do mesmo código[25] percebe-se que essa vinculação complexa requer a pluralidade de partes, a unidade da prestação, e, finalmente, a multiplicidade de vínculos.
+
+Interessa-nos a esse respeito a dimensão da unidade da prestação, justamente pela peculiaridade de que o sujeito passivo solidário, ao ser chamado para o respectivo cumprimento, responde integralmente pela obrigação.
+
+Outra peculiaridade relevante é que tanto o credor "beneficiado com o pagamento, ou algum outro modo de extinção da obrigação"[26], quanto o devedor[27], responderão, ou exigirão a prestação, em face dos demais, observadas as respectivas parcelas da obrigação recebidas ou efetivamente pagas.
+
+Transposta a questão para a obrigação assumida pelas pessoas jurídicas de direito público interno que formam a federação brasileira, é necessário assinalar que nos termos do nosso sistema constitucional os respectivos entes públicos não são apenas entidades autônomas[28], mas, em questões de saúde pública, estão inseridos em um “federalismo de cooperação”[29], nos moldes do art. 23, inc. II[30], e 241[31], ambos da Constituição da República. É inegável também que nossa realidade política federativa é dotada de uma característica peculiar, que é a descentralização[32].
+
+A posição de cada um dos entes federados, nessa ordem, deve suscitar, portanto, além das questões atinentes à distribuição de recursos públicos[33], também um lugar de destaque no tema da descentralização[34] das respectivas políticas públicas, convém insistir.
+
+O exame desse tema ganha notória importância no presente momento, pois inúmeras demandas judiciais individuais ao recebimento de serviços, produtos e insumos necessários ao tratamento da saúde dos utentes do sistema têm sido submetidas diariamente ao Poder Judiciário por intermédio de ações individuais cominatórias. Nessas ações a causa de pedir usualmente formulada consiste na alegação de que o poder público é omisso em relação à obrigação de fornecer determinado medicamento indicado a um paciente. Essa omissão, na linguagem corrente adotada nos tribunais brasileiros, vulneraria o direito universal à saúde previsto na Constituição.
+
+A despeito dos intermináveis debates sobre a incorporação de certos medicamentos ao rol de fármacos, tecnologias e insumos fornecidos pelo Sistema Único de Saúde[35], em virtude ainda da existência de tratamentos padronizados, já constantes nas políticas públicas respectivas, nos moldes dos artigos 196 e 198 da Constituição Federal e da Lei nº 8080, de 19 de setembro de 1990[36], busca-se também estabelecer se o conceito de integralidade previsto na Lei nº 12.401/2011 efetivamente abrangeria todo e qualquer tipo de tratamento ou medicamento, ainda que experimental.
+
+A partir da edição da Política Nacional de Assistência Farmacêutica, aprovada pelo Conselho Nacional de Saúde por meio de sua Resolução nº 338, de 6 de maio de 2004[37], foram ratificados os três pilares já anteriormente fixados na Política Nacional de Medicamentos inaugurada pela Portaria nº 3916, de 30 de outubro de 1998[38], quais sejam: 1) a garantia da segurança, eficácia e qualidade dos medicamentos; 2) a promoção do seu uso racional; e 3) o acesso da população aos medicamentos considerados essenciais, previstos na Relação Nacional de Medicamentos Essenciais - RENAME.
+
+É importante ressaltar que a política nacional de medicamentos em curso no Sistema Único de Saúde pressupõe a adoção de um rol padronizado de produtos, para ofertá-los regularmente aos utentes do sistema, com a devida atenção às peculiaridades do “mercado farmacêutico”, que fornece uma infinidade de fármacos com idênticos princípios ativos e com indicações terapêuticas análogas.
+
+Por isso, o sistema pretende promover a seleção dos medicamentos ofertados pelo “mercado”, procedendo às respectivas escolhas diante de critérios dotados de razoável “cientificidade”, tudo isso com o objetivo de obter segurança e eficácia no tratamento dispensado aos respectivos utentes desses serviços.
+
+A novidade prevista na Lei nº 12.401/2011[39] consiste justamente no estabelecimento de um critério juridicamente aceitável para a integralidade. Para tanto, ao alterar a Lei nº 8.080, de 19 de setembro de 1990, a nova lei editada em 2011 regulou a  assistência terapêutica e também previu a incorporação de tecnologia em saúde no âmbito do SUS, preceituando, em seu art. 19-M, em síntese, que o atendimento ao princípio da integralidade pressupõe a inserção do fármaco em protocolo clínico ou diretriz terapêutica, ou nas relações de medicamentos mantidas pelo gestor federal do SUS, ou ainda, de modo suplementar, com respaldo nas listas de medicamentos dos gestores estaduais ou municipais.
+
+Diante da novel orientação legislativa adotada no âmbito do SUS, a partir das diretrizes previstas no Decreto nº 7.646/2011, em composição com o disposto na Lei nº 12.401/2011, os conceitos de universalidade e de integralidade das ações de saúde devem estar devidamente respaldados: 1) no melhor conhecimento técnico-científico disponível, bem como 2) na proteção do cidadão nas ações de assistência, prevenção e promoção à saúde por meio de processo seguro de incorporação de tecnologias pelo sistema, ou mesmo 3) na incorporação de tecnologias por critérios racionais e parâmetros de eficácia, eficiência e efetividade adequados às necessidades de saúde; e finalmente 4) na incorporação de tecnologias que sejam relevantes para o cidadão e para o sistema de saúde, baseada na relação custo-efetividade.
+
+Além da definição dos medicamentos essenciais, a Política Nacional de Assistência também estabeleceu um conjunto de ações voltadas à promoção, proteção e recuperação da saúde. Especificamente em relação ao critério de financiamento do sistema[40], foi definida no Pacto de Gestão editado pela Portaria MS-GM nº 399, de 22 de fevereiro de 2006, a responsabilidade dos três gestores do SUS: União, Estados e Distrito Federal e Municípios.
+
+Para viabilizar a consecução desse plano de gestão foi editada a Portaria MS-GM nº 204, de 29 de janeiro de 2007[41] que normatizou, por meio da instituição do conceito de “bloco”, o modo pelo qual seria promovido o financiamento da assistência farmacêutica em três distintos “componentes”: 1) o básico, 2) o estratégico e 3) o de medicamentos de dispensação excepcional.
+
+O primeiro dos “componentes” elencados, ou seja, o denominado “Componente Básico da Assistência Farmacêutica”, tem por objetivo possibilitar a aquisição de medicamentos e insumos necessários para a atenção básica em saúde e com fundamento no elenco de referência nacional para doenças e outros agravos mais comuns, ou mesmo para atender a programas específicos [42].
+
+Esse componente básico é atualmente regulado pela Portaria MS-GM nº 1555, de 30 de julho de 2013[43], definidora dos critérios de financiamento e execução desse substrato, bem como do elenco de referência dos medicamentos e insumos complementares para a Assistência Farmacêutica na Atenção Básica em Saúde.
+
+No caso da Portaria nº 1555, que trata, como dito, do financiamento dos medicamentos do componente básico, o município, e, por correlação, também o Distrito Federal, estarão submetidos aos critérios elencados nos respectivos artigos 3º, 4º, 6º, 10 e 17[44].
+
+Em relação ao “Componente Estratégico da Assistência Farmacêutica” convém ressaltar que seu escopo é a aquisição de medicamentos para tratamento de doenças endêmicas, valendo sublinhar que o financiamento respectivo destina-se às ações de assistência dos programas estratégicos como o controle: 1) de endemias focais (Malária, Leishmaniose, Chagas etc); 2) da Tuberculose; 3) da Hanseníase; 4) de DST/AIDS; 5) do sangue e hemoderivados; 6) da alimentação e nutrição; 7) do tabagismo; 8) de doença enxerto x hospedeiro; 9) do Lúpus Eritematoso e  10) do Mieloma Múltiplo.[45]
+
+Nesses casos é atribuição da União a aquisição e o necessário fornecimento dos respectivos medicamentos aos Estados e ao Distrito Federal, a quem foram incumbidos, quando e se o caso, sua armazenagem e distribuição aos municípios.
+
+O “Componente Especializado da Assistência Farmacêutica”, regulamentado pela Portaria GM-MS nº 1554, de 30 de julho de 2013, tem por escopo proceder ao tratamento de doenças raras ou de baixa prevalência, bem como de doenças de alta prevalência, nas quais o paciente apresentou alterações como intolerância, refratariedade aos medicamentos de primeira linha do tratamento, ou mesmo, nos casos de agravamento do quadro clínico dos pacientes. Os medicamentos que integram esse componente em particular estão divididos em três distintos grupos, dotados de peculiares características, responsabilidades e modos de organização[46]:
+
+a) No primeiro grupo, previsto no art. 5º da Portaria 1554, constam os medicamentos sob responsabilidade da União, justamente aqueles concernentes à (ao): a.1) maior complexidade da doença a ser tratada em ambulatório; a.2) caráter refratário relacionado à primeira e/ou à segunda linha de tratamento, ou intolerância do paciente aos respectivos fármacos; a.3) elevado impacto financeiro do medicamento; e a.4)  inclusão dos medicamentos em ações de desenvolvimento produtivo no complexo industrial da saúde.
+
+b) No segundo, estabelecido no art. 6º da Portaria 1554, os medicamentos sob responsabilidade dos Estados e Distrito Federal, ou seja, aqueles que são dotados de: b.1) complexidade menor da doença a ser tratada ambulatorialmente em relação aos elencados no primeiro grupo e b.2) refratariedade à primeira linha de tratamento ou intolerância do paciente.
+
+c) No terceiro, nos termos da previsão contida no art. 13 da mesma portaria, os medicamentos sob responsabilidade dos Municípios e do Distrito Federal, “e compõem parte do elenco do Componente Básico da Assistência Farmacêutica” e sua disponibilização se dará, em caso de demanda, “para a garantia das linhas de cuidados definidas nos Protocolos Clínicos e Diretrizes Terapêuticas” a serem definidos pelo Ministério da Saúde[47].
+
+Verifica-se, portanto, que se encontra em curso, na Administração Pública, a construção de um modelo de participação de cada uma das três entidades federadas no tema da promoção e execução de políticas públicas na esfera da assistência farmacêutica. Pode-se observar que essas medidas estão razoavelmente em sintonia com a necessária natureza descentralizada, não só da gestão, mas também, e por isso mesmo, do próprio sistema federativo, a exigir o devido cuidado com a coordenação das atividades cooperadas desempenhadas por cada um dos entes integrantes, que se encontram orientados por critérios de financiamento específicos[48].
+
+Ora, o modelo administrativo em curso no Sistema Único de Saúde, em relação à distribuição dos ônus e responsabilidades a cada um desses entes federados, deve ser observado com especial atenção. Em verdade, a dinâmica ora exposta  sinaliza para o fato de que a atribuição do caráter de solidariedade às eventuais obrigações impostas ao sistema deve ser analisada com merecida acuidade, pois nesse caso a intervenção do Poder Judiciário, mesmo que embasada no argumento de defesa de um específico direito fundamental, contrariaria o fundamento central do nosso sistema federativo “de cooperação”, justamente sua natureza descentralizada e autônoma, mas coordenada e legitimamente justificada pelo imperativo de obtenção da máxima eficácia de seus meios.
+
+A questão pede prudência, pois, uma vez já estabelecidos esses critérios de distribuição das respectivas obrigações de cada ente federado, de modo compatível com os respectivos meios de financiamento, em harmonia com o disposto na Lei Complementar nº 141, de 13 de janeiro de 2012[49], essa circunstância está a exigir dos juízes a devida justificação, diante de nossa realidade federativa, da possibilidade de impor, ao Administrador Público, qualquer outra ordem de valoração ético-jurídica e política, fundamentada na retórica dos direitos subjetivos[50].
+
+Isso requer a devida análise da questão de saber qual a medida da legitimidade do agir judicial[51] a respeito de um dado tema para o qual a esfera política administrativa já conta com uma regra de conduta amparada em determinadas escolhas e parâmetros e se não há, a priori, motivos para discordar do critério administrativo escolhido.[52]
+
+Ao tratar das questões alusivas à tutela judicial do direito à saúde é importante que o magistrado entenda que se encontra na posição complexa e paradoxal entre dois polos diametralmente opostos. O primeiro deles consiste na própria demanda individual dos cidadãos, com o escopo de obter, do Estado, a prestação de tratamento, ou a concessão de medicamentos em virtude da ocorrência de doenças e outros agravos. O segundo em assegurar que o atendimento às pretensões individuais não ponha em risco a necessária autonomia do sistema administrativo ou a funcionalidade do próprio Sistema Único de Saúde.[53]
+
+Por isso mesmo, espera-se que a deliberação judicial que contemple o deferimento de prestações positivas ao fornecimento de medicamentos leve em conta a complexidade de nosso sistema federativo, sem olvidar do devido cuidado em relação aos esforços de estruturação já empreendidos no âmbito administrativo, que têm por objetivo a ordenação dos meios de gestão e financiamento do Sistema Único de Saúde, em estrita consonância com os artigos 196 e 198 da Constituição da República.
+
+Finalmente, a afirmação de que "o direito à saúde é direito de todos e dever do Estado" não pode, isoladamente, impor a solidariedade de obrigações como modo de vinculação dos entes que compõem a federação brasileira, em suas três esferas de poder público, sem a devida observância dos meios de estruturação e distribuição de suas autônomas atribuições, pela própria natureza do SUS, aos distintos entes federados, e pelas correlatas regras de financiamento relativamente à União, aos estados, Distrito Federal e aos municípios.
+
+De modo paradoxal, portanto, sob a justificativa de promover e dar efetividade ao direito fundamental à saúde (art. 196, primeira parte, da Constituição da República), o atual entendimento a respeito do caráter solidário da obrigação de fornecimento de medicamentos representa, concretamente, injustificável empecilho à consecução das diretrizes, igualmente constitucionais, que propugnam a instituição, dentro das distintas esferas de atribuição dos respectivos entes federados, "das políticas sociais e econômicas"  aptas a promover a "redução do risco de doença e de outros agravos", bem como "o acesso universal e igualitário às ações e serviços para sua promoção, proteção e recuperação", sem esquecer da necessidade da promoção, pelo Poder Público, "nos termos da lei", a indispensável "regulamentação, fiscalização e controle" dessas atividades[54].
+
+No presente caso a pretensão ora em exame consiste na obtenção do fármaco "Cloridrato de Prasugrel", estando devidamente registrado nas informações prestadas pelo Distrito Federal que o agravo de saúde relatado não pode ser adequadamente controlado com as linhas de tratamento “padronizadas” pelo Sistema Único de Saúde, pela inferioridade em eficácia com “risco de trombose arterial no segmento do stent e AVC subsequente” (Id. 37500084 a Id. 37500087).
+
+De acordo com os dados probatórios coligidos aos autos, ademais, trata-se de doença que deve ser enquadrada no segundo grupo, previsto no art. 5º da Portaria 1554/2013 anteriormente aludida, justificando-se, por essa razão, a responsabilidade do Distrito Federal, nos moldes do art. 3º do referido ato administrativo, notadamente em virtude da ausência de padronização para dispensação do fármaco pelo SUS, observada a complexidade do quadro de saúde da paciente com previsão de tratamento ambulatorial e o caráter refratário relacionado à linha de tratamento “padronizado”.
+
+Pelo exposto, a hipótese não é de litisconsórcio passivo necessário da União, devendo ser preservada a competência deste órgão colegiado.
+
+A tutela específica, possível no procedimento especial do mandamus, exige a demonstração, desde o início, dos elementos de prova suficientes e necessários a respeito da violação da esfera jurídica da impetrante, ilegalmente ou com abuso de poder (art. 1º da Lei nº 12.016/2009), por parte do Poder Público, seja por suas respectivas autoridades ou mesmo por indivíduos que exerçam funções delegadas.
+
+Na presente hipótese a questão em análise consiste em examinar, como já assinalado, a possibilidade de imposição, à autoridade impetrada, da obrigação de custear o fornecimento do medicamento cloridrato de prasugrel por tempo indeterminado, enquanto perdurar a necessidade do tratamento médico.
+
+Na presente hipótese, de acordo com o relato do profissional de saúde (Id. 37133338) a impetrante apresenta o seguinte quadro etiológico médico:
+
+“RELATÓRIO MÉDICO
+
+Paciente em seguimento com a neurocirurgia devido a quadro de aneurisma cerebral. Possui quadro sequelar de convulsão de difícil controle que a impossibilita de realizar atividades laborais.
+
+(...)
+
+IMPRESSÃO CLÍNICA
+
+Paciente em 2º DPO de embolização de aneurisma cerebral com stent+micromolas, em bom estado geral. Encontra-se hemodinamicamente estável; eupneica em ar ambiente. Dieta oral com aceitação adequada; eliminações fisiológicas preservadas. Sem queixas ou intercorrências no período. Realizou TC de crânio de controle pós-operatório, que evidencia adequado status pós-embolização, sem sinais de complicações. Considerando-se a boa evolução no período pós-operatório, no momento encontra-se em condições de receber alta hospitalar.”
+
+Ademais, é conveniente o registro de que o Colendo Superior Tribunal de Justiça, no julgamento do Recurso Especial nº 1.657.156-RJ, submetido ao rito dos recursos repetitivos (Tema nº 106), decidiu pela possibilidade do fornecimento, pelo poder público, de medicamentos não constantes em ato normativo do Sistema Único de Saúde, em caráter excepcional, desde que observadas a presença cumulativa de três requisitos: a) comprovação, por meio de laudo médico fundamentado e circunstanciado expedido por médico que assiste o paciente, da imprescindibilidade ou necessidade do medicamento, assim como da ineficácia, para o tratamento da moléstia, dos fármacos fornecidos pelo SUS; b) incapacidade financeira de arcar com o custo do medicamento respectivo e c) existência de registro do medicamento na ANVISA.
+
+Nesse sentido examine-se a seguinte ementa promanada do Colendo Superior Tribunal de Justiça:
+
+“ADMINISTRATIVO. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. TEMA 106. JULGAMENTO SOB O RITO DO ART. 1.036 DO CPC/2015. FORNECIMENTO DE MEDICAMENTOS NÃO CONSTANTES DOS ATOS NORMATIVOS DO SUS. POSSIBILIDADE. CARÁTER EXCEPCIONAL. REQUISITOS CUMULATIVOS PARA O FORNECIMENTO.
+
+1. Caso dos autos: A ora recorrida, conforme consta do receituário e do laudo médico (fls. 14-15, e-STJ), é portadora de glaucoma crônico bilateral (CID 440.1), necessitando fazer uso contínuo de medicamentos (colírios: azorga 5 ml, glaub 5 ml e optive 15 ml), na forma prescrita por médico em atendimento pelo Sistema Único de Saúde - SUS. A Corte de origem entendeu que foi devidamente demonstrada a necessidade da ora recorrida em receber a medicação pleiteada, bem como a ausência de condições financeiras para aquisição dos medicamentos. 2. Alegações da recorrente: Destacou-se que a assistência farmacêutica estatal apenas pode ser prestada por intermédio da entrega de medicamentos prescritos em conformidade com os Protocolos Clínicos incorporados ao SUS ou, na hipótese de inexistência de protocolo, com o fornecimento de medicamentos constantes em listas editadas pelos entes públicos.
+
+Subsidiariamente, pede que seja reconhecida a possibilidade de substituição do medicamento pleiteado por outros já padronizados e disponibilizados. 3. Tese afetada: Obrigatoriedade do poder público de fornecer medicamentos não incorporados em atos normativos do SUS (Tema 106). Trata-se, portanto, exclusivamente do fornecimento de medicamento, previsto no inciso I do art. 19-M da Lei n. 8.080/1990, não se analisando os casos de outras alternativas terapêuticas.
+
+4. TESE PARA FINS DO ART. 1.036 DO CPC/2015 A concessão dos medicamentos não incorporados em atos normativos do SUS exige a presença cumulativa dos seguintes requisitos: (i) Comprovação, por meio de laudo médico fundamentado e circunstanciado expedido por médico que assiste o paciente, da imprescindibilidade ou necessidade do medicamento, assim como da ineficácia, para o tratamento da moléstia, dos fármacos fornecidos pelo SUS; (ii) incapacidade financeira de arcar com o custo do medicamento prescrito; (iii) existência de registro na ANVISA do medicamento.
+
+5. Recurso especial do Estado do Rio de Janeiro não provido. Acórdão submetido à sistemática do art. 1.036 do CPC/2015.
+
+(REsp 1657156/RJ, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA SEÇÃO, julgado em 25/04/2018, DJe 04/05/2018) (Ressalvam-se os grifos)
+
+No caso em deslinde é necessário destacar que foi demonstrada a incapacidade financeira, pela impetrante, para arcar com o custo do medicamento indicado, a existência de registro do medicamento na ANVISA e o esgotamento terapêutico por meio do uso dos medicamentos já incorporados ao SUS.
+
+As informações prestadas pelo Distrito Federal (Id. 37500084 a Id. 37500087) indicam que o uso do medicamento em questão é o único tratamento possível, diante da inadequação terapêutica dos medicamentos fornecidos gratuitamente pelo sistema público de saúde. Por essa razão, o fármaco aludido é imprescindível ao tratamento da impetrante.
+
+Finalmente, registre-se que, a despeito das reticências deste Relator a respeito, este Egrégio Sodalício entende que o Mandado de Segurança é via jurisdicional válida para assegurar o cumprimento de política pública de saúde.
+
+Feitas essas considerações, concedo a segurança impetrada para determinar que a autoridade impetrada tome as medidas administrativas necessárias para assegurar o fornecimento, pelo Distrito Federal, à impetrante, do medicamento “Cloridrato de Prasugrel 10mg” de modo ininterrupto, nos termos da indicação médica respectiva, enquanto perdurar a necessidade do tratamento aludido, o que será objeto de avaliação médica periódica mensal.
+
+O Distrito Federal é isento do pagamento de custas. Sem honorários de advogado (art. 25 da Lei nº 12.016/2009).
+
+É como voto.
+
+[1] Ministério da Saúde. Resolução nº 338, de 6 de maio de 2004, DOU, Seção 1 n. 96, 20 de maio de 2004.
+
+[2] Ministério da Saúde. Portaria MS nº 3.916, de 30 de outubro de 1998.
+
+[3] Art. 19-N. Para os efeitos do disposto no art. 19-M, são adotadas as seguintes definições:
+
+(...)
+
+II - protocolo clínico e diretriz terapêutica: documento que estabelece critérios para o diagnóstico da doença ou do agravo à saúde; o tratamento preconizado, com os medicamentos e demais produtos apropriados, quando couber; as posologias recomendadas; os mecanismos de controle clínico; e o acompanhamento e a verificação dos resultados terapêuticos, a serem seguidos pelos gestores do SUS.”
+
+“Art. 19-O. Os protocolos clínicos e as diretrizes terapêuticas deverão estabelecer os medicamentos ou produtos necessários nas diferentes fases evolutivas da doença ou do agravo à saúde de que tratam, bem como aqueles indicados em casos de perda de eficácia e de surgimento de intolerância ou reação adversa relevante, provocadas pelo medicamento, produto ou procedimento de primeira escolha.
+
+Parágrafo único. Em qualquer caso, os medicamentos ou produtos de que trata o caput deste artigo serão aqueles avaliados quanto à sua eficácia, segurança, efetividade e custo-efetividade para as diferentes fases evolutivas da doença ou do agravo à saúde de que trata o protocolo.”
+
+“Art. 19-Q. A incorporação, a exclusão ou a alteração pelo SUS de novos medicamentos, produtos e procedimentos, bem como a constituição ou a alteração de protocolo clínico ou de diretriz terapêutica, são atribuições do Ministério da Saúde, assessorado pela Comissão Nacional de Incorporação de Tecnologias no SUS.
+
+§ 1º A Comissão Nacional de Incorporação de Tecnologias no SUS, cuja composição e regimento são definidos em regulamento, contará com a participação de 1 (um) representante indicado pelo Conselho Nacional de Saúde e de 1 (um) representante, especialista na área, indicado pelo Conselho Federal de Medicina.
+
+§ 2º O relatório da Comissão Nacional de Incorporação de Tecnologias no SUS levará em consideração, necessariamente:
+
+I - as evidências científicas sobre a eficácia, a acurácia, a efetividade e a segurança do medicamento, produto ou procedimento objeto do processo, acatadas pelo órgão competente para o registro ou a autorização de uso;
+
+II - a avaliação econômica comparativa dos benefícios e dos custos em relação às tecnologias já incorporadas, inclusive no que se refere aos atendimentos domiciliar, ambulatorial ou hospitalar, quando cabível.”
+
+1.     O art. 4º do Decreto nº 7.646/2011 assim dispõe:
+
+Art. 4º À CONITEC compete:
+
+I - emitir relatório sobre:
+
+a) a incorporação, exclusão ou alteração pelo SUS de tecnologias em saúde; e b) a constituição ou alteração de protocolos clínicos e diretrizes terapêuticas; e
+
+II - propor a atualização da Relação Nacional de Medicamentos Essenciais - RENAME nos termos do art. 25 do Decreto no 7.508, de 28 de junho de 2011.
+
+Parágrafo único. Para o cumprimento de suas competências a CONITEC poderá:
+
+I - solicitar às unidades do Ministério da Saúde:
+
+a) a elaboração de proposta de constituição ou de alteração de protocolos clínicos e diretrizes terapêuticas de interesse para o SUS;
+
+b) a realização de avaliação das solicitações de incorporação, alteração ou exclusão de tecnologias no âmbito do SUS; e
+
+c) estudos de impacto orçamentário no SUS em virtude da incorporação, exclusão ou alteração de tecnologias em saúde pelo SUS;
+
+II - solicitar à Secretaria de Ciência, Tecnologia e Insumos Estratégicos do Ministério da Saúde:
+
+a) a realização e contratação de pesquisas e estudos;
+
+b) a celebração de acordos de cooperação técnica com entidades públicas e privadas e hospitais de ensino para a realização de estudos de avaliação de tecnologias em saúde; e
+
+c) a celebração de acordos de cooperação técnica com órgãos e entidades públicas estrangeiras com atribuições afins;
+
+III - solicitar às unidades do Ministério da Saúde e às entidades a ele vinculadas informações relativas ao monitoramento de tecnologias em saúde;
+
+IV - solicitar informações à Agência Nacional de Vigilância Sanitária - ANVISA relativas ao registro, indicações, características, monitoramento de mercado e vigilância pós-comercialização de tecnologias em saúde, além de outras informações necessárias;
+
+V - solicitar informações à Câmara de Regulação do Mercado de Medicamentos - CMED, criada pela Lei no 10.742, de 6 de outubro de 2003;
+
+VI - disponibilizar informações a órgãos e entidades públicas para gestão de tecnologias em saúde, ressalvadas as hipóteses de sigilo previstas em Lei;
+
+VII - organizar repositório de informações sobre tecnologias em saúde; e
+
+VIII - constituir subcomissões técnicas no âmbito da CONITEC.”
+
+[5] Ministério da Saúde. Resolução nº 338, de 6 de maio de 2004, DOU, Seção 1 n. 96, 20 de maio de 2004.
+
+[6] A questão atual da jurisprudência do Supremo Tribunal Federal a respeito do caráter in solidum da obrigação de fornecer medicamentos, produtos, insumos e serviços de saúde aos utentes do sistema pode ser bem compreendida diante da leitura da ementa de julgado da Primeira Turma do Supremo Tribunal Federal, tendo como relator o Ministro Luiz Fux, representativa do entendimento já firmado na jurisprudência da Corte: STF, RE nº 717290 AgR/RS - RIO GRANDE DO SUL - AG. REG. NO RECURSO EXTRAORDINÁRIO - Relator  Min. LUIZ FUX  -  Primeira Turma – Publicação: DJe - 04-04-2014.
+
+Ementa
+
+EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. FORNECIMENTO DE MEDICAMENTO. DEVER DO ESTADO. SOLIDARIEDADE ENTRE OS ENTES DA FEDERAÇÃO. ACÓRDÃO EM CONFORMIDADE COM A JURISPRUDÊNCIA DESTE TRIBUNAL. 1. O fornecimento de tratamento médico adequado aos necessitados se insere no rol dos deveres do Estado e deve ser prestado de forma solidária entre os entes da federação. Precedentes: ARE 772.150/RJ, Rel. Min. Cármen Lúcia, DJe 17/10/2013, RE 716.777-AgR/RS, Rel. Min. Celso de Mello, Segunda Turma, DJ 16/5/2013, e ARE-AgR 744.223, Rel. Min. Rosa Weber, DJe 11/9/2013. 2. In casu, o acórdão originariamente recorrido assentou: “PACIENTE PORTADORA DE DOENÇA ONCOLÓGICA NEOPLASIA MALIGNA DE BAÇO PESSOA DESTITUÍDA DE RECURSOS FINANCEIROS DIREITO À VIDA E À SAÚDE NECESSIDADE IMPERIOSA DE SE PRESERVAR, POR RAZÕES DE CARÁTER ÉTICO-JURÍDICO, A INTEGRIDADE DESSE DIREITO ESSENCIAL FORNECIMENTO GRATUITO DE MEIOS INDISPENSÁVEIS AO TRATAMENTO E À PRESERVAÇÃO DA SAÚDE DE PESSOAS CARENTES DEVER CONSTITUCIONAL DO ESTADO (CF, ARTS. 5º, CAPUT, E 196) PRECEDENTES (STF). RESPONSABILIDADE SOLIDÁRIA DAS PESSOAS POLÍTICAS QUE INTEGRAM O ESTADO FEDERAL BRASILEIRO CONSEQUENTE POSSIBILIDADE DE AJUIZAMENTO DA AÇÃO CONTRA UM, ALGUNS OU TODOS OS ENTES ESTATAIS RECURSO DE AGRAVO IMPROVIDO.” 3. Agravo regimental DESPROVIDO. (Ressalvam-se os grifos)
+
+[7] SARLET, Ingo Wolfgang. A eficácia dos direitos fundamentais. 2 ed. Porto Alegre: Livraria do Advogado, 2001, p. 189.
+
+[8] CITTADINO,Gisele. Judicialização da Política, Constitucionalismo Democrático e Separação de Poderes. In: VIANNA, Luis Werneck (org.). A democracia e os três poderes no Brasil. Belo Horizonte: Editora da UFMG/IUPERJ/FAPERJ, 2002, p. 17-42.
+
+[9] HOLMES, Stephen; SUNSTEIN, Cass. The Cost of Rigths – Why Liberty depends on taxes. New York: W. W. Norton & Company, 1999, p. 128.
+
+[10] CIARLINI, Alvaro Luis de A. S. Direito à saúde – paradigmas procedimentais e substanciais da Constituição. São Paulo: Saraiva, 2013, p. 25-38.
+
+[11] HOLMES, Stephen; SUNSTEIN, Cass, ibid., p. 231.
+
+[12] DELDUQUE, Maria Célia; MARQUES, Sílvia Badim; CIARLINI, Alvaro Luis de A. S. Judicialização das Políticas de Saúde no Brasil. In: ALVARES, Sandra Mara Campos; DELDUQUE, Maria Célia; DINO NETO, Nicolau (Org.) Direito Sanitário em Perspectiva. Brasília: ESMPU, FIOCRUS, 2013, p. 209-213.
+
+[13] HOLMES, Stephen; SUNSTEIN, Cass. The Cost of Rigths – Why Liberty depends on taxes. New York: W. W. Norton & Company, 1999, p. 121. A questão da escassez é devidamente tratada por SUNSTEIN, Cass. Direitos Sociais e Econômicos? Lições da África do Sul. In: SARLET, Ingo Wolfgang. Jurisdição e Direitos Fundamentais. Vol. I, Tomo II. Porto Alegre, 2006, p. 15-28.
+
+[14] CIARLINI, Alvaro Luis de A. S. Direito à saúde – paradigmas procedimentais e substanciais da Constituição. São Paulo: Saraiva, 2013, p. 25-38.
+
+[15] Ibidem, p. 25.
+
+[16] HOLMES, Stephen; SUNSTEIN, Cass. The Cost of Rigths, op. cit., p. 226-227.
+
+[17] SCHWARTZ, Germano. Gestão Compartida Sanitária no Brasil - Possibilidade de efetivação do direito à saúde. In: SCHWARTZ, Germano (org.). A saúde sob os cuidados do direito. Passo Fundo: UFP, 2003, p. 108-162 (p. 144).
+
+[18] CIARLINI, Alvaro Luis de A. S. Direito à saúde, op. cit., p. 28.
+
+[19] Do STJ, exemplificativamente: AgReg. no AG nº 246642/RS, 1ª Turma, Rel. Min. Garcia Vieira, Publ. DJ de 16.11.99;  AgReg. no AG nº 253938/RS, 1ª Turma, Rel. Min. José Delgado, Publ. DJ de 28.02.00; RESP nº 325337/RJ, 1ª Turma, Rel Min José Delgado, Publ. DJ de 03.09.2001. Do STF, exemplificativamente: AgReg no RE nº 255627/RS, 2ª Turma, Rel. Min. Nelson Jobim, Publ. DJ de 23.02.01; RE nº 195192/RS, 2ª Turma, Rel. Min. Marco Aurélio, Publ. no DJ de 31.03.00.
+
+[20] CIARLINI, Alvaro Luis de A. S. Direito à saúde, op. cit., p. 25-38.
+
+[21] AZEVEDO, Álvaro Villaça. Teoria Geral das Obrigações. São Paulo: Atlas, 2004, p. 96.
+
+[22] Portugal. Decreto-Lei nº 47.344 de 25 de novembro de 1966.
+
+[23] Lei nº 10406, de 10 de janeiro de 2002.
+
+[24] Ibidem.
+
+[25] Ibidem.
+
+[26] ESPÍNOLA, Eduardo. Garantia e Extinção das Obrigações. Campinas: Bookseller, 2005, p. 337.
+
+[27] MIRANDA, Francisco Cavalcanti Pontes de. Tratado do Direito Privado. Tomo XIII. Campinas: Bookseller, 2000, p. 142-143.
+
+[28] ZIMMERMANN, Augusto. Teoria Geral do Federalismo Democrático. Rio de Janeiro: Lumen Juris, 1999, p. 46-48.
+
+[29] KRELL, Andreas J. Leis de Normas Gerais, regulamentação do Poder Executivo, e Cooperação Intergovernamental em tempos de reforma federativa. Belo Horizonte: Fórum, 2008, p. 126.
+
+[30] Art. 23. É competência comum da União, dos Estados, do Distrito Federal e dos Municípios:
+
+ (...)
+
+II - cuidar da saúde e assistência pública, da proteção e garantia das pessoas portadoras de deficiência;
+
+[31] "Art. 241. A União, os Estados, o Distrito Federal e os Municípios disciplinarão por meio de lei os consórcios públicos e os convênios de cooperação entre os entes federados, autorizando a gestão associada de serviços públicos, bem como a transferência total ou parcial de encargos, serviços, pessoal e bens essenciais à continuidade dos serviços transferidos."
+
+[32] Para Karl Loewenstein o “federalismo” constitui um campo de ação específico, mas reciprocamente agrupado com os “direitos individuais e as garantias fundamentais” e o “pluralismo”: “(...) los controles verticales funcionan en una línea ascendente y descendente entre la totalidad de los detentadores del poder instituido y La comunidad como tal o algunos de sus componentes. Bajo La rubrica de los “controles verticales”, se agrupan tres campos diferentes de acciones recíprocas: 1. El federalismo: el enfrentamiento entre dos soberanías diferentes estatales separadas territorialmente y que se equilibran mutuamente. La existencia de  fronteras federales limita el poder del Estado central sobre en Estado miembro, y a la inversa. (...)” (LOEWENSTEIN, Karl. Teoria de La Constituición. 2 ed. Trad. Eduardo Espin. Barcelona: Ariel, 1979, p. 353).
+
+[33] SOUZA, Celina. Federalismo e Conflitos Distributivos: Disputa dos Estados Federados por Recursos Orçamentários. In: Revista de Ciências Sociais, Rio de Janeiro, Vol. 46, nº 2, 2003, p. 345-384.
+
+[34] Sobre a formação do “sistema comunal na América” e a contribuição dos agrupamentos humanos locais, fundados em laços de solidariedade, e, a comunidade como elemento descentralizado e essencial à democracia, consulte-se: TOCQUEVILLE, Alexis de. A democracia na América. Livro 1: Leis e Costumes. Trad. Eduardo Brandão. São Paulo: Martins Fontes, 2005, p. 70-94.
+
+[35] V.g. TJDFT, Acórdão nº 803766, 20130110005702APC, Relator: ALFEU MACHADO, Revisor: LEILA ARLANCH, 1ª Turma Cível, Data de Julgamento: 17/07/2014, Publicado no DJE: 22/07/2014, p. 68.
+
+[36] Lei nº 8080, de 19 de setembro de 1990.
+
+[37] CNS. Resolução nº 338, de 6 de maio de 2004.
+
+[38] MS. Portaria nº 3916, de 30 de outubro de 1998.
+
+[39] Lei nº 12401, de 28 de abril de 2011.
+
+[40] PEPE, Vera Lúcia Edais et al. In: ALVARES, Sandra Mara Campos et al (Org.). Direito Sanitário em Perspectiva. Brasília: ESMPU, FIOCRUS, 2013, p. 150-167.
+
+[41] Portaria MS-GM 204, de 29 de janeiro de 2007. O artigo 4º da referida portaria assim dispõe: Art. 4º Estabelecer os seguintes blocos de financiamento: I - Atenção Básica; II - Atenção de Média e Alta Complexidade Ambulatorial e Hospitalar; III - Vigilância em Saúde; IV - Assistência Farmacêutica; V - Gestão do SUS e VI - Investimentos na Rede de Serviços de Saúde.
+
+[42] PEPE, Vera Lúcia Edais et al., op. cit., p. 150-167.
+
+[43] Portaria MS-GM nº 1555, de 30 de julho de 2013.
+
+[44] Art. 3º O financiamento do Componente Básico da Assistência Farmacêutica é de responsabilidade da União, dos Estados, do Distrito Federal e dos Municípios, conforme normas estabelecidas nesta Portaria, com aplicação, no mínimo, dos seguintes valores de seus orçamentos próprios:
+
+(...)
+
+III - Municípios: R$ 2,36 (dois reais e trinta e seis centavos) por habitante/ano, para financiar a aquisição dos medicamentos e insumos constantes dos Anexos I e IV da RENAME vigente no SUS, incluindo os insumos para os usuários insulinodependentes estabelecidos na Portaria nº 2.583/GM/MS, de 10 de outubro de 2007, constantes no Anexo IV da RENAME vigente no SUS.
+
+(...)
+
+§ 2º Para fins de alocação dos recursos federais, estaduais, do Distrito Federal e municipais, utilizar-se-á a população estimada nos referidos entes federativos pelo Censo da Fundação Instituto Brasileiro de Geografia e Estatística (IBGE) para 1º de julho de 2011, enviada ao Tribunal de Contas da União em 9 de novembro de 2011.
+
+§ 3º Além do disposto no § 2º, nos Municípios com acréscimos populacionais resultantes de fluxos migratórios, conforme documentos oficiais do IBGE, esse acréscimo populacional será considerado para o cálculo do valor "per capita" a ser repassado a esses Municípios pelos demais entes federativos envolvidos, conforme pactuação na Comissão Intergestores Tripartite (CIT), Comissão Intergestores Bipartite (CIB) e, se houver, Comissão Intergestores Regional (CIR).
+
+§ 4º Para evitar a redução no custeio deste Componente, os Municípios que tiveram a população reduzida nos termos do Censo IBGE 2011 em relação à população estimada nos termos do Censo IBGE 2009 terão os recursos federais, estaduais e municipais alocados de acordo com a estimativa do Censo IBGE 2009.
+
+§ 5º Os recursos financeiros oriundos do orçamento do Ministério da Saúde para financiar a aquisição de medicamentos do Componente Básico da Assistência Farmacêutica serão transferidos a cada um dos entes federativos beneficiários em parcelas mensais correspondentes a 1/12 (um doze avos) do valor total anual a eles devido.
+
+§ 6º Os valores definidos nos termos dos incisos II e III do "caput" podem ser majorados conforme pactuações nas respectivas Comissões Intergestores Bipartite (CIB), devendo ser pactuada, também, a periodicidade do repasse dos Estados aos Municípios.
+
+§ 7º Os valores definidos nos termos do § 1º podem ser majorados pelo Distrito Federal para aplicação em seus limites territoriais.
+
+Art. 4º As Secretarias de Saúde do Distrito Federal e dos Municípios poderão, anualmente, utilizar um percentual de até 15% (quinze por cento) da soma dos valores dos recursos financeiros, definidos nos termos dos incisos II, III e § 1º do art. 3º, para atividades destinadas à adequação de espaço físico das farmácias do SUS no Distrito Federal e nos Municípios, à aquisição de equipamentos e mobiliário destinados ao suporte das ações de Assistência Farmacêutica e à realização de atividades vinculadas à educação continuada voltada à qualificação dos recursos humanos da Assistência Farmacêutica na Atenção Básica à Saúde, obedecida a Lei nº 4.320, de 17 de março de 1964, e as leis orçamentárias vigentes, sendo vedada a utilização dos recursos federais para esta finalidade.
+
+(...)
+
+Art. 5º Cabe ao Ministério da Saúde o financiamento e a aquisição da insulina humana NPH 100 UI/ml e da insulina humana regular 100 UI/ml, além da sua distribuição até os almoxarifados e Centrais de Abastecimento Farmacêutico Estaduais e do Distrito Federal.
+
+Parágrafo único. Compete às Secretarias Estaduais de Saúde a distribuição da insulina humana NPH 100 UI/ml e da insulina humana regular 100 UI/ml aos Municípios.
+
+Art. 6º Cabe ao Ministério da Saúde o financiamento e a aquisição dos medicamentos contraceptivos e insumos do Programa Saúde da Mulher, constantes do Anexo I e IV da RENAME vigente, sendo a sua distribuição realizada nos seguintes termos:
+
+I - entrega direta ao Distrito Federal, aos Municípios das capitais dos Estados e aos Municípios com população superior a 500.000 (quinhentos mil) habitantes; e
+
+II - nas hipóteses que não se enquadrarem nos termos do inciso I do "caput", entrega às Secretarias Estaduais de Saúde para posterior distribuição aos demais Municípios.
+
+Art. 7º Os quantitativos dos medicamentos e insumos do Programa Saúde da Mulher, da insulina humana NPH 100 UI/ml e da insulina humana regular 100 UI/ml de que tratam os arts. 5º e 6º serão estabelecidos conforme os parâmetros técnicos definidos pelo Ministério da Saúde e a programação anual e as atualizações de demandas encaminhadas ao Ministério da Saúde pelas Secretarias Estaduais de Saúde com base de cálculo nas necessidades dos Municípios.
+
+Art. 8º A execução das ações e serviços de saúde no âmbito do Componente Básico da Assistência Farmacêutica é descentralizada, sendo de responsabilidade dos Estados, do Distrito Federal e dos Municípios.
+
+Art. 9º Os Estados, o Distrito Federal e os Municípios são responsáveis pela seleção, programação, aquisição, armazenamento, controle de estoque e prazos de validade, distribuição e dispensação dos medicamentos e insumos do Componente Básico da Assistência Farmacêutica, constantes dos Anexos I e IV da RENAME vigente, conforme pactuação nas respectivas CIB, incluindo-se:
+
+I - plantas medicinais, drogas vegetais e derivados vegetais para manipulação das preparações dos fitoterápicos da RENAME em Farmácias Vivas e farmácias de manipulação do SUS;
+
+II - matrizes homeopáticas e tinturas-mães conforme Farmacopeia Homeopática Brasileira, 3ª edição, para as preparações homeopáticas em farmácias de manipulação do SUS; e
+
+III - a aquisição dos medicamentos sulfato ferroso e ácido fólico do Programa Nacional de Suplementação de Ferro a partir de agosto de 2013.
+
+Art. 10. Os Estados, o Distrito Federal e os Municípios disponibilizarão, de forma contínua, os medicamentos do Componente Básico da Assistência Farmacêutica indicados nos Protocolos Clínicos e Diretrizes Terapêuticas (PCDT) para garantir as linhas de cuidado das doenças contempladas no Componente Especializado da Assistência Farmacêutica.
+
+Art. 11. Com o objetivo de apoiar a execução do Componente Básico da Assistência Farmacêutica, as Secretarias de Saúde dos Estados e dos Municípios podem pactuar nas respectivas CIB a aquisição, de forma centralizada, dos medicamentos e insumos pelo gestor estadual de saúde, na forma de Atas Estaduais de Registro de Preços ou por consórcios de saúde.
+
+§ 1º Na hipótese de utilização de Atas Estaduais de Registro de Preços, o edital elaborado para o processo licitatório disporá sobre a possibilidade de sua utilização pelos Municípios.
+
+§ 2º Nos procedimentos de aquisição, as Secretarias de Saúde seguirão a legislação pertinente às licitações públicas no sentido de obter a proposta mais vantajosa para a Administração Pública.
+
+Art. 12. No sentido de fortalecer a produção pública de medicamentos, as Secretarias de Saúde dos Estados e dos Municípios poderão pactuar que o montante correspondente aos recursos financeiros estaduais a ser aplicado no âmbito do Componente Básico da Assistência Farmacêutica seja implementado por meio de medicamentos produzidos em laboratórios públicos oficiais, cujo valor unitário de aquisição será informado na respectiva CIB.
+
+Art. 13. Para dar suporte à gestão da Assistência Farmacêutica na Atenção Básica à Saúde, o Ministério da Saúde disponibiliza aos Estados, ao Distrito Federal e aos Municípios o Sistema Nacional de Gestão da Assistência Farmacêutica (HÓRUS).
+
+[45]  PEPE, Vera Lúcia Edais et al., op. cit., p. 162.
+
+[46] Ibid., p. 162-163.
+
+[47] Ibid., p. 164-165.
+
+[48] Artigos 66 a 70 da Portaria GM-MS nº 1554, de 30 de julho de 2013.
+
+[49] "Art. 1o  Esta Lei Complementar institui, nos termos do § 3o do art. 198 da Constituição Federal:
+
+I - o valor mínimo e normas de cálculo do montante mínimo a ser aplicado, anualmente, pela União em ações e serviços públicos de saúde;
+
+II - percentuais mínimos do produto da arrecadação de impostos a serem aplicados anualmente pelos Estados, pelo Distrito Federal e pelos Municípios em ações e serviços públicos de saúde;
+
+III - critérios de rateio dos recursos da União vinculados à saúde destinados aos Estados, ao Distrito Federal e aos Municípios, e dos Estados destinados aos seus respectivos Municípios, visando à progressiva redução das disparidades regionais;
+
+IV - normas de fiscalização, avaliação e controle das despesas com saúde nas esferas federal, estadual, distrital e municipal."
+
+[50] CIARLINI, 2011. Direito à Saúde - Paradigmas procedimentais e substanciais da Constituição, op. cit., p. 139-140.
+
+[51]  NINO, Carlos Santiago. The constitution of deliberative democracy. London: Yale University Press, 1998, p. 198-199.
+
+[52] CIARLINI, Alvaro Luis de Araujo. Direito à Saúde e Respeito à Constituição. In: Gestão Pública e Relação Público Privado na Saúde. Coleção Pensar em Saúde. Rio de Janeiro: CEBES, 2011, p.87.
+
+[53] CIARLINI, Alvaro Luis de Araujo. Direito à Saúde e Respeito à Constituição, op. cit., p.87.
+
+[54] Constituição Federal, artigos 196, segunda parte, 197 e 198.
+
+O Senhor Desembargador LEONARDO ROSCOE BESSA - 1º Vogal Com o relatorO Senhor Desembargador ARQUIBALDO CARNEIRO - 2º Vogal Com o relatorO Senhor Desembargador JOSE FIRMO REIS SOUB - 3º Vogal Com o relatorO Senhor Desembargador EUSTAQUIO DE CASTRO - 4º Vogal Com o relatorA Senhora Desembargadora SONÍRIA ROCHA CAMPOS D'ASSUNÇÃO - 5º Vogal Com o relatorA Senhora Desembargadora LUCIMEIRE MARIA DA SILVA - 6º Vogal Com o relatorA Senhora Desembargadora VERA ANDRIGHI - 7º Vogal Com o relatorO Senhor Desembargador ARNOLDO CAMANHO - 8º Vogal Com o relator
+
+DECISÃO
+
+Segurança concedida, unânime
