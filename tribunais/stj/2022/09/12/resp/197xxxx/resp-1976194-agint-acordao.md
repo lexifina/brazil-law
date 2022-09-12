@@ -1,0 +1,78 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/09/2022 a 12/09/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA (Relator):Trata-se de agravo interno (e-STJ fls. 407/413) interposto contra decisão desta relatoria que não conheceu do recurso especial (e-STJ fls. 403/413).
+Em suas razões, o agravante sustenta quedemonstrou a configuração da divergência jurisprudencial.
+Alega não serem aplicáveisas Súmulas n. 7/STJ e 283/STF.
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+Contrarrazões apresentadas e requerida a majoração dos honorários advocatícios(e-STJ fls. 417/423).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. USUCAPIÃO. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO NÃO REALIZADO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. FALTADE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283/STF. DECISÃO MANTIDA.
+1.O conhecimento do recurso especial pela alínea "c" do permissivo constitucional exige a demonstração do dissídio mediante a verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados (art. 1.029, § 1º, CPC/2015).
+2. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+3. No caso concreto, o Tribunal de origem reconheceu que foram preenchidos os requisitos do usucapião. Alterar essa conclusão demandaria reexame do acervo probatório dos autos, providência vedada em recurso especial.
+4.O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, nos termos da Súmula n. 283/STF.
+5. Agravo interno a que se nega provimento.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA (Relator):A insurgência não merece acolhida.
+O agravante não trouxe nenhum argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (e-STJ fls. 403/406):
+Trata-se de recurso especial interposto contra acórdão com a seguinte ementa (e-STJ fls. 280/281):
+APELAÇÃO CÍVEL. AÇÃO DE USUCAPIÃO ESPECIAL URBANO. ÁREA MATRICULADA MAIOR DO QUE 250 M2. PROVA DO USO E FRUIÇÃO DE ÁREA ATÉ 250M2. POSSIBILIDADE DE USUCAPIÃO. PRESENÇA DOS REQUISITOS DO ART. 1.240 DO CC E DO ART. 183 DA CF. PROVA DE QUE O AUTOR NÃO É PROPRIETÁRIO DE OUTRO IMÓVEL. DECLARAÇÃO CORROBORADA COM A PROVA TESTEMUNHAL. POSSIBILIDADE.
+1. A usucapião, por constituir modo originário de aquisição da propriedade, somente se aperfeiçoa em presença concomitante dos requisitos legais. Usucapião especial urbana. Modalidade denominada social, que visa consagrar o direito fundamental à moradia do cidadão, também conhecida na doutrina por usucapião "pro morare ou pro misero"
+2. Imóvel com área total de 262,5m2. Requerimento de usucapião da área de 250,00m2. Nos termos do art. 183, da CF, e 1.240, do CC, A usucapião especial urbana pode ocorrer em imóvel com área matriculada maior do que 250m2, desde que a parte autora reivindique e comprove o uso, gozo e fruição pacífica e ininterrupta de área até 250m2.
+3. Prova de que o autor não é proprietário de outro imóvel consubstanciada por declaração e corroborada pela prova testemunhal. Suficiência.
+4. Recurso de apelação conhecido e provido.
+Nas razões do recurso especial (e-STJ fls. 302/315), fundamentado no art. 105, III, "c", da CF, o recorrente apontou dissídio jurisprudencial quanto à aplicação do art. 1.240 do CC/2002, visto que "o tribunal de origem interpretou o dispositivo de lei federal acima transcrito de forma a permitir o fracionamento de imóvel a fim de adequar os requisitos legais para a aquisição prescritiva pela usucapião especial urbana" (e-STJ fl. 310).
+Contrarrazões apresentadas (e-STJ fls. 361/369).
+É o relatório.
+Decido.
+O conhecimento do recurso pela alínea "c" do permissivo constitucional exige a indicação do dispositivo legal ao qual foi atribuída interpretação dissonante e a demonstração da divergência, mediante o cotejo analítico do acórdão recorrido e dos arestos paradigmas, de modo a se verificarem as circunstâncias que assemelhem ou identifiquem os casos confrontados (arts. 255, §§ 1º e 2º, do RISTJ e 541, parágrafo único, do CPC/1973).
+De tais ônus, o recorrente não se desincumbiu, pois se limitou a transcrever as ementas dos julgados a partir dos quais sustentou o dissenso interpretativo, tornando inviável conhecer do recurso no ponto, sem fazer o cotejo analítico, de forma a demonstrar similitude fática entre os casos confrontados. Nesse sentido:
+DIREITO CIVIL. RECURSO ESPECIAL. AÇÃO DE COMPENSAÇÃO POR DANOS MORAIS. PRISÃO EFETUADA POR POLICIAL MILITAR FORA DO EXERCÍCIO DAS FUNÇÕES. OFENSA À LIBERDADE PESSOAL. DANO MORAL CONFIGURADO. VALOR ARBITRADO. MÉTODO BIFÁSICO. DISSÍDIO JURISPRUDENCIAL. NÃO COMPROVAÇÃO.
+(..)
+8. Não se conhece do recurso pela divergência jurisprudencial nas hipóteses em que o recorrente se limita à transcrição de ementas, sem promover o cotejo analítico a que se refere o art. 541, parágrafo único, do CPC/1973.
+9. Recurso especial desprovido.
+(REsp n. 1.675.015/DF, Relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 12/9/2017, DJe 14/9/2017.)
+AGRAVO REGIMENTAL EM AGRAVO (ART. 544 DO CPC/73) - AÇÃO DE REVISÃO CONTRATUAL C/C DECLARAÇÃO DE NULIDADE DE ATO ADMINISTRATIVO E CONSIGNAÇÃO EM PAGAMENTO - DECISÃO MONOCRÁTICA NEGANDO PROVIMENTO AO RECLAMO - INSURGÊNCIA RECURSAL DA DEMANDADA.
+(..)
+3. Não restou demonstrada, na hipótese, a divergência jurisprudencial na forma prevista no artigo 541 do CPC/1973 (art. 1.029, CPC/2015) e no artigo 255 do RISTJ. Ademais, a mera transcrição de ementas não satisfaz as exigências para a demonstração do dissídio jurisprudencial.
+4. Agravo regimental desprovido.
+(AgRg no AREsp n. 304.921/MT, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 6/12/2016, DJe 14/12/2016.)
+Além disso, entendeu a Corte local que (e-STJ fls. 282/284):
+No caso dos autos a usucapião pretendida é a especial urbana do art. 183, da Constituição Federal e do art. 1.240, do Código Civil. Extrai-se dos autos que o imóvel tem em sua escritura e registro originário a área total de 262,50m2 constando como proprietário LUIZ GONZAGA ALVES VILA NOVA (ev.1, anexos pet ini7, e, ev. 53). No entanto, a prova carreada aos autos aponta que a área efetivamente usada pelos apelantes é de apenas 250 m2, em que os apelantes residem, conforme memorial descritivo e mapa planimétrico (ev. 1, anexos pet ini 3 e anexo pet ini 4). A legislação, art. 1240 do Código Civil e art. 183 da Constituição Federal assim positiva:
+(..)
+Essa é a modalidade denominada social, que visa consagrar o direito fundamental à moradia do cidadão, também conhecida na doutrina por usucapião "pro morare ou pro misero" calcada nos artigos 183 da Constituição Federal e no Código Civil em seu artigo 1240, que foi objeto de tipificação no pedido inicial. Por ter essa finalidade eminentemente social, o direito à obtenção da propriedade neste caso apresenta requisitos mais simplificados na medida em que a) não se exige boa-fé ou justo título; b) o imóvel URBANO não pode ultrapassar 250 m ; c) O possuidor não pode ser titular de outro imóvel seja ele rural ou urbano e d) o prazo de posse contínua deverá ser de pelo menos 5 anos. Todos estes requisitos foram preenchidos pelos autores/apelante, até porque há comprovante expedido pela ENERGIA, companhia de energia elétrica, constatando que o vínculo com o consumidor JOSUÉ DE OLIVEIRA REZENDE iniciou-se em 10/08/2011 (ev. 1, anexos pet ini19).
+De tais normativas verifica-se que não há que se falar em impossibilidade de procedência do pedido de declaração do domínio por usucapião, por mero obstáculo administrativo. O só fato, da área usucapienda ser inferior ao módulo urbano ou rural não obsta o reconhecimento da propriedade, porquanto nem o Código Civil, nem a Carta Magna impõem essa limitação para sua aquisição por usucapião, exigindo-se, apenas, a comprovação da posse mansa, pacífica e ininterrupta, com animus domini, pelo período de 05 anos, não sendo possível rejeitar a pretensão declaratória de domínio, pela mera interpretação de normas hierarquicamente inferiores à Constituição Federal. Insta frisar ainda, que as exigências administrativas se aplicam para os adquirentes de propriedades já existentes, em caso eventual de desmembramento, mas não para o reconhecimento da aquisição pelo fato da posse somado com demais requisitos legais. (RECURSO ESPECIAL Nº1894756 - PR (2020/0234320-3) Ministro RAUL ARAÚJO, 01/12/2020).
+O que a legislação proíbe é que a parte usucapiente mantenha posse de gleba maior do que os 250m2, e posteriormente decote somente os 250m2 para requerer usucapião. O uso, a posse do imóvel deve ser de 250m2, mesmo que a matrícula imobiliária seja maior. A área sobre a qual se pretende o reconhecimento da usucapião, no caso, está dentro do limite legal.
+(..)
+Portanto, melhor analisando as situações sobre a usucapião especial urbana e o fim social da moradia, associado ao direito de moradia de pessoas menos abastadas, tenho que não importa o registro imobiliário relativo à área total do lote ou terreno, mas a área efetivamente usada pela parte usucapiente, cujo uso e fruição deve estar limitado a 250m2, metragem que abrange tanto a área do terreno como a da construção.
+Veja-se que a inicial é bastante clara e objetiva, no sentido de obter a usucapião do imóvel com 250m2, que usufrui, tão somente, ou seja, com área de 7,50 metros lineares de frente, por 33,33 metros de fundos, o que totaliza precisamente 249,975m2, lote 15, da quadra 355, situado na Avenida Mato Grosso, número 2177, limitando-se ao norte, com a Avenida Mato Grosso; ao sul com o Lote 08; ao Leste com o lote 14,e ao Oeste com parte do mesmo Lote 15, que limita-se ao Oeste, com o Lote 16, Gurupi/TO, matrícula n. 44.317. Registro que a casa fica dentro do lote de 250m2, com área de 7m2 por 8m2, correspondendo a 56m2 de área construída, conforme Planta de situação do imóvel (ev. 1, anexos petini4).
+Em contestação (ev. 40), a parte requerida/apelada salienta que "O Requerente ingressou com ação de usucapião urbano em desfavor do Sr. RAIMUNDO NONATO PEREIRA MACIEL, pleiteando a aquisição do imóvel situado na Avenida Mato Grosso, denominado de PARTE DO LOTE 15 DA QUADRA 355, Nº 2177 que é propriedade do Sr. LUIZ GONZAGA ALVES VILA NOVA".."que pretende adquirir por meio desta ação tem uma área exata de 250m  (DUZENTOS E CINQUENTA MENTROS QUADRADOS), medindo 7,5mt de frente por 33,33mt de fundos;". (g. n.).
+Desconstituir a premissa estabelecida no acórdão recorrido, no sentido de que a área em que a parte recorrida efetivamente exerceu sua posse é de 250 (duzentos e cinquenta) m , exigiria a apreciação do conjunto fático-probatório dos autos, procedimento vedado pela Súmula n. 7/STJ.
+Destaca-se, ainda, que o Tribunal de origem consignou que "a legislação proíbe é que a parte usucapiente mantenha posse de gleba maior do que os 250 m2, e posteriormente decote somente os 250 m2 para requerer usucapião. O uso, a posse do imóvel deve ser de 250 m2, mesmo que a matrícula imobiliária seja maior. A área sobre a qual se pretende o reconhecimento da usucapião, no caso, está dentro do limite legal" (e-STJ fl. 283).
+Tal fundamento não foi impugnado pelo recorrente, incidindo a Súmula n. 283/STF.
+Ante o exposto, NÃO CONHEÇO do recurso especial.
+Publique-se e intimem-se.
+Primeiramente,o recurso especial fundado na alínea "c" do permissivo constitucional não reúne condições de êxito, ante a inexistência de demonstração da divergência jurisprudencial, sendo insuficiente a mera transcriçãodos julgados.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. MENSALIDADES. COBRANÇA. PLANO DE SAÚDE. RESCISÃO CONTRATUAL. EXCEÇÃO DO CONTRATO NÃO CUMPRIDO. TESE NÃO COMPROVADA. RESCISÃO. ILEGALIDADE. NÃO CABIMENTO. ART. 1.022 DO CPC/2015. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. CONJUNTO FÁTICO-PROBATÓRIO. RELAÇÃO CONTRATUAL. REEXAME. SÚMULAS NºS 5 E 7/STJ. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA Nº 284/STF. DISSÍDIO JURISPRUDENCIAL. DEMONSTRAÇÃO. AUSÊNCIA.
+(..)
+5. A divergência jurisprudencial com fundamento na alínea "c" do permissivo constitucional, nos termos dos arts. 1.029, § 1º, do CPC/2015 e 255, § 1º, do RISTJ, exige comprovação e demonstração, esta, em qualquer caso, com a transcrição dos trechos dos arestos que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, não sendo bastante a simples transcrição de ementas sem o necessário cotejo analítico a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações.
+6. Agravo interno não provido.
+(AgInt no AREsp n. 1.938.687/SP, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 8/8/2022, DJe de 15/8/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO. DECISÃO SINGULAR DA PRESIDÊNCIA DESTA CORTE SUPERIOR MANTIDA. VIOLAÇÃO AO ART. 489, § 1º, III, DO CPC. INOCORRÊNCIA. SÚMULA 123/STJ. NÃO INCIDÊNCIA. O TRIBUNAL ESTADUAL CONSIDEROU QUE O AUTOR RESIDIA NA ÁREA DE ATUAÇÃO DA COOPERATIVA. RAZÕES DO RESP QUE BUSCAM ALTERAR ESSA PREMISSA FÁTICA. APLICAÇÃO DA SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO NÃO PROVIDO.
+(..)
+4. Não houve configuração do dissídio jurisprudencial, pois nas razões recursais houve tão somente a mera transcrição de ementas, sem a realização do cotejo analítico para se demonstrar o confronto dos arestos a partir de idêntica tese jurídica e base fática igual ou semelhante, restando, pois desatendidos os requisitos do art. 255, § 1º, do RISTJ.
+5. Ademais, quando a mesma tese do recurso especial se ampara nas letras "a" e "c" do permissivo constitucional, a Súmula 7/STJ, caso aplicada, obsta a admissão do apelo nobre por ambas as alíneas, porque não haverá, nessa hipótese, identidade ou similitude fática para caracterizar o dissenso pretoriano.
+6. Agravo interno não provido.
+(AgInt no AREsp n. 1.925.690/GO, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 30/5/2022, DJe de 1/6/2022.)
+Quanto ao usucapião, oTribunal de origem entendeu que estariam presentes os requisitos para o usucapião e destacou que "a prova carreada aos autos aponta que a área efetivamente usada pelos apelantes é de apenas 250 m , em que os apelantes residem, conforme memorial descritivo e mapa planimétrico" (e- STJ fl. 282).
+Para alterar a conclusão do acórdão recorrido a fim de reconhecer que não foram preenchidos os requisitos do usucapião, seria indispensável a análise das provas dos autos. Portantoé caso deaplicação da Súmula n. 7 do STJ.
+Além disso,a Corte local destacou que "legislação proíbe é que a parte usucapiente mantenha posse de gleba maior do que os 250m , e posteriormente decote somente os 250m  para requerer usucapião" (e-STJ fl. 283). No entanto tal fundamento não foi impugnado pelo agravante, sendo inafastável a Súmula n. 283/STF.
+Assim, não prosperam as alegações constantes no recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+Nos termos da jurisprudência desta Corte, não haverá a majoração de honorários advocatícios prevista no art. 85, § 11, do CPC/2015 no julgamento de agravo interno.
+É como voto.
