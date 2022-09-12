@@ -1,0 +1,14 @@
+DECISÃO
+Cuida-se de conflito positivo de competência, com pedido liminar, instaurado por VIAÇÃO FLECHA BRANCA - EM RECUPERAÇÃO JUDICIAL e OUTRAS, envolvendo o Juízo de Direito da 4ª Vara Cível de Cachoeiro de Itapemirim-ES, no qual se processa a recuperação judicial das suscitantes (Processo n.º 5004161- 04.2021.8.08.0011), e o Juízo do TRT da 17ª Região, em que tramita o agravo em petição n.º 0001329-48.2020.5.17.0131, movido por NILCE NOGUEIRA MUNIZ.
+Aduz a suscitante, em síntese, que o Juízo Trabalhista determinou a realização de atos executórios contra seus bens nos autos da mencionada ação trabalhista, na qual figura como reclamada, invadindo, assim, competência exclusiva do Juízo da Recuperação Judicial, que, conforme alega, é o foro competente para tratar de atos que afetem seu patrimônio.Cita, em favor de sua tese, julgados deste STJ.
+Requer a concessão de liminar objetivando o sobrestamento dos atos executivos determinados na demanda laboral, com designação do Juízo Universal para resolver, em caráter provisório, as medidas urgentes, evitando-se, assim, que a constrição de seus bens prossiga e inviabilize o processo de soerguimento ao qual está submetida.
+No mérito, pugna pela declaração de competência do Juízo da Recuperação Judicial para tratar dos atos de caráter executório que afetem seu acervo patrimonial.
+É o relatório.
+Decisão.
+O pedido inicial não comporta acolhimento.
+1. De início, vale destacar a competência deste Superior Tribunal de Justiça para o exame do presente conflito, uma vez que envolve juízos vinculados a Tribunais diversos, nos termos do que dispõe o artigo 105, inciso I, alínea "d", da Constituição Federal.
+2. Não se olvida da orientação segundo a qualapós o deferimento do processamento da recuperação judicial, é do juízo da recuperação a competência para analisar o prosseguimento dos atos de execução relacionados a reclamações trabalhistas movidas contra a empresa recuperanda. Vejam-se:AgInt no CC n. 147.032/RJ, Relator Ministro RICARDO VILLAS BÔAS CUEVA, SEGUNDA SEÇÃO, julgado em 13/9/2017, DJe 19/9/2017;AgInt no CC n. 154.788/RJ, desta Relatoria, SEGUNDA SEÇÃO, julgado em 28/8/2019, DJe 2/9/2019.
+Contudo, na hipótese dos autos, o r. juízo indicado como suscitado (fls. 187/190) atento à essa compreensão decidiu que "(..)É indevida a constrição patrimonial de consórcio formado por empresas que se encontram recuperação judicial por esta Justiça Especializada.", não havendo se falar, portanto, em determinação de atos constritivos em face do patrimônio submetido ao processo de soerguimento, sendo de rigor, portanto, o indeferimento liminar do presente conflito de competência.
+3. Do exposto, com fundamento no art.955, parágrafo único, do CPC/15, indefiro liminarmente o presente conflito de competência.
+Publique-se. Intimem-se. Oficie-se.
+À secretaria para retificar a autuação do presente feito a fim de incluir, como interessada,NILCE NOGUEIRA MUNIZ e outro. (fls. 187/190)
