@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo interposto por ANDELIA APARECIDA FERREIRA PIMENTA MONTEIRO E OUTROS contra decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no art. 105, inciso III, alínea"a", da Constituição Federal, insurge-se contra acórdão do Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+"APELAÇÃO - COBRANÇA - INADIMPLEMENTO - CONTRATO DE ABERTURA DE CRÉDITO - CDC - NÃO APLICAÇÃO - PESSOA JURÍDICA - ÔNUS DA PROVA - FIADOR - BENEFÍCIO DE ORDEM - RENUNCIA EXPRESSA - RESPONSABILIDADE SOLIDÁRIA. A pessoa jurídica que adquire serviços e produtos para o desenvolvimento de sua atividade lucrativa não pode ser reconhecida como consumidora, por ausência de destinação final dos serviços e dos produtos. Incumbe aos réus o ônus probatório quanto aos fatos impeditivos, extintivos e modificativos do direito do autor. De conformidade com o art. 828 do Código Civil, o fiador que renuncia expressamente o benefício de ordem, dele não se aproveita" (fl 356 e-STJ).
+Não foram opostos embargos de declaração.
+No recurso especial, alega-se violação dos arts. 6º, VIII e 54 do Código de Defesa do Consumidor e do art. 828 do Código Civil, ao argumento de que padece de nulidade a cláusula trigésima primeira do contrato de adesão, na parte em que foi estipulado que ANDÉLIA APARECIDA e FABRÍCIO MONTEIROrenunciam ao benefício de ordem.
+Defendem que a cobrança dos débitos deve ser realizada com base nos valores extraídos dos dados oficiais relativos ao real valor da dívida cobrada, constantes no Sistema de Informação de Crédito do Banco Central do Brasil.
+Pleiteiam a concessão de efeito suspensivo.
+Com as contrarrazões, foi inadmitido o recurso especial, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A insurgência não merece prosperar.
+Na hipótese em apreço,o Tribunal de origem, à luz da prova dos autos e das cláusulas contratuais, concluiu pela ausência de abusividade no instrumentopactuado, ao considerar que os agravantes renunciaram expressamente ao benefício de ordem,conforme se extrai da leitura do voto condutor, merecendo destaque o seguinte trecho:
+"(..)
+Pretendem os Apelantes, ainda, a declaração de nulidade da cláusula trigésima primeira, através da qual os fiadores renunciaram ao benefício de ordem.
+De conformidade com o art. 827, do Código Civil, "o fiador demandado pelo pagamento da dívida tem direito de exigir, até a contestação da lide, que sejam primeiro executados os bens do devedor".
+Da leitura do referido dispositivo legal, constata-se que o benefício de ordem confere ao fiador a prerrogativa de exigir que a execução do débito seja efetuada, primeiro, em face do devedor principal.
+Desse modo, conclui-se que o instituto apenas apresenta relevância na fase da execução do débito.
+Não obstante, no presente caso, o segundo e o terceiro Apelantes, na condição de fiadores, declararam-se devedores solidários da sociedade empresária, renunciando ao benefício de ordem, doc. 02, não havendo óbice à satisfação do crédito diretamente aos seus bens.
+De conformidade com o art. 828, do Código Civil, o fiador que renuncia expressamente ao benefício de ordem, dele não se aproveita.
+Logo, não há abusividade da cláusula trigésima primeira, uma vez que houve expressa renuncia ao benefício disposto no art. 827, do Código Civil, doc. 02" (fl. 361 e-STJ).
+Nesse contexto, denota-se que o acolhimento da pretensão recursal demandaria o revolvimento do acervo fático-probatório dos autos e das cláusulas contratuais,o que se mostra inviável ante a natureza excepcional da via eleita, conforme dispõe o enunciado das Súmulas nº5 e 7 deste Superior Tribunal.
+A propósito:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. REEXAME DE FATOS E PROVAS E INTERPRETAÇÃO DE CLÁUSULA CONTRATUAL. SÚMULAS 05 E 07/STJ. INADMISSIBILIDADE.
+1. Ação de cobrança.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a oposição de embargos de declaração, impede o conhecimento do recurso especial.
+3. Alterar o decido no acórdão impugnado, no tocante à conclusão de que os agravantes "obrigaram-se como principais pagadores de todas as obrigações, principais ou acessórias, assumidas pela afiançada até a entrega das chaves do imóvel, renunciando expressamente ao benefício de ordem, passando a ser, portanto, devedores solidários dos valores cobrados", exige o reexame de fatos e provas e a interpretação de cláusulas contratuais, procedimentos que são vedados pelas Súmulas 5 e 7, ambas do STJ.
+4. Agravo interno não provido"(AgInt nos EDcl no AREsp n. 1.941.530/SC, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 15/8/2022, DJe de 17/8/2022).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. LOCAÇÃO. DE ACORDO COM O ARESTO RECORRIDO, AS FIADORAS ASSUMIRAM A OBRIGAÇÃO COMO DEVEDORAS SOLIDÁRIAS ATÉ A EFETIVA DEVOLUÇÃO DO IMÓVEL AO LOCADOR, RENUNCIANDO AO BENEFÍCIO DA ORDEM.FUNDAMENTO NÃO IMPUGNADO. APLICAÇÃO, POR ANALOGIA, DA SÚMULA 283/STF. ENTENDIMENTO DO TRIBUNAL DE ORIGEM EM CONSONÂNCIA COM O DESTA CORTE SUPERIOR, QUANTO À RESPONSABILIDADE DAS FIADORAS, NA ESPÉCIE. DISSÍDIO NÃO CONFIGURADO. REEXAME DE MATÉRIA FÁTICA E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. IMPOSSIBILIDADE. INCIDÊNCIA DAS SÚMULAS 5 E 7 DO STJ. TERMO INICIAL DA CORREÇÃO MONETÁRIA E DOS JUROS DE MORA. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO DE LEI OBJETO DE SUPOSTA INTERPRETAÇÃO DIVERGENTE. DEFICIÊNCIA NA FUNDAMENTAÇÃO RECURSAL. ÓBICE DA SÚMULA 284/STF, APLICADA POR ANALOGIA. MANUTENÇÃO DA DECISÃO AGRAVADA.AGRAVO INTERNO DESPROVIDO" (AgInt no AREsp n. 1.306.781/MG, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 21/9/2020, DJe de 24/9/2020).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE COBRANÇA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA PARTE RÉ.
+1. As instâncias ordinárias, com base nos elementos fático-probatórios dos autos e na interpretação do contrato, concluíram pela legitimidade passiva dos recorrentes e pela renúncia ao benefício de ordem, de modo que o acolhimento da pretensão recursal demandaria o reexame de prova e a interpretação do contrato, inviáveis em sede de recurso especial, ante o disposto nas Súmulas 5 e 7 desta Corte.
+2. Agravo interno desprovido"(AgInt no AREsp n. 1.369.619/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 2/4/2019, DJe de 5/4/2019).
+No tocante à cobrança dos débitos com base nos valores extraídos dos dados oficiaisdo Banco Central,a deficiência na fundamentação recursal ficouevidenciada, visto que os recorrentes não indicaram especificamente quais os artigos de lei federal teriam sido contrariados pelo aresto recorrido, embora tenham se insurgido quanto à motivação da decisão, inviabilizando a compreensão da controvérsia posta nos autos.
+Consectariamente, incide a Súmula nº 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Outrossim, a atribuiçãode efeito suspensivo a recurso especial estácircunscrita à presença cumulativa dos requisitos da plausibilidade dodireito invocado e no perigo de dano irreparável ou de difícil reparação,que não se fazem presentes na hipótese.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 12% (doze por cento) sobre o valor da condenação, os quais devem ser majorados para o patamar de 14% (catorze por cento) em favor dos advogados da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
