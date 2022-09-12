@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, não conhecer do agravo regimental.
+Os Srs. Ministros Jorge Mussi, Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Trata-se de agravo regimental interposto por WILLIANDO PRADO contra a decisão de fls. 323-324, por meio da qual o Ministro Presidente do Superior Tribunal de Justiça não conheceu do agravo em recurso especial.
+Consta da decisão agravadaque o agravante deixou de impugnar especificamente os fundamentos da decisão de inadmissão do apelo raro, a saber, as Súmulas 7 e 83 do STJ. Como consequência, aplicou-se ao caso a Súmula n. 182 do STJ.
+No regimental, a parte recorrente sustenta não haver provas bastantes nos autos para embasar o veredicto condenatório, sendo caso de se observar o princípio in dubio pro reo.
+É o relatório.
+EMENTA
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTODA DECISÃO AGRAVADA NÃO ATACADO. SÚMULA N. 182 DO STJ. INCIDÊNCIA. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. Os recursos devem impugnar especificamente os fundamentos da decisão cuja reforma é pretendida, não sendo suficientes alegações genéricas nem a reiteração dos argumentos referentes ao mérito da controvérsia.
+2. É inviável o agravo regimental que não impugna os fundamentos da decisão agravada. Aplicação da Súmula n. 182 do STJ.
+3. Agravo regimental não conhecido.
+VOTO
+A irresignação não prospera.
+Com efeito, verifica-se da decisão agravada que nenhum dos fundamentos utilizados para alicerçar a decisão de inadmissão do recurso especial foi infirmado pelo agravante, vindo daí a incidência da Súmula n. 182 do STJ, segundo a qual "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+No regimental, em vez de impugnar o cabimento do referido óbice sumular, limitou-se o agravante a afirmar que a prova produzida nos autos não é segura para embasara condenação, inexistindo, segundo alega, elementos concretos que demonstrem a alteração na capacidade psicomotora do condutor do veículo. Em suma, o agravante não ataca o fundamento da decisão agravada, limitando-se a persistir na discussão do mérito da controvérsia, o que faz incidir, mais uma vez, a Súmula n. 182 do STJ.
+Confira-se a jurisprudência do STJ:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA N. 182/STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. A falta de impugnação específica dos fundamentos utilizados na decisão ora agravada atrai a incidência do enunciado sumular n. 182 desta Corte Superior.
+2. Da análise das razões do regimental, verifico que a pretensão recursal esbarra, mais uma vez, no óbice da Súmula n. 182 desta Corte Superior, porquanto não foi devidamente impugnada sua incidência na decisão agravada.
+3. Como tem reiteradamente decidido esta Corte, os recursos devem impugnar, de maneira específica e pormenorizada, os fundamentos da decisão contra a qual se insurgem, sob pena de vê-los mantidos. Não são suficientes meras alegações genéricas sobre as razões que levaram à inadmissão do agravo ou a insistência no mérito da controvérsia.
+4. Ainda que assim não fosse, na forma do artigo 571, VIII, do CPP, nos crimes dolosos contra a vida, a parte interessada no reconhecimento de alguma nulidade ocorrida no plenário do Tribunal do Júri deve suscitá-la logo depois que ocorrer, devendo haver registro na ata da sessão de julgamento, sob pena de preclusão. Na espécie, consoante asseverado pela Corte local, a alegação atinente a eventuais irregularidades não constou na ata de julgamento, operando-se a preclusão quanto à matéria, por não ter sido impugnada no momento processual oportuno. Precedentes.
+5. A desconstituição das conclusões alcançadas pela Corte a quo, com fundamento em exame exauriente do conjunto fático-probatório constante dos autos, para abrigar a tese de que a decisão dos jurados foi manifestamente contrária à prova dos autos, demandaria necessariamente aprofundado revolvimento do conjunto probatório, providência vedada em sede de recurso especial. Incidência da Súmula n. 7/STJ. Precedentes.
+6. Agravo regimental não conhecido. (AgRg no AREsp n. 2.016.489/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 13/6/2022, destaquei.)
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO, ASSOCIAÇÃO CRIMINOSA E CORRUPÇÃO DE MENORES. NÃO ENFRENTAMENTO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. AGRAVO REGIMENTAL NÃO CONHECIDO. PRIMEIRA FASE DA DOSIMETRIA DA PENA. FLAGRANTE ILEGALIDADE. ART. 580 DO CPP. CONCESSÃO DE HABEAS CORPUS DE OFÍCIO, COM EXTENSÃO AOS CORRÉUS.
+1. Conforme reiterada jurisprudência do Superior Tribunal de Justiça, cumpre ao agravante impugnar especificamente todos os fundamentos estabelecidos na decisão agravada.
+2. "Não merece ser conhecido o agravo regimental que deixa de infirmar todos os fundamentos utilizados na decisão agravada" (AgRg no AREsp 471.237/PA, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 28/3/2017, DJe 5/4/2017).
+3. Na hipótese, a decisão agravada não conheceu do agravo em recurso especial, diante da incidência da Súmula 182 do STJ, pois a recorrente não impugnou especificamente os fundamentos da decisão recorrida (in casu, Súmula 7 do STJ). Não obstante, no agravo regimental, a agravante não impugna tal fundamento, o que faz incidir, mais uma vez, a Súmula 182 do STJ.
+4. Todavia, impõe-se a concessão de habeas corpus de ofício para que a pena seja reduzida na primeira fase da dosimetria, diante da ausência de fundamentação idônea para a consideração desfavorável da circunstância judicial relativa à culpabilidade, com extensão do julgado aos corréus, a fim de conferir tratamento igualitário àqueles que estão na mesma situação fático-processual (art. 580 do CPP).
+5. Agravo regimental não conhecido. Concessão de habeas corpus, de ofício, para afastar, na primeira fase da dosimetria da pena da agravante, a circunstância judicial da culpabilidade, por ausência de fundamentação, reduzindo a reprimenda final para o patamar de 14 (quatorze) anos e 8 (oito) meses de reclusão, mais o pagamento de 47 (quarenta e sete) dias-multa, mantidos os demais termos da condenação. Decisão estendida aos corréus, nos termos do art. 580 do CPP. (AgRg no AREsp n. 1.594.096/CE, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 14/2/2020, destaquei.)
+Ante o exposto, tendo em vista que não foi atacado o fundamento adotado na decisão impugnada, não conheço do agravo regimental.
+É como voto.
