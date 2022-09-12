@@ -1,0 +1,26 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/09/2022 a 12/09/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Humberto Martins.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão que não conheceudo recurso especial, fundamentado noart.105, III, a,da CF/88, que visa reformar acórdão proferido peloTribunal de Justiça do Estado de Santa Catarina, assim resumido:
+APELAÇÕES CÍVEIS. AÇÃO ACIDENTÁRIA. PROCEDÊNCIA NA ORIGEM, COM CONCESSÃO DO AUXÍLIO-ACIDENTE. RECURSOS DE AMBOS OS LITIGANTES. INTERESSE DE AGIR. CESSAÇÃO DO AUXÍLIO-DOENÇA SEM A SUCESSIVA CONVERSÃO EM AUXÍLIO-ACIDENTE. PAGAMENTO DO BENEFÍCIO SUSPENSO HÁ MAIS DE 5 ANOS. PRETENSÃO RESISTIDA, ENTRETANTO. RECUSA À CONCESSÃO DA BENESSE, PORQUANTO ALEGADAMENTE NÃO PREENCHIDOS OS PRESSUPOSTOS LEGAIS. PERÍCIA MÉDICA REALIZADA, REVELANDO A EXISTÊNCIA DE INCAPACIDADE PARCIAL E PERMANENTE. APROVEITAMENTO DOS ATOS PROCESSUAIS. PRIMAZIA DO JULGAMENTO DE MÉRITO. AUXÍLIO- ACIDENTE DEVIDO.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial."
+No agravo interno, a parte recorrente traz, resumidamente, os seguintes argumentos:
+Na espécie, ao que se observa, o Tribunal de origem, destoou da orientação firmada por essa e. Corte, entende-se que a revisão do ato administrativo que indeferiu o auxílio-doença está sujeita à prescrição quinquenal prevista no art. 1º do Decreto n. 20.910/32. No caso dos autos, a presente ação foi ajuizada, após o decurso do prazo prescricional de cinco anos, o que torna inviável a retroação do benefício a essa data e aos requerimentos anteriores. Precedentes: REsp n. 1.756.827/PB, Rel. Ministro Francisco Falcão, Segunda Turma, julgado em 11/12/2018, DJe 17/12/2018; e AgInt no REsp n. 1.744.640/PB, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 6/12/2018, DJe 19/12/2018.
+Portanto, demonstrada que o INSS fundamentou o apelo especial a permitir a exata compreensão da controvérsia, incabível a incidência do óbice contido na Súmula 284/STF.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AÇÃO ORDINÁRIA. AUXÍLIO-ACIDENTÁRIO. PEDIDOS PROCEDENTES. DESPROVIMENTO DO AGRAVO INTERNO.MANUTENÇÃO DA DECISÃO RECORRIDA. INCIDÊNCIA, POR ANALOGIA, DO ENUNCIADO N. 284 DA SÚMULA DO STF.
+I - Na origem, trata-se de ação ordinária em que se pleiteia a concessão de auxílio acidentário com as correções a partir do acontecimento. Na sentença, julgaram-se os pedidos parcialmente procedentes paraconceder o benefício a contar da data da decisão. No Tribunal a quo, a sentença foi reformada para o dies a quo do benefício como sendo o dia seguinte à cessação do auxílio-doença, observada a prescrição quinquenal, bem como arbitrar os honorários.Interposto recurso especial, teve seu seguimento negado. Seguiu-se por interposição de agravo. No STJ, conheceu-se do agravo para não conhecer do recurso especial.
+II - Evidencia-se a deficiência na fundamentação recursal quando o recorrente não indica qual dispositivo de lei federal teria sido violado, bem como não desenvolve argumentação a fim de demonstrar em que consiste a ofensa aos dispositivos tidos por violados.
+III - A via estreita do recurso especial exige a demonstração inequívoca da ofensa ao dispositivo mencionado nas razões do recurso, bem como a sua particularização, a fim de possibilitar exame em conjunto com o decidido nos autos, sendo certo que a falta de indicação dos dispositivos infraconstitucionais tidos como violados caracteriza deficiência de fundamentação, fazendo incidir, por analogia, o disposto no enunciado n. 284 da Súmula do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+IV - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A parte agravante repisa os mesmos argumentos já analisados na decisão recorrida.
+Evidencia-se a deficiência na fundamentação recursal quando o recorrente não indica qual dispositivo de lei federal teria sido violado, bem como não desenvolve argumentação a fim de demonstrar em que consiste a ofensa aos dispositivos tidos por violados.
+A via estreita do recurso especial exige a demonstração inequívoca da ofensa ao dispositivo mencionado nas razões do recurso, bem como a sua particularização, a fim de possibilitar exame em conjunto com o decidido nos autos, sendo certo que a falta de indicação dos dispositivos infraconstitucionais tidos como violados caracteriza deficiência de fundamentação, fazendo incidir, por analogia, o disposto no enunciado n. 284 da Súmula do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
