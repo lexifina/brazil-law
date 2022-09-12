@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/09/2022 a 12/09/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  por  ATAÍDE  MANOEL  DA  SILVEIRA  e  OUTRA  contra  a  decisão  que  conheceu  do  agravo  para  negar  provimento  ao  recurso  especial  (e-STJ  fls.  994/996).
+Nas  presentes  razões  (e-STJ  fls.  1.000/1.019),  os  agravantes  reiteram  a  alegação  de  ofensa  ao  artigo  1.022  do  Código  de  Processo  Civil  de  2015,  tendo  em  vista  que  o  tribunal  de  origem  não  se  manifestou  a  respeito  de  todos  os  preceitos  legais  deduzidos  para  amparar  a  tese  do  prazo  prescricional  para  a  ação  de  petição  de  herança,  o  qual  se  inicia  com  a  abertura  da  sucessão.
+Afirmam  que  o  aresto  proferido  na  origem,  ao  entender  que  o  prazo  prescricional  para  a  pretensão  de  petição  de  herança  se  inicia  a  partir  do  trânsito  em  julgado  da  ação  de  investigação  de  paternidade,  deu  interpretação  divergente  da  conferida  pelo  Superior  Tribunal  de  Justiça,  firmada  no  sentido  de que  tal  prazo  deve  ser  contado  a  partir  da  abertura  da  sucessão.
+Defendem  que  o  entendimento  adotado  pela  decisão  combatida  conduz  à  imprescritibilidade  da  ação  de  petição  de  herança,  o  que  não  se  coaduna  com  o  princípio  da  segurança  jurídica.
+Citam  vários  precedentes  no  sentido  pretendido.
+Sustentam  que
+"(..)  o  Agravado  provavelmente  reconhecia  a  sua  condição  de  filho  do  de  cujus  muito  antes  de  ajuizar  a  ação  de  investigação  de  paternidade,  mas  quedou-se  inerte  para  receber  o  seu  quinhão  hereditário  dentro  do  prazo  previsto  em  lei"  (e-STJ  fl.  1.017).
+Insistem  que  a  presente  ação  de  petição  de  herança  está  prescrita,  porquanto  ajuizada  40  (quarenta)  anos  após  a  abertura  da  sucessão.
+Ao  final,  requerem  a  reconsideração  da  decisão  atacada  ou  a  submissão  do  feito  ao  colegiado.
+Devidamente  intimada,  a  parte  contrária  não  apresentou  impugnação  (e-STJ  fl.  1.076).
+É  o  relatório.
+EMENTA
+AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  DIREITO  DE  FAMÍLIA.  NEGATIVA  DE  PRESTAÇÃO  JURISDICIONAL.  NÃO  OCORRÊNCIA.  PETIÇÃO  DE  HERANÇA.  TERMO  INICIAL.  TEORIA  DA  ACTIO  NATA.  AÇÃO  DE  INVESTIGAÇÃO  DE  PATERNIDADE.  TRÂNSITO  EM  JULGADO.  DATA.
+1.  Recurso  especial  interposto  contra  acórdão  publicado  na  vigência  do  Código  de  Processo  Civil  de  2015  (Enunciados  Administrativos  nºs  2  e  3/STJ).
+2.  Discute-se  nos  autos  o  termo  inicial  para  a  ação  de  petição  de  herança  no  caso  de  reconhecimento  de  paternidade  post  mortem.
+3.  Não  viola  o  artigo  1.022  do  Código  de  Processo  Civil  de  2015  nem  importa  em  omissão  a  decisão  que  adota,  para  a  resolução  da  causa,  fundamentação  suficiente,  porém  diversa  da  pretendida  pelo  recorrente.
+4.  O  termo  inicial  para  o  ajuizamento  da  ação  de  petição  de  herança  é  a  data  do  trânsito  em  julgado  da  ação  de  investigação  de  paternidade.  Precedentes.
+5.  Agravo  interno  não  provido.
+VOTO
+O  acórdão  impugnado  pelo  recurso  especial  foi  publicado  na  vigência  do  Código  de  Processo  Civil  de  2015  (Enunciados  Administrativos  nºs  2  e  3/STJ).
+A  irresignação  não  merece  prosperar.
+No  tocante  à  alegada  violação  do  art.  1.022  do  CPC/2015,  a  decisão  recorrida indicou  adequadamente  os  motivos  que  lhe  formaram  o  convencimento,  analisando  de  forma  clara,  precisa  e  completa  as  questões  relevantes  do  processo  e  solucionando  a  controvérsia  com  a  aplicação  do  direito  que  entendeu  cabível  à  hipótese.  Não  há  falar,  portanto,  em  prestação  jurisdicional  lacunosa  ou  deficitária  apenas  pelo  fato  de  o  acórdão  recorrido  ter  decidido  em  sentido  contrário  à  pretensão  dos  recorrentes.
+Relativamente  à  assertiva  de  prescrição  da  petição  de  herança,  o  tribunal  de  origem  entendeu  que
+"(..)
+É  incontroverso  que  a  petição  de  herança  submete-se  a  prazo  prescricional,  diferentemente  da  ação  de  investigação  de  paternidade,  a  qual  é  imprescritível.  Consoante  a  Súmula  149  do  STF:  "é  imprescritível  a  ação  de  investigação  de  paternidade,  mas  não  o  é  a  de  petição  de  herança."
+  A  contenda  reside,  então,  no  termo  inicial  da  contagem  da  prescrição.
+Os  agravantes  afirmam  que  o  referido  prazo  conta-se  a  partir  da  abertura  da  sucessão  -  que  se  deu  na  data  de  28/6/1976,  com  o  falecimento  do  autor  da  herança,  conforme  fl.  7  dos  autos  n.  0062366-46.2012.8.24.0023.  Por  sua  vez,  a  decisão  recorrida  considerou  que  se  inicia  tal  transcurso  temporal  no  momento  em  que  há  o  trânsito  em  julgado  da  ação  de  investigação  de  paternidade  -  o  que  ocorreu,  in  casu,  em  27/8/2015,  consoante  fl.  139  dos  autos  n.  0062366-46.2012.8.24.002.
+(..)  entendo  que  o  início  da  contagem  do  prazo  prescricional  dá-se  a  partir  do  momento  em  que  se  declara  judicialmente  a  paternidade,  pois  aí  se  dá  a  constituição  jurídica  da  condição  de  filiação,  tendo  origem,  somente  aí,  a  pretensão  de  reivindicar  direitos  sucessórios.  Ora,  não  há  a  menor  possibilidade  de  uma  pessoa  formular  a  petição  de  herança  antes  do  reconhecimento  da  relação  de  parentesco,  de  modo  que  sequer  poderia  exercer  essa  pretensão  antes  do  referido  marco  histórico.
+(..)
+Volvendo  ao  caso  concreto,  como  a  ação  de  investigação  de  paternidade  aforada  pelo  agravado  transitou  em  julgado  somente  em  27/8/2015  (fl.  139  daqueles  autos)  e  a  ação  de  petição  de  herança  foi  proposta  em  6/6/2016,  em  intervalo  inferior  a  um  ano,  não  se  consumou  a  prescrição  decenal,  nos  termos  do  art.  205,  caput,  do  CC.  Logo,  não  vejo  como  acolher  o  alegado  pelos  recorrentes"  (e-STJ  fls.  431/433).
+Assim  como  posto  na  decisão  agravada,  tal  posicionamento  está  em  consonância  com  a  jurisprudência  desta  Corte,  firmada  no  sentido  de  que  antes  do  conhecimento  da  lesão  ao  direito  subjetivo  pelo  seu  titular,  não  se  pode  considerar  iniciado  o  cômputo  do  prazo  prescricional,  ou  seja,  no  caso,  "o  termo  inicial  para  o  ajuizamento  da  ação  de  petição  de  herança  é  a  data  do  trânsito  em  julgado  da  ação  de  investigação  de  paternidade"  (REsp  nº  1.475.759/DF,  Terceira  Turma,  Rel.  Ministro  João  Otávio  de  Noronha,  DJe  de  20/5/2016).
+A  propósito:
+"RECURSO  ESPECIAL.  CIVIL.  DIREITO  DAS  SUCESSÕES.  AÇÃO  DE  PETIÇÃO  DE  HERANÇA.  FILIAÇÃO  RECONHECIDA  E  DECLARADA  APÓS  A  MORTE  DO  AUTOR  DA  HERANÇA.  TERMO  INICIAL.  TEORIA  DA  "ACTIO  NATA".  DATA  DO  TRÂNSITO  EM  JULGADO  DA  AÇÃO  DE  INVESTIGAÇÃO  DE  PATERNIDADE.
+1.  Controvérsia  doutrinária  acerca  da  prescritibilidade  da  pretensão  de  petição  de  herança  que  restou  superada  na  jurisprudência  com  a  edição  pelo  STF  da  Súmula  n.º  149:  "É  imprescritível  a  ação  de  investigação  de  paternidade,  mas  não  o  é  a  de  petição  de  herança".
+2.  Ausência  de  previsão,  tanto  no  Código  Civil  de  2002,  como  no  Código  Civil  de  1916,  de  prazo  prescricional  específico  para  o  ajuizamento  da  ação  de  petição  de  herança,  sujeitando-se,  portanto,  ao  prazo  geral  de  prescrição  previsto  em  cada  codificação  civil:  vinte  anos  e  dez  anos,  respectivamente,  conforme  previsto  no  art.  177  do  CC/16  e  no  art.  205  do  CC/2002.
+3.  Nas  hipóteses  de  reconhecimento  "post  mortem"  da  paternidade,  o  prazo  para  o  herdeiro  preterido  buscar  a  nulidade  da  partilha  e  reivindicar  a  sua  parte  na  herança  só  se  inicia  a  partir  do  trânsito  em  julgado  da  ação  de  investigação  de  paternidade,  quando  resta  confirmada  a  sua  condição  de  herdeiro.  Precedentes  específicos  desta  Terceira  do  STJ.
+4.  Superação  do  entendimento  do  Supremo  Tribunal  Federal,  firmado  quando  ainda  detinha  competência  para  o  julgamento  de  matérias  infraconstitucionais,  no  sentido  de  que  o  prazo  prescricional  da  ação  de  petição  de  herança  corria  da  abertura  da  sucessão  do  pretendido  pai,  seguindo  a  exegese  do  art.  1.572  do  Código  Civil  de  1916.  5.  Aplicação  da  teoria  da  "actio  nata".  Precedentes.
+6.  RECURSO  ESPECIAL  DESPROVIDO"  (REsp  1.368.677/MG,  Rel.  Ministro  PAULO  DE  TARSO  SANSEVERINO,  TERCEIRA  TURMA,  julgado  em  5/12/2017,  DJe  15/2/2018).
+"RECURSO  ESPECIAL.  SUCESSÃO.  INVENTÁRIO.  INVESTIGAÇÃO  DE  PATERNIDADE.  RECONHECIMENTO  POST  MORTEM.  PETIÇÃO  DE  HERANÇA.  PRESCRIÇÃO.  ART.  205  DO  CÓDIGO  CIVIL  DE  2002.  TERMO  INICIAL.  TRÂNSITO  EM  JULGADO.  TEORIA  DA  ACTIO  NATA.
+1.  Recurso  especial  interposto  contra  acórdão  publicado  na  vigência  do  Código  de  Processo  Civil  de  2015  (Enunciados  Administrativos  nºs  2  e  3/STJ).
+2.  A  pretensão  dos  efeitos  sucessórios  por  herdeiro  desconhecido  é  prescritível  (art.  205  do  CC/2002).
+3.  O  termo  inicial  para  o  ajuizamento  da  ação  de  petição  de  herança  é  a  data  do  trânsito  em  julgado  da  ação  de  investigação  de  paternidade,  à  luz  da  teoria  da  actio  nata.
+4.  Recurso  especial  provido"  (REsp  1.762.852/SP,  Rel.  Ministro  RICARDO  VILLAS  BÔAS  CUEVA,  TERCEIRA  TURMA,  julgado  em  18/5/2021,  DJe  25/  5/2021).
+Ante  o  exposto,  nego  provimento  ao  agravo  interno.
+É  o  voto.
