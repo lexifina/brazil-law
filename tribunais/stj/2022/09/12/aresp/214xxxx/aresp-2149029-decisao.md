@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo interposto por HOSP SERV PARTICIPAÇÕES SOCIETÁRIAS LTDA., contra decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, insurge-se contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"AGRAVO DE INSTRUMENTO - MANDATO - AÇÃO DE ARBITRAMENTO DE HONORÁRIOS ADVOCATÍCIOS ALEGAÇÃO DE PRESCRIÇÃO AFASTADA INTERRUPÇÃO DO PRAZO PRESCRICIONAL QUANDO DA CITAÇÃO NOS AUTOS DA EXECUÇÃO DECISÃO MANTIDA RECURSO DESPROVIDO" (fl. 69 e-STJ).
+Os embargos de declaração opostos foram rejeitados (fls. 79-82 e-STJ).
+No recurso especial (fls. 84-101 e-STJ), oagravante aponta, além de divergência jurisprudencial, a violação dos artigos206, § 5º, II do Código Civil e25, II e V, da Le. n.8.906/1994.
+Sustenta a ocorrência da prescição ao argumento de que"ação foi ajuizada em 18/02/2020, sendo que as ações de cobrança e embargos à execução que fundamentam o direito vindicado pelo recorrido transitaram em julgado em 23/10/2009 e 12/10/2002" (fl. 87 e-STJ).
+Afirma que o contrato de honorários, fraudado pela parte contrária, previa em sua cláusula segunda "o pagamento de honorários logo após o trânsito em julgado e sem a vinculação com o recebimento das quantias pelo cliente (precatório)" (fl. 88 e-STJ), o que evidencia a prescrição da pretensão.
+Com as contrarrazões (fls. 130-136 e-STJ), foi negado seguimento ao recurso especial, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A insurgência não merece prosperar.
+"(..)
+O agravado ajuizou esta ação de arbitramento de honorários advocatícios em razão dos serviços prestados em favor da agravante em ação de cobrança de duplicatas mercantis (processo nº 0008449-27.1999.8.26.0019) e nos respectivos autos dos embargos à execução (nº 0015742-62.2010.8.26.0019), alegando ter proporcionado o ganho da causa e a expedição de precatório judicial contra a Prefeitura doMunicípio de Americana-SP no montante de R$1.355.769,27.
+Em 02/12/2015, o autor ajuizou uma execução de títuloextrajudicial em face da Ré, (processo nº 1123512-72.2015.8.26.0100)pleiteando o pagamento de honorários advocatícios contratuais em virtude da sua atuação nos autos da ação de cobrança nº 0008449-27.1999.8.26.0019.
+Opostos embargos à execução ajuizada pelo autor, elesforam julgados procedentes para declarar inexigível o título objeto da ação de execução (fls. 3630/3434) e a execução foi extinta por indeferimento da inicial (fls. 3628/3629).
+A r. decisão agravada foi proferida nos seguintes termos:
+"Conforme se verifica, trata-se de ação de arbitramento de honoráriosadvocatícios. Desde já afasto a alegada prescrição, em razão dainterrupção do prazo, quando da citação nos autos da execução, ocorridaem 2016. No mais, as demais questões de mérito serão oportunamenteanalisadas, e dando regular andamento ao feito, determino a realizaçãode prova pericial (..) Pois bem, afasto a prescrição arguida, pois a presente ação não tem por fundamento o contrato de honorários outroradeclarado falso nos autos da ação de execução anterior.". Sic
+Nos termos do artigo 206, §5º, inciso II, do Código Civil, a pretensão do advogado pelos seus honorários prescreve em 05 anos,contado o prazo da conclusão dos serviços, da cessação dos respectivoscontratos ou mandato.
+In casu,esta demanda de arbitramento de honorários foiajuizadaem18/02/2020e, emboraa açãode cobrançanº 0008449-27.1999.8.26.0019e os embargosà execuçãonº 0015742-62.2010.8.26.0019, tenham transitado em julgado em 23/10/2009 e 12/10/2013, respectivamente, e o mandado tenha sido rescindido em10/06/2014, a prescrição não se efetivou dada a interrupção ocorrida dianteda propositura da "execução de título extrajudicial" pelo autor em02/12/2015, que teve seu trânsito em julgado na data de 09/02/2021 (fls.2238). Como o ajuizamento da fluente demanda se deu na data de 18/02/2020, torna-se incabível o reconhecimento da prescrição.
+Ademais,irrelevante para o cômputo do prazo prescricional que a execução tenha sido extinta por indeferimento da petição inicial, por falsidade do título executivo, se ela deveria ter sido extinta por prescrição da pretensão executiva ou, ainda, a natureza distinta da ação de conhecimento e da ação executiva, pois nos termos do artigo 202 do Código Civil, a interrupção da prescrição ocorrerá por despacho do juiz que ordenar a citação, não fazendo o mencionado dispositivo legal qualquer ressaltava quanto ao motivo da extinção da ação precedente.
+Ainda que na execução de título extrajudicial não tenhaconstadoexpressamenteo númerodosembargosà execução0015742-62.2010.8.26.0019, constou expressamente a data do trânsito emjulgado dos embargos do devedor, 12/10/2013, após o qual houve a expedição de precatório judicial em favor da executada no valor de R$1.355.769,27, para 30/11/2010, sendo a citação na referida ação de execuçãosuficiente para interromper a prescrição no caso fluente, inexistindo qualquercontradição na decisão embargada.
+(..)
+Assim, por qualquer ângulo que se analise a questão aquiposta, impossível outro deslinde ao caso, sendo de rigor a manutenção da r. decisão agravada, sem que com isso reputem-se violados dispositivos legaisou constitucionais" (fls. 70-72e-STJ).
+Nesse contexto, o acolhimento da pretensão recursal demandaria o revolvimento do acervo fático-probatório dos autos, inclusive do contrato em discussão, o que se mostra inviável ante a natureza excepcional da via eleita, conforme dispõem os enunciados das Súmulas nº 5 e 7 deste Superior Tribunal.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
+Publique-se.
