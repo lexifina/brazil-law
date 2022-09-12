@@ -1,0 +1,38 @@
+DECISÃO
+Cuida-se de recurso especial interposto por SUZE TEIXEIRA GOMES E OUTROS, fundamentado na alínea "a" do permissivo constitucional.
+Recurso especial interposto em: 20/09/2021.
+Concluso ao gabinete em: 15/08/2022.
+Ação: revisional de contrato bancário, movida por NELSON RAMOS DE OLIVEIRA FILHO, PAULO SÉRGIO GOMES, SUZE TEIXEIRA GOMES, ANDRÉA PINHEIRO GONÇALVES JANKI, ADRIANO PINHEIRO GONÇALVES e LEONILDA PEREIRA GOMES em face de ITAÚ UNIBANCO S/A.
+Sentença: julgou parcialmente procedente a pretensão autoral.
+Acórdão: deu parcial provimento às apelações dos recorrentes e do recorrido, nos termos da seguinte ementa:
+AÇÃO DE REVISÃO DE CONTRATO. CONTRATO DE ABERTURA DECRÉDITO EM CONTA CORRENTE. 1. LEGITIMIDADE ATIVA. CONFIGURAÇÃO. EMPRESA EXTINTA. AUSÊNCIA DEPERSONALIDADE JURÍDICA. LEGITIMIDADE DO EX-SÓCIO. 2. REPETIÇÃO DO INDÉBITO. ATUALIZAÇÃO PELA TAXA SELIC. ADMISSIBILIDADE.3. CAPITALIZAÇÃO DE JUROS. CONSTATAÇÃOPELA PROVA PERICIAL. AUSÊNCIA DE PACTUAÇÃO QUE IMPEDE ACOBRANÇA DE JUROS CAPITALIZADOS EM QUALQUERPERIODICIDADE. 4. TARIFAS BANCÁRIAS E DEMAISLANÇAMENTOS A DÉBITO(51, 60, 63, 64, 65, 68, 71, 78, 79, 80 e 97). POSSIBILIDADE DE COBRANÇA. 5. LANÇAMENTO SOB O CÓDIGO62 - "NHOC". COBRANÇA EM DUPLICIDADE. ILEGALIDADE. 6. RESTITUIÇÃO EM DOBRO. LANÇAMENTO SOB O CÓDIGO 62 -"NHOC". POSSIBILIDADE. MÁ-FÉ DEMONSTRADA.7. JUROSREMUNERATÓRIOS. INEXISTÊNCIA DE ABUSIVIDADE. LIMITAÇÃO. IMPOSSIBILIDADE. MANUTENÇÃO DAS TAXAS PRATICADAS.8. AUSÊNCIA DE EXIBIÇÃO DE EXTRATOS DE TODO PERÍODO. INCIDÊNCIA DO ARTIGO ART. 400 CPC. POSSIBILIDADE. PRESUNÇÃO RELATIVA QUE NÃO DISPENSA A PROVA DOS FATOSCONSTITUTIVOS DO DIREITO DA PARTE. 9. REDISTRIBUIÇÃO DOÔNUS DA SUCUMBÊNCIA.1. Uma vez extinta a pessoa jurídica, essa não ostenta mais personalidade jurídica, de forma que para demandar em juízo deve ser representada por qualquer um de seus ex-sócios. (e-STJ fls. 4017-4041)
+Embargos de Declaração: opostos pelos recorrentes, foram rejeitados.
+Recurso especial: alega violação aos art. 406do CC, art.161, §1º, do CTN e art. 1º da Lei nº 6.899/81, art. 489, §1º, VI, do CPC, arts. 39, III e V, parágrafo único, 6º, III e VIII, 46, 47 e 52 do CDC.Além da negativa de prestação jurisdicional, insurge-se contra a aplicação da taxa SELIC como fator de correção monetária e juros de mora. Requer o afastamento de valores não contratados. Pleiteia, quando às taxas,tarifas ejuros remuneratórios, o entendimento firmado em Repetitivos/STJ.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação ao art. 489 do CPC/2015
+Devidamente analisadas e discutidas as questões de mérito, e fundamentado suficientemente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/2015.
+- Da Súmula 568/STJ
+O julgado está de acordo com o entendimento desta Corte, no sentido de que a taxa de juros de mora a que se refere o art. 406 do CC é a SELIC (AgInt no REsp 1933103/RJ, 3ª Turma, DJe 25/06/2021 e AgInt no REsp 1955391/MS, 4ª Turma, DJe 19/08/2022), com exceção da hipótese em que expressamente pactuado índice diverso (AgInt nos EDcl no REsp 1983934/RJ, 3ª Turma, DJe 22/06/2022).
+Incide, portanto, a Súmula 568/STJ.
+- Do reexame de fatos e provas e da interpretação de cláusulas contratuais
+Alterar o decidido no acórdão impugnado, no que tangeaos valorescobrados a título de taxas e tarifase em relação àqueles supostamente não contratados, exige o reexame de fatos e provas, bem como a interpretação de cláusulas contratuais, o que é vedado em recurso especial pelas Súmulas 5 e 7/STJ.
+Destaca-se que, acerca das taxas e tarifas relacionadas à prestação de serviço bancário, esta Corte tem entendimento no sentido de haver necessidade de pactuação expressa para a sua cobrança (AgRg no REsp 1522730/PR, 3ª Turma, DJe 27/04/2020).
+No ponto, verifica-se queo Tribunal de origem decidiu de acordo com a jurisprudência dominante, uma vez que entendeu pela anuência dos recorrentes em relação aos consectários ajustados (e-STJ fl. 4028).
+Assim, não é cabível, em sede de recurso especial, alterar o decisum, sob pena tanto de revolvimento dos fatos quanto de violação à boa-fé objetiva (AgInt no REsp 1991236/PR, 4ª Turma, DJe 26/08/2022).
+- Dos Temas 233 e 234/STJ
+No que se refere à limitação dos juros remuneratórios àtaxa média de mercado, em razão da ausência de pactuação de índice no instrumento contratual, assiste razão aos recorrentes.
+Em sede de julgamentos repetitivos, Tema 233, firmou-se a seguinte tese jurídica:
+"Nos contratos de mútuo em que a disponibilização do capital é imediata, o montante dos juros remuneratórios praticados deve ser consignado no respectivo instrumento. Ausente a fixação da taxa no contrato, o juiz deve limitar os juros à média de mercado nas operações da espécie, divulgada pelo Bacen, salvo se a taxa cobrada for mais vantajosa para o cliente."(Resp 1112879/PR, 2ª Seção, DJe 19/05/2010, Temas 233 e 234).
+Também nesse sentido, tem-se a Súmula 530/STJ, a afirmar que "nos contratos bancários, na impossibilidade de comprovar a taxa de juros efetivamente contratada - por ausência de pactuação ou pela falta de juntada do instrumento aos autos -, aplica-se a taxa média de mercado, divulgada pelo Bacen, praticada nas operações da mesma espécie, salvo se a taxa cobrada for mais vantajosa para o devedor".
+Logo, considerando que o acórdão recorrido consignoua ausência defixaçãoda taxa de juros remuneratórios (e-STJ fl. 4038), deve ser aplicado o precedente mencionando a fim de limitar os respectivos consectários legaisà média do mercado, independentemente daanálise desua abusividade.
+Forte nessas razões, CONHEÇO PARCIALMENTE do recurso especial e, com fundamento no art. 932, III, IV, "a", V, "a" do CPC/2015, bem como na Súmula 568/STJ, DOU-LHE PARCIAL PROVIMENTO para limitar o montante dos juros remuneratórios à média de mercado, divulgada pelo Bacen e praticada nas operações da espécie.
+Deixo de majorar os honorários de sucumbência recursal, uma vez que incabível na espécie.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. VIOLAÇÃO DO ART. 489 DO CPC/15. INOCORRÊNCIA. TAXA SELIC. JURISPRUDÊNCIA MAJORITÁRIA. SÚMULA 568/STJ. TAXAS E TARIFAS. PRESTAÇÃO DE SERVIÇO BANCÁRIO. TRIBUNAL DE ORIGEM ENTENDEU EXISTIR PRÉVIA PACTUAÇÃO. REEXAME DE FATOS E PROVAS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. JUROS REMUNERATÓRIOS. AUSENTE FIXAÇÃO. MÉDIA DE MERCADO. TEMAS 233 E 234/STJ. REPETITIVOS.
+1. Ação revisional de contrato bancário.
+2. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação ao art. 489 do CPC.
+3. O reexame de fatos e provas, bem como a interpretação de cláusulas contratuaisem recurso especial são inadmissíveis.
+4. "Nos contratos de mútuo em que a disponibilização do capital é imediata, o montante dos juros remuneratórios praticados deve ser consignado no respectivo instrumento. Ausente a fixação da taxa no contrato o juiz deve limitar os juros à média de mercado nas operações da espécie, divulgada pelo Bacen, salvo se a taxa cobrada for mais vantajosa para o cliente." (REsp 1112879/PR, 2ª Seção, DJe 19/05/2010, Temas 233 e 234). Aplicação da Súmula 530/STJ.
+5.Recurso especial parcialmente conhecido e, nessa extensão, parcialmente provido para limitar o montante dos juros remuneratórios à média de mercado, divulgada pelo Bacen e praticada nas operações da espécie.
