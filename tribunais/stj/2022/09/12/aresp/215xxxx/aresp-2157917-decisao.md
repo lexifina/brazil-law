@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de agravo apresentado por JULIO OKUBO JÓIAS LTDA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre apresentado, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+EMBARGOS DE DECLARAÇÃO ALEGAÇÃO DE OMISSÃO E CONTRADIÇÃO INOCORRÊNCIA AUSÊNCIA DE QUAISQUER VÍCIOS AUTORIZADORES DO RECURSO CARÁTER MANIFESTAMENTE INFRINGENTE EMBARGOS REJEITADOS.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega violação do art. 7º do CPC, no que concerne ao julgamento realizado de modo telepresencial em detrimento ao seu pedido expresso de julgamento presencial para que pudesse proferir sustentação oral, trazendo os seguintes argumentos:
+Em seus Embargos de Declaração de fls. 1-5, o Recorrente demonstrou, cabalmente, que o julgamento do recurso interposto pela Recorrida (Agravo de Instrumento), foi julgado de forma telepresencial, o que foi reconhecido pelo próprio E. Tribunal de São Paulo - vide fl. 8.
+Todavia, o Recorrente requereu que fosse julgado o recurso presencialmente (fl. 272 - fato incontroverso reconhecido pelo Acórdão recorrido), para o fim de proferir a devida sustentação oral, o que é permitido pelo art. 1º da Resolução 549/2011 (alterado pela Resolução nº 772/2017), vejamos:
+ ..
+Com esse pedido, era rigorosa a observação do teor do § 2º desse mesmo dispositivo, confira- se:
+§ 2º - Não será objeto de julgamento virtual o processo com pedido de encaminhamento ao julgamento presencial.
+Nada obstante isso, o E. Tribunal procedeu o julgamento do recurso de modo telepresencial, sem qualquer justificativa para o descumprimento do dispositivo supra.
+Ademais, não se olvida que sequer estão vigentes medidas restritivas de circulação a impedir que o julgamento fosse realizado na modalidade presencial, o que só evidência mais a violação desse norma.
+ ..
+Isso porque, ao deixar de oportunizar direito clarividente, o Recorrente foi prejudicado pelo julgamento telepresencial, visto que estava à espera da possibilidade de fazer valer o direito supra (fls.294-296)
+É, no essencial, o relatório. Decido.
+No que concerne ao recurso apresentado, o acórdão recorrido assim decidiu:
+Na hipótese dos autos, verifica-se que a embargante apresentou oposição ao julgamento virtual a fls. 272, com base no artigo 1º da Resolução nº 549/2011, alterada pela Resolução 772/2017, do Órgão Especial deste E. Tribunal.
+Em razão disso, os autos foram encaminhados à mesa (fls. 270) e houve sessão de julgamento telepresencial (fls.273/277), ou seja, não ocorreu o julgamento virtual do recurso.
+Ora, cabia à embargante se habilitar para sustentação oral na sessão de julgamento, o que não ocorreu, sendo descabida a tese de omissão ou eventual nulidade do Acórdão embargado.
+ ..
+Nota-se que a embargante busca a rediscussão da matéria, o que é inadmissível. As razões apresentadas se revestem de nítido caráter infringente, sendo incabível a pretensão de provocar uma nova manifestação da turma julgadora, já que para tal objetivo não se prestam os embargos
+(fls. 289-290).
+Aplicável, portanto, o óbice da Súmula n. 284/STF, uma vez que as razões recursais delineadas no especial estão dissociadas dos fundamentos utilizados no aresto impugnado, tendo em vista que a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, esta Corte Superior de Justiça já se manifestou na linha de que, "não atacado o fundamento do aresto recorrido, evidente deficiência nas razões do apelo nobre, o que inviabiliza a sua análise por este Sodalício, ante o óbice do Enunciado n. 284 da Súmula do Supremo Tribunal Federal". (AgRg no AREsp n. 1.200.796/PE, relator Ministro Jorge Mussi, Quinta Turma, DJe de 24/8/2018.)
+Confiram-se ainda os seguintes julgados: AgInt no REsp n. 1.811.491/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 19/11/2019; AgInt no AREsp n. 1.637.445/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 13/8/2020; AgInt no AREsp n. 1.647.046/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 27/8/2020; e AgRg nos EDcl no REsp n. 1.477.669/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 2/5/2018.
+Ademais, incidem os óbices das Súmulas n. 282/STF e 356/STF, uma vez que a questão não foi examinada pela Corte de origem, tampouco foram opostos embargos de declaração para tal fim. Dessa forma, ausente o indispensável requisito do prequestionamento.
+Nesse sentido: "O requisito do prequestionamento é indispensável, por isso que inviável a apreciação, em sede de recurso especial, de matéria sobre a qual não se pronunciou o Tribunal de origem, incidindo, por analogia, o óbice das Súmulas 282 e 356 do STF. 9. In casu, o art. 17, do Decreto 3.342/00, não foi objeto de análise pelo acórdão recorrido, nem sequer foram opostos embargos declaratórios com a finalidade de prequestioná-lo, razão pela qual impõe-se óbice instransponível ao conhecimento do recurso quanto ao aludido dispositivo". (REsp 963.528/PR, relator Ministro Luiz Fux, Corte Especial, DJe de 4/2/2010.)
+Confiram-se ainda os seguintes julgados: REsp n. 1.160.435/PE, relator Ministro Benedito Gonçalves, Corte Especial, DJe de 28/4/2011; REsp 1.730.826/MG, relator Ministro Herman Benjamin, Segunda Turma, DJe de 12/2/2019; AgInt no AREsp 1.339.926/PR, relator Ministro Raul Araújo, Quarta Turma, DJe de 15/2/2019; e AgRg no REsp 1.849.115/SC, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 23/6/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
