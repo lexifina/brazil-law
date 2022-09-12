@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/09/2022 a 12/09/2022, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Humberto Martins.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator):
+Trata-se de embargos de declaração (fls. 1.081/1.089) apresentados contra acórdão sintetizado na seguinte ementa:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. SUPOSTA OFENSA AO ART. 1.022 DO CPC/2015. INEXISTÊNCIA DE VÍCIO NO ACÓRDÃO RECORRIDO. COMPENSAÇÃO MEDIANTE ENTREGA DE DCTF. CONSTITUIÇÃO DO CRÉDITO. NÃO OCORRÊNCIA DE DECADÊNCIA. ACÓRDÃO RECORRIDO BASEADO NA EXISTÊNCIA DE DECISÃO JUDICIAL QUE ENSEJOU A SUSPENSÃO DA EXIGIBILIDADE DO CRÉDITO. QUESTÃO ATRELADA AO REEXAME DE MATÉRIA DE FATO. ÓBICE DA SÚMULA 7/STJ.
+1. Não havendo no acórdão recorrido omissão, obscuridade, contradição ou erro material, não fica caracterizada ofensa ao art. 1.022 do CPC/2015.
+2. "A entrega de declaração pelo contribuinte reconhecendo débito fiscal constitui o crédito tributário, dispensada qualquer outra providência por parte do fisco" (Súmula 436/STJ). Acrescente-se que, na hipótese, não há falar em necessidade de oportunizar ao contribuinte o exercício do direito de defesa na via administrativa para fins de inscrição em dívida ativa e respectiva cobrança judicial, tendo em vista que a pretensão de compensação (com créditos de terceiro) amparou-se em provimento liminar concedido na via judicial, posteriormente cassado (AgRg no REsp 1.419.553/AL, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe 03/03/2015).
+3. O Tribunal de origem demonstrou adequadamente que o período anterior a novembro/2009 não pode ser computado para fins de prescrição, tendo em vista a existência de decisão judicial determinando a suspensão da exigibilidade do crédito. Por outro lado, não é possível o reconhecimento da prescrição com base em premissas fáticas diversas, tendo em vista o óbice da Súmula 7/STJ.
+4. Agravo interno provido, a fim de que o recurso especial seja parcialmente conhecido e não provido (na parte conhecida).
+A embargante sustenta, em suma, que:
+Neste ponto, portanto, há que se dizer que o acórdão se encontra omisso, pois deixou de considerar para a análise recursal que as DCTF"s foram apresentadas antes de 31.10.2013, e que em razão deste recorte temporal é de exigência o lançamento de ofício para a cobrança da diferença dos débitos apurados em DCTF decorrente de compensação indevida.
+Não menos importante, convém evidenciar ainda que se demonstra contradito o acórdão embargado quando se refere a incidência da Súmula nº 7 deste Excelso Tribunal em relação a necessidade de análise de premissas diversas da apontada no acórdão recorrido.
+Diz-se por contradito, pois em todas as etapas do processo houve exaustiva análise da situação fática e probatória do feito, e se está aqui discutindo é a aplicação da definição jurídica pelo Tribunal de origem, pois há de ser observado que as DCTF"s foram transmitidas antes de 31.10.2013, sendo necessário o lançamento de ofício para a cobrança da diferença dos débitos apurados em DCTF decorrente de compensação indevida, conforme leciona ESTA CORTE.
+A discussão do Recurso Especial em análise é a solução jurídica aplicada ao litígio que entende a Embargante que não foi a adequada, pois diverge do posicionamento jurisprudencial majoritário desta corte, e independente de qualquer alegação, repisa-se, os fatos aqui são incontroversos e não necessitam de reanálise de provas, restando contradito aqui a aplicação da súmula nº 7/STJ ante a já exaustiva análise fática do acórdão da origem.
+Requer sejam acolhidos os embargos.
+O embargado pugna pela rejeição do recurso.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO. AUSÊNCIA DE OMISSÃO, OBSCURIDADE, CONTRADIÇÃO OU ERRO MATERIAL. EMBARGOS REJEITADOS.
+1. Não havendo omissão, obscuridade, contradição ou erro material, merecem ser rejeitados os embargos de declaração opostos, sobretudo quando contêm elementos meramente impugnativos.
+2. Embargos de declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator):
+O recurso não merece prosperar.
+Constou do acórdão embargado que:
+Inicialmente, impõe-se reconhecer que a decisão ora agravada, ao decretar a decadência, deixou de observar precedentes desta Segunda Turma/STJ.
+Isso porque é incontroverso que a pretensão de compensação foi exercida mediante a entrega da Declaração de Débitos e Créditos Tributários Federais (DCTF), sendo que "Weg Motores Ltda. e Weg Química Ltda. pretendiam utilizar créditos pertencentes a Usina Caeté S/A, decorrentes de créditos presumidos de IPI". Embora houvesse medida judicial favorecendo a Usina Caeté - "mantendo a higidez das compensações realizadas por ordem judicial" (fl. 811) -, houve reforma dessa decisão no âmbito do Tribunal de segundo grau.
+Nesse contexto, conforme orientação pacífica das Turmas que integram a Primeira Seção desta Corte, a entrega da Declaração de Débitos e Créditos Tributários Federais (DCTF), entre outros, é modo de constituição do crédito tributário, dispensando a Fazenda Pública de outra providência relativa à formalização do valor declarado pelo contribuinte (AgRg no REsp 1554682/AL, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 27/10/2015, DJe 13/11/2015). Essa orientação foi consolidada na Súmula 436/STJ: "A entrega de declaração pelo contribuinte reconhecendo débito fiscal constitui o crédito tributário, dispensada qualquer outra providência por parte do fisco."
+Acrescente-se que, na hipótese, não há falar em necessidade de oportunizar ao contribuinte o exercício do direito de defesa na via administrativa para fins de inscrição em dívida ativa e respectiva cobrança judicial, tendo em vista que a pretensão de compensação (com créditos de terceiro) amparou-se em provimento liminar concedido na via judicial, posteriormente cassado (AgRg no REsp 1.419.553/AL, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe 03/03/2015).
+No que concerne à prescrição, a decisão ora agravada baseia-se no somatório do período compreendido entre março/2003 e março/2005, e entre novembro/2009 e junho/2013, afirmando que foi ultrapassado o prazo de cinco anos para fins de cobrança.
+Não obstante, constou expressamente do acórdão recorrido que "o prazo de prescrição também não estava fluindo porque a Fazenda estava impossibilitada de exercer o seu direito de cobrança por força de decisão judicial, cujos efeitos permaneceram até 2009" (fl. 812).
+É certo que nos embargos de declaração apresentados perante a Corte de Origem as ora agravadas (particulares) apontaram a ocorrência de contradição, baseada na inexistência de suspensão da exigibilidade do crédito no período compreendido entre abril/2005 e outubro/2008.
+No entanto, ao apreciar esses embargos, o Tribunal de origem demonstrou adequadamente a não ocorrência de vício, esclarecendo que a alegação de contradição contraria a "análise do conteúdo do AGTR 60.263/AL", porquanto decisão proferida naqueles autos "suspendeu os efeitos do trânsito em julgado do MS 2000.80.00.004830-0 até a decisão publicada em 06/11/2009", de modo que "até 06/11/2009 o crédito tributário confessado em DCTF estava com a exigibilidade suspensa", razão pela qual "não se poderia falar em decurso de prazo prescricional para a sua cobrança" (fl. 847).
+Assim, é imperioso concluir que até novembro/2009 existia óbice à exigibilidade do crédito, razão pela qual o período anterior não podia ser computado para fins de prescrição.
+Por outro lado, não é possível o reconhecimento da prescrição com base em premissas fáticas diversas, tendo em vista o óbice da Súmula 7/STJ.
+Registro que o pronunciamento expresso e adequado do Tribunal de origem acerca da questão implica a não ocorrência de afronta ao art. 1.022 do CPC/2015, conforme constou da decisão ora agravada.
+Como se verifica, o acórdão embargado contém fundamentação suficiente para demonstrar que não ocorreu nem a decadência nem a prescrição.
+Desse modo, a questão foi apreciada de modo adequado, e o mero inconformismo com a conclusão do julgado não enseja a utilização da via de embargos de declaração, que é limitada às hipóteses elencadas no art. 1.022 do CPC/2015.
+Ressalte-se que não compete ao Superior Tribunal de Justiça, em sede de recurso especial, analisar eventual contrariedade a preceito contido na CF/88, nem tampouco uniformizar a interpretação de matéria constitucional, ainda que para fins de prequestionamento.
+Assim, não havendo omissão, obscuridade, contradição ou erro material, merecem ser rejeitados os embargos de declaração opostos, sobretudo quando contêm elementos meramente impugnativos. Nesse sentido: EDcl no AgRg no Ag 1.218.989/SP, 2ª Turma, Rel. Min. Humberto Martins, DJe de 7.5.2010; EDcl no REsp 1.118.103/SP, 1ª Turma, Rel. Min. Teori Albino Zavascki, DJe de 20.4.2010.
+Diante do exposto, REJEITO os embargos de declaração.
+É o voto.
