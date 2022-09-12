@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo interposto pelaUNIMED CUIABÁ - COOPERATIVA DE TRABALHO MÉDICO, contra decisão que negou seguimento ao recurso especial. O apelo extremo, fundamentadono art. 105, inciso III, alínea"a", da Constituição Federal, insurge-se contra acórdão do Tribunal de Justiça do Estado de Mato Grosso assim ementado:
+"APELAÇÃO CÍVEL - AÇÃO DE OBRIGAÇÃO DE FAZER - PLANO DE SAÚDE - TRATAMENTO POR "HOME CARE" - NÃO FORNECIMENTO DE MEDICAÇÕES E ALGUNS INSUMOS - RECUSA INDEVIDA - DANOS MORAIS CARACTERIZADOS - VALOR PROPORCIONAL AO DANO - APELAÇÃO DESPROVIDA - PEDIDOS CONTRAPOSTOS EM CONTRARRAZÕES - NÃO CONHECIMENTO.
+"Nos termos da jurisprudência desta Corte, a recusa indevida/injustificada,pela operadora de plano de saúde, em autorizar a cobertura financeira de tratamento médico a que esteja legal ou contratualmente obrigada, enseja reparação a título de dano moral, por agravar a situação de aflição psicológica e de angústia no espírito do beneficiário. Precedentes" (STJ, AgInt no AREsp 1736327/DF, Rel. Ministro MARCOAURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 12/04/2021, DJe 15/04/2021).
+Mostrando-se proporcional o valor da indenização, principalmente quando considerado no cálculo o valor dos insumos excluídos da obrigatoriedade do fornecimento, não há que se falar em redução.
+Não se conhece dos pedidos contrapostos feitos em contrarrazões, visto deveriam ser debatidas pela via recursal própria, por meio de apelação cível ou recurso adesivo" (e-STJ fls. 545/546).
+No especial, a recorrente aponta violação dos arts.186 e 927 do Código Civil.
+Requer o afastamento da condenação por danos morais, sob a alegação de que sempre esteve a disposição para prestar o serviço já autorizado, inexistindo qualquer prejuízo a recorrida.
+Alega que ajurisprudência desta Corte Superior é no sentido de que "o mero descumprimento de cláusula contratual controvertida não enseja a condenação por dano moral".
+Apresentadas contrarrazões (fls. 585/606, e-STJ), o recurso foi inadmitido na origem. Daí o presente agravo, no qual se busca o processamento do apelo nobre.
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+Ultrapassados, os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A irresignação não merece prosperar.
+A respeito do dano moral, eis o acórdão recorrido, no que interessa à espécie:
+"Por entender que estavam presentes os requisitos, o Magistrado a quo manteve na sentença a liminar deferida, determinando que a apelante autorize a prestação dos serviços, com o custeio dos medicamentos e dos insumos inerentes ao tratamento, sendo excluído nesta instância o custeio com berço e fraldas descartáveis, bem como condenou-lhe à reparação dos danos morais suportados, o que ensejou a interposição deste recurso.
+O tema é delicado e controverso, porquanto se refere ao tratamento de saúde, cuja vulnerabilidade dos consumidores é patente, visto que ao ingressarem com medida judicial estão acometidos por doenças e sintomas que, por vezes, são graves ou de risco, assim qualquer decisão emitida pelo Judiciário causa impacto na vida desses usuários.
+Dessa forma, apesar do estado de saúde fragilizado da apelada, vislumbra-se dos autos que os serviços de home care estão sendo prestados pela apelante, incluindo-se ofornecimento da alimentação especial, dos medicamentos e do atendimento pelos profissionaisda saúde. Contudo, mesmo com o afastamento da obrigatoriedade do fornecimento das fraldas eberço, verifica-se que a apelante por vezes deixou de prestar os insumos inerentes ao tratamento.
+Denota-se dos autos que em diversos momentos ela deixou de providenciar os insumos necessários ao tratamento pela home care, a exemplo das petições acostadas nosID"s 92232033 e 92232064 que constam a reiteração do pedido de medicamentos não entregues, portanto evidenciado o ato ilícito passível de reparação.
+(..)Nesse sentido, observa-se que o Magistrado a quo ponderou a exclusão dos itens afastados por esta Corte (fraldas e berços), de modo que arbitrou os danos morais em apenas R$ 3.000,00 (três mil reais). Destarte o valor arbitrado se mostra proporcional à hipótese, portanto não pode ser reduzido"(e-STJ fls. 548/550 - grifou-se).
+Com efeito, a jurisprudência deste Superior Tribunal de Justiça estáfirmada no sentido de que a recusa indevida, pela operadora de plano de saúde, de autorizar a cobertura financeira de tratamento médico a que esteja legal ou contratualmente obrigada, enseja reparação a título de danos morais, pois agravam a situação de aflição psicológica e de angústia no espírito do beneficiário, estando caracterizado o dano moral in re ipsa.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE.ATENDIMENTO HOME CARE. NEGATIVA. ABUSIVIDADE. DOENÇA COBERTA PELO PLANO. ENTENDIMENTO EM HARMONIA COM O STJ. DANO MORAL. OCORRÊNCIA. REEXAME. SÚMULA 7/STJ. VALOR DA INDENIZAÇÃO. RAZOABILIDADE NA FIXAÇÃO. SÚMULA 7/STJ.
+1. Descabida a negativa de cobertura de procedimento indicado pelo médico como necessário para preservar a saúde e a vida do beneficiário do plano de saúde. Precedentes do STJ.
+2. A recusa indevida pela operadora do plano de saúde em autorizar a cobertura de Home Care devidamente prescrito para o tratamento de doença coberta pelo plano, configurou danos morais indenizáveis, pois "agravou a situação de aflição psicológica e de angústia no espírito da paciente de 83 (oitenta e três) anos de idade, uma vez que, ao ter negada o tratamento requerido que se revelava essencial à melhora de seu estado de saúde, já se encontrava em condição de dor, abalo e saúde debilitada."
+3. Valor indenizatório estabelecido pelo Tribunal de origem que não se mostra excessivo a justificar sua reavaliação em recurso especial.
+4. O recurso especial não comporta exame de questões que impliquem incursão no contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7 do STJ.
+5. Agravo Interno não provido" (AgInt no AREsp 1.450.491/RJ, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 08/06/2020, DJe 12/06/2020 - grifou-se).
+Ante o exposto, conheço do agravo, para negar provimento ao recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em10% sobre o proveito econômico obtido na ação, os quais deverão ser majorados para 15% em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
