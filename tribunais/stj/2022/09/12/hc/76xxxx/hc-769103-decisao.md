@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de ROBERTO FERREIRA JATOBÁ contra decisão liminar do Tribunal de Justiça do Estado de Alagoas (0806141-05.2022.8.02.0000).
+Segundo consta dos autos, o paciente teve a prisão preventiva decretada em razão da suposta prática do crime de homicídio.
+Nas razões do presente writ, a defesa alega ausência do requisito legal previsto no art. 313, I, do CPP, pois o crime seria de natureza culposa. Ressalta que a decisão contraria a jurisprudência quanto à vedação legal.
+Diante disso, pede, liminarmente e no mérito, a revogação da prisão preventiva do paciente.
+É o relatório, decido.
+O Superior Tribunal de Justiça tem jurisprudência firmada no sentido de não caber habeas corpus contra decisão que indefere liminar, a menos que fique demonstrada flagrante ilegalidade, nos termos do enunciado n. 691 da Súmula do STF, segundo o qual "não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar".
+Assim, salvo excepcionalíssima hipótese de ilegalidade manifesta, não é de se admitir casos como o dos autos. Não sendo possível a verificação, de plano, de qualquer ilegalidade na decisão recorrida, deve-se aguardar a manifestação de mérito do Tribunal de origem, sob pena de se incorrer em supressão de instância e em patente desprestígio às instâncias ordinárias.
+No caso, verifica-se que o decisum apresenta fundamentação suficiente e idônea a afastar a alegação, neste momento, de manifesta ilegalidade que justificasse a superação do enunciado sumular, notadamente se considerado o que foi enfatizado pelo Desembargador Relator, o qual, ao indeferir a liminar, aduziu o seguinte (e-SJT fls. 17/18):
+A priori, o deferimento do pedido de concessão de tutela de eficácia imediata (liminar) em habeas corpus representa medida de extrema excepcionalidade, somente admitida nas situações em que demonstrada de forma manifesta a necessidade e a urgência da ordem, bem como o abuso de poder ou a ilegalidade do ato impugnado.
+Após análise perfunctória da impetração em favor do paciente, não percebo a presença dos requisitos autorizadores do provimento emergencial. Isso porque, entendo pela necessidade de uma análise mais aprimorada da situação do paciente, só possível após o amadurecimento da instrução processual, com o fornecimento de informações por parte do magistrado de piso, bem como após o parecer opinativo da douta Procuradoria Geral de Justiça.
+Noutro giro, conforme entendimento já consolidado por este Tribunal,seguindo a jurisprudência majoritária, condições subjetivas favoráveis, por si sós, não são suficientes para a obstaculização da prisão cautelar.
+Dessa forma, de acordo com a doutrina de Julio Fabbrini Mirabete, "nada impede seja concedida liminar no processo de "habeas corpus", preventivo ou liberatório, quando houver extrema urgência". (Processo Penal, 2ª Ed, p. 696)
+No entanto, não entendo ser, o caso ora em análise, de extrema urgência.
+Outrossim, "o constrangimento não se revela de plano, impondo uma análise mais detalhada dos elementos de convicção trazidos aos autos, o que ocorrerá por ocasião do julgamento do mérito". (TJ/AL- AgRg em HCn. 0801712-26.2013.8.02.090/50000 - Relator: Des. Sebastião Costa Filho - Comarca: Maceió - Órgão julgador: Câmara Criminal - Data do julgamento: 04/09/2013 - Data de registro:06/09/2013- No mesmo sentido os julgados:080303-15.2013.8.02.0900/50000 e 080152-63.2013.8.02.0900/50000).
+Ademais, a questão posta em exame demanda averiguação mais profunda pelo Tribunal estadual, no momento adequado.
+Entendo, portanto, não ser o caso de superação do enunciado nº 691 da Súmula do Supremo Tribunal Federal.
+Ante o exposto, com fundamento no artigo 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o pedido.
+Intimem-se.
