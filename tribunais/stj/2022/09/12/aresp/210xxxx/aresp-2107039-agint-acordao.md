@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/09/2022 a 12/09/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de agravo interno interposto por BENJAMIN STEINBRUCH contra a decisão desta relatoria de fls. 679-682 (e-STJ), que conheceu do agravo para conhecer parcialmente do recurso especial, mas, na extensão conhecida, negou-lhe provimento.
+O apelo especial foi fundado nas alíneas a e c do permissivo constitucional, no qual se insurgiu contra acórdão do Tribunal de Justiça de São Paulo assim ementado (e-STJ, fl. 567):
+Responsabilidade civil, Indenização por dano moral. Publicação de notícia investigativa no periódico semanal Isto é Dinheiro, narrando o envolvimento da empresa CSN na Operação Hurricane da Polícia Federal. Autor que ocupava cargo de relevância na companhia e teve seu nome publicado na notícia. Publicação de interesse público. Citação do nome do autor em razão da grande relevância do cargo por ele ocupado na empresa. Inexistência de abuso na matéria, que apenas narra os fatos. Sentença de improcedência mantida. Recurso desprovido.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 584-587).
+No recurso especial, o recorrente apontou, além de divergência jurisprudencial, violação dos arts. 1º, III, e 5º, X, da CF/1988; 1.022 do CPC/2015; e 12, 20,21, 186, 187, 927 e 942 do CC.
+Esclareceu que se opôs ao acórdão que negou a ocorrência de danos morais, justificando que não ficou caracterizada a intenção de difamação da imagem do insurgente na publicação da matéria jornalística. Afirmou haver no julgado estadual negativa de prestação jurisdicional e omissão, embora julgados os embargos de declaração então opostos.
+Defendeu a efetiva ocorrência de extrapolação do dever de informar, causando ato ilícito e, consequentemente, danos morais. Nessa linha, pontuou que a reportagem buscava dar publicidade a uma operação sigilosa da Polícia Federal que investigava a prática de irregularidades na Companhia Siderúrgica Nacional (CSN); todavia, ao veicular as notícias sobre o fato, os agravados não se limitaram a relatar o ocorrido, imputando as condutas à empresa na qual o ora insurgente era presidente do Conselho de Administração e a ele diretamente.
+Enfatizou que o objetivo da reportagem foi claro em denegrir e manchar a imagem da empresa CSN e do ora recorrente, o que deve ser objeto de reparação ante a existência de ofensa a seu direito de personalidade. Requereu o provimento do recurso especial (e-STJ, fls. 591-609).
+Inadmitido o apelo especial, foi interposto agravo em recurso especial, o qual foi julgado monocraticamente por esta relatoria, negando-se a pretensão (e-STJ, fls. 679-682).
+Contra esse decisum protocola o insurgente agravo interno. Reforça a fundamentação do apelo especial acima sumariada. Aponta não ser caso de aplicação da Súmula 7/STJ, tendo em vista que o ato ilícito configurador de danos morais decorreria diretamente da mácula aos dispositivos supracitados.
+Menciona que é viável a esta Corte Superior a adequada qualificação jurídica do acervo fático-probatório, sendo este o caso dos autos. Pugna pelo provimento do agravo interno(e-STJ, fls. 584-700).
+Contraminuta apresentada (e-STJ, fls. 704-708).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. OMISSÃO OU NEGATIVA DE PRESTAÇÃO JURISDICIONAL INEXISTENTES. ACÓRDÃO DEVIDAMENTE FUNDAMENTADO. CONCLUSÃO NO SENTIDO DA AUSÊNCIA DE DANOS MORAIS. CARÊNCIA DE ABUSO DO DIREITO DE INFORMAR. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Não há nenhuma omissão, carência de fundamentação ou mesmo contradição a ser sanada no julgamento estadual, portanto inexistentes os requisitos para reconhecimento de ofensa ao art. 1.022 do CPC/2015.O acórdão dirimiu a controvérsia com base em fundamentação sólida, sem tais vícios, tendo apenas resolvido a celeuma em sentido contrário ao postulado pela parte insurgente.
+2.A segunda instância concluiu que não houve ofensa a direito da personalidade do insurgente. Justificou o aresto que, embora tenha existido pouca precisão técnica ao se referir ao autor, por vezes confundindo pessoa física e jurídica, a notícia apenas relatou o bloqueio judicial, sua razão e a existência de suspeitas em apuração.Destarte, firmou-se que inexistiu intenção de macular a imagem do recorrente, visto que a ele não teria sido imputada, na matéria jornalística, a prática de nenhum crime ou se beneficiado pessoalmente de alguma irregularidade.
+3.As mencionadas ponderações acerca da ausência de ato ilícito causador de danos morais foram fundadas na apreciação fático-probatória da causa, ensejando o óbice da Súmula 7/STJ, que incide sobre ambas as alíneas do permissivo constitucional.
+4. Agravo interno desprovido.
+VOTO
+Reexaminando a controvérsia, não se observam razões para o provimento deste recurso interno.
+Com efeito, não há nenhuma omissão, carência de fundamentação ou mesmo contradição a ser sanada no julgamento estadual, portanto inexistentes os requisitos para reconhecimento de ofensa ao art. 1.022 do CPC/2015.
+O acórdão dirimiu a controvérsia com base em fundamentação sólida, sem tais vícios, tendo apenas resolvido a celeuma em sentido contrário ao postulado pela parte insurgente. Ademais, o órgão julgador não está obrigado a responder a questionamentos das partes, mas tão só a declinar as razões de seu convencimento motivado, como de fato ocorreu nos autos.
+A segunda instância concluiu que não houve ofensa a direito da personalidade do insurgente. Justificou o aresto que, embora tenha existido pouca precisão técnica ao se referir ao autor, por vezes confundindo pessoa física e jurídica, a notícia apenas relatou o bloqueio judicial, sua razão e a existência de suspeitas em apuração.
+Destarte, firmou-se que inexistiu intenção de macular a imagem do recorrente, visto que a ele não teria sido imputada, na matéria jornalística, a prática de nenhum crime ou se beneficiado pessoalmente de alguma irregularidade.
+Veja-se (e-STJ, fls. 568-570):
+Incontroversa a publicação da matéria e a menção do nome do autor face à relevância do cargo por ele ocupado à época, Presidência do Conselho da Administração na Companhia Siderúrgica Nacional. No entanto, como se verá, não se vislumbra ilícito gerador do dever de indenizar. Transcreve-se, para ilustração, excertos da matéria impugnada, quando há a citação do nome do apelante, publicada na Revista IstoÉ, cuja edição de n. 503, encontra-se acostada à inicial:
+ ..
+Em resumo, a matéria narrava a ordem judicial de constrição do lucro da CSN em 2006 e as circunstancias em que se dera, traçando o histórico dos fatos com enfoque no envolvimento da companhia na chamada Operação Hurricane da Polícia Federal  que objetivava a investigação de venda de decisões judiciais a fim de beneficiar diversas empresas.
+Extrai-se do texto, na parte que interessa à lide, que, embora tenha havido pouca precisão técnica ao se referir ao autor, por vezes confundindo pessoa física e jurídica, apenas relatou o bloqueio Ia judicial, sua razão e a existência de suspeitas em apuração.
+A interpretação constante da inicial, de que o autor foi citado com a intenção de que fosse difamada sua imagem, foge do razoável, pois, da leitura de toda a matéria, não se conclui pela imputação de crime a ele ou que ele, pessoa física, tenha-se beneficiado pessoalmente.
+A sua associação à CSN deu-se, apenas, em função do cargo que, à época, ocupava. Desse modo, não se vislumbra a propalada exposição vexatória da reputação e boa fama do autor pelo réu. Como bem dito pela Juíza na sentença:
+ ..
+As ponderações acerca da ausência de ato ilícito causador de danos morais foram fundadas na apreciação fático-probatória da causa, ensejando o óbice da Súmula 7/STJ, que incide sobre ambas as alíneas do permissivo constitucional.
+Em face disso, não se observa a pretensão por mera qualificação adequada do acervo de fatos e provas, mas sim a pretensão por sua efetiva reanálise, o que é inviável em recurso especial.
+Sendo a sentença exarada anteriormente à entrada em vigordo Código de Processo Civil de 2015, não cabe a majoração dos honorários advocatícios -inaplicabilidade do art. 85 do CPC/2015.
+Ante o exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de embargos de declaração manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É o voto.
