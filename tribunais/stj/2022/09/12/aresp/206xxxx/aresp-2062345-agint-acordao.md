@@ -1,0 +1,62 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/09/2022 a 12/09/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de agravo interno interposto porLeopoldo Elizário Domingues contra decisão monocrática desta relatoria assim ementada (e-STJ, fl. 1.493):
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. DESPESAS CONDOMINIAIS. CUMPRIMENTO DE SENTENÇA. HONORÁRIOS ADVOCATÍCIOS. PEDIDO DE RESERVA. INDEFERIMENTO. EXISTÊNCIA DE OUTROS ADVOGADOS NA CAUSA. CONCLUSÕES ESTADUAIS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. INCIDÊNCIA. REVALORAÇÃO DA PROVA. AFASTAMENTO. FUNDAMENTO DO ACÓRDÃO. RAZÕES RECURSAIS DISSOCIADAS. SÚMULA 284/STF. APLICAÇÃO. INEXISTÊNCIA DE VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. DIVERGÊNCIA. JURISPRUDENCIAL PREJUDICADA. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+Os embargos de declaração opostos foram rejeitados, conforme a seguinte ementa (e-STJ, fl. 1.604):
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. INEXISTÊNCIA. EMBARGOS REJEITADOS.
+Em suas razões, a parteagravante pretende a reforma da decisão agravada.
+Para tanto, sustenta queo acórdão recorrido não analisou todos os argumentos deduzidos no processo, capazes de, em tese, infirmar a conclusão adotada.
+Além disso, não incidem no caso om óbicedas Súmulas 7/STJ e 283/STF, porque não se pretende o reexame de matéria de fato ou prova, nem se pode falar da falta de enfrentamentoda fundamentação que serviu de base para ojulgamento pela Corte local.
+Não foi apresentada impugnação(e-STJ, fls. 1.730-1.731).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. 1.AÇÃO DE COBRANÇA. CUMPRIMENTO DE SENTENÇA. HONORÁRIOS ADVOCATÍCIOS. PEDIDO DE RESERVA. INDEFERIMENTO. EXISTÊNCIA DE OUTROS ADVOGADOS NA CAUSA.REEXAME DAQUESTÃO. INVIABILIDADE. INCIDÊNCIA DASÚMULA7/STJ. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA.2.ACÓRDÃO RECORRIDO.FUNDAMENTOINATACADO. SÚMULA 283/STF.ARGUMENTAÇÃO RECURSALDISSOCIADA. SÚMULA 284/STF.3.DIVERGÊNCIA JURISPRUDENCIALPREJUDICADA.4.RAZÕES RECURSAIS INSUFICIENTES. 5. AGRAVO IMPROVIDO.
+1. Modificar o entendimento do Tribunal local (sobre o efetivo trabalho desempenhado pelo agravante, o acordo feito pelas partes e a presença de outros advogados que atuaram no feito)demanda reexame de matéria fático-probatória e de cláusulas contratuais, o que é inviável devido ao óbice daSúmula 7/STJ, não sendo também o caso de revaloração das provas.
+1.1.Não ficou configurada a violação aos arts. 489 e 1.022 do CPC/2015, uma vez que a Corte de origem se manifestou de forma fundamentada sobre todas as questões que entendeu necessárias para o deslinde da controvérsia. O simples inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2.O entendimento deste Tribunal Superior é firme no sentido de que, havendo fundamento do acórdão recorrido que não foi atacado e estando as razões recursais dissociadas dos fundamentos do acórdão recorrido, evidencia-se a deficiência na fundamentação, a atrair a incidência das Súmulas 283 e 284/STF.
+3.Nos termos da jurisprudência desta Corte, "a incidência da Súmula 7 do STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte"(AgInt no AREsp 1.861.293/RS, Ministra Nancy Andrighi, DJe de 22/9/2021).
+4.Razões recursais insuficientes para a revisão do julgado.
+5. Agravo interno a que se nega provimento.
+VOTO
+O recurso não comporta provimento.
+Preliminarmente, cabe esclarecer que os embargos de declaração se revestem de índole particular e fundamentação vinculada, cujo objetivo é o esclarecimento do verdadeiro sentido de uma decisão eivada de obscuridade, contradição, omissão ou erro material (art. 1.022 do CPC/2015), não possuindo natureza de efeito modificativo.
+Outrossim, a jurisprudência desta Corte é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+No caso, cumpre reiterar que o acórdão recorrido apreciou fundamentadamente a controvérsia dos autos, decidindo apenas de forma contrária à pretensão da parte recorrente.
+Ao analisar a situação jurídica dos autos, o Tribunal local consignou os seguintes fundamentos(e-STJ, fls. 701-703):
+Sustenta o agravante que a presente trata de cumprimento de sentença em ação de cobrança de condomínio, onde patrocinava os interesses da parte efoi destituído imotivadamente, razão pela qual requereu ao Juízo a quo que lhe fosse preservada, na íntegra, toda a verba sucumbencial arbitrada neste feito nos termos do art. 22, 23 e 24 da Lei 8.906/94, mantendo-se o seu nome nas intimações, agora em causa própria, assegurando-se a prioridade legal no recebimento, dado o caráter alimentar da verba.
+Salienta o agravante que os honorários sucumbenciais são direitos garantidos ao advogado nos termos do Estatuto da Advocacia, o qual persiste, no curso do processo, ainda que haja desconstituição do advogado, hipótese em que serão devidos os honorários ao tempo da prestação de serviço, que, no caso, é exclusiva do advogado requerente, razão pela qual entende ser plenamente possível a sua manutenção em causa próprio nestes autos.
+Assevera que a prestação de serviço profissional assegura ao advogado o direito aos honorários de sucumbência, que, por serem resultantes de título judicial, constituem direito autônomo do patrono da ação, cabendo-lhe, inclusive, a iniciativa da execução do crédito, e que o acordo celebrado entre as partes sem aquiescência do advogado não lhe prejudica a percepção dos honorários concedidos por sentença.
+Aduz que a execução nos autos principais é possibilidade decorrente do entendimento da Primeira Seção do Superior Tribunal de Justiça, no julgamento do REsp n. 1.347.736/RS, submetido ao regime de recursos repetitivos, que decidiu pela autonomia dos honorários em relação ao crédito principal, de Relatoria do Ministro CASTRO MEIRA em 15.04.14.
+Anota que a verba de sucumbência possui caráter privilegiado, dado o caráter alimentar (artigo 85 §14 do Código de Processo Civil), equiparando-se ao trabalhista, e prefere a qualquer outro, inclusive tributário e condominial.
+(..)
+O recurso não comporta provimento. Com efeito, pretende o advogado, ora agravante, destituído do feito, a preservação, na íntegra, de toda a verba sucumbencial até 25/07/2019, na fase de cumprimento de sentença.
+Não obstante os argumentos expostos, não há razão para o inconformismo recursal, pois que restou verificado que as partes lograram realizar acordo em 04/12/2019, pondo fim ao processo. Portanto, deverá o advogado buscar seus direitos em meios apropriados.
+Demais, não é o agravante o único advogado que atuou no feito, não podendo retirar toda a verba honorária, em detrimento dos demais, sob pena de locupletamento indevido.
+Quando do julgamento dos embargos de declaração interpostos, a Corte local assim se manifestou (e-STJ, fls. 781-782):
+Não há omissão, contradição ou obscuridade no acórdão embargado, nos termos do art. 1022 do Código de Processo Civil.
+O embargante insurgiu-se contra a decisão de origem que indeferiu pedido de preservação de honorários advocatícios.
+Conforme constou do acórdão embargado, não obstante os argumentos expostos pela parte embargante, não há razão para o inconformismo recursal, pois que restou verificado que as partes lograram realizar acordo em 04/12/2019, pondo fim ao processo. Portanto, deverá o advogado buscar seus direitos em meiosapropriados.
+Além disso, foi verificado que o embargante não é o único advogado que atuou no feito, não podendo, assim, retirar toda a verbahonorária, em detrimento dos demais, sob pena de locupletamento indevido, como se salientou no acórdão embargado.
+Aliás, não era caso de se determinar a instauração de IRDR, nos termos do art. 926 caput e §§ Código de Processo Civil, pois que não se cuida de uniformizar a jurisprudência deste Tribunal, mas sim, de entendimento a ser aplicado ao caso concreto, pelas suas circunstâncias.
+Em verdade, procura o embargante rediscutir a justiça da decisão, o que não se afigura devido na presente via.
+Assim sendo, conforme consignado na decisão agravada,aalegação de violação aos arts. 489 e1.022 do CPC/2015 não se sustenta, uma vezque o Tribunal estadual examinou, de forma fundamentada, asquestões submetidas à apreciação judicial na medida necessária para odeslinde da controvérsia, ainda que contrariamente à pretensão dorecorrente.
+Essa é a conclusão que se extrai dos trechos do acórdão recorrido acima transcritos.
+A decisão da Corte local dirimiu a controvérsia com base em fundamentação sólida,tendo apenas resolvido a demanda em sentido contrário ao postulado pela parte insurgente.
+Ademais, o órgão julgador não está obrigado a responder a todas as questões suscitadas pela parte, mas tão só a declinar as razões de seu convencimento motivado, como ocorreu nos autos, notadamente quando já encontrou fundamento suficiente para proferir a decisão.
+Além disso, a decisão agravada também aduziu quea alteração do entendimento do Tribunal localsobreo efetivo trabalho desempenhado, o acordo feito pelas partes e a presença de outros advogados que atuaram no feito,demandaria o reexame do acervo fático-probatório, o que não é possível nesta esfera recursal em virtude do disposto naSúmula7/STJ.
+Reitere-se não ser caso de revaloração da prova.
+No caso, nota-se que oagravante almeja, em verdade, a revisão da conclusão a que chegou a Corte de origem a respeito da inviabilidade da reserva dos honorários nos autos.
+Portanto, não é possível o acolhimento do recurso com a simples revaloração de fatos, mas, diferentemente, seria necessário o revolvimento do conjunto probatório, medida obstada pelaSúmula7/STJ.
+Consoante se depreende do acórdão recorrido, a Corte local aduziu, expressamente,que o agravante não era"o único advogado que atuou no feito, não podendo retirar toda a verba honorária, em detrimento dos demais, sob pena de locupletamento indevido" (e-STJ, fl. 703).
+Todavia, repita-se, analisando os argumentos expostos nas razões do recurso especial, constata-se que o recorrente deixou de impugnar todos os fundamentos mencionados pelo acórdão recorrido, situação que impede o prosseguimento do recurso excepcional.
+De fato, o ora agravante dirigiu suas razões recursais, em suma, no sentido da falta de fundamentação e de prestação jurisdicional do acórdão, da omissão quanto à suscitação de incidente de resolução de demandas repetitivas, de se tratar de verba de natureza alimentar, da possibilidade de cobrança nos próprios autos e da existência de dissídio jurisprudencial.
+Assim, a subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado impõe o não conhecimento da pretensão recursal, conforme o entendimento disposto na Súmula 283/STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+Diante dos fundamentos do acórdão recorrido acima referidos, verifica-se, ainda, que o argumento recursal pertinente aos temas está dissociado do que foi decidido pelo Tribunal estadual, evidenciando a deficiência de fundamentação, a ensejar a aplicação do enunciado n. 284 da Súmula do Supremo Tribunal Federal.
+Cabe reiterar, também, que, em virtude da incidência dos referidos óbices sumulares, fica prejudicada a análise da divergência jurisprudencial, pois inexistente similitude fático-jurídica entre os julgados confrontados.
+Desse modo, tendo em vista que as alegações feitas noagravo interno não são capazes de alterar o convencimento anteriormente manifestado, permanece íntegra a decisão agravada.
+Ante o exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de embargos manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
