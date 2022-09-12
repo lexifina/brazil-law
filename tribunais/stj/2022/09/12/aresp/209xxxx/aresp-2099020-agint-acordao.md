@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/09/2022 a 12/09/2022, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de agravo interno interposto por ELIANE AZEVEDO DE OLIVEIRA, contra decisão da Presidência,de fls. 484/485(e-STJ), que não conheceudo agravo em razão da sua intempestividade.
+Ação: declaratória de inexistência de débito c/c indenização por danos morais ajuizada por ELAINE AZEVEDO OLIVEIRA em face de ITAÚ UNIBANCO S/A.
+Sentença: julgou procedentes em parte os pedidos iniciais, declarando inexigíveis lançamentos, compras e débitos, em relação à autora, e deferiu a liminar,para o fim de proibir as rés aprocederem a cobranças ou negativar o nome da parte autoranos cadastros de inadimplentes, sob pena de multa diária.
+Acórdão: deu parcial provimento à apelação do ITAÚ UNIBANCO S/A e negou provimento ao recurso adesivo da autora, nos termos da seguinte ementa:
+"APELAÇÃO "AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C INDENIZAÇÃO POR DANOS MORAIS" CONSUMIDOR FRAUDE REALIZADA COM CARTÃO DE CRÉDITO DA AUTORA - Sentença que julgou parcialmente procedente a ação, afastando os danos morais Irresignação recursal de ambas as partes Instituição financeira que alega ausência de falha na prestação dos serviços Autora busca o reconhecimento de dano moral indenizável Transações efetuadas com cartão magnético e senha, entregues a terceiro Golpe do motoboy. Desídia da autora e falha no serviço bancário configuradas Culpa concorrente Prejuízo que deve ser repartido entre as partes - Danos morais não configurados Multa mantida, com fixação de teto - Sentença parcialmente reformada RECURSO DE APELAÇÃO PROVIDO EM PARTE. RECURSO ADESIVO DA AUTORA DESPROVIDO." (e-STJ fl. 319).
+Embargos de declaração: opostos por ambas as partes, foram rejeitados.
+Recurso especial: alegou ofensa aos arts. 10, 85, §2º, art. 141,489, § 1º, II e IV, do CPC/2015;186 e 927 do Código Civil; à Lei8.078/90 e 5º, LV e art. 93,IX da Constituição Federal e inaplicação da Súmula 479 do Superior Tribunal de Justiça. Sustentou: i) falta de fundamentação do julgado; ii) evidente a responsabilidade da recorrida, quando falha na prestação de seus serviços; iii)não havendo responsabilidade da recorrente, não há que se falar emdivisão do prejuízo e afastamento do dano moral pleiteado.
+Decisão monocrática: nãoconheceu do agravo em razão de sua intempestividade.
+Agravo interno: alega ter preenchido todos os requisitos para a interposição do recurso. Diz que seu recurso está tempestivo e, caso assim não se entenda, diz que deve ser dada oportunidade à parte, para a regularização com a juntada de documento que comprove a suspensão do prazo processual. Repisa, no mais, os argumentos já expendidos em defesa de sua tese.
+É O RELATÓRIO.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. INTEMPESTIVIDADE. FERIADO. SUSPENSÃO DO PRAZO PROCESSUAL.COMPROVAÇÃO POSTERIOR. IMPOSSIBILIDADE. DOCUMENTO IDÔNEO. AUSÊNCIA.
+1. O artigo 1.003, § 6º, do CPC/2015, estabelece que o recorrentecomprovará a ocorrência de suspensão processual, feriado local ou de suaprorrogação no ato de interposição do recurso, o que impossibilita aregularização posterior.
+2. Considerando que o recurso especial foi interposto sob a égide doCPC/2015 e que não houve a comprovação de suspensão de expediente forense,por documento idôneo quando de sua interposição, não há como afastar aintempestividade do recurso.
+3.Agravo interno não provido.
+VOTO
+Adecisão agravada decretou a intempestividade dos recursos deagravo erecurso especial nos termos da seguinte fundamentação:
+"Mediante análise do recurso de ELIANE AZEVEDO DE OLIVEIRA, a parte recorrente foi intimada da decisão agravada em 14/05/2021, sendo o agravo somente interposto em 08/06/2021. O recurso é, pois, manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias úteis, nos termos do art. 994, VIII, c/c os arts. 1.003, § 5º, 1.042, caput, e 219, caput, todos do Código de Processo Civil. A propósito, nos termos do § 6º do art. 1.003 do mesmo código, "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso", o que impossibilita a regularização posterior." (e-STJ, fl. 484).
+Pela análise das razões recursais ora apresentadas,verifica-se que aparte agravante não trouxe qualquer argumento apto a modificar a conclusãodo decisum.
+Com efeito, os recursosforaminterpostos sob a égide do CPC/2015, segundoo qual cabe arecorrente comprovar a ocorrência de feriado local no atodainterposição, nos termos do art. 1.003, § 6º, de tal Diploma legal.
+Àluz dessa expressa determinação legal, a jurisprudência do STJ firmou-seno sentido de que não é possível regularização posterior.
+Nessa linha, "seja em função de previsão expressa do atual Código deProcesso Civil, seja em atenção à nova orientação do STF, a jurisprudênciaconstruída pelo STJ à luz do CPC/73 não subsiste ao CPC/15: ou se comprovao feriado local no ato da interposição do respectivo recurso, ou seconsidera intempestivo o recurso, operando-se, em consequência, a coisajulgada" (AgInt no AREsp 957.821/MS, Corte Especial, DJe 19/12/2017).
+Realmente, a intempestividade é tida pelo CPC/15 como vício grave e,portanto, insanável. Dessa forma, não se aplica à espécie o disposto noparágrafo único do art. 932 do CPC/15 ("antes de considerar inadmissível orecurso, o relator concederá o prazo de 5 dias ao recorrente para que sejasanado vício ou complementada a documentação exigível), reservado àshipóteses de vícios sanáveis.Nesse sentido: AgInt no AREsp 957.821/MS, Corte Especial, DJe 19/12/2017.
+Insta salientar que, em Questão de Ordem no REsp 1.813.684/SP, a CorteEspecial esclareceu que a modulação de efeitos determinada no julgamento,
+no sentido de admitir a comprovação posterior do feriado local aosrecursos interpostos até aquela data, se aplica exclusivamente ao feriadoda segunda-feira de carnaval, do que não trata a hipótese em exame.
+Ressalta-se, que para efeito detempestividade,a prova do feriado local,recesso forense ou suspensão, deve ser feita pela parte interessada pormeio dedocumento idôneo,não servindo cópia docalendáriodo judiciárioextraído da internet, nemprintde tela de computador na qual consta as
+informaçõesextraídos da internet.
+Nesse sentido:AgIntnos EDcl no REsp 1.782.304/RJ, QUARTA TURMA, DJe de06/09/2019;AgIntno AREsp 1.458.762/AM, TERCEIRA TURMA, DJe de 21/08/2019;AgIntno AREsp 1.413.912/AP,QUARTA TURMA, DJe de 03/06/2019;AgIntno AREsp 1.215.172/SP,QUARTA TURMA, DJe de 28/05/2018.
+Assim, em conclusão, não tendo havido a comprovação do feriado/suspensão do prazo processualnoato da interposição dorecurso, e, ademais, considerando que a hipóteseem tela não incide na modulação de efeitos delineada pela Corte Especialno REsp 1.813.684/SP, não há como ser afastado o decreto deintempestividade.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno.
