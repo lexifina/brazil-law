@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/09/2022 a 12/09/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REVISIONAL DE CONTRATO. VIOLAÇÃO DOS ARTS. 186, 188, 927 E 944 DO CC/2002; E 14, § 3º, II, DO CDC. FALTA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282/STF E 356/STF. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO E NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Fica inviabilizado o conhecimento de temas trazidos na petição de recurso especial, mas não debatidos e decididos nas instâncias ordinárias, tampouco suscitados em embargos de declaração, porquanto ausente o indispensável prequestionamento. Aplicação, por analogia, das Súmulas 282 e 356 do STF.
+2. Agravo interno provido para reconsiderar a decisão agravada e, em novo exame, conhecer do agravo para negar provimento ao recurso especial.
+RELATÓRIO
+O SENHOR MINISTRO RAUL ARAÚJO (Relator):
+Trata-se de agravo interno interposto por BANCO DO BRASIL S/A contra decisão do em. Ministro Presidente do Superior Tribunal de Justiça, que não conheceu do agravo em recurso especial em razão da ausência de impugnação específica dos fundamentos da decisão primeva de admissibilidade exercida pela Corte de origem.
+Nas razões do agravo interno, a parte ora agravante alega que todos os fundamentos da decisão foram impugnados. Ao final, pleiteia o enfrentamento do recurso especial.
+A agravada apresentou impugnação do agravo interno (fls. 534-541).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REVISIONAL DE CONTRATO. VIOLAÇÃO DOS ARTS. 186, 188, 927 E 944 DO CC/2002; E 14, § 3º, II, DO CDC. FALTA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282/STF E 356/STF. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO E NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Fica inviabilizado o conhecimento de temas trazidos na petição de recurso especial, mas não debatidos e decididos nas instâncias ordinárias, tampouco suscitados em embargos de declaração, porquanto ausente o indispensável prequestionamento. Aplicação, por analogia, das Súmulas 282 e 356 do STF.
+2. Agravo interno provido para reconsiderar a decisão agravada e, em novo exame, conhecer do agravo para negar provimento ao recurso especial.
+VOTO
+O SENHOR MINISTRO RAUL ARAÚJO (Relator):
+Assiste razão à parte ora agravante quanto à impugnação dos fundamentos da decisão agravada. Com isso, reconsidera-se a decisão agravada de fls. 519-521, na parte em que não conheceu do recurso especial interposto pela recorrente, passando-se a novo exame do apelo.
+Trata-se de agravo manejado por BANCO DO BRASIL S/A contra decisão que não admitiu recurso especial, interposto com fundamento no art. 105, III, "a", da Constituição Federal, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de Mato Grosso do Sul, assim ementado:
+"EMENTA - APELAÇÃO CÍVEL DA INSTITUIÇÃO FINANCEIRA RÉ - REVISIONAL DE CONTRATO - PRELIMINAR DE INÉPCIA DA INICIAL - REJEITADA - PACTA SUNT SERVANDA - POSSIBILIDADE DE REVISÃO DAS CLÁUSULAS CONTRATUAIS - CONTRATO NÃO JUNTADO PELO BANCO - JUROS REMUNERATÓRIOS - IMPOSSIBILIDADE DE COMPROVAR A TAXA EFETIVAMENTE CONTRATADA - APLICAÇÃO DA TAXA MÉDIA DE MERCADO, SALVO SE SUPERIOR AO QUE FOI PACTUADO - SÚMULA Nº 530 DO STJ - CAPITALIZAÇÃO DE JUROS - AUSÊNCIA DE CONTRATO - FORMA ANUAL - COMISSÃO DE PERMANÊNCIA SEM PREVISÃO - INDEVIDA - JUROS MORATÓRIOS LIMITADOS A 1% AO MÊS - RECURSO CONHECIDO E NÃO PROVIDO.
+I - Nos termos do art. 319 do CPC, a parte autora descrever os fatos de maneira lógica, expondo os fundamentos jurídicos do seu pedido, o que restou cumprido na presente exordial, tanto que possibilitou ao réu o contraditório e ampla defesa, ao impugnar todas os pontos da pretensão autoral. Preliminar de inépcia da inicial rejeitada.
+II- O princípio do pacta sunt servanda não é absoluto, devendo ser interpretado relativamente, a fim de possibilitar a revisão de cláusulas havidas por abusivas e ilegais. O simples fato de o contratante ter prévio conhecimento das condições contratuais não pode ser um óbice para a discussão da eventual abusividade e ilegalidade da cobrança dos encargos pactuados.
+II - Conforme entendimento consolidado pelo Superior Tribunal de Justiça, nos termos da Súmula nº 530, "nos contratos bancários, na impossibilidade de comprovar a taxa de juros efetivamente contratada - por ausência de pactuação ou pela falta de juntada do instrumento aos autos -, aplica-se a taxa média de mercado, divulgada pelo Bacen, praticada nas operações da mesma espécie, salvo se a taxa cobrada for mais vantajosa para o devedor".
+III - Nos contratos ajustados após 31.03.2000, data da publicação da Medida Provisória n. 1.963-17, revigorada pela Medida Provisória n. 2.170-36, DOU de 24.08.2001, em vigência graças ao art. 2º, da Emenda Constitucional n. 32/2001, DOU de 12.09.2001, é admissível a capitalização dos juros em período inferior a um ano, desde que expressamente pactuada, assim compreendido pela multiplicação da taxa de juros mensal por doze (quantidade de meses do ano), obtendo um excesso do resultado relativo a doze (quantidade de meses ao ano). Assim, como não foi juntado o contrato aos autos e, assim, sem prova da capitalização mensal, deve ela ser na forma anual.
+IV - Como o banco não juntou o contrato determinado, não há fundamento para cobrança de comissão de permanência, se não houve ajuste nesse sentido.
+V- Os juros da mora não podem exceder a 1% (um por cento) ao mês, em conformidade com o que dispõem o art. 406, do Código Civil c/c art. 161, § 1º, do Código Tributário Nacional.
+VI- Sentença mantida. Recurso desprovido." (fls. 444-445)
+Nas razões do recurso especial, a parte ora agravante alega violação dos arts. 186, 188, 927 e 944 do Código Civil de 2002; e art. 14, § 3º, II, do Código de Defesa do Consumidor, bem como divergência jurisprudencial, sustentando, em síntese: (a) a concessão de efeito suspensivo ao especial; (b) a inexistência de ato ilícito na espécie; (c) "o dano se deu por conduta de terceiros (criminosos), cujas técnicas utilizadas no momento do delito foram capazes de burlar um sistema de segurança bancário" (fl. 468); e (d) a necessidade de ser reduzido o montante indenizatório.
+Apresentadas contrarrazões ao apelo nobre (fls. 480-489).
+Inicialmente, o recorrente sustentou a necessidade de ser concedido efeito suspensivo ao recurso especial. Entretanto, não desenvolveu argumentação que evidenciasse a ofensa, tornando patente a falha de fundamentação do apelo especial, circunstância que atrai a incidência da Súmula 284/STF.
+A propósito:
+"AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE. AÇÃO RESCISÓRIA. VALOR DA CAUSA. AÇÃO ORIGINÁRIA. BENEFÍCIO ECONÔMICO OBTIDO. ALEGAÇÃO GENÉRICA DE VIOLAÇÃO Á LEGISLAÇÃO FEDERAL. SÚMULA 284/STF. AGRAVO NÃO PROVIDO.
+1. É vedado, em sede de agravo regimental ou embargos de declaração, ampliar a quaestio veiculada no recurso especial, inovando questões não suscitadas anteriormente (EDcl no AgRg no REsp 1660712/PR, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 05/06/2018, DJe 08/06/2018).
+2. O valor da causa em ação rescisória, em regra, deve corresponder ao da ação originária, corrigido monetariamente, exceto no caso em que sabe-se o montante do benefício econômico obtido, ocasião que deve prevalecer este último. Precedentes.
+3. Como é cediço, a alegação genérica de violação à lei federal, sem indicar de forma precisa o artigo, parágrafo ou alínea, da legislação tida por violada, tampouco em que medida teria o acórdão recorrido vulnerado a lei federal, bem como em que consistiu a suposta negativa de vigência da lei e, ainda, qual seria sua correta interpretação, ensejam deficiência de fundamentação no recurso especial, inviabilizando a abertura da instância excepcional. Incidência da Súmula 284/STF.
+4. Agravo não provido." (AgInt no AREsp 1.270.210/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 24/09/2019, DJe 30/09/2019, g.n.)
+Quanto à alegada violação dos arts. 186, 188, 927 e 944 do CC/2002, e art. 14, § 3º, II, do CDC, verifica-se que o conteúdo normativo dos artigos invocados não foi apreciado pelo eg. Tribunal de origem, tampouco foram opostos embargos declaratórios para sanar eventual omissão, no tocante à matéria de tal dispositivo. Dessa forma, à falta do indispensável prequestionamento, incide, por analogia, o óbice das Súmulas 282 e 356 do STF.
+Nesse sentido:
+"AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. PRESCRIÇÃO. PROCESSO CIVIL. FALTA DE PREQUESTIONAMENTO. DIVERGÊNCIA JURISPRUDENCIAL. NÃO REALIZAÇÃO DO COTEJO ANALÍTICO. RECURSO DESPROVIDO.
+1. Aplicam-se as Súmulas n. 282 e 356 do STF quando as questões suscitadas no recurso especial não tenham sido debatidas no acórdão recorrido nem, a respeito, tenham sido opostos embargos declaratórios.
+2. A transcrição da ementa ou do inteiro teor dos julgados tidos como divergentes é insuficiente para a comprovação de dissídio pretoriano viabilizador do recurso especial.
+3. Agravo regimental desprovido."
+(AgRg no AREsp 544.459/MT, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 20/11/2014, DJe 25/11/2014)
+Diante do exposto, dou provimento ao agravo interno para reconsiderar a decisão de fls. 519-521 e, em nova análise, conhecer do agravo a fim de negar provimento ao recurso especial.
+Com supedâneo no art. 85, § 11, do Código de Processo Civil de 2015, majoro os honorários advocatícios devidos à parte recorrida de 12% para 13% sobre o proveito econômico obtido (fl. 454).
+É como voto.
