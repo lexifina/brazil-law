@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão que negou provimento ao agravo em execução da defesa.
+Alega o recorrente que "Não há dúvidas, portanto, de que, ao praticar o suposto delito, o recorrente se encontrava em livramento condicional. Nesse ponto, convém rememorar que o cometimento de crime durante o período de prova não produz os efeitos inerentes à falta grave, pois a legislação penal prevê efeitos próprios e diversos"(fl. 119), indicando violação aos arts.86 e 88, do CP e arts.140, 142 e 145 da LEP. Requer o afastamento da falta grave.
+Contra-arrazoado e admitido, o Ministério Público Federal manifestou-se pelo não provimento do recurso especial.
+O Juízo da execução,reconhecendo a prática de falta grave, regrediu o regime prisional do recorrente para o fechado e decretou a perda de 1/6 (um sexto) dos dias remidos.
+Interposto agravo em execução pela defesa, o Tribunal de origem negou-lhe provimento, destacando que "O mero fato de o condenado estar em gozo do livramento condicional não elide a imposição das consequências previstas na legislação de execução penal àquele que comete a falta grave" (fl. 70).
+O cometimento de novo crime durante o livramento condicional tem consequências próprias, que não se confundem com os efeitos da falta grave, próprios dosistema de encarceramento.
+Portanto, oentendimento esposado no acórdão não encontra respaldo na jurisprudência desta Corte, firmada no sentido de que "não configura prática defalta gravea hipótese de cometimento denovo crimeno curso dolivramentocondicional, pois, nesse caso, o benefício deverá ser revogado e o tempo que o reeducando esteve solto não será decotado da pena, nos termos do art. 86, I, e art. 88, do Código Penal, bem como o art. 145 da LEP" (AgRg no HC n. 617.911/RS, Ministro Nefi Cordeiro, Sexta Turma, DJe 5/3/2021).
+Não obstante, "cabe ao juízo da Vara de Execuções Penais, nos termos do art. 145 da Lei n. 7.210/1984, quando da notícia do cometimento de novo delito no período do livramento condicional, suspender cautelarmente a benesse, durante o período de prova, para, posteriormente, revogá-la, em caso de condenação com trânsito em julgado"(HC 381.230/MG, relator o Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 17/2/2017).
+Ante o exposto, dou provimento ao recurso especial para afastar a caracterização comofalta grave do delito cometido durante o período do livramento condicional.
+Publique-se.
+Intimem-se.
