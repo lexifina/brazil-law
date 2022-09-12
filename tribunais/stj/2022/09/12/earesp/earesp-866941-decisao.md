@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de embargos de divergência opostos por CENTRAIS ELÉTRICAS BRASILEIRAS S.A. contra acórdão proferido pela Segunda Turma assim ementado (e-STJ fls. 3.190/3.191):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. EMPRÉSTIMO COMPULSÓRIO SOBRE ENERGIA ELÉTRICA. ELETROBRAS. TERMO FINAL DE INCIDÊNCIA DE JUROS REMUNERATÓRIOS. SALDO NÃO CONVERTIDO EM AÇÕES. DATA DO EFETIVO PAGAMENTO.
+1. Cinge-se a questão controvertida ao termo final dos juros remuneratórios que devem incidir sobre a parcela do saldo credor a ser paga em dinheiro (relativo às diferenças de correção monetária do principal e dos juros reflexos, assim como da correção monetária sobre os jurosremuneratórios, no Empréstimo Compulsório sobre Energia Elétrica) que não foi convertida em ações pela Eletrobras à época própria.
+2. Na linha da posição firmada pela Primeira Seção deste Superior Tribunal, no julgamento do REsp 1.003.955/RS, sob o rito dos recursos representativos da controvérsia, reconhecida a existência de saldo de correção monetária não convertido em ações (pagamento em dinheiro), são devidos os juros remuneratórios de 6% até o efetivo pagamento.
+3. Agravo interno a que se nega provimento.
+A parte embargante sustenta, em resumo, que o acórdão embargado, ao julgar cabível a incidência de juros remuneratórios até o efetivo pagamento da devolução do empréstimo compulsório sobre energia elétrica, contrariou o entendimento adotado pela Primeira Seção nos autos do REsp 1.003.955/RS.
+Às e-STJ fls. 3.930/3.932, reconsiderei a anterior decisão (e-STJ fls. 3.715/3.718) que havia indeferido liminarmente os embargos de divergência.
+O agravo interno manejado pelas exequentesnão foi conhecido por ser incabível(e-STJ fls. 3.993/3.998).
+Impugnação às e-STJ fls. 3.950/3.971.
+O Ministério Público Federal opinou pelo não conhecimento do recurso (e-STJ fls. 3.985/3.988).
+Passo a decidir.
+No tocante ao termoad quemde incidência de juros remuneratórios sobre créditos do empréstimo compulsório sobre energia elétrica, merece provimento a irresignação.
+Sobre o tema, a Primeira Seção do Superior Tribunal de Justiça, ao julgar os EDcl no EAREsp 790.288/PR, na sessão de julgamento de 10/11/2021, emprestando-lhes excepcionais efeitos infringentes aos embargos de declaração, decidiu que, na devolução do empréstimo compulsório, a incidência dos juros remuneratórios, como preconizada pelo art. 2º e § 2º do Decreto-Lei n. 1.512/1976, não pode ultrapassar a data da respectiva Assembleia Geral Extraordinária (30/06/2005), autorizadora da terceira conversão dos créditos dos consumidores em ações do capital social da Eletrobras.
+Eis a ementa do acórdão:
+TRIBUTÁRIO. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DIVERGÊNCIA. EMPRÉSTIMO COMPULSÓRIO DE ENERGIA ELÉTRICA. JUROS REMUNERATÓRIOS. ART. 1.022 DO CPC. ERROS DE PREMISSA ENSEJADORES DE ERRO MATERIAL. ACOLHIMENTO DO RECURSO INTEGRATIVO DA ELETROBRAS. OUTORGA DE EXCEPCIONAL EFEITO MODIFICATIVO
+1. De acordo com a norma prevista no art. 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+2. Constata-se, no acórdão ora embargado, a existência de relevantes erros de premissa, caracterizadores, por sua vez, de erro material capaz de viabilizar o acolhimento do recurso aclaratório da Eletrobras, inclusive com excepcional efeito infringente, em ordem a afastar, no caso concreto, a incidência dos juros remuneratórios previstos no art. 2º do DL n. 1.512/1976 para além da data da correspondente Assembleia Geral, no caso, a 143ª AGE, ocorrida em 30/06/2005.
+3. Tem-se, então, que o acórdão da Segunda Turma desta Corte, impugnado pelos embargos de divergência da parte credora, já refletia, de modo correto, o posicionamento antes firmado pelo STJ sob o rito repetitivo REsp"s 1.003.955 e 1028.592, rel. Ministra Eliana Calmon, Primeira Seção, j. em 12/08/2009, pub. no DJe 27/11/2009).
+4. Embargos de declaração da Eletrobras acolhidos, com excepcional efeito modificativo, em ordem a negar provimento aos embargos de divergência manejados por Decoradora Roma Ltda.
+(EDcl no EAREsp 790.288/PR, rel. p/ acórdão Ministro SÉRGIO KUKINA, PRIMEIRA SEÇÃO, julgado em 10/11/2021, DJe 14/12/2021).
+Desse modo, passou a prevalecer o entendimento de que os juros remuneratórios incidem até a época da referida assembleia geral, que homologou as conversões dos créditos em ações, e não mais até o efetivo pagamento da dívida. A partir desse momento, compreende-se que há um crédito consolidado que está sujeito exclusivamente à incidência de correção monetária e dos juros de mora.
+Assim, os embargos de divergência manejadospela Eletrobrás devem ser providos para conhecer do agravo e dar provimento ao recurso especial, limitando a incidência dos juros remuneratórios até 30/6/2005.
+Verifico, ainda, queo provimento do apelo nobreensejou o acolhimento parcial da impugnação ao cumprimento de sentença.
+Segundo pacífica orientação da jurisprudência do Superior Tribunal de Justiça, firmada no regime dos recursos especiais repetitivos (REsp 1.134.186/RS), havendo acolhimento da impugnação, ainda que parcial, deverão ser arbitrados os honorários advocatícios em benefício do executado, mediante observância da equidade.
+Sobre o tema, refiro-me aos seguintes julgados:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. ELETROBRAS. EMPRÉSTIMO COMPULSÓRIO SOBRE ENERGIA ELÉTRICA. CUMPRIMENTO DE SENTENÇA. LIQUIDAÇÃO OBRIGATÓRIA. IMPUGNAÇÃO. HONORÁRIOS ADVOCATÍCIOS. NÃO CABIMENTO.
+ ..
+2. A rejeição da impugnação ao cumprimento de sentença não enseja a condenação em honorários advocatícios, nos termos da Súmula 519/STJ. Por outro lado, haverá condenação em honorários advocatícios nos casos de acolhimento, ainda que parcial, da impugnação ao cumprimento da sentença, consoante entendimento consagrado por esta Corte nos autos do REsp 1.134.186/RS, representativo de controvérsia na forma do art. 543-C do CPC/1973.
+3. Esta Corte de Justiça, por ocasião do julgamento do REsp 1.147.191/RS, processado sob o rito do art. 543-C do CPC/1973, firmou entendimento de que o cumprimento de sentença de título judicial decorrente de empréstimo compulsório de energia elétrica se submete à necessidade de liquidação do julgado tendo em vista a complexidade dos cálculos ali envolvidos, e, em se tratando de fase obrigatória para a apuração do valor da execução, não se viabiliza o arbitramento da multa prevista no art. 475-J do CPC/1973, bem como a fixação de honorários advocatícios se rejeitada a impugnação oposta pela executada.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.668.737/SC, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 01/06/2020, DJe 03/06/2020).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA EM FASE DE CUMPRIMENTO DE SENTENÇA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA NÃO CONHECIDA. HONORÁRIOS SUCUMBENCIAIS INDEVIDOS. SÚMULA 568/STJ.INOVAÇÃO RECURSAL. INVIABILIDADE DE APRECIAÇÃO.
+1. Ação em fase de cumprimento definitivo de sentença.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+3. A jurisprudência do STJ é no sentido de que apenas no caso de acolhimento da impugnação, ainda que parcial, serão arbitrados honorários em benefício do executado (Tema 410/STJ).
+4. A alegação de teses que não constaram das contrarrazões do recurso especial, constitui-se em inovação recursal, o que não é permitido em sede de agravo interno. Precedente 5. Agravo interno não provido.
+(AgInt no AREsp 1.854.153/DF, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 04/10/2021, DJe 06/10/2021).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA INICIADO ANTES DA NECESSÁRIA LIQUIDAÇÃO. IMPUGNAÇÃO ACOLHIDA NA ORIGEM. HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA EM BENEFÍCIO DO EXECUTADO. ARBITRAMENTO POR EQUIDADE. AGRAVO NÃO PROVIDO.
+1. Esta Corte definiu que os honorários de advogado, em caso de acolhimento da impugnação do cumprimento de sentença, ainda que parcial, deverão ser arbitrados por equidade. Precedentes.
+2. No caso, a fixação dos honorários sucumbenciais por equidade mostra-se em consonância com a jurisprudência desta Corte, uma vez que o acolhimento da impugnação do cumprimento de sentença não acarretou a extinção ou redução do crédito exigido, apenas determinou a realização de liquidação prévia, sem referir a valores.
+3. Agravo interno não provido.
+(AgInt no AREsp 1.815.431/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 30/08/2021, DJe 1º/10/2021).
+Diante do afastamento tão somente da parcela relativa aos juros de remuneratórios após aconversão em ações, a fixação da verba honorária em favor da ora embargante deve observar essa realidade dos autos, motivo pelo qual condeno as partes embargadasao pagamento de honorários advocatícios, que fixo em R$ 2.000,00 (doismil reais).
+Ante exposto, com base no art. 34, XVIII, "c", do RISTJ, DOU PROVIMENTO dos embargos de divergência, a fim de conhecer do agravoda CENTRAIS ELÉTRICAS BRASILEIRAS S.A. para dar provimento ao recurso especial, determinandoque os juros remuneratórios incidam até 30/6/2005.
+Condenoas embargadasao pagamento de honorários advocatícios no montante deR$ 2.000,00 (doismil reais).
+Publique-se. Intimem-se.
