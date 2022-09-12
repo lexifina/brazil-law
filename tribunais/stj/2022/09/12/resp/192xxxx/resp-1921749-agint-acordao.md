@@ -1,0 +1,26 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/09/2022 a 12/09/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+1.  Trata-se  de  agravo  interno  interposto  por ANGELO MARIANO DONADON JUNIOR  e OUTROS contra  decisão  monocrática de minha relatoria resumida nos termos da ementa ora transcrita:
+PROCESSUAL CIVIL E ADMINISTRATIVO. CASSAÇÃO DO MANDATO DE VEREADORES. RECEBIMENTO DE SUBSÍDIOS RETROATIVOS. ART. 14, § 4º, DA LEI 12.016/2009. NÃO CUMPRIMENTO DO REQUISITO DO PREQUESTIONAMENTO. SÚMULA 211/STJ. RECURSO ESPECIAL A QUE SE NEGA PROVIMENTO.
+2.  A parte insurgente, nas razões do agravo interno  (fls.  1.127/1.138),  refuta os fundamentos da decisão agravada, alegando que a tese posta no recurso especial - direito ao pagamento dos subsídios entre a data da propositura da ação de mandado de segurança e seu retorno ao exercícios do mandatos devereador- foi debatida no Tribunal de origem, apesar de não haver a citação ao diploma legal tido por violado.
+3.  Requer,  ao  final,  a reconsideração do decisum agravado ou a submissão do feito à Turma julgadora para que seja provido seu recurso especial.
+4.  Impugnação  ao  recurso às fls.  1.148/1.155.
+5.  É  o  relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NORECURSO ESPECIAL.AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS TIDOS POR VIOLADOS. SÚMULA211 DO STJ. PREQUESTIONAMENTO FICTO.ART. 1.022 DO CPC/2015. NÃO APONTAMENTO. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1.Atese recursal vinculada ao dispositivo tido como ofendido não foi apreciadano voto condutor, não tendo servido de fundamento à conclusão adotada pela Corte de origem. Desse modo, carece o tema do indispensável prequestionamento viabilizador do recurso especial, incidindona espécieo óbice da Súmula 211desta Corte Superior.
+2.Consoante a pacífica jurisprudência do Superior Tribunal de Justiça, "a simples citação dos artigos tidos como vulnerados no relatório do acórdão recorrido não é suficiente para o cumprimento do requisito do prequestionamento,sendo necessário o efetivo debate pelo Tribunal de origem acerca dos dispositivos infraconstitucionais tidos por malferidos, o que não aconteceu no presente caso" (EDcl no AgInt no AREsp 483.787/CE, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 05/08/2014).
+3.OSTJ possui o entendimento de que não basta a oposição de embargos de declaração para se configurar o prequestionamentoficto admitido no art. 1.025 do CPC/2015, sendo imprescindível que a parte alegue, nas razões do recurso especial, a violação do art. 1.022 do mesmo diploma legal para que, assim, este Tribunal esteja autorizado a examinar a eventual ocorrência de omissão no acórdão recorrido e, caso constate a existência do vício, deliberesobre a possibilidade de julgamento imediato da matéria conforme facultado pelo legislador.
+4. Agravo interno a que se nega provimento.
+VOTO
+1. A despeito das alegações da parte agravante, razão não lhe assiste.
+2. Nas razões do presente agravo interno, a parte agravante sustenta que a tese posta no recurso especial foi debatida no Tribunal de origem, apesar de não haver a citação ao diploma legal tido por violado.
+3.Consoante a pacífica jurisprudência doSuperior Tribunal de Justiça, "a simples citação dos artigos tidos como vulnerados no relatório do acórdão recorrido não é suficiente para o cumprimento do requisito do prequestionamento, sendo necessário o efetivo debate pelo Tribunal de origem acerca dos dispositivos infraconstitucionais tidos por malferidos, o que não aconteceu no presente casu" (EDcl no AgInt no AREsp 483.787/CE, Rel. MinistroMAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 05/08/2014).
+4. Nesse contexto, por simples cotejo das razões recursais com os fundamentos do acórdão recorrido, percebe-se que a tese recursal vinculada ao dispositivo tido como ofendido não foi apreciada no voto condutor,não tendo servido de fundamento à conclusão adotada pela Cortea quo. Desse modo, carece o tema do indispensável prequestionamento viabilizador do recurso especial, incidindo na espécie o óbice da Súmula211 desta Corte Superior.
+5.Ressalte-sequeo STJ possui o entendimento de que não basta a oposição de embargos de declaração para se configurar o prequestionamento ficto admitido no art. 1.025 do CPC/2015, sendo imprescindível que a parte alegue, nas razões do recurso especial, a violação do art. 1.022 do mesmo diploma legal para que, assim, este Tribunal esteja autorizado a examinar a eventual ocorrência de omissão no acórdão recorrido e, caso constate a existência do vício, deliberesobre a possibilidade de julgamento imediato da matéria conforme facultado pelo legislador.
+6. Assim, tendo em vista que as alegações declinadas no presente agravo interno não são capazes de alterar o entendimento anteriormente manifestado, mantenho incólume a decisão agravada.
+7. Pelas considerações expostas, nego provimento ao agravo interno de ANGELO MARIANO DONADON JUNIOR e OUTROS.
+8. É como voto.
