@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de agravo interposto por TELEMAR NORTE LESTE S.A. - EM RECUPERAÇÃO JUDICIAL - contra a decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, insurgiu-se contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro assim ementado:
+"RECURSO DE APELAÇÃO CÍVEL. DIREITO DO CONSUMIDOR. AGRAVO DE INSTRUMENTO EM RECURSO ESPECIAL PROVIDO PELO EGRÉGIO SUPERIOR TRIBUNAL DE JUSTIÇA. INCIDÊNCIA DO ARTIGO 100, § 1º, DA LEI Nº 6.404/1976 AO CASO CONCRETO NÃO CONDUZ A UM DESFECHO DIVERSO PARA A DEMANDA. PLEITO DE EXIBIÇÃO DE DOCUMENTOS JULGADO IMPROCEDENTE PELO JUÍZO A QUO. AUSÊNCIA DE INTERESSE NESTA RECURSAL. ELEMENTOS DE PROVA PRODUZIDOS PELA AUTORA, ORA APELADA, INCONTROVERSOS. PRESTAÇÃO DE SERVIÇO DE TELEFONIA FIXA. AJUSTE DE PARTICIPAÇÃO FINANCEIRA. PLANO DE EXPANSÃO. CONTRATO DE ADESÃO. SENTENÇA DE PROCEDÊNCIA. AN DEBEATUR COMPROVADO. DESNECESSIDADE DE REALIZAÇÃO DE PROVA TÉCNICO-CONTÁBIL. QUANTUM DEBEATUR A SER APURADO NO PROCEDIMENTO DE LIQUIDAÇÃO DE SENTENÇA. CISÃO DA SOCIEDADE EMPRESÀRIA TELEBRÁS - TELECOMUNICAÇÕES BRASILEIRAS S/A. TRANSFERÊNCIA DO SEU ACERVO PATRIMÔNIAL, INCLUÍDO O PASSIVO, PARA A RÉ. CÁLCULO DA CAPITALIZAÇÃO DAS AÇÕES. APURAÇÃO COM BASE NO BALANCETE DO MÊS DA INTEGRALIZAÇÃO. INCIDÊNCIA DO COMANDO DO VERBETE Nº 371, DO EGRÉGIO SUPERIOR TRIBUNAL DE JUSTIÇA. DESPROVIMENTO DO RECURSO"(e-STJ fls. 752).
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 785/790).
+No recurso especial, a recorrente aponta violação dos artigos 489, §1º, IV, e 1.022, II, do CPC/2015 e 100, §1º, da Lei nº 6.404/76.
+Alega que o acórdão deixou de analisar a fundamentação contida no recurso de apelação interposto, no sentido de que os documentos acostados à inicial foram impugnados reiteradas vezes, bem como sobre a necessidade da autora trazer aos autos o contrato de participação financeira e a prova de seu adimplemento.
+Sustenta a ausência de interesse de agir dos recorridos diante da não juntada aos autos dos requerimentos administrativos e dos comprovantes de pagamento da taxa de serviço.
+O recurso foi inadmitido na origem, sobrevindo daí o presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+Primeiramente, conforme exposto no artigo 489 do Código de Processo Civil de 2015, não se considera fundamentada a decisão que não enfrentar todos os argumentos deduzidos no processo.
+Outrossim, impende asseverar que cabe ao julgador apreciar os fatos e provas da demanda segundo seu livre convencimento, declinando, ainda que de forma sucinta, os fundamentos que o levaram a solucionar a lide.
+Desse modo, não há falar em deficiência de fundamentação da decisão o não acolhimento de teses ventiladas pelos recorrentes, mormente se o acórdão abordar todos os pontos relevantes da controvérsia, como na espécie.
+A propósito:
+"PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 03/STJ. SERVIDOR PÚBLICO FEDERAL. VIOLAÇÃO DOS ARTIGOS 489 E 1.022 DO CPC/2015. INOCORRÊNCIA. VIOLAÇÃO A DISPOSITIVOS CONSTITUCIONAIS. ANÁLISE. IMPOSSIBILIDADE. INOVAÇÃO EM SEDE DE AGRAVO INTERNO. IMPOSSIBILIDADE. REENQUADRAMENTO FUNCIONAL. PRESCRIÇÃO DO FUNDO DE DIREITO. ATO CONCRETO. ACÓRDÃO RECORRIDO EM SINTONIA COM A JURISPRUDÊNCIA DO STJ. CONTROVÉRSIA QUE EXIGE ANÁLISE DE PORTARIA. MATÉRIA INSUSCETÍVEL DE APRECIAÇÃO EM RECURSO ESPECIAL. HONORÁRIOS SUCUMBENCIAIS. TITULARIDADE DO ADVOGADO PÚBLICO. LEI 13.327/2016. AGRAVO INTERNO NÃO PROVIDO.
+1. Inexiste violação aos artigos 489 e 1.022 do CPC/2015, quando não se vislumbra omissão, obscuridade ou contradição no acórdão recorrido capaz de torná-lo nulo, especialmente se o Tribunal a quo apreciou a demanda de forma clara e precisa.
+2. É vedado, em sede de agravo interno, ampliar-se o objeto do recurso especial, aduzindo-se questões novas, não suscitadas no momento oportuno, em virtude da ocorrência da preclusão consumativa.
+3. A prescrição da pretensão, por ser de reenquadramento funcional, atinge o próprio fundo de direito e está em sintonia com a jurisprudência firmada no âmbito deste e. STJ.
+4. A via especial é inadequada para análise de Portarias, Resoluções, Regimentos, ou qualquer outro tipo de norma que não se enquadre no conceito de Lei Federal.
+5. Os honorários advocatícios de sucumbência das causas em que forem parte a União, as autarquias e as fundações públicas federais pertencem ao advogado público.
+6. Agravo interno não provido" (AgInt no AREsp 801.104/DF, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 04/10/2016, DJe 13/10/2016 - grifou-se).
+Quanto ao artigo 1.022 do CPC/2015, registra-se que a negativa de prestação jurisdicional nos embargos declaratórios somente se configura quando, na apreciação do recurso, o tribunal de origem insiste em omitir pronunciamento sobre questão que deveria ser decidida, e não foi.
+Não é o caso dos autos.
+Com efeito, as instâncias ordinárias enfrentaram a matéria posta em debate na medida necessária para o deslinde da controvérsia, não havendo falar em negativa de prestação jurisdicional.
+A propósito:
+"PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 03/STJ. SERVIDOR PÚBLICO FEDERAL. VIOLAÇÃO DOS ARTIGOS 489 E 1.022 DO CPC/2015. INOCORRÊNCIA. VIOLAÇÃO A DISPOSITIVOS CONSTITUCIONAIS. ANÁLISE. IMPOSSIBILIDADE. INOVAÇÃO EM SEDE DE AGRAVO INTERNO. IMPOSSIBILIDADE. REENQUADRAMENTO FUNCIONAL. PRESCRIÇÃO DO FUNDO DE DIREITO. ATO CONCRETO. ACÓRDÃO RECORRIDO EM SINTONIA COM A JURISPRUDÊNCIA DO STJ. CONTROVÉRSIA QUE EXIGE ANÁLISE DE PORTARIA. MATÉRIA INSUSCETÍVEL DE APRECIAÇÃO EM RECURSO ESPECIAL. HONORÁRIOS SUCUMBENCIAIS. TITULARIDADE DO ADVOGADO PÚBLICO. LEI 13.327/2016. AGRAVO INTERNO NÃO PROVIDO.
+1. Inexiste violação aos artigos 489 e 1.022 do CPC/2015, quando não se vislumbra omissão, obscuridade ou contradição no acórdão recorrido capaz de torná-lo nulo, especialmente se o Tribunal a quo apreciou a demanda de forma clara e precisa.
+2. É vedado, em sede de agravo interno, ampliar-se o objeto do recurso especial, aduzindo-se questões novas, não suscitadas no momento oportuno, em virtude da ocorrência da preclusão consumativa.
+3. A prescrição da pretensão, por ser de reenquadramento funcional, atinge o próprio fundo de direito e está em sintonia com a jurisprudência firmada no âmbito deste e. STJ.
+4. A via especial é inadequada para análise de Portarias, Resoluções, Regimentos, ou qualquer outro tipo de norma que não se enquadre no conceito de Lei Federal.
+5. Os honorários advocatícios de sucumbência das causas em que forem parte a União, as autarquias e as fundações públicas federais pertencem ao advogado público.
+6. Agravo interno não provido" (AgInt no AREsp 801.104/DF, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 4/10/2016, DJe 13/10/2016 - grifou-se).
+No que tange ao art. 100, § 1º, da Lei nº 6.404/1976, a orientação da Segunda Seção desta Corte, firmada por ocasião do julgamento do REsp nº 982.133/RS, é no sentido de que, para a caracterização do interesse de agir nas ações em que se postula a obtenção de documentos com dados societários, o autor deve demonstrar o requerimento administrativo formal e o pagamento pelo custo respectivo, quando a empresa o exigir.
+Sobre tal aspecto, o Tribunal de origem assim se pronunciou:
+"(..) Ainda que pudesse ser aplicada a norma do artigo100, § 1º, da Lei nº6.404/1976, ao pedido incidental de exibição de documentos, em alinho à jurisprudência do Egrégio Superior Tribunal de Justiça, os elementos de prova carreados aos autos não induze a demanda a um desfecho distinto.
+Primeiro, porque o pleito incidental de exibição de documentos fora julgado improcedente pelo juízo de primeiro grau, cuja sentença fora integralmente mantida no recurso de apelação, a denotar a inexistência de interesse recursal nesse sentido.
+Segundo, tendo em vista que malgrado a autora tenha deixado de acostar aos autos uma cópia do ajuste de participação financeira, certo é que a eles adunou documento indicativo da negociação das aludidas ações (fls. 11 -i. e. nº 00010), o qual não foi impugnado pela requerida, nas oportunidades em que se manifestou.
+A conclusão inarredável e indiscutível é no sentido de que a incidência do comando da norma do artigo 100, §1º, da Lei nº 6.404/1976, à presente demanda, não tem o condão de levar a desfecho distinto, por força do pleito de exibição de documentos ter sido julgado improcedente e, também, pelo fato dos elementos de prova produzidos pela apelada terem resultado incontroversos" (e-STJ fl. 756/758 - grifou-se).
+Com efeito, verifica-se que o fundamento referente à inexistência de interesse recursal, não foi impugnado pela recorrente, que, ao persistir incólume, mostra-se suficiente para a manutenção do julgado, o atrai a Súmula nº 283/STF.
+"DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE RESCISÃO DE PROMESSA DE COMPRA E VENDA DE IMÓVEL C/C PEDIDOS DE INDENIZAÇÃO POR DANOS MATERIAIS E COMPENSAÇÃO POR DANOS MORAIS. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. RESOLUÇÃO DA AVENÇA POR INADIMPLEMENTO DAS PROMITENTES VENDEDORAS. JUROS DE MORA. INCIDÊNCIA A PARTIR DA CITAÇÃO.
+(..)
+2. A ausência de decisão acerca dos argumentos invocados pela recorrente em suas razões recursais impede o conhecimento do recurso especial.
+3. A existência de fundamento do acórdão recorrido não impugnado quando suficiente para a manutenção de suas conclusões impede a apreciação do recurso especial.
+(..)
+5. Agravo interno não provido" (AgInt no REsp 1.733.026/RJ, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 08/06/2020, DJe 10/06/2020).
+Além disso, modificar o acórdão a fim de se concluir se houve ou não impugnação dos documentos acostados à inicial, demandaria a análise de circunstâncias fático-probatória dos autos, o que é inviável no recurso especial pela incidência da Súmula nº 7/STJ.
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e negar-lhe provimento.
+Na origem, os honorários sucumbenciais foram fixados em 10% sobre o valor da condenação, os quais deverão ser majorados para 15% em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
