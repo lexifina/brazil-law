@@ -1,0 +1,72 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/09/2022 a 12/09/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA (Relator): Trata-se de agravo interno (e-STJ fls. 815/824) interposto contra decisão da Presidência desta Corte Superior que conheceu do agravo nos próprios autos para não conhecer do recurso especial (e-STJ fls. 808/811).
+Em suas razões, a agravante defende a inaplicabilidade da Súmula n. 735/STF.
+No mérito, reitera as alegações de divergência interpretativa e de negativa de vigência ao art. 10, VII, da Lei n. 9.656/1998, por faltarem os requisitos da tutela antecipada que lhe impôs o ônus de custear liminarmente o tratamento de saúde do agravado.
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+Sem contrarrazões (e-STJ fl.848).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. TRATAMENTO DE SAÚDE. TUTELA ANTECIPADA. PEDIDO DE REVOGAÇÃO. ÓBICE DA SÚMULA N. 735/STF. TUTELA DE URGÊNCIA. DISCUSSÃO DE MÉRITO NO RECURSO ESPECIAL. DESCABIMENTO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. A jurisprudência do STJ, em regra, não admite a interposição de recurso especial que tenha por objetivo discutir a correção de acórdão que nega ou defere medida liminar ou antecipação de tutela, por não se tratar de decisão em única ou última instância. Incide, analogicamente, o enunciado n. 735 da Súmula do STF. Precedentes.
+2. Conforme o entendimento desta Corte Superior, o especial interposto contra acórdão que decide sobre pedido de antecipação de tutela admite, "tão somente, discutir eventual ofensa aos próprios dispositivos legais que disciplinam o tema (art. 300 do CPC/2015, correspondente ao art. 273 do CPC/1973), e não violação a norma que diga respeito ao mérito da causa" (AgInt no AREsp n. 1.943.057/RJ, relator MINISTRO RAUL ARAÚJO, QUARTA TURMA, julgado em 14/3/2022, DJe de 4/4/2022).
+3. No caso, descabe cogitar do exame da tese de contrariedade ao art. 10, VII, da Lei n. 9.656/1998, pois o referido normativo não está relacionado aos requisitos de concessão das medidas de urgência.
+4. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7/STJ).
+5. No caso concreto, para averiguar, nesta instância, a ausência dos requisitos da tutela antecipada que impôs à agravante o custeio liminar do tratamento de saúde do agravado, seria imprescindível nova análise da matéria fática, inviável em recurso especial.
+6. Agravo interno a que se nega provimento.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA (Relator): A insurgência não merece ser acolhida.
+A agravante não trouxe nenhum argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (e-STJ fls. 808/811):
+Cuida-se de agravo apresentado por HAPVIDA ASSISTÊNCIA MÉDICA LTDA. contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alíneas "a" e "c" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO RIO GRANDE DO NORTE, assim resumido:
+CONSUMIDOR. PLANO DE SAÚDE. RECUSA ILEGÍTIMA EM CUSTEAR TRATAMENTO, CONFORME PRESCRIÇÃO MÉDICA. TUTELA DEFERIDA NA ORIGEM. ALEGAÇÃO DO PLANO DE SAÚDE DE AUSÊNCIA DE COBERTURA. PRETENSÃO RECURSAL PARA DESOBRIGAR A IMEDIATA REALIZAÇÃO DO PROCEDIMENTO. NÃO ACOLHIMENTO. PRESCRIÇÃO MÉDICA EXPRESSA. URGÊNCIA DO TRATAMENTO. PREVALÊNCIA DO DIREITO À SAÚDE. PRINCÍPIO DA DIGNIDADE DA PESSOA HUMANA. DECISÃO AGRAVADA MANTIDA. CONHECIMENTO E DESPROVIMENTO DO AGRAVO DE INSTRUMENTO. PRECEDENTES.
+Quanto à primeira controvérsia, pela alínea "a" do permissivo constitucional, alega violação do art. 10, VII, da Lei n. 9.656/98, no que concerne à equivocada condenação da parte recorrente a fornecer órteses de alto custo não ligadas ao ato cirúrgico, trazendo os seguintes argumentos:
+A Lei 9.656/98, Lei Federal que rege o setor de saúde suplementar exclui a cobertura de órteses e próteses não ligadas ao ato cirúrgico:
+ ..
+Por sua vez, o acórdão ora recorrido julgou devido o custeio integral, em sede de antecipação de tutela, de material terapêutico utilizado no protocolo de Pediasuit, que se trata de órtese não ligada a ato cirúrgico e, portanto, não possui cobertura obrigatória pelas operadoras de planos de saúde. (fls. 715-716).
+Quanto à segunda controvérsia, pela alínea "a" do permissivo constitucional, alega violação do art. 10, I, da Lei n. 9.656/98, no que concerne à indevida condenação da recorrente a custear procedimento de cunho experimental, trazendo os seguintes argumentos:
+Em ato contínuo, importa reiterar que o protocolo Pediasuit não é um procedimento de cobertura obrigatória, vez que não consta no Rol de Procedimentos e Eventos em Saúde, bem como é de caráter experimental.
+ ..
+Neste passo, não pode a Hapvida ser compelida a dispender valores para procedimentos de alto custo, de caráter experimental e sem qualquer confirmação técnica de eficácia, a serem realizados em prestador particular, a despeito de fornecer acompanhamento em todas as especialidades necessárias ao tratamento da enfermidade apresentada pelo menor em rede credenciada..
+ ..
+O recorrido é portador de portador de encefalopatia crônica não progressiva (paralisia cerebral) e Síndrome de West, que é uma condição crônica e, uma vez acompanhada, não apresenta risco de morte, mas limitações físicas e neurológicas.
+Portanto, não há risco de morte demonstrado neste caso!
+Ainda, o recorrido já tem disponível equipe multidisciplinar credenciada apta para o acompanhamento de que necessita, o que ressalta a ausência do periculum in mora, vez que, de forma diversa ao aduzido em inicial, a paciente não está desassistida, tampouco se encontra com risco de morte ou dano irreparável.
+Apesar do inconformismo demonstrado, os genitores do infante não apresentaram qualquer justificativa contundente capaz de comprovar que o tratamento ofertado pelos prestadores credenciados à Hapvida não é capaz de atender as necessidades do beneficiário, tanto é que não colacionam aos autos qualquer relatório médico, pois acaso fosse realmente verdade, a própria médica assistente da menor teria contraindicado. (fls. 718-723).
+Quanto à terceira controvérsia, pela alínea "c" do permissivo constitucional, aponta divergência interpretativa em relação ao art. 10, I e VII, da Lei n. 9.656/98, no que concerne à necessidade de observância do rol da Agência Nacional Saúde Suplementar (ANS) acerca da obrigatoriedade da cobertura de procedimentos pelas operadoras de planos de saúde, trazendo os seguintes argumentos:
+De pronto, é imprescindível consignar o entendimento já firmado por este Egrégio Tribunal sobre a necessidade de observância do rol da ANS, conforme decisão exarada no RECURSO ESPECIAL Nº 1.733.013-PR (2018/0074061-5):
+ ..
+Portanto, o STJ, após brilhante apurado histórico da promulgação da Lei 9.656/98, bem como da criação da ANS para fins de regulamentação do setor de saúde suplementar, além da fiscalização e manutenção do equilíbrio econômico-financeiro, ratificou a necessidade de se observar estas normativas, sob pena de obsolescência da regulamentação.
+Adiante, ressaltou que o Rol garante o tratamento, prevenção e diagnóstico a todas as doenças listadas na ANS com procedimentos e eventos comprovadamente eficazes, não estando, pois, qualquer paciente desassistido. (fls. 724-731).
+É, no essencial, o relatório. Decido.
+Quanto à primeira, à segunda e à terceira controvérsias, incide, por analogia, o óbice da Súmula n. 735/STF, pois, conforme a orientação jurisprudencial do Superior Tribunal de Justiça, é inviável, em regra, a interposição de recurso especial que tenha por objeto o reexame do deferimento ou indeferimento de tutela provisória, cuja natureza precária permite sua reversão a qualquer momento pela instância a quo.
+Nesse sentido: "É sabido que as medidas liminares de natureza cautelar ou antecipatória são conferidas mediante cognição sumária e avaliação de verossimilhança. Logo, por não representarem pronunciamento definitivo a respeito do direito reclamado na demanda, são medidas suscetíveis de modificação a qualquer tempo, devendo ser confirmadas ou revogadas pela sentença final. Em razão da natureza instável de decisão desse jaez, o STF sumulou entendimento segundo o qual "não cabe recurso extraordinário contra acórdão que defere medida liminar" (Súmula 735/STF). O juízo de valor precário, emitido na concessão de medida liminar, não tem o condão de ensejar a violação da legislação federal, o que implica o não cabimento do Recurso Especial, nos termos da referida Súmula 735/STF"". (AgInt no AREsp 1.598.838/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe 21/8/2020.)
+Confira-se ainda o seguinte precedente: AgInt no AREsp 1.571.882/BA, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 01/07/2020; AgInt no REsp 1.830.644/RO, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 26/06/2020; AREsp 1.610.726/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 26/06/2020; AgInt no AREsp 1.621.446/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 27/04/2020; AgInt no AREsp 1.571.937/PA, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 13/04/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+Registre-se que a jurisprudência desta Corte não admite, em regra, a interposição de recurso especial cujo objetivo seja discutir a correção de acórdão que nega ou defere medida liminar ou antecipação de tutela, por não se tratar de decisão em única ou última instância. Incide, analogicamente, o enunciado n. 735 da Súmula do STF: "não cabe recurso extraordinário contra acórdão que defere medida liminar."
+Confiram-se, ainda:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. 1. CONCLUSÃO NO SENTIDO DA DEMONSTRAÇÃO DOS REQUISITOS NECESSÁRIOS AO DEFERIMENTO DA TUTELA ANTECIPADA. SÚMULA 7/STJ. 2. NATUREZA PRECÁRIA E PROVISÓRIA DO DECISUM QUE, EM REGRA, NÃO AUTORIZA A INTERPOSIÇÃO DO RECURSO ESPECIAL. SÚMULA 735/STF. 3. OFENSA A RESOLUÇÃO. NORMA QUE NÃO SE ENQUADRA NO CONCEITO DE LEI FEDERAL. 4. OFENSA A SÚMULA. INCIDÊNCIA DO ÓBICE DA SÚMULA 518/STJ. 5. INAPLICABILIDADE DO DISPOSTO NO ART. 1.040 DO CPC/2015. FALTA DE INTERESSE RECURSAL. 6. AGRAVO INTERNO PARCIALMENTE PROVIDO.
+(..)
+2. Consoante a jurisprudência do Superior Tribunal de Justiça, de acordo com o disposto na Súmula 735/STF, em regra, também não cabe recurso especial contra acórdão que defere medida liminar.
+Precedentes.
+(..)
+6. Agravo interno parcialmente provido, apenas para afastar a aplicação do disposto no art. 1.040 do CPC/2015, em razão da falta de interesse recursal sobre o Tema 936/STJ.
+(AgInt no AREsp n. 1.803.724/RJ, relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 27/6/2022, DJe de 29/6/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REVISÃO DE DECISÃO QUE DEFERE OU INDEFERE LIMINAR. IMPOSSIBILIDADE. SÚMULA 735/STF. ORGANISMO INTERNACIONAL. COMPETÊNCIA ABSOLUTA. JUSTIÇA FEDERAL. ART. 109, II DA CF/88. NÃO PROVIMENTO.
+1. Esta Corte Superior, em sintonia com o disposto na Súmula 735/STF, entende que, via de regra, não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, por não representar pronunciamento definitivo, mas provisório, a respeito do direito afirmado na demanda, sujeito a modificação a qualquer tempo.
+2. Conforme disposição constitucional, compete aos juízes federais processar e julgar as causas entre Estado estrangeiro ou organismo internacional e município ou pessoa domiciliada ou residente no país e esta regra de competência, em razão da qualidade da parte ou da pessoa definida na CF/88, é absoluta e não comporta modificação.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 1.645.228/MG, relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 26/4/2022, DJe de 3/5/2022.)
+Além disso, conforme o entendimento desta Corte Superior, o especial interposto contra acórdão que decide pedido de antecipação de tutela admite, "tão somente, discutir eventual ofensa aos próprios dispositivos legais que disciplinam o tema (art. 300 do CPC/2015, correspondente ao art. 273 do CPC/1973), e não violação a norma que diga respeito ao mérito da causa" (AgInt no AREsp n. 1.943.057/RJ, relator MINISTRO RAUL ARAÚJO, QUARTA TURMA, julgado em 14/3/2022, DJe de 4/4/2022).
+No caso, descabe cogitar do exame da tese de contrariedade ao art.10, VII, da Lei n. 9.656/1998, pois o referido normativo não está relacionado aos requisitos de concessão das medidas de urgência.
+O Tribunal de origem, soberano na análise do conjunto fático-probatório dos autos, assentou que as circunstâncias do caso concreto recomendavam a confirmação da medida liminar que impôs à agravante o dever de cobertura da assistência médica solicitada pelo agravado (e-STJ fls. 702/703).
+Desse modo, para averiguar, nesta instância, a ausência dos requisitos da tutela antecipada que deferiu liminarmente o custeio do tratamento de saúde do recorrido, seria imprescindível nova análise da matéria fática, inviável em recurso especial.
+Aplicável, dessa maneira, a Súmula n. 7/STJ.
+Ademais,"a incidência das Súmulas 5 e 7 do Superior Tribunal de Justiça impede o exame de dissídio jurisprudencial, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual o Tribunal de origem deu solução à causa" (AgInt no AREsp n. 1.232.064/SP, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 4/12/2018, DJe 7/12/2018).
+Assim, não prosperam as alegações deduzidas, incapazes de alterar os fundamentos da decisão impugnada.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
