@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo ESTADO DO PARANÁ contra acórdão proferido pelo Tribunal de Justiça do Estado do Paraná assim ementado:
+APELAÇOES CIVEIS. I - HOMICIDIO PRATICADO POR AGENTE PUBLICO QUE NÃO ESTAVA DE SERVIÇO, MAS UTILIZANDO DA ESTRUTURA ESTATAL, POR SE FAZER ACOMPANHAR DE DOIS COLEGAS POLICIAIS MILITARES EM VIATURA POLICIAIL VAI ATÉ A RESIDÉNCIA DA VITIMA E DESFERE TIRO QUE A LEVA A MORTE, POSTERIORMENTE.
+Opostos embargos de declaração, foram, em parte, acolhidos.
+A parte recorrente alega violação do art. 404 do Código Civil - CC/2002, do art. 1º da Lei n. 6.899/1981 e do art. 1.008 do Código de Processo Civil - CPC/2015 e sustenta, em síntese (fls. 1071/1076):
+A questão que se busca rediscutir neste momento concerne ao termo inicial da correção monetária da indenização. Para o Estado, com atenção à Súmula 362 do Superior Tribunal de Justiça1, bem assim aos artigos 404 do Código Civil, 1º, § 1º, da Lei n. 6.899/813 e 1.008 do Código de Processo Civil, a correção monetária, a ser calculada pelo IPCA-E, incide desde o arbitramento da indenização no Tribunal de Justiça (2.019). De modo diferente posiciona-se o acórdão, embora a Súmula 362/STJ também tenha sido o referencial. Acórdão referente ao julgamento de embargos de declaração prevê que a correção incide desde a sentença (2013)  ..  A decisão proferida pelo Tribunal de Justiça do Paraná, ao dizer que a correção monetária do valor da indenização por dano moral, incide desde a data da sentença, ainda que tal valor tenha sido alterado em segunda instância, diverge da interpretação que o Superior Tribunal de Justiça dedica à sua própria Súmula e, de resto ao direito positivo aplicado ao caso
+Contrarrazões apresentadas pelas partes recorridas (fls. 1096/1105).
+É o relatório. Decido.
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC (Enunciado n. 3 do Plenário do STJ).
+Vejamos, no que interessa, o que está consignado no voto condutor do acórdão recorrido (fls. 952/972):
+Por isso reduzo o valor da respectiva verba indenizatória para R$ 60.000.00, a ser rateado entre as autoras, por entender que o mesmo atende as finalidades compensatória e pedagógica.
+ ..
+Termo inicial dos juros de mora.
+Relativamente aos juros de mora fixados pelos danos morais reside razão ao recurso das autoras, de vez que incidem a partir do evento danoso, nos termos da Sumula 54 do STJ.
+Relativamente aos juros de mora e correção monetária cabe a adequação da sentença do novo entendimento do Supremo Tribunal Federal oriundo do julgamento do RE 870947 em 20/09/2017.
+Assim, a correção monetária deve ser feita pelo IPCA-E na forma do entendimento do Supremo Tribunal Federal, desde a data do evento danoso (fevereiro de 2006), quanto a pensão, conforme determina a Sumula 43 do STJ e a partir da sentença, pertinente aos danos morais, nos termos da Sumula 362 do STJ.
+Por ocasião do julgamento dos embargos de declaração, foi acrescido à fundamentação (fls. 1057/1059):
+Inicialmente, não se vislumbra a alegada omissão quanto ao termo inicial da correção monetária da indenização por danos morais, de vez que constou expressamente no acórdão que incide a partir da sentença, nos termos da Súmula 362 do STJ (mov. 1.1 - fls. 781).
+Pois bem.
+Consoante se extrai da Súmula 362 do STJ, é pacífica a orientação jurisprudencial deste Tribunal Superior segundo a qual o termo inicial da incidência da correção monetária é a data do arbitramento da indenização por danos morais ou, em caso de recurso da parte interessada, do acórdão proferido no segundo grau de jurisdição, que o mantém ou modifica (e não da decisão do recurso especial, quando não conhecido).
+A respeito:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. ACIDENTE EM TRANSPORTE COLETIVO. RELAÇÃO CONTRATUAL. REVISÃO DO MONTANTE INDENIZATÓRIO. REEXAME FÁTICO-PROBATÓRIO. INADEMISSIBILIDADE. CORREÇÃO MONETÁRIA. TERMO INICIAL. DATA DO ARBITRAMENTO.
+1. Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC (Enunciado n. 3 do Plenário do STJ).
+2. Não há violação dos arts. 489 e 1.022 do CPC/2015 quando o órgão julgador, de forma clara e coerente, externa fundamentação adequada e suficiente à conclusão do acórdão embargado.
+3. Em razão da necessidade de reexame de fatos e provas, a via do recurso especial não é adequada à revisão dos valores fixados a título de indenização, notadamente quando o montante indenizatório não se revelar exagerado. Precedentes.
+4. No que se refere à correção monetária, a orientação jurisprudencial deste Tribunal está sedimentada na Súmula 362 do STJ, segundo a qual "a correção monetária do valor da indenização do dano moral incide desde a data do arbitramento". Convém anotar que sua observância deve-se dar tanto na hipótese de responsabilidade civil contratual, quanto na de responsabilidade extracontratual. Precedentes.
+5. No caso dos autos, o recurso especial não pode ser conhecido quanto à pretensão de cassação e alteração do valor indenizatório, pois dependente do reexame de provas; e não pode ser conhecido quanto à pretensão relacionada à correção monetária, uma vez que o acórdão recorrido está em conformidade com a orientação jurisprudencial do STJ.
+6. Agravo interno não provido.
+(AgInt no AgInt no REsp n. 1.941.146/RJ, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 2/5/2022, DJe de 4/5/2022)
+PROCESSO CIVIL. AGRAVO INTERNO. EMBARGOS DE DECLARAÇÃO. PRESTAÇÃO JURISDICIONAL COMPLETA. AÇÃO DE INDENIZAÇÃO. DANOS MORAIS. CIRURGIA. QUEIMADURAS. DEFEITO NO EQUIPAMENTO E IMPERÍCIA DO PROFISSIONAL. SOLIDARIEDADE ENTRE O HOSPITAL E O MÉDICO TERCEIRIZADO. CULPA VERIFICADA. REEXAME DE PROVAS. SÚMULA 7/STJ. CORREÇÃO MONETÁRIA. VALOR DA INDENIZAÇÃO. RESPONSABILIDADE CONTRATUAL. SÚMULA 362/STJ. OBSERVÂNCIA.
+1. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões, deve ser afastada a alegada violação aos arts. 165, 458 e 535 do Código de Processo Civil de 1973.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula 7/STJ).
+3. Nos termos do enunciado da Súmula 362/STJ, a correção monetária do valor da indenização por dano moral incide desde a data do arbitramento definitivo, não importando a natureza da responsabilidade civil, se contratual ou extracontratual.
+4. Agravo interno parcialmente provido.
+(AgInt no AREsp n. 797.644/ES, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 23/8/2021, DJe de 25/8/2021)
+No mesmo sentido, dentre outros: AgInt no AREsp n. 1.943.897/MG, relator Ministro Raul Araújo, Quarta Turma, julgado em 15/8/2022, DJe de 26/8/2022; AgInt no REsp n. 1.831.222/RJ, relator Ministro Raul Araújo, Quarta Turma, julgado em 8/8/2022, DJe de 26/8/2022; AgInt no REsp n. 1.949.657/RJ, relator Ministro Marco Buzzi, Quarta Turma, julgado em 27/6/2022, DJe de 30/6/2022; REsp n. 1.006.099/PR, relator Ministro Teori Albino Zavascki, Primeira Turma, julgado em 18/12/2008, DJe de 4/2/2009.
+No caso, o acórdão recorrido não observa a orientação deste Tribunal Superior, pois, embora tenha modificado o quantum indenizatório, determinou a correção monetária a partir da sentença; e, além disso, o recurso especial da parte ex adversa não foi conhecido, razão pela qual é a data do acórdão o termo inicial da correção monetária, já que, nele, a indenização foi arbitrada de forma definitiva.
+Ante o exposto, dou provimento ao recurso especial para reformar, em parte, o acórdão recorrido e determinar a incidência da correção monetária, pertinente ao montante arbitrado a título indenização por danos morais, desde a data do acórdão proferido pelo Tribunal de Justiça.
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. DANOS MORAIS. CORREÇÃO MONETÁRIA. TERMO INICIAL. DATA DO ARBITRAMENTO NO SEGUNDO GRAU DE JURISDIÇÃO. ORIENTAÇÃO JURISPRUDENCIAL PACÍFICA. RECURSO ESPECIAL PROVIDO.
