@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo interno manejado por Servi Segurança e Vigilância de Instalações Ltda. desafiando decisão da Presidência do STJ que conheceu do agravo para não conhecer do recurso especial, por entender quenão houve o prequestionamento da tese recursal.
+Em suas razões, a parte agravante sustenta que "a tese recursal contida no RESP interposto pela SERVI foi devidamente prequestionada perante a Corte Distrital, estando presentes e demonstrados os requisitos de admissibilidade para conhecimento e, posteriormente, provimento do Recurso Especial interposto pela ora Agravante/SERVI." (fl. 1.661)
+Sem impugnação (fl. 1.673).
+É o relatório.
+Melhor compulsando os autos, exercendo o juízo de retratação facultado pelos arts. 1.021, § 2º, do CPC e 259, § 3º, do RISTJ, reconsidero a decisão agravada, tornando-a sem efeito, passando novamente à análise do recurso:
+Trata-se de agravo manejado porServi Segurança e Vigilância de Instalações Ltda.contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementado (fls. 1.517/1.518):
+EMBARGOS DE DECLARAÇÃO NA APELAÇÃO CÍVEL. ADMINISTRATIVO E PROCESSO CIVIL. REJULGAMENTO DETERMINADO PELO SUPERIOR TRIBUNAL DE JUSTIÇA. HONORÁRIOS ADVOCATÍCIOS. NECESSIDADE DE FIXAÇÃO DE ACORDO COM O ART. 85 DO CÓDIGO DE PROCESSO CIVIL. INVIABILIDADE DE ARBITRAMENTO POR EQUIDADE. ACÓRDÃO REFORMADO.
+1. "Ressalvadas as exceções previstas nos §§ 3º e 8º do art. 85 do CPC/2015, na vigência da nova legislação processual o valor da verba honorária sucumbencial não pode ser arbitrado por apreciação equitativa ou fora dos limites percentuais fixados pelo § 2º do referido dispositivo legal." (REsp 1.731.617/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 17/4/2018, DJe 15/5/2018)
+2. Recurso conhecido e desprovido. Acórdão reformado na parte referente aos honorários advocatícios sucumbenciais.
+Opostos embargos declaratórios, foram rejeitados (fls. 1.548/1.555).
+Nas razões do recurso especial, a parte agravante aponta violação ao art. 85, § 3º, do CPC.Sustenta, em síntese, que "a parte Recorrido/METRÔ-DF trata-se de uma sociedade de economia mista, prestadora de serviço público, equiparada à Fazenda Pública e, portanto, atraída a regra insculpida no artigo 85, § 3º do CPC" (fl. 1.573).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não merece acolhida. Com efeito, na hipótese vertente, o Tribunal de origem, quando do julgamento dos aclaratórios, esclareceu que "não há que se falar em contradição no acórdão, quando se houve o integral cumprimento de determinação do Superior Tribunal de Justiça, que, inclusive, orientou quanto à fixação dos honorários sucumbenciais, com fulcro no art. 85, §2º, do Código de Processo Civil (Id Num. 16250931, p. 72)" (fl. 1.553).
+Assim, observa-se que o recurso especial não impugnou fundamento basilar que ampara o acórdão de origem, qual seja, o de que houve determinação do Superior Tribunal de Justiça quanto à fixação dos honorários sucumbenciais a partir da regra estabelecida no art. 85, § 2º, do CPC.
+Nesse contexto, a pretensãoesbarra, pois, no obstáculo da Súmula 283/STF, que assim dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".A respeito do tema:AgInt no REsp 1711262/SE, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 17/2/2021; AgInt no AREsp 1679006/SP, Rel. Ministro Raul Araújo, Quarta Turma, DJe 23/2/2021.
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
