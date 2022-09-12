@@ -1,0 +1,52 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/09/2022 a 12/09/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Humberto Martins.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de agravo interno (fls. 369/383) interposto contra decisão da Presidência desta Corte proferida nos seguintes termos:
+Cuida-se de agravo interposto por FERRARI AGROINDUSTRIA S/A, contra decisão que inadmitiu recurso especial com fundamento no art. 105, inciso III, da Constituição Federal.
+É, no essencial, o relatório. Decido.
+Inicialmente, de acordo com os Enunciados Administrativos do STJ n. os 02 e 03, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, inclusive; ou, se publicada a partir de 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+Mediante análise do recurso de FERRARI AGROINDUSTRIA S/A, a parte recorrente foi intimada da decisão agravada em 05/03/2021, sendo o agravo somente interposto em 08/06/2021.
+O recurso é, pois, manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias úteis, nos termos do art. 994, VIII, c/c os arts. 1.003, § 5º, 1.042, caput, e 219, caput, todos do Código de Processo Civil.
+A propósito, nos termos do § 6º do art. 1.003 do mesmo código, "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso", o que impossibilita a regularização posterior.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno doSuperior Tribunal de Justiça, não conheço do recurso.
+Publique-se. Intimem-se.
+Alega a agravante o seguinte (fls. 369/370):
+1 - A decisão, ora agravada, inadmitiu o agravo em recurso especial porque, a rigor, nas palavras do nobre ministro, o recorrente interpôs intempestivamente o recurso. Publicação de 05.03.2021 no Tribunal de Justiça local; recurso interposto em 08 de junho de 2021.
+2 -O processo era físico na origem. Durante os dias 8 de março a 16 de maio de 2021, em função da pandemia, os prazos ficaram suspensos (Provimentos 2600, 2602, 2605, 2612 e 2616 -todos do Tribunal de Justiça do Estado de São Paulo).
+3 -A agravante juntou extrato de suspensão de prazos do Tribunal paulista -folhas 345 e 346.
+4-O Superior Tribunal de Justiça autoriza, todavia, consoante seus julgados mais recentes, demonstração da ocorrência do feriado local, mediante interposição do agravo interno.
+ ..
+5-É o que se faz. Juntam-se os provimentos 2600, 2602, 2605, 26012 e 2616 - todos demonstram que entre 08 de março e 16 de maio os prazos de processos físicos - como é o caso -estavam suspensos. O agravo de despacho denegatório é, então, tempestivo.
+6-De modo que, bem por isso, requer-se julgamento de procedência do agravo interno para, além de receber o recurso especial, analisar e dar provimento ao seu mérito.
+Requer o reconhecimento da tempestividade do apelo excepcional e seu regular processamento.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL.
+COMPROVAÇÃO DA TEMPESTIVIDADE A SER FEITA NO ATO DE INTERPOSIÇÃO DO RECURSO APÓS A VIGÊNCIA DO NOVO CPC. AUSÊNCIA DE EXPEDIENTE NO TRIBUNAL DE ORIGEM. NECESSIDADE DE COMPROVAÇÃO NO ATO DA INTERPOSIÇÃO.
+1. Trata-se de recurso considerado intempestivo porquanto interposto fora do prazo de 15 dias úteis sem a comprovação, no ato de interposição do agravo em recurso especial,da alegada suspensão do expediente forense no Tribunal de Justiça do Estado de São Paulo entre os dias 8 de março e 16 de maio de 2021, ausência de expediente cartorário quenão pode ser comprovada posteriormente, consoante entendimento consolidado nesta Corte em razão do disposto no § 6º do art. 1.033 do CPC.
+2. A Corte Especial do STJ, nos autos do AREsp nº 957.821/MS, de relatoria do Ministro Raul Araújo, Relatora para acórdão Ministra Nancy Andrighi, DJe 19/12/2017, firmou entendimento no sentido da impossibilidade de comprovação posterior da tempestividade de recurso interposto na égide do CPC/2015, haja vista a redação do art. 1.003, § 6º, da referida norma, que exige a comprovação da ocorrência de feriado local no ato de interposição do recurso, e porque o § 3º do art. 1.029 impõe, para desconsideração de vício formal, que se trate de "recurso tempestivo".
+3. A necessidade de comprovação do feriado local  ou mesmo da suspensão do expedienteno âmbito do Tribunal a quo  , no ato da interposição do recurso, por meio de documento idôneo, foi reafirmada pela Corte Especial, em 2/10/2019, no julgamento do REsp 1.813.684/SP, modulando-se, todavia, os efeitos da decisão, em razão dos princípios da segurança jurídica, da proteção da confiança, da isonomia e da primazia da decisão de mérito, de modo que o entendimento por ela firmado fosse aplicado tão somente aos recursos interpostos após a publicação do acórdão daquele apelo nobre, o que ocorrera em 18/11/2019 (STJ, REsp 1.813.684/SP, Rel. p/ acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, DJe de 18/11/2019).
+4. Em Questão de Ordem, de relatoria da Ministra NANCY ANDRIGHI, julgada em 3/2/2020 (DJe de 28/2/2020), a Corte Especial do STJ reconheceu que a tese firmada por ocasião do julgamento do referido REsp 1.813.684/SP, no que relativo à modulação de efeitos, é restrita ao feriado de segunda-feira de carnaval, não se aplicando aos demais feriados locais.
+5. Na linha dos precedentes desta Corte, é inviável acomprovação da suspensão do expediente forense mediante a juntada dos Provimentos 2600, 2602, 2605 e 2612 e 2616 apenas na oportunidade da interposição doagravo interno.
+6. Agravo interno não provido.
+VOTO
+O recurso não merece acolhimento.
+Trata-se de recurso considerado intempestivo porquanto interposto fora do prazo de 15 dias úteis sem a comprovação, no ato de interposição do agravo em recurso especial, da alegada suspensão do expediente forense no Tribunal de Justiça do Estado de São Paulo entre os dias 8 de março e 16 de maio de 2021, ausência de expediente cartorário que não pode ser comprovada posteriormente, consoante entendimento consolidado nesta Corte em razão do disposto no § 6º do art. 1.033 do CPC
+Com efeito, a Corte Especial/STJ, nos autos do AREsp nº 957.821/MS, de relatoria do Ministro Raul Araújo, Relatora para acórdão Ministra Nancy Andrighi, DJe 19/12/2017, firmou entendimento no sentido da impossibilidade de comprovação posterior da tempestividade de recurso interposto na égide do CPC/2015, haja vista a redação do art. 1.003, § 6º, da referida norma, que exige a comprovação da ocorrência de feriado local no ato de interposição do recurso, e porque o § 3º do art. 1.029 impõe, para desconsideração de vício formal, que se trate de "recurso tempestivo". Impende registrar que o art. 374, I, do CPC/2015 não se aplica na hipótese.
+Confira-se a emenda do supracitado julgado:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FERIADO LOCAL. COMPROVAÇÃO. ATO DE INTERPOSIÇÃO DO RECURSO.
+1. O propósito recursal é dizer, à luz do CPC/15, sobre a possibilidade de a parte comprovar, em agravo interno, a ocorrência de feriado local, que ensejou a prorrogação do prazo processual para a interposição do agravo em recurso especial.
+2. O art. 1.003, § 6º, do CPC/15, diferentemente do CPC/73, é expresso no sentido de que "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso".
+3. Conquanto se reconheça que o novo Código prioriza a decisão de mérito, autorizando, inclusive, o STF e o STJ a desconsiderarem vício formal, o § 3º do seu art. 1.029 impõe, para tanto, que se trate de "recurso tempestivo".
+4. A intempestividade é tida pelo Código atual como vício grave e, portanto, insanável. Daí porque não se aplica à espécie o disposto no parágrafo único do art. 932 do CPC/15, reservado às hipóteses de vícios sanáveis.
+5. Seja em função de previsão expressa do atual Código de Processo Civil, seja em atenção à nova orientação do STF, a jurisprudência construída pelo STJ à luz do CPC/73 não subsiste ao CPC/15: ou se comprova o feriado local no ato da interposição do respectivo recurso, ou se considera intempestivo o recurso, operando-se, em consequência, a coisa julgada.
+6. Agravo interno desprovido. (AgInt no AREsp 957.821/MS, Rel. Ministro Raul Araújo, Rel.(a) p/ Acórdão Ministra Nancy Andrighi, Corte Especial, DJe 19/12/2017) (grifei)
+A necessidade de comprovação do feriado local  ou mesmo da suspensão do expedienteno âmbito do Tribunal a quo, como no caso em análise  , no ato da interposição do recurso, por meio de documento idôneo, foi reafirmada pela Corte Especial, em 2/10/2019, no julgamento do REsp 1.813.684/SP, modulando-se, todavia, os efeitos da decisão, em razão dos princípios da segurança jurídica, da proteção da confiança, da isonomia e da primazia da decisão de mérito, de modo que o entendimento por ela firmado fosse aplicado tão somente aos recursos interpostos após a publicação do acórdão daquele apelo nobre, o que ocorrera em 18/11/2019 (STJ, REsp 1.813.684/SP, Rel. p/ acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, DJe de 18/11/2019).
+Em Questão de Ordem, de relatoria da Ministra NANCY ANDRIGHI, julgada em 3/2/2020 (DJe de 28/2/2020), a Corte Especial do STJ reconheceu que a tese firmada por ocasião do julgamento do referido REsp 1.813.684/SP, no que relativo à modulação de efeitos, é restrita ao feriado de segunda-feira de carnaval, não se aplicando aos demais feriados locais.
+Nesse contexto, diversamente do que alega o agravante, é inviável a comprovação da suspensão do expediente forensemediante a juntada dos Provimentos 2600, 2602, 2605 e 2612 e 2616 apenas nessa oportunidade, com a interposição do presente agravo interno.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
