@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus,com pedido liminar, impetrado em favor deMatheus da Silva Melo, apontando-se como autoridade coatora o Tribunal de Justiça de São Paulo (Apelação Criminal n.1528094-44.2021.8.26.0228).
+Narram os autos que o paciente foi condenado a 6 anos e 6 meses de reclusão, em regime inicial fechado, e 24 dias-multa, pela prática dos crimes de roubo circunstanciado e receptação simples.
+Neste mandamus, a Defensoria Pública alega que o Tribunal de Justiça, em recurso doParquet, agravou a pena do paciente em razão de a conduta ter sido praticada durante calamidade pública.
+Destaca queé indispensável a prova do nexo entre a situação vivenciada no período de calamidade e o crime cometido, além de ser necessário que o agente saiba da existência da edição da norma que decretou a calamidade, sob pena de se caracterizar responsabilidade penal objetiva(fl. 5).
+Aduz, ainda, a existência de ilegalidade na fixação do regime fechado, pois,tendo a pena-base sido fixada em seu mínimo legal em razão da ausência de quaisquer elementos que justificassem sua majoração, o regime inicial deve simplesmente atender aos pressupostos objetivos, sob pena de incoerência da decisão (fl. 8).
+Requer, inclusiveem liminar, a concessão da ordem a fim de queseja afastada a agravante prevista no artigo 61, II, j, do Código Penal, diminuindo-se a penaeque seja fixado o regime inicial semiaberto(fl. 10).
+É o relatório.
+In casu, a ordem comporta concessãoin limine.
+Quanto ao pleito de afastamento da agravante de calamidade pública, verifica-se que, quanto ao crime de roubo majorado, ela foi reconhecida nos seguintes termos (fl. 19 - grifo nosso):tendo em conta a data dos fatos 18/11/2021) e a edição do Decreto n.64.879, de 20.3.2020, da Assembleia Legislativa do Estado de São Paulo, de modo que reconheço ter sido praticado o crime em reconhecido estadopública, decorrente da notória pandemia de Covid-19.
+Já, quanto ao crime de receptação, disse o Tribunal de Justiça o seguinte (fls. 28/29):Na etapa intermediária, incide a agravante ligada à prática delitiva em período de calamidade pública, nos exatos termos do art. 61, II, "j", do diploma penal, uma vez que o apelante perpetrou a receptação com insensibilidade às regras emanadas da solidariedade social e facilitação da ação pela menor circulação de pessoas pelas ruas, circunstância estareconhecida por este Colegiado como de natureza objetiva.
+Com efeito, na hipótese dos autos, ausente a demonstração de que a prática dos crimes imputados ao paciente teria sido facilitada porque ocorrida durante a pandemia do novo coronavírus. Em outras palavras, na espécie, não se estabeleceu um nexo de causalidade entre o fato objeto da condenação e a agravante invocada.
+A propósito, nos termos da jurisprudência desta Corte Superior,a incidência de tal agravante sem a devida motivação pode levar à indesejável exasperação de todas as penas por todos os delitos cometidos durante a pandemia, o que contraria frontalmente a necessidade de individualização, de adequação da pena ao caso concreto(AgRg no HC n. 657.673/SP, de minha relatoria, Sexta Turma, DJe 16/6/2021).
+Assim, a agravante deve ser afastada.
+Feitas essas considerações, passo a redimensionar a pena do paciente.
+Em relação ao crime de roubo circunstanciado, na primeira fase da dosimetria, fica apena-base fixada em 4 anos de reclusão e10 dias-multa. Na segunda fase, afastada a agravante da calamidade pública, contudo, permanece a atenuante da confissão, contudo, diante do Enunciado n. 231 da súmula do STJ (A incidência dacircunstância atenuantenão pode conduzir à redução dapenaabaixo domínimo legal), fica a pena intermediária fixada em 4 anos de reclusãoe 10 dias-multa. Na terceira fase da dosimetria, a pena éaumentada em 1/3, em razão da presença do concurso de agentes, ficando a pena definitiva em 5 anos e 4 meses de reclusão, e 13 dias-multa.
+Em relação ao crime de receptação,na primeira fase da dosimetria, fica a pena-base fixada no mínimo legal de 1ano de reclusão e10 dias-multa. Na segunda fase, afastada a agravante da calamidade pública,fica a pena intermediária fixada em 1 anode reclusãoe 10 dias-multa, a qual torno definitiva em razão da ausência de causas de aumento e de diminuição da pena.
+Considerando a existência do concurso material, as penas devem ser somadas, totalizando 6 anos e 4 meses de reclusão, e 23 dias-multa.
+Diante do quantumde pena aplicada, a saber,6 anos e 4mesesde reclusão,da ausência de fundamentação concreta para a imposição do regime inicial fechado (fl. 30) e tendo em vista a pena-base fixada no mínimo legal,cabível, na hipótese, o regime inicial semiaberto.
+Ante o exposto,concedoliminarmentea ordem para afastar a circunstância agravante do art. 61, II, j, do Código Penal, redimensionando a pena do paciente para 6 anos e 4 meses de reclusão, e 23 dias-multa, e fixar o regime inicial semiaberto, mantendo-se, no mais, a sentença condenatória.
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. ROUBO CIRCUNSTANCIADO (CONCURSO DE AGENTES) E RECEPTAÇÃO SIMPLES. DOSIMETRIA. CIRCUNSTÂNCIA AGRAVANTE DA CALAMIDADE PÚBLICA. AFASTAMENTO QUE SE IMPÕE.PENA REDIMENSIONADA. REGIME DIVERSO DO FECHADO. INCIDÊNCIA.
+Ordem liminarmente concedidanos termos do dispositivo.
