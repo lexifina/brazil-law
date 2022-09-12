@@ -1,0 +1,38 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por IRANILSON SANTOS CASTRO E OUTROS à decisão de fls. 1334/1335, que não conheceu do recurso.
+Sustenta a parte embargante que:
+A decisão de Vossa Excelência teve fundamento no art. 21-E, V do RISTJ. Ocorre que há, data máxima vênia, contradição uma vez que o recurso aqui versado é um Agravo contra decisão da presidência do TJMA, que inadmitiu o RESP dos Embargantes, e a motivação da referida decisão de segundo grau, em nada se refere a intempestividade, vejamos:
+ ..
+Deve-se registrar, que a Procuradoria de Justiça do Maranhão, em suas contrarrazões, consignou a tempestividade do Recurso Especial, em nada se rebelando contra esse pormenor (fl. 1339).
+Ademais, a motivação de eventual intempestividade no acórdão dos embargos de declaração de 2º Grau se dá porque houve equívoco na secretaria judicial, uma vez que, à época do protocolo dos Embargos de Declaração, dada às circunstâncias sanitárias causadas pela pandemia, havia a possibilidade de distribuição e protocolo de petições e recursos através de e-mail. Desse modo, conforme se faz juntada o e-mail original, em anexo a este recurso, observa-se que no dia 07 de maio de 2021, os embargos foram devidamente protocolados à Terceira Câmara Criminal do TJMA:
+ ..
+Tal situação fora discutida e apresentada, por meio informal, à presidência do TJMA, que exatamente pelo esclarecimento feito, utilizou outros fundamentos para inadmitir o RESP.
+E, exatamente por não ter abordado na decisão recorrida nenhum fundamento de intempestividade é que a decisão aqui embargada está maculada, data máxima vênia, pelo vício da contradição (fl. 1340).
+ ..
+Porém, o mais importante é realmente pontuar que não houve na decisão recorrida nenhuma fundamentação acerca de intempestividade, o que, inclusive, inviabilizou que a defesa dos Embargantes tivesse feito a argumentação expressa a respeito de eventual intempestividade, comprovando, de forma apropriada, que a juntada tardia do recurso nos autos não se deu por culpa dos Embargantes.
+ ..
+Desse modo, não houve correlação entre a decisão ora embargada e a decisão agravada (que inadmitiu o RESP), bem como do próprio objeto pedido no Recurso. Motivo pelo qual entendem os Embargantes, data vênia, estar bem configurada a contradição da decisão aqui recorrida (fl. 1341).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a retirar ambiguidade, esclarecer obscuridade, eliminar contradição e suprir omissão existentes no julgado, o que não se verifica na hipótese.
+De fato, o recurso enviado ao STJ para julgamento foi o agravo em recurso especial. No entanto, quando a decisão ora embargada julgou a tempestividade do recurso especial, a admissibilidade do agravo em recurso especial ficou superada, partindo-se para a análise dos requisitos de admissibilidade do próprio recurso especial.
+A análise dos pressupostos recursais antecede a análise meritória. Dessa forma, o exame do mérito recursal ficou prejudicado pela ausência de preenchimento dos pressupostos recursais do recurso especial.
+Assim, mutatis mutandis, "a decisão que ordena a subida de recurso especial não significa que o julgador examinará o mérito do recurso, pois poderá, ao aportarem mais elementos de convicção, concluir pela índole constitucional da matéria debatida, pela ausência de prequestionamento ou de qualquer outro requisito de admissibilidade do recurso". (AgRg no REsp n. 436.595/SC, relator Ministro Franciulli Netto, Segunda Turma, DJ de 13/12/2004.)
+Portanto, superada a análise de admissibilidade dos requisitos formais do agravo em recurso especial, são analisados pelo STJ os requisitos formais referentes ao recurso especial, nos quais se enquadram sua tempestividade.
+Além disso, observe-se que "o juízo de admissibilidade do recurso especial é bifásico, de modo que qualquer pronunciamento do Tribunal de origem acerca da tempestividade recursal não vincula esta Corte Superior, a quem compete analisar, em definitivo, o preenchimento dos requisitos de admissibilidade do recurso especial". (AgInt nos EDcl no AREsp 1703604/DF, relator Ministro Marco Buzzi, Quarta Turma, DJe de 04/03/2022.)
+No mais, conforme consignado na decisão ora embargada, segundo a orientação jurisprudencial desta Corte Superior, a oposição de embargos de declaração intempestivo não interrompe nem suspende o prazo para a interposição do recurso especial, como, de fato, ocorreu na espécie.
+Nesse sentido: AgRg nos EDcl no AREsp 1620713/PB, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 10/8/2020; AgInt nos EDcl no AREsp 1584796/SP, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 13/5/2020; e AgRg no AREsp 824.861/PB, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 2/8/2017.
+Registre-se que a jurisprudência firmada no âmbito deste Superior Tribunal de Justiça consolidou o entendimento de que, para fins de aplicação do art. 1.º da Lei n. 9.800/1999, o e-mail não configura meio eletrônico equiparado ao fac-símile.
+Nesse sentido, os seguintes precedentes: AgRg no AREsp 1295788/RJ, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 20/5/2019; AgInt no AREsp 1216048/RJ, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 22/4/2019; AgInt no AREsp 1113888/MG, relator Ministro Paulo De Tarso Sanseverino, Terceira Turma, DJe de 1º/2/2019.
+Ademais, não procede a alegação da existência de Portaria no Tribunal de origem permitindo a prática de atos processuais, via sistema de correio eletrônico (e-mail), nos processos que tramitam por meio físico, uma vez que não se aplica aos recursos dirigidos a esta Corte, cujo processamento é regulado por lei federal.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL INTERPOSTO VIA E-MAIL. INEXISTENTE. INTEMPESTIVIDADE. PORTARIA CONJUNTA 37/2018 DO TJDFT. NÃO APLICAÇÃO AOS RECURSOS DIRIGIDOS A ESTA CORTE. AGRAVO NÃO PROVIDO.
+1. A jurisprudência desta eg. Corte de Justiça é firme no sentido de que o "recurso interposto via e-mail é tido por inexistente, não podendo ser considerado o correio eletrônico instrumento similar ao fac-símile para fins de aplicação do disposto na Lei n.º 9.800/99, na medida em que, além de não haver previsão legal para sua utilização, não guarda a mesma segurança de transmissão e registro de dados" (AgRg no Ag 1.111.475/MG, Rel. Min. LAURITA VAZ, DJe de 25.5.2009).
+2. A Portaria conjunta nº 37/2018, editada pelo Tribunal de Justiça do Distrito Federal e dos Territórios, com a finalidade de permitir o envio de petições àquele Tribunal por correio eletrônico (e-mail), não se aplica aos recursos dirigidos a esta Corte, cujo processamento é regulado em lei federal.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1414107/DF, relator Ministro Raul Araújo, Quarta Turma, DJe de 5/9/2019.).
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
