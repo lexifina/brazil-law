@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo interposto por BANCO DO BRASIL S.A. contra decisão que não admitiu recurso especial.
+O apelo nobre, fundamentado na alínea "a" do permissivo constitucional, desafia acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiroassim ementado:
+"AGRAVO DE INSTRUMENTO. INSURGÊNCIA DA AUTORA, ORA AGRAVANTE, COM A DECISÃO DE 1º GRAU QUE INDEFERIU A TUTELA PROVISÓRIA DE URGÊNCIA POSTULADA, QUE VISAVA À CESSAÇÃO DE DESCONTOS EM SUA CONTA BANCÁRIA, RELATIVOS A CONTRATOS DE EMPRÉSTIMOS QUE NÃO RECONHECE. ALEGAÇÃO DE FRAUDE. PRESENÇA DOS REQUISITOS AUTORIZADORES PARA CONCESSÃO DA MEDIDA PLEITEADA. ART. 300, CAPUT, DO CPC. ACERVO PROBATÓRIO QUE DEMONSTRA TRANSAÇÕES BANCÁRIAS SEQUENCIAIS DURANTE DOIS DIAS, INCOMPATÍVEIS COM O COMPORTAMENTO USUAL DA AGRAVANTE, IDOSA E APOSENTADA. RISCO DE INSERÇÃO DO NOME DA AGRAVANTE NOS CADASTROS RESTRITIVOS DE CRÉDITO, CASO NÃO QUITE AS PARCELAS DOS EMPRÉSTIMOS. PROVIMENTO JUDICIAL QUE SE MOSTRA TERATOLÓGICO E CONTRÁRIO ÀS PROVAS DOS AUTOS. SÚMULA Nº 59 DO TJRJ. REFORMA DA DECISÃO A QUO QUE SE IMPÕE. PRECEDENTES. PROVIMENTO DO RECURSO. (fl. 92, e-STJ).
+Nas razões do especial (fls. 107/118, e-STJ), a parte recorrente aponta violação dos arts. 14, § 3º, II, do CDC, 373 do Código de Processo Civil/2015, 422 e 884 do Código Civil. Sustenta, em síntese, que não foi comprovada a prática de ato ilícito que enseja a reparação por danos morais.
+O recurso não foi admitido na origem. Daí o presente agravo, no qual se busca o processamento do feito.
+É o relatório.
+DECIDO
+Ultrapassados os pressupostos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece acolhida.
+No que se refere à ofensa aos arts. 14, § 3º, II, do CDC, 373 do Código de Processo Civil/2015, 422 e 884 do Código Civilverifica-se que as matérias versadas nos dispositivos apontados como violados no recurso especial não foramobjeto de debate pelas instâncias ordinárias, sequer de modo implícito, e não foram opostos embargos declaratórios com a finalidade de sanar omissão porventura existente. Por esse motivo, ausente o requisito do prequestionamento, incide o disposto na Súmula nº 282/STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada".
+Sobre o tema:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COMPLEMENTAÇÃO DE BENEFÍCIO PREVIDENCIÁRIO. PREQUESTIONAMENTO. NÃO OCORRÊNCIA. SÚMULA 282/STF. PRESCRIÇÃO QUINQUENAL. ALCANCE DAS PARCELAS VENCIDAS ANTERIORMENTE AO QUINQUÊNIO QUE PRECEDE O AJUIZAMENTO DA AÇÃO.
+1. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+2. O acórdão recorrido que adota a orientação firmada pela jurisprudência do STJ não merece reforma.
+3. Agravo interno não provido" (AgInt no AREsp 1.097.857/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe 10/11/2017 - grifou-se).
+Ademais, esta Corte Superior entende não ser cabível recurso especial quanto à alegação de ofensa a dispositivos de lei relacionados com a matéria de mérito da causa que, em liminar ou antecipação de tutela, é tratada apenas sob juízo precário de mera verossimilhança, "porquanto tal matéria, somente haverá causa decidida em única ou última instância com o julgamento definitivo, atraindo, analogicamente, o enunciado da súmula 735 do STF: "Não cabe recurso extraordinário contra acórdão que defere medida liminar"" (REsp nº 765.375/MA, Rel. Ministro Teori Albino Zavascki, Primeira Turma, julgado em 6/4/2006, DJ 8/5/2006).
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. 1. CABIMENTO DE AGRAVO DE INSTRUMENTO. ROL DO ART. 1.015 DO NCPC. IMPOSSIBILIDADE PARA A DISCUSSÃO SOBRE ILEGITIMIDADE DE PARTE. PRECEDENTE DESTA CORTE SUPERIOR. 2. ANTECIPAÇÃO DE TUTELA. NATUREZA PRECÁRIA E PROVISÓRIA DO DECISUM QUE, EM REGRA, NÃO AUTORIZA A INTERPOSIÇÃO DO RECURSO ESPECIAL. SÚMULA 735/STF. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 7/STJ. 3. MULTA DO ART. 1.021, § 4º, DO CPC/2015. NÃO INCIDÊNCIA, NA ESPÉCIE. 4. AGRAVO INTERNO IMPROVIDO.
+1. Para a questão envolvendo a legitimidade de parte, percebe-se que a interpretação do art. 1.015 do novo Código de Processo Civil foi limitativa, entendendo-se que ela não estaria prevista no rol do referido dispositivo. Sendo assim, deve a decisão ser alterada no ponto.
+2. É pacífico o entendimento desta Corte de que, em regra, não cabe recurso especial contra decisão proferida em liminar ou antecipação de tutela, seja para deferi-la, seja para negá-la, na linha do entendimento contido na Súmula n. 735 do Supremo Tribunal Federal.
+3. O mero não conhecimento ou a improcedência de recurso interno não enseja a automática condenação à multa do art. 1.021, § 4º, do NCPC, devendo ser analisado caso a caso.
+4. Agravo interno improvido" (AgInt no AREsp n. 1.626.949/MG, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 29/4/2022 - grifou-se).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. PRESTAÇÃO DE SERVIÇOS A BORDO DE UNIDADE FLUTUANTE DE PRODUÇÃO (NAVIO-PLATAFORMA). APLICAÇÃO DE MULTA PELA AGÊNCIA NACIONAL DE PETRÓLEO E BIOCOMBUSTÍVEIS - ANP. ANÁLISE DO MÉRITO DO APELO EXTREMO POR PARTE DO TRIBUNAL DE ORIGEM. USURPAÇÃO DE COMPETÊNCIA. NÃO OCORRÊNCIA. INCIDÊNCIA DA SÚMULA 123/STJ. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015 NÃO CONFIGURADA. ANTECIPAÇÃO DE TUTELA. NATUREZA PRECÁRIA E PROVISÓRIA DO DECISUM QUE, EM REGRA, NÃO AUTORIZA A INTERPOSIÇÃO DO RECURSO ESPECIAL. SÚMULA 735/STF.
+REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+AGRAVO INTERNO DESPROVIDO.
+1. Na linha dos precedentes desta Corte, o Tribunal de origem não ultrapassa os limites de sua competência quando, ao realizar o juízo prévio de admissibilidade, adentra o mérito do recurso especial.
+2. Não ficou configurada a violação dos arts. 489 e 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou de forma fundamentada sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+3. A análise do recurso quanto à presença dos requisitos da antecipação de tutela depende de reexame de matéria fática da lide, o que encontra óbice na Súmula 7 do STJ. Ademais, as alegações recursais serão oportunamente analisadas pelas instâncias ordinárias por ocasião do julgamento de mérito da ação, não cabendo a esta Corte Superior antecipar tal análise neste momento processual, conforme dispõe, por analogia, a Súmula 735/STF.
+4. Razões recursais insuficientes para a revisão do julgado.
+5. Agravo interno desprovido" (AgInt no AREsp 1.512.223/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe 8/5/2020 - grifou-se).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Não cabe, na hipótese, a majoração dos honorários sucumbenciais prevista no art. 85, § 11, do Código de Processo Civil de 2015, pois o recurso tem origem em decisão interlocutória sem a prévia fixação de honorários.
+Publique-se.
+Intimem-se.
