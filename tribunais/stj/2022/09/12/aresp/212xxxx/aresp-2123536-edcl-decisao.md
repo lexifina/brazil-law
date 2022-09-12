@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por ALEVYS FONSECA REZENDE GUSMÃOde decisão na qualconhecido agravo para conhecer parcialmente do recurso especial e, nessa extensão,lhe dar parcial provimento, apenas para fixar o regime semiaberto como o inicial para o cumprimento da pena reclusiva.
+O embargante afirma que haveria omissão e contradição no julgado, pois o Tribunal de origem já havia estabelecido o regime inicial intermediário, não havendo modificação na situação processual do acusado.
+Pleiteia o restabelecimento da sentença de 1º grau, alegando que a Corte local tem decidido a questão de forma diferente em casos análogos.
+Requer, assim, o acolhimento dos aclaratórios, e, ainda, "que seja oficiado na origem comunicando que ainda não houve o trânsito em julgado para evitar a expedição de mandado de prisão" (e-STJ, fl. 630).
+É o breve relato.
+Decido.
+O recurso merece parcial acolhimento, mas sem efeitos infringentes.
+De acordo com o art. 619 do Código de Processo Penal, são cabíveis embargos de declaração quando houver ambiguidade, obscuridade, contradição ou omissão no julgado, podendo ainda ser admitidos para a correção de eventual erro material.
+No caso, observa-se que, de fato, há erro material na decisão impugnada, uma vez que o regime inicial semiaberto já havia sido fixado pelo Tribunal de Justiça do Estado de Minas Gerais, diante da prevalência do voto divergente do Desembargador Flávio Batista Leite, Revisor (e-STJ, fl. 539).
+Todavia, não assiste razão ao embargante quando pleiteia o restabelecimento da sentença de 1º grau, a qual havia estabelecido o regime inicial aberto, tendo em vista que, conforme exposto na decisão embargada, os fundamentos utilizados pelo Tribunal de origem para afastar o tráfico privilegiado e, assim, estabelecer a pena do réu em 5 anos de reclusão estão em consonância com a jurisprudência desta Corte Superior (e-STJ, fls. 618-623).
+Nesse particular, portanto, os argumentos da parte embargante demonstram, apenas, sua discordância com a solução jurídica então encontrada, pretensão incabível na estreita via dos aclaratórios.
+Noutro giro, quanto ao pedido de comunicação à origem acerca da ausência de trânsito em julgado da decisão, verifica-se que a defesa, apenas nos embargos de declaração, ede maneiragenérica, mencionao risco de execução provisória, o que configura inovação recursal, postura vedada pela preclusão consumativa.
+Ante o exposto, acolho em parte os embargos de declaração, sem efeitos infringentes, para o fim específico de corrigir o erro material. Na parte em que se lê: "Ante o exposto,com fundamento no art. 932, VIII, do CPC, c/c art. 253, parágrafo único, II, "a", "b" e "c" do RISTJ, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, dou-lhe parcial provimento, apenas para fixar o regime semiaberto como o inicial para o cumprimento da pena reclusiva", leia-se: "Ante o exposto, com fundamento no art. 932, III, do CPC, c/c art. 253, parágrafo único, II, "a" do RISTJ, conheço do agravo para não conhecer do recurso especial".
+Publique-se. Intimem-se.
