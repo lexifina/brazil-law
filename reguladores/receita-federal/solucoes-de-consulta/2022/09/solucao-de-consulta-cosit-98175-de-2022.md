@@ -1,0 +1,9 @@
+Solução de Consulta Cosit nº 98175, de 1º de setembro de 2022
+Assunto: Classificação de Mercadorias
+Código NCM: 8517.14.90
+Mercadoria: Aparelho portátil de radiotelefonia, com formato de telefone tipo walkie talkie, utilizado para comunicação de voz bidirecional, com modo de operação digital e analógico, modulação 4FSK e FM, faixas de frequência VHF (136/174 MHz) e UHF (350/470 MHz), compatível com padrão digital aberto DMR, potência de 1 a 5 W, capacidade de 256 canais, contendo display, GPS e bluetooth, acompanhado de fonte de alimentação, carregador de bateria, bateria de Li-Ion, antena de 9 cm e bateria extra, denominado comercialmente "rádio comunicador portátil" .
+Dispositivos Legais: RGI 1, RGI 6 e na RGC 1 da NCM constante na TEC, aprovada pela Resolução Gecex nº 272, de 2021, e na Tipi aprovada pelo Decreto nº 11.158, de 2022; e subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 27 de janeiro de 1992, e atualizadas pelas IN RFB nº 1.788, de 2018, e nº 2.052, de 2021, e alterações posteriores.
+SC Cosit nº 98.175-2022
+[arquivo anexo: SC Cosit nº 98.175-2022.pdf]
+DANIELLE CARVALHO DE LACERDA
+Presidente da 3ª Turma
