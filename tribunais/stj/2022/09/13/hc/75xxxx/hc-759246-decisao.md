@@ -1,0 +1,12 @@
+DECISÃO
+JUAREZ ALVES DE SOUZAalegasofrer constrangimento ilegal diante do acórdão proferido pelo Tribunal de Justiça do Estado de São Paulona Apelação Criminal n. 1513005-15.2020.8.26.0228.
+Depreende-se dos autos que oacusadofoi condenadoà pena de 5anos e 10 meses de reclusão,em regime inicial fechado, por infração aoart. 33, caput,da Lei n. 11.343/2006, bem como à pena de 1 ano de detenção, em regime aberto, pelo delito do art. 12, caput, da Lei n. 10.826/2003.
+Neste writ, requer a defesao estabelecimentode regime inicial menos gravoso.
+O Ministério Público Federal opinou pelo não conhecimento do writ ou pela denegação da ordem.
+Decido.
+No tocante ao regime inicial de cumprimento da sanção reclusiva, imperioso salientar que, uma vez reconhecida, incidentalmente, a inconstitucionalidade do óbice contido no § 1º do art. 2º da Lei n. 8.072/1990 (STF, HC n. 111.840/ES, DJe 17/12/2013), a escolha do regime inicial deve levar em consideração a quantidade da reprimenda imposta, a eventual existência de circunstâncias judiciais desfavoráveis, bem como as demais peculiaridades do caso concreto (por exemplo, a quantidade, a natureza e/ou a diversidade de drogas apreendidas), para que, então, seja fixado o regime carcerário que se mostre o mais adequado para aprevenção e a repressão do delito perpetrado, nos termos do art. 33 e parágrafos do Código Penal - com observância também ao disposto no art. 42 da Lei n. 11.343/2006.
+A Corte estadual manteve o regime fechado, considerando "as circunstâncias da apreensão dos entorpecentes e a conduta reprimida (corroborada, sobretudo, pela quantidade de drogas e dinheiro apreendidos como acusado, a indicar a ampla gama de usuários atingidos pela atuação criminosa e a inserção do acusado na estrutura do crime)"(fl. 50, grifei),elementoque, de fato, justificaa imposição de regime prisional mais gravoso do que o cabível em razão da reprimenda aplicada.
+Além disso, verifico que existem circunstâncias judiciaisdesfavoráveis(tanto que a pena-base foi estabelecida acima do mínimo legal- fl. 45), notadamente a quantidade de droga apreendida, qual seja, 6 kg de maconha.
+Portanto, em homenagem ao princípio do livre convencimento motivado e uma vez que foiapontadoargumentoconcretoe específicodos autos para a escolha do regime prisional fechado, não há como esta Corte simplesmente se imiscuir no juízo feito pelo Tribunal de origem para modificar o regime de cumprimento de pena estabelecido aoacusado.
+À vista do exposto, denegoo habeas corpus.
+Publique-se e intimem-se.
