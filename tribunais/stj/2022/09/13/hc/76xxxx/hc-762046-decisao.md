@@ -1,0 +1,44 @@
+DECISÃO
+Cuida-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de Danilo Antônio Pereira, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, proferido no julgamento da Apelação n. 1510987-70.2020.8.26.0050, assim ementado:
+"ROUBO MAJORADO - SENTENÇA ABSOLUTÓRIA - RECURSO MINISTERIAL: PLEITO DE CONDENAÇÃO NOS EXATOS TERMOS DA DENÚNCIA ADMISSIBILIDADE - PALAVRAS DA VÍTIMA CORROBORADAS POR DEMAIS ELEMENTOS ACOSTADOS AOS AUTOS MATERIALIDADE E AUTORIA SUFICIENTEMENTE DEMONSTRADAS - CONDENAÇÃO IMPOSTA - RECURSO PROVIDO."(fl. 76)
+A defesa afirma ser indevido o aumento da pena-base, em virtude das condenações geradoras dos maus antecedentes serem antigas. Alega, ainda, que deve ser fixado o regime aberto ou o semiaberto.
+Busca, assim, a redução da pena e a readequação do regime inicial para o cumprimento da reprimenda.
+A liminar foi indeferida por decisão de fls. 84/85.
+O Ministério Público Federal pugnou pela denegação da ordem.
+É o relatório.
+Decido.
+Em consonância com a orientação jurisprudencial da Primeira Turma do Supremo Tribunal Federal - STF, esta Corte não admite habeas corpus substitutivo de recurso próprio, sem prejuízo da concessão da ordem, de ofício, se existir flagrante ilegalidade na liberdade de locomoção, o que, todavia não ocorre na hipótese.
+De início, anota-se que aquestão referente ao fato das condenações geradoras dos maus antecedentes serem antigas não foi debatidano acórdão atacado,sendo que este Tribunal Superior encontra-se, destarte, impedido de pronunciar-se a respeito, sob pena de indevida supressão de instância.
+A propósito, confiram-se:
+HABEAS CORPUS SUBSTITUTO DE RECURSO ESPECIAL. INADEQUAÇÃO DA VIA ELEITA. ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. NULIDADE. INTIMAÇÃO PESSOAL DO ACUSADO. MATÉRIA NÃO DEBATIDA NA ORIGEM. RÉU SOLTO. DESNECESSIDADE. DOSIMETRIA DA PENA. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. PENA-BASE ACIMA DO MÍNIMO LEGAL. FUNDAMENTAÇÃO ADEQUADA. HABEAS CORPUS NÃO CONHECIDO.
+1. O Supremo Tribunal Federal, por sua Primeira Turma, e a Terceira Seção deste Superior Tribunal de Justiça, diante da utilização crescente e sucessiva do habeas corpus, passaram a restringir a sua admissibilidade quando o ato ilegal for passível de impugnação pela via recursal própria, sem olvidar a possibilidade de concessão da ordem, de ofício, nos casos de flagrante ilegalidade.
+2. O Tribunal de origem não se manifestou a respeito da tese de nulidade da sentença condenatória derivada da ausência de intimação pessoal do acusado, de modo que o Superior Tribunal de Justiça não pode se pronunciar sobre esse tema, sob pena de supressão de instância.
+ ..
+6. Habeas corpus não conhecido.
+(HC 530.932/RS, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 10/02/2020.)
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL. NÃO CABIMENTO. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. NULIDADE. AUSÊNCIA DE INTIMAÇÃO PESSOAL DA DEFENSORIA PÚBLICA PARA AUDIÊNCIA. MATÉRIA NÃO ANALISADA PELO EG. TRIBUNAL DE ORIGEM. IMPOSSIBILIDADE DE CONHECIMENTO POR ESTA CORTE. SUPRESSÃO DE INSTÂNCIA. ABSOLVIÇÃO DO CRIME DE ASSOCIAÇÃO PARA O TRÁFICO. IMPOSSIBILIDADE. REEXAME DE MATÉRIA FÁTICO PROBATÓRIA. INVIABILIDADE NA VIA ESTREITA DO WRIT. APLICAÇÃO DO PRIVILÉGIO. INVIABILIDADE. MANTIDA A CONDENAÇÃO PELO DELITO DO ART. 35 DA LAD. HABEAS CORPUS NÃO CONHECIDO.
+I - A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, sedimentou orientação no sentido de não admitir habeas corpus substitutivo de recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+II - A alegada nulidade, consubstanciada por ausência de intimação pessoal da Defensoria Pública para audiência, não foi apreciada pelo eg. Tribunal de origem, o que torna inviável o seu exame por esta Corte, sob pena de se incorrer em indevida supressão de instância.
+III - O eg. Tribunal de origem concluiu pela suficiência da prova da materialidade e autoria do crime de associação para o tráfico.
+Modificar esta conclusão para absolver a paciente demandaria, impreterivelmente, o amplo revolvimento do acervo fático probatório dos autos, procedimento que, a toda evidência, é incompatível com a estreita via do habeas corpus.
+IV - Mantida a condenação pelo delito de associação para o tráfico, fica obstada a aplicação da causa de redução de pena estabelecida no art. 33, § 4º, da Lei n. 11.343/06.
+Habeas Corpus não conhecido.
+(HC 445.838/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 20/06/2018.)
+Por fim, registra-se a inexistência de ilegalidade na fixação do regime inicial mais gravoso, no caso, oregime fechado,pois embora a pena imposta tenha sido inferior a 8 (oito) anos de reclusão (5 anos de reclusão), a presença decircunstânciajudicial desfavorável, com pena-base fixada acima do mínimo legal, justifica o agravamento do regime prisional, conforme pacífica jurisprudência desta Corte. Veja-se:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO MAJORADO. DOSIMETRIA. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. ELEMENTOS CONCRETOS CONSTANTE DOS AUTOS. CONFISSÃO ESPONTÂNEA. SÚMULA 545/STJ. ILEGALIDADE NÃO CONSTATADA. ATENUANTE CONSIDERADA NA DOSIMETRIA. REGIME INICIAL FECHADO. JUSTIFICAÇÃO CONCRETA. PRESENÇA DE CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS.CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO DESPROVIDO.
+I - A parte que se considerar agravada por decisão de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer, dentro de cinco dias, a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+II - A via do writ somente se mostra adequada para a análise da dosimetria da pena, quando não for necessária uma análise aprofundada do conjunto probatório e houver flagrante ilegalidade.
+III - A culpabilidade, para fins do art. 59 do CP, deve ser compreendida como juízo de reprovabilidade sobre a conduta, apontando maior ou menor censurabilidade do comportamento do réu.
+Nesse compasso, para a sua adequada valoração devem ser levadas em consideração as especificidades fáticas do delito, bem como as condições pessoais do agente no contexto em que praticado o crime.
+IV - Na hipótese, o Tribunal de origem apreciou concretamente a intensidade da reprovabilidade da conduta, assentando que o crime foi praticado mediante invasão de domicílio, bem como a pluralidade de vítimas (três), fatores que apontam maior censura na conduta e justificam a exasperação da pena-base.
+V - Sobre o desvalor das circunstâncias do crime, também houve justificativa concreta, as quais excederam os limites do tipo penal violado, tendo em vista o elevado valor do bem subtraído (superior a R$ 12.000,00), elementos que exige resposta penal superior, em atendimento aos princípios da proporcionalidade e da individualização da pena.
+VI - Consoante dispõe o enunciado n. 545/STJ: "Quando a confissão for utilizada para a formação do convencimento do julgador, o réu fará jus à atenuante prevista no art. 65, III, "d", do Código Penal".
+VII - In casu, inexiste ilegalidade, pois as instâncias ordinária reconheceram a confissão e reduziram a pena do paciente, in verbis:
+"Na segunda fase de aplicação foram reconhecidas para- LEONARDO e GUSTAVO, as circunstâncias atenuantes da confissão espontânea e da maioridade relativa e as penas para eles reduzidas de 1/7 e, para- MICHEL e RAFAEL, a circunstância atenuante da confissão espontânea e as penas para eles reduzidas em 1/14, o que merece o devido reparo, uma vez que os percentuais aplicados se mostram ínfimos. Assim, as penas devem ser reduzidas, para - LEONARDO e GUSTAVO, ao mínimo legal, ou seja, 04 anos de reclusão e 10 dias-multa(Súmula nº 231, do Colendo SUPERIOR TRIBUNAL DE JUSTIÇA) e, para - MICHAEL e RAFAEL, no percentual de 1/6, restando em 05 anos de reclusão e 10 dias-multa".
+VIII - Em relação ao regime inicial de cumprimento de pena, conforme o disposto no artigo 33, parágrafo 3º, do Código Penal, a sua fixação pressupõe a análise do quantum da pena, bem como das circunstâncias judiciais previstas no artigo 59 do mesmo diploma legal.
+IX - Na hipótese, a valoração negativa das circunstâncias judiciais indicadas na sentença, justifica o regime fechado para o início de cumprimento da pena, nos termos do parágrafo 3º do artigo 33 do Código Penal.
+Agravo regimental desprovido.
+(AgRg no HC n. 734.200/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Quinta Turma, julgado em 9/8/2022, DJe de 18/8/2022.)
+Por tais razões, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
