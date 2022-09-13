@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especial interposto peloCONSELHO REGIONAL DOS REPRESENTANTES COMERCIAIS NO ESTADO DE PERNAMBUCO, com fulcrona alínea "a" do permissivo constitucional, contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO, assim ementado (e-STJ fl. 122):
+PROCESSUAL CIVIL. ADMINISTRATIVO. OBRIGATORIEDADE DE REGISTRO DE EMPRESA JUNTO AO CONSELHO REGIONAL DOS REPRESENTANTES COMERCIAIS. AUSÊNCIA DE INTERESSE PROCESSUAL.
+1. Caso em que apela o CONSELHO REGIONAL DOS REPRESENTANTES COMERCIAIS NO ESTADO DE PERNAMBUCO - CORE-CE, de sentença que extinguiu, sem resolução de mérito, ação ordinária por ele movida em desfavor de GM PROMOCAO DE VENDAS E MARKETING EIRELI , objetivando seja esta compelida a se registrar no Conselho Profissional dos Representantes Comerciais, sob pena de multa diária e outras medidas coercitivas a serem impostas pelo Juízo;
+2. Esta Egrégia Segunda Turma já firmou o entendimento de que, em casos como presente, o autor é carecedor de interesse de agir, dado que a matéria de que se cuida se exaure no exercício do poder de polícia do próprio órgão fiscalizador (e autor);
+3. Os Conselhos Regionais dos Representantes Comerciais têm poder delegado pela União para normatizar, orientar, disciplinar e fiscalizar o exercício das atividades próprias dos representantes comerciais autônomos;
+4. Daí porque a parte demandante pode/deve invocar o seu poder de polícia para coibir as atividades da empresa demandada, adotando as medidas administrativas previstas em lei, sendo totalmente desnecessária a atuação do Poder Judiciário no caso;
+5. Apelação improvida.
+Em suas razões, a parte recorrente aponta violaçãodos arts.1º, 2º e 6º, da Lei n. 4.886/1965, argumentando, em suma,que "pode se socorrer do judiciário para efetivar o registro dos profissionais que atuam ilicitamente, não havendo na lei nenhumaexigência de esgotamento das vias administrativas para que se possa ingressar na seara jurisdicional" (e-STJ fl. 143).
+Entende que deve ser reconhecido "o interesse de agir na ação que buscar dar cumprimento a atividade fiscalizatória do Conselho" (e-STJ fl. 150).
+Juízo positivo de admissibilidade pelo Tribunal de origem à e-STJ fl. 158.
+Passo a decidir.
+Verifico que a pretensão recursal nãomerece prosperar.
+No caso concreto, o Tribunal de origem reconheceu a ausência de interesse processual, nos termos da seguinte motivação (e-STJ fl. 121):
+É que esta Egrégia Segunda Turma já firmou o entendimento de que, em casos como presente, o autor é carecedor de interesse de agir, dado que a matéria de que se cuida se exaure no exercício do poder de polícia do próprio órgão fiscalizador (e autor).
+Os Conselhos Regionais dos Representantes Comerciais têm poder delegado pela União para normatizar, orientar, disciplinar e fiscalizar o exercício das atividades próprias dos representantes comerciais autônomos.
+Daí porque a parte demandante pode/deve invocar o seu poder de polícia para coibir as atividades da empresa demandada, adotando as medidas administrativas previstas em lei, sendo totalmente desnecessária a atuação do Poder Judiciário no caso.
+Com efeito, os arts. 1º, 2º e 6ºda Lei n. 4.886/65, não possuemcomando capazesde isoladamente sustentar a tese recursal e infirmar o juízo formulado pelo acórdão recorrido, de maneira que se impõe ao caso concreto também a incidência da Súmula 284 do STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia").
+A propósito do tema:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. EXECUÇÃO DE SENTENÇA. AUSÊNCIA DE PEÇA OBRIGATÓRIA NO AGRAVO DE INSTRUMENTO. FUNDAMENTO IMPUGNADO. AUSÊNCIA DE PREQUESTIONAMENTO. APLICAÇÃO DO ÓBICE DA SÚMULA N. 282/STF EM SUBSTITUIÇÃO À SÚMULA N. 283/STF. EXECUÇÃO PROVISÓRIA DE MANDADO DE SEGURANÇA. POSSIBILIDADE. SÚMULA 83/STJ. INCIDÊNCIA. LEVANTAMENTO DOS VALORES. CONFIRMAÇÃO DA SENTENÇA CONCESSIVA DA SEGURANÇA. TRÂNSITO EM JULGADO ANTES DO EXAURIMENTO DA PRESTAÇÃO JURISDICIONAL NO TRIBUNAL DE ORIGEM. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA N. 211/STJ. DESNECESSIDADE DE LIQUIDAÇÃO. AUSÊNCIA DE COMANDO NORMATIVO EM DISPOSITIVO LEGAL APTO A SUSTENTAR A TESE RECURSAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+ ..
+VI - A jurisprudência desta Corte considera deficiente a fundamentação do recurso quando os dispositivos apontados como violados não têm comando normativo suficiente para infirmar os fundamentos do aresto recorrido, circunstância que atrai, por analogia, a incidência do entendimento da Súmula n. 284 do Supremo Tribunal Federal.
+VII - O Agravante não apresenta, no agravo, argumentos suficientes para desconstituir a decisão recorrida.
+ ..
+IX - Agravo Interno improvido.(AgInt no REsp 1.290.187/ES, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 15/08/2017, DJe 11/09/2017).
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração dessaverba, em desfavor da parte recorrente, no importe de 10% (dez por cento) sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
