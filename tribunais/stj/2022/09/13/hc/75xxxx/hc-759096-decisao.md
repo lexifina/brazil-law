@@ -1,0 +1,42 @@
+DECISÃO
+ANDREO RIGOBELI CARDOSO DA SILVAalegasofrer coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulona Apelação n. 1500095-64.2021.8.26.0213.
+Consta dos autos que o paciente foi condenado a 5 anos, 2 meses e 6 diasde reclusão, em regime inicialmente fechado, pela prática do delito de lesão corporal seguida de morte.
+A defesa busca, por meio deste writ, o redimensionamento da reprimenda imposta, com a redução da pena basilar ao mínimo legal. Requer seja fixado o regime inicialmente aberto ou o semiaberto.
+A liminar foi indeferida (fls. 103-104) e o Ministério Público Federal opinou pelo não conhecimento da impetração (fls. 107-111).
+Decido.
+I.Contextualização
+O paciente foi condenado pelocrimedescritono art.129, §§ 3º e 4º,do Código Penal. OJuízo singularfixoua penada seguinte forma (fls. 570-571, grifei):
+Passo à dosimetria da pena.
+O delito capitulado no artigo 129, §3º, do Código Penal, tem como pena a privativa de liberdade de 4 a 12 anos de reclusão. Atendendo às circunstâncias do artigo 59 do Código Penal, verifico que apesar de o réu ostentar antecedente criminal (fl. 504), tal condenação implica ao mesmo tempo em reincidência, de modo que será considerada em momento oportuno, em observância ao enunciadoda Súmula 241 STJ, como forma de não incorrer em bis in idem. No entanto, considerando a conduta social do acusado (estava usando drogas e embriagando-se na presença do filho, bem como praticou o crime na presença da criança) e as circunstâncias do crime (golpeou pessoa em estado de embriaguez), fixo a pena-base 1/3 acima do mínimo legal, em5 anos e 4 meses de reclusão. Pela agravante da reincidência (fl. 504), com fundamento no artigo 61, inciso I, do Código Penal, majoro a pena em 1/6, o que resulta em 6 anos, 2 meses e 20 dias de reclusão. Ausente circunstância atenuante. Presente a causa de diminuição prevista no §4º do artigo 129 do Código Penal, pois o agente cometeu o crime impelido por motivo de relevante valor social ou moral ou sob o domínio de violenta emoção, logo em seguida a injusta provocação da vítima, razão pela qual reduzo a pena em 1/6, perfazendo o total de 5 anos, 2 meses e 6 dias de reclusão, tornada definitiva nesse patamar à ausência de outras circunstâncias a considerar.
+O regime inicial de cumprimento da pena será o fechado, em obediência ao critério estipulado no artigo 33, §3º, do Código Penal, diante da conduta social e da reincidência do acusado. Inaplicável a substituição de pena pela quantidade de pena privativa de liberdade imposta, bem como pelas circunstâncias judiciais negativas e da reincidência do acusado. O mesmo se diga em relação ao sursis, à luz dos requisitos do artigo 77 do Código Penal, desatendidos de igual forma.
+Inconformada, a defesa interpôs apelação perante a Corte estadual que, à unanimidade, negouprovimento ao apelo, nos termos a seguir (fl. 679, destaquei):
+Na primeira fase, a pena foi fixada em 1/3 acima do mínimo legal (05 anos e 04 meses de reclusão), ".. considerando a conduta social do acusado (estava usando drogas e embriagando-se na presença do filho, bem como praticou o crime na presença da criança) e as circunstâncias do crime (golpeou pessoa em estado de embriaguez) .." (fls. 541). Deve ser consignado que a lei não impõe ao Juiz qual o acréscimo deve incidir nas penas básicas em razão de circunstância judicial desfavorável, permitindo apenas o faça dentro dos limites mínimo e máximo cominados no preceito secundário da norma. Imperioso que o Juízo atente para a circunstância e a necessidade do maior rigor, respeitando, sempre, os princípios da proporcionalidade e razoabilidade.
+No caso, pelos motivos acima transcritos, tenho que a fixação da pena em 1/3 acima do mínimo legal se mostra bastante razoável.
+Na segunda fase, foi reconhecida a agravante decorrente da reincidência (fls. 504), majorando a pena em 1/6, totalizando 06 anos, 02meses e 20 dias de reclusão.
+Na terceira fase, devidamente reconhecida a causa de redução de pena prevista no § 4º, do art. 129, do Código Penal, a pena foi reduzida em1/6, totalizando 05 anos, 02 meses e 06 dias de reclusão, que se tornou definitiva.
+Foi fixado o regime prisional fechado, em especial pela reincidência do Apelante, a justificar o maior rigor, não havendo que se falarem abrandamento.
+II. Pena-base
+A fixação da pena é regulada por princípios e regras constitucionais e legais previstos, respectivamente, nos arts. 5º, XLVI, da Constituição Federal, 59 do Código Penal e 387 do Código de Processo Penal.
+Todos esses dispositivos remetem o aplicador do direito à individualização da medida concreta para que, então, seja eleito o quantum de sanção a ser aplicada ao condenado criminalmente, com vistas à prevenção e à reprovação do delito perpetrado.
+Assim, para obter-se uma aplicação justa da lei penal, o julgador, dentro dessa discricionariedade juridicamente vinculada, há de atentar para as singularidades do caso concreto e deve, na primeira etapa do procedimento trifásico, guiar-se pelas oito circunstâncias relacionadas no caput do art. 59 do Código Penal. São elas: a culpabilidade; os antecedentes; a conduta social; a personalidade do agente; os motivos; as circunstâncias e as consequências do crime e o comportamento da vítima.
+Consoante entendimento deste Superior Tribunal, não se presta ohabeas corpusà revisão da dosimetria das penas estabelecidas pelasinstâncias ordinárias, exceto quando for manifesta a violação aoscritérios dos arts. 59 e 68, ambos do Código Penal, sob o aspecto dailegalidade ou, ainda, em caso de ausência ou deficiência dafundamentação. Nesse sentido:HC n. 147.925/DF, Rel. MinistroNefiCordeiro, 6ª T., DJe 11/5/2015.
+Com tais considerações em mente, constato não existirem as ilegalidadesapontadas pela defesa.
+Na hipótese, infere-se do trecho acima transcrito queo Juiz elevou a pena-base em 1/3 em razão da análise desfavorável de duas vetoriais, quais sejam, conduta social do agente e circunstâncias do delito.
+A conduta social do agente foi valorada negativamente porque o réu "estava usando drogas e embriagando-se na presença do filho, bem como praticou o crime na presença da criança" (fl. 679, grifei).
+As circunstâncias do delito também foram bem sublinhadas como desfavoráveis, pois o crime foi cometido em estado de embriaguez.
+Com efeito, a decisão está em consonância com oentendimento desta Corte. Nessa perspectiva:
+No que tange às circunstâncias do crime, foram consideradas desfavoráveispor ter sidopraticada a conduta na presença de criança de sete anos.
+Trata-se de fundamentação idônea para exasperar a pena-base, pois deve serlevado em conta não apenas o grave abalo emocional causado aos menores,mas também o fato de as suas vidas haverem sido submetidas a maior riscopelo emprego de arma de fogo, que a sujeita à possibilidade dedisparosacidentais e ações impulsivas.
+(HC n. 672.522, Rel. Ministro Rogerio Schietti, 6ª T., DJe 4/8/2021, destaquei)
+ ..
+6. As circunstâncias concretas dos delitos indicam a necessidade de maiorresposta penal, já que os crimes foram praticados por cinco agentes emconcurso, que renderam dez membros de uma mesma família durante a invasãoda residência, dentre eles uma mulher grávida e três crianças. Ademais,além de terem proferido ameaças de morte contra as vítimas, os agentesamedrontaram os menores, ao afirmarem que iriam cortar os seus dedos.
+Importa destacar, ainda, que conquanto tenha a Corte de origem reconhecidoa prática de sete delitos em concurso formal, levando em conta aquantidade de patrimônios atingidos, o número de membros da família, seteadultos e três crianças, e as suas circunstâncias pessoais permitem, porcerto, a exasperação da pena-base.
+ ..
+(HC n. 394.824/SP, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 26/2/2018,grifei)
+Registro, por oportuno, que afavorabilidade das demais circunstâncias judiciais não tem o condão de afastar a conclusãoem comento.
+Assim, reputo adequada a argumentação atrelada à majoração da pena-base.
+III. Regime inicial de cumprimento de pena
+Considerando a manutenção doquantumde pena fixado pelas instâncias ordinárias em patamar superior a4 anos de reclusão, bem como a valoração negativa das circunstâncias judiciais e a existência da reincidência, o regime inicial deve ser o fechado, nos termos do art. 33, §§ 2º e 3º, do Código Penal.
+IV. Dispositivo
+À vista do exposto, denego a ordem.
+Publique-se e intimem-se.
