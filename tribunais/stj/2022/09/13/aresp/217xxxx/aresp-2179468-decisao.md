@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de agravo interposto por Clóvis Freire de Carvalho contra a decisão de fls. 3.012-3.014 (e-STJ), proferida em juízo prévio de admissibilidade, na qual foi negado seguimento ao recurso especial.
+O recurso especial foi deduzido em desafio aos acórdãos de fls. 2.884-2.897 e 2.939-2.945 (e-STJ), prolatados pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementados:
+AGRAVO DE INSTRUMENTO - AUSÊNCIA DE DIALETICIDADE RECURSAL - PRELIMINAR NÃO CONHECIMENTO PARCIAL - ROL TAXATIVO - GRATUIDADE DE JUSTIÇA - INDÍCIOS DE CAPACIDADE FINANCEIRA - ARRESTO - MEDIDA CAUTELAR - CABIMENTO. Tendo a parte, ao manifestar sua contrariedade ao provimento jurisdicional proferido, indicado os fundamentos, fáticos e jurídicos, pelos quais entende merecer reparo a decisão guerreada, não há ofensa ao princípio da dialeticidade. Com o advento da Lei 13.105/2015, que instituiu o Código de Processo Civil, o recurso de agravo de instrumento passou a ser cabível tão somente em face das decisões interlocutórias que versem acerca das matérias previstas no rol taxativo estabelecido no art. 1.015 e parágrafo único do mencionado diploma legal. Para a aplicação da mitigação da taxatividade do rol do artigo 1.015, do CPC, conforme tese fixada no tema repetitivo 988 do STJ, impõe-se a verificação da urgência decorrente da inutilidade do julgamento da questão no recurso de apelação. A declaração de pobreza possui presunção relativa de veracidade, a teor do disposto no art. 99, §3º do CPC. Havendo nos autos elementos ou indícios que demonstrem a capacidade financeira da parte, é cabível o indeferimento da benesse. Considerando a complexidade do caso, assim como a reversibilidade da medida cautelar, o mais prudente é a manutenção do bloqueio da verba depositada.
+EMBARGOS DE DECLARAÇÃO - ACÓRDÃO - INEXISTÊNCIA DE CONTRADIÇÃO, OMISSÃO OU OBSCURIDADE - REVISÃO DO JULGADO - IMPOSSIBILIDADE - PREQUESTIONAMENTO. Uma vez verificada a ausência de contradição, omissão ou obscuridade na decisão recorrida, devem ser rejeitados os embargos de declaração interpostos. Mesmo interpostos com o escopo de prequestionamento, os embargos declaratórios devem preencher os requisitos legais, sob pena de rejeição.
+Nas razões do recurso especial (e-STJ, fls. 2.950-2.968), apontou o insurgente, além de dissídio jurisprudencial, a existência de violação dos arts. 98 e 99, § 3º, do CPC/2015. Sustentou, em síntese, ser bastante para efeitos do deferimento da gratuidade de justiça a declaração de hipossuficiência feita por pessoa física.
+Contrarrazões às fls. 2.976-2.993 e 2.999-3.006(e-STJ).
+A Corte de origem deixou de admitir o recurso ao argumento de incidência das Súmulas 7 e 83/STJ.
+Daí o presente agravo, no qual o insurgente contesta a aplicação dos óbices.
+Contraminutas às fls. 3.038-3.045 e 3.051-3.058 (e-STJ).
+Brevemente relatado, decido.
+A jurisprudência desta Corte é no sentido de que a declaração de hipossuficiência feita por pessoa física possui presunção relativa, podendo o juizexigir a comprovação da necessidade quando houver indícios de suficiência financeira.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. EMBARGOS À EXECUÇÃO. JUSTIÇA GRATUITA. REQUISITOS. INVIABILIDADE DE REEXAME DAS PROVAS DOS AUTOS. APLICAÇÃO DA SÚMULA Nº 7 DO STJ. AGRAVO CONHECIDO. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016)
+serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. É assente o entendimento nesta Corte, segundo o qual a presunção de hipossuficiência da declaração feita pelo requerente do benefício da justiça gratuita é relativa, sendo possível ao juiz exigir a sua comprovação.
+3. A revisão da conclusão do Tribunal local para acolher a pretensão recursal (quanto ao preenchimento dos requisitos para a concessão da justiça gratuita) demandaria o revolvimento do acervo fático-probatório dos autos, medida defesa ante a natureza excepcional da via eleita, conforme enunciado da Súmula nº 7 do STJ.
+4. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.066.422/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 8/8/2022, DJe de 10/8/2022.)
+Desta forma, a decisão recorrida se mostra em sintonia com o entendimento desta Corte, razão pela qual não merece reforma.
+Diante do exposto, conheço do agravo para conhecer do recurso especial e nego-lhe provimento.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. DENUNCIAÇÃO À LIDE. AGRAVO DE INSTRUMENTO. GRATUIDADE DE JUSTIÇA. DECLARAÇÃO DE HIPOSSUFICIÊNCIA. PRESUNÇÃO RELATIVA. AGRAVO CONHECIDO PARA CONHECER DO RECURSO ESPECIAL E NEGAR-LHE PROVIMENTO.
