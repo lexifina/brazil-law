@@ -1,0 +1,40 @@
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PRISÃO PREVENTIVA MANTIDA NA SENTENÇA. RÉU QUE PERMANECEU PRESO DURANTE TODA INSTRUÇÃO. EXPEDIÇÃO DE GUIA DE EXECUÇÃO PROVISÓRIA. INCOMPATIBILIDADE ENTRE A CUSTÓDIA CAUTELAR E O REGIME SEMIABERTO. INOCORRÊNCIA. WRIT IMPETRADO CONTRA DECISÃO QUE INDEFERIU LIMINAR NO TRIBUNAL A QUO. SÚMULA N. 691/STF. AUSÊNCIA DE ILEGALIDADE FLAGRANTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+2. O entendimento abraçado pelas instâncias ordinárias encontra-se em harmonia com a jurisprudência desta Corte, no sentido de que, tendo o paciente permanecido preso durante todo o andamento da ação penal, não faria sentido, ausentes alterações nas circunstâncias fáticas, que, com a superveniência da condenação, fosse-lhe deferida a liberdade.
+3. Em relação à alegação de incompatibilidade entre a manutenção da prisão preventiva e o regime prisional imposto na sentença, importante destacar que, logo após a condenação, houve a expedição de guia de execução provisória, independentemente do trânsito em julgado, de forma a assegurar o recolhimento em estabelecimento penal compatível, bem como os benefícios da execução.
+4. De mais a mais, de acordo com a recente jurisprudência desta Corte Superior, não há incompatibilidade entre a negativa do direito de recorrer em liberdade e a fixação do regime semiaberto, caso preenchidos os requisitos do art. 312 do Código de Processo Penal.
+5. Ausência de flagrante ilegalidade a justificar a superação da Súmula 691 do STF.
+6. Agravo regimental a que se nega provimento.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental. Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, João Otávio de Noronha e Jorge Mussi votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA (Relator):
+Trata-se de agravo regimental contra decisão da Presidência desta Corte que, com base na Súm. n. 691/STF, indeferiu liminarmente habeas corpus impetrado em favor de CESAR HUGO SILVA PEREIRA e ANGELO COSTA BEZERRA, condenados a cumprirem penas em regime semiaberto, negado para ambos o direito de recorrerem soltos.
+Alegam os agravantes a ocorrência de constrangimento ilegal decorrente da insuficiência de fundamentação do decreto prisional e da incompatibilidade da manutenção da prisão preventiva com o regime de pena fixado na sentença. Destaca a existência de predicados pessoais favoráveis.
+Requerem o direito de aguardarem em liberdade o julgamento de suas apelações.
+O pedido de reconsideração foi recebido como agravo regimental, diante da aplicação do princípio da fungibilidade, determinada vista para complementar as razões no prazo de 5 dias (e-STJ, fl. 42).
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA (Relator):
+O Superior Tribunal de Justiça tem jurisprudência firmada no sentido de não caber habeas corpus contra decisão que indefere liminar, a menos que fique demonstrada flagrante ilegalidade, nos termos do enunciado n. 691 da Súmula do STF, segundo o qual "não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar".
+Assim, salvo excepcionalíssima hipótese de ilegalidade manifesta, não é de se admitir casos como o dos autos. Não sendo possível a verificação, de plano, de qualquer ilegalidade na decisão recorrida, deve-se aguardar a manifestação de mérito do Tribunal de origem, sob pena de se incorrer em supressão de instância e em patente desprestígio às instâncias ordinárias.
+No caso, sem adiantar qualquer juízo de valor sobre os fatos, o entendimento abraçado pelas instâncias ordinárias encontra-se em harmonia com a jurisprudência desta Corte, no sentido de que, tendo o paciente permanecido preso durante todo o andamento da ação penal, não faria sentido, ausentes alterações nas circunstâncias fáticas, que, com a superveniência da condenação, lhe fosse deferida a liberdade.
+Em relação à alegação de incompatibilidade entre a manutenção da prisão preventiva e o regime prisional imposto na sentença, importante destacar que, foi determinada guia de execução provisória (e-STJ, fl. 26), independentemente do trânsito em julgado, de forma a assegurar o recolhimento em estabelecimento penal compatível, bem como os benefícios da execução.
+De mais a mais, de acordo com a recente jurisprudência desta Corte Superior, inclusive da colenda Quinta Turma, não há incompatibilidade entre a negativa do direito de recorrer em liberdade e a fixação do regime semiaberto, caso preenchidos os requisitos do art. 312 do Código de Processo Penal.
+Nessa linha, destaco:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. TENTATIVA DE ROUBO. IMPOSSIBILIDADE DE SUPERAÇÃO DA SÚMULA N. 691 DA SUPREMA CORTE. AUSÊNCIA DE TERATOLOGIA. HABEAS CORPUS INDEFERIDO LIMINARMENTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não se admite habeas corpus contra decisão negativa de liminar proferida em outro writ na instância de origem, sob pena de indevida supressão de instância. Súmula n. 691/STF.
+2. No caso, como o Agravante é reincidente específico, tendo em vista a inexistência de circunstâncias judiciais desfavoráveis, é cabível a fixação do regime semiaberto para o início do cumprimento da pena de 2 (dois) anos, 4 (quatro) meses e 24 (vinte e quatro) dias de reclusão, nos termos do art. 33, § 2.º, alínea b, do Código Penal e da Súmula n. 269 desta Corte.
+3. O não reconhecimento do direito de apelar em liberdade está suficientemente fundamentado na necessidade de se acautelar a ordem pública, tendo em vista a reiteração criminosa do Agravante.
+4. Segundo orientação desta Corte Superior de Justiça, não há incompatibilidade entre a manutenção da prisão cautelar e a fixação do regime semiaberto para o inicial cumprimento de pena, devendo, no entanto, ser compatibilizada a prisão cautelar do Apenado com as regras próprias desse regime.
+5. Agravo regimental desprovido. (AgRg no HC 640.933/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 23/02/2021, DJe 01/03/2021, grifei)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. REITERAÇÃO DELITIVA. DESCUMPRIMENTO DE CONDIÇÕES IMPOSTAS NO DEFERIMENTO DA PRISÃO DOMICILIAR. FUNDAMENTAÇÃO SUFICIENTE. REGIME SEMIABERTO. COMPATIBILIDADE COM A PRISÃO CAUTELAR. RECURSO NÃO PROVIDO.
+1. Conforme preconiza o § 1º do art. 387 do CPP, o magistrado, ao proferir sentença condenatória, decidirá fundamentadamente sobre a manutenção ou, se for o caso, imposição de prisão preventiva ou de outra medida cautelar, sem prejuízo do conhecimento da apelação que vier a ser interposta.
+2. No caso, observa-se que a custódia cautelar foi mantida, em decisão suficientemente fundamentada, tendo como fim resguardar a ordem pública, haja vista a reiterada conduta delitiva da agente.
+Ademais, o descumprimento das condições impostas no deferimento da prisão domiciliar reforça a imprescindibilidade da segregação cautelar.
+3. "Não há incompatibilidade na fixação do modo semiaberto de cumprimento da pena e o instituto da prisão preventiva, bastando a adequação da constrição ao modo de execução estabelecido"(AgRg no RHC 110.762/RJ, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 26/5/2020, DJe 3/6/2020).
+4. Agravo regimental não provido. (AgRg no HC 629.424/TO, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 15/12/2020, DJe 18/12/2020, grifei)
+Ademais, a questão posta em exame demanda averiguação mais profunda pelo Tribunal estadual, no momento adequado. Entendo, portanto, não ser o caso de superação do enunciado 691 da Súmula do Supremo Tribunal Federal.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
