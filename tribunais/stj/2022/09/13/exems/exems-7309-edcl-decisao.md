@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de embargos de declaração opostos porANTÔNIO CARLOS DA MATTA SOUZA, JOÃO EDIVALDO LIMA DOS SANTOS e JOSÉ CARLOS THOMY DULTRA contraa decisão de fl. 379,deseguinte teor:
+A apresentação de documentos para liquidação do cálculo não importa em aumento do objeto dos embargos, mas observância ao que foi neles decidido, de forma que os valores pagos administrativamente foram corretamente abatidos na conta, que vai homologada no valor indicado pela petição de fls. 323/330, não havendo saldo do principal ainda a ser pago.
+Já tendo sido expedidos requisitórios de pagamento do principal, resta expedir RPV dos honorários advocatícios devidos pela União, conforme valores indicados pela CEJU na manifestação de fls. 361/362, devendo ser atualizados com juros e correção monetária até a data da efetiva expedição.
+Após a expedição dos requisitórios de pagamento, cumprido o objeto da execução, vai extinto o feito, devendo ser arquivado com baixa.
+Sustentam osembargantes que se insurgiram quanto à conta elaborada pela CEJU e apresentaram três alegações, assim sintetizadas: (a) o pagamento deveria ser comprovado nos embargos à execução; (b) a determinação para serem consideradoos pagamentos administrativos efetivados a título de GDAFA não autoriza a reabertura de produção de provas; (c) os documentosindicadosnão comprovam a alegação da União.No entanto, tais teses não teriam sidoenfrentadas.
+Entendem, ademais, haver obscuridade na decisão que julgou os embargos à execução ao determinar fossem considerados os pagamentos administrativos referentes à GDAF e explicitarque os valores seriam os constantes das fichas financeiras. Contudo, essa mesma decisão determinou a apresentação de elementos para realização da conta de liquidação, admitindo novos documentos alémdas próprias fichas financeiras.
+Pretendem, ainda, seja esclarecido o índice de atualização monetária a incidir sobre os honorários advocatícios devidos. Apontam o julgamento definitivo do RE 870.947, razão pela qual para todo o período deve ser considerado o IPCA-E.
+Ao fim, pedem sejam suprimidas as omissões indicadas e afastada a obscuridade quanto à admissão de documentos não previstos na decisão dos embargos à execução, além de indicado o índice de atualização a incidir na atualização docrédito de honoráriossucumbenciais.
+A União apresentou impugnação, pleiteando a manutenção dodecisum.
+É o relatório.
+A decisão embargada é irrepreensível.
+Consoantedisposto no art. 1.022 do CPC, são cabíveis embargos de declaração para suprir omissão, esclarecer obscuridade ou eliminar contradição existentes em decisões judiciais, além de corrigir erro material.
+In casu, é manifesto o propósito de rediscutir o julgado. Não foram apontados, objetivamente, quaisquer dos vícios que autorizam a oposição dos aclaratórios.
+A decisão embargada assentou que "a apresentação de documentos para liquidação dos cálculos não importa em aumento do objeto dos embargos, mas observância ao que neles foi decidido, de forma que os valores pagos administrativamente foram corretamente abatidos na conta, que vai homologada no valor indicado pela petição de fls. 323/330, não havendo saldo do principal ainda a ser pago".
+Assim, caso pretenda externar inconformismo em relação ao ponto, deve a parte socorrer-se do recurso adequado, não se prestando os aclaratórios a tal finalidade.
+Nesse sentido: "Inexistindo, no acórdão embargado, omissão, contradição, obscuridade ou erro material, nos termos do art. 1.022 do CPC vigente, não merecem ser acolhidos os Embargos de Declaração, que, em verdade, revelam o inconformismo da parte embargante com as conclusões do decisum" (EDcl no AgInt no AREsp n. 1.904.603/TO, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 29/8/2022, DJe de 1/9/2022.)
+Por fim, diante do julgamento definitivo, pelo Supremo Tribunal Federal, doRE 870.947/SE, cujo trânsito em julgado ocorreuem3/3/2020, desnecessário o esclarecimento pretendido. Será adotado comoíndice de atualização monetária o IPCA-E.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
