@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+O MINISTÉRIO PÚBLICO FEDERALagrava de decisão em que concedi a ordem do writ,a fim de reconhecer a incidência da minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006.
+No regimental, o Parquet aduz que "o recorrido se dedicava à atividadedelituosa, dada a tamanha quantidade de droga encontrada em seu poder - mais de15 kg de cocaína - e o montante de dinheiro apreendido - R$ 105.000,00" (fl. 254).
+Requer, assim, a reconsideração do decisumou a submissão do feito ao órgão colegiado, para que seja provido o recurso.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS.MINORANTE PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006. RECONHECIMENTO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1.O escopo da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006 é punir com menor rigor o pequeno traficante, ou seja, aquele indivíduo que não faz do tráfico de drogas o seu meio de vida; antes, cometendo um fato isolado, acaba incidindo na conduta típica prevista no art. 33 da mencionada lei federal.
+2. ATerceira Seção desta Corte Superior de Justiça decidiu, através doREsp n. 1.887.511/SP (Rel. Ministro João Otávio de Noronha, DJe 1º/7/2021),que" a utilização supletiva desses elementos  natureza e da quantidade da droga apreendida  para afastamento do tráfico privilegiado somente pode ocorrerquando esse vetor seja conjugado com outras circunstâncias do caso concreto que, unidas, caracterizem a dedicação do agente à atividade criminosa ou à integração a organização criminosa".
+3. No caso, dado que aquantidade e a natureza da droga apreendida foram isoladamente sopesadas para levarem à conclusão de que o réu seria dedicado a atividades criminosas, reputo evidenciado o apontado constrangimento ilegal de que estaria sendo vítima.
+4. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Não obstante os esforços perpetrados pelo ora agravante, não constato fundamentos suficientes a infirmar a decisão agravada, cuja conclusão mantenho.
+A despeito das alegaçõesministeriais, noto que o decisum combatido foi claro ao demonstrar a necessidade de reconhecimento da minorante descrita no art. 33, § 4º, da Lei n. 11.343/2006.
+Isso porque, para a aplicação da minorante, é exigido, além da primariedade e dos bons antecedentes do acusado, que este não integre organização criminosa nem se dedique a atividades delituosas. Isso porque a razão de ser da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006 é justamente punir com menor rigor o pequeno traficante.
+A propósito, confira-se o seguinte trecho de voto deste Superior Tribunal: "Como é cediço, o legislador, ao instituir o referido benefício legal, teve como objetivo conferir tratamento diferenciado aos pequenos e eventuais traficantes, não alcançando, assim, aqueles que fazem do tráfico de entorpecentes um meio de vida." (HC n. 437.178/SC, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 11/6/2019).
+No caso, o Juízo singular afastou a incidência da minorante descrita no § 4º do art. 33 da Lei n. 11.343/2006, com base nos seguintes fundamentos(fl. 194):
+Não é o caso de aplicação da causa de diminuição estabelecida no art. 33, § 4º, da Lei 11.343/06, tendo em vistaa quantidade (15 tabletes de cocaina, com peso de 15,158 kg), o significativo numerário apreendido em poder do réu (RS 105.164,00) e, ainda, a natureza da droga apreendida (cocaina), tudo a indicar o desvalor da conduta do réu, bem como o envolvimento em atividade criminosa, de forma habitual, fato que pode e deve aqui ser considerado.
+A quantidade de entorpecentes apreendidos é objetivamente excessiva, o que afasta o fato da chamada microtraficância. Houve ainda a apreensão de mais de R$ 105.000,00 em dinheiro, sem que o réu conseguisse demonstrar a origem de tal numerário. Cuida-se o réu, por óbvio, dc alguém envolvido com organização criminosa, diante deste contexto. Não se esqueça, ainda, que a cocaina indica maior lesividade e perigo social decorrente da conduta do acusado. Não se pode dar ao réu o mesmo tratamento que se daria àquele que comcrcializa pequena quantidade de maconha. Não se pode ignorar o efeito devastador da cocaina, em muito superior ao efeito de outras drogas.
+Os fatos não se coadunam com o tratamento punitivo menos rigoroso, que importaria, inclusive, a possibilidade de substituição da pena privativa de liberdade por restritiva de dircitos, nao se olvidando que o ré - ademais - possui maus antecedentes.
+No entanto, faço o registro de que, em sessão realizada no dia 9/6/2021, por ocasião do julgamento doREsp n. 1.887.511/SP(Rel. MinistroJoão Otávio de Noronha, DJe 1º/7/2021), a Terceira Seção desta Corte Superior de Justiça decidiu que:
+ ..
+7. A utilização concomitante da natureza e da quantidade da droga apreendida na primeira e na terceira fases da dosimetria, nesta última para descaracterizar o tráfico privilegiado ou modular a fração de diminuição de pena, configura bis in idem, expressamente rechaçado no julgamento do Recurso Extraordinário n. 666.334/AM, submetido ao regime de repercussão geral pelo Supremo Tribunal Federal (Tese de Repercussão Geral n. 712).
+8. A utilização supletiva desses elementos para afastamento do tráfico privilegiado somente pode ocorrerquando esse vetor seja conjugado com outras circunstâncias do caso concreto que, unidas, caracterizem a dedicação do agente à atividade criminosa ou à integração a organização criminosa.
+ ..
+Assim, uma vez que, no caso, aquantidade e a natureza da droga apreendida (cocaína)foram isoladamente sopesadas para levarem à conclusão de que o réu seria dedicado a atividades criminosas, reputo evidenciado o apontado constrangimento ilegal de que estaria sendo vítima.
+Consequentemente, à ausência de fundamento suficiente o bastante para justificar o afastamento da causa especial de diminuição prevista no § 4º do art. 33 da Lei n. 11.343/2006,de rigor o reconhecimento de referido benefício em favor do acusado.
+Ausentes, portanto, fatos novos ou teses jurídicas diversas que permitam a análise do caso sob outro enfoque, deve ser mantida a decisão agravada.
+À vista do exposto, nego provimento ao agravo regimental.
