@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo em recurso especial manejado por MERTEN ADVOCACIA, em face de decisão que inadmitiu recurso especial interposto contra acórdão assim ementado (fl. 56):
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. JUROS MORATÓRIOS. INCIDÊNCIA APÓS A REQUISIÇÃO DOS VALORES. IMPOSSIBILIDADE. SÚMULA VINCULANTE Nº 17. TEMA 1.037 DO STF. HONORÁRIOS.
+1. Os juros moratórios não são devidos no período compreendido entre a data de expedição do precatório ou da requisição de pequeno valor (RPV) e a data do efetivo pagamento, quando realizado no prazo constitucionalmente estipulado (art. 100, § 1º, da CF), conforme entendimento fixado na Súmula Vinculante nº 17.
+2. O enunciado da Súmula Vinculante 17 não foi afetado pela superveniência da Emenda Constitucional 62/2009, de modo que não incidem juros de mora no período de que trata o § 5º do art. 100 da Constituição. Tema 1.037/STF.
+3. Os atos processuais praticados e as situações consolidadas sob a vigência do Código de Processo Civil de 1973 não são alcançados pelas disposições do novo código processual, conforme dispõe o art. 14 do CPC/15.
+Embargos de declaração opostos e rejeitados (fl. 100).
+Interposto recurso especial fundado na alínea "a" do permissivo constitucional, a recorrente alega afronta aos arts. 11, 489 e 1.022 do CPC quanto à alegação que o regime a ser considerado no estabelecimento dos honorários advocatícios, se do CPC/1973 ou CPC/2015, é a sentença ou decisão que impõe a honorária sucumbencial, tendo o acórdão se negado a enfrentar a questão à luz dos arts. 20, e parágrafos, do CPC/73 e 85, §§ 1º, 2º e 3º, do CPC/2015, por devidos os honorários no cumprimento de sentença e na execução, resistidos ou não, sobre o montante global executado.
+Aponta violação dos arts. 20, §§ 3º e 4º, do CPC/73 e 85, §§ 1º, 2º e 3º, do CPC/2015 pugnando pela fixação dos honorários sobre o valor dado à causa, que coincide com o benefício econômico obtido pela exequente, que é o crédito exequendo e não o saldo complementar extraído do montante embargado.
+Contrarrazões a fls. 174-181.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Decido.
+Registra-se que os recursos interpostos com fulcro no CPC/2015 sujeitam-se aos requisitos de admissibilidade nele previstos, conforme diretriz contida no Enunciado Administrativo 3 do Plenário do STJ.
+De início, afasta-se a apontada afronta aos arts. 1.022 e 489 do CPC/2015, uma vez que a Corte de origem prestou a tutela jurisdicional por meio de fundamentação jurídica clara a respeito das questões relevantes para o deslinde da causa. A aplicação do direito ao caso, ainda que por solução jurídica diversa da pretendida por um dos litigantes, não induz negativa ou ausência de prestação jurisdicional.
+Na espécie, assim dispôs o acórdão (fl. 105, grifos nossos):
+Em relação aos honorários advocatícios, verifico que os argumentos apresentados pela parte agravante foram expressamente analisados no acórdão embargado, não havendo omissão ou obscuridade a ser sanada.
+Reproduzo excerto do acórdão embargado que tratou da questão:
+"Honorários advocatícios Por fim, registro que não prospera, de igual forma, a insurgência quanto aos honorários advocatícios fixados no cumprimento de sentença.
+No caso dos autos, durante o trâmite do cumprimento de sentença proposto pela parte agravante houve a expedição de precatórios originais nos anos de 2004 e 2011 (ev. 2 - EXECUMPR5, p. 88 e 191, dos autos originários), sem a fixação de honorários no cumprimento de sentença.
+Na decisão agravada, o juízo a quo determinou a expedição de precatório complementar, relativo a diferenças apuradas em razão de divergência no cálculo dos valores devidos, no montante de R$ 4.111,85. Na decisão, foram fixados honorários no cumprimento de sentença de "10% sobre o valor a ser requisitado, nos termos do disposto nos parágrafos 3º e 7º do art. 85 do CPC".
+Insurge-se a parte agravante, pois entende que a base de cálculo dos honorários advocatícios deveria ser o montante total executado, incluindo a parcela já requisitada e paga, e não somente o saldo remanescente objeto do precatório complementar.
+Conforme o princípio do isolamento dos atos processuais, positivado no art. 14 do Código de Processo Civil, "A norma processual não retroagirá e será aplicável imediatamente aos processos em curso, respeitados os atos processuais praticados e as situações jurídicas consolidadas sob a vigência da norma revogada".
+Os atos processuais que determinaram a expedição dos precatórios originais, sem a fixação de honorários em cumprimento de sentença, foram consolidados sob a égide do Código de Processo Civil de 1973.
+É incabível, assim, a pretensão de que neste momento processual sejam fixados honorários, com base na legislação superveniente, sobre os valores pagos na vigência da legislação revogada.
+Dessa forma, deve ser mantida a decisão que fixou honorários no cumprimento de sentença tão somente em relação ao montante remanescente a ser requisitado."
+Por um lado, os dispositivos legais apontados violados não contêm comando normativo capaz de amparar o direito alegado e infirmar o entendimento expendido no acórdão, cujos fundamentos são por si sós capazes de manter o resultado do julgado. Aplicação da Súmula 284/STF. Por outro lado, a conclusão firmada no acórdão deu-se com lastro no suporte fático dos autos, cuja revisão, a teor das alegações recursais aduzidas, exige o reexame dos elementos informativos considerados, providência vedada no âmbito do recurso especial, a teor da Súmula 7/STJ.
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial, negando-lhe provimento.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. INEXISTÊNCIA DE VÍCIOS. AUSÊNCIA DE COMANDO NORMATIVO. SÚMULA 284/STF. JUÍZO FIRMADO NO EXAME DO SUPORTE FÁTICO DOS AUTOS. REVISÃO. ÓBICE DA SÚMULA 7/STJ. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL, NEGANDO-LHE PROVIMENTO.
