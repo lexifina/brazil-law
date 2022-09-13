@@ -1,0 +1,43 @@
+DECISÃO
+Vistos etc.
+Trata-se de recurso especial interposto por JEAN OLIVEIRA DA SILVAcom fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição da República contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo(fl. 635):
+DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITO E INDENIZAÇÃO DANO MORAL Anotação em cadastro restritivo Banco de dados Notificação prévia realizada Observância do disposto no art. 43, § 2º, da Lei 8.078/90 Relação jurídica, contudo, não caracterizada perante a instituição financeira Corré que não comprovou, de forma satisfatória, origem da dívida Mantença da declaração de inexigibilidade Dano moral, todavia, não ocorrente Anotações já retiradas quando do ajuizamento Expedição de ofício para o NUMOPEDE, em face dos elementos coligidos Sentença de parcial procedência mantida Recursos desprovidos, com determinação.
+Cuida-se na origem de ação declaratória c.c.indenização ajuizada porJEAN OLIVEIRA DA SILVA em desfavor deBANCO BRADESCO S.A., BOA VISTA SERVIÇOS S.A. e SERASA S.A.
+O juízo de primeirograu julgou improcedentea pretensão em face de BOA VISTA SERVIÇOS S.A. eSERASA S.A. e julgo parcialmente procedente a pretensão do autor em face do BANCO BRADESCO S.A. apenas para reconhecer a inexigibilidade dos três débitos identificados na inicial.
+Opostos embargos de declaração, esses restaram rejeitados (fl. 730).
+Em suas razões de recurso especial, o recorrente alegouviolação aos arts. 489 e 1.022, ambos do Código de Processo Civil, ao argumento de que houve negativa de prestação jurisdicional.Asseverou contrariedade aos arts.43, § 1º e73, ambosdo Código de Defesa do Consumidor, bem como aoarts. 186, 187, 927, do Código Civil/02, sob o fundamento de que devida a condenação em danos morais. Acenou pela ocorrência de dissídio jurisprudencial. Requereu o provimento do recurso especial.
+Houve apresentação de contrarrazões.
+É o relatório.
+Passo a decidir.
+O recurso especial não merece provimento.
+1. Da negativa de prestação jurisdicional:
+Não há falar em ofensa aos arts. 489 e 1.022 do CPC/2015, porquanto todas as questões fundamentais ao deslinde da controvérsia foram apreciadas pelo Tribunal a quo, sendo que não caracteriza omissão ou falta de fundamentação a mera decisão contrária aos interesses da parte, tal como na hipótese dos autos.
+A propósito:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. IRRESIGNAÇÃO SUJEITA ÀS NORMAS DO NCPC. AÇÃO DECLARATÓRIA. ABSTENÇÃO DE USO DE MARCA. OFENSA AOS ARTS. 489 E 1.022 DO NCPC. INEXISTÊNCIA DE OMISSÃO, CONTRARIEDADE E/OU NEGATIVA DE PRESTAÇÃO JURISDICIONAL. MÉRITO. TRIBUNAL LOCAL QUE, COM BASE NOS FATOS DA CAUSA, RECONHECEU ESTAR COMPROVADA A EXISTÊNCIA DE QUESTÃO PREJUDICIAL, QUAL SEJA, A INOCORRÊNCIA DE CONCORRÊNCIA DESLEAL APTA A ENSEJAR A COBRANÇA DE MULTA. REFORMA. SÚMULA Nº 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Este agravo interno foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Em razão do princípio da unirrecorribilidade recursal, que estabelece que para cada provimento judicial admite-se apenas um recurso, deve ser reconhecida a preclusão consumativa daquele que foi deduzido por último, porque electa una via non datur regressus ad alteram.
+3. Não há falar em ofensa aos arts. 489 e 1.022 do CPC/2015, porquanto todas as questões fundamentais ao deslinde da controvérsia foram apreciadas pelo Tribunal a quo, sendo que não caracteriza omissão ou falta de fundamentação a mera decisão contrária aos interesses da parte, tal como na hipótese dos autos. Precedentes.
+4. A Corte estadual, com base no substrato fático da causa, reconheceu estar comprovada a existência de questão prejudicial, qual seja, a inocorrência de concorrência desleal por parte de WANEL e outra apta a configurar ato ilícito passível de cobrança de multa.
+De modo que rever tal entendimento encontra óbice no enunciado da Súmula nº 7 do STJ. Precedentes.
+5. Não há falar em violação do princípio da segurança jurídica quando o Tribunal estadual, ao examinar a controvérsia discutida nos autos, opta por uma das teses possíveis ao julgamento da causa, fundamentando suas razões adequadamente, não ensejando, assim, qualquer nulidade, por carência de fundamentação, tal como determina o art. 371 do NCPC.
+6. Ausência de argumentos bastantes e suficientes para infirmar os fundamentos da decisão agravada.
+7. Agravo interno não provido.(AgInt nos EDcl no REsp n. 1.939.292/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 13/6/2022, DJe de 15/6/2022.)
+2. Do dano moral:
+O Tribunal de Justiça do Estado de São Paulo, ao julgar o recurso de apelação, afastou a condenação em danos morais sob os seguintes fundamentos (fl. 639):
+(..)
+Todavia, não é o caso de estabelecer indenização por supostos prejuízos morais. As dívidas aqui referidas, como esclarecido, são de abril e junho de 2014 (fls. 21/15). O autor, porém, só ajuizou esta ação em 29 de outubro de 2019 (fl. 01), passados mais de cinco anos dos fatos. E verifique-se que, naquele momento, as dívidas já haviam sido excluídas dos cadastros respectivos (fls. 163 e 168). Não é cabível admitir, assim, sofrimento moral que justifique concessão da reclamada indenização. Aliás, nada obstante a instituição financeira não tenha conseguido provar a origem dos débitos (talvez até pelo lapso de tempo decorrido), convenha-se que o autor se limitou a afirmar, vagamente, que não haveria contrato e que não estaria a reconhecer os débitos (fl. 05, primeiro parágrafo).
+Nesse contexto, aconvicção a que chegou o acórdão acerca da inexistênciade danos moraisdecorreu da análise do conjunto fático-probatório e o acolhimento da pretensão recursal demandaria o reexame do mencionado suporte, providência que encontra óbice no Enunciado n.º 7, da Súmula de Jurisprudência do Superior Tribunal de Justiça.
+A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO E INDENIZAÇÃO POR DANOS MORAIS. ALEGADA AFRONTA AOS ARTIGOS 403 DO CC E 373, INCISO I, DO CPC DE 2015. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA N. 282/STF. PROTESTO INDEVIDO. OCORRÊNCIA. SÚMULA N. 7/STJ. DANOS MORAIS. CABIMENTO. SÚMULA N. 83/STJ. AGRAVO NÃO PROVIDO.
+1. As matérias referentes aos artigos 403 do CC e 373, inciso I, do CPC de 2015 não foram objeto de discussão no acórdão recorrido, apesar da oposição de embargos de declaração, não se configurando o prequestionamento, o que impossibilita a sua apreciação na via especial (Súmula n. 282/STF).
+2. A convicção a que chegou o acórdão acerca da ocorrência de danos morais decorrentes de protesto indevido decorreu da análise do conjunto fático-probatório e o acolhimento da pretensão recursal demandaria o reexame do mencionado suporte, obstando a admissibilidade do especial à luz do enunciado 7 da Súmula desta Corte.
+(..)
+4. Agravo interno a que se nega provimento.(AgInt no AREsp n. 2.036.813/SC, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 9/8/2022, DJe de 19/8/2022.)
+Ante o exposto, com arrimo no art. 932, inciso IV, do Código de Processo Civil, conheço e nego provimento ao recurso especial.
+Por fim, majoro os honorários advocatícios sucumbenciais para 18% (dezoito por cento) sobre o valor da causa.
+Intimem-se.
+EMENTA
+RECURSO ESPECIAL. DIREITO DO CONSUMIDOR. AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITO E INDENIZAÇÃO DANO MORAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL E CARÊNCIA DE FUNDAMENTAÇÃO. NÃO OCORRÊNCIA. DANO MORAL. NÃO OCORRÊNCIA. REVISÃO DO JUGADO. IMPOSSIBILIDADE. INCIDÊNCIA DOENUNCIADOS N.º 7/STJ.
+1.Não há falar em ofensa aos arts. 489 e 1.022, do CPC/2015, porquanto todas as questões fundamentais ao deslinde da controvérsia foram apreciadas pelo Tribunal a quo, sendo que não caracteriza omissão ou faltade fundamentaçãoa mera decisão contrária aos interesses da parte, tal como na hipótese dos autos.
+2. Aconvicção a que chegou o acórdão acerca da inexistência de danos morais decorreu da análise do conjunto fático-probatório. Dessa forma,o acolhimento da pretensão recursal demandaria o reexame do mencionado suporte, providência que encontra óbice no Enunciado n.º 7, da Súmula de Jurisprudência do Superior Tribunal de Justiça.
+3. RECURSO ESPECIAL CONHECIDO E DESPROVIDO.
