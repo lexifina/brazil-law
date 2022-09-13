@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de agravo apresentado por FUNDAÇÃO DOS ECONOMIÁRIOS FEDERAIS FUNCEF contra a decisão que não admitiu seu recurso especial.
+O apelo nobre fundamentado no artigo 105, inciso III, alínea "a" e alínea "c" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS, assim resumido:
+AGRAVO DE INSTRUMENTO. PROCESSO CIVIL. CUMPRIMENTO DE SENTENÇA. PESQUISA DE BENS. CONSTRIÇÃO VIA SISBAJUD. DECURSO DE PRAZO RAZOÁVEL. REITERAÇÃO. POSSIBILIDADE. EMBARGOS DE DECLARAÇÃO. CARÁTER PROTELATÓRIO. MULTA DEVIDA.
+Quanto à primeira controvérsia, pela alínea "a" do permissivo constitucional, alega violação do art. 1.026, § 2º do CPC, no que concerne à inexistência de embargos de declaração com o caráter protelatório, uma vez que apenas objetivou que o Juízo se retratasse ou justificasse o indeferimento da medida pleiteada, trazendo o(s) seguinte(s) argumento(s):
+A ora RECORRENTE, na origem pleiteou a pesquisa SISBAJUD para buscar valores disponíveis em nome do RECORRIDO. O requerimento foi sumariamente INDEFERIDO ocasião que a decisão foi preliminarmente combatida por meio de EMBARGOS DECLARATÓRIOS.
+Destaca-se que, os EMBARGOS DE DECLARAÇÃO opostos pela FUNDAÇÃO/RECORRENTE não foram manifestamente protelatórios, mas com o objetivo de que o Juízo de piso tivesse a oportunidade de se retratar ou então JUSTIFICAR MOTIVADAMENTE o indeferimento da medida pleiteada.
+Ademais, a própria norma processual vigente e os princípios norteadores dos recursos, como princípio da unirrecorribilidade, permitem a oposição de EMBARGOS DECLARATÓRIOS OU AGRAVO DE INSTRUMENTO para atacar a decisão interlocutória proferida.
+Ainda, o instrumento que freou a marcha processual do presente caso foi a própria decisão de 1º (primeiro) grau que indeferiu a pesquisa SISBAJUD e originou mais tantos outros recursos, inclusive o presente RECURSO ESPECIAL.
+ ..
+Com a devida vênia, não há que se falar em intuito protelatório nos autos, por si, pelo fato de ser a RECORRENTE a parte EXEQUENTE e não ter qualquer motivo para postergar o feito.
+Muito pelo contrário, o interesse processual-recursal da EXEQUENTE, ora RECORRENTE, é buscar o integral adimplemento do seu crédito o quanto antes (fls. 155/157).
+Quanto à segunda controvérsia, foi interposto recurso pela alínea "c" do permissivo constitucional.
+É, no essencial, o relatório. Decido.
+Quanto à primeira controvérsia, na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+No que se refere à multa questionada, tem-se que foi arbitrada pelo caráter protelatório dos Embargos de Declaração opostos pela agravante.
+Em verdade, o referido recurso foi utilizado sob o fundamento de omissão na decisão agravada, contudo revela um descontentamento quanto ao que nesta foi decidido.
+Logo, o trâmite do processo principal foi adiado sem razão, o que acaba por legitimar conclusão de uso desvirtuado da finalidade do referido recurso, em contraposição ao que orientam os artigos 5.º e 6.º, do CPC.
+Logo, deve ser mantida a multa arbitrada na primeira instância, porquanto acertadamente aplicada, nos termos do art. 1.026, § 2º, do processual. Codex (fl.118).
+Desse modo, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o reexame da premissa fixada pela Corte de origem quanto ao caráter protelatório dos embargos de declaração exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em sede de recurso especial.
+Nesse sentido, o STJ já decidiu que, "a análise do art. 1.026, § 2º, do CPC, que trata da multa por interposição de embargos de declaração protelatórios, demanda, na espécie, reexame do acervo fático-probatório dos autos. Assim, inviável a apreciação da tese, sob pena de violação da Súmula 7/STJ". (AgInt no REsp 1.835.027/PR, relator Ministro Og Fernandes, Segunda Turma, DJe de 11/2/2020.)
+Confiram-se ainda os seguintes julgados: AgInt nos EDcl no AREsp 1.528.731/RJ, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 27/8/2020; AgInt nos EDcl no AREsp n. 1.138.645/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 23/3/2018; AgRg no REsp n. 1.192.745/PE, relator Ministro Og Fernandes, Sexta Turma, DJe de 21/3/2011.
+Quanto à segunda controvérsia, na espécie, não foi comprovada a divergência jurisprudencial, uma vez que não foi cumprido nenhum dos requisitos previstos nos arts. 1.029, § 1º, do CPC, e 255, § 1º, do Regimento Interno do Superior Tribunal de Justiça.
+Nesse sentido: "Não se conhece de recurso especial interposto pela divergência jurisprudencial quando esta não esteja comprovada nos moldes dos arts. 541, parágrafo único, do CPC/73 (reeditado pelo art. 1.029, § 1º, do NCPC), e 255 do RISTJ. Precedentes". (AgInt no AREsp 1.615.607/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 20/5/2020.)
+Confiram-se ainda os seguintes julgados: REsp 1.575.943/DF, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 2/6/2020; AgInt no REsp 1.817.727/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 18/5/2020; AgInt no AREsp 1.504.740/SP, relator Ministro Raul Araújo, Quarta Turma, DJe de 8/10/2019; AgInt no AREsp 1.339.575/DF, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 2/4/2019; AgInt no REsp 1.763.014/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 19/12/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
