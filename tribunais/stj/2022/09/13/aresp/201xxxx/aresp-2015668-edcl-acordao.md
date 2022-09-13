@@ -1,0 +1,36 @@
+EMENTA
+PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. EMBARGOS REJEITADOS.
+1. Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração, como recurso de correção, destinam-se a suprir omissão, contradição e ambiguidade ou obscuridade existente no julgado. Não se prestam, portanto, para sua revisão no caso de mero inconformismo da parte.
+2. Na hipótese, não há se falar em omissão, na medida em que o acórdão impugnado - ao reconhecer a ocorrência de bis is idem operado pelo juiz sentenciante na análise das circunstâncias judiciais do art. 59 do Código Penal - procedeu à devida redução da pena-base, não configurando, portanto, reformatio in pejus no caso concreto.
+3. Embargos de declaração rejeitados.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos. Os Srs. Ministros Joel Ilan Paciornik, João Otávio de Noronha, Jorge Mussi e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+Trata-se de embargos de declaração opostos por QUITÉRIA ARAUJO CARNIERI (e-STJ, fls. 2806-2812) contra acórdão da Quinta Turma que negou provimento ao recurso especial, mas concedeu habeas corpus de ofício à corré Érica, cujo teor da ementa transcreve-se (e-STJ, fls. 2788-2789):
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE ENTORPECENTES E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE. AFASTAMENTO DA SÚMULA 182 DO STJ. PLEITO DE ABSOLVIÇÃO DO DELITO DE ASSOCIAÇÃO PARA O TRÁFICO. REVOLVIMENTO FÁTICO E PROBATÓRIO. SÚMULA 7 DO STJ. RECONHECIMENTO DO TRÁFICO PRIVILEGIADO. IMPOSSIBILIDADE. AGRAVANTES CONDENADAS PELO DELITO DE ASSOCIAÇÃO PARA O TRÁFICO. MANUTENÇÃO DO QUANTUMDE AUMENTO DA PENA-BASE. REFORMATIO IN PEJUS. FLAGRANTE ILEGALIDADE. CONCESSÃO DE HABEAS CORPUS DE OFÍCIO.
+1. Havendo impugnação específica aos fundamentos da decisão agravada é o caso de afastamento da Súmula 182 do STJ.
+2. No tocante ao delito de associação para o tráfico, verifica-se do acórdão impugnado que a decisão condenatória está amparada em farto material probatório, colhido durante a instrução criminal, sob o crivo do contraditório e da ampla defesa, que demonstra o ânimo associativo, de caráter duradouro e estável, entre as agravantes e os corréus. Dessa forma, a pretensão de absolvição pelo delito de associação para o tráfico, sob a alegação de falta de comprovação da estabilidade e permanência entre as recorrentes e os corréus, demanda, necessariamente, o revolvimento do conteúdo fático probatório dos autos, providência inviável em recurso especial (Súmula 7/STJ).
+3. A condenação pelo crime de associação para o tráfico, por si só, já tem o condão de inviabilizar a aplicação do redutor previsto no art. 33, § 4º, da Lei Antidrogas, pois essa circunstância impede que o agente preencha os requisitos legais para a aplicação da minorante (AgRg no HC 338.964/MG, Rel. Min. ROGERIO SCHIETTI CRUZ, SEXTA TURMA, DJe de 6/6/2016)
+4. A Terceira Seção alterou recentemente seu entendimento, passando a entender que quando o Tribunal de origem, em recurso exclusivo da defesa, afasta a valoração negativa de alguma circunstância judicial do art. 59 do CP, deve reduzir a pena proporcionalmente.
+5. Agravo regimental provido para afastar a incidência da Súmula 182/STJ e conhecer do recurso especial. No mérito, contudo, recurso especial não provido.
+Concessão de habeas corpus, de ofício, à ré Érica Pereira dos Santos, para redimensionar sua pena final - já realizado o concurso material entre os delitos - para 11 anos, 5 meses e 8 dias de reclusão, em regime inicial fechado, mais pagamento de 1.597 dias-multa."
+Aduz a defesa, em síntese, que houve omissão no referido acórdão, ao não estender a ordem de habeas corpus à ora embargante, uma vez que ela estaria na mesma situação jurídica da corré beneficiada na ocasião.
+Requer, portanto, o acolhimento dos embargos.
+É o relatório.
+EMENTA
+PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. EMBARGOS REJEITADOS.
+1. Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração, como recurso de correção, destinam-se a suprir omissão, contradição e ambiguidade ou obscuridade existente no julgado. Não se prestam, portanto, para sua revisão no caso de mero inconformismo da parte.
+2. Na hipótese, não há se falar em omissão, na medida em que o acórdão impugnado - ao reconhecer a ocorrência de bis is idem operado pelo juiz sentenciante na análise das circunstâncias judiciais do art. 59 do Código Penal - procedeu à devida redução da pena-base, não configurando, portanto, reformatio in pejus no caso concreto.
+3. Embargos de declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+Segundo jurisprudência desta Corte, "são cabíveis embargos de declaração quando, no acórdão embargado, houver ambiguidade, obscuridade, contradição ou omissão, a teor do disposto no art. 619 do Código de Processo Penal. Podem também ser admitidos para a correção de eventual erro material, consoante entendimento preconizado pela doutrina e jurisprudência" (EDcl no REsp 1.524.525/MG, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 08/02/2018, DJe 21/02/2018).
+Na hipótese, não há se falar em omissão, na medida em que o acórdão impugnado - ao reconhecer a ocorrência de bis is idem operado pelo juiz sentenciante na análise das circunstâncias judiciais do art. 59 do Código Penal - procedeu à devida redução da pena-base, não configurando, portanto, reformatio in pejus no caso concreto.
+Conforme consta dos autos, o juiz sentenciante havia fixado a pena base da ora embargante para o crime de tráfico de drogas em 10 anos de reclusão e para o delito de associação para o tráfico em 5 anos, 7 meses e 15 dias de reclusão.
+Posteriormente, ao afastar o constatado bis in idem na primeira fase da dosimetria, a pena base do delito de tráfico foi reduzida para 7 anos e 6 meses de reclusão e a do delito de associação para 4 anos e 6 meses de reclusão. (e-STJ, fls. 2363-2364).
+Logo, não houve reforço na fundamentação pelo Tribunal de origem, na medida em que - ao afastar as circunstâncias judiciais indevidamente valoradas pelo Juiz de primeiro grau - procedeu também à devida redução da pena.
+Neste contexto, verifica-se, aliás, a ocorrência de erro material no acórdão embargado ao conceder habeas corpus de ofício à corré Érica. Isto porque, não foi observada, por esta Corte, a redução da pena-base que já havia sido operada também em relação à corré Érica.
+Tanto é assim, que a pena final da referida corré no acórdão embargado teria sido redimensionada para 11 anos, 5 meses e 8 dias de reclusão. No entanto, o próprio Tribunal de origem já havia estabelecido pena mais benéfica à corré, qual seja, 10 anos, 10 meses e 20 dias de reclusão. Deve prevalecer, portanto, a pena imposta pelo Tribunal de origem.
+Ante o exposto, rejeito os embargos de declaração.
+É o voto.
