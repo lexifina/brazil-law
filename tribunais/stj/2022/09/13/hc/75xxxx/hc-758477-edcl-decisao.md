@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por MATHEUS ALVES LEMEcontra decisão que julgou prejudicado owrit (e-STJ fls. 118-119).
+Sustenta oembargante que o pedido de trancamento da ação penal não foi apreciado por esta Corte.
+Requer o acolhimento dos aclaratórios para que sejaanalisado o pedido de trancamento da ação criminal em curso em razão da incidência do princípio da insignificância penal.
+É o relatório.
+Inicialmente, tendo em vista que a decisão impugnadafoi publicadaem 04.8.2022(e-STJ fl. 120), cumpre atestar a tempestividade dos embargos declaratórios, pois opostos em 06.8.2022 (e-STJ fl. 126).
+O art. 619 do Código de Processo Penal disciplina que "aos acórdãos proferidos pelos Tribunais de Apelação, câmaras ou turmas, poderão ser opostos embargos de declaração, no prazo de dois dias contados da sua publicação, quando houver na sentença ambiguidade, obscuridade, contradição ou omissão", tendo a jurisprudência desta Corte os admitido, também, com o fito de sanar eventual erro material na decisão embargada.
+Da análise dos autos, vislumbra-se com razão oembargante, por isso, acolhem-se os embargos declaratórios e passa-se àanálise do pleito de trancamento da ação penal.
+Analisando a questão, o Tribunal de origem assim se manifestou (e-STJ fl. 14):
+É inviável, ao menos em sede de "habeas corpus", o acolhimento da tese defendida pelo nobre impetrante, uma vez que o princípio da insignificância não está previsto em nosso ordenamento jurídico-penal, a significar que, diante da falta de previsão legal, não se pode falar que o paciente esteja experimentando ilegal constrangimento. Sem contar que a apreciação de tal pedido exige a análise mais aprofundada das provas e, portanto, do mérito, o que, por óbvio, extrapola os estreitos limites de cognição do remédio heroico.
+Daí porque, não se conhece da ordem.
+Da leitura do acórdão impugnado, verifica-se que ailegalidadesuscitadapelo embargante não foi analisadapela Corte Estadual, circunstância que impede qualquer manifestação deste Sodalício sobre otópico, sob pena de se configurar a prestação jurisdicional em indevida supressão de instância.
+A propósito:
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. CRIMES CONTRA A ORDEM TRIBUTÁRIA. PROCEDIMENTO INVESTIGATÓRIO CRIMINAL. TRANCAMENTO. JUSTA CAUSA. LASTRO PROBATÓRIO MÍNIMO. OFENSA AO PRINCÍPIO DA INSIGNIFICÂNCIA. SUPRESSÃO DE INSTÂNCIA.
+1. É cediço que somente se admite o trancamento prematuro de persecução penal quando restar provada, de forma clara e precisa, sem a necessidade de exame valorativo do conjunto fático ou probatório, na hipótese de absoluta ausência de justa causa, atipicidade da conduta, extinção da punibilidade ou, ainda, inépcia formal da denúncia, o que não se verifica no caso dos autos.
+2. Pelo visão fático-processual que o momento enseja, consta dos autos a existência de lastro probatório mínimo quanto ao envolvimento dos agravantes em crimes contra a ordem tributária, não havendo falar em ausência de justa causa para o prosseguimento das investigações.
+3. Não cabe analisar a tese de que empresa foi transferida para terceiros, devendo o fato ser analisado no curso das investigações, ou mesmo da persecução, posto que imprescinde de amplo revolvimento probatório, incompatível com a via do habeas corpus.
+4. A matéria referente ao princípio da insignificância não foi objeto de análise pelo colegiado do Tribunal de origem, não podendo ser conhecida diretamente por esta Corte sob pena de indevida supressão de instância.
+5. Se o Tribunal não analisou a tese, por entender presente a justa causa, incumbia à parte interessada voltar à carga com a alegação da tese, para ensejar a manifestação da Corte, o que, pelo que consta, não ocorreu.
+6. Agravo regimental improvido.
+(AgRg no RHC n. 147.860/PB, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 24/8/2021, DJe de 30/8/2021.)
+No mesmo sentido:
+AGRAVO REGIMENTAL EM RHC. CRIME TRIBUTÁRIO. DENÚNCIA. TRANCAMENTO DA AÇÃO PENAL. AUSÊNCIA DE JUSTA CAUSA. ATIPICIDADE. APLICAÇÃO DA INSIGNIFICÂNCIA. VALOR ELEVADO. SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. AGRAVO DESPROVIDO.
+1. O Supremo Tribunal Federal e o Superior Tribunal de Justiça entendem que o trancamento de inquérito policial ou de ação penal em sede de habeas corpus é medida excepcional, só admitida quando restar provada, inequivocamente, sem a necessidade de exame valorativo do conjunto fático-probatório, a atipicidade da conduta, a ocorrência de causa extintiva da punibilidade, ou, ainda, a ausência de indícios de autoria ou de prova da materialidade do delito (RHC n. 43.659/SP, Rel. Ministro JORGE MUSSI, Quinta Turma, julgado em 4/12/2014, DJe 15/12/2014).
+2. No caso em exame, a denúncia narra que, no período compreendido entre agosto de 2011 e junho de 2012, os recorrentes, sócios da empresa responsável pelo recolhimento dos tributos e pelas informações prestadas ao fisco, deixaram de recolher aos cofres públicos ICMS no valor de R$ 75.259,62, escriturando operações de entrada de mercadorias realizadas por empresa inexistente, causado prejuízo aos cofres públicos. Ressalta, ademais, que até então o débito não foi integralmente quitado ou parcelado, estando regularmente inscrito em dívida ativa. O Ministério Público narrou devidamente os fatos imputados aos acusados, definindo e individualizando as circunstâncias do delito, não havendo como reconhecer a ausência dos requisitos exigidos pelos arts. 41 do Código de Processo Penal. Precedentes do STJ.
+3. Acerca da atipicidade da conduta pela incidência do princípio da insignificância, a tese não foi efetivamente examinada pelo Tribunal e a defesa não manejou o recurso adequado para obter um pronunciamento preciso do órgão fracionário, o que impede o exame direto nesta Corte. De qualquer forma, para fins de caracterização da insignificância penal, na esfera tributária, o parâmetro é a totalidade do débito. Precedentes.
+4. Agravo regimental a que se nega provimento.
+(AgRg no RHC n. 141.311/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 17/8/2021, DJe de 20/8/2021.)
+Ante o exposto, com fundamento no art. 34, XVIII, a e b, do Regimento Interno deste Superior Tribunal de Justiça, acolhoos embargos declaratórios, somentepara sanar omissão, sem efeitos modificativos, nos termos acima expostos.
+Publique-se.
+Intime-se.
+Cientifique-se o Ministério Público Federal.
