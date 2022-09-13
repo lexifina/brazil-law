@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto por Banco RCI Brasil S.A., com fundamento no art. 105, III, ae c,da Constituição Federal, para impugnar acórdão assim ementado (e-STJ, fl. 215):
+CIVIL E PROCESSO CIVIL. APELAÇÃO CIVIL. BUSCA E APREENSÃO DE BEM ALIENADO FIDUCIARIAMENTE. DECRETO-LEI Nº 911/1969. SUMULA72 DO STJ. COMPROVAÇÃO DA MORA. INEXISTENTE. DEVOLUÇÃO DA CARTA DE NOTIFICAÇÃO EXTRAJUDICIAL POR AUSÊNCIA DO DESTINATÁRIO. NECESSIDADE DE EFETIVO RECEBIMENTO AINDA QUE POR TERCEIRO. RECURSO CONTRÁRIO A SUMULA DO STJ. SENTENÇA MANTIDA. DECISÃO MONOCRATICA. RECURSO CONHECIDO E NÃO PROVIDO.
+1. Consoante Súmula n.º 72 do Colendo Superior Tribunal de Justiça, a comprovação da mora é imprescindível à busca e apreensão do bem alienado fiduciariamente.
+2. A comprovação da mora se dá por meio do envio de carta com aviso de recebimento, ainda que este venha a ser assinado por terceiros e não pelo devedor. Todavia, exige-se a aposição de alguma assinatura, não se concluindo pela comprovação amora quando a carta é devolvida com a informação de ausência do destinatário.
+3. Incumbe ao relator negar provimento a recurso em confronto com súmula do Superior Tribunal de Justiça, decidindo, monocraticamente, o próprio recurso.
+4. Apelação conhecida. No mérito, improvida.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 238-245).
+Nas razões do recurso especial, apontou-se violação doart.2º,§ 2º do Decreto Lei 911/1969,bem como divergência jurisprudencial(e-STJ, fls. 280-294).
+Sustentou-se, em suma, ter cumpridoos requisitos exigidos legalmente e comprovadoque antes do protesto enviou notificação ao endereço do requerido.
+O recurso especial não foi admitido na origem (e-STJ, fls. 312-314), o que provocou a interposição do presente agravo.
+Brevemente relatado, decido.
+O inconformismo não merece prosperar.
+Ao deliberar sobre a questão controvertida, verifica-se que a Corte local destacou as seguintes particularidades do caso concreto (e-STJ, fls. 217-220):
+Tecidas estas considerações e partindo para o exame do arcabouço fático-probatório dos autos, verifico que o MM. Juiz de 1º grau extinguiu o processo sem exame meritório por entender, no caso, não comprovada a mora e, portanto, ausente pressuposto de constituição e de desenvolvimento válido e regular do processo.
+Constato, ademais, verificando os documentos acostados à petição inicial, que a notificação extrajudicial de Id 818029 - pág. 10 foi devolvida sem qualquer recebimento por parte do destinatário, consoante aviso de recebimento de Id 818029 - pág. 11, que traz a informação deque foram realizadas 03 (três) tentativas de entrega, sem sucesso, por ausência do destinatário.
+O apelante, por sua vez, sustenta que a mera remessa da notificação extrajudicial ao endereço constante do contrato é suficiente à comprovação da mora, prescindindo-se da assinatura do devedor fiduciário. Entretanto, tenho que as razões invocadas pelo apelante não merecem prosperar.
+Ora, o Decreto-lei n.º 911/69, em seu art. 2º, § 2º, torna, com efeito, dispensável a assinatura do próprio destinatário do aviso de recebimento, satisfazendo-se com a aposição de assinatura de terceiro. No entanto, exige-se que seja aposta alguma assinatura, comprovando, assim, o recebimento da notificação extrajudicial enviada ao endereço do devedor. Sem a comprovação do ato do efetivo recebimento, ainda que realizado por terceiro, não se pode conceber como constituído, em mora, o devedor. É a situação delineada nos autos. A notificação extrajudicial enviada pelo apelante retornou ao remetente com a informação da impossibilidade de entrega, por inexistência de pessoa a receber no endereço do destinatário.
+Por não conseguir proceder com a notificação do devedor mediante carta com aviso de recebimento, deveria ter o apelante, para garantir a higidez da comprovação da mora, salvaguardado-se por meio do protesto, implementando, assim, a condição de procedibilidade para a ação de busca e apreensão do bem.
+Nesse contexto, a inversão do julgado esbarra no reexame dos fatos e análise dos documentos existentes nos autos,o que é vedado em âmbito de recurso especial, devido ao óbice doenunciado7 da Súmula deste Tribunal.
+Nem se diga ser caso de revaloração da prova. Revalorar o fato é atribuir o devido valor jurídico a fato incontroverso, sobejamente reconhecido pelas instâncias ordinárias.
+No caso, o que se almejaé a revisão da conclusão a que chegou a Corte estadual, acerca da falta de notificação extrajudicial da parte agravada.
+Portanto, não é possível o acolhimento do recurso com a simples revaloração de fatos, mas, diferentemente, seria necessário o revolvimento do conjunto probatório, medida obstada pela Súmula 7/STJ.
+Não se olvide, ainda, o entendimento já adotado no Superior Tribunal de Justiça de que "a errônea valoração da prova que dá ensejo ao recurso especial é aquela que decorre de equívoco na aplicação de norma ou princípio no campo probatório, e não quanto às conclusões das instâncias ordinárias acerca dos elementos informativos coligidos aos autos do processo" (AREsp n. 1380879/RS, Ministro Ricardo Villas Bôas Cueva, DJe de 5/8/2020).
+Em decorrência do referido óbice sumular, fica prejudicada a análise do alegado dissídio jurisprudencial.
+Diante do exposto, conheço do agravo para não conhecerdo recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. VEÍCULO. BUSCA E APREENSÃO. AUSÊNCIA DE NOTIFICAÇÃO EXTRAJUDICIAL.EXTINÇÃO DO FEITO. CONCLUSÕES ESTADUAIS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.INCIDÊNCIA. REVALORAÇÃO DA PROVA. AFASTAMENTO. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA.AGRAVO CONHECIDO PARANÃO CONHECER DO RECURSO ESPECIAL.
