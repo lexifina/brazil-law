@@ -1,0 +1,24 @@
+DECISÃO
+JACKSON DA CONCEIÇÃO DA SILVA alega sofrer constrangimento ilegal pelo Tribunal de Justiça do Estado da Bahia(Apelação Criminal n. 0501078-13.2020.8.05.0274).
+Sustenta a defesa, em síntese, que "decorrido quase um ano da decisão, e, por conseguinte, da recomendação, o recurso de apelação encontra-se no mesmo momento processual que estava quando da impetração anterior, o que, acredita-se, demonstra, indene de qualquer dúvidas, que o excesso de prazo, mais do que caracterizado, está fartamente demonstrado" (fl. 8).
+Após o indeferimento da liminar (fls. 157-158), o Ministério Público Federal opinou pelo não conhecimento do writ ou, caso seja conhecido, pela denegação da ordem (fls. 170-173).
+Decido.
+No que tange ao alegado excesso de prazo, as informaçõesnoticiam o seguinte (fl. 168):
+1 - O Recurso de Apelação n. 0 0501078-13.2020.8.05.0274 foi distribuído, por prevenção, em 15.01.2021, à 1.a Turma da Primeira Câmara Criminal desta Corte de Justiça, cabendo sua relatoria a esta Desembargadora;
+2 - Após triagem dos fólios, em 23.03.2021, foi determinada a conversão do feito em diligência a fim de que a defesa apresentasse suas razões recursais nesta instância, nos termos do art. 600, § 4º, do CPP. A aludida peça foi apresentada em 08.04.2021 (fls. 03/47 do ID. 27174092).
+3- Remessa dos autos à origem, na data de 16.11.2021, para oferecimento das contrarrazões pelo parquet oficiante na serventia de origem.
+Contrarrazões ministeriais oferecidas em 19.11.2021 (fls. 610/617).
+3 - Devolvidos os autos a esta superior instância, a Procuradoria de Justiça ofereceu seu opinativo em 10.12.2021 (IDs. 27174101/27174101) posicionando-sepelo conhecimento e improvimento do Apelo.
+4 - Em 24.01.2022, os autos foram remetidos ao Núcleo UNIJUD - Central de digitalização, em razão da migração do Sistema de Automação da Justiça - SA3 para o Processo Judicial Eletrônico - Pje, 5 - Termo de virtualização e migração de autos lavrado em 07.04.2022, certificando a migração dos fólios ao sistema Pje.
+6 - Em 18.04.2022, verificando-se que o processo de primeiro grau ainda encontrava-se em meio físico, determinou-se a conclusão da sua migração para o sistema Pje, providência concluída em 15.06.2022.
+7 - Nesta mesma data, os autos vieram conclusos para apreciação de mérito recursal.
+A respeito do tema, a jurisprudência desta Corte Superior é firme aoasseverar que "a aferição de excesso de prazo reclama a observância dagarantia da duração razoável do processo, prevista no art. 5º, LXXVIII, daConstituição Federal, não podendo decorrer de análise puramentematemática, devendo ser sopesados o tempo de prisão provisória, aspeculiaridades da causa, sua complexidade e outros fatores queeventualmente possam influenciar o curso da ação penal" (AgRg no RHC n.152.530/BA, Rel. Ministro João Otávio de Noronha, 5ª T., DJe 3/11/2021,grifei).
+Deveras,"Para a caracterização do excesso de prazo, a demora excessivadeve estar vinculada à desídia do Poder Público, em decorrência, porexemplo, de eventual procedimento omissivo do magistrado ou da acusação"(AgRg no REsp n. 1953439/RS, Rel. Ministro Reynaldo Soares da Fonseca, 5ªT., DJe 25/10/2021).
+O Supremo Tribunal Federal também consolidou o posicionamento de que "ademora na conclusão da instrução criminal, como circunstância apta aensejar constrangimento ilegal, somente se dá em hipóteses excepcionais,nas quais a mora seja decorrência de: (i) evidente desídia do órgãojudicial; (ii) exclusiva atuação da parte acusadora; ou (iii) outrasituação incompatível com o princípio da razoável duração do processo"(STF, HC 177295, AgR, Relator(a): Ricardo Lewandowski, 2ª T., DJe6/12/2019).
+Na hipótese, observo que a Corte regional vem adotando as medidas necessárias para assegurar o regular andamento do feito, tanto que, após a migração dos autos para o sistema Pje - digitalização do processo-, os autos já foram conclusos ao relator no dia 15/6/2022.
+Além disso, o paciente, conforme relatado na própria petição (fl. 6),encontra-se foragido, ao menos desde o cometimento da prática delitiva, segundo consta da sentença (fl. 30).
+Registre-se, nesse ponto, que "É entendimento pacificado desta Corte Superior que a alegação de excesso de prazo fica superada se estiver o paciente foragido" (HC n. 476.700/PR, Rel. Ministra Laurita Vaz, 6ª T., DJe 3/6/2019, grifei).
+No mesmo sentido: RHC n. 102.411/RJ, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 2/8/2019; HC n. 494.306/SP, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 3/5/2019; AgRg no RHC n. 102.157/RS, Rel. Ministro Jorge Mussi, 5ª T., DJe 23/4/2019 e HC n. 467.807/SC, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 1º/3/2019.
+Assim, verificadas a compatibilidade da duração do processo com as particularidades do caso concreto e a diligência do Estado no processamento do feito, fica afastada, ao menos por ora, a alegação de excessode prazo.
+À vista do exposto, denego a ordem.
+Publique-se e intimem-se.
