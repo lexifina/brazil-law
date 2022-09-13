@@ -1,0 +1,75 @@
+DECISÃO
+Trata-se de agravo regimental interposto por SAMELRI RENATA RODRIGUES DA COSTA, em face de decisão prolatada por este Relator que não conheceu do habeas corpus (e-STJ, fls. 96-99).
+Nas razões recursais (e-STJ, fls. 105-108), a defesa sustenta que, não obstante o poder-dever do magistrado em modificar as condições impostas para o cumprimento de pena no regime aberto ou no livramento condicional, esse poder-dever demanda a consideração da situação de cada sentenciado, o que não ocorreu no caso concreto.
+Assevera que a magistrada das execuções penais promoveu alteração genérica e coletiva das condições de cumprimento do regime aberto e do livramento condicional de todos os condenados, independentemente de sua situação individual. Aduz ofensa aos princípios da individualização da pena, da proporcionalidade e da ressocialização, além de constituir sanção coletiva, o que é vedado pela Lei de Execução Penal.
+Aponta decisões contrárias deste Relator e de outros Ministros da Terceira Seção deste Tribunal.
+Requer, ao final, a reconsideração da decisão, para que seja concedida a ordem, a fim de cassar a decisão genérica proferida pelo Juízo das Execuções Penais, determinando que a imposição de condições especiais a cada executado seja feita individualmente e de forma justificada. Alternativamente, pleiteia o provimento do regimental pelo Órgão Colegiado.
+É o relatório.
+Decido.
+Assiste razão à agravante.
+Por oportuno, reproduzo o seguinte trecho do acórdão estadual, proferido por ocasião do julgamento do agravo em execução defensivo:
+"Conforme se infere dos autos, a MMª. Juíza a quo, "Tendo em vista o aumento considerável de boletins de ocorrência noticiando descumprimento das regras do REGIME ABERTO, o que inevitavelmente demonstra indisciplina e desobediência dos apenados em relação às determinações das autoridades e seus agentes (art. 44 da LEP)", reviu "as condições gerais da comarca".
+Para tanto, estabeleceu as seguintes condições:
+"1-) Ausentar-se de segunda a sábado de sua residência às 06:00 horas e retornar às 19:00 horas, EXCLUSIVAMENTE PARA O TRABALHO;
+2) Permanecer recolhido diariamente durante o período noturno, bem como aos domingos e feriados, durante as 24 horas do dia e, também, nos horários em que não estiver trabalhando. O sentenciado fica ciente que o recolhimento deve se dar no INTERIOR da residência (do portão FECHADO ou porta FECHADA para dentro), ou seja, NÃO DEVERÁ PERMANECER NA CALÇADA OU ENTRADA DA RESIDÊNCIA;
+3) Sair de casa SOMENTE para o trabalho, devendo retornar imediatamente ao término do turno do dia, sendo, NO MÁXIMO, no horário acima fixado, ESTANDO VEDADO O DESLOCAMENTO A QUALQUER LOCAL SEM AUTORIZAÇÃO JUDICIAL;
+4) O apenado deverá instalar campainha ou QUALQUER instrumento sonoro na porta ou portão da residência, para acionamento pela Polícia Militar quando das fiscalizações, ficando ciente que estas serão realizadas durante todo o período noturno e aos domingos e feriados em tempo integral, por várias vezes no mesmo dia ou mesma noite. Aquele que residir em condomínio sem síndico, deverá estar sempre disponível para fiscalização, sendo de exclusiva responsabilidade do apenado a indicação da forma de contato;
+5) Não frequentar bares, boates, botequins, casa de prostituição ou lugares semelhantes, NEM QUE SEJA PARA COMPRAR MERCADORIA DIVERSA DE BEBIDA ALCOÓLICA;
+6) Não ingerir bebida alcoólica de espécie alguma;
+7) Realizar o teste do etilômetro sempre que determinado pela Polícia Militar, a qualquer hora do dia ou da noite e em qualquer local, mesmo que no domicílio;
+8) Comparecer mensalmente na Secretaria deste Juízo, até o dia 10 (dez) de cada mês, a fim de assinar o livro de controle de comparecimento e justificar suas atividades, comprovando, mediante juntada de documento, que efetivamente está trabalhando;
+9) Não permanecer na companhia de outros sentenciados e/ou pessoas que respondam a processos criminais;
+10) Não manter relação profissional com sentenciados e/ou pessoas que respondam a processos criminais (patrão-funcionário);
+11) O apenado fica ciente que a transferência da execução para outra comarca somente será autorizada se apresentado comprovante de endereço no seu nome ou em nome de familiar e proposta de trabalho real (que será fiscalizada, previamente, pela Polícia Militar);
+12) O apenado residente na zona rural terá o prazo de 24 horas para apresentar em Juízo as coordenadas geográficas do seu endereço residencial" (fls. 33/34 do documento único do JPe).
+De relevo ressaltar, por oportuno, que a prisão domiciliar é um benefício que prescinde do cumprimento de requisitos de ordem objetiva e subjetiva, de concessão não obrigatória, podendo, e não devendo, ser deferido ao reeducando.
+Ademais, desde que não contrariem as disposições legais relativas diretamente à execução penal (Lei 7.210/84) e ao regime prisional (Código Penal), com base nas circunstâncias fáticas e na necessidade de intervenção por parte do Poder Público de forma mais enérgica, dentro do seu poder discricionário, entendo que o Juiz que acompanha a execução da pena pode impor condições mais abrangentes, restritivas e específicas aos sentenciados para o cumprimento da reprimenda em regime aberto, com carácter domiciliar; situação essa que ocorre no presente caso, conforme pode ser verificado na ampliação do rol de medidas a serem adotadas pela agravante e na plausível justificação para tanto.
+Com efeito, dispõe a Lei de Execução Penal, in verbis:
+"Art. 113. O ingresso do condenado em regime aberto supõe a aceitação de seu programa e das condições impostas pelo Juiz. (..)
+Art. 115. O Juiz poderá estabelecer condições especiais para a concessão de regime aberto, sem prejuízo das seguintes condições gerais e obrigatórias:
+I - permanecer no local que for designado, durante o repouso e nos dias de folga;
+II - sair para o trabalho e retornar, nos horários fixados;
+III - não se ausentar da cidade onde reside, sem autorização judicial;
+IV - comparecer a Juízo, para informar e justificar as suas atividades, quando for determinado.
+Art. 116. O Juiz poderá modificar as condições estabelecidas, de ofício, a requerimento do Ministério Público, da autoridade administrativa ou do condenado, desde que as circunstâncias assim o recomendem." (sem grifos no original).
+Forçoso concluir, nesse contexto, que sendo a Lei de Execução Penal clara em prever a possibilidade de se estabelecer condições especiais para o cumprimento da pena em regime aberto, as quais podem ser revistas até mesmo de ofício pelo Juiz da Execução, não há que se falar em qualquer irregularidade na r. decisão recorrida, a qual, diga-se de passagem, encontra-se devidamente fundamentada e pautada nas particularidades verificadas na referida Comarca.
+Por fim, merece ser ressaltado que as condições estabelecidas pela douta Magistrada não restringem direitos dos reeducandos atinentes aos respectivos regimes, não se podendo olvidar, lado outro, que, embora em regime domiciliar, o sentenciado encontra-se em cumprimento de pena, cujas medidas são de ordem obrigatória, não sendo aceitável falar-se em "condições facultativas".
+Diante do exposto, NEGO PROVIMENTO AO RECURSO, mantendo os exatos termos da r. decisão recorrida, por seus próprios fundamentos." (e-STJ, fls. 64-66).
+Depreende-se, do excerto acima transcrito que o Juízo das Execuções ampliou as condições gerais do regime aberto, considerando o aumento dos boletins de ocorrência, que noticiam descumprimento das regras do regime aberto.
+O art. 132, da Lei de Execuções - LEP, estabelece quais são as condições gerais e obrigatórias a serem seguidas por todos os sentenciados em livramento condicional. A possibilidade de imposição de outras medidas está prevista no art. 144 da LEP, e sua aplicação deve estar relacionadas à circunstâncias específicas de cada caso.
+A propósito:
+"Art. 132. Deferido o pedido, o Juiz especificará as condições a que fica subordinado o livramento.
+§ 1º Serão sempre impostas ao liberado condicional as obrigações seguintes:
+a) obter ocupação lícita, dentro de prazo razoável se for apto para o trabalho;
+b) comunicar periodicamente ao Juiz sua ocupação;
+c) não mudar do território da comarca do Juízo da execução, sem prévia autorização deste.
+§ 2º Poderão ainda ser impostas ao liberado condicional, entre outras obrigações, as seguintes:
+a) não mudar de residência sem comunicação ao Juiz e à autoridade incumbida da observação cautelar e de proteção;
+b) recolher-se à habitação em hora fixada;
+c) não freqüentar determinados lugares.
+ .. "
+"Art. 144. O Juiz, de ofício, a requerimento do Ministério Público, da Defensoria Pública ou mediante representação do Conselho Penitenciário, e ouvido o liberado, poderá modificar as condições especificadas na sentença, devendo o respectivo ato decisório ser lido ao liberado por uma das autoridades ou funcionários indicados no inciso I do caput do art. 137 desta Lei, observado o disposto nos incisos II e III e §§ 1º e 2º do mesmo artigo."
+Nos termos da jurisprudência desta Corte Superior, apenas as condições especiais podem ser impostas ou alteradas pelo Juízo das Execuções. Já as condições gerais são aquelas fixadas pelo legislador.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. VIOLAÇÃO DO PRINCÍPIO DA COLEGIALIDADE. NÃO IMPLEMENTO DA CONDIÇÃO ESPECIAL IMPOSTA AO REGIME ABERTO. EXTINÇÃO DA PUNIBILIDADE. IMPOSSIBILIDADE. AGRAVO IMPROVIDO.
+1. Não viola o princípio da colegialidade a decisão monocrática do relator calcada em jurisprudência dominante do Superior Tribunal de Justiça, tendo em vista a possibilidade de submissão do julgado ao exame do órgão colegiado, mediante a interposição de agravo regimental. (AgRg no HC 484.200/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 28/03/2019, DJe 05/04/2019.)
+2. Considerando que a obrigação de que o apenado concluísse a obra do matadouro municipal no prazo de 60 dias não se fez possível, a substituição da condição especial pelo pagamento, aos cofres públicos (Prefeitura de Magda), no valor efetivamente recebido pela empresa à época, com os acréscimos legais, não caracteriza prestação de serviços à comunidade ou qualquer outra pena restritiva de direitos previstas no art. 43 do Código Penal.
+3. É lícito que o magistrado, observando as particularidades do caso concreto, fixe condições especiais, além das gerais e obrigatórias, para o cumprimento da pena em regime aberto, podendo também, modificar as condições já estabelecidas, desde que as circunstâncias recomendem a alteração. (REsp 1649771/SC, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 01/03/2018, DJe 12/03/2018.)
+4. Não tendo havido o cumprimento da condição especial imposta ao regime aberto não há como declarar extinta a punibilidade do paciente pelo cumprimento da pena.
+5. O fato de o ressarcimento dos valores correspondentes as obras não realizadas ser objeto de condenação em ação de improbidade administrativa não tem o condão de afastar a devolução do valor pago pela Prefeitura, a título de condição especial ao regime aberto.
+6. Todavia, os valores pecuniários pagos, a título de condição especial do regime aberto e de indenização do dano na improbidade, não podem, na sua totalidade, salvo correção monetária, ultrapassar o dano perpetrado ao Município pela não execução da obra - a indenização se mede pela extensão do dano (art. 944 - Cód. Civil) -, sob pena de enriquecimento ilícito inverso, pelo que eventual pagamento poderá ser compensado na referida ação cível, sem que se incorra em excesso de execução. Os juros de mora, em se tratando de ato ilícito, operam a partir do fato (art. 398 - Cód.Civil e Súmula 54/STJ).
+7. Agravo regimental improvido." (AgRg no HC n. 643.021/SP, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 24/8/2021, DJe de 31/8/2021, grifou-se).
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL E PROCESSUAL PENAL. ABSOLVIÇÃO DO RÉU. MATERIALIDADE E AUTORIA. REVISÃO. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME FATICO-PROBATÓRIO DA DEMANDA. REGIME ABERTO. ESTABELECIMENTO DE CONDIÇÕES. POSSIBILIDADE. AGRAVO DESPROVIDO.
+1. Se a decisão proferida concretamente justificou a existência do dolo diante da presença da materialidade e autoria do delito com base no contexto fático-probatório da lide, descabe sua revisão na via eleita.
+2. É possível ao magistrado sentenciante, o estabelecimento de condições especiais para o regime aberto em complemento daquelas previstas na Lei de Execução Penal - LEP.
+3. Agravo desprovido." (AgRg no HC n. 600.920/PR, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 9/3/2021, DJe de 23/3/2021, grifou-se).
+"RECURSO ESPECIAL. EXECUÇÃO PENAL. REGIME ABERTO. FIXAÇÃO DE CONDIÇÃO ESPECIAL PARA O CUMPRIMENTO DE PENA. INCAPACIDADE FÍSICA PARA EXERCER ATIVIDADE LABORAL. DETERMINAÇÃO DE RECOLHIMENTO DOMICILIAR EM PERÍODO INTEGRAL. POSSIBILIDADE.
+1 - Embora o regime aberto seja mais brando e o apenado goze de diversos benefícios, ainda configura uma modalidade de cumprimento de pena, ou seja, o apenado encontra-se sob a tutela do estado, cumprindo uma sanção penal, com a consequente restrição ao seu direito à liberdade.
+2. É lícito que o magistrado, observando as particularidades do caso concreto, fixe condições especiais, além das gerais e obrigatórias, para o cumprimento da pena em regime aberto, podendo também, modificar as condições já estabelecidas, desde que as circunstâncias recomendem a alteração.
+3. No caso concreto, o magistrado, ao observar a condição particular do condenado, que não exerce atividade laborativa e não frequenta cursos, não possuindo nenhuma atividade regular autorizada, determinou o recolhimento domiciliar em período integral, permitindo a sua saída em situações emergenciais ou previamente autorizadas judicialmente, não havendo nenhuma ilegalidade no estabelecimento desta condição especial ao regime aberto.
+4. Recurso especial a que se nega provimento." (REsp n. 1.649.771/SC, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 1/3/2018, DJe de 12/3/2018, grifou-se).
+Logo, de rigor o reconhecimento do constrangimento ilegal na imposição de novas condições gerais pelo Juízo das Execuções.
+No mesmo sentido, anotem-se as seguintes decisões monocráticas: HC n. 756.314/MG, relator Ministro Jesuíno Rissato (desembargador convocado do TJDFT), DJe de 18/8/2022; HC n. 761.674/MG, relator Ministro Joel Ilan Paciornik, DJe de 9/8/2022; HC n. 753.946/MG, relator Ministro João Otávio de Noronha, DJe de 9/8/2022; HC n. 746.032/MG, relator Ministro Sebastião Reis Júnior, DJe de 2/8/2022; HC n. 743.920/MG, relator Ministro Reynaldo Soares da Fonseca, DJe de 25/5/2022.
+Ante o exposto, reconsidero a decisão agravada para conceder a ordem, de ofício, a fim de cassar o acórdão impugnado e a decisão do Juízo das Execuções, ressalvando a possibilidade de fixação de condições especiais à paciente, de forma fundamentada.
+Comunique-se, com urgência, ao Tribunal de Justiça do Estado de Minas Gerais e ao Juízo da Execução.
+Publique-se. Intimem-se.
