@@ -1,0 +1,35 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. OMISSÕES. AUSÊNCIA.
+1. Os embargos de declaração objetivam sanar eventual existência de obscuridade, contradição, omissão e/ou erro material no julgado (CPC, art. 1022), sendo inadmissível a oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, mormente porque não são cabíveis para provocar novo julgamento da lide.
+2. Embargos de declaração rejeitados.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Terceira Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas constantes dos autos, por unanimidade, rejeitar os embargos de declaração nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com a Sra. Ministra Relatora.
+Ausente, justificadamente, o Sr. Ministro Moura Ribeiro.
+RELATÓRIO
+A SENHORA MINISTRA NANCY ANDRIGHI (Relatora):
+Cuida-se de embargos de declaração opostos contra acórdão que deu provimento ao recurso especial e que fixou assim ementado:
+RECURSO ESPECIAL. COOPERATIVA. PROCESSO SELETIVO PARA INGRESSO. POSSIBILIDADE. LIMITAÇÃO DO NÚMERO DE VAGAS. POSSIBILIDADE. EXIGÊNCIA DE CURSO DE COOPERATIVISMO. POSSIBILIDADE.
+1- Recurso especial interposto em 12/8/2021 e concluso ao gabinete em 2/2/2022.
+2- O propósito recursal consiste em dizer se é lícita a exigência, prevista em estatuto social, de prévia aprovação em processo seletivo público de provas e títulos e de realização de curso de cooperativismo como condição para ingresso em Cooperativas de Trabalho Médico.
+3- É lícita a exigência, prevista em estatuto, de prévia aprovação em processo seletivo e de realização de curso de cooperativismo como requisitos para o ingresso em Cooperativa de Trabalho Médico.
+4- Admite-se a limitação, de forma impessoal e objetiva, do número de vagas no processo seletivo para ingresso em Cooperativa de Trabalho Médico, tendo em vista o mercado para a especialidade e o necessário equilíbrio financeiro da entidade.
+5- Recurso especial provido. (fl. 452)
+Em suas razões recursais, aduz o embargante, em síntese, que: a) incidiria, na hipótese, o enunciado da Súmula 7 do STJ; b) o recurso especial não poderia ser admitido, pois não foram esgotadas as vias ordinárias em razão da ausência de oposição de embargos de declaração na origem; c) a embargada não haveria respeitado o disposto no §1º, do art. 1.029 do Código de Processo Civil e no art. 255, §1º e §3º, do RISTJ; d) já possuiria certificado de conclusão do curso de cooperativismo; e) o processo seletivo desviou-se dos propósitos e princípios cooperativistas, o que o afastaria da impessoalidade; e f) não haveria qualquer prova de que a embargada teria atingido a capacidade máxima de prestação de serviços, o que justificaria o limite do número de vagas no certame.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. OMISSÕES. AUSÊNCIA.
+1. Os embargos de declaração objetivam sanar eventual existência de obscuridade, contradição, omissão e/ou erro material no julgado (CPC, art. 1022), sendo inadmissível a oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, mormente porque não são cabíveis para provocar novo julgamento da lide.
+2. Embargos de declaração rejeitados.
+VOTO
+A SENHORA MINISTRA NANCY ANDRIGHI (Relatora):
+1. Os embargos de declaração objetivam sanar eventual existência de obscuridade, contradição, omissão ou erro material no julgado (CPC, art. 1022), sendo inadmissível a oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, mormente porque não são cabíveis para provocar novo julgamento da lide.
+2. Na hipótese dos autos, o acórdão embargado é hialino ao destacar as teses jurídicas a serem apreciadas, justificando a não incidência da Súmula 7 do STJ.
+3. Além disso, a interposição de recurso especial, como cediço, não está condicionada à oposição de embargos de declaração nas instâncias ordinárias.
+4. Isso não bastasse, no que diz respeito à alegada ofensa ao §1º, do art. 1.029 do Código de Processo Civil e no art. 255, §1º e §3º, do RISTJ, importa ressaltar que o acórdão recorrido é expresso ao apontar que o recurso especial foi interposto pelas al.neas "a" e "c" do permissivo constitucional, inexistindo a omissão aduzida.
+5. No que diz respeito à alegação de que o embargante já possuiria certificado de cooperativismo, impõe-se consignar que referida argumentação, além de constituir inovação recursal, pois não suscitada nas contrarrazões, atrai a incidência da Súmula 7 do STJ.
+6. No mais, por qualquer ângulo que se examine a matéria, conclui-se que está nítido o propósito do embargante de rediscutir temas que foram devidamente apreciados, o que, contudo, não é cabível na via estreita dos embargos de declaração. Nesse sentido: EDcl nos EDcl nos EDcl no AgRg no AgRg no AREsp 453.117/SP, TERCEIRA TURMA, julgado em 16/12/2014, DJe 02/02/2015; EDcl no AgRg no Ag 1.035.101/MS, Quarta Turma, DJe de 28.10.2008; EDcl no AgRg nos EREsp 545.285/RS, Primeira Seção, DJU de 1/8/2006.
+7. De fato, os vícios a que se refere o artigo 1.022 do CPC são aqueles que recaem sobre ponto que deveria ter sido decidido e não o foi, e não sobre os argumentos utilizados pelas partes, sendo certo que não há falar em omissão simplesmente pelo fato de as alegações deduzidas não terem sido acolhidas pelo órgão julgador. A propósito: AgRg no AREsp 37.045/GO, QUARTA TURMA, julgado em 5/3/2013, DJe 12/3/2013; AgInt no AREsp 1043856/SP, TERCEIRA TURMA, julgado em 12/09/2017, DJe 15/09/2017; REsp 1649296/PE, SEGUNDA TURMA, julgado em 05/09/2017, DJe 14/09/2017.
+8. Deve-se ressaltar que "se os fundamentos do acórdão recorrido não se mostram suficientes ou corretos na opinião do recorrente, não quer dizer que eles não existam. Não se pode confundir ausência de motivação com fundamentação contrária aos interesses da parte" (AgRg no Ag 56.745/SP, DJ de 12.12.1994). No mesmo sentido: REsp 209.345/SC, SEGUNDA TURMA, julgado em 05/04/2005, DJ 16/05/2005, p. 278; REsp 685.168/RS, PRIMEIRA TURMA, julgado em 17/02/2005, DJ 02/05/2005, p. 214.
+9. Nesse contexto importa consignar que esta Corte Superior perfilha o entendimento de que não se justifica a anulação do julgamento nas hipóteses em que se alega omissão relativa a questão irrelevante ao deslinde da controvérsia. Com efeito, "a função judicial é prática, só lhe importando as teses discutidas no processo enquanto necessárias ao julgamento da causa" (EDcl no REsp 15.450/SP, SEGUNDA TURMA, DJ de 6/5/1996). A propósito: EDcl no AgRg na MC 19.811/SP, QUARTA TURMA, julgado em 13/11/2012, DJe 22/11/2012; AgInt no AREsp 1547703/SP, QUARTA TURMA, julgado em 26/11/2019, DJe 19/12/2019.
+10. É evidente, pois, a ausência de omissão, obscuridade, contradição ou erro material, apta a amparar a oposição dos presentes aclaratórios na hipótese vertente.
+Forte nessas razões, rejeito os embargos de declaração.
