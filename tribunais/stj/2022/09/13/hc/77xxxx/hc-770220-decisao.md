@@ -1,0 +1,10 @@
+DECISÃO
+O presentewrit, impetrado em benefício deArles Tadeu Marques Carneiro - preso preventivamente pela prática, em tese, do crime de furto qualificado tentado -contraato coator do Tribunal de Justiça de São Paulo (Habeas Corpusn. 2174406-97.2022.8.26.0000), não comporta processamento.
+Com efeito, busca a impetração a revogação da prisão cautelar imposta ao paciente pelo Juízoda 31ª Vara Criminal da comarca da Capital/SP(Autos n. 1516809-20.2022.8.26.0228), ao argumento de que não há na decisão atacada a imprescindível demonstração concreta da existência dos requisitos que autorizam a prisão cautelar (periculum libertatis)(fl. 4) e de que éimpossível, sob pena de ofensa ao princípio da proporcionalidade, a manutenção da segregação(fl. 6).
+Ocorre que, daanálise da decisão que converteu a prisão em flagrante em preventiva, observa-se que o Juízo singular logrou demonstrar a necessidade da prisão para a garantia da ordem pública, ao considerar queo autuado é multirreincidente (fls. 27/31)- (fl. 58), elemento concreto apto a evidenciar o efetivorisco de reiteração delitiva. Nesse sentido, entre tantos, oHC n. 727.045/PB, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 26/4/2022; e o AgRg no HC n. 724.723/SP, Ministro Olindo Menezes (Desembargador convocado do TRF/1ª Região), Sexta Turma, DJe 21/3/2022. Vale observar que adesproporcionalidade da prisão preventiva somente poderá ser aferida após a sentença, não cabendo, na via estreita do habeas corpus, a antecipação da análise da possibilidade de cumprimento de pena em regime menos gravoso que o fechado(AgRg no HC n. 694.648/SC, Ministro João Otávio de Noronha, Quinta Turma, DJe 25/10/2021).
+Assim, ausente o constrangimento ilegal alegado na inicial.
+À vista do exposto, com fulcro no art. 210 do RISTJ,indefiro liminarmente o writ.
+Publique-se.
+EMENTA
+HABEAS CORPUS. ART. 155, § 4º, I E II, C/C O ART. 14, II, DO CP. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. MULTIRREINCIDÊNCIA ESPECÍFICA. RISCO DE REITERAÇÃO DELITIVA. INEVIDÊNCIA DE ILEGALIDADE.
+Writindeferido liminarmente.
