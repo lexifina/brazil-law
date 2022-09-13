@@ -1,0 +1,54 @@
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO TENTADO. ART. 226 DO CPP. RECONHECIMENTO FOTOGRÁFICO. CUMPRIMENTO DAS FORMALIDADES LEGAIS. NULIDADE AFASTADA. AGRAVO REGIMENTAL IMPROVIDO.
+1. Realizado o reconhecimento fotográfico consoante os ditames do art. 226 do CPP, posto que apresentadas à vítima fotografias de outras três pessoas, além do paciente, constando ainda que por ocasião da lavratura do boletim de ocorrência, a vítima procedeu, anteriormente ao reconhecimento, à descrição do ora paciente, bem como narrou detalhadamente a prática delituosa, não há nulidade a ser reconhecida.
+2. Agravo regimental improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental. Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, João Otávio de Noronha e Jorge Mussi votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA (Relator):
+Trata-se de agravo regimental interposto contra decisão monocrática que não conheceu do habeas corpus.
+Repisa a defesa os argumentos veiculados na inicial do habeas corpus, sustentando, em síntese, a nulidade do reconhecimento de pessoa, pois em desacordo com o art. 226 do CPP, o que, ao fim, ensejaria a nulidade absoluta do feito.
+Afirma que por ocasião do reconhecimento, não foram apresentadas fotografias de outras pessoas parecidas com o réu para comparação. Outrossim, que não houve descrição prévia da pessoa a ser reconhecida. Assim, conclui que deve ser reconhecida a nulidade processual, precipuamente porque não há qualquer outra prova da participação do réu no delito em tela (e-STJ, fl. 452).
+Por fim, que o prejuízo para o réu é plenamente aferível, posto que apesar das irregularidades apontadas, está prestes a ser julgado pelo Tribunal do Júri.
+Requer a reconsideração da decisão anterior ou que o presente recurso seja levado a julgamento para Quinta Turma.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA (Relator):
+Presentes os pressupostos de admissibilidade, conheço do recurso.
+A decisão ora recorrida merece ser mantida, ante a falta de argumentos novos a infirma-la. Confira-se (e-STJ, fls. 441/444):
+Quanto ao presente caso, acerca do reconhecimento fotográfico do réu, pela vítima, colhe-se do voto condutor do acórdão (e-STJ fl. 421/425):
+De imediato, anoto que não há que se falar em nulidade absoluta no processo em questão.
+Inicialmente, porque a temática do reconhecimento realizado por fotografia possui complexidade incompatível com o limitado âmbito cognitivo do remédio heroico, que é desprovido de contraditório e não admite análise probatória aprofundada.
+Este é o entendimento desta e. Corte  .. .
+Insta consignar que, conforme jurisprudência pacífica, eventuais vícios existentes na fase administrativa não têm o condão de contaminar a ação penal, dada a sua natureza meramente informativa.
+Neste sentido: "O recebimento da denúncia pelo juiz de primeiro grau em desfavor do paciente torna prejudicado o exame da alegada nulidade do inquérito policial. Eventuais irregularidades ocorridas na fase investigatória, cuja natureza é inquisitiva, não contaminam, necessariamente, o processo criminal, onde as provas serão renovadas" (HC 250.321/SP, Rel. Ministra Marilza Maynard (Desembargadora Convocada Do TJ/SE), Quinta Turma, julgado em 23/04/2013, DJe 02/05/2013).
+E o reconhecimento deverá ser ratificado, para fins de condenação, na fase processual, com observância ainda maior da ampla defesa e do contraditório.
+Ressalte-se que os atos praticados pelos policiais, assim como pela autoridade apontada como coatora, têm presunção de veracidade, que pode ser desconstituída apenas por meio de prova produzida em contrário, o que não se verifica de pronto nos autos.
+Por outro lado, o fato de haver sido realizado o reconhecimento fotográfico, por si só, não implica a imprestabilidade da prova, a qual, em realidade, é admitida pela jurisprudência pátria quando corroborada por outras provas, de outra parte, não sendo admitida somente quando é o único elemento de prova constante dos autos.
+ ..  De todo modo, foi proferida, somente, sentença de pronúncia, encerrando a primeira fase do Júri, a qual é meramente preparatória, dedicada ao juízo de admissibilidade da acusação. É na segunda fase que ocorrerá o julgamento da causa pelo Tribunal do Júri, quando deverá ser apreciado se o reconhecimento fotográfico e as demais provas são suficientes a comprovar a autoria do crime, o que não se admite na estreita via de habeas corpus.
+Cumpre ressaltar, por oportuno, que constou da decisão atacada (fls. 253/357) que os indícios de autoria se verificavam, outrossim, dos depoimentos da vítima e das testemunhas prestados em juízo, oportunidade em que o ofendido afirmou que descreveu as características do agente aos policiais e, somente após, realizou o reconhecimento fotográfico, com absoluta certeza.
+De mais a mais, o Código de Processo Penal prescreve, no artigo 563, que "nenhum ato será declarado nulo, se da nulidade não resultar prejuízo para a acusação ou para a defesa". Assim, para o reconhecimento da nulidade suscitada há de ser evidenciado o prejuízo à Defesa do réu, o que não se observa no caso dos autos.
+É certo que o fato de o indivíduo estar sendo processado criminalmente resulta em um fardo a qualquer réu, o que não significa que as provas que embasam a justa causa para a ação penal devam ser consideradas nulas quando se entenderem insuficientes, ou as decisões que as utilizaram como fundamento.
+E, no caso dos autos, o prejuízo alegado não pode ser verificado, outrossim, porquanto o reconhecimento fotográfico, até o presente momento, se trata apenas de indício mínimo de autoria a servir de justa causa para a ação penal e, por outro lado, seria possível realizar o reconhecimento pessoal no plenário do Tribunal do Júri, somente após o que será apreciado como prova suficiente, ou não, à condenação.
+Portanto, pelas razões expostas, não se verifica a nulidade suscitada, referente à alegação de reconhecimento realizado em desacordo com o artigo 226 do Código de Processo Penal.
+Ante o exposto, pelo meu voto, DENEGA-SE A ORDEM impetrada.
+A partir do auto de reconhecimento de fls. 26/28, verifica-se que diferentemente do que sustenta a defesa, por ocasião do reconhecimento fotográfico, foram apresentadas à vítima fotografias de outras três pessoas, além do paciente, constando que após observadas referidas fotos, o réu foi reconhecido como sendo o autor do disparo de arma de fogo contra o veículo da vítima. Ademais, por ocasião da lavratura do boletim de ocorrência, a vítima procedeu, anteriormente ao reconhecimento, à descrição do ora paciente (e-STJ, fl. 16), bem como narrou detalhadamente a prática delituosa.
+Dessa forma, afasta-se a pretendida nulidade do ato de reconhecimento, posto que realizado consoante o que preceitua o art. 226 do CPP. Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. ROUBO MAJORADO E RECEPTAÇÃO.
+PRETENDIDA ABSOLVIÇÃO POR NULIDADE DO RECONHECIMENTO FOTOGRÁFICO. ALEGADA VIOLAÇÃO DO ART. 226 DO CPP.
+INOCORRÊNCIA. ACERVO PROBATÓRIO ROBUSTO E INDEPENDENTE A CORROBORAR A AUTORIA DELITIVA. PRECEDENTES.
+CONDENAÇÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+- O habeas corpus não é a via adequada para apreciar o pedido de absolvição ou de desclassificação de condutas, tendo em vista que, para se desconstituir o decidido pelas instâncias de origem, mostra-se necessário o reexame aprofundado dos fatos e das provas constantes dos autos, procedimento vedado pelos estreitos limites do mandamus, caracterizado pelo rito célere e por não admitir dilação probatória. Precedentes.
+- Novo entendimento jurisprudencial do Supremo Tribunal Federal, no julgamento do RHC n. 206.846/PE, de relatoria do Ministro Gilmar Mendes, que firmou entendimento no sentido de que o reconhecimento de pessoas, presencial ou por fotografia, deve observar o procedimento previsto no art.
+226 do CPP, cujas formalidades constituem garantia mínima para quem está na condição de suspeito de um crime e para uma verificação dos fatos mais justa e precisa.
+- Quanto à apontada nulidade, e não observância ao disposto no art. 226 do CPP, observa-se que as instâncias de origem consignaram expressamente que foram formalizados os reconhecimentos fotográficos realizados, sem qualquer dúvida quanto aos acusados (e-STJ fl. 150), haja vista que todos eles foram reconhecidos, com certeza, pela vítima Gustavo, ouvido no Rio de Janeiro, e tendo esta ademais, com riqueza de detalhes não só descrito a conduta perpetrada pelos réus, como ainda, ter sido o acusado Alex, o "mais gordinho" como o que rendeu Gerusa, e que permaneceu com esta durante toda a ação delituosa, enquanto um terceiro, de arma em punho rendera a Gustavo, para num segundo momento, vir Bruno, assim também reconhecido, a invadir o carro questionando se a vítima era policial e revistando o carro (e-STJ fl. 151).
+- Ademais, os policiais confirmaram em Juízo que o veículo conduzido por Bruno tendo ao lado o réu Alex estaria, segundo informes obtidos, sido visto envolvido em práticas de ilícito, o que os levou a procederem a abordagem, quando então, sob o banco do passageiro foi apreendida a chave do veículo Kia pertencente à vítima Gustavo, para por fim, eles lhes informarem onde estava o carro roubado (e-STJ fl. 150), ratificando assim, toda a prática delitiva narrada pelas vítimas em Juízo, e sua autoria pelo paciente.
+- Nesse contexto, o reconhecimento do paciente ocorreu não só com observância das formalidades previstas no art. 226 do CPP, mas a autoria delitiva foi lastreada não apenas com a confirmação feita pelas vítimas por meio do reconhecimento fotográfico, tanto na fase inquisitorial quanto em Juízo, mas corroborada por outras provas colhidas na fase judicial, sob o crivo do contraditório e da ampla defesa. Precedentes.
+- Agravo regimental não provido.
+(AgRg no HC n. 742.141/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 7/6/2022, DJe de 13/6/2022.)
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+Como se vê, o reconhecimento fotográfico foi realizado consoante os ditames do art. 226 do CPP, posto que foram apresentadas à vítima fotografias de outras três pessoas, além do paciente, constando que após observadas referidas fotos, o réu foi reconhecido como sendo o autor do disparo de arma de fogo contra o veículo da vítima. Ademais, por ocasião da lavratura do boletim de ocorrência, a vítima procedeu, anteriormente ao reconhecimento, à descrição do ora paciente (e-STJ, fl. 16), bem como narrou detalhadamente a prática delituosa.
+Assim, é de se afastar a apontada nulidade no ato de reconhecimento do ora recorrente.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
