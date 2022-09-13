@@ -1,0 +1,39 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM RECURSO ORDINÁRIO EM HABEAS CORPUS. TRIPLO HOMICÍDIO QUALIFICADO. SEQÜESTRO OU CÁRCERE PRIVADO. PRISÃO PREVENTIVA. EXCESSO DE PRAZO RECONHECIDO POR ESTA CORTE. SUBSTITUIÇÃO POR MEDIDAS CAUTELARES ALTERNATIVAS. FUNDAMENTAÇÃO. PRETENSÃO DE REDISCUSSÃO DA MATÉRIA. NÃO CABIMENTO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração possuem fundamentação vinculada. Dessa forma, para seu cabimento, é necessária a demonstração de que a decisão embargada se mostrou ambígua, obscura, contraditória ou omissa, conforme disciplina o art. 619 do Código de Processo Penal. A mera irresignação com o entendimento apresentado no acórdão que negou provimento ao agravo regimental em habeas corpus, não viabiliza a oposição dos aclaratórios.
+2. No caso, o acórdão embargado demonstrou a ausência de ilegalidade em conduta de magistrado que, em cumprimento de decisão desta Corte que, reconhecendo excesso de prazo, determinou a substituição da prisão preventiva por medidas cautelares alternativas, e de modo a não prejudicar o embargante, decidiu imediatamente, aplicando medidas cautelares, a despeito de os autos não estarem em juízo.
+3. Ademais, destacou-se que o acórdão proferido pela Corte a quo já determinou que, "com o retorno dos autos ao magistrado - cessando a circunstância excepcional impeditiva da apresentação de fundamentação detalhada quanto a cada uma das medidas substitutivas aplicadas -, seja proferida nova decisão".
+4. Vê-se, portanto, que não há omissão ou ambiguidade no acórdão. O embargante pretende, na realidade,rediscutir matéria já decidida e que foi contrária à sua pretensão.
+5. Embargos de declaração rejeitados.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos. Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, João Otávio de Noronha e Jorge Mussi votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA (Relator):
+Trata-se de embargos de declaração em agravo regimental em recurso ordinário em habeas corpus interposto por AMAURILIO PEIXOTO OLEGÁRIO contra acórdão da Câmara Regional de Caruaru do Tribunal de Justiça do Estado de Pernambuco (HC n. 0000775-79.2022.8.17.9480).
+Extrai-se dos autos que o embargante foi preso preventivamente e pronunciado pela suposta prática dos delitos tipificados nos arts. 121, § 2º, incisos II e IV (três vezes) e 148 do Código Penal.
+Esta Corte, no julgamento do HC nº 687.858/PE, por decisão de minha lavra, datada de 14/2/2022, reconheceu "haver o alegado constrangimento decorrente da excessiva demora na prisão processual do paciente (cerca de 6 anos e 6 meses)". Desse modo, a ordem foi concedida de ofício para determinar sua soltura, com a imposição de medidas cautelares diversas da prisão previstas no art. 319 do CPP, a serem estabelecidas pelo magistrado singular.
+A defesa impetrou a ordem originária impugnando os fundamentos adotados pelo magistrado singular para a fixação das medidas cautelares, requerendo, assim, a revogação delas. A ordem foi denegada (e-STJ fls. 67/73).
+A defesa interpôs o presente recurso reiterando a alegação de que as medidas cautelares foram impostas sem a devida fundamentação. Sustentou que "de maneira escatológica, o TJPE determinou, de ofício, que o Juiz editasse fundamentação adequada para sanar o vício reportado, providência absolutamente incompatível com a ação mandamental que visa prestigiar a jurisdição das liberdades fundamentais" (e-STJ fl. 90).
+Requereu, assim, a revogação das medidas cautelares aplicadas.
+Pela decisão de e-STJ fls. 115/121, o recurso foi desprovido.
+Interposto agravo regimental, a decisão foi confirmada (e-STJ fls. 135/148).
+Nos presentes embargos, a defesa pleiteia que esta Corte "especifique o fundamento de validade, seja jurisprudencial, normativo, no campo nacional ou internacional que excepciona a necessidade de o Estado apresentar os motivos que restringem a liberdade do indivíduo a fim de integrar o acórdão combatido, possibilitando levar a temática ao Supremo Tribunal Federal, após o esgotamento da jurisdição" (e-STJ fl. 152). Aduz que "a depender da conclusão adotada por esta Corte, JAMAIS HAVERÁ FUNDAMENTAÇÃO DAS CAUTELARES, pois o desaforamento se encontra PARALISADO há mais de 06 MESES no TJPE e NÃO HÁ PREVISÃO DE RETORNO DOS AUTOS AO JUÍZO SINGULAR" (e-STJ fl. 153), o que entende ser uma ambiguidade.
+Requer, assim, o acolhimento dos embargos, com efeitos infringentes, para que a ordem de habeas corpus seja integralmente concedida, ou ao menos sustada a medida de monitoramento eletrônico.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA (Relator):
+Os embargos de declaração são recurso com fundamentação vinculada, sendo imprescindível a demonstração de que a decisão embargada se mostrou ambígua, obscura, contraditória ou omissa, conforme disciplina o art. 619 do Código de Processo Penal.
+Podem ser admitidos, ainda, para correção de eventual erro material e, excepcionalmente, para alteração ou modificação do decisum embargado.
+É insuficiente, todavia, a mera irresignação com o entendimento apresentado na decisão, assim como inviável seu uso como mero meio de reanálise das alegações.
+No caso, não se constatam os vícios alegados.
+Em relação à necessidade de fundamentação das medidas cautelares aplicadas, ressaltou o acórdão embargado, inicialmente, que "os fundamentos lançados para a prisão não foram afetados pelo reconhecimento da morosidade excessiva da tramitação" (e-STJ fl. 145), demonstrando a idoneidade das razões para a manutenção da restrição da liberdade do embargante, abrandada tão somente em razão do reconhecimento do excesso de prazo.
+De outro lado, o magistrado tão somente cumpriu determinação desta Corte, já que o dispositivo da decisão que concedeu a ordem ao embargante, em razão da morosidade excessiva, condicionou a revogação da prisão à aplicação das medidas cautelares alternativas.
+Ou seja, não estando os autos em juízo, em razão de pedido de desaforamento, restaria ao magistrado manter o embargante preso até o retorno dos autos, ou decidir, como fez, mesmo sem ter os autos em mãos.
+Ora, o próprio embargante afirma que "não há previsão de retorno dos autos ao juízo singular"(e-STJ Fl. 153). Ou seja, caso o magistrado aguardasse o aporte do processo na Comarca para decidir, se agravaria ainda mais o constrangimento ilegal sofrido pelo embargante.
+Ademais, o acórdão proferido pela Corte a quo já determinou que, "com o retorno dos autos ao magistrado - cessando a circunstância excepcional impeditiva da apresentação de fundamentação detalhada quanto a cada uma das medidas substitutivas aplicadas -, seja proferida nova decisão" (e-STJ fl. 148).
+Não há, portanto, omissão ou ambiguidade no acórdão. O embargante pretende, na realidade,rediscutir matéria já decidida e que foi contrária à sua pretensão.
+De fato, o entendimento desta Corte é pacífico no sentido de que "os embargos declaratórios não constituem recurso de revisão, sendo inadmissíveis se a decisão embargada não padecer dos vícios que autorizariam a sua oposição (obscuridade, contradição e omissão)"(EDcl no AgRg no REsp 1339703/RS, Rel. Ministro FELIX FISCHER, Quinta Turma, julgado em 4/11/2014, DJe 17/11/2014).
+Manifesta, portanto, a impossibilidade de acolhimento dos presentes aclaratórios, porquanto não demonstrada a ocorrência de nenhuma das hipóteses do art. 619 do Código de Processo Penal.
+De fato, não se verificando ambiguidade, omissão, contradição ou obscuridade, mas mera irresignação do embargante com a solução apresentada por esta Corte Superior, fica inviabilizada a utilização dos embargos de declaração.
+Diante do exposto, rejeito os presentes embargos.
+É como voto.
