@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por ELISABETH TANSCHEIT e OUTROS à decisão de minha lavra, que deu parcial provimento ao seu recurso especial, "para reformar o acórdão recorrido, de modo a restabelecera sentença no capítulo em que determinara que "os valores quitados pela Administração de forma espontânea na via extrajudicial a título de reajuste de 10,94% devem integrar a base de cálculo dos honorários advocatícios" (fl. 288)" (fl. 1.110).
+Sustenta a parte embargante a existência de omissão no julgado, porquanto não apreciado o pedido final elencado na petição do recurso especial, no sentido de "c)  ..  reconhecer a possibilidade de cumulação da execução com os honorários dos embargos, fixando honorários pela execução" (fl. 512).
+Para tanto, argumenta que (fl. 1.119):
+O em. Relator deu parcial provimento ao recurso especial dos exequentes, para incluir os valores pagos administrativamente na base de cálculo dos honorários.
+É verdade que também deu parcial provimento ao recurso da União, todavia para o efeito estrito de autorizar os descontos de PSS, o que representa apenas uma pequena parcela do montante exequendo.
+Assim, dada a expressividade da vitória obtida pelos exequentes (executam-se valores praticamente iguais de honorários e de atrasados, pois 90% das diferenças foram pagas na via administrativa), impõe-se a redistribuição da sucumbência.
+Por fim, requer o acolhimento dos embargos de declaração para que, sanando-se a omissão apontada, seja-lhe assegurado "a cumulação dos honorários da execução (fixados pela sentença) com os honorários dos embargos (arbitrados pelo Tribunal)", assim como "redistribuir os ônus sucumbenciais, impondo-os exclusivamente à executada, dada a sucumbência mínima dos exequentes, ou, sucessivamente, atribuindo-os à executada em maior percentual" (fl. 1.119).
+Impugnação às fls. 1.135/1.137.
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+De acordo com o previsto no artigo 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+No caso concreto, de fato restou omisso o julgado quanto ao pedido de acumulação de honorários advocatícios da execução com os dos embargos à execução.
+Assim, passo ao exame da questão.
+Em relação ao pedido de fixação de verba honorária na execução, deixou ele de ser acolhido pela Turma Julgadora sob o fundamento de que "considerados os ditames da Lei n.º 11.232/05 e tendo sido impugnado o feito executório não mais subsistirá a decisão que fixou provisoriamente a verba honorária para pronto pagamento, mas a que delibera acerca dos embargos à execução" (fl. 417).
+Especificamente nesse ponto, no recurso especial apontou-se, além de dissídio jurisprudencial, ofensa ao art. 20, § 4º, do CPC, uma vez que "o entendimento do STJ é pela cumulabilidade dos honorários de execução e embargos e não pela inacumulabilidade pela qual se posiciona a decisão recorrida" (fl. 466).
+Tal assertiva apresenta-se correta.
+Com efeito, "esta Corte firmou a orientação de que, nos embargos à execução, como ação autônoma, são devidos os honorários advocatícios de forma independente e cumulativa em relação àqueles fixados na execução (AgInt no AREsp n. 924.417/BA, relator Ministro Gurgel de Faria, Primeira Turma, DJe 2/12/2019)" (AgInt no REsp n. 1.891.930/PR, relator Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 18/4/2022).
+ANTE O EXPOSTO, acolho os embargos de declaração para, sanando a omissão contida na decisão embargada, dar provimento ao recurso especial a fim de reformar o acórdão recorrido e, nesse diapasão, restabelecer os honorários advocatícios iniciais fixados para a execução, a serem pagos cumulativamente com a verba honorária arbitrada pela Corte de origem referente aos embargos à execução.
+Publique-se.
