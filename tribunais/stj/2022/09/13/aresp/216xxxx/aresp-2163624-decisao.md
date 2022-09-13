@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de agravo interposto por Prevent Senior Private Operadora de Saúde Ltda. desafiando decisão do Tribunal de Justiça do Estado de São Paulo que não admitiu o processamento do recurso especial, com fundamento no art. 105, inciso III, alíneaa, da Constituição Federal, manejado, por sua vez, contraacórdão assim ementado (e-STJ, fl. 696):
+APELAÇÃO CÍVEL - PLANO DE SAÚDE - Ação julgada improcedente - Paciente falecida no curso da demanda - Laudo pericial que conclui pela desnecessidade de internação domiciliar, mas sim atendimentos domiciliares pontuais, concluindo pela necessidade de retirar gradualmente a internação domiciliar - Laudo, entretanto, que aponta a necessidade frequente de aspirações, curativos de escaras, uso de sonda nasogástrica para medicações e alimentação, apontando, contudo, não haver diferença entre enfermeiro, técnico de enfermagem e cuidadores treinados - Inconsistência - Paciente com indicação de home care após quadro de broncopneumonia por broncoaspiração - Procedimentos mencionados que devem ser realizados por profissional habilitado - Fornecimento de insumos e medicamentos excluídos da cobertura - Recurso provido parte.
+Nas razões do recurso especial, a recorrente alegou ofensa aos arts. 371, 375 e 479 do CPC/2015.
+Pontuou que se existia dúvida acerca do laudo pericial seria o caso de converter o julgamento em diligência para o fim de realizar prova pericial complementar.
+Asseverou que "nenhuma das partes pode ficar alvedrio de valoração superficiais do julgador acerca de questões técnicas, matéria acerca da qual, em regra, deveria o magistrado se abster de manifestar juízo de valor." (e-STJ, fl. 716).
+Foram apresentadas contrarrazões (e-STJ, fls. 723-732).
+O Tribunal local inadmitiu o processamento do recurso especial pela incidência daSúmulan. 7 do STJ, bem como pela ausência de demonstração dos dispositivos supostamente violados e mencionados nas razões recursais.
+Irresignada, a recorrente interpõem agravo refutando os óbices apontados pela Corte estadual.
+Contraminuta às fls. 753-762 (e-STJ).
+Brevemente relatado, decido.
+O Tribunal estadual, ao dirimir a controvérsia, deixou assente que (e-STJ, fls. 695-701):
+Entretanto, conforme se infere dos autos, o laudo pericial restou contraditório e inconclusivo, posto que, conquanto reconheça que apaciente necessitava de cuidados técnicos para troca de curativos, aspirações e manipulação da sonda nasoenteral, equiparou, equivocadamente, enfermeiros e técnicos de enfermagem a cuidador social, ou cuidador treinado.
+Nesse sentido, não obstante não houvesse indicação para regime de internação hospitalar, restou incontroverso que havia indicação para atendimento domiciliar, não devendo prevalecer a conclusão do i. Perito Judicial ressalvando, sem qualquer base técnica, que No entanto, o entendimento deste perito é de que os enfermeiros, os técnicos de enfermagem e, os cuidadores, são todos eles cuidadores.
+Isto posto, resta evidente que deve ser coberto o tratamento home care prescrito à autora, a ser custeado integralmente pela seguradora, ressalvado o fornecimento de insumos e medicamentos,conforme consignado por esta C. 2ª Câmara de Direito Privado por ocasião do julgamento do Agravo de Instrumento nº 2145077-45.2019.8.26.0000.
+Nesse contexto, reverter a conclusão do Tribunal local para acolher a pretensão recursal, quanto ao custeio integral pela seguradora do tratamento home careprescrito à autora, demandaria o revolvimento do acervo fático-probatório dos autos, o que é vedado ante a natureza excepcional da via eleita, consoante enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do advogado da parte ora recorrida em 1% sobre o valor da causa, respeitada a proporção fixada no acordão recorrido.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. LAUDO PERICIAL. PROCEDIMENTOS MENCIONADOS QUE DEVEM SER REALIZADOS POR PROFISSIONAL HABILITADO. CUSTEIO INTEGRAL DA SEGURADORA AO TRATAMENTO HOME CARE. ALTERAÇÃO. SÚMULA N. 7 DO STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
