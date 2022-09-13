@@ -1,0 +1,58 @@
+DECISÃO
+Trata-se de recurso especial interposto por ANTONIO CUSTODIO LEAL com respaldona alínea "a" do permissivo constitucionalcontra acórdão do TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃOassim ementado (e-STJ fl. 73):
+ADMINISTRATIVO. AGRAVO DE INSTRUMENTO. IMPUGNAÇÃO. EXECUÇÃO INDIVIDUAL DE TÍTULO JUDICIAL FORMADO EM MANDADO DE SEGURANÇA COLETIVO IMPETRADO POR ASSOCIAÇÃO. COMPENSAÇÃO DA VPE COM A VPNI, GEFM E GFM. POSSIBILIDADE.
+- A Vantagem Pessoal Nominalmente Identificada - VPNI - tem por finalidade preservar a irredutibilidade remuneratória quando da reestruturação de carreiras, ou extinção de parcela de retribuição, conforme as diversas leis, sendo absorvida na proporção dos respectivos aumentos.
+- Embora a compensação da Vantagem Pecuniária Especial - VPE com a Gratificação Especial de Função Militar - GEFM e a Função Militar - GFM não tenha sido objeto de discussão e decisão no processo coletivo cognitivo, a compensação pode ser alegada como matéria de defesa na execução (arts. 525, VII, 535 e 917, VI do novo CPC).
+- A VPE é privativa dos militares e pensionistas da Polícia Militar e Corpo de Bombeiros Militar do atual Distrito Federal. A GEFM e a GFM foram instituídas privativamente aos militares da ativa da Polícia Militar e do Corpo de Bombeiros Militar dos antigos Territórios Federais do Amapá, Rondônia e Roraima e do antigo Distrito Federal.
+- Embora no julgamento do EREsp nº 1.121.981/RJ a VPE tenha sido estendida aos Oficiais inativos da Polícia Militar e Corpo de Bombeiros Militar do antigo Distrito Federal (PMRJ e CBMRJ) e seus pensionistas - entendimento já superado no âmbito do próprio STJ -, trata-se de vantagem incompatível com as gratificações supracitadas.
+- Ainda no âmbito do julgamento daquela ação coletiva, o STJ reconheceu o direito à percepção da VPE justamente devido à vinculação das carreiras estatuída pela Lei nº 10.486/2002, que, por sua vez, determinou, expressamente, a absorção da VPNI por reajustes futuros, ou seja, reduz-se aquela parcela de acordo com o aumento remuneratório decorrente de melhorias salarias futuras.
+- Agravo de instrumento desprovido.
+Embargos de declaração rejeitados (e-STJ fls. 108/109 e 111/112).
+Em suas razões, a parte recorrente apontaviolação dos arts.489, II,§ 1º, III e IV,502, 507, 508, 525, VII, 535, VI, e 1022, II, do CPC/2015, sustentando, além denegativa de prestação jurisdicional, que é"impossível a determinação de compensação, na fase de cumprimento de sentença/execução, quando, na fase cognitiva, a parte tenha deixado de fazê-lo oportunamente, por força da preclusão consumativa" (e-STJ fl. 144) eque as vantagens sobre as quais se alega a compensação foram instituídas antes do trânsito em julgado da sentença coletiva na fase de conhecimento.
+Contrarrazões às e-STJ fls. 156/161.
+Juízo positivo de admissibilidade pelo Tribunal de origem às e-STJ fls. 166/168.
+Passo a decidir.
+Verifico que a pretensão recursal merece prosperar.
+No que concerne à alegada negativa de prestação jurisdicional, saliente-se que o art. 1.022 do Código de Processo Civil/2015 prevê que os embargos de declaração são cabíveiscontra qualquer decisão judicial, no intuito de esclarecer obscuridade, eliminar contradição, suprir omissão ou para correção de eventual erro material,in verbis:
+Art. 1.022. Cabem embargos de declaração contra qualquer decisão judicial para:
+I - esclarecer obscuridade ou eliminar contradição;
+II - suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento;
+III - corrigir erro material.
+Especificamente quanto à hipótese do inciso II, a novel legislação processual definiu como omissão as seguintes situações: (i) deixar de se manifestar sobre tese firmada em sede de recursos repetitivos ou em incidente de assunção de incompetência, e (ii) incorrera decisão judicial em qualquer das condutas descritas no art.489, § 1º, do CPC/2015.
+Esse dispositivo, por sua vez, trata dos casos em que a decisão judicial carece de fundamentação, senão vejamos:
+§ 1º Não se considera fundamentada qualquer decisão judicial, seja ela interlocutória, sentença ou acórdão, que:
+I - se limitar à indicação, à reprodução ou à paráfrase de ato normativo, sem explicar sua relação com a causa ou a questão decidida;
+II - empregar conceitos jurídicos indeterminados, sem explicar o motivo concreto de sua incidência no caso;
+III - invocar motivos que se prestariam a justificar qualquer outra decisão;
+IV - não enfrentar todos os argumentos deduzidos no processo capazes de, em tese, infirmar a conclusão adotada pelo julgador;
+V - se limitar a invocar precedente ou enunciado de súmula, sem identificar seus fundamentos determinantes nem demonstrar que o caso sob julgamento se ajusta àqueles fundamentos;
+VI - deixar de seguir enunciado de súmula, jurisprudência ou precedente invocado pela parte, sem demonstrar a existência de distinção no caso em julgamento ou a superação do entendimento.
+Para a admissão do recurso especial com base no referido dispositivo, a omissão tem que ser manifesta, ou seja, imprescindível para o enfrentamento daquaestio.
+No presente caso, a insurgência do agravante se amolda à hipótese elencada no inciso IV do art. 489, § 1º, do CPC/2015, tendo em vista que a Corte de origem não exprimiu juízo de valor sobre as teses de quea compensação, na fase de execução, é viável apenas se os valores forem supervenientes ao trânsito em julgado da fase de conhecimento;do contrário, será hipótesede preclusão da matéria.
+Outrossim, verifica-se que o tema foi submetido à apreciação do Tribunal de origem, conforme se extrai do seguinte trecho dos embargos de declaração opostos pela parte insurgente (e-STJ fls. 83, 87 e 90):
+3.1 DA OMISSÃO QUANTO À PRECLUSÃO CONSUMATIVA OCORRIDA NA FASE DE CONHECIMENTO E QUANTO À EXIGÊNCIA DE QUE A CAUSA DA COMPENSAÇÃO SEJA POSTERIOR AO TRÂNSITO EM JULGADO - INTELIGÊNCIA DO ART. 535, VI, DO CPC.
+08. O v. acórdão embargado entendeu ser possível a arguição da compensação, como matéria de defesa, no cumprimento de sentença, com fulcro nos arts. 525, VII, e, 917 do CPC, consignando que a questão não foi apreciada durante a fase de conhecimento.
+09. Ao assim proceder incorreu em omissão quanto à questão da preclusão consumativa, posto que a causa da compensação já era do conhecimento da Fazenda Pública, na fase de conhecimento, mas, no entanto, não foi arguida oportunamente.
+10. Nessa linha, o Superior Tribunal de Justiça continua prestigiando sua exegese sedimentada em recurso repetitivo sobre a matéria, qual seja da impossibilidade de alteração de comando transitado em julgado, a pretexto de compensação, quando, na fase cognitiva, a parte tenha deixado de suscitá-la oportunamente. Note-se:
+ ..
+11. No caso concreto, como reconhecido no acórdão embargado, o título ora em execução foi formado sem que lhe fosse contraposto qualquer tipo de incompatibilidade com as vantagens recebidas pelos substituídos pela Associação Impetrante, inexistindo, ademais, ali, menção quanto à ordem de compensação. Confira-se:
+ ..
+13. Por outro lado, essa colenda Turma entendeu aplicável, ao caso, os artigos 525, VII, e 917 do CPC, que estariam a autorizar o acolhimento da arguição de compensação no cumprimento de sentença.
+14. Contudo, tratando-se de cumprimento de sentença de obrigação de pagar contra a Fazenda Pública, outro é o dispositivo específico previsto na legislação processual, qual seja o art. 535, VI, do CPC/2015, que expressamente dispõe:
+ ..
+15. Como se observa, o CPC de fato admite a arguição de compensação, em fase de cumprimento de sentença, desde que o direito alegado seja superveniente ao comando transitado em julgado.
+16. No entanto, o v. acórdão ora embargado foi omisso quanto a esse ponto, aplicando dispositivos diversos e deixando de observar a restrição de que, para sua arguição como matéria de defesa no cumprimento de sentença contra a Fazenda Pública, a causa da compensação deve ser superveniente ao trânsito em julgado.
+Logo, estando configurada a negativa de prestação jurisdicional, faz-se necessária a declaração de nulidade do acórdão que apreciou os embargos declaratórios, para que o vício seja sanado pela Cortea quo, ficando prejudicadas as demais questões discutidas no apelo raro.
+Nesse sentido:
+PROCESSO CIVIL. TRIBUTÁRIO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL.VIOLAÇÃO AO ART. 535, II, DO CPC. OMISSÃO CONFIGURADA. RETORNO DOS AUTOS À ORIGEM.
+1. Considerando que a Corte de origem deixou de se manifestar sobre ponto pertinente à lide, expressamente ventilado pela parte recorrente e indispensável à apreciação do apelo extremo, é inegável a violação do art. 535, II, do CPC, o que impõe o reconhecimento de nulidade do acórdão, bem como a determinação de novo julgamento dos embargos de declaração, para que seja sanada a omissão apontada.
+2. Tem-se que a interpretação sistemática do art. 530 do CPC leva à conclusão de que estão afastadas das hipóteses de cabimento de Embargos Infringentes contra acórdão que, por maioria, reforma sentença proferida com base no art. 267 do CPC, qual seja, a que leva à extinção do feito sem julgamento do mérito, como na hipótese dos autos.
+3. Agravo Regimental não provido. (AgRg no REsp 1.346.569/RJ, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 25/11/2014).
+TRIBUTÁRIO. ISSQN. EXECUÇÃO FISCAL. VIOLAÇÃO DO ART. 535 DO CPC. OCORRÊNCIA. AUSÊNCIA DE MANIFESTAÇÃO DA CORTE A QUO, A DESPEITO DA OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO, SOBRE QUESTÃO RELEVANTE PARA O DESLINDE DA CONTROVÉRSIA. RETORNO DOS AUTOS À ORIGEM PARA NOVO JULGAMENTO DOS ACLARATÓRIOS.
+1. A análise das decisões proferidas pelo Tribunal de origem (e-STJ, fls. 355/365 e 417/424), em cotejo com os recursos da sociedade contribuinte (e-STJ, fls. 305/309 e 403/414), revela que houve omissão no acórdão recorrido sobre "(a) a argumentação quanto à falta de instauração de procedimento administrativo com a finalidade de apurar a responsabilidade tributária da Recorrente, circunstância que redundaria na nulidade do título executivo, nos moldes do que prescreve o inciso, I, do artigo 618 do Código de Processo Civil, e ainda, (b) a circunstância envolvendo o suposto desrespeito às regras previstas pelos artigos 106, 134, parágrafo único e 144 do Código Tributário Nacional" (e-STJ, fl. 459), matéria relevante ao deslinde da controvérsia.
+2. A jurisprudência deste Superior Tribunal de Justiça é firme no entendimento de que deve a parte vincular a interposição do recurso especial à violação do art. 535 do Código de Processo Civil, quando, mesmo após a oposição de embargos declaratórios, o tribunal a quo persiste em não decidir questões que lhe foram submetidas a julgamento, por força do princípio tantum devolutum quantum appellatum ou, ainda, quando persista desconhecendo obscuridade ou contradição arguidas como existentes no decisum.
+3. Por restar configurada a agressão ao disposto no art. 535 da legislação processual, impõe-se a declaração de nulidade do acórdão que julgou os embargos declaratórios, a fim de que o vício no decisum seja sanado.
+4. Recurso especial provido para anular o acórdão dos embargos de declaração, determinando o retorno dos autos à Corte de origem, a fim de que se manifeste, expressamente, a respeito do quanto alegado em sede declaratória.
+(REsp 1.313.492/SP, Rel. Ministra DIVA MALERBI (DESEMBARGADORA CONVOCADA TRF 3ª REGIÃO), SEGUNDA TURMA, DJe 31/03/2016).
+Ante o exposto, com base no art. 255, § 4º, III,do RISTJ,DOUPROVIMENTO ao recurso especialpara anular o acórdão proferido no julgamento dos embargos de declaração, por violação do art. 1.022 do CPC/2015, determinando o retorno dos autos para que o Tribunal de origemanalise a questão omissaindicada na fundamentação.
+Publique-se. Intimem-se.
