@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido de liminar, impetrado em favor de DANILO ALVES DO NASCIMENTO contra acórdão do Tribunal de Justiça do Estado do Ceará nos autos do HC n.0629531-11.2021.8.06.0000.
+Consta dos autos que oPaciente, cuja prisão prisão preventiva fora decretada em 25/05/2016, foi preso em 30/06/2019, e denunciado, juntamente com outros 7 (sete) réus, pela suposta prática dos crimes tipificados noart. 121, § 2º, incisos III, IV, V e VII e no art. 121, §2º, c.c. o art. 14, inciso II, c.c. o art. 29, todos do Código Penal,além dos crimes previstos no art. 33 da Lei n. 11.343/2006 e art. 288 do Estatuto Repressivo.
+O pedido de revogação da custódia cautelar foi indeferido (fls. 36-41).
+Irresignada, a Defesa impetrou owritoriginário, que foi denegado em acórdão assim ementado (fl. 96):
+"EMENTA:HABEAS CORPUS.PENAL E PROCESSUAL PENAL. ART. 121, §2º, III, IV, V E VII, DO CP (NA FORMA CONSUMADA), ARTIGO 121, §2º, III, IV, V E VII, C/C ARTIGO 14, II, AMBOS DO CP (TRÊS VEZES), ARTIGO 33, DA LEI Nº 11.343/2006, ARTIGO 288, PARÁGRAFO ÚNICO DO CP E ARTIGOS 12 E 16 DA LEI Nº 10.826/2003. PLEITO DE SOLTURA. 1. TESE DE EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. DESCABIMENTO. FEITO DE ORIGEM COMPLEXO. PLURALIDADE DE RÉUS (OITO).CRIMES DE INTRICADA APURAÇÃO. DIVERSOS EXPEDIENTES E CARTAS PRECATÓRIAS. ELEVADO NÚMERO DE INCIDENTES PROCESSUAIS. APLICAÇÃO DA SÚMULA Nº 15 DO TJCE. ANÁLISE GLOBAL DOS PRAZOS.JUÍZO DE ORIGEM QUE VEM ADOTANDO AS PROVIDÊNCIAS CABÍVEIS PARA A PROPULSÃO DO FEITO. 2. TESE DE AUSÊNCIA DOS REQUISITOS DA PRISÃO PREVENTIVA E DE CARÊNCIA DE FUNDAMENTAÇÃO DA DECISÃO PELA QUAL SE MANTEVE A CUSTÓDIA CAUTELAR. DESCABIMENTO.HIGIDEZ DA PRISÃO JÁ RECONHECIDA EM HABEAS CORPUS ANTERIOR. AUSÊNCIA DE FATO NOVO HÁBIL A JUSTIFICAR ALTERAÇÃO DE POSICIONAMENTO.DECISUM MANTENEDOR DA CUSTÓDIA, OUTROSSIM, DEVIDAMENTE FUNDAMENTADO, COM DEMONSTRAÇÃO DA NECESSIDADE DA MEDIDA PARA A GARANTIA DA ORDEM PÚBLICA E PARA A APLICAÇÃO DA LEI PENAL.3. ALEGADO DIREITO À EXTENSÃO DO BENEFÍCIO LIBERTÁRIO CONCEDIDO AOS CORRÉUS.IMPROVIMENTO. DISPARIDADE DE SITUAÇÕES FÁTICO- PROCESSUAIS. INTELIGÊNCIA DO ART. 580, DO CÓDIGO DE PROCESSO PENAL. Ordem conhecida e denegada, com recomendação à autoridade impetrada no sentido de conferir maior celeridade à tramitação do feito originário, tendo em vista envolver réu preso."
+Defende o Impetrante, em suma,que resta configurado o excesso de prazo na formação da culpa, afirmando que o Paciente se encontra preso há mais de dois anos sem que o Juízo a quo tenha finalizado a instrução.
+Aduz que este Egrégio Superior Tribunal de Justiça, no julgamento do RHC nº. 131.677, que tem como paciente o corréu LUCIANO FEITOSA ARRAIS, preso desde 05/12/2017, reconheceuo excesso de prazo na formação da culpa, determinando a substituição da prisão preventiva por outras medidas cautelares diversas da prisão. Afirma, ainda, que o Juízo processante revogou a prisão preventiva de outro corréu, reconhecendo o excesso de prazo.
+Sustenta, ainda, a desnecessidade da prisão preventiva, diante dos frágeis indícios de autoria e das condições pessoais favoráveis do Paciente.
+Busca, assim, liminarmente e no mérito, a revogação da custódia cautelar.
+Indeferi o pedido liminar às fls. 75-78.
+As informações fora apresentadas (fls. 83-88, 93-101 e 103-108).
+O Ministério Público Federal opina pelo não conhecimento do writ(fls. 109-115).
+É o relatório. Decido.
+Ao se consultar o andamento da ação penal (0004261-42.2016.8.06.0054)na página eletrônica do Tribunal de origem, verifica-se que, em 21/07/2022, o Juízo de primeiro grau determinoua expedição do alvará de soltura em favor do Paciente, em face do que foi decidido nos autos doRelaxamento de Prisão(0010170-55.2022.8.06.0054).
+Diante desse cenário, não há interesse processual no prosseguimento deste recurso.
+Ante o exposto, JULGO PREJUDICADO o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS.PROCESSUAL PENAL. PRISÃO PREVENTIVA. SUPERVENIENTE REVOGAÇÃO DA CUSTÓDIA CAUTELAR PELO JUÍZO DE ORIGEM. IMPETRAÇÃO PREJUDICADA.
