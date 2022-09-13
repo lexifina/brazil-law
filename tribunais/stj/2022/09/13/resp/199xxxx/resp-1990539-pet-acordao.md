@@ -1,0 +1,69 @@
+EMENTA
+PETIÇÃO DE AGRAVO EM RECURSO ESPECIAL CONTRA DECISÃO MONOCRÁTICA DE RELATOR. ERRO GROSSEIRO. CABIMENTO DE AGRAVO INTERNO. FUNGIBILIDADE. INAPLICÁVEL. RECURSO EM DUPLICIDADE. PRECLUSÃO. AGRAVOS EM RECURSO ESPECIAL NÃO CONHECIDOS.
+I - Na origem, trata-se de mandado de segurança impetrado por Ser Educacional S.A. objetivando a suspensão da inclusão do Imposto de Renda e da contribuição previdenciária dos segurados na base de cálculo das contribuições previdenciárias dos empregados. Na sentença, denegou-se a segurança. No Tribunal de origem, manteve-se a sentença.
+II - De fato, o agravo em recurso especial, com previsão no art. 1.042 do CPC/2015, cabível quando há negativa de seguimento do recurso especial, não se confunde com o recurso de agravo interno com previsão no art. 1.021 do CPC/2015, cabível contra decisão proferida monocraticamente pelo relator. Nesse sentido, mutatis mutandis, os seguintes precedentes: AgInt no AREsp n. 2.017.771/SP, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 13/6/2022, DJe de 15/6/2022; AgInt no AREsp n. 2.018.085/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 23/5/2022, DJe de 26/5/2022.
+III - No tocante ao segundo recurso de agravo em recurso especial, quando há a interposição de dois recursos contra o mesmo ato judicial pelo mesmo agravante, deve ser conhecido apenas o primeiro, por força do princípio da unirrecorribilidade e da preclusão consumativa.(EDcl no AgInt no REsp n. 1.958.319/RN, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 4/4/2022, DJe de 7/4/2022; (AgInt no AREsp n. 1.283.737/PR, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 4/9/2018, DJe de 10/9/2018).
+IV - Agravos em recurso especial não conhecidos.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, não conhecer dos agravos em recurso especial, nos termos do voto do Sr. Ministro-Relator." Os Srs. Ministros Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Humberto Martins.
+RELATÓRIO
+Trata-se de agravo em recurso especial contra decisão monocrática de minha lavra, que negou provimento ao recurso especial, ante a incidência das Súmulas n. 282/STF, 284/STF e não violação do art. 489 do CPC/2015.
+Nas razões do agravo em recurso especial, a parte sustenta, em síntese, os seguintes argumentos:
+ ..
+A Agravante interpôs o Recurso Especial(IDs4050000.28071683e 4050000.28071684), fundada em violação a diversos dispositivos legais merecendo maior destaque: a afronta ao dispositivo legal do art. 489, § 1º, IV todos do CPC.
+Com fulcro na violação supracitada foi citado o art. 966, V, do Códex Processualista Civil, que embasa fundamento para a ação rescisória. Tal dispositivo legal ensina que a decisão transitada em julgado, pode ser rescindida quando há violação da norma jurídica e neste sentido, foi dito que as decisões dos autos violaram normas jurídicas, não havendo em momento algum por pedido qualquer que fosse com fulcro em tal artigo, tendo sido traçada mera comparação com art. 966.
+Em mesmo sentido, citou-se violação ao art. 373, I, CPC, vez que entende a impetrante ter comprovado seu direito e mesmo assim, teve seu pleito indeferido, contudo, pela mera transcrição dos artigos, o julgador entendeu pela impossibilidade de mera citação a dispositivos normativos.
+Basta mera interpretação analógica para saber que não houve qualquer inovação no caso em comento, vez que somente citou-se tais artigos, tanto que não há nenhum, repito pedido formulado pela Recorrente fundado em tais dispositivos para justificar seu indeferimento, como aduziu V. Exa.
+ ..
+Conforme exposto, a juíza de piso se limitou a uma argumentação genérica ao reafirmar disposições legais, sem apreciar os fatos jurídicos e documentos anexos à inicial, sem se ater às peculiaridades do caso concreto, de modo que carece de fundamentação legal a decisão recorrida. Percebe-se que tal ato é totalmente repudiado pela jurisprudência deste Tribunal como demonstrado acima.
+Resta claro a r. decisão (ID 4050000.27125574) encontra-se com vício, tendo em vista que não segue o determinado em lei, tornando-a viciada diante da ausência de fundamentação e análise de todos os fatos e documentos trazidos aos autos, apenas reproduzindo os fatos argumentados em legislação reformada, pelo que, desde já requer seja desconstituída por evidente ausência de fundamento nos termos da lei.
+ ..
+Outrora, conforme exposto na inicial, a incidência da contribuição patronal e IRRF Fonte sobreo valor bruto da folha de pagamento afronta diretamente o disposto no art. 195, I, alínea "a" da Constituição Federal, pelo que, valendo a Impetrante de suas argumentações, intentou através presente mandamus a abstenção da exigibilidade de tais tributos.
+A Lei nº 8.212/91 estabelece que a contribuição previdenciária patronal (INSS Patronal), a cargo da empresa, incide sobre as remunerações pagas ou creditadas "destinadas a retribuir o trabalho", motivo pelo qual estipula como base de cálculo dos tributos questionados o "total das remunerações pagas, devidas ou creditadas a qualquer título" durante o mês, aos segurados empregados e trabalhadores avulsos que lhe prestem serviços, destinadas a retribuir o trabalho.
+Esse é o argumento principal do Leading Case RE 565.160, que trouxe nova definição para a Contribuição Previdenciária Patronal (INSS Patronal), a cargo do empregador, incida sobre "os ganhos habituais do empregado", a qualquer título, quer anteriores, quer posteriores à Emenda Constitucional nº 20/1998 (RE 565.160, Relator (a): Min. Marco Aurélio, Tribunal Pleno, julgado em29/03/2017, Acórdão Eletrônico Repercussão Geral -Mérito DJe-186. Divulgação: 22/08/2017. Publicação: 23/08/2017).
+Em síntese, o constituinte originário valeu-se do conceito abrangente de "salário", o que em verdade se deveria tratar como "remuneração", para fins de incidência de contribuição previdenciária patronal e IRRF Fonte, deixando de considerar que quando falamos em remuneração dizemos na soma do salário (o que chamamos de "GANHOS HABITUAIS") e outras verbas trabalhistas na folha de salários. Ou seja, o que chamamos de "ganhos habituais" não é o total da folha de salários.
+ ..
+De mesma maneira, a jurisprudência entende que só caberia a incidência da exação em tela se a verba trabalhista possuir natureza remuneratória (aqui se diz o salário), destinando-se a retribuir o trabalho, qualquer que seja a sua forma (STJ no Recurso Especial 1.230.957/RS, AgInt no REsp 1.621.558-RS e REsp nº 1.230.957).
+ ..
+Houve a interposição de um segundo agravo em recurso especial, protocolado sob a Petição n. 415.157/2022, de fls. 385-403, com idêntico conteúdo.
+Na origem, trata-se de mandado de segurança impetrado por Ser Educacional S.A.objetivando a suspensão da inclusão do Imposto de Renda e da contribuição previdenciária dos segurados na base de cálculo das contribuições previdenciárias dos empregados. Na sentença, denegou-se a segurança. No Tribunal de origem, manteve-se a sentença.
+É o relatório.
+EMENTA
+PETIÇÃO DE AGRAVO EM RECURSO ESPECIAL CONTRA DECISÃO MONOCRÁTICA DE RELATOR. ERRO GROSSEIRO. CABIMENTO DE AGRAVO INTERNO. FUNGIBILIDADE. INAPLICÁVEL. RECURSO EM DUPLICIDADE. PRECLUSÃO. AGRAVOS EM RECURSO ESPECIAL NÃO CONHECIDOS.
+I -Na origem, trata-se de mandado de segurança impetrado por Ser Educacional S.A.objetivando a suspensão da inclusão do Imposto de Renda e da contribuição previdenciária dos segurados na base de cálculo das contribuições previdenciárias dos empregados. Na sentença,denegou-se a segurança. No Tribunal de origem, manteve-se a sentença.
+II -De fato, o agravo em recurso especial, com previsão no art. 1.042 do CPC/2015, cabível quando há negativa de seguimento do recurso especial, não se confunde com o recurso de agravo interno com previsão no art. 1.021 do CPC/2015, cabível contra decisão proferida monocraticamente pelo relator.Nesse sentido, mutatis mutandis, os seguintes precedentes:AgInt no AREsp n. 2.017.771/SP, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 13/6/2022, DJe de 15/6/2022;AgInt no AREsp n. 2.018.085/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 23/5/2022, DJe de 26/5/2022.
+III -No tocante ao segundo recurso de agravo em recurso especial, quando há a interposição de dois recursos contra o mesmo ato judicial pelo mesmo agravante, deve ser conhecido apenas o primeiro, por força do princípio da unirrecorribilidade e da preclusão consumativa.(EDcl no AgInt no REsp n. 1.958.319/RN, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 4/4/2022, DJe de 7/4/2022;(AgInt no AREsp n. 1.283.737/PR, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 4/9/2018, DJe de 10/9/2018).
+IV - Agravos em recurso especial não conhecidos.
+VOTO
+O recurso não deve ser conhecido, ante o cometimento de erro grosseiro quanto àinterposição de agravo em recurso especial, ao invés de agravo interno.
+De fato, o agravo em recurso especial, com previsão no art. 1.042 do CPC/2015, cabível quando há negativa de seguimento do recurso especial, não se confunde com o recurso de agravo interno com previsão no art. 1.021 do CPC/2015, cabível contra decisão proferida monocraticamente pelo relator.
+Nesse sentido,mutatis mutandis, os seguintes precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APLICABILIDADE DO CPC/2015. NEGATIVA DE SEGUIMENTO DO RECURSO ESPECIAL COM FUNDAMENTO NO ART. 1.030, I, "B", DO CPC/2015. NÃO CABIMENTO DO AGRAVO EM RECURSO ESPECIAL. ERRO GROSSEIRO. INAPLICABILIDADE DO PRINCÍPIO DA FUNGIBILIDADE. CABIMENTO DE AGRAVO INTERNO NA ORIGEM.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Nos termos do art. 1.030, § 2º, do CPC/2015, cabe agravo interno contra decisão do presidente ou vice-presidente da Corte de origem que negar seguimento a recurso especial interposto contra acórdão que esteja em conformidade com o entendimento do STJ fixado em regime de recursos repetitivos.
+3. Inaplicável, portanto, o princípio da fungibilidade e a determinação de retorno dos autos à Corte de origem para julgar o recurso como agravo interno, tendo em vista a configuração de erro grosseiro.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.017.771/SP, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 13/6/2022, DJe de 15/6/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. DECISÃO QUE INADMITE RECURSO ESPECIAL FUNDAMENTADA EM REPETITIVO. APLICAÇÃO DO CPC/15. NÃO CABIMENTO DE AGRAVO EM RECURSO ESPECIAL. PREVISÃO LEGAL EXPRESSA. ERRO GROSSEIRO. FUNGIBILIDADE RECURSAL. INAPLICABILIDADE.
+1. Agravo em recurso especial que está sujeito às normas do Código de Processo Civil de 2015.
+2. Nos termos do art. 1.030, I, "b", e § 2º c/c 1.042, "caput", do CPC/15, é cabível agravo interno contra decisão na origem que nega seguimento ao recurso especial com base em recurso repetitivo.
+3. Nestes moldes, a interposição de agravo em recurso especial constitui erro grosseiro, porquanto inexiste dúvida objetiva, ante a expressa previsão legal do recurso adequado.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.018.085/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 23/5/2022, DJe de 26/5/2022.)
+No tocante ao segundo recurso de agravo em recurso especial, quando há a interposição de dois recursos contra o mesmo ato judicial pelo mesmo agravante, deve ser conhecido apenas o primeiro, por força do princípio da unirrecorribilidade e da preclusão consumativa.
+Nesse sentido:
+PROCESSUAL CIVIL. SEGUNDOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. INTERPOSIÇÃO DE RECURSO EM DUPLICIDADE. PRECLUSÃO CONSUMATIVA. NÃO CONHECIMENTO.
+1. Em razão da preclusão consumativa, não se conhece de recurso na hipótese em que, anteriormente, foi interposto outro recurso contra a mesma decisão.
+2. No caso dos autos, não se conhece dos segundos embargos de declaração, considerada a duplicidade do ato de interposição.
+3. Embargos de declaração não conhecido.
+(EDcl no AgInt no REsp n. 1.958.319/RN, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 4/4/2022, DJe de 7/4/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 03/STJ. SERVIDOR PÚBLICO ESTADUAL. UNIRRECORRIBILIDADE. PRECLUSÃO CONSUMATIVA. JULGAMENTO MONOCRÁTICO PELO RELATOR. POSSIBILIDADE. SÚMULA 568/STJ. VIOLAÇÃO DO ART. 489 DO CPC/2015. INOCORRÊNCIA. PENSÃO POR MORTE. ANÁLISE DE DIREITO LOCAL.SÚMULA 280/STF. AGRAVO INTERNO NÃO PROVIDO.
+1. A interposição de dois recursos pela mesma parte e contra a mesma decisão impede o conhecimento do segundo recurso, haja vista a preclusão consumativa e o princípio da unirrecorribilidade das decisões.
+2. Nos termo da Súmula 568/STJ: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+3. Não se pode confundir falta de motivação com fundamentação contrária aos interesses da parte, motivo pelo qual não resta caracterizada ofensa ao art. 489 do CPC/2015.
+4. A análise da pretensão recursal implicaria interpretação de norma local, insuscetível de análise em sede de recurso especial, nos termos da Súmula n. 280/STF.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 1.283.737/PR, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 4/9/2018, DJe de 10/9/2018.)
+Ante o exposto, não conheço dos recursos de agravo em recurso especial.
+É o voto.
