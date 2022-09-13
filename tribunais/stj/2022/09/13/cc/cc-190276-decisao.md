@@ -1,0 +1,40 @@
+DECISÃO
+Vistos.
+Trata-se de Conflito Negativo de Competência instaurado entre o JUÍZO DE DIREITO DA 2ªVARA ESPECIALIZADA DE FAZENDA PÚBLICA DE RONDONÓPOLIS - MTem face do JUÍZO FEDERAL DA 1ªVARA DE RONDONÓPOLIS - SJ/MT em Mandado de Segurança impetrado por CRISTIANO DA COSTA MENEGON em desfavor do CHEFE DA AGÊNCIA DA PREVIDÊNCIA SOCIAL DE RONDONÓPOLIS - MT, objetivando obter provimento jurisdicional que determine a reaberturadorequerimentoadministrativo encerrado indevidamente.
+O Juízo Suscitado declinou da competência, nos seguintes termos (fl. 72e):
+A Justiça Estadual é competente para processar e julgar ação relativa a acidente de trabalho, estando abrangida nesse contexto tanto a lide que tem por objeto a concessão de benefício decorrente de acidente de trabalho, como também as relações daí decorrentes (restabelecimento, reajuste, cumulação), uma vez que o art. 109, I da CF não fez qualquer ressalva a este respeito.
+O Juízo Suscitante, com fundamento em precedentes desta Corte, decidiu pela aplicabilidade do disposto no art. 109, III, da Constituição da República, explicando que (fl. 75e):
+Diferentemente da regra geral para as ações procedidas pelo rito comum,no mandado de segurança a competência para processamento e julgamento se define pela qualidade da autoridade coatora e não pela matéria em discussão.
+Dispensada a remessa ao Ministério Público Federal, nos termos do art. 951, parágrafo único, do Código de Processo Civil.
+É o relatório. Decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+O Conflito comporta conhecimento, porquanto se trata de demanda instaurada entre Juízes vinculados a Tribunais distintos, consoante o disposto no art. 105, I, d, da Magna Carta.
+A controvérsia cinge-se em determinar a competência para processar e julgar Mandado de Segurança que tem por objeto o processamento e julgamento de requerimento de benefício administrativo.
+O art. 109, VIII, da Constituição da República, estabelece a competência dos juízes federais para processar e julgar mandados de segurança impetrados contra ato de autoridade federal, ressalvada a competência dos tribunais federais:
+Art. 109 - Aos juízes federais compete processar e julgar:
+(..) VIII - Os mandados de segurança e os habeas data contra ato de autoridade federal, excetuados os casos de competência dos tribunais federais.
+(..) § 2º As causas intentadas contra a União poderão ser aforadas na seção judiciária em que for domiciliado o autor, naquela onde houver ocorrido o ato ou fato que deu origem à demanda ou onde esteja situada a coisa, ou, ainda, no Distrito Federal.
+Acompetênciapara conhecer e processarmandadodesegurançaencontra-se expressamente delimitada na Constituição da República e é aferida a partir da categoria funcional da autoridade apontada como coatora; assim, noconflitoentre Justiça Estadual e Federal, ela é absoluta quando se tratar de writ impetrado contra Autoridade Federal, ou no exercício de delegação federal.
+Esta Corte Superior tem entendimento segundo o qualacompetênciapara processar e julgar mandando desegurançadecorre da categoria da autoridade coatora ou de sua sede funcional, e não da natureza do ato impugnado ou da matéria ventilada no writ ou em razão da pessoa do impetrante.
+Nesse sentido:
+PROCESSUAL CIVIL.CONFLITONEGATIVO DE COMPETÊNCIA.JUSTIÇAS ESTADUAL E FEDERAL.MANDADODESEGURANÇA.AUTORIDADE IMPETRADA.
+CHEFEDAAGÊNCIADO INSS EM SERRA/ES. RETIFICAÇÃO DE ATO ADMINISTRATIVO. BENEFÍCIO PREVIDENCIÁRIO. CLASSIFICAÇÃO EQUIVOCADA. AUXÍLIO-DOENÇA CATALOGADO COMO ACIDENTE DE TRABALHO.COMPETÊNCIAFEDERAL. CRITÉRIO RATIONE AUCTORITATIS. PRECEDENTES.
+1. Cuida-se deconflitonegativo decompetênciainstaurado entre o Juízo Federal da 2ª Vara Cível da Seção Judiciária do Estado do Espírito Santo, o suscitado, e o Juízo de Direito da Vara Especializada em Acidentes de Trabalho de Vitória, o suscitante, nos autos demandadodesegurançaimpetrado por MZ Informática Ltda contra ato supostamente abusivo e ilegal doChefedaAgênciada Previdência Social do INSS no Município de Serra/ES, por meio do qual pretende a impetrante a retificação de ato administrativo.
+2. Noticiam os autos que a autoridade coatora, erroneamente, indicou no ato administrativo impugnado a ocorrência de acidente de trabalho (Código 91) como causa do afastamento do empregado Marcos Rodrigues Martins, embora a licença, na verdade, tenha se dado em razão de doença (Código 31), o que gerou consequências previdenciárias mais gravosas para o empregador.
+3. Embora a discussão tangencie o tema afeto à concessão de benefício previdenciário, acompetênciainterna, por força do que dispõe o art. 9º, § 1º, II, do Regimento do STJ, é da Primeira Seção, pois o que pretende a impetrante é a anulação de ato administrativo, com retificação do registro do benefício concedido a seu empregado de acidente de trabalho (Código 91) para auxílio doença (Código 31).
+4. Acompetênciapara o julgamento demandadodesegurançaé estabelecida em razão da função ou da categoria funcional da autoridade indicada como coatora (ratione auctoritatis), sendo irrelevante a matéria tratada na impetração, a natureza do ato impugnado ou a pessoa do impetrante. Precedentes.
+5. No caso, a autoridade indigitada coatora é oChefedaAgênciada Previdência Social no Município de Serra/ES, autoridade pública federal vinculada ao Instituto Nacional do Seguro Social-INSS.
+Tratando-se de autoridade federal, acompetênciapara julgamento do feito é da Justiça Federal de Primeira Instância, ainda que a matéria possa, de algum modo, tangenciar o tema relativo à concessão do benefício de acidente de trabalho.
+6. Ainda que assim não fora, não se trata, na espécie, de demanda acidentária, mas demandadodesegurançaque visa a retificação de um ato administrativo.
+7.Conflitodecompetênciaconhecido para declarar competente o Juízo Federal da 2ª Vara Cível da Seção Judiciária do Estado do Espírito Santo, o suscitado.
+(CC111.123/ES, Rel. Ministro CASTRO MEIRA, PRIMEIRA SEÇÃO, julgado em 10/11/2010, DJe 22/11/2010 - destaques meus).
+PREVIDENCIÁRIO E PROCESSUAL CIVIL.CONFLITONEGATIVO DECOMPETÊNCIA. JUSTIÇA FEDERAL E JUSTIÇA ESTADUAL.MANDADODESEGURANÇAIMPETRADO CONTRA GERENTE EXECUTIVA DO INSS. AÇÃO ACIDENTÁRIA. PREVALÊNCIA DACOMPETÊNCIAEM RAZÃO DA PESSOA. PRECEDENTES.COMPETÊNCIAFEDERAL.
+1. A controvérsia trazida no presenteconflitoé sobre a prevalência, ou não, em sede demandadodesegurança,dacompetênciaem razão da pessoa quando há outro juízo competente em razão da matéria.
+2. A regra decompetênciapara julgamento demandadodesegurançaé definida em função do foro da autoridade coatora, conforme decisões reiteradas desta Corte.
+3. É forçoso o reconhecimento dacompetênciada Justiça Federal para o julgamento demandadodesegurançaimpetrado contra ato da Gerente Executiva do Instituto Nacional do Seguro Social de Curitiba, pois esta é qualificada como autoridade federal nos termos do art. 2º da Lei nº 1.533/51.
+4.Conflitoconhecido para declarar competente o Juízo Federal da Vara Previdenciária de Curitiba, o suscitado.
+(CC69.016/PR, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, TERCEIRA SEÇÃO, julgado em 28/02/2007, DJ 26/03/2007, p. 204).
+Posto isso, nos termos do art. 955, parágrafo único, do Código de Processo Civil, combinado com art. 34, XVIII, do Regimento Interno desta Corte, conheço do conflito e declaro competente o JUÍZO FEDERAL DA 1ª VARA DE RONDONÓPOLIS - SJ/MT.
+Comunique-se, com urgência, ao Juízo Suscitante e ao Juízo Suscitado.
+Publique-se. Intimem-se.
+Após as providências cabíveis, arquivem-se os autos.
