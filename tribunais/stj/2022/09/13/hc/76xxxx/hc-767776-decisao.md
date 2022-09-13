@@ -1,0 +1,11 @@
+DECISÃO
+O presente writ, impetrado em benefício de Fabio Jose dos Santos da Costacontra ato coator do Tribunal de Justiça de Santa Catarina (Apelação Criminal n. 0004286-37.2017.8.24.0113), não comporta processamento.
+Com efeito, insurge-se a defesa contra a pronúncia dopacientepela suposta prática dos crimes de organização criminosa e homicídio qualificado, ao argumento de que o acórdão levanta que suposto envolvimento do Paciente em facção criminosa seria fator de relevância para o pronunciamento. Ocorre, contudo, que estamos a tratar aqui de crime contra a vida a ser recebido para apreciação pelo júri, de modo que a suposta participação em organização criminosa é completamente inócua ao feito (fl. 7).
+Ocorre que, além de não se admitir a utilização do writ como sucedâneo de uma segunda apelação dirigida a esta Corte, o Supremo Tribunal Federal e o Superior Tribunal de Justiça não admitem mais a utilização do habeas corpus como substitutivo do meio processual adequado, sejam recursos próprios ou mesmo a revisão criminal, salvo situações excepcionais.
+No caso, observei que a apelação criminal foi julgada no Tribunal a quo em 2/9/2021, demonstrandopretender a defesa fazer desta Corte Superior de Justiça uma segunda Corte de apelações, o que é inadmissível.
+Ademais, ao pronunciar o paciente, a Corte estadual destacouque, dentro dessa conjuntura de ideias, é possível prever fortes indícios de que os apelados, além de integrantes do 2º Ministério do PGC, teriam poder de mando na organização, evidenciando uma provável participação no homicídio aqui discutido, mediante autoria mediata, visto que seriam os supostos responsáveis pela comunicação do "Salve Geral" de 2017 da organização criminosa aos demais integrantes (fl. 57), de maneira que desconstituir a conclusão da instância ordinária ensejaria indesejável revolvimento fático-probatório, o que é inadmissível perante esta Corte Superior de Justiça.
+Em face do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+HABEAS CORPUS. PARTICIPAÇÃO EM ORGANIZAÇÃO CRIMINOSA E HOMICÍDIO QUALIFICADO. WRIT SUBSTITUTIVO DE REVISÃO CRIMINAL. PLEITO DE IMPRONÚNCIA. ABSOLVIÇÃO. TRANCAMENTO DA AÇÃO PENAL. JULGAMENTO DA APELAÇÃO NO TRIBUNAL A QUO EM 2/9/2021. INADEQUAÇÃO DA VIA ELEITA.
+Inicial indeferida liminarmente.
