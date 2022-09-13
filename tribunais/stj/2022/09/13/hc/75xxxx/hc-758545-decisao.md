@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se dehabeas corpus(e-STJ fls. 3/13) impetrado em favor de DAVI CURTI contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (Apelação n. 993.03.048990-0 - e-STJ fls. 16/23 e 26/33).
+Depreende-se dos autos que o juiz singular absolveu o ora paciente da imputação de ter cometido o delito previsto no art. 157, § 2.º, incisos I e II, do Código Penal, com fundamento no art. 386, inciso VI, do Código de Processo Penal (e-STJ fls. 40/60).
+Irresignada, a acusação interpôs apelação criminal, na Corte de origem, que deu provimento ao recurso, para condenar o ora paciente, pela prática do delito previsto no art. 157, § 2.º, incisos I e II, do Código Penal, à pena de6 anos e 5 meses de reclusão, em regime prisional inicial fechado, e 15 dias-multa, ao valor unitário mínimo(fls. 16/23).
+Na sequência, foram opostos embargos de declaração defensivos, os quais resultaram rejeitados (e-STJ fls. 26/33).
+No presentemandamus, o impetrante alega que a fração de incremento punitivo aplicada na terceira etapa dosimétrica não contou com fundamentação idônea e concreta, mas decorreu, exclusivamente, do número de causas de aumento de pena.
+Aduz que a presença de duas ou mais causas especiais de aumento da pena no crime de roubo pode agravar a pena acima do aumento mínimo previsto em lei, quando o magistrado, diante das peculiaridades do caso concreto, constatar a ocorrência de circunstâncias que indiquem a necessidade da elevação da pena acima da fração mínima.
+Ao final, requer a concessão da ordem para reduzir a reprimenda final do paciente.
+O Ministério Público Federal manifestou-se pelo não conhecimento domandamus(e-STJ fls. 92/97).
+É o relatório. Decido.
+Inicialmente, o Superior Tribunal de Justiça, seguindo o entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, como forma de racionalizar o emprego dohabeas corpuse prestigiar o sistema recursal, não admite a sua impetração em substituição ao recurso próprio.
+Cumpre analisar, contudo, em cada caso, a existência de ameaça ou coação à liberdade de locomoção do paciente, em razão de manifesta ilegalidade, abuso de poder ou teratologia na decisão impugnada, a ensejar a concessão da ordem de ofício. Nesse sentido, a título de exemplo, confiram-se os seguintes precedentes: STF, HC n. 113.890/SP, Relatora Ministra ROSA WEBER. Primeira Turma, julgado em 3/12/2013, publicado em 28/2/2014; STJ, HC n. 287.417/MS, Relator Ministro SEBASTIÃO REIS JÚNIOR. Quarta Turma, julgado em 20/3/2014, DJe 10/4/2014: e STJ, HC n. 283.802/SP, Relatora Ministra LAURITA VAZ. Quinta Turma, julgado em 26/8/2014, DJe 4/9/2014.
+Na espécie, embora oimpetrante não tenha adotado a via processual adequada, para que não haja prejuízo à defesa do paciente, passo à análise da pretensão formulada na inicial, a fim de verificar a existência de eventual constrangimento ilegal.
+Da dosimetria das penas - terceira fase
+Preliminarmente, cabe ressaltar que a dosimetria da pena e o seu regime de cumprimento inserem-se dentro de um juízo de discricionariedade do julgador, atreladoàs particularidades fáticas do caso concreto e subjetivas do agente, somente passível de revisão por esta Corte no caso de inobservância dos parâmetros legais ou de flagrante desproporcionalidade.
+Sob essas diretrizes, a dosimetria dapenadopacientefoi imposta pelo Relator do voto condutor do acórdão, nos seguintes termos:
+"As penas mínimas, em face da reincidência serão acrescidas de um sexto; em seguida, por força de duas causas de aumento, recebem exasperação de três oitavos, conforme critério jurisprudencialmente aceito." (fl. 20).
+Com efeito, consoante visto acima, constata-seque a escolha da fração de 3/8 teve como fundamento apenas o critério matemático, pois apenas fez menção à natureza e à quantidade dasmajorantes incidentes, sem haver a demonstração de como tais causas de aumento extrapolaram o previsto em lei, violando o enunciado n. 443 da Súmula deste Tribunal Superior, sendo necessário redimensionar a fração para o mínimo legal de 1/3.
+Nesse sentido:
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. ROUBO MAJORADO. DOSIMETRIA. TERCEIRA FASE. AUMENTO DA PENA. INCIDÊNCIA DE DUAS MAJORANTES. FUNDAMENTAÇÃO INSUFICIENTE. SÚMULA 443/STJ. REGIME FECHADO. ADEQUADO. PENA SUPERIOR A 4 ANOS E INFERIOR A 8 ANOS. RÉU REINCIDENTE. WRIT NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+III - In casu, a pena foi exasperada, na terceira fase, na fração de 3/8 (três oitavos) em virtude da incidência de duas causas de aumento de pena, levando-se em conta apenas o número de majorantes contidas nos incisos I e II do § 2º do art. 157 do Código Penal.
+Diante desse contexto, forçoso reconhecer a ocorrência de flagrante ilegalidade, eis que o quantum de aumento de pena foi aplicado sem que houvesse a devida fundamentação, baseando-se apenas no número de majorantes, em desacordo com a orientação firmada na Súmula 443/STJ: "O aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes"(Precedentes).
+ ..
+Habeas corpus não conhecido. Ordem concedida de ofício apenas para estabelecer a fração mínima legal de 1/3 (um terço) na terceira fase da dosimetria, em razão das majorantes do emprego de arma e concurso de pessoas, e redimensionar a pena do paciente para 5 (cinco) anos e 4 (quatro) meses de reclusão, mais pagamento de 12 (doze) dias-multa, mantidos os demais termos da condenação(HC n. 456.877/SP, Rel. Ministro FELIX FISCHER, Quinta Turma, julgado em 4/9/2018, DJe 10/9/2018, grifei).
+Passo, agora, ao novo cálculo da dosimetria dapenadopaciente.
+Na primeira fase, mantenho a pena-base em 4 anos de reclusão e 10 dias-multa.
+Na segunda etapa, a sanção é exasperada, em 1/6 sobre a pena-base, pela incidência da agravante genérica da reincidência, resultando em 4 anos e 8 meses de reclusão e 11 dias-multa.
+Na terceira fase, redimensiono a fração, em razão das majorantes do roubo (uso de arma de fogo e concurso de pessoas)para 1/3, ficando a reprimenda final estabilizadaem6 anos, 2 meses e 20 dias de reclusão e 14 dias-multa.
+Ante o exposto, com fulcro no art. 34, inciso XX, do RISTJ,não conheçoohabeas corpus.
+Contudo,concedo a ordem,ex officio, para redimensionar asançãodopacientepara 6 anos, 2 meses e 20 dias de reclusão e 14 dias-multa, mantidos os demais termos dacondenação.
+Intimem-se.
