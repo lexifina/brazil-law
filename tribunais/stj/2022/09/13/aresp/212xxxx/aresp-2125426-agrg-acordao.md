@@ -1,0 +1,46 @@
+EMENTA
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO. AUSÊNCIA DE LAUDO DE AVALIAÇÃO APTO A CONFIRMAR O PEQUENO VALOR DA RES FURTIVA. IMPOSSIBILIDADE DE RECONHECIMENTO DA FIGURA PRIVILEGIADA DO DELITO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A jurisprudência desta Corte Superior de Justiça é no sentido de que, ausente o laudo de avaliação apto a comprovar que a res furtiva deve ser considerada de pequena monta - isto é, tinha valor inferior a um salário mínimo vigente à época dos fatos -, não é possível reconhecer a figura do furto privilegiado prevista no § 2º do art. 155 do Código Penal, pois o atendimento do citado requisito não pode ser presumido (AgRg no AREsp 1846296/MA, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 5/10/2021, DJe 11/10/2021). Precedentes.
+2. No caso, a ausência de realização de laudo de avaliação impossibilita a discussão de valor do dano, o que obsta a aplicação do instituto previsto no art. 155, § 2º, do Código Penal.
+3. Agravo regimental não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental. Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, João Otávio de Noronha e Jorge Mussi votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA (Relator):
+Trata-se de agravo regimental interposto por FELIPE MENDES GOMES e FERNANDO GOMES BRITO (e-STJ fls. 600/607) contra decisão monocrática de e-STJ fls. 591/594, que conheceu do agravo para negar provimento ao recurso especial.
+A parte agravante alega que, ante a ausência de providencia Estatal obrigatória, e, logicamente, carência do argumento acusatório relativo aos requisitos para a concessão do privilegio, notadamente a inexpressividade do bem material, deve militar em favor dos agravantes o pequeno valor dos objetos, pois não se tem certeza quanto ao seu estado de conservação à época dos fatos, bem como de seu efetivo valor (e-STJ fls. 603).
+Aduz que que, diante da primariedade dos agentes e do pequeno valor da res furtiva, o reconhecimento do forma privilegiado é medida que se cabe.
+Requer, assim, a reconsideração da decisão agravada.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA (Relator):
+O agravo regimental não merece acolhida.
+Com efeito, dessume-se das razões recursais que a parte agravante não trouxe elementos suficientes para infirmar a decisão agravada que, de fato, apresentou a solução que melhor espelha a orientação jurisprudencial do Superior Tribunal de Justiça sobre a matéria.
+Portanto, nenhuma censura merece o decisório ora recorrido, que deve ser mantido pelos seus próprios e jurídicos fundamentos.
+O Tribunal a quo, ao não aplicar a figura do furto privilegiado, consignou (e-STJ fls. 447/448):
+Outrossim, no tocante ao pedido de aplicação da causa de diminuição relacionada ao furto privilegiado, tenho que imerecedor de prospero, isso porque os réus não obstante serem tecnicamente primários, não colacionado aos autos laudo de avaliação dos bens, fato esse que impede a análise do privilégio, ante a impossibilidade de aferição do cálculo do bem subtraído, conforme já se posicionado o Superior Tribunal de Justiça no julgamento do HC n" 623399 SC/2020/0291091-3.
+Assim, rejeito o pedido de aplicação dos benefícios previstos no artigo 155, § 2º, do Código Penal.
+Ora, tal posicionamento encontra-se no mesmo sentido da jurisprudência desta Corte Superior de Justiça, de que ausente o laudo de avaliação apto a comprovar que a res furtiva deve ser considerada de pequena monta - isto é, tinha valor inferior a um salário mínimo vigente à época dos fatos -, não é possível reconhecer a figura do furto privilegiado prevista no § 2º do art. 155 do Código Penal, pois o atendimento do citado requisito não pode ser presumido (AgRg no AREsp 1846296/MA, Relatora Ministra LAURITA VAZ, Sexta Turma, julgado em 5/10/2021, DJe 11/10/2021).
+Nessa linha, os seguintes julgados:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO. PRETENSÃO DE RECONHECIMENTO DO FURTO PRIVILEGIADO FUNDADA NA ALEGAÇÃO DE AUSÊNCIA DE LAUDO DE AVALIAÇÃO DO VALOR DA RES FURTIVAE. TESE NÃO PREQUESTIONADA. SÚMULAS N. 282/STF E 356/STF. PRESUNÇÃO DE PREENCHIMENTO DO REQUISITO REFERENTE AO PEQUENO VALOR DO BEM SUBTRAÍDO. IMPOSSIBILIDADE. DOSIMETRIA DA PENA. APLICAÇÃO DA MINORANTE DA TENTATIVA NO PATAMAR MÁXIMO. INVIABILIDADE. ITER CRIMINIS. REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. VEDAÇÃO. SÚMULA N. 7/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+2. Ademais, é firme a jurisprudência desta Corte Superior no sentido de que "ausente o laudo de avaliação apto a comprovar que a res furtiva deve ser considerada de pequena monta - isto é, tinha valor inferior a um salário mínimo vigente à época dos fatos -, não é possível reconhecer a figura do furto privilegiado prevista no § 2º do art. 155 do Código Penal, pois o atendimento do citado requisito não pode ser presumido" (AgRg no AREsp 1846296/MA, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 5/10/2021, DJe 11/10/2021).
+3. No que concerne à causa de diminuição de pena atinente à tentativa, no caso concreto, a Corte a quo, com fundamento em exame exauriente do conjunto fático-probatório constante dos autos, concluiu que o acusado chegou próximo da consumação do delito, somente não atingindo seu intento criminoso por circunstâncias alheias à sua vontade. Nesse contexto, entender de modo diverso, para alterar a fração da minorante de 1/3 para 2/3, demandaria necessariamente o revolvimento de fatos e provas, providência vedada em sede de recurso especial, Incidência da Súmula n. 7/STJ.
+4. Agravo regimental não provido. (AgRg no AREsp n. 2.027.519/MA, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 17/5/2022, DJe de 20/5/2022.)
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. FURTO PRIVILEGIADO. IMPOSSIBILIDADE. VALOR DO BEM NÃO CALCULADO.
+1. Nos termos da Súmula 511/STJ, "É possível o reconhecimento do privilégio previsto no § 2º do art. 155 do CP nos casos de crime de furto qualificado, se estiverem presentes a primariedade do agente, o pequeno valor da coisa e a qualificadora for de ordem objetiva."
+2. "A ausência de laudo de avaliação da res furtiva impede a incidência do privilégio previsto no § 2º do art. 155 do CP, não sendo possível admitir, por mera presunção, que se trata de bem de pequeno valor." (REsp 1.715.100/MG, Rel. Ministro Reynaldo Soares da Fonseca, DJe 17/05/2018).
+3. Agravo regimental improvido. (AgRg no AREsp n. 1.823.639/MA, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 9/11/2021, DJe de 16/11/2021.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL. FURTO QUALIFICADO. PLEITO PELA AUSÊNCIA DE LAUDO DE AVALIAÇÃO APTO A CONFIRMAR O PEQUENO VALOR DA RES FURTIVA. IMPOSSIBILIDADE DE RECONHECIMENTO DA FIGURA PRIVILEGIADA DO DELITO. PRECEDENTES. ALEGAÇÃO DE QUE O PATAMAR DE REDUÇÃO, PELA TENTATIVA, DEVE SER APLICADO NO MÁXIMO. INVERSÃO DO JULGADO. INCIDÊNCIA DA SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Ausente o laudo de avaliação apto a comprovar que a res furtiva deve ser considerada de pequena monta - isto é, tinha valor inferior a um salário mínimo vigente à época dos fatos -, não é possível reconhecer a figura do furto privilegiado prevista no § 2.º do art. 155 do Código Penal, pois o atendimento do citado requisito não pode ser presumido.
+ ..
+3. Agravo regimental desprovido. (AgRg no AREsp n. 1.846.296/MA, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 5/10/2021, DJe de 11/10/2021.)
+HABEAS CORPUS. FURTO QUALIFICADO TENTADO. ART. 155, § 4º, IV C/C ART. 14, II, AMBOS DO CP. RECONHECIMENTO DO PRINCÍPIO DA INSIGNIFICÂNCIA. INVIABILIDADE. TENTATIVA DE SUBTRAÇÃO DE FIOS DE COBRE DE TRANSFORMADORES DE CONCESSIONÁRIA DE ENERGIA ELÉTRICA. AUSÊNCIA DE LAUDO DE AVALIAÇÃO DO VALOR DO BEM. CONCURSO DE PESSOAS. ÓBICES AO RECONHECIMENTO DA BAGATELA. FURTO PRIVILEGIADO. IMPOSSIBILIDADE. VALOR DO BEM NÃO CALCULADO. ORDEM DENEGADA.
+ ..
+3. A ausência de realização de laudo de avaliação impossibilita a discussão de insignificância do dano, afastando, assim, a possibilidade de aplicação do princípio da insignificância.
+4. Nos termos da Súmula 511/STJ: É possível o reconhecimento do privilégio previsto no § 2º do art. 155 do CP nos casos de crime de furto qualificado, se estiverem presentes a primariedade do agente, o pequeno valor da coisa e a qualificadora for de ordem objetiva. No caso, a ausência de realização de laudo de avaliação impossibilita a discussão de valor do dano, o que obsta a aplicação do instituto previsto no art. 155, § 2º, do Código Penal.
+5. Habeas Corpus denegado. (HC n. 623.399/SC, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 9/2/2021, DJe de 17/2/2021.)
+Assim, no caso, a ausência de realização de laudo de avaliação impossibilita a discussão de valor do dano, o que obsta a aplicação do instituto previsto no art. 155, § 2º, do Código Penal.
+Sendo assim, o inconformismo não merece prosperar.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
