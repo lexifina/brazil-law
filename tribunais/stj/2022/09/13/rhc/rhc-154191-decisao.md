@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de recurso ordinário emhabeas corpus, com pedido liminar, interposto porDENILSON VAGLIERI PREVITAL contra acórdão proferido pelo Tribunal Regional Federal da 4.ª Região no HC n. 5032476-22.2021.4.04.0000.
+Consta dos autos que o Recorrentefoi preso preventivamente, em 1.º/12/2020, pela suposta prática dos crimes de contrabando e de organização criminosa.
+O Juízo de primeira instância, em 19/03/2021, concedeu liberdade provisória ao Recorrente, com imposição de medidas cautelares diversas da prisão, razão pela qual "cumpre medida cautelar de monitoração eletrônica em substituição à prisão preventiva decretada no âmbito da Operação Zephyros, mantido o exercício do cargo de Prefeito Municipal" (fl. 407).
+A Defesa impetrouhabeas corpusperante o Tribunal de origem, que, por maioria, denegou a ordem.
+Nas razões recursais, a Defesa alega que a medida cautelar de proibição de se ausentar da Comarca em que reside sem prévia autorização judicial "tem gerado uma série de dificuldades ao Chefe do Poder Executivo Municipal" (fl. 421), pois não tem tido a análise de seus pedidos de autorização para saídado Município em prazo razoável.
+Argumenta que "grande parte das reuniões para tratar dos assuntos de interesse do município ocorrem nos gabinetes das autoridades do Estado do Paraná, sediados em Curitiba" e que, "não obstante o peticionário venha justificando documentalmente os requerimentos de autorização de deslocamento sempre dentro do prazo de 05 (cinco) dias de antecedência fixado pelo Magistrado, o D. Juízo de Ponta Grossa, infelizmente, não tem conseguido entregar a prestação jurisdicional em tempo hábil" (fl. 425).
+Aduz que "a restrição à liberdade de locomoção do Recorrente para fins de acautelamento da ação penal não pode restringir o exercício do cargo eletivo ocupado pelo peticionário" (fl. 426).
+Requer, liminarmente e no mérito, a compatibilização da medida cautelar de proibição de deslocamento, a fim de autorizar que o Recorrente "cumpra com os compromissos e deslocamentos inerentes ao Cargo de Prefeito e realize a comunicação ao Juízoa posteriori,observadas as condições sugeridas no voto vencido" (fls. 434-435).
+Em consulta ao endereço eletrônico do Tribunal de origem, constatei que, em 23/02/2022, nos autos da Ação Penal n. 5011432-66.2021.4.04.7009, o Juízo de primeira instância revogou as medidas cautelares "de recolhimento domiciliar aos feriados, fins de semana e no período noturno dos demais dias, assim como de proibição de ausentar-se da cidade em que reside e, de conseguinte, revogar o monitoramento eletrônico, admitindo que o acusado DENILSON VAGLIERI PREVITAL responda ao processo penal sem a medida cautelar do art. 319, IX, do CPP".
+Tal fato evidencia a superveniente ausência de interesse processual.
+Ante o exposto, JULGO PREJUDICADO o recurso ordinário emhabeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ORDINÁRIO EM HABEAS CORPUS. PROCESSUAL PENAL. CONTRABANDO E ORGANIZAÇÃO CRIMINOSA.INSURGÊNCIA CONTRA AS MEDIDAS CAUTELARES IMPOSTAS. SUPERVENIENTE REVOGAÇÃOPELO JUÍZO DEPRIMEIRA INSTÂNCIA. PERDA DO INTERESSE PROCESSUAL. PEDIDO RECURSALPREJUDICADO.
