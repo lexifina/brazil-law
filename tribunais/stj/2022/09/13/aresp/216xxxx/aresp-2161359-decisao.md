@@ -1,0 +1,31 @@
+DECISÃO
+ida-se de agravo apresentado por VALTER RIBEIRO DE ARAUJO ADVOGADOS ASSOCIADOS S/S contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL, assim resumido:
+- APELAÇÃO - ATUALIZAÇÃO DO VALOR A SER PAGO - CORREÇÃO MONETÁRIA DESDE A CONCLUSÃO DA PERÍCIA JUDICIAL E JUROS DE MORA DESDE A CITAÇÃO - PROVIDO EM PARTE.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega violação do art. 99, § 2º, do CPC, no que concerne à comprovação de hipossuficiência econômica do recorrente, razão pela qual não tem ele condições de arcar com os pagamentos das despesas processuais e, portanto, preenche os requisitos para a obtenção do benefício da gratuidade de justiça, trazendo o(s) seguinte(s) argumento(s):
+Excelências, o Acórdão recorrido precisa ser ANULADO, pois não foi oportunizado ao Recorrente a comprovação de sua condição de hipossuficiente, até porque o mesmo entendeu que por sua simples demonstração de receita, além da declaração de ser optante do Simples, aliado ao fato de que prestava serviços quase que exclusivamente para o Recorrido já demonstraria sua condição de hipossuficiente, autorizando a concessão dos benefícios da justiça gratuita.
+Como o douto Relator entendeu que esses fatos não seriam suficientes para comprovar a condição de hipossuficiente do ora Recorrente, então deveria conceder prazo razoável para que o mesmo demonstrasse essa condição, entretanto, isso não ocorreu, já indeferindo liminarmente o pedido de justiça gratuita.
+ ..
+Excelências, o Recorrente, de fato, não tem condições de arcar, neste momento, com as custas e despesas processuais, motivo pelo qual pugnou pela concessão dos benefícios da justiça gratuita ao interpor seu Recurso de Apelação.
+Nesse sentido, o Recorrente juntou documentos que comprovam que sua receita ínfima, o que é reconhecido no Acórdão recorrido, ou seja, o mesmo trouxe seu  extrato do SIMPLES NACIONAL , onde se comprova que sua receita bruta neste ano de 2.020 não chegou a R 28.000,00 (vinte e oito mil Reais), como reconhecido no próprio Acórdão recorrido, o que deixa claro sua impossibilidade de arcar com as custas de um processo judicial neste momento.
+ ..
+O Recorrente tinha uma estrutura média para patrocinar os milhares de processos em que atuava na defesa dos interesses do Bradesco, entretanto, com a resilição contratual abrupta, antes do vencimento do contrato e sem pagar os honorários nos processos que ainda não tinham chegado ao fim, o Recorrente se viu obrigado a desativar sua estrutura, demitir todos seus funcionários e buscar o Poder Judiciário para tentar perceber os honorários proporcionais aos trabalhos realizados até a data da resilição contratual em processos que não tinham chegado ao fim.
+ ..
+O fato é que o Recorrente não tem a menor condição de arcar com as custas e despesas processuais neste momento, e daí o pedido de justiça gratuita, nos termos do artigo 98 do Código de Processo Civil, que foi contrariado pelo TJ/MS ao indeferir esse pleito feito pelo Recorrente.
+ ..
+O Recorrente não tem patrimônio, bem como tem uma receita ínfima, o que impossibilita de recolher as custas recursais ou quaisquer outras despesas processuais nesse momento. (fls. 550/553).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+"Da detida análise dos autos, verifico que a pretensão da parte agravante não merece guarida.
+Isso porque deve ser mantida a orientação já manifestada na decisão internamente atacada, eis que o Agravante não logrou êxito em demonstrar sua hipossuficiência, requisito essencial para concessão da benesse da gratuidade judiciária.
+ ..
+Neste particular, cumpre destacar que cabia à parte agravante comprovar o fato alegado, isto é, que não dispõe de condições financeiras que lhe possibilite satisfazer as custas processuais sem sacrificar o próprio sustento.
+Tratando-se de pessoa jurídica, como é o caso dos autos, o pedido deverá ser instruído com documentos hábeis a comprovar sua situação hipossuficiente.
+No presente caso, verifica-se que o Agravante juntou os mesmos documentos já apresentados em sede de Apelação Cível, os quais, como já informado, não são capazes para deferir-lhe o referido benefício.
+Isso porque, inobstante os descontos relativos à tributos e outros encargos, verifica-se que o Agravante possui receita e patrimônio capazes de custear as respectivas despesas processuais, não sendo demonstrada, portanto, a ausência de recursos para tanto.
+Portanto, por todos os motivos acima apresentados, as razões presentes neste agravo interno não têm o poder de modificar o entendimento externado na decisão monocrática antes proferida" (fls. 543/544).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o reexame da premissa fixada pela Corte de origem quanto à existência ou não dos requisitos para a concessão da gratuidade de justiça às partes exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em sede de recurso especial.
+Nesse sentido, o STJ já decidiu sobre a "inviabilidade de verificar se as partes no caso poderiam ou não serem contempladas pelo benefício da gratuidade de justiça, por demanda reexame de contexto fático-probatório". (AgInt no AREsp 897.498/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 16/8/2016.)
+Confiram-se ainda os seguintes julgados: AgInt no AREsp 1.570.272/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 20/5/2020; AgInt no AREsp 1.000.602/RS, relator Ministro Og Fernandes, Segunda Turma, DJe de 22/5/2020; AgInt no AREsp 1.564.850/MG, relator Ministro Marco Buzzi, Quarta Turma, DJe de 4/3/2020; AgInt no AREsp 1.173.115/RS, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 18/4/2018; REsp 1.784.623/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 11/3/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
