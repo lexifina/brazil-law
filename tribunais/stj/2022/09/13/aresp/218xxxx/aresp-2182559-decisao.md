@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo interposto por P.L. Comércio de Alimentos Ltda. e outra, com fundamento noart. 1.042 do CPC/2015,contra a decisão que não admitiu o processamento do recurso especial que interpôscom base no art. 105, III, a, da Constituição Federal, em desafio a acórdão do Tribunal de Justiça do Paraná assim ementado (e-STJ, fl. 809):
+APELAÇÃO CÍVEL. AÇÃO DE CUMPRIMENTO DE SENTENÇA. EXTINÇÃO DO FEITO POR ABANDONO DO EXEQUENTE. CONDENAÇÃO AO PAGAMENTO DECUSTAS PROCESSUAIS E HONORÁRIOS ADVOCATÍCIOS. IMPOSSIBILIDADE. RELAÇÃO PROCESSUAL FORMADA. NECESSIDADE DE REQUERIMENTO DA PARTE ADVERSA. AUSÊNCIA. FACULDADE QUE NÃO SE ESTENDE AO JUIZ "EX OFFICIO". OFENSA À SÚMULA nº 240 STJ. SENTENÇA CASSADA.
+A extinção do processo por abandono não é válida quando instaurada a relação processual entre autor, juiz e réu. Tal modalidade de extinção depende de requerimento do réu.(Súmula 240 do STJ).
+Recurso de apelação provido.
+Nas razões do recurso especial, apontou-se ofensa aos arts.188, 277 e 485, III, do CPC/2015, e Súmula 240/STJ(e-STJ, fls. 818-827).
+Alegou-se, em suma,haver particularidade no caso concreto, consistente no fato de que os agravantesnão foram intimados para manifestação sobre o abandono da causa e, assim, para que pudessem requerer a extinção do feito.
+Foram apresentadas contrarrazões (e-STJ, fls. 835-840).
+O recurso especial não foi admitido na origem (e-STJ, fls. 842-843), o que provocou a interposição do presente agravo.
+Em juízo de admissibilidade, a Corte local negou o processamento do recurso especialporque:
+(1) "levando em conta que o dia 21.04 (Tiradentes) é feriado nacional, a intimação seria considerada realizada no dia 22.04.2022, o prazo para interposição de recurso passaria a fluir em 25.04.2022 e findaria em 13.05.2022. No entanto, em razão da suspensão do expediente nas repartições judiciárias do Estado do Paraná no dia 22.04.2022, prevista no artigo 2º do Decreto Judiciário nº 717/2021, alterado pelo Decreto Judiciário nº 155/2022, os prazos processuais foram prorrogados";
+(2) "entretanto, para que fosse considerado o prazo prorrogado, deveria ter sido juntada, no ato da interposição do recurso, comprovação adequada da suspensão do expediente forense, conforme dispõe o artigo 1.003, §6º, do Código de Processo Civil, o que não se vislumbrou no presente caso. Portanto, a petição recursal juntada em 16.05.2022 está intempestiva".
+Brevemente relatado, decido.
+A irresignação não merecer prosperar.
+De início, tenha-se em conta quea jurisprudência do Superior Tribunal de Justiça é firme ao expressarque cabe à parte agravante, nas razões do agravo em recurso especial, trazer argumentos para contestar a decisão do Tribunal de origem que negou seguimento ao recurso especial, justificando, tese a tese, o cabimento do apelo especial, conforme determina expressamente o art. 932, III, do CPC/2015.
+O entendimento desta Corte é no sentido de que a parte recorrente deve rebater os fundamentos da decisão impugnada, mostrando-se inadmissível o agravo que não se insurge, especificamente, contra todos eles.
+Nesse sentido, confiram-se os seguintes precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DENEGATÓRIA DE ADMISSIBILIDADE DE RECURSO ESPECIAL. DESCUMPRIMENTO DOS REQUISITOS PRECONIZADOS PELO ART. 932, III, NCPC (ART. 544, § 4º, I, DO CPC/73). AGRAVO INTERNO NÃO PROVIDO.
+1. Aplicabilidade do NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016)serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Não se mostra viável o agravo em recurso especial que, apresentado em desacordo com os requisitos preconizados pelo art. 932, III, do NCPC (art. 544, § 4º, I, do CPC/1973), não impugna os fundamentos da respectiva inadmissibilidade (incidência das Súmulas nºs 5 e 7 do STJ).
+3. Agravo interno não provido (AgInt no AREsp 2.013.205/SC, Rel. Ministro Moura Ribeiro, Terceira Turma, julgado em 28/03/2022, DJe 30/03/2022).
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. SEGURO DE VIDA. INVALIDEZ POR ACIDENTE NÃO VERIFICADA; SÚMULAS 5 E 7, DO STJ. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO DA DECISÃO DE INADMISSIBILIDADE. NÃO CONHECIMENTO. ART. 932, III, DO CÓDIGO DE PROCESSO CIVIL/2015. SÚMULA 182/STJ. APLICAÇÃO POR ANALOGIA. ENTENDIMENTO DA CORTE ESPECIAL.
+1. Nos termos do art. 932, III, do Código de Processo Civil/2015, não se conhece de agravo cujas razões não impugnam especificamente o fundamento da decisão agravada. Aplicação, por analogia, do enunciado n. 182 da Súmula do STJ.
+2. Em atenção ao princípio da dialeticidade, cumpre à parte recorrente o ônus de evidenciar, nas razões do agravo em recurso especial, o desacerto da decisão recorrida.
+3. Agravo interno a que se nega provimento (AgInt no AREsp 1.926.060/MT, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 21/03/2022, DJe 24/03/2022).
+No caso, verifica-se que as agravantes não atenderama esse comando, pois não refutaramtodos os óbices de admissibilidade do recurso especial interposto.
+Com efeito, no tocante à rejeição do recurso especial pela falta da correta comprovação de que houvea suspensão do expediente forenseprevista no artigo 2º do Decreto Judiciário nº 717/2021, alterado pelo Decreto Judiciário nº 155/2022, com a consequente prorrogação dosprazos processuais;verifica-se, de plano, que tal fundamentonão foimencionadonasrazões dapetiçãodeagravo trazidas aos autos (e-STJ, fls. 846-854).
+De fato, asagravantesaduziramque"comprovaram, na peça recursal, a tempestividade do recurso incluindo o detalhamento disponibilizado no Projudi", deixando, assim, de se manifestar sobre o fundamento da decisão agravada acerca da falta de demonstração de que houve suspensão dos prazos processuais.
+É, por sinal, o que se constata também da leitura da petição do recurso especial, na qual o tópico referente à tempestividade não faz qualquer alusão aos atos editados pela Corte local sobre a suspensão de prazos processuais, conforme se verifica à fl. 820 (e-STJ).
+Dessa forma, a falta de enfrentamento específico dos fundamentos da decisão agravada desatende o que prescrito no art. 932, III, do CPC/2015, tendo, portanto, o agravante, deixado de observaroprincípio da dialeticidade exigido na esfera recursal.
+Diante do exposto, não conheço do agravo em recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOFUNDAMENTODA DECISÃO DE ADMISSIBILIDADE DO RECURSO ESPECIAL. ART. 932, III, DO CPC/2015. AGRAVO NÃO CONHECIDO.
