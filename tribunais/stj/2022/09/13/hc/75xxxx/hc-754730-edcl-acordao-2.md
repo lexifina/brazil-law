@@ -1,0 +1,24 @@
+EMENTA
+PENAL E PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. 1. OPOSIÇÃO DE NOVOS ACLARATÓRIOS CONTRA O MESMO ACÓRDÃO. IMPOSSIBILIDADE DE CONHECIMENTO. PRECLUSÃO CONSUMATIVA. PRINCÍPIO DA UNIRRECORRIBILIDADE. 2. EMBARGOS DE DECLARAÇÃO NÃO CONHECIDOS.
+1. Os presentes aclaratórios se insurgem igualmente contra o acórdão proferido no julgamento do agravo regimental. Dessarte, tratando-se novos embargos de declaração opostos contra o mesmo acórdão, tem-se que apenas o primeiro recurso pode ser conhecido, haja vista a preclusão consumativa da via recursal, em virtude do princípio da unirrecorribilidade, que proíbe a interposição de mais de um recurso contra a mesma decisão judicial.
+2. Embargos de declaração não conhecidos.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, não conhecer dos embargos. Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, João Otávio de Noronha e Jorge Mussi votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA (Relator):
+Trata-se de embargos de declaração opostos por LUIZ ROBERTO FALCÃO contra acórdão, da minha relatoria, que negou provimento ao agravo regimental, nos termos da seguinte ementa:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. 1. MERA REITERAÇÃO. HC 588.030 E HC 698.380/PR. IMPOSSIBILIDADE DE CONHECIMENTO. 2. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. O presente mandamus é mera reiteração do Habeas Corpus 588.030/PR e do Habeas Corpus 698.380/PR, motivo pelo qual não é possível dar seguimento ao writ.
+2. Agravo regimental a que se nega provimento.
+O embargante discorre sobre o mérito da impetração, pugnando, em síntese, pelo acolhimento dos aclaratórios, para que seja reconhecida a atipicidade da conduta.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA (Relator):
+De início, verifico que os presentes aclaratórios e aqueles opostos às e-STJ fls. 1.056/1.060 se insurgem igualmente contra o acórdão proferido no julgamento do agravo regimental.
+Dessarte, tratando-se novos embargos de declaração opostos contra o mesmo acórdão, tem-se que apenas o primeiro recurso pode ser conhecido, haja vista a preclusão consumativa da via recursal, em virtude do princípio da unirrecorribilidade, que proíbe a interposição de mais de um recurso contra a mesma decisão judicial.
+Como é cediço, a preclusão é a perda de uma faculdade referente à prática de determinado ato processual, a perda da capacidade de praticar os atos processuais por não tê-lo feito na oportunidade devida (preclusão temporal), por incompatibilidade com outro ato anteriormente praticado (preclusão lógica) ou pelo exercício anterior do mesmo direito (preclusão consumativa), sendo este fenômeno imprescindível à marcha do procedimento.
+A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. REITERAÇÃO UNIRRECORRIBILIDADE. PRECLUSÃO CONSUMATIVA. PEDIDOS IDÊNTICOS. REEXAME DE MATÉRIA. NECESSIDADE DE AMPLA DILAÇÃO PROBATÓRIA. IMPROPRIEDADE DA VIA ELEITA. AGRAVO DESPROVIDO. 1. Interpostos dois embargos declaratórios pela mesma parte contra a mesma decisão, não se conhece daquele apresentado posteriormente, por força dos princípios da unirrecorribilidade e da preclusão consumativa. 2. A análise das alegações concernentes ao pleito de anulação da decisão que reconheceu a falta grave, demandaria exame detido de provas, inviável em sede de writ. 3. Agravo regimental desprovido. (AgRg no HC n. 702.626/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 22/3/2022, DJe de 25/3/2022.)
+EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. RECURSOS. DUPLICIDADE. INTEMPESTIVIDADE, UNIRRECORRIBILIDADE E PRECLUSÃO CONSUMATIVA QUANTO AOS SEGUNDOS EMBARGOS. INEXISTÊNCIA DOS VÍCIOS PRECONIZADOS NO ART. 619 DO CPP. MANIFESTA IMPROCEDÊNCIA. REDISCUSSÃO. DESCABIMENTO. 1. Se interpostos dois embargos de declaração pela mesma parte contra a mesma decisão, pelo princípio da unirrecorribilidade e pela preclusão consumativa, deve ser conhecido apenas o primeiro deles. Outrossim, em matéria criminal, são intempestivos os embargos de declaração opostos após o prazo de 2 dias, a teor dos arts. 619 do Código de Processo Penal e 263 do RISTJ. 2. Os embargos de declaração não se prestam à manifestação de inconformismo ou à rediscussão do julgado (EDcl nos EDcl no AgRg no REsp n. 1.270.282/RS, Ministro Moura Ribeiro, Quinta Turma, DJe 12/8/2014). 3. Embargos de declaração opostos por meio da Petição EDcl n. 01064114/2021 (fls. 1.472/1.478) rejeitados e embargos declaratórios opostos por meio da Petição Edcl n. 01128846/2021 (fls. 1.485/1.490) não conhecidos. (EDcl no AgRg no AREsp n. 1.953.266/CE, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 8/2/2022, DJe de 16/2/2022.)
+Ante o exposto, não conheço dos embargos de declaração.
+É como voto.
