@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo interposto por MARIA DO SOCORRO DE SOUZA VIEIRAcontra decisão do TRIBUNAL DE JUSTIÇA DO RIO GRANDE DO NORTE, que não admitiu recurso especialfundado naalínea"a" do permissivo constitucional, para desafiar acórdão assim ementado (e-STJ fl. 256):
+DIREITO CONSTITUCIONAL, ADMINISTRATIVO E PREVIDENCIÁRIO. APELAÇÃO CÍVEL. AÇÃO ORDINÁRIA DE COMPLEMENTAÇÃO DE APOSENTADORIA. SERVIDORA DO MUNICÍPIO DE APODI-RN. I) PRELIMINAR DE ILEGITIMIDADE ACOLHIMENTO. PASSIVA SUSCITADA PELO RECORRIDO.INTELIGÊNCIA DOS ARTIGOS 485, INC. VI, E 18, AMBOS DO CÓDIGO DE PROCESSO CIVIL. INCIDÊNCIA DA LEI MUNICIPAL Nº 269/96, QUE ESTABELECE O INSTITUTO NACIONAL DO SEGURO SOCIAL (INSS) COMO RESPONSÁVEL PELOS BENEFÍCIOS DE APOSENTADORIA DE SEUS SERVIDORES, OS QUAIS ESTÃO VINCULADOS, PORTANTO, AO REGIME GERAL DE PREVIDÊNCIA SOCIAL (RGPS). REAFIRMARÇÃO DE JURISPRUDÊNCIA QUE SE IMPÕE. EXTINÇÃO DA DEMANDA, SEM RESOLUÇÃO DO MÉRITO, NOS TERMOS DO ART. 485, VI, DO CPC. II) APELO PREJUDICADO.
+Rejeitados os aclaratórios (e-STJ fls. 289/302).
+No especial obstaculizado, a parte recorrente apontou violação dos arts.1.013e1.022, II, do CPC/2015, sustentando negativa de prestação jurisdicional.
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, tendo os fundamentos sido impugnados no presente agravo.
+Contraminuta às e-STJ fls. 464/468.
+Passo a decidir.
+A irresignação recursal não merece prosperar.
+Quanto à alegada ofensa aos arts. 1.013 e 1.022, II, do CPC/2015, cumpre destacar que, ainda que o recorrente considere insubsistente ou incorreta a fundamentação utilizada pelo Tribunal nos julgamentos realizados, não há necessariamente ausência de manifestação. Não há como confundir o resultado desfavorável ao litigante com a falta de fundamentação.
+Ademais, consoante entendimento desta Corte, o magistrado não está obrigado a responder a todas as alegações das partes, tampouco a rebater um a um de todos os seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie. Nesse sentido: AgRg no AREsp 163.417/AL, relator Ministro NAPOLEÃO NUNES MAIA FILHO, Primeira Turma, DJe 29/09/2014.
+In casu, destacou a Corte de origem, quando darejeiçãodos aclaratórios, o seguinte(e-STJ fls. 292/293):
+Mencionada ilação decorre de simples leitura do aresto que, concluindo que a insurgente, enquanto servidora do Município de Apodi-RN, possui vínculo com o Instituto Nacional de Seguridade Social - INSS, estando subordinada ao Regime Geral de Previdência Social, nos termos do artigo 194, da Lei Municipal 296/96, que trata do Estatuto dos Servidores Públicos do antedito ente federativo.
+ ..
+Mais a mais, no que tange à eficácia plena do art. 40 da Constituição Federal, bem ainda a tese de inconstitucionalidade do artigo 194 do Estatuto dos Servidores locais, pondere-se que tais questões não podem ser objeto dos presentes aclaratórios, eis que qualquer contorno aferido sobre referidas temáticas entrará no mérito da lide que, diga-se a título de elucidação, encontra óbice intransponível diante da ausência de ilegitimidade do embargante para compor a lide.
+Ante o exposto, com base no art. 253, parágrafo único, II, "b", do RISTJ, CONHEÇO do agravo para NEGAR PROVIMENTO ao recurso especial.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, caso aplicáveis os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
