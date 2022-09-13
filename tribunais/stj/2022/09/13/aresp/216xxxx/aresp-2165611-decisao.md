@@ -1,0 +1,45 @@
+DECISÃO
+Cuida-se de agravo apresentado por ALINE GUEDES DE ANDRADE GARCIA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+APELAÇÃO CÍVEL - INDENIZAÇÃO POR DANOS MORAIS - ERRO MÉDICO - ALEGAÇÃO DA AUTORA DE QUE, EM EXAME REALIZADO PERANTE O LABORATÓRIO DA RÉ, TERIA SIDO PERFURADA POR SERINGA DERRUBADA PELA TÉCNICA DE ENFERMAGEM, A QUAL ATINGIU O SEU BRAÇO, SUJEITANDO-A A RISCO DE INFECÇÕES GRAVES - SENTENÇA DE PROCEDÊNCIA, COM CONDENAÇÃO DA RÉ AO PAGAMENTO DE REPARAÇÃO MORAL DE R0.000,00.
+Quanto à primeira controvérsia, pela alínea "a" do permissivo constitucional, alega violação do art. 6º, VIII, CDC, no que concerne à inversão do ônus da prova no caso do autos em razão da condição de hipossuficiência da recorrente em relação à parte recorrida, trazendo o(s) seguinte(s) argumento(s):
+Na inicial, a recorrente trouxe em seu relato que  enquanto aguardava para refazer o exame, a atendente foi realizar o descarte de alguns materiais já utilizados em outros pacientes e, neste momento, deixou cair uma seringa com a agulha exposta, sem qualquer proteção, que atingiu o antebraço da autora, vindo inclusive a perfura-la
+ ..
+Por outro lado em sua defesa, a recorrida arguiu que a perfuração ocorreu através de agulha utilizada pela própria embargante, ou seja esse fato deveria ter ocorrido após a realização do exame
+ ..
+Desse modo, se o Acórdão combatido reconheceu que a relação entre as partes é uma relação consumerista e reconheceu a impossibilidade na comprovação de quem era a agulha que perfurou a recorrente, deveria consequentemente reconhecer a hipossuficiência técnica da recorrente e aplicar a inversão legal garantida pelo CDC em favor da recorrente, de modo a manter a sentença a quo.
+Logo, ao decidir diferente, o Acórdão afastou o direito básico do consumidor à facilitação da defesa de seus direitos inclusive com a inversão do ônus da prova, violando literalmente o artigo 6º, VIII do CDC.
+ ..
+No presente caso, o Acórdão ainda reconheceu que o Magistrado a quo acertou ao entender serem eles dispensáveis, julgando a lide no estado em que se encontrava. Deste modo, resta claro a violação constatada devendo o acórdão combatido ser reformado para manter a sentença. (fls. 363/368).
+Quanto à segunda controvérsia, pela alínea "a" do permissivo constitucional, alega violação dos arts. 6º, VI e 27 do CDC, no que concerne à ocorrência de danos morais à recorrente, independentemente do prazo decorrido para a propositura da ação judicial, trazendo o(s) seguinte(s) argumento(s):
+Ora, não há qualquer dúvida que a recorrente foi realizar um exame e acabou sendo perfurada indevidamente dentro do hospital da recorrida.
+ ..
+No presente caso, a recorrente levou cerca d2 02 anos para propor a ação e isso, de forma alguma, poderia ser óbice à sua reparação.
+No entanto, o Acórdão recorrido violou ambos os artigo citados acima pois considerou que a demora de ajuizamento de 02 anos de pois do fato reforçaria a ausência de abalo moral
+ ..
+Com isso, é notório a Violação ao artigo 6º inciso VI e artigo 27 ambos do Código de Defesa do Consumidor, pelo r. acórdão recorrido, merecendo ser reformado para manter a sentença de piso. (fls. 368/369).
+É, no essencial, o relatório. Decido.
+Quanto à primeira controvérsia, na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+"Em que pese isso, é de se observar que, como regra, nas causas versando sobre interesses dos consumidores, vigora a distribuição do ônus probatório (art. 373 do Código de Processo Civil), de modo que cabe ao autor provar o que alega na petição inicial, ao passo de que ao réu, incumbe demonstrar os fatos constitutivos, extintivos ou modificativos do direito do autor.
+Note-se que a regra de inversão do ônus probatório prevista no art. 6º, VIII do Código de Defesa do Consumidor não tem incidência automática, mas apenas quando, a critério do juiz, a alegação for verossímil, ou então quando o consumidor for hipossuficiente segundo as regras ordinárias de experiência.
+Em concreto, nenhum dos dois pressupostos mencionados se faz presente, razão pela qual, não há que se falar em inversão do ônus probatório, cabendo à apelada, por isso, fazer a prova dos fatos que alegou.
+De fato, não é verossímil que a apelada, perfurada por agulha, ainda que em tese, utilizada na coleta de material de outro paciente tenha simplesmente ido para casa, sem nada reclamar de imediato para a administração do laboratório ou do hospital, o que somente foi feito na parte da noite.
+Além disso, não se vislumbra a hipossuficiência da apelada na produção da prova dos fatos que alegou, posto que tudo poderia ser melhor esclarecido com a simples oitiva da técnica de enfermagem responsável pela coleta, prova que, todavia, não foi produzida.
+Com efeito, intimadas as partes em especificação de provas (fls. 283), limitou-se a apelada a requerer o julgamento da lide no estado (fls. 291), deixando claro o desinteresse em outras provas.
+Analisando os elementos coligidos autos e mesmo a defesa ofertada pela apelante, verifico que em momento algum houve, por ela, reconhecimento do fato do serviço descrito na petição inicial" (fls. 344/345).
+Tal o contexto, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal, no propósito de demonstrar a hipossuficiência da recorrente e as circunstâncias do caso para fins de inversão do ônus da prova, demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; e AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020.
+Quanto à segunda controvérsia, na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+"Em decorrência, não se constata tenha a apelada sofrido qualquer abalo moral, já que, sem a prova de que a perfuração foi causada por agulha contendo material de terceiros, o ocorrido não passou de um mero aborrecimento, que não atinge gravidade suficiente a configurar um dano extrapatrimonial.
+Frise-se que o atendimento prestado à apelada em outro hospital, buscando prevenir eventual contaminação, igualmente se deu com base excluisva no relato por ela apresentado (fls.
+47/48), sendo impossível aos profissionais responsáveis aferir a veracidade da perfuração por agulha possivelmente contaminada com material de terceiro.
+Por fim, sobre o Boletim de Ocorrência lavrado, mais uma vez, trata-se apenas da versão unilateral apresentada pela apelada à autoridade policial, prestando-se o laudo do IML a comprovar, apenas, que houve perfuração do antebraço direito dela. Mas não o risco de contaminação por ela alegado (fls.
+103/109).
+Oportuno consignar que, mesmo depois de todo o ocorrido, optou a apelada por realizar o seu parto junto à maternidade da apelante (fls. 196/248), o que torna ainda mais questionável a veracidade dos fatos narrados na petição inicial.
+Ademais, esta demanda foi ajuizada praticamente 02 anos depois dos fatos, o que reforça a ausência de abalo moral.
+Assim, deixando a apelante de cumprir com o ônus probatório que lhe competia, nos termos do art. 373, I do Código de Processo Civil, mediante demonstração dos fatos que alegou, inviável se faz o acolhimento da pretensão inicial" (fls. 347/348).
+Assim, mais uma vez incide o óbice da Súmula n. 7 do STJ, uma vez que o reexame da premissa fixada pela Corte de origem quanto à presença ou não dos elementos que configuram o dano moral indenizável exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em sede de recurso especial.
+Confiram-se os seguintes julgados: AgRg no REsp 1.365.794/RS, relator Ministro Herman Benjamin, Corte Especial, DJe de 9/12/2013; AgInt no AREsp 1.534.079/ES, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 26/8/2020; AgInt nos EDcl no AREsp 1.341.969/DF, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 26/8/2020; AgInt no AREsp 1.581.658/PB, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 18/8/2020; e AgInt no AREsp 1.528.011/RJ, relator Ministro Francisco Falcão, Segunda Turma, DJe de 1º/7/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
