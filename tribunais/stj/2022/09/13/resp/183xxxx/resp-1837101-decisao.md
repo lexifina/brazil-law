@@ -1,0 +1,29 @@
+DECISÃO
+Consta dos autos que SILVIO FERRAZ PIRES, na qualidade de sócio da Cia Mogiana de Óleos Vegetais, afiançou, juntamente com sua esposa, MARIA CÂNDIDA FERRAZ PIRES um empréstimo contraído junto ao BANCO DO BRASIL S. A. Diante do inadimplemento, o BANCO DO BRASIL executou a dívida (Processo nº 466/1992), adjudicando imóvel de propriedade dos fiadores pelo valor de R$ 3.440.000,00 (três milhões, quatrocentos e quarenta mil reais).
+Com a falência da Cia Mogiana de Óleos Vegetais, SILVIO e MARIA CÂNDIDA promoveram habilitação de crédito, pleiteando que fosse incluído, no quadro geral de credores, o valor que pagaram ao BANCO DO BRASIL (e-STJ, fls. 3/7).
+A sentença julgou procedente o pedido (e-STJ, fls. 225/228).
+SILVIO e MARIA CÂNDIDA interpuseram apelação, buscando a condenação da massa falida ao pagamento de honorários advocatícios (e-STJ, fls. 240/245).
+O BANCO DO BRASIL também apelou. Aduziu que os fiadores não pagaram a integralidade da dívida, de modo que o valor incluído no rol de credores em função da habilitação de crédito somente pode ser pago a SILVIO e MARIA CÂNDIDA se houver patrimônio suficiente para saldar o restante do empréstimo. Isso porque, nos termos do art. 351 do CC/02, a dívida deve ser completamente paga antes que o credor sub-rogatário possa reivindicar seu credito (e-STJ, fls. 289/303).
+O Tribunal de origem deu provimento ao apelo de SILVIO e MARIA CÂNDIDA mas desproveu o do BANCO DO BRASIL, em acórdão assim ementado:
+HABILITAÇÃO DE CRÉDITO. Sentença de procedência para reconhecer a habilitação de créditos e autorizar a inclusão no quadrogeral de credores com garantia real.
+Apelam os autores pugnando pela fixação de verba honorária.
+Apela o Banco do Brasil sustentando preliminarmente, a nulidade da sentença, por não ter sido citado, na qualidade de terceiro interessado, a despeito do interesse no feito; os créditos habilitados apenas serão pagos aos habilitantes caso os créditos perante o banco sejam integralmente quitados; afirma a existência de prejuízo, na medida em que esses valores foram recebidos pelo banco em razão da arrematação, e serão objeto de rateio entre os credores com garantia real; a necessária condenação em honorários advocatícios a seus patronos pelo trabalho desempenhado.
+Recurso do réu. Descabimento.
+Os autores se subrogaram nos créditos do banco credor, fazendo jus à habilitação de seu crédito. Ademais, encontra- se assegurada a habilitação do banco no quadro geral de credores de eventual valor remanescente, devendo, concorrer, entretanto, na mesma categoria de crédito. As condições de rateio deverão ser observadas pelo juízo falimentar.
+Recurso dos autores. Cabimento.
+O patrono faz jus aos honorários tendo em vista o trabalho desempenhado. Fixação, por equidade dos honorários em R$1.000,00.
+Recurso do banco improvido. Provido o recurso dos autores (e-STJ, fl. 405).
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 416/418). Irresignado, o BANCO DO BRASIL interpôs recurso especial, com fundamento no art. 105, III, a,da CF, alegando que o Tribunal de origem teria violado os arts. (1) 489 e 1.022, II, do NCPC, porque não teria se manifestado adequadamente sobre a regra inserta no art. 351 do CC/02; (2) 351 do CC/02, porque, ao contrário do que afirmado pelo Tribunal de origem não poderia haver rateio entre o credor originário (BANCO DO BRASIL) e o sub-rogado (SILVIO e MARIA CÂNDIDA), haja vista a preferência que o primeiro tem sobre o segundo para a satisfação do seu crédito; e, (3) 85, § 8º e 493 do NCPC, que não não deu causa ao ajuizamento da demanda, razão pela qual não poderia ser condenado a pagar honorários advocatícios sucumbenciais.
+SILVIO e MARIA CÂNDIDA também interpuseram recurso especial com fundamento na alínea a do permissivo constitucional, alegando, simplesmente, que o valor fixado a título de honorários advocatícios deveria ser majorado, nos termos dos arts. 85, § 2º, e 1.045 do NCPC e 6º da LINDB, porque fixado em patamar irrisório.
+Nenhum desses recursosfoi admitido na origem (e-STJ, fl. 487/489), mas os agravos que se seguiram foram ambos convertidos em recurso especialmelhor exame da matéria (e-STJ, fls. 571/573).
+Por meio da Petição nº 417287/2020, foi informado que F R S Serviços Administrativos Ltda.,adquiriu os créditos que SILVIO,MARIA CÂNDIDA e BANCO DO BRASIL detinham contraaMassa Falida (e-STJ, fls. 624/649).
+Intimados, o BANCO DO BRASIL manifestou-se nos autos, afirmando que, em razão da cessão de crédito, não possuía mais legitimidade processual para prosseguir no feito, razão pela qual o recurso especial por ele interposto teria perdido o seu objeto (e-STJ, fls. 655/661).
+De outra parte, F R S Serviços Administrativos Ltda. apresentou petição conjunta com SILVIO e MARIA CÂNDIDA, esclarecendo que, em razão da cessão de crédito, figurava, agora, do ponto de vista do direito material, como recorrente e recorrida, razão pela qual pedia a desistência dos recursos.
+É o relatório.
+DECIDO.
+Os recursos manejados pelo BANCO DO BRASIL de um lado, e porSILVIO e MARIA CÂNDIDA, de outro, tinham origem em um crédito decorrente de sub-rogação a ser habilitado no processo de falência.
+Discutia-se, em síntese, se a sub-rogação havia se operado pelo total da dívida e, bem assim, qual seria a extensão dos créditos que cada uma das partes poderia habilitar na falência dada Cia Mogiana de Óleos Vegetais (devedora original).
+Conforme informado nos autos, todos os créditos decorrentes daquela dívida original foram cedidos à F R S Serviços Administrativos Ltda., que inclusive, já os teria habilitado.
+Fica prejudicado, nesses termos, o exame dos recursos especiais como bem já destaco, inclusive por ambos os recorrentes.
+Nessas condições, JULGO PREJUDICADO o recurso especial do BANCO DO BRASIL.
+Publique-se. Intimem-se.
