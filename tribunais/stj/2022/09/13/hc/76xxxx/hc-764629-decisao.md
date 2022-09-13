@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de habeas corpus sem pedido de liminar impetrado em favor de CARLOS CESAR DA COSTA CARNEIRO em que se aponta como autoridade coatora o Tribunal de Justiça do Estado do Rio de Janeiro (Ação Penal n. 0213483-18.2017.8.19.0001).
+O paciente foi condenado por infração ao art. 205, caput, na forma do art. 30, II, ambos do Código Penal Militar, à pena de 2 anos de reclusão, no regime aberto, tendo sido concedido sursis pelo período de 2 anos.
+Interposta apelação pela defesa, o Tribunal de origem negou provimento ao recurso, em acórdão assim ementado (fls. 369-370):
+APELAÇÃO CRIMINAL. CRIME MILITAR. TENTATIVA DE HOMICÍDIO. ART. 205 C/C O ART. 30, II, AMBOS DO CÓDIGO PENAL MILITAR. APELO DEFENSIVO SUSCITANDO NULIDADE PROCESSUAL PELA AUSÊNCIA DE REALIZAÇÃO DO INTERROGATÓRIO DO RÉU, NA FORMA DO ARTIGO 564, INCISO III,"E" DO CÓDIGO DE PROCESSO PENAL. NO MÉRITO, REQUER A ABSOLVIÇÃO, NA FORMA DO ARTIGO 439, "A" DO CÓDIGO PENAL MILITAR, OU NA FORMA DA ALÍNEA "E", DO MESMO DIPLOMA LEGAL.
+1. Preliminar defensiva pela ausência de interrogatório que se rejeita. O interrogatório é o ato processual por meio do qual o acusado tem a faculdade de expor sua versão dos fatos ou permanecer silente. Logo, não há se falar em violação dos princípios do contraditório e da ampla defesa se o próprio acusado, que possui advogado constituído nos autos, ciente das imputações que sobre ele recaem, presente durante a instrução criminal, alega a ocorrência da nulidade apenas em grau recursal. Artigo 571, II, do Código de Processo Penal. Precedentes do STJ.
+2. A prova dos autos não deixa dúvidas de que o apelante, Cabo da Polícia Militar, ao ser abordado por seus colegas de farda, no interior do seu veículo, com a finalidade de proteção, já que se encontrava desacordado, debruçado no volante do carro, parado em local inapropriado, praticou a conduta descrita no artigo 205, caput, c/c artigo 30, II, ambos do Código Penal Militar.
+3. Vítima, policiais militares, bem como testemunha que se encontrava no carona do veículo, todos envolvidos no episódio descrito na denúncia, que prestaram declarações em Juízo em perfeita harmonia e segurança, dando conta de que o réu praticou os fatos consignados na exordial. Provas coligidas pela acusação que se mostraram concludentes e autorizam a manutenção do decreto condenatório.
+4. Dosimetria da pena que não desafia reparos. Regime prisional aberto, com a concessão de sursis, adequadamente estabelecidos.
+RECURSO DEFENSIVO CONHECIDO E DESPROVIDO.
+A defesa alega que a ausência do paciente no interrogatório, durante a instrução criminal, viola a ampla defesa, o devido processo legal e o contraditório. Requer que seja reconhecida a nulidade absoluta do processo por ausência do interrogatório do paciente, devendo ser declarado nulo ainda todos os atos posteriores ao incidente e anteriores a sentença penal.
+As informações foram prestadas às fls. 581-583 e 586-593.
+O Ministério Público Federal manifestou-se pelo não conhecimento do writ ou por sua denegação,caso dele se conheça (fls. 597-602).
+É o relatório. Decido.
+Ainda que inadequada a impetração de habeas corpus em substituição à revisão criminal ou ao recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o Superior Tribunal de Justiça considera passível de correção de ofício o flagrante constrangimento ilegal.
+Não se constata a existência de flagrante constrangimento ilegal que autorize a atuação ex officio.
+O Tribunal de origem afastou a alegação de nulidade nestes termos (fls. 372-373):
+Suscita a Defesa preliminar de nulidade processual por não ter sido realizado o interrogatório do réu.
+Outrossim, é cediço que o interrogatório é o ato processual por meio do qual o acusado tem a faculdade de expor sua versão dos fatos, ou permanecer silente.
+Logo, não há se falar em violação dos princípios do contraditório e da ampla defesa por ausência do referido ato se o próprio acusado, que possuí advogado constituído nos autos, ciente das imputações que sobre ele recaem, presente por ocasião da audiência de instrução e julgamento, alega a ocorrência de nulidade somente em grau recursal.
+Impende destacar que o advogado constituído pelo réu se fez presente na audiência de instrução e julgamento, tendo, inclusive, formulado diversas perguntas à vítima e testemunhas.
+E como bem pontuado pela Procuradoria de Justiça em seu parecer, as nulidades eventualmente ocorridas no curso da instrução criminal, nos processos de competência do juiz singular, devem ser suscitadas na fase do oferecimento das alegações finais, na forma do artigo571, inciso II, do Código de Processo Penal. Nesse sentido:
+ ..
+Rejeita-se, assim, a preliminar suscitada pela Defesa.
+Não há ilegalidades a serem sanadas.
+Sobre o tema em questão, o entendimento desta Corte é de que "A realização de audiência sem a presença do réu configura nulidade relativa, a qual demanda a arguição em momento oportuno e a demonstração de efetivo prejuízo sofrido pela parte" (AgRg no REsp n. 1.530.130/PB, relator Ministro Jorge Mussi, Quinta Turma, julgado em 11/10/2016, DJe de 7/11/2016.)
+No caso, conforme constam dos trechos acima citados, a defesa do paciente não demonstrou eventual prejuízo sofrido em razão da ausência do paciente na audiência, bem como não houve alegação do vício no momento oportuno.
+Nessa linha de entendimento, confiram-se os seguintes julgados:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PROCESSUAL PENAL. AUDIÊNCIA DE INSTRUÇÃO DE JULGAMENTO REALIZADA SEM A PARTICIPAÇÃO DO RÉU. NULIDADE RELATIVA. PREJUÍZO NÃO DEMONSTRADO. RITO PROCESSUAL. INTERROGATÓRIO DO ACUSADO ANTES DA OITIVA DAS TESTEMUNHAS. AUDIÊNCIA REALIZADA NA SISTEMÁTICA PROCESSUAL ANTERIOR À LEI N. 11.719/08. PRINCÍPIO DO TEMPUS REGIT ACTUM. INSURGÊNCIA DESPROVIDA.
+1. A realização de audiência sem a presença do réu configura nulidade relativa, a qual demanda a arguição em momento oportuno e a demonstração de efetivo prejuízo sofrido pela parte.
+2. No caso dos autos, não foi demonstrado eventual prejuízo sofrido pela defesa em razão da ausência do réu na audiência, bem como não houve alegação do vício no momento oportuno, inexistindo nulidade a ser reconhecida.
+3. O artigo 2º do Estatuto Processual Repressivo estabelece o princípio tempus regit actum, segundo o qual a lei processual penal tem eficácia tão logo seja publicada ou decorrido o período de vacatio legis, devendo ser respeitados, entretanto, os atos processuais praticados sob a égide da legislação modificada.
+4. Tendo sido realizada a oitiva do acusado em momento anterior à edição da Lei n. 11.719/2008, não há que se falar em nulidade pela não observância do rito processual nela previsto.
+5. Agravo regimental desprovido.(AgRg no REsp n. 1.530.130/PB, relator Ministro Jorge Mussi, Quinta Turma, julgado em 11/10/2016, DJe de 7/11/2016.)
+DIREITO PROCESSUAL PENAL E PENAL. HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. NULIDADE. AUSÊNCIA DO RÉU DURANTE A AUDIÊNCIA DE INSTRUÇÃO. AMPLA DEFESA. PRECLUSÃO TEMPORAL. NÃO DEMONSTRAÇÃO DE PREJUÍZO. ILEGALIDADE NÃO CARACTERIZADA.  ..  ORDEM PARCIALMENTE CONCEDIDA.
+1. A jurisprudência desta Corte Superior de Justiça tem reconhecido que o direito à presença - desdobramento da autodefesa - não guarda caráter absoluto, devendo ser harmonizado e ponderado com as demais regras e princípios informativos que guarnecem o sistema processual penal. Outrossim, embora seja conveniente, a presença do acusado em audiência de instrução não é indispensável para a validade do ato.
+Trata-se de nulidade relativa, devendo ser alegada em momento oportuno e demonstrado o prejuízo concreto, nos termos dos arts. 563 e 571 do Código de Processo Penal.
+2. A defesa não se manifestou em momento adequado quanto à ausência do acusado na audiência de instrução, deixando para suscitar o vício apenas em sede de razões recursais. Independentemente da situação jurídica do réu, deveria o causídico ter sustentado a suposta nulidade e demonstrado o prejuízo decorrente do não comparecimento.
+Preclusão temporal reconhecida.
+3. Também não houve a demonstração concreta de prejuízo à defesa, nos termos do art. 563 do CPP, não tendo sido demonstrado de que forma o interrogatório do acusado poderia influir no convencimento do magistrado e desconstituir todo o arcabouço fático-probatório amealhado aos autos para incriminá-lo. Aplicação do dogma fundamental do pas de nullité sans grief.
+ ..  (HC n. 416.800/SP, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 3/4/2018, DJe de 9/4/2018.)
+Ressalta-se quenão houve demonstração de prejuízo para o paciente, uma vez que, durante a instrução, esteve representado por seu defensor, que a nada se opôs.
+Segundo entendimento pacífico do STJ, no processo penal, vigora, no campo das nulidades, o princípio pas de nullité sans grief, de modo que deve a parte demonstrar a ocorrência de efetivo prejuízo (RHC n. 97.930/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 19/12/2018; AgRg no AREsp n. 1.454.029/GO, relator Ministro Jorge Mussi, Quinta Turma, DJe de 6/6/2019; e AgRg no RHC n. 68.618/RO, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 9/11/2018).
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
