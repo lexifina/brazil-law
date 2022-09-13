@@ -1,0 +1,33 @@
+DECISÃO
+Cuida-se de habeas corpussubstitutivo de recurso, com pedido de liminar, impetrado em benefício de ANA PAULA LINS FERREIRA, LUCINALVA LINS FERREIRAapontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE PERNAMBUCO no HC n. 0002446-40.2022.8.17.9480.
+Extrai-se dos autos que as pacientes tiveram a prisão preventiva decretada em 26/9/2019, em consonância com a representação da Autoridade Policial e manifestação favorável do Ministério Públicoe restaram denunciadas pela suposta pratica dos delitos previstos nos arts. 171, 180, caput, 297 e 298, c/c o art. 304, todos do Código Penal (estelionato, receptação, falsificação de documento público, falsificação de documento particular e uso de documento falso). O mandado de prisão não foi cumprido e o Magistrado singular determinou a citação das agentes por edital.
+Segundo afirma a ora impetrante, foi impetrado habeas corpus perante o Tribunal de origem, que ainda não decidiu a liminar.
+No presente writ, o impetrante nega a prática delitiva pelas paciente.
+Afirma que as pacientes sequer tiveram conhecimento das acusações, não tendo sido citadas ou notificadas a seu respeito. Aduz que somente no final do ano de 2020 as pacientes tomaram conhecimento da ação penal, após o que constituíram advogado e passaram a contribuir para o deslinde do feito. Assevera que as pacientes têm interesse em se apresentar no processo, mas pretendem responder em liberdade.
+Informam que foi designada audiência para 13/9/2022 e alega que as pacientes pretendem participar do ato por videoconferência, todavia o Juízo de primeiro grau sequer proferiu decisão quanto ao pedido defensivo.
+Assevera que o Tribunal Estadual ainda não decidiu o pedido liminar no habeas corpus.
+Aponta que as pacientes contam com condições pessoais favoráveis e fazem jus ao direito de responder o processo em liberdade.
+Afirma que a jurisprudênciado Supremo Tribunal Federal e desta Corte Superior tem sido firmada no sentido da possibilidade da participação dos acusados por videoconferência na audiências designadas. Aduz, portanto, afronta aos princípios da ampla defesa, da autodefesa e do contraditório no indeferimento do pedido defensivo nesse sentido.
+Pugna, assim, em liminar pela concessão do direito de as pacientes participarem da audiência de instrução e julgamento designada para o dia 13/9/2022 de forma virtual. No mérito requer a determinação pela Autoridade Coatora de data e hora para que as pacientes possam ser interrogadas de forma virtual.
+É o relatório.
+Decido.
+O presente mandamus não merece ser processado.
+Isso porque,a partir da leitura dos autos, vê-se que a matéria aqui aventada,ainda não foi examinada pelo Tribunal de Justiça, tendo em vista que se encontra pendente de julgamento o habeas corpus originário, razão pela qual não pode ser diretamente examinada por esta Corte Superior, sob pena de se incidir em supressão de instância.
+Importa ainda ressaltar que,de acordo com o disposto no art. 105, I, c, da Constituição Federal,esteSuperior Tribunal de Justiça não possui competência para análise direta de ato praticado por Juiz de primeiro grau, que não tenha sido apreciado por Tribunal de origem.
+A propósito, confira-se:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. PRISÃO PREVENTIVA. REVOGAÇÃO. IMPOSSIBILIDADE. PREENCHIMENTO DOS REQUISITOS LEGAIS. GARANTIA DA ORDEM PÚBLICA. SUBSTITUIÇÃO POR MEDIDAS CAUTELARES ALTERNATIVAS. NÃO CABIMENTO. RISCO DE REITERAÇÃO DELITIVA. APREENSÃO DE EXPRESSIVA QUANTIDADE DE DROGAS. REVISÃO DE OFÍCIO. PRISÃO PREVENTIVA. ÓRGÃO EMISSOR DA DECISÃO. SUPRESSÃO DE INSTÂNCIA. MATÉRIA NÃO APRECIADA PELO TRIBUNAL DE ORIGEM. DECISÃO FUNDAMENTADA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A imprescindibilidade da prisão preventiva justificada no preenchimento dos requisitos dos arts. 312, 313 e 315 do CPP impede a aplicação das medidas cautelares alternativas previstas no art. 319 do CPP.
+2. São fundamentos idôneos para a decretação da segregação cautelar no caso de tráfico ilícito de entorpecentes a quantidade, a variedade ou a natureza das drogas apreendidas, bem como a gravidade concreta do delito, o modus operandi da ação delituosa e a periculosidade do agente.
+3. A revisão de ofício da necessidade de manutenção da prisão cautelar a cada 90 dias (art. 316, parágrafo único, do CPP) cabe tão somente ao órgão emissor da decisão, ou seja, ao juiz ou tribunal que decretou a custódia preventiva.
+4. O exame pelo Superior Tribunal de Justiça de matéria que não foi apreciada pelas instâncias ordinárias enseja indevida supressão de instância, com explícita violação da competência originária para o julgamento de habeas corpus (art. 105, I, c, da Constituição Federal).
+5. Agravo regimental desprovido.
+(AgRg no HC 657.123/PE, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUINTA TURMA, julgado em 11/05/2021, DJe 13/05/2021)
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. EXCESSO DE PRAZO PARA A REVISÃO DA PRISÃO PREVENTIVA. WRIT QUE INVESTE CONTRA OMISSÃO DE JUIZ DE PRIMEIRO GRAU. INCOMPETÊNCIA DESTA CORTE. MATÉRIA NÃO ANALISADA PELO EG. TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. INVIABILIDADE DE APRECIAÇÃO DA MATÉRIA. INEXISTÊNCIA DE NOVOS ARGUMENTOS HÁBEIS A DESCONSTITUIR A DECISÃO IMPUGNADA. AGRAVO REGIMENTAL DESPROVIDO.
+I - Verifica-se que o presente writ se insurge contra omissão de Juiz de primeiro grau, em razão do excesso de prazo para a revisão nonagesimal da prisão preventiva imposta ao ora agravante.
+II - Falece competência ao Superior Tribunal de Justiça, a teor do art. 105, inciso I, "c", da Constituição Federal, para julgar habeas corpus impetrado diretamente nesta Corte Superior contra omissão de Juiz de primeiro grau. Precedentes.
+III - Quanto à alegação de que há omissão por parte do eg. Tribunal de origem, porquanto não foi realizada a revisão periódica da necessidade de manutenção da segregação cautelar do agravante, insta consignar que não há nos autos qualquer manifestação do eg. Tribunal de Justiça do Estado de São Paulo, e esta eg. Corte Superior firmou entendimento no sentido de que "compete apenas ao órgão emissor da decisão a obrigação de revisar a prisão, ou seja, ao juiz ou tribunal que decretar a custódia preventiva" (AgRg nos EDcl no HC n. 605.590/MT, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 15/10/2020).
+Agravo Regimental desprovido.
+(AgRg no HC 624.902/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 02/02/2021, DJe 09/02/2021)
+Por tais razões, nos termos do art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se.
+Intimem-se.
