@@ -1,0 +1,14 @@
+DECISÃO
+EDER DOS ANJOS DO NASCIMENTO alega sofrer coação ilegal em seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação Criminal n. 1500803-69.2021.8.26.0616.
+A defesa pretende o reconhecimento da confissão espontânea e a consequente compensação com a reincidência.
+O Ministério Público Federal opinou pelo não conhecimento da impetração (fls. 79-84).
+Decido.
+Em relação à confissão espontânea do paciente, constou da sentença que, "em seu interrogatório judicial, o réu Eder dos Santos do Nascimento disse que na data dos fatos realmente tentou subtrair os bens descritos na inicial acusatória" (fl. 34).
+Esta Corte Superior possui o entendimento de que, se a confissão do acusado foi utilizada para corroborar o acervo probatório e fundamentar a condenação, deve incidir a atenuante, sendo irrelevante o fato de a confissão ter sido espontânea ou não, total ou parcial, ou mesmo que tenha havido posterior retratação. Dessa forma, verifico o constrangimento ilegal de que estaria sendo vítima o paciente, haja vista que a confissão do réu foi utilizada para corroborar o acervo probatório e fundamentar a condenação, devendo incidir a atenuante prevista no art. 65, III, "d", do Código Penal.
+Nesse sentido foi editada a Súmula n. 545 do STJ, verbis: "Quando a confissão for utilizada para a formação do convencimento do julgador, o réu fará jus à atenuante prevista no art. 65, III, d, do Código Penal".
+Sobre a pretendida compensação, no julgamento dos EREsp n. 1.154.752/RS, ocorrido em 23/5/2012 (DJe 4/9/2012), a Terceira Seção deste Superior Tribunal pacificou o entendimento de que, observadas as peculiaridades do caso concreto, "É possível, na segunda fase da dosimetria da pena, a compensação da agravante da reincidência com a atenuante da confissão espontânea, por serem igualmente preponderantes, de acordo com o artigo 67 do Código Penal".
+Assim, constato que não há óbice à compensação integral entre a confissão espontânea e a reincidência, pois não foram apontadas múltiplas condenações configuradoras da agravante.
+Reconhecida a ilegalidade apontada pela defesa, passo a readequação da pena.
+Partindo dos critérios adotados pelas instâncias ordinárias, mantenho a a pena-base fixada na origem, em 4 anos e 8 meses de reclusão mais 11 dias-multa, pelos maus antecedentes e pela culpabilidade. Na segunda fase, reconhecida a confissão espontânea, realizo a compensação integral com a reincidência, o que mantém a sanção inalterada. Na terceira etapa, ausentes causas de aumento e de diminuição, torno a pena definitivamente estabelecida em 4 anos e 8 meses de reclusão mais 11 dias-multa.
+À vista do exposto, concedo a ordem, a fim de reconhecer a confissão e compensá-la integralmente com a reincidência, redimensionando a pena para 4 anos e 8 meses de reclusão mais 11 dias-multa.
+Publique-se e intimem-se.
