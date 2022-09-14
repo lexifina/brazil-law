@@ -1,0 +1,28 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região) e Laurita Vaz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por Marilene Francisca da Silvacontra o acórdão que negou provimento ao agravo regimental por ela manifestado (fls. 644/648):
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. PENAL. TRÁFICO DE DROGAS (44,075 KG DE MACONHA). VIOLAÇÃO DO ART. 33, § 2º, B, DO CP. DOSIMETRIA. PLEITO DE ABRANDAMENTO DO REGIME PRISIONAL. PENA-BASE PRESERVADA ACIMA DO MÍNIMO LEGAL. FUNDAMENTAÇÃO CONCRETA. EXPRESSIVA QUANTIDADE DE ENTORPECENTE APREENDIDO. APLICAÇÃO DO ART. 33, § 3º, DO CP.
+1. No que se refere ao regime prisional fixado, o entendimento esposado pelas instâncias ordinárias não merece reparos, mormente em função da escorreita aplicação do art. 33, § 3º, do Código Penal, haja vista a presença de circunstância judicial negativa, que condicionou a fixação da pena-base acima do mínimo legal.
+2. O regime fechado é o adequado para o cumprimento da pena reclusiva de 6 anos, 9 meses e 20 dias de reclusão, tendo em vista a aferição desfavorável das circunstâncias judiciais, nos termos dos arts. 33 e 59 do Código Penal (AgRg no HC n. 557.615/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 16/4/2020).
+3. Agravo regimental desprovido.
+Alega a embargante que, do acórdão, extrai que à pena da embargante preservou-se o aumento em 1/6, totalizando às penas de 5 anos e 10 meses de reclusão, mais pagamento de 583 dias-multa.  ..  Do coréu Luis Fernando: preservou-se o aumento em 1/6, totalizando às penas de 4 anos, 10 meses e 10 dias de reclusão.  ..  Deste modo, não restou alternativa à embargante senão a oposição dos presentes Embargos de Declaração.  ..  Inconformado com a decisão do agravo regimental, do pleno do SUPERIOR TRIBUNAL DE JUSTIÇA, publicada no DJE, em 30/06/2022, às Fls.644/644.  ..  NEGOU PROVIMENTO À MATÉRIA SUSCITADA AO REGIME DE CUMPRIMENTO DA PENA, REGIME FECHADO PARA REGIME SEMI ABERTO, E TORNOU ÀPENA EXACERBADA.  ..  No caso em questão apenas a embargante havia recorrido da decisão do acórdão do Recurso Especial, pedindo expressamente a redução da aplicação do REGIME DE CUMPRIMENTO DA PENA DE REGIME FECHADO PARA O SEMIABERTO.  ..  Nesse sentido, denota que houve reformatio in pejus, ressaltando, que à aplicação da pena não foi suscitada no Agravo Regimental (fls. 654/655).
+Ao final da peça recursal, requer sejam acolhidos os presentes Embargos de Declaração para suprimento da contradição apontada, para a fim manter à PENA APLICADA DA DECISÃO MONOCRÁTICA, que conheceu parcial do Recurso Especial (fl. 1.452).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO EMAGRAVO REGIMENTAL EMRECURSO ESPECIAL. PENAL. TRÁFICO DE DROGAS (44,075 KG DE MACONHA). VIOLAÇÃO DO ART. 33, § 2º, B, DO CP. DOSIMETRIA. PLEITO DE ABRANDAMENTO DO REGIME PRISIONAL. PENA-BASE PRESERVADA ACIMA DO MÍNIMO LEGAL. FUNDAMENTAÇÃO CONCRETA. EXPRESSIVA QUANTIDADE DE ENTORPECENTE APREENDIDO. APLICAÇÃO DO ART. 33, § 3º, DO CP. CONTRADIÇÃO. REFORMATIO IN PEJUS. INCORRÊNCIA. CARÁTER PROTELATÓRIO. ADVERTÊNCIA.
+1. O agravo regimental foi desprovido, mantendo, na íntegra, a decisão monocrática de fls. 605/620. Não há que se falar em reformatio in pejus.
+2. Não há contradição a ser sanada. Trata-se de mero inconformismo da parte. Objetivam os declaratórios, na verdade, rediscutir fundamentos do acórdão embargado, finalidade imprópria na via recursal.
+3. Embargos de declaração rejeitados.
+VOTO
+O agravo regimental foi desprovido, mantendo, na íntegra, a decisão monocrática de fls. 605/620. Não há que se falar em reformatio in pejus.
+Embora a embargante tenha alegado a ocorrência de contradição no fundamento do acórdão, verifica-se que se trata de mero inconformismo da parte. Objetivam os declaratórios, na verdade, rediscutir fundamentos do acórdão embargado, finalidade imprópria na via recursal.
+Diante da manifesta improcedência dos aclaratórios, cumpre advertir a embargante de que a oposição de novos embargos de declaração (manifestamente improcedentes) ensejará a aplicação dos consectários delineados na jurisprudência desta Corte, a saber: baixa imediata dos autos com certificação do trânsito em julgado.
+Nesse sentido:
+PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AMBIGUIDADE, OBSCURIDADE, CONTRADIÇÃO OU OMISSÃO. INEXISTÊNCIA. RECURSO COM NÍTIDO CARÁTER PROTELATÓRIO. ABUSO DO DIREITO DE DEFESA. REMESSA DOS AUTOS AO SUPREMO TRIBUNAL FEDERAL PARA ANÁLISE DO AGRAVO EM RECURSO EXTRAORDINÁRIO PENDENTE. DETERMINAÇÃO DE BAIXA IMEDIATA DOS AUTOS PARA EXECUÇÃO DA PENA DOS DEMAIS EMBARGANTES.
+1. A mera desconformidade do embargante com a rejeição da tese que entende cabível não caracteriza omissão, porquanto insiste em rediscutir matéria que já foi devidamente rechaçada por esta Corte de Justiça em recursos anteriores.
+2. A reiteração recursal sem inovação evidencia o caráter protelatório do recurso, configurando abuso do direito de defesa.
+3. Embargos de declaração rejeitados, determinando-se a imediata remessa dos autos ao Supremo Tribunal Federal para o julgamento do agravo em recurso extraordinário de C A A e determinação da imediata baixa dos autos para execução da pena de Z D L e D F A, procedendo-se à certificação do trânsito em julgado.
+(EDcl nos EDcl no AgRg no AREsp n. 869.043/RJ, Ministro Nefi Cordeiro, Sexta Turma, DJe 11/6/2018).
+Ante o exposto, rejeito os embargos de declaração.
