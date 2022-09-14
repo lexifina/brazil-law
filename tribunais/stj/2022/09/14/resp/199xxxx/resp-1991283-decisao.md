@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especial interposto pelaFAZENDA DO ESTADO DE SÃO PAULO com fundamento no art. 105, III, a e c, da Constituição Federal.
+Na origem, o contribuinte ajuizou agravo de instrumento em face de decisão que deferiu em parte o pedido liminar para autorizar a expedição de certidão de regularidade fiscal e a exclusão do nome da ora recorrida do CADIN, mas não suspendeu a exigibilidade do crédito tributário.
+O TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO deu provimento ao agravo de instrumento em acórdãoassim ementado, in verbis:
+AGRAVO DE INSTRUMENTO. AÇÃO CAUTELAR. Decisão atacada que deferiu em parte a liminar, para autorizar a expedição de certidão de regularidade fiscal e a exclusão do nome da agravante do CADIN, mas não impediu a suspensão da exigibilidade do crédito tributário. Possibilidade. O oferecimento de seguro garantia permite a suspensão do débito tributário. Decisão alterada. Recurso provido, com observação.
+Os embargos de declaração opostos foram rejeitados.
+Em sede de juízo de adequação ao Tema 378, o acórdão recorrido foi mantido.
+No presente recurso especial, a FAZENDA DO ESTADO DE SÃO PAULO aponta violação dos arts. 1.022 do CPC/2015 e 151, II, do CTN.Sustenta, em síntese, queembora o seguro possa ser utilizado para garantir o juízo e possibilitar a apresentação de embargos à execução fiscal no contexto da Lei Federal nº 6.830/80, não tem aptidão para suspender a exigibilidade do crédito em ação judicial.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+É o relatório. Decido.
+A Primeira Seção do Superior Tribunal de Justiça firmou orientação segundo a qual "a suspensão da exigibilidade do crédito tributário encontra-se taxativamente prevista no art. 151 do CTN, sendo certo que a prestação de caução, mediante o oferecimento de fiança bancária, ainda que no montante integral do valor devido, não ostenta o efeito de suspender a exigibilidade do crédito tributário, mas apenas de garantir o débito exequendo, em equiparação ou antecipação à penhora, com o escopo precípuo de viabilizar a expedição de Certidão Positiva com Efeitos de Negativa e a oposição de embargos" (REsp 1156668/DF, repetitivo, Rel. Ministro Luiz Fux, Primeira Seção, julgado em 24/11/2010, DJe 10/12/2010).
+Portanto, o seguro-garantia e a carta-fiança não servem para a finalidade de suspender a exigibilidade do crédito tributário cobrado. A respeito: AgInt no REsp 1854357/DF, Rel. Ministro Benedito Gonçalves, Primeira Turma, julgado em 07/12/2020, DJe 11/12/2020; AgInt no AREsp 1646379/RJ, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 21/09/2020, DJe 01/10/2020.
+Nesse sentido:
+PROCESSO CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. PROTESTO. DÉBITO CAUCIONADO. AÇÃO CAUTELAR. AUSÊNCIA DE SUSPENSÃO DA EXIGIBILIDADE DO CRÉDITO TRIBUTÁRIO. PRECEDENTES. POSSIBILIDADE DE PROTESTO DA CDA EXIGÍVEL. RECURSO ESPECIAL PARCIALMENTE CONHECIDO PARA NESSA EXTENSÃO NEGAR-LHE PROVIMENTO.
+1. Deveras, segundo o entendimento desta Corte, o oferecimento de caução não suspende a exigibilidade do crédito tributário, nos termos do artigo 151 do CTN (REsp.1.156.668/DF, Primeira Seção, Rel. Min. Luiz Fux, Dje 10.12.2010; AgRg na MC 19.128/SP, Rel. Min. Francisco Falcão, DJe 24.8.2012), inexistindo neste ínterim, impedimento para a inscrição do débito em dívida ativa, e posteriormente protesto da certidão de dívida ativa (REsp 1796295/ES, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 28/03/2019, DJe 22/04/2019).
+2. Para a caracterização da divergência jurisprudencial, não basta a simples transcrição das ementas dos acórdãos confrontados, devendo ser mencionadas e expostas as circunstâncias que identificam ou assemelham os casos confrontados, sob pena de não serem atendidos os requisitos previstos no art. 1.029, § 1º, do CPC/2015 e no art. 255, § 1º, do RISTJ. Ademais, em que não se verifica similitude fática entre os arestos confrontados, que se baseiam em premissas fáticas distintas.
+3. Recurso Especial parcialmente conhecido, para nessa extensão negar-lhe provimento.
+(REsp 1775749/SC, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 22/09/2020, DJe 29/09/2020)
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. CDA. EXIGIBILIDADE DO CRÉDITO. SEGURO GARANTIA. SUSTAÇÃO DE PROTESTOS. EQUIPARAÇÃO AO DEPÓSITO EM DINHEIRO. IMPOSSIBILIDADE. JURISPRUDÊNCIA SÓLIDA DO STJ. SÚMULA 83/STJ. RECURSO ESPECIAL NÃO CONHECIDO.
+1. A irresignação não merece conhecimento.
+2. Com efeito, o acórdão recorrido encontra-se em harmonia com a jurisprudência do STJ de ser inviável a equiparação do seguro garantia ou da fiança bancária ao depósito judicial em dinheiro e integral para efeito de suspensão de exigibilidade do crédito não tributário ou tributário; na verdade, somente o depósito em dinheiro viabiliza a suspensão determinada no artigo 151 do CTN (REsp. 1.156.668/DF, Primeira Seção, Rel. Min. Luiz Fux, Dje 10.12.2010; AgRg na MC 19.128/SP, Rel. Min. Francisco Falcão, DJe 24.8.2012).
+3. Dessume-se, portanto, que o acórdão recorrido está em total sintonia com o atual entendimento do Superior Tribunal de Justiça, razão pela qual incide a regra estabelecida na Súmula 83/STJ.
+4. Prejudicada a análise do dissídio jurisprudencial.
+5. Recurso Especial não conhecido.
+(REsp 1796295/ES, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 28/03/2019, DJe 22/04/2019)
+Desta forma, tenho que o acórdão recorrido destoa do entendimento firmado neste Superior Tribunal de Justiça, razão pela qual o recurso merece provimento.
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para manter a exigibilidade do crédito tributário.
+Publique-se. Intimem-se.
