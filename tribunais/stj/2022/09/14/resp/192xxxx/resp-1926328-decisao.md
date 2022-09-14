@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso especial interposto por RENTAUTO LOCADORA DE VEICULOS S/A com fundamento no art. 105, a, da Constituição Federal, contra o acórdão assim ementado:
+EMENTA: I - APELAÇÃO CÍVEL. TRIBUTÁRIO. ICMS. AÇÃO ORDINÁRIA PARA FINS DE DECLARAÇÃO DE INEXIGIBILIDADE DE CRÉDITO TRIBUTÁRIO. SENTENÇA QUE JULGOU PROCEDENTE O PEDIDO INICIAL, A FIM DE RECONHECER A INEXIGIBILIDADE DO DÉBITO TRIBUTÁRIO RESULTANTE DO PAF. II - PRELIMINAR. SENTENÇA EXTRA PETITA. DECISÃO QUE ANALISOU CAUSA DE PEDIR E PEDIDO DIVERSO DO CONTIDO NA EXORDIAL. NULIDADE RECONHECIDA. MATÉRIA UNICAMENTE DE DIREITO. POSSIBILIDADE DE JULGAMENTO IMEDIATO DO MÉRITO. APLICAÇÃO DO DISPOSTO NO § 3º, INC. II, DO ART. 1.013 DO CPC/2015. TEORIA DA CAUSA MADURA. III - RECURSO DO ESTADO DO PARANÁ. PLEITO PELO RECONHECIMENTO DO TRIBUTO DECORRENTE DE AUTO DE INFRAÇÃO. ACOLHIMENTO. AQUISIÇÃO DE AUTOMÓVEIS DESTINADOS AO ATIVO IMOBILIZADO DA EMPRESA CONTRIBUINTE.
+BENEFÍCIO FISCAL CONCEDIDO, PARA A REDUÇÃO DA ALÍQUOTA DE 18% PARA 12%, CONDICIONADO A NÃO ALIENAÇÃO DOS BENS EM PRAZO INFERIOR A 12 MESES. REDAÇÃO ORIGINAL DO ART. 14 DA LEI ESTADUAL Nº 11.580/96 C/C ART. 14, §§ 3º E 4º, DO DECRETO Nº 1.980/2007. DESCUMPRIMENTO EVIDENCIADO. CONTRIBUINTE QUE TRANSMITIU A PROPRIEDADE DOS BENS À INSTITUIÇÃO FINANCEIRA ANTES DO PRAZO DETERMINADO. TRANSMISSÃO PATRIMONIAL, EM CONTRATO DE ARRENDAMENTO MERCANTIL, QUE NÃO EXIGE A TRADIÇÃO DO BEM. PRECEDENTE DESTA CORTE. III - RECONHECIMENTO DA EXIGIBILIDADE DA DIFERENÇA DAS ALÍQUOTAS. IV - RECURSO PROVIDO.
+O recorrente apontou ofensa aos arts. 1267 do CC e art. 110 do CTN. Argumenta, em suma, que de acordo com a regra prevista nos parágrafos 3º e 4º do art. 14 da Lei Estadual n. 11.580/1996, as operações do recorrente consistente na aquisição de veículos e a oferta desses em garantia, não implicariam na perda da redução das alíquotas de ICMS prevista no referido diploma legal.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+É o relatório. Decido.
+O presente feito não é cognoscível.
+Embora a parte recorrente tenha alegado a violação de dispositivo legal federal, a análise do acórdão recorrido em confronto com o arrazoado recursalrevela que o Tribunal de origem fundamentou a sua decisão na interpretação da legislação local, conforme se infere do exposto no fragmento do voto condutor transcrito a seguir:
+Pois bem. Verifica-se que a Lei Estadual nº 11.580/96 previu, em sua redação original, vigente à época dos fatos, a redução da alíquota do ICMS de 18% para 12%, em relação aos veículos automotores novos destinados ao ativo imobilizado do adquirente:
+Art. 14. As alíquotas internas são seletivas em função da essencialidade dos produtos ou serviços, assim distribuídas:
+ ..  II - alíquota de doze por cento  ..  nas operações com os seguintes bens e mercadorias  .. :
+ ..  o) veículos automotores novos  ..  observado o disposto no § 2º deste artigo;
+ ..  § 2º. A aplicação da alíquota prevista na alínea o do inciso II deste artigo, independerá da sujeição ao regime da substituição tributária nas seguintes situações:
+ ..  II -  ..  quando destinado ao ativo imobilizado do adquirente.
+Contudo, o Regulamento do ICMS (Decreto nº 1.980/2007), também vigente à época, dispôs que, para a concessão do benefício fiscal, o contribuinte não poderia alienar os veículos em prazo inferior a 12 (doze) meses da data de aquisição, como consta dos §§ 3º e 4º de seu artigo 14:
+Art. 14. As alíquotas internas são seletivas em função da essencialidade dos produtos ou serviços, assim distribuídas (art. 14 da Lei n. 11.580/96):
+ ..  IV - alíquota de 12% (doze por cento):
+a) nas operações com os seguintes produtos  .. :
+ ..  13. veículos automotores novos  ..  observado o disposto no § 2º deste artigo;
+ ..  § 2º A aplicação da alíquota prevista para as mercadorias relacionadas no item 13 da alínea "a" do inciso IV, independerá da sujeição ao regime da substituição tributária nas seguintes situações:
+ ..  c)  ..  quando destinado ao ativo imobilizado do adquirente.
+ ..  § 3º Para a fruição do previsto na alínea "c" do § 2º, o estabelecimento adquirente do veículo destinado ao ativo imobilizado somente poderá aliená-lo, ou transferi-lo para outro Estado, após o decurso de doze meses da respectiva entrada  .. .
+ ..  § 4º O estabelecimento adquirente de que trata o § 3º que vier a alienar, ou transferir para outro Estado, o veículo adquirido para o ativo imobilizado, antes do decurso de doze meses da respectiva entrada, deverá recolher o imposto correspondente à diferença entre a aplicação das alíquotas previstas no inciso VI e no inciso IV sobre a base de cálculo da aquisição original, com os acréscimos legais calculados desde a data da aquisição.  grifo nosso
+Depreende-se do art. 105, III, a, da Constituição Federal, que a competência do Superior Tribunal de Justiça, na via do recurso especial, encontra-se vinculada à interpretação e à uniformização do direito infraconstitucional federal.
+Sendo assim, a resolução da questão controvertida com fundamento na interpretação da legislação local inviabiliza a apreciação da controvérsia por esta Corte Superior, na via estreita do recurso especial, uma vez que atrai a incidência, por analogia, do óbice ao conhecimento recursal constante do enunciado da Súmula n. 280 do STF, segundo o qual in verbis: "Por ofensa a direito local não cabe recurso extraordinário".
+Por outro lado se observa que para afastar a convicção do julgador pela existência de transferência da propriedade dos veículos, o que implicava no afastamento do favor fiscal entelado, seria necessária a análise do conjunto probatório dos autos, o que é indevido no âmbito do recurso especial. Incidência da súmula 7/STJ.
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ não conheço do recurso especial.
+Publique-se. Intimem-se.
