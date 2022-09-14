@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto pelaSEGURADORA LÍDER DO CONSÓRCIO DO SEGURO DPVAT S.A.contra decisão que negou seguimento ao seu apelo nobre manejado, por sua vez, contra acórdão do Tribunal de Justiça deMato Grosso do Sul, assim ementado:
+APELAÇÕES CÍVEL - AÇÃO DE COBRANÇA DE SEGURO DPVAT - ENQUADRAMENTO DA LESÃO - LAUDO PERICIAL - ÔNUS DE SUCUMBÊNCIA - PRINCÍPIO DA CAUSALIDADE - HONORÁRIOS ADVOCATÍCIOS - FIXAÇÃO SOBRE O VALOR DA CAUSA - POSSIBILIDADE- RECURSOS DESPROVIDOS.
+Embora o valor da indenização tenha sido arbitrado abaixo do pleiteado na exordial, a Seguradora deve arcar integralmente com o pagamento das custas processuais e honorários, por força do princípio da causalidade, vez que foi ela quem deu causa ao ajuizamento da ação.
+Em regra, os honorários serão fixados entre o mínimo de 10% e o máximo de 20% sobre o valor da condenação, do proveito econômico obtido ou, não sendo possível mensurá-lo, sobre o valor atualizado da causa. Apresentando-se inestimável ou irrisório o valor da condenação, o julgador pode adotar como parâmetro o valor da causa para fixar a verba honorária, com base no conceito de equidade previsto no art. 85, § 8º, do CPC.
+Os embargos declaratórios opostos foram rejeitados, conforme ementa a seguir transcrita:
+EMBARGOS DE DECLARAÇÃO EM APELAÇÃO CÍVEL - PRETENSÃO DE REDISCUTIR A MATÉRIA JÁ DECIDIDA PELACÂMARA - IMPOSSIBILIDADE - PREQUESTIONAMENTO - EMBARGOS REJEITADOS.
+Se a embargante entende que a decisão desta Câmara não foi justa, o meio adequado para impugná-la não é por meio de embargos de declaração, mormente quando não existe a omissão apontada.
+O juiz não está obrigado a responder a todas as alegações das partes, quando já tenha encontrado motivo suficiente para fundar a decisão. Ao qualificar os fatos levados a seu conhecimento, não fica o órgão julgador adstrito ao fundamento legal invocado pelas partes.
+Inconformada, a SEGURADORA LÍDER DO CONSÓRCIO DO SEGURO DPVAT S.A.manejou recurso especial com fundamento no art. 105, III, a e c, da CF, alegando violação do art. 85, §2º,do CPC, além de dissídio jurisprudencial, sob o argumento de que os honorários advocatícios deveriam ter sido fixados tendo como base o valor da condenação (R$ 675,00) e não o valor dado à causa (R$ 9.450,00), o que considera desproporcional e exorbitante, porquanto a verba honorária seria maior do que o valor da indenização devida.
+O apelo nobre não foi admitido em virtude da incidência das Súmulas n.ºs 7 e 83 do STJ (e-STJ, fls. 459/460).
+Nas razões do presente agravo em recurso especial, a SEGURADORA LÍDER DO CONSÓRCIO DO SEGURO DPVAT S.A rebate a incidência das Súmulas n.ºs 7 e 83 do STJ (e-STJ, fls. 462/469).
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial.
+Do critério de fixação dos honorários
+Nas razões do presente recurso, a SEGURADORA LÍDER DO CONSÓRCIO DO SEGURO DPVAT S.A. apontou a violação do art. 85, § 2º, do CPC, além de dissídio jurisprudencial, sob o argumento de que os honorários advocatícios deveriam ter sido fixados tendo como base o valor da condenação (R$ 675,00) e não o valor dado à causa (R$ 9.450,00), fato que consideroudesproporcional e exorbitante, porquanto a verba honorária seria maior do que o valor da indenização devida.
+O critério de arbitramento de honorários realizado na instância de origem levou em consideração o valor atualizado da causa, tendo em vista que o valor obtido na condenação foi muito baixo e resultaria em verba honorária irrisória, aquém do trabalho e dedicação desenvolvido pelo advogado emprimeira e segunda instâncias.
+Encontra-se consignado no acórdão recorrido o seguinte:
+Como se vê, em regra, os honorários serão fixados entre o mínimo de 10% e o máximo de 20% sobre o valor da condenação, do proveito econômico obtido ou, não sendo possível mensurá-lo, sobre o valor atualizado da causa.
+Nas causas em que for inestimável ou irrisório o proveito econômico ou, ainda, quando o valor da causa for muito baixo, o juiz fixará o valor dos honorários por apreciação equitativa. In casu, tem-se que a apelante foi condenada ao pagamento de indenização securitária (DPVAT), no valor R$ 675,00 e também ao adimplemento das custas processuais e honorários de sucumbência, estes arbitrados em 15% do valor dado a causa, com fulcro no artigo 85, § 2º, do CPC.
+Nesse prisma, em princípio, os honorários advocatícios deveriam ter sido fixados levando em consideração o valor da condenação. Todavia, ocorre que os parâmetros estabelecidos no § 2º do art. 85 do CPC (mínimo de 10% e o máximo de 20% sobre o valor da condenação) resultariam em importância ínfima (R$ 101,25), motivo pelo qual o magistrado sentenciante entendeu por bem adotar o valor da causa como base, R$ 9.450.00 (e-STJ Fl.316).
+Esta Turma, em julgado recente, decidiu que a base de cálculo dos honorários advocatícios pode ser feita por apreciação equitativaquando, mesmo havendo condenação, o proveito econômico for irrisório.
+Vejamos:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. CONDENAÇÃO. VERBA HONORÁRIA SUCUMBENCIAL. FIXAÇÃO. VALOR DA CONDENAÇÃO. REGRA GERAL. ENTENDIMENTO FIRMADO NA EG. SEGUNDA SEÇÃO DO STJ (RESP N.º 1.746.072/PR, DJE 29/3/2019. ACÓRDÃO RECORRIDO EM DESACORDO COM A JURISPRUDÊNCIA DOMINANTE DO STJ. SÚMULA N.º 568 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+2. A Segunda Seção, ao interpretar as regras do art. 85, §§ 2º e 8º, do novo CPC, decidiu que os honorários advocatícios sucumbenciais devem ser estabelecidos segundo a seguinte ordem de preferência:(I) primeiro, quando houver condenação, devem ser fixados entre 10% e 20% sobre o montante desta (art. 85, § 2º); (II) segundo, não havendo condenação, serão também fixados entre 10% e 20%, das seguintes bases de cálculo: (II.a) sobre o proveito econômico obtido pelo vencedor (art. 85, § 2º); ou (II.b) não sendo possível mensurar o proveito econômico obtido, sobre o valor atualizado da causa (art. 85, § 2º); por fim, (III) havendo ou não condenação, nas causas em que for inestimável ou irrisório o proveito econômico ou em que o valor da causa for muito baixo, deverão, só então, ser fixados por apreciação equitativa (art. 85, § 8º) (REsp 1.746.072/PR, Rel. p/ acórdão Min. RAUL ARAÚJO, DJe de 29/3/2019).
+(..)
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.071.165/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 15/8/2022, DJe de 17/8/2022)
+De todo modo, o Tribunal de Justiça deMato Grosso do Sul apenas ratificou os critérios de fixação dos honorários advocatícios arbitrados no primeiro grau, os quais, mesmo tendo como base o valor da causa, se aproximam muito do critério da equidade em termos valorativos, de forma que, se trocado um critério pelo outro, não haveria diferenças significativas, o que macula, no presente caso, inclusive, o interesse recursal da parte.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NA TUTELA PROVISÓRIA NO RECURSO ESPECIAL. DECISÃO QUE CONFIRMOU TUTELA ASSEGURADA NO ACÓRDÃO RECORRIDO. FALTA DE INTERESSE RECURSAL. AUSÊNCIA DE UTILIDADE. RECURSO NÃO CONHECIDO.
+(..)
+3. Nesse contexto, não há interesse recursal do agravante, pois eventual reforma da decisão ora recorrida não lhe traria qualquer utilidade, haja vista que estaria mantida a mesma ordem judicial, em razão do acórdão proferido na origem.
+4. Agravo interno não conhecido.
+(AgInt na TutPrv no REsp n. 1.833.039/MG, relator Ministro Og Fernandes, Segunda Turma, julgado em 16/8/2022, DJe de 25/8/2022)
+Dessa forma, pode-se afirmar que o acórdão recorrido não destoa da jurisprudência desta Corte, no que concerne aos critérios de apuração dos honorários advocatícios, tanto que aplicável, no caso, o teor da Súmula n.º 568 do STJ em virtude de haver jurisprudência consolidada sobre o tema proposto.
+Nessas condições, com fundamento no art. 1.042, § 5º, do NCPC, c/c o art. 253 do RISTJ (com a nova redação que lhe foi dada pela Emenda n.º 22 de 16/3/2016, DJe 18/3/2016), CONHEÇO do agravo paraNEGAR PROVIMENTOao recurso especial.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO INTERPOSTO SOB A ÉGIDE DO NCPC. SEGURO DPVAT. COBRANÇA. VALOR DOS HONORÁRIOS. FIXAÇÃO. BASE. VALOR DA CAUSA E CRITÉRIO DAEQUIDADE. SIMILARIDADE. INTERESSE RECURSAL. NÃO RECONHECIMENTO. ACÓRDÃO RECORRIDO EJURISPRUDÊNCIA DO STJ. CONSONÂNCIA. SÚMULAN.º568 DO STJ. AGRAVO CONHECIDO. RECURSO.
