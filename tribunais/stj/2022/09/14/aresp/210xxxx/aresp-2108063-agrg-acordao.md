@@ -1,0 +1,28 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região) e Laurita Vaz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Trata-se de agravo regimental interposto por Francieldo Cunha Gomes contra a decisão lançada às fls. 1.488/.1491, na qual conheci do agravo para negar provimento ao recurso especial por ele interposto.
+Em suas razões, o agravante insiste na tese segundo a quala fração de1/8 calculada entre a pena mínima e a pena máxima do tipo penal  ..  se mostra excessivamente gravoso contra o ora Agravante, haja vista que a jurisprudência deste Superior Tribunal de Justiça se firmou no sentido de que para a aplicação de fração mais gravosa precisa ser motivada pelas circunstâncias do crime(fl. 343).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. CRIME DE EMBRIAGUEZ AO VOLANTE. DOSIMETRIA. ELEVAÇÃO DA PENA-BASE. ALEGAÇÃO DE DESPROPORCIONALIDADE. NÃO OCORRÊNCIA. INTERVALO ENTRE OS LIMITES MÍNIMO E MÁXIMO DA PENA PREVISTA PARA O DELITO EM QUESTÃO. CRITÉRIO VÁLIDO. REGIMENTAL.MERO INCONFORMISMO. PRETENSÃO DE REDISCUTIR MATÉRIA JÁ ENFRENTADA NA DECISÃO AGRAVADA.
+1. O agravante não logrou êxito em demonstrar qualquer argumento capaz de modificar as razões expostas na decisão ora combatida, numa nítida tentativa de rediscussão da matéria enfrentada e rechaçada monocraticamente.
+2.A divisão do intervalo entre o mínimo e o máximo da pena em abstrato pelas oito circunstâncias judiciais previstas no art. 59 do CP é um, entre outros, dos critérios que podem ser utilizados na fixação da pena-base (AgRg no REsp n. 1.704.633/TO, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 1º/10/2019).
+3. Agravo regimental desprovido.
+VOTO
+Não merece acolhida a pretensão do agravante.
+A bem da verdade, as razões do regimental apenas evidenciam sua utilização como forma de expressar a insatisfação defensiva com odecisumora questionado, na tentativa de rediscutir a matéria rechaçada.
+Tanto é assim que praticamente repete os mesmos argumentos trazidos no especial, com vistas a fazer prevalecer a versão de quea fração que deveria ser utilizada em verdade é a de 1/6 a ser calculada sobre o mínimo legal(fl. 343).
+Tal questão, todavia, foi devidamente enfrentada e rechaçada na decisão monocrática ora questionada, na qual afirmei não haver qualquer desproporcionalidade no incremento da pena-base, dado que, conforme larga orientação jurisprudencial desta Corte, diante da inexistência de um critério legal para definição do quantum de exasperação da pena-base, admite-se que o julgador se utilize do intervalo entre o mínimo e o máximo de pena cominada em abstrato para o delito para definir o montante de acréscimo de pena na primeira fase da dosimetria para cada circunstância judicial desfavorável(AgRg no AREsp n. 1.773.991/AL, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 8/3/2021).
+Com efeito, a divisão do intervalo entre o mínimo e o máximo da pena em abstrato pelas oito circunstâncias judiciais previstas no art. 59 do CP é um, entre outros, dos critérios que podem ser utilizados na fixação da pena-base(AgRg no REsp n. 1.704.633/TO, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 1º/10/2019 - grifo nosso).
+Segundo entendimento jurisprudencial dominante, não há direito subjetivo do réu à adoção de alguma fração específica para cada circunstância judicial, seja ela de 1/6 sobre a pena-base, 1/8 do intervalo entre as penas mínima e máxima ou mesmo outro valor. Tais frações são parâmetros aceitos pela jurisprudência do STJ, mas não se revestem de caráter obrigatório, exigindo-se apenas que seja proporcional e devidamente justificado o critério utilizado pelas instâncias ordinárias(EDcl no AgRg no HC n. 701.231/SC, Ministro Ribeiro Dantas, Quinta Turma, DJe de 14/6/2022).
+Em reforço:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME DE FURTO. COMPROVAÇÃO DA AUTORIA E MATERIALIDADE DO DELITO. PRETENSÃO DE ABSOLVIÇÃO. REVISÃO. REEXAME DE FATOS E PROVAS. SÚMULA N. 7 DO STJ. DOSIMETRIA DA PENA. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. UTILIZAÇÃO DA FRAÇÃO DE 1/8 SOBRE O INTERVALO ENTRE AS PENAS MÍNIMA E MÁXIMA. ACÓRDÃO EM CONSONÂNCIA COM A ORIENTAÇÃO DO SUPERIOR TRIBUNAL DE JUSTIÇA. SÚMULA N. 83 DO STJ. DECISÃO MANTIDA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Quando o Tribunal de origem, instância soberana na análise das provas, conclui estarem presentes indícios suficientes da autoria delitiva e prova da materialidade, reconhecendo comprovada a prática do crime de furto, não cabe ao STJ rever essa conclusão, tendo em vista a necessidade de incursão no conjunto fático-probatório dos autos, vedado pela Súmula n. 7 do STJ.
+2. Para elevação da pena-base, podem ser utilizadas as frações de 1/6 sobre a pena mínima ou de 1/8 sobre o intervalo entre as penas mínima e máxima, exigindo-se fundamentação concreta e objetiva para o uso de percentual de aumento diverso de um desses. Incidência da Súmula n. 83 do STJ.
+3. Mantém-se a decisão agravada cujos fundamentos estão em conformidade com o entendimento do STJ.
+4. Agravo regimental desprovido.
+(AgRg no AREsp n. 1.942.233/DF, Ministro João Otávio de Noronha, Quinta Turma, DJe de 26/5/2022)
+Desse modo, tenho que não logrou êxito o agravante em demonstrar em seu regimental argumento capaz de modificar as razões expostas na decisão monocrática ora combatida, as quais mantenhoin totumpelos seus próprios fundamentos.
+Ante o exposto,nego provimentoao agravo regimental.
