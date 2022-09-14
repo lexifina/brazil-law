@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo manejado por EDUARDO PEREIRA MARQUES, contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a e c, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 3ª Região, assim ementado (fl. 357):
+PREVIDENCIÁRIO. EXTINÇÃO SEM RESOLUÇÃO DO MÉRITO. COISA JULGADA. RECONHECIMENTO DE ATIVIDADE ESPECIAL. CONVERSÃO DA APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO EM APOSENTADORIA ESPECIAL.
+1. Reconhecimento da coisa julgada material, no tocante ao período de reconhecimento de atividade especial postulado nos autos, considerando que a primeira ação, idêntica a esta, já se encerrou definitivamente, com o julgamento de mérito, conforme dispõe o artigo 502 do novo Código de Processo Civil.
+2. Extinção do feito, sem julgamento do mérito, nos termos do artigo 485, inciso V, do novo CPC.
+3. Apelação da parte autora desprovida.
+Não foram opostos embargos de declaração.
+Nas razões do recurso especial, aponta o recorrente violação dos arts. 57, da Lei 8.213/91; 8º, 9º 10º e 938, do CPC.
+Sustenta, em síntese, que não há coisa julgada que obste o julgamento do pleito, nos seguintes termos: "O autor ora recorrente interpôs Recurso de Apelação para ver afastada a coisa julgada, e, demonstrando a causa de pedir dessa ação de revisão ser distinta daquela ação anteriormente decidida no Processo nº 0003147-76.2014.4.03.6126, em relação ao reconhecimento de tempo especial no intervalo de 06/03/1997 a 09/01/2012 (Petrobrás Refinaria Capuava RECAP)." (fl. 374).
+Aduz, ainda, que ".. foi requerido o enquadramento do período especial de 06/03/1997 a 09/01/2012 com base apenas na exposição ocupacional ao agente químico benzeno, naquela ocasião apresentado em juízo um formulário PPP incompleto, sem nenhuma descrição nos respectivos tópicos sobre agentes nocivos, e complementadas por laudo e declaração do empregador acerca da presença de agentes químicos típicos das atividades de manutenção. Assim, o objeto trazida naquele processo foi a apreciação do agente químico benzeno." (fl. 377).
+Defende, por fim, que ".. é claro que nessa nova ação de revisão, o pedido para reconhecimento de atividade especial é acerca da exposição ao agente nocivo Ruído acima dos limites permitidos na legislação, e, portanto, INEXISTINDO COISA JULGADA, JÁ QUE AS CAUSAS DE PEDIR PRÓXIMA E REMOTA SÃO DIVERSAS." (fl. 377).
+Sem contrarrazões.
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+O recurso não prospera.
+Quanto àexistência da coisa julgada, destaca-se o seguinte trecho do aresto recorrido, proferido pelo Tribunal de origem, que assim deixou consignado (fls. 360/361):
+Observa-se que, anteriormente à presente demanda, o autor ajuizou ação perante o Juizado Especial Federal de Santo André/SP (Autos nº 0003147-76.2014.403.6126), objetivando a conversão do benefício de aposentadoria por tempo de contribuição (NB 160.155.790-3) em aposentadoria especial, mediante o reconhecimento de atividade especial no período de 06/03/1997 a 09/01/2012, de modo que, após prolação de sentença e julgamento de recurso pela Terceira Turma Recursal do Juizado Especial Federal da 3ª Região, o pedido foi julgado improcedente, com resolução do mérito, havendo transitado em julgado em 27/06/2017 (Id 87277650, Id 87277651, Id 87277652, Id 87277655 e Id 87277654).
+Portanto, com relação ao reconhecimento da atividade especial e a consequente conversão do benefício de aposentadoria por tempo de contribuição em aposentadoria especial, impõe-se o reconhecimento da coisa julgada material, considerando-se que a primeira ação, neste aspecto idêntica à presente, já se encerrou definitivamente, com o julgamento de mérito, conforme dispõe o artigo 502 do novo Código de Processo Civil, : "Denomina-se coisa julgada material a autoridade que torna verbis imutável e indiscutível a decisão de mérito não mais sujeita a recurso."
+A jurisprudência é uniforme no sentido de que: "Tratando-se de ação entre as mesmas partes, apresentando exatamente o mesmo , e tendo o mérito da controvérsia sido decidido petitum definitivamente em ação anterior, impõe-se a extinção do processo, com base no artigo 267 do CPC, ante a ocorrência da coisa julgada." (2º TACivSP - 3ª Câm. - Ap. 201.841-9 - Rel. Juiz Alfredo Migliore - j.20/05/87 - JTACivSP 108/269).
+Assim, impossível reconsiderar a decisão já acobertada pela coisa julgada, no tocante ao reconhecimento do período especial de 06/03/1997 a 09/01/2012 e a consequente revisão benefício decorrente de tal reconhecimento.
+Logo, constatando-se que entre as duas demandas há identidade de partes, de causa de pedir e de pedido, visando o mesmo efeito jurídico da demanda anterior, definitivamente julgada pelo mérito, configurada está a ofensa à coisa julgada material, impondo-se a extinção do presente feito, sem julgamento do mérito, nos termos do artigo 485, inciso V, do novo CPC, vez que a coisa julgada constitui matéria de ordem pública e deve ser reconhecida de ofício, independentemente de provocação da parte interessada.
+Nesse contexto, a alteração das conclusões adotadas pela Corte de origem acerca do reconhecimento de inexistência de coisa julgada, demandaria novo exame do acervo fático-probatório constante dos autos, o que é vedado a esta Corte Superior, a teor da Súmula 7/STJ.
+A propósito:
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. APOSENTADORIA RURAL POR IDADE. COISA JULGADA. IDENTIDADE DE PARTES, PEDIDO E CAUSA DE PEDIR. EXTINÇÃO DO SEGUNDO PROCESSO SEM RESOLUÇÃO DE MÉRITO. ART. 267, V, DO CÓDIGO DE PROCESSO CIVIL. PRETENSÃO DE REEXAME DE PROVAS. SÚMULA 7/STJ.
+1. A jurisprudência desta Corte está consolidada no sentido de que, reconhecido no acórdão recorrido a identidade de pedidos e causas de pedir entre o processo atual e outro anterior, nova análise demanda análise do material fático-probatório dos autos.
+2. Diante do contexto fático-probatório firmado no acórdão recorrido, a pretensão exposta nas razões de recurso especial encontra óbice da Súmula n. 7/STJ. Agravo regimental improvido.
+(AgRg no AREsp 446.807/RS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe 07/03/2014)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO MUNICIPAL APOSENTADO. PROGRESSÃO FUNCIONAL. EXISTÊNCIA DE COISA JULGADA. REVISÃO. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME DE PROVAS E FATOS. SÚMULA 7/STJ.
+1. Na espécie, o Tribunal de origem entendeu estar configurada a existência de coisa julgada, porquanto há identidade de fatos, pedido e causa de pedir.
+2. A revisão do entendimento referido exige o reexame do acervo fático-probatório do processado, o que é inviável na via do recurso especial, nos termos da Súmula 7/STJ.
+3. Agravo regimental não provido.
+(AgRg no AREsp 386.216/RN, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 17/12/2013)
+PROCESSUAL CIVIL. APOSENTADORIA RURAL POR IDADE. COISA JULGADA. IDENTIDADE DE PARTES, PEDIDO E CAUSA DE PEDIR. EXTINÇÃO DO SEGUNDO PROCESSO SEM RESOLUÇÃO DE MÉRITO. ART. 267, V, DO CÓDIGO DE PROCESSO CIVIL.
+1. Segundo a instância ordinária, a demanda posterior possuía identidade de partes, pedido e causa de pedir de ação que deixou de reconhecer o direito à aposentadoria rural por tempo de serviço. Diante do contexto fático-probatório firmado no acórdão recorrido, a pretensão exposta nas razões de recurso especial encontra óbice da Súmula n. 7/STJ.
+2. Agravo regimental improvido.
+(AgRg no AREsp 31.574/SC, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 07/02/2012, DJe 05/03/2012)
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
