@@ -1,0 +1,12 @@
+DECISÃO
+O JUÍZO DE DIREITO DA VARA DE EXECUÇÕES PENAIS DODISTRITO FEDERALsuscita este conflito de competência, em execução penal, diante do JUÍZO DE DIREITO DA 1ªVARA CRIMINAL- CRIMES DOLOSOS CONTRA A VIDA, PRESIDÊNCIA DO TRIBUNAL DO JÚRI E EXECUÇÕES PENAIS DE LUZIÂNIA- GO.
+Cinge-se a controvérsia estabelecida neste incidente processual a saber a competência para execução penal, nos casos em que há condenações por crimes em duas unidades federativas distintas.
+Ouvido, manifestou-se o Ministério Público Federal pelo conhecimento do conflito para que seja declarado competente o Juízo de Direito da 1ªVara Criminal - Crimes Dolosos Contra a Vida, Presidência do Tribunal do Júri e Execuções Penais de Luziânia -GO, ora suscitado (fls. 180-183).
+Decido.
+Conforme entendimento desta Corte, "quando o réu é condenado em dois estados diferentes, e unificadas as penas, é competente para a execução o juízo do local onde o sentenciado cumpre a reprimenda" (CC n. 103.228/PR, Rel. Ministra Maria Thereza de Assis Moura, DJe 3/9/2009).
+Na espécie, o condenado cumpriapena na Comarca de Luziânia- GO, em decorrência de uma condenação oriunda do Distrito Federal,quando sobreveio nova condenação também vinculada ao Juízo de Luziânia- GO.
+Embora o processo executivo primevo fosse decorrente decondenação no DF, não há como deixar de reconhecer que toda essaexecuçãoestá sendo efetuada em Luziânia, ainda que somente afiscalização dascondições impostas. Vale dizer, a primeiraexecução "jamais teve seu início no DF, uma vez que a VEPEMA/DF deprecou os atos executórios para o Juízo de Luziânia/GO" (fl. 47), como destacou o suscitante.
+Assim, como ressaltou o parecerista (fls. 303-306), no caso de condenação em duas unidades federativas, o juízo competente será o do local em que ocondenadohouver iniciado efetivamente a primeira execução, o que não se altera com o cometimento ou a determinação de cumprimento de pena por outro delito.
+De fato, "deacordocomorientação jurisprudencialvigentenesseSodalício, a competência para unificação e fiscalização das execuções penais de sentenciado que ostenta condenações em diferentes unidades da Federação é do juízo onde ele efetivamente cumpre a reprimenda" (fl. 181).
+Ante o exposto, conheço do conflito para declarar competente o Juízo de Direito da 1ª Vara Criminal - Crimes Dolosos Contra a Vida, Presidência do Tribunal do Júri e Execuções Penais de Luziânia - GO, ora suscitado.
+Publique-se. Dê-se ciência aos Juízos suscitante e suscitado.
