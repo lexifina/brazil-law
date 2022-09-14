@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO, com fundamento no art. 105, III, "c" do permissivo constitucional, contra acórdão do Tribunal de Justiça local que deu provimento ao apelo defensivo para absolver a recorrida da prática do crime do art. 184, § 2º, do CP, com fundamento no art. 386, VII, do CPP.
+O recorrente aponta divergência jurisprudencial em relação ao art. 184, §2º, do CP alegando, em síntese, que para a comprovação da materialidade delitiva do crime de violação de direito autoral basta a realização de perícia por amostragem e somente das características externas do material apreendido.
+Contrarrazões às e-STJ fls. 449/452.
+O recurso foi admitido à e-STJ fl. 475.
+O Ministério Público Federal se manifestou pelo provimento do recurso às e-STJ fls. 484/48.
+É o relatório.
+O TJSP absolveu arecorridada prática do criem do art. 184, § 2º, do CP, pelos seguintes fundamentos:
+O objeto jurídico do crime éjustamente a propriedade intelectual do sujeito passivo, ou seja, dodetentor do direito autoral.
+Com isso e para que hajamaterialidade delitiva, deve demonstrar a perícia - indispensávelem crimes dessa natureza - se houve efetiva violação a direitoautoral, elementar do tipo penal em discussão, pois o delito não seconfigura por simples contrafação.
+O trabalho técnico juntado àsfolhas 109/114 atestou a falta de originalidade dos produtosapreendidos, mas não noticiou confronto daqueles com osrespectivos originais. Fixou-se, precariamente, apenas na análise do
+aspecto externo, deixando de identificar todos os autores, artistas,cantores, ou mesmo representantes, gravadoras, distribuidoras..(e-STJ fls. 369/370)
+Veja-se que o entendimento do TJSP estáem confronto com a jurisprudênciadesta Corte Superior que, por sua Terceira Seção, sob a égide dos recursos repetitivos, art. 543-C, do CPC, no julgamento do REsp 1485832/MG, Rel. Ministro ROGERIO SCHIETTI CRUZ, julgado em 12/8/2015, DJe 21/8/2015, firmou entendimento de que "é suficiente, para a comprovação da materialidade do delito previsto no art. 184, § 2º, do Código Penal, a perícia realizada, por amostragem, sobre os aspectos externos do material apreendido, sendo desnecessária a identificação dos titulares dos direitos autorais violados ou de quem os represente".
+Abaixo, a referida ementa do julgado:
+RECURSO ESPECIAL. PROCESSAMENTO SOB O RITO DO ART. 543-C DO CÓDIGO DE PROCESSO CIVIL. RECURSO REPRESENTATIVO DA CONTROVÉRSIA. VIOLAÇÃO DE DIREITO AUTORAL. PERÍCIA SOBRE TODOS OS BENS APREENDIDOS. DESNECESSIDADE. ANÁLISE DOS ASPECTOS EXTERNOS DO MATERIAL APREENDIDO. SUFICIÊNCIA. IDENTIFICAÇÃO DOS TITULARES DOS DIREITOS AUTORAIS VIOLADOS. PRESCINDIBILIDADE. RECURSO PROVIDO.
+1. Recurso Especial processado sob o regime previsto no art. 543-C, § 2º, do CPC, c/c o art. 3º do CPP, e na Resolução n. 8/2008 do STJ. TESE: É suficiente, para a comprovação da materialidade do delito previsto no art. 184, § 2º, do Código Penal, a perícia realizada, por amostragem, sobre os aspectos externos do material apreendido, sendo desnecessária a identificação dos titulares dos direitos autorais violados ou de quem os represente.
+2. Não se exige, para a configuração do delito previsto no art. 184, § 2º, do Código Penal, que todos os bens sejam periciados, mesmo porque, para a caracterização do mencionado crime, basta a apreensão de um único objeto.
+3. A constatação pericial sobre os aspectos externos dos objetos apreendidos já é suficiente para revelar que o produto é falso.
+4. A violação de direito autoral extrapola a individualidade do titular do direito, pois reduz a oferta de empregos formais, causa prejuízo aos consumidores e aos proprietários legítimos, fortalece o poder paralelo e a prática de atividades criminosas, de modo que não é necessária, para a caracterização do delito em questão, a identificação do detentor do direito autoral violado, bastando que seja comprovada a falsificação do material apreendido.
+5. Recurso especial representativo da controvérsia provido para reconhecer a apontada violação legal e, consequentemente, cassar o acórdão recorrido, reconhecer a materialidade do crime previsto no art. 184, § 2º, do Código Penal e determinar que o Juiz de primeiro grau prossiga no julgamento do feito (Processo n. 0024.12.029829-4). (REsp 1485832/MG, Rel. Ministro ROGERIO SCHIETTI CRUZ, TERCEIRA SEÇÃO, julgado em 12/8/2015, DJe 21/8/2015).
+Nesse sentido, foi editada a Súmula n. 574/STJ, que assim dispõe, ipsis litteris:
+Para a configuração do delito de violação de direito autoral e a comprovação de sua materialidade, é suficiente a perícia realizada por amostragem do produto apreendido, nos aspectos externos do material, e é desnecessária a identificação dos titulares dos direitos autorais violados ou daqueles que os representem.
+Assim, merece prosperar a pretensão ministerial.
+Ante o exposto, com fundamento no art. 932, inciso VIII, do CPC, c/c o art. 255, § 4º, inciso III, do RISTJ e na Súmula 568/STJ, dou provimento ao recurso especial, para restabelecer a condenação de ROSIMEIRE FERREIRA VILARES pela prática do delito do art. 184, § 2º, do CP.
+Intimem-se.
