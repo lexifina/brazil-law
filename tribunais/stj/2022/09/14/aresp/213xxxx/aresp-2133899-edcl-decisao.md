@@ -1,0 +1,43 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por TAKASHI SHIDA à decisão de fls. 652/653, que não conheceu do recurso.
+Sustenta a parte embargante que:
+Ocorre que a contagem do prazo foi equivocada, sendo a interposição do referido Agravo em REsp no dia 27/04/2022 (doc.01) tempestivo, pois, vejamos.
+Como visto na certidão coligida no id: 125786687 - Certidão (Certidão de tempestividade RAI ao STJ), no PJE-MT, não há dúvidas quanto a tempestividade perante o protocolo junto àquele tribunal.
+Vejamos o recorte desta certidão:
+ ..
+Para que não restem dúvidas, cola-se o registro do expediente gerado pela intimação que negou a admissibilidade do REsp, no dia 31/03/2022 (fl. 657).
+ ..
+Veja que não se trata de carência de comprovação de feriados locais, uma vez que o próprio PJe disponibiliza o prazo para manifestação sobre a referida intimação, in casu, até o dia 28/04/2022.
+Logo, o protocolo realizado no dia 27/04/2022 foi feito no prazo legal.
+Entretanto, corroborando e fundamentando a colagem da certidão de tempestividade, citamos o preceito legal do TJMT que estabelece como suspensos os prazos em dias decretados como ponto facultativos.
+Vejamos (doc.03): (fl. 658).
+ ..
+Logo, os dias 14 e 22 de abril foram pontos facultativos, sendo os prazos suspensos decorrente de preceito legais, o que prescinde qualquer tipo de comprovação prévia.
+Conquanto, olhando pela ótica de feriado local, restou o dia 08/04/2022 (feriado de Cuiabá) como ponto facultativo que justificaria comprovação prévia, em que pese o sistema PJe já comprovar publicamente o motivo da suspensão processual nesta data.
+Se estivéssemos diante de um processo físico, cujo prazo recursal precisasse ser justificado dia a dia, por certo que seria necessária a comprovação invocada.
+ ..
+Sendo assim, Excelência, independentemente de ser levado em consideração ou não o feriado local do dia 08/04/2022 (aniversário de Cuiabá), como dia computado sob alegação de não comprovação documental; sem este dia 08, a data de 27/04/2022 se perfaz como dia derradeiro e tempestivo para propositura do recurso (fl. 659).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Quanto à tempestividade do recurso, o que define a aplicação do CPC de 2015 é a data de intimação do decisum recorrido, que, no presente caso, ocorreu na vigência do novo código.
+Nos termos do Enunciado Administrativo n. 3 do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC", em observância ao princípio do tempus regit actum, ou seja, ao presente caso aplicam-se as regras do CPC de 2015.
+Assim, no código atual, o prazo para a interposição de agravo e de recurso especial é de 15 dias úteis, nos termos do art. 219, caput, c/c os arts. 994, VI e VIII, 1.003, § 5º, 1.029 e 1.042, caput, todos do CPC.
+Na vigência do CPC de 1973, a jurisprudência admitia a comprovação posterior da tempestividade. (AgInt no AREsp 1576616/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 26/5/2020; e EDcl no AgInt no AREsp 1008329/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 9/9/2019.)
+Todavia, esse entendimento não subsiste em razão de disposição expressa do CPC vigente, cujo art. 1.003, § 6º, dispõe que "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso", ou seja, a novel legislação vedou expressamente a possibilidade de comprovação posterior da tempestividade, devendo o documento apto a comprová-la ser juntado aos autos no momento da interposição do recurso.
+A propósito, confira-se este precedente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FERIADO LOCAL. COMPROVAÇÃO. ATO DE INTERPOSIÇÃO DO RECURSO. 1. O propósito recursal é dizer, à luz do CPC/15, sobre a possibilidade de a parte comprovar, em agravo interno, a ocorrência de feriado local, que ensejou a prorrogação do prazo processual para a interposição do agravo em recurso especial.
+2. O art. 1.003, § 6º, do CPC/15, diferentemente do CPC/73, é expresso no sentido de que "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso".
+3. Conquanto se reconheça que o novo Código prioriza a decisão de mérito, autorizando, inclusive, o STF e o STJ a desconsiderarem vício formal, o § 3º do seu art. 1.029 impõe, para tanto, que se trate de "recurso tempestivo". 4. A intempestividade é tida pelo Código atual como vício grave e, portanto, insanável. Daí porque não se aplica à espécie o disposto no parágrafo único do art. 932 do CPC/15, reservado às hipóteses de vícios sanáveis.
+5. Seja em função de previsão expressa do atual Código de Processo Civil, seja em atenção à nova orientação do STF, a jurisprudência construída pelo STJ à luz do CPC/73 não subsiste ao CPC/15: ou se comprova o feriado local no ato da interposição do respectivo recurso, ou se considera intempestivo o recurso, operando-se, em consequência, a coisa julgada.
+6. Agravo interno desprovido. (AgInt no AREsp n. 957.821/MS, relatora para o acórdão Ministra Nancy Andrighi, Corte Especial, DJe de 19/12/2017.)
+É certo que os feriados nacionais de 15/4/2022 e 21/4/2022 não precisam ser comprovados. Porém, os dias 8/4/2022, 14/4/2022 e 22/4/2022 são supostamente feriados locais, razão pela qual deveriam ter sido comprovados no momento da interposição do recurso.
+O STJ firmou o entendimento de que a ocorrência de feriado local, recesso, paralisação ou interrupção de expediente forense deve ser demonstrada no ato de interposição do recurso, por meio de documento oficial ou certidão expedida pelo tribunal de origem, não bastando a mera menção ao feriado local nas razões recursais, tampouco a apresentação de documento não dotado de fé pública. Nesse sentido, AgInt nos EDcl no AREsp 1553768/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 27/4/2020; e AgInt nos EDcl no AREsp 1379051/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 3/10/2019.
+Registre-se ainda que a Corte Especial, por maioria, acolheu a questão de ordem para reconhecer que a tese firmada por ocasião do julgamento do REsp 1.813.684/SP é restrita aos recursos interpostos até 17/11/2019 e alcança apenas o feriado de segunda-feira de carnaval, ou seja, não se aplica aos demais feriados, inclusive aos feriados locais. (QO no REsp 1813684/SP, relatora Ministra Nancy Andrighi, Corte Especial, DJe de 28/2/2020.) Assim, só a segunda-feira de carnaval até 2019 poderia ser comprovada posteriormente, excluindo-se qualquer outro feriado, como no caso dos autos.
+Não se desconhece o entendimento firmado nesta Corte de que "o equívoco na indicação do término do prazo recursal contido no sistema eletrônico mantido exclusivamente pelo Tribunal não pode ser imputado ao recorrente" (EREsp 1805589/MT, relator Ministro Mauro Campbell Marques, Corte Especial, Dje de 25/11/2020). No entanto, a parte não trouxe nenhum documento apto a comprovar tal equívoco, pois, além de trazido apenas um print à fl. 657 não há como vinculá-lo ao processo, uma vez que sequer possui o número de origem.
+Observe-se, ainda, que o documento de fl. 597 não pode ser aceito para afastar a intempestividade do recurso, uma vez que juntado posteriormente à interposição do recurso.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
