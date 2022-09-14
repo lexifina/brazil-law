@@ -1,0 +1,27 @@
+DECISÃO
+KLAITON FERNANDO BURIN alega sofrer coação ilegal pelo Tribunal de Justiça do Estado de Santa Catarina (Apelação n. 0002055-10.2019.8.24.0067).
+Nesta Corte, sustenta a defesa, em síntese, a existência de tempo demasiado para o julgamento da apelação do réu.
+Requer, liminarmente e no mérito, a expedição de alvará de soltura.
+Indeferida a liminar e prestadas as informações, opinou o Parquet Federal pela denegação da ordem (fls. 199-200; 202-203; 378-382).
+Decido.
+Expõem os autos que, no dia 8/7/2019, foi efetivada a prisão temporária do paciente, no âmbito da "Operação Lata Velha", pela suposta prática dos crimes previstos nos arts. 33 e 35 da Lei n. 11.343/2006 (fl. 381).
+Ato seguinte, a temporária do acusado foi convertida em custódia preventiva (fl. 18).
+A sentença condenatória, prolatada em 12/2/2020, atribuiu ao agente a liderança da facção criminosa "Primeiro Grupo Catarinense", além damultirreincidência do réu(fls. 133; 154; 156).
+Irresignada, apelou o acusado.No dia 31/5/2021, o recurso foi dirigido ao segundo grau (fl. 202).
+Feitos esses registros, não identifico o transcurso de período excessivo, na tramitação da demanda.
+Malgrado o lapso temporal perpassado, sublinho que a jurisprudência deste Tribunal Superior é firme em assinalar queapena impostaao denunciado deve ser consideradana avaliação do suscitado prazo descomedido para a análise do apelo da defesa.
+Considerando o tempo de privação de liberdade imposto ao acusado pelo decisum condenatório (25 anos de reclusão, a serem satisfeitos, inicialmente, em regime fechado), não afiro, ao menos por ora, desproporcionalidade no tempo de cárcere processual do sentenciado.
+Não olvido, assim como ressaltou o Ministério Público Federal, que são sete os agentes, assistidos por advogados distintos, "as razões recursais do paciente foram apresentadas no dia 12/3/2020" e, depois de oferecidas as dos corréus, foram realizados outros atos procedimentais, como, por exemplo, "inclusão e retirada de tornozeleira eletrônica" de coacusados e "reconhecimento de extinção da punibilidade de corré, em razão de seu óbito" (fl. 382, grifei).
+Logo, tal qual sublinhou o órgão ministerial, cujo parecer adoto como razões de decidir, "o recurso percorre seus trâmites regularmente, estando, portanto, justificada a manutenção da prisão, não havendo falar em constrangimento ilegal por excesso de prazo, na medida em que não há nada que indique eventual desídia ou negligência do Poder Judiciário na condução do feito" (fl. 382).
+Nesse sentido:
+ ..  1. Esta Corte tem reiterada jurisprudência no sentido de que a análise do excesso de prazo para o julgamento da apelação deve levar em consideração o quantum de pena aplicada na sentença condenatória. (Precedentes).
+2. Na presente hipótese, o paciente, custodiado desde 31/10/2017, foi condenado em 19/2/2019 a 57 anos e 1 mês de reclusão, no regime inicialmente fechado, e teve negado o direito de recorrer em liberdade por ser líder de organização criminosa voltada para a prática de tráfico interestadual de drogas responsável pela comercialização de, ao menos, 65kg (sessenta e cinco quilogramas) de cocaína.
+3. Portanto, não se mostra desarrazoado o prazo de 13 meses desde o aviamento do recurso de apelação até o presente momento, mormente se considerado serem 12 corréus, com patronos distintos - alguns da Defensoria Pública, que dispõe de prazo em dobro -, e alguns corréus optaram por apresentar as razões recursais perante o Magistrado singular, além de o recurso ter sido distribuído ao Desembargador relator em 3/3/2020, o que afasta, ao menos por ora, a alegação de excesso de prazo.
+4. Recurso ordinário desprovido.
+(RHC n. 122.721/RO, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 11/5/2020.)
+ ..  2. Na espécie, em que pese o tempo que tramita o recurso de apelação defensivo no Tribunal Regional, a referida ação penal é complexa, porquanto envolve a desarticulação de uma organização criminosa responsável pela remessa de grande quantidade de drogas para o exterior, principalmente para o continente Africano, por intermédio de uma empresa de importação e exportação. O paciente seria o principal articulador dessa empreitada criminosa. Tudo isso, naturalmente, exige maior tempo na correta análise e exame das provas e contraprovas dos autos, sem que isso se caracterize omissão ou mesmo desídia do Tribunal Regional para com o julgamento do recurso de apelação da defesa.
+3. Ademais: A jurisprudência desta Corte Superior é firme em assinalar que o quantum de pena imposta ao réu deve ser considerado na análise do suscitado excesso de prazo para o julgamento da insurgência. Na espécie, não é desproporcional o lapso decorrido desde a remessa do reclamo ao Tribunal de origem, sobretudo se considerada a reprimenda aplicada ao paciente (HC n. 518.104/MT, Rel. Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, julgado em 18/2/2020, DJe 21/2/2020).  ..
+(HC n. 552.561/SP, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 26/3/2020.)
+De mais a mais, a sentença evidencia que o paciente ostenta "6 condenações transitadas em julgado" e "atuou como liderança" da organização criminosa (ambos à fl. 154, destaquei) - fatores que indicam, de acordo com a orientação desta Corte Superior, o efetivo risco de reiteração delitiva, motivo por que amparam, ao menos até então, a persistência da segregação cautelar.
+Ante o exposto, denego a ordem.
+Publique-se e intimem-se.
