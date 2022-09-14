@@ -1,0 +1,83 @@
+DECISÃO
+Trata-se de pedido de tutela provisória apresentado por ÁRVORE VERDE PARTICIPAÇÕES LTDA (atual denominação de TEKLA INDUSTRIAL LTDA.) visando à atribuição de efeito suspensivo a recurso especial inadmitido na origem (fls. 323/325), cuja decisão foi objeto de agravo ainda não aportado a esse STJ. O apelo nobre para o qual se pleiteia o efeito suspensivo foiinterposto contra acórdão do Tribunal de Justiça do Estado de São Pauloassim ementado:
+"INDENIZAÇÃO POR LUCROS CESSANTES.Ação proposta emdecorrência do reconhecimento judicial da nulidade de escriturapública de venda e compra de imóvel, com pacto de retrovenda.Procedência. Inconformismo de ambas as partes. Parcialacolhimento. Cerceamento de defesa não caracterizado.Despicienda a realização de perícia para apuração da verba
+reparatória. Inocorrência de prescrição. Demanda proposta antesdo decurso do prazo trienal previsto no artigo 206, § 3º, inciso IV,do Código Civil, o qual começou a fluir da data do trânsito emjulgado da decisão que anulou o negócio jurídico. Pronunciamentoda nulidade opera efeitos "ex tunc", tornando as partes ao estadoprístino. Cabível a condenação da ré ao pagamento da reparaçãopor lucros cessantes, correspondentes ao valor que os autorespoderiam obter com a locação do imóvel no lapso temporal emque foram privados de utilizar o bem, devendo ser excluído apenaso interregno em que houve a sublocação. Indenização mensalfixada em 0,5% do valor venal do imóvel no período, a serapurado em fase de liquidação de sentença, através daapresentação de documentos a serem obtidos junto à
+municipalidade. Desconto de quantias relacionadas àsbenfeitorias, despesas com a manutenção do imóvel no período eIPTU não postuladas em sede de contestação. Impossibilidade deinovação em sede recursal. Apelo da requerida não conhecidoquanto ao referido tópico. Afastada a condenação do polo passivoquanto aos alugueis depositados pela terceira locatária na ação deconsignação em pagamento. Sentença reformada.
+RECURSOS PARCIALMENTE PROVIDOS, NA PARTECONHECIDA." (fl. 207, e-STJ).
+Tem-se, na origem, ação indenizatória ajuizada pelos requeridos contra a requerente postulando opagamento da indenização prevista no artigo 182 do Código Civilque, nocaso específico, corresponde aos frutos que deixaram de auferir no períodocorrespondente à venda do imóvel àré, ora requerente;alienação declaradanulaemsentença proferida na ação declaratória que tramitou perante a 37ª VaraCível do Foro Central da Comarca da Capital do TJSP, confirmada pela Corte a qua, ensejando a interposição do ARESP nº 313979/SP, não conhecido por decisão deste Relator às suas fl.1.101 e-STJ, posteriormente confirmada pela Terceira Turma do deste Superior Tribunal, às fl.1.134 e-STJ, e atualmente em fase de processamento do correspondente agravo em recurso especial.
+Colhe-se dos autos que "a pretensão de pagamento deindenização teve origem com a declaração de nulidade da escritura públicade compra e venda com pacto adjeto de retrovenda.Aplicável à hipótese o lapso prescricional trienal(artigo 206, § 3º, inciso IV, do Código Civil), cujo termo a quo é a data dotrânsito em julgado da decisão proferida na ação declaratória (10/02/2014- fl. 111)" (fl.211 e-STJ).
+A requerenteinterpôs apelação, quemanteve em parte a sentença precedente, tanto com relação a inocorrência da prescrição, quantono que respeita à sua posse indireta em relação aoimóvel, oriunda de negócio jurídico declarado nulo, o qualnão produz efeitossendo, portanto,incapaz de qualificar a posse da então ré como deboa-fé, o que, por sua vez, não ampara a pretensão deafastamento da verbareparatória.
+Contra o acórdão foram opostos quatro embargos de declaração, dois deles rejeitados e outros dois acolhidos para aclarar as questões afetas aos consectários legais (fls. 228/247, e-STJ), tendo sido interposto pela requerida, na sequência, recurso especial, inadmitido na origem, consoante os termos de fls. 250/323e-STJ.
+Daí a interposição, em 18.05.2022, do agravo em recurso especial (fls. 328/341 e-STJ), ainda não aportado neste Superior Tribunal.
+Relata estarem curso oCumprimentoProvisóriode Sentença nº0027611-50.2022.8.26.0100, tendo sido instada a arcarcom o ônus de suacondenação na ação originária, à monta deR$ 5.225.865,45 (cinco milhões, duzentos e vinte e cinco mil, oitocentos e sessenta ecinco reais e quarenta e cinco centavos).
+A requerente sustenta estar presente a fumaça do bom direito, consubstanciada na probabilidade de conhecimentoe provimento do recurso especial, no qual externarazões denunciando violações perpetradas pelo tribunal de origem contra osartigos 7º, 10,141,492e 1.023, § 2º, do CPC/2015e 189, 206, § 3º, IV, 884 e 1.214 do CC/2002.
+Afirma que o perigo da demora está consubstanciadoem sua sujeição à "execução de mais de R$ 5 milhões em razão decumprimento provisório de v. acórdão recorrido que, ao fim e ao cabo, seráreformado por este C. STJ quando do julgamento do recurso especial."(fl.20 e-STJ).
+Requera atribuição de efeito suspensivo aorecurso especial a fim de obstar ocumprimentoprovisóriode sentença.
+Às fls.364/367 e-STJ,a requerente pugna pela livre distribuição da presente TP nº 4155/SP por considerar que ela não guardaria conexão com oARESP nº 313979/SP.
+É o relatório.
+DECIDO.
+Por primeiro, considera-se acertada aprevenção.
+Acerca da distribuição por dependência, o Código de Processo Civil de 2015 prevê:
+Art. 286. Serão distribuídas por dependência as causas de qualquer natureza:
+I - quando se relacionarem, por conexão ou continência, com outra já ajuizada;
+II - quando, tendo sido extinto o processo sem resolução de mérito, for reiterado o pedido, ainda que em litisconsórcio com outros autores ou que sejam parcialmente alterados os réus da demanda;
+III - quando houver ajuizamento de ações nos termos do art. 55, § 3º , ao juízo prevento.
+Parágrafo único. Havendo intervenção de terceiro, reconvenção ou outra hipótese de ampliação objetiva do processo, o juiz, de ofício, mandará proceder à respectiva anotação pelo distribuidor.
+Art. 55. Reputam-se conexas 2 (duas) ou mais ações quando lhes for comum o pedido ou a causa de pedir.
+§ 1º Os processos de ações conexas serão reunidos para decisão conjunta, salvo se um deles já houver sido sentenciado.
+§ 2º Aplica-se o disposto no caput :
+I - à execução de título extrajudicial e à ação de conhecimento relativa ao mesmo ato jurídico;
+II - às execuções fundadas no mesmo título executivo.
+§ 3º Serão reunidos para julgamento conjunto os processos que possam gerar risco de prolação de decisões conflitantes ou contraditórias caso decididos separadamente, mesmo sem conexão entre eles(grifou-se).
+Outrossim, o Regimento Interno desta Corte dispõe:
+Art. 71. A distribuição da ação, do recurso ou do incidente torna preventa a competência do relator para todos os feitos posteriores referentes ao mesmo processo ou a processo conexo, inclusive na fase de cumprimento de decisão; a distribuição do inquérito e da sindicância, bem como a realizada para efeito da concessão de fiança ou de decretação de prisão preventiva ou de qualquer diligência anterior à denúncia ou queixa, prevenirá a da ação penal (Redação dada pela Emenda Regimental n. 24, de 2016)
+§ 1º Se o relator deixar o Tribunal ou transferir-se de Seção, a prevenção será do órgão julgador.
+§ 2º Vencido o relator, a prevenção referir-se-á ao Ministro designado para lavrar o acórdão.
+§ 3º Se o recurso tiver subido por decisão do relator no agravo de instrumento, ser-lhe-á distribuído ou ao seu sucessor.
+Observo que, na presente TP, as partes coincidem com as que figuram no ARESP nº313979/SP, sendo aqui discutido o dever da requerente em indenizar às requeridas pelos lucros cessantes, dada a declaração denulidade da escritura devenda e compra do imóvel a elas pertencente, ante o reconhecimento da existênciade pacto comissório, consoante o até então decidido no ARESP nº313979/SP.
+É bom lembrar que conexão é um conceito jurídico-positivo. No direito processual civil brasileiro, é bem aceita a ideia de que há "várias" espécies de conexão, conforme visto: modificação de competência (art. 55, CPC), (art. 113, CPC), conexão por acessoriedade (art. 61, CPC), conexão por sucessividade (art. 516, II, CPC) etc. Cada uma dessas modalidades de conexão tem os seus próprios pressupostos e os seus efeitos jurídicos típicos.
+Na espécie, ainda que se alegue a ausência de conexão entre os casos confrontados, há que se considerar a possibilidade de reunião de processos não conexos quando houver risco de prolação de decisões conflitantes ou contraditórias, consoante o previsto no art. 55, § 3º, do Código de Processo Civil de 2015, sendo suficiente a relação de acessoriedade entre as causas de pedir, a ensejar a distribuição por prevenção.
+Ademais, constitui faculdadedo juiz, o reconhecimento da necessidade de julgamento simultâneo para evitar a prolação de decisões conflitantes em litígios semelhantes.
+Nesse sentido:
+"PROCESSUAL CIVIL. ALEGAÇÃO DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. IMPROCEDÊNCIA. CONEXÃO. FACULDADE DO JULGADOR. SÚMULA N. 235/STJ. SENTENÇA PROFERIDA EM UMA DAS DEMANDAS. INSTÂNCIAS CRIMINAL E CÍVEL. INDEPENDÊNCIA. CONDENAÇÃO CRIMINAL. MATERIALIDADE E AUTORIA. COISA JULGADA NO CÍVEL. INVIABILIDADE DE AFASTAMENTO DO NEXO CAUSAL. AUSÊNCIA DE CERCEAMENTO DE DEFESA PELO INDEFERIMENTO DE PROVA. ART. 935 DO CÓDIGO CIVIL. RESPONSABILIDADE CIVIL DO HOSPITAL POR CONTRATAÇÃO DE FALSO MÉDICO. CULPA IN ELIGENDO. PENSIONAMENTO. DIVERGÊNCIA JURISPRUDENCIAL. BASES FÁTICAS DISTINTAS. VALOR DO DANO MORAL. REDUÇÃO. SÚMULA N. 7/STJ.
+(..)
+2. O juiz tem a faculdade, e não a obrigação, de reconhecer a conexão entre duas ou mais demandas à luz da matéria controvertida, quando concluir pela necessidade de julgamento simultâneo para evitar a prolação de decisões conflitantes em litígios semelhantes.
+(..)
+9. Recurso especial parcialmente conhecido e desprovido".
+(REsp 1.496.867/RS, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 07/05/2015, DJe 14/05/2015 - destacou-se).
+Assim, não pode prosperar o pleito de fl.366 e-STJ, nos termos expostos.
+Consoante o disposto no art. 1.029, § 5º, I, do Código de Processo Civil/2015, com a redação dada pela Lei nº 13.256/2016, "o pedido de concessão de efeito suspensivo a recurso extraordinário ou a recurso especial poderá ser formulado por requerimento dirigido ao tribunal superior respectivo, no período compreendido entre a publicação da decisão de admissão do recurso e sua distribuição, ficando o relator designado para seu exame prevento para julgá-lo".
+No caso vertente, considerando que já foi realizado o juízo prévio de admissibilidade do recurso especial, embora negativo (fls. 323/325, e-STJ), entende-se competir a esta Corte Superior o exame do pedido de atribuição de efeito suspensivo ao recurso, sobretudo porque comprovada a interposição do respectivo agravo (fls. 328/341, e-STJ).
+Vale ressaltar, a propósito, que este Tribunal Superior, em casos excepcionais, autoriza a concessão de efeito suspensivo a recurso especial ainda que inadmitido na origem, desde que demonstrada, além da presença cumulativa dos requisitos do periculum in mora e do fumus boni juris, a viabilidade de reversão do prévio juízo negativo de admissibilidade, conforme decidido nos seguintes julgados:
+"AGRAVO REGIMENTAL EM MEDIDA CAUTELAR - PRETENSÃO VOLTADA À ATRIBUIÇÃO DE EFEITO SUSPENSIVO A RECURSO ESPECIAL INADMITIDO NA ORIGEM, A SER REMETIDO A ESTA CORTE NA FORMA DE ARESP - DECISÃO MONOCRÁTICA QUE JULGOU EXTINTA A MEDIDA CAUTELAR - AUSENTES OS REQUISITOS DO FUMUS BONI JURIS E PERICULUM IN MORA - FORTE PROBABILIDADE DE NEGATIVA DE SEGUIMENTO AO RECURSO ESPECIAL - INSURGÊNCIA RECURSAL DO REQUERENTE.
+1. A concessão da medida cautelar para conferir efeito suspensivo a recurso inadmitido na origem é excepcional e pressupõe a aferição da existência de decisão teratológica ou manifestamente contrária à jurisprudência deste Superior Tribunal de Justiça, somada à demonstração dos requisitos da viabilidade do apelo nobre e plausibilidade do direito invocado, e do perigo da demora.
+(..)
+5. Agravo regimental desprovido."
+(AgRg na MC 25.558/RJ, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 17/3/2016, DJe 31/3/2016).
+"PROCESSUAL CIVIL. AGRAVO REGIMENTAL NA MEDIDA CAUTELAR, QUE VISA ATRIBUIR EFEITO SUSPENSIVO A RECURSO ESPECIAL INADMITIDO, NA ORIGEM.
+AUSÊNCIA DE FUMUS BONI IURIS. NEGATIVA DE SEGUIMENTO À MEDIDA CAUTELAR. AGRAVO REGIMENTAL IMPROVIDO.
+I. Somente em situações excepcionalíssimas esta Corte tem admitido medida cautelar para atribuir efeito suspensivo a Recurso Especial pendente de admissibilidade ou inadmitido, na origem, desde que presentes os seguintes requisitos, cumulativamente: fumus boni juris, consubstanciado na probabilidade de êxito do Recurso Especial; periculum in mora, associado à comprovação de existência de risco de dano grave e de difícil reparação.
+(..)
+V. Agravo Regimental improvido."
+(AgRg na MC 24.722/SP, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 3/3/2016, DJe 16/3/2016).
+Na linha da jurisprudência desta Corte, a verificação do fumus boni iuris está relacionada diretamente à plausibilidade do direito invocado, ou à probabilidade de êxito do recurso especial, de modo que é conveniente o exame da viabilidade dos recursos dirigidos a este STJ, ainda que de modo perfunctório, como se impõe em procedimento de cognição sumária.
+A propósito:
+"PROCESSUAL CIVIL. AGRAVO NA MEDIDA CAUTELAR. RECURSO ESPECIAL.
+EFEITO SUSPENSIVO. AUSÊNCIA DE PRESSUPOSTOS. (..)
+1. Para deferimento de medida liminar conferindo efeito suspensivo a recurso especial, é necessário avaliar a extensão dos efeitos que o eventual provimento do recurso atingirá. Tanto a aparência de direito quanto o perigo de demora na decisão devem ser analisados com as vistas voltadas ao conteúdo do recurso.
+(..)
+- Agravo não provido." (AgRg na MC 17.525/PE, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 28/6/2011, DJe 1º/8/2011).
+"AGRAVO REGIMENTAL NA MEDIDA CAUTELAR. PRETENSÃO DE ATRIBUIÇÃO DE EFEITO SUSPENSIVO AO AGRAVO DE INSTRUMENTO. AUSÊNCIA DOS REQUISITOS AUTORIZADORES DA TUTELA CAUTELAR. (..)
+2.- Na verificação dos pressupostos da medida há de se ter em conta, como já decidido pela Terceira Turma, que o fumus boni iuris "está relacionado intimamente com a presença dos requisitos de admissibilidade do recurso especial e com a possibilidade de sucesso deste, daí que, na cautelar, convém se aprecie, ainda que superficialmente, os requisitos e o mérito do especial." (AgRg na MC 1.311, Rel. Ministro CARLOS ALBERTO MENEZES DIREITO, DJ 13.10.98).
+(..)
+5.- Agravo Regimental improvido."
+(AgRg na MC 18.033/RS, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 16/6/2011, DJe 29/6/2011).
+Não se mostram presentes, contudo, os pressupostos necessários à concessão do almejado efeito suspensivo.
+No caso em exame, verifica-seque a requerente formula pedido de tutela provisória a fim de que seja atribuído efeito suspensivo ao recurso especial e, por conseguinte, suspenso o acórdão recorrido, objeto da execução provisória de sentença.
+Conforme relatado pelarequerente, o recurso especial por elainterposto foi inadmitido pelo Tribunal de Justiça do Estado de São Paulo - TJSP, e, portanto, seria incumbência sua, além da demonstração do perigo de dano ou do risco ao resultado útil do processo, a comprovação da probabilidade do direito.
+Em se tratando de recurso especial inadmitido, a plausibilidade do direito vindicado se traduz tanto na necessidade de demonstração da possibilidade de conhecimento e provimento do recurso especial, quanto na apresentação de argumentos relativos ao manejo e àpossibilidade de êxito do agravo em recurso especial.
+No pleito sob análise, embora tenha reiterado a tese vertida no recurso especial, a requerente sequer apresentou argumentos atinentes à possibilidade de conhecimento do agravo em recurso especial e à plausibilidade tendente a permitir o seu provimento.
+Assim, ausente a argumentação relativa à inaplicabilidade dos óbices invocados, pelo TJSP, para inadmitir o recurso especial, resta impossibilitada a análise, de forma ampla, da probabilidade do direito.
+Por fim, a requerente também nãologrou demonstrarperigo de lesão grave e de difícil reparação ao seu direito a justificar a concessão do efeito suspensivo requerido. A mera afirmativa de que seriam indisponibilizados os expressivos valores provisoriamente exigidos não é capaz de evidenciar a configuração de ameaça ao resultado útil do processo.
+Ante o exposto, indefiro o pedido de atribuição de efeito suspensivo ao recurso especial.
+Publique-se. Intimem-se. Arquive-se.
