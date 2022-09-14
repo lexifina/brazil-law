@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de Maurício Benincaso Lima, apontando-se como autoridade coatora o Tribunal de Justiça de São Paulo, que denegou o HC n. 20039063220218260000 (fls. 35/36):
+HABEAS CORPUS DELITOS DE ASSOCIAÇÃO CRIMINOSA, LAVAGEM DE CAPITAIS, EXTORSÃO E ESTELIONATO (LEI 12.850/2013, ART. 2º, §§ 3º E 4º, III; CP, ARTS. 158, § 1º E 171, § 4º; LEI 9.613/98, ART. 1º, §§ 1º, 2º E 4º) IMPETRAÇÃO VISANDO IMPUGNAR A DECRETAÇÃO DA CUSTÓDIA PREVENTIVA DA PACIENTE E O POSTERIOR INDEFERIMENTO DE PLEITOS DE REVOGAÇÃO DA CUSTÓDIA E CONCESSÃO DA PRISÃO DOMICILIAR ALEGAÇÕES DE FALTA DE MOTIVAÇÃO DO DECRETO PRISIONAL DIANTE DE CONDIÇÕES PESSOAIS FAVORÁVEIS, NÃO DEMONSTRADOS OS REQUISITOS DO ARTIGO 312 DO CPP E APONTANDO-SE DE RESTO RISCO À SAÚDE DECORRENTE DA COVID-19.
+DECRETO PRISIONAL MOTIVADO, SATISFEITA A EXIGÊNCIA CONSTITUCIONAL (CF, ART. 93, IX) E VEDADO O EXAME DA MATÉRIA FÁTICA NESTA VIA.
+DESCABIMENTO DA IMPETRAÇÃO DECRETAÇÃO DE PRISÃOPREVENTIVA JUSTIFICADA, NO CASO, COMO MEIO DE INTERROMPER AS ATIVIDADES ILÍCITAS E CERCEAR A ATUAÇÃO DE GRUPO CRIMINOSO, COM VISTAS A PROTEGER A ORDEM PÚBLICA ESTELIONATOS AFETIVOS COMETIDOS MEDIANTE REDES SOCIAIS, SEGUIDOS DE EXTORSÕES, DESTINANDO-SE OS VALORES OBTIDOS À LAVAGEM DE DINHEIRO COMPLEXIDADE DA ORGANIZAÇÃO CRIMINOSA EVIDENCIADA PELO NÚMERO DE INTEGRANTES E ESPECIALIZAÇÃO DE TAREFAS, ALÉM DO SEU "MODUS OPERANDI", EVIDENCIADA A GRAVIDADE CONCRETA DOS FATOS ESTADO DE LIBERDADE DA PACIENTE QUE INDICARIA A POSSIBILIDADE DE NOVOS DELITOS, NEM SE MOSTRANDO EFICIENTE A SÓ IMPOSIÇÃO DE MEDIDAS CAUTELARES DIVERSAS BENESSE DA PRISÃO DOMICILIAR INADMISSÍVEL DIANTE DE SITUAÇÃO EXCEPCIONALÍSSIMA AUTORIZADORA DE DENEGAÇÃO DO FAVOR LEGAL AUSÊNCIA DE DEMONSTRAÇÃO ESCORREITA DA NECESSIDADE DA PRESENÇA DA PACIENTE JUNTO AOS FILHOS MENORES, INOBSERVADO O DISPOSTO NO ARTIGO 318, PARÁGRAFO ÚNICO, DO CÓDIGO DE PROCESSO PENAL ENFRENTAMENTO DA PANDEMIA COVID-19 QUE, POR SI, NÃO AUTORIZA A CONCESSÃO AUTOMÁTICA E GENERALIZ ADA DA PRISÃO DOMICILIAR CONSTRANGIMENTO ILEGAL INOCORRIDO ORDEM DENEGADA.
+Postula-se a revogação da prisão preventiva, sob a alegação de que a medida é desproporcional, mormente por se tratar de paciente primário, sem registro de condenação, com emprego e residência fixos.
+Afirma-se, ainda, que o risco de contaminação pela pandemia de Covid-19 também torna injustificável a prisão.
+A liminar foi indeferida (fls. 363/369).
+Informações prestadas (fls. 372/385).
+Parecer do Ministério Público Federal pelo não conhecimento do habeas corpus (fls. 389/394).
+É o relatório.
+O writ perdeu o objeto.
+Posteriormente à presente impetração, o Juízo da 2ª Vara de Martinópolis/SP, em 13/4/2022, reconheceu a suaincompetência absoluta para o processamento e julgamento da Ação Penal n. 15007428220208260346 e determinou a remessa dos autos e dos feitos desmembradospara a Justiça Federal da Seção Judiciária de São Paulo.
+O Juízo Federal, por sua vez, em 10/6/2022, proferiu decisão, mantendo as prisões preventivas e, em 1º/7/2022,reconheceu a sua incompetência para o processamento e julgamento dos crimes de competência da Justiça do Estado de São Paulo (estelionato, extorsão, organização criminosa referente aos crimes de competência do Juízo estadual e lavagem de dinheiro em território nacional),determinando oretorno dos associados (distribuídos por dependência) ao Juízo da comarca de Martinópolis/SP, para que, em relação a eles, lá prossigam.Quanto aos supostos crimes de lavagem de dinheiro transnacional e evasão de divisas, de competência da Justiça Federal, determinou o prosseguimento das investigações na Justiça Federal (Processo n. 50032617520224036181).
+O Juízo estadual, então, em 28/7/2022, suscitou o conflito negativo de competência (CC n. 190.445/SP).
+Diante do novo contexto fático processuale ocorrendo, em decisão posterior, a reavaliação dos fundamentos da prisão, não há como prosseguir no processamento deste writ.
+Ante o exposto, julgo prejudicado o habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. ASSOCIAÇÃO CRIMINOSA, LAVAGEM DE CAPITAIS, EXTORSÃO E ESTELIONATO. PRISÃO PREVENTIVA. DECLINAÇÃO DE COMPETÊNCIA. REAVALIAÇÃO DOS FUNDAMENTOS DA PRISÃO POR OUTRO JUÍZO. PERDA DE OBJETO.
+Writ prejudicado.
