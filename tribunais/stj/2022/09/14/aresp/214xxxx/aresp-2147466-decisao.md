@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial, interposto por LUIZ CARLOS BRAMBILA, contra decisão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, que inadmitiu o Recurso Especial, manejado em face de acórdão assim ementado:
+"AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. DESISTÊNCIA. ART. 775 DO CPC.
+1. A desistência da execução fiscal não é regulada pelo art. 200, parágrafo único, do CPC, mas sim pelo seu art. 775, aplicado subsidiariamente à LEF.
+2. No caso, a União desistiu da execução fiscal antes do ajuizamento dos embargos à execução, razão por que deve ser mantida a decisão que acolheu o pedido de desistência com efeitos retroativos à data em que foi formulado, independentemente de anuência do devedor"" (fl. 1.299e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a e c, da Constituição Federal, a parte ora agravante aponta, além do dissídio jurisprudencial, violação aos arts. 200, parágrafo único, e 775, parágrafoúnico, II, ambos do CPC, sustentando, em síntese, que foram atribuídos os efeitos do pedido de desistência da ação, antes da correspondente homologação; quefoi admitida a extinção da execução fiscal em relação ao Recorrente, sem a observância dos requisitos previstos no inciso II do parágrafo único do art. 775 do CPC, apesar da prévia comunicação os embargos à execução opostos; que "seno caso concreto, por ocasião da propositura dos embargos à execução, ainda não havia decisão homologatória do pedido de desistência, naquela mesma ocasião não haviam efeitos jurídicos da indigitada homologação" (fl.1.327e).
+Por fim, requer "seja CONHECIDO e PROVIDO o presente recurso para, prevalecendo o entendimento constante dos acórdãos paradigma e reconhecendo a ofensa ao parágrafo único do art. 200 do CPC/2015, reformar o acórdão atacado e, com isso, afastar os efeitos retroativos da decisão que homologou o pedido de desistência da execução em relação ao Recorrente, mantendo, em consequência, hígidas as condições da ação, por ocasião da propositura dos embargos à execução"(fl. 1.339e).
+Contrarrazões a fls. 1.380/1.382e.
+Inadmitido o Recurso Especial (fls. 1.385/1.388e), foi interposto o presente Agravo (fls. 1.396/1.406e).
+No Tribunal deorigem, trata-se de agravo de instrumento,interposto pela parte ora agravante, em face de parte da decisão proferida nos autos da execução fiscal, quedeferiu o pedido da exequente de exclusão dos sócios do polo passivo do executivo fiscal, determinandoa retroação dos efeitos à data em que foi efetuado o pedido.
+O agravo de instrumento foi improvido.
+Daí a interposição do presente Recurso Especial, que não merece prosperar.
+Com efeito, oTribunal de origem, com base no exame dos elementos fáticos dos autos, negou provimento ao agravo interposto, pelos seguintes fundamentos:
+"O pedido liminar foi assim fundamentado:
+"Verifica-se dos autos que a União requereu, em 17/05/2018, a exclusão do agravante Luiz Carlos Brambilla, da Associação dos Funcionários do Frigorífico e de Arno José João Vogt do polo passivo da execução fiscal originária (evento 1.5).
+Em 21/05/2018 o agravante ajuizou os embargos à execução nº 077/1.18.0001283-4, requerendo o reconhecimento da prescrição intercorrente do crédito tributário ou, sucessivamente, o reconhecimento da sua ilegitimidade passiva para figurar no polo passivo da execução ou a inexigibilidade do crédito tributário. Pugnou, na ocasião, pela liberação da constrição realizada sobre o seu veículo.
+Os embargos à execução nº 077/1.18.0001283-4 foram recebidos em 21/11/2018 no efeito suspensivo (evento 1.41, páginas 34/35).
+Em 31/05/2021 foi proferida sentença, sendo julgado extinto o feito sem julgamento do mérito ante a falta de interesse de agir do embargante, condenando-o ao pagamento dos honorários advocatícios (evento 1.44, páginas 6/9). A referida sentença reconheceu a falta de interesse de agir sob o fundamento de que, no momento do ajuizamento dos embargos (21/05/2018), a União já havia pedido a exclusão do embargante do polo passivo da execução fiscal (17/05/2018).
+Na mesma data em que foi proferida a sentença nos embargos à execução (31/05/2021), foi exarada a r. decisão agravada, que deferiu o pedido da União de exclusão, do polo passivo da execução, de Arno José João Vogt e do agravante Luiz Carlos Brambilla, determinando a retroação dos efeitos à data em que foi efetuado o pedido (17/05/2018).
+A desistência da execução fiscal não é regulada pelo art. 200, parágrafo único, do CPC, mas sim pelo seu art. 775, aplicado subsidiariamente à LEF.
+Art. 775. O exequente tem o direito de desistir de toda a execução ou de apenas alguma medida executiva.
+Parágrafo único. Na desistência da execução, observar-se-á o seguinte:
+I - serão extintos a impugnação e os embargos que versarem apenas sobre questões processuais, pagando o exequente as custas processuais e os honorários advocatícios;
+II - nos demais casos, a extinção dependerá da concordância do impugnante ou do embargante.
+No caso, a União desistiu da execução fiscal antes do ajuizamento dos embargos à execução, razão por que deve ser mantida a decisão que acolheu o pedido de desistência com efeitos retroativos à data em que foi formulado, independentemente de anuência do devedor.
+Ante o exposto, indefiro o pedido de efeito suspensivo."
+Não tendo sido noticiados fatos novos, tampouco deduzidos argumentos suficientemente relevantes ao convencimento em sentido contrário, até porque o agravo interno limita-se a reiterar argumentação já deduzida anteriormente nos autos, mantenho a decisão proferida por seus próprios fundamentos.
+Ante o exposto, voto por negar provimento ao agravo de instrumento, prejudicada a análise do agravo interno" (fls. 1.303/1.304e).
+Nesse contexto, considerando a fundamentação do acórdão objeto do Recurso Especial, os argumentos utilizados pela parte recorrente somente poderiam ter sua procedência verificada mediante o necessário reexame de matéria fática, não cabendo a esta Corte, a fim de alcançar conclusão diversa, reavaliar o conjunto probatório dos autos, em conformidade com a Súmula 7/STJ.
+Ademais, verifico que a Corte de origem, ao analisar a controvérsia, asseverou que "a União desistiu da execução fiscal antes do ajuizamento dos embargos à execução, razão por que deve ser mantida a decisão que acolheu o pedido de desistência com efeitos retroativos à data em que foi formulado, independentemente de anuência do devedor"(fl. 1.303e).
+Entretanto, tal fundamento não foi impugnado pela parte recorrente, nas razões do Recurso Especial. Portanto, incide, na hipótese, a Súmula 283/STF, que dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. LIQUIDAÇÃO DE SENTENÇA. AÇÃO REVISIONAL CUMULADA COM REPETIÇÃO DE INDÉBITO. ART. 535 DO CPC/1973. VIOLAÇÃO. NÃO OCORRÊNCIA. FUNDAMENTO SUFICIENTE. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA. SÚMULA Nº 283/STF. HONORÁRIOS ADVOCATÍCIOS. FASE LIQUIDAÇÃO. POSSIBILIDADE. SÚMULA Nº 568/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. A ausência de impugnação de um fundamento suficiente do acórdão recorrido enseja o não conhecimento do recurso, incidindo o enunciado da Súmula nº 283 do Supremo Tribunal Federal.
+4. É possível a fixação de honorários advocatícios na fase de liquidação de sentença com caráter contencioso. Precedentes.
+5. Agravo interno não provido" (STJ, AgInt no AREsp 864.643/PR, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe de 20/03/2018).
+Assinale-se, também, o não cabimento do Recurso Especial com base no dissídio jurisprudencial, pois as mesmas razões que inviabilizaram o conhecimento do apelo, pela alínea a, servem de justificativa quanto à alínea c do permissivo constitucional.
+Ante o exposto, com fulcro no art. 253, parágrafo único, II, a, do RISTJ, conheço do Agravo, para não conhecer do Recurso Especial.
+I.
