@@ -1,0 +1,19 @@
+DECISÃO
+Na origem, trata-se de ação ordinária, objetivando a restituição do IPTU pago indevidamente no período compreendido entre outubro de 2014 e maio de 2016, bem comoa alteração da sujeição passiva aos respectivos proprietários. Na sentença julgou-se extinto o feito sem resolução do mérito, ante a ilegitimidade ativa dos autores. No Tribunal a quo, a apelação foi desprovida. O valor da causa foi fixado em R$ 208.208,48.
+O recurso especial foi interposto no TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, contra acórdão com o seguinte resumo de ementa:
+APELAÇÃO - AÇÃO DE REPETIÇÃO DE INDÉBITO - EXTINÇÃO DA DEMANDA PELO RECONHECIMENTO DA ILEGITIMIDADE AD CAUSAM E DA LITISPENDÉNCIA - PRETENSÃO À REFORMA - LITISPENDÉNCIA - INOCORRÉNCIA - PARTES E LANÇAMENTOS DISTINTOS - CONFIGURADA A ILEGITIMIDADE DO AUTOR PARA PLEITEAR A REPETIÇÃO DO VALOR SUPOSTAMENTE PAGO EM DUPLICIDADE - SENTENÇA REFORMADA EM PARTE - RECURSO DESPROVIDO.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+Inicialmente, não se configura a litispendência reconhecida pelo juízo singular, conclusão que se extrai do exame do Processo n.º 1035971-11.2016.8.26.0053 em confronto com estes autos, isto por envolver partes e lançamentos distintos.
+ ..
+Tal circunstância impõe o reconhecimento de que, embora as exações digam respeito ao mesmo condomínio, não há identidade de partes, causa de pedir e pedido.
+ ..
+Segundo porque, o próprio apelante refere na sua peça recursal que "O pagamento das cotas referentes ao SQL supramencionado foi efetuado pelo condomínio Autor e rateado entre os moradores até maiode 2016. Foi apenas neste mês maio de 2016 que os condôminos começaram a receber as notificações individualizadas, com o cancelamento do SQL ascendente n. 020.046.0268-6 e consequente desdobro nos lotes0269-4 a 0732-7"(fls. 369).
+Ora, considerando que no caso concreto houve o rateio entre os moradores do valor pago a título de IPTU em relação à matricula mãe e posteriormente estes, para o mesmo período, passaram a receber cobrança retroativa individualizada devido ao desdobramento, suportando cada qual todo o ônus financeiro, não se vislumbra o interesse processual do autor.
+Não há, portanto, violação do art. 1.022 do CPC/2015 (antigo art. 535 do CPC/1973) quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a fundamentadamente (art. 165 do CPC/73 e do art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 1% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
