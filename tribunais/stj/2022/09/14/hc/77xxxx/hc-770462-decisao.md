@@ -1,0 +1,10 @@
+DECISÃO
+OLDACK ALEXANDRE CARNEIROalega sofrer coação ilegal em decorrência de acórdão doTribunal de Justiça do Estado de Pernambuco, que indeferiu o habeas corpus impetrado na origem (HC n.0012094-29.2022.8.17.9000).
+Infere-se dos autos que "o paciente teve sua prisão preventiva decretada a requerimento da autoridade policial, sob a acusação de supostamente integrar organização criminosa dedicada à lavagem de dinheiro do tráfico de drogas, nos autos do Processo de nº 0001311-04.2021.8.17.2730, tendo sido mantida a custódia em decisão proferida em 14/06/2022 após pedido de sua revogação" (fl. 39).
+A defesa assinala que não há justa causa para a medida de coação, lastreada em meras conjecturas. Ademais, o Juiz de primeiro grau não teria justificado o perigogerado pelo estado de liberdade do imputado. Pede a revogação ou a substituição da medida de coação, principalmente quando considerado que o suspeito se apresentou espontaneamento, no dia 26/4/2022, para cumprimento do manado de prisão e ainda não foi designada audiência de instrução.
+Decido.
+Ainicial do mandamus não veio acompanhada de cópia do decreto de prisão preventiva, ato apontado como coator.
+Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir e sua natureza urgente exige prova pré-constituída das alegações, pois não comporta dilação probatória. Era obrigatório ao impetrante apresentaro documento paracomprovar a aventada ilegalidade, o que não ocorreu.
+Ademais, "constatado que a alegação deexcesso de prazoda prisão não foi enfrentada pelo Tribunal de origem, fica esta Corte impedida de se debruçar sobre a matéria, sob pena de incorrer em indevidasupressão de instância"(AgRg no RHC n. 156.182/PA, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 23/8/2022, DJe de 30/8/2022).
+À vista do exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o processamento deste habeas corpus.
+Publique-se e intimem-se.
