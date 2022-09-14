@@ -1,0 +1,9 @@
+DECISÃO
+JULIA VOLTOLINI CAPARROZ interpõe agravo regimental contra as decisõesproferidas pela Presidência desta Corte, às fls. 607-608 e 615-617, que não conheceram dos embargos de divergência, em razão do não recolhimento das custas.
+Todavia, como ficou pacificado recentemente no âmbito da Terceira Seção, "osembargosdedivergência,embora não previstos na legislação processualpenal,são inquestionavelmente cabíveis no curso de processo criminal, sendo inexigível o pagamento decustasprocessuais em açãopenalpública" (AgRg nos EDcl nos EAREsp n. 1.870.740/RJ, Rel. Ministro Sebastião Reis Júnior, DJe 11/2/2022).
+Logo, em juízo de retratação, inerente ao agravo regimental, reconsidero as decisões impugnadas que exigiram o recolhimento de custas processuais, tornando-as sem efeito,e passo ao exame dos demais requisitos de admissibilidade dos embargos de divergência.
+Mediante análise dos autos, verifica-se que o acórdão embargado concluiu pela impossibilidade de se analisar o mérito do próprio agravo regimental apresentado contra a decisão que não conheceu do agravo em recurso especial, em razão da incidência da Súmula 182/STJ.
+Tal situação impede, por si só, o processamento dos embargos de divergência, visto que não se admite a sua interposiçãona hipótese de não ter sido analisado o mérito do recurso especial, a teor da Súmula n. 315 desta Corte Superior: "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial".
+Por fim, apenas como reforço, assinalo quetambém não foram observadas as exigências do art. 266 do RISTJ, na medida em que o insurgente apenas se restringiu a mera transcrição de ementas dos acórdãos paradigmas, sem proceder ao necessário confronto analítico.
+Ante o exposto, em juízo de retratação, com fundamento no art. 266-C do RISTJ, indefiro liminarmente os embargos de divergência.
+Publique-se e intimem-se.
