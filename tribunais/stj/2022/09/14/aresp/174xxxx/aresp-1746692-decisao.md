@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por VICTOR HUGO MOREIRA MARQUES contra decisão que inadmitiu recurso especial (fls. 257-265).
+Em primeiro grau, o agravante foi condenado às penas de 9 anos e 4 meses de reclusãono regime inicial fechadoe de 1.399 dias-multa, pela prática dos crimes descritos nos arts. 33, caput, e 35, ambos c/c o art. 40, IV, todos da Lei n. 11.343/2006, na forma do art. 69 do Código Penal.
+O Tribunal de origem negou provimento ao recurso da defesa, mantendo integralmente a sentença condenatória.
+No recurso especial, fundado no art. 105, III, a, da Constituição Federal, a defesa apontou violação dos arts. 41 do CPP e 35 da Lei n. 11.343/2006, ao argumento de que o parqueto denunciarapelo delito de associação para o narcotráfico, sem a indicação precisa e específicados demais associados meliantes, tendo a exordial feito apenas menção genérica à associação criminosa, o que seria insuficiente para a configuração das elementares exigidas pelo delito.
+Apresentadas contrarrazões (fls. 251-255), o apelo extremo foi inadmitido diante da incidência das Súmulas n. 7 e 83do STJe 282 e 356 doSTF.
+Requer o agravante o conhecimento do agravo e o acolhimento do recurso especial, pois não demandaria reexame de provas, o entendimento adotado pelo Tribunal de origem não estaria em conformidade com a jurisprudência doSTJ ea matéria estaria devidamente prequestionada.
+Oferecida contraminuta (fls. 300-301), o Ministério Público Federal opinou pelo desprovimento do agravo em recurso especial (fls. 322-324).
+É o relatório. Decido.
+A irresignação não reúne condições de prosperar.
+O Tribunal de origem não admitiu o recurso especial diante da incidência das Súmulas n. 7 e 83 do STJ e 282 e 356 do STF.
+A parte agravante, nas razões do agravo em recurso especial, limitou-se a reiterar os argumentos do recurso especial, a defender a incongruência da aplicação simultânea das súmulas n. 7 e 83 do STJ, bem como a argumentar que a análise da pretensão recursal prescinde do revolvimento fático-probatório dos autos de origem, pois, "no presente recurso, que versa sobre questões eminentemente de direito, consubstanciadas na possibilidade de reconhecimento de ausência de preenchimento dos requisitos legais necessários à configuração do crime de associação ao tráfico  quais sejam, estabilidade e permanência com o mínimo de duas pessoas  na esteira das normas contidas no 35 da Lei nº 11.343/2006" (fl. 292).
+Assim, deixou o ora agravante de impugnar, de forma adequada e suficiente, a incidência da Súmulan. 7 do STJ.
+A refutação apta a infirmar a decisão agravada deve ser efetiva, individualizada, específica e fundamentada (AgRg no AREsp n. 1.708.623/SE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 31/8/2020; e AgRg no AREsp n. 1.373.929/MS, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 19/2/2019), o que não ocorreu na espécie.
+Ressalte-se que, relativamente à Súmula n. 7 do STJ, não basta a parte "sustentar genericamente que a matéria seria apenas jurídica, sem explicitar, à luz da tese recursal trazida no recurso especial, de que maneira a análise não dependeria do reexame de provas" (AgRg no AREsp n. 1.677.886/MS, Sexta Turma, relatora Ministra Laurita Vaz, DJe de 3/6/2020).
+Portanto,tendo em vista que, no julgamento dos EAREsp n. 746.775/PR, em 19/9/2018, a Corte Especial do Superior Tribunal assentou que a decisão de inadmissibilidade do recurso especial é incindível e deve ser impugnada em sua integralidade, é de rigor a incidência, por analogia, da Súmula n. 182 do STJ, in verbis: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Ante o exposto, com fundamento no art. 34, XVIII, a, c/c o art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
