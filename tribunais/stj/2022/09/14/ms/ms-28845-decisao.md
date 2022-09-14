@@ -1,0 +1,13 @@
+DECISÃO
+MARCOS RODRIGO DA SILVA impetra mandado de segurançacom pedido de liminar de restituição de bens apreendidos,apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Alega o impetrante que o delegado de polícia titular da 8ªDelegacia de Polícia Seccional deSão Mateus,Central Especializada de Repressão a Crimes e Ocorrências Diversas (CERCO), representou ao Juízo de Direito do DIPO 3 pela busca e apreensão, emmedida cautelar, para apuração deassociação criminosa, constrangimento ilegal, tráfico de drogas, poluição sonora, perturbação ao sossego e desrespeito às medidas sanitárias preventivas (Decreto estadual n. 64.881/2020e suas alterações e Decreto estadual n. 64.959/2020 e suas alterações), infrações penais relacionadas àrealização de bailes funk no período de 1º/1 a 31/1/2022.
+Afirma que, requerida a restituição dos bens,o pedido foi indeferidopelo Juízo de primeiro grau.
+Argumenta que a medida de busca e apreensão não solucionou os problemas sociais da região e inexiste nos autos elemento que aponte a vinculação dos equipamentos apreendidos a práticas criminosas.
+Requer, liminarmente, a restituição dos bens e, no mérito, a concessão da ordempara reforma do acórdão lançado nos autos do Processo n. 2082184-13.2022.8.26.0000,determinando-sea restituição dos bens apreendidos etornando-se definitiva a liminarcom a nomeação doimpetrantepara o cargo de depositário.
+É o relatório. Decido.
+O Supremo Tribunal Federal e o Superior Tribunal de Justiça não admitem a impetração de mandado de segurançaem substituição ao recurso ordinário próprio, pois as competências do STF e a do STJ estão relacionadas com a análise de matéria de direito estrito prevista taxativamente na Constituição Federal. Esse entendimento tem sido adotado sem prejuízo de eventual deferimento da ordem de ofício em caso de flagrante ilegalidade.
+Não caso, não é possível sequer aferiro alegado constrangimento ilegal, tendo em vista a ausência de documentos essenciais para o prosseguimento da impetração, uma vez que o impetrante não juntou aos autos o acórdão combatido, sem o qual é inviável a plena compreensão do quadro fático-processual, sendoaté mesmoimpossível definir a competência desta Corte para julgar a matéria.
+Cumpre lembrar que, por sua natureza, o mandado de segurança, como o habeas corpus,não admite dilação probatória, incumbindo ao impetrante a juntada de prova pré-constituída do direito alegado.
+Ante o exposto, nos termos do art. 210 do RISTJ, indefiro liminarmente o presente pedido.
+Dê-se ciência ao Ministério Público Federal.
+Publique-se. Intimem-se.
