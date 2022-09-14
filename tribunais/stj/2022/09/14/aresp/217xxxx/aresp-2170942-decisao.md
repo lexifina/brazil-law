@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo manejado por Maria José Moura Santos contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de Sergipe, assim ementado (fls. 490/491):
+APELAÇÃO CÍVEL - SERVIDOR PÚBLICO DO MUNICÍPIO DE NOSSA SENHORA DAS DORES - AUXILIAR DE SERVIÇOS GERAIS - PRELIMINAR DE JULGAMENTO "ULTRA PETITA".INOCORRÊNCIA.PEDIDO E CAUSA DE PEDIR QUE SE AJUSTAM AO PROVIMENTO CONFERIDO - INSALUBRIDADE EM GRAU MÁXIMO RECONHECIDA POR PERÍCIA - DIVERGÊNCIA APENAS NO TOCANTE AO PERCENTUAL DEVIDO - EXISTÊNCIA DE PREVISÃO PRÓPRIA NA LEI Nº 25/2001 REGULAMENTADA PELA LEI 171/2010, APLICÁVEL AOS SERVIDORES MUNICIPAIS DE NOSSA SENHORA DAS DORES - NÃO INCIDÊNCIA DA NR 15 DO MINISTÉRIO DO TRABALHO - PRECEDENTES DESTA CORTE - PERCENTUAL DE 10% (DEZ POR CENTO)DEVIDO - RECURSO CONHECIDO E IMPROVIDO - DECISÃO UNÂNIME.
+Nas razões do recurso especial, a parte agravante apontaviolação aoart. 192 da CLT. Sustenta, em síntese, que "a autora sempre laborou em contato com agentes insalubres que ensejam o pagamento do adicional em grau máximo.A norma citada possui aplicabilidade imediata, não devendo os servidores deste Município ficar à mercê de uma norma regulamentadora para fazer valerdireito que lhe é devido. Valendo lembrar também que há intenção do legislador em conceder tais adicionais aos servidores requeridos, no art. 59 do referido estatuto." (fls. 542/543)
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não merece acolhida.
+Inicialmente, observa-se que amatéria pertinente ao art. 192 da CLT não foi apreciada pela instância judicante de origem, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+Ademais, colhe-se do acórdão o seguinte trecho, verbis (fls. 493/495):
+(..) não obstante a Carta Constitucional, garantir aos trabalhadores o direito à percepção do referido adicional, trata-se de norma de eficácia limitada, dependente de lei regulamentadora.
+É necessária, portanto, a edição de lei que regulamente a concessão aos servidorespúblicos do adicional de insalubridade, de modo a definir quais atividades são consideradas insalubres ou perigosas, os cargos abrangidos e os respectivos índices, sob pena de restar lesado o princípio da legalidade ao qual toda atividade administrativa está condicionada.
+No caso dos autos, há legislação específica que prevê o pagamento do adicional de insalubridade, conforme Lei Municipal nº 25/2011(art. 52, IV, art. 59), regulamentada pela Lei nº 171/2010
+(..)
+Não há dúvida, pois, quanto à exposição a agentes insalubres em seu grau máximo, estando a discussão restrita quanto à incidência do percentual previsto na Lei Municipal nº 171/2010 ou da NBR 15. A Norma Regulamentadora 15, editada por meio da Portaria nº 3.214/78 pelo Ministério do Trabalho e do Emprego, estabelece o percentual de 40%
+(..)
+Dessa forma, o Estatuto dos Servidores Públicos do Município de Nossa Senhora das Dores (Lei nº 25/2011), regulamentado pela pela Lei nº 171/2010, expressamente prevê um adicional de 10% (dez por cento) sobre o vencimento do cargo efetivo para servidores que exercem atividade em ambientes insalubres.
+Vale ressaltar que os precedentes desta Corte aplica, por analogia, o percentual previsto na Norma Regulamentadora 15, editada por meio da Portaria nº 3.214/78 pelo Ministério do Trabalho e do Emprego, quando não há previsão na legislação municipal quanto ao percentual a ser aplicado, o que não é o caso dos autos.
+Nesse contexto,o exame da controvérsia, tal como enfrentada pelas instâncias ordinárias, exigiria a análise de dispositivos de legislação local, pretensão insuscetível de ser apreciada em recurso especial, conforme a Súmula 280/STF ("Por ofensa a direito local não cabe recurso extraordinário.").
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
