@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpusimpetrado em favor de Felipe Xavier de Almeida, em que se aponta como autoridade coatora a Sexta Câmara Criminal do Tribunal de Justiça de São Paulona Apelação n.1500490-11.2022.8.26.0540.
+Consta dos Autos n. 1500490-11.2022.8.26.0540 que o pacientefoi condenado à pena de 5 anos de reclusão, em regime fechado, e 500 dias-multa,pelo Juízo da 1ª Vara Criminal da comarca de Mauá/SP, como incurso noart. 33, caput, da Lei n. 11.343/2006, em face da apreensão de 5 invólucros de cocaína, com peso de 4,2 g, 2 invólucros de skunk, com peso líquido de 0,4 g, e 23 invólucros de maconha, com peso de 42,9 g.
+Em sede de apelação,a defesa apontou ausência de provas para a condenação. A Sexta Câmara Criminal do Tribunal de Justiça de São Paulo negou provimento ao recurso (fls. 90/100). Esta, a ementa do julgado (fl. 91):
+TRÁFICO DE DROGAS - art. 33, caput, da Lei nº 11.343/06. Absolvição por falta de provas. Inadmissibilidade. Conjunto probatório (consistente. Condenação mantida. PENAS. Bem dosadas e justificadas, não comportando modificação. Regime fechado mantido. Recurso desprovido.
+Sustenta a defesa que o paciente sofreu coação moral irresistível pelos traficantes. Requer, diante disso, a absolvição, ou de forma subsidiária, a desclassificação da conduta para o art. 37 da Lei n. 11.343/2006, por atuar apenas como informante. Alega, ainda, ser devido o reconhecimento da causa de diminuição prevista no art.41da Lei n. 11.343/2006, por colaboração com a investigação policial, bem como o abrandamento do regime (fls. 3/26).
+Decisão da Vice-Presidência desta Corte, no exercício da Presidência, indeferindo o pedido de liminar (fls. 103/104).
+Informações prestadas pela Presidência daSeção Criminal do Tribunal de Justiça de São Paulo (fls. 112/134).
+Parecer ministerialopinando pelo não conhecimento do habeas corpus (fls. 136/143).
+É o relatório.
+As razões da defesa, quanto aos pedidos de absolvição e desclassificação do crime de tráfico para o art. 37da Lei n. 11.343/2006,demandam o reexame fático-probatório dos autos. Essa matéria foi alegada, em sede de apelação, e a Corte local entendeu que existem provas consistentes nos autos para que fosse mantida a condenação. Com efeito, o habeas corpus não é a via adequada para apreciar o pedido deabsolviçãoou dedesclassificaçãode condutas, tendo em vista que, para se desconstituir o decidido pelas instâncias de origem, mostra-se necessário oreexameaprofundado dos fatos e dasprovasconstantes dos autos, procedimento vedado pelos estreitos limites do mandamus, caracterizado pelo rito célere e por não admitir dilação probatória(AgRg no HC n. 701.589/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 12/11/2021) - (AgRg no HC n. 663.714/RS, Ministro Rogerio Schietti Cruz, Sexta Turma,DJe 31/8/2022).
+Da mesma forma, a pretensão dereconhecimento da causa de diminuição prevista no art.41 da Lei de Drogas, por entender ter o paciente atuado como informante, foi afastada pela instância ordinária.Confira-se o julgado (fl. 99):
+Não era mesmo o caso de se aplicar a redução do art. 41,da Lei nº 11.343/06, uma vez que não houve nenhum tipo de colaboração voluntária com a investigação criminal, sendo certo que o réu, embora tenha confessado a participação no crime, alegou estar sendo coagido, porém, sem declinar a identificação de seus comparsas.
+Assim, mostra-se, também, inviável a análisepor demandar profunda incursãono acervo fático-probatório dos autos.
+Não há falar em ilegalidade no regime de cumprimento da pena, já que apesar de a pena-base ter sido fixada no piso mínimo, o paciente é reincidente.
+Ante o exposto, denego a ordem.
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS.5 INVÓLUCROS DE COCAÍNA, COM PESO DE 4,2 G, 2 INVÓLUCROS DE SKUNK, COM PESO LÍQUIDO DE 0,4 G, E 23 INVÓLUCROS DE MACONHA, COM PESO DE 42,9 G. PEDIDO DE ABSOLVIÇÃO E DESCLASSIFICAÇÃO. REEXAME FÁTICO. PLEITO DE RECONHECIMENTO DO PRIVILÉGIO. IMPOSSIBILIDADE. REEXAME DOS FATOS. REGIME DE CUMPRIMENTO DA PENA ADEQUADO. REINCIDÊNCIA.
+Ordem denegada.
