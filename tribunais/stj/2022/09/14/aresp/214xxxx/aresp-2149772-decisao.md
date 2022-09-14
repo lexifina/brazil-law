@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo contra a decisão que inadmitiu o recurso especial interposto por IGOR LUIS MARTINS, com fundamento na alínea "a" do permissivo constitucional, em oposição a acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, que negou provimento à apelação, nos seguintes termos (e-STJ, fl. 238):
+"Apelação criminal - Furto qualificado - Sentença condenatória pelo art. 155, §4º, inciso I, do Código Penal. Recurso defensivo que busca a absolvição por fragilidade probatória. Pleito subsidiário pelo afastamento da qualificadora referente ao rompimento de obstáculo, e a fixação de regime inicial aberto.
+Materialidade e autoria devidamente comprovadas - Acusado que negou as acusações negativa que não prospera depoimentos da vítima e policiais que confirmaram a prática do furto em questão condenação de rigor.
+Qualificadora do rompimento de obstáculo que foi justificadamente reconhecida em razão da prova oral e pericial.
+Dosimetria - Pena-base fixada no mínimo legal. Na segunda fase, presente a circunstância agravante da reincidência. Sem alterações na terceira fase.
+Regime inicial semiaberto inalterado, eis que justificado.
+Réu que ostenta reincidência em crime doloso.
+Impossibilidade de substituição da pena privativa de liberdade por restritivas de direitos, por ausência dos requisitos legais.
+Recurso desprovido.
+Mandado de prisão a ser expedido oportunamente, observado o regime inicial semiaberto."
+Em suas razões recursais, a parte recorrente aponta violação aos artigos 33 e 155, §4º, I do CP.Aduz que, em síntese, que: (I)"a matéria de direito federal em discussão foi devidamente prequestionada, pois o venerando Acórdão recorrido deixou claro os motivos do não afastamento da qualificadora e da não alteração do regime inicial de cumprimento de pena para o aberto" (e-STJ, fl. 260); (II)"mister seja afastada a qualificadora decorrente do rompimento de obstáculo, haja vista sedimentada doutrina e jurisprudência no sentido da impossibilidade de aplicação da referida majorante em razão de destruição/rompimento dirigido à própria coisa objeto do furto" (e-STJ, fl. 261); e (III)há a possibilidade de impor-se o regime prisional aberto, apesar da reincidência do agente, mormente se levarmos em consideração o afastamento da qualificadora do rompimento de obstáculo.
+Com contrarrazões (e-STJ, fls. 275-281), o recurso especial foi inadmitido na origem (e-STJ, fls. 284-285), ao que se seguiu a interposição de agravo.
+Remetidos os autos a esta Corte Superior, o MPF manifestou-se pelo conhecimento do agravo para não conhecer do recurso especial (e-STJ, fls. 314-317).
+É o relatório.
+Decido.
+O agravo impugna adequadamente os fundamentos da decisão agravada, devendo ser conhecido. Passo, portanto, ao exame do recurso especial propriamente dito.
+Com efeito, não se desconhece que a jurisprudência desta Corte Superior é firme em assinalar que a qualificadora de rompimento de obstáculo é aplicável quando o agente, com o objetivo de subtrair algum bem que está no interior do veículo, quebra o vidro da janela ou, de outra forma, danifica o automóvel (AgRg no AREsp783.675/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 9/3/2016).
+Sucede que, quando o rompimento ou a violência recai sobre a própria coisa objeto do furto, a jurisprudência prevalente nesta Corte ainda é no sentido de que não se aplica a qualificadora em questão.
+Confira-se:
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. PENAL. FURTO QUALIFICADO DE VEÍCULO AUTOMOTOR. VIOLAÇÃO DOS ARTS. 386, VII, DO CPP E 155, § 4º, I, DO CP. PEDIDO DE DECOTE DA QUALIFICADORA DO ROMPIMENTO DE OBSTÁCULO. JURISPRUDÊNCIA DO STJ QUE NÃO A ADMITE QUANDO O AGENTE VISA A SUBTRAÇÃO DO PRÓPRIO BEM. PRECEDENTES. DETERMINADO O RETORNO DOS AUTOS PARA NOVA DOSIMETRIA.
+1. Consta da denúncia que, no dia 12 de outubro de 2014, por volta das 15h, na Cachoeira Quebra dos Deuses, situada no Grande Colorado, Sobradinho II-DF, o denunciado, com vontade livre e consciente, subtraiu em proveito próprio, mediante destruição ou rompimento de obstáculo à subtração da coisa, o veículo VVV/Fusca 1300, placas JEX-1733/DF, cor bege, de propriedade da vítima Anderson Alves de Lima Júnior.
+2. Quando o rompimento ou a violência recai sobre a própria coisa objeto do furto, a jurisprudência prevalente nesta Corte ainda é no sentido de que não se aplica a qualificadora de destruição ou rompimento de obstáculo.
+3.  ..  o entendimento desta Corte Superior de Justiça é no sentido de que a incidência da qualificadora do art. 155, § 4º, inciso I, do Código Penal, pressupõe conduta praticada pelo Réu objetivada à destruição ou ao rompimento do óbice que dificulta a obtenção da coisa. Se o dano é contra o próprio objeto do furto, sendo o obstáculo peculiar à res furtiva, não incide a majorante (AgRg no AREsp n. 230.117/DF, Ministro Félix Fischer, Quinta Turma, DJe 3/3/2015 - grifo nosso).
+4. Agravo regimental improvido.
+(AgRg no REsp n. 1.918.935/DF, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 14/9/2021, DJe de 17/9/2021. Grifou-se)
+Assim, ao contrário do decidido pela Corte de origem, o entendimento dessa Corte Superior de Justiça é no sentido de que a incidência da qualificadora do art. 155, § 4º, inciso I, do Código Penal, pressupõe conduta praticada pelo réu objetivada à destruição ou ao rompimento do óbice que dificulta a obtenção da coisa. Se o dano é contra o próprio objeto do furto, sendo o obstáculo peculiar à res furtiva, não incide a majorante (AgRg no AREsp 230.117/DF, Ministro Félix Fischer, Quinta Turma, DJe 3/3/2015).
+Ante o exposto, com fundamento no art. 255, § 4º, II e III, do Regimento Interno do STJ, conheço do agravo para darparcial provimentoao recurso especial, paraafastar a qualificadora do rompimento de obstáculo, determinando o retorno dos autos para nova dosimetria da pena com a fixação do regime adequado.
+Publique-se. Intimem-se.
