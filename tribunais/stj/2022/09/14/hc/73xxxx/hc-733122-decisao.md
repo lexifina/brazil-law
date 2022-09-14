@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se dehabeas corpuscom pedido de liminar impetrado em favor de LEONARDO DA SILVA RODRIGUES SIMARROem que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo(HC n. 2300240-47.2021.8.26.0000).
+O paciente foi condenado às penas de 8 anos, 4 meses e 24 dias de reclusãoem regime inicial fechadocomo incurso nos arts. 33,caput, da Lei n. 11.343/2006 e333,caput, do Código Penal, em concurso material, na forma do art. 69 do Estatuto Repressivo (fls. 20-41).
+Impetrado prévio writ em face do édito condenatório, aordem foi denegada, nos termos do acórdãoassim ementado(fl. 117):
+HABEAS CORPUS- Tráfico de drogas e corrupção ativa - Revogação da prisão preventiva - Impossibilidade- Proferida sentença condenatória - Paciente que permaneceu em custódia durante o processo - Inalterados os motivos que ensejaram a custódia cautelar -Ordem denegada.
+Nas razões do presentewrit, a impetrante pugna pelo reconhecimento da aplicação da redutora prevista no § 4º do art. 33 da Lei de Drogas, afastada devido à expressiva quantidade de entorpecentes apreendida.
+Ressalta que o paciente faz jus ao benefício do instituto tráfico privilegiado.
+Afirma que é indevida a majoração da pena-base na primeira e na segunda fases da dosimetria, pois a utilização das circunstâncias inerentes ao crime para aumentar a pena-base constituibis in idem, sendo vedada a dupla valoração negativa da mesma circunstância.
+Requer, liminarmente e no mérito, a concessão da ordem paraque seja reconhecido e aplicado o redutor do § 4ºdo art. 33da Lei 11.343/2006em seu grau máximo (2/3).
+Pedido liminar indeferido às fls. 127-128.
+As informações foram prestadas às fls. 132-144 e 147-151.
+O Ministério Público Federal manifestou-se pelo não conhecimento do writ,em parecer resumido na seguinte ementa (fl. 153):
+HABEAS CORPUS SUBSTITUTIVO. TRÁFICO DE DROGAS. CORRUPÇÃO ATIVA. CAUSA ESPECIAL DE DIMINUIÇÃO. QUANTIDADE DE ENTORPECENTES (142,99G E SETE PLANTAS DE MACONHA). BIS IN IDEM. MÉRITO NÃO ANALISADO NA ORIGEM. PENDÊNCIA DE RECURSO DE APELAÇÃO. RACIONALIDADE E USO DESVIRTUADO DO WRIT. TESE FIXADA PELA TERCEIRA SEÇÃO DO STJ (HC Nº HC 482549/SP).
+1. É pacífica a jurisprudência no sentido de que não deve ser conhecido o habeas corpus impetrado como substitutivo de recurso.
+2. Na pendência de exame da apelação, não se revela cabível a impetração contemporânea de habeas corpus, para deduzir idêntica pretensão, que não reflete, imediatamente, na liberdade ambulatorial do paciente.
+3. Parecer pelo não conhecimento do habeas corpus.
+É o relatório.
+Decido.
+Ainda que inadequada a impetração de habeas corpus em substituição à revisão criminal ou ao recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o STJ considera passível de correção de ofício o flagrante constrangimento ilegal.
+Não se constata a existência de flagrante constrangimento ilegal que autorize a atuação ex officio.
+Nos casos em que a pretensão esteja em conformidade ou em contrariedade com súmula ou jurisprudência pacificada dos tribunais superiores, a Terceira Seção desta Corte admite o julgamento monocrático da impetração antes da abertura de vista ao Ministério Público Federal, em atenção aos princípios da celeridade e da efetividade das decisões judiciais, sem que haja ofensa às prerrogativas institucionais do parquet ou mesmo nulidade processual (AgRg no HC n. 674.472/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 10/8/2021; e AgRg no HC n. 530.261/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 7/10/2019).
+Contudo, no caso dos autos, verifica-se que a matéria questionada não foi analisada pelo Tribunal de origem, o que inviabiliza a análise por esta Corte, sob pena de indevida supressão de instância.
+Ademais, consta das informações, bem como de consulta ao site do Tribunal, que tanto a defesa quanto o Ministério Público interpuseram recurso de apelação, estando pendente de julgamento na origem, os quais insurgem contra a mesma sentença aqui questionada.
+Assim, diante das mencionadas interposições dos o recursos cabíveis na origem, também não se vislumbra uma possível negativa de prestação jurisdicional a ensejar uma concessão da ordem de ofício, porquanto, o conhecimento do segundo recurso, no caso habeas corpus substitutivo de apelação, apresentado concomitante, pela defesa encontra-se, de fato, obstado, pois a interposição de dois ou mais recursos, pela mesma parte e contra a mesma decisão ou acórdão, impede o conhecimento daquele que foi apresentado por último, tendo em vista a preclusão consumativa e o princípio da unirrecorribilidade recursal.
+Confiram-se:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. PRÉVIA SUBMISSÃO A EXAME CRIMINOLÓGICO. GRAVIDADE ABSTRATA DOS DELITOS. LONGA PENA A CUMPRIR. FUNDAMENTAÇÃO INIDÔNEA. INTERPOSIÇÃO SIMULTÂNEA DE VÁRIOS AGRAVOS. UNIRRECORRIBILIDADE. PRECLUSÃO CONSUMATIVA. CONHECIMENTO APENAS DO PRIMEIRO RECURSO. AGRAVO REGIMENTAL DESPROVIDO.
+1. A interposição simultânea de vários agravos regimentais, pela parte contra o mesmo ato judicial conduz ao julgamento apenas do primeiro recurso, em face dos princípios da unirrecorribilidade e da preclusão consumativa.
+2. Este Tribunal Superior possui entendimento pacífico no sentido de que a gravidade abstrata dos delitos pelos quais restou condenado o paciente, tampouco a sua longa pena a cumprir, não são fundamentos idôneos para obstar, bem ainda condicionar o exame dos benefícios da execução penal. Precedentes.
+3. Agravo regimental desprovido.(AgRg no HC n. 741.452/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 15/8/2022.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL. DECISÃO DA PRESIDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. INTERPOSIÇÃO DE MAIS DE UM RECURSO CONTRA A MESMA DECISÃO. PRINCÍPIO DA UNIRRECORRIBILIDADE. PRECEDENTES. NÃO INFIRMADOS TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182/STJ. AGRAVO REGIMENTAL DE FLS. 1074-1.080 DESPROVIDO. AGRAVO REGIMENTAL DE FLS. 1.056-1.062 NÃO CONHECIDO. ATENUANTE DA CONFISSÃO ESPONTÂNEA. RECONHECIMENTO. SÚMULA N. 545/STJ. PENAS DE MULTA QUE NÃO GUARDAM PROPORCIONALIDADE COM AS PENAS PRIVATIVAS DE LIBERDADE IMPOSTAS. HABEAS CORPUS CONCEDIDO, DE OFÍCIO.
+1. O agravo regimental de fls. 1056-1062 (Petição n. 310602/2022) não merece ser conhecido, pois, segundo a jurisprudência desta Corte Superior de Justiça, "quando da interposição simultânea de dois agravos regimentais contra o mesmo ato judicial e pelo mesmo agravante, deve ser conhecido apenas o primeiro deles, por força do princípio da unirrecorribilidade e da preclusão consumativa" (AgInt no AREsp 1.227.973/RJ, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 05/06/2018, DJe 12/06/2018).
+2. Nas razões do agravo em recurso especial, não foi rebatido, especificamente, o fundamento da decisão agravada, relativo à incidência da Súmula n. 83/STJ.
+3. Não foi demonstrado o desacerto da decisão agravada, indicando eventual superação do entendimento do STJ, em que a Corte local se orientou ou, ainda, eventual distinção com o caso dos autos.
+4. O comando contido na Súmula n. 83/STJ também é aplicável aos recursos interpostos com fulcro nas alíneas a e c do permissivo constitucional.
+5. Verificada a existência de ilegalidades evidentes, aptas a serem corrigidas por meio da concessão de habeas corpus, de ofício.
+6. A atenuante da confissão espontânea, prevista no art. 65, inciso III, alínea d, do Código Penal, deve ser reconhecida, ainda que o agente a tenha revelado, durante a persecução criminal, de forma parcial ou qualificada, restrita à fase policial ou processual, ou até mesmo quando dela houver ulterior retratação. Incidência da Súmula n. 545/STJ.
+7. A fixação de 480 (quatrocentos e oitenta) dias-multa não guarda simetria com o quantum de pena corporal, impondo-se a redução.
+8. Agravo regimental de fls. 1074-1080 (Petição n. 310509/2022) desprovido. Agravo regimental de fls. 1056-1062 (Petição n. 310602/2022) não conhecido. Concedido habeas corpus, de ofício, a fim de reconhecer a incidência da confissão espontânea e reduzir o número de dias-multa.(AgRg no AREsp n. 2.091.731/TO, relatora Ministra Laurita Vaz, Sexta Turma,DJe de 18/8/2022, destaquei.)
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
