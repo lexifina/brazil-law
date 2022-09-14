@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo interno interpostoem face de decisão monocrática, de minha relatoria, cuja ementa é a seguinte:
+PROCESSUAL CIVIL. ADMINISTRATIVO. RECURSO ESPECIAL. SERVIDOR PÚBLICO. OFENSA AO ART. 1.022 DO CPC. NÃO CONFIGURAÇÃO. CORREÇÃO MONETÁRIA. APLICAÇÃO DO IPCA-E. RECURSO ESPECIAL NÃO PROVIDO.
+Verifico que a matéria tratada nos autos foi admitida para julgamento de uniformização jurisprudencial- TEMA 1170: RE 1317982, Recurso extraordinário em que se discute, à luz dos artigos 5º, XXXV, XXXVI e LIV, e 105, III, da Constituição Federal a aplicabilidade dos juros previstos na Lei 11.960/2009, tal como definido no julgamento do RE 870.947 (Tema 810 da repercussão geral), na execução de título judicial que tenha fixado expressamente índice diverso.
+OSupremo Tribunal Federal reconheceu a repercussão geral da questão relativa à validade dos juros moratórios aplicáveis nas condenações da Fazenda Pública, em virtude da tese firmada no RE 870.947 (Tema 810/STF), na execução de título judicial que tenha fixado expressamente índice diverso (RE 1.317.982, Tema 1.170/STF).
+Confira-se a ementa do julgado:
+RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. JUROS MORATÓRIOS INCIDENTES SOBRE CONDENAÇÕES JUDICIAIS DA FAZENDA PÚBLICA. ARTIGO 1º-F DA LEI 9.494/1997, COM A REDAÇÃO DADA PELA LEI 11.960/2009. RE 870.947. TEMA 810 DA REPERCUSSÃO GERAL. GARANTIA DA COISA JULGADA. JUÍZO NEGATIVO DE RETRATAÇÃO NA ORIGEM. MULTIPLICIDADE DE RECURSOS EXTRAORDINÁRIOS. RELEVÂNCIA DA QUESTÃO CONSTITUCIONAL. MANIFESTAÇÃO PELA EXISTÊNCIA DE REPERCUSSÃO GERAL.
+(RE 1317982 RG, Relator(a): MINISTRO PRESIDENTE, Tribunal Pleno, julgado em 23/09/2021, PROCESSO ELETRÔNICO DJe-213 DIVULG 26-10-2021 PUBLIC 27-10-2021).
+Dessa forma, encontrando-se a matéria julgadaem repercussão geralpelo Supremo Tribunal Federal, deve ser viabilizado o juízo de conformaçãodisciplinado pelos arts. 1.039 e 1.040 do CPC/2015:
+Art. 1.039. Decididos os recursos afetados, os órgãos colegiados declararão prejudicados os demais recursos versando sobre idêntica controvérsia ou os decidirão aplicando a tese firmada.
+Parágrafo único. Negada a existência de repercussão geral no recurso extraordinário afetado, serão considerados automaticamente inadmitidos os recursos extraordinários cujo processamento tenha sido sobrestado.
+Art. 1.040. Publicado o acórdão paradigma:
+I - o presidente ou o vice-presidente do tribunal de origem negará seguimento aos recursos especiais ou extraordinários sobrestados na origem, se o acórdão recorrido coincidir com a orientação do tribunal superior;
+II - o órgão que proferiu o acórdão recorrido, na origem, reexaminará o processo de competência originária, a remessa necessária ou o recurso anteriormente julgado, se o acórdão recorrido contrariar a orientação do tribunal superior;
+III - os processos suspensos em primeiro e segundo graus de jurisdição retomarão o curso para julgamento e aplicação da tese firmada pelo tribunal superior;
+IV - se os recursos versarem sobre questão relativa a prestação de serviço público objeto de concessão, permissão ou autorização, o resultado do julgamento será comunicado ao órgão, ao ente ou à agência reguladora competente para fiscalização da efetiva aplicação, por parte dos entes sujeitos a regulação, da tese adotada.
+Nesse contexto, cumpre esclarecer que, somente depois de realizada essa providência, a qual representa o exaurimento da instância ordinária, o recurso especial deverá ser encaminhado, em sua totalidade, para este Tribunal Superior, a fim de que possam ser analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento da Corte a quo.
+Ante o exposto, determino a devolução dos autos ao Tribunal de origem, para que este realize o juízo de adequação do caso concreto com o que foi decidido no RE 1317982(Tema 1170),determinandoa devolução dos autos ao Tribunal de origem, com a respectiva baixa, para que, em observância aos arts. 1.039 e 1.040 do CPC:
+a) negue seguimento ao recurso se a decisão combatida coincidir com a orientação emanada pelo Tribunal Superior; ou
+b) proceda ao juízo de retratação na hipótese de o acórdão impugnado divergir da decisão sobre o tema objeto da afetação.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CONSECTÁRIOS LEGAIS DA CONDENAÇÃO. FAZENDA PÚBLICA. LEI 11.960/2009. GARANTIA DA COISA JULGADA. TEMA 1.170. REPERCUSSÃO GERAL RE 1.317.982. DEVOLUÇÃO DOS AUTOS PARA O TRIBUNAL DE ORIGEM PARA QUE SEJAM OBSERVADAS AS REGRAS PREVISTAS NOS ARTS. 1.039 E 1.040 DO CPC/2015. AGRAVO INTERNO PROVIDO.
