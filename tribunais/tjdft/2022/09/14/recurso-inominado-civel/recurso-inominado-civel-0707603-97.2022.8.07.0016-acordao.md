@@ -1,0 +1,56 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+Terceira Turma Recursal DOS JUIZADOS ESPECIAIS DO DISTRITO FEDERAL
+Processo N.RECURSO INOMINADO CÍVEL 0707603-97.2022.8.07.0016RECORRENTE(S)PAULO CESAR THIMOTHEORECORRIDO(S)DISTRITO FEDERALRelatorJuiz FERNANDO ANTONIO TAVERNARD LIMA Acórdão Nº1613798
+
+EMENTA
+
+CONSTITUCIONAL E ADMINISTRATIVO. POLICIAL MILITAR DO DISTRITO FEDERAL. CONTRIBUIÇÃO PREVIDENCIÁRIA. NÃO INCIDÊNCIA DO ARTIGO 40, § 18 DA CONSTITUIÇÃO FEDERAL, A PAR DO REGRAMENTO ESPECIAL PARA SERVIDORES MILITARES: ALÍQUOTA IGUAL À APLICÁVEL PARA AS FORÇAS ARMADAS (LEI FEDERAL 13.954/2019). NÃO PREVALÊNCIA DO TEMA 1.177 DO STF. COMPETÊNCIA DA UNIÃO PARA ORGANIZAR E MANTER AS FORÇAS DE SEGURANÇA PÚBLICA DO DISTRITO FEDERAL (CF, ARTIGO 21, XIV). RECURSO IMPROVIDO.
+
+I. O ora recorrente pretende: (a) o reconhecimento de que a “Contribuição para Pensão Militar” e a “Contribuição da Pensão Militar Adicional” devem incidir apenas sobre o que exceder o teto estabelecido para o Regime Geral de Previdência nos termos do artigo 40, § 18, da Constituição Federal, com a condenação do requerido à devolução dos valores descontados a maior nos 5 (cinco) anos anteriores ao ajuizamento da ação; (b) o retorno da cobrança relativa à Contribuição Previdenciária à razão de 7,5% da pensão militar, bem como a restituição dos valores pagos a maior, “indevidamente” descontados. Insurge-se contra sentença de improcedência.
+
+II. Sustenta, em síntese, que: (a) “Os militares do Distrito Federal não estão atrelados à legislação aplicável às Forças Armadas porque possui lei própria, e nem estão enquadrados no regime constitucional destinado aos servidores públicos civis ou ao regime geral de aposentadoria e pensões, não estando eles, portanto, sujeitos aos efeitos da EC 103/2019, vez que detêm regime jurídico próprio, notadamente pelo que dispõe o artigo 142, § 3º, X, c/c o artigo 42, §§ 1º e 2º, ambos da CF/88, além das leis regulamentadoras específicas dos militares locais”; (b) “Os pedidos formulados estão lastreados, portanto, no que dispõe a própria Constituição Federal em relação aos militares dos estados e do Distrito Federal, uma vez que a competência privativa da União ampliada pela EC 103/2019 ao alterar o artigo 22, XXI, da CF/88, afigura-se incompatível com o próprio texto constitucional, daí se dizer que o ora recorrente, na qualidade de militar aposentado, não pode ser alcançado, ao menos da forma como foi feita, pelos efeitos da lei 13.954/2019, uma vez que cabe ao próprio Distrito Federal dispor sobre o tema, haja visto que, desde 2003 (EC 41), a competência é do Distrito Federal e Estados para fixar as normas destinadas aos pensionistas dos militares locais”; (c) “não pode, o requerido, aproveitar-se de legislação aplicável à Forças Armadas e determinar o desconto da contribuição militar aos militares do Distrito Federal, e nem mesmo a União tem o poder de editar suas leis ao seu bel prazer e aplicá-las indistintamente, notadamente neste caso em que se evidencia a superioridade de uma lei ordinária em total conflito com o § 2º, do artigo 42, já entranhado no texto constitucional desde a EC 41, de 19/12/2003, o que, no caso dos autos, caracteriza nítida usurpação de competência da União em legislar sobre remuneração dos militares do Distrito Federal”; (d) “a Emenda Constitucional nº 41/2003 introduziu o § 18 no artigo 40 da CF/1988 que o Supremo Tribunal Federal em julgamento da ADI nº 3.105/DF, por unanimidade, determinou ser aplicável aos servidores civis e militares e pensionistas, por ser norma tributária previdenciária contida no § 18 do artigo 40, da CF/1988, com efeitos erga omnis”; (e) “é clara a extrapolação da competência da União em editar alíquotas de contribuições previdenciárias que lhe foi atribuída, pois no art. 42, § 1º e art. 142, § 3º, inciso X, ambos da Constituição Federal, aduz que cabe a lei especifica dispor sobre a ‘estabilidade e outras condições de transferência do militar para a inatividade’ e ‘remuneração, as prerrogativas e outras situações especiais dos militares’”.
+
+III. O Distrito Federal, por sua vez, assevera, em suma, que: (a) “não há de se falar em inconstitucionalidade da cobrança da “Contribuição para Pensão Militar” e da “Contribuição da Pensão Militar Adicional” por ofensa ao art. 40, §18, da Constituição porque tal dispositivo não se aplica aos Policiais Militares, sujeitos à regramento próprio, com remissão constitucional à legislação específica; (b) “houve diferenciação dos regimes previdenciários entre civis e militares, o que é extraível dos art. 42 e 142, §3º, da CF”; (c) não se aplica ao Distrito Federal a tese fixada no Tema 1177 da Repercussão Geral do Supremo Tribunal Federal, dado que a declaração de inconstitucionalidade alcança apenas os Estados, colaciona julgado da 7ª Turma Cível para corroborar sua tese de defesa (acórdão 1422607, DJE 30.5.2022).
+
+IV. Pois bem. Inquestionável que o regime jurídico dos militares é diferenciado em relação ao dos servidores civis, tanto em relação aos militares dos Estados, Distrito Federal e Territórios como os das Forças Armadas, em razão de dispositivos constitucionais (CF, artigos 42, §1º e 142, §3º, inciso VIII, este, conforme redação dada pela Emenda Constitucional nº 77, de 2014).
+
+V. Certo é também que nos termos do artigo 22, inciso XXI da Constituição Federal, conforme redação dada pela Emenda Constitucional nº 103/2019, compete privativamente à União legislar sobre normas gerais de organização, efetivos, material bélico, garantias, convocação, mobilização, inatividades e pensões das polícias militares e dos corpos de bombeiros militares (realce nosso).
+
+VI. Além disso, a Lei Federal 13.954/2019 trouxe mudanças substanciais a alguns artigos do Decreto Lei 667/1969, dentre os quais, merece destaque: art. 24-C - Incide contribuição sobre a totalidade da remuneração dos militares dos Estados, do Distrito Federal e dos Territórios, ativos ou inativos, e de seus pensionistas, com alíquota igual à aplicável às Forças Armadas, cuja receita é destinada ao custeio das pensões militares e da inatividade dos militares.
+
+VII. Nesse passo, não há qualquer remissão ao alegado dispositivo constitucional que abarca a limitação dos descontos de contribuição previdenciária ao teto do Regime Geral de Previdência Social (CF, art. 40, § 18). Logo, não há de se falar em afronta ao princípio da isonomia, pois, consoante entendimento jurisprudencial, o rol de dispositivos aplicáveis aos militares é taxativo e não cabe interpretação extensiva ou a aplicação de analogia (ausência de omissão legislativa). Precedente do TJDFT: 2ª Turma Recursal, acórdão 1117411, DJE: 24/8/2018; 3ª Turma Recursal, acórdão 1053139, DJE: 13/10/2017.
+
+VIII. De outro giro, em relação à constitucionalidade da referida alteração legislativa (Lei Federal 13.954/2019, artigo 24-C), o STF, em sede de repercussão geral, firmou a seguinte tese (tema 1.177): a competência privativa da União para a edição de normas gerais sobre inatividades e pensões das polícias militares e dos corpos de bombeiros militares (artigo 22, XXI, da Constituição, na redação da Emenda Constitucional 103/2019) não exclui a competência legislativa dos Estados para a fixação das alíquotas da contribuição previdenciária incidente sobre os proventos de seus próprios militares inativos e pensionistas, tendo a Lei Federal 13.954/2019, no ponto, incorrido em inconstitucionalidade.
+
+IX. Nesse quadro fático-jurídico, verifica-se que o entendimento exarado pelo STF menciona tão somente os Estados, sem qualquer referência ao Distrito Federal, exatamente, em razão de sua especificidade. Ressalta-se que, conforme o artigo 21, XIV da Constituição Federal, é competência da União organizar e manter a polícia civil, a polícia penal, a polícia militar e o corpo de bombeiros militar do Distrito Federal, bem como prestar assistência financeira ao Distrito Federal para a execução de serviços públicos, por meio de fundo próprio (Redação dada pela Emenda Constitucional nº 104, de 2019).
+
+X. Não é outro o entendimento jurisprudencial consignado em recente julgado desta Turma Recursal: (...) Em que pese a decisão com repercussão geral do STF, acima transcrita, na situação sob exame, é necessário realizar uma distinção, pois aquela decisão, assim como outras de semelhante teor, se referem à competência legislativa dos Estados, que são responsáveis financeiramente pelos proventos de seus próprios militares e pensionistas. 9. Para exemplificar, o caso paradigma, do RE 1338750 (Tema 1177), referente ao Estado de Santa Catarina, apontava um incremento da arrecadação que aquele Ente Federado não estava disposto a perder. Na situação das Ações Cíveis Originárias nº 3.350 e 3.396, dos Estados do Rio Grande do Sul e Mato Grosso, haveria uma perda de arrecadação, em decorrência da redução de alíquotas. (...) Outro não é o enunciado da Súmula Vinculante nº 39 do STF: “Compete privativamente à União legislar sobre vencimentos dos membros das polícias civil e militar e do corpo de bombeiros militar do Distrito Federal.” (3ª Turma Recursal, acórdão 1439734, DJE: 7/8/2022).
+
+XI. No mesmo sentido (não incidência da tese firmada pelo STF, Tema 1.177, em relação aos militares do Distrito Federal), seguem os precedentes do TJDFT: 7ª Turma Cível, acórdão 1422607, DJE: 30/5/2022; 8ª Turma Cível, acórdão 1438151, DJE: 26/7/2022; 1ªTurma Recursal: acórdão 1425814, DJE: 3/6/2022 e acórdão 1425808, DJE: 3/6/2022; 2ª Turma Recursal: acórdão 1440194, DJE: 12/8/2022 e acórdão 1440466, DJE: 7/8/2022; 3ª Turma Recursal: acórdão 1439734, DJE: 7/8/2022 e acórdão 1439733, DJE: 7/8/2022.
+
+XII. É de se concluir que diante a ausência de ilegalidade da majoração da alíquota de contribuição previdenciária (igual à aplicável às forças armadas - Lei Federal 13.954/2019), a par da não prevalência do tema 1.177 do STF ao caso concreto, tem-se por escorreita a sentença de improcedência.
+
+XIII. Recurso conhecido e improvido. Sentença confirmada por seus fundamentos (Lei 9.099/95, art. 46). Condenado o recorrente ao pagamento ao pagamento das custas processuais e dos honorários advocatícios, estes fixados em 10% sobre o valor da causa (Lei 9.099/95, art. 55).
+
+ACÓRDÃO
+
+Acordam os Senhores Juízes da Terceira Turma Recursal dos Juizados Especiais do Distrito Federal do Tribunal de Justiça do Distrito Federal e dos Territórios, FERNANDO ANTONIO TAVERNARD LIMA - Relator, CARLOS ALBERTO MARTINS FILHO - 1º Vogal e EDI MARIA COUTINHO BIZZI - 2º Vogal, sob a Presidência do Senhor Juiz FERNANDO ANTONIO TAVERNARD LIMA, em proferir a seguinte decisão: CONHECIDO. DESPROVIDO. UNANIME., de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 14 de Setembro de 2022
+
+Juiz FERNANDO ANTONIO TAVERNARD LIMAPresidente e Relator
+
+RELATÓRIO
+
+Dispensado o relatório (Lei n. 9099/95, Art. 46).
+
+VOTOS
+
+O Senhor Juiz FERNANDO ANTONIO TAVERNARD LIMA - RelatorA súmula de julgamento servirá de acórdão, conforme inteligência dos artigos 2º e 46 da Lei 9.099/95.
+O Senhor Juiz CARLOS ALBERTO MARTINS FILHO - 1º Vogal Com o relatorA Senhora Juíza EDI MARIA COUTINHO BIZZI - 2º Vogal Com o relator
+
+DECISÃO
+
+CONHECIDO. DESPROVIDO. UNANIME.
