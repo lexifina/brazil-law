@@ -1,0 +1,31 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NA EXECUÇÃO EM MANDADO DE SEGURANÇA. ADMINISTRATIVO. ANISTIA POLÍTICA. PAGAMENTO DE INDENIZAÇÃO RETROATIVA. DECURSO DO PRAZO A QUE ALUDE O ART. 535 DO CPC SEM OPOSIÇÃO DE IMPUGNAÇÃO À EXECUÇÃO. POSTERIOR MANEJO DA EXCEÇÃO DE PRÉ-EXECUTIVIDADE COM ALEGAÇÃO DE EXCESSO. DESCABIMENTO DO INCIDENTE PROCESSUAL POR NÃO SE TRATAR DE MATÉRIA DE ORDEM PÚBLICA. PRECLUSÃO TEMPORAL. AGRAVO IMPROVIDO.
+1. Decorrido o prazo a que alude o art. 535 do CPC, sem que a UNIÃO tenha impugnado a execução de valores retroativos previstos na portaria de anistia, mostra-se descabido o posterior manejo de exceção de pré-executividade. A alegação de excesso de execução, veiculada nesse incidente processual, não constitui matéria de ordem pública passível de ser conhecida de ofício pelo juiz. Ocorrente, portanto, a preclusão temporal.
+2. Agravo interno improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Primeira Seção do Superior Tribunal de Justiça por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Regina Helena Costa, Gurgel de Faria, Manoel Erhardt (Desembargador convocado do TRF-5ª Região), Francisco Falcão, Herman Benjamin, Mauro Campbell Marques e Benedito Gonçalves votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Humberto Martins.
+Presidiu o julgamento a Sra. Ministra Assusete Magalhães.
+RELATÓRIO
+Trata-se de agravo interno de fls. 365-375 interposto pela UNIÃO contra decisão monocrática que, em sede de execução em mandado de segurança, não conheceu da exceção de pré-executividade oposta pelo referido ente público.
+A agravante alega, em síntese, que: (a) "há precedentes que sustentam a tese defendida pela União, ou seja, o do cabimento da exceção de pré-executividade na presente hipótese"; (b) "não há óbice para se conhecer de excesso de execução suscitado em exceção de pré-executividade, quando o alegado excesso de cálculo resulta de evidente vício constante do título executivo"; e (c) "este Superior Tribunal de Justiça admite o oferecimento de exceção de pré-executividade ante a manifesta ocorrência de excesso de execução".
+Requer, por isso, seja provido o recurso.
+Oagravado, por sua vez, pleiteia a manutenção da decisão agravada. Argumenta que: (a) "a exceção de pré-executividade não é cabível após a expedição do precatório, e após a perda de prazo para a UNIÃO impugnar a planilha de cálculo apresentada pelo impetrante-exequente"; (b) "a União perdeu o prazo de 30 dias úteis para opor impugnação aos cálculos do exequente, estando ocorrente, portanto, a preclusão"; e (c) "a perda de prazo para impugnar o cálculo não renova à parte executada a oportunidade de impugnar o cálculo por meio da exceção de pré-executividade".
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NA EXECUÇÃO EM MANDADO DE SEGURANÇA. ADMINISTRATIVO. ANISTIA POLÍTICA. PAGAMENTO DE INDENIZAÇÃO RETROATIVA. DECURSO DO PRAZO A QUE ALUDE O ART. 535 DO CPC SEM OPOSIÇÃO DE IMPUGNAÇÃO À EXECUÇÃO. POSTERIOR MANEJO DA EXCEÇÃO DE PRÉ-EXECUTIVIDADE COM ALEGAÇÃO DE EXCESSO. DESCABIMENTO DO INCIDENTE PROCESSUAL POR NÃO SE TRATAR DE MATÉRIA DE ORDEM PÚBLICA. PRECLUSÃO TEMPORAL. AGRAVO IMPROVIDO.
+1. Decorrido o prazo a que alude o art. 535 do CPC, sem que a UNIÃO tenha impugnado a execução de valores retroativos previstos na portaria de anistia, mostra-se descabido o posterior manejo de exceção de pré-executividade. A alegação de excesso de execução, veiculada nesse incidente processual, não constitui matéria de ordem pública passível de ser conhecida de ofício pelo juiz. Ocorrente, portanto, a preclusão temporal.
+2. Agravo interno improvido.
+VOTO
+Na hipótese dos autos, embora regularmente intimada para impugnar a execução nos moldes do art. 535 do CPC, verifica-se que a executada, ora agravante, deixou transcorrer o prazo de 30 (trinta) dias in albis, consoante certidão de fl. 321.
+Não impugnada a execução, a decisão de fl. 327 homologou o cálculo apresentado pelo exequente, ora agravado, e determinou a expedição do requisitório de pagamento, nos termos do art. 535, § 3º, do CPC, com destaque de honorários advocatícios contratuais, se for o caso. Expediu-se, para tanto, o Prc 8984/DF, conforme certificado à fl. 341.
+A controvérsia diz respeito ao cabimento, ou não, da chamada exceção de pré-executividade na hipótese em que a Fazenda Pública perde o prazo para opor impugnação à execução.
+A esse respeito, a decisão agravada aludiu, em princípio, à Súmula 393/STJ que admite esse incidente processual na execução fiscal sob certas circunstâncias. Contudo, nada obsta que o entendimento ali firmado seja também aplicável na execução contra a Fazenda Pública.
+A propósito, eis o teor desse enunciado sumular: "A exceção de pré-executividade é admissível na execução fiscal relativamente às matérias conhecíveis de ofício que não demandem dilação probatória".
+Em suma, "a exceção de pré-executividade é cabível quando atendidos simultaneamente dois requisitos, um de ordem material e outro de ordem formal, ou seja: (a) é indispensável que a matéria invocada seja suscetível de conhecimento de ofício pelo juiz; e (b) é indispensável que a decisão possa ser tomada sem necessidade de dilação probatória" (REsp 1.110.925/SP, repetitivo, Rel. Ministro Teori Albino Zavascki, Primeira Seção, DJe 4/5/2009, grifou-se).
+Na hipótese dos autos, tem-se por desatendido um dos requisitos, porquanto o excesso de execução, veiculado nesse incidente processual, não constitui matéria de ordem pública passível de ser conhecida de ofício pelo juiz. É perceptível que não se trata de questão surgida após o prazo de que trata o art. 535 do CPC, destinado à oposição da impugnação.
+Logo, não arguido o excesso no momento adequado, forçoso reconhecer a ocorrência dapreclusão temporal.
+Embora se prestem à defesa da parte executada, cabe anotar que a impugnação à execução e a exceção de pré-executividade constituem instrumentos distintos, com requisitos e procedimentos específicos.
+Desse modo, não merece reparo a decisão agravada.
+Após realizado pagamento do requisitório expedido, os autos deverão voltar conclusos a este relator para a extinção da execução.
+Ante o exposto, voto por negar provimento ao agravo interno.
