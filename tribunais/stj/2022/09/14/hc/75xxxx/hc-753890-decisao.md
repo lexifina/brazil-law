@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em benefício de LUCIANO DE MORAES OLIVEIRA eSIDNEI MARIO PAULINO DA SILVA contra acórdão doTRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no julgamento daApelação Criminal n. 1517384-62.2021.8.26.0228.
+Consta dos autos que os pacientes foramcondenados, em primeira instância, às penas de 9 meses e 10 dias de reclusão, em regime inicial fechado, e pagamento de 3 dias-multa, pela prática do crime previsto no art.155, §4º, inciso IV, c.c. o artigo 14, II, do Código Penal (tentativa de furto qualificado) (fls. 14/17).
+Em sede de apelação, o Tribunal de origem deu parcial provimento aos recursos defensivo e ministerial para readequar as penas impostas, fixando-as em 10 meses de reclusão e 4 dias-multa paraLUCIANO DE MORAES OLIVEIRA e em 1 ano e 13 dias de reclusão e 4 dias multa paraSIDNEI MARIO PAULINO DA SILVA (fls. 18/32).Eis a ementa do julgado:
+"Furto tentado qualificado, praticado em situação de calamidade pública - Recursos ministerial e defensivos Sentença condenatória Absolvição Impossibilidade - Confissão dos réus corroborada pelo coeso depoimento das testemunhas Dosimetria Primeira fase Pena fixada no mínimo legal em relação a Luciano e 1/6 acima da mínima para Sidnei, em razão do mau antecedente Segunda fase Afastamento da agravante prevista no artigo 61, II, "j", do Código Penal Cabimento - Inexistente nexo entre os crimes e a situação de calamidade pública Compensação entre a reincidência específica dos réus pela confissão espontânea Impossibilidade Reincidência que prepondera sobre a atenuante da confissão espontânea, inteligência do art. 67 do Código Penal - Terceira fase Fração de redução em razão do conatus adequadamente fixada, considerando-se o iter criminis percorrido Regime fechado acertadamente fixado para ambos os réus reincidentes específicos Impossibilidade de substituição da pena privativa de liberdade por restritiva de direitos. Recursos parcialmente providos." (fl. 19).
+No presente mandamus, a Defesa sustenta a impossibilidade de maior agravamento da pena em razão da reincidência específica. Alega apossibilidade de compensação entre a agravante da reincidência e a atenuante da confissão espontânea, ainda em se tratando de multirreincidência específica. Assim, pugna pela compensação integral entre a reincidência e a confissão. Pleiteia, ainda, a fixação de regime inicial menos gravoso, nos termos da Súmula n. 269/STJ.
+Requer, liminarmente e no mérito, a compensaçãointegral da reincidência com a confissão e queseja fixado o regime inicial menos gravoso para o cumprimento da pena.
+O pedido liminar foi indeferido (fls. 36/37).
+Informações prestadas (fls. 41/73).
+O Ministério Público Federal opinou pela extinção do processo, sem julgamento do mérito, pois prejudicado o exame do alegado constrangimento ilegal(fls. 75/76).
+É o relatório.
+Decido.
+De fato, owritestá prejudicado.
+Conforme informações prestadas pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Ação Penal n1517384-62.2021.8.26.0228 - fls. 41/73), os pacientes já cumpriram integralmente as penas impostas, sendo declarada extinta a punibilidade
+Ante o exposto, com base no art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presentehabeas corpus.
+Publique-se. Intime-se.
