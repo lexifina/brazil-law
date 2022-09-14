@@ -1,0 +1,12 @@
+DECISÃO
+Vistos etc.
+Trata-se de pedido de reconsideração formulado por NÍVEL EMPREENDIMENTO IMOBILIÁRIOS LTDA. (e-STJ, fls. 1.587-1.603), em face de decisão de minha lavra, na condição dePresidente da Comissão Gestora de Precedentes do STJ, em quedetermineidistribuição do recurso sem a qualificadora de representativo da controvérsiatendo em vistaque seu objeto não se subsume à pretensa tese a ser afetada (e-STJ, fls. 1.579-1.580).
+Alega o requerente que,"além deste recurso ser representativo da controvérsia quanto à possibilidade ou não de usucapir imóveis vinculados ao SFH, ainda traz em seu âmago outras duas questões - que também podem ser dirimidas por esse superior Tribunal - diminuindo o número de recursos que aportam ao STJ: A questão quanto à possibilidade do imóvel ser usucapido por terceiros, que não o mutuário(a); e a possibilidade de imóveis construídos por particulares terem a proteção determinada aos bens públicos em razão do financiamento público".
+Requer a reconsideração da decisão"quanto a escolha como representativo da controvérsia".
+É o breve relatório.
+Decido.
+Este recurso especial foi indicado como representativo da controvérsia, candidato à afetação, conforme art. 256 a 256-D do RISTJ, a fim de que fosse submetida à sistemática dos recursos repetitivos a seguinte controvérsia:definir se é possível - ou não - a aquisição por usucapião de imóvel vinculado ao Sistema Financeiro de Habitação - SFH, afetado à prestação de serviço público, uma vez considerada a natureza jurídica de bem público.
+Não obstante, após análise mais acurada, verificou-se que nos autos discute-se a possibilidade de usucapião de imóvel gravado com hipoteca a favor do Estado,por terceiros alheios a demanda que envolve a construtora e o agente financeiro. Desse modo, a matérianão se enquadra na questão a ser submetida ao rito dos repetitivos.
+Destaco, ademais, que a atribuição regimental delegada ao Presidente da Comissão Gestora de Precedentes para selecionar recursos representativos da controvérsia, candidatos à afetação ao rito dos repetitivos, busca complementar, de forma colaborativa,a atividadedo relator de submissão de processos à sistemática qualificada de julgamentos. Nesse sentido, o relator destes autos poderá rever o presente posicionamento, podendo indicar este ou outro processo que trate de mesma questão jurídica à julgamento virtual colegiado para eventual afetação do tema.
+Ante o exposto, entendo não ser o caso de reconsideração e determino a distribuição do recurso.
+Intimem-se.
