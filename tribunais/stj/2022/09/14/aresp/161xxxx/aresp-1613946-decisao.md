@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ESPÓLIO DE WALTER GUILHERME FREIER, representadopor sua inventariante CARLA DELIZE FREIER (ESPÓLIO DE WALTER) contra decisão que negou seguimento ao seu apelo nobre manejado, por sua vez, contra acórdãodo Tribunalde Justiça do Rio Grande do Sul, assim ementado:
+EMBARGOS DE DECLARAÇÃO. NOVO JULGAMENTO PARA INTEGRAÇÃO DO ACÓRDÃO EMBARGADO, EM ATENÇÃO À DECISÃO DOCOLENDO SUPERIOR TRIBUNAL DE JUSTIÇA. OMISSÃO. CASO CONCRETO. EXECUÇÃO. DAÇÃO EM PAGAMENTO POSTERIORMENTE ANULADA. EXTINÇÃO DA EXECUÇÃO DIANTE DO RECEBIMENTO DE VALORES E ALIENAÇÃO DO BEM À TERCEIROS. Tendo o exequente já alienado o bem dado em pagamento e por ele recebido o montante que entendia, à época, adequado, não pode pretender cobrar da executada qualquer valor correspondente ao mesmo bem sem, antes, a ela devolvê-lo. Embargos declaratórios acolhidos para sanar omissão, todavia, sem alteração de mérito no julgado. ACOLHERAM OS EMBARGOS DE DECLARAÇÃO. UNÂNIME(e-STJ, fl. 1.721).
+Os embargos de declaração opostos por ESPÓLIO DE WALTER foram rejeitados(e-STJ, fls. 1.752/1.757).
+Irresignado, ESPÓLIO DE WALTER interpôs recurso especial com base no art. 105, III, alíneasa e c, da CF, apontando além de dissídio jurisprudencial a violação aos arts. 489, §1º,IV,502, 507, 914,917, I, e1.022 do NCPC; e 182, 359, 884, 885 e 886 do CC/02,ao sustentar a(1)ausência de fundamentação e negativa de prestação jurisdicional assim consubstanciada:
+i) Contradição e obscuridade quando o acórdão afirma que as partes retornarão ao status quo ante da anulação da dação, mediante o reconhecimento da procedência da exceção de pré-executividade, quando a Recorrida não desembolsará nenhum centavo e estará se vendo desonerada de uma dívida devidamente constituída e reconhecida nos autos, em claro enriquecimento ilícito; bem como em que foi embasada a afirmação de que "é Maria quem responderá por eventuais reflexos decorrentes da anulação por ela postulada";
+ii) Contradição quanto ao não cabimento da exceção de pré-executividade em razão da necessidade de dilação probatória, quando o próprio acórdão reconhece expressamente que há decisão transitada em julgado determinando a realização de audiência de instrução; e
+iii) Obscuridade e contradição ao tratar da ofensa à coisa julgada, pelo fato de que a 17a Câmara Cível do TJRS, ao analisar a presente controvérsia, já havia reconhecido a necessidade de dar seguimento a execução proposta pelo ora Recorrente, em acórdão transitado em julgado, pois naquela oportunidade já era incontroversa nos autos a venda do bem aos terceiros(e-STJ, fl. 1.769);
+(2)o não cabimento da exceção de pré-executividade em razão da necessidade de dilação probatória reconhecidapelo Tribunal Estadual(e-STJ, fls. 1.760/1.787).
+O recurso não foi admitido pelo TJRS(e-STJ, fls. 1.804/1.821).
+Nas razões do presente agravo,ESPÓLIO DE WALTER alegou que não incidem os óbices apontados na decisão de inadmissibilidade (e-STJ, fls. 1.842/1.865).
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que merece prosperarpara o retorno dos autos ao TJRSa fim de que sejam analisadasas questões trazidas nos embargos de declaração.
+(1) Da negativa de prestação jurisdicional
+O TJRS, ao analisar os embargos de declaração, incorreu emnegativa de prestação jurisdicional assim consubstanciada:
+i) Contradição e obscuridade quando o acórdão afirma que as partes retornarão ao status quo ante da anulação da dação, mediante o reconhecimento da procedência da exceção de pré-executividade, quando a Recorrida não desembolsará nenhum centavo e estará se vendo desonerada de uma dívida devidamente constituída e reconhecida nos autos, em claro enriquecimento ilícito; bem como em que foi embasada a afirmação de que "é Maria quem responderá por eventuais reflexos decorrentes da anulação por ela postulada";
+ii) Contradição quanto ao não cabimento da exceção de pré-executividade em razão da necessidade de dilação probatória, quando o próprio acórdão reconhece expressamente que há decisão transitada em julgado determinando a realização de audiência de instrução; e
+iii) Obscuridade e contradição ao tratar da ofensa à coisa julgada, pelo fato de que a 17a Câmara Cível do TJRS, ao analisar a presente controvérsia, já havia reconhecido a necessidade de dar seguimento a execução proposta pelo ora Recorrente, em acórdão transitado em julgado, pois naquela oportunidade já era incontroversa nos autos a venda do bem aos terceiros (e-STJ, fl. 1.769).
+É condição sine qua non ao conhecimento do especial que a questão de direito ventilada nas razões de recurso tenha sido analisada pelo acórdão objurgado. Assim, recusando-se o TJRSa se manifestar sobre aquestãofederalterminou por negar prestação jurisdicional ao Recorrente.
+A propósito:
+RECURSO ESPECIAL. ACÓRDÃO RECORRIDO QUE NÃO SE MANIFESTOU SOBRE PONTO RELEVANTE PARA O DESATE DA CONTROVÉRSIA. OFENSA AO ART. 535 CONFIGURADA. TEMPESTIVIDADE DO RECURSO ESPECIAL. REGULARIDADE.
+1. Muito embora o acórdão recorrido tenha afastado uma a uma as preliminares arguidas pela recorrente, silenciou quanto a ponto fundamental ao desate da controvérsia no mérito, qual seja, a ocorrência de mora do devedor, apesar de instado a fazê-lo em sede de embargos de declaração, o que caracteriza violação ao art. 535, II, do CPC.
+2. Agravo regimental não provido.
+(AgRg no REsp 1187807/AM, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 21/6/2012, DJe 28/6/2012).
+É medida de rigor, portanto, o retorno dos autos à instância ordinária para que sane o referido vício.
+Reconhecida a alegação de negativa de prestação jurisdicional, fica prejudicado o exame das demais questões suscitadas no recurso especial.
+Ante o exposto, CONHEÇO do agravo deESPÓLIO DE WALTERe DOU PROVIMENTOseu recurso especial, determinando o retorno dos autos ao TJRSa fim de que renove o julgamento dos embargos de declaração, manifestando-se, expressamente quanto as questões ali expostas.
+Por oportuno, previno as partes que a interposição de recurso contra essa decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação das penalidades fixadas nos arts. 1.021, §4º ou 1.026, §2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL MANEJADO SOB A ÉGIDE DO NCPC. EXECUÇÃO. DAÇÃO EM PAGAMENTO POSTERIORMENTE ANULADA. EFEITOS. OFENSA AO ART. 1.022 DO NCPC CONFIGURADA. OMISSÃO. OBSCURIDADE.CONTRADIÇÃO. AGRAVO CONHECIDO. RECURSO ESPECIAL PROVIDO.
