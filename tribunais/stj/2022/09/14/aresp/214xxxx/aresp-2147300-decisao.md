@@ -1,0 +1,28 @@
+DECISÃO
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AUTO DE INFRAÇÃO. AUSÊNCIA DE NOTIFICAÇÃO.VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Agrava-se dadecisão que inadmitiu o recurso especial interposto pelaAGENCIA NACIONAL DE MINERACAO, com fundamento no art. 105, inciso III, alíneaa,da CF/1988, no qual se insurgiracontra acórdão proferido pelo TRF da 4ª Região, assim ementado:
+EMBARGOS À EXECUÇÃO DE DÍVIDA ATIVA. TAXA ANUAL POR HECTARE. MULTA. NULIDADE DO PROCESSO ADMINISTRATIVO. CERCEAMENTO DE DEFESA. AUSÊNCIA DE NOTIFICAÇÃO DO AUTO DE INFRAÇÃO (fl. 373).
+2. Os embargos de declaração opostos foram rejeitados (fls. 407/409).
+3. Nasrazões do seurecurso especial (fls. 415/423), a parte agravante sustenta violação do art. 1.022 do CPC/2015; defendeque, em relação aos créditos de Taxa Anual por Hectare (TAH) mencionados, houve notificação do devedor e constituição do crédito, razão pela qual deve ser mantida a cobrança.
+4. Devidamente intimada, a parte agravada apresentou as contrarrazões (fls. 428/434).
+5. Sobreveio o juízo de admissibilidade negativo (fls. 437/440), razão pela qual se interpôs o presente agravo em recurso especial, ora em análise.
+6. É o relatório.
+7. A irresignação não merece prosperar.
+8. Inicialmente, é importante ressaltar que o presente recurso atrai a incidência do Enunciado Administrativo 3 do STJ, segundo o qual aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+9. Nos  exatos  termos  do  acórdão  recorrido,  o  Tribunal  de  origem  assim  se  manifestou  sobre  o cerne da  insurgência:
+Como se vê, a legislação de regência prevê expressamente que, além da publicar o extrato do auto de infração no Diário Oficial da União, a autarquia federal deve remeter ao infrator a respectiva cópia do procedimento fiscal, por meio de ofício.
+No caso sub judice, não há notícia de que os ofícios tenham sido efetivamente remetidos ao particular. Com efeito, não existe nos processos administrativos anexados aos autos qualquer comprovação nesse sentido. O que há são cópias dos comprovantes de recebimento da notificação para pagamento da multa, que não se confundem com a notificação dos autos de infração.
+Não há dúvida, portanto, de que o procedimento normativo aplicável à espécie não foi integralmente obedecido pela embargada. Oportuno ressaltar, ademais, que a publicação dos atos no Diário Oficial da União não supre a ausência de cientificação do devedor, como exige expressamente a legislação de regência do procedimento.
+Assim, como não foram observadas as garantias constitucionais do devido processo legal e da ampla defesa no âmbito administrativo, impõe-se dar provimento à apelação para reconhecer a nulidade das certidões de dívida ativa que embasam a execução embargada (fl. 376 - sem destaques no original).
+10. Inexiste, portanto,a alegada violação do art. 1.022 do CPC/2015, visto que o Tribunal de origem apreciou as questões relevantes ao deslinde da controvérsia de modo integral e adequado, ainda que sob ótica diversa daquela do ora recorrente, não havendo falar em negativa de prestação jurisdicional.
+11.Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução, o que foi feito no presente caso.
+12.Vale destacar que o simples descontentamento da parte com o julgado não tem o condão de tornar cabíveis os embargos de declaração, que servem ao aprimoramento da decisão, mas não à sua modificação, que só excepcionalmente é admitida. Confira-se:
+TRIBUTÁRIO E PROCESSUAL CIVIL. ALEGADA VIOLAÇÃO AO ART. 535 DO CPC/1973. INEXISTÊNCIA DE VÍCIOS, NO ACÓRDÃO RECORRIDO. INCONFORMISMO.
+(..)
+5. Não se configura a alegada ofensa ao art. 535 do CPC/1973, uma vez que o Tribunal a quo julgou integralmente a lide e solucionou, de maneira amplamente fundamentada, a controvérsia, em conformidade com o que lhe foi apresentado.
+6. O simples descontentamento da parte com o julgado não tem o condão de tornar cabíveis os Embargos de Declaração, que servem ao aprimoramento da decisão, mas não à sua modificação, que só muito excepcionalmente é admitida. In casu, fica claro que não há vícios a serem sanados e que os Aclaratórios veiculam mero inconformismo com o conteúdo da decisão embargada, que foi desfavorável à recorrente.
+7. Recorde-se, ademais, que o órgão julgador não é obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+8. Agravo conhecido para conhecer do Recurso Especial, apenas quanto à ofensa ao art. 535 do CPC e, nessa parte, negar-lhe provimento (AREsp 1.579.801/BA, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 25/06/2020)
+13. Diante do exposto, conheço do agravo interposto pela AGENCIA NACIONAL DE MINERACAO para negarprovimento a seurecurso especial.
+14.Por fim, caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+15.Publique-se. Intimações necessárias.
