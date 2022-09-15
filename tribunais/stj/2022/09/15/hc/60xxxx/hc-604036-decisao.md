@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido liminar, contra acórdão assim ementado (fls. 44-45):
+PROCESSO PENAL. HABEAS CORPUS. OPERAÇÃO "FAVORITO". GRAVIDADE EM CONCRETO DOS FATOS. GARANTIA DA ORDEM PÚBLICA. APLICAÇÃO DA LEI PENAL. RECOMENDAÇÃO 62 DO CNJ. NÃO APLICAÇÃO. NÃO CABIMENTO DE MEDIDAS CAUTELARES ALTERNATIVAS. DENEGAÇÃO DA ORDEM.
+I - Pressupostos da prisão preventiva atendidos. Presença de elementos de convicção provisória sobre o fumus commissi delicti e indícios suficientes da autoria. Garantia da ordem pública e conveniência da instrução criminal. Decisão fundamentada.
+II - Fatos delituosos que se estendem no tempo. As pessoas jurídicas e físicas envolvidas em irregularidades em contratações com a Administração Pública do Estado do Rio de Janeiro prosseguem sendo as mesmas (daí as autoridades da persecução terem batizado a operação de FAVORITO).
+III - Utilização dos mesmos expedientes de aproveitamento de situações emergenciais para celebração contratos e com valores de grande exorbitância quantitativa (em meio a milhares de mortes pela COVID 19 no Estado do Rio de Janeiro).
+IV - Delitos que perduram e se reiteram no tempo, induzindo, por ora, a acreditar que isto ocorre sem nenhum constrangimento por parte de quem assim parece agir, nem mesmo temor à incidência das consequências jurídicas de tais ações, temor que se esperaria decorrente do fato de terem havido, há bem pouco tempo atrás, investigações, denúncias ministeriais, processos penais, condenações e prisões de vários agentes públicos estaduais e empresários com eles mancomunados em ações deste jaez, muitas delas revestidas de confissões prestadas por diversos daqueles protagonistas.
+V - Atuação da organização criminosa no seio da Secretaria de Saúde do Estado do Rio de Janeiro, com a participação ativa do paciente, identificado como integrante do núcleo operacional e um dos responsáveis pela intermediação entre as empresas da ORCRIM e a Administração Pública, inclusive em contratos recentes.
+VI - Paciente acusado de praticar crimes de lavagem de dinheiro, pertinência à organização criminosa e obstrução de justiça. Denúncia recebida com base em múltiplos elementos de convicção, como declarações de colaboradores, quebra de sigilo fiscal, bancário, telefônico e telemático, indicando movimentação financeira atípica, e cujo modus operandi é grave e denota elevado risco de reiteração delitiva.
+VII - Substituição por medidas cautelares alternativas (art. 319 do CPP) que se mostra insuficiente para garantia da ordem pública, instrução criminal e da aplicação da lei penal.
+VIII - Ordem denegada.
+O paciente foi preso preventivamente por lavagem de dinheiro, pertinência a organização criminosa e obstrução da justiça.
+Os impetrantes acoimam de ilegal o decreto de prisão preventiva exarado no bojo da Operação Favorito, que perdura "há 89 dias" (fl. 3). Em apertada síntese, apontam a falta de fundamentação do periculum libertatis. Explicam que o caso em julgamento não envolve contratações emergenciais para o enfrentamento da pandemia pela Covid-19 e que a grande maioria dos denunciados aguarda o deslinde da ação penal em liberdade. Pedem a revogação ou a substituição da cautela ou, ainda, a concessão de prisão domiciliar ao suspeito, à luz da Recomendação n. 62/2020 do CNJ.
+Em petição às fls. 821-1332, reforçam a inidoneidade da custódia cautelar.
+Indeferida a liminar e prestadas informações, o Ministério Público Federal sugeriu a denegação da ordem.
+O Juízo da 5ª Vara Federal Criminal do Rio de Janeiro informou que,em cumprimento à decisão desta Casa proferida no HC 604.009/RJ,a custódia cautelar do paciente foi substituída "por medidas cautelares que proibiam de ter contato pessoal, virtual ou telefônico com outros acusados, de prestar de consultoria ou administrar empresas indicadas na denúncia e que determinavam o comparecimento obrigatório a todos os atos do processo, quando sua presença fosse relevante para a instrução"(fl. 1418).
+Evidente, portanto, a perda de objeto do presentemandamus.
+Ante o exposto, julgo prejudicado ohabeas corpus.
+Publique-se.
+Intimem-se.
