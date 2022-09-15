@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetradoem favor de JONATHAN VILAR DA PAZ PEREIRA contra acórdãoproferidopelo Tribunal de Justiça do Estado do Rio de Janeiro (Apelação Criminal n. 0004938-82.2018.8.19.0202), assim ementado(e-STJ, fl. 9):
+APELAÇÃO CRIMINAL  CRIME DE ROUBO MAJORADO PELO CONCURSO DE AGENTES E USO DE ARMA DE FOGO  DENUNCIADO CONDENADO A 05 ANOS E 06 MESES DE RECLUSÃO EM REGIME SEMIABERTO E 13 DIAS-MULTA  RECURSO MINISTERIAL BUSCANDO O RECRUDESCIMENTO DO REGIME PARA O FECHADO  IMPOSSIBILIDADE  ELEMENTOS FAVORÁVEIS PERMITINDO A FIXAÇÃO DA BASILAR NO MÍNIMO LEGAL QUE DE IGUAL FORMA NÃO PERMITEM A APLICAÇÃO REGIME MAIS GRAVOSO, ADEMAIS A GRAVIDADE ABSTRATA DO DELITO NÃO É FUNDAMENTO IDÔNEO PARA O ACOLHIMENTO DO PEDIDO  RECURSO CONHECIDO E NÃO PROVIDO.
+O paciente foicondenado pela prática do delitoprevistonoart. 157, §2º, I e II, do Código Penal à pena de 5anos6meses dereclusão, regime fechado, e 13dias-multa.
+Sustenta a defesa que, em sede policial, por ocasião do reconhecimento fotográfico,não há qualquer indicativo de que fotos de outras pessoas diversas do paciente foram apresentadas para a vítima tampouco há nos autos qualquer descrição prévia do roubador (e-STJ, fl. 5).
+Salienta que a fotografia apresentada para reconhecimento é de 2012, data em que o paciente tinha 14 anos, ou seja, 5 anos antes da data dos fatos, dado que não pode ser ignorado,uma vez que envolve o transcurso da adolescência e o início da vida adulta do paciente, quando previsíveis modificações visuais são percebidas (e-STJ, fl. 5). Outrossim, que dos fatos até o reconhecimento se passaram 6 meses.
+Acrescenta que em sede judicial o reconhecimento pessoal não foi precedido de prévia descrição física da pessoa a ser reconhecida, consoante se extrai do respectivotermo.
+Dessa forma, diante da nulidade dos reconhecimentos realizados, deve ser desconstituídaa condenação em desfavor do paciente.
+Requer, liminarmente, a suspensão de qualquer ato que implique no cumprimento da decisão condenatória enquanto não apreciado o mérito deste writ. No mérito, que seja declarada a nulidade dos reconhecimentos (em sede inquisitorial e em juízo) e, por consequência, que seja desconstituída a condenação proferida em desfavor do paciente.
+É o relatório.Decido.
+A pretensão veiculada no presentewrit, em síntese, é de reconhecimento de ilegalidade nos reconhecimentosdo réu, tanto em sede inquisitorial como em juízo, com a consequente desconstituiçãoda sentença condenatória proferida em desfavor do paciente.
+Contudo, verifica-se que o tema não foi tratado no acórdão proferido pela Corte de origem, que se limitou a examinar a pretensão veiculada na apelação do Ministério Público, de recrudescimento do regime prisional fixado, à qual se negou provimento.
+Com efeito, não consta, a partir dos documentos juntados, tampouco se extrai da narrativa apresentada, que a pretensão ora veiculadatenha sido submetida ao Tribunal local a fim de ser examinada.
+Não demonstrado pela defesa, por meio documental nem mesmo nas razões da impetração, queo tema foi tratadona Corte de origem,afigura-se inviável e vedada a análise pretendida, sob pena de indevida supressão de instância.
+Como é cediço,Matéria não enfrentada na Corte de origem não pode ser analisada diretamente neste Tribunal Superior, sob pena de supressão de instância.(HC n. 378.585/SP, Relator Ministro NEFI CORDEIRO, Sexta Turma, julgado em 6/04/2017, DJe 20/4/2017).
+Ante o exposto,indefiro liminarmente ohabeas corpus,nos termos do art. 210 do RISTJ.
+Intimem-se.
