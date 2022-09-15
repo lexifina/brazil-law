@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ASSOCIAÇÃO DO PLANO DE SAÚDE DA SANTA CASA DE SANTOS (ASSOCIAÇÃO) contra decisão que negou seguimento ao seu apelo nobre manejado, por sua vez, contra acórdão do TJSP, de relatoria do Des. LUIS MARIO GALBETTI , assim ementado:
+Apelação Doença preexistente Reconhecimento Cobertura parcial temporária que justifica a negativa de cobertura para procedimentos cirúrgicos, uso de leito de alta tecnologia e os procedimentos de alta complexidade Inocorrência das hipóteses que justificam a negativa de cobertura Recurso não provido(e-STJ, fl. 506).
+Irresignado, ASSOCIAÇÃO interpôs recurso especial com base no art. 105, III, alíneaa, da CF, apontando a violação aos arts. 464 do NCPC e 11 e 35-C da Lei 9656/1998 ao sustentar (1) cerceamento de defesa pelo julgamento antecipado da lide; (2) não ficou caracterizada a situação de urgência para a quebra da carência; (3) no caso de doenças e lesões preexistentes é aplicada a cobertura parcial temporária apenas para os casos que não exijam o uso de alta tecnologia e procedimentos de alta complexidade; (4)a aplicação de botox é tratamento de alta complexidade e não autoriza a cobertura parcial temporária;(5) não é devido o reembolso de valores; (6) a recorrida não comprovou o pagamento da nota fiscal.
+O recurso não foi admitido na origem por (1) não ter sido demonstrada a infringência dos preceitos legais arrolados; (2) a pretensão recursal esbarra na Súmula nº 7 do STJ.
+Nas razões do presente agravo, ASSOCIAÇÃO alegou que (1) foi demonstrada a violação dos artigos elencados; (2) no recurso especial ficou dito que não haveria a necessidade de reexame de fatos e provas, pois a matéria é incontroversa.
+Foi apresentada contraminuta.
+É o relatório.
+Decido.
+O agravo éespécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que não merece prosperar.
+(1)Dos arts. 464 do NCPC e 35-C da Lei 9656/1998
+No ponto, verifica-se que os citados preceitos não foramobjeto de debate pelo acórdão recorrido se ressentindo do necessário prequestionamento.
+É exigência contida na própria previsão constitucional de interposição do recurso especial que a matéria federal tenha sido decidida em única ou última instância.
+Não basta à parte discorrer sobre o dispositivo legal que entende infringido. É absolutamente necessário que a Corte recorrida tenha emitido juízo de valor sobre o referido preceito, o que não ocorreu na hipótese examinada.
+No caso se aplicam as Súmulas nºs 282 e 356 do STF.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA RECONSIDERAÇÃO. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. ART. 344 DO CPC. AUSÊNCIA DE PREQUESTIONAMENTO. INDEFERIMENTO DE PROVA TESTEMUNHAL.CERCEAMENTO DE DEFESA NÃO CONFIGURADO.AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO E NEGAR PROVIMENTO AO RECURSO ESPECIAL. 1. Agravo interno contra decisão da Presidência que não conheceu do agravo em recurso especial, em razão da falta de impugnação específica de fundamentos decisórios. Reconsideração. 2. Fica inviabilizado o conhecimento de tema trazido na petição de recurso especial, mas não debatido e decidido nas instâncias ordinárias, porquanto ausente o indispensável prequestionamento. Aplicação das Súmulas 282 e 356 do STF. 3. Não há cerceamento de defesa quando o julgador, ao constatar nos autos a existência de provas suficientes para o seu convencimento, indefere pedido de produção de prova. Cabe ao juiz decidir, motivadamente, sobre os elementos necessários à formação de seu entendimento, pois, como destinatário da prova, é livre para determinar as provas necessárias ou indeferir as inúteis ou protelatórias. 4. Agravo interno provido para conhecer do agravo e negar provimento ao recurso especial. (AgInt no AREsp 1.896.553/SP, Rel. Ministro RAUL ARAÚJO, Quarta Turma, julgado em 20/09/2021, DJe 15/10/2021 - sem destaque no original) .
+(2)Do art. 11 da Lei 9656/1998
+ASSOCIAÇÃO apoia seu inconformismo nos seguintes termos(1) no caso de doenças e lesões preexistentes é aplicada a cobertura parcial temporária apenas para os casos que não exijam o uso de alta tecnologia e procedimentos de alta complexidade; (2) a aplicação de botox é tratamento de alta complexidade e não autoriza a cobertura parcial temporária; (3) não é devido o reembolso de valores; (4) a recorrida não comprovou o pagamento da nota fiscal.
+O Tribunal estadual afastou tais alegações consignando que (1)na hipótese de existência de doença preexistente, é aplicável a cobertura parcial temporária; (2)o tratamento requerido pela autora não é cirúrgico, não requer leito de alta tecnologia ou procedimento de alta complexidade; (3)suficiente a juntada da nota fiscal para motivar a condenação da ré ao reembolso do valor dispendido, confira-se:
+Do relatório médico, constata-se claramente cuidar-se de tratamento decorrente da paralisia cerebral decorrente da prematuridade e anóxia neonatal patologia preexistente à contratação do plano de saúde e de conhecimento dos genitores.
+De acordo com o contrato, há carência de setecentos e vinte dias para a hipótese de doenças preexistentes. (fl.18)
+Dispõe o artigo 11 da Lei nº 9.656/1998:
+(..)
+Porém, na hipótese de existência de doença preexistente, é aplicável a cobertura parcial temporária. A respeito, o teor do artigo 6º da resolução 162 da ANS:
+Art. 6º Sendo constatada por perícia ou na entrevista qualificada ou através de declaração expressa do beneficiário, a existência de doença ou lesão que possa gerar necessidade de eventos cirúrgicos, de uso de leitos de alta tecnologia e de procedimentos de alta complexidade, a operadora poderá oferecer cobertura total no caso de doenças ou lesões preexistentes, sem qualquer ônus adicional para o beneficiário.
+§1º Caso a operadora opte pelo não oferecimento de cobertura total, deverá neste momento, oferecer CPT. O oferecimento de CPT neste caso é obrigatório, sendo facultado o oferecimento de Agravo como opção à CPT.
+§2º Caso a operadora não ofereça CPT no momento da adesão contratual, não caberá alegação de omissão de informação na Declaração de Saúde ou aplicação posterior de CPT ou Agravo, nas condições descritas no caput deste artigo.
+§3º Na hipótese de CPT, as operadoras somente poderão suspender a cobertura de procedimentos cirúrgicos, o uso de leito de alta tecnologia e os procedimentos de alta complexidade, quando relacionados diretamente à DLP especificada.
+Na hipótese dos autos, o tratamento requerido pela autora não é cirúrgico, não requer leito de alta tecnologia ou procedimento de alta complexidade. De tal modo, não há motivação para a não cobertura.
+Por fim, suficiente a juntada da nota fiscal para motivar a condenação da ré ao reembolso do valor dispendido.(e-STJ, fls. 507/509- sem destaque no original)
+Assim, rever as conclusões quanto ao direito da cobertura parcial temporária pelo recorrido e ao reembolso do valor dispendidodemandaria, necessariamente, reexame do conjunto fático-probatório dos autos, o que é vedado em razão do óbice da Súmula nº7 do STJ.
+Nesse sentido, confira-se a jurisprudência desta Corte:
+NECESSIDADE DE ANÁLISE DO CONTRATO E DE PROVAS. INCIDÊNCIA DASSÚMULASNºS 5 E7DO STJ. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO CONSIGNAÇÃO EM PAGAMENTO. PLEITO DE ANÁLISE DE MATÉRIA CONSTITUCIONAL. INCABÍVEL. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL NÃO DEMONSTRADOS. VIOLAÇÃO DOS ARTS. 1.022 E 489, § 1º, DO NCPC. NEGATIVA DE PRESTAÇÃO JURISDICIONAL E FALTA DE FUNDAMENTAÇÃO NÃO CONFIGURADAS. ANÁLISE DE CLÁUSULAS CONTRATUAIS. INOBSERVÂNCIA. SÚMULANº 5 DO STJ. REJULGAMENTO DA CAUSA. PRETENSÃO RECURSAL QUE ENVOLVE O REEXAME DE PROVAS. INCIDÊNCIA DASÚMULANº7DO STJ.AGRAVO INTERNO NÃO PROVIDO.
+ ..  6. A alteração das conclusões do acórdão recorrido exige interpretação de cláusula contratual e reapreciação do acervo fático-probatório da demanda, o que faz incidir asSúmulasnºs 5 e7,ambas do STJ.
+7.Agravo interno não provido.
+(AgInt no AREsp 1693698/SP, de minha relatoria, TERCEIRA TURMA, julgado em 01/06/2021, DJe 07/06/2021)
+O recurso, portanto, não mereceser conhecido quanto ao ponto.
+Nessas condições, CONHEÇO do agravo para NÃO CONHECERdo recurso especial.
+MAJORO em 5% o valor dos honorários advocatícios anteriormente fixados em favor do recorrido limitados a 20%, nos termos do art. 85, § 11, do NCPC. (SE FOR O CASO)
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PLANO DE SAÚDE. AGRAVO EM RECURSO ESPECIAL NO NCPC. AUSÊNCIA DE PREQUESTIONAMENTO DOS ARTS. 464 DO NCPC E 35-C DA LEI 9656/1998. SÚMULAS NºS 282 E 356 DO STF. PRETENSÃO FUNDADA NA OFENSA AO ART. 11 DA LEI 9656 QUE ESBARRA NA SÚMULA Nº 7 DO STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
