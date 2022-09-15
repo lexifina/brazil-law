@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo regimental interposto contra decisãoque indeferiu liminarmente o mandado de segurança impetrado contra atos atribuídos ao Ministro Jesuíno Rissato (Desembargador convocado do TJDFT em decorrência de licença médica do Ministro Felix Fischer) na condução da relatoria do REsp n. 1.797.969/PR.
+O agravante insiste na tese de que, "além da falsidade na informação sobre a contagem do prazo dos Embargos de Declaração (primeira teratologia), neste writ se aponta a ilegalidade de o Ministro Relator do REsp 1.797.969/PRnão se dignar declinar da Relatoria do feito em favor do Ministro Ribeiro Dantas ou ao menos submeter a matéria do colegiado da Turma".
+Decido.
+Dada a natureza das razões, recebo a petição como embargos de declaração.
+Conforme decidido, o mandado de segurança contra ato judicial somente é admitido em situações excepcionais, o que não é o caso dos autos.
+O acórdão da Quinta Turma não conheceu dos terceiros embargos de declaração opostos por Delúbio Soares de Castro ante a sua intempestividade:
+Verifico, in casu, que o acórdão embargado foi disponibilizado no Diário de Justiça eletrônico em 30/03/2021, considerando-se publicado em 05/04/2021 (segunda-feira), nos termos do dispõe o art. 4º, § 3º, da Lei n. 11.419/2006 (cfr. certidão à fl. 15.351). Todavia, o presente recurso somente foi oposto em 06/11/2021 (fl. 15.966), quando já ultrapassado, e muito, o prazo legal de 2 (dois) dias, sendo, portanto, manifesta a sua intempestividade.
+O ora impetrante não aponta erro na contagem do prazo recursal, apenas sustenta que o acórdão embargado era o do corréu Natalino Bertin. No aspecto, a Quinta Turma asseverou que, "em sede de Embargos de Declaração, é possível arguir, nos termos do art. 619 do CPP, vícios internos do julgado combatido (contradição, omissão ou obscuridade), revelando-se, no entanto, descabida a pretendida manifestação quanto à alegada omissão em recurso de terceiro, que, ademais, foi publicado em 08/11/2021, enquanto estes Embargos de Declaração foram opostos em 06/11/2021".
+Não há teratologia nesse fundamento.
+Quanto ao mais, o REsp n. 1.797.969/PRfoi distribuído ao Ministro Felix Fischer, por prevenção do RHC n. 60.281/PR, aos 27 de fevereiro de 2019. A questão da competência interna foi mencionada em petição, após o julgamento dos segundos embargos de declaração, com base no resultado de feito conexo (AgRg no REsp n. 1.854.892/PR, relator paraacórdão Ministro Ribeiro Dantas). No protocolodos terceiros embargos - não conhecidos por intempestividade -, é que a parte requereu a remessa dos autos ao Ministro Ribeiro Dantas.
+Considerando a fase em que o processo se encontrava, descabe falar emarbitrariedade manifesta pelo não declínio da relatoria.
+Ante o exposto, acolho os embargos de declaração tão somentepara esclarecimentos.
+Publique-se. Intimem-se.
