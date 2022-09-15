@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de embargos de divergência opostos por Polilon Polietilenos Londrina Ltda contra acórdão proferido pela Quarta Turma desta Corte, assim ementado (fl. 951):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. SUSPENSÃO DOS PRAZOS PROCESSUAIS NO TRIBUNAL DE ORIGEM. AUSÊNCIA DE COMPROVAÇÃO POR MEIO DE DOCUMENTO IDÔNEO NO ATO DE INTERPOSIÇÃO DO RECURSO. JUSTA CAUSA NÃO COMPROVADA. AGRAVO NÃO PROVIDO.
+1. Nos termos do art. 1.003, § 6º, do CPC/2015, o recorrente comprovará a ocorrência de feriado local ou suspensão do expediente forense no Tribunal de origem no ato de interposição do recurso, o que impossibilita a regularização posterior. Precedentes.
+2. Nos termos da jurisprudência do STJ, a parte interessada deve requerer e comprovar a justa causa no prazo legal para a prática do ato ou até 5 (cinco) dias após cessado o impedimento, sob pena de preclusão.3. "Este Colegiado também já reconheceu que apenas o print do sistema não é servil à efetiva demonstração da justa causa: AgInt no AREsp 1.640.644/MT, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 31/08/2020, DJe 08/09/2020." (AgInt nos EDcl no RMS 65.016/MA, Rel. Min. Manoel Erhardt (Desembargador convocado do TRF-5ª Região), Primeira Turma, julgado em 31/05/2021, DJe 04/06/2021)
+4. Agravo interno não provido.
+A embargante afirma que há suficiente comprovação de justa causa para reconhecer a tempestividade do recurso especial, uma vez que a sua interposição se deu dentro do prazo calculado pelo sistema eletrônico do Tribunal de origem. Defende a inaplicabilidade do entendimento segundo o qual o recorrente deve comprovar a ocorrência de feriado local no momento da interposição do recurso. Sustenta que as informações prestadas no processo eletrônico possuem caráter oficial e gozam de presunção de veracidade e confiabilidade, de modo que afastar a validade destas informações importará em indução da parte a erro. Aponta, como paradigmas, os seguintes julgados: EREsp 1.805.589/MT, proferido pela Corte Especial, e AgInt no AREsp 1.303.415/TO proferido pela Segunda Turma.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Dito isso, admito os embargos de divergência para melhor exame.
+Dê-se vista ao embargado (art. 267 do RISTJ).
+Decorrido o prazo para impugnação, remetam-se os autos ao Ministério Público Federal (art. 266-D do RISTJ), voltando-me conclusos após o parecer ministerial.
+Publique-se. Intime-se.
