@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido de liminar, interposto por FRANTCHESKO DOS SANTOS ROCHAcontra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o recorrente foi preso em flagrante (convertida a custódia em prisão em preventiva) pela prática, em tese, do delito previsto no art. 33, caput, da Lei n. 11.343/2006.
+Em audiência de custódia, foi-lhe concedida a liberdade provisória mediante a aplicação de algumas medidas cautelares. Contudo, diante da não localização do acusado, que não foi encontrado no endereço declinado, o órgão ministerial opinou pela decretação da prisão preventiva, o que foi acolhido pelo Juízo de origem
+Inconformada com o decreto constritivo, a defesa impetrou habeas corpus perante a Corte de origem. A ordem, contudo, foi denegada(e-STJ fls. 38/43).
+No presente recurso, a defesa narra que o recorrente teve novamente decretada contra si a prisão preventivatão somente por ter se mudado de endereço sem comunicar o Juízo. Nesse contexto,sustenta, em síntese, não haver necessidade para a decretação da prisão preventiva,uma vez que estaria evidente nos autos que não ocorreu suposta tentativa de ocultação para evitar o trâmite processual, pois,em verdade, além de não ter tido apoio técnico, "o paciente é pessoa xucra, desleixada e pior, achava que o processo teria finalizado"(e-STJ fl. 50).
+Argumentaa ausência de requisitos para a prisão preventiva,ressaltando a existência de condições pessoais favoráveis ao recorrente, como primariedade e trabalho lícito, além de já ter sido apresentada a defesa prévia, não se verificando, portanto, qualquer presença de periculum libertatisque justifique a decretação da custódia. Sublinha, ainda, o receio do acusado de contrair varíola dentro do estabelecimento prisional.
+Diante disso, requer, em liminar e no mérito, a expedição de contramandado de prisão em favor do recorrente.
+É o relatório. Decido.
+Não há como prosseguir a irresignação.
+Isso porque o habeas corpus não foi devidamente instruído, uma vez que não foi colacionada peça processual indispensável à verificação do alegado constrangimento ilegal, qual seja, cópia da decisão que decretou a prisão preventiva do acusado, em razão do suposto descumprimento de medida cautelar.
+É de se ressaltar que o rito do habeas corpus pressupõe prova pré-constituída do direito alegado, devendo a parte demonstrar, de maneira inequívoca, por meio de documentos, a existência de constrangimento ilegal imposto ao paciente.
+Ora, "a jurisprudência do Supremo Tribunal Federal é firme no sentido de inadmitir o conhecimento de habeas corpus, não instruídos os autos com peça necessária à confirmação da efetiva ocorrência do constrangimento ilegal" (AgRg no HC n. 168.676/BA, Relatora Ministra ROSA WEBER, Primeira Turma, julgado em 29/11/2019, DJe 11/12/2019).
+No mesmo sentido, esta Corte assentou que "em sede de habeas corpus, a prova deve ser pré-constituída e incontroversa, cabendo ao impetrante apresentar documentos suficientes à análise de eventual ilegalidade flagrante no ato atacado" (AgRg no HC n. 549.417/SC, Rel. Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 10/12/2019, DJe 17/12/2019).
+Ante o exposto, com base no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o pedido.
+Intimem-se.
