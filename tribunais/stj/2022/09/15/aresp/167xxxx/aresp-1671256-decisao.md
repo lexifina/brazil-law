@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial, interposto peloINSTITUTO NACIONAL DO SEGURO SOCIAL, contra decisão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, que inadmitiu o Recurso Especial, manejado em face de acórdão assim ementado:
+"RESPONSABILIDADE CIVIL. AÇÃO REGRESSIVA. INSS.ACIDENTE DE TRABALHO. PRELIMINAR DE INTEMPESTIVIDADE.AFASTADA. SAT/RAT. INCONSTITUCIONALIDADE DO ART. 120 DA LEI Nº 8.213/91. CULPA COMPROVADA. ÍNDICE DE CORREÇÃO.HONORÁRIOS ADVOCATÍCIOS. APELAÇÃO DESPROVIDA.
+1. O fato de a ré contribuir para o custeio do regime geral de previdência social, mediante o recolhimento de tributos e contribuições sociais, dentre estas aquela destinada ao seguro de acidente do trabalho - SAT, atualmente denominada RAT - Riscos Ambientais do Trabalho, não exclui a responsabilidade nos casos de acidente de trabalho decorrentes de culpa sua, por inobservância das normas de segurança e higiene do trabalho.
+2. Com a Emenda Constitucional nº 20/98 restou expressamente estabelecido que tanto a Previdência Social quanto o setor privado são responsáveis pela cobertura do risco de acidente do trabalho. lnexiste, pois, qualquer incompatibilidade entre as disposições do art. 120 da Lei 8.213/91 e o art. 7º, inciso XXVIII, da CF/88.
+3. A responsabilidade funda-se na premissa de que os danos gerados culposamente pelo empregador ao INSS, decorrente de acidente do trabalho, não podem e não devem ser suportados por toda a sociedade em razão de atitude ilícita da empresa que não cumpre normas do ambiente de trabalho.
+4. O direito de regresso invocado pelo INSS é justificado pela negligência do empregador, que, ao não cumprir os ditames da lei em sede de prevenção de acidentes acaba criando um ambiente propício ao seu acontecimento.
+5. Os elementos probatórios contidos nos autos comprovam de forma indubitável a conduta negligente da demandada.
+6. Tratando-se de condenação da Fazenda Pública, deve-se utilizar os índices previstos na Resolução nº 267/2013 do CJF, excluídos os índices da poupança, tendo em vista que o C. STF entendeu pela inconstitucionalidade do art. 5º da Lei nº 11.960/2009, adotando o posicionamento de que a eleição legal do índice da caderneta de poupança para fins de atualização monetária e juros de mora ofende o direito de propriedade (ADI 4357 e RE 798541 AgR).
+7. Considerando critérios legais previstos, os honorários advocatícios em favor do patrono da parte autora devem ser reduzidos.
+8. Apelação desprovida do INSS. Apelação parcialmente provida da parte ré" (fls. 531/532e).
+Opostos Embargos de Declaração, foram rejeitados,conforme oacórdão de fls. 566/570e.
+Sustenta a parte ora agravante, no Recurso Especial, fundamentado na alínea a do permissivo constitucional, contrariedade aos arts. 406 do Código Civil, 84, I, da Lei 8.981/95, 13 da Lei 9.065/95 e 37-A da Lei 10.522/2002, ao fundamento de que, "nas ações deste jaez, a correção monetária e os juros de mora devem ser aplicados na forma da Taxa SELIC" (fl. 256e).
+Por fim, requer "o provimento deste recurso especial, interposto com fundamento no art. 105, III, a, da Constituição, para reformar parcialmente o acórdão de fls. 358/v., integrado pelo de fls.394/v., por ofensa ao art. 406 do Código Civil c/c art. 84, I, da Lei n. 8.981/1995 e o art.13 da Lei n. 9.065/1995 e ao art. 37-A da Lei n. 10.522/2002, de modo a determinar, em conformidade com esses dispositivoslegais, a incidência da Taxa SELIC, a título de correção monetária e juros de mora, sobre o valor da condenação dos benefícios já pagos pelo INSS, a partir da data do desembolso de cada parcela pelo recorrente" (fl. 577e).
+Apresentadas as contrarrazões a fls. 581/585e.
+Inadmitido o Recurso Especial (fls. 638/639e), foi interposto o presente Agravo (fls. 641/650e).
+Contraminuta a fls. 662/669e.
+A irresignação, entretanto, não merece acolhimento.
+Quanto à alegada ofensa aos arts. 406 do Código Civil, 84, I, da Lei 8.981/95, 13 da Lei 9.065/95 e 37-A da Lei 10.522/2002, o Recurso Especial não ultrapassa a admissibilidade, ante o óbice da Súmula 282 do Supremo Tribunal Federal ("É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada").
+Isso porque, para que se configure o prequestionamento, não basta que o recorrente devolva a questão controvertida para o Tribunal, é necessário que a causa tenha sido decidida à luz da legislação federal indicada, bem como seja exercido juízo de valor sobre os dispositivos legais indicados e a tese recursal a eles vinculada, interpretando-se a sua aplicação ou não ao caso concreto.
+Nesse contexto, por simples cotejo das razões recursais e os fundamentos do acórdão, percebe-se que a tese recursal vinculada ao(s) dispositivo(s) tido(s) como violado(s) não foi apreciada no voto condutor, sequer de modo implícito, não tendo servido de fundamento à conclusão adotada pelo Tribunal de origem.
+A propósito:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS DECLARATÓRIOS. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECURSO. SÚMULA N. 284 DO STF. PREQUESTIONAMENTO. LITIGÂNCIA DE MÁ-FÉ. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE.INCIDÊNCIA DA SUMULA N. 7 DO STJ. DECISÃO MANTIDA.
+1. A deficiência na fundamentação do recurso, de modo a impedir a compreensão da suposta ofensa ao dispositivo legal invocado, obsta o conhecimento do recurso especial (Súmula n. 284/STF).
+2. A simples indicação dos dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor da Súmula n. 282 do STF.
+3. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos ou interpretação de cláusula contratual, a teor do que dispõem as Súmulas n. 5 e 7 do STJ.
+4. No caso dos autos, a modificação das conclusões do acórdão recorrido, a respeito da conduta protelatória do agravante, para fins de afastamento da multa por litigância de má-fé, demandaria análise do conteúdo fático dos autos.
+5. Agravo interno a que se nega provimento" (STJ, AgInt no AREsp 273.612/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe de 23/03/2018).
+Registre-se que os supracitados dispositivos sequer foram objeto dos Embargos de Declaração de fls. 550/556e.
+Assim, à mingua de prequestionamento, inviável a apreciação da aludida tese recursal.
+Ante o exposto, com fulcro no art. 253, parágrafo único, II, a, do RISTJ, conheço do Agravo paranãoconhecer doRecurso Especial.
+I.
