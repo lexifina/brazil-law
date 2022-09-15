@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de habeas corpus substitutivo de recurso, com pedido liminar, impetrado em benefício de SHEILA ROBERTA DA COSTA BELA, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no julgamento do HC n. 2063371-35.2022.8.26.0000.
+Extrai-se dos autos que a paciente foi presa em flagrante em 6/3/2022, convertido em preventiva após manifestação do Ministério Público e restou denunciada pela suposta prática do crime previsto no art. 33, c/c o art. 40, III e V, ambos da Lei n. 11.343/2006 (tráfico interestadual de drogas, praticado em transporte público). Em 5/5/2022 o Juízo de primeiro grau indeferiu pedido de liberdade provisória formulado pela defesa.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem nos termos do acórdão que restou assim ementado:
+"Habeas Corpus. Tráfico de drogas. Prisão preventiva decretada de ofício. Inocorrência. Autoridade policial que representou pela medida extrema, desde a lavratura do flagrante. Pedido de liberdade provisória. Inadmissibilidade. Existência de prova da materialidade delitiva e indícios sérios de autoria. Prisão preventiva decretada por decisão suficientemente fundamentada. Necessidade da custódia para garantia da ordem pública, ante a gravidade concreta do delito (apreensão de 4.280g de crack em transporte interestadual). Medidas cautelares diversas da prisão que se mostram insuficientes no caso. Predicados pessoais favoráveis que não têm o condão de elidir a custódia cautelar. Oferecimento de acordo de não persecução penal (ANPP) que constitui faculdade do Parquet e é previsto na lei processual adjetiva para delitos com pena mínima inferior a 4 anos. Não cabimento das medidas excepcionais elencadas na Recomendação 62 doC. CNJ. Ausência de demonstração de efetiva vulnerabilidade da saúde do paciente. Constrangimento ilegal não caracterizado. Ordem denegada." (fl. 267).
+No presente writ o impetrante sustenta que a paciente conta com condições pessoais favoráveis e teria agido apenas na condição de "mula", destacando que o Ministério Público teria emitido manifestação favorável à concessão da liberdade provisória.
+Pondera a ausência de fundamentação concreta que justifique a prisão preventiva da paciente, baseada apenas na gravidade abstrata do delito.
+Assevera não estarem presentes os requisitos previstos no art. 312 do CPP.
+Alega ser desproporcional a prisão preventiva no caso, especialmente considerando a possibilidade de aplicação de pena mais branda em caso de eventual condenação.
+Assegura a suficiência da aplicação de medidas cautelares alternativas, previstas no art. 319 do CPP.
+Requer, em liminar e no mérito, a concessão da liberdade à paciente, ainda que mediante a aplicação de medidas cautelares alternativas, com expedição de alvará de soltura.
+Liminar indeferida às fls. 291/293. Informações prestadas às fls. 297/299, 301/302. O Ministério Público Federal opinou pela prejudicialidadedo writ em parecer acostado às fls. 323/325.
+É o relatório.
+Decido.
+De acordo com informações obtidas na página eletrônica da Corte Estadual, verifica-se que, nos autos da Ação Penal n. 1500296-42.2021.8.26.0347, em 13/06/2022, sobreveio sentençacondenando aora pacientecomo incursano artigo art. 33, caput, c/c art. 40, incisos III e V, ambos da Lei n. 11.343/06, à pena privativa de liberdade de 6anos, 9 mesese 20 dias de reclusão, no regime inicial fechado, e pagamento de 680dias-multa, tendo sido mantida a custódia cautelar com base em fundamentos diversos daqueles utilizados na decisão da preventiva.
+In casu, da leitura da sentença condenatória, verifica-se que o Magistrado de primeiro grau manteve a custódia cautelar daré, agregando fundamentos novos ao decreto prisional, consoante se extrai do seguinte trecho do julgado, in verbis:
+"A ré viu o desenrolar do processo sob custódia cautelar, de sorte que lhe nego o direito de recorrer em liberdade, considerando-se, ainda que, tratam os autos de crime que traz evidentes repercussões negativas à sociedade. Recomende-se a ré na prisão em que se encontra"
+Nesse contexto, verifica-se que, diante da alteração do cenário fático-processual, consubstanciada no advento de novo título judicial decorrente da sentença condenatória proferida em desfavor daora paciente, fica superada a alegação trazida na impetração que ataca os fundamentos na manutenção da prisão preventiva por ocasião do reanálise do decreto preventivo.
+Ademais, conforme sedimentado pela jurisprudência do Superior Tribunal de Justiça, os fundamentos acrescidos ao novo título adotado para justificar a custódia cautelar, devem ser submetidos à análise do Tribunal de origem antes de serem aqui apreciados, sob pena de se incidir em indevida supressão de instância.
+No mesmo sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. NOVOS FUNDAMENTOS A EMBASAR A CUSTÓDIA. WRIT PREJUDICADO. APELAÇÃO DEFENSIVA. EXECUÇÃO PROVISÓRIA. AGRAVO DESPROVIDO.
+1. A superveniência de sentença penal condenatória, na qual se nega ao Acusado o direito de recorrer em liberdade, com novos fundamentos para justificar a prisão preventiva conduz à prejudicialidade da ação constitucional de habeas corpus ou do recurso em habeas corpus dirigidos contra decisão antecedente de constrição cautelar.
+2. Além disso, é possível a execução provisória da pena após a confirmação da sentença condenatória pelo Tribunal de origem quando exaurida a jurisdição ordinária.
+3. Agravo regimental desprovido.
+(AgRg no HC 461.932/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, DJe 19/08/2019).
+Pelo exposto, com fundamento no art. 34, XVIII, a, do RISTJ, não conheço do presentehabeas corpus.
+Publique-se.
+Intimem-se.
