@@ -1,0 +1,376 @@
+DECISÃO
+
+HABEAS CORPUS. PROCESSUAL PENAL. DESCABIMENTO DE IMPETRAÇÃO CONTRA DECISÃO MONOCRÁTICA DO SUPERIOR TRIBUNAL DE JUSTIÇA. SUCEDÂNEO DE REVISÃO CRIMINAL: IMPOSSIBILIDADE. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE ENTORPECENTE. REEXAME DE FATOS E PROVAS. DESCABIMENTO. AUSÊNCIA DE TERATOLOGIA. HABEAS CORPUS AO QUAL SE NEGA SEGUIMENTO.
+
+Relatório
+
+    1. Habeas corpus, com requerimento de medida liminar, impetrado, em 6.9.2022, por Marcelo Henrique Garcia Ribeiro, advogado, em benefício de Roberto Rodrigues Lopes Filho, contra decisão do Ministro Ribeiro Dantas, do Superior Tribunal de Justiça, que, em 4.5.2022, não conheceu do Habeas Corpus n. 687.859/SP.
+
+O caso
+
+    2. Consta dos autos ter o juízo da Segunda Vara Criminal da comarca de Santos/SP, em 9.9.2014, condenado o paciente ao cumprimento da pena privativa de liberdade de um ano e oito meses de reclusão, em regime inicial semiaberto, e ao pagamento de cento e sessenta e seis dias-multa, pela prática do crime previsto no caput e no § 4º do art. 33 da Lei n. 11.343/2006 (tráfico de entorpecente privilegiado). Narrou-se na denúncia:
+
+    “1. Consta do incluso inquérito policial que no dia 11 de janeiro de 2014, por volta das 11h20, na Av. Almirante Saldanha da Garra, Ponta da Praia, nesta cidade, ROBERTO RODRIGUES LOPES FILHO, qualificado a fls. 08, e CARLOS ROBERTO LIMA DAMIÃO, qualificado indiretamente a fls. 78, agindo em concurso e previamente ajustados entre si e com outros indivíduos ainda não completamente identificados, transportavam e guardavam drogas, para a entrega a consumo de terceiros, sem autorização e em desacordo com determinação legal e regulamentar, conforme auto de exibição e apreensão de fls. 25 e laudo de exame químico-toxicológico de fls. 57.
+
+    2. Consta, ainda, que na mesma data e local, os denunciados se associaram, entre si e com outros indivíduos ainda não completamente identificados, para o fim de praticar, reiteradamente ou não, o crime previsto no art. 33, caput, da Lei 11.343/06.
+
+    3. Consta, também, que na mesma data, por volta das 12h30, na Av. José Monteiro, Vila Valença, em São Vicente, CARLOS ROBERTO LIMA DAMIÃO opôs-se à execução de ato legal, mediante violência contra funcionários competentes para executá-lo. O ato, em razão da resistência, não se executou.
+
+    Segundo se apurou, policiais civis lotados na DISE-DENARC da Capital, investigaram notícia de que o veículo Fiat/Linea, placas HNW 5134/Campinas, era usado para o transporte de entorpecentes na região da Baixada Santista.
+
+    Na data do fato, em diligências nesta cidade, na esquina da Av. Washington Luís com a Rua Tolentino Filgueiras, Gonzaga, os investigadores visualizaram o veículo mencionado, que era conduzido por CARLOS DAMIÃO. Em revista, os policiais encontraram, no porta-malas do automóvel, as duas bolsas avistadas anteriormente, dentro das quais havia vinte tijolos de cocaína, no total de 20,028 (vinte quilos e vinte e oito gramas).
+
+    Em poder de ROBERTO, ainda, foram apreendidos uma pistola marca Glock, calibre 380, municiada com 15 projéteis íntegros, e dois aparelhos de telefone celular, um da marca Apple e outro Motorola (fls. 23/24).
+
+    Indagado, ROBERTO confirmou que recebera aquelas bolsas momentos antes de um indivíduo negro, que dirigia um Fiat/Línea. Afirmou, ainda, que fazia o transporte a pedido de seu empregador, Yuri Araújo Ribeiros (fls.).
+
+    Diante da apreensão da droga e da detenção de ROBERTO, os policiais seguiram para o estacionamento do Supermercado Carrefour, em São Vicente, onde já haviam avistado o veículo Fiat/Línea em campanas anteriores. Ali, novamente avistaram este automóvel saindo daquele estabelecimento, e resolveram abordá-lo. Nesse momento, contudo, o motorista, CARLOS DAMIÃO, colidiu contra a viatura dos investigadores e saiu correndo à pé, opondo-se com violência à execução do ato legal da abordagem, posto que, na fuga, efetuou disparos de arma de fogo. Em razão da resistência, CARLOS DAMIÃO conseguiu se evadir. O veículo Fiat/Línea, abandonado na fuga, foi apreendido.
+
+    O autuado ROBERTO reconheceu e apontou, por fotografia, CARLOS DAMIÃO como o indivíduo que conduzia o veículo Fiat/Línea e que, naquela data, entregou-lhe as bolsas contendo a cocaína (fls. 12/13). Os policiais, da mesma forma, reconheceram CARLOS DAMIÃO por fotografia (fls. 13).
+
+    O envolvimento de Yuri Araújo Ribeiro e outros indivíduos nos fatos é objeto de investigação policias em separado (fls. 51/52, 61/62 e 87).
+
+    A quantidade de drogas apreendidas e as circunstâncias da apreensão evidenciam que os denunciados estavam associados, entre si e a outros, para a guarda e fornecimento d drogas a terceiros.
+
+    Ante o exposto, denuncio ROBERTO RODRIGUES LOPES FILHO por infração aos artigos 33, caput, e 35, caput, ambos da Lei 11.343/06, em concurso material, e CARLOS ROBERTO LIMA DAMIÃO por infração aos artigos 33, caput, e 35, caput, ambos da Lei 11.343/06, e artigo 329, parágrafo 1º, do Código Penal, em concurso material, e requeiro sejam eles citados, interrogados e processados, até final condenação, ouvindo-se oportunamente, as testemunhas abaixo arroladas” (e-doc. 2, fls. 52-54).
+
+    3. Contra a sentença condenatória do juízo da comarca de Santos/SP o Ministério Público e a defesa do paciente interpuseram apelações ao Tribunal de Justiça de São Paulo.
+
+    4. Em 25.8.2015, a Quarta Câmara de Direito Criminal do Tribunal paulista negou provimento ao recurso da defesa e deu provimento ao apelo do Ministério Público, para elevar a pena do paciente pelo tráfico de entorpecentes e condená-lo também pelo crime de associação para o tráfico, totalizando a reprimenda dez anos e oito meses de reclusão, no regime inicial fechado, e mil quinhentos e noventa e nove dias-multa.
+
+    5. Contra o acórdão do Tribunal de Justiça de São Paulo impetrou-se o Habeas Corpus n. 687.859/SP no Superior Tribunal de Justiça, não conhecido pelo Relator, Ministro Ribeiro Dantas, em 4.5.2022.
+
+    6. A decisão proferida no Superior Tribunal é o objeto do presente habeas corpus. O impetrante afirma que o paciente “não tinha a menor ideia de que o conteúdo, acondicionado em uma mochila dentro possuía entorpecente, pelo contrário, tinha a plena consciência que estava a transportando dinheiro, pois trata – se de uma casa de câmbio sendo que prestava serviço de segurança privada, por ser policial militar, onde prestava serviço para Yuri Araújo Ribeiro” (fl. 8, e-doc 1).
+
+    Aduz que “o paciente não possuía a circunstância elementar descrita no tipo penal incriminador, Erro de tipo essencial incriminador, instituto descrito no art. 20 caput do Código Penal, pois desconhecia circunstância elementar descrita em tipo penal incriminador” (fl. 8, e-doc. 1).
+
+    Enfatiza ser “imperativa a aplicação do princípio in dubio pro reo, se não restou comprovado nos autos que o paciente agiu com a ciência que transportava substância ilícita” (fl. 9, e-doc. 1).
+
+    Sustenta que “inexiste prova, fática, comprobatória que o paciente estaria associado para exerce atividade criminosa, pelo contrário, os próprios agentes da lei salientaram que após (03) três dias de ‘campana’ não tinham conhecimento da pessoa do acusado ” (fl. 14, e-doc. 1).
+
+    Estes os requerimentos e os pedidos:
+
+    “Diante da ausência de estabilidade e permanência em face ao delito de associação para o tráfico, pugna pela concessão da ordem para absolver o impetrante ao delito imputado de tráfico de drogas artigo 33º e pelo artigo 35º da lei 11.343/2006.
+
+    Em caráter alternativo pela concessão e por consequência da nulidade pela condenação no delito de associação ao tráfico (artigo 35º), pois sendo indispensável para a comprovação do delito, o animus associativo de forma estável e duradoura com a finalidade de cometer tais delitos, desta forma, falta de fundamentação na decisão, portanto, requer o reconhecimento da nulidade e por consequência uma nova dosimetria da pena para diminuir a pena para 1 ano e 08 meses em regime semiaberto. (…)
+
+    Requer ainda que, seja reconhecido o Erro de tipo essencial incriminador, instituto descrito no art. 20 caput do Código Penal, pois desconhecia circunstância elementar descrita em tipo penal incriminador para ABSOLVER O PACIENTE PELO DELITO TIPIFICADO NO ARTIGO 33 E 35 DA LEI 11343/2006. Ausente o elemento típico, qual seja, o fato de estar transportando drogas, faz com que, nos termos do dispositivo legal, se exclua o dolo, mas permita-se a punição por crime culposo e, como o dispositivo legal do art. 33 da Lei n. 11.343/06. (…)
+
+    Por fim, requer a oitiva da Douta Procuradoria da República, na condição de custos legis. Para uma condenação a prova deve ser plena, firme, segura, diante disso, e dos argumentos acima e ainda pelo princípio Constitucional ‘in dubio pro réu’ requer a concessão do Habeas Corpus, concedendo o Salvo Conduto ao Paciente Roberto Rodrigues Lopes Filho, portador do RG nº 26537266 SSP/SP deve ser procedente !!!!” (fls. 20-25, e-doc. 1).
+
+    Examinada a matéria posta à apreciação, DECIDO.
+
+    7. Razão jurídica não assiste ao impetrante.
+
+    8. Consta dos autos que a defesa interpôs recursos especial e extraordinário, inadmitidos na origem. Essas inadmissões foram questionadas no Agravo em Recurso Especial n. 944.784/SP, não conhecido no Superior Tribunal de Justiça, com trânsito em julgado em 5.9.2017, e no Recurso Extraordinário com Agravo n. 1.091.844, não conhecido neste Supremo Tribunal Federal, com trânsito em julgado em 4.4.2018.
+
+    A presente impetração foi protocolizada em 6.9.2022, após o trânsito em julgado da condenação do paciente na ação penal da qual cuida este habeas corpus.
+
+    9. Este Supremo Tribunal consolidou jurisprudência no sentido de não caber habeas corpus como sucedâneo de revisão criminal, salvo em situações de manifesta ilegalidade, teratologia ou abuso de poder. Assim, por exemplo:
+
+    “AGRAVO INTERNO EM HABEAS CORPUS. PRETENDIDA ABSOLVIÇÃO OU REVISÃO DA DOSIMETRIA DA PENA. CONDENAÇÃO TRANSITADA EM JULGADO EM MOMENTO ANTERIOR A ESTA IMPETRAÇÃO. HABEAS CORPUS UTILIZADO COMO SUCEDÂNEO DE REVISÃO CRIMINAL. INVIABILIDADE. HABEAS CORPUS NÃO CONHECIDO. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO. I – A condenação imposta à parte agravante transitou em julgado em momento anterior a esta impetração. II – É inviável a utilização do habeas corpus como sucedâneo de revisão criminal. Precedentes. III – Agravo interno a que se nega provimento” (HC n. 190.173-AgR, Relator o Ministro Nunes Marques, Segunda Turma, DJe. 25.3.2021).
+
+    “HABEAS CORPUS. PENAL E PROCESSUAL PENAL. IMPOSSIBILIDADE DE UTILIZAÇÃO DO HABEAS CORPUS COMO SUCEDÂNEO DE RECURSO OU REVISÃO CRIMINAL. REDISCUSSÃO DE CRITÉRIOS DE DOSIMETRIA DA PENA. REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO. INADMISSIBILIDADE NA VIA ELEITA. ORDEM DENEGADA” (HC n. 144.742, Relator para o acórdão o Ministro Luiz Fux, Primeira Turma, DJe 9.12.2020).
+
+    “AGRAVO REGIMENTAL EM HABEAS CORPUS. REITERAÇÃO DOS ARGUMENTOS EXPOSTOS NA INICIAL QUE NÃO INFIRMAM OS FUNDAMENTOS DA DECISÃO AGRAVADA. UTILIZAÇÃO DO WRIT COMO SUCEDÂNEO DE REVISÃO CRIMINAL INADMISSIBILIDADE. AGRAVO A QUE SE NEGA PROVIMENTO. I - O agravante apenas reitera os argumentos anteriormente expostos na inicial do habeas corpus, sem, contudo, aduzir novos elementos capazes de afastar as razões expendidas na decisão agravada. II - A jurisprudência pacífica do Supremo Tribunal Federal não admite o uso do writ como sucedâneo de revisão criminal. Precedentes. III - Agravo a que se nega provimento” (HC n. 161.656-AgR, Relator o Ministro Ricardo Lewandowski, Segunda Turma, DJe 31.10.2018).
+
+    “PROCESSUAL PENAL. EMBARGOS DECLARATÓRIOS EM HABEAS CORPUS RECEBIDOS COMO AGRAVO REGIMENTAL. CONDENAÇÃO TRANSITADA EM JULGADO. INADEQUAÇÃO DA VIA ELEITA. 1. Embargos de declaração recebidos como agravo regimental, tendo em vista a pretensão da parte recorrente em ver reformada a decisão impugnada. 2. O entendimento do Supremo Tribunal Federal é no sentido de que o habeas corpus não se revela instrumento idôneo para impugnar decreto condenatório transitado em julgado (HC 118.292-AgR, Rel. Min. Luiz Fux). Confiram-se, nessa mesma linha, os seguintes precedentes: HC 128.840-AgR, de minha Relatoria; RHC 116.108, Rel. Min. Ricardo Lewandowski; HC 117.762, Rel. Min. Dias Toffoli; HC 91.711, Rel. Min. Cármen Lúcia. 3. Na situação concreta não se verifica teratologia, ilegalidade flagrante ou abuso de poder que justifique a concessão da ordem de ofício. 4. Agravo regimental a que se nega provimento” (HC n. 154.106-ED, Relator o Ministro Roberto Barroso, Primeira Turma, DJe 6.8.2018).
+
+    Confiram-se também os precedentes a seguir: HC n. 137.153-AgR, Relatora a Ministra Rosa Weber, Primeira Turma, DJe 16.11.2018; HC n. 161.267-AgR, Relator o Ministro Luiz Fux, Primeira Turma, DJe 15.10.2018; HC n. 135.239-AgR, Relator o Ministro Celso de Mello, Segunda Turma, DJe 17.9.2018; HC n. 134.691-AgR, Relator o Ministro Alexandre de Moraes, Primeira Turma, DJe 1º.8.2018; HC n. 149.653-AgR, Relator o Ministro Dias Toffoli, Segunda Turma, DJe 6.2.2018; HC n. 123.182-AgR, Relator o Ministro Edson Fachin, Primeira Turma, DJe 29.9.2016; e HC n. 134.974, de minha relatoria, Segunda Turma, DJe 9.8.2016.
+
+    10. A presente impetração volta-se contra decisão monocrática do Ministro Ribeiro Dantas, do Superior Tribunal de Justiça, que não conheceu do Habeas Corpus n. 687.859/SP.
+
+    Pela jurisprudência do Supremo Tribunal Federal, “a não interposição de agravo regimental no STJ e, portanto, a ausência da análise da decisão monocrática pelo colegiado impede o conhecimento do habeas corpus por est[e Supremo Tribunal]” (HC n. 120.259-AgR, Relator o Ministro Ricardo Lewandowski, DJe 12.2.2014). Assim, por exemplo:
+
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL. HOMICÍDIO QUALIFICADO. DESCABIMENTO DE IMPETRAÇÃO CONTRA DECISÃO MONOCRÁTICA. INEXISTÊNCIA DE NULIDADE. PREJUÍZO NÃO DEMONSTRADO. PEDIDO MANIFESTAMENTE IMPROCEDENTE E CONTRÁRIO À JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. INEXISTÊNCIA DE CONTRARIEDADE AO PRINCÍPIO DA COLEGIALIDADE. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. 1. O habeas corpus impetrado neste Supremo Tribunal se volta contra decisão monocrática do Ministro Felix Fischer, do Superior Tribunal de Justiça, no Habeas Corpus n. 472.658. Nos termos da jurisprudência deste Supremo Tribunal, a não interposição de agravo regimental no STJ e, portanto, a ausência da análise da decisão monocrática pelo colegiado impede o conhecimento do habeas corpus por est[e Supremo Tribunal] (HC n. 120.259-AgR, Relator o Ministro Ricardo Lewandowski, DJe 12.2.2014). 2. Inexistência de nulidade. Agravante acompanhado pela sua Defesa, na pessoa do Dr. Vinícius Coutinho de Oliveira (fl. 2, vol. 3), na sessão de julgamento pelo Tribunal do Júri realizada na origem, tendo reiterado o mandato conferido ao defensor na interposição da apelação (doc. 15). Não demonstração do efetivo prejuízo ao exercício do direito de defesa do agravante, sem o que não se decreta nulidade no processo penal, em atenção ao princípio do pas de nullité sans grief, corolário da natureza instrumental do processo. 3. Agravo regimental ao qual se nega provimento” (HC n. 164.535-AgR, de minha relatoria, Segunda Turma, DJe 20.4.2020).
+
+    “HABEAS CORPUS. PROCESSO PENAL. INDEFERIMENTO DE LIMINAR. SÚMULA 691/STF. TRÁFICO DE DROGAS, ASSOCIAÇÃO PARA O TRÁFICO, CONDUÇÃO DE VEÍCULO AUTOMOTOR SEM HABILITAÇÃO, ADULTERAÇÃO DE SINAL IDENTIFICADOR DE VEÍCULO AUTOMOTOR E DESOBEDIÊNCIA. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. EXCESSO DE PRAZO. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. SUPRESSÃO DE INSTÂNCIA. 1. Não se conhece de habeas corpus impetrado contra indeferimento de liminar por Relator em habeas corpus requerido a Tribunal Superior. Súmula 691. Óbice superável apenas em hipótese de manifesta ilegalidade ou teratologia. 2. Inviável o exame das teses defensivas não analisadas pelo Superior Tribunal de Justiça, sob pena de indevida supressão de instância. Precedentes. 3. Habeas corpus não conhecido, com a cassação da liminar anteriormente deferida” (HC n. 163.568, Relator o Ministro Marco Aurélio, Redatora para o Acórdão a Ministra Rosa Weber, Primeira Turma, DJe 30.8.2019).
+
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. IMPETRAÇÃO CONTRA DECISÃO MONOCRÁTICA DO SUPERIOR TRIBUNAL DE JUSTIÇA. NÃO ESGOTAMENTO DE JURISDIÇÃO. CRIME DE HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. SUPRESSÃO DE INSTÂNCIA. REITERAÇÃO DE IMPETRAÇÃO ANTERIOR. SUPERVENIÊNCIA DA SENTENÇA DE PRONÚNCIA. SUBSTITUIÇÃO DO TÍTULO PRISIONAL. 1. Há óbice ao conhecimento de habeas corpus impetrado contra decisão monocrática, indeferitória de writ, do Superior Tribunal de Justiça, cuja jurisdição não se esgotou, ausente o manejo de agravo regimental. Precedentes” (HC n. 152.853-AgR, Relatora a Ministra Rosa Weber, DJe 10.5.2018).
+
+    11. Essa jurisprudência não cerra as portas do Supremo Tribunal Federal para os casos nos quais se patenteie ilegalidade manifesta que possa comprometer os direitos fundamentais das pessoas. Presentes essas circunstâncias, supera-se esse ponto para dar-se cumprimento à garantia constitucional de acesso à Justiça (inc. XXXV do art. 5º da Constituição da República).
+
+    Essa excepcionalidade inexiste na espécie em foco.
+
+    12. Na decisão impugnada, proferida pelo Ministro Ribeiro Dantas, do Superior Tribunal de Justiça, na qual não conhecido do Habeas Corpus n. 687.859/SP, foi realçado que a condenação do paciente, por tráfico e associação para o tráfico de entorpecentes, está alicerçada “na prova oral produzida nos autos, bem como no auto de prisão em flagrante, no auto de exibição e apreensão do entorpecente, no boletim de ocorrência, no laudo de exame químico toxicológico e no laudo de vistoria dos veículos”. Tem-se na decisão:
+
+    “Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em benefício de ROBERTO RODRIGUES LOPES FILHO, em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+
+    Consta dos autos que o paciente foi condenado como incurso no art. 33, § 4º, da Lei n. 11.343/2006, à pena de 1 ano e 8 meses de reclusão, no regime inicial semiaberto, e pagamento de 166 dias-multa.
+
+    Em sede recursal, o Tribunal de origem negou provimento ao apelo defensivo e deu provimento ao apelo ministerial para condenar o paciente, também, pela prática do delito previsto no art. 35 da Lei nº 11.343/2006, e majorar as penas impostas para o artigo 33 da mesma lei, restando definitivamente condenado, nos termos do artigo 69 do Código Penal, às penas de 10 anos e 8 meses de reclusão, regime fechado, mais pagamento de 1.599.
+
+    Neste writ, alega a defesa, em suma, que o paciente ‘não tinha a menor ideia de que o conteúdo, acondicionado em uma mochila dentro possuía entorpecente, pelo contrário, tinha a plena consciência que estava a transportando dinheiro, pois trata – se de uma casa de câmbio sendo que prestava serviço de segurança privada, por ser policial militar, onde prestava serviço para Yuri Araújo Ribeiro.’ (e-STJ,
+fl. 12)
+
+    Argumenta que ‘É impositiva a absolvição do Réu, maiormente quando o conjunto probatório revelado pela acusação autoriza o reconhecimento do erro de tipo, previsto no art. 20 do Código Penal.’ (e-STJ, fl. 13)
+
+    Sustenta que ‘[é] imperativa a aplicação do princípio in dubio pro reo, se não restou comprovado nos autos que o paciente agiu com a ciência que transportava substância ilícita.’ (eSTJ, fl. 14)
+
+    Aponta que o réu deve ser absolvido, também, pelo delito de associação para o tráfico, uma vez que não existiu prova da estabilidade e permanência.
+
+    Argumenta que ‘os próprios agentes que efetuaram a prisão do paciente declararam que após (03) dias de campana não tinham conhecimento da pessoa de nome Roberto Rodrigues Lopes Filho, bem como, a declaração do Delegado de Polícia que declarou taxativamente que o alvo da operação era Carlos, ou seja, onde está a prova da existência que o paciente possuía estabilidade permanência com a atividade criminosa.’ (e-STJ, fl. 27)
+
+    Requer a absolvição do paciente pelos crimes de tráfico de drogas e associação para o tráfico.
+
+    O MPF manifestou-se pelo não conhecimento do writ.
+
+    É o relatório.
+
+    Decido.
+
+    Esta Corte – HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 – e o Supremo Tribunal Federal – AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 –, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+
+    Passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+
+    O juiz sentenciante condenou o paciente pelo delito de tráfico de drogas nos seguintes termos:
+
+    ‘No mérito, a pretensão punitiva estatal é parcialmente procedente.
+
+    A materialidade do crime de tráfico está satisfatoriamente demonstrada pelo auto de prisão em flagrante delito (fls. 02), pelo auto de exibição e apreensão do entorpecente (fls. 23/26), pelo boletim de ocorrência (fls. 15/21), pelo laudo do exame químico toxicológico (fls. 56/57), laudo de vistoria nos veículos Linea (fls. 209/214) e Cruze (fls. 219/224), bem como, de resto, pela prova oral colhida.
+
+    Da mesma forma, a sua autoria restou devidamente comprovada, devendo ser atribuída ao réu.
+
+    Por outro lado, em relação ao crime de associação para o tráfico, anoto que os indícios existentes quando do oferecimento da denúncia não se transmudaram em prova firme e bastante, a fim de ensejar a condenação de Roberto.
+
+    Segundo a exordial acusatória, o veículo Fiat/Linea, placas HNW 5134/Campinas era objeto de investigação de policiais civis lotados na DISE-DENARC da Capital, como veiculo de transporte de entorpecente na região da Baixada Santista.
+
+    No dia II de janeiro de 2014, por volta das 11h20, em diligências pelo bairro do Gonzaga, policiais civis visualizaram o referido veículo na esquina da Av. Washington Luís com a Rua Tolentino Filgueiras, o qual era conduzida por CARLOS DAMIÃO; Eles presenciaram o momento em que CARLOS desceu do Fiat/ Linea e, rapidamente, colocou duas bolsas no veículo Cruze, placas FDI 3252/ Santos, conduzido pelo corréu ROBERTO .
+
+    O veículo GM/Cruze, então, seguiu pela A V. Saldanha da Gama, onde parou na fila da balsa Santos/Guarujá, sendo abordado naquela oportunidade; o veículo era conduzido pelo correu ROBERTO, que é policial militar, mas não estava em serviço. Em buscas, os policiais encontraram, no porta-malas do automóvel, as duas bolsas avistadas anteriormente, em cujo interior continha 20 (vinte) tijolos de cocaína, no total de 20,028kg (vinte quilos e vinte e oito gramas). Em poder de ROBERTO, ainda, foram apreendidos uma pistola marca Glock, calibre 380, municiada com 15 projéteis íntegros, e dois aparelhos de telefone celular, um da marca Apple e outro Motorola.
+
+    Instado extrajudicialmente, ROBERTO confirmou que recebera aquelas bolsas de um indivíduo negro, que dirigia o veiculo Fiat/ Linea. Afirmou, também, que fazia o transporte a pedido de seu empregador Yuri Araújo Ribeiro.
+
+    Diante da apreensão da droga e da detenção de ROBERTO, os policiais seguiram para o estacionamento do Supermercado Carrefour, em São Vicente, local onde já haviam avistado o veiculo Fiati Linea em campanas anteriores. Ali, novamente avistaram o automóvel saindo do estacionamento, oportunidade em que o abordaram. Nesse momento, todavia, o motorista CARLOS DAMIÀ0 colidiu contra a viatura dos investigadores e saiu correndo a pé, opondo-se com violência à execução do ato legal de abordagem, posto que, na fuga, efetuou disparos de arma de fogo. Em razão da resistência, CARLOS DAMIÀO, logrou evadir-se. O veiculo Fiat Linea, abandonado na fuga, foi apreendido.
+
+    O correu ROBERTO reconheceu e apontou, por meio de fotografia, CARLOS DAMIÃO como o indivíduo que conduzia o veiculo Fiat/Linea e que, naquela data, entregou-lhe as bolsas contendo a cocaína. Da mestra forma, os policiais reconheceram CARLOS DAMIÃO por fotografia.
+
+    Sob a égide do contraditório (fls. 468), o réu bradou inocência. Declarou ser policial militar e que, em suas horas vagas, prestava serviços de administração e transporte para uma agência de turismo e de câmbio, ambas de propriedade de um indivíduo de prenome Yuri. No dia do ocorrido, recebeu uma ligação de Yuri, o qual lhe solicitou para o transporte de certa quantia de dinheiro; segundo as informações passadas, o réu deveria se deslocar até a confluência da Av. Washington Luiz com a Rua Tolentino Filgueiras, onde encontraria um veículo Fiat Linea, cor preta, cujo motorista, indivíduo de cútis parda, lhe entregaria uma mochila com o dinheiro; em seguida, deveria seguir à comarca de Guaruja, onde a respectiva mochila deveria ser entregue.
+
+    Roberto dirigiu-se ao local indicado onde se encontrou com o referido indivíduo; este, por sua vez, entregou-lhe uma pequena mala de viagens, informando-o que durante o trajeto passaria as coordenadas do local, na Comarca do Guarujá, onde o objeto deveria ser entregue.
+
+    Rumou, então, até a fila da balsa onde foi abordado por três policiais civis; se identificou como policial militar, mas os policiais pediram que ele os acompanhasse e o colocaram dentro de uma viatura descaracterizada, apreendendo a mala de viagens. Ato contínuo, rumaram até a Avenida Mário Covas, localizada nas imediações do porto, onde conferiram o conteúdo da referida mala, referindo-se, em seguida, tratar-se de entorpecente. Nesse ínterim, o telefone celular de um dos policiais tocou, noticiando que o ‘outro suspeito’ havia seguido rumo ao estacionamento do supermercado Carrefour, localizado na linha amarela, em São Vicente.
+
+    As viaturas se deslocaram ao local indicado, onde avistaram o suspeito; ele, percebendo a movimentação, tentou se evadir do local, ensejando sua perseguição. Uma das viaturas, em manobra, logrou obstar o seu caminho, enquanto as demais o cercavam; de pronto, o suspeito saiu do veículo, correndo e atirando na direção dos policiais, logrando se evadir. Foram realizadas diligências pelo local, mas o indivíduo não foi localizado.
+
+    Em seguida, dirigiram-se até a residência do suspeito, onde descobriu que ele se tratava do mesmo homem que lhe entregara a mala de viagens horas anteriores. Por fim, observou que. somente quando chegou ao DENARC avistou as duas mochilas que os policiais diziam ter localizado no porta-malas de seu veiculo, dentro das quais estavam os tabletes de cocaína. Ademais, nutria amizade com Yuri e havia entre eles uma relação de confiança, razão pela qual não costumava verificar o conteúdo dos envelopes e mochilas que transportava, por acreditar se tratar de quantia em dinheiro.
+
+    Marcelo Fernandes dos Santos (fls. 421/423), policial civil, informou ter recebido denúncia anônima versando acerca de uma transação de drogas na cidade do Guarujá a mando de uni traficante de prenome Sérgio. A denúncia referia-se, também, a dois veículos: uni GM/Sonic e um Fiat/Linea, passando, ainda, as características de um primeiro agente envolvido, pessoa de raça negra. Autorizado pelo seu superior, rumou para o Litoral, juntamente com os policiais Leandro e Alfredo. Ao chegarem nas proximidades do estacionamento do supermercado Carrefour, localizaram o veículo Fiat/Linea, como informado pela denúncia.
+
+    Efetivamente, o carro era dirigido por pessoa de cútis negra, sendo acompanhado pelos policiais em ação que se estendeu por aproximadamente 48 horas. Nesse período, receberam novas novas informações noticiando que a transação com as drogas realizar-se-ia na cidade de Santos.
+
+    No dia do ocorrido, o indivíduo de raça negra, posteriormente identificada como o réu Carlos Damiao, estacionou o carro em uma via pública, permanecendo em seu interior. Algum tempo depois, aproximou-se o réu Roberto, dirigindo o veículo GM/Cruze, o qual estacionou o seu carro imediatamente a frente do Linea. Carlos, então, desembarcou de seu veículo, carregando duas sacolas que guardou no porta-malas do Cruize, depois de conversar com Roberto.
+
+    Passaram a seguir o veículo de Roberto até o abordarem na balsa de travessia SantosGuarujá. De imediato, o réu apresentou-se como sendo policial militar, mas nada disse acerca do conteúdo das bolsas que transportava; elas foram abertas na sua presença, constatando-se, dentro delas, 20 quilos de cocaina acondicionada na forma de tijolos. Nesse ínterim, o réu Carlos foi localizado no estacionamento do supermercado Carrefour, onde foi abordado, mas reagiu, efetuando disparos contra a equipe e logrando se evadir. Já conheciam o seu domicílio e rumaram para lá, onde realizaram diligencias e obtiveram a sua exata qualificação e uma fotografia.
+
+    Extrajudicialmente, Roberto informou prestar serviços de transporte em urna agência de turismo, situada em Santos, cujo proprietário denomina-se Yuri; disse que após atravessar a balsa para o município do Guarujá receberia nova chamada telefônica com detalhes sobre novo encontro em loja do Carrefour situada nesse município; negou ter conhecimento de que se tratavam de drogas;
+
+    Posteriormente, Yuri foi ouvido na delegacia de polícia, onde admitiu conhecer o réu Roberto, mas negou tê-lo contratado para transportar dinheiro ou drogas.
+
+    O réu Roberto forneceu-lhes um número de telefone, o qual pertenceria a Yuri e, por meio do qual, teria mantido contato com ele; foi levantada a régua de chamadas desse número, mas não se apurou qualquer chamada entre tal número e o telefone do réu Roberto. Ademais, nenhum documento ou objeto foi encontrado ou apreendido que relacionasse o réu á pessoa de Yuri.
+
+    Em conformidade, deu-se o depoimento do também policial civil, Leandro Leal, o qual corroborou, na íntegra, a versão de seu colega (fls. 424/425). De outro norte, as testemunhas de defesa nada acrescentaram ao conjunto probatório, posto que não presenciaram os fatos narrados na denúncia, limitando-se, tão somente, a tecer comentários superficiais acerca da personalidade do réu.
+
+    [...]
+
+    Assim, à luz dos elementos probatórios constantes nos autos, a alegação do réu no sentido de que não tinha ciência de que transportava drogas é manifestamente insubsistente. Tal alegação, além de pouco provável, não é respaldada por qualquer meio de prova produzida rios autos; ao contrário, os elementos coligidos permitem afirmar que ele tinha, sim, pleno conhecimento da existência da droga nas mochilas que transportava, não prosperando a tentativa de se eximir da responsabilização criminal sob a excludente invocada, ou, ainda, com a atribuição de propriedade da droga a terceiros, já que é totalmente irrelevante perquirir a identidade do verdadeiro proprietário, tendo em vista que foi denunciado por ‘transportar’ a substância entorpecente, conduta típica prevista no artigo 33, da Lei de Drogas.
+
+    Por outro lado, diante de suas declarações, dos fatos e das circunstâncias apuradas, resta evidentemente que o réu agiu com dolo direto quanto ao transporte da droga e, no mínimo, com dolo eventual quanto à natureza e quantidade do entorpecente, pois ao aceitar a função de transportá-la, assumiu o risco quanto ao resultado altamente lesivo da conduta. Note-se que o acusado é policial militar, com dever de cuidado maior que o do homem médio e com maiores possibilidades de desconfiar da conduta criminosa que pode estar a praticar, até mesmo pelo ambiente profissional em que vive. Se não conferiu o que carregava é porque aceitou o risco de estar a transportar algo de ilícito.
+
+    Ressalta-se, por oportuno, que para a configuração do delito capitulado no artigo 33, ‘caput’, da Lei 11.343/06, não se exige a presença do especial fim de agir, sendo suficiente a prática de qualquer das condutas estabelecidas no dispositivo.
+
+    [...]
+
+    Sob Outro Prisma, ao que concerne ao delito de associação para o tráfico, ressalto que este se distingue do concurso meramente eventual de pessoas (simples coautoria). Assim se dá, porquanto a associação pressupõe ajuste permanente ou estável para a perpetração de vários crimes de tráfico de entorpecente, a fim de formarem uma verdadeira societas scleris. Não basta, portanto, simples distribuição de tarefas, mister que haja a estabilidade no vínculo entre os agentes.
+
+    Assim, levando-se em conta os elementos coligidos nos autos não é possível assegurar que o réu, efetivamente, participasse de associação criminosa estável e permanente para fins de mercancia ilícita de entorpecentes.
+
+    Ora, se é verdade que o réu teria assumido o risco de praticar o crime de tráfico, agindo portanto, em dolo eventual, não há que se falar em assumir o risco de se associar criminosamente porque o fim especifico deste crime não convive bem com o dolo eventual do primeiro.
+
+    [...]
+
+    Como se vê, é do conjunto das circunstâncias que se extrai a prova de que o réu ROBERTO RODRIGUES LOPES FILHO praticou a conduta que se subsume perfeitamente ao tipo penal do artigo 33, caput, da Lei 11.343/06, vez que transportou drogas, para o fim de praticar, reiteradamente ou não, o crime de tráfico de entorpecentes.
+
+    Ressuma, pois, vigoroso e insofismável o arcabouço probatório, pois há elementos de recomposição dos fatos sobejamente demonstrativos da responsabilidade do réu.’ (eSTJ, fls. 969-979; sem grifos no original)
+
+    Por sua vez, o Tribunal de origem deu provimento ao apelo ministerial para, mantida a condenação do paciente pelo delito de tráfico de drogas, condenar o réu, também, pelo delito de associação para o tráfico, em decisão assim motivada:
+
+    ‘No mérito, a pretensão absolutória é francamente inatendível.
+
+    O fato não é inédito nesta egrégia Câmara de Direito Criminal, que já teve a oportunidade de julgar a Apelação Criminal nº 0005678-71.2014.8.26.0562, deduzida pelo corréu CARLOS ROBERTO LIMA DAMIÃO.
+
+    Restou decidido que o descortino do fato não ocorreu por mera obra do acaso.
+
+    Não se trata de ilícito penal reprimido em patrulha de rotina.
+
+    O Departamento de Investigações sobre Narcóticos — DENARC –, em apuração preliminar ã investida, recebeu informações noticiando urna grande transação de entorpecentes que seria realizada na Baixada Santista. As informações davam conta de que um indivíduo de cútis negra que conduzia um veiculo Fiat/Linea traficava com frequência na região e realizaria a sobredita transação.
+
+    Os dois policiais civis ouvidos nos autos foram autorizados pelo superior hierárquico a empreender as diligências necessárias para apurar o noticiado na região litorânea. Após receberem informações mais precisas, realizaram campana por três dias e lograram identificar visualmente um dos acusados, que correspondia às características do indivíduo alvo das delações, bem como passaram a acompanhar sua rotina e endereço de residência.
+
+    No dia dos fatos, realizando campana e observando a movimentação de Carlos Roberto com auxilio de binoculares, testemunhar o momento em que o réu Roberto Rodrigues, na condução de um automotor GM/Cruise, estacionou o seu veículo em uma esquina na cidade de Santos e, apôs breve conversa, Carlos Roberto retirou do veículo Fiat/Linea duas malas e as entregou ao apelante Roberto Rodrigues, que as guardou no porta-malas do carro.
+
+    O réu, policial militar, rumou então sentido Guarujá e, ao chegar á fila da balsa, foi abordado por policiais civis. Com a revista no porta-malas do carro, descobriu-se que as duas malas guardavam mais de 20 (vinte) quilos de cocaína.
+
+    Comprovada as suspeitas relacionadas à prática da narcotraficância organizada, os policiais rumaram para um supermercado em que se acreditava ser ponto de comércio do correu Carlos Roberto, endereço conhecido em razão de campanas anteriores, e se depararam com ele saindo do local, ainda junto à cancela.
+
+    Acionaram as sirenes de identificação da viatura descaracterizada para dar ordem de parada, mas houve resistência à abordagem. Ele chegou a colidir o veículo com a viatura e desembarcou do carro efetuando disparos, com o que logrou empreender a fuga, opondo-se, assim, à execução do ato legal promovido pelos agentes da lei.
+
+    Como conheciam o endereço de residência de Carlos Roberto, para lá rumaram e conversaram com sua esposa, que passou seus dados de identificação. No local, havia um foto pessoal do acusado, permitindo que o réu e os policiais civis o identificassem positivamente como a pessoa que entregou a droga para ser transportada, roborando o que a doutrina denomina ‘certeza visual do crime’.
+
+    Este foi o teor dos relatos uníssonos prestados pelos policiais civis que realizaram as investigações, agiram em campo e realizaram a prisão em flagrante do réu, assim como a apreensão da expressiva quantidade de entorpecentes (cartas precatórias de fls. 421/423 e 424/426).
+
+    A tese de erro de tipo, alegada pelo réu sempre que ouvido, também não merece credibilidade, pois isolada no conjunto probatório.
+
+    Custa crer que policial militar tarimbado, que fazia bicos de transporte de valores para uma agência de turismo, colocaria malas em seu veiculo e em seguida faria o transporte sem saber o conteúdo.
+
+    É de doer a retina!
+
+    O policial civil Marcelo Fernandes reproduziu em juízo os fatos como descritos na peça matriz.
+
+    Disse que visualizou conversa prévia entre o réu Roberto e o corréu Carlos antes deste colocar as malas no porta-malas do veiculo conduzido por Roberto. Disse que Roberto, no momento da prisão, apresentou-se como policial militar, mas nada disse sobre o conteúdo das malas, que foram abertas na sua presença. Quanto a Yuri, foi ouvido em solo policial, disse que conhece o réu, mas não o contratou para transportar valores ou as drogas apreendidas (fls. 421/423).
+
+    No mesmo sentido foi o depoimento do policial civil Leandro Leal. Disse que o réu, durante a abordagem, demonstrou nervosismo natural para quem é abordado. Nada disse sobre o conteúdo das bolsas e em seguida, passou a colaborar na busca do correu Carlos.
+
+    Foram até uma agência de turismo, mas estava fechada.
+
+    Ficou sabendo que investigações posteriores teriam constatado que as versões do réu e d Yuri eram conflitantes
+(fls. 424/425).
+
+    Também, no mesmo sentido, o depoimento do Delegado de Policia Francisco Solano.
+
+    Disse que por autorização judicial foram quebrados os sigilos das linhas telefônicas apreendidas com Roberto e não se conseguiu comprovar o envolvimento de Yuri.
+
+    Este foi ouvido e admitiu ter contratado o réu para o transporte de valores, mas não o contratou na data dos fatos
+(fls. 427/428).
+
+    Quanto às testemunhas de defesa não contribuíram para afastar a imputação arrojada ao apelante, pois se prestaram apenas a dedicar-lhe atributos pessoas favoráveis, sem nada esclarecer sobre o momento da prisão.
+
+    Pouco ou quase nada contribuíram para a busca da verdade real.
+
+    Ao término da instrução, a versão escusatória não teve o condão de derruir o consistente arcabouço probatório acostado aos autos, arrimado na prisão em flagrante, na sobredita prova oral e no desdobramento lógico da materialidade decorrente dos resultados periciais de fls. 57 (laudo químico-toxicológico),
+fls. 251/257 (exame em veículo realizado no auto Fiat/Linea),
+fls. 258/265 (exame em veículo realizado no carro GM/Cruise) e fls. 268/275 (exame complementar realizado no veículo Fiat/Linea para coleta dos resquícios de pó de coloração branca existentes no porta-malas).
+
+    Na espécie, há, portanto, dizeres de policiais insuspeitos e robustos em desfavor do réu.
+
+    Ora, não há porque duvidar das palavras dos policiais civis ouvidos em contraditório. Não estavam impedidos de depor. Antes, deviam mesmo ser ouvidos a respeito dos fatos, como se extrai do art. 6º, III, do Código de Processo Penal.
+
+    A só condição de policiais civis não os tornam suspeitos. Seus depoimentos são colhidos mediante o compromisso de dizerem a verdade, como qualquer outra testemunha e, destarte, suas afirmações devem ser sopesadas em conjunto com as demais provas.
+
+    Seria estranho o Estado selecionar pessoas para integrar o quadro da Policia Civil e depois suspeitar delas quando agem no cumprimento do dever.
+
+    A propósito do assunto há brilhante voto emanado do Supremo Tribunal Federal, em acórdão da lavra do Ministro Celso de Mello: HC 74.608-0 — DJU 11.04.97, p. 12.189.
+
+    No mesmo sentido a jurisprudência do Superior Tribunal de Justiça: ‘Conforme entendimento desta Corte, o depoimento de policiais responsáveis pela prisão em flagrante do acusado constitui meio de prova idôneo a embasar o édito condenatório, mormente guando corroborado em Juizo, no âmbito do devido processo legal’ (HC nº 166979/SP, Rel. Jorge Mussi, DJe 15/08/2012).
+
+    Mantida a condenação, passa-se aos pleitos subsidiários.
+
+    Nesse ponto, inteira razão assiste ao reclamo ministerial.
+
+    As provas reunidas indicam a associação dos acusados à prática do tráfico, uma linha de abastecimento continuo, onde o acusado desempenhava o papel de transportador de grandes quantidades de tóxicos, o que se alinha às denúncias que deflagraram o início das investigações — o entorpecente teria como destino abastecer a ‘Favela Beira Rio’, em São Paulo.
+
+    A expressiva quantidade de substância entorpecente apreendida (20 tijolos de cocaína ) e o contexto fático em que o réu foi surpreendido, não deixam dúvida quanto à sua dedicação à atividade criminosa não apenas eventual ou esporádica, mas sim de forma permanente e duradoura, sendo inquestionável o ajuste prévio, o vinculo e a cooperação entre ele e o corréu Carlos Rodrigues na ilícita atividade, pois este também foi condenado por infração ao artigo 35 da Lei nº 11.343/2006.
+
+    Ademais, é necessário um vinculo prévio e forte para que uma transação de mais de 20 (vinte) quilogramas de cocaína seja realizada entre dois agentes, máxime quando não há pagamento no ato da entrega da droga, como se constatou no conjunto da prova oral.
+
+    Cuida-se, na verdade, de mercancia desempenhada na urbe de forma organizada, estruturada, com liame subjetivo entre os integrantes do grupo marginal, de sorte que está. caracterizado não só o crime de tráfico, como entendeu o Magistrado, mas também a associação, como pretende o reclamo ministerial.
+
+    Associados e umbilicalmente reunidos para se dedicarem ao transporte e posterior venda de entorpecentes, evidente a nítida organização e distribuição de tarefas. Portanto, patente o liame subjetivo que os unia.
+
+    Noutros dizeres, há associação de forma estável voltada à narcotraficãncia.
+
+    E para tal não se pode olvidar da exegese do art. 239 do Código de Processo Penal, uma vez que não se pode penetrar no foro intimo do agente, bem como inexiste hierarquia entre os meios de prova.’ (e-STJ, fls. 40-46; sem grifos no original)
+
+    Na hipótese, observa-se que a condenação do paciente pelos delitos de tráfico e associação para o tráfico de drogas está amparada na prova oral produzida nos autos, bem como no auto de prisão em flagrante, no auto de exibição e apreensão do entorpecente, no boletim de ocorrência, no laudo de exame químico toxicológico e no laudo de vistoria dos veículos.
+
+    Conforme ressaltado pelo Tribunal de origem, ‘[a] expressiva quantidade de substância entorpecente apreendida (20 tijolos de cocaína) e o contexto fático em que o réu foi surpreendido, não deixam dúvida quanto à sua dedicação à atividade criminosa não apenas eventual ou esporádica, mas sim de forma permanente e duradoura, sendo inquestionável o ajuste prévio, o vínculo e a cooperação entre ele e o corréu Carlos Rodrigues na ilícita.’ (e-STJ, fls. 45- 46)
+
+    Dessa forma, a pretensão de absolvição pelos delitos de tráfico de drogas e de associação para o tráfico demanda, necessariamente, o revolvimento do conteúdo fático probatório dos autos, providência inviável em sede de habeas corpus.
+
+    Nesse sentido:
+
+    ‘II - O tipo previsto no artigo art. 35 da Lei nº 11.343/2006 se configura quando duas ou mais pessoas se reúnem com a finalidade de praticar os crimes previstos nos art. 33 e 34 da norma referenciada. Indispensável, portanto, para a comprovação da materialidade, o animus associativo de forma estável e duradoura com a finalidade de cometer tais delitos.
+
+    III - In casu, o Tribunal de origem se apoiou em robusto conjunto probatório para impor a condenação ao paciente, quais sejam, depoimentos testemunhais e os dados constantes da interceptação telefônica. Dessa forma, estando demonstrado a associação do paciente à estável societas criminis dedicada à prática do tráfico ilícito de entorpecentes, correta sua condenação como incurso no art. 35, caput, da Lei n. 11.343/06.
+
+    IV - Qualquer incursão que escape a moldura fática ora apresentada, não se coaduna com os estreitos limites do mandamus, já que o amplo reexame de provas é inadmissível no espectro processual do habeas corpus, ação constitucional que pressupõe, para seu manejo, uma ilegalidade ou abuso de poder tão flagrante que pode ser demonstrada de plano.
+
+    Precedentes.
+
+    Habeas Corpus não conhecido.’
+
+    (HC 460.083/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 23/10/2018, DJe 29/10/2018).
+
+    ‘PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. VIA INADEQUADA. NÃO CONHECIMENTO. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. PRETENSÃO ABSOLUTÓRIA RELATIVA AO DELITO DE ASSOCIAÇÃO PARA O TRÁFICO. NECESSIDADE DE REVOLVIMENTO APROFUNDADO DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE NA VIA ESTREITA DO WRIT. PENA-BASE APLICADA ACIMA DO MÍNIMO LEGAL. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. FUNDAMENTOS INIDÔNEOS PARA VALORAR NEGATIVAMENTE A CULPABILIDADE. DECOTE DO REFERIDO VETOR. QUANTUM DE AUMENTO NA PRIMEIRA FASE READEQUADO. OBSERVÂNCIA AOS PRINCÍPIOS DA RAZOABILIDADE E DA PROPORCIONALIDADE. CONSTRANGIMENTO ILEGAL DEMONSTRADO. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA, DE OFÍCIO.
+
+    - O Superior Tribunal de Justiça, seguindo o entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, não tem admitido a impetração de habeas corpus em substituição ao recurso próprio, prestigiando o sistema recursal ao tempo que preserva a importância e a utilidade do writ, visto permitir a concessão da ordem, de ofício, nos casos de flagrante ilegalidade.
+
+    - A jurisprudência deste Superior Tribunal firmou o entendimento de que, para a subsunção da conduta ao tipo previsto no art. 35, da Lei n. 11.343/2006, é imprescindível a demonstração concreta da estabilidade e da permanência da associação criminosa (HC n. 270.837/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, julgado em 19/3/2015, DJe 30/3/2015).
+
+    - As instâncias ordinárias embasaram a condenação do paciente em fartos elementos fáticos e probatórios, os quais, detidamente examinados em primeiro e segundo graus de jurisdição, conduziram à conclusão de que ele integraria associação criminosa com estabilidade e permanência voltada à comercialização ilícita de entorpecentes.
+
+    - Desconstituir tal quadro fático-probatório, delimitado na origem, para absolver o paciente, implicaria aprofundado reexame vertical dos autos, procedimento que, como cediço, é incompatível com a via estreita do habeas corpus, caracterizado pela celeridade.
+
+    - A revisão da dosimetria da pena somente é possível em situações excepcionais de manifesta ilegalidade ou abuso de poder, cujo reconhecimento ocorra de plano, sem maiores incursões em aspectos circunstanciais ou fáticos e probatórios (HC n. 304083/PR, Rel. Min. FELIX FISCHER, Quinta Turma, DJe 12/3/2015).
+
+    - O entendimento desta Corte firmou-se no sentido de que, na falta de razão especial para afastar esse parâmetro prudencial, a exasperação da pena-base, pela existência de circunstâncias judiciais negativas, deve obedecer à fração de 1/6 sobre o mínimo legal, para cada vetorial desfavorecida.
+
+    - Na hipótese, as penas-bases do paciente, relativas a ambos os delitos pelos quais resultou condenado, foram exasperadas com fundamento na valoração negativa da culpabilidade do agente e das circunstâncias do crime, tendo a defesa se insurgido somente ante a motivação empregada para o desfavorecimento da primeira.
+
+    - Os juízes das instâncias ordinárias consideraram que a conduta do paciente seria mais reprovável, porque, a despeito de possuir duas ocupações lícitas, pelo exercício das quais já auferia o bastante para sobreviver dignamente, optou, ainda, por complementar a sua renda com o tráfico de drogas. Contudo, a busca do lucro fácil pelo exercício da mercancia ilícita, seja para complemento de renda, ou não, é elementar dos tipos dos arts. 33 e 35, da Lei n. 11.343/2006, não servindo para exasperar a reprimenda.
+
+    - Sobejando uma única vetorial negativada, deve o quantum de elevação da sanção básica ser reduzido, impondo-se, outrossim, a aplicação da fração prudencialmente recomendada de 1/6 sobre o mínimo legal, para cada circunstância judicial desfavorecida.
+
+    - Habeas corpus não conhecido.
+
+    - Ordem concedida, de ofício, para reduzir a pena do paciente ao novo patamar de 8 anos e 6 meses de reclusão e 1.316 dias-multa, mantidos os demais termos da condenação.’
+
+    (HC 474.386/SC, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 11/04/2019, DJe 10/05/2019).
+
+    ‘HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. LAVAGEM DE DINHEIRO. NEGATIVA DE PARTICIPAÇÃO NO DELITO E AUSÊNCIA DE PROVAS. INVIABILIDADE. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. PRISÃO PREVENTIVA. INDICAÇÃO DE ELEMENTOS CONCRETOS. GARANTIA DA ORDEM PÚBLICA. REINCIDÊNCIA ESPECÍFICA. MOTIVAÇÃO IDÔNEA. SUBSTITUIÇÃO DA CUSTÓDIA CAUTELAR POR PRISÃO DOMICILIAR. IMPOSSIBILIDADE. AUSÊNCIA DE MANIFESTA ILEGALIDADE. PARECER ACOLHIDO.
+
+    1. A prisão preventiva constitui medida excepcional ao princípio da não culpabilidade, cabível, mediante decisão devidamente fundamentada e com base em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos do art. 312 e seguintes do Código de Processo Penal.
+
+    2. A negativa de participação no delito e ausência de provas, além de demandar profundo reexame dos fatos e das provas que permeiam o processo principal, não demonstram o constrangimento ilegal.
+
+    3. No caso, a manutenção da constrição cautelar está baseada em elementos vinculados à realidade, pois as instâncias ordinárias fizeram referências às circunstâncias fáticas justificadoras, destacando, além da quantidade de droga e expressiva quantidade de dinheiro encontrados em poder do paciente e da corré (16 porções de maconha na casa da denunciada Jéssica, pesando 96,84 g e 1 tijolo de maconha na casa do paciente, pesando 231,5 g), o fato de o paciente ser reincidente específico. Tudo a revelar a periculosidade in concreto do agente.
+
+    4. Inviável a substituição da custódia cautelar por prisão domiciliar, pois não há comprovação nos autos capaz de demonstrar a imprescindibilidade do paciente para os cuidados dos filhos.
+
+    5. Ordem denegada.’
+
+    (HC 481.062/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 15/08/2019, DJe 30/08/2019).
+
+    Ante o exposto, não conheço do habeas corpus.
+
+    Publique-se. Intime-se” (e-doc. 7).
+
+    13. Na espécie vertente, as instâncias antecedentes afirmaram a existência de acervo probatório para a condenação do paciente, pelo que a pretendida absolvição, quanto ao crime de associação para o tráfico de entorpecente, e o reconhecimento do erro de tipo, no tocante ao tráfico, exigiriam o reexame aprofundado do acervo probatório que conduziu à convicção dos órgãos julgadores, procedimento incabível de ser adotado em habeas corpus. Assim, por exemplo:
+
+    “Agravo regimental em habeas corpus. Penal e Processo Penal. Crime previsto no art. 33, caput, da Lei 11.343/2006 (tráfico de drogas). Absolvição, desclassificação ou reconhecimento do tráfico privilegiado. Impossibilidade. Condenação estabelecida com base nos elementos probatórios. Divergência da conclusão a que chegaram as instâncias ordinárias que exigiria o reexame de fatos e provas, inviável em sede de habeas corpus. Aplicação da causa de diminuição de pena versada no § 4º do art. 33 da Lei de Drogas. Não preenchimento dos requisitos. Réu reincidente. Agravo não provido” (HC n. 202.482-AgR, Relator o Ministro Dias Toffoli, Primeira Turma, DJe 6.10.2021).
+
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL. INEXISTÊNCIA DE CONTRARIEDADE AO PRINCÍPIO DA COLEGIALIDADE OU DE CERCEAMENTO DO DIREITO DE DEFESA. ENTENDIMENTO PACIFICADO NESTE SUPREMO TRIBUNAL A PERMITIR O JULGAMENTO POR DECISÃO MONOCRÁTICA DA PRESENTE IMPETRAÇÃO. PRETENSÃO DE ABSOLVIÇÃO PELO DELITO DE TRÁFICO DE ENTORPECENTE OU DESCLASSIFICAÇÃO PARA O USO DE ENTORPECENTE. NECESSIDADE DE REEXAME DE PROVA INCABÍVEL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (HC n. 178.657-AgR, de minha relatoria, Segunda Turma, DJe 28.2.2020).
+
+    14. Este Supremo Tribunal firmou jurisprudência no sentido de que “o processo de ‘habeas corpus’, que tem caráter essencialmente documental, não se mostra juridicamente adequado quando utilizado com o objetivo (a) de promover a análise da prova penal, (b) de efetuar o reexame do conjunto probatório regularmente produzido, (c) de provocar a reapreciação da matéria de fato e (d) de proceder à revalorização dos elementos instrutórios coligidos no processo penal de conhecimento” (RHC n. 138.119-AgR, Relator o Ministro Celso de Mello, Segunda Turma, DJe 7.2.2019). Assim também, por exemplo:
+
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL. ASSOCIAÇÃO PARA O TRÁFICO DE ENTORPECENTES. ALEGAÇÕES DE NULIDADE DA PERÍCIA DE INTERCEPTAÇÃO TELEFÔNICA E DE AUSÊNCIA DE PROVA SUFICIENTE PARA A CONDENAÇÃO. PEDIDOS DE ABSOLVIÇÃO, REVISÃO DA DOSIMETRIA E FIXAÇÃO DE REGIME MAIS BRANDO. DISPONIBILIZAÇÃO DO MATERIAL OBTIDO PELA INTERCEPTAÇÃO TELEFÔNICA: ASSEGURADO O EXERCÍCIO DO CONTRADITÓRIO E DA AMPLA DEFESA. NECESSIDADE DE REEXAME DOS FATOS E DAS PROVAS DOS AUTOS INCABÍVEL EM HABEAS CORPUS. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (HC n. 153.813-AgR, de minha relatoria, Segunda Turma, DJe 16.8.2019).
+
+    “AGRAVO REGIMENTAL EM HABEAS CORPUS. DECISÃO AGRAVADA EM HARMONIA COM A JURISPRUDÊNCIA DESTA SUPREMA CORTE QUE ORIENTA A MATÉRIA SOB EXAME. REITERAÇÃO DOS ARGUMENTOS EXPOSTOS NA INICIAL QUE NÃO INFIRMAM OS FUNDAMENTOS DA DECISÃO AGRAVADA. INOCORRÊNCIA DE HIPÓTESE QUE POSSIBILITE O TRANCAMENTO DA AÇÃO PENAL EM SEDE DE WRIT. DELITOS CONTRA OS COSTUMES: PALAVRA DA VÍTIMA POSSUI ESPECIAL RELEVO. IMPOSSIBILIDADE DO REEXAME DE FATOS E PROVAS NA ESTREITA VIA DO HABEAS CORPUS. AGRAVO A QUE SE NEGA PROVIMENTO. (…)
+
+    V - A via estreita do habeas corpus não comporta dilação probatória, exame aprofundado de matéria fática ou nova valoração dos elementos de prova.
+
+    VI - Agravo a que se nega provimento” (HC n. 170.503-AgR, Relator o Ministro Ricardo Lewandowski, Segunda Turma, DJe 5.8.2019).
+
+    “RECURSO ORDINÁRIO EM HABEAS CORPUS. PENAL. ROUBO QUALIFICADO. PRETENSÃO À ABSOLVIÇÃO. REEXAME DO CONJUNTO FÁTICO PROBATÓRIO. IMPOSSIBILIDADE NA VIA ELEITA. PRINCÍPIO DA INSIGNIFICÂNCIA. MATÉRIA NÃO ARGUIDA NAS INSTÂNCIAS ORDINÁRIAS. INCOMPATIBILIDADE DA INSIGNIFICÂNCIA COM O CRIME DE ROUBO. O habeas corpus não se presta ao exame e à valoração aprofundada das provas, não sendo viável reavaliar o conjunto probatório que levou à condenação criminal do paciente por crime de roubo qualificado. Precedentes. Não arguida nas instâncias ordinárias a questão do princípio da insignificância, não podem os Tribunais Superiores examiná-la diretamente, suprimindo instâncias. É inviável reconhecer a aplicação do princípio da insignificância para crimes praticados com violência ou grave ameaça, incluindo o roubo. Não constitui negativa de prestação jurisdicional a não admissão de recurso ou de ação por falta de seus pressupostos de cabimento” (RHC n. 107.378, Relatora a Ministra Rosa Weber, Primeira Turma, DJe 1º.8.2012).
+
+    15. Pela jurisprudência do Supremo Tribunal Federal, “pode o Relator, com fundamento no art. 21, § 1º, do Regimento Interno, negar seguimento ao habeas corpus manifestamente inadmissível, improcedente ou contrário à jurisprudência dominante, embora sujeita a decisão a agravo regimental” (HC n. 96.883-AgR, de minha relatoria, DJe 1º.2.2011).
+
+    16. Pelo exposto, nego seguimento ao habeas corpus (§ 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal), prejudicada a medida liminar requerida.
+
+    Publique-se.
+
+    Brasília, 15 de setembro de 2022.
+
+Ministra CÁRMEN LÚCIA
+
+Relatora
