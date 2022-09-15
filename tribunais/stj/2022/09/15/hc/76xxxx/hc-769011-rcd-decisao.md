@@ -1,0 +1,7 @@
+DECISÃO
+Por meio da decisão de fls. 88-89, indeferi liminarmente o habeas corpus, por falta de documentação suficiente. A defesa pleiteia, então, a reconsideração do referido decisum, ocasião em que juntou aos autos os documentos de fls. 93-111.
+Em consulta processual realizada na página eletrônica deste Superior Tribunal, verifico a impetração do HC n. 770.457em favor do ora paciente, em que também se aponta como ato coator o acórdão proferido nos autos do HC n.8028482-35.2022.8.05.0000 e por meio do qual a defesa alegou as mesmas questões das que foram aduzidas neste writ.
+Assim, tendo em vista que este habeas corpus possui objeto idêntico ao do referido remédio constitucional - que já teve, inclusive, a sua liminar apreciada -, entendo que, ainda que juntada aos autos cópia do documento inicialmente faltante (acórdão impugnado),não há como dele se conhecer.
+Esclareço à defesa que as teses por ela aventadas -a) ilicitude dos elementos de informação existentes em desfavor do réu, porque obtidos por meio de violação de domicílio; b) excesso de prazo para o término da instrução criminal; c) ausência de quaisquer das hipóteses previstas no art. 312 do CPP - serão objeto de exame por esta Corte nos autos do referido HC n. 770.457, caso preenchidos os demais requisitos de admissibilidade.
+À vista do exposto,não conheço dopedido de reconsideração formulado à fl. 92 e, por conseguinte, mantenho o indeferimento liminar do habeas corpus.
+Publique-se e intimem-se.
