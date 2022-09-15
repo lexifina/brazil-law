@@ -1,0 +1,29 @@
+DECISÃO
+JEAN FERREIRA SOARES agrava de decisão em que conheci do agravo, mas não conheci do recurso especial.
+No regimental, alega a defesa que, apesar de não haver mencionado o acórdão recorrido, todos os seus fundamentos foram atacados, razão por que deve ser o recurso especial conhecido.
+Pugna pela reconsideração da decisão agravada ou pela submissão do feito ao órgão colegiado.
+Decido.
+Verifico que assiste razão ao agravante, motivo por que, em juízo de retratação, inerente ao agravo regimental, reconsidero a decisão agravada, nos termos a seguir explicitados.
+No que tange à bagatela no furto, o acórdão atacado asseriu o seguinte:
+Não bastasse, o Laudo Pericial de f. 37/47 evidencia que, realmente, a infração penal imputada ao acusado ocorreu mediante rompimento de obstáculo, particularidade que autoriza o reconhecimento do delito de furto em sua forma qualificada, nos exatos moldes delineados na exordial acusatória.
+Dessa forma, acertada a decisão que condenou o acusado pela prática do delito previsto no ad. 155, § 4º, inc. I, do CP.
+ ..
+Todavia, entende-se que o "princípio da insignificância" ou "da bagatela" não foi recepcionado pelo ordenamento jurídico brasileiro, constituindo inovação que se sobrepõe ao texto legal firmado pelo Legislador que, após considerar típica a conduta em exame (subtrair para si coisa alheia móvel), estabeleceu punições considerando a ofensividade que a ação, por si só, traz consigo.
+ ..
+Percebe-se que o aspecto objetivo da conduta (considerado, sob o prisma da insignificância, como o valor pecuniário da res furtiva), não se revela de somenos importância, já que, apesar de o Laudo de Avaliação acostado às f. 36 ter indicado que os bens subtraídos da residência da vítima totalizariam o valor aproximado de vinte e dois reais (R$ 22,00), constata-se, em contrapartida, que a vistoria no local dos fatos, encartada às f. 37/47, desvela a ocorrência de danos à residência da ofendida, particularidade que apenas torna mais gravosa a conduta do recorrente.
+Além disso, analisando a prática delitiva sob o aspecto subjetivo (assim considerada a condição pessoal do agente), tem-se que a Certidão de Antecedentes Criminais acostada às f. 111/114 demonstra que o acusado, apesar de tecnicamente primário, já esteve envolvido na prática de outros delitos patrimoniais (autos nº 0453.16.000455-3 e 0453.17.004468-0), particularidade que também torna temerário afirmar que sua conduta seria materialmente atípica.
+ ..
+Com essas considerações, e com supedâneo no entendimento esposado pelo órgão ministerial de cúpula, entende-se como inviável recepcionar a pretensão absolutória da Defesa, porque não há como considerar materialmente atípica a conduta  ..
+(fls. 197-201, destaquei)
+Para que o fato seja considerado criminalmente relevante, não basta a mera subsunção formal a um tipo penal. Deve ser avaliado o desvalor representado pela conduta humana, bem como a extensão da lesão causada ao bem jurídico tutelado, com o intuito de aferir se há necessidade e merecimento da sanção, à luz dos princípios da fragmentariedade e da subsidiariedade.
+As hipóteses de aplicação do princípio da insignificância se revelam com mais clareza no exame da punibilidade concreta - possibilidade jurídica de incidência da pena -, que atribui conteúdo material e sentido social a um conceito integral de delito como fato típico, ilícito, culpável e punível, em contraste com a estrutura tripartite (formal) tradicionalmente adotada, conforme expus de maneira mais aprofundada no julgamento doREsp n. 1.864.600/MG, ocorrido em 15/9/2020.
+Por oportuno, ressalto que, por se tratar de categorias de conteúdo absoluto, a tipicidade e a ilicitude não comportam dimensionamento do grau de ofensa ao bem jurídico tutelado, compreendido a partir da apreciação dos contornos fáticos da conduta delitivae dos condicionamentos sociais em que se inserem o agente e a vítima.
+Nesse contexto, odiálogo entre a política criminal e a dogmática na jurisprudência sobre a bagatela deve também ser informado pelos elementos subjacentes ao crime, que se compõem do valor dos bens subtraídos e do comportamento social do acusado nos últimos anos.
+Assim, os registrosde vida pregressadevemser entendidos comoelementos objetivos, e não subjetivos. Isso porque não se avalia a pessoa do agente, mas, sim, o seu histórico penal-que podeser incompatível com a exclusão da punibilidade- e a perspectiva de recidiva do comportamento avesso ao direito.
+O exame desses dados alinha-se comoprincípio da isonomia, pois o indivíduo que furta uma vez não pode ser igualado ao que furta habitualmente, escorando-se este, conscientemente, na impunidade.
+Com efeito, o própriolegislador penal confere importância aos registros na folha de antecedentespara o cômputo da reprimenda, como ocorrena privilegiadora do furto, bem assim em vários outros crimes patrimoniais que preveem benesses paraagentes primários (v.g., 171, § 1º, 168, § 3º, 180, § 5º, e 337-A, § 2º) com a finalidade deindividualizar a pena.
+Na espécie, o réu tecnicamente primário foi condenado por haver furtado de pessoa física, mediante rompimento de obstáculo, fone de ouvido, pingente e brinco, avaliados em R$ 22,00, equivalentes a 2,5% do salário mínimo vigente na época dos fatos.
+Em que pesem os registros de ações penais em curso pela prática de crimes patrimoniais,a configuração da qualificadora e a constatação de prejuízos causados pelo rompimento de obstáculo, o valor ínfimo dos bens subtraídos evidencia a inexistência de lesão ao bem jurídico tutelado, a não justificar oprosseguimento da atividade punitiva estatal.
+Nesse ponto, fica prejudicada a tese defensiva referente à dosimetria.
+Diante do exposto,reconsidero a decisão agravada, com a finalidade de conhecer do agravo para dar parcial provimento ao recurso especial, com a finalidade de absolver o denunciado da imputação de haver cometido furto.
+Publique-se e intimem-se.
