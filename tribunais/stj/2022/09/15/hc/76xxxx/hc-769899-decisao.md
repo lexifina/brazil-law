@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra acórdão assim ementado (fl. 16):
+APELAÇÃO. TRÁFICO DE DROGAS. Absolvição em primeiro grau. Materialidade e autoria comprovadas. Relatos seguros e coesos dos policiais civis. Condenação de rigor. Pena-base acima do piso em face de circunstância desfavorável representada pela expressiva quantidade, variedade e natureza proeminentemente lesiva de parte dos entorpecentes, consoante artigo 42 da Lei de Drogas. Atenuante da menoridade relativa. Quadro adverso inconciliável com o privilégio descrito no artigo 33, § 4º, daquela mesma Lei Extravagante, a par de obstaculizar a substituição da corporal por restritivas de direitos, benesse também colidente com o montante da sanção. Regime prisional fechado único adequado ao crime de natureza hedionda, sem se ignorar a presença de circunstância negativa igualmente incompatível com retiro menos severo. Precedentes. Recurso provido.
+Consta dos autos que opaciente foi absolvido em primeiro grau, mas condenado em segundo, após provido o recurso ministerial, àpena de 5 anos de reclusão, em regime inicial fechado, e 500 dias-multa,pela prática docrimetipificadono art. 33, caput, da Lei 11.343/06.
+No presente writ, a defesa suscita uma série de nulidades processuais, assinalando que o silêncio do paciente em solo policial foi valorado em seu desfavor e que o decreto condenatóriopautou-se exclusivamente no testemunho de policiais e em provas colhidas na fase inquisitiva, não submetidas ao crivo do contraditório. Outrossim, argui a nulidade da publicação do acórdão impugnado, ao fundamento de que "em que pese o atual peticionante ter se habilitado naqueles autos antes da publicação do acórdão, o acórdão não foi proferido em seu nome, o que prejudicou o paciente de interpor os recursos cabíveis" (fl. 8).
+Alega que a pena-base foi inidoneamente exasperada e que o paciente preenche todos os requisitos para a aplicação da minorante do tráfico.
+Requer, liminarmente, a suspensão de todos os efeitos da condenação até o julgamento final do presente write, no mérito, a concessão da ordem para anular a condenação, retificar a publicação do acórdão condenatórioou reduzir a pena aplicada ao réu.
+As questões ventiladas no presentemandamusnão foram previamente apreciadas pelasinstâncias a quo,o que impede o exame inaugural da controvérsia diretamente por este Tribunal Superior, sob pena de incursão em indevida supressão de instância.Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. REVISÃO CRIMINAL NÃO CONHECIDA. CONSTRANGIMENTO ILEGAL. NÃO OCORRÊNCIA. TRÁFICO ILÍCITO DE ENTORPECENTES. DOSIMETRIA. AFASTAMENTO DE MAJORANTES. CONJUNTO PROBATÓRIO INCONTROVERSO. MATÉRIA DE PROVA. IMEDIAÇÕES DE UNIDADE BÁSICA DE SAÚDE. CENTRO DE EDUCAÇÃO INFANTIL. NATUREZA OBJETIVA DA CAUSA DE AUMENTO. RECURSO DESPROVIDO.
+1. O exame pelo Superior Tribunal de Justiça de matéria que não foi apreciada pelas instâncias ordinárias enseja indevida supressão de instância, com explícita violação da competência originária para o julgamento de habeas corpus (art. 105, I, c, da Constituição Federal).
+ ..
+5. Agravo regimental desprovido.
+(AgRg no HC n. 704.645/SC, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 2/8/2022, DJe de 8/8/2022.)
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+Intimem-se.
