@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor deNATAN ALEXSSANDRO DA LUZ e NATANAEL ISMAEL DA LUZ DOS SANTOS, contra acórdão do Tribunal de Justiça do Estado de Santa Catarina (HC n.5029747-95.2022.8.24.0000).
+Os pacientes tiverama prisão em flagrante convertida em preventivapor suposta prática dodelitoprevistonoart. 33, caput, da Lei n. 11.343/2006.
+A defesa alega aausência de fundamentação idônea e dos requisitos ensejadores da segregação cautelar.
+Aduz que não há circunstância concreta que evidencie gravidade, violência ou risco à ordem pública.
+Ressalta que os pacientes são primários, não ostentam passagens policiais, possuem residência fixa (em local distinto dos fatos) e exercem atividades laborativas fixas e lícitas.
+Requerconcessão da ordem a fim de que os pacientes sejam colocados em liberdade ou para que a preventiva seja substituída pelas medidas do art. 319 do CPP.
+O pedido de liminar foi indeferido às fls. 44-45.
+O Ministério Público Federal manifestou-se pelo não conhecimento do habeas corpus (fls. 72-92).
+É o relatório. Decido.
+O Supremo Tribunal Federal e o Superior Tribunal de Justiça não admitem a impetração de habeas corpus em substituição ao recurso ordinário próprio (HC n. 463.434/MT, relator Ministro Reynaldo Soares da Fonseca, Terceira Seção, DJe 18/12/2020.) Esse entendimento tem sido adotado sem prejuízo de eventual deferimento da ordem de ofício em caso de flagrante ilegalidade.
+Sendo essa a hipótese dos autos, passo ao exame do mérito da impetração.
+A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que comprovem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 2/9/2020).
+Considerando o princípio da presunção de inocência, a excepcionalidade da custódia cautelar e seu caráter subsidiário, a prisão preventiva só deve ser determinada nos casos em que não for possível a aplicação de medida cautelar alternativa.
+No caso, está justificada a manutenção da preventiva, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP, não sendo recomendável a aplicação de medida cautelar referida no art. 319 do CPP. A propósito, confira-se excerto da decisão que decretou a segregação cautelar (fls. 22-25, destaquei):
+Em buscas pessoais foram encontrados: com Natan, 8 porções individualizadas de cocaína, 10 porções individualizadas de maconha e R$ 402,00 (quatrocentos e dois reais) fracionados; com Natanael, em uma mochila, 7 porções individualizadas de maconha, 60 porções individualizadas de cocaína, 26 porções individualizadas de crack, 3 porções grandes de cocaína e balança.
+Além disso, no boletim de ocorrência, há menção de que com Natanael também foi encontrado um rádio comunicador.
+Os demais bens, por sua vez, segundo os relatos, foram apreendidos no interior da residência: 2 cadernos de anotações do tráfico, 1 faca grande, 1 par de luva, balança de precisão, 3 aparelhos celulares, 1 rolo plástico, 1 notebook, 11 invólucros de maconha e 19 invólucros de cocaína.
+Ainda em relação a residência, os policiais mencionaram que não identificaram o responsável pelo local, contudo, vê-se que as espécies de entorpecentes apreendidos com os conduzidos são iguais àquelas lá apreendidas, circunstância que aponta para possível ligação dos presos com o local.
+De todo modo, a quantidade de drogas apreendidas com os conduzidos, juntamente com balança e, também, dinheiro fracionado, são circunstâncias que, por si sós, são suficientes para justificarem a condução pelo cometimento, em tese, do crime de tráfico de drogas.
+ ..
+Há requerimento ministerial e os delitos em comento são dolosos e possuem pena privativa de liberdade máxima superior a 4 (quatro) anos.
+A materialidade do delito e indícios suficientes de autoria despontam do boletim de ocorrência, dos depoimentos agentes públicos, do auto de constatação e auto de exibição e apreensão, conforme situação fática já narrada quando da análise da homologação do flagrante.
+Conclui-se, portanto, que, ao menos neste momento, pela existência de indícios suficiente de autoria do delito de tráfico de drogas, à luz do artigo 28, §2", da Lei n. 11.343/06:
+ ..
+É que os conduzidos foram surpreendidos com quantidade significativa de droga fracionada/individualizada e de espécies diferentes, bem como com balança de precisão, dinheiro fracionado e rádio comunicador.
+Ainda, vê-se que a prisão se faz necessária para a garantia da ordem pública, dada a periculosidade dos conduzidos à saúde pública, porquanto é possível concluir, ao menos neste momento, que os conduzidos podem estar associados, de forma organizada, com outras pessoas para a comercialização de variedade considerável de entorpecente (cocaína, maconha e crack), já que ainda não identificados os responsáveis pelo imóvel onde foram encontrados o restante das drogas e apetrechos.
+Quanto ao envolvimento de outras pessoas, vale ressaltar a presença de um terceiro não identificado que empreendeu fuga do local, chegando inclusive a efetuar disparo de arma de fogo contra os policiais.
+Some-se a isso a alta lucratividade do tráfico de drogas, que representa grande estimulo à perpetuação do narcotráfico pelos conduzidos, caso eles sejam postos em liberdade.
+Não menos relevante, a prisão também se mostra essencial para a aplicação da lei penal, pois os conduzidos, embora sem sucesso, empreenderam fuga, desrespeitando a ordem de parada dos agentes públicos.
+Consequentemente, vejo como inaplicável quaisquer das medidas cautelares diversas da prisão, porquanto insuficientes para resguardar a ordem pública, sendo oportuno ressaltar que eventuais predicados pessoais, como a primariedade, ocupação Mica e residência fixa, são insuficientes para afastar a necessidade da prisão quando presentes os requisitos autorizadores.
+ ..
+Pelo exposto, homologo a prisão em flagrante e a converto em prisão preventiva, para a garantia da ordem pública e aplicação da lei penal
+Tendo a necessidade de prisão cautelar sido exposta de forma fundamentada e concreta, é incabível a substituição por medidas cautelares mais brandas (RHC n. 133.153/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 21/9/2020).
+Observa-se que a quantidade e variedadedo entorpecente (88 tabletes decocaína, 26 invólucros decrack,28 porções de maconha, consoante o acórdão à fl. 32) e a apreensão de 2 balança de precisãoe de um rádio comunicadorforam consideradaspelo Juízo de primeiro grau para a decretação da prisão preventiva e justificam a imposição da medida extrema em detrimento das demais cautelares substitutivas.
+Esse entendimento está em consonância com a jurisprudência da Quinta Turma de que a quantidade, a variedade ou a natureza das drogas apreendidas servem de fundamento para a decretação da prisão preventiva (AgRg no RHC n. 131.420/MS, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 30/9/2020; e AgRg no HC n. 590.807/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 28/9/2020).
+No mesmo sentido, o Supremo Tribunal Federal assentou que "a gravidade concreta do crime, o modus operandi da ação delituosa e a periculosidade do agente, evidenciados pela expressiva quantidade de entorpecentes apreendidos, respaldam a prisão preventiva para a garantia da ordem pública" (HC n. 130.708/SP, relatora Ministra Cármen Lúcia, Segunda Turma, DJe de 6/4/2016).
+Ressalte-se que a apreensão de elevada quantidade de drogas evidencia o envolvimento habitual do agente com a narcotraficância (AgRg no HC n. 594.158/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 27/11/2020).
+Por fim, eventuais condições subjetivas favoráveis do paciente, como residência fixa e trabalho lícito, não impedem a prisão preventiva quando preenchidos os requisitos legais para sua decretação. Essa orientação está de acordo com a jurisprudência do STJ. Vejam-se os seguintes precedentes: AgRg no HC n. 585.571/GO, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 8/9/2020; e RHC n. 127.843/MG, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 2/9/2020.
+Portanto, não se constata a existência de flagrante constrangimento ilegal que autorize a atuação ex officio.
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
