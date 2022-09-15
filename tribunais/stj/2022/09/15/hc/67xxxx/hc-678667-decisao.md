@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de SAMUEL CONDE, LOURENÇO AUGUSTO CONDE e PAULO SILAS CONDE em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulono julgamento da Apelação Criminal n. 0005141-91.2018.8.26.0576.
+Na primeira instância, os pacientes foram condenados pela prática dos crimes descritos nos arts. 121, § 2º, I e IV, 14, II, e 29, caput, do Código Penal: LOURENÇO AUGUSTO CONDE à pena de 12anos, 5meses e 10dias de reclusão; SAMUEL CONDE à pena de 9 anos e 4 meses de reclusão; e PAULO SILAS CONDE à pena de 10 anos, 10 meses e 20 dias de reclusão.Interposta apelação defensiva, oTJSP, por sua 16ª Câmara de Direito Criminal, afastou as preliminares arguidas e, no mérito, deu parcial provimento ao recurso de LOURENÇO AUGUSTO CONDEa fim de reduzir a pena a10 anos, 10 meses e 20 dias de reclusão. O acórdão traz a seguinte ementa:
+APELAÇÃO - HOMICÍDIO QUALIFICADO TENTADO - ALEGAÇÃO DE NULIDADE NA QUESITAÇÃO. NÃO ACOLHIMENTO. PEDIDO DE NOVO JULGAMENTO POR DECISÃO DO JÚRI MANIFESTAMENTE CONTRÁRIA Á PROVA DOS AUTOS. INVIABILIDADE. MANTIDA A SOBERANIA DO CONSELHO DE SENTENÇA. PENA DE LOURENÇO REDIMENSIONADA. REGIME PRISIONAL ADEQUADO. REJEITADA A PRELIMINAR. RECURSO DE LOURENÇO PARCIALMENTE PROVIDO.
+Nas razões do presente writ, o impetrante alega que os pacientes estão sendovítimas de constrangimento ilegal ante o não acolhimentopelo Tribunal de origemda preliminar denulidadeda sessão de julgamento pelo Tribunal do Júri, por falta de quesito obrigatórioreferente à tese defensiva dedesclassificação do delito, aventada em plenário.
+Requer, liminarmente e no mérito,a concessão da ordem para que o júri seja anulado e se determine a realização de outro julgamento, devendo os quesitos elaborados abordaras teses arguidas pela defesa, bem como a expedição de alvará de soltura em favor dos pacientes.
+A liminar foi indeferida (fls. 49-50).
+Prestadas as informações (fls. 55-95), o Ministério Público Federal manifestou-se pelo não conhecimento/denegação da ordem (fls. 97-102).
+Éo relatório. Decido.
+OSuperior Tribunal de Justiça firmou a orientação de que nãocabehabeascorpus em substituição ao recurso próprio, impondo-se,emsituaçõestais,o não conhecimento do writ, salvo seidentificadahipótese de flagrante constrangimento ilegal.
+Passo, assim, à análise dasrazõesdaimpetraçãoafimdeverificaraexistência de ilegalidade
+manifesta quejustifiqueaconcessãoda ordem de ofício.
+Almeja o impetrante o reconhecimento da nulidade da sessão de julgamento pelo Tribunal do Júri, apontando aausência de quesito obrigatório referente à tesedefensiva, debatida em plenário,dedesclassificação do delito contra a vida para o de lesão corporal.
+Eis, no ponto, os fundamentos adotados peloTribunal a quo(fls. 21-23):
+Destaca-se que a pretensa nulidade não foialegada quando da votação em Plenário, que erao momento oportuno, o que acarretou apreclusão do seu direito.
+Após a leitura e explicação dos quesitos pelo magistrado, houve a anuência de ambas as partes sem objeções, conformese depreende de fls.1472/1473, na Ata de Julgamento, de tal sorte que amatéria se encontra preclusa.
+Sobre o tema, o julgado do STJ:
+ ..
+Não há que se falar em vícios na elaboração dos quesitos, pois houve obediência à redação do art. 483, inciso III e § 2ª, do CPP, formulando-se os quesitos que a lei considera como obrigatórios.
+Nos termos do art. 483 do Código de Processo Penal, os quesitos devem ser formulados de forma simples e bem definidos, quanto à materialidade e autoria delitiva.
+Assim, o magistrado não incidiu em qualquer alteração do conteúdo da lei, mantendo-se de forma inteligível a quesitação ao Conselho de Sentença de modo que não prejudicou de forma alguma o direito de defesa dos apelantes.
+Releva consignar que a materialidade e autoria são questionadas nos dois primeiros quesitos, sendo o delito de homicídio qualificado tentado objeto do terceiro quesito. Diante da resposta afirmativa a estes três quesitos, pergunta-se se o jurado absolve o réu, este sim o quesito o quesito único e obrigatório sobre as teses defensivas.
+Quando no terceiro quesito, os jurados entendem pela prática do delito de homicídio, e no quarto quesito eles entendem pela não absolvição dos réus, por uma questão de lógica, os jurados rejeitam a desclassificação da conduta, tornando absolutamente desnecessário quesito próprio para a tese da desclassificação.
+Por tais considerações, afasta-se a preliminar
+Dos excertos acima transcritos, constata-se que a nulidade sugerida no presente writ foi afastada pela Corte de origem com base em dois fundamentos,ambos igualmente aptos a justificar a manutenção do decisum: o primeiro, traduzido na ocorrência de preclusão do direito reclamado, ante a não insurgência da defesa contra a suposta irregularidade no momento oportuno, ou seja, quando da votação em plenário; o segundo, retratado na premissa de que a quesitação, da forma como formulada, não causara nenhum prejuízo à defesa dos acusados.
+Tal juízo mostra-se em consonância com a jurisprudênciado STJ, firme em assinalar que somente se declara a nulidade se, suscitada oportunamente, houver demonstração ou comprovação de efetivo prejuízo para a parte. Confiram-se precedentes:
+HABEAS CORPUS SUBSTITUTIVO. NÃO CABIMENTO. HOMICÍDIO. TRIBUNAL DO JÚRI. ALEGAÇÃO DE NULIDADE NA ESCOLHA DOS JURADOS. CONTRADIÇÃO NA TRANSCRIÇÃO ELETRÔNICA DA ATA DE VOTAÇÃO. JUSTIÇA. MATÉRIA ALEGADA APÓS O DECURSO DE 7 ANOS. CONDENAÇÃO TRANSITADA EM JULGADO. INÉRCIA DA DEFESA. TESES NÃO SUSCITADAS NO MOMENTO CORRETO. PRECLUSÃO. AUSÊNCIA DE DEMONSTRAÇÃO DE PREJUÍZO. INOCORRÊNCIA DE ILEGALIDADE MANIFESTA. WRIT NÃO CONHECIDO.
+ ..
+3. A jurisprudência do Superior Tribunal de Justiça, em respeito à segurança jurídica e a lealdade processual, tem se orientado no sentido de que as nulidades denominadas absolutas também devem ser arguidas em momento oportuno, sujeitando-se à preclusão temporal. Precedentes.
+4. Hodiernamente, a jurisprudência desta Corte Superior não admite a declaração de nulidades por presunção, razão pela qual a parte interessada tem o ônus de demonstrar o prejuízo sofrido pela irregularidade, mesmo nos casos das denominadas nulidades absolutas. Precedentes.
+5. É pacífico ao entendimento de que as nulidades ocorridas no Plenário do Júri devem ser suscitadas logo após sua ocorrência e registradas na ata da sessão de julgamento, sob pena de preclusão, o que não foi feito no presente caso.
+Habeas corpus não conhecido. (HC n. 214.292/GO relator Ministro Joel Ilan Paciornik, DJe de 27/9/2017.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. TRIBUNAL DO JÚRI. NULIDADE NO JULGAMENTO. PRECLUSÃO. ART. 571, VIII, DO CPP. PAS DE NULLITÉ SANS GRIEF. AGRAVO REGIMENTAL IMPROVIDO.
+1. A Lei Processual Penal em vigor adota o princípio da pas de nullité sans grief, segundo o qual somente há de se declarar a nulidade se, alegada em tempo oportuno, houver demonstração ou comprovação de efetivo prejuízo à parte.
+2. As nulidades ocorridas por ocasião do julgamento do júri devem ser arguidas ainda durante a sessão, nos termos do art. 571, VIII, do CPP, sob pena de preclusão.
+3. Agravo regimental improvido. (AgRg no AREsp n. 1.537.998/MT, relator Ministro Nefi Cordeiro, DJe 20/11/2019.)
+AGRAVO REGIMENTAL NOHABEAS CORPUS.HOMICÍDIOS QUALIFICADOS TENTADO E CONSUMADO. VÍCIO NA QUESITAÇÃO. NÃO ALEGAÇÃO NO MOMENTO OPORTUNO.PRECLUSÃO.ART. 571 DO CPP.DESCLASSIFICAÇÃODE DELITO DOLOSO PARA CULPOSO.QUESITO ESPECÍFICO.DESNECESSIDADE. AFIRMAÇÃO DE DOLO NA CONDUTA DO AGENTE.QUESITO ESPECÍFICOPARA O DELITO TENTADO. OBSERVAÇÃO PELO JUIZ PRESIDENTE. RESPOSTA POSITIVA DOS JURADOS.AFASTAMENTO DA TESE DEFENSIVA DEDESCLASSIFICACÃO.VIOLAÇÃO AO ART. 483, § 4º, DO CPP. INEXISTÊNCIA. AGRAVO NÃO PROVIDO.
+1. Na espécie, o ora recorrente foi condenado pela prática de homicídio qualificado consumado contra a vítima Manoel e homicídio qualificado tentado contra a vítima Maílson.
+2. Não há se falar em ofensa ao art. 483, § 4º, do CPP, na medida em que o acórdão originário encontra-se em consonância com a jurisprudência desta Corte Superior no sentido de inexistência de obrigatoriedade na formulação dequesito específicosobre a culpa, quando, em resposta anterior, o corpo de jurados afirmou a presença do dolo.
+3. Demais disso, asnulidadesocorridas durante a sessão de julgamento dojúridevem ser suscitadas na própria sessão, com o respectivo registro em ata, sob pena depreclusão.
+4. Ainda que assim não fosse, quanto ao homicídio tentado, o 3º quesito contemplou a tese defensiva, tendo a resposta positiva dos jurados afastado a tese dedesclassificaçãodefensiva.
+5. Agravo regimental não provido. (AgRg no HC 710868/RO, relator Ministro Ribeiro Dantas, DJe de18/3/2022.)
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço dohabeas corpus.
+Publique-se. Intimem-se.
