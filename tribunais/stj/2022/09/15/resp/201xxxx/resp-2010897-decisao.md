@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no art. 105, III,a, da Constituição Federal, contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado (fls. 4.153/4.154):
+TRIBUTÁRIO. MANDADO DE SEGURANÇA. EXCLUSÃO DO ICMS PRÓPRIO E DO ICMS-DIFAL DA BASE DE CÁLCULO DO PIS E DA COFINS. TEMA 69 DO STF.
+1. Conforme estabelecido pelo STF, no Tema 69, "O ICMS não compõe a base de cálculo para fins de incidência do PIS e da COFINS"(Recurso Extraordinário com repercussão geral nº 574.706), haja vista não consubstanciar receita.
+2. Assim sendo, o ICMS não deve compor a base de cálculo da COFINS e da contribuição ao PIS, quer se considere o faturamento (art. 195,inc. I, da CF - redação original) ou a receita (art. 195, I, "b" - redação dada pela EC nº 20/98), inclusive no período de vigência das Leis 10.637/02 e 10.833/03(regime não cumulativo).
+3. As alterações produzidas pela Lei nº 12.973/2014 nas Leis nº9.718/96, nº 10.637/2002 e nº 10.833/2003, não legitimam a incidência da COFINS e do PIS sobre o ICMS, porquanto a lei ordinária não pode alterar conceitos constitucionais (art. 110 do CTN) e, dessa forma, há de respeitar o conceito constitucional de receita, conforme assentou o STF ao julgar o precitado RE n.º 574.706.
+4. No cálculo dos valores recolhidos indevidamente, deverá ser considerada a integralidade do ICMS destacado nas notas fiscais de saída, independentemente da utilização de créditos para a redução do quantum a ser recolhido aos cofres públicos.
+5. A pendência de julgamento dos embargos de declaração opostos pela União não tem o condão de suspender a tramitação dos processos sobre otema. Resta sedimentada a jurisprudência no STF no sentido de que, para a aplicação de decisão proferida em RE com repercussão geral, não é necessários e aguardar o trânsito em julgado ou eventual modulação de efeitos
+6. Adoção da orientação firmada pelo Supremo Tribunal Federal(Tema 69), segundo o qual "o ICMS não compõe a base de cálculo para fins de incidência do PIS e da COFINS".
+7. Da mesma forma como o ICMS cobrado nas operações internas, também o ICMS cobrado sobre o diferencial de alíquotas - ICMS-DIFAL -, apenas transita pela contabilidade da empresa até ser recolhido ao Estado, daí porque sobre tais valores não deve incidir as contribuições ao PIS e à COFINS, forte na decisão do SF no RE 574.706.
+Embargos de declaração rejeitados (fl. 4.226).
+A recorrente alega violação do art. 1.022, II, do CPC/2015, sob o fundamento de que o acórdão recorrido teria sido omisso em relação a questões relevantes ao deslinde da controvérsia, especificamente sobre a distinção entre o ICMS-DIFAL e o ICMS convencional.
+No mérito, aponta violação dos arts. 1º da Lei 10.637/2002; 1º da Lei 10.833/2002; 2º da Lei 9.715/1998; 2º e 3º da Lei 9.718/1998; 2º da LC 70/1991 e 12, § 5º, do Decreto-Lei 1.598/1977, com a redação dada pela Lei 12.973/2014.Sustenta, em síntese, que"o ICMS-DIFAL não se confunde com o ICMS PRÓPRIO, porque aquele não compõe a base de cálculo do PIS e da COFINS, não havendo valores a serem restituídos dessas contribuições federais" (fl. 4.270).
+Com contrarrazões (fls. 4.311/4.334).
+Juízo positivo de admissibilidade às fls. 4.338/4.339.
+Parecer do MPF pelo não conhecimento do recurso (fls. 4.359/4.362).
+É o relatório. Decido.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+De início, afasta-se a alegada violação do art. 1.022 do CPC/2015, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+De outro lado, o Tribunal de origem, ao decidir a lide, apresentou os seguintes fundamentos (fls. 4.156/4.159):
+Por meio da Emenda Constitucional 87/2015 foi instituído, comvigência a partir de 01/01/2016, o "Diferencial de Alíquotas do ICMS a Consumidor Final não Contribuinte", devido nas operações interestaduais destinadas a pessoa não contribuinte do ICMS e o valor do imposto cabe a unidade federada de destino da mercadoria ou serviço.
+O regime Diferencial de Alíquotas (DIFAL) ocorre em operações interestaduais com diferença de alíquotas e tem como objeto proteger a competitividade entre o estado produtos do bem e o do comprador e estabelecer um padrão de organização e encontra previsão no art. 155, § 2º, inciso VIII, b, da Constituição Federal. Transcrevo:
+ ..
+Ou seja, todos os contribuintes do ICMS são obrigados a recolher o ICMS relativo à diferença existente entre a alíquota interna (praticada no Estado destinatário) e a alíquota interestadual nas seguintes operações e prestações.
+Assim, o fato gerador do DIFAL do ICMS ocorre nas operações e prestações que destinem bens e serviços a consumidor final, contribuinte ou não do imposto, localizado em outro Estado, sendo que a responsabilidade pelorecolhimento será devida: - ao destinatário, quando este for contribuinte do imposto; - ao remetente, quando o destinatário não for contribuinte do imposto.
+Trata-se, portanto, de sistemática de arrecadação que busca equilibrar a cobrança do ICMS entre os diversos estados, mas que ao final é recolhida pelo contribuinte aos cofres públicos.
+O DIFAL não se trata de imposto diverso, mas apenas de forma de cálculo do imposto no caso de operações de transporte entre estados quando o destinatário não é contribuinte do ICMS, em razão de cada Estado ter alíquota distinta. Assim, o DIFAL nada mais é do que o próprio ICMS pago pelo contribuinte de fato.
+Portanto, da mesma forma como o ICMS cobrado nas operações internas, também o ICMS cobrado sobre o diferencial de alíquotas, apenas transita pela contabilidade da empresa até ser recolhido ao Estado, daí porque sobre tais valores não deve incidir as contribuições ao PIS e à COFINS, forte na decisão do SF no RE 574.706.
+Diante disso, não há possibilidade de creditamento decorrente do ICMS-diferencial de Alíquota.
+ ..
+A impetrante tem, pois, direito à excluir da base de cálculo do PIS/COFINS o valor do ICMS-DIFAL.
+Com efeito, verifica-se que o acórdão recorrido decidiu a controvérsia, acerca da inclusão do ICMS-DIFAL na base de cálculo do PIS e da COFINS, sob o enfoque eminentemente constitucional, o que torna inviável a análise da questão em sede de Recurso Especial, sob pena de usurpação da competência do STF.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. MANDADO DE SEGURANÇA. DIFERENCIAL DE ALÍQUOTA DE ICMS. CAUSA DECIDIDA COM BASE EM FUNDAMENTO EMINENTEMENTE CONSTITUCIONAL. RECURSO EXTRAORDINÁRIO INTERPOSTO CONJUNTAMENTE COM O ESPECIAL, NA ORIGEM. INAPLICABILIDADE DO ART. 1.032 DO CPC/2015. PRECEDENTES DO STJ. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara Recurso Especial interposto contra acórdão publicado na vigência do CPC/2015.
+II. Na origem, trata-se de Mandado de Segurança, impetrado pela parte ora agravada, postulando o direito líquido e certo a não se submeter à sistemática de apuração doICMS-DIFAL,relativamente às operações envolvendo bens do ativo permanente ou material de uso e consumo, destinadas a contribuintes do imposto estadual, bem como seu direito à restituição ou compensação dos valores recolhidos indevidamente, a este título.
+III. O Tribunal de origem decidiu a causa com base em fundamento eminentemente constitucional - além da constitucionalidade do diferencial de alíquotas em operações interestaduais, a observância aos princípios da anterioridade plena e da anterioridade nonagesimal -, de modo que é inviável a apreciação da matéria, em sede de Recurso Especial, sob pena de usurpação de competência do STF.
+Precedentes.
+IV. Na hipótese dos autos, a ora agravante já interpôs Recurso Extraordinário, o que afasta a aplicação do art. 1.032 do CPC/2015, vigente à época da interposição do presente Recurso Especial. Nesse sentido: STJ, AgInt no REsp 1.531.075/SC, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 19/08/2016. Ainda: AgInt no AREsp 862.724/PE, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 06/10/2016.
+V. Agravo interno improvido. (AgInt no REsp n. 1.876.748/RS, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 11/4/2022, DJe de 19/4/2022.)
+Ante o exposto,conheço parcialmente do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. MANDADO DE SEGURANÇA. ICMS-DIFAL. BASE DE CÁLCULO DO PIS E DA COFINS.ACÓRDÃO BASEADO EM FUNDAMENTO CONSTITUCIONAL. IMPOSSIBILIDADE DE APRECIAÇÃO. RECURSO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO.
