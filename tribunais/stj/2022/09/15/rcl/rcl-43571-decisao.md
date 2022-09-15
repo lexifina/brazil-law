@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de reclamação, com pedido liminar, proposta por Claudecir Silveira Garcia, em face de decisão do Juiz de Direito da 2ª Vara das Execuções Criminais da Comarca de Presidente Prudente/SP.
+Sustenta o reclamante, em síntese, o descumprimento da decisão proferida por esta Corte Superior de Justiça, nos autos do HC 687.562/SP, em que se determinou o reexame da progressão de regime.
+A defesa explica que, apesar do exame criminológico favorável, o magistrado indeferiu o pleito de progressão para o regime semiaberto.
+Aliminar foi deferida, em 27/6/2022, para determinar a submissão do reclamante a estabelecimento compatível com o regime semiaberto, enquanto pendente de julgamento a presente reclamação.
+Nas informações, o Magistrado de 1º grau informou que, em 7/7/2022, o reclamante foi transfrido para o regime semiaberto.
+O Ministério Público Federal manifestou-se, então, pela perda do objeto da reclamação.
+Após julgar prejudicada a reclamação, esta Relatoria, reconsiderando a decisão, acolheu embargos de declaração opostos pela defesa, para dar seguimento à demanda.
+É o relatório.
+Decido.
+Conforme já consignado em decisão liminar, no dia 16/8/2021, ao julgar o HC 687.562/SP, foi proferida decisão pela concessão da ordem de ofício, determinando que o Juízo singular reapreciasse o pleito de progressão ao regime semiaberto do então paciente, sem considerar a longevidade da pena a cumprir e a gravidade abstrata dos delitos como óbices ao deferimento.
+Em setembro de 2021, o Magistrado de 1º grau determinou a realização de exame criminológico para fins de progressão de regime.
+A despeito de conclusão favorável ao interno, no exame confeccionado, o Juiz, em 14/6/2022, indeferiu novamente a progressão, sob os seguintes fundamentos:
+No presente caso, em que pese a conclusão do exame criminológico, não há garantias que o sentenciado não volte a delinquir."Não basta o bom comportamento carcerário para preencher o requisito subjetivo indispensável à progressão. Bom comportamento não se confunde com aptidão ou adaptação do condenado e muito menos serve como índice fiel da sua readaptação social" (Execução Penal, Júlio F. Mirabetti e Renato N. Fabbrini, Editora Atlas, 12ed., pág.442, item 112-4, 2º parágrafo).
+Vale dizer, que a progressão de regime do sentenciado deve ocorrer por seus méritos pessoais a serem demonstrados de forma clara, minimamente razoável e segura de modo a se ter um juízo probalístico valorativo de que efetivamente já começou o processo e internalizou a necessidade de observância das regras mínimas necessárias para a vida coletiva/social para ingressar em regime prisional com vigilância atenuada.
+O juízo não pode ser um homem cego às consequências dos seus atos, ou seja, abrandar regras de disciplina e vigilância de pessoa que não demonstrou e/ou não houve valoração dois requisitos mínimos de segurança subjetiva do seu mérito.
+Diante desse quadro processual, este Magistrado não formou a convicção de que o sentenciado tenha assimilado a terapêutica penal, bem como tenha adquirido os valores necessários à progressão de regime prisional mais brando, ou seja, que tenha mérito suficiente para tal benefício como determina o art. 33, § 2º do CP sendo prerrogativa inalienável mais do que da pessoa do julgador e sim do cargo de que não pode ser convocado a julgar com violação às suas convicções e livre convencimento sobre o não preenchimento de exigência legal, ou seja: o já mencionado art. 33, §2º do CP. (E-STJ, fls. 86-87)
+Como também já adiantado, arejeição da progressão de regime não estavaamparada em nenhum dado objetivo. Ao contrário, o Julgador rejeitoutodos os elementos objetivos presentes (laudo criminológico favorável e ausência de falta grave recente), para se fiar apenas e tão somente em sua convicção de que o sentenciado não assimilou a terapêutica penal.
+Ora, o solipsismo de um Magistrado não pode, em detrimento do ordenamento jurídico, fundamentar uma decisão judicial. O descumprimento à decisão desta Corte é evidente, ele salta aos olhos.
+Como já dito, na decisão descumprida, sequer o exame criminológico se justificava com base na pena ainda a ser cumprir e na gravidade abstrata do delito. Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROGRESSÃO DE REGIME. LONGA PENA A CUMPRIR E GRAVIDADE ABSTRATA. FALTAS GRAVES ANTIGAS. FUNDAMENTAÇÃO INIDÔNEA. CONSTRANGIMENTO ILEGAL EVIDENCIADO. AGRAVO REGIMENTAL IMPROVIDO.
+1. A gravidade abstrata do crime, a longa pena a cumprir, assim como faltas disciplinares antigas, já reabilitadas, não justificam a exigência de realização do exame criminológico ou a negativa de concessão de benefícios do sistema progressivo das penas.2. Agravo regimental improvido.
+(AgRg no HC 643.530/SP, Rel. Ministro OLINDO MENEZES - DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO, SEXTA TURMA, julgado em 04/05/2021, DJe 10/05/2021.)
+EXECUÇÃO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. PROGRESSÃO DE REGIME PRISIONAL. GRAVIDADE DOS CRIMES PRATICADOS (DUAS TENTATIVAS DE HOMICÍDIO) E LONGA PENA. INIDONEIDADE. COMETIMENTO DE FALTA GRAVE EM 2017 - POSSE DE SUBSTÂNCIA ENTORPECENTE NO ESTABELECIMENTO PRISIONAL. AUSÊNCIA DE CONTEMPORANEIDADE DO FUNDAMENTO. ATESTADO DE BOM COMPORTAMENTO CARCERÁRIO. EXAME CRIMINOLÓGICO. DESNECESSIDADE. CONSTRANGIMENTO ILEGAL CONFIGURADO. WRIT NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO PARA RESTABELECER A PROGRESSÃO DE REGIME PRISIONAL.
+ ..
+2. A gravidade abstrata do que crime praticado pelo reeducando e a longa pena a cumprir não são elementos idôneos para fundamentar o indeferimento da progressão de regime prisional. Precedentes.
+3. Na espécie, o único elemento concreto utilizado pela Corte de origem, relacionado ao comportamento carcerário do apenado, refere-se à prática de falta disciplinar de natureza grave em 12/5/2017 - posse de entorpecente no interior do estabelecimento prisional -, o que demonstra a ausência de contemporaneidade do fundamento.
+4. Habeas corpus não conhecido. Ordem concedida de ofício para restabelecer a decisão que deferiu a progressão de regime prisional ao paciente.
+(HC 628.101/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 09/12/2020, DJe 14/12/2020.)
+Com efeito, já realizado o exame criminológico e sendo ele favorável ao ora reclamante, imperiosa a progressão do regime. Note-se que, nas informações, o Juízo local não demonstrou nenhum fundamento concreto para a manutenção do apenado no regime fechado.
+Portanto, no caso concreto, todos os elementos estão coligidos aos autos, demonstrando a aptidão do sentenciado a progredir para o regime semiaberto, ou ser mantido nele.
+Ante o exposto, confirmo a liminar deferida,julgando procedente a reclamação.
+Publique-se. Intimem-se.
