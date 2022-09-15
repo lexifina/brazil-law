@@ -1,0 +1,8 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado contra acórdão assim ementado (fl. 57):
+HABEAS CORPUS - Tráfico de drogas - Pleito derevogação da prisão preventiva - Impossibilidade - Decisãosuficientemente fundamentada - Inteligência dos artigos 312e 313, I do CPP - Presentes os requisitos ensejadores dadecretação da medida - Necessidade de garantia da ordempública - Inaplicabilidade de quaisquer das medidascautelares previstas no art. 319, do Código de ProcessoPenal - Pandemia do COVID-19 -Recomendação 62/2020do CNJ que possui, como o próprio nome diz, caráter derecomendação - Requerimento genérico, não sendojustificada, concretamente, a necessidade de substituição docárcere - Presença dos requisitos e circunstâncias queautorizam a manutenção da custódia cautelar - Inexistênciade constrangimento ilegal - Ordem denegada.
+Consta dos autos queo paciente foi preso em flagrante, em 1/2/2022, sendo a prisão em flagrante convertida em prisão preventiva, pelaprática do crimeprevisto noart. 33,caput, da Lei n. 11.343/2006.
+Nestewrit, alega o impetrante, em síntese, constrangimento ilegal em razão da ausência de proporcionalidade e de fundamentação idônea para a decretação da prisão preventiva, bem como dos requisitos autorizadores previstos no art. 312 do CPP, requerendo a revogação da custódia cautelar.
+Em consulta ao sistema eletrônico desta Corte Superior, verifica-se que o presente writ é mera reiteração do HC n. 731.955/SP, no qual houve a concessão da ordem para a soltura do paciente com a aplicação de medidas alternativas, contexto em que indefiro liminarmente o habeas corpus.
+Publique-se.
+Intimem-se.
