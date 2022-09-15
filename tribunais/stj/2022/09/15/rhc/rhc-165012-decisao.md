@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso em habeas corpus com pedido de liminar interposto por ROBERTO DE LIMA RODRIGUES contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul (Ação Penal n. 0004571-38.2022.8.21.7000).
+O recorrente foi denunciado e está sendo processado pela suposta prática do crime descrito no art. 14da Lei n. 10.826/2003.
+Impetrado writ originário, a Corte estadual denegou a ordem em acórdão assim ementado (fl.40):
+HABEAS CORPUS. ACORDO DE NÃO PERSECUÇÃO PENAL. ART. 28-A, DO CPP. RETROAÇÃO. DENÚNCIA RECEBIDA. IMPOSSIBILIDADE.
+Tratando-se o acordo de não persecução penal de norma processual híbrida, introduzida no ordenamento jurídico pela Lei nº 13.964/19, é admissível a sua retroatividade. Entretanto, conforme entendimento sedimentado nos tribunais superiores, somente se aplica nos processos em andamento, desde que não recebida a denúncia. Precedentes. Na espécie, a exordial delitiva já foi recebida, não fazendo o paciente jus ao benefício.
+ORDEM DENEGADA.
+Aponta o recorrente constrangimento ilegal pelo não oferecimento de acordo de não persecução penal - ANPP, apesar de o paciente preencher os requisitos legais para tanto.
+Requer a concessão da ordem a fim de determinar a intimação do Ministério Público na origem para oferecer ANPP ao paciente.
+Contrarrazões apresentadas às fls. 67-71.
+Manifestação do Ministério Público Federal pelo não conhecimento e desprovimento do recurso (fls.78-86).
+É o relatório. Decido.
+O Tribunal a quo, sobre o cabimento da ANPP, se manifestou nesses termos (fl.42):
+Com o entendimento consolidado nas instâncias superiores, por questão de pragmatismo, estou aderindo à posição firmada, passando a decidir que o investigado/réu tem o direito de ver apreciado pelo Ministério Público as condições e possibilidades de oferta do Acordo de Não Persecução Penal, desde que não recebida a denúncia.
+No caso concreto, a denúncia foi recebida na data de 11.11.2019, conforme informação obtida por este Relator em consulta à movimentação processual na página eletrônica deste Tribunal de Justiça:
+ ..
+Como a exordial já foi aceita, em decisão levada a efeito inclusive antes da entrada em vigor da Lei n º 13.964/19 (23.1.2020), a posição do Juízo a quo merece ser ratificada por este Tribunal. Isso porque, embora seja possível a retroação do instituto devido a sua natureza híbrida, aplicando-se aos fatos praticados antes da vigência deste, além dos requisitos legais insertos no art. 28-A, do CPP, a jurisprudência dos Tribunais Superiores, e mesmo a deste Órgão Fracionário, firmou-se no sentido de que o ANPP somente é cabível aos processos em curso antes do recebimento da denúncia, pois o negócio jurídico pré-processual em comento tem como fim precípuo evitar a deflagração do processo criminal.
+Já inaugurada a fase de oferecimento e de recebimento da denúncia, e tendo havido a admissão desta, o paciente já ostenta a condição de acusado, encontrando-se encerrada a etapa pré-processual, tornando inadmissível a retroação do andamento processual. ..
+Segundo jurisprudência destaCorte Superior, "a possibilidade de aplicação retroativa do instituto relativo ao acordo de persecução penal, previsto no art. 28-A do CPP, inserido pela Lei n. 13.964/2019, somente é possível aos processos em curso até o recebimento da denúncia, situação não verificada na espécie" (AgRg no AREsp n. 1.561.858/RS, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 18/5/2021).
+No caso, quando a Lei n. 13.964/2019 entrou em vigor (23/1/2020), a denúncia já havia sido recebida, o que afasta a aplicação retroativa do instituto relativo ao acordo de persecução penal, previsto no art. 28-A do CPP.
+A corroborar tal entendimento, confiram-se o seguinte julgado:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CRIME DE CONTRABANDO. APLICAÇÃO DO ART. 28-A DO CPP. NÃO CABIMENTO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O Supremo Tribunal Federal, no julgamento do HC n. 191.464/SC, de relatoria do Ministro ROBERTO BARROSO (DJe 18/9/2020) - que invocou os precedentes do HC n. 186.289/RS, Relatora Ministra CARMEN LÚCIA (DJe 1º/6/2020), e do ARE n. 1.171.894/RS, Relator Ministro MARCO AURÉLIO (DJe 21/2/2020) -, externou a impossibilidade de fazer-se incidir o ANPP quando já existente condenação, conquanto ela ainda esteja suscetível de impugnação.
+2. Nesse sentido, o Superior Tribunal de Justiça firmou o entendimento de que a retroatividade do art. 28-A do CPP, introduzido pela Lei n. 13.964/2019, se revela incompatível com o propósito do instituto, quando já recebida a denúncia e já encerrada a prestação jurisdicional nas instâncias ordinárias. Precedentes. In casu, tendo sido recebida a denúncia antes da entrada em vigor da Lei n. 13.964/2019, em 23/1/2020, tendo o Juízo de primeiro grau já proferido sentença condenatória, confirmada pelo Tribunal, não pode se falar na aplicação do art. 28-A do CPP.
+3. No âmbito desta Corte Superior, em que pese a Terceira Seção, em 8/6/2021, tenha aprovado, por unanimidade, a proposta de afetação do julgamento do REsp n. 1.890.343/SC e do REsp n. 1.890.344/RS, à sistemática dos recursos repetitivos - Tema Repetitivo n. 1098, cuja controvérsia foi delimitada como a (im)possibilidade de acordo de não persecução penal posteriormente ao recebimento da denúncia -, o referido órgão colegiado, acolhendo proposta deste Relator, decidiu não determinar a suspensão do trâmite dos processos pendentes que versem sobre a matéria jurídica em questão.
+4. O fato de a matéria atinente à aplicação retroativa do art. 28-A do CPP estar pendente de julgamento no Plenário do Supremo Tribunal Federal no HC n. 185.913 também não implica a suspensão dos processos em andamento nesta Corte Superior que tratem da questão.
+5. Agravo regimental não provido. (AgRg no REsp n. 1.986.865/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 20/5/2022.)
+Ante o exposto, nego provimento ao recurso ordinário em habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
