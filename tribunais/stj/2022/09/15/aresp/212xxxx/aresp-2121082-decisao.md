@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de agravo interposto peloFUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCAÇÃO contra decisão doTRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, quenão admitiu recurso especial, fundadona alínea "a" do permissivo constitucional, o qualdesafia acórdão assim ementado (e-STJ fl. 417):
+AGRAVO INTERNO. APELAÇÃO. ART. 1.021, § 3º DO NCPC. REITERAÇÃO. RECURSO DESPROVIDO.
+- A vedação insculpida no art. 1.021, §3º do CPC/15 contrapõe-se ao dever processual estabelecido no §1ºdo mesmo dispositivo.
+- Se a parte agravante apenas reitera os argumentos ofertados na peça anterior, sem atacar com objetividade e clareza os pontos trazidos na decisão que ora se objurga, com fundamentos novos e capazes de infirmar a conclusão ali manifestada, decerto não há que se falar em dever do julgador de trazer novéis razões para rebater alegações genéricas ou repetidas, que já foram amplamente discutidas.
+- Agravo interno desprovido.
+Embargos de declaração rejeitados (e-STJ fls. 472/473).
+No recurso especial obstaculizado, a parte recorrente apontouviolaçãodos arts. 489, § 1º, IV e1.022,II e parágrafo único, II,do CPC/2015, por negativa de prestação jurisdicional, e, no mérito, dos arts. 1º e3º, § 1º, I, da Lei n.10.260/2001, argumentando que o aditamento do contrato do FIES deve ficar condicionado a limitações de ordem financeira e orçamentária.
+Contrarrazõesàs e-STJ fls. 498/507.
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, tendo sido os fundamentos da decisão atacados no presente recurso.
+Parecer ministerial às e-STJ fls. 562/568, opinando pelo conhecimento do agravo e não conhecimento do recurso especial.
+Passo a decidir.
+Verifico que a pretensão não merece prosperar.
+Em relação à alegada ofensa dos arts.489, § 1º, IV e 1.022, II e parágrafo único, II, do CPC/2015,cumpre destacar que, ainda que o recorrente considere insubsistente ou incorreta a fundamentação utilizada pelo Tribunal nos julgamentos realizados, não há necessariamente ausência de manifestação. Não há como confundir o resultado desfavorável ao litigante com a falta de fundamentação, motivo pelo qual não se constata violação dos preceitos apontados.
+Consoante entendimento desta Corte, o magistrado não está obrigado a responder a todas as alegações das partes,tampouco a rebater um a um todos os seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie. Nesse sentido:
+IPVA. NÃO CONFIGURADA VIOLAÇÃO DO ART. 1.022 DO CPC/2015. CERCEAMENTO DE DEFESA. INCIDÊNCIA DA SÚMULA 283 DO STF. ALIENAÇÃO FIDUCIÁRIA DE VEÍCULO. ILEGITIMIDADE PASSIVA DO CREDOR FIDUCIÁRIO. CONTROVÉRSIA DIRIMIDA COM ANÁLISE DE LEGISLAÇÃO DISTRITAL. INCIDÊNCIA DA SÚMULA 280/STF. LEI LOCAL. ILEGITIMIDADE ATIVA DO DISTRITO FEDERAL. REEXAME DO CONJUNTO PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7 DO STJ. MULTA DO ART. 1026 DO CPC/2015.
+1. Inicialmente, em relação aos arts. 141 e 1022 do CPC, deve-se ressaltar que o acórdão recorrido não incorreu em omissão, uma vez que o voto condutor do julgado apreciou, fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte recorrente. Vale destacar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. .. (REsp 1.671.609/DF, Rel. Ministro HERMAN BENJAMIN, Segunda Turma, DJe 30/06/2017).
+Por outro lado, aanálise da peça recursal demonstra que a eventual afronta aosarts. 1º e 3º, § 1º, I, da Lei n. 10.260/2001 esbarra nainterpretação das Portarias Normativas MEC 01/2010,10/2010 e 23/2011, providência vedada em sede de recurso especial, visto que tais atos normativos não se enquadram no conceito de lei federal.
+Ilustrativamente, trago os seguintes precedentes:
+ADMINISTRATIVO E PROCESSUAL CIVIL. FNDE. FINANCIAMENTO ESTUDANTIL - FIES. ESTUDANTE DE MEDICINA. PRORROGAÇÃO DO PRAZO DE CARÊNCIA. APROVAÇÃO EM RESIDÊNCIA MÉDICA. PRAZO PARA REQUERIMENTO. ART. 6º, § 2º, DA PORTARIA MEC 07/2013. VIOLAÇÃO REFLEXA AO TEXTO DE LEI FEDERAL. NÃO CONHECIMENTO DO RECURSO ESPECIAL.
+1. Recurso especial no qual se defende a tese de que, iniciada a amortização do empréstimo estudantil, a parte autora não poderia mais pleitear a prorrogação da carência, por deixar de atender ao requisito previsto no art. 6º, § 2º, da Portaria Normativa MEC 07/2013.
+2. Assim, apesar de se invocar afronta ao texto de lei federal, a pretensão esbarra no exame de normativo que não se insere no conceito de lei federal a que se refere o art. 105, III, da CF, o que impede o conhecimento do recurso.
+3. Segundo jurisprudência desta Corte, "O recurso especial não constitui via adequada para a análise, sequer reflexa, de eventual ofensa a resoluções, portarias, instruções normativas ou regulamentos de pessoa jurídica, por não estarem tais atos normativos compreendidos na expressão "lei federal", constante da alínea "a" do inciso III do artigo 105 da Constituição Federal de 1988" (AgInt no AgInt no AREsp n. 1.112.227/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 9/10/2018, DJe de 17/10/2018).
+4. Agravo interno não provido.
+(AgInt no REsp n. 1.993.692/PB, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 15/8/2022, DJe de 18/8/2022.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. AUTO DE INFRAÇÃO. REGULARIDADE DA AUTUAÇÃO. APLICAÇÃO DE MULTA. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. OFENSA REFLEXA À LEI FEDERAL. DECISÃO MANTIDA.
+1. O mero julgamento da causa em sentido contrário aos interesses e à pretensão das partes não caracteriza a ausência de prestação jurisdicional, tampouco viola o art. 1022 do CPC/2015.
+Jurisprudência do Superior Tribunal de Justiça.
+2. Suposta ofensa a disposições de portarias não enseja a abertura da via especial, pois essa espécie normativa não está abrangida no conceito de "lei federal."
+3. É indissociável o exame da tese a respeito dos art. 38 da Lei nº 9.394/96 sem o confronto dos termos e do alcance das Portarias nº 179/2014 do INEP e 807/2010 do MEC.
+4. Considerando o disposto no art. 85, § 11, do CPC/2015c/c o Enunciado Administrativo n. 7/STJ, são devidos os honorários advocatícios recursais nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, levando em consideração o trabalho adicional realizado em grau recursal.
+5. Agravo interno não provido.
+(AgInt nos EDcl no AREsp n. 1.874.339/DF, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 29/11/2021, DJe de 2/12/2021.)
+Não bastasse isso,acolher as razões recursais impõe o reexame do acervo probatório e nova interpretação de cláusulas contratuais, providências sabidamente vedadas no âmbito do apelo nobre em face do teor das Súmulas 5 e 7 desta Corte.
+Ilustrativamente:
+PROCESSUAL CIVIL. CRÉDITO PARA FINANCIAMENTO ESTUDANTIL. FIES. JUROS CAPITALIZADOS. OFENSA A ATO JURÍDICO PERFEITO. TAXA DE JUROS. LEI N. 12.202/2010. REVISÃO DO ACERVO PROBATÓRIO. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. IMPOSSIBILIDADE. SÚMULAS N. 5 E 7/STJ.
+I - Na origem, trata-se de ação revisional com o objetivo de obter declaração de abusividade constante em contrato de Fies - Financiamento Estudantil, e suas consequências. A ação foi julgada improcedente. Em juízo de retratação, com base no REsp n. 1.155.684, julgado sob o rito dos repetitivos, o Tribunal Regional Federal da 2ª Região, em grau recursal, acolheu parcialmente o recurso da autora, somente para afastar a cobrança dos juros capitalizados.
+II - A Corte a quo analisou as alegações da parte considerando a desnecessidade de dilação probatória, diante da suficiência dos elementos constantes dos autos, e pelo fato de cuidar-se de questões jurídicas a serem analisadas.
+III - Verifica-se, portanto, que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "a pretensão de simples reexame de provas não enseja recurso especial". Ressalte-se ainda que a incidência do enunciado n. 7, quanto à interposição pela alínea a, impede o conhecimento da divergência jurisprudencial, diante da patente impossibilidade de similitude fática entre acórdãos. Nesse sentido: AgInt no AREsp n. 1.044.194/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 19/10/2017, DJe 27/10/2017).
+IV - Outrossim, o acolhimento da pretensão recursal também demanda reexame de cláusulas contratuais, o que não se admite ante o óbice da Súmula n. 5/STJ.
+V - Agravo interno improvido.(AgInt no AREsp 1.554.683/RJ, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 16/11/2020, DJe 18/11/2020).
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. FINANCIAMENTO ESTUDANTIL (FIES). VENCIMENTO ANTECIPADO DA DÍVIDA. ART. 535 DO CPC/73. OMISSÃO NÃO CONFIGURADA. ACÓRDÃO DO TRIBUNAL A QUO ANCORADO NA INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS.REVISÃO, IMPOSSIBILIDADE. SÚMULA 5/STJ.
+1. Não se verifica ofensa ao art. 535 do CPC/73 na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas.
+2. Incide a Súmula 5/STJ, no caso concreto, tendo em vista que a questão do vencimento antecipado de dívida relativa a Financiamento Estudantil (FIES) foi dirimida com base na interpretação de cláusulas contratuais.
+3. Agravo interno não provido (AgInt no REsp 1.509.598/PE, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 17/02/2020, DJe 20/02/2020).
+PROCESSUAL CIVIL. CONTRATO DE FINANCIAMENTO ESTUDANTIL - FIES. ADITAMENTO. EXPRESSA ANUÊNCIA DO FIADOR. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA E INTERPRETAÇÃO DE CLÁUSULA CONTRATUAL . INCIDÊNCIA DAS SÚMULAS 5 E 7 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL. EXAME PREJUDICADO.
+ ..
+2. Sob esse aspecto, a análise da pretensão veiculada no Recurso Especial demanda exame de cláusulas contratuais e do contexto fático-probatório dos autos, inalcançáveis pelo STJ, ante o óbice erigido pelas Súmulas 5 e 7/STJ.
+3. Ressalte-se, por fim, que fica prejudicada a análise da divergência jurisprudencial quando a tese sustentada já foi afastada no exame do Recurso Especial pela alínea "a" do permissivo constitucional.
+4. Agravo conhecido para negar provimento ao Recurso Especial.
+(AREsp 1.535.592/DF, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 26/11/2019, DJe 19/12/2019).
+Ante o exposto, com base no art. 253, parágrafo único, II, "a" e "b", do RISTJ, CONHEÇO do agravo para CONHECER PARCIALMENTE do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO.
+Sem arbitramento de honorários recursais, pois o recurso especial se origina de mandado de segurança.
+Publique-se. Intimem-se.
