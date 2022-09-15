@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido de liminar, impetrado em face de acórdão assim ementado (fl. 19):
+Agravo em execução de pena. Detração. Medidas Cautelares diversas da prisão. Uso de tornozeleira. Impossibilidade. Agravo provido. Não cabe a detração do tempo em que o paciente esteve submetido a medidas cautelares alternativas previstas no art. 319 do CPP, que, por expressa previsão legal, não se confundem com a prisão provisória, a despeito de representar algum grau de restrição à liberdade do acautelado. Agravo provido.
+Consta dos autos que o paciente teve deferido, pelo Juízo das execuções, o pleito de detração do período que cumpriu medidas cautelares de recolhimento noturno obrigatório, cumulado com uso de tornozeleira eletrônica.
+Irresignado, o Ministério Público interpôs agravo em execução, o qual restou provido para cassar a decisão de primeira instância.
+Daí o presentemandamus, no qual alega o impetrante, em suma, que a Corte local contrariou entendimento recente da 3ª Seção deste Tribunal, o qual se firmou no sentido de queo recolhimento domiciliar noturnodeve ser reconhecido como pena efetivamente cumprida para fins de detração da pena, em homenagem ao princípio da proporcionalidade e em apreço ao princípio do non bis in idem.
+Requer, liminarmente e no mérito, a concessão da ordempara que se reforme o acórdão impugnado,mantendoa sentença do Juízo de primeiro grau, que concedeu a detração do período que cumpriu recolhimento domiciliar obrigatório cumulado com tornozeleira eletrônica.
+A liminar foi indeferida. As informações foram prestadas. O Ministério Público Federal ofertou parecer, manifestando-se pela concessão da ordem.
+Sobre a controvérsia, assim se manifestou o Colegiado local (fl. 18):
+Razão lhe assiste.
+Depreende-se dos autos que o agravado cumpriu, nos autos de origem, medida cautelar diversa da prisão, mediante o uso de tornozeleira eletrônica, com recolhimento domiciliar noturno, no período compreendido entre janeiro de 2018 e abril de 2019.
+Como é de conhecimento, inexiste previsão legal para o cômputo do período de cumprimento de medidas cautelares alternativas à prisão (art. 319 do CPP) para fins de detração da pena, cujas hipóteses estão elencadas no art. 42 do CP, a saber:
+Art. 42 - Computam-se, na pena privativa de liberdade e na medida de segurança, o tempo de prisão provisória, no Brasil ou no estrangeiro, o de prisão administrativa e o de internação em qualquer dos estabelecimentos referidos no artigo anterior.
+Embora o recolhimento domiciliar no período noturno com uso de tornozeleira represente algum grau de restrição à liberdade do acautelado, não constitui espécie de prisão provisória, mas tão-somente meras restrições que acompanham a liberdade provisória.
+Como se vê, o Tribunal de Justiça afastou a detração do tempo de recolhimento domiciliar noturno em que esteve o paciente, sob o entendimento de ausência de previsão legal.
+Não obstante, "oentendimento desta Corte tem se firmado no sentido de se admitir adetração,na pena privativa de liberdade, do período de cumprimento da medida cautelar do art. 319, V, do Código de Processo Penal - CPP, com ou sem monitoração eletrônica. No cálculo, as horas derecolhimento domiciliarobrigatório devem ser somadas e convertidas em dias, desprezando-se o período inferior a 24 horas" (AgRg no HC n. 733.909/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 9/8/2022, DJe de 15/8/2022.). No mesmo sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DE VIOLAÇÃO DO PRINCÍPIO DA COLEGIALIDADE. FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO NÃO COMBATIDOS. AGRAVO REGIMENTAL NÃO PROVIDO. DETRAÇÃO. PERÍODO DE RECOLHIMENTO DOMICILIAR NOTURNO. CONCESSÃO DE OFÍCIO.
+1. Não há ofensa ao princípio da colegialidade diante da existência de previsão legal e regimental para que o relator julgue, monocraticamente, o agravo em recurso especial quando constatar as situações descritas no art. 932, III, do CPC, c/c o art. 253, parágrafo único, I, do RISTJ, hipótese ocorrida nos autos.
+2. É ônus da parte agravante impugnar as causas específicas de inadmissão do recurso especial, sob pena de incidência da Súmula n. 182 do STJ.
+3. Na espécie, o insurgente deixou de infirmar a aplicação das Súmulas 284 do STF e 83 do STJ, a impossibilidade de alegação de divergência com paradigmas oriundos de habeas corpus, mandado de segurança ou recurso ordinário e a deficiência de cotejo analítico.
+4. A Terceira Seção do Superior Tribunal de Justiça firmou a compreensão majoritária de que o período de cumprimento de medida cautelar de recolhimento domiciliar deve ser computado para fins de detração penal por representar limitação à liberdade de locomoção, uma vez que o rol do art. 42 do Código Penal é numerus apertus.
+5. Agravo regimental não provido. Habeas corpus concedido de ofício para que se proceda à detração do período de cumprimento da medida cautelar de recolhimento noturno do recorrente. (AgRg no AREsp n. 2.026.411/SC, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 17/5/2022, DJe de 24/5/2022.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. DETRAÇÃO. RECOLHIMENTO DOMICILIAR NOTURNO. SOMA DAS HORAS. CONVERSÃO EM DIAS COM DESPREZO DAS FRAÇÕES INFERIORES A 24 HORAS. DECISÃO AGRAVADA MANTIDA. JURISPRUDÊNCIA DO STJ.
+1. É inadmissível habeas corpus em substituição ao recurso próprio, também à revisão criminal, impondo-se o não conhecimento da impetração, salvo se verificada flagrante ilegalidade no ato judicial impugnado apta a ensejar a concessão da ordem de ofício.
+2. O período de recolhimento domiciliar noturno, por comprometer o status libertatis, deve ser detraído da pena do sentenciado.
+3. A soma de horas referentes ao período em que o réu cumpriu a medida cautelar de recolhimento noturno deve ser convertida em dias (desprezando-se as frações inferiores a 24 horas) para abatimento da pena privativa de liberdade a ser cumprida.
+4. Mantém-se integralmente a decisão agravada cujos fundamentos estão em conformidade com a jurisprudência do STJ a respeito da matéria suscitada.
+5. Agravo regimental desprovido. (AgRg no HC n. 718.288/SC, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 5/4/2022, DJe de 11/4/2022.)
+Ante o exposto, concedo ohabeas corpuspara determinar que o juízo da execuçãoproceda à detração do período de cumprimento da medida cautelar de recolhimentodomiciliar do paciente.
+Comunique-se.
+Publique-se.
+Intimem-se.
