@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de DIEGO LEITE DE ASSIS no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO (HC n. 0043970-79.2022.8.19.0000 ).
+O paciente encontra-se preso preventivamente diante de requerimento do Ministério Público, tendo sido denunciado pela prática, em tese, dodelitode receptação.
+Impetrado writ originário, a ordem foi denegada.
+A defesa aponta que o paciente está sendo vítima de constrangimento ilegal, ante a alegada ausência de fundamentação para a decretação da segregação cautelar, que entende ser mais gravosa que a pena a ser aplicada em caso de eventual condenação.
+Requer, ao final, a substituição da prisão preventiva por medidas cautelares diversas, dentre aquelas previstas no art. 319do Código de Processo Penal.
+A liminar foi indeferida pela Presidência às fls. 46-47.
+O Ministério Público Federal manifestou-se pelo não conhecimento do writ, nos termos do parecer de fls. 57-60.
+É o relatório.Decido.
+Ainda que inadequada a impetração de habeas corpus em substituição à revisão criminal ou ao recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o STJ considera passível de correção de ofício o flagrante constrangimento ilegal.
+No caso, não se constata a existência de flagrante constrangimento ilegal que autorize a atuação ex officio.
+Com efeito, aprisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 2/9/2020).
+No caso, está justificada a manutenção da preventiva, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP, não sendo recomendável a aplicação de medida cautelar referida no art. 319 do CPP.
+A propósito, assim se manifestou o Tribunal a quo (fls. 23-24):
+ ..  tanto o decreto prisional originário (sexto e oitavo parágrafos do documento 25, do anexo), como a correta Decisão que o manteve vigente (quinto e sexto parágrafos do documento 02, do anexo), rechaçando o pleito libertário, apontaram, enquanto primordial fator da própria subsistência, as reiterativas recalcitrâncias criminosas, consistentes em quatro condenações anteriores, cenário que não só afasta a pretendida ausência de homogeneidade entre condições prisionais, presente e futura, na exata medida em que a multirreincidência cristalizada inviabiliza a incidência à espécie, em caso de desfecho condenatório, da substituição qualitativa de reprimendas (art. 44, §3º, do C.P.P.), como também concretamente estabelece a presença de risco à ordem pública a partir da perspectiva do Paciente permanecer em liberdade, em cenário que, por si só, atesta a higidez e a imprescindibilidade da manutenção de vigência da medida coercitiva, bem como a inaplicação de cautelares substitutivas ao caso concreto.
+Ademais, ainda consta da decisão que decretou a preventiva que o paciente possui envolvimento com a milíciae que não há comprovação de que o acusado reside no endereço indicado ou exerça ocupação lícita (fl. 29).
+Observa-se, portanto,quea multirreincidência, o risco de reiteração delitiva, os maus antecedentes, a gravidade concreta da conduta ea periculosidade do agenteforam considerados pelo Juízo de primeiro grau e pelo Tribunalpara a decretação da prisão preventiva e justificam a imposição da medida extremaem detrimento das demais cautelares substitutivas.
+Assim, oTribunal de origem decidiuconforme orientação jurisprudencial do STJ, segundo a qual a existência de maus antecedentes e a reincidência justificam a imposição de prisão preventiva como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública (AgRg no HC n. 591.246/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 22/9/2020; e AgRg no HC n. 602.616/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 3/9/2020).
+Paralelamente, quanto à alegada violação ao princípio da homogeneidade, saliente-se não ser possível nesta via processual realizar prognósticos quanto à eventual pena ou regime prisional a ser imposto em caso de condenação, que ainda depende de um juízo de tipicidade e de culpabilidade(HC n. 507.051/PE, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 28/10/2019).
+Por fim,a necessidade de prisão cautelar sido exposta de forma fundamentada e concreta, é incabível a substituição por medidas cautelares mais brandas (RHC n. 133.153/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 21/9/2020).
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
