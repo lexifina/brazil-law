@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo interposto pela FAZENDA DO ESTADO DE SÃO PAULO contra a decisão que inadmitiu o recurso especial fundado no art. 105, III, a, da Constituição Federal, aviado com o objetivo de reformar o acórdão assim ementado, in verbis:
+AUTO DE INFRAÇÃO E IMPOSIÇÃO DE MULTA - ICMS - ISENÇÃO - ZONA FRANCA DE MANAUS - As operações cujo ingresso de mercadorias na Zona (,) (,) Franca de Manaus foi comprovado por declaração da o o SUFRAMA, nos termos do art. 84, § 6º, Anexo I, RICMS/00, fazem jus à isenção - Internação não comprovada, entretanto, em relação às Notas Fiscais nºs 6678 e 10847 -AIIM subsistente para estas operações - Multa válida e aplicável, fixada nos parâmetros de legalidade - Ausência de violação aos princípios da razoabilidade, da proporcionalidade e da segurança jurídica - Recursos improvidos.
+Foi atribuído à causa o valor de R$ 71.809,68.
+Os embargos de declaração opostos foram rejeitados.
+No presente recurso especial, o recorrente indica como violados os arts. 97, VI, 111, II, 113, §1º e 114, todos do CTN; arts. 2º, I e §2º, 4º caput e 12, I, da LC 87/96 e art. 333, I do CPC.
+Sustenta, em síntese, que a autuação fiscal de cobrança de ICMS é hígida, gozando de presunção de legitimidade não ilidida por prova cabal, não tendo o contribuinte comprovado o ingresso e internamento das mercadorias remetidas à Zona Franca de Manaus visando a obtenção de isenção sobre o tributo entelado. Observa, ainda, que inexiste previsão constitucional e legal que desobrigue o contribuinte ao recolhimento do ICMS relativo às operações referidas, inclusive na transferência da mercadoria entre estabelecimentos da recorrida.
+Contrarrazões pela manutenção da decisão recorrida.
+Após decisum que inadmitiu o recurso especial foi interposto o presente agravo, tendo o recorrente apresentado argumentos visando rebater os fundamentos da decisão agravada.
+É o relatório. Decido.
+Considerando que o agravante, além de atender aos demais pressupostos de admissibilidade, impugnou a fundamentação da decisão agravada, de rigor o conhecimento do agravo, passando-se ao exame do recurso especial interposto.
+O Tribunal a quo analisando a questão, entendeu que a internação da mercadoria estaria demonstrada para uma parcela das mercadorias, conforme se afere do seguinte excerto, in verbis:
+No caso em tela, a autora logrou obter as declarações de ingresso da SUFRAMA, após a propositura da ação, para as Notas Fiscais de nºs 2862, 8235, 8236, 8238, 12725, 13593, 21473, 32755, 32808 e 32809 (fls. 801/806). Para estas Notas Fiscais, portanto, o Auto de Infração e Imposição de Multa de nº 3.130.150 (fls. 55/57) deve ser declarado nulo.
+Note-se que, quanto a estes documentos, alegava subsidiariamente a requerente que se tratava de transferência de mercadorias entre estabelecimentos de mesma titularidade, não incidindo o ICMS por não haver circulação jurídica, nos termos da Súmula nº 166 do STJ.
+Tais alegações restam prejudicadas, vez que a comprovação de ingresso das mercadorias na Zona Franca de Manaus macula o Auto de Infração neste ponto, caracterizando-se a hipótese de isenção prevista no artigo 84, Anexo I, do RICMS/00. (Os grifos não constam do texto original).
+Da análise dos excertos apresentados verifica-se que para examinar a tese da recorrente de que não foi demonstrada a internação das mercadorias seria necessário a revisão do conjunto probatório dos autos, o que é indevido no âmbito do recurso especial. Incidência da súmula 7/STJ.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
