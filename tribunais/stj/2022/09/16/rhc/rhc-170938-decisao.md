@@ -1,0 +1,34 @@
+DECISÃO
+Cuida-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por KELTON FERNANDO DOS SANTOS SILVA, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO no julgamento do HC n. 1.0000.22.000635-7/000.
+Extrai-se dos autos que, por ocasião do cumprimento de mandado de busca e apreensão, o paciente foi preso em flagrante em 8/6/2022, convertido em preventiva, e restou denunciado pela suposta prática dos crimes previstos nos arts. 33 e 35, ambos da Lei n. 11.343/2006 e no art. 12 da Lei n. 10.826/2003 (tráfico de drogas, associação para o narcotráfico e posse ilegal de arma de fogo de uso permitido).
+Em 8/8/2022 o Juízo de primeiro grau indeferiu pedido defensivo de revogação da custódia.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem nos termos do acórdão que restou assim ementado:
+"HABEAS CORPUS - PRISÃO PREVENTIVA - TRÁFICO DE DROGAS - ALEGADO CONSTRANGIMENTO ILEGAL - ARGUIDA TESE DE NEGATIVA DE AUTORIA - NOVOS DOCUMENTOS A DEMONSTRAR - ANÁLISE EM HABEAS CORPUS ANTERIOR (HC 1011376-11.2022.8.11.0000) - DESCABIMENTO - IMPOSSIBILIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO ATRAVÉS DA VIA ELEITA - PRESENÇA DE INDÍCIOS SUFICIENTES DE AUTORIA - PRETENSÃO TÍPICA DE AÇÃO DE CONHECIMENTO - AUSÊNCIA DE FUNDAMENTAÇÃO PARA A PRISÃO PREVENTIVA - NÃO CARACTERIZAÇÃO - EXISTÊNCIA DOS REQUISITOS AUTORIZADORES DO ART. 312 DO CPP - NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA DEMONSTRADA DE FORMA IDÔNEA - RISCO DE REITERAÇÃO DELITIVA - EXISTÊNCIA DE EXECUTIVO DE PENA DE 07 ANOS ATRÁS - INEFETIVIDADE DO SISTEMA - MEDIDAS CAUTELARES DIVERSAS DA PRISÃO - INSUFICIÊNCIA E INEFICÁCIA NO CASO CONCRETO - INVIABILIDADE DA SUBSTITUIÇÃO POR ACAUTELATÓRIAS MENOS SEVERAS (ART. 319 DO CPP) - INCOMPATIBILIDADE COM OS PRESSUPOSTOS DA PRISÃO PREVENTIVA PRESENTES - ART. 282, § 6º, DO CPP - IRRELEVÂNCIA DOS PREDICADOS PESSOAIS FAVORÁVEIS - CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO - ORDEM DENEGADA." (fls. 705/706)
+No presente recurso a defesa sustenta que teria apresentado documentos comprovando a tese relativa à negativa da autoria delitiva bem como de vínculo entre o ora paciente e o corréu.
+Alega a ausência de indícios mínimos de autoria delitiva. Afirma que em sua residência nada de ilegal foi encontrado, e ressalta que o suposto caderno de anotações não contém nenhum indicativo da comercialização de drogas e pondera ter sido comprovada a origem lícita do dinheiro encontrado.
+Aduz que diante dos documentos apresentados, deve ser restabelecida a liberdade do paciente, indicando não haver necessidade de análise probatória.
+Indica que a reincidência do paciente se deu por fato ocorrido há mais de 7 anos, razão pela qual não constitui fundamento apto a justificar a custódia.
+Assevera a ausência de fundamentação concreta que justifique a prisão preventiva do recorrente, baseada apenas na gravidade abstrata dos delitos.
+Assegura a suficiência da aplicação de medidas cautelares alternativas.
+Requer, em liminar e no mérito, a concessão da liberdade ao paciente, ainda que mediante a aplicação de medidas cautelares alternativas.
+É o relatório.
+Decido.
+Cumpre ressaltar que o presente recursotraz pedido idêntico ao formulado no HC 760007/MT, o qual, embora tenha impugnado acórdão diverso, trata da mesmaprisão preventiva ora debatida, a qual foi decretada e mantida nos autos da Ação Penal n.1009880-21.2022.8.11.0042,ante a persistência dos seus fundamentos.
+Na ocasião do julgamento doHC 760007/MT, em decisão monocrática derelatoria, recentemente proferida em 9/9/2022, estaCorte Superior, não conheceu da impetração, diante da inadmissibilidadeda análise da questão relativa à autoria delitiva, ante a necessária análise fático-probatória, bem diante da idoneidade dos fundamentos que justificaram a prisão preventiva do agente, os quais permaneceminalterados, conforme consta do acórdão ora recorrido.
+Assim, diante de inadmissível reiteração de pedidos, obstaculizado o conhecimento deste recurso.
+Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. MERA REITERAÇÃO DE PEDIDO ANTERIOR. PROSSEGUIMENTO DO FEITO. IMPOSSIBILIDADE. AGRAVO NÃO PROVIDO.
+1. Como já salientado na decisão agravada, a questão aqui suscitada foi objeto, primeiramente, do HC n. 727.633/PE, que se volta contra o mesmo acórdão e também pretende a revogação das medidas cautelares fixadas em desfavor do ora agravante.
+2. O writ em questão já foi conhecido, na oportunidade em que restou indeferida a medida liminar, de modo que não há plausibilidade na questão suscitada pela defesa no regimental.
+3. É praxe, pelos Ministros integrantes da Sexta Turma do Superior Tribunal de Justiça, o conhecimento de habeas corpus substitutivo do recurso ordinário em habeas corpus, com o exame da questão de mérito suscitada na impetração. Breve pesquisa nos julgados deste órgão colegiado deixa clara essa prática.
+4. O fato de a defesa haver buscado, por dois meios distintos - habeas corpus autônomo (já conhecido, repita-se) e posterior recurso ordinário em habeas corpus - obter manifestação desta Corte Superior sobre a mesma tese, evidencia abuso do direito de litigar, o que acarreta um desnecessário gasto de recursos humanos e uma odiosa perda de tempo do órgão judicante, que já se vê sobrecarregado pela grande quantidade de feitos distribuídos e julgados diariamente.
+5. Agravo não provido.
+(AgRg no RHC n. 164.978/PE, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 23/8/2022, DJe de 31/8/2022.)
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. 1. MERA REITERAÇÃO. MATÉRIA EXAMINADA NO HC 611.694/RJ. 2. ALTERAÇÃO DA JURISPRUDÊNCIA. PEDIDO DE APLICAÇÃO RETROATIVA. INSTÂNCIA EXAURIDA. 3. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. A matéria trazida no presente mandamus já foi analisada por esta Corte Superior no julgamento do HC 611.694/RJ. Dessarte, ainda que tenha havido alteração no entendimento jurisprudencial, não compete ao STJ conhecer de HC contra seus próprios julgados, devendo o agravante se insurgir na Corte constitucionalmente competente.
+2. Importante ressaltar que o processo é um encadeamento de atos para frente, não sendo possível, portanto, que a parte ingresse com pedidos perante instâncias já exauridas. Ademais, não se pode descurar que "a mudança de entendimento jurisprudencial não autoriza à parte litigante pleitear a sua aplicação retroativa, por uma questão de segurança e estabilidade jurídica". (AgRg no AgRg no HC n. 667.949/CE, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 21/6/2022, DJe de 24/6/2022.)
+3. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 753.519/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 16/8/2022, DJe de 22/8/2022.)
+Por tais razões, indefiro liminarmente o presente recurso emhabeas corpus.
+Publique-se.
+Intimem-se.
