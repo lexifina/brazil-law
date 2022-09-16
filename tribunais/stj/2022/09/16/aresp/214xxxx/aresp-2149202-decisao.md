@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo interposto peloINSTITUTO NACIONAL DE METROLOGIA, QUALIDADE E TECNOLOGIA - INMETROcontra decisão doTRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, que não admitiu recurso especial, fundado na alínea "a" do permissivo constitucional, o qualdesafia acórdão assim ementado (e-STJ fl. 35):
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. SISBAJUD.
+1. É impenhorável a quantia depositada até quarenta salários mínimos em caderneta de poupança (art. 833, X, NCPC), bem como a mantida em papel moeda, conta-corrente ou aplicada em CDB, RDB ou em fundo deinvestimentos, desde que seja a única reserva monetária, e ressalvado eventual abuso, má-fé, ou fraude (Súmula 108 do TRF4).
+2. O juiz pode reconhecer a impenhorabilidade dos valores inferiores a 40 salários mínimos ou conformar a sua ordem para que a penhora recaia apenas sobre os valores excedentes.
+Embargos de declaração rejeitados (e-STJ fls.53/56).
+No recurso especial obstaculizado, a parte recorrente apontou violação do1.022,II,doCódigo de Processo Civil de 2015, porque, apesar de opostos embargos de declaração, o Tribunal de origem não se manifestou sobre questões relevantes ao deslinde da controvérsia.
+Defendeu, ainda, ofensa aos arts. 789, 797, 835, I, e854, §§ 3º, I, e 5ºdo CPC/2015e aosarts. 7º, II, 9º, 10 e 11da Lei n. 6.830/1980, uma vez que o juízo da execuçãoafastou antecipadamente a possibilidade de penhora de valores inferiores a 40 salários mínimos.
+Aduz que eventual impenhorabilidade de valoresdeve ser comprovada pelo executado posteriormente, oportunidade em que o juízo da execução poderá fazer a liberação da quantia então bloqueada.
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem (e-STJ fls. 67/70), tendo sido os fundamentos da decisão atacados no agravo em recurso especial (e-STJ fls. 75/83).
+Passo a decidir.
+Quanto à alegada ofensa ao art. 1.022, do CPC/2015, não se vislumbra nenhum equívoco ou deficiência na fundamentação contida no acórdão recorrido, sendo possível observar que o Tribunal a quo apreciou integralmente a controvérsia, apontando as razões de seu convencimento, não se podendo confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Ademais, consoante entendimento desta Corte, o magistrado não está obrigado a responder a todas as alegações das partes,tampouco a rebater um a um todos os seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie.
+Nesse sentido:
+IPVA. NÃO CONFIGURADA VIOLAÇÃO DO ART. 1.022 DO CPC/2015. CERCEAMENTO DE DEFESA. INCIDÊNCIA DA SÚMULA 283 DO STF. ALIENAÇÃO FIDUCIÁRIA DE VEÍCULO. ILEGITIMIDADE PASSIVA DO CREDOR FIDUCIÁRIO. CONTROVÉRSIA DIRIMIDA COM ANÁLISE DE LEGISLAÇÃO DISTRITAL. INCIDÊNCIA DA SÚMULA 280/STF. LEI LOCAL. ILEGITIMIDADE ATIVA DO DISTRITO FEDERAL. REEXAME DO CONJUNTO PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7 DO STJ. MULTA DO ART. 1026 DO CPC/2015.
+1. Inicialmente, em relação aos arts. 141 e 1022 do CPC, deve-se ressaltar que o acórdão recorrido não incorreu em omissão, uma vez que o voto condutor do julgado apreciou, fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte recorrente. Vale destacar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional.
+ ..
+(REsp 1671609/DF, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 27/06/2017, DJe 30/06/2017)
+Quanto ao mais, a Corte de origem manteve a decisão do magistrado de primeira instância nos seguintes termos (e-STJ fl. 38):
+O pedido liminar foi assim fundamentado:
+Não estão sujeitos à execução os bens que a lei considera impenhoráveis (art. 832 do CPC).
+É impenhorável a quantia depositada em caderneta de poupança, até o limite de 40 (quarenta) salários-mínimos (art. 833, X, do CPC).
+Dispõe a Súmula 108 deste Tribunal:
+"É impenhorável a quantia depositada até quarenta salários mínimos em caderneta de poupança (art. 833, X, NCPC), bem como a mantida em papel moeda, conta-corrente ou aplicada em CDB, RDB ou em fundo de investimentos, desde que seja a única reserva monetária, e ressalvado eventual abuso, má-fé, ou fraude."
+O posicionamento atual da Turma é no sentido de que o juiz pode deixar de bloquear os ativos financeiros caso seja aferido que os valores sujeitos ao bloqueio são inferiores a 40 salários-mínimos (cf. TRF4, AG nº 5006254-90.2016.404.0000, 2ª Turma, juntado aos autos em 20-05-2016; AG nº 5048090-38.2019.4.04.0000/RS, 2ª Turma, julgado em 18-02-2020).
+O juiz, ao constatar que a penhora recaiu sobre valores localizados nas contas bancárias do executado e que são inferiores a 40 salários-mínimos, pode determinar a liberação dos recursos, ou conformar a ordem para que incida apenas sobre os valores que superem esse montante.
+Ante o exposto, indefiro o pedido de antecipação da tutela recursal.
+Não tendo sido noticiados fatos novos, tampouco deduzidos argumentos suficientemente relevantes ao convencimento em sentido contrário, mantenho a decisão proferida por seus própriosfundamentos. (Grifos do original).
+Sobre o tema, cumpre observar que, na vigência do antigo estatuto processual,o art. 649 já previa a proteção da segurança alimentar e de provimentos do devedor e de sua família.
+Após a reforma em 2006, a proteção ficou ainda mais explícita com a previsão no inciso X do art. 649 da impenhorabilidadedas poupanças até 40 salários mínimos, também previsto no atual instituto processual (art. 833, X, do CPC/2015), sendo este o valor considerado pelo legislador como apto a ensejar um padrão de vida digno mínimo ao devedor e a sua família, assegurando-lhe bens indispensáveis à preservação do mínimo existencial.
+Registre-se, por oportuno que, apesar de a legislação processual fazer menção devalor em caderneta de poupança, o quantumpode estar depositado ou aplicado em outros tipos de contas ou investimentos, como conta corrente e fundos de investimentos.
+Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. VALORES BLOQUEADOS EM CONTA POUPANÇA. IMPENHORABILIDADE. LIMITE DE ATÉ 40 SALÁRIOS MÍNIMOS. AGRAVO INTERNO DA FAZENDA NACIONAL NÃO PROVIDO.
+1. É entendimento desta Corte Superior que são impenhoráveis os saldos inferiores a 40 salários-mínimos depositados não só em caderneta de poupança mas, também, a mantida em fundo de investimento, em conta-corrente ou guardada em papel-moeda, ressalvado eventual abuso, má-fé ou fraude. (AgInt no REsp 1.858.456/RO, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 15/6/2020, DJe 18/6/2020).
+2. Agravo Interno da FAZENDA NACIONAL não provido. (AgInt no AREsp 1853515/RS, Rel. Ministro MANOEL ERHARDT (DESEMBARGADOR CONVOCADO DO TRF5), PRIMEIRA TURMA, julgado em 04/10/2021, DJe 07/10/2021).
+EXECUÇÃO FISCAL. APLICAÇÃO FINANCEIRA. IMPENHORABILIDADE DO LIMITE PREVISTO NO ART. 649, X, DO CPC. AFASTAMENTO DA CONSTRIÇÃO EM RELAÇÃO AO LIMITE DE QUARENTA SALÁRIOS MÍNIMOS.
+1. O Superior Tribunal de Justiça possui jurisprudência que entende serem impenhoráveis os valores que alcancem até o montante de quarenta salários mínimos depositados em poupança, como também aqueles depositados em conta-corrente ou fundo de investimento.
+2. O STJ também já decidiu que a simples movimentação atípica apurada pelas instâncias ordinárias, por si só, não constitui má-fé ou fraude a ensejar a mitigação da impenhorabilidade estabelecida pelo art. 833, X, do novo CPC.
+3. Agravo Interno não provido. (AgInt no REsp 1897212/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 19/04/2021, DJe 01/07/2021).
+Com efeito, a previsão de impenhorabilidade das aplicações financeiras do devedoraté o limite de 40 salários-mínimos é presumida, cabendo ao credor demonstrar eventual abuso, má-fé ou fraude do devedor, a ser verificado caso a caso, de acordo com as circunstâncias de cada hipótese trazida à apreciação do Poder Judiciário.
+Forçoso convir que o acórdão recorrido encontra-se em harmonia com a jurisprudência do Superior Tribunal de Justiça, circunstância que atrai a aplicação da Súmula 83 do STJ ("Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida"), que é cabível quando o recurso especial é interposto com base nas alíneas "a" e/ou "c" do permissivo constitucional.
+Confiram-se, ainda: AREsp 2137941/PR, Relator Ministro FRANCISCO FALCÃO, DJe 18/08/2022; e AREsp 2134872/RS, Relator Ministro SÉRGIO KUKINA, DJe 03/08/2022.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a" e "b" , do RISTJ, CONHEÇO do agravo para CONHECER PARCIALMENTE do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO.
+Publique-se. Intimem-se.
