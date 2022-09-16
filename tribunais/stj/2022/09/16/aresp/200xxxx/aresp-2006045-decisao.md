@@ -1,0 +1,54 @@
+DECISÃO
+TRANSPORTES E COMERCIO DE MATERIAIS PARA CONSTRUÇÃO LTDA. (TRANSPORTES) ajuizou ação monitória contra ENGEVIX CONSTRUÇÕES S.A. (ENGEVIX), tendo por objeto duplicatas nos valores de R$14.378,00 e R$15.034,50.
+A ENGEVIX apresentou embargos monitórios.
+A sentença rejeitou os embargos monitórios e julgou procedente o pedido para constituir o título judicial em favos da parte autora.
+NOVA ENGEVIX (ENGEVIX) interpôs recurso de apelação apreciado pela Corte Bandeirante em acórdão da relatoria do Des. JAIRO BRAZIL FONTES OLIVEIRA, assim ementado:
+AÇÃO MONITÓRIA. Sentença de procedência, com consequente apelo da embargante. Recorrente que faz jus à concessão da gratuidade da justiça apenas no tocante ao recolhimento das custas do preparo da apelação. Concessão do benefício da gratuidade processual, restrito ao ato de recolhimento das custas do preparo de apelação. Inteligência do artigo 98, § 5º, do Código de Processo Civil. Pedido instruído com notas fiscais e romaneios de entrega dos produtos devidamente assinados, não especificamente impugnados pela apelante. Admissibilidade. Documentos que constituem prova escrita sem eficácia de título executivo. Entrega das mercadorias e inadimplência que são incontroversas. Apelante que não impugna, ademais, os valores lançados nas notas, e tampouco demonstra qualquer irregularidade nos cálculos elaborados pela apelada. Recurso parcialmente provido apenas para deferir à apelante a gratuidade da justiça exclusivamente para o fim de isentá-la do recolhimento do preparo do recurso de apelação, nos termos do artigo 98, § 5º, do Código de Processo Civil (e-STJ, fl. 159).
+Os embargos de declaração da NOVA ENGEVIX foram rejeitados (e-STJ, fls. 205/209).
+NOVA ENGEVIX interpôs recurso especial com base no art. 105, III, a, da CF, onde alegou violação dos arts. 373, I. 700 e 1022 do NCPC, pelos seguintes fundamentos (1) negativa de prestação jurisdicional; (2) a documentação apresentada pela recorrida não é apta a demonstrar a existência do débito alegado; (3) a recorrida não fez prova constitutiva do direito alegado.
+Foram ofertadas contrarrazões (e-STJ, fls. 213/222).
+O Tribunal recorrido inadmitiu o recurso nobre por (1) não se verificar ofensa ao art. 1022 do NCPC; (2) não ter sido demonstrada a infringência dos preceitos legais arrolados; (3) a pretensão recursal é obstada pela Súmula nº 7 do STJ.
+NOVA ENGEVIX ingressou com agravo em recurso especial sustentando que (1) usurpação da competência desta Corte pela decisão recorrida; (2) ocorreu a ofensa ao art. 1022 do NCPC; (3) foi demonstrada a violação dos preceitos legais arrolados; (4) não se aplica a Súmula nº 7 do STJ.
+Foi apresentada contraminuta (e-STJ, fls. 240/248).
+Parecer ministerial às fls. 262/265 (e-STJ)
+É o relatório.
+DECIDO
+A irresignação não merece prosperar.
+De plano vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Registre-se que não há que se falar em usurpação da competência desta Corte pela decisão agravada, pois é possível a incursão no mérito da lide pelo Tribunal local quando necessária à análise dos pressupostos constitucionais de admissibilidade do recurso especial, nos moldes do preconizado no enunciado n. 123 da Súmula desta Corte, sem que isso configure usurpação de competência.
+(1) Da violação do art. 1022 do NCPC
+Nas razões do seu recurso, NOVA ENGEVIX alegou a violação do art. 1.022, do NCPC, pois (1) ter esclarecido que se insurgiu contra os documentos apresentados pela recorrida; (2) repisou que os documentos apresentados pela recorrida não preenchiam os requisitos para ingresso da ação monitória; (3) ao apreciar os embargos declaratórios, o relator manteve seu entendimento e assim negou a prestação jurisdicional; (4) a questão posta é de extrema relevância e a manifestação do julgador é de rigor inclusive para fins de modificação do julgado.
+Contudo, constou expressamente do acórdão recorrido que (1) os documentos não são apócrifos e as assinaturas não foram impugnadas especificamente pela recorrente; (2) o funcionário da recorrente confirmou o recebimento das notas fiscais e boleto; (3) a documentação apresentada pela recorrida foi suficiente para o ajuizamento da ação monitória, confira-se:
+Ao contrário do alegado pela recorrente, como constou do v. acórdão (páginas 162/163), os romaneios de entrega dos produtos de páginas 18/28 não são apócrifos, e as assinaturas neles apostas
+não foram especificamente impugnadas pela recorrente, observado ainda que do documento de página 32 se extrai que funcionário da recorrente confirmou o recebimento das notas fiscais e boleto, a existir prova escrita suficiente para propositura da ação monitória. E a despeito da alegação de inexistência de prova escrita, a recorrente não nega que de fato recebeu a mercadoria, e não veicula alegação de que tenha efetuado pagamento (e-STJ, fls. 206/207).
+Assim, inexistem os vícios elencados no art. 1.022 do NCPC, sendo forçoso reconhecer que a pretensão recursal ostenta caráter nitidamente infringente, visando rediscutir matéria que já foi analisada.
+A jurisprudência desta Casa é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+Nesse sentido, confira-se o seguinte precedente:
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. ARTS. 489 E 1022 DO CPC/2015. VIOLAÇÃO. INEXISTÊNCIA. AUSÊNCIA DE COMPROVAÇÃO DE PREPARO. CONCESSÃO DE JUSTIÇA GRATUITA NÃO DEMONSTRADA. INTIMAÇÃO PARA REGULARIZAÇÃO. NÃO ATENDIMENTO. DESERÇÃO. NÃO PROVIMENTO.
+1. O Tribunal de origem analisou todas as questões necessárias ao deslinde da controvérsia, não se configurando omissão, contradição ou negativa de prestação jurisdicional.
+2. É deserto o recurso especial se, concedida oportunidade para comprovação da regularidade do preparo efetuado ou, caso necessário, para efetivação de novo recolhimento, na forma do artigo 1.007 do CPC, a parte não o faz tempestivamente.
+3. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp 1780937/PR, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 29/11/2021, DJe 01/12/2021)
+Afasta-se, portanto, a alegada violação.
+(2) Dos arts. 373, I e 700 do NCPC
+NOVA ENGEVIX afirmou a violação dos supracitados dispositivos sustentando que (1) a recorrida não fez prova constitutiva do seu direito; (2) a documentação apresentada pela recorrida não é apta a demonstrar a existência do débito alegado
+Sobre o tema o Tribunal recorrido consignou que (1) foi apresentada a documentação necessária à propositura da ação monitória; (2) a recorrente não impugnou especificamente as notas fiscais e os romaneios de entrega; (3) ocorreu a cobrança da embargante apelante relativa às notas fiscais que acompanham a inicial, e seu funcionário confirmou o recebimento das notas fiscais e boleto; (4) ficou comprovado o débito da recorrente e a ausência de pagamento; (5) o contexto probatório dá guarida à pretensão inicial, confira-se:
+No mais, o manejo do procedimento monitório requer a existência de prova escrita, sem eficácia de título executivo, que evidencie o direito daquele que pleiteia do seu devedor o pagamento de quantia em dinheiro.
+É certo que, para que a apelada pudesse fazer uso do procedimento monitório, era imprescindível a apresentação de documento que comprovasse a existência do direito alegado.
+Como destacado pelo juízo de origem, a embargada recorrida juntou aos autos notas fiscais e romaneios de entrega dos produtos devidamente assinados (páginas 17/28), não especificamente impugnados pela apelante. Além disso, dos e-mails de páginas 31/34, extrai-se que houve a cobrança da embargante apelante relativa às notas fiscais que acompanham a inicial, e à página 32, funcionário da recorrente inclusive confirma o recebimento das notas ficais e boleto.
+Referidos documentos constituem prova escrita suficiente para propositura da ação. A prova escrita exigida é todo documento que autorize o juiz a reconhecer a legitimidade da cobrança de determinada dívida.
+Não bastasse, a apelante não nega o recebimento da mercadoria, e a inadimplência é incontroversa. Além disso, não impugna os valores lançados nas notas, e tampouco demonstra qualquer irregularidade nos cálculos elaborados pela recorrida.
+(..)
+Incontroversa existência de relação jurídica, se a credora alega o descumprimento da obrigação pela devedora, caberá a esta a prova de pagamento, correspondente à quitação, não produzida.
+Ante prova suficiente do débito, e ausente prova de pagamento, era mesmo o caso de rejeitar os embargos monitórios.
+Ao contrário do sustentado pela apelante, o contexto probatório dá guarida à pretensão inicial (e-STJ, fls. 162/163).
+Assim, rever as conclusões do acórdão impugnado à luz da fundamentação desenvolvida no recurso especial demandaria, necessariamente, reexame do conjunto fático-probatório dos autos, o que é vedado em razão do óbice da Súmula nº 7 do STJ.
+Nesse sentido, confira-se a jurisprudência desta Corte:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C INDENIZAÇÃO POR DANOS MORAIS. 1. DEMONSTRAÇÃO DA PROVA CONSTITUTIVA DO DIREITO CONFIGURADA.ALTERAÇÃO. SÚMULA N. 7 DO STJ. 2. ART. 461 DO CPC/1973. IMPOSSIBILIDADE DE ANÁLISE. INOVAÇÃO RECURSAL. 3. AGRAVO INTERNO IMPROVIDO.
+1. Rever as conclusões do acórdão impugnado, referentes à comprovação dos fatos constitutivos do direito alegado pela recorrente, demandaria o reexame de matéria fático-probatória, o que é vedado em recurso especial, nos termos da Súmula n. 7/STJ.
+ ..  3. Agravo interno improvido. (AgInt no AREsp 1.105.810/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 21/11/2017, DJe 29/11/2017)
+Nessas condições, CONHEÇO do agravo para CONHECER EM PARTE do recurso especial e nessa extensão NEGAR-LHE PROVIMENTO.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-
+EMENTA
+EMBARGOS À AÇÃO MONITÓRIA. AGRAVO EM RECURSO ESPECIAL NA ÉGIDE DO NCPC. VIOLAÇÃO DO ART. 1022 DO NCPC NÃO CONFIGURADA. PRETENSÃO RECURSAL FUNDADA NA OFENSA AOS ARTS. 373, I E 700 DO NCPC QUE É OBSTADA PELA SÚMULA Nº 7 DO STJ. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E NEGAR-LHE PROVIMENTO.
