@@ -1,0 +1,6 @@
+DECISÃO
+Estando pendente o julgamento do agravo interno interposto por Raízen S/A contra a decisão de fls. 4.009-4.011 (e-STJ),asparteslitigantes protocolaram, conjuntamente, a Petição n. 806.599/2022, subscrita pelos respectivos advogados, por intermédio da qual noticiam a celebração de acordo para encerrar o litígio, tendo solicitado a sua homologação.
+Com amparo na redação conferida ao art. 34, IX, do RISTJ pela Emenda Regimental n 24/2016, e a fim de que surta seus jurídicos e legais efeitos,homologo, em parte,o acordo celebrado pelos litigantes, na forma do instrumento de fls. 4.064-4.068(e-STJ), apenas quanto ao que nele se dispôs a respeito da ação rescisória de que tratam estes autos (Processo n. 1026573-80.2020.8.11.0000), cabendo-lhes requerer diretamente aomagistrado de primeiro grau a homologação das disposições relacionadas ao Cumprimento de Sentença n. 0000997-40.2013.8.11.0003.
+Em consequência, julgo extinta a presente ação rescisória com resolução de mérito, nos termos do art. 487, III, "b", do CPC/2015.
+Por não haver necessidade de se aguardar o decurso do prazo recursal, cuide a Coordenadoria de, tão logo publicada esta decisão, certificar o trânsito em julgado e providenciar a baixa dos autos à origem.
+Publique-se.
