@@ -1,0 +1,10 @@
+DECISÃO
+FÁBIO ALEXANDRE CARDOSOrequer, em juízo de reconsideração, odireito de extensão da decisão de fls. 102-104.
+A concessão da ordem está lastreada nas seguintes motivações, objetivas: a) excesso de prazo da prisão preventiva, que perdura desde 16/11/2018, ná quase quatro anose b) réu impronunciado do crime contra a vida,e que aguarda, desde 31/3/2021, o julgamentode recursos dos demais acusados sem previsão para adesignação do Júri. Pontuou-se, ainda, a periculosidade social do acusado e a justificativa para a imposição de cautelares do art. 319 do CPP, em face de seus registros penais diversos.
+O postulantetambémfoi impronunciado pelo crime contra a vida. Ele aguarda o deslinde dos recursos dos corréus para a designação do julgamento dos crimes conexos.
+O advogado especifica que o mandado de prisão preventiva relacionado aoProcesso n. 001/2.18.0033401-8 (CNJ:.0067348-46.2018.8.21.0001) foi cumprido em 29/11/2018, mas não traz nenhuma certidão para comprovar o alegado.
+O ofício de fl. 228 não certifica a data da prisão preventiva e é possível que o período em que Fábio permaneceu em cárcere tenha sido computado, até 13/1/2021,como pena cumprida nos Autos nº. 4817509-36.2010.8.21.1001.
+O Juiz, nas informações que prestou a esta Corte destacou: "Sobreveio informação sobre as prisões de: Filipe Medeiros Cezar Saldanha, Jean Nunes Rocha, Jefferson Augusto Machado Andrade, Claisson Gomes de Castro, Jorge Alberto Rangel dos Santos, FAGNER OLIVEIRA DOS SANTOS, Alex Costa de Vargas e Diogo Dutra Cachoeira que já se encontravam recolhidos no sistema carcerário" (fl. 167).
+Assim, em relação a Fábio, não se verifica prova inequívoca de que a prisão cautelar perdura por quase quatro anos, sem previsão para a designação do Júri. Ausente a similitudeexigida no art. 580 do CPP, não se verifica a possibilidade de utilização do atalho processual. O postulante deverá buscar o direito afirmado por meio de impetração própria, a fim de que sejam sopesadas suas condições subjetivas para a análise da tese deexcesso de prazo.
+À vista do exposto,indefiro o pedido de reconsideração.
+Publique-se e intimem-se.
