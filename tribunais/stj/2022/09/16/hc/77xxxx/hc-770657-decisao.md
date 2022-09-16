@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de Leonardo Santos Galvão-presotemporariamentepela prática, em tese, dodelitode tráfico de drogas-, em que se aponta como autoridade coatora o Tribunal de Justiça do Amapá, que, em decisão monocrática, indeferiu o pedido liminar no writ ali impetrado (Habeas Corpus n. 0005652-71.2022.8.03.0000), mantendo a prisão cautelar dopaciente na ação penal que tramita no Juízo de Direito daVara Única da comarca dePorto Grande/AP(Autos n. 0001746-40.2022.8.03.0011).
+Daí o presente habeas corpus, em que se busca a superação da Súmula 691 do Supremo Tribunal Federal a fim de que seja revogada aprisão temporária dopaciente, além de suscitara possibilidade de concessão de medidas alternativas à prisão.
+É o relatório.
+A teor do Enunciado n. 691 da Súmula do Pretório Excelso,entende-se não ser cabível a impetração de habeas corpus contra decisão de relator indeferindo medida liminarem açãoajuizada nos Tribunais de segundo grau, salvo a hipótese de inquestionável teratologia ou ilegalidade manifesta.
+Tal posicionamento pode ser afastado apenas em situações excepcionais, se evidenciada a configuração de flagrante ilegalidade ou abuso de poder, o que aqui não se observa.
+Ora, no presente caso, o Relator do mandamus original, ao indeferir o pedido liminar,constatou presentes os pressupostos autorizadores da medida requerida, uma vez quedescrita a gravidade concreta da conduta, até porque também haveria indícios concretos de sua habitualidade no tráfico de drogas, eis que o paciente Leonardo dos Santos Galvão é apontado como um dos líderes na venda de entorpecentes ilícitos no município atuando vendendo e fornecendo drogas com sua ex companheira Janaínae sua atual companheira Lorena(fl. 183 - grifo nosso).
+Ao que consta, o Magistrado de piso, entendendoimprescindível para as investigações do inquérito policial,acolheu o requerimento da autoridade policial, com parecer favorável do Parquet, e decretou a prisão temporária dos acusados, além de deferir a ordem de busca e apreensão, nestes termos (fls. 80/82 - grifo nosso):
+Tratam os autos de representação pela prisão temporária e busca e apreensão em desfavor de JANAINA DOS SANTOS SERRA, LORENA PAOLA DE JESUS SOUZA, ALAIDSON CARDOSO DOS SANTOS e LEONARDO DOS SANTOS GALVÃO.
+Narrou o Delegado de Polícia que o pleito de segregação cautelar os representados e de busca e apreensão serve para subsidiar a operação policial "cochonilha 2" que tem o intuito de desbaratar o tráfico de drogas no município de Porto Grande.
+Segundo a autoridade policial, JANAINA DOS SANTOS SERRA é contumaz na venda de entorpecentes ilícitos em sua residência mesmo após a separação de LEONARDO GALVÃO.
+Por seu turno, LORENA PAOLA DE JESUS SOUZA, atual companheira de LEONARDO GALVÃO, é uma das líderes da venda de entorpecentes no município e tem uma "boca de fumo" em sua casa.
+O representado ALAIDSON CARDOSO DOS SANTOS  loirinho , consoante as investigações, está articulado na venda de drogas de LEONARDO GALVÃO  "FRANCÊS"  e atua associado com este na traficância ilícita.
+LEONARDO DOS SANTOS GALVÃO é apontado como um dos líderes na venda de entorpecentes ilícitos no município atuando vendendo e fornecendo drogas com sua ex companheira JANAINA e sua atual companheira LORENA.
+Instado a se manifestar, o Ministério Público pugnou pelo deferimento da prisão temporária  MO 6 .
+Pois bem.
+Recentemente julgamento, o STF nas ADI 4109/DF e ADI 3360/DF  Rel. Min. Carmen Lúcia, redator para o acórdão Min. Edson Fachin, julgado em 11/2/2022 , interpretando constitucionalmente a lei da prisão temporária  Lei nº 7.960/89  estabeleceu que a prisão deve ser imprescindível para as investigações do inquérito policial; devem haver fundadas razões de autoria ou participação do indiciado; deve ser justificada em fatos novos ou contemporâneos; adequada à gravidade concreta do crime, às circunstâncias do fato e às condições pessoais do indiciado; e não ser suficiente a imposição de medidas cautelares diversas da prisão.
+No caso concreto, verifico que estão presentes todos requisitos ensejadores de prisão temporária cautelar dos investigados.
+Explico.
+A prisão é indispensável para as investigações já que a oitiva destes tem o condão de elucidar a dinâmica e estrutura do esquema de venda de entorpecentes ilícitos no município, bem como a própria participação dos investigados no esquema.
+Conforme relatório de investigação juntados na representação, verifica-se que estão presentes também indícios de autoria dos investigados no delito de tráfico de drogas, o que se percebe principalmente através do depoimento de JANAINA SERRA  fls. 7 a 9 da representação  que afirma haver o esquema de venda de drogas ligado aos demais investigados.
+A atualidade dos fatos investigados está também presente na narrativa da representação já que o esquema de venda de drogas apontado pelas investigações está em operação neste momento.
+Frise-se que o crime em investigação é grave tanto que figura no rol do art. 1º, III, "n" da lei 7.960/89 que regulamenta a prisão temporária.
+Da mesma forma, a prisão temporária demonstra-se única forma eficaz para o deslinde das investigações, pois os investigados conseguem ocultar facilmente o material ilícito dos investigadores através de suas redes de informantes e colaboradores.
+Assim, neste momento, são insuficientes cautelares diversas da prisão para o escorreito andamento das investigações.
+Com efeito, cumpridos os requisitos ensejadores da segregação cautelar temporária conforme exposto cima, DECRETO a PRISÃO TEMPORÁRIA de JANAINA DOS SANTOS SERRA, LORENA PAOLA DE JESUS SOUZA, ALAIDSON CARDOSO DOS SANTOS e LEONARDO DOS SANTOS GALVÃO por 30 dias nos termos da lei 7.960/89.
+Nesse sentido, esta Corte Superior de Justiça é assente ao entender que se enquadra no conceito de garantia da ordem pública a necessidade de se interromper ou diminuir a atuação de integrantes de organização criminosa, no intuito de impedir a reiteração delitiva (AgRg no RHC n. 126.375/MT, Ministro Felix Fischer, Quinta Turma, DJe 9/6/2020).
+Portanto, diante da inadmissível supressão de instância, convém aguardar o trâmite dowrit na origem, a fim de permitir que o órgão competente analise com melhor propriedadea matéria ali levantada.
+Ante o exposto, com fundamento nos arts. 38 da Lei n. 8.038/1990 e 210 do RISTJ,indefiro liminarmentea petição inicial.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO TEMPORÁRIA. FUNDAMENTAÇÃO.WRIT IMPETRADO CONTRA A DECISÃO MONOCRÁTICA DO RELATOR, QUE INDEFERIU MEDIDA DE URGÊNCIA EMMANDAMUS ORIGINÁRIO. TERATOLOGIA OU ILEGALIDADE. AUSÊNCIA. INCIDÊNCIA DA SÚMULA 691/STF.
+Inicial indeferida liminarmente.
