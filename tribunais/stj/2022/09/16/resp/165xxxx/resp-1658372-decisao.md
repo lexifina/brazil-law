@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso especial interposto pela Fazenda Nacional, com fundamento no artigo 105, III, a, da Constituição Federal, contra acórdão proferido pelo TRF da 4ª Região, assim ementado (fl. 1418):
+AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. EXECUÇÃO FISCAL. REDIRECIONAMENTO. DISSOLUÇÃO IRREGULAR. INDÍCIOS. SÚMULA Nº 435 DO STJ. PRESCRIÇÃO INTERCORRENTE. OCORRÊNCIA. ACTIONATA.
+1. A prescrição objetiva não só garantir a segurança jurídica, mas também punir o credor que permanece inerte e não busca satisfazer o seu crédito em tempo hábil. Razão pela qual o início da prescrição vincula-se ao momento em que o credor pode exercer seu direito de cobrar e não o faz por inércia, consoante consagrado pelo princípio da actio nata.
+2. Esta Corte vem decidindo que o início para a contagem do prazo de prescrição para o redirecionamento, no caso da constatação da dissolução irregular, dá-se no momento em que os indícios de encerramento das atividades chegam aos autos.
+3. Deve ser reconhecida a prescrição para o redirecionamento em relação aos autos n. 5010625-45.2013.404.7003.
+4. Agravo de instrumento parcialmente provido.
+Embargos de declaração rejeitados (fls. 1447/1452).
+Em suas razões, a recorrente alega, primeiramente, violação do art. 1022do CPC/2015, ao argumento de que a Corte local não se manifestou sobre pontos importantes para o deslinde da controvérsia, especificamente sobre as seguintes alegações: relativamente à prescrição, não houve decisão determinando a suspensão do feito com base no artigo 40, § 2º, da LEF e impossibilidade de aplicação retroativa da Súmula 435/STJ.
+Quanto ao mérito, aponta ofensa aos arts. 125, III, e 174 do CTN. Para tanto, sustenta: (i) inviabilidade de aplicação retroativa da Súmula 435/STJ e (ii) inexiste " dispositivo legal a autorizar reconhecimento de prescrição pelo decurso de mais de cinco anos entre a data de citação do devedor principal e do responsável tributário, ou entre adata da ciência da dissolução irregular e o pedido de redirecionamento" (fl. 1468).
+Com contrarrazões.
+Juízo de admissibilidade às fls. 1570/1571, admitindo o recurso especial da Fazenda Nacional tão somente quanto à alegação de violação do art. 1022 do CPC/2015, visto que quanto ao mérito, em virtude da adequação do julgado com Tema repetitivo n. 444, negou seguimento ao recurso.
+É o relatório. Passo a decidir.
+De início, consigne-se que aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC (Enunciado n. 3 do Plenário do STJ).
+Na hipótese dos autos, observa-se que há questões dissociadas do tema repetitivo, de forma que merecem serapreciadas.
+Adiante, a afasta-se a alegada violação do artigo 1.022 do CPC/2015, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia, tendo assentado que (fls. 1448/1449):
+No que tange à tese de que não haveria como a União postular pelo redirecionamento quando da dissolução irregular, porquanto a súmula 435 do STJ foi publicada somente em 13/5/2010, ao passo que os indícios datam de 2009, tenho que esta não merece prosperar.
+Isso porque é sabido que a edição de súmulas corresponde ao registro de interpretação pacificada ou, ao menos, majoritária a respeito de um determinado tema. Elas surgem a partir de julgamentos de diversos casos análogos e, por óbvio, anteriores a sua edição. Assim, não é, pois, dispositivo legal a ser seguido a partir de sua vigência. Com efeito, ainda que a exequente não tenha ficado mais de cinco anos sem movimentar o feito, o redirecionamento em face dos sócios foi atingido pela prescrição.
+Como se nota, a tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+No que tange à alegação de que não é possível a aplicação retroativa da Súmula 435/STJ, a recorrente não individualizou qual dispositivo de lei federal ou tratado se apresenta malferido. De fato, revelam-se deficientes as razões do recurso especial quando o recorrente limita-se a expor alegações genéricas e não indica qual dispositivo de lei federal ou tratado foi contrariado pelo acórdão recorrido, situação que se evidencia nos autos e impede o conhecimento do recurso. Aplica-se à hipótese a Súmula 284/STF.
+Ante o exposto, conheço parcialmente do recurso especial e, nessa extensão, nego-lhe provimento.
+Caso tenham sido fixados honorários sucumbenciais anteriormente pelas instâncias ordinárias, majoro em 10% os honorários advocatícios, observados os limites e parâmetros dos §§ 2º, 3º e 11 do artigo 85 do CPC/2015 e eventual Gratuidade da Justiça (§ 3º do artigo 98 do CPC/2015).
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. VIOLAÇÃO DOART.1.022 DO CPC/2015. NÃO OCORRÊNCIA. NÃO INDICAÇÃO DE DISPOSITIVO DE LEI FEDERAL SUPOSTAMENTE VIOLADO. SÚMULA 284/STF. RECURSO ESPECIAL PARCIALMENTE CONHECIDO ENÃO PROVIDO.
