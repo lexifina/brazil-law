@@ -1,0 +1,50 @@
+DECISÃO
+Vistos etc.
+Trata-se de agravo em recurso especial interposto por OAS 15 EMPREENDIMENTOS IMOBILIÁRIOS SPE LTDA. em face de decisão que inadmitiurecurso especial fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, interposto contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"APELAÇÃO CÍVEL. COMPROMISSO DE COMPRA E VENDA. OBRIGAÇÃO DE FAZER. INDENIZAÇÃO POR DANO MORAL - CANCELAMENTO DA HIPOTECA - SENTENÇA PARCIALMENTE PROCEDENTE - APELAÇÃO DA VENDEDORA E DO BANCO - PRELIMINAR DE ILEGITIMIDADE PASSIVA DA INSTITUIÇÃO FINANCEIRA AFASTADA - INCONTROVERSA QUITAÇÃO DO PREÇO - HIPOTECA FIRMADA ENTRE A CONSTRUTORA E O AGENTE FINANCEIRO QUE NÃO POSSUI EFICÁCIA PERANTE O ADQUIRENTE - PREVALÊNCIA DOS DIREITOS DO COMPRADOR EM RELAÇÃO ÀQUELES DERIVADOS DA HIPOTECA - REGRAS PROTETIVAS DO CÓDIGO DE DEFESA DO CONSUMIDOR QUE INCIDEM NO CASO - SÚMULA 308 DO C. SUPERIOR TRIBUNAL DE JUSTIÇA - PRECEDENTES - DANO MORAL NÃO CONFIGURADO - INDENIZAÇÃO AFASTADA - SUCUMBÊNCIA RECÍPROCA PROVIMENTO PARCIAL AOS RECURSOS DOS RÉUS PARA AFASTAR A CONDENAÇÃO POR DANO MORAL, COM SUCUMBÊNCIA RECÍPROCA".
+Osembargos de declaração opostosforam rejeitados.
+Nas razões do recurso especial, apartealega a violação dos artigos 85, § 1º,2º, incisos I, II, III e IV, e 8º, e 1.022, incisos I e II, do Código de Processo Civil, bem como a existência de dissídio jurisprudencial, sob os argumentos, em síntese, de quehouve negativa de prestação jurisdicional e deve ser reduzido o valor dos honorários advocatícios de sucumbência, uma vez que foram arbitrados em patamar exorbitante, impondo-se a utilizaçãodo critério da equidade para a sua fixação, em razão do elevado valor da causa, conforme realizado na sentença.
+É o breve relatório.
+Passo a decidir.
+Inicialmente, no que tange à alegada violação doartigo1.022 do Código de Processo Civil de 2015, constato não estar configurada a sua ocorrência.
+O Tribunal de origem assim se manifestou acerca da controvérsia:
+"Diante da sucumbência recíproca, nos termos do art. 86, caput, do CPC, cada litigante arcará com as custas e despesas, as quais devem ser recíproca e proporcionalmente distribuídas e compensadas, meio a meio. Condeno cada litigante ao pagamento de honorários advocatícios da parte adversa, que ora arbitro, em 15% do valor atualizado da causa, dentro da margem legal, já considerados os honorários recursais." (e-STJ fls. 503-504).
+Da leitura dotrechoacima transcrito, verifica-se que a Corte estadual julgou fundamentadamente a matéria devolvida à sua apreciação, expondo, embora de maneira sucinta, a distribuição e o arbitramento dos honorários advocatícios de sucumbência.
+Portanto, a pretensão ora deduzida, em verdade, traduz-se em mero inconformismo com a decisão posta, o que não revela, por si só, a existência de qualquer vício nesta.
+Nesse sentido:
+PROCESSUAL CIVIL E CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO DE DANOS MORAIS. PUBLICAÇÃO DE MATÉRIA JORNALÍSTICA. DEVER DE VERACIADADE. AUSÊNCIA DE VIOLAÇÃO A DIREITO DA PERSONALIDADE. REEXAME DO ACERVO PROBATÓRIO. SÚMULA 7/STJ.
+1. Inexiste violação ao art. 489, §1º, III, do CPC/2015 quando conclusão lançada no decisum está fundamentada em dados do caso concreto.
+2. Não há ofensa ao art. 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese, soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+ ..
+5. Agravo interno não provido.
+(AgInt no REsp 1810899/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 01/03/2021, DJe 03/03/2021)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO CUMULADA COM INDENIZAÇÃO. INSCRIÇÃO NOS ÓRGÃOS DE PROTEÇÃO AO CRÉDITO. DANO MORAL. VALOR RAZOÁVEL. JUROS DE MORA. INCIDÊNCIA DAS SÚMULAS 283 E 284 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1. Não configura ofensa aos arts. 489 e 1.022 do CPC/2015 o fato de o Tribunal de origem, embora sem examinar individualmente cada um dos argumentos suscitados pela recorrente, adotar fundamentação contrária à pretensão da parte, suficiente para decidir integralmente a controvérsia.
+ ..
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1681579/RO, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 08/02/2021, DJe 23/02/2021)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PRESTAÇÃO DE CONTAS. VIOLAÇÃO AOS ARTS. 489 E 1.022, DO CPC. NÃO OCORRÊNCIA. ILEGITIMIDADE ATIVA. AUSÊNCIA DE INTERESSE DE AGIR. IMPROCEDÊNCIA. CONCLUSÕES EMBASADAS NAS PROVAS DOS AUTOS. SÚMULA 7 DO STJ. HONORÁRIOS ADVOCATÍCIOS. PRIMEIRA FASE. CABIMENTO. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se viabiliza o recurso especial pela indicada violação do art. 1.022 do Código de Processo Civil. Isso porque, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão do recorrente.
+2. Em relação à fundamentação do acórdão, observa-se que, mediante convicção formada do exame feito aos elementos fático-probatórios dos autos, o acórdão tratou de forma clara e suficiente a controvérsia apresentada, lançando fundamentação jurídica sólida para o desfecho da lide, apenas não foi ao encontro da pretensão da parte recorrente, o que está longe de significar violação ao art. 489 do CPC/15.
+ ..
+6. Agravo interno não provido.
+(AgInt no REsp 1829646/DF, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 10/12/2020, DJe 18/12/2020)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. INDENIZAÇÃO. AÇÕES DA PETROBRAS. DESVALORIZAÇÃO. ACIONISTA MINORITÁRIA. AÇÃO INDIVIDUAL. PREJUÍZOS INDIRETOS. ILEGITIMIDADE ATIVA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não viola o artigo 1.022 do Código de Processo Civil de 2015 nem importa em negativa de prestação jurisdicional o acórdão que adota fundamentação suficiente para a resolução da causa, porém diversa da pretendida pelo recorrente, decidindo de modo integral a controvérsia posta.  ..
+4. Agravo interno não provido.
+(AgInt no REsp 1787426/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 30/11/2020, DJe 03/12/2020)
+Quanto ao parâmetro de fixação dos honorários advocatícios de sucumbência da presente ação, ainsurgência não merece ser acolhida, uma vez que o acórdão recorrido está em conformidade com a orientação desta Corte Superior.
+Na vigência do Código de Processo Civil de 1973, conforme previa o seu art. 20, § 4º, o arbitramento de honorários advocatícios de sucumbência poderia ser feito com base na equidade nas causas de pequeno valor, nas de valor inestimável, naquelas em que não houvesse condenação ou fosse vencida a Fazenda Pública e nas execuções, embargadas ou não.
+No entanto, esse tema recebeu tratamento distinto no Código de Processo Civil de 2015, ao estatuir critérios objetivos para orientar a atividade do julgador, limitando as hipóteses de aplicação da equidade. Com efeito, na vigência do novo diploma processual, consoante estabelece o seu art. 85, § 8º, a utilização da equidade é restrita aos casos em que o proveito econômico for inestimável ou irrisório ou quando o valor da causa for muito baixo.
+Nesse contexto, no julgamento doTema Repetitivo 1076(REsps n. 1.850.512/SP, 1.877.883/SP, 1.906.623/SP e1.906.618/SP,relator Ministro Og Fernandes, julgados em 16/3/2022, DJe de 31/5/2022), a Corte Especial deste Superior Tribunal de Justiça consolidou as seguintes teses:
+"i) A fixação dos honorários por apreciação equitativa não é permitida quando os valores da condenação, da causa ou o proveito econômico da demanda forem elevados. É obrigatória nesses casos a observância dos percentuais previstos nos §§ 2º ou 3º do artigo 85 do CPC - a depender da presença da Fazenda Pública na lide -, os quais serão subsequentemente calculados sobre o valor: (a) da condenação; ou (b) do proveito econômico obtido; ou (c) do valor atualizado da causa.
+ii) Apenas se admite arbitramento de honorários por equidade quando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo.".
+Portanto, no caso sob apreciação,tendo em vista que o ato judicial foi proferidosob a vigência do CPC/2015,o valor dos honorários advocatícios de sucumbência não poderia ser arbitrado pelo Tribunal de origem com base no critério da equidade por eventualmente se reputar que o montante seria elevado, como defende arecorrente.
+Por fim, considerando que o presente recurso foi interposto na vigência do Novo Código de Processo Civil (Enunciado administrativo n.º 07/STJ), impõe-se a majoração dos honorários inicialmente fixados, em atenção ao art. 85, § 11, do CPC/2015. O referido dispositivo legal tem dupla funcionalidade, devendo atender à justa remuneração do patrono pelo trabalho adicional na fase recursal e inibir recursos cuja matéria já tenha sido exaustivamente tratada.
+Assim, com base em tais premissas, é medida adequada ao caso a majoração dos honorários devidos pela parte ora recorrente ao patrono da recorridaem 1% (um por cento)sobre o valor atualizado da causa.
+Ante o exposto, conheço do agravo para, desde logo,negar provimento ao recurso especial, com majoração de honorários.
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. ALEGAÇÃO DE OFENSA AOARTIGO 1.022 DO CPC/2015. NÃO CONFIGURAÇÃO. ACÓRDÃO SUFICIENTEMENTE FUNDAMENTADO.HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA. CÓDIGO DE PROCESSO CIVIL DE 2015. NECESSIDADE DE OBSERVÂNCIA DO PARÂMETRO MÍNIMO DE 10% (DEZ POR CENTO) SOBRE O VALOR DA CONDENAÇÃO, DO PROVEITO ECONÔMICO OU DA CAUSA. POSSIBILIDADE DE UTILIZAÇÃO DA EQUIDADE COMO CRITÉRIO DE ARBITRAMENTO SOMENTE QUANDO O PROVEITO ECONÔMICO FOR INESTIMÁVEL OU IRRISÓRIO OU QUANDO O VALOR DA CAUSA FOR ÍNFIMO. TEMA 1076/STJ. ACÓRDÃO RECORRIDO EM CONFORMIDADECOM A ORIENTAÇÃO DESTA CORTE SUPERIOR.
+AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
