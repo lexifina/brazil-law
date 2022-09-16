@@ -1,0 +1,54 @@
+DECISÃO
+O retrospecto foi bem delineado no parecer do Ministério Público Federal, do qual extraio o seguinte excerto (e-STJ fls. 571/572):
+Trata-se de recurso especial interposto por MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS, com fulcro no artigo 105, inciso III, alínea "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Minas Gerais que deu provimento parcial à apelação ministerial, assim ementado:
+APELAÇÃO CRIMINAL - FURTOS CONSUMADOS E TENTADO - PRELIMINAR DEFENSIVA:
+INÉPCIA DA DENÚNCIA - INOCORRÊNCIA - REQUISITOS LEGAIS PREENCHIDOS.
+- A denúncia, ao atender os requisitos do artigo 41 do Código Penal, não pode ser alvo de Inépcia, pelo que a denúncia é válida.
+- MÉRITO:
+DELITO DE FURTO CONSUMADO - ABSOLVIÇÃO - IRRESIGNAÇÃO MINISTERIAL - MATÉRIA FÁTICA - SUFICIÊNCIA DE PROVAS DA AUTORIA EM FACE DA IMPUTAÇÃO DA DENÚNCIA - CONDENAÇÃO QUE SE IMPÕE.
+- O reconhecimento do agente pelas vitimas, se respaldado em outros elementos probatórios igualmente indicativos do envolvimento dele no furto, constitui prova suficiente para a condenação.
+RECURSO DEFENSIVO: PENA-BASE - REDUÇÃO - IMPOSSIBILIDADE - CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS.
+  A fixação da pena-base deve ser creditada ao prudente arbitrio do juiz, com base no livre convencimento motivado. Sendo idôneos os fundamentos e razoável o quantum de aumento em face de aspectos desfavoráveis, é de so manter a decisão.
+RECURSO MINISTERIAL: ROMPIMENTO DE OBSTÁCULO-EXAME PERICIAL - IMPRESCINDIBILIDADE - INEXISTÊNCIA DE VESTÍGIOS NÃO EVIDENCIADA - EXCLUSÃO - MANUTENÇÃO.
+- Para o reconhecimento da qualificadora insculpida no Inciso I do §4º do art. 15S do Código Penal, é imprescindível a realização do exame pericial, o qual somente pode ser suprido por outros meios de prova, quando houverem desaparecido os vestígios ou quando as circunstâncias do crime não permitirem a confecção do laudo.
+REPOUSO NOTURNO - RECONHECIMENTO - IMPERATIVIDADE - FURTO PRATICADO DURANTE PERÍODO DE MENOR PODER DE VIGILÂNCIA DA VÍTIMA SOBRE O SEU PATRIMÔNIO.
+- A causa de aumento de pena do repouso noturno reside não na maior vulnerabilidade a que fica exposta a vítima, mas no menor poder de vigilância dessa sobre o seu patrimônio em períodos desprovidos da iluminação solar, razão pela qual é irrelevante o fato de se tratar de estabelecimento comercial ou de residência, habitada ou desabitada, bem como o fato de a vitima estar, ou não, efetivamente repousando.
+V.V.
+  Em face do principio da verdade real, possível é a demonstração da qualificadora do art. 155, §4º, inciso i, do CP, por outros meios de prova licita, mesmo se ausente a perícia (Desembargador Doorgal Borges de Andrada).
+Consta dos autos que o recorrido foi originalmente condenado pela prática dos delitos tipificados no ad. 155, caput, e ad. 155, caput, c/c. 14, inciso II, na forma do art. 71, todos do Código Penal, a uma pena de 01 ano, 09 meses e 23 dias de reclusão, a ser cumprida no regime semiaberto, além de 16 dias-multa.
+A apelação ministerial foi parcialmente provida pelo Tribunal de Justiça para, por maioria, condenar o recorrido também como incurso nas iras do art.155 §1º do Código Penal, reconhecer a presença da majorante do repouso noturno e manter a sua condenação para os demais crimes, fixando-lhe a pena de 02 anos, 05 meses e 25 dias de reclusão, em regime semiaberto, e ao pagamento de 25 dias-multa, sem contudo reconhecer a qualificadora de rompimento de obstáculo.
+No recurso especial, o recorrente alega violação ao art. 167 do CPP e art. 155, § 4º, do CP, alegando que no caso dos autos, o exame pericial seria dispensável e a qualificadora poderia ser provada por prova testemunhal, diante das peculiaridades do caso em concreto.
+Contrarrazões apresentadas às fls. 549/554.
+O Ministério Público Federal manifestou-se pelo provimento do recurso (e-STJ fls. 570/574).
+É o relatório.
+Decido.
+Quanto ao tema versado no presente apelo nobre, é preciso destacar, preliminarmente, que a jurisprudência desta Corte firmou-se no sentido de que "aincidência daqualificadoraprevista no art. 155, § 4º, I, do Código Penal, exigeexame pericialpara a comprovação do rompimento de obstáculo, somente admitindo-se prova indireta quando justificada a impossibilidade de realização do laudo direto" (AgRg no AREsp n. 2.074.222/MA, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 21/6/2022, DJe de 29/6/2022.).
+No mesmo sentido:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FURTO QUALIFICADO. QUALIFICADORA DO ROMPIMENTO DE OBSTÁCULO MANTIDA. AUSÊNCIA DE EXAME PERICIAL DIRETO. PROVAS ORAIS. LAUDO DE CONSTATAÇÃO DO LOCAL DO CRIME E CONFISSÃO DO RÉU SUFICIENTES PARA COMPROVAR A QUALIFICADORA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Segundo o entendimento desta Corte, o reconhecimento da qualificadora do rompimento de obstáculo exige a realização de exame pericial direto, admitindo-se a constatação indireta nos casos em que a infração não deixar vestígios ou esses forem insubsistentes ou inexistentes no momento da apuração do crime, devendo tais circunstâncias estarem bem demonstradas nos autos.
+2. In casu, a jurisdição ordinária reconheceu a qualificadora com base nas provas testemunhais, na declaração da vítima, no laudo de constatação do local do crime e na confissão do réu de como o furto se deu mediante o arrombamento do blindex da porta que fechava o estabelecimento.
+3. A decisão agravada manteve a qualificadora do rompimento de obstáculo, em razão das mencionadas provas consideradas pelo acórdão recorrido, as quais, portanto, apontaram elementos concretos que configuram a excepcionalidade capaz de justificar a ausência do exame pericial para o reconhecimento da referida qualificadora.
+4. Agravo regimental desprovido.
+(AgRg no REsp n. 1.986.664/MS, de minha relatoria, Sexta Turma, julgado em 7/6/2022, DJe de 13/6/2022, grifei.)
+No caso, acerca da controvérsia, assim consignou o Tribunal de origem (e-STJ fls. 468/469):
+Após detida análise dos autos, vejo que razão não socorre ao Ministério Público quanto ao pleito de reconhecimento da qualificadora relativa ao rompimento de obstáculo, em face da ausência de laudo pericial.
+Recentemente, alterei meu posicionamento acerca do tema e, amparado pelo recente entendimento adotado pelo colendo Superior Tribunal de Justiça, entendo ser imprescindível a realização de perícia, para reconhecimento das qualificadoras previstas no artigo 155, §4 1 , incisos 1 e II, do Código Penal, por se tratar de infração que deixa vestígios.
+Com efeito, a jurisprudência daquela Corte vem reiteradamente defendendo que, para o reconhecimento da qualificadora de rompimento de obstáculo, é imprescindível a realização de exame pericial, o qual somente pode ser suprido por outros meios de prova quando houverem desaparecido os vestígios ou quando as circunstâncias do crime não permitem a confecção do laudo, confira-se:
+ ..
+Na hipótese vertente, a despeito da acusação de que o apelante teria arrombado a fechadura do estabelecimento comercial em que furtou os objetos, não foi realizada qualquer perícia em nenhuma das datas a fim de atestar tal circunstância, a qual não foi reconhecida acertadamente no Juízo singular, cabendo frisar que tampouco há informações nos autos de eventual desaparecimento dos vestígios (o que autorizaria a dispensa da prova técnica).
+Destarte, vejo que a prova não é suficiente para o reconhecimento da qualificadora do rompimento de obstáculo, pelo que, nego provimento ao recurso ministerial e não reconheço sua presença nos crimes imputados ao apelado.(Grifei.)
+Ainda, por ocasião do julgamento dos embargos de declaração, o Tribunal local manteve o posicionamento firmado anteriormente mediante os seguintes fundamentos (e-STJ fl. 497):
+Conforme asseverado no voto condutor do acórdão embargado, embora outrora eu entendesse nos termos do alegado pelo nobre Procurador de Justiça, reposicionei-me sobre a questão, escudado no entendimento adotado pelo colendo Superior Tribunal de Justiça, para entender ser imprescindível, para o reconhecimento da qualificadora prevista no art.155, §4º, inciso I,do Código Penal, a realização de perícia, por se tratar de infração que deixa vestígios.
+Com efeito, a jurisprudência daquela Corte vem reiteradamente defendendo que, para o reconhecimento da qualificadora de rompimento de obstáculo, é imprescindível a realização de exame pericial, o qual somente pode ser suprido por outros meios de prova quando houverem desaparecido os vestígios ou quando as circunstâncias do crime não permitirem a confecção do laudo.
+E, na hipótese vertente, não foi realizada perícia a fim de atestar tal circunstância, sendo certo que não há informação nos autos a respeito do eventual desaparecimento dos vestígios - excepcionalidade que autorizaria a dispensa da prova técnica.(Grifei.)
+Vê-se, dos excertos acima transcritos, que a qualificadora prevista no art. 155, §4º, I, do Código Penal, não foi reconhecida pela inexistência nos autos de informação acerca do desaparecimento dos vestígios que autorizaria a prova indireta, de maneira que, para infirmar as conclusões da Corte local, quanto ao ponto, seria imprescindível o reexame do acervo fático-probatório dos autos, procedimento vedado na via do recurso especial em vista do óbice contido na Súmula n. 7 desta Corte.
+Ilustrativamente:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO. QUALIFICADORA DO ROMPIMENTO DE OBSTÁCULO. PRESENÇA DE VESTÍGIOS. PERÍCIA. NÃO APRESENTADA JUSTIFICATIVA QUE EXCEPCIONE A REALIZAÇÃO DA PROVA TÉCNICA.
+1. O entendimento desta Corte Superior de Justiça está consolidado no sentido de que, nos casos de furto qualificado pelo rompimento de obstáculo em que há vestígios, é imprescindível a elaboração de laudo pericial para a comprovação da mencionada qualificadora, salvo se desaparecidos os vestígios ou se as circunstâncias do crime não permitirem a confecção do laudo.
+2. No presente recurso, conquanto alegue o Ministério Público estadual que os vestígios desapareceram, não basta, para o reconhecimento da qualificadora, que ocorra uma das diminutas hipóteses que justificam a substituição da perícia por outros meios de prova, é necessário também que as instâncias ordinárias indiquem expressamente o motivo pelo qual a prova técnica não foi produzida.
+3. As instâncias ordinárias não apresentaram justificativa plausível para a não realização oportuna do devido trabalho técnico. Assim, nesse eito, inexistindo situação a justificar a incidência de exceções à regra, o afastamento da qualificadora se revela inevitável.
+4. Reexaminar a prova, a fim de perquirir acerca do efetivo desaparecimento ou não dos vestígios, configuraria providência que esbarra no óbice da Súmula n. 7/STJ.
+5. Agravo regimental a que se nega provimento.
+(AgRg no AREsp n. 1.914.805/MS, de minha relatoria, Sexta Turma, julgado em 8/2/2022, DJe de 15/2/2022, grifei.)
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
