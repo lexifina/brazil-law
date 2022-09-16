@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo em recurso especial desafiando decisão que não admitiu recurso especial interposto porBANCO DO BRASIL S/A com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+AGRAVO DE INSTRUMENTO- EXPURGOS INFLACIONÁRIOS AÇÃO CIVIL PÚBLICA CUMPRIMENTO DE SENTENÇA JUROS MORATÓRIOS TERMO INICIAL Data da citação para a ação coletiva Entendimento pacificado pelo STJ em análise de recurso repetitivo.
+AGRAVO DE INSTRUMENTO - EXPURGOS INFLACIONÁRIOS AÇÃO CIVIL PÚBLICA CUMPRIMENTO DE SENTENÇA HONORÁRIOS ADVOCATÍCIOS - Descabimento - Cabimento de honorários apenas em caso de escoamento do prazo para pagamento a que alude o art. 475-J, do CPC/1973 Precedente do STJ em sede de recurso repetitivo Art. 523, § 1º, do CPC/2015, aliás, que já está claro e expresso nesse sentido Caso concreto em que o executado realizou o depósito no prazo legal Impossibilidade de arbitramento da verba honorária.
+Recurso parcialmente provido.
+Os embargos de declaração opostos foram acolhidos, nos termos da seguinte ementa:
+EMBARGOS DE DECLARAÇÃO Acolhimento Ausência de insurgência do embargado sobre o afastamento dos honorários advocatícios - Possibilidade de manutenção da verba honorária em favor do poupador - Ocorrência indevida de "Reformatio in pejus" - Correção.
+Embargos acolhidos.
+Nas razões do recurso especial, sustenta o recorrente, ora agravante, que o Tribunal a quo violou frontalmente os arts. 95, 97, 98, do CDC, cumulados com o art. 475-B do CPC/2015, ao deixar de observar quea sentença civil pública tem conteúdo meramente genérico, sendo imprescindível a instauração de prévia fase de liquidação, com elevada carga cognitiva, para que o consumidor demonstre a sua condição de beneficiário e promova a individualização do valor que lhe é devido, tudo sujeito ao pleno contraditório e à ampla defesa.
+Acrescenta que ajurisprudência do Superior Tribunal de Justiça demonstra a imprescindibilidade da fase de liquidação de sentença nos casos em que o consumidor pretende executar individualmente a sentença civil pública, e pontua que o saudoso Ministro Teori Albino Zavaski assim fez consignar nos votos que proferiu no julgamento, pela Egrégia Corte Especial do STJ, dos Recursos Especiais 1.243.887-PR e 1.247.150-PR.
+Obtempera, ainda, com amparo no art. 219 do CPC/2015, que o termo inicial para a incidência dos juros de mora corresponde à data da citação na ação de execução individual, e não a partir da citação na ação civil pública.
+Apresentadas contrarrazões às fls. 223/237.
+O referido recurso não foi admitido, por se entender, essencialmente, incidente, na espécie, a inteligência da Súmula 83/STJ.
+Daí porque foi interposto o presente agravo.
+A seguir, vieram os autos conclusos a este Relator.
+É o relatório. Passo a decidir.
+O recurso especial é oriundo deagravo de instrumento tirado contra a decisão que fixou a incidência dos juros de mora a partir da citação na fase de liquidação de sentença.
+O Tribunal a quo, ao dar provimento ao agravo de instrumento, aplicou o entendimento de quea incidência dos juros moratórios se dá a contar da citação na ação civil pública.
+Com efeito, o Tribunal a quo decidiu em sintonia com ajurisprudência do STJ, firmada na sistemática dos recursosrepetitivos,no sentidodeque "osjuros de moraincidem a partir da citação do devedor na fasedeconhecimento daação civil pública,quando esta se fundar em responsabilidade contratual, sem que haja configuração damoraem momento anterior" (CORTE ESPECIAL, REsp 1.370.899/SP, Relator Ministro SIDNEI BENETI, DJede14/10/2014).
+Confira-se ainda:
+DIREITOCIVILE PROCESSUALCIVIL.AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO INIDIVIDUALDESENTENÇA COLETIVA. AFRONTA AO ART. 1.022 DO CPC/2015. FUNDAMENTAÇÃO RECURSAL DEFICIENTE. SÚMULA N. 284/STF. AUSÊNCIADEINDICAÇÃO DOS DISPOSITIVOS VIOLADOS. SÚMULA N. 284/STF. FALTADEPREQUESTIONAMENTO. SÚMULAS N. 282 DO STF E 211 DO STJ. FALTADEIMPUGNAÇÃO A FUNDAMENTO DO ACÓRDÃO RECORRIDO. SÚMULA N. 283/STF. JUROSMORATÓRIOS.TERMOA QUO. CITAÇÃO DO DEVEDOR NA FASEDECONHECIMENTO DA DEMANDA COLETIVA. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83/STJ. DECISÃO MANTIDA.
+1. Considera-se deficiente, a teor da Súmula n. 284/STF, a fundamentação do recurso especial que alega violação do art. 1.022 do CPC/2015, mas não demonstra, clara e objetivamente, qual o ponto omisso, contraditório ou obscuro do acórdão recorrido que não teria sido sanado no julgamento dos embargosdedeclaração.
+2. A faltadeindicação dos dispositivos legais supostamente violados impede o conhecimento do recurso especial (Súmula n. 284/STF).
+3. A simples indicação dos dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por faltadeprequestionamento, a teor das Súmulas n. 282 do STF e 211 do STJ.
+4. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF.
+5. A jurisprudência da Corte Especial do STJ, firmada na sistemática dos recursosrepetitivos,é no sentidodeque "osjuros de moraincidem a partir da citação do devedor na fasedeconhecimento daação civil pública,quando esta se fundar em responsabilidade contratual, sem que haja configuração damoraem momento anterior" (CORTE ESPECIAL, REsp n. 1.370.899/SP, Relator Ministro Sidnei Beneti, DJede14/10/2014), o que foi observado pela Corte local.
+6. Inadmissível o recurso especial quando o entendimento adotado pelo Tribunaldeorigem coincide com a jurisprudência do STJ (Súmula n. 83/STJ).
+7. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1855595/PR, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 13/12/2021, DJe de 16/12/2021)
+Relativamente à necessidade de liquidação prévia, o tema não foi prequestionado nos termos da Súmula 282/STF. A propósito:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. EMBARGOS À EXECUÇÃO. CÁLCULO DO PERITO DO JUÍZO. APLICAÇÃO DEEXPURGOS INFLACIONÁRIOS.INEXISTÊNCIA DE AFRONTA À COISA JULGADA. POSSIBILIDADE. OFENSA AO ART. 535 DO CPC/1973 NÃO DEMONSTRADA. DEFICIÊNCIA NA FUNDAMENTAÇÃO.SÚMULA284/STF. FALTA DE PREQUESTIONAMENTO.SÚMULA 282/STF.
+ ..
+3. Não se pode conhecer da irresignação contra a ofensa aos dispositivos legais invocados, uma vez que não foram analisados pela instância de origem. Ausente, portanto, o indispensável requisito do prequestionamento, o que atrai, por analogia, o óbice daSúmula 282/STF.
+4. Já se encontra pacificado em nosso ordenamento jurídico que a inclusão dosexpurgos inflacionáriosnos cálculos da correção monetária em conta deliquidaçãode sentença não implica violação a coisa julgada. A propósito: AgRg no REsp 1.074.013/SP, Castro Vieira. Segunda Turma, DJe 27.3.2009; REsp 1.423.027/PR, Ministro Humberto Martins, Segunda Turma, DJe 17.2.2014; REsp 1.690.523/RJ, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 16.10.2017; AgInt no AgRg no AREsp 661.876/SP, Rel. Ministro Marco Buzzi, Quarta Turma, DJe 2.10.2017; AgInt no AREsp 247.549/CE, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 29.9.2017.
+5. Recurso Especial parcialmente conhecido e, nessa parte, não provido.
+(REsp 1741670/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 7/6/2018, DJe de 28/11/20218)
+Dessa forma, entende-se que o acórdão recorrido deve ser confirmado pelos seus próprios fundamentos.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, a e b, do RISTJ, conheço do agravo para conhecer em parte do recurso especial e, nessa parte, negar-lhe provimento. E, quanto ao ônus da sucumbência recursal, em observância ao art. 85, §11, do CPC/2015, deixo de majorar os honorários de advogado, posto que o recurso especial é oriundo de agravo de instrumento.
+Publique-se.
