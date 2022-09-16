@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo interno interposto por TANIA REGINA VIEIRA DA SILVA contra decisão de minha lavra, proferida às e-STJ fls. 498/493, em que conheci do agravo para não conhecerdo recurso especial em virtude da ausência de prequestionamento de dispositivo legal eincidência daSúmula7 do STJ.
+Aduza parte agravante que não apreciadosos argumentos concernentes à apontada violação dos arts. 489, II, e 1022, II,do CPC/2015, bemcomo àinaplicabilidade do óbice sumularaludido ao caso dos autos.
+Requer, assim,a reforma da decisão atacadaa fim de que seja provido o recurso especial.
+Passo a decidir.
+Com a razão, em parte, aagravante, uma vez que, efetivamente, não analisadas suas alegações de negativa deprestaçãojurisdicionalpela decisão agravada, de modo que reconsidero a decisão anteriormenteproferida, apenas quanto ao ponto,e passoà análise de tal matéria.
+Quanto à alegada ofensa aos arts. 489, II, e 1022, II,do CPC/2015, cumpre destacar que, ainda que o recorrente considere insubsistente ou incorreta a fundamentação utilizada pelo Tribunal nos julgamentos realizados, não há necessariamente ausência de manifestação. Não há como confundir o resultado desfavorável ao litigante com a falta de fundamentação.
+Ademais, consoante entendimento desta Corte, o magistrado não está obrigado a responder a todas as alegações das partes, tampouco a rebater um a um todos os seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie. Nesse sentido: AgRg no AREsp 163.417/AL, relator Ministro NAPOLEÃO NUNES MAIA FILHO, Primeira Turma, DJe 29/09/2014.
+Mantida a decisão anterior quanto à ausência de prequestionamento do art.85, § 3º do CPC/2015, umavezqueque a Corte de origem decidiu em conformidade com os ditames do CPC/1973, e à aplicação da Súmula 7 do STJ à pretensão de revisão da verba honorária.
+Ante o exposto, RECONSIDERO EM PARTEa decisão de e-STJ fls. 489/493e, com base no art. 253, parágrafo único, II, "a" e "b", do RISTJ, CONHEÇO do agravo para CONHECER PARCIALMENTE do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10%o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, caso aplicáveis os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
