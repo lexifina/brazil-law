@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se  de  habeas  corpus,  com  pedido  liminar,  impetrado  em  favor  de  CAMILA  QUEIROZ  DE  FREITAS  contra  acórdão  proferido  pelo  Tribunal  de  Justiça  do  Estado  do  Paraná  (Remessa  Necessária  Criminal  n.  0004293-72.2022.16.0017).
+O  Tribunal  de  origem  julgou  procedente  a  remessa  necessária  e  determinou  o  desarquivamento  de  inquéritos  policiais  em  que  a  ora  paciente  era  investigada,  em  acórdão  que  traz  a  seguinte  ementa  (e-STJ  fl.  48):
+REMESSA  NECESSÁRIA  -  RECURSO  "EX  OFFICIO"  -  DECISÃOQUE  CONCEDEU  "HABEAS  CORPUS",  COM  O  CONSEQUENTETRANCAMENTO  E  ARQUIVAMENTO  DE  INQUÉRITOS  POLICIAISQUE  APURAVAM  OS  CRIMES  DE  ESTELIONATO  E  DE  LAVAGEMDE  DINHEIRO  -  PROVIMENTO  -  EXCEPCIONALIDADE  DAINTERRUPÇÃO  DAS  INVESTIGAÇÕES  NÃO  DEMONSTRADA,  NEM  POR  CAUSA  DE  EXTINÇÃO  DA  PUNIBILIDADE,  TAMPOUCOPOR  ATIPICIDADE  DA  CONDUTA  -  INDÍCIOS  SUFICIENTES  DEMATERIALIDADE  E  AUTORIA  DELITIVA  -  CIRCUNSTÂNCIAS  FÁTICAS  QUE,  POR  ORA,  SE  AMOLDAM  AOS  TIPOS  PENAIS  EMANÁLISE,  ATRAVÉS  DOS  ELEMENTOS  INFORMATIVOS  AOSRESPECTIVOS  PROCESSOS  -  JUSTA  CAUSA  CARACTERIZADA  -CONTINUIDADE  DA  APURAÇÃO  DOS  FATOS  NOTICIADOS  QUESE  FAZ  NECESSÁRIA  -  DECISÃO  REFORMADA.  RECURSOCONHECIDO  E  PROVIDO.
+Nesta  impetração  (e-STJ,  fls.  3/19),  a  defesa  alega  ocorrência  de  constrangimento  ilegal,  sustentando,  em  resumo,  ausência  de  justa  causa  e  inocorrência  do  fato  típico  a  ser  investigado  nos  inquéritos  instaurados  em  desfavor  da  ora  paciente.
+Nesse  sentido,  afirma  ilegalidade  na  investigação  no  Inquérito  Policial  n.  0017385-88.2020.8.16.0017,  por  inocorrência  do  fato  típico  previsto  no  art.  171,  caput,  do  Código  Penal  (e-STJ  fl.  18).
+Sustenta  duplicidade  de  litispendência  em  relação  à  investigação  do  Inquérito  Policial  n.  0026543-70.2020.8.16.0017  (e-STJ  fl.  38).
+Alega,  também,  flagrante  atipicidade  do  delito  investigado  no  Inquérito  Policial  n.  010460-  42.2021.8.16.0017  (art.  1º  e  seguintes  da  Lei  n.  9.6013/1998)  (e-STJ  fl.  39).
+Diante  disso,  requer,  liminarmente,  a  suspensão  da  tramitação  dos  inquéritos  policiais  mencionados  e,  no  mérito,  o  trancamento  dos  mesmos.
+É  o  relatório.  Decido.
+A  liminar  em  habeas  corpus,  bem  como  em  recurso  em  habeas  corpus,  não  possui  previsão  legal,  tratando-se  de  criação  jurisprudencial  que  visa  a  minorar  os  efeitos  de  eventual  ilegalidade  que  se  revele  de  pronto.
+Em  um  juízo  de  cognição  sumária,  não  visualizo  manifesta  ilegalidade  no  ato  ora  impugnado  a  justificar  o  deferimento  da  medida  de  urgência.
+No  caso  vertente,  não  obstante  os  fundamentos  apresentados  na  inicial,  mostra-se  imprescindível  uma  análise  mais  aprofundada  dos  elementos  de  convicção  constantes  dos  autos,  para  se  aferir  a  existência  de  constrangimento  ilegal.
+Ademais,  o  pedido  liminar  confunde-se  com  o  próprio  mérito,  o  qual  deverá  ser  apreciado  em  momento  oportuno,  por  ocasião  do  julgamento  definitivo  do  pedido.
+Ante  o  exposto,  indefiro  a  liminar.
+Solicitem-se  informações  à  autoridade  apontada  como  coatora  e  ao  Juízo  de  primeiro  grau,  a  serem  prestadas  preferencialmente  pela  Central  do  Processo  Eletrônico  -  CPE  do  STJ,  inclusive  o  envio  da  senha  para  acesso  aos  dados  processuais  constantes  do  respectivo  portal  eletrônico,  tendo  em  vista  a  restrição  determinada  pela  Resolução  n.  121  do  CNJ.
+Após,  encaminhem-se  os  autos  ao  Ministério  Público  Federal.
+Intimem-se.
