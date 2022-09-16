@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de RUBEM TEIXEIRA contra decisão monocrática proferida por Desembargadordo Tribunal de Justiça do Estado do Rio de Janeiro no HC n. 0060294-47.2022.8.19.0000.
+Consta nos autos que o Paciente ajuizou queixa-crime em face deEDUARDO LUIZ DE CARVALHO e HELOISACARVALHO, imputando-lhesa conduta típica descrita no art. 140 do Código Penal.
+A Magistradado 1.º Juizado Especial Criminal da Comarca de Nova Iguaçu/RJ determinou o arquivamento dos autos, diante da decadência do direito de queixa, com base no art. 107, inciso IV, do Código Penal (fl. 38).
+O autor da ação, então, interpôs recurso de apelação, o qual não foi conhecido pelo Juiz Relator da 2.ª Turma Recursal Criminal do Estado do Rio de Janeiro (fls. 35-37).
+A Defesa impetrouhabeas corpusperante o Tribunal estadual. O Desembargador Relator não conheceu do pedido (fls. 33-34).
+Neste writ, osImpetrantes sustentam, genericamente, que o processo está eivado de diversas nulidades processuais e requerem, em liminar e no mérito (fls. 24-25):
+"a) A concessão da Medida Liminar para que seja cassado o julgamento proferido nos autos do Habeas Corpus de nº 0060294- 47.2022.8.19.0000, que não conheceu o Habeas Corpus por entender que não há constrangimento ilegal, nos termos apresentados acima;
+b) Subsidiariamente, a concessão da Medida Liminar para que o processo seja suspenso até o julgamento final do Habeas Corpus, porque, desse modo, se evitará a existência de novas nulidades processuais e quaisquer outros prejuízos;
+ ..
+e)O recebimento e a concessão do Habeas Corpus para acolher anulidade referente ao vício de Matéria de Ordem Pública Cognoscível;
+f) O recebimento e a concessão do Habeas Corpus para acolher anulidade que objetiva afastar a não admissibilidade pela falta depreparo do recurso de Apelação e pela ausência de juízo deadmissibilidade da Turma Recursal;
+g) O recebimento e a concessão do Habeas Corpus para acolher anulidade que arguiu a não aplicação do art. 798-A do CPP e a declarouinconstitucional sem enviar ao órgão colegiado, violando-se súmulavinculante do STF, nos termos da fundamentação acima;
+h) O recebimento e a concessão do Habeas Corpus para acolher anulidade que arguiu a incompetência de todos atos praticados noprocesso, observando-se o Conflito de Competência no STJ de nº184.269;"
+É o relatório. Decido.
+O presentewritémanifestamente incognoscível.
+Com efeito, a ação constitucional do habeas corpusé cabível, de acordo com o art. 647 do Código de Processo Penal, "sempre que alguém sofrer ou se achar na iminência de sofrer violência ou coação ilegal na sua liberdade de ir e vir, salvo nos casos de punição disciplinar", o que não se verifica na hipótese, tendo em vista que o ora Paciente é oquerelanteda ação penaln.0042116-73.2020.8.19.0209, o que, evidentemente, demonstraa completa ausência de ameaça ou lesão à sua liberdade de locomoção.
+E se não bastasse, o  presente  writ  foi  manejado  contra  decisão  singular  de  Desembargador  Relator  do  Tribunal  de  origem,  não  tendo  havido  a  interposição  de  agravo  interno/regimental  objetivando  a  manifestação  do  Órgão  Colegiado, o que, igualmente, impõe  o  não  conhecimento  da  presente  ação  mandamental, conforme entendimento  firmado  pelas  duas  Turmas  que  compõem  a  Terceira  Seção  desta  Corte. A propósito:
+ "AGRAVO  REGIMENTAL  NO  HABEAS  CORPUS.  MANDAMUS  CONTRA  DECISÃO  MONOCRÁTICA  DO  TRIBUNAL  QUE  RESTABELECEU  PRISÃO  PREVENTIVA.  NÃO  INTERPOSIÇÃO  DO  RECURSO  AO  COLEGIADO  NA  ORIGEM.  WRIT  INDEFERIDO  LIMINARMENTE.  AUSÊNCIA  DE  ILEGALIDADE  FLAGRANTE.  DECISÃO  MANTIDA.  AGRAVO  REGIMENTAL  IMPROVIDO.
+1.  A  jurisprudência  desta  Corte  é  pacífica  no  sentido  de  que,  não  tendo  a  parte  recorrente  interposto  agravo  regimental  para  esgotamento  da  instância  anterior,  com  vistas  a  atender  os  ditames  do  art.  105,  II,  da  Constituição  Federal,  é  incabível  a  impetração  do  habeas  corpus,  só  se  flexibilizando  esse  entendimento  quando  constatada  ilegalidade  flagrante.  Precedentes.
+2.  Agravo  regimental  improvido. " (AgRg  no  HC  503.168/DF,  Rel.  Ministro  NEFI  CORDEIRO,  SEXTA  TURMA,  julgado  em  16/05/2019,  DJe  04/06/2019;  sem  grifos  no  original.)
+ "PEDIDO  DE  RECONSIDERAÇÃO  NO  HABEAS  CORPUS.  QUADRILHA,  PORTE  ILEGAL  DE  ARMA  DE  FOGO  E  DE  MUNIÇÃO.  REVOGAÇÃO  DA  PRISÃO  PREVENTIVA  OU  SUBSTITUIÇÃO  POR  MEDIDAS  CAUTELARES.  PETIÇÃO  RECEBIDA  COMO  AGRAVO  REGIMENTAL.  WRIT  CONTRA  DECISÃO  MONOCRÁTICA  DE  DESEMBAGADOR.  SÚMULA  691/STF.  INCOMPETÊNCIA  DESTE  TRIBUNAL  SUPERIOR.  JURISDIÇÃO  AINDA  NÃO  INAUGURADA.  SUPRESSÃO  DE  INSTÂNCIA.  AGRAVO  NÃO  PROVIDO.
+1.  O  entendimento  consolidado  por  esta  Corte  Superior  é  no  sentido  de  que  o  pedido  de  reconsideração,  interposto  no  prazo  recursal  de  5  dias,  deve  ser  recebido  como  agravo  regimental,  nos  termos  dos  arts.  258  e  259  do  Regimento  Interno  do  Superior  Tribunal  de  Justiça.
+2.  Hipótese  em  que  o  ato  indicado  como  coator  e  impugnando  na  impetração,  praticado  por  Desembargadora  do  TJRJ,  deve  ser  submetido  à  análise  do  órgão  julgador  competente,  por  meio  de  agravo  interno,  não  estando  inaugurada,  portanto,  a  jurisdição  desta  Corte  Superior  Tribunal  de  Justiça  Superior,  consoante  determinado  no  art.  105,  II,  a,  da  CF.
+Assim,  a  matéria  não  pode  ser  examinada,  sob  pena  de  supressão  de  instância.
+3.  Agravo  regimental  não  provido. "  (AgRg  no  HC  507.396/RJ,  Rel.  Ministro  RIBEIRO  DANTAS,  QUINTA  TURMA,  julgado  em  14/05/2019,  DJe  20/05/2019;  sem  grifos  no  original.)
+Ante o exposto, com fundamento nos arts. 34, inciso XX, e 210, do RISTJ, INDEFIRO LIMINARMENTE a petição inicial.
+Publique-se.  Intimem-se.
+EMENTA
+HABEAS CORPUS. AÇÃO CONSTITUCIONAL IMPETRADA EM FAVOR DE QUERELANTE DE AÇÃO PENAL PRIVADA. WRITMANIFESTAMENTE INCOGNOSCÍVEL. AUSÊNCIA DE AMEAÇA OU LESÃO À LIBERDADE DE LOCOMOÇÃO. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA.
