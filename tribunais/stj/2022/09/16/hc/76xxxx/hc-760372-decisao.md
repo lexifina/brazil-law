@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de habeas corpusimpetrado em favor de CARLOS EDUARDO GONÇALVES DE SOUZA apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO(Apelação n. 5023383-76.2020.8.24.0033).
+Colhe-se dos autos que o paciente foi denunciado pela prática dos delitos inscritosnoart. 33 e 35da Lei n. 11.343/2006, bem como nos art. 288 e 304, ambos do Código Penal, tendo sido condenado à pena de 10 anos, 10 meses e 20 dias de reclusão, em regime inicial fechado, pela prática de tráfico de drogas e absolvido quanto aos demais crimes(e-STJ fl. 17). Isso, porque, segundo consta, foiapreendido na posse de aproximadamente8,4kg (oito quilos e quatrocentos gramas) de cocaína.
+Irresignadas, defesa e acusação interpuseram apelação, tendo a Corte de origem negado provimento ao apelo ministerial e dado parcial provimento ao recurso da defesa para redimensionar a pena a 9 anos e 4 meses de reclusão, conforme acórdão assim ementado (e-STJ fls. 25/26):
+APELAÇÃO CRIMINAL. PENAL E PROCESSUAL PENAL. DROGA. USO DE DOCUMENTO FALSO. AUTORIA. PROVA PRODUZIDA NO INQUÉRITO POLICIAL.VEDAÇÃO. INCERTEZA PARA A CONDENAÇÃO. APELO DESPROVIDO.
+1. Acondenação requer certeza, sub specie universalis, alcançada com prova válida, não bastando a alta probabilidade ou a certeza subjetiva do julgador  (STJ-5ª Turma, REsp 363.548/SC, Rel. Min. Felix Fischer, DJ 10/06/2002).
+2. No concernente a absolvição dos recorridos quanto aos delitos tipificados na Lei n. 11.343/2006 e no artigo 288 do Código Penal tem-se que a sentença não merece reparos. Isso porque a prova produzida na fase inquisitiva (inquérito policial), não foi igualmente reproduzida na fase jurisdicional. Não resta dúvida que a materialidade restou demonstrada, mas a autoria dos delitos não.
+3.Os recorridos Alecsandro Gonçalves dos Santos e Reginaldo Ferreira Barreto se retrataram em Juízo, sendo certo que o art. 155 do CPP veda o decreto condenatório com fundamento exclusivo no inquérito policial, sem olvidar a contradição existente entre as declarações das testemunhas.
+4. Por conseguinte, segundo entendimento pacífico desta Corte não podem subsistir condenações penais fundadas unicamente em prova produzida na fase do inquérito policial, sob pena de grave afronta às garantias constitucionais do contraditório e da plenitude de defesa(STF-1ª Turma, HC 103.660/SP, Rel. Min. Ricardo Lewandowski, DJe 07/04/2011), sendo certo ser aplicável ao caso o aforismo in dubio pro reo, porque permanecem dúvidas sobre os elementos probatórios.
+5. Não havendo comprovação da associação de forma estável e permanente, afasta-se a configuração dos crimes tipificados no art. 35 da Lei n. 11.343/2006 e no art. 288 do CP. Precedentes.
+6.Considerando que o recorrido Carlos Eduardo Gonçalves de Souza foi prontamente reconhecido por um dos policiais federais, entende-se que o fato de ter-se identificado falsamente não trouxe potencialidade lesiva apta a causar dano à fé pública, afastando a tipificidade do crime de uso de documento falso (CP; art. 304).
+7. Quanto às argüições à pena aplicada, vejo que as circunstâncias lançadas na sentença proferida em primeiro grau evidenciam compatibilidade com as condutas perpetradas pelo apelante, clareza na fundamentação e conformidade com os elementos constantes nos autos, às luz dos artigos 59 do Código Penal e 42 da Lei nº11.343/06. Por outro lado, a reincidência assinalada justifica-se pelos dados processuais registrados nos autos, indicando a preexistência de execução penal fruto de condenação definitiva anterior.
+8. Com relação à causa de aumento de pena expendida no art. 40, inciso VI da Lei nº 11.343/06, tenho que a mesma merece ser destacada da dosagem realizada, sob pena de violação flagrante aos princípios da correlação, ampla defesa, contraditório bem como os comandos processuais exarados no Título XII do Código de Processo Penal, eis que a inicial não descreve conduta do apelante tendente à envolver ou atingir criança ou adolescente  ..
+Argüição acolhida para operar a supressão do aumento de 1/6 (um sexto) na segunda fase, e, em decorrência deste fato, considerar como pena definitiva a estabelecida em 09 (nove) anos e 04 (quatro) meses de reclusão e 920 (novecentos e vinte) dias-multa.
+9. Recurso do Ministério Público desprovido. Apelo do réu Carlos Eduardo Gonçalves de Souza parcialmente provido. Unânime.
+Ato contínuo, a defesa ajuizourevisão criminal, não tendo sido juntado aos autos o acórdão referido. No entanto, colhe-se do voto da Desembargadora relatora o seguinte fragmento, em que se verifica ter sido a pena definitiva redimensionada para 6 anos e 8 meses de reclusão, em regime inicial fechado (e-STJ fl. 82):
+Destarte, CONHEÇO da presente Revisão Criminal e a JULGO PARCIALMENTE PROCEDENTE, unicamente para reformar a dosimetria da pena.
+Passo a nova dosimetria:
+Conforme destacado acima não houve nenhuma circunstância judicial do art. 59 do CP com fundamentação idônea apta a se majorar a pena-base, no entanto, diante da elevada quantidade de droga e da nocividade desta, destacando que as circunstâncias judiciais específicas do art. 42 são preponderantes, fixo a pena-base em 06 (seis) anos e 08 (oito) meses de reclusão e pagamento de 660 (seiscentos e sessenta) dias-multa, valorados em 1/30 do salário-mínimo vigente à época dos fatos.
+Também conforme destacado na fundamentação retro, devem ser compensadas a atenuante da confissão com a agravante da reincidência, conforme pacifica jurisprudência deste órgão Colegiado.
+Não há causas de aumento nem de diminuição, o tráfico privilegiado não foi aplicado devido a reincidência.
+Desta forma, fica a pena definitiva fixada em 06 (seis) anos e 08 (oito) meses de reclusão e pagamento de 660 (seiscentos e sessenta) dias-multa, valorados em 1/30 do salário-mínimo vigente à época dos fatos.
+Mantido o regime inicialmente fechado considerando a quantidade de pena aplicada, a reincidência, e a regra geral prevista no art. 33, 9920 e 30 do CP.
+Mantidos também todos os demais efeitos previstos na sentença condenatória. (Grifei.)
+Segundo consta, acondenação do paciente transitou em julgado em 5/7/2012.
+Daí o presente writ, no qual sustenta a defesa que o paciente estaria sofrendo constrangimento ilegal, pois "a quantidade e a natureza não se revelam aptas a justificar, por si só, o agravamento da pena em 01 ano e 08 meses, ausentes circunstâncias judiciais negativas" (e-STJ fl. 10). Alega, assim, que dever haver o "redimensionamento da pena prevista no art. 33, para o mínimo legal (05 anos)"(e-STJ fl. 11).
+O Ministério Público Federal manifestou-se pelo não conhecimento dohabeas corpus(e-STJ fls. 92/98).
+É o relatório.
+Decido.
+Esta Corte, de longa data, vem buscando fixar balizas para a racionalização do uso do habeas corpus, visando a garantia não apenas do curso natural das ações ou revisões criminais, mas da efetiva priorização do objeto ínsito ao remédio heroico, qual seja, o de prevenir ou remediar lesão ou ameaça de lesão ao direito de locomoção.
+No caso dos autos,verifica-se queo acórdão ora impugnado transitou em julgado em 5/7/2012, de maneira que não se deve conhecer dowrit que pretende sua desconstituição, sobretudo diante da não verificação de flagrante ilegalidade apta a ser corrigida via habeas corpus.
+Nesse mesmo sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS INDEFERIDO LIMINARMENTE. TRÁFICO DEDROGAS. ACÓRDÃO TRANSITADO EM JULGADO. DOSIMETRIA. SUBSTITUTIVO DE REVISÃOCRIMINAL. NÃO INAUGURADA A COMPETÊNCIA DO STJ. INADMISSIBILIDADE. AUMENTODA PENA-BASE. ELEVADA QUANTIDADE DE DROGAS. PROPORCIONALIDADE. AUSÊNCIA DEIMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ.
+Agravo regimental não conhecido.
+(AgRg no HC n. 751.137/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 2/8/2022, DJe de 4/8/2022.)
+HABEAS CORPUS. SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. FURTOQUALIFICADO PELA ESCALADA. AÇÃO CAPTURADA POR CÂMERAS DE VIGILÂNCIA.AUTENTICIDADE DAS FILMAGENS NÃO IMPUGNADA. PRESCINDIBILIDADE DE PRODUÇÃODE LAUDO PERICIAL PARA COMPROVAÇÃO DA MATERIALIDADE. PROVA INÚTIL.AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. HABEAS CORPUS NÃO CONHECIDO.
+1. Diante da hipótese de habeas corpus substitutivo de recurso próprio, aimpetração não deve ser conhecida, segundo orientação jurisprudencial do
+Supremo Tribunal Federal e deste Superior Tribunal de Justiça. Contudo,ante as alegações expostas na inicial, afigura-se razoável a análise dofeito para verificar a existência de eventual constrangimento ilegal.
+ ..
+Habeas corpus não conhecido.
+(HC 363.860/SC, Rel. Min. JOEL ILANPACIORNIK, QUINTA TURMA, DJe 10/10/2016.)
+De toda forma, não há nenhuma ilegalidade em relação à exasperação da pena-base tendo como fundamento a natureza e quantidade da droga apreendida, nos termos do art. 42da Lei n. 11.343/2006. Isto porque, conforme se verifica, a Corte de origem redimensionou a pena-base do paciente para 6 anos e 8 meses de reclusão, em regime fechado, pena esta tornada definitiva, ante a apreensão8,4kg (oito quilos e quatrocentos gramas) de cocaína com o paciente, o que se revela em consonância com o entendimento desta Corte.
+Ilustrativamente:
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CRIME DE ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. INTERCEPTAÇÕES TELEFÔNICAS.NULIDADE. NÃO RECONHECIDA. INÉPCIA DA DENÚNCIA. NÃO OCORRÊNCIA.REEXAME DE PROVAS. SÚMULA N. 7 DO STJ. AUSÊNCIA DE INTIMAÇÃO PARA DEFESA PRÉVIA. RECEBIMENTO DA DENÚNCIA. PREJUÍZO NÃO DEMONSTRADO.PENA-BASE.DOSIMETRIA. ART. 42 DA LEI N. 11.343/2006. NÃO VIOLADO.AGRAVO REGIMENTAL DESPROVIDO.
+1. As sucessivas prorrogações das interceptações e a desnecessidade das transcrições, foram devidamente fundamentadas, estando o acórdão recorrido em harmonia com a jurisprudência desta Corte.
+2. Não há inépcia da denúncia que, além da qualificação do acusado, descreve o fato delituoso e suas circunstâncias de modo suficiente ao exercício pleno do contraditório e da ampla defesa.
+3. O Superior Tribunal de Justiça já consolidou entendimento no sentido de que o reconhecimento de nulidade no curso do processo penal exige a comprovação de efetivo prejuízo, o que não ocorreu na hipótese.
+4. Nos crimes previstos na nova Lei de Drogas, a quantidade e natureza das drogas são preponderantes para a fixação das penas-bases. In casu, foram apreendidos com o grupo mais de8 kg de cocaína.
+5. Agravo regimental desprovido.
+(AgRg no REsp 1509492/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 03/10/2017, DJe 16/10/2017,grifei.)
+Não se vislumbra, portanto, nenhuma ilegalidade flagrante apta a ensejar a concessão da ordem, ainda que de ofício.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
