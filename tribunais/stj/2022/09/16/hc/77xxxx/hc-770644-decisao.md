@@ -1,0 +1,114 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido de liminar, impetrado em benefício de JOAO PEDRO PICCINI RUSSOcontra decisão de Desembargadora do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SULque indeferiu pedido liminar no HC n. 5172788-56.2022.8.21.7000.
+Extrai-se dos autos que o paciente foi preso em flagrante, juntamente com outro agente,em 24/8/2022, pela suposta prática dos delitos tipificados nos arts. 33 e 35 da Lei n. 11.343/2006 (tráfico de drogas e associação para o tráfico). Referida custódia foi convertida em prisão preventiva.
+Irresignada, a defesa impetrou o habeas corpus originário, cuja liminar foi indeferida em decisão acostada às fls. 128/135.
+No presente writ, em petição com 114 laudas, os impetrantes relatam irregularidades nas peças componentes do auto de prisão em flagrante, inclusive na portaria de nomeação de peritos (fl. 217) e nos laudos de constatação de substância entorpecente (fls. 218/227), além daausência de assinatura de documentos pela autoridade policial.
+Apontam que a decisão que converteu a prisão em flagrante em preventiva baseou-se em laudo de constatação danatureza de substância nulo.
+Defendem a nulidade da atuação da polícia militar no caso concreto sob a alegação de usurpação de atribuição constitucionalda polícia judiciária.
+Asseveram a nulidade da busca e apreensão realizada fora do horário determinado pela autoridade judiciária, e doauto circunstanciado da referida busca, por omissão de dados essenciais e rasuras.
+Aduzem a nulidade da portaria de nomeação de peritos e dos laudos de constatação da natureza das substâncias apreendidas, indicando a ilegalidade das provas produzidas.
+Ressaltam a nulidade da prisão do paciente pelo uso injustificado de algemas em descumprimento ao teor da Súmula Vinculante n. 11.
+Sustentam a ausência dosrequisitos autorizadores do art. 312 do Código de Processo Penal de modo que a imposição da custódia cautelar não estaria suficientemente justificada e pautada exclusivamente na gravidade abstrata dos delitos.
+Afirmam a desproporcionalidade da segregação antecipada considerando a possibilidade da aplicação de regime inicial de pena mais brando que o fechado em caso de condenação.
+Defendem a nulidade da decisão que determinou a prisão por falta de justificativa quanto ao descabimento de medidas cautelares alternativas e ressaltam a suficiência da aplicação de medidas cautelares alternativas, indicando que o paciente conta com predicados pessoais favoráveis.
+Pugnam, em liminar e no mérito, pela revogação da prisão preventiva mediante a aplicação de medidas cautelares alternativas, nos termos do art. 319 do CPP. Requerem, ainda, a declaração da nulidade e desentranhamento das peças alegadamente eivadas de vício, a realização do exame detido do caso tendo em conta os precedentes mencionados na ordem impetrada e a expressa manifestação acerca das matérias alegadas pela defesa.
+Os impetrantes manifestam interesse na realização de sustentação oral e rogam por sua intimação para comparecimento na sessão de julgamento.
+É o relatório.
+Decido.
+A jurisprudência desta Corte Superior, aplicando por analogia o enunciado n. 691 da Súmula do Supremo Tribunal Federal, firmou-se no sentido de não conhecer de mandamus impetrado contra decisão que indefere liminar na origem, excetuados os casos nos quais, de plano, é possível identificar flagrante ilegalidade ou teratologia do referido decisum.
+Nesse sentido, destaco os seguintes precedentes:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA. DECISÃO MONOCRÁTICA PROFERIDA COM OBSERVÂNCIA DO RISTJ E DO CPC. ATO COATOR: DECISÃO SINGULAR DE DESEMBARGADOR DA INSTÂNCIA DE ORIGEM. INDEFERIMENTO DA LIMINAR. AUSÊNCIA DE TERATOLOGIA OU ILEGALIDADE MANIFESTA QUE AUTORIZE A RELATIVIZAÇÃO DA DIRETRIZ DA SÚMULA 691 DO STF. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A prolação de decisão monocrática pelo ministro relator, ou mesmo pela Presidência do STJ, está autorizada não apenas pelo RISTJ, mas também pelo CPC. Nada obstante, como é cediço, os temas decididos monocraticamente sempre poderão ser levados ao colegiado, por meio do controle recursal, o qual foi efetivamente utilizado no caso dos autos, com a interposição do presente agravo regimental.
+2. A jurisprudência do Superior Tribunal de Justiça, na esteira da Súmula n. 691 do Supremo Tribunal Federal, aplicável por analogia, entende que não cabe habeas corpus contra decisão que indefere liminar na origem.
+3. Em situações excepcionais, entretanto, como forma de garantir a efetividade da prestação jurisdicional nas situações de urgência, uma vez constatada a existência de flagrante ilegalidade, abuso de poder ou teratologia, é possível a superação do mencionado enunciado (HC 318.415/SP, Rel. Min. REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 4/8/15, DJe 12/8/15).
+4. No caso destes autos, não há ilegalidade flagrante, abuso de poder ou teratologia a autorizar a superação do obstáculo contido na Súmula nº 691/STF, uma vez que o recorrente autuado em flagrante por infração ao art. 33, caput, da Lei n. 11.343/2006, ostenta condenação pela prática de furto qualificado, porte ilegal de drogas para consumo pessoal, tráfico de drogas e lesão corporal, a denotar um quadro de reiteração na prática delitiva, o que justifica a necessidade, por ora, da manutenção de sua custódia preventiva para a garantia da ordem pública.
+5. A persistência do agente na prática criminosa justifica a interferência estatal com a decretação da prisão preventiva, nos termos do art. 312 do CPP, porquanto esse comportamento revela uma periculosidade social e compromete a ordem pública.
+6. Não se vislumbra, portanto, ser o caso de atuação prematura desta Corte, para analisar eventual constrangimento ilegal não demonstrado primo ictu oculi. Sem a manifestação do Tribunal a quo, o STJ fica impedido de apreciar o alegado constrangimento ilegal, sob pena de incorrer em indevida supressão de instância.
+7. Agravo regimental não provido
+(AgRg no HC 631.810/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 17/12/2020).
+AGRAVO REGIMENTAL EM HABEAS CORPUS. HOMICÍDIO. PRISÃO PREVENTIVA. IMPETRAÇÃO CONTRA DECISÃO INDEFERITÓRIA DE LIMINAR PROFERIDA EM HABEAS CORPUS PROTOCOLADO NA ORIGEM, CUJO MÉRITO AINDA NÃO FOI JULGADO. SUPRESSÃO DE INSTÂNCIA. INEXISTÊNCIA DE TERATOLOGIA. IMPOSSIBILIDADE DE SUPERAÇÃO DO ÓBICE PROCESSUAL REFERIDO NA SÚMULA N. 691 DO SUPREMO TRIBUNAL FEDERAL. WRIT INCABÍVEL. AGRAVO DESPROVIDO.
+1. Em regra, não se admite habeas corpus contra decisão denegatória de liminar proferida em outro writ na instância de origem, sob pena de indevida supressão de instância. E, na espécie, não há situação extraordinária que justifique reforma da decisão em que se indeferiu liminarmente a petição inicial.
+2. A decretação ou a manutenção da prisão preventiva depende da demonstração categórica de um ou mais dos requisitos do art. 312 do Código de Processo Penal. Para isso, o Julgador deve consignar, expressamente, elementos reais e concretos indicadores de que o indiciado ou acusado, solto, colocará em risco a ordem pública ou econômica, a instrução criminal ou a aplicação da lei penal.
+3. Na decisão em que converteu em preventiva a prisão em flagrante, o Juiz de primeiro grau consignou expressamente que a Autoridade Policial esclareceu, no auto de comunicação do ato flagrancial, que a Vítima foi morta após ser esfaqueada duas vezes pelo Agravante, em razão de um desentendimento. Considerada essa conjuntura, parece que a constrição tem base empírica idônea, notadamente porque o emprego de violência exacerbada em conduta que resulta a morte da Vítima demonstra a periculosidade concreta do Agente, a indicar a necessidade da prisão cautelar para a garantia da ordem pública, conforme jurisprudência desta Corte.
+4. Patente constrangimento ilegal ao jus ambulandi do Agravante não demonstrado. Impossibilidade de mitigação do óbice processual previsto na Súmula n. 691 do Supremo Tribunal Federal, cuja essência vem sendo reiteradamente ratificada por julgados do Pretório Excelso e deste Superior Tribunal de Justiça.
+5. Agravo regimental desprovido
+(AgRg no HC 623.057/BA, Rel. Ministra LAURITA VAZ, SEXTA TURMA, DJe 02/12/2020).
+Na hipótese, ao menos em juízo perfunctório, não vislumbro a possibilidade de superação do mencionado enunciado sumular.
+Note-se que o indeferimento da tutela de urgência pautou-se em fundamentação idônea ao afirmar que asilegalidades aventadas pelos impetrantes não estavam manifestas e detectáveisde plano, de modo que a análise das alegações foi reservada ao colegiado, nos seguintes termos:
+"Com efeito, em que pese os termos da respeitável inicial(Evento 1, INIC1), não vislumbro,neste momento, oconstrangimento ilegalanunciado, nem irregularidades na conduta dos agentes que participaram das diligências, bem como da prisão em flagrante do paciente.
+Cumpre ressaltar, inicialmente, que os argumentos apresentados pela defesa técnica,em grande parte, deverão ser analisados no momento processual oportuno, já que não é possível oexame de provas, de forma pormenorizada, em sede dehabeas corpus.
+Ademais, observa-se que a e. magistrada, atuante na Vara Criminal da Comarca de Santiago,homologouo auto de prisão em flagranteem25/08/22, nos seguintes termos (proc. 5005241-41.2022.8.21.0064, Evento 4, DESPADEC1):
+"(..)Vistos.
+Versa o presente provimento decisório acerca da análise de auto de prisão em flagrante lavrado em desfavor de JOAO PEDRO PICCINI RUSSO eJONATHAN BECK FERREIRA pela prática, em tese, dos delitos detráfico de drogas e associação ao tráfico de drogas e artigo 12, da Lei nº 10.826, constanto do expediente representação da autoridade policial pelo decreto da prisão preventiva dos nominados.
+Decido:
+I - Da homologação do Auto de prisão em flagrante:
+Trata-se de APF lavrado pela autoridade de polícia competente, dentro das 24 horas da prisão dos indigitados, caracterizando, pois, o estado de flagrância previsto no artigo 302, inciso I, do Código de Processo Penal.
+Restaram plena e rigorosamente cumpridas as exigências dos incisos LXII e LXIII do Artigo 5º da Constituição Federal
+Foram ouvidos o condutor, três testemunhas e os conduzidos. Foram lançadas as respectivas assinaturas e entregues aos arguidos as respectivas notas de culpa, dentro das primeiras 24 horas, conforme recibospor eles assinados.
+O auto de apreensão e o Laudo de constatação da natureza da substância evidenciam a existência material do evento criminoso, havendo suficientes indícios acerca da autoria delitiva a partir da palavra dos intervenientes ouvidos no feito.
+Ao exposto, presentes os pressupostos legais e constitucionais,HOMOLOGOo auto de prisão em flagrante em apreço.
+Comunique-se à Autoridade Policial e à Administração da Casa Prisional.
+II - Audiência de custódia:
+Em observância à Resolução nº 1229/2018-COMAG, designo audiência de custódia para o dia25/08/2022, às16h30min.
+Requisite-se.
+Intimem-se.
+Dil.(..)" - grifo nosso -.
+Verifica-se, ainda, que foi realizada audiência de custódia na mesma data(25/08/22), sendo decretada, posteriormente, a prisão preventiva dos flagrados, através de decisão devidamentefundamentada(proc. 5005241-41.2022.8.21.0064, Eventos 7 e 12).
+De acordo com a autoridade judiciária competente(proc.5005241-41.2022.8.21.0064, Evento 12, DESPADEC1):
+"(..)Vistos.
+Autoridade Policial Civil apresenta auto de prisão em flagrante lavrado em desfavor deJoão Pedro Piccini Russo e Jonathan Beck Ferreira,autuados pelo cometimento, em tese, doscrimes de tráfico de drogas, associação para o tráfico de drogas e posse irregular de arma de fogo.
+Homologado o flagrante, bem como designada audiência de custódia.
+O Ministério Público manifestou pela decretação da prisão preventiva.
+Manifestou-se a defesa pelo relaxamento da prisão em flagrante delito e/ou pedido de liberdade provisória.
+É o sucinto relatório.
+Passo a fundamentar.
+II - Do decreto de segregação cautelar:
+A materialidade é questão que se depreende do registro de ocorrência, do auto de apreensão e do Laudo de constatação da natureza da substância.
+No mesmo sentido, a existência de suficientes indícios acerca da autoria delitiva verte incontroversa dos elementos probatórios colacionados ao expediente, uma vez que os autuados foram presos em flagrante delito na posse da droga apreendida.
+Ainda,a quantidade e diversidade de droga apreendida permite fracionamento e a comercialização de pequenas quantidades, com o auferimento de considerável lucro, inexistindo,a priori, a possibilidade de cogitar o afastamento da situação de traficância e o labor nesse sentido.
+As circunstâncias referidas não autorizam a conclusão de que a maconha apreendida seria utilizada para o próprio consumo, reforçando a tese de que se destinava ao comércio ilícito, não havendo falar, por ora, no afastamento de tal constatação, dado que induz considerar se tratar de situação conducente a mantença da custódia na modalidade de segregação preventiva.
+Registro, ainda, à luz do contexto fático acima descrito que a conjuntura exibida, em que pese não envolva o uso de violência ou grave ameaça à pessoa, amplamente gravosa em sua natureza, torna impositiva o cerceamento libertário como medida de repressão ao desalinho da conduta social praticada pelo flagrado, máxime se sopesadoo flagelo gerado pelo tráfico de drogas e as mazelas impostas às famílias atingidas por tal atividade, amplamente, detrimentosa à ordem pública social.
+Impende, ainda, seja considerado que o delito, por si só constitui cabal afronta à ordem pública social, situação que impõe concluir pela razoabilidade e proporcionalidade da medida reclusiva.
+Nesse sentido:
+HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. PRESENÇA DOS REQUISITOS AUTORIZADORES DA SEGREGAÇÃO PREVENTIVA. GRANDE QUANTIDADE DE DROGA APREENDIDA. INAPLICABILIDADE DE MEDIDAS CAUTELAR DIVERSAS. REINCIDÊNCIA. VIOLAÇÃO AO PRINCÍPIO DA PRESUNÇÃO DE INOCÊNCIA. INOCORRÊNCIA. 1. Apreendida grande quantidade de maconha (32kg) além de substância de alto poder lesivo e viciante (crack), juntamente com balança de precisão de bolso, a sinalizar para a atividade de mercancia de drogas. 2.A atividade de traficância, via de regra, envolve a repetição de atos criminosos, o que acarreta a sensação de insegurança na coletividade, já que o consumo de entorpecentes está diretamente ligado ao aumento da violência urbana que faz parte da rotina em nossa sociedade, a justificar a inaplicabilidade das medidas cautelares diversas. 3. Hipótese em que o paciente é reincidente, circunstância que indica que habitualmente pratica condutas ilícitas, de sorte que a sua liberdade coloca, sim, em risco a ordem pública. 4. A segregação preventiva constitui prisão cautelar, que se ampara nos requisitos do fumus delicti commissi e periculum libertatis, diversos da imposição de pena e, portanto, não caracteriza ofensa ao princípio da presunção de inocência. ORDEM DENEGADA. (Habeas Corpus Nº 70070035910, Primeira Câmara Criminal, Tribunal de Justiça do RS, Relator: Cláudia Maria Hardt, Julgado em 06/07/2016)
+HABEAS CORPUS. TRÁFICO DE DROGAS. CONVERSÃO DE PRISÃO EM FLAGRANTE EM PREVENTIVA. DECISÃO ADEQUADAMENTE FUNDAMENTADA. RISCO CONCRETO À ORDEM PÚBLICA. A prisão processual não produz afronta ao regramento constitucional - onde encontra recepção -, tampouco constitui cumprimento antecipado de pena, porquanto guarda estrita relação com a cautelar necessidade de recolhimento do agente, como forma de garantir a ordem pública, viabilizar o regular desenvolvimento do processo ou assegurar cumprimento de eventual condenação. E não traz qualquer ofensa ao princípio da presunção da inocência, mormente ante o disposto no art. 312 do Código de Processo Penal cuja essência - proteção da sociedade - constitui objetivo preponderante no Estado Democrático.Cuidando-se o tráfico de drogas de crime grave, tanto que equiparado a hediondo, a repercussão social dele decorrente, quer no âmbito da saúde pública, quer na esfera da criminalidade - potencializada pelo uso e pelo comércio de substâncias entorpecentes - está a evidenciar concreto risco à ordem pública a tornar necessária a prisão preventiva e obstar a aplicação das medidas cautelares a que alude o art. 319 do Código de Processo Penal.Segregação cautelar devidamente fundamentada, fundada nas circunstâncias em que se deu a prisão, restando apreendida, em poder do paciente, drogas diversas (maconha, cocaína e crack), quando abordado em zona onde costumeira a mercancia de substâncias entorpecentes. ORDEM DENEGADA. (Habeas Corpus Nº 70070016407, Primeira Câmara Criminal, Tribunal de Justiça do RS, Relator: Honório Gonçalves da Silva Neto, Julgado em 29/06/2016)
+No mesmo norte,mostra-se inadequada a análise acerca da aplicação das medidas cautelares diversas da prisão preventiva, pois o caso em si é extremamente gravoso e repele, de plano, o instituto.
+Acresce-se ao acima delineado o fato de que eventual concessão da benesse libertária pode ser interpretada como incentivo à prática de novas infrações penais e alimentar odioso sentimento de impunidade, além de vir em descrédito à própria imagem do Poder Judiciário.
+De elencar, por oportuno, que ao tipo penal em comento, tipificado no art. 33 da Lei 11.343/2006, é abstratamente cominada a pena de05 a 15 anos de reclusão, patamar que supera em muito o quantum limitativo exposto à redação do art. 313, inc. I, do Código de Processo Penal, como requisito ao decreto da prisão preventiva.
+Por fim, tão só a natureza do ilícito, observada a intrínseca lesividade que o consagra, evidenciadosfumus comissi delictiepericulum libertatis, figura como suficiente fundamentação à ordem de perpetuação do recolhimento carcerário, providência extrema capaz de conter o ímpeto delitivo do recluso e ofertar à sociedade a tão sonhada sensação de segurança.
+Assim, à luz de todo o exposto, na esteira do que dispõe o artigo 312 do Código de Processo Penal,CONVERTOa prisão em flagrante dos autuadosJoão Pedro Piccini Russo e Jonathan Beck Ferreiraem prisão preventiva,para garantia da ordem pública.
+Intimem-se.
+Recomende-se oflagradona prisão em que se encontra.
+Dê-se ciência à Administração Prisional e à Autoridade Policial.
+III - Destruição de drogas:
+Verificada a regularidade formal dos laudos de constatação da natureza das substâncias,determino a destruição das drogas apreendidas, guardando-se somente amostra necessária à realização do laudo definitivo, consoante disposto no art. 50, § 3º, da Lei nº 11.343/2006.
+IV- Autorização para extração e análise do conteúdo do aparelho de telefone celular apreendido:
+A providência buscada é extrema e excepcional, pois fere o direito à inviolabilidade das comunicações eletrônicas, franquia com assento constitucional.
+Todavia, operando com a lógica do cariz relativo que encerra alguns direitos fundamentais, mister a referência de que proteção não é absoluta, podendo haver quebra de sigilo de ditas operações se determinadas judicialmente e de forma fundamentada, previsão elencada no próprio texto constitucional.
+Consigno, portanto, que à luz da interpretação analógica do regramento insculpido na Lei 9.296/96, a análise do caso em concreto, do qual se evidencia a existência de suficientes indícios do envolvimento do investigado na prática do crime de tráfico de entorpecentes, sobressai-se a real necessidade de deferimento da medida pretendida, a fim de viabilizar a apuração do delito investigado.
+Assim,DEFIRO, com base nas disposições da Lei 9.296/96, a autorização paraEXTRAÇÃO, DECODIFICAÇÃO E ANÁLISEde dados do conteúdo da memória dos telefones celular apreendidos.
+Oficie-se.
+V- Transferência:
+Pretende a defesa a transferência dos flagradosJoão Pedro Piccini Russo e Jonathan Beck Ferreirapara o Presídio Estadual de Jaguari.
+À face do relatado,DEFIROa postulação, para determinar a transferência dos nominados àquele estabelecimento prisional,pelo prazo de30 dias,condicionado apenas à concordância da Central de transferências.
+Oficie-se, por correio eletrônico, à Central de transferências, solicitando resposta dentro da maior brevidade possível.
+Com a autorização, proceda-se à imediata transferência, comunicando-se à SUSEPE.
+Intimem-se.
+Dil.(..)" - grifo nosso -.
+Inviável, assim,aexpedição de alvará de soltura, ou a aplicação dascautelaresdiversas(art. 319 do CPP), pois, a princípio, medidas insuficientes e inadequadas ao caso,por ora.
+A presença depredicadospessoais favoráveis, por si só, não justifica a concessão da liberdade provisória.Isso porque, estão presentes osrequisitosdo art. 312 do CPP.
+Eventual projeção dapenaou doregimea ser fixado em caso de condenação também não justifica a concessão da liberdade, pois a prisão, neste momento, tem natureza cautelar.
+Os elementos colhidos em sede policial são robustos, e indicam a suposta participação do paciente em delito grave (equiparado a hediondo inclusive), em tese.
+Registre-se, por outro lado, que os argumentos ora apresentados pela defesa, em grande parte, e ao que tudo indica,sequer foram levados a conhecimento da e. magistrada, atuante na comarca de origem(proc. 5005241-41.2022.8.21.0064, Evento 10, PET1).
+Inobstante,oportuno salientar que eventuais omissões e/ou contradições por parte da autoridade competente autorizam o manejo deembargos de declaraçãona origem, a fim de elucidar as questões levantadas em benefício do paciente,se for o caso.
+Além disso, parece-me adequado, no caso em concreto,oportunizar prévia manifestação doMinistério Públicode Segundo Grau a respeito, bem como o conhecimento da matéria pelo Colegiado.
+Consigno, por fim, que a prisão preventiva não ofende o princípio constitucional da presunção deinocência, nem se trata deexecuçãoantecipada da pena. A Constituição Federal prevê, no seu art. 5º, LXI, a possibilidade de prisão, desde que decorrente de ordem escrita e fundamentada.
+Ante o exposto,indefiroa liminar.
+Determino, contudo, e excepcionalmente, seja oficiado à autoridade tida como coatora para que preste os esclarecimentos que entender pertinentes, considerando especialmenteas diversas ilegalidadesapontadas pela defesa. Prazo: 10 dias.
+Com as informações,dê-se vista aoMinistério Públicode Segundo Grau para parecer.
+Após, voltem os autos conclusos para inclusão em pauta de julgamento." (fls. 128/134).
+Demais disso, em consulta ao sítio eletrônico do Tribunal de origem, observo que o Ministério Público estadual já ofertou parecer, a denotar a iminência do julgamento do writ.
+Assim, de acordo com a pacífica jurisprudência do Superior Tribunal de Justiça, a fim de evitar indevida supressão de instância, deve-se aguardar o julgamento de mérito da impetração pela Corte de origem.
+Por tais razões, nos termos do art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se.
+Intimem-se.
