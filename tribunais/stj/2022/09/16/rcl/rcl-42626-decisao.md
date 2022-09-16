@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de reclamação, com pedido de liminar, proposta por SERGIO BRASIL DE SOUZA. em que aponta como autoridade reclamada o Tribunal de Justiça de Santa Catarina que não conheceu do agravo em recurso especial e do agravo interno interpostos contra decisão que não admitiu o recurso especial (fls. 813-825).
+Assevera o autor que o Tribunal de origem usurpou a competência da instância superior ao proferir decisão denegatória no agravo em recurso especial e no agravo interno.
+Menciona não estar caracterizada violação do princípio da unirrecorribilidade das decisões, por ser "possível interpor ambos agravos em conjunto".
+Requer o deferimento de liminar para suspensão do acórdão reclamado que negou seguimento ao agravo interno e ao agravo em recurso especialpara obstar o trânsito em julgado da condenação. No mérito, pede a cassação da decisão reclamada.
+O pedido liminar foi indeferido às fls. 830-831 por ausência dos requisitos necessários à sua concessão.
+O Ministério Público Federal manifestou-se às fls. 945-950, opinando pelo não conhecimento da reclamação, ou, caso dele se conheça, por sua improcedência.
+É o relatório. Decido.
+Como já observado na decisão de indeferimento do pedido liminar, a análise do caderno probatório demonstra que o reclamante interpôs simultaneamente agravo interno e agravo em recurso especial contra a decisão que negou seguimento ao recurso especial que manejara. Ambos os recursos não conhecidos, à unanimidade, pela Câmara de Recursos Delegados do Tribunal de origem, o primeiro porque manifestamente incabível e o segundo pela irrecorrebilidade.
+Logo, não há falar em usurpação de competência do STJ, vistoque o reclamante não se desimcumbiu do ônus de veicular sua insurgência através de recurso com aptidão para ser enviado, conhecido e julgado por esta Corte.
+Nesse sentido, cito precedente:
+PROCESSUAL CIVIL. AGRAVO INTERNO. RECLAMAÇÃO. USURPAÇÃO DA COMPETÊNCIA DO STJ. INEXISTÊNCIA. 1. É da competência desta Corte Superior o exame da admissibilidade do agravo em recurso especial quando intentado contra a decisão da instância ordinária que inadmite o recurso especial por outros fundamentos que não o previsto no art. 543-C do CPC (art. 1.036 do CPC/2015), nos termos do art. 1.042, caput e § 4º, do CPC/2015. 2. Não se verifica usurpação de competência deste Tribunal Superior quando o agravo, obstado na origem, é manifestamente incabível, razão pela qual não se admite o manejo da via reclamatória. Precedentes. 3. Agravo interno não provido. (AgInt na Rcl: 35666 SP 2018/0069147-2, Relator: Ministro LUIS FELIPE SALOMÃO, Data de Julgamento: 23/05/2018, S2 - SEGUNDA SEÇÃO, Data de Publicação: DJe 28/05/2018.)
+Com essas considerações, indefiro liminarmente esta reclamação, com amparo no art. 210 do Regimento Interno do Superior Tribunal de Justiça.
+Intimem-se.
