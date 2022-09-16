@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de habeas corpus sem pedido de liminar impetrado em favor de JULIO CESAR DA CUNHA em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de Mato Grosso do Sul (Ação Penal n. 0040102-42.2009.8.12.0001).
+O paciente foi condenado às penas de 3 anos de reclusão em regime semiaberto e de 15 dias-multa, pela prática dos crimes descritos nos art. 155, § 4º, I e IV, do Código Penal.
+Interposta apelação defensiva, o Tribunal de origem negou provimento ao recurso em acórdão assim ementado (fl. 43):
+APELAÇÃO CRIMINAL -DOIS APELANTES -FURTO QUALIFICADO -INAPLICABILIDADE DO IN DUBIO PRO REO -AUTORIA COMPROVADA -DESRESPEITO AO ART. 155 DO CPP -NÃO VERIFICADO -CONDENAÇÕES MANTIDAS -RECURSOS DESPROVIDOS.
+Todos os elementos dos autos comprovam a participação dos apelantes na prática do furto, devendo ser mantida a bem fundamentada sentença condenatória. inaplicável assim, o princípio do "in dubio pra reo".
+A materialidade e a autoria restaram comprovadas nos autos. Embora negada. a autoria é inconteste, pois demonstrada pelo conjunto probatório. A alegação de desrespeito ao artigo 155, do CPP, não procede, unia vez que a sentença baseou-se tanto nas provas coletadas em juízo quanto na fase policial, em consonância com a redação do referido artigo, que diz: "O juiz formará sua convicção pela livre apreciação da prova produzida em contraditório judicial, não podendo fundamentar sua decisão exclusivamente nos elementos informativos colhidos na investigação, ressalvadas as provas cautelares, não repetíveis e antecipadas".
+A defesa alega excesso no aumento operado na primeira fase dosimétrica, em razão dos maus antecedentes.
+Requer seja a pena redimensionada.
+As informações foram prestadas às fls. 75-80, 87-88 e 91-92.
+O Ministério Público Federal manifestou-se pelo não conhecimento do writ e pela concessão da ordem de ofício para aplicação da fração de 1/6 no aumento incidente na primeira fase dosimétrica (fls. 95-99).
+É o relatório. Decido.
+Ainda que inadequada a impetração dehabeas corpusem substituição à revisão criminal ou ao recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o Superior Tribunal de Justiça considera passível de correção de ofício o flagrante constrangimento ilegal.
+O pleito formulado no presentewrité dotado de plausibilidade jurídica, circunstância que autoriza a atuaçãoexofficio.
+A instância antecedente, na fixação da pena-base do paciente, dispôs o seguinte (fl. 28):
+A culpabilidade do acusado não extrapolou os limites normais ao tipo penal em tela. Por outro lado, consoante se infere das certidões de f. 469-479, ele registra antecedentes criminais. Não há, nos autos, elementos para urna melhor análise de sua conduta social e de sua personalidade. Os motivos do crime, as circunstâncias e as consequências, por fim, são normais à espécie e não lhe prejudicam. Saliento, por fim, que o comportamento da vítima não incentivou a prática do delito, razão pela qual não será considerado para efeitos da pena.
+Feito isso, fixo a pena-base acima do mínimo legal em 03 (três) anos de reclusão e multa de 15 (quinze) dias-multa, à razão de 1/30 do salário -mínimo vigente à época dos fatos, ao dia, corrigido.
+No tocante à dosimetria da pena, deve o julgador, na primeira fase, no limite de sua atividade discricionária, estipular o quantum da reprimenda necessária à reprovação e à prevenção do delito, respeitados os parâmetros previstos no art. 59 do CP e os princípios da proporcionalidade e da razoabilidade.
+No caso, o aumento operado pela instância ordinária, em razão dos maus antecedentesdo paciente caracterizada por uma condenação, é excessivo e desproporcional, razão pela qual deve ser reduzido à usual fração de 1/6, consoante jurisprudência firmada no âmbito desta Corte Superior.
+A esse respeito, confiram-se os julgados abaixo:
+HABEAS CORPUS. WRIT SUBSTITUTIVO. ROUBO CIRCUNSTANCIADO. PENA-BASE. PERSONALIDADE. MOTIVAÇÃO INIDÔNEA. BIS IN IDEM. ANTECEDENTES. FRAÇÃO DE 1/2. DESPROPORÇÃO. REGIME INICIAL FECHADO. FUNDAMENTAÇÃO INSUFICIENTE. ILEGALIDADE. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+4. O Juiz sentenciante -no que foi corroborado pela Corte local -, a despeito de haver mencionado os maus antecedentes do réu, não apontou, concretamente, eventuais circunstâncias que pudessem influir no aumento da pena-base no patamar acima de 1/6 -in casu 1/2, o que corresponde a 2 anos acima do mínimo -, para uma única circunstância, que fazia referência a apenas uma condenação.
+ ..
+8. Habeas corpus não conhecido. Ordem concedida, de ofício, a fim de reduzir a pena-base do segundo paciente, tornado a pena definitiva em 7 anos, 3 meses e 3 dias de reclusão mais 17 dias-multa, bem como confirmar a liminar anteriormente deferida e fixar o regime semiaberto ao primeiro paciente. (HC n. 227.144/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 28/3/2016.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO TENTADO. DOSIMETRIA. PENA-BASE FIXADA ACIMA DO MÍNIMO LEGAL. MAUS ANTECEDENTES. POSSIBILIDADE DE EXASPERAÇÃO. CONTUDO, AUMENTO QUE SE MOSTROU DESPROPORCIONAL. EXISTÊNCIA DE APENAS UMA CONDENAÇÃO TRANSITADA EM JULGADO. REDIMENSIONAMENTO PARA 1/6. CONSTRANGIMENTO ILEGAL CONFIGURADO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Como é cediço, a dosimetria da pena insere-se dentro de um juízo de discricionariedade do julgador, atrelado às particularidades fáticas do caso concreto e subjetivas do agente, somente passível de revisão por esta Corte no caso de inobservância dos parâmetros legais ou de flagrante desproporcionalidade.
+2. Em relação ao patamar de aumento aplicado à pena-base, a jurisprudência desta Corte firmou-se no sentido de que a exasperação da pena-base, pela existência de circunstâncias judiciais negativas, deve seguir o parâmetro da fração de 1/6 para cada circunstância judicial negativa, fração que se firmou em observância aos princípios da razoabilidade e proporcionalidade.
+3. Diante disso, a exasperação superior à referida fração, para cada circunstância, deve apresentar fundamentação adequada e específica, a qual indique as razões concretas pelas quais a conduta do agente extrapolaria a gravidade inerente ao teor da circunstância judicial.
+4. No caso, na primeira fase da dosimetria, foi aplicado o acréscimo à pena-base em 1/4, em razão dos maus antecedentes (existência de apenas uma condenação anterior transitada em julgado), não se mostrando proporcional. Assim, conforme entendimento desta Corte Superior, a exasperação da pena-base deve seguir a usual fração de 1/6 para a referida circunstância judicial negativa, impondo-se o redimensionamento.
+4. Agravo regimental não provido.(AgRg no HC n. 705.941/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 13/12/2021.)
+Considerando a fundamentação exposta, passo a redimensionar a pena do paciente.
+Na primeira fase, mantenho os maus antecedentes emajoro a pena-base em 1/6, perfazendo 2 anos e 4 meses de reclusão e 11 dias-multa.
+Nas segunda e terceira fases, não há outras causas modificadoras da pena, de modo que torno definitiva a reprimenda anteriormente imposta.
+Por fim, fixo o regime prisional inicial semiaberto diante das circunstâncias judiciais desfavoráveis com a consequente fixação da pena-base acima do mínimo legal, conforme disposto no art. 33, § 3º, do Código Penal.
+Nesse sentido, confiram-se os seguintes precedentes: AgRg no REsp n. 1.751.261/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 26/9/2018; e HC n. 721.299/SC, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 14/3/2022.
+Ante o exposto,não conheço do presentehabeas corpus,masconcedo a ordem de ofício,de acordo com o art. 654, § 2º, do Código de Processo Penal,a fim de redimensionar a pena definitiva do paciente para 2 anos e 4 meses de reclusão, mantido o regime prisional semiaberto, e 11 dias-multa, conforme fundamentação acima.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
