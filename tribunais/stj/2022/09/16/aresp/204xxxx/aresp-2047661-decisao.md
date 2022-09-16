@@ -1,0 +1,29 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo em recurso especial interposto por AMARO TRANSPORTE E COMERCIO LTDA, DANIEL GOMES AMARO, ANA LUCIA GOMES AMARO eAIRTON RIBEIRO AMAROcontra decisão do Tribunal de Justiça do Estado de São Pauloque não admitiu recurso especial manejado contra acórdão assim ementado (e-STJ, fl. 85):
+CONTRATO BANCÁRIO. Execução. Impugnação à penhora de imóvel. Parte coexecutada que alega possuir nua propriedade de apenas 25% de um imóvel que, além de tudo, serve de moradia para sua mãe e irmãos. Alienação, entretanto, dessa mesma fração do imóvel ao irmão coproprietário. Existência, ademais, de cláusula de usufruto vitalício à sua mãe. Fato que impede qualquer restrição ao referido direito real exercível erga omnes. Inocorrência de vulneração à Lei nº. 8.009/1990 (Bem de Família). Recurso não provido.
+Nas razões do recurso especial a parte alega ofensa aoseguintedispositivolegal: art. 99, §2º e §3º, do CPC.
+Pede a reforma do acórdão por entender, em síntese, que"a jurisprudência é pacífica no sentido de que basta a parte a simples afirmação de que não possui condições financeiras de arcar com as custas do processo, não podendo, portanto, haver o indeferimento de tal pedido" - fls. 102/103.
+É o relatório.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à analise do recurso especial.
+É de se observar que ao apreciar o pedido de assistência judiciária gratuita, a Corte de origem o indeferiu, por entender que os requerentes não comprovaram a hipossuficiência, com base na seguinte fundamentação(e-STJ Fl. 87):
+E, realmente, nada convence de que os requerentes se enquadrem no conceito legal de necessitados. Ao contrário, existem nos autos indícios de suficiência econômica, pelo menos a ponto de permitir suportar as custas deste processo.
+As copias das declarações de imposto de renda de Airton Ribeiro Amaro(fls. 48/52); Ana Lúcia Gomes Amaro (fls. 53/59); e Daniel Gomes Amaro (fls. 60/66), deixam entrever, até pelas constantes movimentações de bens e contratação de empréstimos, que todos os executados são empresários e possuem o tino comercial para o ramo mercantil.
+Além disso, tais informes ao fisco revelam que possuem livre trânsito no mercado financeiro de crédito, denotando que têm condições econômicas suficientes para arcar com os pagamentos, pois é cediço que as instituições financeiras em geral emprestam a quem pode pagar.
+O balancete analítico da empresa Amaro Transporte e Comércio é de um espaço amostral muito exíguo para demonstrar qualquer fragilidade empresarial e, ao contrário, denota receitas parciais do exercício de 2019 de R$ 442.781,92, sendo que os custos estimados em R$ 333.998,32 se mostram inconclusivos diante da total ausência de conciliação bancária (extratos bancários de todas as contas da empresa de pelo menos 12 meses para trás.
+Assim, para afastar as premissas fixadas no aresto atacado, bem como para alterar a conclusão a que o órgão julgador chegou acerca do tema, seria preciso reexaminar a matéria fática, o que é vedado em sede especial, conforme dispõe a Súmula 7/STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. PEDIDO DE ASSISTÊNCIA JUDICIÁRIA GRATUITA. INDEFERIMENTO DE BENEFÍCIO. CONCLUSÃO DO ACÓRDÃO RECORRIDO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. A jurisprudência do STJ é firme no sentido de que a declaração de necessidade de concessão dos benefícios em questão gera presunção juris tantum, podendo ser afastada pelo magistrado se houver elementos de prova em sentido contrário.
+2. Na presente hipótese, verifico que o Tribunal local analisou a questão com base no conjunto fático-probatório dos autos. Transcrevo parte do voto, in verbis: "A parte aufere renda bruta superior ao critério estabelecido, conforme contracheque acostado (evento 23, CHEQ2, dos autos originários). E ainda resta o valor líquido de R$ 2.948,38 após pagamento de empréstimos consignados e cartão de crédito. Tudo isso demonstra capacidade financeira superior ao limite de isenção do imposto de renda e à média salarial do trabalhador brasileiro. (..) É verdade que em primeiro exame deve ser admitida a simples afirmação, pelo próprio beneficiário, de sua impossibilidade de arcar com as despesas do processo. Mas, especialmente na Justiça Federal, na qual as custas não são altas, é facultado ao magistrado fazer exame mais acurado e indeferir o benefício quando presentes elementos capazes de afastar a alegada insuficiência de recursos.(..) Assim, correta a decisão que indeferiu o pedido de gratuidade de justiça ante a não comprovação de dificuldade financeira do autor, não bastando mera declaração de insuficiência econômica".
+3. A Corte de origem indeferiu o pedido de concessão do benefício da justiça gratuita com base na análise da condição econômica da parte.
+Desconstituir a conclusão alcançada pelas instâncias ordinárias a respeito dos requisitos para o seu deferimento, tal como colocada a questão nas razões recursais, demanda novo exame do acervo fático-probatório constante nos autos, providência vedada em Recurso Especial, ante o óbice da Súmula 7/STJ.
+4. Agravo Interno não provido.
+(AgInt no AREsp n. 1.978.217/RJ, relator Ministro Herman Benjamin, Segunda Turma, julgado em 2/5/2022, DJe de 24/6/2022.)
+Advirta-se que eventual recurso interposto contra este decisum estará sujeito às normas do CPC/2015 (cf. Enunciado Administrativo n. 3/STJ).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. JUSTIÇA GRATUITA. PEDIDO NEGADO PELA CORTE DE ORIGEM. ALEGADA EXISTÊNCIA DE HIPOSSUFICIÊNCIA. SÚMULA 7/STJ.
+1. Para afastar as premissas fixadas no aresto atacado, bem como para alterar a conclusão a que o órgão julgador chegou acerca do tema, seria preciso reexaminar a matéria fática, o que é vedado em sede especial, conforme dispõe a Súmula 7/STJ.
+AGRAVO CONHECIDO PARA DESDE LOGO, NÃO CONHECER DO RECURSO ESPECIAL.
