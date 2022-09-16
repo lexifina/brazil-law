@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso especial interposto pela UNIÃO contra acórdão do Tribunal Regional Federal da 3ª Região, assim ementado (e-STJ fls. 551):
+CONSTITUCIONAL PROCESSUAL CIVIL REMESSA OFICIAL TIDA POR OCORRIDA. DOENÇA GRAVE. LEGITIMIDADE PASSIVA DA UNIÃO. DIREITOS DA PERSONALIDADE. IMPRESCRITIBILIDADE. PENSÃO ESPECIAL PARA PORTADORES DA SÍNDROME DE TALIDOMIDA. LEI Nº 7.070/82. CUMULAÇÃO COM BENEFÍCIO PREVIDENCIÁRIO. POSSIBILIDADE. RESPONSABILIDADE SUBJETIVA. OBRIGAÇÃO ESTATAL. CULPA. COMPROVAÇÃO DA ENFERMIDADE. PROVA PERICIAL. CORREÇÃO MONETÁRIA E JUROSDE MORA. HONORÁRIOS ADVOCATÍCIOS DEVIDAMENTE FIXADOS. INDENIZAÇÃO POR DANOS MORAIS. PARCIAL PROVIMENTO ÀS APELÇÕES DA UNIÃO E DA AUTORA E À REMESSA OFICIAL, TIDA POR OCORRIDA. NEGADO PROVIMENTO À APELAÇÃO DO INSS.
+A parte recorrente afirma ter ocorrido: a) ofensa ao art. 1º do Decreto n. 20.910/1932, alegando prescrição; b) violação dos arts. 186 e 927 do CC, por entender que não houve prova de dolo ou culpa da União, mas sim responsabilidade exclusiva de terceiro; c) ofensa à Súmula 362 desta Corte e aos arts. 396, 397 e 407 do CC; e d) ilegalidade quanto à forma de cálculo do valor da indenização a ser apurado.
+Defendeu, ainda, vulneração do art. 1º-F da Lei n. 9.494/1997.
+Contrarrazões (e-STJ fls. 640/657).
+Inadmitido o apelo especial na origem, houve a interposição de agravo (e-STJ fls. 697/704), no qual o ente federal se conformou quanto à questão do 1º-F da Lei n. 9.494/1997, tendo infirmado as demais razões para a inadmissão daquele recurso.
+Passo a decidir.
+Inicialmente, sobre a prescrição, verifico que o acórdão recorrido entendeu imprescritível a pretensão, apresentando fundamentação em concreto para tanto.
+A União, todavia, defendeu a aplicação do art. 1º do Decreto n. 20.910/1932, sem infirmar, especificamente, as razões pelas quais entendeu a Corte de origem pela imprescritibilidade, atraindo a aplicação da Súmula 283 do STF.
+Além disso, o juízo de origem não chegou a examinar a aplicação do Decreto n. 20.910/1932 ao caso, justamente por entender imprescritível a pretensão. Isto é, não houve o prequestionamento da matéria apresentada pelo ente federal, pelo que também aplicável a Súmula 211 do STJ nesse aspecto.
+Ainda que assim não fosse, verifica-se que a lei em que se funda o direito discutido no acórdão recorrido é de janeiro de 2010, enquanto a ação foi ajuizada naquele mesmo ano, estando claro não haver transcorrido o lustro prescricional previsto no supracitado decreto.
+Quanto à condenação em si da União na reparação por dano moral, como disse, ela se fundamentou nos ditames da Lei n. 12.190/2010, sem que o ente federal tenha, no apelo especial, infirmado em concreto a previsão especial do art. 1º da referida lei.
+Ou seja, no mérito propriamente dito da questão, deveria ser aplicada, novamente, a Súmula 283 do STF.
+Mas, mesmo que fosse superado esse óbice, infere-se que o juízo a quo entendeu presente a culpa da União por omissão, "ao não fiscalizar a produção, a venda, distribuição e embalagem de tal produto, permitindo o uso dessa droga em gestantes, sem alertar a população para as consequências de tal uso, e assim sendo, tem a responsabilidade de indenizar as vítimas" (e-STJ fl. 547).
+Rever essas conclusões demandaria incursão no acervo fático-probatório, o que é inviável por conta do óbice da Súmula 7 do STJ.
+Sobre a alegação de ilegalidade quanto à forma de cálculo do valor da indenização a ser apurado, o recurso não pode ser conhecido, porque não indica, tecnicamente, que norma federal teria sido violada, atraindo a aplicação da Súmula 284 do STF.
+Por fim, assiste razão à recorrente quanto ao termo inicial dos juros moratórios e à correção monetária em relação ao dano moral.
+Em primeiro lugar, ao determinar a retroação da atualização à data do evento danoso, a Corte Regional se afastou do entendimento consolidado na Súmula 362 do STJ.
+Sobre os juros de mora, verifico que, no caso, deve ser afastada a aplicação da Súmula 54 desta Corte. Isso porque o dano moral foi arbitrado segundo os ditames de lei especial cuja vigência só ocorreu em 2010 (Lei n. 12.190/2010)e que inclusive já tarifou, na época, o quantum que seria devido.
+Se, no caso, a pretensão foi fundada especificamente na supracitada previsão especial, não se pode considerar em mora a União por período que é anterior àquela (art. 397, parágrafo único, do CC).
+Ante o exposto, CONHEÇO DO AGRAVO para CONHECER EM PARTE do recurso especial e, nessa extensão, DOU-LHE PARCIAL PROVIMENTO, para que o termo inicial da atualização monetária da condenação em dano moral observe o disposto na Súmula 362 do STJ, enquanto os juros de mora devem incidir a partir da citação da União.
+Publique-se. Intimem-se.
