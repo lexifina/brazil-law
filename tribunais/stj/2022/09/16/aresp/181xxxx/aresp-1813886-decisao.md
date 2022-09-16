@@ -1,0 +1,7 @@
+DECISÃO
+Como fiz referir no despacho de e-STJ fls. 788, o agravo em recurso especial teveorigem no julgamento de agravo de instrumento tirado contra decisão interlocutória que versava a imissão na posse postulada em ação de constituição de servidão administrativa manejada por Gralha Azul Transmissão de Energia S. A.
+Houve durante a tramitação do feitoa prolação de sentença, em 09.02.2022, pela MM. Juíza Cecília Leszczynski Guetter, por intermédio da qual se instituiu a servidão, confirmando-se portanto a imissão na posse, conforme se extrai de informação obtida em consulta ao endereço eletrônico do Poder Judiciário do Estado do Paraná.
+Consultadas as partes sobre a eventual perda de objeto, apenas a agravada anui com a quadra, a recorrente, no entanto, postulando o prosseguimento do feito porque a análise dos requisitos da tutela provisória foram repetidos por ocasião da sentença e sendo assim o julgamento deles neste feito teria alguma implicação naquele outro.
+Por óbvio, a premissa não faz sentido nenhum essencialmenteporque a decisão que seria ao fim e ao cabo reformada ou cassada, numhipotético provimento do agravo em recurso especial, seria uma decisão que não mais existe, sendo certo ainda que o suporte judicial para a imissão na posse da concessionária passara a seroutro ato (= sentença), daí que não há utilidade na consecução do presente feito.
+Forte nisso,não conheço do agravo em recurso especial, por perda de objeto.
+Publique-se. Intimem-se.
