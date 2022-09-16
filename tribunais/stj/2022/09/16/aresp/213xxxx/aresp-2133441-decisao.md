@@ -1,0 +1,17 @@
+DECISÃO
+Na origem trata-se de agravo de instrumento, objetivando nulidade da decisão que extinguiu o feito, sem resolução de mérito, a fim de que seja reaberta a instrução quanto ao período de 01/10/1984 a 01/10/1985. No Tribunal a quoo agravo de instrumento foi provido.
+O recurso especial foi interposto no TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, contra acórdão com o seguinte resumo de ementa:
+AGRAVO DE INSTRUMENTO. PREVIDENCIÁRIO. ATIVIDADE ESPECIAL. HIDROCARBONETOS. EXTINÇÃO PARCIAL DO PROCESSO. COISA JULGADA. AFASTAMENTO.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+É a questão principal decidida e os elementos que em torno desta questão gravitam que dão os contornos da coisa julgada. Dentro destas fronteiras é que funciona seu mecanismo de proteção, a chamada eficácia preclusiva dos motivos.
+Assim, questões de direito que poderiam ter sido deduzidas na ação anterior para o enquadramento e extração de consequências jurídicas dos fatos então alegados por qualquer das partes, ou questões de fato que poderiam ser demonstradas de mais de uma forma, com um ou mais indícios, para buscar o enquadramento jurídico pretendido e dele extrair consequências, ficarão subsumidas na eficácia preclusiva, ou seja, deverão ser consideradas deduzidas e repelidas, ainda que não tenham sido diretamente alegadas e decididas.
+No entanto, questões de fato que não foram deduzidas na ação anterior, masque guardam autonomia relativamente às que foram, não ficam cobertas pela preclusão, porque seu exame, para fins de procedência ou improcedência do pedido no novo processo, não significará tornar sem efeito ou mesmo rever ajustiça da decisão dada na primeira demanda sobre as alegações que lá foram lançadas e resolvidas. Outros fatos serão examinados, ainda que com vistas a um mesmo pedido.
+ ..
+Na demanda que deu origem ao presente recurso, a causa de pedir fundamenta-se em um fato específico - exposição a hidrocarbonetos. Esta exposição não foi objeto de alegação nem de análise na ação anterior. Há portanto, uma nova questão de fato (ponto controvertido), qual seja: saber se o autor esteve sujeito a hidrocarbonetos no lapso de 01/10/1984 a01/10/1985.
+Não há, portanto, violação do art. 1.022 do CPC/2015 (antigo art. 535 do CPC/1973) quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a fundamentadamente (art. 165 do CPC/73 e do art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
