@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial manejado contra acórdão assim ementado:
+APELAÇÃO CÍVEL  EXECUÇÃO FISCAL  PRESCRIÇÃO INTERCORRENTE  HONORÁRIOS DE SUCUMBÊNCIA - PRINCÍPIO DA CAUSALIDADE  RECURSO IMPROVIDO.
+1. Nos termos da jurisprudência consolidada do STJ, "Declarada a prescrição intercorrente por ausência de localização de bens, incabível a fixação de verba honorária em favor do executado, eis que, diante dos princípios da efetividade do processo, da boa-fé processual e da cooperação, não pode o devedor se beneficiar do não-cumprimento de sua obrigação" (REsp 1769201/SP, Rel, Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 12/03/2019, DJe 20/03/2019).
+2. Recurso improvido.
+Os embargos de declaração foram rejeitados.
+No apelo raro, os recorrentes, apontando divergência jurisprudencial e violação dos arts. 85, §§ 2º, 3º e 14, e 926 do CPC/2015, sustentaram, em resumo,que: (i) a extinção da execução fiscal com fundamento na prescrição enseja a condenação da Fazenda Pública exequente ao pagamento dos honorários advocatícios, na condição de vencida; (ii) "foi o ESTADO DO ESPÍRITO SANTO quem propôs a Execução Fiscal, sendo o mesmo responsável pela prescrição intercorrente, eis que não logrou êxito em indicar bens passíveis de penhora no prazo previsto pelo Código Tributário Nacional"; (iii) os honorários são direito do advogado e não do devedor beneficiado com a extinção do feito executivo; (iv) o acórdão recorrido contraria arestos de seu tribunal, infirmando a estabilidade de sua jurisprudência.
+Depois de apresentadas as contrarrazões, o Tribunal de origem inadmitiu o recurso especial com fundamento na Súmula 83 do STJ; fundamento com o qual não concorda osagravantes.
+Oferecida contraminuta.
+Passo a decidir.
+O recurso especial não merecer ser mesmo admitido.
+Isso porque o acórdão recorrido coincide com a orientação jurisprudencial desta Corte Superior de que a extinção da execução fiscal em face da prescrição intercorrente pela não localização de bens penhoráveisnão enseja a condenação da parte exequente ao pagamento de honorários advocatícios com base no princípio da causalidade.
+A esse respeito, vide os seguintes arestos:
+PROCESSUAL CIVIL. EXECUÇÃO FISCAL. BENS DO EXECUTADO. NÃO LOCALIZAÇÃO. PRESCRIÇÃO INTERCORRENTE. DECRETAÇÃO. HONORÁRIOS EM FAVOR DO DEVEDOR. DESCABIMENTO. PRINCÍPIOS DA CONGRUÊNCIA E DO NON REFORMATIO IN PEJUS. OBSERVÂNCIA.
+1. O reconhecimento da prescrição intercorrente, notadamente em razão da não localização de bens do executado, não infirma a existência das premissas que autorizavam o ajuizamento da execução, relacionadas com a presunção de certeza e liquidez do título executivo e com a inadimplência do devedor, de modo que é inviável atribuir ao credor os ônus sucumbenciais com fundamento no princípio da causalidade, sob pena de indevidamente beneficiar a parte que não cumpriu oportunamente com a sua obrigação. Precedentes.
+ .. (REsp n. 1.768.530/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 2/6/2020, DJe de 29/6/2020.)
+PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. EXTINÇÃO. PRESCRIÇÃO INTERCORRENTE. HONORÁRIOS EM FAVOR DO EXECUTADO. DESCABIMENTO. CAUSALIDADE. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL. ANÁLISE PREJUDICADA PELA FALTA DE IDENTIDADE ENTRE PARADIGMAS E FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO.
+ ..
+2. Conforme consta na decisão monocrática, o entendimento do Tribunal de origem está em sintonia com a jurisprudência desta Corte Superior, porquanto, à luz do princípio da causalidade, o pronunciamento da prescrição intercorrente, por ausência de localização de bens da parte devedora, não autoriza a fixação de verba honorária de sucumbência em seu favor.
+(..) (AgInt no REsp n. 1.981.120/MS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 25/4/2022, DJe de 23/6/2022.)
+Incide, pois, o óbice da Súmula 83 do STF.
+É bem verdade que a existência de resistência ao reconhecimento da prescrição intercorrentepor parte do exequenteautoriza a sua condenação ao pagamento da verba honorária, mas com fundamento no princípio da sucumbência. A esse propósito: AgInt no AgInt no AREsp n. 1.958.399/PR, rel. Ministro Herman Benjamin, Segunda Turma, julgado em 2/5/2022, DJe de 24/6/2022; AgInt no REsp n. 1.867.881/RS, rel. Ministro Gurgel de Faria, Primeira Turma, julgado em 16/8/2021, DJe de 20/8/2021.
+Ocorre que, no presente caso, essa circunstância não foi delineada no acórdão recorrido, nem suscitada nos embargos de declaração, carecendo o recurso especial, no ponto, do requisito do prequestionamento, nos termos da Súmula 282 do STF.
+No que tange à indicada ofensa ao art. 926 do CPC/2015, observo que o recurso especial não impugnou especificamente o fundamento de que "osjulgadospor ele colacionados não se referem à hipótese destes autos, que versam, repito, hipótese de prescrição intercorrente por não localização de bens em nome do devedor". Incide, pois, o óbice estampado na Súmula 283 do STF.
+Acresço, por oportuno, que,nas razões dos embargos de declaração opostos na origem, a recorrente não especificou a existência de nenhum julgado do TJES de caráter vinculativo ou proferido em sede de uniformização de jurisprudência, mas, apenas, de dois arestos que teriam decidido em sentido diverso do acórdão embargado.
+Nesse contexto, importa salientar que eventual dissenso com outros
+julgados do mesmo tribunal, também denominado de contradição externa,não configura vício intrínseco de integração passível de exame pela via dos embargos de declaração. Nesse sentido: EDcl nos EDcl no AgInt nos EDcl no REsp 1.425.591/RS, rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 30/11/2020, DJe 03/12/2020; AgInt no REsp 1.831.451/CE, rel. Ministra Regina Helena Costa, Primeira Turma, julgado em 16/12/2019, DJe 18/12/2019.
+A deficiência da irresignação recursal nesse tópico atrai a aplicação da Súmula 284 do STF.
+Ante o exposto, CONHEÇO do agravo para NÃO CONHECER do recurso especial (art. 253, parágrafo único, II, "a", do RISTJ).
+Publique-se. Intimem-se.
