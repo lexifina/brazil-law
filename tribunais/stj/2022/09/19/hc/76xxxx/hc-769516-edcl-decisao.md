@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de embargos de declaração (e-STJ fls. 723/733) opostos por RAFAEL DA SILVA ROMANcontra a decisão de fls. 718/720, que indeferiu liminarmente o habeas corpus.
+Sustenta a defesa a existência de contradição no julgado, vistoque, embora a decisão consigne que vedado o exame de matéria fático-probatória na presente via,a pretensão veiculada não envolve análise de acervo probatório.
+Ademais, que não pretende reanálise dos argumentos veiculados em sede de recurso especial,mas sim que, em segunda análise, fosse verificado poresta Corte que todas as informações necessárias ao atendimento do pleito dos impetrantes estão dispostos nos textos das decisões, sendo absolutamente desnecessária qualquer análise adicional (e-STJ, fls. 725/726).
+Repisa os argumentos da inicial do presente writ, afirmando, em síntese, que a pronúncia do paciente se baseou em depoimentode ouvir dizer prestado por informante em sede judicial e também por reconhecimento realizado em sede policial. Assim, verificada contrariedade ao art. 155 do CPP, inviável seja mantido o acórdão da origem.
+Requer seja sanada a contradição apontada, inclusive concedendo-se a liminar, a fim de sanar o constrangimento ilegal a que submetido o paciente.
+É o relatório. Decido.
+Os embargos de declaração são cabíveis quando a decisão apresentar ambiguidade, obscuridade, contradição ou omissão.
+No caso, porém, a decisão embargada está devidamente motivada e não se verifica a existência de erro material ou de qualquer dos vícios listados no art. 619 do Código de Processo Penal, ante a ausência de ambiguidade, obscuridade, contradição ou omissão na decisão.
+Com efeito, adecisão recorrida consignou que o tema versado no presente feito já foi decidido no Resp 1.820.820/RS, com trânsito em julgado em 18/9/2019, tendo destacado, ademais, que não cabe exame de matéria fático-probatória em habeas corpus,assim como se dá em sede de recurso especial. Daí o indeferimento liminar do mandamus.
+A alegada contradição indicada pela defesa, visto que não pretende reexame de matéria fático-probatória, não se verifica. Como decidido, o tema já foi tratado em outro feito, que atacou o mesmo acórdão proferido na origem. Tratando-se de reiteração, correto seu indeferimento liminar. Veja-se, ainda, que o fundamento sequer foi atacado nos embargos de declaração.
+É manifesta, assim, a impossibilidade de acolhimento dos presentes aclaratórios, haja vista não ser possível proceder à rediscussão das questões já decididas e devidamente delineadas pelo órgão julgador, principalmente, quando não demonstrada nenhuma das hipóteses do art. 619 do Código de Processo Penal.
+Nesse sentido:
+EMBARGOS DE DECLARAÇÃO EM HABEAS CORPUS. OMISSÃO. INEXISTÊNCIA. REDISCUSSÃO DO JULGADO. IMPOSSIBILIDADE. ACLARATÓRIOS REJEITADOS. PREQUESTIONAMENTO. JUNTADA DE MÍDIAS DA SESSÃO DE JULGAMENTO. NÃO CABIMENTO.
+1. O recurso de embargos de declaração presta-se, tão somente, a sanar ambiguidade, contradição, obscuridade ou omissão do julgado, consoante dispõe o art. 619 do Código de Processo Penal, ou, então, retificar, quando constatado, erro material do julgado.
+2. A pretexto de omissão, busca o embargante a rediscussão do julgado, o que não se harmoniza com o escopo da medida integrativa, conforme iterativa jurisprudência desta Corte.
+3. Mesmo para fins de prequestionamento, os embargos de declaração têm suas hipóteses de cabimento restritas ao art. 619 do CPP, ausentes na espécie.
+4. Incabível a juntada das cópias de áudio da sessão de julgamento, sequer prevista regimentalmente, pois à unanimidade acolhido o voto do Relator unânime, devidamente juntado aos autos, onde esclarecido que a pretensão de desclassificação do crime de homicídio doloso para a figura culposa demandaria revaloração de prova, incabível na via estreita do habeas corpus.
+5. Embargos de declaração rejeitados(EDcl no HC 97.421/SP, Rel. Ministro NEFI CORDEIRO, Sexta Turma, julgado em 30/06/2015, DJe 07/08/2015).
+PENAL. EMBARGOS DE DECLARAÇÃO NO RECURSO ORDINÁRIO EM HABEAS CORPUS. INTIMAÇÃO PARA SESSÃO DE JULGAMENTO DO RECURSO ORDINÁRIO EM HABEAS CORPUS. DESNECESSIDADE. AUSÊNCIA DE PEDIDO EXPRESSO. REDISCUSSÃO DA MATÉRIA. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+I - Na linha da orientação jurisprudencial desta eg. Corte, não se verifica nulidade no julgamento do recurso ordinário quando o recorrente não requer, de maneira expressa, a prévia comunicação da data em que será deliberado pelo Colegiado, como na hipótese (precedentes).
+II - São cabíveis embargos declaratórios quando houver na decisão embargada qualquer contradição, omissão ou obscuridade a ser sanada. Podem também ser admitidos para a correção de eventual erro material, consoante entendimento preconizado pela doutrina e jurisprudência, sendo possível, excepcionalmente, a alteração ou modificação do decisum embargado.
+III - Na hipótese, mostra-se inviável o acolhimento dos embargos de declaração, uma vez que, sob o pretexto de ocorrência de omissão e contradição na decisão embargada, é nítida a pretensão de rediscutir a matéria já apreciada (precedentes).
+Embargos de declaração rejeitados(EDcl no RHC 41.179/SP, Rel. Ministro FELIX FISCHER, Quinta Turma, julgado em 20/08/2015, DJe 01/09/2015).
+Ante o exposto,rejeitoos presentes embargos declaratórios.
+Intimem-se.
