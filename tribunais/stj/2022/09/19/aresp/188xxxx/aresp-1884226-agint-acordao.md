@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 13/09/2022 a 19/09/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Humberto Martins.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão quenão conheceu do recurso especial, fundamentadono art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo,assim resumido:
+APELAÇÃO. AÇÃO DE COBRANÇA. SENAI. Cobrança de contribuição adicional. Descabimento.Decretos-Leis nºs 4.048/42, 4.936/42 e 6.246/44. Contribuição destinada à implantação e manutenção de escolas de aprendizagem, a qual é devida por empresas que possuam mais de quinhentos operários em seus quadros e tenham a atividade industrial como preponderante. Nulidade na notificação fiscal por inocorrência do fato gerador. Perícia judicial que apurou que a atividade preponderante da empresa é a de comércio varejista e a única filial que exercia a atividade industrial encontrava-se com suas atividades encerradas e não contava com mais de 500 funcionários à época da incidência da exação.Cobrança indevida. Manutenção da r. sentença. Recurso desprovido.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial."
+No agravo interno, a parte recorrente traz, resumidamente, os seguintes argumentos:
+Não obstante o entendimento esposado pelo Ínclito Ministro Presidente, com o devido respeito, entende o Agravante que o Recurso Especial não exigi o exame fático dos autos, motivo pelo qual interpõe o presente e protesta que a decisão agravada deve ser reformada.
+ ..
+Ao contrário do entendimento consignado no v. acórdão, uma vez que todos os estabelecimentos da agravada devem compor a base de cálculo, diante da indivisível unicidade da pessoa jurídica, além de as atividades diversas, inclusive de natureza administrativa e burocrática, praticadas por alguns de seus estabelecimentos estarem em função da atividade industrial preponderante exercida pela empresa agravada como um todo, nos termos de seu Contrato Social consolidado (Cláusula Terceira), conforme fls. 82/83.
+Desta forma, restou cabalmente demonstrado a violação expressada legislação infraconstitucional, violando assim os artigos 373, inciso II, 374, IV, 434 do Código de Processo Civil, bem como aos art. 6.º do Decreto-lei n.º 4.048/42, do art. 3.º do Decreto-lei n.º 4.936/42 e do art. 3.º do Decreto-lei n.º 6.246/44, do Quadro Anexo ao art. 577 e 581 da CLT e 5º LIV da Constituição Federal, protestando que através do presente recurso, seja cessada a violação aos artigos, julgando a demanda inteiramente procedente.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AÇÃO ORDINÁRIA. COBRANÇA DE CONTRIBUIÇÕES. CUSTEIO DE ESCOLAS DE APRENDIZAGEM. PEDIDO IMPROCEDENTE. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. INCIDÊNCIA DA SÚMULA N. 7/STJ. DISPOSITIVOCONSTITUCIONAL.
+I - Na origem, trata-se de ação ordinária em que se pleiteia a cobrança de contribuições adicionais pelo exercício de atividade industrial para a montagem e custeio de escolas de aprendizagem. Na sentença, julgou-se o pedido improcedente. No Tribunala quo, a sentença foi mantida.Interposto recurso especial, teve seu seguimento negado. Seguiu-se por interposição de agravo. No STJ, conheceu-se do agravo para não conhecer do recurso especial.
+II - A Corte a quo analisou as alegações da parte com os seguintes fundamentos: (..)
+III - Verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+IV - Não se conhece da alegação de violação de dispositivos constitucionais em recurso especial, posto que seu exame é de competência exclusiva do Supremo Tribunal Federal, conforme dispõe o art. 102, III, do permissivo constitucional.
+V - Não cabe ao STJ, a pretexto de analisar alegação de violação do art. 535 do CPC/1973 ou do art. 1.022 do CPC/2015, examinar a omissão da Corte a quo quanto à análise de dispositivos constitucionais, tendo em vista que a Constituição Federal reservou tal competência ao STF, no âmbito do recurso extraordinário.
+VI - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A parte agravante repisa os mesmos argumentos já analisados na decisão recorrida.
+A Corte a quo analisou as alegações da parte com os seguintes fundamentos:
+In casu, a ré foi alvo da Notificação de n.º 2775/DN, com enquadramento por execução de atividade preponderantemente industrial, contando com mais de 500 (quinhentos) funcionários, no período de outubro de 2012 a fevereiro de 2014, na filial Tamboré, na cidade de Barueri (fls. 34/53).
+Contudo, por meio do laudo pericial de fls. 312/325,verificou-se que a atividade preponderante da empresa é de comércio varejista e/ou atacadista de aparelhos odonto-médicos hospitalares, sendo que apenas na filial de Lagoa Santa/MG se constatou a atividade industrial de fabricação de aparelhos eletromédicos e eletroterapêuticos e equipamentos de irradiação (resposta a fls. 317 e fls. 321/322).
+ ..
+Sob este prisma, constatada a existência de menos de 500 empregados na folha de pagamentos daquela filial, que exercia a atividade industrial (hipótese de incidência tributária), não era possível a cobrança da referida contribuição.
+E, ainda que se pretendesse que a contagem do número de empregados deveria se dar pela somatória de todas as filiais, tal como alega a apelante, isso não seria possível, eis que apenas aquela filial notificada exercia atividade industrial, posto que a atividade preponderante das demais filiais era a de comércio varejista e/ou atacadista de produtos odonto-médicos hospitalares.
+Por outro lado, é irrelevante a alegação de que os equipamentos produzidos na filial onde se exercia a atividade industrial eram vendidos pelas demais filiais, considerando que o fato gerador da referida contribuição é o exercício da atividade industrial com o emprego de mais de 500 funcionários, o que não se constatou pela prova pericial produzida nos autos.
+Verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "Apretensão de simples reexame de provas não enseja recurso especial".
+Não se conhece da alegação de violação de dispositivos constitucionais em recurso especial, posto que seu exame é de competência exclusiva do Supremo Tribunal Federal, conforme dispõe o art. 102, III, do permissivo constitucional.
+Não cabe ao STJ, a pretexto de analisar alegação de violação do art. 535 do CPC/1973 ou do art. 1.022 do CPC/2015, examinar a omissão da Corte a quo quanto à análise de dispositivos constitucionais, tendo em vista que a Constituição Federal reservou tal competência ao STF, no âmbito do recurso extraordinário.
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
