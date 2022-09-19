@@ -1,0 +1,28 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 13/09/2022 a 19/09/2022, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Cuida-se de agravo interposto por ROBERTO ATTISANO contra decisão unipessoal proferida pelo Ministro Presidente desta Corte que não conheceu do agravo em recurso especial que interpusera.
+Ação: de rescisão contratual cumulada com cobrança e despejo, ajuizada pelos agravados, em face doagravante e de CENTRO EDUCACIONAL DE ENSINO SUPERIOR DE CORNELIO PROCOPIO  CESUCOP, devido ao inadimplemento de contrato de locação de imóvel comercial celebrado entre as partes, na qual pleiteiam a declaração de rescisão unilateral do contrato, ordem de despejo, bem como a condenação do agravante e deCENTRO EDUCACIONAL DE ENSINO SUPERIOR DE CORNELIO PROCOPIO  CESUCOP ao pagamento dos aluguéis em atraso, multa moratóriae multa compensatória.
+Sentença: julgou parcialmente procedentes os pedidos, para condenar o CENTRO EDUCACIONAL DE ENSINO SUPERIOR DE CORNELIO PROCOPIO  CESUCOP ao pagamento de R$ 2.200,00 (dois mil e duzentos reais), a título de multa moratória,de R$ 20.000,00 (vinte mil reais), a título de multa compensatória, assim como ao pagamentode R$ 1.100,00 (mil e cem reais) mensais, a partir de 01/01/2007, até 31/12/2010, e de R$ 1.500,00 (mil e quinhentos reais) mensais, de 01/01/2011 a 31/12/2011 (termo final do contrato).
+Acórdão: deu provimento à apelação interposta pelosagravados e negou provimento à apelação interposta por CENTRO EDUCACIONAL DE ENSINO SUPERIOR DE CORNELIO PROCOPIO  CESUCOP, e, ainda, julgou prejudicado o recurso adesivo interposto pelo agravante, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL 1 E 2. CONDENAÇÃO DA LOCATÁRIA AO PAGAMENTO DE ALUGUEIS E ENCARGOS. SENTENÇA JULGADA IMPROCEDENTE EM FACE DO FIADOR. APELAÇÃO 1. CONTRATO QUE NÃO FOI CUMPRIDO INTEGRALMENTE PELA LOCATÁRIA -POSSIBILIDADE DE COBRANÇA DOS ALUGUEIS VENCIDOS, ACRESCIDA DAMULTA COMPENSATÓRIA PELA NÃO CONSTRUÇÃO DA DAS EDIFICAÇÕES -POSSIBILIDADE - ART. 411 DO CÓDIGO CIVIL - CLÁUSULAS DISJUNTIVAS -POSSIBILIDADE DE CUMULAÇÃO - CONDENAÇÃO ESCORREITA. APELAÇÃO 2. FIADOR - RESPONSABILIDADE - AUSÊNCIA DE RENÚNCIA AO BENEFÍCIO DEORDEM - REGRA DO ART. 827, PARÁGRAFO ÚNICO, DO CÓDIGO CIVIL NÃOATENDIDA - IMPOSSIBILIDADE DE RECONHECIMENTO DE NULIDADE DAFIANÇA PRESTADA POR AUSÊNCIA DE OUTORGA UXÓRIA - LEGITIMIDADEEXCLUSIVA DA MULHER - PRESCRIÇÃO. NÃO OCORRÊNCIA. A INTERRUPÇÃOPRODUZIDA CONTRA O DEVEDOR PRINCIPAL PREJUDICA O FIADOR (CC, ART.204, § 3º). RESPONSABILIDADE SOLIDÁRIA RECONHECIDA - SENTENÇAPARCIALMENTE REFORMADA. . FIADOR QUE ALMEJAVA ARECURSO ADESIVOMAJORAÇÃO DA VERBA HONORÁRIA. RECURSO PREJUDICADO. SUCUMBÊNCIAINVERTIDA. . CABIMENTO. NÃO PROVIMENTO DAHONORÁRIOS RECURSAISINSURGÊNCIA DA APELANTE 2 QUE AUTORIZA A FIXAÇÃODESSA VERBA AOPATRONO DA APELANTE 1. INTELIGÊNCIA DO ART. ART. 85, § 11, DO CPC/15. SENTENÇA PARCIALMENTE REFORMADA.
+RECURSO DE APELAÇÃO 1 CONHECIDO E NÃO PROVIDO.
+RECURSO DE APELAÇÃO 2 CONHECIDO E PROVIDO.
+RECURSO ADESIVO PREJUDICADO. (e-STJ Fls. 1.161/1.162)
+Recurso especial: alega violação dos arts. 319 do CPC/15 e 209 do CC.
+Decisão unipessoal: proferida pelo Ministro Presidente desta Corte, não conheceu do agravo em recurso especial, ante a aplicação da Súmula 182/STJ, eis que oagravante não impugnou todos os fundamentos utilizados pelo TJ/PRpara inadmitir o recurso especial que interpusera.
+Agravo interno: nas razões do presente recurso, o agravante sustenta a inaplicabilidade da Súmula 182/STJ à hipótese dos autos, eis que impugnou todos os fundamentos da decisão que negou seguimento ao apelo especial.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO DA DECISÃO AGRAVADA. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 182. INCIDÊNCIA.
+1. Não merece conhecimento o agravo que não impugna, especificamente, todos os fundamentos da decisão denegatória de seguimento ao recurso especial.
+2. Agravo interno no agravo em recurso especial não provido.
+VOTO
+A decisão agravada não conheceu do agravo em recurso especial interposto peloagravante, com fundamento no art. 253, parágrafo único, I, do RISTJ, e da aplicação, por analogia, da Súmula 182/STJ, tendo em vista que estenão teria impugnado todos os fundamentos da decisão que inadmitiu o seu recurso especial.
+Pela análise das razões recursais apresentadas, verifica-se que oagravante não trouxe qualquer argumento novo capaz de ilidir os fundamentos da decisão agravada.
+Em atenção ao princípio da dialeticidade, cumpre à parte recorrente o ônus de evidenciar, nas razões do agravo em recurso especial, o desacerto da decisão agravada. Assim, cabia aoagravante demonstrar que, nas razões do agravo em recurso especial, combateu os termos da decisão agravada, ônus do qual não se desincumbiu, não sendo possível impugnar a decisão de admissibilidade no agravo interno.
+E, consoante entendimento pacífico desta Corte, não merece conhecimento o agravo em recurso especial que não impugna, especificamente, os fundamentos da decisão denegatória de seguimento ao recurso especial, a teor do disposto na Súmula 182 do STJ, a qual se subsume perfeitamente ao presente recurso.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno no agravo em recurso especial.
