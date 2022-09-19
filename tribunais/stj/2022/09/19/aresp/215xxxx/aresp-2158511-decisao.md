@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de agravo apresentado por JULIANO NOVAES SANTOS contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, assim resumido:
+CONSTITUCIONAL - ASSISTÊNCIA SOCIAL - BENEFÍCIO DE PRESTAÇÃO CONTINUADA AO IDOSO E À PESSOA COM DEFICIÊNCIA - REQUISITOS LEGAIS.
+Quanto à controvérsia recursal, alega violação do art. 20, caput e §§ 1º e 3º, da Lei n. 8.742/93, no que concerne ao reconhecimento do direito do recorrente ao recebimento do benefício de prestação continuada, pois houve o preenchimento dos requisitos legais para a concessão desse benefício, já que foi comprovado que o recorrente é pessoa com deficiência física e hipossuficiência econômica, trazendo os seguintes argumentos:
+Verifica-se que o Tribunal Regional da Terceira Região, por meio da 7ª Turma, negou vigência ao dispositivo de lei Federal transcrito acima, mais precisamente sobre a deficiência física, bem como, sobre a condição hipossuficiente, uma vez que julgou a causa de forma diversa do que está expressamente contido no texto de legal.
+O acordão recorrido manteve a improcedência do pedido de prestação continuada, acrescentando-se requisito para concessão do benefício, ou seja, de que não haveria a concessão, pois, dispôs que o Recorrente poderia se adaptar em atividades leves ou sedentárias, o que carece de base legal:  ..
+No tocante à deficiência demonstrada, bem como, a hipossuficiência, requisitos para sua concessão, são incontroversos, pois, não há contrarrazões, bem como, o Douto Procurador Regional, conforme mencionado, e extraído dos autos, (fls.143189783), pugnou pelo provimento da Apelação, em razão das pericias realizadas, para aferir a incapacidade física na (fls.141969350), bem como, econômica de (fls.141969371) (fls. 267-268).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia recursal, na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+No caso concreto, o autor tinha 24 anos na data da perícia médica, realizada em 14 de novembro de 2018.
+O perito expôs o histórico de saúde do autor (ID 141969350):  .. .
+Em resposta aos quesitos do Juízo, atestou:  .. .
+Ausente prova da deficiência o benefício deve ser indeferido (fls. 201-202, grifo meu).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
