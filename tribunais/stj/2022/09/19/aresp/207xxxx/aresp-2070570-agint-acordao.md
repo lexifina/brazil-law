@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 13/09/2022 a 19/09/2022, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):Cuida-se de agravo interno interposto por ELIEZER DA SILVA SANTANA, contra decisão monocrática que conheceu do agravo e, com fundamento no art. 932, III, do CPC/15, não conheceu do recurso especial.
+Ação: cobrança, ajuizada por CONDOMÍNIO MORADAS DO MEDITERRÂNEO, em face de ELIEZER DA SILVA SANTANA.
+Decisão interlocutória: deferiu a penhora sobre 20% do salário líquido do agravante.
+Acórdão: negou provimento ao Agravo de Instrumento interposto pelo agravante, nos termos da seguinte ementa:
+"Agravo de Instrumento - Impugnação ao cumprimento de sentença - Determinação de penhora de 20% do salário líquido do agravante - Erro material suprido quando da interposição de embargos de declaração - Manutenção do decisum fustigado - Recurso conhecido e desprovido - Decisão unânime." (e-STJ fl. 82)
+Embargos de Declaração: opostos, pelo agravante, foram rejeitados. (e-STJ fl. 101/104)
+Recurso especial: alega violação dos arts. 492, 502, 505, 507, 508, CPC/15, 5º, V, XXXVI, LIV, CF/88, bem como dissídio jurisprudencial. Sustenta que, com a decisão da Corte local, está-se diante de uma decisão que fere mortalmente o princípio da coisa julgada, uma vez que o entendimento inicial seria de que a constrição salarial a ser suportada pelo recorrente seria de 20% dos rendimentos mensais, mas esse percentual foi alterado para 10%, na parte dispositiva do julgado, e como não foi objeto de novo recurso, seja pelo recorrente, seja pelo recorrido, efetivamente operou-se o trânsito em julgado, passando a valer somente o percentual menor para efeito de constrição.
+Decisão monocrática: conheceu do agravo e, com fundamento no art. 932, III, do CPC/15, não conheceu do recurso especial.
+Razões do agravo interno: sustenta que, mesmo tendo arguido matéria constitucional, demonstrou que o tema central é de competência desta Corte por violar matéria de ordem infraconstitucional, além de não estar presente o óbice sumular apontado na decisão agravada e estar presente o dissídio jurisprudencial.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. VIOLAÇÃO DE DISPOSITIVO CONSTITUCIONAL. DESCABIMENTO. INCIDÊNCIA DA SÚMULA 211/STJ. PREQUESTIONAMENTO FICTO. AUSÊNCIA. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA.
+1. Ação de cobrança.
+2. A interposição de recurso especial não é cabível quando ocorre violação de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+3. Não tendo o Tribunal de origem discutido os artigos tidos por violados e não verificada, nesta Corte, a existência de erro, omissão, contradição ou obscuridade, não há que se falar em prequestionamento ficto da matéria, nos termos do art. 1.025 do CPC/2015, incidindo na espécie a Súmula 211/STJ.
+4. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+5. Agravo interno não provido.
+VOTO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):Trata-se de agravo interno interposto por ELIEZER DA SILVA SANTANA, contra decisão monocrática que conheceu do agravo e, com fundamento no art. 932, III, do CPC/15, não conheceu do recurso especial.
+Pela análise das razões recursais apresentadas, verifica-se que o agravante não trouxe qualquer argumento novo capaz de ilidir os fundamentos da decisão agravada.
+O agravante sustenta que a indicada violação de norma constitucional, em suas razões de recurso especial, foi realizada de forma reflexa, sob o argumento de que apesar das razões do recurso especial também terem trazido a mácula a dispositivos constitucionais, ela foi cristalina ao apontar a legislação infraconstitucional afetada, qual seja, arts. 492, 502, 505, 507 e 508 do Código de Processo Civil.
+No ponto, vale destacar o que foi defendido pelo agravante em suas razões de recurso especial, veja-se:
+"Desta forma, entendemos que a decisão que minorou a constrição para 10% dos vencimentos está acobertada pelo manto da coisa julgada, e sua modificação errática violou os arts. 502, 505, 507 e 508 do CPC c/c art. 5º, inciso XXXVI da CF/88, bem como, os princípios da razoabilidade (art. 5º, V, CF/88), do devido processo legal (art. 5º, inciso LIV, CF/88)."
+No entanto, como é cediço, esta Corte tem entendimento sedimentado de que a interposição de recurso especial não é cabível quando ocorre violação de súmula, de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+Nesse sentido: AgInt no REsp 1.750.179/AM, 3ª Turma, DJe 10/03/2021; AgInt no REsp 1.898.759/SP, 3ª Turma, DJe 03/03/2021; AgInt no AREsp 1.744.947/SE, 4ª Turma, DJe 12/02/2021; AgInt no AREsp 1.754.353/MS, 4ª Turma, DJe 12/02/2021.
+A decisão agravada ainda concluiu pela incidência da Súmula 211 desta Corte ao caso, e, nesse ponto, o agravante defende a existência do prequestionamento ficto, argumentando que em sede de embargos de declaração nº 0011229-86.2020.8.25.0000 (TJSE nº 202100701897), foi-se feito o prequestionamento da matéria pela violação dos arts. 492, 502, 505, 507, 508, CPC/15, tendo-o sido conhecido e improvido.
+Deve-se ressaltar, no entanto, que o prequestionamento ocorre quando a causa tiver sido decidida à luz da legislação federal indicada, com emissão de juízo de valor acerca dos respectivos dispositivos legais, interpretando-se sua aplicação ou não ao caso concreto, o que não ocorreu nos autos.
+É de se observar que se a questão suscitada não foi discutida pela Corte local e não foi verificada, nesta Corte, a existência de erro, omissão, contradição ou obscuridade, não há que se falar em prequestionamento ficto da matéria, nos termos do art. 1.025 do CPC/2015.
+Por fim, quanto ao dissídio jurisprudencial, aduz que tomou o cuidado de extrair os trechos dos acórdãos paradigmas emanados pelos Tribunais de Justiça dos Estados do Paraná, Minas Gerais e Mato Grosso que possuem uma perfeita sinergia com o caso em debate, e não tão somente o ementário.
+Em que pese a argumentação apresentada, restou evidente que o agravante deixou de promover o necessário cotejo analítico e a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência, uma vez que a análise do recurso especial fundado na alínea "c" do permissivo constitucional exige a comprovação do dissídio, por meio da apresentação de julgados que evidenciem a similitude fática das situações às quais foram dadas soluções distintas, na aplicação do direito à espécie. Nesse sentido: AgInt no AgInt no AREsp 1.589.874/SE, 4ª Turma, DJe 10/12/2020; EDcl nos EDcl no AgInt no AREsp 1.498.018/SC, 4ª Turma, DJe 04/12/2020; AgInt no REsp 1.811.525/DF, 3ª Turma, DJe 01/09/2020; AgInt no AgInt no AREsp 1.579.612/RS, 3ª Turma, DJe 18/08/2020.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO do presente agravo interno.
