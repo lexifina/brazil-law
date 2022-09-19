@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo em recurso especial manejado por ADRIANO DE SOUZA, contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 488):
+ACIDENTÁRIA Chapeador e, posteriormente, operador de dobradeira III PAIR Perda auditiva bilateral de 1,44%, segundo os critérios da Tabela de Fowler Audição dentro dos padrões de normalidade, de acordo com os parâmetros considerados pelo Decreto nº 3.048/99 Inexistência de lesão capaz de comprometer a capacidade de trabalho Improcedência da ação Recursos autárquico e oficial providos.
+Opostos embargos de declaração, foram rejeitados (fls. 511/513).
+Nas razões do apelo especial, aponta o recorrente, violação dos arts. 21-A e 86, da Lei 8.213/91.
+Sustenta, em síntese, que há ilegalidade na ausência da produção de prova pericial, que, ao seu ver, seria essencial à comprovação do direito alegado.
+Sem contrarrazões.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não comporta acolhida.
+De início, observa-se que o Tribunal de origem não examinou a controvérsia sob o enfoque dos dispositivos legais apontados como violados, apesar de da oposição de embargos de declaração. Nesse contexto, caberia à parte recorrente, nas razões do apelo especial, indicar ofensa ao art. 1.022 do CPC, alegando a existência de possível omissão, providência da qual não se desincumbiu. Incide, pois, o óbice da Súmula 211/STJ ("Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo."). Nessa linha de entendimento: AgInt no AgInt no AREsp 1.621.025/RJ, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe 1º/9/2020.
+Ressalta-se que esta Corte firmou a compreensão de que "a admissão de prequestionamento ficto (art. 1.025 do CPC), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp 1.639.314/MG, Rel. Ministra Nancy Andrighi, Terceira Turma, DJe 10/4/2017). No mesmo sentido, confiram-se: AgInt no REsp 1.562.190/RS, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe 18/12/2020; AgInt no AREsp 1.685.851/GO, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 11/2/2021; e AgInt no AREsp 1.677.739/SP, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 2/12/2020.
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
