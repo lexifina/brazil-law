@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de Recurso Especial interposto, com fundamento no art. 105, III, "a", da Constituição da República, contra acórdão assim ementado (597-604, e-STJ):
+APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. TEMPO RURAL. AUSÊNCIA DE PROVAS. INCIDÊNCIA DIRETA DO TEMA 629/STJ. TEMPO COMUM E ESPECIAL. EXPOSIÇÃO A RUÍDO, SÍLICA, HIDROCARBONETOS E CIMENTO. AUSÊNCIA DE DIREITO À APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. AVERBAÇÃO DOS PERÍODOS. SUCUMBÊNCIA RECÍPROCA. CUMPRIMENTO IMEDIATO DO ACÓRDÃO.
+Os Embargos de Declaração do particular foram acolhidos com a seguinte ementa (fls. 641-646, e-STJ):
+EMBARGOS DE DECLARAÇÃO. PRETENSÃO DE REAFIRMAÇÃO DA DER PARA A CONCESSÃO DO BENEFÍCIO DE APOSENTADORIA POR IDADE. PRINCÍPIO DA FUNGIBILIDADE. PROVIMENTO.
+O INSS afirma que houve, além de divergência jurisprudencial, ofensa aos arts. 85, caput, e 927, III, do CPC e ao art. 389 do CC. Sustenta que a Turma julgadora não seguiu os parâmetros da Corte Superior no que se refere à condenação em honorários advocatícios, uma vez que condenou o INSS ao pagamento de honorários sobre as parcelas vencidas, ainda que não tenha havido insurgência quanto à reafirmação da DER. Aduz:
+Sob este aspecto o acórdão vergastado acabou por violar o art. 85, caput, do CPC c/c art. 389 do CC, bem como da interpretação conferida ao mesmo pelo E. STJ em sede do julgamento do REsp repetitivo 1.727.063/SP, razão pela qual merece ser reformado.
+Contrarrazões às fls. 667-673, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 2 de setembro de 2022.
+Cumpre ressalvar os esclarecimentos registrados no julgamento do EDcl no REsp 1.727.063/SP, do qual colho a ementa:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL REPETITIVO. ENUNCIADO ADMINISTRATIVO 3/STJ. REAFIRMAÇÃO DA DER (DATA DE ENTRADA DO REQUERIMENTO). CABIMENTO. RECURSO ESPECIAL PROVIDO. EMBARGOS DE DECLARAÇÃO ACOLHIDOS, SEM EFEITO MODIFICATIVO.
+1. Embargos de declaração opostos pelo INSS, em que aponta obscuridade e contradição quanto ao termo inicial do benefício reconhecido após reafirmada a data de entrada do requerimento.
+2. É possível a reafirmação da DER (Data de Entrada do Requerimento) para o momento em que implementados os requisitos para a concessão do benefício, mesmo que isso se dê no interstício entre o ajuizamento da ação e a entrega da prestação jurisdicional nas instâncias ordinárias, nos termos dos arts. 493 e 933 do CPC/2015, observada a causa de pedir.
+3. Conforme delimitado no acórdão embargado, quanto aos valores retroativos, não se pode considerar razoável o pagamento de parcelas pretéritas, pois o direito é reconhecido no curso do processo, após o ajuizamento da ação, devendo ser fixado o termo inicial do benefício pela decisão que reconhecer o direito, na data em que preenchidos os requisitos para concessão do benefício, em diante, sem pagamento de valores pretéritos.
+4. O prévio requerimento administrativo já foi tema decidido pelo Supremo Tribunal Federal, julgamento do RE 641.240/MG. Assim, mister o prévio requerimento administrativo, para posterior ajuizamento da ação, nas hipóteses ali delimitadas, o que não corresponde à tese sustentada de que a reafirmação da DER implica na burla do novel requerimento.
+5. Quanto à mora, é sabido que a execução contra o INSS possui dois tipos de obrigações: a primeira consiste na implantação do benefício, a segunda, no pagamento de parcelas vencidas a serem liquidadas e quitadas pela via do precatório ou do RPV. No caso de o INSS não efetivar a implantação do benefício, primeira obrigação oriunda de sua condenação, no prazo razoável de até quarenta e cinco dias, surgirá a partir daí parcelas vencidas oriundas de sua mora. Nessa hipótese deve haver a fixação dos juros, embutidos no requisitório de pequeno valor.
+6. Quanto à obscuridade apontada, referente ao momento processual oportuno para se reafirmar a DER, afirma-se que o julgamento do recurso de apelação pode ser convertido em diligência para o fim de produção da prova.
+7. Embargos de declaração acolhidos, sem efeito modificativo.
+(EDcl no REsp 1.727.063/SP, Rel. Min. Mauro Campbell Marques, Primeira Seção, DJe 21.5.2020)
+Ocorre, porém, que o Tribunal a quo também consignou que "o afastamento da condenação do INSS ao pagamento da verba honorária somente teria amparo caso o único objeto da demanda fosse o pleito de reafirmação da DER. No entanto, no presente caso, há pedido de reconhecimento de tempo de contribuição, contra o qual a autarquia se insurgiu, dando, assim, causa ao ajuizamento da presente demanda, pelo que devidos os honorários de sucumbência. É significativo o fato de que o segurado continua decaindo de expressiva parte de sua pretensão inicial, então a partição da sucumbência permanece inalterada". Prosseguiu:
+Assim, em face da ausência de efeito suspensivo de qualquer outro recurso, é determinado ao INSS (obrigação de fazer) que pague ao segurado, a partir da competência atual, o benefício de aposentadoria por idade. A ele é deferido o prazo máximo de 20 dias para cumprimento, sob pena da incidência de juros de mora a partir de então. Sobre as parcelas vencidas (obrigação de pagar quantia certa), desde a DER reafirmada, serão acrescidos correção monetária a partir do vencimento de cada prestação.
+É inviável, analisar a tese defendida no Recurso Especial, pois inarredável a revisão do conjunto probatório dos autos para afastar as premissas fáticas estabelecidas pelo acórdão recorrido. Aplica-se, portanto, o óbice da Súmula 7/STJ.
+Por isso, não conheço do Recurso Especial.
+Condeno a parte recorrente ao pagamento de honorários advocatícios correspondentes a 10% (dez por cento) sobre a verba sucumbencial fixada na origem.
+Publique-se.
+Intimem-se.
