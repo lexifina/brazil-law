@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão assim ementado (fls. 881/883, e-STJ):
+APELAÇÃO CÍVEL. DIREITO DO CONSUMIDOR. AÇÃO DE INDENIZAÇÃO POR DANO MORAL E MATERIAL. ATRASO NA ENTREGA DE IMÓVEL. SENTENÇA DE PARCIAL PROCEDÊNCIA DOS PEDIDOS INICIAIS. RECURSO DA PARTE RÉ. APLICAÇÃO DO CDC. MORA DA PARTE RECORRIDA QUE NÃO RESTOU DEMONSTRADA NOS AUTOS. EMPRESAS QUE NÃO SE DESINCUMBIRAM DO ÔNUS PROBATÓRIO. INTELIGÊNCIA DO ART. 373, II, DO CPC. AUS Ê NCIA DE PROVA QUE A EMPRESA REQUEREU O DISTRATO POR AUS Ê NCIA DE PAGAMENTO DAS PARCELAS DEVIDAS. EXISTÊNCIA DE PROVAS DO ATRASO NA ENTREGA DO IMÓVEL, POR OUTRO LADO. RESCISÃO POR CULPA EXCLUSIVA DAS CONSTRUTORAS.DEVER DE RESTITUIÇÃO DOS VALORES PAGOS, NOS TERMOS DA LEGISLAÇÃO VIGENTE.DANO MORAL DEVIDO, NOS TERMOS DA SÚMULA Nº 12, DO TJSE.DESCUMPRIMENTO CONTRATUAL QUE SUPERA O MERO ABORRECIMENTO. ATRASO DE MAIS DE UM ANO E MEIO NA ENTREGA DO IMÓVEL.QUANTUM INDENIZATÓRIO MANTIDO EM R$ 6.000,00 (SEIS MIL REAIS), EM VIRTUDE DE ATRASO. PATAMAR RAZOÁVEL, ESTANDO EM CONSONÂNCIA COM PRECEDENTES DESTA CORTE. DO TERMO INICIAL DOS JUROS DE MORA. ESTES INCIDEM SOBRE O VALOR DAS PARCELAS A SEREM RESTITUÍDAS A PARTIR DA CITAÇÃO. ENTENDIMENTO DO STJ E DESTE TRIBUNAL. DA SUCUMBÊNCIA. PARTE AUTORA QUE DECAIU DE PARTE MÍNIMA DO PEDIDO.RECURSO CONHECIDO E PARCIALMENTE PROVIDO. UNÂNIME.
+Os embargos de declaração opostos foram rejeitados (fls. 900/909, e-STJ).
+Em suas razões, a parte ora recorrente alega, além de divergência jurisprudencial, violação aos arts. 186 e 927 do Código Civil. Argumenta, em síntese, ter havido, no caso dos autos, mero descumprimento do prazo para entrega do imóvel, o que não configuraria danos morais compensáveis.
+Não foram apresentadas contrarrazões, conforme certidão de fl. 974, e-STJ.
+Assim delimitada a controvérsia, passo a decidir.
+A Súmula nº 568 desta Corte dispõe que "relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+O Tribunal de Justiça de Sergipe, ao analisar a controvérsia, entendeu estarem configurados os danos morais decorrentes do atraso na entrega do imóvel e fixou a compensação, por esse motivo, no valor de seis mil reais, nos seguintes termos (fls. 889/892, e-STJ):
+Assim, considerando a existência de atraso na entrega do empreendimento e a ausência de prova de houve rescisão por culpa do comprador, deve se mantida a sentença que determinou a rescisão contratual e a restituição do valor pago, em sua integralidade e de forma unitária.
+Passo a análise da existência de dano moral indenizável.
+Como dito anteriormente, o juiz a quo condenou as recorrentes em danos morais no valor de R$ 6.000,00 (seis mil reais), corrigidos monetariamente pelo INPC e juros de mora de 1% ao mês contados a partir do vencimento da obrigação de entregar.
+Pois bem.
+Sabe-se que nos termos do artigo 186 do Código Civil, o direito à indenização por danos morais somente fica caracterizado quando houver efetiva violação à honra da parte, que, embora não necessite de comprovação, deve ser fundamentado em fatos presumivelmente capazes de gerar o abalo psicológico alegado.
+Segundo entendimento assente na doutrina e na jurisprudência, apenas pode dar ensejo ao dano moral o sentimento de dor, vexame, sofrimento ou humilhação que foge à normalidade do cotidiano, rompendo o equilíbrio psicológico do indivíduo. Ao revés, o mero dissabor ou aborrecimento do dia a dia não estão albergados no âmbito do dano moral.
+Ou seja, é preciso que o prejuízo causado seja de fato relevante, ultrapassando a fronteira do simples desconforto e do mero aborrecimento.
+(..)
+Destaco que em regra, o simples inadimplemento contratual não enseja indenização por danos morais. Também meros e passageiros aborrecimentos do dia a dia, que não causam maiores consequências ao ser humano, não autorizam a referida indenização imaterial.
+Com efeito, o descumprimento contratual somente justifica a indenização por danos morais em casos excepcionais e mediante prova nos autos.
+E foi justamente isso que aconteceu na presente demanda, visto que a parte autora sofreu incomodações e transtornos ao receber seu imóvel quase um ano e meio após findo o prazo de tolerância de 180 dias, causando-lhe indubitavelmente angústia, frustrando suas justas expectativas e superando os meros aborrecimentos da vida cotidiana.
+Ademais, esta Corte de Justiça uniformizou seu entendimento a respeito do dano moral decorrente do atraso de entrega de imóvel, nos autos do Incidente de Uniformização nº 201300125531, tal como se verifica da redação da Súmula nº 12 deste TJSE:(..)
+Sendo assim, é devido dano moral na hipótese de atraso na entrega de imóvel superior ao prazo de tolerância previsto no contrato, somente podendo ser afastado quando comprovada hipótese de caso fortuito ou força maior, o que, como já mencionado antes, não ocorreu nestes autos.
+Com isso, considero a desídia da construtora para com as suas obrigações, motivo bastante a ensejar a sua condenação em danos morais.
+(..)
+Finalmente, considerando os precedentes desta Corte de Justiça em casos análogos ao dos autos, bem como que o prazo de atraso, conforme colhido dos autos, entendo que deve ser mantida a quantia em R$ 6.000,00 (seis reais).
+Anoto que a Corte local decidiu em consonância com o entendimento do STJ, segundo o qual o atraso expressivo na entrega de empreendimento imobiliário pode configurar dano ao patrimônio moral do contratante, circunstância que enseja a reparação. Incidente a Súmula 83/STJ.
+Ainda, a alteração das conclusões do TJSE, a fim de concluir pela não configuração dos danos morais demandaria o reexame de provas, o que não é permitido em recurso especial, a teor da Súmula 7/STJ.
+A propósito, cito os recentes julgados da Quarta Turma desta Corte:
+AGRAVO INTERNO NO RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL. DANOS MORAIS. ATRASO POR PERÍODO EXPRESSIVO. CONFIGURAÇÃO. MONTANTE INDENIZATÓRIO. REVISÃO. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. O simples inadimplemento contratual em razão do atraso na entrega do imóvel não é capaz, por si só, de gerar dano moral indenizável, sendo necessária a comprovação de circunstâncias específicas que possam configurar a lesão extrapatrimonial, como na hipótese dos autos, em que o atraso na entrega do imóvel foi superior a um ano após a expiração do prazo de tolerância.
+2. É inviável a revisão do montante indenizatório, fixado em R$10.000,00 (dez mil reais) para cada comprador, por não violar a razoabilidade e proporcionalidade, incidindo o óbice da Súmula 7/STJ.
+3. Agravo interno desprovido.
+(AgInt no REsp n. 1.949.046/RJ, relator Ministro Raul Araújo, Quarta Turma, julgado em 9/5/2022, DJe de 10/6/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL. RESTITUIÇÃO DA COMISSÃO DE CORRETAGEM. PREQUESTIONAMENTO AUSENTE. SÚMULA 282/STF. DANOS MORAIS. ATRASO POR PERÍODO EXPRESSIVO. CONFIGURAÇÃO AGRAVO INTERNO DESPROVIDO.
+1. O conhecimento do recurso especial exige o prequestionamento da matéria de direito federal, ocorrente quando o Tribunal de origem manifesta-se inequivocamente acerca da tese recursal, condição não verificada quanto à tese sobre a restituição da comissão de corretagem. Incidência da vedação prevista na Súmula 282/STF.
+2. O simples inadimplemento contratual em razão do atraso na entrega do imóvel não é capaz, por si só, de gerar dano moral indenizável, sendo necessária a comprovação de circunstâncias específicas que possam configurar a lesão extrapatrimonial, como na hipótese dos autos, em que o atraso na entrega do imóvel foi superior a um ano e quatro meses após a expiração do prazo de tolerância.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 1.983.175/MA, relator Ministro Raul Araújo, Quarta Turma, julgado em 13/6/2022, DJe de 29/6/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. COMPRA E VENDA DE UNIDADE IMOBILIÁRIA. ATRASO DE UM ANO E CINCO MESES, PARA ALÉM DO PRAZO DE TOLERÂNCIA. MULTA. RAZOABILIDADE. SÚMULAS 5 E 7, DO STJ. DANO MORAL CONFIGURADO. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se viabiliza o recurso especial pela indicada violação do art. 1.022 do Código de Processo Civil. Isso porque, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão do recorrente.
+2. Para desconstituir a convicção formada pelas instâncias ordinárias a respeito da razoabilidade do valor da multa contratual, far-se-ia necessário incursionar no substrato fático-probatório dos autos, bem como na interpretação de cláusula contratual, o que é defeso a este Tribunal nesta instância especial, conforme se depreende do teor dos Enunciados sumulares n. 5 e 7 do STJ.
+3. Conforme a jurisprudência pacífica do STJ, o atraso expressivo na entrega de empreendimento imobiliário pode configurar dano ao patrimônio moral do contratante, circunstância que enseja a reparação.
+4. Rever o entendimento do acórdão recorrido, ensejaria o reexame do conjunto fático-probatório da demanda, providência vedada em sede de recurso especial, ante a Súmula 7 do Superior Tribunal de Justiça.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 1.975.630/RJ, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 29/3/2022, DJe de 4/4/2022.)
+Em face do exposto, nego provimento ao recurso especial.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
