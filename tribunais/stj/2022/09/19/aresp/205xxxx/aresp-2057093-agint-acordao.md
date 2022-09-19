@@ -1,0 +1,30 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 13/09/2022 a 19/09/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Humberto Martins.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de agravo interno contra decisão monocrática da lavra do Ministro Presidente desta Corte, que não conheceu do agravo em recurso especial, ante a incidência da Súmula n. 182/STJ.
+Nas razões do agravo interno, a parte sustenta, em síntese, os seguintes argumentos:
+ ..
+Conforme pode ser observado no Agravo em Recurso Especial, o agravante impugnou a decisão esclarecendo que o objeto da presente lide é no sentido de se apurar acerca de eventuais ilegalidades na destinação de verbas federais liberadas pelo FUNDEB em favor do Município de Lagarto, e que por talmotivo a competência para apreciar e julgar demandas dessa natureza é indiscutivelmente da Justiça Federal, e não da Estadual.
+Esclareceu que, ao reconhecer a competência da Justiça Estadual, o TFR5 deu ao presente caso interpretação divergente da jurisprudência do TRF1 e do STJ, que entendem ser da Justiça Federal a competência para julgar demandas dessa natureza, colacionando inclusive decisões dos tribunais acima mencionados.
+É importante destacar que em situação semelhante àdiscutida nestes autos, não conhecimento do Agravo em Recurso Especial por ausência de impugnação específica da decisão que inadmitiu Recurso Especial,o Eminente Ministro Napoleão Nunes Maia Filho reconsiderou a decisão conhecendo o Agravo em Recurso Especial. Confira-se:
+ ..
+Na origem, trata-se de agravo de instrumento emação civil pública por ato de improbidade administrativa, ajuizada pelo suposto cometimento de atos ímprobos relativos ao desvio de finalidade na desapropriação de área no Município de Lagarto para construção da Unidade Municipal de Educação Infantil- UMEI, com a construção de casas para doação. Na decisão agravada, o Juízo federal reconheceu sua incompetência, devolvendo os autos ao Juízo estadual. No Tribunal de origem, a decisão agravada foi mantida.Interposto recurso especial, este teve seguimento negado na origem. Seguiu-se a interposição de agravo em recurso especial.
+No STJ, em decisão monocrática da lavra do MinistroPresidente desta Corte, não se conheceu do agravo, ante a incidência da Súmula n. 182/STJ.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO QUE NÃO ATACA OS FUNDAMENTOS DA DECISÃO AGRAVADA. VIOLAÇÃO DO ART. 932, III, DO CPC/2015 E ART. 253, PARÁGRAFO ÚNICO, I, DO RISTJ. AGRAVO NÃO CONHECIDO. AGRAVO INTERNO IMPROVIDO.
+I - Na origem, trata-se de agravo de instrumento em ação civil pública por ato de improbidade administrativa, ajuizada pelo suposto cometimento de atos ímprobos relativos ao desvio de finalidade na desapropriação de área no Município de Lagarto para construção da Unidade Municipal de Educação Infantil - UMEI, com a construção de casas para doação. Na decisão agravada, o Juízo federal reconheceu sua incompetência, devolvendo os autos ao Juízo estadual. No Tribunal de origem, a decisão agravada foi mantida. Interposto recurso especial, este teve seguimento negado na origem. Seguiu-se a interposição de agravo em recurso especial.No STJ, em decisão monocrática da lavra do MinistroPresidente desta Corte, não se conheceu do agravo, ante a incidência da Súmula n. 182/STJ.
+II - De fato, verificou-se que a decisão agravada inadmitiu o recurso especial, considerando adeficiência do cotejo analítico.No entanto, a parte agravante deixou de impugnar especificamente o referido óbice.Nos termos do art. 932, III, do CPC e do art. 253, parágrafo único, I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+III - Por fim, reiterado o entendimento deste Sodalício no sentido de que, para o reconhecimento de fato superveniente - no caso, a alegada necessidade de suspensão do feito em razão do reconhecimento pelo STF de repercussão geral nos autos do ARE n. 843.989, no qual se definirá a eventual "(ir)retroatividade das disposições da Lei 14.230/2021", que promoveu alterações significativas na lei de improbidade - , "é necessário, além do conhecimento do recurso, que haja relação entre o objeto recursal e aludido fato superveniente" (EDcl no AgInt no AREsp n. 1.807.643/RS, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 9/11/2021, DJe 22/11/2021).
+IV - Agravo interno improvido.
+VOTO
+As razões do agravo interno não são suficientes para reformar as conclusões da decisão agravada, merecendo ser mantida pelos seus fundamentos.
+De fato, verificou-se que a decisão agravada inadmitiu o recurso especial, considerando adeficiência do cotejo analítico.
+No entanto, a parte agravante deixou de impugnar especificamente o referido óbice.
+Nos termos do art. 932, III, do CPC e do art. 253, parágrafo único, I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+Por fim, reiterado o entendimento deste Sodalício no sentido de que, para o reconhecimento de fato superveniente - no caso, a alegada necessidade de suspensão do feito em razão do reconhecimento pelo STF de repercussão geral nos autos do ARE n. 843.989, no qual se definirá a eventual "(ir)retroatividade das disposições da Lei 14.230/2021", que promoveu alterações significativas na lei de improbidade - , "é necessário, além do conhecimento do recurso, que haja relação entre o objeto recursal e aludido fato superveniente" (EDcl no AgInt no AREsp n. 1.807.643/RS, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 9/11/2021, DJe 22/11/2021).
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
