@@ -1,0 +1,36 @@
+DECISÃO
+Breno Garcia de Oliveira opõeembargos de declaração em face da decisão de fls. 383/386, por meio do qual neguei provimento ao agravo em recurso especial.
+Aduz haver omissão na decisão embargada, "porquanto o objeto do Recurso Especial e também do Agravo em Recurso Especial é a violação de dispositivo infraconstitucional, conforme exaustivamente alegado nas razões recursais", sendo certo, assim, que "o ponto nevrálgico da discussão se cinge na flagrante desobediência ao que dispõem os arts. 99, §§2º e 3º do CPC eis que o Embargante comprovou devidamente seu estado de hipossuficiência e, de igual modo, demonstrou que não há nos autos a existência de qualquer elemento que indique o contrário".
+Não foi apresentada impugnação aos embargos.
+Assim posta a questão, destaco que os embargos de declaração só se prestam a sanar obscuridade, omissão ou contradição porventura existentes na decisão, não servindo à rediscussão da matéria já julgada no recurso.
+No caso dos autos, verifico que a decisão embargada é clara e precisa em seus fundamentos, sendo certo que a revisão da conclusão do acórdão recorrido, acerca da configuração dos requisitos autorizadores da concessão de gratuidadejudiciária, demandaria o reexame de provas, fazendo incidir aSúmula 7/STJ, conforme constou da decisão embargada:
+No caso, entendo que o Tribunal de origem se manifestou de clara forma sobre a questão,in verbis:
+( ..)
+Nesse sentido, não descuro que a declaração de pobreza assinada pelo requerente goza de presunção relativa de veracidade. Todavia, não se olvida que tal presunção pode ser elidida se houver nos autos prova em contrário.
+Isto porque, segundo o inciso LXXIV, do art. 51 , da CF/88, o Estado prestará assistência jurídica integral e gratuita àqueles que "comprovarem insuficiência de recursos". Logo, se é de mister a demonstração da incapacidade financeira, a simples declaração de pobreza não pode ser compreendida como prova irrefutável dessa condição.
+Por isso mesmo, o exame da necessidade da gratuidade deve se ater às peculiaridades do caso em exame, coligindo-se documentos relativos às receitas e despesas de cada parte, com o objetivo de ser garantido a todos o livre acesso ao Poder Judiciário.
+Neste sentido a jurisprudência do Colendo STJ:
+PROCESSUAL CIVIL. GRATUIDADE DA JUSTIÇA.IMPOSSIBILIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO.
+O Superior Tribunal de Justiça entende que é relativa a presunção de hipossuficiência oriunda da declaração feita pelo requerente do benefício da justiça gratuita, sendo possível a exigência, pelo magistrado, da devida comprovação.
+O Tribunal local consignou: "In casu, o agravante, de acordo com o seu comprovante de rendimentos, fl.36, datado de setembro de 2014, percebe, mensalmente, a quantia bruta de R$ 4.893,16, que, à época, equivalia a 6,75 salários mínimos, não sehavendo falar em necessidade de concessão da benesse." (fI. 83, e-STJ). A reforma de tal entendimento requer o reexame do conteúdo fático- probatório dos autos, atraindo à espécie o óbice contido na Súmula 7 do STJ.
+3. Recurso Especial não conhecido.
+(REsp 16664951R5, Rei. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 2710612017, DJe 3010612017)
+Prevalece o entendimento de que o benefício, por se tratar de um direito subjetivo público outorgado pela Constituição Federal, deve ser amplo, abrangendo todos aqueles que comprovarem insuficiência de recursos, inclusive as pessoas jurídicas, brasileiras ou estrangeiras, conforme disposto no caput, do artigo 98, do NCPC.
+Porém, tal conclusão não impede que seja exigida do postulante a prova de sua hipossuficiência financeira, ônus que lhe incumbe à luz do art. 51 , inciso LXXIV, da CR/88, que é, no meu entender, uma norma constitucional de aplicabilidade imediata e de eficácia plena, que orienta no sentido de que é assegurada a prestação de assistência judiciária gratuita àqueles que provarem não possuir recursos.
+..
+No caso concreto, após examinar o feito, verifico que o recorrente não cuidou de juntar, no prazo fixado por este Julgador, documentos atualizados que comprovassem seu alegado estado de miserabilidade, ônus este que lhe incumbia.
+Vê-se que o recorrente é advogado, com escritório próprio, que atua, além desta Capital, no interior e, até mesmo, no Estado de São Paulo, o que evidencia sua condição econômica de suportar as custas recursais.
+Desse modo, a declaração de hipossuficiência financeira neste caso é, no meu modo de entender, insuficiente para demonstrar que ele jus ao benefício da gratuidade judiciária pretendida, devendo ser mantida a decisão agravada.
+Quanto ao mais, a conclusão da Corte de origem, no sentido de que não teria comprovado os requisitos necessários à concessão da gratuidade de justiça, é imune ao crivo do recurso especial, como ensina o verbete n. 7 da Súmula desta Casa.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. JUSTIÇA GRATUITA. PESSOA FÍSICA. ALEGADA VIOLAÇÃO AO ART. 1.022 DO CPC DE 2015. INEXISTÊNCIA. CARÊNCIA DE FUNDAMENTAÇÃO NÃO CARACTERIZADA. FALTA DE COMPROVAÇÃO DA NECESSIDADE DO BENEFÍCIO. REVISÃO DA CONCLUSÃO ALCANÇADA NA ORIGEM. IMPOSSIBILIDADE. ÓBICE DA SÚMULA 7/STJ. RECURSO NÃO PROVIDO.
+1. De acordo com o entendimento jurisprudencial pacífico desta Corte Superior, não há violação ao art. 1.022 do CPC de 2015 nos casos em que o acórdão recorrido resolve com coerência e clareza os pontos controvertidos que foram postos à apreciação da Corte de origem, examinando as questões cruciais ao resultado do julgamento.
+2. "Se os fundamentos do acórdão recorrido não se mostram suficientes ou corretos na opinião do recorrente, não quer dizer que eles não existam. Não se pode confundir ausência de motivação com fundamentação contrária aos interesses da parte, como ocorreu na espécie. Violação do art. 489, § 1º, do CPC/2015 não configurada" (AgInt no REsp 1.584.831/CE, Rel. Ministro Humberto Martins, Segunda Turma, julgado em 14/6/2016, DJe 21/6/2016).
+3. De acordo com entendimento do STJ, a declaração de pobreza, com o intuito de obter os benefícios da assistência judiciária gratuita, goza de presunção relativa, admitindo, portanto, prova em contrário.
+4. Além disso, o Superior Tribunal de Justiça já decidiu que "o pedido de assistência judiciária gratuita pode ser indeferido quando o magistrado tiver fundadas razões para crer que o requerente não se encontra no estado de miserabilidade declarado." (AgRg no Ag 881.512/RJ, Rel. Ministro Carlos Fernando Mathias (Juiz Federal Convocado do TRF 1ª Região), Quarta Turma, julgado em 02/12/2008, DJe 18/12/2008).
+5. A conclusão a que chegou o Tribunal a quo, no sentido de indeferir a benesse pretendida, decorreu de convicção formada em face dos elementos fáticos existentes nos autos. Revê-la importaria necessariamente no reexame de provas, o que é defeso nesta fase recursal pelo teor da Súmula 7 do STJ.
+6. Agravo interno não provido.
+(AgInt no AREsp 1792605/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 25/10/2021, DJe 28/10/2021)
+O que se verifica é que oembargantenão se conformacom a solução dada ao caso, o que, contudo, não autoriza a oposição de embargos de declaração.
+Em face do exposto, rejeito os embargos de declaração.
+Intimem-se.
