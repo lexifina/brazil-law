@@ -1,0 +1,21 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 13/09/2022 a 19/09/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+Trata-se de novo agravo interno interposto pelo SINDIFISCO NACIONAL - SIND. NAC. DOS AUD. FISCAIS DA RECEITA FEDERAL DO BRASIL contra decisão de minha lavra, proferida às e-STJ fls. 628/630, em que recebi anterior agravo interno como pedido de distinção e o indeferi em razão de atese sustentada no apelo nobreamoldar-se à discussão pacificada nojulgamento do REsp 1.252.412/RN (Tema 506 do STJ).
+Aduz a parte agravante que " ..  CONCORDA com a devolução dos autos à instância de origem para fins de cumprimento do art. 1.040 do CPC/15, tendo em vista o julgamento do REsp 1.252.412/RN (Tema 506 do STJ) sob a sistemática dos recursos repetitivos", rematando que, "todavia, em razão das peculiaridades existentes no caso sub judice, entende o recorrente que a tese que deverá prevalecer é a regra geral firmada no referido repetitivo, que prevê que, enquanto não arquivado o feito, não há que se falar em preclusão na fixação dos honorários, ainda que não tenham sido fixados quando do despacho inicial, e não a exceção estabelecida naquele mesmo julgado, conforme indicou o r. decisum sob insurgência" (STJ fl. 637).
+Contraminuta às e-STJ fls. 641/643.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. RECURSO REPETITIVO. JUÍZO DE CONFORMAÇÃO. DEVOLUÇÃO DOS AUTOS. MANUTENÇÃO.
+1. A questão objeto do recurso especial amolda-se à controvérsia decidida no REsp 1.252.412/RN, realizado sob a sistemática dos recursos repetitivos, em que a Corte Especial do STJ pacificou o entendimento de que ocorre a preclusão lógica quando o magistrado deixa de se pronunciar no despacho citatório sobre a expressa postulação de arbitramento de honorários na inicial da execução de sentença, e a parte exequente reitera o pedido apenas após o pagamento da execução e o consequente arquivamento do feito.
+2.Julgado o tema pela sistemática dos recursos repetitivos, esta Corte Superior orienta que os recursos que tratam da mesma controvérsia devem retornar ao Tribunal de origem para que este faça o juízo de conformação, nos termos do que dispõe o art. 34, XXIV, do RISTJ, para fins de exaurimento da instância ordinária.
+3. Agravo interno desprovido.
+VOTO
+Consoante destacado pelodecisumhostilizado, a tese dorecurso especialamolda-se à questão repetitiva apontada na decisão questionada, resultando, dodistinguishrealizado na petição do pedido dedistinção, que a própria parte peticionante assim o entende, ainda que objetive ver afastada a tese de mérito fixada em virtude de nuance de entendimento que, a seu sentir, teria sido posto pelo próprio acórdão de referência.
+Destaque-se que, no agravo interno ora analisado,o próprio ente sindical indica concordar que seamoldaà controvérsia decidida no REsp 1.252.412/RN, não apontado nenhumadistinçãoentre a hipótese dos autos e a controvérsia repetitiva solvida no recurso citado.
+Conformeassentei na decisão de baixa dos autos à origem, a questão objeto do recurso especial amolda-se à controvérsia decidida no REsp 1.252.412/RN, realizado sob a sistemática dos recursos repetitivos, em que a Corte Especial do STJ pacificou o entendimento de que ocorre a preclusão lógica quando o magistrado deixa de se pronunciar no despacho citatório sobre a expressa postulação de arbitramento de honorários na inicial da execução de sentença, e a parte exequente reitera o pedido apenas após o pagamento da execução e o consequente arquivamento do feito.
+Julgado o tema pela sistemática dos recursos repetitivos, esta Corte Superior orienta que os recursos que tratam da mesma controvérsia devem retornar ao Tribunal de origem para que este faça o juízo de conformação, nos termos do que dispõe o art. 34, XXIV, do RISTJ, para fins de exaurimento da instância ordinária.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
