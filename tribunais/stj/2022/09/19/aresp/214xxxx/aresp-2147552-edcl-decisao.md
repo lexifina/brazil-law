@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por RICARDO TEODORO SOUZA E OUTRO, à decisão de fls. 161/162, que não conheceu do recurso.
+Sustenta a parte embargante que:
+8. Ao interpor o Agravo em Recurso Especial (peça número 18), os Embargantes comprovaram toda a ocorrência de suspensão da contagem do prazo (item 1, tempestividade, página 2). Vejamos:
+ ..
+9. A intimação foi publicada dia 11.04.2022, segunda-feira.
+10. O termo inicial deu-se em 12.04.2022, terça-feira.
+11. O prazo foi suspenso nos dias 13.04.2022, 14.04.2022 e 15.04.2022 (quarta, quinta e sexta-feira) em razão do artigo 123, inciso IV, do Regimento Interno do Tribunal de Justiça do Estado de Goiás 4 , ao qual determina que não haverá expediente no Tribunal de Justiça na quarta, quinta e sexta-feira da Semana Santa.
+12. Foi suspenso também no dia 21.04.2022 (quinta-feira), em razão do artigo 123, inciso I do Regimento Interno do Tribunal de Justiça do Estado de Goiás, ao qual determina que não haverá expediente no Tribunal de Justiça nos feriados nacionais. In casu, trata-se de feriado nacional em comemoração ao dia de Tiradentes.
+13. Ainda, foi suspenso no dia 22.04.2022 (sexta-feira), em razão do artigo 123, inciso II, do Regimento Interno do Tribunal de Justiça do Estado de Goiás, ao qual determina que não haverá expediente no Tribunal de Justiça nos dias declarados como ponto facultativo pelo Chefe do Poder Judiciário. In casu, o Decreto Judiciário 865/2022 5 , assinado pelo Presidente do TJGO, Desembargador Carlos Alberto França, determinou como ponto facultativo do Poder Judiciário do Estado de Goiá o dia 22 de abril de 2022, em virtude do feriado nacional destinado à comemoração do Dia de Tiradentes, no dia 21 de abril de 2022 (fl. 166).
+ ..
+15. O termo final deu-se em 09.05.2022, segunda-feira.
+16. Os referidos atos administrativos e Regimento Interno do TJGO que suspenderam a contagem do prazo foram delineados em nota de rodapé, na página 2 (referências 4 a 8). Vejamos: (fl. 167).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Cumpre esclarecer, pois se encontra pacificado nesta Corte, que a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada, no ato da interposição do recurso que pretende seja conhecido por este Tribunal, por documento oficial ou certidão expedida pelo Tribunal de origem, não bastando a mera menção ao feriado local nas razões recursais, tampouco a apresentação de documento não dotado de fé pública.
+Nesse sentido, AgInt no AREsp 1542214/SP, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 9/6/2020; AgInt nos EDcl no AREsp 1553768/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 27/4/2020; e AgInt nos EDcl no AREsp 1379051/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 3/10/2019.
+Do mesmo modo, a jurisprudência entende que a mera transcrição do texto de artigo de resolução local no corpo da petição não elide a necessidade da apresentação do documento original para a comprovação da suspensão de prazo na Instância de origem. Nesse sentido, AgInt no AREsp 1158537/SP, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 8/8/2018; AgInt nos EDcl no AREsp 1421854/RJ, relator Ministro Marco Buzzi, Quarta Turma, DJe de 3/6/2019.
+É certo que os feriados nacionais de 15/4/2022 e 21/4/2022 não precisam ser comprovados. Porém, os dias 13/4/2022, 14/4/2022 e 22/4/2022 são supostamente feriados locais, razão pela qual deveriam ter sido comprovados no momento da interposição do recurso, providência que não foi cumprida. Veja-se que não basta transcrever os artigos do ato normativo que instituiu os feriados locais, deve ser juntado o inteiro teor do respectivo documento.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
