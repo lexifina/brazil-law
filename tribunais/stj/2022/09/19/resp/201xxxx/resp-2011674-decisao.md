@@ -1,0 +1,39 @@
+DECISÃO
+SEBASTIÃO RAIMUNDO DE SOUZA (SEBASTIÃO) ajuizou ação declaratória de nulidade de empréstimo consignadocumulada com repetição de indébito e reparação de danos morais em desfavor de BANCO BMG S.A. (BANCO), sob alegação de que percebe benefício previdenciário junto ao Instituto Nacional de Seguridade Social (INSS) e constatou, ao verificar o extrato desse benefício, a existência de vários descontos indevidos oriundos de empréstimo consignado por ele não contratado, iniciado em janeiro de2007, a ser quitado em 24 parcelas, tendo sido excluídos os débitos com 03 parcelas já pagas, ensejando a propositura da presente ação, na qual requereu que fossemdeclarados ilegais os descontos efetuados, coma restituição em dobro dos valores que alega terem sido deduzidos indevidamente e, ainda, a condenação em danos morais no valor de R$ 10.000,00 (dez mil reais), ou conforme a concepção do Juízo.
+A sentença extinguiu o processo com resolução de mérito, tendo sido reconhecida a prescrição da pretensão autoral (e-STJ, fls. 128/130).
+O Tribunal de Justiça do Paraná deu provimento à apelação de SEBASTIÃO em acórdão assim ementado:
+RESPONSABILIDADE CIVIL. AÇÃO DECLARATÓRIA DE NULIDADE DE EMPRÉSTIMO CONSIGNADO CUMULADO COM REPETIÇÃO DE INDÉBITO E INDENIZAÇÃO POR DANO MORAL. PRESCRIÇÃO.AFASTADA. TERMO INICIAL. CONHECIMENTO DO DANO.SENTENÇA CASSADA. JULGAMENTO DA LIDE PELO TRIBUNAL.EXEGESE DO ARTIGO 1.013, §3º, INCISO II, DO CPC. AUSÊNCIA DE APRESENTAÇÃO DO CONTRATO. DESCONTOS INDEVIDOS NO BENEFÍCIO PREVIDENCIÁRIO DO AUTOR. RESTITUIÇÃO EM DOBRO. APLICAÇÃO DO ARTIGO 42 DO CDC. DANO MORAL CONFIGURADO. PEDIDOS FORMULADOS NA INICIAL PROCEDENTES. APELAÇÃO PROVIDA(e-STJ, fl. 189).
+Os embargos de declaração opostos pelo BANCO foram rejeitados (e-STJ, fls. 213/216).
+Na sequência, BANCO manejou recurso especial com fundamento nas alíneasae cdo permissivo constitucional, apontandoviolação do art. 27 do CDC e divergência jurisprudencialcom precedentes do STJ,nos quais se reconheceu, em casos análogos, que o termo inicial do prazo prescricional é a data do último desconto.
+Não houve o oferecimento decontrarrazões (e-STJ, fl. 266).
+Orecurso foi admitido pelo Tribunal de origem (e-STJ, fls. 268/269).
+É o relatório.
+DECIDO.
+A irresignação merece prosperar.
+De plano vale pontuar que a disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+As Turmas que compõem a Segunda Seção desta Corte têm assinalado que a ação declaratória de inexistência de negócio jurídico cumulada com repetição de indébito e indenização por danos morais decorrente de empréstimo consignado em benefício previdenciário está submetida a prazo prescricional de 5 (cinco) anos, cujo termo inicial recai na data do último desconto alegadamente indevido.
+Nesse sentido:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA OU NULIDADE DE NEGÓCIO JURÍDICO C/C REPETIÇÃO DO INDÉBITO. PRESCRIÇÃO. FALHA NA PRESTAÇÃO DO SERVIÇO. INCIDÊNCIA DO PRAZO QUINQUENAL PREVISTO NO ART. 27 DO CÓDIGO DE DEFESA DO CONSUMIDOR. PRECEDENTES DA CORTE. APLICAÇÃO DA SÚMULA 83/STJ.
+1. "A jurisprudência do Superior Tribunal de Justiça é no sentido de que, em se tratando de pretensão de repetição de indébito decorrente de descontos indevidos, por falta de contratação de empréstimo com a instituição financeira, ou seja, em decorrência de defeito do serviço bancário, aplica-se o prazo prescricional do art. 27 do CDC" (AgInt no AREsp 1.720.909/MS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, DJe 24.11.2020).
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.889.901/PB, relatora Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 29/11/2021, DJe de 1/12/2021)
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA. CONCLUSÃO EM HARMONIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. PRESCRIÇÃO QUINQUENAL. ART. 27 DO CDC. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. O acórdão entendeu que a ação envolvia pretensão por reparação por vício na prestação de serviços ao consumidor, o que atrairia o prazo prescricional do art. 27 do CDC - 5 (cinco) anos.
+2. Consoante a jurisprudência do Superior Tribunal de Justiça, "tratando-se de pretensão decorrente de descontos indevidos, por falta de contratação, em decorrência de defeito do serviço, aplica-se o prazo prescricional quinquenal previsto no art. 27 do Código de Defesa do Consumidor (CDC)" - (AgInt no AREsp 1.673.611/RS, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 14/9/2020, DJe 22/9/2020). Aplicação da Súmula 83/STJ.
+3. Agravo interno desprovido.
+(AgInt no AgInt no AREsp n. 1.904.518/PB, relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 14/2/2022, DJe de 22/2/2022)
+AGRAVO INTERNO NO RECURSO ESPECIAL. EMPRÉSTIMO CONSIGNADO. DESCONTO INDEVIDO EM BENEFÍCIO PREVIDENCIÁRIO. REPETIÇÃO DE INDÉBITO.PRESCRIÇÃO QUINQUENAL. TERMO INICIAL. DATA DO PAGAMENTO. AGRAVO NÃO PROVIDO.
+1. Em demandas como a do presente caso, envolvendo pretensão de repetição de indébito, aplica-se prazo prescricional quinquenal a partir da data em que ocorreu a lesão, ou seja, a data do pagamento indevido. Precedentes.
+2. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.799.042/MS, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, DJe 24/9/2019)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IRRESIGNAÇÃO MANIFESTADA NA VIGÊNCIA DO NCPC. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE NEGÓCIO JURÍDICO CUMULADA COM REPETIÇÃO DE INDÉBITO E INDENIZAÇÃO POR DANOS MORAIS. EMPRÉSTIMO CONSIGNADO EM BENEFÍCIO PREVIDENCIÁRIO. PRAZO PRESCRICIONAL. CINCO ANOS. ART. 27 DO CDC. TERMO INICIAL. ÚLTIMO DESCONTO. DECISÃO EM CONFORMIDADE COM O ENTENDIMENTO DESTA CORTE. PRESCRIÇÃO RECONHECIDA NA ORIGEM COM BASE NOS FATOS DA CAUSA.INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL. NÃO DEMONSTRAÇÃO, NOS MOLDES LEGAIS. RECURSO MANIFESTAMENTE INADMISSÍVEL.INCIDÊNCIA DA MULTA DO ART. 1.021, § 4º, DO NCPC. AGRAVOINTERNO NÃO PROVIDO.
+ ..
+2. O Tribunal a quo dirimiu a controvérsia em conformidade com a orientação firmada nesta Corte, no sentido de que, para a contagem do prazo prescricional quinquenal previsto no art. 27 do CDC, o termo inicial a ser observado é a data em que ocorreu a lesão ou pagamento, o que, no caso dos autos, se deu com o último desconto do mútuo da conta do benefício da parte autora. Incidência da Súmula nº 568 do STJ, segundo a qual, o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.
+(AgInt no AREsp 1.481.507/MS, Rel. Ministro MOURA RIBEIRO, Terceira Turma, DJe 28/8/2019)
+Assim, porque os fundamentos adotados pelo acórdão recorrido não estão em consonância com o entendimento firmado nesta Corte, deve ser ele reformado.
+Nessas condições, DOUPROVIMENTO ao recurso especial para restabelecer a sentença de e-STJ, fls. 128/130).
+Por oportuno, previno que a interposição de recurso contra essa decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação nas penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE NEGÓCIO JURÍDICO CUMULADA COM REPETIÇÃO DE INDÉBITO E INDENIZAÇÃO POR DANOS MORAIS.EMPRÉSTIMO CONSIGNADO EM BENEFÍCIO PREVIDENCIÁRIO.PRAZO PRESCRICIONAL. CINCO ANOS. ART. 27 DO CDC. TERMO INICIAL. ÚLTIMO DESCONTO.RECURSO ESPECIALPROVIDO.
