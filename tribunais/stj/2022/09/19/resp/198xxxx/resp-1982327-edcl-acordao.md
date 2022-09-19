@@ -1,0 +1,29 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 13/09/2022 a 19/09/2022, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator):Trata-se de embargos de declaração opostos contra acórdão, assim ementado (fl. 202):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO FISCAL. EMPRESA EM RECUPERAÇÃO JUDICIAL. ORDEM DE PENHORA PELO JUÍZO DA EXECUÇÃO. POSSIBILIDADE. EVENTUAL NECESSIDADE DE READEQUAÇÃO. COMPETÊNCIA DO JUÍZO DA RECUPERAÇÃO. COOPERAÇÃO JURISDICIONAL.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Nos termos da regra estabelecida pelo novo § 7º-B da Lei n. 11.105/2005, incluído pela Lei 14.112, de 24 de dezembro de 2020, no processo executivo instaurado para a cobrança de créditos tributários, a ordem de penhora e a determinação de eventuais atos de constrição são da competência do juízo da execução fiscal; contudo, deferida a recuperação judicial à sociedade empresária executada, compete ao juízo especializado da recuperação a análise e a decisão a respeito da necessidade de manutenção ou substituição dos atos de constrição determinados no processo de execução e que recaiam sobre bens de capital essenciais à manutenção da atividade empresarial até o encerramento da recuperação judicial, mediante a cooperação jurisdicional, na forma do art. 69 do CPC/2015. Precedentes: AgInt no REsp 1981865/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 26/04/2022, DJe 29/04/2022; AgInt no CC 181.733/PE, Rel. Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 15/03/2022, DJe 18/03/2022.
+3. A mera oposição de embargos de divergência, pendentes de julgamento, não tem o condão de sobrestar o trâmite do recurso, por ausência de disposição legal nesse sentido.
+4. Agravo interno não provido.
+O embargante aponta omissão no acórdão embargado quanto ao momento em que deverá ocorrer a cooperação com o juízo recuperacional, ou seja, deve ser definido se o ato constritivo deve ser expedido pelo juízo da execução fiscal e submetido previamente ao juízo recuperacional ou se deve ser efetuada a constrição independentemente do prejuízo que isso possa gerar à recuperanda e, somente após, o ato ser submetido à referida cooperação. De outro lado, alega que a oposição de embargos de divergência é prejudicial externa que pode impactar diretamente o caso tem tela, devendo ser suspenso o presente processo.
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
+1.Registra-se que os embargos de declaração foram opostos contra acórdão publicado na vigência do novo Código de Processo Civil, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo n. 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016.
+2.Nos termos do que dispõe o art. 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+3.Não há vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+4.Embargos de declaração rejeitados.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator):Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+O aresto embargado foi claro ao concluir que (fls. 458/461):
+Conforme exposto no decisum, nos termos da regra estabelecida pelo novo § 7º-B da Lei 11.105/2005, incluído pela Lei 14.112, de 24 de dezembro de 2020 (aplicada de imediato aos processos em curso por ser regra processual afeta à competência), no processo executivo instaurado para a cobrança de créditos tributários, a ordem de penhora e a determinação de eventuais atos de constrição são da competência do juízo da execução fiscal; contudo, deferida a recuperação judicial à sociedade empresária executada, compete ao juízo especializado da recuperação a análise e a decisão a respeito da necessidade de manutenção ou substituição dos atos de constrição determinados no processo de execução e que recaiam sobre bens de capital essenciais à manutenção da atividade empresarial até o encerramento da recuperação judicial, mediante a cooperação jurisdicional, na forma do art. 69 do CPC/2015.
+ ..
+Por fim, a mera oposição de embargos de divergência, pendentes de julgamento, não tem o condão de sobrestar o trâmite do recurso, por ausência de disposição legal nesse sentido.
+Assim, evidencia-se não ter ocorrido falta de clareza, insuficiência de fundamentação ou erro material a ensejar esclarecimento ou complementação do que já decidido. O que ocorreu, na verdade, foi julgamento contrário aos interesses da parte recorrente.
+Ante o exposto,rejeitoos embargos de declaração.
+É como voto.
