@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto por PEDRO JORGE SOARES MEDEIROS contra acórdão do Tribunal de Justiça da Paraíba, assim ementado (e-STJ, fl. 303):
+HABEAS CORPUS. PRISÃO PREVENTIVA. DELITO DE LATROCÍNIO. ALEGAÇÃO DE FALTA DE JUSTA CAUSA.TRANCAMENTO DA AÇÃO PENAL. NECESSIDADE DE APROFUNDAMENTO NO EXAME DAS PROVAS. DECISÃO QUE ADMITIU A DENÚNCIA. PRESCINDIBILIDADE DE ROBUSTA E ALONGADA MOTIVAÇÃO. CITAÇÃO POR EDITAL. NULIDADE INEXISTENTE. RÉU EM LOCAL INCERTO E NÃO SABIDO DESDE O INQUÉRITO POLICIAL.MEDIDAS CAUTELARES PREVISTAS NO ARTIGO 319 DO CÓDIGO DE PROCESSO PENAL. INCABÍVEL A APLICAÇÃO DAS MEDIDAS CAUTELARES PREVISTAS NO REFERIDO DISPOSITIVO PROCESSUAL PENAL, DIANTE DA GRAVIDADE DA CONDUTA ATRIBUÍDA AO PACIENTE.DENEGAÇÃO DA ORDEM.
+1. Não se pode discutir a ausência de justa causa para a propositura da ação penal, em sede de habeas corpus, se necessário um minucioso exame do conjunto fático-probatório em que sucedeu a infração.
+2. "Para o recebimento de denúncia não se exige decisão fundamentada." (STJ, HC 265.853/MA, DJe 02/10/2017)
+3. A citação por edital (ou citação ficta) constitui modalidade excepcional de chamamento do réu a juízo. A publicação pressupõe a impossibilidade de citação pessoal do acusado.
+4. O trancamento da ação penal, pela via do habeas corpus, só é admissível quando atípica a conduta, ou ocorrer causa de extinção da punibilidade, ou não houver, sequer, indícios da participação do agente.
+5. Não se mostra cabível a aplicação de nenhuma das medidas cautelares previstas no art. 319 do Código de Processo Penal, diante da periculosidade e da gravidade da conduta atribuída ao paciente.
+No presente recurso, sustenta inicialmente a defesa a ocorrência de prescrição da pretensão punitiva.
+Esclarece que o paciente nasceu em 3/11/1978 e o fato sob apuraçãoé de 13/11/1998, contando ele 20 anos na data do crime, razão pela qual incide, no caso, a regra do art. 115 do CP, aplicando-se pela metade o prazo prescricional e o da suspensão do processo. Assim, recebida a denúncia em 19/4/1999, iniciou-se a contagem do prazo prescricional. Informa que a decisão de suspensão do processo foi proferida em novembro/1999.
+Dessa forma,a denúncia foi recebida em 19 de abril de 1999, sendo este o início do marco prescricional e em novembro de 1999 o prazo da prescrição foi suspenso, tendo voltado a correr apenas em novembro de 2009. Assim, contabilizando os 07 (setes) meses iniciais - de abril/1999 até novembro/1999 - e somando-se mais 09 anos e 05 meses, chegamos à conclusão que o presente caso está prescrito desde o dia 14 de abril de 2019, sendo cogente o reconhecimento da prescrição e a extinção da punibilidade do senhor PEDRO JORGE SOARES MEDEIROS (e-STJ, fl. 356).
+Em caso de entendimento diverso, salienta a falta de justa causa para a ação penal, posto que a acusação se baseia em testemunhos de "ouvi dizer", impondo-se o trancamento da ação penal.
+Acrescenta que a decisão de recebimento da denúncia não foi devidamente motivada, devendo ser reconhecida sua nulidade. Ademais, que há nulidade na citação por edital, pois não esgotados os meios disponíveis para a localização do réu.
+Por fim, pleiteia a revogação da prisão preventiva do paciente, destacando a possibilidade de aplicação de medidas cautelares diversas, na hipótese.
+Requer seja decretada a extinçãoda punibilidade, pelo reconhecimento da prescrição. Caso contrário, que seja o processo anulado desde a citação. Sucessivamente, seja revogada a prisão preventiva, com a expediçãode contramandado de prisão.
+Não houve pedido liminar. O Ministério Público Federal se manifestou pelo desprovimento do recurso (e-STJ, fls. 367/369).
+É o relatório. Decido.
+Em consulta ao sítio eletrônico do Tribunal de Justiça do Estado da Paraíba, verifica-se que foi proferida sentença absolutória nos autos da Ação Penal n. 0001330-38.1998.8.15.0251, em que figura como réu o ora paciente.Consta, ademais, que o trânsito em julgadose deu em 17/6/2022, como arquivamento definitivo do feito em 20/6/2022.
+Assim, absolvido o recorrente, fica prejudicado o exame das teses recursais.
+Ante o exposto, julgo prejudicadoo recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
