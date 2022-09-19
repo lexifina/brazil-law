@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de Recurso Especial interposto pelo INSS, com fundamento no art. 105, III, "a", da CF/1988, contra acórdão assim ementado:
+PREVIDENCIÁRIO. APELAÇÃO GENÉRICA. CONHECIMENTO PARCIAL. CERCEAMENTO DE DEFESA. INEXISTÊNCIA.APOSENTADORIA ESPECIAL. REAFIRMAÇÃO DA DER.POSSIBILIDADE. CONSECTÁRIOS. IMPLANTAÇÃO DO BENEFÍCIO.
+. Não se conhece do recurso da apelação do INSS quanto ao reconhecimento da atividade especial por não expressar as razões de fato e de direito que ensejaram a sua inconformidade com a decisão prolatada, sob pena de ofensa ao estatuído no art. 1010 do CPC/2015 (ou art. 514 do CPC/1973).
+. Inexiste cerceamento de defesa ensejador de anulação de sentença para produção de prova pericial quando a documentação constante nos autos é considerada suficiente para a apreciação do pedido.
+. Tem direito à aposentadoria especial o segurado que possui 25 anos de tempo de serviço especial e implementa os demais requisitos para a concessão do benefício.
+. A possibilidade da rea rmação da DER foi objeto do REsp 1.727.063/SP, REsp 1.727.064/SP e REsp 1.727.069/SP, representativos da controvérsia repetitiva descrita no Tema 995 - STJ, com julgamento em 22/10/2019, cuja tese  rmada foi no sentido de que é possível a rea rmação da DER (Data de Entrada do Requerimento) para o momento em que implementados os requisitos para a concessão do benefício, mesmo que isso se dê no interstício entre o ajuizamento da ação e a entrega da prestação jurisdicional nas instâncias ordinárias, nos termos dos arts. 493 e 933 do CPC/2015, observada a causa de pedir.
+. No presente caso, conforme o que foi decidido no IAC nº 5007975- 25.2013.4.04.7003, considerando o reconhecimento do direito ao benefício em momento posterior à citação, os juros moratórios são devidos a partir da DER reafirmada.. Correção monetária a contar do vencimento de cada prestação, calculada pelo INPC, para os benefícios previdenciários, a partir de 04/2006, conforme o art. 31 da Lei n.º 10.741/03, combinado com a Lei n.º 11.430/06, precedida da MP n.º 316, de 11/08/2006, que acrescentou o art. 41-A à Lei n.º 8.213/91, e pelo IPCA-E, para os benefícios assistenciais.
+Determinada a imediata implantação do benefício concedido.
+A parte recorrente alega:
+Reconhecido o direito ao benefício, o INSS foi condenado ao pagamento das parcelas vencidas desde a DER reafirmada, acrescido de honorários advocatícios sobre o valor da condenação, o que contraria a decisão do E. STJ no Tema 995.
+(..)
+No caso dos autos, a c. Turma julgadora, em que pese adotar a tese firmada pelo E. STJ para reconhecer a possibilidade de reafirmação da DER, não seguiu os parâmetros da Corte Superior no que se refere à condenação em honorários advocatícios, uma vez que condenou o INSS ao pagamento de honorários advocatícios sobre as parcelas vencidas, ainda que não tenha havido insurgência quanto à reafirmação da DER.
+Contrarrazões às fls. 743-748, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 1º.9.2022.
+Primeiramente, cumpre esclarecer que o Superior Tribunal de Justiça firmou entendimento no julgamento do Tema 995, sob o rito dos Recursos Repetitivos, de que "é possível a reafirmação da DER (Data de Entrada do Requerimento) para o momento em que implementados os requisitos para a concessão do benefício, mesmo que isso se dê no interstício entre o ajuizamento da ação e a entrega da prestação jurisdicional nas instâncias ordinárias, nos termos dos arts. 493 e 933, do CPC/2015, observada a causa de pedir".
+Vejamos:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. RECURSO ESPECIAL REPETITIVO. ENUNCIADO ADMINISTRATIVO 3/STJ. REAFIRMAÇÃO DA DER (DATA DE ENTRADA DO REQUERIMENTO). CABIMENTO. RECURSO ESPECIAL PROVIDO.
+1. O comando do artigo 493 do CPC/2015 autoriza a compreensão de que a autoridade judicial deve resolver a lide conforme o estado em que ela se encontra. Consiste em um dever do julgador considerar o fato superveniente que interfira na relação jurídica e que contenha um liame com a causa de pedir.
+2. O fato superveniente a ser considerado pelo julgador deve guardar pertinência com a causa de pedir e pedido constantes na petição inicial, não servindo de fundamento para alterar os limites da demanda fixados após a estabilização da relação jurídico-processual.
+3. A reafirmação da DER (data de entrada do requerimento administrativo), objeto do presente recurso, é um fenômeno típico do direito previdenciário e também do direito processual civil previdenciário. Ocorre quando se reconhece o benefício por fato superveniente ao requerimento, fixando-se a data de início do benefício para o momento do adimplemento dos requisitos legais do benefício previdenciário.
+4. Tese representativa da controvérsia fixada nos seguintes termos: É possível a reafirmação da DER (Data de Entrada do Requerimento) para o momento em que implementados os requisitos para a concessão do benefício, mesmo que isso se dê no interstício entre o ajuizamento da ação e a entrega da prestação jurisdicional nas instâncias ordinárias, nos termos dos arts. 493 e 933 do CPC/2015, observada a causa de pedir.
+5. No tocante aos honorários de advogado sucumbenciais, descabe sua fixação, quando o INSS reconhecer a procedência do pedido à luz do fato novo.
+6. Recurso especial conhecido e provido, para anular o acórdão proferido em embargos de declaração, determinando ao Tribunal a quo um novo julgamento do recurso, admitindo-se a reafirmação da DER. Julgamento submetido ao rito dos recursos especiais repetitivos.
+(REsp 1.727.063/SP, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, DJe 2/12/2019)
+No julgamento dos Embargos de Declaração no Recurso Especial Repetitivo 1.727.063/SP, a Primeira Seção estabeleceu:
+Quanto à mora, é sabido que a execução contra o INSS possui dois tipos de obrigações: a primeira consiste na implantação do benefício, a segunda, no pagamento de parcelas vencidas a serem liquidadas e quitadas pela via do precatório ou do RPV.
+No caso da reafirmação da DER, conforme delimitado no acórdão embargado, o direito é reconhecido no curso do processo, não havendo que se falar em parcelas vencidas anteriormente ao ajuizamento da ação.
+Por outro lado, no caso de o INSS não efetivar a implantação do benefício, primeira obrigação oriunda de sua condenação, no prazo razoável de até quarenta e cinco dias, surgirá, a partir daí, parcelas vencidas oriundas de sua mora. Nessa hipótese deve haver a fixação dos juros, a serem embutidos no requisitório.
+O Colegiado a quo reconheceu que a sucumbência do INSS não se limitava ao tema da reafirmação da DER, visto que a parte autora teve reconhecido o pedido de tempo de contribuição. Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, no que incide o óbice da Súmula 7 do STJ.
+Ante o exposto, não conheço do Recurso Especial.
+Caso existam nos autos honorários de advogado previamente fixados pelas instâncias de origem, determino sua majoração, em desfavor da parte recorrente, em 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se.
+Intimem-se.
