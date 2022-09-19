@@ -1,0 +1,33 @@
+DECISÃO
+Cuida-se de recurso em habeas corpus, com pedido de liminar, interposto por Carlos Wilson de Santana contra o acórdão do Tribunal de Justiça do Pernambuco, proferido no HC n. 0003241-31.2022.8.17.9000, resumido conforme esta ementa (fl. 155):
+CONSTITUCIONAL. PENAL. HABEAS CORPUS. TENTATIVA DE HOMICÍDIOS QUALIFICADOS. PRISÃO PREVENTIVA. SUPOSTA AUSÊNCIA DE REQUISISTOS AUTORIZADORES DA CUSTÓDIA PREVENTIVA . GRAVIDADE CONCRETA DO CRIME E PERICULOSIDADE DO AGENTE. FUNDAMENTAÇÃO IDÔNEA. MANUTENÇÃO DA CUSTÓDIA. ALEGAÇÃO DE CONSTRANGIMENTO ILEGAL. INOCORRÊNCIA. CONDIÇÕES PESSOAIS FAVORÁVEIS NÃO ENSEJAM, POR SI SÓ, A LIBERDADE PROVISÓRIA. EXCESSO DE PRAZO. INOCORRÊNCIA. PROCESSO BIFÁSICO. LIMITES DA DURAÇÃO DO PROCESSO RAZÓAVEL.
+1. Há de ser considerada a gravidade concreta do crime atribuído ao acusado, em especial devido ao modus operandi descrito na denúncia e a periculosidade social do denunciado, sendo a cautelar corporal necessária.
+2. A arguição de condições pessoais favoráveis não se mostra suficiente, por si só, para ensejar o provimento da liberdade provisória, conforme a Súmula 86, deste Tribunal.
+3. É cediço que o princípio da celeridade caminha ao lado do princípio da razoabilidade, isto é, nos limites da duração razoável dos atos processuais.
+O recorrente foi preso, em 28/8/2021, pela suposta prática dos delitos previstos no art. 121, § 2º, VI, c/c o art. 14, II, e art. 121, § 2º, c/co art. 14, II, todos do Código Penal (Ação Penal n. 0001434-41.2021.8.17.0001, em curso na 4ª Vara do Tribunal do Júri de Recife/PE).
+Nestes autos, sustenta a defesa que há divergência entre as versões do fato apresentadas pelo recorrente e pelas testemunhas. Aponta que houve, inclusive, excesso do poder da autoridade policial por não ter melhor apreciado os fatos, que claramente se enquadram na conduta de lesão corporal e não homicídio.
+Alega que o recorrente é primário, de bons antecedentes e, desde a prisão, não há histórico de mal comportamento na unidade prisional, onde já exerce trabalho interno.
+Argumenta que inexiste materialidade em relação ao delito ao qual foi denunciado. No ponto, menciona que o acusado foi gravemente ferido com instrumento cortocontudente, ou seja faca, tendo, inclusive, passado por cirurgia e incapaz por dias, enquanto as supostas vitimas teve  sic  apenas escoriações, hematomas e cortes, mas não perfurações, simples lesões resultantes da briga, cenário que teve muitos cacos de vidros (fl. 177).
+Defende que o decreto prisional carece de fundamentação adequada, bem como não estão presentes os requisitos autorizadores da prisão preventiva e que há excesso de prazo na conclusão da instrução processual, haja vista que a segregação cautelar perdura mais de 369 dias.
+Assevera, ainda, que há parecer do Ministério Público favorável à concessão de medidas cautelares diversas da prisão.
+Requer, liminarmente, a concessão de liberdade provisória mediante imposição de medidas cautelares diversas da prisão, com imediata expedição do alvará de soltura. No mérito, pede o provimento do recurso para que o writ seja concedido definitivamente.
+O pleito de urgência foi indeferido, no período de recesso, pela Presidência desta Casa (fls. 324/325).
+Dispensadas as informações, os autos seguiram ao Ministério Público Federal, que opinou pelo desprovimento do recurso (fls. 330/338).
+Na origem, a ação penal aguarda o término das oitivas das testemunhas de acusação.
+É o relatório.
+Conforme reiteradamente decido nesta Casa, a custódia preventiva somente se sustenta quando, presentes os requisitos constantes do art. 312 do Código de Processo Penal, se revelarem inadequadas ou insuficientes as medidas cautelares diversas da prisão.
+Na hipótese, o Juízo de primeiro grau impôs a custódia cautelar considerando a gravidade concreta da conduta, já que a motivação  do delito  teria sido, pelo fato supostamente, de que o denunciado teria visto a sua ex-companheira, a vítima Priscila, junto com o novo companheiro, a vítima Márcio. Ressalto, ainda, relatos da peça denuncial àf. 2, que o acusado CARLOS WILSON DE SANTANA, invadiu a casa da vítima P, "empenando" a grade e arrombando a porta da frente. Ato contínuo, o denunciado CARLOS deu um murro na ex-companheira e atacou, com travessas de vidro, a vítima Márcio. (fl. 102).
+A Corte estadual, diante desse cenário, concluiu que houve motivação apropriada para a determinação do encarceramento do recorrente (fl. 152):
+ ..
+Com efeito, o modus operandi do crime e a gravidade do delito em concreto diante do fato de que "o acusado tentou ceifar, em tese, a vida das vítimas por ciúmes, indica, em razão de um descontrole emocional do acusado em tentar cometer um homicídio qualificado por motivação tão banal, inevitavelmente, a periculosidade do agente, justificando a segregação cautelar para a garantia da ordem pública.
+ ..
+Vê-se, no caso, que a instância originária demonstrou a gravidade concreta da conduta, evidenciada pelo modus operandi, a revelar a necessidade de algum acautelamento da ordem pública.
+Todavia, não obstante a fundamentação idônea utilizada, entendo que não se mostram tais razões suficientes, em juízo de proporcionalidade, para embasar a cautela pessoal mais extremada.
+Com efeito, o agente é primário e não há indicativo de investidas criminosas anteriores por parte dele contra as vítimas, que, aliás, em decorrência dos fatos noticiados, apresentaram lesões corporais leves (fls. 84 e 86).
+Desse modo, dadas as circunstâncias do caso em análise, julgo adequado e suficiente, para atender às exigências cautelares do art. 282 do Código de Processo Penal, impor ao réu - sem prejuízo de mais acurada avaliação do Juízo monocrático - as medidas alternativas à custódia cautelar positivadas no art. 319, I, III, IV e V, do Código de Processo Penal.(HC n. 533.436/RS, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 2/12/2019).
+Diante da fundamentação acima, prejudicada a análise das demais teses trazidas na inicial do recurso.
+À vista do exposto, dou provimento ao recurso a fim de substituir a prisão preventiva do recorrente pelas seguintes medidas cautelares previstas no art. 319, I, III, IV e V, do Código de Processo Penal, sem prejuízo de outras medidas que o prudente arbítrio do Juízo natural da causa indicar cabíveis e adequadas, bem como de nova decretação da prisão preventiva,se efetivamente demonstrada sua concreta necessidade.
+Publique-se.
+EMENTA
+RECURSO EM HABEAS CORPUS. HOMICÍDIOS QUALIFICADOS TENTADOS. PRISÃO PREVENTIVA. REPROVABILIDADE DA CONDUTA PERPETRADA. EXISTÊNCIA. RÉU PRIMÁRIO.MEDIDAS CAUTELARES DIVERSAS. PROPORCIONALIDADE E ADEQUAÇÃO.
+Recurso provido nos termos do dispositivo.
