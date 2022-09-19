@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 13/09/2022 a 19/09/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Humberto Martins.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão que não conheceu do recurso especial fundado no art. 105, III,ae c, da Constituição Federal, que visa reformar acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina, com o seguinte resumo de ementa:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO RETIDO. AUSÊNCIA DE PREVISÃO NO CÓDIGO DE PROCESSO CIVIL DE 2015. INTERPOSIÇÃO NA VIGÊNCIA DO CPC/73. APLICAÇÃO DO REFERIDODIPLOMA LEGAL (ENUNCIADO ADMINISTRATIVO NR. 02, DO STJ). INEXISTÊNCIA DE REQUERIMENTO EXPRESSO NA APELAÇÃO. NÃOCONHECIMENTO (ART. 523, § 1º, DO CPC/73). PRELIMINAR DENULIDADE DA SENTENÇA. CERCEAMENTO DE DEFESA. NÃOOCORRÊNCIA. NOVA PROVA PERICIAL DESNECESSÁRIA. CONJUNTO PROBATÓRIO SUFICIENTE PARA A FORMAÇÃO EENTREGA DA PRESTAÇÃO JURISDICIONAL. AÇÃODEMOLITÓRIA. OBRA CONSTRUÍDA EM DESACORDO COM ALICENÇA MUNICIPAL E SEM OBSERVAR O RECUO MÍNIMO PREVISTONA LEGISLAÇÃO. AUTOS DE INFRAÇÃO LAVRADOS PELAMUNICIPALIDADE. PROVA PERICIAL QUE DESTACA AIRREGULARIDADE DA OBRA. REGULARIZAÇÃO PLEITEADA EM"AÇÃO DECLARATÓRIA MANDAMENTAL". IMPOSSIBILIDADE. DEMOLIÇÃO DETERMINADA. MANUTENÇÃO DA SENTENÇA. RECURSOS DESPROVIDOS.
+A decisão recorrida tem o seguinte dispositivo: Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso."
+No agravo interno, a parte recorrente traz, resumidamente, os seguintes argumentos:
+5. Não é preciso raciocinar muito, portanto, para entender que na data da interposição do recurso especial o preparo já tinha sido efetivamente recolhido, embora tenha se juntado o comprovante de agendamento do pagamento.
+6. A forma prescrita em lei (comprovação do pagamento na interposição do recurso) foi cumprida. Mas ainda que isso não seja reconhecido, a finalidade do ato foi alcançada, na medida em que o pagamento já tinha sido reconhecido pelo próprio sistema do e. TJSC.
+7. Ora, como já dito em oportunidades anteriores, foi juntado um comprovando de agendamento do pagamento pois o expediente bancário daquele dia já tinha se encerrado. Mera formalidade que não pode ser óbice para o conhecimento de um recurso que preenche todos os requisitos de admissibilidade.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. IMÓVEL PARTICULAR. DEMOLIÇÃO DE PAVIMENTO IRREGULAR. NÃO PERMITIDA A EDIFICAÇÃO COM MAIS DE DOIS PISOS. COMPROVANTE DO PREPARO. AUSÊNCIA. DESERÇÃO DO RECURSO ESPECIAL. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de ação ajuizada por município objetivando a demolição do terceiro pavimento de imóvel particular, sob a alegação de que seriam vedadas edificações com mais de dois pisosna regiãoem que está localizada a referida propriedade. Na sentença o pedido foi julgado procedente. No Tribunala quo, a sentença foi mantida.
+II - Compulsando os autos, verifica-se que foi colacionado aos autos apenas o comprovante de agendamento do preparo, não tendo sido juntado o comprovante do efetivo pagamento.
+III - Portanto, não se pode considerar efetuado o pagamento se o próprio documento "traz em si a advertência de que não representa a efetiva quitação da transação". (AgInt no AREsp 1.143.559/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 7/3/2018.)
+IV - Nos termos da Lei n. 11.636/2007, são devidas custas judiciais e porte de remessa e retorno dos autos nos processos de competência recursal do Superior Tribunal de Justiça. O parágrafo único do art. 10 da referida lei ordinária dispõe que nenhum recurso subirá ao Superior Tribunal de Justiça, excetuados os casos de isenção, sem a juntada aos autos do comprovante de recolhimento do preparo.
+V - Assim, mero comprovante de agendamento do preparo não serve para a comprovação da quitação da obrigação do recorrente, resultando na deserção do recurso especial. Nesse sentido, confiram-se os seguintes precedentes: AgInt no AREsp 1.623.099/SP, relator Ministro Marco Buzzi, Quarta Turma, DJe de 3/8/2020; AgInt no AREsp 1.534.909/PE, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 17/3/2020; e AgInt no AREsp 1.497.996/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 10/2/2020.
+VI - Ademais, percebeu-se, no STJ, haver irregularidade no recolhimento do preparo. A parte, embora regularmente intimada para sanar referido vício, não regularizou.
+VII - A petição trazida aos autos em razão do despacho oportunizando a regularização do feito não pode ser conhecida para os fins a que se destina, uma vez que protocolizada fora do prazo assinalado, ocorrendo a preclusão temporal da prática do ato.
+VIII - Dessa forma, o recurso especial não foi devida e oportunamente preparado, incidindo, na espécie, o disposto na Súmula n. 187 do STJ, o que leva à deserção do recurso.
+IX - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A parte agravante repisa os mesmos argumentos já analisados na decisão recorrida.
+Verifica-se que foi colacionado aos autos apenas o comprovante de agendamento do preparo, não tendo sido juntado o comprovante do efetivo pagamento.
+Portanto, não se pode considerar efetuado o pagamento se o próprio documento "traz em si a advertência de que não representa a efetiva quitação da transação". (AgInt no AREsp 1.143.559/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 7/3/2018.)
+Nos termos da Lei n. 11.636/2007, são devidas custas judiciais e porte de remessa e retorno dos autos nos processos de competência recursal do Superior Tribunal de Justiça. O parágrafo único do art. 10 da referida lei ordinária dispõe que nenhum recurso subirá ao Superior Tribunal de Justiça, excetuados os casos de isenção, sem a juntada aos autos do comprovante de recolhimento do preparo.
+Assim, mero comprovante de agendamento do preparo não serve para a comprovação da quitação da obrigação do recorrente, resultando na deserção do recurso especial. Nesse sentido, confiram-se os seguintes precedentes: AgInt no AREsp 1.623.099/SP, relator Ministro Marco Buzzi, Quarta Turma, DJe de 3/8/2020; AgInt no AREsp 1.534.909/PE, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 17/3/2020; e AgInt no AREsp 1.497.996/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 10/2/2020.
+Ademais, percebeu-se, no STJ, haver irregularidade no recolhimento do preparo. A parte, embora regularmente intimada para sanar referido vício, não regularizou.
+A petição trazida aos autos em razão do despacho possibilitando a regularização do feitonão pode ser conhecida para os fins a que se destina, uma vez que protocolizada fora do prazo assinalado, ocorrendo a preclusão temporal da prática do ato.
+Dessa forma, o recurso especial não foi devida e oportunamente preparado, incidindo, na espécie, o disposto na Súmula n. 187 do STJ, o que leva à deserção do recurso.
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
