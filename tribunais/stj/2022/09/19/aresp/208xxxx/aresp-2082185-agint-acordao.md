@@ -1,0 +1,27 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 13/09/2022 a 19/09/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+O SENHOR MINISTRO RAUL ARAÚJO (Relator):
+Trata-se de agravo interno interposto por MARIA DO CARMO CASTRO MARTINEZ contra decisão do em. Ministro Presidente do Superior Tribunal de Justiça, que não conheceu do agravo em recurso especial em razão da ausência de impugnação específica dos fundamentos da decisão primeva de admissibilidade exercida pela Corte de origem.
+Nas razões do agravo interno, a parte ora agravante alega que todos os fundamentos da decisão foram impugnados. Ao final, pleiteia o enfrentamento do recurso especial.
+O agravado apresentou impugnação do agravo interno (fls. 159-162).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. PRETENSÃO DE RATEIO PROPORCIONAL DOS ÔNUS SUCUMBENCIAIS DA FASE DE CONHECIMENTO. SENTENÇA NÃO DISTRIBUIU OU RATEOU OS ÔNUS DA SUCUMBÊNCIA ENTRE OS RÉUS. SOLIDARIEDADE ENTRE OS VENCIDOS. EXISTÊNCIA DE FUNDAMENTO AUTÔNOMO E SUFICIENTE À MANUTENÇÃO DO ACÓRDÃO RECORRIDO NÃO IMPUGNADO NO RECURSO ESPECIAL. INCIDÊNCIA DA SÚMULA 283/STF. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO E NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. A ausência de impugnação, nas razões do recurso especial, de fundamento central e suficiente para manter o acórdão recorrido atrai o óbice da Súmula 283 do STF, segundo a qual: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+2. Agravo interno provido para reconsiderar a decisão agravada e, em novo exame, conhecer do agravo para negar provimento ao recurso especial.
+VOTO
+O SENHOR MINISTRO RAUL ARAÚJO (Relator):
+Assiste razão à parte ora agravante quanto à impugnação dos fundamentos da decisão agravada. Com isso, reconsidera-se a decisão agravada de fls. 146-148, na parte em que não conheceu do recurso especial interposto pela recorrente, passando-se a novo exame do apelo.
+Trata-se de agravo manejado por MARIA DO CARMO CASTRO MARTINEZ contra decisão que não admitiu recurso especial, interposto com fundamento no art. 105, III, "a" e "c", da Constituição Federal, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"Agravo de instrumento. Cumprimento de sentença. Pretensão de rateio proporcional dos ônus sucumbenciais da fase de conhecimento. Sentença não distribuiu ou rateou os ônus da sucumbência entre os réus. Rateio que se postulou em apelo, mas apenas dos corréus, e cuja ilegitimidade foi reconhecida. Decisão mantida. Recurso desprovido." (fl. 42)
+Os embargos de declaração foram rejeitados (fls. 50-54).
+Nas razões do recurso especial, a parte ora agravante alega violação dos arts. 87 e 1.022, I, do Código de Processo Civil de 2015, bem como divergência jurisprudencial, sustentando, em síntese (a) a negativa de prestação jurisdicional; (b) a impossibilidade de a recorrente arcar integralmente com as despesas processuais e honorários advocatícios, sendo que estes devem ser rateados entre todos os requeridos da demanda.
+Apresentadas contrarrazões ao apelo nobre (fls. 84-97).
+Inicialmente, afasta-se a alegação de negativa de prestação jurisdicional, porque o Tribunal de origem enfrentou a matéria debatida, apenas decidindo em sentido contrário à pretensão da recorrente - v.g. EDcl no AgRg no AREsp 617.798/DF, Rel. Ministro Raul Araújo, Quarta Turma, julgado em 27/10/2015, DJe 25/11/2015; e AgRg no Ag 1.160.319/MG, Rel. Ministro Vasco Della Giustina (Desembargador convocado do TJ/RS), Terceira Turma, julgado em 26/4/2011, DJe 6/5/2011.
+O eg. Tribunal a quo consigna que "a sentença não distribuiu ou rateou os ônus da sucumbência entre os corréus. Tal rateio se postulou em apelo, mas apenas dos corréus, cuja ilegitimidade foi reconhecida. Confira-se o que a respeito constou do acórdão de embargos declaratórios opostos contra o julgamento da apelação: "De igual maneira, o pedido de rateio proporcional no pagamento da verba honorária em nenhum momento foi formulado pela embargante, mas pelos cedentes apelantes, cuja irresignação, como se viu, prosperava já na parte preliminar, portanto inexistindo omissão no tocante ao pleito sucessivo." Destarte, aplicável à espécie o parágrafo 2º do artigo 87 do CPC, que estabelece então a solidariedade, tal como reconhecida na decisão de fls. 132/134 da origem." (fl. 43, g.n.).
+Contudo, tal fundamento, autônomo e suficiente à manutenção do v. acórdão recorrido, ou seja, não foi realizado na sentença o rateio dos ônus sucumbenciais de modo que os vencidos responderão solidariamente pelas despesas e pelos honorários, não foi devidamente impugnado pela parte recorrente, convocando, na hipótese, a incidência da Súmula 283/STF, segundo a qual "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Diante do exposto, dou provimento ao agravo interno para reconsiderar a decisão de fls. 146-148 e, em nova análise, conhecer do agravo a fim de negar provimento ao recurso especial.
+É como voto.
