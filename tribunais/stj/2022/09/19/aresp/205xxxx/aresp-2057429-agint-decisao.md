@@ -1,0 +1,55 @@
+DECISÃO
+NOTRE DAME INTERMEDICA SAUDE S.A.interpõeagravo interno (fls. 244-247e-STJ) contra decisão proferida pela Presidência do Superior Tribunal de Justiça (fls. 239-241e-STJ) que não conheceu do agravo em recurso especial (fls. 221-231e-STJ) em virtude da não impugnação específica a fundamentoda decisão agravada (fls. 217-218e-STJ), mais especificamente o óbice da Súmula 83/STJ.
+Devidamente intimada, a parte contrária deixou tanscorrer o prazo para impugnar o recurso (certidão de fl. 251(e-STJ).
+DECIDO.
+Observa-se que a parte recorrente, na petição de agravo de fls. 221-231(e-STJ), impugnou suficientemente todos os fundamentos da decisão que deixou de admitir o seu recurso especial, razão pela qual se há de reconsiderar a decisão de fls. 239-241(e-STJ).
+Passa-se, pois, ao exame do recurso especial de fls. 191-201(e-STJ) fundamentado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal contra o acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+"APELAÇÃO. PLANO DE SAÚDE. OBRIGAÇÃO DA FAZER. Beneficiária de plano coletivo fornecido por sua ex empregadora. Permanência do autor em no plano por tempo determinado. Autor que foi diagnosticado com carcinoma de próstata (câncer de próstata) após a demissão. Pretensão à manutenção do plano de saúde, em razão de tratamento de doença grave. Possibilidade. Ausência dos requisitos previstos nos artigos 30 e 31 da Lei n. 9.656/98 que não impede a manutenção do plano. Autor que se encontra em tratamento de doença grave. Direito à vida e a saúde que se sobrepõe ao interesse econômico do plano. Beneficiário que deve ser mantido no plano até a alta médica para o tratamento oncológico, desde que assumido o pagamento integral das prestações devidas. Recurso desprovido"(fl. 182, e-STJ).
+A recorrente aponta além de dissídio jurisprudencial, violação doart. 30 da Lei nº 9.656/1998, alegando a possibilidade de rescisão do plano de saúde coletivo com o recorrido, ainda que esteja necessitando de tratamento médico para a moléstia que o acomete.
+Ressaltaque "o período de manutenção a que o recorrido tinha direito já havia se esgotado"(fl. 196, e-STJ). Assim, segundo afirma, não há falar em irregulridade no limite temporal estipulado para o término do contrato.
+Com as contrarrazões e inadmitido o recurso na origem, sobreveio o presente agravo, no qual se busca o processamento do apelo nobre.
+É o relatório.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo presente recurso especial foi publicado em data anterior à publicação da Emenda Constitucional nº 125, não se aplicando ao caso o requisito de admissibilidade por ela inaugurado, ou seja, a demonstração da relevância da questão de direito federal infraconstitucional.
+A irresignação não merece prosperar.
+Cumpre assinalar que, ajurisprudência do Superior Tribunal de Justiça preleconaque oscontratos de planos privados de assistência à saúde coletivos podem serrescindidos imotivadamente após a vigência do período de 12 (doze) meses emediante prévia notificação da outra parte com antecedência mínima de 60(sessenta) dias (art. 17, parágrafo único, da RN nº 195/2009 da ANS). Sendo que avedação de suspensão e de rescisão unilateral prevista no art. 13,parágrafo único, II, da Lei nº 9.656/1998 aplica-se somente aos contratosindividuais ou familiares.
+Entretanto, em acórdão da Terceira Turma, REsp nº 1.762.230/SP, Rel.Ministra NANCY ANDRIGHI, julgado em 12/2/2019, entendeu-se não serpossível colocar o beneficiário de plano de saúde coletivo em completodesamparo, numa relação contratual constituída desde o princípio para asegurança da vida e da saúde do contratante.
+Ressaltou-seavalidade da cláusula resolutória, desde que a rescisão sejadecorrente de motivação idônea.
+A propósito:
+"RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. SAÚDE SUPLEMENTAR.RESCISÃOUNILATERAL E IMOTIVADA DE PLANO DE SAÚDE COLETIVO.RESOLUÇÃO NORMATIVA DAANS. CONTROLE DE LEGALIDADE PELO STJ.MOTIVAÇÃO IDÔNEA. NECESSIDADE.TRATAMENTO DE CÂNCER. INTERRUPÇÃO.BOA-FÉ. CONTROLE JUDICIAL. HONORÁRIOSADVOCATÍCIOS RECURSAIS.MAJORAÇÃO.
+1. Ação ajuizada em 29/09/15. Recurso especial interposto em 24/11/16 e
+concluso ao gabinete em 06/11/17.
+2. O propósito recursal é definir se é válida, em qualquer circunstância,rescisão unilateral imotivada de plano de saúde coletivo por parte daoperadora de plano de saúde.
+3. A ANS estabeleceu por meio de Resolução Normativa que os contratoscoletivos por adesão ou empresarial "somente poderão ser rescindidosimotivadamente após a vigência do período de doze meses e mediante prévianotificação da outra parte com antecedência mínima de sessenta dias" (art.17, parágrafo único, da RN/ANS 195/09).
+4. Não se pode admitir que a rescisão do contrato de saúde - cujo objeto,frise-se, não é mera mercadoria, mas bem fundamental associado à dignidadeda pessoa humana - por postura exclusiva da operadora venha a interrompertratamento de doenças e ceifar o pleno restabelecimento da saúde dobeneficiário enfermo.
+5. Deve ser mantida a validade da cláusula contratual que permite arescisão unilateral do contrato de plano de saúde coletivo, desde que haja
+motivação idônea.
+6. No particular, a beneficiária estava em pleno tratamento de tumorcerebral e foi surpreendida com a rescisão unilateral e imotivada do planode saúde. Considerando as informações concretamente registradas peloacórdão recorrido, mantém-se o vínculo contratual entre as partes, pois
+inexistente motivação idônea para a rescisão do plano de saúde.
+7. Recurso especial conhecido e não provido, com majoração de honorários"
+(REsp 1.762.230/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgadoem 12/2/2019, DJe 15/2/2019).
+Assim, tratando-se de contrato de plano de saúde, bem fundamentalassociado à dignidade da pessoa humana, torna-se necessária a análise dascircunstâncias fáticas, com o fim de constatar se há motivação idônea ajustificar a rescisão unilateral, com afinalidade de evitar condutas abusivas, bem como preservar a saúde e avida do beneficiário.
+No presente caso, o Tribunal de origem entendeu o seguinte:
+"(..)embora o termo final do contrato de plano de saúde tenha sido previsto para 05/03/2020, conforme entendimento consolidado do Egrégio Superior Tribunal de Justiça, tem-se que, no caso em concreto, tal direito há de ser relativizado, principalmente porque o autor é portadora de doença grave (câncer de próstata) além de estar em acompanhamento de outras comorbidades, cuja interrupção pode levar à grave comprometimento de sua saúde (fls. 31/53).
+Anote-se, ademais, que no eventual conflito entre o interesse da agravante, de caráter exclusivamente econômico, e o do agravado, de ver garantidas a saúde e a vida, deve prevalecer esse segundo, principalmente considerando que o autor arcará integralmente com o pagamento da mensalidade.
+(..)
+Assim, a manutenção da autora no plano de saúde em questão, ao menos até o término do tratamento oncológico, é de rigor" (fls. 184-87, e-STJ - grifou-se).
+Nesse contexto, aalteração do entendimento da Corte de origem para afirmar que há motivação idônea parajustificar a rescisão do plano de saúde demandaria o reexame de material fático-probatório,providência inviável no recurso especial (Súmula nº 7/STJ)
+Não bastasse isso, é firme a orientação do STJno sentido de que a resilição unilateral do acordo, em se tratando de contrato coletivo de plano de saúde, não é manto protetor às práticas abusivas e ilegais como o cancelamento pleiteado no momento em que o segurado está em pleno tratamento.
+Nesse sentido, são os seguintes julgados:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO COMINATÓRIA. PLANO DE SAÚDE COLETIVO. FUNDAMENTOS DO ACÓRDÃO RECORRIDO NÃO ATACADOS. SÚMULA 283/STF. RESCISÃO UNILATERAL. BENEFICIÁRIO EM TRATAMENTO MÉDICO. IMPOSSIBILIDADE. PRECEDENTES. DECISÃO MANTIDA. RECURSO DESPROVIDO.
+(..)
+2. Não obstante o plano de saúde coletivo possa ser rescindido unilateralmente, mediante prévia notificação do usuário, esta Corte reconhece ser abusiva a rescisão do contrato durante o tratamento médico garantidor da sobrevivência e/ou incolumidade física, como no caso em apreço, no qual a segurada diagnosticada com câncer se encontra em tratamento oncológico.
+3. Agravo interno não provido"(AgInt no AREsp 1.298.878/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, DJe 31/10/2018).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA CUMULADA COM OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE COLETIVO. RESCISÃO UNILATERAL. BENEFICIÁRIO EM TRATAMENTO MÉDICO. IMPOSSIBILIDADE. PRECEDENTES. DECISÃO MANTIDA. RECURSO DESPROVIDO.
+1. Não obstante o plano de saúde coletivo possa ser rescindido unilateralmente, mediante prévia notificação do usuário, esta Corte reconhece ser abusiva a rescisão do contrato durante o tratamento médico garantidor da sobrevivência. Nesse sentido: AgInt no AREsp 1.085.841/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 20/03/2018, DJe de 04/04/2018; AgInt no AREsp 1.072.700/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 27/06/2017, DJe de 1º/08/2017; AgRg no AREsp 624.420/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 24/03/2015, DJe de 07/04/2015).
+2. Agravo interno não provido"(AgInt no AREsp 1.274.617/RS, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, DJe 24/08/2018).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZATÓRIA. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. OMISSÃO E DEFICIÊNCIA NA FUNDAMENTAÇÃO. NÃO OCORRÊNCIA. 2. APLICAÇÃO DO DISPOSTO NO ART. 3º DA RESOLUÇÃO CONSU N. 19/1999. FUNDAMENTO DO ACÓRDÃO RECORRIDO NÃO IMPUGNADO NAS RAZÕES DO APELO NOBRE. INCIDÊNCIA DA SÚMULA 283/STF, POR ANALOGIA. 3. RESILIÇÃO UNILATERAL DO CONTRATO DE PLANO DE SAÚDE DURANTE O PERÍODO EM QUE A PARTE SEGURADA ESTÁ SUBMETIDA A TRATAMENTO MÉDICO DE URGÊNCIA OU DE EMERGÊNCIA. CONDUTA ABUSIVA. DANOS MORAIS CONFIGURADOS. SÚMULA 83/STJ. 4. AGRAVO INTERNO DESPROVIDO.
+(..)
+3. A jurisprudência desta Corte considera abusiva a rescisão contratual de plano de saúde, por parte da operadora, independentemente do regime de contratação (individual ou coletivo), durante o período em que a parte segurada esteja submetida a tratamento médico de emergência ou de urgência garantidor da sua sobrevivência e/ou incolumidade física, em observância ao que estabelece o art. 35-C da Lei n. 9.656/1998. Súmula 83/STJ.
+4. Agravo interno desprovido"(AgInt no AREsp 1.226.181/DF, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe 01/06/2018).
+Logo, não merece reforma o acórdão recorrido, incidindo, na espécie, o enunciado da Súmula nº 568/STJ.
+Ante o exposto, reconsidero a decisão de fls.239-241 e-STJ para, em novo exame, conhecer do agravo e negar provimento ao recurso especial.
+Em observância ao art. 85, § 11, do Código de Processo Civil de 2015, deixo de majorar os honorários advocatícios, haja vista que, na origem, já foram estipulados no patamar máximo (20% sobre valor atualizado da causa).
+Publique-se.
+Intimem-se.
