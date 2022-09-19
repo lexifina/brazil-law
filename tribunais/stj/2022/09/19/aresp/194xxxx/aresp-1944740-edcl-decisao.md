@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de embargos de declaração opostos contra decisão, assim ementada (fl. 1.299):
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL.INTERPOSIÇÃO EM DUPLICIDADE DE RESURSO ESPECIAL.INADMISSIBILIDADE. UNIRRECORRIBILIDADE E PRECLUSÃO CONSUMATIVA. AGRAVO NÃO CONHECIDO.
+O embargante, aduzindo a ocorrência de erro material, nos seguintes termos (fls. 1.311/1.312):
+No caso concreto, a primeira decisão (fl. 1.300) não conheceu do recurso especial constante às fls. 1.110/1.124 por ser o segundo apelo especial interposto contra a mesma decisão.
+Porém, à fl. 1.110 o MINISTÉRIO PÚBLICO FEDERAL apresentou petição informando que "por motivo de erro, a petição de recurso especial apresentada no dia 12 de março de 2018 foi protocolada de forma equivocada, tratando de questões afetas a outro processo" motivo pelo qual "junta-se, ainda dentro do prazo recursal, a correta petição de interposição e razões do recurso especial, requerendo a desconsideração da peça anterior".
+Portanto, a retificação de interposição do apelo especial, ainda dentro do prazo recursal, postulando a desconsideração da petição anterior, não induz à violação do princípio da unirrecorribilidade, tampouco atrai a incidência da preclusão consumativa.
+Assim, o não conhecimento do "segundo" recurso especial constitui erro material sanável pela via dos aclaratórios.
+Ademais, deve ser destacado que o erro material da primeira decisão acaba por contaminar os fundamentos da decisão subsequente. Isso se dá porque o agravo analisado na segunda decisão (fls. 1.301/1.302) se refere à decisão que inadmitiu o segundo recurso especial, apresentado, repita-se,após constatação de interposição equivocada e da devida retificação junto ao Tribunal a quo.
+Assim, não há, nem poderia existir, juízo de valor da Corte de origem sobre os dispositivos ali mencionados (e a tese a ele vinculada), pois, repise-se, o primeiro recurso, referindo-se à matéria atinente a outro processo, foi juntado por equívoco aos presentes autos.
+Com impugnação.
+É o relatório. Passo a decidir.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Convém salientar que a contradição que autoriza o manejo dos embargos de declaração é a contradição interna, verificada entre os elementos que compõem a estrutura da decisão judicial, e não entre a solução alcançada e a solução que almejava o jurisdicionado. A propósito: AgInt no REsp 1.348.521/RS, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 23/9/2016; EDcl no REsp 1.537.597/MA, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 14/3/2016; EDcl nos EDcl no AgRg no REsp 1.319.666/MG, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 26/2/2016.
+Na espécie, a embargante não demonstra a existência, no decisum embargado, de proposições inconciliáveis entre si, a fim de caracterizar a ocorrência de contradição no julgado.
+De outro lado, insta consignar que não se há de confundir omissão com decisão contrária aos interesses da parte. Nesse sentido: EDcl no REsp 1.235.228/SE, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Seção, DJe 25/4/2016; AgRg no REsp 1.295.081/PE, Rel. Ministro Og Fernandes, Segunda Turma, DJe 6/8/2015; AgRg no REsp 1.496.358/SC, Rel. Ministro Humberto Martins, Segunda Turma, DJe 19/5/2015; AgRg no Ag 974.033/SP, Rel. Ministra Denise Arruda, Primeira Turma, DJe 18/9/2008.
+Reitera-se queo segundo recurso interposto (fls. 1.110/1.124) não pode ser conhecido, em observância do princípio da unirrecorribilidade e em razão da preclusão consumativa (v.g.: AgInt no AREsp 872.839/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 24/04/2018, DJe 29/05/2018).
+Vê-se, portanto, que a matéria objeto da controvérsia encontra-se devidamente fundamentada e motivada, de modo que a pretensão doembargante evidencia mero inconformismo, na medida em que, sob a pecha de erro material, objetiva o reexame dos seus argumentos, com o intuito claro de atribuir efeito infringente à decisão, hipótese a que não se destina o recurso integrativo.
+Assim, inexistentes as hipóteses do artigo 1.022 do Código de Processo Civil/2015, os embargos de declaração não merecem acolhimento.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS. EMBARGOS DE DECLARAÇÃO REJEITADOS.
