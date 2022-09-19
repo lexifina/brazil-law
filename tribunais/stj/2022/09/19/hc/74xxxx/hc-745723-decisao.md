@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de EVERTON ALEXANDRE BRANCO SANTI apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL (HC n. 1405094- 65.2022.8.12.0000).
+Depreende-se dos autos que o paciente encontra-se preso preventivamente pela prática, em tese, do crime de tráfico de drogas, pois transportava "416kg (quatrocentos e dezesseis quilogramas) de "maconha"e 2,500kg (dois quilos e quinhentos gramas) de "skunk", totalizando aproximadamente 420kg (quatrocentos e vinte quilogramas) de estupefacientes" (e-STJ fl. 29, grifei).
+Impetrado prévio habeas corpus na origem, a ordem foi denegada nos termos da seguinte ementa (e-STJ fl. 26):
+HABEAS CORPUS - PRISÃO PREVENTIVA - TRÁFICO ILÍCITO DE ENTORPECENTES - GRAVIDADE CONCRETA DA CONDUTA DELITUOSA - NECESSIDADE DA CUSTÓDIA COMO GARANTIA DA ORDEM PÚBLICA - PRETENSÃO SUBSIDIÁRIA DE SUBSTITUIÇÃO DA CUSTÓDIA PREVENTIVA POR UMA DAS MEDIDAS CAUTELARES PREVISTAS NO ART. 319 DO CÓDIGO DE PROCESSO PENAL - IMPOSSIBILIDADE - ORDEM DENEGADA. A gravidade da conduta criminosa, consubstanciada no suposto transporte de grande quantidade de drogas, tendo com destino final Estado diverso da Federação, revela a necessidade da custódia do paciente como garantia da ordem pública. Se porventura as circunstâncias dos autos demonstrarem que providências menos gravosas seriam insuficientes para a manutenção da ordem pública, mostra-se descabida a pretensão de modificação de prisão preventiva por alguma das medidas estabelecidas no art. 319 do Código de Processo Penal, sendo medida de rigor a permanência da custódia provisória.
+Daí o presente writ, no qual alega a defesa que a decisão que decretou a prisão preventiva do paciente carece de fundamentação idônea. Acrescentando ser desnecessária a custódia cautelar, já que se revelariam adequadas e suficientes medidas diversas da prisão.
+Requer ao final (e-STJ fl. 25):
+1. A concessão da liminar para colocar o paciente em liberdade, tendo em vista a inexistência dos fundamentos da preventiva, bem como ilegalidade desta. Por cautela, caso o Excelentíssimo Relator assim entenda, requer a concessão da liminar com medidas cautelares.
+2. Ao final do mérito do presente writ a revogação da prisão preventiva decretada, com a concessão da liberdade provisória incondicionada, comprometendo-se, desde já, a responder ao processo em seus ulteriores termos, comparecendo em todas as audiências e interrogatórios designados, e como consequência, seja devidamente expedido ofício ao Presídio Estadual de Regime Fechado da Gameleira I acerca da revogação da prisão preventiva, para que o réu possa livremente exercer o seu direito constitucional de liberdade.
+4. Cautelarmente aos demais pedidos, requer a conversão da prisão preventiva em prisão domiciliar;
+Liminar indeferida às e-STJ fls. 63/65.
+Prestadas as informações, o Ministério Público Federal opinou pela concessãoda ordem (e-STJ fls. 94/100).
+É o relatório.
+Decido.
+O objeto deste writestá esvaziado, tendo em vista que a legalidade da prisão cautelar do paciente já foi analisada por este relator nos autos do RHC n. 166.590/MS, também interposto em favor do ora paciente e contra o mesmo acórdão proferido pelo Tribunal de Justiça do Estado de Mato Grosso do Sul(HC n. 1405094- 65.2022.8.12.0000).
+Ante o exposto, com base no art. 34, inciso XX, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente habeas corpus.
+Publique-se. Intimem-se.
