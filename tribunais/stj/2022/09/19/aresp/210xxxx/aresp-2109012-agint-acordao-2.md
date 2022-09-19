@@ -1,0 +1,87 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 13/09/2022 a 19/09/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+RM IMÓVEIS LTDA. (RM IMÓVEIS) promoveu ação indenizatória contra OCTANE MOTORS LTDA. (OCTANE MOTORS) e ESPÓLIO DE FÁBIO AGUIAR FASANO MEIRELES (ESPÓLIO), narrando que adquiriu um automóvel que, em pouco tempo, apresentou defeitos, qualificados como vícios ocultos. Alegou haver responsabilidade de OCTANE MOTORS e do ESPÓLIO.Requereu, assim, a procedência do pedido.
+Em primeira instância, o pedido foi julgado parcialmente procedente no tocante a OCTANE MOTORS, mas improcedente quanto ao ESPÓLIO. Na ocasião, OCTANE MOTORS foi condenada ao pagamento das quantias de R$ 3.300,00 (três mil e trezentos reais) e R$ 191.549,00 (cento e noventa e um mil, quinhentos e quarenta e nove reais), atualizadas e acrescidas de juros de mora.
+Por força da sucumbência parcial, decorrente da improcedência do pedido quanto ao ESPÓLIO, RM IMÓVEIS foi condenada ao pagamento de 30% das custas, das despesas processuais e dos honorários advocatícios devidos em favor do primeiro.
+Outrossim, OCTANE MOTORS foi condenada ao pagamento de 70% das custas, das despesas processuais e dos honorários advocatícios em favor de RM IMÓVEIS.
+Na oportunidade, os honorários advocatícios foram fixados em 20% sobre o valor atualizado da condenação, com determinação de divisão entre os beneficiários de acordo com o grau de sucumbência.
+As apelações interpostas por RM IMÓVEIS e por OCTANE MOTORS não foram providas pelo Tribunal de Justiça do Paraná, nos termos do acórdão assimementado:
+APELAÇÕES CÍVEIS - INDENIZAÇÃO - DANOS MATERIAIS - COMPRA E VENDA DE VEÍCULO COM VÍCIO OCULTO - PRELIMINARES -CERCEAMENTO DE DEFESA - EXPEDIÇÃO DE OFÍCIOS - PRECLUSÃO (ART. 507 DO CPC) - DESNECESSIDADE DA PROVA PARA O DESLINDE DO FEITO (ART. 370, PARÁGRAFO ÚNICO, DO CPC) - JULGAMENTO "EXTRAPETITA" - ALIENAÇÃO DO AUTOMÓVEL DURANTE O TRÂMITE - CAUSA DE PEDIR E PEDIDOS NÃO ALTERADOS - PERDA SUPERVENIENTE DO OBJETO E VIOLAÇÃO AO ART. 435 DO CPC - NÃO OCORRÊNCIA - MÉRITO - APLICAÇÃO DO CÓDIGO DE DEFESA DO CONSUMIDOR EM RELAÇÃO À VENDEDORA - INVERSÃO DO ÔNUS DA PROVA -COMPROVAÇÃO DA INEXISTÊNCIA DE VÍCIO OCULTO NO MOMENTO DA VENDA QUE CABIA À VENDEDORA - PERÍCIA INCONCLUSIVA - FATOS ALEGADOS PELOS AUTORES NÃO DESCONSTITUÍDOS - DANOS MATERIAIS DEMONSTRADOS - RESPONSABILIDADE SOLIDÁRIA ENTRE A VENDEDORA E O ANTIGO PROPRIETÁRIO DO VEÍCULO - INEXISTÊNCIA - ÔNUS SUCUMBENCIAL DISTRIBUÍDO ADEQUADAMENTE - SENTENÇA MANTIDA.
+RECURSO DE APELAÇÃO DA RÉ (OCTANE MOTORS LTDA) NÃO PROVIDO.
+RECURSO DE APELAÇÃO DA AUTORA ( NÃORM IMÓVEIS LTDA.) PROVIDO(e-STJ, fl. 849).
+Os embargos de declaração opostos por RM IMÓVEIS e por OCTANE MOTORS foram rejeitados.
+Inconformada, RM IMÓVEIS manejourecurso especial, com amparo no art. 105, III,c,da CF, alegando violação doart. 932, III, do CC/2002. Sustentou haver responsabilidade solidária do ESPÓLIO, antigo proprietário do veículo defeituoso, considerando haver venda em consignação.
+O apelo nobre não foi admitido em virtude da (1) incidência da Súmula nº 282do STF; e(2) não comprovação da divergência jurisprudencial.
+Seguiu-se o agravo em recurso especial interposto por RM IMÓVEISque, em decisão monocrática de minha relatoria, foi conhecido para não conhecer do apelo nobre, conforme o teor da seguinte ementa:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL.RECURSO INTERPOSTO NA VIGÊNCIA DO NCPC.AÇÃO INDENIZATÓRIA. RESPONSABILIDADENÃO CONFIGURADA. PRETENSÃO RECURSAL QUE ENVOLVE O REEXAME DE PROVAS. INVIABILIDADE. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA NOS MOLDES LEGAIS. AGRAVO CONHECIDO. RECURSO ESPECIALNÃO CONHECIDO (e-STJ, fl. 1.171 - destaque no original).
+Nas razões do presente agravo interno, RM IMÓVEISalegou que(1)ocorreu infringência do art. 932, III, do CC/2002, tendo sido apontada divergência jurisprudencial; (2) deve ser reconhecida a responsabilidade solidária do antigo proprietário do veículo, ou seja, do ESPÓLIO, em decorrência da existência do vício oculto; (3) o empregador ou comitente é responsável por seus empregados, serviçais e prepostos no exercício do trabalho que lhes competir; e(4) não existe necessidade do reexame do conjunto probatório.
+Houve impugnação ao recurso (e-STJ, fls. 1.254/1.258).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.RECURSO MANEJADO SOB A ÉGIDE DO NCPC.AÇÃO INDENIZATÓRIA. RESPONSABILIDADE NÃO CONFIGURADA. PRETENSÃO RECURSAL QUE ENVOLVE O REEXAME DE PROVAS. INVIABILIDADE. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO NOS MOLDES LEGAIS.AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2.A alteração das conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula nº 7 do STJ.
+3.A jurisprudência do STJ firmou o posicionamento de que não é possível o conhecimento do apelo nobre interposto pela divergência, na hipótese em que o dissídio é apoiado em fatos, e não na interpretação da lei. Isso porque a Súmula nº 7 do STJ também se aplica aos recursos especiais interpostos pela alíneacdo permissivo constitucional.
+4.Agravo interno não provido.
+VOTO
+O recurso não merece provimento.
+De plano, vale pontuar que o presente agravo interno foi interposto contra decisão publicada na vigência do novo Código de Processo Civil, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ, na sessão de 9/3/2016:Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+O inconformismo agora manejado não merece provimento por não ter trazido nenhum elemento apto a infirmar as conclusões externadas na decisão recorrida.
+RM IMÓVEIS insurgiu-se contra o aresto recorrido, alegandoofensa ao art. 932, III, do CC/2002. Sustentouhaver responsabilidade solidária do ESPÓLIO, antigo proprietário do veículo defeituoso, considerando haver venda em consignação.
+Quanto ao ponto, o Tribunal estadual, soberano na análise do contexto fático-probatório, levou em consideração, no caso concreto, as seguintes particularidades:
+Não obstante, considerando que em relação ao antigo proprietário do veículo (Fábio Aguiar Fasano Meireles)não foi reconhecida a incidência do Código de Defesa do Consumidor e, por esse motivo, não foi invertido o ônus probatório, não há como imputar a ele qualquer responsabilidade, pois não há prova cabal sobre o momento em que os vícios teriam surgido, o que, nesse ponto, caberia à autora (e-STJ, fl. 856 - sem destaque no original).
+Ficou consignada, dessa forma, a ausência de responsabilidade do ESPÓLIO.
+Em vista disso, conforme se nota, o TJPRassim decidiu com amparo no contexto fático-probatório da causa, de modo que a revisão do julgado, com o consequente acolhimento da pretensão recursal, demandaria, necessariamente, o reexame das provas, o que não se admite no âmbito do recurso especial, ante o óbice da Súmula nº 7 do STJ.
+A propósito, confiram-se os precedentes:
+CIVIL E PROCESSUAL CIVIL. RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. REVISÃO. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. VALOR DA INDENIZAÇÃO. PEDIDO. CONDENAÇÃO. QUANTUM DEBEATUR INFERIOR AO PEDIDO. SUCUMBÊNCIA RECÍPROCA. NÃO OCORRÊNCIA. SÚMULA N. 326/STJ. SUBSISTÊNCIA NO CPC/2015. RECURSO DESPROVIDO.
+1. Não se conhece do recurso especial quando o exame das teses jurídicas nele deduzidas exige o revolvimento do acervo fático-probatório dos autos. Incidência da Súmula n. 7/STJ.
+1.1. No caso concreto, para alterar a conclusão das instâncias ordinárias sobre o preenchimento dos pressupostos para se atribuir responsabilidade civil à recorrente é necessária incursão sobre elementos de fato e de provas, o que é vedado na instância excepcional.
+2. Segundo o enunciado n. 326 da Súmula de Jurisprudência do STJ, " n a ação de indenização por dano moral, a condenação em montante inferior ao postulado na inicial não implica sucumbência recíproca", orientação que não conflita com o art. 292, V, do CPC/2015, subsistindo na vigência da atual lei processual civil.
+2.1. Na espécie, os recorridos ajuizaram demanda reparatória contra a recorrente, pleiteando indenização por danos morais e à imagem no importe de R$ 2 milhões, com julgamento de procedência dos pedidos, arbitrando-se indenização no valor total equivalente a R$ 50 mil.
+2.2. Em que pese a discrepância entre o valor indicado no pedido e o quantum arbitrado na condenação, não há falar em sucumbência dos autores da demanda, vencedores em seu pedido indenizatório. Incide a orientação que emana da Súmula n. 326/STJ.
+3. O valor sugerido pela parte autora para a indenização por danos morais traduz mero indicativo referencial, apenas servindo para que o julgador pondere a informação como mais um elemento para a árdua tarefa de arbitrar o valor da condenação.
+4. Na perspectiva da sucumbência, o acolhimento do pedido inicial - este entendido como sendo a pretensão reparatória stricto sensu, e não o valor indicado como referência -, com o reconhecimento do dever de indenizar, é o bastante para que ao réu seja atribuída a responsabilidade pelo pagamento das despesas processuais e honorários advocatícios, decerto que vencido na demanda, portanto sucumbente.
+5. Recurso especial a que se nega provimento.
+(REsp n. 1.837.386/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 16/8/2022, DJe de 23/8/2022)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO DE DANOS MATERIAIS E MORAIS. AQUISIÇÃO DE FERTILIZANTES. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA. CERCEAMENTO DE DEF ESA. DEFINIÇÃO DOS DANOS EM LIQUIDAÇÃO DE SENTENÇA. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO VIOLADO. PRESENÇA DOS PRESSUPOSTOS DA RESPONSABILIDADE CIVIL. SÚMULA 7/STJ.
+1. É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese, soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte. Precedentes.
+2. A ausência de indicação do dispositivo violado impede o conhecimento do recurso especial (Súmula 284/STF).
+3. Para alterar a conclusão lançada no acórdão estadual, no sentido de que o recorrido se desincumbiu de seu ônus de comprovar a presença dos requisitos da responsabilidade civil, inclusive os prejuízos financeiros, seria necessário o reexame do acervo fático-probatório, o que não é admitido em sede de recurso especial (Súmula 7/STJ).
+4. Agravo interno não provido.
+(AgInt no REsp n. 1.991.697/MG, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 8/8/2022, DJe de 10/8/2022)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. PROCESSO CIVIL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. CONSTRUÇÃO DE USINA HIDROELÉTRICA. AUSÊNCIA DE VIOLAÇÃO DO ART. 489 DO CPC/2015. NEXO DE CAUSALIDADE. VALOR DA CONDENAÇÃO. REEXAME. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO INTERNO DESPROVIDO.
+1. Não ficou configurada a violação do art. 489 do CPC/2015, uma vez que o Tribunal de origem se manifestou de forma fundamentada sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. Reverter a conclusão do Colegiado originário, para acolher a pretensão recursal, demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra impossível ante a natureza excepcional da via eleita, consoante enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+3. A incidência da Súmula n. 7/STJ impede o conhecimento do recurso lastreado, também, pela alínea c do permissivo constitucional, dado que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão recorrido, tendo em vista a situação fática de cada caso.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.055.685/RO, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 30/5/2022, DJe de 2/6/2022)
+AGRAVO INTERNO. RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. VEÍCULO AUTOMOTOR. DEFEITO. LAUDO PERICIAL. AUSÊNCIA DE NEXO CAUSAL. DANOS MORAIS. NÃO OCORRÊNCIA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. DECISÃO MANTIDA. RECURSO NÃO PROVIDO.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória. Súmula 7 do STJ.
+2. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.936.586/TO, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 28/3/2022, DJe de 4/4/2022)
+Ademais, quanto ao dissenso interpretativo invocado, cumpre ressaltar que não é possível o conhecimento do recurso especial interposto pela divergência jurisprudencial, na hipótese em que o dissídio é apoiado em fatos, e não na interpretação da lei. Isso porque a Súmula nº 7 do STJ também seaplica aos recursos especiais interpostos pela alíneacdo permissivo constitucional.
+Confiram-se os seguintes julgados:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REPETIÇÃO DE INDÉBITO CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. CUMPRIMENTO DE SENTENÇA. FALTA DE PREQUESTIONAMENTO. SÚMULA Nº 282/STF. MULTA.
+LITIGÂNCIA DE MÁ-FÉ. INTIMAÇÃO. NULIDADE. REEXAME DE PROVAS. SÚMULA Nº 7/STJ. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA Nº 284/STF.
+DIVERGÊNCIA NÃO DEMONSTRADA. AUSÊNCIA DE SIMILITUDE FÁTICA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Inexistente o prequestionamento, até mesmo de modo implícito, dos dispositivos apontados como violados no recurso especial, incide, por analogia, o disposto na Súmula nº 282 do Supremo Tribunal Federal.
+3. Rever questão decidida com base no exame das circunstâncias fáticas da causa esbarra no óbice da Súmula nº 7 do Superior Tribunal de Justiça.
+4. A deficiência na fundamentação recursal se evidencia quando, indicado o dispositivo malferido, não é especificado de que modo ele teria sido contrariado pelo acórdão recorrido, inviabilizando a compreensão da controvérsia posta nos autos (Súmula nº 284/STF).
+5. A demonstração do dissídio jurisprudencial pressupõe a ocorrência de similitude fática entre o acórdão atacado e os paradigmas.
+6. A jurisprudência do Superior Tribunal de Justiça entende que a necessidade do reexame da matéria fática impede a admissão do recurso especial tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+7 . Agravo interno não provido.
+(AgInt no AREsp 1.780.806/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. 14/2/2022, DJe 22/2/2022)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.AÇÃO DE INDENIZAÇÃO. DANOS MORAIS. LEGITIMIDADE. FUNDAMENTAÇÃO DEFICIENTE. SÚMULAS N. 283 E 284 DO STF. CONJUNTO FÁTICO-PROBATÓRIO.REEXAME. DISSÍDIO JURISPRUDENCIAL. ART. 105, III, "A" E "C". SÚMULA N. 7 DO STJ. DECISÃO MANTIDA.
+1. Aplica-se a Súmula n. 283 do STF quando o acordão recorrido assenta em mais de um fundamento e o recurso não abrange todos.
+2. É deficiente a fundamentação empregada no recurso que não permite a exata compreensão da matéria.
+3. No caso, o Tribunal a quo analisou a questão com base nos elementos fáticos que informaram a demanda. Desse modo, rever as premissas estabelecidas pelas instâncias ordinárias implicaria o reexame do conjunto fático-probatório dos autos, o que é vedado em sede de recurso especial, em virtude das Súmulas n. 5 e 7 do STJ.
+4. O reexame do conjunto fático-probatório impede que o recurso especial seja admitido tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.658.823/GO, Rel. Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, j. 14/2/2022, DJe 17/2/2022)
+Por derradeiro, apenas para afastar dúvidas, cumpre registrar que o art. 932, III, do CC/2002dispõe haver responsabilidade do empregador por atos de seus empregados, o que, no caso, não ocorre, considerando que o ESPÓLIO foi o antigo proprietário do veículo, supostamente defeituoso, não havendo, assim, relação empregatícia entre ele e OCTANE MOTORS.
+Assim, como RM IMÓVEISnão demonstrouo equívoco nos fundamentos da decisão agravada, deve ser mantido o não conhecimento do recurso especial, por força da aplicação daSúmulanº 7 do STJ (alíneas a e c do permissivo constitucional).
+Nessas condições, pelo meu voto,NEGO PROVIMENTOao agravo interno.
