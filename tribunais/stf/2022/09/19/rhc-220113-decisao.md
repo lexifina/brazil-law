@@ -1,0 +1,105 @@
+DECISÃO
+
+RECURSO ORDINÁRIO EM HABEAS CORPUS. PENAL. EXTORSÃO QUALIFICADA PRATICADA POR POLICIAL CIVIL. AFIRMAÇÃO DE ILEGALIDADE NA FASE
+PRÉ-PROCESSUAL: SUPRESSÃO DE INSTÂNCIA. CONDENAÇÃO CONFIRMADA EM SEGUNDO GRAU: ALEGADOS VÍCIOS NO INQUÉRITO SEM AFETAÇÃO DA AÇÃO PENAL. NECESSIDADE DE REEXAME DE FATOS. AUSÊNCIA DE TERATOLOGIA. DENÚNCIA ANÔNIMA SEGUIDA DE DILIGÊNCIAS PRELIMINARES: POSSIBILIDADE. PRECEDENTES. RECURSO ORDINÁRIO EM HABEAS CORPUS AO QUAL SE NEGA SEGUIMENTO.
+
+Relatório
+
+    1. Recurso ordinário em habeas corpus, sem requerimento de medida liminar, interposto por Darlei Roberto Indicatti contra acórdão da Sexta Turma do Superior Tribunal de Justiça, pelo qual, em 9.8.2022, desprovido o Agravo Regimental no Habeas Corpus n. 741.401/SP, Relator o Ministro Sebastião Reis Júnior.
+
+O caso
+
+    2. Consta dos autos ter sido o recorrente (policial civil) condenado em primeira instância, juntamente com outros acusados, por extorsão qualificada (§ 1º do art. 158 do Código Penal), à pena de oito anos, quatro meses e vinte e quatro dias de reclusão, em regime fechado, e ao pagamento de vinte e um dias-multa (Processo n. 0008576-76.2008.8.26.0268 – Primeira Vara da comarca de Itapecerica da Serra/SP – doc. 3). Segundo a inicial acusatória (parcialmente acolhida):
+
+    “(...) em período ainda não precisado, iniciado em data incerta e que perdurou até 19 de janeiro de 2008, no local descrito na denúncia, agindo em concurso de agentes, caracterizado pela união de esforços e unidade de propósitos, PAULO TADEU PRATES DE CARVALHO, DARLEI ROBERTO INDICATTI, FRANCISCO CLAUDIO DE FREITAS e FABIANO ABRAHÃO MONTEIRO associaram-se em quadrilha ou bando armado para o fim de cometer crimes de extorsão. Consta, também, que em 19 de janeiro de 2008, por volta das 08h, no local descrito na denúncia, PAULO TADEU PRATES DE CARVALHO, DARLEI ROBERTO INDICATTI, FRANCISCO CLAUDIO DE FREITAS e FABIANO ABRAHÃO MONTEIRO, agindo em concurso de agentes, caracterizado pela união de esforços e unidade de propósito, constrangeram a vítima Joerdson Mendes, mediante grave ameaça e com intuito de obter para eles indevida vantagem econômica, a entregar-lhes a quantia de R$ 25.000,00 (vinte e cinco mil reais) em dinheiro. Consta, ainda, que em 27 de maio de 2008, nas dependências da Delegacia Seccional de Policia da Comarca de Taboão da Serra/SP, PAULO TADEU PRATES DE CARVALHO, DARLEI ROBERTO INDICATTI, FRANCISCO CLAUDIO DE FREITAS e FABIANO ABRAHÃO MONTEIRO, agindo em concurso de agentes, caracterizado pela união de esforços e unidade de propósitos, usaram de grave ameaça, com o fim de satisfazer interesses próprios, contra a vítima Joerdson Mendes. Consta, por fim, que em 05 de novembro de 2009, no local descrito na denúncia PAULO TADEU PRATES DE CARVALHO, DARLEI ROBERTO INDICATTI, FRANCISCO CLAUDIO DE FREITAS, FABIANO ABRAHÃO MONTEIRO e MARIA DE FÁTIMA BRUZACA ABRAHÃO, agindo em concurso de agentes entre eles e também com outra pessoa ainda não identificada, caracterizado pela união de esforços e unidade de propósitos, usaram de grave ameaça, com o fim de satisfazer interesses próprios, contra as vítimas Joerdson Mendes e Veruska dos Santos Ferreira, respectivamente, vítima e testemunha do crime de extorsão” (fl. 2, doc. 3).
+
+    O Tribunal de Justiça de São Paulo deu parcial provimento ao recurso de apelação da defesa, readequando a pena imposta para seis anos, seis meses e doze dias de reclusão, mantendo, no mais, a sentença condenatória (doc. 5)
+
+    3. Contra esse julgado a defesa impetrou o Habeas Corpus n. 741.401/SP, no Superior Tribunal de Justiça, tendo o Relator, Ministro Sebastião Reis Júnior, denegado monocraticamente, em 29.6.2022, nos termos seguintes:
+
+    “De início, consigne-se que a irresignação do paciente se lastreia na inidoneidade da investigação policial, baseada em denúncia anônima improcedente, não havendo nenhuma diligência da investigação com intuito verificar a procedência das informações contidas na denúncia anônima, não há nenhum relatório que reporte isso nos autos (fl. 8).
+
+    Acontece que o tema levantado pela defesa, na presente impetração, não submetido, tampouco debatido pelo Tribunal de origem. Veja-se que, nas razões de apelação, a defesa, conquanto mencione a denúncia anônima, apenas sustentou que a sentença condenatória se encontra contrária as provas dos autos (fl. 63).
+
+    Desse modo, a referida questão não pode ser analisada nesta Corte Superior, sob pena de se incidir em indevida supressão de instância. A esse respeito: (...)
+
+    De mais a mais, na hipótese, embora questione a defesa o procedimento adotado pelo Delegado na instauração do inquérito policial, verifica-se que o reclamo não foi instruído com a íntegra do inquérito policial e da ação penal em tela, peças processuais indispensáveis para que se pudesse analisar a mácula suscitada.
+
+    Com efeito, tem-se que, logo após a inicial do writ, há a cópia da Portaria de instauração de inquérito policial (fl. 23), sobrevindo diversas outras peças processuais com a numeração desordenada e não sequenciada (fls. 24/36), não sendo possível aferir, assim, se constituem efetivamente o inteiro teor do procedimento inquisitorial e da ação penal que foi a partir dele deflagrada.
+
+    Como se sabe, o rito do habeas corpus pressupõe prova pré-constituída do direito alegado, devendo a parte demonstrar, de maneira tempestiva e inequívoca, por meio de documentos que evidenciem a pretensão aduzida, a existência do aventado constrangimento ilegal, ônus do qual não se desincumbiu a defesa, exercida por profissional da advocacia. Nessa direção orienta-se a jurisprudência pacífica do Superior Tribunal de Justiça: (…)
+
+    Por derradeiro, infere-se da parca documentação juntada aos autos, bem como da própria exordial, que, depois de recebida denúncia na Corregedoria, foi feita uma ordem de serviço aos investigadores para localizar e intimar as pessoas citadas na denúncia, onde foram ouvidas na seccional de polícia do Taboão da Serra/SP, pelo delegado corregedor Gilberto Giraldi, que na ocasião conseguiu localizar Pilato, que foi citado na denúncia Anônima como suposta testemunha do fato, e também localizaram a suposta vítima Joerdson (fl. 5), e que, diante desses fatos o Dr. Delegado Corregedor, instaurou um inquérito policial e uma apuração preliminar simultaneamente (fl. 6).
+
+    Ao que tudo indica, a denúncia anônima perante a ouvidoria da Polícia Civil deu origem a investigações pela Corregedoria da Polícia Civil, onde foram realizados diversos depoimentos.
+
+    Com efeito, é cediço que a jurisprudência desta Corte Superior de Justiça se pacificou no sentido de que, embora a notícia apócrifa não seja idônea, por si só, a dar ensejo à instauração de inquérito policial, caso seja corroborada por outros elementos de prova, legitima tanto o início do procedimento investigatório quanto as diligências nele realizadas. Confiram-se: (…)
+
+    Por fim, o pedido de trancamento da ação penal encontra-se prejudicado, tendo em vista o disposto no Enunciado n. 648 da Súmula do STJ [...]. A superveniência da sentença condenatória prejudica o pedido de trancamento da ação penal por falta de justa causa feito em habeas corpus (AgRg no HC n. 740.687/RJ, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 17/6/2022).
+
+    Conclui-se, então, que a impetração não logrou demonstrar o constrangimento ilegal alegado.
+
+    Em razão disso, denego a ordem.
+
+    Publique-se” (e-doc. 22).
+
+    4. Em 9.8.2022, a Sexta Turma do Superior Tribunal de Justiça, por unanimidade, negou provimento ao agravo regimental no habeas corpus, em acórdão com a seguinte ementa:
+
+    “AGRAVO REGIMENTAL EM HABEAS CORPUS. EXTORSÃO QUALIFICADA. ALEGAÇÃO DE NULIDADE NA INSTAURAÇÃO DO INQUÉRITO POLICIAL. DENÚNCIA ANÔNIMA. MATÉRIA NÃO DEBATIDA NA INSTÂNCIA LOCAL. SUPRESSÃO DE INSTÂNCIA. FUNDAMENTO NÃO IMPUGNADO. INCIDÊNCIA DA SÚMULA 182/STJ. MÁCULA NÃO CARACTERIZADA. REALIZAÇÃO DE DILIGÊNCIAS PRELIMINARES PELA CORREGEDORIA DA POLÍCIA CIVIL. TRANCAMENTO DA AÇÃO PENAL. PLEITO PREJUDICADO. SÚMULA 648/STJ. PRECEDENTES. 1. É ônus da parte agravante impugnar todos os fundamentos da decisão agravada, sob pena de incidência da Súmula 182 do STJ. No caso, o fundamento da existência de supressão de instância não foi especificamente atacado no agravo regimental. 2. A jurisprudência desta Corte Superior de Justiça adverte que, embora a denúncia anônima não seja idônea, por si só, a dar ensejo à instauração de inquérito policial, caso seja corroborada por outros elementos de prova, legitima tanto o início do procedimento investigatório quanto as diligências investigativas prévias para apurar a veracidade das informações recebidas, hipótese dos autos. 3. Fica prejudicado o pedido de trancamento da ação penal com a superveniência de sentença condenatória, tendo em vista o disposto na Súmula 648/ STJ. 4. Agravo regimental improvido”
+(e-doc. 73).
+
+    5. Esse acórdão é o objeto do presente recurso ordinário em habeas corpus, no qual o recorrente insiste na alegada nulidade do inquérito policial e de todos os atos posteriormente praticados. Afirma que a ação penal fundamentou-se em inquérito policial baseado em denúncia anônima improcedente, sem que houvesse diligência para apurar a veracidade das informações, ausentes indícios mínimos de crime e materialidade e sem fundamentação idônea a justificar o início de investigação formal.
+
+    Afirma-se ser “fato comprovado que o vício se encontra na fase inicial, no procedimento administrativo, ou seja, entre a Denúncia anônima, investigações sobre a referida denúncia (que demonstrou a improcedência da denúncia) e a abertura indevida do Inquérito Policial, visto que não fo[ram] demonstrado[s] indícios de autoria nem materialidade, o que implica no encerramento do caso diante da comprovação de que a denúncia anônima era falsa! Repita-se que a nulidade absoluta pode ser arguida a qualquer momento”.
+
+    Estes o requerimento e o pedido:
+
+    “(...) seja o presente recurso CONHECIDO e PROVIDO, com a consequente reforma do v. acórdão recorrido, para que seja concedida a ordem de Habeas Corpus, sendo reconhecida e declarada a nulidade de todos os atos administrativos e processuais que a denúncia anônima improcedente originou e, consequentemente, nulos todos os atos praticados a partir da instauração do inquérito policial, que se iniciou sem a devida justa culminando na nulidade da ação penal e extinção do feito”.
+
+    O Ministério Público de São Paulo não apresentou contrarrazões
+(e-doc. 92). O Ministério Público Federal postulou o “desprovimento do recurso ordinário” (e-doc. 87).
+
+    Examinada a matéria posta à apreciação, DECIDO.
+
+    6. Descabe cogitar-se de ilegalidade, na espécie, por ter o Superior Tribunal de Justiça apontado óbice à análise da pretensão do paciente, consignando que “o tema levantado pela defesa, na presente impetração, não foi submetido, tampouco debatido pelo Tribunal de origem. Veja-se que, nas razões de apelação, a defesa, conquanto mencione a denúncia anônima, apenas sustentou que a sentença condenatória se encontra contrária as provas dos autos (fl. 63). Desse modo, a referida questão não pode ser analisada nesta Corte Superior, sob pena de se incidir em indevida supressão de instância”.
+
+    A decisão impugnada não tratou da alegada nulidade decorrente de processo derivado de denúncia anônima, matéria sequer suscitada no Tribunal de origem. Haveria, assim, inadmissível supressão de instância, que torna também inviável a procedibilidade do pleito. Neste sentido, por exemplo, os seguintes precedentes:
+
+    “AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. PENAL. ALEGAÇÃO DE NULIDADE DE PROVAS PRODUZIDAS NA ORIGEM. NÃO APRECIAÇÃO DA MATÉRIA EM SEGUNDA INSTÂNCIA E NO SUPERIOR TRIBUNAL DE JUSTIÇA. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RHC n. 217.462-AgR, de minha relatoria, Primeira Turma, DJe 23.8.2022).
+
+    “HABEAS CORPUS. CONSTITUCIONAL E PROCESSUAL PENAL. ART. 251 DO CÓDIGO PENAL MILITAR. CRIME PRATICADO POR CIVIL. CONDENAÇÃO NA JUSTIÇA CASTRENSE. ALEGAÇÃO DE INCOMPETÊNCIA DA JUSTIÇA MILITAR FEDERAL E DE VÍCIO NA COMPOSIÇÃO DO CONSELHO PERMANENTE DE JUSTIÇA. QUESTÕES NÃO SUBMETIDAS AO SUPERIOR TRIBUNAL MILITAR. SUPRESSÃO DE INSTÂNCIA. TRÂNSITO EM JULGADO DO ACÓRDÃO PROFERIDO PELA JUSTIÇA MILITAR. HABEAS CORPUS NÃO CONHECIDO. 1. Inexistindo prévia manifestação do Superior Tribunal Militar sobre a matéria de fundo da impetração, a apreciação da alegada incompetência da Justiça Militar e de vício na composição do Conselho Permanente de Justiça importa em inadmissível supressão de instância, não admitido em habeas corpus. Jurisprudência desta Corte. 2. Habeas corpus não conhecido” (HC n. 110.117, de minha relatoria, Segunda Turma, DJe 28.5.2013).
+
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIME DE LESÃO CORPORAL GRAVE. CONDENAÇÃO PENAL COM TRÂNSITO EM JULGADO. WRIT SUCEDÂNEO DE RECURSO OU REVISÃO CRIMINAL. REGIME PRISIONAL. REINCIDÊNCIA. FUNDAMENTAÇÃO IDÔNEA. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE. CRIME PRATICADO COM VIOLÊNCIA E GRAVE AMEAÇA À PESSOA. IMPOSSIBILIDADE. SUSPENSÃO DA PENA. SUPRESSÃO DE INSTÂNCIA. MANIFESTA ILEGALIDADE OU TERATOLOGIA NÃO IDENTIFICADAS. 1. Inadmissível o emprego do habeas corpus como sucedâneo de recurso ou revisão criminal. Precedentes. (...) 5. Assentada a supressão de instância pela Corte Superior, não cabe o exame originário do tema por esta Suprema Corte, a qual refuta a análise per saltum de matérias não apreciadas pelas instâncias antecedentes. Precedentes. 6. Agravo regimental conhecido e não provido” (HC n. 216.154-AgR, Relatora a Ministra Rosa Weber, Primeira Turma, DJe 11.7.2022).
+
+    7. Há, ainda, outro óbice ao exame da pretensão, nos termos em que apresentada, ou seja, de alegado constrangimento ilegal decorrente de supostos vícios na fase investigativa, buscando-se a anulação do processo com condenação em duas instâncias, que aguarda o julgamento de agravo em recurso especial da defesa.
+
+    8. Sob o argumento não suscitado nas instâncias ordinárias, de supostos vícios na fase pré-processual, o impetrante busca a nulidade da ação penal. Para tanto seria necessário o reexame do acervo probatório do processo que teria fundamentado a condenação, fazendo da presente impetração sucedâneo de recursos processuais, o que não é admissível no sistema jurídico vigente.
+
+    Acresça-se que as alegadas irregularidades foram suscitadas somente após a confirmação da condenação, sendo forçoso reconhecer-se que, se nulidade na fase inquisitorial houvesse, estaria preclusa com a renovação da instrução probatória em juízo. Daí porque, nos termos da pacífica jurisprudência deste Supremo Tribunal, eventuais vícios no inquérito policial, peça meramente informativa, não contaminam a ação penal (HC n. 211.636, de minha relatoria, DJe 22.2.2022). Nesse mesmo sentido: HC n. 173.814-AgR, Relator o Ministro Nunes Marques, Segunda Turma, DJe 23.9.2021; RHC n. 198.182-AgR, Relatora a Ministra Rosa Weber, Primeira Turma, DJe 14.6.2021; RHC n. 134.182, de minha relatoria, Primeira Turma, DJe 8.8.2016; RHC n. 85.286/SP, Relator o Ministro Joaquim Barbosa, Segunda Turma, DJ 24.03.2006; RHC n. 80.919/SP, Relator o Ministro Nelson Jobim, Segunda Turma, DJ 14.9.2001, entre outros.
+
+    9. Não se comprova, ademais, teratologia ou constrangimento ilegal. Sem adentrar o mérito da causa, mas apenas para afastar eventual alegação de possibilidade de concessão da ordem de ofício, tem-se que o acórdão impugnado, do Superior Tribunal de Justiça, com base na documentação apresentada, comprova a adoção de diligências preliminares pela Corregedoria da Polícia Civil que legitimaram a abertura do inquérito. Extrai-se do julgado:
+
+    “(...) infere-se da parca documentação juntada aos autos, bem como da própria exordial, que, depois de recebida denúncia na Corregedoria, foi feita uma ordem de serviço aos investigadores para localizar e intimar as pessoas citadas na denúncia, onde foram ouvidas na seccional de polícia do Taboão da Serra/SP, pelo delegado corregedor Gilberto Giraldi, que na ocasião conseguiu localizar Pilato, que foi citado na denúncia Anônima como suposta testemunha do fato, e também localizaram a suposta vítima Joerdson (fl. 5), e que, diante desses fatos o Dr. Delegado Corregedor, instaurou um inquérito policial e uma apuração preliminar simultaneamente (fl. 6).
+
+    Ao que tudo indica, a denúncia anônima perante a ouvidoria da Polícia Civil deu origem a investigações pela Corregedoria da Polícia Civil, onde foram realizados diversos depoimentos” (fl.4, doc. 22).
+
+    A conclusão exarada pelas instâncias antecedentes não diverge da jurisprudência deste Supremo Tribunal:
+
+    “RECURSO ORDINÁRIO EM HABEAS CORPUS. CONSTITUCIONAL. PENAL. DENÚNCIA ANÔNIMA: ADMISSIBILIDADE. REQUISITOS LEGITIMADORES DO ACOLHIMENTO: PRECEDENTES. RECURSO ORDINÁRIO DESPROVIDO. 1. O Supremo Tribunal Federal firmou jurisprudência de que ‘nada impede a deflagração da persecução penal pela chamada 'denúncia anônima', desde que esta seja seguida de diligências realizadas para averiguar os fatos nela noticiados’ (HC 99.490, Relator o Ministro Joaquim Barbosa, DJ 31.1.2011). 2. É lícita a prorrogação do prazo legal de autorização para interceptação telefônica, ainda que sucessivamente, quando o fato seja complexo e, como tal, exija investigação diferenciada e contínua. 3. Para a verificação de alegada nulidade de determinados lapsos de tempo nos quais a interceptação telefônica tenha sido realizada sem autorização judicial, seria imprescindível o reexame de fatos e provas, a que não se presta o recurso ordinário em habeas corpus. 4. Recurso ao qual se nega provimento. Prejudicado o agravo regimental interposto” (RHC n. 125.392, de minha relatoria, Segunda Turma, DJe 21.5.2015).
+
+    “Processual penal. Habeas corpus. Corrupção passiva, organização criminosa, advocacia administrativa, crimes contra o meio ambiente e crime contra o procedimento licitatório. Trancamento da ação penal. Jurisprudência do Supremo tribunal Federal. 1. O trancamento da ação penal só é possível quando estiverem comprovadas, de plano, a atipicidade da conduta, a extinção da punibilidade ou a evidente ausência de justa causa. Precedentes. 2. O Supremo Tribunal Federal (STF) já decidiu que a ‘denúncia anônima é apta à deflagração da persecução penal, desde (que) seguida de diligências realizadas para averiguar os fatos nela noticiados antes da instauração de inquérito policial’ (RHC 117.972, Rel. Min. Luiz Fux). (...) 6. A tese de nulidade das interceptações telefônicas por inobservância do disposto no art. 6º, §§ 1º e 2º, da Lei 9.296/96 e nos arts. 11 e 12 da Resolução 59 do CNJ não foi sequer apreciada pelas instâncias de origem (Tribunal de Justiça do Estado de Santa Catarina e Superior Tribunal de Justiça). Fato que impede o imediato exame da matéria pelo STF, sob pena de dupla supressão de instâncias.
+7. Agravo regimental a que se nega provimento”. (HC n. 198.029-AgR, Relator o Ministro Roberto Barroso, Primeira Turma, DJe 9.4.2021).
+
+    “AGRAVO REGIMENTAL EM HABEAS CORPUS. PRETENDIDO TRANCAMENTO DA AÇÃO PENAL. INVIABILIDADE. EXCEPCIONALIDADE NÃO DEMONSTRADA. NECESSÁRIO REEXAME DO CONJUNTO FÁTICO PROBATÓRIO. HABEAS CORPUS INDEFERIDO. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. 1. O trancamento da ação penal só é viável por meio de habeas corpus em casos excepcionais, quando for evidente a atipicidade da conduta, a extinção da punibilidade ou a ausência de justa causa. 2. A persecução penal pode ter origem em denúncia anônima, desde que os fatos noticiados sejam confirmados por investigação preliminar. 3. Para o acolhimento das teses defensivas – denúncia baseada exclusivamente em denúncia anônima, atipicidade da conduta e crime impossível –, seria indispensável o reexame de todo o conjunto fático-probatório que levou as instâncias inferiores a concluírem ‘que a autoridade policial teria previamente averiguado a procedência da delatio criminis’, que estão presentes ‘a materialidade e autoria delitivas, por ter havido privação da liberdade da vítima’ e que ‘o suposto consentimento da ofendida não restou demonstrado de plano’, fato esse inviável na via estreita do habeas corpus, que não admite dilação probatória. 4. Não restou demonstrada excepcionalidade apta a justificar o trancamento das ações penais ora impugnadas. 5. Agravo regimental a que se nega provimento” (HC n. 184.871-AgR, Relator o Ministro Nunes Marques, Segunda Turma, DJe 23.9.2021).
+
+    10. Pela jurisprudência do Supremo Tribunal Federal, “pode o Relator, com fundamento no art. 21, § 1º, do Regimento Interno, negar seguimento ao habeas corpus manifestamente inadmissível, improcedente ou contrário à jurisprudência dominante, embora sujeita a decisão a agravo regimental” (HC n. 96.883-AgR, de minha relatoria, DJe 1º.2.2011).
+
+    11. Pelo exposto, nego seguimento ao recurso ordinário em habeas corpus (§ 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal).
+
+    Publique-se.
+
+    Brasília, 19 de setembro de 2022.
+
+Ministra CÁRMEN LÚCIA
+
+Relatora
