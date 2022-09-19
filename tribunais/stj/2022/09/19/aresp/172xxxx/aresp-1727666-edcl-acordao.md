@@ -1,0 +1,59 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 13/09/2022 a 19/09/2022, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Humberto Martins.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Agravo conhecido para não conhecer do recurso especial interposto pela União, com fundamento no art. 105, III, a, da CF/1988.
+O recurso visa reformar acórdão do Tribunal Regional Federal da 4ª Região, assim ementado(fl. 273):
+ADMINISTRATIVO. SERVIDOR PÚBLICO. DNER. REENQUADRAMENTO NO NOVO PLANO DE CARGOS E SALÁRIOS DO DNIT. LEI 11.171/2005. APOSENTADOS E PENSIONISTAS. PRESCRIÇÃO. QUINQUENAL.
+Aplica-se ao caso a prescrição do Decreto 20.910/1932, que dispõe que as dívidas da Fazenda Pública prescrevem em cinco anos. Como se trata de prestação de trato sucessivo, não há prescrição do fundo de direito, mas apenas da parte atingida pela prescrição quinquenal.
+Sendo o Departamento Nacional de Infra-Estrutura de Transportes - (DNIT) sucessor do extinto Departamento Nacional de Estradas e Rodagem (DNER), os servidores inativos e pensionistas do antigo DNER têm direito à paridade com os servidores da ativa do DNIT, visto terem sido absorvidos pelo novo órgão, sendo-lhes devido o enquadramento no Plano Especial de Cargos e Salários de que trata a Lei nº 11.171/05, com a percepção das vantagens daí decorrentes, inclusive aquelas devidas a título de gratificação por desempenho de atividade próprias da carreira.
+Opostos embargos de declaração, foram eles acolhidos parcialmente, ficando consignado que, se tais gratificações possuem a mesma natureza, é evidente que o servidor não pode receber ambas, devendo ser compensados eventuais valores recebidos no mesmo período da condenação, a fim de evitar pagamento em duplicidade. nos seguintes termos (fl. 408):
+ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO. REJULGAMENTO. RETORNO DO STJ. SERVIDOR PÚBLICO. DNER. REENQUADRAMENTO NO NOVO PLANO DE CARGOS E SALÁRIOS DO DNIT. LEI 11.171/2005. APOSENTADOS E PENSIONISTAS. PARIDADE. GRATIFICAÇÕES POR ATIVIDADE. COMPENSAÇÃO.
+1. Aos servidores aposentados e pensionistas do DNER, os quais se encontravam em igualdade de condições com o pessoal da ativa que foi transferido para o quadro de pessoal do DNIT, mas, por ato da Administração, passaram a ter vinculação funcional distinta, é devida a extensão das vantagens concedidas aos ativos por força da Lei n. 11.171/2005, em obediência ao princípio da paridade, inclusive as gratificações por atividade.
+2. Em relação às gratificações de desempenho instituídas na nova estrutura remuneratória, a própria Lei n. 11.171/2005, no art. 21 - com as modificações introduzidas pela Medida Provisória n. 441/2008, convertida na Lei n. 11.907/2009 - disciplina a incorporação dessas verbas aos proventos de aposentadoria e às pensões vinculadas ao DNIT, normas que deverão ser igualmente aplicadas aos benefícios percebidos pelo(a) autor(a).
+3. Não há dúvidas que as gratificações de desempenho em questão, GDPGTAS e GDPGPE, previstas na Lei n. 11.357/06, e GDAPEC e GDIT, dispostas na Lei n. 11.171/05, possuem a mesma natureza, sendo evidente que o servidor não pode receber ambas, devendo ser compensado eventuais valores recebidos no mesmo período da condenação, a fim de evitar pagamento em duplicidade.
+Na origem, trata-se deação ajuizada por Elci Salete Carbonera dos Santos contra a União objetivando a revisão dos seus proventos de pensão por morte, com base no critério da paridade, mediante enquadramento no plano de carreira do DNIT. Na sentença, julgaram-se procedentes os pedidos. No Tribunal a quo, a sentença foi reformada, ficando consignado que não há prescrição do fundo de direito, por se tratar de prestação de trato sucessivo.
+No recurso especial, a Uniãoalegaofensa aoart. 1º do Decreto n.20.910/32.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, nos termos do art. 255, § 4º, inciso I, do Regimento Interno do STJ, não conheço do recurso especial."
+Interposto agravo interno, foi julgado pela Segunda Turma, conforme a seguinte ementa do acórdão (fl. 527):
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. DNER. REENQUADRAMENTO NO NOVO PLANO DE CARGOS E SALÁRIOS DO DNIT. LEI N. 11.171/2005. APOSENTADOS E PENSIONISTAS. ENQUADRAMENTO OU REENQUADRAMENTO. PRESCRIÇÃO DE TRATO SUCESSIVO. SÚMULA N. 85/STJ.
+I - Na origem, trata-se de ação objetivando a revisão de proventos de pensão por morte, com base no critério da paridade, mediante enquadramento no plano de carreira do DNIT - Lei n. 11.171/2005. Após sentença que julgou procedentes os pedidos, o Tribunal a quo deu parcial provimento à apelação do ente público, ficando consignado que não há prescrição do fundo de direito, por se tratar de prestação de trato sucessivo.
+II - Com efeito, a jurisprudência desta Corte Superior é firme no sentido de que não se opera a prescrição de fundo de direito nos casos em que se objetive a revisão dos proventos de aposentadoria, com base na paridade entre ativos e inativos, nos termos do art. 40, § 8º, da Constituição da República. A propósito: AgInt no AREsp n. 1491611/PR, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 21/3/2022, DJe 23/3/2022; AgInt no REsp n. 1.905.408/RS, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 3/5/2021, DJe 5/5/2021; AgInt no REsp n. 1.828.964/RS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 28/9/2020, DJe 30/9/2020 e AgInt no REsp n. 1.809.613/PR, relator Ministro Herman Benjamin, Segunda Turma, julgado em 21/11/2019, DJe 19/12/2019.
+III - Dessa forma, aplica-se, à espécie, o enunciado da Súmula n. 83/STJ: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida." Ressalte-se que o teor do referido enunciado aplica-se, inclusive, aos recursos especiais interpostos com fundamento na alínea a do permissivo constitucional.
+IV - Agravo interno improvido.
+Opostos embargos de declaração, aponta a parte embargante vícios no acórdão embargado, resumido nos seguintes termos (fl. 541):
+ ..  há efetiva omissão na decisão ora embargada pois a discussão se resume em assentar que a Lei 11.171/05 é um ato de efeito concreto, conforme bem exposto no recurso especial e nas razões do agravo.
+É o relatório.
+VOTO
+Os embargos não merecem acolhimento.
+Segundo o art. 1.022 do Código de Processo Civil de 2015, os embargos de declaração são cabíveis para esclarecer obscuridade; eliminar contradição; suprir omissão de ponto ou questão sobre as quais o juiz devia pronunciar-se de ofício ou a requerimento; e/ou corrigir erro material.
+Conforme entendimento pacífico desta Corte:
+O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida
+.(EDcl no MS n. 21.315/DF, relatora Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016.)
+A pretensão de reformar o julgado não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do CPC/2015, razão pela qual inviável o seu exame em embargos de declaração.
+Nesse sentido:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. EMBARGOS DE DECLARAÇÃO. FINALIDADE DE PREQUESTIONAMENTO DE MATÉRIA CONSTITUCIONAL. OMISSÃO. NÃO OCORRÊNCIA. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. ART. 1.022 DO NOVO CPC.
+1. A ocorrência de um dos vícios previstos no art. 1.022 do CPC é requisito de admissibilidade dos embargos de declaração, razão pela qual a pretensão de mero prequestionamento de dispositivos constitucionais para a viabilização de eventual recurso extraordinário não possibilita a sua oposição. Precedentes da Corte Especial.
+2. A pretensão de reformar o julgado não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do novo CPC, razão pela qual inviável o seu exame em sede de embargos de declaração.
+3. Embargos de declaração rejeitados.
+(EDcl nos EAREsp n. 166.402/PE, relator Ministro Luis Felipe Salomão, Corte Especial, julgado em 15/3/2017, DJe 29/3/2017.)
+EMBARGOS DE DECLARAÇÃO NA RECLAMAÇÃO. CONTRADIÇÃO. NÃO OCORRÊNCIA. OMISSÕES. INEXISTÊNCIA. CARÁTER PROCRASTINATÓRIO RECONHECIDO. APLICAÇÃO DE MULTA.
+1. A contradição capaz de ensejar o cabimento dos embargos declaratórios é aquela que se revela quando o julgado contém proposições inconciliáveis internamente.
+2. Sendo os embargos de declaração recurso de natureza integrativa destinado a sanar vício - obscuridade, contradição ou omissão -, não podem ser acolhidos quando a parte embargante pretende, essencialmente, a obtenção de efeitos infringentes.
+3. Evidenciado o caráter manifestamente protelatório dos embargos de declaração, cabe a aplicação da multa prevista no parágrafo único do art. 538 do CPC/1973.
+4. Embargos de declaração rejeitados com aplicação de multa.
+(EDcl na Rcl n. 8.826/RJ, relator MinistroJoão Otávio de Noronha, Corte Especial, julgado em 15/2/2017, DJe 15/3/2017.)
+Amatériarelacionada à prescrição foi analisada, o que afasta a ocorrência de omissão, conforme se percebe dos seguintes trechos:
+ ..  a jurisprudência desta Corte Superior é firme no sentido de que não se opera a prescrição de fundo de direito nos casos em que se objetive a revisão dos proventos de aposentadoria, com base na paridade entre ativos e inativos, nos termos do art. 40, § 8º, da Constituição da República.
+Cumpre ressaltar que os aclaratórios não se prestam ao reexame de questões já analisadas com o nítido intuito de promover efeitos modificativos ao recurso. No caso dos autos, não há omissão de ponto ou questão sobre as quais o juiz, de ofício ou a requerimento, devia pronunciar-se, considerando que o acórdão apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+Ante o exposto, rejeito os embargos de declaração.
+É o voto.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. DNER. REENQUADRAMENTO NO NOVO PLANO DE CARGOS E SALÁRIOS DO DNIT. LEI N. 11.171/2005. APOSENTADOS E PENSIONISTAS. ENQUADRAMENTO OU REENQUADRAMENTO. PRESCRIÇÃO DE TRATO SUCESSIVO. SÚMULA N. 85/STJ.ALEGAÇÃO DE VÍCIOS NO ACÓRDÃO EMBARGADO. INEXISTÊNCIA.
+I -Na origem, trata-se de ação ajuizadacontra a União objetivando a revisão dos seus proventos de pensão por morte, com base no critério da paridade, mediante enquadramento no plano de carreira do DNIT. Na sentença, julgaram-se procedentes os pedidos. No Tribunal a quo, a sentença foi reformada, ficando consignado que não há prescrição do fundo de direito, por se tratar de prestação de trato sucessivo. Esta Corte conheceu do agravo para não conhecer do recurso especial.
+II -Opostos embargos de declaração, aponta a parte embargante vícios no acórdão embargado. Não há vício no acórdão. A matéria foi devidamente tratada com clareza e sem contradições.
+III- Embargos de declaração não se prestam ao reexame de questões já analisadas, com o nítido intuito de promover efeitos modificativos ao recurso, quando a decisão apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+IV -A matéria relacionada à prescrição do fundo de direitofoi analisada pelo acórdão embargado, o que afasta a ocorrência de omissão.
+V - Embargos de declaração rejeitados.
