@@ -1,0 +1,59 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 13/09/2022 a 19/09/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  por  BANCO  DO  BRASIL  S.A.  contra  a  decisão  que  conheceu  do  agravo  para  negar  provimento  ao  recurso  especiaem  virtude  da  ausência  de  vício  na  prestação  jurisdicional  e  da  incidência  da  Súmula  nº  7/STJ  (fls.  745-746,  e-STJ).
+Nas  presentes  razões,  o  agravante  alega  que
+"(..)  há  que  se  suscitar  a  flagrante  omissão  praticada  no  âmbito  do  tribunal  estadual,  sobre  questões  fundamentais  do  processo,  eis  que  foi  recusado  o  enfrentamento  da  violação  do  título  executivo/coisa  julgada  apontada,  a  despeito  da  oposição  dos  competentes  Embargos  de  Declaração"  (fl.  750,  e-STJ).
+Além  disso,  sustenta  que  os  arts.  502,  503  e  803  do  Código  de  Processo  Civil  de  2015  foram  afrontados  e  que  inaplicável  a  Súmula  nº  7/STJ  ao  caso  em  apreço.
+Foi  apresentada  impugnação  (fls.  759-764,  e-STJ).
+É  o  relatório.
+EMENTA
+AGR  AVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  LIQUIDAÇÃO  DE  SENTENÇA.  ART.  1.022  DO  CPC/2015.  VIOLAÇÃO.  NÃO  OCORRÊNCIA.  CÁLCULO.  COISA  JULGADA.  OFENSA.  NECESSIDADE.  REEXAME.  SÚMULA  Nº  7/STJ.
+1.  Recurso  especial  interposto  contra  acórdão  publicado  na  vigência  do  Código  de  Processo  Civil  de  2015  (Enunciados  Administrativos  nºs  2  e  3/STJ).
+2.  Não  há  falar  em  negativa  de  prestação  jurisdicional  se  o  tribunal  de  origem  motiva  adequadamente  sua  decisão,  solucionando  a  controvérsia  com  a  aplicação  do  direito  que  entende  cabível  à  hipótese,  apenas  não  no  sentido  pretendido  pela  parte.
+3.  É  inviável  rever  o  entendimento  firmado  pelas  instâncias  ordinárias  quanto  à  ocorrência  de  violação  da  coisa  julgada  sem  a  análise  dos  fatos  e  das  provas  da  causa,  o  que  atrai  a  incidência  da  Súmula  nº  7/STJ.
+4.  Agravo  interno  não  provido.
+VOTO
+O  acórdão  impugnado  pelo  recurso  especial  foi  publicado  na  vigência  do  Código  de  Processo  Civil  de  2015  (Enunciados  Administrativos  nºs  2  e  3/STJ).
+A  irresignação  não  merece  prosperar.
+Não  trouxe  o agravante  argumentos  suficientes  para  infirmar  a  decisão  atacada.
+Concretamente,  verifica-se  que  as  instâncias  ordinárias  enfrentaram  a  matéria  posta  em  debate  na  medida  necessária  para  o  deslinde  da  controvérsia.
+No  caso ,  o  tribunal  de  origem  assim consignou:
+"(..)
+Compulsando  os  autos,  verifico  que  a  sentença  proferida  julgou  parcialmente  procedente  os  pedidos  iniciais  do  ora  agravado  para:
+"reconhecer  a  ilegalidade  da  fixação  dos  juros  de  mora  em  1%  ao  ano  sobre  os  juros  remuneratórios  fixados  em  valores  diferentes  para  o  período  de  inadimplência  e  determinar  a  incidência  da  majoração  em  1%  ao  ano  aos  juros  remuneratórios  fixados  pelas  Cédulas  Rurais  para  o  período  da  normalidade,  a  título  de  juros  de  mora;  limitar  os  juros  remuneratórios  ao  percentual  legal  de  12%  ao  ano  nas  Cédulas  Rurais  Hipotecárias  e  Pignoratícias  nº  88/00519-4,  89/00169-9,  89/00170-2,  89/00172-9  e91/00250-8;  excluir  a  capitalização  mensal  de  juros  das  Cédulas  Rurais  nº  88/00519-4(fl.  49-v),  88/00520-8  (51-v),  88/00522-4  (fl.  57-v),  89/00169-9  (fl.  59),  89/00170-2  (fl.61),  89/00172-9  (fl.  64)  e  91/00250-8  (fl.  67),  em  que  foi  previsto  unicamente  o  "método  hamburguês"  para  o  cálculo  do  saldo  devedor,  substituindo  pela  capitalização  semestral,  nos  termos  do  art.  5º  do  Decreto-Lei  n.  167/1967;  afastar  a  mora  nas  Cédulas  Rurais  nº  88/00519-4,  88/00520-8,  88/00522-4,  89/00169-9,  89/00170-2,89/00172-9  e  91/00250-8,  extirpando  eventual  pagamento  de  juros  moratórios  e  multa  contratual  pelo  autor;  declarar  a  ilegalidade  da  fixação  dos  índices  de  correção  monetária  nas  Cédulas  Rurais  nº  88/00519-4,  88/00520-8,  88/00522-4,  89/00169-9,89/00170-2  e  89/00172-9,  nos  percentuais  de  70,28%  para  o  mês  de  janeiro  de  89,quando  o  correto  seria  42,72%,  e  84,32%  para  o  mês  de  março  de  90,  quando  o  correto  seria  41,28%,  pelo  índice  do  BTNF;  e,  condenar  o  réu  a  restituir  ao  autor,  na  forma  simples,  as  quantias  cobradas  em  desacordo  com  a  presente  sentença,  tudo  a  ser  apurado  em  liquidação  de  sentença,  corrigido  monetariamente  pelo  índice  do  INPC,  a  partir  da  data  de  realização  do  desembolso  e/ou  pagamento  indevido,  mais  juros  demora  de  1%  ao  mês,  a  partir  da  citação  (art.  219  do  CPC)."
+Transitado  em  julgado  o  feito  e  iniciada  a  liquidação  de  sentença  por  arbitramento,  foi  realizada  prova  pericial  para  apurar  o  quantum  debetur  que  tem  direito  o  credor,  ora  recorrido,  nos  limites  da  sentença  prolatada,  sendo  essa  apresentada  nos  autos  de  primeiro  grau.
+Este  laudo  foi  contestado  pelo  banco  recorrente  por  meio  de  parecer  do  assistente  técnico,  documento  declarado  intempestivo  pelo  Juízo  a  quo,  que  determinou  o  seu  desentranhamento  dos  autos  e  homologou  o  cálculo  realizado  pelo  perito  judicial,  o  qual  fixou  o  valor  da  dívida  debatida  em  R$5.060.628,56  (cinco  milhões,  sessenta  mil,  seiscentos  e  vinte  e  oito  reais  e  cinquenta  e  seis  centavos).
+Contra  esta  decisão  insurge-se  a  instituição  financeira  agravante  utilizando  os  argumentos  relatados.
+Pois  bem.
+Tenho  por  acertada  a  decisão  de  primeiro  grau,  que  homologou  a  perícia  realizada  em  juízo  e  determinou  o  desentranhamento  da  manifestação  do  banco  litigante.
+Isto  porque  não  consta  nos  autos  nenhuma  impugnação  tempestiva  ao  laudo  pericial  judicial.
+Este  laudo  foi  juntado  no  feito  e  as  partes  foram  intimadas  em  31.05.2019  para  apresentarem  suas  manifestações  em  quinze  dias,  prazo  este  finalizado  em  25.06.2019.
+Em  19.06.2019  o  recorrente  requereu  a  dilação  do  prazo  em  quinze  dias  para  se  manifestar  no  feito,  portanto,  estendendo-se  o  termo  final  para  10.07.2019,  caso  o  Juízo  de  primeiro  grau  o  deferisse.
+Independente  do  deferimento  ou  não  do  Magistrado  de  primeiro  grau,  somente  em  30.08.2019  o  agravante  apresentou  a  sua  manifestação  e  uma  perícia  particular,  portanto,  claramente  intempestiva,  até  mesmo  no  caso  de  hipotética  autorização  de  dilação  do  prazo  em  favor  do  ora  agravante.
+Assim,  desnecessário  maiores  esclarecimentos  do  fato,  e  da  precisão  da  decisão  atacada,  em  razão  da  evidente  preclusão  ocorrida  por  lapso  do  banco  litigante.
+A  propósito,  o  artigo  507,  do  Código  de  Processo  Civil  aduz:
+(..)
+A  preclusão  ocorre  em  razão  da  perda  da  faculdade  de  praticar  determinado  ato  processual  por  já  haver  ocorrido  a  oportunidade  para  tanto,  isto  é,  o  ato  já  foi  praticado  ou  deixou  de  ser  e,  portanto,  não  pode  ser  intentado.
+(..)
+No  caso  dos  autos,  o  que  ocorreu  em  primeiro  grau  foi  a  preclusão  temporal,  isto  é,  a  perda  de  uma  faculdade  processual  oriunda  do  não  exercício  no  momento  oportuno  já  que  a  manifestação  acerca  da  perícia  judicial  em  si  poderia  ter  sido  apresentada  tempestivamente  em  primeiro  grau  e,  neste  particular,  conforme  já  minuciosamente  descrito  tanto  em  primeiro  grau,  quanto  na  presente  decisão,  foi  desidioso  o  ora  recorrente.
+Assim,  a  determinação  de  desentranhamento  de  laudo  complementar  protocolado  intempestivamente  proferida  na  instância  originária  deve  ser  mantida,  nos  exatos  termos  decididos  pelo  Juízo  a  quo.
+(..)
+Com  relação  à  alegação  do  agravante  de  que  estão  sendo  violados  os  princípios  do  devido  processo  legal,  do  contraditório  e  da  ampla  defesa,  tenho  que  se  o  banco  recorrente  a  não  impugnou  tempestivamente  a  perícia  judicial,  ou  assim  fez  de  forma  genérica,  deixando  precluir  o  seu  direito  em  razão  da  sua  inércia,  não  se  verifica  a  ocorrência  de  cerceamento  de  defesa.
+Desta  forma,  a  decisão  do  magistrado  singular  em  homologar  o  laudo  pericial  produzido  em  juízo  demonstra-se  irreprochável"  (fls.  547-551,  e-STJ  -  grifou-se).
+Com  efeito,  não  há  falar  em  negativa  de  prestação  jurisdicional  nos  declaratórios,  a  qual  somente  se  configura  quando,  na  apreciação  do  recurso,  o  tribunal  local  insiste  em  omitir  pronunciamento  acerca  de  questão  que  deveria  ser  decidida,  e  não  foi.
+O  nítido  propósito  de  obter  o  reexame  de  questão  já  decidida,  na  via  dos  aclaratórios,  mas  à  luz  de  tese  invocada  na  petição  recursal,  na  busca  de  efeitos  infringentes,  não  atende  aos  limites  estreitos  delineados  no  art.  1.022  do  CPC/2015.
+Desse  modo,  o  não  acolhimento  da  tese  ventilada  pelo  recorrente  não  significa  omissão  ou  deficiência  de  fundamentação  da  decisão,  ainda  mais  quando  o  aresto  aborda  todos  os  pontos  relevantes  da  controvérsia,  como  na  espécie.
+A  propósito:
+"AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  TÍTULO  EXTRAJUDICIAL.  EXECUÇÃO.  ART.  1.022  DO  CPC/2015.  VIOLAÇÃO.  INEXISTÊNCIA.  FUNDAMENTAÇÃO  DEFICIENTE.  SÚMULA  Nº  284  DO  SUPREMO  TRIBUNAL  FEDERAL.
+1.  Não  viola  o  artigo  1.022  do  Código  de  Processo  Civil  de  2015  nem  importa  negativa  de  prestação  jurisdicional  o  acórdão  que  adota,  para  a  resolução  da  causa,  fundamentação  suficiente,  porém  diversa  da  pretendida  pelo  recorrente,  para  decidir  de  modo  integral  a  controvérsia  posta.
+(..)
+3.  Agravo  interno  não  provido"  (AgInt  no  AREsp  1.042.643/SC,  Rel.  Ministro  RICARDO  VILLAS  BÔAS  CUEVA,  TERCEIRA  TURMA,  julgado  em  4/5/2017,  DJe  22/5/2017).
+Quanto  à  alegada  violação  da  coisa  julgada,  do  excerto  acima  transcrito  nota-se  a  impossibilidade de revisão, por este  Tribunal  Superior, do  entendimento  firmado  pelas  instâncias  ordinárias  sem  a  análise  dos  fatos  e  das  provas  dos  autos,  o  que  atrai  a  aplicação  da  Súmula  nº  7/STJ.
+Por  fim,  mostra-se  incabível  a  aplicação  da  multa  requerida  em  contrarrazões  (fl.  763,  e-STJ),  pois  não  se  verifica,  neste  momento,  o  caráter  protelatório  do  recurso,  tornando  desnecessária  sua  aplicação  por  litigância  de  má-fé.
+Registra-se,  ainda,  não  ser  aplicável  a  multa  prevista  no  §  4º  do  art.  1.021  do  CPC/2015,  também  pleiteada  nas  contrarrazões,  pois  essa  não  é  automática,  haja  vista  não  se  tratar  de  mera  decorrência  lógica  do  não  provimento  do  agravo  interno  em  votação  unânime.
+A  condenação  da  parte  agravante  ao  pagamento  da  aludida  multa,  a  ser  analisada  em  cada  caso  concreto,  em  decisão  fundamentada,  pressupõe  que  o  agravo  interno  mostre-se  manifestamente  inadmissível  ou  que  sua  improcedência  seja  de  tal  forma  evidente  que  a  simples  interposição  do  recurso  possa  ser  tida,  de  plano,  como  abusiva  ou  protelatória,  o  que,  contudo,  não  ocorreu  na  hipótese  examinada.
+Ante  o  exposto,  nego  provimento  ao  agravo  interno.
+É  o  voto.
