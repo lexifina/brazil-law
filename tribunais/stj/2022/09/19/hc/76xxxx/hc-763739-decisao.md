@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de ALEKSANDER FERREIRA CAMARGO contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais no Agravoem Execução n. 1.0024.16.009278-9.
+Consta dos autos que o Sentenciadocumpriapena em regime semiaberto, excepcionalmente no gozo de prisão domiciliar monitorada após a sua inclusão no Projeto Construindo a Liberdade. Todavia, após informação de violações cometidas pelo Apenado enquanto no uso da monitoração eletrônica, o benefício foi suspenso, sendo designada audiência de justificação.
+Posteriormente, oJuízo da Execução Penal deu por justificadas as faltas disciplinares e determinou o retorno da prisão domiciliar monitorada(fls. 76-77).
+Irresignado, o Ministério Público interpôsagravo em execução perante o Tribunal a quo. A Corte de origem deu parcial provimento ao recurso a fim derevogar a prisão domiciliar concedida ao agravado, determinando, ainda, que fosseinstaurado o procedimento de apuração das supostas faltas grave cometidas pelo Reeducando nos dias 01/08/2021 e 12/08/2021 e, consequentemente, que seja designada a audiência de justificação, nos termos do art. 118, §2º da Lei de Execução Penal.
+O julgado restou assim ementado(fl. 353):
+"AGRAVO EM EXECUÇÃO PENAL - IRRESIGNAÇÃO MINISTERIAL - DESCUMPRIMENTO DAS CONDIÇÕES DA PRISÃO DOMICILIAR MEDIANTE MONITORAÇÃO ELETRÔNICA - APURAÇÃO DE FALTA GRAVE - INSTAURAÇÃO DE PROCEDIMENTO JUDICIAL - NECESSIDADE - REVOGAÇÃO DA PRISÃO DOMICILIAR - POSSIBILIDADE - REGRESSÃO DE REGIME - DESCABIMENTO - RECURSO MINISTERIAL PARCIALMENTE PROVIDO. - 1. Considerando que foi noticiado quais os comportamentos que implicariam no descumprimento das condições do monitoramento eletrônico, deve ser instaurado o procedimento de apuração da falta grave, nos termos do art. 195 da LEP. 2. Restando devidamente comprovado nos autos que o agravado descumpriu as condições no monitoramento eletrônico, imperiosa a revogação da prisão domiciliar outrora concedida. 3.Embora seja legalmente possível, a regressão cautelar deve ser decretada em observância a proporcionalidade e necessidade da medida. Tendo em vista o largo interregno de tempo perpassado entre a data das supostas faltas e o presente julgamento, considero que tal medida, nesse momento, não se mostra razoável."
+Aduz a Parte Impetrante, em suma, que "constam dos autos apenas duas notícias de eventuais violações às regras da monitoração eletrônica, consoante se verifica dos ofícios SEJUSP/NUGER nº. 48545/2021 e 51097/2021 que o paciente teria, em tese, descumprido as regras da monitoração eletrônica, por violação da área de inclusão e por perda de comunicação por descarga de bateria, nos dias 1º e 12 de agosto de 2.021" (fl. 7).
+Requer, em liminar, que seja determinado o restabelecimento da"decisão proferida pelo Juízo de Execuções Penais" (fl. 11).
+O pedido liminar foi indeferido às fls. 361-365.
+As judiciosas informações foram prestadas ás fls. 368-370.
+O Ministério Público Federal opinou pela prejudicialidadedo writ (375-377).
+É o relato do necessário.Decido.
+Segundo informações do Juízo da Execução Criminal n. 0092789-50.2016.8.13.0024, na qual o ora Paciente consta como Reeducando,foi-lhe concedido a progressão ao regime aberto,sem monitoramento eletrônico (fl. 368), o que esvazia a pretensão defensiva formulada neste writ.
+Ante o exposto, com fundamento no art. 34, inciso XX, do RISTJ, JULGO PREJUDICADO o pedido de habeas corpus.
+Publique-se.Intimem-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. PLEITO DE PRISÃO DOMICILIAR COM MONITORAMENTO ELETÔNICO. POSTERIOR CONCESSÃO DE REGIME ABERTO SEM MONITORAMENTO ELETRÔNICO. PERDA SUPERVENIENTE DE INTERESSE PROCESSUAL. PEDIDO DE HABEAS CORPUS PREJUDICADO.
