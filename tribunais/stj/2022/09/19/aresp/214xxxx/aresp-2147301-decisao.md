@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo em recurso especial manejado por JOSÉ CARLOS DA SILVA, contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a e c, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 978):
+PREVIDENCIÁRIO. TEMPO DE SERVIÇO ESPECIAL. APOSENTADORIAESPECIAL. NÃO CONCESSÃO. PEDIDO SUCESSIVO. APOSENTADORIA POR TEMPO DE SERVIÇO/CONTRIBUIÇÃO. CONCESSÃO. CONSECTÁRIOS. IMPLANTAÇÃO DO BENEFÍCIO.
+1. Comprovada a exposição do segurado a agente nocivo, na forma exigida pela legislação previdenciária aplicável à espécie, possível reconhecer-se a especialidade da atividade laboral por ele exercida.
+2. Não tem direito à aposentadoria especial o segurado que não possui tempo de serviço suficiente à concessão do benefício.
+3. Considerado o pedido sucessivo, tem direito à aposentadoria por tempo de serviço/contribuição o segurado que, mediante a soma do tempo judicialmente reconhecido com o tempo computado na via administrativa, possuir tempo suficiente e implementar os demais requisitos para a concessão do benefício.
+4. Correção monetária a contar do vencimento de cada prestação, calculada pelo INPC, para os benefícios previdenciários, a partir de 04/2006,conforme o art. 31 da Lei n.º 10.741/03, combinado com a Lei n.º 11.430/06,precedida da MP n.º 316, de 11/08/2006, que acrescentou o art. 41-A à Lei n.º8.213/91.
+5. Juros de mora simples a contar da citação (Súmula 204 do STJ),conforme o art. 5º da Lei 11.960/2009, que deu nova redação ao art.1º-F da Lei9.494/1997.
+6. Determinada a imediata implantação do benefício.
+Opostos embargos de declaração, foram acolhidos (fls. 1.016/1.024 e1.111/1.119).
+Nas razões do apelo especial, a parte recorrente sustenta que tem direito ao reconhecimento de todo o tempo especial pleiteado em virtude da exposição a agente nocivo, sem apontar, especificamente, nenhum artigo de lei federal supostamente violado ou sobre o qual recairia a divergência pretoriana invocada.
+Sem contrarrazões.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não comporta acolhida.
+Isto porquea parte recorrente não amparou o inconformismo na violação de qualquer lei federal. Destarte, a ausência de indicação do dispositivo legal tido por violado implica deficiência de fundamentação do recurso especial, atraindo a incidência da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."). Nesse diapasão: AgInt no AgInt no AREsp 793.132/RJ, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe 12/3/2021; AgRg no REsp 1.915.496/SP, Rel. Ministro Joel Ilan Paciornik, Quinta Turma, DJe 8/3/2021; e AgInt no REsp 1.884.715/CE, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 1º/3/2021.
+Ademais, também na interposição do recurso especial com base na alínea c do permissivo constitucional, é imperiosa a indicação do dispositivo federal sobre o qual recai a suposta divergência jurisprudencial, o que não ocorreu no caso em tela. Assim, não pode ser conhecido o presente recurso especial, nos termos da Súmula 284/STF, que dispõe: "É inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia.". Nesse mesmo sentido, destacam-se os seguintes precedentes: AgInt no AREsp 1742361/SP, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe 3/3/2021; AgInt no REsp 1791633/CE, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, DJe 4/3/2021; AgInt no AREsp 1650251/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 9/9/2020.
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
