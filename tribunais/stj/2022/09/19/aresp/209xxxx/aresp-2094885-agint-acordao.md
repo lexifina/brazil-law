@@ -1,0 +1,76 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 13/09/2022 a 19/09/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Isabel Gallotti e Marco Buzzi votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Raul Araújo.
+Presidiu o julgamento a Sra. Ministra Maria Isabel Gallotti.
+RELATÓRIO
+Trata-se de agravo interno (e-STJ fls. 232/238) interposto contra decisão desta relatoria, que negou provimento ao recurso (e-STJ fls. 227/229).
+Em suas razões, a parte alega que há omissão (e-STJ fls. 234/235):
+Tanto é verdade que se o Tribunal de origem tivesse observado de fato as razões dos Agravantes em sede de agravo de instrumento, eles provavelmente não teriam recorrido e este Tribunal, já que o ponto crucial a ser analisadopelo e. TJPR cingia-se sobre a não invocação do artigo 6º, inciso VIII, do Código de Defesa do Consumidor, que estabelece os requisitos para inversão do ônus da prova.
+ .. Além disso, a omissão também se consubstanciou no fato de o TJPR olvidar-se em apreciar a hipossuficiência informacional e técnica dos Agravantes, que necessitou dos serviços de um contador para ter que elaborar os cálculos do contrato.
+ .. verifica-se que, caso o entendimento proferido pelo Tribunal de origem fosse alterado, não incidiria, ao caso, o disposto na Súmula 7 do STJ e sim apenas a revaloração de matéria estritamente jurídica, ainda que assim não fosse, não há como confundir as duas figuras: (Reexame  Valoração).
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+A parte agravada apresentou impugnação (e-STJ fls. 244/245), requerendo a aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015.
+É o relatório.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA.
+1.Inexiste afronta ao art. 1.022 do CPC/2015 quando a Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7/STJ).
+3. No caso concreto, rever a conclusão do acórdão recorrido quanto à distribuição do ônus da prova demandaria o reexame de fatos e provas, vedado em recurso especial.
+4. Agravo interno a que se nega provimento.
+VOTO
+A insurgência não merece acolhida.
+A parte não trouxe nenhum argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (e-STJ fls. 227/229):
+Trata-se de agravo nos próprios autos interposto contra decisão publicada na vigência do CPC/2015, que inadmitiu o recurso especial por ausência de omissão e incidência da Súmula n. 7 do STJ (e-STJ fls. 173/176).
+O acórdão recorrido encontra-se assim ementado (e-STJ fl. 55):
+AGRAVO DE INSTRUMENTO. DECISÃO DE PRIMEIRO GRAU INDEFERIU A APLICABILIDADE DO CDC E DISTRIBUIU O ÔNUS PROBATÓRIO. CDC. NÃO INCIDÊNCIA. TEORIA FINALISTA MITIGADA INAPLICÁVEL AO CASO. RECURSOS DO FINANACIAMENTO USADOS NO INCREMENTO DA ATIVIDADE EMPRESARIAL. FALTA DE DESTINAÇÃO FINAL DO PRODUTO. VULNERABILIDADE NÃO DEMONSTRADA. INVERSÃO DO ÔNUS DA PROVA. IMPOSSIBILIDADE. DECISÃO MANTIDA. RECURSO CONHECIDO E DESPROVIDO.
+Os embargos de declaração foram rejeitados (e-STJ fls. 92/97).
+Nas razões do recurso especial (e-STJ fls. 107/123), fundamentado no art. 105, III, "a" e "c", da CF, a parte alegou, além de dissídio jurisprudencial, violação dos seguintes dispositivos legais:
+(i) art. 1.022, II, do CPC/2015, porque (e-STJ fls. 115/116):
+ ..  não enfrentou os argumentos deduzidos no processo capazes de infirmar sua conclusão, eis que deixou de considerar à hipossuficiência técnica e econômica do Recorrente, limitando-se em reportar-se em fundamentos genéricos.
+ ..  o Recorrente Banquiva Recauchutagem de Pneus Ltda era uma empresa representante de peças e acessórios para veículos e reforme empneumáticos, tendo encerrado suas atividades desde outubro de 2015 devido as dificuldades financeiras, em contrapartida do faturamento da empresa Recorrida, que ultrapassa o do Recorrente em números astronômicos, uma vez que se trata de pessoa jurídica com grande influência no país e aufere lucros mediante concessão de créditos a diversas pessoas, físicas ou jurídicas, fato este capaz de evidenciar a latente hipossuficiência econômica do Recorrente.
+(ii) art. 6º do CDC, pois (e-STJ fl. 118):
+ ..  é presumível a hipossuficiência do consumidor em face da instituição financeira, pois se submete a um complexo sistema, cujas normas especializadas simplesmente adere, assumindo dívida cuja variação envolve cálculos de atualização de saldo devedor segundo critérios que lhe são de difícil acesso e compreensão, e sem oportunidade de discuti-la, a não ser judicialmente.
+Cumpre ressaltar que o Recorrente possui clarividente vulnerabilidade técnica, isso porque vê-se que o caso em tela é de cunho estritamente contábil (jurídica e científica), na medida em que o Reconhece desconhece os termos contábeis e sua aplicação, quando é legal ou abusiva, sem levar em conta quando tais práticas são realizadas sem previsão contratual.
+No agravo (e-STJ fls. 185/197), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada às fls. 201/209 (e-STJ).
+É o relatório.
+Decido.
+Inexiste afronta ao art. 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo juízo.
+De fato, em relação à tese, o Tribunal de origem assim se manifestou (e-STJ fls. 60/62):
+Aqui, contudo, os Agravantes não demonstraram qualquer hipossuficiência ou vulnerabilidade, técnica, jurídica, fática ou informacional, que lhes poria deixar em manifesta situação de desvantagem frente à Instituição financeira, não sendo possível, de resto, que se presuma o que pretende seja suposto, já que inexiste mínimo indício probatório a respeito.
+É importante ressaltar sobre isso, ainda, que a hipossuficiência é analisada quando do aforamento da demanda, isto é, especificamente sob o aspecto probatório processual, porque é aí (na sede instrutória aspecto probatório processual decorrente do que se alegou na inicial e, porventura, na resposta) que se produzirá provas a fim de consubstanciar as eventuais alegações das partes. Nesse particular, é necessário expor que, além da assistência jurídica prestada por seus Procuradores, os Agravantes exibiram (e já com a provocação) parecer técnico (mov. 1.4, dos autos originários) unilateralmente produzido por Contador, o que contribui a pôr em xeque a alegadahipossuficiência técnica (ou econômica) deles.
+ ..  Frise- que o fato da Instituição bancária possuir superior porte econômico, por si, não evidencia impossibilidade de a outra parte arcar com o ônus da produção probatória pertinente, já que a isto se exige alegada especificada e consequente demonstração concreta acerca da carência (que, até pela sua excepcionalidade, não se admite presunção extensiva).
+ ..  Posto isso, não restando demonstrado que a parte agravante possui qualquer dificuldade em produzir as provas (não pertinentes à própria condição pessoal) porventura pertinentes, necessárias, já que quanto à sua aventada vulnerabilidade não restou sequer tangenciada, e, assim, muito menos caracterizada, frente ao fornecedor, só porque este seria grande Banco. E, por essas e outras razões, a descabida aplicação do CDC e, mais, a pretensa inversão do ônus da inaplicável prova.
+Desse modo, não assiste razão à parte, visto que o Tribunal a quo decidiu a matéria controvertida nos autos, ainda que contrariamente aos seus interesses, não incorrendo em nenhum dos vícios previstos no art. 1.022 do CPC/2015.
+Modificar o entendimento do acórdão impugnado quanto à ausência de vulnerabilidade técnica e econômica, nesta hipótese, demandaria reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7/STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
+Conforme consta da decisão agravada, a Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+Assim, concluiu que não haveria vulnerabilidade técnica, jurídica, fática ou informacional, afastando a possibilidade de inversão do ônus da prova. Desse modo, não há falar em violação do art. 1.022 do CPC/2015.
+Ademais, rever a conclusão do acórdão quanto à ausência de vulnerabilidadedemandaria reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7/STJ. A propósito, confiram-se os seguintes precedentes:
+DIREITO BANCÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. EMBARGOS À EXECUÇÃO. NEGATIVA DE PROVA PERICIAL. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. INVERSÃO DO ÔNUS DA PROVA. AUSÊNCIA DE VULNERABILIDADE OU HIPOSSUFICIÊNCIA. SÚMULA 7/STJ. TABELA PRICE. CAPITALIZAÇÃO DE JUROS. REVISÃO. IMPOSSIBILIDADE. SÚMULAS 5 E 7 DO STJ. JUROS REMUNERATÓRIOS. TAXA SUPERIOR À MÉDIA DO BACEN. IRRELEVÂNCIA DA DIFERENÇA. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL DESPROVIDO.
+1. Conforme jurisprudência deste Sodalício, não há cerceamento de defesa quando o eg. Tribunal estadual, de forma fundamentada, afasta a necessidade de prova pericial. Precedentes.
+2. Segundo a orientação jurisprudencial desta Corte, a inversão do ônus da prova é realizada a critério do juiz mediante a verificação da verossimilhança das alegações da parte, de sua hipossuficiência ou da maior facilidade na obtenção da prova. Precedentes.
+3. No presente caso, o eg. Tribunal de origem, com arrimo nas peculiaridades do caso concreto, negou a inversão do ônus da prova, à luz do Código de Defesa do Consumidor, por não vislumbrar o requisito da vulnerabilidade ou verossimilhança das alegações.Pretensão de alterar esse entendimento demanda revolvimento fático e probatório, providência incompatível com o recurso especial, a teor da Súmula 7/STJ.
+4. A Corte Especial do STJ, no julgamento do REsp 1.124.552/RS, submetido à sistemática dos recursos repetitivos (CPC/1973, art. 543-C), consolidou o entendimento de que "A análise acerca da legalidade da utilização da Tabela Price - mesmo que em abstrato - passa, necessariamente, pela constatação da eventual capitalização de juros (ou incidência de juros compostos, juros sobre juros ou anatocismo), que é questão de fato e não de direito, motivo pelo qual não cabe ao Superior Tribunal de Justiça tal apreciação, em razão dos óbices contidos nas Súmulas 5 e 7 do STJ" (REsp 1.124.552/RS, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 03/12/2014, DJe de 02/02/2015).
+5. Nos termos da jurisprudência do STJ, "Eventual redução da taxa de juros, somente pelo fato de estar acima da média de mercado, sem que seja mencionada circunstância relacionada ao custo da captação dos recursos, à análise do perfil de risco de crédito do tomador e ao spread da operação, apenas cotejando, de um lado, a taxa contratada e, de outro, o limite aprioristicamente adotado pelo julgador em relação à taxa média divulgada pelo Bacen - está em confronto com a orientação firmada na Segunda Seção desta Corte nos autos do REsp 1.061.530/RS" (AgInt no AREsp 1.772.563/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 21/06/2021, DJe de 24/06/2021) .
+6. Agravo interno provido para conhecer do agravo e negar provimento ao recurso especial.
+(AgInt no AREsp n. 1.848.285/RS, relator Ministro Raul Araújo, Quarta Turma, julgado em 28/3/2022, DJe de 3/5/2022.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL E DIREITO BANCÁRIO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. EMBARGOS À EXECUÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. INÉPCIA DA INICIAL. DOCUMENTOS. POSTERIOR JUNTADA. POSSIBILIDADE. PRESCRIÇÃO. CITAÇÃO. DEMORA. CULPA DO EXEQUENTE. AUSÊNCIA. MATÉRIA FÁTICA. REEXAME. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. CÓDIGO DE DEFESA DO CONSUMIDOR. APLICAÇÃO. AFASTAMENTO. JUROS REMUNERATÓRIOS. PERCENTUAL. ABUSIVIDADE. SÚMULA Nº 596/STF. REPETIÇÃO EM DOBRO. MÁ-FÉ. INEXISTÊNCIA. GRAU DE SUCUMBÊNCIA. REEXAME. VEDAÇÃO. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. É pacífica a jurisprudência desta Corte no sentido de que a insuficiência do demonstrativo do débito não é causa de extinção do processo executivo.
+4. Hipótese em que a demora na citação não ocorreu por culpa do credor, conforme consignado por ambas as instâncias ordinárias.
+Impossibilidade de reexame do contexto fático-probatório dos autos, consoante o disposto na Súmula nº 7/STJ.
+5. A celebração de instrumento particular de abertura de crédito que tem como objetivo a construção de empreendimento imobiliário, figurando como tomador do empréstimo conhecida empresa do ramo imobiliário, é suficiente para rechaçar a hipótese de vulnerabilidade.
+6. O acolhimento da tese que atribui à recorrente a condição de parte hipossuficiente na relação jurídica demandaria o reexame do contexto fático-probatório dos autos, o que é vedado na via recursal eleita conforme as disposições da Súmula nº 7/STJ.
+7. As instituições financeiras não se sujeitam à limitação dos juros remuneratórios estipulada pela Lei de Usura (Decreto nº 22.626/1933), em consonância com a Súmula nº 596/STF.
+8. A aplicação do art. 940 do Código Civil, que determina a repetição em dobro de eventuais indébitos, exige, além da cobrança de quantia indevida, a configuração de má-fé do credor, o que não se verificou no caso em apreço.
+9. É inviável, em recurso especial, a revisão do grau de sucumbência em que autor e réu saíram vencedores ou vencidos na demanda, por depender da análise do conteúdo fático-probatório dos autos.
+10. Agravo interno não provido.
+(AgInt no REsp n. 1.656.686/DF, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 16/11/2021, DJe de 22/11/2021.)
+Assim, não prosperam as alegações constantes no recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+Deixo de aplicar a multa prevista no art. 1.021, § 4º, do CPC/2015, uma vez que a parte agravante apenas exerceu seu direito de petição, o que não constitui ato protelatório, a ensejar a sanção processual prevista no referido dispositivo.
+É como voto.
