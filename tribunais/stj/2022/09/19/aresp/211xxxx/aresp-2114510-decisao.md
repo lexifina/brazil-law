@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo interposto por ADRIANA DE OLIVEIRAcontra decisão que negou seguimento a recurso especial manejado em face de acórdão assim ementado (fl. 300):
+APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA DE NULIDADE DE EMPRÉSTIMO CONSIGNADO C/C REPETIÇÃO DE INDÉBITO E DANOS MORAIS. DESCONTOS EM BENEFÍCIO PREVIDENCIÁRIO DE APOSENTADORIA. CONTRATAÇÃO VÁLIDA DEMONSTRADA PELA INSTITUIÇÃO FINANCEIRA. CONDENAÇÃO AO PAGAMENTO DE MULTA POR LITIGÂNCIA DE MÁ-FÉ - VALOR MANTIDO. RECURSO CONHECIDO E DESPROVIDO. Considera-se litigante de má-fé aquele que altera a verdade dos fatos com intenção de induzir o julgador a erro e obter vantagem indevida. A penalidade aplicada ao litigante de má-fé deve ser razoável e condizente com as peculiaridades dos autos.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, a recorrente aponta violação dos arts. 489 e 1.022 do Código de Processo Civil/2015, sustentando a omissão do Tribunal de origem sobre os pontos capazes, em tese, de infirmar a conclusão adotadapelo julgador.
+Aduz, a par de dissídio jurisprudencial, a negativa de vigência dos arts. 79, 80, II, 81, 373, I, do CPC/2015, uma vez que não foi comprovada a má-fé da parte que utilizou o processo para ver reconhecidauma pretensão que acreditava ser seu direito. Afirma que, no caso, se trata de idosa e de pouca instrução, que não se lembrava da contratação e do recebimento do crédito.
+Contrarrazões apresentadas.
+O recurso especial não foi admitido em virtude da ausência de violação dos arts. 489 e 1.022 do CPC/2015 e do óbice da Súmula 7 do STJ.
+Neste agravo, a agravante impugnou os referidos fundamentos.
+Assim delimitada a controvérsia, passo a decidir.
+Presentes os pressupostos de admissibilidade e ultrapassado o limite do conhecimento do presente recurso, verifico que esse não merece provimento, senão vejamos.
+Nas razões do seu recurso, a recorrente alegou a violação dosarts. 489 e 1.022 do CPC/2015 em virtude da omissão do Tribunal de origem sobre os temas apresentados nos embargos de declaração, sem, contudo, indicar as teses omitidas, em evidente alegação genérica de contrariedade ao referido dispositivo.
+Nesses casos, ante a deficiente fundamentação do recurso, incide a Súmula 284 do STF por analogia.
+No que se refere à litigância de má-fé, o Tribunal de origem consignou que (i)ficou comprovadaa validade do contrato de empréstimo celebrado entre as partes; e (ii) houve a tentativa da parte de alteração da verdade dos fatos com o fim de pleitear danos morais e repetição do indébito. Confira-se:
+Na hipótese, através dos documentos apresentados aos autos, ficou comprovado a validade do contrato de empréstimo celebrado entre as partes.
+Desse modo, entendo que a conduta do demandante-apelante, ao pleitear danos morais e repetição do indébito, baseando-se em argumento falso (irregularidade na contratação e ausência de liberação do valor contratado) implica em litigância de má-fé, pois houve alteração da verdade dos fatos  ..  (fl. 305)
+Como se vê, o Tribunal de origem solucionou toda a controvérsia à luz das provas presentes nos autos, concluindo pela tentativa de alteração da verdade dos fatos e, portanto, a litigância de má-fé, de sorte que a modificação das conclusões adotadas no acórdão recorrido demandaria a análise do conjunto fático-probatório dos autos, providência que esbarra no óbice da Súmula 7 do STJ.
+Nesse sentido, confira-se o seguinte precedente:
+DIREITO CIVIL E PROCESSUAL CIVIL. RECURSO ESPECIAL. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM.AUSÊNCIA DE AFRONTA AOS ARTS. 128 e 535 DO CPC/1973. DIREITO DE RETENÇÃO, NÃO INDICAÇÃO DOS DISPOSITIVOS VIOLADOS. SÚMULA N. 284/STF. REPETIÇÃO DA PROVA PERICIAL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7/STJ. COMODATO. EXTINÇÃO. OCUPAÇÃO EXCLUSIVA DE PARCELA DOS CONDÔMINOS. INDENIZAÇÃO. ALUGUÉIS. POSSIBILIDADE. VEDAÇÃO AO ENRIQUECIMENTO SEM CAUSA. MORA. CITAÇÃO. LITIGÂNCIA DE MÁ-FÉ. SÚMULA N. 7/STJ. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. DECISÃO MANTIDA.
+ ..
+7. Sem incorrer na vedação da Súmula n. 7/STJ, não há como averiguar, em recurso especial, se os recorridos teriam praticado condutas merecedoras de multa por litigância de má-fé.
+8. "A aferição do percentual em que cada litigante foi vencedor ou vencido ou a conclusão pela existência de sucumbência mínima ou recíproca das partes encontra óbice na Súmula 7/STJ" (AgInt nos EDcl no AREsp n. 1.274.020/DF, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 31/8/2020, DJe 9/9/2020).
+9. "A interposição de recursos cabíveis não implica litigância de má-fé nem ato atentatório à dignidade da justiça, ainda que com argumentos reiteradamente refutados pelo Tribunal de origem ou sem alegação de fundamento novo" (AgRg nos EDcl no REsp n. 1.333.425/SP, Relatora Ministra NANCY ANDRIGHI, DJe 4/12/2012), o que ocorreu.
+10. O conhecimento do recurso pela alínea "c" do permissivo constitucional exige a indicação do dispositivo legal ao qual foi atribuída interpretação dissonante e a demonstração da divergência, mediante o cotejo analítico do acórdão recorrido e dos arestos paradigmas, de modo a se verificarem as circunstâncias que assemelhem ou identifiquem os casos confrontados (arts. 255, § 1, do RISTJ e 1.029, § 1º, do CPC/2015). Ausentes tais requisitos, incide a Súmula n. 284/STF.
+11. Recurso especial a que se nega provimento.
+(REsp n. 1.953.347/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 9/8/2022, DJe de 16/8/2022.)
+Em face do exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites previstos nos §§ 2º e 3º do referido dispositivo legal.
+Intimem-se.
