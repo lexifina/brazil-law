@@ -1,0 +1,27 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 13/09/2022 a 19/09/2022, por unanimidade, acolher os embargos de declaração, com efeitos modificativos, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de embargos de declaração opostos contra acórdão, assim ementado (fl. 384):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO INTERPOSTO NA VIGÊNCIA DO CPC/2015 SEM A DEVIDA COMPROVAÇÃO DA OCORRÊNCIA DE FERIADO LOCAL NO ATO DE INTERPOSIÇÃO DO APELO. INTEMPESTIVIDADE EVIDENCIADA.
+1. Conforme consta do Enunciado Administrativo n. 3, do Plenário do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+2. Nos termos do art. 1.003, § 6º, do CPC/2015, "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso".
+3. O presente apelo foi interposto na vigência do novo diploma processual e a comprovação da ocorrência de feriado local deu-se somente, posteriormente, quando da interposição do presente agravo interno. Impossibilidade. Precedente: AgInt no AREsp 957.821/MS, Corte Especial, julgado em 20/11/2017.
+4. Agravo interno não provido.
+A embargante, aduzindo a ocorrência de omissão, afirma que apresentou a comprovação do feriado, bem como alega que esta Corte possui o entendimento de possibilidade de comprovar a existência de feriado ou recesso local, posteriormente, isto é, por ocasião da interposição de agravo interno (fl. 450).
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ARTIGO 1.022 DO CPC/2015. VÍCIOS CONFIGURADOS.
+1. Esta Corte Superior tem atribuído efeitos infringentes aos embargos de declaração, em situações excepcionais, para corrigir premissa equivocada no julgamento, bem como nos casos em que o acolhimento dos embargos tiver como consectário lógico a alteração da decisão. Nesse sentido: EDcl no AgInt no REsp 1.824.019/RS, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 2/12/2020; EDcl no AgInt no AREsp 678.430/PR, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe 31/8/2020; EDcl no AREsp 1.583.988/RJ, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 5/5/2020.
+2. A Corte Especial do STJ, nos autos do REsp n. 1.813.684-SP, decidiu pela necessidade de comprovação da existência de feriado local no momento da interposição do recurso, tendo, porém, modulado os efeitos dessa orientação, a permitir aos recursos interpostos antes da publicação desse julgado a abertura de prazo para a demonstração da ocorrência da suspensão de prazo em virtude de feriado local.
+3. Embargos de declaração acolhidos, com efeitos infringentes, para anular o acórdão embargado e decisão desta Corte que o precedeu.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Esta Corte Superior tem atribuído efeitos infringentes aos embargos de declaração, em situações excepcionais, para corrigir premissa equivocada no julgamento, bem como nos casos em que o acolhimento dos embargos tiver como consectário lógico a alteração da decisão. Nesse sentido: EDcl no AgInt no REsp 1.824.019/RS, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 2/12/2020; EDcl no AgInt no AREsp 678.430/PR, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe 31/8/2020; EDcl no AREsp 1.583.988/RJ, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 5/5/2020.
+No caso, infere-se dos autos que a Presidência desta Corte, ao apreciar o agravo em recurso especial interposto pela ora embargante, registrou que "Mediante análise dos autos, verifica-se que a parte Recorrente foi intimada do acórdão recorrido em 06/02/2017, sendo o recurso especial interposto somente em 02/03/2017.Dessa forma, o recurso é manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias úteis, nos termos do art. 994, VI, c.c. os arts. 1.003, § 5.º, 1.029, e 219, caput, todos do Código de Processo Civil" (fl. 309) e, assim, não conheceu da insurgência recursal face a sua intempestividade.
+Referida decisão foi confirmada pelo colegiado da Primeira Turma (acórdão às fls. 384-389; 425-429).
+Com efeito, a Corte Especial do STJ, nos autos do REsp n. 1.813.684-SP,decidiu pela necessidade de comprovação da existência de feriado local no momento da interposição do recurso, tendo, porém, modulado os efeitos dessa orientação, a permitir aos recursos interpostos antes da publicação desse julgado a abertura de prazo para a demonstração da ocorrência da suspensão de prazo em virtude de feriado local.
+Assim, considerando que, no caso dos autos, o recesso forense do dia 27/02/2017, segunda-feira, foi devidamente demonstrado às fls. 350-352, comprovando a tempestividade do recurso especial, cabe o acolhimento dos presentes embargos de declaração.
+Ante o exposto, acolho os embargos de declaração, com efeitos infringentes, para anular os acórdãos (fls. 384-389 e 425-429), bem como a decisão monocrática de fls. 309, determinando o retorno dos autos ao Gabinete para nova apreciação.
+É como voto.
