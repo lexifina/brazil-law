@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 13/09/2022 a 19/09/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Impedido o Sr. Ministro Moura Ribeiro.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de agravo interno interposto por RÁDIO E TELEVISÃO BANDEIRANTES S.A. em face de decisão proferida pela Presidência deste Superior Tribunal de Justiça, que não conheceu dorecurso especial e do agravo em recurso especialinterpostos pelaora agravante, em virtude da intempestividade eda ausência de regularização da representação processual.
+Nas razões do agravo interno, arecorrentealega, em síntese, que:(a) "quando do protocolo do Recurso Especial foi informada a ocorrência de diversos fatores que prorrogaram a tempestividade do recurso, quais sejam: o Decreto nº 60.131 de 18 de março de 2021 que antecipou para 26, 29, 30 e 31 de março de 2021 diversos feriados no Município de São Paulo, tendo sido acolhido pelo TJ-SP através do Provimento CSM nº 2603/2021 (fls. 72) com a suspensão de prazos processuais nos referidos dias em primeira e segundainstância" (e-STJ fl. 165); (b) "foi também noticiado no momento da interposição do Recurso Especial sobre os feriados de Endoenças, Sexta-Feira Santa e Tiradentes, em 01º.04.2021, 02.04.2021 e 21.04.2021, respectivamente, previstos no Provimento CSM nº 2584/2021 (fls. 72/73)" (e-STJ fl. 166); e (c) "no momento do protocolo do Agravo em Recurso Especial foi informada a ocorrência de Feriado local, qual seja, Revolução Constitucionalista do Estado de São Paulo, no dia de 09 de Julho de 2021 (fls. 130 "Data Magna do Estado de São Paulo)" (e-STJ fl. 167).
+Afirma, ainda, que, "quanto à informação na r. decisão de que não for ajuntada a Procuração no prazo indicado, por um lapso, mesmo cumprido o prazo tempestivamente, ao anexar o arquivo, acabou sendo juntado a "peça de juntada" como documento, ou seja, foi anexada a petição de juntada duas vezes ao invés da cadeia de Procurações", tratando-se "de um lapso facilmentesanável, visto que no momento daquele protocolo (fls.153/154) a ora Agravante ainda ter ia prazo para sanar o lapso da juntada em duplicidade" (e-STJ fl. 168).
+A parte agravada apresentou impugnação (e-STJ fls. 230-236).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL.AUSÊNCIA DE CADEIA COMPLETA DE PROCURAÇÕES CONFERINDO PODERES AOSUBSCRITORDO RECURSO ESPECIAL E DO AGRAVO EM RECURSO ESPECIAL. DESCUMPRIMENTO DA DETERMINAÇÃO DE REGULARIZAÇÃO DA REPRESENTAÇÃO PROCESSUAL. ART. 76, § 2º, INCISO I, DO CPC/2015. MANUTENÇÃO DA DECISÃO AGRAVADA.
+AGRAVO INTERNO DESPROVIDO.
+VOTO
+Eminentes colegas, o agravo interno não deve ser provido.
+Ainda que se viesse a considerar comprovada a tempestividade do recurso especial e doagravo em recurso especial, o seu conhecimentoé obstado pela ausência de regularização da representação processual no prazo assinalado.
+Conforme destacado na certidão de fl. 149(e-STJ), não foi localizada nos autos a cadeia completa de procurações por meio das quais arecorrenteteriaoutorgado poderes aoadvogadosubscritordo recurso especial e do agravo em recurso especial, Dr. Daniel Dorsi Pereira.
+Nesse contexto, em observância ao que dispõe o caput do art. 76 do Código de Processo Civil de 2015, procedeu-se à intimação daagravante, para que regularizassea representação processual no prazo improrrogável de 5 (cinco) dias(e-STJ fl. 156).
+Contudo, transcorreu o prazo concedido e a partelimitou-se a apresentar a petição de fls. 153-154 (e-STJ), sem juntar aos autos qualquer instrumento de procuração.
+Assim, não merece reparos a decisão proferida pela Presidência deste Superior Tribunal de Justiça, que não conheceu dorecurso também em virtude do descumprimento da determinação para sanar a irregularidade em fase recursal, conforme consequência prevista no art. 76, § 2º, inciso I, do CPC/2015.
+Ressalta-se que, segundo entendimento consolidado neste Superior Tribunal de Justiça, incumbe à parte recorrente zelar pela demonstração da correta representação processual no ato de interposição do recurso, sobretudo após lhe ser concedida nova oportunidade para a regularização do vício.Não é capaz de socorrer a agravante, portanto, a alegação de que se trata de lapso sanável eo instrumento deprocuração estariapresente nos autos originários.
+Sobre o tema, confiram-se os seguintes julgados:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REINTEGRAÇÃO DE POSSE. AGRAVO DE INSTRUMENTO. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AUSÊNCIA DE PROCURAÇÃO DO SUBSCRITOR DO RECURSO ESPECIAL E DO AGRAVO. INTIMAÇÃO PARA A REGULARIZAÇÃO PROCESSUAL NÃO ATENDIDA NO PRAZO CONCEDIDO. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Ação de reintegração de posse.
+2. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+3. Nos termos da jurisprudência desta Corte, a ausência de instrumento conferindo poderes aos subscritores do recurso especial atrai a incidência da Súmula nº 115, segundo a qual, na instância especial é inexistente recurso interposto por advogado sem procuração nos autos.
+4. Tendo sido propiciada à parte a juntada da procuração, nos termos dos arts. 76 e 932, parágrafo único, ambos do NCPC, e não tendo sido cumprida a exigência no prazo determinado, inviável o provimento do recurso.
+5. Esta Corte de Justiça já assentou o entendimento de que a dispensa da juntada de procuração em processos eletrônicos, prevista no art. 1.017, § 5º, do CPC/2015, não se estende ao recurso especial ou ao agravo contra a sua inadmissibilidade, porquanto a aplicação do referido dispositivo é específica da classe processual "agravo de instrumento" (AgInt nos EDcl no AREsp 1.704.046/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 1º/3/2021, DJe 3/3/2021).
+6. Agravo interno não provido.
+(AgInt no AREsp 1893268/RJ, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 27/09/2021, DJe 30/09/2021)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL.REPRESENTAÇÃO PROCESSUAL IRREGULAR NO RECURSO ESPECIAL E NO AGRAVO DO ART. 1.042 DO CPC/2015 NÃO SANEADA TEMPESTIVAMENTE. PRECLUSÃO.CONHECIMENTO INVIÁVEL. DISPENSA DA JUNTADA DE CÓPIAS DE PROCURAÇÃO CONSTANTE DE AUTOS ELETRÔNICOS ORIGINÁRIOS (ART. 1.017, § 5º, DO CPC/2015). INAPLICABILIDADE. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. Nos termos do artigo 76, § 2º, I, do Código de Processo Civil de 2015, não se conhece do recurso quando a parte recorrente descumpre a determinação para a tempestiva regularização da representação processual.
+2. Segundo entendimento desta Corte, "a dispensa da juntada de procuração em processos eletrônicos, prevista no art. 1.017, § 5º, do CPC/2015, não se estende ao recurso especial ou ao agravo contra a sua inadmissibilidade, porquanto a aplicação do referido dispositivo é específica da classe processual "agravo de instrumento"" (AgInt nos EDcl no AREsp 1.704.046/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 1º/03/2021, DJe de 03/03/2021).
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1782098/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 31/05/2021, DJe 01/07/2021)
+Portanto, deve ser mantida, por seus próprios fundamentos, a decisão recorrida, tendo em vista que não foram trazidos elementos aptos a desconstituí-la.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
