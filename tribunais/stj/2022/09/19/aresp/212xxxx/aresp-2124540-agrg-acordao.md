@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região) e Laurita Vaz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Trata-se de agravo regimental interposto por Leandro Alípio da Cruz contraa decisão monocrática, de minha lavra, assim ementada (fl. 704):
+AGRAVO EM RECURSO ESPECIAL. USO DE DOCUMENTO FALSO E RECEPTAÇÃO. VIOLAÇÃO DO ART. 386, III, DO CPP. PLEITO DE APLICAÇÃO DO PRINCÍPIO DA CONSUNÇÃO. INADMISSIBILIDADE.AUSÊNCIA DE COMANDO NORMATIVO SUFICIENTE (SÚMULA 284/STF) E SÚMULA 7/STJ.
+Agravo conhecido para não conhecer do recurso especial.
+Nas razões, rechaçou os óbices que subsidiaram a inadmissão do recurso especial (Súmulas 284/STF e 7/STJ) e reiterou a procedência da tese deduzida do recurso (aplicação do princípio da consunção), pugnando pela reforma da decisão agravada.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. USO DE DOCUMENTO FALSO E RECEPTAÇÃO. VIOLAÇÃO DOS ARTS. 386, III, DO CPP E 304, C/C O 297, AMBOS DO CP. PLEITO DE APLICAÇÃO DO PRINCÍPIO DA CONSUNÇÃO. INADMISSIBILIDADE. AUSÊNCIA DE COMANDO NORMATIVO SUFICIENTE (SÚMULA 284/STF). TEMA QUE DEMANDA O REEXAME DE ELEMENTOS DE FATO E PROVA. SÚMULA 7/STJ.
+Agravo regimental improvido.
+VOTO
+A decisão agravada deve ser mantida, pois orecurso especial é inadmissível.
+Primeiro, porque nenhum dos dispositivos indicados como violados (arts. 304, c/c o 297, ambos do CP, e 386, III, do CPP)versaacerca da aplicação do princípio da consunção, ou seja,nenhum deles ostenta comando normativo suficiente para respaldar a tese recursal (Súmula 284/STF):
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. VIOLAÇÃO AO ART. 1.022 DO CPC. INOCORRÊNCIA. ALEGAÇÃO GENÉRICA DE OFENSA A DISPOSITIVO DE LEI FEDERAL. AUSÊNCIA DE COMANDO NORMATIVO EM DISPOSITIVO LEGAL APTO A SUSTENTAR A TESE RECURSAL. AUSÊNCIA DE COMBATE A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO. RAZÕES RECURSAIS DISSOCIADAS. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DAS SÚMULAS N. 283 E 284/STF. VIOLAÇÃO AOS ARTS. 1º, 150 E 153 DA CONSTITUIÇÃO DA REPÚBLICA. IMPOSSIBILIDADE DE ANÁLISE EM SEDE DE RECURSO ESPECIAL. COMPETÊNCIA DO STF. ACÓRDÃO RECORRIDO ASSENTADO EM FUNDAMENTOS CONSTITUCIONAIS. IMPOSSIBILIDADE DE REVISÃO EM SEDE DE RECURSO ESPECIAL. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. INADEQUADA AO CASO CONCRETO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - A Corte de origem apreciou todas as questões relevantes apresentadas com fundamentos suficientes, mediante apreciação da disciplina normativa e cotejo ao posicionamento jurisprudencial aplicável à hipótese. Inexistência de omissão, contradição ou obscuridade.
+III-Revela-se deficiente a fundamentação do recurso quando:(i) a parte deixa de impugnar fundamento suficiente para manter o acórdão recorrido, apresentando razões recursais dissociadas dos fundamentos utilizados pela Corte de origem; (ii) a arguição de ofensa ao dispositivo legal é genérica; e (iii)os dispositivos apontados como violados não têm comando normativo suficiente para infirmar os fundamentos do aresto recorrido. Incidência, por analogia, das Súmulas n. 283 e 284/STF.
+IV - É entendimento pacífico desta Corte que o recurso especial possui fundamentação vinculada, não se constituindo em instrumento processual destinado a examinar possível ofensa à norma Constitucional, bem como a revisar acórdão com base em fundamentos eminentemente constitucionais, tendo em vista a necessidade de interpretação de matéria de competência exclusiva da Suprema Corte.
+V - A parte deve proceder ao cotejo analítico entre os arestos confrontados e transcrever os trechos dos acórdãos que configurem o dissídio jurisprudencial, sendo insuficiente, para tanto, a mera transcrição de ementas.
+VI - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VII - Agravo Interno improvido.
+(AgInt nos EDcl no REsp n. 1.973.531/PR, Ministra Regina Helena Costa, Primeira Turma,DJe 22/6/2022- grifo nosso)
+Segundo, porque a questão atinente à aplicação do princípio da consunção envolve a análise de circunstâncias de fato e prova, o que é inviável em sede de recurso especial (Súmula 7/STJ).
+Nesse sentido, confira-se:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CRIMES DE USO DE DOCUMENTO FALSO E RECEPTAÇÃO. ARTIGOS 180, 304 C/C 299, TODOS DO CÓDIGO PENAL - CP. PRINCÍPIO DA CONSUNÇÃO. INAPLICABILIDADE. SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVANTE DO ART. 61, II, DO CÓDIGO PENAL. INCIDÊNCIA. PRÁTICA DE UM DELITO PARA A ASSEGURAR A EXECUÇÃO DE OUTRO. AGRAVO DESPROVIDO.
+1.Tendo a instância ordinária, soberana na análise do conjunto probatório, afastado a aplicação do princípio da consunção e entendido que a conduta do recorrente se subsume aos tipos descritos nos arts. 180, 304 c/c 299, todos do CP, pois o o uso do documento falso (CRLV) e a receptação não se relacionam, não sendo possível afirmar que um figurou como meio necessário para a consumação do outro, a alteração desse entendimento demandaria incursão no universo fático-probatório da demanda.
+2. A agravante do art. 61, II, b, do Código Penal é aplicável aos casos em que determinado delito é praticado para facilitar ou assegurar a execução, a ocultação, a impunidade ou vantagem de outro crime, tal como se deu na hipótese, pois o ora agravante fez uso de Certificado de Registro e Licenciamento de Veículo (CRLV) ideologicamente falso com o fim de burlar a fiscalização policial rodoviária e ocultar a prática do crime de receptação. .
+3. Agravo regimental desprovido.
+(AgRg no REsp n. 1.899.205/MS, Ministro Joel Ilan Paciornik, Quinta Turma,DJe 24/6/2021 - grifo nosso)
+Ante o exposto, nego provimento ao agravo regimental.
