@@ -1,0 +1,55 @@
+DECISÃO:
+
+    1. Trata-se de reclamação, com pedido liminar, ajuizada por Roberto da Cunha Souza e outros em face de decisão da Juíza de Direito da Vara Cível, de Família e de Órfãos e Sucessões do Núcleo Bandeirante/DF proferida nos Autos nº 0041849-55.2015.8.07.0001. A presente reclamação foi a mim distribuída por prevenção, justificada pela Rcl 50.966.
+
+    2. É o breve relatório. Decido.
+
+    3. Dispenso as informações, devido à suficiente instrução do feito, bem como a manifestação da Procuradoria-Geral da República, diante do caráter reiterado da matéria (RI/STF, art. 52, parágrafo único). Deixo, ademais, de determinar a citação da parte beneficiária da decisão reclamada, em face da manifesta inviabilidade do pedido.
+
+    4. A Rcl 50.966 foi anteriormente ajuizada pela parte ora reclamante em face, igualmente, de decisão da Juíza de Direito da Vara Cível, de Família e de Órfãos e Sucessões do Núcleo Bandeirante/DF, proferida nos Autos nº 0041849-55.2015.8.07.0001. Naquela ocasião, a autoridade reclamada determinou a reintegração na posse de imóvel localizado no Park Way, com desocupação da área onde residem os ora reclamantes e suas famílias, bem como autorizou a remoção de seus bens ao depósito público, se necessário.
+
+    5. Por decisão já transitada em julgado, neguei seguimento ao feito, sob o fundamento de que a situação dos autos não se amoldava de modo estrito às hipóteses e exceções estabelecidas na decisão cautelar proferida na ADPF 828.
+
+    6. A presente reclamação foi proposta em face de decisão da mesma autoridade reclamada que, tendo em conta a decisão por mim proferida na Rcl 50.966, apenas confirmou a ordem de imissão na posse do imóvel. Na inicial, a parte reclamante limita-se a reiterar o alegado na primeira reclamação, sem indicar, no entanto, o paradigma de controle. De modo que reitero os fundamentos lá externados, nos seguintes termos:
+
+    “12. Ao prestar as informações solicitadas por esta Corte, a autoridade reclamada registra que tinha ciência do julgamento da ADPF 828 por esta Corte, contudo, não vislumbrou ser aplicável ao caso em julgamento, uma vez que não se trata de ocupação coletiva, mas apenas de duas famílias.
+
+    13. A parte beneficiária, por sua vez, pugna pela revogação da liminar, reforçando o argumento de que a hipótese não se enquadra como área de ocupação coletiva, tendo em vista que lá residem apenas duas/três famílias, ocupando três imóveis edificados em duas frações de 2.500m², de forma individual e absolutamente independentes, diferentemente do que sustentaram na peça inicial da presente reclamação. Acrescenta que ‘os Reclamantes não são pessoas que possam ser consideradas socialmente vulneráveis, porquanto trata-se de empresários que estão no caso concreto se aproveitando da vulnerabilidade da Legislação, para no caso de pandemia se aproveitarem da sensibilidade da Colenda Corte de Justiça e induzir o nobre Relator a possível erro’. Informa que as residências em análise estão situadas em área nobre de Brasília – Setor de Mansões Park Way - e foram construídas com piscinas, churrasqueiras e paisagismo, cujo valor de mercado de cada fração ultrapassa cerca de R$ 1.000.000,00 (um milhão de reais), sem contar as edificações, de acordo com anúncios retirados de portais de venda de imóveis na região.
+
+    14. Do que consta nos autos, convenço-me de que o caso concreto não se amolda de modo estrito às hipóteses e exceções estabelecidas na decisão cautelar proferida na ADPF 828.
+
+    15. A controvérsia, na origem, envolve apenas três imóveis, o que, a princípio, não configuraria posse coletiva, afastando a aplicação do paradigma suscitado. Acrescento que, ao analisar os documentos acostados aos autos pela parte beneficiária — entre eles fotos aéreas das residências que revelam se tratar de imóveis de alto padrão; anúncios de venda de residências na mesma região, que corroboram o elevado valor dos imóveis; além de contratos que comprovam serem os reclamantes empresários —, concluo que os autores não preenchem os requisitos delimitados pela ADPF 828, quais sejam, vulnerabilidade e desproteção.
+
+     16. Desse modo, não há relação de estrita aderência entre o ato reclamado e o paradigma invocado, requisito indispensável à propositura da reclamação. Nesse sentido, confiram-se os seguintes julgados, entre outros: Rcl 6.040-ED, Rel. Min. Teori Zavascki; Rcl 11.246-AgR, Rel. Min. Dias Toffoli; e Rcl 21.409, sob a minha relatoria.
+
+    17. Por fim, vale ressaltar que, nos termos da sentença proferida na ação de imissão na posse (Autos nº 0041849-55.2015.8.07.0001), ficou demonstrada a inaptidão dos ora reclamantes em confirmar a alegada falsidade do documento utilizado para comprovar a aquisição da área em questão pela empresa Foco Construtora e Incorporadora de Imóveis Ltda. Ademais, o Juízo da Vara Cível, de Família e de Órfãos e Sucessões do Núcleo Bandeirante/DF declarou que os reclamantes deveriam ter ajuizado ação rescisória para tal finalidade, amparados no art. 485, VI, do CPC/73. Nada obstante, apenas ajuizaram tal ação em setembro de 2021, oito anos depois do trânsito em julgado e para discutir a ausência de regularidade da intimação, pois direcionadas ao estagiário (Processo nº 0731187-81.2021.8.07.0000).
+
+    18. Nesse cenário, o Juízo de 1º grau reconheceu a ocorrência de posse injusta, bem como o consequente direito de propriedade da empresa beneficiária sobre o imóvel objeto dos autos. Extraio trecho pertinente da referida decisão:
+
+    ‘II. Fundamentação
+
+    O processo em análise tem por fundamento o direito de propriedade sobre a Fração ‘A’ do imóvel situado no SMPW Quadra 8, conjunto 5, lote 4, Núcleo Bandeirante. A certidão de registro de imóveis foi juntada no ID 37631975 - Pág. 10 a 17, fruto de adjudicação compulsória determinada nos autos do processo de nº 2011.01.1.052666-7, que tramitou perante a 12ª Vara Cível de Brasília. Os réus argumentam que o documento utilizado para comprovar a aquisição é falso e, para tanto, apresentaram o laudo de exame grafodocumentoscópico de ID 98915608. Contudo, tal documento, por si só, não é capaz de afastar a coisa julgada. Os requeridos deveriam ter ajuizado ação rescisória para tal finalidade, amparados no art. 485, VI, do CPC/73. Nada obstante, apenas ajuizaram tal ação em setembro de 2021, oito anos depois do trânsito em julgado e para discutir a ausência de regularidade da intimação, pois direcionadas ao estagiário (processo nº 0731187-81.2021.8.07.0000). A petição inicial foi indeferida. Existe, portanto, coisa julgada a respeito do direito de propriedade sobre o imóvel objeto dos autos e o proprietário tem, conforme prescreve o art. 1.228 do CC, o direito de reaver a coisa do poder de quem quer que injustamente a possua ou detenha.A posse injusta, prevista no art. 1.228 do CC é mais ampla que aquela prevista no art. 1.200, pois ainda que não decorrente de violência, clandestinidade ou precariedade, não é oponível ao titular registral se não tiver causa subjacente ou passível de se convolar em propriedade. Assim é que o locatário não pode ter sua posse legítima perturbada pelo proprietário-locador. Mas entre as partes não existe causa de posse. Os réus poderiam arguir a aquisição da posse por usucapião, mas não o fizeram nem provaram seus requisitos. Os réus já sustentaram o exercício da posse em outras oportunidades, mas o direito lhes foi negado (ID 37631975 - Pág. 57 a 73). Já há coisa julgada a respeito da ausência de posse de boa-fé. Observe-se que a transmissão da propriedade se dá com o registro de títulos e, se a arrematante CONASA porventura alienou os direitos a pessoas diversas a questão deve ser resolvida, se o caso, pela indenização das benfeitorias realizadas, mas não há aptidão para obstar o exercício do direito de reivindicação pelo real proprietário. Portanto, não havendo prévia desconstituição do título registral, a autora tem direito de ser imitida na posse do imóvel de sua propriedade.
+
+    III. Dispositivo
+
+    Diante do exposto, resolvo o mérito da causa e, nos termos do art. 487, I, do CPC, julgo procedente o pedido para determinar a imissão da autora na posse do imóvel localizado no SMPW Quadra 8, conjunto 5, lote 4, caracterizado como Fração ‘A’, equivalente a 5.000m² (matrícula nº 11.274, do 4º Ofício de Registro de Imóveis do DF).’
+
+    7. Ademais, o feito é manifestamente incabível quanto às alegações de serem os reclamantes os legítimos possuidores de boa-fé do referido imóvel; de direito de usucapião; de existência de fraude na transferência da titularidade do imóvel à empresa Foco Construtora e Incorporadora de Imóveis Ltda.; de violação ao contraditório e à ampla defesa; de decisões contraditórias do mesmo juízo.
+
+    8. A reclamação dirigida a esta Corte só é cabível quando se tratar de (i) usurpação de sua competência ou de (ii) ofensa à autoridade de suas decisões (CRFB/1988, arts. 102, I, l, e 103-A, § 3º). A alegação de ofensa a direito objetivo não dá ensejo à propositura de reclamação. No segundo caso, exige-se, ainda, que o pronunciamento tenha sido proferido em processo subjetivo no qual o reclamante figurou como parte, ou então que tenha efeito vinculante (art. 988, II a IV, e § 5º, II) — o que não é a hipótese dos autos. Neste sentido, confiram-se os seguintes julgados, entre outros: Rcl 4.381-AgR, Rel. Min. Celso de Mello; Rcl 5.391— AgR, Rel. Min. Dias Toffoli; Rcl 23.051-AgR, sob a minha relatoria; Rcl 28.745 AgR-ED, Rel. Min. Gilmar Mendes; Rcl 48.705-AgR, Rel. Min. Dias Toffoli; Rcl 50.371-ED, Rel. Min. Rosa Weber.
+
+    9. Tal conclusão não significa o acerto ou desacerto do ato reclamado, mas apenas que a reclamação não se presta à análise de suposta desconformidade de ato com o direito objetivo. Caso entenda pertinente, a parte reclamante deve utilizar meio processual próprio para fazer valer os seus argumentos. Nas palavras do Ministro de Celso de Mello, a reclamação “não se qualifica como sucedâneo recursal nem configura instrumento viabilizador do reexame do conteúdo do ato reclamado, eis que tal finalidade revela-se estranha à destinação constitucional subjacente à instituição dessa medida processual” (Rcl 4.381-AgR).
+
+    10. Por fim, advirto que o uso de meios processuais manifestamente inadmissíveis gera efeitos danosos à prestação jurisdicional, tomando tempo e recursos escassos desta Corte. Assim, eventual recurso apresentado com base nos mesmos fundamentos da inicial implicará a imposição de multa por litigância de má-fé, nos termos no art. 80 e seguintes do CPC/2015.
+
+    11. Diante do exposto, com fundamento no art. 21, § 1º, do RI/STF, nego seguimento à reclamação, ficando prejudicado o pedido liminar. Sem honorários, porquanto não citada a parte beneficiária.
+
+    12. Em caso de interposição de recurso, deve a parte reclamante juntar cópia da decisão reclamada (cujo conteúdo foi apenas transcrito na inicial), sob pena de não conhecimento do apelo.
+
+    Publique-se.
+
+          Brasília, 19 de setembro de 2022.
+
+Ministro LUÍS ROBERTO BARROSO
+
+Relator
