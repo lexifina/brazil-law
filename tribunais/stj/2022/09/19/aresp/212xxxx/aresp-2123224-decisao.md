@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo interposto por CELIA PEREIRA DE SOUSA, contra a decisão que inadmitiu o recurso especial. O apelo extremo fundamentado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal desafia o acórdão proferido pelo Tribunal de Justiça do Estado de Tocantins assim ementado:
+"AGRAVO DE INSTRUMENTO - INSURGÊNCIA CONTRA A DECISÃO QUE REJEITOU A IMPUGNAÇÃO APRESENTADA E A ALEGAÇÃO DE PRESCRIÇÃO INTERCORRENTE, DETERMINANDO A BUSCA VIA RENAJUD DE BENS DOS EXECUTADOS - AUSÊNCIA DE NULIDADE PROCESSUAL - COMPARECIMENTO ESPONTÂNEO DA AGRAVANTE - ART. 214, §2º, CPC/73 - REGULARIDADE DOS DEMAIS ATOS PRATICADOS - AGRAVO DE INSTRUMENTO CONHECIDO E IMPROVIDO.
+1- Ausência de nulidade processual decorrente de eventual ausência de citação da parte executada, ora agravante, considerando o seu comparecimento espontâneo aos autos desde o ano de 1995, conforme se extrai do evento 1, fls 89 e 101 dos autos originários. As citações e intimações tem por finalidade das conhecimento do processo às partes e, no caso em comento, houve o devido conhecimento de todos os atos processuais praticados desde o comparecimento espontâneo da parte ora recorrente, não se havendo falar em nulidade de todos os demais atos praticados.
+2- No mais, na forma do art. 214, §1º, CPC/73 (vigente à época, com correspondente no art. 239, §1º, do CPC/15), o comparecimento espontâneo do réu supre a falta de citação. Não há nulidades a serem apreciadas, inclusive em se observando que a ora agravante apresentou embargos executórios e apresentou sua defesa, não se havendo falar ainda em afronta ao devido processo legal.
+3- A agravante não pode se beneficiar da arguição de nulidade da citação, eis que compareceu devidamente aos atos processuais praticados, tinha conhecimento da demanda executória, aperfeiçoando todos os atos praticados pelo Magistrado, em especial o chamamento do executado para responder ao processo.
+4- Assim, em não se havendo falar em nulidade da citação, descabido o pedido de nulidade dos atos praticados, ou de desarquivamento de outros processos, bem como de necessidade de revogação da decisão de pesquisa de bens executáveis, restando mantida a decisão proferida pelo Magistrado de piso. Não se vislumbra a existência de qualquer vício ou nulidade capaz de macular a decisão proferida.
+5- Agravo de instrumento conhecido e improvido"(fls. 299-300, e-STJ).
+No especial, a recorrente aponta além de dissídio jurisprudencial, a violação dos arts. 214, §§ 1º e2º, do Código de Processo Civil de 1973, defendendo que houveinterpretação equivocada ao dispositivo em questão.
+Sustenta em síntese, que a citação da parte não se confunde com a intimação do ato processual, cujas naturezas processuais são distintas. Assim, deveser reconhecidaa nulidade do feito pela ausência de citação pessoal da agravante.
+Ressalta que, a legislação processual prevê o suprimento da citação pessoal do réu mediante comparecimento espontâneo nos autos, exclusivamente antes da garantia do juízo. Assim, não se aperfeiçoa a citação após a penhora"sob pena de inversão da norma que visa condicionar ao devedor o pagamento espontâneo de sua dívida sem constrição patrimonial"(fl. 316, e-STJ).
+Postula ao final, a reforma do acórdão estadual para reconhecer a nulidade absoluta do feito pelafalta de citação pessoal darecorrente.
+Com as contrarrazões e inadmitido o recurso na origem, sobreveio o presente agravo, no qual se busca o processamento do apelo nobre.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo presente recurso especial foi publicado em data anterior à publicação da Emenda Constitucional nº 125, não se aplicando ao caso o requisito de admissibilidade por ela inaugurado, ou seja, a demonstração da relevância da questão de direito federal infraconstitucional.
+A irresignação não merece prosperar.
+Com efeito, o aresto recorrido consignou ocomparecimento espontâneoda recorrente, que teve, inclusive, oportunidade para se defender, o que supriria eventualnulidadedacitação.
+Eis a letra do acórdão na parte que interessa:
+"(..) coaduno com o entendimento verberado pelo MM. Juiz Singular em sua decisão, no que tange à ausência de nulidade processual decorrente de eventual ausência de citação da parte executada, ora agravante, considerando o seu comparecimento espontâneo aos autos desde o ano de 1995, conforme se extrai do evento 1, fls 89 e 101 dos autos originários.
+Conforme bem descreve o Douto Magistrado da instância de piso, as citações e intimações tem por finalidade das conhecimento do processo às partes e, no caso em comento, houve o devido conhecimento de todos os atos processuais praticados desde o comparecimento espontâneo da parte ora recorrente, não se havendo falar em nulidade de todos os demais atos praticados.
+No mais, na forma do art. 214, §1º, CPC/73 (vigente à época, com correspondente no art. 239, §1º, do CPC/15), o comparecimento espontâneo do réu supre a falta de citação. Não há nulidades a serem apreciadas, inclusive em se observando que a ora agravante apresentou embargos executórios e apresentou sua defesa, não se havendo falar ainda em afronta ao devido processo legal.
+A agravante não pode se beneficiar da arguição de nulidade da citação, eis que compareceu devidamente aos atos processuais praticados, tinha conhecimento da demanda executória, aperfeiçoando todos os atos praticados pelo Magistrado, em especial o chamamento do executado para responder ao processo"(fl. 301, e-STJ).
+De fato, a jurisprudência desta Corte preleciona que "ocomparecimento espontâneodo réu ao juízo supre eventual ausência decitação" (REsp 1.401.198/GO, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 24/9/2013, DJe 2/10/2013).
+Nesse mesmo sentido:
+"PROCESSO CIVIL E DIREITO CIVIL. RECURSO ESPECIAL. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. EXCESSO DEEXECUÇÃO.JUROS MORATÓRIOS.CABIMENTO DA EXCEÇÃO DE PRÉ-EXECUTIVIDADE. PRESCRIÇÃO DA PRETENSÃO DEEXECUÇÃODE VERBA HONORÁRIA DE SUCUMBÊNCIA. VIOLAÇÃO DO ART. 535 DO CPC. FIXAÇÃO DE HONORÁRIOS EM EXCEÇÃO DE PRÉ-EXECUTIVIDADE. NÃO OCORRÊNCIA DE VÍCIO DECITAÇÃO.
+(..)
+6. A superação da pessoa jurídica afirma-se como um incidente processual, razão pela qual pode ser deferida nos próprios autos, dispensando-se também acitaçãodos sócios, em desfavor de quem foi superada a pessoa jurídica, bastando a defesa apresentada a posteriori, mediante embargos, impugnação ao cumprimento de sentença ou exceção de pré-executividade. Precedentes.
+7. Ademais, ocomparecimento espontâneodo requerido supre a eventual ausência decitação(art.214,§ 1º, do CPC), máxime quando inexiste prejuízo, uma vez que o recorrente apresentou exceção de pré-executividade, que foi devidamente apreciada pelo órgão jurisdicional. Consoante cediço, não se anula ato processual cujo vício formal não impede seja atingida a sua finalidade. Precedentes.
+(..)
+13. Recurso especial de Solano Lima Pinheiro e outro não provido.
+Recurso especial de Naji Robert Nahas provido" (REsp 1.412.997/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 8/9/2015, DJe 26/10/2015).
+Além disso, rever as conclusões do Tribunal de origem, para entender que houve prejuízo a ensejar anulidadedos atos processuais, demandaria a análise de circunstâncias fático-processuais da causa, o que é é inviável no recurso especial pela incidência da Súmula nº 7/STJ.
+No mesmo sentido:
+"PROCESSUAL CIVIL. AGRAVO NO RECURSO ESPECIAL.EXECUÇÃO. CITAÇÃO.COMPARECIMENTO ESPONTÂNEO.REEXAME DE FATOS E PROVAS.INADMISSIBILIDADE. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ.
+- O reexame de fatos e provas em recurso especial é inadmissível.
+- O acórdão recorrido que adota a orientação firmada pela jurisprudência do STJ não merece reforma.
+- Agravo não provido" (AgRg nos EDcl no REsp 1.297.016/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 7/8/2012, DJe 10/8/2012).
+Por fim, nos termos dos artigos 541, parágrafo único, do CPC e 255, § 1º, do RISTJ, a divergência jurisprudencial com fundamento na alínea "c" do permissivo constitucional requisita comprovação e demonstração, esta, em qualquer caso, com a transcrição dos trechos dos acórdãos que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, não se oferecendo, como bastante, a simples transcrição de ementas sem realizar o necessário cotejo analítico a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Deixa-se de tratar dos honorários recursais (art. 85, § 11, do CPC/2015), tendo em vista que o recurso especial ao qual se negou provimento é oriundo de acórdão proferido por ocasião de julgamento de agravo de instrumento, sem fixação de honorários sucumbenciais.
+Publique-se.
+Intimem-se.
