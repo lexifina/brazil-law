@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de Ledi das Graças Florcoswski (Ledi das Graças Florcowski), apontando-se como autoridade coatora o Tribunal de Justiça de Santa Catarina (Apelação n.0000007-13.2018.8.24.0003).
+Consta dos autos que, após a decisão que inadmitiu o recurso especial, o causídico constituído, à época, interpôs agravo.Aduz a defesa que, por equívoco, a peça recursal mencionou agravo interno e que o Tribunal de origem,considerando tratar-se de erro grosseiro, deixou de encaminhar o feito para o Superior Tribunal de Justiça.
+Assevera, no entanto, que o agravo foi interposto tempestivamente; que o recurso foi devidamente fundamentado, sendo endereçado à autoridade competente; e as razões recursais, ao Tribunal de destino, havendo pedido expresso para que o feito fosse remetido a esta Corte.
+Sustenta ser o caso de mero erro material,queo recurso é adequado para a impugnação pretendida e preenche os pressupostos de admissibilidade, mas foi interposto com a denominação equivocada (fl. 6).
+Requer, então,a concessão da ordem no presente pedido de habeas corpus, visando à aplicação do principio da instrumentalidade das formas no caso concreto, cassando a decisão de origem, determinando a reanalise pela presidência/vice presidência, acerca do correto processamento do recurso interposto, devendo ser aberta vistas ao órgão ministerial e, após, as razões ascenderem ao tribunal destino (fl. 8).
+É o relatório.
+É firme a jurisprudência deste Superior Tribunal de Justiça no sentido de que o único recurso cabível da decisão de inadmissão do recurso especial é o agravo em recurso especial, previsto no art.1.042 do Código de Processo Civil. A interposição de qualquer outro configura erro grosseiro, afastando-se a possibilidade de aplicação do princípio da fungibilidade recursal.
+Nessa linha, confiram-se, entre tantos, estes julgados: AgRg no HC n. 582.042/SP,Ministro JORGE MUSSI, QUINTA TURMA, julgado em 9/6/2020, DJe 17/6/2020; e AgInt no AREsp n. 1.549.441/MS, Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 9/3/2020, DJe 12/3/2020.
+In casu, a despeito da correta interposição, de o recurso ter sido endereçado à autoridade competente (interposto no Tribunal de origem e razões ao Tribunal de destino - STJ) e de existir pedido expresso, tanto na peça de interposição quanto nas razões recursais (fl. 39 e 46),para remeter o feito ao Superior Tribunal de Justiça, a defesa fez constaro nomem iuris "agravo interno" (fls. 38, 40, 42, 46 e 47), quando deveria mencionar "agravo em recurso especial". Constata-se, ainda, da detida leitura das razões recursais (fls. 38/47), queo restante do recursoapresentou a estrutura do agravo em recurso especial, previsto no art.1.042 do Código de Processo Civil.
+Assim, considerando-se tratar de aparente erro material, tem-se a viabilidade de admissão do recurso, afastando-se, no presente caso, o formalismo exacerbado.
+Ante o exposto,concedo liminarmente a ordem, a fim de determinar ao Tribunal de Justiça de Santa Catarina que proceda ao processamento do agravo em recurso especial interposto pela ré, sendo desconsiderada a nomenclatura utilizada - agravo interno - na página de interposição e nas razões do referido agravo.
+Comunique-se, com urgência, ao Tribunal de Justiça e ao Juízo de primeiro grau, com envio de cópia da decisão.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. AGRAVO CONTRA DECISÃO QUE INADMITIU O RECURSO ESPECIAL (ART. 1.042 DO CPC). ERRO MATERIAL. EXCESSO DE FORMALISMO. EVIDENTE CONSTRANGIMENTO ILEGAL.
+Ordem concedida liminarmente nos termos do dispositivo.
