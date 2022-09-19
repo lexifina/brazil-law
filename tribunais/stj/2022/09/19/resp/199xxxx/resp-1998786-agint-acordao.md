@@ -1,0 +1,62 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 13/09/2022 a 19/09/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+Trata-se de agravo interno interposto por IPE AMARELO EMPREENDIMENTOS IMOBILIARIOS, inconformada com a decisão de fls. 468/471, integrada pela decisão de fls. 492/495, que deu provimento ao recurso especial para julgar improcedentes os pedidos formulados na inicial, em desfavor da recorrente, ITAÚ UNNIBANCO S.A, e conheceu do agravo interposto às fls. 404/422 pela ora agravante para negar provimento ao recurso especial.
+Em suas razões, o agravante aponta (a) que a decisão ora agravada implica em "reformatio in pejus" e cerceamento de direito ao erigir óbices e negar provimento ao agravo em recurso especial que não estavam indicados na decisão da Presidência do TJDFT, (b) que houve violação do efeito devolutivo (art. 1.034 do CPC/15), ao princípio da não surpresa (art. 10 do CPC/15), (c) que os precedentes colacionados não tratam da mesma hipótese prevista no recurso especial, de modo que a Súmula 83/STJ não se aplica no tocante aos honorários, (d) que não há que se falar em óbice das Súmulas 356/STF e 283/STF, pois os arts. 497 do CPC 3 254, "a" da Lei 6015/73 foram objeto de discussão e que o fundamento sobre a impossibilidade da baixa do gravame hipotecário contempla e repele o entendimento do acórdão de origem; e, (e) que é necessária a redução dos honorários advocatícios.
+Foi apresentada impugnação às fls. 523/528 e 530/543.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. O RECURSO ESPECIAL POSSUI JUÍZO BIFÁSICO DE ADMISSIBILIDADE. DECISÃO DO TRIBUNAL ESTADUAL NÃO VINCULA O SUPERIOR TRIBUNAL DE JUSTIÇA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 283/STF. ART 90 § 4º DO CPC/15. IMPOSSIBILIDADE DE APLICAÇÃO. CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. RECURSO DESPROVIDO.
+1. "O juízo de admissibilidade feito pelo Tribunal de origem não vincula esta Corte por se tratar de procedimento bifásico." (AgInt no REsp 1800322/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 20/04/2020, DJe 24/04/2020).
+2. Não enseja a interposição de recurso especial matéria que não tenha sido debatida no acórdão recorrido e sobre a qual não tenham sido opostos embargos de declaração, a fim de suprir eventual omissão. Ausente o indispensável prequestionamento, aplicando-se, por analogia, as Súmulas 282 e 356 do STF.
+3. A ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do acórdão recorrido atrai o óbice da Súmula 283 do STF, segundo a qual: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+4. Esta Corte Superior entende que "O art. 90, § 4º, do CPC/2015 insere, em nosso ordenamento jurídico, medida de estímulo à solução célere e efetiva das demandas judiciais, beneficiando o réu com a redução da verba honorária pela metade, sempre que reconheça a procedência do pedido e cumpra integralmente a obrigação, o que não é a hipótese dos autos." (AgInt no REsp n. 1.667.678/RS, relator Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 19/4/2021, DJe de 5/5/2021).
+5. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+Inicialmente, não há que se falar em "reformatio in pejus", cerceamento de direito ou violação aos arts. 10 e 1.034 do CPC/15, considerando que a decisão ora agravada conheceu do agravo em recurso especial, exercendo juízo de admissibilidade na segunda fase do procedimento bifásico.
+É entendimento desta Corte Superior que o juízo feito pelo Tribunal de origem não a vincula, senão vejamos:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. CESSÃO FIDUCIÁRIA. DECISÃO MANTIDA.
+1. "O juízo de admissibilidade feito pelo Tribunal de origem não vincula esta Corte, por tratar-se de um juízo bifásico, a permitir nova análise dos pressupostos pelo Superior Tribunal de Justiça" (AgInt no AREsp 1702177/AL, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 28/03/2022, DJe 30/03/2022).
+2. "A uníssona jurisprudência desta Corte assevera que a cessão fiduciária de direitos sobre títulos de crédito, constituindo a chamada "trava bancária", possuindo a natureza jurídica de propriedade fiduciária, não se sujeita aos efeitos da recuperação judicial (art. 49, § 3º, da Lei 11.101/2005)" (EDcl no AgInt no CC 165.963/AM, Rel. Ministro RAUL ARAÚJO, SEGUNDA SEÇÃO, julgado em 19/05/2020, DJe 29/05/2020).
+3. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp n. 1.977.985/RJ, relator Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 8/8/2022, DJe de 15/8/2022.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. RECURSO ESPECIAL POSSUI JUÍZO BIFÁSICO DE ADMISSIBILIDADE. DECISÃO DO TRIBUNAL ESTADUAL NÃO VINCULA O SUPERIOR TRIBUNAL DE JUSTIÇA. TRIBUNAL ESTADUAL EXTINGUIU A EXECUÇÃO POIS O TÍTULO EXECUTIVO NÃO POSSUI LIQUIDEZ E CERTEZA. MATÉRIA FÁTICA E PROBATÓRIA. REEXAME FÁTICO E PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7/STJ. MATÉRIAS QUE NÃO FORAM INVOCADAS NA APELAÇÃO. INOVAÇÃO RECURSAL E FALTA DE PREQUESTIONAMENTO. APLICAÇÃO POR ANALOGIA DAS SÚMULAS 282 E 356 DO STF. AGRAVO INTERNO DESPROVIDO.
+1. "O juízo de admissibilidade feito pelo Tribunal de origem não vincula esta Corte por se tratar de procedimento bifásico." (AgInt no REsp 1800322/SP, Rel. Ministra Maria Isabel Gallotti, 4ª Turma, julgado em 20/04/2020, DJe 24/04/2020).
+2. O eg. Tribunal estadual, com arrimo no acervo fático-probatório carreado aos autos, concluiu que o título executivo carece de liquidez e certeza. A pretensão de modificar esse entendimento, considerando as circunstâncias do caso concreto, demandaria revolvimento de matéria fático-probatória, o que é inviável em sede de recurso especial, ante o óbice da Súmula n. 7/STJ.
+3. Fica inviabilizado o conhecimento de tema trazido na petição de recurso especial, mas não debatido e decidido nas instâncias ordinárias, tampouco objeto de embargos de declaração para sanar eventual omissão, porquanto ausente o indispensável prequestionamento. Aplicação, por analogia, das Súmulas 282 e 356 do STF.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.423.743/SP, de minha relatoria, QUARTA TURMA, julgado em 7/12/2020, DJe de 1/2/2021.)
+Ademais, a alegação de violação ao art. 8 do CPC/15 foi formulado exclusivamente em sede de agravo interno, não podendo ser conhecida por representar inovação recursal.
+No mais, a irresignação não merece prosperar.
+Não há que se falar em prequestionamento sequer implícito da matéria contida nos arts.497 do CPC/15 e254 da Lei 6.015/73,uma vez que não se encontram contemplados no objeto da controvérsia resolvida pelo Tribunal de origem, tampouco foramobjeto de embargos de declaração, não se vislumbrando o prequestionamento necessário para viabilizar a interposição do presente recurso especial.
+Daí a inteligência do enunciado da Súmula nº 356 do Supremo Tribunal Federal, aplicada por analogia, a qual orienta que "o ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento".
+Nesse sentido:
+"AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. PRESCRIÇÃO. PROCESSO CIVIL. FALTA DE PREQUESTIONAMENTO. DIVERGÊNCIA JURISPRUDENCIAL. NÃO REALIZAÇÃO DO COTEJO ANALÍTICO. RECURSO DESPROVIDO.
+1. Aplicam-se as Súmulas n. 282 e 356 do STF quando as questões suscitadas no recurso especial não tenham sido debatidas no acórdão recorrido nem, a respeito, tenham sido opostos embargos declaratórios.
+(..)
+3. Agravo regimental desprovido." (AgRg no AREsp 544.459/MT, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 20/11/2014, DJe de 25/11/2014)
+Ademais,a Corte de origem afirmou que a agravante se obrigou contratualmente a proceder baixa no gravame do imóvel,in verbis:
+"Contudo, por disposição contratual expressa (cláusula 4.2), a ré se obrigou a proceder a baixa no gravame do imóvel que vendeu para os autores, de forma que não há como se afastar a obrigação que assumiu por livre vontade. Ademais, os autores mantêm relação jurídica apenas com a ré, que, por ter firmado a hipoteca, detém a responsabilidade em promover a baixa do referido ônus que recai sobre o imóvel quitado. Não obstante a Súmula 308 do Superior Tribunal de Justiça estabeleça que a hipoteca firmada entre a construtora e o agente financeiro não tem eficácia perante os adquirentes do imóvel, é obrigação da construtora retirar o gravame no prazo ajustado contratualmente" (e-STJ, fl. 246)
+O fundamento de que a baixa do gravame decorre de obrigação contratual não foi objeto de impugnação nas razões de recurso especial e é suficiente, por si só, a manter a decisão da Corte de origem, o que atrai, na hipótese, a incidência por analogia da Súmula 283 do Supremo Tribunal Federal.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283 DO STF. MONTADORA DE VEÍCULOS. CONCESSIONÁRIAS. SOLIDARIEDADE. DECISÃO MANTIDA.
+1. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF.
+2. "A fornecedora de veículos automotores para revenda - montadora concedente - é solidariamente responsável pelos atos de seus prepostos (concessionária) diante do consumidor, ou seja, há responsabilidade de quaisquer dos integrantes da cadeia de fornecimento que dela se beneficia. Precedentes" (AgRg no AREsp 629.301/SP, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 27/10/2015, DJe 13/11/2015).
+3. Agravo interno a que se nega provimento."
+(AgInt no AREsp 495.367/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 21/03/2017, DJe 28/03/2017)
+Por fim, o TJDFT afirmou que os honorários não devem ser reduzidos pois não houve o reconhecimento de forma expressa do pedido inicial nem o cumprimento da prestação determinada por sentença,in verbis:
+"Do excerto colacionado, denota-se que é condição para a redução dos honorários advocatícios pela metade o cumprimento da prestação reconhecida. No caso dos autos, a ré não procedeu à baixa no gravame e não reconheceu de forma expressa o pedido inicial, tanto o é que o Juízo de origem julgou o feito procedente com fundamento no art. 487, I, CPC, de sorte que não há ensejo para a aplicação da redução dos honorários advocatícios na forma do §4º do art. 90 do CPC/2015. (e-STJ, fl. 247)
+Nesse ponto, a decisão está em conformidade com o entendimento desta Corte Superior, sendo inafastável a incidência da Súmula 83/STJ.
+A propósito:
+PROCESSUAL CIVIL. HONORÁRIOS. AÇÃO COLETIVA. EXECUÇÃO INDIVIDUAL NÃO EMBARGADA. SUMULA 345/STJ. INCIDÊNCIA. ART. 90, § 4º, DO CPC/2015. APLICAÇÃO. IMPOSSIBILIDADE.
+1. Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3).
+2. De acordo com o enunciado da Súmula 345 do STJ, "são devidos honorários advocatícios pela Fazenda Pública nas execuções individuais de sentença proferida em ações coletivas, ainda que não embargadas".
+3.. O art. 90, § 4º, do CPC/2015 insere, em nosso ordenamento jurídico, medida de estímulo à solução célere e efetiva das demandas judiciais, beneficiando o réu com a redução da verba honorária pela metade, sempre que reconheça a procedência do pedido e cumpra integralmente a obrigação, o que não é a hipótese dos autos.
+3. Agravo interno desprovido.
+(AgInt no REsp n. 1.667.678/RS, relator Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 19/4/2021, DJe de 5/5/2021.)
+Ante todo o exposto, nego provimento ao agravo interno.
+É como voto.
