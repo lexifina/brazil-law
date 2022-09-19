@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de recurso especial interposto por ARMANDO MORETTIcom fundamento no artigo 105, III, "a" e "c", da Constituição Federal, contra contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"Cumprimento de sentença - Título judicial constituído nos autos de ação de cobrança - Oposição de embargos à penhora, na vigência da Lei n. 11.232/05, reformista do CPC de 1973, em vigor à época -Inadmissibilidade -Erro grosseiro - Inépcia da petição inicial reconhecida -Extinção do processo mantida, mas por outro fundamento -Assincronia entre o procedimento eleito e a natureza da causa (art. 295, inciso V, do CPC de 1973) - Extinção do processo mantida - Alteração "ex officio" do fundamento legal - Impenhorabilidade da pequena propriedade rural - Matéria de ordem pública, que pode ser arguida a qualquer tempo, enquanto o bem não for expropriado - Precedentes do Col. STJ - Recurso desprovido, com observação" (fl. 146, e-STJ).
+Os embargos declaratórios foramrejeitados (fl. 197-201, e-STJ).
+No recurso especial, o recorrente aponta, além de divergência jurisprudencial, violação dos artigos 277 e 283 do Código de Processo Civil de 1973, ao argumento de quedeve ser aplicado o princípio da fungibilidade para que os embargos à penhora sejam recebidos como impugnação (fls. 204-216, e-STJ).
+Contrarrazões às fls. 246-255, e-STJ.
+Após a conversão do agravo em recurso especial (fls. 292-293, e-STJ), o recurso veio concluso à esta relatoria.
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+Inicialmente ressalta-se que ""A determinação de reautuação do agravo não representa a satisfação dos requisitos de admissibilidade do recurso especial, o qual passará por novo juízo de admissibilidade, além da análise do mérito, se ultrapassado aquele.".(AgInt no AREsp 773.569/RJ, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 10/10/2017, DJe 18/10/2017)" (AgInt nos EDcl no AREsp1.341.190/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 26/2/2019, DJe de 6/3/2019).
+Ao reconhecer a inépcia da inicial, a Corte de origem afastou a aplicação do princípio da fungibilidade recursal,com base nos seguintes fundamentos:
+"Trata a hipótese de "embargos à penhora" opostos contra a constrição de bem imóvel na fase de cumprimento de sentença com trânsito em julgado nos autos de cobrança em que o embargante foi sucumbente.
+Sucedeu que a Lei n. 11.232/05 reformou o CPC de 1973 e deu outra diretriz à execução de título judicial, que deixou de ser autônoma, fundamentada em título formado na ação de conhecimento, e tornou-se uma das fases de um mesmo processo, que, portanto, passou a ser sincrético, forma mantida pelo CPC de 2015.
+Significa dizer que os embargos opostos para hostilizar as constrições realizadas perderam a razão de ser e a se considerar que, quando da oposição, já vigia a lei reformista, que previa a impugnação como meio de defesa nessa fase do processo, a teor do art.475-J, § 1º, do CPC de 1973, em vigor à época, atualmente tratada no art. 525 do CPC de 2015.
+E nem se invoque o princípio da instrumentalidade das formas, porquanto é erro crasso opor embargos à penhora como impugnação, a começar pelo procedimento, os primeiros com natureza jurídica de ação e a segunda como incidente de um mesmo processo, distinção que, inclusive, projeta efeitos na sistemática recursal de cada um, pois cabível o recurso de apelação nos embargos e o agravo de instrumento na impugnação.devedor, só viável diante da execução de titulo executivo extrajudicial, a adequação para impugnar a penhora na fase de cumprimento de sentença.
+Portanto, há inépcia na petição inicial ao fundamento de assincronia entre o procedimento eleito e a natureza da causa (art. 295, inciso V, do CPC de 1973).
+Não é possívelrelevar a atecnia do erro de oferecimento de uma peça por outra, em matéria que pode-se dizer é de conhecimento notório, cujo equivoco sempre será qualificado como erro grosseiro. 0 erro não é só de nomenclatura - embargos em lugar de impugnação - porque os prazos também são outros para a impugnação e para os i embargos do devedor.
+Toda a estrutura do processo sincrético, nas duas fases de conhecimento e de cumprimento, ficaria conturbada com a admissão da peça atécnica.
+Assim, fica mantida a r. sentença, apenas com alteração "ex officio" do fundamento legal para a extinção do processo, que passa a ser o art. 267, inciso I, c.c. art. 295, inciso V, ambos do CPC de 1973, em vigor à época" (fls. 147-148, e-STJ).
+Com efeito, a conclusão adotada no acórdão recorrido está em consonância com a jurisprudênciado STJ, o que atrai a aplicação da Súmula nº 83/STJ à espécie. A propósito:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. OBRIGAÇÃO ALIMENTAR. CUMPRIMENTO DE SENTENÇA. DEFESA CABÍVEL. DECISÃO DETERMINANDO O PAGAMENTO FULCRADA NO ART. 475 DO CPC/73. CABIMENTO DE IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA E NÃO EMBARGOS À EXECUÇÃO. PRECEDENTES. CASO CONCRETO EM QUE NÃO SE APLICA A FUNGIBILIDADE. INCIDÊNCIA DO ENUNCIADO 83/STJ. AGRAVO INTERNO DESPROVIDO" (AgInt no REsp1.691.947/DF, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 14/10/2019, DJe de 18/10/2019).
+Ressalta-se, ainda, que o TJSP deixou claro que a extinção dos embargos à penhora não traria prejuízos ao recorrente, visto que ele poderia suscitar a impenhorabilidade do bem de família, por simples petição nos autos. Veja-se:
+"Advirta-se, inclusive, sobre a admissibilidade de o executado arguir a impenhorabilidade da pequena propriedade rural sob exploração familiar através de singela petição nos autos do cumprimento de sentença, prescindindo, pois, de embargos do devedor ou impugnação extemporâneos.
+(..)
+Frise-se que a impenhorabilidade do imóvel rural não está restrita à moradia, mas à área entendida como pequena propriedade rural e, segundo orientação do Col. STJ, suscitável até o final da fase de execução" (fls. 148-149, e-STJ).
+Esse entendimento não destoa da jurisprudência do STJ, e não foi impugnado pelo recorrente. Aplica-se no particular, o óbice das Súmulas nºs 83/STJ e 283/STF. A propósito:
+"AGRAVO REGIMENTAL EM RECURSO ESPECIAL. EXECUÇÃO. BEM DE FAMÍLIA. IMPENHORABILIDADE. PRECLUSÃO. NÃO OCORRÊNCIA. COISA JULGADA. FUNDAMENTO NÃO ATACADO. SÚMULA Nº 283/STF.
+1. A impenhorabilidade do bem de família pode ser alegada a qualquer tempo, até mesmo por meio de simples petição nos autos da execução, não se sujeitando à preclusão.
+2. A teor da Súmula nº 283/STF, aplicada por analogia, não se admite recurso especial quando a decisão recorrida assenta-se em mais de um fundamento suficiente e o recurso não abrange todos eles.
+3. Agravo regimental não provido" (AgRg no REsp 1.365.490/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 16/2/2016, DJe de 23/2/2016).
+"RECURSO EM MANDADO DE SEGURANÇA. IMPENHORABILIDADE DE BEM DE FAMÍLIA. MEAÇÃO DE APARTAMENTO. PROTEÇÃO À INTEGRALIDADE DO BEM. TERCEIRA INTERESSADA. AUSÊNCIA DE INTIMAÇÃO. RECURSO PROVIDO EM PARTE.
+1.A impenhorabilidade de bem de família pode ser alegada, por simples petição, no curso do processo de execução.
+(..)
+4.Recurso ordinário em mandado de segurança parcialmente provido" (RMS 32.166/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 27/3/2012, DJe de 10/4/2012).
+A título de reforço argumentativo, não há falar em prejuízo, diante da possibilidade de se apresentar simples petição requerendo o reconhecimento da impenhorabilidade do bem de família. Incide a máxima pas de nullité sans grief. Confira-se:
+"AGRAVO REGIMENTAL NO AGRAVO (ART. 544 DO CPC) - EMBARGOS À EXECUÇÃO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO COM BASE NAS SÚMULAS 7 E 83 DO STJ. IRRESIGNAÇÃO DA EMBARGANTE.
+1. "A declaração de nulidade de atos processuais deve se dar com temperamento, sempre à luz da hipótese concreta, pois o regime de nulidades no processo civil vincula-se à efetiva ocorrência de prejuízo à parte, a despeito de eventual inobservância da forma prevista em lei (art. 244, CPC - princípio pas de nulitté sans grief)" (EDcl no REsp n. 1.424.304/SP, Relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 12/8/2014, DJe 26/8/2014).
+Tribunal a quo que asseverou inexistir prejuízo suportado pela parte, notadamente em razão de ter interposto o competente recurso no prazo legal. (..)" (AgRg no AREsp 233.342/CE, relator Ministro Marco Buzzi, Quarta Turma, julgado em 15/3/2016, DJe de 22/3/2016).
+Ante o exposto, nego provimento ao recurso especial.
+Não cabe, na hipótese, a majoração dos honorários sucumbenciais prevista no art. 85, § 11, do Código de Processo Civil de 2015, pois o recurso tem origem em sentença proferida sob a égide do CPC/1973, sem a prévia fixação de honorários.
+Publique-se.
+Intimem-se.
