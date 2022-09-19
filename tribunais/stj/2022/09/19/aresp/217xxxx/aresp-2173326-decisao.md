@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por GRUPO OK EMPREENDIMENTOS IMOBILIÁRIOS LTDA E OUTRA (GRUPO OK), contra decisão que negou seguimento ao seu apelo nobre manejado, por sua vez, contra acórdão do Tribunal de Justiça do Rio de Janeiro, assim ementado:
+APELAÇÃO CIVEL. ADJUDICAÇÃO COMPULSORIA. SENTENÇA DE PROCEDÊNCIA. APELO DOS 2ª E 3º RÉUS E DA AUTORA. Apelação dos réus quanto aos ônus sucumbenciais. No caso dos autos, o fato é que a autora não pode realizar o registro por uma série de pendências dentre elas que dependia das escrituras de compra e venda e promessa de cessão no título . Assim resta notório que a inércia da 2º e 3º Rés, ora Apelantes, trouxe, e ainda traz, o óbice à legítima pretensão da Autora/Apelada de exercer a plena propriedade de sua unidade habitacional. Dessa forma, em razão do princípio da causalidade deve a parte ré ser condenada a arcar com as custas processuais e os honorários advocatícios. Apelação autoral sustentando que a sentença foi citra petita uma vez que não se pronunciou sobre o direito a uma vaga de garagem indeterminada, no 1º, 2º ou 3º subsolo bem como não enfrentou e julgou o pedido de indenização por danos morais. Causa madura para julgamento. Aplicação do art. 1.013, § 3º, do CPC. A sentença foi realmente omissa quanto a garantia assentada na Escritura de Cessão de Direitos, em que também estabelece o direito a uma vaga de garagem indeterminada, no 1º, 2º ou 3º subsolo (index) devendo ser reformada para constar o direito a vaga de garagem. A ação de adjudicação compulsória é voltada a executar a transferência obrigatória de um bem imóvel, desde que cumpridas certas condições. Na sentença da ação, éobtida a carta de adjudicação, que substitui a lavratura de uma escritura definitiva do bem em questão. Danos morais. Prescrição configurada. NEGADO PROVIMENTO AO PRIMEIRO RECURSO. PROVIMENTO PARCIAL AO SEGUNDORECURSO AUTORAL(e-STJ, fls. 435/436)
+Os embargos de declaração opostos por GRUPO OKforam parcialmente providos(e-STJ, fls. 489/500).
+Irresignado,GRUPO OKinterpôsrecurso especial com base no art. 105, III, alíneasa e c, da CF, apontando a violação aos arts. 489, §1º, e 1.022 do NCPC, ao sustentarque(1)omissos os acórdãos por terem desconsiderado documentos dos autos que demonstram que a escritura de compromisso de compra e venda não prevê inclusão de vagas de garagem; contraditória a decisão que não especifica que o custos de averbaçãoda carta de adjudicação ficarão a cargo de ELIZABETH; omisso e contraditórioem relação a análise da apelação, restando comprovado nos autos o cumprimento das obrigações que lhe cabiam, sobretudo porque a permuta foi realizada bem antes de ajuizada a demanda, não tendo o GRUPO, portanto, dado causa ao seu ajuizamento, devendo a sucumbência ser suportada pela parte contrária; indicou dissídio em apoio àsua tese.
+O recurso não foi admitido peloTribunal de Justiça do Rio de Janeiro (e-STJ, fls. 549/552).
+Nas razões do presente agravo, GRUPO OKalegouque os fundamentos da decisão de inadmissibilidade não se sustentam.
+Foiapresentada contraminuta.
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que não merece prosperar.
+(1)Da ausência de violação dos arts. 489 e 1.022do NCPC
+Nas razões do seu recurso, GRUPO OKalegou a violação do art. 1.022, do NCPC em virtude daomissãodos acórdãos por terem desconsiderado documentos dos autos que demonstram que a escritura de compromisso de compra e venda não prevê inclusão de vagas de garagem; contraditória a decisão que não especifica que o custos de averbação da carta de adjudicação ficarão a cargo de ELIZABETH; omisso e contraditório em relação a análise da apelação, restando comprovado nos autos o cumprimento das obrigações que lhe cabiam, sobretudo porque a permuta foi realizada bem antes de ajuizada a demanda, não tendo o GRUPO, portanto, dado causa ao seu ajuizamento, devendo a sucumbência ser suportada pela parte contrária; indicou dissídio em apoio à sua tese.
+Contudo, verifica-se que o Tribunal estadualse pronunciou sobre os temas consignando:
+Vigora em nosso ordenamento processual civil o princípio da causalidade, que dispõe que a parte que deu causa à demanda ou ao incidente processual é quem deve arcar com as despesas deles decorrentes.
+Nesse diapasão, a parte que dá ensejo à instauração da demanda deve suportar inteiramente os ônus sucumbenciais, independentemente da existência de efetiva sucumbência.
+No caso dos autos, o fato é que a autora não pode realizar o registro por uma série de pendências dentre elas que dependia das escrituras de compra e venda e promessa de cessão no título .
+Assim resta notório que a inércia da 2º e 3º Rés, ora Apelantes, trouxe, e ainda traz, o óbice à legítima pretensão da Autora/Apelada de exercer a plena propriedade de sua unidade habitacional.
+Dessa forma, em razão do princípio da causalidade deve a parte ré ser condenada a arcar com as custas processuais e os honorários advocatícios.
+ ..
+Assim uma vez que o juiz proferiu a sentença em favor da apelante da ação de adjudicação compulsória, fará também a lavratura e assinatura da carta de adjudicação. Essa carta, então, deve ser levada ao Cartório de Registro de Imóveis. Lá dará andamento aos procedimentos para outorga da escritura pública definitiva.
+ ..
+ ..  deve ser reformada parcialmente a sentença para adjudicar à parte correspondente ao apartamento 1.707, do edifício Mar de Prata, localizado na Rua Henrique Cordeiro, nº 30, na Barra da Tijuca, servindo esta como título para o registro devendo constar o direito a uma vaga de garagem indeterminada, no 1º, 2º ou 3º subsolo conforme consta na Escritura de Cessão de Direitos (e-STJ, fls. 441/448).
+Deste modo, pelo que se dessume dos autos, o acórdão recorrido foi devidamente fundamentado, não se podendo falar em violação do art. 489 do NCPC, uma vez que o Tribunal Estadual se manifestou de forma fundamentada sobre todas as questões necessárias para o deslinde da controvérsia.
+O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+Ademais, inexistem os vícios elencados no art. 1.022 do NCPC, sendo forçoso reconhecer que a pretensão recursal ostenta caráter nitidamente infringente, visando rediscutir matéria que já foi analisada.
+A jurisprudência desta Casa é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+Nesse sentido, confira-se o seguinte precedente:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COMPENSAÇÃO POR DANOS MORAIS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA. AUSÊNCIA DE EXERCÍCIO ABUSIVO DO DIREITO DE IMPRENSA. DEVER DE VERACIDADE. OBSERVÂNCIA. DANOS MORAIS. INOCORRÊNCIA. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação dos arts. 489 e 1.022 do CPC/2015.
+(..)
+8. Agravo interno no recurso especial desprovido.
+(AgInt no REsp 1912545/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 11/05/2021, DJe 14/05/2021)
+Afasta-se, portanto, a alegada violação.
+Nessas condições, CONHEÇOdo agravo para CONHECERdo recurso especial e NEGAR-LHE provimento.
+MAJOROem 5% o valor dos honorários advocatícios anteriormente fixados em favor de ELIZABETH, limitados a 20%, nos termos do art. 85, § 11, do NCPC.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL.AGRAVO EM RECURSO ESPECIAL INTERPOSTO NA ÉGIDE DO NCPC.APELAÇÃO. ADJUDICAÇÃO COMPULSÓRIA. VAGA DE GARAGEM.OMISSÃO. INEXISTÊNCIA. DECISÃO SUFICIENTEMENTE FUNDAMENTADA.AGRAVO CONHECIDO. RECURSO ESPECIALCONHECIDO E NÃO PROVIDO.
