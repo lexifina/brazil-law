@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de agravo apresentado por CONSÓRCIO CONSTRUTOR CR ALMEIDA - SANTA BÁRBARA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO, assim resumido:
+RECURSO DE AGRAVO REGIMENTAL EM APELAÇÃO JULGADA MONOCRATICAMENTE - EMBARGOS MONITÓRIOS - AGRAVO DESPROVIDO.
+Se as razões do agravo regimental ou interno (art. 1.021, do NCPC) não infirmam os fundamentos da decisão agravada, de rigor o desprovimento do recurso.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega violação do arts. 1.013, caput e § 1º, e 1.014 do CPC, no que concerne à ausência de inovação recursal na apelação, uma vez que o pagamento à parte recorrida constou dos embargos à monitória, e à comprovação superveniente por meio de documentos juntados com o referido recurso, razão pela qual cabe ao Tribunal de origem decidir a questão e é devida a redução proporcional da multa por suposta defesa protelatória, trazendo o(s) seguinte(s) argumento(s):
+Está-se diante de recurso de apelação interposto contra sentença proferida em sede de ação monitória que concluiu que o Recorrente não comprovou ter efetuado a devolução dos valores retidos e, por isso, lhe condenou ao pagamento dos ônus de sucumbência e lhe impôs duas multas: uma de 1% por não ter comparecido à audiência de conciliação (CPC, art. 334, §8º) e outra de 5% por terem os embargos/defesa sido supostamente protelatórios (CPC, art. 702, §11).
+ ..
+No apelo, o Recorrente juntou dois comprovantes que demonstram que efetuou o pagamento do valor cobrado, ainda que parcial, tal como alegado na defesa, razão pela qual, nos termos do art. 1.014 do CPC, requereu a juntada desses documentos localizados supervenientemente e, em razão disso, requereu o provimento parcial para reduzir a condenação e afastar a multa por suposta defesa protelatória. Eis o que constou do apelo (Id. 110511550, grifo nosso)
+ ..
+Ao recorrer dessa decisão, o Recorrente demonstrou que não havia inovação na tese recursal, pois o tema do pagamento havia sido ventilado nos embargos à monitória apresentados como defesa. A única  novidade  seria a documentação juntada com o apelo que, nos termos do art. 1.014 do CPC, poderia acompanhar o recurso por ser documento localizado apenas recentemente. Lamentavelmente, o órgão julgador simplesmente ignorou a exposição feita.
+ ..
+Por todo o exposto, no entender do Recorrente, data venia, ao contrário do que concluiu o aresto recorrido, foram apresentadas razões suficientes para demonstrar o equívoco da conclusão da decisão monocrática que, por isso mesmo, merece ser revista, reconhecendo-se que o recurso de apelo não apresentou qualquer inovação recursal que impeça seu juízo positivo de admissibilidade. Em suma, é caso de reconhecer a ofensa aos dispositivos legais invocados, uma vez que o apelo interposto pelo Recorrente não encontra o óbice apontado para seu conhecimento (fls. 241/250).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+"DECIDO.
+O presente recurso não comporta conhecimento.
+Isso porque, acerca da tese de pagamento, tem-se que esta não foi apresentada ao juízo de 1º grau, mesmo tendo o apelante a possibilidade de conhecimento anterior de sua realização, conforme sustentado pelo apelado, em contrarrazões.
+ ..
+Assim, o presente recurso de agravo interno não merece provimento, visto que o agravante não traz argumentos relevantes para a modificação da decisão supracitada.
+Não há nas razões do agravo interno elementos que indiquem que a decisão ora agravada está em desacordo com os elementos existentes nos autos, razão pela qual merece a mesma ser mantida.
+Para fins de prequestionamento, se tem por inexistente a violação aos dispositivos legais apontado pela agravante e pertinente a todas as matérias em debate" (fls. 232/233).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
