@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 13/09/2022 a 19/09/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Humberto Martins.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Eletrobras interpôs agravo de instrumento (fls. 601-648) contra decisão que, acolhendo parcialmente a sua impugnação, determinou o prosseguimento da execução pelo valor apurado pela Contadoria judicial, com ajustes em atenção ao título executivo.O Tribunal regional negou provimento ao recurso da Eletrobras, conforme a seguinte ementa do acórdão:
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. EMPRÉSTIMO COMPULSÓRIO DE ENERGIA ELÉTRICA. CONVERSÃO DOS CRÉDITOS. ASSEMBLEIA GERAL ESPECÍFICA. Não cabe a conversão em ações dos créditos decorrentes do empréstimo compulsórioincidente sobre energia elétrica, nos termos do art. 3º do Decreto-Lei nº 1.512, de 1976, sem a realização de Assembleia Geral posterior ao trânsito em julgado da ação que os reconheceu, em que seja expressamente autorizada a destinação da quantia para tal fim.
+Eletrobras opôs embargos de declaração, que foram rejeitados pelo acórdão de fls. 763-769.
+Inicialmente, a parte recorrente alega ofensa ao art. 1.022 do CPC/2015. Sustenta que, embora tenha sido provocada por embargos de declaração, a Corte de origem deixou de se manifestar sobre questões relevantes ao deslinde da controvérsia.
+Prosseguindo, alega ofensa aos arts. 4º, § 9º, da Lei n.4.156/62 e2ª e 3º do Decreto-Lei n.1.512/76. Aduz haver equívoco na metodologia de cálculo adotada na execução, na conversão em ações determinada pela decisão recorrida, e afirma que os juros e a correção monetária foram fixados em contrariedade à legislação de vigência.
+Sustenta a possibilidade de pagamento por meio de ações, das diferenças de correção monetária e juros remuneratórios incidentes sobre o empréstimo compulsório de energia elétrica, independentemente de anuência do credor e de assembleia após o trânsito em julgado do feito.
+Aduz, ainda, que está prescrita toda a pretensão referente aos juros remuneratórios anteriores a cinco anos contados do ajuizamento da ação, pois o pagamento desses juros é uma relação de trato sucessivo, a cada pagamento dessas parcelas surgia para a parte autora o direito de pleitear os reflexos inerentes aos critérios de atualização monetária que julgasse devidos.
+Não tendo a parte autora aduzido sua pretensão no momento de cada um dos pagamentos, encontram-se prescritas as pretensões atinentes às parcelas vencidas antes do quinquídio que antecede o ajuizamento da ação. (fl. 807).
+Em reforço, invoca divergência jurisprudencial entre o acórdão recorrido e as decisões do Superior Tribunal de Justiça nos REsps n. 1.003.955/RS e 1.028.592/RS, julgados sob o regime dos recursos repetitivos.
+Contrarrazões (fls. 887-890) pelo não conhecimento ou desprovimento do recurso especial.
+Parecer do Ministério Público Federal (fls. 922-927) pelo desprovimento do recurso especial.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com esteio no art. 255, § 4º, II, do RISTJ, conheço do recurso especial para negar-lhe provimento."
+Interposto agravo interno, a parte agravante traz argumentos contrários à decisão recorrida.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. EMPRÉSTIMO COMPULSÓRIO DE ENERGIA ELÉTRICA. CONVERSÃO DOS CRÉDITOS. ASSEMBLEIA GERAL ESPECÍFICA. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de agravo de instrumento contra decisão que, acolhendo parcialmente a sua impugnação, determinou o prosseguimento da execução pelo valor apurado pela Contadoria judicial, com ajustes em atenção ao título executivo. O Tribunal regional negou provimento ao recurso da Eletrobras.
+II - Na hipótese dos autos, a decisão hostilizada encontra-se em consonância com o entendimento do Superior Tribunal de Justiça, no sentido de que é admitida a conversão em ações dos valores devidos pela Eletrobras em razão do empréstimo compulsório sobre energia elétrica, desde que comprovada a realização de assembleia geral autorizativa, posterior ao trânsito em julgado da ação.
+III - Com efeito, a matéria não trata do termo final dos juros remuneratórios "reflexos" do empréstimo compulsórios sobre energia elétrica  suscitado em agravo interno pela parte recorrente  , mas sobre o direito em se efetuar o pagamento de eventuais direitos sobre ECE por meio de ações de capital social sem a realização de nova AGE posterior ao trânsito em julgado e a prescrição quinquenal retroativa contada da data do ajuizamento da demanda relativa aos juros remuneratórios.
+IV - Portanto, as razões de agravo interno apresentadas pela agravante estão dissociadas do que foi decidido na decisão agravada.
+V - Evidencia-se a deficiência na fundamentação recursal quando o recorrente não desenvolve argumentação a fim de demonstrar em que consiste a ofensa aos dispositivos tidos por violados, incidindo o óbice do disposto no enunciado n. 284 da Súmula do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+VI - Por fim, considerando o julgamento do Recurso Repetitivo n.1.850.512/SP (Tema 1.076/STJ), afasto a fixação equitativa dos honorários advocatícios promovida na origem, fixando-os em 20% sobre o valor da condenação, devendo ser observados, contudo, os limites máximos estabelecidos no art. 85, §§2º e 3º, do CPC.
+VII - Agravo interno improvido.
+VOTO
+O recurso não merece prosperar.
+Na hipótese dos autos, a decisão hostilizada encontra-se em consonância com o entendimento do Superior Tribunal de Justiça, no sentido de que é admitida a conversão em ações dos valores devidos pela Eletrobrás em razão do empréstimo compulsório sobre energia elétrica, desde que comprovada a realização de assembleia geral autorizativa, posterior ao trânsito em julgado da ação.
+Com efeito, o cerne da questãonão trata do termo final dos juros remuneratórios "reflexos" do empréstimo compulsórios sobre energia elétrica  suscitado em agravo interno pela parte recorrente  , mas sobre o direito em se efetuar o pagamento de eventuais direitos sobre ECE por meio de ações de capital social, sem a realização de nova AGEposterior ao trânsito em julgado e a prescrição quinquenal retroativa contada da data do ajuizamento da demanda relativa aos juros remuneratórios.
+Portanto, as razões de agravo interno apresentadas pela agravante estão dissociadas do que foi decidido na decisão agravada.
+Evidencia-se a deficiência na fundamentação recursal quando o recorrente não desenvolve argumentação a fim de demonstrar em que consiste a ofensa aos dispositivos tidos por violados, incidindo o óbice do disposto no enunciado n. 284 da Súmula do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+Por fim, considerando o julgamento do Recurso Repetitivo n. 1.850.512/SP (Tema 1.076/STJ), afasto a fixação equitativa dos honorários advocatícios promovida na origem, fixando-os em 20% sobre o valor da condenação, devendo ser observados, contudo, os limites máximos estabelecidos no art. 85, §§2º e 3º, do CPC.
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
