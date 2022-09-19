@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 13/09/2022 a 19/09/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Impedido o Sr. Ministro Herman Benjamin.
+Não participou do julgamento o Sr. Ministro Humberto Martins.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Na origem, Instituto de Defesa dos Usuários de Serviço Público ajuizou ação civil pública contra Libra Terminais S.A. - Terminal 37, Terminal para Contêineres da margem Direita S.A. - Tecondi, rio Cubatão Logística Portuária Ltda - Usiminas e Santos Brasil S.A. alegando, em suma, que as rés, na qualidade de operadoras portuárias, foraminvestigadas e processadas relativamente à cobrança de tarifa para a liberação de contêineres - THC2, na Baixada Santista. Pleiteou a condenação das rés em indenização pelos danos causados, por ferir a livre concorrência, a ordem econômica e os consumidores.
+A sentença julgou a ação improcedente (fls. 2.112-2.121), decisão mantida pelo Tribunal de Justiça do Estado de São Paulo, conforme a seguinte ementa do acórdão:
+AÇÃO CIVIL PÚBLICA - TARIFA DE SEGREGAÇÃO E ENTREGA DE CONTEINERES - THC2 - NÃO CONFIGURAÇÃO DE OFENSA À LIVRE CONCORRÊNCIA, À ORDEM ECONÔMICA E AOS CONSUMIDORES - R. SENTENÇA MANTIDA - Adstrito exclusivamente aos elementos constantes dos autos, infere-se que a cobrança da tarifa de segregação e entrega de contêineres, conhecida como THC2, não configura ofensa à livre concorrência, à ordem econômica e aos consumidores - Cobrança que remete a período anterior à privatização do Porto Organizado de Santos, em que a CODESP atuava diretamente na movimentação e entrega de contêineres aos recintos alfandegados, não se tratando, assim, de criação dos Operadores Portuários privados - Autoridade Portuária incumbida de coibir práticas lesivas : à livre concorrência concebe a cobrança da THC2 como legítima, inclusive regulando e fiscalizando os preços cobrados dos recintos alfandegados - Não configuração de ofensa aos preceitos dispostos na 8.884/94, nem lesão a interesses difusos - R. sentença mantida - Recurso não provido .
+Interposto recurso especial, este teve seguimento.
+Às fls. 3.818-3.820, o anterior relator, Ministro Herman Benjamin, julgou o recurso especial apresentado pelo Instituto, negando-lhe provimento.
+Após deliberação sobre eventual suspeição e oposição de embargos de declaração, a Segunda Turma decidiu restabelecer os efeitos da decisão das fls. 3.818- 3.820, mantendo-se, contudo, o reconhecimento da suspeição e a determinação para a redistribuição do feito a um novo relator, a quem competiu deliberar sobre o pleito das fls. 2.833-3.723 e os embargos de declaração das fls. 3.827-3.832.
+Na decisão embargada (fls. 4.170/4.174),indeferiu-se o ingresso da Associação ora embargante como amicus curiae.
+Novos embargos de declaração rejeitados(fls. 4.923-4.927).
+Interposto agravo interno, a parte agravante traz, resumidamente, os seguintes argumentos:
+ ..
+A Agravante pede vênia para demonstrar que o pedido de intervenção de terceiro na figura da assistência não foi examinado em nenhuma decisão proferida até aqui, e principalmente na R. decisão agrada, mas precisa sê-lo. Esse é o fato jurídico que autoriza o cabimento do presente agravo interno.
+ ..
+Por se aterem apenas ao exame (superficial) do elementos que autorizam a participação do amicus curiae (art. 138 do CPC), tanto a R. decisão agravada como a decisão primitiva de e-STJ fls. 4.170/4.174, não examinaram por nenhum aspecto a intervenção de terceiros na figura da assistência.
+ ..
+As partes agravadasforam intimadas para apresentar impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AÇÃO CIVIL PÚBLICA. TARIFA DE SEGREGAÇÃO E ENTREGA DE CONTÊINERES. THC2. INGRESSO COMO AMICUS CURIAE. INTERESSE SUBJETIVO DA PARTE. PRECEDENTES.DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de ação civil pública alegando, em suma, que as rés, na qualidade de operadoras portuárias, foram investigadas e processadas relativamente à cobrança de tarifa para a liberação de contêineres - THC2, na Baixada Santista.A sentença julgou a ação improcedente, decisão mantida pelo Tribunal a quo.
+II - Nos termos do art. 138 do Código de Processo Civil/2015, a admissibilidade da intervenção do amicus curiae é excepcional, encontrando-se condicionada ao preenchimento dos seguintes requisitos: relevância da matéria; especificidade do tema controvertido ou a repercussão geral da controvérsia.
+III - Na hipótese, não se verificam os necessários requisitos, estando sua pretensão somente vinculada ao sucesso da demanda, circunstância que não dá amparo à aplicação do referido instituto a fim de justificar o ingresso da Associação nos autos, conforme entendimento jurisprudencial desta Corte:RCD na PET no REsp 1.864.345/SP, relatorMinistro Benedito Gonçalves, Primeira Turma, julgado em 21/9/2021, DJe 23/9/2021 eAgInt nos EDcl no AREsp 1.551.610/RS, relatorMinistro Herman Benjamin, Segunda Turma, julgado em 18/8/2020, DJe 14/9/2020.
+IV - Ademais, já foi prolatada a decisão que julgou o recurso especial interposto, sem que contra ela fosse interposto qualquer outro recurso, evidenciado seu trânsito em julgado, conforme considerado na petição de fls. 4.167-4.169, lembrando que os embargos de declaração da Associação foram opostos sem que tenha havido qualquer decisão acerca de seu pedido de ingresso como amicus curiae.
+V - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A parte agravante repisa osargumentos já analisados na decisão recorrida.
+Nos termos do art. 138 do Código de Processo Civil/2015, a admissibilidade da intervenção do amicus curiae é excepcional, encontrando-se condicionada ao preenchimento dos seguintes requisitos: relevância da matéria; especificidade do temacontrovertido ou a repercussão geral da controvérsia.
+Na hipótese, não se verificam os necessários requisitos, estando sua pretensão somente vinculada ao sucesso da demanda, circunstância que não dá amparo à aplicação do referido instituto a fim de justificar o ingresso da Associação nos autos, conforme entendimento jurisprudencial desta Corte:
+PROCESSUAL CIVIL. PEDIDO DE RECONSIDERAÇÃO NA PETIÇÃO NO RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. INGRESSO COMO AMICUS CURIAE. INTERESSE SUBJETIVO DA PARTE. PRECEDENTES.
+1. O pedido de reconsideração pode ser recebido como agravo interno, nos termos da jurisprudência desta Corte, em homenagem aos princípios da economia processual, da instrumentalidade das formas e da fungibilidade recursal.
+2. O art. 138 do CPC/2015 traz previsão da possibilidade de atuação da pessoa natural ou jurídica como amicus curiae, contudo referida intervenção no processo não prescinde da satisfação dos requisitos necessários para tanto, como a relevância da matéria, da especifidade do tema objeto da demanda, da repercussão social da controvérsia, bem como da representatividade adequada.
+3. Na espécie, os critérios processuais de fixação de honorários advocatícios não extrapolam os interesses individuais dos litigantes, mas remetem às peculiaridades próprias de cada demanda individualmente considerada, circunstância que descaracteriza o interesse geral da associação na solução desta lide. Precedente: AgInt no REsp 1.370.801/PE, Rel.Ministra Assusete Magalhães, Segunda Turma, DJe 2/5/2017.
+4. Agravo interno não provido.
+(RCD na PET no REsp 1864345/SP, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 21/09/2021, DJe 23/09/2021.)
+PROCESSUAL CIVIL. AGRAVO INTERNO. EMBARGOS DE DECLARAÇÃO.AGRAVO EM RECURSO ESPECIAL. HONORÁRIOS DE PROFISSIONAIS LIBERAIS.AÇÃO DE ARBITRAMENTO JUDICIAL. HONORÁRIOS ADVOCATÍCIOS.DEFENSOR DATIVO NOMEADO. MAJORAÇÃO DOS HONORÁRIOS.CONTROVÉRSIA QUE EXIGE ANÁLISE DE ATO NORMATIVO NÃO INSERIDO NO CONCEITO DE LEI FEDERAL. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL SEM OBSERVÂNCIA DOS REQUISITOS.
+1. Consoante entendimento do STJ, "a admissibilidade do amicus curiae é excepcional, sendo os requisitos para sua admissibilidade: relevância da matéria;especificidade do tema controvertido ou a repercussão geral da controvérsia. No caso, a pretensão da requerente está relacionada tão-somente ao sucesso da demanda, circunstância que não dá amparo à aplicação do referido instituto, conforme vem entendendo esta Corte de Justiça: RCL N. 4.982/SP, Rel. Ministro Benedito Gonçalves, DJe de 04.05.2011; Pet no REsp n. 1.681.264/MG, Rel. Ministro Gurgel de Faria, DJe de 15.12.2017 (AgInt no AREsp 1489024/SP, Rel. Ministro Francisco Falcão, Segunda Turma, julgado em 22/10/2019, DJe 28/10/2019). Nestes termos indefiro o pedido de fls. 770-771 e 824-826, e-STJ".
+ ..  5. Agravo Interno não provido.
+(AgInt nos EDcl no AREsp 1551610/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 18/08/2020, DJe 14/09/2020.)
+Ademais, já foi prolatada a decisão que julgou o recurso especial interposto, sem que contra ela fosse interposto qualquer outro recurso, evidenciado seu trânsito em julgado, conforme considerado na petição de fls. 4.167-4.169, lembrando que osembargos de declaração da Associação foram opostos sem que tenha havido qualquer decisão acerca de seu pedido de ingresso como amicus curiae.
+Correta a decisão que indeferiu o pedido de fls. 2.833-3.723 formulado pela Associação de Usuários dos Portos da Bahia - Usuport, e julgouprejudicados os embargos de declaração por ela opostos (fls. 3.827-3.833).
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
