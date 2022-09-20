@@ -1,0 +1,43 @@
+DECISÃO
+Vistos etc.
+Trata-se de agravo interposto por IT2B TECNOLOGIA E SERVIÇOS LTDA., em face de decisão que inadmitiu recurso especial fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, interposto contracontra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo,assim ementado:
+"APELAÇÃO - DUPLICATA - PROTESTO INDEVIDO - DANO MORAL - Pretensão de reforma da r. sentença que julgou procedente pedido de indenização por dano moral - Cabimento - Hipótese em que havia outros apontamentos em nome da autora em cadastro de inadimplentes, não tendo ela demonstrado suficientemente que seriam irregulares tais negativações - Protesto que, embora pudesse ser considerado indevido, não é apto a ensejar dano moral - Incidência da Súmula nº 385 do STJ - RECURSO PROVIDO NESTA PARTE.
+APELAÇÃO - CONTRATO DE PRESTAÇAO DE SERVIÇOS - CLÁUSULA PENAL - Pretensão da ré reconvinte de reforma da respeitável sentença, que reduziu a cláusula penal - Descabimento - Hipótese em que a cláusula penal deve ser reduzida, pois, no caso concreto, se mostra excessiva (CC, art. 413) - RECURSO DESPROVIDO NESTA PARTE.".
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial, a parte alega, em síntese, que "a única condenação em obrigação de pagar imposta à recorrida foi afastada pelo E. Tribunal de Justiça de São Paulo, necessariamente os honorários de sucumbência deveriam ter sido fixados entre o mínimo de 10% (dez por cento) e o máximo de 20% (vinte por cento) sobre o valor da causa principal devidamente atualizado, nos exatos termos do art. 85, § 2º do Código de Processo Civil" (e-STJ fl. 362).
+Afirmaque "não pode prevalecer o entendimento do E. Tribunal de Justiça de São Paulo de que a fixação dos honorários de sucumbência de acordo com o dispositivo acima citado implicaria reformatio in pejus, pois com o afastamento da única condenação em obrigação de pagar imposta à recorrida pelo D. Juízo "a quo", a única possibilidade de arbitramento dos honorários de sucumbência seria mesmo a fixação da verba sucumbencial entre o mínimo de 10% (dez por cento) e o máximo de 20% (vinte por cento) sobre o valor da causa principal devidamente atualizado" (e-STJ fl. 363).
+É o breve relatório.
+Passo a decidir.
+O recurso especial não pode ser conhecido, pois incide, por analogia, o óbice da Súmula 283/STF.
+O Tribunal de origem assim se manifestou sobre a controvérsia:
+"Na ação principal, a autora, ora embargante, pretendeu a declaração de inexigibilidade de título e a nulidade do protesto, bem como a condenação da ré ao pagamento de indenização por dano moral.
+Pela respeitável sentença foram julgados procedentes os pedidos de cunho declaratório e parcialmente procedente o pedido de indenização por dano moral, arbitrados os honorários no equivalente a 10% do valor da condenação.
+Assim, verifica-se que houve o arbitramento de honorários levando em conta apenas o pedido indenizatório, desconsiderando a procedência dos pedidos declaratórios para fins de distribuição da sucumbência e arbitramento de honorários.
+Contra a sentença a autora não interpôs recurso de apelação, o que somente foi feito pela ré, para que fosse afastada a condenação ao pagamento de indenização por dano moral, arbitrada em R$15.000,00. E, justamente nessa parte, foi provido o recurso da ré, julgando-se improcedente o pedido de indenização por dano moral deduzido na ação principal.
+Assim, o que se evidencia é que, com o julgamento da apelação, reduziu-se a sucumbência da ré, de modo que a pretensão da ora embargante de ampliar significativamente o valor dos honorários pela alteração de sua base de cálculo é absolutamente descabida.
+Arbitrar os honorários da ação principal em favor da autora e em percentual sobre o valor da causa (R$272.562,63) representaria evidente reformatio in pejus, na medida em que, ao afastar a condenação da ré ao pagamento de indenização, implicaria sua condenação em valor até mesmo superior àquela a título de honorários.
+Se com o julgamento da apelação a autora passou a ser sucumbente em maior parte, não há como conceber a ampliação dos honorários devidos aos seus patronos pelo provimento do recurso interposto exclusivamente pela parte contrária.
+Vencedora a autora na ação principal apenas quanto à declaração de inexigibilidade do título e quanto à nulidade do protesto, o proveito econômico obtido não pode ser dissociado daquele da reconvenção, na qual a ré reconvinte pretendeu a cobrança da multa contratual que deu origem à emissão do título.
+A reconvenção foi julgada procedente em parte, reconhecendo como devida parte da obrigação que ensejou a emissão do título, declarado inexigível na ação principal.
+A distribuição da sucumbência na reconvenção, afastada a condenação ao pagamento de indenização por dano moral, mostra-se adequada para representar também a sucumbência da ação principal, uma vez que expressa o verdadeiro proveito econômico obtido pela autora reconvinda, atendendo aos parâmetros estipulados pelo Código de Processo Civil em seu artigo 85.
+Não há como concluir que, do provimento do recurso de apelação, pudesse decorrer ampliação substancial dos honorários devidos pela própria apelante."(e-STJ fls. 350-352).
+Contudo, nas razões do recurso especial, acerca da proibição de reformatio in pejus, a ora agravante limitou-se a afirmar que"não pode prevalecer o entendimento do E. Tribunal de Justiça de São Paulo de que a fixação dos honorários de sucumbência de acordo com o dispositivo acima citado implicaria reformatio in pejus, pois com o afastamento da única condenação em obrigação de pagar imposta à recorrida pelo D. Juízo "a quo", a única possibilidade de arbitramento dos honorários de sucumbência seria mesmo a fixação da verba sucumbencial entre o mínimo de 10% (dez por cento) e o máximo de 20% (vinte por cento) sobre o valor da causa principal devidamente atualizado, nos exatos termos do art. 85, § 2º do Código de Processo Civil" (e-STJ fl. 363).
+A parte deixou de evidenciar, portanto, os motivos pelos quais não se configuraria a reformatio in pejus em decorrência da mudança da base de cálculo dos honorários advocatícios de sucumbência, na medida em que, mesmo com o afastamento da condenação ao pagamento de compensação por danos morais, permanece a distribuição dos ônus sucumbenciais de forma recíproca, sendo cada parte responsável pela fração ideal de 50% (cinquenta por cento).
+Assim, como a pretendida alteração de parâmetro resultaria em valor superior devido aos patronos de ambas as partes, a recorrente acabaria sendo prejudicada, mesmo tendo sido a única parte a interpor recurso de apelação. Contudo, a agravante não infirmou esse fundamento exposto pela Corte estadual, suficiente para a manutenção do acórdão recorrido.
+Portanto, repita-se, aplica-se, por analogia, o enunciado nº 283 da Súmula do Supremo Tribunal Federal: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA DEMANDADA.
+1. A subsistência de fundamento inatacado apto a manter a conclusão do acórdão impugnado impõe o desprovimento do apelo, a teor do entendimento disposto na Súmula 283 do STF, aplicável por analogia.
+ ..
+5. Agravo interno desprovido.
+(AgInt no REsp 1831014/CE, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 31/05/2021, DJe 04/06/2021)
+CIVIL E PROCESSUAL CIVIL. RECURSO ESPECIAL. RECURSO PTVS21 PTVS21 AREsp 1785569 2020/0293814-1 Documento Página 8 INTERPOSTO SOB A ÉGIDE DO NCPC. SUCESSÕES. IMPUGNAÇÃO DE ESBOÇO DE PARTILHA. CONCLUSÃO DO TRIBUNAL BANDEIRANTE DE QUE O BEM IMÓVEL LEGADO PERTENCIA A PARTE DISPONÍVEL. REFORMA. INVIABILIDADE. INCIDÊNCIA DAS SÚMULAS NºS 5 E 7, AMBAS DO STJ. EXISTÊNCIA DE FUNDAMENTO AUTÔNOMO E SUFICIENTE PARA MANUTENÇÃO DO ACÓRDÃO RECORRIDO NÃO IMPUGNADO. APLICAÇÃO DA SÚMULA Nº 283 DO STF, POR ANALOGIA. RECURSO ESPECIAL NÃO CONHECIDO.
+ ..
+3. A ausência de impugnação no recurso especial de fundamento autônomo e suficiente para manutenção do acórdão recorrido atrai a incidência, por analogia, da Súmula nº 283 do STF.
+4. Recurso especial não conhecido.
+(REsp 1908766/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 25/05/2021, DJe 28/05/2021)
+Ante o exposto, conheço do agravo para, desde logo, não conhecer do recurso especial.
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DEFUNDAMENTO CENTRALDO ACÓRDÃO RECORRIDO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA 283 DO STF.
+AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
