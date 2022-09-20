@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA SEÇÃO do Superior Tribunal de Justiça, em sessão virtual de 14/09/2022 a 20/09/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Mauro Campbell Marques, Benedito Gonçalves, Assusete Magalhães, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Humberto Martins.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+RELATÓRIO
+Trata-se de pedido de uniformização de interpretação de lei, com fundamento no art. 14, § 4º, da Lei n. 10.259/2001, em desfavor de julgado da Turma Nacional de Uniformização - TNU, que conheceu do incidente de uniformização da União e negou-lhe provimento, julgando-o como representativo de controvérsia, para fixar a tese do Tema 278 dos Representativos de Controvérsia da TNU.
+Alega a requerente que o acórdão da TNU contraria jurisprudência do Superior Tribunal de Justiça. Assim, entende que o presente incidente merece ser conhecido e acolhido a fim de seja vedado à parte recorrida a conversão do tempo de serviço especial em comum para fins de contagem recíproca de tempo de serviço, em que se soma o tempo de serviço de atividade privada.
+Parecer ministerial pelo desprovimento.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, nego provimento ao pedido de uniformização de jurisprudência."
+Interposto agravo interno, a parte agravante traz, resumidamente, os seguintes argumentos:
+ ..
+Como se observa, o ilustre Ministro Relator negou provimento ao pedido de uniformização ao fundamento de que o julgado resistido está em harmonia com o atual entendimento desta Corte Superior que, por sua vez, alinhou-se ao decidido pelo Supremo Tribunal Federal, em repercussão geral, no Recurso Extraordinário n. 1.014.286/SP-RG.
+Entretanto, com a devida vênia, entende a União que, no caso em análise, a TNU aplicou equivocadamente o entendimento do Supremo Tribunal Federal no Recurso Extraordinário n. 1.014.286- Repercussão Geral - Tema 942.
+ ..
+A parte agravadafoi intimada para apresentar impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. JUIZADOS ESPECIAIS FEDERAIS. INCIDENTE DE UNIFORMIZAÇÃO DE JURISPRUDÊNCIA. DIREITO MATERIAL NÃO APRECIADO NA ORIGEM. INADMISSIBILIDADE DO INCIDENTE. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Trata-se de pedido de uniformização de interpretação de lei, com fundamento no art. 14, § 4º, da Lei n. 10.259/2001, em desfavor de julgado da Turma Nacional de Uniformização - TNU, que conheceu do incidente de uniformização da União e negou-lhe provimento, julgando-o como representativo de controvérsia, para fixar a tese do Tema 278 dos Representativos de Controvérsia da TNU.
+II - Alega a requerente que o acórdão da TNU contraria jurisprudência do Superior Tribunal de Justiça. Assim, entende que o presente incidente merece ser conhecido e acolhido a fim de seja vedado à parte recorrida a conversão do tempo de serviço especial em comum para fins de contagem recíproca de tempo de serviço, em que se soma o tempo de serviço de atividade privada.
+III - Parecer ministerial pelo desprovimento.
+IV - Dispõe o art. 14, § 4º, da Lei n. 10.259/2001 que o incidente de uniformização dirigido ao STJ somente é cabível contra decisão da Turma Nacional de Uniformização que, apreciando questão de direito material, contrarie súmula ou jurisprudência dominante no STJ.Anote-se:AgRg na Pet n. 7.549/PR, Terceira Seção, MinistroOg Fernandes, DJe de 8/4/2010.
+V - No caso em comento, o julgado resistido está em harmonia com o atual entendimento desta Corte Superior que, por sua vez, alinhou-se ao decidido pelo Supremo Tribunal Federal, em repercussão geral, no Recurso Extraordinário n. 1.014.286/SP-RG.
+VI - Portanto, o direito à contagem recíproca do tempo de serviço exercido em condições especiais com a conversão em tempo comum, é hoje reconhecido pela jurisprudência de ambas as Cortes (STF e STJ).Nesse sentido:AREsp 1.141.255/SC, relator Ministro Francisco Falcão, Segunda Turma, julgado em 15/3/2022, DJe 18/3/2022 eEDcl no AgInt no AREsp 1.268.697/ES, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 15/3/2021, DJe 6/4/2021.
+VII - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A parte agravante repisa os mesmos argumentos já analisados na decisão recorrida.
+Dispõe o art. 14, § 4º, da Lei n. 10.259/2001 que o incidente de uniformização dirigido ao STJ somente é cabível contra decisão da Turma Nacional de Uniformização que, apreciando questão de direito material, contrarie súmula ou jurisprudência dominante no STJ.
+Anote-se:
+AGRAVO REGIMENTAL NA PETIÇÃO. JUIZADOS ESPECIAIS FEDERAIS.INCIDENTE DE UNIFORMIZAÇÃO DE JURISPRUDÊNCIA. DIREITO MATERIAL NÃO APRECIADO NA ORIGEM. INADMISSIBILIDADE DO INCIDENTE.
+1. A teor do disposto no art. 14, § 4.º, da Lei n.º 10.259/2001, "quando a orientação acolhida pela Turma de Uniformização, em questões de direito material, contrariar súmula ou jurisprudência dominante no Superior Tribunal de Justiça - STJ, a parte interessada poderá provocar a manifestação deste, que dirimirá a divergência".
+2. Em relação ao tema, asseverou esta Terceira Seção, ao julgar o Agravo Regimental na Petição n.º 6.297/RJ, do qual Relatora a emMinistra Laurita Vaz (DJ 04.08.08), que a remessa do incidente de uniformização de jurisprudência a este Superior Tribunal de Justiça somente será possível quando a decisão da Turma Nacional de Uniformização de Jurisprudência dos Juizados Especiais Federais tratar de questões relacionadas com o direito material e contrariar súmula ou jurisprudência dominante desta Corte.
+3. No caso dos autos, todavia, a mencionada Turma Nacional de Uniformização de Jurisprudência inadmitiu o incidente a ela dirigido por motivos exclusivamente processuais, razão por que não foi apreciada qualquer questão de direito material, tornando-se, nessa extensão, incabível o incidente.
+4. Agravo regimental a que se nega provimento.
+(AgRg na Pet n. 7.549/PR, Terceira Seção, Min. Og Fernandes, DJe de 8/4/2010.)
+No caso em comento, o julgado resistido está em harmonia com o atual entendimento desta Corte Superior que, por sua vez, alinhou-se ao decidido pelo Supremo Tribunal Federal, em repercussão geral, no Recurso Extraordinário n.1.014.286/SP-RG.
+Portanto, o direito à contagem recíproca do tempo de serviço exercido em condições especiais com a conversão em tempo comum, é hoje reconhecido pela jurisprudência de ambas as Cortes (STF e STJ).
+Nesse sentido:
+PREVIDENCIÁRIO. SERVIDOR PÚBLICO. REGIME PRÓPRIO.APOSENTADORIA POR TEMPO DE SERVIÇO. CONTAGEM RECÍPROCA.CONVERSÃO DO TEMPO DE SERVIÇO ESPECIAL EM COMUM. POSSIBILIDADE.REPERCUSSÃO GERAL. TEMA 942/STF. JUÍZO DERETRATAÇÃO.
+I - Inicialmente é necessário consignar que o presente recurso atraia incidência do Enunciado Administrativo n.3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC." II -Na origem, a parte autora ajuizou ação ordinária com valor da causa atribuído em R$ 18.000,00 (dezoito mil reais), em 23/08/2014, objetivando o reconhecimento de tempo especial, pelo exercício da profissão de médico, referente a períodos trabalhados na atividade privada, de 31/10/1978 a 28/2/1979; 2/5/1979 a 6/5/1986; 13/10/1979 a 5/3/1982;25/8/1980 a 20/12/1981; e, de 1º/2/1987 a30/11/1989 (CLT - Regime Geral de Previdência Social); no Exército Brasileiro como militar temporário de 9/2/1983 a 29/1/1985 (Regime Próprio de Previdência -União); e na Polícia Militar do Estado de Santa Catarina comoSegundo Tenente P. M. Médico, de 1º/2/1985 a 31/5/1989 (Regime Próprio do Previdência - Estado de Santa Catarina); bem como a concessão de aposentadoria por tempo de contribuição.
+III -O Supremo Tribunal Federal, ao apreciar o mérito do RE n.º 1.014.286/SP(Tema nº 942 - repercussão geral), cujo acórdão foi relatado pelo Ministro Edson Fachin, firmou a tese de que, até a edição da Emenda Constitucional nº103/2019, o direito à conversão, em tempo comum, do prestado sob condições especiais que prejudiquem a saúde ou a integridade física de servidor público decorre da previsão de adoção de requisitos e critérios diferenciados para a jubilação daquele enquadrado na hipótese prevista no então vigente inciso III do § 4º do art. 40 da Constituição da República, devendo ser aplicadas as normas do regime geral de previdência social relativas à aposentadoria especial contidas na Lei 8.213/1991 para viabilizar sua concretização enquanto não sobrevier lei complementar disciplinadora da matéria. Após a vigência da EC n.º 103/2019, o direito à conversão em tempo comum, do prestado sob condições especiais pelos servidores obedecerá à legislação complementar dos entes federados, nos termos da competência conferida pelo art. 40, § 4º- C, da Constituição da República.
+IV - Agravo conhecido para, em juízo de retratação, negar provimento ao recurso especial.
+(AREsp 1141255/SC, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 15/03/2022,DJe 18/03/2022.)
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. EMBARGOS DE DECLARAÇÃO.REQUISITOS. PRESENÇA. ENTENDIMENTO FIRMADO PELO SUPREMO TRIBUNAL FEDERAL. TEMPO DE SERVIÇO ESPECIAL. CONVERSÃO EM COMUM. CÔMPUTO PARA CONTAGEM RECÍPROCA. POSSIBILIDADE.
+1. Os embargos de declaração têm ensejo quando há obscuridade, contradição, omissão ou erro material no julgado.
+2. Hipótese em que o Supremo Tribunal Federal já havia encerrado o julgamento do Tema 942 por ocasião do exame do acórdão embargado, motivo pelo qual se impõe a apreciação da aludida matéria à luz do entendimento assentado em repercussão geral.
+3. O Plenário do STF , na sessão de 31/08/2020,ao aplicar a Súmula Vinculante 33, reconheceu que, até a edição da Emenda Constitucional n. 103/2019, o servidor público ex- celetista faz jus à averbação do tempo de serviço desempenhado sob condições especiais, convertido em comum, para efeito de contagem recíproca, nos moldes definidos pelo Regime Geral de Previdência Social para aposentadoria especial de que trata a Lei n.8.213/1991 (RE 1.014.286/SP-RG).
+4. Embargos de declaração acolhidos, com efeitos infringentes, para negar provimento ao recurso especial da autarquia.
+(EDcl no AgInt no AREsp 1268697/ES, Rel.Ministro GURGEL DEFARIA, PRIMEIRA TURMA, julgado em 15/03/2021, DJe 06/04/2021.)
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
