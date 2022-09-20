@@ -1,0 +1,68 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em favor de EDUARDO VIEIRA ZAVADA SILVA, em que se aponta como autoridade coatora o Tribunal de Justiça do Estado do Espírito Santo (HC 5003839-80.2022.8.08.0000).
+Colhe-se dos autos que o paciente teve a prisão preventiva decretada, pela suposta prática dos crimes previstos no art. 121, § 2º, I e IV; art. 121, § 2º, I e IV, c/c art. 14, II; e art. 288, todos do Código Penal. Sobreveio posteriormente a prolação de pronúncia em desfavor do acusado.
+A defesa impetrou prévio writ perante o Tribunal de origem, que denegou a ordem, nos termos da seguinte ementa:
+"HABEAS CORPUS. PRISÃO PREVENTIVA. HOMICÍDIO. RÉU FORAGIDO. APLICAÇÃO DA LEI PENAL. FUNDAMENTAÇÃO IDÔNEA. VIOLAÇÃO AO ART. 316, PARÁGRAFO ÚNICO DO CPP. INOCORRÊNCIA. HABEAS CORPUS NEGADO.
+1 - Ao que se extrai dos autos, a denúncia foi recebida em 15/08/2008 e não localizado o réu para citação pessoal, foi citado por edital em janeiro de 2009 e não compareceu no processo, sendo decretada a sua prisão preventiva cumprida apenas em 22/05/2020.
+2- Veja-se que foram indicados elementos concretos constantes dos autos que permitem concluir que a prisão do paciente é necessária. Isso porque, não compareceu a nenhum ato do processo, o que revela a sua intenção de furtar-se à aplicação da lei penal. Vale destacar que o réu teve aprisão temporária decretada durante a fase de investigação policial, o demonstra que tinha conhecimento da condição de suspeito dos crimes ocorridos.
+3- A evasão do distrito da culpa para outra cidade é fundamento suficiente a embasar a manutenção da custódia preventiva, que se revela imprescindível para o fim de se assegurar o cumprimento de eventual condenação, pois nítida a intenção do réu de evitar a ação da Justiça. (HC 444.888/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 07/08/2018, DJe15/08/2018).
+4- Também foi considerado pelo magistrado os registros criminais do acusado que aconselham a manutenção da prisão.
+5- Não assiste razão ao impetrante com relação a violação do art. 316, parágrafo único, do CPP já que consta dos autos a reavaliação da prisão em várias oportunidades, inclusive, em07/03/2022 quando proferida da sentença de pronúncia
+6- Ordem conhecida e denegada." (e-STJ, fls. 80-81)
+Nesta Corte, a defesa sustenta, em síntese, a existência de constrangimento ilegal em face do acusado, decorrente da ausência de fundamentação para a manutenção da segregação cautelar, por não estarem presentes os requisitos constantes do art. 312 do Código de Processo Penal.
+Aduz que o paciente não estava foragido, mas apenas se mudou para o estado do Ceará.
+Defende também que há excesso de prazo para a formação da culpa, visto que foi interposto recurso em sentido estrito, após a prolação da pronúncia, sem previsão de julgamento.
+Pontua, ainda, a ausência de contemporaneidade do decreto preventivo, destacando haver contradição com a decisão que revogou a prisão preventiva em outro processo por esse motivo.
+Sustenta a ilegaliadde da prisão em razão do excesso de prazo, nos termos do art. 316., parágrafo único, do CPP.
+Requer, assim, a revogação da custódia cautelar.
+O pedido liminar foi indeferido às fls. 85-86 (e-STJ).
+Prestadas as informações (e-STJ, fls. 89-92 e 94-98), o Ministério Público Federal manifesta-se pelo não conhecimento da impetração (e-STJ, fls. 101-109).
+É o relatório.
+Decido.
+Esta Corte - HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+Inicialmente, no tocante às questões relativas à prisão preventiva, vale lembrar que, em sede de habeas corpus, a prova deve ser pré-constituída e incontroversa, cabendo ao impetrante apresentar documentos suficientes à análise de eventual ilegalidade flagrante no ato atacado.
+Na espécie, o processo não foi instruído com cópia da decisão que decretou a prisão preventiva, peça imprescindível para a análise desta impetração.
+Nesse sentido:
+"HABEAS CORPUS SUBSTITUTO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. TRÁFICO ILÍCITO DE ENTORPECENTES. ASSOCIAÇÃO PARA O TRÁFICO. ORGANIZAÇÃO CRIMINOSA. LAVAGEM DE DINHEIRO. PRISÃO DOMICILIAR. DESCUMPRIMENTO DE CONDIÇÕES. REVOGAÇÃO. CONSTRANGIMENTO ILEGAL NÃO VISLUMBRADO. FUNDAMENTOS DA PRISÃO ORIGINÁRIA. INSTRUÇÃO DEFICIENTE. AUDIÊNCIA DE CUSTÓDIA. AUDIÊNCIA DE JUSTIFICAÇÃO. SUPRESSÃO DE INSTÂNCIA. ORDEM NÃO CONHECIDA.
+1. O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício.
+2. Quanto às considerações relacionadas ao decreto preventivo originário, tal decisão não foi juntada aos autos, inviabilizando o exame das alegações de constrangimento ilegal. É de se ressaltar que o rito do habeas corpus pressupõe prova pré-constituída do direito alegado, devendo a parte demonstrar, de maneira inequívoca, por meio de documentos, a existência de constrangimento ilegal imposto ao paciente. Precedentes.
+3. A respeito da não realização de audiência de custódia, a questão sequer foi cogitada no acórdão atacado, de modo que não pode ser examinada diretamente por esta Corte, por configurar supressão de instância.
+4. A revogação da prisão domiciliar foi devidamente fundamentada, uma vez que a paciente, em menos de 2 meses de gozo do benefício, descumpriu, por mais de uma vez, seus termos, afastando-se de seu lar sem autorização judicial prévia.
+5. No que tange à ausência de prévia oportunidade para a defesa se manifestar antes da revogação do benefício, verifica-se que o acórdão atacado não examinou a matéria, e tampouco foram opostos embargos declaratórios, de modo que a questão, também nesse ponto, encontra óbice na supressão de instância.
+6. Ordem não conhecida."
+(HC 473.431/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 12/2/2019, DJe 19/2/2019, grifou-se).
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE ENTORPECENTES. REVOGAÇÃO DA PRISÃO PREVENTIVA. INSTRUÇÃO DEFICIENTE. IMPOSSIBILIDADE DE ANÁLISE DA PRETENSÃO DEDUZIDA. SÚMULA N. 691 DO SUPREMO TRIBUNAL FEDERAL - STF. AUSÊNCIA DE ILEGALIDADE PATENTE. AGRAVO DESPROVIDO.
+1. Hipótese na qual o writ, impetrado contra decisão que negou liminar, foi indeferido liminarmente, por falta de instrução, não tendo sido juntada ao feito cópia da decisão em liminar proferida pela Corte estadual, o que inviabiliza a análise da pretensão deduzida no writ.
+2. O rito célere do habeas corpus demanda, para que seja analisada a ocorrência de constrangimento ilegal, prova pré-constituída, sendo de responsabilidade exclusiva do impetrante a instrução do writ.
+3. A transcrição do teor da decisão no corpo da inicial da impetração não se mostra suficiente para sanar o vício e possibilitar o exame da matéria nesta Corte.
+4. Ainda que fosse considerada a mera transcrição do decisum no corpo da petição inicial, não se constataria constrangimento ilegal patente, apto a justificar a superação do enunciado n. 691 da Súmula do STF.
+5. Agravo regimental desprovido."
+(AgRg no HC 484.988/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 5/2/2019, DJe 14/2/2019, grifou-se).
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. PROCESSUAL PENAL. INSTRUÇÃO E NARRATIVA DEFICIENTE. AUSÊNCIA DE DOCUMENTAÇÃO E ESCLARECIMENTOS ESSENCIAIS À ANÁLISE DA CONTROVÉRSIA. MANUTENÇÃO DA DECISÃO DE INDEFERIMENTO LIMINAR DA PETIÇÃO INICIAL QUE SE IMPÕE. AGRAVO DESPROVIDO.
+1. Compete à Defesa narrar e instruir completa e adequadamente o remédio constitucional do habeas corpus (ou seu respectivo recurso), por cuidar-se de procedimento que "pressupõe prova pré-constituída do direito alegado" (STJ, HC 437.808/RJ, Rel. Min. JORGE MUSSI, Quinta Turma, DJe de 28/06/2018). Assim, ao não se desincumbir do ônus de formar e narrar adequadamente os autos quando da impetração do writ, a Parte Impetrante impede a apreciação do mérito do writ.
+2. Agravo regimental desprovido."
+(AgRg no HC 526.388/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 5/9/2019, DJe 17/9/2019, grifou-se).
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. AUSÊNCIA DE PEÇA ESSENCIAL À COMPREENSÃO DA CONTROVÉRSIA. DEFICIÊNCIA NA INSTRUÇÃO QUE IMPOSSIBILITA A ANÁLISE DO PEDIDO. SUSPENSÃO DO RECAMBIAMENTO. SUPRESSÃO DE INSTÂNCIA. AGRAVO NÃO PROVIDO.
+1. Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente exige prova pré-constituída das alegações e não comporta dilação probatória.
+2. Não instruída a impetração com documento essencial ao deslinde da controvérsia, mostra-se inviável o exame do sustentado constrangimento ilegal.
+3. O pedido de suspensão do recambiamento do paciente não foi examinado pelo Tribunal de origem, o que impede a apreciação dessa matéria diretamente por esta Corte Superior, sob pena de, assim o fazendo, incidir na indevida supressão de instância.
+4. Agravo regimental não provido."
+(AgRg no HC 481.958/RJ, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 13/12/2018, DJe 4/2/2019, grifou-se).
+No mais, com relação ao aventado excesso de prazo na formação da culpa,observa-se que o Tribunal de origem não analisou o pleito, no julgamento do writ originário. Dessa forma, sua apreciação direta por esta Corte Superior fica obstada, sob pena de se incorrer em indevida supressão de instância.
+Ilustrativamente, esse é o entendimento das Turmas que compõem a Terceira Seção desta Corte de Justiça:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. NÃO CONFIGURAÇÃO. INTELIGÊNCIA DO ARTIGO 34, INCISO XX, DO REGIMENTO INTERNO DESTE SUPERIOR TRIBUNAL DE JUSTIÇA.  ..  SEGREGAÇÃO DEVIDAMENTE JUSTIFICADA. MANDADO DE PRISÃO AINDA NÃO CUMPRIDO. NECESSIDADE DE PRESERVAÇÃO DA MEDIDA CONSTRITIVA. PROVIDÊNCIAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. EXCESSO DE PRAZO PARA O OFERECIMENTO DA DENÚNCIA E NEGATIVA DE AUTORIA. MATÉRIA NÃO EXAMINADA NO ARESTO IMPETRADO. SUPRESSÃO DE INSTÂNCIA. MANUTENÇÃO DA DECISÃO POR SEUS PRÓPRIOS FUNDAMENTOS. AGRAVO REGIMENTAL IMPROVIDO.
+ ..
+5. Vedada a apreciação, diretamente por esta Corte Superior de Justiça, sob pena de se incidir em indevida supressão de instância, das teses que não foram analisadas pelo Tribunal de origem no aresto combatido.
+6. Agravo regimental improvido."
+(AgRg no HC 432.177/PE, rel. Ministro JORGE MUSSI, QUINTA TURMA, j. 13/12/2018, DJe 4/2/2019, grifou-se).
+"HABEAS CORPUS.  ..  PRISÃO DOMICILIAR. PLEITO NÃO SUBMETIDO À INSTÂNCIA ORDINÁRIA. SUPRESSÃO DE INSTÂNCIA. IMPOSSIBILIDADE DE EXAME POR ESTA CORTE. ORDEM PARCIALMENTE CONCEDIDA.
+1. Não debatida a matéria na instância ordinária, não cabe a este Superior Tribunal de Justiça inaugurar o enfrentamento da tese, sob pena de indevida supressão de instância.
+ .. .(HC 400.229/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 27/02/2018, DJe 08/03/2018, grifou-se).
+No pertinente à alegação de inobservância do disposto no art. 316 do Código de Processo Penal, verifica-se que o Tribunal de origem consignou que:
+"Prosseguindo, não assiste razão ao impetrante com relação a violação do art. 316, parágrafo único, do CPP já que consta dos autos a reavaliação da prisão em várias oportunidades, inclusive, em 07/03/2022 quando proferida da sentença de pronúncia, vejamos:
+Nos termos do §3º do artigo 413 do mesmo Código de Processo Penal, considerando a gravidade dos fatos, bem ainda que o pronunciado mostra-se useiro e vezeiro de condutas ilícitas, mantenho a sua custódia preventiva, pelas razões sobejamente expostas, inclusive na consideração de que o acusado permaneceu com paradeiro desconhecido por quase treze anos, sendo certo que o mesmo tinha pleno conhecimento das investigações policiais que lhe recaíam."(e-STJ, fls. 79-80)
+Verifica-se que acórdão recorrido está em consonância com o entendimento desta Corte Superior firmado no sentido de que a mera extrapolação do prazo nonagesimal não torna, por si só, ilegal a custódia provisória. Na hipótese, o Juízo processante reavaliou a necessidade da custódia preventiva por ocasião da prolação da pronúncia,em 07/03/2022.
+Conforme assentado, "o prazo de 90 dias para reavaliação da prisão preventiva, determinado pelo art. 316, paragrafo único, do CPP, é examinado pelo prisma jurisprudencialmente construído de valoração casuística, observando as complexidades fáticas e jurídicas envolvidas, admitindo-se assim eventual e não relevante prorrogação da decisão acerca da mantença de necessidade das cautelares penais" (AgRg no HC 579.125/MA, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 09/06/2020, DJe 16/06/2020). Nada há a reparar, no ponto.
+Ante o exposto, não conheço do habeas corpus.Recomenda-se, entretanto, de ofício, ao Juízo de Direito da 4ª Vara Criminal da Comarca de Vila Velha/ES, que reexamine a necessidade da segregação cautelar, tendo em vista o tempo decorrido e o disposto na Lei 13.964/19. Preconiza-se, igualmente, celeridade.
+Publique-se. Intimem-se.
