@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo de RAFAEL DUARTE contra decisão que inadmitiu o recurso especial, fundamentado no art. 105, III, "a", da Constituição Federal, apresentado contra o v. acórdão do eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+Ação declaratória de nulidade de cláusulas contratuais de compra e venda de bem imóvel e repetição de indébito. Alegação de abusividade na cobrança de correção monetária pelo INCC, incidente sobre as parcelas gradualmente liberadas pela CEF, até a expedição do habite-se. Alegação de pagamento em duplicidade. Sentença de improcedência devidamente fundamentada. Motivação do decisório adotado como julgamento em segundo grau. Inteligência do art. 252 do Recurso desprovido.
+(e-STJ fl. 172)
+Nas razões do recurso especial, o ora agravante alega violação dos arts. 6º, IV, 39, 51, IV, do CDC; do art. 46 da Lei n. 10.931/04; 2º, §4º, da Lei n. 10.192/01; e 11 e 12 da Lei n. 8.880/94. Além de sustentar quea correção monetária deveria incidir uma única vez ao ano, asseverando que, no caso, incide ainda uma dupla correção monetária sobre o saldo devedor do financiamento, posto queuma seria realizada pela Caixa Econômica Federal e outra, pela construtora.
+Decisão que inadmitiu o recurso especial às fls. 228/230 (e-STJ).
+Contraminuta às fls. 243/252 (e-STJ).
+É o relatório. Decido.
+O recurso não merece prosperar, porqueas matérias apontadas pelo agravante, bem como os dispositivos indicados como violados não foram objeto de apreciação pela Eg. Corte de origem, falecendo ao recurso especial o imprescindível prequestionamento.
+Com efeito, o v. acórdão recorrido se ateve àanalise da incidência do INCC, para fins de correçãomonetária, sobre os repasses graduais realizados pela instituição financeira. Desse modo, não há pronunciamento judicial das instâncias ordinárias no que se refere à periodicidade da correção monetária, tampouco quanto a eventual incidência de correção monetária concomitante imposta por terceiro estranho aos autos.
+Ressalta-se, outrossim, que não houve sequer a oposição dos embargos de declaração para provocar a expressa manifestação acerca das questões devolvidas no recurso especial. Aplica-se, assim, asSúmulas n. 282 e 356 do STF.Nesse sentido:
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL.  DIREITO DO CONSUMIDOR. PLANO DE SAÚDE. EXCLUSÃO DE COBERTURA DOS PROCEDIMENTOS NÃO PREVISTOS NO ROL DA ANS. FALTA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTOS CENTRAIS DO ACÓRDÃO. SÚMULA 283 DO STF. INCIDÊNCIA. SÚMULA 5 DO STJ. AGRAVO NÃO PROVIDO.
+1. O prequestionamento é exigência inafastável contida na própria previsão constitucional, impondo-se como um dos principais pressupostos ao conhecimento do recurso especial. Por isso que, não decidida a questão pela instância ordinária e não opostos embargos de declaração, a fim de ver suprida eventual omissão, incidem, por analogia, os enunciados n. 282 e 356 da Súmula do Supremo Tribunal Federal.
+2. A subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado impõe o não-conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula nº 283/STF: É inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+3. Agravo interno não provido.
+(AgInt no AREsp 1966180/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 28/03/2022, DJe 30/03/2022)
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. LEGITIMIDADE PASSIVA. CADEIA DE FORNECIMENTO. AFASTAMENTO. IMPOSSIBILIDADE. INEXISTÊNCIA DE ALCANCE NORMATIVO DOS ARTIGOS INDICADOS. SÚMULA N. 284/STF. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 282 DO STF E 211 DO STJ. FALTA DE IMPUGNAÇÃO A FUNDAMENTO DO ACÓRDÃO RECORRIDO. SÚMULA N. 283/STF. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. DECISÃO MANTIDA.
+1. Considera-se deficiente, a teor da Súmula n. 284 do STF, a fundamentação recursal que alega violação de dispositivos legais cujo conteúdo jurídico não tem alcance normativo para amparar a tese defendida no recurso especial.
+2. A simples indicação de dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor das Súmulas n. 282 do STF e 211 do STJ.
+3. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF.
+4. O recurso especial não comporta exame de questões que impliquem análise de cláusulas contratuais e revolvimento do contexto fático-probatório dos autos (Súmulas n. 5 e 7 do STJ).
+5. No caso, o Tribunal a quo assentou que a agravante integrou a cadeia de fornecimento, motivo por que reconheceu sua legitimidade passiva para a demanda. Para entender de modo contrário, seria imprescindível nova análise da matéria fática, inviável em recurso especial.
+6. Divergência jurisprudencial não comprovada, ante a incidência das Súmulas n. 284, 282 e 283 do STF e 211, 5 e 7 do STJ.
+7. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1712258/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 28/03/2022, DJe 31/03/2022)
+Com esses fundamentos, nos termos do art. 253, parágrafo único, II, "a", do RISTJ, conheço do agravo para não conhecer o recurso especial.
+Publique-se.
