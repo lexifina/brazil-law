@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial interposto por DAVID DE SANTANA FARAGO, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal, contra acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Depreende-se dos autos que o recorrente foi condenado, pela prática do delito tipificado no art. 157, § 2º , II (concurso de agentes) e § 2º-A, I (arma), por duas vezes,do CP, à pena de 7 anos, 9 meses e 10 dias de reclusão.
+A apelação defensiva foi desprovida pelo Tribunal de origem (e-STJ fls. 298/305).
+Daí o recurso especial, no qual alega a defesa queo regime prisional teria sidofixado considerando a gravidade abstrata do delito. Sustenta que o recorrente faz jus ao regime inicial semiaberto.
+Contrarrazões às e-STJ fls. 323/326.
+Instado a se manifestar, o Ministério Público Federal opinou pelo desprovimento do recurso (e-STJ fls. 339/341).
+É o relatório.
+Decido.
+Preliminarmente cumpre ressaltar que, na esteira da orientação jurisprudencial desta Corte, por se tratar de questão afeta a certa discricionariedade do magistrado, a dosimetria da pena é passível de revisão nesta instância extraordinária apenas em hipóteses excepcionais, quando ficar evidenciada flagrante ilegalidade, constatada de plano, sem a necessidade de aprofundamento no acervo fático-probatório.
+Acerca da controvérsia, consta da sentença condenatóriaque foi mantida pelo Tribunal de origem, o seguinte(e-STJ fls. 209):
+O regime inicial de cumprimento da pena é o fechado, segundo dispõe o artigo 33, §§ 2º e 3º, do Código Penal, porque, apesar de a pena ser inferior a 8 anos e ele não ser reincidente, as circunstâncias judiciais do artigo 59 do Código Penal são favoráveis a ele, devido à sua culpabilidade que é extremamente reprovável, por ter praticado o crime em concurso de pessoas e com o emprego de arma de fogo, de onde se infere a periculosidade concreta do réu (fls. 30/31 e 88).
+Da análise do excerto transcrito, constato que assiste razão à defesa.
+É que,"nos termos da orientação jurisprudencial desta Corte, a fixação do regime prisional mais gravoso requer fundamentação idônea, não se prestando a tal o fato de se tratar de delito praticado mediante concurso de agentes e emprego de arma de fogo, porquanto inerente ao delito praticado. Inteligência das Súmulas 440/STJ e 718 e 719/STF"(AgRg no REsp n. 1.913.786/SP, relator Ministro Olindo Menezes, Desembargador Convocado do TRF 1ª Região, Sexta Turma, julgado em 11/5/2021, DJe de 17/5/2021.)
+Nesse mesmo sentido:
+HABEAS CORPUS. PENAL. ROUBO MAJORADO. ART. 68, PARÁGRAFO ÚNICO, DO CÓDIGO PENAL. CONCURSO DE AGENTES E EMPREGO DE ARMA DE FOGO. AUSÊNCIA DE FUNDAMENTAÇÃO IDÔNEA PARA A APLICAÇÃO CUMULATIVA. PENAS REDIMENSIONADAS. READEQUAÇÃO DO REGIME PRISIONAL DO PACIENTE RICARDO MATHEUS. AUSÊNCIA DE FUNDAMENTAÇÃO IDÔNEA. VERBETES SUMULARES N.os 440/STJ, 718 E 719/STF. CABÍVEL O REGIME SEMIABERTO. ORDEM DE HABEAS CORPUS CONCEDIDA.
+1. O comando do parágrafo único do art. 68 do Código Penal ("No concurso de causas de aumento ou de diminuição previstas na parte especial, pode o juiz limitar-se a um só aumento ou a uma só diminuição, prevalecendo, todavia, a causa que mais aumente ou diminua.") confere ao juiz, no caso de concurso de causas de aumento previstas na parte especial, a faculdade - e não o dever - de fazer incidir a que mais aumente a pena, excluindo as demais. Precedentes do STF e STJ.
+2. No entanto, optando o magistrado sentenciante pela incidência cumulativa de causas de aumento da parte especial, a escolha deverá ser devidamente fundamentada, lastreada em elementos concretos dos autos, a evidenciar o maior grau de reprovação da conduta e, portanto, a necessidade de sanção mais rigorosa. Precedentes das Quinta e Sexta Turmas.
+3. Hipótese em que tanto a sentença quanto o acórdão que a confirmou não declinaram fundamentação concreta a justificar a incidência cumulativa das causas de aumento sob análise (concurso de agentes e emprego de arma de fogo), ao revés, admitiu o Juiz sentenciante que "não houve elevado número de agentes ou emprego de arma de grosso calibre". Penas redimensionadas.
+4. Se o réu é primário, não tendo sido valorada negativamente nenhuma vetorial do art. 59 do Código Penal na fixação da pena-base, cuja pena seja superior a 4 (quatro) anos e não exceda a 8 (oito), cabível o regime inicial semiaberto, notadamente, no caso, uma vez que a fundamentação lançada pelas instâncias ordinárias para fixar o regime inicial mais gravoso do réu Ricardo não extrapola o tipo penal do crime de roubo majorado. Readequação do regime inicial de cumprimento da pena do Réu Ricardo.
+5. Ordem de habeas corpus concedida para fixar a pena do Paciente JEFFERSON FARCHA SAMPAIO em 7 (sete) anos, 9 (nove) meses e 10 (dez) dias de reclusão, em regime inicial fechado, além do pagamento de 18 (dezoito) dias-multa; e a do Paciente RICARDO MATHEUS DE OLIVEIRA SILVA em 6 (seis) anos e 8 (oito) meses de reclusão, em regime inicial semiaberto, além do pagamento de 16 (dezesseis) dias-multa.
+(HC n. 501.063/RJ, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 25/8/2020, DJe de 4/9/2020.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. ROUBO MAJORADO. REGIME FECHADO. MOTIVAÇÃO CONCRETA INIDÔNEA. ILEGALIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Não obstante a pena-base haja sido fixada no mínimo legal, o quantum da pena estabelecido abaixo de 8 anos de reclusão e a primariedade do paciente, o regime inicial fixado foi o fechado.
+2. A Corte estadual não apresentou motivação idônea a sustentar a fixação do modo mais gravoso, mas tão somente em razão de se tratar de roubo majorado pelo concurso de agentes e uso de arma de fogo.
+3. Agravo regimental não provido.
+(AgRg no HC n. 448.645/RJ, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 23/6/2020, DJe de 1/7/2020, grifei.)
+Dessa forma, tendo em vista que a pena-base foi fixada no mínimo legal, e que não foi deduzida nenhuma fundamentação para o recrudescimento do regime, forçoso o provimento do recurso.
+Ante o exposto, dou provimento ao recurso, para fixar o regime semiaberto para o início do cumprimento da reprimenda do recorrente.
+Publique-se. Intimem-se.
