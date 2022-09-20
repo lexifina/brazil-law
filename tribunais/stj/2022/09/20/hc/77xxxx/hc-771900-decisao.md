@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se dehabeas corpusimpetrado em benefício próprio por CRISTIANO ZAGO contra acórdão da 10ª Câmara Criminal do Tribunal de Justiça do Estado de São Paulo (HC n. 0016891-33.2022.8.26.0000).
+Segundo consta dos autos, o paciente foi preso preventivamente pela suposta prática do delito de estelionato. Inconformada, a defesa impetrou a ordem originária na Corte estadual, alegando constrangimento ilegal "pelo fato de se encontrar custodiado em "cela comum", no que estariam sendo violadas prerrogativas asseguradas pelo Estatuto da Ordem dos Advogados do Brasil". Contudo, o Tribunal de Justiça do Estado de São Paulo denegou a ordem, em acórdão ementado nos seguintes termos (e-STJ fl. 39/42):
+Habeas corpus. Estelionato. Decretação de prisão preventiva. Prisão de advogado em cela comum. Regularidade da custódia já analisada em writ anterior. Impetrante/paciente que está em cela separada dos presos comuns. Ordem não conhecida em parte, e denegada com relação ao restante.
+Na presente oportunidade, o paciente/impetrante alega que se encontra em cela comum, sem condições adequadas de higiene. Afirma haver violação de suasprerrogativas de advogado, diante da inobservância do art. 7º, inciso V, da Lei n.8.906/1994 (Estatuto da Advocacia e da Ordem dos Advogados do Brasil).
+Diante disso, pleiteia, liminarmente e no mérito, a concessão de ordem para revogar a prisão preventiva, inclusive mediante aplicação de medidas cautelares alternativas.
+É o relatório. Decido.
+Owritnão merece conhecimento.
+As matérias alegadas na presente impetração já se encontram sob análise desta Corte, no bojo dodo HC nº 765.212/SP, previamente impetradopela Comissão de Direitos e Prerrogativas da Ordem dos Advogados do Brasil em São Paulo, em benefício do paciente/impetrante e contra o mesmo acórdão.
+Observe-se que aquelehabeas corpus, impetrado anteriormente, contém alegações mais abrangentes, não se justificando dupla tramitação sobre a mesma matéria.
+"Épacífico o entendimento firmado nesta Corte de que não se conhece de habeas corpus cuja questão já tenha sido objeto de análise em oportunidade diversa, tratando-se de mera reiteração de pedido" (AgRg no HC n. 531.227/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 10/09/2019, DJe 18/09/2019).
+Todavia, de modo a assegurar a amplitude de defesa ao acusado, e considerando que o presentehabeas corpusfoi elaborado pelo próprio paciente, sendo suas alegações de especial relevância, considero adequado quecópia da presente inicial (e-STJ fls. 6/17) seja trasladada ao HC n.765.212/SP, de modo que suas considerações sejam apreciadas a título de complemento às teses apresentadas pela OAB.
+Ante o exposto, com amparo no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Intimem-se.
