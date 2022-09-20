@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de agravo manejado pela Fazenda Nacional, desafiando decisão da Vice-Presidência do Tribunal Regional Federal da 3ª Região que não admitiu recurso especial com base nos seguintes fundamentos: (I) "não existe a alegada ofensa ao art. 1.022 do CPC" (fl. 285); (II) incidência da Súmula 83/STJ, pois "o entendimento emanado nesta Corte não destoa da jurisprudência superior" (fl. 287); e (III) "mostra-se incabível a análise de dispositivos constitucionais suscitados para fins de interposição de recurso especial, sob pena de invasão da competência do Supremo Tribunal Federal" (fl. 287).
+Nas razões de agravo em recurso especial, a parte sustenta que: (I) "O v. acórdão recorrido, nos termos em que foi prolatado, partindo do pressuposto de que não houve omissão, acabou por negar vigência ao art. 1022 do CPC" (fl. 297); e (II) "mesmo havendo Súmula em relação a determinada matéria, esta não impede a prolação de decisões em sentido contrário, podendo ocorrer, inclusive, a revogação da mesma pelo próprio Tribunal que a editou" (fl. 298).
+Parecer do Ministério Público às fls. 335/341.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Verifica-se que o inconformismo nem sequer ultrapassa a barreira do conhecimento, pois a parte agravante não impugnou todos os motivos adotados pelo Tribunal de origem para negar trânsito ao apelo especial, deixando de rebater, de modo específico, aSúmula 83/STJ, caberia ao recorrente demonstrar que o entendimento jurisprudencial não está pacificado no mesmo sentido do acórdão recorrido, ou, ainda, que o precedente não se aplicaria ao caso dos autos. Nesse sentido: AgIntno REsp 1.396.520/SP, Rel. Ministro Napoleão Nunes Maia Filho, PrimeiraTurma, DJe 13/9/2019.
+Incide, desse modo,por analogia, a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida.").
+ANTE O EXPOSTO, não conheço do agravo.
+Publique-se.
