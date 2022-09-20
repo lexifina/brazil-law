@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA SEÇÃO do Superior Tribunal de Justiça, em sessão virtual de 14/09/2022 a 20/09/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Raul Araújo, Paulo de Tarso Sanseverino, Maria Isabel Gallotti, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Antonio Carlos Ferreira.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (RELATOR):
+Cuida-se de agravo interno interposto por CALÇADOS MARTINIANO S/A - MASSA FALIDA contra decisão, da lavra deste signatário, acostada às fls. 380/383, que não conheceu do presente incidente.
+Em resumo, trata-se deconflito positivo de competência, com pedido de liminar, instaurado por CALÇADOS MARTINIANO S/A - MASSA FALIDA, envolvendo o r. Juízo de Direito da 3ª Vara Cível de Franca/SP, no qual se processa a falência da suscitante (Processo nº 0008330-59.1995.8.26.0196), e o r. Juízo da 10ª Vara do Trabalho de São Paulo/SP, onde tramita a execução trabalhista nº 0300700-72.1992.5.02.0010, movida por RUY DOS SANTOS BAPTISTA.
+Aduziu a suscitante,em síntese, que o Juízo Trabalhista determinou a realização de atos executórios contra seus bens nos autos da mencionada ação trabalhista, na qual figura como reclamada, invadindo, assim, competência exclusiva do Juízo Falimentar, que, conforme alega, é o foro competente para tratar de atos que afetem seu patrimônio.
+Acrescentou, nesse contexto, que "(..) em razão da r. decisão que se pretende ver declarada nula por este C. Superior Tribunal de Justiça, objeto deste conflito de competência, a Suscitante está impedida de utilizar vultosa quantia em dinheiro que lhe seria disponibilizada nos autos do processo nº 1552762- 44.1988.4.03.6102 em tramite na 5ª Vara Federal de Ribeirão Preto/SP com o fim de encerrar a fase arrecadatória."
+Citou, em favor de sua tese, os seguintes julgados deste STJ: CC 169066/DF, Rel. Min. MOURA RIBEIRO, Dje de 05/05/2020; AgInt no CC 145.089/MT, Rel. Ministra NANCY ANDRIGHI, Segunda Seção, j. 8/2/2017, DJe 10/2/2017; CC 135.703/DF, Rel. Ministro ANTONIO CARLOS FERREIRA, Segunda Seção, j. 27/5/2015, DJe de 16/6/2015.
+Pediu, em caráter liminar,"(..) o sobrestamento da execução trabalhista em curso, de modo a evitar a ocorrência de danos irreparáveis ou de difícil reparação, tendo em vista que a Suscitante se encontra em regime de falência, estando, especificamente, em fase final de arrecadação de bens, porquanto a penhora no rosto dos autos deferida irá travar o pagamento dos credores trabalhistas devidamente habilitados, além de favorecer um único credor, preterindo os demais que aguardam há mais de 30 anos para receber."
+No mérito, requer a declaração de competência do r. Juízo Falimentar. (fls. 3/28)
+Às fls. 271/273, este signatário indeferiu o pedido liminar. Opostos embargos de declaração (fls. 282/285), esses aguardam julgamento.
+Prestadas as informações (fls. 287/291 e 292/299), o MPF ofertou parecer pela competência do r. juízo universal. (fls. 374/378)
+Às fls. 380/383, este signatárionão conheceu do incidente.
+Nas razões do presente agravo interno (fls. 389/421) a agravantesustentao cabimento do conflito de competência. Diz, outrossim, que foi determinada a realização de atos constritivos em face de seurespectivopatrimônioem violação à via atrativa do r. universal.
+Pede, ao final, o conhecimento do incidente e a declaração de competência do r. juízo da 3ª Vara Cível de Franca/SP.
+Sem impugnação.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA -RECUPERAÇÃO JUDICIAL -EXECUÇÃO DE CRÉDITO TRABALHISTA - INCLUSÃO DE COOBRIGADOS NO POLO PASSIVO -DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA -COMPETÊNCIA INDISTINTA DA JUSTIÇA COMUM E DA JUSTIÇA DO TRABALHO - DELIBERAÇÃO UNIPESSOAL QUE NAO CONHECEU DO CONFLITO - INSURGÊNCIA DO SUSCITANTE.
+1. A Justiça do Trabalho, no âmbito da legislação específica, possui competência para desconsiderar a personalidade jurídica, declarar a existência de grupo econômico e redirecionar a execução em face de empresa a ele pertencente (AgRg no CC 140.410/DF, Rel. Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, julgado em 23/09/2015, DJe 01/10/2015).
+2. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (RELATOR):
+A insurgência não merece prosperar.
+1. Nos termos da jurisprudência desta Corte Superior, a Justiça do Trabalho, no âmbito da legislação específica, possui competência para desconsiderar a personalidade jurídica,declarar a existência de grupo econômico e redirecionar a execução em face de empresa a ele pertencente (ut. AgRg no CC 140.410/DF, Rel. Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, julgado em 23/09/2015, DJe 01/10/2015)
+Na mesma linha:
+AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL. EXECUÇÃO DE CRÉDITO TRABALHISTA. INCLUSÃO DE COOBRIGADOS NO POLO PASSIVO. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. COMPETÊNCIA INDISTINTA DA JUSTIÇA COMUM E DA JUSTIÇA DO TRABALHO. AUSÊNCIA DE INVASÃO DE ATRIBUIÇÕES JUDICIAIS. AGRAVO INTERNO DESPROVIDO.
+1. Nos termos da iterativa jurisprudência desta Corte, a Justiça do Trabalho tem competência para decidir acerca da desconsideração da personalidade jurídica da sociedade em recuperação judicial, bem como para, em consequência, incluir coobrigado no polo passivo da execução, pois tal mister não é atribuído com exclusividade a um determinado Juízo ou ramo da Justiça.
+2. (..)."5. Agravo interno desprovido.
+AgInt no CC 160384 / SP , Rel. Min. Raul Araújo, DJe de 30/10/2019.
+E ainda: AgInt no CC 157.741/SP, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 22/08/2018, DJe 24/08/2018; AgInt no CC 145.697/BA, Rel. Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 09/11/2016, DJe 18/11/2016.
+Com efeito, a corroborar o referido entendimento, observa-se nas informações prestadas pelo r. Juízo Laboral a seguinte e elucidativa passagem, verbis: "(..) Interpondo Recurso de Revista, o exequente/agravante obteve, do C. TST, provimento, para, reconhecendo a competência da Justiça do Trabalho para processar e julgar a ação e devolvendo os autos à Vara de origem, a fim de que prosseguisse no julgamento do processo, como entendesse de direito. A Colenda Turma do TST entendeu que "O redirecionamento da execução a empresa integrante do grupo econômico não extrapola a competência constitucional da Justiça do Trabalho, porquanto não haverá constrição sobre bens da massa falida." Em 02.06.2021, a empresa CALÇADOS MARTINIANO S/A, CNPJ: 47.953.559/0001-08 foi reconhecida como integrante do mesmo Grupo Econômico da empresa executada originária, sendo incluída, formalmente, no polo passivo da execução, com fulcro no art. 2º, § 2º, da CLT." (fl. 290) (grifos nossos)
+Acrescentou o supracitado Juízo laboral "(..) Em 02.09.2021, a Massa Falida de Calçados Martiniano SA requereu sua habilitação nestes autos trabalhistas e opôs embargos de devedor alegando nulidade processual pela sua inclusão nestes autos trabalhistas sem que tenha ocorrido sua formal citação para defesa. O exequente contraminutou os embargos em 16.09.2021. Os autos estão em fase de apreciação e julgamento dos embargos." (fl. 290)
+Reconhecida, pela Justiça do Trabalho, a existência de grupo econômico impõe-se consoante orientação jurisprudencial da Segunda Seção, o não conhecimento do presente incidente, valendo destacar, por oportuno, a inadequação de seu uso para o exame de questões que estão submetidas ao crivo dos respectivos juízos de origem, notadamente na hipótese dos autos em que a suscitante apresentou sua defesa por meio de embargos do devedor perante a Justiça do Trabalho cujo exame encontra-se em processamento, consoante as informações prestadas.
+2. Do exposto, nega-se provimento ao agravo interno.
+É o voto.
