@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de habeas corpuscom pedido liminar impetrado em favor de JOSE ROBERTO PINTO TAVARES JUNIOR, apontando como autoridade coatora a 14ª CâmaraCriminal do Tribunal de Justiça doEstado de São Paulo, no julgamento doAgravo emExecução Penal n. 0004041-90.2022.8.26.0502.
+Noticiam os autos que o Juízo da execução proferiu decisão em que reconheceu a prática de falta disciplinar grave ocorrida em 16/11/2021, consistente na apreensão de entorpecente enviadovia Sedex aoestabelecimento prisional, endereçado ao paciente.Restou determinada a regressão ao regime fechado e a perda de 1/3 (um terço) dos dias anteriormente remidos (e-STJ fls. 80-83).
+Inconformada, a defesainterpôs agravo em execução, tendo o recurso sido parcialmente providopara afastar a perda dosdias remidos (e-STJ fls. 97-103).
+No presente writ, a impetrante alega a ausência de provas que demonstrem que o paciente tenha concorrido à conduta praticada por terceiro,considerando que apenas recebeu o entorpecente endereçado a ele via Sedex, supostamente tendo como remetente sua esposa.
+Alega que a droga não foi apreendida em sua posse, tendo sido interceptada antes do efetivo ingresso no estabelecimento prisional.
+Sustenta que o direito penal impede a responsabilização objetiva, fato que aliado ao princípio da intranscendência impõe a absolvição do paciente.
+Requera concessão da ordem de habeas corpus para que o paciente seja absolvido da falta disciplinar.
+A liminar foi indeferida (e-STJ fls. 106-107).
+Prestadas as informações (e-STJ fls. 111-125),
+O Ministério Público Federal manifestou-se pelo não conhecimento do writ (e-STJ fls. 129-134).
+É o relatório.
+Inicialmente, cumpre atestar a inadequação da via eleita para a insurgência da impetrante contra o ato apontado como coator, pois o ordenamento jurídico prevê recurso específico para tal fim, circunstância que impede o seu formal conhecimento.
+Entretanto, o suposto constrangimento alegado na inicial será analisado, a fim de se verificar a possível existência de flagrante ilegalidade que justifique a atuação de ofício por este Superior Tribunal de Justiça.
+Extrai-se dos autos, a partir do acórdão estadual, ter sido reconhecida a ocorrência de falta grave pelo paciente, sob os seguintes fundamentos (e-STJ fls. 99-100):
+Com efeito, não há que se falar em absolvição da falta grave, uma vez que ficou devidamente apurado em procedimento administrativo instaurado no presídio de que o sentenciado detinha a posse de substância ilícita entorpecente (fls. 08/47).
+Conforme apurado, o agente penitenciário Evandro Capucho Hummel informou que, no dia dos fatos, ao realizar a entrega da encomenda sedex ao sentenciado José Roberto Pinto Tavares Júnior, encontrou camuflado, no interior dos salgadinhos, 40 invólucros de cocaína. Disse, ainda, que durante a abertura da correspondência, o detento identificou a remetente Silvia Helena Silva de Jesus como sua companheira, bem como que a abertura do sedex se deu após sua autorização (fls. 26).
+O agente penitenciário Leandro corroborou a versão apresentada por Evandro (fls. 27). de Souza Rocha Dessa forma, em razão do vínculo subjetivo entre o agravante e sua companheira, certamente o entorpecente encontrado se destinava a ele. E não há que se cogitar a absolvição sob o argumento de que o agravante não teve a posse direta da droga, pois é punida a tentativa de qualquer fato que constitua falta disciplinar, com a mesma sançãoa ser aplicada em caso de consumação, conforme artigo 49, parágrafo único, da LEP.
+ ..
+Assim, a prova produzida é o quanto basta para demonstrar, cabalmente, que o sentenciado detinha a posse de substância entorpecente em desacordo com determinação legal ou regulamentar.
+Com efeito, segundo o art. 52 da Lei n. 7.210/1984, a prática de fato previsto como crime doloso pelo detento caracteriza falta disciplinar de natureza grave, sendo clara a redação do art. 49, parágrafo único, do referido diploma legal, no sentido de se punir a tentativa com sanção correspondente à falta consumada.
+No caso, a tentativa de introduzir entorpecentes na unidade prisional não foi praticada pelo ora paciente, circunstância expressamente narrada pelo Tribunal local, consoante o trecho acima transcrito.
+Desse modo, não há como imputar a conduta ilícita ao paciente, pois ele não praticou nenhum ato direcionado ao ingresso da droga nas dependências do estabelecimento penitenciário, sequer tendo a posse da referida substância.
+E, ainda que se considere o paciente ter ciência do fato, tal circunstância, por si só, não o faz incidir no tipo em comento, pois o apenado não praticou nenhum ato material na consecução do ilícito.
+Por isso, o ato coator padece de ilegalidade, diante do flagrante constrangimento ilegal ocorrido, com violação ao princípio da intranscendência ou princípio da personalidade.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. FALTA GRAVE. SEDEX DESTINADO AO APENADO CONTENDO SUBSTÂNCIA ENTORPECENTE. AUSÊNCIA DE ELEMENTOS CONCRETOS A COMPROVAR A SOLICITAÇÃO PELO PACIENTE. ATO DE TERCEIRO. PRINCÍPIO DA INTRANSCENDÊNCIA PENAL. CONSTRANGIMENTO ILEGAL EVIDENCIADO. ORDEM CONCEDIDA LIMINARMENTE DE OFÍCIO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Depreende-se dos autos que o apenado era o destinatário da substância entorpecente conhecida como K4, enviada mediante Sedex supostamente por sua genitora, de maneira que eventual ilícito, no caso vertente, foi praticado por terceiro, atraindo a aplicação do princípio da intranscendência penal.
+2. Embora possam existir suspeitas de que o paciente tenha solicitado a remessa do material, via sedex, não foram apresentadas provas nesse sentido, de maneira que se mostra incabível o reconhecimento da falta grave.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 745.890/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 21/6/2022, DJe de 27/6/2022.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. FALTA GRAVE. ATO DE TERCEIRO. AUSÊNCIA DE DEMONSTRAÇÃO DE INDÍCIOS MÍNIMOS DE AJUSTE PRÉVIO. AFASTAMENTO DA FALTA GRAVE. ORDEM CONCEDIDA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Esta Corte possui o entendimento de que, "em razão do princípio da intranscendência penal, a imposição de falta grave ao executado, por transgressão realizada por terceiro, deve ser afastada quando não comprovada a autoria do reeducando, através de elementos concretos" (HC n. 372.850/SP, relator Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe de 25/4/2017). Nesse sentido, é possível a responsabilização do reeducando por fato praticado por terceiro, desde que sejam evidenciados indícios mínimos de participação quanto à prática do ato, baseada em elementos concretos e não apenas em meras presunções.
+2. No caso, conquanto crível a existência de ajuste prévio entre o agravado e sua genitora quanto ao envio de placa de microaparelho de telefonia celular escondida em um pote de manteiga, não houve a indicação concreta de indícios mínimos em relação a tal ajuste, de maneira que a responsabilização do paciente deu-se por meio de mera ilação, tão somente porque a genitora do agravado constava em seu rol de visitantes. Constrangimento ilegal configurado. 3. Agravo regimental desprovido.
+(AgRg no HC n. 692.885/SP, relator Ministro Antônio Saldanha Palheiro, Sexta Turma, julgado em 15/3/2022, DJe de 21/3 /2022.)
+Ante o exposto, com fundamento no artigo 34, XX, do RISTJ, não conheço da impetração, mas concedo o habeas corpus de ofício, para reformar o acórdão do Tribunal de origem, absolvendo-se o paciente da prática de falta disciplinar de natureza grave.
+Comunique-se, com urgência, o Tribunal Estadual e o respectivo Juízo da Execução Penal.
+Publique-se. Intimem-se.
