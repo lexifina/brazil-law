@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por BANCO DO BRASIL S/A (BANCO DO BRASIL)contra decisão que negou seguimento ao seu apelo nobre manejado, por sua vez, contra acórdão do Tribunal de Justiça de Santa Catarina, assim ementado:
+AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CÉDULA DE CRÉDITO INDUSTRIAL GARANTIDA POR ALIENAÇÃO FIDUCIÁRIA. DECISÃO AGRAVADA QUE SUSPENDEU A EXECUÇÃO, TENDO EM VISTA A RECUPERAÇÃO JUDICIAL DA EMPRESA EXECUTADA, E DETERMINOU O CANCELAMENTO DO BLOQUEIO DE VALORES CONSTRITADOS PELO SISTEMA BACENJUD. BANCO/EXEQUENTE QUE OPTA EM AJUIZAR A EXECUÇÃO, PERSEGUINDO BENS DE LIVRE ESCOLHA. MATÉRIA A SER SUBMETIDA AO JUÍZOCONCURSAL. PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA. INTERLOCUTÓRIA MANTIDA. RECURSO DESPROVIDO.(e-STJ, fls. 173/180)
+Os embargos de declaração opostos por BANCO DO BRASILforam rejeitados(e-STJ, fls. 189/194).
+Irresignado, BANCO DO BRASILinterpôsrecurso especial com base no art. 105, III, alíneaa, da CF, apontando a violação aos arts. 69, caput, 49, §32 e 52, inciso III da Lei nº11.101/2005, ao sustentarque:(1)é inviável a suspensão da execução, pois dessa forma nenhum ato poderia ser praticado, quando, na verdade, a situação dependeria de uma manifestação do juízo da recuperação judicial sobre a natureza do crédito;(2)no caso de ser reconhecida a extraconcursalidade do crédito, a execução deverá prosseguir "em cooperação" com o juízo da recuperação;(3)a recuperação judicial não é causa prevista no CPC para suspender a execução; (4) a suspensão da execução na se estende aos créditos com garantia fiduciária.
+O recurso não foi admitido pelo Tribunal estadual(e-STJ, fls. 225/227).
+Nas razões do presente agravo, BANCO DO BRASIL alegouque não incidem os óbices apontados na decisão de inadmissibilidade.
+Foiapresentada contraminuta (e-STJ, fls. 229/235).
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que não merece prosperar.
+De plano, vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são inaplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 2 aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça.
+Nas razões de seu recurso, BANCO DO BRASIL alegouviolação que:(1) é inviável a suspensão da execução, pois dessa forma nenhum ato poderia ser praticado, quando, na verdade, a situação dependeria de uma manifestação do juízo da recuperação judicial sobre a natureza do crédito; (2) no caso de ser reconhecida a extraconcursalidade do crédito, a execução deverá prosseguir "em cooperação" com o juízo da recuperação; (3) a recuperação judicial não é causa prevista no CPC para suspender a execução; (4) a suspensão da execução na se estende aos créditos com garantia fiduciária.
+Entretanto, em consulta ao site do Tribunal de Justiça do Estado de Santa Catarina, foi possível verificar que, não obstante a decisão agravada, datada de 19.04.2018,tenha determinado a suspensão da execução em decorrência do deferimento da recuperação judicial, o processo foi reativado em 11.10.2019, com a consequente prática dos atos processuais para satisfação do crédito.
+Tendo em vista a prática de ato posterior incompatível com as razões recursais apresentadas, necessário o reconhecimento da perda superveniente do objeto. Confira-se:
+AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PENHORA DE VALORES NA CONTA DE TERCEIRO. DECISÃO POSTERIOR QUE DETERMINA A INSTAURAÇÃO DE INCIDENTE DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA, COM A MANUTENÇÃO DO BLOQUEIO. PERDA SUPERVENIENTE DO OBJETO RECURSAL. RECORRENTE QUE DEVERÁ SE INSURGIR AGORA NO BOJO DO REFERIDO INCIDENTE. RECURSO ESPECIAL PREJUDICADO. MANUTENÇÃO DA DECISÃO AGRAVADA POR SEUS PRÓPRIOS FUNDAMENTOS. AGRAVO INTERNO DESPROVIDO.
+1. Em razão da nova decisão proferida pelo Juízo a quo no incidente de desconsideração da personalidade jurídica instaurado, houve a perda superveniente do objeto discutido no presente feito, devendo a recorrente se insurgir contra o bloqueio dos valores em sua conta no bojo do referido incidente.
+2. Agravo interno desprovido.
+(AgInt no REsp n. 1.705.705/SP, relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 14/2/2022, DJe de 21/2/2022.)
+RECURSO ESPECIAL. PROCESSUAL CIVIL. CPC/2015. CUMPRIMENTO DE SENTENÇA. OBRIGAÇÃO DE FAZER COM ASTREINTES. CONTROVÉRSIA ACERCA DA NECESSIDADE DE INTIMAÇÃO PESSOAL DO DEVEDOR. CONVERSÃO DA OBRIGAÇÃO EM PERDAS E DANOS. ABDICAÇÃO DAS ASTREINTES PELO CREDOR. PRETENSÃO DE ANULAÇÃO DO PROCESSO. PERDA SUPERVENIENTE DE INTERESSE RECURSAL.
+1. Controvérsia acerca da necessidade de prévia intimação pessoal do devedor para a conversão de obrigação de fazer em perdas e danos.
+2. Caso concreto em que o credor abdicou das astreintes, após a conversão da obrigação em perdas e danos.
+3. Pretensão da parte recorrente (devedor) de anulação do processo a partir da decisão que converteu a obrigação em perdas e danos, sob o argumento de falta de intimação para o cumprimento da obrigação de fazer.
+4. Hipótese em que eventual anulação do processo conduziria ao restabelecimento da obrigação de fazer, e também das respectivas astreintes.
+5. Manifestação superveniente da parte recorrente no sentido de que não remanesce interesse no restabelecimento da obrigação de fazer.
+6. Perda superveniente de interesse recursal.
+7. RECURSO ESPECIAL PREJUDICADO.
+(REsp n. 1.864.824/PR, relator Ministro PAULO DE TARSO SANSEVERINO, Terceira Turma, julgado em 22/9/2020, DJe de 16/10/2020.)
+Forçoso observar ainda que referida matéria já foi objeto de debate no julgamento do Aresp nº 1674961/SC, de minha relatoria, em que o recurso não foi conhecido por incidência da Súmula 83 do STJ, conforme ementa abaixo transcrita:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CÉDULA DE CRÉDITO INDUSTRIAL GARANTIDA POR ALIENAÇÃO FIDUCIÁRIA. RECURSO QUE NÃO INFIRMA O FUNDAMENTO DA DECISÃO AGRAVADA. AGRAVO NÃO CONHECIDO.
+Referida decisão foi confirmada por unanimidade pelos membros desta Terceira Turma, no julgamento do agravo interno noAresp nº 1674961/SC, estando cobertapelo manto da preclusão. Confira-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DENEGATÓRIA DE ADMISSIBILIDADE DE RECURSO ESPECIAL. DESCUMPRIMENTO DOS REQUISITOS PRECONIZADOS PELO ART. 932, III, DO NCPC (ART. 544, § 4º, I, DO CPC/73). AGRAVO INTERNO NÃO PROVIDO.
+1. Aplicabilidade do NCPC neste julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Não se mostra viável o agravo em recurso especial que, apresentado em desacordo com os requisitos preconizados pelo art. 932, III, do NCPC (art. 544, § 4º, I, do CPC/73), não impugna os fundamentos da respectiva inadmissibilidade (incidência da Súmula nº 83 do STJ).
+3. Agravo interno não provido.
+Assim sendo, verifica-se que o recuso especial em análise perdeu seu objeto, seja pela retomada da execução em primeira instância, seja pelo julgamento de outro recurso discutindo exatamente a mesma matéria.
+Nessas condições, pelo meu voto, JULGO PREJUDICADO o recurso especial em análise.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO INTERPOSTO SOB A ÉGIDE DO NCPC. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CÉDULA DE CRÉDITO INDUSTRIAL GARANTIA POR ALIENAÇÃO FIDUCIÁRIA. SUSPENSÃO DA EXECUÇÃO. REATIVAÇÃO POSTERIOR DO PROCESSO. PERDA DO OBJETO SUPERVENIENTE. MATÉRIA QUE, ADEMAIS, JÁ FOI OBJETO DE ANÁLISE E JULGAMENTO POR ESTA TERCEIRA TURMA. PRECLUSÃO. OCORRÊNCIA.RECURSO PREJUDICADO.
