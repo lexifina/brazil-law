@@ -1,0 +1,8 @@
+DECISÃO
+Por meio das petições de nºs. 00024203/2022 (fls. 318-326, e-STJ), 00090931/2022 (fls. 330-358, e-STJ) e 00312030(fls. 361-362, e-STJ), a requerente METROPOLITAN LIFE SEGUROS E PREVIDÊNCIA PRIVADA SA, agravante, e MARIA JOSÉ BARBOSA, agravada,noticiaram a celebração deacordo, expuseram os termos da avença (fls. 320-323, e-STJ) e requereram a devolução dos autos ao Juízo de origem para homologação do referido pacto e extinção do processo com resolução de mérito.
+É o breve relatório. Decide-se.
+1. A realização de acordo entre as partes, sem qualquer reserva, representa ato incompatível com a vontade de recorrer, o que foi reforçado pelas partes nas cláusulas 5 e 6dopacto, em queexpressamente renunciam ao direito recursal contra a decisão que homologar o acordo, bem como desistem dosrecursoseventualmente interpostos (fl. 321, e-STJ).
+Nesse contexto, observo que os advogadosGUSTAVO SICILIANO CANTISANOe EDVAN BORGES CARDOSO,subscritores da minuta do acordo, possuem poderes para transigir e para desistir, conforme as procurações de fls. 8, 123-126 e332, e-STJ. Assim, encontram-se cumpridas as formalidades dos artigos 104 e 105 do CPC/2015.
+Embora a homologação de acordo esteja ente as atribuições do relator, nos termos do art. 34, inciso IX, do RISTJ, é recomendável o retorno dos autos à origem,pois, considerando os termos da avença, a execução do pacto e eventuais divergências acerca de seu cumprimento deverão ser processadas e decididas em primeira instância.
+2. Do exposto, com fundamento no art. 932, inciso III, do CPC/2015 e art. 34, inciso XI, do RISTJ, julgo extinto o procedimento recursal, ante a perda do objeto, e determino o retorno dos autos à origem para homologação e acompanhamento do acordo.
+Publique-se. Intimem-se.
