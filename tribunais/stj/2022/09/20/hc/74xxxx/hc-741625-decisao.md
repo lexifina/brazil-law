@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de JOANA D"ARC SOUZA DE OLIVEIRAem que se aponta como autoridade coatora oTribunal de Justiça do Estado do Rio de Janeiro(HC n. 0009670-91.2022.8.19.0000).
+Apaciente teve a prisão em flagrante convertida em preventivapela suposta prática do delito de furto qualificado.
+O decreto prisional fundou-se na garantia da ordem públicaemrazãode apaciente responder a outros processos por delito da mesma natureza.
+Interposto writ originário,a ordem foi denegada.
+A defesa alega que o paciente está sendo vítima de constrangimento ilegal, pois não estão preenchidos os requisitos da custódia cautelar.
+Destaca a ausência do periculum libertatis e a violação do princípio da insignificância.
+Afirma a ocorrência de afronta ao princípio da homogeneidade, aduzindoquea custódia cautelar é mais gravosa do que uma futura condenação.
+Pondera acerca da ausência de fundamentação da recusa do acordo de não persecução penal.
+Requer a revogação da prisão preventiva com a expedição de alvará de soltura em favor dapaciente ou a substituição da prisão preventiva por medidas cautelares alternativas.
+É o relatório. Decido.
+A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que comprovema necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 2/9/2020).
+No caso, está justificada a manutenção da preventiva, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP, não sendo recomendável a aplicação de medida cautelar referida no art. 319 do CPP. A propósito, assim se manifestou o Tribunal a quo (fl. 81, destaquei):
+14. Noutro giro, quanto à alegação de ausência de previsão legal para o decreto prisional, destaco que essa também não merece acolhimento ao passo que o juízo da custódia, ao analisar o caso em apreço, destacou, em especial, a necessidade de garantia da ordem pública ante a constatação de reiteração delitiva específica da paciente, a qual responde por outros dois processos também por furto de fios em estação do BRT (nº 0263410-45.2020.8.19.0001 e nº 0328857-43.2021.8.19.0001).
+15. Com efeito, bem delineada não só a necessidade de resguardo da ordem pública, como também a insuficiência de qualquer medida cautelar arrolada no artigo 319, CPP, sendo demonstrado, inclusive, o periculum libertatis. Isso porque a paciente cometeu nova infração, de mesma natureza, por três vezes em curto espaço de tempo, evidenciando o risco de reiteração delitiva.
+Tendo a necessidade de prisão cautelar sido exposta de forma fundamentada e concreta, é incabível a substituição por medidas cautelares mais brandas (RHC n. 133.153/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 21/9/2020).
+Observa-se queo fundado receio dereiteração delitivafoiconsideradopelo Juízo de primeiro grau para a decretação da prisão preventiva, visto que a paciente ostenta outrosprocessos por delito da mesma natureza, mormenteconsiderando o curto espaço de tempo entre as condutas tidas por delituosas,justificando a imposição da medida extrema para garantia da ordem,em detrimento das demais cautelares substitutivas.
+Conforme orientação jurisprudencial do STJ, a existência de maus antecedentes e a reincidência justificam a imposição de prisão preventiva como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública (AgRg no HC n. 591.246/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 22/9/2020; e AgRg no HC n. 602.616/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 3/9/2020).
+Ademais, inquéritos policiais ou ações penais em curso justificam a imposição de prisão preventiva como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública (AgRg no HC n. 603.774/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 28/9/2020; e HC n. 602.698/RS, relator Ministro Felix Fischer, Quinta Turma, DJe de 6/10/2020).
+No que diz respeito aoprincípioda bagatela e à ausência de fundamentação da recusa do acordo de não persecução penal,as questões não foramenfrentadas pela instância de origem, também não foram opostos embargos de declaração para provocar a referida manifestação. Assim, o STJ não pode apreciar a matéria, sob pena de supressão de instância (RHC n. 98.880/CE, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 14/9/2018).
+Por fim, quanto à alegada violação do princípio da homogeneidade, saliente-se não ser possível, nesta via processual, realizar prognósticos quanto a eventual pena ou regime prisional a ser imposto em caso de condenaçãoque ainda depende de um juízo de tipicidade e de culpabilidade(HC n. 507.051/PE, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 28/10/2019).
+Portanto, não se constata a existência de flagrante constrangimento ilegal que autorize a atuação ex officio.
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
