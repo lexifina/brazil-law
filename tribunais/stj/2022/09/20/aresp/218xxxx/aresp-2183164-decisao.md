@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de agravo apresentado por SUL AMERICA COMPANHIA DE SEGURO SAUDE contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+AGRAVO DE INSTRUMENTO OBRIGAÇÃO DE FAZER - CUMPRIMENTO DE SENTENÇA MULTA COMINATÓRIA INADIMPLEMENTO CONFESSO JUSTIFICATIVA NÃO ACOLHIDA DECISÃO MANTIDA - RECURSO NÃO PROVIDO.
+Quanto à controvérsia, alega violação do art. 537, § 1º, do CPC, no que concerne à redução do valor fixado a título de astreintes, pautada no princípio da proporcionalidade, trazendo os seguintes argumentos:
+É manifestamente absurda e excessivamente desproporcional o valor da multa atribuída no decurso da presente lide, se observadas as circunstâncias referentes ao caso em questão. Com efeito, a conduta do Estado deve estar pautada pelos princípios constitucionais e dentre eles se destaca o princípio da proporcionalidade.
+Dessa forma, o Juiz, concessa maxima venia, como representante do Poder Estatal, não pode praticar excessos, proferindo decisões que se afiguram desnecessárias e irrazoáveis, como ocorreu no caso em tela.
+ ..
+Todavia, no caso em voga, a imposição da multa arbitrada pelo descumprimento da antecipação de tutela, é flagrantemente desproporcional ao próprio título executivo (fls. 91- 92).
+É, no essencial, o relatório. Decido.
+No que concerne à primeira controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+Logo, deve a agravante arcar com o pagamento da multa a que fora condenada, mantendo-se o bloqueio dos ativos financeiros pelo valor de R$50.000,00, pois dadas as circunstâncias do caso e, principalmente, o lapso temporal decorrido entre a intimação da ré e o efetivo cumprimento da ordem, reputo razoável o montante arbitrado (fl. 60).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que, muito embora possa o STJ atuar na revisão do valor das astreintes, esta restringe-se aos casos em que fixadas na origem em valores irrisórios ou excessivos, o que não se verifica no caso concreto.
+Nesse sentido: "A jurisprudência do STJ orienta-se no sentido de que, em regra, não se mostra possível, em recurso especial, a revisão dos valores fixados a título de honorários advocatícios e astreintes, pois tal providência exigiria novo exame do contexto fático-probatório constante dos autos, o que é vedado pela Súmula 7/STJ. Todavia, o óbice da referida súmula pode ser afastado em situações excepcionais, quando for verificado excesso ou insignificância das importâncias arbitradas, ficando evidenciada ofensa aos princípios da razoabilidade e da proporcionalidade, hipóteses não configuradas nos autos". (AgInt no AREsp 1.340.926/PE, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 28/2/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.551.437/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 26/8/2020; AgInt no AREsp 1.487.241/SC, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 14/8/2020; e AgInt no REsp 1.479.479/AM, relator Ministro Og Fernandes, Segunda Turma, DJe de 29/6/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
