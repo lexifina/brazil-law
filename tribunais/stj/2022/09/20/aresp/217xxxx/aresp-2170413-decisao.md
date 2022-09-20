@@ -1,0 +1,63 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que inadmitiu o recurso especial, com fundamento na Súmula 7/STJ.
+Nas razões do recurso especial, aponta o Ministério Público estadual violação do art. 121, § 2º, I e IV, do CP e do art. 593, III,d, do CPP.
+Sustenta quea decisão dos jurados, mantida pelo Tribunal a quono julgamento da apelação, mostrou-se manifestamente contrária à prova dos autos.
+Alega que"o material probatório coligido mostra-se indene de dúvidas, indicando que o acusado realmente praticou a conduta delitiva narrada na inicial acusatória" (fl. 2733).
+Afirma que "a Corte a quo não atribuiu o devido valor aos elementos de prova jungidos, mormente aos depoimentos colhidos na tramitação do feito, tendo a decisão que absolveu o acusado da prática do crime de homicídio qualificado sido proferida de forma equivocada e diametralmente oposta às provas arregimentadas" (fl. 2735).
+Requer, assim, o provimento do recurso especial, a fim de anular a decisão do Tribunal do júri e submeter o acusado a novo julgamento.
+Apresentada a contraminuta, manifestou-se o Ministério Público Federal pelo improvimento do agravo.
+O recurso é tempestivo e ataca os fundamentos da decisão agravada. Passo, portanto, à análise do mérito.
+O recorrido e oscorréusforam denunciados pela suposta prática do crime previsto no art. 121, § 2º, I e IV, do CP, sendo que somente o ora recorrido foi pronunciado.Submetido a julgamento pelo tribunal do júri, foi absolvido, sendo acolhida pelos jurados a tese de negativa de autoria. OMinistério Público estadual interpôs apelação, que restou improvida, mantendo-se inalterada a sentença.
+No presente recurso, a acusação defende que a decisão do Conselho de sentença é contrária às provas dos autos, que não deixam dúvidas acerca da prática delitiva pelo acusado.
+O acórdão recorrido encontra-se assim fundamentado (fls. 2713-2717):
+Diante dessas considerações, não obstante as razões apresentadas pelo apelante, entendo, a partir de percuciente análise dos autos, que o acervo probatório coligido não está em rota de colisão com o decidido pelo Conselho de Sentença, de modo a ensejar a anulação do julgamento e autorizar a realização de um novo Júri, tal qual pretende o representante do Ministério Público.
+Na hipótese específica destes autos, amaterialidade do delitorestou comprovada pelo laudo pericial cadavérico de nº 6737/2015, anexado às fls. 56/61, do processo materializado.
+Lado outro,em relação à autoria delitiva, o Conselho de Sentença não reconheceu a autoria por parte o acusado, conquanto, a meu sentir, entenda que existem indícios que o recorrido possa ter cometido o delito, há de se ressaltar que a decisão do aludido conselho é soberana.
+Consoante já mencionado, o que a jurisprudência exige para a anulação de uma decisão do Tribunal do Júri é que ocorra um erro profundo ou absurdo no julgamento, algo teratológico, o que, permissavênia,não ocorreu.
+No caso sub judice, percebo que a decisão colegiada não se mostra totalmente divorciada da prova dos autos, uma vez que o Conselho de Sentença acolheu a tese que lhe pareceu a mais correta, qual seja, a negativa de autoria sustentada pela defesa, tese juridicamente aceitável.
+A testemunha de acusação,Natasha Maria Santos, na sessão plenária, realizada em 09.09.2020,asseverou que quem matou a vítima foi o seu companheiro (falecido) Alisson Felipe dos Santos Anjos. Confira-se o depoimento:
+-Promotora de Justiça Dra. Mônica Hardman: O que a senhora soube
+-Testemunha Natasha Maria Santos: Assim, posso falar a verdade
+- Promotora: A verdade.
+-Testemunha Natasha: Da última vez que eu vim, eu falei até a verdade, porque eu estava sendo pressionada e aí esse meu esposo que era do meio errado, me confessou antes de morrer, quando eu fui a última vez visitar ele, porque eu estava vendo direto, eu disse que estava já de saco cheio de vim depor, porque eu não tinha nada a ver, né  Cada um com sua vida. Ai, ele disse pra mim que não era para eu não falar nada, mas foi ele que tava na morte de "DKT".
+- Promotora: Mas veja bem, a senhora, na época da Delegacia, prestou esse depoimento que eu lhe mostrei a assinatura..
+-Testemunha: Uhum, eu não sabia.
+- Promotora: Esse depoimento, foi no dia 05 de outubro de 2015, nas folhas 23. Nessa época, a senhora disse expressamente que não tinha..que é esposa de Alisson Felipe dos Santos Anjos.., era porque ele estava no CENAM, o seu marido foi apreendido no CENAM.
+- Testemunha: Unhum.
+- Promotora: Acerca do envolvimento do seu esposo na morte de Felipe Silva dos Santos, que é nosso Felipe, a nossa vítima, assassinado no dia 16 de setembro de 2015, afirma que ele não teve qualquer participação, pois nesse dia ele estava no interior com medo de morrer. Na primeira vez que a senhora foi na delegacia, a senhora disse que senhor Alisson Felipe não participou da morte de Felipe, que é a vítima do processo, porque estava no interior, com medo de morrer e agora a senhora está dizendo que ele participou da morte
+- Testemunha: (Gesticulou que sim). Porque ele me disse assim, a gente tinha ido para o interior realmente.
+(..)
+- Promotora: Então, quando a senhora prestou esse depoimento lá na Delegacia, a senhora disse que não tinha o envolvimento do seu esposo na morte da nossa vítima aqui do processo, porque ele não tinha..
+- Testemunha: Não tinha falado para mim, depois que ele me disse, já foi na terceira vez que ele estava no presídio da COPECAM, daí ele ia vim depor, quando ele saiu, cinco dias depois mataram ele, só que ele já tinha me dito, entendeu
+- Promotora: Entendi, O seu Alisson, assassinado cinco dias depois que foi posto em liberdade, mas antes de morrer, ele teria dito a senhora, foi
+- Testemunha: Ele me disse porque eu ia vir.
+- Promotora: Ia ser testemunha. Aí ele disse o que a senhora
+- Testemunha: Que no dia que ele saiu, que depois que ele retornou, ele disse que aonde foi que fez, só que ele não disse com quem tava.
+- Promotora: Pronto. Ele não disse onde ele tava, ele disse que ele participou, o senhor Alisson, que hoje é falecido, por isso que não está sendo processado, poque está morto, morto não tem como responder processo, mas ele confessou que ele participou
+- Testemunha: Isso, ele disse que estava na morte desse menino.
+(..)
+- Promotora: Então, como Launk foi assassinado, ele participou do assassinato do Felipe "DKT"
+- Testemunha: Foi, tava na morte de "DKT".
+- Promotora: Mas ele não disse as outras pessoas que estavam com ele:
+- Testemunha: No momento, ele disse que tava não, ele disse que foi ele..
+As testemunhas de acusação,José Maciel Reis e Elitânia Silva dos Santos, cunhado e irmão da vítima, respectivamente, afirmaram que o autor dos disparos foi apelado, segundo informações prestadas pela mãe desta Sra. Silvaneide Oliveira da Silva. Ou seja, testemunhas de "ouvir dizer".
+Ouvida como declarante, a genitora da vítima afirmou que foi o apelado quem atirou no seu filho, consignando não existir dúvida quanto ao aludido reconhecimento.
+Diante da análise detida da prova testemunhal, verifica-se que o conteúdo das declarações não esclarece, de forma contundente, a participação do réu nos fatos.
+Destarte, as provas carreadas aos autos não são aptas a firmar, com absoluta certeza a narrativa contida na denúncia.
+Registre-se que diante da inexistência de provas concretas de que o acusado tenha efetuado o disparo de arma de fogo que causou a morte da vítima, não se pode reconhecer que a decisão dos jurados é manifestamente contrária à prova dos autos, mesmo porque, repita-se, o conjunto probatório dos autos não nos conduz a tal conclusão.
+Nesse raciocínio, evidencia-se que, ao contrário do que sustenta o Ilustre representante do Ministério Público, a tese absolutória está lastreada na negativa do acusado e no depoimento da testemunha Natasha, que imputou a autoria do delito ao seu ex-companheiro Alisson Felipe dos Santos Anjos. Em síntese, a decisão não afrontou a prova.
+Oportuno salientar, outrossim, que o Superior Tribunal de Justiça firmou entendimento no sentido de que o art. 483, III do Código de Processo Penal traduz uma liberalidade em favor dos jurados, os quais, soberanamente, podem absolver o acusado mesmo após terem reconhecido a materialidade e autoria delitivas, independentemente da tese sustentada pela defesa em plenário.
+Sendo assim, ao contrário do que sustentou o recorrente em seu apelo, é imperativo concluir que a decisão dos jurados se coadunou com tudo que foi apurado em juízo, o que torna viável a absolvição nos exatos termos da Sentença.
+ ..
+Com efeito, não havendo pertinência na tese de divergência entre o veredicto e a prova produzida, não merece guarida a irresignação ventilada com fuste no art. 593, III, "d", do CPP, uma vez que a Sentença do Juiz Presidente reflete fielmente o veredito exarado pelo Conselho de Sentença e é estritamente obediente às disposições legais pertinentes.
+Ao júri foi confiada a tarefa de deliberar segundo a convicção pessoal de cada jurado, convencimento este formado a partir do que nos autos se contém. Ao júri foi atribuído o encargo de examinar e valorar a prova que nele foi depositada. Como sabemos, a decisão dos jurados, mercê da natureza e das características da instituição, ésoberana.
+Destarte, forte no sentir da norma ápice, a decisão dos jurados é soberana e advém da opção que os jurados fazem por qualquer das versões admissíveis no conjunto probatório do processo, e, no caso dos autos, os quesitos e respostas foram compatíveis com o que ali consta, tendo decidido nada além ou contrário ao que foi discutido e provado nos autos, pelo que, tal supremacia do julgamento popular não pode ser maculada diante dessa lisura e legalidade.
+Assim, ao contrário do que sustenta o apelante, não há que se falar em julgamento manifestamente contrário à prova dos autos,devendo ser IMPROVIDO o seu recurso.
+Na hipótese, como ressaltou o acórdão, "a decisão colegiada não se mostra totalmente divorciada da prova dos autos, uma vez que o Conselho de Sentença acolheu a tese que lhe pareceu a mais correta, qual seja, a negativa de autoria sustentada pela defesa, tese juridicamente aceitável", destacando que, "ao contrário do que sustenta o Ilustre representante do Ministério Público, a tese absolutória está lastreada na negativa do acusado e no depoimento da testemunha Natasha, que imputou a autoria do delito ao seu ex-companheiro Alisson Felipe dos Santos Anjos". Concluiu o julgado, assim, que"a decisão dos jurados se coadunou com tudo que foi apurado em juízo, o que torna viável a absolvição nos exatos termos da Sentença".
+Nos termos da orientação jurisprudencial desta Corte, "não é manifestamente contrária à prova dos autos a decisão dos jurados que acolhe uma das versões respaldadas no conjunto probatório produzido, quando existente elemento probatório apto a amparar a decisão dos jurados" (AgRg no REsp 1885871/DF, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 02/03/2021, DJe 05/03/2021).
+"A anulação do julgamento proferido pelo Conselho de Sentença, pelo Tribunal de origem, nos termos do art. 593, III, d, do Código de Processo Penal, somente é possível quando tenha sido aquele manifestamente contrário às provas dos autos. E decisão manifestamente contrária às provas dos autos é aquela que não encontra amparo nas provas produzidas, destoando, inquestionavelmente, de todo o acervo probatório, o que não ocorreu in casu (HC n. 538.702/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 22/11/2019)"(AgRg no AREsp n. 1.519.264/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 17/12/2019, DJe de 19/12/2019.)
+Com efeito, optando os jurados por uma das versões apresentadas -negativa de autoria, a qual, segundo acórdão, encontra respaldo no conjunto probatório -, deve ser preservado o julgamento do júri, sob pena de violação ao princípio da soberania dos veredictos.
+Outrossim, "é inviável, por parte deste Sodalício, avaliar se as provas constantes dos autos são aptas a desconstituir a decisão dos jurados, porquanto a verificação dos elementos de convicção reunidos no curso do feito implicaria o aprofundado revolvimento de matéria fático-probatória, o que é vedado na via eleita, conforme disposição da Súmula 7 desta Corte" (AgRg no AREsp n. 1.303.184/CE, Ministro Jorge Mussi, Quinta Turma, julgado em 11/12/2018, DJe 4/2/2019) - (AgInt no AREsp n. 1.442.041/CE, Ministro Ribeiro Dantas, Quinta Turma, DJe 20/5/2019)" (AgRg no AREsp n. 1.773.624/CE, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 27/4/2021, DJe de 4/5/2021.)
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+Intimem-se.
