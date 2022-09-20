@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de recurso especial, fundado no art. 105, III, "a", daConstituição Federal, interposto por CAIXA DE ASSISTÊNCIA DOS FUNCIONÁRIOS DO BANCO DO BRASILcontra v. acórdão do eg. Tribunal de Justiça do Estado de São Paulo,assim ementado (fls. 547):
+PLANO DE SAÚDE - OBRIGAÇÃO DE FAZER AUTORA PORTADORA DE NEOPLASIA MALIGNA DA GLÂNDULA SUPRE RENAL METÁSTICA PARA PERITÔNIO E FÍGADO NEGATIVA DE CUSTEIO DO TRATAMENTO COM O MEDICAMENTO PEMBROLIZUMAB 2 mg/kg a cada 21 dias PRESCRIÇÃO MÉDICA APÓS O INSUCESSO DOS FÁRMACOS CONVENCIONAIS DOENÇA QUE INTEGRA O ROL DE COBERTURAS OBRIGATÓRIAS FÁRMACO REGISTRADO NA ANVISA PRECEDENTE JULGADO EM REGIME DE RECURSO REPETITIVO (REsp nºs 1712163/SP e 1726563/SP) COBERTURA DEVIDA ILEGITIMIDADE PASSIVA AFASTADA - SENTENÇA DE PROCEDÊNCIA MANTIDA RECURSO NÃO PROVIDO.
+Os embargos de declaração foram rejeitados, vide acórdão às fls. 579-583.
+Nas razões do recurso especial, a parte recorrente alega ofensa aos arts.489 e 1.022 do CPC/2015,10, § 4º, da Lei 9.656/98, e 4º, III, da Lei 9.961/00. Sustenta, em síntese, que: a) o acórdão estadual está omisso; e b) não pode ser compelida a custear tratamento médico que não consta do rol da ANS, por sua natureza taxativa.
+É o relatório. Decido.
+A irresignação não merece prosperar.
+Inicialmente, rejeita-se a alegada violação dos arts. 489 e 1.022do CPC/2015 do CPC/2015, uma vez que o eg. TJ-SP analisou ospontos essenciais ao deslinde da controvérsia, dando-lhes robusta edevida fundamentação.
+Com efeito, é uníssona a jurisprudência desta eg. Corte nosentido de que o magistrado não está obrigado a respondera todos os argumentos apresentados pelos litigantes, desde que apreciea lide em sua inteireza, com suficiente fundamentação. Nesse sentido,destacam-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSOESPECIAL. AÇÃO DE COBRANÇA C/C PEDIDO DE COMPENSAÇÃO PORDANOS MORAIS. CUMPRIMENTO DE SENTENÇA. EMBARGOS DE DECLARAÇÃO. OMISSÃO,CONTRADIÇÃO, ERRO MATERIAL OU OBSCURIDADE. AUSÊNCIA. VIOLAÇÃO DO ART.489 DO CPC. INOCORRÊNCIA. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF.FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. COMPENSAÇÃO COMPREJUÍZO DE DIREITO DE TERCEIRO. IMPOSSIBILIDADE.
+(..)
+3. Devidamente analisada e discutida a questão controvertida,e fundamentado corretamente o acórdão recorrido, de modoa esgotar a prestação jurisdicional, não há que se falar em violação doart. 489 do CPC.
+(..)
+7. Agravo interno não provido."
+(AgInt no AgInt no AREsp 1576971/RS, Rel. Ministra NANCY ANDRIGHI,TERCEIRA TURMA, julgado em 01/06/2020, DJe 04/06/2020)
+No caso dos autos, o Tribunal de origem confirmou a obrigaçãode cobertura, pelo plano de saúde, domedicamentoPEMBROLIZUMABpara o tratamento da neoplasia maligna da glândula supre renal metástica para peritônio e fígado que acomete a parte autora, consignando isto:
+Com efeito, ao julgar os recursos especiais nº 1712163/SP e 1726563/SP, em regime de recurso repetitivo, o Colendo Superior Tribunal de Justiça consolidou tese no sentido de que os medicamentos importados, uma vez registrados perante a ANVISA e prescrito pelo médico, são de cobertura obrigatória, senão vejamos:
+(..)
+Pois bem, segundo estabelece o inciso III do artigo 927 do Novo Código de Processo Civil "os acórdãos em incidente de assunção de competência ou de resolução de demandas repetitivas e em julgamento de recursos extraordinário e especial repetitivos" vinculam os juízes e os tribunais estaduais.
+Em consulta ao sítio eletrônico da Agência Nacional de Vigilância Sanitária (https://consultas.anvisa.gov.br/#/medicamentos), verifica-se que o medicamento PEMBROLIZUMAB encontra-se registrado perante a ANVISA.
+A enfermidade que acomete a parte autora (Neoplasia Maligna da Glândula Supre-Renal, metástica para peritônio e fígado) consta do catálogo internacional de doença, logo sua cobertura é obrigatória, e o medicamento foi prescrito por médico, único habilitadopara tal mister, após o insucesso do tratamento com outros fármacos, como tentativa de conter a rápida progressão da doença.
+Não há, portanto, qualquer fundamento que ampare a recusa da parte ré.
+Com efeito, em que pese não haja, no momento, entendimentomajoritário firmado acerca da natureza taxativa ou exemplificativa do rolda ANS, no julgamento do REsp 1.733.013/PR (Rel. Ministro LUIS FELIPESALOMÃO, DJe 20/02/2020) nesta Quarta Turma consignou que talcircunstância é desimportante para a análise do dever de cobertura demedicamentos para o tratamento de câncer, como no caso dos autos, emrelação aos quais há apenas uma diretriz na resolução. Nesse sentido:
+"AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO DE OBRIGAÇÃO DE FAZER -DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECURSO. INSURGÊNCIA DADEMANDADA.
+1. No âmbito do REsp 1.733.013/PR, esta Quarta Turma firmou oentendimento de que o rol de procedimentos editado pela ANS não pode serconsiderado meramente exemplificativo.
+1.1. Em tal precedente, contudo, fez-se expressa ressalva de quea natureza taxativa ou exemplificativa do aludido rol seria desimportanteà análise do dever de cobertura de medicamentos para o tratamento decâncer, em relação aos quais há apenas uma diretriz na resolução da ANS.
+2. Agravo interno desprovido."
+(AgInt no REsp 1949270/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA,julgado em 21/02/2022, DJe 24/02/2022 - grifou-se)
+Outrossim, em que pese o disposto no Tema 990/STJ, tal se aplica apenasa medicamentos que não foram registrados na ANVISA, o que não é o casodos autos, pois ofármacoPEMBROLIZUMAB possuiregistro na ANVISA (número 100290196), dentro doprazo de validade. A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. CONCLUSÃONO SENTIDO DE SER INDICAÇÃO DE TRATAMENTO OFF-LABEL. SÚMULA7/STJ. FORNECIMENTO DE MEDICAÇÃO OFF-LABEL. CABIMENTO DO FORNECIMENTODA MEDICAÇÃO. ACÓRDÃO EM HARMONIA COM O ENTENDIMENTO DESTA CORTESUPERIOR. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. O aresto estadual entendeu que a indicação dos remédiosreceitados configurou uso off-label. Aplicação da Súmula 7/STJ.2. O fato de os fármacos em questão - Avastin (Bevacizumabe) eTemodal (Temozolomida) - configurarem uso off-label, em nada afeta odever de fornecimento, pois "quem decide se a situação concreta deenfermidade do paciente está adequada ao tratamento conforme as indicaçõesda bula/manual da ANVISA daquele específico remédio é o profissionalmédico. Autorizar que a operadora negue a cobertura de tratamento sob ajustificativa de que a doença do paciente não está contida nas indicaçõesda bula representa inegável ingerência na ciência médica, em odioso einaceitável prejuízo do paciente enfermo" (REsp n. 1.769.557/CE, Relatoraa Ministra Nancy Andrigui, Terceira Turma, julgado em 13/11/2018, DJe21/11/2018).
+3. A Segunda Seção do Superior Tribunal de Justiça, ao julgar oREsp 1.712.163/SP e o REsp 1.726.563/SP (Rel. Ministro Moura Ribeiro,DJe 26/11/2018), representativos de controvérsia, firmou a teserepetitiva (Tema n. 990) segundo a qual "as operadoras de plano de saúdenão estão obrigadas a fornecer medicamento não registrado pela ANVISA".Porém, no caso concreto, não se trata de medicamento não registrado naautarquia, e sim de uso e indicação off-label, conforme consta no acórdãorecorrido. Destarte, é aplicável ao caso o enunciado da Súmula 83/STJ.
+4. Agravo interno desprovido."
+(AgInt no AREsp 1.677.613/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE,TERCEIRA TURMA, julgado em 28/09/2020, DJe 07/10/2020 - grifou-se)
+Nesse contexto, estando a decisão de acordo com a jurisprudência desta Corte, o recurso especial encontra óbice na Súmula 83/STJ, que incide pelas alíneas "a" e "c" do permissivo constitucional.
+Com essas considerações, conclui-se que o recurso não merece prosperar.
+Ante o exposto, nego provimento ao recurso especial.
+Com supedâneo no art. 85, § 11, do CPC/2015, majoro os honorários de R$3.000,00 (três mil reais) para R$3.300,00 (três mil e trezentos reais).
+Publique-se.
