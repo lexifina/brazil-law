@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região) e Laurita Vaz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Trata-se de agravo regimental em agravo regimental em embargos de declaração interposto por Paulo Rafael do Nascimento contra a decisão, de minha Relatoria, que deu parcial provimento ao agravo regimentalpara afastar a causa de aumento pelo repouso noturnoe redimensionar a pena do paciente. Esta,a ementa da decisão (fl. 357):
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM EMBARGOS DE DECLARAÇÃO EM HABEAS CORPUS. TENTATIVA DE FURTO QUALIFICADO. ROMPIMENTO DE OBSTÁCULO MANTIDO. IMPOSSIBILIDADE DE APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA. BEM AVALIADO EM R$3.000,00. VALOR DO BEM SUPERIOR A 10% DO SALÁRIO MÍNIMO. REITERAÇÃO DELITIVA POR PARTE DO RÉU. AFASTAMENTO DO REPOUSO NOTURNO. POSSIBILIDADE. PENA REDIMENSIONADA.
+1. O presente delito deu-se por rompimento de obstáculo, e, além disso, o réu é reincidente e o bem ultrapassa bastante o total de 10% do salário mínimo, não sendo possível a aplicação do princípio da insignificância.
+2. Razão assiste à defesa quanto ao pleito de afastamento da causa de aumento pelo repouso noturno, por não se aplicar ao furto qualificado.
+3. Agravo regimental provido, em parte, nos termos do dispositivo.
+Sustenta o agravante que a questão relativa ao princípio da insignificância merece ser melhor analisado pela Sexta Turma. Aduz que possuiapenas uma condenaçãotransitada em julgadopelo delito de violação de domicílioe não é reincidente específico. Aponta novamente constrangimento ilegal quanto a essa matéria e insiste no reconhecimento do princípio da insignificância.
+Alega que existem precedentes desta Corte que aplicaram o princípio da insignificância, ainda para acusados reincidentes, já que não podem ser levadas em consideração circunstâncias de caráter pessoal.
+Requer, nesses termos, a reconsideração da decisão ou que o seu pedido seja analisado pela Sexta Turma.
+É o relatório.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM AGRAVO REGIMENTAL EM EMBARGOS DE DECLARAÇÃO EM HABEAS CORPUS. TENTATIVA DE FURTO QUALIFICADO. PEDIDO DE RECONHECIMENTO DO PRINCÍPIO DA INSIGNIFICÂNCIA. IMPOSSIBILIDADE. REINCIDÊNCIA. ROMPIMENTO DE OBSTÁCULO MANTIDO. BENSAVALIADOS EM R$3.000,00 (TRÊS MIL REAIS). PRECEDENTES DAS DUAS TURMAS.
+1. O presente delito deu-se por rompimento de obstáculo, e, além disso, o réu é reincidente e os bens ultrapassam bastante o total de 10% do salário mínimo, não sendo possível a aplicação do princípio da insignificância.
+2. Agravo regimental improvido.
+VOTO
+Quanto à negativa de aplicação do mencionado princípio da insignificância, sentença e acórdão expuseram quea vida pregressa do ora agravante é desfavorável, haja vista possuir condenações criminais e responder a outras ações penais. Mencionaram também que alesão jurídica não é dotada de mínima ofensividade se considerada a folha de antecedentes criminais do réu, que denota a sua escalada criminosa e recalcitrância delitiva. Ao lado da habitualidade criminosa, já foi destacado o valor dos bens, R$3.000,00 (três mil reais), que ultrapassa em muito o parâmetro estabelecido de 10% do salário mínimo vigente à época dos fatos. Além de tudo isso, odelito deu-se por rompimento de obstáculo, a evidenciar a maior reprovabilidade da conduta.
+Esta Corte Superior de Justiça firmou entendimento de que a prática do delito de furto qualificado por escalada, arrombamento ou rompimento de obstáculo ou concurso de agentes, caso dos autos, indica a especial reprovabilidade do comportamento e afasta a aplicação do princípio da insignificância (HC n. 351.207/RS, Relatora Ministra MARIA THEREZA DE ASSIS MOURA, Sexta Turma, julgado em 28/6/2016, DJe 1/8/2016)(HC n. 459.407/SC, Relator Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 18/10/2018, DJe 23/10/2018)(AgRg no REsp n. 2.000.899/MG, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 22/8/2022.)
+Nesse sentido, afora os precedentes já citados anteriormente, confiram-se estes:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. FURTO QUALIFICADO.PRINCÍPIODAINSIGNIFICÂNCIA.INVIABILIDADE DA APLICAÇÃO. ESPECIAL REPROVABILIDADE DA CONDUTA DO AGENTE. CONDUTA COMETIDA MEDIANTEROMPIMENTODEOBSTÁCULOE DURANTE O REPOUSO NOTURNO.REINCIDÊNCIA. AGRAVO DESPROVIDO.
+1. A aplicabilidade doprincípiodainsignificânciadeve observar as peculiaridades do caso concreto, de forma a aferir o potencial grau de reprovabilidade da conduta, para que seja identificada a necessidade ou não de operar o direito penal como resposta estatal.
+2. Diante do caráter fragmentário do direito penal moderno, segundo o qual se devem tutelar apenas osbensjurídicos de maior relevo, somente justificam a efetiva movimentação da máquina estatal os casos que implicam lesões de significativa gravidade. É certo, porém, que eventual pequenovalorda vantagem patrimonial ilícita não se traduz, automaticamente, no reconhecimento do crime de bagatela.
+3. No caso, o Agravante reincidente foi condenado pela prática do crime de furto qualificado, cometido medianterompimentodeobstáculoe durante o repouso noturno, o que evidencia a maior reprovabilidade da conduta e recomenda a não aplicação doprincípiodainsignificância.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 725.005/SC, Ministra Laurita Vaz, Sexta Turma,DJe 4/4/2022)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. FURTO. REINCIDÊNCIA.PRINCÍPIODAINSIGNIFICÂNCIA.NÃO INCIDÊNCIA.
+1. Oprincípiodainsignificânciapressupõe a concomitância de quatro vetores: a) a mínima ofensividade da conduta do agente; b) nenhuma periculosidade social da ação; c) o reduzidíssimo grau de reprovabilidade do comportamento; e d) a inexpressividade da lesão jurídica provocada.
+2. A Terceira Seção, no julgamento do EAREsp 221.999/RS, Rel. Ministro Reynaldo Soares da Fonseca, estabeleceu a tese de que a reiteração criminosa inviabiliza a aplicação doprincípiodainsignificância,ressalvada a possibilidade de, no caso concreto, as instâncias ordinárias verificarem ser a medida socialmente recomendável.
+3. No caso, tendo em vista o considerávelvalorda res furtiva, de R$ 200,00 (duzentos reais), correspondente a aproximadamente 21% dosalário mínimovigente à época (ano de 2017 - R$ 937,00), e o fato de que "o acusado possui anotações, inclusive por crime de furto", demonstrando habitualidade delitiva, não se verifica ilegalidade a ser sanada, constrangimento ou teratologia, uma vez que o acórdão está em total conformidade com a jurisprudência deste STJ.
+4. Agravo regimental improvido.
+(AgRg no HC n.718.567/GO, Ministro Olindo Menezes (Desembargador convocado doTRF 1ª Região, Sexta Turma,DJe 15/8/2022)
+Diante disso, não há ilegalidade quanto à não aplicação do princípio da insignificânciana hipótese dos autos.
+Ante o exposto, nego provimento ao agravo regimental.
