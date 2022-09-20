@@ -1,0 +1,52 @@
+EMENTA
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. TRÁFICO DE DROGAS. INVASÃO DE DOMICÍLIO. SUPRESSÃO DE INSTÂNCIA. CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. DESCABIMENTO. RECURSO IMPROVIDO.
+1. A decisão monocrática deve ser mantida pelos seus próprios fundamentos, isso porque, conforme asseverado na decisão que denegou o habeas corpus e na que rejeitou os embargos de declaração, a tese referente à invasão de domicílio não foi debatida pelo Tribunal de origem.
+2. Dessa forma, inviável a análise da matéria diretamente por esta Corte superior, sob pena de incorrer em indevida supressão de instância.
+3. Ademais, " é  descabido o pedido de concessão de habeas corpus de ofício, já que este ocorre por iniciativa do próprio órgão julgador, não podendo ser utilizado para superar vício procedimental existente quando da interposição do recurso (AgRg no AREsp n. 431.186/ES, Ministra Laurita Vaz, Quinta Turma, DJe 27/5/2014)" (AgRg nos EDcl no RHC n. 135.460/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 16/3/2021, DJe de 22/3/2021).
+4. Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Laurita Vaz, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental interposto por EDER ANTÔNIO DA SILVA contra decisão de minha relatoria que rejeitou os embargos de declaração.
+Depreende-se dos autos que o paciente encontra-se preso preventivamente pela prática, em tese, de tráfico de drogas.
+Narram os autos que (e-STJ fls. 95/96):
+No dia 03 de novembro de 2021, por volta da 00h50min, na Rua Afonso Ângelo Tondo, n.º 179, em Balneário Pinhal/RS, o denunciado EDER ANTONIO DA SILVA, trazia consigo e guardava para o fim de comercialização e disposição a terceiros, ainda que gratuitamente, 37 (trinta e sete) porções de maconha, pesando aproximadamente 558 (sic), 94 (noventa e quatro) porções de "cocaína" em forma de pedra, vulgarmente conhecida por "crack", pesando aproximadamente 34g e 71 (setenta e uma) porções de cocaína, pesando aproximadamente 53g sem autorização e em desacordo com determinação legal e regulamentar.
+O Tribunal de origem denegou a ordem, em acórdão assim ementado (e-STJ fls. 21/22):
+HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA E CONVENIÊNCIA DA INSTRUÇÃO CRIMINAL. VIOLAÇÃO DE DOMICÍLIO E ILEGALIDADE DA PROVA NÃO CONFIGURADAS. MATERIALIDADE E INDÍCIOS DE AUTORIA. PERICULUM LIBERTATIS EVIDENCIADO. MANUTENÇÃO DA SEGREGAÇÃO CAUTELAR.
+1. Preliminar de invasão de domicílio. Descabe, nesse momento, a apreciação das provas e elementos informativos até então coligidos nos autos, eis que a via estreita do habeas corpus não admite análise com esse grau de aprofundamento, que deve ser reservada ao juízo de cognição ordinária.
+2. Paciente preso em flagrante em 03 de novembro de 2021, na posse de 36 porções de maconha (56 gramas), 01 tijolo de maconha (502 gramas), 94 porções de crack (34 gramas), 03 porções de cocaína (53 gramas), 02 máquinas de cartão de crédito, 03 balanças de precisão, 02 celulares, além de apetrechos para embalagem das drogas.
+3. Equipe da Brigada Militar recebeu informações pela agência de inteligência de que um indivíduo estaria distribuindo grande quantidade de drogas. Em monitoração ao local, o paciente foi visto saindo da residência na posse de um pacote, momento em que foi abordado pela Força Tática, a qual procedeu na revista pessoal, sendo localizada com ele a droga apreendida. Na mesma ocasião, ao visualizar que a porta da residência estava aberta, foram avistados os apetrechos para embalar a droga em cima de uma mesa, além de outros objetos, bem como uma muda de uma planta com características de maconha, os quais foram igualmente apreendidos.
+2. Periculum libertatis evidenciado. Paciente reincidente, ostentando ainda uma condenação provisória, o faz derruir o argumento de que sua liberdade não oferece risco à ordem pública, pois há indicativos concretos de que está ele a fazer do crime um modo de vida.
+ORDEM DENEGADA, POR MAIORIA.
+No habeas corpus, a defesa alegou a ocorrência de invasão de domicílio, tendo em vista a entrada na residência sem mandado judicial.
+Afirmou, ainda, que "a prisão do réu se deu em virtude de investigações paralelas do Setor de Inteligência da Brigada Militar que não possui atribuição constitucional para tanto" (e-STJ fl. 17).
+Requereu, liminarmente e no mérito, "o reconhecimento da nulidade por ausência de mandado judicial noturno sem ordem judicial, nulidade de toda prova colhida, haja vista que a investigação deu início pela PM2. No mérito requer eu  a defesa, a concessão da liminar em habeas corpus pela ausência dos requisitos da prisão preventiva. Por fim, em caso de não concessão da liminar, requer eu  a concessão da substituição da prisão preventiva pelo medidas cautelares diversas da prisão, como uso do monitoramento eletrônico cumulada com prisão domiciliar" (e-STJ fl. 20).
+O habeas corpus foi denegado (e-STJ fls. 382/387).
+Opôs embargos de declaração alegando omissão com relação à análise da invasão de domicílio.
+Os aclaratórios foram rejeitados (e-STJ fls. 437/439).
+No presente agravo regimental, alega que "a decisão do nobre ministro deve ser revista, uma vez que a decisão vai de encontro à própria jurisprudência do Superior Tribunal de Justiça a qual já pacificou o assunto de que é ilegal a prova adquirida com invasão de domicilio deixando este defensor de colacionar centenas de concessões de habeas corpus anulando processo pela teoria dos frutos da arvore venenosa, mas a defesa colaciona apenas um habeas corpus vitorioso impetrado por este defensor com tese vitoriosa" (e-STJ fl. 451).
+Requer, assim, "o total conhecimento do presente Agravo Regimental, no final seja provida a tese defensiva, acrescentando ainda o precedente no caso, Ministro Gilmar Mendes X Carlos Alberto Richa, no julgado ADFP 444, a qual ficou pacificado que cabe habeas corpus de oficio em qualquer hipótese sempre que alguém se achar preso ou na iminência ser impedido do seu direito de ir e vir, nos termos do artigo 648, VI, do Código de processo penal" (e-STJ fl. 456).
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+O recurso deve ser improvido.
+Isso porque, conforme asseverado na decisão que denegou o habeas corpus e na que rejeitou os embargos de declaração, o Tribunal de origem, ao analisar o habeas corpus impetrado na origem, não se manifestou a respeito da tese de violação de domicílio, asseverando expressamente que (e-STJ fl. 80):
+Inicialmente, quanto à alegada invasão de domicílio, descabe, nesse momento, a apreciação das provas e elementos informativos até então coligidos nos autos, eis que a via estreita do habeas corpus não admite análise com esse grau de aprofundamento, que deve ser reservada ao juízo de cognição ordinária.
+Dessa forma, em razão da ausência de debate da tese na instância de origem, a matéria não foi discutida na decisão monocrática, sob pena de incorrer em indevida supressão de instância.
+Nesse sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS NÃO CONHECIDO. SUPRESSÃO DE INSTÂNCIA. REVOLVIMENTO DE MATÉRIA FÁTICA INVIÁVEL NO ÂMBITO DO HABEAS CORPUS. IMPOSSIBILIDADE DE SE EXAMINAR QUESTÃO NOVA TRAZIDA POR OCASIÃO DO AGRAVO REGIMENTAL.
+1.O agravante inova quanto às teses de aplicação do redutor do art. 33, § 4º, da Lei n. 11.343/2006 e de regime mais benéfico, o que não é possível em agravo regimental.
+2. Na via do habeas corpus não há como acolher a tese apontada pela defesa de desclassificação para o delito do art. 28 da Lei n. 11.343/2006, pois demandaria o reexame aprofundado do conjunto fático-probatório, providência descabida na via eleita.
+3. A tese de nulidade nas provas pela invasão de domicílio sequer foi objeto de debate no Tribunal de Justiça, portanto inviável o exame do tema por esta Corte, sob pena de indevida supressão de instância
+4. Agravo regimental improvido. (AgRg no HC n. 660.916/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 29/3/2022, DJe de 1/4/2022.)
+AGRAVO REGIMENTAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. NÃO CABIMENTO. AFRONTA AO PRINCÍPIO DA COLEGIALIDADE. NÃO OCORRÊNCIA. TRÁFICO DE DROGAS. SEGREGAÇÃO CAUTELAR DEVIDAMENTE FUNDAMENTADA NA GARANTIA DA ORDEM PÚBLICA. QUANTIDADE DE DROGA. FUNDADO RECEIO DE REITERAÇÃO DELITIVA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. IMPOSSIBILIDADE. PLEITO DE TRANCAMENTO DA AÇÃO PENAL EM RAZÃO DE PROVAS OBTIDAS COM VIOLAÇÃO DE DOMICÍLIO. SUPRESSÃO DE INSTÂNCIA. INEXISTÊNCIA DE NOVOS ARGUMENTOS APTOS A DESCONSTITUIR A DECISÃO IMPUGNADA. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+VI - No que tange ao pleito de trancamento da " .. ação penal, visto que fulminando pela prova ilícita ocasionado por invasão de domicilio sem autorização judicial, sem que houvesse fundada razão para invasão ou breve diligência para tanto"; tem-se que não há manifestação acerca da quaestio pelo eg. Tribunal a quo, de maneira que sua análise diretamente por esta Corte fica impossibilitada, sob pena de indevida supressão de instância.
+VII - É assente nesta Corte Superior que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos. Precedentes.
+Agravo regimental desprovido. (AgRg no HC n. 699.092/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Quinta Turma, julgado em 7/12/2021, DJe de 15/12/2021.)
+Ademais, " é  descabido o pedido de concessão de habeas corpus de ofício, já que este ocorre por iniciativa do próprio órgão julgador, não podendo ser utilizado para superar vício procedimental existente quando da interposição do recurso (AgRg no AREsp n. 431.186/ES, Ministra Laurita Vaz, Quinta Turma, DJe 27/5/2014)" (AgRg nos EDcl no RHC n. 135.460/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 16/3/2021, DJe de 22/3/2021).
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
