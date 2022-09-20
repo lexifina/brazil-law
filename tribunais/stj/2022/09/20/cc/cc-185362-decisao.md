@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de conflito de competência suscitado pelo Juízo Federal da 4ª Vara de Recife (SJPE) em face do Juízo Federal da 9ª Vara Criminal de São Paulo (SJSP), na condução de inquérito policial que investiga crime de descaminho praticado por pessoa jurídica, tendo em vista a apreensão da mercadoria em local distinto de sua sede.
+Consta dos autos que, no dia 26/8/2021, durante diligência realizadapela Receita Federal no estabelecimento daempresa transportadoraBraspress Transportes Urgentes Ltda.,localizada na região metropolitana do Recife (PE), foram apreendidos 78,26kg de armações de óculos, marca e modelos não identificados, origem estrangeira, sem a respectiva cobertura fiscal,remetidos pela empresa Célio Durante, situada São Paulo (SP), com destino à empresa Bella Comércio de Variedades Ltda., com endereço em Recife (PE).
+O Juízo suscitado pugna pela aplicação da Súmula n. 151 do STJ àespécie.
+O Juízo suscitante sustenta que a indicada súmula merece mitigação, na linha de precedentes da Terceira Seção desta Corte, quando os fatos se relacionem à importação promovida por pessoa jurídica e haja apreensão da mercadoria em local diverso do de sua sede.
+O Ministério Público Federal manifestou-se pelo reconhecimento da competência do Juízo suscitado (fls. 304-308).
+É o relatório. Decido.
+O conflito merececonhecimento, uma vez que os Juízos que suscitam a incompetência estão vinculados a Tribunais diversos, sujeitando-se, portanto, à jurisdição do STJ, conforme o disposto no art. 105, I, d, da Constituição Federal.
+Segundo a Súmula n. 151 do STJ,"a competência para o processo e julgamento por crime de contrabando ou descaminho define-se pela prevenção do Juízo Federal do lugar da apreensão dos bens".
+Ocorre que, como bem pontuado pelo Ministério Público Federal, o indicado enunciado vem sendo mitigado pela Terceira Seção do STJ, que consolidou entendimento no sentido da competência do juízo da sede da empresa importadora, em detrimento do juízo do local de apreensão da mercadoria.
+Esse posicionamento se ancora no prestígio aos princípios da ampla defesa, do devido processo legal e do contraditório, uma vez que a instrução processual fica facilitada quando exercida no domicílio da empresa investigada (CC n. 172.392/SP, relator Ministro Joel Ilan Paciornik, Terceira Seção, DJe de 29/6/2020; AgRg no CC n. 175.150/PR, relatora Ministra Laurita Vaz, Terceira Seção, DJe de 18/12/2020; e CC n. 181.966, relator Ministro Ribeiro Dantas, Terceira Seção, DJe de 27/10/2021).
+Reconheço, pois, a competência do Juízo Federal da 9ª Vara Criminal de São Paulo (SJSP), o suscitado, para o processamento do inquérito e da subsequente ação penal, determinando que lhesejam devolvidos os autos para regular prosseguimento.
+Comuniquem-se aos Juízos envolvidos.
+Estando a decisão em consonância com o entendimento do Ministério Público Federal, arquivem-se os autos.
+Publique-se. Intimem-se.
+EMENTA
+CONFLITO DE COMPETÊNCIA. JUÍZOS VINCULADOS A TRIBUNAIS DIVERSOS. PROCESSUAL PENAL. CRIME DE DESCAMINHO. MERCADORIA IMPORTADA IRREGULARMENTE POR PESSOA JURÍDICA. APREENSÃO EM TRÂNSITOEM ESTADO DIVERSO DO DA SEDE DA EMPRESA IMPORTADORA. SÚMULA N. 151DO STJ. MITIGAÇAO. COMPETÊNCIA DO JUÍZO DO LOCAL DO DOMICÍLIO DO IMPORTADOR. CONVENIÊNCIA DA INSTRUÇÃO CRIMINAL. PLENITUDE DA AMPLA DEFESA E DO CONTRADITÓRIO. COMPETÊNCIA DO JUÍZO SUSCITADO.
+1.O Superior Tribunal de Justiça é competente para o julgamento de conflito entre juízos vinculados a tribunais diversos, nos termos do art. 105, I, d, da Constituição Federal.
+2. À luz da mesma interpretação teleológica do art. 70 do Código de Processo Penal que fundamentoua Súmula n. 151 do STJ, a competência paraprocessar inquérito que apura a prática de descaminho é do juízo da sede da empresa importadora, onde haverá maior facilidade de colheita de provas e do exercício da ampla defesa e do contraditório (CC n. 172.392/SP, Terceira Seção).
+3. Conflito conhecidocom reconhecimento da competência do Juízo Federal da 9ª Vara Criminal de São Paulo (SJSP), o suscitado, para o processamento do inquérito e da subsequente ação penal.
