@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo interposto por YURI SIMOES DE ARAUJO, em adversidade à decisão que inadmitiu recurso especial manejado com fundamento nas alínea"a" do permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado da Bahia, assim ementado (e-STJ fls. 287/288):
+APELAÇÃO CRIMINAL. TRÁFICO DE DROGAS.
+1 - PLEITO DE ABSOLVIÇÃO POR FALTA DE PROVAS. IMPROCEDÊNCIA. AUTORIA E MATERIALIDADE DELITTVAS COMPROVADAS NOS AUTOS.
+2 - PLEITO DE RECONHECIMENTO DO BENEFÍCIO DO TRÁFICO PRIVILEGIADO. IMPROCEDÊNCIA. NÃO HOUVE PREENCHIMENTO DOS REQUISITOS PREVISTOS NO § 4o, DO ART. 33, DA LEI N. 11.343/2006.
+3 - PLEITO DE SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITOS. IMPROCEDÊNCIA. NÃO FORAM PREENCHIDOS OS REQUISITOS PREVISTOS NO ART. 44 DO CP.
+4 - PLEITO PARA RECORRER EM LIBERDADE. IMPROCEDÊNCIA. NÃO HOUVE ALTERAÇÃO NAS CONDIÇÕES QUE DETERMINARAM A PRISÃO CAUTELAR.
+5 - CONCLUSÃO: VOTA-SE PELO CONHECIMENTO E PELO DESPROVIMENTO DO RECURSO DE APELAÇÃO, MANTENDO- SE A SENTENÇA CONDENATÓRIA PELOS SEUS PRÓPRIOS TERMOS.
+Nas razões do recurso especial, alega a defesa violação do artigo 33, § 4º, da Lei 11.343/2006,em razão da não aplicação da redutora do tráfico privilegiado. Sustenta, em síntese, que o recorrente preenche todos os requisitos expostos na legislação. Aponta ainda, a ausência de provas judicializadas idôneas para embasar a condenação.
+Apresentadas as contrarrazões (e-STJ fls. 373/380), o Tribunal a quo inadmitiu o recurso especial (e-STJ fls. 381/383), dando ensejo à interposição do agravo ora apreciado.
+O Ministério Público Federal, instado a se manifestar nesta instância, opinou pelo desprovimentodo recurso (e-STJ fls. 471/473).
+É o relatório. Decido.
+No que concerne à pretensão de incidência da minorante do tráfico privilegiado, verifico que o recorrente também se utilizou da via processual do habeas corpus para impugnar as teses trazidas nos presentes autos, por meio da impetração do Habeas Corpus n. 553587/BA, de minha relatoria.
+No mencionado writ, não obstante a inadequação da via eleita, a referida matéria foi analisada em decisão monocrática da minha lavra, publicada no dia 3/2/2020, nos seguintes termos, no que interessa:
+ ..
+Busca-se, na presente oportunidade, a aplicação da causa especial de diminuição da pena, prevista no art. 33, § 4º, da Lei n. 11.343/2006, na fração máxima de 2/3 e, em consequência do redimensionamento da pena, a substituição da pena privativa de liberdade por restritivas de direitos.
+ .. .
+Para se aplicar a redutora do art. 33, § 4º, da Lei n. 11.343/2006 é necessário o preenchimento de quatro requisitos cumulativos, quais sejam, primariedade, bons antecedentes, não se dedicar a atividades criminosas ou integrar organização criminosa.
+No caso, segue o que foi consignado para afastar a aplicação da redutora (e-STJ fls. 133/134):
+Por fim, na terceira fase, não foram reconhecidas causas de aumento de pena. Em relação às causas de diminuição, a Magistrada reputou que o insurgente não faria jus ao benefício do tráfico privilegiado, conforme as seguintes razões transcritas logo abaixo:
+"O Acusado não faz jus ao redutor de pena previsto no §4º do art. 33 da lei de tóxicos, por não preencher todos os requisitos legais exigíveis, já que, conforme dados antes elencados, pode-se afirmar que o mesmo se dedica à prática de atividades criminosas.
+De fato, após ter sido solto em virtude do fato denunciado nestes autos, ocorrido em 04.07.17, foi preso, por roubo majorado, em 09.02.18, e, depois, mais uma vez preso, em 15.07.28, por tráfico, tendo sido condenado por este Juízo com sentença recorrível." (sic).
+Após a leitura do excerto destacado, verifica-se ser correta a decisão da Magistrada em negar o reconhecimento do benefício do tráfico privilegiado, dado que os processos penais a que responde este insurgente (processos nº 0543779-03.2018.8.05.0001 e nº 0508976-91.2018.5.08.0001), denotam ser ele uma pessoa dedicada à atividades criminosas, o que obsta a concessão do benefício previsto no § 4o, do art. 33, da Lei nº 11.343/2006.
+Da leitura do acórdão impugnado, verifica-se que o Tribunal local não aplicou a redutora do tráfico por entender que o acusado se dedica às atividades criminosas, na medida em que responde a outras ações penais. Quanto ao tema, a Terceira Seção, no julgamento do EResp n. 1.413.091, da relatoria do Ministro FÉLIX FISCHER, assentou o entendimento de que "é possível a utilização de inquéritos policiais e/ou ações penais em curso para a formação da convicção de que o Réu se dedica às atividades criminosas, de modo a afastar o benefício legal previsto no artigo 33, § 4º, da Lei 11.343/2006".
+ .. .
+Dessa forma, tendo em vista que o entendimento do Tribunal local está em consonância com a jurisprudência desta Corte Superior, não há se falar em constrangimento ilegal na não aplicação da redutora do art. 33, § 4º, da Lei de Drogas.
+ .. .
+Dessa forma, uma vez que a referida questão deduzida no recurso especial já foi integralmente analisada por esta Corte Superior nos autos do mandamus acima mencionado, impetrado com os mesmos fundamentos e pedidos, é inegável reconhecer a prejudicialidade do presente recurso, no ponto.
+Nesse sentido, confiram-se os seguintes precedentes:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PREJUDICIALIDADE. MATÉRIA ANTERIORMENTE APRECIADA PELA CORTE SUPERIOR NOS AUTOS DE HABEAS CORPUS 249.526/DF.
+A análise anterior do objeto do recurso especial pelo Superior Tribunal de Justiça implica perda de interesse recursal e prejudicialidade da pretensão recursal.
+Agravo regimental desprovido. (AgRg no AREsp 494.995/DF, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 19/3/2015, DJe 25/3/2015).
+ ..  MATÉRIAS DECIDIDAS NOS AUTOS DE HABEAS CORPUS ANTERIORMENTE IMPETRADO EM FAVOR DO AGRAVANTE. REITERAÇÃO COM IDÊNTICOS FUNDAMENTOS E PEDIDO NO RECURSO ESPECIAL. PREJUDICIALIDADE.
+1. Tendo sido as matérias tratadas no recurso especial discutidas e anteriormente analisadas nos autos de habeas corpus impetrado com idênticos fundamentos e pedido, é de rigor o reconhecimento da prejudicialidade do apelo nobre.
+ ..
+2. Agravo regimental a que se nega provimento. (AgRg no Ag 1333142/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 16/8/2011, DJe 26/8/2011).
+No mais, cumpre registrar que o Tribunal de origem, considerando as drogas apreendidas e o depoimento dos policiais, reputou o conjunto fático-probatório robusto e hábil a corroborar a condenação do recorrente pela prática de tráfico ilícito de drogas, inviável, assim, entender de modo diverso, dada a necessidade de reexame de elementos fático-probatórios, providência vedada em sede de recurso especial, nos termos da Súmula n. 7/STJ.
+A propósito:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. CONDENAÇÃO. PRETENSÃO ABSOLUTÓRIA. REEXAME DE PROVAS. IMPOSSIBILIDADE NA VIA ELEITA. TESTEMUNHO DOS POLICIAIS. VALOR PROBANTE. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL.1. As instâncias ordinárias, soberanas na análise do material probatório da lide, entenderam comprovadas a autoria e a materialidade delitiva. Para que fosse possível a análise da pretensão absolutória, seria imprescindível o reexame dos elementos fáticos, o que não se admite na estreita via do habeas corpus, que possui rito célere e cognição sumária.2. O pedido de absolvição por ausência de provas suficientes para sustentar a condenação implica no reexame aprofundado de todo o acervo fático- probatório, providência totalmente incompatível com os estreitos limites do habeas corpus (AgRg no HC n. 650.949/RJ, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 25/10/2021).3. É pacífica a jurisprudência deste Superior Tribunal de Justiça, no sentido de que os depoimentos prestados por policiais têm valor probante, na medida em que seus atos são revestidos de fé pública, sobretudo quando se mostram coerentes  ..  e ausentes quaisquer indícios de motivos pessoais para a incriminação injustificada do investigado, como na espécie. Precedentes. (AgRg no AREsp n. 1.997.048/ES, Relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 21/2/2022).4. Agravo regimental improvido.(AgRg no HC n. 716.902/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 2/8/2022, DJe de 4/8/2022.)
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Intimem-se.
