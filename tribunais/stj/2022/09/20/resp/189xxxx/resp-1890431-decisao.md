@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de recurso especial interposto por OI S.A. -em recuperação judicial, fundado nas alíneasaecdo inciso III do art. 105 da Constituição Federal, que desafiou acórdão prolatado pelo Tribunal de Justiça do Estado do Paraná assim ementado (e-STJ, fl. 765):
+APELAÇÃO CÍVEL. AÇÃO DE ADIMPLEMENTO CONTRATUAL. SENTENÇA QUE JULGOU PARCIALMENTE PROCEDENTE A PRETENSÃO INICIAL. INSURGÊNCIA. PRELIMINAR. ILEGITIMIDADE PASSIVA DA OI S/A. REJEITADA. MÉRITO REGIME PAID. SISTEMA DE FINANCIAMENTO VISANDO à AMPLIAÇÃO DOS SERVIÇOS TELEFÔNICOS. MESMO REGIME DO PLANO DE EXPANSÃO. ALEGAÇÃO DE QUE O SISTEMA NÃO CORRESPONDE AO VALOR INTEGRALIZADO. NÃO ACOLHIDA. ALEGAÇÃO DE QUE HOUVE OBSERVÂNCIA AO ARTIGO 170, §3º, DA LEI 6.404/76. NÃO COMPROVADA. CRITÉRIO DE CONVERSÃO. POSSIBILIDADE. PAGAMENTO MEDIANTE INDENIZAÇÃO. CONVERSÃO DAS AÇÕES EM PECÚNIA ACRESCIDAS DOS DIVIDENDOS, BONIFICAÇÕES E JUROS SOBRE O CAPITAL. APLICAÇÃO DA TESE FIRMADA NO RESP 1.301.989/RS. PAGAMENTO QUE DEVE SER FEITO LEVANDO EM CONTA O PREÇO DA COTAÇÃO DA AÇÃO NO FECHAMENTO DO PREGÃO DA BOLSA DE VALORES NO DIA DO TRÂNSITO EM JULGADO DA AÇÃO DE COMPLEMENTAÇÃO DE AÇÕES. GRUPAMENTO DE AÇÕES. MATÉRIA A SER ANALISADA EM LIQUIDAÇÃO DE SENTENÇA, SENDO ESSA POR ARBITRAMENTO. HONORÁRIOS RECURSAIS. NÃO CABIMENTO. APELO CONHECIDO E PARCIALMENTE PROVIDO.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 818-827).
+Nas razões do recurso especial, a recorrente apontou violação aos arts. 170, § 3º, da Lei n. 6.404/1976; e 1.022, II,do CPC/2015, além da existência de divergência jurisprudencial.
+Sustentou, em síntese, omissão na decisão recorrida, além de argumentar que o contrato celebrado com a parte recorrida era na modalidade PCT, também denominada de PAID, na qual não havia subscrição de ações em dinheiro.
+Destaca que, na modalidade PCT/PAID, a capitalização das ações era realizada levando-se em conta o valor do laudo de avaliação da planta telefônica comunitária, razão pela qual entende improcedente a demanda.
+Admitido o recurso especial na origem, os autos ascenderam a esta Corte (e-STJ, fls. 840-841).
+Brevemente relatado, decido.
+O Tribunal local, ao julgar a apelação, assim consignou(e-STJ, fls. 770-771):
+DO SISTEMA PAID
+Com relação às alegações da Oi S/A de que o contrato teria sido celebrado sob o regime PAID - sendo que o valor pago pelo promitente-assinante, em tal regime, não representava subscrição de ações, nem corresponde ao valor integralizado -, estas também não merecem acolhimento. Pretendendo expandir os serviços de telefonia, a TELEPAR firmou convênio com empresas privadas com o intuito de celebrar contratos de financiamentos. Tal sistema de financiamento foi denominado regime PAID.
+Sobre o tema, esclarece Alexandre Wagner NESTER que "o PAID compartilhava as mesmas premissas do Plano de expansão (PEX): toda a iniciativa da companhia telefônica.
+A diferença estava no fato de que a companhia atuava através de um consórcio privado, contratado mediante licitação para essa finalidade.
+O PAID, portanto, não caracterizava uma Planta Comunitária de Telefonia (PCT), na medida em que não contava com nenhuma iniciativa ou participação da comunidade organizada".
+Assim, não assiste razão à Oi S/A. Este, inclusive, é o entendimento desta Câmara:
+ ..
+Quanto ao argumento de que a ré respeitou a norma do artigo 170, §3º da Lei nº 6.404/76, este também não merece ser acolhido. Na análise dos documentos acostados aos autos, tem-se que em nenhum deles pode ser aferida tal alegação.
+Nos termos do artigo 373, II do CPC, cabia à ora Recorrente demonstrar a existência de fato impeditivo, modificativo ou extintivo do direito do autor.
+Portanto, diante da ausência de documento que comprove a observância à Lei das Sociedades Anônimas, tal argumento não deve ser acolhido.
+Da análise do acórdão recorrido, verifica-seser incontroverso  que  o  pedido  de  complementação  de  ações  formulado  na  inicial  é  decorrente  de  contrato  na  modalidade  PAID  (Plano  de  Atendimento  Integral  da  Demanda).
+Nesse  tipo  de  contrato,  a  data  de  integralização,  efetuada  sob  a  forma  de  dação  de  bem,  deve  corresponder  à  data  de  incorporação  da  rede  ao  acervo  patrimonial  da  companhia  telefônica,  após  construída  e  avaliada,  sendo  este,  portanto,  o  momento  que  deve  ser  considerado  para  a  finalidade  de  emissão  das  ações.
+Nesse sentido:
+RECURSO ESPECIAL. DIREITO CIVIL E EMPRESARIAL. CONTRATO DE PARTICIPAÇÃO FINANCEIRA EM EMPRESA DE TELEFONIA. COMPLEMENTAÇÃO DE AÇÕES. PLANTA COMUNITÁRIA DE TELEFONIA - PCT. CRITÉRIO DO BALANCETE MENSAL. SÚMULA 371/STJ. INAPLICABILIDADE.
+1. Controvérsia acerca da aplicação do critério do balancete mensal a um contrato de planta comunitária de telefonia - PCT com previsão de retribuição de ações condicionada à integralização do capital mediante dação da planta comunitária à companhia telefônica, nos termos da Portaria 117/1991 do Ministério das Comunicações.
+2. Nos termos da Súmula 371/STJ: "nos contratos de participação financeira para a aquisição de linha telefônica, o Valor Patrimonial da Ação (VPA) é apurado com base no balancete do mês da integralização".
+3. Na linha da jurisprudência desta Corte Superior, a data da integralização, mencionada na Súmula 371/STJ, é a data do pagamento do preço estabelecido no contrato, ou a do pagamento da primeira parcela, no caso de parcelamento. 4. Particularidade dos contratos da modalidade PCT, em que a integralização do capital não se dá em dinheiro, no momento do pagamento do preço, mas mediante a entrega de bens, em momento posterior ao pagamento do preço, com a incorporação da planta comunitária ao acervo patrimonial da companhia telefônica.
+5. Necessidade de prévia avaliação e de aprovação da assembleia geral da companhia, para a integralização do capital em bens ("ex vi" do art. 8º da Lei 6.404/1976).
+6. Inviabilidade de aplicação da Súmula 371/STJ aos contratos de participação financeira celebrados na modalidade PCT.
+7. Precedente específico da QUARTA TURMA desta Corte Superior no mesmo sentido.
+8. RECURSO ESPECIAL PROVIDO.
+(REsp n. 1.742.233/SP, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 2/10/2018, DJe de 8/10/2018.)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. COBRANÇA. PROGRAMA COMUNITÁRIO DE TELEFONIA (PCT). CONTRATO DE PARTICIPAÇÃO FINANCEIRA. AQUISIÇÃO DE LINHA TELEFÔNICA. APORTE FINANCEIRO DE PROMITENTES ASSINANTES. SUBSCRIÇÃO ACIONÁRIA. INCORPORAÇÃO DA PLANTA TELEFÔNICA AO PATRIMÔNIO DA CONCESSIONÁRIA. CRITÉRIO DE RETRIBUIÇÃO EM AÇÕES.
+1. No Programa Comunitário de Telefonia (PCT), os adquirentes de linhas telefônicas celebraram contratos com as construtoras, pagando o preço com elas combinado. Não houve pagamentos por eles feitos à concessionária do serviço público de telefonia. Esta comprometeu-se a interligar as plantas telefônicas ao seu sistema, prestar o serviço telefônico e incorporar as plantas ao seu patrimônio (aumento de capital), retribuindo aos titulares das linhas telefônicas, mediante subscrição de ações, o valor de avaliação do bem incorporado. A subscrição tinha por base o valor de avaliação do bem indivisível incorporado (planta), dividido pelo número de adquirentes de linhas telefônicas.
+2. A incorporação da planta telefônica não se deu quando dos aportes financeiros à construtora realizados pelos aquirentes das linhas, do que decorre a impropriedade de se pretender utilizar os valores de tais aportes, e as datas em que realizados, como balizas para o cálculo do quantitativo de ações. Na época dos aportes, as plantas não existiam, a significar que, ausente patrimônio a incorporar, não houvera ainda integralização, da qual dependia a avaliação e a contraprestação em ações.
+3. O aumento de capital deu-se com a incorporação da planta telefônica ao patrimônio da ré. Nos termos do artigo 8º, §§ 2º e 3º, da Lei 6.404/1976, o cálculo do número de ações a serem subscritas em favor de cada titular de linha telefônica deve levar em conta o valor de avaliação do bem incorporado.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.166.343/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 7/6/2018, DJe de 14/6/2018.)
+AGRAVO INTERNO. EMBARGOS DE DECLARAÇÃO. AGRAVO EM RECURSO ESPECIAL. TELESP. RETRIBUIÇÃO DE AÇÕES. PLANTA COMUNITÁRIA. DATA DA INTEGRALIZAÇÃO. INCORPORAÇÃO DA REDE AO ACERVO DA EMPRESA. SÚMULA 371/STJ. NÃO APLICAÇÃO. ENTREGA DAS AÇÕES. ATRASO. VERIFICAÇÃO. INVIABILIDADE. NECESSIDADE DE REEXAME FÁTICO. SÚMULA 7/STJ. NÃO PROVIMENTO.
+1. Esta Corte tem jurisprudência firmada no sentido de que, nos contratos firmados sob a modalidade de PCT, a data de integralização corresponde à data de incorporação da rede ao acervo patrimonial da companhia telefônica, depois de construída e avaliada.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+3. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp n. 911.032/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 4/6/2019, DJe de 7/6/2019.)
+Assim sendo, verifica-se que, quanto a esse ponto, o posicionamento adotado pelo Tribunal de origem diverge da jurisprudência desta Corte Superior.
+Ante o exposto, douprovimento ao recurso especial, a fim de determinar o retorno dos autos ao TJPR para que análise o caso à luz dajurisprudência desta Corte.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. COMPLEMENTAÇÃO DE AÇÕES. REGIME PAID. NÃO INCIDÊNCIA DA SÚMULA 371/STJ. PRECEDENTES. RECURSO ESPECIAL PROVIDO.
