@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor deLUIZ AUGUSTO HEINZEN, contra acórdão do Tribunal de Justiça do Estado de Minas Gerais(HC. n. 1.0000.22.138093-4/000).
+O paciente teve a prisão em flagrante convertida em preventiva, em 15/2/2022, por suposta prática dos delitos previstos nos art. 33, caput, da Lei n. 11.343/2006.
+O impetrante sustenta a inidoneidade dos fundamentos do decreto preventivo, baseados em elementos vagos e dissociados das circunstâncias do caso concreto.
+Aduz que o réu já confessou a prática do ilícito e a instrução processual já terminou, o que corrobora com a desproporcionalidade da medida extrema.
+Ressalta que o paciente é primário (sem risco de reiteração delitiva), possui residência e emprego fixo, além de ter sido colaborativo no procedimento de lavratura do Auto de Prisão em Flagrante.
+Requer a concessão da ordem a fim de que o paciente seja colocado em liberdade ou para que a preventiva seja substituída pelas medidas do art. 319 do CPP.
+O pedido de liminar foi indeferido às fls. 398-399.
+As informações foram prestadas às fls. 405-412.
+O Ministério Público Federal manifestou-se pelo não conhecimento do habeas corpus (fls. 414-420).
+É o relatório. Decido.
+O Supremo Tribunal Federal e o Superior Tribunal de Justiça não admitem a impetração de habeas corpus em substituição ao recurso ordinário próprio (HC n. 463.434/MT, relator Ministro Reynaldo Soares da Fonseca, Terceira Seção, DJe 18/12/2020.) Esse entendimento tem sido adotado sem prejuízo de eventual deferimento da ordem de ofício em caso de flagrante ilegalidade,o que não se verifica no caso em apreço.
+A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que comprovem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 2/9/2020).
+Considerando o princípio da presunção de inocência, a excepcionalidade da custódia cautelar e seu caráter subsidiário, a prisão preventiva só deve ser determinada nos casos em que não for possível a aplicação de medida cautelar alternativa.
+No caso, está justificada a manutenção da prisão preventiva, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP, não sendo recomendável a aplicação das medidas cautelares previstas no art. 319 do CPP. A propósito, confira-se trecho do acórdão proferido pelo Tribunal a quo (fls. 392-394):
+Colige-se da denúncia (p. 294/296, doc. único) que, no dia 15 de fevereiro de 2022, os paciente e a codenunciada, supostamente transportavam, entre Estados da Federação, sem autorização ou em desacordo com determinação legal ou regulamentar, 233 blocos e 21 tabletes de maconha, totalizando o peso bruto de 3.420 kg (três mil quatrocentos e vinte quilogramas). Indagado, o acusado, ora paciente, teria dito que receberia pelo transporte a quantia de R$10.000,00 (dez mil reais).
+A despeito das alegações do impetrante, entendo que a decisão que converteu a prisão em flagrante em preventiva (p. 349, doc. único) apresentou fundamentos concretos e suficientes para justificar a segregação cautelar, nos ditames dos artigos 312 e 313 do CPP:
+(..) A carga que supostamente auxiliava transportar era de quantidade quase industrial de droga, demonstrando hipoteticamente vínculo desta indiciada com grupos criminosos.
+(..) Confessou ao menos parcialmente em sede policial e até aqui o transporte da droga em quantidade substancial e que caracteriza alto poder econômico por de traz de sua conduta hipoteticamente criminosa.
+(..) impera a necessidade de proteção da segurança da instrução criminal e da higidez da prova, razão pela qual com fundamento nos arts. 311 e 312 do CPP, imprescindível também a conversão da prisão em flagrante em prisãopreventiva deste indiciado. (..).
+(decisão, p. 349, doc. único).
+Vejo que, conforme destacado pelo magistrado a quo, o presente caso demonstra a existência de uma periculosidade concreta, levando-se em a exacerbada quantidade de entorpecentes encontrada, qual seja, 3.420kg (três mil quatrocentos e vinte quilogramas) de maconha (laudos de constatação preliminar em p. 319, doc. único).
+Ressalto, a propósito, que a quantidade de droga apreendida evidencia a gravidade da conduta e, portanto, justifica a imposição da prisão preventiva para a garantia da ordem pública, conforme jurisprudência do Superior Tribunal de Justiça:
+ ..
+Vale salientar que a prisão provisória mantida não infringe o princípio constitucional da presunção de inocência, por ter caráter meramente cautelar, e se justifica, obviamente, pela presença dos requisitos contidos nos arts. 312 e 313 do CPP.
+Destarte, tenho que a providência mais acertada é a manutenção da prisão imposta, até porque tal medida de exceção poderá ser revista e revogada, a qualquer tempo, se desaparecerem os motivos que a ensejaram.
+Ante o exposto, denego a ordem.
+Tendo a necessidade de prisão cautelar sido exposta de forma fundamentada e concreta, é incabível a substituição por medidas cautelares mais brandas (RHC n. 133.153/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 21/9/2020).
+Observa-se que a quantidade e a nocividade do entorpecente apreendido (3.420kg de maconha,divididas em blocos e tabletes),sendo que foi considerada pelo Juízo de primeiro grau para a decretação da prisão preventiva e justificam a imposição da medida extrema em detrimento das demais cautelares substitutivas.
+Esse entendimento está em consonância com a jurisprudência da Quinta Turma de que a quantidade, a variedade ou a natureza das drogas apreendidas servem de fundamento para a decretação da prisão preventiva (AgRg no RHC n. 131.420/MS, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 30/9/2020; e AgRg no HC n. 590.807/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 28/9/2020).
+No mesmo sentido, o Supremo Tribunal Federal assentou que "a gravidade concreta do crime, o modus operandi da ação delituosa e a periculosidade do agente, evidenciados pela expressiva quantidade de entorpecentes apreendidos, respaldam a prisão preventiva para a garantia da ordem pública" (HC n. 130.708/SP, relatora Ministra Cármen Lúcia, Segunda Turma, DJe de 6/4/2016).
+Ressalte-se que a apreensão de elevada quantidade de drogas evidencia o envolvimento habitual do agente com a narcotraficância (AgRg no HC n. 594.158/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 27/11/2020).
+Ademais, eventuais condições subjetivas favoráveis do paciente, como residência fixa e trabalho lícito, não impedem a prisão preventiva quando preenchidos os requisitos legais para sua decretação. Essa orientação está de acordo com a jurisprudência do STJ. Vejam-se os seguintes precedentes: AgRg no HC n. 585.571/GO, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 8/9/2020; e RHC n. 127.843/MG, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 2/9/2020.
+Portanto, não se constata a existência de flagrante constrangimento ilegal que autorize a atuação ex officio.
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
