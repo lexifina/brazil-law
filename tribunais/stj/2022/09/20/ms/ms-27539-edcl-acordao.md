@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA SEÇÃO do Superior Tribunal de Justiça, em sessão virtual de 14/09/2022 a 20/09/2022, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Mauro Campbell Marques, Benedito Gonçalves, Assusete Magalhães, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Humberto Martins.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Embargos de Declaração contra acórdão assim ementado:
+PROCESSUAL CIVIL E ADMINISTRATIVO. MANDADO DE SEGURANÇA. ANISTIA DOS EX-CABOS MILITARES. IMPETRAÇÃO PELA VIÚVA. LEGITIMAÇÃO PROCESSUAL. PROCEDIMENTO DE REVISÃO. NULIDADE. NOTIFICAÇÃO GENÉRICA, EXPEDIDA SEM A OBSERVÂNCIA DO ART. 26 DA LEI 9.784/1999. ORIENTAÇÃO CONSOLIDADA NA SEÇÃO DE DIREITO PÚBLICO DO STJ.
+1. Trata-se de Mandado de Segurança ajuizado para combater atos reputados ilegais praticados em procedimento de revisão da anistia de ex-cabo militar. O procedimento citado foi instaurado em razão do julgamento, no STF, do Recurso Extraordinário 817.338/DF (Tema 839 da Repercussão Geral). A partir da notícia da decisão proferida pela Corte Suprema - ou seja, antes mesmo da publicação do acórdão  , a autoridade impetrada fez publicar a Portaria 3.076/2019, fonte imediata do procedimento de revisão das anistias.
+2. No presente momento, tem-se a interposição de Agravo Interno contra decisão concessiva da Segurança. A parte agravante afirma que, diante do falecimento do anistiado, deve ser extinto o feito em razão da natureza personalíssima do direito e da ação. Além disso, a viúva seria parte ilegítima para a impetração, por não ter comprovado a condição de inventariante ou de única beneficiária. No mérito, aduz que o procedimento de revisão da anistia observou a legislação de regência, não havendo irregularidade ou nulidade a ser decretada.
+3. A impetrante demonstrou a condição de titular da prestação mensal que pretende manter, tendo juntado aos autos comprovante dos pagamentos realizados pelo Comando da Aeronáutica (fl. 151, e-STJ). Assim, ao contrário do que alega o ente público, a impetrante ajuizou o Mandado de Segurança pleiteando o restabelecimento da pensão que a ela já vinha sendo paga em seu nome, não prosperando a assertiva de que ela carece de legitimação processual, ou de que a via eleita não seja adequada.
+4. Nesse sentido, o STJ entende que "havendo a comprovação de que a viúva impetrante era pensionista, inafastável a sua legitimidade para impetrar, em nome próprio, mandado de segurança para impugnar a anulação da anistia concedida a ex-militar" (AgInt no MS 27.842/DF, Rel. Ministro Gurgel de Faria, DJe 22/2/2022).
+5. Revendo o posicionamento adotado nas primeiras impetrações que discutiam a atuação da Administração Pública nos procedimentos revisionais concernentes à condição dos cabos anistiados (na forma da Portaria 1.104/1964), instaurados com amparo na Portaria 3.076/2019 e na decisão do STF no julgamento do Tema 839 (Repercussão Geral), a Seção de Direito Público do STJ concluiu pela sua ilegalidade, tendo em vista a nulidade do ato de notificação para defesa, por ofensa ao contraditório e à ampla defesa (art. 26, § 1º, VI, da Lei 9.784/1999), dada a utilização de expressões vagas, não descritivas dos fatos e fundamentos contra os quais o anistiado deveria apresentar defesa, nulidade essa que vicia o procedimento revisional desde tal ato e/ou, como decorrência lógica, o ato administrativo final proferido no Processo Administrativo (a Portaria de anulação da anistia).6. Em julgamentos posteriores, além de a orientação acima ter sido ratificada, acrescentou-se: a) nos Mandados de Segurança que apontam cerceamento de defesa em razão do indeferimento da produção de provas, a decretação de tal nulidade processual depende da comprovação, por parte do(a,s) impetrante(s), de que foi requerida (e indeferida) a realização de fase instrutória no contencioso administrativo; b) é nula a decisão administrativa declaratória da nulidade da anistia, quando amparada em simples Nota Técnica produzida unipessoalmente por Assessor Especial da autoridade impetrada, dada a exigência de manifestação da Comissão de Anistia (art. 12 da Lei 10.559/2002). Precedentes do STJ.
+7. Agravo Interno não provido.
+A União alega que o acórdão é omisso, pois deixou de observar que "a jurisprudência do Superior Tribunal de Justiça e do Supremo Tribunal Federal é firme no sentido de que não é cabível a sucessão de partes, ante o caráter mandamental e a natureza personalíssima da demanda, admitindo-se a habilitação, todavia, caso o feito esteja na fase de execução" (fl. 287, e-STJ).
+Não houve impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OFENSA AO ART. 1.022 DO CPC NÃO CONFIGURADA. REDISCUSSÃO DA MATÉRIA DE MÉRITO. IMPOSSIBILIDADE.
+1. A solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 1.022 do CPC.
+2. Os Embargos Declaratórios não constituem instrumento adequado para a rediscussão da matéria de mérito.
+3. Embargos de Declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 9 de agosto de 2022.
+Não se configura o vício apontado pela embargante.
+A omissão consiste na ausência de valoração a respeito de questão ou ponto controvertido relevante para a solução da lide.
+No caso dos autos, a União invoca o vício acima definido para se insurgir contra o capítulo decisório que reconheceu a legitimidade ativa da viúva, em razão de esta ter comprovado que, após o falecimento de seu marido, vinha percebendo pensão por morte.
+O ente público diz que a omissão está configurada porque o entendimento acima destoaria, a seu ver, da jurisprudência do STJ e do STF.
+Como se vê, não se aponta ausência de valoração a respeito do tema, mas sua suposta apreciação equivocada, em alegada desconformidade com outros precedentes.
+A intenção recursal, como se vê, é de buscar a reapreciação do tema, com a reforma do julgado, e não a sua complementação, para correção de um dos vícios do art. 1.022 do CPC.
+Com essas considerações, rejeito os Embargos de Declaração.
+É como voto.
