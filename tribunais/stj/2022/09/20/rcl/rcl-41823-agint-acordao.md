@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA SEÇÃO do Superior Tribunal de Justiça, em sessão virtual de 14/09/2022 a 20/09/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Raul Araújo, Paulo de Tarso Sanseverino, Maria Isabel Gallotti, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Antonio Carlos Ferreira.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (RELATOR):
+Cuida-se de agravo interno interposto por REDE RECAPEX PNEUS LTDA. contra decisão, da lavra deste signatário, acostada às fls. 75/75, que indeferiu liminarmente a presente reclamação, por ausência de seus correlatos requisitos.
+Opostos embargos de declaração (fls. 78/82), esses foram rejeitados às fls. 94/96.
+Inconformada, a autora interpõe o presente agravo interno (fls. 100/109) no qual repisa os fundamentos da exordial, destacando, por oportuno, que "(..)a determinação de suspensão de todas as demandas executivas em que se discuta a matéria afetada (penhora do faturamento) não foi observada pelo Eg. Tribunal Local, e, principalmente, que a presente demanda não é utilizada como sucedâneo recursal, pois para tal finalidade foi interposto o Recurso Especial pela Reclamante, o qual, frise-se, ainda pende de julgamento."
+Acrescenta, outrossim, que "(..)a finalidade da presente Reclamação é justamente porque o Egrégio Tribunal de Justiça do Estado de São Paulo descumpriu ordem expressa desta Corte Superior, de suspensão de casos em que haja discussão acerca da penhora do faturamento. Vale relembrar, nesse sentido, a determinação do v. acórdão de afetação."Finalmente, destaca que "(..)o fato de o recurso afetado discutir sobre o tema da penhora do faturamento em uma execução fiscal não é motivo suficiente para aplicar a técnica da distinção e descumprir a decisão de afetação (com determinação de sobrestamento)."Requer, ao final, o provimento da insurgência. (fls. 100/109)
+Impugnação juntada às fls. 112/143.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NA RECLAMAÇÃO CONSTITUCIONAL - REQUISITOS - AUSÊNCIA, NA HIPÓTESE - INSURGÊNCIA DA AUTORA.
+1.Nos termos dos artigos 105, I, "f", da Constituição Federal, 988, inc. II, do NCPC e 187 do RISTJ, somente caberá reclamação quando um órgão julgador estiver exercendo competência privativa ou exclusiva deste Tribunal ou, ainda, quando as decisões deste não estiverem sendo cumpridas por quem de direito. Ausência, na hipótese, de tais requisitos.
+2.Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (RELATOR):
+A insurgência não merece prosperar.
+1.Consoante destacado na oportunidade do julgamento unipessoal da questão,nos termos dos artigos 105, I, "f", da Constituição Federal, 988, inc. II, do NCPC e 187 do RISTJ, somente caberá reclamação quando um órgão julgador estiver exercendo competência privativa ou exclusiva deste Tribunal ou, ainda, quando as decisões deste não estiverem sendo cumpridas por quem de direito.
+De acordo com a jurisprudência da Segunda Seção do Superior Tribunal de Justiça, o ajuizamento da reclamação, que constitui medida correicional, pressupõe a existência de um comando positivo desta Corte Superior cuja eficácia deva ser assegurada, protegida e conservada (ut. Rcl 2784/SP, 2ª Seção, RelatorMinistro João Otávio de Noronha, DJ 22/05/2009; AgInt na Rcl 28.688/RJ, Rel. Min. Marco Aurélio Bellizze, DJe 29/08/2016; AgRg na Rcl 8.264/RN).
+Com esse norte hermenêutico, na hipótese dos autos, não se identifica, , a presença dos correlatos requisitos para manejo da presente reclamação, porquanto o eg. Tribunal de origem, por unanimidade de votos, em sede de agravo de instrumento, entendeu que "(..) o caso tratado naquela execução não se subsome aos temas que serão tratados nos referidos recursos especiais, uma vez que tratam especificamente de processos regidos pela Lei de Execução Fiscal."
+Acrescentou, ademais, que "(..) no presente caso, foram realizadas diversas diligências antes do pedido e do deferimento da penhora sobre o faturamento da agravada, as quais não se revelaram suficientes à satisfação integral da execução, cabendo ressaltar, inclusive, que a devedora não se dignou a oferecer outros meios de pagamento à credora. Assim, há que se reconhecer que foram esgotadas as diligências antes do deferimento da penhora deferida, de modo que, também sob esse prisma, não há que se falar que o presente caso se amolda ao quanto decidido nos recursos especiais referidos." (fls. 48/55)
+Vale destacar, ainda, que, em face de tal deliberação e a fim de reformá-la, a ora reclamante interpôs, no último dia 25/05/2021, recurso especial (ut. https://esaj. tjsp. jus. br/cposg/open. docdDocumento=49, consulta em: 28/05/2021), circunstância a evidenciar a pretensão de utilização deste expediente como sucedâneo recursal, o que é vedado pela jurisprudência desta eg. Corte Superior, a teor dos seguintes julgados:
+PROCESSO CIVIL. AGRAVO INTERNO. RECLAMAÇÃO. RAZÕES QUE NÃO ENFRENTAM O FUNDAMENTO DA DECISÃO AGRAVADA. DECISÃO QUE DEU PROVIMENTO AO ARESP DA PARTE CONTRÁRIA. SUCEDÂNEO DE RECURSO. IMPOSSIBILIDADE. CONTROLE DE TESE FIRMADA EM RECURSO REPETITIVO. NÃO CABIMENTO. PRECEDENTE DA CORTE ESPECIAL DO STJ. RCL Nº 36.476/SP.
+1. As razões do agravo interno não enfrentam adequadamente o fundamento da decisão agravada.
+2."A reclamação não é instrumento processual adequado para o exame do acerto ou desacerto da decisão impugnada, como sucedâneo de recurso" (AgInt na Rcl 40.171/PR, Relator Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 1/9/2020, DJe 9/9/2020).
+3. O STJ, por meio de sua Corte Especial, por ocasião do julgamento da Reclamação nº 36.476/SP, consagrou entendimento acerca da impossibilidade do manejo da reclamação para exame de indevida aplicação de precedente oriundo de recurso especial repetitivo.
+4. Agravo interno a que se nega provimento, com imposição de multa. AgInt na Rcl 41114/RJ, Rel. Min. Maria Isabel Gallotti, Dje de 11/05/2021.
+E ainda: AgInt na Rcl 36.756/MG, Rel. Min. Marco Aurélio Bellizze, DJe de 23/8/2019; AgInt nos EDcl na Rcl 40311/SC , Rel. Min. Paulo de Tarso Sanseverino, Dje de 18/12/2020; AgInt nos EDcl na Rcl 39268/SP, Rel. Min. Luis Felipe Salomão, Dje de 01/02/2021.
+2. Do exposto, nega-se provimento ao presente agravo interno.
+É o voto.
