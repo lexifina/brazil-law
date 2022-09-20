@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto por ALEXSANDER VASCONCELLOS RODRIGUES contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul (HC n. 5101846-96.2022.8.21.7000).
+O recorrente teve a prisão em flagrante - ocorrida em 12/11/2021 - convertida em preventiva diante de representação da autoridade policial (fl. 57), tendo sidodenunciado por suposta prática dos delitos descritos nos arts. 180, caput, e 311, caput, do Código Penal e33, caput, da Lei n. 11.343/2006,na forma do art. 69 do Código Penal;com a incidência da Lei n. 8.072/1990apenas com relação ao tráfico de drogas.
+O decreto prisional fundou-se na quantidade dos entorpecentes apreendidos - 98,78kg de maconha -e na apreensão de apetrechos para a traficância.
+Impetrado writ originário, a ordem foi denegada.
+O recorrente alega que está sendo vítima de constrangimento ilegal, pois não estão preenchidos os requisitos da custódia cautelar.
+Sustenta que as provas são ilícitas uma vez que foram obtidas em razão da violação de domicílio, sem autorização judicial ou mandado de busca e apreensão. Ademais, a expressiva quantidade de drogas apreendidas não pode ser usada para fundamentar a decisão.
+Pondera que é primário, possui residência fixa e atividade lícita.
+Argumenta que há excesso de prazo para o encerramento da instrução processual, estando preso há quase 10 meses .
+Requer a revogação da prisão preventiva ou a substituição da prisão preventiva por medidas cautelares alternativas.
+É o relatório. Decido.
+Nos casos em que a pretensão esteja em conformidade ou em contrariedade com súmula ou jurisprudência pacificada dos tribunais superiores, a Terceira Seção desta Corte admite o julgamento monocrático do recurso em habeas corpus antes da abertura de vista ao Ministério Público Federal, em atenção aos princípios da celeridade e da efetividade das decisões judiciais, sem que haja ofensa às prerrogativas institucionais do parquet ou mesmo nulidade processual (AgRg no HC n. 674.472/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 10/8/2021; AgRg no HC n. 656.521/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 26/4/2021; e AgRg no HC n. 530.261/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 7/10/2019).
+Sendo essa a hipótese dos autos, passo ao exame do mérito do recurso em habeas corpus.
+Consoante a jurisprudência do STJ, "a aferição do excesso de prazo reclama a observância da garantia da duração razoável do processo, prevista no art. 5º, LXXVIII, da Constituição Federal. Tal verificação, contudo, não se realiza de forma puramente matemática" (AgRgno RHC n. 123.274/RJ, relator MinistroAntonioSaldanha Palheiro,DJede 4/8/2020).
+Assim, devem ser sopesados o tempo de prisão provisória, as peculiaridades da causa, sua complexidade e outros fatores que eventualmente possam influenciar no curso da ação penal.
+Na situação dos autos, o Tribunal de origem manifestou-se da seguinte forma (fl. 60):
+A defesa se insurge contra o suposto excesso de prazo na formação da culpa do paciente, tendo em vista que a prisão preventiva perdura por mais de 08 (oito) meses.
+Contudo, quanto ao excesso de prazo na formação da culpa, entendo que a simples ultrapassagem dos prazos legais não é suficiente para caracterizar a ilegalidade da prisão. Para tanto, a demora na instrução há de ser injustificada e não causada pela defesa, o que não se verifica no caso em tela.
+Nesse sentido, inclusive, é o entendimento do Superior Tribunal de Justiça:
+"A questão do excesso de prazo na formação da culpa não se esgota na simples verificação aritmética dos prazos previstos na lei processual, devendo ser analisada à luz do princípio da razoabilidade, segundo as circunstâncias detalhadas de cada caso concreto" (HC 398.067/BA, Rel. Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 13/06/2017, DJe23/06/2017).
+Ademais, compulsando os autos originários, verifica-se que o processo está sendo impulsionado de forma adequada, principalmente em atenção à decisão de recebimento da denúncia que, na mesma oportunidade, aprazou a audiência de instrução e julgamento para o dia 30 de setembro de 2022 (processo 5000635-57.2022.8.21.0035/RS, evento 59, DESPADEC1).
+Assim, não há falar em excesso de prazo na formação da culpa do paciente.
+O entendimento acima está em consonância com a jurisprudência do STJ de que"os prazos processuais previstos na legislação pátria devem ser computados de maneira global e o reconhecimento do excesso deve-se pautar sempre pelos critérios da razoabilidade e da proporcionalidade (art. 5º, LXXVIII, da CF), considerando cada caso e suas particularidades" (AgRg no HC n. 588.513/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 4/8/2020)
+No que diz respeito à violação de domicílio, a questão não foi enfrentada pela instância de origem, também não foram opostos embargos de declaração para provocar a referida manifestação; a questão dos fundamentos da prisão preventivatambém não foi enfrentada pelo Tribunal de origem,tendo em vista a reiteração de pedido já apreciado em impetração anterior. Assim, o STJ não pode apreciar as matérias, sob pena de supressão de instância (RHC n. 98.880/CE, relatora Ministra Laurita Vaz, Sexta Turma,DJede 14/9/2018). Portanto, nestespontos, o recurso não merece conhecimento.
+Ante o exposto, com fundamento no art. 34, XVIII, b, do RISTJ, conheço em parte do recurso ordinário em habeas corpus e, nessa parte, nego-lhe provimento.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
