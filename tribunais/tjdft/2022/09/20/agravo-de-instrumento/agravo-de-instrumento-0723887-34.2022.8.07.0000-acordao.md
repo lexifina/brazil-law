@@ -1,0 +1,139 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+
+8ª Turma Cível
+
+Processo N.
+AGRAVO DE INSTRUMENTO 0723887-34.2022.8.07.0000
+
+AGRAVANTE(S)
+BANCO DO BRASIL SA
+
+AGRAVADO(S)
+WALTER DA SILVA SILVEIRA
+
+Relator
+Desembargador ARQUIBALDO CARNEIRO
+
+Acórdão Nº
+1619430
+
+EMENTA
+
+AGRAVO DE INSTRUMENTO. DIREITO PROCESSUAL CIVIL. EXECUÇÃO. ART. 139, IV DO CPC. SUSPENSÃO DA CARTEIRA NACIONAL DE HABILITAÇÃO – CNH E DO PASSAPORTE. MEDIDAS ATÍPICAS E EXCEPCIONAIS.
+
+1. O art. 139, IV do Código de Processo Civil dispõe que o magistrado, na condução do processo, poderá determinar todas as medidas necessárias para assegurar o cumprimento da ordem judicial.
+
+2. O c. Superior Tribunal de Justiça firmou entendimento no sentido de que as medidas executivas atípicas não devem ser adotadas de forma indiscriminada, independentemente de balizas ou meios de controle efetivos. Indicou necessário o respeito a certa margem de segurança, a qual haveria de ser estabelecida pela observância de determinadas premissas fáticas para manejo desse conjunto de possibilidades, a exemplo: o esgotamento prévio dos meios típicos de satisfação do crédito excutido; a constatação de que o devedor, apesar de possuir patrimônio, tenta frustrar sem razão o processo executivo; e a adequação de tais meios para atingimento do resultado pretendido, o que pressupõe o exercício de juízo de ponderação quanto ao emprego do instituto e a produção do efeito desejado. (REsp 1788950/MT, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 23/04/2019, DJe 26/04/2019).
+
+3. Verificada a ausência de indícios de que o executado possui patrimônio e está, injustificadamente, atuando para frustrar o cumprimento da sentença que o obriga a pagar a exequente, ora agravante, não se mostra adequada ao fim pretendido a suspensão/bloqueio da CNH e do passaporte do devedor, porquanto inexistem elementos de convicção, mínimos que sejam, indicativos de que ele esteja a ocultar seus bens.
+
+4. As medidas requeridas pelo exequente se mostram inadequadas para a satisfação do crédito, além de não representarem modo eficaz de compelir a parte executada ao pagamento do débito.
+
+5. Negou-se provimento ao agravo de instrumento.
+
+ACÓRDÃO
+
+Acordam os Senhores Desembargadores do(a) 8ª Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios, ARQUIBALDO CARNEIRO - Relator, JOSE FIRMO REIS SOUB - 1º Vogal e EUSTAQUIO DE CASTRO - 2º Vogal, sob a Presidência do Senhor Desembargador DIAULAS COSTA RIBEIRO, em proferir a seguinte decisão: Negou-se provimento ao agravo de instrumento. Unânime., de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 27 de Setembro de 2022
+
+Desembargador ARQUIBALDO CARNEIRORelator
+
+RELATÓRIO
+
+Trata-se de agravo de instrumento interposto pelo BANCO DO BRASIL SA (exequente) contra r. decisão proferida pelo ilustre Juízo da 21ª Vara Cível de Brasília, nos autos do Cumprimento de Sentença nº 0024356-89.2011.8.07.0006, ajuizado em desfavor de WALTER DA SILVA SILVEIRA, indeferiu o pedido de suspensão da Carteira Nacional de Habilitação e passaporte do Agravado.
+
+Transcrevo a r. decisão agravada (ID 128137914 dos autos de origem):
+
+“Em que pese o poder do(a) juiz(íza) em deferir medidas atípicas na execução, não se mostra adequado o deferimento de atos restritivos que não possuem, no caso concreto, expectativa alguma de satisfação da obrigação. Explico.
+
+A finalidade da execução é o cumprimento obrigacional e não a punição pessoal do devedor pelo inadimplemento. A fase da história em que as pessoas sofriam sobre seus corpos as consequências da inadimplência financeira está superada - ressalvada a possibilidade de prisão civil do devedor de alimentos.
+
+Desse modo, toda e qualquer medida atípica deve guardar relação lógica com a finalidade pretendida. Não há como derivar a conclusão de que, suspensos a CNH e o passaporte, haverá pagamento da dívida (senão eventualmente por punição corpórea, o que é vedado).
+
+No presente caso, a suspensão da CNH e a suspensão do passaporte são medidas inadequadas e ineficazes ao fim almejado.
+
+Consequentemente, indefiro o pedido de ID n. 128124369.
+
+Ademais, à parte exequente para indicar bens passíveis de penhora, no prazo de 15 dias, sob pena de suspensão do feito com base no artigo 911, inc. III do CPC”.
+
+Em suas razões recursais (ID 37431095), o Banco Agravante pontua que seria permitido ao credor valer-se de todos os meios lícitos, possíveis e à sua disposição para receber o justo crédito que possui em face do devedor.
+
+Argumenta que a suspensão da Carteira Nacional de Habilitação e passaporte do devedor seria medida eficaz para compeli-lo a adimplir o débito exequendo.
+
+Destarte, “requer-se a concessão de efeito suspensivo ativo ao presente recurso, a fim de que seja deferido liminarmente o pleito do ora Agravante e seja determinada a suspensão da Carteira Nacional de Habilitação do Agravado”.
+
+No mérito, pugna para que seja confirmada a medida liminar.
+
+Preparo devidamente recolhido (ID 37431096 - Pág. 1).
+
+A parte agravada deixou transcorrer o prazo sem apresentar contraminuta (ID 38543539).
+
+É o relatório.
+
+VOTOS
+
+O Senhor Desembargador ARQUIBALDO CARNEIRO - Relator
+Presentes os pressupostos de admissibilidade, conheço do recurso.
+
+Consoante relatado, cuida-se de agravo de instrumento interposto pelo BANCO DO BRASIL SA (exequente) contra r. decisão proferida pelo ilustre Juízo da 21ª Vara Cível de Brasília, nos autos do Cumprimento de Sentença nº 0024356-89.2011.8.07.0006, ajuizado em desfavor de WALTER DA SILVA SILVEIRA, indeferiu o pedido de suspensão da Carteira Nacional de Habilitação e passaporte do Agravado.
+
+O executado foi intimado para promover o pagamento voluntário do débito no prazo de 15 dias, mas deixou transcorrer o prazo sem efetuar o pagamento ou apresentar impugnação (IDs 108036078 e 110526030 do processo de origem).
+
+Ato contínuo, o douto juízo a quo determinou a pesquisa de bens pelo sistema BACENJUD e RENAJUD, com êxito parcial no bloqueio de valores (ID 113709065 do processo de origem). O credor informou o desinteresse na quantia bloqueada e requereu a pesquisa de bens pelo sistema INFOJUD, o que foi deferida pelo magistrado de origem (ID 116649588 do processo de origem).
+
+Ao ID 126936371 do processo de origem o magistrado de origem deferiu o pedido de cópia de eventual declaração sobre declarações imobiliárias, mas a pesquisa restou infrutífera.
+
+Logo após, o agravante/exequente requereu suspensão do passaporte e da CNH do executado, como medida constritiva indireta para pagamento voluntário do débito. Esses pedidos foram indeferidos pela decisão ora recorrida.
+
+O art. 139, inciso IV, do Código de Processo Civil, dispõe que o magistrado, na condução do processo, poderá determinar todas as medidas necessárias para assegurar o cumprimento da ordem judicial. Confira-se:
+
+"Art. 139. O juiz dirigirá o processo conforme as disposições deste Código, incumbindo-lhe: (...) IV - determinar todas as medidas indutivas, coercitivas, mandamentais ou sub-rogatórias necessárias para assegurar o cumprimento de ordem judicial, inclusive nas ações que tenham por objeto prestação pecuniária;"
+
+Nos termos do referido dispositivo legal, o atual ordenamento jurídico permite a adoção de medidas coercitivas tendentes a assegurar a efetividade da tutela jurisdicional, impondo, mesmo em caso de execução de obrigação de pagar quantia certa, restrições ao devedor, que se mostrem necessárias para assegurar o cumprimento de ordem judicial, o que a doutrina conceitua como princípio da atipicidade das medidas executivas.
+
+Contudo, essa previsão legal deve ser interpretada de forma sistemática, observando os limites impostos pelo ordenamento jurídico, não podendo se distanciar da finalidade da norma, que é coagir a parte ao cumprimento de ordem judicial, sob pena de se legitimar a imposição de verdadeiras sanções, desprovidas de substrato jurídico.
+
+O c. Superior Tribunal de Justiça, em caso similar ao ora analisado, firmou entendimento no sentido de que as medidas executivas atípicas não devem ser adotadas de forma indiscriminada, independentemente de balizas ou meios de controle efetivos. Indicou necessário o respeito a certa margem de segurança, a qual haveria de ser estabelecida pela observância de determinadas premissas fáticas para manejo desse conjunto de possibilidades, a exemplo: o esgotamento prévio dos meios típicos de satisfação do crédito excutido; a constatação de que o devedor, apesar de possuir patrimônio, tenta frustrar sem razão o processo executivo; e a adequação de tais meios para atingimento do resultado pretendido, o que pressupõe o exercício de juízo de ponderação quanto ao emprego do instituto e a produção do efeito desejado.
+
+Em voto condutor, ressaltou a Ministra Nancy Andrighi ser a possibilidade do adimplemento – ou seja, a existência de indícios mínimos que sugiram que o executado possui bens aptos a satisfazer a dívida – premissa que decorre como imperativo lógico, pois não haveria razão apta a justificar a imposição de medidas de pressão na hipótese de restar provada a inexistência de patrimônio hábil a cobrir o débito.
+
+Este o teor da ementa do referido julgado:
+
+“RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CHEQUES. VIOLAÇÃO DE DISPOSITIVO CONSTITUCIONAL. DESCABIMENTO. MEDIDAS EXECUTIVAS ATÍPICAS. ART. 139, IV, DO CPC/15. CABIMENTO. DELINEAMENTO DE DIRETRIZES A SEREM OBSERVADAS PARA SUA APLICAÇÃO. 1. Ação distribuída em 1/4/2009. Recurso especial interposto em 21/9/2018. Autos conclusos à Relatora em 7/1/2019. 2. O propósito recursal é definir se a suspensão da carteira nacional de habilitação e a retenção do passaporte do devedor de obrigação de pagar quantia são medidas viáveis de serem adotadas pelo juiz condutor do processo executivo. 3. A interposição de recurso especial não é cabível com base em suposta violação de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88. 4. O Código de Processo Civil de 2015, a fim de garantir maior celeridade e efetividade ao processo, positivou regra segundo a qual incumbe ao juiz determinar todas as medidas indutivas, coercitivas, mandamentais ou sub-rogatórias necessárias para assegurar o cumprimento de ordem judicial, inclusive nas ações que tenham por objeto prestação pecuniária (art. 139, IV). 5. A interpretação sistemática do ordenamento jurídico revela, todavia, que tal previsão legal não autoriza a adoção indiscriminada de qualquer medida executiva, independentemente de balizas ou meios de controle efetivos. 6. De acordo com o entendimento do STJ, as modernas regras de processo, ainda respaldadas pela busca da efetividade jurisdicional, em nenhuma circunstância poderão se distanciar dos ditames constitucionais, apenas sendo possível a implementação de comandos não discricionários ou que restrinjam direitos individuais de forma razoável. Precedente específico. 7. A adoção de meios executivos atípicos é cabível desde que, verificando-se a existência de indícios de que o devedor possua patrimônio expropriável, tais medidas sejam adotadas de modo subsidiário, por meio de decisão que contenha fundamentação adequada às especificidades da hipótese concreta, com observância do contraditório substancial e do postulado da proporcionalidade. 8. Situação concreta em que o Tribunal a quo indeferiu o pedido do recorrente de adoção de medidas executivas atípicas sob o fundamento de que não há sinais de que o devedor esteja ocultando patrimônio, mas sim de que não possui, de fato, bens aptos a serem expropriados. 9. Como essa circunstância se coaduna com o entendimento propugnado neste julgamento, é de rigor - à vista da impossibilidade de esta Corte revolver o conteúdo fático-probatório dos autos - a manutenção do aresto combatido. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E NÃO PROVIDO.” (REsp 1788950/MT, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 23/04/2019, DJe 26/04/2019 – grifei.)
+
+Não há nos autos indícios de que o recorrido possua patrimônio expropiável.
+
+Ademais, efetivamente, as medidas postuladas pelo agravante acarretam a prescrição de sanção por inadimplemento de obrigação firmada entre as partes, porquanto limitam o direito de ir e vir e o direito de acesso ao crédito constitucionalmente assegurado ao agravado como forma de compeli-lo a cumprir a obrigação exequenda, o que não possui amparo legal.
+
+Os pedidos de suspensão da Carteira Nacional de Habilitação e da apreensão de passaportes como medidas executivas atípicas, comumente não guardam qualquer relação com a pretensão do credor, por isso só devem ser deferidas em determinadas circunstâncias, e quando for possível concluir que serão hábeis a conferir efetividade ao processo, o que deverá ser analisado em cada demanda.
+
+Embora exista a possibilidade de aplicação de medidas executivas não previstas em lei, entendo que a execução deve ater-se à esfera patrimonial dos devedores.
+
+Ressalta-se que as medidas requeridas pelo agravante/exequente se mostram inadequadas para a satisfação do crédito e nem mesmo representa modo eficaz de compelir a parte executada ao pagamento do débito, pois não foi demonstrada qualquer circunstância fática que denote a utilização de veículo passível de penhora pelo executado ou frequência de viagens ao exterior.
+
+Nesse sentido, colaciono arestos deste colendo Tribunal de Justiça:
+
+"AGRAVO DE INSTRUMENTO. PROCESSO CIVIL. EXECUÇÃO. CUMPRIMENTO DE SENTENÇA. AUSÊNCIA DE BENS PENHORÁVEIS. APLICAÇÃO DE MEDIDAS COERCITIVAS ATÍPICAS. SUSPENSÃO DA CNH. RETENÇÃO DE PASSAPORTE. DIRETRIZES DO C. STJ. NÃO PREENCHIMENTO DOS REQUISITOS. DECISÃO MANTIDA. 1. O inciso IV do artigo 139 do CPC/15 admite a adoção de medidas indutivas ou coercitivas atípicas para assegurar o cumprimento da ordem legal, desde que a medida seja adequada e razoável. 2. Nos termos das diretrizes fixadas pelo c. STJ, "a adoção de meios executivos atípicos é cabível desde que, verificando-se a existência de indícios de que o devedor possua patrimônio expropriável, tais medidas sejam adotadas de modo subsidiário, por meio de decisão que contenha fundamentação adequada às especificidades da hipótese concreta, com observância do contraditório substancial e do postulado da proporcionalidade". Circunstâncias não configuradas na hipótese dos autos. 3. Agravo de instrumento conhecido e não provido."   (Acórdão 1381380, 07241137320218070000, Relator: Robson Teixeira de Freitas, 8ª Turma Cível, data de julgamento: 21/10/2021, publicado no DJE: 5/11/2021. Pág.: Sem Página Cadastrada.)
+
+"AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. MEDIDA EXECUTIVA ATÍPICA. SUSPENSÃO DA CNH, PASSAPORTE E BLOQUEIO DE CARTÕES DE CRÉDITO. INUTILIDADE PARA A SATISFAÇÃO DO CRÉDITO. I - A adoção das medidas executivas atípicas só é possível: a) após esgotados todos os meios típicos de satisfação da dívida; b) quando a medida for necessária, lógica e proporcional; c) mediante a implementação de comandos não discricionários ou que restrinjam direitos individuais de forma razoável; d) por decisão fundamentada e sujeita ao contraditório, demonstrando-se a excepcionalidade da medida adotada em razão da ineficácia dos meios executivos típicos. II - A suspensão da CNH e passaporte, bem como bloqueio de cartões de crédito, impedimento da expedição de novos cartões, bloqueio de serviços de telefonia/internet fixa e móvel não se apresentam como medidas lógicas e necessárias à satisfação do crédito executado, caracterizando-se mais como sanção do que como uma forma efetiva de indução do credor à quitação da dívida, além de algumas delas envolverem relações contratuais do devedor com terceiros, que não devem sofrer ingerência do Poder judiciário. III - Negou-se provimento ao recurso."  (Acórdão 1340995, 07032448920218070000, Relator: JOSÉ DIVINO, 6ª Turma Cível, data de julgamento: 12/5/2021, publicado no PJe: 2/6/2021. Pág.: Sem Página Cadastrada.)(grifei)
+
+"AGRAVO DE INSTRUMENTO. DIREITO PROCESSUAL CIVIL. PROCESSO DE EXECUÇÃO. MEDIDAS ATÍPICAS. CARÁTER SUBSIDIÁRIO. SUSPENSÃO DA CARTEIRA NACIONAL DE HABILITAÇÃO. BLOQUEIO DO CARTÃO DE CRÉDITO. APREENSÃO DO PASSAPORTE. INVIABILIDADE. RECURSO DESPROVIDO. 1. A aplicação das medidas atípicas constantes do artigo 139, inciso IV, do Código de Processo Civil, possui caráter subsidiário e deve ser realizada mediante análise do caso concreto, aferindo-se o efetivo esgotamento das medidas típicas, além da adequação da providência requerida com o fim que se pretende alcançar. 2. A suspensão da Carteira Nacional de Habilitação - CNH, o bloqueio do cartão de crédito e a apreensão do passaporte não despontam no plano fático como meios adequados aos fins almejados, tratando-se de medidas com caráter eminentemente sancionatório, ligando-se à pessoa do devedor e não propriamente à dívida. 3. Agravo de instrumento conhecido e desprovido."   (Acórdão 1247302, 07194011120198070000, Relator: EUSTÁQUIO DE CASTRO, 8ª Turma Cível, data de julgamento: 6/5/2020, publicado no DJE: 18/5/2020. Pág.: Sem Página Cadastrada.) (grifei)
+
+"AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. MEDIDAS COERCITIVAS ATÍPICAS. CPC, ART. 139, IV. SUSPENSÃO DA CNH E DE PASSAPORTE. REQUISITOS. JURISPRUDÊNCIA DO STJ. NÃO PREENCHIMENTO. 1. Nos termos do art. 139, IV do CPC, o Juiz pode determinar medidas atípicas indutivas, coercitivas, mandamentais ou sub-rogatórias para assegurar o cumprimento da determinação judicial, desde que a providência seja razoável e adequada. 2. O STJ entende que as medidas previstas no art. 139, IV do CPC condicionam-se à análise da adequação, necessidade e razoabilidade, bem como ao preenchimento dos seguintes requisitos: "i) existência de indícios de que o devedor possua patrimônio apto a cumprir com a obrigação a ele imposta; ii) decisão devidamente fundamentada com base nas especificidades constatadas; iii) a medida atípica deve ser utilizada de forma subsidiária, dada a menção de que foram promovidas diligências à exaustão para a satisfação do crédito; e iv) observância do contraditório e o postulado da proporcionalidade" (REsp 1.894.170/RS, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, julgado em 27/10/2020, DJe 12/11/2020). 3. O não preenchimento dos requisitos autorizadores inviabiliza o deferimento do pedido.  4. Recurso conhecido e não provido."  (Acórdão 1362858, 07186635220218070000, Relator: DIAULAS COSTA RIBEIRO, 8ª Turma Cível, data de julgamento: 5/8/2021, publicado no PJe: 16/8/2021. Pág.: Sem Página Cadastrada.)
+
+"CIVIL. PROCESSO CIVIL. AGRAVO DE INSTRUMENTO. EXECUÇÃO. NÃO LOCALIZAÇÃO DE BENS PENHORÁVEIS. PEDIDO DE SUSPENSÃO DA CARTEIRA NACIONAL DE HABILITAÇÃO (CNH), RESTRIÇÃO DO PASSAPORTE E BLOQUEIO DE CARTÕES DE CRÉDITO EM NOME DA PARTE DEVEDORA. MEDIDAS EXCEPCIONAIS. AUSÊNCIA DE PERTINÊNCIA E UTILIDADE. AVERIGUAÇÃO CASUÍSTICA. AGRAVO DE INSTRUMENTO DESPROVIDO. 1. Muito embora o artigo 797, caput, do Código de Processo Civil estabeleça que a execução é desenvolvida no interesse do credor, não se pode ignorar que o direito do exequente sofre limitações derivadas dos direitos do devedor, que deve ter sob proteção, entre outros, o direito de locomoção e o direito à dignidade. 2. Em que pese o artigo 139, IV, do Código de Processo Civil autorizar o Juiz a adotar medidas indutivas, coercitivas, mandamentais ou sub-rogatórias necessárias para assegurar o cumprimento de ordem judicial, inclusive nas ações que tenham por objeto prestação pecuniária, certo é que sua aplicação não é irrestrita e imediata, devendo ser demonstrada a utilidade e a pertinência da medida para a satisfação do crédito, bem como o esgotamento das medidas inerentes ao processo executivo ou à fase de cumprimento de sentença, tratando-se, em última análise, de medida excepcional. 3. Na hipótese, não se verifica, a princípio, que o pedido de adoção das graves medidas coercitivas pretendidas pelo agravante seria apto e eficaz a compelir a parte devedora a efetuar o pagamento do débito. 3.1. Não havendo qualquer circunstância fática que denote a utilização de veículo pela parte devedora, a frequência de viagens ao exterior, a medida de suspensão da CNH e do passaporte da parte executada, além de não guardar qualquer relação com o objeto da execução, em nada contribuirá para a satisfação do crédito. 3.2. O cancelamento ou bloqueio de cartão de crédito de titularidade da parte devedora, além de não apresentar qualquer pertinência com o débito cobrado, não se mostra medida apta a impelir o pagamento pela devedora. 4. Agravo de instrumento desprovido." (Acórdão 1333974, 07509093820208070000, Relator: ALFEU MACHADO, 6ª Turma Cível, data de julgamento: 14/4/2021, publicado no PJe: 11/5/2021. Pág.: Sem Página Cadastrada.)(grifei)
+
+Ante o exposto, NEGO PROVIMENTO ao agravo de instrumento para manter incólume a r. decisão hostilizada.
+
+É o meu voto.
+
+O Senhor Desembargador JOSE FIRMO REIS SOUB - 1º Vogal Com o relator
+
+O Senhor Desembargador EUSTAQUIO DE CASTRO - 2º Vogal Com o relator
+
+DECISÃO
+
+Negou-se provimento ao agravo de instrumento. Unânime.
