@@ -1,0 +1,15 @@
+DECISÃO
+Cuida-se de agravo apresentado por MARÍLIA PEREIRA e MARILÍDIA PEREIRA FIDELIS RODRIGUES contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "c", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+APELAÇÃO EXECUÇÃO POR TÍTULO EXTRAJUDICIAL SEGURO DE VIDA EM GRUPO MORTE EMBARGOS DO DEVEDOR. Indenização devida. Correção Monetária. Data da celebração do contrato (STJ EDcl. nos Edcl. no REsp. nº 1.076.138/RJ). Juros de mora. Citação. Sentença reformada em parte. RECURSO PROVIDO (fl. 385).
+Alega divergência jurisprudencial quanto à interpretação dos arts. 397 e 405 do CC, no que concerne ao termo inicial a ser considerado para fins de incidência dos juros de mora na hipótese de execução extrajudicial de seguro de vida, o qual, segundo o recorrente, deve ser a partir da "data da negativa de cobertura securitária" (fl. 393). Aponta como paradigma o acórdão proferido pelo TJPR no julgamento da apelação cível n. 962.097-7 e traz os seguintes argumentos:
+ ..  o acórdão paradigma decidiu, por tratar-se de execução extrajudicial a incidência dos juros de mora deverá incidir nos moldes do artigo 397 do código civil.
+"Quanto ao termo inicial de incidência dos juros de mora, deve ser preservado o disposto em sentença, qual seja, a data da recusa do pagamento do seguro (14.03.2005), por se tratar de obrigação positiva e líquida, nos moldes do previsto no artigo 397 do Código Civil."
+Desta maneira fica claro que, em casos de extrema semelhança, o acórdão recorrido aplicou o artigo 405 do Código Civil (juros da citação) enquanto o acórdão paradigma, aplicou o artigo 397 (juros do inadimplemento " recusa do pagamento) - (fl. 394).
+É, no essencial, o relatório. Decido.
+Na espécie, verifica-se que a tese recursal que serve de base para o dissídio jurisprudencial não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente.
+Dessa forma, reconhecida a ausência de prequestionamento da tese recursal objeto da divergência, inviável a demonstração do referido dissenso em razão da inexistência de identidade entre os arestos confrontados, requisito indispensável ao conhecimento do recurso especial pela alínea "c" do permissivo constitucional.
+Nesse sentido: "A ausência de debate, no acórdão recorrido, acerca da tese recursal, também inviabiliza o conhecimento do recurso especial pela divergência jurisprudencial, pois, sem discussão prévia pela instância pretérita, fica inviabilizada a demonstração de que houve adoção de interpretação diversa". (AgRg no AREsp n. 1.800.432/DF, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 25/03/2021.)
+Sobre o tema, confira-se ainda o seguinte julgado: AgInt no AREsp n. 1.516.702/BA, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 17/12/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
